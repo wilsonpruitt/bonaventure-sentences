@@ -5,6 +5,7 @@ node_modules/
 # Raw source material (large binary / OCR dumps — keep local, out of git)
 raw/*.pdf
 raw/*_raw.txt
+raw/vision/
 
 # Python caches
 **/__pycache__/
