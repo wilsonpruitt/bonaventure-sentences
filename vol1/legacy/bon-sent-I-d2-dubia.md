@@ -4,27 +4,15 @@ volume: 1
 book: 1
 distinctio: 2
 type: dubia
-title_la: "Dubia circa litteram Magistri, Distinctio II"
-title_en: "Doubts concerning the text of the Master, Distinction II"
-printed_pages: [58, 59, 60, 61, 62]
-pdf_pages: [160, 161, 162, 163, 164]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 58–62"
-has_scholion: true
-has_apparatus: true
-transcription_status: "scaffolded, Latin body from legacy raw OCR, English pending"
-format_version: 1
+title: "I Sent., d. 2, dubia"
+line_start: 18084
+line_end: 19263
+word_count_latin: 7815
 ---
 
-# I Sent., d. 2, Dubia
-## *Dubia circa litteram Magistri, Distinctio II*
+# I Sent., d. 2, dubia
 
----
-
-## Latin
-
-<!-- page 58 -->
-
-<!-- BEGIN legacy raw OCR — clean against the extracted page images and insert <!-- page N --> comments at each printed-page boundary. Remove this begin/end marker once the body is clean. -->
+### Latin
 
 DIST. II. DUB1.\.
 
@@ -544,32 +532,10 @@ qua vide Aristot., IX. Metaph. text. 16. (VIII. 8.); et supponitur ab Aristot., 
 ubi dicit, animam esse locum formarum, ipsam cognoscendo
 quodammodo esse omnia, in ipsa non esse ipsas res, sed formas earum intellectumque esse formam formarum.
 
-<!-- END legacy raw OCR -->
+### English
 
-### Scholion
+[Translation pending]
 
-*[Scholion text pending, typically at the end of the question on printed p. 62]*
+### Notes
 
----
-
-## English
-
-*[Translation pending.]*
-
----
-
-## Apparatus
-
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering produced by `tools/apparatus-translate.py` (with manual polish where the script's draft was awkward).
-
-*[Apparatus entries pending. Extract from the bottom of each printed page and run `python3.11 tools/apparatus-translate.py` on the block to get draft English.]*
-
----
-
-## Notes
-
-- **Chunk scope.** This chunk covers I Sent., d. 2, Dubia on printed pp. 58–62 (PDF pp. 160–164).
-
-- **Key terms** (per project glossary): *[list project-glossary terms that appear in this chunk — see `translation-prompt.md`]*.
-
-- **Vision transcription status.** Scaffolded from legacy raw OCR (`bon-sent-I-d2-dubia.md`). The Latin body in this file should be cleaned against the extracted page images in `raw/vision/vol1/p-NNN.png` for pp. 58–62 before the translation pass, and the transcription_status field in the frontmatter should be updated to `"first-pass vision, pending final verification"` once that cleanup is done.
+[Notes pending]
