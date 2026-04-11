@@ -144,6 +144,52 @@ def restore_sigla(text: str, placeholders: dict[str, str]) -> str:
 
 
 # ----------------------------------------------------------------------------
+# Italic-span protection (v2): freeze everything wrapped in *...* so that
+# lexicon substitution and pattern matching can't touch it.
+#
+# In the Quaracchi apparatus, italics mark three distinct things:
+#   1. Latin work titles: *De praedicamentis*, *Summa theologiae*, *Metaph.*
+#   2. Quoted variant readings: "cod. B legit *assumendo* pro *assumere*"
+#   3. Lemmata from the main text being glossed
+#
+# None of these should be translated — they need to survive the pipeline
+# verbatim. Protection uses the same placeholder mechanism as sigla protection,
+# but with a distinct marker (§§i§§) so sigla and italics don't collide.
+# ----------------------------------------------------------------------------
+
+ITALIC_RE = re.compile(r"\*([^*\n]+)\*")
+
+
+def protect_italics(text: str, start_index: int = 0) -> tuple[str, dict[str, str]]:
+    """
+    Replace *italic spans* with placeholders of the form §§iN§§. Returns
+    (text, placeholder_map). The stars are preserved in the stored value so
+    restoration yields a perfect round-trip.
+
+    The optional `start_index` lets a second pass (run after pattern handlers
+    emit new italic spans) avoid key collisions with the first pass's
+    placeholders.
+    """
+    placeholders: dict[str, str] = {}
+    counter = [start_index]
+
+    def repl(m: re.Match) -> str:
+        counter[0] += 1
+        key = f"§§i{counter[0]}§§"
+        placeholders[key] = m.group(0)
+        return key
+
+    out = ITALIC_RE.sub(repl, text)
+    return out, placeholders
+
+
+def restore_italics(text: str, placeholders: dict[str, str]) -> str:
+    for key, original in placeholders.items():
+        text = text.replace(key, original)
+    return text
+
+
+# ----------------------------------------------------------------------------
 # Cleanup of common OCR artifacts that leak into the apparatus
 # ----------------------------------------------------------------------------
 
@@ -307,6 +353,108 @@ def _handle_ad_n(m: re.Match) -> str:
     return f"reply to obj. {m.group(1)}"
 
 
+# --- v2 handlers -----------------------------------------------------------
+
+def _handle_de_title(m: re.Match) -> str:
+    """
+    "De <title>" where <title> is an italic-protected placeholder or a
+    recognized abbreviation. Render as "On <title>" without translating the
+    title itself. This exists so that Aristotelian and Augustinian work
+    titles like *De praedicamentis* survive the pipeline.
+    """
+    title = m.group("title")
+    return f"On {title}"
+
+
+def _handle_videri_non_debet(m: re.Match) -> str:
+    return "ought not to be understood"
+
+
+def _handle_videri_debet(m: re.Match) -> str:
+    return "ought to be understood"
+
+
+def _handle_patet_ex(m: re.Match) -> str:
+    src = m.group("src").strip()
+    return f"is clear from {src}"
+
+
+def _handle_sensu_eodem(m: re.Match) -> str:
+    return "in the same sense"
+
+
+def _handle_eodem_modo(m: re.Match) -> str:
+    return "in the same way"
+
+
+def _handle_aliter_aliter(m: re.Match) -> str:
+    return "one way... another way"
+
+
+def _handle_ad_verbum(m: re.Match) -> str:
+    return "word-for-word"
+
+
+def _italicize_if_bare(word: str) -> str:
+    """
+    Wrap a captured word in *italics* unless it's already an italic
+    placeholder (§§iN§§). Used by ablative-absolute handlers so that the
+    preserved Latin token can't be lexicon-substituted in a later pass.
+    """
+    word = word.strip()
+    if word.startswith("§§") and word.endswith("§§"):
+        return word
+    return f"*{word}*"
+
+
+def _handle_ablative_absolute_omisso(m: re.Match) -> str:
+    """
+    "omisso <word>" → "with <word> omitted". Ablative absolute with omitto.
+    """
+    word = _italicize_if_bare(m.group("word"))
+    return f"with {word} omitted"
+
+
+def _handle_ablative_absolute_addito(m: re.Match) -> str:
+    """
+    "addito <word>" → "with <word> added".
+    """
+    word = _italicize_if_bare(m.group("word"))
+    return f"with {word} added"
+
+
+def _handle_ablative_absolute_mutato(m: re.Match) -> str:
+    """
+    "mutato <word>" → "with <word> changed".
+    """
+    word = _italicize_if_bare(m.group("word"))
+    return f"with {word} changed"
+
+
+def _handle_ablative_absolute_posito(m: re.Match) -> str:
+    """
+    "posito <word>" → "with <word> set [in its place]".
+    """
+    word = _italicize_if_bare(m.group("word"))
+    return f"with {word} set [in place]"
+
+
+def _handle_scilicet_lemma(m: re.Match) -> str:
+    return "namely"
+
+
+def _handle_videsis(m: re.Match) -> str:
+    return "see"
+
+
+def _handle_et_passim(m: re.Match) -> str:
+    return "and throughout"
+
+
+def _handle_apud(m: re.Match) -> str:
+    return "in"
+
+
 PATTERNS = [
     # Citation structures (more specific first)
     (re.compile(
@@ -362,7 +510,8 @@ PATTERNS = [
     (re.compile(r"\bv\.\s+supra\b", re.IGNORECASE), _handle_vide_supra),
     (re.compile(r"\bv\.\s+infra\b", re.IGNORECASE), _handle_vide_infra),
     (re.compile(r"\bloc\.\s*cit\b", re.IGNORECASE), _handle_loc_cit),
-    (re.compile(r"\bibid(?:em)?\b", re.IGNORECASE), _handle_ibid),
+    # "Ibid." / "Ibidem" — consume trailing period to avoid double punctuation
+    (re.compile(r"\bibid(?:em)?\.?", re.IGNORECASE), _handle_ibid),
 
     # Positional phrases (textus variants match before plain ones)
     (re.compile(r"\bin\s+fine\s+textus\b", re.IGNORECASE), _handle_in_fine_textus),
@@ -372,6 +521,45 @@ PATTERNS = [
     (re.compile(r"\bpaulo\s+post\b", re.IGNORECASE), _handle_paulo_post),
     (re.compile(r"\bin\s+fine\b", re.IGNORECASE), _handle_in_fine),
     (re.compile(r"\bin\s+principio\b", re.IGNORECASE), _handle_in_principio),
+
+    # --- v2: work titles, idioms, ablative absolutes ------------------------
+
+    # "De <italic-placeholder-or-abbreviation>" — render as "On <title>"
+    # without translating the title. Runs AFTER italic protection, so italic
+    # titles appear as §§iN§§ placeholders at this stage.
+    (re.compile(
+        r"\bDe\s+(?P<title>§§i\d+§§|[A-Z][a-zA-Z]*\.?(?:\s+[a-z]+\.?)?)",
+    ), _handle_de_title),
+
+    # Common Latin idioms that lexicon-substitution would otherwise fragment.
+    (re.compile(r"\bvideri\s+non\s+debet\b", re.IGNORECASE), _handle_videri_non_debet),
+    (re.compile(r"\bvideri\s+debet\b", re.IGNORECASE), _handle_videri_debet),
+    (re.compile(r"\bpatet\s+ex\s+(?P<src>§§\w+§§|[a-zA-Z., ]+?)(?=[;.,]|$)",
+                re.IGNORECASE), _handle_patet_ex),
+    (re.compile(r"\bsensu\s+eodem\b", re.IGNORECASE), _handle_sensu_eodem),
+    (re.compile(r"\beodem\s+sensu\b", re.IGNORECASE), _handle_sensu_eodem),
+    (re.compile(r"\beodem\s+modo\b", re.IGNORECASE), _handle_eodem_modo),
+    (re.compile(r"\baliter\s+et\s+aliter\b", re.IGNORECASE), _handle_aliter_aliter),
+    (re.compile(r"\bad\s+verbum\b", re.IGNORECASE), _handle_ad_verbum),
+    (re.compile(r"\bet\s+passim\b", re.IGNORECASE), _handle_et_passim),
+    (re.compile(r"\bvidesis\b", re.IGNORECASE), _handle_videsis),
+
+    # Ablative absolutes: "<participle> <noun>" → "with <noun> <done>".
+    # Scoped to a small set of participles that actually occur in the
+    # apparatus (omisso, addito, mutato, posito). Noun is captured greedily
+    # until punctuation.
+    (re.compile(
+        r"\bomisso\s+(?P<word>§§\w+§§|[a-zA-Z]+(?:\s+[a-z]+)?)",
+    ), _handle_ablative_absolute_omisso),
+    (re.compile(
+        r"\baddito\s+(?P<word>§§\w+§§|[a-zA-Z]+(?:\s+[a-z]+)?)",
+    ), _handle_ablative_absolute_addito),
+    (re.compile(
+        r"\bmutato\s+(?P<word>§§\w+§§|[a-zA-Z]+(?:\s+[a-z]+)?)",
+    ), _handle_ablative_absolute_mutato),
+    (re.compile(
+        r"\bposito\s+(?P<word>§§\w+§§|[a-zA-Z]+(?:\s+[a-z]+)?)",
+    ), _handle_ablative_absolute_posito),
 ]
 
 
@@ -525,19 +713,37 @@ def translate_entry(entry: Entry) -> Entry:
     """Translate a single apparatus entry in place."""
     entry.la = normalize(entry.la)
 
+    # v2: Protect italic spans FIRST — work titles, quoted variant readings,
+    # and lemmata must survive the pipeline verbatim. Italics are protected
+    # before sigla because sigla phrases sometimes appear inside italics
+    # (e.g. "*cod. B*" in a footnote about a codex), but we want the outer
+    # italics to dominate.
+    current, italic_placeholders = protect_italics(entry.la)
+
     # Protect sigla (ms. letters, edition numbers) from lexicon substitution.
-    protected, placeholders = protect_sigla(entry.la)
-    current = protected
+    current, sigla_placeholders = protect_sigla(current)
 
     # Apply sentence patterns — each replaces its matching span with English.
     for pattern, handler in PATTERNS:
         current = pattern.sub(lambda m, h=handler: h(m), current)
 
+    # v2: Second italic-protection pass. Some handlers (notably the ablative
+    # absolute family: omisso, addito, mutato, posito) emit new *word* spans
+    # around preserved Latin tokens. These need protection before the lexicon
+    # fallback, or the lexicon will happily substitute "etiam" → "also"
+    # inside "*etiam*" and produce "*also*". Start the second pass's counter
+    # past the first pass's highest index to avoid key collisions.
+    first_pass_max = len(italic_placeholders)
+    current, new_italic_placeholders = protect_italics(current, start_index=first_pass_max)
+    italic_placeholders.update(new_italic_placeholders)
+
     # Fallback lexicon substitution for remaining tokens.
     current, unhandled = lexicon_substitute(current)
 
-    # Restore protected sigla.
-    current = restore_sigla(current, placeholders)
+    # Restore protected sigla and italics (in reverse order — italics last
+    # since they were protected first).
+    current = restore_sigla(current, sigla_placeholders)
+    current = restore_italics(current, italic_placeholders)
 
     # Light English cleanup
     current = re.sub(r"\s{2,}", " ", current).strip()
