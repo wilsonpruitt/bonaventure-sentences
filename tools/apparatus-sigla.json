@@ -1,38 +1,112 @@
 {
   "_schema": {
-    "version": 1,
-    "description": "Per-volume manuscript and edition sigla used in the Quaracchi Opera Omnia of Bonaventure. Each volume in the Quaracchi edition has its own sigla key printed in its prolegomena; entries here should be populated from that key. A later script can aggregate all volumes into a cross-reference glossary once the project is complete.",
-    "population_strategy": "Start with entries encountered in apparatus during translation. As each volume's prolegomena is re-OCR'd, populate the full sigla key for that volume in one pass."
+    "version": 2,
+    "description": "Per-volume manuscript and edition sigla used in the Quaracchi Opera Omnia of Bonaventure. Each volume in the Quaracchi edition has its own sigla key printed in its prolegomena (Tabula collatorum codicum et editionum); entries here are populated from that key. The vol1 sub-tree distinguishes the sigla used for Bonaventure's commentary itself from the sigla used for Peter Lombard's Sentences text, which are different sets — the commentary sigla are for apparatus attached to Bonaventure's prose, and the Lombard sigla are for apparatus attached to the Littera Magistri chunks only.",
+    "population_strategy": "Populate each volume's sigla tables in one pass from the prolegomena. As new sigla appear in the body apparatus that are not in the prolegomena tables (e.g. 'Vat.' for the Quaracchi editors' own conjectural reading), add them to the _special section with a note on their usage."
   },
   "vol1": {
     "_meta": {
       "title": "Opera Omnia, Tomus I — Commentarius in I Librum Sententiarum",
       "year": 1882,
-      "editor": "PP. Collegii a S. Bonaventura",
+      "editor": "PP. Collegii a S. Bonaventura (Quaracchi)",
       "ia_identifier": "doctorisseraphic11bona",
       "prolegomena_pages": "I–XCVI",
-      "sigla_key_location": "Prolegomena, pp. LXXXIX–XCVI (to be verified on re-OCR)",
-      "populated": false
+      "sigla_key_location": "Prolegomena, pp. LXXXVII–LXXXVIII (Tabula collatorum codicum et editionum)",
+      "populated": true,
+      "populated_date": "2026-04-11",
+      "notes": "Two tables are printed in the prolegomena: one for Bonaventure's commentary (LXXXVII) and one for Peter Lombard's Sentences text (LXXXVIII). The commentary table uses single capital letters A–Z plus double letters aa–kk for 35 codices; the Lombard table reuses single capital letters A–E for a smaller set of five codices from Florence. The numbers in parentheses in the commentary table refer to the location in Prolegomena ch. II, §1 (pp. LXXXI–LXXXVI) where each codex is individually described."
     },
     "manuscripts": {
-      "A": { "description": "(pending — populate from prolegomena)" },
-      "B": { "description": "(pending — populate from prolegomena)" },
-      "C": { "description": "(pending — populate from prolegomena)" },
-      "D": { "description": "(pending — populate from prolegomena)" },
-      "E": { "description": "(pending — populate from prolegomena)" },
-      "F": { "description": "(pending — populate from prolegomena)" }
+      "A": { "description": "Cod. Assisiensis 42", "location": "Assisi", "index": 1 },
+      "B": { "description": "Vaticanus 907", "location": "Vatican", "index": 31 },
+      "C": { "description": "Parisiensis I. Nation. 17480", "location": "Paris, Bibl. Nationale", "index": 25 },
+      "D": { "description": "Vaticanus 908", "location": "Vatican", "index": 32 },
+      "E": { "description": "Bonanus Chisian. B. VIII. 138", "location": "Rome, Chisian Library", "index": 33 },
+      "F": { "description": "Florentinus I. C. VI. Nation. 200", "location": "Florence, Bibl. Nationale", "index": 6 },
+      "G": { "description": "Florentinus II. Nation. D. V. 206", "location": "Florence, Bibl. Nationale", "index": 7 },
+      "H": { "description": "Florentinus III. Nation. D. V. 207", "location": "Florence, Bibl. Nationale", "index": 8 },
+      "I": { "description": "Florentinus IV. Nation. I. VII. 7. 45", "location": "Florence, Bibl. Nationale", "index": 9 },
+      "K": { "description": "Florentinus V. Laurent. plut. dext. XXV. 2", "location": "Florence, Bibl. Laurenziana", "index": 11 },
+      "L": { "description": "Oxoniensis I. Colleg. Lincoln. 25", "location": "Oxford, Lincoln College", "index": 22 },
+      "M": { "description": "Cassinensis 398", "location": "Montecassino", "index": 18 },
+      "N": { "description": "Neapolitanus Nation. VII. B. 28", "location": "Naples, Bibl. Nationale", "index": 20 },
+      "O": { "description": "Oxoniensis II. Colleg. Balliol. 128", "location": "Oxford, Balliol College", "index": 21 },
+      "P": { "description": "Patavinus I. Convent. S. Ant. 198", "location": "Padua, S. Antonio", "index": 27 },
+      "Q": { "description": "Patavinus II. Convent. S. Ant. 125", "location": "Padua, S. Antonio", "index": 28 },
+      "R": { "description": "Parisiensis II. Nation. 3085", "location": "Paris, Bibl. Nationale", "index": 23 },
+      "T": { "description": "Tudertinus 39", "location": "Todi", "index": 34 },
+      "U": { "description": "Parisiensis IV. Sorb. Th. II. 48", "location": "Paris, Sorbonne", "index": 26 },
+      "V": { "description": "Mediolanensis Ambros. H. 95 infer.", "location": "Milan, Ambrosiana", "index": 14 },
+      "W": { "description": "Monacensis I. Reg. C. L. M. 14086", "location": "Munich, Royal Library", "index": 16 },
+      "X": { "description": "Monacensis II. Reg. C. L. M. 18344", "location": "Munich, Royal Library", "index": 17 },
+      "Y": { "description": "Bambergensis Civit. B. III. 42", "location": "Bamberg, Civic Library", "index": 2 },
+      "Z": { "description": "Lipsiensis Univers. 491", "location": "Leipzig, University Library", "index": 13 },
+      "aa": { "description": "Cracoviensis I. Univers. 1246. DD. XIV.", "location": "Kraków, University Library", "index": 4 },
+      "bb": { "description": "Cracoviensis II. Univers. 1252. A. A. XI. 16", "location": "Kraków, University Library", "index": 5 },
+      "cc": { "description": "In Collegio S. Bonaventurae", "location": "Quaracchi, Collegio S. Bonaventura", "index": 35 },
+      "dd": { "description": "Monacensis III. Reg. C. L. M. 8079", "location": "Munich, Royal Library", "index": 15 },
+      "ee": { "description": "Florentinus VI. Laurent. LXX. Fes.", "location": "Florence, Bibl. Laurenziana", "index": 12 },
+      "ff": { "description": "Florentinus VII. Nation. C. VI. 998", "location": "Florence, Bibl. Nationale", "index": 10 },
+      "gg": { "description": "Patavinus III. Conv. S. Ant. 148", "location": "Padua, S. Antonio", "index": 29 },
+      "hh": { "description": "Patavinus IV. Conv. S. Ant. 148", "location": "Padua, S. Antonio", "index": 30 },
+      "ii": { "description": "Mutinensis Atestin. 974. VII. J. 14", "location": "Modena, Biblioteca Estense", "index": 19 },
+      "kk": { "description": "Bononiensis Colleg. Hisp. 35", "location": "Bologna, Collegio di Spagna", "index": 3 }
     },
     "editions": {
-      "ed. 1": { "description": "Editio princeps (pending — populate from prolegomena)" },
-      "ed. 2": { "description": "(pending — populate from prolegomena)" },
-      "ed. 3": { "description": "(pending — populate from prolegomena)" },
-      "ed. 4": { "description": "(pending — populate from prolegomena)" },
-      "ed. 5": { "description": "(pending — populate from prolegomena)" },
-      "ed. 6": { "description": "(pending — populate from prolegomena)" },
-      "ed. 7": { "description": "(pending — populate from prolegomena)" },
-      "ed. 8": { "description": "(pending — populate from prolegomena)" },
-      "Vat.": { "description": "Vatican edition (pending — populate from prolegomena)" },
-      "orig.": { "description": "Original (autograph or earliest exemplar)" }
+      "ed. 1": { "description": "Brixiae 1490 (Editio princeps)", "year": 1490, "place": "Brescia" },
+      "ed. 2": { "description": "Norimbergae 1492", "year": 1492, "place": "Nuremberg" },
+      "ed. 3": { "description": "Venetis I. 1562", "year": 1562, "place": "Venice (first Venetian ed.)" },
+      "ed. 4": { "description": "Venetis II. 1673", "year": 1673, "place": "Venice (second Venetian ed.)" },
+      "ed. 5": { "description": "Venetis III. 1580", "year": 1580, "place": "Venice (third Venetian ed.)" },
+      "ed. 6": { "description": "Lugduni 1570", "year": 1570, "place": "Lyon" }
+    },
+    "_special": {
+      "Vat.": { "description": "The Quaracchi editors' own critical reading (their base text). Despite the name, this does NOT refer to a Vatican codex — two Vatican codices are cited as 'B' and 'D'. 'Vat.' in the apparatus means 'as read in our Vatican-collated edition,' i.e., the Quaracchi consensus reading." },
+      "orig.": { "description": "The originale or archetypal text — the earliest witness to a given reading, as reconstructed by the Quaracchi editors." },
+      "textus": { "description": "The main body text as printed in the current edition." },
+      "codd.": { "description": "Plural of cod.; refers to two or more of the manuscripts above." },
+      "edd.": { "description": "Plural of ed.; refers to two or more of the printed editions above." }
+    }
+  },
+  "vol1_sentences_text": {
+    "_meta": {
+      "title": "Text of Peter Lombard's Sentences (Liber Sententiarum) — used only in the Littera Magistri chunks",
+      "sigla_key_location": "Quaracchi Vol I Prolegomena p. LXXXVIII",
+      "populated": true,
+      "populated_date": "2026-04-11",
+      "notes": "These sigla are used ONLY in apparatus entries attached to Peter Lombard's own text (the Littera Magistri chunks that open each distinction), not in the body apparatus of Bonaventure's commentary. The single-letter sigla A–E are Florentine codices from S. Marco and the former Abbazia Fiorentina; F–T are additional codices from the Biblioteca Laurenziana and Padua S. Antonio, used for the chapter titles (capitula) that follow the Prologue. Note that these letters collide with the commentary-text sigla above — context determines which table applies."
+    },
+    "manuscripts": {
+      "A": { "description": "Cod. VI. 27. S. Marci", "location": "Florence, S. Marco" },
+      "B": { "description": "Cod. VI. 28. S. Marci", "location": "Florence, S. Marco" },
+      "C": { "description": "Cod. VI. 22. S. Marci", "location": "Florence, S. Marco" },
+      "D": { "description": "Cod. 2599. B. 1 (olim Abbadiae Florentinae)", "location": "Florence, ex-Abbazia Fiorentina" },
+      "E": { "description": "Cod. 2559. A. 4 (olim Abbadiae Florentinae); saec. XV, splendidly written but of lesser critical value than A–D", "location": "Florence, ex-Abbazia Fiorentina" },
+      "F": { "description": "Laurent. plut. 21, cod. 24", "location": "Florence, Bibl. Laurenziana" },
+      "G": { "description": "Laurent. plut. 21, cod. 26", "location": "Florence, Bibl. Laurenziana" },
+      "H": { "description": "Laurent. plut. 21, cod. 27", "location": "Florence, Bibl. Laurenziana" },
+      "I": { "description": "Laurent. plut. 28. dext. cod. 2", "location": "Florence, Bibl. Laurenziana" },
+      "K": { "description": "Laurent. plut. 24. dext. cod. 1 (S. Crucis)", "location": "Florence, Bibl. Laurenziana (S. Croce)" },
+      "L": { "description": "Laurent. plut. 30. dext. cod. 1", "location": "Florence, Bibl. Laurenziana" },
+      "M": { "description": "Laurent. plut. 25, cod. 1 (S. Crucis)", "location": "Florence, Bibl. Laurenziana (S. Croce)" },
+      "N": { "description": "Laurent. plut. 25, cod. 3 (S. Crucis)", "location": "Florence, Bibl. Laurenziana (S. Croce)" },
+      "O": { "description": "Laurent. Gaddian. cod. 39", "location": "Florence, Bibl. Laurenziana (Gaddian)" },
+      "P": { "description": "Patavinus N. VIII. cod. 151", "location": "Padua, S. Antonio" },
+      "Q": { "description": "Patavinus N. VIII. cod. 156", "location": "Padua, S. Antonio" },
+      "R": { "description": "Patavinus N. VIII. cod. 139", "location": "Padua, S. Antonio" },
+      "S": { "description": "Patavinus N. VIII. cod. 149", "location": "Padua, S. Antonio" },
+      "T": { "description": "Patavinus N. VIII. cod. 180", "location": "Padua, S. Antonio" }
+    },
+    "editions": {
+      "ed. 1": { "description": "Venetian ed. 1481", "year": 1481, "place": "Venice" },
+      "ed. 2": { "description": "Nuremberg ed. 1499 (Koberger, with Bonaventure's commentary)", "year": 1499, "place": "Nuremberg" },
+      "ed. 3": { "description": "Venetian ed. 1509 (with Richard's commentary)", "year": 1509, "place": "Venice" },
+      "ed. 4": { "description": "Lyonese ed. 1540", "year": 1540, "place": "Lyon" },
+      "ed. 5": { "description": "Cologne ed. 1535 (with Dionysius the Carthusian's commentary)", "year": 1535, "place": "Cologne" },
+      "ed. 6": { "description": "Lyonese ed. 1639 (with Scotus's commentary)", "year": 1639, "place": "Lyon" },
+      "ed. 7": { "description": "Venetian ed. 1489", "year": 1489, "place": "Venice" },
+      "ed. 8": { "description": "Parisian ed. 1659 (with Thomas Aquinas's commentary)", "year": 1659, "place": "Paris" },
+      "ed. 9": { "description": "Basel ed. 1513", "year": 1513, "place": "Basel" }
     }
   },
   "vol1_part2": {
