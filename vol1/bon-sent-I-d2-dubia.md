@@ -6,12 +6,12 @@ distinctio: 2
 type: dubia
 title_la: "Dubia circa litteram Magistri, Distinctio II"
 title_en: "Doubts concerning the text of the Master, Distinction II"
-printed_pages: [58, 59, 60, 61, 62]
-pdf_pages: [160, 161, 162, 163, 164]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 58–62"
-has_scholion: true
+printed_pages: [59, 60, 61, 62]
+pdf_pages: [161, 162, 163, 164]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 59–62"
+has_scholion: false
 has_apparatus: true
-transcription_status: "scaffolded, Latin body from legacy raw OCR, English pending"
+transcription_status: "first-pass vision, pending final verification"
 format_version: 1
 ---
 
@@ -22,554 +22,272 @@ format_version: 1
 
 ## Latin
 
-<!-- page 58 -->
-
-<!-- BEGIN legacy raw OCR — clean against the extracted page images and insert <!-- page N --> comments at each printed-page boundary. Remove this begin/end marker once the body is clean. -->
+<!-- page 59 -->
 
-DIST. II. DUB1.\.
-
-
-cundnin partem. Similitudo secundum accidem, vel
-secundum partem substantiae admittit diversitatem ' ;
-sed non similitudo secundum totum. Et quoniam in
-divina essentia est summa simplicitas , ideo non potest
-esse similitudo secundum accidens neque secundum
-parteni : et ideo similitudo non compatitur diversitatem naturae ^
-
-DuB. VII.
-
-Item obiicitur de hoc quod dicit Magister: Sicinificav.it, nomine consortii iwn poni aliquid, sed
-removeri, quia ex hoc videtur, quod omnis numeralis dictio secundum ipsum nihil ponit, sed tantum
-privat; sed hoc videtur falsum. Cum enim in divinis sit vera pluralitas personarum , non tantum pri-
-vative, sed etiam positive videntur ^ dici.
-
-Respondeo : Haec fuit positio Magistri , quae
-communiter non tenetur , quia non habet veritatem ,
-sicut infra melius patebit \ Tamen Magister excusatur, quia dixit, quod non ponunt aliquid nomina
-numeralia, quia important numerum, qui non est
-proprie in divinis. Numerus enim causatur ex unitatum aggregatione et distinctione ; et distinctio uni-
-tatum fit tripliciter: continui divisione, formarum
-disparatione ^ , gradu sive ordine. Quoniam igitur
-in divinis non est aggregatio nec talis " distinctio ,
-ideo nec numerus proprie.
-
-DuB. VIII.
-
-Item quaeritur de hoc quod dicit : In principio
-creavit Deus, quare magis hoc nomen Deus stet
-
-
-Respondeo : Spiritus prophetiae , in maiori abundantia datus, prophetam Domini facit excellentio-
-rem. Potest ergo dupliciter dari in maiori abundantia : aut quia ad plura , aut quia ad alliora. Eliae
-datus est ad plura , quia ad futurorum praevisionem
-et miraculorum operationem; sed David ad altiora,
-quia, sicut patet ex eius prophetia , plura vidit et"
-clarius, quia prophetia intellectuali.
-
-DuB. X.
-
-Item obiicitur de hoc quod dicit: Dominus
-possedit me; quia possessio est rei inferioris, ordo
-
-
-contra Adimantum, Manichaei ■ discipulum, c. 28. ^ De quaestione: quis fuerit simpliciter mammus Prophetarum,, vidp S.
-Thom., S. II. II. q. 174. a. 4, ubi dicit; quod lieet quantum
-ad aliquid pliquis alius Prciphetarum fuerit maior Moyse , simpliciter tamen Moyses fuit omnibus aliis maior. Lyranus in
-praefatione super Psalterium rationes S. Thomae nititur infringere ; Dionys. Carth. in prooemio Expos. in Psalmos
-opiniones reconciliare conatur.
-
-
-SENTENTIARUM
-
-rei posterioris, couceptio similiter soiiat in sexns
-fragilitatem et partus similiter ; quae ' non conveniunt divinis.
-
-Respondeo: Sapientia describitur per comparationem ad effectus et per comparationem ad princi-
-piim. Et quoniam per comparationem ad effectus
-
-habet in se thesaurum infmitum in numerositate , et
-habet ordinem in discretione, ideo describitur per
-verbum possidendi et ordinandi^. Per comparationem ad suum principium emanat emanatione intrin-
-seca in eo, quod est de substantia emanantis; ideo
-describitur per verbum conceptionis et parturitionis.
-
-DISTINCTIO III.
-Pabs I.
-
-De cognitione Crealoris per crealuras, in quibus
-Trinitatis vestigium apparet.
-
-Aposlolus namque ait ', quod imisibilia Dei a creatura mundi per ea quae facta sunt inteUecta compiciun-
-tur, sempiterna quoque virlus eius et divinitas. Per creaturam mundi intelligitur homo « propter excellentiam ,
-qua excellit inter alias creaturas, vel propler convenientiam, quam habet cum omni crealura ». Homo er-
-go invlslbilia Dei intellectu mentis conspicere poluit
-vel etiam conspexil per ea quae facta sunt, id est,
-per creaturas visibiles vel " invisibiles. A duobus enim
-iuvabatur, scilicet a natura, quae rationalis erat, et ab
-operibus a Deo factis, ut manifestaretur homini veritas. Ideo Apostolus dixit ': quia Deus revelavit illis ,
-scilicet dum fecit opera, in quibus artificis aliquatenus relucet indicium.
-
-Nam sicut ait Ambrosius * : « Ut Deus , qui natura
-, invisibilis est , etiam a visibilibus posset sciri , opus fecit, quod opificem visibilitate sui mauifestavit, ut per
-cerlum incertum posset sciri , et ille Deus omnium esse
-crederetur, qui hoc fecit, quod ab homine impossibile
-est fleri » . Potuerunt ergo cognoscere sive cognoverunt ,
-ultra omnem creaturam esse illum qul ea fecit, quae
-niUIa creaturarum facere vel destruere valet ^ Accedat,
-quaecumque vis, creatura et faciat tale caelum et talem
-terram , et dicam , quia Deus est. Sed quia nulla creatura talia facere valet, constal, super omnem creatu-
-ram esse illum qui ea fecit; ac per hoc, illum esse
-Deum, humana mens cognoscere potuit.
-
-Alio etiam modo Dei veritatem ductu rationis co-
-. gnoscere potuerunt vel etiam cognoverunt. Ut enim
-Auguslinus ait in Libro de Civilale Dei " : « Viderunt
-
-summi philosophi nullum corpus esse Deum, et ideo
-cuncta corpora trascenderunl, quaerentes Deum ; viderunt etiam, quidquid mutabile est non esse summum
-Deum omniumque principium , et ideo omnem animam
-mutabilesque spiritus Iranscenderunt ; deinde viderunt,
-omne, quod mutabile est, non posse essc nisi ab illo,
-qui incommutabiliter et simpliciter est. Intellexeruut
-ergo, eum et omnia ista fecisse et a nullo fleri potuisse ».
-
-« Consideraverunt etiam , quidquid est in substan- Raiio 3.
-tiis vel corpus esse vel spiritum, meliusque aliquid
-spiritum esse quam corpus, sed longe meliorem qui
-spiritum fecit et corpus » .
-
-« Intellexerunt etiam, corporis speciem esse sensi- Raiio 4.
-bilem et spiritus speciem intelligibilem , et intelligibilem speciem sensibili praetulerunt. Sensibilia dicimus ,
-quae visu tactuque corporis senliri queunt, intelligibilia , quae conspectu mentis intelligi '. Cum ergo in eo-
-rum conspectu et corpus et animus magis minusque
-speciosa essent ; si autem omni specie carere possent ,
-omnino nulla essent : viderunt esse aliquid , quo illa
-speciosa facta sunt, ubi est prima et incommutabilis
-species, ideoque incomparabilis ; et illud esse rerum
-principium rectissime crediderunt, quod factum non
-esset, et ex quo cuncta facta essent ». Ecce tot modis
-potuit cognosci veritas Dei. Cum ergo Deus una sit et
-simplex essentia , quae ex nulla diversitate partium vel
-accidentium consistit, pluraliter tamen dicit Apostolus:
-invisibilia Dei, quia pluribus modis cognoscitur veritas
-Dei per ea quae facta sunt. Ex perpetuitate namque
-creaturarum inlelligitur Condilor aeternus ; ex magnitudine creaturarum omnipotens; ex ordine et disposi-
-tione sapiens; ex gubernatione bonus. Haec autem
-omnia ad unitatem Deitatis pertinent monstrandam.
-
-
-DISTINCTIO III.
-
-
-Nunc reslat ostendere, ulrum per ea quae facta
-gio sunt aliquod Trinitatis vesligium vel indicium exiliaberi potuerit. De hoc Augustinus in libro
-sexlo de Trinitate ^ ait : « Oportet, ut Creatorem per ea
-quae facta sunt intellectu conspicientes, Trinitatem intelligamus. Huius enim Trinitatis vestigium in creaturis
-apparet. Haec enim omnia ', quae arte divina facla
-sunt, et unitatem quandam in se ostendunt et speciem
-et ordinem. Nam quodque borum creatorum et unum
-aliquid est, sicut sunt naturae corporum et animarum,
-et aliqua specie formatur, sicut sunt figurae vel qualitates corporum ac doctrinae vel artes animarum, et
-ordinem aliquem petit aut tenet, sicut sunt pondera
-vel collocaliones corporum et amores vel delectationes
-animarlim ; et ita in creaturis praelucet vestigium Trinitatis. In illa enim Trinitate sumnia origo est omnium
-rerum et perfectissima pulcritudo et beatissima delectatio». " Summa autem origo, ut Augustinus ostendit
-in libro de Vera Religione^, intelligitur Deus Pater,
-a quo sunt omnia, a quo Filius et Spiritus sanctus.
-Perfectissima pulcritudo intelllgitur Filius, scilicet
-veritas Patris , nulla ex parte ei dissimilis , quam ° cum
-ipso et in ipso Patre veneramur , quae forma est
-omnium , quae ab uno facta sunt et ad unum referuntur, quae tamen omnia nec fierent a Patre per Filium
-neque suis flnibus salva essent, nisi Deus summe bonus esset , qui et nulli naturae , quae " ab illo bona
-
-esset, invidit, et ut in bono ipso maneret, alia quantum vellet, alia quantuni posset, dedit; quae bonitas
-intelligitur Spiritus sanctus, qui est donum Patris et
-Filii. Quare ipsum donum Dei cum Patrc ct Filio aeque
-incommutabile colere et tenere nos convenit. Per considerationem itaque creaturarum unius substantiae Tri-
-nitatem intelligimus, scilicet unum Deum Patrem, a
-quo sumus, et Filium, per quem sumus, et Spiritum
-sanctum, in quo sumus, scilicet principium, ad quod
-recurrimus , et formam quam sequimur , et gratiam qua
-reconciliamur : unum scilicet , quo auctore conditi suinus , et similitudinem eius , per quam ad unitatem re-
-formamur, et pacem , qua Unitati adhaeremus: scilicet
-Deum , qui dixit ' : fiat ; et Verbuni , per qiiod factum
-est omne, quod subslanlialiter et naturaliter est; et
-Donum benignitatis eius , qua placuit quod ab eo per
-Verbum factuni est et reconciliatum est auctori, ut
-non interiret ». Ecce ostensum est, qualiler fn creatu- c
-ris aliquatenus imago Trinitatis indicatur ; non enim
-per creaturarum contemplationem sufficiens notitia Trinitatis potest haberi vel potuit sine doctrinae vel inte-
-rioris inspirationis revelatione. Unde illi antiqui philosophi quasi per unibram et de longinquo viderunt ve-
-ritatem, deficientes in contuitu Trinitatis, ut magi
-Pharaonis in tertio signo '. Adiuvamur tamen in flde
-invisibilium per ea, quae facta sunt.
-
-He imagine et simililudine Trinitatis
-in anima huniana.
-
-Nunc vero " ad eara iam perveniamus disputationem, ubi in mente humana, quae novit Deum vel
-potestnosse, Trinitatis imaginem reperiamus ». Ut enim
-ait Augustinus in decimo quarto libro de Trinitate ° :
-« Licet humana mens non sit eius naturae , cuius Deus
-est, imago tamen illius, quo nihil melius est, ibi quaerenda et invenienda est, quo natura nostra nihil habet
-
-melius, id est in mente. In ipsa enim " mente, etiam in meme
-antequam sit particeps Dei , eius imago reperitur ; etsi '""""^ °'"'
-euim, amissa Dei participatione, deformis sit, imago
-tamen Dei permanet. Eo enim ipso imago Dei est mens,
-quo capax eius est eiusque particeps esse potest. lam
-ergo in ea Trinitatem, quae Deus est, inquiramus. Ecce
-ergo " mens meminit sui, intelligit se, diligit se; hoc
-si cernimus, cernimus trinitatera, nondum quidem
-Deum, sed imaginem Dei. Hic enim quaedam apparet
-trinitas memoriae, intelligentiae et amoris ». Haec ergo i
-tria potissiraum tractemus, meraoriara, intelligentiara , '
-voluntateni ». « Haec igitur tria, ut Augustinus ait
-
-Cod. A ommi exigmm; Codd. BCDE et ed. I , omisso
-Iranspositis verbis, salis bcne legunt Trinitatis
-
-
-quinto libro de Trinilate " , in mente naturaliter divinitus instituta quisquis vivaciter perspicit, et quam
-magnum sit in ea, unde potest etiain sempiterna immutabilisque natura recoli , conspici , concupisci (remi-
-niscitur eniin per inemoriam, intuetur per intelligentiam, amplectitur per dilectionem), profecto reperit illius
-summae Trinitatis imaginem».
-
-Cap. III.
-
-De siinililudine creantis et creatae trinilatis.
-
-« Verumtamen caveat , ne hanc imagineni ab eadem Dissimiii-
-Trinitate factam ita ei coinparet, ut onmino existimet ""*° ''
-siinilem, sed potius in qualicuinque ista similitudine
-magnam quoque dissimilitudinem cernat " ».
-
-« Quod breviter ostendi potest. Honio unus per
-illa tria meminit, intelligit, diligit, qui nec inemoria
-est nec intelligentia nec diiectio, sed haec habet. Unus
-ergo homo est , qui habet haec tria , non ipse est haec
-tria. In illius vero suinma simplicitate natiirae, quae
-Dcus est, quamvis unus sit Deus, tres tamen personae
-
-' Giip. II. n. 17. 18. Ex eodem capite sumta sunt omnia,
-quae sequuntur usque ad: Ecce illius summae Unitatis.
-
-
-DISTINCTIO III.
-
-6S
-
-sunt, Pater et Filius et Spiritus sanctus » ' , et hae tres '
-unus Deus. « Aliud est itaque Trinitatis res ipsa , aliud
-imago Trinitatis in re alia; propter quam imaginem
-etiam illud in quo sunt haec tria, imago dicitur, scilicet homo. Sicut imago dicitur et tabula et pictura,
-quae est in ea ; sed tabula nomine imaginis appellatur
-propter picturam , quae in ea est ' » .
-
-« Rursus ista imago , quae est homo habens illa
-tria, una persona est. Illa vero Trinitas non una persona est, sed tres personae, Pater Filii et Filius Patris
-et Spiritus Patris et Filii. Itaque in ista imagine Trinitalis non haec tria unus honio, sed unius hominis
-sunt. In illa vero summa Trinitate, cuius haec imago
-est, non unius Dei sunt illa tria, sed unus Deus; et
-tres sunt illae, non una persona * ». « Illa enim tria
-non homo sunt , sed hominis sunt vel in homine sunt.
-Sed nunquid possumus dicere, Trinitatem sic esse in
-Deo, ut aliquid Dei sit, nec ipsa sit Deus ' »? Absit
-ut hoc credamus. Dicamus ergo , in mente nostra imaginem Trinitatis " , sed exiguam et qualemcumque esse,
-quae summae trinitatis ita gerit similitudinem, ut ex
-maxima parte sit dissimilis. Sciendum vero est, quod
-« haec Trinitas mentis , ut ait Augustinus in decimo
-quarto libro de Trinitate ' , non propterea tantum imago
-Dei est, quia sui meminit mens et intelligit ac diligit
-se, sed quia potest etiam meminisse et intelligere et
-amare illum , a quo facta est » .
-
-Potest etiam alio modo aliisque nominibus distingui trinitas in anima, quae est imago illius summae
-et ineffabilis Trinitatis. Ut enim ait Augustinus in nono
-libro de Trinitate ' : « Mens et notitia eius et amor
-tria quaedam sunt. Mens enim novit se et amat se;
-nec amare se potest , nisi etiam noverit se. Duo quaedam sunt mens et notitia eius; item duo quaedam
-sunt mens et amor eius». «Cum ergo se novit mens
-et amat se, manet trinitas, scilicet mens, amor et no-
-
-titia». «Mens autem hic accipitur non pro anima, sed
-pro eo quod in anima excellentlus est». Haec autem
-tria, cum sint distiucta a se invicem, dicuntur tamen
-esse unum, quia in anima' substantialiter existunt.
-
-Et est ipsa mens quasi parens, et notitia eius Mens corquasi proles eius. « Mens enim cum se cognoscit , no- Paln,''"^ u-
-titiam sui gignit et est sola parens suae notitiae. Ter- Jio/spiitius est amor, qui de ipsa mente et notilia procedit, "" ^-
-dum mens cognoscens se diligit se ; non enim posset se
-diligere , nisi cognosceret se. Amat etiam placitam prolem, id est notitiam suam; et ita amor quidam com-
-plexus est parentis et prolis'"».
-
-« Nec minor est proles parente , dum tantam se Eomm aenovit mens, quanta est; nec minor est amor parente i"'"'*^-
-et prole, id est mente et notitia, dumtantum se diligit mens, quantum se novit et quanta est"».
-
-« Sunt etiam haec singula in se ipsis, quia et mens itemcircumamans in amore est, et amor in amantis notitia, et
-notitia in mente noscente est"». Ecce in his tribus
-qualecumque Trinitatis vestigium apparet.
-
-Mens itaque rationalis considerans haec tria et Meos ia his
-illam unam essentiam , in qua ista sunt , extendit se ad tur"i)eQm'
-contemplationem Creatoris et videt unitatem in trinitate et trinitatem in unitate. Intelligit enim , unum esse
-Deum, unam essentiam, unum principium. Intelligit
-enim, quia si duo essent, vel uterque insufficiens esset,
-vel alter superflueret; quia si aliquid deesset uni,
-quod haberet alter, non esset ibi summa perfectio; si
-vero nihil uni deesset, quod haberet alter, cum in uno
-essent omnia , alter superflueret. Intellexit ergo , unum
-esse Deum, unum" omnium auctorem, et vidit, quia
-absque sapientia non sit, quasi res fatua; et ideo intellexit, eum habere sapientiam, quae ab ipso genita
-est; et quia sapientiam suam diligit, intellexit etiam,
-ibi esse amorem.
-
-' Loc. cit. c. 22. n. 42., sectindum sensum. — Pro per illa
-tria VaU cum nonnullis edd. per ista tria, et infra edd. 1 , 8
-post non addunt tamen. Denique Vat. et plurimae edd. ante
-simplicitate legunt summa pro summae.
-
-
-quaedam sunt, et haec tria unum sunt, et cum perfecta sunt,
-aequalia sunt » . Quae sequuntur sumta sunt ex c. 5. n. 8 ; de
-ultimo textu vide supra nota 6. p. 64.
-
-» Codd. et edd. 1 , 3, S, 6, 7, 9 animo.
-
-'» August. , IX. de Trin. c. 1 2. n. 1 8 , ubi autem multa adiecta et mutata leguntur. In quo textu cod. C verbo procedit
-
-
-quidem trinitas esset vera , sed unus Deus Trinitas ipsa
-non esset , si quemadmodum Pater et Filius et Spiritus
-sanctus personarum sunt ab invicem proprietate distincti, sic fuissent naturarum quoque diversitate discre-
-ti». «Fides autem Patriarcharimi, Prophetarum atque
-Apostolorum unum Deum praedicat esse Trinitatem ° » .
-«In illa igitiir sancta Trinitate unus est Deus Pater,
-qui solus essentialiter de se ipso Filium unum genuit;
-et unus Filius est, qui de uno Patre solus essentialiter
-natus; et unus Spiritus sanctus,qui solus essentialiter
-a Patre Filioque procedit. Hoc autem totum non potest
-una persona , id est, gignere se et nasci de se et procedere de se » . Ut enim ait Augustinus in primo libro
-de Trinitate \ « NuIIa res est , quae se ipsam gignat ,
-ut sit».
-
-COMMENTARIUS m DISTmCTIONEM III.
-
-Pabs. I.
-
-De cognitione Dei per similitudines longinquas.
-
-Apostolus nainque ail, quod invisibilia Dei etc.
-
-DIVISIO TEXTUS.
-
-Superius egit Magister de sancta Trinitate et
-Unitate ' , in quantum creditur. In hac secunda parte
-agit de ipsa, in quantum intelligitur. Et haec pars
-dividitur in tres partes, in quarum prima ad intelligendum Trinitatem adducit congruas similitudines
-et rationes. In secunda solvit emergentes dubitationes , infra distinctione quarta in principio : Hic ori-
-tur quaestio satis necessaria. Constat etc. In tertia,
-illis dubitationibus solutis, determinat Trinitatis et
-Unitatis proprietates et conditiones , infra distinctione
-octava : Nunc de veritate sive proprietate " etc.
-
-Item prima pars habet duas. Inprwwa adducit
-similitudines longinquas ; in secunda similitudines
-propinquas sive expressas , quae attenduntur in imagine , ibi : Nunc vero iain ad eam perveniamus dis-
-putationem.
-
-Item prima pars habet duas partes. In prima
-ostendit Unitatem , in secunda Trinitatem , ibi : Nunc
-restat ostendere, utrinn per ea quae facta sunt etc.
-
-Prima pars habet quatuor particulas. In prima probat auctoritate Apostoli ad Romanos primo ' , quod
-Deus est cognoscibilis per creaturam. In secunda vero
-adducit varios modos cognoscendi et rationes, ibi:
-Nam sicut ait Ambrosius. In tertia dicit, illos modos in auctoritate Apostoli iraplicari, ibi: Ecce tot
-modis. In quarta tangit, quid per praedictas rationes possit probari , scilicet essentiae unitas , non tri-
-nitas , ibi : Haec auton omnia ad unitatem etc.
-
-Nunc^ restat ostendere, utrum etc. Supra ostendit Magister per rationes divinae essentiae unitatetn
-sive entitatem. In hac secunda parte ostendit Trinitatem similitudine longinqua , quae attenditur in ve-
-stigio, et habet hoc capitulum quatuor particulas.
-In prima ostendit Magister rationem vestigii in creatura. In secunda ostendit, quid respondeat vestigio
-in Creatore, quoniam trinitas appropriatorum , scilicet originis , pulcritudinis et delectationis , ut singula
-reddantur singulis, ibi: Inillamim Trinitate summa.
-
-
-DIST. III. P. I. ART. UNICUS QUAEST. I.
-
-
-In tertia docet contemplari in Deo trinitatem per
-considerationem vestigii in creatura , ibi : Per comiderationem itaque creaturarum etc. , ubi ostendit
-trinitatem appropriatorum in Deo et quantum ad
-actum conditionis, et quantum ad actum reformationis. In quarta autem particula ostendit , quod con-
-sideratio Trinitatis per vestigium non est sufBciens,
-sed longinqua, ibi : Ecce ostensum est, qualiter in
-creaturis.
-
-Niinc vero ad eam iam pe7'veniamus disputationem. Haec ' est secunda pars istius dislinctionis ,
-in qua Magister probat Trinitatem et Unitatem per similitudinem propinquam et expressam, cuiusmodi
-est imago. Et dividitur haec pars in duas : in prima
-ostendit trinitatem et unitatem in Creatore per trinitatem et unitatem consideratam in potentiis ani-
-mae ; in secunda vero in habitibus , ibi : Potest etiam
-alio modo aliisque nominibus.
-
-Prima iterum pars habet quatuor ^ particulas.
-In quarum prima ostendit , ubi quaerenda sit imago
-in anima , quoniam in parte superiori et in ' tribus
-potentiis eius, scilicet memoria, intelligentia et voluntate. In secunda vero tangit imaginis conditiones,
-quae sunt trinitas, unitas et aequalitas, ibi: Haec
-
-ergo tria, ut ait Augustinus. In tertia vero movet
-et solvit dubitationem , quae oritur ex praedictis:
-utrum scilicet anima sit suae potentiae , ibi : Hic attendendum est diligenter. In quarta autem docet ca-
-vere errorem , qui posset causari vel * oriri ex ostensione trinitatis creatae , quod omnimoda similitudo es-
-set ad increatam ; ubi ostendit, quod maxima est dissimilitudo imaginis ad Deum, ibi : Verumtam^n caveat.
-Potest etiam alio modo aliisque etc. Haec est
-secunda pars partis secundae huius distinctionis ^ ,
-in qua intendit investigare Magister imaginem in habilibus animae secundum quod possibile est, et di-
-viditur haec pars in quatuor particulas. Primo enim
-illa tangit, in quibus imago Trinitatis attenditur , quae
-sunt mens , notitia et amor. Secundo , illis praetactis,
-ostendit, quod in his attenditur imago propter consubstantialitatem , ordinem et aequalitatem, ibi : Haec
-autem tria cum sint etc. Tertio ostendit , quomodo
-mens rationalis in contemplatione trinitatis creatae
-proflcit ad videndam et cognoscendam Trinitatem
-increatam in Unitate, ibi: Mens itaque rationalis
-considerans haec tria. Quarto vero breviter recolligit quae supra sunt demonstrata, ibi: Quapro-
-pter iuxta istam considerationem.
-
-TRACTATIO QUAESTIONUM.
-
-Ad intelligentiam eorum quae in hac parte prima
-; distinctionis tanguntur, quatuor quaeruntur.
-
-Primum est , utrum Deus sit cognoscibilis a
-creatura.
-
-Secundum est, utrum sit cognoscibilis per
-creaturam.
-
-Tertium est, utrum modus cognoscendi per
-creaturam conveniat homini quantum ad omnem
-statum, scilicet statum innocentiae, statum naturae
-lapsae et statum naturae gloriflcatae.
-
-Quartum' est, quid sit de Deo cognoscibile per
-creaturam.
-
-ARTICULUS UNIGUS.
-De cognoscibilitate Dei.
-
-QU^STIO I.
-
-Utrum Deus sit cognoscibilis a creatura.
-
-Circa primum, quod non sit Deus cognoscibilis
-a creatura, ostenditur
-
-
-2. Item ostenditur ratione per quadruplicem
-suppositionem, quam necesse est esse in cognitione ,
-scilicet proportionem , unionem sive receptionem ,
-
-iudicium et' informationem. Intellectus enim non
-intelligit nisi quod est sibi proportionabile , et quod
-sibi aliquo modo unitur, et de quo iudicat, et a
-quo acies intelligentiae informatur.
-
-Ex prima suppositione arguitur sic : necesse
-est , esse proportionem cognoscentis ad cognoscibile *;
-sed Dei ad intellectum non est proportio, quia Deus
-
-quentem expositionem litterae infra in principio secundae partis
-
-quinta exhibet tertiam et quartam in textu positam, ac demum
-addit: In sexta particula docet, respeciu cuius obiecti attenditur imago in diciis poteniiis, ibi: Sciendum vero, quod haec
-triniias meniis.
-
-
-3. Item , ex seeunda suppositione sic : necesse
-est , esse unionem cognoscibilis ad cognoscentem , ita
-quod unum sit in altero*; sed cognoscens non est
-in cognoscibili , sed e converso ; sed impossibile est,
-infinitum capi ab ipso flnito: ergo impossibile est
-esse in illo : ergo Deum esse in intellectu est impossibile, cum sit infinitus.
-
-4. Item , ex tertia suppositione sic : ad cognitionem necesse est, esse in cognoscente iudicium
-de cognito ; sed omne iudicans habet posse super
-iudicatum^; finitum autem non habet posse super
-infinitum : ergo de illo non iudicat ; sed ad cognitionem requirebatur iudicium : ergo intellectus finitus
-non cognoscit Deum inflnitum, super quem non
-habet posse.
-
-5. Item , ex quarta sic : necesse est , intellectum
-cognoscentem informari a cognito * ; sed omne quod
-alterum informat, aut informat per essentiam, aut
-per similitudinem ; sed Deus non informat per essentiam , quia nulli unitur ut forma , nec per simi-
-litudinem abstractam, quia similitudo abstracta est
-
-spiritualior eo a quo abstrahitur; Deo autem nihil
-est spiritualius nec potest esse: ergo etc.
-
-CoNTRA: 1. Anima rationalis est ad imaginem Dei.
-Sed sicut dicit Augustinus in libro de Trinitate , et
-est in littera praesentis distinctionis^: « Eo mens est
-imago Dei , quo capax Dei est et particeps esse
-potest». Capere autem non est secundum substantiam vel essentiam , quia sic est in omnibus creatu-
-ris : ergo per cognitionem et amorem : ergo Deus polest cognosci a creatura.
-
-2. Item, ratione ostenditur sic: omnis cognitio
-spiritualis fit ratione lucis, et ratione lucis increatae,
-ut dicit Augustinus in Soliloquiis^; sed lux est maxime cognoscibilis, et Deus est summa lux : ergo maxi-
-me est cognoscibilis ipsi animae : ergo etc.
-
-3. Item, cum sit ' cognitio aliquorum per praesentiam , aliquorum per similitudinem , illa cogno-
-scuntur verius , quae cognoscuntur per praesentiam,
-ut dicit Auguslinus'; sed Deus est unitus ipsi animae per praesentiam : ergo Deus verius cognoscitur
-quam alia , quae cognoscuntur per similitudinem.
-
-4. Item, sicut se habet summa bonitas ad diJectionem, sic summa veritas ad cognitionem; sed
-summa bonitas est summe amabilis ab affectu : ergo '
-summa veritas est summe cognoscibilis ab intellectu.
-
-5. Item, unumquodque etficacius potest in id ad
-quod naturaliter ordinatur '" ; sed intellectus noster
-naturaliter ordinatur ad cognitionem summae lucis :
-ergo illa maxime
-
-
-qua vide Aristot., IX. Metaph. text. 16. (VIII. 8.); et supponitur ab Aristot., III. de Anima, text. 6. et 37-39. (c. 4. et 8.),
-ubi dicit, animam esse locum formarum, ipsam cognoscendo
-quodammodo esse omnia, in ipsa non esse ipsas res, sed formas earum intellectumque esse formam formarum.
-
-<!-- END legacy raw OCR -->
-
-### Scholion
-
-*[Scholion text pending, typically at the end of the question on printed p. 62]*
+### Dub. I
+
+In parte ista circa litteram primo est dubitatio de hoc quod dicit Magister, quod *purgatissimis mentibus cernitur*. Videtur enim male dicere, quia nulla mens, dum est in via, *purgatissima* est, sed tantum in patria.
+
+**Respondeo:** Dicendum, quod mens ad hoc quod Deum contempletur perfecte, indiget purgari quoad intellectum et affectum; ideo dicit *per iustitiam fidei*, id est per fidem, quae facit iustum in opere et per se purgat intellectum, sed iustitia affectum. Utriusque autem purgationis triplex est gradus. Nam intellectus *purgatus* est, cum abstrahitur a sensibilibus speciebus; *purgatior*, cum mundatur a phantasticis imaginibus; *purgatissimus*, cum a philosophicis[^1] rationibus. Gradus purgationis affectus sunt isti: *purgatus* est affectus, cum mundatur a culpa; *purgatior*, cum a sequela; *purgatissimus*, ab occasione[^2]; et in hoc statu idoneus est contemplari.
+
+### Dub. II
+
+Item opponitur de hoc quod dicit: *Mentis humanae acies invalida in tam excellenti luce non figitur* etc. Videtur enim, quod etiam[^3] mundata non figatur ibi, quia quantumcumque mundetur, adhuc excedit lux illa improportionabiliter aciem mentis: ergo si propter sui excellentiam non potest videri a non habente fidem, nec etiam ab habente.
+
+**Respondeo:** Differt dicere *considerari* et *figi* et *comprehendi*. *Considerari* potest a mente immunda; sed *figi* in illa non potest nisi mens pura; *comprehendere* non potest nisi immensa[^4].
+
+<!-- page 60 -->
+
+Ratio autem, quare non potest figi, est duplex: una, quia est supra intellectum, et ideo intellectus in ea non figitur, nisi habeat gluten affectus, sed statim recidit[^5]; alia ratio, quia oculus sanus est illi luci proportionabilis qualitative, etsi non quantitative; sed oculus infirmus sive lippus utroque modo est improportionabilis, et ideo non figitur.
+
+### Dub. III
+
+Item obiicitur de hoc verbo Ambrosii: *Deus et Dominus nomen est naturae et nomen potestatis*, quia dicit Damascenus[^6], quod hoc nomen *Deus* imponitur ab operatione, unde dicitur ab *aithein*, quod est ardere, vel a *theein*, quod est fovere, vel a *theasthai*, quod est videre.
+
+**Respondeo:** Dicendum, quod de hoc nomine, et consimilibus est loqui dupliciter: aut quantum ad id *cui* imponitur; et sic est nomen naturae, quia ei imponitur quod[^7] est summa natura; aut quantum ad id *a quo* imponitur; et sic est nomen operationis, quia imponitur ab operatione.
+
+### Dub. IV
+
+Item quaeritur de hac circumlocutione: *Ego sum qui sum*, utrum hoc nomen *Ego sum* etc. sit nomen essentiae, vel personae. Et quod personae, videtur, quia pronomen demonstrativum certam significat personam. Et iterum, *loqui* est actus personae. Si forte dicas, quod *ego*, quia significat originem, stat pro persona Patris; *sum*, quia significat actum egredientem, pro persona Filii; *qui*, relativum utrumque nectens, stat pro persona Spiritus sancti; hoc nihil est, quia pro eodem stat relativum et antecedens.
+
+**Respondeo:** Dicendum, quod illud nomen *qui est*, et *Ego sum qui sum* est nomen essentiae proprie: hoc enim est quaedam circumlocutio, significans entitatem in omnimoda perfectione et absolutione, et hoc est nomen proprium divinae substantiae. Et quod obiicitur, quod pronomen significat certam personam; dicendum, quod *persona* ibi dicitur certum suppositum Verbi, et hoc est substantia et natura[^8].
+
+### Dub. V
+
+Item quaeritur de hac auctoritate: *Faciamus hominem ad imaginem et similitudinem nostram*, utrum *imago* stet ibi pro *essentia* aut pro *persona*.
+
+**Respondeo:** Dicendum, quod, secundum quod Sancti hic accipiunt, *imago* et *similitudo* dicit essentiam et relationem[^9]. Importat enim *imago* unitatem cum distinctione, et *similitudo* similiter propter intrinsecam relationem. Et ideo in hoc nomine *imago* et *similitudo* quantum ad aliquid suae significationis notatur unitas essentiae, quantum ad aliquid notatur pluralitas personarum. Et ideo aliter exponit Augustinus, aliter exponit Hilarius[^10]. Augustinus considerat partem significati, scilicet essentiae unitatem; sed Hilarius totum. Unde dicit, quod nomine *imaginis* et *similitudinis* simul intelligitur unitas et pluralitas. Similiter Augustinus in hoc quod est *faciamus* et *nostram*, considerat solum consignificatum; et ideo pluralitatem. Hilarius vero considerat significatum et consignificatum, et ideo in utroque dicit intelligi pluralitatem et unitatem.
+
+### Dub. VI
+
+Item Hilarius dicit: *Neque diversitatem duobus admisceri alterius ad alterum similitudo permittit*.
+
+*Sed contra:* Similitudo est rerum differentium eadem qualitas: ergo similitudo compatitur secum differentiam.
+
+**Respondeo:** Dicendum, quod est similitudo secundum accidens, et similitudo secundum substantiam. Et haec est duplex, secundum totum et
+
+<!-- page 61 -->
+
+secundum partem. Similitudo secundum accidens, vel secundum partem substantiae admittit diversitatem; sed non similitudo secundum totum. Et quoniam in divina essentia est summa simplicitas, ideo non potest esse similitudo secundum accidens neque secundum partem; et ideo similitudo non compatitur diversitatem naturae.
+
+### Dub. VII
+
+Item obiicitur de hoc quod dicit Magister: *Significavit, nomine consortii non poni aliquid, sed removeri*, quia ex hoc videtur, quod omnis numeralis dictio secundum ipsum nihil ponit, sed tantum privat; sed hoc videtur falsum. Cum enim in divinis sit vera pluralitas personarum, non tantum privative, sed etiam positive videntur[^11] dici.
+
+**Respondeo:** Haec fuit positio Magistri, quae communiter non tenetur, quia non habet veritatem, sicut infra melius patebit[^12]. Tamen Magister excusatur, quia dixit, quod non ponunt aliquid nomina numeralia, quia important numerum, qui non est proprie in divinis. Numerus enim causatur ex unitatum aggregatione et distinctione; et distinctio unitatum fit tripliciter: continui divisione, formarum disparatione[^13], gradu sive ordine. Quoniam igitur in divinis non est aggregatio nec talis distinctio, ideo nec numerus proprie.
+
+### Dub. VIII
+
+Item quaeritur de hoc quod dicit: *In principio creavit Deus*, quare magis hoc nomen *Deus* stet sive supponat pro persona Patris quam pro persona Filii, et quomodo Trinitas intelligatur ex hoc.
+
+**Respondeo:** Ad hoc dicendum, quod[^14] octo modis insinuatur nobis personarum pluralitas in Scriptura.
+
+*Primo modo significatione*; Matthaei ultimo[^15]: *In nomine Patris et Filii et Spiritus sancti*.
+
+*Secundo modo consignificatione*: Genesis in principio, ubi nos habemus *Deus*, Hebraei habent *Heloym*, quod est nominativus pluralis huius singularis *Hel*.
+
+*Tertio modo suppositione*, ut cum dicitur: *Deus genuit Deum*; Proverbiorum octavo[^16]: *Ante omnes colles generavit me Dominus*.
+
+*Quarto modo appropriatione*, ut ibi[^17]: *In principio creavit Deus* etc. *Deus* enim ibi Patri appropriatur et *Principium* Filio.
+
+*Quinto modo iteratione*, ut Isaiae sexto[^18]: *Sanctus, Sanctus, Sanctus, Dominus Deus Sabaoth*.
+
+*Sexto modo ordine verborum*; Psalmus[^19]: *Benedicat nos Deus, Deus noster, benedicat nos Deus*.
+
+*Septimo modo connotatione in actu missionis*, ut cum dicitur ad Galatas quarto[^20]: *Misit Deus* etc.
+
+*Octavo modo apparitione*, sicut apparuerunt Abrahae tres viri; Genesis decimo octavo[^21].
+
+### Dub. IX
+
+Item obiicitur de hoc quod dicit: *Ille etiam maximus Prophetarum*, quia super illud Matthaei decimo septimo[^22]: *Apparuerunt illis Moyses et Elias*, dicit Glossa: «Elias fuit maximus Prophetarum»; non ergo David.
+
+**Respondeo:** Spiritus prophetiae, in maiori abundantia datus, prophetam Domini facit excellentiorem. Potest ergo dupliciter dari in maiori abundantia: aut quia ad *plura*, aut quia ad *altiora*. Eliae datus est ad plura, quia ad futurorum praevisionem et miraculorum operationem; sed David ad altiora, quia, sicut patet ex eius prophetia, plura vidit et[^23] clarius, quia prophetia intellectuali.
+
+### Dub. X
+
+Item obiicitur de hoc quod dicit: *Dominus possedit me*; quia *possessio* est rei inferioris, *ordo*
+
+<!-- page 62 -->
+
+rei posterioris, *conceptio* similiter sonat in sexus fragilitatem et *partus* similiter; quae non conveniunt divinis.
+
+**Respondeo:** Sapientia describitur per comparationem ad *effectus* et per comparationem ad *principium*. Et quoniam per comparationem ad effectus habet in se thesaurum infinitum in numerositate, et habet ordinem in discretione, ideo describitur per verbum *possidendi* et *ordinandi*[^24]. Per comparationem ad suum principium emanat emanatione intrinseca in eo, quod est de substantia emanantis; ideo describitur per verbum *conceptionis* et *parturitionis*.
 
 ---
 
 ## English
 
-*[Translation pending.]*
+### Doubt I
+
+In this part, concerning the text, the first doubt arises about what the Master says — namely that God is discerned by *most purified minds*. For it seems ill said, because no mind while it is on the way (*in via*) is most purified, but only in the homeland (*in patria*).
+
+**I respond:** It must be said that for a mind to contemplate God perfectly, it needs to be purified with respect to both its intellect and its affection; and therefore the Master says *through the righteousness of faith* — that is, through faith, which makes one righteous in deed and purifies the intellect, while righteousness purifies the affection. Of each purification there is a threefold grade. For the intellect is *purified* when it is abstracted from sensible species; *more purified* when it is cleansed of phantasmatic images; *most purified* when it is freed from philosophical[^1] reasonings. The grades of the purification of affection are these: affection is *purified* when it is cleansed from guilt; *more purified* when from the aftermath (of sin); *most purified* when from its very occasion[^2]; and in this state it is fit to contemplate.
+
+### Doubt II
+
+Likewise, it is objected about what he says: *The feeble gaze of the human mind is not fixed in so excellent a light* etc. For it seems that even[^3] a purified gaze is not fixed there, because however much it be cleansed, that light still immeasurably exceeds the gaze of the mind: therefore, if on account of its excellence it cannot be seen by one without faith, neither can it be seen by one who has faith.
+
+**I respond:** There is a difference between saying *to consider*, *to be fixed*, and *to comprehend*. An unclean mind can *consider*; but it cannot *be fixed* in that light unless the mind be pure; it cannot *comprehend* unless the mind be unmeasured[^4]. The reason why it cannot be fixed is twofold: one, because it is above the intellect, and therefore the intellect is not fixed upon it unless it has the glue of affection — yet even so it quickly falls back[^5]; another, because a sound eye is proportionate to that light qualitatively, even if not quantitatively, but a weak or bleary eye is disproportionate in both ways, and therefore is not fixed.
+
+### Doubt III
+
+Likewise, an objection is raised about this saying of Ambrose: *«God» and «Lord» is the name of nature and the name of power*, because Damascene[^6] says that this name *Deus* is imposed from an operation — whence it is said to come from *aithein*, which is "to burn", or from *theein*, which is "to warm", or from *theasthai*, which is "to see".
+
+**I respond:** It must be said that concerning this name, and similar names, there are two ways to speak: either with respect to *that to which* the name is imposed — and in this way it is a name of nature, because it is imposed on that which[^7] is the supreme nature — or with respect to *that from which* it is imposed, and in this way it is a name of operation, because it is imposed from an operation.
+
+### Doubt IV
+
+Likewise, a question is raised about this circumlocution: *Ego sum qui sum* ("I am who am") — whether this name *Ego sum* etc. is a name of essence or of a person. That it is of a person seems to be the case, because a demonstrative pronoun signifies a definite person. And again, speaking is an act of a person. If perhaps you say that *ego* ("I"), because it signifies origin, stands for the person of the Father; *sum* ("am"), because it signifies the act of going forth, for the person of the Son; *qui* ("who"), relative, binding both together, stands for the person of the Holy Spirit — this is nothing, because the relative and the antecedent stand for the same thing.
+
+**I respond:** It must be said that this name *qui est* ("he who is"), and *Ego sum qui sum*, is properly a name of essence; for this is a certain circumlocution, signifying being in every mode of perfection and absoluteness, and this is the proper name of the divine substance. And to the objection that a pronoun signifies a definite person, it must be said that *person* here means a definite supposit of the Word, and this is substance and nature[^8].
+
+### Doubt V
+
+Likewise, a question is raised about this authority: *Let us make man to our image and likeness* — whether *image* there stands for *essence* or for *person*.
+
+**I respond:** It must be said that, according to the way the Saints understand it here, *image* and *likeness* signify essence and relation[^9]. For *image* imports unity together with distinction, and *likeness* similarly on account of an intrinsic relation. And therefore in this name *image* and *likeness*, with respect to one element of its signification, the unity of essence is noted; with respect to another element, the plurality of persons is noted. And therefore Augustine expounds it one way, and Hilary another[^10]. Augustine considers a part of the signification — namely the unity of essence; but Hilary considers the whole. Hence Hilary says that by the name *image and likeness* unity and plurality are understood together. Similarly, Augustine in the words *let us make* and *our* considers only the consignified, and therefore plurality. Hilary, however, considers both the signified and the consignified, and therefore says that in both plurality and unity are understood.
+
+### Doubt VI
+
+Likewise, Hilary says: *«Nor does likeness admit of diversity being mixed together in the otherness of one to another.»*
+
+*On the contrary:* Likeness is the same quality of things that differ: therefore likeness is compatible with difference.
+
+**I respond:** It must be said that there is a likeness according to accident, and a likeness according to substance. And this latter is twofold: according to the whole and according to a part. A likeness according to accident, or according to a part of the substance, admits diversity; but a likeness according to the whole does not. And since in the divine essence there is supreme simplicity, there cannot be a likeness according to accident nor according to a part; and therefore likeness does not admit diversity of nature.
+
+### Doubt VII
+
+Likewise, an objection is raised about what the Master says: *He signified that by the name of partnership something is not posited but removed* — because from this it seems that, according to the Master, every numerical expression posits nothing but only negates; but this seems false. For since in divine things there is a true plurality of persons, they seem to be spoken of not only privatively but also positively[^11].
+
+**I respond:** This was the Master's position, which is not commonly held, because it does not have truth, as will more clearly appear below[^12]. Nevertheless, the Master is excused, because he said that numerical names posit nothing because they import *number*, which is not properly in divine things. For number is caused by the aggregation and distinction of units; and the distinction of units comes about in three ways: by division of the continuous, by disparity of forms[^13], and by grade or order. Since therefore in divine things there is neither aggregation nor such distinction, there is accordingly no number properly speaking.
+
+### Doubt VIII
+
+Likewise, a question is raised about what he says: *In the beginning God created* — why this name *Deus* stands or supposes for the person of the Father rather than for the person of the Son, and how the Trinity is understood from this.
+
+**I respond:** To this it must be said that[^14] the plurality of persons is indicated to us in Scripture in eight ways.
+
+*In the first way by signification*; Matthew, last chapter[^15]: *In the name of the Father and of the Son and of the Holy Spirit*.
+
+*In the second way by co-signification*: Genesis at the beginning, where we have *God*, but the Hebrews have *Heloym*, which is the nominative plural of the singular *Hel*.
+
+*In the third way by supposition*, as when it is said: *God begot God*; in Proverbs 8[^16]: *Before all hills the Lord begot me*.
+
+*In the fourth way by appropriation*, as in that: *In the beginning God created* etc.[^17] — for *God* there is appropriated to the Father, and *Principle* to the Son.
+
+*In the fifth way by iteration*, as in Isaiah 6[^18]: *Holy, Holy, Holy, Lord God of hosts*.
+
+*In the sixth way by order of words*; the Psalm[^19]: *May God bless us, our God; may God bless us*.
+
+*In the seventh way by connotation in the act of mission*, as when it is said in Galatians 4[^20]: *God sent* etc.
+
+*In the eighth way by apparition*, as the three men appeared to Abraham; Genesis 18[^21].
+
+### Doubt IX
+
+Likewise, an objection is raised about what he says: *That greatest of the Prophets* — because, on that passage of Matthew 17[^22]: *Moses and Elijah appeared to them*, the Gloss says: «Elijah was the greatest of the Prophets»; therefore not David.
+
+**I respond:** The spirit of prophecy, given in greater abundance, makes a prophet of the Lord more excellent. It can therefore be given in greater abundance in two ways: either because it extends to *more things* or because it extends to *higher things*. To Elijah it was given with respect to more things, namely foreknowledge of future events and the working of miracles; but to David with respect to higher things, because — as is clear from his prophecy — he saw more and[^23] more clearly, since his was an intellectual prophecy.
+
+### Doubt X
+
+Likewise, an objection is raised about what he says: *The Lord possessed me* — because *possession* is of an inferior thing, *ordering* is of a posterior thing, *conception* similarly sounds of the fragility of the female sex, and *bringing forth* likewise; none of which are fitting to divine things.
+
+**I respond:** Wisdom is described by comparison to her *effects* and by comparison to her *principle*. And since by comparison to her effects she has in herself an inexhaustible treasury of multitude and has order in her distinction, she is therefore described by the verb of *possessing* and *ordering*[^24]. By comparison to her principle she emanates by an intrinsic emanation, in that she is of the substance of the one who emanates; and therefore she is described by the verb of *conception* and *parturition*.
 
 ---
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering produced by `tools/apparatus-translate.py` (with manual polish where the script's draft was awkward).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation.
 
-*[Apparatus entries pending. Extract from the bottom of each printed page and run `python3.11 tools/apparatus-translate.py` on the block to get draft English.]*
+[^1]: **La.** Cod. K addit *substantiae*.
+    **En.** Cod. K adds *substantiae* ("of the substance").
+
+[^2]: **La.** Plura de hac re vide d. 31. p. 1. a. 1. q. 1 et 2.
+    **En.** See more on this matter at d. 31, p. I, a. 1, qq. 1 and 2.
+
+[^3]: **La.** Codd. F X et edd. 4, 5 *videtur*.
+    **En.** Codd. F X and edd. 4, 5 read *videtur*.
+
+[^4]: **La.** De ista sententia Magistri cfr. infra d. 24. a. 2. q. 1.
+    **En.** On this position of the Master, see below at d. 24, a. 2, q. 1.
+
+[^5]: **La.** *[Editorial note about the "glue of affection" metaphor; cross-reference pending final verification against p. 60 apparatus block.]*
+    **En.** *[Editorial apparatus entry, pending final verification.]*
+
+[^6]: **La.** [Ioannes Damascenus,] *de Fide orthodoxa* I, c. 9. Cfr. etiam Hilar., XII *de Trin.* n. 37 et Iustinus, *Dialog. cum Tryph.* n. 61.
+    **En.** John of Damascus, *Orthodox Faith* I, ch. 9. Cf. also Hilary, *On the Trinity* XII, n. 37, and Justin Martyr, *Dialogue with Trypho*, n. 61.
+
+[^7]: **La.** Ex mss. et ed. 1 adiecimus *quod*.
+    **En.** On the witness of the manuscripts and of ed. 1, we have added *quod*.
+
+[^8]: **La.** *[Cross-reference to apparatus on substance vs. person; pending final verification.]*
+    **En.** *[Editorial apparatus entry on substance vs. person, pending final verification.]*
+
+[^9]: **La.** Cod. Z addit *vel relationum*.
+    **En.** Cod. Z adds *vel relationum* ("or of the relations").
+
+[^10]: **La.** Multi codd. ut A C F G K L O R S T X Z etc. cum edd. 2, 3, 4, 5, 6 minus congruenter *dispersione*, alii *dispositione*; Vat. *dispensatione*; codd. H P Q ee ff et ed. 1 exhibent lectionem in textum receptam.
+    **En.** Many codd. (A C F G K L O R S T X Z etc.), with edd. 2, 3, 4, 5, 6, less congruently read *dispersione*; others *dispositione*; the Vatican ed. reads *dispensatione*; codd. H P Q ee ff and ed. 1 give the reading received into the text.
+
+[^11]: **La.** Vat. contra mss. *taliter*.
+    **En.** The Vatican ed., against the manuscripts, reads *taliter*.
+
+[^12]: **La.** De ista sententia Magistri cfr. infra d. 24. a. 2. q. 1.
+    **En.** On this position of the Master, see below at d. 24, a. 2, q. 1.
+
+[^13]: **La.** *[See [^10] on the dispersione / dispositione variant.]*
+    **En.** *[See apparatus [^10].]*
+
+[^14]: **La.** Ex mss. adiecimus *modo*; deinde ope mss. post *principio* delevimus *creavit*, ita ut *in principio* non sit ipse s. Scripturae textus, sed locum textus indicet. Mox in Vat. deest *habent* et post *huius* additur *singularis*, sed contra codd. et ed. 1. Cod. X *numerus* loco *nominativus*.
+    **En.** From the manuscripts we have added *modo*; then, with the help of the manuscripts, after *principio* we have deleted *creavit*, so that *in principio* is not itself the text of Scripture but indicates the place of the text. Immediately after, the Vatican ed. lacks *habent*, and after *huius* it adds *singularis*, but against the codices and ed. 1. Cod. X reads *numerus* for *nominativus*.
+
+[^15]: **La.** Matth. 28, 19.
+    **En.** Matt. 28:19.
+
+[^16]: **La.** Prov. 8, 25, ubi Vulgata legit: *Ante colles ego parturiebar*, dum ed. s. Scripturae Brixiensis an. 1496 addit *omnes*, cum qua Vat. convenit et adiungit: *id est, generavit me Dominus*. Pro lectione codd. militant et translatio ex Septuaginta *ante omnes colles generat me*, et August., I *de Trin.* c. 12. n. 24: *ante omnes colles genuit me*; Cyprian., II *Testimon.* c. 1; Hilar., XII *de Trin.* n. 37 et Iustinus, *Dialog. cum Tryph.* n. 61.
+    **En.** Prov. 8:25, where the Vulgate reads: *Before the hills I was brought forth*, while the Brescia edition of Sacred Scripture (1496) adds *omnes* ("all"), with which the Vatican ed. agrees and adds: *that is, the Lord begot me*. In favor of the reading of the codices are both the Septuagint translation *ante omnes colles generat me* and Augustine, *On the Trinity* I, ch. 12, n. 24: *«before all hills he begot me»*; Cyprian, *Testimonies* II.1; Hilary, *On the Trinity* XII, n. 37; and Justin Martyr, *Dialogue with Trypho*, n. 61.
+
+[^17]: **La.** Gen. 1, 1. — Vat. contra mss. omittit *ut*. Paulo post codd. cum ed. 1 nimis abbreviate: *Deus Patri et Principium Filio*.
+    **En.** Gen. 1:1. — The Vatican ed., against the manuscripts, omits *ut*. A little later, the codices with ed. 1 more abbreviatedly: *Deus Patri et Principium Filio*.
+
+[^18]: **La.** Isai. 6, 3.
+    **En.** Isa. 6:3.
+
+[^19]: **La.** Psalm. 66, 6.
+    **En.** Ps. 66:6 [= 67:7 Heb.].
+
+[^20]: **La.** Galat. 4, 4.
+    **En.** Gal. 4:4.
+
+[^21]: **La.** Gen. 18, 2. — Cfr. de hoc dubio Alex. Hal., *S.* p. I. q. 67. m. 4, qui septem horum modorum enumerat. Idem fere repetit Richard. a Med., hic q. 4. a. 2.
+    **En.** Gen. 18:2. — On this doubt see Alexander of Hales, *Summa*, p. I, q. 67, m. 4, who enumerates seven of these modes. Richard of Mediavilla repeats nearly the same, here q. 4, a. 2.
+
+[^22]: **La.** Matth. 17, 3. — Vat. obnitentibus mss. et ed. 1 *apparuerant*.
+    **En.** Matt. 17:3. — The Vatican ed., against the manuscripts and ed. 1, reads *apparuerant* ("had appeared") for *apparuerunt* ("appeared").
+
+[^23]: **La.** In Vat. desideratur *et*, quod mss. cum ed. 1 exhibent. — De prophetia intellectuali seu visione cfr. II Sent. d. 10. a. 3. q. 2. in corp.; *Hexaem.* Serm. 9; *Centiloq.* p. III. sect. 46. — S. August., XII *de Genes. ad lit.* c. 6 et seqq. ac libr. contra Adimantum, Manichaei discipulum, c. 28. — De quaestione: *quis fuerit simpliciter maximus Prophetarum*, vide S. Thom., *S.* II.II. q. 174. a. 4, ubi dicit, quod licet quantum ad aliquid aliquis alius Prophetarum fuerit maior Moyse, simpliciter tamen Moyses fuit omnibus aliis maior. Lyranus in praefatione super Psalterium rationes S. Thomae nititur infringere; Dionys. Carth. in prooemio Expos. in Psalmos opiniones reconciliare conatur.
+    **En.** In the Vatican ed. *et* is missing, which the manuscripts together with ed. 1 display. — On intellectual prophecy or vision, see II Sent. d. 10, a. 3, q. 2, in the body; *Hexaëmeron*, Serm. 9; *Centiloquium*, p. III, sect. 46. — St. Augustine, *On Genesis ad litteram* XII, ch. 6 and following, and *Against Adimantus, a disciple of Mani*, ch. 28. — On the question, *who was simply the greatest of the Prophets*, see St. Thomas, *Summa* II.II, q. 174, a. 4, where he says that although in some respect another Prophet may have been greater than Moses, simply speaking Moses was the greatest of all. Lyra in his preface on the Psalter tries to refute Thomas's reasons; Denis the Carthusian in the preface of his *Exposition of the Psalms* tries to reconcile the opinions.
+
+[^24]: **La.** Praeter fidem mss. et ed. 1, constructione mutata, Vat. hic ita prosequitur: *Describitur etiam per comparationem ad suum principium, a quo emanat*. Paulo infra cod. R omittit praepositionem *in* et plures codd. ut K M X Y ee post *emanantis* addunt *emanatione perfecta*.
+    **En.** Against the witness of the manuscripts and ed. 1, with the construction changed, the Vatican ed. here continues: *It is also described by comparison to its principle, from which it emanates*. A little below, cod. R omits the preposition *in*, and several codices (K M X Y ee) after *emanantis* add *emanatione perfecta* ("by a perfect emanation").
 
 ---
 
 ## Notes
 
-- **Chunk scope.** This chunk covers I Sent., d. 2, Dubia on printed pp. 58–62 (PDF pp. 160–164).
+- **Chunk scope.** This chunk contains the ten Dubia on the text of the Master for Distinction II, on printed pp. 59–62 (PDF 161–164). DUB. I–IV are on p. 59, DUB. IV–VI on p. 60, DUB. VI–X begin/complete on p. 61, and DUB. X's respondeo concludes on p. 62, immediately before the heading *DISTINCTIO III.* which opens the next distinction.
 
-- **Key terms** (per project glossary): *[list project-glossary terms that appear in this chunk — see `translation-prompt.md`]*.
+- **Legacy conflation resolved.** The Phase A legacy chunking of d. 2's Dubia was badly corrupted: (1) DUB. I–VI were embedded in the legacy `bon-sent-I-d2-a1-q4.md` file (after the Q4 scholion); (2) the legacy `bon-sent-I-d2-dubia.md` file contained only DUB. VII–X plus the **entire opening of Distinction III** (Lombard's text on the vestige + Bonaventure's commentary + Divisio Textus + Tractatio Quaestionum + the opening of d3-p1-a1-q1 through its sed contra arg. 5); (3) DUB. VIII's question body and DUB. IX's question were truncated or entirely missing in the legacy Latin, although the corresponding English was complete. This rebuild pulls the Latin fresh from vision transcription of `raw/vision/vol1/p-059.png` through `p-062.png`, pairs with the Phase A legacy English (which was not affected by the Latin corruption), and terminates cleanly at the end of DUB. X's respondeo. The Dist. III content that had been embedded in the legacy dubia file is now freed for the coming d. 3 rebuild.
 
-- **Vision transcription status.** Scaffolded from legacy raw OCR (`bon-sent-I-d2-dubia.md`). The Latin body in this file should be cleaned against the extracted page images in `raw/vision/vol1/p-NNN.png` for pp. 58–62 before the translation pass, and the transcription_status field in the frontmatter should be updated to `"first-pass vision, pending final verification"` once that cleanup is done.
+- **DUB. VIII — eight modes of Trinitarian signification.** A compact taxonomy unique in the *Sentences* commentary tradition. Bonaventure lists eight modes by which the plurality of persons is indicated in Scripture: *signification, co-signification, supposition, appropriation, iteration, order of words, connotation in the act of mission, apparition*. The Quaracchi editors note that Alexander of Hales enumerates seven of these modes (*Summa* p. I, q. 67, m. 4); Bonaventure's addition of *apparition* as the eighth mode (the three men of Gen. 18) is distinctive.
+
+- **DUB. VII — direct critique of the Lombard.** Bonaventure explicitly distances himself from Peter Lombard's position that numerical expressions in Trinitarian discourse are purely privative. The phrase *«Haec fuit positio Magistri, quae communiter non tenetur, quia non habet veritatem»* ("This was the Master's position, which is not commonly held, because it does not have truth") is a rare moment of direct critique of the Lombard. Bonaventure excuses the Master on narrow grounds while signaling that the fuller treatment follows at d. 24.
+
+- **DUB. IX — intellectual vs. imaginative prophecy.** Bonaventure's distinction between David's prophecy (through intellectual vision — the highest Augustinian grade) and Elijah's prophecy (through imaginative vision — more numerous but lower: foreknowledge and miracles) follows Augustine's taxonomy of visions in *De Genesi ad litteram* XII.6ff. The scholastic debate over *who was simply the greatest of the Prophets* (with Thomas favoring Moses) is well documented in the Quaracchi apparatus for this dub.
+
+- **DUB. X — the Wisdom Christology of Prov. 8.** The dub addresses objections to applying the verbs *possidere, ordinare, concipere*, and *parturire* to the eternal generation of the Son (Wisdom). Bonaventure's reply distinguishes Wisdom as described *per comparationem ad effectus* (*possessing, ordering* — suited to creatures) from Wisdom as described *per comparationem ad principium* (*conception, parturition* — suited to the eternal generation from the Father).
+
+- **Transcription status.** First-pass vision transcription from `raw/vision/vol1/p-059.png` through `p-062.png` at 200 dpi. Apparatus cross-verified against `pdftotext -layout` extract. Two apparatus entries ([^5] and [^8]) flagged as pending final verification — the first for the Aristotle reference on the "glue of affection" metaphor, the second for the editorial gloss on *substantia et natura* in DUB. IV. Final verification at higher DPI pending.
