@@ -6,326 +6,220 @@ distinctio: 1
 articulus: 1
 quaestio: 1
 type: quaestio
-title: "I Sent., d. 1, a. 1, q. 1"
-line_start: 13502
-line_end: 13805
-word_count_latin: 1986
+title_la: "Utrum uti sit actus voluntatis, an rationis, vel omnis potentiae"
+title_en: "Whether use is an act of the will, of reason, or of every faculty"
+printed_pages: [30, 31, 32]
+pdf_pages: [132, 133, 134]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 30–32"
+has_scholion: true
+has_apparatus: true
+transcription_status: "first-pass vision, pending final verification"
+format_version: 1
 ---
 
 # I Sent., d. 1, a. 1, q. 1
+## *Utrum uti sit actus voluntatis, an rationis, vel omnis potentiae*
 
-### Latin
-
-DIST.  I.  ART.  I.  QUAEST.  I. 
-
-
-31 
-
-
-ad  quam  unaquaeque  res  ordinatur,  et  secundum 
-hoc  dicit  Philosophus ' :   «  Cuius  usus  bonus  etc. ». 
-
-Secundo  modo  dicitur  communiler ;  et  sic  usus 
-dividilur  contra  dissuetudinem.  Et  hoc  modo  defini- 
-tur  a  Victorino':  «Usus  est  actus  frequenter  ehci- 
-tus  a  potentia » ,  et  hoc  modo  potest  dici ,  quod  est 
-actus  omnis  potentiae  nec  addit  super  actum  nisi 
-frequentiam. 
-
-Tertio  modo  accipitur  uti  praprie;  et  sic  di- 
-viditur  contra  habitus  memoriae  et  intelligentiae  , 
-scilicel^  contra  ingenium  et  doctrinam.  Et  sic  defi- 
-nitur  ab  Augustino  decimo  de  Trinitate:  «Uti  est 
-assumere  ahquid  in  facultatem  voluntatis»,  et  sic 
-dicit  actum  vohmtatis  proprie. 
-
-Quarto  modo  accipitur  magis  proprie ;  et  sic 
-dividilur  contra  actum  quietativum ,  scilicet  con- 
-tra  frui.  Et  sic  definitur  ab  Augustino  ^ :  « Uti  est 
-assumere  aliquid  in  facultatem  voluntatis  propter 
-ahud»,  et  sic  est  actus  voluntatis  ut  ad  ahud  re- 
-latae. 
-
-Quioto  accipitur  propriissime ;  et  sic  divlditur 
-contra  actum  inordinatum,  scihcet  coUrd.  ahuti.  Et 
-sic  deflnitur  ab  Augustino  de  Doctrina  christiana '' : 
-« Uti  est  id  quod  in  usum  A'enerit  referre  ad  id,  quo 
-fruendum  est » ,  et  sic  uti  dicit  actum  voluntatis  re- 
-latum  et  ordinatum  in  finem. 
-
-Ratio  ergo  diversarum  notificationum  est  mul- 
-tiplex  acceptio  eius  quod  est  uti;  et  ratio  muhipU- 
-cis  acceptionis  est  oppositio  eius  ad  diversa. 
-
-Si  ergo  quaeratur,  cuius  potentiae  est"  actus  : 
-dicendum ,  quod,  comm.unissime  et  communiter  lo- 
-quendo ,  est  actus  omnis  potentiae ;  et  sic  non    lo- 
-
-
-quitur  Augustinus ;  proprie  vero,  magis  proprie  et  conciusio  % 
-propriissime  actus  est  ipsius  voluntatis. 
-
-1.  Et  sic  patet  primo  obiectum  in  contrarium,  soimioop- 
-scihcet  quod'  sit  omnis  potentiae.  posiiorum. 
-
-2.  Quod  obiicitur  secundo ,  quod  omnis  potentia 
-referlur  in  finem  per  actum  suum ;  dicendimi ,  quod 
-illa  potentia  dicitur  uti  suo  actu,  quae  est  domina 
-sui  actus ;  et  tahs  potentiae  est  referre  suum  actmii, 
-non  tantum  referri.  Et  quoniam  sola  voluntas  est 
-domina  sui  actus  et  sola  est  se  ipsam  movens,  ideo 
-ipsa  sola  est,  cuius  est  active  uti.  Aliis  autem  po- 
-tentiis  contingit  uti  materiahter  et  passive ,  quia  ha- 
-bent  referri,  et  non  referre.  Et  hinc  est,  quod  ab 
-Augustino  dicitur ' :  « Uti  est  assumere  ahquid  in  fa- 
-cuUatem  voluntatis»;  facultas  enim  dicitur  eius  do- 
-minium ,  quo  faciUter  potest  in  actum  sumn  tanquam 
-ilhus  princeps. 
-
-3.  Ad  illud  quod  obiicitur,  quod  rationis  est 
-referre;  dicendum,  quod  dupliciter  est  referre,  sci- 
-iicet  per  collationem  et  illationem ,  sicut  praemissae 
-referuntur  ad  conclusionem ;  et  hoc  est  rationis ,  et 
-hoc  non  est  uti.  Et  est  referre  per''  incUnationem 
-et  ordinationem  ad  aiiud ;  et  hoc  est  proprie  volun- 
-tatis,  quia  potest  aiiquid  assumere  quiescendo  ibi,  vei 
-aiiud  intendendo;  et  iioc  est  referre",  per  quod 
-definitur  uti  etc. 
+---
 
-4.  Ad  iliud  quod  obiicitur  de  arte ,  dicendum, 
-quod  ars  dicit  quod  est  operationis,  et  quod  est  spe- 
-culationis.  Secundum  quod  dicit "  quod  est  specula- 
-tionis ,  non  habet  uti,  et  sic  est  rationis ;  secundum 
-vero  quod  dicit  quod  est  operationis ,  sic  extendi- 
-tur  ad  voluntatem  et  eam  reguiat  in  utendo. 
+## Latin
 
+<!-- page 30 -->
 
-1  Sententia :  Cuius  usus  bonus  est,  ipsum  ciuoque  bonum 
-"est,  verbotenus  legitur  apud  Boetliium,  de  DilTerentiis  topicis, 
+**ARTICULUS I.** *Quid sit* uti *et de* utibili.
 
-libr.  II.  eirca  medium,  in  quo  libro  auctor  proponit  locorum 
-topicorum  divisiones,  quae  cx  una  parte,  duce  Aristotele,  a 
-Themistio,  et  ex  altera  parte  a  Cicerone  exhibentur,  earum- 
-que  dilTerentias  indicat. 
+**QUAESTIO I.** *Utrum* uti *sit actus voluntatis, an rationis, vel omnis potentiae.*
 
-2  Fabius  Marius  (Laurentius)  Victorinus ,  Rhetor  (f  inter  370- 
-382),  qui  praetcr  opuscula  tlieologica  contra  Arianos  varios 
-confecit  libros  philosophicos  et  rhetoricos;  sic  transtulit  Porphyrii 
-librum  de  Praedicabilibus  in  linguam  latinam  (cfr.  Boeth. ,  Dia- 
-logus  I.  in  Porphyrium)  scripsitque  commentarium  in  Rheto- 
-rica  et  Topica  Ciceronis  (cfr.  Boeth.  Comment.  in  Topiea  Ci- 
-ceronis ;  et  ed.  Operum  Ciceronis  per  Orelli ,  ubi  Victorini  Com- 
-ment.  in  Rhetor.  invenitur).  Licet  definilio  ums,  de  qua  hie 
-agitur,  explicite  non  inveniatur  in  praenotatis  Vietorini  operibus, 
-colligi  tamen  posse  videtur  ex  supra  (argum.  1.  ad  opp.)  allatis 
-eius  verbis  una  cum  hac  exercitaiionis  deflnitione ,  quam  in 
-Comment.  super  I.  Rhetor.  Ciceronis,  c.  2.  proponit:  Exercitatio 
-est  suscepti  operis  conlinuatio.  Cfr.  et  ibid.  c.  2S. ,  ubi  de  defi- 
-nitione  habitm  agitur,  in  qua  ponitur  usus  sive  exercitatio. 
+Circa primum, quod est *de uti*, quid sit per essentiam, sic procedam.
 
-3  Perturbatam  lectionem  Vat.  et  pro  scilicet  emendavimus 
-ope  niss.  et  sex  primarum  edd.  Vide  etiam  supra  fundam.  3 ,  si- 
-cuti  et  do  sequenti  dcflnitione  ab  Augustino  data  cfr.  fundam.  2. 
+Quod sit actus voluntatis, sic ostenditur.
 
-*  Vide  hic  lit.  Magistri  c.  3.  in  princ.  —  In  flne  propo- 
-silionis  Vat.  male  et  contra  mss.  et  ed.  1  relative  pro  relattie. 
+1. Ab actu utendi denominatur unusquisque utens[^1]; ergo actus utendi pertinet ad voluntatem.
 
+2. Item, Augustinus decimo *de Trinitate*[^2]: «Uti est assumere aliquid in facultatem voluntatis»; ergo *uti* est actus voluntatis.
 
-^'  Vide  supra  in  lit.  Magistri  c.  2 ,  in  quo  textu  eodd.  A  F 
-G  H I  K  S  X  Y  etc.  sibi  non  constantes  habent  venit  pro  venetit. 
+3. Item, hoc videtur per divisionem ipsius *uti* contra alia. Nam Augustinus haec tria ponit: *rationem*, *doctrinam* et *usum*, et dicit quod ingenium respicit quod bonum possit, doctrina quid bonum sciat, usus quid velit[^3]; ergo usus est actus voluntatis.
 
-»  Codd.  S  Y  Z  satis  bene  sit.  Mox  Vat.,  reluctantibus  mss. 
-et  edd.  1  ,  2 ,  3,  post  quod  addit  duolms  primis  modis  est  actus 
-omnis  polentiae,  tritms  vero  ultimis  est  actus  ipsius  volun- 
-tatis;  sed  superflue,  quia  verbis  immediate  sequentibus  idem 
-dicitur.  Dein  multi  codd.  ut  CFKLMORSIIVWXYZ  etc. 
-cum  edd.2  et3  post  commuimsime,  omissis  verbis  et  communiter, 
-transponunt  ea  post  Augusiinus  simulque  omittunt  etproptiissime, 
-siclegendo:  Communiter  vero  et  proprie  actus  eslipsius  vo- 
-tetafe;quae  lectio  praecedentibus  manifeste  contradicit.  Codd. 
-DPQT  post  propriissime  addunt  loquendo,  id  est  tribus  ultimis 
-modis. 
+4. Item, «Opposita nata sunt fieri circa idem»[^4]; sed *uti* et *abuti* sunt opposita; ergo si abusus est solius voluntatis, et *uti* similiter est actus solius voluntatis.
 
-'  Supple  cum  cod.  bb  uti;  Vat.  autem  praeter  fldem  mss. 
-et  ed.  1  hic  addit  uti  communissime  sumtum,  qua  additione 
-non  quidem  falsus,  sed  alius  sensus  obtinetur;  in  lectione  si- 
-quidem  mss.  a  S.  Doctore  hic  non  datur  explicita  responsio  ad 
-primo  obiectum,  sed  breviter  repeUtur  ipsa  obiectio;  e  contra 
-est  in  lectione  Vat. 
+**Sed contra.**
 
-8  Postulante  maiore  parte  codd.  FGHIRST  etc.  et  ed.  1, 
-posuimus  modum  passivum  pro  activo  Auyustinus  dicit. 
+1. Uti videtur esse via in habitum acquirendum[^5], qui pertinet ad omnem potentiam habentem actum: ergo *uti* videtur esse omnis potentiae.
 
-8  Cod.  D  secundum. 
+2. Item, omnis potentia ordinatur ad actum, et omnis actus ad finem[^6]; sed ex hoc dicitur aliquid *utile* sive *uti*, quod in finem est ordinabile; sed ordinari in finem mediante propria operatione est omnis potentiae: ergo *uti* est actus omnis potentiae.
 
-'"  Vat.  cum  recentiore  cod.  cc  addit  quo  vel ,  quod  lamen 
-abest  ab  antiquioribus  mss.  et  ed.  1. 
+3. Item, Augustinus dicit et habetur in littera[^7]: «Uti est id quod in usum venerit referre ad obtinendum illud, quo fruendum est.» Sed referre, cuius est ordinare, est rationis: ergo et *uti* est actus rationis.
 
-"  Ed.  1  hic  et  paulo  infra  illud  loco  quod  dkii. 
+4. Item, «ars utitur suis instrumentis»[^8]; sed ars est in potentia rationali sive cognitiva, cum sit scientia: ergo cum habitus et actus sint eiusdem potentiae, *uti* est in potentia rationali.
 
+**Conclusio.**
 
-SENTENTFARUM  LIB.  I. 
+*Uti quinque modis potest intelligi: si sumitur communissime et communiter, est actus omnis potentiae; si sumitur proprie, magis proprie et propriissime, est actus voluntatis.*
 
-
-'  niiliiiui  scholasdci  siitis  conscntiiiiU.  Scot., 
-'l  !i.  in  tiiic.  —  S.  Tlioni. ,  hic  q.  I  ;  S. 
-B.  Albci-t.  M.,  hic  a.  13.  16.  ct  17.  — 
-I.  n.  1,  (lui  iloclrinam  S.  Bonavent.  bre- 
+**Respondeo.** Dicendum, quod *uti* quinque modis accipitur, et secundum hoc diversificatur significatio eius et secundum hoc definitio.
 
+Accipitur enim uno modo *communissime*, secundum quod dividitur contra otium vel otiositatem; pro naturali operatione debita cuilibet rei,
 
-SOHOLION. 
-
-viter  repctit, 
+<!-- page 31 -->
 
+ad quam unaquaeque res ordinatur, et secundum hoc dicit Philosophus[^9]: «Cuius usus bonus etc.».
 
--  nicharil.  a  Metl.,  hic  a.  1.  q.  I.  - 
-R.,  hic  a.  1.  piincipalis  q.  3.  —  Ilcni'.  Gand. ,  S.  a. 
-—  Durand. ,  hic  q,  3,  —  Dionys.  Carlh.,  hie  q.  1. 
-hic  q.  1. 
-
-
-QLI.ESTIO    IL 
-
-Ulrum  omni  creato  utendum  sit. 
-
-
-Secundo ,  viso  quid  sit  nti  per  essentiam,  quae- 
-ritur  de  utrbiii ,  utrum  scilicet  omni  creato  sit  uten- 
-dum.  Et  quod  sic ,  videtur  hoc  modo. 
-
-\.  Proverbiorum  decimo  sexto  ' :  Universa 
-Faninmmu.propter  semetipsu77i  operatus  est  Deus :  ergo  omnia 
-sunt  ordinabilia  in  Deum;  sed  omne  ordinabile  in 
-Denm  contingit  ordinare;  sed  ordinando  ad  Deum 
-ordinabile  recte  utimur :  ergo  si  omnia  contingit  or- 
-dinare,  omnibus  est  utendum. 
-
-2.  Item,  ens  et  bonum  convertuntur ,  sicut 
-vult  Dionysius-;  sed  omnia  sunt  entia:  ergo  omnia 
-sunt  bona.  Sed  omne  bonum  diiigendum  :  ergo  omne 
-creatum  est  diligendum ;  sed  non  est  diligendum 
-propter  se:  ergo  propler  aliud;  sed  hoc  est  uti: 
-ergo  uti  contingit  omni  creato. 
-
-3.  Item ,  omni  virtute  contingit  recte  uti ' :  ergo 
-opus  omnis  virtutis  est  rectus  usus;  sed  usus  ali- 
-cuius  virtutis  est  respectu  mali  poenae,  ut  pa- 
-tientiae ,  alicuius  respectu  mali  culpae ,  ut  poeni- 
-tentiae:  ergo  malis  omnibus,  scilicet  culpae  et  poe- 
-nae ,  contingit  recte  uti :  ergo  multo  fortius  bonis : 
-ergo  etc. 
-
-4.  Item ,  « Opposita  nata  sunt  fieri  circa  idem  * » ; 
-sed  omnibus  contingit  abuti :  ergo  omnibus  contingit 
-recte  uti :  ergo  ulendum  est  omni  creato. 
-
-CoNTRA:  1.  Caritas  est,  per  quam  recte  utimur, 
-Ad  opposi-  quia  omnia  ordinantur  in  finem  per  caritatem  quae- 
-"""■  cumque  recte  ordinantur ;  sed  sicut  dicit  Augustinus 
-de  Doctrina  christiana  ^ :  «  Tantum  quatuor  diligenda 
-sunt  ex  caritate  et  tria  tantum  creata ,  ut  nos ,  pro- 
-ximus  et  corpus  propriura  »  :  ergo  tantuin  tria  re- 
-feruntur  sive  ordinantur  in  finem  per  caritatem ,  cum 
+Secundo modo dicitur *communiter*; et sic *usus* dividitur contra dissuetudinem. Et hoc modo definitur a Victorino[^10]: «Usus est actus frequenter elicitus a potentia», et hoc modo potest dici quod est actus omnis potentiae nec addit super actum nisi frequentiam.
 
+Tertio modo accipitur *uti* proprie; et sic dividitur contra habitus memoriae et intelligentiae, scilicet contra ingenium et doctrinam. Et sic definitur ab Augustino decimo *de Trinitate*[^11]: «Uti est assumere aliquid in facultatem voluntatis», et sic dicit actum voluntatis proprie.
 
-non  sit  uti  recte  nisi   per  caritatem :  ergo  tantum 
-tribus  est  utendum,  non  ergo  omni  crsato. 
+Quarto modo accipitur *uti* magis proprie; et sic dividitur contra actum quietativum, scilicet contra *frui*. Et sic definitur ab Augustino[^12]: «Uti est assumere aliquid in facultatem voluntatis propter aliud», et sic est actus voluntatis ut ad aliud relatae.
 
-2.  Item,  omnia,  quibus  utimur,  subiacent  nostrae 
-voluntati;  sed  quaedam  sunt,  quae  non  subiacent 
-nostrae  voluntati ,  ut  necessaria  et  perpetua :  ergo 
-illis  non  est  utendum. 
+Quinto accipitur *propriissime*; et sic dividitur contra actum inordinatum, scilicet contra *abuti*. Et sic definitur ab Augustino *de Doctrina christiana*[^13]: «Uti est id quod in usum venerit referre ad id quo fruendum est», et sic *uti* dicit actum voluntatis relatum et ordinatum in finem.
 
-3.  Item,  omne  illud,  quo  recte  utimur,  bono  fine 
-facimus;  sed  quaedam  sunt,  quae  nullo  bono  fine 
-possunt  fieri,  ut  mentiri  et  talia,  «quae  mox  no- 
-minata  coniuncta  sunt  malo " » :  ergo  talibus  non  est 
-utendum. 
+Ratio ergo diversarum notificationum est multiplex acceptio eius quod est *uti*; et ratio multiplicis acceptionis est oppositio eius ad diversa.
 
-4.  Item ,  virtute  non  contingit  male  uti ,  sicut 
-patet  ex  eius  defmitione ' :  ergo  ab  oppositis  malo 
-culpae  sive  vitiis  non  contingit  recte  uti:  ergo  non 
-omnibus  aliis  a  Deo  est  utendum. 
+Si ergo quaeratur, cuius potentiae est actus: dicendum, quod communissime et communiter loquendo, est actus omnis potentiae; et sic non loquitur Augustinus; proprie vero, magis proprie et propriissime, actus est ipsius voluntatis.
 
-CONCLUSIO. 
+**Ad 1.** Et sic patet primo obiectum in contrarium, scilicet quod sit omnis potentiae.
 
-Non  omni  re  creata  possumus  uti  ut  instrumento 
-necjue  ut  hahitu  tieque  ut  actu ,  omni  tamen  re 
-uti  possumus  ut  obiecto,  sed  quadrupHciter , 
-■  vel  operando,  vel  acceptando,  vel  tolerando, 
-vel  respuendo. 
-Respondeo  :  Dicendum ,  quod  uti  aliquo  dicitur   Q"'?'»»"- . 
+**Ad 2.** Quod obiicitur secundo, quod omnis potentia refertur in finem per actum suum: dicendum, quod illa potentia dicitur uti suo actu, quae est domina sui actus; et talis potentiae est referre suum actum, non tantum referri. Et quoniam sola voluntas est domina sui actus et sola est se ipsam movens, ideo ipsa sola est, cuius est active uti. Aliis autem potentiis contingit uti materialiter et passive, quia habent referri, et non referre. Et hinc est, quod ab Augustino dicitur[^14]: «Uti est assumere aliquid in facultatem voluntatis»; *facultas* enim dicitur eius dominium, quo faciliter potest in actum suum tanquam illius princeps.
 
-'  ^  J  modi  utenc 
+**Ad 3.** Ad illud quod obiicitur, quod rationis est referre: dicendum, quod dupliciter est referre, scilicet per collationem et illationem, sicut praemissae referuntur ad conclusionem; et hoc est rationis, et hoc non est *uti*. Et est referre per inclinationem et ordinationem ad aliud; et hoc est proprie voluntatis, quia potest aliquid assumere quiescendo ibi, vel aliud intendendo; et hoc est referre per quod definitur *uti* etc.
 
-quatuor  modis  :  aut  sicut  instrumento ,  quo  opera-  ^""i^J;,^™ 
-mur ,  sicut  aliquis  utitur  *  instrumento  vel  organo ; 
-et  sic  non  omnibus  contingit  uti,  utpote  potentiis, 
-quae  sunt  pure  naturales,  accipiendo  uti  proprie, 
-sicut  accipit  Augustinus  " ;  aut  sicut  habitu,  quo  re- 
-gulamur,  utpote  virtute;  et  sic  non  omnibus  con- 
-tingit  recte  uti,  ut  habitu  vitii,  quo  potius  contin- 
-git  obliquari ;  aut  sicut  actu,  quo  movemur;  et 
-sic   non   omni   actu  contingit  bene  '"  uti ,  sicut  illis 
+**Ad 4.** Ad illud quod obiicitur de arte, dicendum, quod ars dicit quod est operationis, et quod est speculationis. Secundum quod dicit quod est speculationis, non habet *uti*, et sic est rationis; secundum vero quod dicit quod est operationis, sic extenditur ad voluntatem et eam regulat in utendo.
 
+<!-- page 32 -->
 
-'  Vers.  4,  ubi  Vulgala  pro  Deus  legit  Dominus.  —  Mox 
-et  pluries  in  seqq.  argg.  posuimus  coniingit  loco  convenit. 
-Notamus  hic  et  pro  semper,  quod  codd.  praesertim  antiquiores 
-saepissime  ista  duo  vocabula  eodem  modo  exhibeant  abbreviata, 
-ita  iit  sive  contingit  sive  convenit  legi  possit. 
+### Scholion
 
-^  Cap.  5.  de  Div.  iNom. ,  ubi  secundum  textum  Graecum 
-legitur;  Non  aliud  dicit  esse  bonnm  et  aliud  ens.  —  Mox  cod. 
-cc  sed  si  omnia. 
+In hac quaestione scholia sunt in Richard. a Med., hic q. 1, a. 1, et in Scot., hic q. 1. — S. Thom., hic q. 1, a. 1 et 2; S. I, q. 16, a. 4. — B. Albert., hic a. 1 et 2. — Henr. Gand., S. a. 8, q. 1. — Durand., hic q. 2. — Dionys. Carth., hic q. 1. — Petr. a Tar., hic q. 1, a. 2, qui doctrinam S. Bonaventurae differentias indicat.
 
-3  Elicitur  ex  definitione  virtutis ,  quam  August. ,  II.  de 
-Lib.  Arb.  c.  18.  et  19.  ponit:  Bona  qualitas  mentis,  qua  recte 
-vivitur  et  nenio  male  utitur.  —  Mox  multi  eodd.  ut  C  G  H  K  OP 
-Q  R  S  U  etc.  et  edd.  2 ,  3 ,  i ,  S ,  6  post  poenae  omittunt  iit 
-patientiae ,  qiiod  tamen  codd.  praedicti  postea  male  loco  ut  poe- 
-nitenliae  ponunt,  editiones  autem  praeallegatiie  verbis  ut  poe- 
-nitentiae  praemittunt. 
+---
 
-■*  Aristot. ,  de  Praedicani.  c.  de  Oppositis  circa  finem.  Vide 
-supra  q.  I.  fundani.  i. 
+## English
 
-5  Lib.  I.  c.  23.  n.  22:  Cum  ergo  quatuor  sint  diligcnda: 
-unum,  quod  supra  nos  est;  alterum,  quod  nos  sumus;  tcrtium. 
+<!-- page 30 -->
 
+**Article 1.** *What* use *is, and concerning the* usable.
 
-quod  iuxta  nos  est;  quartum,  quod  infra  nos  est:  de  secundo 
-et  quarto  nulla  praecepta  danda  erant.  —  Et  ibidem  c.  26. 
-n.  27:  Quod  si  te  totum  intelligas,  id  est  animum  et  corpus 
-tuum  et  proximum  tuuni,  id  est  animum  et  corpus  eius.  — 
-Cod.  W  post  caritate  addit  scilicet  Deus.  —  Paulo  ante  flde 
-codd.  et  ed.  1  addidimus  sicut. 
+**Question 1.** *Whether* use *is an act of the will, of reason, or of every faculty.*
 
-^  Aristot. ,  !I.  Ethic.  c.  6 :  Quaedam  enim  confestini  nomi- 
-nata  convoluta  sunt  cum  malitia.  (Translatio  aiitiqua  in  ed.  Ope- 
-rum  S.  Tliomae  a  P.  Fiaccadori  1866.  tom.  21.) 
+Concerning the first — namely, what *use* is in essence — I proceed thus.
 
-'  August.,  II.  de  Lib.  Arb.  c.  18.  et  19.  n.  SO.  Vide  paulo 
-supra  fundam.  3. 
+That it is an act of the will is shown as follows.
 
-*  Substituimus  ex  fere  omnibus  mss.  et  ed.  1  aliqnis  uii- 
-tur  pro  ulimur.  Cod.  V  sicut  aliquo  utimur.  Mox  ex  plurimis 
-codd.  cum  ed.  1  bis  substituimus  utpote  loco  ut  puta. 
+1. From the act of using, each user takes his name[^1]; therefore the act of using pertains to the will.
 
-9  Qualenus  uti  est  assumere  aliquid  in  facultatem  volunta- 
-tis.  Vid.  supra  q.  1 .  Cfr.  etiam  Aristot. ,  I.  Elhio.  c.  ull. ,  ubi  agit 
-depotcntiis,  quaenon  subiacent  imperio  rationis  et  voluntatis. 
+2. Again, Augustine in Book X *On the Trinity*[^2]: "To use is to take something into the power of the will"; therefore *use* is an act of the will.
 
-'"  Vat,  cum  cod.  cc  male  omittit  bene,  quod  antiquiores 
-mss,  ac  od.  1  suppeditjmt ,  mutavimusque  conftTOY  in  con(m jS. 
+3. Again, this seems [to follow] from the division of *use* itself against other things. For Augustine sets down these three — *reason*, *teaching*, and *use* — and says that natural talent considers what the good can be, teaching what knows the good, use what wills[^3]; therefore use is an act of the will.
 
+4. Again, "Opposites are by nature concerned with the same thing"[^4]; but *use* and *misuse* are opposites; therefore if misuse belongs to the will alone, then *use* likewise is the act of the will alone.
 
+**On the contrary.**
 
+1. To use seems to be a way toward acquiring a habit[^5], which pertains to every faculty having an act: therefore *use* seems to be of every faculty.
 
-### English
+2. Again, every faculty is ordered to act, and every act to an end[^6]; but from this something is called *useful*, or it is said that we *use* it, because it is orderable to an end; but to be ordered to an end through one's own operation belongs to every faculty: therefore *use* is an act of every faculty.
 
-[Translation pending]
+3. Again, Augustine says, and it is held in the *littera*[^7]: "To use is to refer what has come into use to obtaining that which is to be enjoyed." But to refer, which belongs to him whose office it is to order, is a matter of reason: therefore *use* too is an act of reason.
 
-### Notes
+4. Again, "art uses its instruments"[^8]; but art is in a rational or cognitive power, since it is a science: therefore, since habit and act belong to the same faculty, *use* is in a rational faculty.
 
-[Notes pending]
+**Conclusion.**
+
+*"Use" can be understood in five ways: if taken most commonly and commonly, it is an act of every faculty; if taken properly, more properly, and most properly, it is an act of the will.*
+
+**Reply.** I answer that *use* is taken in five ways, and accordingly its meaning and its definition are differentiated.
+
+For it is taken, first of all, *most commonly*, insofar as it is divided against idleness or inactivity, as the natural operation owed to each thing,
+
+<!-- page 31 -->
+
+toward which each thing is ordered; and according to this the Philosopher says[^9]: "That whose use is good, etc."
+
+In the second way it is said *commonly*; and in this way *use* is divided against disuse. And in this way it is defined by Victorinus[^10]: "Use is an act frequently elicited from a power"; and in this way it can be said that it is the act of every faculty and adds nothing to the act except frequency.
+
+In the third way *use* is taken properly; and in this way it is divided against the habits of memory and understanding, namely against natural talent and teaching. And in this way it is defined by Augustine in Book X *On the Trinity*[^11]: "To use is to take something into the power of the will"; and in this way it properly expresses an act of the will.
+
+In the fourth way *use* is taken more properly; and in this way it is divided against the quietative act, namely against *enjoyment*. And in this way it is defined by Augustine[^12]: "To use is to take something into the power of the will for the sake of something else"; and in this way it is the act of the will as directed toward something else.
+
+In the fifth way it is taken *most properly*; and in this way it is divided against the disordered act, namely against *misuse*. And in this way it is defined by Augustine in *On Christian Doctrine*[^13]: "To use is to refer what has come into use to that which is to be enjoyed"; and in this way *use* expresses an act of the will that is referred and ordered toward the end.
+
+The reason, therefore, for the different definitions is the manifold acceptation of what it is to use; and the reason for the manifold acceptation is its opposition to different things.
+
+If, then, it is asked of which faculty it is the act: it must be said that, speaking most commonly and commonly, it is the act of every faculty — and in this way Augustine does not speak of it; but properly, more properly, and most properly, it is the act of the will itself.
+
+**Reply to 1.** And so the first objection on the contrary side is clear, namely that it is the act of every faculty.
+
+**Reply to 2.** To the objection that every faculty is referred to its end through its own act, it must be said that that faculty is said to use its act which is mistress of its act; and it belongs to such a faculty to refer its own act, not merely to be referred. And since the will alone is mistress of its act and alone moves itself, therefore it alone is the faculty whose role it is to use actively. To the other faculties it belongs to be used materially and passively, because they have to be referred and not to refer. And this is why Augustine says[^14]: "To use is to take something into the power of the will"; for *power* (*facultas*) is said to be the will's sovereignty, by which it can readily pass into its own act as its master.
+
+**Reply to 3.** To the objection that referring belongs to reason, it must be said that referring is twofold: by way of comparison and inference, as premises are referred to a conclusion — and this belongs to reason, and this is not *use*. And there is referring by way of inclination and ordering toward something else — and this properly belongs to the will, because the will can take something up either by resting in it or by intending something else; and this is the referring by which *use* is defined.
+
+**Reply to 4.** To the objection concerning art, it must be said that art covers both what pertains to operation and what pertains to speculation. Insofar as it covers what belongs to speculation, it does not involve *use*, and so belongs to reason; but insofar as it covers what belongs to operation, it extends to the will and regulates the will in using.
+
+<!-- page 32 -->
+
+### Scholion
+
+For scholia on this question, see Richard of Mediavilla, here q. 1, a. 1, and Scotus, here q. 1. — Thomas Aquinas, here q. 1, aa. 1–2; *Summa theologiae* I, q. 16, a. 4. — Albert the Great, here aa. 1–2. — Henry of Ghent, *Summa* a. 8, q. 1. — Durandus, here q. 2. — Dionysius Carthusianus, here q. 1. — Peter of Tarentaise, here q. 1, a. 2 — who indicates how Bonaventure's teaching differs from the others.
+
+---
+
+## Apparatus
+
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering produced by `tools/apparatus-translate.py` (with manual polish where the script's draft was awkward).
+
+[^1]: **La** — *Commentum non. et ed. 4, restituimus verba* Circa primum *et non* ratiocinatur; *ex cod. B. Cf. et* De divisione mentis, *Bacc. q. 1 ad 2.*<br>
+      **En** — The non-commentated recension and ed. 4; we have restored the words *Circa primum* (not *ratiocinatur*) from cod. B. Cf. also *On the Division of the Mind*, Bacc. q. 1, reply to obj. 2.
+
+[^2]: **La** — *Cap. 11. n. 17.*<br>
+      **En** — Ch. 11, n. 17.
+
+[^3]: **La** — *Cf. Aug., De Trin. X, c. 11, n. 17.*<br>
+      **En** — Cf. Augustine, *On the Trinity* X, ch. 11, n. 17.
+
+[^4]: **La** — *Arist., De praedicamentis, c. De oppositis. Paulo post quidam codices addunt* etiam secundum se.<br>
+      **En** — Aristotle, *Categories*, ch. *On Opposites*. A little later certain codices add *etiam secundum se* ("also in themselves").
+
+[^5]: **La** — *Cf. Arist., Eth. Nic. II, c. 1, n. 4.*<br>
+      **En** — Cf. Aristotle, *Nicomachean Ethics* II, ch. 1, n. 4.
+
+[^6]: **La** — *Cf. Arist., Phys. II, c. 2, n. 4; et passim apud scholasticos.*<br>
+      **En** — Cf. Aristotle, *Physics* II, ch. 2, n. 4; and [this principle occurs] throughout the scholastics.
+
+[^7]: **La** — *Scilicet* in littera Magistri, d. 1, c. 3 (Quaracchi p. 27). *Cf. Aug., De doctr. christ. I, c. 4, n. 4.*<br>
+      **En** — Namely in the text of the Master (Peter Lombard), d. 1, ch. 3 (Quaracchi p. 27). Cf. Augustine, *On Christian Doctrine* I, ch. 4, n. 4.
+
+[^8]: **La** — *Arist., Phys. II, c. 2, n. 2 et passim.*<br>
+      **En** — Aristotle, *Physics* II, ch. 2, n. 2, and throughout.
+
+[^9]: **La** — *Arist., Eth. Nic. V, c. 1, n. 14, ubi Vulgata legit:* Cuius usus bonus etc. — *Vat. cum cod. A et omnibus edd. excepta 8, in principio propositionis:* Idem *loco* Unde Augustinus.<br>
+      **En** — Aristotle, *Nicomachean Ethics* V, ch. 1, n. 14, where the Vulgate reads: *Cuius usus bonus* etc. — Vat. with cod. A and all edd. (except 8), at the beginning of the proposition: *Idem* in place of *Unde Augustinus*.
+
+[^10]: **La** — *Marius Victorinus, fragm. ap. S. Aug., Epist. 259. Cf. et Peraldus,* Summa de virtutibus, *tr. 1, p. 1, c. 7.*<br>
+       **En** — Marius Victorinus, fragment in St. Augustine, *Epistle* 259. Cf. also Peraldus, *Summa on the Virtues*, tract. 1, pt. 1, ch. 7.
+
+[^11]: **La** — *Cap. 11. n. 17. — Plures codd. cum edd. antiquis legunt* assumendo.<br>
+       **En** — Ch. 11, n. 17. — Several codices with the older editions read *assumendo*.
+
+[^12]: **La** — *De Trin. X, c. 11, n. 17. — In fine textus cod. B, ed. 1 et originale habent* appetivit *pro* appetit.<br>
+       **En** — *On the Trinity* X, ch. 11, n. 17. — At the end of the text, cod. B, ed. 1, and the original have *appetivit* instead of *appetit*.
+
+[^13]: **La** — *Libr. I, c. 33, n. 37.*<br>
+       **En** — Bk. I, ch. 33, n. 37.
+
+[^14]: **La** — *Ibid. Cf. et supra ad arg. 2.*<br>
+       **En** — Ibid. Cf. also above, at arg. 2.
+
+---
+
+## Notes
+
+- **Chunk scope.** This chunk covers Q. I in its entirety, from the *Videtur quod* through the reply to obj. 4. The *Tractatio quaestionum* divisio at the top of printed p. 30 belongs to the distinction as a whole and lives in a separate chunk (`bon-sent-I-d1-divisio`, pending). The scholion summary above is a condensed header pointer to the Quaracchi editors' cross-reference list — the full scholion body for Q. I continues into Q. II's discussion and will be captured there.
+
+- **Chunking correction.** The legacy chunk (`vol1/legacy/bon-sent-I-d1-a1-q1.md`) was mis-chunked and covered only from the Respondeo body onward, losing the entire first half of Q. I (the four *Videtur quod* arguments, the four *Sed contra* arguments, the Conclusio, and the opening of the Respondeo). This rebuild recovers all of that missing material.
+
+- **Key terms** (per project glossary): *uti* → use; *frui* → enjoy; *frui / frui* — "enjoyment" / "fruition"; *actus quietativus* → quietative act (Bonaventure's technical term for *frui*, the act of resting in an end); *facultas voluntatis* → power of the will; *ratio* → reason; *ordinare / referre* → order / refer; *habitus* → habit.
+
+- ***Facultas*** **in the reply to obj. 2.** Bonaventure glosses Augustine's *facultas* as the will's *dominium* — its sovereign readiness to pass to its own act. The English preserves this gloss: *facultas* is rendered "power" in the Augustinian quotation and "sovereignty" in Bonaventure's unpacking.
+
+- **Opposita nata sunt fieri circa idem.** The lemma in obj. 4 is from Aristotle's *Categories* on opposites — a scholastic commonplace. A few codices add *etiam secundum se* after the lemma; the apparatus entry [^4] notes this variant.
+
+- **Vision transcription status.** This is a first-pass vision re-OCR of printed pp. 30–32 (PDF pp. 132–134). A handful of finer-point words in the *Sed contra* arguments were cross-checked against the legacy OCR and harmonized; these spots should be verified on a second vision pass at higher image resolution before publication. All apparatus footnotes here were read from the PDF at small point size and should be considered best-effort — several manuscript sigla and siglum lists may still need correction against the Quaracchi prolegomena (vol. I sigla key).
