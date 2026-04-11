@@ -1,0 +1,72 @@
+{
+  "_schema": {
+    "version": 1,
+    "description": "Per-volume manuscript and edition sigla used in the Quaracchi Opera Omnia of Bonaventure. Each volume in the Quaracchi edition has its own sigla key printed in its prolegomena; entries here should be populated from that key. A later script can aggregate all volumes into a cross-reference glossary once the project is complete.",
+    "population_strategy": "Start with entries encountered in apparatus during translation. As each volume's prolegomena is re-OCR'd, populate the full sigla key for that volume in one pass."
+  },
+  "vol1": {
+    "_meta": {
+      "title": "Opera Omnia, Tomus I — Commentarius in I Librum Sententiarum",
+      "year": 1882,
+      "editor": "PP. Collegii a S. Bonaventura",
+      "ia_identifier": "doctorisseraphic11bona",
+      "prolegomena_pages": "I–XCVI",
+      "sigla_key_location": "Prolegomena, pp. LXXXIX–XCVI (to be verified on re-OCR)",
+      "populated": false
+    },
+    "manuscripts": {
+      "A": { "description": "(pending — populate from prolegomena)" },
+      "B": { "description": "(pending — populate from prolegomena)" },
+      "C": { "description": "(pending — populate from prolegomena)" },
+      "D": { "description": "(pending — populate from prolegomena)" },
+      "E": { "description": "(pending — populate from prolegomena)" },
+      "F": { "description": "(pending — populate from prolegomena)" }
+    },
+    "editions": {
+      "ed. 1": { "description": "Editio princeps (pending — populate from prolegomena)" },
+      "ed. 2": { "description": "(pending — populate from prolegomena)" },
+      "ed. 3": { "description": "(pending — populate from prolegomena)" },
+      "ed. 4": { "description": "(pending — populate from prolegomena)" },
+      "ed. 5": { "description": "(pending — populate from prolegomena)" },
+      "ed. 6": { "description": "(pending — populate from prolegomena)" },
+      "ed. 7": { "description": "(pending — populate from prolegomena)" },
+      "ed. 8": { "description": "(pending — populate from prolegomena)" },
+      "Vat.": { "description": "Vatican edition (pending — populate from prolegomena)" },
+      "orig.": { "description": "Original (autograph or earliest exemplar)" }
+    }
+  },
+  "vol1_part2": {
+    "_meta": {
+      "title": "Opera Omnia, Tomus I, Pars 2 — Commentarius in I Librum Sent. (Dist. XXIV–XLVIII)",
+      "year": 1882,
+      "ia_identifier": "doctorisseraphic12bona",
+      "populated": false
+    },
+    "manuscripts": {},
+    "editions": {}
+  },
+  "vol2": {
+    "_meta": {
+      "title": "Opera Omnia, Tomus II — Commentarius in II Librum Sent.",
+      "populated": false
+    },
+    "manuscripts": {},
+    "editions": {}
+  },
+  "vol3": {
+    "_meta": {
+      "title": "Opera Omnia, Tomus III — Commentarius in III Librum Sent.",
+      "populated": false
+    },
+    "manuscripts": {},
+    "editions": {}
+  },
+  "vol4": {
+    "_meta": {
+      "title": "Opera Omnia, Tomus IV — Commentarius in IV Librum Sent.",
+      "populated": false
+    },
+    "manuscripts": {},
+    "editions": {}
+  }
+}
