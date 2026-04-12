@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { loadAllContent } from "@/lib/content";
-import { CrossDivider, FleuronDivider } from "@/components/decorations";
+import { CrossDivider } from "@/components/decorations";
 import { TextReader } from "./text-reader";
 
 export function generateStaticParams() {
@@ -70,51 +70,6 @@ export default async function QuestionPage({
         apparatus={question.apparatus ?? []}
         hasTranslation={question.hasTranslation}
       />
-
-      {question.notes && (
-        <div style={{ marginTop: "2rem" }}>
-          <FleuronDivider />
-          <div className="section-title">Translation Notes</div>
-          <div className="notes-section">
-            {question.notes.split("\n").map((line, i) => {
-              const trimmed = line.trim();
-              if (!trimmed) return null;
-              if (trimmed.startsWith("- **")) {
-                const match = trimmed.match(/^- \*\*(.+?)\*\*(.*)$/);
-                if (match) {
-                  return (
-                    <p
-                      key={i}
-                      style={{
-                        fontSize: "14px",
-                        color: "#4A2A1A",
-                        lineHeight: 1.7,
-                        marginBottom: "0.75rem",
-                      }}
-                    >
-                      <strong style={{ color: "#3D1308" }}>{match[1]}</strong>
-                      {match[2]}
-                    </p>
-                  );
-                }
-              }
-              return (
-                <p
-                  key={i}
-                  style={{
-                    fontSize: "14px",
-                    color: "#4A2A1A",
-                    lineHeight: 1.7,
-                    marginBottom: "0.5rem",
-                  }}
-                >
-                  {trimmed}
-                </p>
-              );
-            })}
-          </div>
-        </div>
-      )}
 
       {(prevQ || nextQ) && (
         <div
