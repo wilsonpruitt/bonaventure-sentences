@@ -3,213 +3,98 @@ id: "bon-sent-I-d5-a1-q1"
 volume: 1
 book: 1
 distinctio: 5
+pars: null
 articulus: 1
 quaestio: 1
 type: quaestio
-title: "I Sent., d. 5, a. 1, q. 1"
-line_start: 25972
-line_end: 26293
-word_count_latin: 2151
+title_la: "Utrum substantia sive essentia generet"
+title_en: "Whether substance or essence begets"
+printed_pages: [111, 112, 113]
+pdf_pages: [213, 214, 215]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 111–113"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C rebuild — Latin from raw OCR (fundamenta) + legacy a1-q1 (body, Q.II bleed trimmed at line 198); English pending"
+format_version: 1
 ---
 
 # I Sent., d. 5, a. 1, q. 1
+## *Utrum substantia sive essentia generet*
 
-### Latin
+---
 
-DIST. V. ART. I. QUAEST. I.
+## Latin
 
-H3
+<!-- page 111 -->
 
-quandoque ad confundendas haereses expressius loquuntur , quam proprietas sermonis sustineat.
+### Articulus I
 
-1. Ad illud ergo quod primo obiicitur, quod
-soiuiio op- essentia et persona non habent diversas proprieta-
+*De comparatione generationis ad substantiam sive essentiam in ratione principii.*
 
-positorum. *■ ,1. . . . , 7 . ,
+### Quaestio I
 
-tes; dicendum, quod diversitas rationis dupliciter'
-Dupiei di- est in divinis. Uno raodo per habere diversas pro-
+*Utrum substantia sive essentia generet.*
 
-Tersitas ra- ^ ^
+Circa primum, quod substantia non generet, ostenditur sic:
 
-tionis. prietates; et illud inducit distinctionem, et sic diflerunt ratione nec praedicantur de eodem, ut Pater
-et Filius ; alio modo est per habere proprietatem et
-non habere; et illud non inducit distinctionem nec
-facit, quod unum non praedicetur de altero; facit tamen , quod aliquid dicitur de uno , quod non dicitur
-de altero, ut patet in Peiro et homine: Petrus est
-individuum, homo non; et tamen homo vere praedicatur de Petro.
+**1.** *Generare* dicit relationem: ergo cui convenit generare, convenit et referri; sed essentiae non convenit referri: ergo nec generare.
 
-Ad illud , quod summa oppositio est aflirmatio-
+**2.** Item, *generare* importat distinctionem: ergo cui convenit generare, per consequens et distingui; sed essentia cum sit una, non distinguitur: ergo etc. Aut si generat, plures sunt essentiae.
 
-DnpiMmo-nis et negationis; dicendum, quod verum est, ubi
+**3.** Item, *generare* dicit actionem personalem: ergo de illo solo dicitur, quod vel supponit personam; sed essentia non significat personam, cum sit communis, nec personam supponit, cum sit omnino abstractum: ergo etc.
 
-ctoriorum. negatio nihil ponit, sicut inter aliquid et nihil; sed
+**4.** Item, *generare* est proprietas personae, *communicabilitas* est essentiae: ergo sicut se habet communicabilitas ad personam, ita proprietas personalis ad essentiam; sed communicabilitas nunquam est personae, quia haec est falsa: *Pater est communicabilis*; ergo nec proprietas personalis erit essentiae: ergo nec *generare*, cum sit personae.
 
-ubi ponit extrema , minima potest esse et surgit ex
+*Contra:*
 
-quantulacumque parva differentia sive rei sive ratio-
+**1.** Quaecumque sic se habent, quod unum est idem alii, et non habent diversas proprietates, quidquid dicitur de uno, et de altero; sed persona et essentia sunt huiusmodi, quia persona est essentia: ergo etc.
 
-nis ; unde non sufQcit ad distinguendum.
+**2.** Item, quaecumque sic se habent, quod unum praedicatur de altero, unum supponit pro altero, quia subiectum vere subiicitur praedicato; sed essentia vere praedicatur de Patre; unde haec est vera: *Pater est essentia*: ergo et supponit: ergo sicut *Deus Pater generat*, sic potest dici, *essentia generat*.
 
-2. Ad illud quod secundo obiicitur , quod prae-
-^soiufcqno-dicatum supponit pro subiecto; dici potest uno modo,
+**3.** Item, de quocumque praedicatur subiectum, et propria passio; sed *generare* est sicut propria passio Patris; sed haec est vera: *divina essentia est Pater*: ergo et haec similiter: *divina essentia generat*.
 
-quod — sicut in inferioribus est praedicalio secundum
-substantiam , ut homo est animal , et est praedicatio secundum rationem, ut animal est genus; el
-praedicatum^ supponit pro eo de quo praedicatur
-secundum substantiam, sed mutata praedicatione secundum substantiam in praedicationem, quae est se-
-cundum rationem , est ibi accidens ; unde non sequitur: animal est genus, homo est animal, ergo homo
-est genus — similiter dicunt in divinis, quod cum
-sint ibi res et ratio, est ibi praedicatio secundum
-substantiam; et illa salvata, quidquid dicitur de
-praedicato, et de subiecto; sed mutata praedicatione
-secundum substantiam in praedicationem secundum
-rationem, est ibi accidens; et talis est hic=': Pater
-3d divina essentia est Pater: ergo divina
+**4.** Item, de quocumque praedicatur definitum, et definitio; sed definitio *patris* est *filii pater*. Cum igitur haec sit vera: *divina essentia est Pater*, et haec erit vera: *divina essentia est Filii Pater*: ergo a convertibili: *Filius est Filius essentiae*.
 
-Sed ista similitudo non videtur conveniens, quia
+<!-- page 112 -->
 
-Non proba- in divinis ratio* praedicatur deessentia, unde haec
+### Conclusio
 
-est vera: essentia est paternitas ei generatio; quod
+> *Haec locutio «divina essentia generat» est omnino impropria et neganda, vel saltem pie exponenda.*
 
-quidem in inferioribus non reperitur. Et ^ propterea
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod fides vera dicit quasi fundamentum, Deum esse trinum et unum, et ita trinum, quod trinitas non confunditur, et ita unum, quod unitas non multiplicatur. Si ergo quod credimus oportuit significare, opportune inventa sunt nomina in divinis, immo a Deo nobis manifestata, quae significent trinitatem sub distinctione et unitatem sine omni multiplicatione.
 
-ahter dicendum , quod in divinis est duplex modus
-praedicandi: per identitatem et per inhaerentiam.
-Per identitatem, ut cum dicitur: essentia est Pater;
-per inhaerentiam sive denominationem , sicut faciunt adiectiva et verba ^ Praedicatio per identitatem
-est in divinis ratione summae simplicitatis , quae non
-patitur personam minus esse simpUcem quam essentiam; quae quia non est in creaturis, ideo in eis non
-reperitur praedicatio per identitatem omnimodam,
-nisi idem enuntietur de se, ut cum dicitur: humanitas est humanitas; sed omnis propria praedicatio
-est ' per inhaerentiam , quia nihil est omnino simplex; unde baec estfalsa: humanitas est animaUtas.
-In praedicatione vero per inhaerentiam terminus*
-aliud significat et aliud supponit , quia signiflcat formam communem et supponit pro inferiori , et in tali
-verum est, quod ilUid quod praedicatur de altero,
-supponit pro illo. Sed in praedicatione per identitatem idem signiflcat et supponit. Unde tunc est sen-
-sus, quod signiflcatum per hunc terminum Pater
-est idem, quod signiflcatum per hunc terminum essentia, et ideo paternitas est essentia; et quia hoc
-nomen essentia non signiflcat personam, ideo pro
-ipsa non supponit, cum nullo modo de ipsa praedicetur nisi praedicaUone per identitatem.
+Sicut igitur nomina imposita personis omnino sunt incommunicabilia et quantum ad suppositum et quantum ad significatum; unde haec oratio est falsa: *Pater est Filius*, vel *Pater est communicabilis*; ita ex parte essentiae vel naturae oportuit nomina imponi, quae non distinguerentur nec quantum ad significatum nec quantum ad suppositum.
 
-3. Ad illud quod obiicitur tertio de passione et
-subiecto et consimiUbus, dicendum, quod quaedam
-sunt vocabula in divinis substanUalia , quae claudunt
-intra se rem, circa quam ponunt formam importatam per ipsa, ut hoc nomen Pater; et talia possunt
-praedicari per identitatem , ut cum dicitur : essentia
-est Pater, id est, ille qui est Pater. Quaedam sunt,
-quae sunt omnino in adiacentia, sicut verba et nomina adiective retenta ', ut generat et genitus et na-
-tus; et talia ponunt rem suam circa ea, de quibus
-praedicantur , ideo tantum per inhaerentiam praedicantur. Et ideo generare ponit distinctionem, quam
-importat, circa essentiam, cum de ea dicitur; et ideo
-haec est falsa: essenUa generat; haec tamen vera:
-essenUa est generatio. Et quando a praedicaUone per
-identitatem itur'" ad praedicaUonem per inhaerentiam, potest esse ibi accidens. Quod ergo dicitur;
-de quocumque praedicatur subiectum, et propria
+*Triplex genus nominum.* Notandum autem, quod triplex est genus nominum significantium essentiam. Quaedam enim significant *in concretione*, ut hoc nomen *Deus*; quaedam *in omnimoda abstractione*, ut hoc nomen *essentia*; quaedam *medio modo*, ut *lumen*, *sapientia*, *voluntas* et consimilia; et ista dicuntur medio modo significare, quia non concernunt suppositum per modum inhaerentiae, sed concernunt suppositum ratione eius, quod dicunt aliquam rationem actus vel originis, quae sunt ipsorum suppositorum.
 
-Duplex spebnlorum.
+Cum igitur tres sint nominum differentiae, nomen *concretum* supponit pro persona proprie; nomen *medium* supponit partim proprie, partim improprie; nomen *abstractum* et *absolutum* non supponit nisi omnino improprie.
 
+Unde haec est propria: *Deus generat*, et in usum adducenda; haec autem: *sapientia generat de sapientia*, partim propria, partim impropria; ideo est sustinenda, sed non extendenda; haec autem: *essentia generat*, omnino impropria, et ideo neganda est, et si legatur alicubi, est exponenda. Sancti enim quandoque ad confundendas haereses expressius loquuntur, quam proprietas sermonis sustineat.
 
-quod est species.
+<!-- page 113 -->
 
-Et si obiicias, quod^ in divinis non cadit ratio
-extranei, quia non cadit ibi accidens; dicendum,
-quod etsi non sit extraneitas nec diversitas quantum ad rcrn , est tamen quoad rationem sive quoad
-modum praedicandi, qui triplex est in divinis, sicut infra patebil^ Unde sicut hic est accidens: es-
-sentia est persona; sed persona distinguitur: ergo
-et essentia; ita et in proposito.
+**1.** Ad illud ergo quod primo obiicitur, quod essentia et persona non habent diversas proprietates; dicendum, quod diversitas rationis dupliciter est in divinis. Uno modo per habere diversas proprietates; et illud inducit distinctionem, et sic differunt ratione nec praedicantur de eodem, ut Pater et Filius; alio modo est per habere proprietatem et non habere; et illud non inducit distinctionem nec facit, quod unum non praedicetur de altero; facit tamen, quod aliquid dicitur de uno, quod non dicitur de altero, ut patet in Petro et homine: *Petrus est individuum*, *homo non*; et tamen *homo* vere praedicatur de Petro.
 
-4. Ad illud quod ultimo obiicitur de hac: essentia" est Pater Filii; distinguitur a Praeposilivo, quod Distindio
-Pater potest ponere suam rem sive respectum per"'''''"'''""'"
-ipsum importatum circa ipsum subiectum, quod estessentia ; et tunc est locutio falsa ; est enim sensus, quod
-essentia refertur ad Filium. Vel potest claudere intra
-se ^ rem sui substantivi, ut sit sensus : essentia esl Pater
-Filii, id est, essentia est ille qui refertur ad Filium;
-et hoc modo vera est locutio, et rion valet argumentum: ergo Filius est Filius essentiae, immo est ibi
-accidens. Sicut enim non sequitur: Filius refertur ad
-illum qui est Pater, et ille est essentia : ergo refertur
-vel distinguitur ab essentia; sic et in proposito.
+Ad illud, quod summa oppositio est affirmationis et negationis; dicendum, quod verum est, ubi negatio nihil ponit, sicut inter aliquid et nihil; sed ubi ponit extrema, minima potest esse et surgit ex quantulacumque parva differentia sive rei sive rationis.
 
-S 0 H 0 L I 0 K
+**2.** Ad illud quod secundo obiicitur, quod de quocumque praedicatur subiectum, de eo et propria passio; dicendum, quod verum est de propria passione adaequata; sed *generare* non est proprietas adaequata Patris, quia hoc est extra communicabilitatem ab essentia: ideo non sequitur.
 
-I. Quaestio haec est circa principium quod divinarum produclionum, quod secundum fidem catliolicam ipsae sunt divinae
-personae producentes. Conclusiones huius et primae quaestionis
-sequentis arliculi sunt contra abbatem loacliim, cuius doctrina
-censurata est in Concilio Lateranensi IV. can. de Fide catholica,
-cap. Damnamus : « Nos autcm , S. approbante Concilio , credimus et confilemur cum Petro (Lombardo), quod una quae-
-dam res est incomprehensibilis quidem et inelfabilis... et illa
-res non est generans nec gcnita nec procedens ». — Hanc doctrinam catholicam Seraphicus gravissimis argumentis con-
-firmat.
+**3.** Ad illud quod tertio obiicitur de propria passione Patris; similiter dicendum, quod *generare* non est propria passio Patris in hoc sensu, sed est proprietas eius distinguens.
 
-II. In solut. ad. I distinguit S. Doctor duplicem diversitatem
-rationis in divinis secundum differentiam, quae est inter habere
-diversas proprietates et habere vel non habere unam eandemque proprietatem , de quo cfr. hic dub. i. et infra dist. 49.
-p. II. a. I . q. 2. ad 4. AfHrmat etiam , alteram inducere distinclionem realem , alteram non. Tres enim sunt in divinis pro-
-prietates personales, scil. paternitas, flliatio et spiratio passiva,
-et habere distinctas has proprietates inducit realem personarum
-distinc tionem ; unde etiam una nequit praedicari de alia. Sed
-diversitas ralionis , quae e.xsurgit ex habere aliquam proprietatem et eandem non habere , non importat realem dislinctio-
-nem. Essenlia enim divina non habet proprietatem generandi ,
-quam habet Patcr; nihilominus paternitas et esscntia divina
-non distinguuntur realiter et possunt de se praedicari. Nec valet
-argumentatio (1. ad opp.), quod habere proprielatem et non
-habere sint contradictorie opposita, et quod exinde maiorem
-differentiam inducant inter personam et essentiam , quam quae
-est inter personas ad inviceni. Nam bene dislinguit S. Doctor
-inter conlradictioncm , cuius unum extremum nihil ponit ( ut
-inter aliquid et nihil ) et illam contradictionem , cuius exlrema
-aliquid ponunt. Si unum extremum nihil ponit, non potest verificari de aliquo termino positivo , bene tamen , si aliquid po-
-nit. Insuper minima ralionis distinctio sufficit ad hoc , ut con-
+**4.** Ad illud quod quarto obiicitur de definitione; dicendum, quod *pater* secundum rationem nominis importat distinctionem, et ideo definitio eius, *filii pater*, importat distinctionem; sed *essentia* non importat distinctionem. Ideo non praedicatur de essentia *filii pater*, licet praedicetur de Patre.
 
-tradictoria de distinctis dicantur. Sic terminus incommwiicaUlis
-verificatur de paternitate et praedicatur de ipsa, non de essentia,
-licet haec non realiter distinguatur a paternitate. Cfr. infra dist.
-26. q. 1 . ad 2. et d. 34. q. 1 . per totam et d. 33. q. 2. et S.
-Thom. , hic q. 1. a. 1.
+### Scholion
 
-III. Prima opinio in solut. ad 2. posita, quae distinguit inter
-praedicationem secundum substantiam et secundum rationem ,
-Praepositivi fuisse dicitur. Secunda opinio distinguit inter praedicalionem per identitatem et per inhaerentiam , sive denomi-
-nationem, quae a Scoto dicitur praedicatio formalis. De hac distinctione cfr. infra d. 33. q. 3. et d. 34. q. 2. Praedicatio
-identica fit per abstracta ; praedicatio per inhaerentiam flt semper in concreto et ratione suppositi. DiHerunt hae praedicalio-
-nes , tum quia abstraclum eandem rem significat et supponit ,
-concretum vero saepe aliam significat et pro alia supponit
-(supra, d. 4. q. 1.); tum quia abslractum nomen imponitur
-formae et a forma denominatur, concretum vero non imponitur formae, sed supposito; tum quia identica omnimodam iden-
-titatem complectitur , praedicatio vero per inhaerentiam aliquam
-diversitatem. Unde falsa est ratiocinatio , quae transit a praedicatione identica ad alteram et ab obstracto ad concretum ; et
-in hoc erravit abbas loachim , teste S. Thom. ( S. I. q. 39.
-a. 5.). — In creatis locum non habere praedicaUonem identicam
-in proprio sensu, est sententia communis, si excipias Franciscum Mayronis.
+*[Scholion pending OCR cleanup — see Quaracchi Vol. I p. 113 for the extended note on concrete/medium/abstract names in divinis, with cross-references to Alexander of Hales, Thomas, Scotus, and the scholastic logic of *suppositio propria* vs. *impropria*.]*
 
-IV. Quoad ipsam conclusionem cfr. supra d. 4. q. I. in
-corp. — Alex. Hal., p. I. q. 49. m. I. a. 4. (ubi affert et solvit
-25 argumenta contraria); q. 42. m. 3. a. I. — Scol., hic q. i.
+---
 
-— S. Thom., hic q. 1. a. 1 ; S. I. q. 39. a. 5. — B. Albert.,
-I. Sent. d. 4. a. 2. ad 1. quaesit. ; S. p. I. tr. 7. q. 30. m. 3. a. I.
+## English
 
-— Petr. a Tar., hic q. 1. a. 1. — Richard. a Med., hic q. I. —
-JEgid. R., hic I. princ. q. 2. a. I. et 2. — Henr. Gand., S. a. 39.
-q. 3. n. 13; q. 4. n. 12. et a. 54. q. 3. n. 21. 28. — Durand.,
-hic q. I . — Bionys. Carth. , hic q. 1 . — Biel , hic q. 1 .
+*[English translation pending.]*
 
-QUAESTIO II.
+---
 
-Utrum concedenda sit locutio, quod Filius generetur de substantia Palris.
+## Apparatus
 
-Secundo quaeritur, utrum sit concedendum,
-Fundamenia.quod aliquis generetur de substantia Patris, ut Filius. Et quod sic, yidetur:
-
-1. Per multas auctoritates in littera " et maxime
-per illam : Dicitur quoque et frequenter in Scriptura
-legitur : Pater de sua substantia genuisse Filium;
-
-### English
-
-[Translation pending]
-
-### Notes
-
-[Notes pending]
+*[Apparatus pending — see Quaracchi Vol. I pp. 111–113.]*

@@ -1,0 +1,107 @@
+---
+id: "bon-sent-I-d5-divisio"
+volume: 1
+book: 1
+distinctio: 5
+type: divisio
+title_la: "Commentarius in Distinctionem V — Divisio Textus et Tractatio Quaestionum"
+title_en: "Commentary on Distinction V — Division of the Text and Treatment of the Questions"
+printed_pages: [110, 111]
+pdf_pages: [212, 213]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 110–111"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 1 gap-fill — from raw OCR lines 25620–25745"
+format_version: 1
+---
+
+# I Sent., d. 5, Commentarius (Divisio textus)
+## *Commentary on Distinction V*
+
+---
+
+## Latin
+
+<!-- page 110 -->
+
+## Commentarius in Distinctionem V
+
+*De comparatione generationis ad terminum essentialem abstractum, qui est essentia.*
+
+> *«Post haec quaeritur, utrum concedendum sit»* etc.
+
+### Divisio Textus
+
+In praecedenti distinctione movit Magister quaestionem de comparatione generationis ad terminum essentialem concretum, qualis est hoc nomen *Deus*. In praesenti movet quaestionem de comparatione generationis ad terminum essentialem abstractum, qui est *essentia*. Et dividitur haec pars in duas partes.
+
+In *prima parte* movet quaestionem ex comparatione generationis ad essentiam in ratione *termini*, videlicet utrum essentia generetur; in *secunda* in ratione *principii*, utrum essentia generet etc., ibi: *Ita etiam non est dicendum, quod divina essentia genuit Filium*.
+
+Item prima pars habet quatuor partes. In *prima* proponit problemata, videlicet utrum essentia generet vel generetur. In *secunda* adducit rationes tres probantes, quod essentia non generatur a Patre, ibi: *Ideo non est dicendum, quod Pater genuit* etc. In *tertia* adducit rationes in contrarium, ibi: *Huic autem videtur contrarium* etc. In *quarta et ultima* solvit et exponit, ibi: *Ad quod respondemus*.
+
+### Tractatio Quaestionum
+
+In parte ista ad intelligentiam duarum principalium partium huius distinctionis duo principaliter quaeruntur.
+
+*Primo* quaeritur de comparatione generationis ad substantiam sive essentiam in ratione *principii*.
+
+*Secundo* quaeritur de comparatione eiusdem ad in ratione *termini*.
+
+Et duo quaeruntur quantum ad primum, duo vero quantum ad secundum.
+
+Quantum ad primum quaeritur:
+
+*Primo*, utrum substantia vel essentia generet.
+
+*Secundo*, utrum de substantia generetur aliquis.
+
+Quantum ad secundum quaeritur:
+
+*Primo*, utrum essentia sit genita.
+
+*Secundo*, utrum essentia genuerit essentiam.
+
+---
+
+## English
+
+## Commentary on Distinction V
+
+*On the comparison of generation to the abstract essential term — which is essence.*
+
+> *"After these things it is asked whether it must be conceded"* etc.
+
+### Division of the Text
+
+In the preceding distinction the Master raised the question of the comparison of generation to the concrete essential term — such as the name *God*. In the present distinction he raises the question of the comparison of generation to the abstract essential term — which is *essence*. This part is divided into two sub-parts.
+
+In the *first* he raises the question from the comparison of generation to essence in the account of *term* — namely, whether essence is begotten. In the *second*, in the account of *principle* — whether essence begets — at: *"Similarly it must not be said that the divine essence begot the Son."*
+
+Likewise, the first sub-part has four sections. In the *first* he proposes the problems — namely, whether essence begets or is begotten. In the *second* he brings forward three arguments proving that essence is not begotten by the Father, at: *"Therefore it must not be said that the Father begot..."* etc. In the *third* he brings forward arguments to the contrary, at: *"But this seems contrary..."* etc. In the *fourth and last* he resolves and explains, at: *"To this we respond."*
+
+### Treatment of the Questions
+
+In this part, for the understanding of the two principal sub-parts of this distinction, two principal questions are asked.
+
+*First* concerns the comparison of generation to substance or essence in the account of *principle*.
+
+*Second* concerns the comparison of the same in the account of *term*.
+
+Two questions are asked under the first, and two under the second.
+
+Under the first:
+
+*First*: whether substance or essence begets.
+
+*Second*: whether anyone is begotten from the substance.
+
+Under the second:
+
+*First*: whether the essence is begotten.
+
+*Second*: whether essence begot essence.
+
+---
+
+## Apparatus
+
+*[Apparatus pending.]*

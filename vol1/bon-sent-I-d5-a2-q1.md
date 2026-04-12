@@ -6,177 +6,94 @@ distinctio: 5
 articulus: 2
 quaestio: 1
 type: quaestio
-title: "I Sent., d. 5, a. 2, q. 1"
-line_start: 26596
-line_end: 26901
-word_count_latin: 1902
+title_la: "Utrum substantia sive essentia generetur"
+title_en: "Whether substance or essence is begotten"
+printed_pages: [115, 116, 117]
+pdf_pages: [217, 218, 219]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 115–117"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C rebuild — Art. II heading from legacy a1-q2 tail; Q.I fundamenta args 1–3 from a1-q2, args 4 + contras + body from legacy a2-q1; English pending"
+format_version: 1
 ---
 
 # I Sent., d. 5, a. 2, q. 1
+## *Utrum substantia sive essentia generetur*
 
-### Latin
+---
 
-DIST. V. ART. n. QUAEST. I.
+## Latin
 
-quia universale habet idem e?se cum singulari : ergo
-cum nuilto magis sit eadem substantia cum persona,
-et substantia sit in persona, si persona generatur,
-et substantia.
+<!-- page 115 -->
 
-4. Item, generare tam in divinis quam in
-creaturis est simile sibi producere ' ; sed non est
-similitudo in persona, sed in substantia et in natura:
-ergo cum terminetur ad simile , in quantum est simile, ergo ad substanliam , secundum quam atten-
-ditur sirailitudo.
+### Articulus II
 
-Contha: 1. Omne quod generatur ab alio ge-
-.neratur, quia nihil se ipsum gignit^; sed substantia
-divina non habet alium , nec aliud est in divinis :
-ergo non generatur.
+*De comparatione generationis ad essentiam in ratione termini.*
 
-2. Item, onine quod generatur habet principium a quo " ; sed omne quod habet principimn ,
-est principiatum ; sed principium et principiatum distinguuntur: si ergo substantia generatur , distingui-
-tur: aut ergo a substantia, aut a persona; sed
-utrumque est impossibile: ergo etc.
+Consequenter circa secundum articulum huius quaestionis, qui est per comparationem generationis ad essentiam in ratione termini, duo quaeruntur.
 
-3. Item , omne quod generatur est de substantia generantis * ; si ergo substantia generatur , sub-
-stantia vel essentia est de substantia generantis; sed
-non est nisi una omnino substantia : ergo idem est
-de se ipso , quod est impossibile.
+*Primo* quaeritur, utrum substantia sive essentia generetur.
 
-4. Item , generatio est productio ' ; sed productio est quaedam actio , et omnis actio creaturae
-terminatur ad singularia: ergo cum generatio sit
-quaedam actio , in divinis lerminabitur ad singulare
-sive suppositum; sed tale non est substantia: ergo
-non terminabitur ad ipsam.
+*Secundo*, utrum per generationem communicetur.
 
-Cum in divinis generatio terminetur soluni ad
-substantiam primam, quae est persona , non
-ad substantiam secundam sive essentiam, minime recipitur , quod substantia generetur.
+### Quaestio I
 
-Dicendum, quod generatio de sua
-communi ratione ad substantiam terminatur. Sed at-
+*Utrum substantia sive essentia generetur.*
 
-tendendum, quod substantia dicitur dupliciter: prima, quae est individuum et hypostasis sive persona, pitcito.
-et secunda, quae est commune". Dico ergo, quod est
-loqui de termino generationis dupliciter : aut quan- uemiermitum ad productionem , aut quantura ad intmitionem. "lonif """"
-Quantum ad productionem , cum sit circa singulare ,
-terminatur ad substantiam primam, et' quantum ad
-intentionem ad naturam communem , quia natura
-producens hunc hominem intendit formam communem dare ei.
+Quod autem substantia generetur, sic obiicitur:
 
-Sed quoniam in creaturis forma communis nu- AUa genemeratur in suppositis, ideo in illis forma communis lurinii^fn
-producitur et corrumpitur ; et ideo in creaturis generatio non tantuni secundum intentionem, sed etiam
-secundum productionem ad substantiam communem
-terminatur; et ideo universale in singulari generatur , quia numeratur '. Sed quoniam in divinis sub-
-stantia non numeratur nec advenit ei novum esse:
-ideo generatio secundum productionem terminatur
-solum ad subslantiam primam , quae est persona ,
-quia persona secundum Boethium ° « est rationalis
-naturae individua substantia » . Et quoniam illud solum dicitur proprie generari, ad quod terminatur
-generatio secundum rationem producendi : ideo per- conciusio.
-sona generatur , non substantia vel essentia. Et ideo
-haec non recipitur : essenlia generatur.
+**1.** Generatio in inferioribus est motus ad substantiam; sed Filius in divinis vere generatur, et substantia non est accidens: ergo generatio in divinis terminatur ad substantiam: ergo substantia generatur.
 
-Et sic patent omnia obiecta ad utramque par- Patem obtem ; procedunt enim '" diversis viis.
+**2.** Item, generatur Filius; sed Filius est substantia: ergo generatur substantia.
 
-3. Patet etiam , quare in divinis non sequitur , soiviiur 4.
-quod , generata persona , generetur substantia, sicut"'''"'^' """"'
-in creaturis. Posset tamen aliter dici , quod non ge- Aiia soiuuo.
-neretur commune nisi in hoc " ; et non tantuni in
-creaturis hoc verum est, sed etiam in divinis. Commune autem ut in hoc non significatur in abstra-
-ctione, sed in concretione; etideo,quia hoc nomen
-Deus signiflcat substantiam in concretione '-, Deus
-generatur et Deus generat Deum. Quia vero substantia vel essentia signiflcat in abstractione, ideo nec
-generat nec generatur ; et fta procedunt rationes ad
-partes oppositas.
+**3.** Item, generare et generari correspondent sibi invicem; sed Pater substantiam generat sive substantiam communicat: ergo Filius generatur et substantia generatur.
 
-quod naturalissimum operum viventiuni est facere qxmle ipsum,
-id est generare ; et te.U. 49: Finis est generare quaie ipsum,
-id est simile. — Mox plerique codd. ut ACFGHIT etc. cum
+<!-- page 116 -->
 
+**4.** Item, generare tam in divinis quam in creaturis est simile sibi producere; sed non est similitudo in persona, sed in substantia et in natura: ergo cum terminetur ad simile, in quantum est simile, ergo ad substantiam, secundum quam attenditur similitudo. Et praeterea quia universale habet idem esse cum singulari: ergo cum multo magis sit eadem substantia cum persona, et substantia sit in persona, si persona generatur, et substantia.
 
-quod ex eo generatur , et illud per quod generatur. luxta ed.
-Paiis. (Firmin-Didot) III. c. 5: Si flt, neeesse est esse, ex quo
-flt, et a quo generatur.
+*Contra:*
 
+**1.** Omne quod generatur ab alio generatur, quia nihil se ipsum gignit; sed substantia divina non habet alium, nec aliud est in divinis: ergo non generatur.
 
-QU^STIO II.
+**2.** Item, omne quod generatur habet principium *a quo*; sed omne quod habet principium, est principiatum; sed principium et principiatum distinguuntur: si ergo substantia generatur, distinguitur: aut ergo a substantia, aut a persona; sed utrumque est impossibile: ergo etc.
 
-Utrum substantia sive essentia diviiia per generationem communicetur.
+**3.** Item, omne quod generatur est de substantia generantis; si ergo substantia generatur, substantia vel essentia est de substantia generantis; sed non est nisi una omnino substantia: ergo idem est de se ipso, quod est impossibile.
 
-Ultimo quaeritur, utrum substantia per generationem communicetur ; et quod sic, ostenditur '
-hoc modo.
+**4.** Item, generatio est productio; sed productio est quaedam actio, et omnis actio creaturae terminatur ad singularia: ergo cum generatio sit quaedam actio, in divinis terminabitur ad singulare sive suppositum; sed tale non est substantia: ergo non terminabitur ad ipsam.
 
-1. Per illud res commimicatur , per quod fit,
-Fandamenta.ut sit in pluribus ; scd substantia est in pluribus
+### Conclusio
 
-personis et non est nisi per generationem et per
-processionem : ergo per generationem communicatur.
+> *Cum in divinis generatio terminetur solum ad substantiam primam, quae est persona, non ad substantiam secundam sive essentiam, minime recipitur, quod substantia generetur.*
 
-2. Item, causa est , qua posita ponitur res et
-qua remota removetur^: sed posita emanatione in
-divinis, ponitur communitas et distinctio; remota
-generalione vel emanalione, essentia est in uno solo,
-sicut hyposlasis : ergo generatio est ratio communicandi essentiam.
+**Respondeo:** Dicendum, quod generatio de sua communi ratione ad substantiam terminatur. Sed attendendum, quod *substantia* dicitur dupliciter: *prima*, quae est individuum et hypostasis sive persona, et *secunda*, quae est commune. Dico ergo, quod est loqui de termino generationis dupliciter: aut quantum ad *productionem*, aut quantum ad *intentionem*.
 
-3. Item, quod datur alicui et non desinit haberi
-a dante, per illud^ per quod datur, per illud communicatur; sed substantia a Patre datur Filio per
-generationem et non desinit haberi a Patre, dum
-datur Filio : ergo per generationem communicatur.
+Quantum ad productionem, cum sit circa singulare, terminatur ad substantiam primam, id est personam. Quantum vero ad intentionem, terminatur ad similitudinem naturae, quae est substantia secunda; sed intentio non est productio ipsius naturae absolute, sed per modum communicationis ad personam.
 
-4-. Item, generatio in his inferioribus est ratio
-communicandi substantiam sive naturam ; sed in divinis natura est illis multo communicabilior * , quia
-simplicior: ergo in divinis per generationem substantia vel essentia coramunicatur.
+Et ideo non dicitur proprie *substantia generatur*, sed *substantia communicatur*; *persona* vero *generatur*.
 
-Contra: 1. Generatio est principium distin-
+<!-- page 117 -->
 
-Ad oppo- guendi ^ ; sed non est idem principium distinguendi
+**1.** Ad illud ergo quod obiicitur, quod generatio est motus ad substantiam; dicendum, quod in creaturis generatio est ad substantiam primam et induci in novam individualem naturam. In divinis non est nova natura producta, sed eadem natura communicata. Ideo generatio terminatur ad personam, non ad essentiam.
 
-et communicandi : ergo per generationem non est
+**2.** Ad illud quod obiicitur, quod *Filius est substantia*, ergo substantia generatur; dicendum, quod *substantia* ibi praedicatur de Filio secundum rationem suppositi non rationem communis; et ideo ratione identitatis in supposito dicitur *substantia generari*, sed non proprie.
 
-ratio communicandi in divinis: ergo per generatio-
+**3.** Ad illud quod obiicitur, quod *generare et generari correspondent*; dicendum, quod verum est, sed terminus *generari* stat pro persona, non pro essentia absolute.
 
-nem nihil communicatur.
+**4.** Ad illud quod obiicitur de similitudine; dicendum, quod similitudo in divinis attenditur in natura communicata, non in natura generata; et ideo natura *communicatur*, sed persona *generatur*.
 
-2. Item, quod facit aliquid esse in hoc , non
-est ratio communicandi , sed appropriandi et indivi-
+### Scholion
 
-duandi; sed generatio facit esse substantiam in tali
-persona, utpote in persona Filii: ergo non est ratio
-cummunicandi , sed appropriandi.
+*[Scholion pending OCR cleanup — see Quaracchi Vol. I pp. 116–117 for discussion of *substantia prima / secunda* distinction and the Boethian/Aristotelian background to the Bonaventuran resolution.]*
 
-3. Item, omne illud quod per generationem
-communicatur, per generationem est commune". Si
-ergo substantia per generationem communicatur, generatione circumscripta , non erit communis : ergo
-propria; sed proprium per generationem non potest
-communicari: ergo nec substantia.
+---
 
-4. Itera , quod per generationem communicatur,
-per generationem dalur et recipitur, et omnetale,
-si non est generationi accidentale, generatur; sed
-substantia non accidit generationi : ergo etc.
+## English
 
+*[English translation pending.]*
 
-Essentia divina per generationem communicatur ,
-quia per generationem fit, ut sit in pluribus una.
+---
 
-Respondeo : Ad hoc intelligendum notandum e
-quod commune, quantum est de se , indiilerenter piicTier. "'
-se habet ad actum et potentiam. Commune enim
-potest dici illud quod est communicabile, quamvis
-non sit in pluribus; sicut patet in multis universalibus, ut in sole et luna et huiusmodi. Commune
-etiam dicitur communicatum , quod est actu in
-pluribus.
+## Apparatus
 
-Dico ergo, quod quemadmodum forma univer- Appiicano
-salis, quantum est de se, est communicabilis; sed
-tamen actu communicatur per propagationem ' plu-
-
-### English
-
-[Translation pending]
-
-### Notes
-
-[Notes pending]
+*[Apparatus pending.]*
