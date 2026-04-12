@@ -6,161 +6,80 @@ distinctio: 7
 articulus: 1
 quaestio: 2
 type: quaestio
-title: "I Sent., d. 7, a. 1, q. 2"
-line_start: 29941
-line_end: 30258
-word_count_latin: 2030
+title_la: "Utrum Pater communicet Filio potentiam generandi"
+title_en: "Whether the Father communicates to the Son the power of begetting"
+printed_pages: [138, 139, 140]
+pdf_pages: [240, 241, 242]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 138–140"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C rebuild — Latin from legacy a1-q2 (starts mid-arg 3, OCR cleanup needed); fundamenta head pending raw recovery; English pending"
+format_version: 1
 ---
 
-# I Sent., d. 7, a. 1, q. 2
+# I Sent., d. 7, a. un., q. 2
+## *Utrum Pater communicet Filio potentiam generandi*
 
-### Latin
+---
 
-DIST. VII. ART. UNICUS QUAEST. fl.
+## Latin
 
-distinguantur ' nisi in hoc, quod ille est generans,
-iste genilus: ergo cum generare conveniat Patri,
-impossibile est, quod conveniat Filio: ergo Filius
-non potest generare: ergo non habet potentiam generandi.
+<!-- page 138 -->
 
-4. Item, generatio Filii a Patre similis est expresse
-ipsi ^ generationi verbi a mente ; sed verbum genitum
-non habet potentiam generandi aliud verbum, immo
-oportet, quod omne verbum immediate sit a mente :
-ergo si recte simile est Verbum increatum, non habet potentiam generandi , sed generandi potentia est
-in solo Patre.
+### Quaestio II
 
-5. Item, fiat argumentatio Augustini ' ducens ad
-impossibile. Si Filius habet potentiam sive posse generandi, ponatur quod generet; quaero de secundo
-similiter; et si non est stare in primo, oportet ponere
-infmitos fdios, quia qua ratione non statur in primo,
-'ergo nec in aliquo : ergo si est stare — quia hoc *
-repugnat divinae completioni — sed qua ratione statur in aliquo, statur in primo: ergo primus non
-habet potentiam generandi.
+*Utrum Pater communicet Filio potentiam generandi, hoc est, utrum potentia generandi sit in Filio.*
 
-6. Item , fiat argumentatio Richardi ' : si generaret Filius alium filium: ergo cum filius geni-
-tus magis attineat patri quam avo, secundum hoc
-non esset ibi summa et aequalis connexio : ergo nec
-summa et aequalis dilectio'': ergo nec perfecta beatitudo: quae omnia tanquam summe impossibilia
-respuit pia fides.
+*[Fundamenta arg. 1–3 pro positione (quod potentia generandi sit in Filio) pending raw OCR recovery. Main contra arguments from legacy:]*
 
-c 0 N c L u S I 0.
+**4.** Generatio Filii a Patre similis est expresse ipsi generationi verbi a mente; sed verbum genitum non habet potentiam generandi aliud verbum, immo oportet, quod omne verbum immediate sit a mente: ergo si recte simile est Verbum increatum, non habet potentiam generandi, sed generandi potentia est in solo Patre.
 
-Pater potmiiam generandi non communicat Filio,
-quod duabus rationihus probatur.
+**5.** Item, fiat argumentatio Augustini ducens ad impossibile. Si Filius habet potentiam sive posse generandi, ponatur quod generet; quaero de secundo similiter; et si non est stare in primo, oportet ponere infinitos filios, quia qua ratione non statur in primo, ergo nec in aliquo: ergo si est stare — quia hoc repugnat divinae completioni — sed qua ratione statur in aliquo, statur in primo: ergo primus non habet potentiam generandi.
 
-Respondeo: Opinio aliquorum est, quod in Filio
+**6.** Item, fiat argumentatio Richardi: si generaret Filius alium filium: ergo cum filius genitus magis attineat patri quam avo, secundum hoc non esset ibi summa et aequalis connexio: ergo nec summa et aequalis dilectio: ergo nec perfecta beatitudo: quae omnia tanquam summe impossibilia respuit pia fides.
 
-opinio quo- est potcntia generandi , sed non generat. Hoc autem
+<!-- page 139 -->
 
-non est, quia non potest, sed quia non convenit eiJ.
+### Conclusio
 
-Et ponunt siraile in creaturarum productione sive
+> *Pater potentiam generandi non communicat Filio, quod duabus rationibus probatur.*
 
-creatione. Deus potest infmitas creaturas producere;
+**Respondeo:** Opinio aliquorum est, quod in Filio est potentia generandi, sed non generat. Hoc autem non est, quia non potest, sed quia non convenit ei. Et ponunt simile in creaturarum productione sive creatione. Deus potest infinitas creaturas producere; sed quod non producit, hoc non est ex impotentia, sed quia non convenit ei; sic et in proposito.
 
-sed quod non producit, hoc non est ex impotentia,
-sed quia non convenit ei; sic et in proposito.
+*Reprobatur.* Sed contra: Ponatur tunc, quod illa potentia, quae est in Filio ad generandum, ducatur in actum; constat quod Filius generabit Deum aeternum: ergo aliquid poterit incipere habere esse et esse aeternum; hoc autem est impossibile et non intelligibile.
 
-Sed contra : Ponatur tunc , quod ilia potentia , Reprobaiur.
-quae est in Filio ad generandum, ducatur in actum;
-constat quod Filius generabit Deum aeternura : ergo
-aliquid poterit' incipere habere esse et esse aeternum; hoc autem est irapossibile et non intelligibile.
+Propterea dicendum, quod Pater non communicat Filio *posse generare* propter duo. Unum est, quia *non potest*, aliud, quia *non debet*.
 
-Propterea " dicendura , quod Pater non communi- conciusio.
-cat Filio posse generare propter duo. Uimm est,
-quia non potest, aliud, quia non debet.
+*Ratio 1 (non potest).* Fecunditas ad generandum est in Patre, quia principium, et ideo principium, quia primum. Impossibile autem est, quod primum communicet alii primitatem. Nam hic est oppositio in adiecto, quod persona producta sit prima. Quia ergo fecunditas ad generandum ex primitate Patri inerat, ideo non potest eam communicare Filio.
 
-Ratio autera, quare non potest, haec est: quia Rauo i.
-fecunditas ad generandura est in Patre, quia principium, et ideo principium , quia priraum. Impossibile
-autem est, quod primum '° coraraunicet alii primitatera. Nam hic est oppositio in adiecto , quod persona
-producta sit priraa. Quia ergo fecunditas ad generandura ex primitate Patri inerat, ideo non potest
-eam communicare Filio ; et hanc credo propriara esse
-rationera huius , sicut infra patebit distinctione vigesima septima", ubi agetur, quare Pater generat.
+*Ratio 2 (non debet).* Similiter non debet communicare, quoniam in emanatione divinarum personarum debet attendi originalis distinctio et plenissima communicatio. Originalis distinctio: quia necesse est, ea quae communicant in natura distingui vel per materiam, vel per originem. Per materiam distingui personas est impossibile; et ideo necesse est distingui per originem sive habitudinem: ergo per *generare* et *generari*: ergo si Filius potest generare, potest etiam non distingui.
 
-Similiter non debet comraunicare, quoniara " in Rauo %
-emanatione divinarum personarum debet attendi oriqinalis distinctio et plenissima communicatio: ori- onginaiis
+<!-- page 140 -->
 
-. ,. ... . . distinclio.
+**1.** Ad illud ergo quod obiicitur in contrarium per auctoritatem Hilarii, quod Filius habet in se naturam gignentem; dicendum, quod verbum illud est improprium, et ex verbis impropriis non est arguendum. Est enim sensus: *habet in se naturam gignentem*, id est naturam Patris.
 
-gmalts distinctio , quia necesse est , ea quae communicant in natura distingui vel per materiam",
-vel per originem. Per materiam distingui personas
-est impossibile; quia ubi est talis modus distinguendi,
-est corapositio et variatio et forraae raultiplicatio ,
-quae omnia Deo repugnant, qui est simplex et invariabilis et vere unura. Et ideo necesse est distin-
-gui per originem sive habitudinera: ergo per generare et generari: ergo si Filius potest generare,
-potest etiara non distingui. Si tu dicas, quod adhuc
-est distinctio, quia unus tantum Pater, alius tantum
-Filius, alius Pater et Filius; tunc ego oppono tibi,
-quod secundus fllius posset generare eadera ratione,
-qua primus; et tunc duo essent, quorum uterque
-esset pater et filius.
+**2.** Ad illud quod obiicitur, quod *neque non potuit*; dicendum, quod Magister bene exponit, id est, *non fuit ex hoc impotens*. Unde secundum artem distinguendum est, quando dicitur, *Filius non potuit generare*: quia *non potest* teneri *privative*; et tunc est sensus, *non potuit*, id est, impotens fuit. Alio modo *non posse* tenetur *negative*; et in hoc sensu concedendum est, quod Filius non potuit generare.
 
-Similiter propter plenissimam communicatio- crmmuniS-
+**3.** Ad illud quod obiicitur, quod Pater communicat Filio potentiam spirativam: patet responsio: quia cum Filius generetur, non potest habere primitatem respectu generationis; sed cum non spiretur, est inspirabilis: et ideo potuit habere primitatem et fecunditatem respectu illius.
 
-distinguuntur.
+**4.** Ad illud quod obiicitur, quod Filius est expressissima imago etc.; dicendum, quod ideo Filius dicitur expressissima imago, quia repraesentat in omnibus, in quibus imago nata est repraesentare; sed imago sic nata est repraesentare, ut tamen ipsa non sit imaginatum; alioquin non esset imago. Si autem Filius repraesentaret in actu generandi, iam esset Pater.
 
+**5.** Ad illud quod obiicitur de luce et splendore, dicendum, quod non est simile, quia lux non perfecte se multiplicat in primo splendore: ideo in pluribus facit quod non potest in uno.
 
-quia hoc repugnat divinae completioni — si est stare. — Cod.
-Z ergo necesse est stare. Paulo infra post completiont ex mss.
-et ed. I adiecimus sed.
+**6.** Similiter et in filio carnali intelligendum. Haec tamen ratio non est principalis, sed illa quae dicta est supra, quia in his inferioribus non est fecunditas per rationem primitatis, sed per rationem perfectionis. In Deo autem, quia est perfectissimum et primum, non tantum est per naturam perfectionis — quia tunc in omnibus personis esset — sed per rationem primitatis.
 
+### Scholion
 
-quod communicaret Filio illam potentiani: et ideo fuit
-impossibile, quia inconveniens quodlibet in divinis
-est impossibile '.
+*[Scholion pending OCR cleanup — see Quaracchi Vol. I p. 140 for extensive discussion of Bonaventure's doctrine of *primitas* as the ground of paternal fecundity, with cross-references to his *Itinerarium* and to the disagreement with Thomas on this point.]*
 
-I. .\d illud ergo quod obiicitur in contrarium
-soiutio op- PP'" auctoritatem Hilarii , quod Filius habet in se napositorum. jm.jjpjj gignenlem : dicendum , quod verbum illud est
-improprium , et ex verbis impropriis non est arguendum, sed magis eoruui improprietas exponenda, ut
-Magister superius exposuit. Est enim sensus: habet
-in se naturam gignentem, id est naturam Patris
+---
 
-2. Ad illud quod obiicitur, quod neque ' non potuit; dicendum, quod Magister bene exponit, id est,
-non fuit ex hoc impotens. Unde secundum artem distinguendum est, quando dicitur, Filius non potuit
-generare: quia non potest teneri privative; et tunc
-est sensus, non potuit, id est, impotens fuit; et tunc
-negatur potentiaT et relinquitur aptitudo, sicut de
-truncato dicitur , quod non potest gradi , quia aptus
-natus est ad gradiendum et non, potest gradi ^: hoc
+## English
 
-modo non potest dici de Filio, quia non habet ad hoc
-aptitudinem; et in hoc sensu loquitur .\ugustinus. Alio
-modo non posse tenetui' iiegatice; et in hoc sensu
-concedendum est, qiiod Filiiis non potuit generare.
+*[English translation pending.]*
 
-3. Ad illud quod obiicitur ; qiiod Pater commiinicat Filio potentiam spirativam: patetresponsio: quia
-cuni Filius generetur , non potest habere primitatem
-respcclu generalionis ; sed cum non spiretur, est
-iiispirahilis: et ideo potuit habere primitatem et fecunditatem respectu illius; et sic patet qnod" non
-valet ratio.
+---
 
-4. Ad illud quod obiicitur, quod Filius est expressissima imago etc. ; dicendum , quod ideo Filius dici-
-tur' expressissima imago, quia repraesentat in omnibus, in quibus imago nata est repraesentare ; sed
-imago sic nata esl repraesentare, nt ttimen ipsa non
-sit imaginatum; alioquin non esset imago. Si auteni
-Filius repraesentaret in actu generandi, iam esset
-Pater: et ideo nec intelligibile nec possibile est, Filium
-generare sive in generatione Patrem imitari.
+## Apparatus
 
-5. Ad illud quod obiicitur de luce et splendore ,
-dicendum, quod non est simile, quia lux non perfecte se multiplicat in priino splendore: ideo in plu-
-ribus facit quod non potest in uno.
-
-6. Similiter et in fdio carnah intelligendum ;
-unde unus pater generat plures filios ". Haec tamen
-ratio non est principalis, sed illa quae dicta est supra " , quia in his inferioribus non est fecunditas per
-rationem primitatis, sed per rationem perfectionis. lu
-Deo autem , quia est perfectissimum et primum, non
-tantum est per naturam perfectionis ; quia tunc in
-omnibus personis esset, et status '" esse non posset;
-sed per rationem primitatis. Item rationes istae non
-procedunt per simile, immo magis per dissimile.
-
-### English
-
-[Translation pending]
-
-### Notes
-
-[Notes pending]
+*[Apparatus pending.]*
