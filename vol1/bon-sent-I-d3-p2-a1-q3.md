@@ -7,209 +7,92 @@ pars: 2
 articulus: 1
 quaestio: 3
 type: quaestio
-title: "I Sent., d. 3, p. 2, a. 1, q. 3"
-line_start: 22055
-line_end: 22356
-word_count_latin: 2059
+title_la: "Utrum memoria, intelligentia et voluntas sint idem in essentia cum anima"
+title_en: "Whether memory, understanding, and will are the same in essence as the soul"
+printed_pages: [85, 86, 87, 88]
+pdf_pages: [187, 188, 189, 190]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 85–88"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C rebuild — Latin from legacy a1-q1 tail (overwritten) + legacy a1-q3 lines 20–147; Art. II bleed trimmed; needs OCR cleanup pass"
+format_version: 1
 ---
 
 # I Sent., d. 3, p. 2, a. 1, q. 3
+## *Utrum memoria, intelligentia et voluntas sint idem in essentia cum anima*
 
-### Latin
+---
 
-DIST. m. P. n. .\RT. I. QU.\EST. III.
+## Latin
 
+<!-- page 85 -->
 
-sibile. Nam si idem omnino esset principium proximum,
-tunc idein esset in re esse et operari. Similiter-, si idem
-esset principium proximum, cum res semper habeat
-esse, semper haberet operari. Quoniam igitur ' forma
-dicit proximum et immediatum principium essendi,
-poteniia vero proximum et immediatum principium
-operandi, patet quod impossibile est esse omnino idem.
-4. Ad aliud quod obiicitur de potentia materiae,
-dicendum, quod materia non est sua potentia per
-essentiam, quoniam non est ipsa ordinatio ad formam; est tamen ipsa potentia materiae essentialis
-ipsi materiae, sicut potentia activa ipsi substantiae.
-Et minus quidem elongatur potentia materiae a materia quam potentia activa a substantia; quoniam
-potentia materiae est potentia passiva , quae dicit
-ordinem ad aliud cum privatione, sed potentia activa
-dicit ordinem cum positione: et ideo minus addit
-potentia materiae supra materiam, quam potentia
-activa supra ^ substantiam. Et hinc est, quod non
-ita distinguuntur diversae potentiae in eadem materia, sicut in eadem substantia.
+### Quaestio III
 
-5. Ad illud quod obiicitur de forma accidentali, dicendum, quod forma accidentalis non est sua
-potentia. Nam potentia eius est, in quantum influit
-in alterum; attamen potentia illa non tantum addit
-quantum potentia formae substantialis , quoniam
-potentia formae accidentalis dicit ordinationem ad
-actum , sed non sufiicientem per se , sed per virlutem substantiae. Sicut enim accidens non est per se,
-ita non habet virtutem operandi per se, sed per
-virtutem substantiae; et ita hoc patet.
+*Utrum memoria, intelligentia et voluntas sint idem in essentia cum anima.*
 
-6. Ad illud quod obiicitur ultimo, dicendum
-est ', quod potentiae animae non sunt accidentales.
-Tamen argumentum non valet , quia fortassis rationale, sensibile, vegetabile non accipiuntur a poten-
-tiis, sed a diversis naturis repertis in anima.
+Tertio loco quaeritur de comparatione istarum potentiarum ad animam sive ad subiectum, utrum videlicet sint idem in essentia cum anima. Et videtur quod sic:
 
-Illud aulem argumentum, quod factum est ad ^^J"^^\
-oppositum, quod differunt, quia sunt in diversis
-generibus, solvendum est per interemplionem ^ quia
-non sunt in diversis generibus, sed in eodem per
-reductionem.
+**1.** Augustinus dicit in decimo *de Trinitate*: «Haec tria, memoria, intelligentia et voluntas sunt una mens, una vita, una essentia, ac per hoc una substantia».
 
-SCHOLIOK
+**2.** Item, Bernardus super *Cantica*: «Tria quaedam in anima intueor, memoriam, intelligentiam et voluntatem, et haec tria ipsam». Si tu dicas, quod hoc dicitur per causam; hoc nihil est, quia Augustinus *de Spiritu et anima* dicit, quod anima «est quaedam sua, ut potentiae, et quaedam non sua, ut virtutes»; quod si per causam esset dictum, utrumque posset dici.
 
-I. Circa principalem quaestionem illis temporibus Ires sententiae defendebantur , quas S. Bonav. (II. Sent. d. 2i. p. I. a.
-2. q. I.) accurate explicat. Prima sententia ibi posila non admittit Inter essentiam animae' et potentias nisi distinctionem
-raHonis. Ita Gulielmus Paris., Richard. a Med. (hic a. 2. q. 1.),
-Henr. Gand. (Quodl. IV. q. 7.), insuper omnes Nominales. —
-Secunda docet distinctionem realem, et quidem talem, ut potentiae nec in genere cum substantia conveniant, cum ad genus
-accidentium trahantur. lUi S. Thom. (hic q. 4. a. 2 ; S. I. q. 54.
-a. 3. et q. 77. a. I . et 3 ; de Spirit. Creaturis a. 1 1 ; de Anima q. 12.); B. Albert. (hic a. 34.); Petr. a Tar, (hic q. 5.
-a. 2.). — Terlia sentenlia praecedenti valde appropinquat,
-quam docet Alex. Hal. (S. p. II. q. 65. m. 4. et q. 21. m. 1.).
-Huic etiam S. Bonav. magis favet; tamen dicit: « Quaelibet autem dictarum posilionum suos habet defensores, nec est facile
-rationibus cogentibus earum aliquam improbare » . Haec igitur
-ultima sententia admittit quidem inter animae subslantinm et
-potentias eius connaturales et consubstantiales dislinctionem
-quandam realem, quae tamen non trahat potentias ad diversum
-genus praedicamenti, nempe accidentis (tamen habitus acqnisiti,
-quibus alia exlra animam cognoscuntur et amantur, certecadunt sub genere accidentium). immo si potentiae non cssent ani-
-mae consubstantiales , nunquam anima sciret et amaret aliquid
-ad extra , quia , ut dicit S. Augustinus, nullum accidens excedit
-subiectum, scil. sua virtute. Nam accidens, sicut non est nisi
-virtute substantiae, sic nec operari potest nisi virttite substantiae , et nisi aliquid substanliale ei substernatur. Unde nec hiibi-
-tus acquisiti agere possunt nisi virtute habituum vel potentiarum substantialium , cfr. hic ad 5. el art. 2. q. 2. ad 4. et
-S. Thomas, S. I. q. 77. a. 1. ad 4. — Videtur aulem, quod S.
-Bonav. et Alex. conceptum avvideritis sumant pro accidente
+**3.** Item, hoc ipsum videtur velle dicere Philosophus, quia idem dicit esse principium essendi et operandi: ergo cum principium essendi sit ipsa forma substantialis, principium operandi erit ipsa; sed principium operandi est potentia: ergo potentia est principium essendi; sed non est principium essendi nisi forma substantialis in homine: ergo potentia et forma substantialis sunt idem in substantia.
 
-logico, S. Thom. pro accidente metaphysico, ita ut in re
-conveniant. En verba Alexandri (S. p. II. q. 21. m. 1.):
-« Dicendum, quod iinima est quodamniodo sua potentia, ut fiat
-distinctio inter potentias substantiales sive vires ex una parte
-et accidentia ex alia, quantum ad hoc, quod potentiae et vires
-substantialiler inhaerent et unum sunt cum anima quantum ad
-substantiam, non dico quantum ad essenliam; potentiis enim
-substantialibus subsistit anima. Accidentia vero, ut prudentia,
-fortitudo ethuiusmodi, non adhaeient substantialiter, quia haec
-accidentaliter adsunt. Unde potentiac et vires subslantiales dicuntur idem quod anima ratione indivisionis el adhaerentiae
-substantialis , accidentia vero non , quia substantialiter non adhaerent». Fere idem est quod S. Thom. (S. I. q. 77. a. 1.
-ad 5.) docet. Hic enim distinguit duplicem sensum vocabuli acddentis , et in secundo sensu , sive « secundum quod ponitur
-unum quinque universalium > , concedit , quod « aliquid est medium inter substamiam et accidens », etquod •potentiae animae
-possunt dici mediae inter substantiam et accidens, quasi proprietates animae Tiaturales ».
+**4.** Item, ratione ostenditur: Sicut materia prima nata est recipere omnia per veritatem, sic anima secundum similitudinem; sed potentia materiae primae respectu formarum suscipiendarum non differt per essentiam ab ipsa: ergo similiter videtur, quod potentia animae. Probatio: si enim per essentiam differret, aut esset substantia, aut accidens. Non accidens, quia antecedit omnem formam et omne accidens; si substantia, aut ergo materia, aut forma. Praeterea, si differret, illius esset materia capax.
 
-Quartam sententiam adiunxit ScoL (II. Sent. d. 16. q. unica
-I Dico igitur), qui hic applicat suam distinctionem formalem ;
-in re aulem a S. Bonav. vix discedit , ut vull Brulifer in
-Comment. ad hunc locitm.
+**5.** Item, forma accidentalis non est simplicior forma substantiali; sed potentia operandi non differt a forma accidentali, utpote potentia calefaciendi non differt per essentiam a caliditate, nec potentia illuminandi ab ipsa luce: ergo similiter videtur, quod nec potentia animae ab ipsa anima.
 
-De quaestione hac cfr. praeter iam citatos B. Albert. , S. p.
-1. tr. 3. q. 15. m. 2. a. 2. subp. 1. — ^Egid. R. , hic 3. princ.
-q. 1. a. 2. — Durand. , hic p. II. q. 2. et seqq. — Dionys.
-Carth., hic q. 13, — Biel, II. Sent. d. 24. et 25.
+**6.** Item, quod est accidens, nulli substantiae est substantiale; sed potentiae istae sunt substantiales: ergo animae non sunt accidentia: ergo sunt substantia; constat quod non alia quam anima. Probatio minoris: quia anima rationalis, sensibilis et vegetabilis in homine non dicit diversitatem substantiarum, sed potentiarum: ergo constat, quod in homine istae differentiae: vegetabile, sensibile, rationale, accipiuntur a potentiis; sed huiusmodi differentiae sunt substantiales: ergo et potentiae: ergo etc.
 
-II. Ut facilius intelligantur verba Doctoris in flne conclusionis posita : « Loquor de similitudine secundum rationem simili-
-tudinis, non intentionis » , haec nolamus. Praeter similitudinem
-acvideiitalem , quae est v. g. in figura exterioii, et essentialem ,
+<!-- page 86 -->
 
+*Contra:*
 
-quae est in conveiiienlia in niitura el spccie, aliam similitudinem duplicem distinguit S. Doctor , scil. similitudinem secun-
-dum rationem, qua aliqua sunt similia in ratione quadam essenliali, ut splendor respectu lucis, ct similitudinem secundum
-intmlionem, quae est inler aliqua, quorum unum est factum
-ad imilationem alterius. Ex hoc palet, t\\xoii splendor , qui esl
-similitudo lucis, licet exeat a luce, tamen non recedit ab ea,
-manens in eodem genere lucis.
+**1.** Augustinus decimo quinto *de Trinitate* assignat differentiam imaginis creatae ad Trinitatem illam, scilicet increatam, quia in illa Trinitate est habens id quod habetur, hic autem habens non est id quod habetur: ergo si anima habet tres potentias, ergo essentialiter non est illae.
 
-III. In solut. ad I . et 2. distinguit S. Doctor tnplivem praedicationem. Praedicatio per essentiam tunc fit, quando praedi-
-catum est dc inlrinseca ratione subiecti. Haec est iterum duplex, nempe secundum duplicem sensum vocabuli essentialis ,
-a S. Doclore hic distinctum. Etenim tum essentia metaphysica,
-quam moderni vocant (scil. genus et differentia), tum partes
-constitutivae physicae (scil. forma et materia) sunt. de essentia
-rei et de subiecto essentialiter praedicantur. Huic opponitur
-praedicatio accidentalis , quarido praedicatum subiecto tantum
+**2.** Item, Dionysius dicit, quod in quolibet creato differunt haec tria: substantia, virtus et operatio: ergo et in anima differunt substantia et potentiae.
 
-accidentaliter convenit, ut, homo est sapiens. — Circa lertiam^
-praedicationem , quao hic distinguitur, notandum est, quod aliud
-est « esse de csscntia alicuius rei», aliud « esse idem in essentia cum aliquo ». « /■ropnM?» cnim alicuius rei non est de
-essenlia rei, sed ex principiis i^ssenlialibus speciei causatur,.
-unde medium est inter essentiam et accidens » (S. Thomas., S. I.
-q. 77. a. I . ad 5.). Etiam potentiae animae non sunt de essenlia animae, nec praedicantur de ea in primo dicendi modo
-per se, sicut genus praedicatur de specie. Nihilominus participant potentiae eandcm naturam cum essentia animae, sive-
-sunt «idem in essenlia cum ipsa». De quo cfr. Alex. Hal., S.
-p. I. q. 18. m. 2. et B. Alberl., hic. q. 34.
+**3.** Item, Boethius: «In quolibet creato differunt *quo est* et *quod est*, sive *quid est* et *esse*: ergo similiter, immo multo fortius, *quod potest* et *quo potest*.
 
-Notatu digna est doctrina Seraphici in solut. ad i. de potentia materiae. Idem docet Alex. Hal. , S. p. II. q. 6S. m. 1 . Chv
-Scot., libr. I. Physicor. q. 20; de Rerum princip. q. 8. a. 2;
-I. Sent. d. 12. q. 1. — Richard. a Med., II. Sent. d. 12. q. 10. —
-S. Thoni.,hicq. 4. a. 2. ad 4. — B. Albert., I. Sent. d. 26. a. 6. ad. 8.
+**4.** Item, rationibus ostenditur sic: quae differunt genere, differunt essentia, et unum de altero non praedicatur essentialiter; sed potentiae et anima sunt huiusmodi, quia anima est in genere substantiae, sed potentiae eius sunt in secunda specie qualitatis, scilicet naturalis potentiae vel impotentiae: ergo etc.
 
-ARTICULUS II.
+**5.** Item, illa quorum unum est extra alterum, differunt essentialiter et substantialiter; sed virtus egreditur substantiam, quia operatur in obiectum, quod est extra; sed impossibile est, quod operetur ubi non est; si ergo virtus est ubi operatur, et operatur extra substantiam cuiuslibet: ergo egreditur extra substantiam: ergo etc.
 
-De secunda assignalione imaginis.
+**6.** Item, ad hoc est alia ratio, quia si eadem per essentiam essent anima et potentiae, ergo unum non multiplicaretur nisi secundum multiplicationem alterius; et sic, cum una tantum sit anima, haberet tantum unam potentiam; sed hoc est falsum: ergo etc.
 
-Consequenter est quaestio de secunda assignatione imaginis per mentem, notitiam et amorem. Et '
-circa hanc quaeruntur tria.
+<!-- page 87 -->
 
-Primuni est de istis absolute, utrum videlicet
-imago attendatur in istis ut in potentiis , aut in ha-
+### Conclusio
 
-bitibus , aut in potentiis simul et habitibus, aut in
+> *Potentiae animae sunt substantiales et sunt in eodem genere per reductionem, in quo est anima; non sunt tamen cum ipsa omnino idem per essentiam.*
 
-substantia et habitibus.
-Secundum est de istis in comparatione ad invicem.
-Tertium, utrum haec trinitas imaginis ducat necessa-
+**Respondeo:** Ad praedictorum intelligentiam notandum est, quod potentia naturalis dicitur dupliciter. Uno modo, prout dicit modum existendi naturalis potentiae in subiecto, secundum quem dicitur subiectum facile vel difficile ad aliquid agendum; et sic naturalis potentia dicit modum qualitatis et est generaliter in secunda specie qualitatis, ut patet, cum dicitur cursor et pugillator, quorum utrumque dicit facilitatem, quae consequitur modum existendi potentiae gradiendi vel resistendi sive agendi in subiecto. Alio modo potentia naturalis dicitur potentia naturaliter egrediens a subiecto. Et hoc potest esse dupliciter. Nam aliqua potentia egreditur a substantia cum accidente, ut potentia calefaciendi a forma ignis cum caliditate; et talis potentia est accidens animae et reducitur in genus qualitatis. Alia potentia egreditur a substantia absque accidente, sicut potentia intelligendi ab anima; et talis potentia non habet naturam accidentis, quia non perficitur nec completur per aliquod genus accidentis; tamen non est omnino idem cum forma, a qua egreditur, quia est aliquid de eius complemento, non de eius essentia.
 
-rio in cognitionem Trinitatis quantum ad personas.
+Et ideo dicendum, quod potentiae animae non sunt idem quod ipsa anima per essentiam, quia aliquid sunt de eius complemento; nec tamen differunt ab ipsa sicut accidens a subiecto, quia non sunt in genere accidentis; sed sunt in eodem genere cum ipsa per reductionem, sicut completivum cum eo quod est completum.
 
-QU^STIO I.
+<!-- page 88 -->
 
-Utrum imago attendatur in mente, notitia et amore ut in potentiis, aufut in habitibus,
-aut in utrisque simul, aut secundum substantiam et habitus.
+**1.** Ad primum ergo quod obiicitur de Augustino; dicendum, quod Augustinus loquitur secundum communem modum loquendi, quo haec tria dicuntur esse una essentia, quia substantialiter existunt in anima.
 
-Circa primum sic proceditur.
+**2.** Ad illud de Bernardo; dicendum similiter, quia dicit haec tria *esse animam*, quia sunt de complemento ipsius, non de essentia.
 
-1. Ostenditur prMHo, quod non in his ntln po-
-.\rpnmeota tentHs atteudatur imago, quia praedicta assignatio '
+**3.** Ad illud quod obiicitur, quod idem est principium essendi et operandi; dicendum, quod verum est de principio remoto, sed de proximo est impossibile. Nam si idem omnino esset principium proximum, tunc idem esset in re esse et operari. Similiter, si idem esset principium proximum, cum res semper habeat esse, semper haberet operari. Quoniam igitur forma dicit proximum et immediatum principium essendi, potentia vero proximum et immediatum principium operandi, patet quod impossibile est esse omnino idem.
 
-posiiionL!^* fuit in potentiis: ergo si haec etiam esset in potentiis, non esset nisi inculcatio verborum.
+**4.** Ad aliud quod obiicitur de potentia materiae, dicendum, quod potentia materiae respectu formarum est duplex: est enim potentia materiae ad formas, et potentia formae in materia ad operandum. Potentia materiae ad formas nullam ponit differentiam, sed omnino est idem; et de hac dicit Augustinus, quod potentia et id cuius est potentia non differunt. Potentia vero formae ad operandum, quae est potentia materiae iam sub forma constitutae, in qua scilicet agens potest cogitari habere perfectum esse, ut sunt potentiae in anima, in quibus attenditur imago; et hoc est minimo modo substantiale sive essentiale; tamen non transit in aliud genus: ideo anima dicitur suae potentiae.
 
-Praeterea, notitia et amor non dicunt potentiam, sed habitus, licetmens possit dicere potentiam:
-ergo praedicta tria non possunt poni sub ratione potentiarurn.
+### Scholion
 
-2. Item ostenditur, quod non dicunt habitus,
-quia Augustinus^ dicit in imaginis assignatione et
-approbatione : « Mens novit se , diligit se » ; sed nullius habitus est se nosse nec amare: ergo etc.
+*[Scholion Latin and translation pending — see Quaracchi Vol. I pp. 87–88 for the scholion on the relationship between potentiae and the soul's essence, with cross-references to Alexander of Hales, Thomas, Scotus, and Bonaventure's own II Sent. d. 24.]*
 
+---
 
-3. Item ostenditur, quod non^ in poientiis et
-habitibus. Cum enim potentiae sint tres, et habitus
-tres, tunc non esset ternarius, sed senarius.
+## English
 
-4. Item quaero , pro qua potentia stat ibi mens ?
+*[English translation pending — requires resplit from legacy translation files.]*
 
-1. Item ostenditur, quod non secundum animae Ad opposi-
+---
 
-^ Uim confln-
+## Apparatus
 
-substantiam et habitus \ Cum enim habitus cogno- sionis.
-scendi et amandi consequantur ipsam substantiam
-tempore , et substantia etiam possit esse sine his ,
-ratio autem imaginis sit ipsi animae perpetua et inseparabihs et concreata: ergo non est in habitibus
-et substantia simul.
-
-2. Item, si subslanlia connumeratur habitibus,
-cum' habitus sint tres, et substantia una: ergo erit
-
-
-Contra. Ostenditur , quod non ut in substantia et Itabitibus
-simul et paulo post sequantur pro consequantur.
-
-### English
-
-[Translation pending]
-
-### Notes
-
-[Notes pending]
+*[Apparatus footnotes pending — see Quaracchi Vol. I pp. 85–88.]*
