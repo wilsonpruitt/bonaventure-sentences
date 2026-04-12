@@ -496,6 +496,8 @@ a { color: inherit; text-decoration: none; }
 .page-marker-standalone {
   display: block;
   float: none;
+}
+.page-marker-standalone.page-marker-inline {
   margin: 1rem 0;
   text-align: center;
   width: auto;
@@ -503,6 +505,14 @@ a { color: inherit; text-decoration: none; }
   border: none;
   border-top: 1px dashed rgba(139,105,20,0.2);
   border-bottom: 1px dashed rgba(139,105,20,0.2);
+}
+.page-marker-standalone.page-marker-margin {
+  width: fit-content;
+  margin: 0.75rem 0 0.75rem -4.5rem;
+  padding: 0.15rem 0.4rem;
+  border: 1px solid rgba(139,105,20,0.25);
+  border-radius: 2px;
+  text-align: left;
 }
 @media (max-width: 900px) {
   .page-marker-margin {
@@ -514,6 +524,11 @@ a { color: inherit; text-decoration: none; }
     border: 1px solid rgba(139,105,20,0.25);
     border-radius: 2px;
     text-align: left;
+  }
+  .page-marker-standalone.page-marker-margin {
+    display: block;
+    margin: 0.75rem 0;
+    width: fit-content;
   }
 }
 
