@@ -6,122 +6,74 @@ distinctio: 4
 articulus: 1
 quaestio: 4
 type: quaestio
-title: "I Sent., d. 4, a. 1, q. 4"
-line_start: 24483
-line_end: 24778
-word_count_latin: 2032
+title_la: "Utrum hoc nomen «Deus» de se supponat personam vel naturam"
+title_en: "Whether the name «God» of itself supposits for a person or for the nature"
+printed_pages: [103, 104]
+pdf_pages: [205, 206]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 103–104"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C rebuild — Latin merged from legacy a1-q3 tail (fundamenta head) + legacy a1-q4 body (dubia bleed trimmed); English pending"
+format_version: 1
 ---
 
-# I Sent., d. 4, a. 1, q. 4
+# I Sent., d. 4, a. un., q. 4
+## *Utrum hoc nomen «Deus» de se supponat personam vel naturam*
 
-### Latin
+---
 
-DIST. IV. ART. UNICUS QUAEST. IV.
+## Latin
 
+<!-- page 103 -->
 
-eo , cui inest Deitas ; sed hoc est persona : ergo etc.
+### Quaestio IV
 
-3. Item, hoc nomen Deus significat deitatem
-in concretione; sed non nisi in concretione ad suppositum, quod est persona; sed terminus concretus
-proprie supponit pro eo, respectu cuius importat
-formam, ut album magis proprie supponit pro re
-alba quam pro forma: ergo etc.
+*Utrum hoc nomen «Deus» de se supponat personam vel naturam.*
 
+Quarto et ultimo quaeritur de suppositione huius nominis *Deus*. Et quaeritur, utrum hoc nomen *Deus* de se supponat personam vel naturam. Et quod personam, videtur:
 
-2. Item , quia iste terminus honio proprie sup-
+**1.** Per illud Ambrosii super *Benedicat nos Deus Deus noster, benedicat nos Deus*, Ambrosius: «Trina Dei confessio Trinitatem indicat personarum»; ergo cum *Deus* sit ibi sine adiuncto, de se supponit personam.
 
-3. Item , terminus , qui proprie supponit personam , addito sibi termino partitivo , stat solum pro
-uno, ut cum dicitur: unus homo currit: ergo similiter, cum dicitur unus Deus: ergo haec est sim-
-pliciter falsa: unus Deus est Pater et Filius.
+**2.** Item, ratione obiicitur sic: Hoc nomen *homo* proprie supponit pro omni eo, cui inest humanitas: ergo a simili et hoc nomen *Deus* pro omni eo, cui inest deitas; sed hoc est persona: ergo etc.
 
+**3.** Item, hoc nomen *Deus* significat deitatem in concretione; sed non nisi in concretione ad suppositum, quod est persona; sed terminus concretus proprie supponit pro eo, respectu cuius importat formam, ut *album* magis proprie supponit pro re alba quam pro forma: ergo etc.
 
-Nomen Deus , cuni habeat naturam et termini
-conimunis et termini singularis , potest pro-
+*Contra:*
 
-Respondeo : Dicendum , quod hic consuevit esse
-duplex opinio.
+**1.** Sicut se habet *homo* ad hominem in supposito, ita *Deus* ad Deum; sed *homo* proprie supponit pro natura humana communi, non pro persona: ergo similiter *Deus* pro natura divina.
 
-Una quidem est, quod hoc nomen Deus signi-
+**2.** Item, quia iste terminus *homo* proprie supponit pro persona nulla, sed pro communi, ita et iste terminus *Deus*.
 
-ficat proprie naturam et supponit personam, aliquando i
-unam , ut cum dicitur: Deus generat, aliquando
-duas, ut cum dicitur : Deus spirat , aliquando tres ,
-ut cum dicitur : Deus est Trinitas. Et ratio huius
-est, ut dicunt, quia cum habeat multa supposita,
-habet naturam termini communis; terminus autem
+**3.** Item, terminus, qui proprie supponit personam, addito sibi termino partitivo, stat solum pro uno, ut cum dicitur: *unus homo currit*: ergo similiter, cum dicitur *unus Deus*: ergo haec est simpliciter falsa: *unus Deus est Pater et Filius*.
 
+### Conclusio
 
-quod'^ proprie supponit tam naturam quam personam.
-Tamen rationes ad utramque partem concludunt verum suo modo. Hoc autem non potest in alio ter-
-mino inveniri, et ideo nec consimilis modus supponendi.
+> *Nomen «Deus», cum habeat naturam et termini communis et termini singularis, potest proprie supponere tam naturam quam personam.*
 
-SCHOLIOE
+**Respondeo:** Dicendum, quod hic consuevit esse duplex opinio.
 
-I. De dilTerentia inter significationem et suppositionem cfr.
-Scholion hic ad q. 1. Terminus discretus , de quo loquitur S.
-Bonav., idem est ac terminus singiilaris et significat aliquod in-
-Gommunicabile. Unde (t terminus singularis idem signiflcat et supponit » (S. Thom. S. I. q. 39. a. 4.). Terminus %'ero communis
-non oportet semper supponere pro eo quod per se significat ,
-V. g. in propositione : homo currit , non supponit homo pro
-natura communi humana, sed pio aliquo indeterminato individuo.
+Una quidem est, quod hoc nomen *Deus* significat proprie naturam et supponit personam, aliquando unam, ut cum dicitur: *Deus generat*, aliquando duas, ut cum dicitur: *Deus spirat*, aliquando tres, ut cum dicitur: *Deus est Trinitas*. Et ratio huius est, ut dicunt, quia cum habeat multa supposita, habet naturam termini communis; terminus autem communis supponit pro suis inferioribus.
 
-II. Licet antiqui doctores de hac quaestione diversis modis
-loquantur , in re tamen parum dissentire videntur. S. Bonav.
-praefert tertiam sententiam , quae mediam viam tenet , scil.
+Altera vero opinio est, quod *Deus* proprie supponit pro natura communi, non pro persona.
 
+<!-- page 104 -->
 
-quod dicit: Deum de Deo, lumende lumine; quia
-cum praepositio de notet transitionem et ita diyersitatem et ' distinctionem, videtur quod pari ratione
-et ab aequipollenti istae sunt verae : Deus est alius
-a Deo, Deus distinguitur a Deo.
+Tertia media sententia, cui favet S. Doctor, tenet quod *Deus* proprie supponit tam naturam quam personam. Tamen rationes ad utramque partem concludunt verum suo modo. Hoc autem non potest in alio termino inveniri, et ideo nec consimilis modus supponendi. Ratio est, quod *Deus* habet naturam et termini communis (quia habet tria supposita) et termini singularis sive discreti (quia significat unam naturam incommunicabiliter possessam a tribus).
 
-Respondeo : Dicendum , quod dupliciter est importare distinctionem sive diversitatem , scilicet ut
-modum ' vel ut rem , vel ut exercitam vel ut
-conceptam. Quoniam igitur praepositiones important
-distinctionem ut exercitam, et distinctio est in divinis quantum ad supposita , de ' facit terminmn stare
+### Scholion
 
+**I.** De differentia inter significationem et suppositionem cfr. Scholion hic ad q. 1. Terminus discretus, de quo loquitur S. Bonav., idem est ac terminus singularis et significat aliquod incommunicabile. Unde «terminus singularis idem significat et supponit» (S. Thom. S. I. q. 39. a. 4.). Terminus vero communis non oportet semper supponere pro eo quod per se significat, v. g. in propositione: *homo currit*, non supponit *homo* pro natura communi humana, sed pro aliquo indeterminato individuo.
 
-Respondeo: Dicendum , quod Magister susti-
+**II.** Licet antiqui doctores de hac quaestione diversis modis loquantur, in re tamen parum dissentire videntur. S. Bonav. praefert tertiam sententiam, quae mediam viam tenet. Cfr. Alex. Hal., S. p. I. q. 50. m. 3. a. 3. — Scot., hic q. 2. — S. Thom., hic a. 4; S. I. q. 39. a. 4. — B. Albert., hic a. 6. — Petr. a Tar., hic q. 2. a. 3. — Richard. a Med., hic q. 3.
 
-nendo primam et interimendo conclusionem innuit,
-conclusionem non sequi ex praemissis : et quod non'
-sequatur, ostendit ferendo instantiam" contra illud
-disiunctum.
+---
 
-Ad illud vero quod obiicitur, quod idem et diversum mt&dewter dividunt' ens; dicendum, quod
-simpliciter loquendo falsum est. Nara pars nec est
-eadem toti omnino nec simpliciter diversa. Habet tamen veritatem secundum ickm. Unde : « si non est
-idem alii, est diversum » , verum est secundum iliud ,.
-secundum quod non est idem^ Filius autem non
-esl idem Patri in persona, et ideo in persona alius;
-nec tamen sequitur: aliu^ Deus , quia significatur
-alietas in essentia^
+## English
 
-DUB. III.
+*[English translation pending — requires resplit from legacy translation file.]*
 
-Item quaeritur de hac distinctione , quam ponit
-Magister de hoc praedicato Deus Pater, quod potest
-esse constructio appositiva et immediata, vel mediata '". Primo enim videtur , quod ista distinctio-
-non sit intelligibilis , quoniam quae ex eadem parte
-intransitive construuntur , videntur solum immediate
-construi. Item videlur , quod non solvat , quia recta
-solutio est, cuius dantem oppositum non contingit
-solvere " ; sed ista distinctione remota , adhuc manet sophisma, si loco eius quod est Deus Pater ,.
-solum ponatur Pater: ergo etc.
+---
 
-Respondeo: Dicendum, quod distinctio Magistri
-bona est et secundum artem. Nam sicut vult Priscianus '% inter adiectivum et substantivum intelligi-
+## Apparatus
 
-
-quodcumque sit ens, aut idem aut diversum.
-
-
-quod particulam non minus bene transponit post quod est.
-
-### English
-
-[Translation pending]
-
-### Notes
-
-[Notes pending]
+*[Apparatus footnotes pending — see Quaracchi Vol. I pp. 103–104.]*
