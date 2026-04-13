@@ -221,6 +221,36 @@ function renderBody(body: string, className: string, pageMode: PageMode) {
       return;
     }
 
+    const h4Match = trimmed.match(/^####\s+(.+)$/);
+    if (h4Match) {
+      nodes.push(
+        <h4 key={i} className="reader-h4">
+          {renderInline(h4Match[1], pageMode)}
+        </h4>
+      );
+      return;
+    }
+
+    const h3Match = trimmed.match(/^###\s+(.+)$/);
+    if (h3Match) {
+      nodes.push(
+        <h3 key={i} className="reader-h3">
+          {renderInline(h3Match[1], pageMode)}
+        </h3>
+      );
+      return;
+    }
+
+    if (trimmed.startsWith("> ")) {
+      const quoted = trimmed.replace(/^>\s?/gm, "");
+      nodes.push(
+        <blockquote key={i} className={`reader-blockquote ${className}`}>
+          {renderInline(quoted, pageMode)}
+        </blockquote>
+      );
+      return;
+    }
+
     if (/^(CONCLUSION\.|DOUBT\s+[IVXLCDM]+\.?)$/i.test(trimmed)) {
       nodes.push(
         <p key={i} className="conclusion-header">

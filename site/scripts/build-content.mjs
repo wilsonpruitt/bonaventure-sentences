@@ -77,8 +77,8 @@ function parseApparatus(body) {
     if (m[1] === "__SENTINEL__") break;
     const id = m[1];
     const content = m[2];
-    const laMatch = content.match(/\*\*La\*\*\s*[—–-]\s*([\s\S]*?)(?=\*\*En\*\*|$)/);
-    const enMatch = content.match(/\*\*En\*\*\s*[—–-]\s*([\s\S]*)$/);
+    const laMatch = content.match(/\*\*La\.?\*\*\s*(?:[—–-]\s*)?([\s\S]*?)(?=\*\*En\.?\*\*|$)/);
+    const enMatch = content.match(/\*\*En\.?\*\*\s*(?:[—–-]\s*)?([\s\S]*)$/);
     entries.push({
       id,
       la: laMatch ? cleanApparatusEntry(laMatch[1]) : "",
