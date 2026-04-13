@@ -11,7 +11,7 @@ pdf_pages: [198, 199]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 96–97"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 1 gap-fill — Latin from raw OCR cleaned, fresh English translation; apparatus pending"
+transcription_status: "Phase C Tier 2 complete — Latin body, English body, 3-footnote apparatus all filled (2026-04-13)"
 format_version: 1
 ---
 
@@ -36,7 +36,7 @@ In praecedenti distinctione probavit Magister Trinitatem et Unitatem per similit
 
 Item prima pars habet duas, quia substantia potest significari in concretione, ut per hoc nomen *Deus*, vel in abstractione, ut per hoc nomen *essentia*. Primo ergo movet quaestionem ex comparatione generationis ad hoc nomen *Deus*, secundo, ad hoc nomen *essentia*, infra distinctione quinta: *Post haec quaeritur, utrum concedendum sit* etc.
 
-Haec autem distinctio habet quatuor particulas et hoc secundum quatuor, quae ibi tanguntur. In prima, supposito quod haec sit vera: *Deus genuit Deum*, quaeritur de hac: *Genuit se vel alium*, ad quam solvit interimendo. In secunda quaerit de hac: *Genuit Deum, qui est Deus Pater, vel qui non est Deus Pater*, et ad hoc solvit distinguendo ex parte praedicati, et hoc ibi: *Sed adhuc opponunt*. In tertia quaerit de hac: *Deus est Trinitas*, et probat multis auctoritatibus, quod est vera, et hoc occasione praedictorum, ibi: *Quidam tamen veritatis adversarii*. In quarta ad suum propositum redit, scilicet ad primo quaesitum; ad primum videlicet addens primae solutioni, quod quamvis non sit concedendum: *Genuit se, vel alium* divisim, tamen potest concedi coniunctim, ibi: *Nunc ad praemissam quaestionem*.
+Haec autem distinctio habet quatuor particulas et hoc secundum quatuor, quae ibi tanguntur. In prima, supposito quod haec sit vera: *Deus genuit Deum*, quaeritur de hac: *Genuit se vel alium*, ad quam solvit interimendo. In secunda quaerit de hac: *Genuit Deum, qui est Deus Pater, vel qui non est Deus Pater*, et ad hoc solvit distinguendo ex parte praedicati, et hoc ibi: *Sed adhuc opponunt*. In tertia quaerit de hac: *Deus est Trinitas*, et probat multis auctoritatibus, quod est vera, et hoc occasione praedictorum, ibi: *Quidam tamen veritatis adversarii*. In quarta ad suum propositum redit, scilicet ad primo quaesitum[^1]; ad primum videlicet[^2] addens primae solutioni, quod quamvis non sit concedendum: *Genuit se, vel alium* divisim, tamen potest concedi coniunctim, ibi: *Nunc ad praemissam quaestionem*.
 
 ### Tractatio Quaestionum
 
@@ -46,7 +46,7 @@ Ad intelligentiam eorum quae tangit Magister in praesenti distinctione, quatuor 
 
 *Secundo*, utrum unitas essentiae admittat hanc locutionem: *Deus genuit alium Deum*, vel *Deus est alius a Deo*.
 
-*Tertio* quaeritur de consignificatione huius nominis *Deus*, utrum videlicet grammatice possimus dicere *plures deos*.
+*Tertio* quaeritur de consignificatione[^3] huius nominis *Deus*, utrum videlicet grammatice possimus dicere *plures deos*.
 
 *Quarto et ultimo* quaeritur de suppositione istius nominis *Deus*, utrum supponat pro persona vel pro essentia.
 
@@ -66,7 +66,7 @@ In the preceding distinction the Master proved the Trinity and the Unity through
 
 Again, the first part has two [sub-parts], because substance can be signified concretely — as by the name *God* — or abstractly — as by the name *essence*. First, therefore, he raises the question from the comparison of generation to the name *God*; second, to the name *essence*, below at Distinction V: *"Next it is asked whether it is to be conceded"* etc.
 
-This distinction has four particles, corresponding to the four things treated in it. In the first, supposing that *God begot God* is true, he asks about *Did He beget Himself or another?* — which he resolves by rejecting both. In the second he asks about *He begot God who is God the Father, or who is not God the Father*, and resolves it by distinguishing on the side of the predicate — at: *"But the objectors still object."* In the third he asks about *God is Trinity*, and proves by many authorities that it is true, occasioned by the preceding, at: *"Some adversaries of truth, nevertheless."* In the fourth he returns to his own point — namely to what was first asked — adding to the first solution that, although *He begot Himself or another* is not to be conceded disjunctively, it can be conceded conjunctively, at: *"Now let us return to the question set forth above."*
+This distinction has four particles, corresponding to the four things treated in it. In the first, supposing that *God begot God* is true, he asks about *Did He beget Himself or another?* — which he resolves by rejecting both. In the second he asks about *He begot God who is God the Father, or who is not God the Father*, and resolves it by distinguishing on the side of the predicate — at: *"But the objectors still object."* In the third he asks about *God is Trinity*, and proves by many authorities that it is true, occasioned by the preceding, at: *"Some adversaries of truth, nevertheless."* In the fourth he returns to his own point — namely to what was first asked[^1] — adding to the first solution[^2], that although *He begot Himself or another* is not to be conceded disjunctively, it can be conceded conjunctively, at: *"Now let us return to the question set forth above."*
 
 ### Treatment of the Questions
 
@@ -76,7 +76,7 @@ For the understanding of what the Master treats in the present distinction, four
 
 *Second*: whether the unity of essence admits this expression: *God begot another God*, or *God is other than God*.
 
-*Third*: concerning the consignification of the name *God* — namely, whether grammatically we can say *several gods*.
+*Third*[^3]: concerning the consignification of the name *God* — namely, whether grammatically we can say *several gods*.
 
 *Fourth and finally*: concerning the supposition of the name *God* — whether it supposits for a person or for the essence.
 
@@ -84,4 +84,13 @@ For the understanding of what the Master treats in the present distinction, four
 
 ## Apparatus
 
-*[Apparatus footnotes pending — see Quaracchi Vol. I pp. 96–97.]*
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering.
+
+[^1]: **La.** Vat. contra mss. et ed. 1 omittit *id*.
+    **En.** The Vatican ed., against the mss. and ed. 1, omits *id*.
+
+[^2]: **La.** Codd. et ed. 1 contra Vat. addunt *ad primum videlicet*.
+    **En.** The codices and ed. 1, against the Vatican ed., add *ad primum videlicet* («namely to the first»).
+
+[^3]: **La.** Auctoritate plurimorum mss. ut A F G K T etc. et ed. 1 substituimus *consignificatione* pro *significatione* et *Deus* loco *Dii*, ac mox *istius* pro *illius*.
+    **En.** On the authority of most mss. (A F G K T etc.) and ed. 1 we have substituted *consignificatione* for *significatione*, and *Deus* in place of *Dii*; and next, *istius* for *illius*.

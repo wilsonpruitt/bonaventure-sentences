@@ -11,7 +11,7 @@ pdf_pages: [197, 198]
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. IV (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 95–96)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 1 gap-fill — Latin from raw OCR cleaned, fresh English translation; apparatus pending"
+transcription_status: "Phase C Tier 2 complete — Latin body, English body, 2-footnote apparatus all filled (2026-04-13)"
 format_version: 1
 ---
 
@@ -50,9 +50,9 @@ Item in libro quinto *de Trinitate*: «Non tres deos, sed unum Deum dicimus esse
 
 <!-- page 96 -->
 
-Idem in sexto libro *de Trinitate*: «Dicimus, Deum solum esse ipsam Trinitatem». Ecce, his et aliis pluribus auctoritatibus evidenter ostenditur, dicendum esse et credendum, quod unus Deus est Trinitas, et una substantia tres personae; sicut e converso Trinitas dicitur esse unus Deus, et tres personae dicuntur esse una substantia.
+Idem in sexto libro *de Trinitate*[^1]: «Dicimus, Deum solum esse ipsam Trinitatem». Ecce, his et aliis pluribus auctoritatibus evidenter ostenditur, dicendum esse et credendum, quod unus Deus est Trinitas, et una substantia tres personae; sicut e converso Trinitas dicitur esse unus Deus, et tres personae dicuntur esse una substantia.
 
-Nunc ad praemissam quaestionem revertamur, ubi quaerebatur, an Deus Pater genuerit se Deum, an alium Deum. Ad quod dicimus, neutrum fore concedendum. Dicit tamen Augustinus in *Epistola ad Maximum*, quod Deus Pater se alterum genuit, his verbis: «Pater, ut haberet Filium de se ipso, non minuit se ipsum, sed ita genuit de se alterum se, ut totus maneret in se et esset in Filio tantus, quantus et solus». Quod ita intelligi potest, id est, de se alterum a se genuit, non utique alterum Deum, sed alteram personam; vel genuit se alterum, id est, genuit alterum, qui hoc est quod ipse. Nam etsi alius sit Pater quam Filius, non est tamen aliud quam Filius, sed unum.
+Nunc ad praemissam quaestionem revertamur, ubi quaerebatur, an Deus Pater genuerit se Deum, an alium Deum. Ad quod dicimus, neutrum fore concedendum. Dicit tamen Augustinus in *Epistola ad Maximum*[^2], quod Deus Pater se alterum genuit, his verbis: «Pater, ut haberet Filium de se ipso, non minuit se ipsum, sed ita genuit de se alterum se, ut totus maneret in se et esset in Filio tantus, quantus et solus». Quod ita intelligi potest, id est, de se alterum a se genuit, non utique alterum Deum, sed alteram personam; vel genuit se alterum, id est, genuit alterum, qui hoc est quod ipse. Nam etsi alius sit Pater quam Filius, non est tamen aliud quam Filius, sed unum.
 
 ---
 
@@ -82,12 +82,18 @@ Likewise in the same work: "In those words of the Apostle, where treating of the
 
 Likewise in the fifth book *On the Trinity*: "We say that the Trinity itself is not three gods, but one God — the most excellent Trinity." Likewise in the book called *Enchiridion to Laurentius*, chapter nine: "It is enough for a Christian to believe that the cause of created things, whether visible or invisible, is nothing other than the goodness of the Creator, who is the one and true God; and that there is no nature which is not either Himself or from Him; and that He is Trinity — namely the Father and the Son and the Holy Spirit." Likewise Augustine in the sermon *On Faith*: "We believe that one God is the one Trinity of the divine name."
 
-The same in the sixth book *On the Trinity*: "We say that God alone is the Trinity itself." Behold, by these and many other authorities it is evidently shown that it must be said and believed that the one God is Trinity, and one substance is three persons; just as conversely the Trinity is said to be one God, and the three persons are said to be one substance.
+The same in the sixth book *On the Trinity*[^1]: "We say that God alone is the Trinity itself." Behold, by these and many other authorities it is evidently shown that it must be said and believed that the one God is Trinity, and one substance is three persons; just as conversely the Trinity is said to be one God, and the three persons are said to be one substance.
 
-Now let us return to the question set forth above, where it was asked whether God the Father begot Himself as God or another God. To which we say: neither is to be conceded. Yet Augustine says in his *Letter to Maximus* that God the Father begot "another self," in these words: "The Father, that He might have a Son from Himself, did not diminish Himself, but so begot from Himself *another self* as to remain whole in Himself and to be in the Son as great as He alone is." This can be understood thus: *He begot from Himself another who is from Himself* — not, indeed, another God, but another person; or *He begot Himself as another* — that is, He begot another who is what He Himself is. For although the Father is other than the Son, yet He is not an-other thing than the Son, but one.
+Now let us return to the question set forth above, where it was asked whether God the Father begot Himself as God or another God. To which we say: neither is to be conceded. Yet Augustine says in his *Letter to Maximus*[^2] that God the Father begot "another self," in these words: "The Father, that He might have a Son from Himself, did not diminish Himself, but so begot from Himself *another self* as to remain whole in Himself and to be in the Son as great as He alone is." This can be understood thus: *He begot from Himself another who is from Himself* — not, indeed, another God, but another person; or *He begot Himself as another* — that is, He begot another who is what He Himself is. For although the Father is other than the Son, yet He is not an-other thing than the Son, but one.
 
 ---
 
 ## Apparatus
 
-*[Apparatus footnotes pending — see Quaracchi Vol. I pp. 95–96 for the critical apparatus with citations to Augustine, De Trinitate I.1, V.6.10, VI.7.9; Epistle 170 to Maximus; and 1 Tim. 6:15.]*
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering.
+
+[^1]: **La.** Cap. 7, n. 9. — Immediate ante Vat. et edd. 1, 2 habent *item* pro *idem*; mox post *Ecce* Vat. et ed. 4 addunt *et*. Deinde codd. A B C D et edd. 1, 8 *concedendum* pro *credendum*, sed non bene nec congrue ad duo testimonia Augustini, qui loquitur tum de interiore fide (*Credimus*), tum de confessione fidei (*Dicimus*).
+    **En.** [Augustine, *de Trin.* VI,] c. 7, n. 9. — Immediately before, the Vatican ed. and edd. 1, 2 read *item* for *idem*; next, after *Ecce*, the Vatican ed. and ed. 4 add *et*. Then codd. A B C D and edd. 1, 8 read *concedendum* («to be conceded») for *credendum* («to be believed»), but not well — nor congruously to Augustine's two testimonies, who speaks both of interior faith (*Credimus*) and of confession of faith (*Dicimus*).
+
+[^2]: **La.** Epistola 170 ad Maximum medicum, n. 5. — Paulo infra in explicatione verborum Augustini Vat. male omittit *a* post *de se alterum*.
+    **En.** [Augustine,] Epistle 170 to Maximus the physician, n. 5. — A little later, in the explanation of Augustine's words, the Vatican ed. badly omits *a* after *de se alterum*.
