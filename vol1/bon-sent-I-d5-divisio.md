@@ -11,7 +11,7 @@ pdf_pages: [212, 213]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 110–111"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 1 gap-fill — from raw OCR lines 25620–25745"
+transcription_status: "Phase C Tier 2 complete — Latin body, English body, 2-footnote apparatus (2026-04-13)"
 format_version: 1
 ---
 
@@ -32,7 +32,7 @@ format_version: 1
 
 ### Divisio Textus
 
-In praecedenti distinctione movit Magister quaestionem de comparatione generationis ad terminum essentialem concretum, qualis est hoc nomen *Deus*. In praesenti movet quaestionem de comparatione generationis ad terminum essentialem abstractum, qui est *essentia*. Et dividitur haec pars in duas partes.
+In praecedenti distinctione movit Magister quaestionem de comparatione generationis ad terminum essentialem concretum[^1], qualis est hoc nomen *Deus*. In praesenti movet quaestionem de comparatione generationis ad terminum essentialem abstractum, qui est *essentia*. Et dividitur haec pars in duas partes.
 
 In *prima parte* movet quaestionem ex comparatione generationis ad essentiam in ratione *termini*, videlicet utrum essentia generetur; in *secunda* in ratione *principii*, utrum essentia generet etc., ibi: *Ita etiam non est dicendum, quod divina essentia genuit Filium*.
 
@@ -44,7 +44,7 @@ In parte ista ad intelligentiam duarum principalium partium huius distinctionis 
 
 *Primo* quaeritur de comparatione generationis ad substantiam sive essentiam in ratione *principii*.
 
-*Secundo* quaeritur de comparatione eiusdem ad in ratione *termini*.
+*Secundo* quaeritur de comparatione eiusdem in ratione *termini*[^2].
 
 Et duo quaeruntur quantum ad primum, duo vero quantum ad secundum.
 
@@ -72,7 +72,7 @@ Quantum ad secundum quaeritur:
 
 ### Division of the Text
 
-In the preceding distinction the Master raised the question of the comparison of generation to the concrete essential term — such as the name *God*. In the present distinction he raises the question of the comparison of generation to the abstract essential term — which is *essence*. This part is divided into two sub-parts.
+In the preceding distinction the Master raised the question of the comparison of generation to the concrete essential term[^1] — such as the name *God*. In the present distinction he raises the question of the comparison of generation to the abstract essential term — which is *essence*. This part is divided into two sub-parts.
 
 In the *first* he raises the question from the comparison of generation to essence in the account of *term* — namely, whether essence is begotten. In the *second*, in the account of *principle* — whether essence begets — at: *"Similarly it must not be said that the divine essence begot the Son."*
 
@@ -84,7 +84,7 @@ In this part, for the understanding of the two principal sub-parts of this disti
 
 *First* concerns the comparison of generation to substance or essence in the account of *principle*.
 
-*Second* concerns the comparison of the same in the account of *term*.
+*Second* concerns the comparison of the same in the account of *term*[^2].
 
 Two questions are asked under the first, and two under the second.
 
@@ -104,4 +104,10 @@ Under the second:
 
 ## Apparatus
 
-*[Apparatus pending.]*
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering.
+
+[^1]: **La.** Cfr. supra d. 4, *Divisio textus*, ubi similis distinctio *concreti* et *abstracti* circa terminos essentiales datur.
+    **En.** Cf. above d. 4, *Divisio textus*, where a similar distinction of *concrete* and *abstract* with respect to essential terms is given.
+
+[^2]: **La.** Quaestio *de essentia in ratione termini* infra tractatur a S. Doctore in a. 2 huius distinctionis (q. 1 *utrum essentia sit genita*, q. 2 *utrum essentia genuerit essentiam*).
+    **En.** The question *on essence in the account of term* is treated below by the Holy Doctor in a. 2 of this distinction (q. 1, *whether the essence is begotten*; q. 2, *whether essence has begotten essence*).
