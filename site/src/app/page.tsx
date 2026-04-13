@@ -27,7 +27,7 @@ export default function HomePage() {
             fontWeight: 400,
           }}
         >
-          The Bonaventure Sentences Project
+          The Bonaventure Opera Omnia
         </h2>
         <p
           style={{
@@ -42,17 +42,19 @@ export default function HomePage() {
         </p>
         <CrossDivider />
         <p className="body-text" style={{ maxWidth: "700px", margin: "0 auto", textAlign: "center" }}>
-          A collaborative effort to produce the first complete English translation of St.
-          Bonaventure&rsquo;s <em>Commentary on the Sentences of Peter Lombard</em>, from the
-          Quaracchi critical edition of 1882. This project aims to make one of the great monuments of
-          medieval scholastic theology accessible to English-speaking scholars and students for the
-          first time.
+          An English translation of the <em>Opera Omnia</em> of St. Bonaventure of Bagnoregio
+          (1221&ndash;1274), the Seraphic Doctor, from the Quaracchi critical edition (1882&ndash;1902).
+          The project will eventually present all ten volumes; currently published is Volume I, the{" "}
+          <em>Commentary on Book I of the Sentences of Peter Lombard</em>. Future volumes will include
+          the remaining commentaries on Books II&ndash;IV of the Sentences, the <em>Breviloquium</em>,{" "}
+          <em>Itinerarium mentis in Deum</em>, the <em>Collationes in Hexaemeron</em>, and other
+          opuscula and sermons.
         </p>
       </div>
 
       <FleuronDivider />
 
-      <div className="section-title">Available Books</div>
+      <div className="section-title">Volume I — Commentary on the Sentences</div>
       {books.map((book) => {
         const translated = book.distinctions.reduce(
           (s, d) => s + d.questions.filter((q) => q.hasTranslation).length,

@@ -41,9 +41,9 @@ const cinzelDecorative = Cinzel_Decorative({
 });
 
 export const metadata: Metadata = {
-  title: "Bonaventure — Commentary on the Sentences",
+  title: "Bonaventure — Opera Omnia",
   description:
-    "The first complete English translation of St. Bonaventure's Commentary on the Sentences of Peter Lombard, from the Quaracchi critical edition.",
+    "An English translation of the Opera Omnia of St. Bonaventure from the Quaracchi critical edition. Currently presenting Volume I: Commentary on Book I of the Sentences of Peter Lombard.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -57,7 +57,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <Illumination size={54} />
               <div>
                 <h1 className="header-title">Bonaventure</h1>
-                <p className="header-subtitle">Commentary on the Sentences</p>
+                <p className="header-subtitle">Opera Omnia</p>
               </div>
             </Link>
           </div>
@@ -72,7 +72,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="main-content">{children}</main>
 
         <footer className="site-footer">
-          <p style={{ marginBottom: "0.25rem" }}>The Bonaventure Sentences Translation Project</p>
+          <p style={{ marginBottom: "0.25rem" }}>The Bonaventure Opera Omnia Translation Project</p>
           <p style={{ fontSize: "11px", opacity: 0.7 }}>
             Quaracchi Edition (1882) &middot; Working Draft &middot; MMXXVI
           </p>

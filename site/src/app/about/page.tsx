@@ -25,17 +25,17 @@ export default function AboutPage() {
 
       <div className="body-text">
         <p style={{ marginBottom: "1.25rem" }}>
-          The <em>Commentary on the Sentences of Peter Lombard</em> by St. Bonaventure of
-          Bagnoregio (1221&ndash;1274) is one of the masterworks of medieval scholastic theology.
-          Written during his years as a <em>baccalaureus</em> at the University of Paris, it
-          represents Bonaventure&rsquo;s most systematic theological work and a foundational text of
-          the Franciscan intellectual tradition.
+          This project presents an English translation of the <em>Opera Omnia</em> of St. Bonaventure
+          of Bagnoregio (1221&ndash;1274), the Seraphic Doctor — drawn from the Quaracchi critical
+          edition (Vols. I&ndash;X, 1882&ndash;1902) prepared by the Fathers of the Collegium
+          S. Bonaventurae.
         </p>
         <p style={{ marginBottom: "1.25rem" }}>
-          Despite its importance, no complete English translation of this work has ever been
-          published. This project seeks to make the entire <em>Commentary</em> available in English
-          for the first time, working from the authoritative Quaracchi critical edition published by
-          the Fathers of the Collegium S. Bonaventurae in 1882.
+          We begin with Volume I, the <em>Commentary on Book I of the Sentences of Peter Lombard</em>,
+          and intend over time to publish all ten volumes — the remaining commentaries on the
+          Sentences (Books II&ndash;IV), the <em>Breviloquium</em>, the <em>Itinerarium mentis in
+          Deum</em>, the <em>Collationes in Hexaemeron</em>, and the rest of the opuscula and sermons.
+          No complete English edition of the Opera Omnia has ever been published.
         </p>
 
         <FleuronDivider />
@@ -60,9 +60,10 @@ export default function AboutPage() {
           Our source text is the Quaracchi critical edition (
           <em>Opera Omnia S. Bonaventurae</em>, 1882&ndash;1902), digitized via OCR from Internet
           Archive scans. Common OCR artifacts (broken words, letter substitutions, garbled marginal
-          glosses) have been silently corrected. The critical apparatus and Quaracchi editorial
-          scholia are omitted from this translation, as they represent the work of the 19th-century
-          editors rather than Bonaventure himself.
+          glosses) have been silently corrected. We additionally provide literal English translations
+          of the Quaracchi <em>scholia</em> and apparatus footnotes alongside the original Latin —
+          since these editorial notes form an essential part of the scholarly value of this edition,
+          and have themselves never been translated.
         </p>
 
         <div className="section-title">Key Terms</div>
