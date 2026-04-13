@@ -11,7 +11,7 @@ pdf_pages: [235, 236]
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. VII (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 133–134)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 1 gap-fill — Latin from raw OCR (lines 28913–29108)"
+transcription_status: "Phase C Tier 2 complete — Latin body, English body, 4-footnote apparatus (Augustine contra Maximinum II + de Trin I) (2026-04-13)"
 format_version: 1
 ---
 
@@ -34,9 +34,9 @@ Hic solet quaeri a quibusdam, utrum Pater potuerit vel voluerit generare Filium.
 
 Ex simili quoque hoc videre possumus. Pater enim potest esse Pater et vult esse Pater; Filius autem nec potest nec vult esse Pater: ergo Pater potest vel vult esse aliquid, quod non potest vel vult esse Filius. Non sequitur, quia *esse Patrem* non est *esse aliquid*, sed est *esse ad aliquid*, ut in sequenti ostendetur.
 
-Sed vehementer nos movet quod ait Augustinus in secundo libro *contra Maximinum*, qui asserebat Patrem potentiorem Filio, eo quod Filium genuit Deum creatorem, Filius autem non; dicebatque Patrem potuisse gignere non-Filium; et ideo potentiorem esse Filio. Ad quod respondens Augustinus dicere videtur, quod Filius etiam potuit gignere, volens ostendere, Patrem non esse potentiorem Filio, his verbis: «Absit, ut ideo potentior sit Pater Filio, sicut putas, quia Creatorem genuit Pater, Filius autem non genuit Creatorem; neque enim *non potuit*, sed *non oportuit*». Vide et diligenter attende haec verba: *non enim non potuit, sed non oportuit*. Videtur enim dicere, quod Filius potuit gignere, sed non oportuit; et ita potuit quod non oportuit.
+Sed vehementer nos movet quod ait Augustinus in secundo libro *contra Maximinum*[^1], qui asserebat Patrem potentiorem Filio, eo quod Filium genuit Deum creatorem, Filius autem non; dicebatque Patrem potuisse gignere non-Filium; et ideo potentiorem esse Filio. Ad quod respondens Augustinus dicere videtur, quod Filius etiam potuit gignere, volens ostendere, Patrem non esse potentiorem Filio, his verbis: «Absit, ut ideo potentior sit Pater Filio, sicut putas, quia Creatorem genuit Pater, Filius autem non genuit Creatorem; neque enim *non potuit*, sed *non oportuit*». Vide et diligenter attende haec verba: *non enim non potuit, sed non oportuit*. Videtur enim dicere, quod Filius potuit gignere, sed non oportuit; et ita potuit quod non oportuit.
 
-Quare autem non oportuit, subdit dicens: «Immoderata enim esset divina generatio, si genitus Filius nepotem gigneret Patri, quia et ipse nepos, nisi avo suo pronepotem gigneret, secundum vestram mirabilem sapientiam impotens diceretur». Hoc autem non videtur quibusdam posse stare, scilicet quod Filius potuerit gignere. Si enim Filius potuit gignere, potuit esse pater; et si potuit esse pater, ergo potuit esse pater vel sui, vel Patris, vel Spiritus sancti, vel alicuius alius. Sed alius non, quia nullus alius semper fuit; nec Patris, quia Pater est ingenitus et innascibilis; nec sui, «quia nulla res se ipsam gignere potest»; nec Spiritus sancti, quia nasci non potuit.
+Quare autem non oportuit, subdit dicens[^2]: «Immoderata enim esset divina generatio, si genitus Filius nepotem gigneret Patri, quia et ipse nepos, nisi avo suo pronepotem gigneret, secundum vestram mirabilem sapientiam impotens diceretur». Hoc autem non videtur quibusdam posse stare, scilicet quod Filius potuerit gignere. Si enim Filius potuit gignere, potuit esse pater; et si potuit esse pater, ergo potuit esse pater vel sui, vel Patris, vel Spiritus sancti, vel alicuius alius. Sed alius non, quia nullus alius semper fuit; nec Patris, quia Pater est ingenitus et innascibilis; nec sui, «quia nulla res se ipsam gignere potest»[^3]; nec Spiritus sancti, quia nasci non potuit[^4].
 
 Quomodo ergo accipietur quod supra dictum est: *non enim non potuit gignere, sed non oportuit* — quasi potuit, sed non oportuit? Potest sic intelligi: *non enim non potuit, sed non oportuit*, id est, non ex impotentia sui fuit, quod Filius non genuit, sed ei non conveniebat, sicut Deus Filius non est Deus Pater; nec tamen hoc ex impotentia sui est.
 
@@ -70,11 +70,11 @@ It is customarily asked by some whether the Father could or willed to beget the 
 
 By a similar example we can see this. For the Father can be Father and wills to be Father; but the Son cannot and does not will to be Father: therefore the Father can or wills to be something which the Son cannot or does not will to be. It does not follow — because *to be Father* is not *to be something*, but *to be in relation to something*, as will be shown in the following.
 
-But what Augustine says in the second book *Against Maximinus* moves us greatly — Maximinus who asserted that the Father was more powerful than the Son, because the Father begot the Son as Creator but the Son did not; and he said the Father could beget a non-Son, and therefore was more powerful than the Son. To this Augustine responds, seemingly saying that the Son also *could* beget, wishing to show that the Father is not more powerful than the Son, in these words: "Far be it that the Father be more powerful than the Son, as you suppose, because the Father begot a Creator, but the Son did not beget a Creator; for not that *He could not*, but *it was not fitting*."
+But what Augustine says in the second book *Against Maximinus*[^1] moves us greatly — Maximinus who asserted that the Father was more powerful than the Son, because the Father begot the Son as Creator but the Son did not; and he said the Father could beget a non-Son, and therefore was more powerful than the Son. To this Augustine responds, seemingly saying that the Son also *could* beget, wishing to show that the Father is not more powerful than the Son, in these words: "Far be it that the Father be more powerful than the Son, as you suppose, because the Father begot a Creator, but the Son did not beget a Creator; for not that *He could not*, but *it was not fitting*."
 
-Note and carefully attend to these words: *for not that He could not, but it was not fitting*. He seems to say that the Son *could* beget but it was not fitting; and so *He could what was not fitting*. Why it was not fitting, Augustine adds: "Divine generation would be immoderate if the begotten Son begot a grandson to the Father — because that grandson, unless he begot a great-grandson for his grandfather, according to your wonderful wisdom would be called impotent."
+Note and carefully attend to these words: *for not that He could not, but it was not fitting*. He seems to say that the Son *could* beget but it was not fitting; and so *He could what was not fitting*. Why it was not fitting, Augustine adds[^2]: "Divine generation would be immoderate if the begotten Son begot a grandson to the Father — because that grandson, unless he begot a great-grandson for his grandfather, according to your wonderful wisdom would be called impotent."
 
-But it does not seem to some that this can stand — namely that the Son could have begotten. For if the Son could beget, He could be father; and if He could be father, then He could be father either of Himself, or of the Father, or of the Holy Spirit, or of some other. But not of another, because no other has always existed; nor of the Father, because the Father is unbegotten and unborn; nor of Himself, because "no thing can beget itself"; nor of the Holy Spirit, because the Spirit could not be born.
+But it does not seem to some that this can stand — namely that the Son could have begotten. For if the Son could beget, He could be father; and if He could be father, then He could be father either of Himself, or of the Father, or of the Holy Spirit, or of some other. But not of another, because no other has always existed; nor of the Father, because the Father is unbegotten and unborn; nor of Himself, because "no thing can beget itself"[^3]; nor of the Holy Spirit, because the Spirit could not be born[^4].
 
 How then are we to take what was said above: *for not that He could not beget, but it was not fitting* — as though He *could* but *it was not fitting*? It can be understood thus: *for not that He could not, but it was not fitting* — that is, it was not because of any impotence on His part that the Son did not beget, but it was not fitting for Him, just as God the Son is not God the Father; yet this is not from any impotence of His either.
 
@@ -96,4 +96,16 @@ Far be it; for the very same power is in the Father by which He can be Father, a
 
 ## Apparatus
 
-*[Apparatus pending — see Quaracchi Vol. I pp. 133–134.]*
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering.
+
+[^1]: **La.** August., *contra Maximinum* II, c. 12, n. 1: *Absit, ut ideo potentior sit Pater Filio, sicut putas, quia Creatorem genuit Pater, Filius autem non genuit Creatorem; neque enim non potuit, sed non oportuit*.
+    **En.** Augustine, *Against Maximinus* II, c. 12, n. 1: «Far be it that the Father be more powerful than the Son, as you suppose, because the Father begot a Creator but the Son did not beget a Creator; for not that He could not, but that it was not fitting».
+
+[^2]: **La.** Ibidem: *Immoderata enim esset divina generatio, si genitus Filius nepotem gigneret Patri, quia et ipse nepos, nisi avo suo pronepotem gigneret, secundum vestram mirabilem sapientiam impotens diceretur*.
+    **En.** Ibidem: «For divine generation would be immoderate if the begotten Son begot a grandson to the Father — because that very grandson, unless he begot a great-grandson for his grandfather, according to your wonderful wisdom would be called impotent».
+
+[^3]: **La.** August., I *de Trin.* c. 1, n. 1: *Nulla res est, quae se ipsam gignat, ut sit*. Vide etiam supra in lit. Magistri d. 4, c. 1.
+    **En.** Augustine, *On the Trinity* I, c. 1, n. 1: «There is no thing that begets itself, that it might be». See also above in the Master's text d. 4, c. 1.
+
+[^4]: **La.** Cfr. infra in tractatione quaestionum huius distinctionis, ubi de potentia generandi sive in Filio sive in Spiritu sancto reperiri possit, fusius agitur (a. unic. q. 1–3 huius dist.).
+    **En.** Cf. below in the treatment of the questions of this distinction, where it is treated more fully whether the power of generating can be found either in the Son or in the Holy Spirit (a. unic., qq. 1–3 of this dist.).
