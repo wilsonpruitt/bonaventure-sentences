@@ -7,10 +7,10 @@ pars: 1
 articulus: 1
 quaestio: 3
 type: quaestio
-line_start: 11960
-line_end: 12048
+line_start: 11963
+line_end: 12052
 word_count_latin: 766
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,11 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-                                                                                                                        QUAESTIO III.
+QUAESTIO III.
 
 
                                               Utrum aequalis et similis secundum miituavi relationem in divinis diccmtur.

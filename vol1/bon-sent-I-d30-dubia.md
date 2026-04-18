@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 30
 type: dubia
-line_start: 10972
-line_end: 11185
+line_start: 10976
+line_end: 11189
 word_count_latin: 1777
-transcription_status: "auto-chunked 2026-04-17 (chunk-fill)"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                   DIST. XXX. DUBIA.
+DIST. XXX. DUBIA.
 
 
 

@@ -7,10 +7,10 @@ pars: 2
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 6360
-line_end: 6986
+line_start: 6362
+line_end: 6990
 word_count_latin: 5523
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,10 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-                                                                                                                               QUAESTIO I.
+QUAESTIO I.
 
 
                                                                     Uirum verbum in divinis dicatur essenlialiter, an notionaliter.

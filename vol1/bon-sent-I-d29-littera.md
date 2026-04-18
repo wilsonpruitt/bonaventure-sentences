@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 29
 type: littera
-line_start: 8846
-line_end: 8992
+line_start: 8849
+line_end: 8996
 word_count_latin: 1440
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,11 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-                                                                                             DISTINCTIO XXIX.
+DISTINCTIO XXIX.
 
                                                                                                                        turas inlelligere debemus, et omnia quae naturaliter'
                                                                                                                        sunt.Non enira ex ipso sunt peccata, quae naturam

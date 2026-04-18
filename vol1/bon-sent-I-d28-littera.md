@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 28
 type: littera
-line_start: 7586
+line_start: 7590
 line_end: 7790
 word_count_latin: 1609
-transcription_status: "auto-chunked 2026-04-17 (chunk-fill)"
+transcription_status: "auto-chunked 2026-04-18 (chunk-fill)"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                     DISTINCTIO XXVIII.                                                                                      493
+DISTINCTIO XXVIII.                                                                                      493
 
             el    ingemlus,           iion tamen indicat diversam                                substantiam,         tum.   Unde Ambrosius eorum quaestioni respondeus
             quia sicut filiiis ad patrem, et non-filius ad non-patrem                                                 dicit, se in divinis Scripturis hoc nomen, scilicet in-

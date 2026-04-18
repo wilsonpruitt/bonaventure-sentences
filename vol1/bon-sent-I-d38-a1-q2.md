@@ -6,10 +6,10 @@ distinctio: 38
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 25408
-line_end: 25634
+line_start: 25412
+line_end: 25638
 word_count_latin: 1873
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,12 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                                        QUAESTIO II.
+QUAESTIO II.
 
 
                                                                                     Ulruni praescientia divina                                             sit             causala a 7-chus.

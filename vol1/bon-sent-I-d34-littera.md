@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 34
 type: littera
-line_start: 16581
-line_end: 16883
-word_count_latin: 2789
-transcription_status: "auto-chunked 2026-04-17 (chunk-fill)"
+line_start: 16585
+line_end: 16888
+word_count_latin: 2793
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                              DISTINCTIO XXXIV.
+DISTINCTIO XXXIV.
 
 
                                                            Cap.       I.                                             per rem naturae pcrsonam                          ,    et    nomine nalurae fljvinam
@@ -315,6 +310,11 @@ victore.
            oportuit intellectum quod pro potuil                               inteUeetam           quam,- sola            tata est,        et   non polero ad eam.
            Vat. oportuit intellectam.                         Anliquae       edd.    August.           concordant
                                                                                                ,,
+
+
+
+
+                                                                         DIST. XXXIV. DIVISIO TEXTUS.
 
 ## English
 

@@ -6,10 +6,10 @@ distinctio: 38
 articulus: 2
 quaestio: 2
 type: quaestio
-line_start: 25980
+line_start: 25984
 line_end: 26273
 word_count_latin: 2566
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,13 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-
-                                                                                                                                 QUAESTIO II.
+QUAESTIO II.
 
 
                                                                                     Utrum              necessario Deus praesciat quae praescil.

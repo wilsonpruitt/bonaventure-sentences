@@ -5,10 +5,10 @@ book: 1
 distinctio: 29
 pars: 1
 type: dubia
-line_start: 9934
-line_end: 10159
-word_count_latin: 1898
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 9959
+line_end: 10163
+word_count_latin: 1775
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -16,33 +16,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                     DUBIA CIRCA LITTERAM MAGISTRI.
-
-
-                                                                                                                                        principium. totius deitatis. Quaeritur ergo, pro quo
-                                                                                                                                        stat          ibi    hoc nomen primipium.                                 Nou enim                      potest
-                          In parte ista                           sunt     dubitationes                    circa litteram               stare pro essentia nec pro persona, quia utrumque
-              et     prirao                  de          hoc quod               dicitur,             quod Pater                   est   dicit,             quantum est de se, absolutum. Aut ergo stat
-
-
-
-                     1    Vat.          cum cod. cc dicit. Mox post quia non habet codd.                                                        2      Suppositum hic signiflcat subiecttim, ut ex sequcntibus
-              1   K V W aa bb repetunt plures                               ,
-                                                                                 pro quo cod.                Y diversas       ,    et   et     praecedentibus apparet,                      nisi forte sit       error codicum.             —        Infra
-
-              deinde codd.                       PQX cum edd. 2, 3, 4,                          .5,       6 incongrue omit-             Vat.      cum cod. cc bene unica est pro una est.
-              tunt secundum.
-                                                                                                           ,
-
-
-
-
-                                                                                                DIST. XXIX. DUBIA.                                                                                                                bl7
+DIST. XXIX. DUBIA.                                                                                                                bl7
                                                                                                            '
               pro paternitaie,                    et lioc falsam, quia                 non est pater           cipium de principio ? quia non pro filiatione , quia
               Spirltus            sancti:         nec      pro spiratione,               quia spiratio         hoc convenit Spiritui sancto, scilicet esse princi-

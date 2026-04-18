@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 41
 type: littera
-line_start: 30394
-line_end: 30660
-word_count_latin: 2180
-transcription_status: "auto-chunked 2026-04-17 (chunk-fill)"
+line_start: 30398
+line_end: 30648
+word_count_latin: 2158
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                        DISTINCTIO XLl.
+DISTINCTIO XLl.
 
 
 
@@ -267,18 +262,6 @@ xuus* super Malacbiam propbelam, ubi scriplum est                               
  modo non scit; et alia huiusmodi inflnila induci pos-                                             tur teneamus,            Deum semper omnia scire, quae                                 ali-
 .sent'.        —
           Sed ad hoc dicimus, qiiod idem de nativitate                                             quando seit.
-
-
-
-
-                                C0MMENTARIU8 IN DISTINCTIONEM XLI.
-
-                       De causalitate           passiva sive de causa meritoria praedestinationis et reprobationis.
-
-
-
-
-                                             Si autein quaerimus obdurationis meritum et misericordiae etc.
 
 ## English
 

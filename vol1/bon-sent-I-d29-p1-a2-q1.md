@@ -7,10 +7,10 @@ pars: 1
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 9484
-line_end: 9766
+line_start: 9487
+line_end: 9770
 word_count_latin: 2274
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,11 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-                                                                                                      QUAESTIO I.
+QUAESTIO I.
 
 
                                    Ulrum Pater et Filius dici possint unum principium. Spiritus sancti.

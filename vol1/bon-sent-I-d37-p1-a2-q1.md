@@ -7,10 +7,10 @@ pars: 1
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 22366
-line_end: 22747
-word_count_latin: 3137
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 22370
+line_end: 22736
+word_count_latin: 3090
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,12 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                        QUAESTIO I.
+QUAESTIO I.
 
 
                                                                                        Utrum esse ubiquc soli Deo cmwcniat.
@@ -386,21 +381,6 @@ latlva.^     quod nonest sua conversa^                                          
              ul    I   Z convenit ei temporaliter.                                                                               V.      g.            Irianguius              formatur.               — Paulo superius                                        Vat.          sola       fuit
                        -    iNempe proposilio: res sunt                          in   Deo, non idem significat                   pro fil.
                                                                                             SENTENTIARUM 1,IB. I.
-
-
-
-
-                                                                                                 ARTICULUS 111.
-
-                                                                                         Qualiter     Deus           sil    in        rebus.
-
-
-
-
-                      Tertio loco principaliter quaeritiir de tertio ar-                                                         l^rimo quaeritur,                    utrum Deus              sit    in      omnibus
-          ticulo, scilicet qualiter                 Deus         sit        in     rebus. Et circa                   rebus aequaiiter sive uniformiter.
-          lioc    duo quaeruntur.                                                                                                Secundo quaeritur, quibus modis,                                          et qualiter
-                                                                                                                     Deus         sit    in   rebus.
 
 ## English
 

@@ -33,12 +33,15 @@ RAW_BY_PART = {
     2: REPO / "raw" / "bonaventure_vol1_pt2_raw.txt",
 }
 
-RE_DISTINCTIO = re.compile(r"^\s*DISTINCTIO\S*\s+([IVXLCivxlc]+(?:\s*[IVXLCivxlc])*)\b", re.MULTILINE)
-RE_COMMENTARIUS = re.compile(r"^\s*COMMENTARIUS\s+IN\s+D", re.MULTILINE | re.IGNORECASE)
-RE_DIVISIO_TEXTUS = re.compile(r"^(?P<line>.*\bDIVISIO\s+TEXTUS.*)$", re.MULTILINE)
-RE_ARTICULUS = re.compile(r"^\s*ARTI[CG]ULUS\s+([IVXLCivxlc]+|UNICUS)\b", re.MULTILINE)
-RE_QUAESTIO = re.compile(r"^\s*Q[UIJij1][A^.flEIJij]{0,6}STIO\s+([IVXLCivxlcm]+)\b", re.MULTILINE)
-RE_DUBIA = re.compile(r"^\s*DUB(?:IA)?\s+CIRCA|^\s*DIST\..*DUBIA", re.MULTILINE)
+RE_DISTINCTIO = re.compile(r"^[ \t]*DISTINCTIO\S*\s+([IVXLCivxlc]+(?:\s*[IVXLCivxlc])*)\b", re.MULTILINE)
+# OCR-tolerant: covers COMMENTARIUS, C0MMENTARIU8, C0MMENTAEIU8, COMMENTAEIUS, C0MMENTARIII8.
+RE_COMMENTARIUS = re.compile(r"^[ \t]*C[O0]MMENT[AE][REI]{1,3}[US8]{1,2}\s+IN\s+D", re.MULTILINE)
+# OCR-tolerant: DIVISIO / DIVTSIO; TEXTUS / TE.XTUS.
+RE_DIVISIO_TEXTUS = re.compile(r"^(?P<line>.*\bDIV[IT]SIO\s+TE\.?XTUS.*)$", re.MULTILINE)
+# OCR-tolerant: ARTICULUS/ARTIGULUS + roman (incl. digit-OCR 1/11/111) or UNICUS / UiNICUS / UNIGUS.
+RE_ARTICULUS = re.compile(r"^[ \t]*ARTI[CGI]U[L1I]U[S8]\s+([IVXLC1ivxlc]+|U[Ii]?N[IL]?[CG]U[S8])\b", re.MULTILINE)
+RE_QUAESTIO = re.compile(r"^[ \t]*Q[UIJij1][A^.flEIJij]{0,6}STIO\s+([IVXLC1ivxlcm]+)\b", re.MULTILINE)
+RE_DUBIA = re.compile(r"^[ \t]*(?:.*\bDUBIA\b|DUB[.\s]+[I1]\b[^IVX])", re.MULTILINE)
 RE_RUNNING_HEAD = re.compile(r"\bDIST\.\s*[IVXLCivxlc]+", re.IGNORECASE)
 
 ROMAN = {
@@ -56,7 +59,13 @@ ROMAN = {
 
 def parse_roman(s: str) -> int | None:
     s = s.strip().replace(" ", "").upper()
+    if s in ("1", "11", "111"):
+        return len(s)
+    if re.fullmatch(r"U[I]?N[IL]?[CG]U[S8]", s):
+        return 1
     if s in ROMAN:
+        if s == "L":
+            return 1
         return ROMAN[s]
     trailing = len(s) - len(s.rstrip("L"))
     for n in range(1, trailing + 1):

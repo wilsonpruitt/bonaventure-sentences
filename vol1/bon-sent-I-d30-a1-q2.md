@@ -6,10 +6,10 @@ distinctio: 30
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 10595
-line_end: 10971
+line_start: 10599
+line_end: 10975
 word_count_latin: 3132
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,13 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-
-                                                                                                                  QUAESTIO        II.
+QUAESTIO        II.
 
 
 

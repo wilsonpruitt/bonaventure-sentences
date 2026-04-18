@@ -6,10 +6,10 @@ distinctio: 44
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 35890
-line_end: 36122
+line_start: 35893
+line_end: 36125
 word_count_latin: 2286
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,11 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-                                                                                                          QUAESTIO I.
+QUAESTIO I.
 
 
                      Utrum Deus fotueril mundum facere meliorem quoad substantiam partium integrantium.

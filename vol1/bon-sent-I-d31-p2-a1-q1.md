@@ -7,10 +7,10 @@ pars: 2
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 12166
-line_end: 12620
+line_start: 12169
+line_end: 12624
 word_count_latin: 3555
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,11 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-                                                                                QUAESTIO I.
+QUAESTIO I.
 
 
                                Utri               in divinis     secundum suhstantiam, an secundum relationem dicatur.

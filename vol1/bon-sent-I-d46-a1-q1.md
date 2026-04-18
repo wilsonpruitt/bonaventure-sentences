@@ -6,10 +6,10 @@ distinctio: 46
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 39662
-line_end: 39991
+line_start: 39666
+line_end: 39995
 word_count_latin: 2677
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,12 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                         QUAESTIO I.
+QUAESTIO I.
 
 
                                                   Utrum Deus velit omnes homines salvos fieri voluntate                                                              beneplaciti.

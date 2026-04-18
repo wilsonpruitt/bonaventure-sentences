@@ -6,9 +6,9 @@ distinctio: 27
 pars: 1
 type: divisio
 line_start: 4842
-line_end: 4893
+line_end: 4896
 word_count_latin: 337
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -16,8 +16,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                                     DIVISIO TEXTUS.
+DIVISIO TEXTUS.
 
 
                          Supra assignavit Magisler proprietates persona-                                                cabula magis ^       usitata ,       in    seciinda           per       vocabula

@@ -6,9 +6,9 @@ distinctio: 40
 pars: 1
 type: divisio
 line_start: 28182
-line_end: 28208
+line_end: 28212
 word_count_latin: 254
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -16,8 +16,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                               DIST. XL. DIVISIO TEXTUS.                                                                  701
+DIST. XL. DIVISIO TEXTUS.                                                                  701
 
              praeparavit ad facienda peccata. Praeparavit enira Deus,                              impertitur       nec digni sunt nec mereutu)'           ;
                                                                                                                                                                potius ut nou

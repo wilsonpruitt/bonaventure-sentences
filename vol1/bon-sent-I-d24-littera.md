@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 24
 type: littera
-line_start: 162
-line_end: 286
+line_start: 166
+line_end: 290
 word_count_latin: 1159
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                           DISTINCTIO XXIV
+DISTINCTIO XXIV
 
                                                              Cap. umcum.                                                       sio consortii,                quia aliquod consortium esse non potest
                                                                                                                                ipsi solitario,               neque solitudo                                solitarii recipit /acMwiis^

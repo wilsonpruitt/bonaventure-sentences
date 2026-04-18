@@ -5,9 +5,9 @@ book: 1
 distinctio: 38
 type: divisio
 line_start: 25082
-line_end: 25143
-word_count_latin: 313
-transcription_status: "auto-chunked 2026-04-17"
+line_end: 25140
+word_count_latin: 307
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,8 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                          DIVISIO TEXTUS.
+DIVISIO TEXTUS.
 
 
 
@@ -71,13 +70,6 @@ sahtatem.                                                                       
 
 r
                                                                                                                DIST. XXXMII. ART.                         I.        QUAEST. I.
-
-
-
-
-                                                                                                                                 ARTICULUS 1.
-
-                                                                                                          De causalitate praescientiae divinae.
 
 ## English
 

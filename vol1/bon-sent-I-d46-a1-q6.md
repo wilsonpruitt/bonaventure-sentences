@@ -6,10 +6,10 @@ distinctio: 46
 articulus: 1
 quaestio: 6
 type: quaestio
-line_start: 41050
-line_end: 41293
+line_start: 41054
+line_end: 41297
 word_count_latin: 1968
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,12 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                                       QUAESTIO            VI.
+QUAESTIO            VI.
 
 
 

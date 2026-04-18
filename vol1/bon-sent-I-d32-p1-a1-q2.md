@@ -7,10 +7,10 @@ pars: 1
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 14243
-line_end: 14443
-word_count_latin: 1767
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 14247
+line_end: 14434
+word_count_latin: 1709
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,12 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                                          QUAESTIO II.
+QUAESTIO II.
 
 
  In qua hahiiudme                                     ille          abkUivus construatur                                                   ,    si dicitur:                Pater et Filius dUiguni se Spiritu sancto.
@@ -208,18 +203,6 @@ loiutio   op- citur: si Ibrmahter alio                                dihgunt, e
                                                                  quae quasi forma denominans                            signi-                Auctores alios vide                in   Scliolio praccedenti.
 
              ficatur,     cum additur nomen personae ».
-
-
-
-                                                                                                                  ARTIGULUS 11.
-
-                         De locutione: Pater est sapientia genita, et de alia: Pater est potens                                                                                        virtute ,            quam genuit.
-
-
-                         Consequenter                   est quaestio principalis                                de hac       lo-                   Primo quaeritur, utruin illa locutio sit admittenda..
-             cutione: Pater esL sapiens sapientia genita.                                                         Et circa                         Secundo, ad intellectum                          "^
-                                                                                                                                                                                                         huius, utruni .sit haec
-             hoc quaeruntur duo.                                                                                                      admittenda: Pater est potens virtute,                                           quam       genuit.
 
 ## English
 

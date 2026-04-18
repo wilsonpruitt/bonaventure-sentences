@@ -6,10 +6,10 @@ distinctio: 46
 articulus: 1
 quaestio: 4
 type: quaestio
-line_start: 40526
-line_end: 41049
+line_start: 40530
+line_end: 41053
 word_count_latin: 4222
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,12 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                                   QUAESTIO iV.
+QUAESTIO iV.
 
 
                                                                                                               Utrum mala fieri sil verum.

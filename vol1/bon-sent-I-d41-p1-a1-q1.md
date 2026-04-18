@@ -7,10 +7,10 @@ pars: 1
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 30730
-line_end: 31035
+line_start: 30733
+line_end: 31039
 word_count_latin: 3021
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,11 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-                                                                                                                     QIJAESTIO         I.
+QIJAESTIO         I.
 
 
 

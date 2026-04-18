@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 44
 type: dubia
-line_start: 37020
-line_end: 37117
+line_start: 37024
+line_end: 37121
 word_count_latin: 1082
-transcription_status: "auto-chunked 2026-04-17 (chunk-fill)"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                         DIST. XLIV. DUBIA.                                                                                                                                793
+DIST. XLIV. DUBIA.                                                                                                                                793
 
           tus in gratia, quani potens labi ;                                                         si    in    ordinatione                  cipere, quia unionis gratia ex parte alterius extremi
           adftnem, quae quidera consistit in peiveniendo; sic                                                                                 est dignitatis infinitae , scilicet quod                                                            homo sit Deus,

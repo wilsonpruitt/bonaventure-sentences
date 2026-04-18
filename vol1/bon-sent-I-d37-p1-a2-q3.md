@@ -7,10 +7,10 @@ pars: 1
 articulus: 2
 quaestio: 3
 type: quaestio
-line_start: 23763
-line_end: 23922
-word_count_latin: 1522
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 24399
+line_end: 24644
+word_count_latin: 2237
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -19,166 +19,248 @@ format_version: 1
 ## Latin
 
 
+QUAESTIO III.
+
+
+                                                              Utrum Angehis pertramecU medium moto subito,                                                                                                        rel successivo.
 
 
 
 
-                                                                                                                        QUAESTIO                III.
+                        Tertio qii;iei'itur,                            iilriini                 spiritus angelicus per-                                           pinquiora                 quam ad loca remotiora», et constal quod
+           transeat mediuni niotu                                       '
+                                                                             subilo                       ,    vel           successivo. Et                        pertransit                 medium: ergo si                             virtus               angelica non est
+           quod successivo, videtur.                                                                                                                               minus potens, sed magis, patet etc.
+                        1. In aliquo instanti est in termino a cjuo                                                                               ,    et in               2.                            « quod si esset
+                                                                                                                                                                                    Item, Philosophus " probat,
+FniKiamenia.alio    iustanti est in                       termiao ad quem; sed inter quae-                                                                         vacuum, non esset motus » sed idem facit ipsum                         ;
+
+
+
+           libet         duo           instantia               cadit                tempus                           mediuni,                         et     in    spatium Angelo, quod facit vacuum corpori moto,
+           medio illorum instantiuni est moveri: ergo moveri                                                                                                       quia ei nullo modo resistit, sicut nec vacuum ergo                                                                         :
+
+
+
+           ipsius Angeli est in tempore   ergo movelur motu                              :                                                                         videtur, qiiod ipse Angelus subito ipsum pertranseat.
+           successivo.                                                                                                                                                  3. Item, omne quod successive movetur, par-
+
+                        ± Ilem. I100 ipsum ostenditur                                                                    a        parte spalii                     tim est in termino a quo, partim in termino ad
+           sic:         Angelus,               si    perlransit                          medium                              in            aliquo            in-   quem         '   ;        sed        omne tale est partibile: ergo                                                    necesse
+           stanti        .    est     '   in       medio            el          in       partibus medii ; sed im-                                                  est,        Angelum                       esse           partibilera,                      aut         non           movetur
+           possibile est,                    qnod aliquod unum praeter Deum                                                                                  et    successive.
+           corpus Christi simul                                    et       semel                     sit       in        pluribus locis:                                   4.      Item,                   omne quod simul se transfert et totum
+           ergo iHipossibile est, quod Angelus in eodem instanli                                                                                                   simul, non successive movetur                                                    ;     sed Angelus                             simul
+           sit     in toto             medio et                    in       rme. ergo                               non moYetur su-                                se transfert, cuni                                sit      oranino simplex                         :     ergo                  in    in-
+
+           bilo     :        ergo necessario oporlet                                         ,        quod successive.                                             stanti, et                 non successive movelur.
+                        3.     Item, hoc ostenditur a parte virtutis. Sicut                                                                                                    0.   Item, motus successivus est                                                       compositus                        et
+
+           vult Philosophus ',                                si        tanla virtus                                 movet                   in       tanto        accidens',                      et       nullum accidens                              compositum                           est in
+
+           tempore,                  et   maior               in    minori                   ,   et maxima in minimo,                                              subiecto                  simplici;                 sed      Angelus                  est        simplex:                       ergo
+           et infinita in                    nunc, ergo secundum quod                                                                       potentior              non est subiectum motus successivi, sed mobile esl
+           est virtus,                    secundum hoc                               velocior                            est          motus; sed                   subiectum motus, ergo etc.
+            instans excedit lempus improportionabiliter                                                                                      :    ergo et
+            virtii^,            quae movet                     in instanti, superexcedit illam,                                                                                                                        CONCLOSIO.
+           quae movet in tempore in infmitum. Sed nulla virtus
+           creata              superexcedit                        aliara                in                   inflnitum, et virtus                                 Angelus movetur per medium successivo motu, ra-
+           angelica est creata: ergo cum omnis motus naturalis                                                                                                                 tione           clistantiae                    spatii          et        ratione finitae vir-
+            localis sit snccessivus, patet                                                   quod motus Angeli                                               sit               tutis moventis.
+
+            successivus.
+                        4.     Item,         si     Angelus movetur, aut ergo                                                                         motus                    Respondeo: Dicendura, quod                                                      circa             hoc              sense-
+
+            ille    est vere                 molus, aut mutatio                                                '.    Si      mutatio: ergo                         runt aliqui diversimode.
+            generatio, vel corruptio,  quod constat esse falsum.                                                                                                               Quidam                   enira dixerunt,                           quod quia Angelus est opmip
+                                                                                                                                                                                                                                                                            io t
+                                                                                                                                                                                                                                                                            idal
+            Si      motus ; sed omnis motus proprie dictus habet                                                                                                   simplex,                  et spatiura                     corapositum, quod              tam Ange-
+            prius et posterius, et                                          situm                et            tempus,                       et       omne         lus     quam                eius               virtus         est          spatio            improportionabi-
+            tale est             successivum: ergo                                       etc.                                                                      hs°; et ideo virtus eius omnino                                                            vincit         supra                     spa-
+
+                Contra: 1. Augustinus in libro Quinque Respon-                                                                                                     tiura,           adeo quod                        siibito        et        raotu            iinproportionabili
+
+ Ad opposi- sionum ^ «Radius non citius pervenit ad loca pro-
+                                 :                                                                                                                                 spatium pertransit,                                     et est        huiusmodi                        motus                   supra
 
 
 
 
-                                                               Utrum Deus sit ab omni loco separabilis vel extra omnem locum.
+                  Plurimi codil. cum ed.
+                    '                                                           I    actu             ,
+                                                                                                              quae leclio iion c                                   — Posl verba Si motus                                     Vat.. omitlit          sed omnis motus                           ,    el   in-
 
+            cum rubricfi huius articuli.                                                                                                                           ler Si et            motus interiicit omnis.
+                    2        Verbo est Vat. praefigit simul.                                                                                                               '
+                                                                                                                                                                                Quaest.             I   .   n.    5.       (sive Epist.       1   02.    ad Deogralias) : Ul enim
+                    ^        Colligi      potest ex VI. Phys. toxl.                                            13.       seqq.,             (c.       2.),    ot   radius oculi nostri non citius pervenit ad propinquiora                                                                ,       tardius
 
-                         Tertio loco quaeritur                            ,   utrum sit Deus ab omni                                                    2. Item,               hoc quod est extra adverbium loci
-            loco separabilis                           vel        extra       omnem                locum.           Et quod              est: ergo                   si       Deus extra omnem locum est, est in
-            non, videtur                                                                                                                  loco et praeter                           omnem locum; sed hoc                                              est   falsum
-                         I .   Quia extra                omnem locum nihil est ergo si                         ;                         et    non               inteUigibile              :    ergo                Deus non                potest          nec re
-            Deus           est extra                   omnem locum ergo nihil est ° vel
-                                                                                     ,                                                   nec intellectu separari ab omni loco.
-            iii   nihilo.                                                                                                                               3.        Item, ctim dicitur: Deus est extra mundum,
+            VIII.       text.    79. seq.           (c.       10.).      —      Circa finem argumenti post ««-                                                     ad longinquiora, sed utraque intervalla parili celeritate contingil.
+            twalis cod.                T interiicit et.                                                                                                                    «    iibr. IV. Phys. text. 66. seqq.                                         (e.    8.).
 
+                    *        Secundum Aristot,, V. Phys. tcxt. 7-9. (c.                                                           I   .)   omnis trans-                    ' Cfr.            Aristol. ,            VI.       Phys.       texi.      32.         (c.       i.).    Vide             etiam
 
+            mutatio vel                est     a    non-subiecto                         in           subiectum,                       vel        a    subic-      ibid.       lexl.         87.    (c.          10.),      ubi ipse Aristoteles ex sentenlia allala
 
-                    '    Respicitur illud II. Cor. 5, 7: Per fidem enim ambulamus;                                                       — Ante exiret ex codd. L                                              revocavinius nmi , quod                          in    Val.
-            et illud Psalm. 83, 8: Ibunt                             de virtute          in        virtutem.   — Pro per                  desideratur, sed a contextu exigitur.
-            fidem Vat.              cum ed.            1       proficere.                                                                           =    Ex cod. R restituimus                                 m pro ab             ,    quod Val. exhibet.
-                    -     Cfr. Aristot., VIII.                   Phys.    text.     46, seqq.          (c.   6.),      ubi     do-                  ^    Cod.       li    ita est intra                   rem        ,
-                                                                                                                                                                                                                          quod est extra.
-            cetur,        primum motorem esse omnino immobilem nec moveri                                                                           '    Ita      codd.       cum edd.                   1,    2,    3, in       qua lectione omnino sup-
-            per se nec per accidens.                                                                                                      plendum                 est res,         quae scil.                 a loco           ad locum          dimittitur.          Va(.
-                     3    Cod.      T addit aliquod.                                                                                      nec pro cum., quae                            lectio           nobis minus arridel.
-                     '    Et sic Deus esset in nihilo,                             quod absurdum               est      dicere.                     8    Sola Vat. omittit                     mhil esi.
-                                                                                                                                         :                                                                                                                        ,,
+            cto     in        non-subiectum               ,    vel          a       subiecto                        in    subiectum               ;
+                                                                                                                                                       prima       probat, impartibile non posse moveri.
 
+            vocatur generatio, seounda corruptio                                                  ,       lerlia motus. Duas priores                                       8    Vide Aristot.,                     III.     Phys.    text.        18.     seqq.       (c.        3.).
 
+            transmutationis species S.                                  Doclor               hic              comprehendit vocabulo                                        "    Cod.          T improporiiomlis. Mox pro vincit cod. R dicilur
+            nmlatio.            De sententia mox allata                              ,
+                                                                                             quod in molu propric dicto                                            esse,       et   paulo               inferius           pro Sed         quoniam               Vat.        et         alii       codd.
 
-
-              636                                                                                                     SENTENTIARUM LIB. I.
-
-              cxlra         aiit     stat           pro aliquo, aut pro                                niliilo:            si        pro      nec intelljgi,                  Deum separari ab orani loco. Naiii ista
-              nihilo, ergo                  chimaera est pxtra                                   mimdum;                   si        pro      separatio inchidit                            distantiam spatii,                       et       hoc        de ne-
-              aliquo,            ergo               pro      creato ,                  vel       increato: non                       pro      cessitate includit                           locim; et ita implicantur duo op-
-              creato; constat': ergo pro increato: ergo esse exlra                                                                            posita, scilicet                     quod Deus sit in loco, et distet ab
-              mundum est esse in Deo.                                              Sed omnia sunt                          in   Deo           omni           loco.       Si       autem loquamur de separatione per
-              ergo oninia sunt extra munduin.                                                                                                 independenliam;                        sic dicendum, quod Deus et re et condusiu
-
-                      4.         Item, in nullo                         est        Deus,           quod               non       sit    in     intellectu est separatus a loco, quia in se ipso omnino
-
-              ipso: sed              niliil,             quod sit extra mundum, est in Deo:                                                   est   independens a loco, sicut ante prodiictionem loci.
-              ergo Deus non est extra                                         mnndum.                                                         Locus autem econtra non                                       est          separabilis a              Deo nec co.oiiaiiu
-                        Contra:                     1.    Quod          locus possit separari                               a     Deo         re    nec             intellectu,                  sicut      probant             rationes             ad hoc
-Ad opposi- secundum intellectum, videtur, quia possilMle est se-                                                                              inductae.
-              cundum              intellectum,                        locum privari omni                                  locato et                      2.        Simihter,                    cum     quaeritur,                  utruin Deus                 sit     soiouoc
-                                                                                                                                                                                       ,                T           ,                     T
-                                                                                                                                                                                                                                                                       positorum
-              remanere vacuum; sed vacuum                                                        est privatio,                   Deus         extra               omnem iocum; dicendum, quod extra uno nistincuo
-              autem in nullo est, quod non sit in ipso; privatio                                                                              modo dicit situm et positionem; et                                                    sic       est impossi-
-
-              autem non est in Deo: ergo nec Deus in priva-                                                                                   bile\, sicut                    impossibile est,                          si   ante dicat tempus
-              tione     ,        ergo           nec         in        vacuo        ,    et       sic    est          separabilis              quod            sit       ante tempus. Aho                        modo ante et extra di-
-              a loco.                                                                                                                         cunt excessum et superexcellentiain divinae aeterni-
-                        2.       Item, quod Deus separetur a loco secundum                                                                    tatis          et immensitatis respectu                                   temporis et loci ; et sic
-              rem   ,       videtur             ,
-                                                         quia     ,    sicut           se        habet        Dei          aeterni-           concedendum, quod Deus est ante tempus et extra
-              tas   ad onine tempus,                                    ita        immensitas "                      ad omnein                omnem locum. Nec ex lioc sequitur, quod separe-
-              locum          ;    sed           Dei         aeternitas                   fuit      ante              omne tem-                tur a loco, sed quod                                   summa immensilas superexce-
-              pus: ergo Dei inimensitas                                           fuit    exfra         omnem locum.                          dat omnem locum nec ad illum arctatur. Et hoc vult
-              Sed quod                est            extra aliquid                       est     separatum ab eo:                             dicere Gregorius %                                quod Deus est extra omnia, non
-              ergo etc.                                                                                                                       exclusus, quia non distat; et mfra'orania, non                                                                    in-
-
-                        3.       Item,              si    Deus est tantuin                             in     locis creatis,                  clusus, quia non arctatur, quia in se ipso ens" est
-
-              cum illa sint finitae                                   dimensionis, et quod                                commen-             oranino iinmensus,                                 ita   quod extra ipsum                             nihil po-
-
-              snrat se fmito est definibile et fmitum                                                            :    ergo Deus               test esse                 nec cogitari, sive nihil potest cogitari                                                ita
-
-              esset finitus.                                                                                                                  immensum, sicut Deus est in se ipso.
-                        4.       Item       ,        Deus est adeo bonus                                ,    quod               melior               Ex hoc patet sequens, quia quod non est
-                                                                                                                                                             3.
-
-              cogitari            non potest, ergo adeo magnus                                                        et   immen-             extra, non est propter hmitationem suam, sed loci
-              sus, quod maior                               eo cogitari                   non potest; sed                             toto    defectionem.
-              mundo               potest cogitari                           linea        maior,             si       intelligatur                 4. Ad illud quod obiicitur de linea, dicendura
-
-              protendi             extra circumferentiam caeh: ergo si ibi est                                                                quod statim, dum intelhgitur ahquid extra mun-
-              Deus, Deus                    est extra, aut                             non       est   maximum.                               dum, ex hoc datur intelligi, quod Deus sit ibi, sicut
-                        3.       Item , Angelus potest esse extra mundum                                                         ;    sed     si    intelhgatur novus mundus fieri, absque dubio Deus
-
-              non extra Deum: ergo Deus                                                  est      extra          mundum.                      esset in illo.                   Tamen nou sequitur, quod ibi sit, quia
-                                                                                                                                              illud nihil est.
-
-                                                             CONCLUSIO.                                                                                      0.     Similiter,                  si   fiat   Angelus extra                     mundum';
-                                                                                                                                              Deus tunc est extra non secundum motuni suum,
-              Deus secundum distantiam nec re nec                                                                         intellectu          sed Angeli. Sed forte hoc est magis                                                     flctionis           quam Nounndu
-                        separari potest ab omni loco, sed seeundum                                                                            veritatis,                quod Angelus extra universum exeat, si-
-                            independentiam                            et     re        et intellectu                  a    loco est           cut            patebit*.             Attamen              illud   quod    cogilandum              est,
-                        separatus.                                                                                                            divinum esse,                           non potest cogitari habere ter-
-                                                                                                                                                                                       sicut
-                                                                                                                                              minum in                       duratione, sic non potest cogitari nec
-                            Respondeo: Dicendum, quod aliquid separari                                                                        debet habere terminum in existentia et praesentia-
-Disiinctio.   ah    alio est dupliciter:                                     vel       secundum                      distanliam,               litate; et sicut                            non potest cogitari habere intercisio-
-              vel secundum independentiam                                                   ".    Primo modo aliqua                           nem in duratione, sic                                     nec in praesentialitate.                                Hic
-               duo, quae sunt in eodem loco, separantur, cum unum                                                                             intellectus habendus est; caveat tamen, qualiter qnis
-
-conciosioi.   elongatur ab                          alio.    Et hoc modo impossibile est esse,                                                 imaginetur                    et    exprimat per serinonem.
+            sit    prius et posterius,                    cfr.      Aristot.,                    IV. Phys.                   tcxt.         99.    ^c.      II.).   praeter cod.                Y ct ed.                1    Et quoniam.
+                                                                                                                                      ,                                                                                                                                                   ,
+                                                                                                                                                                                                                                                                                          ,,
 
 
 
 
-                            Codd. T V hoc conslai.                                                                                                       '   Vocabulum mundum, quod ex                                       cod.   Y restituinius, deest
-                            Cod.     Y verbo imnwnsitas praeniillit Dei.                                                                      in    ceteris codd.                 nec non in Vat.           ;   in plerisque          codd. deest etiam
-                            Aliqui codd. ut   M VV dependentiam ; vitiose.                                                                     extra;             in his lectionibus                supplendum est etc.
-                            Intelligo:              quod Deus sit extra omneni locum.                                                                    8    Infrii     a.       2.       q.    2. ad ult.  et II. Sent.
-                                                                                                                                                                                                                ,                              d.    2.    p.    II.
+I
+                                                                                                 DIST.         XXXVH. P.             II.   ART.          II.        QUAEST.                                                                                                          6C3
 
-                        '
-                            Libi-.    II.       Moral.       c.       12.    n.    20.                                                         a.   2.       q.    3.   In    his locis          probatur, Angelos non posse in punclo
-                            Sivc existens.                —       Vat. omitlit ens.                Paulo             post pro          sive    indivisibili esse,                 ergo non possunt esse e.\tra locum                                el   pcr con-
-                                                                                                                                               sequens non extra                           mundum.
-
-
-
-
-                                                                                                                                                                                                                                                                           i
-                                                                                                                             :
-
-
-
-
-                                                                              DIST. XXXVIl.                     P.          II.   ART.         II.            QUAEST. 1.
+mpiobaii.r. naturain.                         — Sed quoniani                      difficile videtur intelligere,                            ab olMecto                        ;       et        quia lux simul est                               et     lucet             ,    simul
+                   quod pertranseal medium                                       ,
+                                                                                      quin         sit in          pluribus par-            cum est, generat splendorem, et ita in eodem                                                                                              in-
+                   tibus medii ; et ponere,                                   quod subito moveatur et sit                                   stanti :                simihter                         de        illo   °
+                                                                                                                                                                                                                           hiteUigi                  potest,                  et      sic
+                   in   pluribus partibus medii, est ponere in                                                        illo      motu,       deinceps.                     Unde si simul esset homo                                                     et    generaret.
+                   quod            sit        in    pluribus            locis         simul;             et        hoc     omnino           in       primo   instanti fuisset mundus plenus hominibus.
+                  absurdum est dicere de Angelo,                                                   sicut dicunt Sancti,                     Hoc          modo potest respondere qui nescit melius.
+                   et philosoplii                         et    doctores catholici in                              hoc         coucor-                     2.       Ad illud quod obiicitur de vacuo, quod                                                                                si
+jncinsio   1.     dant         '   :    ideo dicendum est                         ,
+                                                                                       quod Angelus non move-                               esset vacuum, non esset motus; dicendum, quod circa
+                   lur per                   medium motu subito, sed successivo.                                                            hoc multi multa dixerunt, quorum dicta longum esset
+                               Propter quod notandum,                                        quod             in     motu,        qui       dicere.                 Nunc autem, sustinendo Philosophura, dici Expiicaiur
+                                                                                                                                                 ,         .                      ,        .                  Philosophus.
+,n6ae qua-        successivus est successionc                                          perfecta           ,    est       successio          potest             ,    quoQ si esset vacuum non esset motus suc-               ,
 
 
+(iiuotus.         ex quadruplici causa: prima                                               est        medii distantia                      cessivus,                         recte                 intellecto            vacuo,                secundum quod
+                  secunda medii resistentia ,                                              tertia        est        partibilitas            credo Philosophum intelligere, quod                                                                       dicit              simphci-
+                  mobilis , quarta est finitas virtutis, eo quod fmitae                                                                     ter       privationem                               :    si    est " vacuum                ibi       —      ubi intelligi-
+                  virtulis proprie est                 movere in temp;)re, maxime per                                                       mus vacuum                                ,        ibi        inteliigimus nihil esse                       — ergo non
+                  medium                 -.    Concedendum est igitur, quod motus An-                                                       solum deest corporis resistentia, verura etiam nuUa
+ndusio     2.     geli        per            medium non est perfecta                                    successione              suc-       dislantia est ibi ; ubi autem nulla distantia est                                                                                   ,   non
+                  cessivus               ,
+                                              quia deficiL              ibi      resistentia spatii et par-                                 est       prope nec longe; ubi autem                                                           est       motus                localis,
+                  libilitas                  mobilis ; est lamen successivus                                         ratione di-            necessario est approximatio vel                                                            elongatio                 :        ergo         si
+
+Kdasio     -.t.
+                  stantiae spatii, in qiia non potest                                                    esse        simul per              est vacuuin,                              non est motus, non propter defectum
+                  tolam,               et fnilalis virtulis                           moventis, quae non ex-                                resistentiae, sed distantiae.                                                   Sed             quoniam medium
+                  cedit            mediuin                 iinproportionabiliter,                             ideo    nec        facit      coraparatum ad Angelum habet rationem distanliae,
+             motum improportionalem iiiedio omnino.     Et con-                                                      —                      quia vere                         facit             distantiam inter extrema,                                                ideo suf-
+             cedendae sunt rationes probantes, motum illuui per                                                                             ficit        ad successionem qualemcumque propter distan-
+             spatium esse successivum. Tamen prima ratio so-                                                                                tiam; sed ubi est vacuum, non est distantia, et haec
+ 1.   fundn- phistica est; sed ahbi dissolvetur cum agetur de                                      ,                                        praeexigitur necessario ad                                                    motum localera.                                 Partibi-
+                  Iransitione panis in corpus Christi, ubi habet locum                                                                      litas          enim               moljilis et flnitas virtutis non faciunt suc-
+                  suum '.                                                                                                                   cessionem,                         nisi sit                   prras et          posterius                   in               magnitu-
+                              1.       Ad iliud ergo quod                             ol)iicitur,               quod           radius       dine, supra quani est, sive in eo                                                                   quod         acquiritur
+oiuiio op-        non         citius pervenit; dicenduin,                                        quod Augustinus                   lo-      per motum.
+                  quitur               secundum perceptionem sensus *, quia sensus                                                              3. Ad illud quod obiicitur,  quod illud quod
+                  iion percipit,                        radium citius pervenire ad propinquiora                                             movetur successive, partim est in termino a quo,
+                  loca        quam ad reraotiora, non quia secundum rem                                                                     et    partim                  in          termino                  ad quem ; dicendum quod in                            ,
+
+iiandu.n,         non         sit       ibi        vere prius            et      posterius.             Unde         si    dicatur          successivo ubi est plena successio est ponere par-
+                                                                                                                                                                          ,                                                                 ,
 
 
-                                                                                                             SCHOLION.
+                  radins moveri subito, intelligitur subito pro repente,                                                                   tem et partem et quantum ad magnitudinem sub-  ,
 
-            I.    Ex     titulo   huius quaestionis appiirel, duo problemata liic                                                  linitum            ,
-                                                                                                                                                              quia excedit flnitum, nec dependet a                                                  llnito,          nec con-
-    traclari;         sed cuni         liis   aliae quaestiones                 per modum corollario-                              cluditur a                      finito...       Alio        modo potest intolligi, Deum esse extra
-    rum solvuntur. Primii quaestio principalis respicit                                               locos reali-                 mundum ita quod sit dare spatium  ,
-                                                                                                                                                                                                                             extra      munduni                  ,    in quo
 
-    ter existentes, et              utrum ab eis Deus                         sit    separabilis.           Ad lianc               sit   Deus             ;    et sic falsum estj. Si                                aulem        dicalur, extra                     niundum
-    respondetur distinguendo terminum separaii.                                                Per    modum             co-        non esse quidem spatium reale, sed imaginarium, ex mente
-    rollarii      solvitur quaeslio ,               utrum           locus a          Deo        sit       separabilis.             Seraphici                   respondendum esset                              ,    hoc spatium csse actu nihil, et
-    Huc      speetant argg.              I.   2.    ad opposit.               — Secunda quaestio                            in     tantum in potentia locum esse                                           ,        in   quo etiam Deus tantum in po-
-    solut.       ad 2.    i-espicit locos           imaginarios, sive qui exlra                             mundum                 tentia esse intelligatur, « non propter limitalionem suam, sed Ibci
-    esse supponuntur. Respondetur                                  cum distinctione praepositionis                                 defeclionem                      i> .    Hio        modus loquendi de praesentia Dei in spatiis
-    extra. In solutione ad                     4.    3.   duae connexae quaestiones quoad                                          imaginariis approbatur etiani ab Alex. Hal. (S. p. I. q. 9. m. 4.J,
-    mundum      novuni et Angelum creatum extra mundum determi-                                                                    a     Scoto (hic q. unica) et a S.                                          Thoma secundum communiorem
-    Jiantur. Quod autem Angelus revera extra locum in puncto in-                                                                   expositionem                            (cfr.       Golti,      Theolog.                scholastico-dogm.                             tom.     I.
+                  et    repentinum                         dicitur illud               quod            habet         moveri         in     stratam * , et quantum ad magnitudinem motam
+.soiniio.         tempore imperceptibili.                                 — S«l                   aliter           potest       dici,      etqnantum ad dispositionem acqidsitam. Quia na-
+                  quod lux subito inovetur. qnia motus lucis in me-                                                                                    ad situm est motus ad formam quo-
+                                                                                                                                           turalis raotus                                                        ,
 
-    divisibili esse po.ssit, et ita oxtra mundum, S. Doctor non con-                                                               tr.    2:       q.         i.    d. 5.          g    3.).    Quidam tamen Thomistae praecipue ex
-    ccdit.                                                                                                                         Quodl.                M. .5. arguere volunt, Angelicum docere, Deum actii et
-          II.      Responsio ad secundam quaestionem in solut. ad 2. nia-                                                          vere        in             spatiis           imaginariis esse;                        quod nobis videtur impro-
-    gis explanatur a Richardo a Med. (hic a.                                         I.   q.    4.)       his verbis               babile.
-    t Deum esse extra mundum dupliciter potest intelligi: uno                                                                                  III.       Alex. Hal., S. p.                      I.   q.           10.     —
-                                                                                                                                                                                                                         m. .3.        B. .Albert., hie a. 21.
-    modo ita, quod immensiias eius excedit mundum nec depen-                                                                       —      Petr. a Tar., hic q. 3. a. 3.                                              — Richard. Med.,           a                    hic    a.    I.
 
-    det a mundo; et sic verum est, Deum extra mundum esse in-                                                                      q.     4.       — Durand.,                          hic p.    I.   q. 2.          — Dionvs. Oarth                     ,       hic q. ?.
+                  dio non est motus localis tantum, sed est motus                                                                          dam modo; sed in motu Angeli non est successio
+                                                                                                                                     ^
+                  diflusionis, qui est generatio, sicut generatur idoluni                                                                  secundum omnimodam completionem et ideo non                                                           ,
+
+
+
+
+                          '
+                               Godd. A              i    ct iionniilli    olii    verbo rORcordant pracmilluiit                                      '
+                                                                                                                                                           Pro       si        est         codd.           A G S T V aa ff cum
+                                                                                                                                                                                                                 I                                    ed.            1    sed       est
+                  modo.                                                                                                                    cod.       tl       quod siest,                          Vat. si e.sset, cod.               X quia, qui et subinde
+                         '     Prima           et       secunda causa successionis                      in     motu ab Aristot.            omiltit \'erba                     proxima vacuum ibi.
+                  insinuatur IV. Pliys.                        text.   66. seqq.           (c. 8.),     ubi ex defectu huius                         *     Haec et quae sequuntur,                                    clarius dicta sunt in fine                                    solu-
+                  duplicis conditionis ostenditur,                            motum successivum                           in    vacuo      lionis        praecedentis obiectionis.                                   — De motu ad situm                              et de motu
+                  esse impossibilem. Duae;                             alterae        causae       successionis in               argu-     ad formam                          qui         mox commemorantur, cfr. hic dub. 2. Motus
+                                                                                                              — Contextu
+                                                                                                                                                                     ,
+
+
+                  mentis huius quaeslionis breviler lactae sunt.                                                                   re-     ad formam                     in       latiore sensu dicuntur                        illi   ,
+                                                                                                                                                                                                                                            per quos res vel dis-
+                  pugnante, Val.                        et cod. cc hic        addunt Quinta potest esse finitas                            ponitur ad reccptionem vel corruptionem formae substantiahs
+                  et limitatio mobilis.-                                                                                                   \el       ipsam forniam                              substantialem             recipit aut                amittit.             Et        sunt
+                         3     Libr. IV. Sent. d. II. p.                         1.   q.    S.    ad    -i,   ubi fusius de hac            quinquc             :    generatio                       et    corruptio,        augmentatio                     et           diminutio
+                  difticultate agitur.                                                                                                     (quae ambae respiciunt quantitatem)                                                  et     alteratio (quae                         respi-
+                         •     Vat.          cnm non paucis mss. minus bene 'perceptibilHatem                                              cit   qualitatem et in se comprehendit Mfenswwm, remissionem
+                  sensus, et dein quod sensus pro quia sensus. Pro nostra lectione                                                         et    alterationem specialiter dictam). In sensu slrictiore excludun-
+                  militant codd.                    A T V, pro quia sensus etiam cod. X.                                                   tur generatio et eorruptio.                                         Motum ad situm intellige motum
+                         5     Graece eiBmXov (imago, simulacrum, species)                                                significat       localem                 sive        mutationem                      secundum locum. Cfr. Aristot., de
+                  hic in genere                    speciem rem exprimentem.                        — Paulo           ante pro sed          Pracdicnm. c. deMotu,                                          et   V. Phys.     text.          9-17.      (c.    I.          seq.).      —
+                  est   motus codd. A T sed etiam. motus.                                                                                  Mox       posl           quodam modo in cod. Y additur quia completio est
+                         "     Intellige:                splendoro.      —       Pj-o       illo       Val.     cum       nonnullis        formae (completior cst forma), cum perrenit ad suum locum
+                  codd.       et       ed.     I.   alio.                                                                                  naturalem.
+                                                                                                                                  ,                                                                                                                                                               .
+
+
+
+
+(j()4                                                                                                       SENTENTIARUM                            LI13.               1.
+
+
+
+
+secumluni onuies has dillerentias                                                  ,    seil          solum secun-                        quod vermn                                     est    de composito,                                   quod              habet           partes
+duni              prioritatem               et         posterioritateni                               magnitudinis                        actn           :     sed de coniposito, qnod                                                          est         in      successione,
+supra quam                    '.     — Quod ergo                          dicilur, tpiod                               partim             non            csl veruin.                            Sicut cniin dnratio successiva potest
+est in            termino a quo, partim                                   in           [mwm ad qac.m,                                     esse           in Angelo, secundum quod nianet, eo c|uod de
+
+hoc non est secundnm diversitatoni                                                               partiuin                niohi-           illa          nnnqnam est nisi nunc ita rnotus successivus                                   ,
+
+
+lis,    sed est sohim per accessinn                                                    ct    leccssum.                                    potest esse in                                   eo,               secundum                           qnod             fertur; et hoc
+             4.    Ad         illnd       quod               obiiciiiir.                    (|iioil          simul              se        quidein secum nullnm hahel inconveniens. Ilis visis,
+Iransfert tolnm                     :   dicendnni.                  (|iioil             qnainvis ex parte                                 patent ohiecta.
+sua se totuin                      siiinil       Iransrcrat,               non tamen transferl                                                Est enim praedictorum summa, quod Angelns epMo;
+
+se simul supcr loiiiin, piopler distantian) medii, in                                                                                     movetnr sine corpore assninto, et quod movetur in
+qua tota non pnlcsl cssc simul.                                                                                                           medio sive per mediuin, et quod movetur motu
+             0.    Ad     illud         quod           ohiicitur,                      quod                conipositnm                    suecessivo, licet non                                                   omnimoda successione compo-
+accidens non potest esse                                     in     re simplici                        ;    dicendum              ,       sito ',              ut praedictnm                                       est.
+
+
+
+
+                                                                                                                       SGHOLION.
+
+        I.    Omiiis matiis             coiiUnam esl eliam successwus                                          ,       secl   iion        quem ipse .\ngelis viiKlicat, aliis ralionibus utitur. Scotus iuxta
+e coiiverso. Motus suoWSjefM eniiii opponituv instantaneo ; coii-                                                                         distinclionom  in Scholio    praeced. commemoralam,
+                                                                                                                                                                               ,                       puUit
+timiius       autem non continuo sive                              disereto.            — Prima opinio,                         in        solam simplicem imitationcm                                                        loci intra             sphaeram              loci       Angclo
+textu        memorata          ,    recle        reprobatur,              quia              cx        ipsa sequeretur,                    adacqiiali in inslanti                                        fieri     poss<'.            —     In   solut.      ad      I.   observatione
+quod Angelus posset simul                                   esse deflnitive                      in        pluribus           locis       dignum videtur,                                 S.            Uoctorem iam                         coniectasse,                motum                lucis
+
+sibi adaequatis.              Docet igitur Seraphicus                          ,       Angelum moveri non                                 non       ficri            in       instanti.                 Altcram                  eiusdem            obiectionis            solutioneni
+in instanti, sed niotu successivo,                                       qui tamen           dilTert a motu                               approb:i( S. Thoni., S.                                            I.    q.    33. a. 3. ad 2.
+successivo corporum, sicul explicatur                                      iii         corp. et ad 3.                     Etiam                     II.        Scol.,              II.    Senl.              d.     2.       q.        M.       —    S.     Thom.,             hic.       q.     i.
+
+S.   Thomas (hic q. 4. a. 3                        ;   S.     I.   q. 53. a. 3.)                 negat, motum                   lo-       a.    3   ;        S.    I.        q.    .53.    a.           3.        —     B.           Alberl.,       Iiic    a.     2i.    —      Pelr.           a
+
+calem Angelorum, sive sit continuus sive non contimms, (ieri                                                                                                 hic              S.     a.    3.                     Hichard.                                                3.    q.        3.
+
+posse        in    eodem instanti            ;   sed quoad               motum non continuwm                                              .Egid.              li.,      hic 2. princ.
 
 ## English
 

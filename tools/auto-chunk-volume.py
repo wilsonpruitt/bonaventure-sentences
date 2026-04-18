@@ -28,33 +28,43 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 
-# Broad OCR-tolerant patterns
+# Broad OCR-tolerant patterns. pdftotext output contains common substitutions:
+#   O→0, S→8, R→E (or AEI→EIU), I↔1, UNICUS→UiNICUS / UNIGUS, TEXTUS→TE.XTUS, etc.
+# Tested against pt1 and pt2 raw; see tools/raw-ocr-notes for variants observed.
 RE_DISTINCTIO = re.compile(
-    r"^\s*DISTINCTIO\S*\s+([IVXLCivxlc]+(?:\s*[IVXLCivxlc])*)\b",
+    r"^[ \t]*DISTINCTIO\S*\s+([IVXLCivxlc]+(?:\s*[IVXLCivxlc])*)\b",
     re.MULTILINE,
 )
 RE_COMMENTARIUS = re.compile(
-    r"^\s*COMMENTARIUS\s+IN\s+D",
-    re.MULTILINE | re.IGNORECASE,
+    # C[O0]MMENT[AE][RE]?(IU|III)[S8] — covers COMMENTARIUS, C0MMENTARIU8, C0MMENTAEIU8,
+    # COMMENTAEIUS, C0MMENTARIII8. Requires "IN D" suffix (the distinction ref).
+    r"^[ \t]*C[O0]MMENT[AE][REI]{1,3}[US8]{1,2}\s+IN\s+D",
+    re.MULTILINE,
 )
 RE_DIVISIO = re.compile(
-    r"DIVISIO\s+TEXTUS",
-    re.MULTILINE | re.IGNORECASE,
+    # DIV[IT]SIO TE[.]?XTUS — covers DIVISIO, DIVTSIO; TEXTUS or TE.XTUS.
+    r"DIV[IT]SIO\s+TE\.?XTUS",
+    re.MULTILINE,
 )
 RE_QUAESTIO = re.compile(
-    r"^\s*Q[UIJij1][A^.flEIJij]{0,6}STIO\s+([IVXLCivxlc]+)\b",
+    r"^[ \t]*Q[UIJij1][A^.flEIJij]{0,6}STIO\s+([IVXLC1ivxlc]+)\b",
     re.MULTILINE,
 )
 RE_ARTICULUS = re.compile(
-    r"^\s*ARTI[CG]ULUS\s+([IVXLC]+|UNICUS)\b",
+    # ARTI[CG]ULUS + roman / digit-garbled roman / UNICUS variants (UiNICUS, UNIGUS, UiNIGUS)
+    r"^[ \t]*ARTI[CGI]U[L1I]U[S8]\s+([IVXLC1]+|U[Ii]?N[IL]?[CG]U[S8])\b",
     re.MULTILINE,
 )
 RE_DUBIA = re.compile(
-    r"^\s*DUB(?:IA)?\s",
+    # Section-start matcher. Catches:
+    #   "DUBIA CIRCA LITTERAM MAGISTRI" / "DIST. <N>. DUBIA." headers (OCR-tolerant: any line with word DUBIA)
+    #   "DUB. I." / "DUB. 1." — the first dubium (when no explicit header exists)
+    # NOT: "DUB. II." / "DUB. III." — those are internal sub-dubia within a dubia chunk.
+    r"^[ \t]*(?:.*\bDUBIA\b|DUB[.\s]+[I1]\b[^IVX])",
     re.MULTILINE,
 )
 RE_PARS = re.compile(
-    r"^\s*PARS\s+(I{1,3}|PRIMA|SECUNDA)\b",
+    r"^[ \t]*PARS\s+(I{1,3}|PRIMA|SECUNDA)\b",
     re.MULTILINE | re.IGNORECASE,
 )
 
@@ -75,9 +85,18 @@ ROMAN = {
 
 def parse_roman(s: str) -> int | None:
     s = s.strip().replace(" ", "").upper()
+    # Digit-OCR: "1", "11", "111" → I, II, III (pdftotext often renders I/II/III as digits)
+    if s in ("1", "11", "111"):
+        return len(s)
+    # UNICUS OCR variants: UiNICUS, UNIGUS, UiNIGUS, UINICUS etc. all mean UNICUS (=1).
+    if re.fullmatch(r"U[I]?N[IL]?[CG]U[S8]", s):
+        return 1
     if s in ROMAN:
+        # Single "L" alone is almost always OCR-misread "I"; quaestio numbers never go that high.
+        if s == "L":
+            return 1
         return ROMAN[s]
-    # OCR fallback: lowercase-L was misread as I, then .upper() turned it into L.
+    # OCR fallback: lowercase-l was misread as I, then .upper() turned it into L.
     # Try replacing 1..N trailing Ls with Is — least aggressive first.
     trailing = len(s) - len(s.rstrip("L"))
     for n in range(1, trailing + 1):
@@ -263,9 +282,9 @@ def chunk_distinction(
                 articulus=cur_art, quaestio=num,
             ))
         elif kind == "dubia":
-            chunks.append(Chunk(f"{prefix}-dubia", line, end, "dubia", dist_num))
-            i += 1
-            continue
+            # End at the next section boundary (not end-of-distinction) so multi-pars
+            # distinctions don't have the dubia swallow the next pars.
+            chunks.append(Chunk(f"{prefix}-dubia", line, next_line - 1, "dubia", dist_num))
         i += 1
 
     return chunks

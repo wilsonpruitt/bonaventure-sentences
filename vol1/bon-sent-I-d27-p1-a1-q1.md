@@ -7,10 +7,10 @@ pars: 1
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 4900
-line_end: 5031
+line_start: 4902
+line_end: 5035
 word_count_latin: 945
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,10 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-                                                                                                          QUAESTIO I.
+QUAESTIO I.
 
 
                                                               Utrum esse Patrem et generare sil una et eadem notio.

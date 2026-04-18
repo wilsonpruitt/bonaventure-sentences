@@ -8,7 +8,7 @@ type: divisio
 line_start: 13820
 line_end: 13870
 word_count_latin: 399
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -16,8 +16,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                          DIST. XXXIl. DIVISIO TEXTUS.                                                                                                     535
+DIST. XXXIl. DIVISIO TEXTUS.                                                                                                     535
 
               Spiritiis      sanclusest; quia                      si   ea diligit Pater vel Filius,                                               retukrit magis, quam altulerit^ neque co-
               iioii   Spiritus sanctus videtur esse a Patre et Filio, sed                                                   gat     id    videri       dictis        contineri,                  quod ante lectionem

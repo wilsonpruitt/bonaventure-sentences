@@ -6,10 +6,10 @@ distinctio: 25
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 1831
-line_end: 2174
+line_start: 1833
+line_end: 2178
 word_count_latin: 3493
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,10 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-                                                                                                QUAESTIO I.
+QUAESTIO I.
 
 
                    Utruni            nomen persona in divinis dicatur secundum suhstantiam, an secundum relationem.

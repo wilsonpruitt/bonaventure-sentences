@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 40
 type: littera
-line_start: 27967
-line_end: 28208
-word_count_latin: 1996
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 28024
+line_end: 28212
+word_count_latin: 1634
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,65 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                                                       DISTINCTIO XL.
-
-                                                                     DuB. V.                                                             illam.        Quando ergo dicitur, quod Deus potest velle
-                                                                                                                                         ahquid, idem est dicere, quod                                          aliquid potuit esse
-
-                            Item quaeritur de hoc quod                                             dicit: Nec potest                     futurura sive habere                            ordinera ad                 divinara volunta-
-
-               noviter vel ex tempore velle aliquid, et                                                   tamen po-                      tem     ,
-                                                                                                                                                      quod tamen non babet ordinem '                                           ;   sed       si    ha-
-
-               lest vellequod nunquam voluit.                                                      Videtur enim hic                      beret, ab aeterno habuisset. et ideo non incipit ex
-           .
-
-
-
-
-               dicere duo contradictorie opposita, quoniara iUud                                                                         tempore. Et ideo exempiura Magistri bonuui                                                          est, si
-
-               est novum    quod prius non fuit et modo est ergo
-                                           ,
-                                                                                                                           :
-                                                                                                                                         velle Dei           iraportat                 ordinem ad volitum                          in ratione
-
-               si posset velle quod prius non voluit, videtur quod
-                                                                                                                                         futuri; sed                  secundura              quod importat concomitan-
-               incipiat velle.                                                                                                           tiam in ratione praesentis, potest Deus ex tempore
-
-                            Respondeo               :       Dicendum quod cum dico Deum                                ,
-                                                                                                                                         velle        hoc esse , sive hoc approbare hodie, non quia *
-                                                                               ,
-
-
-               velle            hoc \ duo dico                   et actum divinae voluntatis,
-                                                                 :
-                                                                                                                                         incipiat actus, sed quia incipiat                                      connotatum.
-               et ulterius                     ordinationem               ipsius                  effectus        ad           illum
-               actum. Et                   primum quidem est necessarium et sem-                                                                                                        DuB. VI.
-               per      ,        uec           potest        incipere              nec        desinere.              Voluntas
-               enim divina est seraper                                 in           actu suo, ita                 quod nec                           Item quaeritur de hoc quod                                      dicit,        quod            spe-
-
-               potest            illo      carere nec                 alium hahere; sed                              ordinatio           cialem           curam habet de rationalibus ; quia videtur
-               alicuius                effectus             ad illum actum                         est     ordinatio rei                 esse        contra illud                    quod         dicitur           Sapientiae sexto":
-               fulurae, quae nondura est, et ideo potest esse et non                                                                     Aequalis            est illi            cura de omnibus.
-               esse, et ordinari et non ordinari.                                                   Quando ergo di-                                  Respondeo:                  Dicendum, quod aequaliter                                         non
-               citur   Deus potest velle quod nunquam voluit, et
-                            :                                                                                                            privat ibi ordinera divinae distributionis, sed privat
-               tamen nou ex tempore; intellectus est, quod effectus                                                                      acceptionem personae.                              Et      omnibus                distribuit          ^    ibi
-
-               ille potuit ordinari ad divinum velle; et quoniam                                                                         tantura pro horainibus, tamen pro raagnis et parvis,
-               ordinatio effectus est ordinalio rei futurae                                                      ,    et       quod      pauperibus               et divltibus;                   et sic est ei aequaliter cura
-
-               semel est futurum                                 semper                fuit       futurura, et                 quod      de omnibus, quia                             ita   vult salutem pauperura, ut
-               serael             est '         ordinatum              seraper                fuit       ordinatum ad                    divitura.
-
-
-
-
-                                                                                                             DISTINCTIO XL.
+DISTINCTIO XL.
 
 
 

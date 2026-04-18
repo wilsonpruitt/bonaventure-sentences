@@ -5,10 +5,10 @@ book: 1
 distinctio: 32
 pars: 1
 type: dubia
-line_start: 14822
-line_end: 15013
-word_count_latin: 1599
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 14830
+line_end: 14949
+word_count_latin: 1595
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,15 +17,7 @@ format_version: 1
 ## Latin
 
 
-
-
-
-
-                                                                             DUBIA CIRCA LrrTER.\M iMAGISTRI.
-
-
-
-                                               DUB.           I.                                          liifferunt tamen                  quantum ad modum se habendi, qui
+DUB.           I.                                          liifferunt tamen                  quantum ad modum se habendi, qui
                                                                                                           vere est in divinis, scilicef absolutum                  et compa-
 
             In parte ista sunt dubitationes circa litteram et                                             ratum; et ideo non transit paternitas in substantiam,
@@ -145,70 +137,6 @@ Kivn^fiio- tentia?dicendum, quod non ita proprie dicitur                        
          non        sic       dicilur polenlia de potentia,                                  vel    potentia         et ideo        bene respoiidet.
          genita.
                                                                                                                                                                             DuB. V.
-                                                            DUB.       III.
-
-                                                                                                                                 Item quaeritur de hoc quod dicit, quod                                               uter-
-
-                        Item quaeritur de hoc quod dicit Augustinus in                                               que est una sapientia,                                     et       lanien solus Pater              est
-
-         Ubro Retractationum et ponitur in littera: Melius                                                           sapientia ingenita. Videtur enim dicere duo                                                      oppo-
-         istam quaestionem in libro de Trinitate tractavi.                                                           sita, quia istae duae proprietates " sapientiam con-
-
-         Videtur enim non recte loqui, quia, cum compara-                                                            trahunt, et              cum sint proprietates distinctae, distin-
-         tivum               in     utroque extremorum                              praesupponat           rem       guunt        —      et   hocpatet, quia solus Pater est sapientia
-         sui positivi*,                    si        ibi    melius, ergo utrobique hene:                             ingenita           — quodsi                       sapientia          distinguitur, ergo est
-
-         ergo           si    ibi dicit,             quod Pater               est       sapiens sapientia,           aha et alia sapientia, ergo non una. Item, videtur
-         quam genuit, videtur quod dicat verum.                                                                      falsum dicere,                         cum dicit, quod                    solus Pater est sa-
-
-                        Respondeo: Dicendum, quod abusiva                                           est    com-      pientia ingenita..                      Aut enim dicitur sapientia essentia- impUcamr
-                                                                                                                                                                                                                                ''"""' '"'
-         paratio "            ,    quoniam                 in iibro       de Trinitate             dicit con-        liler ,      aut personaliter :                            si    personaliter ; ergo non
-         trarium huius,                          et        ideo   si    ibi        bene,     constat       quod      una sapientia est genila et ingenita, cum Pater et
-         hic male. Quantum ad hoc tamen                                             ,
-                                                                                         quod aliqua vera            Filius non sint una persona; si vero essentialiter
-
-         dixit in libro Octoginta                                 trium Quaestionum de hac                           non ergo solus Pater est sapientia ingenita.
-         quaestione,                     ideo non                omnino male,                sed     quodam              Respondeo: Dicendum, quod in hoc nomine
-         modo bene, quodam modo male: et ideo dicit, quod                                                            sapientia duo est considerare. scihcet significatum nhimam.
-         ibi melius,                     innuens quod aliquid sit ibi male dictum.                                   et     suppositum.                      Et       quantum ad significatum                           dicit
-
-          Qui enim unum oppositorum astruit, per consequens                                                          essentiam;               sed" suppositum est persona.                                       Et     illae
-
-          destruit alterum.                                                                                          determinationes genita et                                       ingenita         non respiciunt
-                                                                                                                     significatum,                       sed suppositum,                        et ita    distinguunt
-                                                            DuB.       IV.                                           suppositum,                    manente                   unitate          in   significato         sive
-                                                                                                                     forma;         et sapientia                        genita et          ingenita       est     alia    et
-
-                        Item        quaeritur               de     hac        responsione Magistri,                  alia, scilicet                persona, sed non est alia et alia sapien-
-          quod sapientia genita est sapiens de sapientia in-                                                         tia, sicut           non est alia essentia. Et ideo Magister bo-
-
-
-
-
-                '       Vat., post appropriabilis iiisei-to                        commate, pro Spiritid                     "   Ex codfl. FK L                       revocavimus sapiens, quod Val. omittit.
-          sancto ponit Spiritus sanclus , haec verba conneclcns cum se-                                              Paulo                       cod. S quare, cod. Y an, nonnulli
-                                                                                                                                  superius pro quod
-          quentibus.                                                                                                 alii   codd.cum Vat. de, quae etiam subinde post sive subiicit
-                2       Fn codd. Iv P           Q W Y liic additur quod qmeritur, in cod. T                          an, et mox post Magisler cum cod. cc omittit bene.
-          quod obiicitur.                                                                                                 ' .\liqui codd. ut B  M cum ed. 1 caute est locutus et
-                                                                                                                                                                        1
-
-
-
-                '       Pro       illo   habet Vat. ciim cod. cc alio.                                               (ed. I cum) dixit.                      —
-                                                                                                                                             In eodem sensu solvunl hoc dubium
-                *       Id est, adiectivum in comparativo praesupponit, quod in                                      Alex. Hal., S. p.             I.       q.    67.       m. 3. a. 2. § 4; B.        Albert., hic a. 4;
-          positivo de utroque extremo dici potest, sive ut ait Aristot.,                                       II.   S.     Thom.,       hic q. 2.               a.   2; Petr. a Tar., hic q. 2.         a. 3;   Richard.,
-          Topic.         c.   4. (c.       M.):       Si    quid magis et minus dicitur, et simpli-                  hic a. 2. q. 2.
-                     — Immediate post pro
-          citer inest.                                                    si non        pauci codd. male sed.                ^   Scilicet sapientia genita et ingenita.                             — Mox pro         distin-
-                Comparativum enim melius
-                    5                                                     in dicto Augustini improprie               ctae ed.       1    dislinctivae et infra                    bene quodsi pro quia si, quod
-          accipiendum    — De       est.                   retractatione .\ugiistini vide supia a. 2.                habent codd.             et edd.
-
-          q.   I.       in corp.                                                                                             9    Cod.    M hic repetit quanium ad.
-                                                                                             ,
 
 ## English
 

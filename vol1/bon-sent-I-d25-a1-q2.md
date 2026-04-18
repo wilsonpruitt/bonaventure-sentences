@@ -6,10 +6,10 @@ distinctio: 25
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 2175
-line_end: 2408
+line_start: 2179
+line_end: 2412
 word_count_latin: 2260
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,12 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                               QUAESTIO II.
+QUAESTIO II.
 
 
                      Utrum recte a Boethio definita sit persona, quod sii rationalis naturae individua substantia,

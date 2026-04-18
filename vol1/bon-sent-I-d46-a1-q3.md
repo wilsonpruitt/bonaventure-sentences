@@ -6,10 +6,10 @@ distinctio: 46
 articulus: 1
 quaestio: 3
 type: quaestio
-line_start: 40234
-line_end: 40525
+line_start: 40238
+line_end: 40529
 word_count_latin: 2411
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,13 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-
-                                                                                                                        QUAESTIO III.
+QUAESTIO III.
 
 
                                                                                                             Utrum mala fieri sit bonum.

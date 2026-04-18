@@ -7,10 +7,10 @@ pars: 1
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 20411
-line_end: 20541
-word_count_latin: 897
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 20415
+line_end: 20506
+word_count_latin: 626
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,12 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                           QUAESTIO II.
+QUAESTIO II.
 
                                                                               Utrum res sint in Deo ratione essentiae                                                        ,        vel personae.
 
@@ -111,45 +106,6 @@ Aigg. pro 3. res    sunt in Deo                          ,    in quantum possunt
             res esse in             Deo atlribuendum sit ipsi ratione essentiae, aii per-                                                   in     Deo lU causa,            et   quod appropriata          significent     Deum            ut
            sonae, an ufriu^ue, id est ratione approprialorum. Ilanc i|uae-                                                                  oausani.
            stionem,           sic     posilam,                     non invenimus discussam,                    nisi       11   p.-m-
-
-
-
-
-                                                                                                                    ARTICULUS 11.
-
-                                                                                                    De modo , quo res existunt in Deo.
-
-
-
-                        Consequenter quantum ad secundum articulum                                                                          Deo,      sint in ipso vita.
-
-            quaeritur de modo existentiae rerum in Deo, et circa                                                                                     Secundo quaeritur, utrum res verius sirit in Deo
-            hoc quaeruntur duo.                                                                                                             quam in universo sive in proprio genere.
-                        Primo quaeritur, utrum omnia qnae                                                           sunl            in
-
-
-
-
-                    1   Vide supra                d. 22.            dub. 2, ubi inter quinque regulas, ex                                   nitas in suis operibus intimatur.               —    In cod. F (et T in         margine)
-            verbis .\ugustini derivatas                                 ,   haec quartum tenet locum.                     —     .Mox        textus sic incipit: Dixit,             vidit,   fiat;   per    fiat     intetligitiir         etc.
-
-            pro    taliter cod.                 T essentialiter.                                                                            i^Iox   verbo      producere         codd. P Q V praefigunt             res. Deiii        post
-                    2   luxta illud axioma: actiones sunt suppositorum.                                                                     quod sunt cod.     non incongrue addit in Deo.
-                    3    Quaest. 63. Integrum textum habes                                           supra    d.    27.        p.    11.         5 Pro quod multi codd. minus recte utnm, et in line re-
-
-            q. 2.       fundam.            2.                                                                                               sponsionis pro consideratur perperam consideraniur.
-                    *    Verba Auguslini                            haec         sunt:    Pater      quippe         intelligilur                 8 In cod. V (W in margine) additur: Quod dioit,       quod
-            Verbi, qui dixit: Fiat.                   Quod autem illo dicente factmn est                                                    producere est actus personae, verum est, secundum quod est
-            procul dubio per                      Verbum factum est. In eo vero quod dici-                                                  proprium, scilicet respectu personae; sed secundum quod est
-            tur:    Vidit Deus, quia bonmn esl, satis significatur,             Deum nulla                                                  communis, scilicet respectu creaturae, est essentiae, quia idem
-            necessitate...            sed sola bonitate fecisse quod                                  factum       est...      Quae         esi essentia et         habem essentiam.
-            bonitas          si    Spirilus sanclus recte intelligilur, universa nubis Tri-
-                           .                                                                             .                        ,                                                                                                            ,,      ;
-
-
-
-
-                                                                                                    DIST. XXXVI. ART.                      11.        QUAEST.              I.
 
 ## English
 

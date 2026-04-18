@@ -7,10 +7,10 @@ pars: 2
 articulus: 1
 quaestio: 4
 type: quaestio
-line_start: 7138
-line_end: 7369
-word_count_latin: 2014
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 7142
+line_end: 7391
+word_count_latin: 2160
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,13 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-
-                                                                                                            QUAESTIO IV.
+QUAESTIO IV.
 
 
                                                                      Utruni nomen verbi recte sit translatum ad divina.
@@ -252,6 +246,26 @@ simiiiiudos. sicut            verbum mentis unitur voci, ut innotescat, et      
                          <    Loc.   cit.   c.   14.        n.    23,           ct c.        IS.   n.   24.                           post Val. cum cod. cc non insunt pro non snnt in, et in fine
                          5    Cap.    10.   n.    15.                                                                                 similis pro simile.
                                                                                                                                                                                                                                                                              ,
+
+
+
+
+                                                                                                      DIST. XXVII.               P.    n.       DUBIA.                                                                                                           491
+
+    auctoris praedara est, praosertim                         quod de                      similitudine et dis-                   quaestionem tangit hic                              q.    2.       a.    I    ;    S.       1.   q.   34.    a.    \   ;   de Veri-
+    similitudine inter verbum Dei et noslrum dicit                                           ;    nonnulla magis                  tate q.        4.    a.           I.   —      B. Alberl. , hic                    a.    3. 4.         7.   —      Petr. a Tar.,
+
+    explicantur per ea quae de differentia inter vestigium et ima{)i-                                                             hic q. 2. a.                  I.       quaestiunc.            I.    2.       — Richard.                    a Med., hic a.            I.
+
+    nem etc. dicta sunt supra d. 3. p. I. q. 2, et p.                                             II.   a. 1. q.       I.   2.    q.   I.       —     .Egid. R., hic. 2. princ. q.                                  —    I.             Ilenr. Gand., a. .59.
+
+              Alex. Hal. ,       S. p.   I.   q.   62!    m.           I.   a.        I.    3.        —    S.    Thom.            q. 2.         passim          ,
+                                                                                                                                                                     praesertim            n.        41.
+
+
+
+
+                                                                                      DUB1.1l C1RC.\                        litteram magistri.
 
 ## English
 

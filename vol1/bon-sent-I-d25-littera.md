@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 25
 type: littera
-line_start: 1380
-line_end: 1718
-word_count_latin: 2998
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 1430
+line_end: 1722
+word_count_latin: 2605
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,58 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                                  DISTINCTIO XXV.                                                                                                  431
-
-          ut hoc  nomen Deus , quod quidem supponit perso-                                                      deitas           non supponit personam;                                     similiter       nec    hoc
-          nas. Et quia tale  est hoc nomen Deus, ideo conce-
-                                                 '                                                                               trinitas; et sic patent omnia.
-          ditur: Deus est trinus , non: deitas est trina: quia
-
-
-
-                                                                                                  SCHOLIOK
-                 In      solut.      ad     3.       S.    Doctor   feiicit       loculionem    deitas    est   §.   Tliomas       legitur: « Te trina
-                                                                                                                                       ,                                    tas           unaque poscimus ».        Dici
-          trina.       Tamen in liymno:                    i Sacris solemniis       iuncta sint gaudia »        potest ,       quod tiic abstracti                                        pro   concreto.    Auctores
-          (Ofiicium           in    festo    Corp.          Christi) ,    cuius      auctor    fertur    esse   vide in quaest. praeced.
-
-
-
-                                                                                  NOTANDA CIRCA LITTERAM MAGISTRI.
-
-                   In parte ista circa litteram est notandum                                           super    altenditur quantum ad formam sed etiam quantum                        ,
-
-
-
-          hoc quod                 dicit:        Cum dicimus, plures                       esse perso-          ad suppositum '; et quia sunt plures hypostases, ideo
-          nas, singularitatem atque solitudinem excludimus;                                                     praedicta quatuor in divinis recipiuntur.
-     [."ni-quia''        in divinis recipimus                       unitatem, non singula-                                 Distinclio               autem nominum praedictorum haec                                        Diiierentia
-
-     s"   ritatem nec solitudinem; quia singularitas exclu-                                                     est.   Nam                 de primis quatuor                     alietas          et   pluralitas minorum.
-          dit    communicabihtatem, solitudo excludit pluralita-                                                important distinctionem a parte rei;                                             sed    distinctio
-          tem;         et     nos ponimus                   unam essentiam in                  pluribus:        et discrelio                 per comparationem                             ad nostram cogni-
-          ideo haec^        non recipimus.                                                                      tionem, sed alietas per                                 modum substantiae, plu-
-                     Similiter notandum ex parte pluralitatis quod                                 ,
-                                                                                                                ralitas per                  modum quantitatis, quamvis non sit ibi
-     ipta-recipimus ista quatuor, scilicet* alietatem, plurali-                                                 vere quantitas. Distinctio autem et discretio                                                     diffe-
-
-          tatem, discretionem alque distinctionem ; sed haec                                                    runt, quia discretio dicitur in comparatione ad vi-
-          quatuor e contrario non recipimus, scilicet diversita-                                                sum, sed distinctio in comparatione ad tactum.
-          tem, multiplicitatem , divisionem et separationem.                                                         Alia autem quatuor differunt sic: nam ' diversi-
-                   Ratio autem huius                            est,     quia separatio suppo-                  tas attenditur secundum substantiam; midtiplicitas
-
-Ratioprae-nit    divisionem, divisio mMZZzpfertatemj multiplicitas                                              quantum ad veram quantitatem; divisio quantum ad
-          diversitatem , diversitas autem ponit formae vel na-                                                  positionem sive ad discontinuationem ; sed separatio -Miiei.
-          turae distinctionem. Et quia in divinis est naturae                                                   quantum ad ubi.                          — Vel         aliter : diversitas              quantum
-          omuimoda unitas, ideo, cum non recipiatur diver-                                                      ad principium intrinsecum; multiplicitas quantum
-          sitas, nec aliquod istorum quatuor. E contra discre-                                                  ad  numerum; divisio quantum ° ad terminum; se-
-          tio   praesupponit ^ distinctionem, distinctio plurali-                                               paratio vero attenditur quantum ad medium inter-
-          tatem , pluralitas alietatem. Alietas autem non tantum                                                iectum.
-
-
-
-                                                                                           DISTINCTIO XXV.
+DISTINCTIO XXV.
 
                                                              Cap.   I.                                          sona Spiritus sancti. Si enira in his locutionibiis perso-
                                                                                                                 nae vocabulum essentiae intelligentiam facit, plures

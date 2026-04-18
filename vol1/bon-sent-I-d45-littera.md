@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 45
 type: littera
-line_start: 37118
-line_end: 37375
+line_start: 37122
+line_end: 37379
 word_count_latin: 2264
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                        DISTINCTIO XLV.
+DISTINCTIO XLV.
 
 
 

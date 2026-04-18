@@ -6,9 +6,9 @@ distinctio: 31
 pars: 1
 type: divisio
 line_start: 11554
-line_end: 11597
-word_count_latin: 241
-transcription_status: "auto-chunked 2026-04-17"
+line_end: 11594
+word_count_latin: 234
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -16,8 +16,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                DIVISIO TEXTUS.
+DIVISIO TEXTUS.
 
 
            In praecedeDli                proxima particula             egit Magister                     secunda eorum appropriationem , ibi: Non estprae-
@@ -55,12 +54,6 @@ Ililari!   unici ac singularu.                                                  
               Primo quaeritur, utrum haec nomina dicantur                                                               lionem in Patre                  et Filio.
 
           secundum positionem, an secundum privationem.
-
-
-
-                                                                                        ARTICULUS UNIGUS.
-
-                                                                                    De nominibus similis et aequalis.
 
 ## English
 

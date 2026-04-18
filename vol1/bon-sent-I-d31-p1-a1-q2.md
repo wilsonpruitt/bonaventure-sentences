@@ -7,10 +7,10 @@ pars: 1
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 11715
-line_end: 11959
+line_start: 11719
+line_end: 11962
 word_count_latin: 1897
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,12 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                        QUAESTIO II.
+QUAESTIO II.
 
 
                                              Utrum aequalitas et similitudo in divinis dicantur secundum substantiam

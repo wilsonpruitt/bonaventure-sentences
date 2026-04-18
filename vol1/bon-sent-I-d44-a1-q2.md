@@ -6,10 +6,10 @@ distinctio: 44
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 36123
-line_end: 36295
+line_start: 36126
+line_end: 36299
 word_count_latin: 1462
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,11 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-                                                                                                                                 QUAESTIO II.
+QUAESTIO II.
 
 
                                 Utrum mundus potuerit fieri melior quantum ad proprielates partium integrantium.

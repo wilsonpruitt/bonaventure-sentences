@@ -6,9 +6,9 @@ distinctio: 37
 pars: 2
 type: divisio
 line_start: 23309
-line_end: 23365
-word_count_latin: 429
-transcription_status: "auto-chunked 2026-04-17"
+line_end: 23362
+word_count_latin: 424
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -16,8 +16,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                                      DIVISIO TEXTUS.
+DIVISIO TEXTUS.
 
 
 
@@ -68,12 +67,6 @@ format_version: 1
 
           locum; haec enim duo prosequitur                                                             '
                                                                                                            in littera.                      extra        omnem locum.
-
-
-
-                                                                                                                          ARTICULUS 1.
-
-                                                                                                           De       incirciimscriptibUitate Dei.
 
 ## English
 

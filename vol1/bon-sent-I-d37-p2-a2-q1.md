@@ -7,10 +7,10 @@ pars: 2
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 22748
-line_end: 22913
-word_count_latin: 1389
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 23945
+line_end: 24151
+word_count_latin: 1733
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,173 +18,209 @@ format_version: 1
 
 ## Latin
 
+QUAESTIO I.
+
+
+                                                                   Utrim Angelus possit moveri localiter sine                                                                            carpori
+
+
+                 Quantum ad primum                             ,
+                                                                    quod Angelus non                           possit              alio         moto, ut nauta mota navi: ergo videtur, quod
+    moveri sine corpore, ostenditur                                             sic.                                               Angelus non possit moveri, nisi moto corpore                                                                                      ,     et ita
+                 1.    Bernardus super Cantica':                                          « Discurrere                      et     corpore assumto.
+•
+    de loco ad locum transire non                                            est nisi           corporum »                    :                    3.          Item, omne quod movetur, raovetur propter
+    ergo         si    hoc convenit Angelo, non convenit                                                    nisi       per         indigentiani''; sed in Angehs beatis nulla est indigen-
+    corpus assumtum.                                                                                                               tia:            ergo                  etc.      Si tu dicas,                            quod propter indigen-
+                 2.    Itera,      ratione videtur, quia quod movetur.                                                             tiam nostram; ergo, circumscripta indigentia nostra,
+    aut movelur per se, aut per accidens"; sed Ange-                                                                               non videtur                              ,
+                                                                                                                                                                                   quod Angelus possit moveri                                                :       si    ergo
+    lus non movetur per se localiter, quoniam hoc est                                                                              indigentia                              nostra         nuUam                     dat virtutem                      Angelo ,                  p;i-
+
+    proprium corporum, et illi soU inest res per se,                                                                               tet elc.
+
+    cui inest proprie : ergo                              si       movetur           ,    hoc est per ac-                                          4.          Item,               n   omne quod movetur                                    ,       differt              a mo-
+    cidens.            Sed quod per accidens movetur                                                  ,    movetur                  tore » ,                       sicut proponit                          Philosophus = ;                           sed             Angelus
 
 
 
 
+             1    Vat.    cum cod. cc mutabiUtate.                                                                                  seqq. )           ,        ubi          flnem         motus            constituit             in   bono aliquo conse-
+                  Serm.      S.   n.    2.                                                                                          quendo.
+             '    Cfr. Aristot.,         V. Phys.         text.      I
+                                                                         ,
+                                                                             VIII.   Phys. text. 27. (c. 4.),                                  =      Libr. VIII. Phys. text. 27. seqq. (c. 4.)                                         ;       verbotenus autem
+                 de Anima,         text.      37. seqq. (c. 3.).                                                                    est in            Comment. Averrois. Ibi Aristot. recolligit quae                                                                    diversis
+             *    Cfr.    Aristot. ,          de Animalium motu                      ,    c.    4.    seqq.        (   e.   6.      locis, praeserlim in                                 libr.    VII. Pliys. docuit.
 
-                                                                                                     QUAESTIO I.
-
-                                                                 Utnmi Deus aequaliter sil in omnibus rebus.
-
-
-                      Quod antem sit uniformiter, videtur:                                                       '
-
-
-                                                                                                                                 Sed coNTnA:          1.    « Orane           quod recipitur in aliquo. ^pio^f
-                      1.    Quia, sicut dicit Philosophus ', « prima causa                                       i
-                                                                                                                     est ibi per           modum recipientis, et non recepti                                  ^
-                                                                                                                                                                                                                  » ;     sed
-Argg.   prounomodo se habet ad omnia, Mcet omnia non ha-                                                             creaturae non sunt aequaliter capaces Dei: ergo non
-                                                                                                                 I
+                         S. Boiiav.           — Tom.           I.                                                                                                                                                                                      83
+                                                                                                                                            "
+                                                                                                                                            ,
+                                                                                                                                            ;                                                                                                                           .
 
 
 
 
-Siva!' ''beant se uno modo ad ipsam »   sed omnia in Deo               ;                                         !
-                                                                                                                     est aequaliter in eis Deus.
+            6a8                                                                                                              SENTENTIARUM LIB.
 
-          sunt uniformiter.                 qnia sunt vita                   et     creatrix essen-                      2. [tem, sicut se habet intellectus ad primam
-                                                                                                                 j
+            iion    clislal            a     se        :        ergo Augelns non                             uiovetiir               a se               Ad           iiitelligentiam                     autem obiectorum                       est notan-
 
+            nec ab alio                      ergo non polest moveri                                                  nisi     movendo           duin, quod                      sicut esse               in         loco       est       dupliciter           sive          Disuncii
 
-
-
-          tia:    ergo multo fortius Deus in omnibus                                            rebus esl        j
-                                                                                                                     lucem, sic ens ad primam essentiam     et vivens ad                        ,
-
-
-
-          aequahter             et uniformiter.                                                                  I   primam vitam''; sed maior intelleclus magis parti-
-                      2.    Item, quod est ubique totum est aequaliter                                               cipat divinam hicem: ergo                                perfectius ens , et perfe-
-          et uniformiter ' ;              sed      cum Deus                sit      simplicissimus.              I
-                                                                                                                     ctius vivens              divinam essentiara et vitam                             :    ergo Deus
-          est    ubique totus: ergo aequaliter                               el uniformiter est
-                                                                                                                 j
-                                                                                                                     perfectius est in                uno quam                in     alio.
-
-          in     omnibus rebus.                                                                                                  3.   Item, existentia                  Dei in rehus                est conserva-
-
-                      3.    Itera,    unicuique rei intima est materia et for-                                   I
-                                                                                                                     tio    rerum': sed non omnes                                res aeciualiler                  conser-
-          nia: sed            forma non           unitur materiae                        nisi    mediante        i
-                                                                                                                     vantur: ergo non est aequaliler                                    in   oranibns.
-          appetitu, appetitus               autem ortum habet ab essentia^;                                                      4.   Iteni,    cura Deus               sit    ubique,          solum dicitur
-          sed hoc non posset nisi                       per Dei praesentiam: ergo                                i
-                                                                                                                     habitare in              iustis;      sed hoc non esset,                       si      aequaliter
-          Deus magis                est   intimus omni rei                   quam sua forma.                     ,
-                                                                                                                     ct     iiniformiter esset in                      omnibns: ergo etc.
-          Sed         forma unicuique               rei    est    summe intima:                       ergo
-          Deus         in    terraino intiraus est cuilibet. Sed quod habet                                                                                CONCLUSIO.
-          esse in terraino est uniformiter: ergo etc.
-                      4.    Itera,    hoc ostenditur per impossibile:                                (juia.           Deus unifonniter est in rebus, quatenus non con-
-          si     Deus         noii    est aequaliter            in         rebus,           ergo    cum''                 nota/ni- elfrcius: seil quatenus uni creaturae
-          magis intime                est in    una quam               in alia,            ergo in        ali-            Deus (lii/ ji/iis ijiiam alii, magis dieitur esse
-          qua non             est    summe intime:               ergo aliquid est                    in    re                    in     unu qiiam           iii       alia.
-
-          intrinsecura, in                quo non         est    Deus:              ergo Deus non
-          est intimura quod est.                   Sed hoc est impossibile: ergo                                                 Respondeo:           .\d       praedictornm intelligentiam                                est Disiini
-
-          et    primura.                                                                                             notandura, quod                   Deum esse in ;«&».« diipliciter po-
-
-
-
-                  '    Philosophus hic intelligitur auctor                       libri     de Causis, qui                    *   In     pluribus codd.ut H P Q V desideralur cum. Paulo
-
-          prop. 24.          ait:   Causa prima existit in omnibus i'ebus secundum                                   inferius pro         intimum Vat. cum nonnullis mss. in omni, cod. T
-          unam disposilionem, sed res omnes non e.\istunl in causa prima                                              a    secunda       manu intimum omni.
-          secundum unam dispositionem.                     —
-                                           Do minori huius argumenti                                                         5   Libr.    de Causis, prop. 10. 20. seqq.                       Cfi-.       eliam Boelh.,
-          vide supra          d.    36. a. 2. q.   I.                                                                V. de Consol, prosa              4.
-
-                  -   Cod.     T in niarg. non incongruo addit m omnibus.                                                    "   Cfr. liber     de Causis         ,
-                                                                                                                                                                      prop.    18.   seqq.    — Immediate                 post
-                 3    Quid sibi velit haec         sentenlia, explicat Ale,xander Hal., ut                            pro maior intellectus codd.M P Q juagis inteUigem et cod.
-          invenies infra in Scholio huic quaestioni ndiuncto.                                   — Mox post            T cum aliquibus aliis magis intellectus. In initio argumenli
-          possel codd.               V inserunt    esse.   In     flne       argumenti           auctoritate         pro     sicut se         habet intetlectus codd. P Q sicut se habet                                 intel-
-
-          plurimorum codd. posuimus iii termino intimus est, et deinde                                                Kgens.
-          in termino i. e. summe sive quantum po.ssibile est, pro quo                                                        '   Cfr. hic a,     I.   q,   I.    seq,   — Voci        exislentia in initio huius
-
-          Vat. intimior intimo est intimus , et deinde                               iii    intimo pro in            propos, codd.            ADZ aa        ff    et    plures       alii    praeligunt           ex ,    qua
-          termino. Cod.             T primo loco        intimior           est    iniimo , et cod.         W         parlicula addita propositiunis scntenlia clare apparot.
-
-          summe et in termino est intimus.
-                                                                                                                ;
+                                                                                                                                                                                                                                                                  —
+                                        :
 
 
 
 
-                                                                         DIST. XXXVII.               P.    I.       ART.    III.        QUAEST.               II.                                                                                6/./
-
-
-                     uno modo, ut idem sit quod esse
-       test intelligi:                                                                                                 parte divini esse,verum est; si autem intelligatur
-       praesentem cuilibet rei non connotando effectum
-                                                     ,                                                                ex parle effectus, falsum est. Quoniam Deus unifor-
-       et sic uniformiter est in omnibus rebus, eo quod                                                                miter et stabiliter existens, celera movet^                                                                    et        mul-
-       intimus est cuilibet rei et                                summe praesens et totus                             tos et varios effectus producit, et efliciendo diversa
-
-       in qualibet re.              Alio modo potest connotare effectum,                                               in rebus facit, quod res                                   non se habeant uniformiter
-       sicut artifex dicitur in artificio esse per connotatio-                                                        ad ipsum. Quoniam igitur,                                                cum dicitur Deus esse
-       nem effectus et per impressionem suae similitudinis;                                                           in rebus, uno modo connotatur effectus,                                              alio modo
-
-       et sic, cum uni creaturae plus det quam alii, magis                                                            non; ideo uno modo conceditnr, quod sit uniformi-
-       est in        una quara             in      alia.      —        Et hoc potest            esse      tri-        ter, alio                modo quod non. Similiter e converso, cum
-       pliciter': vel extensive,                         quantum ad ea quae habent                                     dicitur,               quod omnia sunt in Deo, uno modo potest
-       esse diuturnius, ut in                            corpore            incorruptibili             plus            connotari effectus, sicut patet in praedestinatione et
-       quam in anima sensibili                           ;    vel intensive,              quantum ad                   reprobatione, et                        sic        non         est uniformiter; alio                                  modo
-       ea  quae habent esse nobilius, ut in anima sensi-                                                               non connotatur effectus,                                       et sic uniformiter.
-
-       bili' quam in corpore incorruptibili; vel utroque                                                                   Quod obiicitur iterum ad oppositum quod omne                                                 ,
-
-
-
-       modo, ut in aninia rationali quam in corpore                                                       cor-         quod recipitur, est per modum recipientis; dicen-E
-       ruptibili.                                                                                                      dum, quod verum est, ubi receptum dependet a
-               His visis            patent          obiecta             ad utramque partem.                            recipiente,                    ut      species^                a       virtute cognoscente;                                    in
-
-       Procedunt enim his duabus                                       viis, ut patet, exceptis                        proposito                    autem non sic est. Unde divina essentia,
-       duobus primis ad utramque partem.                                                                               existens in re, non accipit                                            modum rei; et sic patet
-               Quod enim                  obiicitur,              quod Deus uniformiter se                             illud.
-
-       habet ad omnes res ;                         si       intelligatur           uniformitas ex
-'ar-
+            aliud       .     sicut          inovenclo corpus.                                                                                  esse        locale             —      sicul tangit                       Magister        in     litlera
+                                                                                                                                                                                                                                                             ''
 
 
 
 
-                                                                                                     8GH0LI0K
+                    Contka:                   1.           \il    Hebraeos primo '                           :        Omnes sunt                scilicet quia circuniscribitur , et quia definitur; et
 
-              I.    Haec quaeslio          ,   a paucis ontiquis explicile traclata ,                     viam         torem ad motuni. Ex quo patet                                      ,   ipsum esse principium motus
-       sternit acl sequentem quaest. enodandam.                            —   in arg.     3.   inter fun-             intrinsecum universale ». Pergit                                       explicans            differentias                 appeti-
+fimiammki.administratiiiii                                 fpirilits          ,        missi propter                          eos    etc.       illud proprie est locale quod circumscribitur aliud                                                    ,
 
-       dam.        dillicilis    locus:rorma non unitur materiae nisi mediante
-                                           «                                                                           tuum et eorum in quibus est appetitus                                             ,    secundum quod magis
-       appetitu       ;   appelitus autem ortum liabei ab essentiaji, profunde                                         vel     minus habent vel de forma vel                                             de materia. lllud autcm
-       ab Alex. Hal., S. p. II. q. 86. m. 2. a. 2. § L explicatur: In omni                      <i                     principium intrinsecum motus et vitae minime excludit influxum
-       motu sive ad formam sive ad situm primum principium motus                                                       primae causae, immo eum postulat, ut ibid. a.                                                        1.    §    1.       proba-
-       intnnsecum           est appelilus.          Hic etenim est tIs a Creatore omni-                                tur.    — Ex hoc Alexandri                           loco patet,              errare          Trigosum (Sum.
-       bus indita creaturis, per quam ad sui complementum ordinan-                                                     q.    6.       a.     5.),    qui, nullo codice vel                        editione suffragante,                         textum
-       tur et in suo compleniento stant et radicantur. Nec solum sic est                                               mutavit ponendo ortum liabet ab esse pro ortum habet ab es-
-       in   creaturis , sed ctiam in creaturarum essentialibus principiis,                                             sentia, hacinnixus ratione, quod scil. antiqua lectio nullumsen-
-       quae sunt materia et forma, actus et potentia. Neque enim materia                                               sum haberct.
-       se ipsa movetur ad formam quia cum nullam determinet, non
-                                                     ,
-                                                                   ,                                                       Quod anima sensibilis perfectius habeat essc quam corpus
-       magis moveretur ad hanc quam ad illam      neque forma se                ;                                      incorruplibile, magis explanatur III. Sent. d. 21. a. 2. q. 2. ad 3.
 
-       ipsam facit in materia sed per appetiium insitum utraque ad
-                                               ;                                                                       (cfr.      S.       Thom.,        S.   I.    q.    70.    a.    3.     ad     2.).
 
-       invicem ordinantur                 et   per appetitum huiusmodi inseparabiliter                                            II.      Quoad ipsam qiiaestionem                           ;    Alex. Hal., S.                p.    1.       q.    10.
 
-       coniunguntur.             Ncc solum           ap))etitus          rem compleiam               in    esse        m. S.          —      Scot.,      de hac          et seq. q.           Rcport. hic q. 2.         —             B. Albert.,
+            sed aliquocl miMisteriuin exsequuntur sine corpore                                                                                  autem quodam modo est locale, quodam modo non:
+            ut suggerere bona, et liniusmodi: ergo possunt sine                                                                                 ita moveri per locum uno modo est per circumscri-
 
-       sequitur, sed in ipsis  rerum principiis essentialibus radicatur                                                hic     a.       6.    —      Petr. a        Tar., hic q.              I.    a.       2.   — Richard.                a    Med.,
-       et fundatui-. Et sicut est in motu ad formani    sic cst in omni              ,                                 hic     a.       1.    q.    2.   — Durand., de hac                         ct seq.         q.   hic       p.    I.       q.    1.
+            corpore moveri.                                                                                                                     ptionem ferri de loco ad locum, et sic est tanlum
+                    -2.           Item, Dainascenus -                              :        «    Confestim inveniuntur                          corporum; alio modo moveri est minus proprie se-
+             ubi    clivinus iusserit                              nntus, velocitate naturae»:                                             si   cundum definitionem transire, et sic esl spiritunm.
+            ergo velocitas est                                   dispositio                 ad motum. ex                        sui na-         Proprie ergo per circumscriptionem non movetur concmsin
+            tura suut mobiles.                                                                                                                  Angelus,                  nisi       corpore assumto, minus proprie per
+                    3.            Itein,      Angelus in uno loco tantum est                                                        et    ibi   definitionem moyetur Angelus etiam sine corpore.
 
-       molu non violcnto; in omni enim motu appetitus excitat mo-                                                      — Dionys.                    Carth., hic q.          2.    circa nied.
+            est,    ubi            operatur: ergo virtus eius ant est                                                         ad unum                   1.           Ex hoc palet                        responsio                ad      primum             obie-somuo^c
+
+             tantum arctata, aut si non est arctata, nec substan-                                                                               ctnm        ,       et °        Bernardus accipit discurrere el trans-
+             tia est arctala ad unum locum. Sed non potest esse
+                                                                                                                                                ire     secundum proprietatem                                             loci,    quae        est   circim-
+             in    pluribus: ergo                               cum est in uno loco, est                                            in po-      scriptio.
+
+             tentia ad alterum.                                 Sed quod est in potentia ad unum                                                        2.           Ad        illud       ergo quod quaeritnr, ntruiii per se
+             non    fit           actu in                  illo,    nisi          per motuin                         secundum             lo-   aut per accide:!S;                              dicendum secundum praedictam
+             cum    :       ergo        etc.                                                                                                    distiiictionem                   '
+                                                                                                                                                                                       de motu, quod secundum priniuin
+                        4.        Item.       quod nioveatur                                    sine       corpore assumto,                     motuiii noii iiiovetur spirituale nisi per accidens. alio
+
+             osteiiditur              per simile                     in       anima. Anima enim, exuta                                          moto. Sicut                      enim nauta,                        niota navi,            movetur,               sic
+
+             a corpore, fertur in                                   caelum vel descendit in                                          infer-     spiritus, raoto corpore,                                     in      quo       est.    Quanlum ad se-
+             num localiter;                            sed constat,                         quod anima non assu-                                cundum motura                          ,       sicut Angelus per se ipsum et sine
+
+             mit aliud                corpus quain sunni:                                             ergo movetur                       sine   corpore deflnitur loco,                                  ita        per se ipsum transfertur.
+
+             corpore, ergo pari ratione Angelus.                                                                                                ita    qiiod non alio movente, nec per                                                    alium motum.
+                        '3.       Item, Angelus                          in       empyreo                   potest esse                  sine   Ipse        autem              obiicit          de primo motu tantum, qui per
+             corpore, pari ratione et in terra:                                                             ergo         si    per ean-         se conveiiit corpori                                 soli.
+
+
+             dem vim, per quani quiescit in terra, facit se esse                                                                                            3.       Ad illud                  quod obiicitur, quod omne                                     ciuod
+
+             in    terra              sive transfert^                              ergo videtur,                             quod        sine   movetur, movetur propter indigentiam; dicendum.
+             corpore.                                                                                                                           quod            illud          verum            est in             raotu naturali , in                 quo na-
+                                                                                                                                                tura non movet nisi per appetitura alicuius rei                                                               ,   qui
+
+                                                                 CONCLUSIO.                                                                     ponit imperfectionem in natura                                              — quia         natura, habita
+                                                                                                                                                perfectione sua, quiescit                                    —
+                                                                                                                                                                                                       sed non est verum in mo-
+
+             Angelus nioveri potest twii sine corpore, tum cor-                                                                                 tu voluntario, in                              quo movetur aliquis sivepropter
+                        pore assumto:                              siiie corpore                       transeuiulo locum                        aliud           '    acquirendum                     ,   sive         ad virtutem demonstran-
+                        definitive, sed                            cum corpore assumto circum-                                                  dam         ,       sicut        movetur miles in                              stadio.     — Vel            dicen-           ^'''' ^»'
+
+
+
+
+                        scriptive.                                                                                                              duin, quod illud                               verum est in omni raotu, genera-
+                                                                                                                                                liter           accipiendo indigentiam ad suam indigentiam et
+                    Respondeo: Dicendum, quod Angelus, sicul di-                                                                                 alienam                  et    suam quantum ad                                 illud cuius            privalio
+             cit    Scriptura, habet mnveri. Movetur autem non                                                                                  ]}oni\,         imperfectionem , vel cuius privatio non iraper-
+conciusio   i.solum               assumto                   corpore,                   sed           etiam            corpore            non    fectionem ponit, sed                                     limitationem °; et                      sic       est      iu
+
+             assuinto,                cum non                      sit    minoris libertatis                                  nec virtu-         Angelo.                  Angelns              enim      ,        volens          aliquid        operari            in
+
+             tis    nec             nobilitatis                    sine           corpore              ,
+                                                                                                            quam               est       cmn     terra,              indiget           transire                  ad       terram,          quia      non           po-
+             corpore.                                                                                                                            test       simul esse in caelo et                                        in    terra         propter         hoc
+
+
+
+
+                    1       Vers.      14, in               quo     le,\lu    Vulgata verbo                      mws; pi-aemittit m                     ^       I'io et Vat.           curn ed.              I    quia.
+             minisiermm.                — Mox pro exseqmmtur, quod ex codd. P Q bb                                                                      '       Pro distinciionem plurimi codd. definitionem, pauci cuni
+             et ed.           I   resliluimus, Vat. male coiisequuntur. Dein post                                                        bona    Vat. divisionem; nostrae lectioni                                       sulTragantur codd.          DPQKY
+              eadem Vat. cum cod. cc interiicit et revelare secreta.                                                                             cc et ed.            1   nec non contextus. Subinde post de motu non pauci
+                    -       Libr.      II.   de Fide orthod.                           c.       3.   Pro inveniuntur, quod et                    codd. omittunt quod,                               et   post        pauca        Vat.    verbis     alio         molo
+              in textu originali et in                             codd. P Q et in ed.                           1     extiibetur , Val.         praefigit scilicet.
+              inveniiur.                                                                                                                                8       Pro aliud cod.                  T aliquid.
+                    3        Supple          cum Vat. simul.                                                                                            '       Hoc sibi vult              :   indigentia             dicit in     subiecto indigonli              ^ el
+
+                    *       Sensus est             :       si    Angelus           potest            esse    in        tei                       privalionem proprie dictam,                                     scil.   carenliam perfectionis debilae,
+              sine corpore, et consequenter                                        sola vi             spirituali ,           sequitur           vel simplicem negationem uUerioris perfectionis sive                                                      limilptio-
+
+              el sola vi spirituali possit sc                                     (ransferre in terram.                                          nem; prior non esl in Angelo. sed                                             tantum      poslerior.       —      Ali-
+
+                        5    i:;ap.   6.                                                                                                         quanto superius pro                           ei    snam          cod.    V ad suam.
+                                                                                                                                       ,,                                                                                                                                                 ,
+
+
+
+
+                                                                                     DIST.             XXXVn. P. 11. ART. H. QUAEST. II.                                                                                                                                           6o9
+
+ quod               habet              virtutem                 finitam.             Et       sic patet                     illud,          instrumentum                       se    ipsum movens                                 '
+                                                                                                                                                                                                                                       ;        et         virtus ,              quae
+ quod               limilatio                 non          repugnat                  summae                     perfectioni                 est in            substantia spirituali                        ,       potest supra substantiam Notandum.
+ creaturae.                                                                                                                                 reflecti, et ita movens                                  idem esse cum mobiti, taraen
+       4. Ad illud quod obiicitur, quod omne quod                                                                                           non secundum idem                                  :     quia               Angelus habilis                                       est      ad
+ movetur differt a motore; dicendum, quod in na-                                                                                            moveri ex parte                              ipsius           quod est                              sive             substantiae
+ turali motu verum est, ubi nihil movet se, quia                                                                                            vel materiae,                    si      habet                materiam,                                 sed          ad       movere
+ nihil reflectitur                            supra se propter alligationem                                                     cum         ex          parte         formae,                sive ipsius                     quo                    est         vel virtutis
+ materia: sed non est                                       verum in voluntate, quae est                                                    activae.
+
+
+
+
+                                                                                                                       SCHOLIOK
+
+          1.    Vesligia iMagistri secutus, S. Doctor hic incidenter                                                              agit              II.       Angelos non            tantum per accidetis, sed etiam per se
+ de motu Angclorum quoad locum. Pro intelligentia huius quae-                                                                               nioveri       ,    aliter   tamen ac corpora                       ,    contra Peripateticos cuni theo-
+ stionis        supponenda. est doctrina de modo, quo Angeli sunt                                                                     in    logorum communi                     sentenlia Seraphicus hic tenet et bene expli-
+ loco,         unde remittimus lectorem ad II.                                    Sent. d. 2. p.                      il.       a.    2.    cat.   —      In solut.       ad      4. S.       Doctor supponit, quod subslantia                                                         spi-
+
+ q.   I   -4.       Sufliciat hic breviter annotasse                             ,
+                                                                                      quod        ,    licet omnes               con-       ritualis potest super se reflecti                             ac se ipsam movere, non tamen
+ cedant, Angelos esse in loco non circumscriptwe , sed                                                                      defini-         secundum idem (cfr. II. Sent. d. 24. p.   a. 2. q. 2. ad 4; d.                            I.
+
+
+ tive ,       tamen de ratione formali praesentiae Angelorum                                                                in loco         25. p. I. q. 1.), et quod se active moveat ex parte formae
+ mire          discrepant                   scholae        et    etiam       eiusdem scholae auctores.                                      passive ex parte materiae. Quoad ullimum autem problematice
+ Praescindendo ab opinione                                      eorum qui cum Vasquez pulant                                                loquitur addens: « Si habet materiam ». Hoc respicit senten-
+ Angelos etiam                    in        puncto     indivisibili esse posse,                            ad duas              prin-       tiam    ,
+                                                                                                                                                          quam ipse II. Sent. d. 3. p. I. a. I '                                           .    q.        1 .   2. 3.     tanquam
+ cipales positiones multitudo                                   opinionum reduci potest                           :   scil. fun-            probabilem defendit,                     scil.         quod etiam in Angelis aIi(|uo modo
+ damentum praesentiac ponitur vel in applicatione virtutis An-                                                                              distinctio         materiae et formae admiltenda                                           sit.
+
+ gelorum            ,    vei    non         in    operalione           ,   sed   in   propria              et    linita          sub-              III.       Alex. Hal., S. p.                II.   q.        33. ni.            I.           3.    —          Scot.,       ll.Senl.
+
+ stantia Angeloruni. Piimu senlenlia est S. Thomae, quae tamen                                                                              d. 2. q. 9.           —     S.   Thom., hic q.                         4.   a.    I   ;        S.        I.    q.     33. a.        —'l.
+
+
+ a suis discipulis                     non eodem modo explicatur                              ;   secunda est Scoti,                        B. Albert., hic             a.     22.   —         Petr.       a Tar., hic q. 5.                                     a.     I.    — Ri-
+ Richardi a Med.                        et       aliorum plurimorum, cui favet                                   modus               lo-    chard. a Med., hic                  a.    3.      q.     I.   —         .Egid. R., hic 2. princ. q. 1.
+ quendi            S.    Bonaventurao.                 — iNotanda                est etiam              thesis         ab Uni-              — Durand., de hac                       et       duabus seqq. qq.                                  hic        p.     II.     q.      —
+                                                                                                                                                                                                                                                                                 2.
+
+ versitate Parisiensi                        tempore AIe.\andri                  Ilal.    rcprobata: Angelu^                                Dionys. Carth., de hac et seqq. qq. hic q.                                                          4.        —      Bicl ,       de hac
+ in   uno instanti potest esse in diversis' locis                                         ,       et    etiani         ubi( |ue             et seqq.           qq. hic q. 3.
+ si   voluerit            (cfr.       II.    Sent.     d.       23. a. 2. q. 3. in linej.
 
 ## English
 

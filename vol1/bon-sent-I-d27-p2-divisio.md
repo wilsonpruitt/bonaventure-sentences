@@ -6,9 +6,9 @@ distinctio: 27
 pars: 2
 type: divisio
 line_start: 6302
-line_end: 6352
+line_end: 6356
 word_count_latin: 327
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -16,8 +16,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                     DIVISIO TEXTUS.
+DIVISIO TEXTUS.
 
 
            Supra egit Magister de proprietatibus persona-                                           haec pars qualuor partes. In prima Magister assignat

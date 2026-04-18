@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 47
 type: littera
-line_start: 41538
-line_end: 41659
+line_start: 41542
+line_end: 41663
 word_count_latin: 1123
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                       DISTINCTIO XLVII.
+DISTINCTIO XLVII.
 
 
 

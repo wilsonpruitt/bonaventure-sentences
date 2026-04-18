@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 37
 type: littera
-line_start: 21448
-line_end: 21915
-word_count_latin: 4181
-transcription_status: "auto-chunked 2026-04-17 (chunk-fill)"
+line_start: 21452
+line_end: 21920
+word_count_latin: 4188
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                             DISTINCTIO XXXVII.
+DISTINCTIO XXXVII.
 
 
 
@@ -480,6 +475,11 @@ Augustinus.   danum ^ ait: « Non quasi spaliosa magnitudine opine-             
                           *    Epist.          187.      c. i. n.          II.         —     In    quo textu Vat.                                                           codd, ct originali.
                fumus loco limmts,                               i-erraganlibus omnibiis codd.                                                                                       8   Codd.         .\   D ct edd. 2, 3, 7, 8, 9 doceremus.
                                                                                                       :
+
+
+
+
+                                                                DIST. XXXVII.                    P.       I.   DIVISIO TEXTUS.                                                                637
 
 ## English
 

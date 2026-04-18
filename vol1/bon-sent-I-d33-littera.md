@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 33
 type: littera
-line_start: 15014
-line_end: 15347
+line_start: 15018
+line_end: 15351
 word_count_latin: 2712
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                  DISTINCTIO XXXIII.                                                                                                        867
+DISTINCTIO XXXIII.                                                                                                        867
 
          nutn       exemplum          ponit in hoc             termino Deus ,         quod       prima potentia, quae primo residet in Patre: ergo
          significat essentiam et supponit                      personam.      — Quanclo          si Filius non potest a Deo, simpliciter est impotens

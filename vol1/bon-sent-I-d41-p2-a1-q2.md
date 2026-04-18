@@ -7,10 +7,10 @@ pars: 2
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 31702
-line_end: 31945
+line_start: 31706
+line_end: 31949
 word_count_latin: 2156
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,13 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-
-                                                                                                                                     QUAESTIO             II.
+QUAESTIO             II.
 
 
 

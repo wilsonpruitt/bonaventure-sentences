@@ -1,0 +1,1441 @@
+{
+  "volume": 1,
+  "part": 2,
+  "chunks": [
+    {
+      "id": "bon-sent-I-d24-littera",
+      "file": "vol1/bon-sent-I-d24-littera.md",
+      "kind": "littera",
+      "distinctio": 24,
+      "lines": 125
+    },
+    {
+      "id": "bon-sent-I-d24-divisio",
+      "file": "vol1/bon-sent-I-d24-divisio.md",
+      "kind": "divisio",
+      "distinctio": 24,
+      "lines": 55
+    },
+    {
+      "id": "bon-sent-I-d24-a1-q1",
+      "file": "vol1/bon-sent-I-d24-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 24,
+      "lines": 326
+    },
+    {
+      "id": "bon-sent-I-d24-a1-q2",
+      "file": "vol1/bon-sent-I-d24-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 24,
+      "lines": 134
+    },
+    {
+      "id": "bon-sent-I-d24-a2-q1",
+      "file": "vol1/bon-sent-I-d24-a2-q1.md",
+      "kind": "quaestio",
+      "distinctio": 24,
+      "lines": 139
+    },
+    {
+      "id": "bon-sent-I-d24-a2-q2",
+      "file": "vol1/bon-sent-I-d24-a2-q2.md",
+      "kind": "quaestio",
+      "distinctio": 24,
+      "lines": 167
+    },
+    {
+      "id": "bon-sent-I-d24-a3-q1",
+      "file": "vol1/bon-sent-I-d24-a3-q1.md",
+      "kind": "quaestio",
+      "distinctio": 24,
+      "lines": 109
+    },
+    {
+      "id": "bon-sent-I-d24-a3-q2",
+      "file": "vol1/bon-sent-I-d24-a3-q2.md",
+      "kind": "quaestio",
+      "distinctio": 24,
+      "lines": 144
+    },
+    {
+      "id": "bon-sent-I-d25-littera",
+      "file": "vol1/bon-sent-I-d25-littera.md",
+      "kind": "littera",
+      "distinctio": 25,
+      "lines": 293
+    },
+    {
+      "id": "bon-sent-I-d25-divisio",
+      "file": "vol1/bon-sent-I-d25-divisio.md",
+      "kind": "divisio",
+      "distinctio": 25,
+      "lines": 97
+    },
+    {
+      "id": "bon-sent-I-d25-a1-q1",
+      "file": "vol1/bon-sent-I-d25-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 25,
+      "lines": 346
+    },
+    {
+      "id": "bon-sent-I-d25-a1-q2",
+      "file": "vol1/bon-sent-I-d25-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 25,
+      "lines": 234
+    },
+    {
+      "id": "bon-sent-I-d25-a2-q1",
+      "file": "vol1/bon-sent-I-d25-a2-q1.md",
+      "kind": "quaestio",
+      "distinctio": 25,
+      "lines": 230
+    },
+    {
+      "id": "bon-sent-I-d25-a2-q2",
+      "file": "vol1/bon-sent-I-d25-a2-q2.md",
+      "kind": "quaestio",
+      "distinctio": 25,
+      "lines": 93
+    },
+    {
+      "id": "bon-sent-I-d25-dubia",
+      "file": "vol1/bon-sent-I-d25-dubia.md",
+      "kind": "dubia",
+      "distinctio": 25,
+      "lines": 341
+    },
+    {
+      "id": "bon-sent-I-d26-littera",
+      "file": "vol1/bon-sent-I-d26-littera.md",
+      "kind": "littera",
+      "distinctio": 26,
+      "lines": 104
+    },
+    {
+      "id": "bon-sent-I-d26-divisio",
+      "file": "vol1/bon-sent-I-d26-divisio.md",
+      "kind": "divisio",
+      "distinctio": 26,
+      "lines": 57
+    },
+    {
+      "id": "bon-sent-I-d26-a1-q1",
+      "file": "vol1/bon-sent-I-d26-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 26,
+      "lines": 402
+    },
+    {
+      "id": "bon-sent-I-d26-a1-q2",
+      "file": "vol1/bon-sent-I-d26-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 26,
+      "lines": 471
+    },
+    {
+      "id": "bon-sent-I-d26-a1-q4",
+      "file": "vol1/bon-sent-I-d26-a1-q4.md",
+      "kind": "quaestio",
+      "distinctio": 26,
+      "lines": 184
+    },
+    {
+      "id": "bon-sent-I-d26-dubia",
+      "file": "vol1/bon-sent-I-d26-dubia.md",
+      "kind": "dubia",
+      "distinctio": 26,
+      "lines": 122
+    },
+    {
+      "id": "bon-sent-I-d26-dubia-dup2",
+      "file": "vol1/bon-sent-I-d26-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 26,
+      "lines": 111
+    },
+    {
+      "id": "bon-sent-I-d27-littera",
+      "file": "vol1/bon-sent-I-d27-littera.md",
+      "kind": "littera",
+      "distinctio": 27,
+      "lines": 240
+    },
+    {
+      "id": "bon-sent-I-d27-divisio",
+      "file": "vol1/bon-sent-I-d27-divisio.md",
+      "kind": "divisio",
+      "distinctio": 27,
+      "lines": 55
+    },
+    {
+      "id": "bon-sent-I-d27-a1-q1",
+      "file": "vol1/bon-sent-I-d27-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 27,
+      "lines": 134
+    },
+    {
+      "id": "bon-sent-I-d27-a1-q2",
+      "file": "vol1/bon-sent-I-d27-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 27,
+      "lines": 708
+    },
+    {
+      "id": "bon-sent-I-d27-a1-q3",
+      "file": "vol1/bon-sent-I-d27-a1-q3.md",
+      "kind": "quaestio",
+      "distinctio": 27,
+      "lines": 227
+    },
+    {
+      "id": "bon-sent-I-d27-a1-q4",
+      "file": "vol1/bon-sent-I-d27-a1-q4.md",
+      "kind": "quaestio",
+      "distinctio": 27,
+      "lines": 181
+    },
+    {
+      "id": "bon-sent-I-d27-dubia",
+      "file": "vol1/bon-sent-I-d27-dubia.md",
+      "kind": "dubia",
+      "distinctio": 27,
+      "lines": 31
+    },
+    {
+      "id": "bon-sent-I-d27-dubia-dup2",
+      "file": "vol1/bon-sent-I-d27-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 27,
+      "lines": 103
+    },
+    {
+      "id": "bon-sent-I-d27-divisio-dup2",
+      "file": "vol1/bon-sent-I-d27-divisio-dup2.md",
+      "kind": "divisio",
+      "distinctio": 27,
+      "lines": 55
+    },
+    {
+      "id": "bon-sent-I-d27-a1-q1-dup2",
+      "file": "vol1/bon-sent-I-d27-a1-q1-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 27,
+      "lines": 629
+    },
+    {
+      "id": "bon-sent-I-d27-a1-q3-dup2",
+      "file": "vol1/bon-sent-I-d27-a1-q3-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 27,
+      "lines": 151
+    },
+    {
+      "id": "bon-sent-I-d27-a1-q4-dup2",
+      "file": "vol1/bon-sent-I-d27-a1-q4-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 27,
+      "lines": 250
+    },
+    {
+      "id": "bon-sent-I-d27-dubia-dup3",
+      "file": "vol1/bon-sent-I-d27-dubia-dup3.md",
+      "kind": "dubia",
+      "distinctio": 27,
+      "lines": 198
+    },
+    {
+      "id": "bon-sent-I-d28-divisio",
+      "file": "vol1/bon-sent-I-d28-divisio.md",
+      "kind": "divisio",
+      "distinctio": 28,
+      "lines": 73
+    },
+    {
+      "id": "bon-sent-I-d28-a1-q1",
+      "file": "vol1/bon-sent-I-d28-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 28,
+      "lines": 368
+    },
+    {
+      "id": "bon-sent-I-d28-a1-q2",
+      "file": "vol1/bon-sent-I-d28-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 28,
+      "lines": 273
+    },
+    {
+      "id": "bon-sent-I-d28-a1-q4",
+      "file": "vol1/bon-sent-I-d28-a1-q4.md",
+      "kind": "quaestio",
+      "distinctio": 28,
+      "lines": 152
+    },
+    {
+      "id": "bon-sent-I-d28-dubia",
+      "file": "vol1/bon-sent-I-d28-dubia.md",
+      "kind": "dubia",
+      "distinctio": 28,
+      "lines": 96
+    },
+    {
+      "id": "bon-sent-I-d28-dubia-dup2",
+      "file": "vol1/bon-sent-I-d28-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 28,
+      "lines": 91
+    },
+    {
+      "id": "bon-sent-I-d29-littera",
+      "file": "vol1/bon-sent-I-d29-littera.md",
+      "kind": "littera",
+      "distinctio": 29,
+      "lines": 148
+    },
+    {
+      "id": "bon-sent-I-d29-divisio",
+      "file": "vol1/bon-sent-I-d29-divisio.md",
+      "kind": "divisio",
+      "distinctio": 29,
+      "lines": 65
+    },
+    {
+      "id": "bon-sent-I-d29-divisio-dup2",
+      "file": "vol1/bon-sent-I-d29-divisio-dup2.md",
+      "kind": "divisio",
+      "distinctio": 29,
+      "lines": 65
+    },
+    {
+      "id": "bon-sent-I-d29-a1-q1",
+      "file": "vol1/bon-sent-I-d29-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 29,
+      "lines": 396
+    },
+    {
+      "id": "bon-sent-I-d29-a2-q1",
+      "file": "vol1/bon-sent-I-d29-a2-q1.md",
+      "kind": "quaestio",
+      "distinctio": 29,
+      "lines": 284
+    },
+    {
+      "id": "bon-sent-I-d29-a2-q2",
+      "file": "vol1/bon-sent-I-d29-a2-q2.md",
+      "kind": "quaestio",
+      "distinctio": 29,
+      "lines": 188
+    },
+    {
+      "id": "bon-sent-I-d29-dubia",
+      "file": "vol1/bon-sent-I-d29-dubia.md",
+      "kind": "dubia",
+      "distinctio": 29,
+      "lines": 205
+    },
+    {
+      "id": "bon-sent-I-d30-littera",
+      "file": "vol1/bon-sent-I-d30-littera.md",
+      "kind": "littera",
+      "distinctio": 30,
+      "lines": 153
+    },
+    {
+      "id": "bon-sent-I-d30-divisio",
+      "file": "vol1/bon-sent-I-d30-divisio.md",
+      "kind": "divisio",
+      "distinctio": 30,
+      "lines": 45
+    },
+    {
+      "id": "bon-sent-I-d30-a1-q1",
+      "file": "vol1/bon-sent-I-d30-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 30,
+      "lines": 219
+    },
+    {
+      "id": "bon-sent-I-d30-a1-q2",
+      "file": "vol1/bon-sent-I-d30-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 30,
+      "lines": 377
+    },
+    {
+      "id": "bon-sent-I-d30-dubia",
+      "file": "vol1/bon-sent-I-d30-dubia.md",
+      "kind": "dubia",
+      "distinctio": 30,
+      "lines": 214
+    },
+    {
+      "id": "bon-sent-I-d31-littera",
+      "file": "vol1/bon-sent-I-d31-littera.md",
+      "kind": "littera",
+      "distinctio": 31,
+      "lines": 903
+    },
+    {
+      "id": "bon-sent-I-d31-divisio",
+      "file": "vol1/bon-sent-I-d31-divisio.md",
+      "kind": "divisio",
+      "distinctio": 31,
+      "lines": 41
+    },
+    {
+      "id": "bon-sent-I-d31-a1-q1",
+      "file": "vol1/bon-sent-I-d31-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 31,
+      "lines": 119
+    },
+    {
+      "id": "bon-sent-I-d31-a1-q2",
+      "file": "vol1/bon-sent-I-d31-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 31,
+      "lines": 244
+    },
+    {
+      "id": "bon-sent-I-d31-a1-q3",
+      "file": "vol1/bon-sent-I-d31-a1-q3.md",
+      "kind": "quaestio",
+      "distinctio": 31,
+      "lines": 90
+    },
+    {
+      "id": "bon-sent-I-d31-dubia",
+      "file": "vol1/bon-sent-I-d31-dubia.md",
+      "kind": "dubia",
+      "distinctio": 31,
+      "lines": 40
+    },
+    {
+      "id": "bon-sent-I-d31-divisio-dup2",
+      "file": "vol1/bon-sent-I-d31-divisio-dup2.md",
+      "kind": "divisio",
+      "distinctio": 31,
+      "lines": 55
+    },
+    {
+      "id": "bon-sent-I-d31-a1-q1-dup2",
+      "file": "vol1/bon-sent-I-d31-a1-q1-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 31,
+      "lines": 456
+    },
+    {
+      "id": "bon-sent-I-d31-a1-q3-dup2",
+      "file": "vol1/bon-sent-I-d31-a1-q3-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 31,
+      "lines": 213
+    },
+    {
+      "id": "bon-sent-I-d31-a1-q1-dup3",
+      "file": "vol1/bon-sent-I-d31-a1-q1-dup3.md",
+      "kind": "quaestio",
+      "distinctio": 31,
+      "lines": 126
+    },
+    {
+      "id": "bon-sent-I-d31-a1-q2-dup2",
+      "file": "vol1/bon-sent-I-d31-a1-q2-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 31,
+      "lines": 168
+    },
+    {
+      "id": "bon-sent-I-d31-a1-q3-dup3",
+      "file": "vol1/bon-sent-I-d31-a1-q3-dup3.md",
+      "kind": "quaestio",
+      "distinctio": 31,
+      "lines": 145
+    },
+    {
+      "id": "bon-sent-I-d31-dubia-dup2",
+      "file": "vol1/bon-sent-I-d31-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 31,
+      "lines": 141
+    },
+    {
+      "id": "bon-sent-I-d31-dubia-dup3",
+      "file": "vol1/bon-sent-I-d31-dubia-dup3.md",
+      "kind": "dubia",
+      "distinctio": 31,
+      "lines": 152
+    },
+    {
+      "id": "bon-sent-I-d32-divisio",
+      "file": "vol1/bon-sent-I-d32-divisio.md",
+      "kind": "divisio",
+      "distinctio": 32,
+      "lines": 51
+    },
+    {
+      "id": "bon-sent-I-d32-divisio-dup2",
+      "file": "vol1/bon-sent-I-d32-divisio-dup2.md",
+      "kind": "divisio",
+      "distinctio": 32,
+      "lines": 76
+    },
+    {
+      "id": "bon-sent-I-d32-a1-q1",
+      "file": "vol1/bon-sent-I-d32-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 32,
+      "lines": 295
+    },
+    {
+      "id": "bon-sent-I-d32-a1-q2",
+      "file": "vol1/bon-sent-I-d32-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 32,
+      "lines": 188
+    },
+    {
+      "id": "bon-sent-I-d32-a2-q1",
+      "file": "vol1/bon-sent-I-d32-a2-q1.md",
+      "kind": "quaestio",
+      "distinctio": 32,
+      "lines": 198
+    },
+    {
+      "id": "bon-sent-I-d32-a2-q2",
+      "file": "vol1/bon-sent-I-d32-a2-q2.md",
+      "kind": "quaestio",
+      "distinctio": 32,
+      "lines": 185
+    },
+    {
+      "id": "bon-sent-I-d32-dubia",
+      "file": "vol1/bon-sent-I-d32-dubia.md",
+      "kind": "dubia",
+      "distinctio": 32,
+      "lines": 188
+    },
+    {
+      "id": "bon-sent-I-d33-littera",
+      "file": "vol1/bon-sent-I-d33-littera.md",
+      "kind": "littera",
+      "distinctio": 33,
+      "lines": 334
+    },
+    {
+      "id": "bon-sent-I-d33-divisio",
+      "file": "vol1/bon-sent-I-d33-divisio.md",
+      "kind": "divisio",
+      "distinctio": 33,
+      "lines": 89
+    },
+    {
+      "id": "bon-sent-I-d33-a1-q1",
+      "file": "vol1/bon-sent-I-d33-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 33,
+      "lines": 343
+    },
+    {
+      "id": "bon-sent-I-d33-a1-q2",
+      "file": "vol1/bon-sent-I-d33-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 33,
+      "lines": 225
+    },
+    {
+      "id": "bon-sent-I-d33-a1-q3",
+      "file": "vol1/bon-sent-I-d33-a1-q3.md",
+      "kind": "quaestio",
+      "distinctio": 33,
+      "lines": 264
+    },
+    {
+      "id": "bon-sent-I-d33-a1-q4",
+      "file": "vol1/bon-sent-I-d33-a1-q4.md",
+      "kind": "quaestio",
+      "distinctio": 33,
+      "lines": 148
+    },
+    {
+      "id": "bon-sent-I-d33-dubia",
+      "file": "vol1/bon-sent-I-d33-dubia.md",
+      "kind": "dubia",
+      "distinctio": 33,
+      "lines": 35
+    },
+    {
+      "id": "bon-sent-I-d33-dubia-dup2",
+      "file": "vol1/bon-sent-I-d33-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 33,
+      "lines": 112
+    },
+    {
+      "id": "bon-sent-I-d34-littera",
+      "file": "vol1/bon-sent-I-d34-littera.md",
+      "kind": "littera",
+      "distinctio": 34,
+      "lines": 304
+    },
+    {
+      "id": "bon-sent-I-d34-divisio",
+      "file": "vol1/bon-sent-I-d34-divisio.md",
+      "kind": "divisio",
+      "distinctio": 34,
+      "lines": 5
+    },
+    {
+      "id": "bon-sent-I-d34-divisio-dup2",
+      "file": "vol1/bon-sent-I-d34-divisio-dup2.md",
+      "kind": "divisio",
+      "distinctio": 34,
+      "lines": 71
+    },
+    {
+      "id": "bon-sent-I-d34-a1-q1",
+      "file": "vol1/bon-sent-I-d34-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 34,
+      "lines": 566
+    },
+    {
+      "id": "bon-sent-I-d34-a1-q3",
+      "file": "vol1/bon-sent-I-d34-a1-q3.md",
+      "kind": "quaestio",
+      "distinctio": 34,
+      "lines": 138
+    },
+    {
+      "id": "bon-sent-I-d34-a1-q4",
+      "file": "vol1/bon-sent-I-d34-a1-q4.md",
+      "kind": "quaestio",
+      "distinctio": 34,
+      "lines": 120
+    },
+    {
+      "id": "bon-sent-I-d34-dubia",
+      "file": "vol1/bon-sent-I-d34-dubia.md",
+      "kind": "dubia",
+      "distinctio": 34,
+      "lines": 222
+    },
+    {
+      "id": "bon-sent-I-d35-littera",
+      "file": "vol1/bon-sent-I-d35-littera.md",
+      "kind": "littera",
+      "distinctio": 35,
+      "lines": 204
+    },
+    {
+      "id": "bon-sent-I-d35-divisio",
+      "file": "vol1/bon-sent-I-d35-divisio.md",
+      "kind": "divisio",
+      "distinctio": 35,
+      "lines": 5
+    },
+    {
+      "id": "bon-sent-I-d35-divisio-dup2",
+      "file": "vol1/bon-sent-I-d35-divisio-dup2.md",
+      "kind": "divisio",
+      "distinctio": 35,
+      "lines": 70
+    },
+    {
+      "id": "bon-sent-I-d35-a1-q1",
+      "file": "vol1/bon-sent-I-d35-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 35,
+      "lines": 543
+    },
+    {
+      "id": "bon-sent-I-d35-a1-q2",
+      "file": "vol1/bon-sent-I-d35-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 35,
+      "lines": 224
+    },
+    {
+      "id": "bon-sent-I-d35-a1-q3",
+      "file": "vol1/bon-sent-I-d35-a1-q3.md",
+      "kind": "quaestio",
+      "distinctio": 35,
+      "lines": 170
+    },
+    {
+      "id": "bon-sent-I-d35-a1-q4",
+      "file": "vol1/bon-sent-I-d35-a1-q4.md",
+      "kind": "quaestio",
+      "distinctio": 35,
+      "lines": 177
+    },
+    {
+      "id": "bon-sent-I-d35-a1-q5",
+      "file": "vol1/bon-sent-I-d35-a1-q5.md",
+      "kind": "quaestio",
+      "distinctio": 35,
+      "lines": 152
+    },
+    {
+      "id": "bon-sent-I-d35-a1-q6",
+      "file": "vol1/bon-sent-I-d35-a1-q6.md",
+      "kind": "quaestio",
+      "distinctio": 35,
+      "lines": 111
+    },
+    {
+      "id": "bon-sent-I-d35-dubia",
+      "file": "vol1/bon-sent-I-d35-dubia.md",
+      "kind": "dubia",
+      "distinctio": 35,
+      "lines": 81
+    },
+    {
+      "id": "bon-sent-I-d35-dubia-dup2",
+      "file": "vol1/bon-sent-I-d35-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 35,
+      "lines": 178
+    },
+    {
+      "id": "bon-sent-I-d36-littera",
+      "file": "vol1/bon-sent-I-d36-littera.md",
+      "kind": "littera",
+      "distinctio": 36,
+      "lines": 214
+    },
+    {
+      "id": "bon-sent-I-d36-divisio",
+      "file": "vol1/bon-sent-I-d36-divisio.md",
+      "kind": "divisio",
+      "distinctio": 36,
+      "lines": 5
+    },
+    {
+      "id": "bon-sent-I-d36-divisio-dup2",
+      "file": "vol1/bon-sent-I-d36-divisio-dup2.md",
+      "kind": "divisio",
+      "distinctio": 36,
+      "lines": 66
+    },
+    {
+      "id": "bon-sent-I-d36-a1-q1",
+      "file": "vol1/bon-sent-I-d36-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 36,
+      "lines": 166
+    },
+    {
+      "id": "bon-sent-I-d36-a1-q2",
+      "file": "vol1/bon-sent-I-d36-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 36,
+      "lines": 92
+    },
+    {
+      "id": "bon-sent-I-d36-a2-q1",
+      "file": "vol1/bon-sent-I-d36-a2-q1.md",
+      "kind": "quaestio",
+      "distinctio": 36,
+      "lines": 207
+    },
+    {
+      "id": "bon-sent-I-d36-a2-q2",
+      "file": "vol1/bon-sent-I-d36-a2-q2.md",
+      "kind": "quaestio",
+      "distinctio": 36,
+      "lines": 116
+    },
+    {
+      "id": "bon-sent-I-d36-a3-q1",
+      "file": "vol1/bon-sent-I-d36-a3-q1.md",
+      "kind": "quaestio",
+      "distinctio": 36,
+      "lines": 226
+    },
+    {
+      "id": "bon-sent-I-d36-a3-q2",
+      "file": "vol1/bon-sent-I-d36-a3-q2.md",
+      "kind": "quaestio",
+      "distinctio": 36,
+      "lines": 215
+    },
+    {
+      "id": "bon-sent-I-d36-dubia",
+      "file": "vol1/bon-sent-I-d36-dubia.md",
+      "kind": "dubia",
+      "distinctio": 36,
+      "lines": 131
+    },
+    {
+      "id": "bon-sent-I-d37-littera",
+      "file": "vol1/bon-sent-I-d37-littera.md",
+      "kind": "littera",
+      "distinctio": 37,
+      "lines": 469
+    },
+    {
+      "id": "bon-sent-I-d37-divisio",
+      "file": "vol1/bon-sent-I-d37-divisio.md",
+      "kind": "divisio",
+      "distinctio": 37,
+      "lines": 5
+    },
+    {
+      "id": "bon-sent-I-d37-a1-q1",
+      "file": "vol1/bon-sent-I-d37-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 37,
+      "lines": 199
+    },
+    {
+      "id": "bon-sent-I-d37-a1-q2",
+      "file": "vol1/bon-sent-I-d37-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 37,
+      "lines": 153
+    },
+    {
+      "id": "bon-sent-I-d37-a2-q1",
+      "file": "vol1/bon-sent-I-d37-a2-q1.md",
+      "kind": "quaestio",
+      "distinctio": 37,
+      "lines": 367
+    },
+    {
+      "id": "bon-sent-I-d37-a3-q1",
+      "file": "vol1/bon-sent-I-d37-a3-q1.md",
+      "kind": "quaestio",
+      "distinctio": 37,
+      "lines": 166
+    },
+    {
+      "id": "bon-sent-I-d37-a3-q2",
+      "file": "vol1/bon-sent-I-d37-a3-q2.md",
+      "kind": "quaestio",
+      "distinctio": 37,
+      "lines": 120
+    },
+    {
+      "id": "bon-sent-I-d37-dubia",
+      "file": "vol1/bon-sent-I-d37-dubia.md",
+      "kind": "dubia",
+      "distinctio": 37,
+      "lines": 91
+    },
+    {
+      "id": "bon-sent-I-d37-dubia-dup2",
+      "file": "vol1/bon-sent-I-d37-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 37,
+      "lines": 180
+    },
+    {
+      "id": "bon-sent-I-d37-divisio-dup2",
+      "file": "vol1/bon-sent-I-d37-divisio-dup2.md",
+      "kind": "divisio",
+      "distinctio": 37,
+      "lines": 54
+    },
+    {
+      "id": "bon-sent-I-d37-a1-q1-dup2",
+      "file": "vol1/bon-sent-I-d37-a1-q1-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 37,
+      "lines": 398
+    },
+    {
+      "id": "bon-sent-I-d37-a1-q3",
+      "file": "vol1/bon-sent-I-d37-a1-q3.md",
+      "kind": "quaestio",
+      "distinctio": 37,
+      "lines": 160
+    },
+    {
+      "id": "bon-sent-I-d37-a2-q1-dup2",
+      "file": "vol1/bon-sent-I-d37-a2-q1-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 37,
+      "lines": 207
+    },
+    {
+      "id": "bon-sent-I-d37-a2-q2",
+      "file": "vol1/bon-sent-I-d37-a2-q2.md",
+      "kind": "quaestio",
+      "distinctio": 37,
+      "lines": 247
+    },
+    {
+      "id": "bon-sent-I-d37-a2-q3",
+      "file": "vol1/bon-sent-I-d37-a2-q3.md",
+      "kind": "quaestio",
+      "distinctio": 37,
+      "lines": 250
+    },
+    {
+      "id": "bon-sent-I-d37-dubia-dup3",
+      "file": "vol1/bon-sent-I-d37-dubia-dup3.md",
+      "kind": "dubia",
+      "distinctio": 37,
+      "lines": 202
+    },
+    {
+      "id": "bon-sent-I-d38-littera",
+      "file": "vol1/bon-sent-I-d38-littera.md",
+      "kind": "littera",
+      "distinctio": 38,
+      "lines": 219
+    },
+    {
+      "id": "bon-sent-I-d38-divisio",
+      "file": "vol1/bon-sent-I-d38-divisio.md",
+      "kind": "divisio",
+      "distinctio": 38,
+      "lines": 59
+    },
+    {
+      "id": "bon-sent-I-d38-a1-q1",
+      "file": "vol1/bon-sent-I-d38-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 38,
+      "lines": 265
+    },
+    {
+      "id": "bon-sent-I-d38-a1-q2",
+      "file": "vol1/bon-sent-I-d38-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 38,
+      "lines": 227
+    },
+    {
+      "id": "bon-sent-I-d38-a2-q1",
+      "file": "vol1/bon-sent-I-d38-a2-q1.md",
+      "kind": "quaestio",
+      "distinctio": 38,
+      "lines": 314
+    },
+    {
+      "id": "bon-sent-I-d38-a2-q2",
+      "file": "vol1/bon-sent-I-d38-a2-q2.md",
+      "kind": "quaestio",
+      "distinctio": 38,
+      "lines": 290
+    },
+    {
+      "id": "bon-sent-I-d38-dubia",
+      "file": "vol1/bon-sent-I-d38-dubia.md",
+      "kind": "dubia",
+      "distinctio": 38,
+      "lines": 103
+    },
+    {
+      "id": "bon-sent-I-d39-littera",
+      "file": "vol1/bon-sent-I-d39-littera.md",
+      "kind": "littera",
+      "distinctio": 39,
+      "lines": 159
+    },
+    {
+      "id": "bon-sent-I-d39-a1-q1",
+      "file": "vol1/bon-sent-I-d39-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 39,
+      "lines": 342
+    },
+    {
+      "id": "bon-sent-I-d39-a1-q2",
+      "file": "vol1/bon-sent-I-d39-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 39,
+      "lines": 379
+    },
+    {
+      "id": "bon-sent-I-d39-a2-q1",
+      "file": "vol1/bon-sent-I-d39-a2-q1.md",
+      "kind": "quaestio",
+      "distinctio": 39,
+      "lines": 286
+    },
+    {
+      "id": "bon-sent-I-d39-a2-q3",
+      "file": "vol1/bon-sent-I-d39-a2-q3.md",
+      "kind": "quaestio",
+      "distinctio": 39,
+      "lines": 265
+    },
+    {
+      "id": "bon-sent-I-d39-dubia",
+      "file": "vol1/bon-sent-I-d39-dubia.md",
+      "kind": "dubia",
+      "distinctio": 39,
+      "lines": 144
+    },
+    {
+      "id": "bon-sent-I-d40-littera",
+      "file": "vol1/bon-sent-I-d40-littera.md",
+      "kind": "littera",
+      "distinctio": 40,
+      "lines": 189
+    },
+    {
+      "id": "bon-sent-I-d40-divisio",
+      "file": "vol1/bon-sent-I-d40-divisio.md",
+      "kind": "divisio",
+      "distinctio": 40,
+      "lines": 31
+    },
+    {
+      "id": "bon-sent-I-d40-divisio-dup2",
+      "file": "vol1/bon-sent-I-d40-divisio-dup2.md",
+      "kind": "divisio",
+      "distinctio": 40,
+      "lines": 43
+    },
+    {
+      "id": "bon-sent-I-d40-a1-q1",
+      "file": "vol1/bon-sent-I-d40-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 40,
+      "lines": 362
+    },
+    {
+      "id": "bon-sent-I-d40-a2-q1",
+      "file": "vol1/bon-sent-I-d40-a2-q1.md",
+      "kind": "quaestio",
+      "distinctio": 40,
+      "lines": 447
+    },
+    {
+      "id": "bon-sent-I-d40-a2-q2",
+      "file": "vol1/bon-sent-I-d40-a2-q2.md",
+      "kind": "quaestio",
+      "distinctio": 40,
+      "lines": 227
+    },
+    {
+      "id": "bon-sent-I-d40-a3-q1",
+      "file": "vol1/bon-sent-I-d40-a3-q1.md",
+      "kind": "quaestio",
+      "distinctio": 40,
+      "lines": 358
+    },
+    {
+      "id": "bon-sent-I-d40-a4-q2",
+      "file": "vol1/bon-sent-I-d40-a4-q2.md",
+      "kind": "quaestio",
+      "distinctio": 40,
+      "lines": 247
+    },
+    {
+      "id": "bon-sent-I-d40-dubia",
+      "file": "vol1/bon-sent-I-d40-dubia.md",
+      "kind": "dubia",
+      "distinctio": 40,
+      "lines": 89
+    },
+    {
+      "id": "bon-sent-I-d40-dubia-dup2",
+      "file": "vol1/bon-sent-I-d40-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 40,
+      "lines": 179
+    },
+    {
+      "id": "bon-sent-I-d41-littera",
+      "file": "vol1/bon-sent-I-d41-littera.md",
+      "kind": "littera",
+      "distinctio": 41,
+      "lines": 251
+    },
+    {
+      "id": "bon-sent-I-d41-divisio",
+      "file": "vol1/bon-sent-I-d41-divisio.md",
+      "kind": "divisio",
+      "distinctio": 41,
+      "lines": 66
+    },
+    {
+      "id": "bon-sent-I-d41-a1-q1",
+      "file": "vol1/bon-sent-I-d41-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 41,
+      "lines": 307
+    },
+    {
+      "id": "bon-sent-I-d41-a1-q2",
+      "file": "vol1/bon-sent-I-d41-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 41,
+      "lines": 666
+    },
+    {
+      "id": "bon-sent-I-d41-a1-q2-dup2",
+      "file": "vol1/bon-sent-I-d41-a1-q2-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 41,
+      "lines": 244
+    },
+    {
+      "id": "bon-sent-I-d41-dubia",
+      "file": "vol1/bon-sent-I-d41-dubia.md",
+      "kind": "dubia",
+      "distinctio": 41,
+      "lines": 64
+    },
+    {
+      "id": "bon-sent-I-d41-dubia-dup2",
+      "file": "vol1/bon-sent-I-d41-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 41,
+      "lines": 126
+    },
+    {
+      "id": "bon-sent-I-d42-littera",
+      "file": "vol1/bon-sent-I-d42-littera.md",
+      "kind": "littera",
+      "distinctio": 42,
+      "lines": 172
+    },
+    {
+      "id": "bon-sent-I-d42-divisio",
+      "file": "vol1/bon-sent-I-d42-divisio.md",
+      "kind": "divisio",
+      "distinctio": 42,
+      "lines": 5
+    },
+    {
+      "id": "bon-sent-I-d42-divisio-dup2",
+      "file": "vol1/bon-sent-I-d42-divisio-dup2.md",
+      "kind": "divisio",
+      "distinctio": 42,
+      "lines": 62
+    },
+    {
+      "id": "bon-sent-I-d42-a1-q1",
+      "file": "vol1/bon-sent-I-d42-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 42,
+      "lines": 242
+    },
+    {
+      "id": "bon-sent-I-d42-a1-q2",
+      "file": "vol1/bon-sent-I-d42-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 42,
+      "lines": 239
+    },
+    {
+      "id": "bon-sent-I-d42-a1-q3",
+      "file": "vol1/bon-sent-I-d42-a1-q3.md",
+      "kind": "quaestio",
+      "distinctio": 42,
+      "lines": 538
+    },
+    {
+      "id": "bon-sent-I-d42-a1-q4",
+      "file": "vol1/bon-sent-I-d42-a1-q4.md",
+      "kind": "quaestio",
+      "distinctio": 42,
+      "lines": 281
+    },
+    {
+      "id": "bon-sent-I-d42-dubia",
+      "file": "vol1/bon-sent-I-d42-dubia.md",
+      "kind": "dubia",
+      "distinctio": 42,
+      "lines": 56
+    },
+    {
+      "id": "bon-sent-I-d42-dubia-dup2",
+      "file": "vol1/bon-sent-I-d42-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 42,
+      "lines": 140
+    },
+    {
+      "id": "bon-sent-I-d43-littera",
+      "file": "vol1/bon-sent-I-d43-littera.md",
+      "kind": "littera",
+      "distinctio": 43,
+      "lines": 257
+    },
+    {
+      "id": "bon-sent-I-d43-a1-q1",
+      "file": "vol1/bon-sent-I-d43-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 43,
+      "lines": 671
+    },
+    {
+      "id": "bon-sent-I-d43-a1-q3",
+      "file": "vol1/bon-sent-I-d43-a1-q3.md",
+      "kind": "quaestio",
+      "distinctio": 43,
+      "lines": 326
+    },
+    {
+      "id": "bon-sent-I-d43-a1-q4",
+      "file": "vol1/bon-sent-I-d43-a1-q4.md",
+      "kind": "quaestio",
+      "distinctio": 43,
+      "lines": 142
+    },
+    {
+      "id": "bon-sent-I-d43-dubia",
+      "file": "vol1/bon-sent-I-d43-dubia.md",
+      "kind": "dubia",
+      "distinctio": 43,
+      "lines": 111
+    },
+    {
+      "id": "bon-sent-I-d43-dubia-dup2",
+      "file": "vol1/bon-sent-I-d43-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 43,
+      "lines": 206
+    },
+    {
+      "id": "bon-sent-I-d44-littera",
+      "file": "vol1/bon-sent-I-d44-littera.md",
+      "kind": "littera",
+      "distinctio": 44,
+      "lines": 129
+    },
+    {
+      "id": "bon-sent-I-d44-a1-q1",
+      "file": "vol1/bon-sent-I-d44-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 44,
+      "lines": 233
+    },
+    {
+      "id": "bon-sent-I-d44-a1-q2",
+      "file": "vol1/bon-sent-I-d44-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 44,
+      "lines": 174
+    },
+    {
+      "id": "bon-sent-I-d44-a1-q3",
+      "file": "vol1/bon-sent-I-d44-a1-q3.md",
+      "kind": "quaestio",
+      "distinctio": 44,
+      "lines": 203
+    },
+    {
+      "id": "bon-sent-I-d44-a1-q4",
+      "file": "vol1/bon-sent-I-d44-a1-q4.md",
+      "kind": "quaestio",
+      "distinctio": 44,
+      "lines": 239
+    },
+    {
+      "id": "bon-sent-I-d44-dubia",
+      "file": "vol1/bon-sent-I-d44-dubia.md",
+      "kind": "dubia",
+      "distinctio": 44,
+      "lines": 98
+    },
+    {
+      "id": "bon-sent-I-d45-littera",
+      "file": "vol1/bon-sent-I-d45-littera.md",
+      "kind": "littera",
+      "distinctio": 45,
+      "lines": 258
+    },
+    {
+      "id": "bon-sent-I-d45-divisio",
+      "file": "vol1/bon-sent-I-d45-divisio.md",
+      "kind": "divisio",
+      "distinctio": 45,
+      "lines": 5
+    },
+    {
+      "id": "bon-sent-I-d45-divisio-dup2",
+      "file": "vol1/bon-sent-I-d45-divisio-dup2.md",
+      "kind": "divisio",
+      "distinctio": 45,
+      "lines": 57
+    },
+    {
+      "id": "bon-sent-I-d45-a1-q2",
+      "file": "vol1/bon-sent-I-d45-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 45,
+      "lines": 283
+    },
+    {
+      "id": "bon-sent-I-d45-a2-q1",
+      "file": "vol1/bon-sent-I-d45-a2-q1.md",
+      "kind": "quaestio",
+      "distinctio": 45,
+      "lines": 282
+    },
+    {
+      "id": "bon-sent-I-d45-a2-q2",
+      "file": "vol1/bon-sent-I-d45-a2-q2.md",
+      "kind": "quaestio",
+      "distinctio": 45,
+      "lines": 210
+    },
+    {
+      "id": "bon-sent-I-d45-dubia",
+      "file": "vol1/bon-sent-I-d45-dubia.md",
+      "kind": "dubia",
+      "distinctio": 45,
+      "lines": 288
+    },
+    {
+      "id": "bon-sent-I-d46-littera",
+      "file": "vol1/bon-sent-I-d46-littera.md",
+      "kind": "littera",
+      "distinctio": 46,
+      "lines": 480
+    },
+    {
+      "id": "bon-sent-I-d46-a1-q1",
+      "file": "vol1/bon-sent-I-d46-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 46,
+      "lines": 330
+    },
+    {
+      "id": "bon-sent-I-d46-a1-q2",
+      "file": "vol1/bon-sent-I-d46-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 46,
+      "lines": 242
+    },
+    {
+      "id": "bon-sent-I-d46-a1-q3",
+      "file": "vol1/bon-sent-I-d46-a1-q3.md",
+      "kind": "quaestio",
+      "distinctio": 46,
+      "lines": 292
+    },
+    {
+      "id": "bon-sent-I-d46-a1-q4",
+      "file": "vol1/bon-sent-I-d46-a1-q4.md",
+      "kind": "quaestio",
+      "distinctio": 46,
+      "lines": 524
+    },
+    {
+      "id": "bon-sent-I-d46-a1-q6",
+      "file": "vol1/bon-sent-I-d46-a1-q6.md",
+      "kind": "quaestio",
+      "distinctio": 46,
+      "lines": 244
+    },
+    {
+      "id": "bon-sent-I-d46-dubia",
+      "file": "vol1/bon-sent-I-d46-dubia.md",
+      "kind": "dubia",
+      "distinctio": 46,
+      "lines": 244
+    },
+    {
+      "id": "bon-sent-I-d47-littera",
+      "file": "vol1/bon-sent-I-d47-littera.md",
+      "kind": "littera",
+      "distinctio": 47,
+      "lines": 122
+    },
+    {
+      "id": "bon-sent-I-d47-divisio",
+      "file": "vol1/bon-sent-I-d47-divisio.md",
+      "kind": "divisio",
+      "distinctio": 47,
+      "lines": 51
+    },
+    {
+      "id": "bon-sent-I-d47-a1-q1",
+      "file": "vol1/bon-sent-I-d47-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 47,
+      "lines": 480
+    },
+    {
+      "id": "bon-sent-I-d47-a1-q3",
+      "file": "vol1/bon-sent-I-d47-a1-q3.md",
+      "kind": "quaestio",
+      "distinctio": 47,
+      "lines": 198
+    },
+    {
+      "id": "bon-sent-I-d47-a1-q4",
+      "file": "vol1/bon-sent-I-d47-a1-q4.md",
+      "kind": "quaestio",
+      "distinctio": 47,
+      "lines": 193
+    },
+    {
+      "id": "bon-sent-I-d47-dubia",
+      "file": "vol1/bon-sent-I-d47-dubia.md",
+      "kind": "dubia",
+      "distinctio": 47,
+      "lines": 63
+    },
+    {
+      "id": "bon-sent-I-d47-dubia-dup2",
+      "file": "vol1/bon-sent-I-d47-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 47,
+      "lines": 130
+    },
+    {
+      "id": "bon-sent-I-d48-littera",
+      "file": "vol1/bon-sent-I-d48-littera.md",
+      "kind": "littera",
+      "distinctio": 48,
+      "lines": 134
+    },
+    {
+      "id": "bon-sent-I-d48-divisio",
+      "file": "vol1/bon-sent-I-d48-divisio.md",
+      "kind": "divisio",
+      "distinctio": 48,
+      "lines": 52
+    },
+    {
+      "id": "bon-sent-I-d48-a1-q1",
+      "file": "vol1/bon-sent-I-d48-a1-q1.md",
+      "kind": "quaestio",
+      "distinctio": 48,
+      "lines": 202
+    },
+    {
+      "id": "bon-sent-I-d48-a1-q2",
+      "file": "vol1/bon-sent-I-d48-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 48,
+      "lines": 150
+    },
+    {
+      "id": "bon-sent-I-d48-a2-q1",
+      "file": "vol1/bon-sent-I-d48-a2-q1.md",
+      "kind": "quaestio",
+      "distinctio": 48,
+      "lines": 468
+    },
+    {
+      "id": "bon-sent-I-d48-dubia",
+      "file": "vol1/bon-sent-I-d48-dubia.md",
+      "kind": "dubia",
+      "distinctio": 48,
+      "lines": 87
+    },
+    {
+      "id": "bon-sent-I-d48-dubia-dup2",
+      "file": "vol1/bon-sent-I-d48-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 48,
+      "lines": 135
+    }
+  ]
+}

@@ -7,10 +7,10 @@ pars: 1
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 28270
-line_end: 28644
-word_count_latin: 3383
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 28274
+line_end: 28635
+word_count_latin: 3346
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,12 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                           QUAESTIO I.
+QUAESTIO I.
 
 
                                                                 Utrum praedesliiiatio sit quid aeternum, an temporale.
@@ -382,18 +377,6 @@ Ad opposi- ponentibus; sed                                     deslinatio,      
 
 
                                                                                                                           SENTENTIARUM LIB. I.
-
-
-
-                                                                                                                            ARTICULUS 11.
-
-                                                                                            De pmedestinatione quantum ad necessilatern.
-
-
-
-                         Secundo quantuin ad hunc prinium articulum                                                                                      Primo quaeritur                      ,   utrum                inferal     necessitatem
-              quaeritur de                           necessitate                      praedestinationis.                    El circa         salutis libero arbitrio.
-              hoc quaeruntui' duo.                                                                                                                   Secundo, utrum inferat certitudinem                                                 in eventu.
 
 ## English
 

@@ -34,19 +34,19 @@ RAW_BY_PART = {
 }
 VOL1 = REPO / "vol1"
 
-# Broad OCR-tolerant patterns
+# Broad OCR-tolerant patterns. Must stay in sync with tools/auto-chunk-volume.py and tools/chunk-fill.py.
 MARKER_PATTERNS = [
-    ("DISTINCTIO", re.compile(r"^\s*DISTINCTIO\s+([IVXLCivxlc]+)", re.MULTILINE)),
-    ("COMMENTARIUS", re.compile(r"^\s*COMMENTARIUS\s+IN", re.MULTILINE)),
-    ("DIVISIO", re.compile(r"DIVISIO\s+TEXTUS", re.MULTILINE)),
+    ("DISTINCTIO", re.compile(r"^[ \t]*DISTINCTIO\s+([IVXLCivxlc]+)", re.MULTILINE)),
+    ("COMMENTARIUS", re.compile(r"^[ \t]*C[O0]MMENT[AE][REI]{1,3}[US8]{1,2}\s+IN", re.MULTILINE)),
+    ("DIVISIO", re.compile(r"DIV[IT]SIO\s+TE\.?XTUS", re.MULTILINE)),
     ("TRACTATIO", re.compile(r"TRACTATIO\s+QU", re.MULTILINE)),
-    ("ARTICULUS", re.compile(r"^\s*ARTI[CG]ULUS\s+([IVXLC]+|UNICUS)", re.MULTILINE)),
-    ("QUAESTIO", re.compile(r"^\s*Q[UIJij1][A^.flEIJij]{0,6}STIO\s+([IVXLCivxlcm]+)", re.MULTILINE)),
-    ("DUBIA", re.compile(r"^\s*DUB(?:IA)?\s+CIRCA|^\s*DIST\..*DUBIA", re.MULTILINE)),
-    ("SCHOLION", re.compile(r"^\s*[CS][CHI]OLIO[NK]", re.MULTILINE)),
-    ("CONCLUSIO", re.compile(r"^\s*CONCLUSIO", re.MULTILINE)),
+    ("ARTICULUS", re.compile(r"^[ \t]*ARTI[CGI]U[L1I]U[S8]\s+([IVXLC1]+|U[Ii]?N[IL]?[CG]U[S8])", re.MULTILINE)),
+    ("QUAESTIO", re.compile(r"^[ \t]*Q[UIJij1][A^.flEIJij]{0,6}STIO\s+([IVXLC1ivxlcm]+)", re.MULTILINE)),
+    ("DUBIA", re.compile(r"^[ \t]*(?:DUB(?:IA)?[.\s]|DIST\.[^\n]*\bDUBIA\b)", re.MULTILINE)),
+    ("SCHOLION", re.compile(r"^[ \t]*[CS][CHI]OLIO[NK]", re.MULTILINE)),
+    ("CONCLUSIO", re.compile(r"^[ \t]*CONCLUSIO", re.MULTILINE)),
     ("RUNNING_HEAD", re.compile(
-        r"^\s*DIST\.\s+[IVXLC]+\.\s+(?:ART|P)\.\s+[IVXLC]+", re.MULTILINE
+        r"^[ \t]*DIST\.\s+[IVXLC]+\.\s+(?:ART|P)\.\s+[IVXLC]+", re.MULTILINE
     )),
 ]
 
@@ -92,7 +92,13 @@ class ChunkInfo:
 
 def parse_roman(s: str) -> int | None:
     s = s.strip().upper()
+    if s in ("1", "11", "111"):
+        return len(s)
+    if re.fullmatch(r"U[I]?N[IL]?[CG]U[S8]", s):
+        return 1
     if s in ROMAN:
+        if s == "L":
+            return 1
         return ROMAN[s]
     trailing = len(s) - len(s.rstrip("L"))
     for n in range(1, trailing + 1):
@@ -242,6 +248,9 @@ def audit_distinction(
         if len(next_markers) > 1:
             extra = next_markers[1:]  # First one is expected (this chunk's marker)
             for em in extra:
+                # DUBIA markers inside a dubia chunk are expected internal DUB. II/III/... — not real overshoots.
+                if em.kind == "DUBIA" and c.kind == "dubia":
+                    continue
                 issues.append(
                     f"  {c.label}: contains {em.kind} {em.num or ''} marker at line {em.line} "
                     f"(should be a separate chunk?)"

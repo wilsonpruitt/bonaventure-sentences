@@ -6,10 +6,10 @@ distinctio: 46
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 39992
-line_end: 40233
+line_start: 39996
+line_end: 40237
 word_count_latin: 2207
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,12 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                                   QUAESTIO II.
+QUAESTIO II.
 
 
                                                                                                                 Utrum Deus velit mala fieri.

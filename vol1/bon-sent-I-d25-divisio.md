@@ -5,9 +5,9 @@ book: 1
 distinctio: 25
 type: divisio
 line_start: 1731
-line_end: 1824
+line_end: 1827
 word_count_latin: 586
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,8 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                                               DIVISIO TEXTUS.
+DIVISIO TEXTUS.
 
 
                 Supra ostendit' Magister, quid                                             signlficetur              per       opinionem aliorum, qui dicunt, quod persona                                                                        acci-

@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 39
 type: divisio
-line_start: 26532
-line_end: 26582
+line_start: 26536
+line_end: 26584
 word_count_latin: 248
-transcription_status: "auto-chunked 2026-04-17 (chunk-fill)"
+transcription_status: "auto-chunked 2026-04-18 (chunk-fill)"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                              COMMENTARIUS IN DI8TINCTI0NEM XXXIX.
+COMMENTARIUS IN DI8TINCTI0NEM XXXIX.
 
                                                                 De    pei-fectioin'    divinae scientiae.
 

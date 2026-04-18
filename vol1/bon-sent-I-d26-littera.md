@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 26
 type: littera
-line_start: 3110
-line_end: 3213
+line_start: 3114
+line_end: 3217
 word_count_latin: 1136
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,12 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                          DISTINCTIO XXVI.                                                                                         449
+DISTINCTIO XXVI.                                                                                         449
 
 per hoc dicitur nos genuisse. Genuisse enim Deum filios                                               relatio  non ita appareat in hoc nomine spiritus san-
 nunquam cum proprietalis signiflcatione cognoscimus                                                   ctusj, sicut in hoc nomine donum. Unde Augustinus

@@ -7,10 +7,10 @@ pars: 1
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 13950
-line_end: 14242
+line_start: 13952
+line_end: 14246
 word_count_latin: 2976
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,10 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-                                                                                                      QUAESTIO I.
+QUAESTIO I.
 
 
                                                               Utrum Pater el Filius diligant se Spiritu sancto.

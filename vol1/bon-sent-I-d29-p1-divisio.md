@@ -6,9 +6,9 @@ distinctio: 29
 pars: 1
 type: divisio
 line_start: 8932
-line_end: 8992
+line_end: 8996
 word_count_latin: 556
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -16,8 +16,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                          DIST. XXIX. DIVISIO TEXTUS.                                                                                                    507
+DIST. XXIX. DIVISIO TEXTUS.                                                                                                    507
 
              Filium priiicipium                est,    quia geiiuit eum. Utrum autem                                    ipse Filius habeat initium, sed quia ipse est ab ininitia-
              et   ad      Spiritum           sanctum prlncipium                            sit   Pater, quia            bili, id est             a Patre, a quo                 sunt «mnia.              Nam licet Fi-

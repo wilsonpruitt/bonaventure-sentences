@@ -6,9 +6,9 @@ distinctio: 32
 pars: 2
 type: divisio
 line_start: 13871
-line_end: 13949
-word_count_latin: 579
-transcription_status: "auto-chunked 2026-04-17"
+line_end: 13946
+word_count_latin: 568
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -16,8 +16,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                                            DIVISIO TEXTUS.
+DIVISIO TEXTUS.
 
 
 
@@ -89,13 +88,6 @@ piens sapientia                     genita,            quam                deter
  liiis       diligunt se Spiritu sancto.                                                                             tur     ille       ablativus.
              Secundo quaeritur de                          ista aha:            Pater est sapiens
  sapientia genita.
-
-
-
-
-                                                                                                   ARTICULUS 1.
-
-                                                        De locutione: Pater el Filius diligunt se Spiritu sancto.
 
 ## English
 

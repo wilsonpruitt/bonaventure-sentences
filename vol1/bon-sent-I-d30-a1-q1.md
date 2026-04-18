@@ -6,10 +6,10 @@ distinctio: 30
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 10378
-line_end: 10594
+line_start: 10380
+line_end: 10598
 word_count_latin: 1958
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,13 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-
-                                                                                                        QUAESTIO I.
+QUAESTIO I.
 
 
                                                                   Ulrum de Deo                          aliquid ex                lempore dicatur.

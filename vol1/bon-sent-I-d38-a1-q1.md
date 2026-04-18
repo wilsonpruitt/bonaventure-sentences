@@ -6,10 +6,10 @@ distinctio: 38
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 25144
-line_end: 25407
+line_start: 25147
+line_end: 25411
 word_count_latin: 2592
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,11 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-                                                                                                                                          QUAESTIO I.
+QUAESTIO I.
 
 
                                                                                            Utrum praescientia divina sit causa reri

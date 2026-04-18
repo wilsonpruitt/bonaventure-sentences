@@ -7,10 +7,10 @@ pars: 2
 articulus: 1
 quaestio: 3
 type: quaestio
-line_start: 12621
-line_end: 12833
+line_start: 12625
+line_end: 12837
 word_count_latin: 1751
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,12 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                 QUAESTIO III.
+QUAESTIO III.
 
 
                                         Quare aeternitas approprietur Patri, species Imagini, et usus Muneri.

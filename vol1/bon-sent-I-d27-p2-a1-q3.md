@@ -7,10 +7,10 @@ pars: 2
 articulus: 1
 quaestio: 3
 type: quaestio
-line_start: 6987
-line_end: 7137
+line_start: 6991
+line_end: 7141
 word_count_latin: 1166
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -18,12 +18,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                               QUAESTIO III.
+QUAESTIO III.
 
 
                                                                               Quae sit. comparatio Verbi ad sapientiam sive notitiam.

@@ -7,10 +7,10 @@ pars: 1
 articulus: 2
 quaestio: 2
 type: quaestio
-line_start: 9767
-line_end: 9933
-word_count_latin: 1501
-transcription_status: "auto-chunked 2026-04-17"
+line_start: 9771
+line_end: 9937
+word_count_latin: 1624
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -19,11 +19,7 @@ format_version: 1
 ## Latin
 
 
-
-
-
-
-                                                                                                      QUAESTIO II.
+QUAESTIO II.
 
 
                                           Utrum Pater et Filius possint dici unus spirator, vel etiam idem principiuiii.

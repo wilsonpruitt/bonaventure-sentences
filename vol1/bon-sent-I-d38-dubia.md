@@ -5,9 +5,9 @@ book: 1
 distinctio: 38
 type: dubia
 line_start: 26274
-line_end: 26372
+line_end: 26376
 word_count_latin: 940
-transcription_status: "auto-chunked 2026-04-17 (chunk-fill)"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,8 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-                                                                                               DIST.           XXXVm. DUBIA.
+DIST.           XXXVm. DUBIA.
 
 reni       ut est iii proprio genere, et lioc est imperfectio-
 nis, quia scilicet                      lunc    '    cognoscens                     egreditur             extra

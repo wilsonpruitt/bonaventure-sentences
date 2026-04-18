@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 24
 type: divisio
-line_start: 287
-line_end: 352
-word_count_latin: 472
-transcription_status: "auto-chunked 2026-04-17 (chunk-fill)"
+line_start: 300
+line_end: 354
+word_count_latin: 452
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -15,21 +15,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                               COMMENTARIUS IN DISTINCTIONEM XXIV.
-                                                               Quid nomen numerale                                in     divinis          significet.
-
-
-
-                                        Hic diligenter inquiri oportet, cum in Trinitate non sit diversitas.
-
-
-
-                                                                                            DIVTSIO TEXTUS.
+DIVTSIO TEXTUS.
 
 
             Supra excepit ' Magister hoc nomen persona a                                                          quaerit et solvit generaliter; in secunda solutionem

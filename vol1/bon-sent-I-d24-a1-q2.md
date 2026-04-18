@@ -6,10 +6,10 @@ distinctio: 24
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 683
-line_end: 816
+line_start: 687
+line_end: 820
 word_count_latin: 1152
-transcription_status: "auto-chunked 2026-04-17"
+transcription_status: "auto-chunked 2026-04-18"
 format_version: 1
 ---
 
@@ -17,12 +17,7 @@ format_version: 1
 
 ## Latin
 
-
-
-
-
-
-                                                                                                                                          QUAESTIO II.
+QUAESTIO II.
 
 
                                                 Utrum unus in divinis secundum suhstantiam, an secundum relatimmi dicatur.
