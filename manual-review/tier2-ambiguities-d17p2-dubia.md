@@ -1,0 +1,4 @@
+# d.17 p.2 dubia — Tier-2 ambiguities
+
+- **bon-sent-I-d17-p2-dubia, Dub IV Resp.**: OCR shows `Et hinc est — quia ' plenius datus est Moysi`. The stray `'` after *quia* looks like a footnote anchor, but no matching apparatus entry exists on p.319 for Dub IV (footer fns 1, 2 are Vers. 17 and Vers. 13; fn 3 is the long codices-note for d.18 cap I `dentur ' doiia`). Treated as OCR noise / stray punctuation; no `[^N]` placed. Resolution: leave as plain text.
+- **Marginal glosses bleeding inline**: OCR of Dub II shows `Atreciio di- drupliciter` and `<il-'°riicii«r''` (= marginal "Affectio dicitur quadrupliciter"); OCR of Dub III shows `soiuuo Magistri non vaiet` (= marginal "Solutio Magistri non valet"). Both are Quaracchi-edition marginal glosses, not Bonaventure's text — trimmed silently per CLAUDE.md cleanup rules.

@@ -1,0 +1,8 @@
+# d21-a2-q1 Tier-2 ambiguities
+
+- **fn 6 (p. 384 footer note 4):** OCR badly mangled — "C.fv\. V Iprmiiio Pater pro quodest Pater, qui et mox post ilirahii inliirii .viiipei: Dein ex antiquioribus mss. et ed. I siilKiiniiiiiii- /.//-s/ pr.i falsa." Reconstructed reading from context: "Cod. V [primo] Pater pro quod est Pater, qui et mox post [iterum] interim [ponit?] semper. Dein... substituimus falsi pro falsa." Substantive content (V variant; falsi/falsa swap) is solid; the middle clause is conjectural. Verify against PDF at higher dpi if precision matters.
+- **fn 12 (p. 384 footer note 11/"):** OCR "In riid. T iidiiiiipiiiiioi») Piitir iiilliim dicit distinctionem." Reconstructed as "In cod. T [adiungitur:] [Deus] Pater nullum dicit distinctionem." Reading near-certain from sense + cf. d.19 p.II q.2 ad 1.
+- **fn 13 (p. 384 footer note 12/"):** OCR "Piiiiii iml.l. lif V IV riiiiiiniiiinit. \lox cod. Y illud pro istiut." Reconstructed as "Plures codd. ut V W convenirent. Mox cod. Y illud pro istud." (W rather than IV; convenirent rather than the bare verb form.)
+- **fn 14 / body p. 385 line 1:** OCR has lacuna: "Pater enim esl [BLANK] — vel etiam alia essentia". Quaracchi printed page evidently has a half-line missing in the digital scan. Most likely supply "alia persona" or "alius a Patre"; flagged but not silently filled.
+- **Body, *est cum alio*** (CONTRA 1): retained OCR "non esse cum alio" (rather than "non esse non cum alio") since the latter is double negation; standard Quaracchi reading.
+- **a2 intro footnote anchors:** the article opener (Consequenter secundo loco...) carries no apparatus footnotes specific to itself; notes 1–3 of p. 383 footer reference content of a1-q2 (categorematice, Petrum, tamen) and are excluded per scope.

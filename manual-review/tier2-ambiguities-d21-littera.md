@@ -1,0 +1,5 @@
+# Tier-2 ambiguities — d.21 littera (2026-05-03)
+
+**bon-sent-I-d21-littera, Cap. III mid (Augustine quotation, lines ~65586–65587 OCR)**: OCR reads "non inde separalur Pater, et Spiritus sanctus, quia inseparabiles sunt". The comma after *Pater* is preserved from OCR; flagged `[?]` after *Pater* in both Latin and English because the construction (subject of *separatur*) requires both *Pater et Spiritus sanctus* together (singular verb agreeing with nearest), and the OCR comma may be spurious. Sense is unambiguous; reading retained verbatim.
+
+**Boundary note (not an in-text `[?]`):** Auto-chunk line_start=65462 included the tail of d.20 dub.VI response ("alio modo, prout est dispositio nobilitatis... ut visum est"), which is a continuation of the preceding distinction's commentary at top of printed p.377, not d.21 littera. Adjusted line_start to 65470 to begin at the actual `DISTINCTIO XXI.` heading. The excluded tail belongs to d.20 commentary chunks (already Tier-2 complete) and is not lost.

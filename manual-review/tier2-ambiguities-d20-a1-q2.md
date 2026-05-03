@@ -1,0 +1,3 @@
+# d20-a1-q2 ambiguities
+
+No ambiguities flagged. SCHOLION was OCR-garbled in raw text but recovered cleanly via vision OCR on `raw/vision/vol1/p-371.png`. All other OCR garbles in the body (e.g. `Ulrum`→`Utrum`, `infl-nitam`→`infinitam`, `oninia`→`omnia`, `Ilem`→`Item`, `Fihi`→`Filii`, `subslanliatmn`→`substantialem`, `lioc`→`hoc`, `iiaturam`→`naturam`, `ahquis`→`aliquis`, `liraitatum`→`limitatum`, `secimda`→`secunda`, `joerimam`→`personam`, `uf`→`ut`, `el`→`et`, `sunl`→`sunt`, `dil`→`dit`, `omiltunl`→`omittunt`, `posl`→`post`, `palet`→`patet`) were unambiguous and silently corrected per Tier-2 standard.

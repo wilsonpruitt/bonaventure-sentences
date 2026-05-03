@@ -1,0 +1,10 @@
+# d.18 a.1 q.6 — Tier-2 ambiguities
+
+Chunk created 2026-05-03 by main thread (auto-chunker had skipped QUAESTIO VI because the OCR garbled the header as `QU.\l-:STl()  VI.`). The footers on p.332 are heavily garbled in the IA djvu OCR and were re-read from 400dpi vision rasters of `raw/vision/vol1/p-332.png`; even at 400dpi a few sigla strings remained partly illegible.
+
+- **q.6 body, end of Epilogus**: "ut dicit Damascenus[?]" — body has a footnote-style superscript on *Damascenus*, but on p.332 there is no footer numbered at this point in the apparatus column (numbered fnn 1–14 are accounted for elsewhere). This may be an unnumbered Damascene reference (likely *De fide orth.* I, c. 9), printed without a corresponding apparatus note in this edition. Marked `[?]` in body; resolve by collating against another printing of the Quaracchi.
+- **fn 1 (p.332)**: "Ita antiquiores codd. cum ed. 1, dum Vat. cum codd. [?] *habuimus*." — the codex sigla after "cum codd." are illegible at 400dpi (the line wraps across the column gutter and the page edge clips the first siglum). Read more carefully against a higher-DPI scan to recover the omitted sigla list.
+- **fn 3 (p.332)**: "cf. Alex. loc. cit. ad [?]" — the trailing reference number after "ad" is illegible.
+- **Conclusio frontmatter typography**: the OCR shows the conclusion text rendered with broken italic markup `nirn.s rrl uu.sirr` etc.; reconstructed conservatively from the printed conclusion as *meus vel noster cum copula*. Verify that the italic boundaries match the printed conclusion exactly.
+- **Body fn placement (fn 4 + fn 5)**: both attach to *Filius datus est nobis* (fn 5 is the bare Isaiah 9:6 citation, fn 4 is the variant gloss). Placed adjacent in body in that order; printed page may have only one combined superscript — to verify against a clean printing.
+- **Scholion II citations**: the bibliographic chain (Alex. Hal., S. Thom., B. Albert., Petr. a Tar., etc.) was readable but the running heads "S." vs "Summa" abbreviation expansions are conjectural. Citations preserved as printed.
