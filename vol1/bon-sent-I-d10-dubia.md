@@ -4,678 +4,277 @@ volume: 1
 book: 1
 distinctio: 10
 type: dubia
-title: "I Sent., d. 10, dubia"
-line_start: 39886
-line_end: 41094
-word_count_latin: 7173
+title_la: "Dubia circa litteram Magistri"
+title_en: "Doubts concerning the text of the Master"
+printed_pages: [205, 206, 207]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 205–207"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 39891–40231; original skeleton was clipped at line 40190 missing Dub V continuation + Dub VI), full apparatus from raw OCR (31 entries across 3 pages), full English (2026-05-02)"
+format_version: 1
 ---
 
 # I Sent., d. 10, dubia
+## *Doubts concerning the text of the Master*
 
-### Latin
+---
 
-DIST. X. DUBIA.
+## Latin
 
-DUBIV CIRCV LITTKKAM MMIISTRI.
+<!-- page 205 -->
 
-DUB.
+## *Dubia circa litteram Magistri*
 
-DUB. II.
+### Dub. I
 
-In iiartt; isla sunt dul^itationes circa lilteram et
+In parte ista sunt dubitationes circa litteram, et primum de hoc quod dicit, quod *Spiritus sanctus est amor Patris sive caritas sive dilectio*. Quaeritur ergo, utrum *caritas* et *dilectio* differant; et quod sic, videtur per Isidorum[^1] dicentem: «*Amor* est rationalium et irrationalium, *dilectio* rationalium tantum». Sed contra: Dionysius *de Divinis Nominibus*, capite quarto[^2]: «Mihi videntur Theologi commune quid dicere *dilectionis* et *amoris* nomine»: et ibidem[^3] reprehendit distinguentes, dicens, quod faciunt vim in levibus sonis, quasi nos non possimus *quatuor* per *bis duo*, et *patriam* per *natale solum* significare.
 
-prinium de hoc quod dicit, quod Spiritus sanclus
+**Respondeo:** Aliqui voluerunt dicere, quod differunt, quia *dilectio* dicitur illa proprie, quae est ex voluntate ordinata, sed *amor* est affectio libidinosa. Sed haec distinctio est contra Dionysium[^4] et contra Augustinum *super Ioannem*[^5] et contra canonem sacrae Scripturae, quia Dominus primo quaesivit a Petro: «*Simon Ioannis, diligis me?*» et postea dixit: «*amas me?*»; et ita pro eodem accipiuntur: et hanc differentiam[^6] reprehendit Dionysius.
 
-est amor Patris sire caritas sive dilcctio. Quae-
+Potest tamen nihilominus aliqua differentia assignari. Quamvis enim de una et eadem possint dici affectione, tamen alia et alia ratione. *Amor* enim dicit affectus adhaesionem respectu amati; unde Dionysius[^7]: «*Amorem* unitivum dicimus». *Dilectio* vero ultra hoc addit electionem: unde *dilectio* ex *diversis electio*; unde Canticorum quinto[^8]: «*Dilectus meus electus ex millibus*». *Caritas* autem ultra illa addit magnam appretiationem. *Carum* enim dicitur illud quod magni pretii aestimatur, secundum quod Apostolus in epistolis suis vocat fideles *carissimos*, primae ad Corinthios quarto[^9].
 
-ritur ergo, utrum carilas et dilectio differant; et quod
+### Dub. II
 
-' sic, videtur per Isidorum ' dicentem: Amor est ra-
+Item dubitatur de hoc quod dicit: «*Proprie verbum Dei etiam Dei sapientia dicitur*»; quia aut accipitur proprie, quia soli convenit, aut proprie, quia appropriate: quia si soli, hoc falsum est, quia *sapientia* nullo modo dicit proprietatem personalem; si proprie, quia appropriate, hoc nihil facit ad propositum, quia Magister vult inquirere proprietatem Spiritus sancti, non appropriatum. Et iterum, *caritas* videtur magis appropriari Patri, secundum quod dicitur in illa prosa: «*Caritas Pater est*»[^10]. Item, hoc videtur per Richardum[^11], quia «amor *gratuitus* est in Patre, in Spiritu sancto *debitus*, in Filio ex utroque permixtus»: ergo cum *caritas* dicat amorem gratuitum, debet ergo appropriari Patri.
 
-tionalium et irrationalium, dilectio rationalium tan-
+**Respondeo:** Dicendum, quod non est omnimoda similitudo[^12], sed in hoc est similitudo: nam commune potest appropriari, manente unitate vocis vel significationis. Potest similiter aliquod nomen simul dici per proprietatem et per essentiam, manente unitate vocis et significationis, et tamen est de se commune; et tale est hoc nomen *caritas*.
 
+Aliter potest dici, quod *caritas* est commune et proprium et appropriatum; et Augustinus[^13] primo ostendit, quod est appropriatum per similitudinem ad sapientiam, et post ostendit, quod est vere[^14] proprium, infra: «*Nunc, quod incepimus ostendere*» etc. Unde ex hac auctoritate non habetur, quod *caritas* sit proprium, sed solum quod appropriatum. Sed tamen ex aliis verbis Augustini habetur, quod *caritas* non solum est appropriatum, sed etiam proprie proprium Spiritus sancti.
 
-quid dicere dilectionis et amoris nomine » : et ibidem "
+Ad illud quod obiicitur, quod *caritas* appropriatur Patri: dicendum, quod *caritas* habet duplicem
 
-reprehendit distinguentes dicens, quod faciunt vim
+<!-- page 206 -->
 
-in levibus sonis, quasi nos non possimus quatuor per
+comparationem ad virtutes alias. Comparatur enim ut *mater*, ut dicit Ambrosius[^15]; comparatur ut *vinculum*, ut dicit Apostolus ad Colossenses tertio[^16]: «*Caritas est vinculum perfectionis*». Ratione primi appropriatur Patri, ratione secundi Spiritui sancto.
 
-bis duo, et patriam per natale solum signiticare.
+Ad illud quod obiicitur de Richardo, dicendum, quod *gratuitum* non dicit proprietatem amoris sive amandi, sed proprietatem personae, quae dat et non recipit.
 
-Respondeo: Aliqui voluerunt dicere, quod diffe-
+### Dub. III
 
-priraaopi- ruut, quia dilectio dicitur illa proprie, quae est ex
+Item quaeritur de hoc quod dicit, quod *Spiritus sanctus est dilectio, qua Pater et Filius se invicem et nos diligunt*. Quaeritur, utrum Pater et Filius diligant nos Spiritu sancto. Utrum enim diligant se Spiritu sancto, quaeretur[^17] distinctione trigesima secunda, ubi istam quaestionem specialiter movet. Sed prima videtur omnino falsa et impropria. Cum enim dicitur: «*Pater et Filius diligunt nos*» etc., constat quod verbum *diligendi* tenetur essentialiter; ergo si diligant[^18] Spiritu sancto, sunt Spiritus sanctus. Et iterum, dicit Augustinus[^19], quod haec nullo modo conceditur: «*Pater diligit se Spiritu sancto*», quia *diligere* tenetur essentialiter: ergo similiter in proposito.
 
-voluntate ordinata, sed anior est affectio libidinosa.
+**Respondeo:** Quidam dicunt, quod ablativus ille exponitur per hanc praepositionem *per* cum accusativo, id est *per Spiritum sanctum*; et regula[^20] est, quod haec praepositio *per* cum verbis transitivis dicit subauctoritatem, cum absolutis vero auctoritatem. Unde cum *diligere* sit transitivum, sensus est, quod Pater et Filius diligunt nos *per* Spiritum sanctum, quasi diceret: *Pater operatur per Filium*. — Sed haec expositio non videtur conveniens, quia similiter posset[^21] dici: *Pater et Filius puniunt sive odiunt nos Spiritu sancto*; quod non vult dicere Augustinus.
 
-Rsprobaiur. Sed haec distinctio est contra Dionysium * et contra
+Propterea notandum, quod *diligere* aliquando tenetur pure essentialiter, ut cum dicitur: *Pater diligit se*[^22]; aliquando pure notionaliter, ut cum dicitur: *Pater et Filius diligunt se Spiritu sancto*, sicut patebit[^23]; aliquando partim essentialiter, partim notionaliter, sicut cum dicitur: *diligunt nos Spiritu sancto*; et hoc[^24] patet, quia idem est Patrem et Filium *diligere* nos Spiritu sancto, quod Spiritum sanctum nobis *mittere* sive *inspirare*. Mittere autem sive inspirare importat actum notionalem et essentialem, quia sensus est, quod *Spiritum producunt* et *donum eius nobis conferunt*; unde dicit simul Spiritus sancti productionem et gratiae collationem. Et quamvis respectu actus essentialis non recipiatur habitudo ablativi, recipitur tamen ratione notionis, sicut et hic: *Pater dicit se suo Verbo, dicit etiam creaturas Verbo*; simili modo intelligendum est in proposito.
 
-Augustinum super loannem "^ et contra canonem sa-
+### Dub. IV
 
-crae Scripturae, quia Dominus primo quaesivit a Pe-
+Item quaeritur de hoc quod dicit: «*Sive enim sit unitas amborum sive sanctitas*»; quid dicatur per hoc nomen *unitas*; quia aut *unitas* dicit unitatem essentialem, aut notionalem, aut personalem. Non essentialem, quia tunc non esset amborum, sed trium; non notionalem, quia Spiritus sanctus non est communis spiratio; non personalem, quia Pater et Filius non sunt unum in persona. Item quaeritur, quo modo haec[^25] distinguantur, *unitas*, *sanctitas*, *caritas*.
 
-tro: Simon loannis diligis me? et postea dixit: amas
+**Respondeo:** Dicendum, quod *unitas* personaliter tenetur. Sed attendendum, quod *unitas* aliquorum dicitur dupliciter: aut *qua* aliqui sunt unum, et sic Patris et Filii non est unitas personalis; aut *qua* aliqui sunt uniti, et sic Pater et Filius unica persona uniuntur, sicut persona Spiritus sancti, quae est amor et vinculum nectens[^26].
 
-me? et ita pro eodem accipiuntur: et hanc differen-
+Ad illud quod quaeritur, quomodo differunt illa tria; dicendum, quod unum[^27] addit supra alterum. Nam *unitas* dicit conditionem omnis amoris, quoniam omnis amor est vis unitiva; *sanctitas* dicit conditionem amoris casti contra libidinosum, qui non est purus; *caritas* dicit conditionem amoris praecipui: ideo enim *caritas* dicitur, quia est amor inaestimabiliter habens carum amatum.
 
-tiam ° reprehendit Dionysius.
+### Dub. V
 
-Potest tamen nihilominus aliqua differentia assiopinio au- gnari. Quamvis enim de una et eadem possint dici
-affectione, tamen alia et alia ratione. Amor enim dicit affectus adhaesionem respectu amati; unde Dio-
-nysius ' : « Amorem unitivum dicimus » . Dilectio vero
-ultra hoc addit electionem: unde dilectio ex diversis
-electio : unde Canticorum quinto ' : Ditectus meus
-electus ex millibus. Caritas autem ultra illa addit
-magnam appretiationem. Carum enim dicitur illud
-quod magni pretii aestimatur, secundum quod Apostolus in epistolis tuis vocat pdeles carissimos, pri-
-mae ad Corinthios quarto^
+Item quaeritur de hoc quod dicit: «*Si uterque non participatione, sed essentia sua... servantes unitatem spiritus*». Videtur enim non bene dicere, quia *servare unitatem spiritus* est *producere Spiritum sanctum*: ergo secundum hoc Pater et Filius sua essentia Spiritum sanctum producunt, et ita videtur
 
-Item dubitatur de hoc quod dicit: Proprie vtrbum Dei etiam Dei sapientia dicitur ; quia aut ac-
-cipitur proprie, quia soli convenit, aut proprie,
-quia appropriate : quia sisoli, hoc falsum est, quia
-sapientia nullo modo dicit proprietatem personalem ;
-si proprie , quia appropriate, hoc nihil facit ad propositum, quia Magister vult inquirere proprietatem
-Spiritus saiKti, non appropriatum. Et iterum, caritas
-videtur magis appropriari Patri, secundum quod dicitur in illa prosa, « caritas Pater esl '" » : Item, hoc
-videtur per Richardum ", quia «amor gratuitus est in
-Patre, in Spiritu sancto debitus, in Filio ex utroque
-permixtus » : ergo cum caritas dicat amorem gratuitum, debet ergo appropriari Patri.
+<!-- page 207 -->
 
-Respondeo: Dicendimi, quod non est omnimoda soiuiio i.
-similitudo '-, sed in hoc est similitudo: nam commune potest appropriari, manente unitate vocis vel
-significationis. Potest similiter aliquod nomen simul
-dici per proprietatem. el per essentiam , manente unitate vocis et significationis, et tamen est de se com-
-mune; et tale est hoc nomen caritas.
+essentia[^28] spirare. Item videtur etiam falsum quod dicitur, *non participatione*, quia Pater et Filius participatione spirationis[^29] servant unitatem.
 
-Aliter potest dici, quod caritas est commune et soiuiio ■>.
-proprium et appropriatum ; et Augustinus '^ primo
-ostendit, quod est appropriatum per simililudinem
-ad sapientiam, et post ostendit, quod est vere " proprium, infra: Nunc, quod incepimus ostendere eic.
-Unde ex hac auctoritale non habetur , quod caritas
-sit proprium, sed solum quod appropriatum. Sed
-tamen ex aliis verbis Augustini habetur , quod caritas non solum est appropriatum , sed etiam proprie
-proprium Spiritus sancti.
+**Respondeo:** Dicendum, quod Augustinus[^30] vult ostendere, duplicem modum unitatis esse inter Patrem et Filium, qui est inter membra Christi, scilicet *naturae* et *voluntatis*; sed differenter, quia in nobis est unitas naturae per participationem unius communis essentiae, sed non sumus ipsa essentia[^31]. Pater vero et Filius non participant essentiam quasi diversum, immo sunt ipsa essentia. Similiter in nobis est conformitas voluntatis per donum Dei, quod unit nos; sed Pater et Filius uniuntur non dono accepto ab alio, sed Spiritu proprio; et sic patet responsio.
 
-Ad illud quod obiicitur, quod caritas appropriatur Patri: dicendum, quod caritas habet duplicem
+### Dub. VI
 
+Item quaeritur de ratione Augustini: «*Quia enim communis est ambobus, id vocatur ipse proprie, quod ambo communiter*»; ergo secundum hoc pari ratione Spiritus sanctus dicitur *Deus* proprie, cum *Deus* sit commune ambobus.
 
-quia loco quod.
+**Respondeo:** Dicendum, quod aequivocatio est in *communitate*. Nam Augustinus non vocat *commune* quod est in pluribus et de pluribus, sed quod *a* pluribus; et ita *commune* dicitur magis a *communione*, quam a *communitate*, ut fiat vis in verbo, sicut fit inter *unionem* et *unitatem*. Et quoniam *caritas* non tantum dicit communitatem, quia in pluribus, sed communionem per unitatem distinctorum: ideo quamvis dicatur essentialiter, potest tamen nihilominus dici personaliter.
 
-12 Nenipe inter sapientiam et caritatem quoad appropriationem et sensum proprii , prout patet paulo infra ex secunda
-solulione.
+---
 
-13 Vide lit. Magistri, c. 2, et pro sequentibus c. 3.
+## English
 
+<!-- page 205 -->
 
-quod gratuitum non dicit proprietatem amoris sive
-amandi, sed proprietatem personae, quae dat et non
-recipit.
+## *Doubts concerning the text of the Master*
 
-sive inspirare importat actum notionalem et essentialem, quia sensus est, quod Spiritum producunt et
-donum eius nobis conferunt; unde dicit simul Spiritus sancti productionem et gratiae collationem. Et
-quamvis respectu actus essentialis non recipiatur
-habitudo ablativi, recipitur tamen ratione notionis,
-sicut et hic: Pater dicit se suo Verbo, dicit etiam
-creaturas Verbo; siinili modo intelligendum est in
-proposito.
-
-DUB. III.
-
-DiiB. IV.
-
-Item quaeritur de hoc quod dicit, quod Spirilus saiictus est dilectio, qua Pater et Filius se
-invicem et nos diligunt. Quaeritur, utrum Pater
-et Filius diligant nos Spiritu sancto. Utrum enim diligant se Spirilus sancto, quaeretur ' distinctione tri-
-gesima secunda, ubi istam quaeslionem specialiter
-movet. Sed prima videtur omnino falsa et impropria.
-Cum enim dicitiu-: Pater et Filius diligunt nos etc,
-constat quod verbum diligendi tenetur essentialiter ;
-ergo si diligant^ Spiritu sancto, sunt Spiritus sanctus. Et iterum,, dicit Augustinus °, quod haec nullo
-modo conceditur : Pater diligit se Spiritu sancto ,
-quia diligere tenetur essentialiter: ergo similiter in
-proposito.
-
-Respondeo: (^Mw/am dicunt, quod ablativus ille
-
-1"»- exponitur per hanc praepositionem per cum accusativo, id est per Spiritum sanctum; et regula ^ est,
-quod haec praepositio per cum verbis transitivis dicit subauctoritatem, cum absolutis vero auctorita-
-tem. Unde cum diligere sit transitivum, sensus est,
-quod Pater et Filius diligunt nos per Spiritum sanctum,
-quasi diceret: Pater operatur per Filium. — Sed
-
-"i"r. haec expositio non videtur conveniens , quia similiter
-posset' dici: Pater et Filius puniunt sive odiunt nos
-Spiritu sancto; quod non vult dicere Augustinus.
-Propterea notandum, quod diligere aliquando
-
-■re 'e- tenetur pwre essentialiter, ut cum dicitur: Pater diligit se'; aliquando pitre notionaliter, ut cum dicilur:
-Pater et Filius diligunt se Spiritu sancto, sicut patebit ° ; aliquando partim essentialiter , partim no-
-tionaliter, sicut cum dicitur: diligunt nos Spiritu
-sancto; et hoc '" patet, quia idem est Patrem et
-Filium diligere nos Spiritu sancto, quod Spiritum
-sanctum nobis mittere sive inspirare. Mittere autem
-
-Item quaeritur de hoc quod dicit: Sive enim sit
-unitas amborum sive sanctitds; quid dicatur per
-hoc nomen unitas; quia aut unitas dicit unitateni
-essentialem, aninotionalem , aut personalcm. Non
-essentialem, quia tunc non esset amborum, sed
-trium; non notionalem, quia Spiritus sanctus non
-est communis spiratio; non personalem, quia Pater
-et Filius non sunt unum in persona. Item quaeritur, qumsiio
-quo modo haec " distinguantur, unitas, sanctitas,
-caritas.
-
-Respondeo: Dicendum, quod unitas persoiialiter
-tenetur. Sed attendendum, quod unitas aliquorum di- nupici
-citur dupliciter: aut qua aliqui sunt unum. et sic
-Patris et Filii non est unitas personalis; aul qua
-aliqui sunt uniti , et sic Pater et Filius unica persona
-uniuntur, sicut persona Spiritus saneti, quae est amor
-et vinculum nectens ".
-
-Ad illud quod quaeritur, quomodo differunt illas"iuiici.<i
-tria; dicendum, quod unum '^ addit supra alterum.
-Nam unitas dicit conditionem omnis amoris, quoniam ornnis amor est vis unitiva; sanctitas dicit con-
-ditionem amoris casti contra libidinosum, qui non
-est purus; caritas dicit conditionem amoris praecipui: ideo enim caritas dicitur, quia est amor inaesti-
-mabiliter habens carum amatum.
-
-DuB. V.
-
-Item quaeritur de hoc quod dicit: Sv uterque
-non participatione, sed essentia sua... servantes unitatem spiritus. Videtur enim non bene dicere, quia
-servare unitatem spiritus est producere Spiritum
-sanctum: ergo secundum hoc Pater et Filius sua
-essentia Spiritum sanctum producunt , et ita videlur
-
-' Comment. in I. Epist. ad Cor. c. 8 , 2 : Dum cnim caritalem , quae maler omnium bonorum esl, non sectantur , non
-sciunt , sicut oportet. Ceterum hic Comment. non est genuinus.
-De auctore (Ambrosiaster vulgo vocatur) vide infra d. XIX. c. 4,
-nota ad textum Magistri.
-
-
-DISTINCTIO XI.
-
-
-«ssentia ' spirare. Ilem videtiir etiam falsum quod
-dicitur, non participatione, quia Pater et Filius participatione spirationis " servant unitatem.
-
-Respondeo: Dicendum, quod Augustinus ' vult
-ostendere, duplicem modum unilatis esse inter Patrem
-et Filium, qui est inter membra Christi, scilicet «aturae et voluntatis; sed differenter, quia in nobis
-est unitas naturae pei' participationem unius communis essentiae, sed non sumus ipsa essentia*. Pater
-vero et Filius non participant essentiam quasi diversum, immo sunt ipsa essentia. Similiter in nobis est
-conformitas volunlatis per donuni Dei, quod unit
-Dos; sed Pater et Filius uniuntur non dono accepto
-ab alio, sed Spiritu proprio; et sic patet responsio ^
-DuB. VI.
-
-Item quaeritur de ratione Augustini: Quia enim
-
-; communis est ambohus , id vocatur ipse proprie,
-
-j quod ambo communiter; ergo secundum hoc pari
-
-! ratione Spiritus sanctus dicitur Deus proprie, cum
-
-
-DISTINGTIO XI.
-
-ijuod Spiritus scmclus procedil a Palre et Filio, quem
-tamen Graeci a Filio procedere diffitenlur.
-
-Hic dicendum est , Spiritum sanctum esse a Palre
-et Filio et procedere a Patre el Filio, quod multi
-haeretici negaveruut. Quod autem de utroque procedat,
-«multis divinorimi eloquiorum testimoniis comprobatur ' » . Dicit enim Apostolus : Misit Deus Spirilum Filii
-sui in corda nostra. Ecce hic dicitnr Spiritus Filii.
-Et alibi^: Qui aulem Spiritum Christinon habet, hic
-non est eius. Ipse etiam Filius de Spiritu sancto dicit
-in Evangelio'': Quem ego miUam vobis a Patre. Patris
-autem Spiritus dictus est, ubi legitur^: Si Spiritus
-eius, qui suscitavit leszim a morluis, habitat in vobis.
-Et ipse Christus dicit ^: Non mim vos eslis, qui loquimini, sed Spiritiis Patris vestri, qui loquitur. Et in
-alio loco " : Quem miltet Paler in nomine meo. Et alibi
-ipse FiJius de Spiritu sancto ait: De Patre procedit.
-His et aliis pluribus auctoritatibus ostenditur, quod
-Spiritus sanctus a Patre et Filio procedit.
-
-Graeci tamen dicunt , Spiriluin sanctum procedere
-
-
-quod secundum traditionem praedictorura Conciliorum
-Leo tertius Roinae trauscriptum in tabula argentea
-post altare beati Pauli posita posteris reliquit, pro
-amore, ut ipse ait, et cautela fldei orthodoxae. In quo
-quidem Symbolo in processione Spiritus solus conimemoratur Pater his verbis : « Et in Spiritum sanctum ,
-Dominum el viviflcatprem , ex Patre procedentem , cum
-Patre et Filio Qoadorandum et gloriflcandum^» etc.
-Illud est Syrabolum, quod in Missa cantatur, edilum
-
-
-quuntur usque ad: lllud est Symbolum.
-
-
-quosdam, quibus scribebat, sicut ad Thessalonicenses,
-nl supplerelj qmw il/onn/i fidei deerant. Sed qui supplet,
-quod minus crat addii, non quod inerat tollit. Qui aulem
-praetergreditur lidei rcgulam, non accedit iu via, sed
-recedit a via». Ad illud autem , quod de Evangelio
-opponuut , respondemus ita : quia cum dicat in eo
-Veritas, Spiritum sanclum a Patre procedere , non
-addit solo, et ideo etiam a se procedere non negat;
-sed ideo Patrem tantum nominat, quia ad eum solet
-referre etiam quod ipsius est, quia ab illo habet.
-
-Cap. II.
-
-De convenientia Lalinorum et Graecorum in sensu,
-et differentia in verbis.
-
-Sciendum est tamen, quod Graeci confitentur, Spiritum sanctum esse Filii , sicut et Patris , quia et Apo-
-stolus dicit" Spiritum Filii, et Veritas in Evangelio
-Spiritum veritatis. Sed cum non sit aliud Spiritum
-sanclum esse Patris vel Filii , quam esse a Patre et Filio, etiam in hoc in eandem nobiscum fldei sententiam
-convenire videntur, licet in verbis dissentiant.
-
-Unde eliam quidam eorum calholici doctores, intelligentes , unam eandemque fore senlentiam praedi- piirum.
-ctorum verborum, quibus dicitur Spiritus sanctus
-pfocedere a Filio liiesseFilii. professi sunt, Spiritum
-sanctum etiam a Filio procedere. Unde Athanasius in
-Symbolo lidei ' : « Spiritus sanctus a Patre et Filio ,
-non factus nec creatus nec genitus, sed procedens».
-Ecce Spiritum sanctuni aperle dixit procedere a Patre
-et Filio. Didymus etiam, eorum maxinuis Doctor, in
-libro de Spiritu sancto ' Spiritum sanctum a Filio procedere dicit : « Salvator , inquit , qui el Veritas , dicit :
-Non enim loquetur a semetipso, hoc est, non sine me
-et sine meo et Patris arbitrio, quia inseparabilis est
-a me et a Patris voluntate, quia ex se non est, sed
-ex Patre et me est. Hoc enim ipsum , quod subsistil et
-loquitur, a Patre et a me illi est». Item°: «Spiritus
-sanctus, qui est Spirilus verilalis Spiritusque sapientiae, non potest audire a Filio loquente quae nescit,
-cum hoc ipsuni sit, quod profertur a Filio, id est,
-procedens DeusdeDeo, Spiritus Veritatis procedens a
-Verilate, consolator manans ex consolatore » . Item
-Cyrillus episcopus in Epistola Nestorio directa ait ' :
-«Spiritus intelligitur per se, secundum quod Spiritus
-est, et non Filius; sed tamen non est alienus ab eo.
-Spiritus enim Veritatis nominatur et profluit ab eo ,
-sicul ex Deo Patre». loannes quoque Chrysostomus in
-homilia quadam de Expositione Syniboli ° sic ait: «Iste
-est Spiritus sanctus procedens de Patre et Filio, qui
-dividii dona propria, proiit vult». Idem in alia homilia : « Credendum est , Spiritum sanctum Patris esse
-et Filii. Istum Spiritum sanctum dicimus Patri et Filio
-coaequalem et procedentem de Patre et Filio. Hoc credite , ne colloquia mala corrumpant bonos mores ' » .
-Ecce a docloribus Graecorum aperta habemus testimonia , quibus Spirilus sanctus a Patre et Filio proce-
-dere ostenditur. Omnis ergo lingim confiteatur, Spiritum sanctum procedere a Patre et Filio.
-
-' Gal. 1 , 8. et 9. — Sed Vulgata cum AugusUno in loco
-mox sequenli non legit aliud , sed v. 8. praeter quam qtwd
-et V. 9. praeter id quod ; Augustinus praeter quod.
-
-
-quentis propositionis codd. BCDE omittunt in antc verbis.
-
-* Symbolum : Quicumque, sub nomine Athanasii notissimum.
-— Hic Vat. sola praetermitlit nec genitus post creatus.
-
-= Num. U. Potrolog. Graec. tom. 39. col. 1063. — Vat.
-cum plerisque edd. contra mss. et originale ante Veritas legit
-est pro et. Adiunximus dicit post Veritas, auctoritate cod. B et
-originalis , ac postulante cxjntexlu. — Textus Scripturac est loan.
-<6, t3. — Immediate post Vat. etedd. 4, 9 inseparabititer pvo
-inseparabilis , quod etiam habct Didymus; tum prosequitur : inseparabilis a mea pro me.
-
-
-DIST. XI. ART. UNICUS QUAEST. I.
-
-COMMENTARIUS IN DISTINCTIONEM XI.
-
-De aetema processione Spirilus sancti quantum ad principiuin , a qtio procedit.
-[iic dicendum est, Spiritum sanctwm esse a Patre et Filio.
-
-DIVISIO TEXTUS.
-
-Supra egit Magister de processione Spiritus sancti in eomparatione ad ipsum procedentem ; haec
-est secunda pars, in qua agit' de eadem in comparatione ad principium a quo. Et dividitur Iiaec
-pars in duas. In prima osteudit, quod Spiritus sanctus procedit a Patre et Filio. In secuiida determi-
-nat, qualiter procedat ab eis, infra distinctione duodecima. Jtem quaeritiir, cum Spiritus sanctus pro-
-cedat a Patre et Filio.
-
-Prima iterum ^ pars habet quatuor. In prima
-
-ostendit Magister per multas auctoritates , quod procedit a Patre et Filio. In secunda vero e contra per
-rationes Graecorum ostendit , quod a solo Patre , ibi :
-Graeci tamen dicunt, Spirittmi sanetum tantum
-procedere a Patre. In tertia auctoritates et rationes
-Graecorum solvit et determinat, ibi: Nos autem
-illa verba ita determinamus. In quarta ostendit,
-confessionem fidei Graecorum implicite continere nostram ', ibi : Sciendum tamen, quod Graeci confi-
-tentur.
-
-TRACTATIO QUAESTIONUM.
-
-Ad intelligentiam huius partis duo principaliter
-quaerunlur.
-
-Primo quaeritur de processione Spiritus sancti
-quantum ad principium, et quaeritur, utrum Spiritus
-sanctus prccedat a Patre et Pilio.
-
-Secundo, utrum procedat a Patre et Filio, in
-quantum sunt unum, aut in quantum sunt diffe-
-
-ARTICULUS UNICUS.
-
-De principio processionis Spiritus sancti.
-
-QUAESTIO I.
-Utruni Spiritus sanctus a Patre et a Filio procedat.
-
-Quod autem solum a Patre procedat, probant
-Graeci ratione et auctoritate.
-
-1. Ratione sic: emanatio Spiritus sancti est pro-
-• cessio; sed processio est molus ab uno in alium: ergo
-
-si recte est processio in divinis, Spiritus sanctus aeterna processione procedit ab uno in alium. Si ergo
-procedit a Filio, aul procedit in Patrem, aut in aliam
-personam; non in Patrem, quia Pater nihil accipit a
-Filio, nec in aliam personam, cum non sit dare quartam: ergo non procedit a Filio.
-
-2. Item, alia ratione sic: quia Spiritus sanctus
-procedit per modum spirationis, sicut Verbum per
-
-modum locutionis; sed ita videmus in creaturis, quod
-exitus locutionis non praecedit spirationem, nec egressus spiritus est a verbo : ergo nec in divinis Spiritus
-sanctus^ a Filio.
-
-3. Item, Spiritus sanctus, ut omnes dicunt, procedit per modum nexus, sed nexus tenet rationem
-medii; sed si procederet a Patre et ' Filio, teneret
-rationem tertii et extremi , non medii : ergo non procedit a Patre et Filio , sed potius a Patre in Filium.
-
-4. Item, Spiritus sanctus procedit a Patre aut
-suflicienter, aut non. Si non sufTicienter et plene, ergo
-Pater imperfectus esf^ in spirando; si sufficienter.
-
-• Scquimur plures codd. ut F H T W etc. cum ed.
-nendo agil loco agitur.
-
-
-6. Item , in quatuor Conciliis apud Graecos celebratis , ubi a Patribus fides sufficienter est explicata,
-dicitur, quod Spirilus sanctus procedat a Patre, et
-nihil dicitur de Filio: ergo si Deus sufficienter itlis
-fidem revelavit: ergo etc.
-
-7. Iteni, hunc errorem munire^ nituntur per Doctores, qui non solum apud eos. sed etiam apud nos
-celebres sunt.
-
-Et primo per Gregorium Nazianzenum °, qui dicitur Theologus: « Filius et Spiritus sanctus, geminus
-Patris radius, usque ad nos miserunt claritatem suam » :
-ergo exeunt a Patre, ut duo radii.
-
-8. Et Dionysius etiam dicit in libro de Divinis
-Nominibus ° : « Es immateriali et impartibili bono
-cordialia exorta sunt lu mina » , — loquitur de Patre —
-ergo exeunt ut lumina; sed taha sic se habent, quod
-unum non est ab altero: ergo etc.
-
-9. Item , Damascenus ' expressius : « Spiritum
-sanctum ex Patre dicimus et Spiritum Patris nominamus; Spiritum vero sanctum ex Filio non dicimus,
-et tamen Spiritum Filii nominamus».
-
-10. Item, si Latini hoc cognoverunt, cum* Graeci
-non cognoverunt, aut fuit hoc Scripturae auctoritate, aut praedicatione, aut ratione, aut revelatione.
-Scripturae auctoritate non ; quia eandem per omnia
-Scripturam habent Graeci; similiter mcpraedicatioiw,
-quia idem doctor Graecorum, qui est et Lalinorum,
-
-qui eis fidem perfecte tradidit, scilicel Paulus Apostolus; si ratione, sed ratione non suflicit aliquid
-affu'mare in his quae sunt fidei. Unde Dionysius ' et
-Damascenus dicunt, quod nihil est dicendum nec
-cogitandum de illa summa Trinitate praeter id quod
-nos sacra eloquia docuerunt, et Hieronymus"': «Nil
-credatur uiihi, nisi confirmavero per novum et velus
-Teslamentum » . Si revelatione, quaeritur, cui fuerit
-revelatum et cum Deus velit omnes homines salvos
-fieri, quare hoc non revelavit" Graecis? Et iterum,
-quoinodo constat quod hoc fuerit a Deo?
-
-CoNTBABiuM '- 1. arguitur rafione ostensiva sic:Fundamen(a.
-Spiritus sanctus secundum omnes fideles procedit ut
-donum, sicut ex multis locis Scripturae probatur ; et
-iterum, omnes tam Graeci quam Latini dicunt, Spiritum sanctum a Filio nobis donari: ergo omnes con-
-cedunt, procedere ab utroque, cum non detur, nisi
-a quo procedit.
-
-2. Item, Spiritus sanclus secundum omnes, et
-sicut supra ostensum est", procedit ut amor; sed
-amare non tantum est Patris, sed etiam Filii, unde
-et per omnia amat Filius, sicut et Pater: ergo si a
-Patre amante amor procedit, eadem ratione a Filio.
-
-3. Item, Spiritus sanctus secundum omnes procedit ut nexus"; sed perfectior nexus est, qui ab
-extremo utroque procedit, quam qui ab altero: ergo
-si Spiritus sanctus est nexus perfectissimus , non solum a Patre procedit, sed etiam a Filio.
-
-4. Item, hoc idem ostenditur ratione ducente
-ad impossibile sic: omnis distinctio personarum in
-divinis attenditur secundum relationem et originem:
-ergo si Spiritus sanctus non procedit a Filio, nec
-e converso, nulla est ibi origo: ergo nulla est ibi
-mutua relatio, ergo nec distinclio.
-
-5. Item , maior germanitas est inter duos, quando unus procedit ab altero, et ambo a tertio, quam
-si unus nihil habeat ab altero; haec est per se nota:
-ergo si Spiritus sanctus non est a Filio, nec e converso,
-non '° est perfecta unio: ergo nec summa nec perfecta
-beatitudo.
-
-6. Item, perfectior est expressio, quando gene-
-
-
-quae et a S. Tlioni. (tiic a. I .) et a Richard. (hic q. 1 .) allegantur :
-« Rursum a Scripturis sacris accepimus , Patrem quidem esse
-originem in divinis , lesum vero et Spiritum sanctum , quasi
-Dei prolem , vel , si dictu fas sit , quasi germina divina , floresve ac lumina supersubstantialia existere. » Sed textus noster
-in versionibus Scoti et Corderii verbotenus non legitur.
-
-' Libr. I. de Fide orthod. c. f*.
-
-I * Fide multorum
-
-cum loco tamen.
-I s De Div. Noni. c. 'I. circa princ,
-
-\ E G III K M 0 T V Z posuimus
-Damasc. , l. de Fide
-
-orthod. c. 2.
-
-1" Ilaec verba a Scholasticis communiter attribuuntur S. Hieronymo , in quo tantum sententia similis in Epist. 41 . ad Marcel-
-lam legitur. Sunt autem S. Cyrilli Hierosol. Cath. FV. de Decem
-Dogmat. n. 17. (Palrnlog. Graec. tom. 33. col. 478.) dicentis :
-« Ne mihi quidem ista proferenti ultro credas, nisi de divinis Scripturis eorum quae tibi annuntio demonstrationem acceperis » .
-
-
-DIST. XI. ART. UNICUS QUAEST. I.
-
-rans communicat genito non tantum substantiam, sed
-eliam actum, qui naturae geniti non repugnat; sed
-actus spirandi non repugnal Filio, quia nuUum ex
-hoc inconveniens sequitur, si spiret: ergo si Pater
-hunc actum ' ei non communicat, Filius non est perfecta imago.
-
-7. Item, hoc ipsum ostenditur auctoritalibus, et
-primo auctoritate Apostoli ad Galatas quarto ' : Misit
-Deus Spiritimi Filii sui etc; ergo cum Pater non
-mittat Spiritum nisi Filii, idem est Spiritus Patris et
-Filii; sed eius est Spiritus, a quo procedit: ergo Spiritus sanctus procedit a Patre et Filio. Si dicas, quod
-non sequitur, quia non dicitur Filii, quia procedit
-a Filio, sed quia est in Filio: ergo eadem ratione,
-cum Fihus sit in Spiritu sancto, potest dici Filius
-Filius Spiritus sancti \
-
-8. Item, loannis decimo quinto'': «Quem ego
-niittam vobis a Patre Spiritum veritatis » . Ex hoc
-arguitur sic: nullus mittit alium, nisi habeat auctoritatem super illum; nuUus autem habet auctoritatem
-super alium, nisi aliquid tribuat ei; sed nulla persona tribuit alii % nisi ab ipsa procedat: ergo a
-primo, Spiritus sanctus procedit a Filio. Si dicas,
-quod a Filio mittitur ex tempore et ex tempore procedit; contra: Filius non ideo habet auctoritatem,
-quia miltit, sed ideo mittit, quia habet auctoritatem:
-ergo ante habet auctoritatem , quam mittat teraporaliter: ergo antequam raittat temporahter, necesse est
-Spiritum sanctum procedere a Filio: ergo etc.
-
-9. Item, loannis decimo sexto": Ille me clarificabit, quia de meo accipiet. Ex hoc arguitur sic:
-quisquis est omne quod habet, est omne quod accipit; sed Spiritus sanclus, cum sit Deus summe sim-
-plex, est omne quod habet, ergo omne quod accipit:
-ergo si accipit aliquid ab aliquo , accipit esse ' ; sed
-a quo accipit esse, ab illo procedit: ergo si aliquid
-accipit a Filio, procedit a Filio. Sidicas, quod accipere illud est temporaliter; tunc obiicitur ex hoc,
-quia omne quod temporaliter accipit aliquid ab aliquo°, mutatur, etc.
-
-Spi7-itus sanctus procedit a Patre et a Filio.
-
-i: Dicendum, quod, sicut ostensum est conciasio.
-auctoritatibus et rationibus, fidei veritas est, quod
-Spiritus sanctus procedit a Patre et Filio.
-
-Ad intelligentiam autem controversiae Latinorum
-et Graecorum et originem' eius notandum est, quod
-circa processionem Spiritus sancli de Filio est duo cogniuoct
-considerare, scilicet articuli co^miMwm et eiusdera iis anicuii.
-cogniti professionem. In primo orta '" est differentia ,
-in secundo controversia.
-
-Cognitio autem huius articuli fundamentum habet a Scriptura, profectum vel incrementum a ratione,
-sed consummationem " a revelatione. In Scripturae
-auctoritate Graeci et Latini conveniunt, quae dicit,
-Spiritum sanctum esse Filii et mitti a Filio ; sed in
-ratione et revelatione differunt.
-
-In ratione quidem intelligendi. Nam cum Scri- . Dio-erentia
-ptura dicat '% Spiritum sanctum procedcre, Graeci ad inteiiigendi
-intelligendum usi sunt alio modo et alia similitudine cedere. '""'
-processionis , alio modo Latini. Nam cum processio
-dicatur in creaturis motus localis ab uno in aliura
-et dicatur motus causalis unius ex '^ alio, Graeci intellexerunt processionera primo modo, ab uno in
-alium; Latini vero secundo modo. Et in hoc melius
-intellexerunt Latini quam Graeci, quia comparaverunl
-processionem aeternam processioni magis spirituali;
-et ideo magis simili " comparaverunt, et sic melius.
-
-Similiter, Scriptura dicit "*, Spiritum sanctum itemquoad
-per spirationem procedere. Et cum duplex sit gpj. ''"'■'"'"'*'"■
-ratio, scilicet flatus exterioris et amoris interioris,
-Graeci comparaverunt Spiritum spirationi flatus exterioris; sed Latini spirationi amoris interioris: et
-ideo Latini melius, quia spiritualiori et similiori similitudini aptaverunt.
-
-Similiter, cum Scriptura dicat, Spiritum sanctum nem qooad
-procedere ut nexum et communionem, et duplex possit esse nexus, vel sicut medium iungens unum " ,
-
-
-quod minus contextui correspondet.
-
-
-Quia ergo ditTerentiam habuerunt In ratione, et
-Dinenini Latini spiritualius et convenientius comparaverunt;
-
-^nre^eaiio- .^^^ ^^ ratioue sua sunt elevati, et per hoc ad intelligentiam Scripturae dispositi, et ideo manifesta revela-
-tione edocti sunt de Spiritus sancti processione. Graeci
-vero, quia similitudines differentes et minus proprias
-aptabant, ideo sunt sua ratione depressi ; et non valentes intelligere, Spiritum a Verbo procedere, nec in
-alium ab aeterno procedere, arctaverunt Scripturam
-ad intelligendum de processione temporali, et ideo
-sibi viam revelationis clauserunt. Haec est ergo ratio
-diversitatis in huius articuli cognitione.
-
-Controversia vero venit ex huius articuli pro-
-
-canuom- fessione. Professio vero huius ' articuli venit ab
-
-Ecclesia Latinorum ex triplici causa, videlicet ex fidei
-
-HohsAo e^veritate , ex periculi necessitate et ex Ecclesiae
-
-"^''"^''^'auctoritate. Fides dictabat hoc, et periculi necessi-
-
-tas imminebat. ne forte aliquis hoc negaret^ in
-
-quod periculum inciderunt Graeci; et Ecclesiae aucto-
-
-ritas aderat: et ideo sine mora exprimi debebat.
-
-Negatio vero huius articuli venit ex triplici
-
-«egatioiiemcausa, scilicet Bx ignorantia, ex superbia et^ perrauw!'"" imacm. Ex ignorantia, quia nec Scripturam intel-
-lexerunt nec habuerunt congruam rationem nec apertam revelationem. Ex superbia, quia, cum reputarent
-se sciolos et vocati non fuerunt^ noluerunt proflteri
-quod non erat per eos inventum. Ex pertinacia, ne
-convincerentur et irrationabiliter moveri viderentur,
-invenerunt pro se rationes contra veritatem: et ideo
-suam sententiam defendere ausi sunt et auctoritati
-Ecclesiae Romanae obviare; et ideo facti sunt haeretici, quia denegant" fldei veritatem, et schismatici,
-quia recesserunt ab Ecclesiae unitate.
-
-Sed quia mos est haereticorum et schismatico-
-Graeciac-rum, cum se non possunt rationibus communire,
-
-fflsant ^"- j^jj^ersam partem accusare; ideo nos accusant, et
-redarguunt tanquam curiosos et tanquam excom-
-
-municatos et schismaticos. Curiosos ', quia sine huius articuli professione salus erat. Quare ergo intro-
-miserunt se Latini hoc perquirere, quod non fuit
-necessarium ?
-
-Sed ad hoc patet responsio, quia* opporlunum nospon,
-fuit propter periculum in quod ipsi inciderunt. saiiones.''
-
-Similiter, dicunt nos excommunicatos , quia
-Symbola corrumpimus , in quibus per sanctos Patres
-sub excomnranicationis poena hoc erat prohibitum.
-
-Et ad hoc patet responsio per praedicta, quia ,non corrumpimus, sed perflcimus"; nec sententia
-lata est contra perflcientes, sed contra corrumpentes.
-Vel potest dici, sicut dicit Anselmus '", quod novumAiia lespo
-edidimus; et hoc quidem facere potuimus, quia Romana Ecclesia plenitudinem potestatis a Petro, Apo-
-stolorum principe, acceperat, in qua " nulla Patrum
-sententia nec interdictum potuit nec arctare nec ei
-praeiudicare nec ligare eam ad aliquid.
-
-Similiter dicunt nos schismaticos , quia a nobis
-incepit'" divisio; cum enim hoc vellemus asserere,
-noluimus eos voeare.
-
-Et ad hoc responderi potest pro Latinis, quod
-eos vocare non fuit opportunum — quia Ecclesia sine
-eis hoc poterat — et hoc ", quia erat laboriosum propter distantiam, erat i^ifructuosum, quia iam non
-erat in Graecis sapientia tanta, sicut fuerat, immo ad
-Latinos transierat, erat nihilominus periculosum,
-quia quod pro certo habendum erat periculum erat
-ducere in dubium.
-
-Et sic patet , quod frivolae sunt eorum accusaliones. Ad rationes autem, intellectis quae dicta sunt,
-facile est respondere.
-
-1 . Ad illud ergo quod obiicitur, quod processio sointio o[
-est ab uno in alium; dicendum, quod verum est de
-processione locali, sed non est verum de processione
-causali, sicut infra mehuspatebit"; ctun procedere
-in aliura sit dupliciter, aut quia in alium tendit sicut '^
-obieclum; et sic Spiritus sanctus est amor, quo Filius
-amat Patrem, sicut e converso; si autem sic dicatur
-procedere in aliquem, ut ab eo recipiatur, omnino
-stultus est intellectus. Est enim dicere, quod amor,
-
-
-quidem posuimus, quod confirmatur.ex incongrua lectionealiorum codd. et quod quidem.
-
-### English
-
-[Translation pending]
-
-### Notes
+### Dub. I
+
+In this part there are doubts concerning the text, and the first concerns what he says, that *the Holy Spirit is the love of the Father, or charity, or affection (dilectio)*. It is asked, then, whether *charity* and *affection* differ; and that they do seems clear from Isidore[^1], who says: "*Amor* is of rational and irrational beings, *dilectio* of rational beings only." But on the contrary: Dionysius, *On the Divine Names*, chapter four[^2]: "It seems to me that the Theologians [holy authors] use the names *love* and *affection* to mean a common thing"; and in the same place[^3] he reproves those who distinguish them, saying that they make weight on light sounds — as if we could not signify *four* by *twice two*, and *fatherland* by *native soil*.
+
+**I respond:** Some have wished to say that they differ, because *dilectio* is properly said of that which is from an ordered will, but *amor* is libidinous affection. But this distinction is against Dionysius[^4] and against Augustine *On John*[^5] and against the canon of sacred Scripture; for the Lord first asked Peter: "*Simon, son of John, do you love me?*" (*diligis me?*) and afterward said: "*Do you love me?*" (*amas me?*); and so they are taken for the same; and Dionysius reproves this difference[^6].
+
+Nevertheless some difference can be assigned. For although they can be said of one and the same affection, they say it under different aspects. *Amor* states the affection's adhesion to the loved; whence Dionysius[^7]: "We call *love* unitive". *Dilectio* adds beyond this *election*: whence *dilectio* [is] *electio* from diverse things; whence Canticles five[^8]: "*My beloved [dilectus], chosen out of thousands*". *Caritas*, beyond these, adds great esteem. For *carum* is said of that which is held to be of great price, in the way the Apostle in his epistles calls the faithful *most dear* (*carissimos*), 1 Corinthians four[^9].
+
+### Dub. II
+
+Likewise it is doubted concerning what he says: "*Properly, the Word of God is also called the Wisdom of God*"; for it is taken either properly because it befits Him alone, or properly because by appropriation. If alone, this is false, because *wisdom* in no way states a personal property; if properly because by appropriation, this contributes nothing to the point, because the Master means to inquire about the property of the Holy Spirit, not the appropriated. And again, *charity* seems rather to be appropriated to the Father, according to the prose-hymn that says: "*Charity is the Father*"[^10]. Likewise this seems clear from Richard[^11]: that "love is *gratuitous* in the Father, *owed* in the Holy Spirit, and in the Son a mixture of both"; therefore since *charity* states gratuitous love, it ought to be appropriated to the Father.
+
+**I respond:** It must be said that the likeness is not entire[^12], but in this it is alike: a common name can be appropriated, while the unity of word or signification remains. Likewise some name can be said simultaneously by way of property and by way of essence, with the unity of word and signification remaining, and yet of itself be common; and such is this name *charity*.
+
+In another way it can be said that *charity* is common, and proper, and appropriated; and Augustine[^13] first shows that it is appropriated through likeness to wisdom, and then shows that it is truly[^14] proper, in what follows: "*Now what we have begun to show*", etc. Hence from this authority it is not had that *charity* is proper, but only that it is appropriated. Yet from other words of Augustine it is had that *charity* is not only appropriated, but also properly proper to the Holy Spirit.
+
+To what is objected, that *charity* is appropriated to the Father, it must be said that *charity* has a twofold
+
+<!-- page 206 -->
+
+comparison to the other virtues. For it is compared as *mother*, as Ambrose[^15] says; and it is compared as *bond*, as the Apostle says, to the Colossians three[^16]: "*Charity is the bond of perfection*". By reason of the first, it is appropriated to the Father; by reason of the second, to the Holy Spirit.
+
+To what is objected from Richard, it must be said that *gratuitous* does not state a property of love or of loving, but a property of the person who gives and does not receive.
+
+### Dub. III
+
+Likewise it is asked concerning what he says, that *the Holy Spirit is the affection by which the Father and the Son love one another and us*. It is asked whether the Father and the Son love us *by the Holy Spirit*. For whether they love each other by the Holy Spirit will be asked[^17] in distinction thirty-two, where he raises that question specifically. But the first [proposition — that they love us by the Holy Spirit] seems entirely false and improper. For when it is said: "*The Father and the Son love us*", etc., it is clear that the verb *to love* is taken essentially; therefore if they love[^18] by the Holy Spirit, they are the Holy Spirit. And again, Augustine[^19] says that this is in no way granted: "*The Father loves Himself by the Holy Spirit*", because *to love* is taken essentially: therefore similarly in the present case.
+
+**I respond:** Some say that the ablative is to be expounded by the preposition *per* with the accusative, that is, *through the Holy Spirit*; and the rule[^20] is that this preposition *per* with transitive verbs expresses subordinate authority, but with absolute verbs principal authority. Hence since *to love* is transitive, the sense is that the Father and the Son love us *through* the Holy Spirit, as if to say: *The Father works through the Son*. — But this exposition does not seem fitting, because similarly one could[^21] say: *the Father and the Son punish or hate us by the Holy Spirit*; which Augustine does not mean to say.
+
+Therefore it must be noted that *to love* is sometimes taken purely essentially, as when it is said: "*The Father loves Himself*"[^22]; sometimes purely notionally, as when it is said: "*The Father and the Son love each other by the Holy Spirit*", as will appear[^23]; sometimes partly essentially, partly notionally, as when it is said: "*they love us by the Holy Spirit*"; and this[^24] is clear, because it is the same thing for the Father and the Son to *love* us by the Holy Spirit, as it is for them to *send* or *inspire* the Holy Spirit to us. But *to send* or *to inspire* imports both a notional and an essential act, because the sense is that *they produce the Spirit* and *confer His gift on us*; whence it states at once the production of the Holy Spirit and the conferral of grace. And although with respect to an essential act the construction of the ablative is not received, it is received by reason of the notion, just as here too: *the Father speaks Himself by His Word, and speaks creatures by the Word*; and in a similar way it is to be understood in the present case.
+
+### Dub. IV
+
+Likewise it is asked concerning what he says: "*For whether it be the unity of both, or sanctity*"; what is meant by this name *unity*: for either *unity* states essential unity, or notional, or personal. Not essential, because then it would not be of both [Father and Son alone], but of three; not notional, because the Holy Spirit is not common spiration; not personal, because the Father and the Son are not one in person. It is also asked how these[^25] are distinguished — *unity*, *sanctity*, *charity*.
+
+**I respond:** It must be said that *unity* is here taken personally. But it must be observed that the unity of some things is said in two ways: either as *that by which* some are one, and so the Father and the Son have no personal unity; or as *that by which* some are united, and so the Father and the Son are united in a single person, namely, the person of the Holy Spirit, who is love and a binding bond[^26].
+
+To what is asked, how the three differ; it must be said that one[^27] adds upon the other. For *unity* states a condition of every love, since every love is a unitive force; *sanctity* states the condition of chaste love as opposed to libidinous love, which is not pure; *charity* states the condition of pre-eminent love — for *charity* is so called because it is love that holds the loved as inestimably *dear*.
+
+### Dub. V
+
+Likewise it is asked concerning what he says: "*If each by his very essence — not by participation — preserves the unity of the spirit*". For he seems not to speak well, because *to preserve the unity of the spirit* is *to produce the Holy Spirit*: therefore on this account the Father and the Son produce the Holy Spirit by their essence, and so it seems
+
+<!-- page 207 -->
+
+that they spirate by their essence[^28]. Likewise also the statement "*not by participation*" seems false, because the Father and the Son preserve unity by participation in spiration[^29].
+
+**I respond:** It must be said that Augustine[^30] means to show that there is a twofold mode of unity between the Father and the Son which is also between the members of Christ — namely, of *nature* and of *will*; but in different ways: because in us there is unity of nature by participation in one common essence, but we are not the very essence[^31]. The Father and the Son, however, do not participate in the essence as something distinct from themselves; rather they *are* the very essence. Likewise in us there is conformity of will through the gift of God, which unites us; but the Father and the Son are united not by a gift received from another, but by a Spirit proper to them; and so the response is clear.
+
+### Dub. VI
+
+Likewise it is asked concerning the reasoning of Augustine: "*For because [it] is common to both, by that very thing it is properly called what both [are] in common*"; therefore on this account by parallel reasoning the Holy Spirit is properly called *God*, since *God* is common to both.
+
+**I respond:** It must be said that there is an equivocation in the term *common*. For Augustine does not call *common* what is in many and of many, but what is *from* many; and so *common* is said rather from *communion* than from *community*, that the weight be on the word — as is done between *union* and *unity*. And because *charity* states not merely community (because in many) but communion through the unity of distinct [persons], therefore although it is said essentially, it can nevertheless also be said personally.
+
+---
+
+## Apparatus
+
+[^1]: **La.** Colligi potest ex his verbis VIII. *Etymolog.* c. 2: *Omnis autem dilectio carnalis non dilectio, sed magis amor dici solet. Dilectionis autem nomen tantum in melioribus rebus accipi solet*. Idem dicit I. *Differentiarum*, sub verbo *amare* et *diligere*: *Alii dixerunt amare nobis naturaliter insitum, diligere vero ex electione*.
+
+    **En.** It can be gathered from these words, *Etymologies* VIII, c. 2: "*All carnal affection [dilectio] is wont to be called not* dilectio *but rather* amor. *The name* dilectio *is wont to be received only in better matters*". The same is said in *Differentiarum* I, under the words *amare* and *diligere*: "*Others have said that to* love (*amare*) *is naturally implanted in us, but to* love-with-affection (*diligere*) *is from election*".
+
+[^2]: **La.** § 12.
+
+    **En.** § 12.
+
+[^3]: **La.** § 11.
+
+    **En.** § 11.
+
+[^4]: **La.** Loc. paulo supra cit.
+
+    **En.** The passage cited just above.
+
+[^5]: **La.** Tract. 123. n. 5, ubi in expositione horum verborum *Simon Ioannis, diligis me* etc. (Ioan. 21, 15-17) ait: *Ubi etiam demonstratur unum atque idem esse amorem et dilectionem*.
+
+    **En.** Tractate 123, n. 5, where in expounding the words "*Simon, son of John, do you love me?*" etc. (John 21:15–17) he says: "*Where it is also shown that* amor *and* dilectio *are one and the same*."
+
+[^6]: **La.** Cod. dd *distinctionem*.
+
+    **En.** Codex dd reads *distinctionem*.
+
+[^7]: **La.** *De Div. Nom.* c. 4. § 15. Vide hic a. 2. q. 2. fundam. 2. — In quo textu multi codd. cum sex primis edd. falso *mutuum* pro *unitivum*.
+
+    **En.** *On the Divine Names*, c. 4, § 15. See here a. 2, q. 2, fundamentum 2. — In which text many codices with the first six editions wrongly read *mutuum* for *unitivum*.
+
+[^8]: **La.** Vers. 10.
+
+    **En.** Verse 10 (Cant. 5:10).
+
+[^9]: **La.** Vers. 14. et 17. — Plura de his vide infra d. 17. p. I. dub. 1. Consentiunt S. Thom. *S.* p. I. II. q. 26. a. 3; B. Albert., hic a. 2; Richard. et Petrus, hic circa lit.
+
+    **En.** Verses 14 and 17 (1 Cor. 4:14, 17). — On these see further below d. 17, p. I, dub. 1. St. Thomas agrees, *S. Theol.* I-II, q. 26, a. 3; Bl. Albert here a. 2; Richard and Peter [a Tarantasia] here in commenting on the text.
+
+[^10]: **La.** In officio Ss. Trinitatis, I. Ant. 3. Nocturn.
+
+    **En.** In the Office of the Most Holy Trinity, the first antiphon of the third Nocturn.
+
+[^11]: **La.** Libr. V. *de Trin.* c. 17. et seqq. Vide supra a. 1. q. 3. opp. 4. — Mox ex antiquioribus mss. et ed. 1 substituimus *quia* loco *quod*.
+
+    **En.** *On the Trinity*, Bk. V, c. 17 ff. See above a. 1, q. 3, contra 4. — Shortly after, on the testimony of the older manuscripts and ed. 1, we have substituted *quia* for *quod*.
+
+[^12]: **La.** Nempe inter sapientiam et caritatem quoad appropriationem et sensum proprii, prout patet paulo infra ex secunda solutione.
+
+    **En.** Namely, between *wisdom* and *charity* as regards appropriation and the sense of *proper*, as appears slightly below from the second solution.
+
+[^13]: **La.** Vide *lit. Magistri*, c. 2, et pro sequentibus c. 3.
+
+    **En.** See Lombard's text (*Littera Magistri*), c. 2, and for what follows, c. 3.
+
+[^14]: **La.** Fide mss. et ed. 1 adiecimus hic *vere*, et mox post *infra* expunximus *eadem distinctione*. Nonnulli codd. ut A G H I T etc. cum ed. 1 *vere proprie*, sed non ita congrue; cod. cc *vere et proprie*.
+
+    **En.** On the testimony of the manuscripts and ed. 1 we have here added *vere*, and shortly after *infra* we have expunged *eadem distinctione*. Some codices (A G H I T etc.) with ed. 1 read *vere proprie*, but not so fittingly; codex cc *vere et proprie*.
+
+[^15]: **La.** *Comment. in I. Epist. ad Cor.* c. 8, 2: *Dum enim caritatem, quae mater omnium bonorum est, non sectantur, non sciunt, sicut oportet*. Ceterum hic Comment. non est genuinus. De auctore (Ambrosiaster vulgo vocatur) vide infra d. XIX. c. 4, nota ad textum Magistri.
+
+    **En.** *Commentary on 1 Corinthians* c. 8:2: "*For while they do not pursue charity, which is the mother of all good things, they do not know as they ought*". This commentary, however, is not genuine. On the author (commonly called *Ambrosiaster*) see below d. XIX, c. 4, note on Lombard's text.
+
+[^16]: **La.** Vers. 14.
+
+    **En.** Verse 14 (Col. 3:14).
+
+[^17]: **La.** Vat. cum aliquibus codd. *quaeritur*. Paulo infra post *movet* unus alterve cod. ut IZ addit *Magister*.
+
+    **En.** The Vatican edition with some codices reads *quaeritur* [present tense]. Slightly later, after *movet*, one or two codices (e.g. IZ) add *Magister*.
+
+[^18]: **La.** Ed. 1 *diligunt*. Mox cod. T *sunt Spiritu sancto* pro *sunt Spiritus sanctus*.
+
+    **En.** Ed. 1 reads *diligunt*. Shortly after, codex T reads *sunt Spiritu sancto* in place of *sunt Spiritus sanctus*.
+
+[^19]: **La.** Libr. XV. *de Trin.* c. 7. n. 12, et c. 17. n. 28.
+
+    **En.** *De Trinitate* XV, c. 7, n. 12, and c. 17, n. 28.
+
+[^20]: **La.** Cod. O *et ratio huius* loco *et regula*. Mox post *absolutis* ex antiquis mss. et ed. 1 substituimus *vero* pro *autem*.
+
+    **En.** Codex O reads *and the reason of this* in place of *and the rule*. Shortly after *absolutis*, on the testimony of the old manuscripts and ed. 1, we have substituted *vero* for *autem*.
+
+[^21]: **La.** Vat. cum cod. cc, aliis autem codd. cum ed. 1 obnitentibus, *potest*.
+
+    **En.** The Vatican edition with codex cc, against the other codices and ed. 1, reads *potest*.
+
+[^22]: **La.** Codd. inter se non conveniunt; multi ut AFGHIK ST X Y etc. cum ed. 1 exhibent lectionem nostram; Vat. cum cod. cc minus distincte *Pater et Filius diligunt se*; cod. I *Pater et Filius diligit se*.
+
+    **En.** The codices do not agree among themselves; many (AFGHIK ST X Y etc.) with ed. 1 give our reading; the Vatican edition with codex cc less distinctly reads *Pater et Filius diligunt se*; codex I *Pater et Filius diligit se*.
+
+[^23]: **La.** Dist. 32. a. 1. q. 1. et 2.
+
+    **En.** Distinction 32, a. 1, q. 1 and 2.
+
+[^24]: **La.** Mendosa lectio Vat. *ex hoc* pro *hoc*, et paulo infra *scilicet* loco *quod* castigatur ex mss. et ed. 1.
+
+    **En.** The corrupt reading of the Vatican edition, *ex hoc* for *hoc*, and slightly later *scilicet* in place of *quod*, is corrected from the manuscripts and ed. 1.
+
+[^25]: **La.** Codd. dd *hic*.
+
+    **En.** Codices dd read *hic*.
+
+[^26]: **La.** Plura de hoc vide hic, a. 2. q. 2.
+
+    **En.** On this see further here, a. 2, q. 2.
+
+[^27]: **La.** Ed. 1 addit *istorum*.
+
+    **En.** Ed. 1 adds *istorum*.
+
+[^28]: **La.** Fide antiquiorum mss. et ed. 1 substituimus *essentia* loco *essentialiter*.
+
+    **En.** On the testimony of the older manuscripts and ed. 1 we have substituted *essentia* for *essentialiter*.
+
+[^29]: **La.** Pauci codd. ut K V X *Spiritus sancti* pro *spirationis*.
+
+    **En.** A few codices (K V X) read *Spiritus sancti* in place of *spirationis*.
+
+[^30]: **La.** Verba Augustini vide in *lit. Magistri*, c. 2. circa finem.
+
+    **En.** For Augustine's words see Lombard's text, c. 2, near the end.
+
+[^31]: **La.** Codd. L O addunt *nisi cum aliquo addito*, et mox bene ponunt *vero* pro *nisi*, quod edd. et plurimi codd. habent.
+
+    **En.** Codices L and O add *nisi cum aliquo addito*, and shortly after rightly set *vero* in place of *nisi*, which the editions and most codices have.
+
+---
+
+## Notes
 
 [Notes pending]

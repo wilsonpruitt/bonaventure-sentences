@@ -4,354 +4,174 @@ volume: 1
 book: 1
 distinctio: 11
 type: dubia
-title: "I Sent., d. 11, dubia"
-line_start: 41663
-line_end: 42250
-word_count_latin: 3470
+title_la: "Dubia circa litteram Magistri"
+title_en: "Doubts on the text of the Master"
+printed_pages: [217, 218]
+pdf_pages: [319, 320]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 217–218"
+has_scholion: false
+has_apparatus: true
+line_start: 41693
+line_end: 41932
+word_count_latin: 927
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 41693–41932, line_end extended from 41857 to capture dub IV apparatus at lines 41923–41932), fresh literal English translation, full apparatus from raw OCR (17 entries) (2026-05-02)"
+format_version: 1
 ---
 
-# I Sent., d. 11, dubia
-
-### Latin
-
-DIST. XI. DUBIA.
-
-
-7. q. 1. de duplici opinione circa potentiam generandi dixit;
-cfr. ibi Scholion , et infra d. 27. p. I. q. 2 , et d. 28. per totam.
-Sibi constans Seraphicus , qui ibi ulramque opinionem probabilem declaravit , etiam hoc loeo secundum ulramque positionem
-respondit.
-
-III. Conclusio est , quod Pater et Filius producunt Spiritum
-sanctum, qualenus sunt unum in fecunditate voluntatis. Evidens enim est, quod non possint spirare, quatenus sunt unum
-in essentia , quia in essentia etiam cum Spiritu sancto unum
-sunt , quoad personam vero sunt duo , non unum ; ergo producunt Spiritum sanctum , quatenus sunt unum in notione i.
-e. in spiratione activa.
-
-IV. Cfr. infra d. 29. a. 2. q. 1. 2. — Alex. Hal., S. p. 1. q. 70.
-m. 3. a. 3. seqq. — Scot. , I. Sent. d. 12. q. 1 ; et Report. d.
-12. q. 1. 2. — S. Thom. , hic q. I. a. 2. seqq. ; S. I. q. 36.
-a. 4 ; S. c. Gent. IV. c. 25. — B. Albert. , hic a. 3. i. 5 ;
-S. p. I. tr. 7. q. 31. m. 3. q. 1. incident. -— Petr. a Tar. , hic
-q. I. a. 2. seq. — Richard. a Med., hic q. 3. seq. — ^Egid.
-R. , hic 2. princ. q. 1. et 2. — Henr. Gand., S. a. 34. q. 6.
-n. SO. seqq. — Durand. , hic q. 3. — Dionys. Carth. , hic q.
-3. 4. — Biel, 1. Sent. d. 12. q. 1. 2.
-
-DUBIA CIRCA LITTERAM MAGISTRI.
-
-DUB. I.
-
-In parte ista sunt dubitationes circa litteram et
-primo de hoc quod dicit: In principalibus Conciliis, quae apud eos celebrata sunt. Quaeritur ergo,
-quae sunt illa quatuor principalia Concilia ?
-
-Respondeo : Et dicenduni, quod fuerunt quatuor
-i-principalia ' Concilia Apostolorum in Ecclesia primitiva , ut dicit quaedam Glossa super Actus '. Primum
-fuit ad electionem Matthiae, Actuum primo ' ; secundum ad electionem septem diaconorum, Actuum sex-
-to*; tertium fuit ad non imponenda legalia gentibus,
-Actuum decimo quinto^; quartum ad tolerandum
-legalia ad tempus, Actuum vigesimo primo".
-
-Concilia vero Patrum principalia apud Graecos
-
-
-quod pro diverso tulerunt sententiam. Praeterea,
-unde venit ista exposilio ? Pro DeoM quare non dixerunt: quisquis contradixerit ?
-
-Respondeo: Dicendum, quod sicut dicit Ansel-
-
-mus": Omnis veritas sacrae Scripturae potest dici,
-quae sacrae Scripturae non contradicit, propter suam
-generalitatem et dignitatera; et ideo praedictaexpositio
-habet hic locum. Nec fuit inconveniens exprimere
-excommunicationem haereticorum , quia sancti Patres Ratio exin Conciliis ordinabant quae iuris erant, et propterea" ttonir""^'
-ad terrorem estdictum; et maluerunt dicere aliud,
-quamvis intellexerint contrarium, ut magis compescerent ora praesumptuosorum, ne adinvenirent
-novitates in flde. Secundum veritatem autem excommunicationis sententia non se extendit nisi ad contra-
-dicentes; quia non fuit eorum intentio, praecludendi
-viam ad explanationem fidei faciendam maiorem, si
-Deus alios magis illuminaret; et si hoc dixissent,
-constat quod non bene moti fuissent, et sententia
-eonim merito abolenda esset'°.
-
-DUB. III.
-
-Item quaeritur de hoc quod dicit, quod non est
-aliud Spiritum sanctum esse Filii quam esse a
-Filio. Sed contra: aliud est dicere cappa Socratis
-quain cappa facta a Socrale: ergo similiter videtur
-] in proposito; aut si non, quaeritur ratio ".
-i Et dicendum, quod genitivus, quamvis denomi-
-
-I netur ab habitudine principii, tamen aliam habitu-
-I dinem importat, immo alias ^^ , ui possessionis ; sed
-I cum in divinis non cadat diversitas nec habitiido nisi
-! origiiiis, ratione materiae in divinis determinatur ad Genitivi «-
-I habitudinem principii; et ideo in Deo idem est |°,'fn?s!'° ""
-; dicere Spiritus Filii, quod Spiritus procedit a Filio.
-
-\
-
-
-quod esl nonipii alisnliitiini, sicut hoc nomen Deus,
-non habet propric idiistrni cum genitivo, quia tunc
-ideni esset ilicero Spiritus Filii quod Deus Filii:
-ergo oportet. qnod accipiatur Spiritus, secundum
-quod dicitur a spiratione; et sic est nomen importans originem: ergo sicut seqnitur: Filim Patris,
-ergo Fihus qui est a Patre , et ita est dicere Spiritii.s Filii, id est, Spiritus qui est a Filio.
-
-DuB. IV.
-
-Item quaeritur de hoc quod dicit: Nm sine me
-et sine meo et Patris arbitrio etc. Videtur male
-dicere , quia qui habet arbitrium super aliquem
-habet dominium super illum': ergo videtur secundum hoc, quod Spiritus sanctus sit inferior Filio. Si
-tu dica^, quod arbitrium dicat voluntatem; hoc ni-
-
-hil est, quia- similiter cum una voluntas sit trium,
-similiter Filius non loquitur sine arbilrio Spiritus
-sancti, et Pater similiter; quod non dicitur proprie.
-Respondeo: Dicendum, quod Spiritus sanctus est
-Patri et Filio consubstantialis, ita quod a'Patre et Filio
-procedit ; operatio ergo Spiritus sancti comnmnis est
-Patri et Filio, et similitef aeque habet esse' a Patre
-et Filio; ita quod non est dicere, quod habeat locutionem propriam, nec quod habeat locutionem a se;
-et haec duo voluit excludere Dominus cum dixit:
-Non loquetur a semetipso * , ut exchidatur ratio
-proprii et ratio primi principii. Et hoc exponens
-Didymus cmiTZ. proprium dicit: Nmisine me,cmtra rationem primi principii dicit; Sinemeo et Pa-
-tris arbitrio; et arbitrium non importat dominium
-vel ^ causalitatem, sed solum auctoritatem in Patre et
-Filio respectu Spiritus sancti vel eius operationis.
-
-DISTINCTIO XII.
-
-Utrum &piritus sanctus pius vel plenius procedat
-a Palre quam a Filio.
-
-Iteni quaeritur, cum Spiritus sanctus procedat a
-Patre el ' Fillo , utrum prius vel magis processerit a
-Patre quam a Filio ; quod nititur haeretlcus ostendere
-ita dieens: si processit Spiritns sanctus a Patre, processit utique aut nato iam Filio, ante non nato Filio.
-Si vero iam nato Filio processit, ante natns est Filius,
-quam processerit Spiritus sanctus: praecessit igitur
-nalivitas Filii processioneni Spiritus sancti. Si autem
-processit a Patre non genito Filio, ante processit,
-quam Filius genilus fueril.
-
-His et huiusmodi quaestionibus magis laboriosis
-Responsio quain fructuosis respondet Augustinus in decimo quinto
-Aogustim. jji^j,^ ^g Trinitale^ dicens: « In illa sunima Triuitate,
-quae Deus est, intervalla teinporum nulla sunl, per
-quae possit ostendi aut salteni requiri, utrum prius
-de Patre uatus sit Filius, et postea de ambobus processeril Spiritus sanctus». «Nunquid ergo possnnms
-quaerere, utrum iam processerat de Patre Spiritus
-sanctus, quando natus est Filius, an nondum processerat
-et, illo nato, de utroque processit? Non possunt prorsus ista ibi quaeri, ubi nihil ex tenipore inchoatur,
-ut consequenti ' perficiatur in tempore. Ideo qui potest
-intelligere sine tempore generationem Filii de Patre,
-inteUigat sine tempore processionem Spirilus sancti
-
-de utroque ». Ecce his verbis absoluta est quaestio illa,
-qua quaerebatur , utrum prius processerit Spiritus sanclns a Patre quam a Filio.
-
-Quod &pirilvs sanctus prindpaliler et proprie
-dicitur procedere a Patre.
-
-Nunc tractandum est quod secundo quaerebatur,
-scilicet an plenius vel * magis procedat Spirilus sanctus
-a Patre quam a Filio. Ad quod dicimus, quia sicut
-non antc procedit a Patre quam a Filio , ita non magis
-vel plenius procedit a Patre quam a Filio. Augustinus
-tamen in decimo quinto libro de Trinitate "^ dicit, quod
-Spiritus sanctus principaliter procedit de Patre. « Nou
-frustra, inquit, in hac Trinitate non dicitur Verbmn
-Dei nisi Filius, nec Donum Dei nisi Spiritus sanctus,
-nec de quo genitnm est Verbum, et de quo procedit
-principaliter Spiritus sanctus, nisi Deus Pater». Ecce
-audistis, quia Spiritus sanctus principaliter procedit a
-Patre. Sed ne te hoc turbaret, ipse continuo ex quo
-sensu dixerit aperit, subdens": «Ideo addidi prlncipaliter, quia et de Filio Spiritus sanctus procedere re-
-peritur, sed hoc quoque ilU Pater dedit, »on iam existenti et nondum habenti. Sed quidquid unigenito Verbo
-dedit, gignendo dedit. Sic ergo eum genuit, ut etiam
-de iUo Donum commune procederet, et Spiritus sanctus Spiritns esset amborum». Ecce exposuit ipsemel.
-
-
-DISTINCTIO XII. DIVISIO TEXTUS.
-
-
-quomodo Spiritus principalilei- procedat a Patre, non
-quia prius vel magis procedat a Patre quam a Filio,
-sed quia, cum procedat a Filio, Iioc ipsum habet Filius a Patre.
-
-Ex eodem sensu dicitur etiam proprie procedere de
-> Palre. Uude Hieronymus in expositione calholicae fidei
-ait : « Credimus in Spiritum sanqui de Patre procedit proprie ». Itera: « Spiritum
-sanclum verum Deum inveninius in Scriptura , et de
-Patre proprie esse». Et item: « De Patre Filius, et
-Spiritus sanctus- proprie et vere de Patre procedit».
-Ecce aperte dicit, Spiritum sanctum proprie esse de
-Patre et proprie procedere a Patre. Quod non ita est
-intelligendum , tanquam prius vel plenius a Patre procedat quam a Filio, sed quia hoc habet Paler a se,
-non ab alio, ut de ipso sit et procedat Spirilus sanctus; Filius aulem non a se, sed a Patre hoc habel,
-ut de ipso ^ sit et procedat Spiritus sanctus.
-
-Forte etiam iuxta hanc intelligentiam diciiur Spi-
-• ritus sanctus ■" mitti per Filiuni et a Patre csse per Filium. Unde Hilarius ad Deum Patrem de Spiritu sancto
-et Filio loquens in duodecimo libro de Trinilate" ait:
-«In sancto Spiritu tuo ex te profecto et per eum
-misso » . Item : « Ante tempora Unigenitus tuus ex te
-natus manet , ita quod ex le per eimi Spiritus sanctus
-tuus est ; quod elsi sensu non percipiam , tamen leneo
-conscientia. In spiritualibus enim rebus tuis hebes
-sum». Item in eodem: «Couserva hanc, oro, fidei
-meae religionem, ut quod in regenerationis meae
-Symbolo professus sum , semper oblineam : Patrem
-scilicet te" et Filium luum una tecum adorem; sanctum Spiritum luum , qni ex te per Unigenilum tuum
-est, promereai"». Ecce aperle dicit, Spiritum sanctum
-a Palre per Filium et mitti et esse; quod non est intelligendum, quasi a Patre per Filium minorem mit-
-tatur vel sit, sed quia ex Palre et Filio est et mittitur ab utroque. Sed hoc ipsum habet Filius a Palre,
-
-ut ab ipso el sit ' et mittatur Spiritus sanctus. Hoc ergo
-voluit significare Hilarius, distinctionem faciens in locutione , ut ostenderet in Patre esse auctoritatem. Inde
-est eliam, quod Veritas ostendens, Palrem esse auctorem processionis , qua procedit Spiritus sanctus a
-Filio, dixit in Evangeiio ' : fle Paft-e procedit, cum de
-Palre et Filio procedat Spiritus sanctus. Unde Augustinus in decimo quinto libro de Trinitate": «Si de
-Patre et Filio procedil Spiritus sanctus, cur Filius dixit:
-De Palre procedifj' Cur putas, nisi quia solet ad eum
-referre etiam quod ipsius est, de quo et ipse esi, sicut
-ait'": Mea doctrim non est mea, sed eiuSj qui misit
-me? Si ergo hic intelligitur eius doclrina, quam tamen
-non dixit suam, sed Patris, quanto magis illic intelligendus est Spiritus sanctus de ipso procedere , ubi sic
-ait: De Patre procedit, ut non diceret: De me non
-procedit. A quo autem habetFilius, ut sit Deus — est
-enim Deus de Deo — ab illo utique habet, ut etiam
-de illo procedat Spiritus sanetus. Et ideo Spiritus sanctus, ut etiam de Filio procedat, sicut procedit de Patre,
-ab ipso habet Patre ». « Quapropter, qui potest intelligere in eo, quod aitFilius": Sicut habet Paler vitam in
-semetipso , sic dedit et Filio vitam habere in semetipso ,
-non sine vita exislenti iam Filio viiam Palrem dedisse,
-sed ita eum sine tempore genuisse, ut vita, quam
-Pater Filio gignendo dedit, coaeterna sit vilae Patris,
-qui dedit; inlelligal etiani , sicut habet Pater in semetipso, ut de illo procedat Spiritus sanctus, sic dedisse
-Filio, ut etiam de isto procedat idera Spiritus sanctus,
-et urrumque sine tempore. Ila ergo dictum est, Spirilum sanctura de Patre procedere, ut intelligatur,
-quod etiam procedit de Filio de Palre esse Filio '^
-Si enim quidquid habet, de Palre habet Filius, de
-Patre habet utique, ut et de illo procedat Spiritus
-sanctus. Sed nulla ibi tempora cogitentur, quae habeant prius etposterius, quia ibi omnino nulla sunt».
-
-COMMENTARIUS IN DISTINCTIONEM XII.
-
-De aeterna processione Spiritus sancti, qualiter a Patre et Filio procedat.
-
-Item quaeritur, cum Spiritus sanctus procedat a Patre el Filio.
-
-DIVISIO TEXTUS.
-
-Haec est secunda pars, in qua Magister determinat, quaUter Spiritus sanctus procedit' a Patre
-et Filio; et haec pars habet quatuor capitula seciin-
-
-diim quatuor, quae deterrainat in quatuor capitulis '.
-Nam primo quaerit et determinat, utrum Spiritus
-sanctus prius proeedat a Patre , et determinat, quod
-
-' Explan. ad Cyrillum c. 1. et 3.
-
-
-contra originale et mss., addendo sicut ct transponendo ■ e/, sic
-habet : ipsius est , siciit et de quo.
-
-" loan. 5 , 26.
-
-
-TRACTATIO QUAESTIONLIM.
-
-Supposito ex praecedentibus , (]uod Spiritus saiictiis procedat a Patre et Filio, ad intelligentiam
-huius partis quatuor quaeruntur de processione
-Spiritus sancti in comparatione ad utrumque.
-
-Primo quaeritur, utrum Spiritus saiictiis prius
-procedat a Patre quam a Filio.
-
-Sccundo, utrum pleniiis a Patre quain a Filio.
-
-Tertio, utrum procedat a Patre mediante Filio.
-
-Quarlo et ultimo, utrum processio Filii prior
-sit secundum ordinem intelligendi proeessione Spiritus sancti, vel e converso.
-
-AKTICULUS UNICUS.
-
-De processione Spirilus sancti in comparatione ad Patrem et Filium.
-
-QUAESTIO l.
-
-Utrum Spiritus sanctiis a Patre prius quam a Filio procedat.
-
-Circa primum , quod prius sit a Patre quam a
-Filio, sic ostenditur.
-
-1. Causa prima est, in qua eststatus, ergo et
-Ad opposi- principium primum est, in quo est status; sed sta-
-
-tus est in Patre: ergo Pater est principium primuni;
-sed primum supponit prius ' : ergo prius procedit a
-Patre quam a Filio.
-
-2. Item , causa prima est quae agit , alia non
-supposita ' : si ergo Pater producit non per suppositionem alterius principii, Filius per suppositionem,
-prius producit Pater quam Filius.
-
-3. Item, quod habet aliquis ex se per prius
-habet, quam quod habet ex alio; sed producere
-Spiritum sanctum habet Pater a se, et Filius a Patre:
-ergo per prius habet Pater quam Filius.
-
-Contra: 1. Ubi non est ponere posterius, nec
-
-ranciamenta.prius, quia prius respectu posterioris dicitur; sed
-
-in Trinitate non est ponere posterius: ergo nec prius.
-
-Si ergo processio Spiritus sancti a Patre et Filio est
-
-aeterna, patet etc.
-
-2. Item, ubi est ponere prius et posterius, est^
-ponere diversitatem principiorum ; sed Paler et Filius
-producunt Spiritum sanctum in quantum unum, ut
-supra monstratum est^: ergo non est ibi ratio
-prioris.
-
-3. Ilem, si per prius procedit a Patre quam a
-Filio, aut" a Filio non procedit, aut bis procedit;
-sed procedit a Filio et non procedit bis: ergo etc.
-
-4. Item, contingit intelligere prius, non intellecto posteriori: ergo si per prius procedit a Patre,
-ergo contingit intelligere, quod procedit", non cointellecto Filio. Sed contra: Spiritus sanctus est amor
-uniens et amor nectens; sed non est accipere mutuum amorem ad minus quam inter duos, ergo nec
-Spiritum sanctum esse ' nisi a duobus: ergo nec per
-prius procedit ab uno quam ab alio.
-
-coNcmsio.
-
-Spiritus sanctus auctoritale quideni prius procedil
-a Patre quam a Filio , non vero prius duralione, vel causalilate, vel etiam origine.
-
-Respondeo: Dicendum, quod prius dicitur multipliciter. Dicitur enim prius duratione, dicitur prius <
-causalitate, dicitur t^v\\i& origine , dicitur prius awcioritate ^. Et primis duobus modis prius nullo modo
-cadit in Deo; quia prius duratione contrarium est
-aeternitati , prius cdusalitate contrarium est essentiae unitati °. Sed prius origine , quo alter ex altero ,
-
-sequilur In prima qmerit, utrum, et paulo infra In secunda
-quaerit, utrum. Deinpost Tertio omittit vero deierminat, mo.\que
-verba et dicit quod sic.
-
-### English
-
-[Translation pending]
-
-### Notes
-
-[Notes pending]
+# bon-sent-I-d11-dubia
+## *Dubia circa litteram Magistri*
+
+---
+
+## Latin
+<!-- page 217 -->
+
+### DUBIA CIRCA LITTERAM MAGISTRI.
+
+### Dubium I.
+
+In parte ista sunt dubitationes circa litteram et primo de hoc quod dicit: *In principalibus Conciliis, quae apud eos celebrata sunt*. Quaeritur ergo, quae sunt illa quatuor principalia Concilia?
+
+**Respondeo:** Et dicendum, quod fuerunt quatuor principalia[^1] Concilia Apostolorum in Ecclesia primitiva, ut dicit quaedam Glossa super Actus[^2]. Primum fuit ad electionem Matthiae, Actuum primo[^3]; secundum ad electionem septem diaconorum, Actuum sexto[^4]; tertium fuit ad non imponenda legalia gentibus, Actuum decimo quinto[^5]; quartum ad tolerandum legalia ad tempus, Actuum vigesimo primo[^6].
+
+Concilia vero Patrum principalia apud Graecos similiter fuerunt quatuor, scilicet *Nicaenum*, *Ephesinum*, *Chalcedonense* et *Constantinopolitanum*.
+
+### Dubium II.
+
+Item quaeritur de expositione illa, quam ponit Magister super illud: *Qui aliud docuerit vel aliter praedicaverit* etc.; et exponit: *id est, contrarium docuerit vel contrario modo* etc.; quia non videtur ista expositio probabilis, eo quod ille qui contradicit articulis, excommunicatus est ipso iure: ergo non oportebat pro contrario dare sententiam: ergo videtur, quod pro *diverso* tulerunt sententiam. Praeterea, unde venit ista expositio? Pro Deo![^7] quare non dixerunt: *quisquis contradixerit*?
+
+**Respondeo:** Dicendum, quod sicut dicit Anselmus[^8]: *Omnis veritas sacrae Scripturae potest dici, quae sacrae Scripturae non contradicit*, propter suam generalitatem et dignitatem; et ideo praedicta expositio habet hic locum. Nec fuit inconveniens exprimere excommunicationem haereticorum, quia sancti Patres in Conciliis ordinabant quae iuris erant, et propterea[^9] ad terrorem est dictum; et maluerunt dicere *aliud*, quamvis intellexerint *contrarium*, ut magis compescerent ora praesumptuosorum, ne adinvenirent novitates in fide. Secundum veritatem autem excommunicationis sententia non se extendit nisi ad contradicentes; quia non fuit eorum intentio, praecludendi viam ad explanationem fidei faciendam maiorem, si Deus alios magis illuminaret; et si hoc dixissent, constat quod non bene moti fuissent, et sententia eorum merito abolenda esset[^10].
+
+### Dubium III.
+
+Item quaeritur de hoc quod dicit, quod *non est aliud Spiritum sanctum esse Filii quam esse a Filio*. Sed contra: aliud est dicere *cappa Socratis* quam *cappa facta a Socrate*: ergo similiter videtur in proposito; aut si non, quaeritur ratio[^11].
+
+Et dicendum, quod genitivus, quamvis denominetur ab habitudine principii, tamen aliam habitudinem importat, immo alias[^12], ut possessionis; sed cum in divinis non cadat diversitas nec habitudo nisi originis, ratione materiae in divinis determinatur ad habitudinem principii; et ideo in Deo idem est dicere *Spiritus Filii*, quod *Spiritus procedit a Filio*.
+
+<!-- page 218 -->
+
+Praeterea, alia est ratio, quia *Spiritus*, secundum quod est nomen absolutum, sicut hoc nomen *Deus*, non habet proprie idioma cum genitivo, quia tunc idem esset dicere *Spiritus Filii* quod *Deus Filii*: ergo oportet, quod accipiatur *Spiritus*, secundum quod dicitur a *spiratione*; et sic est nomen importans originem: ergo sicut sequitur: *Filius Patris*, ergo Filius qui est a Patre, et ita est dicere *Spiritus Filii*, id est, Spiritus qui est a Filio.
+
+### Dubium IV.
+
+Item quaeritur de hoc quod dicit: *Non sine me et sine meo et Patris arbitrio* etc. Videtur male dicere, quia qui habet arbitrium super aliquem habet dominium super illum[^13]: ergo videtur secundum hoc, quod Spiritus sanctus sit inferior Filio. Si tu dicas, quod *arbitrium* dicat *voluntatem*; hoc nihil est, quia[^14] similiter cum una voluntas sit trium, similiter Filius non loquitur sine arbitrio Spiritus sancti, et Pater similiter; quod non dicitur proprie.
+
+**Respondeo:** Dicendum, quod Spiritus sanctus est Patri et Filio consubstantialis, ita quod a Patre et Filio procedit; operatio ergo Spiritus sancti communis est Patri et Filio, et similiter aeque habet esse[^15] a Patre et Filio; ita quod non est dicere, quod habeat locutionem propriam, nec quod habeat locutionem a se; et haec duo voluit excludere Dominus cum dixit: *Non loquetur a semetipso*[^16], ut excludatur ratio *proprii* et ratio *primi principii*. Et hoc exponens Didymus contra rationem proprii dicit: *Non sine me*; contra rationem primi principii dicit: *Sine meo et Patris arbitrio*; et arbitrium non importat dominium vel[^17] causalitatem, sed solum *auctoritatem* in Patre et Filio respectu Spiritus sancti vel eius operationis.
+
+---
+
+## English
+
+### DOUBTS ON THE TEXT OF THE MASTER.
+
+### Doubt I.
+
+In this part there are doubts on the text, and first on what he says: *In the principal Councils which were celebrated among them*. It is asked, then, which were those four principal Councils?
+
+**I respond:** And it must be said that there were four principal[^1] Councils of the Apostles in the primitive Church, as a certain Gloss on Acts says[^2]. The first was for the election of Matthias, Acts 1[^3]; the second for the election of the seven deacons, Acts 6[^4]; the third for not imposing the legal observances on the gentiles, Acts 15[^5]; the fourth for tolerating the legal observances for a time, Acts 21[^6].
+
+The principal Councils of the Fathers among the Greeks were likewise four, namely *Nicaea*, *Ephesus*, *Chalcedon*, and *Constantinople*.
+
+### Doubt II.
+
+Likewise it is asked about that exposition which the Master places upon the words *Whoever shall have taught another thing or preached otherwise* etc.; and he expounds: *that is, who shall have taught the contrary or in a contrary way* etc.; because that exposition does not seem probable, because he who contradicts the articles is excommunicated *ipso iure*: therefore it was not necessary to give a sentence against the contrary: therefore it seems that they passed a sentence against the *diverse*. Moreover, whence comes that exposition? For God's sake![^7] why did they not say: *whoever shall contradict*?
+
+**I respond:** It must be said that, as Anselm says[^8]: *Every truth which does not contradict sacred Scripture can be said [to belong to] sacred Scripture*, on account of its generality and dignity; and therefore the aforesaid exposition has place here. Nor was it unfitting to express the excommunication of heretics, because the holy Fathers in the Councils ordained the things that pertained to discipline (*quae iuris erant*), and on that account[^9] [it was] said for the sake of terror; and they preferred to say *another thing* (*aliud*), although they understood the *contrary*, in order more strongly to restrain the mouths of the presumptuous, lest they invent novelties in the faith. According to truth, however, the sentence of excommunication does not extend except to those who contradict; because it was not their intention to preclude the way to a fuller explanation of the faith, if God should illuminate others more; and if they had said this, it is plain that they would not have been well moved, and their sentence would deservedly be liable to abolition[^10].
+
+### Doubt III.
+
+Likewise it is asked about what he says, that *it is not anything else for the Holy Spirit to be of the Son than to be from the Son*. But on the contrary: it is one thing to say *the cape of Socrates*, and another *the cape made by Socrates*: therefore it seems likewise in the case at hand; or if not, the reason is asked[^11].
+
+And it must be said that the genitive, although it be denominated from the relation of *principle*, yet it imports another relation, indeed others[^12], such as that of *possession*; but since in the divine being there falls no diversity nor relation save that of *origin*, by reason of the matter in the divine being [the genitive] is determined to the relation of *principle*; and therefore in God to say *Spirit of the Son* is the same as [to say] *the Spirit proceeds from the Son*.
+
+Moreover, there is another reason, because *Spirit*, insofar as it is an *absolute* name, like the name *God*, does not properly have an idiom with the genitive, because then it would be the same to say *Spirit of the Son* as *God of the Son*: therefore it must be the case that *Spirit* be taken according as it is said from *spiration*; and so it is a name importing origin: therefore just as it follows: *Son of the Father*, [therefore] Son who is from the Father, so also to say *Spirit of the Son* is to say: *the Spirit who is from the Son*.
+
+### Doubt IV.
+
+Likewise it is asked about what he [the Master] says: *Not without me and without my and the Father's arbitrium [decision]* etc. He seems to say [this] badly, because he who has *arbitrium* over someone has dominion over him[^13]: therefore it seems according to this that the Holy Spirit is inferior to the Son. If you say that *arbitrium* denotes *will*; this is nothing, because[^14] similarly, since the will is one of the three, likewise the Son does not speak without the arbitrium of the Holy Spirit, and the Father likewise; which is not properly said.
+
+**I respond:** It must be said that the Holy Spirit is consubstantial with the Father and the Son, in such a way that He proceeds from the Father and the Son; therefore the operation of the Holy Spirit is common to the Father and the Son, and likewise [the Holy Spirit] has being equally[^15] from the Father and the Son; in such a way that it is not [right] to say that He has a *proper* speaking, nor that He has speaking *from Himself*; and these two the Lord wished to exclude when He said: *He shall not speak from Himself*[^16], in order that the formal character of *proper* and the formal character of *first principle* might be excluded. And expounding this, Didymus, against the formal character of *proper*, says: *Not without me*; against the formal character of *first principle* he says: *Without my and the Father's arbitrium*; and *arbitrium* does not import dominion or[^17] causality, but only *authority* in the Father and the Son with respect to the Holy Spirit or to His operation.
+
+---
+
+## Apparatus
+
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Latin (as edited by Quaracchi) followed by an English rendering.
+
+[^1]: **La.** Ex vetustioribus mss. et ed. 1 supplevimus *principalia*.
+
+    **En.** From the older manuscripts and ed. 1 we have supplied *principalia*.
+
+[^2]: **La.** Cap. 21, 21. Vide apud Lyranum.
+
+    **En.** [Glossa Ordinaria,] cap. 21, 21. See in Nicholas of Lyra.
+
+[^3]: **La.** Vers. 15 seqq.
+
+    **En.** Acts 1:15 ff.
+
+[^4]: **La.** Vers. 2 seqq.
+
+    **En.** Acts 6:2 ff.
+
+[^5]: **La.** Vers. 6 seqq.
+
+    **En.** Acts 15:6 ff.
+
+[^6]: **La.** Vers. 18 seqq. — Paulo ante ed. 1 *toleranda* loco *tolerandum*.
+
+    **En.** Acts 21:18 ff. — Just before, ed. 1 reads *toleranda* in place of *tolerandum*.
+
+[^7]: **La.** Vat. praeter fidem mss. et ed. 1 pro hac interiectione ponit *et quaeritur*.
+
+    **En.** The Vatican, against the testimony of the manuscripts and ed. 1, places *et quaeritur* in place of this interjection [*Pro Deo!*].
+
+[^8]: **La.** Libr. *de Conc. praesc. Dei cum libr. arb.* q. 3, c. 6: *Quoniam ipsa (S. Scriptura), sicuti nulli adversatur veritati, ita nulli favet falsitati, hoc ipso quia non negat, quod ratione dicitur eius auctoritate suscipitur.* — Et paulo post: *Sic itaque sacra Scriptura omnis veritatis, quam ratio colligit, auctoritatem continet, cum illam aut aperte affirmat aut nullatenus negat.*
+
+    **En.** [Anselm,] *On the Concord of God's Foreknowledge with Free Choice*, q. 3, c. 6: «For since [Sacred Scripture], just as it is opposed to no truth, so favors no falsehood, by this very fact that it does not deny what is said by reason, [that truth] is received by its authority». — And a little after: «So, then, sacred Scripture contains the authority of every truth which reason gathers, when [Scripture] either openly affirms it or in no way denies it».
+
+[^9]: **La.** Vat. contra multos codd. ut A F G H I T X Z etc. et ed. 1 *praeterea*, sed minus bene, quia verba *quae iuris erant* hic significant decretum ad disciplinam spectans, non stricte ad fidem. Vat. et paulo infra *intellexerunt* loco *intellexerint*. Mox aliqui codd. ut V W X *praesumptuosa* pro *praesumptuosorum*.
+
+    **En.** The Vatican, against many codices (A F G H I T X Z etc.) and ed. 1, reads *praeterea*, but less well, because the words *quae iuris erant* here signify a decree pertaining to *discipline*, not strictly to faith. The Vatican, a little below, also reads *intellexerunt* in place of *intellexerint*. Just after, some codices, as V W X, read *praesumptuosa* in place of *praesumptuosorum*.
+
+[^10]: **La.** S. Doctor loquitur tantum hypothetice et praecise de prohibitione explanationis, quatenus est res disciplinaris; minime autem supponit — quod innuit nota marginalis in Vaticana ed. — decreta Concilii vere generalis in rebus fidei esse reformabilia.
+
+    **En.** The Holy Doctor speaks only hypothetically and precisely about the prohibition of [further] exposition, insofar as it is a matter of discipline; he by no means supposes — as a marginal note in the Vatican edition indicates — that the decrees of a truly general Council in matters of faith are reformable.
+
+[^11]: **La.** Unus alterve cod. ut V bb *quare non* loco *quaeritur ratio*.
+
+    **En.** A codex or two, as V bb, read *quare non* in place of *quaeritur ratio*.
+
+[^12]: **La.** Vat. desunt verba *immo alias*, quae tamen habentur in pluribus codd. et ed. 1.
+
+    **En.** In the Vatican the words *immo alias* are missing, which however are found in several codices and in ed. 1.
+
+[^13]: **La.** Vat. cum cod. cc *illud*, et paulo ante *aliquid* loco *aliquem*, sed obest auctoritas antiquiorum codd. et ed. 1.
+
+    **En.** The Vatican with codex cc reads *illud*, and just before *aliquid* in place of *aliquem*, but the authority of the older codices and of ed. 1 stands against [the Vatican reading].
+
+[^14]: **La.** Cod. Z cum ed. 1 addit *tunc*.
+
+    **En.** Codex Z with ed. 1 adds *tunc*.
+
+[^15]: **La.** In cod. bb additur *et loqui*.
+
+    **En.** In codex bb *et loqui* is added.
+
+[^16]: **La.** Ioan. 16, 13.
+
+    **En.** John 16:13.
+
+[^17]: **La.** Ex antiquis mss. et ed. 1 substituimus *vel* loco *sive*.
+
+    **En.** From the ancient manuscripts and ed. 1 we have substituted *vel* in place of *sive*.
+
+## Notes
+
+These are Bonaventure's four *dubia circa litteram Magistri* on Lombard's text in d. 11. They cluster around the Master's discussion of the *Filioque*: which Councils Lombard had in mind, how to read the conciliar excommunication formula, the grammar of *Spiritus Filii*, and Didymus's *non sine me et sine meo et Patris arbitrio*.
+
+**Doctrinal core of dub. III.** Bonaventure's resolution of *Spiritus Filii* = *Spiritus a Filio* turns on two points: (1) in the divine being the genitive, which in creatures can carry many relations (origin, possession, etc.), is reduced *ratione materiae* to the single relation of origin, since no other relation obtains there; (2) *Spiritus*, when taken as denominated from *spiratio*, is itself a relational/origin-importing name. So both prongs converge: in God *Spiritus Filii* names the Spirit as proceeding from the Son.
+
+**Doctrinal core of dub. IV.** *Arbitrium* in Didymus's formula is read as *auctoritas*, not as *dominium* or *causalitas*. The two errors the Lord meant to exclude with *Non loquetur a semetipso* (John 16:13) are: that the Spirit has a *proper* speaking (against *Non sine me*), and that the Spirit has speaking *from Himself* / as *first principle* (against *Sine meo et Patris arbitrio*). The Holy Doctor's appeal to Didymus is the canonical patristic gloss on this verse for the Latin tradition.
+
+Cross-reference: dub. II's qualification on conciliar reformability is Bonaventure being careful — *only* in *res disciplinaris*, never in *res fidei*. Quaracchi's footnote [^10] flags this against any later reformist misreading.

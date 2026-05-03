@@ -1,0 +1,41 @@
+{
+  "27": [
+    "  bon-sent-I-d27-dubia: contains QUAESTIO 1 marker at line 6360 (should be a separate chunk?)",
+    "  bon-sent-I-d27-dubia: contains QUAESTIO 3 marker at line 6987 (should be a separate chunk?)",
+    "  bon-sent-I-d27-dubia: contains QUAESTIO 4 marker at line 7138 (should be a separate chunk?)",
+    "  bon-sent-I-d27-dubia: contains DUBIA  marker at line 7370 (should be a separate chunk?)",
+    "  GAP: 79 lines between bon-sent-I-d27-p1-a1-q4 (end 6281) and bon-sent-I-d27-p2-a1-q1 (start 6360)"
+  ],
+  "30": [
+    "  MISSING divisio chunk"
+  ],
+  "31": [
+    "  bon-sent-I-d31-p1-dubia: contains QUAESTIO 1 marker at line 12166 (should be a separate chunk?)",
+    "  bon-sent-I-d31-p1-dubia: contains QUAESTIO 3 marker at line 12621 (should be a separate chunk?)",
+    "  bon-sent-I-d31-p1-dubia: contains QUAESTIO 1 marker at line 12834 (should be a separate chunk?)",
+    "  bon-sent-I-d31-p1-dubia: contains QUAESTIO 3 marker at line 13128 (should be a separate chunk?)",
+    "  bon-sent-I-d31-p1-dubia: contains DUBIA  marker at line 13414 (should be a separate chunk?)",
+    "  GAP: 118 lines between bon-sent-I-d31-p1-a1-q3 (end 12048) and bon-sent-I-d31-p2-a1-q1 (start 12166)"
+  ],
+  "37": [
+    "  bon-sent-I-d37-p1-dubia: contains QUAESTIO 3 marker at line 23763 (should be a separate chunk?)",
+    "  bon-sent-I-d37-p1-dubia: contains ARTICULUS 2 marker at line 23923 (should be a separate chunk?)",
+    "  bon-sent-I-d37-p1-dubia: contains QUAESTIO 1 marker at line 23941 (should be a separate chunk?)",
+    "  bon-sent-I-d37-p1-dubia: contains QUAESTIO 2 marker at line 24148 (should be a separate chunk?)",
+    "  bon-sent-I-d37-p1-dubia: contains QUAESTIO 3 marker at line 24395 (should be a separate chunk?)",
+    "  bon-sent-I-d37-p1-dubia: contains DUBIA  marker at line 24641 (should be a separate chunk?)",
+    "  GAP: 242 lines between bon-sent-I-d37-p1-a2-q2 (end 23124) and bon-sent-I-d37-p3-a2-q1 (start 23366)"
+  ],
+  "40": [
+    "  GAP: 165 lines between bon-sent-I-d40-p3-a1-q1 (end 29714) and bon-sent-I-d40-p1-a4-q2 (start 29879)"
+  ],
+  "43": [
+    "  MISSING divisio chunk"
+  ],
+  "44": [
+    "  MISSING divisio chunk"
+  ],
+  "46": [
+    "  MISSING divisio chunk"
+  ]
+}

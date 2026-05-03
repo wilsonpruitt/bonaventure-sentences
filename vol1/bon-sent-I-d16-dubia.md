@@ -4,499 +4,173 @@ volume: 1
 book: 1
 distinctio: 16
 type: dubia
-title: "I Sent., d. 16, dubia"
-line_start: 51720
-line_end: 52599
-word_count_latin: 5977
+title_la: "Dubia circa litteram"
+title_en: "Doubts on the text"
+printed_pages: [285, 286]
+pdf_pages: [387, 388]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 285–286"
+has_scholion: false
+has_apparatus: true
+line_start: 51766
+line_end: 51998
+word_count_latin: 1406
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 51766–51998), fresh literal English translation, full apparatus from raw OCR (18 entries from two blocks across pp. 285–286), 5 dubia on the Master's littera (Filius minor / minor se ipso / paulo minus Angelis / Pater maior Filio / Donans-minor) (2026-05-02)"
+format_version: 1
 ---
 
-# I Sent., d. 16, dubia
-
-### Latin
-
-DIST. XVI. DUBIA.
-
-S C H 0 L I 0 N.
-
-I. In liac una quaeslione qualuor problemata solvuntur :
-I . quot sint niissiones et Filii et Spiritus sancti ; 2. quare Fi-
-
-lio una et Spiritui sancto plures attribuantur ; 3. quare et quo
-modo Filius apparuerit ut unitus, scilicet unione hypostatica,
-Spiritus sanclus aulem lanlum ut « signatum in signo » ; i.
-cur Filius , factus homo , sit se ipso minor , non vero Spiritus
-sanctus respectu sui signi (in solut. ad. 2.).
-
-II. Tres tantum enumerantur visibiles missiones Spiritus
-sancti, quia etiam Magister hoc loco tantum tres affert. A S.
-Thoma (S. I. q. 43. a. 7. ad 6.) aliisque additur quarta i in
-nube lucida^ (Matth. 47. S.), quae ab ipsa Ecclesia insinualur in Officio Transflgurationis (I. Noct. respons. II.) his verbis:
-« In splendenti nube Spiritus sanctus visus est n. luxta S. Bonav. vero (Comment. in Lucam c. 9. v. 34.) ista nubes signi-
-ficavit humanam Christi naturam.
-
-III. In solul. ad S. incidit etiam quinta quaestio , utrum
-illa columba fuerit res mere phantastica , an saltem res corporalis, vel etiam speciflce coluniba realis. Seraphicus mediam
-viam tenet , sicut etiam B. Albert. , Petr. a Tar. , Riehard. a Med.
-aliique multi. In eodem sensu loqui videtur ipse S. Thomas et in
-Comment. hic a. 3. ad 3. et in S. I. q. 43. a. 7. Attamen idem in
-S. 111. q. 39. a 7. veram columbam fuisse afflrmat, quae assertio
-tantum in sensu maioris probabilitatis dicta videtur , ut ibi observat Caietanus. Hanc opinionem sequitur etiam Uldarieus , « di-
-scipulus et imitator Alberti j> , ut dicit Dionys. Carth. , qui et
-ipse est eiusdem sententiae.
-
-IV. Praeter iam laudatos cfr. Alex. Hal. , S. p. 1. q. 74.
-m. 3. 5. — B. Albert. , hic a. 4. seq. — Petr. a Tar. , hic q.
-I. a. 6. — Richard. a Med., hic q. 5. — Mgid. R., hic 2.
-princ, q. i, et 3. princ. q, uniea. — Dionys. Carth. , hic q. 3.
-
-DUBIA CIRC.V LITTEKAM MAGISTRI.
-
-DUB. I.
-
-In parte ista sunt dubitationes circa litteram,
-€t primo dubitatur de hoc quod dicit, quod Filius
-in quantum missus , icl est factus, niinor est Patre.
-Contra quod sic obiicitur: omnis actus, secundum
-quem aliquem contingit fieri minorem, est indignitatis. Si ergo Filius ratione missionis est minoratus,
-ergo missio pertinet ad indignitatem '. Iteni, quandocumque aliquis de aequali fit minor, mutatur;
-sed Filius ante missionem erat aequalis, et modo
-est minor: ergo etc.
-
-Respondeo: Dicendum, quod quaedam dicuntur
-de Filio Dei per essentiam, quaedam per ^ unionem,
-quae tanta fuit, ut faceret hominem Deum et Deum
-hominem. Essentialiter loquendo, nullo modo Filius
-Dei est ininor: sed hoc dictum est per unionem,
-quia omnia quae dicuntur de homine, possunt dici
-de Filio Dei; et ita patet, quod nulla ex hoc est
-indignitas , nulla mutabilitas in eius persona; et
-sic solvitur utrumque obiectum, quia utraque ratio
-procedit, intellecto ^ quod secundum eandem naturam
-fieret minor, secundum quam erat aequalis, et ita
-desineret esse aequalis. Nunc autem simul est minor
-et aequalis^
-
-DUB. II.
-
-Item quaeritur de hoc quod dicit, quod .se
-ipso etiani minor est Filius. Videtur enim male dicere, quia maior diversitas importatur per hoc quod
-est maior et minor , quam per hoc quod esl alius
-et alius , quia prima non cadit in divina natura^
-secunda sic. Si ergo haec est vera: Filius est minor
-se, ergo et haec: Fihus est alius-et alius, et ita
-duae personae, quod non conceditur.
-
-Respondeo: Dicendum, quod verum est, quod
-maiorem diversitatem dicunt maior et minor , quia
-diversitatem virtutis et naturarum; sed ad hanc^
-diversitatem , quamvis sit maior , non sequitur diversitas in persona, quia plures naturae possunt esse
-in una persona. Quoniam ergo in Christo cadit diversitas naturarum et ita virtutum , non autem per-
-sonaruni: ideo dicitur maior et minor ratione diversarum virtutum , non autem alius et alius, cum
-non habeat diversas personas ^
-
-DUB. III.
-
-Item quaeritur de hoc quod dicit, quod minoratus esl paulo 7ninus ab Angelis. Videtur enim
-falsum , quia super illud ad Hebraeos secundo ' :
-
-
-Respondeo: Dicendum, quod est loqui de Chri-
-
-Quadropiei sto iu comparatione ad Angelos quantum ad quatuor,
-
-chrtstrad scilicet quantum ad qratiam et quantum ad natu-
-
-Angelos. ,. » : j ? ■ X
-
-ram mentts et quantum ad natwram corporis et
-quantum ad statum passibilitatis. Quantum ad graliam est simpliciter maior; quantum ad naturam
-mentis saltem non fuit minor, quia, sicut dicit
-Glossa ' : « Minor Angelis fuit corpore, non mente » ;
-quantum ad naiuram corporis minor fuit ; quantum
-autem ad statum ^ passibilitatis fuit minor et modico
-minoratus, quia status passibilitatis in statum gloriae
-et honoris paulo post convertendus erat^
-
-DiB. IV.
-
-Item quaeritur de hoc quod dicit Hilarius, quod
-Pater est maior Filio, quia si verum est quod
-dicit, cum idem sit in Deo sapientia, potentia, bonitas et magnitudo: ergo si* maior est, et est po-
-tentior et sapientior et melior. Praelerea , in Deo non
-est magnitudo molis, sed virtutis: ergo si Pater est
-maior, est potentior; quod stare non potest. Item,
-maior aut dicit essentiam, aut notionem. Non essentiam, quiaessentia sunt aequales; si notionem, quae-
-
-Quaestio in- Fo: quam ? Si tu dicas, quod paternitatem ; contra:
-comparalio securiflum raaius et ^ minus non attenditur nisi in comparticipantibus , unde non dicitur:
-cygnus est albior corvo; sed Filius non est comparticipans paternitatem : ergo etc. Item quaeritur :
-
-<juaesUo in- quare ^ non dicitur maior Spiritu sancto ?
-
-" "" ■ Respondeo : Dicendum , quod in Patre est aucto-
-
-ritas respectu Filii et Spiritus sancti, in Filio respectu
-Spiritus sancti, et ideo in Patre maior auctoritas et
-
-maior fecunditas; et quia nullum nomen ita competit
-ad exprimendam auctoritatem , sicut hoc nomen magnus : ideo dicit Hilarius , quod Pater est maior Filio.
-Ex hoc patent obiecta, quia maior non dicit essenliam, sicul potentia et sapientia , sed dicit notionem.
-Si quaeras: quam? dico, quod dicit notionem commu- Ad «luaesiio- ,
-niter, sed tamen in ratione principii, sicut subauctoritas in ratione emanantis'; et hinc est, quod
-Pater dicitur maior Filio, quia etsi uterque habeat
-notionem in ratione principii , Pater tamen in ratione
-principii tantum * , et ideo plus habet de ratione auctoritatis; Spiritus autem sanctus nullius personae
-est principium, et ideo non comparatur eis secundum maioritatem ".
-
-DuB. V.
-
-Item quaeritur de hoc quod dicit : Maior itaque
-donans est, sed minor etc. Videtur enim falsum ,
-quia quocumque modo accipiatur maior, dicitur
-relative ad minorem: ergo si est ponere Patrem maiorem, est ponere Filium minorem. Item, Pater di-
-citur maior, quia habet auctoritatem supra Filium:
-ergo cum Filius habeat subauctoritatem respectu
-Patris, debet dici minor. *
-
-Respondeo: Dicendum, quod nihil impedit, quare
-Filius non dicatur minor Patre ratione subauctoritatis , sicut Pater maior '", nisi quia nomina indigni-
-tatis in Deo non debent ad usum trahi; vel quia
-sancti Doctores , quantum possunt , se elongant ab
-haereticorum fallacia. Ideo cum Hilarius dixisset Patrem maiorem, noluit, quod Filius diceretur minor,
-ne videretur illa maioritas non tantum auctoritatis ,
-sed etiam inaequalitatis. Et quamvis Hilarius diceret
-in Patre auctoritatem, non tamen legitur dixisse in
-Filio subauctoritatem ; sed illud verbum
-est additum in consuetudinem disputantium ".
-
-' Apud Lyranum loc. cit. : Minor ergo Angelis corpore, non
-mente. Maiores tamen Angeli et homines (homine ?) dici possunt,
-qula maiores sunt hominis corpore. Maiores sunt et animo , sed
-in eo tantum quod peccati originalis merito corpus aggravat
-ipsum animum ; sed hoc non in Christo etc.
-
-
-DIST. XVd/ P. I.
-
-
-DISTINGTIO XVII.
-Pars 1.
-
-Quod &piritus sanbtus est caritas, qm diligitnus
-Deum et proximum.
-
-lam nunc accedamus ad assignandam missionem
-Spiritus sancti, qua invisibiliter mittitur in corda fldelium. Nam ipse Spiritus sanctus, qui Deus esl ac
-terlia in Trinitate persona, ut supra ostensum esl', a
-Patre et Filio ac se ipso temporaliter procedit, id est ,
-mittitur ac donatiir fldelibus. Sed quae sit ista missio
-sive donatio, vel quomodo flat, considerandum est.
-
-Hoc autem ut intelligibilius doceri ac plenius perspici valeat , praemittendum est quiddam ad hoc valde
-
-SVs. esfca- necessarium. Dictum quidem est supra et sacris aucto-
-
-quod Spiritus sanctus amor esl
-Patris et Filii, quo se invicem amant et nos. His autem
-addendum est, quod ipse idem Spiritus sanctus est
-amor sive caritas, qua nos diligimus Deum et proximum. Quae caritas, cum ita est in nobis, ut nos faciat
-diligere Deum et proximum, tunc Spiritus sanctus dicitur mitti vel dari * nobis; et qui diligit ipsam dile-
-ctionem, qua diligit proximum, in eo ipso Deum diligit, quia ipsa dilectio Deus esf^, id est Spirilus
-sanctus.
-
-Ne autem in re tanta aliquid de nostro influere''
-
-Probaiurau-videamur, sacris auctoritatibus quod dictum est corroboremus. De hoc Augustinus in octavo libro de Trini-
-tate" ait: «Qui proximum diligit, consequens est, ut
-
-I ipsam praecipue dilectionem diUgat. Deus autem dile-
-
-ctio est. Consequens ergo est, ut praecipue Deum diligat » . Item in eodem ' : « Deiis dilectio est ^ ut ait loannes
-Apostolus. Ut quid ergo imus et currimus in sublimia
-caelorum et ima terrarum, quaerentes eum qui est
-apud nos, si nos velimus esse apud eum»? «Nemo
-dicat: non novi, quid diligam. Diligat fratrem et diligat
-eandem dilectionem. Magis enim novit dilectionem, qua
-diligit, quam fratrem, quem diligit. Ecce iam potes
-notiorem Deum habere quam fratrem , plane notiorem,
-quia praesentiorem, quia interiorem, quia certiorem.
-
-Amplectere dilectionem Deum " et dilectione aniplectere
-Deum. Ipsa est dilectio , quae omnes bonos Angelos et
-omnes Dei servos consociat vinculo sanctitatis. Quanto
-igilur saniores ° sumus a tumore superbiae , tanlo sumus
-dilectione pleniores: et quo nisi Deo plenus est qui
-plenus esl dilectione». His verbis satis ostendit Auguslinus, quod dilectio ipsa, qua diligimus Deum vel
-proximum, Deus esl. Sed adhuc apertius in eodem
-libro " subdit dicens : « Dilectionem fraternam quantum
-commendet loannes Apostolus , attendamus. Qui diligit,
-inquit", fratrem in lumine manet, et scandalum in
-eo non est. Manifestum est, quod iustitiae perfectionem
-in fratris dilectione posuerit. Nam in quo scandalum
-non est utique perfectus est. Et tamen videtur, dilectionem Dei tacuisse, quod nunquam faceret, nisi quia
-in ipsa fraterna dilectione vult intelligi Deum. Apertissime enim in eadem Epistola " paulo post dicit ita :
-Dileclissimi , diligamus invicem, quia dilectio ex Deo
-est: et omnis qui diligit, ex Deo natus est et cognovit
-Deum. Qui non diligit mti cognovit Deum, quia Deus
-dilectio est. Ista contextio satis aperte declarat, eandem
-ipsam fraternam dilectionem — nam fraterna dilectio esf
-qua diligimus invicem — non solum ex Deo, sed etiam
-Deum esse tanta auctoritate praedicari, scilicet loannis.
-Cum ergo de" dilectione diligimus fratrem, de Deo
-diligimus fratrem ; nec fleri potest , ut eandem dilectionem non praecipue diligamus, qua fratrem diligimus,
-quoniam Deus dilectio est». Item'*: «Qui non diligit
-fralrem non est in dilectione; et qui non est in dilectione non est in Deo, quia Deus dilectio est». Ecce
-apertissime •' dicit, fraternam dilectionem Deum esse.
-
-Quod fraterna dilectio est Deus, nec Pater vel Filim ,
-sed tantum Spiritus sanctus.
-
-Cum autem fralerna dilectio sit Deus, nec Paler
-est nec Filius , sed tantum Spiritus sanclus, qui proprie
-in Trinitate dilectio vel carilas dicitur. Unde Augustinus
-
-— Immediate posl cod. E et Vat. semet-
-
-
-quitur lectionem Augustini. — Hie incipit Magister exponere
-suam sententiani , ut falsam communiter reprobatam , quae caritatem ul habitum creatum negat; de quo vide S. Bonaventu-
-ram, hic p. I. q. 1.
-
-
-quoniam Deus caritas est. — Mox Vat. cum plurimis edd.
-
-
-quia de Spiritu suo dedil nobis. Spirltus Itaque sanctus, de quo dedit uobis, facit nos In Deo manere et
-ipsum iu nobis; hoc aulem facit dllectio. Ipse est igitur Deus dileclio. Ipse ergo* siguificatur, ubi legitur:
-Deus dilectio est». Ex his apparet, quod Spiritus sauctus carilas est.
-
-Cap. III.
-
-Quod non est dictum per causam illud: Deus caritas
-est, sicul illud: Tu es patientia mea et spes mea.
-
-Sed ne forte aliquls dical, lllud esse dictum per
-expressionem causae : Detts caritas est, eo scllicet quod
-caritas sit ex Deo et'' non sit ipse Deus, slcut dicitur:
-Deus nostra palienlia est et spes, non quod Ipse sit
-ista, sed quia ista ex Deo sunl; occurrit Augustlnus
-ostendens, uon hoc esse dictum per causam, sicut illa ,
-In decimo quinto libro de Trinitate " ita diceus: «Non
-dicturi sumus, caritatem uon propterea esse dlctam
-Deum, quod Ipsa caritas sit una substantia, quae Dei
-digua sit uomine, sed quod donum sit Dei, sicut dictum est ' Deo : Tu es patientia mea. Nou utique ideo
-dictum est, quod Dei substantia est nostra patientia,
-sed quia ab Ipso nobis est. Unde alibi ^: Ab ipso est
-patientia mea. Hunc enim sensum facile refellit Scripturarum ipsa locutio. Tale est enim: Tu es patientia mea,
-quale est: Domine spes mea", et: Deus meus misericordia mea, et multa similla. Non est autem dictum:
-Domiue caritas mea, aut: tu es caritas mea, aut: Deus
-caritas mea; sed Ita dictum est'": Deus caritas est,
-sicut dictum est: Deiis spiritus est. Hoc qui uou discernit intellectum a Domino, non expositionem quae-
-ral a nobis; non enim apertius quidquam possumus
-dicere. Deus e.rgo caritas est » . Ex praedictis clarescil.
-
-quod Spiritus sanctus caritas est , qua diliglmus Deum
-et proximuni; unde facllius est noljis ostendere, quomodo Spiritus sanctus mittatur sive detur nobis.
-
-Quomodo Spiritus sanctus mittatur vel detur nobis.
-
-Tuuc enlm mltti vel darl " dlcitur, cum ita in
-nobis est, ut faciat nos diligere Deum et proxlmum,
-per quod mauemus In Deo et Deus in uobis. Unde Augustinus hunc missiouis modum insiuuaus iu decimo
-quinto libro de Trinitate '" ait: « Deus Spirllus sanctus,
-qul procedlt ex Deo , cum datus fuerit homini , accendit eum ad diligendum Deum et proxiniuni, et ipsc
-dilectio est. Non enim habet homo, unde Deum diligat, nisl cx Deo». Ecce quomodo datur vel mittilur
-nobis Spiritus sanetus, secundum quod dicitur datum
-sive donum. Quod donum Augustiuus commeudat explanaus apertius, quomodo detur, in eodem libro " :
-«Dilectio, inquit, Dei diffusa est in cordibus nostris,
-ut ait Apostolus, per Spiritum sanctum, qui datus est
-nobis. Nullum est isto Dei dono excellentius. Solum "
-est, quod dividlt iuter fllios regni et filios perditlonls.
-Dantur et alia per Spiritum muuera, sed sine caritate
-nihil prosunt. Nisi ergo tantum impertlatur cuiquam
-Spirllus sanctus, ut eum Dei et proximi faciat aniatorem , a siuistra "^ uon transfertur ad dexteram. Nec
-Spiritus sanctus proprie dicitur donum nisi propter
-dilectionem, quam qui uon habuerit, etsi loquatur
-omnibus linguis, et habuerit 'prophetiam et omnem
-scientiam et omnem fidem, et distribuerit omnem substantiam suam, et tradiderit corpus suum, ita ut ar-
-deat, nihileiprodest". Quantum ergo bouum est , sine
-quo ad aeternam vitam neminem tauta boua perducunt?
-Ipsa vero dilectio vel caritas — nam uuius rei nomen est
-utrumque — perducit ad regnum. Dilectlo igitur, quae
-ex Deo est et Deus ", proprie Spiritus sanctus est, per
-quem diffunditur in cordibus nostris Deus caritas, per
-quam nos tota inhabitat Trlnitas. Quocirca reetissime
-Spiritus sanctus, cum sit Deus, vocatiu" etiam donum
-Dei. Quod donum proprie quid nlsi caritas inlelligendum est, quae perducit ad Deum, et sine qua quod-
-libet allud Dei donum non perducit ad Deum»? Ecce
-hic aperitur , quod supra dictum erat '*, scilicet quod
-
-' Cop. 19. n. 37. — Proximus locus Auguslini est loc.
-cit. c. 17. n. 31 ; sed initium eius a Magistro esl contractum,
-insuper plura verl^a mutata sunt.
-
-
-quomodo hoc donum, id est Spiritus sanctus, detur nobis , scilicet cum ita impertitur allcui, id est, ita habel
-
-esse in aliquo , ut eum faciat Dei el proximi amatorem.
-Quod cum facit, tunc dari dicitur sive mitti alicui , et
-tunc ille dicitur proprie habere Spirilum sanctum.
-
-Utnmi Spiritus saiicttcs augeatur in homine oel minus
-ei magis habeatur vel detur , el an cletur habenti
-et non fiabenli.
-
-Hic quaeritur, si caritas Spiritus sanctus est, eum
-ipsa augeatur et minuatur in homine et magis et
-minus per diversa tempora habeatur , utrum concedendum sit, quod Spiritus sanctus augeatur vel minuatur
-in homine et magis vel ' minus habeatm-. Si enim in
-homine augetur et magis vel minus datiu- et habetur,
-mutabilis esse videtur; Deus aulem omnino immutabilis est. Videtur ergo, quod vel Spiritus sanctus non
-sit caritas, vel caritas non augeatur vel minuatur in
-homine. Iteni, caritas et non habenti datur, uthabeat,
-et liabenti, ut plenius habeat^. Si ergo Spiritus sanctus caritas est, el iion habenti datur, ut habeat, et
-habenli , ut plenius habeat. Sed quomodo datur iion
-habenti, cum ipse ut Deus sil ubique et in omnibus
-creaturis totus? et quomodo plenius datur vel habetur
-sine sui niutatione ?
-
-His ita ' respondemus dieenles, quod Spiritus san-
-Responsio ctus sivc caritas penitus immutabilis est nec in se
-augetur vel minuitur nec in se recipit magis vel
-minus, sed in homine vel potius hoinini augetur et
-minuitur et magis vel minus datur vel habetur; sicut
-Deus dicitur raagnificari et exaltari in nobis, qui tamen
-in se nec magniflcatur nec exaltatur. Unde Propheta^-
-Accedet homo ad cor allum, et exaltabitur Deus. Super
-quem locum ait auctoritas": «Deus non in se, sed in
-corde hominis grandescit » . Sic ergo Spiritus sanctus
-homini datur et datus amplius datur, id est augetur, el
-magis ac minus habetur, et tamen immutabilis existit.
-
-Cumque ubique sit et in omni creatura totus, sunt
-
-tamen multi , qui eum non habent. Non enim omnes
-
-wi.qiiMst. Spiritum sanctum habent, in quibus est; alioquin et
-
-irrationales creaturae haberenl Spiritum sanctum , quod
-
-fldei pielas non admittit.
-
-Ut autem cerlius flal quod diximus, aucloritatec
-confirmamus^ Quod Spiritus sanctus magis ac minus
-percipiatur et Iiomini augeatur et non habenti delur,
-et habenti, ut plus habeatur, Augustinus ostendit super
-loannem ' dicens: « Sine Spiritu sancto conslat Christura
-nos non diligere et eius mandata servare non posse, et
-id nos posse atque agere tanto minus, quanlo illum
-percipimus minus, tanto vero amplius, quanto illum
-percipimus amplius. Ideoque iion soluni non habenti,
-verum etiara habenti non iiicassum i)roinitlitur: non
-habenti quidem, ut habeatur, habenti autem, ut amplius habeatur. Nam si ab alio minus et ab alio
-amplius non haberetur, sanctus Eliseus sancto Eliae
-non dicerel': Spiritus, qui est in te, dupio sit in
-me. Christo autem, qui est Dei Filius, non ad mensurani datus est Spiritus''. Neque enim sine ^ratia
-Spiritus sancti est Mediator Bei et hominum homo
-Christus" ; quod enim est unigenitus Filius aequalis
-Patri, non est gratiae, sed naturae; quod autem in
-unitatera personae Unigeniti assuralus est horao, gratiae est, non naturae. Ceteris autem ad mensuram da-
-tur et datus addilui-, donec unicuique pro modo suae
-perfectionis propria mensura corapleatur». Ecce expressum " habes, quod Spiritus sanctiis magis et minus
-datur vel accipitur, et homini datus augetur, et habenti
-et non habenti datur, quia Spiritus sanctus est caritas,
-quae non habenti datur et in habente augetur et proflcit"
-Immo, ut verius et magis proprie loquar, homo in ea
-proflcit et deflcit aliquando; el tunc ipsa dicitur proflcere vel deflcere, quae tamen nec proflcit nec deflcit in
-se, quia Deus est. Unde Augustinus in horailia nona super
-Epistolam loannis'^ ait: «Probet se quisque, quantuin
-in illo profecerit caritas, vel potius quanlum ipse in
-caritate profecerit. Nam si carilas Deus est, nec proflcit nec deflcit. Sic ergo dicitur proflcere in te caritas ,
-quia lu in ea proficis». Ecce quomodo intelligendum
-sil, cum dicitur Spiritus sanctus augeri in nobis, quia
-nos in eo scilicet proficimus; sic et alia huiusmodi.
-
-
-que Eliseus : Obsecro, ut spiritus tuus fiat duplex in me. Quod
-ibidem sic exponitur: Etias spiritu propketali et operatione
-miraculomm excellenter pollebat. Geminam ergo gratiam,
-qmm Eliseus in Magistro vigere cognoscebat, sibi tribui rogavit. Unde patet, quod non esse discipulm super Magistrum
-postulavit.
-
-
-qua nos fideles facit». His verbis vldetur monstrarl
-distinctio inter carltatem, quaDeus nos diligit, et qua
-nos diligimus. Et sicut iustitia nostra dicitur Dei,
-non quod ipse sit ea iustus, sed quia ea nos iustos
-facit, similiter et fides et salus; sic videtur dicta carilas Dei, quae est in nobls, non quod ipse ea dillgal,
-sed quia ea nos dillgere facil. De hoc etlam idein Augustlnus in libro decimo qulnto de Trinitate- ait:
-«Cum loannes coinmemorasset Dei dllectionem, non
-qua nos eum, sed qua ipse dilexit nos, et misit Filiim
-suum liberatorem pro peccatis nostris » . Ecce et hic
-videtur manifeste dividere dilectlonein, qua nos diligimus Deum, ab ea, qua ipse diligit nos. Si ergo, in-
-quiunt, Spiritus sanctus dilectio est, qua Deus diliglt,
-et qua nos diligimus, duplex dileclio est, imnio duo
-diversa est, quod absurduni et a veritate longe esl.
-Non est ergo dllecllo, qua dillgimus, sed qua Deus
-lanlum diligit nos.
-
-Hls respondemus praedlctaruni auctoritatum veiba
-Kesponsio. determinantes hoc modo: carltas Del dicta est dlffundi in cordibus nostris, non qua ipse nos diligit,
-sed qua nos diligere facit etc. His verbis non dlviditur nec diversa ' ostenditur carilas, qua Deus nos dl-
-ligit, ab ea, qua nos dillgimus, sed potius, cum sit
-una et eadem caritas et dlcatur Ipsa Dei caritas, diversis dc causis et rationibus Dei caritas appellari in
-
-' Cap. 32. 11. 56 ; in principio texlus Magistcr verba niutavit. Sic enim legitur apud Augustinum: Unde ergo ista dilectio,
-id est caritas , per qmm fides operatur , nisi unde illam
-fides ipsa impetravit ? Neqiie enim ctc. — Locus Scripturae ,
-ad quem alluditur , est Rom. S , S.
-
-- Cap. 17. n. 3i. Alluditur ad I. loan. i, 10, ubi Magister male habet liberatorem. Vulgata : propitiaiionem ; edd. 1 ,
-8- cum textu Augustini fetoiorm . ( Graece • iW^ov ).
-
-
-qua nos salvat , et fides Christi, qua nos fldeles facit.
-
-Slinillter et aliam exponimus auctoritatem , ubi
-ait, dilectionem Dei commemorari, non qua nos eum,
-sed qua ipse dilexit nos, ac .si dicerel, commemorat
-dilectionem Dei , non secundum quod ea nos dlllgimus
-Deum, sed secundum quod ipse ea diligit nos.
-
-Sed allud est, inquiunt, quod magls urget. Dixlt
-enim supra = Augustinus , quod dilectio est a Splritu
-sancto, a quo et (Ides. Sicut ergo lides non est Spirltus sanctus , a quo est , ita nec caritas. Quomodo enim
-caritas" Spirilus sanctus est, sl ab ipso est? Nam
-si ab ipso est et ipse esl, ergo Spiritus sanctus a se
-ipso est. Ad quod diclmus : Splritus sanctus quidem a
-se ipso non est, sed tamen a se Ipso datur nobls, ul
-supra dictum est '. Dal enim se Ipsum nobis Spiritus
-sanctus. Et ex hoc sensu diclum est, quod caritas ab
-ipso est in nobis, et tamen ipsa Spiritus sanctus est.
-Fides autein est a Splritu sancto, et non est Spiritus
-sanctus, quia donum vel datum solummodo est, non
-Deus dans.
-
-Alias quoque inducunt rationes ad idem ostendendum, scilicet qnod caritas non sit Spiritns sanctus,
-quia caritas affectio mentis est et motus animl; Spiritus sanctus vero non est alTectio animi vel motus mentls,
-quia Splritus sanctus Immutabilis est el ' Increatus :
-non est ergo caritas.
-
-Quod autem caritas sit alTectio animi et motus
-mentis, auctoritatibus conflrmant. Dicit enlm Augustinus in tertio libro de Doclrlna christiana": «Carita-
-tem voco motuin anlmi ad fruendum Deo propter Ipsum
-et se ac proxiino propter Deum » . Idem in libro de Moribus Ecclesiae catholicae '", Iractans illud verbum Apo-
-stoli : Nec mors nec vita poleril tios separare a caritate Dei: «CaritasDei, inquit, hic dlcta est virtus,
-quae anlml nostri rectissima affeetio est, quae coniungit nos Deo, qua eum diligimus». Ecce his verbis
-exprimitur, quod caritas est affectio et motus anlmi,
-ac per hoc non videtur esse Splritus sanctus.
-
-Ad quod dicimus, hoc ila dictum esse, sicut dicitur: Deus est spes nostra, el patienlia nostra, quia
-
-### English
-
-[Translation pending]
-
-### Notes
+# bon-sent-I-d16-dubia
+## *Dubia circa litteram*
+
+---
+
+## Latin
+
+<!-- page 285 -->
+
+### Dubium I.
+
+In parte ista sunt dubitationes circa litteram, et primo dubitatur de hoc quod dicit, quod *Filius in quantum missus, id est factus, minor est Patre*. Contra quod sic obiicitur: omnis actus, secundum quem aliquem contingit fieri minorem, est indignitatis. Si ergo Filius ratione missionis est minoratus, ergo missio pertinet ad indignitatem[^1]. Item, quandocumque aliquis de aequali fit minor, mutatur; sed Filius ante missionem erat aequalis, et modo est minor: ergo etc.
+
+**Respondeo:** Dicendum, quod quaedam dicuntur de Filio Dei per essentiam, quaedam per[^2] unionem, quae tanta fuit, ut faceret hominem Deum et Deum hominem. Essentialiter loquendo, nullo modo Filius Dei est minor: sed hoc dictum est per unionem, quia omnia quae dicuntur de homine, possunt dici de Filio Dei; et ita patet, quod nulla ex hoc est indignitas, nulla mutabilitas in eius persona; et sic solvitur utrumque obiectum, quia utraque ratio procedit, intellecto[^3] quod secundum eandem naturam fieret minor, secundum quam erat aequalis, et ita desineret esse aequalis. Nunc autem simul est minor et aequalis[^4].
+
+### Dubium II.
+
+Item quaeritur de hoc quod dicit, quod *se ipso etiam minor est Filius*. Videtur enim male dicere, quia maior diversitas importatur per hoc quod est *maior et minor*, quam per hoc quod est *alius et alius*, quia prima non cadit in divina natura, secunda sic. Si ergo haec est vera: *Filius est minor se*, ergo et haec: *Filius est alius et alius*, et ita duae personae, quod non conceditur.
+
+**Respondeo:** Dicendum, quod verum est, quod maiorem diversitatem dicunt *maior et minor*, quia diversitatem virtutis et naturarum; sed ad hanc[^5] diversitatem, quamvis sit maior, non sequitur diversitas in persona, quia plures naturae possunt esse in una persona. Quoniam ergo in Christo cadit diversitas naturarum et ita virtutum, non autem personarum: ideo dicitur *maior et minor* ratione diversarum virtutum, non autem *alius et alius*, cum non habeat diversas personas[^6].
+
+### Dubium III.
+
+Item quaeritur de hoc quod dicit, quod *minoratus est paulo minus ab Angelis*. Videtur enim falsum, quia super illud ad Hebraeos secundo[^7]: *Eum qui modico quam Angeli minoratus est*, dicit Glossa: « Natura humanae mentis, qualem Christus assumsit, quae nullo peccato potuit depravari, solus Deus maior est ». Item, beata Virgo, quae est pure creatura, est super omnes Angelos exaltata: ergo etc.
+
+<!-- page 286 -->
+
+**Respondeo:** Dicendum, quod est loqui de Christo in comparatione ad Angelos quantum ad quatuor, scilicet *quantum ad gratiam* et *quantum ad naturam mentis* et *quantum ad naturam corporis* et *quantum ad statum passibilitatis*. Quantum ad gratiam est simpliciter maior; quantum ad naturam mentis saltem non fuit minor, quia, sicut dicit Glossa[^8]: « Minor Angelis fuit corpore, non mente »; quantum ad naturam corporis minor fuit; quantum autem ad statum[^9] passibilitatis fuit minor et modico minoratus, quia status passibilitatis in statum gloriae et honoris paulo post convertendus erat[^10].
+
+### Dubium IV.
+
+Item quaeritur de hoc quod dicit Hilarius, quod *Pater est maior Filio*, quia si verum est quod dicit, cum idem sit in Deo sapientia, potentia, bonitas et magnitudo: ergo si[^11] maior est, et est potentior et sapientior et melior. Praeterea, in Deo non est magnitudo molis, sed virtutis: ergo si Pater est maior, est potentior; quod stare non potest. Item, *maior* aut dicit essentiam, aut notionem. Non essentiam, quia essentia sunt aequales; si notionem, quaero: quam? Si tu dicas, quod paternitatem; contra: comparatio secundum *maius et*[^12] *minus* non attenditur nisi in comparticipantibus, unde non dicitur: *cygnus est albior corvo*; sed Filius non est comparticipans paternitatem: ergo etc. Item quaeritur: quare[^13] non dicitur maior Spiritu sancto?
+
+**Respondeo:** Dicendum, quod in Patre est *auctoritas* respectu Filii et Spiritus sancti, in Filio respectu Spiritus sancti, et ideo in Patre *maior auctoritas* et *maior fecunditas*; et quia nullum nomen ita competit ad exprimendam auctoritatem, sicut hoc nomen *magnus*: ideo dicit Hilarius, quod Pater est maior Filio. Ex hoc patent obiecta, quia *maior* non dicit essentiam, sicut potentia et sapientia, sed dicit notionem. Si quaeras: quam? dico, quod dicit notionem communiter, sed tamen *in ratione principii*, sicut *subauctoritas* in ratione emanantis[^14]; et hinc est, quod Pater dicitur maior Filio, quia etsi uterque habeat notionem in ratione principii, Pater tamen in ratione principii tantum[^15], et ideo plus habet de ratione auctoritatis; Spiritus autem sanctus nullius personae est principium, et ideo non comparatur eis secundum maioritatem[^16].
+
+### Dubium V.
+
+Item quaeritur de hoc quod dicit: *Maior itaque donans est, sed minor* etc. Videtur enim falsum, quia quocumque modo accipiatur *maior*, dicitur relative ad minorem: ergo si est ponere Patrem maiorem, est ponere Filium minorem. Item, Pater dicitur maior, quia habet auctoritatem supra Filium: ergo cum Filius habeat subauctoritatem respectu Patris, debet dici minor.
+
+**Respondeo:** Dicendum, quod nihil impedit, quare Filius non dicatur minor Patre ratione subauctoritatis, sicut Pater maior[^17], nisi quia *nomina indignitatis in Deo non debent ad usum trahi*; vel quia sancti Doctores, quantum possunt, se elongant ab haereticorum fallacia. Ideo cum Hilarius dixisset Patrem maiorem, noluit, quod Filius diceretur minor, ne videretur illa maioritas non tantum auctoritatis, sed etiam inaequalitatis. Et quamvis Hilarius diceret in Patre auctoritatem, non tamen legitur dixisse in Filio subauctoritatem; sed illud verbum est additum in consuetudinem disputantium[^18].
+
+---
+
+## English
+
+### Doubt I.
+
+In this part there are doubts concerning the *littera*, and first there is doubt about what he says, that *the Son, insofar as he is sent, that is, made, is less than the Father*. Against which it is objected thus: every act, according to which something is made less, is of unworthiness. If therefore the Son by reason of mission is made less, then mission pertains to unworthiness[^1]. Likewise, whenever someone from being equal becomes less, he is changed; but the Son before mission was equal, and now is less: therefore etc.
+
+**I respond:** It must be said, that some things are said of the Son of God *by essence*, some *by union*[^2], which was so great that it made man God and God man. Speaking essentially, in no way is the Son of God less; but this was said by reason of union, because all things which are said of the man can be said of the Son of God; and so it is clear that there is no unworthiness from this, no mutability in his person; and thus both objections are resolved, since both reasonings proceed [only] if it is understood[^3] that he became less according to the same nature according to which he was equal, and so would cease to be equal. But now he is at the same time less and equal[^4].
+
+### Doubt II.
+
+Likewise it is asked about what he says, that *the Son is less even than himself*. For it appears to speak ill, because greater diversity is implied by the [pair] *greater and less* than by *one and another*, since the first does not fall in the divine nature, but the second does. If therefore this is true: *the Son is less than himself*, then also this: *the Son is one and another*, and so two persons — which is not granted.
+
+**I respond:** It must be said, that it is true that *greater and less* state a greater diversity, namely a diversity of power and of natures; but to this[^5] diversity, although it is greater, there does not follow a diversity in person, because several natures can be in one person. Therefore since in Christ there falls a diversity of natures and so of powers, but not of persons: therefore he is called *greater and less* by reason of the diverse powers, but not *one and another*, since he does not have diverse persons[^6].
+
+### Doubt III.
+
+Likewise it is asked about what he says, that *he was made a little less than the Angels*. For it appears false, because on that [text] of Hebrews 2[^7]: *Him who was made a little less than the Angels*, the Gloss says: "The nature of the human mind, such as Christ assumed, which could be depraved by no sin, only God is greater than it". Likewise, the blessed Virgin, who is purely a creature, is exalted above all the Angels: therefore etc.
+
+**I respond:** It must be said, that one can speak of Christ in comparison to the Angels with respect to four things, namely *with respect to grace*, *with respect to the nature of mind*, *with respect to the nature of body*, and *with respect to the state of passibility*. With respect to grace he is simply greater; with respect to the nature of mind he was at least not less, because, as the Gloss says[^8]: "He was less than the Angels in body, not in mind"; with respect to the nature of body he was less; but with respect to the state[^9] of passibility he was less and made *a little* less, because the state of passibility was a little after to be converted into the state of glory and honor[^10].
+
+### Doubt IV.
+
+Likewise it is asked about what Hilary says, that *the Father is greater than the Son*; because if what he says is true, since wisdom, power, goodness, and greatness are the same in God: therefore if[^11] he is greater, he is also more powerful and wiser and better. Furthermore, in God there is no greatness of mass, but [only] of power: therefore if the Father is greater, he is more powerful; which cannot stand. Likewise, *greater* either states essence or notion. Not essence, because [the persons] are equal in essence; if [it states] notion, I ask: which? If you say *paternity*; on the contrary: a comparison according to *more and*[^12] *less* is attended only among co-participants, whence it is not said: *the swan is whiter than the raven*; but the Son is not co-participant in paternity: therefore etc. Likewise it is asked: why[^13] is he not called greater than the Holy Spirit?
+
+**I respond:** It must be said, that in the Father there is *authority* with respect to the Son and the Holy Spirit, in the Son with respect to the Holy Spirit, and therefore in the Father there is *greater authority* and *greater fecundity*; and because no name fits as well to express authority as the name *great*: therefore Hilary says that the Father is greater than the Son. From this the objections are clear, because *greater* does not state essence, like power and wisdom, but states notion. If you ask: which? I say that it states notion *commonly*, but yet *in the account of principle*, just as *sub-authority* [does] in the account of one emanating[^14]; and hence it is, that the Father is called greater than the Son, because although both have notion in the account of principle, the Father is in the account of principle only[^15], and therefore has more of the account of authority; but the Holy Spirit is the principle of no person, and therefore he is not compared to them according to greatness[^16].
+
+### Doubt V.
+
+Likewise it is asked about what he says: *Greater therefore is the giver, but less* etc. For it appears false, because in whatever mode *greater* is taken, it is said relatively to a less one: therefore if there is to be posited a greater Father, there is to be posited a less Son. Likewise, the Father is called greater because he has authority over the Son: therefore since the Son has sub-authority with respect to the Father, he ought to be called less.
+
+**I respond:** It must be said, that nothing impedes why the Son should not be called less than the Father by reason of sub-authority, just as the Father [is called] greater[^17], except that *names of unworthiness in God ought not to be drawn into use*; or because the holy Doctors, as much as they can, distance themselves from the fallacy of heretics. Therefore when Hilary had said the Father [is] greater, he did not wish that the Son be called less, lest that greatness should appear [to be] not only of authority but also of inequality. And although Hilary said there is authority in the Father, yet he is not read to have said sub-authority in the Son; but that word was added by the custom of those disputing[^18].
+
+---
+
+## Apparatus
+
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry.
+
+[^1]: **La.** Auctoritate antiquiorum mss. et ed. 1 removimus *Dei*, quod Vat. cum cod. cc perperam addit.
+
+    **En.** On the authority of the older manuscripts and edition 1 we have removed *Dei*, which the Vatican [edition] with codex cc wrongly adds.
+
+[^2]: **La.** Ed. 1 *propter*.
+
+    **En.** Edition 1 [reads] *propter*.
+
+[^3]: **La.** Cod. I *intelligendo*; cod. dd *utraque obiectio, quia utraque obiectio procedit intelligendo*.
+
+    **En.** Codex I [reads] *intelligendo*; codex dd [reads] *utraque obiectio, quia utraque obiectio procedit intelligendo*.
+
+[^4]: **La.** Cfr. hic q. 3. ad 1. et 2.
+
+    **En.** Cf. here q. 3, *ad* 1 and 2.
+
+[^5]: **La.** Cod. Z loco *hanc* ponit *talem*, Vat. *naturae*, ed. 1 vero *talem naturae*; alii codd. exhibent lectionem in textum receptam.
+
+    **En.** Codex Z places *talem* in place of *hanc*; the Vatican [edition reads] *naturae*; edition 1 [reads] *talem naturae*; the other codices give the reading received into the text.
+
+[^6]: **La.** Idem dubium solvunt B. Albert., hic a. 11. — Richard. et Petrus, hic in expos. lit.
+
+    **En.** The same doubt is resolved by B. Albert, here a. 11. — Richard and Peter [of Tarentaise], here in the *expositio litterae*.
+
+[^7]: **La.** Vers. 9, in quo textu Vat. contra Vulgatam, antiquiores codd. et ed. 1 *ab Angelis* loco *quam Angeli*. Glossa mox citata sic a Lyrano (Hebr. 2, 9.) exhibetur: « Natura humanae mentis, quae ad imaginem Dei sine peccato, qualem Christus assumsit, solus maior est Deus ». Vat. absque ulla auctoritate mss. et ed. 1 *super omnes* pro *solus Deus*. Paulo ante plurimi codd. post *falsum* omittunt *quia*.
+
+    **En.** [Hebrews 2,] verse 9, in which text the Vatican [edition], against the Vulgate, the older codices, and edition 1, [reads] *ab Angelis* in place of *quam Angeli*. The Gloss soon cited is given thus by Lyra (Hebr. 2, 9): "The nature of the human mind, which [is made] to the image of God without sin, such as Christ assumed, only God is greater [than it]". The Vatican [edition], without any authority of the manuscripts and edition 1, [reads] *super omnes* for *solus Deus*. A little before, most codices after *falsum* omit *quia*.
+
+[^8]: **La.** Apud Lyranum loc. cit.: *Minor ergo Angelis corpore, non mente. Maiores tamen Angeli et homines (homine?) dici possunt, quia maiores sunt hominis corpore. Maiores sunt et animo, sed in eo tantum quod peccati originalis merito corpus aggravat ipsum animum; sed hoc non in Christo* etc.
+
+    **En.** In Lyra at the place cited: *Therefore [he was] less than the Angels in body, not in mind. Yet the Angels can be called greater also than men, because they are greater than man in body. They are greater also in mind, but only in that the body, by reason of original sin, weighs down the mind itself; but this is not [the case] in Christ* etc.
+
+[^9]: **La.** Licet plurimi codd. cum Vat. et ed. 1 habeant *materiam*, praeferimus tamen lectionem codd. L M O, utpote quae membris divisionis a S. Doctore superius positis respondet.
+
+    **En.** Although most codices with the Vatican [edition] and edition 1 have *materiam*, we nevertheless prefer the reading of codices L, M, O, inasmuch as it corresponds to the members of the division placed above by the Holy Doctor.
+
+[^10]: **La.** Cfr. B. Albert., hic a. 12. — S. Thom., hic expos. text. — Petr. a Tar., hic q. 1 a. 7, et expos. text. — Richard. a Med., hic q. 6. — Aegid. R., hic circa lit. — Dionys. Carth., hic q. 2, in fine.
+
+    **En.** Cf. B. Albert, here a. 12. — St. Thomas, here in the *expositio textus*. — Peter of Tarentaise, here q. 1, a. 7, and in the *expositio textus*. — Richard of Mediavilla, here q. 6. — Aegidius Romanus, here circa litteram. — Dionysius Carthusianus, here q. 2, at the end.
+
+[^11]: **La.** Supple cum aliquibus mss. ut FHWY aa bb *Pater*.
+
+    **En.** Supply with some manuscripts (FHWY, aa, bb): *Pater*.
+
+[^12]: **La.** Fide antiquiorum mss. et ed. 1 substituimus *et* loco *aut*. Paulo infra ed. 1 *comparticipans Patri in paternitate* pro *comparticipans paternitatem*. — De hac ratione vide supra d. 8. p. I. dub. 4.
+
+    **En.** On the faith of the older manuscripts and edition 1 we have substituted *et* in place of *aut*. A little below, edition 1 [reads] *comparticipans Patri in paternitate* for *comparticipans paternitatem*. — On this reasoning see above d. 8, p. I, dub. 4.
+
+[^13]: **La.** In cod. bb additur *uterque*.
+
+    **En.** In codex bb is added *uterque*.
+
+[^14]: **La.** Vide supra d. 13. dub. 4. et d. 15. p. I. q. 1. ad 2. et 3, ac infra d. 20. a. 1. q. 2. ad 4, et d. 27. p. I. q. 2. ad 3.
+
+    **En.** See above d. 13, dub. 4, and d. 15, p. I, q. 1, *ad* 2 and 3; and below d. 20, a. 1, q. 2, *ad* 4, and d. 27, p. I, q. 2, *ad* 3.
+
+[^15]: **La.** Ed. 1 addit *scilicet, non principiati*.
+
+    **En.** Edition 1 adds *scilicet, non principiati* [namely, not of one having a principle].
+
+[^16]: **La.** Ita vetustiores codd. cum ed. 1, dum Vat. cum recentiore cod. cc *auctoritatem* ponit, sed perperam, quia auctoritas est terminus medius conclusionis eliciendae. Cod. dd *minoritatem*, bene et in eodem sensu cum aliis codd.
+
+    **En.** Thus the older codices with edition 1, while the Vatican [edition] with the more recent codex cc places *auctoritatem*, but wrongly, because *authority* is the middle term of the conclusion to be drawn. Codex dd [reads] *minoritatem*, rightly and in the same sense as the other codices.
+
+[^17]: **La.** In cod. K additur *Filio*.
+
+    **En.** In codex K is added *Filio*.
+
+[^18]: **La.** Vat. contra plurimos codd. et ed. 1 *consuetudine*. — De hoc et praecedenti dubio agunt B. Albert., hic a. 13; S. Thom., Petr. a Tar. et Richard., hic in expos. textus.
+
+    **En.** The Vatican [edition], against most codices and edition 1, [reads] *consuetudine*. — This and the preceding doubt are treated by B. Albert, here a. 13; St. Thomas, Peter of Tarentaise, and Richard, here in the *expositio textus*.
+
+## Notes
 
 [Notes pending]

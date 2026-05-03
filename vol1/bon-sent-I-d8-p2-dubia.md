@@ -5,347 +5,170 @@ book: 1
 distinctio: 8
 pars: 2
 type: dubia
-title: "I Sent., d. 8, p. 2, dubia"
-line_start: 35366
-line_end: 35975
-word_count_latin: 4044
+title_la: "Dubia circa litteram Magistri"
+title_en: "Doubts concerning the Master's text (Part II)"
+printed_pages: [175, 176]
+pdf_pages: [277, 278]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 175–176"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin body, English body, 6-dubium structure, 6-footnote apparatus (2026-04-13)"
+format_version: 1
 ---
 
-# I Sent., d. 8, p. 2, dubia
+# I Sent., d. 8, p. 2 — Dubia circa litteram Magistri
+## *Doubts concerning the Master's text (Part II)*
 
-### Latin
+---
 
-DIST. VIII. P. 11. DUBIA.
+## Latin
 
+<!-- page 175 -->
 
-ergo ad privationem cmipositionis , dloit, quod non
-habet multitudinem partium ; quantum vero ad privationem multiplicilaiis extraneae, dicit, quod non
-habet varietatem accidentium; quantum vero ad privationem multiplicitatis intrinsecae , dicit, quod non
-habet varietatem formarum, ut generis, speciei et
-differentiae; et hoc modo simpiex est simplex vere
-et proprie, quod solius Dei est".
-
-III.
-
-Item quaeritur de ista ratione Augustini: Cum
-enim aliud sit artificiosum esse, aliud inertem etc.
-Probat enim , animam esse compositam propter multitudinem proprietatum. Sed contra: nulla substan-
-tia componitur ex proprietatibus neque per se neque
-cum alio: ergo ex hoc non probatur, quod anima sit
-composita.
-
-Respondeo: Dicendum, quod Augustinus hoc non
-probat nisi a posteriori. Compositio enim accidentis
-ad subiectum et diversitas necessario praesupponit
-aliam compositionem, quia, ut dicit Boethius ' , « quod
-«st pure forma subiectum esse non potest » : ergo ad
-hoc. quod aliquid sit subiectum accidentium plurium,
-oportet in illo praeexistere compositionem intrinsecam;
-sed anima capit in se multitudinem accidentium: et
-ideo necessario infertur a posteriori, quod ipsa sit
-composita, licet non ex accidentibus.
-
-DuB. IV.
-
-Item quaeritur de hoc quod dicit: Sine qualitate bonum, sine quaniitate magnum etc. Videtur
-enim male dicere; quia a quocumque removetur superius, et inferius': ergo si non habet quahtatem,
-nec bonitalem. Si tu dicas , quod bonitas illa non
-est species qualitatis, quaerilur, quare non similiter
-dicitur in divinis qualitas divina, sicut bonitas divina?
-
-Respondeo: Quidam volunt dicere, quod nomen soiutio quogmeris non transfertur ad divina, tum quia non
-dicit rei complementum , sicut species ; tum quia significat in concretione ad subiectum et in dependen-
-tia*. Nomina autem specialia connotant effectum in
-creatura; et ideo dicitur sine qualitaie bonus.
-
-Sed si quis velif^ inspicere, invenit hoc non Non probahabere veritatem. Si ergo quaeratur: quomodo dif-
-fert in Deo magnitudo et bonitas? dicendum, quod
-magnitudo significat divinam essentiam per modum
-quantitatis, bonitas per modum qualitatis: ergo isti
-modi cadunt in Deo ^. Et iterum, si quaeratur: qualis
-est Deus? respondetur: bonus et magnus.
-
-Et ideo dicendum , quod nomina generum in soiuito audivinis reperiuntur , sed non prout habent rationem
-generis, quia Deus in nullo genere est; et ad hoc
-significandum removet Augustinus' nomina novem
-generum, in quantum sunt genera.
-
-DuB. V.
-
-Item quaeritur de hoc quod dicitur : Si tamen
-est dignum, ut Deus dieatur substare. Videtur enim
-satis dignum , quia summa nobilitas est per se subsistere.
-
-Respondeo: Dicendum, quod duplex est proprietas ipsius substantiae, scilicet per se stare et alii
-subesse; primum est perfectionis, secundum imperfectionis; et ideo ratione primae dicitur digne*, non
-ratione secundae.
-
-DuB. VI.
-
-Item quaeritur de hoc quod dicit Hilarius : Non
-ex composiiis Deus, qui vita est, subsisiit etc; quae
-differentia est inter illas dilferentias ? Quodsi ' nulla
-est, videtur facere inculcationem verborum.
-
-Dicendum, quod quidam volunt '", somtio i.
-
-' Vide hic, q. 2.
-
-
-qualitas dispositio substantiae ; unde eadem ratione removentur a divina praedicatione secundum rationem generis , sicut
-removebantur per rationem accidentis.
-
-
-quatenus comprehendit omnia Dei attributa.
-
-' Lib. V. de Trin. c. 8. n. 9. — Pro intelligentia huius
-dubii notandum , quod hic non agitur de quaestione, utrum
-
-Deus sit iii aliquo gcnere (de quo S. Doctor iam supra q. 4.
-egil) , sod d(.' Iranslatione nominum genericorum ad divina sive
-etiam de modo signiflcandi , quem haec nomina respectu Dei
-
-
-quod per illa quatuor excludantur quatuor gemm
-compositionmn. Prima enim est essentiae ex principiis essentialibus, ratione cuius dicitur, quod Deus
-non est ex compositis, id est simul positis. Secunda
-est substantiae ex principiis naturalibus, quae sunt
-raateria et forma; ratione huius dicitur: neque ex
-inprmis, quia materia subiecta est privationi, quae
-facit formam esse instabilem ' et inflrmam , et similiter' materiam; inflrma enim dicuntur instabilia.
-Tertia est compositio mixti ex miscibilibus, ratione
-cuius dicit: neque ex obscuris, quia ubi mixtio,
-ibi quaedam formarum confusio, et ita obscuratio.
-Quarta est compositio animati ex partibus disparibus,
-ex anima videlicet et corpore; ratione huius dicit:
-neque ex partibus disparibus , quia ipse est spiritus.
-Aliter tamen potest dici , quod excludit eandem
-AUa soiiitio. compositionem ratione diversarum conditionum. Ad
-hoc enim quod aliqua ' principia constituant aliquid ,
-
-oportet , quod principia sint dijferenlia , sint dependentia, sint imperfecta, sint etiam difformia. Si
-enim essent omnino conformia et perfecta, non possent aliquid constituere, quia ex duobus entibus actu
-nihil ttt^ Quia ergo dijferentia, ideo sunt composita, quasi cum aliis posita; quia dependentia, ideo
-inflrma^; quia imperfecta, ideo obscura; quia dissimilia, ideo disparia. Deus autem non potest esse
-ex differentibus ^ et diversis, quia est vita per essentiam; non potest esse ex dependentibus et inflr-
-mis, quia virtus per essentiam; non potest esse ex
-imperfectis et obscuris, quia lux est; similiter non
-potest esse ex disparibus et dissimilibus, quia spiritus
-per essentiam. Summa ergo actualitas , summa potestas , summa claritas , summa spiritualitas non per-
-mittunt in Deo esse aliquam compositionem. Unde
-ex his quatuor conditionibus quatuor rationes eliciuntur probantes Deum'^ simplicissimum.
-
-DISTINCTIO IX.
-
-Be distinclione triwn perso7iarum.
-
-Nunc ad distiuctionem trium personarum accedamus. X Teueamus igitur , ut docet Augustinus in libro
-de Fide ad Petrum', Palrem et Filium et Spiritum
-sanctura unum esse Deum naturaliter, nec tamen ipsum
-Patrem esse qui Filius est, nec Filium esse ipsum
-qui Pater est , nec Spiritum sanctum esse ipsum qui
-Pater est aut Fllius. Una enim est essentia Patris et
-Filii et Spiritus sancti, in qua non est aliud Paler,
-aliud Filius, aliud Spiritus sanctus, quamvis personaliter alius sit Pater, alius Filius, alius Spiritus
-sanctus '^ » .
-
-Cap.
-
-De coaeternitate Patris et Filii.
-
-Genilus est enim a Patre Filius, et ideo alius,
-nec tamen ante fuit Pater quam Filius; coaeternae
-enim sibi sunt tres personae. Sed contra hoc inquit
-
-haereticus , ut refert Ambrosius in libro primo de Trinitate'': «Omne quod natum est, principium habet; et
-ideo, quia Filius est, prioclpium habet et esse coepit;
-quod haereticorum ore sic dlctum est » . « Nam ipse
-Arius, ut meminit Augustinus in sexto libro de Trinitate*, dixlsse fertur: Si Filius est, natus est; si
-natus est , erat , quando non erat Flllus » .
-
-Qui hoc diclt « non intelligit , etiam natwm esse
-de Deo sempiternum esse, ut sit coaeternus Patri Fillus , sicut splendor , qul glgnitur ab igne atque dlffun-
-ditur, coaevus est illi, et esset coaeternus, si ignis
-esset aeternus * » .
-
-Item: « Si Dei Filius, inquit Angustinus , virtus et
-sapientia Dei est, nec unquam fuit Deus sine virtute
-et sapientla, coaeternus est Deo Patrl FIIIus. Dicll autem Aposlolus ": Chrislu?n esse Dei virlutem et Dei sa-
-pientiam; aut ergo non fuit, quando non fuit Filius,
-aut aliquando Deus non habuit virtutem et sapientiam,
-quod dementis est dicere » . Constat enim, quia semper
-habuit saplentlam, semper ergo liabuit Filium.
-
-Eidem quoque Arianicae quaestloni Ambrosius ' In
-hunc modum respondet: «Ego, inquam, Filium esse
-natum conflteor; quod reliquum est impietatis hor-
-
-
-DISTINCTIO IX.
-
-resco». Scriptum est enim in veteri Testamento', ut
-vel unum e pluribus dicam: Ante me non fuit alkcs
-Deus, et post nie non eril. Quis ergo hoc dicit? Pater
-an Filius? Si Filius, ante me , inquit, non fuit alius
-Deus; si Pater, post me, inquit , nonerit: hic priorem, ille posteriorem non habet. Invicem enim in se
-et Pater in Filio, et Filius in Patre cognoscitur^ Cum
-enim Patrem dixeris, eius etiam Filium designasti,
-quia nemo ipse sibi pater est; cum Filium nominas,
-etiam Patrem fateris, quia nemo ipse sibi fllius est.
-Itaque nec Filius sine Patre, nec Pater potest esse sine
-Filio: semper igitur Pater, semper et Filius est».
-
-Item : « Dic , inquam , mihi haeretice , fuitne ,
-- quando omnipotens Deus Pater non erat, et Deus erat?
-Nam si Pater esse coepit, Deus ergo primo erat et
-postea Pater factus est. Quomodo ergo immutabilis
-Deus est? Si enim ante Deus, postea Pater fuit, utique generationis accessione mutatus est » . « Sed aver-
-tat Deus hanc amentiam ^ » .
-
-Cap. in.
-
-De ineffhbili et intelligibili generationis modo.
-
-« Sed quaeris a me, inquit Ambrosius*, quomodo, si Filius sit, non priorem habeat Patrem?
-Quaero item abs te, quando vel quomodo Filium putes esse generatum? Mihi enim impossibile est gene-
-rationis scire secretum. Mens deflcit, vox silet, non
-mea tantum, sed et Angelorum; supra potestates et
-supra Angelos et supra Cherubim et supra Seraphim
-et supra omnem sensum est, quia scriptum esl^: Pax
-Christi supra omnem sensim est. Et si pax Christi
-supra omnem sensum est, quomodo non est supra
-omnem sensum tanta generatio ? » « Tu ergo ori manum
-^.admove; scrutari non licet superna mysteria. Licet
-"'scire, quod natus sit, non licet discutere, quomodo
-natus sit. Illud negare mihi non licet, hoc quaerere
-metus est». Ineffabilis enim est illa generatio; unde
-Isaias": Generationem eius quis enarrabit?
-
-Quidam tamen de ingenio suo praesumentes dicunt, illam generationem posse intelligi et alia huius-
-modi, inhaerentes illi auctoritati Hieronymi super
-Ecclesiasten ' : « In sacris Scripturis quis saepissime non
-
-quia de ea aliquid intelligi vel dici potest. Quidam
-tamen hoc accipiunt dlctum de temporali Christi generatione.
-
-Utrum debeat dici: semper gignitur Deus,
-vel semper genitus est.
-
-Hic quaeri potest, cum generatio Filii a Patre nec
-principium habeat nec flnem , quia aeterna est , utrura
-debeat dici: Filius semper gignitur, vel semper genitus est, vel semper gignetur. De hoc Gregorius
-super lob" ait: «Dominus Deus lesus in eo, quod
-virtus et sapientia Dei est , de Patre ante tempora natus est, vel potius, quia nec coepit nasci nec desiit,
-dicamus verius semper natus; non autem possumus
-dicere semper nascitur, ne imperfectus esse videatur.
-At vero, ut aeternus designari valeat et perfectus,
-semper dicamus et natiis, quatenus et natits ad perfectionem pertineat et semper ad aeternitatem ; quam-
-vis per hoc ipsum, quod perfectum dicimus, multum
-ab Ulius veritatis expressione deviamus, quia quod
-factum non est, non potest dici proprie perfectum» ;
-sed balbuliendo , ut possumus , excelsa Dei resonamus.
-«EtDominus, nostrae inflrmitatis verbis condescendens,
-Estote, inquit, perfecti, sicut et Pater vester caelestis
-perfectus est " » . Super illum locum eliam Psalmi : Ego
-hodie genui te , de hac generatione Filii ita loquitur Augustinus": «Quamquam per hoc, quod dicit hodie,
-possit etiam intelligi dies ille , quo Christus secundum
-hominem natus est; tamen quia hodie praesentiam
-signiflcat, atque in aeternitate neque praeteritum quidquam est, quasi esse desierit, neque futurum, quasi
-nondum sit, sed praesens tantum, quia quidquid aeternum est, semper est; divinius taraen accipitur de
-serapiterna generatione sapientiae Dei'^». Ecce, his
-verbis ostendit Augustinus, quod generatio Filii semper est nec praeterit nec futura est, quia aeternaest.
-Ideo enim" dixit genui, ne novum putaretur, scilicet ne videretur incepisse; hodie dixit, ne praeterita
-generalio videretur. «Ex his ergo verbis Prophetae,
-ut ait loannes Chrysostoraus", nihil aliud manifestatur, nisi quia ex ipsa essentia Patris semper genitus
-est Filius».
-
-
-quae verba, quia non levi carent interpolationis suspicione, in
-textum non recepimus.
-
-* Libr. I. de Fide ad Gratian. c. 10. n. 64. et 65. — In
-
-
-qui semper nascitur, quia qui semper nascitur nondum natus
-et nunquam natus est aut natus erit , si semper rmcilur.
-Aliudest enimnasci, aliud natum.esse, acperhoc nunquam
-Filius est, si nwnquam natus est; Filius autem est, quia natus,.
-et semper Filius , quia aeternus, semper ergo natus.
-
-
-quani illud, scilicet quod de Patre ante tempora natus est? IUud enim sincera et catholica fides tenet ac
-praedicat ut istud. Quare ergo ait: «Dicamus verius»,
-cum utrumque pariter sit verum, nisi * quia volebat
-intelligi, hoc ad maiorem evidentiam et expressionem
-veritatis dici quam illud ? His etenim verbis omnis calumniandi versutis haereticis obstruitur aditus, quibus
-Christi secundum deitatem generatio sine initio et sine
-flne esse ac perfecta monstratur. Non autem adeo aperte' manifestatur veritas, cum dicitur: Filius ante tem-
-pora genitus est de Patre, vel Filius semper nascitur
-de Patre. Et ideo dicit Gregorius , quod « non possumus dicere , semper nascilur » ; non , inquam , ita con-
-venienter, non ita congrue ad explanationein veritatis;
-potest tamen dici , si sane intelligatur. « Semper enim
-nascitur Filius de Patre», ut ait Origenes; non quod
-quotidie iteretur illa generatio, sed quia semper est.
-Semper ergo nascitur, id est, nativitas eius sempiterna est.
-
-Hilarius quoque dicil, FiUum nasci ex Patre, in
-Conscntit libro septimo de Tiinitate * his verbis: «Vivens Deus
-et naturae aeternae viventis potestas est; et quod cuni
-sacramento scientiae suae ex eo nascitur, non potuit
-aliud esse quam vivens. Nam cura ait : Sicut misit me
-vivens Paler^ et ego vivo propter Patrem, docuit.
-
-vitam in se per viventem Patrem inesse». Ecce hic
-habes , quia ' Fiiius nascilur ex Patre. Item in eodem » :
-«Cum dicit Christus: Sicut Pater habet vitam in se,
-sic et Filio dedit vitam habere in semetipso , omnia
-viva sua ex vivente testatus est. Quod autem ex vivo
-vivum natum est habet nativitalis perfectum sine novitate naturae. Non enim novum est quod ex vivo
-geiieratur in vivum, quia nec ex nihilo est; et vita,
-quae nativitatem sumit ex vita, necesse est per naturae unitatem et perfectae nativitatis sacramenlum, ut
-et ' in vivente vivat et in se habeal vitam vivenlem » .
-Ecce et hic habes, quia generatur ex vivo vivens Filius. Item in eodem ^" : « In Deo totum quod est vi-
-vit; Deus enim vita est, et ex vita non potest quidquam
-esse nisi vivum ; neque ex derivatione , sed ex virtute
-nativitas est. Ac sic, dum totum quod est vivit, et dum
-tolum quod ex eo nascitur virtus est, habet nativitatem Filius, non demutationem » . Et hic dicit, quia
-nascitur. Itein in nono libro de Trinitate": «Donat
-Pater Filio tantum esse, quantum est ipse, cui innascibilitalis esse imaginem sacramento nativitatis imper-
-tit, quem ex se in forma sua generat». Hic dicit,
-quia generat Pater FiUum.
-
-Dicamus ergo, Filium natum de Patre ante tempora et semper nasci de Patre , sed congruentius sem-
-per natum; et eundem fateamur ab aeterno esse et
-Palri coaeternum, id est auctori. Pater enim generatione auctor Filii est , ut in sequenli " ostendetur. Ut
-ergo Pater est aeternus, ita et Filius aeternus est, sed
-Pater sine auctore, Filius vero non , quia Paler innascibilis , Filius natus. Et ut ait Hilarius in duodecimo
-libro de Trinitate": «Aliud est sine auctore semper
-esse aeternum , aliud Patri , id est auctori , esse coaeternum. Ubi autem Pater auctor est, ibi et nativitas
-est ; quia sicut nalivitas ab auctore est , ita et ab
-aeterno auctore aeterna nativitas est. Omne autem,
-quod semper est, etiam aeternum est; sed tamen
-non omne, quod aeternum est etiam innatum est;
-quia quod ab aeterno nascilur habet aeternum esse,
-quod natum est. Quod autem non natum est, id cum
-aeternitate non natum est; quod vero ex aeterno
-natum est, id, si non aeternum natum est, iam non
-erit et Pater auctor aeternus. Si quid ergo ei, qui
-ab aeterno Patre natus est, ex aeternitate defuerit,
-id ipsum auctori non est ambiguum defuisse, quia
-
-Homil.
-
-II. circa flnem, sed non paucis mu-
-
-tatis.
-
-' Prov. 8 , 25 secundum Septuag. ; Vulgata : ante colles
-ego partitriebar. — Aliquae edd. sic cilant : m libro Sapien-
-
-### English
-
-[Translation pending]
-
-### Notes
-
-[Notes pending]
+### Dubia circa litteram Magistri
+
+### Dubium I
+
+In parte ista circa litteram incidit hic quaestio *de ordine*. Cum enim compositio in creatura sit ratio et causa mutationis, simplicitas est causa immutabilitatis; quia *si affirmatio est causa affirmationis, et negatio causa negationis*[^1]: ergo cum causa sit ante effectum, debuit primo Magister ponere proprietatem *simplicitatis*.
+
+**Respondeo:** *Prima solutio.* Dicendum, quod revera compositio secundum rationem intelligendi prior est quam mutatio; sed quoniam negationes se habent e contrario affirmationibus, hinc est quod immutabilitas est prior — ita volunt aliqui dicere.
+
+*Alia solutio.* Potest tamen aliter dici et melius: quod est *prius et notius nobis*, et *prius simpliciter*[^2]. Et quia *simplicitas* est maxime nobis occulta (propter hoc, quod simplex inquantum simplex habet rationem principii, et nos venimus a cognitione posterioris in cognitionem prioris), ideo prius agit de immutabilitate quam de simplicitate.
+
+### Dubium II
+
+Item quaeritur de hoc quod dicit in littera: *«Eademque proprie ac vere simplex, quia nec habet compositionem partium»* etc. Videtur enim superflua dicere, quia *simplex est cuius pars non est*, sicut *compositum dicitur quod habet partes*.
+
+**Respondeo:** Dicendum, quod Magister notificat hic *simplex secundum quod est Dei proprium*; et ita opponitur compositioni et multiplicitati. Quantum ergo ad *privationem compositionis*, dicit quod non habet *multitudinem partium*; quantum vero ad privationem *multiplicitatis extraneae*, dicit quod non habet *varietatem accidentium*; quantum vero ad privationem *multiplicitatis intrinsecae*, dicit quod non habet *varietatem formarum*, ut *generis, speciei et differentiae*; et hoc modo *simplex* est simplex *vere et proprie*, quod solius Dei est.
+
+### Dubium III
+
+Item quaeritur de ista ratione Augustini: *«Cum enim aliud sit artificiosum esse, aliud inertem»* etc. Probat enim animam esse compositam *propter multitudinem proprietatum*. Sed contra: nulla substantia componitur ex proprietatibus, neque per se neque cum alio: ergo ex hoc non probatur, quod anima sit composita.
+
+**Respondeo:** Dicendum, quod Augustinus hoc non probat nisi *a posteriori*. Compositio enim accidentis ad subiectum et diversitas necessario praesupponit aliam compositionem — quia, ut dicit Boethius[^3]: *«Quod est pure forma subiectum esse non potest»*. Ergo ad hoc quod aliquid sit subiectum accidentium plurium, oportet in illo praeexistere *compositionem intrinsecam*; sed anima capit in se multitudinem accidentium: et ideo necessario infertur *a posteriori*, quod ipsa sit composita — licet non ex accidentibus.
+
+### Dubium IV
+
+Item quaeritur de hoc quod dicit: *«Sine qualitate bonum, sine quantitate magnum»* etc. Videtur enim male dicere, quia *a quocumque removetur superius, et inferius*[^4]: ergo si non habet qualitatem, nec bonitatem. Si tu dicas quod bonitas illa non est species qualitatis, quaeritur: quare non similiter dicitur in divinis *qualitas divina* sicut *bonitas divina*?
+
+**Respondeo:** *Solutio quorundam.* Quidam volunt dicere, quod *nomen generis* non transfertur ad divina — tum quia non dicit rei complementum, sicut *species*; tum quia significat *in concretione ad subiectum et in dependentia*. Nomina autem specialia connotant effectum in creatura; et ideo dicitur *sine qualitate bonus*.
+
+*Non probata.* Sed si quis velit inspicere, invenit hoc non habere veritatem. Si ergo quaeratur: *quomodo differt in Deo magnitudo et bonitas?* — dicendum, quod magnitudo significat divinam essentiam *per modum quantitatis*, bonitas *per modum qualitatis*: ergo isti modi cadunt in Deo. Et iterum, si quaeratur *qualis est Deus?* — respondetur: *bonus et magnus*.
+
+*Solutio auctoris.* Et ideo dicendum, quod nomina generum in divinis reperiuntur, sed non prout habent *rationem generis* — quia Deus in nullo genere est. Et ad hoc significandum removet Augustinus[^5] nomina *novem generum* in quantum sunt genera.
+
+### Dubium V
+
+Item quaeritur de hoc quod dicitur: *«Si tamen est dignum, ut Deus dicatur substare»*. Videtur enim satis dignum, quia *summa nobilitas est per se subsistere*.
+
+**Respondeo:** Dicendum, quod duplex est proprietas ipsius *substantiae* — scilicet *per se stare* et *alii subesse*. Primum est perfectionis, secundum imperfectionis; et ideo ratione primae dicitur *digne*, non ratione secundae.
+
+<!-- page 176 -->
+
+### Dubium VI
+
+Item quaeritur de hoc quod dicit Hilarius: *«Non ex compositis Deus, qui vita est, subsistit»* etc. Quae differentia est inter illas differentias [sc. *compositis / infirmis / obscuris / disparibus*]? Quodsi nulla est, videtur facere *inculcationem verborum*.
+
+**Respondeo:** *Solutio 1.* Dicendum, quod quidam volunt, quod per illa quatuor excludantur *quatuor genera compositionum*.
+
+(a) *Prima* enim est *essentiae ex principiis essentialibus*, ratione cuius dicitur quod Deus *non est ex compositis*, id est *simul positis*.
+
+(b) *Secunda* est *substantiae ex principiis naturalibus*, quae sunt *materia et forma*; ratione huius dicitur *neque ex infirmis* — quia materia subiecta est privationi, quae facit formam esse instabilem et infirmam, et similiter materiam (infirma enim dicuntur *instabilia*).
+
+(c) *Tertia* est *compositio mixti ex miscibilibus*, ratione cuius dicit *neque ex obscuris* — quia ubi mixtio, ibi quaedam formarum confusio, et ita obscuratio.
+
+(d) *Quarta* est *compositio animati ex partibus disparibus* — ex anima videlicet et corpore; ratione huius dicit *neque ex partibus disparibus* — quia ipse est *spiritus*.
+
+*Alia solutio.* Aliter tamen potest dici, quod excludit eandem compositionem ratione diversarum conditionum. Ad hoc enim quod aliqua principia constituant aliquid, oportet quod principia sint *differentia*, sint *dependentia*, sint *imperfecta*, sint etiam *difformia*. Si enim essent omnino conformia et perfecta, non possent aliquid constituere — quia *ex duobus entibus actu nihil fit*[^6].
+
+Quia ergo *differentia*, ideo sunt *composita*, quasi *cum aliis posita*; quia *dependentia*, ideo *infirma*; quia *imperfecta*, ideo *obscura*; quia *dissimilia*, ideo *disparia*.
+
+Deus autem non potest esse *ex differentibus et diversis*, quia est *vita per essentiam*; non potest esse *ex dependentibus et infirmis*, quia *virtus per essentiam*; non potest esse *ex imperfectis et obscuris*, quia *lux est*; similiter non potest esse *ex disparibus et dissimilibus*, quia *spiritus per essentiam*.
+
+*Summa ergo actualitas, summa potestas, summa claritas, summa spiritualitas* non permittunt in Deo esse aliquam compositionem. Unde ex his quatuor conditionibus quatuor rationes eliciuntur probantes Deum simplicissimum.
+
+---
+
+## English
+
+### Doubts concerning the Master's text
+
+### Doubt I
+
+In this part, concerning the Master's text, a question arises *about order*. Since composition in a creature is the ground and cause of change, *simplicity* is the cause of *unchangeableness*; for *"if affirmation is the cause of affirmation, negation is the cause of negation"*[^1]: therefore since the cause is before the effect, the Master ought first to have placed the property of *simplicity*.
+
+**I respond:** *First solution.* It must be said that indeed composition, according to the order of understanding, is prior to change; but since negations are contrary to affirmations, hence it is that unchangeableness is prior — so some would have it.
+
+*Another solution.* It can, however, be said otherwise and better: that there is the *prior and more known to us*, and the *prior simpliciter*[^2]. And since *simplicity* is especially hidden from us (because the simple insofar as it is simple has the character of a *principle*, and we come from knowledge of the posterior to knowledge of the prior), therefore he treats unchangeableness before simplicity.
+
+### Doubt II
+
+Likewise it is asked concerning what he says in the text: *"And the same is properly and truly simple, because it has neither composition of parts"* etc. For it seems superfluous to say, since *the simple is that of which there is no part*, just as *the composite is said to have parts*.
+
+**I respond:** It must be said that the Master notes here *the simple as it is proper to God*; and thus it is opposed both to composition and to multiplicity. As to *privation of composition*, he says [God] does not have *multitude of parts*; as to privation of *extraneous multiplicity*, he says not *variety of accidents*; as to privation of *intrinsic multiplicity*, he says not *variety of forms* — such as of *genus, species, and difference*. And in this way the *simple* is simple *truly and properly* — which belongs to God alone.
+
+### Doubt III
+
+Likewise it is asked concerning that reason of Augustine: *"For since to be artistic is one thing, to be dull another"* etc. For he proves the soul to be composite *on account of multitude of properties*. But against this: no substance is composed from properties, neither by itself nor with another: therefore from this it is not proved that the soul is composite.
+
+**I respond:** It must be said that Augustine proves this only *a posteriori*. For the composition of accident to subject and the diversity [of accidents] necessarily presupposes another composition — since, as Boethius says[^3]: *"What is pure form cannot be a subject."* Therefore for something to be the subject of many accidents, there must pre-exist in it an *intrinsic composition*; but the soul receives in itself a multitude of accidents: and therefore it is necessarily inferred *a posteriori* that it is composite — though not from accidents.
+
+### Doubt IV
+
+Likewise it is asked concerning what he says: *"Good without quality, great without quantity"* etc. For he seems to speak wrongly, since *"from that from which the superior is removed, the inferior is also"*[^4]: therefore if [God] does not have quality, neither does He have goodness. If you say that that goodness is not a species of quality, it is asked: why is *"divine quality"* not said in God just as *"divine goodness"*?
+
+**I respond:** *A solution of some.* Some wish to say that *the name of the genus* is not transferred to divine things — both because it does not signify the thing's completion, as the *species* does; and because it signifies *in concretion to a subject and in dependence*. But special names connote an effect in the creature; and so God is called *good without quality*.
+
+*Not proven.* But if one wishes to look, one finds this not to hold. If then it be asked: *how do magnitude and goodness differ in God?* — it must be said that magnitude signifies the divine essence *in the mode of quantity*, goodness *in the mode of quality*: therefore these modes do fall in God. And again, if it be asked *"what sort of being is God?"*, the answer is: *good and great*.
+
+*The author's solution.* And therefore it must be said that the names of the genera are found in God, but not as they have the *character of genus* — since God is in no genus. And to signify this, Augustine[^5] removes the names of the *nine genera* insofar as they are genera.
+
+### Doubt V
+
+Likewise it is asked concerning what is said: *"If it is worthy that God be said to subsist"*. For it seems sufficiently worthy, since *"the highest nobility is to subsist per se."*
+
+**I respond:** It must be said that the property of *substance* is twofold — namely, *to stand per se* and *to underlie another*. The first is of perfection, the second of imperfection; and therefore by reason of the first it is said [of God] *worthily*, not by reason of the second.
+
+### Doubt VI
+
+Likewise it is asked concerning what Hilary says: *"Not from composite things does God, who is life, subsist"* etc. What is the difference among those differences [i.e., *composite / weak / obscure / disparate*]? If there is none, he seems to make a *heaping-up of words*.
+
+**I respond:** *Solution 1.* It must be said that some hold that by those four [terms] *four kinds of composition* are excluded.
+
+(a) The *first* is that of *essence from essential principles*, by reason of which it is said that God is *not from composite things* — that is, *things placed together*.
+
+(b) The *second* is that of *substance from natural principles*, which are *matter and form*; by reason of this he says *neither from weak things* — since matter is subject to privation, which makes both form unstable and weak, and similarly matter; for *the weak* means *the unstable*.
+
+(c) The *third* is the *composition of a mixture from mixables*, by reason of which he says *neither from obscure things* — since where there is mixture, there is some confusion of forms, and so obscuring.
+
+(d) The *fourth* is the *composition of a living thing from disparate parts* — namely from soul and body; by reason of this he says *neither from disparate parts* — because He is *spirit*.
+
+*Another solution.* It can, however, be said otherwise: that he excludes the same composition by reason of diverse conditions. For for some principles to constitute something, the principles must be *different*, must be *dependent*, must be *imperfect*, and must also be *dissimilar*. For if they were altogether conformed and perfect, they could not constitute anything — since *"from two beings in act nothing comes to be"*[^6].
+
+Because, therefore, *different*, they are therefore *composite*, as if *placed with others*; because *dependent*, therefore *weak*; because *imperfect*, therefore *obscure*; because *dissimilar*, therefore *disparate*.
+
+But God cannot be *from different and diverse*, since He is *life by essence*; cannot be *from dependent and weak*, since He is *power by essence*; cannot be *from imperfect and obscure*, since He is *light*; nor can He be *from disparate and dissimilar*, since He is *spirit by essence*.
+
+*Supreme actuality, supreme power, supreme clarity, supreme spirituality* — these do not permit any composition to be in God. Hence from these four conditions four reasons are drawn which prove God to be most simple.
+
+---
+
+## Apparatus
+
+[^1]: **La.** Aristot., I *Poster.* c. 10 (c. 13): *Similiter autem et, si affirmatio est causa ipsius esse, et negatio ipsius non esse*.
+    **En.** Aristotle, *Posterior Analytics* I, c. 10 (c. 13): *"Similarly also, if affirmation is the cause of its being, negation is the cause of its not-being."*
+
+[^2]: **La.** Aristot., I *Poster.* c. 2: de distinctione *prius et notius nobis* et *prius simpliciter* (or *secundum naturam*).
+    **En.** Aristotle, *Posterior Analytics* I, c. 2: on the distinction between *prior and more known to us* and *prior simpliciter* (or *by nature*).
+
+[^3]: **La.** Boeth., *de Trinitate* c. 2: *Forma vero, quae est sine materia, non poterit esse subiectum*.
+    **En.** Boethius, *On the Trinity* c. 2: *"Form, which is without matter, cannot be a subject."*
+
+[^4]: **La.** Cfr. Aristot., IV *Topic.* c. 2, et Petrus Hispanus, *Summula*, tract. *de Syllogismo topico*.
+    **En.** Cf. Aristotle, *Topics* IV, c. 2, and Peter of Spain, *Summula*, tract *On the Topical Syllogism*.
+
+[^5]: **La.** August., V *de Trin.* c. 1, n. 2. S. Thom. (hic q. 4, a. 3, et *de Potentia* q. 7, a. 4, ad 2) docet: *Quantitas habet propriam rationem in comparatione ad subiectum; est enim quantitas mensura substantiae, qualitas dispositio substantiae; unde eadem ratione removentur a divina praedicatione secundum rationem generis, sicut removebantur per rationem accidentis*.
+    **En.** Augustine, *On the Trinity* V, c. 1, n. 2. St. Thomas (here q. 4, a. 3, and *On Power* q. 7, a. 4, ad 2) teaches: *"Quantity has its proper character in relation to subject — for quantity is the measure of substance, quality the disposition of substance; hence they are removed from divine predication by the same reasoning according to the character of genus, as they were removed by the character of accident."*
+
+[^6]: **La.** Axioma scholasticum, cuius fundamentum patet in Aristotele: *Ex duobus entibus actu nihil fit*. Ut enim aliquid ex pluribus constituatur, oportet unum esse in potentia respectu alterius.
+    **En.** A Scholastic axiom, whose foundation appears in Aristotle: *"From two beings in act nothing comes to be."* For for something to be constituted from several, one must be in potency with respect to the other.

@@ -1,0 +1,130 @@
+{
+  "1": [
+    "  MISSING divisio chunk",
+    "  UNCOVERED QUAESTIO marker at line 13384: QU.ESTIO  I",
+    "  UNCOVERED QUAESTIO marker at line 13960: QU.ESTIO  III",
+    "  UNCOVERED QUAESTIO marker at line 14593: QUAESTIO  I",
+    "  UNCOVERED QUAESTIO marker at line 14819: QU^STIO    II"
+  ],
+  "2": [
+    "  UNCOVERED QUAESTIO marker at line 16498: QU^STIO   L",
+    "  UNCOVERED QUAESTIO marker at line 16888: QU.ESTIO    II",
+    "  UNCOVERED QUAESTIO marker at line 17107: QU^ESTIO   III"
+  ],
+  "3": [
+    "  UNCOVERED QUAESTIO marker at line 19052: QU^STIO  I",
+    "  UNCOVERED QUAESTIO marker at line 19634: QUiESTIO    II",
+    "  UNCOVERED QUAESTIO marker at line 20300: QUAESTIO  IV",
+    "  UNCOVERED QUAESTIO marker at line 21366: QU.ESTIO    II",
+    "  UNCOVERED QUAESTIO marker at line 21662: QU^STIO   III",
+    "  UNCOVERED QUAESTIO marker at line 22266: QU^STIO   I",
+    "  UNCOVERED QUAESTIO marker at line 22679: QUAESTIO  II",
+    "  UNCOVERED QUAESTIO marker at line 22912: QU^STIO    III"
+  ],
+  "4": [
+    "  UNCOVERED QUAESTIO marker at line 23583: QU^STIO  I",
+    "  UNCOVERED QUAESTIO marker at line 23972: QU.ESTIO   II",
+    "  UNCOVERED QUAESTIO marker at line 24412: QUAESTIO  IV"
+  ],
+  "5": [
+    "  UNCOVERED QUAESTIO marker at line 25764: QU.ESTIO   I",
+    "  UNCOVERED QUAESTIO marker at line 26254: QUAESTIO  II",
+    "  UNCOVERED QUAESTIO marker at line 26521: QU.^STIO  I",
+    "  UNCOVERED QUAESTIO marker at line 26784: QU^STIO  II"
+  ],
+  "6": [
+    "  UNCOVERED QUAESTIO marker at line 27815: QUiESTIO  I",
+    "  UNCOVERED QUAESTIO marker at line 28114: QU^STIO  II",
+    "  UNCOVERED QUAESTIO marker at line 28417: QU^STIO   III"
+  ],
+  "7": [
+    "  UNCOVERED QUAESTIO marker at line 29243: QU^ESTIO  I",
+    "  UNCOVERED QUAESTIO marker at line 30466: QU.^STIO  IV"
+  ],
+  "8": [
+    "  UNCOVERED QUAESTIO marker at line 31623: QUAESTIO  I",
+    "  UNCOVERED QUAESTIO marker at line 32052: QU^STIO  II",
+    "  UNCOVERED QUAESTIO marker at line 32876: QU.ESTIO  II",
+    "  UNCOVERED QUAESTIO marker at line 33898: QU^STIO  I",
+    "  UNCOVERED QUAESTIO marker at line 34633: QU.flSTIO  III",
+    "  UNCOVERED QUAESTIO marker at line 35074: QUAESTIO  IV"
+  ],
+  "9": [
+    "  UNCOVERED QUAESTIO marker at line 36139: QUAESTIO  I",
+    "  UNCOVERED QUAESTIO marker at line 36758: QIIAESTIO  III",
+    "  UNCOVERED QUAESTIO marker at line 36965: QUAESTIO  IV"
+  ],
+  "10": [
+    "  bon-sent-I-d10-a2-q1: no semantic marker within 5 lines of start (39154)",
+    "  bon-sent-I-d10-a2-q2: no semantic marker within 5 lines of start (39420)",
+    "  UNCOVERED QUAESTIO marker at line 38321: QUAESTIO  I",
+    "  GAP: 38662 lines between bon-sent-I-d10-a1-q1 (end 0) and bon-sent-I-d10-a1-q2 (start 38662)"
+  ],
+  "12": [
+    "  UNCOVERED QUAESTIO marker at line 42148: QUAESTIO  l"
+  ],
+  "13": [
+    "  bon-sent-I-d13-a1-q3: no semantic marker within 5 lines of start (44588)",
+    "  OVERLAP: 231 lines between bon-sent-I-d13-a1-q2 and bon-sent-I-d13-a1-q3"
+  ],
+  "14": [
+    "  bon-sent-I-d14-a2-q2: no semantic marker within 5 lines of start (46569)"
+  ],
+  "15": [
+    "  bon-sent-I-d15-p1-a1-q1: no semantic marker within 5 lines of start (47854)",
+    "  bon-sent-I-d15-p2-a1-q3: starts at RUNNING HEAD (line 49948)",
+    "  bon-sent-I-d15-p2-a1-q3: no semantic marker within 5 lines of start (49948)",
+    "  UNCOVERED QUAESTIO marker at line 47894: QUAESTIO  l",
+    "  GAP: 341 lines between bon-sent-I-d15-p1-a1-q1 (end 47888) and bon-sent-I-d15-p1-a1-q2 (start 48229)",
+    "  GAP: 411 lines between bon-sent-I-d15-p1-a1-q4 (end 49096) and bon-sent-I-d15-p2-a1-q1 (start 49507)"
+  ],
+  "16": [
+    "  bon-sent-I-d16-a1-q3: no semantic marker within 5 lines of start (51429)",
+    "  OVERLAP: 288 lines between bon-sent-I-d16-p1-a1-q2 and bon-sent-I-d16-a1-q3",
+    "  GAP: 1058 lines between bon-sent-I-d16-a1-q3 (end 51717) and bon-sent-I-d16-p2-a1-q1 (start 52775)",
+    "  GAP: 359 lines between bon-sent-I-d16-p2-a1-q4 (end 54663) and bon-sent-I-d16-p3-a1-q1 (start 55022)"
+  ],
+  "18": [
+    "  MISSING divisio chunk",
+    "  bon-sent-I-d18-a1-q5-v2: no semantic marker within 5 lines of start (58610)",
+    "  bon-sent-I-d18-a1-q5: no semantic marker within 5 lines of start (58203)",
+    "  UNCOVERED QUAESTIO marker at line 57308: QUAESTIO  l",
+    "  UNCOVERED QUAESTIO marker at line 57809: QIIAESTIO  III",
+    "  GAP: 246 lines between bon-sent-I-d18-a1-q2 (end 57808) and bon-sent-I-d18-a1-q4 (start 58054)",
+    "  OVERLAP: 1079 lines between bon-sent-I-d18-a1-q4 and bon-sent-I-d18-a1-q5"
+  ],
+  "19": [
+    "  bon-sent-I-d19-p0-a1-q4: no semantic marker within 5 lines of start (61005)",
+    "  bon-sent-I-d19-p0-q0: no semantic marker within 5 lines of start (60714)",
+    "  bon-sent-I-d19-p2-a1-q2: no semantic marker within 5 lines of start (62530)",
+    "  bon-sent-I-d19-p2-a1-q3: starts at RUNNING HEAD (line 63093)",
+    "  bon-sent-I-d19-p2-a1-q3: no semantic marker within 5 lines of start (63093)",
+    "  bon-sent-I-d19-p2-a1-q4: no semantic marker within 5 lines of start (63400)",
+    "  bon-sent-I-d19-p2-q2: starts at RUNNING HEAD (line 62792)",
+    "  bon-sent-I-d19-p2-q2: no semantic marker within 5 lines of start (62792)",
+    "  OVERLAP: 368 lines between bon-sent-I-d19-p1-a1-q1 and bon-sent-I-d19-p0-q0",
+    "  GAP: 626 lines between bon-sent-I-d19-p1-a1-q4 (end 61562) and bon-sent-I-d19-p2-a1-q1 (start 62188)",
+    "  OVERLAP: 916 lines between bon-sent-I-d19-p2-a1-q2 and bon-sent-I-d19-p2-q2"
+  ],
+  "20": [
+    "  GAP: 285 lines between bon-sent-I-d20-a1-q2 (end 64637) and bon-sent-I-d20-a2-q2 (start 64922)"
+  ],
+  "21": [
+    "  bon-sent-I-d21-a2-q1: no semantic marker within 5 lines of start (66347)",
+    "  bon-sent-I-d21-q2: no semantic marker within 5 lines of start (66012)",
+    "  UNCOVERED QUAESTIO marker at line 65757: QUAESTIO  I"
+  ],
+  "22": [
+    "  bon-sent-I-d22-q0: no semantic marker within 5 lines of start (67497)",
+    "  OVERLAP: 212 lines between bon-sent-I-d22-a1-q1 and bon-sent-I-d22-q0"
+  ],
+  "23": [
+    "  bon-sent-I-d23-a1-q2: starts at RUNNING HEAD (line 69843)",
+    "  bon-sent-I-d23-a1-q2: no semantic marker within 5 lines of start (69843)",
+    "  bon-sent-I-d23-a1-q3: starts at RUNNING HEAD (line 70127)",
+    "  bon-sent-I-d23-a1-q3: no semantic marker within 5 lines of start (70127)",
+    "  UNCOVERED QUAESTIO marker at line 69790: QUAESTIO  IL",
+    "  GAP: 54 lines between bon-sent-I-d23-a1-q1 (end 69789) and bon-sent-I-d23-a1-q2 (start 69843)",
+    "  GAP: 57 lines between bon-sent-I-d23-a1-q3 (end 70451) and bon-sent-I-d23-a2-q1 (start 70508)"
+  ]
+}

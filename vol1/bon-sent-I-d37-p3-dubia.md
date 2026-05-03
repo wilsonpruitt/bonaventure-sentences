@@ -6,16 +6,15 @@ distinctio: 37
 pars: 3
 type: dubia
 line_start: 24649
-line_end: 24728
-word_count_latin: 1601
-transcription_status: "auto-chunked 2026-04-18"
+line_end: 24717
+word_count_latin: 360
+transcription_status: "auto-chunked 2026-05-01"
 format_version: 1
 ---
 
 # bon-sent-I-d37-dubia-dup3
 
 ## Latin
-
 
 DUB.        I.                                                                     pus et locum. Videtur enim mala ista divisio Augn-
                                                                                                                                           stini, primo, quia a Philosopho ponitur nnlla mu-
@@ -82,21 +81,6 @@ apud Lyranum in hunc textum.                                                    
         *     Libr. de Praedicam.                      c.    de Moiu: Molus                                autem         species                        '>
                                                                                                                                                               Aristot., IV. Phys. lexl. 98. seqq.                                                     (c         II.).
                                                                                                                                                  ;                                                                                                                              :
-
-
-
-
-                                                                                                                      DIST. XXXVII. P.                     II.     DLIBIA.
-
-
-tes            corporales                 sive          secundum                              spirituales,                       ut sunt                                                                 DuB.         IV.
-
-affectiones in                       animabus, ipse vocat mutationem                                                                           se-
-
-cundum tempus. Et ita patet ratio divisionis et suf-                                                                                                               Item quaeritur de hoc quod dicit,                                         qmd eadem
-flcientia '.                                                                                                                                         sapientia est in duobus, neque                                                   mador neque minor.
-                                                                                                                                                     Videtur enim falsum dicere                                        ,
-                                                                                                                                                                                                                              quia sapientia est acci-
 
 ## English
 

@@ -5,10 +5,10 @@ book: 1
 distinctio: 37
 pars: 2
 type: dubia
-line_start: 23129
+line_start: 23133
 line_end: 23193
-word_count_latin: 1248
-transcription_status: "auto-chunked 2026-04-18"
+word_count_latin: 1244
+transcription_status: "auto-chunked 2026-05-01"
 format_version: 1
 ---
 
@@ -17,11 +17,7 @@ format_version: 1
 ## Latin
 
 
-DUBIA CIRCA LITTERAM M,\GISTRI.
-
-
-
-                                                                         DuB.                       I.                                                                    caeci in luce                             etc.       Videtur                      enim         raale dicere, quia
+DuB.                       I.                                                                    caeci in luce                             etc.       Videtur                      enim         raale dicere, quia
 
                                                                                                                                                                           mali sunl in Deo, quia                                                 moventur
                                                                                                                                                                                                                                                   in         illo        vivunt,

@@ -7,14 +7,15 @@ pars: 1
 type: dubia
 line_start: 23038
 line_end: 23128
-word_count_latin: 796
-transcription_status: "auto-chunked 2026-04-18"
+word_count_latin: 800
+transcription_status: "auto-chunked 2026-05-01"
 format_version: 1
 ---
 
 # bon-sent-I-d37-dubia
 
 ## Latin
+
 
 DIST. XXXVII. P.                           I.         DUBIA.                                                                                                             649
 

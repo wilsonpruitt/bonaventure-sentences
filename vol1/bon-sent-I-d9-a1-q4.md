@@ -6,203 +6,112 @@ distinctio: 9
 articulus: 1
 quaestio: 4
 type: quaestio
-title: "I Sent., d. 9, a. 1, q. 4"
-line_start: 36859
-line_end: 37164
-word_count_latin: 1841
+title_la: "Utrum generatio Filii terminata sit"
+title_en: "Whether the generation of the Son is terminated"
+printed_pages: [185, 186, 187]
+pdf_pages: [287, 288, 289]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 185–187"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin body, scholion, 10-footnote apparatus (2026-04-17)"
+format_version: 1
 ---
 
-# I Sent., d. 9, a. 1, q. 4
+# I Sent., d. 9, a. unicus, q. 4
+## *Whether the generation of the Son is terminated*
 
-### Latin
+---
 
-DIST. IX. ART. UNICUS QUAEST. IV.
+## Latin
 
+<!-- page 185 -->
 
-4. Item, Pater caret principio et caret initio:
-ergo qua ratione communicat Filio non habere initium, eadem ratione communicat ei non habere prin-
-cipium; aut si non hoc, nec illud.
+### Quaestio IV
 
+*Utrum generatio Filii terminata sit.*
 
-Generatio in divini.s est aeterna propter summam
-generantis fecunditatem et summam geniti
-aequalitatem et utriusque simmam actualitatem.
+Quarto et ultimo quaeritur, utrum generatio Filii sit terminata. Et quod sic, videtur.
 
-Respondeo: Dicendum, quod generatio Filii est
+1. Augustinus in libro octoginta trium Quaestionum[^1]: «Qui semper nascitur nunquam est natus, ac per hoc nunquam est filius». Nullus ergo per generationem dicendus est filius, quousque generatio sit terminata; sed Verbum Patris recte dicitur perfectus Filius: ergo eius generatio est terminata.
 
-conciusio aeterna tum r 3.tione gene^-antis , tum ratione geniti:
+<!-- page 186 -->
 
-ratione generantis propter summam et perfectam
+2. Item, ratione ostenditur sic: produci terminatur ad productum esse, ergo generari ad generatum esse; sed Filius Dei est generatus et natus: ergo eius productio sive generatio est terminata.
 
-fecunditatem , ratione geniti propter summam et
+3. Item, nobilius est esse generatum quam generari, quia generari est via ad generatum esse, et non e converso; sed quod nobilius est Deo est attribuendum: ergo magis debet ei attribui generatum esse quam generari: ergo generatio Filii dicitur in terminatione.
 
-perfectam aequahtatem; quarum utraque conditio tol-
+4. Item, in[^2] generatione, quae semper est in generando, semper aliquid vel aliquis producitur; sed non producitur id quod productum est, secundum id quod est productum: ergo oportet, vel quod iteretur, vel quod succedat generatum in tali generatione; sed in Filio Dei nec est successio nec[^3] iteratio: ergo nec continua generatio: ergo Filii Dei generatio est terminata.
 
-lit, ne Fihus sit posterius ' Patre, sicut visum est
+**Contra:**
 
-Ratios. in opponendo. Alia ratio est propter summam in
+1. Damascenus[^4]: «Deus, infinite et sine tempore ens, infinite et inquiescibiliter generat»: ergo generatio nunquam terminatur.
 
-, utroque actualitatem , in qua non distat actus a po-
+2. Item, ratione videtur hoc idem posse monstrari. Aeternum non habet se aliter nunc quam prius, sed semper omnino uniformiter: ergo si semper Pater a principio generat, adhuc generat; alioquin aliter se haberet nunc quam prius, et ita generatio aeterna mutaretur.
 
-tentia, nec posse antecedit esse.
+3. Item, simplex[^5] et infinitum caret omni termino; sed generatio Filii est simplex et infinita: ergo generatio Filii caret omni termino. Quod sit infinita, patet, quia Filius est infinitus, et iterum ipsa generatio est aeterna, et aeternum est duratione infinitum.
 
-1. Ad illud quod obiicitur, quod corruptio ponit
-soiiiuoop-terminum fmalem; dicendum, quod corruptio semper
-positoram. jj^jj. yj^pjgtiougff, gj nriutationem, et ita conversionem
+4. Item, perfectior est potentia semper actui coniuncta, quam quae non semper: ergo perfectior est fecunditas semper actui generationis coniuncta, maxime cum fecunditas generandi non perdatur, sed perficiatur[^6]: si ergo in Deo est fecunditas perfecta, semper ergo generat; sed non generat alium nisi Filium: ergo Filius semper generatur.
 
-entis in non esse; et ideo ponit terminum fmalem.
-Sed generatio aliquando dicit mutationem % ut in
-creaturis, et sic ponit terminum initialem; sed in
-divinis non dicit mutationem ex non ente, sed emanationem ab ente.
+> **Conclusio.** Generatio divina dicenda est terminata, quatenus hoc vocabulum excludit imperfectionem, interminata vero, quatenus excludit durationem.
 
-2. Ad ilhid quod obiicitnr, quod essentia nihil
-producit nisi ex tempore; dicendum, quod sicut persona producit aliam personam, sic essentia aliam
+**Respondeo:** Ad praedictorum intelligentiam notandum, quod quaedam sunt, in quibus idem est esse et factum esse, differt tamen fieri et esse, ut sunt illa, quorum esse est permanens nec dependet omnino a principio producente[^7], immo habent rationem subsistendi aliquam intra se, sive per principia propria sive subiecti, ut substantiae et accidentia innata. Quaedam sunt, in quibus differt esse et factum esse, idem tamen est fieri et esse, ut sunt successiva, quorum esse dependet omnino a principio producente existente in sua actualitate, ut sunt motus et mutationes. Quaedam sunt, in quibus est idem fieri et esse et factum esse, ut sunt illa, quae habent esse permanens et totaliter dependent a principio producente, existente in sua actualitate per eundem modum, per quem in principio[^8], non tantum in se, sed etiam respectu producti, ita quod consimilis modus actualitatis attendatur quantum ad utrumque; et talia sunt influentiae sive corporales sive spirituales. Unde Augustinus octavo super Genesim ad litteram[^9] dicit, quod lumen semper nascitur et, dum nascitur, est, unde aer semper est illuminatus et semper illuminatur. Similiter omnino dicit[^10] de lumine spirituali, quod est gratia.
 
-essenliam. Aliam autem essentiam ' ex se ipsa nori
-producit, cum ipsa sit immultiphcabilis, nec ex alia,
-quia similiter esset quaerere, unde producit illam
-aliam; et sic necesse esl in productione prinia creaturae, quod producal ex nihilo; et omne sic produ-
-ctum habet esse post non esse, et ita initium. Persona aulem non de nihilo producit personam; et ideo
-non facit de non ente ens, et ideo nullum ponit initium talis produclio.
+Si igitur Filius Dei habet esse permanentissimum et habet esse ab alio, et secundum Patris more dictum per generationem, cum producens non possit magis vel minus producere, et quod validius est, non possit non producere, et quod productum est non possit non esse productum; sed productum non possit separari a producente, maxime cum fecunditas generandi non perdatur, sed perficiatur: si ergo in Deo est fecunditas perfecta — patet, quod generatio Filii est huius generis, scilicet in quo idem est fieri et factum esse et esse. Et ideo sic debet dici generatus, quod nihilominus generetur; et sic dicendus est generari, quod nihilominus sit generatus. Et ideo generatio eius dicenda est terminata, quatenus hoc vocabulum excludit imperfectionem; interminata vero, quatenus excludit durationem.
 
-3. Ad illud quod obiicitur, quod Filius habet
-principium essendi; dicendum, quod principium dici- . . .
-tur duphciter^ scilicet originale ei initiale. Secun- cipium.
-dum quod principium dicitur originaliter, sic Filius
+Et sic patet responsio ad utramque partem, quia rationes, quae probant generationem esse terminatam, procedunt de generatione, in qua differt fieri et factum esse. Et illae, quae probant eam non esse terminatam, procedunt de generatione, in qua differt esse et factum esse. Generatio autem Filii est huius conditionis, in qua idem est fieri et esse et factum esse, sicut ostensum est; et ideo utraque pars deficit, quia procedit ex insufficienti.
 
-tam quantum ad esse, quam quantum ad durationem
-habet principium, quia utrumque habet ab alio. Si
-autem principium dicatur iniiium =, sic dico, quod nec
-habet principium essendi necdurandi. Primum principium non aufert rationem aeterni, secundum vero sic.
+<!-- page 187 -->
 
-4. Ad illud quod obiicitur " ultimo, quare Pater
-communicat Filio carentiam initii , non principii ; patet iam responsio: quia temporale et aeternum de
-necessitate differunt per essentiam, principium et
-principiatum non sic; ideo non est simile de hoc
-et illo. Quia ergo quod habet initium est temporale,
-quod' caret est aeternuni; ideo cum Pater et Filius
-sint unius essentiae, patet etc. Rursum, cum habere
-principium et non habere dicant* diflerentiam personae, et haec est inter Patrem et Filiunx; ideo sicut
-Pater non communicat Filio personam , sed tantum
-naturam sive essenii^m, sic comraunicavit ei non
-habere initium, sed non communicavit non habere
-principium.
+Unde ergo quod generatio Filii non terminetur, hoc est, quia semper manet in suo esse, et quod non sit interminata, hoc est, quia Filius est perfectissime genitus. Et ita non potest dici proprie, quod generatio eius sit terminata vel interminata; sed si dicatur terminata, hoc est, quia non imperfecta, quia quoad hoc habetur ex terminatione; si dicatur interminata, hoc est, quia non habet praescriptionem, quia quoad hoc habetur ex interminatione.
 
-C H 0 L 1 0 N.
+Cassiodoro ergo quod generatio Filii non terminetur, et concedendum et non concedendum; quia idem est ibi fieri et factum esse, ideo utrumque concedendum est simul; et sic patet, quod generatio Filii est interminata positive, non privative.
 
-I. Conclusio est de fide , deflnita in Nicaeno contra Arianos.
-— Rationes pro conclusione in responsione breviter allatae explicantur argumento I. et 2. in fundam. — Quoad aeternitatem
-cfr. infra d. 31. a. 1. q. 3. et IV. Sent. d. 3. p. II. a. 3. q. 1.
-ad 1 ; I. Sent. d. 40. a. 2. q. I. ad 4 ; d. 41. a. 2. q. I. ad 4.
+### Scholion
 
-II. Quoad conclusionem : Scot. , hic et Report. q. unic. —
+Haec quaestio arctissime cohaeret cum praecedenti, ut facile intelligitur comparando conclusiones utriusque. — Quoad tertium membrum distinctionis in resp. cfr. etiam VIII. super Gen. ad lit. c. 12. n. 26; I. Sent. d. 37. p. I. a. 1. q. 1. ad 3; II. Sent. d. 15. a. 1. q. 1; d. 37. a. 1. q. 1. — S. Thom., hic q. 2. a. 1; S. I. q. 42. a. 2. ad 4. — B. Albert., hic a. 8. — Petr. a Tar., hic q. 3. a. 2. — Richard. a Med., hic a. 2. q. 2. — Aegid. R., hic 2. princ. q. 2. — Durand., hic q. 3. — Dionys. Carth., de hac et praec. hic q. unic.
 
-S. Thom. , hic q. 2. a. 1 ; S. I. q. 42. a. 2 ; S. c. Gent.
-IV. c. 1 1 . — B. Albert. , hic a. S. 6. 7. — Petr. a Tar. , hic q.
-3. a. I. — Richard. a Med., hic a. 2. q. 1. — ^gid. R., hic
-2. princ. q. I. — Henr. Gand. , S. a. 38. q. 1. n. 22. 23. —
-Durand. , hic q. 2. — Dionys. Carth. , de hac et seq. hic q.
-unic. — Biel , hic q. 3.
+---
 
-QUAESTIO IV.
-
-Utrum generaUo Filii terminata sit.
-
-Quarto et ultimo quaeritur, utrum generatio
-Filii sit terminata. Et quod sic, videtur.
-
-I. Augustinus in libro octoginta trium Quaestio-
-
-num
-
-Qui semper nascitur nunquam esl natus, Argg. pro
-ac per hoc nunquam est fllius». Nullus ergo permaUTa.*"^'
-generationem dicendus est filius, quousque generatio
-
-' Ed. I posterior.
-
-
-quod pro ntituram ponal creaturam. Mox cod. R prodMce,ei
-loco prodncit.
-
-
-3. Item, nobilius est esse generatuni quam ^enerari, quia generari est via ad generatum esse, et
-non e converso; sed quod nobilius est Deo est attribuendum: ergo magis debet ei attribui generatum
-esse quam generari: ergo generatio Filii dicilur in
-terminatione.
-
-4. Item , in ' generatione, quae semper est in generando, semper aliquid vel aliquis producitur; sed
-non producitur id quod productum est, secundum
-id quod est productum: ergo oportet, vel quod iteretur, vel quod succedat generatum in tali genera-
-tione; sed in Filio Dei nec est successio nec" iteratio:
-ergo nec continua generatio : ergo Filii Dei generatio
-est terminata.
-
-Contra: 1. Damascenus ': « Deus, infmite et sine
-Argg. pro tempore ens, infmite et inquiescibiliter generat » :
-tira. "^^ ergo generatio nunquam terminatur.
-
-2. Item, ratione videtur hoc idem posse monstrari. Aeternum non habet se aliter nunc quam prius,
-sed semper omnino uniformiter: ergo si semper Pater
-aprincipio^ generat, adhnc generat; alioquin aliter
-se haberet nunc quam prius , et ita generatio aeterna
-mutarelur.
-
-3. Item , simplex " et infmitum caret omni termino; sed generatio Filii est simplex et infmita: ergo
-generatio Filii caret omni termino. Quod sit inflnita,
-patet, quia Filius est infmitus, et iterum ipsa generatio est aeterna, et aeternum est duratione in-
-finitum.
-
-4. Item, perfectior est potentia semper actui
-coniuncta, quam quae non semper: ergo perfectior
-
-est fecundilas semper acfui generationis coniuncta,
-maxinic cnm recundilas generandi non perdatur, sed
-perliciiiliii": si crgo in Deo est fecunditas perfecta,
-sempcr ciljo geiicrat; sed non generat alium nisi Filium: ergo Filius semper generatur.
-
-
-Generatio divina dicenda esl terminata, quatenus
-hoc vocabulum excludit imperfectionem, interminata vero, quatems exeludit durationem.
-
-Respondeo: Ad praedictorum intelligentiam no- Trjie
-tandum, quod quaedam sunt, in quibus idem estiia.
-esse et factuni esse, differt tamen fieri et esse, ut
-sunt illa, quorum esse est permanens nec dependet
-omnino a principio producente', immo habent rationem subsistendi aliquam intra se, sive per principia
-propria sive subiecti, ut substantiae et accidentia
-innata. Quaedam sunt, in quibus differt esse et factum esse, idem tamen est fieri et esse, ut sunt suc-
-cessiva, quorum esse dependet omnino a principio
-pr(.>ducente existente in sua actualitate , ut sunt motus et mutationes. Quaedam sunt, in quibus est idem
-fieri et esse et factum esse, ut sunt ilia, quae habent esse permanens et totaliter dependent a principio
-producente, existente in sua actualitate per eundem
-modum, per quem in principio ', non tantum iu se,
-sed etiam respectu producti, ita quod consimilis modus actualitatis attendatur quantum ad utrumque; et
-talia sunt influentiae sive corporales sive spirituales.
-Unde Augustinus octavo super Genesim ad litteram "
-dicit, quod lumen seniper nascitur et, dum nascitur,
-est, unde aer semper est illuminatus et semper illuminatur. Similiter omnino dicit " de lumine spiri-
-tuali, quod est gratia.
-
-Si igitur Filius Dei habet esse permanentissimum
-
-est enim nasci , aliiad natuni esse. Ac per Iioc nunquam Filius ,
-si nunquam natus. — Mox cod. 1 Nunquam pro Nullus ,
-et cod. S enim pro ergo.
-
-
-quoque et principium et passionem et fluxum et sine ullo
-congrsssu gignit, ac nec iniiium nec flnem habet incomprehen-
-
-
-quod fecit ; sed potius sicut aer praesente lumine non factus
-est lucidus , sed flt , quia si faetus esset , non autem fleret ,
-eliani absente lumine lucidus maneret; sic homo Deo sibi praesente illuminatur, absente autem continuo tenebratur.
-
-### English
+## English
 
 [Translation pending]
 
-### Notes
+---
 
-[Notes pending]
+## Apparatus
+
+[^1]: **La.** Quaest. 37: *Qui semper nascitur nondum est natus; et nunquam natus est aut natus erit, si semper nascitur. Aliud est enim nasci, aliud natum esse. Ac per hoc nunquam Filius, si nunquam natus.* — Mox cod. I *Nunquam* pro *Nullus*, et cod. S *enim* pro *ergo*.
+    **En.** Question 37: *He who is always being born is not yet born; and he has never been born nor will be born, if he is always being born. For to be born and to have been born are different things. And hence he is never a Son, if he has never been born.* — Shortly after, codex I reads *Nunquam* for *Nullus*, and codex S reads *enim* for *ergo*.
+
+[^2]: **La.** Fide plurium codd. ut B F H P Q Y et ed. 1 supplevimus *in*; quae lectio comprobatur etiam inde, quod infra in solutione huius obiectionis omnes codd. cum Vat. exhibeant praepositionem *in*. Plures codd. ut AGKSTVYZ falso *generatio naturae* loco *generatione*; pauci ut FX cum ed. 1 *generatione naturae*.
+    **En.** On the authority of several codices, like B F H P Q Y, and ed. 1, we have supplied *in*; this reading is confirmed also by the fact that below, in the solution to this objection, all codices with the Vatican edition exhibit the preposition *in*. Several codices, like AGKSTVYZ, falsely read *generatio naturae* for *generatione*; a few, like FX, with ed. 1, read *generatione naturae*.
+
+[^3]: **La.** Vat. cum cod. cc adiungit *ibi*, quod bene deest in aliis mss. et ed. 1.
+    **En.** The Vatican edition with codex cc adds *ibi*, which is rightly absent in the other manuscripts and ed. 1.
+
+[^4]: **La.** Libr. I. de Fide orthod. c. 8: *Deus enim, ut qui tempori non subsit et principio, passione ac fluxione omni vacet sitque incorporeus ac solus ab interitu liber, ita citra tempus quoque et principium et passionem et fluxum et sine ullo congressu gignit, ac nec initium nec finem habet incomprehensibilis ipsius generatio.* — Vat. *per Damascenum* pro *Damascenus*, sed contra mss. et ed. 1.
+    **En.** Book I, *De Fide Orthodoxa*, c. 8: *For God, since he is not subject to time or beginning, is free from all passion and flux and is incorporeal and alone free from destruction, and thus he begets without time or beginning or passion or flux and without any union, and the generation of him who is incomprehensible has neither beginning nor end.* — The Vatican edition reads *per Damascenum* for *Damascenus*, but against the manuscripts and ed. 1.
+
+[^5]: **La.** Cod. M addit *Filium*. Mox unus alterve cod. cum ed. 1 *generavit* loco *generat*. Lectio plurium codd. ut H I P Q ee ff et ed. 1, in qua hic et paulo infra ponitur *simpliciter* pro *simplex et*, satis bona est.
+    **En.** Codex M adds *Filium*. Shortly after, one or another codex with ed. 1 reads *generavit* for *generat*. The reading of several codices, like H I P Q ee ff, and ed. 1, in which here and a little below *simpliciter* is put for *simplex et*, is quite acceptable.
+
+[^6]: **La.** Vat., refragantibus mss. et ed. 1, legit *perditur, sed perficitur*.
+    **En.** The Vatican edition, with the manuscripts and ed. 1 opposing, reads *perditur, sed perficitur*.
+
+[^7]: **La.** In Vat. et cod. cc hic additur *et hoc proximo producente in facto esse*, quod tamen abest ab aliis mss. et ed. 1 et superfluere videtur, quia hoc distinctionis membrum per duo alia satis superque explicatur. Paulo infra Vat. cum cod. cc, aliis tamen codd. cum ed. 1 renitentibus, post *propria* habet *sui* loco *sive*, sed non bene. Mox ex mss. et ed. 1 substituimus *substantiae* loco *substantia*.
+    **En.** In the Vatican edition and codex cc, here is added *et hoc proximo producente in facto esse*, which however is absent from the other manuscripts and ed. 1 and seems superfluous, since this member of the distinction is sufficiently explained by the other two. A little below, the Vatican edition with codex cc, but with the other codices and ed. 1 resisting, after *propria* has *sui* for *sive*, but not well. Shortly after, from the manuscripts and ed. 1, we have substituted *substantiae* for *substantia*.
+
+[^8]: **La.** Intellige: in initio productionis. Sensus est: modus actualitatis principii taliter producentis idem est in principio seu initio et in continuatione productionis, tum in se tum quoad productum; sicut est v. g. actualitas solis illuminantis et luminis vel aeris illuminati. Vat. falso et contra antiquiores codd. ac ed. 1 post *per quem* addit *sunt*.
+    **En.** Understand: at the beginning of the production. The sense is: the mode of actuality of the principle so producing is the same at the beginning or start and in the continuation of the production, both in itself and with regard to the product; as is, for example, the actuality of the sun illuminating and of the light or illuminated air. The Vatican edition falsely, and against the older codices and ed. 1, after *per quem* adds *sunt*.
+
+[^9]: **La.** Cap. 12. n. 26: *Neque enim, ut dicebamus, sicut operatur homo terram... ita Deus operatur hominem iustum, id est iustificando eum, ut si abscesserit, maneat in abscedente quod fecit; sed potius sicut aer praesente lumine non factus est lucidus, sed fit, quia si factus esset, non autem fieret, etiam absente lumine lucidus maneret; sic homo Deo sibi praesente illuminatur, absente autem continuo tenebratur.*
+    **En.** Ch. 12, n. 26: *For not, as we were saying, as a man works the earth... does God work the just man, that is, by justifying him, so that if he departs, what he made remains in the one departing; but rather, as the air in the presence of light has not been made bright but is being made bright — because if it had been made bright and were not still being made bright, it would remain bright even when the light was absent — so a man, with God present to him, is illuminated, but when God is absent, is immediately darkened.*
+
+[^10]: **La.** Vide textum modo citatum. — Vat. cum cod. cc, aliis vero cum ed. 1 reluctantibus, *dicendum* pro *dicit*.
+    **En.** See the text just cited. — The Vatican edition with codex cc, but with the others and ed. 1 opposing, reads *dicendum* for *dicit*.
+
+---
+
+## Notes
+
+- The respondeo section on p. 186–187 contains some OCR-damaged passages in the raw text. The clean transcription above reconstructs the argument from the page images, but the final two paragraphs (starting "Unde ergo" and "Cassiodoro ergo") should be verified against the PDF — the marginal glosses and OCR damage were heavy in this area.

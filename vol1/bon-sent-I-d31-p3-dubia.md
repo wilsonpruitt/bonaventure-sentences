@@ -6,9 +6,9 @@ distinctio: 31
 pars: 3
 type: dubia
 line_start: 13418
-line_end: 13569
-word_count_latin: 1374
-transcription_status: "auto-chunked 2026-04-18"
+line_end: 13626
+word_count_latin: 1689
+transcription_status: "auto-chunked 2026-05-01"
 format_version: 1
 ---
 
@@ -164,6 +164,63 @@ adiiTMmiL     siderationera. Potest                         enim considerari in 
     quia videtur                          haec          confessio                fidei            non         esse conve-             tione        cuius            est       ibi     unitas         per     consonantiam                       ,    ne-
                                                                                                                                   ^
     niens, quia                       de tribus                  hominibus                        concordantibus                      cesse est,               qnod unitatem habeant                              in    essentia.
+
+
+
+
+                                                                                                        DISTINCTIO XXXII.
+
+                                                                                                                                      lii   et     amor, quc Pater et                          Filius se          invicem diligunt.
+                                                                                                                                      Ideo quaeritur                 ,    utrum Pater vel                   Filius       per Spirilum
+         Utrum Paler vel Filius ea dileclione dilicjant, qiiae                                                                        sanctum             vel Spirilu sancto ^ diligat.                           Quod utique vide-
+                 procedit ab utroque , id est Spiritit sancto.                                                                        tur oportere dici secundum auctoritates supra positas,
+                                                                                                                                      quibus ostenditur, Spiritum sanctum esse quo genitus
+             Hic oritur quaestio ex praedictis dedueta. Dictura                                                                       a gignente dlligatur                          genitoremque              suum            diligat.               Sed
+    estenim supra ' atque Sanctorum auctoritatibus oslen-                                                                             cbntra:           si     Pater vel Filius dicatur dilif/ere per Spiri-
+    sum quod Spiritus sanctus est communio Patris et Fi-
+             ,
+                                                                                                                                      tum sanctum               ,   videtur esse per Spiritum sanctum                                       ,
+                                                                                                                                                                                                                                                    quia
+
+
+
+
+             1   Vide hio              iit.     Slagislri,           c.    3.    notula.           — Pro ubi codd.                        * Pro substantiam  fere omnes codd. cum edd. I, 2,                                                            .3
+
+
+
+    cum ed.                     quia, et dein in ipso textu pro                                    refenmtur, quod                    consonantiam ; perperam, ut ex subnexis clnrel.
+                                                                                                                                                                                                                                                      —
+                           I
+
+
+
+
+    et     in originali et in Magistro legitur,                                   alii   cum ed. 1 de.feruntur,                           = Complurcs codd., inter quos G H S  cum ed. quin.                  ,                     I
+
+
+
+
+    alii    di/fenmtur ,                  alii,       quos et Vat. sequitur, diffenmt.                                                Huius dubii solutio habetur ctiam apud S. Thom., hic circa lit.
+             '
+                 .Multi          codd. ut         A F G H I S T etc. cum ed.                              I   cmcordibiis.
+            3    Vat. nec non pkirimi codd. hic valde incongrue subiiciunt                                                                                   NOTAE AD LIBR. SENTENTURTJM.
+    sicut,        quam incongruitateni Vat.                                 sola      vano conatu                  tollere ni-
+
+    titur,       coniungendo sequentem proposilionem                                                cum hac et omil-                          1
+                                                                                                                                                  Dist.      XXXI. c. 6.              •
+
+
+
+
+                                               particulam enim.                   Nostra lectio nititur prae-                               2     Vat. aliaeque edd., refragantibus codd. et                                  ed.                   omit-
+    tendo post Sancti                                                                                                                                                                                                                   1   ,
+
+
+
+    eipue         auctoritate                 cod.     Y. Paulo post                pro            elidebat        Vat.        cum    tunt vel Spiritu sancto ; deinde codd.                               C D ct ed. 8 diligant pro
+    codd.        .A.   L         T X Y Z et ed.              1       eludebat.                                                        diticjat ,    et       insuper cod.           C addit se.
+                                                                                                                                                                                                                                                             ,
 
 ## English
 

@@ -8,7 +8,7 @@ type: dubia
 line_start: 6183
 line_end: 6285
 word_count_latin: 907
-transcription_status: "auto-chunked 2026-04-18"
+transcription_status: "auto-chunked 2026-05-01"
 format_version: 1
 ---
 

@@ -4,10 +4,10 @@ volume: 1
 book: 1
 distinctio: 37
 type: littera
-line_start: 21452
+line_start: 21511
 line_end: 21920
-word_count_latin: 4188
-transcription_status: "auto-chunked 2026-04-18"
+word_count_latin: 3771
+transcription_status: "auto-chunked 2026-05-01"
 format_version: 1
 ---
 
@@ -15,66 +15,7 @@ format_version: 1
 
 ## Latin
 
-DISTINCTIO XXXVII.
-
-
-
-
-                                                                                                                                    ialis       corporaliter inhabiiat ,                           ut          ait    Apostolus'. In co
-                                                                                                                                    enim Deus habitavit non per gratiam adoptionis, sed
-                              Quibm modis dicitur Dem esse in rebm.                                                                 per gratiam unionis. Ne autem ista, quia capacitatem
-                                                                                                                                    humanae intelligentiae excedunt falsitatis arguere ali-                ,
-
-
-
-
-                        Et quoniam demonstratiim est exparte, quomodo                                                               qui praesumant, Sanctorum auctoritatibus muuienda
-           omnia dicantur esse in Deo, addendum videtur hic,                                                                        mihi videnlur. Beatus Gregorius                                            super Cantica Canti-
-           quibus modis dicitur Dem esse in rebics, si tamen id                                                                     corum ^       :   « Licet          Deus comn)uni modo omnibus rebus
-           humana mens vel ex parte digiie valeat cogitare, vel                                                                     insit       praesentia,             potenlia, substantia, tamen familia-
-
-Responsio. lingua sufficiat eloqui.  Sciendum ergo est, quod Deus,—                                                                 riori       modo dicilur inesse per gratiara illis, qui mirifl-
-           incommutabiliter semper in sc existens, praesentialiter,                                                                 centiam operum Dei acutius et fldelius considerant »
-           potentialiter, essentiaUter est in omni natura sive es-                                                                  De hoc enim eodem Augustinus ad Dardanum ' in                                                                         -'
-
-
-
-
-           sentia sine sui deflnitione, et in omni loco sine cir-                                                                   libro        de      Praesentia              Dei        ait:      «Cum Deus sit natura
-           cumscriptione et in omni iempore sine mutabilitate.
-                                            ,                                                                                       incorporea            et     incommutabiliter viva,                                     aeterna        stabili-
-
-           Et praeterea in sanctis spiritibus et animabus est                                                                       tate in se ipso               manens              ,    totus adest rebus omnibus , et
-
-              excellentim, scilicet per gratiam inliabitans, et in ho-                                                              singulis totus; sed in quibus habitat                                              habent eum pro
-              mine Christo excellentissime, in quo pletiiiudo divini-                                                               suae capacitatis diversitate,                                alii          amplius,             alii   minus,
-
-
-
-
-                        1    Ilic    dub.    2.      et 3. Cfr.        eUam supra a. 2. q.                   I.                                          NOTAE AD LIBR. SENTENTIARUM.
-                        -    Supple         cum          cod.      V   verborum.        — Subinde post quia                                 '   Colos. 2, 9.
-
-              adiecimus              idem ex antiquioribus codd. et ed.                            1.        Verbum di-                     2 Erral      Magister citando Gregorium                              ,    cum male intellexerit
-              versimode, quod immediate sequitur, a multis codd.                                                      et ed.    I   glossam ordinariam (ad Cantica                              5,    17.), cuius            tantum pars est
-              abest; et in codd.                     F   1    T Y non bene legitur:                quia non idem                    ex Gregorio,          illa   verba autem                     n.       Hunc errorem Magislri se-
-              important etc.                                                                                                        cuti sunt cum aliis Scholaslicis                             iam S. Bonav., hic p.                     I.   a.   3.
-
-                        3    Pro qmeiativi codd. L                          locativi.   —   Cfr.        de hoc dubio                q. 2. arg. I, et S. Thomas S.                                    q.    8.    a.    3;    cfr.    De Hubeis,
-              Alex. Hal., S. p.                 I.   q.      67.    m. 4;    B.   Albert.,    liic          a.    10,   et     S.   Dissertationes , dissert. 31.                     c.    1
-
-
-
-
-                                                             m.                                                                             3   Epist.    187.             6.   n.    19.
-              p.   I.       tract.    12.   q. 50.                 4; Richard., hic circa            lit.                                                         c.
-                                                                                                                        ,         ,,
-                                                                                                                                   :,                                                                 .                                                                             ,
-
-
-
-
-                                                                                                                    DISTINCTIO XXXVII.                       P.     I.                                                                                                         (533
+DISTINCTIO XXXVII.                       P.     I.                                                                                                         (533
 
 
             quos ipse                          sibi          dllectissimum                   templum gratia suae                        culis coi-poris essentlaliter tota sit»; ila et Deus, cum

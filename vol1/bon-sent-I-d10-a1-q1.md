@@ -6,205 +6,178 @@ distinctio: 10
 articulus: 1
 quaestio: 1
 type: quaestio
-title: "I Sent., d. 10, a. 1, q. 1"
-line_start: 38354
-line_end: 38660
-word_count_latin: 2016
+title_la: "Utrum in divinis ponenda sit processio per modum liberalitatis"
+title_en: "Whether a procession by way of liberality is to be posited in God"
+printed_pages: [194, 195, 196]
+pdf_pages: [296, 297, 298]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 194–196"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin body, scholion, apparatus, English body and scholion (2026-04-17 / English 2026-05-02)"
+format_version: 1
 ---
 
 # I Sent., d. 10, a. 1, q. 1
+## *Whether a procession by way of liberality is to be posited in God*
 
-### Latin
+---
 
-DIST. X. ART. I. QUAEST. I.
+## Latin
 
-videtur sapere amorem libidinosum: ergo si in Deo
-est summa dileotio et summa delectatio et ' beatitudo,
-non est ibi persona, quae mutuo non ametur, sed
-cui araor mutuus communicetur ; sed communicatio
-amoris mutui est per liberalitatem : ego ete.
+<!-- page 194 -->
 
-2. Item, in his inferioribus duplex invenitur
-modus procedendi ' nobilis, scilicet per modum naturae et per modum voluntatis: primo modo emanat
-Filius aPatre, secundo modo donum a datore; sed
-omne quod nobilitatis est in creatura, est attribuendum Deo: ergo etc.
+### Articulus I
 
-3. Item , in Deo est ponere naturam et voluntatem, et sicut naturam perflcit fecunditas, ita volunta-
-tem summa liberalitas; sed natura perfecta fecunditate,
-producit persona aliam personam: ergo pari ratione,
-voluntate perfeeta liberalitate, producit persona ' aliam
-personam: et sic etc.
+*De modo processionis Spiritus sancti.*
 
-4. Item, omnes creaturae a Deo procedunt per
-cognitionem, et voluntatem; sed ante creaturarum
-productionem ponere fuit in divinis emanationem
-Verbi ab aeterno, in quo Pater omnia fienda disposuit^: ergo pari ratione necesse fuit emanare perso-
-nam, in qua omnia vellet' et donaret; sed talis procedit per modum liberalitatis: ergo etc.
+### Quaestio I
 
-CoNTRA: 1. Non est similis modus procedendi
-Ad oppo- sive exeundi ° in creaturis respectu Dei et in personis; nam creaturae sunt extrinsecus, personae vero
-in essentia unum; sed exitus creaturarum a Deo est
-per modum liberalitatis: ergo non est ponere personam hoc modo procedere.
+*Utrum in divinis ponenda sit processio per modum liberalitatis.*
 
-2. Item, exiens per modum voluntatis ab aliquo
-non assimilatur in substantia producenti , nec aequatur, nec necessario producitur; sed persona, si pro-
-cedit in divinis , est in substantia similis et in potestate aequalis nec potens se aliter habere : ergo etc.
+Circa primum, quod in divinis sit ponere emanationem per modum liberalitatis, ostenditur:
 
-3. Item, in his inferioribus non tantum sunt ista
-principia nobilia, scilicet natura et voluntas, verum
-etiam ratio sive operans per artem^ ergo si ponunlur
-duae personae his duobus modis procedentes, debet
-poni tertia, quae tertio modo procedat; sed illa non
-ponitur: ergo nec per modum voluntatis ponetur'
-aliqua pari ratione.
+1. Primo sic. Richardus de sancto Victore in libro de Trinitate[^1] dicit: «In summa bonitate et beatitudine necesse est ponere plenam et perfectam dilectionem; ubi vero est plenitudo dilectionis, est summa concordia; ubi summa concordia, commune velle, commune nolle; ubi istorum omnium est plenitudo, est summa iucunditas; sed amor, qui terminatur intra duos, videtur sapere amorem libidinosum»: ergo si in Deo est summa dilectio et summa delectatio et[^2] beatitudo, non est ibi persona, quae mutuo non ametur, sed cui amor mutuus communicetur; sed communicatio amoris mutui est per liberalitatem: ergo etc.
 
+2. Item, in his inferioribus duplex invenitur modus procedendi[^3] nobilis, scilicet per modum naturae et per modum voluntatis: primo modo emanat Filius a Patre, secundo modo donum a datore; sed omne quod nobilitatis est in creatura, est attribuendum Deo: ergo etc.
 
-4. Item, quanto pluribus communicatur dilectio,
-tanto perfectior, quia omne bonum in commune deductum pulcrius elucescit: ergo non solum est ponere
-tertiam personam, cui amor communicetur secundae ',
-sed etiam quartam, cui amor communicetur tertiae; et
-sic in infmitum; sed hoc est impossibile in divinis, ut
-ostensum est supra^: ergo est stare in prima persona producente: ergo non est persona procedens per
-modum liberalitatis.
+3. Item, in Deo est ponere naturam et voluntatem, et sicut naturam perficit fecunditas, ita voluntatem summa liberalitas; sed natura perfecta fecunditate, producit persona aliam personam: ergo pari ratione, voluntate perfecta liberalitate, producit persona[^4] aliam personam: et sic etc.
 
-CONCLrSIO.
+4. Item, omnes creaturae a Deo procedunt per cognitionem et voluntatem; sed ante creaturarum productionem ponere fuit in divinis emanationem Verbi ab aeterno, in quo Pater omnia fienda disposuit[^5]: ergo pari ratione necesse fuit emanare personam, in qua omnia vellet[^6] et donaret; sed talis procedit per modum liberalitatis: ergo etc.
 
-In divinis per moclum liberalitatis procedit
-tertia persona, quae dicitur Donum.
+<!-- page 195 -->
 
-Respondeo: Dicendum, quod, sicut probatum
-est '", in divinis est ponere terliam personam proce- condo»io.
-dentem per modum liberalitatis, quae dicitur Donum.
-Et ratio huius est perfectio dilectionis, perfectio cma- tripiex ranationis et perfectio voluntatis, qua existente " libe- "°"
-ralissima, non potest non producere personam; sicut
-natura, existente fecundissima , non potest non producere personam; et haec est ratio propria huius
-emanationis.
+**Contra:**
 
-1. Ad illud quod obiicitur in contrarium, quod soiutioopcreaturae emanant per modum liberalitatis; dicendum,
-quod per modum liberalitatis emanare est dupliciter :
-aut sicut volitum, aut sicut ratio volendi, sive aut
-sicut donatum ", aut sicut ratio donandi. Primo modo
-emanant creaturae, quae sunt extra; secundo modo
-emanat tertia in Trinitate persona, quia ratio volendi
-et donandi est intrinseca perfectissimae voluntati.
+1. Non est similis modus procedendi sive exeundi[^7] in creaturis respectu Dei et in personis; nam creaturae sunt extrinsecus, personae vero in essentia unum; sed exitus creaturarum a Deo est per modum liberalitatis: ergo non est ponere personam hoc modo procedere.
 
-2. Ad illud quod obiicitur, quod voluntas non
-est "■ principium assimilans nec necessario emanans;
-dicendum, quod voluntas sive liberalitas dupliciter
-est principium: uno modo distinctum in natura, et^
-sic non assimilat in substanlia; alio modo conco- ''.'"!«';«''
-mitante'* natura, et sic in substantia assimilat. Quoniam igitur persona sic procedit per modum libera-
-litatis, ut tamen concomitetur natura: ideo similis in
-substantia, quamvis ipse modus procedendi non sit
-per modum similis; et sic patet illud.
+2. Item, exiens per modum voluntatis ab aliquo non assimilatur in substantia producenti, nec aequatur, nec necessario producitur; sed persona, si procedit, aequatur et assimilatur et necessario procedit[^8]: ergo non procedit per modum voluntatis sive liberalitatis.
 
+3. Item, ubi est processio per modum voluntatis, ibi est voluntas ratio procedendi[^9]; sed communicatio est per modum naturae: ergo per modum naturae est ratio communicandi; sed prima et summa ratio communicandi est in generatione: ergo non est ponere processionem per modum liberalitatis.
 
-qui loco cum communicante legunt concomitante , dum alii
-ut CLOTU habenl comitante, alii ut FGHI ctc. communicante.
-Hac de re vide supra d. 6. q. 2. et 3. Eadem lectionum diver-
+4. Item, processio per modum naturae est nobilior quam processio per modum voluntatis, quia nobilius est procedere per modum naturae[^10] — cum Filius procedat hoc modo — quam alio modo; sed processio nobilior est processio magis sufficiens: ergo processio per modum naturae est sufficiens: ergo frustra ponitur alia.
 
-m\
+> **Conclusio.** In divinis ponenda est processio per modum liberalitatis, quae est donatio amoris.
 
-SlvNTEiNTIAKUM 1,11!. 1.
+**Respondeo:** Dicendum, quod sicut probant rationes, necesse est in Deo ponere processionen per modum liberalitatis. Et ratio huius est, quia prima et summa bonitas non tantum se communicat per modum naturae, sed etiam per modum voluntatis, quia non tantum habet fecunditatem per naturam, sed etiam per liberalitatem; et sicut per fecunditatem naturae communicat se Pater Filio, ita per fecunditatem voluntatis communicat se Pater et Filius Spiritui sancto.
 
-o. Ad iilurt qiioti obiicitur, qnare uon procedit
-Mliqn;t persona per moduni lationis; dicendum, qnod
-oinnis modtis proiliKHMidi iioliilis ad istos duos reducilnr: ipiia oiiinr ai^iMis aul at,'il naluraliter, aut per
-volinilaieiii: — ajjeiis eniiii [ler violenliam, aut per Ibrtnnam esl af,'ens imperlectuin. et modusproducendi
-ininns noliilis ' — uiule ralio non distinpinitur conlra
-natnrain el volunlalein qiiaiiliiin ad modiiin ai>(>iidi:
-el ideo non cst [lersoiia l:ili iiiodo procedens.
+Et differentia est inter unam processionem et alteram[^11]. Nam per naturam procedit simile in similitudinem, et ideo Filius procedit a Patre per modum verbi sive per modum exemplaris, in quo Pater omnia exprimit. Per voluntatem vero procedit donum ab amante, et ideo Spiritus sanctus procedit a Patre et Filio per modum amoris sive doni, in quo Pater et Filius omnia donant.
 
-Seil t;iiiU'n hoc non vidcliir plcne solverc, iini;i
-nos ilisliiii;;iiiiiiiis in his creaturis egressiini per inoduni ///)r;((///((//.v ali egressu per modnm arlis. Et '
-•proptere;i diccndiiin. qnod processus per nioduni
-libendilatis est dnpliciter, aut sicnt ralio liberalitalis
-sive ips;i liber;ilil;is. ;uit sicnt libcrulilcr facluni;
-simililer cl in arlr. ;iul siciil ipsa ars sive r;itio
-artilici;indi . ;iiil siiail arli/icialiim ; el primo moilo
-potesl caderc iii ilivina persona . seciindo inodo noii.
-Et primo niodo procedit Filius, qui est « Verlmm et
-ars plena oninium rationum viventium^». Sed iste
-modus emanandi non distinguitur a modo emanandi
-per moduni naturae, quia enianat ut omnino similis
-et per modum siniilitudinis perfectae. Alius autem
+<!-- page 196 -->
 
-iiiodus iioii polest esse ' , quia duas personas iiecesse
-est communicare in eadem natura, et quia necesse
-est, quod omiiis modus eni;inandi, qui cst in divinis, sit per modum natuiae princip;iliter, vel illa con-
-coinilantc "■. laidc ciiiii processiis [ler modnin i<ol,unlalis possil essc iiilrinseciis. siciil'' procedit araor ab
-;iiii;iiitc: |icr moiliiiii vcro aiiis seniper est extrinseciis. iiu|ii;iiiliiiii luiiiisinodi: ideo impossibile esl,
-qiioil cadat in Dco rcspectu |iersonae. sed cadil
-solnin rcspectu cre;ilnre.
+**Ad argumenta pro parte contra:**
 
-4. Ad illud quod ultiino obiicitur: si est ponere terti;im personam ob communicationem , pari
-ratione et quartam: dicendum, quod omnis ratio et
-natura concordat, quod non tiat per plures quod
-polest sulTicientissime fieri per unum; alioquin est
-ibi superllnum". Si ergo miitiia dilectio non potest
-esse iiiiiius qnani ad unum. et communicatio illius
-iiiutuae non minus quain ad unum, et in uno esl
-mutua dilectio, et in altero mutuae dilectionis communicatio perfectissime, cum uterque ^ accipiat totum
-infinite; patet quod non est ultra procedere, sed ibi esl
-stare. Unde ipsa eadem ratio , quae ponit personarum
-pluralitatem, aufert infinltatem et ponit trinitatem.
+*Ad 1.* Ad illud quod obiicitur, quod non est similis modus procedendi; dicendum, quod verum est, quia non omnino similis, sed tamen proportionalis[^12]; quia sicut creatura se habet ad Deum in ratione doni, sic aliquo modo persona ad personas.
 
-SCHOLIOK
+*Ad 2.* Ad illud quod obiicitur, quod exiens per modum voluntatis non assimilatur; dicendum, quod non est simile in creaturis et in divinis, quia in creaturis voluntas et natura differunt re, et ideo differunt processiones; in Deo autem idem est natura et voluntas, et ideo persona procedens per modum voluntatis est eadem in substantia, et per consequens eiusdem nobilitatis.
 
-1. Spirilus sanclus habet noinen Doni, cl quidem Doni, in quo
-omnia donantur (cfr. infra d. 18. per totam). Quidquid autem
-donalur , dalur per modiim lihiralitatis. Quo sensu Serapliicus
-hie necipial hanc loculioneni , explicatione indigerc videtur. Liberalittts praeter .'specialcin AiiluliMii nioralem iniplicito eliam
-imporlat ralionem libeiialis scii \iiiiinlalis , nli iliiccliii- iii soliil.
+*Ad 3.* Ad illud quod obiicitur, quod voluntas est ratio procedendi; dicendum, quod voluntas in divinis non est ratio communicandi naturam — hoc enim facit natura — sed ratio communicandi donum; et ideo non sequitur, quod processio per modum voluntatis sit generatio.
 
-ad .■!. Cum igilur duplrx sii in.idiis cniaii li in llcn. si il. pcr
+*Ad 4.* Ad illud quod obiicitur, quod processio per modum naturae sufficit; dicendum, quod processio per modum naturae est sufficiens quantum ad communicationem naturae, sed non quantum ad communicationem boni in ratione doni; et ideo necesse est ponere aliam processionem.
 
-modum nalurac el pcr inniliiin Milnnliilis, ri piiiccssin S|iiriius
-sancli sil per modum volunCilis, illa iniriiiSHca perlectio divinae volunlalis , quae se difTundil et exprimil in processione
-Spiritus sancli , ut Doni omnium donorum , a Sancto vocatur
-liberalitas. Insuper nolaudum , quod volunlas in Deo potest
-accipi vel qualenus secundum noslrum modum intelligendi distinguilur ut potentia conlra naturam , vel quatcnus concomi-
-tatur ipsam naluram eamquc communicat in ralionc obiccli
-summe amabilis. In primo sensu vokintas esl prineipium fecundum in productione rerum creatarum , non vero in pro-
-ductione Spirilus sancti ; in secundo vero sensu est principium
-Spirilus sancli. Unde palel ciuod dicit ad 1. 2; intclligilur
-etiam quod supra d. 6. q. 2. dictum cst dc dilTerentia inter produclionem Filii el Spiritus sancti. Filius enim procedit a Pati-e
-per nwAum mturae , concomilanie volunlate; et quia per mo-
+### Scholion
 
-dum naturae piocedit, procedit ut omnino similis Palii et perfecta ipsius imago (cfr. infra d. 31. a. I. q. 2.). Spiritus sanctus
-vero producitur pcr moduni voluntatis, concomitante natura ,
-similis quidem, inmio idem omnino in natura , tamcn sic , quod
-vi processionis ratio imaginis completius sit in Filio.
+**I.** Haec quaestio supponit generationem, de qua in praecedenti distinctione; modo quaeritur de processione Spiritus sancti. Quaestio igitur est, utrum in divinis ponenda sit processio distincta a generatione, quae sit per modum liberalitatis sive voluntatis. — Cfr. supra d. 6. q. 2; infra d. 13. a. 1. q. 1; d. 27. p. II. q. 1; Breviloq. p. I. c. 3; Hexaem. Serm. II. — Alex. Hal., S. p. I. q. 46. m. 1. — Scot., I. Sent. d. 2. q. 7; d. 10. q. unic. — S. Thom., hic q. 1. a. 1; S. I. q. 27. a. 3. 4. 5; S. c. Gent. IV. c. 19. — B. Albert., I. Sent. d. 10. a. 1. 2; S. I. tr. 7. q. 31. m. 1. — Petr. a Tar., hic q. 1. a. 1. — Richard. a Med., hic a. 1. q. 1. — Aegid. R., hic 1. princ. q. 1. — Henr. Gand., S. a. 54. q. 2. — Durand., hic q. 1.
 
-II. .\rgumenlum ullimum in fiindam. , qiiod ab emanalione
+---
 
-j crealurarum deducitur, approbalur ctiam ab .\lcx. Hal., S. Thom.
+## English
 
-j (hic iu Cnnimcnl.), Richard. aliisque, sed ab .■Egid. (hic) im-
+<!-- page 194 -->
 
-j nierilo impugnaliir , de quo videsis Dionys. Carth. ( hic q. 1 .
+### Article I
 
-I circa med. ).
+*On the manner of the procession of the Holy Spirit.*
 
-I III. De ipsa quaestione Alex. llal. , S. p. I. q. 4.3. m. 1.
+### Question I
 
-qui , ut dicit hic Dionys Carlh. , o de his plenissime scribit ,
-imino quod iam ex mullis doctoribus est induclum , ipso pene
-totum solus in scripto suo cxprcssit , mullaquc alia , qiiac aliorum nullus conscripsisse videtur». — Scot. , hic q. unic. —
-S. Thom., hic q. I. a. I. seq. — B. .\lbcrt. , 1. Senl, d. 13. a.
-i; de hac et seqq. qq. S. p. !. tr. 7. q. 31. m. 2. — Petr. a.
-Tar. , dc hac quaesl. el seq. hic q. 1. a. 2. — Uichard. a Med. ,
-hic a, 1. q. 1. — Aegid. li., hic I. princ. i|. 1. — Ilenr. Gand,,
-S. a. 61. q. 10. — Dionys. Carlli., ilc hiic cl scq. hic q, 1.
-— Biel . hic ((. 2. concl. 3,
+*Whether a procession by way of liberality is to be posited in God.*
 
-sitas reperitur paulo infra respcctu vcrbi conaimitetur , ubi
-Vat. eliam.p.irliculam ta^mn omillil.
+Concerning the first point: that an emanation by way of liberality is to be posited in God is shown thus:
 
-### English
+1. *First*, thus. Richard of St. Victor, in his book *On the Trinity*[^1], says: "In supreme goodness and beatitude one must posit a full and perfect love; where indeed there is fulness of love, there is supreme concord; where supreme concord, a common willing and common refusing; where there is fulness of all these, there is supreme delight; but a love which terminates within two seems to savor of a libidinous love"; therefore if in God there is supreme love and supreme delight and[^2] beatitude, there is no person there who is not loved mutually, but to whom mutual love is communicated; but communication of mutual love is by liberality: therefore etc.
 
-[Translation pending]
+2. Likewise, in these lower realities a twofold noble manner of proceeding[^3] is found, namely by way of nature and by way of will: in the first manner the Son emanates from the Father, in the second a gift from a giver; but everything that pertains to nobility in a creature is to be ascribed to God: therefore etc.
 
-### Notes
+3. Likewise, in God we must posit nature and will, and just as fruitfulness brings nature to perfection, so supreme liberality brings the will to perfection; but nature, when perfected by fruitfulness, has one person produce another: therefore by parallel reasoning, when the will is perfected by liberality, one person produces[^4] another: and so on.
+
+4. Likewise, all creatures proceed from God through cognition and will; but prior to the production of creatures one must posit in God an emanation of the Word from eternity, in which the Father disposed[^5] all things to be made: therefore by parallel reasoning it was necessary that there emanate a person in whom He would will[^6] and give all things; but such a one proceeds by way of liberality: therefore etc.
+
+<!-- page 195 -->
+
+**On the contrary:**
+
+1. The manner of proceeding or going forth[^7] in creatures with respect to God is not similar to that in the persons; for creatures are extrinsic, while the persons are one in essence; but the going forth of creatures from God is by way of liberality: therefore one cannot posit a person to proceed in this manner.
+
+2. Likewise, what goes forth by way of will from another is not made like the producer in substance, nor equal, nor produced of necessity; but a person, if it proceeds, is made equal and like and proceeds[^8] of necessity: therefore it does not proceed by way of will or liberality.
+
+3. Likewise, where there is a procession by way of will, there will is the ground of proceeding[^9]; but communication is by way of nature: therefore by way of nature is the ground of communicating; but the first and supreme ground of communicating is in generation: therefore one cannot posit a procession by way of liberality.
+
+4. Likewise, procession by way of nature is more noble than procession by way of will, because it is more noble to proceed by way of nature[^10] — since the Son proceeds in this manner — than in another manner; but a more noble procession is a procession more sufficient: therefore the procession by way of nature is sufficient: therefore another is posited in vain.
+
+> **Conclusion.** A procession by way of liberality is to be posited in God, which is the donation of love.
+
+**I respond:** It must be said that, as the arguments prove, it is necessary to posit in God a procession by way of liberality. And the reason for this is that the first and supreme goodness communicates itself not only by way of nature, but also by way of will, because it has fruitfulness not only through nature, but also through liberality; and just as through the fruitfulness of nature the Father communicates Himself to the Son, so through the fruitfulness of will the Father and the Son communicate themselves to the Holy Spirit.
+
+And there is a difference between the one procession and the other[^11]. For by nature like proceeds into a likeness, and so the Son proceeds from the Father by way of word or by way of exemplar, in which the Father expresses all things. But by will a gift proceeds from a lover, and so the Holy Spirit proceeds from the Father and the Son by way of love or gift, in which the Father and the Son give all things.
+
+<!-- page 196 -->
+
+**To the arguments on the contrary side:**
+
+*To 1.* To what is objected, that the manner of proceeding is not similar; it must be said that this is true, because not entirely similar, but nevertheless proportional[^12]; for as a creature stands to God in the account of a gift, so in some manner does a person stand to the persons.
+
+*To 2.* To what is objected, that what goes forth by way of will is not made like; it must be said that the case is not similar in creatures and in God, because in creatures will and nature differ in reality, and so the processions differ; but in God nature and will are the same, and so a person proceeding by way of will is the same in substance, and consequently of the same nobility.
+
+*To 3.* To what is objected, that will is the ground of proceeding; it must be said that in God will is not the ground of communicating nature — for nature does this — but the ground of communicating gift; and so it does not follow that procession by way of will is generation.
+
+*To 4.* To what is objected, that procession by way of nature is sufficient; it must be said that procession by way of nature is sufficient as regards the communication of nature, but not as regards the communication of the good in the account of gift; and so it is necessary to posit another procession.
+
+### Scholion
+
+**I.** This question presupposes generation, on which the preceding distinction treated; now the question is about the procession of the Holy Spirit. The question, therefore, is whether one must posit in God a procession distinct from generation, which would be by way of liberality or will. — Cf. above d. 6, q. 2; below d. 13, a. 1, q. 1; d. 27, p. II, q. 1; *Breviloquium* p. I, c. 3; *Hexaemeron* Sermon II. — Alex. Hal., *Summa* p. I, q. 46, m. 1. — Scotus, I *Sent.* d. 2, q. 7; d. 10, q. unic. — St. Thomas, here q. 1, a. 1; *S.* I, q. 27, a. 3, 4, 5; *S. c. Gent.* IV, c. 19. — Bl. Albert, I *Sent.* d. 10, a. 1, 2; *S.* I, tr. 7, q. 31, m. 1. — Petr. a Tar., here q. 1, a. 1. — Richard. a Med., here a. 1, q. 1. — Aegid. R., here principium 1, q. 1. — Henr. Gand., *S.* a. 54, q. 2. — Durand., here q. 1.
+
+---
+
+## Apparatus
+
+[^1]: **La.** Libr. III. de Trinit. c. 2, 11, 14, 19. Textus compositus ex diversis locis Richardi. — Mox codd. AFGHIK etc. cum ed. 1 *iucunditas* pro *beatitudo*.
+    **En.** Book III, *De Trinitate*, c. 2, 11, 14, 19. The text is composed from various passages of Richard. — Shortly after, codices AFGHIK etc. with ed. 1 read *iucunditas* for *beatitudo*.
+
+[^2]: **La.** Vat. contra mss. et ed. 1 omittit *et*.
+    **En.** The Vatican edition, against the manuscripts and ed. 1, omits *et*.
+
+[^3]: **La.** Cod. T addit *sive emanandi*.
+    **En.** Codex T adds *sive emanandi*.
+
+[^4]: **La.** Vat. contra mss. et ed. 1 *personam*.
+    **En.** The Vatican edition, against the manuscripts and ed. 1, reads *personam*.
+
+[^5]: **La.** Cfr. supra d. 6. q. 2. et infra d. 27. p. II. — Vat. cum cod. cc *disponit* pro *disposuit*.
+    **En.** Cf. above d. 6, q. 2, and below d. 27, p. II. — The Vatican edition with codex cc reads *disponit* for *disposuit*.
+
+[^6]: **La.** Cod. Y *vult* pro *vellet*.
+    **En.** Codex Y reads *vult* for *vellet*.
+
+[^7]: **La.** Vat. contra mss. et ed. 1 *procedendi* pro *exeundi*.
+    **En.** The Vatican edition, against the manuscripts and ed. 1, reads *procedendi* for *exeundi*.
+
+[^8]: **La.** Multi codd. cum ed. 1 *producit* pro *procedit* in fine.
+    **En.** Many codices with ed. 1 read *producit* for *procedit* at the end.
+
+[^9]: **La.** Vat. contra vetustiores codd. et ed. 1 addit *et producendi*.
+    **En.** The Vatican edition, against the older codices and ed. 1, adds *et producendi*.
+
+[^10]: **La.** Cod. T addit *et actum purum*.
+    **En.** Codex T adds *et actum purum*.
+
+[^11]: **La.** Multi codd. cum ed. 1 *aliam* pro *alteram*.
+    **En.** Many codices with ed. 1 read *aliam* for *alteram*.
+
+[^12]: **La.** Vat. cum cod. cc *similis* pro *proportionalis*; contra mss. et ed. 1.
+    **En.** The Vatican edition with codex cc reads *similis* for *proportionalis*; against the manuscripts and ed. 1.
+
+---
+
+## Notes
 
 [Notes pending]

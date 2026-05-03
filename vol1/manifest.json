@@ -105,14 +105,14 @@
       "file": "vol1/bon-sent-I-d25-dubia.md",
       "kind": "dubia",
       "distinctio": 25,
-      "lines": 341
+      "lines": 147
     },
     {
       "id": "bon-sent-I-d26-littera",
       "file": "vol1/bon-sent-I-d26-littera.md",
       "kind": "littera",
       "distinctio": 26,
-      "lines": 104
+      "lines": 298
     },
     {
       "id": "bon-sent-I-d26-divisio",
@@ -140,14 +140,14 @@
       "file": "vol1/bon-sent-I-d26-a1-q4.md",
       "kind": "quaestio",
       "distinctio": 26,
-      "lines": 184
+      "lines": 187
     },
     {
       "id": "bon-sent-I-d26-dubia",
       "file": "vol1/bon-sent-I-d26-dubia.md",
       "kind": "dubia",
       "distinctio": 26,
-      "lines": 122
+      "lines": 119
     },
     {
       "id": "bon-sent-I-d26-dubia-dup2",
@@ -224,7 +224,14 @@
       "file": "vol1/bon-sent-I-d27-a1-q1-dup2.md",
       "kind": "quaestio",
       "distinctio": 27,
-      "lines": 629
+      "lines": 329
+    },
+    {
+      "id": "bon-sent-I-d27-a1-q2-dup2",
+      "file": "vol1/bon-sent-I-d27-a1-q2-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 27,
+      "lines": 300
     },
     {
       "id": "bon-sent-I-d27-a1-q3-dup2",
@@ -315,7 +322,14 @@
       "file": "vol1/bon-sent-I-d29-a1-q1.md",
       "kind": "quaestio",
       "distinctio": 29,
-      "lines": 396
+      "lines": 194
+    },
+    {
+      "id": "bon-sent-I-d29-a1-q2",
+      "file": "vol1/bon-sent-I-d29-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 29,
+      "lines": 202
     },
     {
       "id": "bon-sent-I-d29-a2-q1",
@@ -364,14 +378,14 @@
       "file": "vol1/bon-sent-I-d30-a1-q2.md",
       "kind": "quaestio",
       "distinctio": 30,
-      "lines": 377
+      "lines": 384
     },
     {
       "id": "bon-sent-I-d30-dubia",
       "file": "vol1/bon-sent-I-d30-dubia.md",
       "kind": "dubia",
       "distinctio": 30,
-      "lines": 214
+      "lines": 207
     },
     {
       "id": "bon-sent-I-d31-littera",
@@ -469,7 +483,7 @@
       "file": "vol1/bon-sent-I-d31-dubia-dup3.md",
       "kind": "dubia",
       "distinctio": 31,
-      "lines": 152
+      "lines": 209
     },
     {
       "id": "bon-sent-I-d32-divisio",
@@ -518,14 +532,14 @@
       "file": "vol1/bon-sent-I-d32-dubia.md",
       "kind": "dubia",
       "distinctio": 32,
-      "lines": 188
+      "lines": 232
     },
     {
       "id": "bon-sent-I-d33-littera",
       "file": "vol1/bon-sent-I-d33-littera.md",
       "kind": "littera",
       "distinctio": 33,
-      "lines": 334
+      "lines": 290
     },
     {
       "id": "bon-sent-I-d33-divisio",
@@ -574,14 +588,14 @@
       "file": "vol1/bon-sent-I-d33-dubia-dup2.md",
       "kind": "dubia",
       "distinctio": 33,
-      "lines": 112
+      "lines": 202
     },
     {
       "id": "bon-sent-I-d34-littera",
       "file": "vol1/bon-sent-I-d34-littera.md",
       "kind": "littera",
       "distinctio": 34,
-      "lines": 304
+      "lines": 214
     },
     {
       "id": "bon-sent-I-d34-divisio",
@@ -763,21 +777,28 @@
       "file": "vol1/bon-sent-I-d36-a3-q2.md",
       "kind": "quaestio",
       "distinctio": 36,
-      "lines": 215
+      "lines": 157
     },
     {
       "id": "bon-sent-I-d36-dubia",
       "file": "vol1/bon-sent-I-d36-dubia.md",
       "kind": "dubia",
       "distinctio": 36,
-      "lines": 131
+      "lines": 58
+    },
+    {
+      "id": "bon-sent-I-d36-dubia-dup2",
+      "file": "vol1/bon-sent-I-d36-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 36,
+      "lines": 190
     },
     {
       "id": "bon-sent-I-d37-littera",
       "file": "vol1/bon-sent-I-d37-littera.md",
       "kind": "littera",
       "distinctio": 37,
-      "lines": 469
+      "lines": 410
     },
     {
       "id": "bon-sent-I-d37-divisio",
@@ -826,14 +847,14 @@
       "file": "vol1/bon-sent-I-d37-dubia.md",
       "kind": "dubia",
       "distinctio": 37,
-      "lines": 91
+      "lines": 95
     },
     {
       "id": "bon-sent-I-d37-dubia-dup2",
       "file": "vol1/bon-sent-I-d37-dubia-dup2.md",
       "kind": "dubia",
       "distinctio": 37,
-      "lines": 180
+      "lines": 176
     },
     {
       "id": "bon-sent-I-d37-divisio-dup2",
@@ -847,7 +868,14 @@
       "file": "vol1/bon-sent-I-d37-a1-q1-dup2.md",
       "kind": "quaestio",
       "distinctio": 37,
-      "lines": 398
+      "lines": 225
+    },
+    {
+      "id": "bon-sent-I-d37-a1-q2-dup2",
+      "file": "vol1/bon-sent-I-d37-a1-q2-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 37,
+      "lines": 173
     },
     {
       "id": "bon-sent-I-d37-a1-q3",
@@ -882,14 +910,21 @@
       "file": "vol1/bon-sent-I-d37-dubia-dup3.md",
       "kind": "dubia",
       "distinctio": 37,
-      "lines": 202
+      "lines": 69
+    },
+    {
+      "id": "bon-sent-I-d37-dubia-dup4",
+      "file": "vol1/bon-sent-I-d37-dubia-dup4.md",
+      "kind": "dubia",
+      "distinctio": 37,
+      "lines": 198
     },
     {
       "id": "bon-sent-I-d38-littera",
       "file": "vol1/bon-sent-I-d38-littera.md",
       "kind": "littera",
       "distinctio": 38,
-      "lines": 219
+      "lines": 154
     },
     {
       "id": "bon-sent-I-d38-divisio",
@@ -931,14 +966,14 @@
       "file": "vol1/bon-sent-I-d38-dubia.md",
       "kind": "dubia",
       "distinctio": 38,
-      "lines": 103
+      "lines": 196
     },
     {
       "id": "bon-sent-I-d39-littera",
       "file": "vol1/bon-sent-I-d39-littera.md",
       "kind": "littera",
       "distinctio": 39,
-      "lines": 159
+      "lines": 66
     },
     {
       "id": "bon-sent-I-d39-a1-q1",
@@ -1022,7 +1057,21 @@
       "file": "vol1/bon-sent-I-d40-a3-q1.md",
       "kind": "quaestio",
       "distinctio": 40,
-      "lines": 358
+      "lines": 229
+    },
+    {
+      "id": "bon-sent-I-d40-a3-q2",
+      "file": "vol1/bon-sent-I-d40-a3-q2.md",
+      "kind": "quaestio",
+      "distinctio": 40,
+      "lines": 129
+    },
+    {
+      "id": "bon-sent-I-d40-a4-q1",
+      "file": "vol1/bon-sent-I-d40-a4-q1.md",
+      "kind": "quaestio",
+      "distinctio": 40,
+      "lines": 150
     },
     {
       "id": "bon-sent-I-d40-a4-q2",
@@ -1071,7 +1120,14 @@
       "file": "vol1/bon-sent-I-d41-a1-q2.md",
       "kind": "quaestio",
       "distinctio": 41,
-      "lines": 666
+      "lines": 469
+    },
+    {
+      "id": "bon-sent-I-d41-a1-q1-dup2",
+      "file": "vol1/bon-sent-I-d41-a1-q1-dup2.md",
+      "kind": "quaestio",
+      "distinctio": 41,
+      "lines": 197
     },
     {
       "id": "bon-sent-I-d41-a1-q2-dup2",
@@ -1085,14 +1141,21 @@
       "file": "vol1/bon-sent-I-d41-dubia.md",
       "kind": "dubia",
       "distinctio": 41,
-      "lines": 64
+      "lines": 69
     },
     {
       "id": "bon-sent-I-d41-dubia-dup2",
       "file": "vol1/bon-sent-I-d41-dubia-dup2.md",
       "kind": "dubia",
       "distinctio": 41,
-      "lines": 126
+      "lines": 121
+    },
+    {
+      "id": "bon-sent-I-d11-commentary",
+      "file": "vol1/bon-sent-I-d11-commentary.md",
+      "kind": "commentary",
+      "distinctio": 11,
+      "lines": 5
     },
     {
       "id": "bon-sent-I-d42-littera",
@@ -1155,21 +1218,35 @@
       "file": "vol1/bon-sent-I-d42-dubia-dup2.md",
       "kind": "dubia",
       "distinctio": 42,
-      "lines": 140
+      "lines": 180
     },
     {
       "id": "bon-sent-I-d43-littera",
       "file": "vol1/bon-sent-I-d43-littera.md",
       "kind": "littera",
       "distinctio": 43,
-      "lines": 257
+      "lines": 217
+    },
+    {
+      "id": "bon-sent-I-d43-divisio",
+      "file": "vol1/bon-sent-I-d43-divisio.md",
+      "kind": "divisio",
+      "distinctio": 43,
+      "lines": 74
     },
     {
       "id": "bon-sent-I-d43-a1-q1",
       "file": "vol1/bon-sent-I-d43-a1-q1.md",
       "kind": "quaestio",
       "distinctio": 43,
-      "lines": 671
+      "lines": 373
+    },
+    {
+      "id": "bon-sent-I-d43-a1-q2",
+      "file": "vol1/bon-sent-I-d43-a1-q2.md",
+      "kind": "quaestio",
+      "distinctio": 43,
+      "lines": 298
     },
     {
       "id": "bon-sent-I-d43-a1-q3",
@@ -1207,6 +1284,13 @@
       "lines": 129
     },
     {
+      "id": "bon-sent-I-d44-divisio",
+      "file": "vol1/bon-sent-I-d44-divisio.md",
+      "kind": "divisio",
+      "distinctio": 44,
+      "lines": 50
+    },
+    {
       "id": "bon-sent-I-d44-a1-q1",
       "file": "vol1/bon-sent-I-d44-a1-q1.md",
       "kind": "quaestio",
@@ -1239,14 +1323,21 @@
       "file": "vol1/bon-sent-I-d44-dubia.md",
       "kind": "dubia",
       "distinctio": 44,
-      "lines": 98
+      "lines": 67
+    },
+    {
+      "id": "bon-sent-I-d44-dubia-dup2",
+      "file": "vol1/bon-sent-I-d44-dubia-dup2.md",
+      "kind": "dubia",
+      "distinctio": 44,
+      "lines": 178
     },
     {
       "id": "bon-sent-I-d45-littera",
       "file": "vol1/bon-sent-I-d45-littera.md",
       "kind": "littera",
       "distinctio": 45,
-      "lines": 258
+      "lines": 178
     },
     {
       "id": "bon-sent-I-d45-divisio",
@@ -1284,6 +1375,20 @@
       "lines": 210
     },
     {
+      "id": "bon-sent-I-d45-a3-q1",
+      "file": "vol1/bon-sent-I-d45-a3-q1.md",
+      "kind": "quaestio",
+      "distinctio": 45,
+      "lines": 158
+    },
+    {
+      "id": "bon-sent-I-d45-a3-q2",
+      "file": "vol1/bon-sent-I-d45-a3-q2.md",
+      "kind": "quaestio",
+      "distinctio": 45,
+      "lines": 152
+    },
+    {
       "id": "bon-sent-I-d45-dubia",
       "file": "vol1/bon-sent-I-d45-dubia.md",
       "kind": "dubia",
@@ -1296,6 +1401,13 @@
       "kind": "littera",
       "distinctio": 46,
       "lines": 480
+    },
+    {
+      "id": "bon-sent-I-d46-divisio",
+      "file": "vol1/bon-sent-I-d46-divisio.md",
+      "kind": "divisio",
+      "distinctio": 46,
+      "lines": 94
     },
     {
       "id": "bon-sent-I-d46-a1-q1",
@@ -1323,7 +1435,14 @@
       "file": "vol1/bon-sent-I-d46-a1-q4.md",
       "kind": "quaestio",
       "distinctio": 46,
-      "lines": 524
+      "lines": 312
+    },
+    {
+      "id": "bon-sent-I-d46-a1-q5",
+      "file": "vol1/bon-sent-I-d46-a1-q5.md",
+      "kind": "quaestio",
+      "distinctio": 46,
+      "lines": 212
     },
     {
       "id": "bon-sent-I-d46-a1-q6",
@@ -1436,6 +1555,20 @@
       "kind": "dubia",
       "distinctio": 48,
       "lines": 135
+    },
+    {
+      "id": "bon-sent-I-d1-commentary",
+      "file": "vol1/bon-sent-I-d1-commentary.md",
+      "kind": "commentary",
+      "distinctio": 1,
+      "lines": 137
+    },
+    {
+      "id": "bon-sent-I-d10-commentary",
+      "file": "vol1/bon-sent-I-d10-commentary.md",
+      "kind": "commentary",
+      "distinctio": 10,
+      "lines": 551
     }
   ]
 }

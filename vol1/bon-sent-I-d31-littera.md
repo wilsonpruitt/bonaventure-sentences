@@ -7,7 +7,7 @@ type: littera
 line_start: 11190
 line_end: 11594
 word_count_latin: 7534
-transcription_status: "auto-chunked 2026-04-18"
+transcription_status: "auto-chunked 2026-05-01"
 format_version: 1
 ---
 

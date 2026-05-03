@@ -6,357 +6,185 @@ distinctio: 12
 articulus: 1
 quaestio: 2
 type: quaestio
-title: "I Sent., d. 12, a. 1, q. 2"
-line_start: 42251
-line_end: 42860
-word_count_latin: 3944
+title_la: "Utrum Spiritus sanctus a Patre plenius et principalius quam a Filio procedat"
+title_en: "Whether the Holy Spirit proceeds from the Father more fully and more principally than from the Son"
+printed_pages: [221, 222, 223]
+pdf_pages: [323, 324, 325]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 221–223"
+has_scholion: true
+has_apparatus: true
+line_start: 42339
+line_end: 42566
+word_count_latin: 1430
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 42339–42566), fresh literal English translation, full apparatus from raw OCR (13 entries), scholia I–II (2026-05-02)"
+format_version: 1
 ---
 
-# I Sent., d. 12, a. 1, q. 2
+# bon-sent-I-d12-a1-q2
+## *Utrum Spiritus sanctus a Patre plenius et principalius quam a Filio procedat*
 
-### Latin
+---
 
-DIST. XII. AKT. UNICUS QLAEST. 11.
+## Latin
+<!-- page 221 -->
 
-et prius auctorilate , quo alter accipit ab altero ' ,
-cadit ibi. Sed prius origine cadit respectu producentis et producti , cum alter oritur ex altero ; cum
-vero unus oritur a duobv^, non cadit ibi prius
-originc, quia tunc ambo sunt unum originale principium; tamen cadit ibi prius aucloritate, quia
-quamvis Pater et Filius sint unum in producendo,
-lamen hoc accipit Filius a Patre.
+### Quaestio II. *Utrum Spiritus sanctus a Patre plenius et principalius quam a Filio procedat.*
 
-Si igitur quaeritur, utrnm per prius procedat
+Secundo quaeritur, utrum plenius procedat a Patre quam a Filio. Et quod sic, videtur:
 
-. Spiritus sanctus a Patre quam a Filio; si intelligatur
-prius '' duralione, falsum est; similiter si prius causalitate; similiter si prius origine, sicut probant
-primae rationes ad hoc inductae. Si autem prius
+**Ad oppositum:**
 
-. auctoritate, ut prius idem sit quod principalius ,
-veritatem habet.
+1. Quia *propter quod unumquodque, et illud magis*[^1]: ergo cum Filius spiret per Patrem, quia hoc habet a Patre, ergo Pater magis spirat.
 
-1. Ad illud ergo" quod primo obiicitur, quod s
-Pater est primum principium et causa; dicendum,
-quod illae rationes habent veritatem, ubi est pluralitas causarum vel principiorum ; sed respectu Spi-
-ritus saricti nec est pluralitas causarum nec principiorum.
+2. Item, *omnis causa prima plus influit quam secunda*[^2]; sed Pater est primum principium spirandi: ergo plus influit quam Filius.
 
-2. 3. Ad illiid quod obiicitur, quodper'' prius
-habet quod habet ex se: dicendum, quod si inlelligatur prius , id est principalius , verum est; si
-autem alio modo, falsum , quia unum et idem potest haberi a pluribus personis, ita quod ab una
-per aliam; nec talis est prioritas aliquo triuni praedictorum modorum.
+3. Item, plenius procedit aliquid, a quo procedit *proprie* et *principaliter*, quam a quo nec principaliter nec proprie; sed Spiritus sanctus procedit a Patre proprie et principaliter, sicut dicitur in littera[^3] et Augustinus dicit: ergo etc.
 
-SCHOLIOK
+4. Item, plenius procedit aliquis ab eo, a quo habet quidquid habet, scilicet *substantiam* et *proprietatem*, quam a quo non habet; sed Spiritus sanctus habet a Patre quod sit, et quod procedat a Patre et Filio[^4]: a Filio autem non habet, quod procedat a Patre, quia tunc Filius daret aliquid Patri: ergo etc.
 
-I. PosUii quadruplici pHontatis distinctione , primo negatur, Spiritum sanctum procedere pnni diiratione , causalUate ,
-origine a Patre quam a Filio. Priorilas enim durationis et
-causalitatis in Deo esse omnino non potest; prioritas autem
-originis dici quidem potesl in divinis , sed tantum , quatenus
-una persona procedit ab uno, et allera a duabus. Ergo non est
-ponenda inter Patrem et Filium , quatenus producunt Spiritum
-sanctum. Deinde concedilur , quod Spiritus sanctus prius procedat aucloritate , vel etiam principalius a Patre quam a Filio.
-Hoc nulla alia ratione asseritur , nisi quia Pater a se ipso habet
-potentiam spirativam , Filius vero a Patre ; unde Patri quaedam
-principalitas convenit , quae tamen nec subiectionem Filii nec
-distinctionem in principio spirativo importat. In re hoc idem
-est cum eo quod dicit Scot. (hic q. 2.) : <c Non est ergo ordo
-originis inter spirationem Patris et Filii, quasi spiret Pater in
-aliquo signo originis , in quo non spiret Filius, sed in eodem
-«igno originis simul spirant. Est tamen ibi ordo spirantium in
-spirando , quia Pater (producto termino primae fecunditatis) in
-illo tertio signo originis spirat a se, Filius autem non a se ».
-II. Pro maiore cxplicatione solutionis ad .3. serviunt quae
-dicil B. Alberl. , hic n. 3. ad 2 : « Diccndum, quod hoc ( quod
-
-una proprietas non est duorum subiectorum) verum est in illis
-suppositis , quae per essentiam et subslantiam dividuntur ab invicem ; in illis enim quod inest uni idem numero non inest alii.
-Sed duobus suppositis , quae in nulla diversa sunt, nisi (quod)
-inler ea est relationis oppositio, polest inesse idem, in quantum non relative opponuntur. Pater autem et Filius talia sunt
-supposita divinae naturae ; et secundum quod comparantur ad
-virtutem spiralem et ad Spirilum sanctum , non habent oppositionem relativam inter se ; ergo secundum hoc remanent
-idem , et sic unum numero erit quod in hac comparatione inest
-eis. Hoc autem esl proprietas spirandi , ct sic unum sunt principium spirandi Spirilus sancli».
-
-111. Cfr. infra d. 20. a. 2. q. I. 2. — Scot., de hac et duabus
-seqq. qq. hic q. 2. — S. Thom. , de hac ct seq. hic q. 1. a. 2.
-
-— B. .\lbert. , hic a. 2 ; de hac et seq. q. ; S. p. 1. tr. 7. m. 3.
-q. 2. incident. — Petr. a Tar. , hic q. unic. a. 1 . — Richard.
-a Med., hio q. 1. — vEgid. R., hic. 4. princ. q. 2. — Henr.
-Gand. , de hac et duab. seqq. qq. S. a. 54. q. 5. et 7 ; a. 60.
-q. 9. — Dionys Carth. , de hac ct duabus seqq. qq. hic q. 1 ,
-
-— Biel , de hac et duab. seqq. qq. hic q. 3.
-
-QUAESTIO II.
-
-Utrimi Spiritus sanctus a Patre plenius et principalius quam a Filio procedat.
-
-Secundo quaeritur, utrum plenius procedat a
-Patre quam a FiUo. Et quod sic, videtur:
-
-1. Quia propter quod unumquodque, et iilud
-Adopposi-magis^: ergo cum Filius spiret per Patrem , quia
-
-hoc habet a Patre, ergo Pater magis spirat.
-
-2. Item , « omnis causa prima plus influit quam
-secunda " » ; sed Pater est primuin principium spirandi: ergo phis influit qnam Fihus.
+**Contra. Fundamenta:**
 
-3. Item, plenius procedit aliquid, a quo procedit proprie et principahter, quani a quo nec prin-
-cipahter nec pr(.>prie; sed Spiritus sanctus procedit
-a Patre proprie et principaliter, sicut dicitur in littera' et Augustinus dicit: ergo etc.
-
-• 4. Item, plenius procedit aliquis ab eo, a quo
-habet quidquid habet, scilicet substantiam et proprietatem, quam a quo non habet; sed Spiritus san-
+1. Si plenius a Patre, ergo perfectius: ergo a Filio non procedit perfectissime, ergo in Trinitate est aliquid imperfectionis.
 
+2. Item, si plenius a Patre quam a Filio, plus accipit a Patre quam a Filio; sed ubi est ponere plus et minus, ibi est diversitas: ergo in persona Spiritus sancti est diversitas.
 
-quod et supra in ipsa obiectione habetur. Paulo anle unus allerve codex aliiid loco illud.
+3. Item, videtur quod nec principalius a Patre, quia qui perfecte dat aliquid alicui, dat ei usum[^5] et iurisdictionem sive auctoritatem; si ergo dat Pater Filio posse spirare, ergo dat ei auctoritatem spirandi: ergo aeque principaliter procedit a Filio ut a Patre[^6].
 
-que addunt tale. Mox circa finem argumenti ope mss. et primarum edd. restituimus habet.
+> **Conclusio.** *In sano sensu dici potest, Spiritum sanctum procedere a Patre principaliter vel principalius et per se; non tamen procedit plenius nec perfectius.*
 
+**Respondeo:** Dicendum, quod Spiritus sanctus dicitur procedere[^7] a Patre *principaliter* et *per se*: *principaliter*, quia auctoritas est in Patre; *per se*, quia non tantum mediante Filio, sed etiam immediate. Non tamen plenius procedit a Patre nec perfectius, quia *plenius* ponit gradum perfectionis, ponit etiam compositionem substantiae in producto, quorum neutrum est in divinis. Unde si proponatur haec: *quod illud quod procedit ab aliquo principalius, procedit plenius*, simpliciter est neganda[^8].
 
-Contra: 1. Si plenius a Patre, ergo perfectius:
-Fandamenta.ergo a Filio noD procedit perfectissime, ergo in Trlnitate est aliquid imperfectionis.
+**Ad argumenta in oppositum:**
 
-2. Item , si plenius a Patre quam a Filio , pkis
-accipit a Patre quam a Filio; sed ubi est ponere
-plus et rainus, ibi esl diversitas: ergo in persona
-Spiritus sancti est diversitas.
+*Ad 1 et 2.* Ad illud ergo quod obiicitur de causa prima et *propter quod* etc.; dicendum, quod sicut dictum est prius[^9], illud solum habet locum, ubi pluralitas causarum est; hic autem non est pluralitas nec causarum nec principiorum: ideo non habet hic locum.
 
-3. Item, videtur quod nec principalius a Patre, quia qui perfecte dat aliquid alicui, dat ei
-usum ' et iurisdictionem sive auctoritatem ; si ergo
-dat Pater Filio posse spirare, ergo dat ei auctoritatem spirandi: ergo aeque principaliter procedit a
-Filio ut a Patre^
+*Ad 4.* Ad illud quod obiicitur, quod non habet Spiritus sanctus a Filio, quod procedat a Patre; dicendum ad hoc, quod *habere a se* vel *ab alio* non ponit gradum plenitudinis. Unde quamvis Filius divinitatem habeat a Patre, ita[^10] tamen est perfectus Deus ut Pater; et ideo non sequitur, quod plenius a Patre procedat, *quia* principalius. — Quod[^11] obiicitur: *plenius habet quod habet essentiam et proprietatem*; responderi potest interimendo minorem; habet enim Spiritus sanctus a Filio proprietatem, licet non habeat secundum omnem respectum; habet enim processionem a Filio, sed non *ut a Patre*.
 
+<!-- page 223 -->
 
-In sano smsu diei potest , Spirilum sanctum procedere a Palre principaliler vel principalius
-et pcr se; non tamen procedit plenius nec
-perfeclius.
+*Ad 3.* Ad illud quod obiicitur, quod Pater dat Filio auctoritatem; dicendum, quod dando auctoritatem super Spiritum sanctum, nihilominus ex ipso habet auctoritatem[^12], quia ex hoc debet Filius eam referre ad Patrem, quia habet a Patre; et inde est, quod in Filio est *auctoritas* et *subauctoritas*. Unde etiam principaliter producit Spiritum sanctum[^13], sed Pater principalius, quia in eo est tantum *auctoritas*, non *subauctoritas*. *Principalitas* autem dicitur *auctoritas* in divinis.
 
-Respondeo: Dicendum, quod Spiritus sanctus
-conchisio 1. dicitur prncedere ^ a Patre principaliter et per se :
-principaliter , quia auctoritas est in Patre; per se,
-quia non tanlum mediante Filio, sed etiam imme-
-. diate. Non tamen plenius procedit a Patre nec perfectius , quia plenius ponit gradum perfectionis .
+### Scholion
 
-ponit etiam compositionem substantiae in producto,
-quorum neutrum est in divinis. Unde si proponatur
-haec: quod iilud quod procedit ab aliquo principa- condusio s
-lius, procedit plenius, simpliciter est neganda'.
-
-1. 2. Ad illud ergo quod obiicitur de causa soiuiio op
+**I.** Quo sensu hic intelligenda sint vocabula *plenius*, *principaliter*, *auctoritas*, *subauctoritas*, satis apparet ex ipsis verbis S. Doctoris, hic et infra dub. 3. positis. Negatur, quod Spiritus sanctus *plenius* procedat a Patre quam a Filio, quia hic terminus significat gradus perfectionis, vel saltem connotat compositionem in aliquo; affirmatur vero, quod *principalius* Pater producat Spiritum sanctum, in sensu et ex ratione in q. 1. expressis. Filius autem *principaliter* Spiritum sanctum producere asseritur, quia dat ei quidquid habet; unde dicitur habere *auctoritatem* respectu eiusdem, *subauctoritatem* vero respectu Patris, a quo omnia habet. Habere igitur *auctoritatem* et *principalitatem* nostro Doctori idem est. Unde in fine solut. ad 4. respondet «interimendo» i.e. ut falsam negando minorem. — Hunc modum dicendi, quod Pater principalius producat Filium [scil. Spiritum sanctum], S. Doctor, Magistrum aliosque antiquos theologos secutus, non reprobat. Immerito nonnulli moderni theologi cum Suarez hanc locutionem Seraphici tanquam erroneam reiiciunt. Attendere enim debuissent, ipsum S. Doctorem eam explicasse in sensu certe orthodoxo nec eam commendasse, sed sane explicatam solummodo tolerasse, uti apparet ex ultima propositione in corp. Ad 3. oppositum non respondetur explicite, quia iam solutum est in corp. Quo sensu dici possit, quod Spiritus sanctus *proprie* a Patre procedit, cfr. infra dub. 3.
 
-
-4. Ad illud quod obiicitur, quod non habet Spiritus sanctus a Filio, quod procedat a Patre; dicen-
-dum ad hoc, quod habere a se vel ab alio non
-ponit gradum plenitudinis. Unde quamvis Filius divinitatem habeat a Patre, ita ' tamen est perfectus
-Deus ut Pater; et ideo non sequitur, quod plenius
-a Patre procedat, qm^ principalius. — Quod ° obiicitur: plenius habet quod habet essentiam et pro-
-prietatem; responderi potest interimendo minorem;
-habet enim Spiritus sanctus a Filio proprietatem ,
-licet non habeat secundum omnem respectuni; habet
-enim processionem a Filio, sed non ut a Patre.
-
-Ad illud quod obiicitur, quod Pater dal Filio f,fj,'|f' °'
-auctoritatem; dicendum, quod dando auctoritatem
-super Spiritum sanctum, nihilominus ex ipso habet
-auctoritatem °, quia ex hoc debet Filius eam referre
-ad Patrem, quia habel a Patre; et inde est, quod
-in Filio est auctoritas et subauctoritas. Unde etiam
-principaliter producit Spiritum sanctum ", sed Pater
-principalius, quia in eo est tantum auctoritas, non
-subauctoritas. Principalitas autem dicitur auctoiHtas
-in clivinis.
-
-SCHOLIOK
-
-I. Quo sensu hic intelligpnda sinl vocabula plenius , p in
-cipaliter, auctoritas , subaucloritas, salis apparel ex ipsis V3rbis S. Docloris, hic et infra dub. 3. positis. Negatur, quod
-Spiritus sanctus ■plemus procedat a Patre quam a Filio , quia
-hic terminus signifieat gradus perfectionis , vel saltem connotat
-compositionem in aliquo ; afflrmatur vero , quod principalius
-Pater producat Spiritum sanctum, in sensu et ex ratione in q.
-I. expressis. Filius autem principaliter Spiritum sanctum pro-
-
-ducere asseritur , quia dat ei quidquid habet ; unde dicitur
-habere auctoritatem respectu eiusdem , svbaucloritatem vero
-respectu Patris , a quo omnia habet. Habere igitur auctoritatem
-et principalitatem noslro Doctori idem est. L'nde in fine solut.
-ad i. respondet « interimendo » i. e. ut falsam negando minorem. — Hunc modum dicendi , quod Pater principalius pro-
-ducat Filium, S. Doctor , Magistrum aliosque antiquos theologos
-secutus , non reprobat. Immerito nonnulli moderni theologi cum
-
-
-quod hoc argumentum partem conclusionis neget, scil. quod
-Spiritus sanclus prim-ipalius A Patre procedat. Sed melius cum
-codd. hoc argumontum, licet sub aliquo respectu ad oppositum
-pertineat, uUimo loco ponitur , quia est argumentum speciale seu
-sui generis , scil. negans, quod Spiritus sanctus principalius
-a PaU'e proced it, dum celera argumenti vel probant vel negant,
-quod Spirilus sanctus pltmius a Patre procedat.
-
-■• Unus altervecodd. ut W\ procedit loco dicitur procedere.
-
-
-DIST. XII. ART. UNICUS QUAEST.
-
-
-Suartv, hanc locutionem Sei-apliici (anquam erroneam reiiciunt.
-Attcndere enini debuissent, ipsuni S. Doctorem eam explicasse
-in sensu cerle ortliodoxo nec eam commendasse, sed sane
-explicntam solummodo tolerasse , uti apparet cx ullima propositione in corp.
-
-Ad 3. oppositum non respondetur explicile, quia iam solu-
-
-tum estin corp. Quo sensu dici possit , quod Spirilus sanctus
-propiie a Patre procedit , cfr. infra dub. 3.
-
-II. Quoad conclusionem cfr. S. Thom., hic q. 1. a. 2; S.
-I. q. 36. a. 3. ad 2. — B. Albert. , hic a. 3. i. — Petr. a
-Tar. , hic q. 1. a. 2.-— Richard. a Med. , hic q. 2. — .€gid.
-R. , 2. princ. q. I . — Durand. , hic (|. 2.
+**II.** Quoad conclusionem cfr. S. Thom., hic q. 1. a. 2; S. I. q. 36. a. 3. ad 2. — B. Albert., hic a. 3. i. — Petr. a Tar., hic q. 1. a. 2. — Richard. a Med., hic q. 2. — Aegid. R., 2. princ. q. 1. — Durand., hic q. 2.
 
-QUAESTIO III.
+---
 
-Utrum Spiritus sanctus niediante Filio a Patre proceckil.
+## English
 
-Teitio quaerilur, utrum Spiritus sanclus procedat a Patre mediante Filio.
+### Question II. *Whether the Holy Spirit proceeds from the Father more fully and more principally than from the Son.*
 
-1. Et quod sic, videtur per Hilarium duodecimo
-Fundamenia.de THnitate ' , qui loquens ad Patrem ait: «Spiri-
+Secondly it is asked, whether [the Spirit] proceeds *more fully* from the Father than from the Son. And that He does so seems [to follow]:
 
-tum sanctum, qui ex te per eum est, pronierear »:
-ergo Spiritus sanctus est a Patre per FiJium, ergo
-mediante F'ilio.
+**For the affirmative:**
 
-2. Item, Richardus' dicit, quod in divinis est
-processio immediata tantuiT\ , et mediata et immediata
-— mediata tantum esse non potest — et dicit, quod
-mediata et immediata est processio Spiritus sancti ex
-Patre : ergo cum non possit cadere medium nisi
-Filius, Spiritus sanctus procedit a Patre mediante
-Filio.
+1. Because *that on account of which each thing [is], that more so*[^1]: therefore since the Son spirates *through* the Father — because He has this from the Father — the Father spirates more.
 
-3. Item, similis est processus in illa Trinitate
-processui imaginis creatae'; sed amor procedit a
-mente mediante intelligentia : ergo Spiritus sanctus
-procedit a Patre mediante Filio. Si dicas, quod non
-est similitudo quantum ad hoc: ergo destruitur ratio
-imaginis, quia imago debet repraesentare ordinem et
-originem personarum, non tantum numerum in personis, quia lioC' etiam est in vestigio.
-
-k. Item , si solus Filius spiraret, " ita quod non
-Pater, tunc Pater diceretur spirare, sed mediante
-Filio, ita quod esset processio mediata tantum: ergo
-cum spiratio conveniat Patri per se et conveniat ei
-per hoc, quod est principium Filii spirantis, ergo
-convenit ei et mediate et immediate,: sed si hoc ", Spiritus sanctus procedit a Patre mediante Filio.
-
-Contra: 1. Nobilius est immediatum principium,
-Ad oppo>i- quam mediatum,: sed omne nobilius est Deo tribuen-
-^™' dum*: ergo si Pater est nobihssimum principium
-Spiritus sancti, ergo tantum immediate, non mediate
-producit ipsum. Si tu dicas, quod producit simul
-mediate et immediate; contra: mediatum et immediatum sunt opposita; sed opposita non sunt simul
-vera de eodem et respectu eiusdem *: ergo impossibile est. quorl simul producat mediate et immediate.
-
-2. Item, sicut se habet per se ndper accidens,
-ita mediatum ad immediatum; sed Deus nuUius,
-cuius est causa per se, est causa per accidens: ergo
-nuUius , cuius est principium immediatmn , est principium mediatum.
+2. Likewise, *every first cause infuses more than the second*[^2]; but the Father is the first principle of spirating: therefore He infuses more than the Son.
 
-3. Item, magis est immediatum quod nullo modo
-recipit medium, quam quod recipit medium ; sed Filius nullum medium recipit in spirando: ergo imme-
-diatius producit, quam producat Pater: non ergo
-uniformiter omnino producunt Pater et Filius Spiritum sanctum.
+3. Likewise, [a thing] proceeds more fully from one from whom it proceeds *properly* and *principally* than from one [from whom it does] neither principally nor properly; but the Holy Spirit proceeds from the Father properly and principally, as is said in the text[^3] and as Augustine says: therefore etc.
 
+4. Likewise, one proceeds more fully from him from whom one has whatever one has, namely *substance* and *property*, than from him from whom one does not have [it]; but the Holy Spirit has from the Father that He be, and that He proceed from the Father and the Son[^4]: but from the Son He does not have that He proceeds from the Father, because then the Son would give something to the Father: therefore etc.
 
-Spiritm sanctus procedit a Patre tum
-iminediate, tum mediante Filio.
+**On the contrary. Foundations:**
 
-ftespONDEo: Dicendum, quod, sicut vult Richar- concuisio.
-dus , productio ' Spiritus sancti est mediata simul et .
-immediata: mediata, in quantum est a Filio, et Filius
-a Patre; sed immediata, in quantum ipse Spiritus
-sanctus ab ipso Patre spiratur.
+1. If [He proceeds] more fully from the Father, therefore more perfectly: therefore He does not proceed most perfectly from the Son, therefore in the Trinity there is some imperfection.
 
-Et huius exemplum ponitur in exitu Abel de Esempium.
-Adam. Abel enini"' immediate exiit de Adam, quia
-ipse ex lumbis suis genuit eum; nihilominus exiit
-mediate, quia exiil ab Eva, quae fuit ab Adam sive
-de Adam deducta. Et hunc modum oportuit esse in
-Deo propter summam germanitatem. Si enim tantum Raiio
-mediata esset processio Spiritus sancti, ut tantum
-esset a Filio, non esset summa germanitas Spiritus
-sancti cum Patre. Similiter, si omnino immediata, ut
-esset a Patre tantum, non esset summa germanitas
-cum Filio. Et sic concedendum ", quod mediante Filio.
+2. Likewise, if [He proceeds] more fully from the Father than from the Son, He receives *more* from the Father than from the Son; but where there is *more* and *less*, there is diversity: therefore in the person of the Holy Spirit there is diversity.
 
-1. Ad illud ergo" quod obiicitur in contrarium, soiuuoop-
+3. Likewise, it seems that not even *more principally* from the Father: because he who perfectly gives something to someone gives him use[^5] and jurisdiction or *authority*; if therefore the Father gives to the Son the power to spirate, He gives him the authority of spirating: therefore [the Spirit] proceeds equally principally from the Son as from the Father[^6].
 
--. ..... , positorum.
+> **Conclusion.** *In a sound sense it can be said that the Holy Spirit proceeds from the Father principally or more principally and per se; yet He does not proceed more fully nor more perfectly.*
 
-quod nobilius est immediatum pnncipium; dicendum,
+**I respond:** It must be said that the Holy Spirit is said[^7] to proceed from the Father *principally* and *per se*: *principally*, because the *authority* is in the Father; *per se*, because [He proceeds] not only with the Son as medium, but also immediately. Yet He does not proceed more fully or more perfectly from the Father, because *more fully* posits a degree of perfection, and also posits composition of substance in the produced — neither of which is in the divine being. Hence if the proposition be advanced: *what proceeds from someone more principally, proceeds more fully*, it is simply to be denied[^8].
 
-"im enim est- Trcsmodi
+**To the arguments to the contrary:**
 
-quod mediatio est tribus modis.^
+*To 1 and 2.* To what is objected concerning the first cause and the *propter quod* etc.; it must be said that, as has been said before[^9], that [maxim] holds only where there is plurality of causes; but here there is plurality neither of causes nor of principles: therefore it does not hold here.
 
-mediatio, quae excludit immediationem tantum, ut'
+*To 4.* To what is objected — that the Holy Spirit does not have from the Son that He proceeds from the Father — it must be said in reply that *to have from oneself* or *from another* does not posit a degree of fullness. Hence although the Son has divinity from the Father, yet[^10] He is as perfectly God as the Father; and therefore it does not follow that He proceeds more fully from the Father, *because* more principally. — As to[^11] what is objected: *He proceeds more fully who has substance and property*; the reply can be made by *killing the minor*: for the Holy Spirit does have from the Son His property, although He does not have it according to every respect; for He has procession from the Son, but not *as from the Father*.
 
-quando eftectus ultimus non continuatur influentiae
+*To 3.* To what is objected, that the Father gives authority to the Son; it must be said that, by giving authority over the Holy Spirit, [the Son] nonetheless has the authority from Him [the Father][^12], because from this the Son ought to refer it back to the Father, since He has it from the Father; and from this it is, that in the Son there is *authority* and *sub-authority*. Hence also He principally produces the Holy Spirit[^13], but the Father more principally, because in Him there is only *authority*, not *sub-authority*. Now *principality* is called *authority* in the divine being.
 
-In flne. Vide lit. Magistr
-Libr. V. de Trin. c. 7-9
-De imagine creata vide
+### Scholion
 
-jpra
+**I.** In what sense the words *more fully*, *principally*, *authority*, *sub-authority* are here to be understood is sufficiently apparent from the very words of the Holy Doctor placed here and below at *dub.* 3. It is denied that the Holy Spirit proceeds *more fully* from the Father than from the Son, because this term signifies degrees of perfection, or at least connotes composition in something; but it is affirmed that *more principally* the Father produces the Holy Spirit, in the sense and on the ground expressed in q. 1. The Son, however, is said *principally* to produce the Holy Spirit, because [the Father] gives Him whatever He has; whence He is said to have *authority* with respect to the same [Spirit], but *sub-authority* with respect to the Father, from whom He has all things. Therefore to have *authority* and *principality* are, for our Doctor, the same. Hence at the end of the *reply to 4* he replies «by killing» — i.e. by denying the minor as false. — This way of speaking — that the Father more principally produces the Son [scil. Holy Spirit] — the Holy Doctor, following the Master and other ancient theologians, does not reject. Without justification, some modern theologians with Suárez reject this expression of the Seraphic [Doctor] as erroneous. For they should have noticed that the Holy Doctor himself explained it in a certainly orthodox sense, and did not commend it but only tolerated it when soundly explained, as is plain from the last proposition in the body of the article. To the third [argument] for the contrary no explicit reply is given, because it has already been resolved in the body. In what sense it can be said that the Holy Spirit proceeds *properly* from the Father, see below at *dub.* 3.
 
-q. 2.
+**II.** As to the conclusion, cf. St. Thomas, here q. 1, a. 2; S. I, q. 36, a. 3, ad 2. — Bl. Albert, here a. 3, i. — Peter of Tarantasia, here q. 1, a. 2. — Richard of Mediavilla, here q. 2. — Giles of Rome, 2. princ. q. 1. — Durandus, here q. 2.
 
+---
 
-quod nulla creatura aliquid agit, eius influentia remota; et ideo niliil a^ Deo exit mediate tantum. Se-
+## Apparatus
 
-cunda mediatio cadit in Deo respectu effectus producti a causa creata, quia ibi est ordo causarum et
-divm-silas virlutuni; sed tamen non est separatio,
-quia Deus intime agit, quia per se ipsum; agit^
-nihilomiims per virtutem creatam, quae ab ipso est.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Latin (as edited by Quaracchi) followed by an English rendering.
 
-Tertia mediatio cadit in operatione divina, in qua
-sunt agentes personae, in quibus attenditur ordo,
-quia una habet ab alia quod agat, sed t;imen nec est
-ibi virtutum diversitas nec separatio vel distantia
-aliqua, immo una virtute et aeque intime agunt. Et
-sic Pater mediante Filio producit Spiritum sanctum,
-non quia sit medium distantiae vel difTerentiae. sed
+[^1]: **La.** Aristot., I *Poster.* c. 2. Cfr. etiam II *Metaph.* text. 4 (1. brev. c. 1.). — In quo textu plures codd. post *unumquodque* addunt *tale*. Mox circa finem argumenti ope mss. et primarum edd. restituimus *habet*.
 
-quia, quod Filius producat, hoc habet a Patre, ita
-quod est ibi quidam ordo. Et sic patet responsio ad .i'.ite.i resequens , cum dicit , quod mediatum et immediatum oVposii"
-sunt opposita ; verum est enim primo modo, sed non
-secundo nec tertio\
+    **En.** Aristotle, *Posterior Analytics* I, c. 2. Cf. also *Metaphysics* II, text 4 (lesser book, c. 1). — In which text several codices after *unumquodque* add *tale*. Just after, near the end of the argument, by the help of the manuscripts and the early editions, we have restored *habet*.
 
-2. Ad illud quod obiicitur, quod Deus nullius soiuiiooi>est causa per accidens, ergo nec mediate; dicendum, '"" "''""'■
-quod per accidens aliquid causare derogat veritati "
-causae supremae. Illius enim dicitur aliquid causa
+[^2]: **La.** Libr. *de Causis*, prop. 1, in quo textu plures codd. ut B D E F G M X etc. cum edd. 2, 3 falso *prius* loco *plus*.
 
-esse per accidens, cuius est causa per aliquid aliud, cauaapci
-quod non est ab ipso, sed aliunde; si ergo Deus ali- ""'■' ^"^'
-cuius esset causa per accidens, non esset causa universalissima et prima , et ita nec nobilissima. Sed '
-mediatio non repugnat nobilitati causae supremae.
-Causare enini aliquid^per .?e et per id quod ab ipso
-esl non dicit indignitatem , immo dignitatem, quia
-dignitas est non tantum per se aliquid posse, sed
-posse alii communicare, ita tamen quod ille sine eo
-nihil possit.
+    **En.** *Liber de Causis*, prop. 1, in which text several codices, as B D E F G M X etc., with editions 2 and 3 falsely [read] *prius* in place of *plus*.
 
-3. Ad illud quod ultimo obiicitur, quod Filius
-est immediatior causa; dicendum, quod non valet,
-quia ista mediatio, quae praedicla est, non repugnat
-immediationi, et ideo non dirainuit eam.
+[^3]: **La.** Cap. 2; ubi et verba Augustini habentur. — Unus alterve codex ut Y Z *Magister dicit* pro *dicitur*.
 
-### English
+    **En.** [Lombard, d. 12,] cap. 2; where Augustine's words are also given. — A codex or two, as Y Z, read *Magister dicit* in place of *dicitur*.
 
-[Translation pending]
+[^4]: **La.** Multi codd. cum edd. 2, 3 forte ex eo, quod eadem verba immediate post occurrant, indebite omittunt *et Filio*; e contra cod. R omittit *Patre et*, cum quo conveniunt codd. aa bb legendo *et procedat etiam a Filio*; lectio non spernenda. Mox post *non habet*, quod cod. Y bene addit *a Patre sit et*.
 
-### Notes
+    **En.** Many codices with editions 2 and 3 — perhaps because the same words occur immediately after — improperly omit *et Filio*; on the contrary, codex R omits *Patre et*, with which codices aa bb agree by reading *et procedat etiam a Filio*; a reading not to be despised. Just after *non habet*, codex Y well adds *a Patre sit et*.
 
-[Notes pending]
+[^5]: **La.** Emendavimus lectionem Vat. et cod. cc ex aliis mss. et ed. 1 ponendo *usum* pro *vim*.
+
+    **En.** We have emended the reading of the Vatican and codex cc from other manuscripts and ed. 1, placing *usum* in place of *vim*.
+
+[^6]: **La.** Vat. praeter fidem mss. et ed. 1 ordinem argumentorum invertit, ponendo ultimum hoc argumentum quinto loco inter argumenta ad oppositum, licet in margine etiam respectu ipsius habeat: *Fundamenta*. Ratio huius inversionis videtur fuisse, quod hoc argumentum partem conclusionis neget, scil. quod Spiritus sanctus *principalius* a Patre procedat. Sed melius cum codd. hoc argumentum, licet sub aliquo respectu ad oppositum pertineat, ultimo loco ponitur, quia est argumentum speciale seu sui generis, scil. negans, quod Spiritus sanctus *principalius* a Patre procedat, dum cetera argumenta vel probant vel negant, quod Spiritus sanctus *plenius* a Patre procedat.
+
+    **En.** The Vatican, against the testimony of the manuscripts and ed. 1, inverts the order of the arguments, placing this last argument in the fifth slot among the arguments for the affirmative — though even in [the Vatican's] margin it has *Fundamenta* with respect to it as well. The reason for this inversion seems to have been that this argument denies part of the conclusion, namely that the Holy Spirit proceeds *more principally* from the Father. But better, with the codices, this argument is placed last, because — although in some respect it pertains to the affirmative — it is a special argument *sui generis*, namely denying that the Holy Spirit proceeds *more principally* from the Father, while the other arguments either prove or deny that He proceeds *more fully*.
+
+[^7]: **La.** Unus alterve codd. ut V X *procedit* loco *dicitur procedere*.
+
+    **En.** A codex or two, as V X, read *procedit* in place of *dicitur procedere*.
+
+[^8]: **La.** Multi codd., ordine inverso, *quod procedit ab aliquo plenius, procedit principalius*. Licet utraque lectio, attentis definitionibus terminorum, in se vera sit, attamen unus terminus verificatur in divinis, alter non, et attento ordine terminorum inter se, praeferenda videtur lectio in textum recepta, quae iam in pluribus antiquis mss. ut H L O et ed. 1 invenitur. Cfr. resp. ad 4. — Vat. contra mss. et ed. 1 *ponatur* loco *proponatur*, et post *plenius* addit *aut si non plenius, neque principalius*. Codd. H Y post haec addunt *quaestio*, sed melius subintelligendum: *propositio, quod procedat principalius*.
+
+    **En.** Many codices, in inverse order, [read] *what proceeds from someone more fully, proceeds more principally*. Although either reading is in itself true given the definitions of the terms, yet one term is verified in the divine being, the other not; and given the order of the terms among themselves, the reading received into the text is to be preferred, which is found already in several ancient manuscripts (H L O) and in ed. 1. Cf. *reply to 4*. — The Vatican, against the manuscripts and ed. 1, reads *ponatur* in place of *proponatur*, and after *plenius* adds *aut si non plenius, neque principalius*. Codices H Y after this add *quaestio*, but it is better to understand: *the proposition, that He proceeds more principally*.
+
+[^9]: **La.** Quaest. praeced. ad 1.
+
+    **En.** Preceding question, *reply to 1*.
+
+[^10]: **La.** Ex antiquioribus mss. et ed. 1 supplevimus non bene omissum *ita*. Concordat Anselm., *de Process. Spir. sanct.* c. 24.
+
+    **En.** From the older manuscripts and ed. 1 we have supplied *ita*, which had been wrongly omitted. Anselm agrees, *On the Procession of the Holy Spirit*, c. 24.
+
+[^11]: **La.** Pauci codd. ut H S ee *Ad illud quod*.
+
+    **En.** A few codices, as H S ee, read *Ad illud quod*.
+
+[^12]: **La.** Codd. L O adiiciunt *super Spiritum sanctum*.
+
+    **En.** Codices L O add *super Spiritum sanctum*.
+
+[^13]: **La.** Vat. absque auctoritate mss. et edd. 1, 2, 3, 6 *Filius* pro *Spiritum sanctum*.
+
+    **En.** The Vatican, without the authority of the manuscripts and editions 1, 2, 3, 6, [reads] *Filius* in place of *Spiritum sanctum*.
+
+## Notes
+
+The *plenius* question. Bonaventure splits the title's binomial — *plenius et principalius* — into a yes-and-no answer:
+
+| | *plenius* / *perfectius*? | *principaliter* / *principalius* / *per se*? |
+|---|---|---|
+| Spirit ← Father | **No** | **Yes** |
+| Spirit ← Son | (equally full/perfect) | *principaliter* but not *principalius*; has *subauctoritas* not *auctoritas* alone |
+
+**Key vocabulary** (locked here for use through the rest of d. 12 and d. 20):
+- *plenius* — degrees of perfection; rejected of God because it would imply composition in the produced.
+- *principaliter* — being-a-principle as such; affirmed of both Father and Son.
+- *principalius* (= *auctoritate*) — affirmed of the Father alone; means only that the Father has the spirative power *a se* while the Son has it *a Patre*.
+- *auctoritas / subauctoritas* — the Father has only *auctoritas*; the Son has both *auctoritas* (over the Spirit) and *subauctoritas* (under the Father).
+
+The Quaracchi scholion defends Bonaventure against Suárez's later charge that this language is erroneous: Bonaventure does not *commend* the *Pater principalius* formula, he only *tolerates* it when soundly explained.
