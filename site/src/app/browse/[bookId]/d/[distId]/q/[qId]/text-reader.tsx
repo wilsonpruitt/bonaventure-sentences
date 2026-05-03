@@ -221,23 +221,23 @@ function renderBody(body: string, className: string, pageMode: PageMode) {
       return;
     }
 
-    const h4Match = trimmed.match(/^####\s+(.+)$/);
-    if (h4Match) {
+    const headingLead = trimmed.match(/^(####|###)\s+([^\n]+)(?:\n([\s\S]*))?$/);
+    if (headingLead) {
+      const [, hashes, headingText, rest] = headingLead;
+      const Tag = hashes === "####" ? "h4" : "h3";
+      const cls = hashes === "####" ? "reader-h4" : "reader-h3";
       nodes.push(
-        <h4 key={i} className="reader-h4">
-          {renderInline(h4Match[1], pageMode)}
-        </h4>
+        <Tag key={`h-${i}`} className={cls}>
+          {renderInline(headingText, pageMode)}
+        </Tag>
       );
-      return;
-    }
-
-    const h3Match = trimmed.match(/^###\s+(.+)$/);
-    if (h3Match) {
-      nodes.push(
-        <h3 key={i} className="reader-h3">
-          {renderInline(h3Match[1], pageMode)}
-        </h3>
-      );
+      if (rest && rest.trim()) {
+        nodes.push(
+          <p key={`h-${i}-rest`} className={className} style={{ marginBottom: "1rem" }}>
+            {renderInline(rest.trim(), pageMode)}
+          </p>
+        );
+      }
       return;
     }
 

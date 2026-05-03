@@ -306,6 +306,24 @@ a { color: inherit; text-decoration: none; }
   padding: 0.6rem 1.5rem;
   cursor: pointer;
 }
+.mode-toggle {
+  font-family: var(--font-cinzel), serif;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #6B4A3A;
+  background: transparent;
+  border: 1px solid rgba(139,105,20,0.35);
+  padding: 0.4rem 0.9rem;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.mode-toggle:hover { border-color: rgba(139,26,26,0.6); color: #3D1308; }
+.mode-toggle.active {
+  color: #F5ECD7;
+  background: #5A1A0E;
+  border-color: #8B1A1A;
+}
 
 /* Notes */
 .notes-section {

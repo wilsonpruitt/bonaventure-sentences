@@ -32,22 +32,42 @@ REPO = Path(__file__).resolve().parent.parent
 #   O→0, S→8, R→E (or AEI→EIU), I↔1, UNICUS→UiNICUS / UNIGUS, TEXTUS→TE.XTUS, etc.
 # Tested against pt1 and pt2 raw; see tools/raw-ocr-notes for variants observed.
 RE_DISTINCTIO = re.compile(
-    r"^[ \t]*DISTINCTIO\S*\s+([IVXLCivxlc]+(?:\s*[IVXLCivxlc])*)\b",
+    # Tolerant of OCR substitutions in 'DISTINCTIO':
+    #   DISTING(TIO)   — C→G (d.17 line 51999: 'DISTINGTIO XVII.')
+    #   DiSTINCTIO     — case mangle (d.23 line 69303 running head)
+    # Roman numeral allows U-for-I substitution (XVIU=XVIII at d.18 line 56737).
+    r"^[ \t]*D[Ii]STIN[CG]TIO\S*\s+([IVXLCUivxlcu]+(?:\s*[IVXLCUivxlcu])*)\b",
     re.MULTILINE,
 )
 RE_COMMENTARIUS = re.compile(
     # C[O0]MMENT[AE][RE]?(IU|III)[S8] — covers COMMENTARIUS, C0MMENTARIU8, C0MMENTAEIU8,
     # COMMENTAEIUS, C0MMENTARIII8. Requires "IN D" suffix (the distinction ref).
-    r"^[ \t]*C[O0]MMENT[AE][REI]{1,3}[US8]{1,2}\s+IN\s+D",
+    r"^[ \t]*C[O0]MMENT[AE][REI]{1,3}[US8]{1,2}\s+(?:IN|m)\s+D",
     re.MULTILINE,
 )
 RE_DIVISIO = re.compile(
-    # DIV[IT]SIO TE[.]?XTUS — covers DIVISIO, DIVTSIO; TEXTUS or TE.XTUS.
-    r"DIV[IT]SIO\s+TE\.?XTUS",
+    # DIV[IT]SIO TE[.]?XTUS — covers DIVISIO, DIVTSIO; TEXTUS clean or OCR'd
+    # TE.XTUS / TEXTIIS (II→U) / TKXTUS (E→K, d.43 line 34161).
+    # Anchored to line-start with anti-DIST lookahead so running heads like
+    # 'DIST. XVII. P. 1. DIVISIO TEXTIIS.' (line 52600) don't false-positive.
+    r"^[ \t]*(?!DIST[.\s])(?:.*\b)?D[IL]V[ITJ]SIO\s+T[EK]\.?XT[UI]{1,3}[S8]",
     re.MULTILINE,
 )
 RE_QUAESTIO = re.compile(
-    r"^[ \t]*Q[UIJij1][A^.flEIJij]{0,6}STIO\s+([IVXLC1ivxlc]+)\b",
+    # OCR variants observed in pt1. The clean form is "QUAESTIO N.":
+    #   QUAESTIO / QU.ESTIO / QU^STIO / QU.flSTIO / QUAEST.
+    #   OUAESTIO     (d.16 q3 — Q→O substitution, line 51432)
+    #   QIIAESTIO    (d.18 q3 — U→I,           line 57811)
+    #   QLWESTIO     (d.17 p2-q2 — UA→LW,      line 55481)
+    #   QUAFSTK)     (d.18 q5 — AES→AFS, IO→K), line 58354)
+    #   gl!.\ESTIO   (d.17 p1-q3 — Q→gl, U→l!, line 53715)
+    # Match strategy: alternation of (Q|O|gl)-led prefix + tolerant middle + STIO/STK)
+    # ending. The roman/digit number after is captured as group(1).
+    r"^[ \t]*['`]?(?:"                                   # optional stray apostrophe (OCR noise, e.g. d.40 a4-q1 line 29733)
+        r"[QO][UIJij1lL][A^.flUVWFEIJij\\n]{0,6}"        # Q/O-led with tolerant middle (incl U from 'QIUESTIO', V from 'QU.VESTIO')
+        r"(?:S[Tnr][I1li]?[O0]|STK\))"                    # ending: STIO clean; S[Tnr][I1li]?[O0] covers OCR T→n/r and dropped-I or lowercase-i variants; STK) for d.18 q5
+        r"|gl[!.\\]+\\?ESTIO"                             # gl!.\ESTIO style
+    r")\s+([IVXLC1lijm\[]+)\]?(?=\W|$)",                  # number may be bracket-prefixed or 'm' (OCR for III); allow non-word boundary
     re.MULTILINE,
 )
 RE_ARTICULUS = re.compile(
@@ -57,10 +77,15 @@ RE_ARTICULUS = re.compile(
 )
 RE_DUBIA = re.compile(
     # Section-start matcher. Catches:
-    #   "DUBIA CIRCA LITTERAM MAGISTRI" / "DIST. <N>. DUBIA." headers (OCR-tolerant: any line with word DUBIA)
-    #   "DUB. I." / "DUB. 1." — the first dubium (when no explicit header exists)
-    # NOT: "DUB. II." / "DUB. III." — those are internal sub-dubia within a dubia chunk.
-    r"^[ \t]*(?:.*\bDUBIA\b|DUB[.\s]+[I1]\b[^IVX])",
+    #   "DUBIA CIRCA LITTERAM MAGISTRI" + OCR variants (DHBIA U→H d.17 p2 56632;
+    #   DUBL\ d.23 71288 — the BIA→BL\ mangle)
+    #   "DUB. I." / "DUB. 1." / "DrB. I." / "DUB. L." — the first dubium
+    # NOT a running head like "DIST. XXII. DUBIA." (false-positive at line 68722):
+    # we require either a CIRCA-ish word after DUBIA on the same line, or that
+    # the line not start with DIST.
+    # NOT: "DUB. II." / "DUB. III." — those are internal sub-dubia.
+    r"^[ \t]*(?!DIST[.\s])"
+    r"(?:.*\bD[UHL][IH]?B[IL][A\\]\b|D[ruU][bB][.\s]+[I1L]\b[^IVX])",
     re.MULTILINE,
 )
 RE_PARS = re.compile(
@@ -85,9 +110,16 @@ ROMAN = {
 
 def parse_roman(s: str) -> int | None:
     s = s.strip().replace(" ", "").upper()
-    # Digit-OCR: "1", "11", "111" → I, II, III (pdftotext often renders I/II/III as digits)
+    # OCR digit/bracket substitutions for I/II/III: "1"/"11"/"111" or "[1"/"[11"
+    # (a leading "[" is sometimes misread of a leading "I", so '[11' = III).
+    s = s.replace("[", "1")
     if s in ("1", "11", "111"):
         return len(s)
+    # OCR ligature: small-caps "III." sometimes scanned as a single "m" glyph
+    # (observed at d.23 a1-q3 line 70027: 'QIUESTIO m.'). Quaestio numbers in
+    # the Sentences never exceed ~10, so M=1000 is never legitimate here.
+    if s == "M":
+        return 3
     # UNICUS OCR variants: UiNICUS, UNIGUS, UiNIGUS, UINICUS etc. all mean UNICUS (=1).
     if re.fullmatch(r"U[I]?N[IL]?[CG]U[S8]", s):
         return 1
@@ -103,6 +135,13 @@ def parse_roman(s: str) -> int | None:
         variant = s[:-n] + "I" * n
         if variant in ROMAN:
             return ROMAN[variant]
+    # OCR fallback: trailing U is sometimes a misread of double-I (II) or final I.
+    # Observed: "XVIU" for XVIII (d.18 line 56737). Try U→II first, then U→I.
+    if s.endswith("U"):
+        for replacement in ("II", "I"):
+            variant = s[:-1] + replacement
+            if variant in ROMAN:
+                return ROMAN[variant]
     return None
 
 
@@ -164,7 +203,22 @@ def find_markers(text: str) -> list[Marker]:
 
 def dedupe_markers(markers: list[Marker], lines: list[str]) -> list[Marker]:
     """Remove running-head duplicates: if two markers of the same kind
-    appear within 30 lines, keep only the second (the real header)."""
+    appear within 30 lines, keep only the second (the real header).
+
+    RULE: when a Quaracchi page begins a new section, the page-top running
+    head and the actual section break are *both* labeled identically (e.g.
+    ``DISTINCTIO XVIII`` appears once as the page header and once again,
+    a few lines down, as the real distinction title). The second occurrence
+    is always the real break — the first is just typesetting.
+
+    Empirical case: d.18 has ``DISTINCTIO XVIU.`` (OCR'd) at line 56737
+    followed by content from the prior distinction (DUB. IV of d.17), then
+    the real ``DISTINCTIO XVIII.`` at line 56764. Treating the first as
+    the boundary swallows ~27 lines of d.17 dubia into d.18's littera.
+
+    Same pattern applies to QUAESTIO and DUBIA markers when a question
+    or dubia section spans a page break.
+    """
     result = []
     i = 0
     while i < len(markers):
@@ -185,7 +239,12 @@ def find_distinctio_ranges(markers: list[Marker], total_lines: int) -> list[tupl
     """Return (distinctio_num, start_line, end_line) for each distinction."""
     dist_markers = [m for m in markers if m.kind == "distinctio"]
 
-    # Dedupe: if same distinctio number appears multiple times, keep first
+    # Dedupe: when the same DISTINCTIO number appears multiple times, prefer
+    # the LAST nearby occurrence (running-head pattern, ~30 lines apart). For
+    # far-apart duplicates (body references in scholion footnotes or end-of-vol
+    # index entries — e.g. pt2 has 'DISTINCTIO XLVI' both at line 39073 (real)
+    # and line 44627 (index), keep the FIRST occurrence as the real break.
+    DEDUP_WINDOW = 100
     seen = {}
     unique = []
     for m in dist_markers:
@@ -193,8 +252,14 @@ def find_distinctio_ranges(markers: list[Marker], total_lines: int) -> list[tupl
             seen[m.num] = m
             unique.append(m)
         else:
-            # Keep the one that's further in the text (more likely the real one)
-            pass
+            prev = seen[m.num]
+            if (m.line - prev.line) <= DEDUP_WINDOW:
+                # Nearby duplicate — running head followed by real heading.
+                # Replace earlier with later (the real section break).
+                idx = unique.index(prev)
+                unique[idx] = m
+                seen[m.num] = m
+            # else: far-apart duplicate (body reference / index) — keep first.
 
     ranges = []
     for i, m in enumerate(unique):

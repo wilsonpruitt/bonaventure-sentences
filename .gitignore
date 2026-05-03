@@ -5,7 +5,12 @@ node_modules/
 # Raw source material (large binary / OCR dumps — keep local, out of git)
 raw/*.pdf
 raw/*_raw.txt
+raw/*_djvu.txt
 raw/vision/
+manual-review/*-numbered.txt
+
+# Pre-rebuild snapshot dirs — ephemeral insurance, prior versions live in git history
+vol1/_backup-*/
 
 # Python caches
 **/__pycache__/

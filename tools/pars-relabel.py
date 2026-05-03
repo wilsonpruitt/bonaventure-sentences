@@ -38,11 +38,21 @@ RAW_BY_PART = {
 }
 
 RE_DISTINCTIO = re.compile(
-    r"^\s*DISTINCTIO\S*\s+([IVXLCivxlc]+(?:\s*[IVXLCivxlc])*)\b",
+    # Synced with auto-chunk-volume.py: tolerate DISTINGTIO (G→C) and DiSTINCTIO,
+    # plus trailing-U in roman (XVIU=XVIII).
+    r"^\s*D[Ii]STIN[CG]TIO\S*\s+([IVXLCUivxlcu]+(?:\s*[IVXLCUivxlcu])*)\b",
     re.MULTILINE,
 )
-RE_COMMENTARIUS = re.compile(r"^\s*COMMENTARIUS\s+IN\s+D", re.MULTILINE | re.IGNORECASE)
-RE_DIVISIO_LINE = re.compile(r"^(?P<line>.*\bDIVISIO\s+TEXTUS.*)$", re.MULTILINE)
+RE_COMMENTARIUS = re.compile(
+    # Synced with auto-chunk-volume.py: tolerate C0MMENTARIU8/AEIU8/etc., 'm' for IN.
+    r"^\s*C[O0]MMENT[AE][REI]{1,3}[US8]{1,2}\s+(?:IN|m)\s+D",
+    re.MULTILINE | re.IGNORECASE,
+)
+RE_DIVISIO_LINE = re.compile(
+    # Synced with auto-chunk-volume.py: tolerate DLVISIO/DIVJSIO and TKXTUS variants.
+    r"^(?P<line>.*\bD[IL]V[ITJ]SIO\s+T[EK]\.?XT[UI]{1,3}[S8].*)$",
+    re.MULTILINE,
+)
 # A running head looks like `DIST. XXX. ...` or `DIST. XXX. P. II. ...`
 RE_RUNNING_HEAD = re.compile(r"\bDIST\.\s*[IVXLCivxlc]+", re.IGNORECASE)
 

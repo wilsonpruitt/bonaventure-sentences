@@ -36,13 +36,21 @@ VOL1 = REPO / "vol1"
 
 # Broad OCR-tolerant patterns. Must stay in sync with tools/auto-chunk-volume.py and tools/chunk-fill.py.
 MARKER_PATTERNS = [
-    ("DISTINCTIO", re.compile(r"^[ \t]*DISTINCTIO\s+([IVXLCivxlc]+)", re.MULTILINE)),
-    ("COMMENTARIUS", re.compile(r"^[ \t]*C[O0]MMENT[AE][REI]{1,3}[US8]{1,2}\s+IN", re.MULTILINE)),
-    ("DIVISIO", re.compile(r"DIV[IT]SIO\s+TE\.?XTUS", re.MULTILINE)),
-    ("TRACTATIO", re.compile(r"TRACTATIO\s+QU", re.MULTILINE)),
+    # Synced with auto-chunk-volume.py — same OCR-tolerant patterns.
+    ("DISTINCTIO", re.compile(r"^[ \t]*D[Ii]STIN[CG]TIO\S*\s+([IVXLCUivxlcu]+)", re.MULTILINE)),
+    ("COMMENTARIUS", re.compile(r"^[ \t]*C[O0]MMENT[AE][REI]{1,3}[US8]{1,2}\s+(?:IN|m)", re.MULTILINE)),
+    ("DIVISIO", re.compile(r"^[ \t]*(?!DIST[.\s])(?:.*\b)?D[IL]V[ITJ]SIO\s+T[EK]\.?XT[UI]{1,3}[S8]", re.MULTILINE)),
+    ("TRACTATIO", re.compile(r"TRACT.{0,3}TIO\s+QU", re.MULTILINE)),
     ("ARTICULUS", re.compile(r"^[ \t]*ARTI[CGI]U[L1I]U[S8]\s+([IVXLC1]+|U[Ii]?N[IL]?[CG]U[S8])", re.MULTILINE)),
-    ("QUAESTIO", re.compile(r"^[ \t]*Q[UIJij1][A^.flEIJij]{0,6}STIO\s+([IVXLC1ivxlcm]+)", re.MULTILINE)),
-    ("DUBIA", re.compile(r"^[ \t]*(?:DUB(?:IA)?[.\s]|DIST\.[^\n]*\bDUBIA\b)", re.MULTILINE)),
+    ("QUAESTIO", re.compile(
+        r"^[ \t]*['`]?(?:"
+            r"[QO][UIJij1lL][A^.flUVWFEIJij\\n]{0,6}"
+            r"(?:S[Tnr][I1li]?[O0]|STK\))"
+            r"|gl[!.\\]+\\?ESTIO"
+        r")\s+([IVXLC1lijm\[]+)",
+        re.MULTILINE,
+    )),
+    ("DUBIA", re.compile(r"^[ \t]*(?!DIST[.\s])(?:.*\bD[UHL][IH]?B[IL][A\\]\b|D[ruU][bB][.\s]+[I1L]\b[^IVX])", re.MULTILINE)),
     ("SCHOLION", re.compile(r"^[ \t]*[CS][CHI]OLIO[NK]", re.MULTILINE)),
     ("CONCLUSIO", re.compile(r"^[ \t]*CONCLUSIO", re.MULTILINE)),
     ("RUNNING_HEAD", re.compile(
@@ -62,6 +70,13 @@ ROMAN = {
     "XLVI": 46, "XLVII": 47, "XLVIII": 48,
     "UNICUS": 1, "m": 3,
 }
+
+
+# Running-head heuristic (see auto-chunk-volume.py:dedupe_markers for full
+# rationale): when an identical section marker appears twice within ~30 lines,
+# the FIRST is the page-top running head and the SECOND is the real section
+# break. Pages where a new distinction/quaestio starts emit both. Always treat
+# the later occurrence as the boundary.
 
 
 @dataclass

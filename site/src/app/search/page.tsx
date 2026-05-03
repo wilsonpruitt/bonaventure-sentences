@@ -4,21 +4,23 @@ import { SearchClient } from "./search-client";
 export default function SearchPage() {
   const books = loadAllContent();
 
-  // Build a flat search index with just the text needed for client-side search
+  // Build a flat search index. Include BOTH latin and english previews so
+  // the client can search either language. Chunks without an English
+  // translation are still Latin-searchable.
   const searchIndex = books.flatMap((book) =>
     book.distinctions.flatMap((dist) =>
-      dist.questions
-        .filter((q) => q.hasTranslation)
-        .map((q) => ({
-          id: q.id,
-          title: q.title,
-          bookId: book.id,
-          bookTitle: book.title,
-          distId: dist.id,
-          distTitle: dist.title,
-          // Only send first 500 chars to keep bundle small
-          englishPreview: q.english.substring(0, 500),
-        }))
+      dist.questions.map((q) => ({
+        id: q.id,
+        title: q.title,
+        bookId: book.id,
+        bookTitle: book.title,
+        distId: dist.id,
+        distTitle: dist.title,
+        hasTranslation: q.hasTranslation,
+        // First 500 chars of each — keeps the index compact.
+        latinPreview: q.latin.substring(0, 500),
+        englishPreview: q.english.substring(0, 500),
+      }))
     )
   );
 

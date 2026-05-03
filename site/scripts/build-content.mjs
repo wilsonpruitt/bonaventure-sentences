@@ -45,12 +45,19 @@ function extractSection(body, header) {
 // comments and [^N] footnote markers are PRESERVED — the client reader now
 // handles them.
 function extractLanguageBlock(body, header) {
+  // Only terminate on known sibling-section headings, not arbitrary `## ` subheadings
+  // (e.g. `## Commentarius in Distinctionem V` inside a Latin block).
+  const sentinel = `\\n## (?:Latin|English|Apparatus|Notes|Scholion|---)`;
   let raw = "";
-  const h2 = body.match(new RegExp(`## ${header}\\n([\\s\\S]*?)(?=\\n## |$)`));
+  const h2 = body.match(
+    new RegExp(`## ${header}\\n([\\s\\S]*?)(?=${sentinel}|$)`)
+  );
   if (h2) {
     raw = h2[1];
   } else {
-    const h3 = body.match(new RegExp(`### ${header}\\n([\\s\\S]*?)(?=\\n### |\\n## |$)`));
+    const h3 = body.match(
+      new RegExp(`### ${header}\\n([\\s\\S]*?)(?=\\n### |${sentinel}|$)`)
+    );
     if (h3) raw = h3[1];
   }
   if (!raw) return { body: "", scholion: "" };
