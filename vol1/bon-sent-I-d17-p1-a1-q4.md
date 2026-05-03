@@ -7,535 +7,221 @@ pars: 1
 articulus: 1
 quaestio: 4
 type: quaestio
+title_la: "Utrum caritas in universali sit cognoscibilis etiam a non habente eam"
+title_en: "Whether charity in general can be known also by one not having it"
+printed_pages: [301, 302, 303]
+pdf_pages: [403, 404, 405]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 301–303"
+has_scholion: true
+has_apparatus: true
 line_start: 54018
 line_end: 54528
 word_count_latin: 3983
-transcription_status: "auto-chunked 2026-05-01"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR (raw lines 54018–54528), literal English, scholion (I–III with sub-points 1–6), full apparatus (21 entries) (2026-05-02)"
 format_version: 1
 ---
 
-# bon-sent-I-d17-a1-q4
+# bon-sent-I-d17-p1-a1-q4
+
+## *Utrum caritas in universali sit cognoscibilis etiam a non habente eam.*
+
+---
 
 ## Latin
 
-QUAESTIO  IV. 
-
-Ulrum  carilas  in  universali  sit  cognoscibilis  etiam  a  non  habente  eah 
+<!-- page 301 -->
 
+### Quaestio IV. *Utrum caritas in universali sit cognoscibilis etiam a non habente eam.*
 
-yuarto  quaeritur,  utrum   caritas   sit   cognosci- 
-bilis  a  non  habente:  et  quod  non,  videtur: 
-
-1.  Quia  oinne  qiiod  cognoscitur,  aut  cognosci- 
-oppoii-  tur  per  essenliam,  aut  per  siniilitudmem.  Sed  ^  non 
-per  essentiam,  quia  non  est  essentialiter  in  anima 
-peccatrice:  si  ergo  cognoscitur,  hoc  est  per  simili- 
-tudinem.  Sed  contra:  secundae  ad  Corinthios  duo- 
-decimo^  dicit  Glossa:  «  Tertium  genus  visionis,  quo 
-dilectio  intellectiva  cfluspicitur.  eas  res  continet, 
-quae  non  habent  sui  similes  imagines .  quae  non 
-sunt  ipsae».  ergo  similitudo  caritatis  non  est  aliud 
-quam  caritas:  ergo  si  caret  quis  caritate,  caret  et 
-similitudine  eius.  et  ita  minqnam  cognoscit  caritatem. 
-
-
-2.  Item,  si  non  habens  caritatem  cognoscit  eam, 
-aut  ergo  per  speciem  innatam,  aut  per  acquisitam, 
-aut  per  effectum,  aut  per  primam  lucem  ^  Non  per 
-innatam,  quia  anima  creata  est  sicut  tabula  rasa "; 
-non  per  speciem  acquisitam ,  quia  omnis  species 
-acquisita  acquiritur  mediante  sensu  et  imaginatione", 
-sed  species  caritatis  non  cadit  in  sensu  nec  in  ima- 
-ginatione.  Item  non  per  effectum ,  quia  nemo  cogno- 
-scit  per  effectum  aliquid,  nisi  sciat,  quod  sit  illius 
-effectus*.  Unde  nullus  cognoscil  per  eclypsim  inter- 
-positionem  terrae,  nisi  sciat,  quod  interpositio  est 
-illius  causa.  Si  ergo  per  effectum  cognoscit,  bportet, 
-quod  sciat  prius,  qnoiiiam'  illius  esl  causa  caritas. 
-
-
-'  ClV.  licrnard. .  Scini.  I .  in  Scpluag. ,  Serm.  2.  in  Octava 
-Pascliae  et  Scrm.  2.  iii  Pcntec.  —  Paulo  ante  post  signa  Vat. 
-cum  uno  alleroque  codicc  reiietit  probabilia. 
-
-2  Ex  mss.'  et  edd.  1 ,  2 ,  3  supplevimus  sciticet.  Paulo 
-infra  plures  codd.  iil  AGHIRT  elc.  cum  ed.  1   id  loco  illiid. 
-
-^  Supple:  cnritas  cognoscitur.' —  V4t.  cum  cod.  cc  omit- 
-tit  Sed ,  quod  tamcn  exstat  in  ceteris  codd.  et  ed.  1. 
-
-*  Vers.  4.  —  Glossa  sumta  est  ex  August. ,  Xll.  de  Gen.  ad 
-lil.  c.  li.  n.  13,  ubi  cum  cd.  I  ]tro  inteUectiia  habetur  intellecta, 
-.ctlalisexplicatioadiungilur;  Nam  honid  \cl  iirbor  vcl  sol  et  quae- 
-•cumquc  alia  corpora  si\ c  caelcslia  sivc  lcircslria ,  et  praesentia 
-vidcnlur  in  suis  formis,  cl  abscnlia  cogilantur  imaginibus  ani- 
-mo  imprcssis ,  et  faciunt  duo  gcnera  visorum ,  unum  per  cor- 
-poris  scnsiis ,  alleriim  per  spiritum  ,  quo  illac  imagines  conti- 
-ncntnr.  Dilcclio  aulcm  niinqiiid  alilcr  \idetur  praesens  in  specie 
-qua  csl ,  ci  iililcr  abscns    in   iiliqiiii    imaginc    sui    simili?    Non 
-
-
-polcsl ,   ab  iilio  nijigis-r  ab 
-iiliqiiid  (uirporalis    imaginis 
-
-
-utique,  sed  qiianUmi  nicn 
-alio  minus  ipsa  ccrnilur ;  : 
-cogitatur ,  non  ipsa  cernilur. 
-
-=  Vat. ,  paulo  ante  post  innatam  addito  seu  tucem  prO' 
-priam ,  hic  omittit  aiit  per  pri)mm  lucem ,  sed  refragantibus 
-omnibus  mss. ;  ed.   I   iiutem  liabcl  uul  iii  piima  Iiice. 
-
-«  Aristot.,  Ili.  lic  .\nima,  lcM.  I  i.  (c.  l.i;  (l|)nrlci  iiulciii 
-sic ,  ut  in  tabula  iii  qiiii  iiiliil  cst  scripliini  iiriu,  i|uimI  quklcn: 
-accidit  in  intcUeclu. 
-
-'  Cfr.  Arislot. ,  III.  dc  Anima  ,  lcxl.  30.  cl  39.  (c.  7.  cl  «.; 
-et  dc  Sciisu  ct  scnsibili  c.  6. 
-
-■8  Ita  imilli  codd.  iit  A  li  II  l.\  ST  V  YZ  cc  IV  hreviiis  ci 
-perbenc,  iii  quorum  icciiniu'  illiii.s  rclciiiu-  inl  priicccdcns  ali 
-qvid,  dum  alii  cum  ViU.  riHlcin  liuiilcin  ■ciisii,  scd  conslru- 
-clione  propositionis  variiilii,  i/Hor/  niiisn  sit  illiiis  elfectus. 
-
-"  Cod.  .K  quod  loco  quonimii. 
-
-
-DIST.  XVII.  P.  I.  ART.  UNICUS  QUAEST.  IV. 
-
-
-et  iUa  praecognoscit  caritatera;  non  ergo  per  effe- 
-ctum.  Si  tu  dicas,  quod  cognoscit  in  illa  veritate 
-aete)-na,  aut  hoc  erit  effeclive,  aut  farmaliter.  Si 
-effective,  sic  omnia  cognoscuntur  in  ea,  quae  onmia 
-facit  scire,  quaecumque  sciunlur;  si  autem  forma- 
-liter  sive  exemplariter,  ergo  videtur,  quod  vel  im- 
-primit '  aliquam  speciem  in  intellectu ,  vel  necesse 
-est,  quod  ipsa  veritas  vel  exemplar  conspiciatur ;  quo- 
-rum  altermn  est  supra  improbatum  -,  alterum  autem 
-manifeste  falsum. 
-
-Sed  contra:  1.  Peccatores  desiderant  caritatem; 
-sed  nuUus  desiderat  quod  non  cognoscit,  quia  inco- 
-gnita  non  possunt  diligi,  sicut  dicit  Augustinus^: 
-ergo  ipsi  cognoscunt  caritatem. 
-
-2.  Item,  aliquis  habens  caritatem  potest  habere 
-cognitionem  de  ilia;  sed  omne  quod  cadit  in  intel- 
-lectu  apprehendente,  potest  in  memoria  conservari; 
-ponatur  ergo,  quod  imprimatur  haec  cognitio  me- 
-moriae,  etquoddemum*  cadat  a  caritiite,  constat, 
-quod  lapsus  a  caritate  memoriam  eius  retinuit:  ergo 
-adhuc  cognoscit  eam,  ergo  caritas  potest  cognosci 
-a  non  habente. 
-
-3.  Itera,  si  caritas  cognoscitur  ab  habente,  aut 
-hoc  est  per  essentiam ,  aut  per  similitudinem  ^  Sed 
-probo,  quod  per  similitudinem ,  quia  nihil  cognoscit 
-intellectus,  nisi  ab  illo  informetur;  sed  caritas  est 
-habitus  alTectus,  ergo  secundum  essentiam  illum" 
-non  egreditur:  ergo  si  unitur  intellectui  et  iilum 
-informat,  hoc  est  per  similitudinem;  sed  similitudo 
-potest  haberi  a  non  habente  caritatem:  ergo  etc. 
-
-4.  Item,  Augustinus  dicit  undedmo  de  Trinitate', 
-quod  ad  hoc,  quod  intelleclus  intelligal  qiiod  est 
-in  memoria,  necesse  est,  aciem  intellectus  infor- 
-mari:  ergo  multo  fortius  ad  hoc,  quod  intelligat 
-quod  est  in  voluntale:  ergo  si  intelligit  caritatem,  in- 
-formatnr  intellectus  aliquo*;  non  substantia  caritatis: 
-ergo  similitudine,  ergo  idem  quod  prius. 
+Quarto quaeritur, utrum caritas sit cognoscibilis a non habente; et quod non, videtur:
 
-
-c  0  N  c  L  u  s  I  0.. 
-
-Caritas  etiam  a  non  habenle  eam  potest  cognosci, 
-non  cognitione  experiitientali,  sed  speculativa, 
-et  quidem  non  per  similitudinem  a  sensibus 
-abstractam,  sed  per  quandam  veritateni  ani- 
-mae  immtani. 
+1. Quia omne quod cognoscitur, aut cognoscitur per essentiam, aut per similitudinem. Sed[^1] non per essentiam, quia non est essentialiter in anima peccatrice: si ergo cognoscitur, hoc est per similitudinem. Sed contra: secundae *ad Corinthios* duodecimo[^2] dicit Glossa: «Tertium genus visionis, quo dilectio intellectiva conspicitur, eas res continet, quae non habent sui similes imagines, quae non sunt ipsae»: ergo similitudo caritatis non est aliud quam caritas: ergo si caret quis caritate, caret et similitudine eius, et ita numquam cognoscit caritatem.
 
-Respondeo:  Dicendum,  quod   cognitione   expe- 
-rientiae  non  cognoscitur  caritas  nisi  ab  habente ;  co- 
-gnitione  vero  speculationis  certum  est  cognosci  ca- 
-ritatem  etiam  a  non  habente.  Modus  autem  huiusJi 
-cogiiitionis  non  potest   esse  per   caritatis   essentiam 
-nec  per  similitudinem  a  sensibus   acquisitam:  ergo 
-necesse  est,  quod  sit  per  similitudinem   infusam , 
-vel  imiatam.  Utraque  autem,  quae  sic  cognoscuntur  ^ 
-ab  homine,  dicuntur  ab  Augustino'  cognosci  in  Ve- 
-ritate  aeterna,  aut  quia  Veritas  cognitionem  infundit, 
-ut  Prophetis,  aut  quia  a  conditione  imprimit,  secun- 
-dum  illud '°:  Signatum  est  super  nos  lumen  vultiis 
-tui,  Domine  etc.  Caritas  autem   non  cognoscitur  a 
-peccatoribus  per  speciem  infusam :  ergo  oportet,  quod  c 
-per  innatam  cognoscatur. 
-
-Species  autem  innata  potest  esse  dupliciter:  aut. 
-similitudo  tantum,  sicut  species  lapidis,  aut  ita  si- 
-militudo,  quod  "  etiam  quaedam  veritas  in  se  ipsa. 
-Prima  species  est  sicut  pictura ;  et  ab  hac  creata  est 
-anima  nuda.  Secunda  species  est  impressio  aliqua 
-summae  veritatis  in  anima ,  sicut  verbi  gratia  ani- 
-mae  a  conditione  sua  datum  est  lumen  quoddam 
-directivum  et  quaedani  directio  uaturalis;  data  est 
-etiam  ei  affectio  ^-  voluntatis.  Cognoscit  igitur  anima, 
-quid  sit  reclitudo,  et  quid  affectio,  et  ita,  quid  re- 
-ctitudo  affectionis;  et  cum  caritas  sit  hoc,  cognoscit 
-caritatem  per  quandam  veritatem,  quae  tamen  ve- 
-ritas   est   similitudo  caritatis ;   et  tunc  recte  habet 
-
-
-'  Aliqui  codd.  ut  aa  bb  cum  ed.  I  imprinial.  Hox  ed.  1 
-post  oeritas  liabet  sive  pi'0  vel. 
-
-2  In  priiicipio  liuius  argumenti,  ubi  arguitur,  quod  caritas 
-cognosci  non  possit  per  speciem  innatam. 
-
-3  Libr.  X.  de  Trin.  c.  I.  n.  I  :  Qtiod  quisque  prorsus 
-ignorat  amare  nullo  pacto  potest. 
-
-*  Cod.  X  (leinde. 
-
-=  Jn  Va(.  practer  fidem  mss.  et  ed.  I  additur-:  Per  essen- 
-tiam  non ,  constat ,  et  inox  loco  proba  habetur  probalur. 
-
-^  Inielligc  :  allectum.  Vat.  cuni  cod.  cc  peipcram  ,  el  cele- 
-|-is  codd.  cum  ed.  1  refriigantibus .  illam ;  quae  cl  paulo  infra 
-loco  sed  i)onit  et  liaec. 
-
-'  Cap.  1.  el  8.  n.  Il-li,  ubi  inler  alia  dicit :  Sed  cum  co- 
-gitatur.cx  illa  (specic)  quani  meinoria  tenet,  exprimitur  in  acie 
-
-
-cogilantis,  et  rcminiscendo  formatur  ea  spectes,  quae  quasi  pror 
-les  est  eius  quam  memoria  tenet. 
-
-?  Ope  mss.  et  edd.  1 .  2 ,  3  expunximus  hic  a  Val.  addl- 
-tam  particulam  et. 
-
-'  Vide  infra  Seholion,  ubi  fusius  proposita  est  sententia 
-August.  de  modo  cognilionis  humanae.  De  cognitione  prophe^ 
-tali  cfr.  XII.  de  Genes.  ad  lit.  c.  ,31.  n.  59:  Aliud  autem  est. 
-ipsuni  lumen,  quo  illustratui'  anima',  ut  omnia  vel  in  se  vel  in 
-illo  veraciler  intellecla  conspiciat  j  nam  illud  iam  ipseDeus  estete. 
-
-'»  Psalm.  4,7.  —  Paulo  anle  Vat.  contra  plurimos  codd. 
-ct  cd.  I  nomini  Prophetis  pracfigit  perperam  in,  et  mox  conlra 
-omnes  codd.  ct  edd.  I  ,  2 ,  :j  liabet  iniprimitur  loco  imprimit 
-
-"  Cod.  X  addit  est. 
-
-'-  In  cod.,  0  additur  naturalis. 
-
-
-302 
-
-
-SENTENTIARUM  LIB.  I. 
-
-
-rationem  aimUitudinis,  dum  accipitur  ab  iutelie- 
-ctu;  liabet  tamen  rationem  verilatis,  prout  est  in 
-anima. 
-
-Unde  quod  Auguslinus  dicit',  quod  huiusniodi 
-habitus  cognoscuutur  in  ipsa  veritate  et  per  simili- 
-
-
-tudines,  quae  sunt  idem  quod  ipsae  '■',  non  dicit  lioc, 
-quia  non  fiat  aliqua  species  in  intellectu  cognoscentis, 
-sed  quia  irt  anima  non  est  pura  species ,  sed  veritas 
-quaedam  ab  ipsa  veritate  impressa ;  et  sic  patet  re- 
-sponsio  ad  obiecta. 
-
-
-SCHOLIOK 
-
-
-I.  Facla  dislinclione  duplicis  cognilionis ,  seil.  expeiientiae 
-(intuilivac)  ct  speculationis  (abslfactivae) ,  ipsam  quaostioncni , 
-quac  sane  pro  tlieoria  de  cognitionc  liumana  magni  momenli 
-,C5t,  duplici  conclusione  rcsolviU  Deinde  modum  huius  cogni- 
-tionis  speculativae  septcm  propositionibus  explicat.  Pro  conlir- 
-matione  responsionis  hic  subiungimus ,  quae  de  hac  re  dicunt 
-Pelr.  a  Tar.  et  Alex.  Hal.  Petrus  (hie  q.  1.  a.  S.  quaestiunc.  2.): 
-t  Cognitionc  experientiae  non  polest  cognosci  caritas  nisl  ab 
-habente,  scd  cognltione  speculatim  potest,  non  per  essentiam 
-eius  scu  per  speciem,  quae  sil  idem  quod  ipsa  —  sic  videtur 
-solum  ab  habente  —  sed  per  speciem  seu  per  similitudinem , 
-qaae  non  cst  idem  quod  ipsa ;  et  hoc  dupliciter :  vel  per  spe- 
-mem  acqiUsitam ,  quac  est  similitudo  eius  vel  potius  actus  ipsius , 
-relicla  in  memoria  ad  eius  praesentiam ,  et  sic  videtur  ab  illo , 
-qui  eam  aliquando  habuit,  nisi  speciem  illam  oblivio  deleverit , 
-et  sic  in  patria  videbit  Sanctus ,  se  fidem  et  spem  habuisse , 
-scil.  per  quoddam  vestigiuni  fldei ,  ut  dicit  Augustinus  XIV.  de 
-Trinitate  c.  3. ;  vel  per  speciem  intuitam ,  et  sic  videri  potest 
-a  quocumque ,  non  quae  sit  specks  iantum ,  ut  species  lapidis 
-in  anima ,  quia  talem  speciem  non  habet  anima  concreatam  ca- 
-ritjitis ,  sed  per  speciem  innatam ,  quae  est  res  in  se ,  et  tamen 
-tiabet  similitudinem  cum  caritate.  Habet  enim  aninia  apud  se 
-virtutum  omnium  quaedam  semina  et  per  illa  habet  desiderium 
-ct  cognitionem  quondam  universalem  virtutum ,  sicut  per  prin- 
-cipia  venit  in  cogniUonem  conclusionum  ».  Idem  ad  obiectionem: 
-anima  creatur  ut  tabula  rasa ,  sic  respondet :  «  Hoc  intelligitur 
-quoad  species ,  quae  sunt  intentiones  tantum ,  non  res ;  huius- 
-modi  vero  habitus  innati  in  se  quidem  sunl  res ,  in  quantum 
-vero  per  illos  cognoscuntur  alii  (alia?)  ut  in  simili,  sunt  quasi 
-species  ».  Haec  omnia  fere  ad  verbum  concordant  cum  doctriria 
-Seraphici.  A\ex.  Hal.,  S.  p.  III.  q.  61.  m.  7.  a.  I.  haec  habct: 
-«Quilibet  sive  ionus  sive  malus  a  creatione  habet  inditam  ratio- 
-nem  boni  et  veri ,  secundum  quod  dicit  .\uguslinus  et  Boethius. 
-Sicut  ergo  in  notione  principiorum  veri  est  notio  conclusionum 
-iii  universali,  ita  in  notione  boni  nobis  in  univcrsali  impressa 
-est  notio  gratiae  in  universali ;  et  ex  illa  notione  boni  possu- 
-mus  scire ,  quid  est  gratia  in  universali ,  scilicet  quod  ipsa  est 
-quaedam  qualilas  in  anima.  Cum  enim  gralia  sit  bonum ,  et  ha- 
-beamus  notionem  boni  in  universali  nobis  impressam ,  ex  illa 
-possumus  arguere ,  gratiam  esse ;  sed  haec  erit  notio  in  uni- 
-versali,  non  in  ratione  propria.  Cfr.  ibid.  q.  28.  m.  I.  a.  2. 
-Praeter  hos  cfr.  Richard.  a  Med.,  hic  a.  I.  q.  4.  Ex  hispatet, 
-quod  intellectus  ex  innato  lumine  veritatis  potest  formare  spe- 
-ciem  intelligibilem ,  aciem  inlellectus  informantem,  quae  simul 
-habeat  <l  rationem  similitudinis ,  dum  accipitur  ab  intellectu ,  et 
-tamen  rationem  veritatis ,  prout  est  in  anima  »,  ut  habetur  hic 
-in  corj). 
-
-II.  Quae  in  hac  quaestione  a  Seraphico  dicuntur  non  parvi 
-sunt  momenti ,  ut  sententia  eius  de  modo  cognitionis  liumanac 
-recte  intelligatur.  Quid  sit  eognoscere  in  veritate  aeterna,  iam 
-explicatum  est  supra  d.  3.  p.  I.  q.  I.  in  Scholio.  —  Quid  sit 
-secundum  S.  Bonaventuram  species  innata ,  et  quo  sensu  ipsa 
-animae  humanae  innata  dici  possit,  hic  manifeste  docetur,  scil. 
-quod  hoc  secundum  habitum  sive  lumen  animae   concreatum. 
-
-
-quod  ^ocatiu'  iiaturale  iudicatoriuni,  non  secundum  avtuales 
-species  sive  ideas  innatas  intelligendum  sit.  Quod  amplius  con- 
-firmatur  et  explicatur  ab  ipso  Seraphico  Doctore,  II.  Sent.  d.  39. 
-a.  1.  q.  2,  ubi  quaeritur,  utrum  conscientia  sit  habitus  inna- 
-tus,  an  acquisitus.  Reiecta  opinione  Platonis,  quod  habitus  co- 
-gnitivi  animae  sint  simpliciter  innati ,  sed  oblivioni  dati  ad  tem- 
-pus,  ipse  asserit,  tres  de  hac  re  esse  opiniones,  in  hoc  con- 
-sentientes,  quod  habitus  cognitivi  nec  sint  omnino  innati,  nec 
-omnino  acquisiti ,  scd  quodam  modo  innati ,  quodam  modo 
-acquisiti ;  tamen  has  dissidere  in  assignando  modum ,  secundum, 
-qucm  hi  habitus  sint  acquisiti  vel  innati.  Reiectis  duabus  opi- 
-nionibus  tanquam  insuflicientibus,  concludit,  quod  «  habitus  co- 
-gnitivi  sunt  quodam  modo  nobis  innati  ratione  luminis  animae  in- 
-diti ,  sunt  etiam  quodam  modo  acquisiti  ratione  speciei.  Et  hoe 
-quidem  verbis  Philosophi  et  Augustini  concordat.  Omnes  enim 
-in  hoc  concordant,  quod  potentiae  cognitivae  sit  lumen  indi- 
-tum ,  quod  vocatur  naturale  iudicatorium ;  species  autem  et 
-similitudines  rerum  acquiruntur  nobis  medianle  sensu ,  sicul 
-expresse  dicit  Philosophus  in  multis  locis ;  et  hoc  ctiam  expe- 
-rientia  docet».  Tum  attendendam  essc  ait  distinctionem  inter 
-prima  principia  valde  evidentia ,  quorum  «  cognitio  ratione  il- 
-lius  luminis  dicitur  esse  nobis  innata ,  qma  lumen  illud  suffi- 
-cit  ad  ilta  cogmscenda  post  receptionem  specierum  sine  aliqua 
-pcrsuasione  superaddita  propter  sui  evidentiam  » ,  et  inter  co- 
-gnitionem  particularium  conclusionum,  quarum  cognitio  acqui- 
-sita  cst  pro  eo,  quod  lumen  nobis  innatum  non  plene  sufftcit 
-ad  illa  cognoscenda,  sed  indiget  aliqua  persuasione  et  habilita- 
-tione  nova  etc.  —  Denique  respondendo  ad  illam  quaestionem  , 
-utrum  omnis  cognitio  sit  a  sensu,  sic  concludit;  «  Dicendum 
-est,  quod  non.  Necessario  enim  oportet  ponere,  quod  anima 
-novit  Deiim  et  se  ipsam  ct  quae  sunt  in  sc  ipsa  sine  admini- 
-culo  sensuum  cxteriorum.  Undc  si  aliquando  dicat  Philosophus, 
-quod  nihil  est  in  intellectu ,  quod  prius  non  fuerit  in  sensu ,  et 
-quod  omnis  cognitio  ortum  habeat  a  sensu ,  intelligenduiTi  est 
-de  illis  quae  quidem  habent  csse  in  anima  pcr  similitudinen» 
-abstractam ;  et  illa  dicuntur  esse  in  anima  ad  moduni  scriptu- 
-rae.  Et  proptcrca  valde  notabiliter  dicit  Philosophus,  quod  in 
-anima  nihil  scriptum  est,  non  quia  nulla  est  in  ea  notUia , 
-sed  quia  nulla  est  in  ea  pictura  vel  similitudo  abstracta.  Et 
-hoc  est ,  quod  dicit  August.  in  libro  de  Civit.  Dei :  Inseruit  no- 
-bis  Deus  nobile  iudicatorium ,  ubi  quid  sit  lucis ,  quid  tene- 
-brarum,  cognoscitur  in  libro  lucis,  qui  vcrilas  est,  quia  veri- 
-tas  in  corde  hominum  naturaliter  est  impressa».  —  Hanc  sen- 
-tentiani  verbotenus  sive  in  hoc  sive  in  alio  libro  S.  Angustini 
-non  invenimus.  Ipsa  autem  breviter  complectitur ,  quae  S.  Au- 
-gust.  longiore  discursu  pluries  luculenter  probat ,  pi-aesertim 
-XI.  de  Civ.  Dei  c.  27.  n.  2 ,  ubi  inter  alia  ait :  «  Sed  lucem 
-illam  incorpoream  (animalia)  contingere  nequeunl,  qua  inens 
-nostra  quodam  modo  irradiatur,  ut  de  his  omnibus  recte  iudicare 
-possimus.  Nam  in  quantum  eam  capimus,  in  tantum  id  possumus. 
-Verumtamen  inest  sensibus  irrationalium  animantium,  etsi  scientia 
-nullo  modo,  at  certe  quaedam  scientiae  similitudo...  Sed  nos 
-ea  (corporalia)  sensu  corporis  ita  capimus ,  ut  de  his  non  sensu 
-corporis  itidicemus.  Habemus   enini   alium   interioris   hominis 
-
-
-'  Vat.  praeter  fideni  mss.  et  ciuinque  primarum  edd.  cum 
-Auyuslinus  dicat. 
-
-5  Supple:  res,  quae  hoc  in  casu  sunt  habitus.  Vide  supra 
-
-
-arg.  I.  ad  opp.  Vat.  incongrue  ipse.  .Notumest,  in  Codd.  eodem 
-modo  scribi  ipseei.  ipsae.  —  Mox  flde  mss.  eted.  I  substituimus 
-fiat  loco  sit.  In  fine  responsionis  ed.  1  solutio  pro  responsio. 
-
-
-DIST.  XVII.  P.  l.  ART.  UNICUS  QUAEST.  IV. 
-
-
-303 
-
-
-sen^um  isto  longe  pi-aeslaiilioiem ,  quo  iusUi  et  iniusta  senti- 
-mus :  iusta  per  intelligibilem  speciem ,  iniusta  per  eius  priva- 
-tionem.  Ad  huius  sensus  olTicium  non  acies  pupillae ,  non  fora- 
-men  auriculae,  non  spiramenta  narium,  non  gustus  faucium, 
-non  ullus  corporcus  tactus  accedit.  Ibi  me  et  esse  et  hoc  nosse 
-cerlus  sum,  et  haec  amo  atque  amarc  me  similiter  ccrtus  sum  ». 
-III.  S.  Bonavenlura  fidelissimum  S.  Augustini  discipulum, 
-sicut  in  aliis  quacstionibus,  sic  in  lota  sua  de  cognitione  humana 
-doctrina  se  comprobal.  Unde  quae  circa  hanc  materiam  in 
-hac  quaest.  disputat  non  nisi  summarium  exhibent  eorum , 
-quae  S.  August.  more  suo  et  diltuse  tractat  in  pluribus  libris 
-V.  g.  II.  de  Libero  Arb.;  de  Vera  Religione ,  c.  29.  seqq.;  XII. 
-de  Gen.  ad  lit.  Operae  pretium  esse  duximus  cxemplo  hoc  pro- 
-bare ,  proponendo  ex  libris  VIII.  et  IX.  de  Trinitatc  ea  S.  Au- 
-gustini  de  cognitione  humana  fundamenta ,  quae  S.  Bonaven- 
-tura  hic  vel  praesupponit ,  vel  explicite  asserit. 
-
-1.  Apertissime  ibi  distinguit  S.  Augustinus  inter  cognilionem 
-scnsuum  (phantasiae)  et  intellectus  :  «  Et  Carthagincm  quidem 
-cum  eloqui  volo  ,  npud  me  ipsum  quaero  ,  ut  eloquar ,  et  apud 
-me  ipsum  invenio  phantasiam  Cartliaginis,  sed  eam  per  cor- 
-pus  accepi ,  i.  e.  per  corporis  sensum...  Non  autem  ita  quaero , 
-quid  sit  iustus,  nec  ita  invenio,  nec  ila  intueor,  cum  id  elo- 
-quor  »  etc.  (VIII.  c,  6.  n.  9.). 
-
-2.  Distinguit  in  cognitione  intellectuali  conceptus  formalos 
-per  abstractionem  a  rebus  sensibilibus  et  non  formatos  per 
-abstractionem :  «  Neque  enim  oculis  corporeis  multas  mentes 
-videndo  per  similitudinem  colligimus  generalem  vel  specialem 
-mentis  humanae  nolitiam,  sed  intuemur  inviolabilem  veritatem  » 
-(IX.  c.  6.  n.  9.). 
-
-3.  Asserit ,  aliquos  conceplus  intellectuales ,  quos  liabemus , 
-supponere  experientiam  sive  externam  sive  internam :  a  Sed 
-quid  sit  mori,  et  quid  sit  vivere,  ulique  scimus;  quia  et  vivi- 
-mus,  et  mortuos  ac  morientes  aliquando  vidimus  et  experti  su- 
-mus  »    (VIII.  c.  5.  n.  8.). 
-
-4.  Dicit,  animae  humanae  impressam  esse  notitiam  qua- 
-rundam  rerum :  a  Neque  enim  in  his  omnibus  bonis ,  vel 
-quae  commemoravi  vel  quac  alia  cernuntur  sive  cogitantur , 
-diceremus  aliud  alio  melius ,  cum  vere  iudicamus ,  nisi  esset 
-nobis  impressa  notio  ipsim  boni ,  secundum  quod  ct  probare- 
-mus  aliquid  et  aiiud  illi  praeponeremus  »  (VIII.  c.  3.  n.  i.). 
-Habemus  enim  quasi  regulariter  infixam  humanae  naturae  no- 
-titiam...  Secundum  species  et  genera  rcrum  vel  natiira  irmta 
-vel  experientia  collecta ,  de  factis  huiuscemodi  (miraeulis  et  re- 
-surrectione  Christi)  cogitamus,  ut  non  ficta  ,sit  fldes  nostra  » 
-(ibid.  c.  i.  5.  n.  7.).  «  Quid  igitur  de  illa  excellentia  Trinitalis 
-sive  specialiter  sive  generaliter  novimus ,  quasi  mullae  sint  ta- 
-les  trinitates ,  quarum  aliquas  experti  sumus ,  ut  per  regulam 
-similitudinis  impressam,  vcl  specialem  vel  generalem  notitiam, 
-illam  quoque  talem  esse  credamus  »  etc.  (ibid.  c.  5.  n.  8.). 
-
-5.  Asserit ,  quaedam  cognosci  ab  homine  in  veritate ,  el 
-etiam  in  veiitate  aeterm.  Minime  aulem  dicit,  hoc  fieri  per 
-immediatum  aeternarum  rationum  conspectum,  nt  Ontologistae 
-volunl;  sed  intelligi  debet  secundum  illam  interpretationem , 
-quam  meliores  Scholastici  exhibent;  cfr.  .supra  d.  3.  p.  I.  q.1. 
-Scholion.  Libr.  VIII.  c.  6.  n.  9.  proponil  quaestionem,  quae  cum 
-illa  quae  a  S.  Bonav.  hic  pertraclatur,  maxime  convenit,  scil. 
-quomodo  homo  iniustus  cognoscal  animum  iustum ,  quem  di- 
-ligit ,  eamque  ita  .solvit :  n  Quid  sit  aniimis ,  ut  dictum  est , 
-novimus  ex  nobis ;  inest  enim  animus  nobis.  t^uid  autem  sit 
-imtus,  unde  novimus,  si  iusti  non  sumus?...  An  signa  quae- 
-dam  per  motum  oorporis  emicant,  quibus  ille  aut  ille  homo 
-esse  iustus  apparet?  Sed  unde  novit,  illa  signa  essc  animi  iu- 
--sli,  nesciens,  quid  onmino  sit  iustus?  Novit  ergo.  Sed  uhi  t)o- 
-vimus,  quid  sit  iustus ,  ctiam  cum  iusli  nondum  sumus?  Si 
-cxtra  nos  no^imus,  in  corpore  aliquo  novimus,.  Scd  non  est 
-isla  res  corporis.  In  nohis  igilur  novimus ,  quid  sit  iustus.  Non 
-
-
-enim  alibi  hoc  invenio  ,  cum  quaero  ,  ut  hoc  cloquar,  nisi  apud 
-me  ipsum...  Et  Cartliaginem  quidem  cum  eloqui  volo,  apud 
-me  ipsum  quaero ,  ut  eloquar ,  et  apud  me  ipsum  invenio 
-phantasiam  Carthaginis ,  sed  eam  per  corpus  accepi ,  i.  c.  per 
-corporis  sensum...  Non  autem  ita  quaero ,  quid  sil  iustus ,  nec 
-ita  invenio  nec  ita  intueor ,  cum  id  eloquor...  Illud  mirabile 
-est ,  ut  apud  se  animus  videat,  quod  alibi  nusquam  vidit ,  et 
-verum  videal,  ipsum  verum  iustum  animum  videat ,  et  sil 
-ipse  aninuis ,  et  non  sit  iustus  animus ,  quem  apud  se  ipsum 
-videt.  Num  est  alius  animus  iustus  in  animo  nondum  iusto?... 
-An  illud  quod  videt ,  veritas  est  interior ,  praesens  ammo , 
-qui  eam  valet  intueri  ?  Neque  omnes  valent ;  et  qui  intueri  va- 
-lent ,  hoc  etiam ,  quod  intuentur  ,  non  omnes  sunl ,  hoc  est ,  non 
-sunt  etiam  ipsi  iusti  animi,  sicut  possunt  videre  ac  dicere,  quid 
-sit  iustus  animus.  Quod  unde  esse  poluerunt,  nisi  inhaerendo 
-eidem  ipsi  formae ,  quam  intuentur ,  ut  inde  fornientur  et  sinl 
-iusti  animi ,  non  tantum  cernentes...  Et  unde  inhaeretur  illi  for- 
-mae ,  nisi  amando?...  Homo  ergo,  qui  credilur  iuslus ,  ex  ea 
-forma  et  rentate  diligitur ,  quam  cernit  et  intelligit  apud  sc 
-ille  qui  diligit;  ipsa  vero  forma  et  veritas  non  esl,  quomodo 
-aliunde  diligatur.  Neque  enim  invenimus  aliquid  tale  praelcr 
-ipsam  ,  ul  eam ,  cum  incognita  est ,  credendo  diligamus ,  ex  co 
-quod  iam  tale  aliquid  novimus.  Quidquid  enim  tale  aspexeris, 
-ipsa  est ;  et  non  est  quidquam  tale ,  quoniam  sola  ipsa  talis 
-cst,  qualis  ipsa  est».  Ibid,  c,  9.  n.  13:  «  Vivendum  tamen 
-sic  esse  Dei  ministris ,  non  dc  aliquibus  auditum  credimus ,  sed 
-intus  apud  nos,  vel  potius  supra  nos  m  ipsa  veritatt  conspici- 
-mus.  Illum  ergo ,  quem  sic  vixisse  credimus ,  ex  hoc  quod  vi- 
-demus  diligimus.  Et  nisi  hanc  formam ,  (luam  semper  stabilem 
-atque  incommutabilem  cernimus ,  praecipue  diligerenius ,  non 
-ideo  diligcremus  illum ,  quia  eius  vitam ,  cum  in  carne  vive- 
-ret,  huic  formae  coaptatam  et  congruentcm  fuisse  fide  rctine- 
-mus  ».  Libr.  IX.  c.  6.  n,  9 :  n  Inttiemur  inviolabilem  veritatem, 
-ex  qua  perfecte ,  quantum  possiunus ,  deflniamus,  non  qualis  sit 
-uniuscuiusque  hominis  mens,  sed  qualis  esse  sempiternis  ratio- 
-nibus  debeat ».  Ibid.  n.  II:  a  Ipsa  vera  forma  inconmssae  ae 
-stabilis  veritatis ,  et  in  qua  fi-uerer  homine ,  bonum  eum  cre- 
-dens ,  et  in  qua  consulo ,  ut  bonus  sit ,  eadem  luce  incorrup- 
-tibilis  sincerissimaeque  ralionis  et  meae  mentis  aspectum  et  il- 
-lam  pliantasiae  nubem ,  quam  desuper  cerno ,  cuni  eundem 
-hominem,  qucm  videram,  cogito,  imperturbabili  aeternitate 
-perfundit  ».  Ibid.  c.  7.  n.  12:  i  In  illa  igitur  aeterna  veritate,  ex 
-qua  temporalia  facta  sunt  omnia ,  formam ,  secundum  quam 
-sumus  et  secundum  quam  vcl  in  nobis  vel  in  corporibus  vera 
-et  recta  ratione  aliquid  operamur ,  visu  mentis  aspicimus ,  at- 
-que  inde  conceptam  rerum  veracem  notitiam  tanquam  verbum 
-apud  nos  habemus  et  dicendo  intus  gigninms,  nec  a  nobis  na- 
-
-
-6.  Ultima  haec  verba  aliam  Auguslinianac  sententiae  partem 
-indicant,  quam  S,  Bohav.  in  fine  huius  quaestionis  attingit, 
-scil.  quod  habitus  animae  ,  qui  cognoscuntur  in  ipsa  veritate 
-et  per  similitudines,  quae  idem  sunt  quod  ipsae  (res  i.  e.  ha- 
-bitus) ,  non  cognoscantur  absque  aliqua  specie  in  intellectu  co- 
-gnoscentis  formata.  Libr.  IX.  c.  3.  n.  3.  ait :  i  .Mens  ergo  ipsa, 
-sicut  corporearum  rerum  notitias  per  sensus  corporis  colligit , 
-sic  incorporearum  per  semetipsam.  Ergo  et  semetipsam  per 
-se  ipsam  novit ,  quoniam  est  incorporea  ».  —  Ibid,  c.  11.  n. 
-16.  loquendo  de  cognitione  Dei  ostcndit,  quod  in  ipsa  n  fit  ali- 
-qua  Dei  similitudo  illa  nolitia ;  tamen  inferior  est,  quia  in  inle- 
-riore  natura  est;  crealura  quippe  animus,  Crcator  aulem  Deus. 
-Ex  quo  colligilur,  quia  cum  se  mens  ipsa  novit  alquc  appro- 
-bat,  sic  est  eadem  notitia  verbum  eius,  ut  ei  sit  par  omnino 
-et  aequale  atque  identidem ,  quia  neque  inferioris  cssentiae  nor 
-litia  est ,  sicut  corporis  ,  neqiie  superioris,  sicut  Dei.  Et  cum  har 
-beat  notilia  similitudinem  ad  eam  rem,  quam  novil,  hoc  csl, 
-cuius  notilia  est,  haec  habet  perfectam  »  etc. 
-
-
-SENTENTIARllM  LIB.  1.
+2. Item, si non habens caritatem cognoscit eam, aut ergo per speciem innatam, aut per acquisitam, aut per effectum, aut per primam lucem.[^3] Non per innatam, quia anima creata est sicut tabula rasa[^4]; non per speciem acquisitam, quia omnis species acquisita acquiritur mediante sensu et imaginatione[^5], sed species caritatis non cadit in sensu nec in imaginatione. Item non per effectum, quia nemo cognoscit per effectum aliquid, nisi sciat, quod sit illius effectus[^6]. Unde nullus cognoscit per eclypsim interpositionem terrae, nisi sciat, quod interpositio est illius causa. Si ergo per effectum cognoscit, oportet, quod sciat prius, quoniam[^7] illius est causa caritas;
+
+<!-- page 302 -->
+
+et illa praecognoscit caritatem; non ergo per effectum. Si tu dicas, quod cognoscit in illa veritate aeterna, aut hoc erit *effective*, aut *formaliter*. Si effective, sic omnia cognoscuntur in ea, quae omnia facit scire, quaecumque sciuntur; si autem formaliter sive exemplariter, ergo videtur, quod vel imprimit[^8] aliquam speciem in intellectu, vel necesse est, quod ipsa veritas vel exemplar conspiciatur; quorum alterum est supra improbatum[^9], alterum autem manifeste falsum.
+
+**Sed contra:**
+
+1. Peccatores desiderant caritatem; sed nullus desiderat quod non cognoscit, quia incognita non possunt diligi, sicut dicit Augustinus[^10]: ergo ipsi cognoscunt caritatem.
+
+2. Item, aliquis habens caritatem potest habere cognitionem de illa; sed omne quod cadit in intellectu apprehendente, potest in memoria conservari; ponatur ergo, quod imprimatur haec cognitio memoriae, et quod demum[^11] cadat a caritate; constat, quod lapsus a caritate memoriam eius retinuit: ergo adhuc cognoscit eam, ergo caritas potest cognosci a non habente.
+
+3. Item, si caritas cognoscitur ab habente, aut hoc est per essentiam, aut per similitudinem.[^12] Sed probo, quod per similitudinem, quia nihil cognoscit intellectus, nisi ab illo informetur; sed caritas est habitus affectus, ergo secundum essentiam illum[^13] non egreditur: ergo si unitur intellectui et illum informat, hoc est per similitudinem; sed similitudo potest haberi a non habente caritatem: ergo etc.
+
+4. Item, Augustinus dicit *undecimo de Trinitate*[^14], quod ad hoc, quod intellectus intelligat quod est in memoria, necesse est, aciem intellectus informari: ergo multo fortius ad hoc, quod intelligat quod est in voluntate: ergo si intelligit caritatem, informatur intellectus aliquo[^15]; non substantia caritatis: ergo similitudine, ergo idem quod prius.
+
+> **Conclusio.** *Caritas etiam a non habente eam potest cognosci, non cognitione experimentali, sed speculativa, et quidem non per similitudinem a sensibus abstractam, sed per quandam veritatem animae innatam.*
+
+**Respondeo:** Dicendum, quod cognitione experientiae non cognoscitur caritas nisi ab habente; cognitione vero speculationis certum est cognosci caritatem etiam a non habente. Modus autem huius cognitionis non potest esse per caritatis essentiam nec per similitudinem a sensibus acquisitam: ergo necesse est, quod sit per similitudinem infusam, vel innatam. Utraque autem, quae sic cognoscuntur ab homine, dicuntur ab Augustino[^16] cognosci in Veritate aeterna, aut quia Veritas cognitionem infundit, ut Prophetis, aut quia a conditione imprimit, secundum illud[^17]: *Signatum est super nos lumen vultus tui, Domine* etc. Caritas autem non cognoscitur a peccatoribus per speciem infusam: ergo oportet, quod per innatam cognoscatur.
+
+Species autem innata potest esse dupliciter: aut similitudo tantum, sicut species lapidis, aut ita similitudo, quod[^18] etiam quaedam veritas in se ipsa. Prima species est sicut pictura; et ab hac creata est anima nuda. Secunda species est impressio aliqua summae veritatis in anima, sicut verbi gratia animae a conditione sua datum est lumen quoddam directivum et quaedam directio naturalis; data est etiam ei affectio[^19] voluntatis. Cognoscit igitur anima, quid sit rectitudo, et quid affectio, et ita, quid rectitudo affectionis; et cum caritas sit hoc, cognoscit caritatem per quandam veritatem, quae tamen veritas est similitudo caritatis; et tunc recte habet
+
+<!-- page 303 -->
+
+rationem *similitudinis*, dum accipitur ab intellectu; habet tamen rationem *veritatis*, prout est in anima.
+
+Unde quod Augustinus dicit[^20], quod huiusmodi habitus cognoscuntur in ipsa veritate et per similitudines, quae sunt idem quod ipsae[^21], non dicit hoc, quia non fiat aliqua species in intellectu cognoscentis, sed quia in anima non est pura species, sed veritas quaedam ab ipsa veritate impressa; et sic patet responsio ad obiecta.
+
+### Scholion
+
+**I.** Facta distinctione duplicis cognitionis, scil. experientiae (intuitivae) et speculationis (abstractivae), ipsam quaestionem, quae sane pro theoria de cognitione humana magni momenti est, duplici conclusione resolvit. Deinde modum huius cognitionis speculativae septem propositionibus explicat. Pro confirmatione responsionis hic subiungimus, quae de hac re dicunt Petr. a Tar. et Alex. Hal. Petrus (hic q. 1. a. 5. quaestiunc. 2.): «Cognitione experientiae non potest cognosci caritas nisi ab habente, sed cognitione speculativa potest, non per essentiam eius seu per speciem, quae sit idem quod ipsa — sic videtur solum ab habente — sed per speciem seu per similitudinem, quae non est idem quod ipsa; et hoc dupliciter: vel per speciem acquisitam, quae est similitudo eius vel potius actus ipsius, relicta in memoria ad eius praesentiam, et sic videtur ab illo, qui eam aliquando habuit, nisi speciem illam oblivio deleverit, et sic in patria videbit Sanctus, se fidem et spem habuisse, scil. per quoddam vestigium fidei, ut dicit Augustinus *XIV. de Trinitate* c. 3.; vel per speciem intuitam, et sic videri potest a quocumque, non quae sit *species tantum*, ut species lapidis in anima, quia talem speciem non habet anima concreatam caritatis, sed per speciem innatam, quae est res in se, et tamen habet similitudinem cum caritate. Habet enim anima apud se virtutum omnium quaedam semina et per illa habet desiderium et cognitionem quandam universalem virtutum, sicut per principia venit in cognitionem conclusionum». Idem ad obiectionem: *anima creatur ut tabula rasa*, sic respondet: «Hoc intelligitur quoad species, quae sunt intentiones tantum, non res; huiusmodi vero habitus innati in se quidem sunt res, in quantum vero per illos cognoscuntur alii (alia?) ut in simili, sunt quasi species». Haec omnia fere ad verbum concordant cum doctrina Seraphici. Alex. Hal., S. p. III. q. 61. m. 7. a. 1. haec habet: «Quilibet sive bonus sive malus a creatione habet inditam rationem boni et veri, secundum quod dicit Augustinus et Boethius. Sicut ergo in notione principiorum veri est notio conclusionum in universali, ita in notione boni nobis in universali impressa est notio gratiae in universali; et ex illa notione boni possumus scire, quid est gratia in universali, scilicet quod ipsa est quaedam qualitas in anima. Cum enim gratia sit bonum, et habeamus notionem boni in universali nobis impressam, ex illa possumus arguere, gratiam esse; sed haec erit notio in universali, non in ratione propria. Cfr. ibid. q. 28. m. 1. a. 2. Praeter hos cfr. Richard. a Med., hic a. 1. q. 4. Ex his patet, quod intellectus ex innato lumine veritatis potest formare speciem intelligibilem, aciem intellectus informantem, quae simul habeat «rationem similitudinis, dum accipitur ab intellectu, et tamen rationem veritatis, prout est in anima», ut habetur hic in corp.
+
+**II.** Quae in hac quaestione a Seraphico dicuntur non parvi sunt momenti, ut sententia eius de modo cognitionis humanae recte intelligatur. Quid sit *cognoscere in veritate aeterna*, iam explicatum est supra d. 3. p. 1. q. 1. in Scholio. — Quid sit secundum S. Bonaventuram *species innata*, et quo sensu ipsa animae humanae innata dici possit, hic manifeste docetur, scil. quod hoc secundum habitum sive lumen animae concreatum, quod vocatur *naturale iudicatorium*, non secundum *actuales species* sive ideas innatas intelligendum sit. Quod amplius confirmatur et explicatur ab ipso Seraphico Doctore, II. *Sent.* d. 39. a. 1. q. 2, ubi quaeritur, utrum conscientia sit habitus innatus, an acquisitus. Reiecta opinione Platonis, quod habitus cognitivi animae sint simpliciter innati, sed oblivioni dati ad tempus, ipse asserit, tres de hac re esse opiniones, in hoc consentientes, quod habitus cognitivi nec sint omnino innati, nec omnino acquisiti, sed quodam modo innati, quodam modo acquisiti; tamen has dissidere in assignando modum, secundum quem hi habitus sint acquisiti vel innati. Reiectis duabus opinionibus tanquam insufficientibus, concludit, quod «habitus cognitivi sunt quodam modo nobis innati ratione luminis animae inditi, sunt etiam quodam modo acquisiti ratione speciei. Et hoc quidem verbis Philosophi et Augustini concordat. Omnes enim in hoc concordant, quod potentiae cognitivae sit lumen inditum, quod vocatur *naturale iudicatorium*; species autem et similitudines rerum acquiruntur nobis mediante sensu, sicut expresse dicit Philosophus in multis locis; et hoc etiam experientia docet». Tum attendendam esse ait distinctionem inter prima principia valde evidentia, quorum «cognitio ratione illius luminis dicitur esse nobis innata, quia lumen illud sufficit ad illa cognoscenda post receptionem specierum sine aliqua persuasione superaddita propter sui evidentiam», et inter cognitionem particularium conclusionum, quarum cognitio acquisita est pro eo, quod lumen nobis innatum non plene sufficit ad illa cognoscenda, sed indiget aliqua persuasione et habilitatione nova etc. — Denique respondendo ad illam quaestionem, utrum omnis cognitio sit a sensu, sic concludit: «Dicendum est, quod non. Necessario enim oportet ponere, quod anima novit Deum et se ipsam et quae sunt in se ipsa sine adminiculo sensuum exteriorum. Unde si aliquando dicat Philosophus, quod nihil est in intellectu, quod prius non fuerit in sensu, et quod omnis cognitio ortum habeat a sensu, intelligendum est de illis quae quidem habent esse in anima per similitudinem abstractam; et illa dicuntur esse in anima ad modum scripturae. Et propterea valde notabiliter dicit Philosophus, quod in anima nihil scriptum est, non quia nulla est in ea notitia, sed quia nulla est in ea pictura vel similitudo abstracta. Et hoc est, quod dicit August. in libro *de Civit. Dei*: *Inseruit nobis Deus nobile iudicatorium, ubi quid sit lucis, quid tenebrarum, cognoscitur in libro lucis, qui veritas est, quia veritas in corde hominum naturaliter est impressa*». — Hanc sententiam verbotenus sive in hoc sive in alio libro S. Augustini non invenimus. Ipsa autem breviter complectitur, quae S. August. longiore discursu pluries luculenter probat, praesertim *XI. de Civ. Dei* c. 27. n. 2, ubi inter alia ait: «Sed lucem illam incorpoream (animalia) contingere nequeunt, qua mens nostra quodam modo irradiatur, ut de his omnibus recte iudicare possimus. Nam in quantum eam capimus, in tantum id possumus. Verumtamen inest sensibus irrationalium animantium, etsi scientia nullo modo, at certe quaedam scientiae similitudo... Sed nos ea (corporalia) sensu corporis ita capimus, ut de his non sensu corporis iudicemus. Habemus enim alium interioris hominis sensum isto longe praestantiorem, quo iusta et iniusta sentimus: iusta per intelligibilem speciem, iniusta per eius privationem. Ad huius sensus officium non acies pupillae, non foramen auriculae, non spiramenta narium, non gustus faucium, non ullus corporeus tactus accedit. Ibi me et esse et hoc nosse certus sum, et haec amo atque amare me similiter certus sum».
+
+**III.** S. Bonaventura fidelissimum S. Augustini discipulum, sicut in aliis quaestionibus, sic in tota sua de cognitione humana doctrina se comprobat. Unde quae circa hanc materiam in hac quaest. disputat non nisi summarium exhibent eorum, quae S. August. more suo et diffuse tractat in pluribus libris v. g. II. *de Libero Arb.*; *de Vera Religione*, c. 29. seqq.; XII. *de Gen. ad lit.* Operae pretium esse duximus exemplo hoc probare, proponendo ex libris VIII. et IX. *de Trinitate* ea S. Augustini de cognitione humana fundamenta, quae S. Bonaventura hic vel praesupponit, vel explicite asserit.
+
+1. Apertissime ibi distinguit S. Augustinus inter cognitionem sensuum (phantasiae) et intellectus: «Et Carthaginem quidem cum eloqui volo, apud me ipsum quaero, ut eloquar, et apud me ipsum invenio phantasiam Carthaginis, sed eam per corpus accepi, i. e. per corporis sensum... Non autem ita quaero, quid sit iustus, nec ita invenio, nec ita intueor, cum id eloquor» etc. (VIII. c. 6. n. 9.).
+
+2. Distinguit in cognitione intellectuali conceptus formatos per abstractionem a rebus sensibilibus et non formatos per abstractionem: «Neque enim oculis corporeis multas mentes videndo per similitudinem colligimus generalem vel specialem mentis humanae notitiam, sed intuemur inviolabilem veritatem» (IX. c. 6. n. 9.).
+
+3. Asserit, aliquos conceptus intellectuales, quos habemus, supponere experientiam sive externam sive internam: «Sed quid sit mori, et quid sit vivere, utique scimus; quia et vivimus, et mortuos ac morientes aliquando vidimus et experti sumus» (VIII. c. 5. n. 8.).
+
+4. Dicit, animae humanae impressam esse notitiam quarundam rerum: «Neque enim in his omnibus bonis, vel quae commemoravi vel quae alia cernuntur sive cogitantur, diceremus aliud alio melius, cum vere iudicamus, nisi esset nobis impressa notio ipsius boni, secundum quod et probaremus aliquid et aliud illi praeponeremus» (VIII. c. 3. n. 4.). *Habemus enim quasi regulariter infixam humanae naturae notitiam... Secundum species et genera rerum vel natura insita vel experientia collecta, de factis huiuscemodi (miraculis et resurrectione Christi) cogitamus, ut non ficta sit fides nostra* (ibid. c. 4. 5. n. 7.). «Quid igitur de illa excellentia Trinitatis sive specialiter sive generaliter novimus, quasi multae sint tales trinitates, quarum aliquas experti sumus, ut per regulam similitudinis impressam, vel specialem vel generalem notitiam, illam quoque talem esse credamus» etc. (ibid. c. 5. n. 8.).
+
+5. Asserit, quaedam cognosci ab homine in veritate, et etiam *in veritate aeterna*. Minime autem dicit, hoc fieri per immediatum aeternarum rationum conspectum, ut Ontologistae volunt; sed intelligi debet secundum illam interpretationem, quam meliores Scholastici exhibent; cfr. supra d. 3. p. 1. q. 1. Scholion. Libr. VIII. c. 6. n. 9. proponit quaestionem, quae cum illa quae a S. Bonav. hic pertractatur, maxime convenit, scil. quomodo homo iniustus cognoscat animum iustum, quem diligit, eamque ita solvit: «Quid sit *animus*, ut dictum est, novimus ex nobis; inest enim animus nobis. Quid autem sit *iustus*, unde novimus, si iusti non sumus?... An signa quaedam per motum corporis emicant, quibus ille aut ille homo esse iustus apparet? Sed unde novit, illa signa esse animi iusti, nesciens, quid omnino sit iustus? Novit ergo. Sed unde novimus, quid sit iustus, etiam cum iusti nondum sumus? Si extra nos novimus, in corpore aliquo novimus. Sed non est ista res corporis. In nobis igitur novimus, quid sit iustus. Non enim alibi hoc invenio, cum quaero, ut hoc eloquar, nisi apud me ipsum... Et Carthaginem quidem cum eloqui volo, apud me ipsum quaero, ut eloquar, et apud me ipsum invenio phantasiam Carthaginis, sed eam per corpus accepi, i. e. per corporis sensum... Non autem ita quaero, quid sit iustus, nec ita invenio nec ita intueor, cum id eloquor... Illud mirabile est, ut apud se animus videat, quod alibi nusquam vidit, et verum videat, ipsum verum iustum animum videat, et sit ipse animus, et non sit iustus animus, quem apud se ipsum videt. Num est alius animus iustus in animo nondum iusto?... An illud quod videt, veritas est interior, praesens animo, qui eam valet intueri? Neque omnes valent; et qui intueri valent, hoc etiam, quod intuentur, non omnes sunt, hoc est, non sunt etiam ipsi iusti animi, sicut possunt videre ac dicere, quid sit iustus animus. Quod unde esse potuerunt, nisi inhaerendo eidem ipsi formae, quam intuentur, ut inde formentur et sint iusti animi, non tantum cernentes... Et unde inhaeretur illi formae, nisi amando?... Homo ergo, qui creditur iustus, ex ea forma et veritate diligitur, quam cernit et intelligit apud se ille qui diligit; ipsa vero forma et veritas non est, quomodo aliunde diligatur. Neque enim invenimus aliquid tale praeter ipsam, ut eam, cum incognita est, credendo diligamus, ex eo quod iam tale aliquid novimus. Quidquid enim tale aspexeris, ipsa est; et non est quidquam tale, quoniam sola ipsa talis est, qualis ipsa est». Ibid. c. 9. n. 13: «Vivendum tamen sic esse Dei ministris, non de aliquibus auditum credimus, sed intus apud nos, vel potius supra nos *in ipsa veritate* conspicimus. Illum ergo, quem sic vixisse credimus, ex hoc quod videmus diligimus. Et nisi hanc formam, quam semper stabilem atque incommutabilem cernimus, praecipue diligeremus, non ideo diligeremus illum, quia eius vitam, cum in carne viveret, huic formae coaptatam et congruentem fuisse fide retinemus». Libr. IX. c. 6. n. 9: «Intuemur inviolabilem veritatem, ex qua perfecte, quantum possumus, definiamus, non qualis sit uniuscuiusque hominis mens, sed qualis esse sempiternis rationibus debeat». Ibid. n. 11: «Ipsa vera forma inconcussae ac stabilis veritatis, et in qua fruerer homine, bonum eum credens, et in qua consulo, ut bonus sit, eadem luce incorruptibilis sincerissimaeque rationis et meae mentis aspectum et illam phantasiae nubem, quam desuper cerno, cum eundem hominem, quem videram, cogito, imperturbabili aeternitate perfundit». Ibid. c. 7. n. 12: «In illa igitur aeterna veritate, ex qua temporalia facta sunt omnia, formam, secundum quam sumus et secundum quam vel in nobis vel in corporibus vera et recta ratione aliquid operamur, visu mentis aspicimus, atque inde conceptam rerum veracem notitiam tanquam *verbum* apud nos habemus et dicendo intus gignimus, nec a nobis na[scendo discedit]».
+
+6. Ultima haec verba aliam Augustinianae sententiae partem indicant, quam S. Bonav. in fine huius quaestionis attingit, scil. quod *habitus animae, qui cognoscuntur in ipsa veritate et per similitudines, quae idem sunt quod ipsae* (res i. e. habitus), non cognoscantur absque aliqua specie in intellectu cognoscentis formata. Libr. IX. c. 3. n. 3. ait: «Mens ergo ipsa, sicut corporearum rerum notitias per sensus corporis colligit, sic incorporearum per semetipsam. Ergo et semetipsam per se ipsam novit, quoniam est incorporea». — Ibid. c. 11. n. 16. loquendo de cognitione Dei ostendit, quod in ipsa «fit aliqua Dei similitudo illa notitia; tamen inferior est, quia in inferiore natura est; creatura quippe animus, Creator autem Deus. Ex quo colligitur, quia cum se mens ipsa novit atque approbat, sic est eadem notitia verbum eius, ut ei sit par omnino et aequale atque identidem, quia neque inferioris essentiae notitia est, sicut corporis, neque superioris, sicut Dei. Et cum habeat notitia similitudinem ad eam rem, quam novit, hoc est, cuius notitia est, haec habet perfectam» etc.
+
+---
 
 ## English
 
-[Translation pending]
+### Question IV. *Whether charity in general can be known also by one not having it.*
+
+Fourthly it is asked whether charity is knowable by one not having it; and that it is not, seems to be the case:
+
+1. Because everything that is known is known either through essence or through likeness. But[^1] not through essence, since it is not essentially in the soul of a sinner: if therefore it is known, this is through likeness. But on the contrary: on Second *Corinthians*, twelve[^2], the Gloss says: «The third kind of vision, by which intellective love is beheld, contains those things which do not have images like themselves, which are not themselves»: therefore the likeness of charity is nothing other than charity: therefore if anyone lacks charity, he lacks also the likeness of it, and so he never knows charity.
+
+2. Likewise, if one not having charity knows it, then either through an innate species, or through an acquired one, or through an effect, or through the first light.[^3] Not through an innate species, since the soul is created as a blank tablet[^4]; not through an acquired species, since every acquired species is acquired by means of sense and imagination[^5], but the species of charity does not fall within sense or imagination. Likewise not through an effect, since no one knows anything through an effect unless he knows that it is the effect of that thing[^6]. Whence no one knows the eclipse through the interposition of the earth, unless he knows that the interposition is the cause of it. If therefore he knows through an effect, it is necessary that he know beforehand that[^7] charity is the cause of it; and so he foreknows charity; therefore not through an effect. If you say that he knows in that eternal truth, this will be either *effectively* or *formally*. If effectively, then in this way all things that are known are known in it, since it makes one know whatever is known; but if formally, that is, exemplarily, then it seems that either it impresses[^8] some species in the intellect, or it is necessary that the truth itself or the exemplar be beheld; of which the one was disproved above[^9], but the other is manifestly false.
+
+**On the contrary:**
+
+1. Sinners desire charity; but no one desires what he does not know, since unknown things cannot be loved, as Augustine says[^10]: therefore they themselves know charity.
+
+2. Likewise, someone having charity can have knowledge of it; but everything that falls within the apprehending intellect can be preserved in the memory; suppose then that this knowledge is impressed upon the memory, and that finally[^11] one falls from charity; it is established that one fallen from charity has retained the memory of it: therefore he still knows it; therefore charity can be known by one not having it.
+
+3. Likewise, if charity is known by one having it, this is either through essence or through likeness.[^12] But I prove that it is through likeness, since the intellect knows nothing unless it be informed by it; but charity is a habit of the affective part, therefore as to its essence it does not pass over into it[^13]: therefore if it is united to the intellect and informs it, this is through likeness; but a likeness can be had by one not having charity: therefore etc.
+
+4. Likewise, Augustine says, in the *eleventh book On the Trinity*[^14], that for the intellect to understand what is in the memory, it is necessary that the gaze of the intellect be informed: therefore much more strongly, for it to understand what is in the will: therefore if it understands charity, the intellect is informed by something[^15]; not by the substance of charity: therefore by a likeness, therefore the same as before.
+
+> **Conclusio.** *Charity even by one not having it can be known, not by experimental knowledge, but by speculative knowledge, and indeed not through a likeness abstracted from the senses, but through a certain truth innate to the soul.*
+
+**I respond:** It must be said that by the knowledge of experience charity is not known except by one having it; but by the knowledge of speculation it is certain that charity is known also by one not having it. The mode, however, of this knowledge cannot be through the essence of charity nor through a likeness acquired from the senses: therefore it is necessary that it be through a likeness either infused or innate. Both kinds, however, that are thus known by man, are said by Augustine[^16] to be known *in the eternal Truth*, either because the Truth infuses the knowledge, as to the Prophets, or because it impresses [it] from creation, according to that text[^17]: *The light of thy countenance, O Lord, is sealed upon us* etc. But charity is not known by sinners through an infused species: therefore it must be that it is known through an innate one.
+
+But an innate species can be in two ways: either a likeness only, like the species of a stone, or a likeness in such a way that[^18] it is also a certain truth in itself. The first species is like a picture; and of this the soul has been created bare. The second species is some impression of the highest truth on the soul, as for example to the soul there has been given from its very condition a certain directive light and a certain natural direction; there has also been given to it an affection[^19] of the will. The soul therefore knows what rectitude is, and what affection is, and so what the rectitude of affection is; and since charity is this, it knows charity through a certain truth, which truth nevertheless is the likeness of charity; and then it rightly has the character of *likeness*, insofar as it is received by the intellect; yet it has the character of *truth*, insofar as it is in the soul.
+
+Whence what Augustine says[^20], that habits of this sort are known in the truth itself and through likenesses which are the same as those things themselves[^21], he does not say this because no species comes to be in the intellect of the knower, but because in the soul there is not a pure species, but a certain truth impressed by the truth itself; and so the response to the objections is plain.
+
+### Scholion
+
+**I.** Having drawn the distinction of the twofold knowledge, namely of experience (intuitive) and of speculation (abstractive), he resolves the question itself — which is indeed of great moment for the theory of human cognition — by a twofold conclusion. Then he explains the mode of this speculative knowledge in seven propositions. By way of confirmation of the response, we add here what Peter of Tarentaise and Alexander of Hales say on this matter. Peter (here q. 1, a. 5, *quaestiuncula* 2): «By the knowledge of experience, charity cannot be known except by one having it, but by speculative knowledge it can — not through its essence or through a species which is the same thing as it (so it seems to be seen only by one having it) but through a species or likeness which is not the same as it; and this in two ways: either through an acquired species, which is its likeness, or rather an act of it, left in the memory at its presence, and so it is seen by one who at some time had it, unless oblivion has erased that species (and thus in the homeland the saint will see that he had had faith and hope, namely through a certain *vestige of faith*, as Augustine says in *XIV On the Trinity*, c. 3); or through a species seen [intuited], and thus it can be seen by anyone — not one which is *species only*, like the species of a stone in the soul, since the soul does not have such a co-created species of charity, but through an innate species, which is a thing in itself, and yet has likeness with charity. For the soul has within it certain seeds of all the virtues, and through them it has a certain universal desire and knowledge of the virtues, just as through principles it comes into the knowledge of conclusions». The same author, to the objection *the soul is created as a blank tablet*, responds thus: «This is to be understood with respect to species which are intentions only, not things; but innate habits of this sort are indeed things in themselves, but inasmuch as through them other things (others?) are known as in something similar, they are as it were species». All these things agree almost word for word with the doctrine of the Seraphic [Doctor]. Alexander of Hales, in *Summa* p. III, q. 61, m. 7, a. 1, has these things: «Anyone, whether good or wicked, has from creation an imparted account of the good and the true, according to what Augustine and Boethius say. Just as therefore in the notion of the principles of the true there is the notion of the conclusions in general, so in the notion of the good impressed upon us in general there is the notion of grace in general; and from that notion of the good we can know what grace is in general, namely that it is itself a certain quality in the soul. For since grace is good, and we have the notion of the good in general impressed upon us, from it we can argue that grace exists; but this will be a notion in general, not in its own proper account». Cf. in the same place q. 28, m. 1, a. 2. Besides these, cf. Richard of Mediavilla, here a. 1, q. 4. From these things it is plain that the intellect, from the innate light of truth, can form an intelligible species informing the gaze of the intellect, which together has «the character of likeness, insofar as it is received by the intellect, and yet the character of truth, insofar as it is in the soul», as is found here in the body [of the question].
+
+**II.** What is said in this question by the Seraphic [Doctor] is of no small moment, in order that his opinion concerning the mode of human cognition be rightly understood. What it is *to know in the eternal truth* has already been explained above at d. 3, p. 1, q. 1, in the Scholion. — What according to St. Bonaventure an *innate species* is, and in what sense it can be called innate to the human soul, is here manifestly taught, namely that this is to be understood in the sense of a habit or light of the soul co-created [with it], which is called *natural judicatory*, not in the sense of *actual species* or innate ideas. This is further confirmed and explained by the Seraphic Doctor himself in II *Sentences*, d. 39, a. 1, q. 2, where it is asked whether conscience is an innate or acquired habit. Having rejected the opinion of Plato — that the cognitive habits of the soul are innate without qualification, but given over to oblivion for a time — he himself asserts that there are three opinions on this matter, agreeing in this, that the cognitive habits are neither wholly innate nor wholly acquired, but in a certain way innate, in a certain way acquired; yet that these differ in assigning the mode by which these habits are acquired or innate. Having rejected the first two opinions as insufficient, he concludes that «cognitive habits are in a certain way innate to us by reason of the light imparted to the soul, and they are also in a certain way acquired by reason of the species. And this indeed agrees with the words of the Philosopher and of Augustine. For all agree in this, that there is a light imparted to the cognitive power, which is called *natural judicatory*; but the species and likenesses of things are acquired by us by means of sense, as the Philosopher expressly says in many places; and experience also teaches this». Then he says that one must attend to the distinction between first principles which are highly evident, of which «the knowledge by reason of that light is said to be innate to us, since that light is sufficient for knowing them, after the reception of the species, without any added persuasion, on account of their evidence», and the knowledge of particular conclusions, the knowledge of which is acquired, since the light innate to us does not fully suffice for knowing them, but requires some new persuasion and habituation, etc. — Finally, in answering the question whether all knowledge is from sense, he concludes thus: «It must be said that not [all is]. For it is necessary to posit that the soul knows God and itself and the things that are in itself without the aid of the external senses. Whence if at any time the Philosopher says that there is nothing in the intellect which was not first in sense, and that all knowledge takes its origin from sense, this is to be understood of those things which indeed have being in the soul through an *abstracted likeness*; and these are said to be in the soul *after the manner of writing*. And on this account the Philosopher very notably says that in the soul nothing is written — not because there is no notice in it, but because there is in it no picture or abstracted likeness. And this is what Augustine says in his book *On the City of God*: *God has implanted in us a noble judicatory, where what is light, what is darkness, is known in the book of light, which is truth, since truth is naturally impressed upon the heart of men*». — This sentence verbatim either in this or in another book of St. Augustine we have not found. Yet it briefly sums up what St. Augustine in a longer discourse repeatedly proves clearly, especially *XI On the City of God*, c. 27, n. 2, where among other things he says: «But that incorporeal light (animals) cannot reach, by which our mind is in some way irradiated, that we may rightly judge of all these things. For insofar as we grasp it, so far we are able [to do this]. Yet there is in the senses of irrational animals, even if no knowledge at all, certainly a certain likeness of knowledge... But we so grasp them (corporeal things) by the sense of the body that we judge of these things not by the sense of the body. For we have another sense, of the inner man, far more excellent than that, by which we sense just and unjust things: just things by an intelligible species, unjust things by the privation of it. To the office of this sense neither the keenness of the pupil, nor the opening of the ear, nor the breathing-passage of the nostrils, nor the taste of the throat, nor any bodily touch reaches. There I am certain that I am, and that I know this, and I love these things, and I am likewise certain that I love».
+
+**III.** St. Bonaventure shows himself to be a most faithful disciple of St. Augustine, as in other questions, so in his whole doctrine concerning human cognition. Whence what he disputes concerning this matter in this question presents nothing but a summary of what St. Augustine in his usual manner discusses at length in many books, e.g., II *On Free Will*; *On True Religion*, c. 29 ff.; XII *On Genesis Literally*. We have judged it worth the trouble to prove this by an example, by setting forth from books VIII and IX *On the Trinity* those foundations of St. Augustine concerning human cognition which St. Bonaventure here either presupposes or explicitly asserts.
+
+1. Most openly there St. Augustine distinguishes between the cognition of the senses (of the phantasy) and that of the intellect: «And when I wish to speak of Carthage, I seek within myself, that I may speak it, and within myself I find the phantasm of Carthage, but I have received it through the body, that is, through the sense of the body... But I do not so seek what *just* is, nor so find, nor so behold, when I speak of it» etc. (VIII, c. 6, n. 9).
+
+2. He distinguishes within intellectual cognition concepts formed by abstraction from sensible things and those not formed by abstraction: «For we do not, by seeing many minds with the bodily eyes, gather through likeness a general or special notion of the human mind, but we behold the inviolable truth» (IX, c. 6, n. 9).
+
+3. He asserts that some intellectual concepts which we have presuppose either external or internal experience: «But what it is to die, and what it is to live, we surely know; for we live, and we have at some time seen and experienced the dead and the dying» (VIII, c. 5, n. 8).
+
+4. He says that the notice of certain things has been impressed upon the human soul: «For neither in all those goods, whether those which I have mentioned or whatever others are perceived or thought, would we say that one is better than another, when we judge truly, unless the *notion of the good itself* were impressed upon us, according to which we both approve something and prefer one thing to another» (VIII, c. 3, n. 4). *For we have the notice of human nature as it were regularly fixed in us... According to the species and genera of things, either by an inborn nature or by experience gathered, we think about facts of this kind (the miracles and resurrection of Christ), so that our faith may not be feigned* (ibid., c. 4, 5, n. 7). «What therefore do we know, whether specifically or generally, of that excellence of the Trinity, as if there were many such trinities, of some of which we have had experience, that by the rule of the impressed likeness, of either special or general notice, we should believe that one too to be such?» etc. (ibid., c. 5, n. 8).
+
+5. He asserts that some things are known by man *in the truth*, and even *in the eternal truth*. Yet he by no means says that this happens through an immediate gaze upon the eternal reasons, as the Ontologists wish; but it must be understood according to that interpretation which the better Scholastics offer; cf. above d. 3, p. 1, q. 1, Scholion. In bk. VIII, c. 6, n. 9, he proposes a question which agrees most with the one here treated by St. Bonaventure, namely how the unjust man knows the just mind which he loves, and resolves it thus: «What *mind* is, as has been said, we know from ourselves, for there is mind in us. But what *just* is, whence do we know, if we are not just?... Or do certain signs flash forth through the motion of the body, by which this man or that appears to be just? But whence does one know that those signs are of a just mind, not knowing what just is at all? Therefore he does know. But whence do we know what just is, even when we are not yet just? If we know it outside ourselves, we know it in some body. But this thing is not of a body. Therefore in ourselves we know what just is. For I do not find this elsewhere when I seek, that I may speak it, except within myself... And when I wish to speak of Carthage, I seek within myself, that I may speak it, and within myself I find the phantasm of Carthage, but I have received it through the body, i.e., through the sense of the body... But I do not so seek what *just* is, nor so find nor so behold, when I speak it... It is wonderful that the mind sees within itself what it has seen nowhere else, and sees it as true, and sees the true just mind, and is itself a mind, and is not a just mind, which it sees within itself. Is there another just mind in a mind not yet just?... Or is what it sees an inner truth, present to the mind which is able to behold it? Not all are able; and those who are able to behold, even what they behold they themselves are not all, that is, they themselves are not just minds either, [though] they can see and say what a just mind is. Whence could they have done this, except by adhering to that very form which they behold, that thence they may be formed and may be just minds, not only beholding... And whence does one adhere to that form, except by loving?... The man therefore who is believed to be just, is loved out of that form and truth which he who loves discerns and understands within himself; but the form and truth itself does not exist in such a way that it could be loved from elsewhere. For we do not find anything such besides itself, that, when it is unknown, we should love it by believing, from the fact that we already know something such. For whatever such you behold, it is itself; and there is not anything such, since it alone is such as it itself is». Ibid., c. 9, n. 13: «That however God's ministers must so live we do not believe by hearsay from anyone, but inwardly within ourselves, or rather above ourselves, we behold *in the truth itself*. Him therefore whom we believe to have so lived, we love from this, that we see [him]. And unless we especially loved this form, which we always behold as stable and unchangeable, we should not therefore love him, since we hold by faith that his life, while he was living in the flesh, was fitted and conformed to this form». Bk. IX, c. 6, n. 9: «We behold the inviolable truth from which we may, as perfectly as we can, define not what each man's mind is, but what it ought to be by the eternal reasons». Ibid., n. 11: «That very form of unshaken and stable truth, both in which I might enjoy the man, believing him good, and in which I take counsel that he be good, with the same light of incorruptible and most sincere reason floods both the gaze of my mind and that cloud of phantasy which I see from above, when I think of the same man whom I had seen, with imperturbable eternity». Ibid., c. 7, n. 12: «In that eternal truth therefore, from which all temporal things have been made, we behold with the gaze of the mind the form according to which we are and according to which by true and right reason we do anything either in ourselves or in bodies, and from there we have within us as it were a *word*, the truthful notice of things conceived, and by speaking we beget [it] within, nor in being born does it depart from us».
+
+6. These last words indicate another part of the Augustinian opinion, which St. Bonaventure touches on at the end of this question, namely that *the habits of the soul which are known in the truth itself and through likenesses which are the same as those things themselves* (i.e., the habits), are not known without some species formed in the intellect of the knower. In bk. IX, c. 3, n. 3, he says: «The mind itself therefore, just as it gathers the notices of corporeal things through the senses of the body, so [gathers] those of incorporeal things through itself. Therefore it knows itself also through itself, since it is incorporeal». — Ibid., c. 11, n. 16, speaking of the cognition of God, he shows that in it «that notice becomes some likeness of God; yet it is inferior, because it is in an inferior nature; for the mind is a creature, but God is the Creator. From which it is gathered that, when the mind itself knows and approves itself, that very notice is its word, so as to be altogether equal and on a par and identical with it, since the notice is neither of an inferior essence, like that of a body, nor of a superior, like that of God. And since the notice has a likeness to that thing which it knows, that is, of which it is the notice, this [notice] has the perfect [likeness]» etc.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi NOTA AD COMMENTARIUM in Latin followed by an English rendering.
 
-## Notes
+[^1]: **La.** Ex mss. et edd. 1, 2, 3 supplevimus *scilicet*. Paulo infra plures codd. ut A G H I R T etc. cum ed. 1 *id* loco *illud*.
 
-[Notes pending]
+    **En.** From the manuscripts and editions 1, 2, 3 we have supplied *scilicet*. A little below, several manuscripts such as A, G, H, I, R, T, etc., with the first edition, read *id* in place of *illud*.
+
+[^2]: **La.** Vers. 4. — Glossa sumta est ex August., XII. *de Gen. ad lit.* c. 6. n. 15, ubi cum ed. 1 pro *intellectiva* habetur *intellecta*, et talis explicatio adiungitur: *Nam homo vel arbor vel sol et quaecumque alia corpora sive caelestia sive terrestria, et praesentia videntur in suis formis, et absentia cogitantur imaginibus animo impressis, et faciunt duo genera visorum, unum per corporis sensus, alterum per spiritum, quo illae imagines continentur. Dilectio autem numquid aliter videtur praesens in specie qua est, et aliter absens in aliqua imagine sui simili? Non utique, sed quantum mente cernitur, ab alio magis, ab alio minus ipsa cernitur; aliquid corporalis imaginis cogitatur, non ipsa cernitur.*
+
+    **En.** Verse 4. — The Gloss is taken from Augustine, XII *On Genesis Literally*, c. 6, n. 15, where, with the first edition, *intellecta* is read in place of *intellectiva*, and this explanation is added: *For a man or a tree or the sun and whatever other bodies, whether heavenly or earthly, both are seen as present in their own forms, and as absent are thought through images impressed upon the mind, and they make two kinds of things seen, one through the senses of the body, the other through the spirit by which those images are contained. But love — is it perhaps seen in one way as present in the species in which it is, and in another way as absent in some image like itself? By no means — but inasmuch as it is discerned by the mind, by one [it is discerned] more, by another less; something of a bodily image is thought, but it itself is not discerned.*
+
+[^3]: **La.** Vat., paulo ante post *innatam* addito *seu lucem propriam*, hic omittit *aut per primam lucem*, sed refragantibus omnibus mss.; ed. 1 autem habet *aut in prima luce*.
+
+    **En.** The Vatican edition, having a little before, after *innatam*, added *seu lucem propriam*, here omits *aut per primam lucem*, but with all the manuscripts opposing it; but the first edition reads *aut in prima luce*.
+
+[^4]: **La.** Aristot., III. *de Anima*, text. 14 (c. 4): *Oportet autem sic, ut in tabula in qua nihil est scriptum actu, quod quidem accidit in intellectu.*
+
+    **En.** Aristotle, III *On the Soul*, text 14 (c. 4): *It must be so, as in a tablet in which nothing is actually written, which indeed happens in the intellect.*
+
+[^5]: **La.** Cfr. Aristot., III. *de Anima*, text. 30. et 39. (c. 7. et 8.); et *de Sensu et sensibili* c. 6.
+
+    **En.** Cf. Aristotle, III *On the Soul*, text 30 and 39 (c. 7 and 8); and *On Sense and the Sensible*, c. 6.
+
+[^6]: **La.** Ita multi codd. ut A B H I X S T V Y Z cc ff brevius et perbene, in quorum lectione *illius* refertur ad praecedens *aliquid*, dum alii cum Vat. eodem licet sensu, sed constructione propositionis variata, *quod causa sit illius effectus*.
+
+    **En.** So many manuscripts such as A, B, H, I, X, S, T, V, Y, Z, cc, ff, more concisely and very well, in whose reading *illius* refers to the preceding *aliquid*, while others, with the Vatican edition, in the same sense indeed, but with the construction of the sentence varied, [read] *quod causa sit illius effectus*.
+
+[^7]: **La.** Cod. X *quod* loco *quoniam*.
+
+    **En.** Codex X reads *quod* in place of *quoniam*.
+
+[^8]: **La.** Aliqui codd. ut aa bb cum ed. 1 *imprimat*. Mox ed. 1 post *veritas* habet *sive* pro *vel*.
+
+    **En.** Some manuscripts such as aa, bb, with the first edition, read *imprimat*. Next the first edition, after *veritas*, has *sive* in place of *vel*.
+
+[^9]: **La.** In principio huius argumenti, ubi arguitur, quod caritas cognosci non possit per speciem innatam.
+
+    **En.** At the beginning of this argument, where it is argued that charity cannot be known through an innate species.
+
+[^10]: **La.** Libr. X. *de Trin.* c. 1. n. 1: *Quod quisque prorsus ignorat amare nullo pacto potest.*
+
+    **En.** Bk. X *On the Trinity*, c. 1, n. 1: *What anyone is wholly ignorant of, he can in no way love.*
+
+[^11]: **La.** Cod. X *deinde*.
+
+    **En.** Codex X reads *deinde*.
+
+[^12]: **La.** In Vat. praeter fidem mss. et ed. 1 additur: *Per essentiam non, constat*, et mox loco *probo* habetur *probatur*.
+
+    **En.** In the Vatican edition, against the testimony of the manuscripts and the first edition, is added: *Not through essence, that is plain*, and shortly after, in place of *probo*, *probatur* is read.
+
+[^13]: **La.** Intellige: *affectum*. Vat. cum cod. cc perperam, et ceteris codd. cum ed. 1 refragantibus, *illam*; quae et paulo infra loco *sed* ponit *et haec*.
+
+    **En.** Understand: *the affective [part]*. The Vatican edition, with codex cc, wrongly — and against the other manuscripts with the first edition — reads *illam*; which also, a little below, in place of *sed*, puts *et haec*.
+
+[^14]: **La.** Cap. 1. et 8. n. 1–14, ubi inter alia dicit: *Sed cum cogitatur, ex illa (specie) quam memoria tenet, exprimitur in acie cogitantis, et reminiscendo formatur ea species, quae quasi proles est eius quam memoria tenet.*
+
+    **En.** Chs. 1 and 8, nn. 1–14, where among other things he says: *But when [it] is thought, from that (species) which the memory holds, [a species] is expressed in the gaze of the thinker, and by remembering there is formed that species which is, as it were, the offspring of the one which the memory holds.*
+
+[^15]: **La.** Ope mss. et edd. 1, 2, 3 expunximus hic a Vat. additam particulam *et*.
+
+    **En.** With the help of the manuscripts and editions 1, 2, 3 we have struck out here the particle *et*, added by the Vatican edition.
+
+[^16]: **La.** Vide infra Scholion, ubi fusius proposita est sententia August. de modo cognitionis humanae. De cognitione prophetali cfr. XII. *de Genes. ad lit.* c. 31. n. 59: *Aliud autem est ipsum lumen, quo illustratur anima, ut omnia vel in se vel in illo veraciter intellecta conspiciat; nam illud iam ipse Deus est* etc.
+
+    **En.** See below the Scholion, where Augustine's opinion concerning the mode of human cognition is set forth more fully. On prophetic cognition cf. XII *On Genesis Literally*, c. 31, n. 59: *But another thing is the light itself, by which the soul is illuminated, so that it may behold all things either in themselves or in it as truthfully understood; for that [light] now is God himself* etc.
+
+[^17]: **La.** Psalm. 4, 7. — Paulo ante Vat. contra plurimos codd. et ed. 1 nomini *Prophetis* praefigit perperam *in*, et mox contra omnes codd. et edd. 1, 2, 3 habet *imprimitur* loco *imprimit*.
+
+    **En.** Psalm 4, 7. — A little before, the Vatican edition, against many manuscripts and the first edition, wrongly prefixes *in* to the noun *Prophetis*, and shortly after, against all the manuscripts and editions 1, 2, 3, reads *imprimitur* in place of *imprimit*.
+
+[^18]: **La.** Cod. X addit *est*.
+
+    **En.** Codex X adds *est*.
+
+[^19]: **La.** In cod. O additur *naturalis*.
+
+    **En.** In codex O *naturalis* is added.
+
+[^20]: **La.** Vat. praeter fidem mss. et quinque primarum edd. *cum Augustinus dicat*.
+
+    **En.** The Vatican edition, against the testimony of the manuscripts and the first five editions, reads *cum Augustinus dicat*.
+
+[^21]: **La.** Supple: *res*, quae hoc in casu sunt habitus. Vide supra arg. 1. ad opp. Vat. incongrue *ipse*. Notum est, in codd. eodem modo scribi *ipse* et *ipsae*. — Mox fide mss. et ed. 1 substituimus *fiat* loco *sit*. In fine responsionis ed. 1 *solutio* pro *responsio*.
+
+    **En.** Supply: *res* (things), which in this case are habits. See above arg. 1 *ad oppositum*. The Vatican edition incongruously reads *ipse*. It is known that in the codices *ipse* and *ipsae* are written in the same way. — Next, on the testimony of the manuscripts and the first edition, we have substituted *fiat* in place of *sit*. At the end of the response, the first edition reads *solutio* in place of *responsio*.
+

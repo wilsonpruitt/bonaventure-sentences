@@ -261,3 +261,91 @@ Both rendered consistently, *defectus* = "defect" / "fell short" in this chunk.
 - **Apparatus [^21] `Libr. II Sent. d. 2.3.`**: OCR `2.3.` clearly = `23`; likewise `1-3` for `q. 1-3`; rendered as such.
 - **Apparatus [^22] codex list `ABDFGHiVqTZ ee (f`**: OCR's `iV` and `(f` likely = `N` and `ff`. Rendered as A, B, D, F, G, H, N, q, T, Z, ee, ff.
 - **Page-break placement**: signature `38` between p. 297 and p. 298 fixed at `Et si quaeratur`. Mid-respondeo `297` marker placed at the body break before *tiae, quia Augustinus loquitur*; that landed mid-sentence in OCR, so the `<!-- page 297 -->` is set at the start of the *Ad 1* paragraph for readability. Not a substantive shift.
+
+## merged from tier2-ambiguities-d17-a1-q3.md
+# Tier-2 ambiguities log — d17-p1-a1-q3
+
+Per-chunk staging file. Concatenate into main `tier2-ambiguities.md` after parallel agents land.
+
+## Resolved silently from OCR garbles
+
+- Heading `gl!.\ESTIO [11.` → `QUAESTIO III.` (well-attested OCR ligature: `gl!.\E` → `QUAES`; bracket `[` → `1`).
+- Subheading `Ulrum (jim cerlitudinalUer scire po.isit, se csse in carilnte.` → `Utrum quis certitudinaliter scire possit, se esse in caritate.` (`(jim` → `quis`; `U` mid-word → `i`; `csse` → `esse`).
+- Numbered fundamentum 5 printed in OCR as `0.` (zero) — restored to `5.` from context (it follows fund. 4 and continues the *videtur quod sic* series).
+- Conclusion block printed `ffotno in slatu viae, seclma revelatimie` → `Homo in statu viae, sed sine revelatione`. The OCR `seclma` is hard to read; restored as `sed sine` per the substantive corollary that revelation is the only path to certainty (matches respondeo's "nisi per revelationem").
+- Contra arg 4 OCR: `haheris caritatem est Deo acceptus, e) hoc*` — restored to `habentis caritatem est Deo acceptus, et hoc` (genitive `habentis` is the natural construction "[it belongs to] the one having charity to be acceptable to God"; `e)` → `et`).
+- Respondeo §3 OCR `Una el praecipua` → `Una et praecipua` (one well-attested glyph slip).
+- Footnote 8 OCR `Vat. cnm cnd. cc aii itiis, el niox infrii loco ita` is murky — preserved as `Vat. cum cod. cc *ab itiis*, et mox infra loco *ita*`. The variant `ab itiis` is implausible; could be `ab istis` or another reading. Flagged below.
+
+## `[?]` flags (none kept inline this round)
+
+I resolved silently above rather than leaving inline `[?]`. Concerns to surface to a second reviewer:
+
+1. **fn 8 `ab itiis`** — almost certainly an OCR garble of *ab istis* or similar; the Vatican-codex-cc reading should be cross-checked against PDF p. 298 if a clean print is at hand.
+2. **Conclusion `seclma revelatimie`** — restored `sed sine revelatione` on doctrinal grounds; the second word might also read *secundum* (yielding "according to revelation"), but that flips the sense and contradicts the respondeo, so `sed sine` is the safer reading.
+3. **Sub-conclusion marginal labels** `conchjsio 1.`, `conchisio 2.`, `Raiio I.`–`Raiio IV.`, `concin` (margin labels in Quaracchi) were dropped from the body since the printed margin glosses are not part of Bonaventure's text. The structure they label is preserved by paragraph breaks and explicit numbering.
+4. **Apostolus footnote (page 299)** — fund. 5 contra (`Apostolus '`) cites *I. Cor. 4, 4* per OCR fn 1; this is the same passage as contra arg. 2's footnote 7. Both anchors retained.
+
+## merged from tier2-ambiguities-d17-a1-q4.md
+# Tier-2 Ambiguities — d.17 p.1 a.1 q.4 (2026-05-02)
+
+Per-chunk staging file. Concatenate into the main `tier2-ambiguities.md` after this chunk + sibling q.3 + dubia all complete.
+
+## Resolved silently from OCR + context
+
+- **Title (running head, OCR garbled)**: OCR reads `Ulrum  carilas  in  universali  sit  cognoscibilis  etiam  a  non  habente  eah` — clearly the printed running head with `eam` mangled to `eah` and `Utrum` to `Ulrum`. Resolved to *Utrum caritas in universali sit cognoscibilis etiam a non habente eam*. (Cross-checked against the divisio's *tractatio quaestionum*, which gives the shorter form *si possit cognosci a non habente*; the running head adds *in universali*, *etiam*, and *eam*, all consistent with Quaracchi practice. Title kept as printed.)
+- **arg. 1, OCR `Sed ^ non per essentiam`**: footnote-anchor `^` displaced after `Sed`. Apparatus entry [^3] in the Quaracchi (re-numbered [^1] here) explicitly says *Ex mss. et edd. 1, 2, 3 supplevimus scilicet*, so the footnote anchor belongs to the supplied *scilicet* (which the editors place after *Sed*). Marker placed at end of `Sed`.
+- **arg. 1, OCR `secundae ad Corinthios duodecimo` + `quae non sunt ipsae»`**: the Glossa quotation has `intellectiva` for `intellecta` per apparatus [^2]; preserved Bonaventure's reading.
+- **arg. 2, OCR `aut per primam lucem ^`**: the `^` is the apparatus marker for [^3] (Vat. omits *aut per primam lucem*); placed at end of clause.
+- **resp., OCR `Cognoscit igitur anima, quid sit reclitudo`**: `reclitudo` → *rectitudo* (cl/ct OCR confusion). Silent fix.
+- **resp., OCR `et quaedani directio uaturalis`**: `quaedani` → *quaedam*; `uaturalis` → *naturalis*. Silent fix.
+- **Scholion II, OCR `Necessario enim oportet ponere, quod anima novit Deiim et se ipsam`**: `Deiim` → *Deum*; silent.
+- **Scholion III, no. 5, citation closing**: OCR ends `nec a nobis na-` mid-word with line break and no closing quote/bracket. The Augustinian phrase from *de Trin.* IX. c. 7. n. 12 is *nec a nobis nascendo discedit*. Restored as `nec a nobis na[scendo discedit]».` with editorial brackets indicating the printed text's truncation.
+- **Scholion III, no. 4, OCR `(VIII.  c.  3.  n.  i.)`**: the lowercase `i` is a Roman numeral typo for `4`; the cited passage is *de Trin.* VIII c. 3 n. 4. Resolved to `n. 4`.
+- **Scholion III, no. 4, OCR `n.  7.).` after `(ibid.  c.  i.  5.  n.  7.)`**: `c. i. 5.` is OCR confusion of `c. 4. 5.` (Augustine *de Trin.* VIII c. 4–5 n. 7). Resolved.
+
+## Flagged `[?]` (none in body)
+
+No inline `[?]` flags in body. All ambiguities resolved against context + sibling chunks (q.1, q.2 doctrinal anchors) + apparatus content.
+
+## Note on apparatus numbering
+
+The printed Quaracchi has 13 footnotes on p. 301 (numbered 1–13) and 12 footnotes spanning pp. 302–303 (re-started 1–12 in two batches: pp. 302 has 1–12, p. 303 has 1–2). Per Tier-2 convention, anchors renumbered continuously 1–21 in this chunk. Page 303 footnotes 1–2 (which gloss the closing *Unde quod Augustinus dicit* paragraph) became [^20] and [^21] here.
+
+## Cross-references confirmed
+
+- **Doctrinal anchor** *cognitio experientiae* / *cognitio speculationis* (intuitive / abstractive distinction) introduced here; foreshadowed in q.3 (per divisio frame).
+- **Anselm reflexive-will citation** in Scholion I subordinate point matches q.2's [^19] (*Anselmus, libr. de Concord. praesc. et lib. arb. q. 3. c. 11*) — same locus, same point, different framing.
+- **Scholion III, no. 5** cites *de Trin.* VIII c. 6 n. 9 — same Augustinian text Bonaventure leans on in q.1 for the *quo diligimus Deum* analysis. The "iniustus knowing iustus" question is the structural parallel for the present q.4 (*non habens caritatem* knowing *caritas*).
+
+## merged from tier2-ambiguities-d17-dubia.md
+# Tier-2 ambiguities — d17-p1-dubia (2026-05-02)
+
+Per-chunk staging log. To be merged into `tier2-ambiguities.md` after parallel agents finish.
+
+## Resolved silently (OCR garble → obvious correction)
+
+- `niB. I.` → `DUB. I.` (and `DuB. IV.`/`DuB. V.`/etc. similarly normalized)
+- `Respondeo: Dnpiextia bona...` — `Dnpiex` is a marginal gloss `Duplex` bleeding into the line; trimmed (per CLAUDE.md "marginal glosses bleeding inline").
+- Marginal `Aib sointio.`, `Dapiex lu-`, `dapiicM le-`, `Aii.i i|iiae-`, `Ad-2.`, `Q..aesi`, `Deus d`, `Non si`, `Dnpiei mo-/senti?™"`, `Hios.'` — all stripped as marginal apparatus tags.
+- `pai-to` → `parte`; `(lubitationes` → `dubitationes`; `dvai` → `circa`; `priuKt` → `primo`; `(luliitatur` → `dubitatur`.
+- `pro.rimum` → `proximum`; `coii.tniiifiii.s-` → `consequens`; `Videtiu-` → `Videtur`.
+- `(jilectionem` → `dilectionem`; `Uem` → `Item`; `comequem` → `consequens`.
+- `crcala` → `creata`; `secjuitur` → `sequitur`; `secnnda'` → `secunda`.
+- `acceplatio` → `acceptatio`; `anior` → `amor`; `liabere` → `habere`; `lucem habitat inaccessibilem` (so OCR; Vulg. `inhabitat`, see fn).
+- `ralionem` → `rationem`; `aliqua` (passim).
+- `manilestare` / `mani-iestare` → `manifestare`.
+- Body/apparatus footnote markers re-numbered 1..40 continuously.
+- Page break inserted after line 54667 (printed p.303 → p.304); a second page break is around the boundary of Dub V (between line 54817 apparatus block and 54827 body — pp. 305 → 306). p.305 had no surviving page-number marker in OCR (column footer), so I marked just two `<!-- page -->` comments that I could pin reliably (304 and 306).
+
+## Open `[?]` — none flagged inline
+
+The chunk OCR was unusually clean once marginals were stripped; no genuine `[?]` ambiguities remain. Two near-calls accepted as written:
+
+- `Et ita ex hoc, quod caritati coniuncta;` (Dub VI end) — OCR `coniuntUa` clearly = `coniuncta`; sentence is elliptical in Latin (verb `est` understood), preserved in English with a dash-style supplement.
+- Dub V apparatus fn 21 (Vat. *sic* / *si*) ends with the fragmentary `et quidem` which the apparatus continues on the next column in the print; rendered "and indeed." as the final clause.
+
+## Notes for cross-merge
+
+- Skeleton frontmatter `line_end: 54577` was a chunker bug (cut after fn 8 of Dub I). Real range 54529–54959. New `word_count_latin: 2284` (recomputed).
+- 7 dubia, 40 footnotes total, no scholion in this chunk.
