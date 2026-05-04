@@ -10,9 +10,7 @@ printed_pages: [445, 446, 447]
 pdf_pages: [35, 36, 37]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 445–447"
 line_start: 2773
-line_end: 3113
-line_start_pt2: 2773
-line_end_pt2: 2999
+line_end: 2999
 word_count_latin: 1480
 has_scholion: false
 has_apparatus: true

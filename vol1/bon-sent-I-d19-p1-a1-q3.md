@@ -10,7 +10,7 @@ type: quaestio
 title_la: "Utrum in divinis sit aequalitas cum conversione."
 title_en: "Whether in divine things there is equality with convertibility"
 printed_pages: [346, 347]
-pdf_pages: [446, 447]
+pdf_pages: [448, 449]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 346–347"
 has_scholion: true
 has_apparatus: true

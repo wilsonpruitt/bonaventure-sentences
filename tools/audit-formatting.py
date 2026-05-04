@@ -62,8 +62,18 @@ def section_split(body: str) -> dict[str, str]:
     return sections
 
 def collect_markers(text: str) -> list[str]:
-    """All [^N] markers (excluding the [^N]: definition itself)."""
-    return re.findall(r"\[\^(\d+)\](?!:)", text)
+    """All [^N] markers (excluding the [^N]: definition itself).
+
+    Definitions only appear at line start (`^[^N]:`). Inline markers
+    immediately followed by a real colon (e.g. `Boethius[^5]: ergo`) must
+    still be counted, so we test for line-start, not for trailing `:`.
+    """
+    out: list[str] = []
+    for m in re.finditer(r"\[\^(\d+)\]:?", text):
+        is_def = m.group(0).endswith(":") and (m.start() == 0 or text[m.start() - 1] == "\n")
+        if not is_def:
+            out.append(m.group(1))
+    return out
 
 def collect_definitions(text: str) -> list[str]:
     return re.findall(r"^\[\^(\d+)\]:", text, re.MULTILINE)

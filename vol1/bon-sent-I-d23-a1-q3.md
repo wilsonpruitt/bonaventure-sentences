@@ -106,7 +106,7 @@ Thirdly it is asked, whether the name *essence* may [or: ought to] be said in di
 
 1. Augustine, in book seven *On the Trinity*[^1]: «*Essence* is truly and properly said in divine matters, so much so that perhaps God alone ought to be called *essence*».
 
-2. Likewise, this name *who is* (*qui est*) is the name which God himself imposed upon himself[^2]; therefore if he properly so names himself, God is properly called *who is*; but of whatever *who is* is properly said, *essence* can properly be said in him[^3]: therefore *essence* too is said in divine matters.
+2. Likewise, this name *who is* (*qui est*) is the name which God himself imposed upon himself[^2]; therefore if he properly so names himself, God is properly called *who is*; but of whatever *who is* is properly said, *essence*[^3] can properly be said in him: therefore *essence* too is said in divine matters.
 
 3. Likewise, among all names the name *essence* is the most absolute; whence essence according to Avicenna[^4] is called *the quiddity of a thing under an absolute name*; since therefore in divine matters there is every-way absoluteness: therefore [there is] also the name *essence*.
 

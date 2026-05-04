@@ -33,11 +33,11 @@ format_version: 1
 
 Tertio loco quaeritur de comparatione istarum potentiarum ad animam sive ad subiectum, utrum videlicet sint idem in essentia cum anima. Et videtur quod sic:
 
-**1.** Augustinus dicit in decimo *de Trinitate*: «Haec tria, memoria, intelligentia et voluntas sunt una mens, una vita, una essentia, ac per hoc una substantia».
+**1.** Augustinus dicit in decimo *de Trinitate*[^1]: «Haec tria, memoria, intelligentia et voluntas sunt una mens, una vita, una essentia, ac per hoc una substantia».
 
-**2.** Item, Bernardus super *Cantica*: «Tria quaedam in anima intueor, memoriam, intelligentiam et voluntatem, et haec tria ipsam». Si tu dicas, quod hoc dicitur per causam; hoc nihil est, quia Augustinus *de Spiritu et anima* dicit, quod anima «est quaedam sua, ut potentiae, et quaedam non sua, ut virtutes»; quod si per causam esset dictum, utrumque posset dici.
+**2.** Item, Bernardus super *Cantica*[^2]: «Tria quaedam in anima intueor, memoriam, intelligentiam et voluntatem, et haec tria ipsam». Si tu dicas, quod hoc dicitur per causam; hoc nihil est, quia Augustinus *de Spiritu et anima*[^3] dicit, quod anima «est quaedam sua, ut potentiae, et quaedam non sua, ut virtutes»; quod si per causam esset dictum, utrumque posset dici.
 
-**3.** Item, hoc ipsum videtur velle dicere Philosophus, quia idem dicit esse principium essendi et operandi: ergo cum principium essendi sit ipsa forma substantialis, principium operandi erit ipsa; sed principium operandi est potentia: ergo potentia est principium essendi; sed non est principium essendi nisi forma substantialis in homine: ergo potentia et forma substantialis sunt idem in substantia.
+**3.** Item, hoc ipsum videtur velle dicere Philosophus, quia idem dicit esse principium essendi et operandi[^4]: ergo cum principium essendi sit ipsa forma substantialis, principium operandi erit ipsa; sed principium operandi est potentia: ergo potentia est principium essendi; sed non est principium essendi nisi forma substantialis in homine: ergo potentia et forma substantialis sunt idem in substantia.
 
 **4.** Item, ratione ostenditur: Sicut materia prima nata est recipere omnia per veritatem, sic anima secundum similitudinem; sed potentia materiae primae respectu formarum suscipiendarum non differt per essentiam ab ipsa: ergo similiter videtur, quod potentia animae. Probatio: si enim per essentiam differret, aut esset substantia, aut accidens. Non accidens, quia antecedit omnem formam et omne accidens; si substantia, aut ergo materia, aut forma. Praeterea, si differret, illius esset materia capax.
 
@@ -49,9 +49,9 @@ Tertio loco quaeritur de comparatione istarum potentiarum ad animam sive ad subi
 
 *Contra:*
 
-**1.** Augustinus decimo quinto *de Trinitate* assignat differentiam imaginis creatae ad Trinitatem illam, scilicet increatam, quia in illa Trinitate est habens id quod habetur, hic autem habens non est id quod habetur: ergo si anima habet tres potentias, ergo essentialiter non est illae.
+**1.** Augustinus decimo quinto *de Trinitate*[^5] assignat differentiam imaginis creatae ad Trinitatem illam, scilicet increatam, quia in illa Trinitate est habens id quod habetur, hic autem habens non est id quod habetur: ergo si anima habet tres potentias, ergo essentialiter non est illae.
 
-**2.** Item, Dionysius dicit, quod in quolibet creato differunt haec tria: substantia, virtus et operatio: ergo et in anima differunt substantia et potentiae.
+**2.** Item, Dionysius dicit, quod in quolibet creato differunt haec tria: substantia, virtus et operatio[^6]: ergo et in anima differunt substantia et potentiae.
 
 **3.** Item, Boethius: «In quolibet creato differunt *quo est* et *quod est*, sive *quid est* et *esse*: ergo similiter, immo multo fortius, *quod potest* et *quo potest*.
 

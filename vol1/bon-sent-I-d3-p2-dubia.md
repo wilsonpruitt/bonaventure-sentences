@@ -29,7 +29,7 @@ format_version: 1
 
 #### Dubium I
 
-In parte ista circa litteram quaeritur de hoc quod dicit: *Imago Dei permanet*. Contra: Psalmus: *Domine in civitate imaginem ipsorum ad nihilum rediges*.
+In parte ista circa litteram quaeritur de hoc quod dicit: *Imago Dei permanet*. Contra: Psalmus[^1]: *Domine in civitate imaginem ipsorum ad nihilum rediges*.
 
 **Respondeo:** Imago dicitur dupliciter: quantum ad substantiale esse; et haec respicit trinitatem potentiarum et ordinem et aequalitatem, et sic semper permanet; alio modo prout supra esse addit bene esse, ut decorem et honorem; et haec potest perdi, quia *homo, cum in honore esset, non intellexit*.
 

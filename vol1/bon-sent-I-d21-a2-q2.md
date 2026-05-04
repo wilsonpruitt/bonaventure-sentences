@@ -9,7 +9,7 @@ type: quaestio
 title_la: "Utrum dictio exclusiva solus vere addatur termino personali respectu praedicati communis."
 title_en: "Whether the exclusive word *solus* is truly added to a personal term in respect of a common predicate"
 printed_pages: [384, 385]
-pdf_pages: [487, 488]
+pdf_pages: [486, 487]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 384–385"
 has_scholion: false
 has_apparatus: true

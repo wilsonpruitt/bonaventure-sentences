@@ -11,8 +11,8 @@ pdf_pages: [9]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), p. 419 (raw/bonaventure_vol1_pt2_raw.txt lines 300–354)"
 has_scholion: false
 has_apparatus: true
-line_start_pt2: 300
-line_end_pt2: 354
+line_start: 300
+line_end: 354
 word_count_latin: 280
 transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR pt2 (raw lines 300–354), literal English, 4-footnote apparatus from NOTAE AD COMMENTARIUM (printed p. 419); COMMENTARIUS rubric and opener (raw 291–299) dropped per convention; ART. II / ART. III openers handled at later article boundaries (2026-05-03)"
 format_version: 1

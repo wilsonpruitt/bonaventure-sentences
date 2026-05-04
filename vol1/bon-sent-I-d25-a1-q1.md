@@ -48,7 +48,7 @@ Et quod persona dicatur secundum substantiam, videtur:
 
 6. Item, hoc videtur per eius absolutionem, quoniam omne nomen, quod dicitur ad se, dicit substantiam in divinis, quia tale non secundum relationem dicitur; sed hoc nomen *persona* est huiusmodi. Hoc patet; et Augustinus dicit septimo *de Trinitate*[^6]: «Ad se quippe dicitur persona, ut *bonus* et *magnus*»: ergo etc.
 
-7. Item, hoc videtur per Ecclesiae responsionem: quia omne nomen, quod convenienter respondetur ad quaestionem factam *per quid*, indicat substantiam, quia *quid* quaerit substantiam[^7]; sed hoc nomen *persona* ab Ecclesia haereticis responsum est quaerentibus, quid tres, sicut dicit Augustinus et Magister[^8]: ergo indicat substantiam.
+7. Item, hoc videtur per Ecclesiae responsionem: quia omne nomen, quod convenienter respondetur ad quaestionem factam *per quid*, indicat substantiam, quia *quid* quaerit substantiam[^7]; sed hoc nomen *persona* ab Ecclesia haereticis responsum est quaerentibus, quid tres, sicut dicit[^8] Augustinus et Magister: ergo indicat substantiam.
 
 8. Item, hoc videtur relationis abstractione. Intelligamus, quod nulla relatio sit in divinis, et quod in una sola hypostasi sit divina natura, sicut intelligunt gentiles; tunc constat[^9], quod adhuc est intelligere naturam intellectualem et habentem illam: ergo et personam et naturam: ergo si, circumscripta omni relatione, salvus est intellectus personae, persona non dicitur secundum relationem. Et dicitur secundum relationem vel secundum substantiam: ergo dicitur secundum substantiam.
 
