@@ -10,11 +10,11 @@ printed_pages: [445, 446, 447]
 pdf_pages: [35, 36, 37]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 445–447"
 line_start: 2773
-line_end: 2999
+line_end: 2943
 word_count_latin: 1480
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR (pt2 raw lines 2773–2999), 4 dubia I–IV, literal English, 20-footnote apparatus reflowed from 2-column footer blocks of pp. 445, 446, 447 (col-A only on p. 447 — col-B notes belong to d.26 starting on same page), no scholion (2026-05-03)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR (pt2 raw lines 2773–2999), 4 dubia I–IV, literal English, 20-footnote apparatus reflowed from 2-column footer blocks of pp. 445, 446, 447 (col-A only on p. 447 — col-B notes belong to d.26 starting on same page), no scholion (2026-05-03) Boundary tightened to 2943 on 2026-05-04 (lines 2944–2999 belong to d.26 littera caps I–IV head)."
 format_version: 1
 ---
 
