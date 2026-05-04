@@ -13,7 +13,7 @@ pdf_pages: [287, 288, 289]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 185–187"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, scholion, 10-footnote apparatus (2026-04-17)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation completed 2026-05-04 (apparatus already bilingual from 2026-04-17), scholion translated, 10-footnote apparatus from raw OCR (2026-05-04)"
 format_version: 1
 ---
 
@@ -74,7 +74,45 @@ Haec quaestio arctissime cohaeret cum praecedenti, ut facile intelligitur compar
 
 ## English
 
-[Translation pending]
+### Question IV
+
+*Whether the generation of the Son is terminated.*
+
+Fourthly and lastly it is asked whether the generation of the Son is terminated. And that it is so, it seems.
+
+1. Augustine in the book of *Eighty-three Questions*[^1]: «He who is always being born is never born, and through this is never a son». Therefore no one ought to be called a son through generation, until the generation has been terminated; but the Word of the Father is rightly called perfect Son: therefore his generation is terminated.
+
+2. Likewise, by reason it is shown thus: to be produced is terminated at the produced being, therefore to be generated [is terminated] at the generated being; but the Son of God is generated and born: therefore his production or generation is terminated.
+
+3. Likewise, it is more noble to be generated than to be generating, since being generated is the way to the generated being, and not the converse; but what is more noble is to be attributed to God: therefore "to have been generated" must rather be attributed to him than "to be generated": therefore the generation of the Son is said in [its state of] termination.
+
+4. Likewise, in[^2] a generation which is always in generating, something or someone is always being produced; but that which has been produced is not produced, according to that which has been produced: therefore it is necessary either that it be repeated, or that the generated [thing] succeed in such generation; but in the Son of God there is neither succession nor[^3] iteration: therefore neither continuous generation: therefore the generation of the Son of God is terminated.
+
+**On the contrary:**
+
+1. Damascene[^4]: «God, being infinitely and without time, generates infinitely and unceasingly»: therefore the generation is never terminated.
+
+2. Likewise, by reason this same [point] seems able to be shown. The eternal does not have itself otherwise now than before, but always wholly uniformly: therefore if the Father generates always from the beginning, he still generates; otherwise he would have himself otherwise now than before, and thus the eternal generation would be changed.
+
+3. Likewise, the simple[^5] and infinite lacks every term; but the generation of the Son is simple and infinite: therefore the generation of the Son lacks every term. That it is infinite is clear, since the Son is infinite, and again the generation itself is eternal, and the eternal is infinite in duration.
+
+4. Likewise, more perfect is a power always conjoined to act, than one which is not always [so conjoined]: therefore more perfect is a fecundity always conjoined to the act of generation, especially since the fecundity of generating is not lost but perfected[^6]: if therefore in God there is perfect fecundity, therefore he always generates; but he does not generate another except the Son: therefore the Son is always being generated.
+
+> **Conclusion.** The divine generation must be called terminated, insofar as this term excludes imperfection, but unterminated insofar as it excludes [limited] duration.
+
+**I respond:** For the understanding of the foregoing it is to be noted that there are certain [things] in which to-be and to-have-been-made are the same, yet to-become and to-be differ, as are those things whose being is permanent and does not depend wholly on the producing principle[^7], but rather have some ground of subsisting within themselves, either through their own principles or through [those of] a subject, as substances and innate accidents. There are certain [things] in which to-be and to-have-been-made differ, yet to-become and to-be are the same, as are successive [things], whose being depends wholly on the producing principle existing in its actuality, as are motions and changes. There are certain [things] in which to-become and to-be and to-have-been-made are the same, as are those things which have permanent being and totally depend on the producing principle, existing in its actuality in the same mode by which [it existed] at the beginning[^8], not only in itself but also with respect to the produced [thing], so that a like mode of actuality is observed as to both; and such are influences, whether corporeal or spiritual. Hence Augustine in the eighth [book] *On Genesis according to the Letter*[^9] says that light is always being born and, while it is being born, it is, whence the air is always illuminated and is always being illuminated. He says quite similarly[^10] of the spiritual light which is grace.
+
+If therefore the Son of God has the most permanent being and has being from another, and according to the Father's manner [it is] said through generation, since the producer cannot produce more or less, and what is stronger, cannot not produce, and what has been produced cannot not be produced; but the produced cannot be separated from the producer, especially since the fecundity of generating is not lost but perfected: if therefore in God there is perfect fecundity — it is clear that the generation of the Son is of this kind, namely that in which to-become and to-have-been-made and to-be are the same. And therefore he must be called generated in such a way that nonetheless he is being generated; and he must be called as being generated in such a way that nonetheless he has been generated. And therefore his generation must be called terminated, insofar as this term excludes imperfection; but unterminated, insofar as it excludes [limited] duration.
+
+And so the response to both sides is clear, since the reasons which prove the generation to be terminated proceed from a generation in which to-become and to-have-been-made differ. And those which prove it not to be terminated proceed from a generation in which to-be and to-have-been-made differ. But the generation of the Son is of this condition, in which to-become and to-be and to-have-been-made are the same, as has been shown; and therefore both sides fail, since each proceeds from an insufficient [premise].
+
+Hence therefore that the generation of the Son is not terminated, this is because it always remains in its being; and that it is not unterminated, this is because the Son is most perfectly begotten. And so it cannot properly be said that his generation is terminated or unterminated; but if it be called terminated, this is because it is not imperfect, since as to this it is had from termination; if it be called unterminated, this is because it has no limit (*praescriptionem*), since as to this it is had from unterminatedness.
+
+To Cassiodorus, therefore, that the generation of the Son is not terminated, [this is] both to be conceded and not to be conceded; since to-become and to-have-been-made are the same there, therefore both must be conceded together; and so it is clear that the generation of the Son is unterminated positively, not privatively.
+
+### Scholion
+
+This question coheres most tightly with the preceding one, as is easily understood by comparing the conclusions of both. — As to the third member of the distinction in the response, see also VIII *On Genesis according to the Letter*, c. 12, n. 26; I *Sent.* d. 37, p. I, a. 1, q. 1, ad 3; II *Sent.* d. 15, a. 1, q. 1; d. 37, a. 1, q. 1. — St. Thomas, here q. 2, a. 1; *S.* I, q. 42, a. 2, ad 4. — Bl. Albert, here a. 8. — Peter of Tarentaise, here q. 3, a. 2. — Richard of Mediavilla, here a. 2, q. 2. — Aegidius Romanus (Giles of Rome), here 2 princ., q. 2. — Durandus, here q. 3. — Dionysius the Carthusian, on this and the preceding, here q. unic.
 
 ---
 

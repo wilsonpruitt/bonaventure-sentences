@@ -11,7 +11,7 @@ pdf_pages: [281, 282]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 179–180"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, apparatus (2026-04-17)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation completed 2026-05-04 (apparatus already bilingual from 2026-04-17), 5-footnote apparatus from raw OCR (2026-05-04)"
 format_version: 1
 ---
 
@@ -58,7 +58,33 @@ Quarto et ultimo quaeritur, utrum illa generatio sit terminata.
 
 ## English
 
-[Translation pending]
+### Commentary on Distinction IX.
+
+*On the properties which regard the persons, and indeed on the emanation of generation.*
+
+*Now let us approach the distinction of the persons* etc.
+
+### Division of the text.
+
+Above the Master treated of the properties which regard the essence. Here he treats of those which regard the persons; and this part has two parts. For since the distinction of the persons is observed according to a twofold emanation, namely of generation and of procession, therefore he first treats of generation, and secondly of procession, below in the tenth distinction: *Now however, after the eternity of the Son, concerning the Holy Spirit* etc.
+
+Likewise, the first part has two parts: in the first he shows what is to be held concerning the generation of the Son; in the second, by way of incident, by what manner of speech it is to be expressed, there: *Here it can be asked, since the generation of the Son from the Father* etc.
+
+The first part again has four parts[^1]. First he proposes the truth which is to be held by Catholics, namely that the begetter and the begotten are distinct through generation and coeternal, so that generation is distinctive and eternal. In the second he opposes against this through the opposition of heretics, there: *But against this, says the heretic.* In the third he determines, arguing back through the reasonings of the catholic Doctors Augustine and Ambrose, there: *He who says this does not understand, even being born* etc. In the fourth and last he responds, restraining the superfluous inquisition of the heretics and also of the proud Catholics, there: *But you ask of me, says Ambrose*, where he shows that the mystery of generation is unsearchable[^2].
+
+*Here it can be asked, since the generation of the Son from the Father* etc. This is the second part of this distinction, in which the Master determines by what manner of speech the eternity of generation is more fittingly expressed; and this part has four parts. In the first he sets out an apparent controversy of the doctors. For some say that it ought to be expressed by verbs[^3] of the past tense, others by verbs of the present. In the second he reduces the aforesaid controversy to concord, there: *But lest such great authors in so great a matter seem to contradict themselves.* In the third, through the words of Hilary, he confirms his response, lest he seem to rely on the sayings of Origen, there: *Hilary also says that the Son is born from the Father* etc. In the fourth he concludes summarily what is to be said[^4], or how one ought to speak and how also one ought to think concerning eternal generation, there: *Let us say therefore that the Son is born of the Father*, where he confirms the truth by the authority of Hilary, by which also he resolves the objection of the heretic.
+
+### Treatment of the questions.
+
+For the understanding of those things which the Master says concerning eternal generation, in the present distinction four things are principally asked.
+
+First it is asked whether in divine matters generation is to be posited.
+
+Secondly, granted that it is, whether generation in divine matters is[^5] distinctive of persons.
+
+Thirdly it is asked whether that generation is eternal.
+
+Fourthly and lastly it is asked whether that generation is terminated.
 
 ---
 

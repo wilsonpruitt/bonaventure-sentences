@@ -11,7 +11,7 @@ pdf_pages: [289, 290, 291, 292, 293, 294]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 187–192"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body (Dub. I–XIII), apparatus (2026-04-17)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation completed 2026-05-04 (apparatus already bilingual from 2026-04-17), 61-footnote apparatus from raw OCR (2026-05-04)"
 format_version: 1
 ---
 
@@ -152,7 +152,119 @@ Respondeo: Dicendum, quod ipse[^60] Hilarius intelligit secundum eandem naturam,
 
 ## English
 
-[Translation pending]
+### Doubts concerning the text of the Master.
+
+#### Doubt I
+
+In this part there fall doubts about the text, and first there is a doubt about this which is said: *The Father is not other [thing], the Son another, the Holy Spirit another, although personally* etc. For what is said seems false, because it follows well: Peter is a white man, therefore he is a white animal, since *white* (masculine) and *white* (neuter) signify the same thing; therefore by parity of reason, since *another* (masculine) and *another* (neuter) signify[^1] the same thing, it follows: he is another [person], therefore he is another being. If you say that the case of this name *another* (masc.) is not similar to that of this name *being*, on the contrary: it follows well: he is another man, therefore he is another animal; therefore by similitude that follows.
+
+I respond: It must be said that, because in God there is a singular otherness — since the otherness is of the supposit with an entirely complete unity of nature — therefore it must be expressed in a singular mode. And since the masculine gender imports a certain distinction or discretion[^2], therefore it regards the person; but the neuter, on account of indistinction, regards the nature: and therefore *alius* imports otherness in person, *aliud*[^3] in nature, and so in divine matters they do not signify the same.
+
+It could also be said that in creatures *aliud* signifies one thing[^4] when I say: this one is other (*alius*) than that, and another when I say: it is other (*aliud*); and the one follows from the other. Not so in divine matters; nor is the case of *album* (white) similar, because *album* is imposed from a special form, which is whiteness.
+
+#### Doubt II
+
+Likewise it is doubted, secondly, about this which he says: *The three persons are coeternal to one another.* It seems false, because if coeternal, then[^5] also eternal: therefore three eternals, which is against the [Athanasian] Creed, where it is said: «Not three eternals»; and again against reason, since the plural number multiplies the form. Whence it is not truly said: there are three gods.
+
+I respond: It must be said that a name signifying substance in divine matters is found according to a triple mode. For some signifies[^6] substance and by the mode of substance, as a substantive noun, like *God*; and such a name is in no way pluralized nor said in the plural, whether it is substantive or substantivized; as[^7] this name *eternal*; thus it is taken in the Creed. Some [names] signify substance by the mode of adjacency, as adjective nouns kept adjectivally[^8]; and such, because they draw their number from substantives, are said in the plural, and of the kind of such are verbs and participles. Other names are those which import substance in adjacency, connoting within a mutual relation, of which kind is *coeternal*[^9]; and such for a twofold cause can be said in the plural, both by reason of consignification or mode of signifying, and by reason of connotation. And thus it is plain that there is no contradiction.
+
+But to what[^10] is objected, that the plural number multiplies the form: it must be said that this is not true in adjectives[^11].
+
+#### Doubt III
+
+*He who says this does not understand that to be born* etc.
+
+Here the Master sets down four arguments demonstrating that the Son is coeternal with the Father, and so that the argument of Arius does not hold[^12]: *The Son is born, therefore he is not eternal.*
+
+The first is taken from a similitude and is such: the splendor [shining] is of the same duration with the fire, or equal, and yet it is generated from the fire: therefore much more strongly, since the Son is the splendor of the Father[^13], although he is generated from him, he will be coeternal to him: therefore the conclusion of the aforesaid argument is false, and that consequence must be destroyed: *if he is born, there was [a time] when he was not.* But on the contrary: If an emanation proceeding from God is coeternal to him, just as an emanation proceeding from a creature is coeval[^14] to it: therefore since things have come forth from God, it seems that [they came forth] from eternity.
+
+I respond: It must be said that the going-forth of splendor[^15] from light or fire is a connatural going-forth; and such is the going-forth of the Son from the Father, but not the going-forth of the creature from the Creator, which rather is voluntary; and the argument is good with respect to the matter at hand.
+
+Likewise, *If [he is] the Son of God, says Augustine, [he is] virtue and wisdom.* This is the second argument of Augustine: The Son of God is virtue and wisdom: therefore if he is not eternal, at some time God was without virtue and wisdom; but this is impossible: therefore etc. But against this argument it is objected thus: for if it follows: if the Father does not have begotten wisdom, he is not wise, it seems that he is wise by begotten wisdom, which Augustine expressly denies in book six *On the Trinity*[^16].
+
+I respond: Augustine refutes that argument in book six *On the Trinity*[^17], showing that it proceeds from a bad understanding of the word; nevertheless, since the Master adduces it, it can be said that the argument is valid, not because the Father is wise by the Son, who is begotten wisdom, but because the same[^18] is the begotten and the unbegotten wisdom; and so, if the one begins, also the other.
+
+*To the same Arian question.* This is the third argument which he adduces, and it is from Ambrose, taken from the authority of Isaiah: *Before me there is no God, and after me there shall not be*: therefore neither the Father before the Son, nor the Son after the Father. But on the contrary: In the divine persons there is order; but order is only of prior to posterior: therefore etc.
+
+I respond: It must be said that, as will appear below[^19], there is not there an order of duration, by which one is prior to the other, but an order of origin, by which one is from the other.
+
+*For mutually they are known in themselves, the Father in the Son, and the Son in the Father.* This is the fourth argument and is such: relatives are simultaneous by nature[^20]; but Father and Son are relatives: therefore [they are] simultaneous; but the Father is eternal: therefore the Son is coeternal. The proof that the Father is eternal: because, if first he was God and afterward Father, he is changed[^21]. But against this argument one can argue by parity of reason: first he was God and afterward Lord: therefore he is changed.
+
+I respond: Some wish to say that this argument is valid, because generation is from the substance of the one generating; and therefore if he begins to generate, the substance is changed. But this does not seem [right], because generation in divine matters does not say motion. Others say that, since the begotten is consubstantial with the begetter, if the begotten is changed, also the begetter; but the begotten is changed, if he is newly generated: therefore also the generator consequently. Another mode of speaking is that paternity says a true relation in the Father, not so creation or domination; and therefore paternity coming on[^22] [the Father] changes [him], not so domination.
+
+But none of the aforesaid reasonings give force to this argument against the heretics, because the heretic was saying that the Son was not coeternal, and through this neither consubstantial nor the same in substance. On account of this it must be noted that the aforesaid argument is good against the heretic, granting his supposition; because the heretic was saying that the Father and Son differ in substance and nature, as in carnal generation. By parity of reason, against him Ambrose says: since it is so that this[^23] father is changed by the accession of generation, who generates another in substance; and in divine matters likewise the Father generates another in substance: therefore by the accession of generation he is changed, as[^24] this one [the carnal father].
+
+In whatever mode, however, it is said, there is no great peril, because not all arguments which are made for the truth are necessary[^25].
+
+#### Doubt IV
+
+Likewise it is asked about this which he says: *The voice is silent, not mine alone, but also of the Angels.* For he seems to speak ill of *the Angels*, because there is no voice except of those having organs and respiration; but the Angels do not have these. If you say that they have spiritual voices, not uttered, as Damascene says[^26], that they hand over to themselves their thoughts without uttered voice; I ask, what is the necessity of a spiritual voice, and what the mode of speaking, and what the mode of hearing?
+
+I respond: Briefly here it must be said — since this is outside the principal proposition with respect to this part — that there is necessity of speech[^27]; because just as to each rational nature a free will has been given, so [also] a secret conscience. Whence just as no one can turn the will of another into something else, but only induce it, unless it itself inclines, except God alone, in whose hand are the hearts of men: so no one can[^28] know the conceptions of another, but only conjecture, except God, unless the intelligence itself express them; and that very expression is called speech. The reason for this, however, is that God alone forms the mind both as to intellect and as to affect; and the mode of speaking is similar to the mode of learning. For just as we learn through sense, so that the species through the interior sense arrives at the intellect, so we express; because the word of internal cogitation is united to the voice[^29] in cogitation, and afterward to the sensible voice in pronunciation, and from this expression in act comes about. But the Angel by a single power does what we [do] by many. Whence the Angel, just as by the application of the innate species to the very knowable thing he knows it, so by ordering the innate species to another knowing Angel, he opens his concepts; similarly the other by mutual conversion receives [them]; and thus one speaks, another hears. It is similar in the case of two mirrors set opposite each other, if voluntarily they could hide from others and offer[^30] [to one] the things which shine in them.
+
+#### Doubt V
+
+Likewise it is asked about this which he says: *Let us say therefore more truly, always born*; and his reason is that God may be designated as eternal and perfect. But against this is, that among all tenses the present has a greater agreement with eternity; because *is* is more truly said of God than *was* and *will be*, as Augustine expounds, as has been held in the preceding distinction[^31]. And the reason for this is that the present says being in act, the other tenses do not.
+
+I respond: It must be said, as has been touched above[^32], that verbs of diverse tenses said of God do not signify any temporal acts, but import the duration of the divine being without beginning, as the past; without interval, as the present; without term, as the future. And since all these are equally truly found in God, therefore all are equally truly said of him[^33].
+
+But nevertheless, because many have erred concerning the generation as to its beginning, [and] few or none as to interval or term: therefore the holy Doctors, in order to stop the mouths of heretics, expressed it[^34] by a verb of past tense, which always signifies as past, and so as never having a beginning.
+
+Another reason is that we understand the divine generation by a certain leading-by-the-hand through the generation that is around us; and because we see in this generation that the begotten, while it is being generated, is imperfect, lest anyone could believe that the Son of God was always[^35] imperfect, therefore they decreed that he be said *always begotten*.
+
+It must be said therefore that, as far as concerns the thing itself, the one is said equally truly and properly as the other. But what Gregory says, he says with regard to the greater explanation of the faith, lest error have a place; and so the Master expounds[^36]. Therefore it is more fitting to say *always begotten* than *always being begotten*. Nor is the case of this verb *is* and *was* similar; because this verb *is* signifies by the mode of rest, and therefore being, while it is, is perfect; but this verb *to be generated* among these lower things [signifies] by the mode of becoming; and[^37] since in many things this is true, that something, while it is becoming, does not have perfect being, therefore the case is not similar according to the account of understanding.
+
+#### Doubt VI
+
+Likewise it is asked about this which he says: *Today I have begotten thee*, because it can be understood of the day on which he was born from his mother; but this seems to be of no avail, because according to this generation he did not have a father, but only a mother[^38].
+
+I respond: It must be said that that word must be understood causally; for he is said to have begotten according to the generation from the mother, because he caused [him] to be generated. Similar is the exposition upon that text of Matthew chapter three[^39]: *He is able to raise up sons of Abraham from those stones*; the Gloss: «In testimony of this matter, God begot a son from Sarah, that is, caused [him] to be generated».
+
+#### Doubt VII
+
+Likewise it is asked about this which Origen says: *But splendor is not born once and ceases.* Against [this]: if this similitude is correct, it seems that the Son is not born once: therefore it is asked, why the generation of the Son is more assimilated to splendor than to other things, especially since splendor is not generated from light except in the presence of the body opposite? And besides, the Son is called light[^40]; therefore not the splendor of light.
+
+I respond: It must be said that the generation of the Son has in itself perfect conformity, coeternity, and equality[^41]; and since in one creature we cannot find these together, therefore we take from many [creatures], and so we assimilate it to many. As to conformity, then, it is similar to the generation of a word[^42], which is offspring perfectly representing him from whom it is. As to coeternity, it is similar to the going-forth of splendor from light, in which there is coevity[^43], on account of the actuality of the light. As to equality it is similar to the generation of a living thing from a living thing, which generates [something] altogether equal[^44] to itself; and thus it is compared diversely by the Saints. Origen, therefore, compares [it] to the going-forth of splendor, not as to the assimilation of iteration, but as to the privation of intermission or interpolation.
+
+And note that *splendor*, *ray*, and *lumen* differ, since all say an influence from a luminous [body]: because *ray* says emission according to a diametral distance; *lumen*, according to circumference, both[^45] however into the depth of a transparent body; *splendor* says repercussion against a body not transparent, polished, and limited. But nevertheless here Origen calls splendor the light proceeding from a [source of] light.
+
+To that, then, which is objected, that the Son is light: it must be said that light has in itself the nature of manifesting; and so it regards cognition and is appropriated to the Son; it has in itself the power of multiplying or generating splendor; and so it is appropriated to the Father[^46].
+
+#### Doubt VIII
+
+Likewise it is asked about this which Hilary says, that *with the sacrament of his knowledge he is born from him.* For it seems according to this that the Father generates the Son according to the sacrament of knowledge: therefore knowledge is the ground of generating.
+
+I respond: It must be said that Hilary here[^47] calls *sacramentum* a sacred secret; he says, however, that the Son is born with the sacrament of knowledge, because the generation of the Son is not only sacred, but also secret, not, I say, secret to God, but to us, because we do not comprehend it; he himself, however[^48], perfectly knows it. Therefore he says *with the sacrament* etc.
+
+#### Doubt IX
+
+Likewise it is asked about this which he says: *That which is born living from the living has the perfection of nativity without newness of nature.* For it seems false, because a boy is born from a living father and mother, and yet he has both, namely imperfection and newness.
+
+I respond: The argument of Hilary, as is plain by the following text[^49], must be understood of the living-by-essence; for where there is a living-by-essence, the living does not come to be from the non-living, as comes about in a living-by-participation, where the living is not generated from the living except through the non-living, as is plain, because man is not generated from man except by means of seed.
+
+#### Doubt X
+
+Likewise it is asked about this which he says: *Nor by derivation, but by power is the nativity.* The contrary seems [true], because according to Dionysius[^50] and Anselm the Father holds himself toward the Son and the Holy Spirit as a font, and they as streams; but a stream is from the font by derivation.
+
+I respond: It must be said that the nativity which is by derivation is regarded as to some transmutation around that which is transmuted, and so says a certain passion, and through this an infirmity[^51]; but a living [being], which is life, is pure act, and so pure life, in which there is no infirmity, but pure actuality; and therefore Hilary wishes to say that the Father generating is wholly[^52] life, and that he generates not by alteration, which is regarded in derivation, but by every-mode power: therefore the begotten Son is power, not born by change.
+
+#### Doubt XI
+
+Likewise it is asked about this which he says: *Where the Father is author, there also is nativity.* It seems that he speaks improperly[^53], because authority says causality; but this is not received in divine matters: therefore etc.
+
+I respond: It must be said that authority says a certain principality or authoritative-status in the person, which has nothing from another, but from himself all [have all]; and that authority in the Father is unbegottenness; whence it does not say causality, but privation of principle, and through this the highest principality[^54].
+
+#### Doubt XII
+
+Likewise it is asked about this which he says: *But that which is born from eternity, that, if it has not been born eternal* etc.; and Hilary intimates here such an argument: if the Son is not generated or born from eternity, his generation is not eternal; and if this[^55], the Father does not generate from eternity: therefore the Father is not eternal: therefore he who derogates from the eternity of the Son derogates from the eternity of the Father. But this argument does not seem to hold, because similarly I will argue on the side of the Creator and creature: if[^56] the creature is not eternal, God did not create from eternity, and so the Creator is not eternal.
+
+I respond: It must be said that the case is not similar, as is plain from what follows[^57] of that which Hilary supposes, that to be Father is properly proper to that person: therefore since such a thing always belongs [to him], otherwise the thing does not have perfect being, it follows of necessity: either the Son is eternal, or the Father from eternity does not have perfect being. But to create, although it belongs to God alone, nevertheless by reason of what is connoted has an imperfection conjoined, according to which it is not only impossible, but also unintelligible, that anything be created from eternity[^58].
+
+#### Doubt XIII
+
+Likewise it is asked about this which he says: *But that he changed himself in being born*; because according to this, since the Son of God existed before and afterward was born from the Virgin[^59]: therefore he would have been changed.
+
+I respond: It must be said that Hilary himself[^60] understands [this] according to the same nature, according to which he existed before. For if according to the same nature he existed before and afterward was born, it is necessary that according to that nature he be changed; but if according to another[^61], the change must take place in that nature, but not in the person, since that nature does not say something in the person, but rather something with the person. Whence no change comes about in the other nature.
 
 ---
 

@@ -11,7 +11,7 @@ pdf_pages: [296]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), p. 194"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, apparatus (2026-04-17)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation completed 2026-05-04 (apparatus already bilingual from 2026-04-17), 2-footnote apparatus from raw OCR (2026-05-04)"
 format_version: 1
 ---
 
@@ -52,7 +52,29 @@ Persona cum enim sit divisio de secunda persone ponendae primo quaeritur de modo
 
 ## English
 
-[Translation pending]
+### Commentary on Distinction X.
+
+*Concerning the eternal procession of the Holy Spirit, the question is asked with reference to the person from whom he proceeds.*
+
+*Now, after the eternity of the Son, concerning the Holy Spirit, the question being granted by God, etc.*
+
+### Division of the text.
+
+Above the Master treated of the generation of the Son; here he treats of the procession of the Holy Spirit; and this part has three parts. In the first he shows the procession of the Holy Spirit to be from both, namely from the Father and the Son. In the second he shows by what name the procession ought to be expressed, there: *That, however, he is not born of the Father.* In the third he determines how he is given or sent, there: *It was said above that the Holy Spirit is love and gift.*
+
+Likewise, the first part, which contains the procession of the Holy Spirit from the Father and the Son, has four parts[^1]. For first he says that he is the love of the Father and the Son and proceeding from both. Second, by way of incidental remark, he asks why the Holy Spirit is not called Son, there: *But it is asked, how.* Third, how he is given by the Father and the Son, there: *It was said above.* Fourth, that the very one who is given also gives himself, there: *But it can be asked.*
+
+### Treatment of the questions.
+
+For the understanding of those things which the Master says concerning the eternal procession, in the present distinction four questions are asked[^2].
+
+First it is asked concerning the mode of the procession of the Holy Spirit: whether he proceeds by the mode of nature.
+
+Secondly it is asked, whether the Holy Spirit proceeds by the mode of will.
+
+Thirdly it is asked, whether the Holy Spirit proceeds from the Father and the Son.
+
+For since the division concerns the second person to be set forth, first it is asked concerning the mode of the procession; secondly, from which person he proceeds by the mode of love.
 
 ---
 

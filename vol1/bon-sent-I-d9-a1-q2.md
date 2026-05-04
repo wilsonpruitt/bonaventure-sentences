@@ -13,7 +13,7 @@ pdf_pages: [284, 285]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 182–183"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, scholion (I–II), 16-footnote apparatus (2026-04-17)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation completed 2026-05-04 (apparatus already bilingual from 2026-04-17), scholion translated, 26-footnote apparatus from raw OCR (2026-05-04)"
 format_version: 1
 ---
 
@@ -92,7 +92,67 @@ Quoad distinctiones relationis in solut. ad 4. notandum, quod *relativa secundum
 
 ## English
 
-[Translation pending]
+### Question II
+
+*Whether generation in God distinguishes between the one begetting and the one begotten.*
+
+Secondly it is asked, whether generation in God is distinctive of persons. And that it is so, is shown in this way.
+
+1. Augustine near the beginning of *On the Trinity*[^1]: «There is no thing which begets itself, that it might be»: if therefore [something] begets, it begets another; but between one and another there is distinction: therefore etc.
+
+2. Likewise, generation is emanation; but where there is emanation, there is multiplication or pluralization; and where there is multiplication, there[^2] [is] distinction: therefore where there is generation, there of necessity is distinction.
+
+3. Likewise, generation in God is a relation[^3]; but a relation imports respect and order; but where there is respect and order, there is a distinction of supposits and of relata or of things ordered: and so etc.
+
+4. Likewise, greater[^4] diversity is sustained by a composite and manifold supposit, or in [such] a supposit, than in a simple and uniform subject; but relative opposites do not stand together in the same created individual: therefore neither in a simple hypostasis. Proof of the middle [premise]. It well follows: Socrates is the father of Plato: therefore he is not the son of him, or is distinct from him: therefore much more strongly so in God.
+
+**On the contrary:**
+
+1. The Father in begetting the Son gives him everything that he has; but he has essence and person: therefore he gives him essence and person: therefore just as the Son is not distinguished from the Father essentially, so neither personally, as it seems.
+
+2. Likewise, the Father communicates his essence to the Son on account of [his] supreme[^5] simplicity; but the person is just as simple as the essence: therefore by the [same] reason by which he communicates the essence, he also communicates the person.
+
+3. Likewise, in the Father nature and person are the same: therefore it is impossible that he communicate one [and] not[^6] communicate the other; therefore if he gives the nature, [he gives] also the person.
+
+4. Likewise, it seems that relation does not distinguish on any[^7] account, since one and the same point is the beginning and the end with respect to diverse lines: therefore if these relations are not distinctive, it seems likewise that neither are paternity and filiation. If you say that not all relations distinguish, but only mutual ones, as principle and that-which-is-from-the-principle, end and that-which-is-ended; on the contrary[^8]: the Father and the Son are related as understanding and understood, as Anselm says[^9]; but the same [thing] can be understanding and understood: therefore etc.
+
+5. Likewise, there is greater repugnance in contraries than in relatives[^10]; but whiteness and blackness, which are contraries, do not make a distinction with respect to Peter, since the same [person] can be at one moment white, at another black: therefore much more strongly will one [being] in God be at one moment Father, at another moment Son.
+
+6. Likewise, it is asked why relations rather make a distinction of person than of essence, since just as well there can be several essences or natures in one person, as conversely.
+
+<!-- page 183 -->
+
+> **Conclusion.** Against Sabellius it is proven that generation in God makes a real distinction between the one generating and the one begotten; against Arius, however, [it is proven] that this distinction is as regards person, not as regards essence.
+
+**I respond:** It must be said that generation in God, as has been shown[^11], makes a real distinction between the one generating and the one generated, not merely a rational or intellectual one, as Sabellius said; and[^12] [a distinction] real as regards person, not as regards essence, as Arius said.
+
+This is clear thus. Generation in creatures expresses emanation by way of action or change, in God[^13] [it expresses] emanation by way of relation.
+
+Insofar as it is emanation, it expresses some distinction; insofar as it is *such* an emanation, it expresses a distinction in person[^14]. By reason of [its being an] emanation there is distinction; for, as Anselm says[^15], «neither does the intellect grasp, nor does nature permit, that he who is from another be that from which he is», according to which one is positively said to be from another — for the Father is privatively said to be from himself, that is, *not* from another. Insofar as it is such an emanation, it posits a distinction in person. For generation is the production of one agreeing in nature; by reason[^16] of nature there cannot be distinction: therefore [the distinction] will be either by reason of supposit, or of property. If of property, [it will be] either absolutely, or respectively; not absolutely, since then there would be a distinction in nature; nor[^17] respectively, as for instance of relation, since in relation taken in itself there is no motion in creatures[^18] nor origin in God; whence filiation is not generated except in another. Therefore it is necessary that there be a distinction in supposit.
+
+Likewise, by reason of relation there is distinction, since nothing is referred to itself nor ordered [to itself]. But by reason of *such* a relation there is personal distinction; since *to generate* and *to be generated*, since they express a relation by way of action and passion[^19], express it in a supposit and with respect to a supposit. And therefore, since a relation between extremes notes a distinction, it is clear that there is there a distinction of supposits. With these things seen[^20], it is easy to resolve the objections.
+
+**To the arguments on the contrary side:**
+
+*To 1.* As to what is objected: the Father communicates to the Son everything that he has; it is true, except generation and the distinction of generation; for the very ground of communicating gives [us] to understand the distinction, since no one communicates to himself, but to another: and therefore[^21] that in which he is distinguished, he does not communicate.
+
+*To 2.* To that which is objected, that the person is just as simple as the essence; it must be said that the simplicity of the essence is that it be in many [supposits]; but the simplicity of the supposit is that it not be in[^22] many. For a supposit or individual, as far as it is of itself, is said [to be that] which is in one only; therefore [the cases] are not similar.
+
+*To 3.* To that which is objected, that essence and person are the same; it must be said that although they are the same, yet they are not [oriented] to the same [thing]: since the person is *toward another*, therefore it is generated[^23] and referred; but the essence is not, therefore the essence is communicated and the person is distinguished. Just as therefore, although in the Father essence and person are the same, yet the person generates, the essence does not; so conversely the essence is communicated and the person is not.
+
+*To 4.* To that which is objected concerning principle and end in a point, the response is clear, since those are not mutual relations, which is what is properly required for distinction; whence [the objection] does not hold. As to what is objected[^24] concerning understanding and understood, I say that there is not there a relation according to being, but according to being-said. For relation to distinguish, however, it is necessary that they be mutual relations, since otherwise they do not distinguish; it is also necessary that they express relation according to being.
+
+*To 5.* To that which is objected concerning whiteness and blackness, it must be said that there is no opposition of forms, unless they be considered[^25] with respect to the same time; and it is impossible that the same subject at the same time be white and black; but the relations in God are simultaneous.
+
+*To 6.* To that which is asked last, why relations rather make[^26] a distinction in persons than in essence; the response is clear from what has already been said. Another reason can also be given, [namely] that the plurality of natures impedes the simplicity of person, but not so conversely. Which is clear thus: if several natures are in one person, [it is] either through grace, or through nature. If through grace — since a united nature follows the unity of person — it does not impede; but if naturally, as in Peter, there is a plurality of essences or natures, then — since the understanding of nature precedes [that of] person, and nature is not from persons, but person from natures — it is necessary that the person be composite; and from this it is, that in God there is rather a unity of nature with a plurality of persons, than conversely.
+
+### Scholion
+
+**I.** The two heresies of Sabellius and of Arius, condemned by the Nicene Symbol and other decrees of the Church, are refuted by the twofold proposition of the conclusion.
+
+As to the distinctions of relation in the solution to [argument] 4, it is to be noted that *relatives according to being-said* (*relativa secundum dici*) are those which in their principal signification do not import a relation, but something absolute, which however secondarily involves a relation to another, as knowledge to its object, i.e. the knowable; thus Brulifer at this place. Or more clearly with Goudin (*Philos. Logica Maior.* p. I, disp. 2, q. 4): «A relation *according to being-said* (*secundum dici*) is not something purely relative, but a certain absolute thing, which a relationship to another follows, in such a way that it cannot be expressed unless that relationship also be expressed... thus a part, although it be something absolute, nevertheless includes a relationship to the whole, [and] knowledge [a relationship] to its object». What a mutual relation is, needs no explanation. See more below at d. 30, q. 3, Scholion.
+
+**II.** Cf. above, d. 5 throughout. — Scotus, d. 11, q. 2; d. 26, q. unic. — St. Thomas, here q. 1, a. 1; *S.* I, q. 28, a. 1, 3; *S. c. Gent.* IV, c. 14. — Bl. Albert, I *Sent.* d. 26, a. 7; d. 9, a. 4. — Peter of Tarentaise, here q. 1, a. 1. — Richard of Mediavilla, here a. 1, q. 2. — Aegid. R. (Giles of Rome), here 1 princ., q. 1 and 2. — Durandus, here q. 1. — Dionys. the Carthusian, here q. unic.
 
 ---
 
