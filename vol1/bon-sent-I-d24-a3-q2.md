@@ -6,167 +6,166 @@ distinctio: 24
 articulus: 3
 quaestio: 2
 type: quaestio
+title_la: "Utrum unitas, quam important nomina trinitas et trinus, sit unitas essentiae, an suppositi."
+title_en: "Whether the unity which the names 'trinity' and 'three' import is the unity of the essence or of the supposit"
+printed_pages: [430, 431]
+pdf_pages: [20, 21]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 430–431 (pt2 raw lines 1286–1399)"
+has_apparatus: true
+has_scholion: true
 line_start: 1286
 line_end: 1429
 word_count_latin: 1225
-transcription_status: "auto-chunked 2026-04-18"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR pt2 (raw lines 1286–1399, QUAESTIO II header included; tail-trimmed before NOTANDA CIRCA LITTERAM MAGISTRI which belongs to d.24 littera chunk and before DISTINCTIO XXV at raw line 1430), literal English, scholion translated literally from OCR with [?] flag on garbled verb 'feiicit' (resolved as 'refugit'), 11-footnote apparatus assembled from p.430 footer (8 fns left column + 3 fns right column) covering the question's full extent on pp.430–431, conclusio rendered as blockquote (2026-05-03)"
 format_version: 1
 ---
 
 # bon-sent-I-d24-a3-q2
 
+## *Utrum unitas, quam important nomina trinitas et trinus, sit unitas essentiae, an suppositi.*
+
+---
+
 ## Latin
 
-QUAESTIO           II.
+<!-- page 430 -->
 
+### QUAESTIO II. *Utrum unitas, quam important nomina trinitas et trinus, sit unitas essentiae, an suppositi.*
 
+Secundo quaeritur, cuiusmodi sit illa unitas, quam importat hoc nomen *trinitas* vel *trinus*, utrum videlicet suppositi, an essentiae. Et quod essentiae, videtur:
 
+1. Quia hoc quod est *trinitas* dicitur de omnibus simul et[^1] in singulari; sed hoc solum convenit termino importanti unitatem substantialem: ergo etc.
 
-                      Utrum umta.s, quam                           hnportant nomina                           trinitas et trinus, sit                      unitas esscntiae, an suppositi.
+2. Item, nulla unitas est trium nisi essentia vel essentialis[^2]; sed *trinitas* est trium unitas: ergo hoc nomen *trinitas* dicit unitatem essentialem; pari ratione et hoc nomen *trinus*.
 
+3. Item, nec hoc nomen *trinitas* nec hoc nomen *trinus* dicitur de persona: ergo non importat unitatem personalem. Non enim[^3] conceditur: *persona est trina*, vel *persona est trinitas*.
 
+**Contra:**
 
-                     Secundo quaeritur. cuiusmodi                                 sit    illa       unitas,           mologiam. Uno modo trinitas dicitur unitas ter; et
-         quatn importat hoc nomen trinitas vel trinm, utrum                                                           sic   nomen numerale cadit in eo ut complementum,
-         videlicet suppositi,                      an essentiae. Et quod essentiae,                                   et    sicdicitur secundum relationem, sicul termini
+1. Huiusmodi nomina important simul pluralitatem et unitatem; sed sola unitas personae est plurificabilis, non essentiae: ergo important[^4] unitatem personae.
 
-         videlur                                                                                                      numerales;                  et unitas, quam importat, est unitaspe?--
+2. Item, unitas essentiae praedicatur de Patre; sed neque hoc nomen *trinus*, neque hoc nomen *trinitas* praedicatur de Patre: ergo etc.
 
-                     1 .       Quia lioc quod           est trinitas dicitur                   de omni-               sonalis, non essentialis, quia                                   illa         plurificatur.         Alia
+3. Item, unitas essentiae praedicatur de essentia; sed haec nequaquam dicitur: *essentia divina est trina*, nec: *trinitas est trina*[^5]: ergo non dicit unitatem essentialem.
 
-Fundamenm.bus siniul et ' iu singulari ; sed hoc                                  solum convenit                      etymologia est                   :    trinitas est unitas                      trium '      ;   et tunc
+Quaeritur ergo, quam unitatem important, et utrum nomina ista secundum substantiam dicantur, an secundum relationem. Et cum dicantur de omnibus simul in singulari, videntur dici secundum substantiam; cum iterum non dicantur de aliquo singillatim, non videntur dici secundum substantiam.
 
-         termino importanti unitatem substantialem                                         :   ergo etc.              unilas non numeratur, sed                                      significatur            ut       commu-
-                     2.        Iteni, nulla unitas est                  trium nisi essentia vel                       nicabilis           a tribus;               et     quoniam haec                    unitas- est       es-
+> **Conclusio.** *Unitas, quam important termini trinitas et trinus, non est unitas personalis, sed essentialis.*
 
-         essentialis V; sed trinitas est                               trium unitas: ergo hoc                         sentialis, ideo                      importat unitatem essentialem.
+**Respondeo:** Dicendum[^6], quod ad hoc consuevit assignari duplex etymologia. Uno modo *trinitas* dicitur *unitas ter*; et sic nomen numerale cadit in eo ut complementum, et sic dicitur secundum relationem, sicut termini numerales; et unitas, quam importat, est unitas personalis, non essentialis, quia illa plurificatur. Alia etymologia est: *trinitas est unitas trium*[^7]; et tunc unitas non numeratur, sed significatur ut communicabilis a tribus; et quoniam haec unitas est essentialis, ideo importat unitatem essentialem.
 
-         nomen             trinitas dicit             unitatem essentialem; pari ra-                                              Et haec qnidem etymologia ultima ^ absque du- ^''^j;^;'',,^^^-
+Et haec quidem etymologia ultima[^8] absque dubio habet veritatem; sed prima non videtur habere veritatem. Nam cum eandem significationem habeat *trinus* et *trinitas*, si illa est etymologia: *unitas ter*[^9], tunc *trinus* diceretur *unus ter*. Hoc autem non potest dici de Deo, scilicet *ter unus*, cum tamen dicatur *trinus*.
 
-         tione et               hoc nomen trinus.                                                                     bio habet veritatem; sed prima non videtur habere
+Propter hoc dicendum, quod huiusmodi nomina important unitatem formalem sive essentiae cum pluralitate suppositorum; et ideo habent quodam modo naturam termini substantialis in hoc, quod dicuntur de tribus singulariter, et termini numeralis in hoc, quod de nullo dicuntur per se.
 
-                     3.        Item, nec hoc            nomen trinitas nec hoc                                 no-    veritatem.                Nam cum eandem significationem habeat
-         men          trinus dicitur de persona: ergo                                   non importat                  trinus           et        trinitas,             si    illa    est etymologia:                   unitas
+**Ad argumenta in oppositum:**
 
-         unitatem personalem. Non enim '                                        conceditur           :        per-    ter^, tunc                  trinus           diceretur          unus           ter.     Hoc auteni
+*Ad 1.* Ad illud quod obiicitur, quod sola unitas personae est plurificabilis; dicendum, quod *trinitas* non importat pluralitatem circa unitatem in recto, sed solum in obliquo, quod sit trium vel tribus; et hoc est essentiae.
 
-         sona esl trina, vel persona est                                     trinitas.                                non potesf dici                       de Deo,            scilicet ter              unus, cum         ta-
+*Ad 2.* Ad illud quod obiicitur, quod unitas essentiae praedicatur de Patre; dicendum, quod verum est, sed non ratione hac, quia plures in eo conveniunt — sicut *animal* praedicatur de homine, non tamen ea ratione, qua diversae species in eo conveniunt[^10] — et quia *trinitas* importat illam unitatem ut in pluribus, ideo etc.
 
-                     CoNTR.\        :   I .     Huiusmodi nomina important simul                                      men dicatur trinus.
- Ad opposi- piuralitatem et unitatem; sed sola                                    unitas personae                                 Propter hoc dicendum , quod huiusmodi nomina conciusio.
+*Ad 3.* Ad illud quod obiicitur, quod non dicitur *essentia trina*, neque *trinitas trina*[^11]; dicendum, quod hoc nomen *trinus* importat unitatem ut in concretione, et ita ut inhaerentem pluribus. Et ideo de eo solo dicitur, quod importat unitatem ut in concretione,
 
-         est      plurificabilis ,                 non essentiae: ergo                    important^                  important unitatem formalem sive essentiae cum plu-
-         unitatem personae.                                                                                           ralitate         suppositorum ;                       et ideo habent                quodam modo
-                     2.        Item, unitas essentiae praedicatur dePatre;                                            naturam termini                        substantialis in hoc,                        quod dicuntur
-         sed neque hoc nomen trinus, neque hoc                                            nomen tri-                  de tribus singulariter, et termini numeralis in hoc,
-         nitas praedicatur de Patre: ergo etc.                                                                        quod de nullo dicuntur per se.
-                     3.        Item, unitas essentiae praedicatur de essen-                                                i Ad illud Tquod obiicitur ^
-                                                                                                                                   .                     quod sola unitas soiuijp op-       ,
-                                                                                                                                                                            posilorura.
+<!-- page 431 -->
 
-         tia;     sed haec                nequaquam                dicitur:        essentia divina                    personae est plurificabilis; dicendum, quod trinitas
-         est trina,                nec:         trinitas est trina^:              ergo     non                dicit   non importat pluralitatem circa unitatem                                                    in recto,
+ut hoc nomen *Deus*, quod quidem supponit personas. Et quia tale est hoc nomen *Deus*, ideo conceditur: *Deus est trinus*, non: *deitas est trina*: quia *deitas* non supponit personam; similiter nec hoc *trinitas*; et sic patent omnia.
 
-         unitatem essentialem.                                                                                        sed solum in obliquo, quod                                     sit    trium vel tribus; et
-                     Quaeritur ergo,                  quam unitatera                imporlent,                  et    hoc est essentiae.
-         utrum            nomina ista secundum substan-
-                               dicantur                                                                                           2.   Ad illud quod obiicitur, quod unitas essentiae
-         tiam, ansecundum relationem. Et cum dicantur de                                                              praedicatur de Patre;            dicendum, quod vernm est,
-         omnibus simul in singulari videntur dici secundum     ,                                                      sed non ratione hac , quia plures                                             in    eo conveniunt
+### Scholion
 
-         substantiam ; cum iterum non dicantur de aliquo sin-                                                         —      sicut animal                    praedicatur de homine, non tamen
+In solut. ad 3. S. Doctor refugit[?] locutionem *deitas est trina*. Tamen in hymno: « Sacris solemniis iuncta sint gaudia » (Officium in festo Corp. Christi), cuius auctor fertur esse S. Thomas, legitur: « Te trinitas unaque poscimus ». Dici potest, quod hic abstracti [ponitur] pro concreto. Auctores vide in quaest. praeced.
 
-         gillatim,              non videntur            dici       secundum substantiam.                              ea    ratione         ,
-                                                                                                                                                 qua diversae species in eo conveniunt '"
-                                                                                                                      —      et quia trinitas                          importat illam                unitatem ut in
-                                                   CONCLUSIO.                                                         pluribus, ideo                       etc.
-
-                                                                                                                              Ad illud quod obiicitur, quod non dicitur es-
-                                                                                                                                  3.
-         Unitas,                quam important termini trinitas et trinus,
-                                                                                                                      sentia trina, neque trinitas trina"; dicendum, quod
-                  ncm est unitas personalis, sed essentialis.
-                                                                                                                      hoc nomen trinus importat unitatem ut in concre-
-                     Respondeo              :   Dicendum " quod ad hoc consuevit
-                                                                   ,
-                                                                                                                      tione , et ita ut inhaerentem pluribus. Et ideo de eo
-                                                                                                                      solo dicitur, quod importat unitatem ut in concretione,
-
-
-
-
-                 1    In Vat. et solo cod.              cc deest et.                                                          "    In Vat. et in aliquot                    codd. verbis unitM ter praemiltitur
-                 2 Sola Vat. hic repelit vnitas.                                                                      trinilas.
-                 3    Vat. et uniis vel alter codex addunt Imec.                                                              ">   Paritas in              hoc est:      sicut     de liomine non praedicatur ani-
-                 *     Vat.      mendose importat.                                                                    mal, quatenus sub se comprehendit alias divcrsas species ani-
-                 '    Verba nec trinitas               est trina        ex    codd. P Q        adiecimus              malium,          scil.      rationale et irrationale, quasi in                       homine diversae
-         praesertim eo , quod infra in solutione liuius obiectionis occur-                                            animalium species convenirent, sed quia homo est una species
-         runt.       Mox codd.          W Y essentiae pro essentialem.                                                animalium :               sic   de PaU^e non praedicatur unitas essentiae, qua-
-                 s     Vat.      cum solo cod. cc praemittit Ad praedictorum intet-                                   tenus est         in aliis personis,                  quasi in Patre plures personae con-
-          ligentiam.            Mox Vat. absque auctoritate mss. et ed.                         I   convenit          venircnt, sed quia                    est    una       personarum, quibus unica divina
-         pro consuevit.                                                                                               essentia convenit.                   —      Vat.      paulo superius               contra   fere   omnes
-                 ' Ita S. Isidor., VII. Elymolog. c.                     4.   Vide pag. 428, nota                S.   codd. et sex primas edd.                         qua loco quia, ac dein post plures in
-         — Paulo               infra post       communicabilis , postulantibus mss.                      et    edd.   cum         aliquibus           codd.       et ed.       1    perperam ea pro eo. Proxime
-          I,   2, 3, supplevimus praepositionem a, quae saepe a S. Do-                                                infra       Vat.,     ferc       omnibus mss. et                cd.       1   dissidentibus, omittit
-
-          ctore       cum verbo communicabilis coniungitur.                                                           tamen, et mendose exhibet diversa specie pro diversae species.
-                 8     A Vat. et solo cod. cc omittitur ultima.                                                               " Codd. VZ omittunt neque trinitas trina.
-                                                                                                  DISTINCTIO XXV.                                                                                                  431
-
-          ut hoc  nomen Deus , quod quidem supponit perso-                                                      deitas           non supponit personam;                                     similiter       nec    hoc
-          nas. Et quia tale  est hoc nomen Deus, ideo conce-
-                                                 '                                                                               trinitas; et sic patent omnia.
-          ditur: Deus est trinus , non: deitas est trina: quia
-
-
-
-                                                                                                  SCHOLIOK
-                 In      solut.      ad     3.       S.    Doctor   feiicit       loculionem    deitas    est   §.   Tliomas       legitur: « Te trina
-                                                                                                                                       ,                                    tas           unaque poscimus ».        Dici
-          trina.       Tamen in liymno:                    i Sacris solemniis       iuncta sint gaudia »        potest ,       quod tiic abstracti                                        pro   concreto.    Auctores
-          (Ofiicium           in    festo    Corp.          Christi) ,    cuius      auctor    fertur    esse   vide in quaest. praeced.
-
-
-
-                                                                                  NOTANDA CIRCA LITTERAM MAGISTRI.
-
-                   In parte ista circa litteram est notandum                                           super    altenditur quantum ad formam sed etiam quantum                        ,
-
-
-
-          hoc quod                 dicit:        Cum dicimus, plures                       esse perso-          ad suppositum '; et quia sunt plures hypostases, ideo
-          nas, singularitatem atque solitudinem excludimus;                                                     praedicta quatuor in divinis recipiuntur.
-     [."ni-quia''        in divinis recipimus                       unitatem, non singula-                                 Distinclio               autem nominum praedictorum haec                                        Diiierentia
-
-     s"   ritatem nec solitudinem; quia singularitas exclu-                                                     est.   Nam                 de primis quatuor                     alietas          et   pluralitas minorum.
-          dit    communicabihtatem, solitudo excludit pluralita-                                                important distinctionem a parte rei;                                             sed    distinctio
-          tem;         et     nos ponimus                   unam essentiam in                  pluribus:        et discrelio                 per comparationem                             ad nostram cogni-
-          ideo haec^        non recipimus.                                                                      tionem, sed alietas per                                 modum substantiae, plu-
-                     Similiter notandum ex parte pluralitatis quod                                 ,
-                                                                                                                ralitas per                  modum quantitatis, quamvis non sit ibi
-     ipta-recipimus ista quatuor, scilicet* alietatem, plurali-                                                 vere quantitas. Distinctio autem et discretio                                                     diffe-
-
-          tatem, discretionem alque distinctionem ; sed haec                                                    runt, quia discretio dicitur in comparatione ad vi-
-          quatuor e contrario non recipimus, scilicet diversita-                                                sum, sed distinctio in comparatione ad tactum.
-          tem, multiplicitatem , divisionem et separationem.                                                         Alia autem quatuor differunt sic: nam ' diversi-
-                   Ratio autem huius                            est,     quia separatio suppo-                  tas attenditur secundum substantiam; midtiplicitas
-
-Ratioprae-nit    divisionem, divisio mMZZzpfertatemj multiplicitas                                              quantum ad veram quantitatem; divisio quantum ad
-          diversitatem , diversitas autem ponit formae vel na-                                                  positionem sive ad discontinuationem ; sed separatio -Miiei.
-          turae distinctionem. Et quia in divinis est naturae                                                   quantum ad ubi.                          — Vel         aliter : diversitas              quantum
-          omuimoda unitas, ideo, cum non recipiatur diver-                                                      ad principium intrinsecum; multiplicitas quantum
-          sitas, nec aliquod istorum quatuor. E contra discre-                                                  ad  numerum; divisio quantum ° ad terminum; se-
-          tio   praesupponit ^ distinctionem, distinctio plurali-                                               paratio vero attenditur quantum ad medium inter-
-          tatem , pluralitas alietatem. Alietas autem non tantum                                                iectum.
+---
 
 ## English
 
-[Translation pending]
+### QUESTION II. *Whether the unity which the names "trinity" and "three" import is the unity of the essence, or of the supposit.*
+
+Secondly it is asked, of what kind that unity is which this name *trinity* or *three* imports — namely, whether of supposit, or of essence. And that [it is] of essence is shown:
+
+1. Because that which is *trinity* is said of all [the persons] together and[^1] in the singular; but this belongs only to a term importing substantial unity: therefore etc.
+
+2. Likewise, no unity is "of three" except essence or essential[^2]; but *trinity* is the unity of three: therefore this name *trinity* expresses essential unity; by parity of reason, also this name *three*.
+
+3. Likewise, neither this name *trinity* nor this name *three* is said of a person: therefore it does not import personal unity. For it is not[^3] conceded: *the person is three*, or *the person is trinity*.
+
+**On the contrary:**
+
+1. Names of this sort import simultaneously plurality and unity; but the unity of the person alone is what can be pluralized, not [the unity] of the essence: therefore they import[^4] the unity of the person.
+
+2. Likewise, the unity of the essence is predicated of the Father; but neither this name *three*, nor this name *trinity*, is predicated of the Father: therefore etc.
+
+3. Likewise, the unity of the essence is predicated of the essence; but this is by no means said: *the divine essence is three*, nor: *trinity is three*[^5]: therefore it does not express essential unity.
+
+It is asked, therefore, what unity they import, and whether these names are said according to substance, or according to relation. And since they are said of all [the persons] together in the singular, they seem to be said according to substance; since again they are not said of any one singly, they do not seem to be said according to substance.
+
+> **Conclusion.** *The unity which the terms "trinity" and "three" import is not personal unity, but essential.*
+
+**I respond:** It must be said[^6] that for this purpose a twofold etymology is wont to be assigned. In one way *trinity* is called *unity thrice*; and thus the numeral name falls in it as a complement, and it is so said according to relation, like numeral terms; and the unity which it imports is personal unity, not essential, since the latter is pluralized. The other etymology is: *trinity is the unity of three*[^7]; and then the unity is not numbered, but is signified as communicable from the three; and since this unity is essential, therefore it imports essential unity.
+
+And this last[^8] etymology indeed without doubt has truth; but the first does not seem to have truth. For since *three* and *trinity* have the same signification, if that is the etymology: *unity thrice*[^9], then *three* would be called *one thrice*. But this cannot be said of God, namely *thrice one*, although he is nevertheless called *three*.
+
+On account of this it must be said that names of this sort import formal unity, or unity of essence, together with plurality of supposits; and therefore they have in some way the nature of a substantial term in this, that they are said of three in the singular, and the nature of a numeral term in this, that they are said of no one [supposit] *per se*.
+
+**To the arguments on the opposite side:**
+
+*To 1.* To that which is objected, that the unity of the person alone can be pluralized; it must be said that *trinity* does not import plurality with regard to unity in the direct [case], but only in the oblique, [namely] that it be of three or to three; and this is [the case] of the essence.
+
+*To 2.* To that which is objected, that the unity of the essence is predicated of the Father; it must be said that this is true, but not on this ground — that several [persons] come together in him — just as *animal* is predicated of man, yet not on the ground on which diverse species come together in him[^10] — and since *trinity* imports that unity as in several [supposits], therefore etc.
+
+*To 3.* To that which is objected, that it is not said *the essence [is] three*, nor *trinity [is] three*[^11]; it must be said that this name *three* imports unity as in concretion, and so as inhering in several. And therefore of it alone is it said that it imports unity as in concretion,
+
+as [does] this name *God*, which indeed stands for the persons. And because this name *God* is such, therefore it is conceded: *God is three*, [but] not: *the deity is three*: because *deity* does not stand for a person; likewise neither does this *trinity*; and so all things are plain.
+
+### Scholion
+
+In the solution to [objection] 3, the holy Doctor shrinks from[?] the locution *deitas est trina* ("the deity is three"). Yet in the hymn « Sacris solemniis iuncta sint gaudia » (Office on the feast of *Corpus Christi*), whose author is reputed to be St. Thomas, one reads: « Te trinitas unaque poscimus » ("Thee, both Trinity and one, we beseech"). It can be said that here the abstract [stands] for the concrete. For the [other] authors see in the preceding question.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi NOTAE AD COMMENTARIUM in Latin followed by an English rendering. Footnotes 1–8 are drawn from the left column of the footer of printed page 430; footnotes 9–11 are from the right column of the same footer (covering the question's full extent through its conclusion on p.431).
 
-## Notes
+[^1]: **La.** In Vat. et solo cod. cc deest *et*.
 
-[Notes pending]
+    **En.** In the Vatican [edition] and only cod. cc, *et* ("and") is missing.
+
+[^2]: **La.** Sola Vat. hic repetit *unitas*.
+
+    **En.** The Vatican [edition] alone here repeats *unitas* ("unity").
+
+[^3]: **La.** Vat. et unus vel alter codex addunt *haec*.
+
+    **En.** The Vatican [edition] and one or another codex add *haec* ("these").
+
+[^4]: **La.** Vat. mendose *importat*.
+
+    **En.** The Vatican [edition] erroneously [reads] *importat* ("[it] imports") [in the singular].
+
+[^5]: **La.** Verba *nec trinitas est trina* ex codd. P Q adiecimus, praesertim eo, quod infra in solutione huius obiectionis occurrunt. Mox codd. W Y *essentiae* pro *essentialem*.
+
+    **En.** We have added the words *nec trinitas est trina* ("nor: trinity is three") from codd. P Q, especially because they recur below in the solution to this objection. Soon afterwards, codd. W Y [read] *essentiae* in place of *essentialem*.
+
+[^6]: **La.** Vat. cum solo cod. cc praemittit *Ad praedictorum intelligentiam*. Mox Vat. absque auctoritate mss. et ed. 1 *convenit* pro *consuevit*.
+
+    **En.** The Vatican [edition] with only cod. cc prefixes *Ad praedictorum intelligentiam* ("For the understanding of the things said before"). Soon afterwards, the Vatican [edition], without the authority of the mss. and ed. 1, [reads] *convenit* ("it agrees") in place of *consuevit* ("it is wont").
+
+[^7]: **La.** Ita S. Isidor., VII. Etymolog. c. 4. Vide pag. 428, nota 8. — Paulo infra post *communicabilis*, postulantibus mss. et edd. 1, 2, 3, supplevimus praepositionem *a*, quae saepe a S. Doctore cum verbo *communicabilis* coniungitur.
+
+    **En.** Thus St. Isidore, VII *Etymologies* c. 4. See above p. 428, note 8. — A little below, after *communicabilis*, with the mss. and editions 1, 2, 3 demanding it, we have supplied the preposition *a* ("from"), which is often joined by the holy Doctor with the word *communicabilis* ("communicable").
+
+[^8]: **La.** A Vat. et solo cod. cc omittitur *ultima*.
+
+    **En.** By the Vatican [edition] and only cod. cc, *ultima* ("last") is omitted.
+
+[^9]: **La.** In Vat. et in aliquot codd. verbis *unitas ter* praemittitur *trinitas*.
+
+    **En.** In the Vatican [edition] and in some codices, *trinitas* is prefixed to the words *unitas ter*.
+
+[^10]: **La.** Paritas in hoc est: sicut de homine non praedicatur *animal*, quatenus sub se comprehendit alias diversas species animalium, scil. rationale et irrationale, quasi in homine diversae animalium species convenirent, sed quia homo est una species animalium: sic de Patre non praedicatur unitas essentiae, quatenus est in aliis personis, quasi in Patre plures personae convenirent, sed quia est una personarum, quibus unica divina essentia convenit. — Vat. paulo superius contra fere omnes codd. et sex primas edd. *qua* loco *quia*, ac dein post *plures* in cum aliquibus codd. et ed. 1 perperam *ea* pro *eo*. Proxime infra Vat., fere omnibus mss. et ed. 1 dissidentibus, omittit *tamen*, et mendose exhibet *diversa specie* pro *diversae species*.
+
+    **En.** The parity in this is: just as *animal* is not predicated of man insofar as it comprehends under itself other diverse species of animals, namely rational and irrational, as if in man diverse species of animals came together, but because man is one species of animals — so the unity of the essence is not predicated of the Father insofar as it is in the other persons, as if in the Father several persons came together, but because he is one of the persons to whom the one divine essence belongs. — The Vatican [edition], a little above, against nearly all the codices and the first six editions, [reads] *qua* in place of *quia*, and then after *plures in* with some codices and ed. 1 erroneously [reads] *ea* in place of *eo*. Just below, the Vatican [edition], with nearly all the mss. and ed. 1 dissenting, omits *tamen* ("nevertheless"), and erroneously exhibits *diversa specie* in place of *diversae species*.
+
+[^11]: **La.** Codd. VZ omittunt *neque trinitas trina*.
+
+    **En.** Codd. VZ omit *neque trinitas trina* ("nor: trinity is three").

@@ -4,363 +4,202 @@ volume: 1
 book: 1
 distinctio: 25
 type: dubia
+title_la: "Dubia circa litteram Magistri"
+title_en: "Doubts on the Master's text"
+printed_pages: [445, 446, 447]
+pdf_pages: [35, 36, 37]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 445–447"
 line_start: 2773
 line_end: 3113
-word_count_latin: 3258
-transcription_status: "auto-chunked 2026-04-18"
+line_start_pt2: 2773
+line_end_pt2: 2999
+word_count_latin: 1480
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR (pt2 raw lines 2773–2999), 4 dubia I–IV, literal English, 20-footnote apparatus reflowed from 2-column footer blocks of pp. 445, 446, 447 (col-A only on p. 447 — col-B notes belong to d.26 starting on same page), no scholion (2026-05-03)"
 format_version: 1
 ---
 
 # bon-sent-I-d25-dubia
 
+## *Dubia circa litteram Magistri*
+
+---
+
 ## Latin
 
-DUB.    I.                                                                        autem huius est com-
-                                                                                                                    est; et sic plurificatur. Ratio
+<!-- page 445 -->
 
-                                                                                                                    munis usus. Quia accipiunt substantiam pro natura
-                            In parte ista sunt dubitationes circa litteram et                                       rei; ideo pro supposito magis voluerunt                                                                    accipere sub-
-               primo quaeritur de hoc quod dicit Magister: Dici-                                                    sistentiam.
-               mus, quod tres personae sunt, id est tres subsisten-
-               tiae ; quia contrarium dicit Boethius in libro de Dua-                                                                                                                   DUB.           II.
+### DUBIA CIRCA LITTERAM MAGISTRI.
 
-               bus naturis                   et   una persona Christi *, assignans diffe-
-               rentiam inter subsistere                         et substare, quia «subsistit                                       Ilem quaeritur de hoc quod                                                            dicit,         quod tres
-               illud         quod non indiget alio ut                      sit ;   substat vero quod                perso7ias esse unam essentiam vel eiusdem essentiae
-               subiectum aUis, ut esse valeant, subministrat »                                            .   Vi-   dicimus, non ex eadem, essentia. Videtur enim                                                                                        fal-
+### DUB. I.
 
-               detur ergo, quod subsistere                         sit idem quod esse, et                           sum, quia Pater generat Filium de sua substantia
-               subsistentia idem                         quod essenlia: ergo nullo modo                             et spirat Spiritum sanctum ergo videtur, quod om-                                  :
+In parte ista sunt dubitationes circa litteram, et primo quaeritur de hoc quod dicit Magister: *Dicimus, quod tres personae sunt, id est tres subsistentiae*; quia contrarium dicit Boethius in libro *de Duabus naturis et una persona Christi*[^1], assignans differentiam inter *subsistere* et *substare*, quia «subsistit illud quod non indiget alio ut sit; substat vero quod subiectum aliis, ut esse valeant, subministrat»[^4]. Videtur ergo, quod *subsistere* sit idem quod *esse*, et *subsistentia* idem quod *essentia*: ergo nullo modo potest dici, quod sint plures subsistentiae.
 
+**Respondeo:** Dicendum, quod Boethius accipit ibi hoc nomen *subsistentia* secundum Marcum Tullium[^2], prout accipit significationem ab actu sistendi[^5] sive per se standi; et sic tantum una est subsistentia. Sed nunc doctores sacrae Scripturae accipiunt prout magis importat respectum ad proprietatem, cui subsistentia est; et sic plurificatur. Ratio[^3] autem huius est communis usus. Quia accipiunt *substantiam* pro natura rei; ideo pro supposito magis voluerunt accipere *subsistentiam*.
 
+### DUB. II.
 
+Item quaeritur de hoc quod dicit, quod *tres personas esse unam essentiam vel eiusdem essentiae dicimus, non ex eadem essentia*. Videtur enim falsum, quia Pater generat Filium de sua substantia et spirat Spiritum sanctum: ergo videtur, quod omnes personae sint de eadem substantia.
 
-               potest dici,                  quod       sint plures subsistentiae.                                  nes personae sint de                                                eadem substantia.
-                            Respondeo: Dicendum, quod Boethius accipit ibi                                                         Item quaeritur: quare non conceditur ista, quod
-               hoc nomen subsistentia secundum Marcum TuUium ^,                                                     persooae sunt ex eadem essentia,                                                                    sicut       conceditur
-               prout accipit significationem ab actu sistendi sive                                                  ista,            quod sunt eiusdem es^m^me.^ Et videtur, quod
-               per se standi; et sic tantum una est subsistenlia.                                                   debeat concedi, quia                                                 ex           dicit in          divinis          habitudi-
-               Sed nunc doctores sacrae Scripturae accipiunt prout                                   ,
-                                                                                                                    nem originis, et similiter genitivus originem impor-
-               magis importat respectum ad proprietatem                                         ,   cui sub-        tat.           Si tu dicas,                               quod propter                          transitiones,                   quia
+Item quaeritur: quare non conceditur ista, quod personae sunt *ex eadem essentia*, sicut conceditur ista, quod sunt *eiusdem essentiae*? Et videtur, quod debeat concedi, quia *ex* dicit in divinis habitudinem originis, et similiter genitivus originem importat. Si tu dicas, quod propter transitiones, quia
 
+<!-- page 446 -->
 
+praepositiones sunt transitivae[^6] — ita et obliqui casus sunt transitivi. Praeterea, haec recipitur: *personae sunt in eadem essentia*, et tamen hoc quod dico *in* est praepositio.
 
+**Respondeo:** Dicendum, quod quando[^7] aliquid comparatur ad aliud ut informans sive denominans, non ponitur propter hoc diversitas sive distinctio unius ad alterum; sic enim comparatur deitas ad Deum. Alio modo comparatur alterum sicut principium ad principiatum; et tunc de necessitate importatur distinctio. Quoniam igitur haec praepositio *ex* importat habitudinem causae vel saltem principii, ideo de necessitate dicit distinctionem inter extrema: et ideo haec non potest esse vera, quod *personae sint ex eadem essentia*. Sed quia genitivus non tantum construitur in ratione principii, immo ex declaratione essentiae, cum dicitur: *mulier egregiae formae*, ut dicit Priscianus[^8]; ideo cum genitivo haec est vera: *tres personae sunt eiusdem essentiae*.
 
-                       '     Codd. aa bb cc cum ed                1   antonoma^tice ,          non omnino           subiectum quoddam, ut esse valeant, subministrat.                                                                   — Paulo           in-
-               perperam, quia antonomasia est flgura, quae                              fit,    quolies       pro   fra post verba subsistere sit idem quod ex mss. restauravimus
+### DUB. III.
 
-               nomine proprio substituitur eius epitheton.                                                          verba a Vat. omissa: esse et subsistentia idem quod.
-                       '     Ed.    1    subiicit eiiam.                                                                       ^     Vide supra pag. 412, nota 7.                                            — Proxime post Vat,                         suf-
-                       3     Cod.       G sola analogia.                                                            fragante             cod.          cc,              secundum actum subsistendi pro ab actu
-                       •     Cap. 3      :   Subsistit enim     quod ipsum aocidentibus, ut pos-                    sistendi.
-               sit    esse,      non indiget; substat autem                 id   quod aliis accidentibus
-                                                                                                                     ,                                                                                                                     ,,
+Item quaeritur de hoc quod dicit: *Tres res*, et accipit hoc ab Augustino in primo libro *de Doctrina christiana*[^9]. Videtur enim male dicere, dicendo *tres res*, quia *res* est nomen absolutum et generale: ergo videtur, quod si aliquid dicat in divinis, quod dicat essentiam sive substantiam: ergo sicut nullo modo recipitur *tres essentiae*, ita nullo modo debet recipi *tres res*. Et si tu dicas, quod recipitur[^10] *tres entes*; hoc non est simile, quia *ens* est participium, et ita trahit numerum aliunde et non numeratur secundum formam propriam entitatis; *res* autem est nomen substantivum. Si tu dicas, quod *res* nominat mihi formam a parte animae, vel istud nomen impositum est a parte animae; hoc nihil est, quia illa sunt nomina intentionum, et *res* dividitur contra intentionem.
 
+**Respondeo:** Dicendum, quod unaquaeque[^11] res potest considerari tripliciter: aut secundum proprietates, quas habet in propria natura; aut secundum modum, per quem fit apud animam; aut secundum proprietatem consequentem, quae inest ei ab actibus animae, qui sunt subiicere et praedicare, componere et dividere[^12]. Secundum ergo hanc triplicem acceptionem contingit rem tripliciter nominari. Uno modo per nomen, quod indicat existentiam a parte suae naturae, sicut dicitur *album* et *nigrum* et huiusmodi. Alio modo, secundum quod anima accipit; et sic, quia anima omnia accipit[^13] per modum entis, nominat hoc modo *res*. Unde omne illud *res* dicitur, quod anima cogitat ut existens in natura. Alio modo contingit nominare per intentiones secundas, sicut dicitur *genus*, *species*, *subiectum*, *praedicatum*.
 
+Quoniam igitur hoc nomen *res* dicit quasi medium inter nomen, quod dicit pure formam naturae, et nomen quod dicit formam intentionis; ideo non tantum essentiae convenit, sed etiam personis; et ideo *tres res* dicimus *tres personas*, non sic *tres essentias*; et huic significationi alludit ipsum nomen. *Res* enim dicitur a *reor*, *reris*, quod dicit actum a parte animae; et alio modo *res* venit ab hoc quod est *ratus*, quod dicit stabilitatem a parte naturae; et sic *res* dicit stabilitatem sive ratitudinem ex parte entitatis. Et sic patent obiecta, quia uno modo est nomen naturae, alio modo est nomen rationis[^14].
 
+### DUB. IV.
 
-    446                                                                                        SENTENTIARUM LIB. 1.
+Item quaeritur de hoc verbo Hieronymi: *Non est prorsus aliquis in Trinitate gradus*. Videtur enim dicere contra illud quod dicit Augustinus nono *Confessionum*[^15]: «Pater et Filius non differunt substantia, sed causa et gradu». — Item, in divinis est subsistentia[^16], ergo ibi est *sub*; sed *sub* dicitur relative
 
-    praepositiones sunt transitivae                              '    —     ita et obliqui casus                                        Respondeo: Dicendum, quod unaquaeque ' res                                                              nes nipii.
+<!-- page 447 -->
 
-    sunt transitivi. Praeterea, haec recipilur: personae                                                                 potest considerari tripliciter: aut secundum proprie-
+ad superius: ergo ibi est *sub* et *super*, ergo inferius et superius, ergo et gradus. — Item ubicumque auctoritas et subauctoritas, ibi est gradus; sed haec est in Patre et Filio: ergo etc.
 
-    sunt in eadem essentia , et tamen hoc quod dico in                                                                   tates,          quas habet in propria natura; aut secundum'
-    est praepositio.                                                                                                     modum, per quem fit apud animam                                                   ;   aut secundum
-              Respondeo: Dicendum, quod                                          quando ' ahquid                         proprietatem consequentem, quae inest                                                   ei       ab actibus
--comparatur ad aliud ut informans sive denominans,                                                                       animae, qui sunt subiicere                                          et     praedicare, compo-
-'non ponitur propter hoc diversitas sive distinctio                                                                      nere et               dividereK Secundum                                   ergo hanc               triplicem
- unius ad aUerum; sic enim comparatur deitas ad                                                                          acceptionem contingit rem                   Uno                    tripliciter        nominari.
-    Deum. Alio modo comparatur alterum^ sicut p-mci-                                                                     modo per nomen, quod indicat existentiam a parte
-    pium           ad principiatum ; et tunc de necessitate                                                     im-      suae naturae                        ,   sicut dicitur album et nigrum et huius-
+**Respondeo:** Dicendum, sicut dicit Glossa[^17], *Exodi*: «*Non ascendes per gradus ad altare* etc. Per gradus ascendit ad altare, qui dicit Patrem maiorem Filio, et Filium Spiritu sancto, sicut dicit Arius». Unde cum *gradus* de ratione sui nominis tollat personarum aequalitatem, ideo bene dicit Hieronymus, quod non est prorsus in divinitate gradus; nihilominus ponitur ordo. Differunt enim *gradus* et *ordo*, sicut *punctus* et *unitas*. Nam *punctus* est substantia posita; ideo solum est in corporalibus. *Unitas* est substantia non habens positionem[^18]; ideo est in spiritualibus. Sic *gradus* dicit superpositionem vel est loci, vel dignitatis. *Ordo* vero dicit habitudinem ad principium sine superpositione[^19].
 
-    portatur distinctio. Quoniam igitur haec praepositio                                                                 modi.            /1 /20            morfo, secundum quod anima accipit; et
-    ex importat habitudinem causae vel saltem principii                                                                  sic ,          quia anima omnia accipit ° per                                         modum entis
-    ideo de necessitate dicit distinctionem inter extrema:                                                               nominat hoc modo res. Unde omne iliud res dicitur,
-    et ideo         haec non potest esse vera, quod personae sint                                                        quod anima cogitat ut existens in natura. Alio modo
-    ex eadem essenlia. Sed quia genitivus non tantum                                                                     contingit                 nominare per intentiones secundas, sicut
-    construitur in ratione •principii, immo ex videcla-                                                                  dicitur genus, species, subiectum,                                             praedicatum.
-    rationis          essentiae ,          cum             dicilur:              mulier                egregiae               Quoniam igitur hoc nomen res dicit quasi medium
-    formae, ut             dicit      Priscianus^; ideo cum genitivo haec                                                inter nomen, quod dicit pure forniam naturae , et
+Ad illud ergo quod dicit Augustinus, dicendum, quod improprie loquitur in utroque verbo, et *causa* sumitur ibi pro *principio*, *gradus* vero sumitur pro *ordine*.
 
-    est vera: tres               personae sunt eiusdem essentiae.                                                        nomen quod dicit formam intentionis ; ideo non tan-
-                                                                                                                                          ,
+Ad illud quod obiicitur de *sub*, dicendum, quod *sub* in divinis non dicit inferioritatem, sed solum habitudinem secundum rationem intelligendi. — Ad illud quod obiicitur de auctoritate, dicendum, quod verum est, secundum quod *auctoritas* sonat in rationem dominii, quod ponit gradum; sed sic non est in divinis, sed solum, prout sonat in rationem principii; et hoc ponit ordinem in cognoscendo[^20].
 
-
-                                                                                                                         tum essentiae convenit sed etiam personis et ideo      ,                                            ;
-
-
-
-                                              DuB.         m.                                                            tres res dicimus tres personas,                                             non       sic        tres    essen-
-                                                                                                                         tias; ethuic signifieationi alludit ipsum nomen. Res
-              Item quaeritur               de hoc quod                           dicit:        Tres res,                 enim dicitur a reor , reris, quod dicit actum a parte
-    et accipit         hoc ab Augustino                         in    primo          libro                 de Do-        animae;                   et       aho         modo ?-es venit ab hoc quod                                  est
-
-    ctrina christiana ^ Videlur                            enim male dicere dicendo                                      ratus , quod                            dicit stabilitatem                a parle           naturae;            et
-
-    tres res, quia res est nomen                                 absolutum et generale:                                  sic res dicit                           stabihtatem sive ratitudinem                               ex parte
-    ergo videtur, quodsi aliquid dicat in divinis, quod di-                                                              entitatis.                        uno modo est
-                                                                                                                                                   Et sic patent obiecta, quia
-
-    cat essentiam sive substantiam : ergo sicut nuUo modo                                                                nomen naturae, alio modo est nomen rationis "".
-    recipitur tres essentiae, ita nullo                                     modo debet recipi
-    tres res.         Et si tu dicas, quod recipilur^ tres entes;                                                                                                             DuB.          IV.
-
-    hoc non est simile, quia ens est participium, et ita
-    trahit numerum aliunde et non numeratur secundum                                                                                    Item quaeritur de                            hoc verbo Hieronymi:                           ISon
-    formam propriam                    entitalis;                res        autem          est              nomen        est     prorsus aliquis in                                  Trinitate gradus.                           Videtur
-    substantivum. Si tu dicas , quod res nominat mihi                                                                    enim dicere contra iilud quod                                            dicit Augustinus                 nono
-    formam a parte animae, vel istud nomen impositum                                                                     Confessionum "                            :   « Pater et Filius              non differunt sub-
-    est   a parte animae; hoc nihil                                  est,    quia         illa         sunt no-          stantia, sed causa et gradu ».                                           — Item,        in divinis est
-
-    mina intentionum, et re* dividitur contra intentionem.                                                               subsistentia '\ ergo ibi est sub; sed sub dicitur relative
-
-
-
-
-          1
-              Cfr.   supra      d. S. a.      I.     q.    2.    arg.       1.   ad opp.       ,       et    solutio     homo, quatenus esl species, vel quatenus est S!(6j>cfam in pro-
-    huius argumenti.                                                                                                     positione. Medius modus, quo res considerari potcst iuxta S. Bo-
-          2   Vat. sola atiquando, et                     mox post denominaiu                               addit et     naventuram scil. per quem flt res apud animam complectitur
-                                                                                                                                                   ,                                                                  ,
-
-
-
-
-    tamen.     — Paulo          inferius cod.              sic   vero pro sic enim.                                      generales             conditiones,                  quae actum           intellectus        concomilantur
-          '   Sic vetustioi-es codd.           cum. ed. 1              ;    Vat. cum cod. cc com-                        V. g.          quod intellectus cognoscat rem per modum abstractionis
-    paratur aliquid ad aliud.                                                                                            universalitatis , entis ete.                         — Paulo superius pro consequentem
-        * Libr. XVlll. Grammat.                      c.    I.    Cfr. etiam supra                  d. 3. p.        II.   Val. cum cod. cc communem, refragantibus vetustioribus codd.,
-    dub. 3     ;   et Ale.x. Hal., S. p.        I.   q. 56.          m. 7.       a. 3.    ad       1   ;    nec non      nec non repugnante Scholasticorum                                        modo loquend'.
-    B. Albert., hic a. 5; et S.               Thom.,             hic circa         lit.                                             '    Verba et sic, quia anima omnia                                accipit,            a Vat. sup-
-          5   Cap.    S.   n.    S.                                                                                      pressa,          auctoritale                  plurium codd. ut             GHMOTZ bb et ed.                      1
-
-          8     cum. cod. cc omittit verba quod recipilur, substi-
-              Vat.                                                                                                       in    textum recepimus.
-    tuit pro vocula koc, quae proxime sequitur, hic, et paulo infe-
-                                                                                                                                    1°   Cfr.      supra d.             1.   dub. 7    ;   B. Albert., hic a. 6; S.               Thom.,
-    rius mutat propriam in propriae.                                                                                     hic a. i.
-         ' In Vat. et cod. cc supprimitur nnaqnaeque.                                                                               " Etsi codd. et edd. concordes allegant Librum 9. (vel                                           1   1.)
-
-          8   iVotamus,         quod    rei    primo et               terlio      modo         consideratae              Confcssionum                   ,   verba lamen             citata ibi     non exstant, sed habentur
-    respondet conceptus, qui a Scholasticis prima intentio elsecunda                                                     in libro, qui                  quondam inter opera                    S.   Augustini perperam re-
-
-    intentio vocabatur , a             modernis autem idea realis et logica nun-                                         censebatur et inscribitur: Quaestiones ex utroque Testamenio
-    cupatur.        Prima igitur intentio est conceptus, quo intellectui re-                                             mixtim,              q.   122:           « Nihil    differt       a Patre Filius?       Nihil plane dif-
-
-    praesentatur res, prout est in se, sive        secundum proprietates,                                                fert in substantia,                       quia verus Filius est; differt autem in causa-
-
-    quae ei conveniunt, nulla habita ratione operationis intellectus,                                                    litatis        gradu (alias: in causa vel gradu) j. TertuIIianus adv. Prax.
-    V. g. homo, prout est animal raliona\e. Secunda autem intentio                                                       c.    2.       ait: « Tres autem non stalu, sed gradu; nec substantia,
-
-    est conceptus,          quo intellectui repraesentatur res, non prout est                                            sed forma; nec polestate, sed specie ».
-    in se, sed        sub proprietatibus              ei    ab       intellectu atlributis,                   v.   g.
-                                                                                                                                    12   Val.          cum paucis tantum n
-                                                                                                                                                                                                                                                         ;,
-
-
-
-
-                                                                                                                                DISTINGTIO XXVI.                                                                                                      447
-
-              ad superius                :    ergo          ibi est sub et supej-,                              ergo inferius                     spiritualibus. Sic      gradus dicit superpositionem vel
-              et     superius , ergo et gradus.                                     — Item ubicumque    ,                                  est    loci ,    vel dignitatis. Ordo vero dicit habitudinem ad
-              auctorilas et subauctoritas ,                                         ibi est           gradus; sed haec                            principium sine superpositione l
-              est in Patre et Filio: ergo etc.                                                                                                        Ad illud ergo quod dicit Augustinus, dicendum,
-                                                                                                                                                                                                     ^™'
-                                                                                                                                                                                                                                                              m   i
-
-
-
-                                                       Dicendum                ,    sicut dicit Glossa                           ,    Exodi       quod improprie loquitur in utroque verbo, et causa
-                                             Non ascendes per gradus ad altare etc.                                                               sumitur          ibi    pro principio,                    gradus vero sumitur
-              Per gradus ascendit ad altare, qui dicit Patrein maio-                                                                              pro ordine.
-              rem Filio, et Fiiium Spiritu sancto, sicutdicit Arius».                                                                                       Ad illud quod obiicitur de sub , dicendum, quod
-              Cnde cum gradiis de ratione sui nominis tollal per-                                                                                 suh       in divinis          non       dicit     inferioritatem ,                     sed        solum
-              sonarum aequalitatem ideo bene dicit Hieronymus,  ,                                                                                 habitudinem secundum rationem inteUigendi.                                                    — Ad
-              quod non esl prorsus in divinitate gradus; nihilo-                                                                                  illudquod obiicitur de auctoritate, dicendum quod                                             ,
-
-  Diflerani   minus pouitur ordo. Differunt enim gradus                                                                         et ordo,          verum est, secundum quod auctoritas sonat in ratio-
- ordo.        sicut           punclus et unitas.                         Nam punctus est substantia                                               nem dominii, quod ponit gradum; sed                                                sic    non       est
-              posita; ideo solum est in corporahbus. Unitas                                                                            vero       in divinis , sed solum, pront sonat in rationem prin-
-              est substantia                      non habens positionem"; ideo                                                       est    in    cipii; et        hoc ponit ordinem in cognoscendo^
-
-
-                                                                                                                          DISTJNGTIO XXVI.
-
-                                                                    Cap.           I.                                                             stases dicens,              sub nomine pietatis tres naturas conalur
-                                                                                                                                                  asserere.         Suflficiat          nobis dicere             unam           substantiam             et
-                                             Be hoc nomine hypostasis.                                                                            tres personas perfectas aequales;                               taceamus               tres       hypo-
-                                                                                                                                                  stases, si placel.             Nomen hoc non bonae suspicionis est,
-                         Nunc de proprietatibus personarum quas frequen-                                    ,                                     cum in eodem verbo sensus dissenliunt. Aut si rectum
-              ter in hoc traclatu conimemoraviraus , aliquid nos loqui                                                                            putatis,        tres        hyposlases          cura          interpretationibus suis
-                   Sed primum audiamus, quid de hoc nomine
-              oportet.                                                                                                                            debere nos dicere, non negamus. Sed                                           raihi       credite,
-HmoBjmus. hyposlasis Hieronymus dicit. Ait enim, sub hoc nomine                                                                                   veuenum sub raelle latet; tra.nsfigurat enim se angelus
-          venenum latere. Sed hoc dicit, secundum quod haere-                                                                                     satanae in Angelum lucis^». His verbis non negat
-          tici eo utebantur, ut simplices seducerent  scilicet pro                                               ,                                utendum esse nomine hypostasis, sed haerelicos eo prave
-          persona et pro essentia, ut, sive diceretur una tantum                                                                                  usos ostendit           ,    contra quos cautela opus erat in distin-
-          hypostasis sive tres, minus peritos ad inconveniens                                                                                     ctione significationis; alioquiu                             sibi   contradiceret,                  qui
-          deducerent, cum non erat hoc nonien ita apud calho-                                                                                     supra ti'es hypostases confltetur.
-          licos vulgatum, nec ita eius signiflcatio determinata,
-          ut modo. Et ideo Hieronymus dicit, hoc nomine non                                                                                                                                 C.\p.    II.
-
-              utendum fore sine distinctione vel expositione, tunc
-              scilicet, quando cum haereticis contendebatur, ita scri-                                                                                De proprietatibus personarwn et de nominibus
-              bens de Fide catholica ad Damasum Papam ' « Ab Aria-                                                    :                                               earum relativis.
-              norum praesule hjpostaseon novellum nomeii a me
-              homine Romano exigitur. Interrogamus, quid tres hy-                                                                                          lara   de proprietalibus personarum videamus, quae
-              postases arbitrentur intelligi;                                        tres       personas subsisten-                               etiam notiones sive relationes in Scriptura plerumque
-              tes,        Respondemus, nos ita credere. Non sullicit
-                         aiunt.                                                                                                                   dicuntur in illa Trinitate sancta quae ideo a nobis repe-;
-
-
-              eis semusj ipsum nomen efflagilant; quia nescio quid                                                                                titur ^, ut nostro cordi teuacius infigatur. Ait   Auguslinus Augi
-              veneni in syllabis latet. Clamamus: si quis ires hypo-'                                                                             in libro de        Fide ad Petrum ": «Ahud est genuisse quara
-              stases, id est, tres subsistentes personas uon confite-                                                                             natura esse        ,   aliudque est procedere quam genuisse vel
-              tur, anathema sit. Si quis autem, hypostasim usiam                                                                                  natum esse. Unde manifestum est, quod alius est Paler,
-              intelligens non tribus personis unam hypostasim indi-
-                                     ,                                                                                                            alius Filius, alius Spiritus sanctus». « Et est proprium
-              cit,           alienus         a Christo              est,            qui         scilicet,                 tres        hypo-       solius Patris,              non quia non est natus ipse                            ,     sed quia
-
-
-
-
-                      1
-                              Vers. 26.       — Glossa apud Lyr.                          in liunc          locum          :    Gradus in                            NOTAE AD LIBR. SENTENTIARUM.
-              Trinitate non facies sicut Arius, qui maioreni Patrem,                                                            minorem                 '   Epist. 15. n.        3; in quo textu pro indicit ed. 2 inducit
-              Filium,          minimum Spiritum sanclum docuit.                                                                                   originale dicit, sed adiicit particulam in ante                               tribus         persoms.
-                      2 Aristot.,            I.   Poster.      c.   23.       (c.       27.):     o   Unitas substantia est                       Deinde codd.           A C D E et ed. 1 cum                   originali       omittunt            Nomen
-              sine posilione,                punctum autem substantia posita ». Simile habe-                                                      hoc post si placet, quae lectio, licet minus clara, fortasse ge-
-              tur V. Metaph. texl. 12.                         (IV. c. 6.). S.                  Bonav.,              II.   Sent. d.         2.    nuina est. Immediate post in originali legitur in eodem sensu
-              p.   II.       q. 3.   fundam.           2.    ait:   <i   Punctus              est substantia posita , ut                          verba dissentiunt pro in eodem, verbo sensus dissenliunt; haec
-              dicit       Philosophus, i.              e.   essentia      habens posilionem                           ,    in        quo   dif-   tamen      leclio Magistri       omnino praeferenda est.
-              fert    ab unitate «.                                                                                                                     -   Respicilur ad         II.    Cor. 11,    1 4.
-
-                         3    Cfr.   supra        d.   20. a. 2. q.                1.'   2.   —       Vat.      cum cod. cc po-                         3    Solummodo ed.              2 repetuntur, ut cordi nostro tenacius
-              sitione          pro superpositione.                                                                                                infigantur, scilicet           proprietates        personarum;                in       nostro      textu
-                         ^    Cfr.   supra        d.   16.    dub.       4.    5.       — Hoc dubium                       solyit ctiam           haec propositio refertur ad Trinitate sancta.
-              S.   Thom., hic circa lil.                                                                                                                ^   Cap.    \.   n. 6.    Sequens locus ibid.                 c.   2.   n.   7.
-            448                                                                                         SENTENTIARUM LIB. I.
-
-            imum Filium           propriumque solius Filii
-                                    genuit              ;
-                                                              non                                                 ,           dum        accidens, quia et quod dicitur Pater,                                       et   quod
-            quia ipse non genuit, sed quia de Patris essentia na-                                                             dicitur-Filius aeternum atque incomrautabile est eis».
-
-            tus est; proprium vero Spiritus sancti est, non  quia                                                                  Ecce his verbis aperte ostenditur, quaedam dici
-            nec natus est ipse nec genuit, sed quia solus de Patre                                                            de Deo secundum substantiam, quaedam secundum
-            Filioque procedit »                 .       Ecce breviter assignavit                            tres      pro-    relationem, nihil tamen secundum accidens. Ostenditur
-            prietates triumpersonarum, quarum una non est alia.                                                               etiam proprietas Patris esse, quod habet Filium, et pro-
-            Hoc enim signiflcavit, cum dixit: Aliud est genuisse                                                              prietas Filii, quod habet Patrem. Ideoque, cum dixit',
-            quam natum esse aliudque procedere id est, alia
-                                                    ,                                           ,                             aeternum et incommutabile esse, quod Pater dicitur, et
-            proprietas sive            notio                est    generatio,             et alia nativitas,                  quod Filius dicitur; ila intelligi voluit, idcst: proprie-
-            alia processio, quae aliis nomiiiibus dicuntur paternitas,                                                        tas, qua Pater est Pater, et proprietas, qua FiUus est
-
-                    spiratio '. Has proprietates designant illa no-
-            filiatio ,                                                                                                        Filius, aeterna            est         et       incommutabilis, quia                   et   Pater
-                                                                                                                                                                                                                                     ""^'''"
-            mina personarum, scilicet Pater, Filius et Spiritus san-                                                          semper est Pater             semper Filius. Unde et Hi-
-                                                                                                                                                                ,   et Filius
-
-            clus, quae relaliva sunt et ad se Invicem dicuntur;                                                               larius proprietates personarum assignans in duodecimo
-            quia notant relationes, quae non sunt Deo accidenta-                                                              libro de Trinitate * ait  « Si semper Patri proprium
-                                                                                                                                                                              :
-
-
-
-
-            les, sed in ipsis persouis                             ab aeterno sunt immutabili-                                est, quod semper est Pater, necesse est semper Filio
-
-            ter,      ut non modo appellalioties sint relativae                                         ,   sed etiam         propriiim esse, quod seniper est Filius. Ubi enim sem-
-            relaliones sive notiones e» rebii^ ipsis, scilicet in per-                                                        per Pater est, semper et Filius est: ergo qui non
-            sonis sinl.                                                                                                       seinper Pater est non                               seniper genuit »           .   Item in eo-
-                                                                                                                              dem:       «   Nato Deo manifestum est proprium esse, quod
-                                                                C^p.       III.                                               Filius est ».
-
-
-            Quod non omnia dicunlur de Deo seamdum subslan-                                                                                                                   C.\p. IV.
-
-                liam; quaedam eniin secundum relationem, nihil
-                lamen secundum accidens.                                                                                       Quare dicatur proprium esse Unigeniti, Filiim Dei
-                                                                                                                                     esse, ctim etiam homines sint filii Dei.
-
-                Quocirca sciendum est non omne quod dicilur de         ,
-
-
-
-            Deo, dici secundum subslantiam ; quia quaedam dicun-                                                                   Hic quaeritur, quomodo dicatur esse proprium
-            tur secundum relationem, quae non est accidens, quia                                                              natoDeo, quod est Dei Filius vel genitus ex Deo,cum
-            non est mutabilis. Ut enim Augustinus in quinto libro                                                             etiam homines fllii Dei dicantur et sint, secundum illud:
-ugasunus.   de Triiiitalc ^ait  « Nihil  in Deo secundum accidens
-                                           :                                                                                  Filii Excelsi omnes ". Et ad Moysen de populo Israel
-            dicitur, quia nihil ei accidit; nec tamen omne quod                                                               Doniinus ait ": Filius meiis primogenitus Israel. Sed ma- i^elF';.';',?},^
-            dicitur,secundum substantiam de Deo dicitur. In rebus                                                             gna est distantia homines enim fllli Dei sunl factura ^\ "' "lios
-                                                                                                                                                             :
-                                                                                                                                                                                                                                 ,
-
-
-            creatis atque mutabilibus quod non secundum substan-                                                              non nativitalis proprietate; Deus autem Filius originis
-            tiam dicitur, restat ut secundum accidens dicatur. In                                                             proprietate Filius est et veritate nativitatis non factura                         ,
-
-
-
-            Deo autem nihil quidem secundum accidens dicilur,                                                                 vel adoptione; et illi quidem ante sunt, quam fllii Dei
-            qnia nihil in eo mutabile est aut amissibile                                            ;       nec tamen         sint; flunt enim fllii Dei ', non nascuntur fllii Dei. Unde
-            om.ne quod dicitur de Deo, secundum substanliam                                                            di-    Ililarius, solum Deum natum originis proprietate Dei
-            citur. Diciturenim ad aliquid, sicut Pater ad Filium,                                                             fllium oslendens inter ipsum et homines fllios Dei evi-
-                                                                                                                                                            ,
-
-
-
-            et Filius ad Patrem, quod nou est accidens; quia et                                                               dentissime dislinguit in duodecimo libro de Trinitate ', "'^''"s-
-            ille semper Paler, et ille semper Filius et ita semper,                         ;                                 itadicens: « Vero Patri solus qui ex eo nascitur vere
-            quia semper natus est Fiiius, nec coepit unquam esse                                                              Filius est. Et nos quidem fllii Deo sumus, sed per factu-
-            Filius.         Quod si aliquando esse coepisset, aut aliquando                                                   ram. Fuimus enim aliquando filii iracundiae, sed fllii
-            esse          desineret Filius  secundum accidens diceretur.
-                                                            ,                                                                 Deo per adoptionem effecti sumus potius, quam nasci-
-            Et quia Pater non dicitur Pater,  nisi ex eo quod est                                                             TOMr. Et quia omne quod flt, anlequam fiat, nou fuil,
-                               non dicitur Filius, nisi ex eo quod
-            ei Filius, et Filius                                                                                              nos, cum filii non fuissemus, efficimur. Ante enim fllii non
-            habet Patrem; non secundum substanliam haec dicun-                                                                eramus, sed per gratiam facti sumus, non nati neque ge-
-            tur, sed ad invicem ista dicuntur, neque tamen secun-                                                             nerali, sed acquisiti. Acquisivit enim nos Deus sibi, et
-
-
-
-
-                          Excepta ed. 8                                                                                              c
-                      '                         ,       aliae edd.          e:.   codd. minus b                                          Exod. i, 22.
-            spiratio. Cod.         A (in margine                   ab         alia    manu) repetit processio.                       '   A sola Vat. omittitur filii                     Dei, non     inepte legendo fiunt
-            Immediate postea ante nomina adiecimus illa fide omnium codd.                                                     enim, non nascunlur filii Dei. Omnes codd.                                     et aliae   edd. ad-
-             et ed.        1.                                                                                                 dunt saltem       filii,          codd.         DE et ed.         I
-                                                                                                                                                                                                     filii   Dei , quae    lectio
-                      -   Cap. -5. n. 6.   — Paulo superius Vat. cum pluribus edd.                                       et   accuratius      sensum exprimit                     ;
-                                                                                                                                                                                      paulo superius pro sint cod.          C et
-             codd.        DE Unde Augustinus pro                                  Ut enim Augtistinus. Posl                   plurimae cdd. sunt.
-             medium textum et post ille semper Vat. cum aliis edd.                                            ,   excepto            8   Num.   1     quo textu solummodo edd. 2, 3, 7, 8
-                                                                                                                                                    2. et        1 3 ;   in
-
-             1   ,   bis addit cst, refragantibus codd. et originali.                                                         post Vero addunt Deo; eaedem et nonnuUae aliae edd. qui ex
-                      3   Solummodo Vat. cum edd. 4, 6 dixerii.                                                               Deo pro ex        eo.      Textus               Hilarii omittit       vere ante Filius. Fide
-                      *   Num. 23; Magister tamen ordinem propositionum trans-                                                                          A B C posuimus meliorem lectionem
-                                                                                                                              eiusdem originalis et codd.
-             mutat.       — Sequens            locus est ibid. n. 15.                                                         filU   Deo sumus,    omnes edd. et codd. D E habeant filii
-                                                                                                                                                         licet
-                      5   Psalm. 81, 6.        — Paulo superius                      post dicatur flde omnium                 Dei sumus. Iteni correximus paulo inferius .filii Deo per pro
-             codd. et edd.        1,2,          5 adiecimus esse, et ante secundum illud                                      filii Dei per. Verba aliquando filii iracundiae respiciunt ad
-             posuimus contra solam Vat.                           sint pro fiant.                                             Ephes. 2, 3: Et eramus natura filii irae.
-                                                                                                  ,                                                            .
+---
 
 ## English
 
-[Translation pending]
+### DOUBTS ON THE MASTER'S TEXT.
+
+### Doubt I.
+
+In this part there are doubts concerning the *littera*, and first it is asked about what the Master says: *We say that there are three persons, that is, three subsistences*; because the contrary is said by Boethius in the book *On the Two Natures and One Person of Christ*[^1], assigning a difference between *to subsist* and *to substand*, since «that subsists which does not need another in order to be; but that substands which, being a subject for others so that they may be able to be, supplies [the support]»[^4]. It seems therefore that *to subsist* is the same as *to be*, and *subsistence* the same as *essence*: therefore in no way can it be said that there are several subsistences.
+
+**I respond:** It must be said that Boethius takes the name *subsistentia* there according to Marcus Tullius[^2], inasmuch as it takes its signification from the act of standing or of standing by itself[^5]; and so there is only one subsistence. But now the doctors of sacred Scripture take it inasmuch as it more imports a respect to property, to which the subsistence belongs; and so it is multiplied. The reason[^3] for this is the common usage. Because they take *substance* for the nature of the thing; therefore for the supposit they preferred more to take *subsistence*.
+
+### Doubt II.
+
+Likewise it is asked about what he says, that *we say that the three persons are one essence or of the same essence, [but] not from the same essence*. For it seems false, because the Father generates the Son from his own substance and spirates the Holy Spirit: therefore it seems that all the persons are from the same substance.
+
+Likewise it is asked: why is this not conceded, that the persons are *from the same essence*, just as this is conceded, that they are *of the same essence*? And it seems that it ought to be conceded, because *ex* (from) in the divine [things] expresses the relation of origin, and likewise the genitive imports origin. If you say that [it is] on account of transitions, since
+
+prepositions are transitive[^6] — so also the oblique cases are transitive. Furthermore, this [proposition] is received: *the persons are in the same essence*, and yet this which I say *in* is a preposition.
+
+**I respond:** It must be said that when[^7] something is compared to another as informing or denominating, on this account a diversity or distinction of one to the other is not posited; for thus is divinity compared to God. In another way one is compared to the other as principle to that which proceeds from a principle; and then of necessity a distinction is imported. Since therefore this preposition *ex* imports a relation of cause or at least of principle, therefore of necessity it states a distinction between the extremes: and therefore this cannot be true, that *the persons are from the same essence*. But because the genitive is not only construed in the relation of principle, but also from the declaration of essence, when it is said: *a woman of remarkable form*, as Priscian says[^8]; therefore with the genitive this is true: *the three persons are of the same essence*.
+
+### Doubt III.
+
+Likewise it is asked about what he says: *Three things*, and he takes this from Augustine in the first book *On Christian Doctrine*[^9]. For it seems that he speaks ill in saying *three things* (*tres res*), because *res* is an absolute and general name: therefore it seems that if it says anything in the divine [things], it says the essence or substance: therefore just as in no way is *three essences* received, so in no way ought *three things* to be received. And if you say that *three beings* (*tres entes*) is received[^10], this is not similar, because *ens* (being) is a participle, and so it draws its number from elsewhere and is not numbered according to its own form of entity; *res* however is a substantive name. If you say that *res* names for me a form on the part of the soul, or that this name is imposed on the part of the soul; this is nothing, because those are names of intentions, and *res* is divided against intention.
+
+**I respond:** It must be said that each[^11] thing can be considered in three ways: either according to the properties which it has in its proper nature; or according to the mode by which it comes-to-be in the soul; or according to the consequent property which is in it from the acts of the soul, which are subjecting and predicating, composing and dividing[^12]. According therefore to this triple acceptation it happens that a thing is named in three ways. In one way, by a name which indicates existence on the part of its own nature, just as it is called *white* and *black* and the like. In another way, according to what the soul receives; and so, because the soul receives[^13] all [things] through the mode of being, it names a thing in this way. Whence everything is called *res* (thing) which the soul thinks of as existing in nature. In another way it happens to name through second intentions, just as it is called *genus*, *species*, *subject*, *predicate*.
+
+Since therefore this name *res* says as it were a middle [term] between the name which says purely the form of nature, and the name which says the form of intention; therefore it suits not only the essence, but also the persons; and therefore we say *three things* [meaning] *three persons*, not so [as we say] *three essences*; and the name itself alludes to this signification. For *res* is said from *reor*, *reris* (I think, you think), which says an act on the part of the soul; and in another way *res* comes from this which is *ratus* (settled, determined), which says stability on the part of nature; and so *res* says stability or determinacy on the part of entity. And so the objections are clear, since in one way it is a name of nature, in another way a name of reason[^14].
+
+### Doubt IV.
+
+Likewise it is asked about this saying of Jerome: *There is in the Trinity no degree (gradus) at all*. For he seems to say [something] against what Augustine says in the ninth [book] of the *Confessions*[^15]: «The Father and the Son do not differ in substance, but in cause and degree». — Likewise, in the divine [things] there is *subsistentia*[^16] (sub-stance), therefore there is *sub* (under); but *sub* is said relatively
+
+to *superius* (above): therefore there is *sub* and *super* there, therefore inferior and superior, therefore also degree. — Likewise, wherever there is authority and sub-authority, there is degree; but this is in the Father and Son: therefore etc.
+
+**I respond:** It must be said, as the Gloss says[^17], on *Exodus*: «*Thou shalt not ascend by steps to the altar* etc. He ascends to the altar by steps who says that the Father is greater than the Son, and the Son [greater] than the Holy Spirit, as Arius says». Whence since *gradus* (degree) by the very meaning of its name takes away the equality of the persons, therefore Jerome rightly says that there is no degree at all in the divinity; nevertheless order is posited. For *gradus* and *ordo* differ as *point* and *unity*. For *point* is a posited substance; therefore it is only in corporeal [things]. *Unity* is a substance not having position[^18]; therefore it is in spiritual [things]. Thus *gradus* says a superposition either of place or of dignity. But *ordo* says a relation to a principle without superposition[^19].
+
+To that, therefore, which Augustine says, it must be said that he speaks improperly in both words, and *cause* is taken there for *principle*, and *degree* is taken for *order*.
+
+To that which is objected concerning *sub*, it must be said that *sub* in the divine [things] does not state inferiority, but only a relation according to the manner of understanding. — To that which is objected concerning authority, it must be said that it is true insofar as *authority* sounds in the meaning of dominion, which posits a degree; but thus it is not in the divine [things], but only insofar as it sounds in the meaning of principle; and this posits an order in cognition[^20].
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes [^1]–[^5] are from printed page 445 footer; notes [^6]–[^16] are from printed page 446 footer; notes [^17]–[^20] are from printed page 447 footer (col-A only — col-B notes on p. 447 belong to d.26 which begins on the same page).
+
+[^1]: **La.** Codd. *aa bb cc* cum ed. 1 *antonomastice*, non omnino perperam, quia *antonomasia* est figura, quae fit, quoties pro nomine proprio substituitur eius epitheton.
+
+    **En.** Codices *aa bb cc* with edition 1 [read] *antonomastice* (by antonomasia), not entirely incorrectly, because *antonomasia* is the figure which occurs whenever in place of a proper noun its epithet is substituted.
+
+[^2]: **La.** Ed. 1 *subiicit etiam*.
+
+    **En.** Edition 1 [reads] *subiicit etiam* (subjoins also).
+
+[^3]: **La.** Cod. *G* *sola analogia*.
+
+    **En.** Codex *G* [reads] *sola analogia* (analogy alone).
+
+[^4]: **La.** Cap. 3: *Subsistit enim quod ipsum accidentibus, ut possit esse, non indiget; substat autem id quod aliis accidentibus subiectum quoddam, ut esse valeant, subministrat.* — Paulo infra post verba *subsistere sit idem quod* ex mss. restauravimus verba a Vat. omissa: *esse et subsistentia idem quod*.
+
+    **En.** Chapter 3: *For that subsists which does not itself need accidents in order to be; but that substands which supplies a kind of subject for other accidents, so that they may be able to be.* — A little below, after the words *subsistere sit idem quod*, we have restored from the manuscripts the words omitted by the Vatican [edition]: *esse et subsistentia idem quod*.
+
+[^5]: **La.** Vide supra pag. 412, nota 7. — Proxime post Vat., suffragante cod. *cc*, *secundum actum subsistendi* pro *ab actu sistendi*.
+
+    **En.** See above page 412, note 7. — Just after, the Vatican [edition], with the support of codex *cc*, [reads] *secundum actum subsistendi* (according to the act of subsisting) in place of *ab actu sistendi* (from the act of standing).
+
+[^6]: **La.** Cfr. supra d. 5. a. 1. q. 2. arg. 1. ad opp., et solutio huius argumenti.
+
+    **En.** Cf. above d. 5, a. 1, q. 2, arg. 1, *ad oppositum*, and the solution of this argument.
+
+[^7]: **La.** Vat. sola *aliquando*, et mox post *denominans* addit *et tamen*. — Paulo inferius cod. *sic vero* pro *sic enim*.
+
+    **En.** The Vatican [edition] alone [reads] *aliquando* (sometimes), and soon after *denominans* adds *et tamen* (and yet). — A little below, the codex [reads] *sic vero* (thus indeed) in place of *sic enim* (for thus).
+
+[^8]: **La.** Sic vetustiores codd. cum ed. 1; Vat. cum cod. *cc* *comparatur aliquid ad aliud*.
+
+    **En.** Thus the older codices with edition 1; the Vatican [edition] with codex *cc* [reads] *comparatur aliquid ad aliud* (something is compared to another).
+
+[^9]: **La.** Libr. XVIII. *Grammat.* c. 1. Cfr. etiam supra d. 3. p. II. dub. 3; et Alex. Hal., S. p. I. q. 56. m. 7. a. 3. ad 1; nec non B. Albert., hic a. 5; et S. Thom., hic circa lit.
+
+    **En.** Book 18 of the *Grammar*, c. 1. Cf. also above d. 3, p. II, dub. 3; and Alexander of Hales, *Summa* p. I, q. 56, m. 7, a. 3, ad 1; as well as Bl. Albert, here a. 5; and St. Thomas, here near the *littera*.
+
+[^10]: **La.** Cap. 5. n. 5.
+
+    **En.** Chapter 5, n. 5.
+
+[^11]: **La.** Vat. cum cod. *cc* omittit verba *quod recipitur*, substituit pro vocula *hoc*, quae proxime sequitur, *hic*, et paulo inferius mutat *propriam* in *propriae*.
+
+    **En.** The Vatican [edition] with codex *cc* omits the words *quod recipitur*, substitutes for the little word *hoc*, which immediately follows, *hic*, and a little below changes *propriam* into *propriae*.
+
+[^12]: **La.** In Vat. et cod. *cc* supprimitur *unaquaeque*.
+
+    **En.** In the Vatican [edition] and in codex *cc* [the word] *unaquaeque* (each) is suppressed.
+
+[^13]: **La.** Notamus, quod *rei* primo et tertio modo consideratae respondet conceptus, qui a Scholasticis *prima intentio* et *secunda intentio* vocabatur, a modernis autem *idea realis* et *logica* nuncupatur. Prima igitur intentio est conceptus, quo intellectui repraesentatur res, prout est in se, sive secundum proprietates, quae ei conveniunt, nulla habita ratione operationis intellectus, v. g. *homo*, prout est animal rationale. Secunda autem intentio est conceptus, quo intellectui repraesentatur res, non prout est in se, sed sub proprietatibus ei ab intellectu attributis, v. g. *homo*, quatenus est *species*, vel quatenus est *subiectum* in propositione. Medius modus, quo res considerari potest iuxta S. Bonaventuram, scil. per quem fit res apud animam, complectitur generales conditiones, quae actum intellectus concomitantur, v. g. quod intellectus cognoscat rem per modum abstractionis, universalitatis, entis etc. — Paulo superius pro *consequentem* Vat. cum cod. *cc* *communem*, refragantibus vetustioribus codd., nec non repugnante Scholasticorum modo loquendi.
+
+    **En.** We note that to the *res* considered in the first and third ways there corresponds the concept which by the Scholastics was called *prima intentio* (first intention) and *secunda intentio* (second intention), but by the moderns is termed *real idea* and *logical idea*. The first intention, then, is the concept by which there is represented to the intellect a thing inasmuch as it is in itself, or according to the properties which suit it, with no account being taken of the operation of the intellect — e. g. *man*, inasmuch as he is a rational animal. The second intention is the concept by which there is represented to the intellect a thing not inasmuch as it is in itself, but under the properties attributed to it by the intellect — e. g. *man*, insofar as he is a *species*, or insofar as he is a *subject* in a proposition. The middle way, in which a thing can be considered according to St. Bonaventure, namely that by which the thing comes-to-be in the soul, comprehends the general conditions which accompany the act of the intellect — e. g. that the intellect cognizes the thing by way of abstraction, of universality, of being, etc. — A little above, in place of *consequentem* (consequent), the Vatican [edition] with codex *cc* [reads] *communem* (common), against the older codices, and against the manner of speaking of the Scholastics.
+
+[^14]: **La.** Verba *et sic, quia anima omnia accipit*, a Vat. suppressa, auctoritate plurium codd. ut *G H M O T Z bb* et ed. 1 in textum recepimus.
+
+    **En.** The words *et sic, quia anima omnia accipit* (and so, because the soul receives all [things]), suppressed by the Vatican [edition], we have received into the text on the authority of several codices such as *G H M O T Z bb* and edition 1.
+
+[^15]: **La.** Cfr. supra d. 1. dub. 7; B. Albert., hic a. 6; S. Thom., hic a. 1.
+
+    **En.** Cf. above d. 1, dub. 7; Bl. Albert, here a. 6; St. Thomas, here a. 1.
+
+[^16]: **La.** Etsi codd. et edd. concordes allegant Librum 9. (vel 11.) *Confessionum*, verba tamen citata ibi non exstant, sed habentur in libro, qui quondam inter opera S. Augustini perperam recensebatur et inscribitur: *Quaestiones ex utroque Testamento mixtim*, q. 122: «Nihil differt a Patre Filius? Nihil plane differt in substantia, quia verus Filius est; differt autem in causalitatis gradu (alias: in causa vel gradu)». Tertullianus *adv. Prax.* c. 2. ait: «Tres autem non statu, sed gradu; nec substantia, sed forma; nec potestate, sed specie».
+
+    **En.** Although the codices and editions concordantly allege Book 9 (or 11) of the *Confessions*, the words cited there nevertheless do not exist, but are had in the book which was once erroneously reckoned among the works of St. Augustine and is inscribed: *Questions from both Testaments mixed*, q. 122: «Does the Son in nothing differ from the Father? In substance plainly he differs in nothing, because he is a true Son; but he differs in the degree of causality (or: in cause or degree)». Tertullian, *Against Praxeas* c. 2, says: «But [they are] three not in status, but in degree; not in substance, but in form; not in power, but in species».
+
+[^17]: **La.** Vers. 26. — Glossa apud Lyr. in hunc locum: *Gradus in Trinitate non facies sicut Arius, qui maiorem Patrem, minorem Filium, minimum Spiritum sanctum docuit*.
+
+    **En.** Verse 26. — Gloss in [Nicholas of] Lyra at this place: *Thou shalt not make a degree in the Trinity, like Arius, who taught the Father greater, the Son lesser, the Holy Spirit least*.
+
+[^18]: **La.** Aristot., I. *Poster.* c. 23. (c. 27.): «*Unitas substantia est sine positione, punctum autem substantia posita*». Simile habetur V. *Metaph.* text. 12. (IV. c. 6.). S. Bonav., II. *Sent.* d. 2. p. II. q. 3. fundam. 2. ait: «*Punctus est substantia posita*, ut dicit Philosophus, i. e. essentia habens positionem, in quo differt ab unitate».
+
+    **En.** Aristotle, I. *Posterior [Analytics]*, c. 23 (c. 27): «*Unity is a substance without position, but a point is a posited substance*». A similar [statement] is had in V. *Metaph.* text 12 (IV. c. 6). St. Bonaventure, II. *Sent.* d. 2, p. II, q. 3, fundam. 2, says: «*A point is a posited substance*, as the Philosopher says, i. e. an essence having position, wherein it differs from unity».
+
+[^19]: **La.** Cfr. supra d. 20. a. 2. q. 1. 2. — Vat. cum cod. *cc* *positione* pro *superpositione*.
+
+    **En.** Cf. above d. 20, a. 2, q. 1, 2. — The Vatican [edition] with codex *cc* [reads] *positione* (position) in place of *superpositione* (superposition).
+
+[^20]: **La.** Cfr. supra d. 16. dub. 4. 5. — Hoc dubium solvit etiam S. Thom., hic circa lit.
+
+    **En.** Cf. above d. 16, dub. 4, 5. — This doubt is also solved by St. Thomas, here near the *littera*.
 
 ## Notes
 
-[Notes pending]
+This chunk contains DUB. I, DUB. II, DUB. III, and DUB. IV — the full set of four dubia for d. 25, drawn from `raw/bonaventure_vol1_pt2_raw.txt` lines 2773–2999. The text spans printed pages 445–447 of the Quaracchi edition, set in two columns throughout. On p. 447 the dubia conclude in the body of DUB. IV's response (last anchor [^d]); col-B of p. 447 already begins *DISTINCTIO XXVI* and is therefore excluded from this chunk and from its apparatus block. The 16 numbered apparatus entries [^1]–[^16] cover pp. 445–446 footers; entries [^17]–[^20] cover the col-A footer of p. 447 (which carries d. 25 dubia notes only — the col-B footer of p. 447 belongs to d. 26 and is handled in `bon-sent-I-d26-littera.md`).
