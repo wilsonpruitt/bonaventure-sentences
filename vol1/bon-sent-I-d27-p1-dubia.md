@@ -6,8 +6,8 @@ distinctio: 27
 pars: 1
 type: dubia
 line_start: 6152
-line_end: 6182
-word_count_latin: 181
+line_end: 6285
+word_count_latin: 1088
 transcription_status: "auto-chunked 2026-05-01"
 format_version: 1
 ---

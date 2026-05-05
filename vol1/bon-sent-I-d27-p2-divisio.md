@@ -5,9 +5,9 @@ book: 1
 distinctio: 27
 pars: 2
 type: divisio
-line_start: 6302
+line_start: 6286
 line_end: 6356
-word_count_latin: 327
+word_count_latin: 427
 transcription_status: "auto-chunked 2026-05-01"
 format_version: 1
 ---
