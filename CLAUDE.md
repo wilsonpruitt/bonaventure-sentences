@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Current scope: Volume I (*Commentarius in I Sententiarum*). The live site is https://bonaventure.actasanctorum.org.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Current scope: Volume I (*Commentarius in I Sententiarum*). The live site is https://bonaventure.wrootpress.com.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
@@ -262,7 +262,7 @@ npx vercel deploy --prod --prebuilt --archive=tgz
 ```
 
 - `--archive=tgz` required (Free plan's 5000-files/day upload cap)
-- **Only the project owner deploys** to the production custom domain (bonaventure.actasanctorum.org). Other contributors should commit their work to a branch; owner pulls and deploys.
+- **Only the project owner deploys** to the production custom domain (bonaventure.wrootpress.com). Other contributors should commit their work to a branch; owner pulls and deploys.
 
 ### Parser gotchas (fixed, but know them)
 
