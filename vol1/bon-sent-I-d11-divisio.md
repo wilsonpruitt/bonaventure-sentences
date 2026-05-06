@@ -7,6 +7,7 @@ type: divisio
 title_la: "Commentarius in Distinctionem XI — Divisio textus et tractatio quaestionum"
 title_en: "Commentary on Distinction XI — Division of the text and treatment of the questions"
 printed_pages: [208]
+pdf_pages: [310]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), p. 208"
 has_scholion: false
 has_apparatus: true
