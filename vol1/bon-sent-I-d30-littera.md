@@ -111,9 +111,9 @@ Here can be solved the question proposed above[^2], where it was asked — since
 
     **En.** All the codices and editions 1, 2, 3, 7, 8 [read] *acciderit*, but incongruously. The original, using a different construction, correctly [has] *accidit*.
 
-[^9]: **La.** *Psalm.* 17, 2, et passim; alius locus s. Scripturae est *Ioan.* 12. [?]
+[^9]: **La.** *Psalm.* 17, 2, et passim; alius locus s. Scripturae est *Ioan.* 1, 12.
 
-    **En.** *Psalm.* 17:2, and passim; another passage of holy Scripture is *John* 12. [?]
+    **En.** *Psalm.* 17:2, and passim; another passage of holy Scripture is *John* 1:12.
 
 [^10]: **La.** Codd. DE *donatur*.
 
