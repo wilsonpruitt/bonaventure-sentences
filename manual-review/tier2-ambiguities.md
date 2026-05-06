@@ -349,3 +349,5 @@ The chunk OCR was unusually clean once marginals were stripped; no genuine `[?]`
 
 - Skeleton frontmatter `line_end: 54577` was a chunker bug (cut after fn 8 of Dub I). Real range 54529–54959. New `word_count_latin: 2284` (recomputed).
 - 7 dubia, 40 footnotes total, no scholion in this chunk.
+
+**bon-sent-I-d28-a1-q4, apparatus [^11]**: page-503 footer ³ OCR reads `Codd. et edd. impncessibilitas , sed  m  nominis.` — text is clearly garbled mid-line and the marginal pickup of "sui nominis" from the right column has bled in. Body ms. anchor sits on the word `inspirabilis` in the *Respondeo* (corresponding to OCR `inspirahilis`). Currently rendered as: codd./edd. read `improcessibilis`, but it should be read `inspirabilis`. → Resolve via printed page 503 PDF eyes-on if footer can be recovered.
