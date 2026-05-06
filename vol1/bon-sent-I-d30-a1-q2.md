@@ -6,399 +6,175 @@ distinctio: 30
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 10599
-line_end: 10975
-word_count_latin: 3132
-transcription_status: "auto-chunked 2026-04-18"
+title_la: "Utrum nomina, quae de Deo dicuntur ex tempore, dicantur per se, vel per accidens"
+title_en: "Whether the names which are predicated of God in time are predicated per se or per accidens"
+printed_pages: [523, 524]
+pdf_pages: [113, 114]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 523–524"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR pt2 (raw lines 10599–10775), fresh literal English translation, full apparatus from raw OCR (13 entries), scholion translated. Split from former a1-q2 covering Q.II+Q.III (2026-05-06)"
 format_version: 1
 ---
 
 # bon-sent-I-d30-a1-q2
+## *Utrum nomina, quae de Deo dicuntur ex tempore, dicantur per se, vel per accidens*
+
+---
 
 ## Latin
 
-QUAESTIO        II.
+<!-- page 523 -->
 
+### Articulus Unicus. Quaestio II. *Utrum nomina, quae de Deo dicuntur ex tempore, dicantur per se, vel per accidens.*
 
+Secundo quaeritur, utrum nomina, quae dicuntur de Deo ex tempore, dicantur per se, vel per accidens.
 
+Et quod secundum accidens, ostenditur hoc modo.
 
-                                  Utrum nomina, quae de Deo dicwntur ex tempore , dicantur per .?e, uel per accidens.
+1. Augustinus quinto *de Trinitate* et habetur in littera[^1]: «Quod dominus esset hominis, ex tempore accidit ei.»
 
+2. Item hoc ipsum videtur ratione, quia omne quod adest et abest praeter eius, de quo dicitur, corruptionem, praedicatur secundum accidens[^2] — haec est per se nota — sed omnia haec quae temporaliter dicuntur de Deo, sunt huiusmodi: ergo etc.
 
-                            Secundo quaeritur, utrum                                quae              tlicuntur de         per consequens varietatem; seil neulrum est                                                                                         in    Deo:
-            Deo ex tempore dicantur per se, vel per accidens.                                                              ergo           etc.
+3. Item, quod praedicatur per se de aliquo, semper inest illi[^3]; ergo ab oppositis, quod praedicatur de aliquo et non semper inest, praedicatur non per se, ergo per accidens: sed talia sunt huiusmodi nomina: ergo etc.
 
-            Et quod secunduni accidens, ostenditur hoc modo.                                                                              3.    Item,                omne per accidens                                           reducitur ad per
-                            1.    .\ugustinus quinto de Trinitate et habetur in                                            se';            sed        reductio                        est         posterioris ad prius,                                          non e
-.4d   opposi-littera':              «Quod dominus esset homiiiis, ex tempore                                               converso, Deus autem non habet prius, nec simplici-
-            accidit ei »                                                                                                   ter necsecundum quid: ergo nihil de Deo dicitur
-                 2. Item hoc ipsum videtur ratione qnia omne
-                                          ,                                                           :                    secundum accidens.
-            quod adest et abest praeter eius, de quo dicitur,                                                                  4. Item, omne quod dicitur de duobus, de uno
+4. Item, omne quod praedicatur de aliquo, aut est convertibile cum subiecto, aut de ratione subiecti, aut praedicatur per accidens[^4]; sed huiusmodi nomina nec sunt de ratione Dei, nec convertibilia, ut patet de hoc nomine *dominus*: ergo etc.
 
-            corruptionem  praedlcatur secundum accidens''
-                                              ,
-                                                                                          —                                per         se,      de altero per accidens, perfectiori modo                                                                                   di-
+**Contra:** 1. Augustinus quinto *de Trinitate*[^5]: «Nihil secundum accidens dicitur de Deo.»
 
-            haec est per se nota                                  — sed omnia haec quae tem-                               citur de eo,de quo dicitur per se ° sed quidquid                                                             ;
+2. Item, ostenditur ratione: quia in quocumque accidens, est ponere compositionem[^6] et per consequens varietatem; sed neutrum est in Deo: ergo etc.
 
+3. Item, omne per accidens reducitur ad per se[^7]; sed reductio est posterioris ad prius, non e converso, Deus autem non habet prius, nec simpliciter nec secundum quid: ergo nihil de Deo dicitur secundum accidens.
 
+4. Item, omne quod dicitur de duobus, de uno per se, de altero per accidens, perfectiori modo dicitur de eo, de quo dicitur per se[^8]; sed quidquid dicitur de Deo dicitur perfectissime: ergo nihil dicitur de Deo secundum accidens, ergo huiusmodi nomina non dicuntur de Deo per accidens, ergo per se.
 
-            poraliter dicuntur de Deo,                                      sunt huiusmodi                 :   ergo etc.   dicitur deDeo dicitur perfeetissime ergo nihil di-                                                           :
+### Conclusio.
 
+> Nomina, quae de Deo ex tempore dicuntur, praedicantur per accidens solummodo in eo sensu, quo per accidens opponitur necessario.
 
+**Respondeo:** Dicendum, quod dici secundum accidens est tripliciter. Uno modo accidens dicitur per oppositionem ad substantiam; et sic dicitur accidens proprietas alii inhaerens, quae non est de rei
 
+<!-- page 524 -->
 
-                 3. Item, quod     praedicatur ^er se de aliquo,                                                           citur de Deo secundum accidens, ergo huiusmodi
+essentia.[^9] Et hoc quidem modo «nihil dicitur de Deo secundum accidens», sicut dicit Augustinus, eo quod hoc modo accidens ponit compositionem et varietatem in eo, de quo dicitur. — Alio modo dici secundum accidens est per oppositionem ad per se; et sic dicitur secundum accidens aut quod dicitur per aliud in essentia, ut si dicatur: *paries disgregat*[^10]; aut per aliquid, cui est quodam modo idem, quodam modo diversum, ut puta, cum dicitur de superiori per inferius, ut: *figura habet tres*, vel de inferiori per superius: ut, *isosceles habet tres*[^11]. Hoc modo non est aliquid dici de Deo secundum accidens. Hoc enim dici per accidens ponit in aliquo posterioritatem et imperfectionem, sicut ostendunt rationes ad hoc inductae; Deus autem nihil habet imperfecte, nihil habet ab alio[^12], quod omnino sit aliud, nec a superiori vel inferiori, quia haec non cadunt in Deo. — Tertio modo dici secundum accidens est per oppositionem ad necessarium, ut illud dicatur accidere, quod necessario non inest. Et hoc modo huiusmodi dicuntur de Deo secundum accidens, quia non dicuntur de ipso necessario; sed dicuntur de ipso per se, quia per comparationem ad creaturam. Comparatio autem ad creaturam per se est, quia Deus est sua actio; sed tamen, quia Deus agit per voluntatem, quae non semper nec de necessitate coniuncta est actui[^13], ideo non necessaria; et quantum ad hoc cadit ibi ratio dicendi secundum accidens. Unde hic modus dicendi per accidens opponitur per se in creaturis ratione eius, quod ad dici per se sequitur necessarium in creaturis; in Deo autem non, quoniam idem[^14] se ipso facit et voluntarie facit: et ideo in Deo non habet oppositionem ad per se.
 
-            semper inest illi ', ergo ab opposilis, quod praedi-                                                           nomina non dicuntur de Deo per accidens, ergo
-            catur de ahquo et non semper inest, praedicatur                                                                per         se.
+Rationes ergo ostendentes, quod non dicuntur de Deo secundum accidens, procedunt secundum primam et secundam acceptionem.
 
-            non per se, ergo per accidens:                                             sed    talia            sunt hu-
-            iusmodi nomina: ergo etc.                                                                                                                                              c        NcLus                 I   0.
+**Ad argumenta pro parte opposita:**
 
-                            4.    Item    ,        omne quod praedicatur de aliquo, aut
-            est convertibile                          cum subiecto, aut de ratione                                 sub-    Nomina, quae de Deo ex tempore dicuntur, prae-
-            iecti ,          aut praedicatur per accidens *;- sed huiusmodi                                                    dicantur per accidens solummodo in eo sensu,
-           nomina nec sunt de ratione Dei, nec convertibilia,                                                                             quo per accidens opponitur necessario.
-           ut patet de hoc nomine dominus: ergo etc.
-                 Contba: 1. .\ugustinus quinto de Trinitate":                                                                             Respondeo:                             Dicendum, quod                        dici secundum
-Fundamenia. « Nihil secuudum accideus dicitur de Deo».                                                                     accidens est tripliciter. Uno                                                          modo accidens dicitur DisHnciio.
-                            2.    ilem, ostenditur ratione: quia in quocumque                                              per oppositionem ad substantiam ; et sic dicitur acci-
-                                          accidens,                   est   ponere compositionem''                    et   dens proprietas                                 alii       inliaerens , quae non est de rei
+*Ad 1.* Quod autem obiicitur, quod esse dominum accidit; sic intelligendum est, id est, non necessario nec semper convenit.
 
+*Ad 2.* Ad illud quod obiicitur, quod absunt praeter corruptionem[^15]; dicendum quod ista definitio est accidentis, secundum quod adesse est per inhaérentiam; sed sic non convenit Deo, ut visum est, sed solum creaturis: unde patet illud.
 
+*Ad 3. 4.* Ad illud quod obiicitur de per se, dicendum, quod loquitur de per se in creaturis. Ad per se enim in creaturis sequitur necessarium, sed non sic in Deo.
 
+### Scholion
 
-                        1    Cap.    I.                                                                                    quod duplex signiflcat [scil. formam et subicctum], non est
-                        ^ Aristot.,           1.    Topie.       c.    4.                                                  verum dicere quod idem sit quod quid erat esse [i. e. essen-
-                                                                                                                                                        ,
+**I.** S. Thom. (hic q. 1. ad 2.) duos tantum modos ponit, quibus aliquid dicitur per accidens. S. Bonav. autem hic triplicem modum distinguit, quibus aliquid tum per accidens tum per se dicitur. — Ad tres conclusiones principales Seraphicus hic addit corollarium, quo docetur, quod ea quae contingenter et ita per accidens de Deo dicuntur, nihilominus etiam per se de ipso praedicantur. In creaturis enim id quod de aliquo per accidens dicitur et ideo contingenter, non potest dici de eo per se, quia id quod dicitur per se, est necessarium (cfr. text. Aristotelis in 3. ad opposit.).
 
+**II.** Alex. Hal., de hac et seq. q. S. p. 1. q. 53. m. 3. 4. — S. Thom., loc. cit. — B. Albert., hic a. 2; S. p. 1. tr. 13. q. 52. q. 3. incident. — Petr. a Tar., hic q. unica, a. 2. — Richard. a Med., hic q. 2. — Aegid. R., hic 1. princ. q. 2. — Dionys. Carth., hic q. 1.
 
-                        3    Aristot.,        I.   Postcr.       c.    4.                                                  lia]    ct      ipsum.           Cfr. et              1.    Phys.           text.      26. seqq.                 (c.      3.).
-
-                        *    Aristot.,        I.    Topic.       c.    4.                                                             ' Aristot.,               II.    Phys.           text.       66. (c. 6.): .\ihil autem secundum
-                        5    Cap. 16.          n.    17.    Vide hic lit. .Magistri,         c.       1.                   accidens est prius                              iis     quae per se                    sunt.           Cfr.          et    XI.        .Metaph.
-
-                    « Aristot., Vll. Metaph. text. 21. (VI. c. 6.): Quod auter                                             c.    7.       (X.    c.   8.).
-
-                  tundum accidens dicitur, ut musicum aut album, propteic                                                             8    Cfr. Aristot.,                   III.      Topic.           c.    I.
-                                                                                                                                  ,                                                                                                                                    —     '
-
-
-
-
-                 524                                                                                           SENTENTIARUM LIB. I.
-
-                                     Et hoc quidem modo « nihil dicitur de Deo                                                        turam per                      se est,              quia            Deus           est         sua             actio;           sed
-                 secundum accidens », sicut dicit Augustinus, eo quod                                                                 tamen, quia                         Deus            agit            per voluntatem, quae non
-                 hoc modo                 accidens ponit corapositionem                                       et varieta-             semper nec de necessitate coniuncta est actui °, ideo
-                 tem in eo, de quo dicitur.                                   —      Alio modo dici secun-                            non necessaria; et quantum ad hoc cadit ibi ratio
-                 dum acciden-s est per oppositionem ad per se; et                                                                     dicendi               secundum accidens. Unde hic modus dicendi
-                 sic dicitur secundum accidens aut quod dicitur per                                                                   per accidens opponitur per se in crealuris ratione
-                 ahud in essentia, ul si dicatur: paries disgregat^;                                                                  eius,  quod ad dici per se sequitur necessarium in
-                 aut per aliquid, cui est quodam modo idera, quo-                                                                     creaturis ; in Deo autem non quoniara idem ' se ipso                    ,
-
-
-
-                 dam modo diversum, ut puta, cum dicitur de su-                                                                       facit et voluntarie facit   et ideo in Deo non habet            :
-
-
-
-
-                 periori per inferius,                          ut:          flgura habet tres, vel de                                oppositionem ad per se.
-                 inferiori          per superius: ut, isosceles habettres'. Hoc                                                             Rationes ergo ostendentes, quod non dicuntur
-conciusio   i.   modo non est aliquid                              dici            de        Deo secundum                  acci-      de Deo secundum accidens, procedunt secundum
-                 dens. Hoc enim                    dici per                   accidens ponit                    in aliquo             primam et secundam acceptionem.
-                 posterioritatem                 et      imperfectionem ,                         sicut ostendunt                                  1.       Quod autem obiicilur, quod esse dominuraSoi^jw op"
-                 rationes           ad      hoc inductae; Deus autem                                       nihil          habet       accidit; sic intelligendum est, id est, non necessario
-
-                 imperfecte ,              nihil      habet ab alio *, quod                                  omnino
-                                                                                                              sit                     nec semper convenit.
-                 aliud, nec a superiori vel inferiori,                                                quia haec non                                2.       Ad illud quod obiicitur, quod ' absunt prae-
-                 cadunt in Deo.                  —       Tertio              modo dici secundum ac-                                   ter     corruptionem ; dicendum quod ista defmitio est                      ,
-
-
-
-                 cidens est per oppositioneni ad necessarium, ut illud                                                                accidentis , secundum quod adesse est per inhae-
-                               quod necessario non inest'. Et
-                 dicatur accidere,                                                                                                    rentiam; sed   sic non convenit Deo, ut visum est,
-concinsio 3. hoc uiodo huiusniodi dicuntur de Deo secundum                                                                            sed solum creaturis: unde patet illud.
-                 accidens,                quia     non dicuntur de ipso necessario;                                                        3. 4. Ad illud quod obiicitur de j)er se, dicendum,
-
-                 sed        dicuntur          de       ipso             per se , quia per compara-                                    quod loquitur de per se in creaturis. Ad per se enim
-coioiiarium. tionem               ad creaturam.                     Comparatio                   autem              ad crea-          in creaturis sequitur necessarium , sed non sic in Deo.
-
-
-
-
-                                                                                                                      SCHOLIOK
-                       1.    S.    Tlioni.    (hii'   i|.   I.      ad       2.)   duos lanlum niodos                     ponil   ,
-                                                                                                                                      de eo per se, quia                       id         quod dicitur per                     se,         est        necessarium
-                 quibus aliqnid dicitur per accidens.                                   S.    Bonav. autem            liic   tri-     (cfr.    texl.        Aristotelis in 3.                   ad    opposit.).
-
-                 plicem modum distinguit                    ,
-                                                                  quibus aliquid lum                     per        accidens                  11.       Alex. Hal., de liac et seq. q. S. p.                                        1.    q.        .53.   m.     3.    4.
-
-                 tum per se dicitui'.            — Ad              tres       conclusioncs principales Sera-                          —     S.      Thom.,           loc.     cit.    — B. Albert., hic
-                                                                                                                                                                                           -                                   a.        2; S. p.          1.   tr.    13.
-
-                 phicus hic addit corollaiium , quo docetur, quod ea quae con-                                                        q. S2. .q.            3.   incident.           —         Petr.      a   Tar.,      hic        q.     unica,          a.    2.    —
-                 tingenter etita per accidens de Deo dicuntur, nihilominus eliam                                                      Richard. a Med., hic                           q.    2.    —        .Egid. H., hic                  1.        princ. q. 2.
-
-                 per se de ipso praedicanlur.  In creaturis cnim id quod de ali-                                                      Dionys. Carth., hic q.                          1.
-
-                 quo per accideiis dicitur ct ideo conlingenter, non polesl dici
-
-
-
-                                                                                                                          QUAESTIO in.
-
-
-                                  Utrum nomiiia, quae de Deo ex tempore dicuntur , importcnt realem in Deo relationem.
-
-
-                            Tertio quaeritur,                      utrum ea quae                         sic        dicuntur                       1.       Sicut Pater se ipso generat, ita se ipso creat;
-                 de Deo ex tempore, dicantur secundum substantiara,                                                                   tamen             ,
-                                                                                                                                                            quamvis se ipso generet, generatio et pater-
-                 an secundum relationem                                  ,
-                                                                              quae sit vera                   relatio ". Et           nitas dicitur vere in ipso secundum relationem : ergo
-
-                 quod secundum relationem, videtur hoc modo.                                                                          pari ratione                    ,
-                                                                                                                                                                          quamvis                    se ipso creet et                                dominetur.
-
-
-
-                       1    Cfr. Aiistot.,        VII.      Metaph. te.\t.               2.   seqq. (VI. c.         1.)   — Pro       modo dicendi per se et per accidens cfr. Aristol.,                                                       I.    Poster. c. 4-8,
-
-                 essentia cod.            K substantia. Paulo ante pro                                oppositionem Vat.               et V.        Metaph.            text.    23. (IV.              c.    18.).
-
-                 et plures codd.             oppositum.                                                                                        *
-                                                                                                                                                    Cod.         Y aliquo.
-                       - Intellige;         visum, ratione albedinis. i\am, ut                            ait Aristot.,        X.             5 Cfr.         Aristot., V. Metaph. text. 13. (IV. c. 6.), et VI. text. 5.
-
-                 Metaph.          text.   23. (IX.     c.       7'.),    «   hic (albus) quidem disgregativus                         (V.     c.    2.).     — Paulo             inferius post sed cod.                             T subiicit tamen.
-                 color, et        ille    (niger) vero congregativus color». Si igitur                                       dici-            ^     Intelligas            hoc de actu voluntatis, quatenus transit                                                      in
-
-                 tur : paries disgregat, hoc convenit parieti                                    non ratione sui, sed                 creaturam sive respicit ipsam, non quatenus est in ipso Deo.
-                 ratione albedinis ab ipso distinctae.                                                                                Immediate post particulae non aliqui codd. ut V                                                           W Y aa adiun-
-                       3    Supple hic et paulo superius post tres vocabulum angulos.                                                 gunt         est.      Deinde pro secundum                                      accidens codd. P Q per ac-
-                 Figurae enim, quae est genus, convenit habere tres angulos ra-                                                       cidens.
-                 tione speciei, scil. trianguli; sed isosceles (to l<jom^lii;) sive trian-                                                    '     Cod.         M addit ipsum.
-                 gulum, quod               duo tantum                   latera      habet       aequalia,                                     *     Cod.         K    hic     bene                                    adsuni               Subinde cod.
-                                                                                                                est species                                                                    interiicit                           et.                                 Q
-                 inferior triangulo simpliciter dicto, et                                    habere    tres    angulos ipsi           (in     marg.) voci corruptionem praemittit subijicti.
-                 convenit ratione             superioris,                scil.     trianguli.    — De hoc secundo                             '     Id est , realis relatio.
-                                                                                                                           ,
-
-
-
-
-                                                                                             DIST. XXX. ART. UNICUS QUAEST.                                      III.
-
-
-
-           tamen            ,
-                                quia ^                  sunt         ad alterum          ,    dicuntur realiter                quam             scibihs          ad     scientiam,                ergo nulla in eo est
-           reiative.                                                                                                           relatio.
-
-                       2.       Item, nomina aut pure dicunt
-                                                    huiusmodi                                                                              3.    Item, ratione              videtur,               quia huiusmodi no-
-           divinam substantiam, aut superaddunt aliquem re-                                                                    mina si dicunt relationem circa Deum, aut illa est
-           spectura. Si pure divinam substantiam dicunt; sed                                                                   pure divina essentia, aut aliquid superadditum. Si
-           substantia est aeterna et ab aeterno: ergo dicuntur                                                                 pure Dei essentia, ergo aeternum quid, ergo re-
-           de Deo ab aeterno, quod falsum est. Ergo super-                                                                     spectus huiusmodi                        nominum est                     aeternus: ergo de
-           addunt aliquem respectum     ergo relationem. Si                       ,                                            necessitate                dicuntur        ab    aeterno.              Si autem dicunt
-
-           dicas , quod non addunt respectum secundum rem,                                                                     aiiquid           superadditum : ergo                         in    Deo est aliqua com-
-           sed secundum modum ^; contra : aut illi modo re-                                                                    positio.
-
-           spondet aliquid in re, aut                                         nihil.         Si   aliquid in re:                           4.    Ilem, omnis relatio                     dicit           dependentiam vel
-           ergo realiter dicuntur relative ;                                            si   nihil: ergo           falsus      saltem ordinem                      et    habitudinem ad illud, respectu
-           est modus intelligendi et inconveniens modus dicendi.                                                               cuius            dicitur;         sed      Deus non ordinatur nec termi-
-                3. Item sunt quaedam relativa secundum esse,
-                                           ,                                                                                   natur'': ergo nihil dicitur de                                 Deo relative respectu
-           quaedam secundum dici. Sed in relativis secundum                                                                    creaturae.
-           dici est modus respectus, in relativis secundum esse
-           est verilas respectus; sed dominus et servus sunt                                                                                                            CONCLUSIO.
-           relativa secundum esse: ergo utrumque importat
-           respeclum, non tantum secundum modum, sed etiam                                                                     Noniina, quae de Deo ex                                  lempore dicuntur, non
-           secundum rem: ergo etc.                                                                                                         important aliquam relationem secundum reni
-                4. Item, dominium dictum       de Deo ita bene                                                                             in     Deo , sed solum secundum                                         modum intel-
-           dicit        superpositionem %                                sicut          dictum de creatura:                                ligendi.
-           illa    igitur superpositio                                 aut        ponitur in Deo, aut in
-           creatura; non                                in     creatura    — constat, quia tunc                                            Respondeo:               Ad hoc intelligendum est",                                  quod         Disimciic
-
-           idem sibi superponeretur                                      — ergo ponilur Deo. Sed        in                     dicisecundum relationem est dupliciter: aut se-
-           superpositio est vere reiatio: ergo etc.                                                                            cundum rem, aut secundum modum. Realis autem
-                       0.       Item,           cum              dico:      Deus creat,                 hic    notatur         relatio triplex                   est.   Aliquando enim fundatm- super suMisiii-
-           duplex respectus,                                    scilicet    causae ad effectum, et e                           proprietatem aceidenlalem , ut similitudo                                                in duplici
-
-           converso.                  Aut               ergo uterque                   est in     creatura, aut                albedine*; aliquando super dependentiam                                                    essentia-
-           uterque               in    Deo, aut unus in Deo, alter in creatura.                                                lem , sicut respectus vel relatio materiae ad formam
-           Constat quod irapossibile est utrumque esse tn Deo,                                                                 — nam              ,     sicut     dicit    Philosophus ",                          « materia       hoc
-           quia Deus non est effectus; et simihter in creatura,                                                                ipsum quod est, ad alterum est »  aliquando super                    —
-           quia crealura non est sui causa , ergo necesse est                                                                  originem naturalem, sicut effectus ad causara et
-           quod alter in Deo: ergo                                         etc.                                                filii   ad patrem ".
-                       6.       Itera,          cum dico: Deus creat, Deus verissirae                                                      Prima relatio non potest esse                                      in   Deo, quia           i'^,.!;»^",^',;'^^
-
-
-           est causa: et                        si         vera ratio         causae ponit veram re-                           Deo nuUa est proprietas accidentalis. Secunda non
-           lationeni,                 huiusraodi                      noniina          dicta de         Deo ponunt             potest esse in eo, quia nulla in Deo est dependenlia.
-           veram relationem.                                                                                                   Tertia est in Deo, sed non respectu creaturae, sed
-                       Contra:                  1.         Dionysius^:                « In   causalibus et cau-                respectu personae; haec enim non dicit compositio-
-Fundameiiia.sis   uon rccipimus reciprocationem »                                             :   ergo cum Deus                nem nec dependentiae inclinationem                                              ,   sicut priraaet
-           sit    causa               perfectissima                      creaturae, non refertur ad                            secunda, sed ponit                         distinctionem                       et    ordinem.           Et
-           creaturam, quamvis e converso creatura referatur                                                                    quoniam vere una persona ordinatur ad aliara et
-           ad ipsum.                                                                                                           habitudinera liabet et alio modo secundum rem se
-                       2.       Item, Philosophus ° dicit,                                    quod       scientia se-          habet ad                 unam quam ad                aliara; ideo                       haec relatio
-           cundum esse refertur ad scibile, sed non                                                           converti-        est in           persona respectu personae ^S sed non respe-
-           tur: ergo                  si       rainor est dependentia Dei ad crealuram                                         ctu creaturae. Nara                        Deus ad creaturara non habet
-
-
-
-
-                  1    Etl.       I   addit             ista.                                                                          5    De Praedicam. c. de Relatione,                         et    V. Metapli.       text.       20.
-                  2    Scilicet inlelligendi sive dicendi.                              iNotnmus, quod in liac                 (IV.    c.       IS.).
-
-           ciuaeslione S. Doctor verbis: relatio                                      secundum modum, secun-                           8    Simul audi       :   a creatura.   — Vide supra pag.                        433, nota 4.
-           dum rationem, secundum dici promiscue ulitur ad                                                    significan-              '    Vat.,       mutata interpunctione       ,        addit       sciendum,         |)ro    quo
-           dani       candem rem                    ,     nempe relationem ratimis, quae opponitur                             codd.        X Z notandum.
-           relationi reali,                    ut       e.^c   corp. q. et ex solnt. argum. apparet. Idem                              8    Hinc et Aristot. similia           vocat          «   quae sunt uniim in qva-
-           occurrit supra d. 28. dub. 3, et infra d. 3i.                                           q.    2.   ad    6.    —    litatei. Cfr.            supra pag. 342, nota             6.
-
-            Multi codd. in iiac propositione omittunt                                        non antc addvnt,             ct           5    Cfr.      supra pag. 433, nota          6.
-
-            dcin pi-o sed substituunt et etiam; pcrperam.                                                                              >»   Arislol.,      V. Metaph.       text.   20, (IV.             c.    IS.).
-
-                  3    Id est,         ordinem superioritatis.                                                                         " Cfr. supra d. 8. p. li.               q.       1.    ad        2,    d.    20. a. 2.     q.    I,
-
-
-                   *    De Divin. Nom.                          c.   9. § 6. Cfr.       supra pag.       3-46,     nola   L
-                                                                                                                  ,,                                                                                                                                    ,
-
-
-
-
-                                                                                            SENTENTIARUM L115. I.
-
-               ordineni nec liabet aliara                      et   aliam habitudinem, Et                              pure circa Deum dicunt substantiam secundum rem,
-               ideo nuUo modo est realiler in Deo relatio respectu                                                     sed            secundum niodum inteUigendi; in
-                                                                                                                                relationem
-               creaturae.            —
-                            Creatura autem ad Deum habet ordi-                                                         creatura verosecundum reml
-conciusio 3.   nem et habitudinem, mediante proprietate accidentali                                                            quod obiicit, quod vanus est intellectus;
-                                                                                                                                Et
-
-               et depenclentia essenliali el origine 7iatu7-ali^: ideo                                                 dicendum, quod falsum est, quia intellectus funda-
-               secundum omnem modum refertur creaturaad Deum.                                                          tur super aliquid, scilicet                                          super relationem creatu-
-                   Quoniam igitur intellectus noster, cum intelli-                                                     rae, cui respondet relatio  secundum dici in Deo.
-               git aliquid referri                   ad. aliquid ,      intelligit        etiam illud                              3.       \d     illud quod obiicitur,
-                                                                                                                                                        quod quaedam sunl
-coneuisios.    comparari ad illud: ideo                      intelligit    Deum per modum                              relativa secundum esse etc; dicendum, quod quae-
-
-               respectus             et       relationis,     cui respectui in              Deo nihil                  dam sunt relativa secnndum esse ex parte utriusque
-               respondet              nisi      divina      essentia; ex parte creaturae                               extremi, ut dominus et servus in creatura: quaedam
-
-               respondel \ et ideo non est vanus.                             — Concedendum                            ex parte alterius, ut scihile et scieniia, et mensu-
-               ergo,        quod huiusmodi nomina dicta de Deo non im-                                                 rabile et mensura"; sic in proposito.
-
-               portant relationem in Deo secundum rem , sed solum                                                            4. 0. Ad illud quod obiicitur, quod dominus
-
-             secundum modum intelligendi. Ex his patent quaesita.                                                      dicit superpositionem , et similiter                                                      creator '                causali-
-
-                 1. Quod   enim obiicitur de Patre, dicendum,                                                          tatem; dicendum, quod superpositio in Deo est vere
- soiuiio op- quod non est simiie, quia Patris ad Filium est ordo                                                       superpositio , et vere causalitas , quia vere                                                                      alii    su-
- pos.torum.
-               ^^ i,a,bitudo, et alia                     habitudo ad        Filium         quam ad                    perponitur Dens, et vere elTicit.                                                    Tamen                  ilia      super-
-               Spiritum sanctum: Deus autem, sicut dicit Philoso-                                                      positio              non     est        vere relalio , similiter nec eausali-
-               phus', non habet ordinem nec aliquam habitudinem.                                                       tas,         sed est vere                            divina            essentia,                 quia se                ipsa'
-               Nam          « prima         modo se habet ad omnia,
-                                              causa eodem                                                              superponitur et                             efQcit.
-
-               quamvis alia alio et alio modo se habeant ad ipsam »,                                                           Ad illud quod cbiicitur, quod est ibi respe-
-                                                                                                                                    6.
-
-               et in        duodecimo primae Philosophiae ^                               dicit,         quod          ctus causae et effectus; dicendum, quod respectus
-
-               primum et summum bonum non ordinatur ad haec                                                            effectus ibi                     est vere respectus et                                    vere relatio,                   sed
-               creata.                                                                                                 respectus causae non est respectus nec relatio in
-                           2.    Ad illud quod obiicitur, si non dicunt rela-                                          Deo secundum rem , sed secundum modum intelli-
-               tionem,             ergo        pure substantiam;              dicenduin, quod                          gendi, secunduin rem vero substantia vel essentia.
-
-
-
-
-                                                                                                SCHOLION.
-
-
-                       I.   Quae liic dicuntur de            diversis     speciebiis      relationis,          ab      serit    Caietanus ad S.                        I.   q.    1   3. a.    7.),   sed potius in ipsa re cuiii
-               .iristotele        docenlur      et salis e.xplicantur a S.      Thoni., S.      1.       q.    13.     Angelico et Seraphico convenit,                                        licet aliquid objiciat contra for-
-
-               a. 7.       Quod relatio non semper inducat mutationem in utroque                                       mam rationis a S. Thoma allalae (cfr. Lychctus ad                                                                         Scot,
-
-               e,vtremo, explanatur hic dub. 3, et dilTusius a Richardo, hic q. i.                                     hic q.         2.).
-
-               — Pro            intelligentia    solulionuni ad      argg. opposita          notandum                          III.      Scot., loc. cit.; et Report. hic q.                                     unica.        — Tliom. S.
-
-               quod licet relatio ipsa ad creaturam in Deo sit tantum rationis,                                        hic a. 3 ; S. I. q. 13. a. 7; S. c. Gent.                                      II.   c.    12. 13.      —        B. Albert.
-
-               fimdamenium tamen habet reale in ipso (cfr. solut. ad 2. 5.).                                           hic   a.      S;      S. p.       I.    tr.      13. q. 33.            m.      I.    2.    —     Petr. a  Tar                 hic
-
-                    II. Conclusioni solummodo iNominales contradicunt asse-                                            q. unica,             a.    3.    i.   —        Ricliard. a Med., hic q. 3.                             —
-                                                                                                                                                                                                                              i.     R. .Egid.
-               rentes, in Deo esse realem relationem ad creaturas, acquisitam                                          hic     I.     princ. q. 2. 3. l.                    — Henr. Gand.,                        S.    a.    29. q. 3. n.
-                                                                                                                                                                                                                                      i
-               in   tempore , sed sine mutatione ipsius.                   — Scolus non negat                          — Durand.,                  hic        q.       3.   — Dionys.                 Carlh., hic q.              —  3.          Biel
-
-               quod in Deo sit relalio ralionis ad creaturas                        (ut   perperam             as-     hic q.         '6.
-
-
-
-
-                       1
-                            Cfr. infra        dub.   4.                                                                        *    Arislot., XII.                 Melaph.            text. 52.       Verba           ijisa    invenies supra
-                       2    Supple:       aliquid.    — Sohimmodo          Vat. :   ex parte tamen                     pag. t33, nota                    4.
-
-               creatiirae bene aliquid respondet.                                                                              5    Pro rem Vat.                       cum cod. cc esse.
-                                                                                                                               6                                                                                                    Mensurabile
-                       3 Intellige auctorem libri           de Causis, qui prop. 24. ait: aCausa                                    Aristot.,           V. Metaph.               te.xt.       20. (IV.           c.    13.):
-
-               prima existit in omnibus rebus secundum unam dispositionem,                                             autem et scibile et intelligibile                                ,   eo quod aliud ad illud dicitur,
-               sed res omnes non existunt in causa prima secundum unam                                                 ad aliquid            (i.    e.    relaliva) dicuntur.                      iSam          intelligibile signiflcat
-
-               dispositionem j. Richard. a                  Mediavilla,    hic q.      i.   verbis            istis    quod eius est intcllectus   non est autem intellectus ad illud
-                                                                                                                                                                            ;
-
-
-
-
-               haec adiungit:   Sed si ea quae dicuntur de Deo ex tempore,
-                                          «                                                                            cuius. intellectus est idem enim profeclo bis diclum esset.
-                                                                                                                                                                   ;
-                                                                                                                                                                                                                                                     —
-               ponerent in Deo reales relationes ad creaturam,non existerel                                            Pro mensurabile                         niulti           codd. mensuraiio,                       cod.       Iv     et   ed.      I
-
-
-
-
-               in   omnibus secundum dispositionem unam: ergo non ponunt                                               mensuraium; sed incongrue.
-               in   Deo aliquam realem relalionem ad creaturam ».                              — Paulo                         '      cum cod. cc creatio.
-                                                                                                                                     Vat.
-               superius post alia habiiudo vetustiores codd.                         cum ed.         I    omit-                8 Codd. A S T V X Z et alii cum ed.                                                I    se ipso.
-               lunt    ad Filium..
-                                                                                                               ,
-                                                                                                               ;
-                                                                                                               :                                                                                                                                   ,
+---
 
 ## English
 
-[Translation pending]
+<!-- page 523 -->
+
+### Articulus Unicus. Question II. *Whether the names which are predicated of God in time are predicated per se or per accidens.*
+
+Second, it is asked whether the names that are said of God in time are said *per se* or *per accidens*.
+
+And that they are said according to accident is shown in this way.
+
+1. Augustine, in the fifth book *On the Trinity*, and found in the letter[^1]: "That he was Lord of the human being accrued to him in time."
+
+2. Likewise, this same point seems clear from reason, because everything that is present and absent apart from the corruption of that of which it is predicated, is predicated according to accident[^2] — this is self-evident — but all those things that are predicated of God temporally are of this kind: therefore, etc.
+
+3. Likewise, what is predicated *per se* of something always inheres in it[^3]; therefore, by the opposite, what is predicated of something and does not always inhere in it, is predicated not *per se*, therefore *per accidens*: but such are names of this kind: therefore, etc.
+
+4. Likewise, everything that is predicated of something is either convertible with the subject, or of the formal character of the subject, or is predicated *per accidens*[^4]; but names of this kind are neither of the formal character of God nor convertible with him, as is clear for the name *lord*: therefore, etc.
+
+**On the contrary:** 1. Augustine, in the fifth book *On the Trinity*[^5]: "Nothing is said of God according to accident."
+
+2. Likewise, it is shown by reason: because wherever there is accident, there is positing of composition[^6] and consequently of variety; but neither is in God: therefore, etc.
+
+3. Likewise, everything *per accidens* is reduced to *per se*[^7]; but reduction is of the posterior to the prior, not the other way around; yet God has no prior, neither simply nor in some respect: therefore, nothing is said of God according to accident.
+
+4. Likewise, everything that is said of two things — of one *per se* and of the other *per accidens* — is said in a more perfect manner of that of which it is said *per se*[^8]; but whatever is said of God is said most perfectly: therefore, nothing is said of God according to accident; therefore, names of this kind are not said of God *per accidens*; therefore, they are said *per se*.
+
+### Conclusion.
+
+> The names that are said of God in time are predicated *per accidens* only in that sense in which *per accidens* is opposed to the necessary.
+
+**I respond:** It must be said that to be said according to accident is threefold. In one way, accident is said by opposition to substance; and in this way, accident is said to be a property inhering in another, which is not of the essence of the thing.
+
+<!-- page 524 -->
+
+And in this way[^9] "nothing is said of God according to accident," as Augustine says, because in this way accident posits composition and variety in that of which it is said. — In another way, to be said according to accident is by opposition to *per se*; and in this way, something is said *per accidens* either because it is said through another in essence, as when one says: *the wall disperses*[^10]; or through something with which it is in some way the same and in some way different, as when something is predicated of a superior through an inferior, as: *a figure has three*, or of an inferior through a superior, as: *an isosceles has three*[^11]. In this way, nothing is said of God according to accident. For to be said *per accidens* in this way posits in something posteriority and imperfection, as the arguments adduced for this show; but God has nothing imperfectly, nothing from another[^12] that is wholly other, nor from something superior or inferior, because these do not obtain in God. — In the third way, to be said according to accident is by opposition to the necessary, such that what does not necessarily inhere is said to happen accidentally. And in this way, names of this kind are said of God according to accident, because they are not said of him necessarily; but they are said of him *per se*, because through comparison to the creature. Now comparison to the creature is *per se*, because God is his own action; but yet, because God acts through will, which is not always and not necessarily joined to the act[^13], it is therefore not necessary; and to this extent the reason for saying it *per accidens* obtains there. Hence this mode of saying *per accidens* is opposed to *per se* in creatures by reason of the fact that, for *per se* in creatures, the necessary follows; but not so in God, because he himself[^14] does the same thing and does it voluntarily: and therefore in God this does not stand in opposition to *per se*.
+
+The reasons, therefore, that show that these names are not said of God according to accident, proceed according to the first and second acceptation.
+
+**To the arguments on the opposing side:**
+
+*To 1.* As for what is objected, that to be Lord accrued to him: this is to be understood in this way, that is, it does not belong necessarily nor always.
+
+*To 2.* To the objection that they are absent apart from corruption[^15]: it must be said that this definition belongs to accident insofar as being-present-in is through inherence; but this does not apply to God, as has been seen, but only to creatures: hence the point is clear.
+
+*To 3. 4.* To the objection about *per se*, it must be said that the argument speaks of *per se* in creatures. For in creatures the necessary follows upon *per se*, but not so in God.
+
+### Scholion
+
+**I.** St. Thomas (*hic* q. 1, ad 2) posits only two modes in which something is said *per accidens*. St. Bonaventure here distinguishes a threefold mode by which something is said both *per accidens* and *per se*. — To the three principal conclusions the Seraphic Doctor here adds a corollary, by which it is taught that what is said of God contingently and thus *per accidens* is nevertheless also predicated of him *per se*. For in creatures, what is said of something *per accidens* and therefore contingently, cannot be said of it *per se*, because what is said *per se* is necessary (cf. the text of Aristotle in argument 3 against).
+
+**II.** Alexander of Hales, on this and the following question, *Summa* p. 1, q. 53, m. 3. 4. — St. Thomas, *loc. cit.* — Blessed Albert., *hic* a. 2; *Summa* p. 1, tr. 13, q. 52, q. 3, incidentally. — Peter of Tarantaise, *hic* q. unica, a. 2. — Richard of Mediavilla, *hic* q. 2. — Aegidius Romanus, *hic* 1. princ. q. 2. — Dionysius Carthusianus, *hic* q. 1.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes correspond to markers in both the Latin body and the English translation above. **La.** gives the Quaracchi apparatus text verbatim; **En.** gives a literal English rendering.
 
-## Notes
+[^1]: **La.** Cap. I.
+    **En.** Augustine, *On the Trinity*, Bk. V, c. 1.
 
-[Notes pending]
+[^2]: **La.** Aristot., I. *Topic.* c. 4.
+    **En.** Aristotle, *Topics*, Bk. I, c. 4.
+
+[^3]: **La.** Aristot., I. *Poster.* c. 4.
+    **En.** Aristotle, *Posterior Analytics*, Bk. I, c. 4.
+
+[^4]: **La.** Aristot., I. *Topic.* c. 4.
+    **En.** Aristotle, *Topics*, Bk. I, c. 4.
+
+[^5]: **La.** Cap. 16. n. 17. Vide hic lit. Magistri, c. 1.
+    **En.** Augustine, *On the Trinity*, Bk. V, c. 16, n. 17. See here the letter of the Master, c. 1.
+
+[^6]: **La.** Aristot., VII. *Metaph.* text. 21. (VI. c. 6.): Quod autem secundum accidens dicitur, ut musicum aut album, propterea quod duplex significat [scil. formam et subiectum], non est verum dicere quod idem sit quod quid erat esse [i. e. essentia] et ipsum. Cfr. et I. *Phys.* text. 26. seqq. (c. 3.).
+    **En.** Aristotle, *Metaphysics*, Bk. VII, text. 21 (Bk. VI, c. 6): "What is said according to accident, such as the musical or the white, because it signifies something twofold [namely form and subject], it is not true to say that it is identical with what it was to be [i.e., the essence] and itself." Cf. also *Physics*, Bk. I, text. 26 ff. (c. 3).
+
+[^7]: **La.** Aristot., II. *Phys.* text. 66. (c. 6.): Nihil autem secundum accidens est prius iis quae per se sunt. Cfr. et XI. *Metaph.* c. 7. (X. c. 8.).
+    **En.** Aristotle, *Physics*, Bk. II, text. 66 (c. 6): "But nothing according to accident is prior to those things that are *per se*." Cf. also *Metaphysics*, Bk. XI, c. 7 (Bk. X, c. 8).
+
+[^8]: **La.** Cfr. Aristot., III. *Topic.* c. 1.
+    **En.** Cf. Aristotle, *Topics*, Bk. III, c. 1.
+
+[^9]: **La.** Cfr. Aristot., VII. *Metaph.* text. 2. seqq. (VI. c. 1.) — Pro modo dicendi per se et per accidens cfr. Aristot., I. *Poster.* c. 4–8, et V. *Metaph.* text. 23. (IV. c. 18.). Essentia cod. K substantia. Paulo ante pro *oppositionem* Vat. et plures codd. *oppositum*. Cod. Y *aliquo*.
+    **En.** Cf. Aristotle, *Metaphysics*, Bk. VII, text. 2 ff. (Bk. VI, c. 1). — For the mode of saying *per se* and *per accidens*, cf. Aristotle, *Posterior Analytics*, Bk. I, c. 4–8, and *Metaphysics*, Bk. V, text. 23 (Bk. IV, c. 18). Codex K reads *substantia* for *essentia*. Shortly before, for *oppositionem*, the Vatican edition and several codices read *oppositum*. Codex Y reads *aliquo*.
+
+[^10]: **La.** Intellige: visum, ratione albedinis. Nam, ut ait Aristot., X. *Metaph.* text. 23. (IX. c. 7.): «hic (albus) quidem disgregativus color, et ille (niger) vero congregativus color». Si igitur dicitur: *paries disgregat*, hoc convenit parieti non ratione sui, sed ratione albedinis ab ipso distinctae.
+    **En.** Understand: "seen," by reason of whiteness. For as Aristotle says (*Metaphysics*, Bk. X, text. 23, Bk. IX, c. 7): "this (white) is the dispersive color, and that (black) the congregative color." If therefore one says: *the wall disperses*, this belongs to the wall not by reason of itself, but by reason of the whiteness distinct from it.
+
+[^11]: **La.** Supple hic et paulo superius post *tres* vocabulum *angulos*. Figurae enim, quae est genus, convenit habere tres angulos ratione speciei, scil. trianguli; sed isosceles (τὸ ἰσοσκελές) sive triangulum, quod duo tantum latera habet aequalia, est species inferior triangulo simpliciter dicto, et habere tres angulos ipsi convenit ratione superioris, scil. trianguli.
+    **En.** Supply here and a little above after *three* the word *angles*. For to "figure," which is the genus, it belongs to have three angles by reason of the species, namely the triangle; but the isosceles (τὸ ἰσοσκελές), that is, the triangle having only two equal sides, is a species inferior to the triangle simply so called, and to have three angles belongs to it by reason of the superior, namely the triangle.
+
+[^12]: **La.** Cod. Y *aliquo*.
+    **En.** Codex Y reads *aliquo* [for *aliud*].
+
+[^13]: **La.** Intelligas hoc de actu voluntatis, quatenus transit in creaturam sive respicit ipsam, non quatenus est in ipso Deo. Immediate post particulae *non* aliqui codd. ut V W Y aa adiungunt *est*. Deinde pro *secundum accidens* codd. P Q *per accidens*.
+    **En.** Understand this of the act of will insofar as it passes into the creature or regards it, not insofar as it is in God himself. Immediately after the particle *not*, some codices such as V W Y aa add *is*. Then in place of *secundum accidens*, codices P Q read *per accidens*.
+
+[^14]: **La.** Cod. M addit *ipsum*.
+    **En.** Codex M adds *ipsum* [sc. *idem ipsum*].
+
+[^15]: **La.** Cod. K hic bene intericit *et*. Subinde cod. Q (in marg.) voci *corruptionem* praemittit *subiecti*.
+    **En.** Codex K here rightly inserts *et*. Then codex Q (in margin) prefixes to the word *corruption* [the word] *of the subject*.
