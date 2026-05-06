@@ -7,730 +7,410 @@ pars: 1
 articulus: 1
 quaestio: 2
 type: quaestio
+title_la: "Utrum generatio sit ratio paternitatis, an e converso."
+title_en: "Whether generation is the account of paternity, or conversely"
+printed_pages: [468, 469, 470, 471, 472, 473, 474]
+pdf_pages: [58, 59, 60, 61, 62, 63, 64]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 468–474"
+has_apparatus: true
+has_scholion: true
 line_start: 5036
 line_end: 5743
-word_count_latin: 6800
-transcription_status: "auto-chunked 2026-05-01"
+word_count_latin: 6650
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR pt2 (raw lines 5036–5743) with two-column deinterleaving across printed pp. 468–474, literal English translation, page-bottom apparatus from pp. 468–471 footers (15 entries), 3-section Scholion (I, II, III bibliographic headers), and full Anecdota I + II additions transcribed from pp. 472–474 (the longest single chunk of d.27, containing the famous Bonaventure self-explanation from Prologus to II Sent. and the cod. G additamentum). Some [?] flags on heavily-garbled OCR spots in the Anecdota II disquisition (2026-05-05)"
 format_version: 1
 ---
 
-# bon-sent-I-d27-a1-q2
+# bon-sent-I-d27-p1-a1-q2
+
+## *Utrum generatio sit ratio paternitatis, an e converso.*
+
+---
 
 ## Latin
 
-QUAESTIO      II.
+<!-- page 468 -->
 
+### QUAESTIO II. *Utrum generatio sit ratio paternitatis, an e converso.*
 
+Secundo quaeritur, quae istarum sit ratio intelligendi alteram, id est, utrum hypostasis Patris sive Pater ideo generet, quia pater est, vel ideo sit pater, quia generat. Et quod ideo sit pater, quia generat, hoc videtur:
 
+1. Auctoritate Magistri in littera[^1]: «Semper est filius, quia semper est genitus»: ergo generatio passiva est ratio essendi filium: ergo pari ratione et generatio activa est ratio essendi patrem, ergo etc.
 
-                                                                 Utrum generatio sit ratio paternitatis                                               ,    an e converso.
+2. Item, secundum rationem intelligendi prius est
 
+<!-- page 469 -->
 
+generari quam esse, et prius est esse quam referri: ergo prius est generari quam esse filium: ergo pari ratione prius est generare quam esse patrem secundum ordinem intelligendi. Si ergo prius est ratio posterioris, non e converso: ergo etc.
 
-                          Secundo quaeritur, quae istarum                                         slt   ratio intel-                   1.        Auctoritate Magistri in littera':                                                      «Semperesti
-               ligendi alleram, id est, utrum hypostasis Patris sive                                                     filius ,           quia semper est genitus «                                          :    ergo generatio pas-
-               Pater ideo generet                ,
-                                                     quia pater est, vel ideo                                sit   pa-   siva est ratio essendi filium:                                                       ergo pari                      ratione         et
+3. Item, hypostasis Patris est pater: aut ergo quia Deus, aut quia Deus generans. Non quia Deus, quia pari ratione et Filius: ergo quia Deus generans, ergo etc.
 
-               ter,    quia generat. Et quod ideo sit pater, quia gene-                                                  generatio activa est ratio essendi patrem                                                                       ,    ergo      etc.
+**Contra:**
 
-               rat,       hoc videtur:                                                                                                 2. Item, secundum                              rationem intelligendi prius est
+1. Non generat nisi persona distincta[^2], quoniam generare non convenit essentiae, sed personae; sed persona Patris non est distincta nisi per paternitatem: ergo non convenit generare illi hypostasi nisi per paternitatem: ergo ideo generat, quia pater.
 
+2. Item, in his quae non acquiruntur per actum, prius est habitus secundum rationem quam actus intelligendi — quia enim non sumus boni per opera, sed magis e converso prius sumus boni quam operemur bona[^3] — sed paternitas non acquiritur per actum in Deo: ergo prius ordine intelligendi intelligitur esse pater, quam generet.
 
+3. Item, Pater generat, iste est quidam actus divinus, qui per se inest Patri soli; quaero, per quid? Aut enim quia Deus, aut quia Deus pater, aut quia innascibilis. Non quia Deus, quia tunc etiam inesset Filio; non quia innascibilis, quia innascibilitas dicit nativitatis privationem, non positionem[^4]: ergo a divisione, quia Deus pater.
 
+> **CONCLUSIO.** *Generatio potius est ratio paternitatis quam e converso.*
 
-                      1
-                          Vat.   cum    paucis       codd.            eaedem proprietates ; non con-                                        bus           mss.    revocavimus                        baptismus ,                   cuius         loco     Vat.
+**Respondeo:** Ad intelligentiam huius notandum, quod hic est duplex opinio. Quidam dicunt[^5], quod cum proprietates relativae e contrario sint in Deo quam in creaturis — quia in creaturis ut advenientes, in Deo ut insistentes[^6] — quod in creaturis actus est relationis ratio, unde in inferioribus ideo est pater, quia generat; sed in divinis e contra relatio est ratio actus. Unde simpliciter concedunt, quod Pater generat, quia pater; et negant conversim.
 
-               grue.                                                                                                     baptizatus.
-                      2   Ubi a Pelro Lombardo haec                                verba        Augustini ex libro                 5        Plura          de    hoe vide supra                           d.       S.                            I.     ad   3.
+Sed quamvis illud posset aliquo modo capi ab intellectu ex parte Patris, tamen si illud consideremus in Filio, omnino non videtur intelligibile, quod ideo, quia filius, generetur[^7]. Nam communiter dicitur, et ratio concordat quod Filius et quod sit et, quod filius sit, hoc habet per generationem: ergo generatio secundum rationem intelligendi praecedit filiationem; et relativa sunt simul natura in intelligendo, non tantum in essendo[^8]: ergo generatio est ratio dicendi paternitatem in Deo Patre. Sicut enim se habet generatio passiva ad filiationem, ita activa ad paternitatem.
 
-               Enchiridion        c 39. n. 12. afferuntur: Non igitur concedendum                                        pag. 113.
-               est,   quidquid de aliqua re naseitur, continue eiusdem rei filium                                                  8     Plurimi codd. cum. ed.                             I       praedicare, sed                      cum in subse-
-               nuncupandum. Ut enim omittam, aliter de homine nasci filium,                                              quenti propositione                          omnes codd. et edd. unanimiter vocabulum
-               aliter capillum, pediculum, lumbricum, quorum nihil est fllius.                                                                cum
-                                                                                                                         praedicatio exhibeant,                               Vat. et hic maluimus praedicatio
+Et propterea est alia opinio, quod ideo est pater, quia generat. Et quod illud sit bene dictum patet per differentiam assignatam inter generationem et esse patrem[^9]. Nam secundum propriam rationem generatio dicit emanationem sive originem, paternitas dicit habitudinem. Constat autem, quod origo est ratio habitudinis, non habitudo ratio originis est. Et ideo generatio est ratio paternitatis, non e converso. Ideo conceduntur rationes ad hoc.
 
-               —   Paulo superius cod. S post Primum quidem subiicit esl.                                                quam verbum praedicare.                                  —
-                                                                                                                                                                               De duplici Iiac praedicatione cfr.
-                      3   Cap.    2.                                                                                     supra           d. S. a.           1.   q.    1.   ad        2.
+**Ad oppositum:**
 
-                      *   Libr. Sent. d. 3. p.         I.       a.       2.   q.    3.   — Paulo        ante ex prae-              '     Cap.         1.
-                                                                                                                                     ,               ,,
-                                                                                                                                                     :                                                                                                                ,       ^
+1. Ad illud ergo quod obiicitur in contrarium, quod non generat nisi persona distincta; dicendum, quod verum est quod secundum rationem intelligendi necesse est ante generationem intelligi hypostasim — secundum ordinem intelligendi loquor[^10] — sed non oportet praeintelligere eam actu distinctam, quia ipsa distinguitur per proprietatem generationis distinctione completa, sicut melius patebit
 
+<!-- page 470 -->
 
+infra[^11]; tamen secundum rationem intelligendi ratio distinguendi inchoatur in innascibilitate, et ideo generat, non ut prius distincta paternitate, sed ut distincta quodam modo innascibilitate.
 
-                                                                                                      DIST. XXVII.                  P.        I.     ART. UNICUS QUAEST.                                    II.                                                    469
+2. Ad illud quod obiicitur, quod non acquiritur per actum; dicendum, quod in divinis nulla proprietas acquiritur, quia quaelibet est essentia. Tamen secundum rationem intelligendi origo sive emanatio originis est ratio relationis, sicut in his inferioribus est ratio secundum esse. Unde sicut actus generationis est aeternus, ita et proprietas paternitatis aeterna. Unde quamvis non acquiratur per actum, inest tamen per actum; unde illa propositio est falsa et debet sic generaliter proponi: in eis quae non insunt per actum etc., et tunc minor est falsa. — Potest tamen dici, quod illud est verum de actu qui elicitur ex illo habitu, sicut opus meritorium ex gratia; sed actus generationis non elicitur nec intelligitur elici ex paternitate: ideo non oportet praeintelligere paternitatem ad hoc quod intelligatur generare.
 
-              gmerari quam esse, et prius est esse quam referri                                                                                           cum proprietates reiativae e contrario sint in Deo
-              ergo prius est generari quam esse filium: ergo pari                                                                                         quam in creaturis     quia in creaturis " ut adve- —
-              ratione prius est generare  quam esse patrem se-                              '                                                             nientes         ,    in       Deo ut                insislentes          — quod              in   creaturis
-              cundum ordinem intelligendi. Si ergo prius est ratio                                                                                        actus est relationis ratio, unde in inferioribus ideo
-              posterioris,                  non e converso: ergo etc.                                                                                     est pater, quia generat; sed in divinis e contra relatio
+3. Ad illud: aut generat, quia Deus, aut quia pater etc.; dicendum, quod generat, quia Deus innascibilis; et spirat, quia improcessibilis[^12]. — Quod obiicitur, quod innascibilitas dicitur secundum privationem, dicunt aliqui quod privatio pura non est ratio habitus, sed privatio cum aliqua habitu substrato est ratio. Unde sicut aliquis homo liberalis invitat ad comedendum, quia solus, sic Pater generat propter liberalitatem, et ne sit solus; et ideo cum semel generavit et spiravit, non amplius generat, quia iam non amplius est solus, quamvis sit liberalis.
 
-                             3. Item, hypostasis Patris est pater:                                                      aut ergo quia                     est ratio actus.                             Unde            simpliciter         concedunt,             quod
-              Deus, aut quia Deus generans. Non quia Deus, quia                                                                                           Pater generat, quia pater; et negant conversim.
-              pari ratione et Filius: ergo quia Deus generans,                                                                                                       Sed quamvis                            illud posset            ahquo modo capi ab no» omnin
-                                                                                                                                                                                                                                                          ''^^"' """
-              ergo           etc.                                                                                                                         intellectu            ex parte Patris                             ,   tamen si illud considere-
-                             Contra:               \.          Non generat nisi persona distincta,                                                        mus in Filio               omnino non videtur intelligibile, quod
-                                                                                                                                                                                            ,
+Aliter tamen est dicendum, sicut praedictum fuit[^13], quod innascibilitas est privatio, quae secundum rem est perfecta positio. Innascibilis enim dicitur Pater, quia non est ab alio; et non esse ab alio est esse primum, et primitas est nobilis positio. Primum enim ratione primi adeo dicit nobilem positionem et conditionem, ut videbitur, quod ad positionem primi sequatur positio secundi. Unde quia primum, ideo principium[^14]; quia principium, ideo vel actu vel habitu est principiatum. Quoniam igitur ratio primitatis in aliquo genere est ratio principiandi in illo, ideo, quia Pater est primum respectu emanationis, generationis et processionis, generat et spirat. Et quoniam primum in genere generationis, quia innascibilis, primum in genere spirationis, quia Deus improcessibilis; ideo generat, quia Deus innascibilis; et ultra non est ponere: quare est innascibilis? Cum enim innascibilitas dicat primitatem, et status sit in primo, ideo etc. Et hoc est quod dicitur infra, distinctione vigesima nona[^15] circa principium: «Pater est principium totius divinitatis, quia a nullo»; et hoc est quod in pluribus locis supra praesuppositum est.
 
+**Quod autem movet ad hoc dicendum, primum est antiqua positio magnorum doctorum[^16],** qui dixerunt, quod innascibilitas in Patre dicit fontalem plenitudinem. Fontalis autem plenitudo consistit in producendo. Sed constat quod non ideo quia creaturam producit, dicitur in eo fontalis plenitudo, quia hoc convenit tribus; nec ideo, quia producit Spiritum sanctum, quia hoc convenit Filio: ergo fontalis plenitudo in Patre ponit generationem in eodem. Si ergo innascibilitas est fontalis plenitudo, patet etc.
 
+**Movet etiam communis opinio, quae dicit, innascibilitatem esse proprium Patris;** sed non potest esse proprium et maxime proprium, quod dicat notionem, secundum quod importat puram privationem; sic enim convenit essentiae et Spiritui sancto: ergo aliquid ponit: non absolutum — constat, quia ratione illius non potest esse proprietas — sed non potest ponere respectum positivum respectu producentis: ergo de ratione sua ponit respectum producti. Sed secundum rationem intelligendi prima ratio respiciendi aliquem ut productum est generatio: ergo ad innascibilitatis positionem sequitur positio generationis: ergo etc.
 
-              quoniara generare non convenit essentiae                                                                        ,    sed per-               ideo, quia flhus,              generetur'. Nam communiter di-'
-              sonae ; sed persona Patris non est distincta nisi per                                                                                       citur, et            ratio concordat quod Fihus eL quod sit et,
+**Movet etiam verbum Hilarii, duodecimo de Tri-**
 
+<!-- page 471 -->
 
-              paternitatem                   :     ergo non convenit generare                                                     illi    hypo-           quod filius sit, hoc habet per generationem                                                         :   ergo
-              stasi nisi               per paternitatem                                 :        ergo ideo generat ^ quia                                 generatio             secundum rationem                                   intelligendi            praecedit
-              pater.                                                                                                                                      fihationem; et relativa sunl simul nalura in intelh-
-                             2.   Item       ,    in his quae non                                 acquiruntur per actum,                                  gendo, non tantum                                   in       essendo "      :   ergo generatio est
-              prius est habitus             secundum rationem    quam              actus                                                                  ratio dicendi paternitatem in                                            Deo Patre. Sicut enim
-              intelligendi                  —
-                           quia enim non sumus boni per opera                                                                                             se habet generatio passiva ad filiationem , ita activa
-              sed magis e converso prius sumus boni quam ope-                                                             ,
-                                                                                                                                                          ad paternitatem.
-              remur bona "                         —
-                              sed paternitas non acquiritur per                                                                                                      Et propterea est alia opinio,                                        quod ideo est pa- opinio 2.
-              actum               in   Deo: ergo prius ordine intelligendi intelli-                                                                       ter,   quia generat. Et quod iUud                                               sit    bene       dictum
-              gitur esse pater,                                quam generet.                                                                              patet per differentiam assignatam inter generationem
-                             3.   Item, Pater genet-at,                                               iste est          quidam actus                      et esse             palreni ".                    Nam secundum propriam rationem
-              divinus             ,
-                                       qui per se                        inest              Patri soh ;                 quaero           ,
-                                                                                                                                                per       generatio dicit emanationem sive originem, paternitas
-              quid ? Aut enim quia                                        Deus\ aut quia Deus pater                                                       dicit habitudinem. Constat autem, quod                                                  origo est ratio
-              aut quia ijmascihilis.                                          Non quia Deus ,                                 quia            tunc        habitudinis , non habitudo ratio originis est. Et ideo
-              etiam inesset Filio; non quia innascibilis, quia inna-                                                                                      generatio                 est             ratio         paternitatis ,           non e converso. concinsio.
-              scibilitas dicit nativitatis                                            privationem, non                               positio-             Ideo conceduntur rationes ad hoc.
-              nem ^: ergo a divisione, quia Deus paler.                                                                                                              1.       Ad        ilUid            ergo quod obiicitur                     in    contrarium, soiui..io op-
-                                                                                                                                                          quod non generat nisi persona distincta; dicendum,
-                                                                  CONCLUSIO.                                 ,
+**nitate**[^17], ubi dicit, quod Pater est auctor Filii. Constat autem, quod per auctorem intelligit non factorem, sed genitorem. Eo ergo convenit Patri esse genitorem, quo convenit ei esse auctorem; auctorem autem esse convenit ei per id quod dicit auctoritatem esse in Patre; sed summa auctoritas est in Patre ratione innascibilitatis: ergo convenit hypostasi Patris ratione innascibilitatis generare. Et hoc videntur dicere verba Hilarii, duodecimo de Trinitate, si quis attendat, et similiter in quarto.
 
+**Movet etiam verbum Philosophi**[^18] qui dicit, quod principia quanto sunt priora, tanto potentiora — et quod causa prima plus influit — et quae simpliciter prima, summe habet influere per omnem modum. Si ergo videmus in ordine causarum, inter quas est ordo essentialis, quod primitas facit esse summam influentiam in causa, et maiorem influentiam secundum essentiam: pari ratione, ubi est ordo personarum, primitas in prima persona est ratio producendi alias; et quia innascibilis dicit primitatem, hinc est, quod dicit fontalem plenitudinem respectu productionis personalis. Et huius signum videmus, quod prima in generibus sunt principia aliorum, et quae sunt simplicia ut in pluribus, ita quod in eis sit status, habent potentiam infinitam, sicut punctus respectu linearum, et unitas respectu numerorum; sic etiam divina essentia, quia prima respectu creaturarum. Unde fortassis, quia divina essentia est prima, ideo est omnipotentissima. Et quia omnis essentia sequitur essentiam trium personarum, impossibile est, quod una persona producat aliquid sine altera. Quamvis autem potentia producendi respectu personarum infinitarum non debuerit esse, sicut supra monstratum est[^19]; attamen si per impossibile poneretur, quod mille personae producerentur, esset quod omnes immediate procederent a persona Patris. Quia sicut causa prima necessario in omni productione sequenti immediate operatur, sic suo modo in personis.
 
-                                                                                                                                                          quod verum est quod secundum rationem intelli-,
+**Ad hoc etiam movet ratio.** Sicut enim possibile est intelligi hypostasim Patris et Filii, non intellecta hypostasi Spiritus sancti; sic etiam possibile est intelligi hypostasim Patris, nulla alia persona intellecta. Et tunc quidem intelligeretur, non intellecta paternitate. Et certum est, quod possibile est hoc intelligi. Possumus enim, non intellecta personarum pluralitate, intelligere divinam naturam et habentem illam, et quod illam non habeat ab alio; et ita intelligunt gentiles[^20]. Sic igitur intelligendo contingit de isto dicere et intelligere, quod possit generare. Per quid ergo potest? Nihil invenio in illa hypostasi nisi commune praeter innascibilitatem: ergo, si generatio non potest ei inesse per illud quod est commune, inest ei per illud quod est proprium; hoc autem est innascibilitas: ergo etc.
 
+Rursus, sicut videmus plures personas in una natura, sic plures proprietates in una persona: ergo, sicut ad perfectionem completissimam necesse est omnes personas reduci ad unam quae sit principium aliarum, sic omnes proprietates unius personae ad unam, quae sit ratio aliarum. Sed in Patre est paternitas et innascibilitas et spiratio; sed innascibilitas non est reducibilis ad alias: ergo necesse est, quod aliae reducantur ad innascibilitatem, quae est, sicut dixerunt, fontalis plenitudo.
 
-                                                                                                                                                          gendi necesse est ante generationem                                                     intelligi       hypo-
-                              Generatio potius est ratio paternitatis
-                                                               quam e converso.                                                                           stasim              — secundum ordinem                                   intelligendi loquor '"           —
-                                                                                                                                                          sed        non            oportet                  praeintelligere               eam actu distin-
-                              Ad intelhgenliam huius notandum,                                                                                            ctam, quia ipsa distinguitur per proprietatem gene-
-opinio   1.   quod hic est duplex opinio. Quidam dicunt   quod                                                                      ,
-                                                                                                                                                          rationis             distinctione                       completa, sicut melius patebit
+**Tertium etiam.** Amplius, paternitatis et generationis proprietas, quantum est de generali sua significatione, communicabilis est; quod patet in creaturis: quia genitus generat, et filius unius fit pater alterius. In divinis autem paternitas est incommunicabilis: ergo cum
 
+<!-- page 472 -->
 
+hoc non sit de ratione paternitatis in quantum paternitas, erit ratione[^21] alicuius, quod est incommunicabile; hoc autem est innascibilitas sive primitas, quia primum non potest dare alii primitatem, et innascibilis non potest generare innascibilem: ergo videtur, quod in divinis hypostasis Patris ideo generet, quia innascibilis.
 
+Postremo, cum idem sit *primum* et *principium*, sicut patet et Philosophus[^22] dicit; aut ideo est primum, quia principium, aut e converso. Constat, quod ideo convenit ei ratio principii, quia est primum; ideo per se hoc habet. Et constat, quod status est in primo principio, non quia principium, sed quia primum. Et constat, quod illa est conditio nobilitatis: ergo cum Pater sit «totius deitatis principium», ut dicit Augustinus[^23], hoc est, quia est prima persona, ac per hoc quia innascibilis.
 
-                         '    Vat. generari,                     quem eiTorem correximus ex                                        antiquiori-            e converso,               quaeritur de ratione generantis, ut est generans,
-              bus mss. et ed.                      i.                                                                                                     et non,         quare generet.                     — Verbis a            divisione,      quae immediate
-                         '    Val.     cum             nonnullis codd.                          modo      negativo            ergo non ge-                sequuntur, significatur locus sive modus argumentandi, de qyO'                                                  —
-              nerat nisi.                                                                                                                                 cfr.   supra pag. 420, nota                              5.
+**Epilogus.** Hoc sine praeiudicio aliorum dictum est. Utraque enim harum positionum magna est, et neutra est contemnenda; haec autem videtur magis cadere in intellectu quam prima, maxime si respiciatur ipsius paternitatis propria acceptio, quae est vere relatio et simul natura cum filiatione, nec potest abstrahi a natura et proprietate relationis; unde ita importat habitudinem ad Filium, sicut et generare. Ideo et ista positio intelligibilior videtur; et hoc melius patebit infra[^24] cum agetur de innascibilitate.
 
-                         3 Aristot.,             II.       Eltiic.       c.   4:      Res igitur sane iustae                             et    tem-              ^    Supple            cum            cod.       bb    sunt.     — Mox         Vat.   praeter fldem
-              perantes dicuntur,                           cum fuerint tales, quales vir iustus vel tem-                                                  codd. et ed.              I   ,       variata interpunctione: inmtentes. In creaturis
+### Scholion
 
-              perans ageret; iustus vero vir                                          et         temperans         est    non qui haec                    enim actus est. Dein cod. T causa relationis pro relaiionis ratio,
-              agit       tantum, sed qui etiam                                  ita             agit,   ut iusti         et       temperantes             et paulo inferius post quod Pater interiicit ideo. Denique pro
+**I.** Eandem quaestionem S. Thom. (S. I. q. 40. a. 1.) tractat sub hoc titulo: «Utrum actus notionales praeintelligantur proprietatibus». In solutione huius problematis saltem verbis dissentiunt S. Bonav. et Alex. Hal. (S. p. 1. q. 59. m. 3.), cum quo convenit S. Thom. (S. 1. q. 40. a. 4.). Alex. Hal. et S. Thom. faciunt distinctionem inter paternitatem ut est relatio (et sic secundum intellectum praesupponit generationem), et ut est proprietas (et sic praeintelligitur generationi). Alex. Hal. vult etiam, ut addatur *Deus* in hac formula, ita ut dicatur: *Pater, in quantum Deus pater, generat.* Scotus vero contra applicationem huius distinctionis et etiam contra sententiam S. Bonaventurae opponit (I. Sent. d. 28. q. 3. n. 2. 3.). — Argumentum principale S. Thomae est I. ad opposit. apud S. Bonaventuram. — Sententiam S. Thomae, quae non ab omnibus eodem modo explicatur, bene expressisse videtur Petrus a Tar. (hic q. 1. a. 3.): «Secundum intellectum prius intelligitur paternitas, ut forma Patris constitutiva, qua personaliter in se subsistit; deinde ut potentia generativa, qua agit; deinde ut actus generationis; et ultimo ut relatio».
 
-              solent.         —       In pluribus codd. ut                            A F G S T Y Z et ed. 1                        desidera-             conversim ed.                     I       bene conversam.
-              tur hona. Vat. post priui interiicit etiam,                                                        nonbene;            et       paulo              '                 quod ideo sit Pater, quia Filius ge-
-                                                                                                                                                                      In Vat. legitur sic:
+**II.** Sententia S. Bonaventurae, cui consentit Richard. a Med., media via incedens, utramque sententiam aestimat probabilem, immo eas in concordiam felici successu redigere nititur. Distinguit enim in paternitate et fecunditatem, quam importat, et relationem ad Filium; et iterum in innascibilitate distinguit et privationem et fontalem plenitudinem seu fecunditatem. Quatenus innascibilitas dicit fontalem plenitudinem, radix est generationis; et sic verum est, quod Pater, quia generat, est pater, id est, habet relationem ad Filium. Sed etiam verum est, quod generat, quia pater, quatenus paternitas includit fecunditatem.
 
-              ante           pro quia enim non cod.                                         X, omisso quia, exliibet non                                  neretur. Verba    Pater interpolatoris operam sapiunt et cor-
-                                                                                                                                                                                                sit
+De innascibilitate, quod importet plus quam meram privationem (ut vult Scotus), cfr. d. 28. per totam; de origine et relatione supra d. 26. q. 3.
 
-              enim.                                                                                                                                       rumpunt textum. Nam sermo est de generatione passiva, in
-                         *    Pro hac sententia a B. Alberto,                                           S.   I.   tr.    8. q.      34. ni. 1.            qua, omnibus consentientibus, actus notionalis praecedit secun-
-              nec non a                S.   Thoma, hic q.                          1.       a.     2.   citatur S.       Anselmus, qui                    dum intellectum illam proprietatem. Cfr. Scholion huius quaest.
-              in libr.            de Process.                  Spirit.        S. c. 7. docet,                    Spiritum S. non pro-                     — Paulo             inferius post                  Iwc habet cod.          K inserit verba a Patre.
-              cedere a Patre,                          quia       Pater            est,           sed     quia Deus est.                 — Pro                8 De quo cfr. Aristot. de Praedicam. c. de Relalione.,
-                                                                                                                                                                                                                                                                     —
-              etiam inesset codd. F H P Q T aa bb conveniret; alii codd. cum                                                                              Non mnlto post cod. T post voculam ita repetit generatio.
-              ed.    1       haec verba prorsus omittunt.                                                                                                        "    In praeced. quaest.
-                         =    Praeter hanc                     rationem,                quam            affert B.        Albertus,              S.   I.          1»    Textum, quem ex potioribus mss. restauravimus, Vat.
-              tr.    8.       q. 34.        m.         1   ,   idem auctor aliam proponit                                     in    suo Com-              valde mutilatum exhibet.     Omisso enim quod post verum est,
-              ment., hic               a.   2.         dicens        :   Sunt tamen quidam qui dicunt, quod                                               et   mutata interpunctione, a verbis necesse                                      est    initium facit no-
+Quod recte interpretati simus doctrinam S. Doctoris, penitus comprobatur et anecdoto Prologo S. Bonav. in II. Sent. et alio anecdoto additamento ad hanc quaestionem. Utrumque huic Scholio subnectimus.
 
-              generat, quia innascibilis,                                     quod              sic   quaerit socium,                cui       com-       vae propositionis                     ,     sic   prosequendo: Necesse est enim, ante ge-
-              munioet delicias suas. Sed                                      illi,     salva           pace eorum, non                       intelli-    nerationem esse hypostasim (secundum rationem intelligendi
-              gunt quaestionem, quia,                                    cum quaeritur, utrum quia Pater vel                                              loquorj. Subinde post oporiet codd. L addunt tempore.
-                                                                                                                                           ,
+**III.** Alex. Hal., S. p. I. q. 39. m. 3. — Scot., Report. hic q. 1. — S. Thom., hic q. 1. a. 1; S. 1. q. 40. a. 4. — B. Albert., hic a. 2. — Petr. a Tar., hic q. 1. a. 3. — Richard. Med., hic a. 1. q. 3. — Aegid. R., hic 1. princ. q. 2. — Henr. Gand., S. a. 38. q. 3. — Durand., hic q. 1. — Dionys. Carth., hic q. 2.
 
+### Anecdota
 
+**I.** Clarissime suam de hac quaestione sententiam explanat S. Bonav. in Prologo quodam ad II. Sent., cuius mentionem fecimus in Prolegom. pag. LVIII, et pag. 90. 137. Dicit autem haec: «Fortassis autem alicui videbitur, me ab eius (Alexandri Hal.) sententia deviasse, cum sermo fuit de generatione aeterna in primo libro d. 27. Cum enim scribatur in Summa [loc. cit. in Scholio], quod ideo generat, quia est Pater, magis visus sum adhaerere illi opinioni, quae dicit, quod Pater ideo generat, quia Deus innascibilis; cum iterum ab eodem scribatur, quod est aliquid dicere in divinis, cui non respondet verbum, magis adhaesi illi opinioni, quae dicit, quod non est dicere sine verbo, ac per hoc ab eius recessisse vestigio. Sed si quis recte intelligat, non discordavi ab ipso nec in primo nec in secundo, quia verum non contrariatur vero.
 
+Verum autem esse arbitror, et quod Pater generat, quia innascibilis, et quod generat, quia Deus pater; et hoc patet sic. Planum est enim et secundum omnem opinionem verum, quod ideo potentia Patris generat, quia fecunda est. Illud ergo recte dicitur esse ratio generandi, quod fecunditatem potentiae Patris importat. Fecunditas autem importatur et nomine innascibilitatis et nomine paternitatis, sed aliter et aliter. Nam paternitas importat fecunditatem quasi praesupponendo et praeintelligendo, licet principaliter imponatur *ab habitudine.* Dicitur enim paternitas habitudo Patris ad Filium. Innascibilitas autem importat fecunditatem ex consequenti intellectu: nam ex primo intellectu importat privationem habitudinis ad prius; sed ex illa sola privatione non posset esse proprietas, cum sit consequens [supple: illa privatio] essentiam. Et ideo innascibilis non solum dicitur Pater, quia ab alio non accipit esse, sed quia ab alio non accipit esse et quia habet unde alii det esse.
 
-    470                                                                                                                   SKNTENTIARUM LIB. 1.
+Qui igitur superficialiter intelligit attendendo vel aspiciendo, a quo primo nomen imponitur, utrumque negabit dicens, Pa-
 
-    infra'; tamen                         secundum rationem                                         intelligendi                      ratio    primi sequatur positio secundi. Unde quia primum,
-    distinguendi inchoatur in innascibilitate, et ideo ge-                                                                                     ideo principium °                         ;
-                                                                                                                                                                                               quia principium                         ,   ideo         vel           actu
-    nerat, non ut prius distincta paterniiate , sed ut di-                                                                                     vel habitu                esl            principiatum.                           Quoniam            igitur            ratio
-    stincta            quodam modo innascibilitate.                                                                                            primitatism aliquo genere est ratio pri^icipiandi'' in
-                 "2.     Ad illud quod obiicitur, quod non acquiritur                                                                          illo, ideo, quia Pater est primum respectu emana-
+<!-- page 473 -->
 
-    per actum; dicendum, quod in                                                                 divinis                  nulla       pro-     tionis, generationis et processionis , generat et spirat.
+trem non ideo generare, quia pater est, nec ideo generare, quia innascibilis est, quia nec habitudo nec habitudinis privatio est ratio producendi personam. Et quantum ad hoc verum dicet, sed non plene. Qui autem plenarium intellectum capit utriusque, attendens fecunditatem importari per utrumque nomen, utrumque dicet: et quod generat, quia Deus innascibilis, et quod generat, quia Deus pater. Verum est enim, quod Pater generat, quia nihil habet ab alio, sed habet unde det alii. Verum est etiam, quod Pater generat, quia fecunditatem habet in producendo sibi per omnia similem per modum naturae.
 
-    prietas acquiritur, quia'quaelibet est essentia.                                                                              Tamen        Et      quoniam primum                                       in           genere generationis ,                        quia
-    secundum rationem intelligendi origo sive emanatio                                                                                         iunascibilis,                  primum «                              in    genere       spirationis ,                  quia
-    originis est ralio relationis,                                                        sicut in               his            inferiori-     Deus         improcessibilis; ideo generat, quia                                                      Deus inna-
-    bus est ratio secundum                                                  esse.          Unde            sicut actus                 ge-     scibilis; et ultra                        non est ponere: quare                                      est innasci-
+Cum ergo dixi, quod Pater ideo est pater, quia generat, et non ideo generat, quia pater, non hoc dixi ratione fecunditatis, quam importat hoc nomen *paternitas* in divinis, sed ratione habitudinis, a qua nomen *patris* imponitur; et ideo magistro non contradixi, sed hoc ibi dicere omisi et nunc suppleo[^25] quod paternitas non tantummodo dicit habitudinem, sed etiam fecunditatem. Unde licet rationes ibi inductae ostendant, quod non ideo generat, quia pater, et concessae sint, quia verum concludunt, secundum quod *pater* imponitur ab habitudine, addendum fuit, quod non concludunt, secundum quod nomen *patris* importat fecunditatem. Cum autem dixi, quod Pater generat, quia Deus innascibilis, non hoc dixi, in quantum hoc quod est innascibilis importat privationem habitudinis; sic enim negat magister; sed hoc dixi, in quantum in nomine innascibilitatis clauditur potentia fecunditatis. Et hoc necessarium est ponere ad hoc, quod innascibilitas sit proprietas, sicut ibi multipliciter ostensum fuit. Magis autem adhaesi huic positioni, quod Pater generat, quia Deus innascibilis, non quia innascibilitas magis sit ratio generandi quam paternitas, sed quia magis est ibi status, ultra quem non contingit quaerere. Si enim quaeratur, quod [quare?] Pater generat, et respondeatur: quia pater est, id est, fecundus fecunditate naturae, adhuc dubitabit et quaeret, quare illa potentia magis est fecunda quam alia? Et respondebitur: hoc est, quia ipsa a nullo alio habet esse. Ideo enim «Pater est totius deitatis principium, quia a nullo», ut dicit Magister. Hac ratione reddita, ibi status est nec est ultra procedere. Et ideo dixi, quod Pater generat, quia Deus innascibilis, non ut assignarem generationis propriam rationem, sed magis propter inquisitionis terminationem. Nam in nomine *patris* importatur ratio generationis, ut propria, nomine vero *innascibilitatis*, ut prima; in uno antecedenter, in alio consequenter; in uno communiter, in altero specialiter».
 
-    nerationis est aeternus, ita et proprietas                                                                              paternita-         bilis?        Cum enim innascibilitas dicat primilatem, et
-    tis ' aeterna. Unde quamvis non acquiratur per actuni,                                                                                     status        sit        in    primo                ,    ideo etc. Et hoc est                          quod dici-
-    inest         tamen per actum                                  ;       unde iila propositio est falsa                                      tur infra,                distinctione vigesima                                     nona" circa                   princi-
+**II.** Iam dictum est supra pag. 472, nota 3, et Prolegom. LXIII, nota 2, quod codd. G aa bb huic quaestioni satis diffusam disquisitionem addunt pro explicanda et defendenda sententia S. Doctoris. Quaeritur igitur, utrum hoc additamentum ab ipso S. Bonaventura sit scriptum. Manifestum est ex praecedente fragmento anecdoti Prologi, illud scriptum non fuisse partem Commentarii, ut ab auctore primitus erat editus. Deinde ex verbis illius additamenti «Superius distinctione nona», et «sicut infra videbitur» (scilicet d. 28.) argui potest, illud considerandum esse tanquam partem alicuius Commentarii in librum Sententiarum. Denique patet, hanc disquisitionem non esse nisi longiorem, sed fidelem et in ipsis verbis saepe convenientem expositionem eius doctrinae, quae in dicto Prologo continetur, ipsamque non indignam esse tanto Doctore. Attamen auctoritas trium codicum, licet sint antiqui, non sufficere nobis videtur, ut affirmare possimus, S. Bonaventuram esse huius scripti auctorem. Fieri enim potuit, ut ex ipsis verbis Seraphici, in schola, teste illo Prologo, prolatis, aliquis ex eius discipulis hoc additamentum composuerit et alicui exemplari huius Commentarii apposuerit; vel quod ex aliquo scripto discipulorum eiusdem super sententias postea nostro Commentario insertum sit. Examinavimus quidem plura opuscula discipulorum S. Doctoris de hac re tractantia, sed frustra. Remanet autem dubium, ne fortasse in aliis operibus possit inveniri. — Nihilominus non improbabile est, S. Bonaventuram post Commentarium iam editum illi addidisse quae viva voce in scholis docuerat, cum in Prologo dicat: «Hoc ibi dicere omisi et nunc suppleo». Ipsi igitur visum est, aliqua ad explicandam sententiam suam opportuna fuisse in suo scripto omissa. Quomodocumque res se habeat, digna est haec trium codicum additio, quae hic inseratur. Aliquas lectiones variantes codicis G uncinis clausas apposuimus.
 
-    et     debet          sic generaliter                                  proponi:               in        eis           quae         non     pium:             «   Pater est principium totius divinitatis, quia
-    insunt per actum etc, et tunc                                                           minor est falsa.                            —      a    nullo»; et hoc est quod                                                 in    pluribus locis supra
-    Potest             tamen            dici ,           quod               illud          est verum de actu                                   praesuppositum                           est '°.
+«Non est autem praetermittendum, quod cum quaeritur, utrum (quare) pater generet (generat), quia pater, an e converso, solet fieri quaedam distinctio, (ex) eo quod paternitas, a qua nomen patris importatur, potest considerari ut proprietas, vel ut relatio. Si consideretur ut proprietas, sic est perfectio personae Patris, in quantum persona talis, et hoc, quia est proprietas personalis, et quia omnis actus, qui convenit supposito, intelligitur convenire ratione alicuius proprietatis et qualitatis et formae. Hoc modo accipiendo (paternitatem), generare convenit personae Patris et intelligitur convenire, quia est pater. Si autem consideretur paternitas ut relatio, cum relatio dicat respectum ad alterum, scilicet ad filium, sic necessario supponit intellectum filii, et intellectus filii intellectum generationis, ac per hoc, quantum ad rationem intelligendi, intellectus paternitatis intellectum praesupponit generationis. Et quantum ad istum (hunc) intellectum verum est, quod (quia) ideo est pater, quia generat. Et secundum has duas vias declinari (determinari) posse videntur rationes, quae fiunt ad partes oppositas.
 
-    qui elicitur ex                            iilo          liabitu,                 sicut         opus                 meritorium                        Quod autem movet ad hoc dicendum, primum est                                                                            Argumenta
+Huic autem distinctioni obviare videntur quam plura. Nam talis distinctio nec videtur in se valere, nec ad propositum.
 
-    ex gratia; sed actus                                        generationis non elicitur                                              nec     antiqua positio magnorum doctoi-um ", qui dixerunt, 1^'e. i- d»-
-    intelligitur elici ex paternitate: ideo non oportet prae-                                                                                  quod innascibilitas in Patre dicit fontalem plenilu-
-    inteliigere                    paternitatem ad hoc                                              quod                  intelligatur         dinem. Fontalis autem plenitudo consistit in produ-
-    generare.                                                                                                                                  cendo. Sed conslat quod non ideo quia creaturam ,                                       ,
+1. In se quidem videtur a rectitudine deviare primo, quia in divinis relatio est superius ad proprietatem sive in plus, quia communior; quamvis non sit in divinis proprie inferius et superius; omnis enim personalis proprietas est relatio, sed non e converso. Sed inter inferius et superius nulla cadit distinctio. Nihil enim est dicere, quod albedo potest esse nomen coloris, vel nomen qualitatis. Igitur consimiliter nulla est distinctio, cum distinguitur, quod paternitas potest esse nomen proprietatis, vel relationis.
 
+2. Rursus, nullum nomen in divinis potest esse proprium personae, nisi dicat respectum ad alterum. Omne enim, quod in divinis absolute dicitur, necessario dicitur de tribus, sicut vult Augustinus. Si ergo paternitas nominat personae proprietatem, hoc non est, nisi quia dicit respectum personae ad personam: ergo, circumscripta relatione per intellectum, iam non erit proprietas. Intellectus igitur relationis in divinis non potest circumscribi ab intellectu proprietatis nec re nec ratione. Si igitur nulla cadit distinctio inter ea, quorum unum est ratio intelligendi reliqua, nec distinctio inter ea quorum unum non potest aliquo modo intelligi, altero circumscripto: redit igitur, quod nulla sit praedicta distinctio, scilicet quod paternitas possit esse proprietas vel relatio.
 
+3. Amplius, paternitas, prout est proprietas in divinis, aliquo modo praedicatur: aut ergo *in quid*, aut *in quale*, aut *in quomodo se habet.* Si *in quid*: ergo nomen illud magis est substantiae nomen quam proprietatis. Si *in quale*; sed (et) omne quod praedicatur in divinis ut *in quale*, transit in substantiam, sicut vult Boethius et Augustinus. Et nihil tale est proprium personae: ergo paternitas non est proprium personae. Restat ergo, quod praedicatur ut *quomodo se habens (habet)*, quia alium modum non est assignare, secundum quem, quod a paternitate dicitur, praedicetur. Et illud clarius apparet, quia non respondetur ad quaestionem factam per *quale*, sed per *quomodo se habens.* Ergo ut proprietas est, importat habitudinem ad alterum, et ita relationem: ergo impossibile videtur sustinere praedictam distinctionem.
 
-                  3.     Ad illud: aut generat, quia Deus, aut quia                                                                            producit, dicitur in eo fontalis plenitudo, quia hoc
-    pater etc; dicendum, quod generat, quia Deus in-                                                                                           convenit tribus''; nec ideo, quia producit Spiritum
-    nascibilis; et spirat                                 ,
-                                                              quia improcessibilis ^.                                           — Quod         sanctum, quia hoc convenit                                                    Filio:    ergo fontalis ple-
-    obiicitur,                 quod innascibilitas dicitur secundnm pri-                                                                       nitudo in                 Patre                ponit                  generationem              in    eodem.                   Si
+4. Postremo, cum distinguitur, quod (quia) paternitas potest esse relatio vel proprietas, aut hoc est secundum diversitatem a parte rei, aut secundum diversitatem a parte intelligentis: non secundum diversitatem a parte rei; hoc constat, quia omnino ibi est summa simplicitas, et ideo idem est generare et esse patrem, et paternitas et generatio. Erit igitur secundum diversitatem a parte intelligentis. Sed contra: sicut intellectus noster imposuit vocabulum *generandi* ipsi productioni et emanationi, sic imposuit vocabulum *paternitatis* ipsi habitu-
 
-    vationem              ,    dicunt aliqui quod privatio pura non est,
-                                                                                                                                               ergo innascibilitas est fontalis plenitudo, patet etc
-    ratio habitus, sed privatio         cum halaitu sub-                             aliqua                                                                Movet etiam communis opinio, quae dicit, inna- ?                                                                           ex opi-
+<!-- page 474 -->
 
+dini et relationi. Sicut ergo non distinguitur, quod *generare* possit nominare proprietatem personae vel productionem, similiter nec videtur valuabiliter[?] posse distingui in eo quod est *pater.*
 
-    strato est ratio. Unde sicut aliquis homo hlieralis
-                                                                                                                                           '
-                                                                                                                                               scibihtatem      proprium Patris; sed
-                                                                                                                                                                              esse                                                                   non potest '""ni-
-    invitat ad comedendum, quia solus, sic Pater gene-                                                                                         esse proprium " et maxime proprium                                                              ,
-                                                                                                                                                                                                                                                     quod            dicat
+Videtur nihilominus praedicta distinctio non valere ad propositum.
 
-    rat propter liberahtatem ,                                                   et       ne     sit        solus;               et   ideo     notionem, secundum quod importat                                                            puram priva-
-    cum semel generavit et spiravit, non ampUus gene-                                                                                          tionem. ; sic                  enim convenit essentiae et                                            Spiritui san-
+5. Dicitur enim, quod intellectus paternitatis, ut est relatio, praesupponit intellectum generationis, et hoc secundum rationem intelligendi, quamvis, in quantum est proprietas, sit e converso. Sed contra: quidquid est prius aliquo secundum rem vel intellectum, quod est prius tertio secundum rem vel intellectum, necessario illud primum est prius illo tertio (primo), eodem modo prioritatis servato. Sed illud, a quo non convertitur consequentia [cfr. Aristot. Praedicam. c. de Priori] et quod habet rationem superioris, prius est. Ergo cum relatio sic se habeat ad proprietatem, quod intellectus paternitatis, ut est relatio, praeambulus est ad intellectum paternitatis, ut est proprietas; et generationis intellectus praeambulus est ad intellectum paternitatis, ut est relatio, secundum praedictam distinctionem: ergo praeambulus est ad intellectum eiusdem, ut est proprietas, per illam maximam: *quidquid est prius priore, est etiam prius posteriore.* Accipiatur hoc sane quantum ad nostrum intelligere, quia in divinis non contingit proprie prius et posterius reperire.
 
-    rat, quia                  iam non amplius                                        est        solus, quamvis                          sit   cto:        ergo aliquid ponit: non absolutum                                                        —           constat,
-    lilieralis.                                                                                                                                quia ratione                       illius               non               potest " esse proprietas                         —
-                                                                                                                                           '
-                  Aliter           tamen est dicendum                                        ,   sicut               praedictum                sed non potest ponere respectum positivum respeclu
--   fuit,         quod innascibihtas est privatio                                                      ,
-                                                                                                           quae secundum                       producentvi: ergo de ratione sua ponit respectu pro-
-    rem est perfecta positio.                                                    Innascibilis                    enim             dicitur      dueti.            Sed          secundum rationem                                       intelligendi                   prima
-    Pater, quia                    non esse ab alio est
-                                    non            est        ab       alio ; et                                                               ratio respiciendi                         aliquem ut productura                                      est genera-
+6. Rursus, intellectus positivus in eodem et respectu eiusdem antecedit intellectum privativum, sicut convenientia antecedit differentiam, et sicut affirmatio antecedit negationem; sed paternitas, ut est relatio, dicit respectum et habitudinem ad filium, ut est proprietas, dicit distinctionem Patris a Filio, quia proprium est quod convenit soli: ergo intellectus paternitatis ut est relatio, praeambulus est ad intellectum eiusdem, ut est proprietas: ergo si paternitas consequitur intellectum generationis secundum nostrum intelligere in quantum relatio, restat quod et in quantum proprietas (consequatur).
 
-    esse primum, et primitas est nohWh positio. Primum                                                                                         tio:        ergo ad innascibilitatis positionem sequitur                                                                   po-
-    enim ralione primi adeo                                                      dieit           nobilem                  positionem           sitio        generationis                  :    ergo                  etc.
+7. Amplius, quocumque modo accipiatur paternitas, verum est dicere de eo qui genuit, quod est pater, etiamsi non generet actu nec generet de futuro: ergo potest intelligi paternitas inesse alicui absque hoc, quod in actu generet. Si igitur propria ratio alicuius et re et intellectu ponit illud, cuius est ratio, videtur quod nullo modo paternitas sit ratio generandi. Si tu dicas, hoc esse verum de paternitate in creatura, non in Creatore; contra hoc est, quod paternitas non sumitur aequivoce hic et ibi: ergo intellectus et ratio intelligendi consimilis est, sicut et consimilis est ratio nominandi et imponendi, quidquid sit ex parte rei.
 
-    et condilionem, ut videbitur,                                                          quod ad                        positionem                       Movet etiam verbum Hilarii, duodecimo de Tri- s. cx Hiia-
+8. Postremo, ita est filiatio proprietas Filii et (vel) relatio, sicut et paternitas Patris. Sed quocumque modo accipiatur filiatio, sive ut proprietas sive ut relatio, semper est verum dicere, quod Filius est filius, quia genitus; et hoc saepe dicit Augustinus et in sermone de Purificatione beatae Virginis et in libro de Trinitate, et hoc ipsum dicit Gregorius et habetur superius distinctione nona. Ergo quocumque modo accipiatur paternitas, semper est verum dicere, quod ideo est pater, quia generat.
 
+Videtur igitur, quod praedicta distinctio nec in se nec ad propositum habeat efficaciam. Haec et alia plura obiici possunt contra distinctionem praedictam.
 
+**Responsio.** Si quis igitur praedictam distinctionem superficialiter intelligat, aestimo, quod plurima inveniet sibi obviantia; sed si vim vocabuli attendamus, satis fiet lucidum, quod videtur ambiguum. Planum est enim, quod paternitatis vocabulum circa personam, de qua dicitur, duo insinuat: et fecunditatem, per quam est principium Filii, et habitudinem secundum quam refertur ad ipsum. Si igitur in praedicta distinctione, qua dicitur, quod paternitas potest considerari sub ratione proprietatis et relationis, intelligatur fieri distinctio inter intellectum fecunditatis et habitudinis consequentis, cessat calumnia verborum et importunitas obiectionum. Nullus enim sanae mentis dubitet, quin fecunditas naturae secundum rationem intelligendi praecedat ipsam productionem generationis, et quin ipsa habitudo consequatur secundum rationem intelligendi ipsam generationem: nunquam enim pater intelligitur generare filium, nisi quia intelligitur esse fecunditas in ipso; nunquam intelligitur referri, nisi (etiam) intelligatur habere filium. Et sic intellectus paternitatis ratione fecunditatis praeambulus est ad intellectum generationis sive actum generandi secundum rationem intelligendi; intellectus vero habitudinis et relationis est e contrario. Sic igitur manifestum est, quod si loquamur de hoc nomine *pater* quantum ad intellectum ultimum, a quo nomen imponitur, qualiscumque fiat distinctio, quod non ideo generat, quia pater, sed magis e contrario; licet possimus concedere, quod ideo generat, quia pater, quantum ad intellectum fecunditatis, qui est quasi praeambulus; et per hoc possunt evitari omnes obiectiones praecedentes.
 
+Consimilis etiam modus distinguendi valet ad multas alias quaestiones, utpote, utrum pater generet, quia innascibilis, quia quantum ad intellectum primum, qui privativus est, innascibilitas non est ratio generandi, sed quantum ad consequentem, qui est fontalis plenitudo. — Valet etiam ad quaestionem, utrum potentia generandi dicatur secundum substantiam an secundum relationem. — Valet nihilominus ad quaestionem quando quaeritur, utrum abstractis proprietatibus sit intelligere distinctionem in hypostasibus. Et multae per hoc opiniones possunt reduci ad concordantiam (concordiam), quae repugnare videntur. In huiusmodi enim quaestionibus de proprietatibus non modica vis constituitur in intellectu, quem nomina praecipue faciunt, et ideo non est in huiusmodi (his) alteri parti nimis adhaerendum, pro eo quod controversia de nominibus est pertinacibus relinquenda, iuxta philosophicum documentum [cfr. VIII. Topic. c. 1. in fine.].
 
-                  Dist.       28. q.           1.   2. 3.      —           In    fine solutmnis liuius                          argumenti      esse.       Non muUo post pi'0 ponere noniiulli codd.                                                 ut         P Q bb (T
-     at. ,        codd. et ed.                 I    obnitentibus, oppicssit verba patera/tote,                                                 qtiaerere.
+Ex his igitur patet, quod una praedictarum positionum (partium) sive opinionum alteram non impugnet; quoniam potius adiuvat ad veritatem dilucidandam. Dum enim utraque ponit, quod actus generationis competit personae Patris ratione fecunditatis per modum naturae, idem omnino sentiunt; dum autem dicunt, fecunditatem illam importari per haec duo nomina *paternitas* et *innascibilitas*, non contradicunt, quia paternitas importat fecunditatem quantum ad intellectum primum sive praeambulum; sed innascibilitas tantum quantum ad consequentem. Paternitas etiam importat ipsam fecunditatem ut est, ratio generandi propria, sed innascibilitas, ut est ratio prima (generandi). Paternitas enim fecunditatem importat respectu actus generandi determinate, et ita significat ut rationem propriam generandi; sed innascibilitas ut primam, quoniam sicut dicit Magister infra: «Pater est principium totius divinitatis, quia a nullo». — Et si quaeratur, quare magis persona Patris est fecunda ad generandum quam alia persona; ratio (huius) est haec, quia ipsa est prima et ita a nullo; et hoc importat hoc nomen *innascibilis (innascibilitatis)*, sicut infra videbitur, nec ulterius restat alia quaestio, quare scilicet persona innascibilis est innascibilis (sive a nullo), immo ibi status est. Si quis autem in primo statum non inveniet nec quietem, cum primae et primordialissimae emanationis investigat rationem, videlicet generationis Filii Dei, nescio si unquam sit cum alicubi inventurus[?] esse».
 
-    sed ut distincta.                                                                                                                                  '    In   lil.    Magistri,             c.          I.
+*Ultima propositio in solo cod. G exstat, in quo hic terminatur quod adiungitur. Sed in codd. aa bb plura alia adduntur, quae non a S. Bonaventura scripta esse videntur. Contra morem enim Seraphici Doctoris, qui in omnibus studet brevitati, non pauca ex iam dictis et fere iisdem verbis repetuntur. Additur etiam alia quaestio, scilicet utrum fecunditas in Patre sit dicta secundum substantiam, an secundum relationem, et applicatur distinctio supra posita ad duas quaestiones: utrum potentia generandi dicatur secundum substantiam, an secundum relationem (supra d. 7. q. 1.), et utrum abstractis proprietatibus contingat intelligere personas (in quaest. sequenti). Sed in his vix aliquid notatu dignum continetur, nisi illa sententia, quam transcripsimus in Prolegomenis LXIII. col. 1.*
 
-            2     Supple cum cod. G                             est.
-                                                                                                                                                       1»   Supra            d.    2.    q.    2, et d. II. q. 2.
-            '     Quacstione principali solula, S. Doctor ex occasione huius                                                                           " Pro magnorum doctorum                                              aliqui codd. ut           .-V   RS        (   T    a
-    obiectionis               in    his        quae           sequuntur                    solvit      connexam                  quaestio-     prima manu)   Y cc magistrorum doclorum; cod. G nostrorum
-    nem,          scil.   quae sit ultima                       ratio,               quare Deus generet et spiret.                             dociorum ; codd. P Q V omisso magnorum solummodo ma-
-                                                                                                                                                                                    I                  ,                                   ,
-
-
-
-    Cfr.    supra d.               7. q.           2.   conclus. et hic                        Scholion.                                       gistrorum.
-            * In         compluribus codd. ut A I                                         Q S T Y legitur Uberalis ens                                 1'    Snpple           cum codd. aa bb personis.  Paulo ante complu-           —
-    pro horno Uberalis.                                                                                                                        res codd., inter quos et cod.                T, cum ed. 1 producat pro pro-
-             =    Supra            d.   2.     q.       2.    in corp., ct d.                     \\.       q.       2.    in corp.,      et   ducit, et paulo inferiusquod producat pro quia producil.
-    d.   13.       dub. 4;              cfr.    etiam infra                     d.   28. q.       \.       2.   — Mox post              pri-        13 Cod. T post proprium repetit Patris. Non multo post
-                                                                                                                                                                                                           i)ro
-
-    vaUo cod. Q adiungit secundum vocem.                                                                                                       dicat aliqui codd. ut                      W
-                                                                                                                                                                       Y dicit, pro quo verbo Vat. antiquio-                                                ,
-
-
-
-             ^     Cfr.    supra pag. 215, nota                                      9.                                                        ribus codd. nec non ed.       refragantibus   subslituit vcrbum  I                      ,
-
-
-             ">
-                   Ita    multi codd.                    ut    GKMNPQY ee                                   ff;          alii   cum Vat.       tmportat.
-    principiati.                                                                                                                                       " Non pauci codd. ut A F G H T V .X Y cum cd.                        I                                    I   posset.
-             *     Vat.   ,    non suffragantibus codd. neque ed.                                                1   ,    voci primum          Paulo inferius post sua ponit codd.                                               Q Z repetunt respectum.
-    praemittit est esse, et paulo superius eidem
-                                                                                                                             ,                                                                                                                                                     ;,, .
-
-
-
-
-                                                                                                     DIST.         XXVn.             P.   I.    ART. UNICUS QUAEST.                                   11.                                                                    471
-
-                                  quod Pater est auctor Filii. Con-
-                njtate ', ubi dicit ,                                                                                                                  esset   quod omnes immediate procederent a persona
-                                                                                                                                                                ,
-
-
-
-
-                stat autem, quod per auetorem intelligit non facto-                                                                                    Patris. Quia sicut causa prima necessario in omni
-
-                rem, sed              Eo ergo convenit Patri esse
-                                          genitorem.                                                                                                   productione                   sequenti                 immediate operatur,                                 sic        suo
-                genitorem  quo eonvenit ei esse auctorem auctorem
-                                      ,
-                                                                                                                         ;                             modo in personis.
-                autem esse convenit ei per id quod dicit auctorita-                                                                                             Ad hoc etiam ' movet ratio. Sicut enim                                                                 possi-              Arguiiw
-
-                tem esse in Patre; sed summa auctoritas est                                                                           in Pa-           bile     est intelligi                  hypostasim Patris et Fihi, non intel-
-                tre ratione innascihilitatis: ergo convenit hypostasi                                                                                  lecta hypostasi Spiritus sancti;                                          sic          etiam           possibile i'nimim.
-
-                Patris ratione innascibilitatis generare. Et hoc viden-                                                                                est inteliigi                 hypostasim Patris, nulla                                       alia          persona
-                tur dicere verba Hilarii, duodecimo de Trinitate,                                                                               si     intellecta. Et                tunc quidem intelligeretur, non                                               intelle-
-
-                quis atlendat, et similiter in quarto".                                                                                                cta paternitate.                        Et       certum est, quod possibile                                            est
-
-                         Movet etiam verbura Philosophi ^ qui dicit, qaod                                                                              hoc     intelligi.            Possumus enim                         ,   non            intellecta           perso-
-4.   ex libro   principia quanto sunt priora, tanto potentiora                                                                            —     et     narum             pluralitate, intelligere                               divinam naturara                                  et
-
-                quod causa prima plus influit                                                        —      et quae simphciter                         habentem illam                      ,    et          quod illam non habeat ab alio
-                prima,              summe habet influere per omnem modum.                                                                              et ita intelligunt                           gentiles ". Sic                 igitur              intelligendo
-
-                Si    ergo videmus in ordine causarum, inter quas est                                                                                  contingit de                  isto           dicere et            intelligere,                   quod           possit
-
-                ordo essenlialis, quod primitas                                                           facit,    esse     summam                    generare. Per quid ergo potest ? Nihil invenio in illa
-                influentiam in causa, et                                             maiorem influentiam secun-                                        hypostasi               nisi        commune                   praeter              .   innascibilitatem                     :
-
-
-
-
-                dum essentiam: pari ratione, ubi esl ordo persona-                                                                                     ergo, si generatio non potest ei inesse per illud quod
-                rum, primitas in prima persona est ratio producendi                                                                                    est     commune, inest ei per illud quod est proprium;
-                aUas; et quia innascibilis ^ dicit primitatem, hinc est,                                                                               hoc autem                est innascibilitas: ergo etc.
-
-                quod dicit fontalem plenitudinem respectu produ-                                                                                                Rursus           ,    sicut            videmus plures personas in una secundu
-                ctionis personalis. Et huius signum videmus, quod                                                                                      natura ,           sic plures proprietates in                una persona ergo,                              :
-
-
-
-
-                prima in generibus sunt principia aliorum ^ et quae                                                              ,                     sicut ad perfectionem completissimam necesse est
-                sunt simphcia ut in pluribus, ita quod in eis sit                                                                                      oranes personas reduci ad unam quae sit principium                       ,
-
-
-
-                status, habent potentiam inflnitam, sicut punctus re-                                                                                  aliarum,            sic       omnes proprietates unius personae '" ad
-                speclu              hnearum                  ,    et unitas respectu numerorum ; sic                                                   unam         ,
-                                                                                                                                                                        quae         sit ratio aharum. Sed in Patre est pa-
-
-                etiam divina essentia, quia prima" respectu creatu-                                                                                    ternilas et innascibilitas et spiratio ; sed innasci-
-
-                rarum. Unde fortassis                                   ,
-                                                                             quia divina essentia est prima,                                           biliias          non est reducibilis ad alias: ergo necesse est,
-                ideo est              omnipotentissima.                                      Et          quia omnis essentia                           quod aliae reducantur ad innascihilitalem, quae est,
-                sequitur essentiam                                      trium personarum                             ,   impossibile                   sicut dixerunt, fontahs plenitudo.
-
-                est,quod una persona producat ahquid sine altera.                                                                                                  Amplius, paternitatis et generationis proprietas, Teriium
-                Quamvis autem potentia producendi respectu perso-                                                                                      quantum. est de generali sua                                            signiflcatione,                    commu-
-                narum infmitarum non debuerit                                                               esse,        sicut supra                   nicahilis est ;                 quod '^ patet in creaturis quia genitus                      ,
-
-
-
-                monstratum est'; attamen                                                    si       per impossibile pone-                             generat, et               filius             unius      fit    pater alterius. In divinis
-                retur,          quod milie personae producerentur                                                                                      autem paternitas est incommunicabilis                                                            :   ergo             cum
-
-
-
-
-                        1     Num. 21: Nam ipsa sermonum enuntiatione cum natum                                                                        cat: « Causa             prima est flxa, stans cum unitate sua pura sem-
-                profitemur,        non tamen non natum praedicamus. Neque enim                                                                         per, et ipsa regit res creatas                          omnes et influit super eas virtutem
-                id ipsum            est       non natum atcjue nasci                                 ;
-                                                                                                         quia illud ab altero               ,   lioc   vitae et bonitates secundum                            modum virtutis earum receptibilium
-                vero a nemine                         est.       Et aliud est sine auctore esse                          semper aeter-                                          Prima enim bonitas intluit bonitates su-
-                                                                                                                                                       et possibilitatem earuiTi.
-
-                num,          aliud        quod Patri,                      id   est       auctori,          est    coaeternum.                 Ubi    pra res omnes influxione una, verumtamen unaquaeque rerum re-
-                enim Patcr auctor est, ibi et nativitas est;                                                   at    vero ubi auctor                   cipit ex illa influxione .secundum                        modum suae virtutis et sui esse »
-                aeternus est,                 ibi et nativitatis a.eternitas est,                                  quia sicut nativitas                        *    Cod.       H innascibitttas.
-                ab auctore                est, ita et              ab aeterno. auctore aeterna nativitas                                        est.           5 Cfr.      Aristot.,            II.    Metapli. text. 4.            (I.       brevior        c.   1.), et          X.
-                Idem fere dicit ibid. n.                                Sl.                                                                            text.    2.      seqq. (IX.             c.     I.).   — De    potentiali infinitate puncti,                                qua
-                        2     Num. 6              :   In     uno    ,   ex quo auctoritatem innascibilitatis in-                                       potest terminare inflnitas lineas, vide .supra d. 17. p.                                                    II.       q.    2.
-
-                telligit       (Ecclesia); in uno, per                                 quem               potestatem     niliil       differen-        ad 2.        —    Vat. absque auctoritate codd. et edd. sic prosequitur                                                         :
-
-
-
-
-                tem ab auctore veneratur. Cfr. et IX. n. 31.                                                                                           et    quae sunt simpliciler prima,                            ita       quod in eis sit staius ut in
-                     3 Qui non cst .\ristot., sed auctor libri de Causis (cfr. supra                                                                   pluribus.
-                                                                                                                                                                    Supple cura codd. G M bb
-                                                                                                                                                                                                                                                                         *
-
-
-                d. 8. p. II. q. 2. arg. 3. ad opp.), qui tres a S. Uoctore tiic                                                                                <=                                                        est.
-
-                adductas rationes ponit, et quidem secundam verbis explicitis                                                                                  '    Supra d.          2.       q. 3, et d. 7. q.               2.
-
-                in propos.                1   :       k   Oninis causa primaria plus est influens supra                                                       Pro etiam, quod ex codd. P Q et
-                                                                                                                                                               8                                                         I                    ed.       I   revocavimus,
-                causatum suum, quam                                         causa          universalis         secunda». Primam                         Vat. autem, codd. Y cc Adhuc autem.
-                autem rationem                            insinuat ibid. sic;                    o       lam orgo manifestum est                               '
-                                                                                                                                                                    Cfr.       supra       d.       26. q. 3.    — Paulo             inferius post                hypostasi
-
-                <;t   planum, quod causa longinqua est prima,                                                       et prinia est plus                 Vat. praeter fldem codd. et ed.                              non pro
-                                                                                                                                                                                                                     1                         nisi.
-
-                 conipreliendens et                          veliementius causa rei qiiam causa                                           propin-              "I       Supple: reduci necesse                       — Sola
-                                                                                                                                                                                                                    est.                      Vat., suppressa voce
-
-                 qua    j>    (cfr.   etiam prop. 16. et                             17.).   Tertiam tandem rationeni au-                              unius, post personae interiicit reduci, et pro aliarum substituiL
-                 ctor        illc    affcrt in propos.                      20   :    <t   Causa prima regit res creatas
-                 omnes, praclcr quod commisceatur cum eis », quam sic expli-                                                                                   1'       Vat.    cum cod.
-                                                                                                                                                                                                                                         ,,,
-
-
-
-
-    472                                                                                                SENTIiNTLiRUM                        LIB.        I.
-
-
-
-
-    hoc non                 sit   de         ratione paternitalis in                               quantnm                   pa-    tis:     ergo cum Pater sit «totius deitatis principium»,
-    ternitas , erit ratione ' alicuius ,                                            quod est incoramu-                              ut dicit .\ugustinus ', hoc                                 est , quia est           prima per-
-    nicabile; hoc autem est innascibilitas sive primitas,                                                                           sona, ac per hoc quia innascibilis.
-    quia primum non potest dare                                                   alii          primitatem ,                  et                Hoc sine praeiudicio aliorum dictum                                        est.     Utra- Epiioi
-    innascibilis non potest generare innascibilem                                                              :        ergo        que enira harum positionum                                         magna est, et neutra
-    videtur, quod in divinis hypostasis Patris ideo gene-                                                                           est     contemnenda;                         haec* autem                 videtur magis             ca-
-
-    ret, quia innascibiHs.                                                                                                          dere in intelleclu                          quam prima, maxime si respicia-
-                Postremo, cum idem %\\.primum elprincipium,                                                                         tur ipsius paternitatis                                  propria acceptio,             quae        est
-.   sicut patet et Philosophus ^ dicll; aut ideo est primum,                                                                        vere relatio                    et     simul            natura          cum      fdiatione,      nec
-    quia principiura, aut e converso. Constat, quod ideo                                                                            potest            abstrahi             a         natura et proprietate relationis;
-    convenit                ei        ratio principii, quia est                                  primum;                 ideo       unde ita importat habitudinem ad Filium                                                ,   sicut et
-    per se hoc                        habet.         Et        constat,                quod       status           est in           generare. Ideo et                           ista positio           intelligibilior videtur;
-
-    primo principio,                           non quia principium , sed quia                                                       et     hoc melius                    patebit            infra^      cum agetur de inna-
-    primum. Et constat, quod illa est conditio nobilita-                                                                            scibilitate.
-
-
-
-
-                                                                                                               SCHOLIOK
-            I.    Eandeni quaestioneni                         S.   Tliom. (S. I. q. 40. a.                i.)         Iractat      hic    a.    2.    —     Petr. a           Tar., hic q.       1.   a.   3.   — Richard. Med.a
-    sub hoc tilulo:                   «    Ulrum actus notionales                           praeinlelligantur pro-                  hic a.       I.   q.     3.   —  .Egid. R.,            hio 1. princ. q. 2.      — Henr. Gand.,
-    prietatibus ». In solutione Iniius problematis saltem verbis dis-                                                               S. a. 38. q. 3.               — Durand.,              hic q. 1.    — Dionys.      Carth., hic q.    2.
-
-    sentiunt S. Bonav. et Alex. Hal. (S. p. 1. q. 59. m.                                               3.),   cum quo
-    convenit           S.    Thom. (S.          1.   q.        40. a. 4.). Alex. Hal. et S.                            Thom.                                                          ANECDOTA.
-    faciunt        distinctionem               inter        paternitatem                    ut est relalio             (et    sic
-
-    secundum                intellectum         praesupponit generationem ) ,                                 et       ul est               I.   Clarissime              suam de hac quaestione sententiam explanat
-    proprietas (et sic praeintelligitur generalioni). Alex.                                                   Hal.           vult   S.     Bonav.          in     P.-ologo   quodam ad II. Sent., cuius menlioncm
-    eliam, ut addatur                      Deus in hac formula, ita ut dicatur: Pater,                                              fecimus in Prolegom. pag. LVlll, et pag. 90. 137. Dicit autem
-    in   quantum Deus pater, generat. Scotus vero contra applicatio-                                                                haec:        i    Fortassis       autem          alicui videbitur, me ab eius (Alexan-
-    nem huius distinctionis et etiam contra sententiam S. Bonaven-                                                                  di'i   Hal.) sententia deviasse,                       cum sermo fuit de generatione ae-
-    turae opponit     Sent. d. 28. q. 3. n. 2. 3.).
-                                  (
-                                      I.              Argumentum                                   —                                terna in primo libro d. 27. Cum                 enim scribatur in Summa [ loc.
-    principale S. Thomae est I. ad opposit. apud S. Bonaventuram.                                                                   cit.   in Scholio],             quod ideo generat quia est Pater, magis visus
-                                                                                                                                                                                                  ,
-
-
-
-
-    Sententiam S. Thomae, quae non ab omnibus eodem modo                                                                            sum adhaerere illi opinioni, quae dicit, quod Pater ideo gene-
-    explicatur, bene expressisse                               videtur Pelrus a Tar.                       (hic          q.    I.   rat, quia Deus innascibilis; cum iterum ab eodem scribatur,
-
-    a.   3.):      «    Secundum intellectum prius intelligitur                                      paternitas,               ut   quod est aliquid dicere in divinis,                                cui non respondet verbum
-
-    forma Patris constitutiva                    ,
-                                                     qua personaliter in se subsistit; deinde                                       magis adhaesi illi opinioni, quae dicit, quod non est dicere sine
-    ut potentia generativa, qua agit; deinde ut actus generalionis;                                                                 verbo, ac per hoc ab eius recessisse vestigio. Sed si quis recte
-    et   ultimo ut relatio ».                                                                                                       intelligat,         non discordavi ab ipso nec in primo nec in secundo,
-            II.    Sententia S. Bonaventurae, cui consentit Richard. a Med.,                                                        quia    verum non contrariatur vero.
-    media via inoedens, utramque sententiam aestimat probabilem,                                                                            Verum aulem esse arbilror, et quod Pater                                    generat, quia
-
-    immo eas in concordiam felici successu redigere nititur. Distin-                                                                innascibilis, et quod generat, quia Deus pater; et hoc patet
-    guit enim in paternitate et fecunditatem   quam importat, et                            ,
-                                                                                                                                    sic. Planum est enim et secundum omnem opinionem verum,
-    relaUonem ad Filium; et iterum in innascibilitate distinguit et                                                                 quod ideo potenlia Patris generat, quia fecunda est. lllud ergo
-    privationem et fontalem plenitudinem seu fecunditatem. Qua-                                                                     recte dicKur esse ratio generandi, quod fecunditatem polentiae
-
-    tenus innascibililas dicit fontalem plenitudinem, radix est gene-                                                               Patris importat. Fecunditas autem importatur et nomine innasci-
-
-    rationis; et             sicverum est, quodPater, quia generat, est pater,                                                      bititatis et           nomine patemitatis, sed aliter et aliter. Nam pater-
-    id est, habet relationem ad Filium. Sed etiam verum est,             quod                                                       nitas importat fecunditatem qiiasi praesupponendo et praeintel-
-
-    generat, quia pater, quatenus paternitas includit fecunditatem.                                                                 ligendo, licet principaliter imponatur «6 kabitudine. Dicitur enim
-
-    De innascibilitate, quodimportet plus quam meram privatio-                                                                      paternitas habitudo Patris ad Filium. Innascibilitas autem impor-
-
-    nem (ut vult Scotus), cfr. d. 28. per (otam; de origine et re-                                                                  tat    fecunditatem ex consequenti intelleclu:                                nam ex primo intel-
-    lalione supra d. 26. q. 3.                                                                                                      lectu        importat primticmem habitudinis ad prius;                                 sed ex      illa
-
-            Quod recte interprctati simus doctrinam S. Doctoris, penitus                                                            sola privatione                 non posset esse proprietas,                   cum sit consequens
-    comprobatur et anecdoto Prologo S. Bonav. in II. Sent. et alio                                                 ,                [supple: illa privatio] essentiam. Et ideo innascibilis non solum
-
-    anecdoto additamento ad hanc quaestionem. Utrumque huic                                                                         dicitur Pater, quia                   ab     alio      non accipit       esse,   sed quia ab       alio
-
-    Scholio subnectimus.                                                                                                            non     accipit esse et quia liabet                        unde alii det esse.
-            III.       Alex. Ha!., S.           p.     I.      q.    39.    m.         3.   —    Scot., Report.               hic           Qui igitur superflcialiter intelligit attendendo vel aspiciendo,
-    q. I.   —      S.   Thom., hic q. I.                  a.    I;    S.    I.    q.    40. a. 4.      —   B. Albert.,              a    quo primo nomen imponitur, utrumque nfgabit dicens, Pa-
-
-
-
-
-            '     Vat.       perperam ante vocem ratione repetit de, contradi-                                                              *    Cod.        Y secunda pro haec.
-    centibus codd.                    AFGPQTWYZ                            etc.    nec non ed.           1.                                 = Dist.          28. q.       1.    seqq.      — Paulo superius post unde codd.
-            ^     Vide supra pag. 215, nota 9.                              — Mox               ante verbum conve-                  aa     bb addunt               ista, scil.         Subinde pro Ideo et ista
-                                                                                                                                                                                      paternitas.
-
-    nit Vat.           cum cod. cc omittit ideo.                                                                                    permulti codd.                 cum         Et ideo alia, qua lectione sensus
-                                                                                                                                                                               ed.    1
-
-
-            3 Libr. IV.                de Trin.      c.     20. n. 29.              Vide         infra d. 29. c.               1.   confunditur,                  unde Vaticanae lectionem retinuimus.    Nota                 —
-    in   lit.     Magistri..          — Proxime post                 Vat.        cum cod. cc primum pro                             quod hic codd. G aa bb textum largissima                                       additione    locuple-
-
-    prima persona.                                                                                                                  tant,       quam post Scholion invenies.
-                                                                                                               ,;,
-                                                                                                               ;                                                                                                                             :
-
-
-
-
-                                                               DIST. XXVil.                      P.    I.    ART. UNICUS QUAEST.                               II.                                                                 473
-
-trem non idco generare, quia pater                                 est,   nec ideo generare,                           omissa.        Quomodocumque res se habeat, digna est haec                                                 trium
-quia innascibilis est          ,
-                                    quia nec liabitudo nec liabitudinis privatio                                       codicum additio, quae hic inseralur. Aliquas lecliones varianles
-est ratio        producendi personam. Et quantum ad                               lioc       -verum          di-       codicis        G uncinis clausas apposuimus.
-cet,    sed non plene. Qui autem plenarium intellectum capit                                            utri-              « Non est autem praetermiltendum    quod cum quaeritur,            ,
-
-
-
-
-usque, attendens fecunditatem importari per utrumque nomen,                                                            ulrum (quare) paler generet (general), quia pater, an e con-
-utrumque dicet: et quod generat, quia Deus innascibilis, et quod                                                       verso, solet fieri             quaedam dislinclio, (ex) eo quod paternitas, a
-generat, quia Deus pater. Verum est enim, quod Pater gene-                                                             qua nomen patris importatur, polest considcrai-i                                             ul proprietas,
-
-rat, quia nihil liabet ab alio, sed habet unde det alii. Verum                                                         vel ut relatio. Si consideretur                         ut propnetas ,                  sic est         perfcctio
-
-est        quod Pater generat, quia fecunditatem habet in
-       etiam,                                                                                                          personae Patris, in quantum persona                                    lalis ,      et hoc,             quia    est
-
-produeendo sibi per omnia similem per modum naturae.                                                                   proprielas personalis, et quia omnis actus, qui convenit suppo-
-
-     Cum ergo dixi, quod Pater ideo est pater, quia generat,                                                           sito,    intelligitur          convenire ratione alicuius proprietalis et quali-
-et non ideo generat, quia pater, non hoc dixi ratione fecundi-                                                         tatis    et    formae. Hoc            modo          accipiendo         (
-                                                                                                                                                                                                  palernilatem), generare
-
-tatis,     quam importat hoc nomen patemitas in divinis, sed ra-                                                       convenit personae Palris el intelligitur convcnire, quia est pa-
-tione                     nomen patris imponitur; et ideo ma-
-           habitudinis , a qua                                                                                         ter.    Si     autcm consideretur                   paternilas         ul    relatio,          cum        relaUo
-gistro non contradixi, sedhoc ibi dicere omisi et' nunc suppleo                                                        dicat respectum ad alterum,                          scilicet      ad fllium,                sic    necessario
-quod paternitas non tantummodo dicit habitudinem, sed eliam                                                            supponit intellectum filii, et intellectus filii inlellectum genera-
-fecunditatem. Unde licet rationes ibi inductae ostendant, quod                                                         tionis,acperhoc, quantum ad rationem intelligendi, intellectus
-non ideo generat, quia pater, et concessae sint, quia vemm                                                                                                              Et quantum
-                                                                                                                       paternitatis intellectum pracsupponit generationis.
-
-concludunt, secundum quod pater imponitur ab habitudine                                                                ad istum (liunc) intellectum verum est, quod (quia) ideo est
-
-addendum fuit, quod non concludunt, secundum quod nomen                                                                pater, quia generat. El secundum hns duas vias declinari (de-
-
-patris importat fecunditatem.  Cum aulem dixi, quod Pater gc-                                                          lerminari)           posse videntur raliones, quae fiunt                                     ad partes op-
-nerat, quia Deus innascibilis, non hoc dixi, in quantum hoc                                                            posilas.
-
-quod est innascibilis importat privationem habitudinis; sic enim                                                                Huic      autem         distinctioni           obviarc            videntur           quam plura.
-negat magister; sed hoc dixi, in quantum in nomine innascibili-                                                        Nam       talis    dislincHo nec              videlur in se                valere   ,    nec    ad propo-
-tatis clauditur potentia fecunditatis.Et hoc                          necessarium est ponere                           situm.
-adhoc, quod innascibilitas sit proprietas, sicut ibi mulliplieiter                                                              1.    In se quidem videtur a rectiludine deviare primo, quia
-ostensum fuit. Magis autem adhaesi huic positioni, quod Pater                                                          in     divinis     relatio       est superius             ad proprielatem sive in plus,
-generat, quia Deus innascibilis , non quia innascibilitas magis                                                        quia communior; quamvis non sil in divinis proprie inferius et
-sit    ratio      generandi quani             paternitas,           sed quia magis est                       ibi       superius; omnis enim personalis proprietas est relalio, sed non
-status , ultra        quem non contingit quaerere. Si enim quaeratur,                                                  e converso. Sed inter inferius et superius nulla cadit distincUo.
-quod [quare?] Pater generat, et respondealur                                  :   quia pater est,                      Nihil    enim est dicere, quod albedo potcsl esse nomen coloris,
-id est, fecundus fecunditate naturae, adhuc dubitabit et quaeret,                                                      vel     nomen qualitatis. Igitur consimiliter nulla est distinctio, cum
-quare          illa potentia       magis     est   fecunda           quam alia?              Et respon-                distinguilur, quod paternitas potest esse nonien proprietatis, vel
-
-debitur: hoc est, quia ipsa a nullo alio habet esse.                                         Ideo enim                 relationis.
-« Pater est totius             deitatis     principium         ,
-                                                                    quia a nullo »           ,    ut        dicil               2.    Rursus, nullum nomen                       in    divinis potest esse                     proprium
-Magistei'. Hac ratione reddita, ibi status est                            nec est ultra proce-                         personae,          nisi    dicat        respectum ad alterum.                       Omnc enim, quod
-dere. Et ideo dixi, quod Pater generat, qnia Deus innascibilis,                                                        in divinis absolute dicitur, necessario                                dicitur          de tribus,             sicut
-non ut assignarem generationis propriam rationem, sed magis                                                            vult Augustinus. Si ergo paternitas nominal                                         personae proprie-
-propter inquisiUonis terminationem. Nam in nomine patris                                                               tatem,         hoc       non     est,      nisi     quia       dicit       respectum           personae ad
-importatur ratio generationis ut propria, nomine vero innasci-
-                                              ,                                                                        pcrsonam: ergo, circumscripta relatione per intellectum, iam
-bilitatis, ut prima; in uno antecedenter , in alio consequenter                                                        non      erit proprietas.             Intellectus         igilur relalionis                  in divinis         non
-in uno communiter, in allero specialiter ».                                                                            polest circumscribi                  ab intellectu proprietatis nec re nec ratione.
-         II.   lam dictum est supra pag. 472, nota 3, et Prolegom. LXIII,                                              Si      igitur     nulla       cadit       distinctio          inter   ea    ,
-                                                                                                                                                                                                        quorum unum est
-nota 2, quod codd. G aa bb huic quaeslioni satis diffusam disqui-                                                      ratio         intelligendi       reliqua ,          nec        distinclio        intcr ea quorum    ,
-
-
-sitionem          addunt pro         explicanda et defendenda sententia                                S.    Do-       unum non potest aliquo modo                                intelligi,        altero          circumscripto
-ctoris.        Quaeritur igitur        ,   utrum hoc additamentum ab ipso S. Bo-                                       redil igitur,            quod nulla           sit    praedicla distinctio                ,    scilicet         quod
-naventura sit scriptum. Manifestum est ex praecedente fragmento                                                        palernitas possit esse proprielas vel relaUo.
-anecdoti Prologi, illud scriptum non fuisse parlem Commentarii,                                                                 3.    Amplius, paternitas, prout est proprietas in divinis,                                            ali-
-
-ut ab auctore primitus erat editus. Deinde ex verbis illius addita-                                                    quo modo praedicalur: aut ergo in quid, aut in quale, aut
-menli i Superius dislinctione nona »                       ,   et » sicut infra videbitur »                        ,
-                                                                                                                       in quomodo se habet. Si in quid: ergo nomen illud magis est
-(scilicet d. 28.) argui potest, illud considerandum esse tanquam                                                       substantiae nomen quam proprietatis. Si in quale; sed (et) omne
-partem alicuius Commentarii in librum Sententiarum. Denique                                                            quod praedicatur in divinis ut in quale,                                    transit in substantiam,
-palfit ,       hanc disquisitionem non esse                    nisi longiorem        ,   sed fldelem                   sicut         vult Boelhius           et    Auguslinus. Et nihil                  tale        est       proprium
-et in ipsis verbis saepe                   convenientem expositionem eius doctri-                                      personae: ergo paternitas                         non      est    proprium personae. Restat
-nae, quae in dicto Prologo continetur, ipsamque non indignam                                                           ergo, quod praedicatur ut quomodo se habens (habet),                                                           quia
-esse tanto Doctore. Attamen auctoritas trium codicum, licet sint                                                       alium modum non est assignare, secundum quem, quod a pa-
-anliqui,          non sufficere nobis videtur,                       ut   aflirmare          possimus,                 ternifatc dicitur, praedicetur. El illud clarius apparet, quia non
-S. Bonaventuram esse huius scripti auctorem. Fieri                                       enim potuil,                  respondelur ad quaestionem factam per quale. sed per quo-
-ut ex ipsis verbis Seraphici, in schola,                              tej?te illo   Prologo, pro-                      modo se habens. Ergo ut proprietas est,                                      importat habitudinem
-latis,     aliquis ex     eius discipulis hoc
-                                          additamentum composuerit                                                     ad allerum           ,   et ita relationem :            ergo impossibile videtur susHnere
-et alicui         exemplari huius Commentarii apposueril vel quod                        ,                             praedictam distinctionem.
-ex       aliquo       scripto        discipulorum              eiusdem        super              sententias                     4.     Postremo,        rum dislinguitur, quod (quia) palcrnilas po-
-postea nostro Commonlario insertum sil. Examinavimus quidem                                                            lcst esse         relaUo vel proprietas, aul hoc esl                             secundum diversila-
-plurs          opuscula discipulorum               S.    Docloris de         hac re tractantia                         lem      a parte rei ,           aut secundum divcrsitalem a partc intelligen-
- sed frustra. Remanet aulem                       dubium       ,   ne fortasse in aliis operi-                         tis:     non secundum diversitatem a parle rei; hoc constat, quia
-bus possit inveniri.               —
-                        Nihiloniinus non improbabile est, S. Bo-                                                       omnino ibi est summa                        simplicitas,          el ideo         idem         cst      generare
- naventuram post Commentarium iam editum illi addidisse quae                                                           et esse         patrem ,        et   paternitas           et    generatio. Erit igitur secun-
- viva voce in scholis docuerat, cum in Prologo dicat: « Hoc ibi                                                        dum divcrsitatem a parte intelligentis. Sed contra                                             :    sicut intel-
- dicere omisi et nunc suppleo ». Ipsi igitur visum est, aliqua ad                                                      lectus noster imposuit                     vocabulum generandi ipsi producUoni el
- explicandam sententiam suam opportuna fuisse                                       in       suo scripto               emanaUoni,               sic    imposuit vocabulum                     palemit/xtis                ipsi   habitu-
-
-                    S. Boiuw.        — Tom.         I.                                                                                                                                                               60
-                                                                                                                                  ,,                                                                                                                           ,,
-
-
-
-
-474                                                                                                       SENTENTIARUM LIB.                             I.
-
-
-
-
-dini     et    relationi.          Sicut ergo                 non        tlislinguilui',          quoii generare                       nem intelligendi praecedat ipsam productionem generationis                                                        ,    et
-
-possil        nominare proprictatem                                personne \ol iii-odurtionem                             ,    si-    quin ipsa habititdo consequatur secundum rationem inlelligendi
-mililer        nec Yidclur               Viiliannbilitei'                possc dislingui                  in      eo       quod        ipsam generationem: nunquam enim pater intelligitur generare
-est piiter.                                                                                                                            filium, nisi quia               inlelligitur esse            fecunditas in               ipso;       nunquam
-        Videtur niliilomiiuis                      |iniedicli            distinclio        non valere nd pro-                          inlclligitur      rcferri,            nisi    (etiam)       intelligatur              habcre         fllium.          Et
-yositwm.                                                                                                                               sic    inlellcctus paternitatis                 ratione fecuvditaiis                    pracambulus                   est
-
-        S.    Dicilur enim,                  quod iiilellc •lus                    palernilalis       ,      ut est rcla-              ad inlelleclum gencrationis sive actum gcnerandi secundum ra-
-(io,    priicsu])ponil                  inlollcclum gc cralionis,                           et    lioc         sccundum                tioncm intelligendi; intclleclus vero haMtudinis                                          et relationis est
-
-ralionem inlclligendi, quamvis,                                    i     quanluni cst                 proprietas,               sit    c contrario.           Sic          igitur    manifestum est, quodsi loquamur de
-e convcrso. Sed                    rontra :            quidqi d est prius aliquo secundum                                              hoc nomine pater quantum ad intellectum iiltimum,                                                          a      quo
-rem \cl         inlcllcrlimi,                qiiod csl prius                      tcrlio   secundum rem                        vel     nomen imponilur, qualiscumque fiat dislinctio, quod non ideo
-inlellccluni,              ncccssiu-io illud                 priniuni esl prius                   illo       terlio        (pri-       generat, quia pater, scd magis e contrario;                                           licel   possimus con-
-mo), eodcm modo prioritatis                                        scrvalo. Sed             illud, a              quo non              cedere, quod ideo generat, quia pater,                                 quantum ad inlellectum
-converlilur consequentin |.cfr. Arislol. Praedicam. c. de Priori] et                                                                   fecunditatis ,          qui         est quasi        praeambulus;               et     per hoc possunt
-quod habet ralionem supcrioris, prius est. Ergo cum relatio sic                                                                        evilari       omnos obiectiones praecedentes.
-se tiabeat ad proprietatem    quod intelleclus paternitatis, ut est
-                                                       ,
-                                                                                                                                               Consimilis etiam                modus distinguendi valet ad multas alias
-relatio, praeambulus est ad intellectum paternitatis, ut est pco-                                                                      quaestiones,            ulpote,         utrum pater generet, quia                              innascibilis,
-
-prietas ; et generalionis intellectus pracambulus est ad intelle-                                                                      quia        quantum ad                intellectum          primum       ,
-                                                                                                                                                                                                                       qui      privativus              est
-
-ctum         paternitatis, ut                est relatio ,              secundum jiraedictam                           distin-         innascibilitas         non          est, ratio   genernndi, sed quantum ad conse-
-ctioneni :       ergo pracambukis est ad intellectum eiusdem, ut est                                                                   quenlem, qui est fontalis plenitudo.                              — Valet etiam ad                    quaestio-
-
-proprietas, pcr illani                       ma.ximam          :       quidquid est prius priore, est                                  nem     ,    utrum potentia geiwrandi dicatur secundum substantiam
-etiam         prius        posleriore. Accipiatur                         lioc       sane     quanlum ad no-                           an secundum relationem.                        — Valet nihilominus ad quacstionem
-strum inlclligerc, quia in divinis non conlingit proprie prius ct                                                                      quando          quaeritur,             utrum      abstractis         proprietatibus                  sit       intelli-
-
-posterius repei-ire.                                                                                                                   gere         distinctionem             in    hypostasibus.           Et mullae per                    hoc opi-
-        6.    Rursus, inlelleclus positints                                   in    eodcm cl respectu eius-                            niones possunt reduci ad                         concordantiam (concordiam), quae
-dem      anlecedit            intellcctum                  privaticum ,               sicut      convenientia an-                      repugnare videntur.                    In    huiusmodi enim quaestionibus de pro-
-tecedit        dilTerentiam,                 et    sicul      aflirmatio              anlecedit           negationcm;                  prietatibus           non modica              vis consUtuitur in intellectu,                         quem no-
-sed palcrnilas, ul csl relnlio, dicil respectum et habitudinem ad                                                                      mina praecipuc faciunt, et ideo non est in huiiismodi (his) al-
-filium, ut est proprietas, dicit distinclioncm Palris a Filio, quia                                                                    teri parti nimis adhaercndum, pro eo quod controversia de
-
-proprium             esl    quod        convciiit            soli :      ergo        intellectus          palernitatis                 nominibus             est      pertinacibus           relinquenda           ,    iuxta pbilosophicum
-ut est relntio, praeambulus est ad intcllcclum ciusdem, ut est                                                                         documentum [cfr. VIII. Topic. c. i. in flne.].
-proprietas: ergo                   si    paternitas                consequilur intellectum genera-                                         Ex liis igilur patet, quod iina praedictarum positionum
-tionis secundum nostrum intelligerc in quantum relatio , restat                                                                        (partium) sive opinionum alteram non impugnct; quoniam po-
-quod el in quantum proprielas (consequaUir).                                                                                           tius        adiuvat     ad verilatem              dilucidandam.                 Dum           enim         utraque
-     7. Amplius, quoeumque modo accipiatur palcrnitas, verum                                                                           ponit,quod actus generationis competit personae Patris ratione
-est dicere de eo qui genuit, quod esl paler, etiamsi non gene-                                                                         fecunditatis permodum naturae, idem omnino sentiunt; dum
-ret actu        nec gencret de futuro: ergo potest                                           intelligi          paternitas             autem dicunl, fecunditatem illam importari per haec duo no-
-inesse alicui absque hoc,                              quod in actu                  generet. Si igilur                    pro-        mina paternitas et                    innascibilitas ,           non contradicunt                ,
-                                                                                                                                                                                                                                              quia pa-
-pria ratio alicuius et re et                               intellectu ponit illud,                     cuius est ra-                   ternitas importat fecunditatem                          quantum ad intellectum primum
-Uo, videtur quod nullo                      modo palernitas sit ratio generandi. Si                                                    sive praeambulum; sed innascibilitas tantum quantum nd con-
-tu dicas, hoc esse                       verum de palernitate in creatura, non in                                                      sequentem. Patei-nitas etiam importat ipsam fecunditatem ut cst                                            ,
-
-
-
-
-Creatore; contra hoc est,                                  quod        paternitas          non sumitur aequi-                          ratio       generandi propria, sed innascibilitas , ut est ratio prima
-voce hic et ibi: ergo                         intcllectus et ratio                    intelligendi              consimilis             (generandi).            Paternitas enim                    fecunditatem                importat respectu
-est,    sicul et consimilis est ratio                              nominandi et imponendi, quid-                                       actus generandi determinate, et                             ita    signiflcat ut              rationem pro-
-quid sit ex parte rei.                                                                                                                 prinm gcnerandi                 ;    sed innascibilitas ut primam , quoniam sicut
-        8.    Postremo         ,    ita fist        fllialio           proprietas          Filii et (.vel)           relatio,          dicit       Magisler infra:             «    Pntcr    csl    principium totius                    divinitnlis,
-
-sicut et paternitas Patris.                            Sed quocumque modo accipiatur fllia-                                            quia a nullo ».             — Et        si    quaeratur, quare magis persona Patris
-tio ,    sive        ut proprietas                  sive       ut        relatio,          semper              est     verum           est    fecunda ad generandum                      quam alia persona; ratio (huius) est
-dicere,        quod Filius est fllius, quia genitus;                                        et    hoc saepe dicit                      haec, quia ipsa est prima                        et ita      n    nullo; et hoc importat hoc
-
-Augustinus             et in       sermone de Purificatione beatae Virginis et in                                                      nomen innascibilis                    (innascibililatis),           sicut infra videbitur ,                       nec
-libro    de Trinitate,                  et        hoc ipsum              dicit       Gregorius               et      habetur           ulterius restat alia quaestio, quare                              scilicet        pcrsona Innascibilis
-superius distinctione nona.                                 Ergo quocumque modo accipialur                                                                         immo ibi statits est. Si quis au-
-                                                                                                                                       esl innascibilis (sive a nullo),
-
-paternilas ,          semper cst verum dicere                             ,
-                                                                                  quod ideo est pater quia             ,
-                                                                                                                                       lcni in primo statnm non inveniet nec quietem, cum primae
-
-generat.                                                                                                                               ct    primordialissimae emanntionis invesligat rationem, vidclicet
-        Videtur igitur, quod praedicla distinclio ncc                                                  iii     se ncc acl              gcnerntionis           Filii    Dci,         ncscio   si    iinquam         sit       cnm alicnbi inven-
-propositum habeat ctficaciam. Ilaec et alia plura                                                     obiici         possunt
-contra distinctionem praediclam.                                                                                                               Ullimn proposilio in solo cod.                       G exslnt, in quo hic termina-
-        Responsio. Si quis igitur praedictam distinctionem superfl-                                                                    tur    quod adiungitur. Sed in codd. aa bb plura alia addunlur,
-                aesiimo, quod plurima inveniet sibi obvian-
-cialiter intelligat,                                                                                                                   quae non a             S.    Bonaventura scripta esse videnliir. Conlra mo-
-tia;      vim vocabuli attendamus satis fiet 'ucidum, quod
-        sed     si                                                            ,                                                        rem enim Seraphici Doctoris, qui                                 in omnibus studet                    brcvitati,
-
-videtur ambiguum. Planum est enim, quod iiaternitalis vo-                                                                              non         pauca ex iam              dictis et fere        iisdem verbis rcpetunlur. Ad-
-cabulum circa personam, de qua dicitur, duo insinuat: et                                                                               ditur etiam alia quaestio, scilicet                          utrum fecundilas in Pnlre sit
-fecunditatem,                per        quam est              principium              Filii, et       liabitudinem                     dicta       secundum substantiam, an secundum relalionem, el appli-
-secundum quam                      referlur ad                ipsum.              Si igilur      in    praedicta               di-     catur distinctio supra posita ad duas quaestiones:                                            utrum potentia
-stinctione,            qua     dicilur,            quod       patcrnilas polest considerari                                    sub     generandi dicatur secundum substantiam, an secundum relatio-
-ratione proprielalis el iTlalionis, intelligalur fleri dislinctio inter                                                                nom (supra d. 7. q. I.), et utrum abstractis proprietatibus con-
-intellectum fecunditntis                          ct       hnbitudinis consequentis ,                           cessat ca-             tingnt inlelligere personas (in quaest. sequenti).                                        Sed in           his    vix
-
-lumnia         verborum                 et    importunitas                    obiectionum.                Nullus           enim        ahquid         notatu          dignuin         continetur,          nisi        illa     sentenlia,            quam
-sanae mentis dubilot, quin fecunditas naturae secundum ratio-                                                                          transcripsimus in Prolegomonis LXIII.                                col.        I.
-                                                                                                                                         ;,
-
-
-
-
-                                                                                    DIST. XXVll.                            P.    I.   ART. UNICUS QLAEST.                                 III.
+---
 
 ## English
 
-[Translation pending]
+<!-- page 468 -->
+
+### QUESTION II. *Whether generation is the account of paternity, or conversely.*
+
+Secondly it is asked which of these is the account by which the other is to be understood: that is, whether the hypostasis of the Father, or the Father, generates because he is Father, or rather is Father because he generates. And that he is therefore Father because he generates, is shown thus:
+
+1. By the authority of the Master in the *littera*[^1]: «He is always Son, because he is always begotten»: therefore passive generation is the account of being a son: therefore by parallel reasoning active generation also is the account of being a father, therefore etc.
+
+2. Likewise, according to the order of understanding, "to be generated" is prior
+
+<!-- page 469 -->
+
+to "to be," and "to be" is prior to "to be related": therefore "to be generated" is prior to "to be a son": therefore by parallel reasoning "to generate" is prior to "to be a father" according to the order of understanding. If, then, the account of the posterior is prior, [it] is not conversely [the case]: therefore etc.
+
+3. Likewise, the hypostasis of the Father is Father: either, therefore, because [he is] God, or because [he is] God-generating. Not because [he is] God, since by parallel reasoning the Son [would be] also: therefore because [he is] God-generating, therefore etc.
+
+**On the contrary:**
+
+1. None generates except a distinct person[^2], since "to generate" does not befit the essence, but the person; but the person of the Father is not distinct except by paternity: therefore "to generate" does not befit that hypostasis except by paternity: therefore he generates because he is Father.
+
+2. Likewise, in those things which are not acquired by an act, the habit is prior to the act according to the account of understanding — for since we are not good by [our] works, but rather conversely we are first good before we work goods[^3] — but paternity is not acquired by an act in God: therefore in the order of understanding [he] is understood to be Father prior to [his] generating.
+
+3. Likewise, "the Father generates" — this is a certain divine act which belongs *per se* to the Father alone; I ask, by what? Either because [he is] God, or because [he is] God-Father, or because [he is] unbegotten. Not because [he is] God, since then it would also belong to the Son; not because [he is] unbegotten, since unbegottenness names the privation of being-born, not a position[^4]: therefore by division [it remains], because [he is] God-Father.
+
+> **CONCLUSION.** *Generation is rather the account of paternity than conversely.*
+
+**I respond:** For the understanding of this it must be noted that here there is a twofold opinion. Some say[^5] that since relative properties stand contrariwise in God to how they stand in creatures — for in creatures [they are] as advenient, in God as inhering[^6] — that in creatures the act is the account of the relation, whence in lower things "he is therefore Father because he generates"; but in divine matters, conversely, the relation is the account of the act. Whence they simply concede that the Father generates because he is Father; and they deny conversely.
+
+But although that might in some way be grasped by the intellect on the part of the Father, nevertheless if we consider it in the Son, it does not at all seem intelligible that the Son should be generated because he is Son[^7]. For it is commonly said, and reason agrees, that what the Son is and that he is a son, this he has through generation: therefore generation according to the order of understanding precedes filiation; and relatives are simultaneous in nature in being understood, not only in being[^8]: therefore generation is the account of [our] saying paternity in God the Father. For as passive generation stands to filiation, so active [generation stands] to paternity.
+
+And therefore there is another opinion: that he is therefore Father because he generates. And that this is well said is plain through the difference assigned between generation and being-Father[^9]. For according to its proper account, generation names emanation or origin, paternity names a habitude. But it is plain that origin is the account of habitude, not habitude the account of origin. And therefore generation is the account of paternity, not conversely. Thus the reasons [given] for this [opinion] are conceded.
+
+**To the opposed [arguments]:**
+
+1. To that, then, which is objected to the contrary, that none generates except a distinct person; it must be said that it is true that, according to the order of understanding, before generation it is necessary to understand the hypostasis — I speak according to the order of understanding[^10] — but it is not necessary to pre-understand it as actually distinct, since it is itself distinguished by the property of generation with completed distinction, as will better appear
+
+<!-- page 470 -->
+
+below[^11]; nevertheless according to the order of understanding the account of distinguishing is initiated in unbegottenness, and therefore he generates, not as prior-distinct by paternity, but as in some way distinct by unbegottenness.
+
+2. To that which is objected, that [it] is not acquired by an act; it must be said that in divine matters no property is acquired, since each is the essence. Nevertheless according to the order of understanding origin or the emanation of origin is the account of the relation, just as in these lower [things] it is the account according to being. Whence as the act of generation is eternal, so also the property of paternity [is] eternal. Whence although it is not acquired by an act, it nevertheless inheres through an act; whence that proposition is false and ought to be proposed thus generally: in those [things] which do not inhere through an act etc., and then the minor [premise] is false. — It can however be said, that this is true of the act which is elicited from that habit, as a meritorious work [is elicited] from grace; but the act of generation is not elicited nor is understood to be elicited from paternity: therefore it is not necessary to pre-understand paternity in order that [the Father] be understood to generate.
+
+3. To that: either he generates because [he is] God, or because [he is] Father, etc.; it must be said that he generates because he is God-unbegotten; and he spirates because he is impossible-of-procession[^12]. — As to the objection that unbegottenness is named according to privation, some say that pure privation is not the account of a habit, but privation with some habit underlying is the account. Whence as some liberal man invites [people] to dine because he is alone, so the Father generates on account of liberality, and lest he be alone; and therefore once he has generated and spirated, he generates no more, since he is no longer alone, although he is liberal.
+
+In another way, however, it must be said, as was previously said[^13], that unbegottenness is a privation, which according to the matter is a perfect position. For the Father is called unbegotten, because he is not from another; and not-being-from-another is to be first, and primacy is a noble position. For the First, by the very account of being First, names so noble a position and condition that, as will be seen, to the position of the first follows the position of the second. Whence because [he is] first, therefore principle[^14]; because principle, therefore there is, either in act or in habit, that-which-is-from-the-principle. Since therefore the account of primacy in some genus is the account of being-a-principle in that [genus], therefore, because the Father is first with respect to emanation, generation, and procession, he generates and spirates. And since [he is] first in the genus of generation, because unbegotten; first in the genus of spiration, because God impossible-of-procession; therefore he generates because he is God unbegotten; and beyond [this] there is nothing to posit: why is he unbegotten? For since unbegottenness names primacy, and the stop is in the first, therefore etc. And this is what is said below, in distinction twenty-nine[^15] near the beginning: «The Father is the principle of the whole divinity, because [he is] from no one»; and this is what has been presupposed in many places above.
+
+**That, however, which moves [us] to say this: the first is the ancient position of great doctors[^16],** who said that unbegottenness in the Father names a fontal plenitude. But fontal plenitude consists in producing. But it is plain that not because he produces a creature is fontal plenitude said to be in him, since this belongs to the three [persons]; nor because he produces the Holy Spirit, since this belongs to the Son: therefore fontal plenitude in the Father posits generation in the same. If therefore unbegottenness is fontal plenitude, [the conclusion] is plain etc.
+
+**[The second argument] also moves [us, namely] the common opinion, which says that unbegottenness is proper to the Father;** but it cannot be proper, and most proper, [a name] which names a notion, insofar as it imports pure privation; for so it belongs to the essence and to the Holy Spirit: therefore it posits something — not [something] absolute (it is plain, since by reason of that it could not be a property) — but it cannot posit a positive respect with respect to the producer: therefore by its own account it posits a respect to that-which-is-produced. But according to the order of understanding the first account of regarding someone as produced is generation: therefore to the position of unbegottenness follows the position of generation: therefore etc.
+
+**The word of Hilary, in the twelfth book of On the Tri-**
+
+<!-- page 471 -->
+
+**nity**[^17], also moves [us], where he says that the Father is the author of the Son. But it is plain that by "author" he understands not "maker," but "begetter." [Therefore] in that by which it belongs to the Father to be begetter, in that [same] it belongs to him to be author; but to-be-author belongs to him through that which names the authority that is in the Father; but the highest authority is in the Father by reason of unbegottenness: therefore it belongs to the hypostasis of the Father by reason of unbegottenness to generate. And the words of Hilary in the twelfth book *On the Trinity*, if anyone attends, seem to say this, and similarly in the fourth.
+
+**The word of the Philosopher**[^18] also moves [us], who says that the more principles are prior, by so much are they more powerful — and that the first cause influences more — and what is simply first, in the highest degree has [power] to influence in every mode. If, then, we see in the order of causes, among which there is an essential order, that primacy makes [there to be] the highest influence in the cause, and a greater influence according to essence: by parallel reasoning, where there is an order of persons, primacy in the first person is the account of producing the others; and because "unbegotten" names primacy, hence it is that it names a fontal plenitude with respect to personal production. And the sign of this we see, that the first [things] in the genera are the principles of the others, and what are simple are for the most part such that there is in them a stop, [and these] have an infinite power, as the point with respect to lines, and unity with respect to numbers; so also the divine essence, since [it is] first with respect to creatures. Whence perhaps, because the divine essence is first, therefore it is most-omnipotent. And because every essence follows the essence of the three persons, it is impossible that one person produce anything without another. Although however the power of producing with respect to infinite persons need not exist, as has been shown above[^19]; nevertheless if by the impossible it were posited that a thousand persons were produced, it would be that all immediately proceed from the person of the Father. For as the first cause necessarily operates immediately in every subsequent production, so in its mode in the persons.
+
+**Reason also moves [us] to this.** For as it is possible to understand the hypostasis of the Father and Son without the hypostasis of the Holy Spirit being understood; so also it is possible to understand the hypostasis of the Father, no other person being understood. And then indeed [the Father] would be understood without paternity being understood. And it is certain that this is possible to be understood. For we can, without the plurality of persons being understood, understand the divine nature and that-which-has it, and that it has it not from another; and so the gentiles understand[^20]. So therefore understanding, it happens to say of this [hypostasis] and to understand that [he] can generate. By what then can he? I find nothing in that hypostasis except [what is] common, except unbegottenness: therefore, if generation cannot belong to him through that which is common, it belongs to him through that which is proper; this however is unbegottenness: therefore etc.
+
+Again, as we see many persons in one nature, so [we see] many properties in one person: therefore, as for most-complete perfection it is necessary that all the persons be reduced to one which is the principle of the others, so [that] all the properties of one person [be reduced] to one which is the account of the others. But in the Father there is paternity and unbegottenness and spiration; but unbegottenness is not reducible to the others: therefore it is necessary that the others be reduced to unbegottenness, which is, as they have said, fontal plenitude.
+
+**A third [argument] also.** Furthermore, the property of paternity and generation, as far as concerns its general signification, is communicable; which is plain in creatures: for the begotten generates, and the son of one becomes the father of another. In divine matters, however, paternity is incommunicable: therefore since
+
+<!-- page 472 -->
+
+this is not from the account of paternity insofar as paternity, it will be by reason[^21] of something which is incommunicable; but this is unbegottenness or primacy, since the first cannot give to another primacy, and the unbegotten cannot generate an unbegotten: therefore it seems that in divine matters the hypostasis of the Father therefore generates because [he is] unbegotten.
+
+Lastly, since the same is *first* and *principle*, as is plain and the Philosopher[^22] says; either he is first because principle, or conversely. It is plain that the account of principle belongs to him because he is first; therefore he has this *per se*. And it is plain that the stop is in the first principle, not because principle, but because first. And it is plain that this is a condition of nobility: therefore since the Father is «the principle of the whole deity», as Augustine[^23] says, this is because [he is] the first person, and through this because [he is] unbegotten.
+
+**Epilogue.** This has been said without prejudice to others. For each of these positions is great, and neither is to be despised; but this one seems to fall in the intellect more than the first, especially if regard is had to the proper acceptation of paternity itself, which is truly relation and at once nature with filiation, and cannot be abstracted from the nature and property of relation; whence it imports a habitude to the Son just as "to generate" [does]. Therefore this position also seems more intelligible; and this will better appear below[^24] when treatment is made of unbegottenness.
+
+### Scholion
+
+**I.** St. Thomas (S. I. q. 40, a. 1) treats the same question under this title: «Whether the notional acts are pre-understood to the properties». In the solution of this problem at least in words St. Bonaventure and Alexander of Hales (S. p. 1, q. 59, m. 3) dissent, [the latter] with whom St. Thomas agrees (S. 1, q. 40, a. 4). Alexander of Hales and St. Thomas make a distinction between paternity as it is relation (and so according to the [order of] understanding it presupposes generation), and as it is property (and so it is pre-understood to generation). Alexander of Hales also wishes that *Deus* be added in this formula, so that it is said: *The Father, insofar as God-Father, generates.* Scotus however objects against the application of this distinction and also against the opinion of St. Bonaventure (I Sent., d. 28, q. 3, n. 2, 3). — The principal argument of St. Thomas is the first *ad oppositum* in St. Bonaventure. — The opinion of St. Thomas, which is not explained by everyone in the same way, Peter of Tarentaise (here q. 1, a. 3) seems to have well expressed: «According to [the order of] understanding paternity is first understood, as the constitutive form of the Father, by which he personally subsists in himself; then as the generative power, by which he acts; then as the act of generation; and lastly as relation».
+
+**II.** The opinion of St. Bonaventure, with which Richard of Mediavilla agrees, walking a middle way, judges each opinion probable, indeed strives to bring them into concord with happy success. For he distinguishes in paternity both the fecundity which it imports, and the relation to the Son; and again in unbegottenness he distinguishes both the privation and the fontal plenitude or fecundity. Insofar as unbegottenness names fontal plenitude, it is the root of generation; and so it is true that the Father, because he generates, is Father, that is, he has the relation to the Son. But it is also true that he generates because he is Father, insofar as paternity includes fecundity.
+
+On unbegottenness, that it imports more than mere privation (as Scotus wishes), see d. 28 throughout; on origin and relation, above d. 26, q. 3.
+
+That we have rightly interpreted the doctrine of the Holy Doctor is thoroughly confirmed both by the unedited Prologue of St. Bonaventure to II Sent. and by another unedited additamentum to this question. We append both to this Scholion.
+
+**III.** Alexander of Hales, S. p. I, q. 39, m. 3. — Scotus, *Reportatio* here q. 1. — St. Thomas, here q. 1, a. 1; S. 1, q. 40, a. 4. — Bl. Albert, here a. 2. — Peter of Tarentaise, here q. 1, a. 3. — Richard of Mediavilla, here a. 1, q. 3. — Aegidius Romanus, here 1 *princ.* q. 2. — Henry of Ghent, S. a. 38, q. 3. — Durandus, here q. 1. — Dionysius the Carthusian, here q. 2.
+
+### Anecdota
+
+**I.** Most clearly St. Bonaventure expounds his opinion on this question in a certain Prologue to II Sent., of which we made mention in the Prolegomena p. LVIII, and pp. 90, 137. He says these things: «Perhaps however it will seem to someone that I have deviated from his (Alexander of Hales's) opinion, when there was discourse on eternal generation in the first book, d. 27. For when it is written in the *Summa* [the place cited in the Scholion], that he therefore generates because he is Father, I seemed rather to adhere to that opinion which says that the Father therefore generates because [he is] God unbegotten; and when again it is written by the same that there is something to-be-said in divine matters to which no word corresponds, I rather adhered to that opinion which says that there is no saying without a word, and through this [I seemed] to have departed from his footstep. But if anyone rightly understands, I have not disagreed with him either in the first or in the second, since truth is not contrary to truth.
+
+I judge however the truth to be, both that the Father generates because [he is] unbegotten, and that he generates because [he is] God-Father; and this is plain thus. For it is plain and according to every opinion true, that the power of the Father therefore generates because it is fecund. That, then, is rightly said to be the account of generating, which imports the fecundity of the Father's power. But fecundity is imported both by the name of unbegottenness and by the name of paternity, but otherwise and otherwise. For paternity imports fecundity as if presupposing and pre-understanding [it], although it is principally imposed *from habitude*. For paternity is called the habitude of the Father to the Son. Unbegottenness, however, imports fecundity by consequent understanding: for from the first understanding it imports the privation of habitude to a prior; but from that privation alone it could not be a property, since [that privation] is consequent upon the essence. And therefore the Father is called unbegotten not only because he does not receive being from another, but because he does not receive being from another and because he has whence to give being to another.
+
+He, then, who superficially understands, attending or looking to that from which the name is first imposed, will deny each, saying that
+
+<!-- page 473 -->
+
+the Father neither therefore generates because he is Father, nor therefore generates because he is unbegotten, since neither habitude nor privation of habitude is the account of producing a person. And as to this he will say truly, but not fully. He, however, who grasps the full understanding of each, attending [that] fecundity is imported through each name, will say each: both that he generates because [he is] God unbegotten, and that he generates because [he is] God-Father. For it is true that the Father generates because he has nothing from another, but has whence to give to another. It is also true that the Father generates because he has fecundity in producing for himself one altogether like him through the mode of nature.
+
+When therefore I said that the Father is therefore Father because he generates, and not therefore generates because [he is] Father, I did not say this by reason of the fecundity which this name *paternity* imports in divine matters, but by reason of the habitude from which the name *of-Father* is imposed; and therefore I have not contradicted the Master, but I omitted to say this there and now I supply[^25] [it], that paternity names not only habitude, but also fecundity. Whence although the reasons there adduced show that he therefore does not generate because [he is] Father, and were conceded since they conclude truly insofar as *pater* is imposed from habitude, it had to be added that they do not conclude insofar as the name *of-Father* imports fecundity. When however I said that the Father generates because [he is] God unbegotten, I did not say this insofar as that-which-is unbegotten imports privation of habitude; for thus the Master denies; but I said this insofar as in the name of unbegottenness is enclosed the power of fecundity. And this is necessary to posit in order that unbegottenness be a property, as was there manifoldly shown. I rather adhered to this position, that the Father generates because [he is] God unbegotten, not because unbegottenness is more the account of generating than paternity, but because there is more there a stop, beyond which it is not possible to seek further. For if it be asked, why [quare] the Father generates, and it be answered: because he is Father, that is, fecund with the fecundity of nature, [the questioner] will still doubt and will ask, why is that power more fecund than another? And it will be answered: this is because it has being from no other. For therefore «the Father is the principle of the whole deity, because [he is] from no one», as the Master says. With this account given, there [is] the stop, nor is it [possible] to proceed further. And therefore I said that the Father generates because [he is] God unbegotten, not in order to assign the proper account of generation, but rather on account of the termination of the inquiry. For in the name *of-Father* is imported the account of generation as proper; in the name *of-unbegottenness*, as first; in the one antecedently, in the other consequently; in the one commonly, in the other specially».
+
+**II.** It has already been said above, p. 472, n. 3, and Prolegomena LXIII, n. 2, that codices G aa bb add to this question a rather diffuse disquisition for explaining and defending the opinion of the Holy Doctor. It is asked, then, whether this addition was written by St. Bonaventure himself. It is manifest from the preceding fragment of the unedited Prologue, that this writing was not part of the Commentary as the author first edited it. Then from the words of that addition «Above in the ninth distinction», and «as will be seen below» (namely d. 28), it can be argued that it ought to be considered as part of some Commentary on the book of Sentences. Finally it is plain that this disquisition is nothing other than a longer, but faithful and in its very words often agreeing, exposition of his doctrine which is contained in the said Prologue, and not unworthy of so great a Doctor. Nevertheless the authority of three codices, although they are ancient, does not seem sufficient to us for us to be able to affirm that St. Bonaventure is the author of this writing. For it could happen that, from the very words of the Seraphic [Doctor] uttered in the school, as that Prologue testifies, one of his disciples composed this addition and appended [it] to some exemplar of this Commentary; or that from some writing of his disciples on the Sentences, [it] was afterwards inserted into our Commentary. We have indeed examined many opuscula of the disciples of the Holy Doctor treating of this matter, but in vain. There remains however the doubt, lest perhaps it can be found in other works. — Nevertheless it is not improbable that St. Bonaventure, after the Commentary had already been edited, added to it [things] which he had taught by living voice in the schools, since in the Prologue he says: «I omitted to say this there and now supply [it]». It seemed to him, then, that some [things] opportune for explaining his opinion had been omitted in his writing. However the matter stands, the addition of three codices is worthy to be inserted here. Some variant readings of codex G we have appended in brackets.
+
+«It is not, however, to be passed over that, when it is asked whether (why) the Father generates (does he generate) because [he is] Father, or conversely, a certain distinction is wont to be made, [from] the [fact] that paternity, from which the name *of-father* is imported, can be considered as a property, or as a relation. If it is considered as a property, so it is the perfection of the person of the Father, insofar as such a person, and this because it is a personal property, and because every act which befits a supposit is understood to befit by reason of some property and quality and form. Taking [paternity] in this mode, "to generate" befits the person of the Father and is understood to befit, because he is Father. If however paternity is considered as a relation, since relation names a respect to another, namely to the Son, so it necessarily supposes the understanding of the Son, and the understanding of the Son [supposes] the understanding of generation, and through this, as to the order of understanding, the understanding of paternity presupposes the understanding of generation. And as to this (this) understanding it is true that (because) he is therefore Father because he generates. And according to these two ways the reasons made on opposite sides seem to be able to be inclined (determined).
+
+To this distinction, however, very many [things] seem to stand in the way. For such a distinction does not seem to hold in itself, nor [to bear] upon the proposition.
+
+1. In itself indeed it seems to deviate from rectitude first, since in divine matters relation is superior to property, or in the more, since [it is] more common; although in divine matters there is not properly an inferior and superior; for every personal property is a relation, but not conversely. But between inferior and superior no distinction falls. For it is nothing to say that whiteness can be a name of color, or a name of quality. Therefore likewise no distinction [is made] when it is distinguished that paternity can be a name of property, or of relation.
+
+2. Again, no name in divine matters can be proper to a person, unless it names a respect to another. For everything which in divine matters is said absolutely, is necessarily said of the three, as Augustine wishes. If, then, paternity names a property of the person, this is not [the case] except because it names a respect of person to person: therefore, with relation circumscribed by the intellect, [it] will no longer be a property. The understanding of relation in divine matters, then, cannot be circumscribed from the understanding of property either in reality or in account. If, then, no distinction falls between those of which one is the account of understanding the others, nor [does there fall] a distinction between those of which one cannot in any way be understood with the other circumscribed: it returns therefore that the said distinction is none, namely that paternity can be property or relation.
+
+3. Furthermore, paternity, insofar as it is a property in divine matters, is in some way predicated: either, then, *in quid*, or *in quale*, or *in [the mode of] how-it-stands*. If *in quid*: therefore that name is more a name of substance than of property. If *in quale*; but (and) all that is predicated in divine matters as *in quale* passes into substance, as Boethius and Augustine wish. And nothing such is proper to a person: therefore paternity is not proper to a person. It remains therefore that it is predicated as *how-standing (it stands)*, since another mode is not [possible] to assign according to which what is said by paternity is predicated. And that more clearly appears, since it is not answered to a question made through *quale*, but through *how-standing*. Therefore as it is a property, it imports a habitude to another, and so a relation: therefore it seems impossible to sustain the said distinction.
+
+4. Lastly, when it is distinguished that (because) paternity can be relation or property, either this is according to a diversity on the part of the thing, or according to a diversity on the part of the understander: not according to a diversity on the part of the thing; this is plain, since there [in God] there is altogether the highest simplicity, and therefore "to generate" and "to be Father," and paternity and generation, are the same. It will be therefore according to diversity on the part of the understander. But on the contrary: as our intellect imposed the word *generating* on the production and emanation itself, so it imposed the word *of-paternity* on the habitude
+
+<!-- page 474 -->
+
+itself and the relation. As, then, [it] is not distinguished that *to-generate* can name a property of the person or a production, similarly neither does it seem [that one can] valuably[?] distinguish in that-which-is *father*.
+
+Nevertheless the said distinction seems not to hold for the proposition.
+
+5. For it is said that the understanding of paternity, as it is relation, presupposes the understanding of generation, and this according to the order of understanding, although, insofar as it is property, it is conversely. But on the contrary: whatever is prior to something according to thing or understanding, [if it] is prior to a third according to thing or understanding, necessarily that first is prior to that third (first), the same mode of priority being preserved. But that from which the consequence is not converted [cf. Aristotle, *Categories*, c. on the Prior] and which has the account of the superior, is prior. Therefore since relation so stands to property that the understanding of paternity, as it is relation, is preamble to the understanding of paternity as it is property; and the understanding of generation is preamble to the understanding of paternity as it is relation, according to the said distinction: therefore [it] is preamble to the understanding of the same as it is property, by that maxim: *whatever is prior to a prior, is also prior to a posterior.* Let this be taken indeed as far as concerns our understanding, since in divine matters there is properly no prior and posterior to be found.
+
+6. Again, the positive understanding in the same and with respect to the same antecedes the privative understanding, as agreement antecedes difference, and as affirmation antecedes negation; but paternity, as it is relation, names a respect and habitude to the Son; as it is property, [it] names the distinction of Father from Son, since the proper is what belongs to one alone: therefore the understanding of paternity as it is relation is preamble to the understanding of the same, as it is property: therefore if paternity follows the understanding of generation according to our understanding insofar as relation, it remains that also insofar as property [it follows].
+
+7. Furthermore, in whatever way paternity is taken, it is true to say of him who has begotten that he is father, even if he do not actually generate nor is to generate in the future: therefore paternity can be understood to inhere in someone without [his] actually generating. If, then, the proper account of something both in reality and in understanding posits that of which it is the account, it seems that paternity is in no way the account of generating. If you say [that] this is true of paternity in a creature, not in the Creator; against this is that paternity is not taken equivocally here and there: therefore the understanding and account of understanding is similar, just as the account of naming and imposing is similar, whatever it be on the part of the thing.
+
+8. Lastly, filiation is so the property of the Son and (or) relation, just as paternity also [is] of the Father. But in whatever way filiation is taken, whether as property or as relation, it is always true to say that the Son is Son because [he is] begotten; and Augustine often says this both in the *Sermon on the Purification of the Blessed Virgin* and in the book *On the Trinity*, and Gregory says this same and it is found above in distinction nine. Therefore in whatever way paternity is taken, it is always true to say that he is therefore Father because he generates.
+
+It seems therefore that the said distinction has efficacy neither in itself nor for the proposition. These and many other [things] can be objected against the said distinction.
+
+**Response.** If, then, anyone superficially understands the said distinction, I judge that he will find very many [things] standing against him; but if we attend to the force of the word, what seems ambiguous will become sufficiently clear. For it is plain that the word *of-paternity* about the person of which it is said insinuates two [things]: both the fecundity by which [he] is the principle of the Son, and the habitude according to which [he] is referred to him. If, then, in the said distinction, by which it is said that paternity can be considered under the account of property and of relation, it be understood that the distinction is made between the understanding of fecundity and of the habitude consequent [upon it], the calumny of words and the importunity of objections cease. For no one of sound mind doubts but that the fecundity of nature, according to the order of understanding, precedes the very production of generation, and that the habitude itself follows according to the order of understanding the very generation: for never is the Father understood to generate the Son, except because [he] is understood to be fecundity in him; never is [he] understood to be related, unless (also) [he] is understood to have a son. And so the understanding of paternity by reason of fecundity is preamble to the understanding of generation or to the act of generating according to the order of understanding; the understanding however of habitude and of relation is conversely. So therefore it is manifest that, if we speak of this name *father* as to the ultimate understanding from which the name is imposed, whatever distinction be made, [the result is] that he does not therefore generate because [he is] Father, but rather conversely; although we can concede that he therefore generates because [he is] Father, as to the understanding of fecundity, which is, as it were, preamble; and through this all the preceding objections can be avoided.
+
+A similar mode of distinguishing also avails for many other questions, for example, whether the Father generates because [he is] unbegotten, since as to the first understanding, which is privative, unbegottenness is not the account of generating, but as to the consequent, which is fontal plenitude. — It avails also for the question, whether the power of generating is said according to substance or according to relation. — It avails nonetheless for the question when it is asked whether, with the properties abstracted, [it] is [possible] to understand the distinction in the hypostases. And many opinions which seem to be repugnant can through this be brought back to concord (concord). For in such questions about the properties not a small force is constituted in the understanding, which the names principally make, and therefore in such [matters] one must not adhere too much to one party, since a controversy about names is to be left to the obstinate, according to the philosophical document [cf. *Topics* VIII, c. 1, at the end].
+
+From these things, then, it is plain that one of the said positions (parts) or opinions does not impugn the other; rather, [it] helps for elucidating the truth. For when each posits that the act of generation belongs to the person of the Father by reason of fecundity through the mode of nature, they think altogether the same; when however they say that that fecundity is imported through these two names *paternity* and *unbegottenness*, they do not contradict, since paternity imports fecundity as to the first or preamble understanding; but unbegottenness only as to the consequent. Paternity also imports the very fecundity as it is the proper account of generating, but unbegottenness as it is the first account (of generating). For paternity imports fecundity with respect to the act of generating determinately, and so signifies as the proper account of generating; but unbegottenness as the first, since as the Master says below: «The Father is the principle of the whole divinity, because [he is] from no one». — And if it be asked, why the person of the Father is more fecund for generating than another person; the account (of this) is this, since it is itself first and so from no one; and this name *unbegotten (of-unbegottenness)* imports this, as will be seen below, nor is there further any other question, namely why the unbegotten person is unbegotten (or from no one), but rather there is the stop. If, however, anyone shall not find a stop nor rest in the first, when [he] investigates the account of the first and most-primordial emanation, namely the generation of the Son of God, I do not know whether [he] is ever going to find [it] anywhere[?]».
+
+*The last proposition exists in cod. G alone, in which here ends what is added. But in codices aa bb many other [things] are added, which do not seem to have been written by St. Bonaventure. For contrary to the custom of the Seraphic Doctor, who in all things studies brevity, not a few [things] from what has been said are repeated in nearly the same words. There is also added another question, namely whether fecundity in the Father is said according to substance or according to relation, and the distinction posited above is applied to two questions: whether the power of generating is said according to substance or according to relation (above d. 7, q. 1), and whether, with the properties abstracted, [it] happens to understand the persons (in the following question). But in these scarcely anything worthy of note is contained, except that opinion which we have transcribed in the Prolegomena LXIII, col. 1.*
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are gathered from the Quaracchi NOTAE AD COMMENTARIUM in the page-foot blocks of pp. 468–471, renumbered consecutively.
+
+[^1]: **La.** Libr. Sent. d. 3. p. I. a. 2. q. 3. — Paulo ante ex praestantioribus mss. revocavimus *baptismus*, cuius loco Vat. *baptizatus*. Ubi a Petro Lombardo haec verba Augustini ex libro *Enchiridion* c. 39. n. 12. afferuntur: *Non igitur concedendum est, quidquid de aliqua re nascitur, continuo eiusdem rei filium nuncupandum. Ut enim omittam, aliter de homine nasci filium, aliter capillum, pediculum, lumbricum, quorum nihil est filius.* — Paulo superius cod. S post *Primum quidem* subiicit *est*. — Cap. 2. Vat. cum paucis codd. *eaedem proprietates*; non congrue. Plurimi codd. cum ed. 1 *praedicare*, sed cum in subsequenti propositione omnes codd. et edd. unanimiter vocabulum *praedicatio* exhibeant cum Vat., et hic maluimus *praedicatio* quam verbum *praedicare*. — De duplici hac praedicatione cfr. supra d. 8. a. 1. q. 1. ad 2. Plura de hoc vide supra d. 8. q. 1. ad 3. pag. 113. — Cap. 1.
+
+    **En.** *Book of Sentences*, d. 3, p. I, a. 2, q. 3. — A little earlier, from the more excellent manuscripts we have restored *baptismus* ("baptism"), in place of which the Vatican [reads] *baptizatus* ("baptized one"). Where by Peter Lombard these words of Augustine from the book *Enchiridion* c. 39, n. 12 are adduced: *It is not, then, to be conceded that whatever is born from some thing must straightway be called the son of the same thing. For — to omit that a son is born from a man in one way, a hair, a louse, a worm in another, none of which is a son.* — A little above, cod. S after *Primum quidem* adds *est* ("is"). — Chapter 2. The Vatican with a few codices [reads] *eaedem proprietates* ("the same properties"); not congruously. Most codices with ed. 1 [read] *praedicare*, but since in the following proposition all codices and editions unanimously exhibit the word *praedicatio* with the Vatican, here also we have preferred *praedicatio* to the verb *praedicare*. — On this twofold predication see above d. 8, a. 1, q. 1, ad 2. — More on this see above d. 8, q. 1, ad 3, p. 113. — Chapter 1.
+
+[^2]: **La.** Vat. cum nonnullis codd. modo negativo *ergo non generat nisi*.
+
+    **En.** The Vatican with several codices, in negative mode, [reads] *ergo non generat nisi* ("therefore he does not generate except").
+
+[^3]: **La.** Aristot., II. Ethic. c. 4: *Res igitur sane iustae et temperantes dicuntur, cum fuerint tales, quales vir iustus vel temperans ageret; iustus vero vir et temperans est non qui haec agit tantum, sed qui etiam ita agit, ut iusti et temperantes solent.* — In pluribus codd. ut A F G S T Y Z et ed. 1 desideratur *bona*. Vat. post *prius* interiicit *etiam*, non bene; et paulo ante pro *quia enim non* cod. X, omisso *quia*, exhibet *non enim*.
+
+    **En.** Aristotle, *Ethics* II, c. 4: *Things indeed are said to be just and temperate, when they shall have been such as a just or temperate man would do; but a just and temperate man is not [only] he who does these [things] only, but he who also so does [them] as the just and temperate are wont [to do].* — In several codices such as A F G S T Y Z and ed. 1 *bona* ("goods") is missing. The Vatican after *prius* inserts *etiam* ("also"), not well; and a little before, in place of *quia enim non* cod. X, with *quia* omitted, exhibits *non enim*.
+
+[^4]: **La.** Pro hac sententia a B. Alberto, S. I. tr. 8. q. 34. m. 1, nec non a S. Thoma, hic q. 1. a. 2, citatur S. Anselmus, qui in libr. *de Process. Spirit. S.* c. 7. docet, Spiritum S. non procedere a Patre, quia Pater est, sed quia Deus est. — Pro *etiam inesset* codd. F H P Q T aa bb *conveniret*; alii codd. cum ed. 1 haec verba prorsus omittunt.
+
+    **En.** For this opinion, by Bl. Albert, S. I, tr. 8, q. 34, m. 1, and also by St. Thomas, here q. 1, a. 2, St. Anselm is cited, who in the book *On the Procession of the Holy Spirit*, c. 7, teaches that the Holy Spirit proceeds from the Father not because [he is] Father, but because [he is] God. — In place of *etiam inesset* codices F H P Q T aa bb [read] *conveniret* ("would befit"); other codices with ed. 1 omit these words altogether.
+
+[^5]: **La.** Praeter hanc rationem, quam affert B. Albertus, S. I. tr. 8. q. 34. m. 1, idem auctor aliam proponit in suo Comment., hic a. 2, dicens: *Sunt tamen quidam qui dicunt, quod generat, quia innascibilis, quod sic quaerit socium, cui communicet delicias suas. Sed illi, salva pace eorum, non intelligunt quaestionem, quia, cum quaeritur, utrum quia Pater vel e converso, quaeritur de ratione generantis, ut est generans, et non, quare generet.* — Verbis *a divisione*, quae immediate sequuntur, significatur locus sive modus argumentandi, de quo cfr. supra pag. 420, nota 5.
+
+    **En.** Besides this account, which Bl. Albert adduces, S. I, tr. 8, q. 34, m. 1, the same author proposes another in his Commentary, here a. 2, saying: *There are, however, certain ones who say that he generates because [he is] unbegotten, [namely] that thus he seeks a partner to whom he may communicate his delights. But they, with their peace preserved, do not understand the question, since when it is asked whether [he generates] because Father or conversely, [the question] is asked about the account of the one generating insofar as he is generating, and not why he generates.* — By the words *a divisione*, which immediately follow, is signified the topic or mode of arguing concerning which see above p. 420, n. 5.
+
+[^6]: **La.** Supple cum cod. bb *sunt*. — Mox Vat. praeter fidem codd. et ed. 1, variata interpunctione: *insistentes. In creaturis enim actus est.* Dein cod. T *causa relationis* pro *relationis ratio*, et paulo inferius post *quod Pater* interiicit *ideo*. Denique pro *conversim* ed. 1 bene *conversam*.
+
+    **En.** Supply with cod. bb *sunt* ("are"). — Then the Vatican, against the credit of the codices and ed. 1, with altered punctuation: *insistentes. In creaturis enim actus est* ("inhering. For in creatures the act is"). Then cod. T [reads] *causa relationis* ("the cause of the relation") in place of *relationis ratio* ("the account of the relation"), and a little below after *quod Pater* inserts *ideo* ("therefore"). Lastly, in place of *conversim* ed. 1 well [reads] *conversam.*
+
+[^7]: **La.** In Vat. legitur sic: *quod ideo sit Pater, quia Filius generetur*. Verba *Pater sit* interpolatoris operam sapiunt et corrumpunt textum. Nam sermo est de generatione passiva, in qua, omnibus consentientibus, actus notionalis praecedit secundum intellectum illam proprietatem. Cfr. Scholion huius quaest. — Paulo inferius post *hoc* habet cod. K inserit verba *a Patre*.
+
+    **En.** In the Vatican is read thus: *that he is therefore Father, because the Son is generated*. The words *Pater sit* savor of the work of an interpolator and corrupt the text. For the discourse is of passive generation, in which, with all consenting, the notional act precedes that property according to the [order of] understanding. Cf. the Scholion of this question. — A little below, after *hoc*, cod. K inserts the words *a Patre* ("from the Father").
+
+[^8]: **La.** De quo cfr. Aristot. de Praedicam. c. de Relatione. — Non multo post cod. T post voculam *ita* repetit *generatio*.
+
+    **En.** On which see Aristotle, *On the Categories*, c. on Relation. — Not long after, cod. T after the small word *ita* repeats *generatio*.
+
+[^9]: **La.** In praeced. quaest.
+
+    **En.** In the preceding question.
+
+[^10]: **La.** Textum, quem ex potioribus mss. restauravimus, Vat. valde mutilatum exhibet. Omisso enim *quod* post *verum est*, et mutata interpunctione, a verbis *necesse est* initium facit novae propositionis, sic prosequendo: *Necesse est enim, ante generationem esse hypostasim (secundum rationem intelligendi loquor).* Subinde post *oportet* codd. L addunt *tempore*.
+
+    **En.** The text, which we have restored from the more reliable manuscripts, the Vatican exhibits greatly mutilated. For with *quod* after *verum est* omitted, and the punctuation altered, [the Vatican] makes the beginning of a new proposition from the words *necesse est*, continuing thus: *For it is necessary that before generation there be a hypostasis (I speak according to the order of understanding).* Soon after, after *oportet* codd. L add *tempore* ("in time").
+
+[^11]: **La.** Dist. 28. q. 1. 2. 3. — In fine solutionis huius argumenti Vat., codd. et ed. 1 obnitentibus, oppressit verba *paternitate, sed ut distincta*.
+
+    **En.** Distinction 28, qq. 1, 2, 3. — At the end of the solution of this argument the Vatican, with the codices and ed. 1 resisting, has suppressed the words *paternitate, sed ut distincta* ("by paternity, but as distinct").
+
+[^12]: **La.** Supra d. 2. q. 2, et d. 11. q. 2.
+
+    **En.** Above d. 2, q. 2, and d. 11, q. 2.
+
+[^13]: **La.** Supra d. 2. q. 2. in corp., et d. 11. q. 2. in corp., et d. 13. dub. 4; cfr. etiam infra d. 28. q. 1. 2. — Mox post *privatio* cod. Q adiungit *secundum vocem*. — Cfr. supra pag. 215, nota 9.
+
+    **En.** Above d. 2, q. 2, in the body; d. 11, q. 2, in the body; and d. 13, dub. 4; cf. also below d. 28, qq. 1, 2. — Soon after *privatio* cod. Q adds *secundum vocem* ("according to the voice/word"). — Cf. above p. 215, n. 9.
+
+[^14]: **La.** Ita multi codd. ut G K M N P Q Y ee ff; alii cum Vat. *principiati*. — Vat., non suffragantibus codd. neque ed. 1, voci *primum* praemittit *est esse*, et paulo superius eidem voci postponit *quaerere*.
+
+    **En.** Thus many codices such as G K M N P Q Y ee ff; others with the Vatican [read] *principiati* ("of that-which-comes-from-a-principle"). — The Vatican, with the codices and ed. 1 not supporting, prefixes to the word *primum* the [words] *est esse*, and a little above postpones to the same word *quaerere*.
+
+[^15]: **La.** In lit. Magistri, c. 1. — Supra d. 2. q. 2, et d. 11. q. 2.
+
+    **En.** In the *littera* of the Master, c. 1. — Above d. 2, q. 2, and d. 11, q. 2.
+
+[^16]: **La.** Pro *magnorum doctorum* aliqui codd. ut A R S (T a prima manu) Y cc *magistrorum doctorum*; cod. G *nostrorum doctorum*; codd. P Q V omisso *magnorum* solummodo *magistrorum*.
+
+    **En.** In place of *magnorum doctorum* ("of the great doctors") some codices such as A R S (T by the first hand) Y cc [read] *magistrorum doctorum* ("of the master-doctors"); cod. G *nostrorum doctorum* ("of our doctors"); codd. P Q V, with *magnorum* omitted, only *magistrorum* ("of the masters").
+
+[^17]: **La.** Num. 21: *Nam ipsa sermonum enuntiatione cum natum profitemur, non tamen non natum praedicamus. Neque enim id ipsum est non natum atque nasci; quia illud ab altero, hoc vero a nemine est. Et aliud est sine auctore esse semper aeternum, aliud quod Patri, id est auctori, est coaeternum. Ubi enim Pater auctor est, ibi et nativitas est; at vero ubi auctor aeternus est, ibi et nativitatis aeternitas est, quia sicut nativitas ab auctore est, ita et ab aeterno auctore aeterna nativitas est.* Idem fere dicit ibid. n. 51. — Num. 6: *In uno, ex quo auctoritatem innascibilitatis intelligit (Ecclesia); in uno, per quem potestatem nihil differentem ab auctore veneratur.* Cfr. et IX. n. 31.
+
+    **En.** Number 21: *For by the very utterance of the words, when we profess [him] born, nevertheless we do not predicate [him] not-born. For "not-born" and "to-be-born" are not the same; since the one is from another, but the other from no one. And it is one [thing] to be without author always-eternal, another what is co-eternal to the Father, that is, to the author. For where the Father is author, there also is birth; but where the author is eternal, there also is the eternity of birth, since as birth is from the author, so also from the eternal author the birth is eternal.* Almost the same is said ibid. n. 51. — Number 6: *In one [Person] from whom [the Church] understands the authority of unbegottenness; in one through whom she venerates a power not differing from the author.* Cf. also IX, n. 31.
+
+[^18]: **La.** Qui non est Aristot., sed auctor libri *de Causis* (cfr. supra d. 8. p. II. q. 2. arg. 3. ad opp.), qui tres a S. Doctore hic adductas rationes ponit, et quidem secundam verbis explicitis in propos. 1: *«Omnis causa primaria plus est influens supra causatum suum, quam causa universalis secunda».* Primam autem rationem insinuat ibid. sic: *«Iam ergo manifestum est et planum, quod causa longinqua est prima, et prima est plus comprehendens et vehementius causa rei quam causa propinqua»* (cfr. etiam prop. 16. et 17.). Tertiam tandem rationem auctor ille affert in propos. 20: *«Causa prima regit res creatas omnes, praeter quod commisceatur cum eis»*, quam sic explicat: *«Causa prima est fixa, stans cum unitate sua pura semper, et ipsa regit res creatas omnes et influit super eas virtutem vitae et bonitates secundum modum virtutis earum receptibilium et possibilitatem earum. Prima enim bonitas influit bonitates supra res omnes influxione una, verumtamen unaquaeque rerum recipit ex illa influxione secundum modum suae virtutis et sui esse».*
+
+    **En.** Who is not Aristotle, but the author of the book *On Causes* (cf. above d. 8, p. II, q. 2, arg. 3 *ad opp.*), who posits the three accounts here adduced by the Holy Doctor, and indeed the second in explicit words in proposition 1: *«Every primary cause is more influencing upon its caused than a second universal cause».* The first account however he insinuates ibid. thus: *«Now therefore it is manifest and plain that the remote cause is first, and the first is more comprehending and more vehemently a cause of the thing than the proximate cause»* (cf. also props. 16 and 17). The third account finally that author adduces in prop. 20: *«The first cause rules all created things, save that it be commingled with them»*, which he so explains: *«The first cause is fixed, standing with its pure unity always, and it itself rules all created things and influences upon them the virtue of life and goodnesses according to the mode of their virtue's being-receivable and their possibility. For the first goodness influences the goodnesses upon all things by one influence, yet each of the things receives from that influence according to the mode of its own virtue and being».*
+
+[^19]: **La.** Cod. H *innascibilitas*. — Cfr. Aristot., II. Metaph. text. 4. (I. brevior c. 1.), et X. text. 2. seqq. (IX. c. 1.). — De potentiali infinitate puncti, qua potest terminare infinitas lineas, vide supra d. 17. p. II. q. 2. ad 2. — Vat. absque auctoritate codd. et edd. sic prosequitur: *et quae sunt simpliciter prima, ita quod in eis sit status ut in pluribus.* — Supple cum codd. G M bb *est*. — Supra d. 2. q. 3, et d. 7. q. 2.
+
+    **En.** Cod. H [reads] *innascibilitas*. — Cf. Aristotle, *Metaph.* II, text 4 (the briefer [recension] I, c. 1), and X, text 2 ff. (IX, c. 1). — On the potential infinity of the point, by which it can terminate infinite lines, see above d. 17, p. II, q. 2, ad 2. — The Vatican, without the authority of the codices and editions, continues thus: *and those things which are simply first, such that in them there is a stop as in many [things].* — Supply with codd. G M bb *est*. — Above d. 2, q. 3, and d. 7, q. 2.
+
+[^20]: **La.** Pro *etiam*, quod ex codd. P Q et ed. 1 revocavimus, Vat. *autem*, codd. Y cc *Adhuc autem*. — Cfr. supra d. 26. q. 3. — Paulo inferius post *hypostasi* Vat. praeter fidem codd. et ed. 1 *non* pro *nisi*. — Supple: *reduci necesse est*. — Sola Vat., suppressa voce *unius*, post *personae* interiicit *reduci*, et pro *aliarum* substituit *unius*.
+
+    **En.** In place of *etiam*, which we have restored from codd. P Q and ed. 1, the Vatican [reads] *autem*; codd. Y cc [read] *Adhuc autem*. — Cf. above d. 26, q. 3. — A little below, after *hypostasi*, the Vatican against the credit of codd. and ed. 1 [reads] *non* in place of *nisi*. — Supply: *reduci necesse est* ("it is necessary to be reduced"). — The Vatican alone, with the word *unius* suppressed, after *personae* inserts *reduci*, and in place of *aliarum* substitutes *unius*.
+
+[^21]: **La.** Vat. perperam ante vocem *ratione* repetit *de*, contradicentibus codd. A F G P Q T W Y Z etc. nec non ed. 1.
+
+    **En.** The Vatican wrongly before the word *ratione* repeats *de*, with the codices A F G P Q T W Y Z etc. and ed. 1 contradicting.
+
+[^22]: **La.** Vide supra pag. 215, nota 9. — Mox ante verbum *convenit* Vat. cum cod. cc omittit *ideo*.
+
+    **En.** See above p. 215, n. 9. — Then before the word *convenit* the Vatican with cod. cc omits *ideo*.
+
+[^23]: **La.** Libr. IV. de Trin. c. 20. n. 29. Vide infra d. 29. c. 1. in lit. Magistri. — Proxime post Vat. cum cod. cc *primum* pro *prima persona*.
+
+    **En.** Book IV *On the Trinity*, c. 20, n. 29. See below d. 29, c. 1, in the *littera* of the Master. — Immediately after, the Vatican with cod. cc [reads] *primum* in place of *prima persona*.
+
+[^24]: **La.** Cod. Y *secunda* pro *haec*. — Dist. 28. q. 1. seqq. — Paulo superius post *unde* codd. aa bb addunt *ista*, scil. *paternitas*. Subinde pro *Ideo et ista* permulti codd. cum ed. 1 *Et ideo alia*, qua lectione sensus confunditur, unde Vaticanae lectionem retinuimus. — Nota quod hic codd. G aa bb textum largissima additione locupletant, quam post Scholion invenies.
+
+    **En.** Cod. Y [reads] *secunda* in place of *haec*. — Distinction 28, q. 1 ff. — A little above, after *unde*, codd. aa bb add *ista*, namely *paternitas*. Then in place of *Ideo et ista* very many codices with ed. 1 [read] *Et ideo alia*, by which reading the sense is confused, whence we have retained the Vatican's reading. — Note that here codd. G aa bb enrich the text with the largest addition, which you will find after the Scholion.
+
+[^25]: **La.** Sic codd. G aa bb in textu Anecdoti I. — Verba *omisi et nunc suppleo* a S. Bonav. ipso adducta in Anecdoto Prologo II. Sent.
+
+    **En.** Thus codd. G aa bb in the text of Anecdotum I. — The words *I omitted and now I supply* are adduced by St. Bonaventure himself in the unedited Prologue to II Sent.
 
 ## Notes
 
-[Notes pending]
+The Anecdota II disquisition transcribed in this chunk is preserved in only three codices (G, aa, bb) and is judged by the Quaracchi editors to be of doubtful Bonaventurian authorship; nevertheless they print it integrally because it is, in their judgment, "a longer but faithful exposition" of the doctrine St. Bonaventure himself sketches in the unedited Prologue to II Sent. (Anecdotum I). The garbled OCR around two spots (`valuabiliter[?]` for what may be `variabiliter`, and `inventurus[?]` near the close of the cod. G addition) are flagged but contextually intelligible.
