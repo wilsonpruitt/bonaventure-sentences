@@ -140,7 +140,7 @@ There can however be a certain equivocation also in the same thing under a disti
 
 **II.** Argument 3 in the body, drawn from Aristotle, is explained by a certain restriction at the end of the response. — A solution to [argument] 3 is not given explicitly, since the principles set down in the solution to [argument] 2 suffice. For the major in the third objection is true; but the minor is false. For from this account — that *principle*, taken essentially, is in three persons, taken notionally in two, but taken personally in one — it cannot be argued that the word *principle* is not taken univocally; rather this follows from another reason, namely that in the first usage a creature is connoted, but not in the others. By this difference of connotation a manifoldness of signification is imported — not, however, of equivocation, but of analogy.
 
-**III.** Among the ancient authors there is no dissension as to the response itself. But very many Scotists, following the doctrine of Scotus (I *Sent.* d. 8, q. 3, n. 12), do not grant the proposition of the Seraphic [Doctor] (ad 1), that the *analogical* is a middle between the purely univocal and the equivocal; which difference of opinions Brulifer brings into concord by saying that St. Bonaventure speaks of the univocal in which the same account is participated *equally* by those to which the name is common, but Scotus of that in which the same account is participated *unequally*. But Mastrius (*Philosophy according to the mind of Scotus*, tom. I, disp. 2, q. 5, a. 3) teaches that «the *analogical*, formally taken, so mediates between univocal and equivocal that it never coincides with either; but materially taken, it always coincides with one or the other»[?].
+**III.** Among the ancient authors there is no dissension as to the response itself. But very many Scotists, following the doctrine of Scotus (I *Sent.* d. 8, q. 3, n. 12), do not grant the proposition of the Seraphic [Doctor] (ad 1), that the *analogical* is a middle between the purely univocal and the equivocal; which difference of opinions Brulifer brings into concord by saying that St. Bonaventure speaks of the univocal in which the same account is participated *equally* by those to which the name is common, but Scotus of that in which the same account is participated *unequally*. But Mastrius (*Philosophy according to the mind of Scotus*, tom. I, disp. 2, q. 5, a. 3) teaches that «the *analogical*, formally taken, so mediates between univocal and equivocal that it never coincides with either; but materially taken, it always coincides with one or the other».
 
 **IV.** Alex. Hal., *Summa* p. I, q. 70, m. I. — Thomas, *Summa* here q. 1, a. 2. — Peter of Tarentaise, here q. unica, n. 2. — Richard of Mediavilla, here q. 2. — Aegidius Romanus, here 2. *princip.* q. I. — Dionysius the Carthusian, here q. 2. — Biel, here q. unica.
 
@@ -174,9 +174,9 @@ There can however be a certain equivocation also in the same thing under a disti
 
     **En.** The word *creatum*, exhibited also by the Vatican [edition] and ed. 1, is wanting in very many codices.
 
-[^7]: **La.** Plures codd. ut K V W Y *identitatem*; incongr[ue][?].
+[^7]: **La.** Plures codd. ut K V W Y *identitatem*; incongrue.
 
-    **En.** Several codices, such as K V W Y, [read] *identitatem* ("identity"); incongruously[?].
+    **En.** Several codices, such as K V W Y, [read] *identitatem* ("identity"); incongruously.
 
 [^8]: **La.** Vide supra d. 7. q. 4.
 

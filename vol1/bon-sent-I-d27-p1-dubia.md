@@ -119,7 +119,7 @@ Likewise it is asked about what he says[^10]: *When we place the names of the re
 
 [^6]: **La.** Vat. omittit *et gigni*, contra codd. *L P Q W X* etc., et dein cum codd. *L O*, nec non contextu exigente, substituimus *important* pro *importat*.
 
-    **En.** The Vatican [edition] omits *et gigni* (and to be begotten), against codices *L P Q W X* etc.; and then, with codices *L O*, and as the context requires, we have substituted *important* (they import) for *importat* (it imports).[?]
+    **En.** The Vatican [edition] omits *et gigni* (and to be begotten), against codices *L P Q W X* etc.; and then, with codices *L O*, and as the context requires, we have substituted *important* (they import) for *importat* (it imports).
 
 [^7]: **La.** Sic recte legitur in codd. *P Q* reliqui codd. cum ed. 1 et Vat. minus bene: *quia relationes significant in concretione et ideo non solum important*.
 

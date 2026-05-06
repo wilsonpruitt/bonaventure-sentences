@@ -192,8 +192,9 @@ creator"). For it is manifest that the name *creator* cannot belong to God in ti
 [^4]: **La.** Permulti codd. ut C F G H K R S T U V X cc cum edd. 1, 2, 3 voci *ipsum* praefigunt *circa*.
     **En.** Very many codices, as C F G H K R S T U V X cc together with editions 1, 2, 3, prefix *circa* to the word *ipsum*.
 
-[^5]: **La.** Cod. I *nullum*. — [The word *statim* (at once) is uncertain in the OCR: appears as *insiaiu* / *stnmiai*; context suggests *statim* or possibly *simpliciter* [?].]
-    **En.** Codex I reads *nullum*. — [OCR garble at this position: rendered as *statim* per context; see ambiguities log.]
+[^5]: **La.** Cod. I *nullum*.
+
+    **En.** Codex I reads *nullum*.
 
 [^6]: **La.** Similis definitio diei habetur in Aristot., VI. Topic. c. 3. (c. 1.): Dies est solis latio super terram. — Mox post *pari ratione* Deus in cod. I repetitur *est*.
     **En.** A similar definition of the day is found in Aristotle, *Topics* VI, c. 3 (c. 1.): "The day is the passage of the sun over the earth." — Shortly after *by equal reasoning*, Codex I repeats *est* after *Deus*.

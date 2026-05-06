@@ -172,9 +172,9 @@ Likewise it is asked about what he says, that *image* sometimes makes [us] under
 
     **En.** Cf. here q. 1 in the body.
 
-[^13]: **La.** Aliqui codd., in quibus cod. T, cum ed. 1 *negatum*[?].
+[^13]: **La.** Aliqui codd., in quibus cod. T, cum ed. 1 *negativum*.
 
-    **En.** Some codices, among which is codex T, with edition 1 [read] *negatum*[?].
+    **En.** Some codices, among which is codex T, with edition 1 [read] *negativum*.
 
 [^14]: **La.** Cfr. supra pag. 496, nota 3.
 

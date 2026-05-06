@@ -164,7 +164,7 @@ To that which is asked, why not-to-produce is not a notion; it must be said that
 
 [^11]: **La.** Codd. et edd. *improcessibilis*, sed [legendum *inspirabilis*].
 
-    **En.** The codices and editions [read] *improcessibilis*, but [it should be read *inspirabilis*]. [?]
+    **En.** The codices and editions [read] *improcessibilis*, but [it should be read *inspirabilis*] (editor's emendation, signalled by square brackets in the Quaracchi text).
 
 [^12]: **La.** Vat. cum cod. cc perperam *distinguit*.
 

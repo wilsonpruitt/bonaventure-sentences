@@ -224,7 +224,7 @@ Vol I has ~436 chunks total. Of these (per audit on 2026-05-01): ~56 Tier-2 comp
 ### Apparatus conventions
 - Start each entry with a `>` blockquote note (once per file, in the Latin section): "The numbered footnotes below correspond to markers in both the Latin body above and the English translation..."
 - Each entry: `[^N]: **La.** <Latin>\n    **En.** <English>`
-- Indent the `**En.**` line with 4 spaces (markdown list-continuation)
+- Indent the `**En.**` line with 4 or 5 spaces — both render under the `[^N]:` continuation. The de-facto corpus convention since d.10 is 5 spaces (parser is regex-based and indent-tolerant); 4 spaces is also accepted. Don't bulk-edit between the two.
 - Include the period in `**La.**` — required by the `build-content.mjs` parser
 - Include scripture citations in both languages, Vulgate numbering in Latin
 - Note textual variants (`Vat. contra cod. cc legit...`) verbatim in Latin, render in English as "The Vatican edition, against codex cc, reads..."

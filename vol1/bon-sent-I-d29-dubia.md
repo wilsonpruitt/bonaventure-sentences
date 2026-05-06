@@ -198,7 +198,7 @@ Likewise it is asked about what he says, that it is not to be conceded that the 
 
     **En.** The little word *ita* is absent from the Vatican edition, but is found in most codices and in edition 1; in some codices, however, it is placed not before but after the word *creatum*. A little above, in place of *quid* the Vatican edition with codex cc [reads] *quod est*. A little below, in place of *ideo* codices S, V, W [read] *ita*.
 
-[^18]: **La.** Distinctione[?], quam S. Bonav. in hac solutione facit, etiam Petrus a Tar. utitur, hic q. 1. Sed Richard. (hic q. 2.) cum Aegidio absolute concedit, principium personarum per prius dici relate ad principium creaturarum. Alex. Hal. (S. p. I. q. 70. m. 1. § 1.), B. Albert. (hic a. 2.) et S. Thom. (hic a. 2. quaestiunc. 2.) respondent, eandem quoad rem distinctionem facientes, qua utitur S. Bonav.
+[^18]: **La.** Distinctione, quam S. Bonav. in hac solutione facit, etiam Petrus a Tar. utitur, hic q. 1. Sed Richard. (hic q. 2.) cum Aegidio absolute concedit, principium personarum per prius dici relate ad principium creaturarum. Alex. Hal. (S. p. I. q. 70. m. 1. § 1.), B. Albert. (hic a. 2.) et S. Thom. (hic a. 2. quaestiunc. 2.) respondent, eandem quoad rem distinctionem facientes, qua utitur S. Bonav.
 
     **En.** The distinction which St. Bonaventure makes in this solution is also used by Peter of Tarentaise, here q. 1. But Richard (here q. 2) with Giles concedes absolutely that the principle of persons is said priorly relative to the principle of creatures. Alexander of Hales (*Summa* p. I, q. 70, m. 1, § 1), B. Albert (here a. 2), and St. Thomas (here a. 2, quaestiunc. 2) respond making the same distinction in substance which St. Bonaventure uses.
 

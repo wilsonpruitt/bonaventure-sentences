@@ -176,9 +176,9 @@ Therefore this is true: *the Father and the Son are one principle*; this however
 
     **En.** So the manuscripts and editions 1, 2, 3; the Vatican [edition] omits *duos*.
 
-[^7]: **La.** Pro *est multiplicata* Vat. cum aliquibus codd. *multiplicatur*; insuper sola et perperam adiungit *ideo*; nonnulli codd. [...][?]
+[^7]: **La.** Pro *est multiplicata* Vat. cum aliquibus codd. *multiplicatur*; insuper sola et perperam adiungit *ideo*; nonnulli codd. *est multiplicentur*.
 
-    **En.** In place of *est multiplicata*, the Vatican [edition] with some codices [reads] *multiplicatur*; moreover [the Vatican] alone and wrongly adds *ideo*; some codices [...]. [?] (page-bottom OCR truncated; remainder of note not legible in the djvu band)
+    **En.** In place of *est multiplicata*, the Vatican [edition] with some codices [reads] *multiplicatur*; moreover [the Vatican] alone and wrongly adds *ideo*; some codices [read] *est multiplicentur*.
 
 [^8]: **La.** Vat. cum cod. cc *dicit*. Mox post *quia non* habet codd. I K V W aa bb repetunt *plures*, pro quo cod. Y *diversas*, et deinde codd. PQX cum edd. 2, 3, 4, 5, 6 incongrue omittunt *secundum*.
 
