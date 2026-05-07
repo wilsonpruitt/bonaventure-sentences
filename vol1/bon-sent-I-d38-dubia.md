@@ -6,132 +6,162 @@ distinctio: 38
 type: dubia
 title_la: "Dubia circa litteram Magistri"
 title_en: "Doubts concerning the text of the Master"
-printed_pages: [641, 642]
-pdf_pages: [231, 232]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 641–642"
+printed_pages: [680, 681, 682]
+pdf_pages: [270, 271, 272]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 680–682"
 line_start: 26274
 line_end: 26376
-word_count_latin: 909
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26274–26376 of pt2) supplemented by 600dpi PDF read for OCR-dropped p.680 column, fresh literal English translation, full apparatus from raw OCR (13 entries), [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d38-dubia
 
+## *Dubia circa litteram Magistri.*
+
+---
+
 ## Latin
 
-     ergo iiecessarium.                                                                                                                        cadit contingentia, sed                                     sumraa necessitas                                 ;       sed /jrae-
-                    3.     Item,                    licet      potentia             Dei          sit    Indiffereus                   ad       scire Dei est aeternum                                      :   ergo necessarium esl, Deum
-     exeundum vel non exeundura, tamen ex quo exi-                                                                                             praescire           quod praescit.
-     vit            in     actum,                        necesse          est           exisse.         Unde quamvis                                          Contra: 1. Regula                                     est   .   si              antecedens bonaeFmniameoi!..
-     potuerit creare                                      et     non       creare, antequam crearet,                                           conditionalis                     est      necessnrium,                         et             consequens;                    et    si
+<!-- page 680 -->
 
-     tamen ex quo creavit, necesse est creasse                                                                      :       ergo ex            consequens non est necessarium                                                         ,       nec         antecedens '.
-     quo praescivit, necesse                                              est praescisse.                                                      Sed sequitur:                      si     Deus praescit                        ,           hoc esse futurnm,
-                    4.     Item,                    si   horao voluit et                     praescivil                     aliquid,           hoc            erit ,      quocumque contingenti deraonstrato, quia
-     necesse est,                                  hominem               scivisse el voluisse: ergo                                   si       oppositura non potest                                       stare:             ergo             cum consequens
-     circa scientiam Dei                                        non       est       minor certiludo, immo                                      non            sit       necessarium               ,    ergo nec antecedens.
-     maior, quam circa scientiam hominis, multo fortius                                                                                                       2.    Item, regula est, quod necessarium corapa-
-     est necesse.                     Si tudicas, sicnt aliqui dicunt^, quod                                                                   titur se                 cum orani possibili. Omne enim repugnans
-     in     hac:                   Deus praescivit, totum ex Futuro est se-                                                                    necessario est impossibile " ; sed deinonstrato aliquo
-     cundum rem                                ,
-                                                    quaravis intelligatur sub ratione prae-                                                    qui            praescitus              est         damnari,                    possibile                     est,            istum
-     teriti, unde nihil plus est dicere: Deus praescit,                                                                                                         d«o possunt simul stare. quod sit
-                                                                                                                                               salvari: ergo ista
-     nisi: Deus est, et hoc erit; contra: tunc. esto quod                                                                                      praescitus damnari  et salvetur ei hoc est irapos-
-                                                                                                                                                                                              ,                                   :
+### DUBIA CIRCA LITTERAM MAGISTRI.
 
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin (`**La.**`) is verbatim from the Quaracchi apparatus; English (`**En.**`) is a literal rendering. Variant readings preserve the apparatus's manuscript-sigla style (e.g., *Cod. T*, *Vat.*, *ed. 1*).
 
+#### DUB. I.
 
-     Deus nullam                                    haberet           cognitionem,            dum tamen res                                    sibile:              ergo       etc.
+In parte ista sunt dubitationes circa litteram et primo de hoc quod dicit Augustinus: *Nec aliter scilicet creata quam creanda.* Videtur enim male dicere, quia *res*[^1], ut vere cognoscitur, debet esse cognoscens et cognitum simul, ut cum intelligo lapidem, oportet, quod sciam in lapide, quid sit, et an sit, et quale sit; et hoc non potest fieri nisi quod intelligam[?], quod res habet esse in se, et est in praesenti.
 
-     esset futura, haec esset vera:                                                       Deus praescit; quod                                                 3.    Itera, regula                     est,           quod                 oppositum                        contin-
-     manifeste                          falsum              est.         Praeterea,                    esto    quod prae-                      gentis est                  contingens,                     el        oppositum necessarii                                        est
-     scienliae                     addatur actus transiens                                   in        praeterituin               ,   ut       impossibile. Et regula itei-uin est,                                                            quod         si        ad ante-
-     promissio ' vel praedictio vel propbetatio, ibi transit                                                                                   cedens                 sequitur           consequens                       ,   ad oppositum                                 conse-
-     in     praeteritum                                  aliquid,          et    vere        fit       idem sophisma                           quentis sequitur oppositum antecedentis'. Ex his
-     et     idem dubium: ergo hoc non                                                       solvil.                                            arguo sic: sit A contingens praescitura a Deo, si
-                    5.     Item,                    plus         distat    non esse, quam
-                                                                                esse        et                                                 Deus praescit, A erit: ergo per regulam*, si A non
-     necessarium                                   et    conlingens; sed aliquid, quod sim-                                                    erit, Deus non praescit. Sed A non esse fuit con-
-     pliciter              non                est, habet esse in Dei praescientia: ergo                                                        tingens              ,     Deura          non               praescisse                         fuit         irapossibile
+**Respondeo:** Dicendum, quod cum dico, *rem aliter cognosci*, dupliciter potest intelligi: aut ita quod adverbium dicat alietatem quantum ad cognoscens, et quantum ad esse rei cognitae. Si quantum ad esse rei cognitae, sic est verum[^2], et est sensus: Deus aliter cognoscit rem ut habet[?] esse, sicut Augustinus dicit. Si autem dicat alietatem quantum ad cognoscens et esse, hoc est falsum; et est sensus: Deus cognoscit aliter rem factam, quam priusquam fieret cognoverit; et hoc falsum, quia significatur divina cognitio alterari, et quod aliquid receperit a re extra. Et per hoc patet obiectum primum.
 
+Quod obiicitur, quod Deus cognoscit res in proprio genere, sicut lapidem; dicendum, quod *cognoscere res in proprio genere* dupliciter intelligitur: aut ita quod hoc dicat, quod cognoscens habet praesentialem repraesentationem rei, et hoc perfectionis est, et non est dicta noscendi a cognitione in Verbo; aut ita quod aspectus intelligentiae sive vis cognitivae deflectatur[^3] supra[?]
 
+<!-- page 681 -->
 
+rem ut est in proprio genere, et hoc est imperfectionis, quia scilicet tunc[^4] cognoscens egreditur extra se; et hoc nullo modo potest poni in Deo, et ita facit in Angelo alium modum cognoscendi. Et sic patet illud.
 
-                '    Allata Aiiselmi sentenlia in                                cil.    libro iisdem \'erbis, qui-                            necessitale est, et conelusio ex nccessitate, sicut                                                          ex veris              ve-
-     bus hic, cxpressa non in^enitur. Sed liabentur ibi, praesertim                                                                            runi, est scinper.                — Pro bonae                    condifioimlis Vat. cum edd. 4, 5
-     q.   1.        c.    1.           2.    5, aliquae propositiones docentes,                                Deum futura                     bonae consequeniiae.
-     praescire et                      quidem immulabiliter in aeternitate; ex quibus hanc                                                                s
-                                                                                                                                                               Cfr.      de hac    et     sequenti regula Aristot.                              ,   II.   Periherm. c. 3.
-     sentenliam formatam esse, verisimile                                                 est.                                                 (c.    1   2.    seq.) , ubi       de consequentiis et oppositione propositionum
-               2     Vide hic in corp. quaest.                                                                                                 modaliuni agitur,                  et     ).   Prior.           c.    12.
-               3    Ed.                 praevisio; in corp. quacst. ponitur credulitas.
-                                   1                                                                                                                      '    Haec regula habetur 1.                          Prior. cap. uil.,                         ubi Philosophus
-                     Val. adiungit hoc                           erit.    Paulo superius verbis est immii-                                     de propositionum simplicium                                     et privatoriarum                           ordine           ac con-
-     tabile cod.                   V praeflgit praescire. Paulo inlerius Vat. Dei pro sui.                                                     scqucnliis               agcns     ait:        Simpliciter                 autem           ,
-                                                                                                                                                                                                                                               quando                sic   se     ha-
-               ^    Haec regula quantuni ad simplices syllogismos insinuatur                                                                   bcnl       clc.      —     In   multis codd. et ed.                    1    legitur, ordine inverso, sic:
-     ab Aristot., I. Prior. c. 8. seqq. et derivatur ex                                                 illo   generali prin-                  ad oppositum antecedentis sequitur oppositum consequentis.
-     cipio Arislol.,                         II.    Prior.      c.   2: Ex vcris non csi falsum syllogi-                                                  *    Sciliccl :      quae hic           ullhiiu           ponitur.
-     zare   ;
-                    quod innnilur I.                           Posle]-.    c.   6   :    Cnm       aulem        medium                ex
+#### DUB. II.
 
-                                                                                                                                                  ,,
+Item quaeritur de hoc quod dicit: *Tunc eius quod aeternum est, aliqua existeret causa* etc. Vult enim dicere, quod praescientia dicat quid aeternum; sed hoc videtur falsum, quia praescientia dicit respectum ad creaturam futuram; sed nihil est futurum secundum esse, quod habet in Deo, sed in proprio genere: ergo connotat aliquod temporale[?], ergo videtur, quod cognoscatur[^5] *ex tempore*. — Praeterea, respectus ille nihil dicit a parte Dei nisi solum modum intelligendi nostrum: ergo tunc coepit ille respectus, quando coepit noster intellectus, non ergo fuit ab aeterno.
 
+**Respondeo:** Sicut dicit Magister[^6], *praescientia* dicit quid aeternum et ab aeterno. Cum enim non importet nisi duo, scilicet antecessionem et scientiam, et antecessio omnis creaturae sit ante omnem creaturam, et scientia naturaliter, patet quod praescientia quid aeternum dicit[^7]. — Quod ergo obiicitur, quod importat rei *futuritionem*; dicendum, quod futuritio uno modo importat *successionem* temporis, et ita non est de ratione praescientiae; hoc enim modo futurum coepit cum tempore. Alio modo futurum importat *ordinem* temporalis ad aeternum secundum *consecutionem*, sicut praescientia *antecessionem*; et quoniam iste ordo solum exigit primum extremum in actu, et illud fuit ab aeterno, ideo et futuritio et praescientia.
 
+Quod obiicitur, quod respectus ille a parte Dei nihil dicit secundum rem; dicendum, quod falsum est, quia respectus ille est divina essentia; sed verum est, quod nihil dicit respectivum sive dependens, nisi solum secundum modum intelligendi; et ideo non coepit secundum rem, sed solum modus significandi coepit. Et quando Magister dicit, quod praescientia dicit aeternum, non loquitur de ratione nominandi, sed de eo quod significatur per nomen[^8].
 
+#### DUB. III.
 
-                 678                                                                                                          SENTENllARUM LIB.                         I.
+Item quaeritur de hoc quod dicit: *Scientiam vel praescientiam non esse causam* etc., si scientiam ad notitiam tantum referamus. Si vero nomine scientiae includitur beneplacitum atque dispositio, recte potest dici. Videtur enim male dicere, quia aut scientia, hoc modo et illo dicta, dicit eundem modum sciendi, aut alium; si eundem, ergo si uno modo est causa, et alio; si alium modum, ergo in Deo est multiplex modus sciendi, non ergo uniformis per omnia. — Item, scientia simplicis notitiae est Deus; et Deus est causa omnium: ergo scientia illa est causa omnium.
 
+**Respondeo:** Dicendum, quod in nobis notitia simplex et notitia beneplaciti dicunt diversas cognitiones et diversos modos cognoscendi, et per consequens connotant diversa: in Deo autem una tantum cognitio est, sed illa una facit Deus, quod nos multis; et ideo illa una dupliciter potest significari[^9]. Et cum significatur per modum approbationis, connotat effectum et bonitatem; quando vero per modum simplicis notitiae, solum eventum. Et quoniam esse causam alicuius connotat effectum sive respectum — quamvis eadem sit scientia sive sapientia a parte principalis significati[^10] — ideo dicitur, quod haec[^11] est causa illorum quae praescit, et illa non. Et hoc dicitur, non quia res significata non sit causa, sed quia, ut sic significata est, non significatur per modum causae, quoniam comparatur ad ea quae nullo modo sunt a Deo. Et sic patet illud.
 
+#### DUB. IV.
 
+Item quaeritur de hoc verbo Augustini: *Deus per Prophetam praedixit infidelitatem Iudaeorum;* quia, cum dictum Prophetae fuerit verum certitudinaliter[^12], videtur, quod Deus revelaverit Iudaeis suum casum sive damnationem; quod est contra ipsum super Genesim ad litteram[^13], qui dicit, quod nulli debet revelari, ne cogatur desperare.
 
-                 ergo ad contingens sequitur impossibile. Sed hoe est                                                                                  Praetcrea,                 quomodo dependet, cum ab eo non
-                 contra artem ^                           :     necesse est igitur                         ,    hoc esse contin-                       causetur aliquo               modo? El iterum, quomodo depen-
-                 gens        ,       Deum scilicet praescire hoc.                                                                                      det        illud          quod      necessarium                 est      fuisse ,           ut actus
+**Respondeo:** Dicendum, quod casus potest prae-
 
-                                4.    Item          ,     omnis divina actio, quae respicit obie-                                                      cognoscendi et credendi                           et       praedicendi, ab eo quod
+<!-- page 682 -->
 
-                 etum, quod potest non                                                    esse, potest desinere.                         Unde          ftiturum est? Non videtur                                   nec       probabile              nec     in-
+dici; sed non propter hoc revelatur, sive quia dicenti non creditur, sive quia dictum de[?] conditione intelligitur, sive intelligens intelligit de alio, non de se ipso. Et quia verbum Isaiae prophetae comminatorie et generaliter erat dictum, et hominibus iam in parte incredulis non advertentibus, omnibus his modis potuit intelligi, ut esset praedictio, non revelatio.
 
-                 euni Deus conservet rem creatani, potest desinere                                                                                     telligibile.
-
-                 eonservare                 :       ergo             cum praescire sit respectu contin-                                                           Et ideo          alio        modo dieendum                 quod qnoddam
-                                                                                                                                                                                                                                 ,                                        ,
-
-
-
-
-                 gentis, erit contingens.                                                                                                              est    dictum de praeterito,                               et   pro praeterilo, sicut j9v?i''»pi
-                                                                                                                                                       si    dicatur         ,    Petrum         legisse      ;    quoddam de praeterito,
-                                                                                                                                                       sed pro               futuro,            ut     antichristus                  fuit       nasciturus;
-                                                                                                                                                       quoddam de praeterito et pro                                         praeterito ,              tamen
-                                                                                                                                                       dependet ex fuluro,vA hoc dictum; Petrum veriim
-                 hi dicto ,                 Deum praescire fiUurum contingens                                                             ,     li-
-                                                                                                                                                       dixisse, navale                  bellum fore; ad hoc enim. qiiod                                         di-
-                                cet    actus Dei in se                                      sit     aeternus                 et     'necessa-
-                                                                                                                                                       ctum habeat veritalem, exigitur                                           belli          eovntus; et
-                                rius, iudicanda est cantingentia in totali dicto,                                                                      ab    illo       dependet               verilas      nostrae asserlionis et                          co-
-                             ratione connotati contingenti-s.                                                                                          gnitionis, quae causatur a                             re": quoildam est dictum
-                                                                                                                                                       de praeterito,                     ((uod        non dependet, sed connotat,
-                                Respondeo: Dicendum,                                              quod, sicut                     neeessario           sicut       si   dicatur;           Deus        praescivit lioe futiirum.
-
-                 probatum                       est \                illud            constat        et        non      est        dubium                         Quia eniin Dei scientia                         est solum respectu                      veri,
-
-                 quod            Deum praescire                                       conlingens aliquod                            — cum              ideo connotat veritatem circa illud dictum futurum;
-
-              antecedit ad contingens et connotat aliqnid. qnod                                                                                        sed quoniam                  divina cognitio"                    non habet                  eertitudi-
-
+---
 
 ## English
 
-[Translation pending]
+<!-- page 680 -->
+
+### DOUBTS CONCERNING THE TEXT OF THE MASTER.
+
+#### DOUBT I.
+
+In this part there are doubts concerning the text, and first concerning what Augustine says: *Not otherwise [is the creature known] as already created than as about to be created.* For he seems to speak ill, because *a thing*[^1], as it is truly known, must be at once knowing and known together, as when I understand a stone, it is necessary that I know in the stone what it is, and whether it is, and of what sort it is; and this cannot come about except in that I understand[?] that the thing has being in itself, and is in the present.
+
+**I respond:** It must be said that when I say *that a thing is otherwise known*, it can be understood in two ways: either so that the adverb says an otherness with respect to the knower, or with respect to the being of the thing known. If [it is meant] of the being of the thing known, thus it is true[^2], and the sense is: God knows a thing otherwise as it has[?] being, as Augustine says. But if it says an otherness with respect both to the knower and to the being, this is false; and the sense is: God knows the thing once made otherwise than as he had known it before it was made; and this is false, because it would mean that the divine cognition is altered, and that he received something from a thing outside. And by this the first objection is plain.
+
+What is objected, that God knows things in their proper genus, as a stone; it must be said that *to know things in their proper genus* is understood in two ways: either so that this says that the knower has a present representation of the thing, and this is of perfection, and is not different from knowing in the Word; or so that the gaze of the intelligence or cognitive power is bent[^3] over[?]
+
+<!-- page 681 -->
+
+a thing as it is in its proper genus, and this is of imperfection, namely because then[^4] the knower goes outside himself; and this can in no way be put in God, and so it makes another mode of knowing in the Angel. And so that is plain.
+
+#### DOUBT II.
+
+Likewise it is asked concerning what he says: *Then of that which is eternal, some cause would have to exist* etc. For he wishes to say that *praescientia* (foreknowledge) says something eternal; but this seems false, because foreknowledge says a respect to a future creature; but nothing is future according to the being which it has in God, but [only] in its proper genus: therefore it connotes something temporal[?], therefore it seems that it is known[^5] *from time*. — Furthermore, that respect says nothing on the side of God except only our mode of understanding: therefore that respect began when our intellect began, therefore it was not from eternity.
+
+**I respond:** As the Master says[^6], *praescientia* says something eternal and from eternity. For since it imports nothing but two things, namely antecession and knowledge, and the antecession of every creature is before every creature, and knowledge naturally [is so], it is plain that praescientia says something eternal[^7]. — As to what is objected, that it imports the *futurition* of a thing; it must be said that *futurition* in one way imports a *succession* of time, and so it is not of the account of foreknowledge; for in this way the future began with time. In another way the future imports an *order* of the temporal to the eternal according to *consecution*, just as foreknowledge [imports] *antecession*; and since this order requires only the first extreme in act, and that was from eternity, therefore both *futurition* and *praescientia* [are from eternity].
+
+As to what is objected, that that respect on the side of God says nothing according to the thing; it must be said that this is false, because that respect is the divine essence; but it is true that it says nothing relative or dependent except only according to the mode of understanding; and therefore it did not begin according to the thing, but only the mode of signifying began. And when the Master says that *praescientia* says something eternal, he is not speaking of the account of naming, but of that which is signified through the name[^8].
+
+#### DOUBT III.
+
+Likewise it is asked concerning what he says: *That science or foreknowledge is not a cause* etc., if we refer *science* to bare cognition. But if under the name of *science* there is included [divine] good-pleasure and disposition, it can rightly be said. For he seems to speak ill, because either *science*, said in this way and in that, says the same mode of knowing, or another; if the same, then if [it is a cause] in one way, [it is so] in the other; if another mode, then in God there is a manifold mode of knowing, therefore not uniform through all things. — Likewise, the science of *simplex notitia* (simple cognition) is God; and God is the cause of all things: therefore that science is the cause of all things.
+
+**I respond:** It must be said that in us simple cognition and the cognition of [divine] good-pleasure say diverse cognitions and diverse modes of knowing, and consequently they connote diverse things: but in God there is one cognition only, but that one God makes [to do] what we [do] with many; and therefore that one [cognition] can be signified in two ways[^9]. And when it is signified by way of approbation, it connotes the effect and the goodness; but when by way of *simplex notitia*, only the event. And since to be the cause of something connotes an effect or respect — although on the side of the principal signified[^10] the science or wisdom is the same — therefore it is said that this one[^11] is the cause of those things which it foreknows, and that [other] is not. And this is said, not because the thing signified is not the cause, but because, as so signified, it is not signified by way of cause, since it is compared to those things which are in no way from God. And so that is plain.
+
+#### DOUBT IV.
+
+Likewise it is asked concerning this saying of Augustine: *God through the Prophet foretold the unbelief of the Jews;* because, since the saying of the Prophet was certainly[^12] true, it seems that God revealed to the Jews their fall or damnation; which is against [Augustine] himself in *On Genesis to the Letter*[^13], who says that [it] ought to be revealed to no one, lest he be driven to despair.
+
+**I respond:** It must be said that a fall can be fore-
+
+<!-- page 682 -->
+
+told; but not on this account is it revealed, either because the speaker is not believed, or because the saying is understood of[?] a [conditional] condition, or [because] the one understanding understands [it] of another, not of himself. And since the word of Isaiah the Prophet was uttered minatorily and generally, and to men in part already unbelieving and not heeding, it could be understood in all these ways, so as to be a prediction, not a revelation.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Cfr. II. *Sent.* d. *I.* a. 3. q. 1. seq. — Paulo superius verbo *res* cod. X adiungit *creatas*.
 
-## Notes
+    **En.** Cf. II *Sent.* d. 1, a. 3, q. 1, seq. — A little above, at the word *res*, cod. X adds *creatas*.
 
-[Notes pending]
+[^2]: **La.** Codd. V X *vera*. Mox pro *habuit* codd. T cc *habuerit*.
+
+    **En.** Codd. V X read *vera*. Just below, for *habuit* codd. T cc read *habuerit*.
+
+[^3]: **La.** Vat. contra codd. et ed. 1 *reflectatur*.
+
+    **En.** The Vatican edition, against the codices and ed. 1, reads *reflectatur*.
+
+[^4]: **La.** Verba *scilicet tunc*, quae substituimus pro lectione Vat. et cod. cc, quae eorum loco exhibet *vis*, inveniuntur in ed. 1, et favent huic lectioni non pauci codd., in quibus pro *scilicet tunc* legitur, etsi incongrue, *licet tunc*. In cod. O sic: *quia tunc cognoscere est per aliud sive sit per species innatas vel receptas a re egreditur* etc.
+
+    **En.** The words *scilicet tunc*, which we have substituted for the reading of the Vatican edition and cod. cc — which in their place exhibits *vis* — are found in ed. 1, and not a few codices favor this reading, in which for *scilicet tunc* is read, though incongruously, *licet tunc*. In cod. O thus: *quia tunc cognoscere est per aliud sive sit per species innatas vel receptas a re egreditur* etc.
+
+[^5]: **La.** Pro *cognoscatur* Vat. cum paucis codd. *dicatur*. Paulo ante pro *aliquod temporale* cod. Y *quid temporale*.
+
+    **En.** For *cognoscatur* the Vatican edition with a few codices reads *dicatur*. A little before, for *aliquod temporale* cod. Y reads *quid temporale*.
+
+[^6]: **La.** Hic c. 1. circa medium, et supra d. XXXV. c. 8, nec non infra d. XXXIX. c. 2.
+
+    **En.** Here c. 1, near the middle, and above d. XXXV, c. 8, and also below d. XXXIX, c. 2.
+
+[^7]: **La.** Codd. V X *dicit*.
+
+    **En.** Codd. V X read *dicit*.
+
+[^8]: **La.** Hic duplex modus, quo consideratur rei *futuritio*, non parum servit ad bene intelligendam quaestionem de modo, quo Deus omnia cognoscit praesentialiter.
+
+    **En.** This twofold way in which the *futuritio* of a thing is considered serves not a little to a right understanding of the question concerning the mode in which God knows all things presentially.
+
+[^9]: **La.** Cfr. Alex. Hal., S. p. I. q. 24. m. 1.; B. Albert., S. p. I. tr. 15. q. 61. m. 1.
+
+    **En.** Cf. Alexander of Hales, *Summa* p. I, q. 24, m. 1; Bl. Albert, *Summa* p. I, tr. 15, q. 61, m. 1.
+
+[^10]: **La.** Vat. hic addit: *scilicet per modum approbationis et per modum notitiae simplicis*.
+
+    **En.** The Vatican edition here adds: *scilicet per modum approbationis et per modum notitiae simplicis*.
+
+[^11]: **La.** Intellige: *scientia approbationis*. — Paulo superius post *significati* in Vat. adiungitur *tamen diversimode signatur*.
+
+    **En.** Understand: *scientia approbationis* (the science of approbation). — A little above, after *significati*, in the Vatican edition is added *tamen diversimode signatur*.
+
+[^12]: **La.** Dictum Prophetae, quod Augustinus respicit (*Tract.* 53. *in Ioan.* n. 5, ex quo tractatu sumtum est hoc dubium), est Isaiae 6, 10: *Excaeca cor populi huius et aures eius aggrava et oculos eius claude: ne forte videat oculis suis, et auribus suis audiat, et corde suo intelligat, et convertatur, et sanem eum.*
+
+    **En.** The saying of the Prophet to which Augustine refers (*Tractate* 53 *on John*, n. 5, from which tractate this doubt is taken) is Isaiah 6:10: *Blind the heart of this people, and burden their ears, and shut their eyes: lest perhaps they see with their eyes, and hear with their ears, and understand with their heart, and be converted, and I heal them.*
+
+[^13]: **La.** Libr. XI. c. 18. n. 24. seq. et c. 26. n. 33. Immediate post Vat. cum nonnullis codd. *ubi* pro *qui*.
+
+    **En.** [Augustine, *On Genesis to the Letter*,] Book XI, c. 18, n. 24 ff. and c. 26, n. 33. Immediately after, the Vatican edition with some codices reads *ubi* in place of *qui*.

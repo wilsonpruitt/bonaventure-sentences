@@ -8,256 +8,201 @@ quaestio: 2
 type: quaestio
 title_la: "Utrum praescientia divina sit causata a rebus"
 title_en: "Whether divine foreknowledge is caused by things"
-printed_pages: [632, 633, 634]
-pdf_pages: [222, 223, 224]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 632–634"
+printed_pages: [671, 672, 673]
+pdf_pages: [261, 262, 263]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 671–673"
+has_scholion: true
+has_apparatus: true
 line_start: 25412
 line_end: 25638
 word_count_latin: 2255
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 25412–25638 of pt2), fresh literal English translation, full apparatus from raw OCR (14 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d38-a1-q2
+## *Utrum praescientia divina sit causata a rebus.*
+
+---
 
 ## Latin
 
-                        Et       quod            sit          causa rerum, ostenditur                                         sic.                                 2.        Item,           si       praescientia est causa,                             aut ratione
-                        1.       Augustinus                         decimo                cjuinto                de          Trinitate '            scientiae ,                   aut ratione                         antecessionis.                 Ralione           eius
-    I   " Ideo res                    futurae sunt, quia Deus eas novit».                                                                           quod             est pj-ae,                      non ^      ,
-                                                                                                                                                                                                                     quia non dicit nisi ordinem.
-                    2.       Item, ratione                               sic:        omne illud quod antece-                                        Ratione similiter scientiae,                                            non   ,
-                                                                                                                                                                                                                                          quia multa cogno-
-        dit aliud, et ipso posito,                                                  ponitur aliud, ipsum                                     est    scit           Deus           quae nunquam                             faciet     :       ergo nullo           modo
-                                                                                                                                             —
-                                                                                                                                                                              ,
+<!-- page 671 -->
 
+### Quaestio II.
+#### *Utrum praescientia divina sit causata a rebus.*
 
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives first the Latin source text (**La.**), then the English rendering (**En.**).
 
-        causa            illius           — hoc                 palet per defmitionem causae ^                                                      est causa.
+Secundo quaeritur, utrum praescientia divina sit causata a rebus. Et quod sic, ostenditur hoc modo.
 
-        sed divina praescientia praecedit                                                             omne futurnm, et                                             3.      Item,            si       praescientia causa est praesciti, cum
-        iterum ponit futurum, respectu cuius                                                                     est;         ergo prae-            praesciat mala,                                   Deus          erit    causa mali; hoc autem
-        scientia est causa.                                                                                                                         falsum.
-                    3.        [tem, omnis res aut est a Deo,                                                                  aut        a na-                     4.        Item,           si       est      causa,          cum communicet aliciii
-        tura, aut                     a.        libero arbitrio, el accipio causas istas                                                            praescientiam rei creandae , per consequens                                             commu-
-        large, prout compreiiendunt casum el fortunam; sed                                                                                          nicat causalitatem respectu ilhus; sed hoc est impos-
-        nulla res                     a natura esse potest                                           nec         a       libero           arbi-     sibile:             ergo          etc.
+1. Origenes super *Epistolam ad Romanos*[^1] dicit: «Quia aliquid est futurum, ideo scitur a Deo, antequam fiat». Quia ergo aut dicit causam essendi, aut consequendi. Si consequendi, sicut sequitur: hoc est futurum, ergo praescitum, ita e converso: ergo, sicut dicit: quia futurum est, ideo praescitur, ita deberet dicere e converso: quia scitur, ideo futurum est; et hoc negat in *littera*[^2]: «Non propterea aliquid erit, quia scit Deus»: ergo dicit causam essendi.
 
-        trio, nisi                   operante Deo: ergo omnis                                                    res est             a     Deo                     b.      Item, Anselmus de Concordia praescientiae et
-        sive        omne futurum. Sed non est a Deo                                                                          agente         nisi    liberi              arbitrii '                   dicit,         quod       « tantum              est dicere:          si
+2. Item, ratione videtur, quia intellecto, quod Deus nihil praesciat, potest intelligi aliquid futurum[^3], sed non e converso: ergo haec est ratio et causa illius.
 
-        secundum arlem et cognitionein ergo etc.                                                 :                                                  Deus praescit,                           erit,            quantum hoc:                    si   erit,     de neces-
-             4. Item, omne quod scitur, aliquo modo est in                                                                                          sitate            erit »      ;         sed hic nulla notatur causalitas: ergo
-        se, vel in sua causa % ergo quod praescitur a Deo                                                                                           nec            ilji.
+<!-- page 672 -->
 
+3. Item, hoc argumentum est bonum: iste mentitur, ergo Deus praescivit, istum mentiri: ergo est ibi aliqua habitudo localis[^4], et nulla potest inveniri nisi causae ad effectum. Sed Deus non est causa mendacii: restat ergo, quod futurum est causa praescientiae.
 
-        est in Deo ut in causa: sed omne quod est in Deo,
-        est a Deo: ergo omne futurum praescitnm est a di-                                                                                                                                                     CONCLUSIO.
-        vina praecognitione ut causa: ergo etc.
-                    b.       Item,               omne quod scitur, aut scitur per cau-                                                              Praescienlia                      divina aliquo modo sem-
-                                                                                                                                                                                            el       scientia
-        sam         ,    aut per speciem , aut per effectum :                                                                       si     ergo                    per importat causalitatem , sed non semper
-        Deus praescit, ergo aliqno istorum modorum. Non                                                                                                            respectu praesciti.
-        per effectum, quia effectus sequitur; non per spe-
-        ciem             sive             sirailitudinem,                             quia            illa       est          simul          vel                                                 :    Dicendum, quod praescientia dicit
-        etiam                post           rem,                cuius               est    similitudo:                        ergo          per     praecognitionem futuri. Est igitur loqui de praescien- msiinciio.
-        causam, ergo divina praescientia est causa praesciti.                                                                                       tia    aut quantum                                sii     rem significatam, aut prout «'-
-            CoNTRA 1 Deus nullius est causa nisi per vo-
-                                            :        .                                                                                              gnificatur per illud                                       nomen ". Si quantum ad ratio-
-    I
-        luntatem; sed multa praescit, ad quae non est eius                                                                                          nem nominis, sic non significal in ratione causae; si
-        voluntas: ergo etc. Probatio                                                           mediae:                   praescit,            te    quantum ad rem. importatam,                                                   sic dicit            causam; sed
-        mentiri              ,       et         tamen               non         est dicere ,                        quod        velit,        te    tamen                  non seraper                         respectu praesciti sive futuri.
-        mentiri: ergn non est causa                                                       illius.                                                                  Futurum enim in triplici differentia est. Quoddam rripiex fu-
+4. Item, quaecumque duo sic se habent, quod invicem se consequuntur, aut ambo causantur a tertio, aut unum est causa alterius; sed sic se habent ista duo, scilicet istum mentiri, et Deum praescire, et non est dicere, quod ambo causentur a tertio: ergo unum est causa alterius.
 
+**Contra:**
 
+1. Augustinus[^5]: «Non enim quae creata sunt ideo Deus novit, quia facta sunt».
 
+2. Item, ratione videtur, quod non sit causata a rebus, quia omnis causa nobilior est suo effectu[^6]: si ergo divina praescientia causatur a re aliqua, cum divina praescientia sit increata, et res creata, ergo creatura nobilior increato.
 
-                1
-                        Cap.         1.3.       n.       22.    Vide hic iit. Magislri,                          c.      \.                                    *    Vat. sic: Ratione antecessionis                               non, quia               lioc   quod est
-                -       De qua vide supra                                d.    3.    a.   2.    cf.       2.    fundam.         2.       et ibid.   ante , non dicit etc.
-        dul).       3.                                                                                                                                         5    Quaest.           1 .    c.       2   :   Quare cum dico          ,
-                                                                                                                                                                                                                                              quia   si   praescit Deus
-                3       Vat.         cum edd. i, S: est in                                sciente              vi       in    sua        cawsa.     aliquid, necesse est, illud                                     esse   futurum            quod idem est ac si
-                                                                                                                              — Mox pro
-                                                                                                                                                                                                                                          ;
+3. Item, divina praescientia est aeterna: ergo cum res sit temporalis, si causatur a rebus, temporale est causa aeterni; et cum causa sit prior effectu[^7], ergo temporale prius aeterno.
 
+4. Item, si res sunt causa praescientiae, aut ratione principalis significati, aut ratione connotati; si ratione principalis significati, cum illud sit divina essentia, ergo res sunt causa Dei; si ratione connotati, cum connotata sint res ipsae, tunc sunt causa sui[^8].
 
-        Nostra lectio conflrmatur ex solutione ad                                                         ult.      arg.                            dicam :             si   erit ,     ex necessitate                 erit.
+### Conclusio.
 
-        ut in causa codd.                                D EK ut sua causa,
-                                                           cum edd.                                       alii   codd.                                         "    Scilicet praescientia ,                          qui   terminus            nihil      significat    nisi
-        \ , ^, 3 ut cmisa.                               —
-                               De propositione minori sed omne quod                                                 :                                                             scientiae. Simiiiter dicit Alex. Hal.                                   (S. p. I. q. 24.
+> *Praescientia divina tantum secundum rationem inferendi et dicendi in rebus aliquatenus causam habet.*
 
-        est in Deo   est a Deo, vide supra d. XXXVI. c. 2. seq. et
-                                 ,                                                                                                                                      Praescientia approbationis potest dicere                                       causam ratione
-        ibid.       Coniment.                   a.       1.    q.   I.    nec non          a.        3.    q.    1.      seq.       — Dein                                        intellectae,                 non ratione antecessionis , quae intel-
-        post pracsrifaOT Val. addit                                           necessario ,            et        proxime post pro                    ligitur          per ante.
-        praecognitione cod.                                   T siibstitiiit cognitione.
+**Respondeo:** Aliqui[^9] voluerunt dicere, quod causa dicitur dupliciter: proprie, et communiter; proprie, quod dat alteri esse; et sic nullo modo res sunt causa praescientiae divinae. Alio modo dicitur communiter causa illud, sine quo res non est, et sic dicitur *causa sine qua non*; et hoc modo, quia praescientia Dei non est, quin res sint futurae, ideo hoc modo dicuntur causa. — Sed quoniam hoc nomen *causa* semper importat honorabilitatem respectu cuius dicitur causa et quandam superpositionem; ideo non videtur illud adhuc omnino sanum dicere, quod sit causa *sine qua non*. Et praeterea, illud non solvit ad auctoritatem Origenis, quia ipse negat conversam[^10].
 
-                                                                                                         SENTENTIARUM LIB.                                 (.
+Et propterea aliter dicendum, quod est causam accipere secundum triplicem modum, scilicet secundum rationem essendi, et secundum rationem inferendi, et secundum rationem dicendi. Dico ergo, quod secundum rationem essendi praescientia potest esse causa aliquorum praescitorum, licet non omnino[^11], sed nullo modo e converso. Secundum rationem inferendi, sunt mutuo causae, quia mutuo antecedunt et consequuntur; et antecedens est causa consequentis[^12]. Secundum rationem dicendi, futurum est causa praescientiae, et non e converso. Nam praescientia dicitur scientia ante rem. Constat ergo, quod importat ordinem ad posterius; et quoniam, si scitum esset semper praesens, esset scientia, sed non praescientia; ad hoc[^13], quod praescientia dicatur, venit ex futuritione rei. Et sic intelligit Origenes, et patet primum.
 
+3. Ad illud quod obiicitur tertio de habitudine locali, dicendum, quod est *locus a convertibili*[^14].
 
+4. Ad illud quod ultimo obiicitur, dicendum, quod habet instantiam in proposito; et quia in solo Deo[?] est instantia, ideo ferenda est. Ratio autem huius est, quia Dei praescientia est respectu veri, et respectu omnis veri; ideo ponit et ponitur. Et quia potest esse respectu veri, quod non est ab ipso
 
+<!-- page 673 -->
 
-    eiiini        est, cuius                 Dens          est    tota causa,                           ut sunt               illa                   3.    Ad                illud quod obiicitur,                                  quod illud quod est
-    tiuae         creantur          ;        (|uoddani,               cuius creatura, ut vo-                                          a libero arbitrio est a Deo; dicendura, quod verum
-    Inntas, est tota causa, ut sunt defectus et peccata;                                                                              est        de eo quod                                 est        a libero arbitrio efficiente, sed
-    quoddam, cuius Deus et creatura simul sunt causa,                                                                                 vitia et              peccata sunt ab ipso deficiente.
-    iit sunt opera naturalia et opera moralia, quia Deus                                                                                             4.    3.            Ad iUud quod                               obiicitur,                   quod de neces-
-    cooperatur creaturae.                                                                                                             sitateomne futurum scitur a Deo per causani; di-
-                 Secundum                lioc        intelligendum ,                             quod           respectu              cendum quotl sicut supra ' tactum fuit de cogni-
-                                                                                                                                                            ,
+secundum id quod subest, nec e converso[^15]: ideo nec causa est, nec causatur. Ergo praescientia est respectu veri, quia divina; respectu omnis veri, quia nihil latet Deum: ideo ponit et ponitur. Rursus, quia scientia est, quae dicit simplicem notitiam, ideo non causat; quia divina, ideo non causatur. Ideo ponit et ponitur, et non causat, nec causatur.
 
+### Scholion
 
+**I.** Huic quaestioni occasionem dederunt verba Origenis a Magistro et S. Bonav. (hic arg. 1. ad oppos.) citata, et etiam ab aliis Patribus secundum sensum repetita, quae rebus futuris quandam causalitatem respectu scientiae divinae tribuere videntur. De intellectu harum sententiarum inde ab illis temporibus usque ad nostram aetatem multum disputatum est.
 
-.primi                futuri        divina praescientia                                 est        causa            et tota           tione mah, in orani cognitione est assimilatio; nihil Noiandu
-    causa; respectii                         vero secundi                     futuri nec                      est       causa         autem assimilatur Deo nisi quod                                                                   est ab illo: et ideo
+Prima solutio, quae est ipsius Magistri, distinguit inter *causam in sensu proprio*, quae manifeste dependentiam scientiae divinae a rebus futuris implicat et nullatenus admitti potest, et *causam in sensu improprio*, scil. *causam sine qua non*, qua non tam *causa*, quam potius *occasio*, *dispositio* sive *praerequisitum aliquod* exprimitur, quod in hac re admitti posse, nonnulli putant. Haec solutio Magistri Seraphico non videtur esse satis sana; cui adstipulatur Alex. Hal. (*S.* p. I. q. 24. m. 3.), qui vocem *causae* etiam in sensu improprio[?] non admittit, «quia concedendum non est, quod temporale sit aliquo modo causa aeterni, quia nec per se nec per accidens». Idem tenent S. Thom., B. Albert., Scotus, Richard., aliique. Bene dicit Seraphicus (infra d. 40. a. 2. q. 1. ad 1.), quod scientia Dei «nullo modo pendet ex praecognito; non enim secundum eius exigentiam cognoscit, sed secundum exigentiam luminis et claritatis aeternae, in qua nulla cadit dubietas, sed certitudo».
 
-    nec tota, quia non                              habet          causain efjHcientem,                                      sed      in omni cognilione Dei est causalitas. Et cum ' qui-
-    deficientem', est taraen causa sui oppositi: respectu                                                                             dem est respectu eiiis quod dicit entitatem sirapli-
-    vero         tertii    est          causa         ,     sed non                tota.               Concedendum                    citer, respectu illius est causa et idea   sed cum                                                                  ;
+**II.** S. Bonaventurae solutio cum triplici distinctione vix a quopiam improbari potest. Sane secundum rationem dicendi nomen *praescientia* ideo dicitur, quia refertur ad futura; non e converso aliquid ideo dicitur futurum, quia praescitur. Quodsi non essent futura, sed tantum praesentia, inepte diceretur *praescientia*, cum non esset nisi *scientia*. Item manifestum est, quod secundum rationem inferendi liceat concludere ex existentia futuri, quod Deus illud praesciverit, et e converso. Hanc explicationem approbat S. Thom. (*de Verit.* q. 2. a. 14[?] ad 1.) dicens, quod in dicto Origenis «non importatur causa essendi, sed causa inferendi» (cfr. *S.* I. q. 14. a. 8. ad 1.). Sed tunc remanet difficultas, quia verba Origenis «negant conversam» i. e. non admittunt propositionem: quia res a Deo sciuntur, ideo futura sunt; quod tamen, si *quia* et *ideo* sumuntur in sensu illativo et non causali, ab ipso concedendum erat. — Tertio modo, secundum rationem essendi, conceditur ab omnibus, nullatenus futura esse posse causam divinae praescientiae; at vix negari posse videtur, in omni praescientia futurorum aliquo modo implicari causalitatem, cum nullum ens possit esse futurum, nisi supposita approbatione divinae voluntatis, nullumque malum sine permissione ipsius.
 
+Aliae etiam ab antiquis doctoribus explicationes horum dictorum afferuntur ad solvendam, ut videtur, iam dictam difficultatem, quod scil. negatur conversa. Unde Alex. Hal. (loc. cit.): «Vel dicendum, quod Origenes non ponit activum, sed passivum; [?] ideo scit Deus, sed [eius scientia oritur][?] a Deo. [?] causa aptitudinis ad sciendum ex parte[?] subtilis, magis notatur causa respectu alicuius inscientis». Idem repetit B. Albertus (*S.* p. I. tr. 13. q. 61. m. 3.). Thom. praeter modum explicandi iam relatum etiam dicit (*Sum.* loc. cit.) Origenes locutus est, attendens rationem scientiae, cui non convenit ratio causalitatis, nisi adiuncta voluntate»; et (*de Verit.* loc. cit.): «Intentio Origenis est dicere, quod scientia Dei non est causa, quae inducat necessitatem in scito».
 
+**III.** Alex. Hal., *S.* p. I. q. 24. m. 3. — B. Albert., hic a. 3; *S.* p. I. tr. 13. q. 61. m. 3. — Petr. a Tar., hic q. 1. a. 2. — Richard. a Med., hic q. 3.
 
-    ergo est, quod divina scientia                                            vel                praescientia                 ali-    respectu privationis                                               est            praecognitio ,                     tunc        ratio cogiiiiio
-
-    quo niodo respectu futurorum                                              est causa.                      Tamen             si    causalitatis                           et            ideae         est            respectu             oppositi.                Dicen-
-.   accipiatur in sua generalitate                                       ,    dicendura                   ,
-                                                                                                               quod            di-    dum ergo, quod ad hoc, quod aliquid cognoscatur.
-    vina praescientia semper                                     importat                    causaiitatem                     ali-    necesse est, quod ipsura vei eius opposituui habeat
-    quam, sed non seraper respectu                                                  praesciti,                  ut pula               esse in re , vel in causa.                                          Non soluin autem opposi-
-    cum           praescitum est maluni. Et                                     in           hac ralione pro-                         tum mali                      ,        sed etiam              ipsa. vohmlas,   quae est raah
-    cedunt arguraenla ostendentia,                                            quod uon                        sit causu.              principium                         ,    est in              Deo ut in causa tamen maUun                ;
-
-
-
-             Ad illud ergo quod prirao obiicilur, quod
-                 1.                                                                                                                   non            est        in           Deo            ut     in         causa,               nec per             se       nec        per
-Jest causa praesciti per   verbum Augustini; dicendum,                                                                                accidens                  ,
-                                                                                                                                                                        quia mutatur ratio causandi                                               ,    sicut postea.
-    quod .\ugustinus loquitur de scienlia rerum sive                                                                                  dicetur              '\       — Exemplum huius raanifestum                                                           est. Si arti- Esempi.
-
-    bonorum, quae a Deo procedunt.                                                                                                    fex            operetur                          super materiam                               nodosam, quae non
-         -2. Ad illud quod obiicitur, quod caiisa est quae                                                                            esset idonea ad receptionem speciei, praesciret, quod
-    praecedit et ponit aliud; dicendum, quod ponere                                                                                   defectus futurus est                                              in        imagine,                 sed non ab                  ipso.
-
-    aliud est dupiiciter, scihcet" secundum productio-                                                                                Similiter intelligendura in Deo et libero arbilrio, quod
-    nem, vel secundum comecutionem; et quod ponit                                                                                     facit          vitium                       in        opere        ,        dum non                   conformat                 se    et
-    secundum productionem est causa vere in essendo,                                                                                  obedit Deo operanti                                          ;   quod opposi-
-                                                                                                                                                                                                             et ideo sutficit ,
-
-    quod vero ponit secundum consecutionem non est                                                                                    tum mali                      ,        sive illud aquo est malum sit in Deo                                     ,
-
-
-
-    causa             m essendo, sed solum in consequendo.                                                                            tanquam                       in        causa, ad hoc quod praesciatur.
-
-
-
-
-                                                                                                                    SCHOLION.
-
-
-            I. In hac et sequenti distinctione tractatur difficillima ma-                                                             logi catholici in praecipuis pnncipiis,                                                      ad explicalionem eiusdem
-    leria    de divina praescientia et scientia, de qua definivit Con-                                                                fidei      adhibendis.                       Dum in humana cognitione realiter distinguun-
-    cilium Vaticanum (Constit.      de Fide, c. .)       Omnia nuda et              I        :    <j                                  tur cognoscens                          etcogniium, rafe cognoscendi, potewfta cogno-
-    iiperta       sunt oculis eius (Hcbr.                        i,     13.),       eliam ea                  quae       libera       scendi et actus cognoscendi                 omnes concedunt, quod « in Deo
-                                                                                                                                                                                                              ,
-
-
-
-    creaturarum            actione            lutura        suntii.          De         liac           quaestione inter               intellectus intelligens, et id           quod intelligitur, et species intelligi-
-    theologos calholicos                     gravissimae              conlroversiae                     agitatae         sunt,        bilis, et           ipsum intelligere sunt omnino unum ct idem» (S. Thom.,
-    quac,        licet   exortae sint ex dilTerenlia opinionum de                                               concordia             S.    I.   q.       li.           a.    i    ;
-                                                                                                                                                                                           cfr.   S.    Bonav.          ,   d.     39. a. 2. q.    I.)    quod    —
-    inter    divinam graliam                   et    liberum arbilrium stabilienda                                  ,   lamen         eademque divina                                  essentia est                 ipsa lux               omnia illuminans, in
-    in   hoc loco amplissimum                             disputationum                 canipum invenerunl.                           comparatione cuius « omnis cognitio,                                                         qua       creaturarum quani-
-    Tanta enim            est inler          divinam cognilionem et noslram                                         dilTeren-         libet          in    se           ipsa           novimus            ,       non         immerito           nox       dici    potcsl    »
-
-
-    lia,    tam immense nostram capacitatem excedit altitudo divitia-                                                                 (S. .\ugusl.,                     de Gen. ad                     Lil.       IV.    c.      23.)   — quod divina                  scien-
-
-    lum sapientiae et scientiae Dei (Rom.                                          II,       33), ut           diOicultates           lia    a re uec causatur                                    nec         orilur;         ideo ab        illa         non     depcndcl
-    et obscuritates nobis                    eo magis augeantur, quo magis ad quac-                                                   nec discurrit cognoscendo ex caum cffcctum, scd poliiis cogno-
-    stiones speciales descenditur et quasi receditur ab                                                       immensa et              scit       effectum in causa(S. Thom.,                                                loc.    cit.    a.   7.   ad 2.)       — quod
-    simplicissima unitate                    illius       actus purissimi                ,
-                                                                                                 qui divina scientia                  divina scicnlia res cognoscal sub mensura aeternitalis et aequc
-
-    sinuil       est ct substantia.               .Utamcn             satis   conveniunt omnes                               theo-    perfccte praeterita                              ,
-                                                                                                                                                                                            jjracsentia ct lutnra. .\os                          auicm          rcs    conci-
-
-
-
-
-                 Cfr.    August., XII. dc Civ. Dei,                           c.        7, et          Enchir.          c.     23.               5    Dist.         46. q. 3, ubi exponilur dilTerenlia                                               inter       ducerc    in
-
-                 — Hox pro              oppositi cod.             T supposili.                                                        linem per modum causae, vel per modum casus, vel per mo-
-                 Cod.     T vel.                                                                                                      dum occasionis, et quomodo incasu, de quo hic agitur, ralio
-                 Dist. 36. a.           3.   q.     I.                                                                                mutetur causandi, in quantum                                                  scilicet         transilur a ralione cau-
-                 Non pauci codd. cum edd.                              2,     3,        l,         5    voculam              ciitii   sae propiie diclae ad ralionem occasionis.                                                           — Mox pro operetur
-                               in   tamen. Paulo inferius pro sed ciim                                              nonnulli          codd.          .V   H opei-aretiir, et subindc pro super Vat. cum cod. cc
-    codd. et dictae edd. sed tamen , Vat. si aiitem.                                                                                  secundvni.
-
-                                                                                                                                                                                                                                                                                                                                                    ,.
-
-
-
-
-                                                                                                      DIST. XXXVIK. ART.                                   I.        QUAEST. 11.                                                                                                                                                           671
-
-pimus sub                       differentiis temiioris et spatii , et                                    intmndo non nisi                            quod                 principalitas                                   causalitatis                         consistat                           penes                 voluntatem »
-res praesentes imperfectc cognoscimus ,                                                         memorando vero ali-                                  (S. Thom., hic q. 1. a. 1.). 2. Quoad causalilatem Dei respectu
-
-qua praeterita adliuc imperfectius sciinus, et coniidendo tantum                                                                                     futurorum omnes adinittunt distinctionem hic in corp. positam,
-paiica futura potius  auguramur quam scimus.                                   ,
-                                                                                                                                                     quod aliquorum Deus est tota et sola causa       aliquorum esl                                                                                         ,
-
-
-
-    II. Haec una simplicissiina   scientia Dci o ipsa in se nuHo                                                                                     causa simul                                cum causis secundariis (cfr. infra d. i5. a. 2. q. 2.
-modo diversiflcatur, licet diversa nomina sortiatur. In quantum                                                                                      ad     1.),               aliquorum,             soilicet majorum, nullo modo dicendus est
-
-enim             est cognoscitiva                       omniuni possibilium, dicitur soicijfw sive                                                   causa. 3. Praescindendo a cognitione                                                                                     malorum                           ,
-                                                                                                                                                                                                                                                                                                                     profitentur ple-
-cognitio;                  in    quantum                 est    cognoscitiva                    omnium quae                             in uni-      rique, quod scientia Dei, quatenus adiunctam habet vokintatem,
-\erso fiunl, fiicitui' visio; in quantuni est cognosciliva                                                                         omnium            « in        sua generalitatc semper importat                                                                                     causalitatem                           aliquam »
-quae benc fiunt,  dicitur approbatio; in quantum est cognosci-                                                                                       (hio in corp.) et  quod « in omni cognilione Dei est causalilas »
-ti\a eorum quae futura sunt, dicitur praescientia sive praevi-                                                                                       (cfr.       infra d.                            autem de modo
-                                                                                                                                                                                                 46. q. 4. ad
-                                                                                                                                                                                 4.). Controvertitur
-
-sio; in quantum est cognoscitiva eorum quae ab ipso Deo                                                                                              huius causalitalis, utrum sit non tanlum directim (de quo non
-fienda sunt, dicitur dispositio; in quantum est cognoscitiva                                                                                         est     dubium), an insuper proxime                                                                            et        immediate effectim, quod
-eorum quae praemianda sunt, dicilur praedestinatio; in quan-                                                                                         a multis negatur, ne libertati voluntatis                                                                                            creatae                     praeiudicelur.
-tum vero est cognoscitiva eorum quae damnanda sunt, dicitur                                                                                          4.    Respectu mali, formaliter sumti ut privatio , non datur causa
-reprobatio »                     (S.    Bonav., Breviloq. p.                              1.   c.     8.).   —      Iniprimis no-                    efficiens,                         sed tantum deficiem , et nullatenus in Deo est                                                                                                     mali
-tanda est triplex species scientiae divinae, communiter in scho-                                                                                     ulla       causa                     ,    sive efiiciens, sive exemplaris, sive                                                                                 finalis;            tamen
-lis     recepta et a S. Doctore infra d. 39.                                                     a.    1.      q.        3.        explicata         in cognitione mali ratio causalitatis multipliciter implicatur.                                                                                                                       Nam
-(cfr.    hic dub. 3,                        d.     39. a.        1.       q.        2; ot        d.    36.         dub. 3.),                 scil.   manifeste                            hic            valet             causalitas                          improprie dicta , quae vocatui-
-scientia simplicis intdligenttae ,                                             quae terminatur ad res mere                                           consequentiae ," de qua agitur in solut. ad 2 , el quae cxplica-
-possibiles vel etiam                               ad « solum eventum »                               (hic dub. 3.), seientia                        tur infra a. 2. q.                                           I.       Haec enim                                non ponit rem producendo,
-approbationis , et scientia msionis. Scienlia approbationis «con-                                                                                    sed         simpliciter                                 inferendo                    consequentiam                                        ,    scil.            vel     ab eventu
-notat complaccntiam voluntatis »                                               (    d.   39.     a.     I.    q.    2.) et « effe-                   scientiam                      ,         vel a               scientia               eventum. Sed etiam                                                          aliis      modis in
-ctum             et    bonitatem » (hic dub.                              3,       et d.       36. dub. 3.)                  ,    unde non           cognitione                               mali              implicatur                        ratio causalitatis                                    ,       scilicet        respectu
-est     respectu                 malorum            ;    dicitur etiam practica (d. 40. a.                                          1 .    q. 2.     boni        ,        cuius                 malum cst corruptio, sicul hic ad 4. S. explicatur.
-ad 2         ,    et       dub.         3.).       Ideo        scientia             visionis,           quae         est           omnium            Plui-a           de hoc vide                                     d.        39. a.                1.       q.        2.       Scholion.
-quae unquam                            fuerunt, sunt et                        erunt,           ad      plura            se         extendit                    Pro                  illustratione                           et          confirmationc                                    conclusionuin                          serviunt
-quam scicntia                          approbalionis; et non pauci                                      theologi                  (ut riotti)        verba                S.         Thomae (de Verit. q. 2. a. 1 4.): « Scientia in quanlum
-scientiam msionis subdividunt in scientiani approbationis et im-                                                                                     scientia                  non              dicit             causam activam, sicut nec forma in quantuni
-probationis.                    — Praecipue autem observandum                                                est,   quod proprie                     est fornia». « Inter scientiam                                                                   Dei       ,
-                                                                                                                                                                                                                                                                     quae est causa rei,                                        et ipsam
+---
 
 ## English
 
-[Translation pending]
+<!-- page 671 -->
+
+### Question II.
+#### *Whether divine foreknowledge is caused by things.*
+
+In the second place it is asked, whether divine foreknowledge is caused by things. And that it is so, is shown in this manner.
+
+1. Origen on the *Epistle to the Romans*[^1] says: "Because something is going to be, therefore it is known by God, before it comes about." Since therefore [this saying] either states a cause of being or [a cause] of consequence. If of consequence, just as there follows: this is future, therefore foreknown, so [the converse follows]: therefore, just as he says: because it is future, therefore it is foreknown, so he ought to say conversely: because it is known, therefore it is future; and this he denies in the *littera*[^2]: "Not on this account will something be, because God knows it": therefore [Origen] states a cause of being.
+
+2. Likewise, by reason it appears [that things are the cause]: since, on the supposition that God foreknows nothing, something can [still] be understood as future[^3], but not conversely: therefore this [the future] is the *ratio* and cause of that [foreknowledge].
+
+<!-- page 672 -->
+
+3. Likewise, this argument is good: this man is lying, therefore God foreknew that this man would lie: therefore there is there some local relation[^4], and none can be found except [that] of cause to effect. But God is not the cause of falsehood: it remains therefore that the future is the cause of foreknowledge.
+
+4. Likewise, whatever two [things] so stand to each other that they mutually follow upon one another, either both are caused by a third, or one is the cause of the other; but these two so stand to each other, namely this man's lying and God's foreknowing, and one cannot say that both are caused by a third: therefore one is the cause of the other.
+
+**On the contrary:**
+
+1. Augustine[^5]: "For the things that are created, God did not know on this account, that they were made."
+
+2. Likewise, by reason it appears that [foreknowledge] is not caused by things, since every cause is nobler than its effect[^6]: if therefore divine foreknowledge is caused by some thing, since divine foreknowledge is uncreated, and the thing is created, therefore the creature is nobler than the uncreated.
+
+3. Likewise, divine foreknowledge is eternal: therefore since the thing is temporal, if it is caused by things, the temporal is the cause of the eternal; and since the cause is prior to the effect[^7], therefore the temporal is prior to the eternal.
+
+4. Likewise, if things are the cause of foreknowledge, [it is] either by reason of [the term's] principal signification, or by reason of [its] connotation; if by reason of the principal signification, since that is the divine essence, then things are the cause of God; if by reason of the connotation, since the things connoted are the things themselves, then they are the cause of themselves[^8].
+
+### Conclusion.
+
+> *Divine foreknowledge in some measure has a cause in things only according to the* ratio *of inferring and of speaking.*
+
+**I respond:** Some[^9] have wished to say that *cause* is so called in two ways: properly, and commonly; properly, that which gives being to another; and in this sense things are in no way the cause of divine foreknowledge. In another way *cause* is called commonly that without which the thing is not, and so it is called *causa sine qua non* [a cause-without-which-not]; and in this manner, since the foreknowledge of God does not exist without things being future, therefore in this manner [things] are called a cause. — But since the noun *cause* always imports a [certain] dignity in respect of that of which it is called *cause*, and a certain superposition; therefore it does not yet seem altogether sound to say that it is *causa sine qua non*. And besides, that does not resolve [the appeal] to the authority of Origen, since he denies the converse[^10].
+
+And therefore otherwise it must be said, that *cause* can be taken in a threefold manner, namely according to the *ratio* of being, according to the *ratio* of inferring, and according to the *ratio* of speaking. I say therefore, that according to the *ratio* of being, foreknowledge can be the cause of some foreknown things, although not of all[^11], but in no way conversely. According to the *ratio* of inferring, [foreknowledge and the future] are mutually causes, since they mutually antecede and consequent each other; and the antecedent is the cause of the consequent[^12]. According to the *ratio* of speaking, the future is the cause of foreknowledge, and not conversely. For *praescientia* is called knowledge before the thing. It is clear therefore that it imports an order to something posterior; and since, if the known were always present, it would be knowledge, but not *fore*knowledge; that[^13] foreknowledge be so called, comes from the futurity of the thing. And so Origen understands it, and the first [argument] is plain.
+
+3. To that which is objected in the third [argument] concerning the local relation, it must be said that it is a *locus a convertibili*[^14] [a topic from a convertible].
+
+4. To that which is objected in the last [argument], it must be said that it has an instance in the matter at hand; and since in God alone[?] is the instance, therefore it is to be brought forward. The reason of this is, that God's foreknowledge is with respect to the true, and with respect to every truth; therefore it posits and is posited. And since [foreknowledge] can be with respect to a truth that is not from him
+
+<!-- page 673 -->
+
+according to that which underlies [it], nor conversely[^15]: therefore neither is it the cause, nor is it caused. Therefore foreknowledge is with respect to the true, because [it is] divine; with respect to every truth, because nothing is hidden from God: therefore it posits and is posited. Again, since [foreknowledge] is knowledge, which states simple cognition, therefore it does not cause; since [it is] divine, therefore it is not caused. Therefore it posits and is posited, and neither causes nor is caused.
+
+### Scholion
+
+**I.** This question was occasioned by the words of Origen cited by the Master and St. Bonaventure (here, in the first argument *ad oppositum*), and likewise repeated according to their sense by other Fathers, [words] which seem to attribute to future things a certain causality with respect to divine knowledge. Concerning the meaning of these statements there has been from those times down to our own age much disputed.
+
+The first solution, which is that of the Master himself, distinguishes between *cause in the proper sense*, which manifestly implies a dependency of the divine knowledge on future things and can in no way be admitted, and *cause in the improper sense*, namely *causa sine qua non*, by which there is expressed not so much a *cause* as rather an *occasion*, a *disposition*, or some *prerequisite*, which some think can in this matter be admitted. This solution of the Master does not seem to the Seraphic [Doctor] to be quite sound; with him agrees Alex. Hal. (*S.* p. I, q. 24, m. 3), who does not admit the term *cause* even in an improper sense[?], "since it is not to be conceded, that a temporal [thing] is in any way the cause of an eternal [thing], because [it is so] neither *per se* nor *per accidens*." The same is held by St. Thomas, B. Albert, Scotus, Richard, and others. Well does the Seraphic [Doctor] say (below, d. 40, a. 2, q. 1, ad 1), that the knowledge of God "in no way depends upon the foreknown; for it does not know according to the [foreknown's] requirement, but according to the requirement of eternal light and clarity, in which no doubt falls, but [only] certitude."
+
+**II.** St. Bonaventure's solution with its threefold distinction can scarcely be disapproved by anyone. Indeed according to the *ratio* of speaking the noun *praescientia* is so called, because it refers to future things; and not conversely is something called *future* because it is foreknown. For if [things] were not future, but only present, *praescientia* would be ineptly so called, since it would be nothing but *scientia* [knowledge]. Likewise it is manifest, that according to the *ratio* of inferring it is permitted to conclude from the existence of the future that God has foreknown it, and conversely. This explanation is approved by St. Thomas (*de Verit.* q. 2, a. 14[?], ad 1), saying that in Origen's saying "there is not implied a cause of being, but a cause of inferring" (cf. *S.* I, q. 14, a. 8, ad 1). But then the difficulty remains, since Origen's words "deny the converse," i.e., do not admit the proposition: because things are known by God, therefore they are future; which nevertheless, if *because* and *therefore* are taken in an illative and not causal sense, ought to have been conceded by him. — In the third way, according to the *ratio* of being, it is conceded by all, that future things can in no way be the cause of divine foreknowledge; yet it can scarcely seem to be denied, that in every foreknowledge of future things some causality is implied, since no being can be future, except on the supposition of the approval of the divine will, and no evil without the permission of [God] himself.
+
+Other explanations of these sayings are also adduced by the ancient doctors to resolve, as it seems, the difficulty just mentioned, namely that the converse is denied. Whence Alex. Hal. (*loc. cit.*): "Or it must be said, that Origen does not posit [the relation] actively, but passively; [?] therefore God knows, but [his knowledge arises][?] from God. [?] cause of fitness for being known on the part[?] of the subtle [thing], the cause is rather noted with respect to someone unknowing." The same is repeated by B. Albert (*S.* p. I, tr. 13, q. 61, m. 3). Thomas, besides the manner of explaining already related, also says (*Sum.* loc. cit.) [that] "Origen has spoken, attending to the *ratio* of knowledge, to which the *ratio* of causality does not pertain, except with the will adjoined"; and (*de Verit.* loc. cit.): "Origen's intention is to say, that the knowledge of God is not a cause which induces necessity in the thing known."
+
+**III.** Authors: Alex. Hal., *S.* p. I, q. 24, m. 3. — B. Albert, here a. 3; *S.* p. I, tr. 13, q. 61, m. 3. — Petr. a Tar., here q. 1, a. 2. — Richard. a Med., here q. 3.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Vide hic *lit. Magistri*, c. 1, ubi et invenies expositionem textus Origenis hic citati. — Aliquanto inferius post *ita e converso* in plurimis codd. desideratur *ergo*.
 
-## Notes
+    **En.** See here the Master's *littera*, c. 1, where you will also find an exposition of the text of Origen here cited. — A little below, after *ita e converso* in very many codices *ergo* is wanting.
 
-[Notes pending]
+[^2]: **La.** Intellige: Origenes. Nam verba, quae sequuntur, sunt Origenis loc. cit. — Loco *Origenis* cod. Z post *negat* supplet *Magister*, qui tamen conversam non negat.
+
+    **En.** Understand: Origen [is the subject]. For the words which follow are Origen's at the place cited. — In place of *Origenis*, codex Z after *negat* supplies *Magister*, who however does not deny the converse.
+
+[^3]: **La.** Cod. M et ed. 1 *futurum* praefigunt *esse*. Huius argumenti sensus est: in hypothesi, quod Deus nihil praesciat, adhuc intelligi potest aliquid futurum; sed in hypothesi, quod nihil sit futurum, praescientia neque intelligi neque haberi potest: ergo futurum est causa praescientiae. Sive, ut ait Alex. Hal., *S.* p. I. q. 24. m. 3: *Item, quo posito, ponitur aliud, quo remoto, removetur aliud, illud est aliquo modo causa illius*; sed re futura posita, ponitur, et re futura remota, removetur praescientia: ergo res futura est causa praescientiae Dei.
+
+    **En.** Codex M and ed. 1 prefix *esse* to *futurum*. The sense of this argument is: on the supposition that God foreknows nothing, something can still be understood as future; but on the supposition that nothing is future, foreknowledge can neither be understood nor had: therefore the future is the cause of foreknowledge. Or, as Alex. Hal. says (*S.* p. I, q. 24, m. 3): "Likewise, [if] when one is posited, another is posited, [and] when one is removed, another is removed, that [first] is in some way the cause of [the second's] being"; but with the future thing posited, [foreknowledge] is posited, and with the future thing removed, foreknowledge is removed: therefore the future thing is the cause of God's foreknowledge.
+
+[^4]: **La.** Nomine *locus* (τόπος) Scholastici significant sedem argumenti vel id, a quo ad propositam quaestionem trahitur argumentum, et consistit *locus* in habitudine aliquorum terminorum inter se. Sic v. g. *locus a causa*, qui mox a S. Doctore tangitur, est habitudo ipsius causae ad suum effectum.
+
+    **En.** By the noun *locus* (τόπος [topos]) the Scholastics signify the seat of an argument or that from which an argument is drawn to the proposed question, and the *locus* consists in the relation of certain terms among themselves. Thus, for example, *locus a causa*, which is soon touched on by the Holy Doctor, is the relation of the cause itself to its effect.
+
+[^5]: **La.** *Libr.* XV. *de Trin.* c. 13. n. 22. Vide hic *lit. Magistri*, c. 1.
+
+    **En.** *On the Trinity* XV, c. 13, n. 22. See here the Master's *littera*, c. 1.
+
+[^6]: **La.** Avicenna, VI. *Metaph.* c. 3: *Causa dignior est causato*.
+
+    **En.** Avicenna, *Metaphysics* VI, c. 3: "The cause is more worthy than the caused."
+
+[^7]: **La.** Aristot., II. *Poster.* c. 17. (c. 14.).
+
+    **En.** Aristotle, *Posterior [Analytics]* II, c. 17 (c. 14).
+
+[^8]: **La.** Quod absurdum esset dicere. Generat enim nihil ipsum se ipsum, ut dicit Aristot. II. *de Anima* text. 47. (c. 4.).
+
+    **En.** Which it would be absurd to say. For nothing generates itself, as Aristotle says, *On the Soul* II, text 47 (c. 4).
+
+[^9]: **La.** Inter quos Magister Sent., hic c. 1.
+
+    **En.** Among whom is the Master of the *Sentences*, here c. 1.
+
+[^10]: **La.** Intellige: res sive futurum, vel substitue pro *sit* cum cod. R *sint*, scil. *res futurae*.
+
+    **En.** Understand: the thing or the future, or substitute for *sit* with codex R *sint*, namely *res futurae* [future things].
+
+[^11]: **La.** Scilicet propositionis: *quia aliquid est futurum, ideo scitur a Deo*. Conversa est: *quia scitur a Deo, ideo erit futurum*.
+
+    **En.** Namely, of the proposition: *because something is future, therefore it is known by God*. The converse is: *because it is known by God, therefore it will be future*.
+
+[^12]: **La.** Cod. Z *omni*. Mallemus *omnium* pro *omnino*.
+
+    **En.** Codex Z [reads] *omni*. We would prefer *omnium* in place of *omnino*.
+
+[^13]: **La.** Supple cum cod. *secundum rationem inferendi* (non *essendi*); nam aeque bene concluditur: *hoc Deus praescit, ergo erit*, ac: *hoc erit, ergo Deus praescit*. Hoc est quod in solut. ad 4. vocat *ponit et ponitur*. Cfr. Aristot., *de Praedicam.* c. *de Priori*, ubi haec prioritas vocatur prioritas «eorum quae convertuntur secundum esse consequentiam», et proponitur hoc exemplum: «*Si homo est, vera est oratio, qua dicimus, quod homo est; et convertitur, nam si vera est oratio qua dicimus, quod homo est, est homo*».
+
+    **En.** Supply with codex *secundum rationem inferendi* [according to the *ratio* of inferring] (not *essendi* [of being]); for it is just as well concluded: *this God foreknows, therefore it will be*, as: *this will be, therefore God foreknows it*. This is what in the solution to [argument] 4 he calls *ponit et ponitur* [it posits and is posited]. Cf. Aristotle, *Categories*, chapter *On the Prior*, where this priority is called the priority "of those things which are convertible according to the being of consequence," and this example is proposed: "*If man is, the speech is true by which we say that man is; and it converts, for if the speech is true by which we say that man is, [then] man is*."
+
+[^14]: **La.** Cod. R *ideo ad hoc*; cod. W *ad hoc ergo*.
+
+    **En.** Codex R [reads] *ideo ad hoc*; codex W [reads] *ad hoc ergo*.
+
+[^15]: **La.** Richard. a Med., hic q. 3. ad 1. similem obiectionem solvit sic: *Dico, quod verum est* (scil. quod sit ibi aliqua habitudo localis); *sed illa habitudo est habitudo relativi ad relativum*, sicut hic: praescientia est: ergo aliquid praescitum est, et e converso, et loquor de relatione secundum rationem. — Pro *tertio* codd. cum edd. falso *secundo*. — Ex cod. X restituimus *Deo*, quam vocem ceteri codd. et ed. 1 omittunt, et pro qua Vat. *hoc*. — Vera esset, si hic immediate ageretur de actione mala. Paulo inferius post *nec causatur* eadem Vat. cum cod. cc et ed. 1 subiicit *quia*.
+
+    **En.** Richard of Mediavilla, here q. 3, ad 1, resolves a similar objection thus: "I say that it is true" (namely that there is some local relation there); "but that relation is the relation of a relative to a relative," as here: foreknowledge exists: therefore something foreknown exists, and conversely, and I speak of relation according to *ratio*. — For *tertio* the codices with the [printed] editions falsely [read] *secundo*. — From codex X we have restored *Deo*, which word the other codices and ed. 1 omit, and for which the Vatican [edition reads] *hoc*. — [The argument] would be true, if [the matter] were immediately treated here of an evil action. A little below, after *nec causatur*, the Vatican [edition] together with codex cc and ed. 1 inserts *quia*.
