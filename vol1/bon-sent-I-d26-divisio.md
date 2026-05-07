@@ -12,6 +12,8 @@ source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 450–451"
 has_scholion: false
 has_apparatus: true
 transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw/bonaventure_vol1_pt2_raw.txt lines 3219–3274), de-interleaved from two-column page-bottom layout, fresh literal English, 4-footnote apparatus from p.450 NOTAE AD COMMENTARIUM band (2026-05-04)"
+line_start: 3219
+line_end: 3274
 format_version: 1
 ---
 

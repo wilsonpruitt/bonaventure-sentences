@@ -13,6 +13,8 @@ source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 466–467"
 has_scholion: false
 has_apparatus: true
 transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 4828–4896), de-interleaved from two-column page-bottom layout, literal English, apparatus from page-bottom NOTAE AD COMMENTARIUM band (2026-05-05)"
+line_start: 4828
+line_end: 4896
 format_version: 1
 word_count_latin: 269
 ---

@@ -13,6 +13,8 @@ has_scholion: false
 has_apparatus: true
 word_count_latin: 492
 transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 7778–7863), de-interleaved from two-column page-bottom layout, literal English, 4-footnote apparatus from page-bottom NOTAE band (2026-05-06)"
+line_start: 7778
+line_end: 7863
 format_version: 1
 ---
 

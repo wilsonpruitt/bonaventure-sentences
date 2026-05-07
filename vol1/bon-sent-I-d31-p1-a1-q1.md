@@ -16,6 +16,8 @@ has_scholion: true
 has_apparatus: true
 word_count_latin: 812
 transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR pt2 (raw lines 11595–11718), fresh literal English translation, full apparatus from raw OCR (7 entries), scholion translated literally in both languages, [?] flags on ambiguous spots (2026-05-06)"
+line_start: 11595
+line_end: 11718
 format_version: 1
 ---
 

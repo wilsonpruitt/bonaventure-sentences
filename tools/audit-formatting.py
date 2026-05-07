@@ -208,11 +208,16 @@ def audit_chunk(path: Path) -> list[tuple[str, str]]:
 
 def main() -> int:
     chunk_paths = sorted(VOL1.glob("bon-sent-I-d*.md"))
-    # Filter to d.1 through d.25 (numeric extraction)
+    # Full-corpus audit (polish-blocker spec): d.1 through current.
+    # CLI override: `--max N` to cap upper bound.
+    max_d = 9999
+    if "--max" in sys.argv:
+        i = sys.argv.index("--max")
+        max_d = int(sys.argv[i + 1])
     target = []
     for p in chunk_paths:
         m = re.match(r"bon-sent-I-d(\d+)-", p.name)
-        if m and 1 <= int(m.group(1)) <= 25:
+        if m and 1 <= int(m.group(1)) <= max_d:
             target.append(p)
 
     by_sev: dict[str, list[tuple[str, str]]] = defaultdict(list)
@@ -230,7 +235,12 @@ def main() -> int:
         if not any(sev == "INFO" and "skeleton" in m for sev, m in findings):
             tier2_count += 1
 
-    print(f"Audited {len(target)} chunks (d.1-d.25): {tier2_count} Tier-2, {skeleton_count} skeleton")
+    if target:
+        nums = [int(re.match(r"bon-sent-I-d(\d+)-", p.name).group(1)) for p in target]
+        rng = f"d.{min(nums)}-d.{max(nums)}"
+    else:
+        rng = "(none)"
+    print(f"Audited {len(target)} chunks ({rng}): {tier2_count} Tier-2, {skeleton_count} skeleton")
     print(f"Summary: " + ", ".join(f"{k}={v}" for k, v in sorted(summary.items())))
     print()
 
