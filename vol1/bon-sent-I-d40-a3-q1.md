@@ -8,258 +8,232 @@ quaestio: 1
 type: quaestio
 title_la: "Utrum electio sit in Deo ab aeterno, an ex tempore"
 title_en: "Whether election is in God from eternity or from time"
-printed_pages: [712, 713, 714]
-pdf_pages: [302, 303, 304]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 712–714"
+printed_pages: [714, 715]
+pdf_pages: [304, 305]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 714–715"
+has_scholion: true
+has_apparatus: true
 line_start: 29361
 line_end: 29589
 word_count_latin: 2229
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 29361–29589 of pt2), fresh literal English translation, full apparatus from raw OCR (10 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d40-a3-q1
+## *Utrum electio sit in Deo ab aeterno, an ex tempore*
+
+---
 
 ## Latin
 
+<!-- page 714 -->
 
-aliqui            videntor                    docere, potius                                 eam consequatur.                           —          S.    Bona-            sic         est falsa; vel                        «    post formam implicatam »,                                                           i.       e.    qui antea
-ventura de causalitate                                                     divinae voluntatis hoc loco nihil dicit                                                        fuit        praedestinatus postea Rt reprobus, et sic iterum est falsa;
-quod non sit generaliter receptum. Plura vide infra d. 45. a. 2.                                                                                                          vel         «   sine            forma implicata »                                        i.    e.       absolute subiectum                                      conside-
+### Articulus III.
+#### *De divina electione.*
 
-q.      1   .     2     ;   et    de motione divina                                          II.    Sent. d. 2S. p.                      II.       q.    4.    5          rando,                et        tunc praedicatum potest                                                      damnari                  recte              dicitur                de
-d.     .37.           a.     1.   q.         I     ,            d.    26. q. 6, d. 14. p.                             I.    a.    3.     q.        I.                     subiecto, ut in sequenti et hic dub. 4. S. probatur; quod deinde
-      Sed quoad alteram rationem, scil. praescientiae, manifestum                                                                                                         quatuor profundis et valde notandis principiis aliquatenus                                                                                                                     cx-
+Consequenter quantum ad secundum[^1] articulum quaeritur de divina electione. Et circa hoc quaeruntur duo.
 
-est, praesertim ex solul. ad 1 2. 3, S. Bonaventuram refundere cer-                .                                                                                      plicatur.               —            Solut.           ad             i.        6.    iisdem                  flt       principiis,              quae adhibet
- Utiidinem, quae est in praedestinatione, non ad causalitatem in ea                                                                                                       S.     Thom., de                            Verit. q. 6. a. 3.                                         ad     8.
+Primo quaeritur, utrum electio sit in Deo aeternaliter, vel ex tempore.
 
-implicatam                   ,    sed ad nobilitatem divinae scientiae                                                             ;    unde potius                                    IV. Alex. Ilal., S. p.                                            1.   q. 28.              m. 4. per totum.                            —      Scot,, hic
+Secundo quaeritur, quid sit electio secundum rem.
 
- ad praescientiam recurrit                                                     ,       ut ostendat concordiam praedestina-                                                q. unica; et Report. hic q. unica.                                                                 —     S.        Thom., de hac et seq. q.
- lionis           cum libertate creaturarum                                                   ;immo ipsius verba hoc loco                                                 hic q. 3                ;       S.     I.    q,       22.            a.            4 , q. 23.                a.        6   ;    de    Verit. q. 6. a. 3.
+### Quaestio I.
+#### *Utrum electio sit in Deo ab aeterno, an ex tempore.*
 
- videntur                   rationem                            causalitatis                 penitus excludere, cum dicat                                                 —      B. Albert., hic a.                                    1       4.        15.        16; S. de                        hac        et        seq.         q.           p.     1.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives first the Latin source text (**La.**), then the English rendering (**En.**).
 
+Quod autem electio in Deo sit aeternaliter, ostenditur:
 
- »    non per rationem                              causalitalis ». Sed S. Thom. (de Verit. q. 6.                                                                         tr.     10.        ,q.          63.        m. 3.             a.           2.        —         Petr. a Tar., hic q.                                   2,     a.           1,    —
- a.    3.         in        corp.)               quoad certitudinem praedestinationis videtur                                                                             Richard. a Med.                              ,    hic            a.        2.        q.        1   .    2.    —            .Egid. R.            ,    hic        I   .    princ.
+1. Primo *auctoritate* Apostoli ad Ephesios primo[^2]: *Elegit nos ante mundi constitutionem, ut essemus sancti et immaculati coram ipso.*
 
- aliter sentire,                      cuin dicat: « Unde practer certitudinem praescien-                                                                                  q.     2.       — Dionys.                         Carth.,                  de hac                      et seq.             q.       hic q. 2.
+2. Item, Ioannis decimo tertio[^3]: *Ego scio, quos elegerim*; sed omnes elegerat temporaliter, qui erant eius discipuli: ergo est alia electio in Deo quam temporalis.
 
-                                                                                                                    :                                  1                                                                                               :
+3. Item, quod electio sit in Deo, videtur per *rationem*, quia omnis agens discrete et ordinate, est agens per electionem[^4]: sed Deus est huiusmodi: ergo in Deo est ponere electionem.
 
+4. Item, quod ab aeterno videtur, quia omnis dilectio, quae est specialiter aliquorum, non tantum est dilectio, sed etiam electio[^5]; sed praedestinatio Dei non est omnium hominum, sed solum salvandorum, et praedestinatio non est sine dilectione, ergo neque sine electione; sed illa ab aeterno: ergo et ista.
 
+**Sed contra:**
 
+1. Damascenus[^6]: «*Electio non cadit in Deum, quia divina natura non est possibilis ad ignorantiam*».
 
-                                                                                         DIST. XL. ART.                  It.   QU.\EST.                II.
+2. Item, eligere est alterum alteri praeoptare; sed Deus vult omnes homines salvos fieri[^7]: ergo videtur, quod electio non sit in Deo.
 
+3. Item, videtur quod solum sit in Deo temporaliter — electio enim non esset, si homo non perstitisset, ergo videtur, quod lapsus hominis faciat ad electionem — sed temporale non facit ad esse aeterni[^8]: ergo electio non est aeterna, sed temporalis.
 
+4. Item, electio est *dissimiliter entium*[^9]; sed omnia in Deo aeternaliter sunt unum et similiter: ergo electio est rerum existentium in proprio genere. Sed in proprio genere non sunt nisi ex tempore: ergo nec electio.
 
+5. Item, electio est praeoptatio; sed Deus nihil praeoptat alii quantum ad intensionem affectus[^10]: ergo solum quantum ad excellentiam effectus. Sed effectum non est ponere nisi ex tempore: ergo etc.
 
-                                                                                                           QUAESTIO II.
+6. Item, in plus est vocatio quam electio. Multi enim sunt vocati, pauci vero electi, Matthaei vigesimo secundo[^11]; sed vocatio est temporalis: ergo videtur similiter quod electio.
 
+Quaeritur ergo, cum vocatio sit temporalis, praedestinatio vero aeterna, unde hoc est, quod electio et temporalis est et aeterna.
 
-                                                                Utrum praedestinatio pmat certitudinem in                                                                  evenlu.
+### Conclusio.
 
+> *Electio, sed non deliberativa, ab aeterno est in Deo, cuius manifestatio est electio temporalis.*
 
+**Respondeo:** Dicendum, quod electio dicitur dupliciter: uno modo, prout dicit dilectionem cum discretione solum, alio modo, prout dicit dilectionem cum discretione praecedente et deliberatione et inquisitione. Et primo modo est in Deo, secundo modo in creatura, in qua cadere potest ignorantia; et hoc secundo modo loquitur Damascenus.
 
+**Ad argumenta:**
 
-            Secimdo,                      sapposito            quod        praedestinatio                      iion       desit,       aliqua mansio                             vacua remanebit. Sed hoc                                         est
- inferat necessitatem libero arbitrio , quod non possit                                                                   inconveniens et indecens   in civitate superna: ergo
- aiiter esse,                   quaeritur,                 utrum ponat certitudinem in                                    certum est, quod quilibet praedestinatus locum suum
- eventu,              scilicet,                ut      nunquam            aliter          eveniat,             nisi       habebit.
- sicut       Deus praedefmivit. Et quod sic ostenditur:                              ,                                                6.    Item, numerus electorum a Deo praeflnitus
-            1. Primo wuctoritate loannis decimo tertio '                                                                 est      optima                   et         decentissima ratione                         et         proportione
-iligo scio, quos elegerim; et secundae ad                                                      Timotheum                 —   si enim omnia fecit ordinatissime, multo fortius
+*Ad 2.* Ad illud quod obiicitur, quod voluntas Dei et dilectio est sine discretione; dicendum, quod est voluntas antecedens et consequens: antecedens, qua vult quantum in se est, consequens, qua vult cum praescientia nostrae salutis; et prima quidem est omnium, secunda vero non[^12]. Secundum hunc modum est dilectio duplex: una, quae respicit voluntatem antecedentem, et hac diligit omnes; est et alia, quae respicit consequentem, et hac diligit omnes salvandos, et haec est electio.
 
- secundo:               Novit Deus,                           qui sunt eius: ergo                         si      di-    supernam civitatem     sed optima proporlio foedatur  —
- vina cognitio est certa et infallibilis, et falleretur, si                                                              et perditur per augraentum et diminutionem      ergo                                                           :
+<!-- page 715 -->
 
+*Ad 3.* Ad illud quod obiicitur, quod electio non esset, nisi homo peccasset; dicendum, quod est electio, qua eligitur et separatur bonus a malo, et est electio, qua separatur melior a minus bono. Haec secunda esset, si homo non peccasset; prima autem non esset, si homo non peccasset, non quia lapsus aliquid faciat ad rationem eligendi, sed praevisio lapsus; et quamvis lapsus hominis fuerit temporalis, praevisio tamen eius fuit aeterna.
 
+*Ad 4.* Ad illud quod obiicitur, quod electio est dissimiliter entium; dicendum, quod sicut dilectio duplex est: quaedam, quae oritur ex consideratione divinae bonitatis, quaedam, quae est principium bonitatis; sic *electio* duplex est: quaedam quae causatur a diversitate et praeeminentia eligibilium, et haec consequitur eligibilia, ut electio humana; quaedam, quae est *ratio* diversitatis in eligendo, ut divina, et haec est dissimilium, non quae sunt, sed quae futura sunt. Et talis praecedit et est aeterna; nisi enim esset divina electio, omnes essemus reprobi et mali. Et sic patet illud.
 
+*Ad 5.* Ad illud quod obiicitur, quod electio est praeoptatio; dicendum, quod praeoptatio ratione maioritatis effectus potest esse dupliciter: aut per modum approbationis[^13], aut per modum dispositionis et praeordinationis. Per modum approbationis ponit effectum in actu, per modum praeordinationis et dispositionis ponit in potentia tantum; et sicut dispositio est aeterna, ita et praeoptatio.
 
- non salvarentur illi quos novit esse                                                   suos certitudi-                  si    non potest esse, ut sit ibi defectus ordinis et pro-
- naliter, ergo verum est,                                    quod sic evenit, sicut prae-                                portionis congruenlis,                                        certitudinaliter                     tot   salvabun-
- deflnivil            Deus,               ef sic etc.                                                                     tur,         et      non                   plures            nec     pauciores                    quam" Deus
-            2. Itera,                 primae                loannis      secundo^:                   Ex nobis            praevidit.
- exierunt, sed ex nobis non erant. Ponit illud ergo                                                                                   Sed coNTaA                      :    I .   Quod non sit certitudo eventus                                            -^<i   opposi-
+*Ad 6.* Ad illud quod obiicitur de vocatione, quod solum est temporalis; dicendum, quod vocatio dicit actum ut exteriorem, electio dicit actum ut interiorem, praedestinatio dicit actum ut anteriorem. Quoniam igitur actus ut exterior connotat effectum ut exteriorem, ideo vocatio solum est temporalis. Rursus quoniam actus ut anterior non habet rationem initiandi, ideo praedestinatio est solum aeterna. Sed quoniam actus interior per manifestationem fit exterior, hinc est, quod electio et dilectio[^14] est aeterna et temporalis.
 
- pro signo: quod illud est signum, quod liomo non                                                                         quantum                  ad               personas ,               videtur            sic     :     Apocalypsis
- fuit electus,                   quando non perseveravit                                  in     bono          fiha-      tertio':            Tene quod habes, ne alius accipiat coro-
-      Si ergo illud signum est rectum, certum est,
- liter.                                                                                                                   nam tuam; Gregorius ibi: «Dum alius labitur, alius
- quod omnes praedestinati et soli in gratia flnaliter                                                                     in     locum eius subinducitur »:                                              ergo      si        unus           vindi-
- perseverant; et                          si        hoc certum est, quod                       soli      salvan-          cat sibi           locum alterius, non                                    ita    evenit, sicut                        Deus
- tur        et    onmes               :    ergo certitudo est                      in     eventu.                         ordinavit, iramo tota die                                          flt    transmutatio.
-            3.    Item, Augustinus in libro de Bono perseve-                                                                          2.    Item           ,        super          illud           lob     trigesimo quarto '
- rantiae":              »       Praedestinatio est praescientia                                      beneficio-           Conteret             muUos                  ,    (Jregorius ibideni:                      «Locum vitae,
- rum Dei, per quae certissime liberantur quicumque                                                                        ahis cadentibus,                                alii   soiliuntur ».
- liberantur».                        Si    igitur           liberantur          certissime,                 patet                     3.    Item, quod non     quantum ad               sit        certitudo
- quod certitudo                           salutis est respectu                     personarura, et                        num.erum, videtur Lucae quinto": Rumpebatur rete;
- sic    etc.                                                                                                              Glossa:            «Non tot intrant de ludaeis, quot sunt prae-
-            4.    Item, Augustinus in Ubro de Correctione et                                                              destinati»: ergo pauciores salvantur, quam sint prae-
- gratia^ «Certus                                est        nuinerus       electorum, qui non                              destinati.
+Quod ergo obiicitur de vocatione, quod in plus est, ergo prior; dicendum, quod prior est secundum rationem intelligendi tanquam communior, sed non quantum ad ordinem durandi; non enim est superius essentiale, sed effectus[^15] consequens. Et sic patent omnia.
 
- potest minui nec augeriw: ergo videtur,                                                            quod       cer-           4. Item, Deuteronomii prinio'": Addat Deics ad
+### Scholion
 
- titudo          sit    in           quoto nuineio.                                                                       hunc numerum multa millia; Glossa: « Ad hunc
-            5.    Item,                   hoc        videtur        ratione, quia in                      domo            nuraerum praedeflnitum in Dei praescientia qui                 ^                                                  ,
+**I.** Quid sit electio et quomodo differat a *proposito* et a *praedestinatione*, explicatur in quaest. seq. ad 2. 3. et aliquatenus hic ad 6; sed diffusius a Richardo a Med., 1. *Sent.* d. 41. a. 1. q. 1, et a S. Thom. (1. *Sent.* d. 41. q. 1. a. 2.), ubi dicitur: «*Ipsa divina ordinatio, qua quidam aliis praeferuntur ad consequendam beatitudinem, electio dicitur*»; et ibi ad 1: «*Electio est, qua aliqui ex ordine suae sapientiae ordinantur ad finem beatitudinis; sed praedestinatio est, secundum quod praeparantur eis ea quae perducunt in finem*»; et ad 2: «*Electio praeexigit diversitatem naturae in divina cognitione et facit diversitatem gratiae, sicut dispositio diversitatem naturae facit*». — Distinctionem inter aeternam et temporalem electionem approbat S. Thom., 1. *Sent.* d. 41. q. 1. a. 1, qui etiam 2. opposit. eadem distinctione voluntatis antecedentis et consequentis solvit (*S.* I. q. 23. a. 4. ad 3.). De voluntate antecedente et consequente plura vide infra d. 46. a. 1. q. 1. — Solutio ad 3. sumta est ex Alexandro Hal., *S.* p. I. q. 30. m. I. ad 2; et consentit B. Albert., *S.* p. I. tr. 16. q. 66. q. incid. 4. Haec solutio favet iis, qui docent, quod in hypothesi supponente, Adam non peccasse, nulli fuissent nati reprobi; sed sententia communis cum S. Thoma (*S.* I. q. 100. a. 2.) contrarium tenet. — Ex verbis: «*Non quia lapsus aliquid faciat ad rationem eligendi, sed praevisio lapsus*», et ex solutione ad 4. videtur sequi, Seraphicum cum Angelico (*de Verit.* q. 6. a. 2. ad 9; *S.* I. q. 23. a. 5. ad 3.) supponere, secundum nostrum modum intelligendi efficacem electionem praedestinatorum a Deo factam esse post praevisum peccatum originale. Sed Scot. (III. *Sent.* d. 7. q. 3.) videtur sentire aliter et secundum suam sententiam, quod Christus incarnatus fuisset, etsi Adam non peccasset.
 
+**II.** In solutione ad 2. docetur, quod electio discretiva ad voluntatem consequentem spectat, non ad antecedentem, de qua distinctione cfr. infra d. 46. q. 1. Valde autem notandum est, quod in solut. ad 4. dicitur de differentia inter dilectionem et electionem nostram, quae supponit bonitatem et praeeminentiam in dilectis et electis et inde causatur, et divinam dilectionem et electionem, quae econtra est causa bonitatis et diversitatis in dilectis et electis. Idem omnino docet S. Thom., *S.* I. q. 23. a. 4; et B. Albert. (*S.* p. I. tr. 16. q. 65. q. incid. 2.), qui dicit: «*In electione aeterna, quae nullo merito potuit praeveniri, Deus nihil respicit in nobis, sed in se ipso suae bonitatis tantum communicationem*». Et confirmatur Conc. Arausic. II. can. 12: «*Tales nos amat Deus, quales futuri sumus ipsius dono, non quales sumus nostro merito*» (cfr. infra d. 43. dub. 7.).
 
- Pairis sunt multae mansjones , sicut dicitur loan-                                                                       novil , qui sunt eius » : ergo                                             si    Deus addit ad nu-
- nis        deciino quarto '': aut                              ergo praevidit Deus                        ,
-                                                                                                                qui       merum praedefinitum non                                  ,               est     certitudo                  qnantuni
- debeant              ibi        habitare, aut non.                       Constat              quod         prae-         ad numerum salvandorum.
- vidil. qui              debeant                     ibi    esse:       ergo    si       aiiqnis         eorum                        0.    Item, quod quantum ad                                          neutrum sil                      cerli-
+**III.** Alex. Hal., *S.* p. I. q. 28. m. 1. a. 1, et q. 30. a. 1. — S. Thom., 1. *Sent.* d. 41. q. 1. a. 1; *S.* loc. cit. — B. Albert., hic a. 17; de hac et seq. q. *S.* p. I. tr. 16. q. 63. — Petr. a Tar., 1. *Sent.* d. 41. q. 1. a. 2. — Richard. a Med., 1. *Sent.* d. 41. a. 1. q. 1. — Aegid. R., de hac et seq. q. 1. *Sent.* d. 41. princ. 1. q. 1. 2. — Durand., de hac et seq. q. 1. *Sent.* d. 41. q. 1. — Dionys. Carth., 1. *Sent.* d. 41. q. 2.
 
-
-
-
-        '    Vers.       18.         — Sequens               texlus est loc.       cit.       vers. 19, quem                      =    Vers. 2.
- textum Vulg.                   sic exliibci:              Cognovit Dominus,                  qiii   sunt      eiiis.             «    Pro    quam Vat. qiiot.
- —     Circa finem argumenli pro evenil Vat.                                       cum        aliquibus mss.                      '
-                                                                                                                                Vers.       ubi Vulgata ut ncmo pro ne alius.
-                                                                                                                                                   1           ,                    Textus                                            —
- eveniet.                                                                                                                 mox allatus et Gregorio adscriptus, quoad scntentiam invenitur in
-        ^    Vers.       1
-                                9 , ubi Vulgata prodierant pro exierunt.                                 —      Vat.      eius libr.         XXV. Moral. c. 8. n. 20, et c. 13. n. 31                                             ;   sed verba
- post pro signo inleriicit scilicet.                                                                                      ipsa, ut citata sunt, habentur in Glossa                                          ordinaria             ad      praeno-
-        '    Nunc,              ut    iam supra              dictum      est,      de Dono persever.                      tata    verba Apocalyps.                         ,
-                                                                                                                                                                               quare et Vat. pro Gregorius                             substituit
- nuncupal., c.              1   4. n.      3S   ;   sicul   de GorrecUone          et gratia (ut legitur                  Glossa.
- in arg. seq.)               nunc de Correpiione etc.                       cfr.    supra 699,             col.    11.            8    Vcrs. 24.               — Verba Gregorii habentur XXV. Moral.                                             c.   8.
- nota       3.                                                                                                            n.     19, ubi in textu originali iUis pro aliis.
-        *    Cap. 13.                n.   39.       Vide hic     lit.   Magistri,        c.    1.    —     In flne                '    Vers. 6.                — Glossae ordinariae      integer          textus                       hic       est:
- argumenti pro quoto Vat. quodam.                                        Adiectivum qitotus                    idem       Non     tot intrant                      de ludaeis, quol apud                  Deum          ad        vitam         erant
- significat           quod determinatus ,                     sicut et appellatio              quota       signifl-       praeoi'dinati.
- cat quoddam determinatum, « quod quisque principi aut domino                                                                     ">       Vers.   11.— Glossa ordinaria integre sic Ad hunc nume-                      :
-
-
- in tributum \d censnm praestare tenetur ». Du Cange, Glossar.                                                            riim , deflnilum apud Dtnim. Novit qui sunl eius, qui numerat
- mediae          el    inflmao            latin.                                                                          muUitudinem stellarum.
-
-                                                                                                                                              ;,,
-
-
-
-
-            712                                                                                                          SENTKNTIARUM LIB. I.
-
-            tudo,           videtur.                  Intelligamus                       ABC esse luimerum                                          tem , sed quantura ad infallibilitatem aeternae prae-
-            praedestinatorum,                               D E F numerum                                     praescitorum                          cognitionis , et quantum ad invariabilitatem aeternae
-
-            tunc          quaero:                 A         ita       bene               potest           damnari, sicut                            praeordinationis °.
-            et     D,       et       e converso                   D ita         '        salvari, sicut A:                              ergo                              1.   2.            Ad     illud ergo                      quod obiicitur, qiiod                       aliussoiuMot
-                                                                                                                                                        ,             .         ,                                 .     .                                ,.         ,                  ,    liosilorm
-            nuUa          est certitudo                      quantum ad personas. Rursus                                                            altenus locum accipit                                                     et    coronam; dicendum, quod
-            A potest damnari,                                et       tunc               solum            remanent duo,                             locus aeternae mansionis et corona relributionis ali-
-            et     D salvari, et tunc erunt quatuor: ergo nuUa est                                                                                  cui           secundum reputalionem iustitiae ' , oistinoii.
-                                                                                                                                                                          debetur
-            certitudo     quantum ad numerum.                                                                                                       alicui secundum praedefvnitionem praescientiae. Et
-                       6.    Item, hoc ipsum ostenditur                                                   deducendo                      acl        contingit, quod unus locus debetur alicui secundum
-            inconvenims.                        Si         enim certum est, qui et quot sal-                                                        praes&ntem iustitiam, eo quod, illo cadente, alius
-            vabuntur,                     ita    quod         sic eveniet, et non aliter, quam-                                                     intrat, cui debetur secundum praedefinitionem ae-
-
-            vis possit aliter ^                        :    ergo nullus praedestinatus damna-                                                       ternam. Quando vero alicui debetur locus secundura
-            bitur aliquo casu vel                                     eventu,                 et nullus praescitus                                  praedefinitionem                                              aeternam, potesl quidein cadere
-            salvabitur: ergo nallus                                     debet curare, utrum faciat                                                  et          locum perdere, et alius, qui                                                      noii        est       praedesti-
-            bene vel                     male,             quia        si       praescitus est,                          quidquid                   natus, potest acquirere; sed                                                           tamen hoc nunquam
-            faciat, in fine                      damnabitur;                        si    praedestinatus                      ,
-                                                                                                                                    quid-           eveniet. Quia ergo praescitus iustus frequenter                                                                            locum
-            quid        faciat, in fine salvabitur;                                           stultus est ergo, qui                                 aetcrnae mansionis perdit, quein alius paris meriti
-            non         comedit                  et        laetatur ,                et       non         liabel             bona in                acquirit; et                                  nemo                  scit,        utrum         sit     praescitus, vel
-            vita sua^.                                                                                                                              praedestinatus                                  :       ideo,            quamvis         sciat, se esse iustum,
-
-                                                                                                                                                    tiraere                     debet,                      ne          araittat        locum. Et                  ad     hunc        ti-
-
-                                                             CONCLUSIO.                                                                             morem hortatur beatus loannes in praedicta                                                                                 aucto-
-                                                                                                                                                    rilate Apocalypsis.                                               Et hic timor bonus est omnibus, Notamiii
-            Praedestinatio a parte                                          rei           evenientis                   non habet                    et praescitis et praedestinatis,                                                         quia humiliat et                        sol-
-
-                       certiludinem in eventu, a parte Dei praeco-                                                                                  licitat.                   Econtra,                          certitudo              de       electione              elevat        in
-
-                       gnoscentis                     et     disponentis                       habet certitudinem                                   tumorem et deprimit in torporem;                                                                       ideo         secundum
-                       et    infallibilitatis et immutabilitatis.                                                                                   ordinatissimam dispensationem                                                            ^    hoc factuin                 est,    ut
-                                                                                                                                                    nulli reveletur ,                                        an         sit    praedestinatus, nisi sit a Deo
-                       Respondeo: Dicendum, quod esl dicere certitu-                                                                                confirmatus                                in           bono, ut non possit elevari per su-
-            dinem a parte rei evenientis , et a parte Dei prae-                                                                                     perbiam vel torpere per negligenliam. Patet                                                                                 ergo,
-            ordinantis \ Si loquamur de certitudine a parte rei,                                                                                    quod illa auctoritas non                                                        signiflcat       mntationein                 fieri
-
-            cum haec dicatur contra contingentiam sic dico,                                                        ,                                in          praescientia                            ,   vel aliter evenire, cpiam Deus prae-
-coucjusioi. qviod iion est maior cerlitudo in numero electorum,                                                                                     scivit,                    sed            quod                    qui      actuahter            iustus              est    potest
-            quam sit in numero aliorum futurorum contingentium,                                                                                     locum                  ,
-                                                                                                                                                                                quo dignus est, perdere perdendo iustitiam,
-            quia        pendet eventus nostrae salutis                                                    et       damnationis                      et          quod qni peccator                                             est     potest locum                  sibi      indebi-
-            ex arbitrii                    nostri            libertate.              Si        autem loquamur de                                    tum ' acquirere accpiirendo                                                            iustitiam           ;   et     hoc     tota
-
-            certitudine a parte Dei praecognoscentis , sic cerlus                                                                                   die contingit.                                —Exemplum                            in veteri Testaraento                      ma- EsempH'
-coiiciusio2. est   eventus salutis ^ certitudine infallibilitatis, quia                                                                             nifestum                        fuit           de Saule                     et    David         in     regno, cui                sci-
-
-            divina praescientia iion fallitur, et ideo semper evenit,                                                                               licet Sauli                              recte potuit dici:                            Tene          quod habes ,                 id
-conciusios. ut     praescivit. Cerlnni etiam est certitudine                                                              immuta-                   est          humilitatem                                 et        iustitiam,          ne alius accipiat                         co-
-
-           bililatis ,                   quia         divina           dispositio                   et        ordinatio                 uon         ronam tuam, id est tibv debitam secundmn statum
-            variatur, ut                     modo unum eligat et modo alium, sed                                                                    praesentem,                                   alii       tamen debitam secundum                                           disposi-
-            qui serael electus est, semper fuit et erit, et non alius.                                                                              tionem aeternam '".                                                 Exemplum etiam est in coronis
-                       Rationes ad priniam partem inductae procedunL                                                                                quadraginta Martyrura.
-Ad argi;. in de certitudine eventus,                                   non quantum ad                                    necessita-                                       3.   4.            Ad     illud               quod          obiicitur de                 diminutione
-
-
-
-
-                   '    Cod.             X post ita repetit bene.                                                                                                    5    Vat. et cod. cc                             iiic   adiiciunt nostrae, et                 pauio inferius
-                   2    Vat.     ,       omissis verbis               qmmvis possit aliter, post sequen-                                            post ideo omittunl semper.
-            tem vocuiam ergo                          interiidt       certum est, quod,                            quue           accessio                       •^       Ed.       1        praecognitiouis ; Vat. praedestinationis.
-            nec in ed.               1    habetur nec in codd.                           In   omnibus ferme codd. in-                                            '        Vat.          cum ed.              \        voci iustitiae praemittit praesentis. Co5d.
-            veniuntur verba a Vat. suppressa quamvis possil aliter,                                                                      sed        A       I   in        hac propositione bis aliter pro                                        alicui.      Paulo inferius pro
-            codd. perperam                      eis    praeflgunt ergo, excepto cod.                                     T        (in    quo        eo          quod Vat. cum paucis codd. et quod.
-            a secunda            manu ergo expunclum est)                                      nec non excepta ed.                        1                      8        Vat. et nonnulli codd.                                    dispositionem.            Mox pro a Deo
-            quos duos duces nos sumus                                   secuti.               Cod.        X   ,
-                                                                                                                   qui       de cetero              plures mss. adeo.
-            convenit         cum ceteris codd.                    ,    omittit ergo                 ante          nullas praede-                                 5        Vat.          cum uno alteroque cod. debitum, quae lectio bene
-                                                                                                                                                    explicari potest. Paulo superius                                                 pro praescivit                Vat.    praescit,
-                   '    Respiciunlur verba Sap. 2,                                   6.       seqq.   ;   Isai.        22, 13; Luc.                 ed.          I        praesciverit.
-
-            12,     19.   — Pro non habel         non sumit.          ed.   1                                                                                    1° Cfr.                \.    Reg.           c.         13.    seq.     — De exemplo quadraginta
-                   '    Cod. W praedestinantis. Mox post                                              rei         Vat.    addit eve-                Martyrum cfr.                             Breviar.                Roman.         die   10 Marlii.
-
-            nientis. Dein                 pro dicatur codd. P Q X                              (   T in marg.) dividatur.
-
-                                                                                                                        ;
-                                                                                                                        :
-
-
-
-
-                                                                                                       DIST. XL. ART.
-
-    et    augmento, dicendum, quod totum referendain est                                                                    inferendo a simili, dicendo                                            sic :   Deus praeordinavit, uaiio i.
-    illud           ad statinn praesentis iustitiae. Nam ilia Glossa:                                                       utrum               tu debeas cras vivere, an non; ad quid ergo
-     « Non               tot    intrant».            intelligitur              tempore primitivae                           comedis                 et    bibis ?               Qui        sic     argueret           et tali               rationi
-    Ecclesiae, quia                       multi            intralount           in teinpore finalis                         consentiret, argueretur dementiae; similiter in pro-
-    Ecclesiae. Similiter                         quod          dicitur.         quod Deus addat                             posito.            —
-                                                                                                                                       Secundo respondetur contra arguendo: tu natio                                                                     -2.
-
-
-
-    ad himc numerum                              ,        intelligitur          iustificando plures                         dicis, quod Deus praedestinat, et ego dico, quod Deus
-
-    et    vocando ad fidem.                                                                                                 tanquam iustus iudex iuste remunerat. « NuUum ergo
-                   .0.    Ad illud quod                    obiicitur,          quod possunt esse                            bonum irremuneratum, nullum malum impunitum^»:
-    plures et                    pauciores                et   alii ,     quam sint                   praesciti             ergo nullus laborat sine fructu, nuUus torpescit sine
-    ergo            ibi    non        est certitudo;                 dicendum, quod non est                                 damno.                  —
-                                                                                                                                        Et propterea dicendum    quod praedicta Ratio 3.                     ,
-
+---
 
 ## English
 
-[Translation pending]
+<!-- page 714 -->
+
+### Article III.
+#### *On divine election.*
+
+Consequently, as regards the second[^1] article, inquiry is made concerning divine election. And on this two questions are asked.
+
+First, it is asked whether election is in God eternally, or from time.
+
+Second, it is asked what election is according to the thing.
+
+### Question I.
+#### *Whether election is in God from eternity, or from time.*
+
+That election is in God eternally is shown:
+
+1. *First, by authority*, [from] the Apostle to the Ephesians 1[^2]: "*He chose us before the foundation of the world, that we should be holy and unspotted in his sight.*"
+
+2. Likewise, John 13[^3]: "*I know whom I have chosen*"; but he had chosen all temporally who were his disciples: therefore there is in God another election than the temporal.
+
+3. Likewise, that election is in God is shown by *reason*, since every agent [acting] discretely and orderedly is an agent through election[^4]: but God is of this kind: therefore in God election is to be posited.
+
+4. Likewise, that [election is] from eternity is shown thus, since every love that is specifically of certain ones is not only love but also election[^5]; but the predestination of God is not of all men, but only of those to be saved, and predestination is not without love, therefore neither without election; but that [predestination] is from eternity: therefore so is this [election].
+
+**On the contrary:**
+
+1. Damascene[^6]: "*Election does not fall in God, since the divine nature is not possible-of-ignorance.*"
+
+2. Likewise, to elect is to prefer one to another; but God wills all men to be saved[^7]: therefore it seems that election is not in God.
+
+3. Likewise, it seems that [election] is in God only temporally — for there would be no election if man had not fallen, therefore it seems that the fall of man contributes to election — but the temporal does not contribute to the being of the eternal[^8]: therefore election is not eternal but temporal.
+
+4. Likewise, election is *of dissimilar beings*[^9]; but all things in God eternally are one and alike: therefore election is of things existing in their proper genus. But in their proper genus they are not except from time: therefore neither is election.
+
+5. Likewise, election is preferential-choosing; but God prefers nothing to another by way of intensity of affection[^10]: therefore [he prefers] only by way of excellence of effect. But effect is not to be posited except from time: therefore etc.
+
+6. Likewise, calling is wider than election. For *many are called, but few are chosen*, Matthew 22[^11]; but calling is temporal: therefore it seems likewise that [so is] election.
+
+It is asked therefore, since calling is temporal, but predestination eternal, whence is it that election is both temporal and eternal.
+
+### Conclusion.
+
+> *Election — but not deliberative — is in God from eternity, of which [election] the manifestation is temporal election.*
+
+**I respond:** It must be said that *election* is said in two ways: in one way, insofar as it expresses love with discretion alone; in another way, insofar as it expresses love with preceding discretion and deliberation and inquiry. And in the first way it is in God; in the second way in the creature, in whom ignorance can occur; and in this second way Damascene speaks.
+
+**To the arguments:**
+
+*Ad 2.* To that which is objected, that the will of God and [his] love is without discretion; it must be said that there is an antecedent will and a consequent: the antecedent, by which he wills [salvation] insofar as it is in itself; the consequent, by which he wills with foreknowledge of our salvation; and the first indeed [regards] all, but the second not[^12]. According to this mode, love is twofold: one which regards the antecedent will, and by this he loves all; there is also another, which regards the consequent, and by this he loves all those to be saved, and this is election.
+
+<!-- page 715 -->
+
+*Ad 3.* To that which is objected, that there would be no election if man had not sinned; it must be said that there is an election by which the good is chosen and separated from the bad, and there is an election by which the better is separated from the less good. This second [election] would have been even if man had not sinned; the first however would not have been if man had not sinned — not because the fall does anything to the *ratio* of choosing, but the foresight of the fall [does]; and although the fall of man was temporal, the foresight of it was nevertheless eternal.
+
+*Ad 4.* To that which is objected, that election is *of dissimilar beings*; it must be said that just as love is twofold — one which arises from consideration of the divine goodness, and one which is the principle of goodness — so *election* is twofold: one which is caused by the diversity and pre-eminence of the things to be chosen, and this follows the things to be chosen, as human election; another which is the *ratio* of diversity in choosing, as the divine [election], and this is of dissimilar things — not of those which are, but of those which will be. And such [election] precedes and is eternal; for unless there were divine election, all of us would be reprobate and evil. And so that [argument] is plain.
+
+*Ad 5.* To that which is objected, that election is preferential-choosing; it must be said that preferential-choosing, by reason of the greater [efficacy of its] effect, can be of two kinds: either by way of approbation[^13], or by way of disposition and pre-ordination. By way of approbation it places the effect in act; by way of pre-ordination and disposition it places [it] in potency only; and just as disposition is eternal, so also is preferential-choosing.
+
+*Ad 6.* To that which is objected concerning calling, that it is only temporal; it must be said that calling expresses the act *as exterior*, election expresses the act *as interior*, predestination expresses the act *as prior*. Since therefore the act *as exterior* connotes the effect *as exterior*, hence calling is only temporal. Again, since the act *as prior* does not have the *ratio* of initiating, hence predestination is solely eternal. But since the interior act through manifestation becomes exterior, hence it is that election and love[^14] are both eternal and temporal.
+
+As to what is therefore objected concerning calling, that it is wider, therefore prior; it must be said that it is prior according to the *ratio* of understanding, as more common, but not as regards the order of duration; for it is not an essential superior, but a consequent effect[^15]. And so all [the arguments] are plain.
+
+### Scholion
+
+**I.** What election is, and how it differs from *proposal* and from *predestination*, is explained in the following question, ad 2, 3, and somewhat here ad 6; but more diffusely by Richard of Middleton, 1. *Sent.* d. 41, a. 1, q. 1, and by St. Thomas (1. *Sent.* d. 41, q. 1, a. 2), where it is said: "*That divine ordination by which some are preferred to others for the attaining of beatitude is called election*"; and there ad 1: "*Election is that by which some, from the order of his wisdom, are ordered to the end of beatitude; but predestination is according as there are prepared for them those things which lead to the end*"; and ad 2: "*Election presupposes diversity of nature in divine cognition and makes diversity of grace, just as disposition makes diversity of nature*". — The distinction between eternal and temporal election is approved by St. Thomas, 1. *Sent.* d. 41, q. 1, a. 1, who also in the second [argument] of the contrary side resolves [the matter] with the same distinction of antecedent and consequent will (*S.* I, q. 23, a. 4, ad 3). On the antecedent and consequent will see further below at d. 46, a. 1, q. 1. — The solution ad 3 is taken from Alexander of Hales, *S.* p. I, q. 30, m. I, ad 2; and B. Albert agrees, *S.* p. I, tr. 16, q. 66, q. incid. 4. This solution favors those who teach that, on the hypothesis supposing that Adam had not sinned, none would have been born reprobate; but the common opinion with St. Thomas (*S.* I, q. 100, a. 2) holds the contrary. — From the words: "*Not because the fall does anything to the *ratio* of choosing, but the foresight of the fall*", and from the solution ad 4, it seems to follow that the Seraphic [Doctor], with the Angelic (*de Verit.* q. 6, a. 2, ad 9; *S.* I, q. 23, a. 5, ad 3), supposes — according to our mode of understanding — the efficacious election of the predestined made by God to be after the foreseen original sin. But Scotus (III *Sent.* d. 7, q. 3) seems to think otherwise and, according to his opinion, [holds] that Christ would have been incarnated even if Adam had not sinned.
+
+**II.** In the solution ad 2 it is taught that discretive election pertains to the consequent will, not to the antecedent — concerning which distinction cf. below at d. 46, q. 1. But it must be very much noted that in the solution ad 4 it is said concerning the difference between *our* love and election — which presupposes goodness and pre-eminence in the things loved and chosen, and is caused thence — and divine love and election, which on the contrary is the cause of goodness and diversity in the things loved and chosen. The same is taught entirely by St. Thomas, *S.* I, q. 23, a. 4; and by B. Albert (*S.* p. I, tr. 16, q. 65, q. incid. 2), who says: "*In eternal election, which could be preceded by no merit, God regards nothing in us, but only in himself the communication of his goodness*". And it is confirmed by the Council of Orange II, can. 12: "*God loves us such as we shall be by his gift, not such as we are by our own merit*" (cf. below d. 43, dub. 7).
+
+**III.** Alex. Hal., *S.* p. I, q. 28, m. 1, a. 1, and q. 30, a. 1. — St. Thomas, 1. *Sent.* d. 41, q. 1, a. 1; *S.* loc. cit. — B. Albert, here a. 17; on this and the following question, *S.* p. I, tr. 16, q. 63. — Petr. a Tar., 1. *Sent.* d. 41, q. 1, a. 2. — Richard. a Med., 1. *Sent.* d. 41, a. 1, q. 1. — Aegid. R., on this and the following question, 1. *Sent.* d. 41, princ. 1, q. 1, 2. — Durand., on this and the following question, 1. *Sent.* d. 41, q. 1. — Dionys. Carth., 1. *Sent.* d. 41, q. 2.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Cum art. I. divisus sit in duos [?].
 
-## Notes
+     **En.** "Since article I [is] divided into two [...]" [editorial cross-reference; OCR fragmentary at this footnote].
 
-[Notes pending]
+[^2]: **La.** Vers. 4, ubi Vulgata: *Elegit nos in ipso*; et infra pro *coram ipso* (Ambros. in hunc locum *coram eo*) Vulg. *in conspectu eius*.
+
+     **En.** Verse 4, where the Vulgate [reads]: *Elegit nos in ipso* ("He chose us in him"); and below in place of *coram ipso* ("before him") (Ambrose at this passage [reads] *coram eo*) the Vulgate [reads] *in conspectu eius* ("in his sight").
+
+[^3]: **La.** Vers. 18. — Pro *Item* Vat. sola substituit *Contra*, et dein post *ergo* interiicit *non*; perperam, quia, hac lectione recepta, argumentatio Doctoris disturbatur et ad irritum redigitur.
+
+     **En.** Verse 18. — In place of *Item* the Vatican [edition] alone substitutes *Contra*, and then after *ergo* inserts *non*; wrongly, for, this reading being accepted, the Doctor's argumentation is disturbed and brought to nothing.
+
+[^4]: **La.** Cfr. supra pag. 600, nota 2. Cfr. etiam Aristot., III. *Ethic.* c. 2, et I. *Magnor. Moralium*, c. 16. (c. 17.), ubi agitur de *prohaeresi* (περὶ προαιρέσεως), quod verbum Graecum (προαίρεσις) in antiquis versionibus Latinis modo redditur voce *electio* (sic loc. cit. *Ethic.*), modo voce *propositum* (sic loc. cit. *Magn. Moral.*); in ed. recentiore Paris. (Firmin-Didot) verbum προαίρεσις constanter vertitur *consilium*.
+
+     **En.** Cf. above p. 600, note 2. Cf. also Aristotle, III *Ethics* c. 2, and I *Magna Moralia*, c. 16 (c. 17), where the matter treated is *prohaeresis* (περὶ προαιρέσεως), which Greek word (προαίρεσις) in old Latin versions is rendered now by the word *electio* ("election") (so loc. cit. *Ethics*), now by the word *propositum* ("proposal") (so loc. cit. *Magn. Moral.*); in the more recent Paris edition (Firmin-Didot) the word προαίρεσις is constantly rendered *consilium* ("counsel").
+
+[^5]: **La.** De quo vide supra d. 10. dub. 1.
+
+     **En.** On which see above d. 10, dub. 1.
+
+[^6]: **La.** Libr. II. *de Fide orthod.* c. 22: *In Deo volendi quidem actum dicimus, non autem electionem proprie* (κυρίως) *sumtam. Deus quippe non deliberat, quia ignorantis est consilium inire.* — Quoad maiorem huius argumenti commemoramus verba Aristot., III. *Ethic.* c. 2: «*Nam electio cum ratione et cogitatione est, quod et nomen ipsum* (προαίρεσις) *significare videtur, quasi e quibusdam propositis unum aliquod legatur i. e. capiatur*». Cfr. etiam Damasc., II. *de Fide orthod.* c. 22.
+
+     **En.** Book II, *On the Orthodox Faith*, c. 22: "*In God we say there is indeed an act of willing, but not election properly* (κυρίως) *taken. For God does not deliberate, since to enter on counsel is [a feature] of one who is ignorant.*" — As to the major of this argument, we recall the words of Aristotle, III *Ethics* c. 2: "*For election is with reason and thought, which the very name* (προαίρεσις) *seems to signify, as it were, that out of certain proposed [things] some one is selected, i.e. taken*". Cf. also Damascene, II *On the Orthodox Faith*, c. 22.
+
+[^7]: **La.** Epist. I. Tim. 2, 4: *Qui omnes homines vult salvos fieri etc.* — Quoad maiorem huius argumenti commemoramus verba Aristot. ut supra. — Quod et August. innuit *de Divers. Qq. ad Simplic.* I. q. 2. n. 4: *Quomodo est enim iusta aut qualiscumque omnino electio, ubi nulla distantia est?* Et ibid. n. 6: *Nemo enim eligitur nisi iam distans ab illo qui reiicitur.*
+
+     **En.** I Timothy 2:4: "*Who wills all men to be saved etc.*" — As to the major of this argument we recall Aristotle's words as above. — Which Augustine also intimates *On Diverse Questions to Simplicianus* I, q. 2, n. 4: "*For how is there a just election, or any election at all, where there is no distinction?*" And ibid., n. 6: "*For no one is chosen unless [he is] already distant from him who is rejected.*"
+
+[^8]: **La.** Vat. cum paucis mss. *aeternum*.
+
+     **En.** The Vatican [edition] with a few manuscripts [reads] *aeternum* ("eternal" [acc.]).
+
+[^9]: **La.** Sive, ut aliis verbis utamur: sed Deus quantum ad affectus aequaliter se habet erga omnes homines.
+
+     **En.** Or, to use other words: but God, as regards affection, is related equally to all men.
+
+[^10]: **La.** Vers. 14.
+
+     **En.** Verse 14 [Matthew 22:14: *multi enim sunt vocati, pauci vero electi*].
+
+[^11]: **La.** Ed. 1 interiicit *est solum*. Plura de hac distinctione voluntatis invenies infra d. 46.
+
+     **En.** Edition 1 inserts *est solum* ("is only"). More on this distinction of [the] will you will find below at d. 46.
+
+[^12]: **La.** Cfr. August., *de Praedest. Sanctor.* c. 17. n. 34. seqq.
+
+     **En.** Cf. Augustine, *On the Predestination of the Saints*, c. 17, n. 34 ff.
+
+[^13]: **La.** Pro verbis *per modum approbationis* Vat. absque auctoritate codd. hic et paulo inferius exhibet *per modum appropriationis* simulque primo loco his verbis addit *sive operationis vel applicationis* i. e. quae effectum ponit in actu.
+
+     **En.** In place of the words *per modum approbationis* ("by way of approbation") the Vatican [edition], without manuscript authority, here and a little later exhibits *per modum appropriationis* ("by way of appropriation"), and at the same time in the first place adds to these words *sive operationis vel applicationis* ("or of operation or of application") — that is, that which places the effect in act.
+
+[^14]: **La.** In Vat. et cod. cc desiderantur verba *et dilectio*.
+
+     **En.** In the Vatican [edition] and codex cc the words *et dilectio* ("and love") are missing.
+
+[^15]: **La.** Pro *effectus*, quod clare legitur in codd. H R I aa et in ed. 1, Vat. *effectu*. Multi codd. sunt dubiae lectionis nec discerni potest, utrum *effectum* exhibeant, an *effectu*. — Huc referri potest quod August., *de Praedest. Sanctor.* c. 17. n. 34, de electis eorumque vocatione profert. Facta enim c. 16 [?] n. 32. distinctione inter vocatos, qui, etsi vocati, noluerunt venire, et illos, qui etiam praedestinati et electi sunt, loc. cit. ait: *Electi sunt itaque ante mundi constitutionem ea praedestinatione, in qua Deus sua futura facta praescivit; electi sunt autem de mundo ea vocatione, qua Deus id quod praedestinavit, implevit.*
+
+     **En.** In place of *effectus*, which is clearly read in codices H R I aa and in edition 1, the Vatican [reads] *effectu*. Many codices are of doubtful reading, nor can it be discerned whether they exhibit *effectum* or *effectu*. — Here may be referred what Augustine, *On the Predestination of the Saints*, c. 17, n. 34, brings forward concerning the elect and their calling. For having made, c. 16 [?], n. 32, the distinction between those called, who, although called, were unwilling to come, and those who are also predestined and elect, loc. cit. he says: "*The elect are therefore [chosen] before the foundation of the world by that predestination in which God foreknew his own future deeds; but they are elected out of the world by that calling by which God fulfilled what he had predestined.*"
+
