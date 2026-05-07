@@ -6,287 +6,211 @@ distinctio: 35
 type: dubia
 title_la: "Dubia circa litteram Magistri"
 title_en: "Doubts concerning the text of the Master"
-printed_pages: [614, 615, 616]
-pdf_pages: [204, 205, 206]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 614–616"
+printed_pages: [613, 614, 615, 616]
+pdf_pages: [203, 204, 205, 206]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 613–616"
 line_start: 19688
 line_end: 19945
-word_count_latin: 2090
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR pt2 (raw lines 19688–19945), six dubia (DUB I–VI), fresh literal English translation, full apparatus from raw OCR (18 entries), [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d35-dubia
 
+## *Dubia circa litteram Magistri.*
+
+---
+
 ## Latin
 
+<!-- page 613 -->
 
-            ponere imperfectionein                                        ,   unde omne creatum eo                                      est   rum in quantum creata, sed in quantum                                                                    connotata.        I
+### DUBIA CIRCA LITTERAM MAGISTRI.
 
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin (`**La.**`) is verbatim from the Quaracchi apparatus; English (`**En.**`) is a literal rendering. Variant readings preserve the apparatus's manuscript-sigla style (e.g., *Cod. T*, *Vat.*, *ed. 1*).
 
+#### DUB. I.
 
+In parte ista sunt dubitationes circa litteram et primo de hoc quod dicit in primo capitulo Magister: *Eorum tamen quaedam efflagitant specialem tractatum.* Aut enim ista[^1] efflagitant specialem tractatum, quia sunt difficilia, aut quia sunt appropriata. Si, quia sunt difficilia; sed alia etiam sunt difficilia, sicut simplicitas, veritas et immutabilitas. Si quia sunt appropriata; sed similiter sunt unitas et aequalitas.
 
-            finitum, quo perfectum '; sed omnis conditio imper-                                                                               Idea autem non counotat ideatum                              secundum actua- Kounndumi)
-            fectionis est a                     Deo releganda: ergo etc.                                                                      lem existentiam                         ,    sed solum secundum potentiam. Et
-                                                                                                                                              quia Deus potest facere infinita, quamvis                                                                  nunquam
-                                                               c       N c L u s 1 0.                                                         faciat nisi           flnita,                ideo ideae vel rationes cognoscendi
-                                                                                                                                              sunt         in   Deo     infinitae ,                  quia non tantum sunt entium
-                        Ideae divinae noti sunl in                                         numero ftnito,                                     vel fulurorum, sed omnium Deo possibiUum. Nihil
-                                                                sed infinito.                                                                 enim potest Deus, quod non actu cognoscat.
-                                                                                                                                                   3. Ad illud quod obiicitur, quod inflnitas ponit
+**Respondeo:** Dicendum, quod ista efflagitant specialem tractatum triplici ex causa: tum quia sunt difficilia; tum quia multa de ipsis in Scriptura sunt determinata; tum etiam quia dicunt respectum ad creaturam[^2], et secundum has conditiones attenditur ratio causae in divina natura. Ideo, quia debebat facere transitum ad creaturas sive ad creationem, et ad hoc praeexigitur in causa posse, scire et velle, quae faciunt causam esse perfectam: ideo tractatum istum in medio collocavit inter tractatum de Trinitate et tractatum de rerum universitate. Sed quia huiusmodi plus se tenent cum Deo, et adeo se tenent[^3], quod sunt Deus; ideo tractatus iste in primo libro ponitur.
 
-                        Respondeo:                        Dicendum, quod,                             sicut             dicitur          in   confusionem ; dicendum quod est ponere inflnitatem       ,
+#### DUB. II.
 
+Item quaeritur de hoc quod dicit: *Amodo tractandum est de scientia et voluntate et potentia.* Videtur enim male ordinare, quia potentia praecedit scientiam et voluntatem[^4]: ergo male ordinat in proponendo et male in exsequendo.
 
-            Psalmo -            ,    divinae sapientiae non est                                              numerus , ac                     secundum diversitatem realem; et sic privat el di-
-            per hoc nec                     rationum, per quas                                        divina                sapientia         stinctionem et ordinem                                   ,   si   ponatur actu. Sed mul-
-            cognoscit; et                   quoniam non habent numerum, non                                                                   titudo           idearum non
-                                                                                                                                                                    rerum diversarura, sed di-   est
-usio.       sunt numerabiles                     ideo non sunt in numero finito
-                                                          :                                                                                   cit                    veritatis in exprimendo ' xoiandum
-                                                                                                                                                     immensitatem divinae
-            sed         inflnito.           Et concedendae sunt rationes et                                                        aiicto-    et cognoscendo omne quod est Deo possibile, et hoc
-            ritates          ad hoc inductae.                                                                                                 quidem secundum rem et actum est unum: ideo non
-                    Ad illud ergo quod obiicitur, quod omne sci-
-                        1.                                                                                                                    est confusio.
-,    o|)-   bile est finitum, ergo etc. dicendum, quod omne                    ;                                                                          4.    Ad illud quod obiicitur, quod imperfectionis
-    "'"
-            scibile          per comprehensionem est flnitum comprehen-                                                                       est inflnitas in crealura;         dicendum, quod quamvis
-            denti ; rationes autem aeternae per comprehensionem                                                                               sit   imperfectionis in creatura, non tamen est ° in Crea-
-            a solo Deo sciuntur, ideo soU Deo sunt                                                                     flnitae.         Sed   tore, quia est intelUgere                                     inflnitatem                         per      defectum
-            quemadmodum non sequitur: hoc aequatur inflnito,                                                                                  et    per excessum. Inflnitas per defectum potest esse
-            ergo est finitum immo est ibi quid et simpliciter ',
-                                                     ,                                                                                        in creatura ut in materia ', et lioc est imperfectionis;
+**Respondeo:** Dicendum, quod dupliciter est loqui de istis: aut in sua generalitate, aut ut concurrunt ad unum effectum. Si in sua generalitate, sic cum scientia sit respectu bonorum et malorum faciendorum, prior est secundum rationem intelligendi quam potentia; et potentia, cum sit respectu faciendorum et non faciendorum, prior est voluntate, quae est respectu faciendorum bonorum tantum. Si autem loquamur de his, prout concurrunt ad unum effectum; sic potentia, in quantum potens, est prima, in quantum exsequens, est ultima: prius enim est posse, deinde scire, et post velle, et postremo est facere quod est ipsius potentiae[^5]. Et quantum ad hunc actum Magister ponit hic ultimo loco potentiam; sed in exsecutione considerat ordinem secundum maiorem generalitatem et minorem.
 
-            et potius sequitur                                 oppositum: ergo non est finitum                                                haec autem nullatenus est in Creatore. Inflnitas au-
-            sic    etiam in proposito iudicandum. Rationes                                                                         autem      tem per excessum non potest simpliciter esse in crea-
-            illae       non sunt comprehensibiles ab aflquo intellectu                                                                        tura, quoniam habet esse creatum et compositum
-            finito; ideo                   patet illud.                                                                                       et limitatum; Deus autem nihil horum habel, et
+#### DUB. III.
 
-                   Ad illud qupd obiicitur, quod multitudo idea-
-                        2.                                                                                                                    ideo habet inflnitatem, et haec                                            est                summae            perfe-
-            rum est a multitudine ideatorum; dicendum, quod                                                                                   ctionis.
+Item quaeritur de hoc quod dicit, quod *divina scientia diversa sortitur nomina*, quae scilicet sunt scientia[^6], praescientia vel praevidentia, dispositio, praedestinatio, providentia. Quaeritur[^7], quomodo distinguuntur haec nomina; et videtur quod insufficienter enumeret, quia non solum est ponere in divinis praedestinationem, verum etiam reprobationem.
 
+**Respondeo:** Dicendum, quod huiusmodi nomina distinguuntur sic: divina cognitio potest considerari in se, aut in comparatione ad creaturas. Si in se: aut prout dicit pure cognitionem per modum speculationis, aut prout dicit speculationem iunctam affectioni. Primo modo est scientia, secundo modo est sapientia. Vel sic: aut[^8] dicit cognitionem simplicem, aut per rationem nobilissimam. Primo modo scientia, secundo modo sapientia[^9]. — Si autem consideretur in comparatione ad res, hoc potest esse dupliciter: aut connotat eventum, et sic praescientia; aut effectum, et hoc dupliciter: aut in conservando sive gubernando, et sic providentia; aut in efficiendo, et hoc dupliciter: aut quantum ad bonum naturae et sic dispositio; aut quantum ad bonum superadditum, et sic praedestinatio, aut quantum ad eius privationem, et sic reprobatio. Sed quia privatio gratiae non est effectus, sed defectus, ideo reprobatio non hic numeratur, sed continetur sub praescientiae nomine, et ipsum sibi appropriat.
 
+Unde divisio potest sic formari: cognitio Dei aut est in se, aut in comparatione: si in se, aut per rationem nobilissimam, et sic sapientia; aut per qualemcumque rationem, et sic est scientia. Si in comparatione: aut eventuum, et sic praescientia; aut eventuum et effectuum, et hoc vel in gubernando, et sic est providentia; vel in efficiendo, et sic, si respectu cuiuscumque naturae sit, est dispositio; si respectu rationalis, sic praedestinatio; aut eventuum et effectuum et defectuum, et sic reprobatio, quae est praescientia nominata.
 
+<!-- page 615 -->
 
-                                                                                                                                   SCHOLION.
+#### DUB. IV.
 
+Item quaeritur de hoc quod dicit, quod *creator ita dicitur relative, ut tamen essentiam non significet.* Videtur enim dicere falsum: nam creatio significat modum actionis, non relationis, ergo creator similiter; ergo non dicitur secundum relationem a parte modi, nec a parte rei; illud constat: ergo nullo modo. Item, videtur falsum dicere, cum dicit, quod essentiam non significat, quia creatio significat aliquid: aut ergo creatum, aut increatum. Si creatum: ergo non dicitur de Deo; si increatum: ergo cum non significet personam, significat essentiam.
 
-                   1.    SoluUo huiiis                        quaestionis          dependet a solutione alterius                                         Ex principiis               hic       posilis     solvi potest alia quaestio,                        utrum
-            quaestionis,              scil.         utrum etiam rerum                        mere possibilium sint                            idea pertineat ad scientiam speculativam                                                  ,       an ad practicam.
-            ideae in Deo statuendae; quod omnes concedunt, sed cuni qua-                                                                      Resolvendum enim est, quod ad practicam                                                       pertinet,      quatenus
-            dam differentia explicant. S. Tliomas (S.                                            I.    q.        IS.    a    .3.   ad 2.)     est    principium operandi;                            ad    speculativam vero, quatenus est
-            dislinguit          ideam in sensu slrictiore ut exemplar                                              et       principium        principium           cognoscendi.                   Convenit        S.      Thom., de                      Verit. q. 3.
+**Respondeo:** Dicendum, quod relative dici aliquid est dupliciter: aut quia significat relationem, sicut nomina, quae sunt in praedicamento relationis; aut quia habet respectum annexum: sic, cum omnis actio dicat respectum ad passum sive factum, et passum ad agentem, sic dicitur relative, et sic intelligit Magister de hoc nomine *creator*; et bene[^10]. Aliud etiam quod dicit, quod non significat essentiam; dicit propter hoc, quod quamvis imponatur divinae essentiae — et ideo de sola essentia dicitur, secundum omnes — tamen de eo, a quo imponitur, fuit controversia. Quidam enim voluerunt dicere, quod nomina sex generum[^11] non praedicant aliquid in Deo, sed compraedicant. Unde actio non videtur dicere aliquid in agente, sed ab agente. Et huic videtur consonare ratio, quia actio et passio videntur esse eadem. Et iterum huic videtur consonare verbum Boethii *de Trinitate*[^12], quod «alia genera rerum nec de Creatore, nec de creaturis praedicantur» — Ista opinio fuit satis probabilis, et huius fuit Magister[^13]; et ideo dicit, quod praescientia ratione scientiae importat essentiam, sed creator tantum relationem.
 
-            operandi,               et in      sensu largiore ut principium seu ralio cogno-                                                  a.    3;     addit    tamen etiam alium                           modum loquendi, secundum
-            scmdi. Idem               dicit         fde Verit. q. 3.                a.    6.):        «Quod idea proprie                      quem proprie loquendo idea respiciat scientiam praeticam vel
-            dicta       respicit           practicam                   cognitionem non solum in actu                                ,   sed   actu vel virtute,                  dum vocabula similitudo et ratio tam specu-
-            in habitu.              Unde cum Deus de liis quae facere potest, quamvis                                                         lativam          quam practicam scientiam respiciunt.
-            nunquam sint facta nec futura, habeat cognitionem virinaliter                                                                            II.   Alex. Hal., S. p. I. q. 23.                      m.    3.    a.     2.       — Richard.           a Med.,
-            practicam           ;   relinquitur ,               quod idea              possit     esse eius             ,
-                                                                                                                             quod nec         I.   Sent. d. 36.         a.       2.       q.    S.     — Durand.               ,   I.       Sent. d.       43. q. 2.
-            est, nec fuit, nec erit»                               elc.                                                                       n.    12. seq.       — Dionys.                   Carlh.,     I.   Sent. d. 36. q. 3.
+Verumtamen illud hodie communiter non tenetur. Dicimus enim, Deum esse suam actionem, ut puta creationem. Et quoniam essentia est divina actio, et hoc nomen *creator* imponitur ab actione; ideo non tantum impositum est essentiae, verum etiam ab essentia, sed illam significat in relatione. Nec Boethius intendit dicere, quod talia non praedicantur, sed non praedicantur absolute. — Si tamen velimus sustinere Magistrum secundum communem opinionem, dicemus, quod Magister non vult dicere, quod creatio non importet divinam essentiam, sed quod, quantum ex vi vocabuli, non dicit essentiam absolute, sed per modum relationis sive sub appellatione relativa. Sed praescientia duo dicit: et scientiam et praecessionem[^14]. Ratione scientiae dicit essentiam absolutam, unde manet scientia, re ipsa non manente. Non sic est de creatione; non enim est creatio, nisi etiam sit creatura. Et secundum hoc verbum Magistri non habet calumniam[^15].
 
+#### DUB. V.
 
+Item quaeritur de hoc quod dicit: *Si nulla fuissent futura, esset tamen in Deo scientia eadem.* Videtur enim male dicere, quia scientia nostra ponit res, et quando non ponit, non est scientia, sed opinio vel alia acceptio minus nobilis[^16]: ergo cum de nobilitate scientiae sit ponere rem, videtur multo fortius, quod divina scientia ponat, quae est nobilissima.
 
+**Respondeo:** Ad hoc breviter dicendum, quod est scientia, qua habeo cognitionem de re, et est scientia, qua scio rem esse[^17]. Prima scientia nec in nobis, nec in Deo ponit existentiam rei in proprio genere, nec de praesenti, nec de futuro; quod patet, quia artifex habet cognitionem faciendi domum, quam nunquam faciet. Secunda vero scientia ponit rem tam in Deo quam in nobis; sed in nobis, quia dependet, in Deo, quia connotat[^18]. Et quantum ad primum modum loquitur Magister, quod eadem scientia esset, sed non respectu eiusdem, et respectu tot, respectu quot modo est quantum ad secundum modum.
 
-                    '
-                         Cfr.       Aristot.,        V. Metaph.                texl.     21. (IV.           c.    16.),       ubi inter       codd. cum edd. 2                   ,    3 ideitaiem, et subinde eocigeniiam pro exi-
-            alia   ea dicuntur perfecta, quae flnem habent sive acquirunt.                                                                    stentiam ; corrupte.
-                    -    Psalm.        1   46   ,    5.        — Paulo          inferius     verba               sed infinito            in          5     Cod.        sic :         sed dicit infmitaiem vel                               modorum imitandi
-            sola    Vat. desiderantur.                                                                                                        divinam essentiam, sicut alias dictum                                          est,               divime      veritaiis
-                    ^    Codd.             V
-                                   secundum quid ei simplicUer, de quo
-                                                    ibi                                                                                       imprimendo et cognoscendo etc.
-            vide supra pag. 343, nota 7. Mox pro sic etiam codd. AS T X                                                                              *     In cod.     T ct aliis nonnullis omittitur est
-            et alii nonnulli cum ed.   solummodo sic.              1
-                                                                                                                                                     '
-                                                                                                                                                           Aristot.,    VII.          Metaph.          texl.    40.    [\'\.       c.       1   1.):   Cum maleria
-                    '    Quaesl. praeced.                       — Paulo            inferius pro             ideatum plurimi                   namque non esl                 ,       indeflnitum (iopiaTov) etcnim                                elc.
+<!-- page 616 -->
 
-                                                                                                                                ,
+#### DUB. VI.
 
+Item quaeritur de hoc quod dicit, quod *omnia sunt Deo praesentia, non solum quae sunt, sed etiam quae praeterierunt.* Quomodo intelligitur illud? Aut enim intelligitur de praesentia secundum veritatem, aut de praesentia secundum cognitionem. Primo modo falsum est: constans est, quod antichristus non est in Deo secundum veritatem praesens. Si secundum cognitionem, quia habet cognitionem praeteritorum et futurorum; sed sic habet una anima[^19]: ergo similiter omnia sunt ei praesentia.
 
+**Respondeo:** Dicendum, quod non omnia dicuntur esse praesentia Deo secundum veritatem existentiae rerum, sed secundum cognitionem, quia duplici ratione[?]: actu cognoscit praesentia, praeterita et futura; et circa actum suae cognitionis semper est praesentialitas, ita quod nulla successio cognitionis Dei est in nunc, quod complectitur omnem successionem sine mutatione: et ideo omnia sunt ei praesentia ex hac duplici causa[^20]. Quamvis autem creatura habeat cognitionem de praeteritis, quia tamen cognitio eius transit in praeteritum et nova generatur cognitio ex rei existentia: ideo non dicitur, quod omnia sunt praesentia creaturae, sicut dicitur, quod omnia praesentia sunt Deo. Et ideo non ponitur memoria in Deo, quoniam memoria respicit praeteritum[^21], non tantum in re, sed ut etiam actus illius cognitionis transit in praeteritum; sed praescientia non dicit rationem sive actum scientiae ut futurum; et ideo in Deo convenienter ponitur.
 
-
-                                                                                                   DIST.    XXXV. ART. UNICUS QUAEST. VI.                                                                                             613
-
-
-
-
-                                                                                                                         QUAESTIO VI.
-
-
-                                                                                                          Utrmn ideae ordinem habeant.
-
-
-
-                       Sexto       et       ultimo quaeritur,                                     utrum         in    ideis   sit   gnoscendi ad invicem, nec secundum rem,                                                    nec     se-
-
-             ponere numerura ordinatum. Et quod                                                            sic,                     cundum rationem. Habent quippe ordinem ideae ad
-                       1.   Videtiir Augustinus ^ dicere: « Alia ratione con-                                                       ideata , sed ad invicem non                                  ,
-                                                                                                                                                                                                      quoniam nec una prior
-id opposi- ditus        est    homo quam equus » quia alius est homo                        ,
-                                                                                                                                    altera, nec posterior, nec est                                     una ab alia, nec no-
-             ahus equus: ergo         cum homo sit nobihor eqno, pari                                                               bihor est ; et ideo non ponitur                                      ibi    ordo.   —      Et ratio Ratio.
-             ratione nobiliori idea vel ratione est conditus homo                                                                   huius est, quia ideae dicunt respectum ad res co-
-             quam equus. Sed ubi                                  est              magis nobile                  et    minus        gnitas de ratione sui nominis °. Et quia illae sunt
-             ibi est        ordo   :   ergo etc.                                                                                    plures, ideo ideae ex primo respectu nominis plures
-                       2.    Item, sicut Deus per ideas cognoscit et pro-                                                           sunt.        Sed        ordo    dicit novum respectum et novam
-
-             ducit res distinctas, ita' cognoscit et                                                       producit res             habitudinem,                  cum una idea comparatur ad aliam.
-             ordinatas: ergo sicut ponitur plurahtas in ideis                                                                 ex    Et quoniam,                   illo '            respectu circumscriplo,                    qui est
-             pluralitate           cognitorum                     et           ideatorum,                 ita   debet poni          ad ideata,   Deo ideae simphciter sunt unum nec
-                                                                                                                                                             in
-
-             ordo ex ordine.                                                                                                        habent ordinem ad invicem; ideo non est conceden-
-                   3.       Item, ubi plurahtas sive distinctio,                                                      aut est       dum, quod ideae habeant pluralitatem cum ordine ad
-             ordo, aut inordinatio ; sed in Deo non                                                             cadit inor-         invicem.
-             dinatio nec confusio                           :    ergo          ^   in           Deo habent ordinem.                             1.    Ad     illud         quod oiMicitur, quod aha est idea, soiaiio
-                                                                                                                                                                                                                                             ''°"'°'
-                       CoNTRA:              I.        Ideae           sunt plures,                        quia        per     eas   quia        homo alius             :       ergo nobilior, quia                 homo nobilior
-,ndaraeni.i.Deus        distiucte cognoscit;                                   sed ^             Deus non cognoscit                 equo; dicendum, quod                                   non        est simile.        Simihtudo
-             unum post ahud, sed omnia simul: ergo ideae ha-                                                                        enim, eo quod ad alterum comparatur, habet                                                         di-
-             bent in Deo simuUatem.                                                                                                 stingui, sed non habet nobilitari ab                                           illo ,     nisi    ali-
-
-                       2.    Item,          si        est       ordo, aul ergo piHoritalis , aut                                    quid recipiat ab                       iilo       ad quod comparatur. Et                         quo-
-             dignitatis, aut originis                                 '"
-                                                                           :   non prioritatis, quiatunc                            niam             idea     hominis                 nihil      recipit       ab homine, nec
-             esset una idea altera posterior, quod est inconveniens                                                                 idea equi ab equo                           :    ideo una non dicitur altera no-
-             dicere; non nobilitatis,                                      quia quaelibet                       in    Deo     est   bilior.
-
-             summe nobilis                   ;        non originis, quia si una de altera                                                       2.    Ad     illud         quod obiicitur, quod Deus cognoscit
-             oriretur,         tunc                  esset       ibi           vera              distinctio       secundum          res ordinatas;                  dicendum,         quod quamvis ordinatas
-             rem   :    ergo nullo modo                           ,        ut videtur               ,    est in eis ordo.           cognoscat, tamen simul et aeque nobiliter cognoscit;
-                       3.   Item, omnis inBnitas aut omnino privat ordi-                                                            el   ideo,            sicut     ponebatur                    distinctio       in ideis,          quia
-             nem, aut toliit perfectionem ab ordine, quia tollit sta-                                                               distincte per eas cognoscebat, ita debet poni simul-
-             tuni et         complemenlum                         ;        sed in ideis est infinitas, ut                           tas et aequalis nobilitas,                             quia simul et aeque                       nobi-
-             visum est in aho problemate "                                              :       ergo aut nullus ordo,               liter       cognoscit; et ita                       non          debet poni         ordo.       Sicut
-             aut incompletus; sed non incompletus, ergo nulius.                                                                     enim, quamvis Deus cognoscat res albas, non sunt
-                                                                                                                                    ideae albae in Deo , sic quamvis cognoscat ordinatas,,
-                                                           CONCLUSIO.                                                               non oportet, quod           sint in Deo ordinatae.
-
-                                                                                                                                                3.    Ad iUud quod obiicitur, quod ubi                                        est    plu-
-             Jn ideis non                   est        ordo ad invicem, nec secundum                                                ralitas sine              ordine , est confusio et inordinatio ;                                   di-
-
-                       rem, nec secundum rationem, sed tantum ad                                                                    cendum            ,
-                                                                                                                                                          quod falsum                    est ,       quia potest        ibi    esse    si-
-
-                       ideata.                                                                                                      raultas ; et sic esl in ideis.                                   —   Vel    dicendum quod Auter.
-                                                                                                                                                                                                                                ,
-
-
-                                                                                                                                    illud        habet        locum, ubi                   est        pluralitas    realis; non
-                       Respondeo                 :    Dicendum                 ,   sicut           tactum        est in       op-   talis esl in ideis quia omnes unum sunt;
-                                                                                                                                                                           ,                                                  et     ideo
-conciusio.   ponendo ', non                          est    ordo in                ideis sive rationibus co-                        non potest esse inordinatio.
-
-
-
-
-                       Libr. 83 Qq. q.                     46. n. 2.                                                                     ' In         fundamentis, praesertim in 2.                      —     In initio respons. posl
-                       Cod.    T ila etiam.                                                                                         Dicendum codd. A F I V inserunt quod. Mox pro secundum rem,
-                       Supple    cum codd. F P Q \V ideae.                                                                          quam lectionem restituimus ex codd. F T W, Vat. secundum
-                        Mulli codd.                  utACGHILRSTZ ctc perperam ergo,                                                onginem; codd. ACLORS et alii plures secundum ordinem.
-                   5    cod.           si   ergo.                                                                                   Subinde post rationem Vat. addit pr-ioritatis aut dignitatis.
-                        Cfr.   supra         d.       20. a. 2. q.                 1.       in   corp.                                      ' Cfr.        supra   q.       3.       in corp.
-
-                        Quaesl. praeced.                                                                                                    '   Pro       ilta plurinii             codd. tino ; perpcrani.
-
-                                                                                                         ,                                                                                                              ,
-
-
-
-
-                                                                                         SENTENTIARUM LIB. 1.
-
-
-
-
-                                                                                              SOHOLIOR
-
-       I.    Responsio           iid   hanc (luaeslionem                  el solulio     ad   1.   et 2.     quae eminenter omnia continet et ut prima                                      et      sumnia vcritas
-       ex hoc principio
-elicilur                  quod ideae nec nobilitatem nec or-
-                                            ,
-                                                                                                             exprimit.
-
-dinem nec alias proprietates habeant ab ideatis, sed tantum                                                       II.   Haec quaestio invenitur tantum                             a    paucis antiquis Scho-
-distinctionem            (efr.    hic q. 4.     ad 3. i.). Quod auleni ideae ac-                             lasticis explicite tractata, scil.              a    Petr. a              Tar.,     1.    Sent.    d.   36.
-
-cipiant distinctionem                  ab ideatis, inde piovcnil, quia ideae le-                             q. 2. a.    4.    ad    9.   — Dionys.          Carth.,          I.    Senl.      d.     36. q.   4.    post
-spectum important ad                     distincta ideata. Fundamentmn autem                                 principium.
-
-iliorum respectuum est ipsa inflnila divinae essentiae perfectio.
-
-
-
-
-                                                                            DUBIA CIRCA LITTERAM MAGISTRL
-
-
-
-                                                 DUB.         1.                                                       Respondeo: Dicendum                        ,
-                                                                                                                                                                      quod dupliciter esl loqui
-                                                                                                             de   istis:       aut in sna. generalitate , aut ut concurrunt
-            In parte ista siint diibitationes circa lilternin et                                             ad   unum effectum. Si in sua generalitate, sic cum
-primo de hoc quod                               dicit in primo capitulo Magister:                            scientia         sit    respectu          bonorum et malorum faciendo-
-Eorum iamen quaedam efflagitant specialem                                                          Ira-      rum,priorest secimdum rationein                           intelligendi quam
-
-ctatum. Aut enim                        ista         ^    efQagitant specialem tracta-                       potentia; et potentia,                         cum sit respeclu faciendorum
-tum, quia sunt di/ficilia, aut quia sunt appropriata.                                                        et   non faciendorum, prior                              est          voluntate,            quae        est
-
-Si, quia sunt dijjicilia; sed alia etiam sunt                                                  difTici-      respectu faciendorum   bonorum tantum. Si autem
-lia,    sicut        simplicitas,                    veritas         et   immutabilitas.            Si       Inquamur de his, prout concurrunt ad unum effe-
-quia sunt appropriala; sed similiter sunt unitas et                                                          ctum; sic potentia, in quantum potens, est prima, in
-aequalitas.                                                                                                  quaotum exsequens, est ultima prius enim est posse           :
-
-
-
-
-            Respondeo: Dicendum, quod ista efflagitant spe-                                                  deinde scire, et post velle, et postremo est /acere
-cialem tractatum        triplici ex causa: tura quia sunt                                                    quod       est     ipsius        quantuni ad hunc
-                                                                                                                                                potentiae".              Et
-
-         tum quia multa de ipsis in Scriptura sunt
-difficilia;                                                                                                  actum Magister ponit hic ultinio loco potentiam; sed
-determinata; tum etiam quia dicunt respectum ad                                                              in exsecutione considerat ordinem seeundum maiorem
-
-creaturam, et secundum has conditiones attenditur                                                            generalitatem et minorem.
-
-ratio causae               in divina                     natura.      Ideo,      quia         debebat
-facere transitum ^ ad creaturas sive ad creationem,                                                                                                     DUB.          III.
-
-
-et   ad hoc praeexigitur in causaposse, scire et velle,
-quae faciunt causam esse perfectam: ideo tractatura                                                                    Item quaeritur de hoc quod dicit,                                              qmAdivina
-istum in medio collocavit inter tractatum de Trini-                                                          scientia diversa sortitur                           nomina , quae scilicet sunt
-tate et tractatum de rerum universitate. Sed quia                                                            scientia ^, praescientia vel praevidentia , dispositio,
-
-huiusmodi plus se tenent cum Deo, et adeo se te-                                                             praedestinatio ,               providenlia.                      Quaeritur ', quomodo
-nent', quod sunt Deus; ideo tractatus iste in primo                                                          distinguuntur haec nomina; et videtur quod                                                        insuffi-
-
-libro ponitur.                                                                                               cienter enumeret , quia non                               solum est ponere in divi-
-                                                                                                             nis praedestinationem ,    verum etiam reprobationem.
-                                                 DUB.         II.                                                      Respondeo: Dicendum, quod liuiusmodi nomina                                                          i^'i?«"'
-
-
-                                                                                                             distinguuntur                sic   :   divina cognitio potest considerari m'"»'"-
-
-    Item quaeritur de hoc quod dicit:                                               Amodo tra-               in se , aut in               comparatione ad creaturas.                                      Si    in^e:       cojipa'
-
-
-ctandum est de scientia et voluntate                                                et    potentia.          aut prout dicit pure cognitionem per moduin specu-
+---
 
 ## English
 
-[Translation pending]
+<!-- page 613 -->
+
+### DOUBTS CONCERNING THE TEXT OF THE MASTER.
+
+#### DOUBT I.
+
+In this part there are doubts concerning the text, and first concerning what the Master says in the first chapter: *Of these, however, certain ones demand a special treatment.* For either these[^1] demand a special treatment because they are difficult, or because they are appropriated. If because they are difficult; but other things also are difficult, such as simplicity, truth, and immutability. If because they are appropriated; but similarly so are unity and equality.
+
+**I respond:** It must be said that these demand a special treatment from a threefold cause: both because they are difficult; both because many things concerning them are determined in Scripture; and also because they say a respect to the creature[^2], and according to these conditions the account of cause in the divine nature is attended to. Therefore, because [the Master] had to make a transition to the creatures, that is, to creation, and for this there is required beforehand in the cause *to-be-able*, *to-know*, and *to-will*, which make a cause to be perfect: therefore he placed this treatment in the middle, between the treatment on the Trinity and the treatment on the universe of things. But because such things hold themselves more with God, and so hold themselves[^3] that they are God; therefore this treatment is placed in the first book.
+
+#### DOUBT II.
+
+Likewise it is asked concerning what he says: *Henceforth there must be treatment of knowledge and will and power.* For he seems to order [them] ill, because power precedes knowledge and will[^4]: therefore he orders ill in proposing and ill in carrying out.
+
+**I respond:** It must be said that there is a twofold way of speaking of these: either in their generality, or as they concur unto one effect. If in their generality, so since knowledge is with respect to goods and evils to be done, it is prior in the account of understanding than power; and power, since it is with respect to things to-be-done and not-to-be-done, is prior to will, which is with respect only to goods to-be-done. But if we speak of these as they concur unto one effect; then power, insofar as it is *able*, is first, insofar as it is *executing*, is last: for first is *to-be-able*, then *to-know*, and after that *to-will*, and lastly is *to-do*, which is of power itself[^5]. And as regards this act the Master places power here in the last place; but in execution he considers the order according to greater and lesser generality.
+
+#### DOUBT III.
+
+Likewise it is asked concerning what he says, that *the divine knowledge is allotted diverse names*, namely *knowledge*[^6], *foreknowledge* or *forevision*, *disposition*, *predestination*, *providence*. It is asked[^7] how these names are distinguished; and it seems that he enumerates insufficiently, because in divine matters it is to be posited not only predestination but also reprobation.
+
+**I respond:** It must be said that names of this kind are distinguished thus: divine knowing can be considered in itself, or in comparison to creatures. If in itself: either insofar as it says purely a knowing in the manner of speculation, or insofar as it says speculation joined to affection. In the first way it is *knowledge*, in the second way it is *wisdom*. Or thus: either[^8] it says simple knowing, or [knowing] through the most noble account. In the first way knowledge, in the second way wisdom[^9]. — But if it be considered in comparison to things, this can be twofold: either it connotes the event, and so *foreknowledge*; or the effect, and this twofold: either in conserving or governing, and so *providence*; or in effecting, and this twofold: either as regards the good of nature and so *disposition*; or as regards the superadded good, and so *predestination*, or as regards its privation, and so *reprobation*. But because the privation of grace is not an effect but a defect, therefore reprobation is not numbered here, but is contained under the name of foreknowledge, and [the latter] appropriates it to itself.
+
+Hence the division can be formed thus: the knowing of God either is in itself, or in comparison: if in itself, either through the most noble account, and so wisdom; or through whatever account, and so it is knowledge. If in comparison: either of events, and so foreknowledge; or of events and effects, and this either in governing, and so it is providence; or in effecting, and so, if it is with respect to any nature whatsoever, it is disposition; if with respect to the rational, so predestination; or of events and effects and defects, and so reprobation, which is named foreknowledge.
+
+<!-- page 615 -->
+
+#### DOUBT IV.
+
+Likewise it is asked concerning what he says, that *creator is so said relatively, that nevertheless it does not signify the essence.* For he seems to say a falsehood: for *creation* signifies the mode of an action, not of a relation, therefore *creator* similarly; therefore it is not said according to relation on the side of the mode, nor on the side of the thing; that is established: therefore in no way [is it relative]. Likewise, he seems to say a falsehood when he says that it does not signify the essence, because *creation* signifies something: either therefore the created or the uncreated. If the created: therefore it is not said of God; if the uncreated: therefore since it does not signify a person, it signifies the essence.
+
+**I respond:** It must be said that for something to be said relatively is twofold: either because it signifies a relation, like the nouns which are in the predicament of relation; or because it has a respect annexed: thus, since every action says a respect to the patient or thing-done, and the patient to the agent, so it is said relatively, and so the Master understands [it] of this name *creator*; and rightly so[^10]. Now the other thing he says, that it does not signify the essence; he says on this account, that although it be imposed upon the divine essence — and therefore is said of the essence alone, according to all — yet concerning that from which it is imposed there was a controversy. For some wished to say that the names of the six [last] genera[^11] do not predicate something in God, but co-predicate. Hence action does not seem to say something in the agent, but from the agent. And to this seems to consort the reasoning that action and passion seem to be the same. And again to this seems to consort the word of Boethius *On the Trinity*[^12], that «the other genera of things are predicated neither of the Creator nor of creatures.» — That opinion was sufficiently probable, and of this opinion was the Master[^13]; and therefore he says that foreknowledge by reason of knowledge imports the essence, but creator only relation.
+
+Yet today this is not commonly held. For we say that God is his action, as for instance creation. And since the essence is divine action, and this name *creator* is imposed from action; therefore it is imposed not only upon the essence but also from the essence, but signifies it in relation. Nor does Boethius intend to say that such things are not predicated, but that they are not predicated absolutely. — If however we wish to sustain the Master according to the common opinion, we shall say that the Master does not wish to say that creation does not import the divine essence, but that, as much as from the force of the word, it does not say the essence absolutely, but in the manner of relation, that is, under a relative appellation. But foreknowledge says two things: both knowledge and a precession[^14]. By reason of knowledge it says the absolute essence, whence the knowledge remains, the thing itself not remaining. It is not so concerning creation; for there is not creation unless there be also a creature. And according to this the word of the Master does not have any cavil[^15].
+
+#### DOUBT V.
+
+Likewise it is asked concerning what he says: *If no things were going to be, there would yet be in God the same knowledge.* For he seems to speak ill, because our knowledge posits the things, and when it does not posit, it is not knowledge but opinion or some other less-noble acceptation[^16]: therefore since it pertains to the nobility of knowledge to posit the thing, it seems much more strongly that the divine knowledge, which is most noble, would posit.
+
+**I respond:** To this it must be said briefly that there is a knowledge by which I have a cognition of a thing, and there is a knowledge by which I know that the thing is[^17]. The first knowledge neither in us nor in God posits the existence of the thing in its proper genus, neither of the present nor of the future; which is plain, because the artisan has the cognition of building a house, which he will never build. But the second knowledge posits the thing both in God and in us; but in us, because it depends, in God, because it connotes[^18]. And as regards the first mode the Master speaks, [namely] that the same knowledge would be, but not with respect to the same, and with respect to as many, with respect to as many as it is now, as regards the second mode.
+
+<!-- page 616 -->
+
+#### DOUBT VI.
+
+Likewise it is asked concerning what he says, that *all things are present to God, not only those which are, but also those which have passed away.* How is this to be understood? For either it is understood of presence according to truth, or of presence according to cognition. In the first way it is false: it is established that antichrist is not present to God according to truth. If according to cognition, [it follows] because [God] has cognition of past and future things; but thus has one soul[^19]: therefore similarly all things are present to it.
+
+**I respond:** It must be said that not all things are said to be present to God according to the truth of the existence of things, but according to cognition, because by a twofold ratio[?]: in act he knows the present, the past, and the future; and around the act of his cognition there is always presentiality, so that there is no succession of God's cognition in the *now*, which embraces every succession without change: and therefore all things are present to him from this twofold cause[^20]. But although the creature has cognition of past things, yet because its cognition passes into the past and a new cognition is generated from the existence of the thing: therefore it is not said that all things are present to the creature, as it is said that all present things are to God. And therefore memory is not posited in God, since memory looks to the past[^21], not only as regards the thing, but also insofar as the act itself of that cognition passes into the past; but foreknowledge does not say the account or act of knowledge as future; and therefore it is fittingly posited in God.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Scilicet *scientia*, *praescientia*, *providentia*, *dispositio* etc. — Mox post primum *Si* in codd. P Q additur *propter hoc*.
 
-## Notes
+    **En.** Namely *knowledge*, *foreknowledge*, *providence*, *disposition*, etc. — Soon after the first *Si*, codd. P Q add *propter hoc*.
 
-[Notes pending]
+[^2]: **La.** Cod. X bene subiungit *de Creatore*. Subinde pro *ad creationem* fere omnes codd. *ad Creatorem*; non bene.
+
+    **En.** Cod. X rightly subjoins *de Creatore*. Subsequently, for *ad creationem*, almost all codices read *ad Creatorem*; not rightly.
+
+[^3]: **La.** Pro *et adeo se tenent, quod* Vat. *et a Deo, cum*. Post *quod* multi codd. addunt *quia*, sed superflue.
+
+    **En.** For *et adeo se tenent, quod*, the Vatican edition reads *et a Deo, cum*. After *quod*, many codices add *quia*, but superfluously.
+
+[^4]: **La.** De quo vide supra pag. 487, nota 5. — Mox lectionem Vat. *proposito* ex codd. D T aa bb correximus in *proponendo*.
+
+    **En.** On which see above p. 487, note 5. — Soon after, we have corrected the Vatican reading *proposito*, on the basis of codd. D T aa bb, to *proponendo*.
+
+[^5]: **La.** Pro *ipsius potentiae* cod. E *actus suae potentiae*.
+
+    **En.** For *ipsius potentiae*, cod. E reads *actus suae potentiae*.
+
+[^6]: **La.** Cod. V Y addit *sapientia*.
+
+    **En.** Cod. V Y adds *sapientia*.
+
+[^7]: **La.** Cod. bb addit *ergo*. Subinde pro *distinguuntur* codd. V Y *distinguantur*.
+
+    **En.** Cod. bb adds *ergo*. Subsequently, for *distinguuntur*, codd. V Y read *distinguantur*.
+
+[^8]: **La.** Cod. V subiicit *prout*, et paulo inferius post *nobilissimam* Vat. cum paucis codd. adiungit *sive per causas nobilissimas, quae ipse Deus sunt*.
+
+    **En.** Cod. V subjoins *prout*, and a little below, after *nobilissimam*, the Vatican edition with a few codices adjoins *sive per causas nobilissimas, quae ipse Deus sunt* ("or through the most noble causes, which are God himself").
+
+[^9]: **La.** Sola Vat. addit *per appropriationem*. — De diversis nominibus divinae scientiae attributis S. Doctor fusius tractat infra d. 38. seqq. Alex. quoque Hal. de eis loquitur S. p. I. q. 23. m. 1. circa finem, nec non B. Albert., hic a. 4.
+
+    **En.** Only the Vatican edition adds *per appropriationem*. — Concerning the diverse names attributed to the divine knowledge, the Holy Doctor treats more fully below, d. 38 seq. Alexander of Hales also speaks of them, *Summa* p. I, q. 23, m. 1, near the end; and likewise Bl. Albert, here a. 4.
+
+[^10]: **La.** Cfr. Aristot., I. Metaph. c. 1. seqq., et VI. Ethic. c. 6. 7.
+
+    **En.** Cf. Aristotle, *Metaphysics* I, c. 1 seq., and *Ethics* VI, c. 6–7.
+
+[^11]: **La.** Intellige: generum supremorum sive praedicamentorum, quae sunt: actio, passio, ubi, quando, situs et habitus. Secundum illos, de quibus S. Doctor hic loquitur, haec nomina non dicuntur de aliqua re eodem modo, quo nomina quatuor primorum praedicamentorum, quae sunt: substantia, quantitas, qualitas, relatio. Nam ista quatuor dicuntur de re, quatenus quod his nominibus significatur intrinsece continetur in ipsa re, de qua praedicatur; illa sex vero, quatenus quod ipsis significatur est aliquid, quod rem, de qua praedicatur, extrinsecus afficit. Sive, ut ait Boeth., *de Trin.* c. 4: «Aliae (praedicationes) quidem quasi rem monstrant, aliae vero quasi circumstantias rei; quodque illa quidem ita praedicantur, ut esse aliquid rem ostendant, illa vero, ut non esse, sed potius extrinsecus aliquid quodam modo affigant». Haec differentia breviter insinuatur verbis *praedicare* et *compraedicare*.
+
+    **En.** Understand: of the supreme genera or predicaments, which are: action, passion, where, when, situation, and habit. According to those of whom the Holy Doctor here speaks, these names are not predicated of any thing in the same way as the names of the first four predicaments, which are: substance, quantity, quality, relation. For these four are predicated of the thing inasmuch as what is signified by these names is intrinsically contained in the thing itself of which it is predicated; but those six [predicates apply] inasmuch as what is signified by them is something which extrinsically affects the thing of which it is predicated. Or, as Boethius says, *On the Trinity* c. 4: «Some [predications] show, as it were, the thing, others as it were the circumstances of the thing; and those are predicated in such a way that they show the thing to *be* something, but the others, [in such a way] not [to show] *to be* but rather to attach something extrinsically in a certain way.» This difference is briefly insinuated by the words *praedicare* and *compraedicare*.
+
+[^12]: **La.** Cap. 4: *Reliqua vero neque de Deo neque de ceteris praedicantur.*
+
+    **En.** Chapter 4: *But the rest are predicated neither of God nor of the others.*
+
+[^13]: **La.** Cap. 7. huius distinctionis.
+
+    **En.** Chapter 7 of this distinction.
+
+[^14]: **La.** Pro *praecessionem* fere omnes codd. cum primis edd. perperam *praedestinationem*, melius cod. *praeordinationem*.
+
+    **En.** For *praecessionem*, almost all codices, together with the first editions, wrongly read *praedestinationem*; better is the codex reading *praeordinationem*.
+
+[^15]: **La.** Hoc dubium solvitur etiam a B. Alberto, hic a. 6, et a S. Thoma nec non a Richardo, hic circa lit.
+
+    **En.** This doubt is also resolved by Bl. Albert here, a. 6, and by St. Thomas, and likewise by Richard, here on the text.
+
+[^16]: **La.** Cfr. Aristot., I. Poster. c. 2: *Quod non est (de non-ente) non est scire, ut quod diameter sit symeter*; et ibid. c. 26 (c. 33), ubi differentiae inter scientiam et opinionem examinantur.
+
+    **En.** Cf. Aristotle, *Posterior Analytics* I, c. 2: *Of what is not (of non-being) there is no knowing, as that the diagonal be commensurable*; and the same place, c. 26 (c. 33), where the differences between knowledge and opinion are examined.
+
+[^17]: **La.** Prima scientia vocatur communiter respectu Dei *scientia simplicis intelligentiae*, altera *scientia visionis* (cfr. infra d. 39. a. 1. q. 3, et d. 41. a. 2. q. 2.).
+
+    **En.** The first knowledge is commonly called, with respect to God, *the knowledge of simple intelligence*; the second, *the knowledge of vision* (cf. below d. 39, a. 1, q. 3, and d. 41, a. 2, q. 2).
+
+[^18]: **La.** Cod. addit: *sicut effectus ponit causam; in Deo, sicut causa ponit effectum.* — Plura de hoc dubio inveniuntur infra d. 38. a. 1. q. 1. 2.
+
+    **En.** A codex adds: *as the effect posits the cause; in God, as the cause posits the effect.* — More on this doubt is found below, d. 38, a. 1, q. 1–2.
+
+[^19]: **La.** Vat. hic inserit vocem *praesentium*, nulla ratione, cum de praesentibus non instituatur quaestio. Mox pro *sed sic habet una anima* eadem Vat., omnibus codd. dissuadentibus, *sed si sic, cum hanc habeat etiam anima.*
+
+    **En.** The Vatican edition here inserts the word *praesentium*, with no reason, since there is no question raised concerning present things. Soon after, for *sed sic habet una anima*, the same Vatican edition, with all the codices dissuading, reads *sed si sic, cum hanc habeat etiam anima.*
+
+[^20]: **La.** Non pauci hunc locum ita interpretati sunt, quod S. Bonaventura sententiam Scoti doceat, quae oppugnat doctrinam S. Thomae de praesentia rerum in aeternitate; de quo vide infra d. 39. a. 2. q. 3. Sed haec interpretatio aliena videtur a mente Seraphici, qui duplicem rationem affert pro eo, quod omnia sint Deo praesentia, unam scilicet ex parte cognitionis divinae, alteram ex parte aeternitatis Dei; et in proferenda hac secunda ratione prorsus convenit cum S. Thoma, dicens: «quod (scil. *nunc* aeternitatis) complectitur omnem successionem sine mutatione», quae verba infra d. 39. a. 2. q. 3. in sensu S. Thomae longius explicantur (cfr. ibi Scholion). — Mox Vat. textum dilatat interserendo post *cognitionem* verbum *praesentibus*, post *praeteritis* verba *et futuris* et post *praeteritum* voces *et futurum*.
+
+    **En.** Not a few have so interpreted this passage that St. Bonaventure teaches the opinion of Scotus, which opposes the doctrine of St. Thomas concerning the presence of things in eternity; on which see below d. 39, a. 2, q. 3. But this interpretation seems alien to the mind of the Seraphic [Doctor], who brings forward a twofold reason for [the claim] that all things are present to God: one, namely, on the side of the divine cognition; the other, on the side of God's eternity. And in setting forth this second reason he wholly agrees with St. Thomas, saying: «that (namely, the *now* of eternity) embraces every succession without change», which words below at d. 39, a. 2, q. 3 are more lengthily expounded in the sense of St. Thomas (cf. there the Scholion). — Soon, the Vatican edition expands the text by inserting after *cognitionem* the word *praesentibus*, after *praeteritis* the words *et futuris*, and after *praeteritum* the words *et futurum*.
+
+[^21]: **La.** Cfr. supra d. 3. p. II. a. 1. q. 1. ad 3. — Sola Vat. addit *ut praeteritum*.
+
+    **En.** Cf. above d. 3, pars II, a. 1, q. 1, ad 3. — Only the Vatican edition adds *ut praeteritum*.

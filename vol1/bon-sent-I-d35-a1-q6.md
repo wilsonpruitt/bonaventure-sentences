@@ -11,133 +11,154 @@ title_en: "Whether the ideas have an order"
 printed_pages: [613, 614]
 pdf_pages: [203, 204]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 613–614"
+has_scholion: true
+has_apparatus: true
 line_start: 19581
 line_end: 19687
 word_count_latin: 893
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 19581–19687 of pt2), fresh literal English translation, full apparatus from raw OCR (10 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d35-a1-q6
+## *Utrum ideae ordinem habeant*
+
+---
 
 ## Latin
 
+<!-- page 613 -->
 
-                subiiciunt est.
-                                                                                                                                                        9    Cod.       T cnm          nonnuilis          aliis    codd. et ed. 3        correlati-
+### Quaestio VI.
+#### *Utrum ideae ordinem habeant.*
 
-                       *        Cfr. hic q.             % ad .3, et d. 19. p.                     II.   q.     2,       ubi et plura
-                occurrunt, quae ad obiecliones rcspiciunt.
-                                                                                                                                                        '»    Id est: non opoi-tol,                  qnod aliae proprietates idealoruni iii
-                       ^-^'at.             Iiic    addit pertinet , pro                 quo       in     tcxtu          orignali atti-            intellecluni rccipianlur, practcr illam proprielalem distinclionis.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives first the Latin source text (**La.**), then the English rendering (**En.**).
 
-                                                               .                                                           ,
+Sexto et ultimo quaeritur, utrum in ideis sit ponere numerum ordinatum. Et quod sic,
 
+1. Videtur Augustinus[^1] dicere: «Alia ratione conditus est homo quam equus», quia alius est homo, alius equus: ergo cum homo sit nobilior equo, pari ratione nobiliori idea vel ratione est conditus homo quam equus. Sed ubi est magis nobile et minus, ibi est ordo: ergo etc.
 
+2. Item, sicut Deus per ideas cognoscit et producit res distinctas, ita[^2] cognoscit et producit res ordinatas: ergo sicut ponitur pluralitas in ideis ex pluralitate cognitorum et ideatorum, ita debet poni ordo ex ordine.
 
+3. Item, ubi pluralitas sive distinctio, aut est ordo, aut inordinatio; sed in Deo non cadit inordinatio nec confusio: ergo in Deo habent ordinem.
 
-                                                                                        DIST.    XXXV. ART. UNICUS QUAEST. V.
+**Contra:**
 
+1. Ideae sunt plures, quia per eas Deus distincte cognoscit; sed[^3] Deus non cognoscit unum post aliud, sed omnia simul: ergo ideae habent in Deo simultatem.
 
+2. Item, si est ordo, aut ergo[^4] prioritatis, aut dignitatis, aut originis[^5]: non prioritatis, quia tunc esset una idea altera posterior, quod est inconveniens dicere; non nobilitatis, quia quaelibet in Deo est summe nobilis; non originis, quia si una de altera oriretur, tunc esset ibi vera distinctio secundum rem[^6]: ergo nullo modo, ut videtur, est in eis ordo.
 
+3. Item, omnis infinitas aut omnino privat ordinem, aut tollit perfectionem ab ordine, quia tollit statum et complementum; sed in ideis est infinitas, ut visum est in alio problemate[^7]: ergo aut nullus ordo, aut incompletus; sed non incompletus, ergo nullus.
 
-                                                                                                            SCHOLION.
+### Conclusio.
 
+> *In ideis non est ordo ad invicem, nec secundum rem, nec secundum rationem, sed tantum ad ideata.*
 
-                  I.    Conclusio                est       contra     nonnullos     ,
-                                                                                        qui    Platonem secuti                 diversa           sit    consideratio                  Socratis, ut Socrates est,                      et ut           homo
-           «omnium             singularium                 inbonorum negant
-                                                              Dco ideas esse,                                                  est,    et ut est animal,                respondebunt ei plures ideae vel similitu-
-           dicentes,           singularia              nonideam quam ideam
-                                                                habere        aliam                                            dines »       .   Hoc convenit cum principiis S. Bona venturae.
-           speciei ,        et Deum cognoscere per ideam specierum omnla sin-                                                          In solut.            ad 3. 4. notanda est exceptio ibi                                   facta in regula
+**Respondeo:** Dicendum[^8], sicut tactum est in opponendo, non est ordo in ideis sive rationibus cognoscendi ad invicem, nec secundum rem, nec secundum rationem. Habent quippe ordinem ideae ad ideata, sed ad invicem non, quoniam nec una prior altera, nec posterior, nec est una ab alia, nec nobilior est; et ideo non ponitur ibi ordo. — Et ratio huius est, quia ideae dicunt respectum ad res cognitas de ratione sui nominis[^9]. Et quia illae sunt plures, ideo ideae ex primo respectu nominis plures sunt. Sed ordo dicit novum respectum et novam habitudinem, cum una idea comparatur ad aliam. Et quoniam, illo[^10] respectu circumscripto, qui est ad ideata, in Deo ideae simpliciter sunt unum nec habent ordinem ad invicem; ideo non est concedendum, quod ideae habeant pluralitatem cum ordine ad invicem.
 
-           gularia contenta sub specie »                              (ita dicit Richard.       a   Med., 1. Sent.             generali          ,
-                                                                                                                                                      quod idea non habeat                               proprietates ideati           ;   'excipitur
+<!-- page 614 -->
 
-           d.    36. a. 2. q.           4.).          Huic sententiae favere videtur Henr. Gand.                               enim          proprietas            disUnciionis. Simul                          altendenda        est        probatio
-           (Quodl. 5. q.             3.).         Sed        communis         sententia       cum S. Bonav. et                 huius exceptionis, duplici ratione flrmata. Diflicultas clrca prio-
-           S.    Thom.         (S.      I.       q.    15. a. 3.       ad    i.)   et   eodem Richardo iilam                   ritatem idearum magis explicatur hic q. 6.
-           opinionem reprobat. Altamen                                S.   Thom. in alio loco (de                   Verit.             II.       Praeter locos citatos: Alex. Hal., S. p.                                 I.     q.        23.        m.    3.
+**Ad argumenta:**
 
-           q. 3. a. 8. ad 2.)                utramque senlentiam sic conciliat                      :    « Si       loqua-     a. 6.   —         Scot., de hac et seq. q. Report. 1. Sent. d. 36. q. 3.                                               i.   —
-           mur dc idea proprie, secundum quod est rei eo niodo quo est in                                                      S.     Thom.,           I.   Sent. d- 36. q. 2. a. 3; S. c. Gent. I. c. 63.                                   —        Petr.
+1. *Ad illud quod obiicitur*, quod alia est idea, quia homo alius: ergo nobilior, quia homo nobilior equo; dicendum, quod non est simile. Similitudo enim, eo quod ad alterum comparatur, habet distingui, sed non habet nobilitari ab illo, nisi aliquid recipiat ab illo ad quod comparatur. Et quoniam idea hominis nihil recipit ab homine, nec idea equi ab equo: ideo una non dicitur altera nobilior.
 
-           esse       producibilis           ;    sic      una idea respondet singulari, speciei                          el   a Tar.,           I.    Sent. d. 36. q. 2. a. i.                          — Richard.         a    Med.,           1.   Sent.
-           generi, individualis in ipso singulari, eo                          quod Socrates homo               ,              d.     36. a. 2. q. 4.         —           .Egid. R.,                I.    Sent. d.      36.     princ. 2, q. 4.
-           et animal,          non      distinguitur                secundum esse. Si autem accipia-                           collat.       3.       — Dionys.          Carth.,            I.   Sent. d. 36. q. 2.
-           mus ideani communiter pro siniilitudine vel ratione, sic, cum
+2. *Ad illud quod obiicitur*, quod Deus cognoscit res ordinatas; dicendum, quod quamvis ordinatas cognoscat, tamen simul et aeque nobiliter cognoscit; et ideo, sicut ponebatur distinctio in ideis, quia distincte per eas cognoscebat, ita debet poni simultas et aequalis nobilitas, quia simul et aeque nobiliter cognoscit; et ita non debet poni ordo. Sicut enim, quamvis Deus cognoscat res albas, non sunt ideae albae in Deo, sic quamvis cognoscat ordinatas, non oportet, quod sint in Deo ordinatae.
 
+3. *Ad illud quod obiicitur*, quod ubi est pluralitas sine ordine, est confusio et inordinatio; dicendum, quod falsum est, quia potest ibi esse simultas; et sic est in ideis. — Vel dicendum, quod illud habet locum, ubi est pluralitas realis; non talis est in ideis, quia omnes unum sunt; et ideo non potest esse inordinatio.
 
+### Scholion
 
-                                                                                                                    QUAESTIO V.
+**I.** Responsio ad hanc quaestionem et solutio ad 1. et 2. elicitur ex hoc principio, quod ideae nec nobilitatem nec ordinem nec alias proprietates habeant ab ideatis, sed tantum distinctionem (cfr. hic q. 4. *ad* 3.[?]). Quod autem ideae accipiant distinctionem ab ideatis, inde provenit, quia ideae respectum important ad distincta ideata. Fundamentum autem illorum respectuum est ipsa infinita divinae essentiae perfectio, quae eminenter omnia continet et ut prima et summa veritas exprimit.
 
+**II.** Haec quaestio invenitur tantum a paucis antiquis Scholasticis explicite tractata, scil. a Petr. a Tar., I. *Sent.* d. 36. q. 2. a. 4. *ad* 9.[?] — Dionys. Carth., I. *Sent.* d. 36. q. 4. post principium.
 
-                                                                      Utrum ideae in Deo sint numero finilae, an infinitae.
-
-
-
-                       Quinto quaeritur, utruQi in Deo sit ponere mul-                                                         nihil potest                  producere, cuius non                                      habeat              cognitio-
-           titudinem idearum secundum numerum flnitum, vel                                                                     nem et ideam: ergo                                         habet           ideas        infinitorum.                    Sed
-           infinitutn.           Et      quod secundum numerum inflnitum                                                       plurium sunt ideae plures:                                                 ergo inflnitorum                            sunt
-           videtur.                                                                                                            infinitae.
-
-                       1.   Augustinus de Civitate Dei undecimo':                                                   «Una                   S.         Item ,           omnibus                   flnitis            possunt        excogitari
-nndamenta.est     saplentia, in                        qua infiniti sunt thesauri omnium                                       plura, quia                        omni            flnito            potest           excogitari              aliquid
-           rerum intelligibilium »                                                                                             maius; sed nec Deus, nec homo habef plura                                                                                   co-
-                       2.   Item, Augustinus sexto de                                     Trinitate' dicit,                    gitare his                   quae Deus cognoscit                             ,
-                                                                                                                                                                                                                    quia tunc Dei scien-
-           quod « Filius est ars plena omnium rationum viven-                                                                  tia     non esset summa:                                    et si         hoc,        cum cognoscat per
-           tium»; sed constat, quod ars illa est infinita: ergo                                                                ideas, patet etc.
-           non impletur nisi                               infinitis,       ergo sunt           ibi       inflnitae                        C0NTR.A:               1.    Augustinus de Civitate Dei                                           duode- Ad opposi-
-           raliones.                                                                                                           cimo'': « Quidquid                                 scitur,            scientis          comprehensione
-                3. Item, ratione videtur, quia constat, quod                                                                   finitur»; sed constat, quod rationes cognoscendi sciun-
-           Deus cognoscit omnes species numeri, ergo omnes                                                                     tur: ergo finiuntur. Sed quaecumque finiuntur, sunt
-           habent ideas in Deo; sed species numeri sunt infi-                                                                  flnita:               ergo    etc.
-
-           nitae^: ergo etc. Si dicas,     quod sunt inflnitae spe-                                                                        2.         Item    ,   multitudo idearum est secundum mul-
-           cies       quoad nos, non secundum rem) contra: pona-                                                               titudinem ideatorum; sed constat, omnia alia a Deo
-           tur^quod omnes species numeri sint in re; hoc po-                                                                   de      necessitate                     esse           flnita         actu       :    ergo       similiter                  et
-           sito ,      de necessitate sequitur, quod infinita simpliciter                                                      ideas.
-       -   actu sunt: ergo                            si    omnium specierum numeri                                  sunt                  3.         Item, ubi est                        inflnitas,            ibi   est       confusio                  et
-           in    Deo ideae actu, patet etc.                                                                                    inordinatio; sed in exempiari aeterno nulla cadit con-
-                       4.   Ilem, Deus potest                              inflnita      producere ^*; sed                     fiisio        nec inordinatio                          :    ergo          etc.
-
-
-
-
-                  1    Cap.     10.     I                     loco eitato textus originalis post                               cod.    V finitae secmdum rem. In flne argumenti post ideae Vat.
-           in    qua adiungit                                  quidam atque.                                                   interponit et sunt infinitae ,                               quae accessio habetur et in ed.                                 1,
-                  '    Cap.      10.    n.        11.                                                                          omissa tamen vocula et ac posita ante ideae virgula.
-                  8 Aristot.,          III.       Phys.       text.   36.    (c.   5.), et XI.      Metaph.          c.   9.           5     Intellige; inflnita              in potentia, id est,                     non potest                produ-
-           (X.    c.    10.)    infinitum vocat passionem (proprietatem) numeri.                                               cere tot, quin non possit plura. Cfr. infra d. 43. q. 3.
-                  *    Quod tamen in se non est possibile. Licet enim Deus actu                                                        «     Cod.       T cum ed.                 I       poiest.
-           cognoscat inflnitos numeros, non sequitur, quod actu                                                                        '
-                                                                                                            inflnitos                        Cap. 18. Loci              citati             textus        originalis hic est:               Quidquid
-           ad extra producere                         possit. Cfr.         infra   d.   43. q. 3.       — Proxime              scientia          comprehenditur               ,       scientis etc.
-           ante pro non secundmn                             rem cod. T sed finitae sectmdum rem,
-
-                                                                                                                                          ;
-                                                                                                                                          .
-
-
-
-
-            612                                                                                                        SENTENTIARUM LIB. I.
-
-                        4.   Itera ,            ponere                 iiifliiitateiii      actu in crealura est                              sicut        dictum est', non venil a multitudine ideato-                                                                 ',
-
-
-
+---
 
 ## English
 
-[Translation pending]
+<!-- page 613 -->
+
+### Question VI.
+#### *Whether the ideas have an order.*
+
+Sixth and last, it is asked whether in the ideas an ordered number is to be posited. And that [it is], appears thus.
+
+1. Augustine[^1] seems to say: "By another account was man created than horse," since man is one thing, horse another: therefore, since man is nobler than horse, by parity of reason man was created by a nobler idea or account than horse. But where there is a more noble and a less, there is order: therefore etc.
+
+2. Likewise, just as God by ideas knows and produces distinct things, so[^2] he knows and produces ordered things: therefore, just as plurality is posited in the ideas from the plurality of things known and ideated, so order ought to be posited [in them] from order.
+
+3. Likewise, where there is plurality or distinction, there is either order or disorder; but in God there falls no disorder nor confusion: therefore in God they have an order.
+
+**On the contrary:**
+
+1. Ideas are several, since by them God distinctly knows; but[^3] God does not know one [thing] after another, but all things at once: therefore the ideas have in God simultaneity.
+
+2. Likewise, if there is order, then either of priority, or of dignity, or of origin[^4][^5]: not of priority, since then one idea would be posterior to another, which it is unfitting to say; not of nobility, since each in God is supremely noble; not of origin, since if one arose from another, there would then be a true distinction there according to the thing[^6]: therefore in no way, as it seems, is there order in them.
+
+3. Likewise, every infinity either altogether takes away order, or removes perfection from order, since it takes away [its] state and completion; but in the ideas there is infinity, as has been seen in another problem[^7]: therefore either no order, or an incomplete one; but not incomplete, therefore none.
+
+### Conclusion.
+
+> *In the ideas there is no order among themselves, neither according to thing nor according to reason, but only [an order] toward the ideated.*
+
+**I respond:** It must be said[^8], as was touched upon in [the arguments] on the opposite side, that there is no order in the ideas or accounts of knowing among themselves, neither according to thing nor according to reason. The ideas indeed have an order to the ideated, but not among themselves, since neither is one prior to another, nor posterior, nor is one from another, nor is [one] more noble; and therefore no order is posited there. — And the reason of this is that ideas, of the very account of their name, bespeak a respect to things known[^9]. And because those [things] are several, therefore the ideas, from the first respect of their name, are several. But order bespeaks a new respect and a new disposition, when one idea is compared to another. And since, when that[^10] respect is set aside which is toward the ideated, in God the ideas are simply one and have no order among themselves; therefore it is not to be conceded that the ideas have plurality with order among themselves.
+
+<!-- page 614 -->
+
+**To the arguments:**
+
+1. *To that which is objected*, that the idea is other, since man is other: therefore nobler, since man is nobler than horse; it must be said that the case is not similar. For likeness, since it is compared to another, has [to be] distinguished, but is not [thereby] ennobled by it, unless it receive something from that to which it is compared. And since the idea of man receives nothing from man, nor the idea of horse from horse: therefore the one is not called more noble than the other.
+
+2. *To that which is objected*, that God knows ordered things; it must be said that, although he knows ordered things, yet he knows them at once and equally nobly; and therefore, just as distinction was posited in the ideas, since by them he distinctly knew, so simultaneity and equal nobility ought to be posited, since he knows at once and equally nobly; and so order ought not to be posited. For just as, although God knows white things, the ideas are not white in God, so although he knows ordered things, it is not necessary that they be ordered in God.
+
+3. *To that which is objected*, that where there is plurality without order, there is confusion and disorder; it must be said that this is false, since there can be simultaneity there; and so it is in the ideas. — Or it may be said that that [rule] holds where there is real plurality; such is not [the case] in the ideas, since all are one; and therefore there cannot be disorder.
+
+### Scholion
+
+**I.** The response to this question, and the solution *ad* 1 and 2, is drawn from this principle: that the ideas have neither nobility nor order nor other properties from the ideated, but only distinction (cf. here q. 4, *ad* 3[?]). But that the ideas receive distinction from the ideated arises hence, that ideas import a respect to distinct ideated [things]. The foundation, however, of those respects is the infinite perfection of the divine essence itself, which eminently contains all things and expresses [them] as first and highest truth.
+
+**II.** This question is found expressly treated only by a few of the old Scholastics, namely by Petr. a Tar., I *Sent.* d. 36, q. 2, a. 4, *ad* 9[?]. — Dionys. Carth., I *Sent.* d. 36, q. 4, after the *principium*.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** *Libr. 83 Qq.* q. 46. n. 2.
 
-## Notes
+    **En.** *On 83 Diverse Questions*, q. 46, n. 2.
 
-[Notes pending]
+[^2]: **La.** Cod. T *ita etiam*.
+
+    **En.** Codex T [reads] *ita etiam* ("so likewise").
+
+[^3]: **La.** Supple cum codd. F P Q W *ideae*.
+
+    **En.** Supply with codices F P Q W *ideae* ("ideas").
+
+[^4]: **La.** Multi codd. ut A C G H I L R S T Z etc. perperam *ergo*.
+
+    **En.** Many codices, such as A C G H I L R S T Z etc., wrongly [read] *ergo*.
+
+[^5]: **La.** Cod. *si ergo*.
+
+    **En.** A codex [reads] *si ergo*.
+
+[^6]: **La.** Cfr. supra d. 20. a. 2. q. 1. *in corp.*
+
+    **En.** Cf. above d. 20, a. 2, q. 1, *in the body*.
+
+[^7]: **La.** Quaest. praeced.
+
+    **En.** The preceding question.
+
+[^8]: **La.** In *fundamentis*, praesertim in 2. — In initio respons. post *Dicendum* codd. A F I V inserunt *quod*. Mox pro *secundum rem*, quam lectionem restituimus ex codd. F T W, Vat. *secundum originem*; codd. A C L O R S et alii plures *secundum ordinem*. Subinde post *rationem* Vat. addit *prioritatis aut dignitatis*.
+
+    **En.** In the *fundamenta*, especially in [no.] 2. — At the beginning of the response, after *Dicendum*, codices A F I V insert *quod*. Soon, in place of *secundum rem*, which reading we have restored from codices F T W, the Vatican [reads] *secundum originem*; codices A C L O R S and several others [read] *secundum ordinem*. Thereafter, after *rationem*, the Vatican adds *prioritatis aut dignitatis*.
+
+[^9]: **La.** Cfr. supra q. 3. *in corp.*
+
+    **En.** Cf. above q. 3, *in the body*.
+
+[^10]: **La.** Pro *illa* plurimi codd. *uno*; perperam.
+
+    **En.** In place of *illa*, very many codices [read] *uno*; wrongly.

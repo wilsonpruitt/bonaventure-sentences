@@ -11,575 +11,292 @@ title_en: "Whether ideas are to be posited in God"
 printed_pages: [600, 601, 602, 603, 604, 605]
 pdf_pages: [190, 191, 192, 193, 194, 195]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 600–605"
+has_scholion: true
+has_apparatus: true
 line_start: 18309
 line_end: 18857
 word_count_latin: 4519
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 18309–18857 of pt2), fresh literal English translation, full apparatus from raw OCR (12 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d35-a1-q1
+## *Utrum ponendae sint ideae in Deo*
+
+---
 
 ## Latin
 
-            aeteruo id quod est divina essentia. Ita et de disposi-                                                               modo est, nec minor essel quam modo nec maior est                             ,
+<!-- page 600 -->
 
+### Articulus Unicus.
+#### *De ideis.*
 
-            tione et praedestinalione, quae est divina essentia, obii-                                                            quam esset '. Scivit ergo Deus ab aeterno aeternum et
-            ciunt. Addunt quoque et alia, ila dicentes: Si potuit                                                                 omne quod fulurum erat, et scivit immutabiliter. Scit
-            Deus non praescire aliqua cuni idem sit Dco praescire     ,                                                           quoque non minus praelerila vel futura quam prae-
-            quod scire, et scire quod esse; poluit ergo non esse.                                                                 sentia, et sua aelerna sapientia et immutabili scit ipse
-            Item, cum ideni sit Beo^ praesciim esse et Deum esse^                                                                 omnia quae sciuntur. « Omnis enim ratio supernae et
-            si potuit non esse praescius, potuit non  esse Deus;                                                                  terrenae sapienliae, ut ait Ambrosius*, in eo est, quia
-            potuit             autem           non     esse           praescius ,                si     potuit        nulla       omnem           sapientiam                    et   essentiam           capit       sua inimensa
-            praescire; at potuit nulla praescire, quia potuit nulla                                                               scientia »
-            facere.
-                        Ad Iioc iuxta modulum                                   nostrae      inlelligentiae              ita
+### Quaestio I.
+#### *Utrum ponendae sint ideae in Deo.*
 
-Resp. Magi- dicimus:                Praescientia, vel dispositio, vel praedestinalio
-  ''"'
-            ad aliquid dici \identur. Sicut enini crealor ad crea-
-                                                                                                                                   Quomodo omnia dicanlur esse in Deo et vita in eo.
-            turam relative dicitur, ita praescientia vel praescius
-            ad futura referri videtur, el dispositio ad facienda, ac
-            praedestinatio ad salvanda. Verumtamcn crealor ila re-                                                                          l'roptei'ea°               omnia dicuntur esse in Deo                            et              fuisse
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives first the Latin source text (**La.**), then the English rendering (**En.**).
 
-            lative dicilur, ut essenliam non significet. Praescientia                                                             ab aeterno. Unde Augustinus super Genesim °                                                    :       «   Haec
-            vero vel praescius                        et    in        respectu futurorum dicitur,                                 visibilia,          inqiiit,                 antequam       fierent,         non    erant.                  Quo-
-            et essenliam designal; ita eliain disposilio                                                 et     praede-           modo ergo Deo nota erant quae non erant? Etrursus:
-            stinatio.           Ideoque cum dicitur:                                si   nulla        essent    futura            Quoraodo ea faceret quae sibi nola non erant? non
-                                                                                                                                                                                ,
+Quantum ergo ad primum quaeritur, utrum sit in Deo ponere ideas. Et quod sic, ostenditur:
 
+1. *Primo* auctoritate Augustini, libro *Octoginta trium Quaestionum*[^1]: «Ideae sunt formae aeternae et incommutabiles, quae in divina intelligentia continentur». Ex his tribus conditionibus concluditur, quod idea sit in Deo.
 
-            non esset in Deo praescientia,.vel non esset Deus prae-                                                               enim quidquam fecit ignorans. Nota ergo fecit, non
-Disiinsiiiuu. scius,      quia varia est                   ibi    causa dicendi, distingui opor-                                  facta cognovit. Proinde, anlequam flerent, et erant et
-            tet    rationem                  dicli.   Cum ergo dicis: si nulla essent fu-                                         non erant: erant in Dei scientia, non erant in sua na-
-            tura , nou esset in Deo praescientia, vel non esset prae-                                                             tura. Ipsi autem Deo non audeo dicere alio modo in-
-            scius ^,           si       in    dicendo       lianc               causam       attendis,              scilicel      notuisse, cum ea fecisset, quam illo quo ea noverat,
-            quia nulla essent subiecta eius praescientiae, unde ipsa                                                              ut faceret,             apud quem non esl transmutalio , nec                                                  vi-
+2. *Item*, ratione ostenditur sic: omne agens rationabiliter[^2], non a casu, vel ex necessitate, praecognoscit rem, antequam sit; sed omnis cognoscens habet rem cognitam vel secundum veritatem, vel secundum similitudinem; sed res, antequam sint, non possunt haberi a Deo secundum veritatem: ergo secundum similitudinem. Sed similitudo rei, per quam res cognoscitur et producitur, est idea: ergo etc.
 
-            possil dici praescientia, vel ipse praescius, quod utrum-                                                             cissitudinis                obmnbratio »            .    — Ecce hic habes                          ,
-                                                                                                                                                                                                                                             quod
-            que dicilur propter futura; verus est intellectus. Sin                                                                haec       visibilia,            anteciuam flerent, iu Dei scientia                                        ei'ant.
+3. *Item*, omne quod determinate ducit in alterum cognoscendum, habet penes se similitudinem cogniti, vel ipsum est eius similitudo; sed speculum aeternum mentes se videntium ducit in cognitionem omnium creatorum, sicut dicit Augustinus[^3], quod rectius ibi cognoscunt quam alibi: ergo restat, quod in eo resident similitudines. Et constat, quod sunt in eo sicut in cognoscente, quia non tantum aliis repraesentat, sed sibi; sed haec est tota ratio ideae: ergo etc.
 
-            autem ea ratione id dicis, quod non sit in eo scientia,                                                               Ex hoc igitur sensu omnia dicuntur                                           esse in           Deo,             et
+4. *Item*, quia res a Deo producuntur, ideo sunt in Deo tanquam in efficiente, et Deus verissime est efficiens; similiter, quia ab ipso finiuntur, ideo verissime est finis: ergo pari ratione, quia ab ipso cognoscuntur et exprimuntur, per se ipsum Deus verissime est exemplar. Sed exemplar non est, nisi in quo sunt rerum exemplatarum ideae: ergo etc.
 
-            qua praescit futura, vel quod ipse non sit Deus, qui                                                                  omne quod factim est dicitur' esse vita                                            iiiipso: non                      .
+**Contra:**
 
+1. Dionysius *de Divinis Nominibus*[^4]: «Cognoscit divinus intellectus, sed ex se ipso et per se ipsum, non secundum ideam singulis se immittens, sed secundum unam excellentiae causam omnia noscens et continens»: ergo Deus singula non cognoscit per ideam.
 
+2. *Item*, ratione videtur: quia idea dicit rationem similitudinis, et similitudo dicit rationem convenientiae; Dei autem ad creaturam, cum sit summa distantia, nulla est convenientia[^5], aut si est, minima est: ergo aut nulla similitudo, aut minima. Aut ergo non est idea in Deo, aut si est, secundum rationem imperfectam est; sed nihil imperfectum ponendum est in Deo: ergo etc.
 
+3. *Item*, nobilissimus modus cognitionis est Deo attribuendus; sed cognitio per rei essentiam est nobilior quam per similitudinem rei: ergo Deus cognoscit per essentiam rei, non per similitudinem. Sed idea est similitudo, non essentia rei: et sic etc.
 
-            est     futurorum praescius,                              falsa est iutelligentia. Simili-                            ideo ,      quod            creatui'a sit Creator, vel                       quod ista tempo-
-            ler et illae loculiones                        delerminandae sunt: potuit non                                         ralia essentialiler sint in                             Deo, sed quia in eius scien-
-            esse praescienlia Dei, vel                                        potuit non esse praescius,                          tia   seniper sunt, quae vita                             esl.
+4. *Item*, idea non est necessaria nisi ad dirigendum in cognoscendo et regulandum in operando[^6]; sed nihil indiget dirigente vel regulante, nisi quod potest errare vel deviare. Deus autem nullum horum habet: ergo frustra ponuntur in Deo ideae.
 
-            et potuit  Deus non praescire aliqua; id esl, potuit esse,                                                                      Inde est etiam, quod omnia dicunlur ei praesentia
-            quod nulla futura subiecta essent eius scientiae, et ita                                                              esse, non solum ea quae sunt, sed etiam ea quaeprae-
-            non posset dici praescius vel praescire, vei eius scien-                                                              terierunl, et ea quae    futura sunt, secundum illud^:
-            lia praeseientia ; non tamen eo minus ipse esset vel                                                                  Qui rocat ea quae non sunt, tanquam ea quae sunt:
-            eius scientia, sed uon posset dici praescius vel prae-                                                                « quia    ut ait Ambrosius in libro de Trinilate ", ita
-                                                                                                                                              ,
+<!-- page 601 -->
 
+### Conclusio.
 
+> *Deus cognoscit per ideas et habet in se rationes et similitudines rerum, quas cognoscit.*
 
-            scire vel                   praescimtia,             si           eius scientiae            futura        nulla       cognoscit ea quae non sunt, ut ea quae sunt». Ethac
-            forent subiecta. Siniiliter de dispositione
-            natione vel
-            iid
-                                             providentia.
-                    temporalia referuntur et de lemporalibus tantum
-                                                                      Haec enim, ut dictum
-                                                                                                       et praedesti-
-                                                                                                                        est,
-                                                                                                                                  ratione omnia dicuntur esse in eo vel apud eum sive
-                                                                                                                                  ei  praesentia. Unde Augustinus super illum locum
-                                                                                                                                  Psalmi ": « Et pulcritudo agri mecum est, ideo, inquil,
-                                                                                                                                                                                                                                                           I
-            sunl.                                                                                                                 mecum est, quia apud Deum nihil praeteriit, nihil fu-
-                                                                                                                                  turum est. Cum illo sunt omnia futura, et ei non detrahun-
-                                                           C.\p. VIII.                                                            tur praeterita. Cum illo sunt omnia cognitione quadam
-                                                                                                                                  ineffabili sapientiae Dei».    Ecce hic aperit Augusti- —
-                  Quod scienlia Bei esi de temporalibus el aeternis.                                                              nus, ex qua inlelligentia accipienda sint huiusmodi
-                                                                                                                                  verba: omnia sunt Deo praesentia, in Deo sunt omnia,
-                        Scientia vero vel sapientia                                  non tantum de tempo-                         vel cum Deo, vel apud Deum, vel in eo vila; quia
-            ralibus, sed etiam de aeternis est; ideoque, etsi nulla                                                               ineffabilis         omnium cognilio in eo est.
+**Respondeo:** Dicendum, quod circa hoc duplex fuit opinio[^7].
 
+Quidam enim dixerunt, quod Deus non cognoscit secundum rationem ideae, sed secundum rationem causae. Et ponunt simile: sicut si punctus cognosceret suam virtutem, cognosceret lineas et circumferentiam; similiter, si unitas haberet potentiam cognitivam, per quam converteret se super se, cognosceret omnes numeros. Per hunc modum dicunt in Deo esse. Quoniam enim Deus habet virtutem producendi omnia et cognoscit totam suam virtutem, ideo cognoscit omnia. Et hoc dicunt, Dionysium sensisse, cum dixit, quod «non secundum ideam, sed secundum unam excellentiae causam cognoscit omnia». —
 
+Sed haec positio non potest stare. *Primum* quidem, quia Deus cognoscit non per collationem deveniendi a principio ad principiatum, sed simplici aspectu. Et iterum, omne cognoscens, in quantum huiusmodi, simile est cognoscibili: ergo[^8] habet eius similitudinem, vel ipse est similitudo. Rursus, omnis cognoscens ideo distincte producit, quia distincte cognoscit, non e converso: ergo ratio *producendi* non est ratio *cognoscendi*. Et iterum, aliqua cognoscit, quae ab ipso non sunt[^9]. Propter haec et similia aliter dicendum.
 
+Ideo est alia positio, et secundum Sanctos, et sententia secundum philosophos, quod Deus cognoscit per ideas et habet in se rationes et similitudines rerum, quas cognoscit, in quibus non tantum ipse cognoscit, sed etiam aspicientes in eum: et has rationes vocat Augustinus *ideas* et *causas primordiales*[^10].
 
-                    '    Vat. cuni pluriniis edd.                         Deum contra codd. el ed.                      I.              5    Codd. A C E Praeterea.
-                    -    Cod.           D addit Dms; et paulo inferius idem cum                                       codd.             «    Libr. V. c. 18. n. 36.                  — Locus       s.   Scripturae est lac. 1,17.
-            A E et ed..             I    ex ea ratmw pro ea ratione.                                                                    '    loan.    1   ,    3   ,   4   ,   secundum lectionem antiquam                   :       quod fa-
-                    3    Ita    recte         codd. C D cuni omnibus edd., cod.                                ,\    maior        ctum est, in ipso vita erat.
-            esset       quam modo              ,   B E maior quam modo.                                                               8 Rom. i, 17.
+Ad intelligentiam autem obiectorum intelligendum, quod idea dicitur similitudo rei cognitae. Similitudo autem dupliciter dicitur: uno modo secundum convenientiam duorum in tertio, et haec est similitudo secundum univocationem; alio modo est similitudo, secundum quod unum dicitur[^11] similitudo alterius; et haec similitudo non concernit convenientiam in aliquo communi, quia similitudo se ipsa est similis, non in tertio; et hoc modo dicitur creatura similitudo Dei, vel e converso Deus similitudo creaturae.
 
-                    * In       Epistolam ad Colos.                    2,       3; nonnullis imniutalis. In quo                          "    Id est V.         de Fide ad Gratian.                 e.    16.   n.   198.
-            textu fide codd.                  ABDE     ,    ed.           I    et    originalis       restiluimus       tov             ">   Psalm. i9, 11; August. in hunc Psalm. n.                                      18,   nnnnullis
-            renae pro aeieriiae.                                                                                                  a Magislro omissis vel mutatis.
+> *(Conclusio 2.)* Hoc modo sumendo similitudinem, similitudo est ratio cognoscendi, et haec dicitur *idea*. — Sed aliter est in nobis, aliter in Deo. *(Notandum: differentia rationis cognoscendi in nobis ac in Deo.)* In nobis quidem ratio cognoscendi est similitudo, cognitum est veritas. Nam in nobis est similitudo accepta et impressa ab extrinseco, propter hoc quod intellectus noster respectu cogniti est possibilis et non actus purus; ideo fit in actu per aliquid cogniti, quod est similitudo eius[^12]. In Deo autem est e converso, quia ratio cognoscendi est ipsa veritas, et cognitum est similitudo veritatis, scilicet ipsa creatura. Et quia ratio cognoscendi consistit in ipsa veritate prima, *(Notandum.)* ideo ratio cognoscendi in Deo est summe expressiva. Et quoniam omne id quod summe exprimit, perfectissime assimilat cognitum assimilatione competente cognitioni, ideo patet, quod ipsa veritas ex hoc, *(Conclusio 1.)* quod facit cognoscere, est similitudo expressiva et idea. E contrario est in nobis, quia eo ipso, quod est similitudo, facit cognoscere. Ex his patent obiecta.
 
-                                                                                                                                                                                                         ,
-                                                                                                                                                                                                         ,
+**Solutio oppositorum.**
 
+1. Quod enim obiicitur, quod «non secundum ideam singulis se immittens»; dicendum, quod Dionysius ex hoc non vult removere rationem ideae a Deo, sed vult dicere, quod non sic est multitudo et differentia idearum secundum singula, sicut in nobis.
 
+2. Ad illud quod obiicitur, quod nulla est convenientia, vel minima; dicendum, quod est *(triplex similitudo.)* similitudo univocationis sive participationis, et similitudo imitationis, et expressionis. Similitudo participationis nulla est omnino, quia nihil est commune. Similitudo imitationis est modica, quia in modico potest finitum imitari infinitum, unde semper maior est dissimilitudo quam similitudo. Similitudo vero expressionis est summa, quia causatur ab intentione veritatis, ut visum est, quae est ipsa expressio; ideo Deus summe omnia cognoscit.
 
+<!-- page 602 -->
 
-                                                                        DIST. XXXV. DIVISIO TEXTUS.
+3. Ad illud quod obiicitur tertio, quod nobilior est cognitio per essentiam; dicendum, quod est similitudo causata a veritate rei extra, et de hac verum est, quod nunquam ita perfecte exprimit rem, sicut ipsa res si praesentialiter esset apud animam, et hac similitudine non cognoscit Deus. Est alia similitudo, quae est ipsa veritas expressiva cogniti, et eo similitudo, quo veritas; et haec similitudo melius exprimit rem, quam ipsa res se ipsam exprimat, quia res ipsa accipit rationem expressionis ab illa: et secundum hanc est perfectior cognitio, et hac cognoscit Deus.
 
+4. Ad illud quod obiicitur, quod idea est ad regulandum et dirigendum; dicendum, quod regulari et dirigi potest esse dupliciter: aut per regulam differentem a directo et regulato, et haec ponit imperfectionem et possibilitatem erroris; aut per regulam, quae est idem quod regulatum, et haec ponit impossibilitatem erroris. Quia enim regula errare non potest, et[*quia* — supplied[?]] Deus est ipsa regula et idea: ideo impossibile est, eum errare. Et sic patet, quod idea in Deo non ponit imperfectionem, sed complementum.
 
+---
 
+### Scholion
 
-                                   COMMENTARIUS IN DISTINCTIONEM XXXV.
+**I.** Doctrina de ideis, quae et gravitate rei et controversiarum multitudine celebris est, a Scholasticis ex S. Augustino, praecipue ex libro *83 Quaest.* q. 46, et *de Civ. Dei*, VII[?]. c. 28, desumpta est. In primo loco S. Augustinus asserit, Platonem primo nomen *ideae* usurpasse, non autem rem ipsam primo intellexisse; deinde (n. 2.) docet: «Ideas igitur Latine possumus vel *formas* vel *species* dicere, ut verbum e verbo transferre videamur. Si autem *rationes* eas vocemus, ab interpretandi quidem proprietate discedimus — *rationes* enim Graece λόγοι appellantur, non *ideae* — sed tamen quisquis hoc vocabulo uti voluerit, a re ipsa non aberrabit. Sunt namque ideae principales formae quaedam vel rationes rerum stabiles atque incommutabiles, quae ipsae formatae non sunt, ac per hoc aeternae ac semper eodem modo se habentes, quae in divina intelligentia continentur. Et cum ipsae neque oriantur neque intereant, secundum eas tamen formari dicitur omne quod oriri et interire potest, et omne quod oritur et interit». — Omnes autem doctores catholici in hoc conveniunt, ponendas esse ideas in Deo, quia alias sequeretur, eum agere vel a casu, vel necessitate naturae, non arbitrio voluntatis. Nam *agere* per voluntatem praesupponit, quod per intellectum agenda praedefiniantur. «Nam agens secundum naturam producit per formas, quae sunt vere naturae, sicut homo hominem et asinus asinum; agens per intellectum producit per formas quae non sunt aliquid rei, sed ideae in mente, sicut artifex producit arcam» (S. Bonav., II. *Sent.* d. 1. p. I. a. 1. q. 1. *ad* 3.). «Creatura egreditur a Creatore, sed non per naturam, quia alterius naturae est, ergo per artem, cum non sit alius modus emanandi nobilis quam per naturam, vel per artem sive ex voluntate; et ars illa non est extra ipsum: ergo est agens per artem et volens: ergo necesse est, ut habeat rationes expressivas. Si enim dat formam huic rei, per quam distinguitur ab alia re, vel proprietatem, per quam distinguitur, necesse est, ut habeat formam idealem, immo formas ideales» (*Hexaem.* Serm. 12, in princ.). Cum doctrina de ideis maximi momenti sit, ut sententia S. Bonaventurae de praescientia et scientia Dei (infra d. 38. 39.) recte intelligatur, nonnulla praemittimus tum de pluribus terminis, qui hic occurrunt, tum de opinionum principalium differentiis, quae fere in eo fundantur, quod de formali idearum ratione auctores non idem sentiunt.
 
-                                                             De scientia Dei in generali secundum                                        se.
+**II.** De variis terminis fere synonymis Seraphicus in *Breviloq.* (p. I. c. 8.) sic ait: «Sapientia divina, in quantum est ratio cognoscendi omnia cognita, dicitur *lux*[?]; in quantum est ratio cognoscendi visa et approbata, dicitur *speculum*; in quantum est ratio cognoscendi praevisa et disposita, dicitur *exemplar*; in quantum est ratio cognoscendi praedestinata et reprobata, dicitur *liber vitae*. Est igitur liber vitae respectu rerum ut redeuntium, exemplar ut exeuntium, speculum vel lux vero respectu omnium. Ad exemplar autem spectat *idea*, *verbum*, *ars* et *ratio*: idea secundum actum praevidendi, verbum secundum actum proponendi, ars secundum actum prosequendi, ratio secundum actum perficiendi, quia superaddit intentionem finis. Quia vero haec omnia unum sunt in Deo, ideo frequenter accipitur unum pro alio». — Paulo aliter de iisdem loquitur Uldaricus[?] (apud Dionys. Carth., hic I. *Sent.* d. 36. q. 1.): «Vocatur *idea*, id est *prima forma*, quia idea est forma omnium formarum, cuius participatione formalitas omnibus eis inest; *exemplar*, in quantum ipsam omnia imitantur; *ratio*, in quantum est similitudo rerum in intellectu; *species*, in quantum est medium cognoscendi; *paradigma*, in quantum secundum respectum eius ad rem Deus operatur — paradigma enim dicitur a *para*, quod *iuxta*, et *dogma*[?], quasi *docens operari* [παράδειγμα ἀπὸ παραδείκνυμι]. Vocatur etiam *mundus archetypus* a Platone in *Timaeo*, id est principale exemplar». — Similia leguntur apud Alex. Hal., *S.* p. I. q. 23. m. 4. a. 1, et p. II. q. 3. m. 3; et B. Albert., *S.* p. I. tr. 13. q. 55. m. 2. a. 1. — Notandum autem, quod proprie loquendo *ratio cognoscendi* accipitur potius ex parte potentiae ut dispositio, qua ipsa redditur expedita ad intelligendum, sive est id quo cognoscitur. Haec in intellectu humano est tum *species intelligibilis*, tum lumen *intellectus agentis*, vel etiam *illuminatio* a superiore causa effecta. In Deo autem ipsa eius essentia sola est ratio cognoscendi se et omnia. *Idea* autem, ut ex sequentibus patebit, a plerisque nunc accipitur ut id quod cognoscitur, sive ut id quod intellectui obiicitur ut terminus ipsius, ad quem respiciens agens operatur et rem producit; et sic proprie est *exemplar*. Nihilominus S. Thomas et praecipue S. Bonaventura *ideam* accipiunt etiam ut principium, quo cognoscitur; et sic est idem quod *ratio cognoscendi*.
 
+**III.** Circa formalem idearum significationem existit magna in scholis opinionum pugna.
 
+1. Secundum sententiam Scoti (hic q. unica), cum qua fere conveniunt Durandus (I. *Sent.* d. 36. q. 3.) multique Nominales, et quam non improbabilem aestimat Richard. a Med. (I. *Sent.* d. 36. a. 2. q. 2.), ideae sunt ipsae creaturae secundum esse possibile, cognitum in mente divina, sive, ut dicit Mastrius (*Disputationes theol.* t. 1. disp. 3. q. 2.) «sunt creaturae praecognitae a Deo ut factibiles, adeo ut obiective tantum in divina intelligentia contineantur tanquam reales conceptus obiectivi». Docet enim Scotus (IV. *Sent.* d. 50. q. 3. n. 1.): «Si idea ponitur respectus essentiae divinae ad extra, cognitio illorum, ad quae est respectus ille, necessario praesupponitur: essentia enim nunquam est comparata, nisi prius intelligatur illud ad quod fit comparatio; non enim fit comparatio ad ignotum». — In hac sententia ideae non sunt praecise divina essentia (quae tamen praesupponitur), nec quatenus essentia divina absolute accipitur, nec quatenus includit relationem ad creaturas sive respectum imitabilitatis. Idem tamen dicit (loc. cit.), quod omnia cognoscantur «per illam essentiam, quae perfectissime omnia repraesentat, quae, ut sic repraesentans illa ut obiecta cognita, habet rationem ideae». — Inde sequitur, quod in via Scoti ideae non possint poni tanquam ratio cognoscendi creaturas (nisi terminative et secundario), sed tantum tanquam ratio sive principium producendi easdem, et quidem non *effective*, sed tantum *exemplariter*. — Sequitur etiam, ideas per se non habere respectum nisi ad res conceptas ut possibiles, non ut productas vel producendas in tempore. — Cum autem Scotus illud *esse cognitum*, quod res habent in intellectu divino, nominet *esse diminutum* et *esse secundum quid*, haec verba non debent intelligi in sensu Wiclefii, qui fertur docuisse, creaturas in Deo ab aeterno habuisse reale esse essentiae et existentiae; neque in sensu Henrici Gand., qui creaturis in Deo attribuit quoddam *esse essentiae*, non autem *existentiae* (quam sententiam Scotus multis argumentis impugnat), neque in hoc sensu, quem Caietanus (ad S. I. q. 14.) aliique Scoto imponunt, quod illud *esse* teneat medium inter ens reale et ens rationis. Nam ex ipsius Scoti verbis (loc. cit. et d. 36. q. unica, n. 5; d. 3. q. 4. n. 18.) nec non ex praecipuis Scotistis satis apparet, illud *esse diminutum* ponendum esse inter *entia rationis* (cfr. Mastrius, loc. cit.; Rada, loc. cit. a. 3; et inter nostrae aetatis auctores cl. P. Kleutgen: *Die Philosophie der Vorzeit*, tom. II. Abhandl. 6. n. 582. 583.).
 
+2. Alii doctores in hoc conveniunt, quod statuunt, ideas creaturarum esse divinam essentiam, sed de modo, quo est idea, sive de ratione formali dissentiunt. S. Thomas (*de Verit.* q. 3. a. 2.) primum dicit: «Essentia (Dei) est idea rerum *ut est intellecta*», et deinde: «Divina essentia, cointellectis diversis proportionibus rerum ad eam, est idea uniuscuiusque» (cfr. *S.* I. q. 15. a. 1. 2; *S. c. Gent.* 1. c. 54.). Secundum S. Thomam igitur, ut Caietanus eum interpretatur, idea est divina essentia, ut *formativa* est rei medio intellectu, sive est divina essentia, quatenus a Deo intelligitur ut imitabilis a creatura. Unde essentia, considerata in se cum omnibus suis attributis, est obiectum divini intellectus *primarium*, *proprium* et *motivum*; at considerata in comparatione *ad alia extra Deum producenda*, est obiectum intellectus *secundarium*. — Porro, ideae referuntur tum ad res mere possibiles, tum ad res in qualibet differentia temporis existentes, attamen non eodem modo (*de Verit.* q. 3. a. 6; *S.* p. I. q. 15. a. 3. ad 2.). — Item, idea non tantum est principium *producendi*, sed etiam *cognoscendi* (*S.* I. q. 15. a. 3.). *Exemplar* autem sunt ideae, quatenus sunt in intellectu ut aliorum similitudo; *ratio* vero sunt quatenus sunt in intellectu ut in se intellectae, scilicet actu quasi reflexo (ibid. a. 2. ad 2.). — Denique distinctio idearum resultat ex diversis ad divinam essentiam respectibus, qui in rebus sunt.
 
-                                                      Cumque swpra disseruerimus ac plura dixerimus.
+Haec omnia saltem quoad substantiam approbantur ab Alex. Hal., B. Albert., Petr. a Tar., Richard. a Med. et etiam a S. Bonaventura.
 
+3. Nihilominus S. Bonaventura in nonnullis alium modum loquendi et procedendi adhibet, quem ob rei gravitatem ex multis locis contracte exhibemus:
 
+  *a)* Pater se intelligendo exprimit se et omnia in Verbo. «Pater Verbo suo quod ab ipso procedit, dicit se et omnia, quia Verbo suo se ipsum declarat» (supra d. 32. a. 1. q. 1. arg. 5. in fundam.). «Summus Spiritus, cum sit purus actus et sit non tantum intelligens, sed et intellectus, non potest se non intelligere. Cum igitur intellectus aequetur intelligenti, intelligit quidquid est et quidquid potest: ergo et ratio intelligentis aequatur intellectui, quia similitudo eius est. Haec autem cognitio similitudo Verbum est, quia secundum Augustinum et Anselmum similitudo mentis convertentis se super se, quae in acie mentis est, verbum est. Si ergo haec similitudo aequalis est, Deus est. Igitur species originata repraesentat originantem secundum omne quod est, et secundum omne quod potest: ergo repraesentat multa. Item, cum virtutem Patris repraesentat, repraesentat virtutem immensissimam» etc. «Igitur cum summus intellectus sit activum principium, in similitudine sua omnia disponit, omnia exprimit, omnia agit» (*Hexaem.* Serm. 3.).
 
+  *b)* *Idea est divina essentia in comparatione ad creaturas.* Ipsa significat «divinam essentiam in comparatione ad creaturam» (hic q. 3. *in corp.*), sive «in respectu ad id quod futurum est, vel etiam potest esse» (ibid. *ad* 5.).
 
-                                                                                    DIVISIO TEXTUS.
+  *c)* *Idea autem non est essentia, praecise quatenus est essentia*, sed cum ordine ad intellectum, quatenus est *veritas* (hic *in corp.* et passim). Veritas autem concipitur ut proprietas divinae essentiae, quatenus se exprimit intellectui, sive ut «proprietas, quae est ratio significandi et intelligendi essentiam increatam» (supra d. 8. p. I. a. I. q. I. *ad* ult.; cfr. d. 3. p. I. *dub.* 4.). Sicut enim ens dicitur bonum per comparationem ad causam finalem, sic verum per comparationem ad causam exemplarem. «Sicut dicitur bonum ratione ordinis (in finem), sic verum ratione *expressionis*, et ratio exprimendi est ipsius exemplaris» (ibid. *ad* 4. 7.).
 
+  *d)* *Divina veritas est lux et summe expressiva.* «Veritas est lux summa, cui nihil potest occultari, nec etiam tenebrae obscurantur ab ipsa» (infra d. 39. a. 1. q. 2.), ipsa est «expressiva omnium» (hic *in corp.*). «Divina veritas una et summa expressione exprimit se et alia; ideo summa assimilatio est non tantum respectu sui, sed etiam respectu aliorum» (infra d. 39. a. 1. q. 1. *ad* 4.).
 
+  *e)* *Idea est similitudo cogniti expressiva.* «Idea dicitur similitudo rei cognitae» (hic *in corp.*). «Idea secundum rem est divina veritas, secundum rationem intelligendi est similitudo cogniti» (hic q. 4. *in corp.*). Non autem «similitudo *impressa* vel *expressa*» (ut aliqui posteriores Scholastici putarunt), sed *exprimens*. «Quia omnino exprimens, ideo summe exprimit secundum omnes conditiones» (hic q. 2. *ad* 3.); ipsa dicit «immensitatem divinae veritatis in exprimendo et cognoscendo omne quod est Deo possibile» (hic q. 5. *ad* 3.) et aliis (d. 39. a. 1. q. 2; d. 40. a. 2. q. 1. *ad* 1. 2. 3.).
 
+  *f)* Haec similitudo differt a similitudine *univocationis* et *imitationis*. Non est similitudo univocationis, qua utrumque extremum per participationem convenit in aliquo tertio, nec solum similitudo imitationis, qua finitum in modico imitatur infinitum, sed potius similitudo *expressionis*, et quidem summa, «quia causatur ab intentione veritatis, quae est ipsa expressio» (hic *ad* 2.).
 
-               Supra       egit Magister         de sacramento Trinitatis et                      dicantur             es.se          in Dei cognitione. In tertia vero                              in-
+  *g)* Idea ut similitudo est *ratio cognoscendi*, sed differt a similitudine, quae est in nostro intellectu. «Aliter est in nobis, aliter in Deo. In nobis quidem ratio cognoscendi est similitudo, cognitum est veritas. Nam in nobis est similitudo accepta et impressa ab extrinseco… In Deo autem est e converso, quia ratio cognoscendi est ipsa veritas, et cognitum est similitudo veritatis, scilicet ipsa creatura» etc. (hic *in corp.*).
 
-    Unitatis; in            hac parte agit de conditionibus                     ,       secun-    cidenter determinat,                         qiioinodo Deus est                       in     rebus
-    dum quas est in Deo ratio                           causalitatis ,      quae sunt             infra distinctione trigesima septima                                       :    Et quoniam de-
-    scilicet potentia,                 sapientia et voluntas. Habet autem                         monstratum est ex parte.
-    haec        pars       tres    partes.       In    quarum prima               agit      de               Prima pars, quae continet praesentem distinctio-
-    scientia: in            secunda de potentia, infra distinctione                               nem, tres habet^ In prima, cum Dei scientia sit
-    quadragesima secunda: Nunc de omnipotentia Dei                                                una determinat, quomodo sortitur plura nomina. In
-                                                                                                         ,
+  *h)* Haec similitudo est ratio cognoscendi omnium expressiva. «Haec similitudo est ratio expressiva cognoscendi non tantum universale, sed etiam singulare» (hic q. 4. *in corp.*). «Haec est ipsa veritas expressiva cogniti, et eo similitudo, quo veritas… melius exprimit rem, quam ipsa res se ipsam exprimat» (hic *ad* 3.); ipsa «est actus purus et ipsa veritas»; est «extra genus», «non arctata nec limitata, sed extendit se ad omnia, sicut divina essentia»; ipsa est «similitudo communis (universalis) quantum ad indifferentiam et amplitudinem, propria vero quantum ad discretissimam expressionem» (hic q. 2. *ad* 3.). Dum igitur res creata per similitudinem (speciem) ab ipsa causatam non potest exprimere nisi se ipsam (II. *Sent.* d. 3. p. II. a. 2. q. 1.), et ne hoc quidem nisi ex parte; e contra «divina veritas una et summa expressione exprimit se et alia; ideo summa assimilatio est, non tantum respectu sui, sed etiam respectu aliorum» (infra d. 39. a. 1. q. 1. *ad* 4.).
 
+  *i)* A prima veritate omnia vera dependent. Sicut omnia entia dependent a primo et summo ente, ita omnes veritates a primo et summo vero. «Omnia enim vera sunt et nata sunt se exprimere per expressionem illius summi luminis; quod si cessaret influere, cetera desinerent esse vera. Ideo nulla veritas creata est vera per essentiam, sed per participationem» (supra d. 8. p. I. a. I. q. 1. *ad* 4. 7.). In eodem sensu dicit S. Thom. (*S. c. Gent.* I. c. 68.): «Sicut prima essentia omnis essentiae, ita prima intellectio et volitio omnis intellectionis et volitionis principium est».
 
+  *k)* *Idea est similitudo rei, per quam res cognoscitur et producitur* (hic arg. 2. in fundam.). Ipsa igitur non tantum est terminus cognitionis (id quod cognoscitur) et principium *exemplare* producendi ut «ratio, secundum quam artifex producit opera sua» (III. *Sent.* d. 14. a. 1. q. 2.), sed etiam principium cognitionis (id quo cognoscitur), sive ratio, qua Deus omnia alia cognoscit (cfr. d. 39. a. 1. q. 1. *ad* 3.).
 
-    agendum. esl;                 in    tertia   de     voluntate,        infra         distin    secunda, cum Dei                         scientia vel                praescientia            sit   ae-
+  *l)* *Proprietates idearum.* «Idea quamvis in Deo sit absolutum, tamen secundum modum intelligendi dicit respectum medium inter cognoscens et cognitum», qui «secundum rem plus se tenet ex parte cognoscentis, quia est ipse Deus, tamen secundum rationem intelligendi sive dicendi similitudo plus se tenet ex parte cogniti» (hic q. 3. *in corp.*). *Pluralitas* idearum est secundum rationem intelligendi (ibid.).
 
-    ctione quadragesima quinta: Jam de voluntate Dei etc,                                         terna, determinat,                      quomodo se habeat ad teraporalia
-               Prima pars habet tres '.                  In    prima agit de            scien-    vel creata, ibi            :    Hic considerari oportet, utrum, scien-
-    tia   in     generali          secundum            se.    In    secnnda agit dc               tia vel praescientia.                        In           tertia, cura Dei scientia sit
-    modis divinae                 utrum Deus cognoscal
-                                   cognitionis,                                                   ens,quomodo cognoscat non entia, ibi: Propterea
-    mutabiliter, vel immutabiliter. et quo modo, distin-                                          omnia dicunlur esse in Deo etc.
-    ctione trigesima octava: Nunc ergo ad propositum                                                  In prima parte, se ipsum continuans dicit,
-    revertentes. In tertia vero agit quantum ad specia-                                           quod divina essentia plura habet nomina propter
-    les effectus , infra distinctione                        quadragesima           :   Prae-     connotata^ In secunda dicit, quod Dei scientia esset,
-    destinatio vero esl de bonis salutaribus.                                                     si   nihil          futurum            esset,             et   esset      scientia,        sed     non
-               Prima pars dividitur                   in tres. In prima Magister                  diceretur praescientia. In tertia ostendit, quod om-
-    determinat de ipsa Dei                       scientia.         lu   secunda, quia             nes res^ habent rationes in Deo, per                                                quas cogno-
-    res agnitae sunt in sciente per                            modum scientis, de-                scuntur             et   sunt          in    ipsn,             et   ita        omnia sunt          sibi
+  *m)* *Definitio ideae.* Ad mentem igitur Seraphici videtur esse definitio ideae, quae legitur in anecdoto compendio Commentarii eiusdem, scripto a Fr. Gulielmo de Marra, in I. *Sent.* d. 33. q. 3. (biblioth. Nationali Florentiae, cod. n. 727, A. 2.): «Idea est essentia divina seu aeterna veritas determinato modo imitabilis et expressiva huius imitabilitatis apud intellectum divinum; quoniam imitabilis, hoc *materiale* in ratione ideae; quod expressiva imitabilitatis, hoc *formale*. Unde in ratione ideae est considerare *quod est*, scilicet divina essentia vel veritas; *ad quod est*, scil. ideata; et *quo est*, et hoc est ratio exprimendi apud intellectum divinum».
 
-    terminat,              quomodo        res    sunt in           Deo, infra           distin-   praesentia; et sic patet divisio                                    et         sententia.     Subdi-
-    ctione trigesima sexta: Solet hie quaeri, cum. omnia                                          visiones            enim       '"
-                                                                                                                                       partium manifestae sunt in                             littera.
+**IV.** Si quaeritur, utrum doctrina S. Bonaventurae omnino conveniat cum sententia S. Thomae, P. Trigosus (*Sum.* q. 14. a. 3. *dub.* 2.) aliique expositores asseruerunt, utrumque S. Doctorem idem aliis verbis docere; sed P. Barth. de Barberiis (*Cursus theol.* t. 1. disput. 3. q. 2, et q. 6.) late probare nititur, notabilem differentiam esse inter utramque positionem. Hanc differentiam explicat asserens, secundum «Thomistas» ideam esse essentiam Dei, quatenus ipse sit ratio eminenter continens omnes creaturas tantum *in essendo*, «sive prout contineat eas eminenter et virtualiter per modum causae aequivocae, et prout cognita directe ab intellectu divino sub diversis respectibus imitabilitatis a creaturis». Hanc autem continentiam rerum in Deo secundum eminentiam et causativam potentiam non sufficere, ut sit ratio perfecte cognoscendi creaturas in individuo, quatenus sunt per finitatem contractae, sed sub hac ratione essentiam divinam tantum radicaliter et quasi sub ratione *materiali* esse ideam; atque ipsas res sic esse in Deo non actu, sed potentia. S. Bonaventuram autem praeter illam continentiam *eminentiae et causalitatis* in essendo requirere continentiam eminentialem in cognoscendo, quam habet divina essentia ex duplici capite: primo, quatenus est prima et summa veritas summe et infinite exprimens se et omnes alias veritates; secundo, quatenus habet rationem universalis et particularis causae et communis et propriae similitudinis (speciei), ut explicatur hic q. 2. *ad* 2. 3. Hanc esse rationem, quare S. Bonav. toties connectat duplicem rationem, scilicet *continentiam virtualem* rerum in potentia Dei, et *continentiam exemplarem* in summa veritate (ut I. *Sent.* d. 36. a. 1. q. 1. *ad* 2, a. 2. q. 1; d. 39. a. 1. q. 2.), et quare (hic *ad* 2.) non praecise similitudinem *imitationis*, sed similitudinem *expressionis* ad ideam spectare asserat. Porro dicit, ideam esse simul rationem cognoscendi rem ideatam et producendi eam, ipsamque secundum primam rationem proprie *ideam* dici, secundum aliam *exemplar*. Haec ex longiore discursu huius auctoris excerpsimus.
 
+Utrum autem doctrina Angelici et Seraphici Doctoris praeter differentiam in *modo loquendi* et procedendi revera ita differat, ut vult de Barberiis, subtiliore et longiore disquisitione indigeret, quam libenter sapientioribus relinquimus. Tamen manifestum est, S. Thomam, S. Bonaventuram ipsumque Scotum concorditer docere haec: ideae sunt in divino intellectu per modum formarum sive similitudinum — ipsae habent triplicem comparationem, scilicet ad essentiam divinam, ad intellectum, ad res ideatas extra Deum, quas connotant — realiter in Deo idem sunt essentia, intellectus, veritas, idea. Manifestum est etiam ex praedictis, a S. Bonaventura praecipue urgeri illa increatae essentiae proprietas (in qua ultima omnis veritatis radix quaerenda est), qua essentia divina se sibi ut intelligenti infinite exprimit ac declarat; unde est, quod increata essentia est prima et infinita veritas. Sicut autem a prima essentia res creatae acceperunt, ut sint, ita a prima veritate, ut se ipsas possint exprimere, sive ut sint verae per participationem primae veritatis. Ipsae autem non possunt exprimere nisi se ipsas, et per imperfectam similitudinem. Prima autem veritas, quae est per essentiam, exprimendo se exprimit etiam omnia alia a se, et sic est eorum *idea*. — Doctrina haec est profundissima.
 
+**V.** Quoad primam opinionem in respons. improbatam est notandum, quod *cognoscere per causam* intelligi debet sub additione *in ratione causae* sive inferendo effectum ex causa. Hoc observat Alex. Hal. (*S.* p. I. q. 23. m. 2. a. 2.) ita dicens: «Potest considerari Deus velut id quod est causa, vel in ratione causae. Si consideratur ipse, qui est causa, omnia scit per causam, quia omnia scit per se, qui est causa omnium. Non autem scit omnia *in ratione causae*. Nam ubi intelligens et intellectum sunt idem, non est necessarium medium causa, ut patet, cum anima intelligit se, non intelligit se per causam» etc. Ceterum cognitio per causam non opponitur cognitioni per ideam, quae potius in causalitate nititur (cfr. S. Thom. *de Verit.* q. 2. a. 4.).
 
+**VI.** Praeter auctores iam citatos: Alex. Hal., *S.* p. I. q. 23. m. 2. a. 1. 4, et m. 4. a. 1. — Scot., *de hac et duabus seqq. qq.* hic q. unica; *Report.*, de hac et duabus seqq. qq. hic q. 2. — B. Albert., hic a. 7; *S.* p. I. tr. 13. m. 2. a. 1. — Petr. a Tar., d. 36. q. 2. a. 2. — Richard. Med., a. 2, d. 36. a. 2. q. 1. 2. — Aegid. R., I. *Sent.* d. 36. princ. 2. q. 1. — Henr. Gand., *S.* a. 68. q. 3. n. 6. seq. — Durand., I. *Sent.* d. 36. q. 3. — Dionys. Carth., hic q. 1. — Biel, hic q. 3.
 
-                                                                          TRACTATIO QUAESTIONUM.
-
-
-
-               Ad intelligentiam praesentis distinctionis quaeri-                                 Tertio, utrum liabeat pluralitatem secundum rationem.
-
-5   tur deratione divinae cognitionis                          ,
-                                                                   quae idea consue-              Quarto          ,   utrum habeat pluralitatem secundum nume-
-    vit appellari.                                                                                           rum imiversalium                       ,       an singularium.
-               Primo quaeritur, utrum                         in   Deo    sit   ponenda           Quinto, utrum habeat phiralitatem secundum nume-
-    ratio idealis.                                                                                           rum finitum, vel inflnitum.
-               Secundo dato quod sic, quaeritur, utrum habeat                                     Sexto       ,    utrum in ideis sit pluralitas secundum nume-
-    pluralitatem             secundum rem.                                                                   rum ordinatum, vel confusum.
-
-
-
-           '   Cod.    1   subiungit partes.                                                          • Pro omnes res,                     quam              lectionem ex codd.        P Q restilui-
-          2    Val. addit partes.                                                                 mus, ceteri codd. cuii                      ed.       1    substituunt         solummodo omnes
-          3    Vat. anle connotata           rcpetit     mmina.         codd. non suffra-         Vat. omnia.
-    gantibus.                                                                                            '   Cod.      V aviem.
-
-                                                                                                                                         :            :
-
-
-
-
-                                                                                                                              SENTIiNTlARUM                      LIB.       I.
-
-
-
-
-                                                                                                                        ARTICULUS UNICUS.
-
-                                                                                                                                                  De ideis.
-
-
-
-                                                                                                                                             QUAESTIO I.
-
-
-                                                                                                      Utrmi ponemhie sint icleae in Deo.
-
-
-                                                                                                                                                                                                    *
-           Qnanlum ergo ad primnni quaeritur, ulruni sit                                                                                                  rissime est                 finis             :   ergo pari ratione                    ,
-                                                                                                                                                                                                                                                      quia ab         ipso
-
-in  Deo ponere ideas. Et quod sic, ostenditur                                                                                                             cognoscuntur                         et       exprimuntur , per se ipsum Deus
-      1. Primo auctoritate Augustini libro Octoginta                                                                                                      verissime est exemplar. Sed exemplar non                                                             est, nisi
-
-.trium Qnaestionum ': « Ideae sunt formae aeternae et                                                                                                     in     quo sunt rerum exemplatarum ideae: ergo ete.
-incommutabiles                            ,
-                                               quae in divina intelligentia continen-                                                                              CoNTRA 1. Dionysius de Divinis Nominibus^: ^''ly''
-                                                                                                                                                                                       :
-
-
-
-
-tur». Ex his triijus conditionibus concluditur, quod                                                                                                      «Cognoscit divinus inlellectus,                                                sed ex se             ipso     et
-
-idea           sit    in       Deo.                                                                                                                       per se ipsum, non secundum ideam singuhs se im-
-             2.      Item, ratione ostenditur sic:                                                             omne agens ra-                             mittens, sed                         secundum nnam                             excellentiae           causam
-tionabililer ^,                     non a casu, vel ex                                            necessitate,                               prae-        omnia noscens et conlinens»: ergo Deus singula non
-cognoscit rem,                            antequam                           sit;          sed omnis cognoscens                                           cognoscit per ideam.
-habet rem cognitam       secnndum verilatem, vel                 vel                                                                                                  2.   Item, ratione videlur: quia idea dicit ratio-
-secundnm siniilitudinem sed res, antequam sint, non                    :                                                                                  nem similitudinis, et similitudo dicit ralionem con-
-possunt haheri a Deo secundum veritatem ergo se-                                                                                  :                       venientiae; Dei autem ad creaturam, cum sit summa
-cundnm similitudinem. Sed similitudo rei, per quam                                                                                                        dislantia , nulla est " convenientia ,                                                aut     si    est ,    mi-
-res cognoscilur et producitur , est idea: ergo etc.                                                                                                       nima         est:      ergo aut                     nulla             similitudo,            autjninima.
-             3.      Iteni,          omne quod determinate dncit in alle-                                                                                 Aut ergo non est idea in Deo, aut                                                 si       est,    secundum
-rum cognoscendum                                        .        liajjet              penes            se           simihtudinem                          rationem imperl'ect:mi est; sed nihil imperlectnm po-
-cogniti ,             vel       ipsum                   est eius similitudo                                    ;    sed speculum                          nendum est in Deo: ergo etc.
-aeternum mentes                                    se        videntinm ducit                                       in       cognitionem                       3. Item, nobilissimus modus cognitionis est Deo
-
-omnium creatorum,                                                sicut               dicit    Angustinns',                                    quod        attribuendus ; sed cognitio per rei essentiam est no-
-rectius ibi cognoscunt                                                quam alibi                  :    ergo restat, quod                                  bilior           quam per                      similitudinem                   rei:        ergo     Deus     eo-
-in    eo resident similitndines. Et constat, quod                                                                                                sunt     gnoscit per                      essentiam                   rei,       non per simihtndinem.
-in eo sicul in cognoscente,                                                           quia            non tantum                                 aliis    Sed idea est similitudo, non essentia                                                       rei : et sic etc.
-
-repraesentat                    ,    sed sibi                     ;    sed liaec est tota ratio ideae                                                                 4.    Item, idea non est necessaria                                             nisi     ad     diri-
-
-ergo           etc.                                                                                                                                       gendum in cognoscendo et regulandum in operando ';
-             4.      Item       ,
-                                      quia res a Deo producuntur, ideo sunt                                                                               sed nihil indiget dirigente vel regulante,                                                         nisi     quod
-in    Deo tanquam in                                        efjiciente, et                    Deus verissime est                                          potest errare vel deviare.                                           Deus autem nullum ho-
- efQcieiis; similiter, quia                                                 ab ipso finiuntur, ideo ve-                                                   rum habet                :       ergo frustra ponuntnr in Deo ideae.
-
-
-
-
-         '      Quaesl. 46.                   n.    2,       in       quo loco               toUis oiiginalis pio                                  tte-           *    Cod.      Q voci finis praemittit earum.                             — De hoc argumento
- ternae exhibet prmcipales.                                                                                                                               cfr.    Dionys., de Div.                      Nom.       c.    .5,    et Schol. S.     Maximi (ed. Migne)
-         2 In        codd. aa                 bb        hic interseritur vel                          ex proposito sive ex                                in     hunc locum.
- voltmtaie,                et       subinde post                            rem anteqmm additur fiat, sed                                                         5    Cap.      7.        %   2.       In ipso textu Vat.               hic et infra in solutionc
-
- Deus est agens ratiombilissime non a casu                                       ,                                          vel       ex necessi-         huius ohiectionis pro se immittens                                        substiluit innitens.            Nostrae
- tate, ergo cognoscit rem, anlequam fiat vel.                                                                       — Dc hac pro-                         lectioni,         quae           habetur cliam                   apud Scotum Erigenam, favent
- positione maiori                     cfr.         Aristot. , 1. Metaph. c.                            I   ,   ubi docetur                   ,
-                                                                                                                                                 quod     mulli codd. exhibentes immitteits, omissa auleni vocula se.
-
- agentes per                   intellectum,                      nescientes                rationem operum suorum,                                                ^    Vat. et cod. cc hic addunt                                 ibi.
-
- non agunt,                 sed faciunt, sicut                                   comburit ignis                         ;    ac        II.       Phys.            '    Respicitur               hic         Senecae            definitio   ideae,       quae        habetur
- text.       39. seqq.              (c.       5.),      et       XI.        Metaph.          e.       7.       (X.          c.    8.),       ubi per      Epist. 6S.         ad Lucilium: Idea                           esl    exemplar, ad quod respiciens
- oppositionem ad causam per se distinguitur forluna, quae est                                                                                             artifex id         quod destinabat,                          effecil.    Ibid.   et   haec Platonica         defi-
-
- praeter electionem et intelJectum.                                                   De prima minori vide supra                                          nitio       ideae      invenitur:                  Idea        est    eorum quae             naturaliter fiunt
-
- d.   3.       p.    I.   q.    1.    Summam huius argumenti invenies apud Au-                                                                            exemplar aeternum.                            — Pro confirmatione huius argumenti com-
- gust.,         I.   Retract.             c.       3.       n.        2; et XI. de Civ.                            Dei, c. 10. n.                   3;    muniter allegatur Aristot.                          ,   I.   Metaph. texl. 31. (c. 9.): Dicere vero
- nec non Anselm., Monoiog.                                             c.    9.                                                                           exemplaria eas (formas)                             esse...       vaniloquia et melaphoras poeli-
-           '    Libr. XI.            de Civ.                 Dei,           c.       29.   — Proxime post pro                                      co-    cas dicere est.    Quod enim est, quod agit, ad ideas inspiciens?
- gnoscunt codd. D P T Z cum                                                 ed.       i    cognosctmtur.                                                  —      Paulo inferius pro vel deviare Vat. cum cod. cc et deviare.
-
-                                                                                                                                 ,,                                                                                                                                  ;
-
-
-
-
-                                                                                          DIST.            XXXV. ART. UNICUS QUAEST. I.                                                                                                                   601
-
-                                                     C       N C L U S 1 0.                                                           simihtudo, secundum quod ununi dicitur" similitudo
-                                                                                                                                      alterius; et haec similitudo non concernit convenien-
-      Deus cognoscil per ideas et liabel in se rationes et                                                                            tiam         in     aliquo     communi, quia simihtudo se ipsa est
-            similitudines reriim, quas cognoscit.                                                                                     similis, non              in           hoc modo dicitur creatura
-                                                                                                                                                                     tertio; et
-
-                                                                                                                                      similitudo Dei, vel e converso Deus similitudo crea-
-                 Respondeo: Dicendum, quod circa hoc duplex                                                                           turae.             Hoc modo sumendo similitudinem, similitudo conciusio                                                                          -2
-
-
-
-
-      fuit opinio '.                                                                                                                  est ratio cognoscendi , et haec dicitur idea.                                                                 — Sed
-                 Quidani enim dixerunt, quod Deus non cogno-                                                                          ahter est in nobis, aliter in Deo.                                                  In     nobis              quidem                Amenatk
-                                                                                                                                                                       ,.               .        ...        ,                       .                            .       cognoseend
-      scit       secundum rationem ideae, sed secundum ratio-                                                                         ratio cognoscendi est similitudo,                                              cognitum                      est veri-             |n   nobis ac
-
-      nem causae. Et ponunt simile: sicut si punctus co-                                                                              tas.         Nam in nobis est simihtudo accepta et impressa
-      gnoseeret suam virtutera, cognosceret lineas et cir-                                                                            ab extrinseco, propter hoc quod                                                    intellectus                 noster
-      cuniferentiani ; similiter, si unitas haberet potentiam                                                                         respectu cogniti                      est   possibilis                    et   non actus                       purus
-      cognitivam, per                             quam converteret se super se,                                                co-    ideo         fit    in   actu per aliquid cogniti                                    ,    quod               est simi-
-      gnosceret omnes numeros. Per hunc                                                           modum dicunt                        litudo eius ". In                 Deo autem est e converso, quia ra-
-      in     Deo        esse.            Quoniam enim Deus habet virtutem                                                             tio     cognoscendi est                     ipsa           veritas, et                            cognitum            est
-      producendi omnia et cognoscit totam suam virtutem,                                                                              similitudo veritatii, scilicet ipsa creatura. Et                                                                    quia
-      ideo cognoscit omnia. Et hoc dicunt, Dionysium sen-                                                                             ratio cognoscendi consistit in ipsa                                                 veritate                 prima', Noiandum.
-           cum dixit, quod «non secundum ideam, sed
-      sisse,                                                                                                                          ideo ratio cognoscendi in Deo est summe expressiva.
-      secundum unam excellentiae causam cognoscit om-                                                                                 Et      quoniam omne id quod summe exprimit,                                                                       perfe-
-      nia».       —
-              Sed haec positio non potest stare. Primum                                                                               ctissime assimilat cognitum assimilatione competente
-      quidem, quia Deus cognoscit non per collationem                                                                                 cognitioni , ideo patet ,                         quod ipsa veritas ex hoc                                                 ,       coiiciusio    .1
-
-
-
-
-      deveniendi a principio ad principiatum                                                           ,   sed simpUci                quod facil cognoscere,                            est similitudo expressiva ° et
-      aspectu. Et iterum, omne cognoscens, in quantum hu-                                                                             idea. E contrario est in nobis, quia                                                      eo ipso,                 quod
-      iusmodi, simile est cognoscibiii                                          :    ergo         '^
-                                                                                                       habet eius si-                 est similitudo, facit cognoscere.        Ex his patent obiecta.
-      militudinem                  ,     vel ipse est similitudo.                                Rursus, omnis                                     1.    Quod enim obiicitur, quod non ° secundum .soiutio op
-                                                                                                                                      .   ,              ...
-                                                                                                                                      ideam smgulis se immitlens
-                                                                                                                                                                             .      .                           ,.        ,                          ,    T..            posilorum.
-      cognoscens ideo distincte producit, quia distincte co-                                                                                                                                           ;    dicendum                     ,   quod Dio-
-      gnoscit,             non         e converso              :     ergo ratio prorfMcencJt" non                                     nysius ex hoc non vult removere rationem ideae                                                                            a
-      est ratio            cognoscendi.                       Et iterum,                    ahqua cognoscit,                          Deo, sed vult dicere, quod non                                                 sic         est              multitudo
-      quae ab ipso non sunt ^ Propter haec et similia ali-                                                                            et differentia             idearum                secundum singula                                      ,    sicut        in
-      ter    dicendum.                                                                                                                nobis.
-                                        secundum Sanctos, et
-                 Ideo est alia positio, et                                                                                                         2.    Ad    illud        quod
-                                                                                                                                                                     quod nulla est con-
-                                                                                                                                                                                    obiicitur,
-•ententia secundum   philosophos, quod Deus cognoscit per
-iciusiol. ideas et habet in se rationes et similitudines rerum
-                                                                                                                                                          ....
-                                                                                                                                      venientia, vel minima; dicendum   quod est siraili-
-                                                                                                                                      tudo umvocationis sive parlicipatioms
-                                                                                                                                                                                                                     ,
-
-
-
-                                                                                                                                                                                                                                ,       et    simihtudo
-                                                                                                                                                                                                                                                                          Tnpiex
-                                                                                                                                                                                                                                                                         jiiilitudo.
-                                                                                                                                                                                                                                                                                       si.
-
-
-
-
-      quas cognoscit,                         in     quibus non tantum ipse cogno-                                                    imitationis, et expressionis.                                         Similitudo participa-
-      scit ,     sed etiam aspicientes                                   in     eum: et has                      rationes             tionis nulla est                  omnino, quia nihil                                     est       commune"'.
-      vocat Augustinus ideas et causis primordiaies ^                                                                                 Similitudo imitationds est modica,                                                   quia              in     modico
-           Ad intelligentiam autem obiectorum inlelligen-                                                                             potest finitumjmitari infinitum,                                               unde semper maior
-      dum, quod idea dicitur similitudo rei cognitae. Si-                                                                             est dissimilitudo                     quam            similitudo.                    Similitudo                     vero
-      mihtudo autem dupliciter dicitur: uno modo secun-                                                                               expressionis est summa                            ,    quia causatur ab intentione
-      dum convenienliam duorum in tertio, et haec est                                                                                 veritatis , ut visum est, quae est ipsa expressio;                                                                  ideo
-      similitudo secundum univocationem ; alio modo est                                                                               Deus summe omnia cognoscit.
-
-
-
-             '    In   cocl.        Y hic additur: quoniam secundmn elymologiam                                                               <>
-                                                                                                                                                   Supple: unde immediata ratio cognoscendi mn esl obie-
-      idea dicitw ab                     ydos      (e"oos),        quod         est forma;               forma autem                  ctum cognilum              (veritas),       sed        similitudo                  eius.          —     In     sequenti
-      dicitur tripKciter : aut a gua res formatur , ut                                                 forma agentis                  propositione e converso accipiendum est pro e contrario,                                                            quod
-      a qua procedit formatio                                effectm; aut per                     quam atiquid in-                    etiam exstat in ed.               I.
-
-      formatur         ,      ul       anima
-                                     fonna naturalis liominis ; aut ad
-                                                     est                                                                                      '    Vetustiores codd.              cum ed.              1   primo. Mox pro assimilat
-      quam aliquid formatur et haec est forma exemptaris, ad
-                                                         ,                                                                            cognitum cod. bb assimilatur cognito,                                          et    subinde                 pro    com-
-      cuius imitatioiiem, aliquid producitur. Et hoc tertio modo di-                                                                  petente plures codd.                  cum ed.          I    minus clare competenti.
-      citur forma idea      et de hac quidam dixerunt etc.
-                                         ,                                                                                                    *    Cod. Z      expressissima.                Paulo              inferius            post          cognoscere
-           ' Siipple: et Deus.                     —
-                                   Mox Vat. omnibus ferme codd. contra-                                                               cod.     D        addit veritatem,          quae           est       extra;          e     contrario               autem
-      dicentibus ipsum. Subindo voci similitudo cod. Z adiungit eius.                                                                 erat in Deo , quia in ipso veritas ,                                  quae           est intra,               facit co-
-             \n cod.     adtexitur ut mala culpae.                                                                                    gnoscere similitudinem, quae est exlra.                                             Deinde              post       patent
-           ' De ideis cfi-. supra fundam. I. seqq. dc causis primor-                         ;                                        cod. S addit omnia.
-      dialibus         cfr.        V.        de    Genes.          ad lit.      c.   4.     n.     10, et VI.             c.    U.            '                         quo multo nielius substituen-
-                                                                                                                                                   Vat. hic subiic.it est, pro
-      n.    23, ac IX.              c.    17. n.      32.      seqq.           — Explicationem doctrinae                              dum esset: cognoscit intellectus divinus. Paulo inferius eadem
-      .\ugustini invenies                    apud Bonav.,                II.    Sent. d.          18.      a.   !.   q.    2.         Vat., nonnullis codd. faventibus, vocem multitudo immutavit
-             ^    Pro divitur                 Vat.       cum       cod.         cc   est.        Paulo inferius ante                  in simititudo.
-      tertio sola Vat. omittit in.                           — De hac                 duplici              acceptione           si-           " Supple cum cod. X .Kiticet Deo et creaturae.
-      militudinis cfr. supra pag. 69i, nota 6.
-
-                           S. Bonav.              — Tom.            I.                                                                                                                                                                       76
-
-                                                                                                                                                               ;                                                                                                                                                    ,
-
-
-
-
-                                                                                                                                          SENTENTIARUM LIB. 1.
-
-        Ad illud quod obiicitur tertio, quod nobiliur
-         3.                                                                                                                                                             4. Ad illud quod obiicitur quod idea est ad                                           ,
-
-
-
-est eognitio per essentiam; dicendum. quod est si-                                                                                                                  regulandum et dirigenduni; dicendum, quod regu-
-militudo             caumta a verUate                                                    rei          extra, et                                de hac               lari        et dirigi potest esse duphciter:                                                        aut per regularn                                 i
-
-
-
-
-verum est, quod nunquatn ita perfecte exprimit rem,                                                                                                                 differentem a directo et reguJato, et haec ponit im-
-sicut ipsa res si praesenlialiter esset apud animam
-                                   ,                                                         '                                                                      perfectionem                          et       possibihtalem erroris; aut per regu-
-et hac similitudine non cognoscit Deus. Est aha si-                                                                                                                 lam     ,       quae est idem quod regulatum                                                          ,       et haec ponit
-
-mihtudo, quae est ipsa veritas expressiva cogniti                                                                                                                   impossibihtatem erroris.                                                Quia enim                         regula                    errare
-et eo similitudo, quo veritas; et haec similitudo me-                                                                                                               non potest, et* Deus                                         est ipsa regula et                                     idea:                ideo
-hus exprimit rem, quam ipsa res se ipsam expri-                                                                                                                     impossibile                          est,          eum         errare.                        El    sic        patet,                    qund
-mat, quia res ipsa accipit rationem expressionis ab                                                                                                                 idea in                  Deo non ponit^ imperfectionem, sed                                                                     coinple-
-iha:         et    secundum hanc                                           est           perfectior cognitio,                                                et     mentum.
-hac cognoscit Dens.
-
-
-
-
-                                                                                                                                                    SCHOLIOK
-
-        I.   Doclrina                  cJe       ideis,           quae              el       gra^itale            i-ei                et    controver-              ralio       cognoscendi omnia cognita, dicitur liw;                                                            in    quantum cst
-siaruni mullitudine celebris est, a Scliolastieis ex S.                                                                                     Augustino,              ralio       cognoscendi visa                         et approbaln, dicitur                          speculum; in quan-
-praecipue ex libro 83 Quaest.                                              q. 46,             et      de Civ. Dei, VII.                                c.    28.    tum est ratio cognoscendi praevisa et disposita, dicitiir exemplar;
-desumta            esl.           In           prinio        loco              S.    .\ugustinus asserit, Platonem                                                  in quantum est ratio cognoscendi      praedestinata et reprobata
-primo nomen ideae                                    usuriiasse, non                             autem           reni                     ipsam primo               dicitur liher vitae. Est igilur liber vitae respectu rerum ul
-
-intelle.xisse       ;    deinde                 (n.    2.)        docet :                «   Idcas igitur Latine possu-                                             redeuntium, e.Temp/ac ut e.xeuntium, speculum              canimia                                                       \\\.
-
-
-mus vel formas vel species                                            dicere, ut \erbuni e                                                verbo           traiis-   lux vero respectu omnium.           Ad exeraplar autem spectat          —
-ferre videamui-. Si                             autem            ratioiies eas                        vocemus                     ,       ab        intcrpre-       idea, verbum, ars et ratio: idea secundum actum pracvidendi,
-tandi        quidem                pioprietale discedinms                                            — rnUones enim Graece                                          verbum secundum actum proponendi, ars secundum actum
-XoYoi appelliiiitor                        ,    non ideae              — sed                 tanien (iiTisquis hoe voca-                                            prosequendi, ratio secundum aetum perficiendi, quia superad-
-bulo     uti voluerit,                         a re ipsa iion abeirabit. Sunt                                                     nanique ideae                     dit    intentionem finis. Quia vero haec oninia                                                     unum sunt in Deo,
-principales formae                              quaedam vel                         rationes            rerum slabiles atque                                        ideo frequcnter accipitur                                    unum pro alio».
-incommutabiles,                            quae ipsae forniatae non                                              sunt, ac per hoc                                           Paulo                 tiliter         de    iisdem          loquitur Uldaricus (apud Dionys.
-
-aelernae ac semper                               eodem niodo se habentes                                              ,
-                                                                                                                              quac in divina                        Carth., hic                   I.   Sent. d. 36. q. i.):                     »   Vocatur idea, id                                est      prima
-inlelligentia                continentur.                    Et       cum                ipsae         neque oriantur neque                                         forma, quia idea                              est    forma          omnium formarum, cuius                                               parti-
-
-intereant, secundum eas tanien formari dicitur omne                                                                                            quod oriri           cipatione formalitas                       omnibus eis inest; exemplar, in quantum
-et interire potest, et                               omne quod oritur et                                        interit ».                     — Omnes              ipsani               omnia            imitanlur; ratio, in quantum est similitudo
-autem doctores                             catliolici            in        hoc           conveniunt,                              ponendas esse                     renim                in       intelleclu;   species   in quantum est niedium co-
-                                                                                                                                                                                                                                        .
-
-
-
-
-ideas in           Deo        ,
-                                   quia              alias       sequeretur                      ,    eum agere vel a casu,                                         gnoscendi;                         paradigma     in quantum secundum respectum
-                                                                                                                                                                                                                             ,
-
-
-
-
-vel necessitate                    naturae,                      non arbitrio voluntatis.                       Nam agere                                           eius        ad rem                   Deus operatur                      —
-                                                                                                                                                                                                                             paradigma enim dicitur a
-per voluntatem                quod per intellectum agenda
-                                           praesupponit                    ,
-                                                                                                                                                                    para, quod iuxta, et dogma                                         (!),        quasi docens                        operari [jiapi-
-
-praedefiniantur. i\am      secundum naiuram producit per
-                                                     t agens                                                                                                        BEiYiJ-a             a     napa3Eixvu[ii].                   Vocatur etiam mundus archetypus a
-formas,quae sunt vere naturae, sicut homo hominem et asi-                                                                                                           Plalone                  in        Timaeo      ,    id       est    principale exemplar».                                       —     Similia
-
-nus asinum               ;    agens per intellectum producit per formas                                                                                    quae     leguntur apud Alex. Hal., S.                                        p.    I.     q.           23.   m.        4.    a.        1,    et p.      II.
-
-
-non sunt aliquid rei                             ,    sed ideae                  in      menle, sicut                                 arlifex
-                                                                                                                                                      ,
-
-
-                                                                                                                                                      produ-        q. 3.           m. 3; et B. Albert., S. p. 1.                                   tr.           13. q. 55.           m.         2.    a.    i.   —
-cit arcam » (S. Bonav., II. Sent. d. I. p. I. a. 1 q. ad 3.). « Crea-                                       .             I   .                                     Notandum autem, quod proprie loquendo                                                                    ratio            cognoscendi
-tura egreditur a Creatore      sed non pcr naturam quia alterius
-                                                             ,
-                                                                                                                                      ,
-                                                                                                                                                                    accipitur polius ex parle potentiae ut dispositio,                                                                  qua ipsa red-
-naturae           esl,       ergo per aitem                            ,       cum non sit alius modus ema-                                                         ditur           expedita                 ad    intelligendum,               sive est id quo cognoscitur.
-
-nandi         nobilis             quam                per naturam, vel per artem sive ex vo-                                                                        Haec            in        intellectu           humano              est    tum species intelligibitis , tum
-luntate; et ars                    illa          non     est exti-a                      ipsum: ergo                                  est      agens per            lumen                inlellectus              agentis,         vel        etiam                illuminatio                a        superiore
-artem        et    volens              :       ergo necesse est, ut habeat                                                    raliones expres-                      causa               etfecta.        In     Deo autem                ipsa eius essenlia sola                                        est    ratio
-
-sivas. Si          enim                dat       formam                    huic rei, per                        quam                       distinguitur             cognoscendi se                        et      omnia. Idea autem                       ,       ut ex sequentibus palebit,
-
-ab     alia re ,                  quam distinguitur necesse
-                         vel propiietatem ,                                    per                                                              ,                   a plerisque                        nunc accipitur ut id quod cognoscitur,                                                       sive ut id
-
-est, ut habeat formam idealem, immo formas ideales» (Hexaem.                                                                                                        quod intellectui                         obiicitur            ut    terminus ipsius                       ,    ad quem respi-
-Serm.         12,       in princ).                    Cum             doctrina de ideis maximi                                                      momenti         ciens agens operatur et rem producit; et sic proprie esl                                                                                 exem-
-sit,    ut sententia S.                          Bonaventurae de praescientia                                                         et scientia Dei               ptar.               Nihilominus                S.    Thomas               et      praecipue                    S.        Bonaventura
-(infra       d.    38. 39.) recte intelligatur, nonnulla praemittimus tum                                                                                           ideam accipiynt etiam ut principium, quo cognoscitur; et sic
-de pluribus terminis,                                  qui            hic occurrunt                     ,       tum de opinionum                                    est idem quod ratio cognoscendi.
-
-principalium differenlivs,                                       quae fere                   in       eo fundantur, quod de                                              III. Circa formatem idearum   signiflcalionem existit magna
-
-formali idearum ratione auctores non idem sentiunt.                                                                                                                 in scholis opinionum pugna.
-
-     II. De variis terminis fere synonymis Seraphicus                                                                                                in     Bre-         1   Secundum senlentiam Scoti (hic q. iinica), cum qua fere
-                                                                                                                                                                                    .
-
-
-
-
-viloq. (p.          I.       c.    8.)          sic ait: Sapienlia divina                                        ct       in              quantum             est   conveniunt Durandus (I. Sent. d. 36. q. 3.) multique Nomina-
-
-
-
-
-        1    Aliquot codd. ut                           A T V cum                             ed.       I       praesenter,                           alii     ul               2       Supple           cum cod. bb quia.
-X Z aa praesens. Voci animam, quae pro.xinie sequilur, cod.                                                                                                                     3       Vat. praeler                   fidem codd.              et cd.                  hic        inlerponil                 defe-
-
-R praefigit ipsam.. Dein post alia similitudo cod.                                                                                             addit cav-
-sata a veritate,                           el    paulo inferius post                                  et eo      cod.                     X inserit esi.
-
-                                                                                                                                                 ,,
-                                                                                                                                                  ,                                                                                                                                                            ,,
-
-
-
-
-                                                                                                 DIST.              XXXV. ART. UNICUS QUAEST.                                                          I.
-
-
-
-
-          quam non impi-obabileni aestimiit Richard. a Med. (I. Sent.
-    les, et                                                                                                                                                  Verbo suo quod ab ipso proeedit, dicit se et omnia,
-                                                                                                                                                       « Pater                                    ,
-
-
-
-    d. 36. a. 2. q. 2.), ideae sunt ipsae creaturae secundmi esse                                                                                     quia Verbo suo se ipsum declarat » (supra d. 32. a. 1. q. 1.
-possibile,                   cogrdUm in                         mente divina, sive, ut dicit Mastrius                                                 arg. 5. in fundam.).              « Summus Spiritus, cum sil purus actus
-
-    (Disputationes                    tlieolog.             t.    1. disp. 3. q. 2.) «sunt creaturae                                                  et sit              non tantum intelligens, sed et intellectus, non potest se
-praecognitae                     a        Deo          ut        factibiles,            adeo          ut      obiective             lantum             non       inteliigere.               Cum igitur intellectus aequetur intelligenti                                                                 ,   in-
-in divina                    intelligentia                contineantur                   lanquam                  reales conceptus                    telligit            quidquid est et quidquid                                      potest:                ergo et ratio                        intelli-
-obiectivi».                   Docet              enim Scotus (IV. SenU d.                                     50. q. 3. n. i.):                       gentis .aequatur intellectui, quia similitudo eius est.                                                                         Haec autem
-    « Si       idea ponitur respectus essentiae divinae                                                     ad extra       ,
-                                                                                                                                   cognitio           simililudo                 Verbum est,                         quia         secundum Augustinum et Ansel-
-illorum, ad quae est respectus ille, necessario praesupponitur:                                                                                       mum similitudo mentis cnnvertentis se super se, quae in acie
-essentia                enim         nunquam                     est    comparata,                   nisi     prius intelligatur                      mentis est,                     verbum esl. Si ergo haec                                           similitudo aequalis est
-illud           ad quod                fit        comparatio;                  non         enim             fll    comparatio ad                      Deus est.                  Igitur species originata                                    i'epraesentat originantem se-
+---
 
 ## English
 
-[Translation pending]
+<!-- page 600 -->
+
+### Article Unique.
+#### *On ideas.*
+
+### Question I.
+#### *Whether ideas are to be posited in God.*
+
+So as to the first, it is asked whether one is to posit ideas in God. And that one is, is shown:
+
+1. *First*, by the authority of Augustine, in the book *Of Eighty-Three Questions*[^1]: "Ideas are eternal and unchangeable forms, which are contained in the divine intelligence." From these three conditions it is concluded that idea is in God.
+
+2. *Likewise*, by reason it is shown thus: every agent that acts rationally[^2], not by chance or by necessity, foreknows the thing before it is; but every knower has the thing known either according to truth, or according to likeness; but things, before they are, cannot be had by God according to truth: therefore according to likeness. But the likeness of a thing, through which the thing is known and produced, is an idea: therefore etc.
+
+3. *Likewise*, everything that determinately leads into the knowing of another, has with itself the likeness of the thing known, or is itself its likeness; but the eternal mirror leads the minds of those who see [it] into the knowledge of all created things, as Augustine[^3] says, that they know there more rightly than elsewhere: therefore it remains that likenesses reside in him. And it is established that they are in him as in a knower, since they represent not only to others, but to himself; but this is the whole account of an idea: therefore etc.
+
+4. *Likewise*, since things are produced by God, therefore they are in God as in their efficient cause, and God is most truly the efficient cause; likewise, since they are bounded by him, therefore he is most truly the end: therefore by parity of reason, since by him they are known and expressed, God through himself is most truly the *exemplar*. But there is no exemplar except in which there are the ideas of the things exemplified: therefore etc.
+
+**On the contrary:**
+
+1. Dionysius, *On the Divine Names*[^4]: "The divine intellect knows, but from himself and through himself, not by sending himself into singulars according to an idea, but by knowing and containing all things according to the one cause of [his] excellence": therefore God does not know singulars through an idea.
+
+2. *Likewise*, by reason it appears: because *idea* asserts an account of *likeness*, and *likeness* asserts an account of *agreement*; but between God and the creature, since there is the greatest distance, there is no agreement[^5], or if there is, it is the least: therefore either there is no likeness, or the least. Either, then, there is no idea in God, or if there is, it is according to an imperfect account; but nothing imperfect is to be posited in God: therefore etc.
+
+3. *Likewise*, the most noble mode of knowing is to be attributed to God; but knowing through the essence of the thing is more noble than through the likeness of the thing: therefore God knows through the essence of the thing, not through likeness. But idea is a likeness, not the essence of the thing: and so etc.
+
+4. *Likewise*, idea is not necessary except for *directing* in knowing and *regulating* in operating[^6]; but nothing needs a director or regulator except what can err or deviate. But God has none of these: therefore ideas are placed in God in vain.
+
+<!-- page 601 -->
+
+### Conclusion.
+
+> *God knows through ideas, and has in himself the accounts and likenesses of the things which he knows.*
+
+**I respond:** It must be said that on this point there has been a twofold opinion[^7].
+
+For some have said that God does not know according to the account of *idea*, but according to the account of *cause*. And they propose a likeness: as if a point knew its own power, it would know lines and the circumference; likewise, if unity had a cognitive power, by which it could turn itself upon itself, it would know all numbers. In this way, they say, it stands in God. For since God has the power of producing all things, and knows his whole power, therefore he knows all things. And this, they say, Dionysius held, when he said that "not according to idea, but according to the one cause of [his] excellence does he know all things." —
+
+But this position cannot stand. *First* indeed, because God knows not by collation, going from principle to the principled, but by simple regard. And again, every knower, insofar as he is such, is similar to the knowable: therefore[^8] he has the likeness of it, or he himself is its likeness. Again, every knower produces distinctly because he knows distinctly, and not the converse: therefore the account of *producing* is not the account of *knowing*. And again, he knows certain things which are not from him[^9]. On account of these and similar [reasons] one must speak otherwise.
+
+Therefore there is another position, both according to the Saints and the opinion according to the philosophers, that God knows through ideas, and has in himself the accounts and likenesses of the things which he knows; in which not only does he himself know, but also those who look unto him: and these accounts Augustine calls *ideas* and *primordial causes*[^10].
+
+But for the understanding of the objections, it must be understood that *idea* is said [to be] the *likeness of the thing known*. But likeness is said in two ways: in one way, according to the agreement of two things in a third, and this is likeness according to *univocation*; in another way it is likeness, insofar as one is said[^11] to be the likeness of the other; and this likeness does not concern agreement in something common, since likeness is itself similar of itself, not in a third; and in this way the creature is called the likeness of God, or, conversely, God [the likeness] of the creature.
+
+> *(Conclusion 2.)* In this way, taking likeness, the likeness is the *account of knowing*, and this is called *idea*. — But it is otherwise in us, otherwise in God. *(Note: the difference of the account of knowing in us and in God.)* In us indeed the account of knowing is *likeness*, and the thing known is *truth*. For in us there is a likeness received and impressed from outside, on account of this, that our intellect with respect to the known is *possible* and not pure act; therefore it is brought into act through something of the known, which is its likeness[^12]. In God, however, it is the converse, for the account of knowing is *truth itself*, and the known is the *likeness of the truth*, namely, the creature itself. And since the account of knowing consists in the very first truth, *(Note.)* therefore the account of knowing in God is *most expressive*. And since everything that most expresses, most perfectly assimilates the known by an assimilation befitting knowing, therefore it is clear that the truth itself, *(Conclusion 1.)* by this, that it makes [things] to be known, is an *expressive likeness* and *idea*. The contrary is in us, since by the very fact that [the likeness] is a likeness, it makes [things] to be known. From these the objections are clear.
+
+**Solution of the opposed [arguments].**
+
+1. As to what is objected, that "not by sending himself into singulars according to an idea"; it must be said that Dionysius does not by this wish to remove the account of *idea* from God, but wishes to say that the multitude and difference of ideas according to singulars is not so [in God] as it is in us.
+
+2. As to what is objected, that there is no agreement, or [at most] the least; it must be said that there is *(threefold likeness.)* a likeness of *univocation* or *participation*, a likeness of *imitation*, and [a likeness] of *expression*. The likeness of participation is altogether none, because nothing is common. The likeness of imitation is small, because in a small [degree] the finite can imitate the infinite, whence dissimilitude is always greater than similitude. But the likeness of expression is supreme, since it is caused by the *intention of truth*, as has been seen, which is the very expression itself; therefore God most supremely knows all things.
+
+<!-- page 602 -->
+
+3. As to what is objected thirdly, that knowing through essence is more noble; it must be said that there is a likeness *caused by the truth of the thing outside*, and concerning this it is true that it never expresses the thing so perfectly as the thing itself [would] if it were present to the soul, and by this likeness God does not know. There is another likeness, which is the very *expressive truth of the known*, and is a likeness in that it is truth; and this likeness expresses the thing better than the thing itself expresses itself, since the thing itself receives its account of expression *from* it: and according to this is the more perfect knowing, and by this God knows.
+
+4. As to what is objected, that idea is for *regulating and directing*; it must be said that being-regulated and being-directed can be in two ways: either by a rule different from the directed and regulated, and this posits imperfection and the possibility of error; or by a rule which is the same as the regulated, and this posits the impossibility of error. For since the rule cannot err, and [*since*[?]] God is himself the rule and idea: therefore it is impossible that he err. And so it is clear that idea in God does not posit imperfection, but completion.
+
+---
+
+### Scholion
+
+**I.** The doctrine concerning ideas, which is famous both for the gravity of the matter and for the multitude of controversies, has been drawn by the Scholastics from St. Augustine, especially from the book *83 Questions*, q. 46, and *On the City of God*, VII[?], c. 28. In the first place St. Augustine asserts that Plato first used the name *idea*, but did not first understand the thing itself; then (n. 2) he teaches: "We may then in Latin call ideas either *forms* or *species*, that we may seem to translate word for word. But if we call them *accounts*, we depart, as to propriety of interpretation — for *accounts* are in Greek called *λόγοι*, not *ideae* — yet whoever wishes to use this term will not stray from the thing itself. For ideas are certain principal forms or accounts of things, stable and unchangeable, which themselves have not been formed, and through this are eternal and always have themselves in the same way, [and] which are contained in the divine intelligence. And since they neither arise nor pass away, yet according to them is said to be formed everything that can arise and pass away, and everything that arises and passes away." — But all the Catholic doctors agree in this, that ideas are to be posited in God; for otherwise it would follow that he acts either by chance, or by the necessity of nature, not by the choice of will. For *to act* by will presupposes that what is to be done is predefined through the intellect. "For an agent acting according to nature produces through forms which are truly natures, as a man [produces] a man, and an ass an ass; an agent acting through intellect produces through forms which are not anything of the thing, but ideas in the mind, as the artisan produces the chest" (S. Bonav., II. *Sent.* d. 1, p. I, a. 1, q. 1, *ad* 3.). "The creature goes forth from the Creator, but not by nature, since it is of another nature, therefore by art, since there is no other noble mode of emanating except by nature, or by art, that is, from will; and that art is not outside himself: therefore he is an agent through art and willing: therefore it is necessary that he have *expressive accounts*. For if he gives a form to this thing, by which it is distinguished from another thing, or a property by which it is distinguished, it is necessary that he have an *ideal form*, indeed *ideal forms*" (*Hexaemeron* Sermon 12, in the beginning). Since the doctrine on ideas is of the greatest moment, that the opinion of St. Bonaventure on the foreknowledge and knowledge of God (below d. 38, 39) may be rightly understood, we set forth a few things, both about several terms which here occur, and about the differences of the principal opinions, which are founded almost entirely in the fact that authors do not think the same about the formal account of ideas.
+
+**II.** Concerning various nearly synonymous terms, the Seraphic [Doctor] in the *Breviloquium* (p. I, c. 8) speaks thus: "The divine wisdom, insofar as it is the *account of knowing all things known*, is called *light*[?]; insofar as it is the account of knowing things seen and approved, it is called *mirror*; insofar as it is the account of knowing things foreseen and disposed, it is called *exemplar*; insofar as it is the account of knowing things predestined and reprobated, it is called *book of life*. The book of life, then, is with respect to things as returning; the exemplar, as going forth; the mirror or light, with respect to all. And to the exemplar belongs *idea*, *word*, *art*, and *account*: idea, according to the act of foreseeing; word, according to the act of proposing; art, according to the act of carrying through; account, according to the act of perfecting, since it adds the intention of the end. But because all these are one in God, therefore frequently one is taken for another." — A little differently of these same things speaks Uldaricus[?] (apud Dionysius the Carthusian, here I. *Sent.* d. 36, q. 1): "It is called *idea*, that is, *first form*, since the idea is the form of all forms, by participation of which formality is in all of them; *exemplar*, insofar as all things imitate it; *account*, insofar as it is the likeness of things in the intellect; *species*, insofar as it is the medium of knowing; *paradigm*, insofar as according to its respect to the thing God works — for *paradigma* is named from *para*, that is, *iuxta* [beside], and *dogma*[?], as if *teaching to operate* [παράδειγμα from παραδείκνυμι]. It is also called *archetypal world* by Plato in the *Timaeus*, that is, the principal exemplar." — Similar things are read in Alex. Hal., *S.* p. I, q. 23, m. 4, a. 1, and p. II, q. 3, m. 3; and B. Albert, *S.* p. I, tr. 13, q. 55, m. 2, a. 1. — But it is to be noted that, properly speaking, *account of knowing* is rather taken on the side of the power as a *disposition*, by which it itself is rendered ready to understand, that is, that-by-which there is knowing. This in the human intellect is now the *intelligible species*, now the *light of the agent intellect*, or even *illumination* effected by a higher cause. In God, however, his very essence alone is the account of knowing himself and all things. *Idea*, however, as will appear from what follows, is now taken by most as that-which-is-known, or as that which is set before the intellect as its *terminus*, looking unto which the agent operates and produces the thing; and so it is properly *exemplar*. Nonetheless, St. Thomas and especially St. Bonaventure take *idea* also as the principle by which there is knowing; and so it is the same as *account of knowing*.
+
+**III.** Concerning the formal signification of ideas there exists in the schools a great battle of opinions.
+
+1. According to the opinion of Scotus (here the single q.), with which Durandus (I. *Sent.* d. 36, q. 3) and many Nominalists almost agree, and which Richard of Mediavilla (I. *Sent.* d. 36, a. 2, q. 2) judges not improbable, ideas are the creatures themselves *according to possible being*, known in the divine mind; or, as Mastrius (*Theological Disputations*, t. 1, disp. 3, q. 2) says, "they are creatures foreknown by God as makeable, in such a way that they are contained only objectively in the divine intelligence as real *objective concepts*." For Scotus teaches (IV. *Sent.* d. 50, q. 3, n. 1): "If idea is posited as a respect of the divine essence to-the-outside, the knowing of those things, to which that respect is, is necessarily presupposed: for the essence is never compared, unless first there is understood that to which the comparison is made; for there is no comparison to the unknown." — In this opinion ideas are not precisely the divine essence (which, however, is presupposed), nor as the divine essence is taken absolutely, nor as it includes a relation to creatures or a respect of imitability. The same [Scotus] nevertheless says (loc. cit.) that all things are known "through that essence which most perfectly represents all things, which, as so representing those [things] as objects known, has the account of *idea*." — Hence it follows that, in Scotus's way, ideas cannot be posited as the *account of knowing* creatures (except *terminatively* and secondarily), but only as the *account or principle of producing* the same, and indeed not *effectively*, but only *exemplarily*. — It also follows that ideas of themselves have no respect except to things conceived as *possible*, not as produced or to be produced in time. — But since Scotus calls that *being-known* which things have in the divine intellect *diminished being* and *being-according-to-something*, these words must not be understood in the sense of Wycliffe, who is reported to have taught that creatures had in God from eternity real being of essence and existence; nor in the sense of Henry of Ghent, who attributed to creatures in God a certain *being of essence*, but not *of existence* (which opinion Scotus impugns with many arguments); nor in this sense, which Cajetan (on *S.* I, q. 14) and others impose on Scotus, that that *being* hold a middle place between real being and being of reason. For from Scotus's own words (loc. cit. and d. 36, q. unica, n. 5; d. 3, q. 4, n. 18), as well as from the chief Scotists, it sufficiently appears that that *diminished being* is to be placed among *beings of reason* (cf. Mastrius, loc. cit.; Rada, loc. cit. a. 3; and among authors of our age, the noted Father Kleutgen: *Die Philosophie der Vorzeit*, t. II, treatise 6, n. 582–583).
+
+2. Other doctors agree in this, that they hold the ideas of creatures to be the divine essence, but they disagree on the *mode* in which it is the idea, that is, on the formal account. St. Thomas (*De Veritate*, q. 3, a. 2) first says: "The essence (of God) is the idea of things *as it is understood*"; and then: "The divine essence, with the diverse proportions of things to it co-understood, is the idea of each thing" (cf. *S.* I, q. 15, a. 1, 2; *Summa contra Gentes* 1, c. 54). According to St. Thomas, then, as Cajetan interprets him, idea is the divine essence, as it is *formative* of the thing through the medium of the intellect, that is, [as] the divine essence insofar as it is understood by God as imitable by a creature. Whence the essence, considered in itself with all its attributes, is the *primary*, *proper*, and *motive* object of the divine intellect; but considered in comparison *with other things to be produced outside God*, it is the *secondary* object of the intellect. — Further, ideas refer both to things merely possible, and to things existing in any difference of time, yet not in the same way (*De Verit.* q. 3, a. 6; *S.* p. I, q. 15, a. 3, *ad* 2). — Likewise, idea is not only a principle of *producing*, but also of *knowing* (*S.* I, q. 15, a. 3). Ideas are *exemplars*, insofar as they are in the intellect as the likeness of others; they are *accounts* insofar as they are in the intellect as understood in themselves, namely by an act as it were *reflex* (ibid., a. 2, *ad* 2). — Finally, the distinction of ideas results from diverse respects to the divine essence, which are in things.
+
+All these things, at least as to substance, are approved by Alex. Hal., B. Albert, Petr. a Tar., Richard. a Med., and also by St. Bonaventure.
+
+3. Nevertheless, St. Bonaventure in some [places] employs another *mode of speaking and proceeding*, which, on account of the gravity of the matter, we set forth in compressed form from many places:
+
+  *a)* The Father, by understanding himself, expresses himself and all things in the Word. "The Father, by his Word who proceeds from himself, says himself and all things, since by his Word he declares himself" (above d. 32, a. 1, q. 1, arg. 5 *in fundam.*). "The supreme Spirit, since he is pure act and is not only intelligent but also intellect, cannot not understand himself. Since therefore the intellect is equal to the intelligent, he understands whatever is and whatever can be: therefore the account of the intelligent is also equal to the intellect, since it is its likeness. But this knowing-likeness is the Word, since according to Augustine and Anselm, the likeness of the mind turning itself upon itself, which is in the gaze of the mind, is *word*. If therefore this likeness is equal, [it] is God. Therefore the originated species represents the originator according to all that he is, and according to all that he can: therefore it represents *many*. Likewise, when it represents the power of the Father, it represents an immense power" etc. "Therefore since the supreme intellect is the active principle, in his likeness he disposes all, expresses all, does all" (*Hexaemeron* Sermon 3).
+
+  *b)* *Idea is the divine essence in comparison with creatures.* It signifies "the divine essence in comparison with the creature" (here q. 3, *in corp.*), or "in respect to that which is to be, or even can be" (ibid., *ad* 5).
+
+  *c)* *Idea, however, is not essence precisely insofar as it is essence*, but with order to the intellect, insofar as it is *truth* (here *in corp.* and *passim*). But truth is conceived as a property of the divine essence, insofar as it expresses itself to the intellect, that is, as "a property which is the account of signifying and understanding the uncreated essence" (above d. 8, p. I, a. I, q. 1, *ad* ult.; cf. d. 3, p. I, *dub.* 4). For just as being is called *good* by comparison with the final cause, so [is being called] *true* by comparison with the *exemplary* cause. "As it is called *good* by reason of order (to an end), so [it is called] *true* by reason of *expression*; and the account of expressing is of the exemplar" (ibid., *ad* 4, 7).
+
+  *d)* *The divine truth is light and most expressive.* "Truth is the supreme light, to which nothing can be hidden, nor are even shadows obscured by it" (below d. 39, a. 1, q. 2); it is "expressive of all things" (here *in corp.*). "The divine truth by one and supreme expression expresses itself and others; therefore the supreme assimilation is not only with respect to itself, but also with respect to others" (below d. 39, a. 1, q. 1, *ad* 4).
+
+  *e)* *Idea is the expressive likeness of the known.* "Idea is called the likeness of the thing known" (here *in corp.*). "Idea according to the thing is the divine truth; according to the mode of understanding, it is the likeness of the known" (here q. 4, *in corp.*). Not however a likeness *impressed* or *expressed* (as some later Scholastics thought), but *expressing*. "Since [it is] altogether expressing, therefore it most expresses according to all the conditions" (here q. 2, *ad* 3); it itself bespeaks "the immensity of the divine truth in expressing and knowing all that is possible to God" (here q. 5, *ad* 3) and elsewhere (d. 39, a. 1, q. 2; d. 40, a. 2, q. 1, *ad* 1, 2, 3).
+
+  *f)* This likeness differs from the likeness of *univocation* and of *imitation*. It is not a likeness of univocation, by which each extreme by participation agrees in some third; nor only the likeness of imitation, by which the finite in a small [degree] imitates the infinite, but rather the likeness of *expression*, and indeed supreme, "since it is caused by the intention of truth, which is the very expression" (here *ad* 2).
+
+  *g)* Idea as likeness is the *account of knowing*, but it differs from the likeness which is in our intellect. "It is otherwise in us, otherwise in God. In us indeed the account of knowing is likeness, the known is truth. For in us there is a likeness received and impressed from outside… But in God it is the converse, since the account of knowing is the very truth, and the known is the likeness of the truth, namely the very creature" etc. (here *in corp.*).
+
+  *h)* This likeness is the expressive account of knowing all. "This likeness is the expressive account of knowing not only the universal, but also the singular" (here q. 4, *in corp.*). "This is the very expressive truth of the known, and is a likeness in that it is truth… [it] expresses the thing better than the thing itself expresses itself" (here *ad* 3); it "is pure act and very truth"; is "outside genus", "not constricted nor limited, but extends itself to all, like the divine essence"; it is "a common (universal) likeness as to indifference and amplitude, but proper as to the most distinct expression" (here q. 2, *ad* 3). While, then, the created thing through the likeness (species) caused from itself can express only itself (II. *Sent.* d. 3, p. II, a. 2, q. 1), and not even this except in part; on the contrary, "the divine truth by one and supreme expression expresses itself and others; therefore the supreme assimilation is, not only with respect to itself, but also with respect to others" (below d. 39, a. 1, q. 1, *ad* 4).
+
+  *i)* On the first truth all true things depend. As all beings depend on the first and supreme being, so all truths on the first and supreme true. "For all true things are, and have it from their nature to express themselves through the expression of that supreme light; and if it ceased to flow in, the rest would cease to be true. Therefore no created truth is true by essence, but by participation" (above d. 8, p. I, a. I, q. 1, *ad* 4, 7). In the same sense St. Thomas says (*Summa contra Gentes* I, c. 68): "As the first essence is the principle of every essence, so the first intellection and volition is the principle of every intellection and volition."
+
+  *k)* *Idea is the likeness of the thing, through which the thing is known and produced* (here arg. 2 *in fundam.*). It is therefore not only the *terminus of knowing* (that-which-is-known) and the *exemplary* principle of producing, as "the account, according to which the artisan produces his works" (III. *Sent.* d. 14, a. 1, q. 2), but also the *principle of knowing* (that-by-which there is knowing), or the account by which God knows all others (cf. d. 39, a. 1, q. 1, *ad* 3).
+
+  *l)* *Properties of ideas.* "Idea, although in God it is something absolute, nevertheless according to the mode of understanding bespeaks a respect intermediate between knower and known," which "according to the thing holds itself more on the side of the knower, since it is God himself, yet according to the mode of understanding, that is, of speaking, the *likeness* holds itself more on the side of the known" (here q. 3, *in corp.*). The *plurality* of ideas is according to the mode of understanding (ibid.).
+
+  *m)* *Definition of idea.* To the mind, then, of the Seraphic [Doctor] there appears to be the definition of idea, which is read in an unpublished compendium of his Commentary, written by Brother William of Marra, on I. *Sent.* d. 33, q. 3 (in the National Library of Florence, codex no. 727, A. 2): "Idea is the divine essence or eternal truth in a determinate manner imitable, and expressive of this imitability with [literally: *apud*] the divine intellect; *because imitable*, this is the *material* in the account of idea; *that it is expressive of imitability*, this is the *formal*. Whence in the account of idea is to be considered *that which is*, namely the divine essence or truth; *that to which it is*, namely the ideated; and *by which it is*, and this is the account of expressing with the divine intellect."
+
+**IV.** If it be asked whether the doctrine of St. Bonaventure entirely agrees with the opinion of St. Thomas, P. Trigosus (*Sum.* q. 14, a. 3, *dub.* 2) and other expositors have asserted that each holy Doctor teaches the same in different words; but P. Bartholomew of Barberiis (*Cursus theol.* t. 1, disp. 3, q. 2 and q. 6) at length seeks to prove that there is a notable difference between the two positions. He explains this difference by asserting that, according to "Thomists," idea is the essence of God, insofar as he himself is the account *eminently containing* all creatures only *in the order of being*, "or insofar as he contains them eminently and virtually after the manner of an equivocal cause, and insofar as known directly by the divine intellect under diverse respects of imitability by creatures." But this containment of things in God according to *eminence* and *causative power* does not suffice that he be the account of perfectly knowing creatures *individually*, insofar as they are contracted by finitude; but under this account the divine essence is only radically and as it were under a *material* aspect *idea*; and the things themselves are so in God not in *act* but in *potency*. But St. Bonaventure, beyond that containment of *eminence and causality* in being, requires an *eminential containment in knowing*, which the divine essence has from a twofold head: first, insofar as it is the first and supreme truth supremely and infinitely *expressing* itself and all other truths; second, insofar as it has the account of universal and particular cause and of common and proper likeness (species), as is explained here q. 2, *ad* 2, 3. This is the reason why St. Bonaventure so often connects the twofold account, namely the *virtual containment* of things in the power of God, and the *exemplary containment* in the supreme truth (as I. *Sent.* d. 36, a. 1, q. 1, *ad* 2; a. 2, q. 1; d. 39, a. 1, q. 2), and why (here *ad* 2) he asserts that not precisely the likeness of *imitation* but the likeness of *expression* belongs to idea. Further, he says that idea is at once the account of knowing the ideated thing and of producing it, and that according to the first account it is properly called *idea*, according to the other, *exemplar*. These things we have excerpted from a longer discussion of this author.
+
+But whether the doctrine of the Angelic and Seraphic Doctors, beyond a difference in the *mode of speaking* and proceeding, really differs so [much] as de Barberiis wishes, would need a more subtle and longer disquisition, which we gladly leave to the more wise. Yet it is manifest that St. Thomas, St. Bonaventure, and Scotus himself concordantly teach these [points]: ideas are in the divine intellect after the manner of forms or likenesses — they themselves have a threefold comparison, namely to the divine essence, to the intellect, [and] to the ideated things outside God, which they connote — really in God essence, intellect, truth, [and] idea are the same. It is also manifest from what has been said that, by St. Bonaventure especially, that property of the *uncreated essence* is urged (in which the ultimate root of all truth is to be sought), by which the divine essence expresses and declares itself to itself as to one understanding, infinitely; whence it is that the uncreated essence is the *first and infinite truth*. Just as from the first essence created things received that they might be, so from the first truth that they might express themselves, that is, that they might be true *by participation* of the first truth. They themselves, however, can express only themselves, and through an imperfect likeness. But the first truth, which is by essence, by expressing itself expresses also all others apart from itself, and so is their *idea*. — This doctrine is most profound.
+
+**V.** As to the first opinion improbated in the Response, it is to be noted that *to know through cause* must be understood with the addition *in the account of cause*, that is, by inferring the effect from the cause. Alex. Hal. observes this (*S.* p. I, q. 23, m. 2, a. 2), saying thus: "God can be considered either as that which is cause, or in the account of cause. If he himself, who is the cause, is considered, he knows all things through a cause, since he knows all things through himself, who is the cause of all. But he does not know all things *in the account of cause*. For where the intelligent and the understood are the same, a *medium of cause* is not necessary, as is clear when the soul understands itself, it does not understand itself through a cause" etc. Moreover, knowing through cause is not opposed to knowing through idea, which rather rests upon causality (cf. St. Thomas, *De Verit.* q. 2, a. 4).
+
+**VI.** Besides the authors already cited: Alex. Hal., *S.* p. I, q. 23, m. 2, a. 1, 4, and m. 4, a. 1. — Scot., *On this and the two following questions* here q. unica; *Reportata*, on this and the two following questions here q. 2. — B. Albert., here a. 7; *S.* p. I, tr. 13, m. 2, a. 1. — Petr. a Tar., d. 36, q. 2, a. 2. — Richard. a Med., a. 2, d. 36, a. 2, q. 1, 2. — Aegidius Romanus, I. *Sent.* d. 36, *princ.* 2, q. 1. — Henr. of Ghent, *S.* a. 68, q. 3, n. 6 ff. — Durand., I. *Sent.* d. 36, q. 3. — Dionys. Carth., here q. 1. — Biel, here q. 3.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** *Quaest.* 46. n. 2, in quo loco totus originalis pro *aeternae* exhibet *principales*.
 
-## Notes
+    **En.** *Question* 46, n. 2, in which place the whole original [text] for *aeternae* gives *principales*.
 
-[Notes pending]
+[^2]: **La.** In codd. *aa bb* hic interseritur *vel ex proposito sive ex voluntate*, et subinde post *rem antequam* additur *fiat, sed Deus est agens rationabilissime, non a casu, vel ex necessitate, ergo cognoscit rem, antequam fiat vel*. — De hac propositione maiori cfr. Aristot., I. *Metaph.* c. 1, ubi docetur, quod agentes per intellectum, nescientes rationem operum suorum, non agunt, sed faciunt, sicut comburit ignis; ac II. *Phys.* text. 39 seqq. (c. 5), et XI. *Metaph.* c. 7 (X. c. 8), ubi per oppositionem ad causam *per se* distinguitur *fortuna*, quae est praeter electionem et intellectum. De prima minori vide supra d. 3. p. I. q. 1. Summam huius argumenti invenies apud August., I. *Retract.* c. 3. n. 2; et XI. *de Civ. Dei*, c. 10. n. 3; nec non Anselm., *Monolog.* c. 9.
+
+    **En.** In codices *aa bb* there is here inserted *or by purpose, that is, by will*, and shortly after *the thing before* is added *it become; but God is an agent most rationally, not by chance or by necessity; therefore he knows the thing before it is or* [becomes]. — On this major proposition cf. Aristotle, *Metaphysics* I, c. 1, where it is taught that those who act through intellect, not knowing the account of their own works, do not *act* but *make*, as fire burns; and *Physics* II, text 39 ff. (c. 5), and *Metaphysics* XI, c. 7 (X, c. 8), where by opposition to the cause *per se* is distinguished *fortune*, which is besides choice and intellect. On the first minor, see above d. 3, p. I, q. 1. The sum of this argument you will find in Augustine, *Retractations* I, c. 3, n. 2; and *On the City of God* XI, c. 10, n. 3; as also in Anselm, *Monologion* c. 9.
+
+[^3]: **La.** Libr. XI. *de Civ. Dei*, c. 29. — Proxime post pro *cognoscunt* codd. D P T Z cum ed. 1 *cognoscuntur*.
+
+    **En.** Book XI, *On the City of God*, c. 29. — Immediately after, in place of *cognoscunt*, codices D P T Z with edition 1 [read] *cognoscuntur*.
+
+[^4]: **La.** Cap. 7. § 2. In ipso textu Vat. hic et infra in solutione huius obiectionis pro *se immittens* substituit *innitens*. Nostrae lectioni, quae habetur etiam apud Scotum Erigenam, favent multi codd. exhibentes *immittens*, omissa autem vocula *se*.
+
+    **En.** Chap. 7, §2. In the very text the Vatican [edition] here, and below in the solution of this objection, substitutes *innitens* for *se immittens*. Our reading, which is also held by Scotus Eriugena, is favored by many codices showing *immittens*, the small word *se* being omitted.
+
+[^5]: **La.** Vat. et cod. *cc* hic addunt *ibi*.
+
+    **En.** The Vatican [edition] and codex *cc* here add *ibi*.
+
+[^6]: **La.** Respicitur hic Senecae definitio ideae, quae habetur Epist. 65. ad Lucilium: *Idea est exemplar, ad quod respiciens artifex id quod destinabat, effecit*. Ibid. et haec Platonica definitio ideae invenitur: *Idea est eorum quae naturaliter fiunt exemplar aeternum*. — Pro confirmatione huius argumenti communiter allegatur Aristot., I. *Metaph.* text. 31. (c. 9.): *Dicere vero exemplaria eas (formas) esse… vaniloquia et metaphoras poeticas dicere est. Quod enim est, quod agit, ad ideas inspiciens?* — Paulo inferius pro *vel deviare* Vat. cum cod. *cc* *et deviare*.
+
+    **En.** There is regard here to Seneca's definition of *idea*, which is given in *Letter* 65 to Lucilius: *An idea is an exemplar, looking unto which the artisan effected what he was designing.* Ibid. there is also found this Platonic definition of idea: *Idea is the eternal exemplar of those things that come to be naturally.* — For confirmation of this argument is commonly cited Aristotle, *Metaphysics* I, text 31 (c. 9): "But to say that those (forms) are exemplars… is to speak empty words and poetic metaphors. For what is it that acts, looking unto the ideas?" — A little further on, in place of *vel deviare*, the Vatican with codex *cc* [reads] *et deviare*.
+
+[^7]: **La.** Cod. Y hic additur: *quoniam secundum etymologiam idea dicitur ab* ydos (εἶδος), *quod est forma; forma autem dicitur tripliciter: aut a qua res formatur, ut forma agentis, a qua procedit formatio effectus; aut per quam aliquid informatur, ut anima est forma naturalis hominis; aut ad quam aliquid formatur, et haec est forma exemplaris, ad cuius imitationem aliquid producitur. Et hoc tertio modo dicitur forma idea, et de hac quidam dixerunt etc.*
+
+    **En.** In codex Y is here added: "Since according to etymology *idea* is named from *ydos* (εἶδος), which is *form*; but *form* is said in three ways: either *from-which* a thing is formed, as the form of the agent, from which there proceeds the formation of the effect; or *through-which* something is informed, as the soul is the natural form of man; or *toward-which* something is formed, and this is the *exemplary form*, in imitation of which something is produced. And in this third way the form is called *idea*; and concerning this some have said etc."
+
+[^8]: **La.** Supple: *et Deus*. — Mox Vat., omnibus ferme codd. contradicentibus, *ipsum*. Subinde voci *similitudo* cod. Z adiungit *eius*.
+
+    **En.** Supply: *and God*. — Soon the Vatican, with almost all codices contradicting [it], [reads] *ipsum*. Shortly thereafter, to the word *similitudo* codex Z adds *eius*.
+
+[^9]: **La.** In cod. adtexitur *ut mala culpae*.
+
+    **En.** In a codex is appended: *as the evils of fault*.
+
+[^10]: **La.** De ideis cfr. supra fundam. 1. seqq.; de causis primordialibus cfr. V. *de Genes. ad lit.* c. 4. n. 10, et VI. c. 14. n. 23, ac IX. c. 17. n. 32. seqq. — Explicationem doctrinae Augustini invenies apud Bonav., II. *Sent.* d. 18. a. 1. q. 2.
+
+    **En.** On ideas cf. above *fundamentum* 1 ff.; on the *primordial causes* cf. V, *On Genesis to the letter*, c. 4, n. 10, and VI, c. 14, n. 23, and IX, c. 17, n. 32 ff. — An explication of Augustine's doctrine you will find in Bonav., II. *Sent.* d. 18, a. 1, q. 2.
+
+[^11]: **La.** Pro *dicitur* Vat. cum cod. *cc* *est*. Paulo inferius ante *tertio* sola Vat. omittit *in*. — De hac duplici acceptione similitudinis cfr. supra pag. 691, nota 6.
+
+    **En.** In place of *dicitur* the Vatican with codex *cc* [reads] *est*. A little further on, before *tertio*, the Vatican alone omits *in*. — On this twofold acceptation of *likeness* cf. above page 691, n. 6.
+
+[^12]: **La.** Supple: *unde immediata ratio cognoscendi non est obiectum cognitum (veritas), sed similitudo eius*. — In sequenti propositione *e converso* accipiendum est pro *e contrario*, quod etiam exstat in ed. I. — Vetustiores codd. cum ed. 1 *primo*. Mox pro *assimilat cognitum* cod. *bb* *assimilatur cognito*, et subinde pro *competente* plures codd. cum ed. 1 minus clare *competenti*. — Cod. Z *expressissima*. Paulo inferius post *cognoscere* cod. D addit *veritatem, quae est extra; e contrario autem erat in Deo, quia in ipso veritas, quae est intra, facit cognoscere similitudinem, quae est extra*. Deinde post *patent* cod. S addit *omnia*. — Vat. hic subicit *est*, pro quo multo melius substituendum esset: *cognoscit intellectus divinus*. Paulo inferius eadem Vat., nonnullis codd. faventibus, vocem *multitudo* immutavit in *similitudo*. — Supple cum cod. X *scilicet Deo et creaturae*.
+
+    **En.** Supply: *whence the immediate account of knowing is not the known object (truth), but its likeness*. — In the following proposition *e converso* is to be taken for *e contrario*, which also stands in edition I. — The older codices with edition 1 [read] *primo*. Soon for *assimilat cognitum* codex *bb* [reads] *assimilatur cognito*, and shortly thereafter, for *competente*, several codices with edition 1 less clearly *competenti*. — Codex Z *expressissima*. A little further on, after *cognoscere*, codex D adds *the truth, which is outside; on the contrary it was in God, since in him truth, which is within, makes [him] to know the likeness, which is outside*. Then after *patent* codex S adds *all*. — The Vatican here subjoins *est*, for which it would be much better to substitute *the divine intellect knows*. A little further on, in the same place, the Vatican, with several codices favoring [it], changed the word *multitudo* into *similitudo*. — Supply with codex X *namely, God and the creature*.
