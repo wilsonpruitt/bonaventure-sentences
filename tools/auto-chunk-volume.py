@@ -79,13 +79,18 @@ RE_DUBIA = re.compile(
     # Section-start matcher. Catches:
     #   "DUBIA CIRCA LITTERAM MAGISTRI" + OCR variants (DHBIA U→H d.17 p2 56632;
     #   DUBL\ d.23 71288 — the BIA→BL\ mangle)
-    #   "DUB. I." / "DUB. 1." / "DrB. I." / "DUB. L." — the first dubium
+    #   "DUB. I." / "DUB. 1." / "DrB. I." / "DUB. L." / "DuB. I." (lowercase u, d.31)
+    #   / "DlB. I." (lowercase l → looks like Dl, d.31 sub-dubia variant)
     # NOT a running head like "DIST. XXII. DUBIA." (false-positive at line 68722):
     # we require either a CIRCA-ish word after DUBIA on the same line, or that
     # the line not start with DIST.
     # NOT: "DUB. II." / "DUB. III." — those are internal sub-dubia.
+    # NOTE: sub-dubia in d.31 p2 use OCR garbles `DuB. IV.`, `DlB. 11.`, `DuB. vni.`
+    #       (`vni.` = OCR for VIII). They live inside a single dubia chunk and are
+    #       not separately matched here, but if a future tool needs to enumerate
+    #       sub-dubia for audit, account for these variants.
     r"^[ \t]*(?!DIST[.\s])"
-    r"(?:.*\bD[UHL][IH]?B[IL][A\\]\b|D[ruU][bB][.\s]+[I1L]\b[^IVX])",
+    r"(?:.*\bD[UHL][IH]?B[IL][A\\]\b|D[ruUlL][bB][.\s]+[I1L]\b[^IVX])",
     re.MULTILINE,
 )
 RE_PARS = re.compile(

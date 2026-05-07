@@ -1,0 +1,5 @@
+# Tier-2 ambiguities — d.31 p.1 dubia
+
+**chunk-id, location**: `bon-sent-I-d31-p1-dubia`, DUB II respondeo, mid-clause `Christus secundum quod homo differt a se ' Deo`. OCR shows a stray apostrophe-like glyph between `se` and `Deo`. There is no apparatus block for the dubia on p. 540 (the lone `1 Cap. 1. seqq.` apparatus on the page anchors the Pars II divisio textus that follows), so this is not a dropped footnote anchor. The reading is intelligible as `differt a se Deo` ("differs from himself [insofar as he is] God"). Currently rendered with `[?]` flag preserved inline. → Resolve with PDF eyes-on at p. 540 / pt2 PDF p. 130, 600dpi, on the next decade-polish pass (d.31–d.40 closing audit).
+
+**chunk-id, location**: `bon-sent-I-d31-p1-dubia`, DUB III respondeo, OCR fragment `Aiii` next to `Vel aliter dicendum`. Read as the marginal gloss `Alii` ("others [say]") — Quaracchi editorial marginalia, not part of Bonaventure's text. Stripped per project convention. No `[?]` flag in the rendered chunk. → Confirm on next decade-polish pass.

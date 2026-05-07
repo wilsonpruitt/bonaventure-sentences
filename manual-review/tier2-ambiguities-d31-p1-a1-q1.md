@@ -1,0 +1,9 @@
+# Tier-2 ambiguities — bon-sent-I-d31-p1-a1-q1
+
+Two `[?]` flags raised in OCR-garbled regions of pp. 533–534 (printed). Both are inside the *Ad argumenta pro parte affirmativa* block where the right column of the OCR shows broken words mixed with marginal-gloss bleed-through.
+
+**bon-sent-I-d31-p1-a1-q1, ad-2 reply (printed p. 534)**: garble. Raw line 11657 reads `Ad illud ergo quod obiicitur quod aequale soiuuo op-` followed by a marginal-gloss artifact (`'"'"""'™-` = "responsio") and then `est quod non excedit`. Currently rendered `aequale solum [?] est quod non excedit` ("the equal is only [?] that which does not exceed"). The natural Latin reconstruction echoes Euclid in arg. 2 (`Aequale est quod alteri suppositum non excedit`), so likely the original reads either `aequale solum est quod non excedit` (with `op-` being marginal-gloss bleed of "opp[ositum]" / "responsio") OR `aequale [sumitur secundum] quod non excedit`. → Resolve at next decade-polish (d.40) with 600dpi PDF eyes-on of p. 534.
+
+**bon-sent-I-d31-p1-a1-q1, *aliter potest dici* paragraph (printed p. 534)**: garble. Raw line 11679 reads `Aliter potest dici, qaoA aequale &\, simile A& uasoma. suo primo intellectu ponunt unitatem quiintitatis et qualitatis`. Currently rendered `quod aequale et simile de natura [?] suo primo intellectu ponunt unitatem quantitatis et qualitatis`. The OCR fragment `A& uasoma` is unrecoverable from the OCR alone — could be `de natura sua` (most likely), `ad eandem rem`, or some other prepositional gloss; the sense is "equal and like, by their nature/in their primary understanding, posit a unity of quantity and quality." → Resolve at next decade-polish (d.40) with 600dpi PDF eyes-on of p. 534.
+
+Neither flag affects the philosophical sense of the reply — both are minor surface-Latin uncertainties in a passage whose argumentative structure is clear from context.
