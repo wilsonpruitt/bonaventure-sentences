@@ -7,256 +7,200 @@ pars: 2
 articulus: 2
 quaestio: 1
 type: quaestio
-title_la: "Pars II, Articulus II, Quaestio I"
-title_en: "Pars II, Article II, Question I"
-printed_pages: [658, 659, 660]
-pdf_pages: [248, 249, 250]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 658–660"
+title_la: "Utrum Angelus possit moveri localiter sine corpore"
+title_en: "Whether an angel can be moved locally without a body"
+printed_pages: [658, 659]
+pdf_pages: [248, 249]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 658–659"
+has_scholion: true
+has_apparatus: true
 line_start: 23927
 line_end: 24151
-word_count_latin: 2139
-transcription_status: "auto-chunked 2026-05-07 (rebuild — TRUE multi-pars; auto-chunker had scrambled chunks across partes + bogus p3-dubia/p4-dubia; printed_pages rough — agents tighten during translation)"
+word_count_latin: 1450
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23927–24151 of pt2), fresh literal English translation, full apparatus from raw OCR (9 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d37-p2-a2-q1
+## *Utrum Angelus possit moveri localiter sine corpore*
+
+---
 
 ## Latin
 
-          esse,     quo movebatur, quando movebatur, ut si quis Thebas                                                                                              omnibus.            — Mox pro habitationem    Y inhabitationem.                             cod.
-          it ,   impossibile est simul ire Thebas et ivisse Thebas », ut ait
-                                                          ,
-                                                                                                                                                                            5        Cap.      — Post pauca pro per locum
-                                                                                                                                                                                               S.       seq.                    V bene                                                 cod.
-          Aristot., VI.              Phys.                text. 7.              (c.        1.).                                                                     secundum locum.
-                   '       Aristot., VI.                      Topic.        c. 3. (c.                   i.):       Prius enim est et notius                                 "•       Plures codd. ut F iN                             W X (T in marg.) hic repetunt verba
-          quod manens est et definitum eo, quod indefinitum et in motu                                                                                              praecedentia                   quod movel se                           ,    Vat.       autem cum cod. cc hic sub-
-          est.    —         In flne argunienti                              pro quia semper,                                    quod cum codd.                      iicit    cum              his additionibus.                                — De propositione sequenti                        con-
-          etiam edd.               1,     2,          3 habent, Vat. sed semper.                                                                                    sule hic           lit.    Magistri            ,    c.       6,        ubi et           ipsa         verba Augustini         |3ro-
+<!-- page 658 -->
 
-                   5   Sive Quaestionum                                    65 Dialogus,                                 q.    41.       De minori cfr.              feruntur.
-          Aristot., VIII. Phys. text. 37. seqq. (c. 7.).                                                                                                                    " Aristot., III. Phys. text. 6. scqq. (c. 1.) motum deflnit sic:
-                  «    Libr.        I.    Sent. sive                       de        Summn bono, c. 2. n. 5.                                                        motus est actus entis in potentia prout in potentia i. e. actualis
-                  '    Libr.        11.       Topic.                  c.   3.        (c.       7.),       ubi et verba subsequentia:                                tendentia rei mobilis ad                                     terminum.                      — Paulo ante pro tnovet
-          «    et dicit         propter formas, quae non sunt in uno determinate »,                                                                                 se vei-e maior pars eodd. cuni ed.                                                      1       movet vere (omisso           se),
+### Articulus II.
+#### *De mutabilitate Angelorum per locum.*
 
-          explicantur. Aristot.                               enim tractans de ideis                                          Platonicis ait:        Nam            quae lectio oontextui non respondct                                                     ;       Vat. movetur. Paulo infe-
-          et     moveri et quiescere easdem (ideas) accidet et etiam sensibiles                                                                                     rius post           quod movet rursum non paud codd. perperam omit-
-          ct insensibiles esse;                                   nam videntur ideae quiescere et immobiles                                                         tunt se.
+Consequenter de secundo articulo quaeritur, scilicet de mutatione[^1] Angeli, et circa hoc quaeruntur tria.
 
-                                              :                                                                                    ;                                                                                                                                     ,;
+Primo quaeritur, utrum Angelus possit moveri localiter sine corpore.
 
+Secundo quaeritur, utrum moveatur per medium, vel non.
 
+Tertio, utrum pertranseat medium motu subito, vel successivo.
 
+### Quaestio I.
+#### *Utrum Angelus possit moveri localiter sine corpore.*
 
-                                                                                         DIST. XXXVII.                       P.    II.   ART.           I.       QUAEST.                III.                                                                          6S5
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives first the Latin source text (**La.**), then the English rendering (**En.**).
 
-            nietaphorice, vel causaliter, quia Sarictos                                                        facit          ain-        est , et prius ibi fuit ,                                           ergo             videtur esse mutatus
-            bulare, id est per fidem de virtute in virtutem '.                                                                            saltem per accidens                                   :    ergo videtur, quod Deus exeat
-                         3. Ad illud quod obiicitur, qiiod motis nobis etc.                                                               cum re et cum re alia ingrediatur, quia si res tan-
-            dicendum, quod                             illud        non habet veritatem                            ,   nisi       in      tum           exiret ,              Deus non exiret '.                                    — Ad hoc respon-                          soiuiio.
+Quantum ad primum, quod Angelus non possit moveri sine corpore, ostenditur sic.
 
-            illis        quae sunt                  in aliis         per dependentiam et defini-                                          deo, quod                      si    per impossibile ponalur,                                              locum eva-
-            tionem. Unde quia radius est in aere, sed                                                                  non de-            cuari          ,       tunc remanere intelligitur capacitas loci pri-
-)ianduni.   pendet ab aere                         ,   ideo non               movetur, moto aere ;                                et      vata; capacitas aliquid est, et                                                            in     illaDeus est;
-            quia anima est in manu, nec definitur                                                            manu, ideo                   privatio autem nihil est, et                                                         in   illa    Deus esse non
-            non movetur, mota manu. Deus autem non depen-                                                                                 potest             :    non ergo   in " eo  quoddesinit                  Deus             esse                    ,
+1. Bernardus *super Cantica*[^2]: «Discurrere et de loco ad locum transire non est nisi corporum»: ergo si hoc convenit Angelo, non convenit nisi per corpus assumtum.
 
+2. Item, ratione videtur, quia quod movetur, aut movetur per se, aut per accidens[^3]; sed Angelus non movetur per se localiter, quoniam hoc est proprium corporum, et illi soli inest *res per se*, cui inest proprie: ergo si movetur, hoc est per accidens. Sed quod per accidens movetur, movetur alio moto, ut nauta mota navi: ergo videtur, quod Angelus non possit moveri, nisi moto corpore, et ita corpore assumto.
 
-            det a rebus nec deflnitur                                     ,   ideo non movetnr' ad mo-                                    remanet post recessum corporis; sed cum res pri-
-            tum rerum.                                                                                                                    vatur aufertur comparalio eius ad Deum. Quod
-                                                                                                                                                             ,
+3. Item, omne quod movetur, movetur propter indigentiam[^4]; sed in Angelis beatis nulla est indigentia: ergo etc. Si tu dicas, quod propter indigentiam nostram; ergo, circumscripta indigentia nostra, non videtur, quod Angelus possit moveri: si ergo indigentia nostra nullam dat virtutem Angelo, patet etc.
 
+4. Item, «omne quod movetur, differt a motore», sicut proponit *Philosophus*[^5]; sed Angelus non distat a se: ergo Angelus non movetur a se nec ab alio: ergo non potest moveri nisi movendo aliud, sicut movendo corpus.
 
-                4. Ad illud quod obiicilur de habitatione Dei,                                                                            enim nihii est, nuUam habet comparationem.
-            dicendum quod determinate est in aiiquibus non
-                                    ,
-                                                                                                                                              Sed cum res movetur , Deum non dimittit, nec Quoad n
-            ratione immensilatis, sed ratione inflrrentiae gi'atiae;                                                                      ad Deum accedit , nec Deus cum re venit: quia sic
-            et ideo noii                   determinatur               ipse Deus, sed effectus                                             est in re, ut sit extra                   rem ideni; ideo nec res eum
-            tantum. Hinc                          est,         quod non per se , nec per acci-                                            dimittit nec                    novum invenit. Et hoc est intelligibile,
-            deiismovetur nec moveri potest, quia a nuUo de-                                                                               si                         quod Deus sit simplex, et
-                                                                                                                                               quis potest intelligere ,
-            pendet nec dependere potest ^, a nullo definitur nec                                                                          infinitus     immensus. Quia enim est immensus.
-                                                                                                                                                                    et
-            potest definiri; et non solum                                           non est possibile, sed                                ita est intra, quod extra ^; quia simptex, secundum
+**Contra:**
 
-            etiam non inteUigibile.                                                                                                       unum et idem est intra et extra:                                                                ideo        nec        dimit-
-                           autem aliquis sic: intelligaraus corpus'
-                         Obiiciet                                                                                                         titur,                 nec acquiritur aliud                                    in      re; nec ab ipso                      itur
-iiia diiii- egredi a loco, nuUo ititroeunte, tuncremanet vacuum:                                                                          ad ipsrrm, cum                            '
-                                                                                                                                                                                          dimittitur,                         rrt   ahbi et           alibi          inve-
-            aut ergo                ibi       est      Deus, aut non:                         si    sic, ergo in eo                      niatur.
-            est     quod            nihil est              ,    quod stultum                  est dicere ; si                 non
+1. Ad Hebraeos primo[^6]: *Omnes sunt administratorii spiritus, missi propter eos* etc.; sed aliquod ministerium exsequuntur sine corpore, ut suggerere bona, et huiusmodi: ergo possunt sine corpore moveri.
 
+2. Item, Damascenus[^7]: «Confestim inveniuntur ubi divinus iusserit nutus, velocitate naturae»: si ergo velocitas est dispositio ad motum, ex sui natura sunt mobiles.
 
+3. Item, Angelus in uno loco tantum est et ibi est, ubi operatur: ergo virtus eius aut est ad unum tantum arctata, aut si non est arctata, nec substantia est arctata ad unum locum. Sed non potest esse in pluribus: ergo cum est in uno loco, est in potentia ad alterum. Sed quod est in potentia ad unum non fit actu in illo, nisi per motum secundum locum: ergo etc.
 
-                                                                                                                       SCHOLION.
+4. Item, quod moveatur sine corpore assumto, ostenditur per simile in anima. Anima enim, exuta a corpore, fertur in caelum vel descendit in infernum localiter; sed constat, quod anima non assumit aliud corpus quam suum: ergo movetur sine corpore, ergo pari ratione Angelus.
 
-                    Duplex              ost       molus sive             mutatio secundum                    locum       ,    scil.       Scrapliicus hac dislinctione :                                      si    rcnianet aliquid                 positinm         (ca-
-            per se \ul per accidens, ut docet Avistot., praecipue I. de Anima,                                                            pacitas loci) tunc lioc                              positivum liabet                         relationem ad            Deum
-            text.       37. seqq. Neutcr                       modus convenit Deo. Ut aliqua res per                                     quatcnus autem per privationem «!7m7 remanet                                                        ,   «   aufertur com-
-            accidens moveatur, requiritur, ut ipsa                                       in    alia    re,    quae per se                paratio ad                Deum », id est respectus, quem res existens habet
-            movetur, sit modo circumscriptwo                                   ,    ut corpus in navi , vel sal-                         realiier ad Deum                      ,   et Deus           secimdum raiionem ad rem, penitus
-            tem definidvo, ut anima est in corpore.  Terminus quiescit in                —                                               aufertur, quin                   tamen Deus nec per se nec per accidens mo-
-            ultimo nrg. fundam. dicitur de Deo in sensu improprio, cum                                                                   veatur.
-            noc mottis ncc prircitio motus proprie Deo conveniant.                                                       —        In                Auctores: B. Albert., hic                                  a.        19.   —    Petr.    a Tar., hic q.             3.
+5. Item, Angelus in empyreo potest esse sine corpore, pari ratione et in terra: ergo si per eandem vim, per quam quiescit in terra, facit se esse in terra sive transfert[^8]: ergo videtur, quod sine corpore.
 
-            solut.       nd    i.       salis      sublililer        rcplicatur.         Hanc inslantiam                     solvit      a.    2.       — Henr. Gand.,                     S.       a.    30. n.           .5.
+### Conclusio.
 
+> Angelus moveri potest tum sine corpore, tum corpore assumto: sine corpore transeundo locum definitive, sed cum corpore assumto circumscriptive.
 
+**Respondeo:** Dicendum, quod Angelus, sicut dicit Scriptura, habet moveri. Movetur autem non solum assumto corpore, sed etiam corpore non assumto, cum non sit minoris libertatis nec virtutis nec nobilitatis sine corpore, quam est cum corpore.
 
+Ad intelligentiam autem obiectorum est notandum, quod sicut esse in loco est dupliciter sive esse locale — sicut tangit Magister in littera — scilicet quia circumscribitur, et quia definitur; et illud proprie est locale quod circumscribitur, aliud autem quodam modo est locale, quodam modo non: ita moveri per locum uno modo est per circumscriptionem ferri de loco ad locum, et sic est tantum corporum; alio modo moveri est minus proprie secundum definitionem transire, et sic est spirituum. Proprie ergo per circumscriptionem non movetur Angelus, nisi corpore assumto, minus proprie per definitionem movetur Angelus etiam sine corpore.
 
-                                                                                                                        QUAESTIO                III.
+**Ad argumenta pro parte affirmativa:**
 
+*Ad 1.* Ex hoc patet responsio ad primum obiectum, et[?] Bernardus accipit *discurrere* et *transire* secundum proprietatem loci, quae est circumscriptio.
 
+*Ad 2.* Ad illud ergo quod quaeritur, utrum per se aut per accidens; dicendum secundum praedictam distinctionem[^7-bis] de motu, quod secundum primum motum non movetur spirituale nisi per accidens, alio moto. Sicut enim nauta, mota navi, movetur, sic spiritus, moto corpore, in quo est. Quantum ad secundum motum, sicut Angelus per se ipsum et sine corpore definitur loco, ita per se ipsum transfertur, ita quod non alio movente, nec per alium motum. Ipse autem obiicit de primo motu tantum, qui per se convenit corpori soli.
 
+*Ad 3.* Ad illud quod obiicitur, quod omne quod movetur, movetur propter indigentiam; dicendum, quod illud verum est in motu naturali, in quo natura non movet nisi per appetitum alicuius rei, qui ponit imperfectionem in natura — quia natura, habita perfectione sua, quiescit — sed non est verum in motu voluntario, in quo movetur aliquis sive propter aliud[^8-bis] acquirendum, sive ad virtutem demonstrandam, sicut movetur miles in stadio. — Vel dicendum, quod illud verum est in omni motu, generaliter accipiendo indigentiam ad suam indigentiam et alienam, et suam quantum ad illud cuius privatio ponit imperfectionem, vel cuius privatio non imperfectionem ponit, sed limitationem[^9]; et sic est in Angelo. Angelus enim, volens aliquid operari in terra, indiget transire ad terram, quia non potest simul esse in caelo et in terra propter hoc
 
-                                                               Utrum Deus sit ab omni loco separabilis vel extra omnem locum.
+<!-- page 659 -->
 
+quod habet virtutem finitam. Et sic patet illud, quod limitatio non repugnat summae perfectioni creaturae.
 
-                         Tertio loco quaeritur                            ,   utrum sit Deus ab omni                                                    2. Item,               hoc quod est extra adverbium loci
-            loco separabilis                           vel        extra       omnem                locum.           Et quod              est: ergo                   si       Deus extra omnem locum est, est in
-            non, videtur                                                                                                                  loco et praeter                           omnem locum; sed hoc                                              est   falsum
-                         I .   Quia extra                omnem locum nihil est ergo si                         ;                         et    non               inteUigibile              :    ergo                Deus non                potest          nec re
-            Deus           est extra                   omnem locum ergo nihil est ° vel
-                                                                                     ,                                                   nec intellectu separari ab omni loco.
-            iii   nihilo.                                                                                                                               3.        Item, ctim dicitur: Deus est extra mundum,
+*Ad 4.* Ad illud quod obiicitur, quod omne quod movetur differt a motore; dicendum, quod in naturali motu verum est, ubi nihil movet se, quia nihil reflectitur supra se propter alligationem cum materia: sed non est verum in voluntate, quae est instrumentum se ipsum movens; et virtus, quae est in substantia spirituali, potest supra substantiam reflecti, et ita movens idem esse cum mobili, tamen non secundum idem: quia Angelus habilis est ad moveri ex parte ipsius *quod est* sive substantiae vel materiae, si habet materiam, sed ad movere ex parte formae, sive ipsius *quo est* vel virtutis activae.
 
+### Scholion
 
+**I.** Vestigia Magistri secutus, S. Doctor hic incidenter agit de motu Angelorum quoad locum. Pro intelligentia huius quaestionis supponenda est doctrina de modo, quo Angeli sunt in loco, unde remittimus lectorem ad II. Sent. d. 2. p. II. a. 2. q. 1–4. Sufficiat hic breviter annotasse, quod, licet omnes concedant, Angelos esse in loco non *circumscriptive*, sed *definitive*, tamen de ratione formali praesentiae Angelorum in loco mire discrepant scholae et etiam eiusdem scholae auctores. Praescindendo ab opinione eorum qui cum Vasquez putant Angelos etiam in puncto indivisibili esse posse, ad duas principales positiones multitudo opinionum reduci potest: scil. fundamentum praesentiae ponitur vel in applicatione virtutis Angelorum, vel non in operatione, sed in propria et finita substantia Angelorum. Prima sententia est S. Thomae, quae tamen a suis discipulis non eodem modo explicatur; secunda est Scoti, Richardi a Med. et aliorum plurimorum, cui favet modus loquendi S. Bonaventurae. — Notanda est etiam thesis ab Universitate Parisiensi tempore Alexandri Hal. reprobata: *Angelus in uno instanti potest esse in diversis locis, et etiam ubique si voluerit* (cfr. II. Sent. d. 23. a. 2. q. 3. in fine).
 
-                    '    Respicitur illud II. Cor. 5, 7: Per fidem enim ambulamus;                                                       — Ante exiret ex codd. L                                              revocavinius nmi , quod                          in    Val.
-            et illud Psalm. 83, 8: Ibunt                             de virtute          in        virtutem.   — Pro per                  desideratur, sed a contextu exigitur.
-            fidem Vat.              cum ed.            1       proficere.                                                                           =    Ex cod. R restituimus                                 m pro ab             ,    quod Val. exhibet.
-                    -     Cfr. Aristot., VIII.                   Phys.    text.     46, seqq.          (c.   6.),      ubi     do-                  ^    Cod.       li    ita est intra                   rem        ,
-                                                                                                                                                                                                                          quod est extra.
-            cetur,        primum motorem esse omnino immobilem nec moveri                                                                           '    Ita      codd.       cum edd.                   1,    2,    3, in       qua lectione omnino sup-
-            per se nec per accidens.                                                                                                      plendum                 est res,         quae scil.                 a loco           ad locum          dimittitur.          Va(.
-                     3    Cod.      T addit aliquod.                                                                                      nec pro cum., quae                            lectio           nobis minus arridel.
-                     '    Et sic Deus esset in nihilo,                             quod absurdum               est      dicere.                     8    Sola Vat. omittit                     mhil esi.
+**II.** Angelos non tantum *per accidens*, sed etiam *per se* moveri, aliter tamen ac corpora, contra Peripateticos cum theologorum communi sententia Seraphicus hic tenet et bene explicat. — In solut. ad 4. S. Doctor supponit, quod substantia spiritualis potest super se reflecti ac se ipsam movere, non tamen secundum idem (cfr. II. Sent. d. 24. p. I. a. 2. q. 2. ad 4; d. 25. p. I. q. 1.), et quod se active moveat ex parte formae, passive ex parte materiae. Quoad ultimum autem problematice loquitur addens: «Si habet materiam». Hoc respicit sententiam, quam ipse II. Sent. d. 3. p. I. a. 1. q. 1. 2. 3. tanquam probabilem defendit, scil. quod etiam in Angelis aliquo modo distinctio materiae et formae admittenda sit.
 
-                                                                                                                                         :                                                                                                                        ,,
+**III.** Alex. Hal., S. p. II. q. 33. m. I. 3. — Scot., II. Sent. d. 2. q. 9. — S. Thom., hic q. 4. a. 1; S. I. q. 33. a. 2[?]. — B. Albert., hic a. 22. — Petr. a Tar., hic q. 5. a. 1. — Richard. a Med., hic a. 3. q. 1. — Aegid. R., hic 2. princ. q. 1. — Durand., de hac et duabus seqq. qq. hic p. II. q. 2. — Dionys. Carth., de hac et seqq. qq. hic q. 4. — Biel, de hac et seqq. qq. hic q. 3.
 
-
-
-
-              636                                                                                                     SENTENTIARUM LIB. I.
-
-              cxlra         aiit     stat           pro aliquo, aut pro                                niliilo:            si        pro      nec intelljgi,                  Deum separari ab orani loco. Naiii ista
-              nihilo, ergo                  chimaera est pxtra                                   mimdum;                   si        pro      separatio inchidit                            distantiam spatii,                       et       hoc        de ne-
-              aliquo,            ergo               pro      creato ,                  vel       increato: non                       pro      cessitate includit                           locim; et ita implicantur duo op-
-              creato; constat': ergo pro increato: ergo esse exlra                                                                            posita, scilicet                     quod Deus sit in loco, et distet ab
-              mundum est esse in Deo.                                              Sed omnia sunt                          in   Deo           omni           loco.       Si       autem loquamur de separatione per
-              ergo oninia sunt extra munduin.                                                                                                 independenliam;                        sic dicendum, quod Deus et re et condusiu
-
-                      4.         Item, in nullo                         est        Deus,           quod               non       sit    in     intellectu est separatus a loco, quia in se ipso omnino
-
-              ipso: sed              niliil,             quod sit extra mundum, est in Deo:                                                   est   independens a loco, sicut ante prodiictionem loci.
-              ergo Deus non est extra                                         mnndum.                                                         Locus autem econtra non                                       est          separabilis a              Deo nec co.oiiaiiu
-                        Contra:                     1.    Quod          locus possit separari                               a     Deo         re    nec             intellectu,                  sicut      probant             rationes             ad hoc
-Ad opposi- secundum intellectum, videtur, quia possilMle est se-                                                                              inductae.
-              cundum              intellectum,                        locum privari omni                                  locato et                      2.        Simihter,                    cum     quaeritur,                  utruin Deus                 sit     soiouoc
-                                                                                                                                                                                       ,                T           ,                     T
-                                                                                                                                                                                                                                                                       positorum
-              remanere vacuum; sed vacuum                                                        est privatio,                   Deus         extra               omnem iocum; dicendum, quod extra uno nistincuo
-              autem in nullo est, quod non sit in ipso; privatio                                                                              modo dicit situm et positionem; et                                                    sic       est impossi-
-
-              autem non est in Deo: ergo nec Deus in priva-                                                                                   bile\, sicut                    impossibile est,                          si   ante dicat tempus
-              tione     ,        ergo           nec         in        vacuo        ,    et       sic    est          separabilis              quod            sit       ante tempus. Aho                        modo ante et extra di-
-              a loco.                                                                                                                         cunt excessum et superexcellentiain divinae aeterni-
-                        2.       Item, quod Deus separetur a loco secundum                                                                    tatis          et immensitatis respectu                                   temporis et loci ; et sic
-              rem   ,       videtur             ,
-                                                         quia     ,    sicut           se        habet        Dei          aeterni-           concedendum, quod Deus est ante tempus et extra
-              tas   ad onine tempus,                                    ita        immensitas "                      ad omnein                omnem locum. Nec ex lioc sequitur, quod separe-
-              locum          ;    sed           Dei         aeternitas                   fuit      ante              omne tem-                tur a loco, sed quod                                   summa immensilas superexce-
-              pus: ergo Dei inimensitas                                           fuit    exfra         omnem locum.                          dat omnem locum nec ad illum arctatur. Et hoc vult
-              Sed quod                est            extra aliquid                       est     separatum ab eo:                             dicere Gregorius %                                quod Deus est extra omnia, non
-              ergo etc.                                                                                                                       exclusus, quia non distat; et mfra'orania, non                                                                    in-
-
-                        3.       Item,              si    Deus est tantuin                             in     locis creatis,                  clusus, quia non arctatur, quia in se ipso ens" est
-
-              cum illa sint finitae                                   dimensionis, et quod                                commen-             oranino iinmensus,                                 ita   quod extra ipsum                             nihil po-
-
-              snrat se fmito est definibile et fmitum                                                            :    ergo Deus               test esse                 nec cogitari, sive nihil potest cogitari                                                ita
-
-              esset finitus.                                                                                                                  immensum, sicut Deus est in se ipso.
-                        4.       Item       ,        Deus est adeo bonus                                ,    quod               melior               Ex hoc patet sequens, quia quod non est
-                                                                                                                                                             3.
-
-              cogitari            non potest, ergo adeo magnus                                                        et   immen-             extra, non est propter hmitationem suam, sed loci
-              sus, quod maior                               eo cogitari                   non potest; sed                             toto    defectionem.
-              mundo               potest cogitari                           linea        maior,             si       intelligatur                 4. Ad illud quod obiicitur de linea, dicendura
-
-              protendi             extra circumferentiam caeh: ergo si ibi est                                                                quod statim, dum intelhgitur ahquid extra mun-
-              Deus, Deus                    est extra, aut                             non       est   maximum.                               dum, ex hoc datur intelligi, quod Deus sit ibi, sicut
-                        3.       Item , Angelus potest esse extra mundum                                                         ;    sed     si    intelhgatur novus mundus fieri, absque dubio Deus
-
-              non extra Deum: ergo Deus                                                  est      extra          mundum.                      esset in illo.                   Tamen nou sequitur, quod ibi sit, quia
-                                                                                                                                              illud nihil est.
-
-                                                             CONCLUSIO.                                                                                      0.     Similiter,                  si   fiat   Angelus extra                     mundum';
-                                                                                                                                              Deus tunc est extra non secundum motuni suum,
-              Deus secundum distantiam nec re nec                                                                         intellectu          sed Angeli. Sed forte hoc est magis                                                     flctionis           quam Nounndu
-                        separari potest ab omni loco, sed seeundum                                                                            veritatis,                quod Angelus extra universum exeat, si-
-                            independentiam                            et     re        et intellectu                  a    loco est           cut            patebit*.             Attamen              illud   quod    cogilandum              est,
-                        separatus.                                                                                                            divinum esse,                           non potest cogitari habere ter-
-                                                                                                                                                                                       sicut
-                                                                                                                                              minum in                       duratione, sic non potest cogitari nec
-                            Respondeo: Dicendum, quod aliquid separari                                                                        debet habere terminum in existentia et praesentia-
-Disiinctio.   ah    alio est dupliciter:                                     vel       secundum                      distanliam,               litate; et sicut                            non potest cogitari habere intercisio-
-              vel secundum independentiam                                                   ".    Primo modo aliqua                           nem in duratione, sic                                     nec in praesentialitate.                                Hic
-               duo, quae sunt in eodem loco, separantur, cum unum                                                                             intellectus habendus est; caveat tamen, qualiter qnis
-
-conciosioi.   elongatur ab                          alio.    Et hoc modo impossibile est esse,                                                 imaginetur                    et    exprimat per serinonem.
-
-
-
-
-                            Codd. T V hoc conslai.                                                                                                       '   Vocabulum mundum, quod ex                                       cod.   Y restituinius, deest
-                            Cod.     Y verbo imnwnsitas praeniillit Dei.                                                                      in    ceteris codd.                 nec non in Vat.           ;   in plerisque          codd. deest etiam
-                            Aliqui codd. ut   M VV dependentiam ; vitiose.                                                                     extra;             in his lectionibus                supplendum est etc.
-                            Intelligo:              quod Deus sit extra omneni locum.                                                                    8    Infrii     a.       2.       q.    2. ad ult.  et II. Sent.
-                                                                                                                                                                                                                ,                              d.    2.    p.    II.
-
-                        '
-                            Libi-.    II.       Moral.       c.       12.    n.    20.                                                         a.   2.       q.    3.   In    his locis          probatur, Angelos non posse in punclo
-                            Sivc existens.                —       Vat. omitlit ens.                Paulo             post pro          sive    indivisibili esse,                 ergo non possunt esse e.\tra locum                                el   pcr con-
-                                                                                                                                               sequens non extra                           mundum.
-
-
-
-
-                                                                                                                                                                                                                                                                           i
-
-                                                                                                                             :
-
-
-
-
-                                                                              DIST. XXXVIl.                     P.          II.   ART.         II.            QUAEST. 1.
-
-
-
-
-                                                                                                             SCHOLION.
-
-            I.    Ex     titulo   huius quaestionis appiirel, duo problemata liic                                                  linitum            ,
-                                                                                                                                                              quia excedit flnitum, nec dependet a                                                  llnito,          nec con-
-    traclari;         sed cuni         liis   aliae quaestiones                 per modum corollario-                              cluditur a                      finito...       Alio        modo potest intolligi, Deum esse extra
-    rum solvuntur. Primii quaestio principalis respicit                                               locos reali-                 mundum ita quod sit dare spatium  ,
-                                                                                                                                                                                                                             extra      munduni                  ,    in quo
-
-    ter existentes, et              utrum ab eis Deus                         sit    separabilis.           Ad lianc               sit   Deus             ;    et sic falsum estj. Si                                aulem        dicalur, extra                     niundum
-    respondetur distinguendo terminum separaii.                                                Per    modum             co-        non esse quidem spatium reale, sed imaginarium, ex mente
+---
 
 ## English
 
-[Translation pending]
+### Article II.
+#### *On the changeableness of angels with respect to place.*
+
+Next concerning the second article it is asked, namely about the change[^1] of an angel, and concerning this three things are inquired.
+
+First it is asked whether an angel can be moved locally without a body.
+
+Second it is asked whether he is moved through a medium, or not.
+
+Third, whether he traverses the medium by a sudden motion, or by a successive one.
+
+### Question I.
+#### *Whether an angel can be moved locally without a body.*
+
+As to the first, it is shown thus that an angel cannot be moved without a body.
+
+1. Bernard, *On the Song of Songs*[^2]: "To run about and to pass from place to place belongs only to bodies": therefore, if this belongs to an angel, it does not belong save through an assumed body.
+
+2. Likewise, by reason it appears, since whatever is moved is moved either *per se* or *per accidens*[^3]; but an angel is not moved *per se* locally, since this is proper to bodies, and that thing belongs *per se* alone in which it inheres properly: therefore if he is moved, this is *per accidens*. But what is moved *per accidens* is moved by something else being moved, as a sailor by the moved ship: therefore it appears that an angel cannot be moved unless a body is moved, and so an assumed body.
+
+3. Likewise, everything that is moved is moved on account of need[^4]; but in the blessed angels there is no need: therefore etc. If you say, on account of our need; therefore, our need set aside, it does not appear that an angel can be moved: if therefore our need confers no power on the angel, the conclusion is plain.
+
+4. Likewise, "everything that is moved differs from its mover," as the *Philosopher* proposes[^5]; but an angel is not distant from himself: therefore an angel is not moved by himself nor by another: therefore he cannot be moved except by moving something else, as by moving a body.
+
+**On the contrary:**
+
+1. *To the Hebrews*, chapter 1[^6]: *They are all ministering spirits, sent for those* etc.; but they perform some ministry without a body, such as suggesting good things and the like: therefore they can be moved without a body.
+
+2. Likewise, Damascene[^7]: "Forthwith they are found wherever the divine bidding has commanded, by the swiftness of nature": if therefore swiftness is a disposition for motion, by their own nature they are mobile.
+
+3. Likewise, an angel is in only one place, and is there where he operates: therefore his power is either restricted to one alone, or, if it is not restricted, neither is his substance restricted to one place. But he cannot be in many: therefore, when he is in one place, he is in potency to another. But what is in potency toward one does not become actual in it except through motion according to place: therefore etc.
+
+4. Likewise, that he is moved without an assumed body is shown by the parallel in the soul. For the soul, stripped of the body, is borne to heaven or descends to hell locally; but it is agreed that the soul does not assume any body other than its own: therefore it is moved without a body, therefore by parallel reasoning so is the angel.
+
+5. Likewise, an angel can be in the empyrean without a body, by parallel reasoning also on earth: therefore if by the same power by which he rests on earth he makes himself to be on earth or transfers himself[^8]: therefore it appears that without a body.
+
+### Conclusion.
+
+> An angel can be moved both without a body and with an assumed body: without a body by passing through a place definitively, but with an assumed body circumscriptively.
+
+**I respond:** It must be said that an angel, as Scripture says, has the property of being moved. He is moved, however, not only by an assumed body, but also without an assumed body, since he is not of less freedom or power or nobility without a body than he is with a body.
+
+For the understanding of the objections it must be noted that, just as to be in a place is twofold, or to be local — as the Master touches in the text — namely because something is *circumscribed* and because it is *defined*; and that is properly local which is circumscribed, but the other is in one way local and in another way not: so to be moved through place in one way is to be borne by circumscription from place to place, and this belongs to bodies alone; in another way to be moved is, less properly, to pass according to definition, and this belongs to spirits. Properly therefore by circumscription an angel is not moved, except with an assumed body; less properly, by definition an angel is moved even without a body.
+
+**Replies to the arguments for the affirmative:**
+
+*To 1.* From this the response to the first objection is plain, and[?] Bernard takes *to run about* and *to pass through* according to the property of place, which is circumscription.
+
+*To 2.* To that which is asked, whether *per se* or *per accidens*; it must be said, according to the aforesaid distinction[^7-bis] concerning motion, that according to the first kind of motion a spiritual thing is not moved except *per accidens*, by something else being moved. For just as a sailor, by the moved ship, is moved, so a spirit, by the moved body in which he is. As to the second kind of motion, just as an angel by himself and without a body is defined to a place, so by himself he is transferred, so that nothing else is the mover, nor is it through another motion. He himself, however, raises the objection only about the first motion, which belongs *per se* to body alone.
+
+*To 3.* To that which is objected, that everything which is moved is moved on account of need; it must be said that this is true in natural motion, in which nature does not move except by appetite for some thing, which posits imperfection in nature — because nature, having attained its perfection, comes to rest — but it is not true in voluntary motion, in which someone is moved either to acquire something else[^8-bis], or to display power, as a soldier is moved in the stadium. — Or it must be said that this is true in every motion, taking *need* generally as both one's own need and another's, and one's own as regards that whose privation posits imperfection, or whose privation does not posit imperfection but limitation[^9]; and so it is in the angel. For an angel, willing to do something on earth, needs to pass to earth, because he cannot be at the same time in heaven and on earth, on account of the fact that
+
+<!-- page 659 -->
+
+he has finite power. And so that point is plain, that limitation does not contradict the highest perfection of a creature.
+
+*To 4.* To that which is objected, that everything which is moved differs from its mover; it must be said that in natural motion this is true, where nothing moves itself, because nothing is reflected upon itself on account of its bond with matter: but it is not true in the will, which is an instrument moving itself; and the power which is in a spiritual substance can be reflected upon the substance, and so the mover can be the same as the moved, yet not in the same respect: because an angel is apt to be moved on the part of his *quod est* (that which he is) or substance or matter, if he has matter, but to move on the part of form, that is, of his *quo est* (that by which he is) or active power.
+
+### Scholion
+
+**I.** Following the footsteps of the Master, the holy Doctor here treats incidentally of the motion of the angels with respect to place. For the understanding of this question one must presuppose the doctrine of the manner in which angels are in a place, for which we refer the reader to *II Sent.* d. 2. p. II. a. 2. q. 1–4. Let it suffice here briefly to note that, although all concede that the angels are in a place not *circumscriptively* but *definitively*, yet concerning the formal account of the angels' presence in a place the schools, and even authors of the same school, marvelously disagree. Setting aside the opinion of those who, with Vasquez, think that angels can even be in an indivisible point, the multitude of opinions can be reduced to two principal positions: namely, the foundation of presence is placed either in the application of the angels' power, or not in operation but in their proper and finite substance. The first opinion is that of St. Thomas, which however is not explained in the same way by his disciples; the second is that of Scotus, Richard of Mediavilla, and very many others, which the manner of speaking of St. Bonaventure favors. — There is also to be noted the thesis reproved by the University of Paris in the time of Alexander of Hales: *An angel can in one instant be in different places, and even everywhere if he wills it* (cfr. *II Sent.* d. 23. a. 2. q. 3. at the end).
+
+**II.** That angels are moved not only *per accidens* but also *per se*, yet otherwise than bodies, the Seraphic Doctor here, against the Peripatetics, holds and well explains, with the common opinion of the theologians. — In the reply to 4 the holy Doctor supposes that a spiritual substance can reflect upon itself and move itself, yet not in the same respect (cfr. *II Sent.* d. 24. p. I. a. 2. q. 2. ad 4; d. 25. p. I. q. 1.), and that it moves itself actively on the part of form, passively on the part of matter. As to the last point, however, he speaks only problematically, adding: "If it has matter." This regards the opinion which he himself defends as probable in *II Sent.* d. 3. p. I. a. 1. q. 1. 2. 3., namely, that even in angels some sort of distinction of matter and form is to be admitted.
+
+**III.** Alex. of Hales, *Summa* p. II. q. 33. m. I. 3. — Scotus, *II Sent.* d. 2. q. 9. — St. Thomas, here q. 4. a. 1; *S.* I. q. 33. a. 2[?]. — Bl. Albert, here a. 22. — Peter of Tarantasia, here q. 5. a. 1. — Richard of Mediavilla, here a. 3. q. 1. — Aegidius Romanus, here 2. princ. q. 1. — Durandus, on this and the two following questions here p. II. q. 2. — Dionysius the Carthusian, on this and the following questions here q. 4. — Biel, on this and the following questions here q. 3.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Vat. cum cod. cc *mutabilitate*.
+     **En.** The Vatican edition, with codex cc, reads *mutabilitate* ("changeableness").
 
-## Notes
+[^2]: **La.** Serm. 5[?]. n. 2.
+     **En.** Sermon 5[?], n. 2.
 
-[Notes pending]
+[^3]: **La.** Cfr. Aristot., V. *Phys.* text. 1, VIII. *Phys.* text. 27. (c. 4.), de *Anima*, text. 37. seqq. (c. 3.).
+     **En.** Cfr. Aristotle, *Physics* V, text 1; *Physics* VIII, text 27 (c. 4); *On the Soul*, text 37 ff. (c. 3).
+
+[^4]: **La.** Cfr. Aristot., *de Animalium motu*, c. 4. seqq. (c. 6. seqq.), ubi finem motus constituit in bono aliquo consequendo.
+     **En.** Cfr. Aristotle, *On the Motion of Animals*, c. 4 ff. (c. 6 ff.), where he places the end of motion in attaining some good.
+
+[^5]: **La.** Libr. VIII. *Phys.* text. 27. seqq. (c. 4.); verbotenus autem est in *Comment. Averrois.* Ibi Aristot. recolligit quae diversis locis, praesertim in libr. VII. *Phys.* docuit.
+     **En.** Book VIII of the *Physics*, text 27 ff. (c. 4); but verbatim it is in Averroes' *Commentary*. There Aristotle gathers up what he has taught in various places, especially in book VII of the *Physics*.
+
+[^6]: **La.** Vers. 14, in quo textu Vulgata verbo *sunt* praemittit *in ministerium*. — Mox pro *exsequuntur*, quod ex codd. P Q bb et ed. 1 restituimus, Vat. male *consequuntur*. Dein post *bona* eadem Vat. cum cod. cc interiicit *et revelare secreta*.
+     **En.** Verse 14, in which text the Vulgate prefixes *in ministerium* to the word *sunt*. — Soon, in place of *exsequuntur*, which we have restored from codices P Q bb and edition 1, the Vatican edition has wrongly *consequuntur*. Then after *bona* the same Vatican edition, with codex cc, inserts *et revelare secreta* ("and to reveal secrets").
+
+[^7]: **La.** Libr. II. *de Fide orthod.* c. 3. Pro *inveniuntur*, quod et in textu originali et in codd. P Q et in ed. 1 exhibetur, Vat. *invenitur*.
+     **En.** Book II *On the Orthodox Faith* c. 3. In place of *inveniuntur*, which is given both in the original text and in codices P Q and in edition 1, the Vatican edition has *invenitur*.
+
+[^7-bis]: **La.** Pro *distinctionem* plurimi codd. *definitionem*, pauci cum Vat. *divisionem*; nostrae lectioni suffragantur codd. D P Q R Y cc et ed. 1 nec non contextus. Subinde post *de motu* non pauci codd. omittunt *quod*, et post pauca Vat. verbis *alio modo* praefigit *scilicet*.
+     **En.** In place of *distinctionem* very many codices have *definitionem*, a few with the Vatican *divisionem*; codices D P Q R Y cc, edition 1, and the context support our reading. Further on, after *de motu* not a few codices omit *quod*, and a little later the Vatican edition prefixes *scilicet* to the words *alio modo*.
+
+[^8]: **La.** Sensus est: si Angelus potest esse in ter[ra][?] sine corpore, et consequenter sola vi spirituali, sequitur et sola vi spirituali possit se transferre in terram.
+     **En.** The sense is: if an angel can be on earth[?] without a body, and consequently by spiritual power alone, it follows that by spiritual power alone he can transfer himself to earth.
+
+[^8-bis]: **La.** Pro *aliud* cod. T *aliquid*.
+     **En.** In place of *aliud* codex T has *aliquid*.
+
+[^9]: **La.** Hoc sibi vult: indigentia dicit in subiecto indigenti vel privationem proprie dictam, scil. carentiam perfectionis debitae, vel simplicem negationem ulterioris perfectionis sive limitationem; prior non est in Angelo, sed tantum posterior. — Aliquanto superius pro *et suam* cod. V *ad suam*.
+     **En.** This is the meaning: "need" in the needy subject signifies either privation properly so called, namely the lack of a perfection that is owed, or simple negation of further perfection, that is, limitation; the former is not in an angel, but only the latter. — Somewhat above, in place of *et suam*, codex V has *ad suam*.
