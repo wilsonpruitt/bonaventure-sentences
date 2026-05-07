@@ -8,476 +8,280 @@ quaestio: 1
 type: quaestio
 title_la: "Utrum praedestinatio inferat salutis necessitatem"
 title_en: "Whether predestination imposes the necessity of salvation"
-printed_pages: [705, 706, 707, 708, 709]
-pdf_pages: [295, 296, 297, 298, 299]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 705–709"
-line_start: 28649
-line_end: 29095
-word_count_latin: 4349
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+printed_pages: [706, 707, 708, 709]
+pdf_pages: [296, 297, 298, 299]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 706–709"
+has_scholion: true
+has_apparatus: true
+line_start: 28636
+line_end: 29089
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 28636–29089 of pt2), fresh literal English translation, full apparatus from raw OCR (28 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d40-a2-q1
+## *Utrum praedestinatio inferat salutis necessitatem*
+
+---
 
 ## Latin
 
-            essentia,                 connotatum -vero                             est         creatura, ut gratia                              extreraa siraul, ordo vero secundura duratimiem,
-            et gloria et                    persona salvanda '. Et haec duo impor-                                                              eo ipso quod ordo est, ponil, extrema non esse simul;
-            tat       praedestinatio                            cura         ordine            antecessionis unius                              et    secundura                  rationem antecedendi ordo simul est
-            ad alternm ratione praepositionis.                                                                                                  cum           antecedente               sive       cum            praecedente,                        similiter
+<!-- page 706 -->
 
-                       Quoniam igitur significatum principale est ae-                                                                           secundum rationem subsequendi siniul est cura sub-
-            ternum              ,     ita           praedestinatio                       est     quid           aeternum ^                      sequente. Quoniam igitur praedestinatio importal
-            Rursus ,                      quoniara               importat                antecessionem                  signifl-                ordinem secundum r.ationem praecedendi ideo ae-                                                   ,
+### Articulus II. *De praedestinatione quantum ad necessitatem.*
 
+Secundo quantum ad hunc primum articulum quaeritur de necessitate praedestinationis. Et circa hoc quaeruntur duo. Primo quaeritur, utrum inferat necessitatem salutis libero arbitrio. Secundo, utrum inferat certitudinem in eventu.
 
+### Quaestio I.
+#### *Utrum praedestinatio inferat salutis necessitatem.*
 
-            cati      ad connotatum, et iila antecessio                                                   est ab aeterno:                       terna est, quamvis sit respectu temporahs; quoniam
-iDciasio.   ideo praedestinatio est quid aeternum et ab aeterno.                                                                                non       est siraul cura illo, sed                               antecedit.
-            Et concedendae sunt raliones ad hoc.                                                                                                             4.    Ad iilud quod obiicitur, quod praedestinatio
-                          1.        Ad     illud          quod            obiicitur de relatione, dicen-                                        transit extra; dicendum,              quod transire extra est Distinciio.
-utio op-    dum        ,
-                                quod                res ^       sive relatio                   potest          signiflcari in                   dupliciter: aut                    in    ahquid              quod                 est extra, aut in
-            Deo dupliciter:                              vel respectu existentis                               m actu, vel                      aliquid             quod         est     intra,          sed               erit extra.                Et     primo
-            respectu existentis                                 m potentia, futnri aliquando in                                                 modo connotat ahquid                               in    actu et dicit quid tempo-
-            actu; et quando respectu                                              existentis in aclu, tunc                                      rale, ut creare et                      conservare            ;       secundo modo non, ut
-            necesse                  est,           quod            respondeat                 verus respectus                      in          praedestinare '.
-            actu; quando vero                                       respectu             existentis in potentia,                                             b.     Ad     illud    quod obiicitur de praeparatione
-            sulBcit             quod respondeat in potentia,                                               et talis     funda-                  quod attenditur * secundum principia intrinseca, non
-            tur super ens                                in    potentia; et ideo actu nihil ponit                                               secundum causam efQcientera dicendura, quod quae- Distinciio.     ;
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives first the Latin source text (**La.**), then the English rendering (**En.**).
 
+Quod autem inferat necessitatem, ostenditur sic.
 
-            nisi       Deum.                                                                                                                    dam est causa efQciens, quae operatur secundum
-                          2.        k<\    illud              quod         obiicitur            de actione, dicen-                              materiam praeiacentem; et ista quidem, quia alio
-itincuo.    dum, quod                           est       actio            secundum rem ,                       et    est actio                 indiget,            non dicitur praeparare, quando solum vull
-            secundura                      modtim*.                       Actioni secundura                     rem     ,    quae               et disponit intus,                      sed quando materiam aptat exte-
-            est principium elDciens ahquid, respondet passio dif-                                                                               rius.         Quaedam est causa efficiens, quae nullo indiget
-            ferens secundura rem,                                          ut      creationi-actioni                   creatio-                 ad operandum, sed statira, cum vult, operalur; el
-            passio''.                Actioni                   vero    secundum moduni non re-                                                  in taU praeparare ° non est ahud quam disponere et
-            spondet                  nisi           passio            secundum modura differens                                                 proponere ; et                   talis       est     Dens             ,
-                                                                                                                                                                                                                           quia. nullo alio a                          se
-            ut cognitioni-actioni ipsius Dei                                               respondet ipsum co-                                  indiget ad                operandum.
+1. *Omnis* causa, quae necessaria est in se et necessario ponit effectum, infert simpliciter necessitatem effectui; sed praedestinatio respectu salutis est huiusmodi: ergo etc. Minor patet. Praedestinatio enim, cum sit Deus in se, dicit quid necessarium; et iterum, necessario infert effectum, quia necessario sequitur: *si est praedestinatus, salvabitur*: ergo etc.
 
+2. *Item*, omnis causa, quae nullo modo potest cassari, necessitatem ponit circa productionem effectus — nam causa dicitur cassari, cum nullum ponit effectum — sed praedestinatio nullo modo potest cassari: ergo praedestinatio ponit necessitatem.
 
+3. *Item*, quotiescumque duae causae concurrunt ad aliquem effectum, quas impossibile est discordare, si una est immutabilis, necesse est, alteram esse immutabilem, et effectum per consequens. Haec manifesta est per se: nam si altera est mutabilis, reliqua existente immutabili, possibile est, eas discordare. Sed impossibile est, quod praedestinatio et liberum arbitrium discordent: ergo cum praedestinatio sit causa immutabilis, necesse est, quod liberum arbitrium sit immutabile; et si hoc, cum totum sit immutabile, restat ergo, quod necessitatem imponat praedestinatio libero arbitrio et saluti.
 
-                                                                                                                        SCHOLION.
+4. *Item*, videtur, quod praedestinatus nullo modo possit damnari, et si hoc, tunc necessario salvatur; et ostenditur hac ratione: ista duo convertuntur *esse praescitum* et *damnari*, *esse praedestinatum* et *salvari*; sed praedestinatus non potest esse praescitus: ergo non potest damnari. Probatio mediae. Quando aliqua duo sic se habent quod impossibile est, unum alteri succedere, nec possunt simul inesse, si alterum inest, impossibile est, reliquum inesse; sed esse praedestinatum et esse praescitum sic se habent, quod impossibile est, simul inesse eidem; impossibile est etiam, alterum alteri succedere, scilicet quod homo primo sit praedestinatus et postea praescitus: ergo cum est praedestinatus, nullo modo potest esse praescitus: ergo etc.
 
-                  .   I.   «        Praedestinare               est       praeordinare           in       flneni...    Praedesti-               Augustinum (de Dono persever. c. 14. n, 3S.)                                               e:
+5. *Item*, de omni quod aeternum est, cum non est, impossibile est esse, quia impossibile est, quod non ens sit aeternum; sed praescitus si est, aeternaliter est praescitus: ergo illum qui non est praescitus, impossibile est esse praescitum. Sed praedestinatus non est praescitus: ergo etc.
 
-            natio tria connolat, scilicet praeordinatum, et hoc est homo ; el                                                                   et praeparatio               beneflciorum Dei            ,
-                                                                                                                                                                                                             quibus certissime liberantur                                   ,
+6. *Item*, de eo quod non est, idem est dicere, hoc *posse esse*, et *posse[^1] incipere esse*; sed praescitum est quid non ens respectu praedestinati: ergo idem est dicere, *praedestinatum posse esse praescitum*, quod *posse incipere praesciri sive damnari*. Sed non potest incipere esse praescitus, ergo etc.
 
+**Contra:**
 
+1. Praedestinatio divina nullum facit indigne salvari: ergo cum dignitas in salvando respiciat meritum, et meritum liberum arbitrium, ergo praedestinatio non tollit arbitrii libertatem, secundum quod liberum arbitrium: ergo nec imponit necessitatem.
 
-            rationem praeordinandi                              ,    et    haec est gratia            ;   et   rationem          flnis          quicumque libcrantur »                   ;   secundum S. Thomam (S.                                     I.       q.    23.
-            et    haec est gloria                    :    et sic      sunt      tria ,    scilicet        quod,   et per quod,                  a.    1 .)    est    » ratio     transmissionis              creaturae                 rationalis           in    flnem
-            et    ad quodiy                (infra         a.    3.    q.   2.   ad 3.). Praedestinatio secundum                                 vitae aeternae » ;               secundum Scotum                           (hic       q.   unica,       n.       2.)   est
+2. *Item*, praedestinatio nihil aufert libero arbitrio, sed tantum ponit in eo gratiam; sed gratia nullam infert libero arbitrio necessitatem, ergo nec praedestinatio: si nullam ei imponit necessitatem[^2], ergo cum salus pendeat ex libero arbitrio, patet etc.
 
+3. *Item*, si praedestinatio imponit necessitatem, ergo cum, omni casu contingente, necesse sit, eum qui praedestinatus est, salvari, ergo frustra laborat aliquis benefacere; quia, sive faciat bonum sive malum, necesse est, eum salvari.
 
+4. *Item*, nullus laudatur in eo quod necessitatis est, neque vituperatur[^3]: si ergo necesse est, praedestinatum salvari et praescitum damnari, neque praedestinatus laudandus est, si salvatur, neque praescitus vituperandus, si damnatur; quod est contra statum gloriae et poenae.
 
+<!-- page 707 -->
 
-                      1
-                           Et        quidem gratia ut medium per quod,                                         gloria ut termi-                  nentem. Actioni transeunli respondet passio in effectu                                                 ,    non vero
-            nus ad quem, poisona salvanda ut subiectum. Quod sequitur:                                                                           immanenti, etiamsi respiciat rem externam                                        ,   v. g. visioni respectu
+### Conclusio.
 
-            haec duo                  etc.          refertur         ad     principale           significatum               et    con-           rei visae.          Cfr.    supra pag. 686, nota                         i.
+> *Praedestinatio nec ratione causalitatis nec ratione praescientiae infert necessitatem sive respectu salutis sive respectu liberi arbitrii.*
 
-            notatum.                                                                                                                                     5    Eodeni        modo loquendi utitur Alex. Hal., S. p. 11.                                            q.    6.
-                      2    Obiic)           posset             de    creatione,           quae        active      sumta          etiam           m.    2,     a.    S.
+**Respondeo:** Dicendum, quod praedestinatio nec infert necessitatem saluti, nec infert necessitatem libero arbitrio, quoniam praedestinatio non est causa salutis nisi includendo merita, et ita salvando liberum arbitrium.
 
-            quoad principale signiflcatum est divina                                              essentia,           nec        tamen                   "    Cfr.       supra d. 20.        a.    2.   q.   1.           in corp.
+Ad intelligentiam autem obiectorum notandum, quod praedestinatio duo importat: et rationem praescientiae et rationem causae. In quantum dicit rationem causae, non necessario ponit effectum, quia non est causa per necessitatem, sed per voluntatem: et iterum, non est tota causa, sed cum alia causa contingente, scilicet cum libero arbitrio. Et regula est, quod quotiescumque effectus pendet ex causa necessaria et variabili — a necessaria tanquam ab universali, a variabili tanquam a particulari — denominatur a variabili, quia denominatio est a causa particulari[^4]; et effectus, qui dependet a causa contingente, est contingens. — Praeter rationem causae importat[^5] rationem praescientiae; et praescientia quidem totum includit in cognitione, quia liberum arbitrium et eius cooperationem et vertibilitatem, et totum. Et praeterea, non est nisi veri, et etiam de vero contingente est infallibilis, sicut supra monstratum est in quaestione de praescientia[^6]. Ideo praedestinatio infert salutem et non potest cassari nec discordare a libero arbitrio. Et quia praescientia nullam imponit necessitatem consequentis, sed solum consequentiae, similiter nec praedestinatio.
 
-            dicitur aeterna                     ;   sed vide infra solut. ad 2. et i, et S.                                 Thom.                        '    Hoc magis explicatur supra solut. ad 2.                                           et 3.       — Paulo
-            liic      q.       4.    a.    1.       ad    1.                                                                                     ante pro connotat aliquid, quae lectio invenitur in codd. A T Y,
-                      3    Pro res cod.                       X (V in marg.) respecius. Aiiquanto infe-                                          Vat.     cum aliis codd. et ed. 1 connotai aliud.
-            rius post verus respectus Vat.                                       cum cod. cc non bene                        omittit                     8 Cod.      quae aiienditur ; Val. cum cod. cc quod                                                           an-
-            in actu.                                                                                                                             iecediiur.
-                       *   Scilicet intelligendi,                         Haec    distinctio          aclionis        fundatur in                        s    Vat.       cum cod. cc pro praeparare                                   subslituit        praepara-
-             illa,     qua           actio dislinguilur in                      actionem transeuntem                   el    inima-              iione.
+*Ad 1, 2, 3.* Ex hoc patent tria prima obiecta de necessitate inferendi, impossibilitate cassandi, impossibilitate discordandi. Haec enim omnia dicunt necessitatem consequentiae solum, quia insunt praedestinationi non per rationem causalitatis, sed praecognitionis, quae est concors, certa et infallibilis. Concors, quia praescientia sive praecognitio[^7] vera: qui enim cognoscit vere cognoscit, rem praesentem esse, sicut est, et futuram ita evenire, sicut eveniet. Est enim *veritas adaequatio rei et intellectus*[^8]. Est iterum certa, quia independens, quia nullo modo pendet ex praecognito. Non enim secundum eius exigentiam cognoscit, sed secundum exigentiam luminis et claritatis aeternae, in qua nulla cadit dubietas, sed certitudo summa; et ideo de omnibus aequaliter certa est. Est iterum infallibilis, quoniam est totum posse praesciti circumplectens; et ideo in nullo potest falli nec circumveniri. — Et est exemplum Boethii in libro *de Consolatione* quinto[^9], quodsi aliquis aspiceret de loco <!-- page 708 -->eminenti circumiacentem regionem, ubi est multitudo viarum, omnes simul et uno aspectu videret, ambulans per locum illum[^10], quamvis possit per diversas vias ire, non tamen posset visum eius latere, pro eo quod per nullam viam posset ire, quam ille non videret. Si ergo intelligatur unus esse visus[^11], qui posset omnes vias praevidere et totum posse euntis, nullo modo quis eum praevenientem circumvenire posset. Et talis est aspectus divinae praescientiae, quia ab aeterno cognovit omne quod poteramus cogitare vel velle; et simul cum hoc vidit, in quam partem nostra voluntas et operatio inclinaretur. Et quia totum posse et velle et agere complectitur, ideo non potest falli. Et quia praedestinatio claudit praescientiam, hinc est, quod concordat cum libero arbitrio, et non potest discordare et non potest cassari; et necessario infert salutem, sed non necessario efficit[^12].
 
-                                                                                                                                                          :                                                                                                                                                                    ,,:
+*Ad 4.* Ad illud quod quaeritur, utrum praedestinatus possit damnari; dicendum, quod sic, sine distinctione, quia quamvis haec possit distingui de re, vel dicto[^13]: *praedestinatum damnari est possibile*, sicut haec: *album possibile est esse nigrum*; haec tamen non est distinguenda secundum artem: *praedestinatus potest damnari*, sicut nec haec: *homo albus potest esse niger*. Non enim potest esse de dicto, cum non sit dictum.
 
+Propter quod intelligendum, quod ista habet[^14] tres causas veritatis: *praedestinatus potest damnari*, sicut haec: *praedestinatus potest esse praescitus*: aut quia forma praedicati potest inesse subiecto cum forma implicata, vel post formam implicatam, vel sine forma implicata. Quocumque enim modo praedicatum possit inesse, iudicanda est locutio simpliciter vera; et dico, quod in tertio sensu locutio est vera[^15]: *praedestinatus potest esse praescitus*. Praedestinatus enim potest non esse praedestinatus, et necesse est, omnem hominem esse praedestinatum, vel praescitum; et ideo sequitur, quod possit esse praescitus. Et hoc quidem necessarium est poni. Nam fides dicit et ratio, quod sequitur: *si est praedestinatus, salvabitur*. Rursus, fides dicit et ratio, quod illum salvari est contingens; et qui diceret contrarium et assereret, respuendus esset, secundum omnium iudicium certum. Et iterum, ars dicit, quod si consequens est contingens, impossibile est, antecedens esse necessarium, et hoc supra probatum est per tres regulas[^16]; et qui diceret huius contrarium, totam artem syllogisticam destrueret, cuius virtus illationis est, ut oppositum consequentis non possit stare cum antecedente. Certum est autem, quod oppositum contingentis stat cum necessario[^17]. Istum ergo esse praedestinatum non est necessarium. Et est necessarium, vel contingens, vel impossibile; et non est impossibile nec necessarium: ergo est contingens; et contingens potest non esse: ergo iste qui est praedestinatus potest non esse praedestinatus.
 
+Et hoc quidem credo quod necesse sit poni, hoc tamen difficile est intelligi. Potest tamen sic capi, si praesupponamus quatuor vera. Primum est, quod praesens divinae aeternitatis circumplectitur omne tempus, idem et uniforme; et hoc dicit Anselmus in libro *de Concordia praescientiae et liberi arbitrii*[^18], quod « *sicut praesens tempus circumplectitur omnem locum, et omne quod in loco est, ita praesens aeternitatis omne tempus* ». Et hoc necessarium est poni, quamvis non possimus hoc plene intelligere. Videmus enim eius oppositum esse falsum et impossibile: quia si hoc non esset, tunc mutaretur praesens divinae aeternitatis. — Secundum est illud, quod Deus uno et eodem cognoscit omnia, ita quod est unica Dei cognitio, qua cognoscit hoc et qua cognoscit eius oppositum. Et hoc supra[^19] probatum est auctoritate et ratione, non solum quantum ad illud per quod cognoscitur, sed etiam quantum ad actum divinae cognitionis. — Tertium est, quod cum dicimus, divinam cognitionem vel voluntatem ordinari ad hoc cognoscibile et ad aliud, non ponitur ordo vel respectus in Deo actu, sed solum ex parte rei creatae vel cognitae; et ille quidem, sicut praevisum est[^20], non ponitur in actu, sed in habitu, nec de praesenti sed de futuro. — Quartum est, quod futurum sub <!-- page 709 -->ratione futuri, quod ponitur semel esse verum, ponitur semper fuisse verum, et quod ponitur semel esse falsum, ponitur semper fuisse falsum; et ideo cum ponitur posse esse, non ponitur nec mutari nec incipere[^21].
 
+His praesuppositis facile est intelligere, quod praedestinatus potest esse praescitus, et quod Deus quem praescivit potuit praedestinasse. Constans enim est, quod salus istius qui praescitus est, potuit ab aeterno praevideri, cum possit esse sive fieri in tempore; et si potuit ab aeterno ordinari ad divinam cognitionem et voluntatem, potest et nunc. Etenim quia praesens totum est, et nihil transiit in praeteritum, et nihil factum est, quod sit necessarium esse factum; hinc est, quod sicut potest cogitari, vere posse[^22] et non praedestinasse ab aeterno, ita etiam, quod possit nunc, in suo scilicet *nunc aeternitatis*, non praedestinasse. Et hoc dicit Magister in littera. Actus tamen aeternus divinae cognitionis non potest cogitari non fuisse, sed ad hoc futurum contingens ordinatum non esse[^23]; et si hoc ponitur, non ponitur aliqua mutatio in aeterno praesenti, quia nulla ponitur successio; nec ponitur mutatio in cognitione, quia non ponitur in Deo alia cognitio nec in ordine ex parte cognoscentis, quia non ponitur in Deo alius ordo, nec in ordine ex parte cogniti, quia ex parte illa non ponitur nisi futurum: et illud, cum non est, potest intelligi esse, et potest esse futurum sine mutatione[^24].
 
-          ro4                                                                                                                          SENTENTIARUM LIB. 1.
+Et hoc totum clarius aperitur, si veniamus ad significationem horum vocabulorum *praescitus* et *praedestinatus*. Praedestinatus enim et praescitus duo sunt vocabula, et quantum ad principale significatum important divinam essentiam, quantum ad connotatum important futura contingentia. Quantum ergo ad principale significatum idem sunt; quantum vero ad connotatum, quia sunt contingentia, quae non de necessitate insunt, potest unum esse alterum[^25]. Quia vero connotata non tantum sunt contingentia, sed etiam de futuro, quae nihil ponunt actu, possunt non inesse et inesse sine mutatione. Cum enim ponuntur inesse vera de futuro, ponuntur semper fuisse, et cum ponuntur non esse ponuntur nunquam fuisse, sicut patet; et Anselmus[^26] dicit, si dicatur, aliquid esse futurum de contingenti, constat quod possibile est, non esse futurum; et si futurum est, semper verum fuit, ipsum esse futurum. Et ideo haec est vera sine mutatione et sine inceptione: *praedestinatus potest esse praescitus*. Nulla enim repugnantia est nec ex parte significati nec ex parte connotati, et hoc patet, si resolvantur[^27]. Sensus enim est: *iste est praedestinatus*, id est, iste est a Deo praecognitus et salvabitur per Dei gratiam. Similiter: *iste est praescitus*, sensus est: iste est praecognitus et damnabitur per suam culpam. Constat enim, quod in divina cognitione non est differentia in se, sed solum in connotato. Cum ergo salvandus possit damnari, praedestinatus potest esse praescitus sine aliqua mutatione.
 
-          « ortio             electionis per voluniiilem                                   divinam alicuius creatnroe in-                                     terminatione concursus divini ad aotiones liberas creaturarum
+*Ad 5, 6.* Ex hoc patent alia tria obiecta: nam primum et ultimum intelligitur in formis, quae aliquid ponunt actu circa subiectum; secundum vero de eo quod est ita aeternum, quod nihil temporale connotat. Talia autem non sunt *esse praescitum* et *esse praedestinatum*[^28]. Et sic patent omnia.
 
-          tellectualis vel rationalis acl                                   graliam              et     gloriam »                 .   Cum liis de-            difficultates et conlroversiae                                             scholarum fere in immensum                                                   cre-
+### Scholion
 
-          llnitionibus convenit Iriplex descriptio praedestinationis,                                                                         quae ex         scunt,           ita       ut sapicntes in nonnullis stent                                                  contra             sapientcs,                       et
+**I.** Supposita distinctione inter *necessitatem absolutam* sive *consequentis*, et *hypotheticam* sive *consequentiae* vel *illationis* (supra d. 38. a. 2. q. 1.), in hac quaestione principaliter agitur de necessitate absoluta, sed in fine corp. etiam de necessitate hypothetica. Insuper in solut. ad 4. tractatur specialis quaestio, quo sensu dici possit, quod *praedestinatus possit damnari*. — Manifeste haeretica et a Concilio Constantiensi, approbante Martino V., condamnata est propositio (prop. 27.) Wiclefi: « *Omnia de necessitate absoluta eveniunt* ».
 
-          S.     .Viigustino                infra q.            2.     proponitur.                    P)'o    ampliore explicatione                           ut sapicntiores, propriam ignorantiam confltentes,                                                                             cum Apostolo
-          servire potest                    quod a.               3.   q.     2.       ad       2. dicilur               de dilTerentia inter                 (Uom.            1   1,   33.) dicant :                              altitudo diviliarnm sapientiae et scien-
+**II.** Ut dogma Catholicum melius intelligatur, Seraphicus per partes probat, quod nec *ratio causalitatis*, nec *ratio scientiae*, quae implicantur in praedestinatione, necessitatem libero arbitrio inferant. Notum est, primos antiquos haereticos[?] Calvinum pluresque alios ita causalitatem praedestinationis et efficaciam gratiae extulisse, ut liberi arbitrii vera causalitas et contingentia tollatur, et quasi illud a Deo moveatur, quin se ipsum moveat et determinet. Qui error perniciosissimus reprobatus est a Concilio Tridentino Sess. 6. can. 4. Unde catholici doctores unanimiter docent, actionem causae primae non excludere veram et liberam cooperationem causae secundae, nec motionem sive efficaciam gratiae impedire, quod etiam voluntas creata se ipsam vere moveat et determinet. Sed acriter etiam inter scholas catholicas disputatum est de modo *exsistendi* illius cooperationis, praecipue inter duas scholas celebres, in hac quaestione ex adverso sibi oppositas. Schola enim, quae vocatur Thomistarum, veram S. Augustini et S. Thomae doctrinam esse affirmat, quod divina voluntas sua causalitate ab intrinseco efficaci inferat consensum liberum voluntatis creatae, nedum quoad substantiam actus, sed etiam quoad modum libertatis (cfr. S. Thom., *S.* I. q. 19. a. 8, q. 83. a. 1. ad 3, q. 103. a. 1; *S. c. Gent.* III. c. 89; *de Verit.* q. 6. a. 3. ad 3.). In hac sententia etiam certitudo divinae praescientiae explicatur ex ipsius voluntatis divinae decretis efficacibus. Altera schola, ut infallibilitatem et efficaciam decreti divini praedestinantis simul cum indifferentia liberi arbitrii explicet, utitur *scientia media*, qua praevidetur, quid voluntas factura sit de se, sed cum auxilio gratiae praevenientis, antecedenter ad omne decretum divinum absolutum; et hac via propugnat *concursum divinum congruentem* libertati ac motionem indifferentem, quae non antecedat determinationem voluntatis, sed ei sit simultanea vel, ut aliqui videntur docere, potius eam consequatur. — S. Bonaventura de causalitate divinae voluntatis hoc loco nihil dicit quod non sit generaliter receptum. Plura vide infra d. 45. a. 2. q. 1. 2; et de motione divina *II. Sent.* d. 28. p. II. q. 4. 5; d. 37. a. 1. q. 1, d. 26. q. 6, d. 14. p. I. a. 3. q. 1.
 
-          proposilum , eledionein et praedesUnatioiiem ncc non liic dnb.                                                 ,                                    tiae       Dei! qiiam                        incomprehensibitia                                sunt iudicia                        eiiis !             Vide
-          7. de triplici causnlitate, quae imporlatur in praedestinalione, el                                                                                 praeclara verba Seraphici infra d. 41.                                                             a.       I.       q.   2.   in       flne.
+Sed quoad alteram rationem, scil. praescientiae, manifestum est, praesertim ex solut. ad 1. 2. 3, S. Bonaventuram refundere certitudinem, quae est in praedestinatione, non ad causalitatem in ea implicatam, sed ad nobilitatem divinae scientiae; unde potius ad praescientiam recurrit, ut ostendat concordiam praedestinationis cum libertate creaturarum; immo ipsius verba hoc loco videntur rationem causalitatis penitus excludere, cum dicat « *non per rationem causalitatis* ». Sed S. Thom. (*de Verit.* q. 6. a. 3. in corp.) quoad certitudinem praedestinationis videtur aliter sentire, cum dicat: « *Unde praeter certitudinem praescientiae ipse ordo praedestinationis habet infallibilem certitudinem, nec tamen causa proxima salutis ordinatur ad eam necessario, sed contingenter, scilicet liberum arbitrium* » (cfr. *S.* I. q. 23. a. 7.). Putamus autem, S. Bonaventuram praecise in hoc non dissentire a S. Thoma, cum alibi (in quaestione seq. in corp.) praeter certitudinem infallibilis scientiae referat etiam certitudinem immutabilitatis, ex divina dispositione et ordinatione ortam, quae includit voluntatis decretum; unde dicitur infra (d. 45. a. 2. q. 1. ad 2.): « *voluntas facit de scientia dispositionem* ». Insuper etiam ipsam praescientiam Dei in causalitate vero[?] scientiae secundum S. Bonaventuram fundari, iam supra d. 39. a. 1. q. 1, Scholion dictum est. Hanc autem causalitatem ab ipso non in sensu solius causae efficientis intelligi, etiam hic in solutione ad 1. 2. 3. satis manifestatur.
 
-          lli.   Sent. d.              II.        a.      I.    q.     I.   2.        3.   de praedeslinaliojie                             Cln-Jsti.                    II.       Praedestinationem                                esse              aeternam non                          tantum                quoad
-                         Catholica de praedestinalione                                          doctrina                media          \ia     inccdil        ipsum actum praedestinantis sed etiam ratione aeternae con-                ,
+**III.** In solut. ad 4. subtiliter discutitur locutio: utrum *praedestinatus possit damnari*, et plura profunda et notanda alleruntur ad probandam viam S. Doctoris, quae aliquatenus differt ab ea, quam alii magis tenent. Distinguit enim duas propositiones; modalem, in qua ponitur significatum dicti in *recto*, et talis est forma propositionis: *praedestinatus potest damnari*; modalem, in qua ponitur significatum in *obliquo*, per accusativum et verbum infinitum, qualis est propositio, *possibile est, praedestinatum damnari*. Propositionem in hac secunda forma debere distingui, cum communi sententia affirmat etiam Seraphicus. Vel enim ista propositio intelligitur de dicto et in sensu composito, et tunc est falsa (ut: *album esse nigrum, est possibile* in sensu; haec propositio: *album est nigrum*, est possibilis); vel de re et in sensu diviso (ut: *res nunc alba potest fieri nigra*). Distinctio *de re* et *dicto*, qua in hac distinctione utitur etiam Magister, explicatur a S. Thom., *S.* I. q. 14. a. 13. ad 3. — Primam vero formam propositionis S. Bonav. sine distinctione tanquam veram admittit, dum Magister (hic c. 1.), S. Thom. (*S.* I. q. 23. a. 6. ad 3.), Scotus, Richard. a Med., Durandus aliique etiam in hac forma adhibent distinctionem sensus compositi et divisi. Probat autem Seraphicus suam assertionem, supponendo triplicem sensum illius propositionis (« *habet tres causas veritatis* »); et haec potest esse vera, si unus ex tribus sensibus est simpliciter verus. Intelligi enim potest subiectum *praedestinatus* vel « *sub forma implicata* » i. e. reduplicative *praedestinatus ut praedestinatus*, et sic est falsa; vel « *post formam implicatam* », i. e. qui antea fuit *praedestinatus*, postea fit *reprobus*, et sic iterum est falsa; vel « *sine forma implicata* » i. e. absolute subiectum considerando, et tunc praedicatum *potest damnari* recte dicitur de subiecto, ut in sequenti et hic dub. 4. 5. probatur; quod deinde quatuor profundis et valde notandis principiis aliquatenus explicatur. — Solut. ad 5. 6. iisdem fit principiis, quae adhibet S. Thom., *de Verit.* q. 6. a. 3. ad 8.
 
+**IV.** Alex. Hal., *S.* p. 1. q. 28. m. 4. per totum. — Scot., hic q. unica; et *Report.* hic q. unica. — S. Thom., de hac et seq. q. hic q. 3; *S.* I. q. 22. a. 4, q. 23. a. 6; *de Verit.* q. 6. a. 3. — B. Albert., hic a. 14. 15. 16; *S.* de hac et seq. q. p. 1. tr. 10. q. 63. m. 3. a. 2. — Petr. a Tar., hic q. 2. a. 1. — Richard. a Med., hic a. 2. q. 1. 2. — Aegid. R., hic 1. princ. q. 2. — Dionys. Carth., de hac et seq. q. hic q. 2.
 
-
-
-          inter              innumeros crrores, ad extrema delapsos,                                                            dum alii iirac-               notationis ad personam praodestinati, ad graliani et ad gloriam
-          deslinationem distorquent in perniciosissimum fatalismum, qui                                                                                       (cfr.      hic dub.                 1),              coinmuniter docetur                               (cfr.         Alex. Hal., S. p. I.
-
-          liberuni .nbitrium                            bonorumquc operum                                     nierita                 suffocat,        alii   q.    28.        m.        1.   a.       I       ;       S.    Tliom., S.                I.   q.   23. a. 2.                  ad       2.).       — So-
-          vcro eandcm sub specie humanae independentiae                                                                                omnino eli-            lutio          ad     2.    fundalur in hoc, qiiod                                        diflert actio                   secundum rem,
-          minant,                  \cl sallcm ita in/iniianl, ut nimis derogetur gratuitis                                                                    quae est principium efficiens aliquid, id                                                                   est,          quae          transit in
-
-          Dei donis graliae,                              perseverantiae ^finaUs ct electionis.                                               In       hoc    materiam extraneam, et actio secundum modum intelligendi, non
-          autem omncs catholici doctores conveniunl,                                                                    infallibilem            et im-        transiens                 extra          subiectum, ut                              est       in       Deo           actus         cognosccndi
-          mutiibilcm csse electorum praedestinationem                                                               ,    sed ita, ut minime                   creaturam. Iluic non respondet in crcatura                                                                           nisi      passio               secun-
-          liberlatcm lacdat                            creaturarum                ;    item       ,     ab aeterno                     praeparasse            dum modum                       ,
-                                                                                                                                                                                                   quia creatura                             praecise ut cognita tantum deno-
-
-          Deum bona opera,                                «    ut in        illis      ambulemus » (Eph. 2, 10), sed                                          minationem, non aliquid reale                                                       ab extrinseco                         recipit             (cfr.             S.
-
-          ita,       ut       «   doiia Dei sint eliam                             bona           ipsius                iustificati         merita »          Thom., hicq.                        I.   a.               1.   ad     I.).          —     Notabilis cst etiam solut.                                            ad
-          (Trident.                se.ss.     (j.      can. .32.),           cum            «    lanta        sit        (Dei)         erga onnies'           S, de quo conferri potest Alcx. Jlal., loc. cit. a. 3; S. Thoni.,
-          homines bonitas,                           ut      corum velit essc mcrita, quae sunt ipsius                                                        hic q. 2. a. I. ad 2; Richard. a Med.     liic a. I. q. 2. ad 2.                                   ,
-
-
-
-          dona »              (ibid.     c.         16.); denique, esse aeternani Dci inter electos                                                                      III.      Praeter auctores iam citalos; B.                                                       Alberl.,            hic          a.        2.       S;
-          cl     ir|>i^'l"i<           ilisiiciioncni,                  sed           ita,       ut      nemo                adultus          nisi      ob    S. p.          I.    tr.    16. q.                       63.    m.    1.       q.       incid. —   I.                Petr.         a     Tar., hic
-          propriinii                riiliiiiiii         icprobetur,                   nemo autem                         nisi         per    divinam          q.    1.       a.     I.    quaestiunc.                         1,    et a.         3.    — Richard.                      a   Med., hic a. I.
-          niisciirnnliain s;iKeiur.                               —     Si       autem descenditur ad specialiores                                                —
-                                                                                                                                                              q. 2.        R. de hac    Jigid.                     ,                     et seq.            q. hic        I    .   princ. q.           I   .    a.    1   .   2.
-
-          quaestiones, praesertim ad eas quae                                                         dependent                   a    modo, quo              — Durand. de hac            ,                                 et seq.      q.       hic       q.       I.        — Dionys. Carth.
-                                   creata cooperatur divinae gratiae, et in genere a de-                                                                      hic      —
-                                                                                                                                                                      q.       dc hac
-                                                                                                                                                                                   I.             Biel,                                 et seqq.             qq. hic q. unica.
-
-
-
-
-                                                                                                                                                QUAESTIO U.
-
-
-                                                                                           IHmm praedestinatio sit Dei .scientia, an voluntas.
-
-
-                             Secundo quaeritur                                ,
-                                                                                       quid              sit             praedestinatio                   ,
-                                                                                                                                                              voluntitis, sed                                          in    ea quae sunt cognitionis: sed iios
-          utruui scilicet Dei                                        scientia,              vel voluntas.                              Et suppo-              dividimus divinara scientiara                                                                 in   praedestinationem et
-          sito,quod dicat aliquid, quod sit in utroque genere,                                                                                                reprobationem                                :           ergo praedestinatio, secundum quod
-          —   est enim   sicut dicit .\ugustinus S praescientia
-                                              ,                                                                                                               huiusmodi, ad scieiitiam spectat.
-          beneflciorum, et propositum miserendi          quaeri-                                                                      —                                      Contra:                       1.           Praedestinatio                           est causa                       gratiae etFu
-          tur, quod istorum importet principalius et per mo-                                                                                                  gloriae^; sed gratia et gloria immediate sunt a vo-
-          dum coraplementi. Et quod importet                                                                                 scientiam             ,   vi-    luntate: ergo praedestinatio de se dicit quid                                                                                                     in ge-
-
-          detur:                                                                                                                                              nere voluntatis. Si dicas, quod ex                                                                                   vi       norainis non
-
-                             1.    Quia corapositum trahit signiflcatum a cora-                                                                               importat illara causalitatem; eontra: esto, quod Deus
-
-Ad opposi- ponentibus; sed                                     deslinatio,                      cum           dicatur et                      missio          praesciret,                         aliquem habiturura                                                 gratiam et gloriara
-  '"""^
-          et ordinatio, in ratione praedestinationis accipitur ut                                                                                             aliunde                   quam ab ipso                                ,    non diceretur praedestinare
-          ordinatio                   — nam,                      sicut dicit                     Augustinus', praede-                                        ergo de se                          dicit                  causalitatem.
-          stinare idem est quod praeordinare                                                                                 — sed            artifex                        2.         Item,                  praedestinatio                               iraportat                       scientiam                         et
-
-          licet              volens et .^ciens praeordinet, non                                                                   tamen ordi-                 voluntatem; sed quoties haec duo in aliquo impor-
-          nat.               in    quantum volens , sed                                               in      quantum                       sciens            tantur, voluntas se habet                                                               per        modum consequentis
-          ergo               etc.                                                                                                                             et addentis                         ad scientiara '                                 ;    sed quod consequitur et
-                             2.    Item      ,      scientia                non dividitur secundum                                              ratio-        addit, se habet per                                                   raodura difl:erentiae et coraple-
-          nem                 accipiendi                     in        virtutes                  vel          in             ea       qnae sunt               raenti, et a tali est res denomiiianda: videtur                                                                                                     ergo,
-
-
-
-
-                         1
-                              Vide supra                q.     praeced. fundam.                          2.    et 3 , et hic in corp.                         id     omnino nec aliud quidquam est praedestinare.   Paulo su-                                                                —
-          quaest.                 — Paulo ante verbis utroque genere                                                     significantur scien-                 perius pro significatum cod.   K cum ed. 1 bene significaiionem.
-          tia    et voluntas.
-                                                                                                                                                                         3     Sic sumta, praedestinatio                                              communiter                   deflnitur praepara-
-                         2    Libr. VI. Hypognost. (Auguslini nomini quondam addict.)                                                                         tio     gratiae in praesenti et gloriae in futuro. Cfr. hic                                                                                  lit.      Magi-
-
-          c.     2   :       « Praedestinatio                  quippe a praevidendo                              et          praeveniendo vel                 stri,       c.       2.
-
-          praeordinando futurum aliquid dicitur». Sub hoc respectu in
-                                                                                                                                                                         •     Voluntas enim, quia est appetitus rationalis, praesuppo-
-          libro de Dono persev. c. 17. n. 41. ait Namque in sua quae falli                        :                                                           nit et           sequitur rationem et scientiam. Hinc est,                                                                    quod relate ad
-          mutarique non potest pracscientia, opera sua futura disponere,                                                                                      scientiam se habet per                                          modum complentis et speciflcantis, ad-
-
-                                                                                                                             ,,                        .
-
-
-
-
-                                                                                                DIST. XL. ART.                    I.     QUAEST.                               II.                                                                                                   705
-
-    quod completius                            iraportet voluntatem , et                                   ita    quod             respicit vohmtatem et propriissime, in libro de Prae-
-     male            situet Magister.                                                                                             destinatione Sanctorura ^: « Praedestinatio, inquit ibi,
-                                                                                                                                  est         propositum raiserendi ».
-                                                CONCLUSIO.                                                                                        1          Ad                illud             ergo quod        obiicitur quod dicit soiutio op.            ,
-
-
-                                                                                                                                  ordinera ; dicendura                                               ,
-                                                                                                                                                                                                          quod est ordo duplex unus Ehfpiex"'"'                           :                ,
-
-
-
-    P7'aedestinatio, quae est                                causa graliae et gloiHae,                                            dispositio                              rerum                  in        universo, et                            hic            appropriatur
-                    importat el scientiam etpotentiam                                                 et   volunta-               scientiae; alius, directio in finem, et hic appropria-
-                .   tem. , sed principalius esl in                                  genere voluntatis.                            tur bonitati sive voluntati, et hoc raodo est de ra-
-                                                                                                                                  tione praedestinationis.
-                    Respondeo: Dicendum, quod                                           cum praedestina-                                          2.        Ad                illud            quod obiicitur, quod est pars prae-
-    tio significet                  divinam essentiam ut causam gratiae et                                                        scientiae; dicendura,                                            quod qneraadraodura fides et
-    gloriae, et hoc  secundum ordinatam dislributionem                                                                            prudentia sunt in genere cognitionis , tamen addunt
-    gratiae et gloriae, quantum est de se, non tantum                                                                             supra cognitionem aliquid, quod distrahit                                                                                       in genus
-.importat scientiam, sed etiam voluntatem. etpolen-                                                                               virtutis, quod respicit voluntatera; per                                                                                    hunc modum
-    tiam. Sed quoniam causalitas gratiae et gloriae attri-                                                                        et in                proposito est intelligendum. Et quoniam .scien-
-    buitur proprie voluntati ut efficienti, sed                                                            scientiae              tia         non fantum accipitur pro simplici notitia, sed
-    ut disponenti, et potentiae ut exsequenti; ideo, etsi                                                                         etiara , ut frequenter,       pro praetica, et hoc modoscienuapra
-    praedestinatio importet                               illa         tria,        tamen principalius                            complectitur scientiara                                                       cum voluntate,                                     et    Magister
-.   est in            genere voluntatis. Et ideo ab Augustino                                                         defi-       sic accipit generaliter ; ideo                                                              enumerat praedestinatio-
-    nitur praedestinatio                          per       illa            tria: primo per illud                                 nem inter ea quae                                                  sunt scientiae.                           — Voluerunt                           ta- .'^iiorum sc
-    quod respicit potentiam,                                     in         libro de Fide ad Pe-                                  raen aliqui dicere, quod                                                           principalius                             est in genere                    iiaMis!"
-
-    trum': «Praedestinatio est gratuitae donationis prae-                                                                         scientiae , eo                                     quod in                   ratione praedestinationis                                        eadit
-    paratio » ; secundo per illud quod respicit .icientiwm.                                                                       scientia in recto , sed voluntas in obliquo ; esl                                                                                             enim
-    in libro de                 Bono perseverantiae '                          :    « Praedestinatio est                          praedestinatio                                      scientia                   beneplaciti.                       Uterque                   modus
-    praescientia beneflciorura Dei » ; tertio per illud quod                                                                      dicendi satis est probabilis, sed primus magis.
-
-
-
-
-                                                                                                                80H0LI0N.
-
-
-            I.      Omnes docloi-es catholici docent, in praedestinatione in-                                                     voluntatem                     y>
-                                                                                                                                                                          ;    sed essentiatiter                      in actu                 intellectus,              cum       actus
-    cludi       tum actum divini intellectus tum actum voluntatis sed
-                                                                   ,                                                  ;           voluntatis,                    quo Deus diligit et eligit, etiam in via                                                               S. Bonaven-
-    inter       eosdem controvertitur, quid in ipsa signiflcetur principa-                                                        turae non                      sit          (orniaKter praedestinatio , sed praesupponatur                                                          ad
-    lius.    S.      Thomas (S. I. q. 23. a. 1. 4.)                                      iuxta    sua       principia             illam, ut patet ex ipsius verbis (hie a. 3. q. 2.                                                                                ad 2.      3.).   No-
-    docet,          eam formaliter consistere in actu                                    intellectus        ut     impe-          bis         autem                   videtur                  hic       occurrere                 eadem qualiscumque                             difTe-
-
-    rantis, qui supponit flnem vojitum et media electa.                                                    Hanc sen-              rentia             inter                duos             Ss.       Doctores             ,
-                                                                                                                                                                                                                               quam observavimus supra
-    tentiam etiam S. Bonav.                      '^hic     in flne) iudicat                 esse satis           proba-           d.     1.       a.       2.      q.          1,    Scholion,                 quoad conceptum                                beatitudinis.          —
-    bilem,           eamque tenent Alex. Hal. (S. p. 1. q. 28. m.                                          1.    a.       2.),    De dootrina, quae tribuit causalitatem «proprie voluntati ut ef-
-    B. Albert., Petr. a T:ir., Richard. a Med.,                                          Durand.       aliique.            At-    flcienli ,               sed scientiae ut disponenti, et potentoe ut exsequenti,
-    tamen            S.   Bonav.         ut probabilioreni                   reputat        modum               dicendi           cfr.    infra      d. 45. a. 2. q. I. (praecipue ad 3.) et q. 2.    In                                                                       —
-    quod eadem consistat potius in actu voluntatis , quo Deus illum                                                               solut.          ad 2, ut explicetur, quomodo additio super cognitionem
-    ordinem           ,   ab   intellectu      propositum              ,    approbat et exsequi propo-                            distrahit praedestinationem ex genere intellectus in genus volun-
-    nit,    ita       ut directio in           fmem approprietur voluntati (hic ad 1.).                                           tatis,          duplex exemplum afiertur:                                                   primum de ^& (cfr. III. Sent.
-    Haec est etiam sententia                      Scoti (hic q. unica, n. 2.) cum sua                                             d.     23. q.              'I.          2.),       secundum de priidentia (ibid.                                                d. 33. q. 3.).
-    schola et non paucis                    aliis.   P.    Trigosus                (q.    18.    a.   2.    dub.          i.),                III.         Alex. Hal.                 ,    S. p.          I.    q. 28.         m.        I.    a.        2.       —     Scot. ,      hic
-    sutrraganle P. Marco a Baudunio (Paradis. theolog. tom. 1. q. 23.                                                             q.     unica.             —             S.    Thom.,               hic q.          I.       a.    2;        S.    I.        q.    23. a.      1.   —
-    a.   2.),        utramque sententiam hoc modo conciliare vult                                           :   Praede-           B.     Albert.             ,     hio          a.        1.    —        Petr. a Tar., hic q.                        I.       a.   I.   quae.stiunc.
-    stinatio         completive consistit in                 actu            voluntatis,          sicut         ipse       S.     2.     — Bichard.                             a    Med., hic                  a.   I.       q.    I.    — Dionys.                     Carth., hic
-    Bonav. (arg.               2.   in   fundam.)         dicit,           quod     «    oompletius         imporlet              q.     I.       in       princip.
-
-
-
-
-    dens        scilicet       efHcaciam respectu eorum, quae per scientiam sim-                                                              -   Nunc de Dono perseverantiae nuncupato, c. 17. n. 41                                                                                  ,
-
-
-
-
-    pliciter erant cqgnita.                    — Paulo ante pro quoties codd. A V                                                 ubi est haec deflnitio       seoundum sensum. Ipsa verba Augustini
-    quotiescumque.                  —    Ultimis liuius argumenti verbis                               quod male                  exhibentur hic in                                  lit.       Magislri,            c.       2.
-
-    situet Magisler indicatur,                       Magistrum                quaestionem              de       praede-                       3   Cap. 17.                      n.        34, ubi sententia citala,                                 si        verba           spectas,
-    stinalione pei-pcrani posuisse in                            tractatu            de scientia Dei,                     cum     non quidem invenitur, sed                                                    facile erui               polest ex                  verbis, quae
-    iuxta           hoc argumentum pertineat                           ad tractatum               de       voluntate.             ibi    leguntur                     :        Electi           sunt       itaque ante                   mundi                constitutionem...
-    Pro situet cod.                 T insinuet.                                                                                   illa    scilicet               vocatione                      secundum propositum. Cfr. etiam libr. VI.
-            1       Cap. 35.        n.   78.                                                                                      Hypognost.                       c.          6.    scq.
-
-                          S. Bonav.        — Tom.           I.                                                                                                                                                                                                     89
-
-                                                                                                                                         ,
-
-
-
-
-                                                                                                                          SENTENTIARUM LIB. I.
-
-
-
-                                                                                                                            ARTICULUS 11.
-
-                                                                                            De pmedestinatione quantum ad necessilatern.
-
-
-
-                         Secundo quantuin ad hunc prinium articulum                                                                                      Primo quaeritur                      ,   utrum                inferal     necessitatem
-              quaeritur de                           necessitate                      praedestinationis.                    El circa         salutis libero arbitrio.
-              hoc quaeruntui' duo.                                                                                                                   Secundo, utrum inferat certitudinem                                                 in eventu.
-
-
-
-
-                                                                                                                                     QUAESTIO I.
-
-
-                                                                                        Utrum praedestinatio inferat salutis necessitatem.
-
-
-
-                         Quod autem inierat necessitalem, ostenditur sic.                                                                    esse    praescitum sic se habent, qiiod impossiljile est,
-                         1.     Oiniiis causa,                               quae necessaria                     est       in    se et       siraul inesse               eidem; impossibile                                est etiam,      alterum
-I   opposi-   necessario ponit effectum                                           ,    infert simpliciter necessi-                           alteri succedere, scilicet quod                                       homo primo sit praede-
-              tatem effectui                     ;    sed praedestinatio respectu salntis est                                                stinatus et postea praescitus:                                         ergo cum est praede-
-              huiusmodi                    :    ergo        etc.              Minor            patet.           Praedestinatio               stinatus, nullo modo potest esse praescitus : ergo etc.
-
-              enim, cum                        sit    Deus        in se, dicit                   quid necessarium;                                       5.   Item, de omni quod aeternum est,                                            cum non
-              et   iterum              ,       necessario infert effectum, qnia necessario                                                   est, irapossibile est esse, quia impossibile est,                                                      quod
-              sequitur             :   si       est praedestinatus , salvabitur                                       :    ergo       etc.   non ens sit aeternum; sed praescitus si                                                     est,   aeter-
-                         2.    Item, omnis causa, quae nullo                                                         moda potest             naliter est praescitus: ergo illuin qui                                               non est prae-
-              cassari, necessitatem ponit circa productionem                                                                         effe-   scitus, impossibile est esse praescitum.                                                  Sed praede-
-              ctus — nam causa                              dicitur cassari, cum nuUum ponit                                                 stinatus non est praescitus: ergo etc.
-              effectum — sed                            praedestinatio                          nullo            modo           potest                   6.   Item, de eo quod non                                    est,    idem est dicere,
-              cassari: ergo praedestinatio ponit necessitatem.                                                                               hoc posse esse,                        et    posse        '
-                                                                                                                                                                                                               incipere esse; sed                   prae-
-                         3.     Item, quotiescunique duae causae concurrunt                                                                  scitum est quid non ens respectu praedestinati                                                     :   ergo
-              ad aliquem effectum                                    ,
-                                                                             quas impossibiie                         est discor-            idem         est dicere,                  praedestinatum posse esse praesci-
-              dare,           si       una est immutabihs, necesse est, alteram                                                              tum, quod posse incipere                                              praesciri sive damnari.
-
-              esse iminutabileni                        ,   et effectum                      per consequens. Haec                            Sed non potest incipere esse praescitus, ergo elc.
-              manifesta est per se:                                          nam si altera                      est mutabilis,                           Contra:             1.        Praedestinatio                  divina      nullum           facitFim.
-
-              reliqua existente immutabib, possibile                                                             est, eas dis-               indigne salvari: ergo                            cum dignitas in                      salvando           re-
-
-              cordare. Sed impossibile est                                              ,
-                                                                                            quod praedestinatio et                           spiciat          meritum,                   et   meritum                  liberum          arbitrium,
-              liberum arbitrium discordent:                                                    ergo            cum        praedesti-         ergo praedestinalio non                               tollit           arbitrii libertatem, se-
-
-              natio       sit          causa immutabilis, necesse                                              est,       quod       libe-   cundura quod libernm arbitrium: ergo nec imponit
-              rum         arbitrium                   sit   immutabile;                        et         si    hoc,        cum        to-   necessitatem.
-              tum         sit          immutabile                ,           restat ergo ,                     quod necessita-                           2.   Item, praedestinatin nihil                                    aufert       libero       ar-
-
-              tem imponat praedestinatio libero arbitrio                                                                   et   saluti.      bitrio, sed           tantum ponit                        in          eo gratiam; sed              gratia
-                         4.     Item,                 videlur,                    quod praedestinatus nullo                                  nullam           infert libero arbitrio necessitatem,                                        ergo nec
-              modo            possit             damnari                 ,        et si     hoc       ,        tunc necessario               praedestinalio              :        si     nullam            ei      iniponit      necessitatem ^
-              salvatur ; et ostenditur                                            hac ratiooe              :    ista       duo con-          ergo        cum salus pendeat ex libero arbitrio, patet etc.
-              vertuntur esse praescitum et damnari,                                                                       esse prae-                     3.   Item,          si        praedestinatio iraponit necessitatem,
-              destinatum                       et    salvari; sed praedestinatus non po-                                                     ergo cum, omni casu contingente, necesse sit, eum
-              test esse praescitus                           :    ergo non potest damnari. Pro-                                              qui praedestinatus                           est,    salvari, ergo frustra laborat
-
-              baiio           mediae.                  Quando aliqua duo                                       sie    se habent              aliquis benefacere; quia, sive faciat                                            bonum sive ma-
-              quod        irapossibile est ,                                 unum alteri                       succedere         ,    nec    lum     ,    necesse            est,        eura salvari.
-              possunt simul inesse                               ,           si       alterum       inest,            impossibile                        4.   Itera,         nullus lauilatur in eo                              quod       necessi-
-
-              est,       reliquum                    inesse;                 sed        esse    praedestinatum                         et    tatis       est,    neque viluperatiir ':                                si    ergo       necesse est.
-
-
-
-
-                     '   Miilti            codd. perpiTiim oniiltunl sucunduin posse.                                                               3 Cfr.      Arislol.,          II.   Ethic.   c.       S   :   Propterea (virlutcs) neque fa-
-                     2 In Vat. el cod. cc                        desunt verba                    si       nwllam           ei   impmiit      cullales et potentiac sunl, quip|)o          cum neque boni neque mali
-              necmitatem.                                                                                                                    ob   id      dicamur    ,
-                                                                                                                                                                         quod absolule agei'e possimus neque laude-                ;
-
-                                                                                                                                                             ;,                                                                                                                                 ;
-                                                                                                                                                                                                                                                                                                ,
-
-
-
-
-                                                                                                                             DIST. XL. ART.                       II.    QUAEST.                   I.                                                                                     707
-
-            praeiiestinatum salvari et praeseitum damnari, neque                                                                                                  scientia              quidem              lolum indudit in cognitione, quia
-            praedestinatus                              laudandus                            est,         si            salvatur,    neque                        liberum arbitrium                              et eius                  cooperationem                     et         verti-
-
-            praescitus vituperandus, si damnatur;                                                                             quod est con-                       bilitatem,                   et        totnm.         Et praeterea,                            non             est       nisi
-
-            tra statum gloriae et poenae.                                                                                                                         veri, et etiam de                              vero            contingente                    est     infallibilis,
-
-                                                                                                                                                                  sicul        supra monstratum est                                        in     quaestione de prae-
-                                                                      c           NcLuS            1 0.                                                           scientia^ Ideo praedestinatio infert saiutem                                                                       et    non
-                                                                                                                                                                  potest cassari                         nec         discordare a                       libero arbitrio.                      Et
-            Praedestviiatio nec ratione causalitatis nec ratione                                                                                                  quia praescientia nuilam                                        imponit necessitatem con-
-                            praescientiae infert necessitatem sive respectu                                                                                       sequentis, sed                          solum             consequentiae , similiter nec
-                            salutis sive respectu liheri arbitrii.                                                                                                praedestinatio.
-                                                                                                                                                                              1.       2.    3.         Ex hoc patent                       tria         prima obiecta de
-                            Respondeo: Diceuduni, quod praedestinatio nec                                                                                         necessitate inferendi, impossibilitate cassandi, im-
-iciusio.    infert necessitatem                                       saluti,                 nec          infert necessitatem                                    possibilitate discordandi.                                         Haec          enim omnia dicunt
-            libero arbitrio, quoniam praedestinatio non est causa                                                                                                 necessitatem consequentiae solum, quia insunt prae-
-            salutis nisi                         includendo nierita, et                                         ita          salvando                 libe-       destinationi                      non         per         rationem                causalitatis,                          sed
-            rum arbitrium.                                                                                                                                        praecognitionis , quae                                    est           concors, certa et infal-
-                            .\d        inteiiigentiam                             autem obiectorura notandum,                                                     libilis.             Concors , quia praescientia sive praecognitio ^
-Lestiiia-   quod praedestiuatio duo importat: et rationem prae-                                                                                                   vera: qui enim cognoscit vere cognoscit, rem prae-
-T. ""' scientiae     et rationem causae. In quanlum dicit ra-                                                                                                     sentem esse, sicut est.                                       et        futuram ita evenire, sicnt
-   cnn-tionem causae, non necessario ponit effectum, quia                                                                                                         eveniet. Est                     enim         veritas                   adaequatio             rei     et intelle-
-            non est causa per necessitatem, sed per voluntatem:                                                                                                   ctus\                Est      itenim               certa, quia                   independens,                           quia
-            et      iterum, non est tota cansa, sed                                                                     cum alia causa                            nuUo modo pendet ex                                            praecognito. Non                            enim             se-
-
-            contingente, scilicet                                          cum libero                      arbitrio.                    Et      regula            cundum                 eius            exigentiam                   cognoscit, sed                    secundum
-            est,            quod quotiescumque                                           effeetus                   pendet ex causa                               exigentiam                       luminis            et        claritatis              aeternae, in         qua
-            necessaria et variabili                                               —      a necessaria                              tanquam ab                     nulla cadit dubietas, sed certitudo                                                         summa          ;       et ideo
-            uaiversali                  ,        a variabili tanquam a particulari                                                               —      de-       de omnibus aequaliter certa                                               est.    Est         iterum                infal-
-            nominatur a variabili, quia denominatio est a causa                                                                                                   libilis ,            quoniam              est       tolum                posse praesciti circum-
-            particulari ' ;                           et        effectus ,                   qni           dependet                        a      causa           plectens; et ideo in nullo potest                                                 falli       nec circumve-
-            contingente,                              est       contingens.                         — Praeter rationem                                            niri.       —         Et est            exemplum                        Boethii in libro de Con-
-  piae-     causae importat                                 -
-                                                                  rationem praescimtiae ; et prae-                                                                solatione quinto",                             quodsi               aliquis           aspiceret de loco
-
-
-
-
-            mur aut vitupereniur. Adde quod facuUate praediti et potentes                                                                                         libro       hanc invenimus definitionem                                  veritatis et falsitatis : « Veri-
-            natura sumus, boni aul mali, sicut                                                      superius                  diximus, natura                     tas est id            quod est           res ;      secundum                  alios,       veritas        est      sermo
-            mininie cflicimur.                                                                                                                                    ciuem conflrmat demonstratio vel sensibiliter vel intellectualiter                                                            ;
-
-
-                        1    Ratia est, quia eflectus magis assimilatur                                                              causae           parti-      sermo autem iste sic est, ut deflnitio, quoniam est enuntiativa
-            culariquam universali. Sic, ut exemplum afferamus Scholasti-                                                                                          naturae et essentiae rei  similiter et sermo dicentis
-                                                                                                                                                                                                                 ;         veritas                                               :
-
-
-
-            corum, homo genitus magis assimilatur homini generanti quam                                                                                           quidem est enunliativa naturac et essenliae veritatis, quantum
-            soli,           quia sol est universale geneinns. Cfr. etiam supra                                                                    d.    38.       id sibi      quod est res, vere est, et veritas non est nisi quod
-            a.     2. q.          2.   in corp.             circa finem, et d.                            14. a.             I.     q.     1.     ad     6   ,
-                                                                                                                                                                  est.    Falsitas est quod non estres.et dicitur oratio, qua de ali-
-            ubi simile de nccessai-io et contingente habetur.                                                                                                     quo      dicitur eius contrarium.                             Verum est afflrmatio rei de re, a
-                        -    Supple              cum cod. R praedestimtio.                                                                                        qua [non?] removetur vere                                 ;    falsum vero est cius contrarium
-                        3    Dist.      38.       a.    2.      q.        2   ;   d.   39.     a.     I.       q.       2.    ad 3, et ibid. a.                   rectiim est      quod impossibile est removeri ».    Definitio veri-                         —
-            2.     q.       2.    — De                ultinia             proposit.           corp.            cfr.          supra         d.     38.     a.      tatis,      a S. Doctore proposita, quoad verba magis convenit cum
-            2.     q.        \.                                                                                                                                   illa    deflnitione          ,
-                                                                                                                                                                                                    quam Averroes                     proponit iii libro                 « Deslructio
-                        *    Cod.       T cognitio.                                                                                                               destructionum »                   ,   disp.    metaph.             I.    circa flnem (dub. 22.) : « Ve-
-                        5    Haec             communiter a Scholasticis aut
-                                            deflnitio           veritatis                                                                                         ritas    namque, ut declaratum cst in' sua declaratione                                                        (deflnitio-
-            .4ristoteIi attribuebatur, aut cuidam Isaac, qui scripsit librum                                                                                      ne), est aequare                      rem ad intellectum, scilicet quod reperiatur
-            de Definitionibus.                         Si       verba tanlum spectas                                ,    deflnitio veritatis a                    in aniina, sicut cst extra                   animam » (ed. .Venet. I49S.)       et                                      —
-            S.     Doctore hic proposita neque                                           in    uno neque                      in    altero        occur-          cum definitione Avicennae                            I.       Metaph. c.         9,        quae est   ;   Veritas au-
-            rit,    sed si ad sententiam intendis,                                             illa       deflnitio                habetur            apud        tem...      intelligitur dispositio dictionis                              vel    intellectus,             qui signal
-            utrumque. Arislotcles multis                                           locis      de veritate                    et falsilate oratio-                 dispositionem                in       re exteriori,           cum est            ei        aequalis. Cfr.               etiam
-            nis loquens docet,                              oralionem esse                         veram,                si       enuntiet            rem         Anselm.          ,   libr.    de Veritate.           —          Paiilo        post          pro     pendet plures
-            sicuti est; at                   falsam,            si        enuntiel           rem,        siciit          non        est.      Cfr. libr.          codd. ut             X Z aa bb dependet ; deinde pro eius exigentiam Vat.
-            de Praedicam.                        c.    de Si(bstantia ;                       I.    Periherm.                      c.    7.     (c.    9.)        cum cod. cc eius (i. e. praecogniti) existeniiam ; demum pro
-            III.    de Anima                 ,    text.      21   .       seqq.        (c.    6.) ;      et IV.              .Metaph. text.             27.       el ideode omnibus multi codd. cum ed.       perperam et ideo                           I
-
-
-
-            (III.   c.        7.)      nec non V. Metapli.                             lext. 34. (IV.                    c. 29.).        In libro IX.             omnibus.
-            Metaph.               text.      21. (VIII.               c.      10.)     autemait:                <t      Quamobrem verum                                   "   Prosa 6, ubi auctor de providentia loquens                                                 ait:         »   quod
-            (Ucit,qui divisum dividi et compositum componi putat; falsum                                                                                          porro ab rebus infirmis constiluta quasi ab excelso rerum cacu-
-            autem, qui contra quam ros se habeant, aut quando sunl aut                                                                                            mine cuncta prospiciat »... Et ibid. praescientiae immutabilita-
-            non sunt ». Quod ad Isaac attinet, inspeximus Monachii cod.                                                                                           tem impugnanti respondet: Propositum te quidem tuum po.sse
-            Bibl. reg. n.                   8001, W., qui a                            fol.        ISI     vers. usque ad                       fol.    IS4       deflectere, sed qiioniam et id te posse, et an facias, quove con-
-            vers. continct laudati                               Isaac            librum            dc Deflnitionibus.                           In    quo        vertas, praesens providentiae veritas intuetur, divinam te prae-
+---
 
 ## English
 
-[Translation pending]
+<!-- page 706 -->
+
+### Article II. *On predestination as regards necessity.*
+
+Secondly, with respect to this first article, inquiry is made concerning the necessity of predestination. And about this two things are asked. First it is asked whether it imposes the necessity of salvation on free choice. Secondly, whether it imposes certainty in the outcome.
+
+### Question I.
+#### *Whether predestination imposes the necessity of salvation.*
+
+That it does impose necessity is shown thus.
+
+1. *Every* cause which is necessary in itself and necessarily posits its effect imposes necessity simply on the effect; but predestination with respect to salvation is of this kind: therefore etc. The minor is plain. For predestination, since it is God in himself, denotes something necessary; and again, it necessarily imposes its effect, since it necessarily follows: *if he is predestined, he will be saved*: therefore etc.
+
+2. *Likewise*, every cause which can in no way be voided posits necessity in the production of its effect — for a cause is said to be voided when it posits no effect — but predestination can in no way be voided: therefore predestination posits necessity.
+
+3. *Likewise*, whenever two causes concur to some effect, which it is impossible for them to be at variance, if one is immutable, it is necessary that the other be immutable, and the effect consequently. This is plain in itself: for if the other be mutable, while the remaining one is immutable, it is possible for them to be at variance. But it is impossible that predestination and free choice be at variance: therefore since predestination is an immutable cause, it is necessary that free choice be immutable; and if this, since the whole is immutable, it remains then that predestination imposes necessity on free choice and on salvation.
+
+4. *Likewise*, it appears that the predestined can in no way be damned, and if this, then he is necessarily saved; and it is shown by this reasoning: these two are convertible, *to be foreknown* and *to be damned*, *to be predestined* and *to be saved*; but the predestined cannot be foreknown: therefore he cannot be damned. Proof of the middle. When any two are so related that it is impossible for one to succeed the other, nor can they inhere together, if one inheres, it is impossible for the remaining one to inhere; but *to be predestined* and *to be foreknown* are so related, that it is impossible for them to inhere together in the same; it is impossible also for one to succeed the other, namely that a man should first be predestined and afterwards foreknown: therefore since he is predestined, he can in no way be foreknown: therefore etc.
+
+5. *Likewise*, of every thing which is eternal, when it is not, it is impossible that it be, since it is impossible that what is not be eternal; but if a man is foreknown, he is eternally foreknown: therefore him who is not foreknown, it is impossible to be foreknown. But the predestined is not foreknown: therefore etc.
+
+6. *Likewise*, of that which is not, it is the same to say, that *this can be*, and that *it can[^1] begin to be*; but *foreknown* is something not-being with respect to the predestined: therefore it is the same to say, *the predestined can be foreknown*, as *he can begin to be foreknown or damned*. But he cannot begin to be foreknown, therefore etc.
+
+**On the contrary:**
+
+1. The divine predestination causes no one to be saved unworthily: therefore since dignity in being saved looks to merit, and merit to free choice, therefore predestination does not take away the freedom of choice, in respect of which it is free choice: therefore neither does it impose necessity.
+
+2. *Likewise*, predestination takes nothing away from free choice, but only places grace in it; but grace imposes no necessity on free choice, neither therefore does predestination: if it imposes no necessity on it[^2], then since salvation depends on free choice, it is plain etc.
+
+3. *Likewise*, if predestination imposes necessity, then since, every contingent case being granted, it is necessary that he who is predestined be saved, therefore in vain does anyone labour to do well; since, whether he do good or ill, it is necessary that he be saved.
+
+4. *Likewise*, no one is praised for that which is of necessity, nor blamed[^3]: if therefore it is necessary that the predestined be saved and the foreknown be damned, then neither is the predestined to be praised, if he is saved, nor the foreknown to be blamed, if he is damned; which is contrary to the state of glory and of punishment.
+
+<!-- page 707 -->
+
+### Conclusion.
+
+> *Predestination, neither by reason of causality nor by reason of foreknowledge, imposes necessity, whether with respect to salvation or with respect to free choice.*
+
+**I respond:** It must be said that predestination neither imposes necessity on salvation, nor imposes necessity on free choice, since predestination is not the cause of salvation save by including merits, and so by saving free choice.
+
+For the understanding of the objections it is to be noted that predestination implies two things: both the character of foreknowledge and the character of cause. Insofar as it denotes the character of cause, it does not necessarily posit its effect, since it is not a cause by necessity, but by will: and again, it is not the whole cause, but together with another contingent cause, namely with free choice. And the rule is, that whenever an effect depends on a necessary and a variable cause — on the necessary as on a universal, on the variable as on a particular — it is denominated from the variable, since denomination is from the particular cause[^4]; and the effect, which depends on a contingent cause, is contingent. — Besides the character of cause, it implies[^5] the character of foreknowledge; and foreknowledge indeed includes the whole within cognition, since it includes free choice and its cooperation and changeability, and the whole. And besides, it is not save of the true, and even of the contingent true it is infallible, as has been shown above in the question on foreknowledge[^6]. Therefore predestination imposes salvation, and cannot be voided nor be at variance with free choice. And since foreknowledge imposes no necessity of the consequent, but only of the consequence, neither does predestination.
+
+*To 1, 2, 3.* From this are plain the first three objections concerning the necessity of imposing, the impossibility of being voided, and the impossibility of being at variance. For all these speak of necessity of consequence only, since they belong to predestination not by reason of causality, but of pre-cognition, which is concordant, certain, and infallible. Concordant, because foreknowledge, or pre-cognition[^7], is true: for he who knows truly knows that the present thing is, just as it is, and that the future will so come about, just as it will come about. For *truth is the adequation of thing and intellect*[^8]. It is again certain, because independent, since it depends in no way on the foreknown. For it does not know according to its requirement, but according to the requirement of the eternal light and clarity, in which there falls no doubt, but the highest certitude; and therefore it is equally certain about all things. It is again infallible, since it is wholly encompassing the *posse* of the foreknown; and therefore in nothing can it be deceived nor circumvented. — And there is the example of Boethius in book five *of the Consolation*[^9], that if someone should look from a <!-- page 708 -->lofty place at the surrounding region, where there is a multitude of paths, he would see them all together at one glance; one walking through that place[^10], although he can go by diverse paths, could nevertheless not escape his sight, for the reason that he could go by no path which that one would not see. If therefore one sight be understood[^11], which could foresee all the paths and the whole *posse* of the goer, in no way could anyone forestalling him escape him. And such is the gaze of divine foreknowledge, since from eternity it knew everything that we could think or will; and at the same time with this it saw to which side our will and operation would be inclined. And since it embraces the whole *posse* and willing and acting, therefore it cannot be deceived. And since predestination encloses foreknowledge, hence it is, that it is concordant with free choice, and cannot be at variance and cannot be voided; and it necessarily imposes salvation, but does not necessarily effect it[^12].
+
+*To 4.* To that which is asked, whether the predestined can be damned; it must be said that he can, without distinction, since although this can be distinguished as to the thing or the *dictum*[^13]: *the predestined to be damned is possible*, just as this: *the white is possibly to be black*; this however is not to be distinguished by the rules of art: *the predestined can be damned*, just as neither this: *the white man can be black*. For it cannot be of the *dictum*, since it is not a *dictum*.
+
+On account of which it must be understood, that this proposition has[^14] three causes of truth: *the predestined can be damned*, just as this: *the predestined can be foreknown*: either because the form of the predicate can inhere in the subject with the form implied, or after the form implied, or without the form implied. For in whatever way the predicate can inhere, the locution is to be judged simply true; and I say, that in the third sense the locution is true[^15]: *the predestined can be foreknown*. For the predestined can not be predestined, and it is necessary that every man be either predestined, or foreknown; and therefore it follows, that he can be foreknown. And this indeed is necessary to be posited. For faith says and reason that it follows: *if he is predestined, he will be saved*. Again, faith says and reason, that for him to be saved is contingent; and he who would say and assert the contrary, would have to be rejected, by the certain judgment of all. And again, art says, that if the consequent is contingent, it is impossible that the antecedent be necessary, and this has been proved above by three rules[^16]; and he who would say the contrary of this, would destroy the whole syllogistic art, whose force of inference is, that the opposite of the consequent cannot stand with the antecedent. But it is certain, that the opposite of a contingent stands with the necessary[^17]. Therefore that this man be predestined is not necessary. And it is necessary, or contingent, or impossible; and it is not impossible nor necessary: therefore it is contingent; and a contingent can not be: therefore this man who is predestined can not be predestined.
+
+And this indeed I believe must be posited, this however is difficult to understand. It can however be grasped thus, if we presuppose four true things. The first is, that the present of the divine eternity embraces all time, the same and uniform; and this Anselm says in his book *On the Concordance of foreknowledge and of free choice*[^18], that « *just as the present time embraces every place, and everything that is in place, so the present of eternity embraces all time* ». And this is necessary to be posited, although we cannot fully understand this. For we see its opposite to be false and impossible: since if this were not so, then the present of the divine eternity would be changed. — The second is that, that God by one and the same knows all things, so that there is one cognition of God, by which he knows this and by which he knows its opposite. And this has been proved above[^19] by authority and by reason, not only as to that by which it is known, but also as to the act of divine cognition. — The third is, that when we say, that the divine cognition or will is ordered to this knowable and to that, no order or relation is posited in God in act, but only on the side of the created or known thing; and this indeed, as has been foreseen[^20], is not posited in act, but in habit, nor as of the present but as of the future. — The fourth is, that the future under <!-- page 709 -->the character of the future, which is once posited as being true, is posited as having always been true, and that which is once posited as being false, is posited as having always been false; and therefore when it is posited as being able to be, it is posited neither to be changed nor to begin[^21].
+
+These things being presupposed it is easy to understand, that the predestined can be foreknown, and that God could have predestined him whom he foreknew. For it is constant, that the salvation of him who is foreknown could from eternity have been foreseen, since it can be or come about in time; and if it could from eternity have been ordered to the divine cognition and will, it can also now. For since the present is whole, and nothing has passed into the past, and nothing has been done, that it is necessary to have been done; hence it is, that just as it can be thought, that he could truly[^22] also have not predestined from eternity, so also, that he could now, that is, in his *now of eternity*, not have predestined. And this the Master says in the letter. Yet the eternal act of the divine cognition cannot be thought not to have been, but rather that this contingent future was not ordered to it[^23]; and if this is posited, no change is posited in the eternal present, since no succession is posited; nor is a change posited in the cognition, since no other cognition is posited in God, nor in the order on the side of the knower, since no other order is posited in God, nor in the order on the side of the known, since on that side nothing is posited save the future: and that, when it is not, can be thought to be, and can be future without change[^24].
+
+And this whole is more clearly opened up, if we come to the signification of these words *foreknown* and *predestined*. For *predestined* and *foreknown* are two words, and as to the principal signification they import the divine essence, as to the connotation they import future contingents. As to the principal signification therefore they are the same; but as to the connotation, since they are contingents, which do not inhere of necessity, one can be the other[^25]. But since the connoted are not only contingents, but also of the future, which posit nothing in act, they can not inhere and can inhere without change. For when they are posited as inhering truly of the future, they are posited as having always been so, and when they are posited as not being, they are posited as never having been so, as is plain; and Anselm[^26] says, if it be said that something is future contingently, it is established that it is possible that it be not future; and if it is future, it has always been true, that itself is future. And therefore this is true without change and without beginning: *the predestined can be foreknown*. For there is no repugnance either on the side of the signified or on the side of the connoted, and this is plain, if they be resolved[^27]. For the sense is: *this man is predestined*, that is, this man is foreknown by God and will be saved by God's grace. Likewise: *this man is foreknown*, the sense is: this man is foreknown and will be damned through his own fault. For it is established, that in the divine cognition there is no difference in itself, but only in what is connoted. Since therefore one to be saved can be damned, the predestined can be foreknown without any change.
+
+*To 5, 6.* From this are plain the other three objections: for the first and the last are understood in forms which posit something in act around the subject; the second on the other hand of that which is so eternal, that it connotes nothing temporal. But such are not *to be foreknown* and *to be predestined*[^28]. And so all are plain.
+
+### Scholion
+
+**I.** Granted the distinction between *absolute necessity*, or *of the consequent*, and *hypothetical*, or *of the consequence* or *of the inference* (above d. 38. a. 2. q. 1.), in this question we are dealing principally with absolute necessity, but at the end of the corpus also with hypothetical necessity. Furthermore, in the solution to 4., a special question is treated, in what sense it can be said that *the predestined can be damned*. — Manifestly heretical, and condemned by the Council of Constance, with Martin V. approving, was the proposition (prop. 27.) of Wycliffe: « *All things happen of absolute necessity* ».
+
+**II.** That the Catholic doctrine may better be understood, the Seraphic proves part by part, that neither the *character of causality*, nor the *character of knowledge*, which are implied in predestination, impose necessity on free choice. It is known that the early antient heretics[?], Calvin, and many others so exalted the causality of predestination and the efficacy of grace, that the true causality and contingency of free choice should be taken away, and as it were that this should be moved by God, without itself moving and determining itself. Which most pernicious error has been reproved by the Council of Trent, Sess. 6. can. 4. Whence Catholic doctors unanimously teach, that the action of the first cause does not exclude the true and free cooperation of the second cause, nor that the motion or efficacy of grace impedes the created will from truly moving and determining itself. But sharply too, even among Catholic schools, has it been disputed concerning the manner of *existing* of that cooperation, especially between two famous schools, in this question opposed to one another. For the school which is called of the Thomists, affirms it to be the true doctrine of St. Augustine and St. Thomas, that the divine will by its causality intrinsically efficacious imposes the free consent of the created will, not only as to the substance of the act, but also as to the mode of liberty (cf. St. Thomas, *S.* I. q. 19. a. 8, q. 83. a. 1. ad 3, q. 103. a. 1; *S. c. Gent.* III. c. 89; *de Veritate* q. 6. a. 3. ad 3.). In this opinion the certainty of the divine foreknowledge is also explained from the efficacious decrees of the divine will itself. The other school, in order to explain the infallibility and efficacy of the divine decree of predestination together with the indifference of free choice, employs *middle knowledge* (*scientia media*), by which is foreseen what the will is going to do of itself, but with the help of prevenient grace, antecedently to every absolute divine decree; and by this way it defends the *divine concourse congruent* with liberty and an indifferent motion, which does not antecede the determination of the will, but is simultaneous with it, or, as some seem to teach, rather follows it. — St. Bonaventure on the causality of the divine will in this place says nothing that is not generally received. See more below at d. 45. a. 2. q. 1. 2; and on divine motion, *II. Sentences* d. 28. p. II. q. 4. 5; d. 37. a. 1. q. 1, d. 26. q. 6, d. 14. p. I. a. 3. q. 1.
+
+But as to the other character, namely of foreknowledge, it is manifest, especially from the solutions to 1. 2. 3, that St. Bonaventure refers the certainty which is in predestination, not to the causality implied in it, but to the nobility of divine knowledge; whence he rather has recourse to foreknowledge, in order to show the concord of predestination with the liberty of creatures; nay, his very words in this place seem to exclude altogether the character of causality, since he says « *not by reason of causality* ». But St. Thomas (*de Veritate* q. 6. a. 3. in the corpus) on the certainty of predestination seems to think otherwise, since he says: « *Whence besides the certainty of foreknowledge the very order of predestination has an infallible certainty, yet the proximate cause of salvation is not ordered to it necessarily, but contingently, namely free choice* » (cf. *S.* I. q. 23. a. 7.). We think however, that St. Bonaventure does not in this precisely dissent from St. Thomas, since elsewhere (in the next question, in the corpus) he refers, besides the certainty of infallible knowledge, also a certainty of immutability, springing from the divine disposition and ordination, which includes a decree of the will; whence it is said below (d. 45. a. 2. q. 1. ad 2.): « *the will makes a disposition out of knowledge* ». Furthermore, that the very foreknowledge of God is, according to St. Bonaventure, founded on the causality, namely[?], of knowledge, has already been said above at d. 39. a. 1. q. 1, in the Scholion. That however this causality is not understood by him in the sense of efficient cause alone, is sufficiently manifested also here in the solution to 1. 2. 3.
+
+**III.** In the solution to 4. the locution is subtly discussed: whether *the predestined can be damned*, and many profound and notable things are adduced to prove the way of the holy Doctor, which differs somewhat from that which others rather hold. For he distinguishes two propositions; modal, in which the signified of the *dictum* is placed in the *direct* (*recto*), and such is the form of the proposition: *the predestined can be damned*; modal, in which the signified is placed in the *oblique*, by accusative and infinitive verb, of which kind is the proposition, *it is possible, the predestined to be damned*. That a proposition in this second form ought to be distinguished, the Seraphic too affirms with the common opinion. For either this proposition is understood *of the dictum* and in the composite sense, and then it is false (as: *for white to be black, is possible* in the [composite] sense; this proposition: *white is black*, is possible); or *of the thing* and in the divided sense (as: *the thing now white can be made black*). The distinction *of the thing* and *of the dictum*, which the Master too uses in this distinction, is explained by St. Thomas, *S.* I. q. 14. a. 13. ad 3. — But the first form of proposition St. Bonaventure admits without distinction as true, while the Master (here c. 1.), St. Thomas (*S.* I. q. 23. a. 6. ad 3.), Scotus, Richard of Mediavilla, Durandus, and others use, even in this form, the distinction of the composite and divided sense. The Seraphic proves his assertion, by supposing a threefold sense of that proposition (« *it has three causes of truth* »); and this can be true, if one of the three senses is simply true. For the subject *predestined* can be understood either « *under the form implied* », i. e. reduplicatively *predestined as predestined*, and so it is false; or « *after the form implied* », i. e. one who was previously predestined, afterwards is made reprobate, and so again is false; or « *without the form implied*», i. e. considering the subject absolutely, and then the predicate *can be damned* is rightly said of the subject, as is proved in the following and here at dub. 4. 5.; which is afterwards in some measure explained by four profound and very notable principles. — The solutions to 5. 6. are made by the same principles which St. Thomas employs, *de Veritate* q. 6. a. 3. ad 8.
+
+**IV.** Alex. of Hales, *S.* p. 1. q. 28. m. 4. throughout. — Scotus, here q. unica; and *Reportata* here q. unica. — St. Thomas, on this and the following q., here q. 3; *S.* I. q. 22. a. 4, q. 23. a. 6; *de Veritate* q. 6. a. 3. — B. Albert, here a. 14. 15. 16; *S.* on this and the following q., p. 1. tr. 10. q. 63. m. 3. a. 2. — Peter of Tarentaise, here q. 2. a. 1. — Richard of Mediavilla, here a. 2. q. 1. 2. — Aegidius Romanus, here 1. princ. q. 2. — Dionysius the Carthusian, on this and the following q., here q. 2.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Multi codd. perperam omittunt secundum *posse*.
 
-## Notes
+     **En.** Many codices wrongly omit the second *posse*.
 
-[Notes pending]
+[^2]: **La.** In Vat. et cod. cc desunt verba *si nullam ei imponit necessitatem*.
+
+     **En.** In the Vatican edition and codex cc the words *si nullam ei imponit necessitatem* are missing.
+
+[^3]: **La.** Cfr. Aristot., II. *Ethic.* c. 5: *Propterea (virtutes) neque facultates et potentiae sunt, quippe cum neque boni neque mali ob id dicamur, quod absolute agere possimus neque laudemur aut vituperemur. Adde quod facultate praediti et potentes natura sumus, boni aut mali, sicut superius diximus, natura minime efficimur*.
+
+     **En.** Cf. Aristotle, II. *Ethics* c. 5: *On this account (the virtues) are neither faculties nor potencies, since we are called neither good nor bad on account of being able simply to act, nor are we praised or blamed on that ground. Add that we are by nature endowed with faculty and powerful, but good or bad, as has been said above, we are by no means made by nature*.
+
+[^4]: **La.** Ratio est, quia effectus magis assimilatur causae particulari quam universali. Sic, ut exemplum afferamus Scholasticorum, *homo genitus magis assimilatur homini generanti quam soli, quia sol est universale generans*. Cfr. etiam supra d. 38. a. 2. q. 2. in corp. circa finem, et d. 14. a. 1. q. 1. ad 6, ubi simile de necessario et contingente habetur.
+
+     **En.** The reason is, that the effect is more assimilated to the particular cause than to the universal. Thus, to bring forward the example of the Scholastics, *the begotten man is more assimilated to the man begetting than to the sun, since the sun is a universal generator*. Cf. also above d. 38. a. 2. q. 2. in the corpus near the end, and d. 14. a. 1. q. 1. ad 6, where a similar thing is had concerning the necessary and the contingent.
+
+[^5]: **La.** Supple cum cod. R *praedestinatio*.
+
+     **En.** Supply with codex R *praedestinatio*.
+
+[^6]: **La.** Dist. 38. a. 2. q. 2; d. 39. a. 1. q. 2. ad 3, et ibid. a. 2. q. 2. — De ultima proposit. corp. cfr. supra d. 38. a. 2. q. 1.
+
+     **En.** Distinction 38. a. 2. q. 2; d. 39. a. 1. q. 2. ad 3, and at the same place a. 2. q. 2. — On the last proposition of the corpus cf. above d. 38. a. 2. q. 1.
+
+[^7]: **La.** Cod. T *cognitio*.
+
+     **En.** Codex T reads *cognitio*.
+
+[^8]: **La.** Haec definitio veritatis communiter a Scholasticis aut Aristoteli attribuebatur, aut cuidam Isaac, qui scripsit librum *de Definitionibus*. Si verba tantum spectas, definitio veritatis a S. Doctore hic proposita neque in uno neque in altero occurrit, sed si ad sententiam intendis, illa definitio habetur apud utrumque. Aristoteles multis locis de veritate et falsitate orationis loquens docet, orationem esse veram, si enuntiet rem sicuti est; at falsam, si enuntiet rem, sicut non est. Cfr. libr. *de Praedicam.* c. *de Substantia*; I. *Periherm.* c. 7. (c. 9.); III. *de Anima*, text. 21. seqq. (c. 6.); et IV. *Metaph.* text. 27. (III. c. 7.) nec non V. *Metaph.* text. 34. (IV. c. 29.). In libro IX. *Metaph.* text. 21. (VIII. c. 10.) autem ait: « *Quamobrem verum dicit, qui divisum dividi et compositum componi putat; falsum autem, qui contra quam res se habeant, aut quando sunt aut non sunt* ». Quod ad Isaac attinet, inspeximus Monachii cod. Bibl. reg. n. 8001, W., qui a fol. 181 vers. usque ad fol. 184 vers. continet laudati Isaac librum *de Definitionibus*. In quo libro hanc invenimus definitionem veritatis et falsitatis: « *Veritas est id quod est res; secundum alios, veritas est sermo quem confirmat demonstratio vel sensibiliter vel intellectualiter; sermo autem iste sic est, ut definitio, quoniam est enuntiativa naturae et essentiae rei; similiter et sermo dicentis veritas: quidem est enuntiativa naturae et essentiae veritatis, quantum id sibi quod est res, vere est, et veritas non est nisi quod est. Falsitas est quod non est res, et dicitur oratio, qua de aliquo dicitur eius contrarium. Verum est affirmatio rei de re, a qua [non?] removetur vere; falsum vero est eius contrarium; rectum est quod impossibile est removeri* ». — Definitio veritatis, a S. Doctore proposita, quoad verba magis convenit cum illa definitione, quam Averroes proponit in libro « *Destructio destructionum* », disp. metaph. I. circa finem (dub. 22.): « *Veritas namque, ut declaratum est in sua declaratione (definitione), est aequare rem ad intellectum, scilicet quod reperiatur in anima, sicut est extra animam* » (ed. Venet. 1495.) — et cum definitione Avicennae I. *Metaph.* c. 9, quae est: *Veritas autem... intelligitur dispositio dictionis vel intellectus, qui signat dispositionem in re exteriori, cum est ei aequalis*. Cfr. etiam Anselm., libr. *de Veritate*. — Paulo post pro *pendet* plures codd. ut X Z aa bb *dependet*; deinde pro *eius exigentiam* Vat. cum cod. cc *eius* (i. e. praecogniti) *existentiam*; demum pro *et ideo de omnibus* multi codd. cum ed. 1 perperam *et ideo I omnibus*.
+
+     **En.** This definition of truth was commonly attributed by the Scholastics either to Aristotle, or to a certain Isaac, who wrote a book *On Definitions*. If you regard only the words, the definition of truth here proposed by the holy Doctor occurs in neither of the two; but if you attend to the sense, that definition is had in both. Aristotle in many places, speaking of the truth and falsity of speech, teaches that speech is true if it expresses a thing as it is; but false, if it expresses a thing as it is not. Cf. the book *On the Categories* c. *On Substance*; I. *Periherm.* c. 7 (c. 9); III. *On the Soul*, text 21 ff. (c. 6); and IV. *Metaphysics* text 27 (III. c. 7), as also V. *Metaphysics* text 34 (IV. c. 29). In book IX. *Metaphysics* text 21 (VIII. c. 10) however he says: « *On which account he speaks the truth, who reckons the divided to be divided and the composite to be composed; but he speaks falsely, who [reckons] otherwise than things are, either when they are or when they are not* ». As for what concerns Isaac, we have inspected at Munich the codex of the royal Library n. 8001, W., which from fol. 181 verso to fol. 184 verso contains the said book of Isaac *On Definitions*. In which book we have found this definition of truth and of falsity: « *Truth is that which is the thing; according to others, truth is a discourse which demonstration confirms either sensibly or intellectually; but that discourse is so, as a definition, since it is enunciative of the nature and essence of the thing; likewise also the discourse of the speaker: truth indeed is enunciative of the nature and essence of truth, in so far as that to itself which is the thing, truly is, and truth is nothing save what is. Falsity is that which is not the thing, and it is called a discourse by which the contrary of something is said of it. The true is the affirmation of a thing of a thing, from which [non?] truly is removed; but the false is its contrary; the right is what it is impossible to remove* ». — The definition of truth proposed by the holy Doctor, as to the words, agrees more with that definition which Averroes proposes in the book « *Destruction of Destructions* », disputation of metaphysics I, near the end (dub. 22): « *For truth, as has been declared in its declaration (definition), is to equate the thing to the intellect, namely that there be found in the soul as it is outside the soul* » (ed. Venice 1495) — and with the definition of Avicenna I. *Metaphysics* c. 9, which is: *But truth... is understood the disposition of speech or of the intellect, which signifies the disposition in the exterior thing, when it is equal to it*. Cf. also Anselm, book *On Truth*. — A little later, for *pendet* several codices like X Z aa bb read *dependet*; then for *eius exigentiam* the Vatican edition with codex cc reads *eius* (i. e. of the foreknown) *existentiam*; finally for *et ideo de omnibus* many codices with ed. 1 wrongly read *et ideo I omnibus*.
+
+[^9]: **La.** *Prosa* 6, ubi auctor de providentia loquens ait: « *quod porro ab rebus infirmis constituta quasi ab excelso rerum cacumine cuncta prospiciat* »... Et ibid. praescientiae immutabilitatem impugnanti respondet: *Propositum te quidem tuum posse deflectere, sed quoniam et id te posse, et an facias, quove convertas, praesens providentiae veritas intuetur, divinam te praescire non posse vitare*, sicuti praesentis oculi effugere non possis intuitum, quamvis te in varias actiones libera voluntate converteris... *Omne namque futurum divinus praecurrit intuitus et ad praesentiam propriae cognitionis retorquet ac revocat*. Cfr. et ibid. — Paulo inferius *Metr.* 2. pro *locum* illum Vat. cum cod. cc *locum suum*.
+
+     **En.** *Prose* 6, where the author, speaking of providence, says: « *moreover, [the gaze] situated apart from feeble things, looks upon all as from the lofty summit of things* »... And in the same place, replying to one impugning the immutability of foreknowledge: *That you indeed can deflect your purpose, but since the present truth of providence beholds both that you can do this, and whether you do, and whither you turn, you cannot escape divine foreknowledge*, just as you cannot escape the gaze of the present eye, although you turn yourself to diverse actions by free will... *For the divine intuition outruns every future and recalls and brings it back to the presence of its proper cognition*. Cf. also there. — A little later, *Metre* 2, for *locum* illum the Vatican edition with codex cc reads *locum suum*.
+
+[^10]: **La.** *Prosa* 6 (continuatio): textus Boethianus pertinet ad supra citatum locum.
+
+     **En.** *Prose* 6 (continuation): the Boethian text belongs to the place cited above.
+
+[^11]: **La.** Intellige: *visum*. — Pro *praevenientem* sola Vat. *praevidentem*, et aliquanto inferius *inclinantur* pro *inclinaretur*.
+
+     **En.** Understand: *sight* (*visum*). — For *praevenientem* the Vatican edition alone reads *praevidentem*, and somewhat later *inclinantur* for *inclinaretur*.
+
+[^12]: **La.** Sive, ut aliis verbis utamur, est *necessitas in consequendo*, sed non *in efficiendo*. Cfr. supra d. 38. a. 2. q. 1.
+
+     **En.** Or, to use other words, there is *necessity in consequence*, but not *in effecting*. Cf. above d. 38. a. 2. q. 1.
+
+[^13]: **La.** Cfr. hic lit. Magistri, c. 1, ubi dictum, distinguitur a vero, et sensus *compositus* a sensu *diviso*.
+
+     **En.** Cf. here the *Letter of the Master*, c. 1, where the saying is distinguished from the true, and the *composite* sense from the *divided* sense.
+
+[^14]: **La.** Vel potius: *habere potest*.
+
+     **En.** Or rather: *can have*.
+
+[^15]: **La.** Pro faciliore huius loci intelligentia non inutile erit, propositionem: *Quocumque enim modo praedicatum possit inesse, iudicanda est locutio simpliciter vera*, ut maiorem syllogismi accipere, et dein post verba *simpliciter vera*, ut minorem haec verba addere: *sed in ista propositione forma praedicati subiecto non inesse potest nisi in tertio sensu* i. e. *sine forma implicata*, et tunc conclusionem facere: *ergo dico, quod in tertio* etc.
+
+     **En.** For the easier understanding of this place it will not be unhelpful, to take the proposition: *In whatever way the predicate can inhere, the locution is to be judged simply true*, as the major of the syllogism, and then after the words *simply true*, to add as the minor these words: *but in this proposition the form of the predicate cannot inhere in the subject save in the third sense*, i. e. *without the form implied*, and then to make the conclusion: *therefore I say, that in the third* etc.
+
+[^16]: **La.** Dist. 38. a. 2. q. 2. fundam. 1-3. — Paulo ante loco voculae *supra* in plurimis codd. falso legitur *sophisma*.
+
+     **En.** Distinction 38. a. 2. q. 2. foundations 1-3. — A little earlier, in place of the little word *supra*, in most codices is wrongly read *sophisma*.
+
+[^17]: **La.** Vide loc. cit. secundam et tertiam regulam. — Vat. cum uno alterove cod. perperam *non stat* pro *stat*.
+
+     **En.** See at the cited place the second and third rule. — The Vatican edition with one or two codices wrongly reads *non stat* for *stat*.
+
+[^18]: **La.** Quaest. 1. c. 5: « *Quemadmodum praesens tempus continet omnem locum et quae in quolibet loco sunt, ita aeterno praesenti simul clauditur omne tempus et quae sunt in quolibet tempore* ».
+
+     **En.** Question 1. c. 5: « *Just as the present time contains every place and the things which are in any place, so to the eternal present is shut up at once all time and the things which are in any time* ».
+
+[^19]: **La.** Dist. 39. a. 1. q. 1, et q. 3. ad 4, nec non a. 2. q. 1, et q. 3. ad ult. — Paulo superius post *uno et eodem* cod. Z supplet *respectu vel modo*.
+
+     **En.** Distinction 39. a. 1. q. 1, and q. 3. ad 4, as also a. 2. q. 1, and q. 3. ad ult. — A little earlier, after *uno et eodem*, codex Z supplies *respectu vel modo*.
+
+[^20]: **La.** Dist. 38. a. 2. q. 2, et hic a. 1. q. 1.
+
+     **En.** Distinction 38. a. 2. q. 2, and here a. 1. q. 1.
+
+[^21]: **La.** Cfr. dist. 38. a. 2. q. 2. ad duo ultima, ubi duplex distinguitur immutabile et aeternum, unum scil., quod convertitur cum ente necessario, et alterum, quod non convertitur cum ente necessario, cum non sit aliquid actu, ut est futurum contingens.
+
+     **En.** Cf. distinction 38. a. 2. q. 2. ad the two last, where a twofold immutable and eternal is distinguished, namely one which is convertible with necessary being, and the other which is not convertible with necessary being, since it is not something in act, as is the future contingent.
+
+[^22]: **La.** Supple: *praedestinare*. — Pro *posse* Vat. *potuisse*. Particula *et*, quae verbum *posse* sequitur, deest in ed. 1 et in cod. T a secunda manu expuncta est. Paulo superius pro *transiit* multi codd. cum ed. 1 *transit*. — Sententiam Magistri vide hic, c. 1.
+
+     **En.** Supply: *praedestinare*. — For *posse* the Vatican edition reads *potuisse*. The particle *et*, which follows the verb *posse*, is missing in ed. 1 and in codex T has been struck out by a second hand. A little earlier, for *transiit* many codices with ed. 1 read *transit*. — For the opinion of the Master see here, c. 1.
+
+[^23]: **La.** Simul audi: *potest cogitari*. Cfr. supra d. 38. a. 2. q. 2. in corp. — Paulo superius pro *sed ad hoc* nonnulli codd. scilicet *ad hoc*, et Vat. cum cod. cc *vel ad hoc*. Eadem Vat. paulo inferius post *et si hoc* in textum inserit *non*; perperam. Dein post *in aeterno* cod. V omittit *praesenti*, quae vox et in cod. T primo defuit, sed postea secundis curis adiecta est.
+
+     **En.** Hear at the same time: *can be thought*. Cf. above d. 38. a. 2. q. 2. in the corpus. — A little earlier, for *sed ad hoc* several codices namely *ad hoc*, and the Vatican edition with codex cc reads *vel ad hoc*. The same Vatican a little later, after *et si hoc*, inserts *non* into the text; wrongly. Then after *in aeterno*, codex V omits *praesenti*, which word also in codex T was at first lacking, but later was added by a second-hand revision.
+
+[^24]: **La.** Nempe, quia *quod non est non mutatur, licet fiat*; supponit enim mutatio existentiam. Vat. minus apte ad contextum paulo superius pro *potest esse futurum* ponit *non esse futurum*.
+
+     **En.** Namely, because *what is not is not changed, though it come to be*; for change presupposes existence. The Vatican edition, less aptly to the context, a little earlier, for *potest esse futurum* puts *non esse futurum*.
+
+[^25]: **La.** id est, quia sunt v. g. relate ad hominem contingentia, non est necesse, unum eorum determinate ex se illi convenire, sed potest illi convenire vel unum vel alterum. — Paulo ante pro *connotatum* ed. 1 *connotata*.
+
+     **En.** that is, since they are e. g. relatively to man contingent, it is not necessary that one of them belong determinately to him of itself, but either one or the other can belong to him. — A little earlier, for *connotatum* ed. 1 reads *connotata*.
+
+[^26]: **La.** Libr. *de Concord. praesc. Dei cum lib. arb.* q. 1. c. 2: *Sicut non est idem rem esse albam et rem albam esse albam; lignum enim non est semper necessitate album, quia aliquando, priusquam fieret album, potuit non fieri album; et postquam est album, potest fieri non album, lignum vero album semper necesse est esse album, quia nec antequam sit nec postquam est album, fieri potest, ut album simul sit non album... Eodem modo res aliqua, ut quaedam actio, non necessitate futura est, quia priusquam sit, fieri potest, ut non sit futura; rem vero futuram necesse est esse futuram, quoniam futurum nequit esse simul non futurum*. Cfr. et ibid. c. 3. — Paulo ante pro *inesse vera* ed. 1 *esse vera*.
+
+     **En.** Book *On the Concordance of God's foreknowledge with free choice* q. 1. c. 2: *Just as it is not the same that the thing be white and that the white thing be white; for wood is not always of necessity white, since sometimes, before it became white, it could have not been made white; and after it is white, it can be made not-white, but white wood it is always necessary to be white, since neither before it is nor after it is white, can it be that the white be at the same time not-white... In the same way some thing, as a certain action, is not of necessity future, since before it is, it can be that it not be future; but a future thing it is necessary to be future, since the future cannot be at the same time not-future*. Cf. also there c. 3. — A little earlier, for *inesse vera* ed. 1 reads *esse vera*.
+
+[^27]: **La.** Intellige: duae propositiones sequentes; vel lege cum Vat. *resolvatur* (ed. 1 *resolvitur*), scil. illa propositio.
+
+     **En.** Understand: the two propositions following; or read with the Vatican edition *resolvatur* (ed. 1 *resolvitur*), namely that proposition.
+
+[^28]: **La.** De quo cfr. supra d. 38. a. 2. q. 2. ad ult.
+
+     **En.** Concerning which cf. above d. 38. a. 2. q. 2. ad ult.

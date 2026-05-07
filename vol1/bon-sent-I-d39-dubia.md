@@ -6,13 +6,13 @@ distinctio: 39
 type: dubia
 title_la: "Dubia circa litteram Magistri"
 title_en: "Doubts concerning the text of the Master"
-printed_pages: [698]
-pdf_pages: [288]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), p. 698"
+printed_pages: [698, 699, 700]
+pdf_pages: [288, 289, 290]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 698–700"
 line_start: 27875
-line_end: 27966
+line_end: 28023
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 27875–27966 of pt2), fresh literal English translation, full apparatus from raw OCR (9 entries), [?] flags on ambiguous spots (2026-05-07)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 27875–28023 of pt2; extended 2026-05-07 to absorb DUB V + DUB VI missed in initial chunk), fresh literal English translation, full apparatus from raw OCR (16 entries), [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
@@ -56,6 +56,20 @@ Item quaeritur de hoc quod dicit, quod *non potest incipere scire vel praescire*
 
 **Respondeo:** Scire dupliciter dicitur. Uno modo *scire* hoc est quod habere cognitionem de aliquo; et sic non connotat actualem existentiam cogniti, et sic non potest Deus incipere aliquid scire, id est alicuius cognitionem incipere habere. Alio modo *scire* hoc est quod *nosse aliquid esse verum*, et hoc tunc primo scitur esse verum, quando incipit esse; et sic[^9] incipit Deus scire, sic et desinit praescire, non ratione principalis significati, quod est scientia, sed ratione connotati, quod quidem est veritas rei scitae.
 
+<!-- page 699 -->
+
+#### DUB. V.
+
+Item quaeritur de hoc quod dicit: *Nec potest noviter vel ex tempore velle aliquid, et tamen potest velle quod nunquam voluit.* Videtur enim hic[^10] dicere duo contradictorie opposita, quoniam illud est novum quod prius non fuit et modo est: ergo si posset velle quod prius non voluit, videtur quod incipiat velle.
+
+**Respondeo:** Dicendum, quod cum dico, Deum velle hoc[^11], duo dico: et actum divinae voluntatis, et ulterius ordinationem[^12] ipsius effectus ad illum actum. Et primum quidem est necessarium et semper, nec potest incipere nec desinere. Voluntas enim divina est semper in actu suo, ita quod nec potest illo carere nec alium habere; sed ordinatio alicuius effectus ad illum actum est ordinatio rei futurae, quae nondum est, et ideo potest esse et non esse, et ordinari et non ordinari. Quando ergo dicitur: *Deus potest velle quod nunquam voluit, et tamen non ex tempore*; intellectus est, quod effectus ille potuit ordinari ad divinum velle; et quoniam ordinatio effectus est ordinatio rei futurae, et quod semel est futurum semper fuit futurum, et quod semel est[^13] ordinatum semper fuit ordinatum ad illam. Quando ergo dicitur, quod Deus potest velle aliquid, idem est dicere, quod aliquid potuit esse futurum sive habere ordinem ad divinam voluntatem, quod tamen non habet ordinem; sed si haberet, ab aeterno habuisset, et ideo non incipit ex tempore. Et ideo exemplum Magistri bonum est, si velle Dei importat ordinem ad volitum in ratione futuri; sed secundum quod importat concomitantiam in ratione praesentis, potest Deus ex tempore velle hoc esse, sive hoc approbare hodie, non quia[^14] incipiat actus, sed quia incipiat connotatum.
+
+#### DUB. VI.
+
+Item quaeritur de hoc quod dicit, quod *specialem curam habet de rationalibus*; quia videtur esse contra illud quod dicitur Sapientiae sexto[^15]: *Aequalis est illi cura de omnibus.*
+
+**Respondeo:** Dicendum, quod *aequaliter* non privat ibi ordinem divinae distributionis, sed privat acceptionem personae. Et omnibus distribuit ibi tantum pro hominibus, tamen[^16] pro magnis et parvis, pauperibus et divitibus; et sic est ei aequaliter cura de omnibus, quia ita vult salutem pauperum, ut divitum.
+
 ---
 
 ## English
@@ -89,6 +103,20 @@ Likewise it is asked concerning what he says, that *the knowledge of God is only
 Likewise it is asked concerning what he says, that *he cannot begin to know or foreknow* etc. For he seems to speak ill, because nothing is known except [what is] true[^8]: therefore before it is true, it is not known: therefore if something begins to be true, something begins to be known by God: therefore God can begin to know something. — Likewise, creation is the divine essence, and yet by reason of the connoted [term] God can begin to create something: therefore likewise also to know something.
 
 **I respond:** *To know* is said in two ways. In one way *to know* is the same as to have cognition of something; and thus it does not connote the actual existence of the known, and thus God cannot begin to know anything, that is, to begin to have cognition of something. In another way *to know* is the same as *to be acquainted that something is true*, and this is then first known to be true, when it begins to be; and thus[^9] God begins to know, and likewise ceases to foreknow, not by reason of the principal signified, which is *knowledge*, but by reason of the connoted [term], which is the truth of the thing known.
+
+<!-- page 699 -->
+
+#### DOUBT V.
+
+Likewise it is asked concerning what he says: *Nor can he newly or in time will anything, and yet he can will what he never willed.* For he seems here[^10] to say two contradictorily opposed things, since that is *new* which previously was not and now is: therefore if he could will what he previously did not will, it seems that he begins to will.
+
+**I respond:** It must be said that when I say *God wills this*[^11], I say two things: both the act of the divine will, and further the ordering[^12] of the effect itself to that act. And the first is indeed necessary and ever-abiding, nor can it begin nor cease. For the divine will is always in its act, such that it can neither lack that act nor have another; but the ordering of some effect to that act is the ordering of a future thing, which is not yet, and therefore it can be and not be, can be ordered and not ordered. When therefore it is said: *God can will what he never willed, and yet not in time*; the sense is that that effect could be ordered to the divine willing; and since the ordering of the effect is the ordering of a future thing, and what is once future was always future, and what is once[^13] ordered was always ordered to it. When therefore it is said that God can will something, it is the same as to say that something could be future or have an order to the divine will, which yet does not have [such] order; but if it had, it would have had it from eternity, and therefore it does not begin from time. And so the Master's example is good, if God's willing imports an order to the willed in the character of *future*; but inasmuch as it imports concomitance in the character of *present*, God can in time will this to be, or to approve this today, not because[^14] the act begins, but because the connoted [term] begins.
+
+#### DOUBT VI.
+
+Likewise it is asked concerning what he says, that *he has special care for rational [creatures]*; since this seems to be against what is said in Wisdom 6[^15]: *His care is equal for all.*
+
+**I respond:** It must be said that *equally* does not there exclude the order of the divine distribution, but excludes respect of persons. And he distributes [his care] to all there only as regards human beings, yet[^16] for great and small, poor and rich; and thus he has equally care for all, because he so wills the salvation of the poor as of the rich.
 
 ---
 
@@ -129,3 +157,31 @@ Likewise it is asked concerning what he says, that *he cannot begin to know or f
 [^9]: **La.** Vat. cum pluribus codd. *sic*. Paulo ante pro *primo* cod. X *proprie*. — Plura de hoc dubio inveniuntur supra a. 1. q. 3, et a. 2. q. 2; apud B. Albert., hic a. 6; apud S. Thom., hic q. 1. a. 2; apud Dionys. Carth., hic q. 1.
 
      **En.** The Vatican edition with several codices [reads] *sic*. A little before, for *primo* cod. X reads *proprie*. — More on this doubt is found above, art. 1, q. 3, and art. 2, q. 2; in Bl. Albert, here a. 6; in St. Thomas, here q. 1, a. 2; in Dionysius the Carthusian, here q. 1.
+
+[^10]: **La.** Vat., post *velle* posita virgula, pro *hic* substituit *hoc*[?], auctoritate quidem plurimorum codd., at perperam, ut ex subnexis clare intelligitur. Librarii mss. transcribentes, etiam hoc loco, ut saepe saepius accidit, *hic* pro *hoc* legisse, valde [?]
+
+     **En.** The Vatican edition, with a comma placed after *velle*, substitutes *hoc* for *hic*[?], on the authority of very many codices, but mistakenly, as is plainly understood from what follows. The scribes transcribing the manuscripts, here too — as often happens — read *hic* for *hoc*[?]. [Apparatus column-bottom truncated in OCR.]
+
+[^11]: **La.** Vat. *fuit*. — Praecedens *et* intellige: *ergo etiam*.
+
+     **En.** The Vatican edition reads *fuit*. The preceding *et* understand as *ergo etiam* (therefore also).
+
+[^12]: **La.** Cod. Z hic et paulo ante *ordinationem*. Paulo inferius pro *exemplum* ed. 1 *dictum*. Nostram lectionem veram esse, patet ex integro textu Magistri, c. 2: *Non potest ergo noviter vel ex tempore scire vel praescire aliquid, sicut non potest noviter vel ex tempore velle aliquid* etc.
+
+     **En.** Cod. Z here and a little before [reads] *ordinationem*. A little below, for *exemplum* ed. 1 [reads] *dictum*. That our reading is the true one is plain from the entire text of the Master, c. 2: *He cannot therefore newly or in time know or foreknow anything, just as he cannot newly or in time will anything*, etc.
+
+[^13]: **La.** Vat. *fuit*. [?]
+
+     **En.** The Vatican edition reads *fuit*. [?]
+
+[^14]: **La.** Multi codd. cum Vat. post *non quia* alterum subiiciunt *non*, quod contextui repugnat, nec non codicibus D F M Y et ed. 1. — De hoc dubio lege Alex. Hal. S. I. q. 25; B. Albert., hic a. 7; Petr. a Tar., hic circa lit.
+
+     **En.** Many codices with the Vatican edition place a second *non* after *non quia*, which is repugnant to the context and [is] not [supported by] codices D F M Y and ed. 1. — On this doubt read Alexander of Hales, *Summa* I, q. 25; Bl. Albert, here a. 7; Peter of Tarentaise, here at the text.
+
+[^15]: **La.** Vers. 8, ubi Vulgata *Aequaliter* pro *Aequalis*. Paulo post pro *aequaliter* Vat. *aequalitas*.
+
+     **En.** Verse 8, where the Vulgate has *Aequaliter* (equally) for *Aequalis* (equal). A little after, for *aequaliter* the Vatican edition has *aequalitas* (equality).
+
+[^16]: **La.** Sive *accipitur*. Cfr. supra d. 1. q. 1. Scholion. — Mox pro *tamen* Vat. *tam*. — Hoc dubium solvitur etiam a Petr. a Tar. et a Richard. a Med., hic circa lit.
+
+     **En.** Or *accipitur* (is accepted). Cf. above, d. 1, q. 1, Scholion. — Soon after, for *tamen* the Vatican edition has *tam*. — This doubt is also resolved by Peter of Tarentaise and Richard of Mediavilla, here at the text.

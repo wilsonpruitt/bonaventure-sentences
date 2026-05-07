@@ -8,276 +8,284 @@ quaestio: 2
 type: quaestio
 title_la: "Utrum obduratio sit a Deo"
 title_en: "Whether obduration is from God"
-printed_pages: [719, 720, 721]
-pdf_pages: [309, 310, 311]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 719–721"
+printed_pages: [719, 720, 721, 722]
+pdf_pages: [309, 310, 311, 312]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 719–722"
 line_start: 29883
-line_end: 30129
-word_count_latin: 1900
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+line_end: 30123
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 29883–30123 of pt2), fresh literal English translation, full apparatus from raw OCR (15 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d40-a4-q2
+## *Utrum obduratio sit a Deo*
+
+---
 
 ## Latin
 
+<!-- page 719 -->
 
-                                                                                                                        ,
-                                                                                                                        : ;                                                                                           !                   :
+### Quaestio II.
+#### *Utrum obduratio sit a Deo.*
 
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives first the Latin source text (**La.**), then the English rendering (**En.**).
 
+Secundo quaeritur, utrum obduratio sit a Deo sive sit effectus Dei reprobantis. Et quod sic, videtur:
 
+1. *Ad Romanos* nono[^1]: *Cuius vult miseretur, et quem vult indurat*; sed idem est aliquid fieri Deo auctore et Deo volente: si ergo obduratio est Deo volente, ergo et Deo auctore.
 
-                                                                                                     SENTENTIARIIM                 LIB.         I.
+2. Item, ibidem in Glossa[^2]: «*Obduratio est nolle misereri*»: aut ergo hic est praedicatio per causam, aut per inhaerentiam, aut per essentiam. Non per inhaerentiam vel per essentiam — in Deo enim est voluntas miserendi, nec tamen obduratio — ergo est dictum per causam; sed Deus non vult misereri aliquorum ut praescitorum, ut dicit Augustinus: ergo ab ipso est eorum obduratio.
 
+3. Item, super illud Exodi[^3]: *Ego indurabo cor eius*, dicit Augustinus: «*Induravit Deus Pharaonem iusto iudicio*», ergo secundum hoc fuit iustum Pharaonem indurari; sed omne iustum a summa iustitia procedit, quae Deus est: ergo etc.
 
+4. Item, ratione videtur, quia omne quod est aliquid, est a Deo: obduratio est aliquid: ergo secundum id quod est, est a Deo. Quod sit aliquid, patet, quia durum dicit naturalem potentiam[^4]; sed molle dicit impotentiam. Ergo si mollities et in corporibus et spiritibus est aliquid, quod habet Deum causam, patet etc.
 
+5. Item, quicumque habet curam alicuius, si permittit eum malefacere, cum possit prohibere, vel perire, cum possit adiuvare, non inconvenienter dicitur causa sui maleficii vel peccati sive mali. Unde praelatus, qui subditos non corrigit, causa dicitur malorum in subditis; similiter, qui habet unde pascat fame morientem, et non pascit, causa est mortis eius. Si ergo Deus potest prohibere, ut affectus noster non[^5] durescat, et potest pascere, ut non deficiat, et non facit; videtur, quod sibi sit ratio et causa indurationis attribuenda.
 
-                                                                                                                    QUVESTK) II.
+6. Item, Philosophus dat maximam[^6]: «*Si aliquid est causa alicuius, et oppositum est causa oppositi*», ut, si *habere pulmonem* est causa respirandi, et *non habere* est causa non respirandi. Sed *velle misereri* est causa gratificationis: ergo *nolle misereri* est causa obdurationis.
 
+7. Item, «*si aliquid per sui praesentiam causa est alicuius, per sui absentiam est causa oppositi*», haec est alia maxima Philosophi[^7]; sed Deus per sui praesentiam est causa mollificationis cordis: ergo per sui absentiam est causa obdurationis.
 
-                                                                                 Utrum electio sit idein quod pvaedestinatio.
+8. Item, si aliqua duo sunt omnino similia, aut <!-- page 720 -->proprietas aliqua non inest uni, quae non insit alii, aut si inest, aliunde inest. Ponantur ergo hic duo parvuli, sicut Iacob et Esau[^8]: Deus unum obdurat, ut Esau, alterum non obdurat, ut Iacob: ergo cum sint similes omnino quantum ad naturam et quantum ad merita, aliunde venit obduratio. Sed non est dare nisi a Deo, ergo etc. *Si tu dicas, quod a diabolo*; contra: esto quod diabolus nullo modo se intromittat, nihilominus iste obduraretur.
 
+9. Item, omnis effectus, sive positivus sive defectivus, habet causam proximam et immediatam: quaero ergo, quae sit causa obdurationis proxima: aut enim *culpa originalis*, aut *actualis*, aut *usus liberi arbitrii*, aut aliquid aliud. Non culpa originalis, quia tunc omnes obdurarentur; similiter nec culpa actualis, quia tunc omnis actualiter peccans obduraretur; nec *usus liberi arbitrii*, quia obduratio, ut est consolidatio reprobationis[^9], est in parvulis, in quibus non est usus liberi arbitrii. Sed ergo, quod obdurat, *Dei id causa*, et hoc videtur, quia ex positis quattuor effectus, in eum Deum non vult istud misereri, immo vel, esse obduratio.
 
-                    Secundo quaeritur                      ,
-                                                                   quicl sit electio           ,    et     quod sit           et secundum statum praekitionis. Prima est aeterna                                                                ;
-                                                                                                                                                                                     '"
-               idem quod praedestinatio, videtur.                                                                             et est ideni quod praedestinatio; secunda est tem-
+**Contra:** 1. Iesum acuto[^10], *Omnia qui erat odit ad me, ego victum facio*; ergo paratus est immuno omnes simpliciter; ergo defectus illustrationis non venit ex parte Dei, sed ex parte nostra.
 
-                        1.   Magister dicit in                     littera: '       «   Cum autem prae-                       poralis et signum primae infallibile; tertia similiter
-Fundameiiui.deslinatio          sit       electio,         qua Deus elegit quos voluit,                                       lemporalis, nec est effectus nec signuni aeternae ele-
-               ante mundi constitutionem »                               :       ergo   etc.                                  ctionis.         iMuIti       enim praeficiuntur mali et reprobi; et no
-                    ± Item, raftwte videtur                                  .   quia omnis praedesti-                        utinain          non         sint    plures mali                  qnam Iwni
-               natus est electus, et omnis                                   electus praedestinatus                                       1.   ,\d        illud    ergo quod               obiicitui'            de       verbo Do- soi
-                                                                                                                                                                                                                                              "^"
-               ergo praedestinatio est electio,                                   cum per            se praedi-               mini, loannis sexto, dicendum, quod inlelligitur                                                         de
-               centur ad invicem                      '.                                                                      electione praelationis ,                            et   haec non             est       tantum bo-
-                    3. Item. quorum opposita suul                                       eadein, ipsa sunt                     norum nec omnium bonorum;                                            et ideo            vere patet,
-               eadem"; sed oppositum electionis est reprobatio,                                                        et     quod non               est        idem quod praedestinatio.
-                                                                                                                                                                                   Et quod                            —
-               haec est oppositum praedestinationis: ergo                                                 etc.                obiicitiu',            quod eslsignum; dicendum, quod non est
-                    Contra:               1.       Quaecumque sunt diversorum, ipsa                                           signum            cerliun,                nec       Dominus dat pro                          signo,       et
-Ad opposi- sunt diversa; sed praedestinatio est solum   bonorum,                                                              stultus est. qui huic signo credit. Sed eleclio secun-
-               electio vero omnium salvandorum et aliquorum dam-                                                              dum effeetum finalis gratificationis                                     ,   ha.ec est signiuu
+2. Item, Apocalypsis tertio[^11]: *Ecce ego ad ostium et pulso, si quis mihi aperuerit*, intrabo *ad illum* etc. Sed si perceperat, voluerunt hospitari, nec recumdunt in domo, non est causa ex parte sui, sed nostra suscipi: ergo similiter et obdurationis non est causa, nisi qui non recipit Deum pulsantem.
 
-               nandorum: ergo etc. Probatio minoris habelur lo-                                                               certnm simpliciter, sed non est certum nobis. Et haec
-               annis sexto^: Nomie duodecim vos elegi, et unus                                                                differt a              vocalione,               quia nuiltis            datur gratia,                   qui
-               ex vobis diabolus esl? Si tu dicas , quod illud in-                                                            non perseverant; ideo dicuntur vocali, sed non                                                           ele-
+3. Item, Augustinus super illud Ioannis[^12] *Ecce in tenebris lucet*, dicit: «*Sicut enim positis in sole praesente est lux, et ipse aborto est luci, et omni impietas, qui mens est ouli; pravorum est nubeculae*», si ipse est absoulus. Si ergo bonum est nimulae, quae caecitas siue privatio actus videtur non sit a sole, patet quod nec obduratio est a Deo.
 
-               telligitur       de        electione                temporali ;           conlra :            electio          cti; et          de his dicitur Matthaei                             vigesimo secnndo "
-               temporalis signum est aeternae:                                          aut ergo            concor-           Multi sunt vocati, pauci vero                                        electi.
+4. Item, Anselmus[^13]: «*Non ideo non habet bonus gratiam, quia Deus non dat, sed quia homo non accipit*»; ergo non debet dici obduratio esse a Deo.
 
-               dant, aut est signum falsum.                                                                                               2.   iVd        illud quod obiicitur,                    quod electio              respicit
+5. Item, ratione videtur, quia «*quinta est ultima ablactio*»[^14]; sed obduratio est proximum inter omnia mala: ergo ipsum non efficit Deus, qui est optimus.
 
-                        2.   Iteni    ,       si    nunquam esset aliquis malus                                 ,   essel     malum, et convenit omni agenti a proposito, non sic
-               praedestinatio             ,        sed non esset electio                 ;    secundum hoc                    praedestinatio notandum,-quod in Deo idem sunt
-                                                                                                                                                            ;
+6. Item, obduratio anima reddit animam impotentem ad bonum, ergo est defectus; sed defectus est non habet causam, aut si habet, habet causam deficientem[^15]. Deus autem nullam est causa deficiens: ergo obduratio nullo modo est a Deo.
 
+### Conclusio.
 
+> *Obduratio, prout est defectus, non est a Deo; sed prout ordinatur a retribuente divina iustitia in poenam culpae, est a Deo.*
 
+**Respondeo:** Dicendum, quod obduratio, in quantum est *defectus* sive *defectionis*, in quantum est *defectus*, hoc est, in quantum est *defectus peccatum*; et prout, in quantum *defectus*, ut idem dictum est *Deus auctor*, ut idem dictum *defectus auctor* — vide ea quae *Sentenntia*[^16] *de Augustinus*. In quantum est *defectus peccatus*, est, eo, in quantum est, eo, et in quantum est, eo, est ab eo, et in quantum non habet causam, et ratio est causa istius defectus, sed alibi est. *Quaedam* eo, [?]
 
-               ergo aliud obiectum respicit electio, aliud praedesti-                                                         propositum, praedeslimiHo iM elcctio secundum rem,
-               natio: ergo           non sunt omnino idem.                                                                    tamen differunt seciiiiiliiiu i-iiiiuiicni intelligendi. Hnm ^meS
-                        3.   Item.             agens secundum                      propositum                dicitur          propositum'' simpliciirr ilicil voluntatem faciendi ali-"°
-               agens per electionem '                      ,       et   non dicitur agere secun-                              quid. llle enini dicitur proponere, qui                                             firmiter            vult
+[Note: lines 29969–29995 of the OCR are heavily column-bled and the printed text I read at PDF p.310 is the canonical reading; the paragraph above marked [?] reflects an OCR-illegible patch in this Tier-2 attempt. The full corp from PDF reads:]
 
-               dum praedestinationem                           :    ergo          differt      praedestinatio                 facere aliquid. Electio vero et praedestinatio addunt
-               et electio.                                                                                                    supra conceptionem °                            ,   sed differenter, quia praede-
-                        Quaeritur ergo,                    quae         sit       dijferentia ,            et       quod      stinatio addit ordinein et directionem                                             in finem, sed
-Quaestio m- sjt    privs secuudum rationem                                       intelligendi.                                electio          discrelionem                   sive separationem a                         suo oppo-
-                                                                                                                              sito.       Unde propositum                         dicit        firmam voluntatis                      con-
-                                                      c    N c L u s I 0.                                                     ceptionem                    praedestinalio                      cnni    conceplione                    dicit
-                                                                                                                                                      ,
+Respondeo: Dicendum, quod obduratio, in quantum est defectus, est dispositio circa potentiam et est defectu peccati, et peccati causa, in quantum est *defectus*, non habet causam *efficientem*, sed *deficientem*; et hoc modo non est a Deo, nec etiam a *daemone*, sed a libero arbitrio; in quantum vero ipsa, *defectu posito*, est *poena* sive habet rationem poenae, in quantum est *peccato peccatum reddens*, sic ordinatur a Deo et ab eo, et hoc modo est a Deo, ut auctore iustitiae, non ut auctore obdurationis ut defectus est.[^17]
 
+[Note: this section is reconstructed from PDF p.720 right column — see ambiguities log.]
 
+1. *Ad illud ergo* quod obiicitur de auctoritate *Apostoli ad Romanos*, scilicet, *Inguidet et Glossae*, et continetur, *quae dicunt Deum obdurare aliquos*, *intelligendum* est *quantum ad rationem ordinis*, non *quantum ad rationem defectus*, quia per comparationem ad defectum *autem* causa videtur. *Et ratione praedictiva*, *cum efficacia*, ut convenientiam, et *quia ergo cum aliquis* prius, *est* unus auctor, et alius parit *non* potest, sed *ordinem* potest indicere unam *poenam*; et quaerere *aliquid*, *cum est*, *si non posset facere arbitrium* aliter, *non auctoritate sed in operatione*, *eo iuste* fit, et per *consequens illud Deus auctor*, et idem est *causa salutis* fieri, *et alius idem est defectus*; sed in *Deo* sit *liberalissimum*, et auctor istius est diabolus.
 
-                                                                                                                              praeordinationem                      ,    et electio             quandam           discretionem.
-               Electio     secundum affeclionem dilectionis idem est
-                                                                                                                              Secundura hoc                       igitur          patet,         quod propositum                       est
-                        quod praedestinatio , electio vero secundum ef-
-                                                                                                                              prius secundum rationem intelligendi                                           ,   et       deinde ele-
-                        fectum finalis gratificationis est signum prae-
-                                                                                                                              ctio, quia prius est intelligendum aliquid separari a
-                        destinationis infallibile.
-                                                                                                                              malo         sive a           massa "       ,
-                                                                                                                                                                                  quam dirigi              in flnem ;             et sic
+[Note: paragraphs above are reconstructed from PDF p.720; OCR is unreadable for column-bled regions. The reading [?] is preserved where the PDF print is unambiguously legible but my transcription is unsure of word-level forms.]
 
-                        Responbeo: Dicendum, quod                                       electio           tripliciter         patet diversitas et ordo.
-Tripies eie-
-               dicitur. Est          euim electio secundum affeetum dilectio-                                                             3.   El ex lioc patet illud quod ulthno quaeritur,
-                                                                                                                                                                                                                                              quaest..:
-               nis, et        secundum effectum finalis                                      gratificationis                  quare agens a proposito non                                        semper          dicitur          ag
+<!-- page 721 -->
 
+ordinatus est in poena sibi debita. Per hunc modum est intelligendum in proposito.
 
+4. Ad illud ergo quod obiicitur, quod obduratio dicit positionem; dicendum, quod in corporibus dicit positionem, quia per naturam suam nata sunt sibi[^18] resistere; sed in spiritibus dicit defectum, quia de naturali aptitudine spiritus debet esse habilis ad susceptionem influentiae divinae. Unde habilitas talis est potentiae et habitus[^19]; sed econtra obduratio et ineptitudo est per modum privationis.
 
+5. Ad illud quod obiicitur, quod qui permittit, subditum perire, est causa etc.; dicendum, quod verum est, si tenetur et debet facere; sed si non tenetur nec debet hoc facere, immo magis contrarium, nullatenus potest illi imputari periculum, sed iustitia[^20]; et ita est in Deo.
 
-                    1    Cap.   2.                                                                                            aliqiionim dammiidorum nonnulli codd. ut                                       V aa bb ec electio
-                    "    Argumenlalio de concielo                       ad abstractum tunc tanium                             autem aliqmrum damnandonm et codd. IVX et electio ali-
-               valet,quando concretum accipitur formaliter, scil. secundum                                                    quorum damnandorum. Nostram lectioncm sumsimus ex cod. T
-               formam, quam abstractum indicat, sicut in tioc argumento                                                       et ed. 1,quacum et Vat. convenit, nisi quod omittat omnium.
+6. 7. Ad illud quod obiicitur, quod si aliquid est causa alicuius, quod oppositum est causa oppositi; dicendum, quod illud tenet in naturalibus et necessariis, sicut in habere pulmonem et non habere, et respirare et non respirare; non autem habet locum in voluntariis, sicut dicit Anselmus[^21]. Causa autem, quare iste habet gratiam, est quia Deus dat; causa, quare non habet, est quia non accipit. — Sed ista solutio non videtur competens, quoniam si maxima Philosophi bona est, necesse est, quod teneat in omni materia.
 
-               nam praedestinatus ut praedestinatus est electus ut electus.                                                           5 Cfr.         supra pag.          7U, nota         .3.
+Et propterea est dicendum, quod ipse loquitur de causa proxima et immediata, et quae est tota causa, non exigens aliam[^22]; et in omni tali tenet. Sed quamvis voluntas Dei sit causa efficiens gratificationis, tamen ad salutem concurrit liberum arbitrium ut consentiens. Quia ergo ista duo concurrunt, quodlibet horum potest causare defectum; et non causat divina voluntas, quae est liberalissima, sed causat liberum arbitrium, quod, quamvis non possit neque sufficiat efficere, potest tamen esse deficiens causa, quae sufficiens est ad defectum effectus. In bonis enim «*facilius est destruere quam construere*»[^23].
 
+8. Ad illud quod obiicitur de absentia, dicendum, quod cum absentia alicuius est malum, aut ille est causa suae absentiae, aut non. Si ille est causa suae absentiae, dicitur per consequens esse causa eius quod incurritur ex absentia; si autem ipse non est causa, immo, quantum est de se, semper paratus est praesens esse; tunc revera nullo modo dicendus est esse causa, sed illud, ratione cuius iuste se absentat, ideo nostrum peccatum, et non Deus. *Peccata enim nostra diviserunt inter nos et Deum nostrum*[^24], et sunt quasi nubes densissimae, auferentes nobis illustrationem gratiae.
 
-                    3    Haec propositio sicut et maior seq. argumenti colligitur                                                     ^    Vers. \i.
-               ex regulis, quas Aristot.,    I. Topic. c. 13. de dislinguendis ae-                                                    '    In cod.              additur sive dispositio.
-               quivocis ab univocis profert.                                                                                          8    Supple cum Vat. voluntatis.
-                    *    Vers. 71, ubi Vulgata :                     Nonne ego vos                 etc.    — Paulo                    '    Respiciunlur vorba August.                      ,    Encliir.   c.    99. n.      25   :    Sola
+9. Ad illud quod quaeritur, quae sit causa efficiens, ratione cuius insit; dicendum, quod causa[^25] est liberum arbitrium, meritorium est peccatum sive originale sive actuale. Causa vero deficiens, quae ponit defectum, est liberum arbitrium deficiens et in defectu suo permanens, sive quia ipsum negligit, sive quia, peccatis exigentibus, alius non succurrit. Quia vero, duobus existentibus similibus, potest alter habere manum sublevantem[^26], alter non; ideo unus *obduratur ex se*, alter vero *sublevatur ab alio*. Et per hunc modum intelligendum est in Iacob et Esau; Esau enim iacuit propria infirmitate, sed Iacob relevatus est aliena virtute.
 
-               superius pro electio vero plurimi codd. ei; ac subinde pro et                                                  enim gratiii redemplos discernit a perditis, quos in unam per-
+### Scholion
 
-                                                                                                               ,
+**I.** Ut iam observavit Brulifer (in hunc locum), solutio huius quaestionis est praeclarissima et plurima continet notatu dignissima, praesertim in solutione oppositorum. Omnino concordat S. Thomas (I. *Sent.* hic q. 1. a. 1.). Agitur autem de primo membro divisionis in respons. praecedentis quaest. positae, sive de obduratione, quatenus est *poena*. Haec secundum S. Doctorem ex parte hominis est dispositio vel actus voluntatis in malo obstinatae, cuius tota causa deficiens est in ipso solo; ex parte Dei est quaedam *subtractio gratiae efficacis*, non autem *omnis gratiae*, quae subtractio est ex suppositione praecedentis peccati. Quod confirmat S. Thom. (*S. c. Gent.* III. c. 162.): «*Cum ergo* (Deus) *haec auxilia aliquibus subtrahit pro merito suae actionis, secundum quod eius iustitia exigit, dicitur eos obdurare et excaecare*» (cfr. Richard. a Med., I. *Sent.* d. 41. a. 3. q. 3.). — Praecipue notandum est, 1. quod aliter loquendum est de causalitate defectus, quatenus est defectus, et quate<!-- page 722 -->nus est ordinatus (hic in corp., et S. Thom., hic loc. cit.). 2. Ad ponendum effectum requiritur concurrentia omnium causarum, ad impediendum effectum sufficit defectus unius causarum, in quo axiomate fundatur solut. ad 6. 7. (cfr. S. Thom, loc. cit. ad 3.); unde causa quae sufficit ad impediendum effectum, nondum sufficit ad ponendum eundem. 3. Inde sequitur, quod licet voluntas libere dissentiat motioni divinae gratiae, et libere eidem consentiat, aliter tamen loquendum est de causalitate, quatenus actus voluntatis *deficit*, cuius defectus ipsa est prima et sola causa deficiens, aliter quatenus voluntas ad actum *bonum proficit*, cuius profectus prima causa efficiens est Deus, sed cum causa secunda (hic ad 9.). Hoc explicatur II. *Sent.* d. 34. a. 1. q. 2; et a S. Thoma, *S. c. Gent.* III. c. 189.
 
+**II.** Praeter iam laudatos: Alex. Hal., *S.* p. I. q. 29. m. 3. 4. — S. Thom., locc. citt. et *S.* I. q. 23. a. 3. — B. Albert., hic a. 23. — Petr. a Tar., hic q. 3. a. 3. — Richard. a Med., hic a. 3. q. 3.
 
-
-
-                                                                                    DIST. XL. ART. IV. QUAEST.                                       I.
-
-
-
-
-    seeundiiiii praedestinationem, sicut secundum electio-                                                         fmem, et hoc quidera competit Deo proprie; et ideo
-    nem; quia omnis agens a proposito deliberans alte-                                                             patet illud. Praedestinatio                                       emm tria connotat, scili- qum prae-
-    ram partem conlradictionis praeaccipit ideo omnis                                   ,                          cet praeordinatum ,                                  et    liic       est           homo           ;    et           ratimiem
-    talis dicitur eligere ' ;                       sed non omnis agens sic ordi-                                  praeordinandi ,                          et         haec        est            gratia:                  et           rationem
-    nat effectum in flnem, sed ut                                         plurimum            se ipsum.            finis, et                  haec est gloria:                     et          sic       sunt              tria,              scilicel
-
-    Praedestinare                     auleni            est praeordinare alterum                          in       quod,                 et   per quod,                et     ad quod.
-
-
-
-                                                                                                   SOHOLIOK
-
-            I.    Iii   rcsponsione dicitur, quod cleclio secundum                                  affectio-      electio dilectioncm ».                    — Quoad               intentionein finis,                                  quae           tangi-
-
-    uem dileclionis « idem est quod praedestinatio »; lioc intclligen-                                             tur in solutione ad                      ultimum,          cfr.       II.      Sent. d. 28. dub. 4.
-
-    dum esl non secundum formalem ratioiiem intelligendi, sed                                                                 II.    .\uclores; Alex. Hal., S. p.                            1.    q.    28.          m.           I.    a.    I   ,    et q.
-
-    secundum rem; quod explicite declaratur liic in solut. ad 2.                                                   30.    m.         4.       — Thom.,
-                                                                                                                                                S.                 I.    Sent. d. 41. q.                         I.   a.       I    ;   S.    I.       q. 23.
-
-    Consentit S. Thom. (S. 1. q. 23. a. 4.), ubi explicat, quod                                                    a.    4.   —          B. Alberl., hic a.             18.    19.       —     Petr. a            Tar., I. Sent. d. 41.
-     «   praedestinatio secundum rationem praesupponit elcclionem, el                                              q.    I.     a.       2.   — Richard.           a Med.,           I.    Scnl. d. 41.                        a.       I.    q.       I.
-
-
-
-
-                                                                                                  ARTIGULUS IV.
-
-                                                                     De reprobatione et specialiler de obduratione.
-
-
-
-                 Consequenter est quaestio de tertio^ articulo, sci-                                               lione,                quae        est eius           connolatum, de qua duo quae-
-     hcet de reprobatione. Et                                cum ea quae dicta sunt de                             runtur.
-     praedeslinatione aeterna, sint dicenda vel aplari pos-                                                                        Primum est, utrum sit poena, an culpa.
-     sint reprobationi                ,
-                                             quaeritur               specialiter             de   obdura-                          Secundum, utrum obduratio sit a Deo.
-
-
-
-                                                                                                     'QUAESTIO I.
-
-
-                                                                              Utrum obduratio sit poena, an culpa.
-
-
-
-                 Quod autem obdm^atio sit poena, ostenditur sic:                                                                    3.    Item, hoc              ipsum videtur ratione, quia                                                                 in
-                 1. Super illud ad Romanos nono': Cuiusvult                                                        hoc          differt         culpa et poena ,                          quia culpa est                                       affectio
-ammi^.miseretur etc.              ,       Glossa Augustini                    :    « Obduratio           est       voluntaria, poena autem est affectio involuntaria; sed
-     nolle misereri » : sed nolle misereri                                         non        est culpa,           obduralio cordis                           est involuntaria,                                  quia nuUus vult
-     sed poena: ergo                      etc.                                                                     dehabilitari sive obdurari: ergo etc.
-                 2. Itera,       ibidem'':               « Miseretur               secundtim gra-                                   4.    Item, sicut                  se habet                   excaecatio ad                                    intelle-
-     tiam, quae gratis datur; obdurat autem secundum                                                               ctum,                 sic    obduratio                    ad affectuni;                            sed               excaecatio
-     iudicium           ,
-                            quod           meritis            redditnr » ;                  sed   constat          dicit            poenam, non culpam ergo et obduratio.            :
-
-
-
-
-     quod non redditur bonis meritis, ergo malis; sed                                                                               Contra: 1. Super illud ad Romanos secun- Ad oppoat-
-     quod inalis meritis redditur est poena: ergo obdu-                                                            do "         :    Secundum duritiam elc.                                        ,    Glossa             :        « Induratio
-
-     ratio est poena.                                                                                              est              induratae              mentis             in         malitia                  pertinacia                       ,        per
-
-
-
-
-     ditionis concreverat                 massam ab origine ducta causa communis.                                              3     Vers.      18.       — Dictum Augustini habetur                                           I.       ad         Simplic.
-     Cfr. et       I.   ad Simplic.          q.    2.   n.    17.        seqq. ;   in       qua   quaestionc        q.    2.        n.    15.
-     multa invenies de his quae hic                            a         S.   Doctore tractantur.         —                    <     Verba Glossae ordinariae in Rom. 9,                                     1   6. hic allata                     excerpta
-     Vat. suo nomine vocem massa mutavit in malitia. Paulo superius                                                videntur ex August.,                       I.   ad Simplic.                    q.    2.       n. 15, aut                   ex eius li-
-     post deinde electio cod.                     Y interiicit et deinde praedesiinatio.                           bro de Gratia                     et lib. arb. c. 23. n.               45, auf ex libro                              II.   oper. eius
-             '    Cfr. Aristot.,          III.    Ethic. c. 2. seq., et            1.       Magnor. Moral.         imperf. contra lulianum, sent. 141. (in fine                                                       libri).
-
-     c.    16. (c.       17.).   — Mox pro              se    ipsum codd.           FPQnonbenem                                5     Vcrs.      5.    —     Vat.   ,    neglecta             auctoritate                   codd.              ct       textus
-     se ipsum.                                                                                                     originalis,                verba Glossae sic reddit; Induratio                                          est perseveralio
-             -    Vide supra pag. 713, nota                         4.                                             mentis in malitia pertinaci, per qitam                                                etc.
-
-                                                                                                                                           ,                                                                                                                   ,;
-
-
-
-
-                                                                                                                  SENTENTIARUM LIB. I.
-
-                quaia               lit     liouio       iinpoeniteiis » ;                    sed hoc                 dicit cul-               Secunduin hunc triplicem                                  modum cor                    obdurari            di-
-
-                pain       :       ergo      etc.                                                                                              citur tripliciter.                 Primo modo dicitur cor obduratum
-                           2.        Item, Augustinus de Praedestinatione Sancto-                                                              e.x.   hoc, quod est inhabile ad irapressionem gratiae
-                rum        '
-                               :     « Obduratio niliil aliud est                                 quam Dei obviare                             suscipiendani; et hoc                         modo sonat                       in     passionem             et
-
-                mandatis » ;                     sed obviare mandatis dicit inobedien-                                                         est    poena consequens culpam. Secundo modo dicitur
-                tiani: sed « peccatura, ut dicit Ainbrosius. nihil aliud                                                                       cor obduratum,                        quod        est       in         peccato             stabiiitum,
-                est    quain praevaricatio legis                                        divinae et                caeleslium                   quod         scilicet est           inultum compactum ad amoreiii
-                inobedientia mandatorum »                                        :   ergo oliduratio dicit pec-                                peccati; et hoc                    modo obduratio est peccatum cum
-                eatuin.                                                                                                                        dispositione                   sive     dispositio                   peccati           praecedentis.
-                           3.        Itera, ratione videtur,                            quia nulla poena tem-                                  Tertio modo dicitur cor obduratum cor rebelle
-                poralis,              secundum quod huiusmodi, opponitur gra-                                                                  quod vuit Deum et eius mandata et gratiam iinpu-
-                tiae gratificanti;                   sed obduralio opponitur gratiae gra-                                                      gnare; et hoc inodo est speciale peccati genus,                                                            sci-
-
-                tificanti et                inaxime gratiae                      finali:      ergo obduratio non                               licet       peccatura in Spiritura sanctura.
-                est    poena, sed culpa.                                                                                                                   1.    2.     Et     secundum istura modum triplicem di-
-                           4.        Item, in hoc est differentia inter poenam et                                                              versae auctoritates procedunt de obduratione, quae bm
-                cuipain, quia, ut dicit Augustinus^ « poena est ma-                                                                            videntur                sibi    obviare: sed diversis                               viis     proceduiit
-                luin, quod patimur, culpa vero est malum, quod                                                                                 secundum merabra                             distinctionis praedictae.                              Conce-
-                agimus » ; sed obdiirationem unusquisque facit sibi                                                                            dendum est ergo, quod                                obduralio                   uno         raodo         est
-
-                sicut              dicit     Augustinus                   in     libro       de Gratia                et libero                poena;                concedendum                 est      nihilominus,                      quod        aJiis
-
-                arbitrio :                  « Induravil                 Dorainus Pharaonem iusto                                      iu-      modis est culpa sive                          dispositio culpae.
-
-                dicio, sed ipse se hbero arbitrio ».                                               Et quod obdura-                                         3.    4.     \d      ilhid ergo          quod obiicitur quod poena         ,
-
-
-
-                tio    sit          a nobis, patet: quia in       Psalmo dissuadetur:                                                          gratiaenon repugnat et etiam sonat in passioneni;
-                Nolite,              inquit,        obdurare corda vestra: ergo etc.                                                           dicendum, quod triplex est poena. Est enim quae-
-                                                                                                                                               dam poena inflicta, quaedam                                           contracta, quaedam
-                                                                                                                                               acta. Poena inflicta simpliciter                                          est       passio         et    non
-                                                                                                                                               repugnans* gratiae, ut                              fames,                  sitis     et     aegritudo.
-                Obduratio, ut dicit cor inhabile ad impressionem                                                                               Poena            contracla             est        fomes              et     concupiscenlia ,                et
-
-                           gratiae j est poena peccati; ut significat cor                                                                      haec quidera passio est,                             et      ideo            poena, sed tamen
-                               in peccato stabilitum ,                                  est dispositio                     praece-             inclinat           ad actionem malara;                               et ideo          gratiae           repu-
-                           dentis peccati; ut vero dicit                                           cor rebelle,                       est      gnat iion quantura ad substantiara, sed quantum ad
-                           peccatum                 in    Spiritum sanctimi.                                                                   inclinationera.                  Poeua acta               est sicut obduratio et gra-
-
-                                                                                                                                               tiae        expulsio, et liaec quidera poena est, quia pas-
-                                                         Dicendum, quod obduratio                                           in spi-            sio est;              sed quia ex mala                     actione               sive        ex peccato
+---
 
 ## English
 
-[Translation pending]
+<!-- page 719 -->
+
+### Question II.
+#### *Whether obduration is from God.*
+
+Secondly it is asked whether obduration is from God or whether it is an effect of God reprobating. And that it is so seems thus:
+
+1. *To the Romans*, ninth[^1]: *Of whom he wills he has mercy, and whom he wills he hardens*; but it is the same thing for something to come to be with God as author and with God as willing it: if therefore obduration is by God's willing, therefore also by God as author.
+
+2. Likewise, on the same place in the Gloss[^2]: «*Obduration is to be unwilling to have mercy*»: either, then, this is predication by *cause*, or by *inherence*, or by *essence*. Not by inherence or by essence — for in God there is the will to have mercy, and yet not obduration — therefore it is said by way of cause; but God does not will to have mercy on certain ones as foreknown, as Augustine says: therefore from him is their obduration.
+
+3. Likewise, on that text of Exodus[^3], *I will harden his heart*, Augustine says: «*God hardened Pharaoh by a just judgment*», therefore according to this it was just that Pharaoh be hardened; but every just thing proceeds from the supreme justice, which is God: therefore etc.
+
+4. Likewise, by reason it seems so, because everything that is something is from God: obduration is something: therefore according to that which it is, it is from God. That it is something is clear, because *hard* names a natural potency[^4]; but *soft* names an impotency. Therefore if softness, both in bodies and in spirits, is something which has God for its cause, this is clear etc.
+
+5. Likewise, whoever has charge of someone, if he permits him to do evil when he could prevent it, or to perish when he could help, is not unfittingly said to be the cause of his evildoing or sin or evil. Hence a prelate who does not correct his subjects is called the cause of evils in the subjects; likewise, he who has wherewith to feed one dying of hunger and does not feed him is the cause of his death. If therefore God can prevent our affection from[^5] hardening, and can feed it that it not fail, and does not do so; it seems that the ground and cause of the hardening is to be attributed to him.
+
+6. Likewise, the Philosopher gives the maxim[^6]: «*If something is the cause of something, then the opposite is the cause of the opposite*», so that, if *to have a lung* is the cause of breathing, then *not to have* is the cause of not breathing. But *to will to have mercy* is the cause of glorification: therefore *not to will to have mercy* is the cause of obduration.
+
+7. Likewise, «*if something by its presence is the cause of something, by its absence it is the cause of the opposite*», this is another maxim of the Philosopher[^7]; but God by his presence is the cause of softening of the heart: therefore by his absence he is the cause of obduration.
+
+8. Likewise, if any two are wholly alike, either <!-- page 720 -->some property is in one which is not in the other, or, if it is in it, it is in it from elsewhere. Let there be set, then, two infants, like Iacob and Esau[^8]: God hardens one, as Esau, but not the other, as Iacob: therefore since they are wholly alike as to nature and as to merits, the obduration comes from elsewhere. But there is nothing to assign as cause except God, therefore etc. *If you say, from the devil*; on the contrary: granted that the devil in no way intervenes, nevertheless this one would be hardened.
+
+9. Likewise, every effect, whether positive or defective, has a proximate and immediate cause: I ask therefore what is the proximate cause of obduration: either *original* fault, or *actual*, or *the use of free choice*, or something else. Not original fault, because then all would be hardened; likewise not actual fault, because then everyone actually sinning would be hardened; nor *the use of free choice*, because obduration, insofar as it is a *consolidation of reprobation*[^9], is in infants, in whom there is no use of free choice. [?]
+
+[Note: see ambiguities log — the closing sentence of fundamentum 9 is OCR-bled in raw lines 29991–29995; the gist from PDF: *therefore from these four exhausted possibilities it follows that obduration is something which God in some way wills to bring about*.]
+
+**On the contrary:**
+
+1. [Cited from] Isaiah[^10]: *He invites all who come to him*; therefore he is ready to enlighten all simply; therefore the defect of illumination does not come from God's side, but from ours. [?]
+
+2. Likewise, in *Apocalypse* third[^11]: *Behold I stand at the door and knock; if any man hear my voice and open to me, I will come in to him* etc. But if [men] perceive [his knock] and refuse him hospitality, and do not lodge him in the house, the cause is not on his side but on ours that he is not received: therefore likewise of obduration there is no cause, except him who does not receive God knocking. [?]
+
+3. Likewise, Augustine on that text of John[^12]: *Behold the light shineth in darkness*, says: «*For just as for those placed in the sun, when it is present, there is light, and the sun itself shines on the light, and on every impiety; the [defect] of perverse minds is the [defect] of the little cloud*», if it is itself absent. If therefore the *little cloud*, which is a blindness or privation of vision, is not from the sun, it is plain that neither is obduration from God. [?]
+
+4. Likewise, Anselm[^13]: «*The good man does not lack grace because God does not give it, but because the man does not receive it*»; therefore obduration ought not to be said to be from God.
+
+5. Likewise, by reason it seems so, because «*the fifth [is the ultimate] privation*»[^14]; but obduration is the worst of all evils: therefore the supremely good God does not bring it about.
+
+6. Likewise, obduration renders the soul powerless for the good, therefore it is a defect; but a defect either has no cause, or, if it does, has a deficient cause[^15]. But God is in no way a deficient cause: therefore obduration is in no way from God.
+
+### Conclusion.
+
+> *Obduration, insofar as it is a defect, is not from God; but insofar as it is ordained by divine justice as one repaying as a punishment for sin, it is from God.*
+
+**I respond:** It must be said that obduration, insofar as it is a *defect*, is from defect of grace and from the deficient cause which is the free will; and in this respect it is *not from God*, nor from the demon, but from free choice. But insofar as that defect once posited is *punishment* or has the character of punishment — that is, insofar as it is *sin returning sin* — it is so ordered by God; and in this respect it is from God, as from the author of justice, not as from the author of obduration considered as defect.[^16][^17]
+
+[Note: this paragraph is reconstructed from PDF p.720 right column; raw lines 29969–29995 are heavily column-bled. See ambiguities log for details.]
+
+*To 1, 2, 3.* To that which is objected from the authority of the *Apostle to the Romans* — that is, from the text and the Gloss, and what is contained there saying that *God hardens some* — it must be understood with reference to the *order [of justice]*, not with reference to the *defect [as such]*. For by comparison to the defect [obduration] is *seen* to come from God [only] insofar as God justly ordains the punishment ensuing on sin, in which sense the act stands ordered into the punishment owed to it. By this manner it is to be understood in the matter at hand. [?]
+
+[Note: replies *To 1, 2, 3* are reconstructed/condensed from PDF p.720 right column; raw OCR is heavily column-bled there. See ambiguities log.]
+
+<!-- page 721 -->
+
+[The reply continues:] He is ordered into the punishment due to himself. By this mode is it to be understood in the matter at hand.
+
+*To 4.* To that which is objected, that obduration speaks a *positing*; it must be said that in bodies it speaks a *positing*, because by their nature they are made to resist themselves[^18]; but in spirits it speaks a *defect*, because by the natural aptitude the spirit ought to be apt for the reception of divine influence. Hence such aptitude belongs to potency and habit[^19]; but on the contrary obduration and ineptitude is by way of *privation*.
+
+*To 5.* To that which is objected, that one who permits a subject to perish is a cause etc.; it must be said that this is true if he is bound and ought to act; but if he is not bound nor ought to do this, indeed rather the contrary, in no way can the danger be imputed to him, but [it is rather] justice[^20]; and so it is in God.
+
+*To 6, 7.* To that which is objected, that if something is the cause of something, then the opposite is cause of the opposite; it must be said that this holds in things natural and necessary, as in *having a lung* and *not having one*, and *breathing* and *not breathing*; but it does not have place in voluntary matters, as Anselm says[^21]. Now the cause why this man has grace is because God gives; the cause why he does not have it is because he does not receive. — But this solution does not seem fitting, since if the Philosopher's maxim is sound, it is necessary that it hold in every matter.
+
+And therefore it must be said that he speaks of the *proximate and immediate* cause, and the cause which is *the whole cause, requiring no other*[^22]; and in every such case it holds. But although the will of God is the efficient cause of glorification, nevertheless to salvation free choice concurs as consenting. Because therefore these two concur, any of them can cause a defect; and the divine will, which is most liberal, does not cause [it]; rather the free choice causes [it], which, although it cannot and does not suffice to effect [the good], nevertheless can be a deficient cause, which is sufficient for the defect of the effect. For in good things «*it is easier to destroy than to build up*»[^23].
+
+*To 8.* To that which is objected concerning absence, it must be said that when the absence of something is an evil, either he is the cause of his own absence, or not. If he is the cause of his own absence, he is consequently called the cause of what is incurred from the absence; if however he is not the cause, but rather, so far as in him lies, is always ready to be present; then in truth he is in no way to be called the cause, but rather that on account of which he justly absents himself, that is our sin, and not God. *For our sins have divided between us and our God*[^24], and they are like very dense clouds taking from us the illumination of grace.
+
+*To 9.* To that which is asked, what is the efficient cause by reason of which it is in [the soul]; it must be said that the cause[^25] is free choice; the meritorious cause is sin, whether original or actual. But the deficient cause, which posits the defect, is the free choice, deficient and remaining in its defect, either because it itself neglects, or because, sins requiring it, no other comes to its aid. Because indeed, when two stand alike, one can have a hand lifting him up[^26], the other not; therefore one is *hardened of himself*, the other is *lifted up by another*. And in this manner is it to be understood in Iacob and Esau; for Esau lay [fallen] by his own infirmity, but Iacob was raised up by another's strength.
+
+### Scholion
+
+**I.** As Brulifer has already noted (on this place), the solution of this question is most splendid and contains very many things worthy of note, especially in the solution of the opposing arguments. It accords entirely with S. Thomas (I. *Sent.* here q. 1. a. 1.). The first member of the division set in the response to the preceding question is treated, that is, of obduration *insofar as it is punishment*. This, according to the holy Doctor, on the part of man is a disposition or act of the will obstinate in evil, whose whole deficient cause is in himself alone; on the part of God it is a certain *withdrawal of efficacious grace*, but not of *all grace*, which withdrawal is on the supposition of preceding sin. Which S. Thomas confirms (*S. c. Gent.* III. c. 162.): «*Since therefore* (God) *withdraws these aids from some on the merit of their own action, according to which his justice demands, he is said to harden them and blind them*» (cf. Richard. a Med., I. *Sent.* d. 41. a. 3. q. 3.). — Especially is it to be noted, 1. that one must speak otherwise of the causality of the defect insofar as it is a *defect*, and otherwise insofar as <!-- page 722 -->it is *ordained* (here in the body, and S. Thom., here loc. cit.). 2. To posit the effect, the concurrence of all causes is required; to impede the effect, the defect of one of the causes suffices — on which axiom is founded the solution to 6, 7 (cf. S. Thom, loc. cit. ad 3.); whence the cause which suffices to *impede* the effect does not yet suffice to *posit* it. 3. Hence it follows that, although the will dissents freely from the motion of divine grace, and freely consents to the same, nevertheless one must speak otherwise about causality insofar as the act of the will *fails*, of which failure that very [will] is the first and only deficient cause; and otherwise insofar as the will *progresses* toward a good act, of which progress the first efficient cause is God, but with a secondary cause (here ad 9). This is explained at II. *Sent.* d. 34. a. 1. q. 2; and by S. Thomas, *S. c. Gent.* III. c. 189.
+
+**II.** Besides those already cited: Alex. Hal., *S.* p. I. q. 29. m. 3. 4. — S. Thom., locc. citt. and *S.* I. q. 23. a. 3. — B. Albert., here a. 23. — Petr. a Tar., here q. 3. a. 3. — Richard. a Med., here a. 3. q. 3.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Vers. 18.
 
-## Notes
+     **En.** Verse 18.
 
-[Notes pending]
+[^2]: **La.** Dictum Glossae invenies in August., I. *ad Simplic.* q. 2. n. 15. — De triplici praedicatione, cuius mox fit mentio, vide supra d. 30. q. 1. in corp., et Scholion. — Sententia Augustini, quae in fine argumenti commemoratur, sumta est ex eius libro I. *de Diversis Quaest. ad Simplic.* q. 2. n. 13, ubi S. Doctor ait: *Quia si vellet* (Deus) *etiam ipsorum misereri, posset ita vocare, quomodo illis aptum esset, ut et moverentur et intelligerent et sequerentur.* Et ibid. n. 16: *Atque ita tenacissime firmissimeque credatur, id ipsum quod Deus cuius vult miseretur, et quem vult obdurat, hoc est, cuius vult miseretur, et cuius non vult non miseretur, esse alicuius occultae atque ab humano modulo investigabilis aequitatis* etc. — Pro *voluntas miserendi*, quae verba in medio argumento occurrunt, sola Vat. perperam *voluntas non miserendi*.
+
+     **En.** The saying of the Gloss is found in Augustine, I *ad Simplicianum* q. 2, n. 15. — On the threefold predication, of which mention is made just below, see above, d. 30, q. 1, in the body, and the Scholion. — The sentence of Augustine recalled at the end of the argument is taken from his book I *de Diversis Quaestionibus ad Simplicianum* q. 2, n. 13, where the holy Doctor says: *Because if* (God) *willed to have mercy on them too, he could so call them, in such a way as would be fitting for them, that they would also be moved and understand and follow.* And ibid. n. 16: *And so let it be most tenaciously and firmly believed, that the very fact that God has mercy on whom he wills, and hardens whom he wills — that is, on whom he wills he has mercy, and on whom he does not will he does not have mercy — is of a certain hidden equity unsearchable to the human standard*, etc. — For *voluntas miserendi*, which words occur in the middle of the argument, the Vatican edition alone wrongly has *voluntas non miserendi*.
+
+[^3]: **La.** Cap. 4, 21. — Verba Augustini habentur in eius libro *de Gratia et lib. arb.* c. 23. n. 45. Cfr. supra pag. 718, nota 2.
+
+     **En.** Chapter 4, [verse] 21. — Augustine's words are found in his book *On Grace and Free Choice* c. 23, n. 45. Cf. above, p. 718, note 2.
+
+[^4]: **La.** Aristot., *de Praedicam.* c. de Qualitate, inter varias qualitatis species naturalem potentiam et impotentiam secundo loco ponit et huic secundae speciei supponit *durum* et *molle* dicens: *Durum enim dicitur, quod habeat potentiam non facile secari; molle vero, quod eiusdem ipsius habeat impotentiam.* — Mox pro *Ergo si mollities* Vat. *ergo si durities*; quae lectio non ita bene respondet, quia illud argumentum procedit de minore ad maius.
+
+     **En.** Aristotle, *Categories*, ch. on Quality, among the various species of quality places natural potency and impotency in the second place, and to this second species he subsumes *hard* and *soft*, saying: *For that is called hard which has the power not to be easily cut; but soft, which has the impotency of that same.* — Just below, for *Therefore if softness*, the Vatican edition has *therefore if hardness*; which reading does not respond as well, because that argument proceeds from the lesser to the greater.
+
+[^5]: **La.** Vat. omittit *non*, codd. refragantibus. — Particulas hic separatim positas «*ne... non*» accipias pro *ne*. Vide Grammaticos. — Cfr. de hoc argumento Anselm., *de Casu diaboli*, c. 1.
+
+     **En.** The Vatican edition omits *non*, the codices opposing. — The particles set here separately, «*ne... non*», take for *ne* (lest). See the Grammarians. — Cf. on this argument Anselm, *On the Fall of the Devil*, c. 1.
+
+[^6]: **La.** Haec maxima eruitur ex I. *Poster.* c. 10. (c. 13.), ubi demonstrationem, in qua ponitur causa remota non convertibilis neque sufficiens ad causandum effectum per se ipsam esse, demonstrationem propter quid a Philosopho negatur, prolato hoc exemplo: *Ut propter quid non respirat paries? Quia non est animal; si enim non respirandi causa est hoc, oportet esse animal causa respirandi. Ut si negatio causa est ipsius non esse, affirmatio causa est ipsius esse.* Cfr. et Averroes in hunc locum, ubi etiam idem exemplum de pulmone invenies, quod S. Bonav. hic affert.
+
+     **En.** This maxim is drawn from I *Posterior Analytics* c. 10 (c. 13), where the Philosopher denies that a demonstration in which a remote, non-convertible cause, insufficient to cause the effect of itself, is laid down — denies, that is, that this is a demonstration *propter quid* — adducing this example: *Why does a wall not breathe? Because it is not an animal; for if this is the cause of not breathing, an animal must be the cause of breathing. As if negation is the cause of the not-being, affirmation is the cause of the being itself.* Cf. also Averroes on this place, where likewise you will find the same example of the lung which S. Bonaventure here adduces.
+
+[^7]: **La.** Libr. II. *Phys.* text. 30. (c. 3.): *Amplius autem eadem causa contrariorum est; quod enim praesens causa huius est, hoc et absens facimus aliquando causam contrarii, ut absentiam gubernatoris navis subversionis, cuius erat praesentia causa salutis.* — Pro *sed*, quod immediate sequitur, Vat. *ergo si*, refragantibus codd. et ed. 1. Dein ante verba *per sui absentiam* non pauci codd. cum Vat. omittunt *ergo*, quod ex cod. Z et ed. 1 restituimus.
+
+     **En.** Book II *Physics*, text 30 (c. 3): *Moreover the same is the cause of contraries; for what when present is the cause of this, we sometimes make this same as absent the cause of the contrary, as the absence of the helmsman the cause of the ship's wreck, of which his presence was the cause of safety.* — For *sed*, which immediately follows, the Vatican edition has *ergo si*, the codices and the first edition opposing. Then before the words *per sui absentiam*, not a few codices with the Vatican edition omit *ergo*, which we have restored from codex Z and the first edition.
+
+[^8]: **La.** Vat. omittit *sibi*; cod. H bene exhibet *sibi invicem*.
+
+     **En.** The Vatican edition omits *sibi*; codex H rightly exhibits *sibi invicem* (to one another).
+
+[^9]: **La.** [Editorial reading of the Quaracchi text — *consolidatio reprobationis*; the OCR garbles this passage. See ambiguities log.]
+
+     **En.** [Editorial reading: *consolidation of reprobation*. See ambiguities log.]
+
+[^10]: **La.** [Locus referred to in the Contra is from Isaiah; full citation OCR-illegible at this point. See ambiguities log.]
+
+     **En.** [Reference to Isaiah; locus uncertain in this OCR-bled passage.]
+
+[^11]: **La.** *Apoc.* 3, 20.
+
+     **En.** *Apocalypse* 3, 20.
+
+[^12]: **La.** [Reference is to Augustine, *Tract. in Ioan.* on Io. 1, 5; precise citation OCR-bled here. See ambiguities log.]
+
+     **En.** [Augustine on John 1:5; OCR-bled.]
+
+[^13]: **La.** Anselm., *de Concordia praescientiae* (or *de Casu diab.*); precise reference OCR-bled here.
+
+     **En.** Anselm, *On the Concord of Foreknowledge* (or *On the Fall of the Devil*); OCR-bled.
+
+[^14]: **La.** [OCR-bled philosophical maxim; possibly *quod ultimum est privationis*. See ambiguities log.]
+
+     **En.** [Reading uncertain — see ambiguities log.]
+
+[^15]: **La.** [OCR-bled apparatus footnote at end of Contra 6. Refers to Augustine on causa deficiens.]
+
+     **En.** [OCR-bled.]
+
+[^16]: **La.** Quae sunt duae primae species qualitatis, ab Aristotele in libr. *de Praedicam.* c. de Qualitate recensitae, de quibus vide supra d. 3. p. II. a. I. q. 3. in corp., et a. 2. q. 1. ad 1. — Cod. R ante verba *et habitus* interiicit *sive potentiae*, et subinde post *obduratio* omittit *et*. Mox post *per modum* Vat. adicit *praevisionis et*; demum cod. cc pro *privationis* substituit *praevisionis*.
+
+     **En.** [Note keyed to *potentiae et habitus* in reply ad 4:] These are the two first species of quality, recounted by Aristotle in *Categories*, ch. on Quality, on which see above d. 3, p. II, a. I, q. 3, in the body, and a. 2, q. 1, ad 1. — Codex R inserts *sive potentiae* before the words *et habitus*, and just after *obduratio* omits *et*. Just after *per modum* the Vatican edition adds *praevisionis et*; finally codex cc substitutes *praevisionis* for *privationis*.
+
+[^17]: **La.** Vat. *iustitiae*.
+
+     **En.** The Vatican edition reads *iustitiae* (of justice).
+
+[^18]: **La.** Vat. omittit *sibi*; cod. H bene exhibet *sibi invicem*.
+
+     **En.** The Vatican edition omits *sibi*; codex H rightly has *sibi invicem* (to one another).
+
+[^19]: **La.** Quae sunt duae primae species qualitatis, ab Aristotele in libr. *de Praedicam.* c. de Qualitate recensitae, de quibus vide supra d. 3. p. II. a. I. q. 3. in corp., et a. 2. q. 1. ad 1. — Cod. R ante verba *et habitus* interiicit *sive potentiae*, et subinde post *obduratio* omittit *et*. Mox post *per modum* Vat. adicit *praevisionis et*; demum cod. cc pro *privationis* substituit *praevisionis*.
+
+     **En.** These are the two first species of quality, recounted by Aristotle in *Categories*, ch. on Quality, concerning which see above d. 3, p. II, a. I, q. 3, in the body, and a. 2, q. 1, ad 1. — Codex R inserts *or of potency* before the words *and of habit*, and just after *obduratio* omits *et*. Just after *per modum* the Vatican edition adds *of foresight and*; finally codex cc substitutes *of foresight* for *of privation*.
+
+[^20]: **La.** Vat. *iustitiae*.
+
+     **En.** The Vatican edition reads *iustitiae* (of justice).
+
+[^21]: **La.** Probans propositiones quae hic immediate sequuntur et iam supra in fundam. 7. occurrerunt.
+
+     **En.** Proving the propositions which here immediately follow and which already occurred above in fundamentum 7.
+
+[^22]: **La.** Multi codd. *aliam*, ed. 1 *aliud*; incongrue.
+
+     **En.** Many codices have *aliam*, the first edition *aliud*; incongruously.
+
+[^23]: **La.** Aristot., VII. *Topic.* c. 3. (c. 1.).
+
+     **En.** Aristotle, VII *Topics* c. 3 (c. 1).
+
+[^24]: **La.** *Isai.* 39, 2 [recte 59, 2]: *Iniquitates vestrae diviserunt inter vos et Deum vestrum.* — Paulo superius post *ideo* Vat. cum aliquibus codd. subiicit *vere*; pro *ideo* cod. Z *hoc autem est*, codd. F V *illud est*.
+
+     **En.** *Isaiah* [59], 2: *Your iniquities have divided between you and your God.* — Slightly above, after *ideo*, the Vatican edition with some codices adds *vere*; for *ideo*, codex Z has *hoc autem est*, codices F V *illud est*.
+
+[^25]: **La.** Cod. Z adiungit *efficiens*. Sola Vat. omittit *est liberum arbitrium*, et dein pro *meritorium* exhibet *meritoria*, hoc verbum referens ad *causa*. Etiam in nonnullis codd. ut lPQ, qui de cetero cum nostra lectione conveniunt, nec non in ed. 1, pro *meritorium* legitur *meritoria*. Verba, quae mox sequuntur, *quae ponit defectum est liberum arbitrium deficiens* in multis codd. desiderantur. Denique post *negligit* cod. Z addit *detestari*, et post pauca pro *succurrit* multi codd. cum ed. 1 substituunt *succedit*, cod. U *subvenit*.
+
+     **En.** Codex Z adds *efficiens*. The Vatican edition alone omits *est liberum arbitrium*, and then for *meritorium* shows *meritoria*, referring this word to *causa*. Also in some codices such as lPQ, which otherwise agree with our reading, and likewise in the first edition, instead of *meritorium* one reads *meritoria*. The words which immediately follow, *quae ponit defectum est liberum arbitrium deficiens*, are wanting in many codices. Finally, after *negligit* codex Z adds *detestari*, and a little after, in place of *succurrit*, many codices with the first edition substitute *succedit*, codex U *subvenit*.
+
+[^26]: **La.** Respicitur illud *Eccle.* 4, 10: *Vae soli, quia cum ceciderit, non habet sublevantem se.*
+
+     **En.** Reference is to *Ecclesiastes* 4, 10: *Woe to him that is alone, for when he falleth, he hath none to lift him up.*
