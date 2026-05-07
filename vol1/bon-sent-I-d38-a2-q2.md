@@ -6,10 +6,15 @@ distinctio: 38
 articulus: 2
 quaestio: 2
 type: quaestio
+title_la: "Utrum divina praescientia habeat in se necessitatem"
+title_en: "Whether divine foreknowledge has necessity in itself"
+printed_pages: [638, 639, 640]
+pdf_pages: [228, 229, 230]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 638–640"
 line_start: 25984
 line_end: 26273
-word_count_latin: 2566
-transcription_status: "auto-chunked 2026-04-18"
+word_count_latin: 2621
+transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
 format_version: 1
 ---
 
@@ -17,7 +22,273 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO II.
+nire             quam Deus praescit: ergo                                                        divina praescientia                     praescientia in pluribus aiit non est causa                                                                                     ,    aut non
+            ,
+
+
+
+est fallibiiis et incerta.                                                   Et hoc est arguinentum                              Au-     est tota causa; sed                                      quod dat alicui necessitatem                                                         ,    lia-
+
+gustini                  '
+                                 et      etiam Boethii in quinto de Consolatione:                                                        bet rationem                          causae, quia a                                                quo est esse,                     et esse
+
+n Si            aliorsum. quaiii praevisae                                                     surit,            detorqueri va-          necessarium: cum                                         igitur diviiia praescientia multo-
+
+
+
+
+        '       Quiicst.                I    .   c.        1 .   — Paulo ante verbo necessitatem                             cod. V              »    Cap. 7.           (c.        9.),          ubi agitur de veritate et falsitale propo-
+
+adiungit circa praescitmn.                                                                                                               sitionum, quae respiciunt futura contingentia.                                                                         « Igitur,          ait       ibi
+
+        -       Cap.             9.     — Duae                   generatini species proposilionum                            ,   duce    Philosophus             ,    esse         quod est                      ,
+                                                                                                                                                                                                                      quando est                  ,   et   non esse quod non
+Aristolele                   (   loc.        cil. c.         2.), distinguuntur,                   scil.         absoluta et moda-       est,    quando non est, necesse est».
+lis.    Prior est                      illa,          in     qua simpliciter dicitur, praedieatum con-                                           *    Cfr. hic              lit.    Magistri,                        c.       1.    in fine.          Verba Boethii invenies
+venire (inesse), vel non convenire subiecto                                          posterior autem est
+                                                                                                    ;
+                                                                                                                                         loc.    eit.     prosa         3.         — Aliquanto superius post utnm                                                            illud Vat.
+
+illa,    in          qua etiam exprimitur modus, quo praedicatum conve-                                                                  inserit          non,         quod repugnat et sententiae argumenti                                                                  et       codd.
+
+nit, vcl non                      convenit subiecto. Prior vocatur etiam propositio de                                                   H P Q T Z etc.
+inesse, quae duplex est, scilicet de inesse simpliciter, el de                                                                                   =    Respicitur                   illa          contingentis                            definitio,         quam             Aristoleles
+
+inesse ut nunc, prout praedicatum subiecto convenit aut ne-                                                                              proponit 1. Prior. c. 12  « Dico autem conMngere et contingens,
+                                                                                                                                                                                                  :
+
+
+
+cessario (v. g. Iiomo est                                          animal)          ,     aut     contingenter.            Similiter     quo non existente necessario, posito autem in esse, nihil erit
+propositio de necessano duplex est, soilicet de necessario sim-                                                                          propter hoc impossibile »    et Vlll. Phys. text. 36. (c. b.):«Si ;
+
+
+
+
+pliciter, et de necessario                                         ut mmc.               —     Alex. Hal.,-S. p. I. q. 28.               ergo ponamus possibile                                       es.se ,                 nullum impossibile                         accidet ,          fal-
+
+m. 4. a. 3. ad 2, et S. Thom., de Verit. q. 2. a. 12. obiect. i,                                                                         sum autem fortassis »; quac verba Scholastici sic redderc sole-
+secundum antiquiores Aristotelis expositores, Tlieophraslum                                                                              banl: Possibili posito                                  in esse,                     nullum sequitur impossibile (cfr.
+Eudemium et Themistium, dicunt, in tali syllogismo «on sequi                                                                             Gilb. Porret.,                de Sex princ. circa                                              fineni).
+
+conclusionem de necessario. At S. Bonaventura et etiam S. Tho-                                                                                   ^    Libr.          III.     c.    4.       n.        1       1 .    In textu originali                        verba         citata         sic
+
+mas, hic q.                       I.    a. 5.          obiect.         .5.   contrarium dicunl cum ipso Aristo-                          sonant       :    Sicut       enim             tu        memoria tua non cogis, facta                                                esse quae
+
+tele    nec non                        cum Averroe, qui in Comment. in hunc textum, de                                                   prae                         etc.
+
+liac    controversia disserens, illos interpretes multis verbis impu-                                                                            '    Sensus est: sicut                                si            flngeremus,                      Deum nihil prncscirc
+gnai.           Cetcrum hae duae                                       opiniones contrariae                        bene    coneiliari    libero arbitrio nihil accresceret,                                                        sive        liberum          arbitrium                  esset
+
+possunl              ,   si       dicatur              ,    unam opinionem loqui de                                inesse simplici-      omnino indifferens ad utrumlibet: ita, posila praescientia                                                                                    ,   nihil
+
+ter, alleram                       de incsse ut nunc.                              Cfr.       Scot. ,       I.   Prior. q. 28,"ubi       ei auferlur, sed ipsum manet indifrcrens.
+
+cum dislinclione lam unam quam alteram opinionem approbal.                                                                                       s    Art.       praeced.                 q.          I.         —             Cfr.       el      Anselm.       ,    de       Concord.
+—  Vei-ba .\nsclnii ad quae P. Doelor mox provocal sunt cilata
+                                                  ,                                                                    ,                 praesc. Dei                 cum lib. arb. q.                                     I.       c.   7.
+
+in     argum. praeeedenli.
+
+                                                                                                                                — :
+
+
+
+
+                                                                                                  DIST. XXXVIU. ART.                     II.         QUAEST.             1.                                                                    673
+
+ rum fulurorum non sit causa, utmalorum, nullam                                                                                       vera: quod * divina pracscientia est,                                                  et   tamen non
+ rebus imponit necessitatem.                                                                                                          imponit rebus necessitatem. Omnia enim sic praeco-
+             h.    Item, divina praescientia praescit res, sicut                                                                      gnoscit esse eventura, sicut eventura sunt; et ideo,
+sunt eventurae,                         cum            nihil                  praesciat                   nisi      verum             cum multa sint eventura contingenter                                               ,    ut    illa    quae
+ergo cum praescit, aliquem peccaturum,                                                                        cum pecca-              sunt a libero arbitrio et casu et fortuna, sicut prae-
+ tum non sit nisi per voluntatem                                                 ,
+                                                                                         praescit, istum per                          scit,          haec esse futura ab                          istis,     sic       praescit          modum
+voluntatem hoc facere,                                  et praescit,                                aUud posse fa-                    contingentiae secundum quem sunt ab istis.
+                                                                                                                                                                    ,
+
+
+
+cere.          Ergo      si      omne quod praescit,                                                estverum, ve-                         Ad intelligentiam autem obiectorum notandum,
+rum est, quod iste per                                       voluntatem                                  hoc       faciet        et   quod duplex est necessitas. scWkel absoluta , et re-
+poterit aliud facere; et                                si       hoc est contingens: ergo,                                            spectiva. Necessitas absoluta, ciuae opponitur contin-
+si      cum        '   divina           praescientia                           est           contingentia                circa        gentiae,                  dicitur nccessitas                  consequentis.                  Necessitas
+res, non ergo necessitas.                                                                                                             respectiva dicitur necessitas consequentiae ; et haec
+             0.    Item     ,    hoc ipsum                       ostenditur rationibus                                          du-   non opponitur contingenti.                                   Nam ahquod                      contingens
+centibus               ad        impossibile.                        Si         iiiiponit                  praescientia               necessario sequitur, ut                               si    ambulet, necessario sequi-
+rebus necessitatem                           ,
+                                                 perit               ergo                casus                et    fortuna.          tur    ,
+                                                                                                                                                     quod movetur ^
+Secundum                impossibile                    est,              quod                perit         liberum ar-                               Dicendum ergo, quod                           in praescito                   non est ne-
+bitrium et consilium. Tertium, quod perit meritum                                                                                     cessitas                  absohita,            sed     solum consequentiae, quia
+et      demeritum.                     Quartum. quod                                 perit               laus       et   vitu-        necessario sequitur:                                Deus praescit hoc, ergo hoc
+perium ^.                                                                                                                             erit.          Et hoc         modo intelligitur auctoritas Anselmi                                       ,    et
+                                                                                                                                      consimiles auctoritates, quae proponuntur cum modo
+                                            c         N c L u S I 0.                                                                  necessitatis ; et sic patet                                primum.
+                                                                                                                                          2. Ad illud quod secimdo obiicitur de syllo-
+ Praescientia divina                    rebus non imponil necessita-                                                                  gismo ex maiori de necessario et minori de inesse;
+             tem, sed              ipsum modum contingentiae rerum                                                                    dicendum, quod sicut patet,                                    et Philosophus exponit,
+
+             contingentium praescit.                                                                                                  hoc            intelligitut-                de ea      propositione ,                  quae        est       de
+                                                                                                                                      inesse .nmpliciter ,                           quod aequivalet necessario; sed
+             Respondeo             :    Dicendum quod            ,
+                                                                                             tres circa -hoc fue-                     minor huius syllogismi, scilicet: hoc est praescitum,
+rnnt positiones.                                                                                                                      non            est    de inesse simpliciter; sicut enim infra " pa-
+             Quidam enim dixerunt, quod                                                             praescientia ne-                  tebit,          non est necessaria.
+cessario,              cum sit infallibilis, iraponit necessitatem, et                                                                               3.    .\d    illud           quod      obiicitur        de praescito, quod
+ideo abstulerunt liberum arbitrium et peccatum.                                                                                       verum est, et si verum                                     est, necessario                   est   modo;
+ Et ista positio fuit haeretica et                                              iniqua               ,
+                                                                                                          quia destruit               dicendum, quod istam rationem facit Philosophus ad
+bonos mores.                                                                                                                          ostendendum, quod in futuris non est veritas; et
+             Alia positio fuit,                       quod                    divina praescientia                           ,    si   est sophistica '.                           Nam quando dicitur                     :        omne quod
+esset, necessitatem imponeret,                                                   et sic                  omnis virtus                 est,           quando         est,           necessario est;             intelligitur              de eo,
+et laus periret '.                          Et quia dilexerunt                                      rem publicam,                     quod ponit aliquid in actu circa supposilum, quod
+ideo abstulerunt a                           Deo praescieiitiam,                                         et    a proposi-             ex quo positum est, impossibile est non esse posi-
+lionibus de futuro abstulerunt veritatem.                                                                      — Et haec              tum; sed verum de futuro nihil ponit circa subie-
+haerelica               fuit           et       impia        ,           quia                derogat               nobilitati         ctum, quia ° non est verum pro praesenti, sed so-
+divinae.                                                                                                                              lum pro futuro                          :    et     ideo nulla est                necessitas ,               ne-
+             Tertia positio          est catholica, quae Deum hono-                                                                   que simpliciter                     ,        neque ut nunc , quia                            nihil ponit
+irat et bonos                   mores conservat, et ideo iusta, pia et                                                                ut nunc.
+
+
+
+
+              Plurimi oidd. nec non edd.                                                                                                   ^
+         '                                                               I,   2, 3       indebite omittunl cmn.                              Sophistica est illa ratio non in sensu, quod illud princi-
+—       Cfr.      de hoc ai-gumento Boetli.                          ,        V. de Consol. piosa 3. seq.,                            pium .\ristotelis sit falsum, sed quatenus applicutur ad pioban-
+et   Anselm., de Concord. praesc.                                        Dei     cum lib. arb. q. 2. c. 3.                            dum, vpI quod in propositionibus de futuro nulla si( verilas,
+         2    Cfr. de his Aristot.,              I.   Periherm. c. 7. (e. 9.) et Boeth., Com-                                         etiam supposito respectu ad primam causam (ut vult opinio 2.
+ ment.        in   hunc locum, nec non August.                                       ,       III.    de Lib. Arb. c.             2.   in corp. rclata), vel quod etiam futurum contingens praescitum
+
+ seqq., et V.          de Civ. Dei, c. 9. seq.                       ,    ubi recensentur diversae opi-                               nfcessario evcniat (ut vult opinio I. et opponens). Ceterum quod
+ niones, quae mox in corpore quaostionis a S. Doctore adducunlur.                                                                     a in futuro, quantum ost ex parte rei contingentis, nulla sit cer-
+
+         3    In cod.    Y additur et impomiur Tiillio et sequacibus eius.                                                            titud »         cum S. Thoma docet S. Bonav. infra q. 2. Aliter loquen-
+         *    Cod.     R scilicet quod ; Vat. cum cod. cc quia.                                                                       dum de futuro sub ratione divinae praecisionis.                                             — Codd. R X
+        Secundum Boeth., V. de Consol. prosa 3. et 6. haec duplex
+         =                                                                                                                            sic:       ventas determinata; et ista ratio est sopltistica. Pro sophi-
+ necessitas vocatur absoluta et conditionalis secundum Anselm.,                               ,                                       stica ed.             I   sophisma. Mox pro omne quod multi codd. et edd.                                     I,
+
+ Jl. Cur Deus homo, c.   17, et de Concord. praesc. Dei cum                                                                           2, 3 esse quod.
+ lib.   arb. q. 1.          c.   3.     dicitur antecedens et                                comequens.              — Paulo                     *    Cod.       T particulam             quia,    hic     suppressam,              paulo      ante
+ superius post sequitur cod.         addit ad aliud contingens. Mox                                                                   interiicit           post verba de futuro. In                   line    solutionis           verba       quia
+ pnst        Dicendum in plurimis mss. et ed.   desideratnr ergn.                        I                                            nihil ponit, ut                   nunc,       sic   sunt explicanda          :   quia        nullum ponit
+         « Qiiaest.         seq.                                                                                                      subicctum actu existens.
+
+                                                                                                                                                ,:
+
+
+
+
+(i7(i                                                                                                                    SENTENTIARUM LIH.                               1
+
+
+
+
+        Ad illud qiiod obiicitur per impossibile, quod
+          4.                                                                                                                                         scivit sic:ergo aliter^ quam Deus praescJl, distin-
+si posset aliter esse    posset falli etc.  dicendum               ,
+                                                                                                                ;                                    guenda est conclusio: quia potest intelligi divisim,
+                                                                                                                                                                                                          ^.J^j'^«^
+quod '              falsitas                        venit                  ex discordia                       intellectus                     ad     et sic vera est; et esl sensus: Deus praescit hocp»si'"s-
+
+cognitum                  ,         similiter                      potentia                  fallendi               ex         potentia              evenire, et possibile est, illud non evenire;                                                                       si       autem
+discordandi. Dico igitur ,                                                         quoniam necessario prae-                                          coniunctim, falsa; et                              est sensus:                             illud        est possibile,
+
+scituni sequitur ad praescienliam                                                                  ,    ideo non possunt                             quod Deus                   praescit              uno modo,                            et eveniat alio.                                 Et
+discordare: el ideo                                       nunquam fallitur, nec potest falli.                                                        est      fallacia                composilionis                              in        illo       processu, sicut
+        Quod ergo obiicitur, utrum aliter possit esse;
+          0.                                                                                                                                         hic: currens potest non moveri: ergo possibile                                                                                        est.
+
+dicendum, quod     aliter potest esse, quia Deus po-                                                                                                 quod          aliquis            currat            et            non             moveatur; non sequi-
+test aliter praescisse; et cum ponitur, quod aliter                                                                                                  tur.     Similiter,         cum quaeritur, quod ponatur: ponen-
+sit'-, ponitur, quod aliter praescit. Quando ergo                                                                                                    duni est;                sed cum assumit: Deus praescivil, hoc
+infertur: potest aliter esse, quam sit: et Deus prae-                                                                                                est     oppositum ponenti "                                 :     et       ideo est negandum.
+
+
+
+
+                                                                                                                                SCHOLIOK
+
+
+
+         I.       Ulraniquc                 opiiiiuii                            ([uae vel        liberlatom croaluri                                auctor hanc dislinclionem adhibet ad                                                 denionstrandum                      ,        divina
+
+gul, ul cliviiiiim ijniosde                                                ini     salvet, vel           praesoientiam                               l>rovidenlia non laedi liberlatem creatam.  Eandem distinctio-                              —
+ul libt'1-lalom salvol , ul                                    i           iam respuendam esse                       ,   catholio             lide   nem S. Doctor adhibel infra d. 40. a. 2. q. 1. 2, d. 47. q. 1.
+conslat.           Cuni autem                        divi                   praescientiae               conveniat              omnimod               el    iilibi.       ,
+
+
+
+
+infallibilitas                      et    inmutabilitas                            in    sciendo, et            in       oa etiam ini-                       II.       Soluliones ad            2.     3.        fundantur in                    distinctione                 rei           actu
+
+plicetur           quaedam                      causaliias                       rcspoctu         scili,      ox ulroque capitc                      oxistentis et rei futurae.         Quoad rem existentem vera est sen-
+liborlati croaii arbitrii pnieiudicari                                                  possc vidolur. Secundam hanc                                 lentia .-Vristotelis ,    quod omne quod est, quando est, necesse est
+difficullatom S. Doctor hic 3. et S. argg.                                                              in     fundam. breviter                      esse,        necessitate scilicet, quae consequitur ex suppositione, quod
+
+elidit    ;
+                  plura vide hio                          a.       I.      (|.    2. in corp., et inlVa d. 10. diib. 7,                              subioctum               mmc esrislit (unde vocatur a S. Doctore « nocessitas
+et   ibid.          a.        '2.    q.     I   .    d.        4-3.        a.     2.    q.   2.   Omnino             constat,               quod     ut    nunc»), qiiiii              oNislonliii           oxrliidit               non-oxistenliam; non aiilem
+causaliias               illa ,          qua Deus                  inlluit in            causas secundas et coopera-                                 verum est di                           c|iiihI    nciiiiliiiii             osi   .   sod         liiturum            esl          ,
+                                                                                                                                                                                                                                                                                            quia
+tur liberis iictjbus croaturarum inlelleclualium, congruit naturae                                                                                   pro nunc niliil                  pcinil /n n< riirii                      subiorluni.            —     In   .'i.   ad opposil.
+agontiuni nec libcrtalom inllil, sod polius ponit: tamen de modo,                                                                                    supponitur,              iiliiiuid       osso     ii        Dou           priiosrituiu, et tameii                        non osso
+quo      flat       hic concursus ot                                   quo libertas sit sahanda intor theo-              ,                           futurum.           Ad eludendum sophisma opponentium S. Doctor ulitur
+logos             calholicos                disocplulur.                         —
+                                                                              Prima aulom diflicultas hic                                            celebri distinctione sensus compositi et divisi, uti ex littcra patet.
+
+cum comniuni sententia evidentor solvitur, adhibita illa distin-                                                                                     Eandem obiectionem S. Thom. (hic a. S. ad S.) in eodem^^sensu
+ctione inter necessitatem consequentis ot consequentiae   quam                                                                      ,
+                                                                                                                                                     solvil, adhibita                 distinctione ,                 « quod potest esse (propositio)                                           de
+ex Boethio                        (de Consolat. V. pros. 6.) scholae                                                cathoHcae sub                    dicto , vel dc re ; et                     si    sit        de dicto, vera esl                        (scil.       quod omne
+variis                                               Duae sunt
+                  nominibus receperunt. Verba Boethii sunt                                                           :    <t                         scitum a Deo necesse est esse), et                                              si   sit    de       rc,    falsa        est».
+necessitatos   simplex una, veluti quod necesse est, omnes
+                              :                                                                                                                               III.     .\lex.    Hal. , S. p.               1.       q.    24.       m.    4.    S.       —      Scot. ,          I.       Sent.
+
+honiines osse mortales: altera conditionis, ut si aliquem am-                                                                                        d.    39. q. unica ; de                  Rerum principio, q. 4. a. 2. seclio 5.                                                       —   S.
+
+bulare scias, eum ambulare necesse est. Quod enim quisque                                                                                            Thom.,             hic q. unica, a. S;                          S.    I.    q.       14.    a.       13; S.         c.       Gent.         I.
+
+
+novil   id esse aliler ac notum est nequit. Sed -liaec conditio
+              ,                                                                                                                                      c.    67; de Verit.               q.     2. a.         12.       —         B.    Albert.         ,    hic a. 4; S. p.                      I.
+
+
+minime secum illam simplicem trahit. Hanc onim necossitatem                                                                                          tr.    13. q. 61.           m.      S.   —       Petr. a Tar.,                       hic q. 2. a.           I.     — Kichard.
+non propria                         facit       natuia, sed oondilionis                                 adiectio.            Nulla          enim     a Med., hic q. 6.                  —      /Egid. R., hic 2. prinr. q. 3.                                           — Durand.,
+necessitas cogit incodere voluntarie gradientom,            quamvis eum                                                                              hic q.        3.    n.     19.    seqq.      — Dionys.                      Carth.,         hic q. 2.              —     Biol, hio
+
+tamen,             cum gradilur, incedore necessarium .sil». Doindo idem
+
+
+
+
+          1       Vat.            cum edd. 4,5, nullo codice                                             suffragante            ,       addit        volunt        ;   condusio potest intelligi                               in     sensu           diviso        el        in           sensu
+sicut veritas venit                                 ex concordia intellectus ad rem cognitam,                                                        composito.
+haec autem concordia non est aliud ,                                                              quam adaeqmtio rei et                                       <    Vat. posito , et paulo ante ponitur pro ponatur. Utraque
+intetlectus : sic. Mox post Dico igilur codd.                       HT interserunt quod.                                                             lectio est          obscura ob brevitatem                                  et    ambiguum sensum                                      verbi
+          *       Fide codd.                    .AFHKT et plurium aliorum, postulante in-                                                            ponere, quod vel inferre,                                   vel           supponere                  poterit        significare.
+
+super contextu, cuni ed.                                               I   substituimus                sit   pro     scit ,         (|uae est        Facilior explicatio videtur esse haec : post ponatur sup)ile: etc,
+vitiosa            lectio Vat.                  Paulo ante pro praescisse cod.                                           V praescire.                scil.    Iwc non esse , ut legitur                                   in    4.    ad opposil. Verba Ponen-
+          2       Intelligo :               hoc potest esse sive evenire.                                      — Verba quae             ,
+                                                                                                                                                     dum est concedunt applicationem principii ibi momoriili                                                                       :       omne
+mox sequunlur:                              potest                 intelligi            divisim...           coniunctim,                    dicere   possibile ponibile.
+
+                                        :                                                                                                  ,                                                                                                                                        ,
+                                                                                                                                                                                                                                                                                    :
+
+
+
+
+                                                                                                   DIST. XXXVdl. ART.                                II.       QUAEST.             II.
+
+
+
+
+                                                                                                                                 QUAESTIO II.
 
 
                                                                                     Utrum              necessario Deus praesciat quae praescil.
@@ -41,272 +312,6 @@ I-
      de praeterito                                  verum            est        necessarium                    — unde                 si       tationera sui, ergo Deus mutatur.
      cucurrit                  ,       necesse est cucurrisse                              — sed               si       praescit                               7.       Itera,   omne aeternura est necessarium, quia
      praescivit: ergo                                    cum hoc                sit      dictum de praeterito,                                 unum solum est aeternura, et illud est in quo non
-     ergo iiecessarium.                                                                                                                        cadit contingentia, sed                                     sumraa necessitas                                 ;       sed /jrae-
-                    3.     Item,                    licet      potentia             Dei          sit    Indiffereus                   ad       scire Dei est aeternum                                      :   ergo necessarium esl, Deum
-     exeundum vel non exeundura, tamen ex quo exi-                                                                                             praescire           quod praescit.
-     vit            in     actum,                        necesse          est           exisse.         Unde quamvis                                          Contra: 1. Regula                                     est   .   si              antecedens bonaeFmniameoi!..
-     potuerit creare                                      et     non       creare, antequam crearet,                                           conditionalis                     est      necessnrium,                         et             consequens;                    et    si
-
-     tamen ex quo creavit, necesse est creasse                                                                      :       ergo ex            consequens non est necessarium                                                         ,       nec         antecedens '.
-     quo praescivit, necesse                                              est praescisse.                                                      Sed sequitur:                      si     Deus praescit                        ,           hoc esse futurnm,
-                    4.     Item,                    si   horao voluit et                     praescivil                     aliquid,           hoc            erit ,      quocumque contingenti deraonstrato, quia
-     necesse est,                                  hominem               scivisse el voluisse: ergo                                   si       oppositura non potest                                       stare:             ergo             cum consequens
-     circa scientiam Dei                                        non       est       minor certiludo, immo                                      non            sit       necessarium               ,    ergo nec antecedens.
-     maior, quam circa scientiam hominis, multo fortius                                                                                                       2.    Item, regula est, quod necessarium corapa-
-     est necesse.                     Si tudicas, sicnt aliqui dicunt^, quod                                                                   titur se                 cum orani possibili. Omne enim repugnans
-     in     hac:                   Deus praescivit, totum ex Futuro est se-                                                                    necessario est impossibile " ; sed deinonstrato aliquo
-     cundum rem                                ,
-                                                    quaravis intelligatur sub ratione prae-                                                    qui            praescitus              est         damnari,                    possibile                     est,            istum
-     teriti, unde nihil plus est dicere: Deus praescit,                                                                                                         d«o possunt simul stare. quod sit
-                                                                                                                                               salvari: ergo ista
-     nisi: Deus est, et hoc erit; contra: tunc. esto quod                                                                                      praescitus damnari  et salvetur ei hoc est irapos-
-                                                                                                                                                                                              ,                                   :
-
-
-
-     Deus nullam                                    haberet           cognitionem,            dum tamen res                                    sibile:              ergo       etc.
-
-     esset futura, haec esset vera:                                                       Deus praescit; quod                                                 3.    Itera, regula                     est,           quod                 oppositum                        contin-
-     manifeste                          falsum              est.         Praeterea,                    esto    quod prae-                      gentis est                  contingens,                     el        oppositum necessarii                                        est
-     scienliae                     addatur actus transiens                                   in        praeterituin               ,   ut       impossibile. Et regula itei-uin est,                                                            quod         si        ad ante-
-     promissio ' vel praedictio vel propbetatio, ibi transit                                                                                   cedens                 sequitur           consequens                       ,   ad oppositum                                 conse-
-     in     praeteritum                                  aliquid,          et    vere        fit       idem sophisma                           quentis sequitur oppositum antecedentis'. Ex his
-     et     idem dubium: ergo hoc non                                                       solvil.                                            arguo sic: sit A contingens praescitura a Deo, si
-                    5.     Item,                    plus         distat    non esse, quam
-                                                                                esse        et                                                 Deus praescit, A erit: ergo per regulam*, si A non
-     necessarium                                   et    conlingens; sed aliquid, quod sim-                                                    erit, Deus non praescit. Sed A non esse fuit con-
-     pliciter              non                est, habet esse in Dei praescientia: ergo                                                        tingens              ,     Deura          non               praescisse                         fuit         irapossibile
-
-
-
-
-                '    Allata Aiiselmi sentenlia in                                cil.    libro iisdem \'erbis, qui-                            necessitale est, et conelusio ex nccessitate, sicut                                                          ex veris              ve-
-     bus hic, cxpressa non in^enitur. Sed liabentur ibi, praesertim                                                                            runi, est scinper.                — Pro bonae                    condifioimlis Vat. cum edd. 4, 5
-     q.   1.        c.    1.           2.    5, aliquae propositiones docentes,                                Deum futura                     bonae consequeniiae.
-     praescire et                      quidem immulabiliter in aeternitate; ex quibus hanc                                                                s
-                                                                                                                                                               Cfr.      de hac    et     sequenti regula Aristot.                              ,   II.   Periherm. c. 3.
-     sentenliam formatam esse, verisimile                                                 est.                                                 (c.    1   2.    seq.) , ubi       de consequentiis et oppositione propositionum
-               2     Vide hic in corp. quaest.                                                                                                 modaliuni agitur,                  et     ).   Prior.           c.    12.
-               3    Ed.                 praevisio; in corp. quacst. ponitur credulitas.
-                                   1                                                                                                                      '    Haec regula habetur 1.                          Prior. cap. uil.,                         ubi Philosophus
-                     Val. adiungit hoc                           erit.    Paulo superius verbis est immii-                                     de propositionum simplicium                                     et privatoriarum                           ordine           ac con-
-     tabile cod.                   V praeflgit praescire. Paulo inlerius Vat. Dei pro sui.                                                     scqucnliis               agcns     ait:        Simpliciter                 autem           ,
-                                                                                                                                                                                                                                               quando                sic   se     ha-
-               ^    Haec regula quantuni ad simplices syllogismos insinuatur                                                                   bcnl       clc.      —     In   multis codd. et ed.                    1    legitur, ordine inverso, sic:
-     ab Aristot., I. Prior. c. 8. seqq. et derivatur ex                                                 illo   generali prin-                  ad oppositum antecedentis sequitur oppositum consequentis.
-     cipio Arislol.,                         II.    Prior.      c.   2: Ex vcris non csi falsum syllogi-                                                  *    Sciliccl :      quae hic           ullhiiu           ponitur.
-     zare   ;
-                    quod innnilur I.                           Posle]-.    c.   6   :    Cnm       aulem        medium                ex
-                                                                                                                                                  ,,
-
-
-
-
-                 678                                                                                                          SENTENllARUM LIB.                         I.
-
-
-
-
-                 ergo ad contingens sequitur impossibile. Sed hoe est                                                                                  Praetcrea,                 quomodo dependet, cum ab eo non
-                 contra artem ^                           :     necesse est igitur                         ,    hoc esse contin-                       causetur aliquo               modo? El iterum, quomodo depen-
-                 gens        ,       Deum scilicet praescire hoc.                                                                                      det        illud          quod      necessarium                 est      fuisse ,           ut actus
-
-                                4.    Item          ,     omnis divina actio, quae respicit obie-                                                      cognoscendi et credendi                           et       praedicendi, ab eo quod
-
-                 etum, quod potest non                                                    esse, potest desinere.                         Unde          ftiturum est? Non videtur                                   nec       probabile              nec     in-
-
-                 euni Deus conservet rem creatani, potest desinere                                                                                     telligibile.
-
-                 eonservare                 :       ergo             cum praescire sit respectu contin-                                                           Et ideo          alio        modo dieendum                 quod qnoddam
-                                                                                                                                                                                                                                 ,                                        ,
-
-
-
-
-                 gentis, erit contingens.                                                                                                              est    dictum de praeterito,                               et   pro praeterilo, sicut j9v?i''»pi
-                                                                                                                                                       si    dicatur         ,    Petrum         legisse      ;    quoddam de praeterito,
-                                                                                                                                                       sed pro               futuro,            ut     antichristus                  fuit       nasciturus;
-                                                                                                                                                       quoddam de praeterito et pro                                         praeterito ,              tamen
-                                                                                                                                                       dependet ex fuluro,vA hoc dictum; Petrum veriim
-                 hi dicto ,                 Deum praescire fiUurum contingens                                                             ,     li-
-                                                                                                                                                       dixisse, navale                  bellum fore; ad hoc enim. qiiod                                         di-
-                                cet    actus Dei in se                                      sit     aeternus                 et     'necessa-
-                                                                                                                                                       ctum habeat veritalem, exigitur                                           belli          eovntus; et
-                                rius, iudicanda est cantingentia in totali dicto,                                                                      ab    illo       dependet               verilas      nostrae asserlionis et                          co-
-                             ratione connotati contingenti-s.                                                                                          gnitionis, quae causatur a                             re": quoildam est dictum
-                                                                                                                                                       de praeterito,                     ((uod        non dependet, sed connotat,
-                                Respondeo: Dicendum,                                              quod, sicut                     neeessario           sicut       si   dicatur;           Deus        praescivit lioe futiirum.
-
-                 probatum                       est \                illud            constat        et        non      est        dubium                         Quia eniin Dei scientia                         est solum respectu                      veri,
-
-                 quod            Deum praescire                                       conlingens aliquod                            — cum              ideo connotat veritatem circa illud dictum futurum;
-
-              antecedit ad contingens et connotat aliqnid. qnod                                                                                        sed quoniam                  divina cognitio"                    non habet                  eertitudi-
-
-conciusi,, 1. liabet veritatem eontingentem
-                                            -- quod ipsum iudi-                                                                                        nem a re, quia ab                             ipsa     nec       causatur nec oritur,
-
-                 candum est contingens.                                                                                                                ideo ab  illa non dependet; et propterea falli non
-                             Sed aliqui                         voluerunt ipsum iudicare eontingens,                                                   potest, quamvis connotet futurum. Unde in prae-
-Expiicaiioi.quia                totum quod dicit,                                  dicit         de futuro.              —          Et    illud        scientia haec duo dicuntur, scilicet actu,s divinae
-
-                 improbatum est^ quia falsum est, et non intelligi-                                                                                    cognitionis, et hunc necessarium est esse sive fuisse;
-
-                 bile. Omnis enim intellectus, qui intelligit hoc,                                                                                     et ordinatio                 futuri ad               illum actum, et haec ordi-
-
-                 quamvis non intelligat tempus eirca Deum, intel-                                                                                      natio futnri ad illum                          actum non                 est         necessaria. Et
-
-                 ligit,          quod actus divinae praecognitionis ab aeterno                                                                         iudicanda est contingentia                                 in    totali           dicto, non             ra- •=»"= '"sioi
-
-                 fuit       in        Deo,              et      ille       differt a re futura. Et praeterea,                                          tione totalitatis                  sive principalis significati ', sed con-
-
-                 sicut           dictum est\ hoc non                                             solvit.                                                     Et si ponatur, Deum non praescire aliqiiid,
-                                                                                                                                                       notati.
-
-                             Alii      voluerunt iudicare                                         contingens, quia,                       cum          quod praescit, potest et debet intelligi non per re-
-Eipiiciiio -2.   sit dictum de praeterito, pendet tamen                                                                      ex      futuro.           motionem principalis significati sed ipsius connotati            ,
-
-
-
-
-                 Et hoc               dicunt                    in     credito               et     prophetico et dicto a                              sive        illius         ordinis        ipsius temporalis ad                            aeternum,
-                 Christo, et consimilibus                                                  quae inferunt de                          necessi-          qui        quidem est contingens ratione alterius,                                            scilicet
-
-                                                                                                    — Et
-                                                                                      ,
-
-
-
-
-                 tate        propositionem de futuro.                                                                  illud        est         im-    temporalis. Contingentia ergo est in totali dicto, quia
-
-iinprobatui-.    probabile ', ut videtur                                          ,
-                                                                                          quoniam               si     actus         divinae           connotat aliquid esse                          verum de                  futuro, quod qui-
-
-                 praecognitionis pendet                                               ex futuro, tunc, cum                               in     fu-    dem est contingens.
- soianduin.      turo,               quantum                    est        ex parte               rei contingentis,                       nulla                   Et hoc patet                 sic.   Cum enim dicitur: Deus prae-<
-                 sit        certitudo,                         nec in                 divina         praecognitione esset.                             scit te          salvandum;                hic       duplex includitur actus                              et
-
-
-
-
-                         ^       Scilicet: logicam, vol specialiler syllogislicum (cfr.                                                   cl.   40.           *    Hic       in    i.    arg.     od    opposil,            —        Pi'o    praeterea      Vat.
-
-                 a.    2.        q.    I.       ad            4.),    in     qua liabetur regula contraria, primo                                      propterea.
-                 loco in hoc argumento posita. Ut praedicta melius intelliganlur                                                                              5    Cod.           impossibile. Pro            Et illud cod. R Sed etiam illud.
-                 verba Mastrii ex eius Curs.                                          Philos. tom.         I.    tr.    2.    c.    9.   n.     77.           « Cfr.         Aristot. ,   I.    Periherm.      c. 7. (c. 9.). Val. qum cod. —
-                 de hac re hic ascribinius                                   :    Sicut contrariantur                  omnis et nwllus,                cc in tertio huius propositionis                       membro pro qmddam de prae-
-                 ita    necesse el impossibile; et sicut subcontrariantur                                                          quidam et           terito et pro praeterito ponit                       tantum qvoddam pro praeterito,
-                 quidam non                 ,       ita       subcontrariantur possibile et possibile non. Et                                          et    subinde pro dependet ex futuro                            cod.     R dependenU ex                   fu-
-                 rursus, sicut contradicunt nullus et quidam,                                                          omnes et quidam                 turo. Paulo inferius post nostrae assertinnis eadem Vat. omittit
-                 non,           ita   contradicunt impossibile et possibile                                             seu        contingens          et    cognilionis,           et post      pauca        in quarto         eiusdem propositionis
-                 item necesse et possibile non seu contingens          non  et tandem,                                        ;                        membro post sed connotat addit veriiatem circa illud futwuni;
-                 sicut          omnis et aliquis, nullus et aliquis non subalternantur,                                                                ed.    I    hic addit       futurum solum.
-                 ita    etiam necesse                         el possibile                seu contingens, ac impossibile et                                   '    Codd. L              praecognitio.
-                 possibile            non seu contingens non.                                                                                                 8    Sicut contendunt qui priniam sequuntur                                       opinioncm   ,     in
-
-                            '    Hic in fundam.                        —         In       Vat.    deest        necessario.           Mox pro           pi-incipio corp.            quaest.       impugnatam.                — Paulo superius                pnst
-                 antecedit ed.                  1       antecedat et connotet pro connotal.                                                            et    Jmeo ordinatio complures                       codd.       ut      A T V Z cum
-                                                                                                                                                                                                                                     I                    cd.         I
-
-
-
-
-                            3    Hic in         4.        arg.        ad opposit.            —      ,Mox post           non        intelHgibile        omittunt futuri.
-                 multi codd.                cum ed. 1 addunt illud.
-                                                                                                                                                                                                                                    ,
-
-
-
-
-                                                                                   DIST.            XXXVm. ART. II. QUAEST. II.                                                                                               679
-
-         compositio,                 videlicet           hic": tu           salvaberis,                      et    hic:   test aliter           se        habere,                convertitur           cum
-         Deus habet                  cognitionem                de       salute             tua      et       habuit      sed        illud       quod           dicitur               immutabile, quod non                     est
-         cognitionem ab aeterno. Habere quidem cogmtionem                                                                 aliquid            actu     ,    non        convertitur °.                 Et     sic est         verum
-         est actus aeternus et necessarius ,                                       quia non depen-                        contingens de futuro                         ,        antequam res sit. Hoc dictum
-         det a re; sed salvari est actus                                        futurus et                    conlin-     antichristum                    fore,        est        modo verum immutabile,
-         gens.           Quoniam igitur actus divinae                                      cognitionis non                quia        si   ponatur, esse verum                           ,
-                                                                                                                                                                                              ponitur, quod semper
-         dependet               a    cognito,            ideo      potest esse                    certitudo in            fuerit;          et    similiter                 si    falsum,            et hoc,          quia    nihil
-         ipso,           re    contingente          '^
-                                                          existente.             Sed quoniam, ut                          actu        ponit.         Quoniam                    igitur       Deum praescisse con-
-         significatur per                  modum             praescientiae , connotat fu-                                 notat futurum contingens, ideo est dictum immula-
-         turum contingens, et omne dictum, quod daudit in                                                                 bile; nec             ex hoc               sequitur,               quod     sit       necessarium,
-         se contingens, iudicandum est contingens; ideo to-                                                               ut visum              est.
-
-         tale       contingens             iudicatur.              —       Et      haec            solulio est                 Tamen aliqui volunt aliter dicere quod Deum Aiia soiutio
-                                                                                                                                                                                   ""^
-                                                                                                                                                                                                            ,
-
-
-        i.vera et generahs.                 Nam actus creduUtatis, actus pro-                                             praescire hoc futurum contingens est immutabilebabms.
-         phetationis et divinae assertionis propter hoc,                                                          quod    a parte praescientis, sed a parte                                          rei praescitae est
-         currunt secundum illustrationem divinae praescien-                                                               mutabile, et ideo ex parte illa contingens. Sed tamen
-         tiae,       ideo connotant, et                      non dependent; ideo                                  certi   illud difflcile est dicere; quod enim praescitur semel
-
-         et    infallibiles          sunt de rebus in se non certis.                                                      semper praescitum fuit, et Deus potest non" praescire
-                    i.    Ad     quod obiicitur de Anselnio,
-                                 illud ergo                                                                               futurum contingens,                              ita    quod        nihil flat         circa       futu-
-        i-quod necesse est praescire quod praescit; dicendum,                                                             rum, et ita                nulla mutatio. Et                             propter hoc           modus
-         quod lioc intelligit quantum ad actum praecognitio-                                                              alius dicendi est rationabihor.
-         nis, quem necesse est fuisse, sed non quantum ad                                                                            7.    Ad    illud         quod ultimo                     obiicitur,            quod nihil
-         connotationem futuritionis ^.                                                                                    eiis       aeternum est contingens; dicendum                                           ,
-                                                                                                                                                                                                                      quod ens
-                    2.    3.    Ad    illud    quod          obiicitur ,           quod dictum est                        aeternum              est       dupliciter:                 aut pure aeternum, aui
-         de praeterito: dicendum, quod quantum                                                     est        de ra-      quod connotat temporale de futuro; et pure aeter-
-         tione           praeteritionis,            necessarium est: sed quoniam                                          num est             necessarium, sed connotans temporale de
-         connotatur fulurum                    ,    ideo est contingens. Et ex hoc                                        futuro ratione connotati polest                                          iudicari contingens,
-         patet sequens, quia       quantum ad illud futurum non                                                           sicut etiam ratione illius potest desinere.
-
-         est *       adhuc potentia in actu immo adhuc potest          ,                                                             Summa dictorum est ista, quod Deum prae-mogai
-         exire, ideo etc.                                                                                                 scire           futurum contingens                                 est    quoddam dictum,
-                    h.    S.    Ad    iilud quod obiicitur,                      quod est cognitio                        quod claudit in                      se    actum divinae                   cognitionis            aeter-
-         sine existentia rei , ergo necessilatis sine rei                                                     neces-      num, et ordinationem dicit ad futurum                                                  contingens.
-         sitate;          dicendum,            quod          verum              est,        quod in actu                  Et     quamvis actus divinae cognitionis ponat ahquid
-         cognitionis est necessitas, sed                                   non     in toto.              Nec        est   existens necessarium et aeternum;                           illa tamen ordi-
-
-         simile, quia praecognitio                           non connotat actualem                                  rei   natio ponit futurum,                         quod contingens est. Et iterum,
-         existentiam,                sed    connotat               rei      futuritionem ; et ad                          quamvis dicat                    ordinationem                  ,     non     tamen          dicit de-
-
-         hoc, qnod dictuni                    sit   necessarium, necesse est, quod                                        pendentiam, sed                      solum connotationem;                             et    ideo non
-         sit   necessitas in connotato.                                                                                   ponit ' incertitudinem.                                Et    hinc         est,        quod        Deum
-                    6.    Ad     illud     quod          obiicilur,          quod orane immu-                             praescire futurum est                                  continyens ratione connota-
-        ;tabile necessarium;                   dicendum              ,      quod            ad esse mu-                   tionis      ad contingens:                        est       immutabile ratione ordi-
-Scel'
-         tabilis         duo concurrunt: quod se habeat uno modo                                                          nationis ad              futurum, quod potest non                                     esse,       nulla
-         prius ,          et aiio      modo              posterius;           et           per oppositum                  facta " mutatione ; est certum ratione independentiae
-
-         immutabile potest                     dici         dupliciter:                    aut     quia nihil             ab eodem. Et hoc patebit infra planius in distinctione
-         actu est, aut quia actu est et non                                            potest aliter se                   de praedestinatione '.
-        habere. Illud ergo immutabile, quod est et non po-
-
-
-
-
-                '   Pro hic codd.          A M S aa bb cum ed.                     I       lum hoc !oco tum               ctum pi-oducat; tamen relate ad fulurum, quod nondum est
-        proxime post exhibent haec,                        scil.   compositio.                                            productiim, dici potest esse non in actu, scil. transeunti.
-                2   Cod. T conUngenter. Subinde pro quoniam ut Vat. qvmdo,                                                    5 Codd. G aa non convertitur cum necessario. Mox      ante
-         Paulo inferius post ideo tolale supple                    cum cod. R dictum.                                     Hoc dictum Vat. interiicit Et sic, codd. R X sicut. Paulo post
-                3   Pro futuritionis cod.                K futuri continyentis.                                           pro actu ponit cod.                  A actu ponitur.
-                *   Codd. L           non exivit. Mox verbo                      eocire           Vat.       praefigit        ^ Vat., verborum ordine inverso, non potest ;                                             cod.    V
-        non. Codd.             R X textum sic supplent               :     potest exire et non exire.                     non potest non.
-        — Sensus huius propositionis                       hic est : Licet potentia divina,                          m        ' Codd. Z bb non pricat certitiidinem vel ponit.
-
-         se considerata , sive             quatenus est ipse Deus                      ,    sit    actus          purus          8   Cod.          hic addit in eo.
-         et nullalenus niutetur,              transeundo a potentia ad actum                             ,    ut effe-           '   Dist.   40.     a.   2.    q.    I.    2.
-                                               SENTENTIARUM LIB. 1.
-
-
-
-
-                                                 SOHOLION.
-
-
-           EandiMii qiiacstiom
-
-
-Uli'iini   sil   possibili',   Dinini   noii
 
 ## English
 

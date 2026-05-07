@@ -4,10 +4,15 @@ volume: 1
 book: 1
 distinctio: 34
 type: littera
+title_la: "De diversis comparationibus personae ad naturam — littera Magistri"
+title_en: "Various comparisons of person to nature — text of the Master"
+printed_pages: [583, 584, 585, 586]
+pdf_pages: [173, 174, 175, 176]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 583–586"
 line_start: 16585
 line_end: 16888
-word_count_latin: 2793
-transcription_status: "auto-chunked 2026-04-18"
+word_count_latin: 2820
+transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
 format_version: 1
 ---
 
@@ -15,7 +20,178 @@ format_version: 1
 
 ## Latin
 
-DISTINCTIO XXXIV.
+
+
+                 neraliii             i>i    i;i'iii'i;iin         ^im'             uiiicial.          A           liichardo a Med. aliisque                               rum ut agenlium, sed ut principiorum, per quae supposita
+                 eutlcm           i|ii,ir<lio              his    mtIms              |ii-oponilur                  ;    »    Ulrum             ntliectiva          per-    agunt: ideo, quamvis haec                                  sit   concedenda: Pater generat, liaec
+                 sonalia praedicanUir                              dc           prtiprietatibus ».                            Rationes                  principales        tamen non est concedenda: Paternitas generat ».                                                    — Quod pn-
+                 falsae opinionis sunt argg.                                        I.       et 2.    ad opposit., quae concludunt                                         mae (transcendentales) intentiones super se reflectuntur, id est
+                 a paritate             ,
+                                            quia videlicet adiectix a essentialia denominani abstj-a-                                                                      de se praedicantur, iam dictum est supra                                                 d. 3.         p.    I.    dub.      3.
+
+                 eta; ct etiam                     primae intentiones, id                                              est    transcentlentales,                     ut    et d.        17. p.       I.   q.       2.   ad   i.
+
+                 unum, verum, bonum, denominative de se                                                                               praedicantur.                Non             II.    S.       Thom.,          hic q.        1.    a.    i ; S.          I.    q.   iO.   a.       I.    ad   3.   —
+                 subsistere lianc paritalcm                                     ,    probatiir in corp. et ad                                      I.    2.   Senten-      B. Alberl., hic a. 8.                   —     /Egid.        K.,    hic       2.    princ. q.           I.    — Dionys.
+                 tiam Serapliici approbat                                   el       magis explicat Richard. a Med. (hic                                                   Carth., hic q. 2.
+
+                 a.    3.        q.    2.)    his verbis:                   «   Quamvis eandem rem signidcat jphp-
+
+
+
+                                                                                                                                 DUBIA CIRCA LITTERAM M.^GISTRl.
+
+
+                                                                                     DUB.             I.                                                                   dum           accidens:                      proprietas est essentia; et essentia
+                                                                                                                                                                           non           distinguitur °:                     ergo            nec         proprietas.                    Sed          hoc
+                                 In parte ista                          sunt                     dubitationes                             circa          litteram          Magister non dicil incomprehensibile, sed dimittit tan-
+                 el     primo de responsione                                                      Magistri,                      quam ponit ibi:                           quam               sophisticum                    et       indignum discussione                                        maio-
+                 Horum                       doctrinis novis et humanis. Videtur enim                                                                                      rum.           Sed           illa        quaestio                 ve^-itatis ,               quae sequitur
+                 insuflieienter respondere, quia                                                                       non        solvit            argumen-               incomprehensibilis est                                     secundum statum viae: quo- «^^«'J^'
+                 tum, sed                     dicit,              quod                est incomprehensibile;                                                  et    vi-    niam,              si    per         omnimodam                         identitatem                     praedicalur                  *'''''"•
+
+
+
+                 detur, quod                                ista        evasio                    nulla                 sit.      Aul enim argu-                           essentia                de      proprietatibus et                             e converso, haec di-
+                 mentum                      necessario                             concludit,                              aut           sophistice:                 si   stinguitur, et illa non; et                                            hoc        est        nobis incompre-
+                 necessario , tunc ergo, cum procedat ex veris, con-                                                                                                       hensibile.               Quia                enim          videmus per speculum'',                                          in-
+
+                 clusio                est         vera;               si           non necessario, tunc ergo so-                                                          teUigimus per sirailitudinem                                             suratara                  a        creaturis;
+                 phisticum est; sed                                         unum sophisma non est incom-.                                                                  et      hoc nullum sub caelo habetsiraile, inirao solius
+                 prehensibile                          :     et        ita^              videtur, quod raale applicet                                                      Dei est                 propriura                 propter              summam simplicitatem:
+                 auctoritalem                              Hilarii.                                                                                                        ideo Magister dicit                               esse           incomprehensibile.                               — Nec
+                                 PiESPONDEO:                       Dicendum, quod ad arguraentum                                                                           est      siraile               de genere                    et         differentia:                    quia            genus
+                 facile esl                   respondere, quia                                        ibi               est       sophisma secun-                          praedicatur de differenlia, et haec distinguit,                                                                   et illud
+
+
+
+
+                             '    l'ro       communiter cod. R similiter.                                                                                                  codd. non pauci                     cum edd. 2, 3 quod repugnantia sit ihi.                                            — De
+                             -    Sive: subiectum est in ista propositione. Similiter verbo                                                                                uliima propos. solutionis vide supra d. 17. p. 1. q. 2. obiect. 4.
+                 praedicatur, (juod                              mox sequilur, vis subiicienda est: est prae-                                                                       =    In    multis codd. deest ita, pro quo cod. X el ed. 1 ideo.
+                 dicatum in hac propositione                                                 :   paternitas est                           generans.           — Post                "    Vat. hic et inferius distinguit.
+
+                 praedicatur plurimi codd. nec non edd. 2, 3, 4, 3 adiiciunt Pa-                                                                                                    '    iipist.     I.   Cor.           13, 12.        — Paulo superius voculae haec
+                 ter,        ed. 1 paternitas; mendose.                                                                                                                    (scil.       proprietas) codd.                    L        praemittunt cur. Paulo inferius post
+                             3    Plures codd. ut                       GST                  W ee      ff          cum ed.                 I   ,   immutata          in-   Dei Vat. omittit est, quod in pluribus codd. ut                                                        I    T aa etc.        et
+
+                 terpunctione                  ,     sic :       vera esset tunc,                               et esset sensus.                                           in cd.         I    congrue adiungitur.
+                             *    Codd.            APQT cum ed.                                   I   qua^ repugnantia sit ibi; alii
+
+                                                                                                                                DIST. XXXIU. DUBIA.                                                                                                                                  381
+                                                                                                                                                     '
+
+]
+                 nori ,       quia           non              praedicatnr                         per identilatem. Ideo                                   et    nos           modo              fide       tenemus: ergo                            in       patria             cogno-
+                 cum           Hilario dicit,                        quod           est            incomprehensibile                       ,    et        scemus.
+     describit incomprehensibilitatem quantum ad tripli-                                                                                                                 Respondeo: Dicendum,                                      quod,             sicut             dicit          Au-
+     cem vim: quantum ad receptivam, cum dicit in-                                                                                                        gustinus                     de     Trinitate^:                     «Sicut fovea dicitur esse
+icomprehensibile etc; quantum ad expressivam, cum                                                                                                         caeca,              non             quia        ipsa               non videat, sed quia quod
+     dicit extra sermonis significationem ; quantum ad                                                                                                    habet non ostendit aliis»;                                           sic        Angeli dicuntur igno-
+                iudicativam ^,                      cum dicit extra sensus intentionem.                                                                   rare et Sancti propler hoc, quod non revelant taha,
+                Et          alia,       quae sequuntur,                                     his      tribns aptantur, ut                                  sed            magis              intelligibilia;                   et    quia            talia         non habent
+                patet inspicienti.                                                                                                                        simile in creatura,                                  immo magis dissimile: ideo                                              di-
+                                                                                                                                                          cuntur nobis incomprehensibilia. Et removet Hilarins
+                                                                          DUB.              II.
+                                                                                                                                                          triplicem cognitionem, quam habemus de rebus
+I
+
+                                                                                                                                                          divinis:          una est per Angelorum revelationem aha                                                               ,
+                             Itera       quaeritur de                          responsione Magislri,                                   quam
+                                                                                                                                                          per            Prophetarum illuslrationem  tertia per Apo-                            ,
+
+                facit         ibi:           Quorum audaciae resistentes                                                        etc.      Dicit
+                                                                                                                                                         stolorum praedicationem. Et                                                dicit,           Angelos non aw-
+                enim, quod proprielates sunt in hypostasibus et eas
+                                                                                                                                                         dire, quia ipsi                             recipiunt revelationem a maioribus
+                determinant; in essentia sunt, sed eam non determi-
+                nant. Videtur                      enim esse oppositio, quia omnis pro-
+                                                                                                                                                         et nobis                 non exprimunt'.                            — Magister                  igitur         bene           re-
+                                                                                                                                                         spondet, ostendendo insufficientiam.                                                        Si           enim           quae-
+                prietas est determinativa eius in                                                         quo            est,       alioquin
+                                                                                                                                                         ratur, quare proprietas est in persona ut distinguens,
+                in illo             non           est:            ergo        si    proprietates non determi-
+                                                                                                                                                          in        essentia                non;          respondetur,                         quod           persona                  se
+                nant essentiam                      ,        non sunt in                          essentia.
+                                                                                                                                                         habet ad aliam                            et      refertur et distinguitur. Et si hoc
+                             Respondeo                  :     Dicendum                  ,     quod Magister bene re-
+                                                                                                                                                         respondeatur,                          adhuc manet                           quaestio, quare
+                spondet,                quia                haec         praepositio                      m notat diversas                               sona refertur; et respondetur, quod una est essentia,
+                                                                                                                                                                                                                                                                                     per-
+
+                habitudines. Aliter enim dicitur Pater in Filio, aliter
+                                                                                                                                                         tres personae.                         Si     tu quaeras huiusmodi                                       onunno               si-
+                paternitas in Patre.                                 Pater enim in Filio esse dicitur
+                                                                                                                                                         mile,               non            invenies;                et       ideo         in       fundaniento                      fldei
+                non          sicut proprietas                            distinctiva,                    sed         sicut persona
+                                                                                                                                                         oportet sistere.
+                consubstantialis ; paternitas in Patre, sicut                                                                       proprie-
+                tas distinctiva.                    Sic             vuU dicere                     Magister,               quod        aliter                                                                       DuB. IV.
+    :otandum.   sunt          sive           dicunlur                    esse       proprietates                          in        essentia
+                                                                                                                                                                        Nolandum super ista solutione Magistri                                                                   quam
+                quam              in     pe?-sona.                  Nam in                    essentia di^untur esse                                                                                                                                                        ,
+
+
+                                                                                                                                                         ponit hic:                    Nos autem ista                              aliter intelligenda fore
+                propter identitatem,                                 ita       quod in omnino dicit iden-
+                                                                                                                                                         dicimus, quod locutiones                                             istae,        quas             proponit Au-
+                titatem ; in personis dicuntur esse , sicut verae pro-
+                                                                                                                                                         gustinus^                      scilicet               «Pater           non qo &?,\, substantia,
+                prietates in                  hypostasibus                          et           determinationes in de-
+                                                                                                                                                         quo est Pater»                              et consimiles,                        duplices sunt, quia
+                terminatis. In creaturis                                       autem non                           est uiras modus
+                                                                                                                                                         ablativus                     importat                habitudinem                     in ratione                   formae
+                sine alio, quia proprietas                                         non omnino idem est                                    cum
+                                                                                                                                                         sive causae formalis,                                      quamvis               in    divinis            non cadat
+                eo cuius est                      proprietas:                       et        ideo         in       creaturis              non
+                                                                                                                                                         vere                habitudo                causae               quantum ad                         rem,               tamen
+                dicitur             esse          proprietas                       in        aliquo,               nisi        in eo cui
+                                                                                                                                                         ((uantum ad rationem intelligendi. Potest igitur cau-
+                inhaeret; non sic in divinis^
+                                                                                                                                                         salitas             cadere sub negatione, ut                                          sit   negatio causa-^^e^ti
+                                                                         DUB.       III.                                                                 litatis;                 et      tunc locutio                       est vera, et in                      hoc sensu
+                                                                                                                                                         accipit              Augustinus,                          et     Magister exponit. Est enim
+                             item quaeritur                              de     alia              responsione                   Magistri,                sensus: non eo est Deus,                                             ^o Pater; quia paterni-
+                quam facit ibi: Respondeo                                                   et     hic         tibi       cum          Hila-             tate est                 Pater          tanquam                     ratione dicendi vel                                intelli-.
+
+                rio etc. Videlur enim falsum quod dicit, quod solutio-                                                                                   gendi; non                       sic    autem paternitas                               est ratio dicendi,
+                nem istius quaestionis Archangeli nesciunt. Cumenim                                                                                      ipsum esse Deum,                                          vel       intelligendi ;                  et   sic       locutio
+                sint         comprehensores,                                  constat               quod             omnia cogno-                        vera est et nihil                            facit          pro Porretano. Potest iterum
+                scunt,         quae sunt de substantia gloriae: ergo cogno-                                                                              esse causalitas neqationis ; et tunc est falsa , et est                                                                              causa
+                                                                                                                                                                                                           T^                        r^              .   .
+                                                                                                                                                                                                                                                                                             negatio
+                scunt distinctionem personarum                                                           et        essentiae unita-                      sensus: non eo est Deus quo Pater, id est quantum
+                tem          et     modum:                        ergo         vident,                   quare proprietates                              ad     illud             quod          est     Pater , non esl Deus; et in hoc
+                determinant hypostasim, non essentiam.                                                                     Et iterum,                    sensu accipit Porretanus                                        ,   et ita est falsus intellectus,
+
+                si   comprehensio                            erit    '     de           quibus                est        modo          fides;            et sic              non       accipit          Augustinus ".
+
+
+
+                        1
+                             Supple cuni                    cotl.         Magister.                                                                      quae occulta                  est.   — Mox voci Sancti plures codd. ut X aa bb                                 I
+
+                        2    Vat.      cum pluribus codd. et edd. indicativam                                                   ,   sed    per-          prnofisunt alii.
+                peram, ut etiani ex Kichardo, hic                                                circa    lit.     apparel.          De hoc                         6   Cod.       B clarius sic               :   quia licet ipsi recipiant revelationem
+                dubin        cfr.      supra       q.        2.                                                                                          a mttiorilms, tamen nobis non exprimunt. Pro quiaipsied. 1
+                        3    Plura       de        hoc            invenies         supra            q.        I.    ot    2.    Cfr.      etiam          quantum                  ipsi.     Ante       exprimunt non pauci codd. cum                                                 edd.
+                S.   Thom. ct Richard., hic circa lit.                                                                                                   2,    3,       i,   S,    6 !ulfO omittunt non.
+                        *    Cod.       T est.                                                                                                                      ' Vide hic lit. Magistri, c. 2, et in Comment. q. 2. nrg.                                           1   .   ad opp.
+                        '"
+                             Libr.      I.   c.    12. n.           23: Ko namque gcnere                                  locutionis           ne-                  * IIoc        dubium solvunt etiam B. Albert., Iiic a. 9                                       ;    S.      Tliom.
+                scire        quisque          dicitur             quod oecullat, quo                          dicitur          fossa      caeca          ot    Hiohard., hic circa                      lit.
+
+                                                                                                                 ,                                                                                                         ;
+
+
+
+
+                                                                                                  SENTENTIARUM LIB. I.
+
+
+
+
+                                                                                              DISTINCTIO XXXIV.
 
 
                                                            Cap.       I.                                             per rem naturae pcrsonam                          ,    et    nomine nalurae fljvinam
@@ -100,7 +276,8 @@ J^m"''°°" naturam    Dei              ,   asserentes, naturam Dei non esse Irc
 
             rioribus verbis Vat. et aliae edd. superioribiis per verba, r.-                                          per naturam Dei habet per naluram rei.
             fragantibus codd. et ed.                  I.
-                                      .                                                                                                ,,                                            .                                                                     ,
+
+                                      .                                                                                                ,,                                            .                                                                     ,
 
 
 
@@ -147,174 +324,6 @@ Deo.         errorem esse, sub mensura creaturarum metiri Greato-               
              esl, cum Spiritus Dei Deus sit, et Dei Filius sit Deus.                                                                        dicitur Pater                 ad    se       et Filius               ad se       ,   hoc     est Pater et
                          Non ergo secundum corporales modos, ut in eadem                                                                    Fiiius , id est                Deus »
              serie subdit, accipienda sunthaec quae de Deo dicun-
-             tur.        Ubi        evacuans
-                                opinionem eorura qui ita pulanl                                                                                                                               Cap.       II.
-
-             aliud             essealiud qmd Bei est , aliudque
-                                            Beum , et
-             naturam Dei et rem naturae, ut est iu creaturis, aperte                                                                        Utrum ita possit dici unus Deus triim personarum,
-             docet, non aliud esse Deura*                                          et   quae          sua        sunt,            ita          ut dicitur una essentia trium personarum, et Ires
-amHiuv ut iusint illi, sic dicens °:   « Homo aut aliquid ei simile,                                                                                personae unius Dei, ut                                   tres          persmiae unius                es-
-             cum alicubi erit, alibi non erit, quia id quod est                                                                                        sentiae.
-             illic        continetur, ubi fuerit in forma, ut non ubique sil
-             qui insistens alicubi                            sit.      Deus autera immensae                               virtu-                      Hic considerandum est,   cum Deus sit divina es-
-             tis,     vivens potestas, quae nusquara non adsit nec desit                                                                    sentia      , et ita dicatur unus Deus esse tres persoiiae
-             usquam, se omnem per sua edoeet, et siia non aliud                                                                             sicut       una essentia dicitur tres personae, utrum iia va-
-             quara se esse signiflcat, ut ubi sua insint, ipse esse                                                                         leat       sane dici          ,   unus Deus triura personarum                                     ,   vel tres
-             pe9- sua intelligalur. Non auteni corporali inodo, cum                                                                         personae unius Dei, sicut dicitur una essentia triura
-             alicubi sit, non etiam ubique esse credatur, cum pei-                                                                          personarura et tres personae unius essentiae.
-                                                                                                                                                                      ,                     In his nesponsio.                                 —
-             sua in oranibus fsse non desinat. Non aliud autem                                                                              locutionibus Scripturae usus nobis aemulandus videlur,
-             sint, qiiara quod est ipse    quae sua sunt. Et haec          ,                                                                ubi frequenter reperitur                              ita    dictuin: una                   est       essenlia
-             propter naturae intelligentiam dicta sunt». His verbis                                                                         Iriiirn         personaruin         ,    et tres suiit                       personae unius essen-
-             aperte signiflcat                      —
-                                   tamen intelligis, haeretice
-                                                        si       quia                                                    —                  tiae;       nusquam autem                        occurrit                    legisse,      unum Deum
-             divina natura non aliud est ab his quae sua sunt,                                                                              trium personarum », vel tres personas unius Dei. Quod
-             ita ut insint, et per illa in omnibus est suis, quae non                                                                       ideo puto sanctos doctores vitasse, ne ita forte accipe-
-             insunt. Sua enim sunt eliam quae non insunt, id est                                                                            retur in divinis personis , ut accipitur,                                               cum de             crea-
-             omnes creaturae; et sua sunt quae insunt, ut tres                                                                              turis simile quid dicitur.                            Dicitur eniin Deus                     Abraham,
-             personae, quae sunt eiusdem naturae et eadem natura,                                                                           Isaac       et    lacob °, et Deus omnis creaturae.                                         Quod utlque
-limomiimsicul              supra Augustinl ° testiraonio flrinaviraus dicenlis:                                                             dicitur propler principium creationis vel gratiae '" pri-
-ugustini.    .                                            .         ,                   .             ,              ,
-             tres         personas esse eiusdera essentiae                                       vel       eandem                es-        vilegium,                et   creaturae subiectionem                                  vel    servitutem.
-             senliam,               sed           non    ex eadem essentia, ne aliud                                       intel-           Cura ergo                in Trinitate nihil sit                              creatum        vel       serviens
-             ligalur essentia, aliud persona.                                     — Non tamen                  diffltemur.                  vel    subiectum, non adraisit                                   fides          in    Trinitate            talem
-
-
-
-
-                     1     Quae praecedunt inveniuntur ibid.                                n.   27. et 28.          — Locus                cum plurimis edd. addit quae post desit usquam,                                                   sed contra
-             s.   Scripturae esl loan.                       10,     30.                                                                    originale,        codd. et ed.            I.      In fine contra                 codd. Vat.           cum aliis
-                     -    Libr.           1.   de Tiin.       n.     19.       Uliima proposilio               esl       VIII.    de        edd., excepta 8, aiitem aliitd sunt pro aliud                                           autem sint.
-             Trin. n.           U.                                                                                                                 «    Libr. VII. de Trin.                  c.   6.    n.   II. Cfr. d. V. c. 2. pag. 110,
-                     '    De hoc et sequenli loco vide supra pag. 582, nota                                                      I.         nota 7, et d.             XXV. c. 1. pag. 432, nota 5.
-                     ••
-                           Vat. et edd. 4, 6 addunt glossema: et aliud,                                              quod Dei                      '    Enarrat. in Psalm. 68, sermo 1. n. S. Cfr. d. XXXIII. c. 2.
-             est ,        aliudque             mturam Dei, refragantibus omnibus codd.                                                et           8    Codd.        et edd. 3, S, 7, 8, 9                       omittunt personarum.
-             aliis   edd.                                                                                                                          ^    Exod.        3,   6; alius locus est ludith 9,                           17.
-                     ' Ibid.            n.     24. In   quo textu pro fuerit in forma, vi ed.                                                      ">    Sola Vat. gloriae.
-             Hilarii           fuerit;            inflrma ad id natiira eius vt. Dcinde Vai.     ,
-                                                                                                                                                                                                                     .          ,
-                                                                                                                                                                                                                                ,,:
-
-
-
-
-           S84                                                                                    SENTENTIARUM LIB. I.
-
-           loculionis nioduin. Ita etiam e converso non dicilur de                                                                «Diclus est etlani Spirltus sanclus Deus el dlctus                            ,
-
-
-
-           Dei essenlia, quod ipsa                             sit    essentia Abraham                 ,   Isaac el       est    habere spirltum Deus; et videbalur hoc quasl no-
-           laeob vel allcuius creaturae,                                ne Crealoris et crealurae                         men inflationis et tumoris  unde hnmana conscien-      —
-           naturani conlundere vldeamur.                                                                                  tia ad Deum pro rlgore el crudelltate accedere mc-
-
-                                                                                                                          tuit    — Ideo Scrlplura temperavit scrmonem siium
-                                                                                                                          spiritum          bonum nominans       ne crudelis putaretur qui
-                                                                                                                                                                                  ,
-                                                          Cap.        III.
-                                                                                                                          mitis erat ;            non quod Pater solns sit potens vel magls
-                                                                                                                          polens      ,    el Fillus solus sapiens vel                               magis sapiens         ,   et
-                   (Juod polentia^ sapientia, bonilas in                                      Smplura                     Spiritus sanctus solus bonus vel magls bonus. Una est
-                        interdum ad personas distincte                               referuntitr.                         ergo potentia,                    saplentia,       una     bonltas Mrlum         ,    sicut
-                                                                                                                          esscntia; ideoque, sicut dicitur Fllius homoousios, id
-
-                    Ex praedictis'       quod sicut essentia, ita
-                                                       constat,                                                           est consubstantialis Patrl, ita et                                   coomnipotens »
-           potentia. sapientia, bonilas deDeo dicuntur secundura
-           substantiam. Quae aulem  secundum  substanliam de Deo                                                                                                              Cap. V.
-
-           dicuntur tribus personis pariter conveniunl. Una esl
-           ergo potentia            ,    sapientia , bonilas Patris et Filii et Spl-                                             De hoc nomine homoousion, ubi in auctoritate
-           ritus sancti , et hi        eadem potentia eadem sapien-
-                                                  tres                                   ,
-                                                                                                                                                 receptim sil,                  et     guid significet.
-           tia ,    eadein bonitas. Unde aperltur in Trinilate summa
-           esse perfectlo. Si enim ibi deesset polentia vel saplentia                                                             Hlc non              est        praetermiltendum, quod Augustinus
-           vel bonitas,            non esset summum bonum. Sed quia ibl                                                   in llbrosecundo * contra Maxlminum dlcit de hoc no-
-           est perfecta polentia, inflnlta saplentia,      incomprehen-                                                   mine homoousion, quo Latini tractatores frequenler
-           sibilis       bonilas, recte dicitur et creditur                                   sumnium           bo-       utuntur. «Pater, inqult, et Filius unlus sunt eiusdem- Augnsiinui
-
-           num. Cumque unum          idem penilus sit in Deo po-
-                                                         et                                                               que substantlae. Hoc esl lllud homoousion, quod in
-           tentia, saplentia, bonilas; in sacra tamen Scrlptura                                                           Concllio Nicaeno adversus haeretlcos Arianos a catho-
-
-           frequenter solent haec nomina distincte ad personas rc-                                                        llcis   Patrlbus verilatis auctorltate flrmatum est; quod
-
-           ferri, ut Patri potenlia, Fillo sapientia, Spiritui sanctu                                                     postea          in Concilio Ariinlnensl, propler novitatem verbi,
-
-           bonltas attribuatur.                      Quod quare              flat,       non est otiosum                  minus quam potult intellectam                       — quam tamen                                 fldcs
-
-           inquirere.                                                                                                     antlqua pepererat                       — multls paucorum fraude deceptls
-                                                                                                                          haeretica Implolas siib liaeretico                                    imperatore          Constan-
-                                                                                                                          lio                                     longum tempus
-                                                                                                                                 labefactare tentavit. Sed post non
-                                                              Cap. IV.
-                                                                                                                          liberlate             fidei               poslquam vls
-                                                                                                                                                            catliolicae               praevalente,
-                                                                                                                          verbi, sicut debuit,                  homoousion illud
-                                                                                                                                                                            Inlellecta        est,
-           Quare Patri potenlia, Filio sapientia, Spirilui saticto                                                        catholicae fldei sanltate longe lateque defensum est et
-                    bonitas tribuatur,                    cum sit una potentia, sapientia,                                dlffusum. Qiiid enim est homoousion nisi unius elusdem-
-                    bonitas trium.                                                                                        que substantlae? Quid est inquam homooiision nisi      ,                   ,
-
-
-
-                                                                                                                          Ego et Pater unum sumus? Non ergo                                              Inter      profanas
-                        «Id ergo sacri eloquii prudentia                                 facere            curavit,       vocum novitates hoc vllandum esl ».
- Hugo a s. ne  Dei immensitatem simillludioe creaturae metlremur.                                                                 Praeterea sclendum est, quod in asslgnatione di-
-victore.
-           j)i^g,.a^ gni,„ Scriptura sacra quia Deus Pater est, ct      ,
-                                                                                                                          sllnctionls            nominum inter alia, quae supra dillgenter Pauoa.
-                                                                                                                                                                        ,
-
-
-
-           quod Deus Fllius est; et audlvit hoc liomo qui ho-                                      ,
-                                                                                                                          executi          sumus     quaedam diximus ' trauslative ac per mS^m
-                                                                                                                                                        ,
-
-
-
-           mlnem palrem viderat    Deum patrem non viderat et
-                                                          ,                                                     ,         similitudinem                 de Deo dici,                     ut    speculum, splendor
-           cogitare coepit,                   Ita      esse in Creatore, ut viderat                             esse      character, figura et huiusmodi.                                     De qulbus pio              leclori
-
-           in creaturis, a                   quibus haec nomina translala sunl ad                                         breviter trado                quod sentlo,                   ut scillcel, ratione slmili-
-
-           Creatorem, in qulbus pater                                  est prlor         fllio,        fllius       est   tudinls considerata, ex causls dicendi                                         dictorum         intel-
-
-           posterior patre, et ex antlquitale In patre defectus, ex                                                       ligentiam assumat, sed cathollcam.
-           posteritate in flllo imperfectlo sensus solet notari. Ideo                                                             De sacramenlo Unltatls atque Trinltatis summae et Finiitrac
-           occurril Scriptura dicens Patrem potentem , ne videa-                                                          ineffabilis           multa iam dlximus. Nlhil tamen eius                                      ineffa-      Stawi!''
-
-           tur prior             Flho    ,   et ideo           minus potens,                 et   Fllium            sa-   bihtate         dignum             tradidlsse               profltemur, sed potius                   ex
-           pientem          ,    ne videatur posterior Patre                         ,       et   ideo       mlnus        nobis mirificatam " eius scientiam, nec poluisse nos ad
-           sapiens^».                                                                                                     illam pervenire.
-
-
-
-
-                    1
-                         Dist.   XXII.       c.   4.                                                                      cum textu nostro. Deinde omnes                                 edd.    perperam Constantino
-                    2    Omnia quae praecediint, sunita sunt ex Ilugone                                    a S. Vicl.     pro     Constantio,               refragantib.is             codd.    Denique pro defensum
-           I. de Sacram. p. II. c. 8, paucis a Magistro mutatis vel trans-                                                Val. et edd.            i,    8 distensum.
-                                                                                                                                  5             XXII,
-           positis. Etiam quae sequuntur ibidem leguntur.                                                                             Dist.                  c.    I.
-
-                    3    Codd. A B C E            et ed.       1     benignitas.                                                  6   Solummodo Vat. et edd. 2, 3 mirificam.                                   — Respicitur
-                    *    Cap. U.        n.   3.     In   quo textu ed. Augustini moderna habet                            Psiilm.     138, 6: Mirabilis facta est scienlia tua ex                              me:       confor-
-
-           oportuit intellectum quod pro potuil                               inteUeetam           quam,- sola            tata est,        et   non polero ad eam.
-           Vat. oportuit intellectam.                         Anliquae       edd.    August.           concordant
-                                                                                               ,,
-
-
-
-
-                                                                         DIST. XXXIV. DIVISIO TEXTUS.
 
 ## English
 

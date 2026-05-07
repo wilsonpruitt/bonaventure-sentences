@@ -4,10 +4,15 @@ volume: 1
 book: 1
 distinctio: 35
 type: littera
-line_start: 18023
+title_la: "De ideis — littera Magistri"
+title_en: "On the ideas — text of the Master"
+printed_pages: [598, 599, 600]
+pdf_pages: [188, 189, 190]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 598–600"
+line_start: 18018
 line_end: 18226
-word_count_latin: 1570
-transcription_status: "auto-chunked 2026-04-18"
+word_count_latin: 1779
+transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
 format_version: 1
 ---
 
@@ -15,7 +20,198 @@ format_version: 1
 
 ## Latin
 
-DISTINCTIO XXXV.
+          Respondeo         :        Dicentlum           ,
+                                                               quod yerbum               Dama-                       Respondko             :    Potest dici ,                quod        Hilarius loquitur
+sceni, sirapliciter intellectum, generat sinistrum in-                                                   de spiritu, secundum quod nominat naturam; sic
+tellectum, et qui sic intelligeret, sicut sonat,                                              hae-       autem non habet instantiara suum verbum.       Nihilo- f                                 —
+reticus          esset.     Sed        ipse           Damascenus            inteliigit       cum         minus tamen, si intelligatur de spiritu, prout dicitur
+praecisione,              scilicet              quod         deitas        non    dicitur          de    personaliter, adhuc veritatem habet. Nara cum Ver-
+unica h^^postasi tantum ,                             immo de omnibus.                                   bum non possit esse sine spiritu, tunc haberent Pa-
+                                                                                                         ter et suum                  Verbum duos spiritus, et ita non essent
+                                                DUB.    II.                                              unius naturae.                    —    Praeterea, si spiritus Patris non esset
+                                                                                                         Filii,       non oriretur a Christo,                                et si        non procederet
+          Item quaeritur de hoc quod dicit: In spiritu Dei                                               ab eo        ,    non distingueretur originaliter ", ergo essen-
+aliqumulo significari Palrem , sicut illud Isaiae                                                        tialiler ;             sed spiritus Dei et Deus sunt                                 unum essen-
+sexagesimo primo : Spiritus Domini super me etc.                                                         tialiter:         ergo oporteret, quod spiritus et Deus essen-
+Videtur enim male dicere, quia Hieronymus dicit ibi                                                      tialiter difTerrent                    a Filio sive distinguerentur.
+in Glossa,          quod de illo                     spiritu inlelligitur,              de quo
+dicitur Isaiae undecimo ' : Requiescet super euni Spi-                                                                                                  DuB.        IV.
+
+ritus      Domini etc; et                           constat,        quod        ibi   accipitur
+pro persona Spiritus sancti. Item, hoc videtur                                                    aha                Item quaeritur de hoc quod dicit Magister, quod
+                                                                                                     ^
+auctoritate , quia alius evangelista Lucas undecimo                                                      verbum. Hilarii: Non esl idem natura quod tmturae
+dicit:     Si in digito Dei eiicib daemonia, et                                          Glossa          res, intelligitur                      solum         in        creaturis.            Videtur               illa
+
+expnnit digito pro Spiritu sancto, qui est tertia in                                                     solutio          non esse conveniens, quia Hilarius loquitur
+Trinitate persona.                                                                                       de spiritu Dei, prout significat                                     naturam et rem na-
+          Respondeo: Dicendum, quod                                   istae rationes           non       turae; quodsi nulla est differentia, nullam deberet
+concludunt contrarietates ', quia una Scriptura plu-                                                     vim facere', ut videtur; quodsl facit vim in spiritu,
+ribus modis potest exponi. Nam in illa auctoritate,                                                      prout significat                      natwam              et        rem naturae ,                      ergo
+in qua dicitur Isaiae sexagesimo primo Spiritus Do-                         :                            videtur distinctio inter huiusmodi facienda.
+mini siiper me etc. agitur de missione Filii et
+                                           ,                                                  ;                      Respondeo: Diceudura, quod                                          cum     dicitur             ab
+quoniam Filius potest intelligi missus secundum di-                                                      Hilario: aliud est                       natura,           aliud             res     naturae,              aut
+vinam naturam, et sic intelligitur, proprie loquendo,                                                    intelligitur                de alietate a parte rei, sicut                               illi       haere-
+missus a Patre solum; ideo                                   Spiritus           Domini            stat   tici    intelligebant; et sic habet                                   veritatem          solum               in
+ibi   pro Patre *.              Si    autem             intelligatur             de   missione           creaturis.      modo potest dicere alietatem sive
+                                                                                                                                 Alio
+secundum           humanam                      naturara        ,    sic    intelligitur           de    difTerentiam secundum ratioiiem.; et sic habet ve-
+Spiritu sancto, prout est tertia in Trinitate persona.                                                   ritatera              in divinis,         et sic intelligit Hilarius, et dicit
+—     Similiter intelligendum de                               auctoritate            sequenti,          Augustinus *, quod « aliud                                 est           esse      Patrem       ,     aliud
+quod potest intelligi utroque modo, sed tamen spi-                                                       esse        Deum»: non, inquam,                                 aliud          secundum rem
+ritus accipitur aliter et aliter.                                                                        sed aliud secundum rationem significandi                                                   et         intel-
+
+                                                                                                         ligendi et se habendi.
+                                               DUB.     III.
+
+                                                                                                                                                        DuB. V.
+          Item quaeritur de hoc quod dicit Hilarius, quod
+in aliquo differt Christi et Dei                                    natura, ne eadem                                 Itera      quaeritur de hac responsione Magistri, quod
+sit, si praestari potest, quod spiritus,                                         qui Dei est,            non debet dici persona unius Dei , quia nihil est.
+non sit etiam Christi. Videtur enim sic male dicere,                                                     in Trinitate creaium , vel serviens, vel subiectum.
+quia argumentum hoc non valet: Filius est filius                                                         Videtur enim male dicere,                                      quia          genitivus          de         sui
+Patris et         non Spiritus sancti,                           ergo       differt     natura           ratione non importat subiectionem                                              nec     dominium
+Patris et Spiritus sancti:                            ergo          cum     spiritv^         dicat       ergo non videtur sufQciens                                     ratio.         Si     dicas,           quod
+personam, arguraentum                                illud     non valet, quod facit                     hoc venit a parte termini; hoc                                           nihil est, quia ter-
+Hilarius °.                                                                                              minus de                se   non importat respectura dominii.
+
+
+
+      '   Vcrs.    2.   — Glossam Hieronymi invenies apud Lyrannm                                        —      In fine solutionis auctoritate cod. Z,                               et conte.\tu postulante,
+in   hunc locum.                                                                                         adiecimus a Filio ,                    quod     in    Vat. desideratur. In               eadem pro-
+      ^   Vers.     20.  — Glossa habetur apud Lyranum hunc                             in               positione cod.              B et ed.      I    pro spiritus et Deus c.xhibent Chri-
+locum.                                                                                                   stus et Beiis, et dein                  etiam omittunt a Filio.                     — Hoc dubium
+      3   Cod.Y et ed. 1 contrarklatem. Paulo                                    superius         pro    solvitur etiam a S.                   Thom.,     hic circa           lit.
+
+istae raliones cod.  V illae auctoritates.                                                                       '   Intellige:        non       deberet       urgere             istam     distinctionem.           —
+      *   Dequo vide supra d. 15. p. L q. i.                                                             Paulo superius post significat cod.                             V addit ipsatn.
+      5   Argumentum Hilarii hoc esl: Si verum esset, quod                                        spi-           s   Libr. VII. de              Trin.    c.   6.   n.    11.      Vide etiam hic             lit.   Ma-
+rilus Dei    non sit etiam spiritus Christi, tunc sequeretur,                            Christi         gistri, c.       I.    in   fine, et d.        XXXIII.         c.   2.   — Plura dc hoc dubio
+et Dii    naturam differre.                                                                              habentur supra               q.   I.
+
+      '   Cfr.   supra d.       II.   q.       I.   fundam.    i,   el ibid. Scholion, n.          V.
+
+                                                                                                                               ;
+
+
+
+
+             5i»{i                                                                                             SKNTENTIAHUM LIB.                     I.
+
+
+
+
+                         Uein quueritur, quare                               liuc         nonien (•smitia                   iion   tione  summmn bonum. Item, iion videtur in his
+             iniportal               superexcellentiaiu                          in       genitivo.            sicut        lioc   tribus esse, quia summum bonum est aggregativum
+             nomen Deus^?                      —      Ilem, quare iion dicilur: Tres per-                                          omnium bonorum et collectivum °: ergo non tantum
+             sonae essentiae, sicut unius essentiae?                                                                               horuni trium.
+                         Respondeo: Dicenclum, quod ad hoc, quod ge-                                                                          Respondeo: Dicendum, quod bonum uno modo                                                                             i   n dici-
+
+             nitivus vere construalur et proprie, necesse est                                                               ali-   distinguitur contra                               potentiam                 et        sapientiam,                    alio
+
+             quam habitudinem                secundum rem, importari                 vel                                           modo non. Si enim accipiatur pro                                                          bonitate            moris,
+             vel secundum modum intelligendi. Genitivus autem                                                                      sic   consistit in voluntate et distinguitur contra                                                                   alia
+
+             importat habitudinem principiali ad principium                                                             ,   vel    duo. Si autem                      bonum                   accipiatur                 conununiter                ,       sic
+
+             e converso, ut possidentis ad possessum, vel formae                                                                   complectitur omnia. Est enim                                                bonum                    natura,e , et
+             ad informatum, vel speciQcantis ad specificatum. Ha-                                                                  hoc ad polentiam;                                et      bonum gratiae, et hoc                                           aut
+             bitudinem autem formae non importat nisi                                                            cum ter-          perficit intellectum, el \ln est scientia, a.nta.{{eclxim,
+
+             mino abstracto, quod- significat per modum formae;                                                                    et ita bonitas:                        et        haec tria complectitur                                   bonum           in
+
+             et quoniam forma se habet per modum exprimentis                                                                       sua universalitate,                              el      summum in sua integritate.
+             et declarationis: ideo talis constructio non attenrtitur                                                              Quoniam               igitur           omne bonum ad haec reducibile est.
+             nisi        cum genitivo nominis abslracti alio determinato.                                                          ideo       summum bonum in his tribus consistit.
+             Unde convenienter dicitur: mulier egregiae formae,
+             sed nihil est dictum                            :    miilier formae. Ideo bene di-
+             citur: tres personae nnius essentiae, non autem: tres
+             personae essentiae                       '.    — Dem autem non                                   est     nomen
+             abstractum, ideo uon construitur                                                  cum genitivo nisi                       Itein quaeritur de hoc quod dicit, quod Scri-
+
+             vel in habitudine                            subiecti,              ut       forma Dei;                  vel     in   ptura appropriat Patri potentiam, ne videattir mi-
+             habitudine specificantis , ut persona Dei, sicutcrea-                                                                 nus potens. Videtur hoc plus debere dici de Filio,
+             tura salis: vel in habitudine principii, ut creatura                                                                  qaod minus potens , cnm fuerit passus etmortuus:
+Ratio   1.   Dei. Et quoniam, quando dicitur: tres personae unius                                                                  ergo magis deberet                                 ei     potentia appropriari.
+             Dei, nulla habitudinum importatur proprie nisi ha-                                                                               Respondeo               :    Dicendum                  ,
+                                                                                                                                                                                                         quod        ,
+                                                                                                                                                                                                                             quia propter pas-
+             hitudo principii                         sive possessoris; hinc                                   est,     quod       sionem visus                  est fecisse stultitiara                                     et     habuisse                im-
+             cum in illo sensu                            sit         falsa       locutio,            non        est    reci-      potentiam          — propter quod ludaeis praedicatio crucis
+Raiio   i.   pienda.           — Mia            ratio est ista , quia locutio , quae esl                                           eral in          scandalum   Graecis             et  — ideo                in stultitiam °
+
+             in vi        declarationis                    essentiae, convertitur,                               ut,    cum        ipse Aposlolus, egregius doctor, non tantum sapien-
+
+             dicitur: mulier egregiae formae, potest dici: egregia                                                                 tiam appropriat Christo                                    ,    immo etiam virtulem                                  ,    ut
+             forma mulieris. Ergo                                     si    diceretur:                tres       personae          sic    excludat a divinitate infirmitatem: et maluit                                                                      ei
+
+             unius Dei, diceretur: unus Deus trium personarum                                                                      appropriare virtutem                                     quam potentiam , quia virtus                                           ^
+
+
+             et iste           intellectus                non          est       samis, ut                videtur:           sic   dicit      polentiam ultimam et                                           summum                     de potentia,
+             enim posset                    intelligi , sicut dicitur :                             unus Deus trium                sicut vult Philosophus',                                        quod «virtus                         est    ultimum
+             hominuni ^.                                                                                                           de potentia » ; ideo maluit                                       ei      appropriare                       virtutem.
+                                                                                                                                   Nec        est    inconveniens                           ex diversis considerationibus
+                                                                  DuB. VI.                                                         idem modo appropriari uni m^do alii cum aequa-                        ,                          ,
+
+
+
+                                                                                                                                   liter conveniat tribus. Unde Patri attribuimus po-
+
+                         Item quaeritur de hoc quod dicit, quod in istis                                                           tentiam, ne videatur impolens propter antiquitatem:
+             tribus couMstit                     sumnium bonum, scilicet potentia,                                                 Filio virtutem, ne videatur impotens sive                                                                    debilita-
+
+             sapientia, bonitate. Videtur                                        enim male dicere, quia                            tus        propler             assumtam                          infirmitatem.                           Nihilominus
+             sunmum bonum specificat bonum: ergo si bonitas                                                                        tamen facienda est vis inter potentiam et virtutem,
+             distinguitur contra potentiam et sapientiam, pari ra-                                                                 sicut       diclum            est trigesima                        secunda dislinctione ^
+
+
+
+
+                     '
+                          SL'nsus obiectionis est:                         cum    in !;ta loculione                  secundum             ^    Quare Boeth.                 111.      de Consol. prosa 2. beatiludinem, quae
+             Magistrum               in genilivo          Dei implicelur superexcellentia respectu                                 est   supremum boniim,                              sic        definil:    statum bonoruni                     omnium
+             nominativi tres personae, quae quasi servientes vel                                                     snbiectae     congregalione perfeclum.
+             considerantnr              ,   etiani        genilivus          rssentiae              idem importare \i-                    ^    Epist.      1.   Cor.           I,   23: Nos aulem                    praedicamus Chrislum
+             detur.                                                                                                                crucifixum, ludaeis quidem scandalum,                                                 gentibus autem                 slulli-
+
+                     -    Accipe quod pro qida; legere mallemus qui. Paulo su-                                                     tiam, ipsis autem vocatis                                ludaeis          alque Graecis Chrislum Dei
+             perius pro ut possidentis codd.      cum ed. vel possidentis.   L                        I                            virtutem         et    Dei sapientiam.
+             Paulo inferius pro declaraiionis cod. T cum ed.  declarantis,                                1
+                                                                                                                                          ' Libr.         I.    de Caelo              et     Mundo,          text.       1   16.    (c.      H.), de quo
+
+             codd.        LO determinnnlis                        pliii-es    alii    codd. decliirationem:                        vide siipra pag. 56i, nota                                7.
+
+                                                                                                                                                                                                                                        — Paulo
+                                                            ,
+
+
+                                                                       \erba      non autem:                                              s                                ad                        etiam hic q.                                           ante
+                     3    In    Yni.        (lesideiviniur                                                    tres   personae                  Art. 2. q. 2.                         ult.    Cfr.                                  3.
+
+             essentiae,              et ])uulo inferius |)ost (jenilieo                         verba niii vel.                    pro     infirmifatem                   Vat.       Iiumanitatem.              — Verba                 :     facienda       est
+
+                     *    CSv.        supra     q.     2.        ad    6.    — Uo              vi   genitiAl vide       supra      vis otc.     sensum           liabent : distinguendnm csl                                  ,    accipiendo utrum-
+                                      dnb. 3;                         dub. 3,                   25. dub.                           que vocabulum                          sensu          striclo.
+
+
+
+
+                                                                                                                                                                                                                                                                       n
+             d. 3.       p.    11.                   d.     II.                      et   d.                    2.                                               in
+
+                                                                                                                                                                                                :,
+
+
+
+
+                                                                                  DISTINCTIO XXXV.
+
+
+
+
+                                                                        DISTINCTIO XXXV.
 
 
 
@@ -33,188 +229,6 @@ scientia, praescienlia, providentia, dispositione, praede-                      
 stinatione, voluntale et potenlia.  Sciendum est igitur,     —                               que eodem modo videtur accipi, quo dispositio. Inter-
                                                                                                                                                                               ,
 
-
-
-
-quod sapientia vel scienlia Del, cum sit una et sim-                                         dum tamen providentia accipitur pro praescientia.
-plex, tamen propter varios rerum status et diversos
-effectus plura ac diversa sortitur nomina. Dicitur enim                                                                                     Cap. VI.
-non tantum scientia, sed                          etiara praescienlia vel prae-
-videntia, disposilio, praedestinalio et- providenlia.                                                                 De quibus sapientia vet scientia.
-
-                                               Cap.                                                                           de omnibus est, scili-
-                                                                                                           Sapientia vero vel scientia
-                                                                                             cet bonis              de praeseutibus
-                                                                                                                      et malis, et     praeteritis et                ,
-
-
-         De quibm sil praescientia vel praevidentia '.                                                      tantum de temporalibus sed eliam de
-                                                                                             futuris , et non                                                            ,
-
-
-
-                                                                                             aeternis. Non enim ita scit Deus ista temporalia   ut se                                  ,
-
-
-         Et est praescientia sive                        praevidentia        de    futuris   ipsum nesciat, sed ipse solus se ipsum perfecte novit
-lantum, sed de oninibus, de bonis                                scilicet et de malis.       cuius scientiae coinparalione omnis creaturae scienlia
-                                                                                             imperfecta               esl.
-
-                                              Cap.    III.
-
-
-
-
-                                  De quibus dispositio.
-                                                                                                            Ulrum praescientia , vel dispositio Dei esse
-         Dispositio vero de faciendis.                                                                                potuerit, si nulla essent futura.
-
-
-                                              Cap. IV.                                                     Hic considerari oporlet, utrum scientia, vel prae-
-                                                                                             scieutia, vel dispositio, vel praedestinatio potuerit esse
-                                De quibus praedestinalio.                                    in    Deo       ,   si   nulla fuissenl futura. Cum enim praescientia
-                                                                                             sit   futurorum,                et dispositio             faciendorum,          et praedesti-
-         Praedesli7iatio de hominibus * salvandis et de bonis,                               natio salvandorum,                        si   nulla essent futura, si nihil esset
-quibus             et hic        liberantur        et   in futuro        coronabuntur.       facturus Deus, vel aliquos salvalurus, non videtur po-
-Praedeslinavit enim Deus ab aeterno homines ad bona                                          tuisse in Deo esse praescientia, vel dispositio, vel prae-
-eligendo et praedestinavit eis bona praeparando. Quod
-                   ,                                                                         destinatio; potuit                   autem Deus nulla praescire futura,
-homines praedestinavit, Apostolus'' ostendit dicens: Prae-                                   potuit non ereare                     aliquid vel non salvare aliquos
-                                                                                                                                                  ,
-
-
-
-destinavit quos praescivil fieri conformes imaginis Filii                                    potuit ergo non esse in Deo praescientia , vel disposi-
-stii.       Et alibi: Elegil nos ante mundi constitutionem , ut                              tio, vel praedestinatio.                   — Ad hoc autem
-                                                                                                                                   ita a quibusdara
-                                                                                                                                                                                                     '
-essemus sancti et immaculati. Quod autem bona eis prae-                                      opponitur: Si, inquiunt, potuit praescientia Dei non
-paraverit, propheta Isaias ostendit dicens: Oculusnon                                        esse in Deo ab aeterno, et potuit non esse; si vero
-vidit       Deus absque                 le,   quae praeparasti diligentibus vel              potuit non esse,                    cum praescientia Dei sit eius scientia,
-
-
-
-
-        1    Disl.      VIII.   XIX. XXII.       XXX.                                        tms. Non quidem excludendi sunt Angeli sed Magister etiam in     ,
-
-
-        -    Vat. et edd.          4,   6 omitlunt priievidentia, dispositio, prae-          sequentibus tantum do hominibus explicite loquitur. Immediate
-destinatio et contra                  omnes codd. pt ed.         I   aliasque edd.,   quae   post Vat. cum plurimis edd. repetit omnibns ante bonis.
-tamen aliquatenus inter se                     differunt.                                              =    Uom.      8,   29.   Vulgata: iNam quos praescivil, et pracdesli-
-        ^    Ita   melius codd. A B D, nlii cum plurimis edd. providentia..                  navit conformes fieri imaginis Filii sui.                       —
-                                                                                                                                            Alius locus est Ephes.
-In   ipso capitulo plurimac                   edd. falso     habent sive providenlia         I,   i,   ubi Vulgata post nos addit: in ipso; tertius locus conflalus
-non de fvturis.                                                                              est cx Isai. 64, i, el               I.   Cor. 2,         9.
-        *    iln       codd.    A B D li 01 cdd. 1.6:        cod. C cl aliae edd. omm-
-                                                                                                                              ,                   .
-
-
-
-
-            398                                                                                           SENTENTIARUM LIB. I.
-
-            el seicnlia sit eius esscntia: poluil                                          ergo non esse                     ab   fuissenl futura, essel tamen in Deo seientia eadem,                                                        quae
-            aeteruo id quod est divina essentia. Ita et de disposi-                                                               modo est, nec minor essel quam modo nec maior est                             ,
-
-
-            tione et praedestinalione, quae est divina essentia, obii-                                                            quam esset '. Scivit ergo Deus ab aeterno aeternum et
-            ciunt. Addunt quoque et alia, ila dicentes: Si potuit                                                                 omne quod fulurum erat, et scivit immutabiliter. Scit
-            Deus non praescire aliqua cuni idem sit Dco praescire     ,                                                           quoque non minus praelerila vel futura quam prae-
-            quod scire, et scire quod esse; poluit ergo non esse.                                                                 sentia, et sua aelerna sapientia et immutabili scit ipse
-            Item, cum ideni sit Beo^ praesciim esse et Deum esse^                                                                 omnia quae sciuntur. « Omnis enim ratio supernae et
-            si potuit non esse praescius, potuit non  esse Deus;                                                                  terrenae sapienliae, ut ait Ambrosius*, in eo est, quia
-            potuit             autem           non     esse           praescius ,                si     potuit        nulla       omnem           sapientiam                    et   essentiam           capit       sua inimensa
-            praescire; at potuit nulla praescire, quia potuit nulla                                                               scientia »
-            facere.
-                        Ad Iioc iuxta modulum                                   nostrae      inlelligentiae              ita
-
-Resp. Magi- dicimus:                Praescientia, vel dispositio, vel praedestinalio
-  ''"'
-            ad aliquid dici \identur. Sicut enini crealor ad crea-
-                                                                                                                                   Quomodo omnia dicanlur esse in Deo et vita in eo.
-            turam relative dicitur, ita praescientia vel praescius
-            ad futura referri videtur, el dispositio ad facienda, ac
-            praedestinatio ad salvanda. Verumtamcn crealor ila re-                                                                          l'roptei'ea°               omnia dicuntur esse in Deo                            et              fuisse
-
-            lative dicilur, ut essenliam non significet. Praescientia                                                             ab aeterno. Unde Augustinus super Genesim °                                                    :       «   Haec
-            vero vel praescius                        et    in        respectu futurorum dicitur,                                 visibilia,          inqiiit,                 antequam       fierent,         non    erant.                  Quo-
-            et essenliam designal; ita eliain disposilio                                                 et     praede-           modo ergo Deo nota erant quae non erant? Etrursus:
-            stinatio.           Ideoque cum dicitur:                                si   nulla        essent    futura            Quoraodo ea faceret quae sibi nola non erant? non
-                                                                                                                                                                                ,
-
-
-            non esset in Deo praescientia,.vel non esset Deus prae-                                                               enim quidquam fecit ignorans. Nota ergo fecit, non
-Disiinsiiiuu. scius,      quia varia est                   ibi    causa dicendi, distingui opor-                                  facta cognovit. Proinde, anlequam flerent, et erant et
-            tet    rationem                  dicli.   Cum ergo dicis: si nulla essent fu-                                         non erant: erant in Dei scientia, non erant in sua na-
-            tura , nou esset in Deo praescientia, vel non esset prae-                                                             tura. Ipsi autem Deo non audeo dicere alio modo in-
-            scius ^,           si       in    dicendo       lianc               causam       attendis,              scilicel      notuisse, cum ea fecisset, quam illo quo ea noverat,
-            quia nulla essent subiecta eius praescientiae, unde ipsa                                                              ut faceret,             apud quem non esl transmutalio , nec                                                  vi-
-
-            possil dici praescientia, vel ipse praescius, quod utrum-                                                             cissitudinis                obmnbratio »            .    — Ecce hic habes                          ,
-                                                                                                                                                                                                                                             quod
-            que dicilur propter futura; verus est intellectus. Sin                                                                haec       visibilia,            anteciuam flerent, iu Dei scientia                                        ei'ant.
-
-            autem ea ratione id dicis, quod non sit in eo scientia,                                                               Ex hoc igitur sensu omnia dicuntur                                           esse in           Deo,             et
-
-            qua praescit futura, vel quod ipse non sit Deus, qui                                                                  omne quod factim est dicitur' esse vita                                            iiiipso: non                      .
-
-
-
-
-            est     futurorum praescius,                              falsa est iutelligentia. Simili-                            ideo ,      quod            creatui'a sit Creator, vel                       quod ista tempo-
-            ler et illae loculiones                        delerminandae sunt: potuit non                                         ralia essentialiler sint in                             Deo, sed quia in eius scien-
-            esse praescienlia Dei, vel                                        potuit non esse praescius,                          tia   seniper sunt, quae vita                             esl.
-
-            et potuit  Deus non praescire aliqua; id esl, potuit esse,                                                                      Inde est etiam, quod omnia dicunlur ei praesentia
-            quod nulla futura subiecta essent eius scientiae, et ita                                                              esse, non solum ea quae sunt, sed etiam ea quaeprae-
-            non posset dici praescius vel praescire, vei eius scien-                                                              terierunl, et ea quae    futura sunt, secundum illud^:
-            lia praeseientia ; non tamen eo minus ipse esset vel                                                                  Qui rocat ea quae non sunt, tanquam ea quae sunt:
-            eius scientia, sed uon posset dici praescius vel prae-                                                                « quia    ut ait Ambrosius in libro de Trinilate ", ita
-                                                                                                                                              ,
-
-
-
-            scire vel                   praescimtia,             si           eius scientiae            futura        nulla       cognoscit ea quae non sunt, ut ea quae sunt». Ethac
-            forent subiecta. Siniiliter de dispositione
-            natione vel
-            iid
-                                             providentia.
-                    temporalia referuntur et de lemporalibus tantum
-                                                                      Haec enim, ut dictum
-                                                                                                       et praedesti-
-                                                                                                                        est,
-                                                                                                                                  ratione omnia dicuntur esse in eo vel apud eum sive
-                                                                                                                                  ei  praesentia. Unde Augustinus super illum locum
-                                                                                                                                  Psalmi ": « Et pulcritudo agri mecum est, ideo, inquil,
-                                                                                                                                                                                                                                                           I
-            sunl.                                                                                                                 mecum est, quia apud Deum nihil praeteriit, nihil fu-
-                                                                                                                                  turum est. Cum illo sunt omnia futura, et ei non detrahun-
-                                                           C.\p. VIII.                                                            tur praeterita. Cum illo sunt omnia cognitione quadam
-                                                                                                                                  ineffabili sapientiae Dei».    Ecce hic aperit Augusti- —
-                  Quod scienlia Bei esi de temporalibus el aeternis.                                                              nus, ex qua inlelligentia accipienda sint huiusmodi
-                                                                                                                                  verba: omnia sunt Deo praesentia, in Deo sunt omnia,
-                        Scientia vero vel sapientia                                  non tantum de tempo-                         vel cum Deo, vel apud Deum, vel in eo vila; quia
-            ralibus, sed etiam de aeternis est; ideoque, etsi nulla                                                               ineffabilis         omnium cognilio in eo est.
-
-
-
-
-                    '    Vat. cuni pluriniis edd.                         Deum contra codd. el ed.                      I.              5    Codd. A C E Praeterea.
-                    -    Cod.           D addit Dms; et paulo inferius idem cum                                       codd.             «    Libr. V. c. 18. n. 36.                  — Locus       s.   Scripturae est lac. 1,17.
-            A E et ed..             I    ex ea ratmw pro ea ratione.                                                                    '    loan.    1   ,    3   ,   4   ,   secundum lectionem antiquam                   :       quod fa-
-                    3    Ita    recte         codd. C D cuni omnibus edd., cod.                                ,\    maior        ctum est, in ipso vita erat.
-            esset       quam modo              ,   B E maior quam modo.                                                               8 Rom. i, 17.
-
-                    * In       Epistolam ad Colos.                    2,       3; nonnullis imniutalis. In quo                          "    Id est V.         de Fide ad Gratian.                 e.    16.   n.   198.
-            textu fide codd.                  ABDE     ,    ed.           I    et    originalis       restiluimus       tov             ">   Psalm. i9, 11; August. in hunc Psalm. n.                                      18,   nnnnullis
-            renae pro aeieriiae.                                                                                                  a Magislro omissis vel mutatis.
-                                                                                                                                                                                                         ,
-                                                                                                                                                                                                         ,
-
-
-
-
-                                                                        DIST. XXXV. DIVISIO TEXTUS.
 
 ## English
 

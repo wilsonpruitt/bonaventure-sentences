@@ -4,10 +4,15 @@ volume: 1
 book: 1
 distinctio: 40
 type: littera
-line_start: 28024
+title_la: "De praedestinatione — littera Magistri"
+title_en: "On predestination — text of the Master"
+printed_pages: [696, 697, 698]
+pdf_pages: [286, 287, 288]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 696–698"
+line_start: 27967
 line_end: 28212
-word_count_latin: 1634
-transcription_status: "auto-chunked 2026-05-01"
+word_count_latin: 2373
+transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
 format_version: 1
 ---
 
@@ -15,191 +20,252 @@ format_version: 1
 
 ## Latin
 
-DISTINCTIO XL.
+                 si    omnia cognosceret praesenter. ergo plura                                                                          siniul       cognitionis,                            quae quidem aeternitas est, est «mpfea;
+                 ergo            siiiinl         se convertit ad                                  innlta; sed simplex,                         ad     et infi.nita.                           Quia simplex est, ideo semper praesens;
+                 quod                se    coiiverlil,                   lolaliter                sc converlit:                  ergo        cuin     qnia              iiifinita,                 ideo        sunt               ei     omnia praesentia.                        lil
 
 
+                 unum intelligit. iion potest in alterum.                                                                                             exempluin huius ponitur in praesentialitate Dei quan-
+                                4.        Item,       si        cognoscit                         omnia                praesenter:           ergo     tum ad rerum existentiani , secundum quain Deus
+                 simul               scit        dno contradictorie opposita; sed qnidquid                                                            totns est in una °, et ita est in una, ut nihilomi-
 
-                   Praedestiiiatio ' vero de bonis salutaribus est et de
-    ^cap. 4.   hominibus salvandis. Ut enim ait Augustinus in libro de
-KXK.
-               p,.aedestinatione Sanctorum ^                                           «   praedestinatio est gra-                                   An aliquis praedeslinatiis possit damnari,
-               tiae         praeparatio, quae sine praescientia esse                                                  non po-                                               vel reprobus salvari.
-               test.        Potest autem sine praedestinatione esse praescien-
-               tia.     Praedestinatione quippe Deus ea praescivit, quae                                                                         Praedestinatorum nullus                                videtur posse                      damnari,
-               fuerat ipse facturus  sed praescivit Deus etiam quae
-                                                             ;                                                                           nec reproborum aliquis posse salvari. Unde Augustinus Augusiin
-               non esset ipse facturus, id est omnia mala». Praede-                                                                      in libro         de Correptione                    el gratia ": « In                 Apocalypsi *,
-               stinavit eos quos elegit, reliquos vero reprobavit, id                                                                    inquit, dicitur:                   Tene quod habes, ne alius accipiat co-
-j
+                 scitur est vernin ^: ergo                     duo conlradictorie opposita                                                            nus sit et in alia; et hoc                                         est, quia               simplex et                 infini-
+
+                 sunt simul vera.                                                                                                                     lus.         — Ideo Deus                            iudical,                     aliquid esse                 futurum
+                                                                                                                                                      sed non                        futurmn sibi; et omnia praesenter cogno-
+                                                                                                                                                      scit, et                      tamen          niliilniiiinns                 prne.wiL
+                                                                                                                                                                    1.              % Et per             lioi-       i)al('l           |iriiiiiim      et       secundum            ,
+                                                                                                                                                                                                                                                                                        soiutio <
 
 
+                 Deus cognoscil oinnia praesenter, tanien praesen-                                                                                    quia procednnt, secimdnm qiiod praesentialitas                                                                             est
 
+                     tialitas non accipienda est a parte cognito-                                                                                     dispositio rei cognitae in                                             .s«.a       natura, non in cogni-
+                                rum         ,    sed cognoscentis.                                                                                    tione divina.
+                                                                                                                                                                    3.              Patet etiain tertium. quia hoc ' est simplex
 
-               est,         ad mortem aeternam praescivit peccaturos.                                                                    ronam tuam. Si alius non est accepturus, nisi iste per-
+                                Respondeo: Dicendum, qnod cognoscere oninia                                                                           et infinilum. et in                                  nno multa cognoscit; ideo simul
+                 praesenter dupliciler potest                                                         intelligi:          aut^quod no-                supra ninlta se convertit.
+                 tetur praesentialitas a parte                                                        cognitorum,                     et sic est                   4.               Quod obiicitur de oppositis, similiter                                                  patet,
 
-
-
-                       '        Vat.   ,
-                                           post velle posita virgula, pro hoc                                substituit hic,                     5    Vers. 8, ubi               Vulgata     Aequaliter              pro    Aequalis.             Paulo
-               aucloritate              quidem plurimorum                          codtl.,        at    perperam,              ut   ex   post pro aequaliter Vat. aequatitas.
-               subnexis clare                   intelligitur. Librarii,                    mss.    transcribentes          ,    etiam            ^   Sive accipitur. Cfr. supra d.                      i.    q.     1.    Scholion.         —     iMox
-               lioc loco,              ut Siiepe saepius accidit, hic pro                              hoc legisse, valde                pro tamen Vat.                tani.         — Hoc dubium             solvitur        etiam a Petr. a
-                                                                                                                                         Tar. et a Richard. a Med., hic circa                                lit.
-
-                       2        Vat. fuit.       — Praecedens             et intellige : ergo eliam.                                                         NOTAE AD LIBR. SENTENTLVETJM.
-                       '        Cod. Z hic et paulo ante                           ordinationem.            Paulo          inferius              '   In   codd.       CDE et ed.              1    d.   XL.         incipit    cum          sequente
-               pro exemplum ed.                         1    dictum. Nostram lectionem                           veram           esse,   capitulo : Praedestinatorum nullus videtur. Et revera, secundum
-               patet ex inlegro textu Magistri ,                              c.       2 :   Non       potest ergo             noviter   distributionem capitulorum hae quinque propositiones pertinent ad
-               vel ex           tempore scire vel praescire aliquid,                                     siciU       non        potest   ultimum capitulum                   distinctionis          praecedentis.             S.   Bonaventura
-               noviter vel ex tempore velle aliquid etc.                                                                                 autem, ut patet ex divisione textus, hic incipit distinctionem XL.
-                       *    Multi codd.             cum Vat. post non quia alterum                                    subiiciunt                 2    Cap. 10. n.           19   ;   sed ultima verba ex Glossa ad Rom. 8, 29.
-               non, quod contextui repugnat nec non codicibus D F M Y et cd.                                                                     3    Cap.   1   3.   n.    39. In codd. et edd. , excepta                         9   ,   intitulatur
-
-               I.   —
-                    De hoc dubio lege Alex. Hal. S. I. q. 2.5; B. Albert., hic     ,                                                     liber       de Correctione              et gratia.
-
-               a.   7; Petr. a Tar.                ,    hic circa      lit.                                                                      *    Cap. 3,         II.
-                                                                                                                                             ,
-                                                                                                                                             ;
+coQciusio   1.   falsa,              quia non cognoscit. omnia esse vera praesenter                                                                   quia cjuamvis cognoscat opposita simul ex parte sua,
+                 et    simul;                    aut       ita,           qnod notetur                                 praesenlialitas            a   tamen scit, nnum                                    alteri esse incompossibile,                                       unum
+conchisio   2.   parte cognoscentis                                  ,    et sic              habet veritatem.                                        tamen alteri posse succedere.
 
 
 
 
-               700                                                                                                   SENTEiNTIARlIM LIH.                              I.
+                                                                                                                                         SCHOLIOK
+
+                           1.    Deiim omnia cognoscerc praesenter, ab omnibus llicologis                                                             veril.        At econtra                    censoros ipsius Pelri                      loannis lianc ccnsuram
+                 calholicis docetiu'; sed multum disputatum est de                                                               duabus quac-         rcprobarunt                         ut      erroneam (D'Argcntre,                            Collectio         iudiciorum
+                 stionibus connexis                    ,
+                                                               quarum prima est                            quomodo ista praesen-
+                                                                                                             ,
+                                                                                                                                                      tom.         I.       pag. 229, ed. Paris.                      1728). Eliam Scotus (hic. q. unica,
+                 tia sit         intelligenda ; secunda vero                                      ,    utrum eadem sit Deo ratio                      n.     9.)        non nisi primam illam rationcm                                      praesentialitatis admittit
+
+                 cognoscendi res creatas.                                                                                                             ct docet,     quod inflnita acternitatis duratio, quae omne tempus
+                           Quoad primam quaestionem S. Ttiom. (S.                                                          I.    q.    U. a. 1.3,     supergreditur      non nisi potentia, minime autem actu relationem
+                                                                                                                                                                                          ,
 
 
 
 
-               ditleril,             cerlus esl                electorum                 numerus», id esl, iion                                  disiunctim                     iiitelligi    potest. Non            enim potest esse, ut ab
-               polest augeri vel                          minui.               —        Ad hoc aiUem obiiciunl                                   aeterno              sil       praedeslinatus et               modo non                   sit       praedesti-
-  obiiciiur.   quidam            ,   nitentes probare,                             numerum eleclorum posse                                       natus, nec potest esse simnl, ut                                         sit    praedestinalus                    et
-               auyeri et miniii                  ,    sic       :   possel              Dcus noii apponere                             jjra-     non       sit        praedestinatus            ;   sed tamen potuit essc                                   ab ae-
-               tiaiu     (niil)us         aiipoml.                  el        posset sublrahere quibus nou                                       terno , quod non esset praedestinatus                                           ,    et potuil ab ae-
-               sublraliit: (pioil                    si        lii^ret',               uii(|ue     damnarentur. Pos-                             terno non esse praedestiiiatus. Et sicut ab aeterno Deus
-               sent ergo              damnari              isti ,         (|iii        tamen      salvabiinliir. Posset                          potuit          eum non praedestinare, ita                                 conceditur                      a    qui- Coocedini
-               itaque ininui eleetoriim numerus;                                                  ila       otiam i)osset au-                    busdam, quod et modo polest Deus eum non praede-                                                                        dani"''"'
+                 q. .^7. a. 3; S. c. Genl. I. c. 66.                                 67; de Veril. q. 2.                        a.    13; 1. Senl.    coexistentiae ad res futuras liabeat; quippe quia     quod non exi-
+                 d.    38. q. unica, 0. S. )                         docet:          i   Omnia quae sunt in tempore,                                  stit    nullatenus coexistere, vel fundamentum relationis coexi-
+                 sunt Deo ab aeterno praesenlia non solum ca ratione, qua lia-                                                                        stenliae csse possit.                             Scoto favet etiam Alex.                       Hal.      (S.    I.   q.   23.
 
-               geri, quia posset appoiii gratia quibiis non ai)])()nilur,                                                                        stinasse. Ab aeterno ergo potest Deus non praedesti-
+                 bet rationes rerum apud se praesentes, ut quidam dicunt, sed                                                                         m.     -i.    a.          3.),      eumque sequuntur non tantum Durandus                                              et   No-
+                 quia eius intuitus ferlur ab                                    aeterno super omnia                              ,
+                                                                                                                                      prout sunt      minales           ,       sed cfiani plurimi posteriores theologi ex omnibus fere
+                 in   sua praesentialitate^ (Sum.                                        I.       q.     U.       a. 13.).      Ilaec secunda         scholis.
 
-               per quam                 salvareutur.                          Posseiit       ergo            sahari       ,     liabita          nasse eum ergo potest iste non fuisse praedestinatus.
-                                                                                                                                                                            :
+                 ratio multis displicuit, inter                              quos Pelrus ioan. Olivi Ord. Min. eo                                             Nihilominus sententiam S.                Thomae, recte intellectam ve-                                         ,
 
 
 
-
-               gratia, qui tainen sine ea damnabuiiliir: possel itaque                                                                           Si vero non fuisset praedestinatus   nec modo esset                        ,
+                                                                                              I   tanquam haereticam censura-                         rissimani                     Dcoque dignissimani reputamus et omnino confor-
 
 
 
 
- Responsio.    augeri            numerus electorum.                                    — Qiiibus rcs|)on(lemus                                   praedestinatus ergo potest modo non esse praedesti-
-                                                                                                                                                                                    :
+                           '    In Vat. et cod. cc desideratur conclusio :                                                      ergo    si cogno-     tract.       38. n. 10, et Enarrat. in                                  Psalm.        101. n.         1   ,   et in Psalm.
 
+                 scit alia            a se proprie               ,       ergo Deus praescit alia. Paulo ante pro                                      121. n. 6; Anselm.                            ,    Proslog.            c.    20,      et     de Concord. praesc.
+                 qitia         proprie cod.                W qua proprie.                                                                             Dei cum lib. arb. q. I. c.                                       '6.        — Paulo superius pro quod
+                           - Cfr.          Anselm.         ,   de Concord.                            praesc. Dei         cum lib. arb. q.            codd. A quia et paulo inferius
+                                                                                                                                                                            I                 ,
+                                                                                                                                                                                                                                   pro      totmn Vat. cum paucis
+             -I.      c.        i.                                                                                                                    mss. ortum.
+                           3 Cfr.          supra pag. 690, nota                               2.                                                              «     Pro una cod.                        M iinaquaque re.
+                           •
+                                Cod.        R post avt subiicit ita.                                                                                          '     Scilicet illud simplex,                           quod             totaliter      se    converlil super
+                           ^    Cfr.       August., 83 Qq.                   q.          17.           et        19,    nec     non     in   loan.    obieclum suae cognitionis;                                     et loquitur           de Deo.
 
-
-               ex ea ratione dictum esse                                           ct     verum             esse,     iiumerura                  nalus. Ita et de praescientia et                                     de        praescitis                dicunt;
-               electorum non posse augeri vel minui, quia iion potest                                                                            quod            in        actionibus vel in operationibus Dei et homi-
-               utrumque siimd esse, scilicet, ut aliquis salvetur et                                                                             nuin nullatenus concedunt.                                     Ex    qiio       enini           aliquid fa-
-               nou sit praedesliiiatiis, vel ut aliquis praedestinatus                                                                           ctum est vel dictum, non concedunt, quod   possit non
-               sil et danuietur. Inlelligeiilia enim condUionis implicitae                                                                       esse vel nmi fuisse , immo impossibile est, non esse
-               veritalem               lacit    in        dicto, et impossibilitatem in tiero. Si                                                vel      fuisse quod factum esl vel dictum referentes
-                                                                                                                                                           non                                                                                   ,
-
-
-
-               vcro      sii/iji/iciier              inlelligalur, impossibilitas                                   non admit-                   possibilitatem vel impossibilitatem ad naturam rei
-               lilur,        !ii     ciim (licitur:                      pracdpstinatus         non         potest        vel                    existentis.                Cum vero de praescientia                                 vel    praedeslina-
-               polcsi (iamiiaii.                     cl        rcprobus polest salvari. In his enim                                              tione Dei agitur, possibilitas vel impossibilitas ad                                                             po-
-               el    hiiiiismixli             liicnlioiiihiis                      ex ratione            dicti diiudicanda                       tentiam Dei refertur, quae semper eadem                                                     fuit el est*,
-
-               esl    sciil(>iilia        iliclioiiis.                   Alia          namque flt intelligentia, si                              quia           praedestinatio,                 praescientia,                   potentia              unum          in
-
-               per     coiiiiiiiciidiieni                  hacc accipiantur dicta, atque                                               alia,     Deo           est.
-
-               si                               cum de praescientia
-                     per disiuncitonem j ut supra ^,
-               agebatur, praetaxatum est. Si enim, cum dicis: prae-
-               destinatus non potest damnari, intelligas                                                           ita:       id       est
-
-               non potest esse, ut pracdesliiiatus sit el damnetur, ve-
-                                                                                                                                                  Quid sit reprobatio Dei, et in quibus consideretur,
-               rum dicis, (|iiia coniunclim intelligis; falsum autein                                                                        ,
-                                                                                                                                                                       et       quis    sit   praedestinationis effectus.
-               si    disiimctim, ut                       si     intelligas,               istum non                posse dam-
-               nari ,        quem dico praedestinatum. Potuit enim non esse
-               praedcsliiiatus, et ita damnarelur.                                                                                                         Cuiiique praedestinatio                          sit      gratiae praeparatio, id
-                       Verumtaiuen adhuc instant                                             et     semmdum coniun-                              est divina                 electio,         qua elegit quos voluit ante mundi
-    insXinL    ctionem argumentando                                      ita       procedunl.               Non enim,                   in-      constitutionem j ut ait Apostolus'';                                           reprobalio e                    con-
-               quiunt, potest                   esse,               ut        aliquis praedestinalus                            sit      et      verso intelligenda est praescientia iniquitatis                                                          quoruii-
-               daranetur.   Utrumque istorum simul esse non potest                                                                               dam et praeparatio damnationis eorundem. Sicut enim
-               sed allerum horum non potest non esse, scilicet, quin                                                                             pi-aed.estinationis effectus                            illa   graiia esl, qiia                      iii       j)rac-
-
-               iste sit praedeslinalus: ab aeterno euim praedestinatus                                                                           senti iustificamur atque ad        vivendum el in bono     recle
-               est et non potest modo non esse praedestinalus. Cum                                                                               perseverandum adiuvamur, et illa qua in futuro beati-
-               ergo irapossibile sit, simui utrumque esse^ et impos-                                                                             flcamur; ita reprobalio Dei, qua ab aeterno non eligendo
-               sibile sit, aiterum non esse^ videtur, uon posse alte-                                                                            quosdam reprobavit, secundum duo consideratur, quo-
-               rim esse^ scilicet ul damnetur. Quod si est, ergo non                                                                             rum alterum praescit                               et    noti       praeparat,                  id       est     ini-
-
-               potest            esse, ut non salvetur.                                  —   In buius               quaestionis                  quitatem, alterum praescit                                 et       praeparat, scihcet ae-
-   soiaiio.    solutione              mallem          alios audire                        quam           docere.              Dicimus            lernam poenani. Unde Augustinus                                                ad         Prosperum                etAugusUi.
-
-               tamen         ,     similem de praescientia posse moveri quaestio-                                                                Hilarium^: «Haec, inquit, regula inconcusse                                                              tenenda
-               nem; ideoque, tam hic quam ibi, unam facimus                                                                             re-      est   ,
-                                                                                                                                                               peccatores in peccatis praescitos esse, non prae-
-               sponsionem dicentes determinandum fore illud     ,                                                                  ,    cui      paratos,              poenam autem esse praeparatam »                                           .    «   Praepa-
-               innititur tota              haec quaestio                           ,   scilicet mpossiiiVe es<, a^-                              ravit          enim Deus               ,    ut ait Augustinus                   in    libro de                 Bono
-               terum^ non esse , scilicet                                      ,
-                                                                                   quin      iste       modo sit praede-                         perseverantiae ', in praescientia sua, quibus voluit bona
-               stinatus; ab aeterno enim                                           iste praedestinalus                        est.      Di-      sua;    quibuscumque donat, proculdubio se donatu-
-                                                                                                                                                                et
-
-Distinguea- stinguendum                    euim est, cum ait: iste non potest modo                                                               rum esse praescivit». « Praeparavit etiam Deus, ut
-fmsumail^non esse praedestinatus                       vel non potest modo esse,
-                                                                          ,                                                                      ait   Fulgentius^ nialis ignein                                  aeteriium,                 illis          utique,
-
-5?4'nm.   "quiu sit praedestinatus.                   Hoc enim et coniunctim et                                                                  quos iuste praeparavit ad luenda supplicia; nec tamen
+                                                                                                                                     ,:                                                                                                                                                        :,
 
 
 
 
-                          lUi        in cod(J.       et ed.          I        (5 in      margine)       ;    in aliis faceret.                   unde           Blagisler           plura     quae sequuntur, nonnullis                           niutalis, de-
+                                                                                                 DIST. XXXIX. ART.                         11.        QUAEST.                    III.                                                                                               697
 
-                         Dist.         XXXVlll.            c.       2.    — Paulo superius                       post dicta, atque               promsit.
-                        !t       edd. 4, 6, 8, 9 omituint alia.                                                                                            '    Vel de Dono perseverantiae,                          c.   17.    n.    41.
-                          Vat. et aliae edd. contra codd. et ed.                                             I   addunt istonm.                      ' Libr. I. ad Monimum, c. 25; secundum sensuni, scd ad
+mem doctrinac S. Augustini, S. Gregorii, S. Anselmi et S. Bo-                                                                             liter        competit eis propter defectum,                                         scil.        propter finitam suae
+naventurae. Tola diflicultas versatur circa rectam intelligentiam                                                                         durationis               mensuram.
+huius profundae positionis. Unde haec pauca praenotamus.                                                                                              II.    Licet S. Bonav. a                         plurimis              auctoribus                     ad        sententiam
+              1.    Aliud esl nunc (sive instans praesens) temporis, aliud                                                                Scoti            Irahatur,          praesertim ob solutionem dubii                                                5.    distinctionis
 
-                          Cod. D addit et erit.                                                                                                  verbum in Glossa (joc. cit.). In quo textu codd. B E ante ad fa-
-                          Ephes.         I,    4.                                                                                                denda peccata. praemiltunt eos.                          —
-                                                                                                                                                                                    Paulo inferius codd. A B D et
-                          Non invenitur in citatis libris, sed in                                           Vi. Hypognosticon                    edd. 2, 3, 7, 8 (5 in margine) iniustitiam admitlendam pro
-                         Vide          etinni        Glossam                  ad       Roni. 8,         29.      apud Lyranum,                   iiistitiam           amittendam.
-                                                                               DIST. XL. DIVISIO TEXTUS.                                                                  701
+twmc aevi, aliud nunc aeternitalis,                                                    ut    bene explicat      Alex. Hal.                35.         (quam            parteni              etiam            Barthol.         de Barberiis, Curs.                                  theol.
 
-             praeparavit ad facienda peccata. Praeparavit enira Deus,                              impertitur       nec digni sunt nec mereutu)'           ;
-                                                                                                                                                               potius ut nou
-             quod divina aequitas redderet, non quod humana ini-                                   impertiatur, lioc digni sunt, hoc merentur ». Unde Apo-
-             quitas admitteret.Non enim, sicut praeparavit Sanctos                                 stolus   ait: Cuius vult miseretur Deus, et qiietn milt
-                                                                                                           ^"
+(S. p.              1.       q.    13.        m.    9.    a.   i.   % 3.).              SufBcit    hic     dicere,            quod        tom.         I.     disp. S. q. 7.                    mordicus tenet); tamen ipsa                                           verba                 Se-
+mmc temporis est instans indivisibile, raplim fugiens, quod co-                                                                           raphici                (hic et infra d. 40. a. 2. q.                                I.     ad i,              el       d.        41. a.            2.
+
+pulat tempus prius                                 cum posteriore; nunc aeternitatis est                                          ipsa    q.     I.        ad 4;       lliner.            mentis in           Deum, c.              .5.    circa flnem) satis de-
+
+aeternitas,                       quae ratione infinitae simplicitatis                             est     toia     simul et              monstrant, plene                        eum convenire cum                                 Angelici                sententia, sane
+indivisibilis,                     et    hac ratione similis instanti                           indivisibili        temporis,             intellecta.             In Itinerario ita                    dicit :      «       Quia aeternum                         el        praesen-
+ralione vero immensitalis illimitatae                                                  omnes duraliones temporis                          tissimum, ideo omnes duraliones ambit et intrat, quasi simul
+et aevi              eminentissime                   in    se romplectitur et superexcedit.                                               exislens               earum centrum et circumferentia. Quia simplicissimum
+              2. Intellectio divina ,                      cum sit substantia, eandem mensuram                                            et     maximum, ideo totum intra omnia et lotum extra omnia, ac
+habet, quam ipsa divina substantia                                         ,       unde etiam          « praesentialitas                  per hoc est sphaera                              intelligibilis,              cuius centrum est ubique et
+divinae cognilionis,                                qiiae      quidem              aeternitas       est,     est         simplex          circumferentia                    nusquam j>. Nihil autem                                 dubii relinquit cxpositio
+et infinita »                      (   hic in corp. ). Intellectio autem                           humana       ,
+                                                                                                                     quae est             huius doclrinae,                       quam S. Doctor facit in inedita quadam quae-
+accidens                 ,   mensuratur tempore                     ,    subslantia             autem animae men-                         stione disputata, u nobis suo                                        tempore publicanda, ex qua                                               tan-
+
+suratur aevo.                                                                                                                             tum unam propositionem transcribimus:                                                            «    Sicut            divina            incir-
+
+              3. Alia est                praesentia, qua                 res corporales,                 vcl      in     genere           cumscriptibilitas habet                                omnia         loca sibi praesentia                          ,    et ipsa               non
+res,          quae tempore mensurantur,                                   sibi coexislunt, alia,                    qua i)e«s             dislenditur per                    illa,         licet      illa    vere sint distensa,                            sic divina                     ae-
+rebus              coexistit,            alia,     quu res temporales et differentiae temporis                                            ternitas habet sibi                         omnia tempora praesentia, nec                                               tamen              ipsa
+Deo coexistunt. Ut res corporales sibi sint praesentes, praeter in-                                                                       succedit                cum       illis,         licet       illa    vere           succedant».                        — Plurimae
+distantiam loci requiritur, ut simul sint in                                                      eodem instanti tem-                     obiectiones, quae conh'a hanc                                         sententiam                      fieri      solent,                optime
+pom. cuius mensura dilabitur per partes sibi succcdentes sive                                                                             inter antiquos magistros solvit Richardus , hic a.                                                                     I.        q.      I,        et
+
+per differenlias prneteritorum et futurorum, et non est nisi in in-                                                                       d.     41    .     a.   4.   q.    2    ;
+                                                                                                                                                                                      qui tamen sententiam Scoti non omnino im-
+slimti.            Unde in hac coexistenlia pars durationis succedentis est                                                               probabilem censet. Circa utriusque positionis fundamenta                                                                                   pos-
+extra aliam                        eius       partem       ,   et   nullum instans potest coexistere                                      sunt conferri Rada, contr. 30.                                       a.    2, Macedo, cofl.                            9.        diff.    4.       et
+nisi      wni soli instanti durationis rei coexistentis. Si mensura utriu.s-                                                              alii    ulriusque senlentiae patroni.
+que durationis                           est       aequalis et in          eodem               fluxu   temporis, tunc                                 III.       Verba, quibus S. Doctor in principio responsionis du-
+tota          duratio unius coexistit toti durationi alterius, sed ita, ut pars                                                           plicem sensum locutionis praesenter cognoscere distinguit,                                                                                        ali-
+
+unius durationis tantum parti alterius coexistat. Si autem men-                                                                           qua explicatione indigere videntur. Si praesenter ut adverbium
+sura ulriusque est diversa, tunc non tanlum                                                       secundum partes,                        determinat ipsum divinum actum sciendi, omnes concedunt
+sed etiam ex parte                                 sibi coexistunt             ,       vel nullatenus          coexistunt                 eundem esse extra omnem mensuram temporis in simplicissimo
+V.       g.        mensura horae coexistit quidem mensurae anni, cuius                                                                    nunc aeternitatis, ita ut nec praeteritum nec futurum nec prae-
+est pars,             sed tamen nec toti anno   nec parti eius proportio-          ,                                                      sens temporis                     ei    convenire possint. Si                               autem pruesenter                                  tra-
+natae indivisim, sed per successionem partium.                                                                                            hitur        ad omnia., tunc iterum duplex sensus distingui                                                                             potest:
+          Aliter              Deum coexistere omnibus rebus et mensuris tempo-                                                            vel ut noletur « praesentialitas                                          cognitorum », ut est                                   » disposi-
+
+rum et locorum                            ,    manifestum               est.           Tota     aeternitas existit per                    tio    rei         cognitae in sua natura » (hic ad                                         1.        2.); "quasi                 res futu-
+moduni unius indivisibilis instantis, sine successione permanens                                                                          rae in            mensura temporis non                               inter se realiter distent, sed sint
+et omnes successiones et mensuras temporis actu complectens                                                                               simul et praesentes, quod manifeste est falsum                                                                   —      vel ipsa co-
+et excedens. Sic est mensura divinae vitae et actionis ad inlra                                                                      ;
+                                                                                                                                          gnita comparari possunt                                  non ad nunc temporale, sed ad prae-
+sic mensurat etiam omnes ad extra creatarum rerum mensuras                                                                                sentialitatem                 aeternitatis,                   quae         sirnul           est         praesentialitas                           di-
+
+unde in eodem simplicissimo et immenso nunc aeternitatis coexi-                                                                           vinae cognitionis; et                             si    in    hoe sensu sumitur,                                 subsistit              duplex
+stit omnibus rebus, non lantum iis quae in mensura tempo-                                                                                 illa    opinio scholarum.                             Ita    fere Richard., d. 41. a. 4. q. 2.
+
+ris sunt praesentes temporali nunc vel cuidam parti aeternita-                                                                                        IV.     Quoad secundam quaestionem, utrum haec praesen-
+tis  quam nos imaginamur sed etiam iis quae in mensura
+     ,
+                                                                ,                                                                         tialitas           Deo sit ratio cognoscendi futura contingentia non defue-                                             ,
 
 
 
 
-             ad iustitiam percipiendam sic praeparavit iniquos ad
-                                                  ,                                                indurat; misericordiam appellans praedestinationem et
-             iustltiam     amittendam, quia pravitatis praeparator nun-                           praecipue praedestinationis effectum, id est gratiae ap-
-             quam fuit ».                                                                         posilionem, obduratiouem vero gratiae privationem.
-                   Sicut      ergo praedestinatio           Dei proprie           est   prae-      «   Non enim, ut ait Augustinus ad Simplicianum *, in- Augusiin
-uid prae- scienlia       et   praeparatio beneficiorum Dei                 ,
-                                                                                quibus cer-        telligendum est, quod Deus               ila   induret,     quasi   quem-
-robaiio"     lissime liberantur quicumque liberantur'; ita reprobatio                              quam peccare cogat; sed tamen quibusdam peccatori-
-             Dei est praescientia malitiae             in   quibusdam non finien-                 bus miserico.rdiam iustificationis suae non lai'gitur, et
-             dae   et   praeparatio poenae non terminandae. Et sicut                              ob hoc eos indurare dicitur, quia non eorum misere-
- Effcctus fraedeslinationis          effectus est gratiae appositio , ita re-                      tur,   non quia impellit, ut peccent. Eorum autem non
-""'^'^''^'
-             probationis aeternae         quodam modo e/fectus esse vide-                          miseretup, quibus graliam non esse praebendam aequi-
-             tur obduratio.      «   Nec o]>durat De.us        ,       ut ait Augustinus           tate occultissima et       ab humanis sensibus remotissima
-             ad    Sixtum ^, impertiendo malitiam                  ,    sed     non imper-         iudicat»;      «quam non aperit, sed miratur Apostolus di-
-             liendo gratiam, sicut nec digni sunt. Quibus enim non                                 cens:        altitudo divitiarum sapientiae el scientiae Deit,\
+temporis et loci ab invicem distant secundum differentiam prae-                                                                           runt, ut supra in Scholio (hic q.                                                 H notavimus, qui nodum
+teritorum et futurorum. Immensa et indivisa aeternitas finitis                                                                            difficultatum ,                quae sunt circa praescientiam divinam                                                         ,     ita solvi
+
+rebus coexislit quidem toia propter indivisionem , sed non tota-                                                                          posse putarent, inter quos                                     numerantur etiam                                  Salmanticenses.
+liter propter excessum , quia etiam aliis unquam existentibus                                                                             Ipse S.                Thom. saepius                     istam        rationem                  profert,               quam Scotus
+rebus in actu                           coexistit, et aliis possibilibus in potentia.                                                     (hic q. unica,                n. 9.)            nititur evertere.                  Communius autem S. Tho-
+              .\Iiter         denique ipsas res creatas                                 et    eurum mensuram (tem-                        mae sententia aliter explicatur, nempe quod ipse istam ratio-
+pus) aeternitati cocxistere, tencndum est. Manifestum est, easdem                                                                         nem non a priori tanquam unicum et proprium medium in quo
+pro mensura temporis,                                     in   qua sunt,                 et   pro eo statu,              in       quo     statuere velit, sed                             quod         potius        a posteriori, supposita iam
+eorum duratio in omni inslanti a differentia futuri fluit ad dif-                                                                         praescientia , inde                         sumat optima argumenta,                                         ut    manuducat ad
+ferentiam praeleriti, minime respondere toti aeternitati nec eas                                                     ,                    intelligendum , praescientiam Dei esse intuitivam, infallibilem,
+virtute             suae durationis posse coexistere eidem                                             aeternitati.               Sed     immutabilem , nec ipsam contingentiae rerum derogare. Hoc
+qualenus haec                            flnila     mensura temporis circumplectitur et quasi                                             inter alia insinuant ipsius                                  verba        (S.       c.   Gent. I. c. 67. in princ.)
+includilur in alliore et supereminenti                                                      mensura    aeternilatis           ,    ad     « Ex         his        autem iam aliqmliter patere polest, quod contingen-
+quam totum tempus non est nisi minimum instans, dici potest,                                                                              tium ab aeterno Deus infallibilem scientiam habuit, nec tamen
+quod etiam res temporales coexistant toti aeternitati, non au-                                                                            contingentia esse desistunt i                                  .
+                                                                                                                                                                                                              — Et revera                   ,    si   scienlia              Dei non
+tem totalitrr. Sed tb non totaliter, dictum de coexistentia re-                                                                           est, ut nostra,   a rebus, sed potius ad res , isla praesentiali-
+rum temporatium, aliam rationem habet, ac dictum de coexi-                                                                                tas    rerum, sallem sola, non potest esse propria ratio divinae
+stenlia Dei.                       Deo enim convenit illa coexistentia per                                      se,           et tb       praescienliae.
+non           totaliter ratione                     excessus suae mensurae. Creaturae autem,                                                          V. Praeter iam citatos auctores:                                            .Alex.        Hal. , S. p.                 1.    q. 23.
+
+cum non sint aeternae nec Deo coaeternae, illam coexistentiam                                                                             m.     4.         a.    3.   —     B. Albert. , S. p.                      1.     tr.     IS.         q. 60.           m.        4.     parlic.
+
+non habent ex se el ratione suae durationis,                                                           sed     ratione im-                3.     —         Petr. a Tar.               ,    I.    Sent. d. 41            .    q.    4.      a.    2.     — Durand.                       ,    I.
+
+
+mensitalis el simplicitatis aeternitatis divinae , et tb                                                            non tota-             Senl. d. 38. q. 3. n.                                 II. seqq.
+
+                                                                                                                                                                                                                                                                       .
+
+
+
+
+                                                                                                                     SENTENTIARLIM \.IB.                          I.
+
+
+
+
+                                                                                                    DUBIA CIRC.\ LITTER\M MAGISTRl.
+
+
+
+
+                                                              DUB.                1.                                                        simul sciunt sive                                  scit quilibet.               Et ideo non vult di-
+                                                                                                                                            cere, quod creaturae sint in divina
+         In parte ista                              sunt                dubitationes circa litterani,
+et   primo de hoc quod                                             dicit .\ugustinus:                                    Sciunt se                                                                   DUB.        III.
+
+
+Pater          et Filius invieem,                                       sed             iste nascenclo,                       ille   gi-
+
+gnendo. Videtur enim male dicere,                                                                         quia scire                 est                Item quaeritur de hoc quod                                                dicit,    quod scieii-
+essentiale                in           divinls:                    ergo                si     scit        nascendo,               cum       tia     Dei non                    est nisi               de his quae sunt vel fuerunt
+nasci          dicat               proprietatem                                   personalem                    ,        proprietas         vel erunt. Videtur                                  enim hoc esse falsum                        ,
+                                                                                                                                                                                                                                                 quia Deus
+personalis est                             ratio             rei         essentialis ',                    quod non                  est    scitomne quod potest facere sed potest facere quod                       ;
+
+
+
+sane neque vere dictum.                                                                                                                     nunquam fuit nec est nec erit: ergo scientia Dei
+         Respondeo                         :    Aliqui voluerunt dicere, quod scire                                                         est de aliquo, quod nunquam fuit vel est vel erit.
+
+Dei, relatum ad creaturas, vel ita quod una persona                                                                                         Et praeterea, est infinitorum, sicut vult Augustinus
+sciat se ipsam  est dictum essentialiter ; sed secun-
+                                       ,                                                                                                    undecimo de Civitate Dei \ non tantum quae sunt
+dum quod una persona scit aliam, dicit respectum                                                                                            vel fuerunt vel erunt.
+
+personae ad personam                                                et            est         dictum notiomliter.                                       Respondeo: Dicendum, quod Magister                                                            loqiiitur
+
+— Sed         non est convenienter dictum, quia, sicut
+                    lioc                                                                                                                    de scientia visionis, quae est illorum tantuin, quo-
+in   praecedentibns habitum est -, sapientia el sapere                                                                                      rum ab aeterno fuit                                       praevisio;              sed ipse obiicit de
+
+essentialiter                     tanlum                 dicitur.                                                                           scientia               intelligentiae ,                        quae            nullius         connotat exi-
+
+             Et propterea                           dicendum quod ablativus iile non
+                                                                                  ,
+                                                                                                                                            stentiani;                  quod               patet.           Inteiligit            enim          Deus omne
+tantum              dicit          causam                    sive rationem dicendi, sed ra-                                                 quod potest,                         et       ita       non recte currit obiectio '.
+tionem concomitantiae. Gerundia enim, sicut dicit
+Priscianus", habent exponi per si, vel per dum,                                                                                                                                                      DuB.        IV.
+
+vel per quia; et                                    primo modo dicunt convenientiam,
+secundo concomitantiam                                              ,        et        tertio       causam.                                             Item quaeritur                               de      hoc          quod dicit, quod non
+                                                                                                                                            potest incipere scire vel praescire elc. Videtur enim
+                                                                  Dru.            II.                                                       maie             dicere,                 quia            nihil       scitur nisi             verum^: ergo
+                                                                                                                                            antequam                       sit        verum,               non            scitur:      ergo      si    aliquid
+
+             Ilem quaeritur de                                          hoc             quod         dicit:              Et omnia           incipit esse                       verura           ,   aliquid incipit a Deo sciri: ergo
 
 ## English
 

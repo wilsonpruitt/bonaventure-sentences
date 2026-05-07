@@ -6,10 +6,15 @@ distinctio: 39
 articulus: 2
 quaestio: 3
 type: quaestio
-line_start: 27615
+title_la: "Utrum Deus cognoscat omnia simul"
+title_en: "Whether God knows all things simultaneously"
+printed_pages: [680, 681]
+pdf_pages: [270, 271]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 680–681"
+line_start: 27681
 line_end: 27874
-word_count_latin: 2483
-transcription_status: "auto-chunked 2026-04-18"
+word_count_latin: 1561
+transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
 format_version: 1
 ---
 
@@ -17,263 +22,200 @@ format_version: 1
 
 ## Latin
 
+et haec,        quoniain a cognoscibili causatur et                                                depen-          quod     modo comparatur, et hoc modo conce-
+                                                                                                                                    alio
 
-QUAESTIO            III.
+det, variatur secundum exigentiam cognoscibihs                                                                     dendum est^. Si ergo inferat quod alio modo sit,                                        ,
 
 
 
+quantum ad rem et modum '. Esl et aha cognitio                                                                     ralio           non vaiet, quia cognitio Dei                                                                   non      recipit        mo-
+quae secundum rem idem esL quod cognoscens et                                                                      dum essendi nec nobiiitatem a cognito.
+a cognoscibili non causatur                                  nec          dependet:            et      haec                        1.        2.
 
-                                                                               Ulrum Deus cognoseat universa praesenter.
+accipil        identitatem                 quantum ad rem et modum a                                               versitate.
 
+parte cognosccntis                    .    non a parte                    cogniti.                                         Ad iUud quod obiicitur tertio, quod iiihil est
+                                                                                                                                   3.
 
+             Quoniam          igitnr divina cognitio a rebus                                   non de-             commune   Creatori et creatnrae    dicendum quod                                                     ;
+                                                                                                                                                                                                                                                     ,
 
-                Tertio quaeritur,                             utrum Deus cognoscat                              orania       ergo non cognoscit                                omnia simul; quod                                si     simul,
-praesenter. Et                              quod            sic,    videtur.                                                 tunc ergo in eodera nunc cognoscit                                                        omnia,          et     ita
 
-                1.     Secundae Petri ultimo'                                     super         illud:           Mille       praesenter. Si antem non cognoscit simul, ergo unum
-.anni etc,                       Glossa:                « In       agnitione           divinae            veritatis          post aliud; sed in omni tali cognitione est traosrau-
-praeterita et praesentia et futura aequaliter praesen-                                                                       tatio:         ergo in Dei cognitione                                     caderet transmutatio
-tia     sunt».                                                                                                               quod          est oinnino                  falsum                 et irapossibile "^.
-                2.     Item, Augustinus super loannem^: « In veri-                                                                       CoNTRA: 1. Praescientia non est                                               nisi futuri,           etAdopposi-
-tate,            quae manet, praeteritum                                        et   futurum non                   in-       ut futurum est: ergo                                   si     Deus cognoscit orania prae-
-venio, sed solum praesens, et hoc incorruptum »                                                                              senter, ergo                 nihil               omnino                 praescit;          sed      praescit,
-                3.     Item           ,
-                                           quanto res               est    praesentior, tanto                      co-       ergo        etc.         Si tu dicas, quod improprie dicitiir prae-
-gnitio                est        nobilior,               quia hoc              facit    ad       nobilitatera                scire; contra:                        in        praescientia                non sunt               nisi        duo,
-cognitionis";                              sed         Deus         omnia cognoscit                       nobilissi-         scilicet scientia                         et antecessio                   respectu cogniti;                     sed
-me      :       ergo omnia quae cognoscit , praesentissime co-                                                               constat, quod in Deo proprie est scientia, constans
-gnoscit.                                                                                                                     est etiam, quod in ipso proprie est anlecessio quia                                                        ,
+pendet nec causatur, sed est idera quod                                                     Deus,             et   verum est de communilate secundum eandein com-                                   ''
 
 
 
-                4.     Itera,               si      non cognoscit orania praesenter.                                         proprie antecedit Deus omnia alia ergo si cognoscit                              :
 
+Deus  eadem essentia et eodem modo se habens:                                                                      parationem; sed secundum aliam et aliam nihil pro-
+ideo una cognitione et eodem modo cognoscit Deus                                                                   hibet, quod aliquid sit veritas creaturae et simili-
+se et aha a se, quia per se ipswm nuUo modo va-                                                                    tudo Dei, similiter, quod aliquid                                                                        sit    veritas Dei             et
+riatum nec diversificatum.                                                                                         similitudo creaturae. Et                               quoniam ratio cognoscendi
+    Ad intehigentiam autem obiectorum notandum,                                                                    accipitur penes                                 utrumqne niodum ideo cognitio po-                        .
 
 
 
-            1    De hac fallacia cfr. supra pag.                                58, nota S.      — Codd. aa                          *     Trael. 38. n. 10, ubi in textu originali incorruptibililer
-bb addunl: %d hic, scio Deum esse multipliciter : ercjo verum                                                                pro incorrvpium.
-est ,       Deum esse mullipliciter.                                                                                                 =     Cfr.      supra        d.    3.    p.    I.    q.    1.    fundam.     3.
-            ^    Ed.        1    connotat.                                                                                           s     Vide de hoc argumenlo Boeth., V. de Consolalione phi-
-            *    Vers. 8, ubi in Glossa Lyrani virtutis pro                                       veriiatis,            et   losophiae, prosa 6.
-constmt pro suni.
-                                                                                                                                                  ,                                                                                                                                 ,
 
+quod per respectum ad cognoscentem cognitio eo-                                                                    test esse                      communis.
+dem modo comparatur et eodem modo est quia                                                         ,
+                                                                                                                       4. Ad illud quod obiicitur ultimo, dicendum                                                                                          .
 
 
 
-                 cm                                                                                                                  SENTIiNTlARUM            LII5.                 I.
 
+secundum illam comparationem habel esse ^ ; et sic                                                                 quod tenet, cum cognitio causatur a cognito; non
+procedunt primae rationes ostendentes, quod eodem                                                                  autem tenet cum non causatur sicut in proposito.
+                                                                                                                                                         .                                                          ,
 
 
 
-                 alia a se proprie, ergo Deus praescit                                                                    alia\ ergo re-                           lit              ratio         huius esl,                 quia Deus                onmium                ideas H-nio.
 
-                 sponsio                  illa    nulia est.                                                                                          habet praesentes et siniul, per quas                                                                 cognoscit             res
+                                                                                                   SCHOLION.
 
-                                ± Item            ,   oiiiiie            praesens secundum statum suae                                                fnturas                       ita       certitndinaliter', sicnt si essent praesentes.
+        I.   Qnocl ex parle cognoscentis uno                              eodemque niodo el ea-                               n.        Ale.x.         Hal.,       S. p.    J.   q. 23.                  m.     2. a.           1.3, m.         4.
 
-                 praesentialitatis est necessarium: ergo si                                                                     Deus omnia            Et iterim, snper omnes                                                 illas         simul           et praesenter
+dem ralione cognoscendi Deus omnia                                    cognoscat,          e.Aincilur          ex   Scot.,          I.     Report.             d.    36. q.       \    ;    de Primo principio,
+illo    axiomate      (in     flne corp.),             quod       «   cognitio Dei          non        recipit     9; Collat.                 21.— S. Thom.,                         I.    Sent. d. 38. q.                              1. a.
 
-                 cognoscit                      praesenter                  et           seniper                   praesenter            ,   ergo     se convertit, et ita simul et praesentcr cognoscit. Et
+modum essendi et nobilitalem a cognito »                                       (cfr.   supra      d.   38. q.      14.        a.    .3.      et in           seqq. passim; S. c. Gent. I. c. 46. et
+4.     ad i,   q.   6.   ad    2.).       Hoc coliaerel cum alio principio: Quid-                                  Verit. q. 2. a.                       13.       —  B. Alberl.,                   hic        a.       2, d. 36.          a.
 
-                 oninia cngnoscit iieci^ssaiio. Sicut ergo qnoii praesens                                                                             iterum                    ,    praesens suae cognitionis est praesens sim-
-                 est       iioii          poli'sl          noii          c-sc    .       ita,           si       Uens         alitpiicl      prae-    plicissimnm, ipiod circumplectitnr oinnia tempora"'.
-                 scil,           ncccssc              csl       [ir:ifscivisse.                          et       si    praescivit, erit:             Ex       liis                 Iribns rationibus siniul                               imictis dicitur                   Deus
-                 ergo necesse est esse °.                                                                                                             omnia                     praesenter                cognoscere.                     —      Et        rationes          istae
+quid recipitur per              modum recipientis recipitur, licet rnceptio                                        tr.    1 5.          q.    60.        m.    2.   —      Petr. a             Tar.,           I.       Sent.      d.    36.
+aliouius rei        ab extra nullo               modn dici possit                   de Deo, cuius in-              — Richard.                      a Med.,           I.   Sent.           d.    35. q. 7. in solut.
+tellectus est       substanlia et                actus iiurissimus.              —      In solut.       ad 3.      .Egid. K.,                     dc     hac        et seq.          q.        d.        38. princ.                1.    q.
+dicitur, quod veritas creaturae polesl esse similitudo Dei,                                             quod       Gand.,               S. a.       40. q. 43.            — Durand.,                      I.    Sent. d. 35. q,
+explicalur supra d              3. p.       !.    q.   1.   ad    1   ,   q.   2.    ad   3. 4;    et quod         1.    Sent. d.                 .35.   q.     2.   3.
 
-                                3.        Iteni,      lioc           ostendilur per inipossibile ,                                           quia     totuin habent ex                                   hoc     ,
-                                                                                                                                                                                                                      quod             praesentialitas                 divinae N'oundun
+reiilns Dei est simililudo creaturae                          ,   de quo \ide d. 3S. q. 1                 .   2.
 
-                 si    omnia cognosceret praesenter. ergo plura                                                                          siniul       cognitionis,                            quae quidem aeternitas est, est «mpfea;
-                 ergo            siiiinl         se convertit ad                                  innlta; sed simplex,                         ad     et infi.nita.                           Quia simplex est, ideo semper praesens;
-                 quod                se    coiiverlil,                   lolaliter                sc converlit:                  ergo        cuin     qnia              iiifinita,                 ideo        sunt               ei     omnia praesentia.                        lil
+                                                                                                                                            ,                                                                                                                    ,
 
 
-                 unum intelligit. iion potest in alterum.                                                                                             exempluin huius ponitur in praesentialitate Dei quan-
-                                4.        Item,       si        cognoscit                         omnia                praesenter:           ergo     tum ad rerum existentiani , secundum quain Deus
-                 simul               scit        dno contradictorie opposita; sed qnidquid                                                            totns est in una °, et ita est in una, ut nihilomi-
 
-                 scitur est vernin ^: ergo                     duo conlradictorie opposita                                                            nus sit et in alia; et hoc                                         est, quia               simplex et                 infini-
 
-                 sunt simul vera.                                                                                                                     lus.         — Ideo Deus                            iudical,                     aliquid esse                 futurum
-                                                                                                                                                      sed non                        futurmn sibi; et omnia praesenter cogno-
-                                                                                                                                                      scit, et                      tamen          niliilniiiinns                 prne.wiL
-                                                                                                                                                                    1.              % Et per             lioi-       i)al('l           |iriiiiiim      et       secundum            ,
-                                                                                                                                                                                                                                                                                        soiutio <
+                                                                                                                            SENTKNTIARUM LIB. 1.
 
+               2.    Item, rVugiistinus decimo quiiilo de Trinitate':                                                                           qubmodo potest illud                            intelligi ,               quod         rei   inutabilis
 
-                 Deus cognoscil oinnia praesenter, tanien praesen-                                                                                    quia procednnt, secimdnm qiiod praesentialitas                                                                             est
+    u    Eius scienlia inamissibilis est et invariabilis »; sed                                                                                 sit   scientia immutabilis?
 
-                     tialitas non accipienda est a parte cognito-                                                                                     dispositio rei cognitae in                                             .s«.a       natura, non in cogni-
-                                rum         ,    sed cognoscentis.                                                                                    tione divina.
-                                                                                                                                                                    3.              Patet etiain tertium. quia hoc ' est simplex
+    oinne           tale       iininutabile: ergo etc.
+               3.    Item, hoc ipsuin                                                  ostenditur             ralione,              quia                                               c       NcLus             I   0.
+                                                                                                                                                                                                                                                                      I
 
-                                Respondeo: Dicendum, qnod cognoscere oninia                                                                           et infinilum. et in                                  nno multa cognoscit; ideo simul
-                 praesenter dupliciler potest                                                         intelligi:          aut^quod no-                supra ninlta se convertit.
-                 tetur praesentialitas a parte                                                        cognitorum,                     et sic est                   4.               Quod obiicitur de oppositis, similiter                                                  patet,
 
-coQciusio   1.   falsa,              quia non cognoscit. omnia esse vera praesenter                                                                   quia cjuamvis cognoscat opposita simul ex parte sua,
-                 et    simul;                    aut       ita,           qnod notetur                                 praesenlialitas            a   tamen scit, nnum                                    alteri esse incompossibile,                                       unum
-conchisio   2.   parte cognoscentis                                  ,    et sic              habet veritatem.                                        tamen alteri posse succedere.
 
 
+    quod nobilins est Deo altribuenduni est; sed nobi-
+    bor est cognitio qua cognoscitur res immutabiliter,
+                                               .
+                                                                                                                                                Deus mulabilia cognoscil immutahililer secunclum                                                                     J.
+    quain qua cognoscitur mutabiliter: ergo                                                                             etc.                               actum. sciendi,                     licet       res       secundum aclum es-                              i^-
 
 
-                                                                                                                                         SCHOLIOK
+               4.    Iteiii.          i|uod est in aliquo est in eo per                                                              mo-                   sendi sint mutabiles.
+    dum eins, in quo esl                                                 -,       et      hoc verum                 est       maxime
+    in    Deo,  quo omne quod est, esl ipsum sive ipse
+                       in                                                                                                                                       Dicendum     quod cum quaentur              ,
 
-                           1.    Deiim omnia cognoscerc praesenter, ab omnibus llicologis                                                             veril.        At econtra                    censoros ipsius Pelri                      loannis lianc ccnsuram
-                 calholicis docetiu'; sed multum disputatum est de                                                               duabus quac-         rcprobarunt                         ut      erroneam (D'Argcntre,                            Collectio         iudiciorum
-                 stionibus connexis                    ,
-                                                               quarum prima est                            quomodo ista praesen-
-                                                                                                             ,
-                                                                                                                                                      tom.         I.       pag. 229, ed. Paris.                      1728). Eliam Scotus (hic. q. unica,
-                 tia sit         intelligenda ; secunda vero                                      ,    utrum eadem sit Deo ratio                      n.     9.)        non nisi primam illam rationcm                                      praesentialitatis admittit
 
-                 cognoscendi res creatas.                                                                                                             ct docet,     quod inflnita acternitatis duratio, quae omne tempus
-                           Quoad primam quaestionem S. Ttiom. (S.                                                          I.    q.    U. a. 1.3,     supergreditur      non nisi potentia, minime autem actu relationem
-                                                                                                                                                                                          ,
 
+    Deus: ergo cuni scientia rerum et ipsae res cogni-                                                                                          utrum Deus sciat res imnuitabiliter, hoc est dupli-
+    tae sint in Deo, et ipse sit omnino immutabilis: snnt                                                                                       citer      :     quia      haec        dispositio ' immutabiliter                                     potest
 
+    ergo        in    Deo immutnbiHter.                                                                                                         determinare actura scicndi Dei, vel actum essendi
+               j.    Ilem        ,        ad hoc                          esl           ratio         .Vugnslini ^             ducens           rerum.            Si    actum sciendi                       Dei ,         sic    oranino          verum
+    ad impossihUe                         :        « Dei eniui                            scire est           suum esse              ,    et    est,       quod        iiiiiiinlabiliter              scit,          quia circa eius actum
+    scientia sua est sua essentia»: si ergo sciret mutabi-                                                                                      et cognilioiicin                   iion cadit              transmutatio nec                       vicissi-
 
+    liter ,         esset rautabilis,                                     quod omnino in ipso est im-                                           tudiiiis           ohuiiihrdtio '. Si                      autem            determinet actum
+    possibile.                                                                                                                                  essendi reruin,                     sic    falsum               est       de rebus           mutabiU-
+               6.     Iteni, ubi est mutabilitas,                                                       ibi    nulia est cer-                   bus, quia Deus                      scit       eas mutabiles et novit ipsarum
+    titudo,           si       ergo Deus sciret                                              res      mutabiliter,                 sciret       rautabilitatem, et scit, se habere                                         nunc aliter'quam
+    incerle: sed incertitudo est conditio dedecorans co-                                                                                        prius; sed              tamen novit immutabililer.
+    gnitioneni             :    ergo non haberet Dei cognitio perfectam                                                                                    Et ratio buius est,      quoniam in eius cognitione
+    nobilitatem.                                                                                                                                non est receptio, non est successio , nec est ohlivio;
+                                                                                                                                                                                                                                                                *°
+               CoNrn.\:               1.           Cuni res                            est     praesens,                scit       Deus,        et ideo ,          quantumcuraque res sint inutabiles                                         ,       ipse
+-   eam esse praesentein                                             ;        et       cum praeterila                   ,    scit   eam         non mutatur in cognoscendo mutabilitatem earura. Et
+    esse praeteritam; et                                             cum est futura,                           scit          eam.esse           quamvis nuUum sit simile, potest tainen cogiiari, si
+    futuram, non praeteritam:                                                             ei'go       videtur,              quod sicut          intelUgatur vel cogitetur oculus fixus in pariete, qui
+    nos cognosciraus                                    res              mutabiliter,                   ita        et        Deus        co-    se ipso videat transeuntes sine                                           receptione et               unico
+    gnoscat \                                                                                                                                   aspectu omnes videat et oranes raotus ipsorum                                                     ,   quan-
+               2.    Item, ad hoc quod scientia sit vera, necesse                                                                               tumcumque res mutentur, tamen nec oculus muta-
+    est , scibile et scientiara proportionari , alioquin non                                                                                    tur nec eius cognitio; et sic est in Deo ". Exemplum Exempinm.
+    est vera scientia:                                  cum igitur mutabilis ad immuta-                                                         autem ad hoc intelligendum potest sumi a contrario
+    bile       non sit proportio, sed                                                     rautabilis          ad            mutabile            sic. Quia enim scientia causata pendet a scibili et                                                        ,
 
-                 q. .^7. a. 3; S. c. Genl. I. c. 66.                                 67; de Veril. q. 2.                        a.    13; 1. Senl.    coexistentiae ad res futuras liabeat; quippe quia     quod non exi-
-                 d.    38. q. unica, 0. S. )                         docet:          i   Omnia quae sunt in tempore,                                  stit    nullatenus coexistere, vel fundamentum relationis coexi-
-                 sunt Deo ab aeterno praesenlia non solum ca ratione, qua lia-                                                                        stenliae csse possit.                             Scoto favet etiam Alex.                       Hal.      (S.    I.   q.   23.
 
-                 bet rationes rerum apud se praesentes, ut quidam dicunt, sed                                                                         m.     -i.    a.          3.),      eumque sequuntur non tantum Durandus                                              et   No-
-                 quia eius intuitus ferlur ab                                    aeterno super omnia                              ,
-                                                                                                                                      prout sunt      minales           ,       sed cfiani plurimi posteriores theologi ex omnibus fere
-                 in   sua praesentialitate^ (Sum.                                        I.       q.     U.       a. 13.).      Ilaec secunda         scholis.
 
-                 ratio multis displicuit, inter                              quos Pelrus ioan. Olivi Ord. Min. eo                                             Nihilominus sententiam S.                Thomae, recte intellectam ve-                                         ,
+    ergo Deus non cognoscit res                                                                mutabiles irarautabili-                          non e converso, ideo potest esse mutatio circa scien-
+    ter, sed          mutabiliter                        :       alioquin                      noii    vere cognoscit,ut                        tiam            per     oblivionem                   et     errorem               et     successivam
+    videtur.                                                                                                                                    considerationem , nulla facta rautatione in scibili. Sic
+               3.    Item,            « quidquid                                   scitur,est                verum=»,ergo                       contrario              modo ", quia scientia divina non pendet
+    quod irarautabiUter scitur, immutabiliter est verum;                                                                                        ex re scita, potest esse                                  mula.t\o circa. scibile , nulla
 
+    sed res mutabiles non habent veritatera inimutabi-                                                                                          mutatione existente                        in divina scientia; et tamen illa
 
+    lem: ergo non possunt                                                         sciri        immutabiUter.                                    scienlia           totum       scit.
 
-                                                                                              I   tanquam haereticam censura-                         rissimani                     Dcoque dignissimani reputamus et omnino confor-
+               4.    Item, quia res sunt contingentes                                                               ,       ideoDeum                 1. Et per hoc patet responsio ad primo obie- soiuuo op-
+    praescire futura contingentia est contingens , sicut in                                                                                     ctum de hoc quod scit fuisse, el esse. Dicendum
+    praecedentibus ostensum est":                                                                ergo quia                   res    sunt        enim, quod hoc dicit mutationein a parte scibilis,
+    rautabiles,                 Deura                   scire res mutabiles est                                             mutabile:           non scientiae.
+    ergo mutabiliter cognoscit                                                            Deus mutabilia.                      Aut        si        2. Ad illud quod obiicitur de proportione, di-
 
+    non est hoc verum                                        ,
+                                                                     quaero quare non ? Et iterum,                                              cendum, quod in speciaUbus conditionibus non opor-
 
 
 
-                           '    In Vat. et cod. cc desideratur conclusio :                                                      ergo    si cogno-     tract.       38. n. 10, et Enarrat. in                                  Psalm.        101. n.         1   ,   et in Psalm.
 
-                 scit alia            a se proprie               ,       ergo Deus praescit alia. Paulo ante pro                                      121. n. 6; Anselm.                            ,    Proslog.            c.    20,      et     de Concord. praesc.
-                 qitia         proprie cod.                W qua proprie.                                                                             Dei cum lib. arb. q. I. c.                                       '6.        — Paulo superius pro quod
-                           - Cfr.          Anselm.         ,   de Concord.                            praesc. Dei         cum lib. arb. q.            codd. A quia et paulo inferius
-                                                                                                                                                                            I                 ,
-                                                                                                                                                                                                                                   pro      totmn Vat. cum paucis
-             -I.      c.        i.                                                                                                                    mss. ortum.
-                           3 Cfr.          supra pag. 690, nota                               2.                                                              «     Pro una cod.                        M iinaquaque re.
-                           •
-                                Cod.        R post avt subiicit ita.                                                                                          '     Scilicet illud simplex,                           quod             totaliter      se    converlil super
-                           ^    Cfr.       August., 83 Qq.                   q.          17.           et        19,    nec     non     in   loan.    obieclum suae cognitionis;                                     et loquitur           de Deo.
-                                                                                                                                     ,:                                                                                                                                                        :,
+           '    Cap.       13.       n.       22.        Vide hic jit. Magistri                          ,    c.     I.                                8       lacob. I,      17.
 
+           2 ClV.          supra              pag. 625                        ,   nota 3.       De     ipso        argumento             cfr.          ^       Pro aliter plurinii codd. cuni ed.                           1    incongrue cognitio-
+    August., XI. de Civ. Dei,                                            c.        10. n.      2.                                               nem; nonnulli              codd. ut        I    (in       marg.)      et   V retentae voei aliter
+           '    Libr.          XV. de Trin. c. 13.                                        n.    22,     ubi    principia            luiius      praefigunt hanc vocem cognilionem, qua adiectione lectio red-
+    urgumenti liabentur. Vide hic                                                  lil.   Magistri,      c.    I.                               ditur aequivoca.
+           •    Cod.       V verbo cognoscat praemittit eas.                                                                                           '°      Codd. F S T          cum ed.           I    ip.'a.     Mox post nullum                  ed.       I
 
 
 
-                                                                                                 DIST. XXXIX. ART.                         11.        QUAEST.                    III.                                                                                               697
 
-mem doctrinac S. Augustini, S. Gregorii, S. Anselmi et S. Bo-                                                                             liter        competit eis propter defectum,                                         scil.        propter finitam suae
-naventurae. Tola diflicultas versatur circa rectam intelligentiam                                                                         durationis               mensuram.
-huius profundae positionis. Unde haec pauca praenotamus.                                                                                              II.    Licet S. Bonav. a                         plurimis              auctoribus                     ad        sententiam
-              1.    Aliud esl nunc (sive instans praesens) temporis, aliud                                                                Scoti            Irahatur,          praesertim ob solutionem dubii                                                5.    distinctionis
+           =    Cfr. .\ristot.,                    1.   Poster.                   c.    2.    Ipsa Philosophi verba habes                       inserit        exemplum.
+    supra pag. 090, nota                                2.                                                                                             " Cfr. Boeth.           ,    V. dc Consol. prosa                     6.    Vide etiam          S.       Bo-
+           "    Dist. 38.            a.       2.        q.       2.                                                                                        infra        40.                     1.    ad
+           '    Pro disposiUo ed.                                1       dictio,             Vat. determinatio. Paulo ante                                     Cod.      Sic e contrario                        Deo.
+    pVo duplicitcr eadem Vat. duplea;, cod. cc Imec est duplex.
 
-twmc aevi, aliud nunc aeternitalis,                                                    ut    bene explicat      Alex. Hal.                35.         (quam            parteni              etiam            Barthol.         de Barberiis, Curs.                                  theol.
+                                                                                                                    .                                                                                                                           ;
+                                                                                                                                                                                                                                                ,
+                                                                                                                                                                                                                                                ,
 
-(S. p.              1.       q.    13.        m.    9.    a.   i.   % 3.).              SufBcit    hic     dicere,            quod        tom.         I.     disp. S. q. 7.                    mordicus tenet); tamen ipsa                                           verba                 Se-
-mmc temporis est instans indivisibile, raplim fugiens, quod co-                                                                           raphici                (hic et infra d. 40. a. 2. q.                                I.     ad i,              el       d.        41. a.            2.
 
-pulat tempus prius                                 cum posteriore; nunc aeternitatis est                                          ipsa    q.     I.        ad 4;       lliner.            mentis in           Deum, c.              .5.    circa flnem) satis de-
 
-aeternitas,                       quae ratione infinitae simplicitatis                             est     toia     simul et              monstrant, plene                        eum convenire cum                                 Angelici                sententia, sane
-indivisibilis,                     et    hac ratione similis instanti                           indivisibili        temporis,             intellecta.             In Itinerario ita                    dicit :      «       Quia aeternum                         el        praesen-
-ralione vero immensitalis illimitatae                                                  omnes duraliones temporis                          tissimum, ideo omnes duraliones ambit et intrat, quasi simul
-et aevi              eminentissime                   in    se romplectitur et superexcedit.                                               exislens               earum centrum et circumferentia. Quia simplicissimum
-              2. Intellectio divina ,                      cum sit substantia, eandem mensuram                                            et     maximum, ideo totum intra omnia et lotum extra omnia, ac
-habet, quam ipsa divina substantia                                         ,       unde etiam          « praesentialitas                  per hoc est sphaera                              intelligibilis,              cuius centrum est ubique et
-divinae cognilionis,                                qiiae      quidem              aeternitas       est,     est         simplex          circumferentia                    nusquam j>. Nihil autem                                 dubii relinquit cxpositio
-et infinita »                      (   hic in corp. ). Intellectio autem                           humana       ,
-                                                                                                                     quae est             huius doclrinae,                       quam S. Doctor facit in inedita quadam quae-
-accidens                 ,   mensuratur tempore                     ,    subslantia             autem animae men-                         stione disputata, u nobis suo                                        tempore publicanda, ex qua                                               tan-
 
-suratur aevo.                                                                                                                             tum unam propositionem transcribimus:                                                            «    Sicut            divina            incir-
+                                                                                       DIST. XXXIX. ART.                      II.    QUAEST. III.
 
-              3. Alia est                praesentia, qua                 res corporales,                 vcl      in     genere           cumscriptibilitas habet                                omnia         loca sibi praesentia                          ,    et ipsa               non
-res,          quae tempore mensurantur,                                   sibi coexislunt, alia,                    qua i)e«s             dislenditur per                    illa,         licet      illa    vere sint distensa,                            sic divina                     ae-
-rebus              coexistit,            alia,     quu res temporales et differentiae temporis                                            ternitas habet sibi                         omnia tempora praesentia, nec                                               tamen              ipsa
-Deo coexistunt. Ut res corporales sibi sint praesentes, praeter in-                                                                       succedit                cum       illis,         licet       illa    vere           succedant».                        — Plurimae
-distantiam loci requiritur, ut simul sint in                                                      eodem instanti tem-                     obiectiones, quae conh'a hanc                                         sententiam                      fieri      solent,                optime
-pom. cuius mensura dilabitur per partes sibi succcdentes sive                                                                             inter antiquos magistros solvit Richardus , hic a.                                                                     I.        q.      I,        et
+tet     proportionari etiam scientiam causatara                                                       ,   cjiiia rei         tingensnon praescit Dens necessario; dicendum
+corporalis est scientia spiritualis ; sed sufficit                                                          ,    quod        quod non est simile tum ex parte aclus praesciendi , Noiandun
+sil     proportio iu veritate.                                                                                               tum ex parte disposilionis. Ex parte actus non est
+                3.     Ad                        quod
+                        ojjiicitur, quod quidquid sci-
+                                  iliud                                                                                      simile, quia praescire                                      semper notat^ rei eventum
+tur, est verum: ergo   quod scitur immutabiliter, im-                                                                        sed scire non semper connota.t                                              rei      existentiam ; scit
+mutaliiliter est veruni; dicendum, quod liic est ac-                                                                         enim Deus quae potest facere, et nunquam faciet.
+cidens ^. Quanivis enim scientia requirat verilatem                                                                          Praeterea, non est simile de dispositione, quia mo-
+in scito de ralione suae inlentionis generalis,                                                           maxime             dus immutabilitatis                              respicit                actum,       sed         contingens
+scientia                respectu                      eunntiabilis;             tamen        scientia             non        respicit non tantum actum, sed ordinationem                                                                     ad
+dicit           semper contbrmitatem                                      in    immutabilitate,                   ma-        futurum; et actus quidera divinae cognitionis                                                                   est
+xime divina                               scientia ,          quae a scibili non dependet.                                   irarautabilis et necessarius, sed                                                comparatio ad                  fu-
+                4.     Ad iUud quod obiicitur, quod futurum con-                                                             turum contingens est contingens.
 
-per differenlias prneteritorum et futurorum, et non est nisi in in-                                                                       d.     41    .     a.   4.   q.    2    ;
-                                                                                                                                                                                      qui tamen sententiam Scoti non omnino im-
-slimti.            Unde in hac coexistenlia pars durationis succedentis est                                                               probabilem censet. Circa utriusque positionis fundamenta                                                                                   pos-
-extra aliam                        eius       partem       ,   et   nullum instans potest coexistere                                      sunt conferri Rada, contr. 30.                                       a.    2, Macedo, cofl.                            9.        diff.    4.       et
-nisi      wni soli instanti durationis rei coexistentis. Si mensura utriu.s-                                                              alii    ulriusque senlentiae patroni.
-que durationis                           est       aequalis et in          eodem               fluxu   temporis, tunc                                 III.       Verba, quibus S. Doctor in principio responsionis du-
-tota          duratio unius coexistit toti durationi alterius, sed ita, ut pars                                                           plicem sensum locutionis praesenter cognoscere distinguit,                                                                                        ali-
 
-unius durationis tantum parti alterius coexistat. Si autem men-                                                                           qua explicatione indigere videntur. Si praesenter ut adverbium
-sura ulriusque est diversa, tunc non tanlum                                                       secundum partes,                        determinat ipsum divinum actum sciendi, omnes concedunt
-sed etiam ex parte                                 sibi coexistunt             ,       vel nullatenus          coexistunt                 eundem esse extra omnem mensuram temporis in simplicissimo
-V.       g.        mensura horae coexistit quidem mensurae anni, cuius                                                                    nunc aeternitatis, ita ut nec praeteritum nec futurum nec prae-
-est pars,             sed tamen nec toti anno   nec parti eius proportio-          ,                                                      sens temporis                     ei    convenire possint. Si                               autem pruesenter                                  tra-
-natae indivisim, sed per successionem partium.                                                                                            hitur        ad omnia., tunc iterum duplex sensus distingui                                                                             potest:
-          Aliter              Deum coexistere omnibus rebus et mensuris tempo-                                                            vel ut noletur « praesentialitas                                          cognitorum », ut est                                   » disposi-
 
-rum et locorum                            ,    manifestum               est.           Tota     aeternitas existit per                    tio    rei         cognitae in sua natura » (hic ad                                         1.        2.); "quasi                 res futu-
-moduni unius indivisibilis instantis, sine successione permanens                                                                          rae in            mensura temporis non                               inter se realiter distent, sed sint
-et omnes successiones et mensuras temporis actu complectens                                                                               simul et praesentes, quod manifeste est falsum                                                                   —      vel ipsa co-
-et excedens. Sic est mensura divinae vitae et actionis ad inlra                                                                      ;
-                                                                                                                                          gnita comparari possunt                                  non ad nunc temporale, sed ad prae-
-sic mensurat etiam omnes ad extra creatarum rerum mensuras                                                                                sentialitatem                 aeternitatis,                   quae         sirnul           est         praesentialitas                           di-
 
-unde in eodem simplicissimo et immenso nunc aeternitatis coexi-                                                                           vinae cognitionis; et                             si    in    hoe sensu sumitur,                                 subsistit              duplex
-stit omnibus rebus, non lantum iis quae in mensura tempo-                                                                                 illa    opinio scholarum.                             Ita    fere Richard., d. 41. a. 4. q. 2.
-
-ris sunt praesentes temporali nunc vel cuidam parti aeternita-                                                                                        IV.     Quoad secundam quaestionem, utrum haec praesen-
-tis  quam nos imaginamur sed etiam iis quae in mensura
-     ,
-                                                                ,                                                                         tialitas           Deo sit ratio cognoscendi futura contingentia non defue-                                             ,
-
-
-
-
-temporis et loci ab invicem distant secundum differentiam prae-                                                                           runt, ut supra in Scholio (hic q.                                                 H notavimus, qui nodum
-teritorum et futurorum. Immensa et indivisa aeternitas finitis                                                                            difficultatum ,                quae sunt circa praescientiam divinam                                                         ,     ita solvi
-
-rebus coexislit quidem toia propter indivisionem , sed non tota-                                                                          posse putarent, inter quos                                     numerantur etiam                                  Salmanticenses.
-liter propter excessum , quia etiam aliis unquam existentibus                                                                             Ipse S.                Thom. saepius                     istam        rationem                  profert,               quam Scotus
-rebus in actu                           coexistit, et aliis possibilibus in potentia.                                                     (hic q. unica,                n. 9.)            nititur evertere.                  Communius autem S. Tho-
-              .\Iiter         denique ipsas res creatas                                 et    eurum mensuram (tem-                        mae sententia aliter explicatur, nempe quod ipse istam ratio-
-pus) aeternitati cocxistere, tencndum est. Manifestum est, easdem                                                                         nem non a priori tanquam unicum et proprium medium in quo
-pro mensura temporis,                                     in   qua sunt,                 et   pro eo statu,              in       quo     statuere velit, sed                             quod         potius        a posteriori, supposita iam
-eorum duratio in omni inslanti a differentia futuri fluit ad dif-                                                                         praescientia , inde                         sumat optima argumenta,                                         ut    manuducat ad
-ferentiam praeleriti, minime respondere toti aeternitati nec eas                                                     ,                    intelligendum , praescientiam Dei esse intuitivam, infallibilem,
-virtute             suae durationis posse coexistere eidem                                             aeternitati.               Sed     immutabilem , nec ipsam contingentiae rerum derogare. Hoc
-qualenus haec                            flnila     mensura temporis circumplectitur et quasi                                             inter alia insinuant ipsius                                  verba        (S.       c.   Gent. I. c. 67. in princ.)
-includilur in alliore et supereminenti                                                      mensura    aeternilatis           ,    ad     « Ex         his        autem iam aliqmliter patere polest, quod contingen-
-quam totum tempus non est nisi minimum instans, dici potest,                                                                              tium ab aeterno Deus infallibilem scientiam habuit, nec tamen
-quod etiam res temporales coexistant toti aeternitati, non au-                                                                            contingentia esse desistunt i                                  .
-                                                                                                                                                                                                              — Et revera                   ,    si   scienlia              Dei non
-tem totalitrr. Sed tb non totaliter, dictum de coexistentia re-                                                                           est, ut nostra,   a rebus, sed potius ad res , isla praesentiali-
-rum temporatium, aliam rationem habet, ac dictum de coexi-                                                                                tas    rerum, sallem sola, non potest esse propria ratio divinae
-stenlia Dei.                       Deo enim convenit illa coexistentia per                                      se,           et tb       praescienliae.
-non           totaliter ratione                     excessus suae mensurae. Creaturae autem,                                                          V. Praeter iam citatos auctores:                                            .Alex.        Hal. , S. p.                 1.    q. 23.
-
-cum non sint aeternae nec Deo coaeternae, illam coexistentiam                                                                             m.     4.         a.    3.   —     B. Albert. , S. p.                      1.     tr.     IS.         q. 60.           m.        4.     parlic.
-
-non habent ex se el ratione suae durationis,                                                           sed     ratione im-                3.     —         Petr. a Tar.               ,    I.    Sent. d. 41            .    q.    4.      a.    2.     — Durand.                       ,    I.
-
-
-mensitalis el simplicitatis aeternitatis divinae , et tb                                                            non tota-             Senl. d. 38. q. 3. n.                                 II. seqq.
-                                                                                                                                                                                                                                                                       .
-
-
-
-
-                                                                                                                     SENTENTIARLIM \.IB.                          I.
+                                                                                                            SCHOLION.
 
 ## English
 

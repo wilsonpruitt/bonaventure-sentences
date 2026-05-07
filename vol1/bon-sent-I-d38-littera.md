@@ -4,10 +4,15 @@ volume: 1
 book: 1
 distinctio: 38
 type: littera
+title_la: "De praescientia divina — littera Magistri"
+title_en: "On divine foreknowledge — text of the Master"
+printed_pages: [626, 627, 628]
+pdf_pages: [216, 217, 218]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 626–628"
 line_start: 24851
 line_end: 25069
-word_count_latin: 1767
-transcription_status: "auto-chunked 2026-04-18"
+word_count_latin: 1747
+transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
 format_version: 1
 ---
 
@@ -15,221 +20,225 @@ format_version: 1
 
 ## Latin
 
-DISTINCTIO XXXVIII.
 
 
 
-                                                                                                                             ergo, ea non evenire,                                          cum praescita                   sint.      Sic    igitur
-                                                                                                                             praescientia causa      eorum esse videtur quae praescita                                      ,
 
+secumluni onuies has dillerentias                                                  ,    seil          solum secun-                        quod vermn                                     est    de composito,                                   quod              habet           partes
+duni              prioritatem               et         posterioritateni                               magnitudinis                        actn           :     sed de coniposito, qnod                                                          est         in      successione,
+supra quam                    '.     — Quod ergo                          dicilur, tpiod                               partim             non            csl veruin.                            Sicut cniin dnratio successiva potest
+est in            termino a quo, partim                                   in           [mwm ad qac.m,                                     esse           in Angelo, secundum quod nianet, eo c|uod de
 
-                     An scienlia vel praescientia Dei sil cama rerum                                                         sunl.       Hoc idem et de scientia dicitur, scilieet quod,
-                                                  vel e converso.                                                            quia Deus aliqua novit, ideo                                             sint.          Cui sententiae             Au-
-                                                                                                                             gustinus attestari videtur in                                            decimo quinto                     libro    deAiigosi
+hoc non est secundnm diversitatoni                                                               partiuin                niohi-           illa          nnnqnam est nisi nunc ita rnotus successivus                                   ,
 
-                       Nunc ergo             ad       proposituni                   revcrtentes,              coepto         Trinitate ' sic dicens                                :    «   Non ista ex aliquo tempore co-
-                insislanuis.Supra ' diclum est quod i)raescientia Dei      ,
-                                                                                                                             gnovit Deus                     ;    sed futura omnia temporalia atqiie in eis
-                futinoruin lanlum est, sed oninium tam bonoruin quani                                                        etiain, qnid et                       quando ab illo petitnri fueramus                                     ,    et quos
 
-                maloruin; scientia vero                       vel         sapienlia         noii       niodo            de   et     de quibus rebiis vel exauditurus vel non exauditu-
-                praeteritis % sed etiam de praesenlibus et futuris                                             ,    nec      rus esset, sine initio ante jjraescivit.                                                       Universas autem
-                taiitum de temporalibus , sed etiam de                                          aeternis, quia               creaturas, et spirituales et corporales, non quia sunt,
-                se ipsum novit Deus. Hic oritur quaestio non dissimu-                                                        ideo novit, sed ideo sunt, quia novil. Non enim nesci-
-                landa, utrum scilicet scieiitia vel praescientia sit cni^sa                                                  vit, quae fuerat creaturus: quia ergo scivit, creavit,
-                rerum, an res sint causa scientiae vel praescientiae Dei.                                                    non quia creavit, scivit; nec aliter scivit creata quain
-                Videtur enim praescientia Dei causa esse eorum quae                                                          creanda.  Non eniin eius sapientiae aliquid accessit ex
-                ei    subsunt, ac necessitatem eveniendi                                   eis facere,             quia      eis, sed illis existentibus sicut oportebat et quando            ,
+lis,    sed est sohim per accessinn                                                    ct    leccssum.                                    potest esse in                                   eo,               secundum                           qnod             fertur; et hoc
+             4.    Ad         illnd       quod               obiiciiiir.                    (|iioil          simul              se        quidein secum nullnm hahel inconveniens. Ilis visis,
+Iransfert tolnm                     :   dicendnni.                  (|iioil             qnainvis ex parte                                 patent ohiecta.
+sua se totuin                      siiinil       Iransrcrat,               non tamen transferl                                                Est enim praedictorum summa, quod Angelns epMo;
 
+se simul supcr loiiiin, piopler distantian) medii, in                                                                                     movetnr sine corpore assninto, et quod movetur in
+qua tota non pnlcsl cssc simul.                                                                                                           medio sive per mediuin, et quod movetur motu
+             0.    Ad     illud         quod           ohiicitur,                      quod                conipositnm                    suecessivo, licet non                                                   omnimoda successione compo-
+accidens non potest esse                                     in     re simplici                        ;    dicendum              ,       sito ',              ut praedictnm                                       est.
 
 
-                nec aliqua ftitura fuisseut,                         nisi          ea    Deus      praescisset,              oportebat,                     illa mansit                 ut erat.           Unde in Ecclesiastico *
-                nec possunt non eveuire, cuni Deus ea praesciverit.                                                          Antequam. creareniur, omnia nota sunt illi, sir et
-                Si autem impossibile est, ea non evenire, quia prae-                                                         poslqttam consummata sunt.      Ecce his verbis vi-                      —
-                scila sunt, videtur igitur ipsa praescientia ,                                         qua prae-             detur Augustinus innuere scientiam vel praescienliani            ,
 
 
+                                                                                                                       SGHOLION.
 
-                scita sunt, eis         esse causa                   eveniendi. Impossibile                          est     Dei causam esse eorum quae fiunt cum dicit, ideo ea                                 ,
+        I.    Omiiis matiis             coiiUnam esl eliam successwus                                          ,       secl   iion        quem ipse .\ngelis viiKlicat, aliis ralionibus utitur. Scotus iuxta
+e coiiverso. Motus suoWSjefM eniiii opponituv instantaneo ; coii-                                                                         distinclionom  in Scholio    praeced. commemoralam,
+                                                                                                                                                                               ,                       puUit
+timiius       autem non continuo sive                              disereto.            — Prima opinio,                         in        solam simplicem imitationcm                                                        loci intra             sphaeram              loci       Angclo
+textu        memorata          ,    recle        reprobatur,              quia              cx        ipsa sequeretur,                    adacqiiali in inslanti                                        fieri     poss<'.            —     In   solut.      ad      I.   observatione
+quod Angelus posset simul                                   esse deflnitive                      in        pluribus           locis       dignum videtur,                                 S.            Uoctorem iam                         coniectasse,                motum                lucis
 
-                                                                                                                                                                                                                                                      ''
+sibi adaequatis.              Docet igitur Seraphicus                          ,       Angelum moveri non                                 non       ficri            in       instanti.                 Altcram                  eiusdem            obiectionis            solutioneni
+in instanti, sed niotu successivo,                                       qui tamen           dilTert a motu                               approb:i( S. Thoni., S.                                            I.    q.    33. a. 3. ad 2.
+successivo corporum, sicul explicatur                                      iii         corp. et ad 3.                     Etiam                     II.        Scol.,              II.    Senl.              d.     2.       q.        M.       —    S.     Thom.,             hic.       q.     i.
 
-                auteni, ea non evenire,                      cum praescila sint, quiasi uon                                  esse, quia Deus novit. Idem quoque in sexto libro
-                evenirent,       cum praescila sint, fallerelur Dei praescien-                                               dicere videlur: «Cinu, inquit, decedant et succedant
-                tia.   At Dei praescientia falli non potest. hnpossibile est                                                 tempora non decedit aliquid vel succedit scienliae Dei,
-                                                                                                                                               ,
+S.   Thomas (hic q. 4. a. 3                        ;   S.     I.   q. 53. a. 3.)                 negat, motum                   lo-       a.    3   ;        S.    I.        q.    .53.    a.           3.        —     B.           Alberl.,       Iiic    a.     2i.    —      Pelr.           a
 
+calem Angelorum, sive sit continuus sive non contimms, (ieri                                                                                                 hic              S.     a.    3.                     Hichard.                                                3.    q.        3.
 
+posse        in    eodem instanti            ;   sed quoad               motum non continuwm                                              .Egid.              li.,      hic 2. princ.
 
 
-                       '   Sap. 7, 2i, ubi Vulgata : altingit autem ubique pi-opter                                                                     NOTAE AD LIBR. SENTENTIARUM.
-                suani mundiliam.                                                                                                     1   Dist.          XXXV. c. I.
-                       '   Oratio hinc est ,          quod est quaedam                    repclilio particulae                       -   Ita       in       codd.           ABE et edd.               I,    6,       in   aliis   non bene futu-
-                ideo, paulo superius collocatae.                     — Paulo             ante    pro    el    tantum         ris.   Deinde Vat.                    cum plurimis edd. causae scientiae pro causa
-                sola Vat. est     tantum.                                                                                    scientiae, refragantibus codd. et ed. 1.
-                       "   Sensus est: eaedem res liabent diversas intentiones sive si-                                              3   Cap. 13.                 n.        22.    — Paulo antc Vat. cum paucis edd.
-                mililudines in diversis animabus, et diversae res liabent diversas                                           noverit loco novit.
-                intentiones in     oadem anima.     — Paulo ante voci                            inlentione Val.                     "
-                                                                                                                                         Cap. 23,                  29.        Vulgata:             Domino enim Deo, antequam
-                praeflgit ab,     ed.   1    sua cod. F a sua. — Hoc dubium
-                                                  ,                                                                solvi-    crearenlur, omnia sunt agnita: sic                                            et post          perfectum respicit
-                tur etiam a B. Alberlo,               liic    a.    27,        a    S.   Thoma,        a      Pctro      a   omnia.
-                Tar. et a Ricliardo,          liic    circa        lit.                                                              ^    De Trin.                 c.       10.    n.   11,       sed verbis transposilis.
-                                                                                                                                   ,                                                                                                                               —;
 
 
+                                                                                            DUBIA CIRCA LITTERAM MAGISTRL
 
 
-                                                                                                                    DISTINCTIO XXXVIll.
 
-    in qna novit oinnia qiiae fecit per ipsain. Non enim                                                                               et praedicil etiain                       quae         non        est          ipse         facturus,                  sicut
-    liaec quae creata sunt, ideo sciuntui- a Deo quia facla                                                 ,
-                                                                                                                                       praescivit et praedixit infidelitatem ludaeorum, sed non
-    sunt, sed potius ideo facta                                         suut,        quia              inimutabiliter                  fecit.       Nec ideo, quia praescivit, ad peccalum                                                                infldeli-
+                                                       DUB.        I.                                                                     pus et locum. Videtur enim mala ista divisio Augn-
+                                                                                                                                          stini, primo, quia a Philosopho ponitur nnlla mu-
+             In parte              ista      sunt           dubitationes                          circa            litteram
+                                                                                                                                          tatio secundum tempus. Et iterwm, sua divisio non
+et   primo de hoc quod dicit Magister                                                       :     Neque dimen-                            videtnr sufficiens                                             quia Philosophus ponit sex species
+                                                                                                                                                                                                    ,
 
-    ab eo scinntiir »                    .    — Et hic eliam                         signiflcare                      videtur          tatis       eos coegit, nec praescisset vel praedixisset eorum
-    Dei scientiam causam esse   eorum quae fiunt, dicens,                                                                              mala,            nisi       essent ea habituri.                   Unde Augustinus super Angiistinui
-    non ideo Deum ea novisse, quia facta sunt, sed ideo                                                                                loannem ° « Deus, inquit, futurorum praescius per
-                                                                                                                                                               ;
 
+sionem              habet ,             sicul           corpus                 etc.               Videtur enim                            motus '.
+male dicere               ,        quia dicitur ad                        Ephesios tertio "                               :     Ut                           Respondeo              Dicendum:  quod secundum Philo-                   ,
 
+possitis compreliendere                                 cum omnibus Sanctis, quae                                                         sophum                             omnis species motus ad hunc duplicem oupiex
+sit longitudo,                      latitudo etc, et Glossa exponit ilkid
+                                                                                                                                          motum reducitur, scilicet ad motum ad situm, et
+de Deo.                                                                                                                               I   ad motum ad formam; Augustinus antein motum
+             Respondeo              :   Magister loquitur proprie et ad lil-                                                          ;   ad situm intelligit per motum secundurn locmn,
+teram,              sed       Apostolus                loquitur                         Unde
+                                                                               metaphorice.
+                                                                                                                                          qui est entis perfecti et completi,                                                                              sine deperditione                          ,
 
 
-    facta, quin novit ea Deus. Ideoque videtur Dei scientia                                                                            Prophetam praedixit infidelitatem ludaeorum, sed non
-    vel praescientia causa esse eorum quae novit.                                                                                      fecit, neque praescisset mala eorum, nisi ea haberent.
 
-       Quod si ita est, est igilur Causa omnium raalorum,                                                                              Non enim ideo quemquam ad peccandum cogit, quia
-    cum omnia inala sciantur et praesciantur a Deo quod                                                                    ;           fulura hominum peccata praenovit illorum enim prae-                             ;
 
+multipliciter                  exponuntur                       illa      verba. In Deo enim                                                                                                    circa qualitatem                                                    proprietatem
+                                                                                                                                          vel innovatione                                                                                             sive
+longitudo est longanimitatis, latitudo caritatis, subli-                                                                                  substantiae, eatenus qua ad                                                                        situm est,                  nisi    pariter
+                                                                                                                                      j
 
 
 
-    longe est a verilate. Si                                 enim Dei                    scientia                   vel        prae-   scivit peccata, non sua. Ideoque si ea quae ille prae-
 
-    scientia causa esset malorum , esset iitiqiie Deus auctor                                                                          scivil ipsorum, non sunt ipsorum ", non vere ille prae-
+OTrta* raisericordiae, at profundum m&t\t\ae sive sa-                                                                                                                formam \ Motum                                                   autem ad formam
+                                                                                                                                          sit           ad                                                                                                                                ,    qui
+                    quantum ad Dei
+                                                                                                                                      I
 
-    malorum, quod peiiitus falsum est. Non igitur scientia                                                                             scivit. Sed quia illius praescientia falli non potest,
 
-    vel praescientia Dei causa est omnium quae ei subsunt.                                                                             sine dubio non alius, sed ipsi peccant, quos Deus
-         Neque etiam res futurae causa sunt Dei praescien-                                                                             peccaturos esse- praescivit. Et ideo si non malum sed                            ,                                     ,
 
 
-•   tiae: licet eniin                    non essent futurae,                                 nisi      praescirentur                   bonum facere voluissent, non malum facturi praevide-
-    a Deo,             non tamen                   ideo           praesciuntur                     ,   quia               fiiturae     rentur ab eo qui novit, quid sit quisque facturus».
-    sunt. Si           enim hoc esset                    , tunc eius quod aeternum est                                                 His verbis aperte ostenditur, si diligenter altendamus ',
-    aliquid exisleret causa                              ab eo alienum, ab eo diver-                                                   praescientiam Dei    non esse causam malorum, quae
-    sum, et ex creaturis penderet praescientia ' Creatoris,                                                                            praescit, quia non ea praescit     tanquam facturus nec
-    et creatum causa esset increati. Origenes tamen siiper                                                                             tanquam sua, sed illorum qui sunt ea factiiri vel ha-
-    Epistolam ad Romanos " ait     « Non propterea aliquid          ;                                                                  bituri. Praescivit ergo illa sola notitia, non beneplacito
+pientiae                                                      iudicia.
+                                                                                                                                          subdividitur per quinque species, comprehendit sub
+                                                                                                                                          mutatione secundum lempus propter hoc, quod de
+                                                   DuB.            II.
+                                                                                                                                          se dicit mensuram variabilera et rei variabilis ".                                                                                              Unde
+             Item quaeritur de hoc quod dicit Angustinus in                                                                               omnem mutationem, quae est secuildum proprietates
+littera, quod                  movet creaturam corporalem per tem-                                                                        rei       absolutas et intrinsecas                                                           ,   sive       secundum qualita-
 
-    erit, quia id scit Deus futurum, sed quia futurum esl,                                                                             iuictoritatis. Unde datur intelligi quod Deus e converso               ,
 
 
-    ideo scitur a Deo, antequain flat». Hoc videtur prae-                                                                              praescit bona tanquain sua, tanqiiain ea quae facturiis
-    missis verbis Augustini obviare. Hic enim signlflcari                                                                              est, ut in ' illa                       praesciendo simul luerit ipsius notitia
-    videtui», quod res futurae causa sint praescieiitiae; ihi                                                                          et auctoritatis beneplacitiim.
+        '     Supple cum codd. P Q                          W      est    motus              ,   vel        cum          cod.    D        sunt sex : generatio                corruptio augmentum
+                                                                                                                                                                                                ,      diminutio   alte-         ,                          ,                         ,
 
-    vero, quod praescientia causa sit rerum futurarum.
-         Hanc igitur quae videtur repugnantiam de medio                                                                                                                                 Cap. H.
--tollere cupientes, dicimus, res futuras nullateuus cau-
-    sam esse praescientiae vel scientiae Dei nec ideo prae-                                    ,                                                           LJtrum praescienlia Dei possit faUi.
-    sciri       vel sciri, quia futurae vel factae sunt; ila expo-
-    nentes         quod ait Origenes, quia futurum est, ideo                                                                    sci-               Ad hoc auteni, quod supra dictum                                                       est,            scilicet
-        Deo, antequam flat, id est, quod futurum est
-    lur a                                                                                                                              praescienliam Dei   falli non posse, solet a quibusdam
 
- scitur a Deo  antequam flat, neque sciretur nisi futu-
-                              ,                                                                                 ,                      sic     opponiDeus praescivit hunc lecturum
-                                                                                                                                                                   :                   vel ali-                                                     ,
 
+transit.                                                                                                                                  ratio et                 secundum locum mutatio. Cfr. supra pag. 663, nota 8,
+              Pro composito Vat.              cum cod. cc posita.                                                                         ubi           etiam explanata                                  invenies            ,
+                                                                                                                                                                                                                                     quae mox               in     solulione                  huius
+        '
+              Vers. 18.            —    Glossam cuius mox flt mentio
+                                                        ,                                                          ,   invenies           dubii de Aristotelis doctrina afferuntur.
+apud Lyranum in hunc textum.                                                                                                                                  Cfr.           Aristot., VIII.                      Phys.              texl.   SS-60.         (c.    7.).
 
+        *     Libr. de Praedicam.                      c.    de Moiu: Molus                                autem         species                        '>
+                                                                                                                                                              Aristot., IV. Phys. lexl. 98. seqq.                                                     (c         II.).
 
-irum esset, ut non notetur ibi causa nisi sine qua non                               ,                                                 quid huiusmodi sed potest esse ut iste non legat
-                                                                                                                                                                           ;                                      ,
+                                                                                                                                                 ;                                                                                                                              :
 
 
 
-    fleret ^ Ita             etiam dicimus, scientiam vel praescientiam                                                                ergo potest aliler esse, quam Deus praescivit, ergo
-    Dei non esse causam                                 eorum quae                       flunt,             nisi           talem,      polest falli Dei praescientia.                               —
-                                                                                                                                                                         Ouod omnino falsum nespousio
-    sine        qua non flunt,                     si    tamen scientiani ad notitiayn                                                 est. Potest equidem non fleri aliquid, et illud   tamen
-    tantiun referamus. Si vero                              nomine scientiae includitur                                                praescitum est fleri; non ideo tamen potest falli Dei
-    etiam beneplacitiim atque dispositio                                                 ,    lunc recte potest                        praescientia, quia si illud non fieret, nec a Deo prae-
-    dici        causa eorum quae Deus facit.                                             His           enim duobus                     scitum esset fleri.
-    modis, ut superius * praetaxatum est, accipitur cognitio                                                                                   Sed adhuc urgent quaestionem dicentes aut aliler nepiicaiur                                      ;
 
+                                                                                                                      DIST. XXXVII. P.                     II.     DLIBIA.
 
 
+tes            corporales                 sive          secundum                              spirituales,                       ut sunt                                                                 DuB.         IV.
 
-    vel scientia Dei, scilicet pro notitia sola, vel pro no-                                                                           potest fleri,  quam Deus praescivit, aut non aliter; si
-    titia       simul et beneplacito. Hoc                                     modo forle accepit Au-                                   non         aliter: ergo necessario cuncta                                           eveniunl;                    si   vero
-    gustinus dicens                  ;       Ideo sunt, quia novit                                 ,   id           est,       quia    aliter       :   potest ergo Dei                  praescientia                           falli     vel             mutari.
-    scienli placiiit, et quia sciens disposuit. Et hic sensus                                                                          Sed potest ahter fleri, quia potest aliter fleri, quam
-    ex eo adiuvatur, quia de bonis                                             ibi       tantuin agit Augu-                            flat; ita autem flt, ut praescitum est aliter ergo potest                            ;
+affectiones in                       animabus, ipse vocat mutationem                                                                           se-
 
+cundum tempus. Et ita patet ratio divisionis et suf-                                                                                                               Item quaeritur de hoc quod dicit,                                         qmd eadem
+flcientia '.                                                                                                                                         sapientia est in duobus, neque                                                   mador neque minor.
+                                                                                                                                                     Videtur enim falsum dicere                                        ,
+                                                                                                                                                                                                                              quia sapientia est acci-
+                                                        DUB.                  III.                                                                   dens          et         qualitas sapientis,                     et          accidens per substan-
+                                                                                                                                                     tiam numeratur ^
+               Ilem quaeritur de hoc quod dicit, quod spiri-                                                                                             Respondeo: Dicendum, quod ad hoc volueruut opinio                                                                          i
 
 
 
-    stinus, scilicet de creaturis, et de his quae Deus facit,                                                                          fleri,       quam praescitimi esl.                        — Ad quod dicimus, iham                                                Responsio.
 
-    quae omnia novit non solum scientia, sed                                                                    etiam            be-   locutionem multiplicem facere intelligentiam ,                                                                    scilicel:
+tualis creatura per                                    tempus movetur. Videtur enim                                                                  aliqui dicere,quod eadem sapientia creata esset in
+falsum dicere, quia spiritualis creatura mensuratur                                                                                                  duobus sapientibus, et hoc dant intelligere per duas
+aevo,            cum sit perpetua: ergo                                                      si    movetur, non per                                  suppositiones.                        Una      est,     quod species                            rei     in        anima
+tempus niovetur, sed per aevum.                                                                   — Ilem,                   intellectus              non           differant per essentiam a re extra. Alia suppo-
 
-    neplacito ac dispositione.                                    Sic ergo                   ibi       accipitur                Dei    aliter potest fleri,                      quam Deus praescivit, et huiusmodi,
-    cognitio, ut non                         modo notitiam, sed etiam                                               beneplaci-         ut; potest non essequod Deus praescivit, et; impos-
-    liun Dei signiflcet.                                                                                                                         non esse quod Deus praescivit, et; impos-
-                                                                                                                                       sibile est,
-            Mala vero               scit       Deus et praescit, antequam flant,                                                                 non esse praescita omnia quae flunt et
-                                                                                                                                       sibile est ,                                                                                                            ,
+angelicus est deiformis, sicut vult Philosophus -, ergo                                                                                              sitio         est,           quod eandem rem nosse possunt duo                                                           sa-
 
+intelligit in                   instanti          ;
+                                                        pari ratione                                   et        afflcitur            :    non       pientes, scilicet                          unum enuntiabile, quod dictum est
+ergo            in    tempore.              —         Praeterea, tempus per prius est                                                                singulare. Et hoc                            ultimum non                         indiget persuasione;
+mensura motus primi mobilis: ergo illud solum                                                                                                        sed prius                      ostendunt, quod eadem                                     sit,      quia per ea-
+mensuratur tempore, quod subiacet illi motui; sed                                                                                                    dem res cognoscitur                             ,
+                                                                                                                                                                                                         per quae res habet esse °.                                            Si
 
+tale           non        est   Angeius nec eius motus: ergo                                                                    etc.                 ergo per formam suam habet esse,                                                           ergo el cogno-
+               Respondeo              :     Ad praesens notandum ', quod lem-                                                                        sci; et                 forma         rei vere est               in          anima,            et     cum intel-
+pus uno modo dicitur proprie,                                                                     et     sic          dicit raensu-                  lectus sit sciens per illani                                 formam, et contingat ali-
+ram rei mutabilis, in quantum mulalMlis, tamen sub                                                                                                   quos duos omnino idem scire                                                  et cogitare, illa                         non
+ratione continui; et quoniara motus primi mobilis                                                                                                    est     tantnm vera forma, sed etiam una. Et quod hoc
+est motus maxime evidens et continuus inter omnes:                                                                                                   verum sit, persuadent per hoc, quod si forma potest
+ideo tempus hoc modo dicitur proprie esse in primo                                                                                                   secundum veritatem consimilem formam in materia
+mobili, sicut in subiecto, in quo                                                                 primo est et in quo                                producere et se ipsam facere in aliena materia, quare
+primo apparet.                            Alio        modo dicitur lempus mensura                                                                    non est simile in anima, quae habihor est ad reci-
+cuiuslibet rei mutabilis ,                                               secundum quod                                      mutabilis.               piendum ? Unde et hoc dicunt sensisse Augustinum.
+sive           moveatur instantanee sive continue;                                                                         et sic noii               Unde dicunt, quod sapientia non est ad moduni alia-
+tantum               est in           motu primi                              mobilis, et                             in        his       quae       rum proprietatum.                             — Sed haec                     positio deviat                   ab Au- impmbai
+ei     subiacent, sed etiam in                                                omni creato,                                 circa          quod       gustino, quia Augustinus ' vult, el                                                  alii          Sancti,            quod
+accidit variatio ; et                                 sic           est in                   Angelis.                 Et        per        hoc       esse in pluribus                           omnino        distinctis                 non convenit uni
+patent obiecta.                                                                                                                                      et      eidem creaturae                        nisi     per miraculum. Et iterum.
+               Quod enim                        obiicit                  de aevo, dicendum                                        ,
+                                                                                                                                          quod       positio ista super falsum ' fundata est: quia                                                           si   veritas
 
-    sed sola noiitia,                        non beneplacito. Praescit enini Deus                                                      huiusmodi. Possunt enim haec coniunctim intelligi,ut
+uevum est mensura Angelorum quantum ad                                                                                                     esse      asini esset in anima, quare non diceretur anima esse
+substantiale , quod est invariabile .et incorruptibile                                                                                               asinus? Et iterum, si esset veritas ', adhuc non esset
+sed lempus               quantum ad proprietates , quae varian-                                                                                      eadem, quia nulla fornla, cum generat se, generat
+lur, et              quaedam subito, quaedam successive, sicut                                                                                       se omnino eandem, sed de necessitale pluriflcatur
 
+patet ' in Angelis per                                      naturam paulative intendi ali-                                                           essentia in generante et                                 generato,                   praeterquam                          in
 
+qua affectio. Et                           sic    patent cetera.                                                                                     Deo:          et        non valet ad propositum.
 
 
-            '    Itd   in   cndd.        cl       ed.   I;    in        Vat.    et       aliis         scientia.               Immc-   aliis   omiltitm' ipsorum.                  Deinde        codd.                ABCE et onmes edd.,
-      dle ,mte Vdl. et edd. 4, o, 7, 8, 9 dependeret                                                   pro penderet.                   excepta Vat., vera pro vere , sed contra originale                                                           et    cod.     D.
-            •
-                 Libi'.     Vll. n.          8.   (ad Rom.              8, 30.).                                                       Deinde, praeter originale                        et ed.      I,    Vat.              cum         aliis           peccatores
-            '
-                     .\BC et ed. .1
-                 Codd.                                       (3    in    margine) /S, cod. E fiat                                      esse pro peccaturos esse.
-            *
-              Dist. XXXVI. c. 2.
-                                                                                                                                               '
-                                                                                                                                                    Codd.              BCDE et ed.        I   intendamus, cod. A inspiciamus.
-            '
-                 Tract.      -53.   n.        4; sed tantiim              secundum sensum.                                                     *    Vat. aliaeque edd.              ,   excepta          1,           omittunt in,                      refraganli-
-            «    lUi   codd.        ACDE, edd.                     I,     6    el        originale              Angusl.,          in   bus codd.
-                                                                                                   ,                                                                                  :
 
 
+           •   Hoc dubium solvitur etiam a B. Alberto tiic a. 20, et                                              ,
+                                                                                                                                                             s B. Albert., hic a. 27.                    hanc sententiam exprimit his verbis
+a    Petro a Tar., hic circa     lit. ubi idem simul tractat de duobus                                                                               Sicut dicit Aristoteles, Vll.Primae philosophiae, text. 20. (VI. c. 6.},
+seqq. dubiis.                                                                                                                                        quodsi formae sunt absolutae a rebus                                         ,
+                                                                                                                                                                                                                                       quarum sunt            ,   ut dice-
+           -   Cfr. Liber            de Causis              ,
+                                                                    prop.           1   0,    ubi docetur, quod intel-                               bat Plato           ,
+                                                                                                                                                                              quod tunc nihil per eas erit scitum                                   ;   ergo si forma,
+ligentiae            primae          quae uni vero puro sunt propinquiores                                                            ,   maio-      quae est in anima                      ,   alia est a    forma           ,
+                                                                                                                                                                                                                                  quae.est in re, non erit
+                                                                                                                                                                                                — Paulo superius pro sed prius
+                                 ,
 
 
-                                                                                    SENTENTIARUM L[B. I.
 
-conditio           sit    implicita       ,   ct      disiwictim. Si enim                ila intel-    lio, scilicet impossibile esl, illud non evenire, quod
+ris    sint virtutis.            — Mclius tamen                               isla locutio reducenda videtur                                         res scita per ipsam.                                                                                              cod.    T
+ad Dionysium, qui                          in    diversis locis libr.                                  de Div.             .Nom.          v.   g.    sed primum. Paulo inferius verbo contingai fere omnes codd-.
+c.    i.       § 22   ,    et c.      5.    I    8.     Angelos vocat deiformes                                             (   SeoeiSeT; ).         et ed.        1     perperam praefigunt non ; perperam inquimus                            ,
+                                                                                                                                                                                                                                                                       ,
+                                                                                                                                                                                                                                                                           quia,
 
-ligas  non potest aliter fieri
-         :                     quani Deus praescivil,       ,                                          Deus praescivit, vel cum Deus praescieril; si coniun-
-id esl, non polest utruraque simul esse, scilicel quod                                                 clim, intelligas, verum dicis; si dimvnclim, falsum. Ita
+S.    Bonaventura quoque                          II.       Sent. d. 3. p.                             II.   a.       2.   q. 2. arg. 1.             interiecta particula non, vis argumentationis corrunipitur. Cod. L
 
-Deus ita praesciverit fleri, et aliter flat; verum intel-                                              etiam et illud impossibile est
-                                                                                                                           :                non esse praescilum
-                                                                                                                                                          ,
+ad opposil. auctorem huius loculionis                                                        citat       Dionysium.                                  ante coniingat repetit cum.
+           3   Plura de aevo et tempore                                       II.       Sent. d. 2. p.                     1.   per totam.                   '     Epist. 487.             ad Dardan.        n.   10, et              libr.    .XXII.      de Civ. Dei,
+           •   Patet pro videtur.                     — Mox                   Vat. paulatim intendi aliquam                                          c.   29. n.             3.    Cfr.    etiam Damasc.          ,    II.'       de Fide orthod.                 c.       3 , et
 
+affectiomm. Absque ratione                                          et   absque                   auctoritate               codd.          Vat.      opusculum, quod olim                           Anselmo tribuebatur, Elucidarium,
+                                                                                                                                                                                                   S.
 
+paulative mutavit in paulatim,   cum constet, verbum paulative                                                                                       libr.    I.    c.       3.    —      Post pauca pro itenim Vat. cum cod. cc ideo.
+scriptoribus medii aevi familiare fuisse, ut videre est apud Du                                                                                              *     Vat.           cum cod. cc addit fundatur ei.
+Cange, Glossar. ad scriptores mediae                                                         et    infimae latinilatis.                                      "     Cod.           Y addit suilicei         rei        in      causa.           Aliquanto           inferius
+           ^    Vide supra pag. i1                      1
+                                                                ,   nota 6. Cfr. etiam Boetli., de Uni-                                              ante    non vatei Vat. cum aliquibus codd.                                         interiicit ideo.
 
-ligis. Si autem per disiunclionem intelligas, ul dicas,                                                omne quod flt, id est, non potest esse utrumque siniul,
-hoc aliter non posse evenire quam evenit et ' quo           ,                       ,                  scilicel, ul fiat, el non sit praescitum hic sensus verus  ,
-
-
-
-modo futurum Deus praescivil; falsum esl. Hoc enim                                                     est. Si vero dicis, Deum non potuisse non praescire
-
-aliter potest evenire, quam evenit, et tamen Deus hoc                                                  omne quod fit, falsum est. Potuit enim facere, utnon
-modo futurum praescivit. Similiter el                                      alia     determina-         fieret, el ita non esset^ praescitum.
 
 ## English
 
