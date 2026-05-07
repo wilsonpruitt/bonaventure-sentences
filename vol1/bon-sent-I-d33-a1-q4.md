@@ -1,121 +1,27 @@
 ---
-id: "bon-sent-I-d33-p1-a1-q3"
+id: "bon-sent-I-d33-a1-q4"
 volume: 1
 book: 1
 distinctio: 33
-pars: 1
 articulus: 1
-quaestio: 3
+quaestio: 4
 type: quaestio
-line_start: 16026
-line_end: 16289
-word_count_latin: 2186
-transcription_status: "auto-chunked 2026-04-18"
+title_la: "Utrum proprietas de se ipsa denominative praedicari possit"
+title_en: "Whether a property can be predicated denominatively of itself"
+printed_pages: [577, 578, 579]
+pdf_pages: [167, 168, 169]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 577–579"
+line_start: 16290
+line_end: 16434
+word_count_latin: 1258
+transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars + dropped fake p1/p2 dubia split + littera line_start corrected from 15018→15062 to skip d.32 column-bleed)"
 format_version: 1
 ---
 
-# bon-sent-I-d33-a1-q3
+# bon-sent-I-d33-a1-q4
 
 ## Latin
 
-QUAESTIO lll.
-
-                                                                                                                                                                                                                  "
-                                                                                                                  Utrum notio de notiom praedieetur.
-
-                           Tertio quaeritur de comparatione unius notionis                                                                                                         1.     Syllogismo expositorio.                                De necessitate enim
-              ad aliam. Et quaeritur, utrum una notio sive pro-                                                                                                 sequitur, ut dicitur in arte                                                  Priorum^ hoc AestB;
-              prietas unius personae praedicetur de alia *. Et quod                                                                                             hoc A est C eodem demonstrato: ergo C est B;                                                                                                     et
-
-              sic,         videtur:                                                                                                                             fundatur                     iste        syllogismus super illud principium per
-
-
-
-                       1       Sive includit                       in    sua formali signiflcatione. Ut enim Alex,                                                  - Quae est ipsa  deitas.    Ex codd. X et T (a                  —
-              Hal., S.              I.    q.   36.        m.        5.    in    fine ait: lllud dicitur supponi                                   ,   altero    manu) restituimus liabet pro habent, quod in Vat. legitur, cum
-              supposito, quod est in intentione eius in rectitudine, ut supposito                                                                               contcxtus          numerum singiilarem prorsus expostulet.
-                                                                                                                                                                              ^ Pro aclionis Vat. cum cod. cc operationum. Mox
-              homine supponitur animal, et supposito Petro supponitur homo:                                                                                                                                                                                                                                    post
-
-              essentia autem in ratione personae non est secundum rectitu-                                                                                      proprietatibus cod.                            Y addit: personalibus, nec proprie dc es-
-              dinem            ,     sed oblique.                       Similiter, supposita                       notione           non suppo-                 sentia, sed de personis; quia actiones sunl suppositorum pro-
-
-              nitur persona. Vel                               si       coarctetur intentio suppositi, illud dicitur                                            prie loquendo ; cod.                             G vero in margine habet                                          :    quia proprie-
-              supponi altero supposito, quando                                                  quod              attribuitur                uni       attri-   tas           non agit, sed supponit.
-              buitur               alteri ;        ideo dixerunt antiqui, i[Uod licet persona essentia                                                                         *     Intellige :          notione eiusdem personae v. g.                                                paternitas               de
-              essel        ,
-                                   quia        tanien              pcrsona          general       ,       essentia           non     ,        supposita         innascibilitate.
-
-               persona non supponitur essentia; ergo non sequitur: pcrsona                                                                                                     5 Aristot.,           I.    Prior.     c.       6.       tertiae syllogisticae flgurae modos
-
-               gignit  essentia non
-                               ;    crgo persona non est essenlia sed quod
-                                                                    :                                                                    ;                      utiles duplici                     modo probat: per deductionem ad impossibile, et
-               altera ratio intelligcntiac in                                       hoc nomine (pcrsona) et                                  in    hoc no-       per expositionem (ExeEoi;). Probatio per expositionem est                                                                                     illa,
-
-               niine esscntia.                                                                                                                                   in       qua, ut B. Albert. ait in Comment. super hunc locum (tract. 2.
-                                                                                                                  :;                                                                                                           ,
-
-
-
-
-                                                                          DIST. XXXllI. ART. UNICUS QUAEST.                                                       III.                                                      S77
-
-        se notuni              :   quaecunique uni              et    eidem sunt eadem                            ,
-                                                                                                                                  "2.    Item,quod praedicatur de ahquo in abslra-
-        inter se sunt                       eadem.   Fiat       ergo       talis      syllogismus:                     ctione non facit                           numerum cum iIIo°:                      ergo    si       notio
-        Pater est palernitas; Pater                             est       innascibilitas :                   ergo      de notione praedicatur, non sunt                                             plures       notiones,
-        paternitas est innascibilitas. Si tu dicas,                                            quod ac-                sed una.
-        cidens ' peccat contra istam consequentiam et contra                                                                      3.     Item,                    notio praedicatur de notione,
-I       illud       principium,                 ut patet        hic:       Petrus             est        indivi-       spiratio est generatio,
-                                                                                                                                                         si
-
-
-
-
-                                                                                                                       cum haec sit vera: Pater spirat Spirilum sanctum,
-                                                                                                                                                                            et spirare est            generare         :
-                                                                                                                                                                                                                           ergo
-                                                                                                                                                                                                                           ergo
-        duum; Petrus est homo: ergo homo est individuum;
-    i   conlra hoc obiicilur, quia ubi est accidens,                                                     ibi    est    et   haec similiter                         erit    vera: Pater generat                    Spiritum
-    '
-        accidentalis praedicatio; sed                            cum dicitur: Pater est                                sanctum.
-        paternitas, Pater est innascibilitas,                                   non       est acciden-
-
-        talis      praedicatio, quia est in abstractione: ergo non                                                                                                       CONCLOSIO.
-        est ibi accidens.                     — Ftem bene ,               sequitur concretive
-        Pater generat ; Pater est innascibilis                                   :   ergo innascibi-                   Duae notiones unius personae in concreto de se
-        lis   generat; et tamen magis imporlatur sic^ praedi-                                                              invicem praedicari possunt , non vero in abs-
-        catio per.modum accidentis: ergo multo fortius sequi-                                                                     Iracto.
-
-        tur in abstracto: ergo haec est vera: paternitas est
-        innascibilitas.                                                                                                           Respondeo: Dicendum, quod est praedicatio perDupiwprae-
-                   2.                a minori sic: maior
-                         Item, hoc ostenditur                                                                          identitatem et praedicatio per inhaerentiam. Praedi-
-        est unio   proprietatum in una persona sive in sup-
-                          ^"
-                                                                                                                       catio        per inhaerentiam est                               in    concretione,          et       hoc
-        posito incommunicabili quam proprietatum in una                                                                est" ratione supposili, ut album est musicum. Prae-
-        natura communi; sed tanta est unio proprietatum                                                                dicatio vero per identitatem est in                                           abstractione             et
-        in una natura communi     quod una est alia ut bo-
-                                                      ,
-                                                                                                    ,                  ratione formae,                            non      suppositi,          ul    iustitia      est       bo-
-        nitas est sapientia: ergo                             multo fortius                   in    persona            nitas.
-
-        una proprietas praedicatur de alia.                                           *                                           Dico ergo, quod notio ad                                    notionem dupliciter
-                   3.    Item, maior est unio                     proprietatum                          in     una     potest comparari: vel in concretione , \e\                                             m abstra-
-        persona quam proprietatis et essentiae in persona                                                       —      ctione. Si in                    concretione,               sic       una praedicatur de condusio i.
-        quia       ibi    unioquantum ad rem est aequalis, et quan-                                                    alia, ut                  generans est spirans,                      et Pater        est    innasci-
-        tum ad modum                         raagis convenit proprietas cum pro-                                       bilis, et hoc,                   quia conveniunt in supposito. Si autem
-        prietate, quam proprietas cum                            natura sive essentia                           —      in abstractione , quia lunc notio pure importat                                                 ipsum
-        sed tanta est unio essentiae et proprietatis                                                    in     per-    respectum,                      et in una eademque persona sunt diversi
-                                                                                                                  *
-        sona, quod una de alia praedicatur, ut paternitas est                                                          respectus                   sine       sui compositione , et                   hoc    secundum
-        deitas: ergo etc.                                                                                              diversas comparationes ; sic una de                                           alia, non praedi-conciusios.
-
-                   4.    Item , maior est unio proprietatum ' in una                                                   catur.
-        persona           quam duarum naturarum in eadem persona                                                           I. Ad illud ergo quod obiicitur de syllogismo, soiuiio op-
                                                                                                                        ,.           ,          .,,      ,,    ,
                                                                                                                                                                          positornm.                   .
 
@@ -158,7 +64,8 @@ I       illud       principium,                 ut patet        hic:       Petru
         rectc.                                                                                                 vel.    tribuatur mediantibus istis dictionibus (i. e. ita quod terminus di-
         Mox post convenientiam in cod. bb repetitur duarum.                                                            scretus sive singularis accipiatur                        secundum idem in praemissis).
                           S.       Bomv.      — Tom. l                                                                                                                                                      73
-                                                                                                                                     ,                                                                                                                                    ,.
+
+                                                                                                                                     ,                                                                                                                                    ,.
 
 
 
@@ -260,24 +167,6 @@ Tripieiprae-catio
 
 
 
-
-                 — Subiectum Pater acceptum secundum comparationem                                                        patei'-        parationem ad prius, paternitas vero nullo modo etc.
-                 nitatis vel innascibilitatis non dicit formaliter idem.                                         Hoc innuit                          3    Multi codd.            cum edd. 2, 3 m supposito, alii ut C L                                              RU
-                 cod.         W qui voci principii adiungit vel sive comparationis sive
-                                    ,
-                                                                                                                                         bb et in supposito. Paulo superius post notatur                                                           cod.       V inse-
-                 respectiis; idem cod. paulo inferius post acceptione (quod a plu-                                                       rit    identitas vel.
-
-                 rimis mss. omittitur) addit vel comparatione , insimul voculam                                                                      *    Pro      omnia         aliqui          codd.        obiecta ;                    codd.    B X         omnia
-                 sola , quae praeit,                        cum codd. PQ immutans in sua.                                                obiecta.
-                                                                                                                          '
-                                                                                                                          ,
-                                                                                                                          ,                                                                                                                         "
-
-
-
-
-                                                                               DIST. XXXIII. ART. UNICUS QUAEST. IV.
 
 ## English
 

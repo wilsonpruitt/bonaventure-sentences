@@ -6,15 +6,15 @@ distinctio: 32
 type: dubia
 title_la: "Dubia circa litteram Magistri"
 title_en: "Doubts concerning the text of the Master"
-printed_pages: [565, 566]
-pdf_pages: [155, 156]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 565–566"
+printed_pages: [565, 566, 567]
+pdf_pages: [155, 156, 157]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 565–567"
 line_start: 14826
-line_end: 15017
-word_count_latin: 1312
+line_end: 15061
+word_count_latin: 1737
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR pt2 (raw lines 14826–15017), five dubia (DUB I–V), fresh literal English translation, full apparatus from raw OCR (15 entries), [?] flags on ambiguous spots (2026-05-06)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR pt2 (raw lines 14826–15017), five dubia (DUB I–V), fresh literal English translation, full apparatus from raw OCR (15 entries), [?] flags on ambiguous spots (2026-05-06) + DUB. VI–VII appended after column-bleed discovery (originally clipped at line 15017; real end at 15061 per second DISTINCTIO XXXIII heading at 15062), 7 new apparatus entries [^16]–[^22] (2026-05-06)"
 format_version: 1
 ---
 
@@ -66,7 +66,21 @@ Item quaeritur de hac responsione Magistri, quod sapientia genita est sapiens *d
 
 Item quaeritur de hoc quod dicit, quod *uterque est una sapientia, et tamen solus Pater est sapientia ingenita.* Videtur enim dicere duo opposita, quia istae duae proprietates[^14] sapientiam contrahunt, et cum sint proprietates distinctae, distinguunt — et hoc patet, quia *solus Pater est sapientia ingenita* — quod si sapientia distinguitur, ergo est alia et alia sapientia, ergo non una. Item, videtur falsum dicere, cum dicit, quod *solus Pater est sapientia ingenita*. Aut enim dicitur sapientia essentialiter, aut personaliter: si personaliter; ergo non una sapientia est genita et ingenita, cum Pater et Filius non sint una persona; si vero essentialiter, non ergo solus Pater est sapientia ingenita.
 
-**Respondeo:** Dicendum, quod in hoc nomine *sapientia* duo est considerare, scilicet significatum et suppositum. Et quantum ad significatum dicit essentiam; sed[^15] suppositum est persona. Et illae determinationes *genita* et *ingenita* non respiciunt significatum, sed suppositum, et ita distinguunt suppositum, manente unitate in significato sive forma; et sapientia genita et ingenita est alia et alia, scilicet persona, sed non est alia et alia sapientia, sicut non est alia essentia. Et ideo Magister bo[ne dicit][?].
+**Respondeo:** Dicendum, quod in hoc nomine *sapientia* duo est considerare, scilicet significatum et suppositum. Et quantum ad significatum dicit essentiam; sed[^15] suppositum est persona. Et illae determinationes *genita* et *ingenita* non respiciunt significatum, sed suppositum, et ita distinguunt suppositum, manente unitate in significato sive forma; et sapientia genita et ingenita est alia et alia, scilicet persona, sed non est alia et alia sapientia, sicut non est alia essentia. Et ideo Magister bonum exemplum ponit in hoc termino *Deus*, quod significat essentiam et supponit personam. — Quando ergo quaeritur, utrum dicatur essentialiter, an personaliter; dicendum, quod quantum ad significatum dicitur essentialiter, sed quantum ad suppositum dicitur personaliter; et ideo nulla est controversia.
+
+<!-- page 567 -->
+
+#### DUB. VI.
+
+Item quaeritur de hoc quod dicit[^16], quod *Filius non a se agit*, cum Pater in eo manere monstratur; sed similiter Filius manet in Patre: ergo pari ratione Pater non a se agit. Item, videtur falsum dicere, cum dicit: *Infirmus sit non a se agendo, nisi a Deo ipse agat*, quia secundum hoc, cum omnis creatura agat a Deo, tunc videtur esse agens infirmum, nec in hoc videtur differre Filius ab aliis.
+
+**Respondeo:** Dicendum, quod Hilarius duo intendit ostendere ex verbis Domini in Ioanne, et illa duo ostendit deducendo ad impossibile. Ipse enim Dominus dicit Ioannis decimo quarto[^17]: *Verba, quae ego loquor vobis, a me ipso non loquor; Pater in me manens ipse facit opera.* Ex hoc ergo arguit, quod Filius non agit a se, sed a Patre manente in se, non tantum ut consubstantialis, sed ut principium; sic autem non manet Filius in Patre, sed tantum ut consubstantialis. — Alia est auctoritas Domini, Ioannis octavo[^18], ubi dicit: *Qui misit me non reliquit me solum, quia quae placita sunt ei facio semper.* Si ipse agit semper una cum Patre, tunc ergo per se agit. — Haec duo probat per deductionem ad impossibile: quia omnis potentia est a prima potentia, quae primo residet in Patre: ergo si Filius non potest a Deo, simpliciter est impotens vel infirmus, quia infirmus habet potentiam deficiendi a se, non a Deo. Item si Filius non agit per se, non agit per virtutem propriam sibi connaturalem: ergo alia est virtus Patris et Filii. *A se* enim et *non a se*, non facit distinctionem in natura, sed solum in persona, quia dicit rationem principii vel originis. *Per se* autem et *non per se* — quia *per se* dicitur contra *per accidens*, sive contra *per aliud* — ponit diversitatem in natura[^19]; et ideo Filius agit per se, quamvis non a se.
+
+#### DUB. VII.
+
+Item quaeritur de hoc quod dicit, quod una est tantum sapientia Patris, sed non uno modo dicitur[^20]. Videtur enim male dicere[^21], quia sapientia semper est essentialiter: ergo falsum dicit, cum dicit: *non uno modo dicta*.
+
+**Respondeo:** Magister non vult, quod sapientia sit dicta multipliciter, sed quod sapientia Patris: quia genitivus potest construi in ratione originis, et sic dicitur Filius sapientia Patris, vel ipsa sapientia genita sapientia Patris, quia est a Patre; vel potest intelligi in ratione subiecti, ut dicatur sapientia Patris, sicut albedo Petri, et sic sapientia genita non dicitur esse Patris, sed Filii[^22]. Quia ergo ratio passiva, importata per hoc adiectivum *genita*, non est in persona Patris et Filii una, falsa est locutio ratione determinationis, non ratione eius quod est sapientia: quia una et eadem est sapientia Pater et Filius et Spiritus sanctus, et illa est sapientia Patris et Filii et Spiritus sancti.
 
 ---
 
@@ -110,7 +124,21 @@ Likewise it is asked concerning this response of the Master, that begotten wisdo
 
 Likewise it is asked concerning what he says, that *each is one wisdom, and yet the Father alone is unbegotten wisdom.* For he seems to say two opposites, because these two properties[^14] contract wisdom, and since they are distinct properties, they distinguish [it] — and this is plain, because *the Father alone is unbegotten wisdom* — but if wisdom is distinguished, then there is one and another wisdom, therefore not one. Likewise, he seems to say what is false, when he says that *the Father alone is unbegotten wisdom*. For *wisdom* is said either essentially or personally: if personally, then there is not one wisdom which is begotten and unbegotten, since the Father and the Son are not one person; if however essentially, then the Father is not the only one [who is] unbegotten wisdom.
 
-**I respond:** It must be said that in this name *wisdom* two things are to be considered, namely the *significate* and the *supposit*. And as to the significate it says *essence*; but[^15] the supposit is *person*. And those determinations *begotten* and *unbegotten* do not regard the significate, but the supposit, and so they distinguish the supposit, while unity remains in the significate or form; and begotten and unbegotten wisdom is one and another, namely [one and another] *person*, but it is not one and another wisdom, just as it is not one and another essence. And therefore the Master speaks well[?].
+**I respond:** It must be said that in this name *wisdom* two things are to be considered, namely the *significate* and the *supposit*. And as to the significate it says *essence*; but[^15] the supposit is *person*. And those determinations *begotten* and *unbegotten* do not regard the significate, but the supposit, and so they distinguish the supposit, while unity remains in the significate or form; and begotten and unbegotten wisdom is one and another, namely [one and another] *person*, but it is not one and another wisdom, just as it is not one and another essence. And therefore the Master sets down a good example in this term *God*, which signifies the essence and supposits for the person. — When therefore it is asked whether it is said essentially or personally, it must be said that as to the significate it is said essentially, but as to the supposit it is said personally; and so there is no controversy.
+
+<!-- page 567 -->
+
+#### DOUBT VI.
+
+Likewise it is asked concerning what he says[^16], that *the Son does not act of himself*, since the Father is shown to remain in him; but the Son likewise remains in the Father: therefore by parity of reasoning the Father does not act of himself. Likewise, he seems to say what is false when he says: *He would be infirm, were he not to act of himself unless God himself were to act*, because, according to this, since every creature acts from God, then [every creature] would seem to be an infirm agent, nor in this would the Son seem to differ from others.
+
+**I respond:** It must be said that Hilary intends to show two things from the words of the Lord in John, and shows those two by reduction to impossibility. For the Lord himself says in John 14[^17]: *The words that I speak to you, I do not speak from myself; the Father remaining in me, he himself does the works.* From this therefore he argues that the Son does not act of himself, but with the Father remaining in him, not only as consubstantial but as principle; for the Son does not so remain in the Father, but only as consubstantial. — There is another authority of the Lord, John 8[^18], where he says: *He who sent me has not left me alone, because the things that are pleasing to him I always do.* If he himself always acts together with the Father, then therefore he acts through himself. — These two he proves by reduction to impossibility: because every power is from the first power, which first resides in the Father: therefore if the Son cannot [act] from God, he is simply impotent or infirm, because the infirm has the power of failing of himself, not from God. Likewise if the Son does not act through himself, he does not act through a power proper and connatural to himself: therefore the power of the Father and of the Son is different. For *of himself* and *not of himself* makes no distinction in nature, but only in person, because it expresses the account of principle or origin. But *through himself* and *not through himself* — because *through himself* is said in opposition to *through accident*, or in opposition to *through another* — posits diversity in nature[^19]; and therefore the Son acts through himself, although not of himself.
+
+#### DOUBT VII.
+
+Likewise it is asked concerning what he says, that there is only one wisdom of the Father, but it is not said in one mode[^20]. For he seems to speak ill[^21], because *wisdom* is always [predicated] essentially: therefore he says what is false when he says: *not said in one mode*.
+
+**I respond:** The Master does not mean that *wisdom* is said in many ways, but that the *wisdom of the Father* [is]: because the genitive can be construed in the account of origin, and so the Son is called the wisdom of the Father, or the begotten wisdom itself [is called] the wisdom of the Father, because it is from the Father; or it can be understood in the account of subject, so that it is called the wisdom of the Father as the whiteness of Peter [is so called], and in this way begotten wisdom is not said to be of the Father but of the Son[^22]. Because therefore the passive account, imported by this adjective *begotten*, is not one in the person of the Father and of the Son, the locution is false by reason of the determination, not by reason of that which is wisdom: because the wisdom of the Father and of the Son and of the Holy Spirit is one and the same, and that is the wisdom of the Father and of the Son and of the Holy Spirit.
 
 ---
 
@@ -175,3 +203,31 @@ Likewise it is asked concerning what he says, that *each is one wisdom, and yet 
 [^15]: **La.** Cod. M hic repetit *quantum ad*.
 
     **En.** Cod. M here repeats *quantum ad*.
+
+[^16]: **La.** Hoc dubium solvitur etiam a B. Alberto, hic a. ult.
+
+    **En.** This doubt is also resolved by B. Albert, here a. ult.
+
+[^17]: **La.** Vers. 10. — Post *Pater* in Vulgata additur *autem*, in ed. 1 vero *in*, in Vat. *enim*. Subinde post *manens* ex pluribus mss. et ed. 1, consentiente Vulgata, adiecimus *ipse*.
+
+    **En.** Verse 10. — After *Pater* the Vulgate adds *autem*, ed. 1 reads *in*, the Vatican edition *enim*. Just after, after *manens*, on the authority of many mss. and ed. 1, in agreement with the Vulgate, we have added *ipse*.
+
+[^18]: **La.** Vers. 29, in quo Vulgata post verba *misit me* adiungit *mecum est et*, ac dein post *quia* voculam *ego*. — Paulo inferius post *Patre* Vat. cum solo cod. cc addit *ergo est una virtus eius et Patris, et sic agunt una virtute*.
+
+    **En.** Verse 29, in which the Vulgate after the words *misit me* adds *mecum est et*, and then after *quia* the small word *ego*. — A little below, after *Patre* the Vatican edition with cod. cc alone adds *therefore there is one power of him and of the Father, and so they act by one power*.
+
+[^19]: **La.** Plura de hoc vide supra d. 30. q. 2. in corp. — De hoc dubio cfr. S. Thom. et Richard., hic circa lit.
+
+    **En.** See more on this above, d. 30, q. 2 in the body. — On this doubt, cf. St. Thomas and Richard, here on the text.
+
+[^20]: **La.** Plures codd. ut P Q X aa bb cum ed. 1 *dicitur*.
+
+    **En.** Several codices, as P Q X aa bb with ed. 1, read *dicitur*.
+
+[^21]: **La.** In codd. N P Q aa additur *dicere*.
+
+    **En.** In codd. N P Q aa *dicere* is added.
+
+[^22]: **La.** De duplici sensu genitivi cfr. supra a. 2. q. 1. ad 1. — Pro *sed Filii* multi codd. cum ed. 1 *et Filii*. — Eodem modo hoc dubium solvunt S. Thom. et Richard., hic circa lit.
+
+    **En.** On the twofold sense of the genitive, cf. above a. 2, q. 1, ad 1. — For *sed Filii* many codices with ed. 1 read *et Filii*. — In the same way St. Thomas and Richard, here on the text, resolve this doubt.

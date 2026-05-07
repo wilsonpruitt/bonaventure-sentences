@@ -4,10 +4,15 @@ volume: 1
 book: 1
 distinctio: 33
 type: littera
-line_start: 15018
+title_la: "De proprietatibus personarum"
+title_en: "On the properties of the persons"
+printed_pages: [567, 568, 569]
+pdf_pages: [157, 158, 159]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 567–569"
+line_start: 15062
 line_end: 15351
-word_count_latin: 2712
-transcription_status: "auto-chunked 2026-04-18"
+word_count_latin: 2326
+transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars + dropped fake p1/p2 dubia split + littera line_start corrected from 15018→15062 to skip d.32 column-bleed)"
 format_version: 1
 ---
 
@@ -15,7 +20,119 @@ format_version: 1
 
 ## Latin
 
-DISTINCTIO XXXIII.                                                                                                        867
+
+         566                                                                                    SENTENTIARUM LIB.
+
+                                                                                                                     genita. Videtur enim non                                        esse bona, quia             non     vi-
+         quodam modo. Magis tamen dicitur sajnentia de sa-
+         pimtia quam aeternitas de aeternitate, quia aeter-                                                          detur respondere ad quaestionem. Non enim quae-
+
+         nitas significat in maiori abstractione                                            quam sapien-             ritur,quod sapientia genita sive Filius sit f/ePatre,
+         tia, et ideo magis abstrahit a                                        ratione        originis. Se-          sed hoc quaeritur, utrum Filius sit sapiens" sapien-
+                                 concedendum, quod possit                                                            tia    ingenita.
+         cundum hoc etiam                                  est
+                                                                                                                             Respondeo                           Dicendum                 quod        Magister        bene
+         dici sapientia procedens, licet adhuc minus pro-
+                                                                                                                                                        :                            ,
+
+
+
+                                                                                                                     respondet,            licet            verbis paucis, in quibus innuit hanc
+         prie. Nec valet illud argumentum; quamvis enim
+         sapientia non                         sit    appropriabilis                    Spiritui    sancto '         distinctionem  quod aliquem esse sapientem aliquo,
+                                                                                                                                               ,
+
+
+
+
+         tamen per determinationem adiunctam potest trahi.                                                           hoc est dupliciter: aut ita, quod ablativus teneatur
+              Ad iUud - quare non dicitur potentia de po-
+                                           :
+                                                                                                                     formaliter, et sic Filius est sapiens sapientia genita
+
+Kivn^fiio- tentia?dicendum, quod non ita proprie dicitur                                                             et Pater            sapientia                    ingenita;          aut   ita,   quod teneatur
+ dentm^^^sicut sapientia de sapientia. Quoniam sapientia                                                             originaliter ,                et sic,                  cum       sapientia       genita      sit     de
+
+         appropriatur Filio, qui est ab aho et ab aho ha-                                                            sapientia ingenita, Filius est                                      sapiens sapientia inge-
+
+         bet        omne quod habet, ergo                                     et    sapientiam        ab    illo     nita.       Sed quia abiativus ut plurimum construitur in
+         habet':                  ideo sapientia                  genita ex               sua      appropria-        ratione formae, ideo Magister caute locutus dixit',
+         tioue           praesupponit sapientiam                                   ingenitam.        Sed po-         quod Filius, qui est sapientia genita, est de sapientia
+         tentia appropriatur Patri, qui                                       non        est ab alio; ideo           ingenita sapiens, ut verbum non haberet calumniam;
+
+         non        sic       dicilur polenlia de potentia,                                  vel    potentia         et ideo        bene respoiidet.
+         genita.
+                                                                                                                                                                            DuB. V.
+                                                            DUB.       III.
+
+                                                                                                                                 Item quaeritur de hoc quod dicit, quod                                               uter-
+
+                        Item quaeritur de hoc quod dicit Augustinus in                                               que est una sapientia,                                     et       lanien solus Pater              est
+
+         Ubro Retractationum et ponitur in littera: Melius                                                           sapientia ingenita. Videtur enim dicere duo                                                      oppo-
+         istam quaestionem in libro de Trinitate tractavi.                                                           sita, quia istae duae proprietates " sapientiam con-
+
+         Videtur enim non recte loqui, quia, cum compara-                                                            trahunt, et              cum sint proprietates distinctae, distin-
+         tivum               in     utroque extremorum                              praesupponat           rem       guunt        —      et   hocpatet, quia solus Pater est sapientia
+         sui positivi*,                    si        ibi    melius, ergo utrobique hene:                             ingenita           — quodsi                       sapientia          distinguitur, ergo est
+
+         ergo           si    ibi dicit,             quod Pater               est       sapiens sapientia,           aha et alia sapientia, ergo non una. Item, videtur
+         quam genuit, videtur quod dicat verum.                                                                      falsum dicere,                         cum dicit, quod                    solus Pater est sa-
+
+                        Respondeo: Dicendum, quod abusiva                                           est    com-      pientia ingenita..                      Aut enim dicitur sapientia essentia- impUcamr
+                                                                                                                                                                                                                                ''"""' '"'
+         paratio "            ,    quoniam                 in iibro       de Trinitate             dicit con-        liler ,      aut personaliter :                            si    personaliter ; ergo non
+         trarium huius,                          et        ideo   si    ibi        bene,     constat       quod      una sapientia est genila et ingenita, cum Pater et
+         hic male. Quantum ad hoc tamen                                             ,
+                                                                                         quod aliqua vera            Filius non sint una persona; si vero essentialiter
+
+         dixit in libro Octoginta                                 trium Quaestionum de hac                           non ergo solus Pater est sapientia ingenita.
+         quaestione,                     ideo non                omnino male,                sed     quodam              Respondeo: Dicendum, quod in hoc nomine
+         modo bene, quodam modo male: et ideo dicit, quod                                                            sapientia duo est considerare. scihcet significatum nhimam.
+         ibi melius,                     innuens quod aliquid sit ibi male dictum.                                   et     suppositum.                      Et       quantum ad significatum                           dicit
+
+          Qui enim unum oppositorum astruit, per consequens                                                          essentiam;               sed" suppositum est persona.                                       Et     illae
+
+          destruit alterum.                                                                                          determinationes genita et                                       ingenita         non respiciunt
+                                                                                                                     significatum,                       sed suppositum,                        et ita    distinguunt
+                                                            DuB.       IV.                                           suppositum,                    manente                   unitate          in   significato         sive
+                                                                                                                     forma;         et sapientia                        genita et          ingenita       est     alia    et
+
+                        Item        quaeritur               de     hac        responsione Magistri,                  alia, scilicet                persona, sed non est alia et alia sapien-
+          quod sapientia genita est sapiens de sapientia in-                                                         tia, sicut           non est alia essentia. Et ideo Magister bo-
+
+
+
+
+                '       Vat., post appropriabilis iiisei-to                        commate, pro Spiritid                     "   Ex codfl. FK L                       revocavimus sapiens, quod Val. omittit.
+          sancto ponit Spiritus sanclus , haec verba conneclcns cum se-                                              Paulo                       cod. S quare, cod. Y an, nonnulli
+                                                                                                                                  superius pro quod
+          quentibus.                                                                                                 alii   codd.cum Vat. de, quae etiam subinde post sive subiicit
+                2       Fn codd. Iv P           Q W Y liic additur quod qmeritur, in cod. T                          an, et mox post Magisler cum cod. cc omittit bene.
+          quod obiicitur.                                                                                                 ' .\liqui codd. ut B  M cum ed. 1 caute est locutus et
+                                                                                                                                                                        1
+
+
+
+                '       Pro       illo   habet Vat. ciim cod. cc alio.                                               (ed. I cum) dixit.                      —
+                                                                                                                                             In eodem sensu solvunl hoc dubium
+                *       Id est, adiectivum in comparativo praesupponit, quod in                                      Alex. Hal., S. p.             I.       q.    67.       m. 3. a. 2. § 4; B.        Albert., hic a. 4;
+          positivo de utroque extremo dici potest, sive ut ait Aristot.,                                       II.   S.     Thom.,       hic q. 2.               a.   2; Petr. a Tar., hic q. 2.         a. 3;   Richard.,
+          Topic.         c.   4. (c.       M.):       Si    quid magis et minus dicitur, et simpli-                  hic a. 2. q. 2.
+                     — Immediate post pro
+          citer inest.                                                    si non        pauci codd. male sed.                ^   Scilicet sapientia genita et ingenita.                             — Mox pro         distin-
+                Comparativum enim melius
+                    5                                                     in dicto Augustini improprie               ctae ed.       1    dislinctivae et infra                    bene quodsi pro quia si, quod
+          accipiendum    — De       est.                   retractatione .\ugiistini vide supia a. 2.                habent codd.             et edd.
+
+          q.   I.       in corp.                                                                                             9    Cod.    M hic repetit quanium ad.
+
+                                                                                             ,
+
+
+
+
+                                                                                  DISTINCTIO XXXIII.                                                                                                        867
 
          nutn       exemplum          ponit in hoc             termino Deus ,         quod       prima potentia, quae primo residet in Patre: ergo
          significat essentiam et supponit                      personam.      — Quanclo          si Filius non potest a Deo, simpliciter est impotens
@@ -89,7 +206,8 @@ AdquaesUc-ergo quaeritur , utruni dicatur essentialiler ,                       
         ferius post Patre Vat. cum soio cod. cc addit ergo est nna                               hoc dubium solvunt S. Thom.                            et Richard.,       hic circa                lit.
 
         virtus rius et Pairis, ei sic agmt vna viriute.
-                                                                                                                                          '       ,                                                                                                                      , ,
+
+                                                                                                                                          '       ,                                                                                                                      , ,
 
 
 
@@ -192,159 +310,6 @@ personae.                                                           supra       
                 Idem      septimo dicit, « quod naturae nativltas sit in-
                                  in                                                                                                                    suae opinionis assertionem, ut veritatis formam dis-
                 telligenda esse in natura Dei »   Supra " etiam dicit                        .
-                                                                                                                                                       secent.
-
-                « quod proprium Patris est, quod semper Pater est, et                                                                                             Quornm audaciae resistentes atque ignorantlae pro- Responde-
-                proprium Filii quod semper Filius est »
-                                                    ,
-                                                             signiflcans                                                ,                              vldentes,                  audeblmus allquid super hoc loqul. Pater-
-                quod proprietas Patris estPater, et proprietas Filil est                                                                               nilas et flliatio               non ita esse omnino dicuntur in divina
-                Filius.           — His          aliisque pluribus auctoritalibus aperte                                                  si-          substantia, sicut in                            ipsis hypostasibus,                             in   quibus      ita
-
-                                qnod proprietas Fllii flhus sit, sic et
-                gniflcari videtur,                                                                                                                     sunt,           quod eas determinant, ut ait loannes Damasce-
-             Deus ita et proprietas Patris etproprietas Spiritus sancti.
-                             ;
-                                                                                                                                                       nus'": « Gharacterlstica idiomata sunt, id est determi-
-                  Hoc autem aliqui negant dicentes, quidem proprie-                                                                                    nativae proprietates hypostaseos, et non naturae; ete-
- Qnidam iioc tates in personis esse, sed non esse personas Ipsas,                                                                                      nim hyposlasim determlnant et non naturam » Ideoque,                                                 .
-
-   ueiant.
-                ^^.^             j^^     dlcunt          '   essc         in     personis vel                   in esseutla di-                        licet paternltas et flhatio sint in                                               divina essentia,              cum
-                vina, ut non sint interius, sicut ea sunt quae secun-                                                                                  eam non determinent; non ideo                                                 potest dici,                quod dl-
-                dum substantiam de Deo dicuntur, ut bonitas, lustltia,                                                                                 vina essentia et generet et generetur                                                ,    vel quod          eadem
-                sed extrinsecus afflxae sunt. Atque                                                  ita        esse ratfonibus                        res sit ibi " Pater et Filius. Ita enini proprletas detei--
-
-
-
-
-                         1       Cfr. d.      XXVI. c.               2, et d.           XXVIl.           c.    1.                                                 '    Codd. C D dicuntur. Paulo inferius codd, A B D E et edd.
-                         2       Dist.       XXV. c. 3.               in       fiiie.   —        Infra        codd.         .\BE       aperte          I,    2,       3,    5, 7,        9 afjixa sunt pro affixae siint.
-                 ostendit pro aperte dicit.                                                                                                                       8 Dist.         XXV, c. ult.
-                         3 Dist.            VIII.       pars   II.                                                                                                '    Libr.       II,   de Trin.            n.   S,     sed nonnullis a Magistro                  i
-
-
-
-
-                        Num. 21.
-                         *                                                                                                                             Iranspositis et mutatis.
-
-                        Num. 40. Sequens locus VII. n, 22.
-                         5                                                                                                                                        1»       De Fide orth,              III,    c. 6.      Vide supra             d.    XXVII. p,
-                      6 Dist. XXVI. c. 3. Locus Hilarii est XII. de Trin. n.                                                              23.                     " Ita codd. C D et ed.                           I ,   in ceteris sibi.
-
-                 —   Va(. Supra enim dixit pro Supra etiam dicit.
-                                                                                                                                     ,                                                                                                  ,
-
-
-
-
-                                                                                                                   DISTINCTIO XXXIU.                                                                                                S69
-
-             minat personam, ut hac pi-oprietate hypostasis sit ge-                                                                      illud estquod * est. Pater enim non ad se sed ad Fi-                             ,
-
-
-
-             nerans, et illa alia hypostasis sit genita; et ita non                                                                      lium dicitur; ad se autem Deus dicitur. Eo ergo quod
-             idem generat et generatur, sed alter alterum.                                                                               vel quo Deus est substantia est. Et quia eiusdem sut)-
-                                                                                                                                                                         ,
-
-
-
-                                                                                                                                         stantiae est Filius, proculdubio et Filius est Deus.                                         At
-                                                                                                                                         vero quod Pater est, quia non subslanliae nomen esl,
-                                                                                                                                         sed refertur ad Filiura non sic dicimus   Filium Pa-
-                                                                                                                                                                                       ,                              ,
-
-
-
-                        Quomodo proprietates possint esse in nalura                                                                      trem esse, sicut dicimus, Filium Deum esse ».                                            — Ex
-                               Dei, nec eam determinent.                                                                                 his     verbis                  quod proprietas Patris
-                                                                                                                                                                signiflcari dicunt,
-                                                                                                                                         vel  proprietas Filii non sit Deus vel essentia divina.
-                        Sed forte quaeres                      ,   cum hae proprietates non pos-                                         Cum enira dicit: Eo quod Deus est, substantia est, sed
-             sint esse iu personis,                            quin eas determinent,                           quomodo                   quod Pater est, substantia non est; aperte, inquiunt,  '^
-
-
-
-
-             in essentia              divina esse possint, ita ut non eam deter-                                                         ostendit, id esse substantiara, quo Deus est; id vero
-             minent.       — Respondeo                        tibi      et hic       cum Hilario                   '
-                                                                                                                       :   «    Ego      quo Pater est, non esse substantiam. Item cum ait:
-lesp. ex Hi- nescio ,      non requiro          me tamen Archan-
-                                                        ,    et consolabor                                     :                         Pater non illud est quod est^ ostendit, eum non esse
- ^™'                                non audierunt, saecula non te-                                                                       Patrem, eo quod substantia est. Non enim simpliciter
-             geli nesciunt, Angeli
-             nent, Propheta non sensit, Apostolus non interrogavit,                                                                      dixit: Pater non illud est quod est, sed ait: cum Pa
-             Filius ipse non edidil. Cesset ergo dolor querelarum;                                                                       ter est_, non est illud quod est, signiflcans, quo Pater
-
-             non putet homo sua intelligentia generationis sacra-                                                                        esl non esse illud quo est, id est essentiara. Haec illi
-             mentum posse consequi. Absolute tamen intelligendus                                                                         ita exponentes, sua coramenta siraplicibus et incautis
-
-             est Pater et Filius » , et Spiritus sanctus.                                             «   Stat in hoc                    vera videri faciunt.                     —
-                                                                                                                                                               Nos aulera aliter fore ista intelli- Aiiter siagi-
-                                                                                                                                                                                                           ^^""^
-             fine intelligentia                       a Patre, qui
-                                                      verborum:               est        Filius                                          genda dicimus. Dicens enim: eo quod Deus est, sub- nu.
-             est unigenitus ab ingenito, progenies a parente, vivus                                                                      stantia est;             sed quod             Pater est,            subsiantia         non esl,
-             a vivo, non natura deitatis alia et alia, quia ambo                                                                         hoc      intelligi voluit,               quia essentia Deus                  est      et deitate
-             unum ».            «   Hoc credendo                        incipe, percurre,                          persiste;             substantia           est.     Eo enira substantia est, quo Deus                             est,
-             etsi noo perventurum sciam, tamen gratulabor profe-                                                                         et e        converso,          cuius ea est deitas, quae est substan-
-             cturum.   Qui enini pie inlinita prosequitur, etsi non                                                                      tia ,    et        substantia , quae                  deitas ; sed  quod Pater est
-             contingat, aliquaudo tamen proficiet prodeundo. Sed                                                                         non         est    substantia^,              id est,          non quo Pater est, eo
-             ne te inseras in                    illud secretum et arcanum inopinabilis                                                  substantia est, quia proprietate generationis Pater est,
-             nativitatis,      immergas, suramam intelligentiae
-                                          ne     te                                                                                      qua substantia non est. Ipsara tamen proprietatem
-             comprehendere praesumens; sed intellige incoraprehen-                                                                       substantiam esse non negavit. Ita etiam illud intelli-
-             sibilia      esse». His aUisque raultis evidenter ostenditur,                                                               gendum est quod ait: Cura Pater esl non illud est                        ,
-
-
-
-             nobis nullatenus                         licere       maiestatem perscrutari^ ^ ius                                         quod est, id est, non illo Patev est, quod vel quo ipse
-             ponere potestati, modum circumscribere inflnito.                                                                            est, id est essentia, sed notione.
-                    Verumtamen nondum desistunt impalientiae spi-                                                                                Item         illis       vehementer insistuntAjiamiocum
-                                                                                                                                                                       verbis Augustini
-                                                                                                                                                                                                ''''°''°'
-Rcpiicant.                    opinionem suam etiam Sanctorum au-
-             ritu agitati , sed                                                                                                          superius'                  Verbum, secundum quod
-                                                                                                                                                                positis,      scihcet
-             ctoritatibus             munire conantur, quibus ostendere volunt,                                                                                   hoc est quod Pater; secun-
-                                                                                                                                         sapientia est et essentia,
-             proprietalem      qua Pater est Pater, et proprietatera
-                                          ,
-                                                                                                                                         dum quod verbum, non hoc est quod Pater. Si, in-
-               qua Filius esl Filius, non esse Deura, ad hoc iuducen-                                                                    quiunt, Verbum non est hoc quod Pater, secundum
-               tes verba Augustini super illum locura Psalmi: Et                                                                         quod est verbum, id ergo, quod ' verbum est, non est
-kxiiixiitiBMi. non est subslantia^ ita dicentis': «Deus est quaedam                                                                      illud quod Pater est: proprietas igitur, qua verbwn
-
-             substantia.            Unde etiara in                      fide        catholica         sic          aedifica-             est, non est id quod Pater est, non est igitur divina
-
-             raur, utdicamus, Patrera et Filium et Spiritum sanctum                                                                      essentia.          —
-                                                                                                                                                    Ad quod dicimus, quia licet secundum quod Resp. Jiagi-
-             unius        esse        Quid est unius subslantiae?
-                                          substanliae.                                                                                   verbum non sit hoc quod Pater est, ea tamen pro-
-             Quidquid est Pater, quod Deus est, hoc est Filius,                                                                          prietas, qua verbum est, est id quod Pater est^ id
-             hoc est Spiritus sanctus. Cura autera Pater est, non                                                                        est divina essentia,                     sed non est hypostasis Patris.
-
-
-
-
-                    '   Libr.       11.       de Trin.       n.    9.   10.    11,   sed pluriniis a Magisti-o                           tiae codd. et plurimap, cdd. contra                           Vat., edd. 6, 8 et origini
-
-             omissis et transpositis.                                                                                                    omittunt nomen.
-                    -    Respicitur Prov.                   2.5,   27: Qui scrutator est maiestatis, o;i-                                        5    Codd.     ABCE et ed.                I    substantiae:     paulo post cod.
-
-             primetur a gloria.                                                                                                          quod Deus pi;o quo Deus,                      et      quod Pater pro quo Pater.
-                    3    August. Enarratio in Psalm. 68,                                 3,   sermo       1.   n. S.                             "    Codd.     et    edd.   3,   1 substantiae, quod repetunt infra ar
-                    *    Vat.       et        aliae    edd., excepta             1   ,    addunt vel quo,                      i-efra-   id est.
-                                                                                                                                                 >            XXVll. p. II.
-             ganlibus codd. et originali. Paulo inferius pro quod vel quo Deus                                                                        Dist.                           c.   3.
-
-             est originale habet:                     quodDeusest, hocipso. Post non substan-                                                    8    Ita   codd.     ACDE et ed.                1,   cod.   B et aliae edd. quo.
-
-                                S. Bonnv.              — Tom.           1.
-                                                                                                                                                                                                                          72
-                                                                                SENTENTI\RIIM               LIB.    1.
 
 ## English
 

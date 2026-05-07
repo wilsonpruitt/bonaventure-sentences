@@ -1,25 +1,49 @@
 ---
-id: "bon-sent-I-d33-p1-a1-q4"
+id: "bon-sent-I-d33-dubia"
 volume: 1
 book: 1
 distinctio: 33
-pars: 1
-articulus: 1
-quaestio: 4
-type: quaestio
-line_start: 16290
-line_end: 16434
-word_count_latin: 1289
-transcription_status: "auto-chunked 2026-04-18"
+type: dubia
+title_la: "Dubia circa litteram Magistri"
+title_en: "Doubts concerning the text of the Master"
+printed_pages: [579, 580, 581]
+pdf_pages: [169, 170, 171]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 579–581"
+line_start: 16435
+line_end: 16584
+word_count_latin: 1205
+transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars + dropped fake p1/p2 dubia split + littera line_start corrected from 15018→15062 to skip d.32 column-bleed)"
 format_version: 1
 ---
 
-# bon-sent-I-d33-a1-q4
+# bon-sent-I-d33-dubia
 
 ## Latin
 
 
-QUAESTIO IV.
+                 — Subiectum Pater acceptum secundum comparationem                                                        patei'-        parationem ad prius, paternitas vero nullo modo etc.
+                 nitatis vel innascibilitatis non dicit formaliter idem.                                         Hoc innuit                          3    Multi codd.            cum edd. 2, 3 m supposito, alii ut C L                                              RU
+                 cod.         W qui voci principii adiungit vel sive comparationis sive
+                                    ,
+                                                                                                                                         bb et in supposito. Paulo superius post notatur                                                           cod.       V inse-
+                 respectiis; idem cod. paulo inferius post acceptione (quod a plu-                                                       rit    identitas vel.
+
+                 rimis mss. omittitur) addit vel comparatione , insimul voculam                                                                      *    Pro      omnia         aliqui          codd.        obiecta ;                    codd.    B X         omnia
+                 sola , quae praeit,                        cum codd. PQ immutans in sua.                                                obiecta.
+
+                                                                                                                          '
+                                                                                                                          ,
+                                                                                                                          ,                                                                                                                         "
+
+
+
+
+                                                                               DIST. XXXIII. ART. UNICUS QUAEST. IV.
+
+
+
+
+                                                                                                                  QUAESTIO IV.
 
 
                                                                                   proprietas de se ipsa denominative praedica?~i possit.
@@ -107,7 +131,8 @@ maamenta.stinguere, sic                 proprium             est    personae ali
                '   iNon pauci codd.                 cum edd.       I,   2,     3 verbo est praeflgunt                                '"    Intellige; intentionibus.
 
         mn, at perperam, ut iam ex argumento praecedenti liquet.                                                                     " iMulti codd. inoongrue de ratione, cod. bb verius ex.
-                                                                                                                                                                       ,
+
+                                                                                                                                                                       ,
                                                                                                                                                                        ;                                                                                                                                 ;,,
 
 
@@ -145,22 +170,6 @@ pra   se   re-   mis , cuiusiiiodi                                Bst veritas , 
                                                                                                                                                                                                                                   ,
 
 
-
-
-                 neraliii             i>i    i;i'iii'i;iin         ^im'             uiiicial.          A           liichardo a Med. aliisque                               rum ut agenlium, sed ut principiorum, per quae supposita
-                 eutlcm           i|ii,ir<lio              his    mtIms              |ii-oponilur                  ;    »    Ulrum             ntliectiva          per-    agunt: ideo, quamvis haec                                  sit   concedenda: Pater generat, liaec
-                 sonalia praedicanUir                              dc           prtiprietatibus ».                            Rationes                  principales        tamen non est concedenda: Paternitas generat ».                                                    — Quod pn-
-                 falsae opinionis sunt argg.                                        I.       et 2.    ad opposit., quae concludunt                                         mae (transcendentales) intentiones super se reflectuntur, id est
-                 a paritate             ,
-                                            quia videlicet adiectix a essentialia denominani abstj-a-                                                                      de se praedicantur, iam dictum est supra                                                 d. 3.         p.    I.    dub.      3.
-
-                 eta; ct etiam                     primae intentiones, id                                              est    transcentlentales,                     ut    et d.        17. p.       I.   q.       2.   ad   i.
-
-                 unum, verum, bonum, denominative de se                                                                               praedicantur.                Non             II.    S.       Thom.,          hic q.        1.    a.    i ; S.          I.    q.   iO.   a.       I.    ad   3.   —
-                 subsistere lianc paritalcm                                     ,    probatiir in corp. et ad                                      I.    2.   Senten-      B. Alberl., hic a. 8.                   —     /Egid.        K.,    hic       2.    princ. q.           I.    — Dionys.
-                 tiam Serapliici approbat                                   el       magis explicat Richard. a Med. (hic                                                   Carth., hic q. 2.
-
-                 a.    3.        q.    2.)    his verbis:                   «   Quamvis eandem rem signidcat jphp-
 
 ## English
 
