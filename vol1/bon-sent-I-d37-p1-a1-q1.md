@@ -7,212 +7,221 @@ pars: 1
 articulus: 1
 quaestio: 1
 type: quaestio
+title_la: "Pars I, Articulus I, Quaestio I"
+title_en: "Pars I, Article I, Question I"
+printed_pages: [638, 639]
+pdf_pages: [228, 229]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 638–639"
 line_start: 22003
 line_end: 22201
-word_count_latin: 2095
-transcription_status: "auto-chunked 2026-05-01"
+word_count_latin: 1489
+transcription_status: "auto-chunked 2026-05-07 (rebuild — TRUE multi-pars; auto-chunker had scrambled chunks across partes + bogus p3-dubia/p4-dubia; printed_pages rough — agents tighten during translation)"
 format_version: 1
 ---
 
-# bon-sent-I-d37-a1-q1
+# bon-sent-I-d37-p1-a1-q1
 
 ## Latin
 
-QUAESTIO I.
 
 
-                                                                                  Utrum Deus sit in omnibus rebus.
+                 per tempus et locum creaturam corporalera, ut eo                                                         tione sui faciat distantiara circurastantium , sicut corpus.
+                 motu naturas, quas condidit, administret. Cum ergo
+                 talc aliquid agit, non debemus opinari eius substan-                                                                                              Cap. VIII.
+                 tiam, qua Deus esl, temporibus locisque mutabilem
+                 sive per tempora et loca mobilem      cum sit ipse et                   ,                                                  Utrwm spiritus creati sint locaks et
+                 interior oniui re, quia in ipso suut oninia; et exterior                                                                                   circumscriptibiles.
+                 omni re quia ipse est super omnia et antiquior omni-
+                              ,                                                      ;
 
 
 
-            Quod autem sit in omnibus rebus, ostenditur sic.                                                                    2.    Item, quanto motor magis distat a                                   mobili,
-            1.    Philosoplius in prima philosophia:                                              «   Quanto                         movet
-                                                                                                                     tanto sufficientius       unde suflicientius movet      —
-aliquid simplicius,                            tanto a pluribus indigetur et in                                      anima quam forma naturalis °, et Intelligentia quam
-pluribiis invenitur'»; sed                                     Deus est simplicissimus                               anima           —
-                                                                                                                              sed Deus est motor et operator suflicien-
-in      flne           simplicitatis:                   ergo    invenitur               in        omnibus.           tissimus: ergo              summe distat ab omni mobili                               :    ergo
-Sed non reperitur nisi ubi est: ergo est                                                 in       omnibus.           aut in nuUis est rebus, aut in paucis.
-            % Item, quanto causa prior, tanto universalior,                                                                     3.    Item.     «omnis virtus unita plus est                              infinita
-
-ergo causa                   prima             est          universalissima; sed quanto                              quam            multiplicata        "^
-
-                                                                                                                                                              »;        sed        divina virtus est           infini-
-
-aliquid universalius, tanto influit in plura: ergo cum                                                               tissima: ergo unitissima. Sed                                    quanto aliquid magis
-prima causa                       sit    universalissima,                   influit          in       omnia*'.       est    unitum, tanto rainus diffusum                                  et in   paucioribus
-Sed oinne quod                           influit in           aliquid,            est   illi       praesens          repertura: ergo etc.
-secundum virtutem                              — nusquam enim                           et        nunquam                       4.    Item,     quaeritur: quae necessitas est,                                Deum
-operatur agens                          nisi    per praesentiam virtutis                              — sed          ponere *           in   rebus oranibus? Videtur, quod nuUa ex
-Deus propter suam simplicitatem                                              est idem      quod sua                  parte Dei. Nobilitatis enim est in agente                                     ,
-                                                                                                                                                                                                        quod pos-
-virtus:            cum            ergo         virtus          Dei         sit    in    omnibus, et                  sit    agere ubi non               est,            similiter,       quod    possit facere
-substantia est in omnibus.                                                                                           effectura per se stantem                — alioquin opera Dei ma-
-            3.     Itera,               hoc videtur                 per impossibile:                      quia       gis    sunt debilia              quara opera            creatoruni,
-                                                                                                                                                                                      artificuin
-
-omne quod est in una re limitata, ita quod non est                                                                   quae salvantur               in              absentibus — ergo
-                                                                                                                                                        esse, ipsis                                                 si
-
-in alia, est limitatura                                et    arclatum; sed hoc est                           im-     nulla necessitas est, videtur ergo                                    esse superfluitas.
-possibile circa                     Deum           :    ergo non est in una                        re,    quin       Sed        impossibile            est,             in   Deo      esse    superfluitatem
-in    omnibus                sit.                                                                                    ergo       etc.
-
-            4.    Iteni,          si    Deus est in una                          re, ita       quod non
-in    alia, aut potest esse in illa, in                                          qua non              est,   aut                                         c            N c L u s I 0.
-non:         si    non            potest,              ergo     non         est oranipotens;                   si
-
-potesl esse, et non est,                                    cum res non mutetur, ergo                                Deus        est     in omnibus rebus , cuius ratio                                  est     tum
-mutari             potest.              Ergo           si    Deus          non est       in        omnibus                      perfectio ipsius,                      tum indigentia rertm.
-rebus, aut non est omnipotens, aut non immutabi-
-hs;     quorum utrumque est impossibile.                                                                                        Respondeo: Dicendum, quod Deus in oranibus concius
-            Contra:               1.     Quanto aliquid magis seiungitur a                                           rebus est,               sicut     ipse             David"         testatur       dicens: Si
-natura            tenebrosa,                   tanto          est    impermixtius et sub                             ascendero in caelum, tu                                  illic   es etc.
-nobiliori luce cognoscit; sed                                       Deus clarissime cogno-                                      Necessitas       autem existendi                        Deum       in    omnibus
-scit:        ergo            maxime                a natura tenebrosa seiungitur.                                    sumitur             tum a parte                     perfectionis ipsius,              tum a
-Sed         omnis             crealura                 tenebra:            ergo        Deus           aut      iii   parte           indigentiae         rerum.                   A parte     ipsius      propter Raiione
-nuUis        ,    aut        in    paucissirais est rebus creatis.                                                   sumraam immensitatem                                    et     summam         potestat-em;''^"'
+                 bus, quia ipse est ante omnia     et novior omnibus            ;                                              Sunt ergo spiritus creati in loco et transeunt de
+                 quia ipse idem est post omnia», scilicet posl omnium                                                     loco ad locum, et quodara modo locales et circum-
 
 
 
 
-        '    Haec pi-opositio coliecta ^ideltir ex iis, quae Aristot., XI.                                           VII.   Phys.       text. 9. (c. 2.)      :       Unde est principium motus, est simul
-Metaph.           c.   'I.    (X.       e.   1.)       de primis principiis eloquitur,                       scil.   cum eo quod movetur. Cfr. et                            I.   de Gener. et Corrupt. text. S4.
-quod sint simpliciora, contineant omnia, et quod, ipsis perem-                                                       (c. 7.).        — Aliquanto       inferius          pro suam simplidtatem codd. S Z
-ptis,       cctera simul pereant.                      — Verba mox subsequentia in                           fine    summam simplicitatem, cod. K summam suam simplidtatem.
-simpUcitatis sumta sunt ex libro de Causis, prop. 20. (ed. Bar-                                                             3   Vat. voci naturalis praemittit materialis vel. Vocabulum
-denliewer,             alias      21.) In          pluribus         edd.    libri   de Causis            legitur     Inielligentia,          quod proxime sequitur, significat hic Angeluni.
-sic: inlinitfl simplicitatis simplex.                                                                                       *   Libr.    de Causis, prop. 17.
-        -   Cfr. libr. de Causis,               prop. 1. et 20, iam supra pag. 471, nota                                    '   Pro ponere codd.                  L      essc.
-3. allegatae.          — De propositione proxime subsequenli                                      ait Aristot.,             «   Psalm. 138,       8.
-                                                                                                                                                                                                                                                                                          ,
+                            Sumla sunt haeo secuiidum scnsum                                                                        Libr. VIII.       c.    26. n. 48.
+                       1.   ad    lil.   c.   -20.   n.    3^.    40.
+
+                          1                                                .                                                                                         : .
 
 
 
 
-                                                                                                             DiST. XXXVII.                        P.     I.   AKT.        I.    QUAEST.J.
-
-              et    utriusque ratio est summa simplicitas. Quia enim                                                                                          primo quidem modo est Deus                                             in rebus,               non secundo
-              summe simplex est, ad'nihil arctatum, ideo in omni-                                                                                             vel tertio.
-              bus invenitur tanquam immemum; quia summe                                                                                                                   2.        Ad illud quod obiicitur de distantia motoris Dupiei di
-                                                                                                                                                                                                                                                                                              "'""'"
-              simplex, ideo in inflnitum virtuosissimum , et ideo                                                                                             a mobili, dicendum, quod est distantia per                                                                      absen-
-              virtus           eius            in    omnibus;                            et virtus                 idem            est       quod             tiam,ethaec impedit, non iuvat ad motum;                                                                         el est
-              substantia, et ideo necesse est, quod sit in omnibus'.                                                                                          distantiaper independentiam, et haec iuvat, quia
-                          Ex parte creaturae est necessitas, quia                                                                            crea-            quanto motor perfectior est et absolutior, minus de-
-liones ei tuHi             habet              iu    se        possibilitatem                                  et       vanitatem,                  et         pendet et est sufficientior; et hoc modo distat Deus
-rae.""^" utriusque                       causa        est,                 quia               producta est de                            nihilo.              etiam praesens.
-              Quia         enim               creatura est et                                     accepit ^             esse ab alio,                                     3.        Ad      ijlud       quod            obiicitur,           quod             virtus               unita
-              qui        eam            fecit       esse,                 cum prius non esset; ex hoc                                                         est    magis infmita; dicendum, quod unitas virtutis,
-              non est               suum esse                 ,       et ideo                         non     est       purus actus,                          quae         facit          ad eius magnitudinem , per                                         se attenditur
-isibiiitas.   sed         habet possibiiitatem ;                                             et        ratione huius                         tabet            respectu               subiecti,                per          accidens                  respectu                obiecti.
-              fluxibihtatem et variabilitatem                                                     ,    ideo carel stabilitate,                                Respectu autem subiecti attenditur per subiecti sim- Notandum
-              et ideo           non potest                    esse               nisi                 per     praesentiam eius                                plicitatem, respectu                            autem            obiecti                per indistantiam
-              qui dedit                 ei    esse.      Exempium huius apertum est                                                                in         a virtute, quia virtus tanto                                          potentior, quanto obie-
-              impressione formae sigilli in aqua, quae non conser-                                                                                            cto^ propinquior.                            Quoniam                  igitur             virtus divina in
-              vatur            ad       momentum                      ,    nisi              praesente                 sigillo.          — Et                 substantia est simplicissima et                                             nunquam a                       substan-
-              iterum, quia creatura de                                                   nihilo              producta est, ideo                               tia    elongatur, ideo in multis est inftnitissiina, quia
-•aniias.      habet vanitatem;                            et               quia               nihil          vanum in se ipso                                 unitissima in multis, ut in uno.                                                   «Ul)ique enim est
-              fulcitur, necesse' est,                                      quod omnis creatura susten-                                                        centrum ilhus potentiae»,                                        sicut dicit Trismegistus °.
-              tetur per                  praesentiara                           Veritatis.                    Et est simile                   :    si                     4.        Quod ultimo obiicitur iam solutum est, quia
-              quis poneret oorpus                                 ponderosum                                 in aere,              quod           est         necessitas est                      ex      parte           Dei       et creaturae, sicut                                 vi-
-
-              quasi            vaniim,               non              sustentaretur.                              Sic         et        in    pro-            sum est.               —
-                                                                                                                                                                         Quod ergo obiicitur, quod agens crea-
-              posito.                                                                                                                                         tum ubi non est operatur et effectum producit, qui
-                     Ad illud ergo quod obiicitur de distantia et
-                          1.                                                                                                                                  sine ipso                  stat;      dicendum, quod non                                       est siraile in
-
-luiioop-permixtione,       dicendum, quod tripliciter unitur ali-                                                                                             Deo.        Nam si attendatur hoc in artiflce                                                       creato, hoc
-jexS.quid                  aut secundum praesentiam tantum,
-                           alicui:                                                                                                                            venit ex defectu perfectionis: quia enim agens crea-
-              aut secunduin praesentiam et dependentiam , aut                                                                                                 tum limitatum est, et differt a sua virtute, potest
-              secundum praesentiam et dependentiam et concomi-                                                                                                operari per virtutera ubi non est; rnrsus,                                                                 quoniam
-              tantiam               in  modo est radius in aere,
-                                              materia. Primo                                                                                                  agit        ex suppositione                          et     non        potest in totum, ideo
-              secundo modo anima in corpore, tertio modo liquor                                                                                               ePfectus              non      totaliter             dependet ab                       ipso.    Deus autem
-              in liquore. Quod primo modo est in aliquo non per-                                                                                              habet condiliones oppositas, quia infinitus,                                                                   et idem.
-
-              miscetur, simiiiter quod secundo modo est non                                                                                                   est in eo virtus                           et    substantia, et                         iotum             producit;
-              permiscetnr                      proprie            ,        sed               solum             quod               tertio.         Et          ideo non est simile                             °.
+              Ii3(i                                                                                                                        SENTENTIARUM LIB.                                    I.
 
 
 
 
-                                                                                                                                        SCHOLION.
+              scriptil)iles siint, sed                            iion                 onini               eo niodo,                       qiio crca-                      saxea iinpleat aliquein locuin, dicitur, quod                                      atlingil   a
 
-                     I.    Sirmil ciim quacstiouo                                principali                  solvilur         a                               secundum quos creaturae, et corporales et spirituales, sibi pos-
-              quaestio, in               i.   ad opposil.                      pi-oposita,               scil.     de causa, quare                            sunt csse praesentes,                       sed       seclusa         omni imperfectione                              quae
-                                                                                                                                                                                                                                                                               ,
-
-
-              Deus est in omiiibus reljus.                                                                                                                    comitatur             illos    modos in creaturis. Unde Dei                                   praesentia impli-
-                     Deum               inesse      omnibus                    i'ebus             et    locis ,        fide       cei'tum         est.        cat   I.    quandam            <t   praesentialitatis indistantiam » (infra a. 3. q. 2.)
-              Haec inexistentia Dei secundum omnes doctores                                                                       est    prorsus              vel coexisientiam , sed                         non eam, qua substantiae corporaXes
-              singularis et supereminenler continet                                                    omnes modos praesentiae.                               quantitate praeditae, sibi coexistwnt ,                                    ita iit      sit   una extra aliam               ,
-
-
-
-
-                     '    Miro modo S. Doctor de hoc loquitur in Itinerario men-                                                                                     •'
-                                                                                                                                                                           Haec           verba         in Ilernietis          Trismegisti operibus                           non       in-
-              tis   in    Deum, c. 5. et 6.                                                                                                                   venimus,               at     in     Alani       ab        Insulis         libro,        Theolog.              Hegulae,
-                     - Nonnulli               codd.      ut           F    I   V cc accipit; Val. ed. 1. oreata                                               regul. 7,             ubi     sic     legitur :            « Deus      est         sphaera               intelligibilis,
-
-              pro crealura. Paulo inferius pro sed Vat.                                                        cum cod. cc perpe-                             cuius centrum ubique, circumferentia                                          nusquam »              ,
-                                                                                                                                                                                                                                                                        quae verba
-              ram quia.                                                                                                                                       etiam ab Alex. Ilal, S. p.                            I.    q.   7.   m.       1   .    citimtur          et    Trisme-
-                     3    Cod.          T liic      inserit               ergo       ,       et       paulo superius               ante       mhil            gisto addicuntur.                    B.    Albert.          vero      in     Comment.               I.    Sent.      d.    3.
-
-              cum pluribus aliis                    codd.             et       ed.       I        omitlit quia. Paulo                    inferius             a.    18. ait: Nescio, quis fuit iste Trismegislus, et credo,                                                        quod
-              pro Veritatis codd.                    X bb cc cum edd. 2, 3, 4, 3, 6 viriutis.                                                                 liber confictus est. Omnia enim quae dicitur dixisse Trismegistus,
-              De ralionibus hic allatis                           cfr.         supra              d.    8.   p.   I.   a. 2. q.         2.    ad 7,           invcni           in   quodam             libro magistri               Alani,           qui confectus est de
-              et    Anselm.         ,    Monolog.        c.       13.          H. 20. seqq.                                                                   quibusdam proposilionibus generalibus ct supponitur
-                     ••
-                          Pcrmnlli codd. cnm sex primis edd. subiecto ; leclio prava,                                                                         tum corundeni.
-              quia contcxtui non rcspondet.                                                                                                                          "    Cfr.       Augusl., IV. de Gen. ad                         lit.    c.       12.    n.    22.
-                                                                                                                                                :
+              Uirae           corporeae.                   Spiritus    increatiis, qiii Deus
+                                                                                        aiitein                                                                            (ine illius lociusque ad linein, cuin tamen alteruin
+              est, in              loco        quidein esl         omni loco, sed omiiino
+                                                                                   et       in                                                                             uon deserat alteruin occupando. Non ergo habct nioluin
+              illocalis             el        iucircumscrii)libilis est. Unde Beda super                                                                                   localeni         Verbum illud               ,    et    Sapientia        illa    solida cst et
+  Beda.       Lucain '              ait :       «   Cuni ad nos Angeli                                             veniunl, sic                            exlc-           ubique »             —
+                                                                                                                                                                                         Ex praedictis innotescil, quod Deus est ila
+                                                                                                                                                                                            .
 
 
 
 
-                                                                                                                       SENTENTIARUM LIB. l.
+              rius implenl                   tamen ante Deum inte-
+                                                ministerium,                                ut                                                                             ubique per essentiam, quod nec spatiosa magnitudine
+              rius per conteniplationem assistant, quia etsi Angelus                                                              ,                                        diffunditur, iiec, uno deserto loco, alium occupat, quia
+              est spiritus                     circumscriptus                           ,    summus lamen spiritus,                                                        localem motum non habet. Ideoque Augustinus, volens
+              qui Deus est, incircuinscriptus est, intra                                               quem currit                                                         praescindere " a Dei                        puritate          omnem localem motum
+              Angelus, quocumque mitlatur».      Ecce hic dicitur,                                         —                                                               et   localem circumscriptionem                           ,    potius dicit, omnia esse
+              quia spiritus angelicus circumscriplus est  spiritus                                                                             ,                           in illo      ,
+                                                                                                                                                                                            quam ipsum esse   nec tamen ipsum     alicubi,
+            aulem, qui Deus est, incircumscriptus. Alibi ellani                                                                                                            esse locum, qui iion est in loco, iu libro Octoginta '^"8»»''"
+            Ambrosius, distantiain ostendens inler spiritiim increa-                                                                                                       trium Quaestionum ' ita inquiens: «Deus non alicubi
+            tum et spiritum creatum, dicit, Seraphim de loco ad                                                                                                            est.    Quod alicubi est continetur loco                            ,
+                                                                                                                                                                                                                                                    quod continetur
+.\mbrosuis. locum  Irausire, ila inquiens in libro de Trinitate
+                                                                                                                                                                 '
+                                                                                                                                                                           loco corpus est; Deus aiitem non est corpus: non igi-
+            «Dixit Isaias: Qiiia mif:ms est ad me unus de &era-                                                                                                            lur alicubi est. Et lamen, quia esl et in loco                                       non    est,
 
-       i'l   lanliini piirs :illorius conlingat allei-ius partoni; 2. iniplicat « m-                                                                latcm cl siniplicitalcm Dei, quae ad                                                           niliil       arctiitur     quoad            inti-
+              phim. Et Spiiiliis (|uidom sanclus miKsm dieitur, sed                                                                                                        in illo      sunt potius omnia, quani ipse alicubi; nec tamen
+              Seraphim ad idiu/ii, Spiritns vero ad omnes. Seraphim                                                                                                        ila in       illo, ut ipse sit locus.                    Locus     eniin in spatio esl,
 
-       liiiiiliilix       cxisionliam, lU illud qiiod ost contiiicns intra, ut anima                                                                mitatis praesentiam;                                   o posterion autem                                    per     causalitatfim               et
+              millilnr iii minis/erio  Spiritus operatur mijslenum.   j,
+                                                                                                                                                                           quod longitudine et ladtudine et altiludine corporis
+              Seraphim de loco ad locum                                                      transil           — non      com-             eniin                           occupatiir; nec Deus tale aliquid est. Et omnia igitur
+              plet oinnia                — sed             ipse repletur a Sjjiritu »                              — Hic aperte
+                                                                                                                              .                                            in ipso sunt, et locus non est; locus lamen Dei, sed
 
-       in    idiporc »             liliiil.),               omni dopenricnlia, analogo
-                                                 soclusa tamen                                                                                      operationeni                   ,    a       qua ipsa cssentia                             et potentia et opcratio                      crea-
+              monslratur, quod Angeli                                                  quodam inodo locaies sunt.                                                          improprie, dicitur templum Dei, non quod eo conti-
+                                                                                                                                                                           iieatur. Id autein nihil melius qiiani anima munda in-
 
-       niodo, sicui lu\                 csl in aerc; X implicat cmisalilatem, qua Deus                                                              turaruni intime                              dependet.                 Haec fiindamenla                             Conceduntur                 ab
-       immcdialc               iiporatiir «          per virlutis influcnliam » (ibid.)                                     «       ]iortans        omnibiis. Actionem in distans                                                ,
-                                                                                                                                                                                                                                      quam contra Scotum S. Thom.
-       omnia vcrbo                 virlulis          suae » (Ilebr.                     I,    .).).    ConsUit etiani, quod                         (loc. cit.          ad 3.) in nullo agente                                       adniittit,           etiam S. Bonav.(2. fun-
-       simplicissima Doi ossontia simul cst                                              eiiis        potcntia ct operalio.                         dam.          et     solul. ad 4.) ncgat. Infra a. 3. q.                                                   2.    ctiam asseril, quod
-                  II.    Attanioii      do      ralioiic iiropria                        ct formtili              ubiquitatis             Dei       " praesentialiter                            principaliter                       non        respondet               operationi;            nam
-       est controvcrsia inlor Scoluni ciusque                                                scholum cl scliolani S. Tho-                           praesens est aliquis alieubi, etiamsi non operetur ».                                                                    — iNotandum
-       mae.        Nam S. Thoin. iS.                          I.       q.    8.    a.    I.    cl      alibi)       cx     pracsenlia               est      id     quod in solut. ad                                  4    dicitur                de     Irlplici       diflijrentia      inter
+                                                                           Gap. IX.                                                                                        lelligitur».              —
+                                                                                                                                                                                           Ecce hic dicil, Deum non esse in loco.
+                                                                                                                                                                           Sed intelligendum esl euni non esse in loco localiter,
+                                                                                                                                                                                                                       ,
 
-       Dci pcT           oiirniliitiiciii            coiiiliiiiil             ciiisdcm praesentiani pcr essen-                                      agens creatum et increatum, scil. quod ngens creatum habet csse
-       tinni.       Oiniics riiiMrdiiiii. Iuuk-                              argumcntationem csse veram                                   ,    si   limitatum, unde praescns esse.non potcsl nisi uni loco                                        — quod
-       est    «     iiosti-iiiin. iiini              cssoiiiia,              ]iotentia ot operatio in                      Dco in re                virtus eius differt ab ipso                                        — quod agat ex suppositione non                                    et
 
-       minimo ab inviccm scparari vcl                                             distingui possint; si vero intel-                                 in       totum, Id est supponendo materiam, circa                                                                   quam agit; unde
-       ligiliir         a priori ,       ita     ut ipsa ratio                          opei-andi           sit     ratio       formalis            etiam effectus dependet ab ipso in                                                          fieri ,         non     in   esse.
 
-       divinac ubiquitatis, Scotus (hic q. unica, et                                                    II.   Sent. d. 2. q. i.)                              111.      Alex. Hal., S. p.                             1.    q.       9.       m.     3.   —         Scot.,   de hac et seq.
-       conliadioii             asscrcns,             qmd           ,    si   per impossibile Deus non ope-                                          q.       hic q. unica                   ;    Report. hic q.                       1.      2.   —       S.       Thom., hic q. 1. a.
-       raretiir          iii   aliqna lo,             lanien ibi esset,                         et     e contrario              ,
-                                                                                                                                     si   non       I    ;   S.    I.    q.        8.       a.    1   ;    S. c. Genl.                 III.     c.      68.     —     B. Albert., de hac
+                                   Quod JJeus esl ubif/ue sine locaii molu.                                                                                                scilicet quia nec circumscriptionem nec localem mo-
 
-       esset       iii   .iliquc      liini,     tamen possct ibi operari,                                        .scil.   in       distans.        et seq.             q.    hic a.              I.       2.    3.    7.   —         Petr. a             Tar., hic q. 1.            a.    1.       —
-       Dc liar (nniiovorsia ch'. Caietanus ad locum                                                     cil. ;     Rada controv.
-                                                                                                                            ,                       Richard. a Med., hic a.                                      I.   q. 1.  —                ^Egid. K., hic l.princ. q.                       I.   2.
+                                                                                                                                                                           liiin    habet.
+                          Faleamur ilaqiio. (livinam natiiram pro immensi-                                                                                                          Ad hoc                 auteni   solet         opponi     sic :        Quotidie    fiuiit opponii
 
-       2S;        .Maccdo,          coll.       9.       dilT.         3.    aliique ])lurimi. S. Bonav. a di-                                      — Durand.,                         hic p.             I.    q.    1.    — Dionys.                     Carth., de hac et                    seq.
-       versis trahitur ad                    ulramque partem                             ;     ipse     autem praesentiam                           q.       hic q.           1.       —        Biel,          de hac        et       duabus seqq. qq. hic q.                             unica.
-       Dei utroque               modo probat, scil. a priori quidem per                                                     :
+              tate sui       nusquam doosse, oani(|iii' solam omnino illo-                                                                                                 crealurae, quae                     aiite       non     erant, et in eis Deus est,
+              calein et incircumsciiplibilein luillo cnncludi loco, sed                                                                                                    ciim anle non esset in eis: est ergo ubi ante non erat,
+                    finc usqiie                 ad jiiwin                  alliiu/ere ',                       non tamen spatiosa                                          ideoque miitabilis videtur.                             — Sed      licet       quotidie inci- ''«*p™
+              inagniludlne nec                             locali                  niotii,                 sed imineiisitnte alquc                                         |)iat    esse iii creaturis, in quibus anle non erat, quia illae
+              iniinobililale                    suao cssontiae. Unde                                           Aiigiisliniis                            ad Dar-            noii erant;               hoc tamen             fit   sine sui inutatione,           qualiter
+
+Augustinus.   danum ^ ait: « Non quasi spaliosa magnitudine opine-                                                                                                         in     mundo coepit esse, quem fecit, tamen sine sui mu-
+              mur Denni per cuncta dilTundi sicnl humiis aut Iiix                                      ,                                                                   tabilitate; similiter et desinil esse, in quibus ante eral.
+
+              ista dilTuiHlitur, sed                             potius sicut in duobus sapientibus,                                                                       sine sui mutatione, nec tainen ipse deserit                                       locum,sed
+              quorum alter altero corpore grandior est, sed sapien-                                                                                                        locus desinit esse.
+              tior non est,             una sapientia est, nec est in maiore maior,                                                                                            lam sufficienter demonstratum videtur, quoniodo Kpiioe
+              nec         in       miiiore niinor, nec minor in uno quam in                                                                                                omnia dlcantur esse in Deo, et Deus in omnibus; quam
+              duobus;                   ita    Deus, sine labore regens et continens mun-                                                                                  disceptalionem                    quasi         incidenter       suscepimus, quia             id
+
+              dum         ,    in       caelo totus esl                        ,       in    terra totus , et in utroque                                                   videbatur poslulare res                          ,    circa   quam noster versabalur
+               totus,              el     nullo conlentus loco, sed in se ipso ubique                                                                                      sermo. Disserebamus enim  de scientia sive sapientia
+     idem. totus».                  Idem quoque super Psalmum                                                           ^*
+                                                                                                                              ait :                «   Ad Ver-             Dei, et cum diceremus', Deum scire omnia, quaesitura
+               bum Dei pertinet non esse In parle, sed nbique                                                                                                esse          esl, ulruin propter cognitionem, quam de omnibus
+              per se ipsum. Haec      enim sapienlia Dei, quae al-est                                                                                                      habet, dicerentur omnia esse in Deo, an alia ratione
+
+              lingit a fine mque ad finem forliler, non tamen motu                                                                                                         hoc diceret Scriptura. Huius ergo quaestiouis occasio
+              locali, sed immobililate sui: veluli si moles aliqua                                                                                                         in praemissam nos dediixit dispulationem.
+
+
+
+
+                          '
+                              Cap.        I.    Haec verba (cum paucis lectionibus varianlibus)                                                                             originali, in            quo    icgitur:       sicut liunius, aut liumor, aut aer, aut
+
+               Beda sumsit ex                       S.     Gregorio                ,   Homil. 34.                  in        Evang.                                         lux ista dilTunditur.
+                          -    Vel potius             I.    de Spiritu sancto ,                              c.     1 0.      n.          115,           et c.   1   1              5   Enarrat. in Psalni.                147. n. 22, ,sed multa a Magislro             liic
+
+
+               n.     1       6.   — Locus Scripturac      s.                                    cst       Isai.    6,        6       :   et           volavit       ad     et in       praecedente loco oniissa sunt.
+               me etc.             —      Ambrosii codd. A B C
+                                         In textu                                                                  ter liabent Serapli                           pro                "   Codd.         .\   B C E praecidere.
+               Seraphim. In                    fine capitiili Vat.                          cum             plurimis                  edd.             ostenditur                   ~
+                                                                                                                                                                                      Quacst. 20.             —
+                                                                                                                                                                                                      Vat. cum paucis edd. Quod enim alicwbi
+
+               prn monstratur.                                                                                                                                              pro     Quod alicubi. Circa finem textus post locm non est omnes
+                          3    Respicitur Sap.                   8,   1                                                                                                     edd., excepta Vat., addunt nec                          in loco est, scd         rcfragantibus
+                          *    Epist.          187.      c. i. n.          II.         —     In    quo textu Vat.                                                           codd, ct originali.
+               fumus loco limmts,                               i-erraganlibus omnibiis codd.                                                                                       8   Codd.         .\   D ct edd. 2, 3, 7, 8, 9 doceremus.
+
+                                                                                                      :
+
+
+
+
+                                                                DIST. XXXVII.                    P.       I.   DIVISIO TEXTUS.                                                                637
+
+
+
+
+                                 C0MMENTARIU8 IN DISTINCTIONEM XXXVII.
+
+                                                                                                 Pabs          I.
+
+
+
+
+                                                 Quomodo Deus                       sit    in    rebus          et    in    locis   corporaiibus.
+
+
+
+                           Et     quoniam demonstralum est ex parte, quomodo omnia dicantur esse in Deo.
+
+
+
+
+                                                                                          DIVISIO TEXTLIS.
+
+
+
+        Supra              egit    Mcagister,          quoraodo omnia sunt                       in                Quomodo autem Deus habitat. Haec est se-
+Deo. Hic secundo                      agit,      quomodo Deus sit in                        rebus              cunda particula, in qua excitat ad dictorura intel-
+et in locis corporaiibus.                         Et quoniam ad esse in loco                                   ligentiam , et liabet haec pars tres partes. In priina
+et in       re        mutabili            sequitur       mutalio          in       eo quod in                  rationabiliter manuducit.               In     secunda stultam                ratio-
+illo   est, ideo agit secundo' de                              Dei        immutabililate                       nem excludit,         ibi:      Sciendum             est      etiam, quia , ut
+in ioco, infra distinctione                           eadem    ultra       medium, ibi:                        ait    Augustinus.         In    tertia       in     adrairationem erigit,
+Cumque divina natura elc. Prima pars habet tres                                                                ibi:   Iltud     quoque         mirabile           est.       Sacramenta enim
+         prima narrat, quomodo Deus est in
+partes. In                                                                                                     divina raagis sunl admirabilia quam intelligibilia.
+locis et in rebus,                    et    per       auctoritates         confirmat. In                              Ex praedictis patet, quod Deus ubique totus.
+secunda           nititur          diclorum aperire intelligentiam, ibi                                        Haec est tertia pars,             in    qua ostendit insufficientiam
+Quoniodo                   autem Deus habitat                    in       bonis           etc.   In            ad cognoscendum            ,
+                                                                                                                                               quomodo Deus                   est    ubique    per
+terlia ostendit intellectus nostri                             ad     hoc capiendum                            essentiam ; et        haec       pars        habet           tres partes secun-
+insufficientiara,                 ibi :    Ex praediciis patet, quod Deus                                      dum tria capitula. Primo enim ostendit, quod intel-
+ubique totus                 est.                                                                              iectus nostri        non       sufficiunt.         Secundo excludit eos
+            Prima pars tres habet secundum tria capitula!                                                      qui praesuratuose solvunt                ,   ibi :    Quidam tamen, im-
+In     prima ostendit modos essendi   Deum in rebus. In                                                        mensa ingenio suo metiri                      etc.           Tertio vero abiicit
+secunda vero                      confirraat          auctoritatibus           ,
+                                                                                   quod Deus                   eos qui       irrationabihter          quaerunt,               ibi:   Solet etiam
+est    ubique per essentiam, ibi: Ne aiUem ista, quia                                                          ab eisdem        quaeri, quomodo Deus etc:                             ul)i   osten-
+capacitatem,                 humanae             intelliijentiae          etc.       In     tertia             dit,   quaestionem eorum esse frivolam et responsione
+ostendit,             quod Deus             in    solis Sanctis habitat per gra-                               indignam.
+tiam.        il:)i:        in Sanctis vero habitat, in quibus etc.
+
+
+
+
+                                                                               TRACTATIO QUAESTIONUM.
+
+
+
+
+            Ad        intelligentiam              huius       partis       quaeritur             de                    Tertio, qualiter conveniat Deo esse ubique.
+existentia Dei ubique; et circa hoc tria principahter                                                                  Et   quantum ad primnm, quia esse ubique po-
 
 ## English
 

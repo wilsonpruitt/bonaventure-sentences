@@ -7,179 +7,205 @@ pars: 1
 articulus: 3
 quaestio: 1
 type: quaestio
-line_start: 22752
+title_la: "Pars I, Articulus III, Quaestio I — Utrum Deus aequaliter sit in omnibus rebus"
+title_en: "Pars I, Article III, Question I — Whether God is in all things equally"
+printed_pages: [646, 647]
+pdf_pages: [236, 237]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 646–647"
+line_start: 22735
 line_end: 22917
-word_count_latin: 1389
-transcription_status: "auto-chunked 2026-05-01"
+word_count_latin: 1540
+transcription_status: "auto-chunked 2026-05-07 (rebuild — TRUE multi-pars; auto-chunker had scrambled chunks across partes + bogus p3-dubia/p4-dubia; printed_pages rough — agents tighten during translation)"
 format_version: 1
 ---
 
-# bon-sent-I-d37-a3-q1
+# bon-sent-I-d37-p1-a3-q1
 
 ## Latin
 
-QUAESTIO I.
-
-                                                                 Utnmi Deus aequaliter sil in omnibus rebus.
-
-
-                      Quod antem sit uniformiter, videtur:                                                       '
-
-
-                                                                                                                                 Sed coNTnA:          1.    « Orane           quod recipitur in aliquo. ^pio^f
-                      1.    Quia, sicut dicit Philosophus ', « prima causa                                       i
-                                                                                                                     est ibi per           modum recipientis, et non recepti                                  ^
-                                                                                                                                                                                                                  » ;     sed
-Argg.   prounomodo se habet ad omnia, Mcet omnia non ha-                                                             creaturae non sunt aequaliter capaces Dei: ergo non
-                                                                                                                 I
-
-
-
-
-Siva!' ''beant se uno modo ad ipsam »   sed omnia in Deo               ;                                         !
-                                                                                                                     est aequaliter in eis Deus.
-
-          sunt uniformiter.                 qnia sunt vita                   et     creatrix essen-                      2. [tem, sicut se habet intellectus ad primam
-                                                                                                                 j
+               Respondeo: Dicendum, quod esse ubique, acut                                                            rituales per                    abstractionem , ut universale                           et   nume-
+    dicunt Sancti              ,     convenit               soli   Deo proprie et singula-                            rus; et              ista       possunt esse in pluribus propter                              com-
+    riter,       ita    quod             nulli convenit alii,                   nec     intelligi     po-              muuitatem ad plura,                                 et ita secundum               sui plurifica-
+.   test convenire,                  si   recte intelligatur.                  — Nam Deus            dici-            tionem.              Quaedam spirituales sunt per separationem
+    lur esse ubique, ita                              quod ex parte Dei intelligilnr ^                                a materia corporali, ut animae; et istae sunt in
+    idenlitas           et     toialitas,               ex parte loci pluralitas et                                   pluribus, tamen non multiplicatis. Quaedam autem
+    universalitas. Per conditionem identitalis excluditur                                                             spirituales per unionem , ut corpus Christi est cibus
+    universale, quod quamvis                                     sit    in   omnibus singulari-                       spiritualis naturae", quamvis sit verum corpus, et
+    bus, tamen secundum aliud et aliud suppositum, et                                                                 ideo quasi est             medium inter animam et Deum, et
+    ita    numeratum. Per conditionem                                         lotalitatis excludi-                    ideo in              quantum cibus plus sapit naturam spiritua-
+    tur    numerus;                  nam quamvis numerus                                sit   ubique,                 litatis;           et ideo est in pluribus, ut                              sunt plura loca,
+    tamen secundum aliam                                    et   aliam partem. Per condi-                             non tamen                   in   omnibus, quia ratio cibationis non se
+    tionem pluralitatis a parte                                    loci      excluditur spiritus                      extendit ad omnia. Et sic                                     patet,       quare sub Sacra-
+    creatus, qui quamvis                              sit   in pluribus partibus corpo-                               mentn              est in        pluribus.
+    ris,       non tamen''                in omnibus nisi ut unitis.                          Per con-                             5.    Quod obiicitur de inseparabiliter unitis, sol-
+    ditionem universalitatis                                  excluditur          corpus Christi                      vendum                    est    per . interemptionera '                    ,    cuni    alterum         ,
 
 
 
 
-          tia:    ergo multo fortius Deus in omnibus                                            rebus esl        j
-                                                                                                                     lucem, sic ens ad primam essentiam     et vivens ad                        ,
-
-
-
-          aequahter             et uniformiter.                                                                  I   primam vitam''; sed maior intelleclus magis parti-
-                      2.    Item, quod est ubique totum est aequaliter                                               cipat divinam hicem: ergo                                perfectius ens , et perfe-
-          et uniformiter ' ;              sed      cum Deus                sit      simplicissimus.              I
-                                                                                                                     ctius vivens              divinam essentiara et vitam                             :    ergo Deus
-          est    ubique totus: ergo aequaliter                               el uniformiter est
-                                                                                                                 j
-                                                                                                                     perfectius est in                uno quam                in     alio.
-
-          in     omnibus rebus.                                                                                                  3.   Item, existentia                  Dei in rehus                est conserva-
-
-                      3.    Itera,    unicuique rei intima est materia et for-                                   I
-                                                                                                                     tio    rerum': sed non omnes                                res aeciualiler                  conser-
-          nia: sed            forma non           unitur materiae                        nisi    mediante        i
-                                                                                                                     vantur: ergo non est aequaliler                                    in   oranibns.
-          appetitu, appetitus               autem ortum habet ab essentia^;                                                      4.   Iteni,    cura Deus               sit    ubique,          solum dicitur
-          sed hoc non posset nisi                       per Dei praesentiam: ergo                                i
-                                                                                                                     habitare in              iustis;      sed hoc non esset,                       si      aequaliter
-          Deus magis                est   intimus omni rei                   quam sua forma.                     ,
-                                                                                                                     ct     iiniformiter esset in                      omnibns: ergo etc.
-          Sed         forma unicuique               rei    est    summe intima:                       ergo
-          Deus         in    terraino intiraus est cuilibet. Sed quod habet                                                                                CONCLUSIO.
-          esse in terraino est uniformiter: ergo etc.
-                      4.    Itera,    hoc ostenditur per impossibile:                                (juia.           Deus unifonniter est in rebus, quatenus non con-
-          si     Deus         noii    est aequaliter            in         rebus,           ergo    cum''                 nota/ni- elfrcius: seil quatenus uni creaturae
-          magis intime                est in    una quam               in alia,            ergo in        ali-            Deus (lii/ ji/iis ijiiam alii, magis dieitur esse
-          qua non             est    summe intime:               ergo aliquid est                    in    re                    in     unu qiiam           iii       alia.
-
-          intrinsecura, in                quo non         est    Deus:              ergo Deus non
-          est intimura quod est.                   Sed hoc est impossibile: ergo                                                 Respondeo:           .\d       praedictornm intelligentiam                                est Disiini
-
-          et    primura.                                                                                             notandura, quod                   Deum esse in ;«&».« diipliciter po-
-
-
-
-                  '    Philosophus hic intelligitur auctor                       libri     de Causis, qui                    *   In     pluribus codd.ut H P Q V desideralur cum. Paulo
-
-          prop. 24.          ait:   Causa prima existit in omnibus i'ebus secundum                                   inferius pro         intimum Vat. cum nonnullis mss. in omni, cod. T
-          unam disposilionem, sed res omnes non e.\istunl in causa prima                                              a    secunda       manu intimum omni.
-          secundum unam dispositionem.                     —
-                                           Do minori huius argumenti                                                         5   Libr.    de Causis, prop. 10. 20. seqq.                       Cfi-.       eliam Boelh.,
-          vide supra          d.    36. a. 2. q.   I.                                                                V. de Consol, prosa              4.
-
-                  -   Cod.     T in niarg. non incongruo addit m omnibus.                                                    "   Cfr. liber     de Causis         ,
-                                                                                                                                                                      prop.    18.   seqq.    — Immediate                 post
-                 3    Quid sibi velit haec         sentenlia, explicat Ale,xander Hal., ut                            pro maior intellectus codd.M P Q juagis inteUigem et cod.
-          invenies infra in Scholio huic quaestioni ndiuncto.                                   — Mox post            T cum aliquibus aliis magis intellectus. In initio argumenli
-          possel codd.               V inserunt    esse.   In     flne       argumenti           auctoritate         pro     sicut se         habet intetlectus codd. P Q sicut se habet                                 intel-
-
-          plurimorum codd. posuimus iii termino intimus est, et deinde                                                Kgens.
-          in termino i. e. summe sive quantum po.ssibile est, pro quo                                                        '   Cfr. hic a,     I.   q,   I.    seq,   — Voci        exislentia in initio huius
-
-          Vat. intimior intimo est intimus , et deinde                               iii    intimo pro in            propos, codd.            ADZ aa        ff    et    plures       alii    praeligunt           ex ,    qua
-          termino. Cod.             T primo loco        intimior           est    iniimo , et cod.         W         parlicula addita propositiunis scntenlia clare apparot.
-
-          summe et in termino est intimus.
-                                                                                                                ;
+    sub Sacramento quod quamvis sit in pluribus, non
+                                     ,                                                                                excedit alterum , ut patet in genere et specie. Quod
+    tamen est in omnibus nec esse potest, quia hoc                                                                    obiicitur, per unionem homo est Deus; dicendum,
+    solum convenit ei sub Sacramento.                                                                                 quod hoc intelligitur per communicationem idioma-
+         1. 2. 3. Et ita patent primae instantiae. Quod                                                               tum; similiter et esse ubique convenit per idioma-
+    laraen obiicitur de voce, intelligendum,                                            quod gene-                    tum communicationem.
 
 
 
 
-                                                                         DIST. XXXVII.               P.    I.       ART.    III.        QUAEST.               II.                                                                                6/./
+           '   Dist.   8.    p.    II.    q.     3.   — Poulo          post pro   qmsi cod. T cum                     sed     in     Cjennadii libro                 de Ecclesiasticis Dogmatibus (qui olim
+    aliquibus       aliis    codd.        iit,     ct in fine      argumenti pro suum cod. K                          nomini .\ugustini addicebatur)                           c.    H. sic legitur: Nihil ineorpo-
+    (ininuie.                                                                                                         reum et invisibile natura credendum,                              nisi solum Deum Palrem
+           '   Supple       cum Vat. est.                                                                             et   Filium          et   Spiritum         sanctum; qui             ex eo       incorporeus credi-
+           3   Cod. Z intelligatur , cod.                        W addit       esse.                                  tur, quia            ubique      est et        omnia implet et constringit.
+           ^   Cod.    T .subiicit est.                                                                                       "    Val.      cum cod. cc animae.
+           ^    Verba       citata       in libro      de Moribus Ecclesiae noii babentur,                                    '    Cl'r.    supra pag. R7, nota                 4.
 
-
-                     uno modo, ut idem sit quod esse
-       test intelligi:                                                                                                 parte divini esse,verum est; si autem intelligatur
-       praesentem cuilibet rei non connotando effectum
-                                                     ,                                                                ex parle effectus, falsum est. Quoniam Deus unifor-
-       et sic uniformiter est in omnibus rebus, eo quod                                                                miter et stabiliter existens, celera movet^                                                                    et        mul-
-       intimus est cuilibet rei et                                summe praesens et totus                             tos et varios effectus producit, et efliciendo diversa
-
-       in qualibet re.              Alio modo potest connotare effectum,                                               in rebus facit, quod res                                   non se habeant uniformiter
-       sicut artifex dicitur in artificio esse per connotatio-                                                        ad ipsum. Quoniam igitur,                                                cum dicitur Deus esse
-       nem effectus et per impressionem suae similitudinis;                                                           in rebus, uno modo connotatur effectus,                                              alio modo
-
-       et sic, cum uni creaturae plus det quam alii, magis                                                            non; ideo uno modo conceditnr, quod sit uniformi-
-       est in        una quara             in      alia.      —        Et hoc potest            esse      tri-        ter, alio                modo quod non. Similiter e converso, cum
-       pliciter': vel extensive,                         quantum ad ea quae habent                                     dicitur,               quod omnia sunt in Deo, uno modo potest
-       esse diuturnius, ut in                            corpore            incorruptibili             plus            connotari effectus, sicut patet in praedestinatione et
-       quam in anima sensibili                           ;    vel intensive,              quantum ad                   reprobatione, et                        sic        non         est uniformiter; alio                                  modo
-       ea  quae habent esse nobilius, ut in anima sensi-                                                               non connotatur effectus,                                       et sic uniformiter.
-
-       bili' quam in corpore incorruptibili; vel utroque                                                                   Quod obiicitur iterum ad oppositum quod omne                                                 ,
-
-
-
-       modo, ut in aninia rationali quam in corpore                                                       cor-         quod recipitur, est per modum recipientis; dicen-E
-       ruptibili.                                                                                                      dum, quod verum est, ubi receptum dependet a
-               His visis            patent          obiecta             ad utramque partem.                            recipiente,                    ut      species^                a       virtute cognoscente;                                    in
-
-       Procedunt enim his duabus                                       viis, ut patet, exceptis                        proposito                    autem non sic est. Unde divina essentia,
-       duobus primis ad utramque partem.                                                                               existens in re, non accipit                                            modum rei; et sic patet
-               Quod enim                  obiicitur,              quod Deus uniformiter se                             illud.
-
-       habet ad omnes res ;                         si       intelligatur           uniformitas ex
-'ar-
+                                :                                                                                                               ,;
 
 
 
 
-                                                                                                     8GH0LI0K
+                                                                                                                                    SENTENTIAKUM MB.                           I.
 
-              I.    Haec quaeslio          ,   a paucis ontiquis explicile traclata ,                     viam         torem ad motuni. Ex quo patet                                      ,   ipsum esse principium motus
-       sternit acl sequentem quaest. enodandam.                            —   in arg.     3.   inter fun-             intrinsecum universale ». Pergit                                       explicans            differentias                 appeti-
 
-       dam.        dillicilis    locus:rorma non unitur materiae nisi mediante
-                                           «                                                                           tuum et eorum in quibus est appetitus                                             ,    secundum quod magis
-       appetitu       ;   appelitus autem ortum liabei ab essentiaji, profunde                                         vel     minus habent vel de forma vel                                             de materia. lllud autcm
-       ab Alex. Hal., S. p. II. q. 86. m. 2. a. 2. § L explicatur: In omni                      <i                     principium intrinsecum motus et vitae minime excludit influxum
-       motu sive ad formam sive ad situm primum principium motus                                                       primae causae, immo eum postulat, ut ibid. a.                                                        1.    §    1.       proba-
-       intnnsecum           est appelilus.          Hic etenim est tIs a Creatore omni-                                tur.    — Ex hoc Alexandri                           loco patet,              errare          Trigosum (Sum.
-       bus indita creaturis, per quam ad sui complementum ordinan-                                                     q.    6.       a.     5.),    qui, nullo codice vel                        editione suffragante,                         textum
-       tur et in suo compleniento stant et radicantur. Nec solum sic est                                               mutavit ponendo ortum liabet ab esse pro ortum habet ab es-
-       in   creaturis , sed ctiam in creaturarum essentialibus principiis,                                             sentia, hacinnixus ratione, quod scil. antiqua lectio nullumsen-
-       quae sunt materia et forma, actus et potentia. Neque enim materia                                               sum haberct.
-       se ipsa movetur ad formam quia cum nullam determinet, non
-                                                     ,
-                                                                   ,                                                       Quod anima sensibilis perfectius habeat essc quam corpus
-       magis moveretur ad hanc quam ad illam      neque forma se                ;                                      incorruplibile, magis explanatur III. Sent. d. 21. a. 2. q. 2. ad 3.
 
-       ipsam facit in materia sed per appetiium insitum utraque ad
-                                               ;                                                                       (cfr.      S.       Thom.,        S.   I.    q.    70.    a.    3.     ad     2.).
 
-       invicem ordinantur                 et   per appetitum huiusmodi inseparabiliter                                            II.      Quoad ipsam qiiaestionem                           ;    Alex. Hal., S.                p.    1.       q.    10.
+                                                                                                                                       SCHOLIOK
 
-       coniunguntur.             Ncc solum           ap))etitus          rem compleiam               in    esse        m. S.          —      Scot.,      de hac          et seq. q.           Rcport. hic q. 2.         —             B. Albert.,
+                       I.       QiKUiioi- coiKiilioiics,                             qiiiie     soli    ili\iiiai'     ubiiiiiiUili coiivo-                     II.      .-\lex.     Hal., S. p.        1.   q. 9. ni. o,          —        S.   Thom., hic q. 2. a. 2;
+             niunt, ex ipsa eniinentia (li\in.io pei-fcctionis resultanl, et facile                                                                  S.    1.       q.    8.    a.    4;    Quodlib.           II.    q.       I.      a.        I.   —     B.     Albert., hic
 
-       sequitur, sed in ipsis  rerum principiis essentialibus radicatur                                                hic     a.       6.    —      Petr. a        Tar., hic q.              I.    a.       2.   — Richard.                a    Med.,
-       et fundatui-. Et sicut est in motu ad formani    sic cst in omni              ,                                 hic     a.       1.    q.    2.   — Durand., de hac                         ct seq.         q.   hic       p.    I.       q.    1.
+             intelligunlur per argunicntii iid oppositn.                                                     — Verbn           in solut.   ad 2:     a.   8; S. p.              I.   tr.   13. q. 55. a. 3. q. incident.                              —    Petr. a Tar., hic
 
-       molu non violcnto; in omni enim motu appetitus excitat mo-                                                      — Dionys.                    Carth., hic q.          2.    circa nied.
+              « quot                sunl aurcs,                  tol      sunl        voces», intcliigcndac sunt de .«pc-                            q.    2.       a.    2.   — Richard. Med.,    a                 hic a.            1.    q. 3.     —     .Egid. U.,            hic
+
+              ciebus in medio ct in organo rccc|jiis, non de ipsa voce.                                                                      Ea-     2.   princ. q. 2.            — Durand., dc hac                            et scq.                q.   hic    p.    I.   q.     2.
+
+             deni fere                    sokitio        quaestionis                       ct   obicclionum                invcnitur       apiid     — Dionys.                 Carth., hic q. 2.
+
+             Alcxandruni                       llal.,    S.          Thomam            ,    Richardnm              a Med. aliosqiic.
+
+
+
+
+                                                                                                                                         QUAESTIO [I.
+
+
+                                                                                                      Ulrum          esse ubique                ah aelemo Deo coiweniat.
+
+
+
+                           Seciindo quaeritur                                    ,         utriim esse ubi.que                         conve-        Dei praesentia:                             ergo videtur,                         quod secundum hoc
+             niat          Deo seinper                               sive aeternaliter.                            Et t|uod           sic, vi-       non            significelur mutatio in connotato, sed sohiin in
+
+             detnr                                                                                                                                   ipso Deo:                       restat ergo               per impossibile, quod Deus
+                            1.           Quia,          sicut              semper                 se         liabet         ad lempus,               est        ubique aeternaliter.
+  Argg.proita       ubique ad locuni; sed ante omiie tempns Deus                                                                                                    CoNTRA            :     1.    Ubique praesupponit ubi,                                              et     uhi       Pfo.pa
+
+taativa."   'fuit semper :    ergo ante oinnein locum Deiis fuit                                                                                     praesupponit locum; et locum non est ponere                                                                              nisi
+
+             ubique.                                                                                                                                 ex tempore:                           ergo        et    Deum             esse               ubique,               non        est
+
+                            2.           Itein,       proprium Dei                              essentialius                   ei    convenit        ponere                nisi       ex tempore.
+             quam                    propria                 passioalicui subiecto;                                        sed       propter                        2.     Item       ,    bene sequitur                  :    Deus est ubique                          ,     ergo
+             necessariani                          convenientiam                                passionis             ad subieclum                   est in              caelo, ergo destructo conseqnente , destruitur
+
+             distributio                       suppositorum includit dislributionem tem-                                                             et     antecedens;                          sed         ab aeterno non                                fuit in          caelo:
+
+             porum'                      —     uiide             o       dici    de omni est, quod noii est in                                       ergo             etc.
+
+             quodam                       sic,          in       quodam non, nec aliquando                                                  sic.                    3.     Item       ,    bene sequitur                  :    Dens                   est ubique ,            ergo
+             aliquando non »                                 ,       sed        in     quolibet et seinper                           — ergo          in     ista               doino ;           sed         isla    domus non                              fuit       nisi        ex
+                     hoc quod est ubique includit sempiternita-
+             similiter                                                                                                                               tempnre                   et         post     initinm             temporis:                           ergo        et     esse
+             tem: ergo esse ubique semper convenit Deo, ergo                                                                                         ubiqne.
+             ab aelerno.
+                            3.  suiit iii Deo, et Deus in rebus
+                                         Item, res                                                                                                                                                     C      N C LU s         I   0.
+
+             sed res sunt     Deo ab aeterno: ergo a relativis
+                                                    in
+
+             cum dicantiir hai^c ad convertentiam     Deus est in                                                    -',                             Esse ubique                           convenit Deo                       ab       initio              rerum et                lo-
+
+             rebus ab aelerno, sed non nisi                                                            iii    omnibiis: ergo etc.                                   corum , qui connotantur , rion                                                          aeternaliter             ,
+
+
+
+             Si dicas , qnod                                     iioii      dicinitur                  correlative:                  contra:                        nisi per esse ubique intelligatur                                                       praesentiali-
+             cum                dicitur:                 Deus              est             in   rebus. non                     significatur                         tas divinae immensitatis.
+             respectus nec dependentia Dei ad res, sed reium ad
+             Deuin: ergo                           nihil aliud                         est dicere,                   Deuni            esse in                       Respondeo: Dicendum                               ,
+                                                                                                                                                                                                                              quod esse uhique dupli- Disiim
+             rebus,                      quam res esse in Deo.                                                                                       citer            potest              accipi de             Deo,               sicut et                 esse seniper.
+
+                           4.            Item,          si       Deus non                       fuit        ubique ab aeteino.                       Uno enini modo semper                                           iniportat                    divinam              immev-
+             et   fuit,                  ergo fuit alibi                             quam uhique;                          et       modo     esl     sitatem secundum durationem , el sic idem est quod
+             ubique:                       ergo          mutavit locum,                                     ergo      in        Deo        cadit     aelernitas, et convenit                                   Deo aeternaliter;                                 alio        modo
+             nnUalio. Sed hoc falsum: ergo et primum. Si lu dicaf,                                                                                   connotat simultaiem temporis, et sic convenit                                                                            ei    a
+
+             quod mutalio est in connotato; co(U/-a: cuin ilicitur:                                                                                  princijiio                     temporis. Sic               esse          ubique uno modo im-
+             Deus est iii loco non notalnr ^ effectus sed soiiim ,                                                         ,                         portat                praesentialitatem                        divinae                      iinraensitatis,               per
+
+
+
+
+                       '    Sensus               est:     sed propria passio                            rei       creatae non convenit               relativis significatur                      modus argiimentandi, qui nititur                                       in    habi-
+
+             tantum                  om,ni        et soli            ,   sed etiam semper. Cfr. supra pag. 642,                                      tudine unius rclalivorum ad alterum                                           ,   et generaliter exprimitiir
+
+             nota          1.       Dc notione distribulionis vide supra pag. 99, Scholion,                                                          his propositionibus: posito unorelalivorum, ponitur et reliquum:
+
+             1.   n.        2.           — Veiba             ,
+                                                                     quae mox citantur                        ,   sunt         ex   Arislot.,   I.   remoto uno relativorum, removetur et reliquum.
+             Poster.                c.    i.   Cfr.     etiam V. Topic.                          c.    I.
+                                                                                                                                                                3     Cod. Z connotatm:
+                       -    Cfr. Aristot.,                       de Pracdicam.                   c.    rte    Helatione.         — Vorbis       (i
+
+                                                                                                                       —    ;,
+
+
+
+
+                                                                                         DIST.          XXXVd. P. I. ART. II. QUAEST.                                              II.
+
+
+
+
+             quani est praesens omni ei quod esl, sivesibi, sive                                                                 cipio.                Unde haec: Deus                                     est in                   rebus,                     non           est con-
+
+ ^           alii ;         el       sic       idem         est      Deum esse ubique quod Deum                                  versa huius: res sunt in Deo,                                                                          sed haec:                        Deus est
+tdusioi.esse      immensum. Et sic convenit Deo aelernaliter                                                                     exemplar rerum,                                       et         utraqne                          est         vera aeternaliter.
+             et secundum hoc procedit prima ratio.                                                                               Et huius:                          Deus est in rebus conversa est:                       ,                                                  res con-
+                       modo, prout connotat locum creatum sive
+                           Alio                                                                                                  tinentur a                   Deo et conservantur ab ipso.
+jciusio 2.   rem ;              et   ei ah  initio rerum et loco-
+                                        tunc convenit                                                                                             4.       Ad illud quod obiicitur, quod si Deus non
+             rum propter connotatum, et convenit semper ; et                                                                     fuit             ubique, et                    modo est, ergo esl mutatus; dicen-
+             adhuc est proprium, quia convenit soli, et semper                                                                   dum              ,
+                                                                                                                                                        quod non sequitur                                   ,
+                                                                                                                                                                                                                        quia hoc non est propter
+             uno modo, licet non aeternaliter; sicut etiam in                                                                    mutationem Dei \
+             demonstrativis'. Et sic procedit secunda ratio. Et                                                                                   Quod obiicitur, quod ubique non connotat effe-
+             iste          modus accipiendi Deum esse ubique, est usita-                                                         ctum, sed solum praesentiam; dicendum, quod prae-
+             tior,          et secundum hunc modum non convenit ei ae-                                                           sentia                   importat habitudinem                                                 ad duo,                         scilicet              eius
+             ternaliter.                                                                                                         qui praesens est, et cni est praesens, et ideo potest
+                           3.    Quod vero                        obiicitur contra             hoc, quod             con-        esse inceptio ratione rei cui praesens est, non novi
+
+Ad argg. veniat aeternaliter per snam conversani;                                                         dicendum,              effectus.
+
+latlva.^     quod nonest sua conversa^                                           Cum enini dicitur, quod                                          Quod obiicitur ad oppositum                                                            ,
+                                                                                                                                                                                                                                             procedit secundum
+             res sunt in Deo, hoc inteUigitur ratione exemplari-                                                                 quod ubique comiotat locum creatum.
+             tatis, et nihil connotatur actu; sed cuni                                                  dicitur Deus                 Quod lamen ultimo obiicitur, non                                                                                          valet,               immo        Ads. pro
+                                                                                                                                                                                                                                                                                                   "^*""
+             esse           in       rebus,                connotatur             aliquid        creatnm.            Nam         est          ibi         fallacia accidentis, sicut hic:                                                                iste       triangulus Eva.'
+             nihil est in                      eo' qnod non
+                                                     Deus est in               esl:    ergo      si                              incipit                 habere            tres:             non ergo omnis triangulus .sem-
+             rebus et locis, res et loca sunt; non-ens lamen se-                                                                 per habuit Ires, quia non                                                              fil        distribulio                      pro parti-
+             cnnduni se bene est in exemplari tanquam in prin-                                                                   bus° ut nunc, sed                                           simpliciler.
+
 
 ## English
 

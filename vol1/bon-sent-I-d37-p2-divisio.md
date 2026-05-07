@@ -5,68 +5,99 @@ book: 1
 distinctio: 37
 pars: 2
 type: divisio
-line_start: 23309
-line_end: 23362
-word_count_latin: 424
-transcription_status: "auto-chunked 2026-05-01"
+title_la: "Pars II, divisio textus"
+title_en: "Pars II, division of the text"
+printed_pages: [651]
+pdf_pages: [241]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 651–651"
+line_start: 23292
+line_end: 23368
+word_count_latin: 647
+transcription_status: "auto-chunked 2026-05-07 (rebuild — TRUE multi-pars; auto-chunker had scrambled chunks across partes + bogus p3-dubia/p4-dubia; printed_pages rough — agents tighten during translation)"
 format_version: 1
 ---
 
-# bon-sent-I-d37-divisio-dup2
+# bon-sent-I-d37-p2-divisio
 
 ## Latin
 
-DIVISIO TEXTUS.
 
 
-
-                          Supra        ostendit Magister,                    qualiter    Deus          sit   in      omni natura creata                        ,    ibi :       SpitHtus vero crealus quo-
-                  locis et   rebus omnibus; et quoniam ad existentiam                                                dam modo etc. In tertia                                "
-                                                                                                                                                                                suam conclusionem infert,
-                  in loco sequitur circumscriptibilitas                              et localitas ' in               quod solus Spiritus increatus est incircumscriptus
-                  creatura locata, ideo intendit hic                               a Deo has condi-                  ibi: Sunt ergo spiritus creati etc.
-
-                  tiones removere. Et dividitur haec pars in duas.                                           In              Fateamur itaque etc. Haec est secunda pars,
-                  prima ostendit Deum incircumscriptibilem                                       et immu-           in     qua suam resnmit conclusionem, ut addat, et
-                  tabilem. In          secunda             vero concludil et per auctori-                           habet haec pars tres partes. In prima concludit prae-
-                  tates confirmat , ibi                :   Fateamur itaque, divinam na-                             determinata et auctoritatibus confirmat.                                             In     secunda
-                  luram etc.                                                                                        vero niovet dubitationem                                     et   solvit   illam,'ibi:              Ad
-                          Prima pars habet tres partes. In prima ostendit,                                          hoc autem solet opponi.                                     In tertia breviter epilogat
-                  quod immutabilitas et incircumscriptibilitas convenit                                             praedeterminata                      et ostendit rationera                      situs     praesen-
-                  Deo. In secunda               hoc removet a natura angelica                                et      tis    capituli, ibi:               lam sufficienter demonstratum est.
-
-
-
-                      '   Vers.    13.                                                                              tuale,      quia nec communicanl in materia nec dependent. Paulo
-                      -   Id est,      inlcctio    (.arnis      generat         infectionem      animae. Ue         inferius pro quia nec non pauci codd.                                 minus congrue qui nec,
-                  generatione aequivoca supra d.                  13.    dub.     8. dicitur :    «   quae est      et     subinde pro transmutabili codd.                            L     consimili.
-                  secundum putrefactionem ». Communis opinio illius aelatis ad-                                             ^   Ed.    I     videinr.      —       Cfr.     de hoc dubio B. Albert., hic a. 17,
-                  niittebat istam generationem quoad aliqua vivenlia imperfecta.                             —      et S.       Thom.,       hic q.       I.   a.     1.    ad S.
-                  Paulo   ante    pro     unimcam             multi     codd.     univocatam.          Verba,               =   Vat. locabilitas.
-                  quae mox sequuntui',            ei       secundum          rationem,   aequivocam          in             ^   Vat. ,      supra        posito        quatuor partes              pro   tres     partes
-                  pluribus codd. et ed.            1       male omittuntur.                                          suo nomine hic inserit: ponit opinionem quorundam qui dicunt,
-                      '   Cap.    4.   — Verba proxime subnexa                      a Vat. sic in peius             spiritus creatos                 non moveri loco,                 nec   essc    locales , ibi:      De
-                  niutata sunt : sordes corporales                iwn coinquinant corpus spiri-                      muiatione vero                  loci etc.      In quarta         suam etc.
-                                                                                                                                      ;,,                                                                                                                ;
+    ideo             dicilur                          esse potentialiter ,                                              praesentialiter                            et     nec iilud videtur conveniens, quia essentialiter con-
+    essentialiter ,                                   quia            secundum                                 praesentialitatis indi-                                    sistere                        non connotat genus                                 causalitatis.
+    stantiam, secunduni virtutis influentiam,                                                                                                   secundum                                       Ahqui           penes           irinitatem                         vestigii,                scilicet                mo-c
+    inlimitatis existentiara.                                                                                                                                             dum, speciem et ordinem; sed omnia haec praece-
+                    Et         sic           patet distinctio ,                                               sufpcientia et ordo                                         dit essentia                          secundum rationem                                    intelligendi.
 
 
 
 
-                                                                                                                    SENTENTIARUM LIB. l.
+                                                                                                                                                        SCHOLION.
+
+               I.    In        assignalione S. Augustini connotantui' diversi effectus                                                                                    operationem                         praesentialiter i>.                  Hic       modus             distinguendi                    placet
+    praesentiae divinae, et secundum hos distinguuntur tres gradus;                                                                                                       etiam Durando et ^Egidio R., sed non S. Bonaventurae.                              Ter-                                         —
+    unde sic Deus non est uniformiter                                                                         in       rebus             creatis        (cfr.       q.    lius modus est                       «t   penes genera causarum », id est secundum cau-
+    praeced.).                 — Triplex comparatio creaturae per modum sxeuntis,                                                                                         sam efficientem, exemplarem et finalem. Contra hanc arguit
+    redeuntis , pervenientis                                      ,   sub variis formulis familiaris                                                        est    Se-    Seraphicus, quod essentialiter non connotat genus aliquod cau-
+    rapliico, et                   sumta                est       ex Dionysio Areop. (de Div.                                                    Nom.         c.    i.    salitatis.                 —
+                                                                                                                                                                                      Quartus modus cst secundum distinctionem modi
+    %     i.        10.    1   4   ;       dc Caelest. Hier.                               c.       ! .).      — Verba                    in primo      mem-              (mensurae), speciei et ordinis (cfr. supra d.                                                         3.    p.        I.       q.    2    ,   et
+    bro divisionis posita:                                        « hi   (effectus)                       continentur sub                            modo na-             dub.                3.),       quae tria secundum Alex. Hal.                                   (S.    p.    I.    q.       18. m. 2.)
+    turae , extenso nomine », insinuant, quod natura hic                                                                                               in    sensu        in    hoc sensu sunt essentialia                                    ,
+                                                                                                                                                                                                                                                   quia referunt                rem ad suas cau-
+    largiore intelligitur, ut                                     comprehendat simul etiam gratias gra-                                                                   sas essentiales. « MOdus                                 enim           dicit      relationem ad                  Deum ut ad
+    tis    datas v. g. operationem miraculorum.                                                                              — Exemplum                       tripli-     efficientem, species ut ad formam [scil. exemplarem], ordo ut ad
+
+    eis lineae                 sumtum est ex Dionys.                                                (de Div. iNom.                             c. 4.    § 8.).     —      finema. Unde in hac sententia «ssentoftter responderet modo,
+    De circulo, qui est i figura simplicissima capacissima, pulcher-                                                    ,                                                 praesentialiier specieipotentialiier ordini. Sed S. Doctor hoc
+                                                                                                                                                                                                                           ,
 
 
-                                                                                                               TRACTATIO QUAESTIONUM.
+    rima »            (IV. Sent. d. 24. p.                                   I.    a.           I   .    q.        I   .),        quatenus repraesen-                     improbat his verbis ob brevitatem obscuris : « Sed omnia haec
+    tat    Christum                    ,   cfr.       III.    Sent. d.                 1   .   a.        2.    q.           1 .   — De         altero        exem-        praecedit            secundum rationem intelligendi ». Sensus
+                                                                                                                                                                                                           essentia
+
+    plo, sumto ex                            triplici             quantitate,                       cfr.       supra               d.     2.    q.     4.                 est   cum essentia rerum praecedat illas tres relationes se-
+                                                                                                                                                                                 :                                                                                                                              ,
 
 
-                       .\d    intelligentiain                           huius partis duo                            principali-                      (juantuni ad primuni arliculum quaeruntur Iria.
-         ter quaeruntur.                                                                                                                                Primo quaeritur, ulrum Deus sit                                        localis         intra
 
-                     Prinio quaeritur de                                  incircumscriptibilitate                                sive       locum.
-         illocalitate                Dei.                                                                                                            Secundo, utruni                       sit     mutabilis de loco ad locum.
-                     Secundo,                         de     mutatione spiritus                                angelici           per                   Tertio,         utrum         sit        separabilis           a     loco        sive      sit
+               II.    In       explicanda secunda assignatione,                                                                    quae fundatur                    in    queretur, quod respectu essentiae rerum non esset praesentia
+    verbis per errorem a Scholasticis S.                                                                      Gregorio                   attributis           (vide       Dei quod est falsissimum.
+                                                                                                                                                                                     ;                   S. Thom. (S. I. q. 8. a. 3.) cum—
+    |)ag.      632         col.            II,    nota 2.), antiqui magistri in diversas vias abeunt                                                                      multis sio distinguit « In omnibus est per potentiam in quan-
+                                                                                                                                                                                                                       :                                                                             ,
 
-          locum; haec enim duo prosequitur                                                             '
-                                                                                                           in littera.                      extra        omnem locum.
+
+    quac        ,
+                     quia vera in se dicunt                                        ,
+                                                                                           plus minusve probabilitatis ha-                                                tum omnia eius potestati subduntur est per praesentiam in                           ;
+
+
+
+    bent. Positio S. Bonaventurae profunda et plana est; ipsa distin-                                                                                                     omnibus in quantum omnia nuda sunt et aperta oculis eius
+                                                                                                                                                                                                     ,
+                                                                                                                                                                                                                                                                                                                         ;
+
+
+
+
+    ctionem horum modorum, ordinem eorum (quia sequens mo-                                                                                                                est in omnibus per essentiam, in quantum adest omnibus ut
+
+    dus per addiiionem quandam gradationem exprimit) et sufji-                                                                                                            causa essendi ».
+    cientiam praeclare explicat. Modus distinguendi, secundo loco        —                                                                                                                   III.   Praeter locos citatos: Alex. Hal., S. p.                                         I.    q.        10.      m.        2.
+
+    positus, est Alexandri Hal. (S. p. I. q. 10. m. 4.), qui dicit: « In                                                                                                  3.    4.            —      S.    Thom.,     hic q.            1.    a.       2.—          B. Albert., hic a.                        5.    10.
+
+    Deo sunt tria: essentia, virtus, operatio... per essentiam est in                                                                                                     —      Petr. a                   Tar., hic q.            1.    a.       3.    — Richard. Med.,         a                       hic       a. 1.
+
+    rebus essentialiter, per vii'tutem est in rebus potentialiter, per                                                                                                    q.     I       .    —          ,Egid. R., hic    1   .   princ. q. 2.           — Dionys.                  Carth., hic q.                     2.
+
+
+
+
+                                                                                                                              DUBIA CIRCA LITTERAM M,\GISTRI.
+
 
 ## English
 
