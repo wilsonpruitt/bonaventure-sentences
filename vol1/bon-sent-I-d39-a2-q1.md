@@ -8,168 +8,179 @@ quaestio: 1
 type: quaestio
 title_la: "Utrum Deus eodem modo cognoscat se et alia a se"
 title_en: "Whether God knows himself and other things in the same way"
-printed_pages: [673, 674]
-pdf_pages: [263, 264]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 673–674"
+printed_pages: [692, 693]
+pdf_pages: [282, 283]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 692–693"
+has_scholion: true
+has_apparatus: true
 line_start: 27312
 line_end: 27450
 word_count_latin: 1151
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 27312–27450 of pt2), fresh literal English translation, full apparatus from raw OCR (6 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d39-a2-q1
+## *Utrum Deus eodem modo cognoscat se et alia a se*
+
+---
 
 ## Latin
 
-                      6.    Item, hoc ipsum ostenditur auctoritatihus                                                                                       nera, et abstractio                                  facit     de            singulari              universale';
-          et    primo auctoritate     Habacuc^; Mundi sunt oculi                                                                                            ideo non potest singularia cognoscere nt intellectus,
-          lui,        Domine, ne videant malum etc. Item de ma-                                                                      ,                      nisi          intellectus sit separatus vel divinus.
-          lis   dicitur                  Matthaei                   vigesimo quinto "                                       :    Nescio vos.                              3. Ad illud quod obiicitur de certitudine scien-
-                                                                                                                                                            tiae,          dicendum, quod hoc non est propter certitu-
-                                                                                                                                                           dineni simpliciter , sed propter certitudinera causa-
-                                                             c      N c L u s I 0.
-                                                                                                                                                            tam a re. Et quoniam causatur certitudo in nostra
-                                                                                                                                                           cognitione vel " pendet ex re , ideo non potesl no-
-         Deus cognitione simplicis notitiae omnia cogno-
-                                                                                                                                                           stra cognitio esse certa, nisi res sit necessaria.                                                                 Di-
-             scit , bona et mala, approbationis vero tan-
-                                                                                                                                                           vina autem                          cognitio,               quoniam                a       re       non causatur
-             tum bona.
-                                                                                                                                                           nec            dependet,                      ideo     potest         esse               certa            de re con-
-                                                                                                                                                           tingenti.
-                     Respondeo:                            Dicendura ad                                 intelligentiam                       obie-                        0.    Ad illud quod                          obiicitur,             quod potentia maU
-         ctorum, quod                             in       Deo          est nolitia                          approbationis ,                         et    non est de oranipotentia; ergo etc; dicendum, quod                                                                            '
+<!-- page 692 -->
 
+### Articulus II.
+#### *De modo divinae cognitionis.*
 
+Consequenter est quaestio de secundo articulo, scilicet de modo divinae cognitionis. Et circa hoc quaeruntur tria.
 
+Primo quaeritur, utrum Deus cognoscat se et alia uniformiter.
 
-         simplicis nolitiae. Et                                         notitia                       approbationis conno-                                 non            est siinile,                   quia      rectitudo,                      manens rectitudo,
-         tat         complacentiam                                voluntatis.                           Hac             non cognoscit                      est ratio                 cognoscendi malum                           ;       sed rectitudo non est
-    ji.Deus omnia, quia nec mala nec malos, sed tantum                                                                                                     carisa mali, nisi declinando                                                  a rectitudine et                  defi-
+Secundo, utrum cognoscat mutabilia immutabiliter.
 
+Tertio, utrum cognoscat omnia praesenter.
 
+### Quaestio I.
+#### *Utrum Deus eodem modo cognoscat se et alia a se.*
 
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives first the Latin source text (**La.**), then the English rendering (**En.**).
 
-                1     Cap.       17.      n.          3.   Et Aristot., XII.                           Metaph.              te.xt.   31. (c. 9.):                     '   Quae lilleruntur in                     6.    arg.   ad opposit.
-      Etenim quaedani melius est non vidcre quam                                                                            videi-e.                                  *   Psalm.           1   3S   ,    12: Quia tenebrac non obscui'abuntur a                                te.
-                '-
-                      Multis lojs. Cfr.                      I.   Poster.                    c.   li.       20.       24. (18. 21. 31.);                          3       Sicut intcllcctus in eiicienda                          cognitione                   exleriorum, per
-      il.      de Aninia,                text.         60.    (e.       3.);        I.        Melapli.           c.    I.                                  medias          i.    e.       sensibiles            potentias      quasi               exit    et    descendit     ad
-                3     Libr.      I.      de Aritlimetica                  ,   c.         I    :   o   Est enim sapientia rerum,                            exteriora , sic simjulare sive species                                         quam singulare                 generat
-                                                                                                                                                                                                                                     ,
+Quod autem cognoscat se et alia eodem modo sive uniformiter, ostenditur sic.
 
+1. Scientia Dei est sua essentia, et suum scire est suum esse, ergo et modus cognoscendi est modus essendi; sed unus est modus essendi in Deo essentialis: ergo et unus modus cognoscendi.
 
-     (.luae          sunt .suique                  immutabilem                       substanliam                       sortiuntur,              com-       in    medio et organo,                            intrat et ascendit               a    sensu        particulari    ad
-     preliensio veritatis ».                               Idem docet Aristot.                          ,   I.   Poster.          c. ult., et VI.          sensum communem indeque per phantasiam usque ad                                                                 intel-
-     Etliic.         c.    3.    6.                                                                                                                        lectum. Sic ascendens species abstrahitur et depuratur a condi-
-                *    Val.       cum cod. cc dicitur. Mox post potentiae Vat. adiun-                                                                        tionibus singularibus sive individuantibus. Cfr. Itiner. mentis in
-     git iiaturaliter.
-                5
-                                                                                                                                                           Deum, c. 2, et Aristot., III. de Anima                                         ,       texl. 39. (c. 8.).     — Mox
-                     Cap.       I,       13,          ubi Vulgata, omissa voce                                             Domine,          prose-         pro ut intellectus cod.                               noster intellectus,                      et    subinde multi
-     quitur:              ne     mdeas malum.                             iVostra                 lectio,          ut           testatur    editio         codd.          utCGHKLORSUVY prosequunlur: non sic iniellectus
-     Ilieronymi, alias erat in usu.                                                                                                                                                 :et   divinus.
-                6    Vers. 12.                                                                                                                                    ">       Pro vet cod.                       necessario.
-                            S. Boruw.                      — Tom.              I.
-                                                                                                                                                                                                                                                                 87
+2. Item, Deus se ipso et non alio cognoscit se, et se ipso et non alio cognoscit alia[^1], ergo una et eadem ratione cognoscit se et alia; sed modus cognoscendi attenditur penes rationem cognoscendi: ergo si est eadem ratio cognoscendi se et alia, et idem modus, et sic etc.
 
-                                                                                                                                                                                                                                                                                                     ,
+3. Item, hoc ipsum videtur per impossibile, quia si alio modo cognoscit se, alio modo creaturas: ergo cum cognoscit se et creaturas, variatur in cognoscendo; ergo apud Deum est transmutatio et vicissitudinis obumbratio[^2].
 
+4. Item, si alio modo, tunc ego quaero: aut modus ille est Creator, aut creatura. Non creatura, quia cognitio et modus cognoscendi est aeternus; si Creator, aut dicit quid personale, aut quid essentiale. Non personale, quia omnis cognitio est communis tribus, ergo dicit quid essentiale: ergo si alius et alius modus, ergo alia et alia essentia; sed hoc est impossibile: ergo et primum.
 
+**Contra:**
 
+1. Deus cognoscendo alia a se, cognoscit per ideam, se autem non cognoscit per ideam[^3]: ergo si cognoscere per ideam dicit modum cognitionis, et se non cognoscit per ideam, patet quod alio modo cognoscendi; et sic etc.
 
-          090                                                                                                               SENTENTlMtUM I.IB. I.
+2. Item, in cognitione, qua Deus cognoscit se, idem est cognoscens et cognitum et ratio cognoscendi; sed in cognitione, qua cognoscit creaturam, non est idem ratio cognoscendi cum cognito: ergo non idem modus[^4].
 
-          cieiido.                   Ideo -scire iiialuin                              est        de perteelione scien-                                   cogiioscendi Deuiii omiiia: dicendum,                                                                      quod           iiifiuitas A(i<
+3. Item, nihil commune est Creatori et creaturae secundum rationem essendi, ergo neque secundum rationem cognoscendi: cum ergo aliud sit esse creaturae quam Creatoris, et alius modus essendi: ergo alia cognitione et alio modo cognoscitur[^5] quam Creator. Si ergo alio modo cognoscitur a Deo, et idem est creaturam cognosci et Deum cognoscere, ergo Deus alio modo cognoscit se et alia.
 
-          tiae,                sed pos-se                      maliim            non est de perfeetione po-                                               et        iunnensitas veritatis.                                      quae non                       patitiir,             aliqiiid
+4. Item, omnis cognitio, in qua cognitum est nobilius, praesentius et intelligibilius, est cognitio nobilior, scilicet quantum ad rem et modum. Quantum ad rem, quia de re magis nobili; quantum ad modum, quia de re praesentiori. Sed in cognitione, qua Deus cognoscit se, cognitum est nobilius, praesentius et intelligibilius quam in cognitione creaturae: ergo nobilior cognitio quantum ad rem et modum.
 
-          tentiae.                                                                                                                                        latere              Deum, siciit                           immensitas                      diviiiae praesentiae
+<!-- page 693 -->
 
-                           4.        .\d     illud t|uod qnaeritur'. ipiae necessitas est                                                                 non palitur. aliquid absentaii                                                        a    Deo.
+### Conclusio.
 
+> *Una cognitione et eodem modo cognoscit Deus se et alia a se.*
 
+**Respondeo:** Dicendum, quod est quaedam cognitio, quae causatur et ortum habet a cognoscibili: et haec, quoniam a cognoscibili causatur et dependet, variatur secundum exigentiam cognoscibilis quantum ad rem et modum. Est et alia cognitio, quae secundum rem idem est quod cognoscens et a cognoscibili non causatur nec dependet: et haec accipit identitatem quantum ad rem et modum a parte cognoscentis, non a parte cogniti.
 
+Quoniam igitur divina cognitio a rebus non dependet nec causatur, sed est idem quod Deus, et Deus eadem essentia et eodem modo se habens: ideo una cognitione et eodem modo cognoscit Deus se et alia a se, quia per se ipsum nullo modo variatum nec diversificatum.
 
-                                                                                                                                     SCHOLION.
+Ad intelligentiam autem obiectorum notandum, quod per respectum ad cognoscentem cognitio eodem modo comparatur et eodem modo est, quia secundum illam comparationem habet esse[^6]; et sic procedunt primae rationes ostendentes, quod eodem modo cognoscit se et alia. Per respectum ad cognitum, licet sit eodem modo, tamen alio modo comparatur: nam ad Deum secundum rationem identitatis, ad creaturam secundum rationem diversitatis et causalitatis, et ideo ad creaturam secundum rationem ideandi, ad Deum vero minime; et hoc probant rationes inductae ad secundam partem, quod alio modo comparatur, et hoc modo concedendum est. Si ergo inferat quod alio modo sit, ratio non valet, quia cognitio Dei non recipit modum essendi nec nobilitatem a cognito.
 
+**Ad argumenta in oppositum:**
 
-                      1.       In     huu ge               ;ili      11«      aionc Sorai.lii                                                pi-c         q.        14.       a.    10.    ad       4.).       Kundamenli                                      doctrinae cst              ,
-                                                                                                                                                                                                                                                                                              qnod
-          bleniiila spfui;ilia                                                iiliis    magislrjj                     Vlcx, llal.,          S. p.         «    nialum               substantificiiliir                   in   liono,       cl           solum
-                                                                                                                                                                                                                                                    non solu                 in    bono, .sed
-          1.     q.        23.         m.      "..        a.      1-7.1       clisliiiclis         inKicsliniiiliiis             Iracdintui-.             etiam in bono                    qnodam moilo sihi opiiosilo ». (S. Bonav., II. Senl.
-          in    specie solvilin- {m\                                 i.)   qiiacsiio,         iiliiiiii    Dciis .siiigularia co-                         d. 34. a. 2. q. 2.),ctqiio,i                                    punin,        ni;,l,i,„          non
-                                                                                                                                                                                                                                                           iion      csl possibile , di-
+*Ad 1, 2.* [Patet ex praedicta distinctione rationis identitatis et di]versitate. [?]
 
-          gnoscat,                   iibi    langilur             ctiam i|uacslio,                 Litriim        iiilclioctus          nosler            centccodem (loc. cil. q. I.); »        cic niiilii
-                                                                                                                                                                                                       niiiliim                        I                                     iiMqiiod         essc
+*Ad 3.* Ad illud quod obiicitur tertio, quod nihil est commune Creatori et creaturae; dicendum, quod verum est de communitate secundum eandem comparationem; sed secundum aliam et aliam nihil prohibet, quod aliquid sit veritas creaturae et similitudo Dei, similiter, quod aliquid sit veritas Dei et similitudo creaturae. Et quoniam ratio cognoscendi accipitur penes utrumque modum, ideo cognitio potest esse communis.
 
-          pro stalu                   \iiitoris directe cogiioscat                            singularia ;             quod S. Doclor                     quod nihil liabeat de bono, noii si,|i,in csi p,,
-          negat             cum Alcx. Hal.                           (loc.    cit.     a.   6.    ad      I.)    cl    S.       Thoina            (S.     licac,          sed eliam manifestae                                caciiiiiis            il    siiiliji
+*Ad 4.* Ad illud quod obiicitur ultimo, dicendum, quod tenet, cum cognitio causatur a cognito; non autem tenet cum non causatur, sicut in proposito.
 
+### Scholion
 
-          1.    q.         Sii.       ii.    I.i.     Alilcr           senlit        Scotus        (II.    Senl.        d,      3.    ([.    2.    et     quod            «    quanivis             malum non subsil ,li\in;„' /i/v,
-          piissini                    nni     Hiiriiido aliisque. Cohaeret haec opinionum dillc-                                                          tanieii             iimcisiom              y>    (infra d. 46, q. J.                           ad    .!.
+**I.** Quod ex parte cognoscentis uno eodemque modo et eadem ratione cognoscendi Deus omnia cognoscat, efficitur ex illo axiomate (in fine corp.), quod «cognitio Dei non recipit modum essendi et nobilitatem a cognito» (cfr. supra d. 38. q. 4. ad 4, q. 6. ad 2.) [?]. Hoc cohaeret cum alio principio: Quidquid recipitur per modum recipientis recipitur, licet receptio alicuius rei ab extra nullo modo dici possit de Deo, cuius intellectus est substantia et actus purissimus. — In solut. ad 3. dicitur, quod veritas creaturae potest esse similitudo Dei, quod explicatur supra d. 3. p. I. q. 1. ad 1, q. 2. ad 3. 4; et quod veritas Dei est similitudo creaturae, de quo vide d. 35. q. 1. 2. [?]
 
+**II.** Alex. Hal., *S.* p. I. q. 23. m. 2. a. 1. 3, m. 4. — Scot., I. *Report.* d. 36. q. 4; *de Primo principio*, 9; *Collat.* 21. — S. Thom., I. *Sent.* d. 38. q. 1. a. 14 [?]; a. 3. et in seqq. passim; *S. c. Gent.* I. c. 46. et *Verit.* q. 2. a. 13. — B. Albert., hic a. 2, d. 36. a. [?]; tr. 15. q. 60. m. 2. — Petr. a Tar., I. *Sent.* d. 36. — Richard. a Med., I. *Sent.* d. 35. q. 7. in solut. — Aegid. R., de hac et seq. q. d. 38. princ. 1. q. [?]. — [Henr.] Gand., *S.* a. 40. q. 43. — Durand., I. *Sent.* d. 35. q. 1. — [Dionys. Carth.,] I. *Sent.* d. 35. q. 2. 3.
 
-
-          rcnli.i          rnin         .   ,.nirM\cmia de adiiequato intelleclus humani obieclo,                                                         Itrieatio                non      liabeat nisi                  causam deficienlnu
-          ulnmi                sii     .|niil(lii ,s           rci    materialis, ut docet schola S. Thoniac,                                             l)eo        aliquani             causam, iamen potest                                 « css,'        iii
-
-
-
-          an cns eoiiimunissinie sumtum, ut est ens                                                             ]-eale in        communi,                 quae non              Ad hoc autem, quod iquid sit in Dei
-                                                                                                                                                                                     est nisi veri.
-
-          non tantum quidditas                                       rei     sensibilis,          uti Scotus censct ;              de quo                 praescientia ,       quod ipsum, \el eius causa, vel eius
-                                                                                                                                                                                           sufBoit,
-
-          dilTusc disiniiatur in utriusque seholae libris philosophicis.                                                                                  opposilum sit in Deo tanquam in causa » (ibid. q. L ad 4.).
-                      II.       In     respons. et in solut. ad S. agitur bi'eviter dc cogni-                                                             Quod- posse facere nialum non                                           sit      de ralionc potentiae, explica-
-          tione nHili.                      Quae hic tanguntur magis cxplicantur supra                                                      d. 36.        tur infra d, 42. q, 2,
-          a.     3. q.              1.2, et infra d. 46.                        q.     i.   -5.   .Vntiqui Scholastici in                     hoc                     III.         Petr.    a Tar.,             I.   Sent. d. 36. q.                      I.   a.    I.   2, d. 38. q. 2.
-              conveniunt, quod nialum a Deo non cognoscitur                                                              nisi        per aliud,           a.        2, d. 39. q. 2.                       a.    I.   2.— Richard. a Med.,                                 I.      Scnt. d. 35.
-
-              ; quia            de ratione mali est, quod                                   sit   privatio boni, et                    sic        nec     q.        6, d.           36. a. t.             q.    I.       2, d. 38. q. S.                  — Durand.,                I.   Sent. d.
-
-              deflniri          nec cognosci polest                            nisi     per bonum » (S. Thom.,                               S.     I.    33. q.              I.    2.    3, d. 38. q. 3.
-
-
-
-
-                                                                                                                                            QU\ESTIO in.
-
-
-                                                                                                  Utrwm Deus possit scire plura, quam sciat.
-
-
-
-                            Tertio quaeritur ,                                 utrum Deus possit scire vel                                                 Infinita,                     sicut            probatum                 est           supra^;                  sed            infinitis
-
-              praescire plura,                                    quam           sciat. Et quod possit plura                                               non possunt esse plura nec cogitari: ergo etc.
-              scire, ostenditur sic.                                                                                                                                       2. Item,                 si     potest praescire plura, aut plura in-
-
-                               1.     Nihil scitur nisi ens                                   et       verum-; sed multa                                   complexa sive plures res, aut plura complexa                                                                                        sive
-
-          i.possunt                         esse,          quae non                     sunt,             et    veriflcari,                 quae           enuntiabilia.Non plura incomplexa, quia res scit
-              falsa sunt : ergo                                   multa possunt                        sciri          a Deo,                quae           Deus, etiamsi nunquam sint; scit enim omnia quae
-              tamen non sciuntur.                                                                                                                          possunt fleri. Similiter non plura complexa, quia cu-
-                   2. Item, quod possit plura praescire, videtur,                                                                                             iuslibet contradictionis                                        semper altera, pars est vera,
-              quia praescientia est tantum futurorum; sed multa                                                                                               altera falsa'':                             ergo           de complexis seraper                                       tot        sunt
-              possunt esse futura, quae nunquam fient nec erunt:                                                                                              vera quot sunt falsa.                                  :    ergo qui scit omnia non potest
-               ergo raulta possunt praesciri, quae non                                                                          praesciun-                    scire plura, quia                                  non possunt plura esse vera.
-               tur     :        ergo Deus potest plura praescire, quam sciat ^.                                                                                               3.     Item       ,
+---
 
 ## English
 
-[Translation pending]
+<!-- page 692 -->
+
+### Article II.
+#### *On the mode of divine cognition.*
+
+Consequently there is a question about the second article, namely, on the mode of divine cognition. And concerning this three things are asked.
+
+First, it is asked whether God knows himself and other things uniformly.
+
+Second, whether he knows mutable things immutably.
+
+Third, whether he knows all things presentially.
+
+### Question I.
+#### *Whether God knows himself and other things in the same way.*
+
+That he knows himself and other things in the same way, that is, uniformly, is shown thus.
+
+1. The knowledge of God is his essence, and his to-know is his to-be; therefore the mode of knowing also is the mode of being; but there is one essential mode of being in God: therefore there is also one mode of knowing.
+
+2. Likewise, God knows himself by himself and not by another, and he knows other things by himself and not by another[^1]; therefore he knows himself and other things by one and the same *ratio*; but the mode of knowing is taken according to the *ratio* of knowing: therefore if there is the same *ratio* of knowing himself and other things, [there is] also the same mode, and so on.
+
+3. Likewise, this same thing seems [to follow] *per impossibile*, because if he knows himself in another way [and] creatures in another way: therefore when he knows himself and creatures, he is varied in knowing; therefore in God there is transmutation and the shadow of vicissitude[^2].
+
+4. Likewise, if [he knows] in another way, then I ask: either that mode is the Creator, or a creature. Not a creature, since the cognition and the mode of knowing is eternal; if [it is] the Creator, [it expresses] either something personal, or something essential. Not something personal, since every cognition is common to the three; therefore it expresses something essential: therefore if [there is] one mode and another, then [there is] one essence and another; but this is impossible: therefore also the first [is impossible].
+
+**On the contrary:**
+
+1. God, by knowing things other than himself, knows through an idea, but he does not know himself through an idea[^3]: therefore if to know through an idea expresses the mode of cognition, and he does not know himself through an idea, it is plain that [he knows himself] in another mode of knowing; and so on.
+
+2. Likewise, in the cognition by which God knows himself, the knower and the known and the *ratio* of knowing are the same; but in the cognition by which he knows the creature, the *ratio* of knowing is not the same as the known: therefore not the same mode[^4].
+
+3. Likewise, nothing is common to the Creator and the creature according to the *ratio* of being, therefore neither according to the *ratio* of knowing: since therefore the being of the creature is other than that of the Creator, and another mode of being [obtains]: therefore [the creature] is known by another cognition and in another mode[^5] than the Creator. If therefore [the creature] is known by God in another mode, and to know the creature and to know God are the same [act], then God knows himself and other things in another mode.
+
+4. Likewise, every cognition in which the known is more noble, more present, and more intelligible is a more noble cognition, namely as regards the thing and the mode. As regards the thing, since [it is] of a more noble thing; as regards the mode, since [it is] of a more present thing. But in the cognition by which God knows himself, the known is more noble, more present, and more intelligible than in the cognition of the creature: therefore [it is] a more noble cognition as regards the thing and the mode.
+
+<!-- page 693 -->
+
+### Conclusion.
+
+> *By one cognition and in the same way God knows himself and the things other than himself.*
+
+**I respond:** It must be said that there is a certain cognition which is caused and takes its origin from the knowable: and this one, since it is caused by and depends on the knowable, is varied according to the requirement of the knowable as regards thing and mode. There is also another cognition which according to the thing is the same as the knower and is neither caused nor depends on the knowable: and this one receives identity as regards thing and mode from the side of the knower, not from the side of the known.
+
+Since therefore divine cognition does not depend on things and is not caused [by them], but is the same as God, and God is keeping himself in the same essence and in the same mode: therefore by one cognition and in the same way God knows himself and the things other than himself, since [he is] in no way varied or diversified through himself.
+
+For the understanding of the objections, however, it must be noted that with respect to the knower the cognition is compared in the same way and is in the same way, since according to that comparison it has being[^6]; and so the first arguments proceed, showing that he knows himself and other things in the same way. With respect to the known, although it is in the same way, yet it is compared in another way: for to God [it is compared] according to the *ratio* of identity, to the creature according to the *ratio* of diversity and of causality, and therefore to the creature according to the *ratio* of being-an-idea-[for], but to God by no means; and this the arguments adduced for the second part prove, that it is compared in another way, and in this way it must be conceded. If therefore one infers that it is in another way, the argument is not valid, since the cognition of God does not receive its mode of being or nobility from the known.
+
+**To the arguments on the opposite side:**
+
+*To 1, 2.* [It is plain from the foregoing distinction between the *ratio* of identity and of di]versity. [?]
+
+*To 3.* To that which is objected in the third [argument], that nothing is common to the Creator and the creature; it must be said that [this] is true of community according to the same comparison; but according to one and another [comparison] nothing prohibits that something be a truth of the creature and a likeness of God, and likewise that something be a truth of God and a likeness of the creature. And since the *ratio* of knowing is taken according to either mode, the cognition can be common.
+
+*To 4.* To that which is objected last, it must be said that [it] holds when the cognition is caused by the known; but it does not hold when it is not caused, as in [the present] case.
+
+### Scholion
+
+**I.** That on the part of the knower God knows all things by one and the same mode and the same *ratio* of knowing, is established from that axiom (at the end of the corpus), that "the cognition of God does not receive its mode of being and nobility from the known" (cf. above d. 38, q. 4, ad 4; q. 6, ad 2) [?]. This coheres with another principle: Whatever is received is received according to the mode of the receiver, although the reception of any thing from outside cannot in any way be said of God, whose intellect is substance and most pure act. — In the solution to [obj.] 3 it is said that the truth of the creature can be a likeness of God, which is explained above at d. 3, p. I, q. 1, ad 1; q. 2, ad 3, 4; and that the truth of God is a likeness of the creature, on which see d. 35, q. 1, 2 [?].
+
+**II.** Alex. Hal., *S.* p. I, q. 23, m. 2, a. 1, 3, m. 4. — Scot., I *Report.* d. 36, q. 4; *On the First Principle*, 9; *Collat.* 21. — St. Thomas, I *Sent.* d. 38, q. 1, a. 14 [?]; a. 3, and in the following [questions] passim; *Summa contra Gentiles* I, c. 46, and *de Veritate* q. 2, a. 13. — B. Albert, here a. 2, d. 36, a. [?]; tr. 15, q. 60, m. 2. — Petr. a Tar., I *Sent.* d. 36. — Richard. a Med., I *Sent.* d. 35, q. 7, in solut. — Aegid. R., on this and the following question, d. 38, princ. 1, q. [?]. — [Henr.] Gand., *S.* a. 40, q. 43. — Durand., I *Sent.* d. 35, q. 1. — [Dionys. Carth.,] I *Sent.* d. 35, q. 2, 3.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Cfr. Aristot., XII. *Metaph.* text. 39. et 51. (XI. c. 7. et 9.).
 
-## Notes
+     **En.** Cf. Aristotle, *Metaphysics* XII, text 39 and 51 (XI, c. 7 and 9).
 
-[Notes pending]
+[^2]: **La.** *Iacob.* 1, 17: *Apud quem non est transmutatio nec vicissitudinis obumbratio.*
+
+     **En.** *James* 1:17: "With whom there is no transmutation nor shadow of vicissitude."
+
+[^3]: **La.** Cfr. supra d. 35. q. 1. et seqq.
+
+     **En.** Cf. above d. 35, q. 1, and following.
+
+[^4]: **La.** Supple cum cod. Z *cognoscendi*. Immediate ergo non cod. V *ergo nec*.
+
+     **En.** Supply with codex Z *cognoscendi* ["of knowing"]. Immediately following, in place of *ergo non*, codex V [reads] *ergo nec* ["therefore neither"].
+
+[^5]: **La.** Intellige cum cod. Q (in marg.) *creatura*.
+
+     **En.** Understand with codex Q (in margin) *creatura* ["the creature"].
+
+[^6]: **La.** In codd. L repetitur *a Deo*.
+
+     **En.** In codices L there is repeated *a Deo* ["from God"].

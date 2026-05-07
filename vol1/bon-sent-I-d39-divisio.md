@@ -6,78 +6,104 @@ distinctio: 39
 type: divisio
 title_la: "Commentarius in Distinctionem XXXIX. Divisio textus."
 title_en: "Commentary on Distinction XXXIX. Division of the text."
-printed_pages: [662]
-pdf_pages: [252]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 662–662"
+printed_pages: [684]
+pdf_pages: [274]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), p. 684"
+has_scholion: false
+has_apparatus: true
 line_start: 26536
 line_end: 26584
-word_count_latin: 471
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+word_count_latin: 215
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26536–26584 of pt2), fresh literal English translation, full apparatus from raw OCR (2 entries), [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d39-divisio
 
+## *Commentarius in Distinctionem XXXIX. — Divisio textus.*
+
+---
+
 ## Latin
+<!-- page 684 -->
 
-                                                 SOHOLION.
+## Commentarius in Distinctionem XXXIX.
 
+#### *De perfectione divinae scientiae.*
 
-           EandiMii qiiacstiom
+> *Praeterea quaeri solet, utrum scientia Dei possit augeri vel minui.*
 
+### Divisio textus.
 
-Uli'iini   sil   possibili',   Dinini   noii
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`).
 
-                                                                                               DIST.           XXXVm. DUBIA.
+Supra egit Magister de scientiae divinae certitudine, hic agit de perfectione. Et quoniam vere perfectum est cui non est possibilis additio[^1], ideo Magister quaerit, utrum divina scientia possit augeri vel minui. Et habet haec pars tres partes. In prima Magister quaerit et determinat quod divina scientia non recipit augmentum nec diminutionem nec alterationem, sed omnia simul et uno aspectu cognoscit. In secunda opponit contra hoc, quod divina scientia non potest augeri, per hoc, quod videtur aliquid posse scire ex tempore, et determinat, et hoc facit secundo capitulo, ibi: *Hic opponitur a quibusdam.* In tertia obiicit auctoritate Hieronymi contra hoc quod dictum erat, divinam scientiam esse respectu omnium, et hoc ibi: *Ei autem quod praedictum est, scilicet quod Deus etc.*
 
-reni       ut est iii proprio genere, et lioc est imperfectio-
-nis, quia scilicet                      lunc    '    cognoscens                     egreditur             extra
-se; et           hoc nulio modo potest                                   poiii       in      Deo,        et ita
+Et quaelibet harum trium partium potest subdividi, quia primo in eis opponit et secundo solvit; tamen in secunda ponit duplicem responsionem, et in tertia post responsionem subiungit epilogationem, ultimo capitulo[^2].
 
-facit in         Angelo alium                       inodum               cognoscendi.                    Et        sic                 Itetn     quaeritur de                      hoc quod               dicit:           Scienliam
-patet illud.                                                                                                              vel     praescientiam non esse causam                                                   etc. ,       si       scien-
-                                                                                                                          tiam ad notitiam. tantum referamus. Si vero no-
-                                                DUB.           II.                                                        mine scientiae includitur beneplacitum atque dis-
-                                                                                                                          positio ,             recte          pote.it             dici.              Videtur            enim               male
-    Item qnaeritur de hoc quod dicit:    Tunc eius                                                                        dicere,              quia aut scientia,                               hoc modo            et illo             dicta,
-quod aeterimm est, aliqua existeret causa etc. Vuit                                                                       dicit eundein                 raodum sciendi, aut alium;                                       s,\   eundem,
-enim dicere, qmd praescientia dicat quid aeternum;                                                                        ergo         si     uno raodo              est causa, et alio;                            si    alium mo-
-sed hoc videtur falsum, quia praescientia dicit rcspe-                                                                    dum, ergo in Deo est multiplex modus sciendi, non
-ctum ad crealuram futuram; sed                                                 nihil est         futurum                  ergo uniformis per omnia.                                    —         Ilem, scientia simplicis
-secundum esse, quod habet in Deo, sed in proprio                                                                          notitiae est Deus; et               Deus est causa omnium: ergo
-genere: ergo connotat                               aliquod temporale,                            ergo              vi-   scientia             illa est causa omninm.
+### Tractatio quaestionum.
 
-detur, quod cognoscatur - ex tempnre.                                                — Praeterea,                                      Respondeo:               Dicendmii                   .     quod        in    nobis notitia
-respectus             ille       nihil       dicit a       parte Dei                 nisi      solum mo-                  simplex,              et notitia beneplaciti                                 dicunt        diversas                 co-
-dum intelligendi nostrum: ergo                                           tunc coepit                 ille          re-    gnitiones et diversos modos cognoscendi, et per con-
-spectus, quando coepit noster inteiiectus, non ergo                                                                       sequens connolant diversa:                          in Deo autem una lan-
+Ad intelligentiam praesentis distinctionis quaeritur de perfectione divinae cognitionis, et circa hoc duo principaliter quaeruntur.
 
-fuit       ab aeterno.                                                                                                    tum          cognitio est, sed illa               una facitDeus, quod nos
-           Respondeo: Sicut                     dicit          Magister "            ,       praescientia                 multis; et ideo                     illa   una dupliciter potest significari '.
-dicit      quid aeternum                       et     ab aeternn.                   Cum enim non                          Et ciim significatur per                               modum approbationis con-                               ,
+Primo quaeritur de perfectione divinae cognitionis quantum ad numerum cognoscibilium.
 
+Secundo quaeritur de ipsa quantum ad modum cognoscendi.
 
-importet          nisi           duo,        scilicet          antecessionem                    et       scien-           notat effectum et bonitalem; quando vero per                             modum
-tiam, et antecessio omnis creaturae sit ante omnem                                                                        simplicis notitiae , solum eventum. Et quoniam esse
-creaturam             ,    et scientia naturaliter                         ,
-                                                                                patet         quod prae-                  causam alicuius                       connotat effectum                                 sive     respectum
-scientia         quid aeternum                      dicit ^.         — Quod ergo                         obiici-          — quamvis eadem                            sit        scientia sive sapientia a parte
-tur,        quod               importat         rei        futuritionem                  ;    dicendum,                   principalis signiQcati                          —     ideo dicitur, quod haec* est
-quod futuritio uno modo importat successionem tem-                                                                        causa illorum quae praescit, et illa non. Et hoc dici-
-poris, et             ita       non      est    de      ratione praescientiae                            ;    hoc         tur, non quia res significata non sit causa, sed quia,
-enim modo futurum coepit cum tempore. Aho modo                                                                            ut     sic        significata          est,           non significatur per                            modum
-futurum importat ordi^iem temporalis ad aeternum                                                                          eausae, quoniam comparatur ad ea qnae nullo modo
-secundum consecutionem , sicut praescientia ante-                                                                         sunt a Deo. Et                      sic patet               illud.
+Quantum ad primum quaeruntur tria.
 
+Primo quaeritur, utrum Deus cognoscat alia a se.
+
+Secundo quaeritur, utrum Deus cognoscat omnia alia a se.
+
+Tertio, utrum Deus possit scire vel praescire plura, quam sciat.
+
+---
 
 ## English
+<!-- page 684 -->
 
-[Translation pending]
+## Commentary on Distinction XXXIX.
+
+#### *On the perfection of the divine knowledge.*
+
+> *"Furthermore, it is wont to be asked whether the knowledge of God can be increased or diminished."*
+
+### Division of the text.
+
+Above the Master treated of the certitude of the divine knowledge; here he treats of [its] perfection. And since that is truly perfect to which no addition is possible[^1], therefore the Master inquires whether the divine knowledge can be increased or diminished. And this part has three parts. In the first the Master inquires and determines that the divine knowledge admits neither increase nor diminution nor alteration, but knows all things at once and by a single regard. In the second he raises an objection against this — namely, that the divine knowledge cannot be increased — through this, that it seems that [God] can know something from [a point in] time, and he determines [the matter], and he does this in the second chapter, there: *"Here it is objected by some."* In the third he objects with the authority of Jerome against this which had been said, namely that the divine knowledge is in respect of all things, and this [is] there: *"To this however which was said before, namely that God etc."*
+
+And each of these three parts can be subdivided, because in them he first raises an objection and second resolves [it]; however, in the second [part] he sets forth a twofold response, and in the third, after the response, he appends a recapitulation, in the last chapter[^2].
+
+### Treatment of the questions.
+
+For the understanding of the present distinction, the perfection of divine cognition is asked about, and concerning this two [matters] are principally asked.
+
+First, [the question] is asked concerning the perfection of the divine cognition as to the number of knowables.
+
+Second, [the question] is asked concerning the same as to the mode of knowing.
+
+As to the first, three [questions] are asked.
+
+First it is asked, whether God knows things other than himself.
+
+Second it is asked, whether God knows all things other than himself.
+
+Third, whether God can know or foreknow more [things] than he [actually] knows.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Cfr. supra pag. 312, nota 8.
+
+     **En.** Cf. above p. 312, note 8.
+
+[^2]: **La.** Supple cum Vat. ibi: *Simul itaque.*
+
+     **En.** Supply, with the Vatican edition, there: *"Simul itaque"* ("Therefore at once").
+
+---
 
 ## Notes
 
-[Notes pending]
+[No editorial notes beyond the apparatus above.]

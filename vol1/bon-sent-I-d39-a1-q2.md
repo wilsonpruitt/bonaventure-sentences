@@ -8,243 +8,229 @@ quaestio: 2
 type: quaestio
 title_la: "Utrum Deus cognoscat omnia alia a se"
 title_en: "Whether God knows all things other than himself"
-printed_pages: [666, 667, 668]
-pdf_pages: [256, 257, 258]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 666–668"
+printed_pages: [688, 689, 690]
+pdf_pages: [278, 279, 280]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 688–690"
+has_scholion: true
+has_apparatus: true
 line_start: 26936
 line_end: 27149
 word_count_latin: 2464
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation) (NOTE: Q.II header heavily garbled in OCR; boundary approximate, agent should verify against running heads in raw)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26936–27149 of pt2), fresh literal English translation, full apparatus from raw OCR (17 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d39-a1-q2
+## *Utrum Deus cognoscat omnia alia a se*
+
+---
 
 ## Latin
 
+<!-- page 688 -->
 
+### Quaestio II.
+#### *Utrum Deus cognoscat omnia alia a se.*
 
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives first the Latin source text (**La.**), then the English rendering (**En.**).
 
-                '    De,      hac propositione cfr. supra pag. 600 , nota                                                               2.   Verba           alio codd.              A T intellectus eius
-                                                                                                                                                                                         I                                              perficitur                    ab            illo,       cod.        bb
-    secundum ordinem sic explicanda sunt                                                          :       ordinate destinando in                             ab aliquo.             In fine             argumenti pro perfectione                                       i.          e.        forma        (dc
-    finem determinatum. De connexu inter ordinem et sapientiam,                                                                                              quo cfr. supra pag. 84, nota 7.), Vat. cum edd. 4, .5 perfi-
-    cuius           mox fit mentio                        ,     respice illud Arislot.                          ,     I.    Metaph.          c.    2         ciente, et subinde eadem Vat. cum cod. cc omittit alio.
-    Non enim ordinari (IraTiTTEsSai), sed ordinare (iTciTaTTEiv) opor-                                                                                            « Verba est in Deo Vat. non absque auctoritate codd. im-
+Secundo, dato quod Deus cognoscat alia a se, quaeritur, utrum cognoscat omnia alia a se. Et quod sic, videtur:
 
-    tel    sapientem.                                                                                                                                        mutavit in cognoscit Deus ,                                         simul             suo           noniine             inserens ante
-            ^ Cfr.             supra pag. 78                          ,    nota 2.        —      Post pauca                        pro cogno-                verbu praccedentia                             omne quod particulam hok, ut ralionabilem
-    scibilibus plures codd. ut                                            K V V Z bene cognosceniibus.                                                       redderet suam lectionem                             At nostram lectionem quam ex codd.
-                                                                                                                                                                                                                      .
-                                                                                                                                                                                                                                                                            ,
+1. Auctoritate Ieremiae decimo septimo[^1]: *Pravum est cor hominis etc.*, et post: *Ego Dominus scrutans corda et renes*; sed nihil incertius, nihil occultius nostris cogitationibus: ergo si has cognoscit, et omnia alia.
 
+2. Item, ad Hebraeos quarto[^2]: *Omnia sunt nuda et aperta oculis eius ad quem nobis sermo*. Et iterum: *Vivus est sermo Dei et efficax,* usque ibi, *et non est aliqua creatura invisibilis in conspectu eius.*
 
-            3 Aristol.,                     1.       Poster. c. 2.                                                                                           KVX restituimus, veram esse, evidens est nec non ex con-
-                •    Val.       cum cod. cc hic addit nec                                             potest               supra aliad a                     texiu       probuur.
-    se; cod. bb non potest aliquid aliud a se; in ceteris codd. et                                                                                                   '   Libr.          II.       Soliloq. c. 5. n.                    8   :       Nam verum                         mihi           videtur
-    ed.     I       nihil additur.                        Mox pro cum non                                 sit       multi          codd.         cum         esse id c|uod est.                        — Maior              hiiius         argumenli sic exprimi solet:
-    sit ;       perperam.                                                                                                                                    Quidquid cognoscitui', cognoscitur siib ratione veri.                                                                            — Pro         in-
-            ^        Text. 51. (XI.                        c.      9.),        ubi       pro     erronea                   sententia,            quod        tclligentia            ultimae                 propositionis                  huius                 argumenti                :     sed        tale
-    primus intellectus non intejligit alia                                                 a se           ,    haec             afrerlur     ratio           est etc. ,         non          inutile erit                 illud       August.            ,   83        Qq.           q.        46. n.       2.
-    I     Deinde              dilucidum,                        quod            aliquid         aliud               honorabilius                 esset       afferre      ,    ubi S. Doctor ideas Platonicas falso acceptas impugnans
-    quam intelloctus,                                id       scilicet          quod           intelligltur ».                    Averroes          in       sic eloquitur:                   Non enim                    cxlia se quidquam positum intuebatur,
-    Comment. de hoc textu ait                                              :   «       Qnapropter              erit aliud              ens nobi-             ut .se<undum id constitueret                                            quod constituebat                          ;    nam hoc opi-
-                                                                                                                                    — Triplex
-                                                                                                                                                                                                                             ,
+3. Item, Ioannes ultimo[^3]: *Domine, tu omnia nosti*.
 
+4. Item, Augustinus tertio *de Trinitate*[^4]: «Nihil fit visibile nec intelligibile, quod non de aula interiori atque invisibili summi Imperatoris aut iubeatur, aut permittatur secundum ineffabilem iustitiam poenarum et praemiorum et gratiarum et meritorum». Et si hoc: ergo omnia cognoscit.
 
+5. Item, ratione videtur: quia quanto substantia est spiritualior atque simplicior, tanto plurium est cognitiva[^5]; sed Deus est substantia simplicissima et spiritualissima: ergo est omnium cognitiva.
 
-    lius isto; intellectum enim est perfectio intelligentis ».                                                                                               nari sacrileguni est.
-    inconvenicns,                       quod              S.       Doctor               mox commemorat,                              insinuatur                      '    Aristol. ,              VI.       lithic. c.       I   :   Siquidem ex similitudine quadam
-    etiiim          ab        Aristol.           ,   loe. cit.            — Pro          intellectus eias perficitav                               ab        ot aflinitnte cognitio cxislit ipsis (scil. potentiis aniniae).
+6. Item, Deus est creator et remunerator; sed in quantum creator est artifex, in quantum remunerator iudex; sed perfectus artifex cognoscit omnia producta, perfectus iudex omnia remuneranda: si ergo omnis creatura spectat ad artificium, et omne bonum et malum ad iudicium, ergo Deus omnem creaturam cognoscit, et omnem bonitatem et malitiam.
 
-                                                                                                                       ,                                                                                                            ,
+7. Item, impossibile est, aliquid esse, in quo non sit Deus per praesentiam essentiae, ut supra probatum est[^6]; sed[^7] cuicumque praesens est per essentiam, et cognitionem: ergo impossibile est, aliquid Deo esse incognitum.
 
+8. Item, si esset in una re ita, quod non in alia, esset eius essentia limitata: ergo si ita cognosceret, quod aliqua essent incognita, esset eius cognitio limitata et arctata, et ita imperfecta.
 
+<!-- page 689 -->
 
+**Sed contra:**
 
-                                                                                                        SENTENTIARUM LIB. I.
+1. Omne nobilius Deo est attribuendum; sed «quaedam melius est nescire quam scire», sicut dicit Augustinus in *Enchiridio*[^8]: ergo necesse est ponere, quod Deus illa non sciat.
 
-                  6.    Item, bonitas creaturae comparata ad                                                    boiii-     est   idem quod                ipse, a quo res cognoscuntur. Et hoc
-     talem Creatoris est sicut punctus ad lineam, ergo                                                                     modo nihil valet obiectio.
-     similiter               veritas           ad       veritatem; sed                           si    intelligatur                    3.   Ad     illud          quod          ohiicitur tertio,            quod ab             ae-
-     punctus amoveri a linea, non                                 est linea minor nec                                      terno fuit             unum solum ens; dicendum, quod duplex
-     imperfectior: ergo                          si     Deus veritatem suam cognoscit                                      est rei esse, scilicet in se, et in                                   sua causa, id est
-     siue veritate creaturae, nihilominus sna cognitio per-                                                                in proprio genere, et in exemplari.                                          Et   ad       cognitio-
-     fecta est.                                                                                                            nem          rei      sufficit             existentia          eius    in     causa sive               in
-                                                                                                                           exemplari ;             et     quia              per        exemplar repraesentatur
-                                                                                                                           sicut        futura          est           in    proprio        genere, ideo per exi-
-                                                                                                                           stentiam in exemplari omnino cognoscitur                                               ,    sicut fu-
-                                                                                                                           tura est, nec aliter cognoscitur, postquam facta est.
-                   Deus cognoscit aliud a se, at non per
-                                                                                                                           Quod ergo                obiicitur ,                  quod ab aeterno fuit unum
-                                              aliud, sed per                        se.
-                                                                                                                           solum ens; dicendum, quod verum                                              est, in        proprio
-                                                                                                                           genere sive              in       esse           actuali;       multa        tamen fuerunt
-                  Respondeo: Dicendum, quod                                               pium           et    neces-      in causa. et esse illud eral ratio                                    cognoscendi secun-
- .sarium                est        dicere,              quod Deus aliud a se cogno-                                        dum utrumque modum essendi.
-     scat:        pium quidem                       ,
-                                                        quia omnis rectus animus hoc                                                   4.   Ad illud quod obiicitur quarto de assimila-
-     dicit, quia                 non          latet      Deum quod                          cognoscit noster               tione,           dicendum,                 sicut supra          dictum        fuit         in       quae-
-     animus;             necessarium,                         quoniam                  non            potest    opus       stione           de    ideis",              quod ad            cognitionem             requiritur
-     latere            sapientissimum                        opificem. Et ideo oppositum                                   assimilatio,            non            per           convenientiam           in    genere vel
-     dicere est                  impium et impossibile.                                                                    specie, sed              secundum va.\\mem exprimencli. Kt qm-
-                  Et propterea                  ad       intelligentiam                     obiectorum no-                 niam divina verilas una et                               summa expressione ex-
-     tandum, quod cognoseere aliud est dupliciter: aut                                                                     primit se et alia; ideo                               summa assimilatio est, non
-     per aliud a se oognoscente aut per se. Quando                         ,                                               tantum             respeclu sui.                      sed    etiam respectu aliorum.
-     cognoscens cognoscit aliud et per aliud, tunc ve-                                                                     Et ila patet illud.
-     rum est, quod perfectionem habet aliunde, et tunc                                                                                 5.   Ad illud quod obiicitur, quod potentia dici-
-     eius         intellectus                 est       in    potentia et recipit                             aliunde      tur perfecta, etiam                             si   nihil faciat, ergo etc; dicen-
-     perfectionem et ideo additionem et transmutationem,                                                                   dum, quod non est simile de actu faciendi respectu                                                           d
+2. Item, intellectus noster propter sui immaterialitatem non intelligit singularia — unde, ut Philosophus[^9] dicit, «intellectus est universalium, et sensus singularium» — sed divinus intellectus multo magis est immaterialis quam noster; ergo si noster non intelligit singularia, nec divinus.
 
-     et   hoc oranino impossibile est circa Deum. Est                                                               ite-   potentiae,              et     sciendi respeclu intelligentiae.                                     Nanidiet!
+3. Item, noster habitus scientialis propter sui certitudinem non est nisi necessariorum, et non contingentium, quia dicit Boethius[^10] quod «scientia est eorum quae sui immutabilem existentiam sortiuntur». Si ergo divina cognitio est multo certior quam nostra scientia, patet etc.
 
-     rum aliud cognoscere per                                        se; et tunc                       cognoscens          facere est actus ut actus et ut egrediens, qui                                                       noji
+4. Item, quae necessitas est Deum ponere cognoscere omnia? Et videtur quod nulla, quia cognitio nostra non minus dicitur perfecta, si non cognoscit unam muscam; si ergo divina cognitio multo minus perficitur a scibili, non erit imperfecta, si non cognoscit ista vilia.
 
-     est actus ' respectu cognoscibilis, et tunc                                                       non recipit         facit       perfectionem               ,    sed consequitur et attestatur: sed
-     perfectionem                   a cognoscibih, sed magis e converso.                                                   scire est actus ut habitus, qui significatur ut                                                      per-
-I.   Et hoc            modo ponimus Deum cognoscere aliud a se                                                             fectio potentiae '.                    Quoniam igitur divina intelligentia
-     per se ipsum.                                                                                                         est perfectissima                  ,       ideo non tantum cognoscit aliqua,
-                  1.   Et sic non procedit                           prima ratio, sed secun-                               sedomne quod potest cognosci, non autem facit
--    dum primam viam                             ,      et intellexit ita                    Philosophus, si               omne quod potest fieri.
-     verum dixit.                                                                                                                      6.   Ad illud quod ultimo obiicitur, quod veritas
-         2. Ad illud quod  obiicitur secundo, quod si                                                                      creaturae              nihil       facit             ad      primam veritatem                       etc;
-     Deus cognoscit aliud a se, ergo aliquid extra se;                                                                     dicendum, quod verum                                  est,   et ideo        aeque nobilis et
-     dicendum    quod cognoscere aliquid exlra se est
-                             ,
-                                                                                                                           perfecla erat                prima veritas ante creationem                                      verita-
--    tripliciter         :       aut per aUquid conceptum                                             ab extra, et         tum aliarum, sicut post. Sed tamen ponere, quod
-i.sic         dependet cognitio ab extrinseco, et                                                      sic    non   est    ahqua veritas sit, et non sit a Veritate aeterna,est
-                                                                                                                           ponere primam veritatem non esse summam sic
-                                                                                                                                                                              °
-     possibile ponere in Deo; aut cognoscere aliquid extra,                                                                                                                                                                ;
+5. Item, sicut Deus est[^11] omnisciens, ita est omnipotens; sed potentia mali non est de omnipotentia nec de perfectione potentiae; ergo et similiter cognitio mali non est de perfectione scientiae, ergo etc.
 
+6. Item, hoc ipsum ostenditur auctoritatibus[^12], et primo auctoritate Habacuc[^13]: *Mundi sunt oculi tui, Domine, ne videant malum etc.* Item de malis dicitur Matthaei vigesimo quinto[^14]: *Nescio vos*.
 
+### Conclusio.
 
-     quia          aspectus cognoscentis deflectitur                                                  extra,    sicut      ponere, aliquam veritatem esse, et non esse cogni-
-     cognoscit Angelus; aut quia illudquod est aliud et                                                                    tam,         tollit     rationem perfectae veritatis, ut est ratio
-     diversum, habel ortum ab mtra , et ita quod est                                                                       cognoscendi.                 Et        ideo           patet,    quod         de    perfectione
-     extra cognoscitur per omnino intrinsecum, el hoc                                                                      summae veritatis est cognitio creaturae, sicut et po-
-     modo cognoscit Deus, sciliret per exemplar, quod                                                                      tentia producendi.
+> *Deus cognitione simplicis notitiae omnia cognoscit, bona et mala, approbationis vero tantum bona.*
 
+**Respondeo:** Dicendum ad intelligentiam obiectorum, quod in Deo est notitia approbationis, et simplicis notitiae. Et notitia approbationis connotat complacentiam voluntatis. Hac non cognoscit Deus omnia, quia nec mala nec malos, sed tantum bona et bonos; et de hac intelliguntur duae ultimae auctoritates[^15]. Est alia cognitio simplicis notitiae; et haec quia habet rationem cognoscendi a Veritate, quae est lux summa, cui nihil potest occultari, nec etiam tenebrae obscurantur ab ipsa[^16]; ideo de necessitate cognoscit omnia, magna et parva, bona et mala, sicut ostendunt rationes ad primam partem.
 
+*Ad 1.* Ad illud ergo quod primo obiicitur, quod omne nobilius Deo est attribuendum; dicendum, quod est melius simpliciter, et est melius huic et secundum statum. Dico ergo, quod omnia scire simpliciter melius et nobilius est; sed homini corrupto, qui accipit occasionem peccandi ex cognitione, melius est quaedam nescire. Ideo non sequitur, quod sit Deo attribuendum.
 
+*Ad 2.* Ad illud quod obiicitur de immaterialitate intellectus, dicendum, quod hoc, quod non cognoscat singularia, non tantum venit ex immaterialitate, immo ex materialitate coniuncti et immaterialitate sua. Quoniam enim coniungitur corpori, ideo habet potentias, secundum quas dependet a corpore quantum ad operationem, et per quas intellectus, quamdiu est in corpore, exit ad exteriora, quia illae sunt mediae, scilicet sensus particularis et imaginatio. Quoniam ergo singulare non pervenit ad intellectum nisi per istas potentias, et ascensus per has est secundum abstractionem et depurationem, et abstractio facit de singulari universale[^17]; ideo non potest singularia cognoscere ut intellectus, nisi intellectus sit separatus vel divinus.
 
-              '   Cod.       T uclu.                                                                                       Quorum vero non ost aliud quoddani opus praeler actionem,
-              2   Ed.    1       accepium.                                                                                 in ipsismet actio esl,                     ut Yisio in vidente, et speculatio in spe-
-              3 Dist.        35. q.       1.    in corp. et          ad        2.                                          culante, et vita in anima ».                          Ex liis responsio S. Doctoris facile
-              •   .\rislot. ,      IX.        Helaph.        texl.   16.       (    VIll.   c.    8.) difterenliam         intelligitur.         iNam    facere            ut' actio     (ransiens      praesupponit             per-
-     inler        aclionem trmtsmnlem immanentem, quae liic respici-
-                                                             et                                                            feclionem potentiae, et                         ideo potentia,        sive    faciat       sive      non,
-     lur  ,sic proponit    Quorumcumque itaque aliud quiddam prae-
-                                    :    <c                                                                                perfectissima et actus purus esse potest; at scire, ut actio im-
-     ler usum est id quod flt, horum actus in eo quod fit, est                                                             manens, perfeclissimum                          et actus     purus esse ncquit, nisi in ipso
-     iit aedificatio in eo quod aedificatur, et contextio in en quod                                                       comprehendalur aclnaiis cognitio omnium reruni.
-     contexitur; simililer et dn aliis, et omnino molus in moto.                                                                   5    Codd.     A V sed.
-                                                                                                                                                    I
+*Ad 3.* Ad illud quod obiicitur de certitudine scientiae, dicendum, quod hoc non est propter certitudinem simpliciter, sed propter certitudinem causatam a re. Et quoniam causatur certitudo in nostra cognitione vel[^18] pendet ex re, ideo non potest nostra cognitio esse certa, nisi res sit necessaria. Divina autem cognitio, quoniam a re non causatur nec dependet, ideo potest esse certa de re contingenti.
 
-                                                                                                                                                          ,,;,                                                                                                                                                                                      ,
+*Ad 5.* Ad illud quod obiicitur, quod potentia mali non est de omnipotentia; ergo etc; dicendum, quod non est simile, quia rectitudo, manens rectitudo, est ratio cognoscendi malum; sed rectitudo non est causa mali, nisi declinando a rectitudine et defi<!-- page 690 -->ciendo. Ideo scire malum est de perfectione scientiae, sed posse malum non est de perfectione potentiae.
 
+*Ad 4.* Ad illud quod quaeritur[?], quae necessitas est cognoscendi Deum omnia: dicendum, quod infinitas et immensitas veritatis, quae non patitur, aliquid latere Deum, sicut immensitas divinae praesentiae non patitur, aliquid absentari a Deo.
 
+### Scholion
 
+**I.** In hac quaestione[?] aliae quaestiones speciales [?] aliis magistris ut Alex. Hal., *S.* p. I. q. 23. m. 2[?]. a. 1–7[?] distinctis [in]quisitionibus tractantur. In specie solvitur (m. 1.) quaestio, utrum Deus singularia cognoscat, ubi tangitur etiam quaestio, utrum intellectus noster pro statu Auctoris[?] directe cognoscat singularia; quod S. Doctor negat cum Alex. Hal. (loc. cit. a. 6. ad 1.) et S. Thoma (*S.* I. q. 86. a. 1.). Aliter sentit Scotus (II. *Sent.* d. 3. q. 2. et passim), cum Durando aliisque. Cohaeret haec opinionum differentia cum controversia de adaequato intellectus humani obiecto, utrum sit *quidditas rei materialis*, ut docet schola S. Thomae, an *ens communissime sumtum*, ut est ens reale in communi, non tantum quidditas rei sensibilis, uti Scotus censet; de quo diffuse disputatur in utriusque scholae libris philosophicis.
 
-                                                                                                           DIST. XXXIX. ART.                                           I.     QUAEST. I.
+**II.** In respons. et in solut. ad 5. agitur breviter de cognitione mali. Quae hic tanguntur magis explicantur supra d. 36. a. 3. q. 1. 2, et infra d. 46. q. 1.–5. Antiqui Scholastici in hoc conveniunt, quod malum a Deo non cognoscitur nisi per aliud[?], quia de ratione mali est, quod sit privatio boni, et sic nec definiri nec cognosci potest nisi per bonum» (S. Thom., *S.* I. q. 14. a. 10. ad 4.). Fundamenti doctrinae est, quod «malum substantificatur in bono, et non solum in bono, sed etiam in bono quodam modo sibi opposito». (S. Bonav., II. *Sent.* d. 34. a. 2. q. 2.), et quod «purum malum non est possibile», dicente eodem (loc. cit. q. 1.); «sic[?] malum nullum[?] aliquod[?] esse[?] quod nihil habeat de bono, non solum est possibile, [?] sed etiam manifestae [?] caecitatis et stultitiae[?] [?] [?] quod «quamvis malum non subsit divinae[?] [?], tamen [?] [?]» (infra d. 46. q. 1. ad 3.[?]). [Reprobatio?] non habeat nisi causam deficientem[?]; in Deo aliquam causam, tamen potest «esse in [?] quae non est nisi veri[?]. Ad hoc autem, quod aliquid sit in Dei praescientia, sufficit, quod ipsum, vel eius causa, vel eius oppositum sit in Deo tanquam in causa» (ibid. q. 1. ad 4.). Quod posse facere malum non sit de ratione potentiae, explicatur infra d. 42. q. 2.
 
+**III.** Petr. a Tar., I. *Sent.* d. 36. q. 1. a. 1. 2, d. 38. q. 2. a. 2, d. 39. q. 2. a. 1. 2. — Richard. a Med., I. *Sent.* d. 35. q. 6, d. 36. a. 1. q. 1. 2, d. 38. q. 5. — Durand., I. *Sent.* d. 33. q. 1. 2. 3, d. 38. q. 3.
 
-
-
-                                                                                                                                            SCHOLIOK
-
-    I. Deum res creal^is cognoscere non tanlum secundum esse                                                                                                     condilionatis (Gotli, Theolog. Scholast. tom.                                                                                 I.       tr.       4. q.          5.       dub.
-           quod ab aeterno in ipso Deo habent, sed etiam
-inlelligibile ,                                                                                                                                                  S, q. 6. dub.                        2.).       — Scotus                        (hic          q. unica,                        n.           23,            d.       41.        q.
-secundum illud, quod in proprio genere habent est communis                                                      ,                                                unica, n. 10, Report. d. 40 q. unica) docet, divinam essentiam
-sententia Scholasticorum , excepto, ut videtur, Aureolo, et mani-                                                                                                repraesentare res                           ,
-                                                                                                                                                                                                                  quatenus determinate                                            futurae                         sunt,              ex de-
-feste a S.            Doctorc (hic ad                            3.)    asseritur.               Res igitur eliam in se                                          terminaiione                         suae         voluntatis.                    Hanc determinationem Mastrius
-ipsis       cognoscuntur         ,
-                                             quatenus sunt terminus divinae cognitionis.                                                                         (Disputat. theolog. tom.                                        I.    d. 3.          q. 3.                  a.       8.)               in sensu                     decreti
-Sed aliter dicendum                          ,    si       verba in se ipsis intelliguntur de medio                                                              concomitantis explicare nititur, quae expositio post                                                                                                  eum a plu-
-sivc raiione cognoscendi. Distinguitur igitur                                                              medium                       qm        ,      et      ribus recepta                        est.       Sed tum                       ipsa       verba Scoti                               ,        tum            auctoritas
-medium in quo. Medium quo                                                est       id     quod potentiam cogno-                                                  meliomm eius interpretum, ut Lycheti, Roda, Frassenii alio-
-scentem proxime habilem reddit ad cognoscendum                                                                            ,       et        vocatur              rumque plurimorum, probabiliorem reddunt aliam interpreta-
-etiam   medium no» cognitum, quod in nobis est species intel-                                                                                                    tionem, quae istam determinationem                                                                 intelligit in                             sensu decreto-
-ligibilis et etiam lumen intellectus agenlis. Medium in quo (me-                                                                                                 rum antecedentium, ita ut haec                     determinatio sit causa, quod
-dium cognitumj est                               id    quod cognitum                               ducit        in        cognitionem                            res a statu                 merae possibilitatis transeant ad existentiam in fu-
-alterius rei           ,   ut in speculo videntur res                                        ,        et in     principiis                         con-          turo infallibiliter                         quidem habendam, sed                                                     ita       ul contingenter et
-olusiones.            — Solam autem divinani essentiam                                                          esse               medium                        libere a sua causa                            proxima procedant.
-quo D.'us cognoscit                      ,       evidens                est        et    ab  omnibus receptum                                                                2.    S.        Bonav.               alio           loquendi                  modo                   utitur,                     scilicet                    quod
-eandeni solam esse etiam                                        medium m                 quo , ita ut Deus oninia                                                Deus         K    omnium ideas habet praesentes et simul, per quas co-
-creata cognoscat in sua essentia ut in                                                   medio cognito,                                     est sen-             gnoscit res futuras                              ita            cerlltudinaliter, siciit si essent praesen-
-tenlia       antiquorum Scholaslicorum. Unde Alex. Hal. (S. p. I. q. 23.                                                                                         tes    j>    (hic a. 2. q. 3.)                         ,       sivc aliis vcrbis :                                   «     Quia per exemplar
-m.     3.    a. i.) dicit: « ScienUa Dei, quae est adres, non estpo'                                                                                             (res)        repraesentalur, sicut                                    fulura              est           in       proprio                         generc, ideo
-res ; unde            cum ipse sit causa immulabilis, per causam immu-                                                                                           per existentiam in exemplari omnino cognoscitur,                                                                                                  sicut              futura
-tabilem ot necessai'iam                                cognoscit eliam                           contingenlia »                    .        Consen-              est,        nec       aliter          cognoscitur, postquam facta                                                             est »               (hic           ad 3.).
-tiunt S.          Thomas (3. c. Gent. I. c.                                        48.), B. Albert., Richard. a                                                  Haec formula loquendi                                      ,
-                                                                                                                                                                                                                                 quod Deus in suis ideis                                                          futura           omnia
-Med.        et S.      Bonaventura                         (hic    ad 2.           et    ad 6,             a.   2.        q.           1.        argg.           cognoscat, etiam nonnullis antiquioribus discipulis                                                                                                   S.    Thomae
-in   fundam. et in corp.).                            — Bene autem notandum                                         est       ,
-                                                                                                                                   quod (hic                     placuit (cfr. Mastrius, loc.                                         cit.       a.       1.),       sed a Scoto (hic q. unica,
-ad     2.)       dicitur de triplici                        modo        ,
-                                                                                 quo aliquid               exlra              cognoscen-                         n. 7.) improbatur ea ijraecipue ratione,                                                                quia ideae repraesentent
-leni existens ciignosci                               potest,            ne        quis          putot,             Deum                    ita        res       tantum res ut inere possibiies ;                                                         item               quia               repraesentent eas
-creatas cognoscere, ut eius scientia sit, sicut nostra, discursiva,                                                                                              solum ut ierminos simplices, nonautem, quatenus contingenter
-vel ut aspectus cognoscentis deflectatur                                                      ad        extra,                « sicut                  co-       hi termini                 copulantur in propositionibus coniplexis. Hae rationes
-gnoscit Angelus » (quod explicatur II. Sent. d. 3. p. II. a. 2. q.                                                                                     1.).      procedunt ex ea                             quam Scotus de ideis profitetur doctrina sed                                                                                 ,
-
-
-
-        Aliter censent plures                                   auctores               post        exortas saeculo XVI.                                          non valent,                   supposita          acceptione ideanm, quam profiletur
-controversias de divinis auxihis, qui docent,                                                              Deum res creatas,                                     S.    Bonav.           ,    ut        supra                d.        35.        q.       1.        in        Scholio                        commemoravi-
-prout sunl in se ipsis, cognoscerc non                                                   in        se ut        medio cognito,                                   mus. Idea enini ab ipso in sensu largiore accipilur, quatenus
-sed immediate in                ipsis.                 lidem            hoc            principium               applicant                         cum            repraesenlat non tantum                                          res in statu                           possibilitatis ,                               sed eUam
-Suarez ad cognitioncm conlingentium conditionatc futurornm,                                                                                             et       eas    ,
-                                                                                                                                                                             quatenus                 in     proprio genere                                existunt                       et                delerminalioneni
-dicunt, haec cognosci in veritate                                                 ipsorum obieciu-a,                                        antc        et       divinae voIuntaUs                                praesupponunl.                               Sumsit ipse hanc idearum
-independenter ab omni decreto volunlatis divinae. Huic senten-                                                                                                   significaUonem ex Dionysio (de Div. Nom.                                                                                 c.        5.       n. 8.           in fine),
-
-tiae    a mullis contradictum est, et eliam a                                                          non paucis defenso-                                       qui secundum versionem Corderii docet:                                                                           «       Exemplaria                        (jiapaSEf-
-
-ribus scienliao mediao, intcr quos est                                                       cl.      P.    Kleutgen                        S.    1.    in       Yiiocta)         dicimus essc rationes in Deo substanUficas rerum et unite
-pracclaro suo opcic                          :    Instilutiones                    theolog.                Ratisbonae                        1881,               praeexistentes                   ,
-                                                                                                                                                                                                       quas          divinus                     sermo vocat praedefinitiones                                                                   et
-
-lom.        1.   n.   548.                                                                                                                                       divinas atque bonas voluntates,                                                      rerum definitrices et effecUices,
-        II.       Incidimus hic in quaestionem difticillimam                                                          ,       et a               tribus          secundum quas qui                                  est           supra substanUam omnia                                                           ,
-                                                                                                                                                                                                                                                                                                                       quae sunt,
-saeculis inter theologos valde agitatam, de raiione sivc medio                                                                                                   praedefinivit ct produxit». Eliani S. Thoni.                                                                                   interdum ideas                                  in
-
-quo Deus cognoscit contingentia                                                  libera absolute vel conditionate                                                eodem largiore sensu accipit, ut de Veril. q. 3.                                                                                                 a.    6, ubi                 di-
-
-fulura.          Nostrum non                     est       de     tot sentenliis,                      circa   rem inhanc                                        slinguit          «    ideas quodammodo indeterminatas »                                                                               ,
-                                                                                                                                                                                                                                                                                                            quae respiciunt
-medium prolalis, iudicare; sed sufficiat,                                                          ut pnmo praeter iam                                           ea quae            nunquam sunt nec erunt nec fuerunt,                                                                                      et    ideam, quae
-nominatam alias                principaliores opiniones breviter referamus, et                                                                                   <!   ad ea quae sunt vel erunt vel fuerunt producenda determi-
-deinde sententiam                S.              Bonaventurae proponamus.                                                                                        natur ex proposito divinae voluntatis »                                                                          (cfr.                 ibid.          a.        1    ,        ubi
-            I.   Nominales hanc quaestionem                                              humano                 intellectui                        csse          idcra locus Dionysii refertur, el S. p.                                                                 1.       q.        14.              a.        13.).          Favet
-insolubilem afBrmant, atque                                        recurrunt                     ad inflnitam                     inlellectus                    etiam B. Albert. (hic                              a.           12.),           qiii       in           idea               duplicem ralionem
-divini perfeclionem                  ,           cuius           « acternus             oculus intuitivam omnium                                                 dislinguit, quatenus est                                        iux ut raUo                             cognoscendi,                                  et         vita ut
-
-rcrum visionem                  habet                  ,        immo         ,    ut    proprius loquar, ipse est                                                principium motus; et ut vita                                                    et lux est                           «   principium universi
-incomprehensibilis                       quaedam                        intuitio,            quae           immediate super                                      esse creati ». In                           Summa autem p.                                    I.    tr.          15. q. 60.                           m.        4.       a.    1.
-
-quamlibct rem actualiter                                     \el        possibililer exislentem simul fer-                                                       parUc.           5.        explicite dicit,                      quod Deus «per raUones exemplares
-tur »        (Grcgor. Ariminens.                            ,    hic q. 2. a.                    2.).      — Nonnulii                             inter          cognoscit, ut dicit Dionysius ».
-antiquiores                Tlwmistas ,                      inter           quos         Caprcolus                   et           Caietanus                       -          Quod autem S. Bonav.                                          ,    cum ideas dicit esse Deo raUonem
-clavem ad revelandum                                       hoc         secretum              se         reperisse                  putant in                     cognoscendi omnia                                alia           ab ipso, causalitatem divinae voluntatis
-vcrbis S.             Thomae (S. p.         quod Dei   intuilus
-                                                            I.    q.        14. a.       13.),                                         <t                        non excludat                     ,    sed praesupponat                               ,    ex multis                           locis              manifeste ap-
-ferlur ab aelcrno siipcr oninia, prout sunt in sua praesentia-                                                                                                   paret: v. g. hic                            a.    2.       q.        1.        inter alia dicit,                                   quod scienUa Dei
-litate i>,        de qua scnlcntia hic                             a.       2.    q.    3.       in    Scholio nonnihil di-                                      comparatur                   «       ad creaturam secundum raUonem                                                                           diversitatis                      el
+---
 
 ## English
 
-[Translation pending]
+<!-- page 688 -->
+
+### Question II.
+#### *Whether God knows all things other than himself.*
+
+Secondly, granting that God knows things other than himself, it is asked whether he knows *all* things other than himself. And that he does, [it] seems:
+
+1. By the authority of Jeremiah seventeen[^1]: *The heart of man is perverse etc.*, and after: *I am the Lord searching hearts and reins*; but nothing is more uncertain, nothing more hidden than our thoughts: therefore if he knows these, [he knows] all other things too.
+
+2. Likewise, to the Hebrews four[^2]: *All things are bare and open to the eyes of him to whom is our discourse.* And again: *The word of God is living and effective,* up to: *and there is no creature invisible in his sight.*
+
+3. Likewise, John final [chapter][^3]: *Lord, thou knowest all things.*
+
+4. Likewise, Augustine in the third [book] *On the Trinity*[^4]: «Nothing becomes visible nor intelligible which is not, from the inner and invisible court of the supreme Emperor, either commanded or permitted according to [his] ineffable justice of punishments and rewards and graces and merits». And if this [is so]: therefore he knows all things.
+
+5. Likewise, by reason it seems [so]: because the more spiritual and simpler a substance is, the more it is cognoscitive of[^5]; but God is a most simple and most spiritual substance: therefore he is cognoscitive of all things.
+
+6. Likewise, God is creator and rewarder; but inasmuch as he is creator he is artisan, inasmuch as rewarder he is judge; but a perfect artisan knows all things produced, a perfect judge all things to be rewarded: if therefore every creature pertains to [his] handiwork, and every good and evil to [his] judgment, therefore God knows every creature, and every goodness and malice.
+
+7. Likewise, it is impossible that anything be in which God is not by the presence of essence, as was proved above[^6]; but[^7] to whatever he is present by essence, [also by] cognition: therefore it is impossible that anything be unknown to God.
+
+8. Likewise, if he were in one thing in such a way that not in another, his essence would be limited: therefore if he so knew, that some things were unknown, his cognition would be limited and constricted, and so imperfect.
+
+<!-- page 689 -->
+
+**On the contrary:**
+
+1. Everything more noble is to be attributed to God; but «some things it is better not to know than to know», as Augustine says in the *Enchiridion*[^8]: therefore it is necessary to posit that God does not know those things.
+
+2. Likewise, our intellect, on account of its immateriality, does not understand singulars — whence, as the Philosopher[^9] says, «the intellect is of universals, and sense of singulars» — but the divine intellect is far more immaterial than ours; therefore if ours does not understand singulars, neither does the divine.
+
+3. Likewise, our scientific *habit*, on account of its certitude, is only of necessary things, and not of contingents, since Boethius[^10] says that «science is of those things which obtain unchangeable existence of themselves». If therefore divine cognition is far more certain than our science, it is plain etc.
+
+4. Likewise, what necessity is there to posit that God knows all things? And it seems [there is] none, because our cognition is no less called perfect, if it does not know one fly; if therefore divine cognition is far less perfected by the knowable, it will not be imperfect, if it does not know these vile [things].
+
+5. Likewise, just as God is[^11] omniscient, so he is omnipotent; but the power of evil is not part of omnipotence nor of the perfection of power; therefore likewise neither is the cognition of evil part of the perfection of knowledge, therefore etc.
+
+6. Likewise, the same is shown by authorities[^12], and first by the authority of Habakkuk[^13]: *Thy eyes are clean, Lord, lest they see evil etc.* Likewise of evils it is said in Matthew twenty-five[^14]: *I know you not.*
+
+### Conclusion.
+
+> *God by the cognition of simple cognizance knows all things, good and evil, but [by the cognition] of approbation only the good.*
+
+**I respond:** It must be said, for the understanding of the objections, that in God there is the cognizance of approbation, and of simple cognizance. And the cognizance of approbation connotes the complacency of the will. By this God does not know all things, since neither evils nor evil-doers, but only the good and the good-doers; and of this are understood the last two authorities[^15]. There is another cognition of simple cognizance; and this, since it has the *ratio* of knowing from Truth, which is the supreme light, to which nothing can be hidden, nor are even darknesses obscured before it[^16]; therefore of necessity it knows all things, great and small, good and evil, as the reasons for the first part show.
+
+*To 1.* To that which is first objected, that everything more noble is to be attributed to God; it must be said that there is what is better simply, and what is better for this [creature] and according to [its] state. I say therefore that to know all things simply is better and more noble; but for corrupt man, who takes occasion of sinning from cognition, it is better to be ignorant of certain things. Therefore it does not follow, that it [must] be attributed to God.
+
+*To 2.* To that which is objected concerning the immateriality of the intellect, it must be said that this — that it does not know singulars — comes not only from immateriality, rather from the materiality of the conjoined [body] and its own immateriality. For since it is conjoined to a body, it has powers according to which it depends on the body as regards [its] operation, and through which the intellect, while it is in the body, goes out to exterior things, since these [powers] are the means, namely the particular sense and imagination. Since therefore the singular does not arrive at the intellect except through these powers, and the ascent through these is according to abstraction and purification, and abstraction makes a universal of the singular[^17]; therefore [the intellect] cannot know singulars *as* intellect, unless the intellect be separated or divine.
+
+*To 3.* To that which is objected concerning the certitude of science, it must be said that this is not on account of certitude simply, but on account of certitude caused by the thing. And since certitude in our cognition is caused [by] or[^18] depends on the thing, therefore our cognition cannot be certain unless the thing be necessary. But divine cognition, since it is neither caused nor depends from the thing, can be certain about a contingent thing.
+
+*To 5.* To that which is objected, that the power of evil is not part of omnipotence; therefore etc; it must be said, that it is not similar, since rectitude, remaining rectitude, is the *ratio* of knowing evil; but rectitude is not the cause of evil, except by deviating from rectitude and falling away<!-- page 690 -->. Therefore to know evil is part of the perfection of knowledge, but to be able [to do] evil is not part of the perfection of power.
+
+*To 4.* To that which is asked[?], what necessity there is for God to know all things: it must be said that the infinity and immensity of truth, which does not allow anything to be hidden from God, just as the immensity of divine presence does not allow anything to be absent from God.
+
+### Scholion
+
+**I.** In this question[?] other particular questions [?] are treated by other masters, e.g. by Alex. Hal., *S.* p. I, q. 23, m. 2[?], a. 1–7[?] in distinct inquiries. In particular, the question is solved (m. 1) whether God knows singulars, where also the question is touched whether our intellect — for the state of the [present] Author[?] — directly knows singulars; which the Holy Doctor denies with Alex. Hal. (loc. cit. a. 6, ad 1) and St. Thomas (*S.* I, q. 86, a. 1). Otherwise thinks Scotus (II *Sent.* d. 3, q. 2, and passim), with Durandus and others. This difference of opinions hangs together with the controversy concerning the adequate object of the human intellect, whether it be *the quiddity of a material thing*, as the school of St. Thomas teaches, or *being most commonly taken*, as it is real being in common, not only the quiddity of a sensible thing, as Scotus thinks; concerning which there is diffuse disputation in the philosophical books of both schools.
+
+**II.** In the response and in the solution to [argument] 5 there is brief treatment of the cognition of evil. The matters here touched are more fully explained above at d. 36, a. 3, q. 1–2, and below at d. 46, q. 1–5. The ancient Schoolmen agree in this, that «evil is not known by God except through another[?], since it is of the *ratio* of evil that it be a privation of the good, and so it can neither be defined nor known except through the good» (St. Thomas, *S.* I, q. 14, a. 10, ad 4). The foundation of [this] doctrine is, that «evil is given subsistence in the good, and not only in the good, but even in the good [taken] in some way as opposed to itself» (St. Bonav., II *Sent.* d. 34, a. 2, q. 2), and that «pure evil is not possible», the same one saying (loc. cit. q. 1); «so[?] evil — that there be some [?] which would have nothing of the good — is not only [im]possible[?], but even [a sign] of manifest [?] blindness and folly[?]» [?] [?] that «although evil does not lie under divine [?] [?], nevertheless [?] [?]» (below d. 46, q. 1, ad 3[?]). [Reprobation?] does not have except a deficient cause[?]; in God [no] cause [is given], yet it can «be in [?] which is only of [the] true[?]. But for this — that something be in God's foreknowledge — it suffices, that itself, or its cause, or its opposite be in God as in [its] cause» (ibid. q. 1, ad 4). That to be able to do evil is not part of the *ratio* of power is explained below at d. 42, q. 2.
+
+**III.** Petr. a Tar., I *Sent.* d. 36, q. 1, a. 1–2, d. 38, q. 2, a. 2, d. 39, q. 2, a. 1–2. — Richard. a Med., I *Sent.* d. 35, q. 6, d. 36, a. 1, q. 1–2, d. 38, q. 5. — Durand., I *Sent.* d. 33, q. 1, 2, 3, d. 38, q. 3.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Vers. 9. et 1, ubi Vulgata pro *hominis* exhibet et voci *renes* praemittit *probans*. — Mox pro *incertius* codd. *interius*.
 
-## Notes
+     **En.** Verses 9 and 1, where the Vulgate, in place of *hominis*, has [a different reading], and prefixes *probans* to the word *renes*. — Soon, in place of *incertius* codices [read] *interius*.
 
-[Notes pending]
+[^2]: **La.** Vers. 13. Textus sequens ibid., ubi pro *aliqua creatura* Vulg. *ulla creatura*.
+
+     **En.** Verse 13. The following text [is from] the same place, where in place of *aliqua creatura* the Vulgate [has] *ulla creatura*.
+
+[^3]: **La.** Vers. 17.
+
+     **En.** Verse 17.
+
+[^4]: **La.** Cap. 4. n. 9. In textu originali pro *visibile nec intelligibile* legitur *visibiliter et sensibiliter*, et in fine *retributionum* pro *meritorum*.
+
+     **En.** Chapter 4, n. 9. In the original text, in place of *visibile nec intelligibile* there is read *visibiliter et sensibiliter*, and at the end *retributionum* in place of *meritorum*.
+
+[^5]: **La.** Cfr. liber *de Causis*, prop. 10, et Aristot., III. *de Anima*, text. 3. seqq. (c. 4.).
+
+     **En.** Cf. the book *On Causes*, prop. 10, and Aristotle, III *On the Soul*, text 3 ff. (c. 4).
+
+[^6]: **La.** Dist. 37. p. I. a. 1. q. 1. seqq. — In propositione minori, quae sequitur, inter verba *et cognitionem* supple ; *praesens est per*. Ratio sententiae in hac propositione minori enuntiatae est, quia in Deo essentia idem est ac cognitio. Pro *cuicumque* multi codd. cum ed. minus concinne *cuique*.
+
+     **En.** Distinction 37, p. I, a. 1, q. 1 ff. — In the minor proposition which follows, between the words *et cognitionem* supply ; *praesens est per* ["is present by"]. The reason of the sentence enunciated in this minor proposition is, that in God essence is the same as cognition. In place of *cuicumque* many codices with the [printed] edition, less elegantly, [read] *cuique*.
+
+[^7]: **La.** Cum codd. D PQ (T a secunda manu) et ed. 1 posuimus *si ergo* pro *sed*, quod exstat in Vat.
+
+     **En.** With codices D, P, Q (T from a second hand) and ed. 1 we have placed *si ergo* ["if therefore"] in place of *sed* ["but"], which stands in the Vatican [edition].
+
+[^8]: **La.** Cap. 17. n. 3. Et Aristot., XII. *Metaph.* text. 31. (c. 9.): «Etenim quaedam melius est non videre quam videre».
+
+     **En.** Chapter 17, n. 3. And Aristotle, XII *Metaphysics* text 31 (c. 9): «For there are some things [of which] it is better not to see than to see».
+
+[^9]: **La.** Multis locis. Cfr. I. *Poster.* c. li. 20. 24. (18. 21. 31.) [?]; II. *de Anima*, text. 60. (c. 3.); I. *Metaph.* c. 1.
+
+     **En.** In many places. Cf. I *Posterior [Analytics]* c. [?] 20, 24 (18, 21, 31); II *On the Soul*, text 60 (c. 3); I *Metaphysics* c. 1.
+
+[^10]: **La.** Libr. I. *de Arithmetica*, c. 1: «Est enim sapientia rerum, quae sunt suique immutabilem substantiam sortiuntur, comprehensio veritatis». Idem docet Aristot., I. *Poster.* c. ult., et VI. *Ethic.* c. 3. 6.
+
+     **En.** Book I *On Arithmetic*, c. 1: «For wisdom is the comprehension of [the] truth of [those] things which are and which obtain their unchangeable substance». The same is taught by Aristotle, I *Posterior [Analytics]* c. ult., and VI *Ethics* c. 3, 6.
+
+[^11]: **La.** Vat. cum cod. cc *dicitur*. Mox post *potentiae* Vat. adiungit *naturaliter*.
+
+     **En.** The Vatican [edition] with codex cc [reads] *dicitur* ["is said"]. Soon, after *potentiae* the Vatican adds *naturaliter* ["naturally"].
+
+[^12]: **La.** [Marker apparently linking to Habacuc and Matth. citations that follow.] [?]
+
+     **En.** [Marker apparently linking to the Habakkuk and Matthew citations that follow.] [?]
+
+[^13]: **La.** Cap. 1, 13, ubi Vulgata, omissa voce *Domine*, prosequitur: *ne videas malum*. Nostra lectio, ut testatur editio Hieronymi, alias erat in usu.
+
+     **En.** Chapter 1, [v.] 13, where the Vulgate, with the word *Domine* omitted, continues: *ne videas malum*. Our reading, as the edition of Jerome attests, was elsewhere in use.
+
+[^14]: **La.** Vers. 12.
+
+     **En.** Verse 12.
+
+[^15]: **La.** Quae litteruntur[?] in 6. arg. ad opposit.
+
+     **En.** Those [authorities] alleged[?] in the 6th argument *ad oppositum*.
+
+[^16]: **La.** Psalm. 138, 12: *Quia tenebrae non obscurabuntur a te*.
+
+     **En.** Psalm 138 [Vulg.], 12: *For darknesses are not obscured by thee*.
+
+[^17]: **La.** Sicut intellectus in eliciendo cognitione[m] exteriorum, per medias i. e. sensibiles potentias quasi exit et descendit ad exteriora, sic singulare sive species, quam singulare generat in medio et organo, intrat et ascendit a sensu particulari ad sensum communem indeque per phantasiam usque ad intellectum. Sic ascendens species abstrahitur et depuratur a conditionibus singularibus sive individuantibus. Cfr. *Itiner. mentis in Deum*, c. 2, et Aristot., III. *de Anima*, text. 39. (c. 8.). — Mox pro *ut intellectus* cod. *noster intellectus*, et subinde multi codd. ut CGHKLORSUVY prosequuntur: *non sic intellectus et divinus*.
+
+     **En.** Just as the intellect, in eliciting cognition of exterior things, through middle (i.e. sensible) powers as it were goes out and descends to exterior things, so the singular — or the *species* which the singular generates in the middle [body] and the organ — enters and ascends from the particular sense to the common sense, and thence through phantasy up to the intellect. Thus the ascending *species* is abstracted and purified from singular or individuating conditions. Cf. *Itinerary of the Mind into God*, c. 2, and Aristotle, III *On the Soul*, text 39 (c. 8). — Soon, in place of *ut intellectus* a codex [reads] *noster intellectus*, and thereupon many codices such as CGHKLORSUVY continue: *non sic intellectus et divinus*.
+
+[^18]: **La.** Pro *vel* cod. *necessario*.
+
+     **En.** In place of *vel* a codex [reads] *necessario*.
