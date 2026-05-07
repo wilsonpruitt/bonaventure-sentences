@@ -1,0 +1,3 @@
+# d.36 a.3 q.2 — Tier-2 ambiguities
+
+**bon-sent-I-d36-a3-q2, Scholion opening**: OCR reads `qiiuleruis formalUer dicunt pnonSoHm` for what is clearly `quatenus formaliter dicunt privationem`. The first two words restored silently from context (standard scholion idiom). `pnonSoHm` is a heavy OCR garble; restored as `privationem` based on (a) the immediately following clause "non habeant ideam propriam" (privation correlates with absence of proper idea, the central claim of the question) and (b) the parallel phrase "ratione rei positivae, quae substat privationi" two lines later. → Currently rendered `privationem[?]` in both Latin and English. Resolve at d.40 polish pass with 600dpi PDF eyes-on of p. 629 (PDF p. 219).

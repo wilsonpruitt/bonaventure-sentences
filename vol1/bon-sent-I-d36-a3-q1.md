@@ -11,263 +11,194 @@ title_en: "Whether evils are in God"
 printed_pages: [625, 626, 627]
 pdf_pages: [215, 216, 217]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 625–627"
+has_scholion: true
+has_apparatus: true
 line_start: 20869
 line_end: 21105
-word_count_latin: 2158
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+word_count_latin: 1450
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 20869–21105 of pt2), fresh literal English translation, full apparatus from raw OCR (13 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d36-a3-q1
+## *Utrum mala sint in Deo*
+
+---
 
 ## Latin
 
-       sae; et similiter patet,                              quomodo ratione                     potentiae                  artiflce          creato dicuntur vivere, sed in                               Deo non tan-
-       et notitiae ,              et       voluntatis          ;     et "      solvitur          illa        quae-          tum dicuntur vivere, sed etiam ipsa vita, quia ipsa
-       stio,      secundum quod genus causae,                                          vel       secundum                   ratio cognoscendi in Deo est ipsa intelligentia.                                                          —
-       quam trium conditionum dicuntur res esse                                                        in        Deo.       Ratio autem dicendi fuit haec.                                    Cum enim res ha- n.uio
-       Patet etiara. quae in Deo dicuntur vita, scilicet omnia                                                              beant esse in Deo et etiam in universo et diversi-                                 ,
+<!-- page 625 -->
 
+### Articulus III. *De numero sive generalitate existentiae, quam res habent in Deo.*
 
+Tertio loco est quaestio de tertio articulo, scilicet de generalitate existentiae rerum in Deo, et circa hoc quaeruntur duo. Primo quaeritur, utrum mala sint in Deo. Secundo, utrum in Deo sint imperfecta, secundum quod huiusmodi.
 
+### Quaestio I.
+#### *Utrum mala sint [in Deo].*
 
-       quae sunt         tanquam in exemplari.
-                              in ipso                                                                                       mode, quia aliqnas proprietates habent secundum
-           1. Ad illud ergo quod obiicitur, quod in Deo                                                                     existentias in            mundo, quae non competunt eis,                                                 se-
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives first the Latin source text (**La.**), then the English rendering (**En.**).
 
-,|i-   movemur etc. intelligendum est quantum ad ter-
-                                       ;                                                                                    cundum quod sunt in Deo: ideo non solum dixit:
-'"'
-       tium       modum essendi in Deo, scilicet per                                              conserva-                 Quod factum est in ipso erat, sed vita, ut omnes
-       tionem. Deus enim conservat                                       in    nobis vitam et ope-                          illae        conditiones excluderentur.                           Creaturae                  enim         in
+Quod autem mala non sint in Deo, videtur.
 
-       rationem et essentiam                        ;    et         quantum ad hoc                      intelh-             mundo habent esse corporale,                                      variabile                 et    corru-
+1. Augustinus *de Libero Arbitrio*: «In tantum res recte vituperantur, in quantum earum vituperator artem, in qua factae sunt, videt, ut hoc in eis vituperet, quod in arte non videt». Si ergo vituperantur quantum ad malitiam sive in quantum mala; et hoc modo non videntur in Deo: ergo hoc modo non sunt in Deo.
 
-       gitur dictum illud                      verbum.                                                                      ptibile.          Quoniam enim « vita est actus spirilualis et Quid
-               Ad illud quod dicitur: ratione cuius res di-
-                  2.                                                                                                        continuus,             fluens ab ente quieto et sempiterno '»,
+<!-- page 626 -->
 
-       cuntur     Deo vita etc: dicendum, quod ratione po-
-                       in                                                                                                   perfecte dictum est                    ,
-                                                                                                                                                                        quod res sunt                in    Deo               vita , ut
+2. Item, «omne quod est in Deo, est ex ipso et per ipsum», ut dicit Augustinus, et Magister in littera[^1]; sed mala numquam sunt ex Deo nec per Deum: ergo nec in Deo.
 
-       tentiae et notiliae simul, quia isla duo concurrunt                                                                  per spiritualilatem excludatur corporeit.is, per quie-
-       ad rationem exemplaris;                                     non        enim      est       exemplar                  tem          variabilitas,        per            sempiternitatem                        corruptibi-
+3. Item, omne quod est in Deo, aut est sicut in principio producente, aut sicut in exemplari exprimente, aut sicut in fine[^2] conservante; sed constans est, quod Deus non est principium producens mala, nec etiam conservans. Item, non est exemplar exprimens, quia ratio exemplaris attenditur secundum assimilationem; sed Dei ad malum nulla est assimilatio: ergo mala nullo modo sunt in Deo.
 
-       Deus nisi eorum quae cognoscit et potest.                                                                            litas.
+4. Item, quanto aliquid melius est, tanto magis distat a malo; sed Deus est optimus, quo nihil melius potest cogitari: ergo tanta distantia differt[^3], quanta nulla maior potest cogitari. Sed magis distat a malo quod nec habet veritatem malitiae nec similitudinem, quam quod habet saltem similitudinem, et in quo nullo modo est malum, quam in quo aliquo modo est: ergo etc.
 
+**Contra:**
 
+1. Omne quod cognoscitur ab aliquo, qui est sua cognitio, est in illo tanquam in cognoscente; sed Deus cognoscit mala, quia ea punit et reprobat, et Deus est sua cognitio: ergo mala sunt in Deo. Minor patet, maior similiter, quia omne cognitum est in cognitione[^4]: si ergo idem est cognitio et cognoscens, ergo si est in cognitione, et in cognoscente.
 
+2. Item, omne quod cognoscitur in aliquo, est in illo in quo cognoscitur; sed mala cognoscuntur in Deo: ergo sunt in Deo. Probatio minoris: mala cognoscuntur a Deo — constat — aut intra se, aut extra: non extra, hoc constat, quia divinus aspectus non exit extra, tunc enim indigeret alio ad cognoscendum[^5]. Et iterum, Angeli cognoscunt mala in Deo. Unde Augustinus *super Genesim ad litteram*[^6]: Angeli vident in illo bona nostra, quae eis placent, et mala nostra, quae eis displicent.
 
-                                                                                                        SCHOLIOK
+3. Item, omne quod cognoscitur in aliquo, et non per accidens, est aliquo modo in illo sicut in exemplari; sed mala cognoscuntur a Deo, sed non per accidens, quia nihil per accidens cognoscit, sed omnia per se: ergo mala sunt in Deo.
 
-             1.    Quaeslio haen aliquatenus cohaeret                               cum \erbis S. loan-                     quod factum est in           ipso vita emt (vide arg. I. in fundam.).
+4. Item, omne quod cognoscitur ab aliquo non per privationem, cognoscitur per similitudinem et ideam; sed in Deo non cadit cognitio per privationem, quia nulla potest in illo exemplari esse privatio, cum sit purus actus[^7]: ergo si cognoscit mala non cognoscit per privationem, sed per similitudinem. Sed similitudo est idea in Deo: ergo mala habent ideam in Deo.
 
-       nis (1, 3. L), quae in mullis antiquis s. Scripturae e.\empla-                                                       Vulgata nunc           cum S. Irenaeo, S. Ilieronymo aliisque PaU-ibus
-       ribus et a multis Patribus, praeserlim Latinis (ut a Tertulliano,                                                    haBet: quod factum est. In ipso vita erai.                            — Notanda                    est diP-
+### Conclusio.
 
-       S.   Ambrosio,          S.      .^ugustino) sic              distribuebantur         ,   ut legeretur                ferenlia (in solut.        ad     4.       posita) inter vioere et esse vita. Illud
+> *Deus mala cognoscit, ipsa tamen non sunt in Deo nec habent ideam in eo, sed cognoscuntur per ideam bonorum, quorum sunt privationes.*
 
+**Respondeo:** Dicendum, quod mala a Deo cognoscuntur, non tamen in Deo existunt secundum quod mala, quia sic loquimur in proposito. — Ideo, inquam, cognoscuntur, quia sicut «rectum est iudex sui et obliqui[^8]», sic summa veritas et lux et actus est ratio cognoscendi non tantum veritatem et lucem et actum, sed etiam obliquitatem, tenebram, et privationem. Unde lux se ipsa tenebram cognoscit[^9].
 
+Non sunt autem mala in Deo, quoniam illa dicuntur esse in Deo, ad quae cooperatur Deus secundum aliquod genus causae, et maxime secundum genus causae formalis et exemplaris; malum autem non habet Deum pro causa[^10], nec pro
 
+<!-- page 627 -->
 
-             '    Pro in ratione Vat. hic                      et sic suni ibi ratione,                 et paulo            et paulo infeiius         cum cod. T et pluribus aliis nec non cum ed.
-       ante bis ibi raiione.                Pro in ratione               notitiae      non       pauci           codd.      I   |iro      quo dicitur substituit quod dicitiir.
-       tantum raiione               notitiae.    Mox           post  Primo modo, quia                             Vat.             "     Libr. 83 Qq. q. 40, et longius in Traci.                         I.       in loan. n. 16.
+exemplari, quia malum ratione malitiae dicit solum *privationem*, exemplar autem, secundum quod huiusmodi, dicit *assimilationem*. Quoniam igitur privatio, secundum quod huiusmodi, nulli est assimilabilis, hinc est, quod nec malum nec falsitas habet ideam in Deo; suum autem oppositum est assimilabile. Unde cum uno et eodem cognoscat Deus bonum et malum sibi oppositum, bonum cognoscit secundum rationem assimilationis; et ideo bonum est in Deo ut in exemplari et ut cognitum per se et per modum positionis. Malum autem cum cognoscatur a Deo, non habet in ipso ideam, ideo non est in Deo, quamvis sit in Dei cognitione: quia, quamvis cognoscatur a Deo, non cognoscitur per ideam sui, sed boni, cuius est privatio. Et ideo dicitur cognosci per accidens et per privationem.
 
-       adiungit sunt              in       Deo sicui;          deinde post omnino sunt                            Vat.      seq.         .\liquanto inferius pro qiii esl acius cod.                  Y qme est attus.
-       contra cod.  T cum pluribus aliis et ed.  addit in Deo.                  1
-                                                                                                                                   '     Libr. de Causis, prop. 18:               «   Quia vita est processio pro-
-             - Supple cum Vat. in Deo. .Uiquanto inferius pro cogno-                                                        cedens ex ente primo quieto sempiterno,                             et motus similiter pri-
+1. Ad illud ergo quod obiicitur, quod malum est in Dei cognitione, et cognitio est Deus: ergo etc.; dicendum, quod hic est fallacia secundum accidens[^11]. Quamvis enim idem sit cognitio Dei quod Deus, tamen aliud connotat, sicut potentia et sapientia. Unde sicut non sequitur: *est in Dei notitia, ergo et in potentia*, immo est ibi accidens et consequens; sic et in proposito.
 
-       scibilia codd. aa            bb bene possibilia. .Noslram lectionem inlellige                                        mus ». Quae propositio recurrit etiam in libro de Motu                                                 cordis
+2. Ad illud quod obiicitur, quod malum cognoscitur in Deo, ergo est in Deo; dicendum, quod nec illud sequitur: plus enim dicit *esse in Deo* quam *cognosci a Deo* vel *in Deo*. Cum enim dicitur aliquid cognosci a Deo, per hoc intelligitur, quod Deus sit ratio cognoscendi illud; sed cum additur, quod hoc sit *in Deo*, significatur, quod Deus sit ratio cognoscendi ut exemplar et per assimilationem; et ideo est ibi consequens.
 
-       quae sunt cognoscibilia per propriam ideam. Mala enim                                                 ,    licet     (ab Alfrcdo Anglico circa                  a.   1220 scripto et ad Magistrnm Alex-
-       sint Deo cognoscibilia ,               non habent propriam ideam.                          iNoraine en-              andrum iNeckam directo, quo libro Scholastici saepius utebanturj
-       tium notantur quae existunl sive                             actualiter sive in futuro.                              his vcrbis (c. I.): Prima ergo et aequalis et continua est vita,
-             3    Sic cod.          T et plures              alii   codd.      nec     nnn       ed.    I,       Vat.       primus enim formae actus est. Est onim primus motus e quielo
-       adiungit        sic.                                                                                                 sempiterno lluens (ed. Barach, Innsbruck 1878).                                —            In flne solu-
-             •"
-                  In   cod.            hic recte additur dist.                 33. q. 4. (ad .3. et i.).                    tionis       pro sempitenutatem                 multi codd.        cum    ed.           I    simplicita-
-             =    Cod.        W   subiicit scilicet sapientia , essentia, intelligentia                                     iem; perperam.
+3. Ad illud quod obiicitur, quod cognoscit non per accidens mala etc.; dicendum, quod cognosci per accidens hoc est dupliciter[^12]: aut a parte cognoscentis, aut cogniti. In Deo nulla cadit cognitio per accidens a parte cognoscentis, quia omnia cognoscit se ipso; tamen cadit a parte cogniti, quoniam aliquid cognoscit per similitudinem suam, ut bonum, aliquid per similitudinem sui oppositi; et ita est ibi per accidens, non in decurrendo, sed in assimilando. Cum enim Deus cognoscit malum, non intelligitur assimilari ei, sed suo opposito.
 
-                                                                                                    :                                   :                                                                                                                                                           ,
+4. Similiter solvendum est de privatione: quia cognoscere per privationem est dupliciter: aut ita, quod sit privatio in virtute cognoscente, sicut cognoscit aliquis silentium et tenebram per aurem et oculum[^13], et sic ponit imperfectionem; aut ita, quod sit privatio in cognito, non in cognoscente, sicut lux cognosceret tenebram, si haberet vim cognitivam, et sonus silentium: et sic cognoscit Deus, quoniam est actus purus et lux et veritas.
 
+### Scholion
 
+**I.** Agitur hic de malis *secundum quod mala*, id est secundum *formale* mali, quod est privatio, non secundum *materiale* sive substratum eius (cfr. II. *Sent.* d. 34. a. 2. per totum, et d. 35. a. 2. per totum, d. 37. a. 2. q. I.). Tota solutio eruitur ex hoc principio, quod *aliud est cognosci a Deo, aliud esse in Deo*, quod explicatur in solut. ad 2, et hic dub. 1. 2. — Quod malum non habeat ideam in Deo, et quod cognoscatur per ideam sui oppositi, communiter ab antiquis docetur. De modo, quo Deus mala cognoscat, cfr. d. 39. a. I. q. 2, et *Scholion*.
 
+**II.** Alex. Hal., *S.* p. I. q. 23. m. 3. a. 3, et m. 4. a. 2. — Scot., de hac et seq. q. *Report.* hic q. 3. — S. Thom., hic q. 1. a. 2; *S.* I. q. 18. a. 3. ad 1; *de Verit.* q. 3. a. 4. — B. Albert., hic a. 6; *S.* p. I. tr. 13. q. 38. m. 2. a. 3. q. incid. — Petr. a Tar., hic q. 1. a. 1. et 3. ad 2. — Richard. a Med., hic a. 1. q. 2. — Durand., hic q. 1. — Dionys. Carth., hic q. 5.
 
-                                                                                                         DIST. XXXV[. ART.                       [I.         QUAEST. II.                                                                                                                    623
-
-          dici potest               etiam de rationibus                             in    mente         artificis         creati;     hoc   existendi,                   ita   sunt rebus causa cognoscendi, in quantum scilicet
-          aulem non                  nisi       de rationibus                   in       exemplari            divino.          Consentit    imprimuntur                        intellectualibus                        mentibus,                    ut sic res cognoscere
-          S.    Tliom.          ,    de Verit.             q.    i.   a.       8.    ad 2.                                                  possint; et idco, sicut dicuntur vita, prout sunt principia exi-
-
-                 II.       Priniam opinionom                          in respons.               positam         cum            Seraphico    stendi,                ita    dicuntur lux,                           prout sunt principia cognoscendi                                                ».
-
-          etiam Angelicus aliiquc doctores plurimi improbant.                                                                  Communi      —      Deflnitio vitne                       hic posita                    invenitur etiam                             apud          Alex.      Hal.
-          opinioni conformis est etiam distinctio,                                              quod res «no modo sint                      S.    p.         II.       q. 87.       m.       I.    a.    I    ,    et a. 2..               g 3       (cfr.          supra pag. 624,
-          in    Deo ut in                principio prodwccnte, ratione potentiae, afio niodo                                                nota             7.).
-
-          sicut in cognoscente                          sive ut in                  exemplari exprimente                        (et   hoc                  m. Alex.             Hal., S. p.              1.       q.       23.        m.      4.     a.    ].%           4, et p.           II.   g.
-          modo res sunt vita in Deo),                                          tertio          modo, ut         in /ine conser-             3.    m.          3. a. 2.         q.    collat.           —     Scot.,             de hac et seq.                       q. hic q.             unica
-          vante, ratione voluntatis, quia disposiiio voluntatis spectat                                                                ad   n.     20.         —         S.     Thom.,                 hic q.              I.       a.    3;        S.    I.       q.    IS.       n.      5:     dc
-          causam finalem,                           ut docetur infra d. 40. dub. 7.                             —        Notabilis est      Verit. q. 4. a. 8.                           —        B.    Albert.,                I.       Sent. d. 3S.                   a.   1   2.   —     Petr.
-          solutio         ad        4.   Quod rationes rerum in Deo « sunt etiam ratio                                                      a     Tar.,                hic q.       I.   a.       3.    ad i.           —           ftichard. a Med., hic a.                                1.    q.
-          intelligendi » ,                S. Thom. ( de Verit. loc. cit. ad 4. ) sic expla-                                                 3.    —          .Egid. R., hic 2. princ. q.                                         I.      — Dionys.                  Carth., hic q.                 I.
-
-          nat:       «    Similitudines                rerum in Verbo, sicut sunt rebus causa                                               —      Biel ,              hic q. unica.
-
-
-
-
-                                                                                                                                    QUAESTIO II.
-
-
-                                                                Utrum res verius esse habeant in Deo quam in proprio genere.
-
-
-
-                     Secundo quaerilur, utruni res                                                       sint in               Deo ve-      priam entitatem, quam ubi                                                                 solum secundum simi-
-          rius       quam in universo sive                                               in     proprio             genere.            Et   litudinem; sed in Deo                                                   est              homo                 et        lapis             et     alia
-          quod verius sint in Deo                                          ,        videtur                                                 secundum similitudinem                                                     :        ergo "              etc.
-
-                     1.       Per Augustinuin quinto super Genesim ad lit-
-se-pmteram':                    « Omnia,                    priusquam                     fierent, erant                       in noti-                                                            c          NcLuS                       I   0.
-
-m. "      tia    facientis et utique ibi                                        meliora, ubi aeterna , ubi
-          veriora et incommutabilia».                                                                                                       Res, si                     comparantur ad se ipsas secundum diver-
-                     2.       Item , « unumquodque sicut se habet ad esse,                                                                                   sum modum existendi , habent verius esse in
-          ita    ad cognitionem'»; sed creaturae verius cogno-                                                                                                            quam in cognoscente ; si vero
-                                                                                                                                                             proprio genere
-          scuntur in Deo quam in proprio genere: ergo et ve-                                                                                                 comparantur cum sua similitudine, quae in
-          rius sunt in Deo.                                                                                                                                  Deo           e.st,         tunc                similitudo                             verius habet                            esse
-                     3.       Item        ,     « omne            quod est in aliquo est in eo                      ,                                        quam ipsa res iii mundo.
-          per        modum eius in                               quo est^»; sed Deus est in in-
-          flnitum nobilior      mundo: ergo in inflnitum nobiliori                                                                                           Respondeo          Dicendum quod triplex est exi- Tnpiep
-                                                                                                                                                                                         :
-                                                                                                                                                                                                                                ,
-
-
-
-          et veriori       modo sunt res in Deo quam in universo.                                                                           stentia                    rerum, scilicet in exemplari aeterno, et in
-                     4. Item  nobilius et verius est esse vitae quam
-                                          ,                                                                                                 intellectu creato, et in ipso                                                            mundo '. In exemplari
-          non viventis; sed omnia vivunt in Deo, ut supra                                                                                   aeterno el                         in    intellectu creato                                        sunt                 res       secundum
-          monstralum                          est * ,           non autem                      in       genere             proprio          similitudinem ; in                                         ipso        mundo secundum entitatem
-          ergo           etc.                                                                                                               propriam.                          — Quando ergo                                             qu:ieritur, in                          quo        sint
-                     CoNTRA:                    1.    Verius est res, ubi est simpliciter,                                                  verius                 ,   hoc dupliciter potest                                              quaeri               :    aut          ita       quod ^'sunc
-j^parie   quam ubi est solum secundum quid                                                                ;     sed    Deo     in           fiat           comparatio eiusdem rei ad se secundum diver-                                                                                                 ,
-
-
-
-
-          solum dicilur esse secundum quid                                                               —     quia non se-                 sum modum existendi, ut sit sensus: ubi lapis ve-
-          quitur          :    asinus est in Deo , ergo                                             asinus esl                 — sed        rius habet esse, vel cum est in cognoscente ve\°
-          in    proprio genere sim,pliciter : ergo                                                       ibi verius.                        producente, vel cum est in se; et hoc modo con-
-                     2.       Item, verius est res, ubi esl secundum prin-                                                                  cedendum est                             ,
-                                                                                                                                                                                         quod verius est unaquaeque res                                                                           in ^-""1'"
-          cipia intrinseca et                               proxima                 ,
-                                                                                         quam ubi est ^ in prin-                            proprio genere                               quam in Deo, sicut probant rationes
-          cipio extrinseco et                                   remoto; sed res in                mundo sunt                                ad hoc inductae. Alio modo potest                                                                             fleri          comparatio
-          secundum principia intrinseca,                                                       in       Deo autem ut in                     rei         ad suam similitudinem ,                                                               ut          sit       sensus quae-
-          principio extrinseco: ergo etc.                                                                                                   stionis:                   quid habet esse verius                                                  et nobilius,                           utrum
-                     3.       Iteni ,           verius est res, ubi est                                   secundum pro-                     ipsa res, vel eius similitudo? Et hoc                                                                                   modo simpli-
-
-
-
-
-                 '       Cap. 13.             n.     33.                                                                                    videtur, quia in                         Deum nihil potest recipi.                                           —         .Mox pro             mundo
-                 °       Aristot.,            II.    Metaph.          text.         4.   (I.    brevior        c.       I.).   In   textu   codd.             V W creatura.
-          originali           pro cognitionem exstat veritatem.                                                                                        *      Quaest. praeced.                    — Paulo superius pro vitaecod.                                                      viventis.
-                 5       Pro quo communiter dicitur cum auctore                                                libri       de Causis,                  '=•
-                                                                                                                                                              Codd. aa bb postest interiiciunt ut
-          prop. 10. 12. 20. 24:                            Omne quod recipitur in aUquo, est in eo                                                     "      Hoc argumentum insinuatur ab Anselmo, Monolog. c. 36.
-          per modum recipientis, et non recepti.                                                    Cfr. et     Boeth.,             V. de              '      Sccundum .\ugnst., II. Genes. ad lit. c. 8. n.                                                                     16.
-          Consol. prosa                  4.         Mutatio       verborum huius axiomatis facta esse                                                  8      Codd.            PQZ cum ed.                         I       melius             et.
-
-                                S. Bonao.              — Tom.                  1.                                                                                                                                                                                        79
-
-                                                                                                                                            ,
-
-
-
-
-                                                                                                                            SENTBNTIARLIM              LIB.        [.
-
-
-
-
-      j-xciler             concedendum                       ,        qnod similitudo                                 rei    verius el          de      comparatione                            esse               ad          cognoscere;             dicendum, aj 3.
-             nobilius esse habet in Deo, quam ipsa res in                                                                          mnndo        quod          illud         generaliter intellectum,                                                quod res ibi''^"'"
-             ratione eius                       quod         est; quia est ipse                                     Deus. Et            con-    est verius, ubi                           verius cognoscitur,                                      non habet ve-
-             cedendae snnt rationes ad hoc inductae.                                                                                            ritatem.               Contingit enim                                cognoscere quod                        non       est:
-                          Adhuc similitudines rerum                                                  in        intellectu creato                et     ideo        sicut                 ad     cognosci non sequitur esse-,                                               ita
-
-      „,„.   verius et nobilius habent esse quani res in nniverso                                                                               nec ad vere cognosci vere esse, nec ad verius cogno-
-             ul    dicit                 Augustinus de Trinitate ', non ratione eius                                                            sci    verius esse. Quando ergo dicitur, quod unumquod- voi,i„dt'
-             quod sunt, sed                            ratione eius                       m quo                ,    quia sunt no-               que sicut se habet ad esse,                                                   ita    ad cognitionem, hoc
-             biUori             etmodo similitudines in intelle-
-                                          spirituahori                                                                                          intelligitur,             quia eadem principia, quae sunt principia
-             ctu cognoscente, quam sint ipsae res in mundo con-                                                                                 essendi, sunt principia cognoscendi ; sed tamen i)rinci-
-             tentae.                Et sic patent rationes                                 ad utramque partem.                                  pia essendi conferunt esse per se ipsa, sed cognitionem
-                          2.         Tanien                ad         illud              argumentum, quod fit                                   non conferunt per se, sed per suas similitudines l
-
-
-
-                                                                                                                                   SOHOLIOK
-
-                     I.       Iii   liuc qiiaeslione              solvcnda anliqui                    Scholiistici               non iisdein    gnet veritatem rei,                           sic    procul dubio                        maior est \erilas rerum
-             distinctionibus et loquendi modis iituntui'; taincn in ipsa doctrina                                                               in    Verbo, quani                   in    se ipsis. Si                   autem dcsignetur yeritas pra«-
-             yix    dilTeiunt,                  quidquid          nonnulli diciinl.                       S.       Boniiv.   ,    supposita     dicatioms, sic est e converso ». Paulo                                                   aliter,   sed in eodem sen-
-             communi docti-inii, iiuae triplicem esse ivrum existcnliiim aflii--                                                                su, S.        Thom. in Sum. I. q.                                   18.       a.    4.   ad 3,      et hic q. 1. a. 3.
-             mat,         distiiiguit           duplicem conipanitioneni.                                 In       prima comijaratur            ad 2. docet, quod res « veriiis esse habent simpliciter                                                        in    mente
-             diversiis modiis essendi eimdem rei,                                          ita   ul to verins referatur ad                      divina»;           i    sed esse hoc, utpote                                  homo vel equus, verius ha-
-             gradum essendi idealiter, vel realiter; et tunc rcs realiter exi-                                                                  bent in propria natura                              quam in mente divina ».                           —    In solut.       ad
-             stens        I    verins habet esse >. In secunda comparatur veritas et                                                            2.    egregio explicatur dictum Aristotelis, a non paucis male appli-
-             nobilitas essendi                       rei    realiter et similitudinis                              idealiter existentis,        catum,         scil.     quod unumquodque,                                         sicut    se habet       ad esse,        ita
-
-             et    tunc To reriiis                    iclcriiir .id                gradum        perfectionis in essendo,                       ad cognilionem.
-             et res idealilcr r\islriis                           «    liabcl esse             verius et nobiliuss.                      Ilic           II.   S.    Thoni., locis cilt.                        —         B. Albcrl.,          I.   Sent. d. 35. a.         1 1.
-
-             modus dicciidi                     lciv       idinonil             cum dislinctione, quam S. Tliom.                                —     Petr. a Tar.              ,    hic q.              I.   a.    i.    — Durand.,               hic q. 2. n. 7.         —
-             de Veril.               q.    i.   a.    6.    adliibet               dicens;       «    ly       verius potest            desi-   Dionys. Carlh., hic                        q,       S.
-
-             gnare vel ycritateni rei, yel veritatem praedicationis.                                                                Si desi-
-
-
-
-
-                                                                                                                                  ARTICULUS III.
-
-                                                                 De nuniero sive generalitale existentiae, quam res hahent in Deo.
-
-
-
-                          Tertio loco est quaestio de tertio articulo,                                                                   sci-                Prirao quaeritur,                                 utrum mala sint in Deo.
-             licet         de            generalitate                      existentiae                rerum                 in    Deo,    et                 Secundo, utrum                                   in Deo sint imperfecta, secun-
-             circa hoc                    quaeruntur                       diio.                                                                dum qnod hninsmodi.
-
-
-                                                                                                                                        QUAESTIO       I,
-
-
-
-
-                                                                                                                        Ulrum mala sint
-
-
-                          Quod autem mala non sint in Deo, videtur.                                                                             eis vituperet,                           quod            in arte               non videt».              Si ergo vi-
-
-                           1.        Augustinus de Libero Arbitrio*;                                                        «In tantuni         tuperantur quantum ad malitiam sive                                                                   in    quantum
+---
 
 ## English
 
-[Translation pending]
+<!-- page 625 -->
+
+### Article III. *On the number, that is, the generality, of the existence which things have in God.*
+
+In the third place there is the question concerning the third article, namely concerning the generality of the existence of things in God; and concerning this two [questions] are asked. First it is asked, whether evils are in God. Secondly, whether imperfect [things] are in God, insofar as they are such.
+
+### Question I.
+#### *Whether evils are [in God].*
+
+That, however, evils are not in God, appears [thus].
+
+1. Augustine, *On Free Choice [of the Will]*: "To the extent that things are rightly censured, the censurer of them sees the art in which they are made, so as to censure in them that which he does not see in the art." If therefore they are censured as to malice, that is, insofar as they are evil; and in this mode they are not seen in God: therefore in this mode they are not in God.
+
+<!-- page 626 -->
+
+2. Likewise, "everything which is in God is from him and through him," as Augustine and the Master in the *Lombard text* say[^1]; but evils never are from God, nor through God: therefore neither in God.
+
+3. Likewise, everything which is in God is either as in a producing principle, or as in an expressing exemplar, or as in a conserving end[^2]; but it is settled that God is not a principle producing evils, nor even conserving [them]. Likewise, [he] is not an exemplar expressing [them], since the account of an exemplar is taken according to assimilation; but of God to evil there is no assimilation: therefore evils are in no way in God.
+
+4. Likewise, by however much something is better, by so much the more does it stand at a distance from evil; but God is the best, than whom nothing better can be thought: therefore [God] differs by so great a distance[^3] as none greater can be thought. But that which has neither the truth of malice nor a likeness of it stands more distant from evil than that which has at least a likeness; and that in which evil is in no way [stands more distant] than that in which it is in some way: therefore etc.
+
+**On the contrary:**
+
+1. Everything which is known by someone who is his own knowing is in him as in a knower; but God knows evils, since he punishes them and reprobates [them], and God is his own knowing: therefore evils are in God. The minor is clear; the major likewise, since everything known is in the knowing[^4]: if therefore the knowing and the knower are the same, therefore if [something] is in the knowing, [it is] also in the knower.
+
+2. Likewise, everything which is known in something is in that in which it is known; but evils are known in God: therefore they are in God. Proof of the minor: evils are known by God — this is settled — either inside himself or outside: not outside, this is settled, since the divine glance does not go outside, for then he would need another for knowing[^5]. And again, the angels know evils in God. Hence Augustine, *On Genesis according to the Letter*[^6]: The angels see in him our goods, which please them, and our evils, which displease them.
+
+3. Likewise, everything which is known in something, and not by accident, is in some way in it as in an exemplar; but evils are known by God, and not by accident, since [God] knows nothing by accident, but all things by themselves: therefore evils are in God.
+
+4. Likewise, everything which is known by someone not by privation is known by likeness and idea; but in God knowing through privation does not fall, since no privation can be in that exemplar, since it is pure act[^7]: therefore if he knows evils, he does not know [them] by privation, but by likeness. But likeness is the idea in God: therefore evils have an idea in God.
+
+### Conclusion.
+
+> *God knows evils; nevertheless they are not in God, nor have they an idea in him, but are known through the idea of the goods of which they are privations.*
+
+**I respond:** It must be said that evils are known by God, yet they do not exist in God insofar as they are evils, since thus we are speaking in the proposition. — They are known, I say, because just as "a straight thing is the judge of itself and of what is oblique[^8]," so the supreme truth and light and act is the ground of knowing not only truth and light and act, but also obliquity, darkness, and privation. Hence light by itself knows darkness[^9].
+
+Evils, however, are not in God, since those things are said to be in God toward which God cooperates according to some kind of cause, and most of all according to the kind of formal and exemplar cause; but evil does not have God as a cause[^10], nor as
+
+<!-- page 627 -->
+
+an exemplar, since evil by reason of malice states only *privation*, but an exemplar, insofar as such, states *assimilation*. Therefore since privation, insofar as such, is assimilable to nothing, hence it is that neither evil nor falsity has an idea in God; but its opposite is assimilable. Hence, since by one and the same [thing] God knows the good and the evil opposed to it, he knows the good according to the account of assimilation; and therefore the good is in God as in an exemplar and as known by itself and after the manner of position. But evil, since it is known by God, does not have in him an idea, and therefore is not in God, although it is in God's knowing: since, although it is known by God, it is not known through an idea of itself, but of the good of which it is the privation. And therefore it is said to be known *by accident* and *by privation*.
+
+1. Therefore to that which is objected, that evil is in God's knowing, and the knowing is God: therefore etc.; it must be said that here there is a fallacy according to accident[^11]. For although the knowing of God is the same thing as God, yet it connotes something else, like power and wisdom. Hence just as it does not follow: *it is in God's notice, therefore also in [his] power*, but rather it is there as accidental and consequent; so also in the proposition.
+
+2. To that which is objected, that evil is known in God, therefore it is in God; it must be said that this also does not follow: for *to be in God* states more than *to be known by God* or *in God*. For when something is said to be known by God, by this is understood that God is the ground of knowing it; but when it is added that this is *in God*, it is signified that God is the ground of knowing as exemplar and through assimilation; and therefore it is there as consequent.
+
+3. To that which is objected, that he knows evils not by accident etc.; it must be said that to be known by accident is twofold[^12]: either on the part of the knower, or of the known. In God no knowing by accident falls on the part of the knower, since he knows all things by himself; nevertheless it does fall on the part of the known, since [he] knows something by its likeness, as the good, [and] something by the likeness of its opposite; and thus it is there by accident, not in running through, but in assimilating. For when God knows evil, he is not understood to be assimilated to it, but to its opposite.
+
+4. Similarly the [reply] concerning privation must be solved: since to know by privation is twofold: either thus, that there be privation in the knowing power, as someone knows silence and darkness through the ear and the eye[^13], and thus it posits imperfection; or thus, that there be privation in the known, not in the knower, as light would know darkness, if it had a cognitive power, and sound silence: and thus God knows, since he is pure act and light and truth.
+
+### Scholion
+
+**I.** Here it is treated of evils *as evil*, that is, according to the *formal* [aspect] of evil, which is privation, not according to the *material* [aspect] or its substrate (cf. II *Sent.* d. 34, a. 2, throughout, and d. 35, a. 2, throughout, and d. 37, a. 2, q. I). The whole solution is drawn from this principle, that *it is one thing to be known by God, another to be in God*, which is explained in the solution to [argument] 2, and here in *dubium* 1, 2. — That evil does not have an idea in God, and that it is known through the idea of its opposite, is commonly taught by the ancients. On the manner in which God knows evils, see d. 39, a. I, q. 2, and *Scholion*.
+
+**II.** Alex. Hal., *S.* p. I, q. 23, m. 3, a. 3, and m. 4, a. 2. — Scotus, on this and the following question, *Report.* here q. 3. — S. Thom., here q. 1, a. 2; *S.* I, q. 18, a. 3, *ad* 1; *de Verit.* q. 3, a. 4. — B. Albert., here a. 6; *S.* p. I, tr. 13, q. 38, m. 2, a. 3, q. *incid*. — Petr. a Tar., here q. 1, a. 1 and 3, *ad* 2. — Richard. a Med., here a. 1, q. 2. — Durand., here q. 1. — Dionys. Carth., here q. 5.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Cap. 2, ubi et verba Augustini habentur.
 
-## Notes
+    **En.** Chapter 2, where the words of Augustine are also found.
 
-[Notes pending]
+[^2]: **La.** In Vat. deest *fine*, quam vocem restituimus auctoritate codd. K V W X aa bb nec non auctoritate textus supra habiti a. 2. q. 1. in corp.
+
+    **En.** In the Vatican [edition] *fine* is missing, which word we have restored on the authority of codices K V W X aa bb, and also on the authority of the text given above at a. 2, q. 1, in the body.
+
+[^3]: **La.** Codd. P Q *distat*.
+
+    **En.** Codices P Q [read] *distat*.
+
+[^4]: **La.** Cfr. supra pag. 68, nota 2, et Aristot., XII. *Metaph.* text. 31. (XI. c. 9.), ubi specialiter agitur de intellectione Dei.
+
+    **En.** Cf. above p. 68, note 2, and Aristotle, *Metaphysics* XII, text 31 (XI, c. 9), where the intellection of God is treated specially.
+
+[^5]: **La.** Cfr. August., V. *de Gen. ad lit.* c. 13. n. 29: *Porro si noverat (omnia), ubi nisi apud ipsum, apud quem Verbum erat, per quod facta sunt omnia? Nam si extra se ipsum ea noverat, quis eum docuerat? Quis enim cognovit sensum Domini, aut quis consiliarius eius fuit?* (Rom. 11, 34.). Vat. cum edd. 2, 3, 4, 5, C hic addit: *Restat ergo, quod intra se*.
+
+    **En.** Cf. Augustine, *On Genesis according to the Letter* V, c. 13, n. 29: "Moreover, if he knew (all things), where except with himself, with whom was the Word through which all things were made? For if he knew them outside himself, who had taught him? 'For who has known the mind of the Lord, or who has been his counselor?'" (Rom. 11:34). The Vatican [edition], with editions 2, 3, 4, 5, C, here adds: "*It remains, therefore, that [he knew them] within himself*."
+
+[^6]: **La.** Libr. II. c. 8. n. 17: *Neque enim sicut nos, ad percipiendam sapientiam proficiebant Angeli, ut invisibilia Dei per ea quae facta sunt intellecta conspicerent, qui, ex quo creati sunt, ipsa Verbi aeternitate sancta et pia contemplatione perfruuntur, atque inde ista despicientes, secundum id quod intus vident, vel recte facta approbant, vel peccata improbant.*
+
+    **En.** Book II, c. 8, n. 17: "For the angels did not, like us, advance to the perception of wisdom, so as to behold the invisible things of God through those that are made, having been understood; rather, from the time they were created they enjoy by holy and pious contemplation the very eternity of the Word, and from there, looking down on these things, according to what they see within, they either approve right deeds or disapprove sins."
+
+[^7]: **La.** Pro ratione, quae hic adducitur, Scholastici allegare solent quod Averroes dicit in illum textum Aristot. (III. *de Anima*, text. 23.): *Si vero alicui non inest contrarium, ipsum se ipsum cognoscit*. «*Dicit enim: id est, si fuerit aliquis intellectus, qui non invenitur quandoque intelligens in potentia et quandoque intelligens in actu, tunc ille intellectus non intelligeret privationem omnino, immo nihil intelligeret extra se*».
+
+    **En.** For the reason here adduced, the Scholastics are wont to allege what Averroes says on that text of Aristotle (*On the Soul* III, text 23): "*But if there is no contrary in something, it knows its own self*." "He says, that is: if there should be any intellect which is not found sometimes understanding in potency and sometimes understanding in act, then that intellect would not understand privation at all; rather, it would understand nothing outside itself."
+
+[^8]: **La.** Aristot., I. *de Anima*, text. 83. (c. 5.): *Sufficiens enim est altera pars contrarietatis se ipsam diiudicare et oppositam; recto enim et ipsum et obliquum cognoscimus; iudex enim utrorumque regula; obliquum autem neque sui ipsius neque recti.*
+
+    **En.** Aristotle, *On the Soul* I, text 83 (c. 5): "For one part of a contrariety suffices to discern itself and its opposite; for by the straight we know both itself and the oblique; for it is the judge [and] rule of both; but the oblique [is judge] neither of itself nor of the straight."
+
+[^9]: **La.** Dionys., *de Div. Nom.* c. 7. § 2: *Non enim ex existentibus existentia discens novit divinus animus, sed ex se et in se... non secundum speciem singula contemplans, sed secundum unam causae circumstantiam omnia sciens et continens, sicut et lux secundum causam in se ipsa cognitionem tenebrarum praeambivit, non aliunde videns tenebras quam a lumine.*
+
+    **En.** Dionysius, *On the Divine Names* c. 7, § 2: "For not by learning existing things from existents does the divine mind know, but from itself and in itself... not contemplating singulars according to species, but knowing and containing all things according to the one circumstance of the cause; just as light too, according to the cause, in its very self pre-embraced the knowing of darkness, not seeing darkness from any other source than from light."
+
+[^10]: **La.** Nam cum Augustino, XII. *de Civ. Dei*, c. 7, dici solet: «*Malum non habet causam efficientem, sed deficientem, qualis non est Deus*». — Minus sincera et reprobata a codicibus et ed. 1 est Vat. lectio: *pro causa formali et pro exemplari*. Paulo inferius eadem Vat. cum cod. cc temere suppressit verba: *Quoniam igitur privatio secundum quod huiusmodi nulli est assimilabilis*.
+
+    **En.** For with Augustine, *City of God* XII, c. 7, it is wont to be said: "*Evil does not have an efficient cause, but a deficient one, such as God is not*." — Less sincere and reproved by the codices and edition 1 is the Vatican reading: *pro causa formali et pro exemplari*. A little below, the same Vatican [edition], with codex *cc*, rashly suppressed the words: "*Quoniam igitur privatio secundum quod huiusmodi nulli est assimilabilis*."
+
+[^11]: **La.** De qua vide supra pag. 58, nota 5. — Verbo *consequens* in fine huius et sequentis solutionis significatur fallacia consequentis, quae secundum Aristot., I. *Elench.* c. 4. (c. 5.) «*ideo est, quod putent converti consequentiam*».
+
+    **En.** Concerning which see above p. 58, n. 5. — By the word *consequens* at the end of this and of the following solution is signified the fallacy of the consequent, which according to Aristotle, *Sophistical Refutations* I, c. 4 (c. 5), "*comes about because they think the consequence is convertible*."
+
+[^12]: **La.** Loco verborum *Ad illud quod obiicitur... usque ad cognoscentis*, quia in cod.[?] legitur: *Ad illud quod obiicitur: in Deo nulla cadit cognitio per accidens; dicendum, quod verum est de his quae nata sunt cognosci per se et per posi-*[tionem]. Sed malum per se nec causam nec voluntatem nec cognitionem habet, sed per bonum, secundum Dionysium *capitulo quarto de Divinis Nominibus*, *quia* etc. Pro *nulla cadit* codd. V W *non cadit aliqua*. Aliquanto inferius post *sui oppositi* codd. aa bb inserunt *ut malum est*; et subinde pro *non in decurrendo* Vat. cum nonnullis codd. non minus recte *non in discurrendo*.
+
+    **En.** In place of the words *Ad illud quod obiicitur... usque ad cognoscentis*, in codex [?] is read: "*To that which is objected: in God no knowing by accident falls; it must be said, that it is true of those things which are by nature known by themselves and by position*. But evil by itself has neither cause nor will nor knowing, but [is known] through the good, according to Dionysius, *On the Divine Names* chapter 4, *because* etc." For *nulla cadit* codices V W [read] *non cadit aliqua*. A little later, after *sui oppositi*, codices aa bb insert *ut malum est*; and soon thereafter, in place of *non in decurrendo*, the Vatican [edition] with several codices, not less correctly, [reads] *non in discurrendo*.
+
+[^13]: **La.** Cfr. Aristot., II. *de Anima*, text. 103. (c. 10.).
+
+    **En.** Cf. Aristotle, *On the Soul* II, text 103 (c. 10).

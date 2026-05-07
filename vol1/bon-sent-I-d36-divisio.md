@@ -6,106 +6,136 @@ distinctio: 36
 type: divisio
 title_la: "Commentarius in Distinctionem XXXVI. Divisio textus."
 title_en: "Commentary on Distinction XXXVI. Division of the text."
-printed_pages: [617]
-pdf_pages: [207]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 617–617"
+printed_pages: [619, 622]
+pdf_pages: [209, 212]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 619, 622"
+has_scholion: false
+has_apparatus: true
 line_start: 20165
-line_end: 20241
-word_count_latin: 793
-transcription_status: "auto-chunked 2026-05-07 (rebuild — single-pars, dropped fake p1/p2 prefix; printed_pages rough — agents tighten during translation)"
+line_end: 20520
+word_count_latin: 460
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 20165–20231 + 20507–20520 of pt2), COMMENTARIUS heading + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM + ART. II preamble rolled in, fresh literal English translation, full apparatus from raw OCR (4 entries), [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
 # bon-sent-I-d36-divisio
 
+## *Commentarius in Distinctionem XXXVI.* — *Divisio textus.*
+
+---
+
 ## Latin
+<!-- page 619 -->
 
-                                                                                                                                   ,                                               ,
+## Commentarius in Distinctionem XXXVI.
 
+#### *Quomodo res sint in Deo.*
 
+> *Solet hic quaeri, cum omnia dicantur esse in Dei cognitione.*
 
-                                                                                                       flerent,        et        praescivit           ab aeterno ea                     futura.         Ideoque
-            Solel hic quaeri ,               cum oinnia dicantur esse in Dei                           cum onniia bona dixerimus esse in Deo propter prae-
-     cognitione seu praescientia ' vel                          in       Deo per cognitio-             scientiam cognilionis, eadem ratione videlur dicendum,
-     nem, et eius cognitio vel praescientia sit divina cssen-                                          omnia mala esse                        in     eo,    cum ea semper noverit, et
-     tia, utrum concedendum sit, oniuia esse in divina                                                 per       cognitionem                 ei     praesentia              fuerint.             Praecognovit
-     essentia vel in Deo per essentiam.        Ad quod dici-             —                             enim Deus ab aetei-no quosdam futuros malos et eorum
-     mus, quia Dei cognitio eius utique essentia est, et                                               malitiam,            ut         ait    Augustinus",                  praescivit,                 sed         non -\uB"sUnn8.
-     eius praescientia, in qua sunt omnia, ipsius cognitio                                             praeparavit.              Cum ergo peccata oninium sciat, nunquid
-     est, nec tamen omnia, quae sunt in eius praescientia                                              intelligendum est, ea includi in                                 illa       generalitale                    locu-
-     vel    cognitione,        in       eius     essentia        esse dici debent. Si                  tionis,     qua dixit Apostolus ', omnia esse in Deo?                                                            Ex
-     enim lioc diceretur, intelligerentur esse eiusden) cum                                            ipsoj inquit, et per ipsum et in ipso sunt omnia.                                                      — Sed           Responsio.
+### Divisio textus.
 
-     Deo^ essentiae. In Deo enim dicitur esse per essen-                                               quis, nisi insanus dixerit, mala esse in                                             Deo? llla enim
-     tiam, quod est divina essentia, quod est Deus. Habel                                              esse in  Deo intelliguntur, quae ex ipso et per ipsum
-     ergo Deus apud se                  in     praescienlia sua quae non ha-                           sunt;      vero per ipsum sunt et ex ipso , quorum
-                                                                                                                  ea
-i.   bet in sui natura.         Unde Augustinus de verbis Apostoli ^                                   auctor       sed non esl auctor nisi bonorum. Non ergo
-                                                                                                                   est;
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`).
 
-     ita ait:      « Elegit    nos ante              mundi constitutionem. Quis                        ex ipso et per ipsum sunt nisi bona; ita ergo non in
-     sufficit     hoc      expiicare?           Eliguntiu- qui               non        sunt, nec      ipso sunt nisi bona: non ergo mala in Deo snnt, quia,
-     errat qui eligit, nec vane eligit; eligit tamen et habel                                          licet ea noscat, non tamen ita omnino noscit, ut bona.
+Supra egit Magister de cognitione Dei, qua cognoscit omnia creata. Et quoniam cognitum dicitur esse in cognoscente, ideo determinat hic secundo modum, quomodo res sunt in Deo. Et quoniam res creatae non tantum dicuntur esse in Deo, sed etiam ex Deo et per Deum, ideo primo agit de existentia rerum in Deo; secundo vero comparat ad alias habitudines, scilicet *ex ipso* et *per ipsum*, ibi: *Proinde, si diligenter inspiciamus.*
 
-     electosquos creaturus est eligendos quos habet apud             ,
-                                                                                                       Mala quasi de longe cogiioscit ut ail Propheta °, et             ,
+Prima pars habet duas. In prima ostendit qualiter res dicantur esse in Deo a parte eius in quo sunt, utrum scilicet sint in Dei essentia, sicut sunt in Dei praescientia. In secunda[^1], qualiter dicantur esse in Deo a parte ipsarum rerum, ibi: *Post praedicta quaeritur, cum omnia dicantur esse in Deo,* ubi quaerit, utrum mala sint in Deo, et solvit, quod non. Quaelibet harum partium posset dividi: quoniam primo quaerit et opponit, et postmodum determinat, et partes manifestae sunt in littera.
 
+*Proinde, si diligenter inspiciamus.* Haec est secunda pars, in qua comparat hoc quod est *esse in Deo* ad alias habitudines, importatas per alias praepositiones, et haec pars habet quatuor partes secundum quatuor capitula. In prima ostendit horum trium convenientiam; in secunda, differentiam et appropriationem, ibi: *Praeterea sciendum est.* In tertia differentiam eius quod dicitur[^2] *de ipso* ad hoc quod dicitur *ex ipso* ostendit, ibi: *Illud etiam hic animadvertendum[^3] est.* In quarta breviter praedicta epilogat, ibi: *Ex praemissis apertum est;* et haec posset dividi contra totam praecedentem. Intellectus partium patet in littera.
 
+### Tractatio quaestionum.
 
-     semetipsum non in natura sua, sed in praescientia sua ».                                          alta a longe cognoscit, id est superbiam. Et alibi ad
-     Nondum erant quibus promittebatur*, sed et ipsi pro-                                              Deum loquens de nialis ait: De absconditis tuis adim-
-     missi suut, quibus promittebatur.                            — Ecce hic aperte                    pletus est           venter           eorum. Quod exponens Augustinus: Auensiinus.
-     dicit,Deum apud semetipsum habere electos ante                                                    « Abscondita,               inquit, peccata sunt, qnae a luniine tuae
-     mundum, non in natura sua, sed in praescientia sua,                                               veritatisabsconduntur » Sed quomodo peccata a lu-
-                                                                                                                                                      .
+Ad intelligentiam huius partis quaeritur de existentia rerum in Deo, et circa hoc tria principaliter quaeruntur.
 
+Primo quaeritur, utrum creaturae fuerint in Deo aeternaliter.
 
+Secundo quaeritur de modo existendi ipsarum rerum in Deo.
 
-     cum tamen eius praescientia non sit aliud quam eius                                               mine veritatis divinae absconduntur, cura a Deo scian-
-     natura, quia ipsius praescientia est eius notitia. Potest                                         tur? Si enim non sciret, quomodo de illis iudicaret
-     tamen ad electos referri,                   cum ait: in natura sua, id                            et pro illis malos damnaret ? Alibi Propheta     Quia                                             ^*
-                                                                                                                                                                                                              :
+Tertio, quantum ad generalitatem[^4] rerum in Deo existentium, utrum scilicet omnia quae Deus cognoscit, fuerint et sint in Deo. — Ita quod primo de existentia, secundo de modo, et tertio de numero.
 
+Quantum ergo ad primum articulum duo quaeruntur.
 
+Primo quaeritur, utrum res fuerint in Deo ab aeterno.
 
-     est illorum. Illos         quippe habuit ab                         aeterno apud se,              nequ£   ab Oriente , neque ab Occidente deest. Quod
-     non    in    natura sua °,             id est illorum           qui     nondum          erant,    exponens Cassiodorus inquit: «Neque a bonis, neque
-     sed in sua praescieutia, quia eos ita novit, ac                                    si   essent.   a nialis deest Deus sed omnibus praesens et cognitor
-                                                                                                                                              ,
+Secundo, utrum sint in Deo ratione essentiae, vel personae.
 
+<!-- page 622 -->
 
+### Articulus II. *De modo, quo res existunt in Deo.*
 
-                                                                                                       est». Cognoscit ergo Deus et bona et mala per scien-
-                                               Cap.       II.                                          tiam, sed bona cognoscit etiam per approbalionem et
-                                                                                                       per beneplacitum,                          mala vero non. Unde                                Cassiodorus
-                 Qua ralione bona dicuntur esse in Deo,                                                super Psalmum dicit: «Peccata                                        abscondita Deo sunl,
-                                                                                                       quia non novil, id est non approbal »                                            .   Et ex eo sensu
-                                                                                                       Augustinus dixit ea abscondita a lumine Dei. Qui etiam
-            Post     praedicta quaeritur,                       cum omnia                dicantur      in Epistola               ad Evodium " insinuat, cognitionem                                                     Dei
-     esse in Deo,          non per            essentiam naturae, sed per co-                           variis     modis accipiendam, inquiens: «Si ad scientiam
+Consequenter quantum ad secundum articulum quaeritur de modo existentiae rerum in Deo, et circa hoc quaeruntur duo.
 
+Primo quaeritur, utrum omnia quae sunt in Deo, sint in ipso vita.
 
+Secundo quaeritur, utrum res verius sint in Deo quam in universo sive in proprio genere.
 
-
-            '   Hic et in toto hoc et sequenti capitulo onines codd. nostri                                  "    Libr.     I.    de    Pi-aedest.        Sanctorum,          c.       10, in sensu.
-     et edd., exceptis Vat. et edd.                  2,8,       pro praescimtia              ponunt          '    Rom.       II,       36.
-     praesenUci; quod quidem in se non est falsum,                                 ut    explicatur          8    Psalm.         137, 6; secundus locus ost ib                                           4.        Locus
-     a   Magistro, d.      XXXV. c. 9, attamen niinus congruum.                                        August. est Enarrat. in Psalm.                        16.   n.       13.
-            "   Codd.     BDE cum pluribus edd. eo.                                                          "    Psalm. 74, 7;                   Cassiodoi-us,     Expositio                   in   Psalterium in
-            3   Epties.   1,4; August., sermo 26. c. 4. n. 4. In quo textu                             liunc locum. Sequens locus oiusdem est in Psalm. 16,                                                       14.
-     Vat.cum paucis edd. et codd. ABE eligit nec vane elegit.            ,
-                                                                                                             '»   Nostri codd. et edd. libro ad Helvidium, sed revera locus
-           Codd. B C D E (A in inargine) addunt regnum. Paulo post
-            *                                                                                          invenitur Epist, 1 69, n. 2.                   ad Evod., nonnullis tamen a Magistro
+---
 
 ## English
+<!-- page 619 -->
 
-[Translation pending]
+## Commentary on Distinction XXXVI.
+
+#### *How things are in God.*
+
+> *"It is wont here to be asked, since all things are said to be in God's cognition."*
+
+### Division of the text.
+
+Above the Master treated of the cognition of God, by which he knows all created things. And since the thing known is said to be in the knower, he therefore here determines secondly the mode in which things are in God. And since created things are not only said to be in God, but also from God and through God, he therefore first treats of the existence of things in God; and secondly compares [that mode] to the other relations, namely *from him* and *through him*, there: *"Therefore, if we look diligently."*
+
+The first part has two [divisions]. In the first he shows in what manner things are said to be in God on the side of him in whom they are, namely whether they are in God's essence as they are in God's foreknowledge. In the second[^1], in what manner they are said to be in God on the side of the things themselves, there: *"After what has been said, it is asked, since all things are said to be in God,"* where he asks whether evils are in God, and resolves that they are not. Either of these parts could be subdivided: for first he asks and raises objections, and afterwards determines, and the parts are evident in the letter [of the text].
+
+*"Therefore, if we look diligently."* This is the second part, in which he compares this — *to be in God* — to the other relations conveyed by the other prepositions, and this part has four parts according to the four chapters. In the first he shows the agreement of these three; in the second, the difference and appropriation, there: *"Moreover, it must be known."* In the third he shows the difference of that which is said[^2] *of him* with respect to that which is said *from him*, there: *"This too must here be observed[^3]."* In the fourth he briefly recapitulates the preceding, there: *"From what has been laid down it is clear;"* and this could be divided over against the whole preceding part. The sense of the parts is evident in the letter.
+
+### Treatment of the questions.
+
+For the understanding of this part it is asked concerning the existence of things in God, and concerning this three principal questions are asked.
+
+First it is asked, whether creatures were in God eternally.
+
+Second, it is asked concerning the mode of the existing of the things themselves in God.
+
+Third, with regard to the generality[^4] of the things existing in God, namely whether all things which God knows have been and are in God. — So that the first concerns existence, the second concerns mode, and the third concerns number.
+
+With regard, therefore, to the first article, two [questions] are asked.
+
+First it is asked, whether things were in God from eternity.
+
+Second, whether they are in God by reason of the essence, or of the person.
+
+<!-- page 622 -->
+
+### Article II. *On the mode in which things exist in God.*
+
+Consequently with regard to the second article it is asked concerning the mode of the existence of things in God, and concerning this two [questions] are asked.
+
+First it is asked, whether all things which are in God are in him as life.
+
+Second, it is asked, whether things are more truly in God than in the universe or in their own genus.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+[^1]: **La.** Pro *In secunda* plurimi codd. *Secundo.*
+
+    **En.** For *In secunda* ("In the second"), most codices [read] *Secundo* ("Secondly").
+
+[^2]: **La.** Pro *dicitur* codd. P Q V *est;* in non paucis codd. neque *dicitur* neque *est.*
+
+    **En.** For *dicitur* ("is said"), codices P, Q, V [read] *est* ("is"); in not a few codices, neither *dicitur* nor *est* [is found].
+
+[^3]: **La.** Cod. T *attendendum.*
+
+    **En.** Codex T [reads] *attendendum* ("must be attended to").
+
+[^4]: **La.** Cod. V *universalitatem.* Paulo post pro *cognoscit* Vat. cod. cc *praecognoscit.*
+
+    **En.** Codex V [reads] *universalitatem* ("universality") [for *generalitatem*]. A little later, for *cognoscit* ("knows"), the Vatican edition and codex cc [read] *praecognoscit* ("foreknows").
+
+---
 
 ## Notes
 
-[Notes pending]
+[No editorial notes beyond the apparatus above.]
