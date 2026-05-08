@@ -4,9 +4,11 @@ Source: `raw/bonaventure_vol1_pt2_raw.txt` lines 4355–4587 (printed pp. 462–
 
 ## Apparatus
 
-- **[^22] in DUB X body, anchor on *simul natura*** (raw line 4579, single-quote marker `'`): the corresponding footer note is not present in the IA djvu OCR sweep of p. 464 (between line 4587 and the start of DISTINCTIO XXVII at line 4588 there is no apparatus block). The phrase *relativa simul natura sunt* is the standard tag from Aristotle, *Categoriae* c. *de Relatione* (7b15) — almost certainly the reference Quaracchi gives. → Resolve with eyes-on-PDF read of p. 464 footer (pdf p. 54). Currently rendered as a stub `[?]`-flagged entry.
+- **[^22] in DUB X body, anchor on *simul natura*** (raw line 4579, single-quote marker `'`): the corresponding footer note is not present in the IA djvu OCR sweep of p. 464 (between line 4587 and the start of DISTINCTIO XXVII at line 4588 there is no apparatus block). The phrase *relativa simul natura sunt* is the standard tag from Aristotle, *Categoriae* c. *de Relatione* (7b15) — almost certainly the reference Quaracchi gives. → Resolve with eyes-on-PDF read of p. 464 footer (pdf p. 54). Currently rendered as an honest `[?]`-flagged stub with the plausible Aristotle reference noted but unverified.
 
 - **[^23] in DUB X response, anchor on *sic et*** (raw line 4583): same situation. The marker is on the conjunction `et` after `sic`, suggesting a textual variant (perhaps Vat. omits or substitutes). → Resolve with eyes-on-PDF read of p. 464 footer.
+
+- **2026-05-08 sweep correction**: the prior (2026-05-04) reconstruction of [^23] was an unflagged verbatim duplicate of [^17] (Vers. 44 / John 8:44 / Albert + Thomas), which is content from DUB VI — not applicable to DUB X. Reverted to honest `[?]`-flagged stub. The [^22] reconstruction (Aristotle Categories) was retained but is now explicitly flagged `[?]` with a "reconstruction pending verification" note rather than presented as a settled apparatus entry.
 
 ## Body OCR
 

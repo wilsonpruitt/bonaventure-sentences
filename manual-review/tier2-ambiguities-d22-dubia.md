@@ -20,7 +20,7 @@ The Quaracchi apparatus for this chunk uses the standard apparatus-glyph sequenc
 - DUB. I — note 1 anchors at `quoniam`; note 2 at `trimembris` (cod. X variant about the immediate-members reading); note 3 at `divisiones` (Dist. 28 cross-reference); note 4 at `substantiae` (first occurrence of the mss-vs-Vat. *vel* split); note 5 at `personis ... vel` (second occurrence of the same vel/non-vel apparatus entry — entry actually shared with note 4 in the Quaracchi printing, but a marker is needed at both anchor positions); note 6 at `et ita` (Vat. omits *Et*, *ista* vs *ita*).
 - DUB. II — note 7 at `Bernardus`; note 8 at `differt` (Vat. silent variant `differt` vs `deficit`); note 9 at `sed`; note 10 at `et` before `ideo`; note 11 at `quasi`.
 - Quinque Regulae — note 12 at `de Trinitate`; note 13 at `quinque`; note 14 at `substantiam` (after the second rule); note 15 at `hoc` (final sentence about *missus*).
-- DUB. III — notes 16–20 placed at OCR-marker positions (`dicamus`, `et ideo`, `retentum`, `Grammaticus`, `vel idem`).
+- DUB. III — notes 16–20 placed at OCR-marker positions (`dicamus`, `et ideo`, `vel`, `Grammaticus`, `vel idem`). [Note: `[^18]` corrected 2026-05-08 from end-of-clause `retentum` to OCR position at `vel adiective retentum`.]
 - DUB. IV — notes 21 (`vel maior`) and 22 (`esse maius est`) on p. 400; notes 23 (`Deo autem`), 24 (`habet`), 25 (`per essentiam`) on the page-401 continuation.
 
 Notes 4 and 5 cite the **same Quaracchi apparatus entry** (a single entry that explicitly mentions two anchor positions: "hic et paulo infra post *personis*"). To preserve marker-pairing and let the reader find the relevant variant at both anchor points, both markers point to the same apparatus text; note 5's English explicitly cross-references note 4. If the project owner prefers a different convention, this is the place to revise.
@@ -35,7 +35,7 @@ Notes 4 and 5 cite the **same Quaracchi apparatus entry** (a single entry that e
 - `etita^ → et ita` + `[^N]`
 - `DlfB. 11. → DUB. II.`
 - `RESPONDt:o → Respondeo`
-- `defieit → differt` (per apparatus note 8: Vat. reading is *differt*; OCR conflated)
+- ~~`defieit → differt` (per apparatus note 8: Vat. reading is *differt*; OCR conflated)~~ — **REVERSED in 2026-05-08 sweep audit.** The Vat reading in `Vat. absque auctoritate mss. et edd. 1, 2, 3 differt` is the variant, not the base text; Quaracchi's base text follows the mss/edd reading, here `deficit` (OCR `defieit` is the standard letter-substitution garble for `deficit`). Body now reads `deficit`. See `d22-scaffolds-sweep-audit-log.md`.
 - `coUectivo → collectivo`
 - `nuUo → nullo`
 - `iraportat → importat`
@@ -61,7 +61,7 @@ Notes 4 and 5 cite the **same Quaracchi apparatus entry** (a single entry that e
 - `Grammaticus '% → Grammaticus` + `[^N]`
 - `vel " idem → vel idem` + `[^N]`
 - `albior vel maior " → albior vel maior` + `[^N]`
-- `esse maius'^ → esse maius est` (the Quaracchi text per apparatus note 22 is *esse maius est dupliciter*; Vat. drops *est* — reading restored from the apparatus consensus)
+- ~~`esse maius'^ → esse maius est` (the Quaracchi text per apparatus note 22 is *esse maius est dupliciter*; Vat. drops *est* — reading restored from the apparatus consensus)~~ — **REVERSED in 2026-05-08 sweep audit.** Raw OCR reads `quod est esse maius¹⁵ dupliciter`; the prior rebuild's word-order rearrangement matched neither the OCR base text nor any cited variant. Body now reads `quod est esse maius dupliciter`. See `d22-scaffolds-sweep-audit-log.md`.
 - `subiecti at-tenditur → attenditur`
 - `forraae → formae`
 - `tanien → tamen`

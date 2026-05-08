@@ -14,7 +14,7 @@ line_end: 69042
 word_count_latin: 1349
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR (raw lines 68815–69042, 4 dubia I–IV plus a separately-titled QUINQUE REGULAE DE NOMINIBUS DIVINIS appendix between DUB. II and DUB. III), literal English, 25-footnote apparatus from PDF pp.400–401, no scholion (2026-05-03)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR (raw lines 68815–69042, 4 dubia I–IV plus a separately-titled QUINQUE REGULAE DE NOMINIBUS DIVINIS appendix between DUB. II and DUB. III), literal English, 25-footnote apparatus from PDF pp.400–401, no scholion (2026-05-03; sweep audit 2026-05-08 corrected DUB. II base text *deficit* per Vat-against-mss apparatus note 8 [prior chunk had imported the Vatican variant *differt* into the body], moved [^18] anchor from end-of-clause to OCR position at *vel*, and restored DUB. IV word order *quod est esse maius* per OCR/apparatus note 22)"
 format_version: 1
 ---
 
@@ -42,7 +42,7 @@ In parte ista sunt dubitationes circa litteram, et primo de hoc quod dicit: *His
 
 Item quaeritur de hoc quod dicit, quod *Trinitas est quasi collectivum*. Videtur enim male dicere, quia «unitas collectiva, ut dicit Bernardus[^7], est minima unitas; sed unitas Trinitatis arcem tenet inter omnes unitates»: ergo etc.
 
-**Respondeo:** Dicendum, quod hoc nomen *Trinitas* differt[^8] in duobus a nomine proprie collectivo. Primo, quia illa quae nomen collectivum colligit, habent simpliciter diversitatem; et secundo, quia habent unitatem secundum quid; sed[^9] e contra est in nomine Trinitatis. Tamen in hoc est similitudo, quia sicut nomen collectivum plures simul dicit et de nullo per se praedicatur, ita nec hoc nomen *Trinitas* praedicatur de aliqua personarum, et tamen omnes simul importat; et[^10] ideo Magister non dicit, quod sit collectivum simpliciter, sed *quasi*[^11].
+**Respondeo:** Dicendum, quod hoc nomen *Trinitas* deficit[^8] in duobus a nomine proprie collectivo. Primo, quia illa quae nomen collectivum colligit, habent simpliciter diversitatem; et secundo, quia habent unitatem secundum quid; sed[^9] e contra est in nomine Trinitatis. Tamen in hoc est similitudo, quia sicut nomen collectivum plures simul dicit et de nullo per se praedicatur, ita nec hoc nomen *Trinitas* praedicatur de aliqua personarum, et tamen omnes simul importat; et[^10] ideo Magister non dicit, quod sit collectivum simpliciter, sed *quasi*[^11].
 
 ### Quinque Regulae de Nominibus Divinis.
 
@@ -52,13 +52,13 @@ Item quaeritur de hoc quod dicit, quod *Trinitas est quasi collectivum*. Videtur
 
 Item quaeritur de hoc quod dicit: *Non tres omnipotentes, sed unus omnipotens*; quia cum dicamus[^16] *tres potentes*, videtur quod pari ratione possumus dicere *tres omnipotentes*.
 
-**Respondeo:** Dicendum, quod verbum semper adiective et in adiacentia significat, et[^17] ideo semper trahit numerum a supposito; similiter participium manens participium, quia habet naturam verbi. Sed nomen, quia in quiete significat, aliquando substantivatur, et quando numeratur, tunc numeratur sicut nomen substantivum a parte suae formae. Et ideo, quia *potens* potest esse participium, *omnipotens* est nomen tantum: ideo non sic recipitur, *tres omnipotentes*, sicut *tres potentes*, nisi *omnipotens* sit adiectivum vel adiective retentum[^18]. Ratio autem, quare *omnipotens* non potest esse participium, est propter compositionem, quam non admittit verbum. Participium enim, ut dicit Grammaticus[^19], transit in nomen quatuor modis: scilicet compositione, ut *indoctus*; comparatione, ut *doctior*; constructione, ut *amans illius*; temporis amissione, ut *amandus*, secundum quod idem significat vel[^20] idem sonat, quod *amari dignus*.
+**Respondeo:** Dicendum, quod verbum semper adiective et in adiacentia significat, et[^17] ideo semper trahit numerum a supposito; similiter participium manens participium, quia habet naturam verbi. Sed nomen, quia in quiete significat, aliquando substantivatur, et quando numeratur, tunc numeratur sicut nomen substantivum a parte suae formae. Et ideo, quia *potens* potest esse participium, *omnipotens* est nomen tantum: ideo non sic recipitur, *tres omnipotentes*, sicut *tres potentes*, nisi *omnipotens* sit adiectivum vel[^18] adiective retentum. Ratio autem, quare *omnipotens* non potest esse participium, est propter compositionem, quam non admittit verbum. Participium enim, ut dicit Grammaticus[^19], transit in nomen quatuor modis: scilicet compositione, ut *indoctus*; comparatione, ut *doctior*; constructione, ut *amans illius*; temporis amissione, ut *amandus*, secundum quod idem significat vel[^20] idem sonat, quod *amari dignus*.
 
 ### DUB. IV.
 
 Item quaeritur de ratione ista Augustini: *Si est participatione magnus, ergo magnitudo est maior quam ipse*, et ponitur ibi: *Deus non est magnus ea magnitudine* etc. Et videtur ista ratio non valere. Non enim valet: iste est albedine albus per participationem: ergo albedo est albior vel maior[^21] quam ipse.
 
-**Respondeo:** Dicendum, quod ratio Augustini bona est et fundatur supra ipsam nominis expositionem, quia *participare* est *partem capere*, et si partem capit, ergo minus est quam totum. Quod ergo obiicitur de albedine, dicendum, quod esse maius est[^22] dupliciter; vel quantum ad esse, vel quantum ad
+**Respondeo:** Dicendum, quod ratio Augustini bona est et fundatur supra ipsam nominis expositionem, quia *participare* est *partem capere*, et si partem capit, ergo minus est quam totum. Quod ergo obiicitur de albedine, dicendum, quod est esse maius[^22] dupliciter; vel quantum ad esse, vel quantum ad
 
 <!-- page 401 -->
 
@@ -82,7 +82,7 @@ In this part there are doubts concerning the *littera*, and first concerning wha
 
 Likewise it is asked about what he says, that *the Trinity is as it were a collective [noun]*. For he seems to speak ill, because «a collective unity, as Bernard says[^7], is the least unity; but the unity of the Trinity holds the citadel among all unities»: therefore etc.
 
-**I respond:** It must be said that this name *Trinity* differs[^8] in two [respects] from a properly collective noun. First, because the things which a collective noun gathers have diversity simply; and second, because they have unity in a certain respect; but[^9] the contrary is the case in the name of the Trinity. Yet in this there is a likeness, because just as a collective noun says many at once and is predicated of none per se, so neither is this name *Trinity* predicated of any of the persons, and yet it imports them all together; and[^10] therefore the Master does not say that it is collective simply, but *as it were* (*quasi*)[^11].
+**I respond:** It must be said that this name *Trinity* falls short[^8] in two [respects] of a properly collective noun. First, because the things which a collective noun gathers have diversity simply; and second, because they have unity in a certain respect; but[^9] the contrary is the case in the name of the Trinity. Yet in this there is a likeness, because just as a collective noun says many at once and is predicated of none per se, so neither is this name *Trinity* predicated of any of the persons, and yet it imports them all together; and[^10] therefore the Master does not say that it is collective simply, but *as it were* (*quasi*)[^11].
 
 ### Five Rules on the Divine Names.
 
@@ -92,13 +92,13 @@ Likewise it is asked about what he says, that *the Trinity is as it were a colle
 
 Likewise it is asked about what he says: *Not three omnipotents, but one omnipotent*; for since we say[^16] *three powerful [ones]*, it seems that by parity of reasoning we can say *three omnipotents*.
 
-**I respond:** It must be said that the verb always signifies adjectivally and in adjacency, and[^17] therefore always draws its number from the supposit; likewise the participle, while remaining a participle, because it has the nature of the verb. But the noun, because it signifies in rest, is sometimes substantivized, and when it is enumerated, then it is enumerated as a substantive noun on the side of its form. And therefore, because *powerful* (*potens*) can be a participle, *omnipotent* (*omnipotens*) is a noun only: hence one does not so receive *three omnipotents* as *three powerful*, unless *omnipotens* be an adjective or held adjectivally[^18]. But the reason why *omnipotens* cannot be a participle is on account of composition, which the verb does not admit. For the participle, as the Grammarian says[^19], passes into a noun in four ways: namely by composition, as *unlearned* (*indoctus*); by comparison, as *more learned* (*doctior*); by construction, as *loving him* (*amans illius*); by loss of tense, as *to-be-loved* (*amandus*), insofar as it signifies the same or[^20] sounds the same as *worthy to be loved* (*amari dignus*).
+**I respond:** It must be said that the verb always signifies adjectivally and in adjacency, and[^17] therefore always draws its number from the supposit; likewise the participle, while remaining a participle, because it has the nature of the verb. But the noun, because it signifies in rest, is sometimes substantivized, and when it is enumerated, then it is enumerated as a substantive noun on the side of its form. And therefore, because *powerful* (*potens*) can be a participle, *omnipotent* (*omnipotens*) is a noun only: hence one does not so receive *three omnipotents* as *three powerful*, unless *omnipotens* be an adjective or[^18] held adjectivally. But the reason why *omnipotens* cannot be a participle is on account of composition, which the verb does not admit. For the participle, as the Grammarian says[^19], passes into a noun in four ways: namely by composition, as *unlearned* (*indoctus*); by comparison, as *more learned* (*doctior*); by construction, as *loving him* (*amans illius*); by loss of tense, as *to-be-loved* (*amandus*), insofar as it signifies the same or[^20] sounds the same as *worthy to be loved* (*amari dignus*).
 
 ### Doubt IV.
 
 Likewise it is asked about this argument of Augustine: *If he is great by participation, then greatness is greater than he himself*, and there is set down: *God is not great by that greatness* etc. And it seems this argument does not hold. For it does not hold [thus]: this [thing] is white by whiteness through participation: therefore whiteness is whiter or greater[^21] than it [the thing].
 
-**I respond:** It must be said that the argument of Augustine is good and is founded upon the very explication of the name, because *to participate* is *to take a part*, and if it takes a part, then it is less than the whole. To what therefore is objected concerning whiteness, it must be said that to be greater is[^22] [so] in two ways: either as to being, or as to power.
+**I respond:** It must be said that the argument of Augustine is good and is founded upon the very explication of the name, because *to participate* is *to take a part*, and if it takes a part, then it is less than the whole. To what therefore is objected concerning whiteness, it must be said that *being greater* is[^22] [taken] in two ways: either as to being, or as to power.
 
 It must be said therefore that the participation of a subject is regarded with respect to a universal form; and although it [the form] is wholly in the subject as to being, yet not as to power, because it can be in others; but to God[^23] nothing can be greater either as to being or as to power. And therefore the argument of Augustine holds well, [namely] that God can participate in nothing.
 
@@ -140,7 +140,7 @@ Otherwise it can be said that the argument of Augustine holds well in those form
 
 [^8]: **La.** Vat. absque auctoritate mss. et edd. 1, 2, 3 *differt*, quae et paulo ante, antiquioribus codd. et ed. 1 contradicentibus, omittit *Dicendum*.
 
-    **En.** The Vatican [edition], without the authority of the manuscripts and editions 1, 2, 3, [reads] *differt* [or is at variance], which [edition] also a little earlier, with the older codices and edition 1 contradicting [it], omits *Dicendum*.
+    **En.** The Vatican [edition], without the authority of the manuscripts and editions 1, 2, 3, [reads] *differt* ("differs") [in place of *deficit*, "falls short"], which [edition] also a little earlier, with the older codices and edition 1 contradicting [it], omits *Dicendum*.
 
 [^9]: **La.** Vat. cum cod. cc *solum et* pro *sed*. Mox post *similitudo* pauci codd. ut A V V Y *quod* loco *quia*.
 

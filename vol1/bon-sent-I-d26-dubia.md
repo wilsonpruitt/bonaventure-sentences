@@ -14,7 +14,7 @@ line_end: 4587
 word_count_latin: 1110
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — head-clip fixed: line_start 4477 → 4355 to capture DUB I–III head (was missing). Latin re-set verbatim from IA djvu OCR pt2 (raw lines 4355–4587) with two-column deinterleaving, fresh literal English translation, 10 dubia I–X, full apparatus from raw OCR (23 entries) across pp. 462–464 footers (p. 464 entries [^22]–[^23] reconstructed manually 2026-05-04 from OCR lines 4540–4554 after agent missed them; [^23] retains a [?] flag pending eyes-on-PDF verification of *Vers. 44* citation) (2026-05-04)"
+transcription_status: "Phase C Tier 2 complete — head-clip fixed: line_start 4477 → 4355 to capture DUB I–III head (was missing). Latin re-set verbatim from IA djvu OCR pt2 (raw lines 4355–4587) with two-column deinterleaving, fresh literal English translation, 10 dubia I–X, full apparatus from raw OCR (23 entries) across pp. 462–464 footers. p. 464 footnote band absent from OCR sweep — entries [^22]–[^23] are honest stubs flagged [?] pending eyes-on-PDF read of p. 464 footer (sweep audit 2026-05-08 reverted the prior [^23] reconstruction which had been a duplicate of [^17] / John 8:44 / not applicable to DUB X). (2026-05-04; sweep 2026-05-08)"
 format_version: 1
 ---
 
@@ -254,10 +254,10 @@ And to this it must be said that [*donator*] can be said either from the act of 
 
     **En.** Thus codices *P Q*; the Vatican [edition] [reads] *nomina decet fingere* (it is fitting to fashion names). Several other codices with edition 1 also favor the reading we have received, putting *docet* (teaches) for *decet* (is fitting), and omitting *Philosophus*. The Philosopher in the place cited actually says: *But it will sometimes perhaps be necessary even to fashion a name, if there has not been a name imposed, to which it might be conveniently assigned*. — A little after, many codices with edition 1 [read] *carere* in place of *iacere*.
 
-[^22]: **La.** Aristot., de Praedicam. c. de Relatione.
+[^22]: **La.** [?] Aristot., *de Praedicam.* c. *de Relatione*. [Reconstructed reference: the IA djvu OCR sweep does not capture the p. 464 footer between body line 4587 and DISTINCTIO XXVII at line 4588. The body anchor stands at *relativa sint simul natura* — the standard Aristotelian tag from *Categoriae* 7b15. Citation plausible but unverified; needs eyes-on-PDF read of p. 464 footer (pdf p. 54).]
 
-    **En.** Aristotle, *Categories*, chapter *On Relation*.
+    **En.** [?] Aristotle, *On the Categories*, chapter *On Relation*. [Reconstructed reference; pending eyes-on-PDF verification of p. 464 footer.]
 
-[^23]: **La.** Vers. 44. — Paulo superius post *secundo modo* cod. V repetit *dicitur*. — Hoc dubium solvit etiam B. Albert., hic a. 15; S. Thom., hic circa lit.[?]
+[^23]: **La.** [?] Footer note absent from IA djvu OCR sweep of p. 464; body marker present at *sic et donum* (raw line 4583). Pending eyes-on-PDF read of p. 464 footer (pdf p. 54).
 
-    **En.** Verse 44. — A little above, after *secundo modo* codex V repeats *dicitur*. — This doubt is also resolved by Blessed Albert, here a. 15; St. Thomas, here on the *littera*.[?]
+    **En.** [?] Footer note absent from IA djvu OCR sweep of p. 464; body marker is on the conjunction *et* in *sic et donum*, suggesting a textual variant. Pending eyes-on-PDF verification.
