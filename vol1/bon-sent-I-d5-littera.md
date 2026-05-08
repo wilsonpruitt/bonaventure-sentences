@@ -13,7 +13,7 @@ line_end: 25619
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. V (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 108–110)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, full English body, 6-footnote apparatus (Augustine De Trin V/VII + De Fide et Symbolo) (2026-04-13)"
+transcription_status: "FIRST-PASS — major body restoration + apparatus rebuild REQUIRED before Tier 2 promotion (sweep audit 2026-05-08 found: Latin body covers only ~25% of Lombard's d.5 littera, omitting all of Cap. II [OCR lines 25218-25608, p.108-110 — Augustinian florilegium on substantia/essentia from de Fide ad Petrum, de Trinitate XV.19, de Trin. VII, contra Maximinum II.14 and II.15, plus extensive Hilary citations from de Trin. IV.10, V.37, IX.51, XII.14] and all of Cap. III [25609-25617, on quare Filius dicatur natura Filius]; current 6-footnote apparatus does not begin to cover the ~30+ Quaracchi footer notes on pp.108-110 [OCR lines 25171-25213, 25339-25390, 25506-25545]; existing apparatus entries [^1]-[^4] are real Augustinian text-citations [though paraphrased not pulled from Quaracchi footer], [^5] is editorial gloss not in Quaracchi footer, [^6] is fully fabricated cross-reference). Body needs full re-set from OCR lines 25061-25618."
 format_version: 1
 ---
 

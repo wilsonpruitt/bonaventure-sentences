@@ -13,7 +13,7 @@ line_end: 37970
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 187–192"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation completed 2026-05-04 (apparatus already bilingual from 2026-04-17), 61-footnote apparatus from raw OCR (2026-05-04)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation completed 2026-05-04, 61-footnote apparatus from raw OCR (2026-05-04); 2026-05-08 sweep audit confirmed body+English clean, [^61] fabrication scrubbed and replaced with [?] flag pending PDF resolution (see manual-review/tier2-ambiguities-d9-dubia.md)"
 format_version: 1
 ---
 
@@ -452,8 +452,8 @@ I respond: It must be said that Hilary himself[^60] understands [this] according
 [^60]: **La.** Vat. contra plurimos codd. minus bene *hic* pro *ipse*.
     **En.** The Vatican edition, against most codices, less well reads *hic* for *ipse*.
 
-[^61]: **La.** Oportet mutationem fieri in illa natura — scilicet humana, quam assumpsit — sed non in persona divina.
-    **En.** The change must take place in that nature — namely the human one, which he assumed — but not in the divine person.
+[^61]: **La.** [?] OCR raw lines 37952–37969 truncate the page-192 NOTAE block; the Quaracchi footnote anchored on Dub. XIII Respondeo `aliam` was not transcribed. Pending PDF eyes-on at p. 192 (PDF page 294). Prior chunk text was an editorial paraphrase, not a Quaracchi variant note — removed 2026-05-08. See `manual-review/tier2-ambiguities-d9-dubia.md`.
+    **En.** [?] OCR raw lines 37952–37969 truncate the page-192 NOTAE block; the Quaracchi footnote anchored on Dub. XIII Respondeo *aliam* was not transcribed. Pending PDF eyes-on at p. 192 (PDF page 294). Prior chunk text was an editorial paraphrase, not a Quaracchi variant note — removed 2026-05-08. See `manual-review/tier2-ambiguities-d9-dubia.md`.
 
 ---
 

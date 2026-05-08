@@ -6,14 +6,14 @@ distinctio: 5
 type: dubia
 title_la: "Dubia circa litteram Magistri"
 title_en: "Doubts concerning the Master's text"
-printed_pages: [118, 119, 120]
-pdf_pages: [220, 221, 222]
+printed_pages: [119, 120, 121, 122]
+pdf_pages: [221, 222, 223, 224]
 line_start: 26999
 line_end: 27495
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 118–120"
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 119–122"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body (all 11 dubia, V-XI restored from Quaracchi PDF pp. 121-122), full English body, 10-footnote apparatus (2026-04-13)"
+transcription_status: "FIRST-PASS — apparatus rebuild + body verification REQUIRED before Tier 2 promotion (sweep audit 2026-05-08 found: printed_pages corrected from [118,119,120] to [119,120,121,122]; body Dub II silently abbreviated [omits ~50 words on Deus/homo communality and *unitas rationis* triad]; apparatus has 10 entries vs. ~42 OCR footer notes across pp.119-122, with [^2] suspicious, [^6] partially fabricated, [^7] partially fabricated, [^10] fully fabricated; Dub V-XI Latin previously reconstructed from PDF rather than OCR — needs OCR diff). Multiple body departures documented in manual-review/d5-scaffolds-sweep-audit-log.md."
 format_version: 1
 ---
 
@@ -24,7 +24,7 @@ format_version: 1
 
 ## Latin
 
-<!-- page 118 -->
+<!-- page 119 -->
 
 ### Dubia circa litteram Magistri
 
@@ -48,15 +48,13 @@ Item tertio obiicitur contra tertiam rationem: si Pater genuit divinam essentiam
 
 **Respondeo:** Dicendum, quod, sumendo nomen causae proprie, non cadit in divinis, cadit tamen et recipitur ratio *principiantis* et ratio *informantis*. Quoniam igitur ratio essendi significatur per hoc nomen *essentia*: ideo essentia significat quodam modo in ratione causae respectu entis. Si ergo essentia esset genita ab ente, significaretur in ratione effectus sive principiati, et idem esset tunc principium et principiatum respectu eiusdem, quod est impossibile; et in hoc fundatur ratio Magistri.
 
-<!-- page 119 -->
+<!-- page 121 -->
 
 #### Dubium IV
 
 *Ita etiam non est dicendum, quod divina essentia genuit Filium.* Contra hoc obiicit Ioachim, tam contra positionem quam contra rationem. Contra positionem, quia si essentia non generat nec generatur nec procedit: ergo in divinis est res generans et genita et procedens, et res nec generans nec genita nec procedens; et ita est quaternitas, si sunt quatuor res. Item, irridet rationem Magistri: si essentia generat essentiam, et essentia est una res: ergo una res generat se ipsam.
 
 **Respondeo:** Dicendum, quod Ioachim non recte arguit, et deficit sua ratio, quia *res* non accipitur uniformiter, quia cum dicitur res primo modo, ibi accipitur *res pro re naturae*; sed cum dicitur secundo modo, accipitur pro ipsa natura divina. Ad instantiam eius dicendum, quod *essentia est res una quantum ad suppositum et significatum*; sed *Deus est res una quantum ad significatum, sed plures quantum ad suppositum*. Et ideo ignoranter Ioachim reprehendit Magistrum, et ideo iusto Dei iudicio damnatus fuit libellus eius in Lateranensi Concilio, et positio Magistri approbata[^1].
-
-<!-- page 121 -->
 
 #### Dubium V
 
@@ -80,7 +78,11 @@ Item quaeritur de hoc quod dicit: *Et naturam suam, ut ita dicam, sequitur indem
 
 Item quaeritur de auctoritatibus Augustini, primo de hoc quod dicit, quod *Deus semel genuit Filium*. Videtur enim male dicere *semel*, quia *semel* dicit vicissitudinem; sed in generatione aeterna nulla cadit vicissitudo: ergo etc.
 
-**Respondeo:** Dicendum, quod *semel* potest dicere *nunc temporis*, vel *nunc aeternitatis*. Et si dicat *nunc temporis*, cum tempus habeat diversa nunc, notat intercisionem; si autem *nunc aeternitatis*, et illud *nunc* semper est et invariabile et unum, *semel* dicit omnimodam invariabilitatem, perfectionem et unitatem.
+**Respondeo:** Dicendum, quod *semel* potest dicere *nunc temporis*, vel *nunc aeternitatis*. Et si dicat *nunc temporis*, cum tempus habeat diversa nunc,
+
+<!-- page 122 -->
+
+notat intercisionem; si autem *nunc aeternitatis*, et illud *nunc* semper est et invariabile et unum, *semel* dicit omnimodam invariabilitatem, perfectionem et unitatem.
 
 #### Dubium IX
 
@@ -158,7 +160,11 @@ Likewise it is asked about what he says: *«And the unchangeable God follows His
 
 Likewise it is asked about Augustine's authorities — first about what he says, that *God begot the Son once.* For *once* seems to be said badly, because *once* expresses succession; but in eternal generation no succession occurs: therefore, etc.
 
-**I respond:** It must be said that *once* can express either *now of time* or *now of eternity*. And if it expresses *now of time* — since time has diverse *nows* — it denotes interruption; but if *now of eternity* — and that *now* is always invariable and one — then *once* expresses every kind of invariability, perfection, and unity.
+**I respond:** It must be said that *once* can express either *now of time* or *now of eternity*. And if it expresses *now of time* — since time has diverse *nows* —
+
+<!-- page 122 -->
+
+it denotes interruption; but if *now of eternity* — and that *now* is always invariable and one — then *once* expresses every kind of invariability, perfection, and unity.
 
 #### Doubt IX
 

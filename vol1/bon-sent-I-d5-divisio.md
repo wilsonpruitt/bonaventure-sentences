@@ -9,11 +9,11 @@ title_en: "Commentary on Distinction V — Division of the Text and Treatment of
 printed_pages: [110, 111]
 pdf_pages: [212, 213]
 line_start: 25620
-line_end: 25764
+line_end: 25759
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 110–111"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, English body, 2-footnote apparatus (2026-04-13)"
+transcription_status: "FIRST-PASS — body restoration + apparatus rebuild REQUIRED before Tier 2 promotion (sweep audit 2026-05-08 found: pars-II divisio block at OCR lines 25692-25734 silently omitted from chunk [Bonaventure's four-part division of the second pars: prima determinat, secunda adducit auctoritates contrarias at 'Praedictis videtur', tertia adducit alias Hilarii at 'Huic vero etiam', quarta explanat at 'Sed quia haec verba'; plus the third pars's four particulae at OCR 25719-25734]; both apparatus entries [^1] and [^2] are editorial cross-references not present in OCR p.110-111 footers, fabricated for narrative bridging — OCR has no apparatus footer notes within the divisio body itself, so chunk should likely have has_apparatus: false). Body restoration required from raw lines 25620-25759 (chunk's claimed line_end=25764 actually overshoots into ARTICULUS I)."
 format_version: 1
 ---
 
