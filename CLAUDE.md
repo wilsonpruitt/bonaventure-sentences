@@ -154,6 +154,26 @@ Vol I has ~436 chunks total. Of these (per audit on 2026-05-01): ~56 Tier-2 comp
 - ❌ Don't silently leave half-verified chunks. Either complete to Tier 2, or revert to skeleton with the original status string. Never an in-between.
 - ❌ Don't skip the ambiguities log. Every `[?]` you write goes in the log.
 
+## Required guard-rail audits (before commit)
+
+After ANY chunk promotion, scaffold rebuild, or apparatus edit affecting one or more distinctions, run all three audit scripts and address findings before committing:
+
+```bash
+python3.11 tools/audit-paraphrase.py --min-d N --max-d N
+python3.11 tools/audit-headers.py --min-d N --max-d N
+python3.11 tools/audit-apparatus-count.py --min-d N --max-d N
+```
+
+These three scripts are guard rails against the failure modes caught in the 2026-05-08 cleanup campaign:
+
+1. **`audit-paraphrase.py`** — word-prefix Jaccard + length ratio + status-string smell detection. Catches paraphrase suspects via low overlap with raw OCR. Smell-flag column is the reliable signal; non-smell low-Jaccard on pt2 chunks is mostly OCR-garble noise.
+2. **`audit-headers.py`** — counts unique semantic headers (DUB., QUAESTIO, ARTICULUS roman numerals) in raw OCR per distinction vs chunk body headers. Catches silent body dropouts (the d.27 entire-DUB-V-missing class of failure that `[?]`-flag walks miss because no flag is ever placed). Flag = chunk has fewer headers than raw.
+3. **`audit-apparatus-count.py`** — counts raw OCR footer-note patterns vs chunk `[^N]:` defs. Catches vestigial skeleton chunks (auto-chunked with no apparatus despite raw OCR having footer notes — d.3 / d.8 / d.9-dubia-v2 vestigial cleanup pattern) and incomplete promotions (NOT-Tier-2 chunks with high diff).
+
+**The audits are noisy** — they're triage signals, not absolute truth. Investigate flagged chunks against the raw OCR; only act after eyes-on confirmation. But never commit a chunk-promotion or scaffold-rebuild that leaves a flag without dispositioning it (resolve, document, or accept-with-reason in the per-distinction sweep audit log).
+
+The 2026-05-08 cleanup campaign's per-distinction audit logs at `manual-review/d{N}-scaffolds-sweep-audit-log.md` are the format reference.
+
 ## Re-chunking before translating
 
 **The auto-generated chunk files have boundary bugs.** Raw text was split by line count, not by semantic boundary, so every chunk leaks content mid-fundamentum. **Always verify and re-chunk from raw text before translating a new distinction.**
