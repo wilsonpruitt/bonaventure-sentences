@@ -12,7 +12,7 @@ has_scholion: false
 has_apparatus: true
 line_start: 40193
 line_end: 40497
-transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 40232–40495; original skeleton OCR boundary started 40191 and duplicated d.10 dub V/VI content), full apparatus from raw OCR (18 entries), full English (2026-05-02)"
+transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 40248–40435; original skeleton OCR boundary started 40191 and duplicated d.10 dub V/VI content), full apparatus from raw OCR (18 entries: page-207 fn 1–9 at lines 40294–40352, page-208 fn 10–18 at lines 40438–40494), full English (2026-05-02). Sweep audit 2026-05-08: PASS — body, anchors, and 18-entry apparatus verify cleanly against OCR; one minor anchor-drift note for [^7] (chunk places marker after *integre* whereas OCR places it after the immediately following Patre-procedit quote — both refer to the same passage; not flagged as fabrication)."
 format_version: 1
 ---
 

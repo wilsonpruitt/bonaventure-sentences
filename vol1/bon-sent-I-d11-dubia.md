@@ -14,7 +14,7 @@ has_apparatus: true
 line_start: 41693
 line_end: 41932
 word_count_latin: 927
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 41693–41932, line_end extended from 41857 to capture dub IV apparatus at lines 41923–41932), fresh literal English translation, full apparatus from raw OCR (17 entries) (2026-05-02)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 41693–41932, line_end extended from 41857 to capture dub IV apparatus at lines 41923–41932), fresh literal English translation, full apparatus from raw OCR (17 entries) (2026-05-02). Sweep audit 2026-05-08: PASS — Dub I–IV body, all 17 footnote anchors, and apparatus entries verify cleanly against OCR (page-217 fn 1–12 at lines 41771–41812 + cross-page fn 13–17 at lines 41923–41932); no fabrication, no body omissions, no [?] flags raised."
 format_version: 1
 ---
 

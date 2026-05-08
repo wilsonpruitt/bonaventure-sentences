@@ -12,8 +12,8 @@ source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), p. 208"
 has_scholion: false
 has_apparatus: true
 line_start: 40498
-line_end: 40549
-transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 40497–40543), full apparatus from raw OCR (3 entries), full English (2026-05-02). OCR truncates final word of TRACTATIO QUAESTIONUM at 'diffe-'; reconstructed as 'differentes' from context."
+line_end: 40594
+transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 40498–40543, with apparatus 40587–40594), 3-entry apparatus from raw OCR (agit/iterum/convenire), full English; OCR truncates final word of TRACTATIO QUAESTIONUM at 'diffe-', reconstructed as 'differentes' from context. Sweep audit 2026-05-08: PASS — body, anchors, and apparatus verify cleanly against OCR; line_end extended from 40549 to 40594 to honestly capture the apparatus block, which had been correctly transcribed but lay outside the prior bounds."
 format_version: 1
 ---
 

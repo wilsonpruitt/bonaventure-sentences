@@ -12,7 +12,7 @@ line_end: 47319
 word_count_latin: 1626
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 47036–47319) + PDF spot-check on p. 235 for Dub VI continuation, fresh literal English translation, full apparatus (28 entries) renumbered continuously (2026-05-02)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 47036–47396, body ending at 47318 with Dub VI footnote block at 47388–47396), fresh literal English translation, full apparatus (28 entries) renumbered continuously; d.14 sweep audit 2026-05-08 resolved four prior [?] flags ([^24] [^25] [^27] [^28]) against OCR Dub VI footer block"
 format_version: 1
 ---
 
@@ -214,25 +214,25 @@ Likewise, it is asked concerning another word[^23]: *The charity of God has been
 
     **En.** Supply with codex dd *of the Apostle*. (Romans 5:5.)
 
-[^24]: **La.** Variant on *intra*: codd. ut TVWX[?] (PDF p. 235 footnote 1; OCR garbled — see tier2-ambiguities).
+[^24]: **La.** Nonnulli codd. ut T V W X *intus*.
 
-    **En.** Variant on *intra*: codices such as T, V, W, X[?] (PDF p. 235 fn 1; OCR garbled — see tier2-ambiguities log).
+    **En.** Some codices such as T, V, W, X [read] *intus* ("within") [in place of *intra*].
 
-[^25]: **La.** Greg. M., *Hom. in Evang.* 30, n. 2 (or *Moralia* — exact locus unrecovered from OCR; cf. PDF p. 235 fn 2). The dictum *Operatur enim magna, si est; si vero operari renuit, amor non est* is Gregory's well-known formula on charity.
+[^25]: **La.** Homil. 30. in Evang. n. 2.
 
-    **En.** Gregory the Great, *Homilies on the Gospels* 30, n. 2 (or *Moralia* — exact locus not recovered from OCR; cf. PDF p. 235 fn 2). The saying *For it works great things if it is; but if it refuses to work, it is not love* is Gregory's well-known formula on charity.
+    **En.** [Gregory the Great,] *Homilies on the Gospels* 30, n. 2.
 
 [^26]: **La.** Vers. 38.
 
     **En.** Verse 38. (John 7:38.)
 
-[^27]: **La.** Praeferimus lectionem codd. ut LO *deficiente* loco *deficienti*[?] (PDF p. 235 fn 3 — exact OCR text not recovered).
+[^27]: **La.** Praeferimus lectionem codd. L O *deficiente* loco *deficiendi*, quia et in se verior est et cum subnexis conformior.
 
-    **En.** We prefer the reading of codices such as L and O *deficiente* in place of *deficienti*[?] (PDF p. 235 fn 3 — exact OCR text not recovered).
+    **En.** We prefer the reading of codices L and O *deficiente* ("deficient" [ablative]) in place of *deficiendi* ("of/for being deficient" [gerund]), since it is both truer in itself and more conformable with what follows.
 
-[^28]: **La.** Cross-reference and/or scriptural cite at terminus of Dub VI (PDF p. 235 fn 4 or 5 — OCR truncated).
+[^28]: **La.** Egregie de hoc loquitur S. Doctor in *Comment. in Ioan.* c. 8, 39 (Supplem. Bonelli, tom. I. col. 735.).
 
-    **En.** Cross-reference and/or scriptural citation at the close of Dub VI (PDF p. 235 fn 4 or 5 — OCR truncated).
+    **En.** The Holy Doctor [Bonaventure] speaks excellently on this in his *Commentary on John* c. 8, 39 (Bonelli's *Supplementum*, vol. I, col. 735).
 
 ## Notes
 
