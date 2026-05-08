@@ -15,7 +15,7 @@ line_end: 7589
 word_count_latin: 950
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR pt2 (raw lines 7392–7589, 4 dubia entries DUB I–IV; line_start corrected from skeleton's 7374 to actual DUB. I header at 7392 — the 7374–7391 range is q4 scholion content captured by the q4 sister chunk) with two-column deinterleaving across pp. 491–492, fresh literal English translation, full apparatus from raw OCR (6 entries reflowed from p. 491 footer cols A+B + p. 492 footer) (2026-05-06)"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR pt2 (raw lines 7392–7589, 4 dubia entries DUB I–IV; line_start corrected from skeleton's 7374 to actual DUB. I header at 7392 — the 7374–7391 range is q4 scholion content captured by the q4 sister chunk) with two-column deinterleaving across pp. 491–492, fresh literal English translation, full apparatus from raw OCR (7 entries reflowed from p. 491 footer cols A+B + p. 492 footer); 2026-05-08 sweep audit prepended the missing 'Cfr. supra pag. 339, nota 5.' clause to [^2] (it had been silently dropped, leaving only the codex-extension half) (2026-05-08)"
 format_version: 1
 ---
 
@@ -117,9 +117,9 @@ Likewise it is asked about what he immediately adds there: *Although those names
 
     **En.** An older form for *neutrius*; especially [forms with] words of neuter gender occur very often among the ancient grammarians.
 
-[^2]: **La.** Cod. hic finem propositionis facit. Deinde adiungit: *Aliter videtur posse dici, quod stat semper ly hoc personaliter, et tantum valet hoc est Pater, ac si diceretur: est Pater. Sapientia enim, secundum quod essentia, est Pater; secundum quod est Verbum, non est Pater, ut non* etc.
+[^2]: **La.** Cfr. supra pag. 339, nota 5. — Cod. hic finem propositionis facit. Deinde adiungit: *Aliter videtur posse dici, quod stat semper ly hoc personaliter, et tantum valet hoc est Pater, ac si diceretur: est Pater. Sapientia enim, secundum quod essentia, est Pater; secundum quod est Verbum, non est Pater, ut non* etc.
 
-    **En.** A codex here makes the end of the sentence. Then it adds: *It seems it can be said otherwise, that ly hoc always stands personally, and "hoc est Pater" amounts to as much as if it were said: "he is the Father". For wisdom, insofar as it is essence, is the Father; insofar as it is the Word, it is not the Father, so that not* etc.
+    **En.** Cf. above p. 339, note 5. — A codex here makes the end of the sentence. Then it adds: *It seems it can be said otherwise, that ly hoc always stands personally, and "hoc est Pater" amounts to as much as if it were said: "he is the Father". For wisdom, insofar as it is essence, is the Father; insofar as it is the Word, it is not the Father, so that not* etc.
 
 [^3]: **La.** Ed. 1 hic et rursum paulo inferius post *imago* substituit *quia* pro *quod*, quo secundo loco etiam permulti codd. cum ed. 1 conveniunt. Cod. Y subinde etiam post verba immediate subsequentia *et filius* coniunctionem *quia* repetit.
 

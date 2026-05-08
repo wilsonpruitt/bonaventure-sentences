@@ -11,11 +11,11 @@ printed_pages: [479, 480]
 pdf_pages: [69, 70]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 479–480"
 line_start: 6183
-line_end: 6285
-word_count_latin: 1095
+line_end: 6281
+word_count_latin: 1230
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR pt2 (raw lines 6152–6285, 4 dubia entries DUB I–IV) with two-column deinterleaving, fresh literal English translation, full apparatus from raw OCR (15 entries: 8 from p. 479 footer + 7 from p. 480 footer). OCR superscript anchors are noisy — anchor positions are placed by content-fit to footer note text where unambiguous; one [?] flag on dub.III on the *important*/*importat* split (2026-05-05)"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR pt2 (raw lines 6152–6281, 5 dubia entries DUB I–V) with two-column deinterleaving, fresh literal English translation, full apparatus from raw OCR (16 entries: p. 479 footer cols A+B + p. 480 footer cols A+B). DUB V and three apparatus entries ([^13], [^14], [^16]) restored 2026-05-08 from previously-truncated transcription; one [?] flag on DUB V truncated tail (`ergo acci-`) at p. 480 col. B page-bottom break, logged in tier2-ambiguities-d27-p1-dubia.md (2026-05-08)"
 format_version: 1
 ---
 
@@ -57,7 +57,13 @@ quantum est de se, non suppositum. — Sed nomen adiectivum, idem significans, s
 
 Item quaeritur de hoc quod dicit[^10]: *Cum nomina relationum ponimus in praedicatis, ipsas tantum notiones significamus, non hypostases*; quia si hoc verum est, quando dicitur: *essentia est Pater*, cum *Pater* ponatur in praedicato, stat tunc[^11] pro notione: ergo idem est dicere: *essentia est Pater*, ac si diceretur: *essentia generat*; sed haec est falsa: ergo etc.
 
-**Respondeo:** Dicendum, quod quaedam ponuntur in praedicato per naturam propriam et significationem: et talia sunt quae de se important compositionem, sicut sunt verba; et de talibus loquitur Magister. Quaedam ita ponuntur in praedicato, quod sunt nata subiici, ut hoc nomen *pater* et hoc nomen *filius*; et talia, quia non solum nata sunt praedicari, verum etiam subiici, possunt importare intellectum hypostasis. Unde verbum Magistri intelligendum est cum praecisione[^12], scilicet de illis quae ita nata sunt praedicari, quod non subiici; et ita non habet instantiam.
+**Respondeo:** Dicendum, quod quaedam ponuntur in praedicato per naturam propriam et significationem: et talia sunt quae de se important compositionem, sicut sunt verba[^13]; et de talibus loquitur Magister. Quaedam ita ponuntur in praedicato, quod sunt nata subiici, ut hoc nomen *pater* et hoc nomen *filius*; et talia, quia non solum nata sunt praedicari, verum etiam subiici, possunt importare intellectum hypostasis. Unde verbum Magistri intelligendum est cum praecisione[^12], scilicet de illis[^14] quae ita nata sunt praedicari, quod non subiici; et ita non habet instantiam.
+
+### DUB. V.
+
+Item quaeritur de hoc quod dicit: *Characteristica idiomata determinativa sunt hypostaseon, non naturae* etc. Videtur enim male dicere, quia proprietates, quae non determinant naturam, sunt non naturales; quia omnis proprietas naturalis, eo ipso quod naturalis est, naturam determinat: ergo si proprietates in divinis non determinant naturam, non sunt naturales, ergo praeter naturam: ergo acci[?]…[^15]
+
+**Respondeo:** Dicendum, quod sicut ordo naturae dicitur dupliciter: aut quo natura *ordinatur*, aut in quo natura est ratio *ordinandi*; sic etiam de proprietatibus intelligendum: et quando dicimus proprietatem naturalem, non oportet, quod proprietas habeat naturam ut subiectum, sed quod sit consonans naturae ipsius subiecti, sicut filius naturalis non dicitur, quia sit a natura vel essentia, sed a patre naturaliter producente[^16]; sic et in proposito est intelligendum.
 
 ---
 
@@ -89,13 +95,19 @@ not the supposit. — But an adjectival noun, signifying the same [thing], signi
 
 Likewise it is asked about what he says[^10]: *When we place the names of the relations in the predicates, we signify only the notions themselves, not the hypostases*; because if this is true, when it is said: *the essence is the Father*, since *Father* is placed in the predicate, it then[^11] stands for a notion: therefore it is the same to say: *the essence is the Father*, as if it were said: *the essence generates*; but this is false: therefore etc.
 
-**I respond:** It must be said that some [things] are placed in the predicate through their own proper nature and signification: and such are those which of themselves import composition, as verbs are; and the Master speaks about such [things]. Some [things] are placed in the predicate in such a way that they are by nature [fit] to be made the subject, as this name *father* and this name *son*; and such, because they are by nature not only [fit] to be predicated, but also to be made the subject, can import the understanding of a hypostasis. Hence the Master's word must be understood with [a certain] precision[^12], namely of those [things] which are by nature [fit] to be predicated in such a way that [they are] not [fit] to be made the subject; and so it has no instance against it.
+**I respond:** It must be said that some [things] are placed in the predicate through their own proper nature and signification: and such are those which of themselves import composition, as verbs[^13] are; and the Master speaks about such [things]. Some [things] are placed in the predicate in such a way that they are by nature [fit] to be made the subject, as this name *father* and this name *son*; and such, because they are by nature not only [fit] to be predicated, but also to be made the subject, can import the understanding of a hypostasis. Hence the Master's word must be understood with [a certain] precision[^12], namely of those [things][^14] which are by nature [fit] to be predicated in such a way that [they are] not [fit] to be made the subject; and so it has no instance against it.
+
+### Doubt V.
+
+Likewise it is asked about what he says: *The characteristic idioms are determinative of the hypostases, not of the nature*, etc. For he seems to say [something] amiss, because properties which do not determine the nature are non-natural; since every natural property, by the very fact that it is natural, determines the nature: therefore, if the properties in divine [things] do not determine the nature, they are not natural — therefore [they are] outside of nature, and therefore acci[?]… [accidental?][^15]
+
+**I respond:** It must be said that, just as the order of nature is said in two ways — either [as that] by which nature *is ordered*, or [as that] in which nature is the ground *of ordering* — so too is it to be understood concerning the properties: and when we speak of a *natural* property, it is not required that the property have nature as its subject, but [only] that it be consonant with the nature of the subject itself; just as a son is not called *natural* because he is from a nature or essence, but [because he is] from a father naturally producing[^16]; so too in the case at hand it is to be understood.
 
 ---
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes [^1]–[^8] are reflowed from the page 479 footer (col-A notes 1–5 + col-B notes 6–8); notes [^9]–[^12] are reflowed from the page 480 footer (col-A notes 1–4 + col-B notes 5–7, of which only those that map to the body anchors above are retained here; remaining footer notes 5–7 either gloss text outside this chunk's body or duplicate prior content).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes [^1]–[^8] are reflowed from the page 479 footer (col-A notes 1–5 + col-B notes 6–8); notes [^9]–[^14] and [^16] are reflowed from the page 480 footer (col-A notes 1–2 + col-B notes 3–7); note [^15] is an editorial flag on a printer-band truncation. The 2026-05-08 sweep audit restored DUB V, anchors [^13]/[^14]/[^16] previously dropped, and the [^15] flag.
 
 [^1]: **La.** Vat. cum uno vel altero cod. *illa*, minus congrue.
 
@@ -144,3 +156,19 @@ Likewise it is asked about what he says[^10]: *When we place the names of the re
 [^12]: **La.** Cfr. supra d. 20. a. 2. q. 2. in corp. quaest. — Paulo post pro *quando* Vat. *quoniam*, refragantibus codd. *F L O P Q T Y* nec non ed. 1.
 
     **En.** Cf. above d. 20, a. 2, q. 2, in the body of the question. — A little after, in place of *quando* (when) the Vatican [edition] [reads] *quoniam* (since), against codices *F L O P Q T Y* as well as edition 1.
+
+[^13]: **La.** Cfr. dub. praeced. — Paulo superius verba *de se* omittuntur a Vat. et nonnullis codd. et edd.
+
+    **En.** Cf. the preceding doubt. — A little above, the words *de se* ("of itself") are omitted by the Vatican [edition] and by some codices and editions.
+
+[^14]: **La.** Pro *illis quae ita* codd. *P Q* *illis de quibus constat quod ita*.
+
+    **En.** In place of *illis quae ita* ("of those which thus") codices *P Q* [read] *illis de quibus constat quod ita* ("of those of which it is established that thus").
+
+[^15]: **La.** Editorial note. The Quaracchi text breaks at the page-bottom band of p. 480 col. B with `ergo acci-`; the OCR preserves no continuation, and the printed page resumes with *Respondeo: Dicendum, quod sicut ordo naturae...* The truncated word is presumably *accidentales* ("accidental"), but verification at 600-dpi PDF eyes-on is needed; logged in `manual-review/tier2-ambiguities-d27-p1-dubia.md`.
+
+    **En.** Editorial note. The Quaracchi text breaks at the page-bottom band of p. 480 col. B with *ergo acci-*; the OCR preserves no continuation, and the printed page resumes with *Respondeo: Dicendum, quod sicut ordo naturae...* The truncated word is presumably *accidentales*, but verification at 600-dpi PDF eyes-on is needed.
+
+[^16]: **La.** Pro *producente* plures codd. ut *AG H T X Y aa* perperam *procedente*; codd. *L* rectius *procedens*.
+
+    **En.** In place of *producente* ("producing") many codices, such as *A G H T X Y aa*, mistakenly [read] *procedente* ("proceeding"); codices *L* more correctly [read] *procedens* ("proceeding [nominative]").

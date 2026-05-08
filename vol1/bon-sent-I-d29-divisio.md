@@ -12,7 +12,7 @@ source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 507–508"
 has_scholion: false
 has_apparatus: true
 word_count_latin: 533
-transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 8997–9075), de-interleaved from two-column page-bottom layout, literal English, apparatus from page-bottom NOTAE band and body apparatus (2026-05-06)"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 8997–9075), de-interleaved from two-column page-bottom layout, literal English, apparatus from page-bottom NOTAE band and body apparatus; 2026-05-08 sweep: corrected fabricated [^2] (had reused littera [^15] Lyons II text; now correctly reads NOTAE entry 2 from p.508 footer, raw line 9110: *Plures codd. ut K S V W cum ed. 6 voci principium praefigunt unum*) (2026-05-06; sweep-fix 2026-05-08)"
 line_start: 8997
 line_end: 9075
 format_version: 1
@@ -98,9 +98,9 @@ Second, granted that [it is taken] both essentially and notionally, it is asked 
 
     **En.** In not a few manuscripts and in edition 1, the word *non* ("not") is missing.
 
-[^2]: **La.** Receptum est nomen *spiratio*, consecratum a Concilio Lugdunensi II. (an. 1274): «Spiritus sanctus... non duabus spirationibus, sed unica spiratione procedit».
+[^2]: **La.** Plures codd. ut K S V W cum ed. 6 voci *principium* praefigunt *unum*.
 
-    **En.** The name *spiration* has been received, consecrated by the Second Council of Lyons (A.D. 1274): "The Holy Spirit... proceeds not by two spirations, but by a single spiration."
+    **En.** Many codices such as K, S, V, W, with edition 6, prefix the word *unum* to *principium*.
 
 [^3]: **La.** Cod. T *intelligentiam*.
 

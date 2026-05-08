@@ -14,7 +14,7 @@ has_apparatus: true
 line_start: 7590
 line_end: 7777
 word_count_latin: 1633
-transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 7590–7777, multi-cap Lombard text), literal English, apparatus from page-bottom footnote bands (2026-05-06)"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 7590–7777, multi-cap Lombard text), literal English, apparatus from page-bottom footnote bands; d.28 scaffolds sweep 2026-05-08 added missing p.494 fn 3 (= chunk [^9], Cap. 2 n. 3 — Augustine de Trin. VII source citation) with body anchors and renumbered subsequent footnotes (2026-05-08)"
 format_version: 1
 ---
 
@@ -56,11 +56,11 @@ Pater Deus est, id est per essentiam vel naturam; Filius eo Deus est, quo Pater 
 
 #### Cap. VI. *In sapientia genita dicitur secundum relationem, vel secundum substantiam.*
 
-Sciendum quoque est, quod sicut solus Filius dicitur verbum vel imago, ita etiam ipse solus dicitur sapientia nata vel genita. Et ideo quaeritur, utrum hoc relative dicatur, et si relative dicitur, an secundum eandem relationem, qua dicitur verbum et imago. De hoc Augustinus in septimo libro *de Trinitate* ita ait: «Id dici accipiamus, cum dicitur verbum, ac si diceretur nata sapientia, ut sit et Filius et Imago; et haec duo cum dicuntur, id est nata sapientia, in uno eorum, eo quod est nata, et Verbum et Imago et Filius intelligatur — et in his omnibus nominibus non ostendatur essentia, quia relative dicuntur — at in altero, quod est sapientia, etiam essentia demonstretur, quoniam et ad se dicitur. Se ipsa enim sapiens est, et hoc est eius esse quod sapere; unde Pater et Filius simul una sapientia, quia una essentia». — Cave, lector, qualiter hoc intelligas, quod hic dicit Augustinus. Videtur enim dicere, quod cum dicitur nata sapientia, ibi sapientia essentiam significet, et nata relationem notet. Quod si ita est, cogimur dicere, essentiam divinam esse natam; quod superioribus repugnat. — Sed ad hoc dicimus, quod *nata* in altero, id est in eo quod nata est, eadem notio intelligitur[^9], quae notatur cum dicitur verbum et imago. In altero vero, scilicet sapientia, demonstratur essentia, id est, demonstratur, quod Filius sit essentia, quia sapientia secundum essentiam dicitur. Et ideo cum dicitur nata sapientia, intelligitur, quod ipse, quia natus est, essentia est. Ibi tamen sapientia non pro essentia, sed pro hypostasi facit intelligentiam, ut, sicut quando dicitur verbum vel filius, intelligitur hypostasis cum sua proprietate, ita, cum dicitur nata sapientia, idem intelligatur[^10], id est genita hypostasis. Ideo vigilanter ait, idem esse intelligendum, cum dicitur verbum, et cum dicitur nata sapientia, id est eadem relatio eademque hypostasis, cui inest illa proprietas. Et ex hoc adiuvatur illud quod supra[^11] diximus, scilicet quod cum dicitur Pater vel Filius vel Spiritus sanctus, non tantum illae proprietates significantur, ut cum dicitur paternitas, filiatio, sed etiam hypostases cum suis proprietatibus.
+Sciendum quoque est, quod sicut solus Filius dicitur verbum vel imago, ita etiam ipse solus dicitur sapientia nata vel genita. Et ideo quaeritur, utrum hoc relative dicatur, et si relative dicitur, an secundum eandem relationem, qua dicitur verbum et imago. De hoc Augustinus in septimo libro *de Trinitate*[^9] ita ait: «Id dici accipiamus, cum dicitur verbum, ac si diceretur nata sapientia, ut sit et Filius et Imago; et haec duo cum dicuntur, id est nata sapientia, in uno eorum, eo quod est nata, et Verbum et Imago et Filius intelligatur — et in his omnibus nominibus non ostendatur essentia, quia relative dicuntur — at in altero, quod est sapientia, etiam essentia demonstretur, quoniam et ad se dicitur. Se ipsa enim sapiens est, et hoc est eius esse quod sapere; unde Pater et Filius simul una sapientia, quia una essentia». — Cave, lector, qualiter hoc intelligas, quod hic dicit Augustinus. Videtur enim dicere, quod cum dicitur nata sapientia, ibi sapientia essentiam significet, et nata relationem notet. Quod si ita est, cogimur dicere, essentiam divinam esse natam; quod superioribus repugnat. — Sed ad hoc dicimus, quod *nata* in altero, id est in eo quod nata est, eadem notio intelligitur[^10], quae notatur cum dicitur verbum et imago. In altero vero, scilicet sapientia, demonstratur essentia, id est, demonstratur, quod Filius sit essentia, quia sapientia secundum essentiam dicitur. Et ideo cum dicitur nata sapientia, intelligitur, quod ipse, quia natus est, essentia est. Ibi tamen sapientia non pro essentia, sed pro hypostasi facit intelligentiam, ut, sicut quando dicitur verbum vel filius, intelligitur hypostasis cum sua proprietate, ita, cum dicitur nata sapientia, idem intelligatur[^11], id est genita hypostasis. Ideo vigilanter ait, idem esse intelligendum, cum dicitur verbum, et cum dicitur nata sapientia, id est eadem relatio eademque hypostasis, cui inest illa proprietas. Et ex hoc adiuvatur illud quod supra[^12] diximus, scilicet quod cum dicitur Pater vel Filius vel Spiritus sanctus, non tantum illae proprietates significantur, ut cum dicitur paternitas, filiatio, sed etiam hypostases cum suis proprietatibus.
 
 #### Cap. VII. *De imagine.*
 
-Illud etiam sciri oportet, quia cum supra[^12] dictum sit, imaginem relative dici de Filio, sicut verbum vel filius, interdum tamen reperitur secundum substantiam dici. Unde Augustinus in libro *de Fide ad Petrum*[^13] dicit, quod una est sanctae Trinitatis essentialiter divinitas et imago, ad quam factus est homo. Hilarius etiam in quinto libro *de Trinitate*[^14] sic ait: «Homo fit ad communem imaginem. Nomen non discrepat, natura non differt. Una est enim ad quam homo creatus est species». Ex his verbis ostenditur, quod imago aliquando essentiae intelligentiam facit, et tunc ad se dicitur et non relative.
+Illud etiam sciri oportet, quia cum supra[^13] dictum sit, imaginem relative dici de Filio, sicut verbum vel filius, interdum tamen reperitur secundum substantiam dici. Unde Augustinus in libro *de Fide ad Petrum*[^14] dicit, quod una est sanctae Trinitatis essentialiter divinitas et imago, ad quam factus est homo. Hilarius etiam in quinto libro *de Trinitate*[^15] sic ait: «Homo fit ad communem imaginem. Nomen non discrepat, natura non differt. Una est enim ad quam homo creatus est species». Ex his verbis ostenditur, quod imago aliquando essentiae intelligentiam facit, et tunc ad se dicitur et non relative.
 
 ---
 
@@ -96,17 +96,17 @@ the Father is God, that is, through essence or nature; the Son is God by that [a
 
 #### Cap. VI. *That "begotten wisdom" is said either according to relation or according to substance.*
 
-It must also be known that, just as the Son alone is called *Word* or *Image*, so He alone is called *born* or *begotten Wisdom*. And therefore it is asked whether this is said relatively, and if it is said relatively, whether [it is so] according to the same relation by which *Word* and *Image* are said. On this Augustine in the seventh book *On the Trinity* speaks thus: "Let us take it that, when *Word* is said, what is signified is as if *born Wisdom* were said, so that He is also Son and Image; and when these two are said, that is, *born Wisdom*, in one of them, namely in *born*, both *Word* and *Image* and *Son* are understood — and in all these names essence is not shown, since they are said relatively — but in the other, which is *Wisdom*, essence too is shown, since [it] is said also with reference to self. For He is wise by Himself, and this is His being which is to be wise; whence Father and Son together are one Wisdom, since [they are] one essence." — Take care, reader, how you understand this which Augustine here says. For he seems to say that, when *born Wisdom* is said, *Wisdom* there signifies essence, and *born* notes the relation. Which if it is so, we are forced to say that the divine essence is born; which contradicts what was said above. — But to this we say, that *born*, in the one [term], that is, in the [word] *born*, is understood by the same notion by which it is noted when *Word* and *Image* are said[^9]. But in the other, namely *Wisdom*, essence is shown, that is, it is shown that the Son is essence, since *Wisdom* is said according to essence. And therefore, when *born Wisdom* is said, it is understood that He, since He is born, is essence. Yet there *Wisdom* effects an understanding not for essence but for hypostasis, so that, just as when *Word* or *Son* is said, the hypostasis with its property is understood, so, when *born Wisdom* is said, the same is to be understood[^10], that is, the begotten hypostasis. Hence with vigilance he says that the same must be understood when *Word* is said and when *born Wisdom* is said — that is, the same relation and the same hypostasis, in which that property is. And by this is supported what we said above[^11], namely that, when *Father* or *Son* or *Holy Spirit* is said, not only those properties are signified — as when paternity, filiation [are said] — but also the hypostases together with their properties.
+It must also be known that, just as the Son alone is called *Word* or *Image*, so He alone is called *born* or *begotten Wisdom*. And therefore it is asked whether this is said relatively, and if it is said relatively, whether [it is so] according to the same relation by which *Word* and *Image* are said. On this Augustine in the seventh book *On the Trinity*[^9] speaks thus: "Let us take it that, when *Word* is said, what is signified is as if *born Wisdom* were said, so that He is also Son and Image; and when these two are said, that is, *born Wisdom*, in one of them, namely in *born*, both *Word* and *Image* and *Son* are understood — and in all these names essence is not shown, since they are said relatively — but in the other, which is *Wisdom*, essence too is shown, since [it] is said also with reference to self. For He is wise by Himself, and this is His being which is to be wise; whence Father and Son together are one Wisdom, since [they are] one essence." — Take care, reader, how you understand this which Augustine here says. For he seems to say that, when *born Wisdom* is said, *Wisdom* there signifies essence, and *born* notes the relation. Which if it is so, we are forced to say that the divine essence is born; which contradicts what was said above. — But to this we say, that *born*, in the one [term], that is, in the [word] *born*, is understood by the same notion by which it is noted when *Word* and *Image* are said[^10]. But in the other, namely *Wisdom*, essence is shown, that is, it is shown that the Son is essence, since *Wisdom* is said according to essence. And therefore, when *born Wisdom* is said, it is understood that He, since He is born, is essence. Yet there *Wisdom* effects an understanding not for essence but for hypostasis, so that, just as when *Word* or *Son* is said, the hypostasis with its property is understood, so, when *born Wisdom* is said, the same is to be understood[^11], that is, the begotten hypostasis. Hence with vigilance he says that the same must be understood when *Word* is said and when *born Wisdom* is said — that is, the same relation and the same hypostasis, in which that property is. And by this is supported what we said above[^12], namely that, when *Father* or *Son* or *Holy Spirit* is said, not only those properties are signified — as when paternity, filiation [are said] — but also the hypostases together with their properties.
 
 #### Cap. VII. *On the Image.*
 
-This too must be known: that although it has been said above[^12] that *image* is said relatively of the Son, just as *word* or *son*, it is sometimes nevertheless found to be said according to substance. Whence Augustine in the book *On the Faith to Peter*[^13] says that the divinity of the Holy Trinity essentially is one, and the Image to which man was made [is one]. Hilary too in the fifth book *On the Trinity*[^14] thus says: "Man is made to a common image. The name does not differ, the nature does not differ. For one is the species to which man was created." From these words it is shown that *image* sometimes effects an understanding of essence, and is then said with reference to self and not relatively.
+This too must be known: that although it has been said above[^13] that *image* is said relatively of the Son, just as *word* or *son*, it is sometimes nevertheless found to be said according to substance. Whence Augustine in the book *On the Faith to Peter*[^14] says that the divinity of the Holy Trinity essentially is one, and the Image to which man was made [is one]. Hilary too in the fifth book *On the Trinity*[^15] thus says: "Man is made to a common image. The name does not differ, the nature does not differ. For one is the species to which man was created." From these words it is shown that *image* sometimes effects an understanding of essence, and is then said with reference to self and not relatively.
 
 ---
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (NOTAE AD LIBR. SENTENTIARUM, reflowed from the two-column footnote bands on printed pp. 493–494) in Latin, followed by an English rendering. Notes [^1]–[^6] are from the page-bottom band of p. 493; [^7]–[^14] are from p. 494.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (NOTAE AD LIBR. SENTENTIARUM, reflowed from the two-column footnote bands on printed pp. 493–494) in Latin, followed by an English rendering. Notes [^1]–[^6] are from the page-bottom band of p. 493; [^7]–[^15] are from p. 494.
 
 [^1]: **La.** Omnia praecedentia a verbis *Hoc exemplis* sumta sunt ex V. *de Trin.* c. 7. n. 8, paucis mutatis. — Paulo post Vat. perperam *alia* pro *aliaque*, ed. 1 *alia quoque*.
 
@@ -140,26 +140,30 @@ This too must be known: that although it has been said above[^12] that *image* i
 
     **En.** Chapter 5, n. 6.
 
-[^9]: **La.** Vat. cum aliis edd. contra codd. et edd. 1, 8 *intelligatur*.
+[^9]: **La.** Cap. 2, n. 3.
+
+    **En.** Chapter 2, n. 3.
+
+[^10]: **La.** Vat. cum aliis edd. contra codd. et edd. 1, 8 *intelligatur*.
 
     **En.** The Vatican with the other editions [reads], against the codices and editions 1, 8, *intelligatur*.
 
-[^10]: **La.** Vat. cum aliis edd. perperam *intelligitur*, refragantibus codd. et ed. 8.
+[^11]: **La.** Vat. cum aliis edd. perperam *intelligitur*, refragantibus codd. et ed. 8.
 
     **En.** The Vatican with the other editions wrongly [reads] *intelligitur*, against the codices and edition 8.
 
-[^11]: **La.** Dist. XXVII. pars II. in princip. — Vat. cum plurimis edd. *superius* pro *supra*, et post *scilicet* omittit *quod*.
+[^12]: **La.** Dist. XXVII. pars II. in princip. — Vat. cum plurimis edd. *superius* pro *supra*, et post *scilicet* omittit *quod*.
 
     **En.** Distinction XXVII, Part II, at the beginning. — The Vatican with most editions [reads] *superius* in place of *supra*, and after *scilicet* omits *quod*.
 
-[^12]: **La.** *Ibid.* pars II. c. 3, circa finem.
+[^13]: **La.** *Ibid.* pars II. c. 3, circa finem.
 
     **En.** *Ibid.*, Part II, c. 3, near the end.
 
-[^13]: **La.** Cap. 1, n. 5. Hunc librum non esse S. Augustini, sed Fulgentii Ruspensis, supra in Prolegomenis pag. LXXXIV dictum est.
+[^14]: **La.** Cap. 1, n. 5. Hunc librum non esse S. Augustini, sed Fulgentii Ruspensis, supra in Prolegomenis pag. LXXXIV dictum est.
 
     **En.** Chapter 1, n. 5. That this book is not by St. Augustine but by Fulgentius of Ruspe was stated above in the Prolegomena, p. LXXXIV.
 
-[^14]: **La.** *Num.* 8.
+[^15]: **La.** *Num.* 8.
 
     **En.** *N.* 8.
