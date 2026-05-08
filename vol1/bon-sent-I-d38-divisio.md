@@ -14,7 +14,7 @@ has_apparatus: true
 line_start: 25070
 line_end: 25146
 word_count_latin: 350
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 25070–25146 of pt2), fresh literal English translation, full apparatus from raw OCR (3 entries), [?] flags on ambiguous spots (2026-05-07)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 25070–25146 of pt2), fresh literal English translation, full apparatus from raw OCR (3 entries), [?] flags on ambiguous spots (2026-05-07). Re-audited 2026-05-08: body line-by-line vs raw OCR confirms no dropouts; 4/4 headers matched; apparatus pegging unchanged; existing [?] flags (footnote 2 truncation, [^2] body position) deferred to decade-polish PDF pass."
 format_version: 1
 ---
 
