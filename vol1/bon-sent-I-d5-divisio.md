@@ -12,8 +12,8 @@ line_start: 25620
 line_end: 25759
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 110–111"
 has_scholion: false
-has_apparatus: true
-transcription_status: "FIRST-PASS — body restoration + apparatus rebuild REQUIRED before Tier 2 promotion (sweep audit 2026-05-08 found: pars-II divisio block at OCR lines 25692-25734 silently omitted from chunk [Bonaventure's four-part division of the second pars: prima determinat, secunda adducit auctoritates contrarias at 'Praedictis videtur', tertia adducit alias Hilarii at 'Huic vero etiam', quarta explanat at 'Sed quia haec verba'; plus the third pars's four particulae at OCR 25719-25734]; both apparatus entries [^1] and [^2] are editorial cross-references not present in OCR p.110-111 footers, fabricated for narrative bridging — OCR has no apparatus footer notes within the divisio body itself, so chunk should likely have has_apparatus: false). Body restoration required from raw lines 25620-25759 (chunk's claimed line_end=25764 actually overshoots into ARTICULUS I)."
+has_apparatus: false
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 25620-25759), fresh literal English translation, has_apparatus toggled false (the two prior entries were editorial cross-references not present in OCR p.110-111 footers and were removed; OCR has no apparatus footer notes within the divisio body itself), [?] flags on ambiguous spots (2026-05-08)"
 format_version: 1
 ---
 
@@ -30,15 +30,23 @@ format_version: 1
 
 *De comparatione generationis ad terminum essentialem abstractum, qui est essentia.*
 
-> *«Post haec quaeritur, utrum concedendum sit»* etc.
+> *Post haec quaeritur, utrum concedendum sit etc.*
 
 ### Divisio Textus
 
-In praecedenti distinctione movit Magister quaestionem de comparatione generationis ad terminum essentialem concretum[^1], qualis est hoc nomen *Deus*. In praesenti movet quaestionem de comparatione generationis ad terminum essentialem abstractum, qui est *essentia*. Et dividitur haec pars in duas partes.
+In praecedenti distinctione movit Magister quaestionem de comparatione generationis ad terminum essentialem concretum, qualis est hoc nomen *Deus*. In praesenti movet quaestionem de comparatione generationis ad terminum essentialem abstractum, qui est *essentia*. Et dividitur haec pars in duas partes.
 
-In *prima parte* movet quaestionem ex comparatione generationis ad essentiam in ratione *termini*, videlicet utrum essentia generetur; in *secunda* in ratione *principii*, utrum essentia generet etc., ibi: *Ita etiam non est dicendum, quod divina essentia genuit Filium*.
+In *prima parte* movet quaestionem ex comparatione generationis ad essentiam in ratione *termini*, videlicet utrum essentia generetur; in *secunda* in ratione *principii*, utrum essentia generet etc., ibi: *Ita etiam non est dicendum, quod divina essentia genuit Filium* etc.
 
-Item prima pars habet quatuor partes. In *prima* proponit problemata, videlicet utrum essentia generet vel generetur. In *secunda* adducit rationes tres probantes, quod essentia non generatur a Patre, ibi: *Ideo non est dicendum, quod Pater genuit* etc. In *tertia* adducit rationes in contrarium, ibi: *Huic autem videtur contrarium* etc. In *quarta et ultima* solvit et exponit, ibi: *Ad quod respondemus*.
+Item prima pars habet quatuor partes. In *prima* parte proponit problemata, videlicet utrum essentia generet vel generetur. In *secunda* adducit rationes tres probantes, quod essentia non generatur a Patre, ibi: *Ideo non est dicendum, quod Pater genuit* etc. In *tertia* adducit rationes in contrarium, ibi: *Huic autem videtur contrarium* etc. In *quarta et ultima* solvit et exponit, ibi: *Ad quod respondemus*.
+
+<!-- page 111 -->
+
+*Ita etiam non est dicendum.* Haec est secunda pars istius distinctionis, in qua Magister determinat secundam partem quaestionis, quae est de comparatione generationis ad essentiam in ratione *principii*, et habet haec pars tres partes. In *prima* determinat istam quaestionem dicens, quod essentia non generat; et hoc confirmat per rationem ducentem ad impossibile. In *secunda* vero adducit auctoritates, quae sunt directe contrariae praedictae solutioni, ibi: *Praedictis videtur esse contrarium*. In *tertia* vero adducit auctoritates, ex quibus potest elici contrarietas, ibi: *Dicitur quoque, et frequenter* etc.
+
+Item secunda pars habet quatuor partes. In *prima* parte adducit auctoritates Augustini contrarias praedictae solutioni. In *secunda* auctoritates adductas exponit, ibi: *Sed haec ita determinamus*. In *tertia* vero contra praedictas expositiones adducit auctoritates alias Hilarii, in quibus notatur expressior contrarietas, ibi: *Huic vero etiam contrarium videtur esse*. In *quarta* vero auctoritates praedictas explanat et explanationem suam per verba Hilarii confirmat, ibi: *Sed quia haec verba sane vult*.
+
+*Dicitur quoque, et frequenter in sacra Scriptura legitur.* Haec est tertia pars, in qua obiicit contra solutionem per auctoritates, ex quibus elicitur praedictae solutionis contrarietas — quia in his non dicitur, quod essentia generet vel generetur, sed quod de essentia vel substantia Patris Filius generetur — et haec pars quatuor habet particulas. In *prima* adducit auctoritates in contrarium. In *secunda* vero adductas explanat, ibi: *His verbis praemissis innuitur*; ubi resumit praedictam expositionem. In *tertia* ex praedictorum opinione elicit quoddam corollarium, ibi: *Ostenditur quoque ex illis verbis* etc. In *quarta et ultima* redit ad propositum et ostendit, expositionem suam bonam esse, per auctoritatem Augustini, ibi: *Et hoc ita debere intelligi* etc.
 
 ### Tractatio Quaestionum
 
@@ -46,7 +54,7 @@ In parte ista ad intelligentiam duarum principalium partium huius distinctionis 
 
 *Primo* quaeritur de comparatione generationis ad substantiam sive essentiam in ratione *principii*.
 
-*Secundo* quaeritur de comparatione eiusdem in ratione *termini*[^2].
+*Secundo* quaeritur de comparatione eiusdem in ratione *termini*.
 
 Et duo quaeruntur quantum ad primum, duo vero quantum ad secundum.
 
@@ -56,60 +64,42 @@ Quantum ad primum quaeritur:
 
 *Secundo*, utrum de substantia generetur aliquis.
 
-Quantum ad secundum quaeritur:
-
-*Primo*, utrum essentia sit genita.
-
-*Secundo*, utrum essentia genuerit essentiam.
-
 ---
 
 ## English
 
 ## Commentary on Distinction V
 
-*On the comparison of generation to the abstract essential term — which is essence.*
+*On the comparison of generation to the abstract essential term, which is essence.*
 
 > *"After these things it is asked whether it must be conceded"* etc.
 
 ### Division of the Text
 
-In the preceding distinction the Master raised the question of the comparison of generation to the concrete essential term[^1] — such as the name *God*. In the present distinction he raises the question of the comparison of generation to the abstract essential term — which is *essence*. This part is divided into two sub-parts.
+In the preceding distinction the Master raised the question of the comparison of generation to the *concrete* essential term — such as the name *God*. In the present distinction he raises the question of the comparison of generation to the *abstract* essential term — which is *essence*. And this part is divided into two sub-parts.
 
-In the *first* he raises the question from the comparison of generation to essence in the account of *term* — namely, whether essence is begotten. In the *second*, in the account of *principle* — whether essence begets — at: *"Similarly it must not be said that the divine essence begot the Son."*
+In the *first sub-part* he raises the question from the comparison of generation to essence in the account of *term* — namely, whether essence is begotten; in the *second*, in the account of *principle* — whether essence begets, etc., at: *"Likewise, it must not be said that the divine essence begot the Son"* etc.
 
-Likewise, the first sub-part has four sections. In the *first* he proposes the problems — namely, whether essence begets or is begotten. In the *second* he brings forward three arguments proving that essence is not begotten by the Father, at: *"Therefore it must not be said that the Father begot..."* etc. In the *third* he brings forward arguments to the contrary, at: *"But this seems contrary..."* etc. In the *fourth and last* he resolves and explains, at: *"To this we respond."*
+Likewise, the first sub-part has four sections. In the *first* section he proposes the problems — namely, whether essence begets or is begotten. In the *second* he brings forward three reasons proving that essence is not begotten by the Father, at: *"Therefore it must not be said that the Father begot..."* etc. In the *third* he brings forward reasons to the contrary, at: *"But this seems contrary..."* etc. In the *fourth and last* he resolves and explains, at: *"To which we respond."*
+
+*Likewise, it must not be said.* This is the second sub-part of this distinction, in which the Master determines the second part of the question, which is on the comparison of generation to essence in the account of *principle*; and this sub-part has three sections. In the *first* he determines this question, saying that essence does not generate; and this he confirms by a reasoning leading to an impossibility. In the *second* he brings forward authorities which are directly contrary to the said solution, at: *"To the foregoing things there seems to be a contrary."* In the *third* he brings forward authorities from which a contrariety can be elicited, at: *"It is also said — and frequently"* etc.
+
+Likewise, the second section has four sub-sections. In the *first* sub-section he brings forward Augustinian authorities contrary to the said solution. In the *second* he expounds the authorities adduced, at: *"But these we so determine."* In the *third* he brings forward, against the said expositions, other Hilarian authorities in which a more express contrariety is noted, at: *"To this also a contrary seems to be."* In the *fourth* he explains the said authorities and confirms his explanation by the words of Hilary, at: *"But because these words he indeed wishes [to be understood]."*
+
+*It is also said — and frequently is read in sacred Scripture.* This is the third section, in which he objects against the solution by means of authorities from which a contrariety to the said solution is elicited — because in these it is not said that essence generates or is generated, but that the Son is generated *from* the essence or substance of the Father — and this section has four particulars. In the *first* he brings forward authorities to the contrary. In the *second* he explains the things adduced, at: *"With these words premised it is intimated"*; where he resumes the said exposition. In the *third* he elicits a certain corollary from the foregoing opinion, at: *"It is also shown from those words"* etc. In the *fourth and last* he returns to the proposition and shows that his exposition is good, by the authority of Augustine, at: *"And that it must be so understood"* etc.
 
 ### Treatment of the Questions
 
 In this part, for the understanding of the two principal sub-parts of this distinction, two principal questions are asked.
 
-*First* concerns the comparison of generation to substance or essence in the account of *principle*.
+*First* it is asked about the comparison of generation to substance or essence in the account of *principle*.
 
-*Second* concerns the comparison of the same in the account of *term*[^2].
+*Second* it is asked about the comparison of the same in the account of *term*.
 
-Two questions are asked under the first, and two under the second.
+And two questions are asked under the first, and two under the second.
 
-Under the first:
+Under the first it is asked:
 
-*First*: whether substance or essence begets.
+*First*, whether substance or essence generates.
 
-*Second*: whether anyone is begotten from the substance.
-
-Under the second:
-
-*First*: whether the essence is begotten.
-
-*Second*: whether essence begot essence.
-
----
-
-## Apparatus
-
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering.
-
-[^1]: **La.** Cfr. supra d. 4, *Divisio textus*, ubi similis distinctio *concreti* et *abstracti* circa terminos essentiales datur.
-    **En.** Cf. above d. 4, *Divisio textus*, where a similar distinction of *concrete* and *abstract* with respect to essential terms is given.
-
-[^2]: **La.** Quaestio *de essentia in ratione termini* infra tractatur a S. Doctore in a. 2 huius distinctionis (q. 1 *utrum essentia sit genita*, q. 2 *utrum essentia genuerit essentiam*).
-    **En.** The question *on essence in the account of term* is treated below by the Holy Doctor in a. 2 of this distinction (q. 1, *whether the essence is begotten*; q. 2, *whether essence has begotten essence*).
+*Second*, whether anyone is generated from the substance.

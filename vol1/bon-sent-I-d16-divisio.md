@@ -14,7 +14,7 @@ line_end: 50747
 word_count_latin: 614
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 50624–50747; apparatus at lines 50642–50676 belongs to d16-littera and is excluded from divisio body), fresh literal English translation, full apparatus from raw OCR + PDF p. 379–380 crops (8 NOTAE AD COMMENTARIUM entries: 1 from p. 277 spanning into p. 278, then 7 numbered 1–7 on p. 278 with page-restart numbering) (2026-05-02)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 50624–50747; apparatus at lines 50642–50676 belongs to d16-littera and is excluded from divisio body), fresh literal English translation, full apparatus from raw OCR + PDF p. 379–380 crops (8 NOTAE AD COMMENTARIUM entries: 1 from p. 277 spanning into p. 278, then 7 numbered 1–7 on p. 278 with page-restart numbering); 2026-05-08 sweep corrected [^4] (incipit not exhibet; lemma quae habet loco et habet haec dubitatio) and [^5] (restored hanc) against IA djvu OCR raw lines 50645–50647 and 50648–50649 (2026-05-08)"
 format_version: 1
 ---
 
@@ -112,13 +112,13 @@ Third it is asked, *in what ways it has been made*.
 
     **En.** From the manuscripts and ed. 1 we have supplied *iterum* ("again").
 
-[^4]: **La.** Vat., omissis verbis Magistri, ita propositionem exhibet: *Similiter secunda pars*, *in qua*, et paulo infra ponit *quae habet hanc dubitationem*, obnitentibus mss. et edd. 1.
+[^4]: **La.** Vat., omissis verbis Magistri, ita propositionem incipit: *Similiter secunda pars, in qua*, et paulo infra ponit *quae habet* loco *et habet haec dubitatio*, obnitentibus mss. et ed. 1.
 
-    **En.** The Vatican edition, with the Master's words omitted, sets out the proposition thus: *Similiter secunda pars, in qua*, and a little below puts *quae habet hanc dubitationem* — against the manuscripts and ed. 1.
+    **En.** The Vatican edition, with the Master's words omitted, begins the proposition thus: *Similiter secunda pars, in qua*, and a little below puts *quae habet* in place of *et habet haec dubitatio* — against the manuscripts and ed. 1.
 
-[^5]: **La.** In Vat. desunt verba *Haec autem pars, in qua quaestionem prosequitur*, quae tamen exstant in mss. et ed. 1.
+[^5]: **La.** In Vat. desunt verba *Haec autem pars, in qua hanc quaestionem prosequitur*, quae tamen exstant in mss. et ed. 1.
 
-    **En.** In the Vatican edition the words *Haec autem pars, in qua quaestionem prosequitur* ("And this part, in which he pursues the question") are missing — though they stand in the manuscripts and ed. 1.
+    **En.** In the Vatican edition the words *Haec autem pars, in qua hanc quaestionem prosequitur* ("And this part, in which he pursues this question") are missing — though they stand in the manuscripts and ed. 1.
 
 [^6]: **La.** Codd. cum ed. 1 *Et* pro *Secundo*, sed minus distincte.
 

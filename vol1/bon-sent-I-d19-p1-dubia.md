@@ -15,7 +15,7 @@ line_end: 62049
 word_count_latin: 1520
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR (raw lines 61568–62049, line_end extended from auto-chunk 61625 to capture Dub II–XI), literal English, [N]-footnote apparatus from PDF p.350–353, no scholion (2026-05-03)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR (raw lines 61568–62049, line_end extended from auto-chunk 61625 to capture Dub II–XI), literal English, [N]-footnote apparatus from PDF p.350–353, no scholion (2026-05-03; English page-break parity for pp.350–351 added 2026-05-08)"
 format_version: 1
 ---
 
@@ -115,11 +115,15 @@ Item quaeritur de hoc quod dicit: *Dum naturam Dei non degenerat nativitas*, qui
 
 ## English
 
+<!-- page 350 -->
+
 ### DOUBTS ON THE MASTER'S TEXT.
 
 ### Doubt I.
 
 In this part there are doubts concerning the *littera*, and first there is doubt about the placement of this part. For since unity in *substance* makes *identity*, unity in *quantity* [makes] *equality*, unity in *quality* [makes] *likeness*, by parity of reason it appears that he ought to determine [also] concerning identity and likeness; because, if he does not determine concerning these, it appears that neither concerning equality ought he to make a special treatment.
+
+<!-- page 351 -->
 
 **I respond:** It must be said that, equality having been shown perfectly, it is shown that there is in [the divine] nature in every way identity and likeness; and therefore, equality having been determined, it is not necessary to determine concerning the others; but he treats more of equality on account of heresies to be extirpated, especially of the Arians, who posited inequality in the divine [persons]; and therefore the disputation that concerns this is more difficult[^1] and more useful.
 
