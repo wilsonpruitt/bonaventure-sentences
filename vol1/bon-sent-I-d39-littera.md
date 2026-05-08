@@ -13,7 +13,7 @@ line_start: 26377
 line_end: 26535
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26377–26535 of pt2), fresh literal English translation, full apparatus from raw OCR (8 entries), [?] flags on ambiguous spots (2026-05-07)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26377–26535 of pt2), fresh literal English translation, full apparatus from raw OCR (8 entries), [?] flags on ambiguous spots (2026-05-07). Re-audited 2026-05-08 (d.39 scaffolds sweep): bounds verified, 4 Cap. headers + DISTINCTIO XXXIX. all match raw, body diff clean (Augustine de Trin. XV and Hieronymus Habacuc quotations verbatim, no silent dropouts/paraphrase), apparatus 8/8 verbatim from pp.682–683 footer (2+6 split); marker positions on mutari/Trinitate/Habacuc/Apostolus/quibus/dat/semper all correct; pass-as-is, no edits."
 format_version: 1
 ---
 

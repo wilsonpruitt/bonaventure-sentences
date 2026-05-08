@@ -12,7 +12,7 @@ source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 698–700"
 line_start: 27875
 line_end: 28023
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 27875–28023 of pt2; extended 2026-05-07 to absorb DUB V + DUB VI missed in initial chunk), fresh literal English translation, full apparatus from raw OCR (16 entries), [?] flags on ambiguous spots (2026-05-07)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 27875–28023 of pt2; extended 2026-05-07 to absorb DUB V + DUB VI missed in initial chunk), fresh literal English translation, full apparatus from raw OCR (16 entries), [?] flags on ambiguous spots (2026-05-07). Re-audited 2026-05-08 (d.39 scaffolds sweep): bounds verified, 6 DUB headers all match raw, body diff clean across DUB I–VI (no silent dropouts/paraphrase, no cross-chunk-reuse failure mode), apparatus 9/9 from p.698 footer match verbatim, p.699 footer has 6 entries vs chunk 7 ([^10–^16] minus [^13]); the 16th entry [^13]=`Vat. fuit.` carries forward as pre-existing flagged ambiguity per tier2-ambiguities-d39-dubia.md line 21 (NOT a fresh fabrication). DUB V marker positions on hic/hoc/ordinationem/non-quia carry pre-existing [?] flags. Pass-as-is, no edits."
 format_version: 1
 ---
 
