@@ -68,9 +68,9 @@ Sexto et ultimo quaeritur, utrum in ideis sit ponere numerum ordinatum. Et quod 
 
 ### Scholion
 
-**I.** Responsio ad hanc quaestionem et solutio ad 1. et 2. elicitur ex hoc principio, quod ideae nec nobilitatem nec ordinem nec alias proprietates habeant ab ideatis, sed tantum distinctionem (cfr. hic q. 4. *ad* 3.[?]). Quod autem ideae accipiant distinctionem ab ideatis, inde provenit, quia ideae respectum important ad distincta ideata. Fundamentum autem illorum respectuum est ipsa infinita divinae essentiae perfectio, quae eminenter omnia continet et ut prima et summa veritas exprimit.
+**I.** Responsio ad hanc quaestionem et solutio ad 1. et 2. elicitur ex hoc principio, quod ideae nec nobilitatem nec ordinem nec alias proprietates habeant ab ideatis, sed tantum distinctionem (cfr. hic q. 4. *ad* 3. 4.). Quod autem ideae accipiant distinctionem ab ideatis, inde provenit, quia ideae respectum important ad distincta ideata. Fundamentum autem illorum respectuum est ipsa infinita divinae essentiae perfectio, quae eminenter omnia continet et ut prima et summa veritas exprimit.
 
-**II.** Haec quaestio invenitur tantum a paucis antiquis Scholasticis explicite tractata, scil. a Petr. a Tar., I. *Sent.* d. 36. q. 2. a. 4. *ad* 9.[?] — Dionys. Carth., I. *Sent.* d. 36. q. 4. post principium.
+**II.** Haec quaestio invenitur tantum a paucis antiquis Scholasticis explicite tractata, scil. a Petr. a Tar., I. *Sent.* d. 36. q. 2. a. 4. *ad* 9. — Dionys. Carth., I. *Sent.* d. 36. q. 4. post principium.
 
 ---
 
@@ -115,9 +115,9 @@ Sixth and last, it is asked whether in the ideas an ordered number is to be posi
 
 ### Scholion
 
-**I.** The response to this question, and the solution *ad* 1 and 2, is drawn from this principle: that the ideas have neither nobility nor order nor other properties from the ideated, but only distinction (cf. here q. 4, *ad* 3[?]). But that the ideas receive distinction from the ideated arises hence, that ideas import a respect to distinct ideated [things]. The foundation, however, of those respects is the infinite perfection of the divine essence itself, which eminently contains all things and expresses [them] as first and highest truth.
+**I.** The response to this question, and the solution *ad* 1 and 2, is drawn from this principle: that the ideas have neither nobility nor order nor other properties from the ideated, but only distinction (cf. here q. 4, *ad* 3, 4). But that the ideas receive distinction from the ideated arises hence, that ideas import a respect to distinct ideated [things]. The foundation, however, of those respects is the infinite perfection of the divine essence itself, which eminently contains all things and expresses [them] as first and highest truth.
 
-**II.** This question is found expressly treated only by a few of the old Scholastics, namely by Petr. a Tar., I *Sent.* d. 36, q. 2, a. 4, *ad* 9[?]. — Dionys. Carth., I *Sent.* d. 36, q. 4, after the *principium*.
+**II.** This question is found expressly treated only by a few of the old Scholastics, namely by Petr. a Tar., I *Sent.* d. 36, q. 2, a. 4, *ad* 9. — Dionys. Carth., I *Sent.* d. 36, q. 4, after the *principium*.
 
 ---
 

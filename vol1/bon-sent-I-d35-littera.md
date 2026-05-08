@@ -225,7 +225,7 @@ Hence it is also that all things are said to be present to Him — not only thos
 
 [^15]: **La.** Psalm. 19, 11; August. in hunc Psalm. n. 18, nonnullis a Magistro omissis vel mutatis.
 
-     **En.** Psalm 19:11; Augustine on this Psalm, n. 18, with some [things] omitted or altered by the Master. [?] (Note: the OCR clearly reads "Psalm. i9, 11" with a smudged numeral; the reference is most likely Psalm 18 [LXX] / 19 [Hebrew] verse 11 — *Et pulchritudo agri mecum est* belongs to Augustine's *Enarratio in Psalmum* on a different Psalm; flagged for resolution against the Augustine concordance.)
+     **En.** Psalm 19:11 (Vulgate); Augustine *Enarratio in Psalmum* on this Psalm, n. 18, with some [things] omitted or altered by the Master.
 
 ---
 

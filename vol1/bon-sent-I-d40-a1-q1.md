@@ -57,7 +57,7 @@ Quod autem praedestinatio sit quid aeternum, videtur:
 
 4. Item, omnis actus divinus, qui non reflectitur supra essentiam vel personam, transit extra, et omnis actus transiens extra ex tempore[^5] dicitur de Deo: cum ergo praedestinatio non transeat in personam vel essentiam, sed extra, ergo est temporalis.
 
-5. Item, praedestinatio est praeparatio[^6]; sed nihil dicitur praeparari, antequam incipiat aliquid fieri secundum principia intrinseca — artifex enim non dicitur praeparare domum ante ligna et lapides sola cogitatione — ergo necesse est, quod ponatur [?]
+5. Item, praedestinatio est praeparatio[^6]; sed nihil dicitur praeparari, antequam incipiat aliquid fieri secundum principia intrinseca — artifex enim non dicitur praeparare domum ante ligna et lapides sola cogitatione — ergo necesse est, quod ponatur in re.
 
 <!-- page 703 -->
 
@@ -123,7 +123,7 @@ That predestination is something eternal seems [to be the case]:
 
 4. Likewise, every divine act which is not bent back upon the essence or person passes outward, and every act passing outward is said of God from time[^5]: therefore since predestination does not pass into the person or essence, but outward, therefore it is temporal.
 
-5. Likewise, predestination is preparation[^6]; but nothing is said to be prepared before something begins to come-to-be according to intrinsic principles — for an artisan is not said to prepare a house by mere thought before the wood and stones — therefore it is necessary that it be placed [?]
+5. Likewise, predestination is preparation[^6]; but nothing is said to be prepared before something begins to come-to-be according to intrinsic principles — for an artisan is not said to prepare a house by mere thought before the wood and stones — therefore it is necessary that it be placed in the thing.
 
 <!-- page 703 -->
 

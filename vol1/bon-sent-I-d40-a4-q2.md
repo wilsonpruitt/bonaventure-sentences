@@ -51,7 +51,7 @@ Secundo quaeritur, utrum obduratio sit a Deo sive sit effectus Dei reprobantis. 
 
 8. Item, si aliqua duo sunt omnino similia, aut <!-- page 720 -->proprietas aliqua non inest uni, quae non insit alii, aut si inest, aliunde inest. Ponantur ergo hic duo parvuli, sicut Iacob et Esau[^8]: Deus unum obdurat, ut Esau, alterum non obdurat, ut Iacob: ergo cum sint similes omnino quantum ad naturam et quantum ad merita, aliunde venit obduratio. Sed non est dare nisi a Deo, ergo etc. *Si tu dicas, quod a diabolo*; contra: esto quod diabolus nullo modo se intromittat, nihilominus iste obduraretur.
 
-9. Item, omnis effectus, sive positivus sive defectivus, habet causam proximam et immediatam: quaero ergo, quae sit causa obdurationis proxima: aut enim *culpa originalis*, aut *actualis*, aut *usus liberi arbitrii*, aut aliquid aliud. Non culpa originalis, quia tunc omnes obdurarentur; similiter nec culpa actualis, quia tunc omnis actualiter peccans obduraretur; nec *usus liberi arbitrii*, quia obduratio, ut est consolidatio reprobationis[^9], est in parvulis, in quibus non est usus liberi arbitrii. Sed ergo, quod obdurat, *Dei id causa*, et hoc videtur, quia ex positis quattuor effectus, in eum Deum non vult istud misereri, immo vel, esse obduratio.
+9. Item, omnis effectus, sive positivus sive defectivus, habet causam proximam et immediatam: quaero ergo, quae sit causa obdurationis proxima: aut enim *culpa originalis*, aut *actualis*, aut *usus liberi arbitrii*, aut *aliquid aliud*. Non culpa originalis, quia tunc omnes obdurarentur; similiter nec *culpa actualis*, quia tunc omnis actualiter peccans obduraretur; nec *usus liberi arbitrii*, quia obduratio, ut est connotatum reprobationis[^9], est in parvulis, in quibus non est usus liberi arbitrii. Restat ergo, quod *voluntas Dei* sit causa, et hoc videtur, quia ea posita ponitur effectus. Si enim Deus non vult istius misereri, necesse est, eum obdurari.
 
 **Contra:** 1. Iesum acuto[^10], *Omnia qui erat odit ad me, ego victum facio*; ergo paratus est immuno omnes simpliciter; ergo defectus illustrationis non venit ex parte Dei, sed ex parte nostra.
 
@@ -69,17 +69,11 @@ Secundo quaeritur, utrum obduratio sit a Deo sive sit effectus Dei reprobantis. 
 
 > *Obduratio, prout est defectus, non est a Deo; sed prout ordinatur a retribuente divina iustitia in poenam culpae, est a Deo.*
 
-**Respondeo:** Dicendum, quod obduratio, in quantum est *defectus* sive *defectionis*, in quantum est *defectus*, hoc est, in quantum est *defectus peccatum*; et prout, in quantum *defectus*, ut idem dictum est *Deus auctor*, ut idem dictum *defectus auctor* — vide ea quae *Sentenntia*[^16] *de Augustinus*. In quantum est *defectus peccatus*, est, eo, in quantum est, eo, et in quantum est, eo, est ab eo, et in quantum non habet causam, et ratio est causa istius defectus, sed alibi est. *Quaedam* eo, [?]
+**Respondeo:** Dicendum, quod obduratio, in quantum *poena*, dicit animae ineptitudinem, et ita dicit *defectum* poenalem; et poena omnis, in quantum talis, est iusta et *ordinata*: ideo dicit *defectum ordinatum*. In quantum ergo *defectus* est, non habet causam nisi deficientem; haec autem non est Deus, quia Deus non est causa deficiens, sed liberum arbitrium destitutum. In quantum vero *ordinatum*, habet causam *merentem*, scilicet ipsam culpam, et causam *ordinantem*, scilicet retribuentem divinam iustitiam.[^16][^17]
 
-[Note: lines 29969–29995 of the OCR are heavily column-bled and the printed text I read at PDF p.310 is the canonical reading; the paragraph above marked [?] reflects an OCR-illegible patch in this Tier-2 attempt. The full corp from PDF reads:]
+**Ad argumenta:**
 
-Respondeo: Dicendum, quod obduratio, in quantum est defectus, est dispositio circa potentiam et est defectu peccati, et peccati causa, in quantum est *defectus*, non habet causam *efficientem*, sed *deficientem*; et hoc modo non est a Deo, nec etiam a *daemone*, sed a libero arbitrio; in quantum vero ipsa, *defectu posito*, est *poena* sive habet rationem poenae, in quantum est *peccato peccatum reddens*, sic ordinatur a Deo et ab eo, et hoc modo est a Deo, ut auctore iustitiae, non ut auctore obdurationis ut defectus est.[^17]
-
-[Note: this section is reconstructed from PDF p.720 right column — see ambiguities log.]
-
-1. *Ad illud ergo* quod obiicitur de auctoritate *Apostoli ad Romanos*, scilicet, *Inguidet et Glossae*, et continetur, *quae dicunt Deum obdurare aliquos*, *intelligendum* est *quantum ad rationem ordinis*, non *quantum ad rationem defectus*, quia per comparationem ad defectum *autem* causa videtur. *Et ratione praedictiva*, *cum efficacia*, ut convenientiam, et *quia ergo cum aliquis* prius, *est* unus auctor, et alius parit *non* potest, sed *ordinem* potest indicere unam *poenam*; et quaerere *aliquid*, *cum est*, *si non posset facere arbitrium* aliter, *non auctoritate sed in operatione*, *eo iuste* fit, et per *consequens illud Deus auctor*, et idem est *causa salutis* fieri, *et alius idem est defectus*; sed in *Deo* sit *liberalissimum*, et auctor istius est diabolus.
-
-[Note: paragraphs above are reconstructed from PDF p.720; OCR is unreadable for column-bled regions. The reading [?] is preserved where the PDF print is unambiguously legible but my transcription is unsure of word-level forms.]
+*Ad 1. 2. 3.* Illae igitur tres auctoritates Apostoli scilicet, Augustini et Glossae, et consimiles, quae dicunt, Deum obdurasse aliquem, intelliguntur quantum ad rationem *ordinis*, non quantum ad rationem *defectus*, quia per comparationem ad *defectum* solum comparatur in ratione *permittentis*, non *efficientis*. Et est exemplum: si aliquis esset dignus perire fame, et alius posset eum pascere, et iusto indicio nollet eum pascere: si quaereretur, quae fuit in isto causa mortis, responderetur, quod defectus cibi; ille vero non diceretur occidisse, sed permisisse. Si *rursus* quaereretur, utrum iste iuste fecerit, diceretur, quod sic; cum tamen *nihil fecerit*, quia ipsum *non facere*
 
 <!-- page 721 -->
 
@@ -130,17 +124,17 @@ Secondly it is asked whether obduration is from God or whether it is an effect o
 
 8. Likewise, if any two are wholly alike, either <!-- page 720 -->some property is in one which is not in the other, or, if it is in it, it is in it from elsewhere. Let there be set, then, two infants, like Iacob and Esau[^8]: God hardens one, as Esau, but not the other, as Iacob: therefore since they are wholly alike as to nature and as to merits, the obduration comes from elsewhere. But there is nothing to assign as cause except God, therefore etc. *If you say, from the devil*; on the contrary: granted that the devil in no way intervenes, nevertheless this one would be hardened.
 
-9. Likewise, every effect, whether positive or defective, has a proximate and immediate cause: I ask therefore what is the proximate cause of obduration: either *original* fault, or *actual*, or *the use of free choice*, or something else. Not original fault, because then all would be hardened; likewise not actual fault, because then everyone actually sinning would be hardened; nor *the use of free choice*, because obduration, insofar as it is a *consolidation of reprobation*[^9], is in infants, in whom there is no use of free choice. [?]
+9. Likewise, every effect, whether positive or defective, has a proximate and immediate cause: I ask therefore what is the proximate cause of obduration: either *original* fault, or *actual*, or *the use of free choice*, or *something else*. Not original fault, because then all would be hardened; likewise not *actual* fault, because then everyone actually sinning would be hardened; nor *the use of free choice*, because obduration, insofar as it is the *connoted [term] of reprobation*[^9], is in infants, in whom there is no use of free choice. There remains therefore that the *will of God* is the cause, and this seems [to follow] because, given it, the effect is given. For if God does not will to have mercy on this man, it is necessary that he be hardened.
 
 [Note: see ambiguities log — the closing sentence of fundamentum 9 is OCR-bled in raw lines 29991–29995; the gist from PDF: *therefore from these four exhausted possibilities it follows that obduration is something which God in some way wills to bring about*.]
 
 **On the contrary:**
 
-1. [Cited from] Isaiah[^10]: *He invites all who come to him*; therefore he is ready to enlighten all simply; therefore the defect of illumination does not come from God's side, but from ours. [?]
+1. [Cited from] Isaiah[^10]: *He invites all who come to him*; therefore he is ready to enlighten all simply; therefore the defect of illumination does not come from God's side, but from ours.
 
-2. Likewise, in *Apocalypse* third[^11]: *Behold I stand at the door and knock; if any man hear my voice and open to me, I will come in to him* etc. But if [men] perceive [his knock] and refuse him hospitality, and do not lodge him in the house, the cause is not on his side but on ours that he is not received: therefore likewise of obduration there is no cause, except him who does not receive God knocking. [?]
+2. Likewise, in *Apocalypse* third[^11]: *Behold I stand at the door and knock; if any man hear my voice and open to me, I will come in to him* etc. But if [men] perceive [his knock] and refuse him hospitality, and do not lodge him in the house, the cause is not on his side but on ours that he is not received: therefore likewise of obduration there is no cause, except him who does not receive God knocking.
 
-3. Likewise, Augustine on that text of John[^12]: *Behold the light shineth in darkness*, says: «*For just as for those placed in the sun, when it is present, there is light, and the sun itself shines on the light, and on every impiety; the [defect] of perverse minds is the [defect] of the little cloud*», if it is itself absent. If therefore the *little cloud*, which is a blindness or privation of vision, is not from the sun, it is plain that neither is obduration from God. [?]
+3. Likewise, Augustine on that text of John[^12]: *Behold the light shineth in darkness*, says: «*For just as for those placed in the sun, when it is present, there is light, and the sun itself shines on the light, and on every impiety; the [defect] of perverse minds is the [defect] of the little cloud*», if it is itself absent. If therefore the *little cloud*, which is a blindness or privation of vision, is not from the sun, it is plain that neither is obduration from God.
 
 4. Likewise, Anselm[^13]: «*The good man does not lack grace because God does not give it, but because the man does not receive it*»; therefore obduration ought not to be said to be from God.
 
@@ -152,17 +146,15 @@ Secondly it is asked whether obduration is from God or whether it is an effect o
 
 > *Obduration, insofar as it is a defect, is not from God; but insofar as it is ordained by divine justice as one repaying as a punishment for sin, it is from God.*
 
-**I respond:** It must be said that obduration, insofar as it is a *defect*, is from defect of grace and from the deficient cause which is the free will; and in this respect it is *not from God*, nor from the demon, but from free choice. But insofar as that defect once posited is *punishment* or has the character of punishment — that is, insofar as it is *sin returning sin* — it is so ordered by God; and in this respect it is from God, as from the author of justice, not as from the author of obduration considered as defect.[^16][^17]
+**I respond:** It must be said that obduration, insofar as [it is] *punishment*, signifies the soul's ineptitude, and so it signifies a penal *defect*; and every punishment, insofar as such, is just and *ordained*: therefore it signifies an *ordained defect*. Insofar therefore as it is a *defect*, it has no cause but a deficient one; and this is not God, since God is not a deficient cause, but [rather] a destitute free will. But insofar as it is *ordained*, it has a *meriting* cause, namely the fault itself, and an *ordaining* cause, namely the divine justice repaying.[^16][^17]
 
-[Note: this paragraph is reconstructed from PDF p.720 right column; raw lines 29969–29995 are heavily column-bled. See ambiguities log for details.]
+**To the arguments:**
 
-*To 1, 2, 3.* To that which is objected from the authority of the *Apostle to the Romans* — that is, from the text and the Gloss, and what is contained there saying that *God hardens some* — it must be understood with reference to the *order [of justice]*, not with reference to the *defect [as such]*. For by comparison to the defect [obduration] is *seen* to come from God [only] insofar as God justly ordains the punishment ensuing on sin, in which sense the act stands ordered into the punishment owed to it. By this manner it is to be understood in the matter at hand. [?]
-
-[Note: replies *To 1, 2, 3* are reconstructed/condensed from PDF p.720 right column; raw OCR is heavily column-bled there. See ambiguities log.]
+*Ad 1. 2. 3.* Those three authorities therefore — namely of the Apostle, of Augustine, and of the Gloss, and the like, which say that God has hardened someone — are to be understood as regards the *ratio of order*, not as regards the *ratio of defect*; since by comparison to the *defect* [God] is compared only in the *ratio* of one *permitting*, not of one *effecting*. And there is an example: if someone were worthy to perish of hunger, and another could feed him, and by just judgment refused to feed him: if it were asked what was the cause of his death in this case, it would be answered that the lack of food [was]; but the other would not be said to have killed [him], but to have permitted [it]. If *again* it were asked whether this man acted justly, it would be answered that yes; even though indeed he *did nothing*, since this very *not-doing* was ordained by his authority to the merits of [the other] — and consequently he
 
 <!-- page 721 -->
 
-[The reply continues:] He is ordered into the punishment due to himself. By this mode is it to be understood in the matter at hand.
+[that one] is ordered into the punishment due to himself. In this manner is it to be understood in the matter at hand.
 
 *To 4.* To that which is objected, that obduration speaks a *positing*; it must be said that in bodies it speaks a *positing*, because by their nature they are made to resist themselves[^18]; but in spirits it speaks a *defect*, because by the natural aptitude the spirit ought to be apt for the reception of divine influence. Hence such aptitude belongs to potency and habit[^19]; but on the contrary obduration and ineptitude is by way of *privation*.
 
@@ -218,7 +210,7 @@ And therefore it must be said that he speaks of the *proximate and immediate* ca
 
      **En.** The Vatican edition omits *sibi*; codex H rightly exhibits *sibi invicem* (to one another).
 
-[^9]: **La.** [Editorial reading of the Quaracchi text — *consolidatio reprobationis*; the OCR garbles this passage. See ambiguities log.]
+[^9]: **La.** Sicut praedestinatio gratiam connotat ut effectum temporalem, sic reprobatio obdurationem, quae, ut Alex. Hal., S. p. I. q. 29. m. 5. a. 3. ait, duplex est: una est *generalis* omnium qui ab Adam per concupiscentiam seminalem descendunt, haec sequitur peccatum originale...; alia est *specialis*, quae, inquam, est in adultis, qui habent voluntatem et propositum resistendi beneficiis Dei.
 
      **En.** [Editorial reading: *consolidation of reprobation*. See ambiguities log.]
 

@@ -105,7 +105,7 @@ But to that which has been said before — namely that God always sees all thing
 
 [^2]: **La.** Cap. 13. n. 22. Sequens locus est c. 14. — In ultimo textu solummodo Vat. et edd. 1, 5, 6, 8, 9 post *inamissibilis* addunt *et invariabilis*, refragante etiam originali. Immediate post pro *quod scire* legit Vat. *quod sapere vel scire*; originale *quod scire vel sapere*. Cod. D *minui*, cod. E *minui vel mutari*.
 
-     **En.** [Augustine, *On the Trinity* book XV,] c. 13, n. 22. The next passage [quoted] is c. 14. — In the last text, only the Vatican edition and editions 1, 5, 6, 8, 9 after *inamissibilis* ("unlosable") add *et invariabilis* ("and unchangeable") — the original [of Augustine] also opposing. Immediately after, in place of *quod scire* ("what [it is] to know"), the Vatican reads *quod sapere vel scire* ("what [it is] to be wise or to know"); the original [reads] *quod scire vel sapere* ("what [it is] to know or to be wise"). Codex D [reads] *minui* ("to be diminished"), codex E *minui vel mutari* ("to be diminished or changed"). [?]
+     **En.** [Augustine, *On the Trinity* book XV,] c. 13, n. 22. The next passage [quoted] is c. 14. — In the last text, only the Vatican edition and editions 1, 5, 6, 8, 9 after *inamissibilis* ("unlosable") add *et invariabilis* ("and unchangeable") — the original [of Augustine] also opposing. Immediately after, in place of *quod scire* ("what [it is] to know"), the Vatican reads *quod sapere vel scire* ("what [it is] to be wise or to know"); the original [reads] *quod scire vel sapere* ("what [it is] to know or to be wise"). Codex D [reads] *minui* ("to be diminished"), codex E *minui vel mutari* ("to be diminished or changed").
 
 [^3]: **La.** Cod. R addit *vel mutari*.
 

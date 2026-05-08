@@ -106,9 +106,9 @@ Fourth, whether translation is to be posited there.
 
     **En.** For *ipsius auctoritatis* ("of that very authority") codex T [reads] *huius auctoritatis* ("of this authority").
 
-[^3]: **La.** Vat. *quaestionem*. [?]
+[^3]: **La.** Vat. *quaestionem*.
 
-    **En.** The Vatican edition [reads] *quaestionem* ("question") [in place of, apparently, *quae posset*]. [?]
+    **En.** The Vatican edition [reads] *quaestionem* ("question").
 
 [^4]: **La.** Vat. *posita*.
 

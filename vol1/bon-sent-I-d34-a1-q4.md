@@ -67,7 +67,7 @@ Quod enim obiicitur, quod nulla est similitudo, quia summa est distantia; dicend
 
 **I.** *Translatio* idem est ac *metaphora*; ipsa in genere accipitur a proprietatibus omnibus rerum creatarum, quae ratione *similitudinis* ad res divinas significandas adhibentur. Hoc magis explanatur supra d. 22. q. 3, ubi etiam (ad 2.) docetur idem quod hic in corp. dicitur, scilicet quod nomina multum similia non apte ad divina transferuntur (cfr. Dionys. Areop., *de Caelest. Hierarch.* c. 2; et S. Thom., *S.* I. q. 1. a. 9. ad 3.).
 
-**II.** Alex. Hal., *S.* p. I. q. 35, q. 48. m. 1. 2. 3, q. 1. a. 4. a. 5. — S. Thom., hic q. 3. a. 1. 2; *S.* I. q. 1. a. 9. — B. Albert., hic a. 6; *S.* p. I. tr. 14. q. 56. 59. — Petr. a Tar.[?], hic q. 4. a. 1. 2. — Richard. a Med., hic a. 3. q. 1. 2. — Ægid. R., hic 2. princ. q. 1. — Henr. Gand., *S.* a. 32. q. 1. — Durand., hic q. 4. — Dionys. Carth., hic q. 1. in fine, d. 22. q. 2. 3.
+**II.** Alex. Hal., *S.* p. I. q. 35, q. 48. m. 1. 2. 3, q. 1. a. 4. a. 5. — S. Thom., hic q. 3. a. 1. 2; *S.* I. q. 1. a. 9. — B. Albert., hic a. 6; *S.* p. I. tr. 14. q. 56. 59. — Petr. a Tar., hic q. 4. a. 1. 2. — Richard. a Med., hic a. 3. q. 1. 2. — Ægid. R., hic 2. princ. q. 1. — Henr. Gand., *S.* a. 32. q. 1. — Durand., hic q. 4. — Dionys. Carth., hic q. 1. in fine, d. 22. q. 2. 3.
 
 ---
 
@@ -112,7 +112,7 @@ For what is objected, that there is no likeness because there is the greatest di
 
 **I.** *Translatio* is the same as *metaphor*; it is taken in general from all the properties of created things, which by reason of *likeness* are employed to signify divine things. This is more fully explained above at d. 22, q. 3, where also (in *ad* 2) the same is taught as is said here in the body, namely that names too similar are not aptly transferred to divine things (cf. Dionysius the Areopagite, *On the Celestial Hierarchy*, c. 2; and St. Thomas, *S.* I, q. 1, a. 9, *ad* 3).
 
-**II.** Alex. Hal., *S.* p. I, q. 35, q. 48, m. 1, 2, 3, q. 1, a. 4, a. 5. — St. Thom., here q. 3, a. 1, 2; *S.* I, q. 1, a. 9. — B. Albert., here a. 6; *S.* p. I, tr. 14, q. 56, 59. — Petr. a Tar.[?], here q. 4, a. 1, 2. — Richard. a Med., here a. 3, q. 1, 2. — Ægid. R., here 2, *princ.* q. 1. — Henr. Gand., *S.* a. 32, q. 1. — Durand., here q. 4. — Dionys. Carth., here q. 1, *in fine*; d. 22, q. 2, 3.
+**II.** Alex. Hal., *S.* p. I, q. 35, q. 48, m. 1, 2, 3, q. 1, a. 4, a. 5. — St. Thom., here q. 3, a. 1, 2; *S.* I, q. 1, a. 9. — B. Albert., here a. 6; *S.* p. I, tr. 14, q. 56, 59. — Petr. a Tar., here q. 4, a. 1, 2. — Richard. a Med., here a. 3, q. 1, 2. — Ægid. R., here 2, *princ.* q. 1. — Henr. Gand., *S.* a. 32, q. 1. — Durand., here q. 4. — Dionys. Carth., here q. 1, *in fine*; d. 22, q. 2, 3.
 
 ---
 

@@ -70,13 +70,13 @@ Et quod dicantur secundum privationem, videtur:
 
 **Ad argumenta pro parte affirmativa:**
 
-*2.* Ad illud ergo quod obiicitur quod aequale solum [?] est quod non excedit; dicendum, quod illi negationi substernitur affirmatio et positio, quae notificatur per privationem oppositi, scilicet excessus.
+*2.* Ad illud ergo quod obiicitur, quod aequale est quod non excedit; dicendum, quod illi negationi substernitur affirmatio et positio, quae notificatur per privationem oppositi, scilicet excessus.
 
 *3.* Ad illud quod obiicitur, quod non est diversitas in divinis; dicendum, quod non indicant diversitatem nisi suppositi, non formae de se; et quia in divinis est pluralitas suppositorum, patet etc.
 
 *4.* Ad illud quod obiicitur, quod secundum quod dicuntur positive, dicunt commensurationem; dicendum, quod in divinis non est commensuratio simpliciter, sed tamen est commensuratio respectu infiniti, et haec non ponit simpliciter commensurationem.
 
-Aliter potest dici, quod *aequale* et *simile* de natura [?] suo primo intellectu ponunt unitatem quantitatis et qualitatis; quod autem ponat commensurationem hoc quod est *aequale*, est, quia quantitas illa est mensurata. Quoniam ergo in divinis est immensa, dicit ibi convenientiam in quantitate virtutis, quamvis non ponat ibi commensurationem.
+Aliter potest dici, quod *aequale* et *simile* de natura, suo primo intellectu ponunt unitatem quantitatis et qualitatis; quod autem ponat commensurationem hoc quod est *aequale*, est, quia quantitas illa est mensurata. Quoniam ergo in divinis est immensa, dicit ibi convenientiam in quantitate virtutis, quamvis non ponat ibi commensurationem.
 
 <!-- page 535 -->
 
@@ -129,13 +129,13 @@ That they are said by way of privation is shown:
 
 **To the arguments on the affirmative side:**
 
-*2.* To that which is objected, that the equal is only [?] that which does not exceed; it must be said that beneath that negation lies an affirmation and a position, which is signified through the privation of its opposite, namely excess.
+*2.* To that which is objected, that the equal is that which does not exceed; it must be said that beneath that negation lies an affirmation and a position, which is signified through the privation of its opposite, namely excess.
 
 *3.* To that which is objected, that there is no diversity in the divine; it must be said that they indicate no diversity except of supposit, not of form in itself; and since in the divine there is a plurality of supposits, it is clear etc.
 
 *4.* To that which is objected, that insofar as they are said positively, they express commensuration; it must be said that in the divine there is no commensuration absolutely, but nevertheless there is commensuration with respect to the infinite, and this does not posit commensuration absolutely.
 
-Otherwise it can be said that *equal* and *like* by [their] nature [?] in their primary understanding posit a unity of quantity and quality; but that *equal* posits commensuration is because that quantity is measured. Since therefore in the divine [the quantity] is immense, [*equal*] there expresses an agreement in the quantity of power, although it does not posit commensuration there.
+Otherwise it can be said that *equal* and *like*, by [their] nature, in their primary understanding posit a unity of quantity and quality; but that *equal* posits commensuration is because that quantity is measured. Since therefore in the divine [the quantity] is immense, [*equal*] there expresses an agreement in the quantity of power, although it does not posit commensuration there.
 
 <!-- page 535 -->
 

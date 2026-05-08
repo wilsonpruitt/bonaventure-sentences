@@ -158,9 +158,9 @@ Likewise it is asked concerning what he says, that *he has special care for rati
 
      **En.** The Vatican edition with several codices [reads] *sic*. A little before, for *primo* cod. X reads *proprie*. — More on this doubt is found above, art. 1, q. 3, and art. 2, q. 2; in Bl. Albert, here a. 6; in St. Thomas, here q. 1, a. 2; in Dionysius the Carthusian, here q. 1.
 
-[^10]: **La.** Vat., post *velle* posita virgula, pro *hic* substituit *hoc*[?], auctoritate quidem plurimorum codd., at perperam, ut ex subnexis clare intelligitur. Librarii mss. transcribentes, etiam hoc loco, ut saepe saepius accidit, *hic* pro *hoc* legisse, valde [?]
+[^10]: **La.** Vat., post *velle* posita virgula, pro *hoc* substituit *hic*, auctoritate quidem plurimorum codd., at perperam, ut ex subnexis clare intelligitur. Librarii mss. transcribentes, etiam hoc loco, ut saepe saepius accidit, *hic* pro *hoc* legisse, valde verisimile est.
 
-     **En.** The Vatican edition, with a comma placed after *velle*, substitutes *hoc* for *hic*[?], on the authority of very many codices, but mistakenly, as is plainly understood from what follows. The scribes transcribing the manuscripts, here too — as often happens — read *hic* for *hoc*[?]. [Apparatus column-bottom truncated in OCR.]
+     **En.** The Vatican edition, with a comma placed after *velle*, substitutes *hic* for *hoc*, on the authority of very many codices, but mistakenly, as is plainly understood from what follows. It is highly probable that the scribes transcribing the manuscripts, here too — as often happens — read *hic* for *hoc*.
 
 [^11]: **La.** Vat. *fuit*. — Praecedens *et* intellige: *ergo etiam*.
 
@@ -170,9 +170,9 @@ Likewise it is asked concerning what he says, that *he has special care for rati
 
      **En.** Cod. Z here and a little before [reads] *ordinationem*. A little below, for *exemplum* ed. 1 [reads] *dictum*. That our reading is the true one is plain from the entire text of the Master, c. 2: *He cannot therefore newly or in time know or foreknow anything, just as he cannot newly or in time will anything*, etc.
 
-[^13]: **La.** Vat. *fuit*. [?]
+[^13]: **La.** Vat. *fuit*.
 
-     **En.** The Vatican edition reads *fuit*. [?]
+     **En.** The Vatican edition reads *fuit*.
 
 [^14]: **La.** Multi codd. cum Vat. post *non quia* alterum subiiciunt *non*, quod contextui repugnat, nec non codicibus D F M Y et ed. 1. — De hoc dubio lege Alex. Hal. S. I. q. 25; B. Albert., hic a. 7; Petr. a Tar., hic circa lit.
 

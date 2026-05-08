@@ -11,6 +11,7 @@ manual-review/*-numbered.txt
 
 # Pre-rebuild snapshot dirs — ephemeral insurance, prior versions live in git history
 vol1/_backup-*/
+_backup-*/
 
 # Python caches
 **/__pycache__/

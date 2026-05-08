@@ -113,7 +113,7 @@ Therefore just as God's predestination, properly [speaking], is the foreknowledg
 
 [^5]: **La.** In codd. et ed. 1 (5 in margine) *in aliis faceret*. — Unde Magister plura quae sequuntur, nonnullis mutatis, depromsit.
 
-     **En.** In the codices and edition 1 (with [edition] 5 in the margin) [the reading is] *in aliis faceret* ("in others he would make [it]"). — Whence the Master drew much of what follows, with several [things] changed. [?]
+     **En.** In the codices and edition 1 (with [edition] 5 in the margin) [the reading is] *in aliis faceret* ("in others he would make [it]"). — Whence the Master drew much of what follows, with several [things] changed.
 
 [^6]: **La.** Dist. XXXVIII. c. 2. — Paulo superius post *dicta*, atque edd. 4, 6, 8, 9 omittunt *alia*.
 
@@ -129,7 +129,7 @@ Therefore just as God's predestination, properly [speaking], is the foreknowledg
 
 [^9]: **La.** Libr. I. ad Monimum, c. 25; secundum sensum, sed ad verbum in Glossa (loc. cit.). In quo textu codd. B E ante *ad facienda peccata* praemittunt *eos*. — Paulo inferius codd. A B D et edd. 2, 3, 7, 8 (5 in margine) *iniustitiam admittendam* pro *iustitiam amittendam*.
 
-     **En.** [Cf. Fulgentius,] book I *to Monimus*, c. 25; according to the sense, but verbatim in the Gloss (at the place cited). In which text codices B and E, before *ad facienda peccata* ("to the doing of sins"), prefix *eos* ("them"). — A little below, codices A B D and editions 2, 3, 7, 8 (with [edition] 5 in the margin) [read] *iniustitiam admittendam* ("admitting injustice") in place of *iustitiam amittendam* ("losing justice"). [?]
+     **En.** [Cf. Fulgentius,] book I *to Monimus*, c. 25; according to the sense, but verbatim in the Gloss (at the place cited). In which text codices B and E, before *ad facienda peccata* ("to the doing of sins"), prefix *eos* ("them"). — A little below, codices A B D and editions 2, 3, 7, 8 (with [edition] 5 in the margin) [read] *iniustitiam admittendam* ("admitting injustice") in place of *iustitiam amittendam* ("losing justice").
 
 [^10]: **La.** Cod. D addit *et erit*.
 
@@ -153,11 +153,11 @@ Therefore just as God's predestination, properly [speaking], is the foreknowledg
 
 [^15]: **La.** Rom. 9, 19.
 
-      **En.** Romans 9:19. [?]
+      **En.** Romans 9:19.
 
 [^16]: **La.** Libr. I. *quaest.* 2. n. 19; sed plurimum a Magistro mutatis. Ultima verba *paene non aperit* etc. usque sunt ex *Epist.* (loc. cit.). — Lectio b. Scripturae est Rom. 11, 33.
 
-      **En.** [Augustine, *To Simplician*,] book I, *question* 2, n. 19; but with very much changed by the Master. The last words *paene non aperit* ("almost does not unveil") etc. and onward are from the *Letter* (at the place cited). — The reading of holy Scripture is Romans 11:33. [?]
+      **En.** [Augustine, *To Simplician*,] book I, *question* 2, n. 19; but with very much changed by the Master. The last words *paene non aperit* ("almost does not unveil") etc. and onward are from the *Letter* (at the place cited). — The reading of holy Scripture is Romans 11:33.
 
 ---
 

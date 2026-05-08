@@ -79,7 +79,7 @@ Ad intelligentiam autem obiectorum notandum, quod per respectum ad cognoscentem 
 
 **Ad argumenta in oppositum:**
 
-*Ad 1, 2.* [Patet ex praedicta distinctione rationis identitatis et di]versitate. [?]
+*Ad 1. 2.* Et sic patent duo obiecta de idea et diversitate.
 
 *Ad 3.* Ad illud quod obiicitur tertio, quod nihil est commune Creatori et creaturae; dicendum, quod verum est de communitate secundum eandem comparationem; sed secundum aliam et aliam nihil prohibet, quod aliquid sit veritas creaturae et similitudo Dei, similiter, quod aliquid sit veritas Dei et similitudo creaturae. Et quoniam ratio cognoscendi accipitur penes utrumque modum, ideo cognitio potest esse communis.
 
@@ -87,9 +87,9 @@ Ad intelligentiam autem obiectorum notandum, quod per respectum ad cognoscentem 
 
 ### Scholion
 
-**I.** Quod ex parte cognoscentis uno eodemque modo et eadem ratione cognoscendi Deus omnia cognoscat, efficitur ex illo axiomate (in fine corp.), quod «cognitio Dei non recipit modum essendi et nobilitatem a cognito» (cfr. supra d. 38. q. 4. ad 4, q. 6. ad 2.) [?]. Hoc cohaeret cum alio principio: Quidquid recipitur per modum recipientis recipitur, licet receptio alicuius rei ab extra nullo modo dici possit de Deo, cuius intellectus est substantia et actus purissimus. — In solut. ad 3. dicitur, quod veritas creaturae potest esse similitudo Dei, quod explicatur supra d. 3. p. I. q. 1. ad 1, q. 2. ad 3. 4; et quod veritas Dei est similitudo creaturae, de quo vide d. 35. q. 1. 2. [?]
+**I.** Quod ex parte *cognoscentis* uno eodemque modo et eadem ratione cognoscendi Deus omnia cognoscat, evincitur ex illo axiomate (in fine corp.), quod «*cognitio Dei non recipit modum essendi et nobilitatem a cognito*» (cfr. supra d. 38. q. 4. ad 4, q. 6. ad 2.). Hoc cohaeret cum alio principio: Quidquid recipitur per modum recipientis recipitur, licet *receptio* alicuius rei ab extra nullo modo dici possit de Deo, cuius intellectus est substantia et actus purissimus. — In solut. ad 3. dicitur, quod *veritas creaturae* potest esse similitudo Dei, quod explicatur supra d. 3. p. I. q. 1. ad 1, q. 2. ad 3. 4; et quod *veritas Dei* est similitudo creaturae, de quo vide d. 35. q. 1. 2.
 
-**II.** Alex. Hal., *S.* p. I. q. 23. m. 2. a. 1. 3, m. 4. — Scot., I. *Report.* d. 36. q. 4; *de Primo principio*, 9; *Collat.* 21. — S. Thom., I. *Sent.* d. 38. q. 1. a. 14 [?]; a. 3. et in seqq. passim; *S. c. Gent.* I. c. 46. et *Verit.* q. 2. a. 13. — B. Albert., hic a. 2, d. 36. a. [?]; tr. 15. q. 60. m. 2. — Petr. a Tar., I. *Sent.* d. 36. — Richard. a Med., I. *Sent.* d. 35. q. 7. in solut. — Aegid. R., de hac et seq. q. d. 38. princ. 1. q. [?]. — [Henr.] Gand., *S.* a. 40. q. 43. — Durand., I. *Sent.* d. 35. q. 1. — [Dionys. Carth.,] I. *Sent.* d. 35. q. 2. 3.
+**II.** Alex. Hal., *S.* p. I. q. 23. m. 2. a. 1. 3, m. 4. a. 4. — Scot., I. *Report.* d. 36. q. 4; *de Primo principio*, c. 4. concl. 9; *Collat.* 21. — S. Thom., I. *Sent.* d. 38. q. 1. a. 2; *S.* I. q. 14. a. 3. et in seqq. passim; *S. c. Gent.* I. c. 46. et passim; *de Verit.* q. 2. a. 13. — B. Albert., hic a. 2, d. 36. a. 3; tr. 15. q. 60. m. 2. — Petr. a Tar., I. *Sent.* d. 36. q. 2. a. 1. — Richard. a Med., I. *Sent.* d. 35. q. 7. in solut. ad argg. — Aegid. R., de hac et seq. q. d. 38. princ. 1. q. 2. — Henr. Gand., *S.* a. 40. q. 45. — Durand., I. *Sent.* d. 35. q. 1. — Biel, I. *Sent.* d. 35. q. 2. 3.
 
 ---
 
@@ -145,7 +145,7 @@ For the understanding of the objections, however, it must be noted that with res
 
 **To the arguments on the opposite side:**
 
-*To 1, 2.* [It is plain from the foregoing distinction between the *ratio* of identity and of di]versity. [?]
+*To 1. 2.* And so the two objects [of the cognition] — concerning idea and diversity — are made plain.
 
 *To 3.* To that which is objected in the third [argument], that nothing is common to the Creator and the creature; it must be said that [this] is true of community according to the same comparison; but according to one and another [comparison] nothing prohibits that something be a truth of the creature and a likeness of God, and likewise that something be a truth of God and a likeness of the creature. And since the *ratio* of knowing is taken according to either mode, the cognition can be common.
 
@@ -153,9 +153,9 @@ For the understanding of the objections, however, it must be noted that with res
 
 ### Scholion
 
-**I.** That on the part of the knower God knows all things by one and the same mode and the same *ratio* of knowing, is established from that axiom (at the end of the corpus), that "the cognition of God does not receive its mode of being and nobility from the known" (cf. above d. 38, q. 4, ad 4; q. 6, ad 2) [?]. This coheres with another principle: Whatever is received is received according to the mode of the receiver, although the reception of any thing from outside cannot in any way be said of God, whose intellect is substance and most pure act. — In the solution to [obj.] 3 it is said that the truth of the creature can be a likeness of God, which is explained above at d. 3, p. I, q. 1, ad 1; q. 2, ad 3, 4; and that the truth of God is a likeness of the creature, on which see d. 35, q. 1, 2 [?].
+**I.** That on the part of *the knower* God knows all things by one and the same mode and the same *ratio* of knowing, is established from that axiom (at the end of the corpus), that "*the cognition of God does not receive its mode of being and nobility from the known*" (cf. above d. 38, q. 4, ad 4; q. 6, ad 2). This coheres with another principle: Whatever is received is received according to the mode of the receiver, although the *reception* of any thing from outside cannot in any way be said of God, whose intellect is substance and most pure act. — In the solution to [obj.] 3 it is said that *the truth of the creature* can be a likeness of God, which is explained above at d. 3, p. I, q. 1, ad 1; q. 2, ad 3, 4; and that *the truth of God* is a likeness of the creature, on which see d. 35, q. 1, 2.
 
-**II.** Alex. Hal., *S.* p. I, q. 23, m. 2, a. 1, 3, m. 4. — Scot., I *Report.* d. 36, q. 4; *On the First Principle*, 9; *Collat.* 21. — St. Thomas, I *Sent.* d. 38, q. 1, a. 14 [?]; a. 3, and in the following [questions] passim; *Summa contra Gentiles* I, c. 46, and *de Veritate* q. 2, a. 13. — B. Albert, here a. 2, d. 36, a. [?]; tr. 15, q. 60, m. 2. — Petr. a Tar., I *Sent.* d. 36. — Richard. a Med., I *Sent.* d. 35, q. 7, in solut. — Aegid. R., on this and the following question, d. 38, princ. 1, q. [?]. — [Henr.] Gand., *S.* a. 40, q. 43. — Durand., I *Sent.* d. 35, q. 1. — [Dionys. Carth.,] I *Sent.* d. 35, q. 2, 3.
+**II.** Alex. Hal., *S.* p. I, q. 23, m. 2, a. 1, 3, m. 4, a. 4. — Scot., I *Report.* d. 36, q. 4; *On the First Principle*, c. 4, concl. 9; *Collat.* 21. — St. Thomas, I *Sent.* d. 38, q. 1, a. 2; *Summa* I, q. 14, a. 3, and in the following [questions] passim; *Summa contra Gentiles* I, c. 46, and passim; *de Veritate* q. 2, a. 13. — B. Albert, here a. 2, d. 36, a. 3; tr. 15, q. 60, m. 2. — Petr. a Tar., I *Sent.* d. 36, q. 2, a. 1. — Richard. a Med., I *Sent.* d. 35, q. 7, in solut. ad argg. — Aegid. R., on this and the following question, d. 38, princ. 1, q. 2. — Henr. Gand., *S.* a. 40, q. 45. — Durand., I *Sent.* d. 35, q. 1. — Biel, I *Sent.* d. 35, q. 2, 3.
 
 ---
 

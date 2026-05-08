@@ -73,7 +73,8 @@ Solet etiam ab eisdem quaeri, quomodo Deus a substantialiter insit omnibus rebus
 
 Cumque divina natura veraciter et essentialiter sit in omni loco et in omni tempore, non tamen movetur per loca vel per tempora[^23], nec localis est, nec temporalis. Localis non est, quia penitus non circumscribitur loco, quia nec ita est in uno loco, quod non sit in alio, neque dimensionem habet, sicut corpus, cui secundum locum assignatur principium, medium et finis, et ante et retro, dextra et sinistra, sursum et deorsum, quod sui interpositione facit distantiam circumstantium.
 
-> *Quid sit mutari secundum tempus.*
+> *Quid sit mutari secundum tempus.* <!-- This sub-rubric is in fact Cap. VII in the printed Quaracchi (p. 635 col-b heading, OCR-dropped); kept here as an in-text rubric since the body content order differs from the printed-cap order, and a structural rewrite is out of scope for the polish-blocker pass. -->
+
 
 Mutari autem per tempus est variari secundum qualitates interiores vel exteriores, quae sunt in ipsa re, quae mutatur, ut quando suscipit vicissitudinem gaudii, doloris, scientiae, oblivionis, vel variationem formae sive alicuius qualitatis exterioris. Haec enim mutatio, quae fit secundum tempus, variatio est qualitatum, quae fit in corporali vel spirituali creatura, et ideo vocatur tempus.
 
@@ -83,13 +84,15 @@ De mutatione vero loci magna inter conquirentes disceptatio versatur. Sunt enim 
 
 *Quibus modis aliquid dicatur locale vel circumscriptibile.*
 
+
 Sed, ut supra diximus, dupliciter dicitur res localis vel circumscriptibilis, scilicet vel quia dimensionem recipit et distantiam facit, vel quia loci termino definitur, quorum utrumque convenit corporeae creaturae, alterum vero tantum spirituali. Nam, ut supra diximus, corporalis creatura ita est localis vel circumscriptibilis, quod determinatur definitione loci, et quod dimensionem recipiens distantiam facit; spiritualis vero tantum definitione loci concluditur, cum ita sit alicubi, quod non alibi; sed nec dimensionem recipit, nec distantiam in loco facit, quia si multi spiritus essent hic, non eo coangustarent locum, quo minus de corporibus contineret. Ideoque Augustinus attribuit mutationem loci corpori, non spiritui, quia licet spiritus transeat de loco ad locum, non tamen ita, ut dimensionibus circumscriptus, interpositione sui faciat distantiam circumstantium, sicut corpus.
 
 Duobus namque his modis dicitur in Scriptura aliquid locale sive circumscriptibile, et e converso, scilicet vel quia dimensionem capiens longitudinis, altitudinis et latitudinis distantiam facit in loco, ut corpus; vel quia loco definitur ac determinatur, quoniam, cum sit alicubi, non ubique invenitur; quod non solum corpori, sed etiam omni creato spiritui congruit. Omne igitur corpus omni modo locale est; spiritus vero creatus quodam modo est localis, et quodam modo non est localis. Localis quidem dicitur, quia definitione loci terminatur, quoniam cum alicubi praesens sit, totus alibi non invenitur; non autem ita localis est, ut dimensionem capiens, distantiam in loco faciat. Divina igitur sola omnino essentia omnino illocalis et incircumscriptibilis est, quae nec locis movetur aliquo modo — scilicet vel determinatione finita, vel dimensione suscepta — nec temporibus, scilicet affectu et cognitione. His enim duobus modis, scilicet loco vel tempore, fit mutatio creaturae, quae longe est a Creatore.
 
 #### Cap. VII.
 
-*Utrum spiritus creati sint locales et circumscriptibiles.* [?]
+*Utrum spiritus creati sint locales et circumscriptibiles.* <!-- printed as Cap. VIII in Quaracchi p. 635 col-b → p. 636; chunk numbering kept as VII for body-flow consistency, structural restructure deferred -->
+
 
 Sunt ergo spiritus creati in loco et transeunt de loco ad locum, et quodam modo locales et circum-
 
@@ -175,7 +178,8 @@ For in these two ways something is said in Scripture to be local or circumscript
 
 #### Chapter VII.
 
-*Whether created spirits are local and circumscriptible.* [?]
+*Whether created spirits are local and circumscriptible.* <!-- = Quaracchi Cap. VIII; see Latin note above -->
+
 
 Created spirits therefore are in a place, and they pass from place to place, and they are in a certain way local and circum-
 
@@ -283,9 +287,9 @@ It seems already to have been sufficiently shown how all things are said to be i
 
      **En.** [Chrysostom,] Homily 2, n. 1.
 
-[^22]: **La.** Primus locus respicit Sap. 8, 1; secundus ibid. 7, 25. — Quae sequuntur usque *incommutabilis Veritas* sumta sunt ex August. *de Agone christiano*, c. 18. n. 20. [?]
+[^22]: **La.** Primus locus respicit Sap. 8, 1; secundus ibid. 7, 25. — Quae sequuntur usque *incommutabilis Veritas* sumta sunt ex August. *de Agone christiano*, c. 18. n. 20. Hic textus in codd. A B C D et nonnullis edd. ponitur in fine capituli; in ed. 7 legitur ad marginem; in ed. 9 ante *Unde Augustinus*. Videtur igitur, eum esse potius notulam in secunda editione huius libri additam. Cfr. supra pag. 329, nota 5. Nihilominus eum non removimus a loco, quem in Vat. et ed. 8 obtinet.
 
-     **En.** The first passage refers to Wisdom 8:1; the second to the same [book] 7:25. — What follows up to *immutable Truth* is taken from Augustine, *On the Christian Combat*, c. 18, n. 20. (Note: the OCR places this Augustine-Christian-Combat citation note adjacent to a column-rule artifact and partly duplicates the wording of n. 12; flagged for resolution against a clean print.)
+     **En.** The first passage refers to Wisdom 8:1; the second to the same [book] 7:25. — What follows up to *immutable Truth* is taken from Augustine, *On the Christian Combat*, c. 18, n. 20. This text in codices A B C D and several editions is placed at the end of the chapter; in edition 7 it is read in the margin; in edition 9, before *Unde Augustinus*. It seems therefore to be rather a *notula* added in the second edition of this book. Cf. above p. 329, note 5. Nevertheless we have not removed it from the place which it holds in the Vatican [edition] and edition 8.
 
 [^23]: **La.** Sumta sunt haec secundum sensum I. ad lit. c. 20. n. 39, 40.
 

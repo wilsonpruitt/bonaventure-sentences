@@ -79,7 +79,7 @@ Quod autem obduratio sit poena, ostenditur sic:
 
 ### Scholion.
 
-**1.** Alex. Hal. (*S.* p. I. q. 29. m. 3. 4. 5.) enumerat et bene explicat tres effectus reprobationis, qui sunt *substractio gratiae*, *excaecatio*, *obduratio*. In solut. ad 3. tangitur a S. Doctore primum membrum huius divisionis, et bene distinguitur triplex *poena*; *excaecationis* autem mentio fit in 1. fundam. De poena eiusque ordine ad culpam cfr. II. *Sent.* d. 36. per totam. — Doctores in hac doctrina conveniunt, et Petr. a Tar. fere ad ver[?]bum sequitur nostrum Doctorem.
+**1.** Alex. Hal. (*S.* p. I. q. 29. m. 3. 4. 5.) enumerat et bene explicat tres effectus reprobationis, qui sunt *substractio gratiae*, *excaecatio*, *obduratio*. In solut. ad 3. tangitur a S. Doctore primum membrum huius divisionis, et bene distinguitur triplex *poena*; *excaecationis* autem mentio fit in 1. fundam. De poena eiusque ordine ad culpam cfr. II. *Sent.* d. 36. per totam. — Doctores in hac doctrina conveniunt, et Petr. a Tar. fere ad verbum sequitur nostrum Doctorem.
 
 ---
 
@@ -135,7 +135,7 @@ That obduration is punishment is shown thus:
 
 ### Scholion.
 
-**1.** Alex. Hal. (*S.* p. I. q. 29. m. 3. 4. 5.) enumerates and well explains the three effects of reprobation, which are *withdrawal of grace*, *blinding*, *obduration*. In the solution to 3 the first member of this division is touched on by the Holy Doctor, and the threefold *punishment* is well distinguished; mention of *blinding* is made in the first fundament. Concerning punishment and its order to fault, cf. II. *Sent.* d. 36. throughout. — The Doctors agree in this teaching, and Petr. a Tar. follows our Doctor almost word [?] for word.
+**1.** Alex. Hal. (*S.* p. I. q. 29. m. 3. 4. 5.) enumerates and well explains the three effects of reprobation, which are *withdrawal of grace*, *blinding*, *obduration*. In the solution to 3 the first member of this division is touched on by the Holy Doctor, and the threefold *punishment* is well distinguished; mention of *blinding* is made in the first fundament. Concerning punishment and its order to fault, cf. II. *Sent.* d. 36. throughout. — The Doctors agree in this teaching, and Petr. a Tar. follows our Doctor almost word for word.
 
 ---
 
@@ -153,8 +153,8 @@ That obduration is punishment is shown thus:
 [^4]: **La.** Melius legeretur *de Praedestinatione et gratia*, in quo libro, qui ceterum incerti auctoris est, c. 1. dicitur: *Quid enim aliud est duritia quam Dei obviare mandatis?* — Sequens textus, ex Ambrosio citatus, invenitur in eius libro *de Paradiso*, c. 8. n. 39.
     **En.** It would be better read *On Predestination and Grace*, in which book — which is moreover of uncertain author — c. 1, it is said: *For what else is hardness than God's standing in the way of the commandments?* — The following text, cited from Ambrose, is found in his book *On Paradise*, c. 8 n. 39.
 
-[^5]: **La.** *Contra Adimantum, Manichaei discipulum*, c. 26: *Malum hoc loco non peccatum, sed poena intelligenda est. Dupliciter enim appellatur malum: unum, quod homo facit, alterum, quod patitur; quod facit, peccatum est; quod patitur, poena.* Cfr. et *de Vera Relig.* c. 20. n. 39, et I. *de lib. arb.* c. 1. n. 1. (c. 1.); nec non III. c. 15. et 16. n. 41. seqq. — Textus deinde alla[?]tus loc. cit. c. 23. n. 45. sic sonat: *Ac per hoc et Deus induravit per iustum iudicium, et ipse Pharao per liberum arbitrium*. — *Psalmus*, ex quo mox verba citantur, est 94, 8.
-    **En.** *Against Adimantus, the disciple of Mani*, c. 26: *Evil in this place is to be understood not as sin, but as punishment. For evil is called such in two ways: one, that which man does; the other, that which he suffers; what he does is sin; what he suffers is punishment.* Cf. also *On True Religion* c. 20 n. 39, and the first book *On Free Will* c. 1 n. 1 (c. 1); also III, c. 15 and 16 n. 41 ff. — The text subsequently cited [?] at the same place, c. 23 n. 45, runs thus: *And by this God too hardened by a just judgment, and Pharaoh himself by his free will.* — The *Psalm* from which the words are next cited, is 94:8.
+[^5]: **La.** *Contra Adimantum, Manichaei discipulum*, c. 26: *Malum hoc loco non peccatum, sed poena intelligenda est. Dupliciter enim appellatur malum: unum, quod homo facit, alterum, quod patitur; quod facit, peccatum est; quod patitur, poena.* Cfr. et *de Vera Relig.* c. 20. n. 39, et I. *de lib. arb.* c. 1. n. 1. (c. 1.); nec non III. c. 15. et 16. n. 41. seqq. — Textus deinde allatus loc. cit. c. 23. n. 45. sic sonat: *Ac per hoc et Deus induravit per iustum iudicium, et ipse Pharao per liberum arbitrium*. — *Psalmus*, ex quo mox verba citantur, est 94, 8.
+    **En.** *Against Adimantus, the disciple of Mani*, c. 26: *Evil in this place is to be understood not as sin, but as punishment. For evil is called such in two ways: one, that which man does; the other, that which he suffers; what he does is sin; what he suffers is punishment.* Cf. also *On True Religion* c. 20 n. 39, and the first book *On Free Will* c. 1 n. 1 (c. 1); also III, c. 15 and 16 n. 41 ff. — The text subsequently cited at the same place, c. 23 n. 45, runs thus: *And by this God too hardened by a just judgment, and Pharaoh himself by his free will.* — The *Psalm* from which the words are next cited, is 94:8.
 
 [^6]: **La.** [The reference to Augustine's *De Gratia et libero arbitrio* (c. 23. n. 45) is given in the preceding note.]
     **En.** [The reference to Augustine's *On Grace and Free Will* (c. 23 n. 45) is given in the preceding note.]

@@ -65,7 +65,7 @@ De entitate autem duo quaeruntur.
 
 Primo quaeritur, utrum praedestinatio sit quid aeternum, an temporale.
 
-Secundo, quid sit praedestinatio secundum [?]. <!-- OCR truncates the listing here at the page-bottom; the second question is a1-q2 "scientia an voluntas" per the chunk title. -->
+Secundo, quid sit praedestinatio secundum rem.
 
 ---
 
@@ -110,7 +110,7 @@ Concerning entity, two [questions] are asked.
 
 First it is asked, whether predestination is something eternal or temporal.
 
-Second, what predestination is according to [?].
+Second, what predestination is according to its [real] thing.
 
 ---
 

@@ -46,11 +46,11 @@ Secundo quaeritur, utrum haec locutio sit admittenda: Pater est potens potentia,
 
 <!-- page 564 -->
 
-5. Item, cum immediata causa operationis sit voluntas, et illa approprietur Spiritui sancto, videtur, quod magis debeat dici[?] *operari per Spiritum sanctum*, quam *per Filium*.
+5. Item, cum immediata causa operationis sit voluntas, et illa approprietur Spiritui sancto, videtur, quod magis debeat dici *operari per Spiritum sanctum*, quam *per Filium*.
 
 **Contra:**
 
-1. Idem est me potentem quod me[?]: ergo si Pater est potens potentia genita, ergo habet esse ab illa.
+1. Idem est me potentem quod me: ergo si Pater est potens potentia genita, ergo habet esse ab illa.
 
 2. Item, potentia appropriatur Patri, ergo nec per proprietatem nec per appropriationem convenit Filio: ergo talis locutio magis est impropria quam ista: Pater est sapiens sapientia genita.
 
@@ -70,7 +70,7 @@ Secundo quaeritur, utrum haec locutio sit admittenda: Pater est potens potentia,
 
 *Ad 3.* Ad illud quod obiicitur, quod sequitur: *novit per Filium, ergo est sapiens per Filium*[^4]: ergo etc.; dicendum, quod non est simile de *nosse* et *operari*. Quamvis enim *nosse* sit verbum transitivum, tamen non connotat effectum sicut *operari*; et ideo per non potest cum ipso importare subauctoritatem; ubi enim est subauctoritas, notatur, quod aliquid sit a duobus et ab uno per alterum. Et sic patet illud.
 
-*Ad 4 et 5.* Ad illud quod obiicitur, utrum dicat rationem causae vel instrumenti; dicendum, quod neutrum dicit proprie, sed subauctoritatem, quae importat rationem utriusque quantum ad id quod est ibi completionis. — Quod obiicitur, quod Filio non appropriatur[?] *operari per ipsum*, quod operatio est per virtutem, responsio est, quod virtus appropriatur Filio sicut et dicitur primae ad Corinthios primo[^8]: *Christum dicimus Dei virtutem et Dei sapientiam*. Ratio autem, quare virtus Filio appropriatur, est, quia virtus est ultimum potentiae sive est potentia ultimata[^9]. Quoniam igitur Filius producitur a Patre secundum omnimodam perfectionem potentiae, quia generare est actus perfectae potentiae — «perfectum est enim unumquodque, quando potest generare tale quale ipsum est» — quia igitur Filius accipit potentiam producendi aeque perfectum, sicut ipse et Pater est, ut Spiritum sanctum: ideo virtus ei appropriatur; ideo dicitur virtus Patris et dextera[^10], et Pater operari per Filium.
+*Ad 4 et 5.* Ad illud quod obiicitur, utrum dicat rationem causae vel instrumenti; dicendum, quod neutrum dicit proprie, sed subauctoritatem, quae importat rationem utriusque quantum ad id quod est ibi completionis. — Quod obiicitur, quod Filio non appropriatur *operari per ipsum*, quod operatio est per virtutem, responsio est, quod virtus appropriatur Filio sicut et dicitur primae ad Corinthios primo[^8]: *Christum dicimus Dei virtutem et Dei sapientiam*. Ratio autem, quare virtus Filio appropriatur, est, quia virtus est ultimum potentiae sive est potentia ultimata[^9]. Quoniam igitur Filius producitur a Patre secundum omnimodam perfectionem potentiae, quia generare est actus perfectae potentiae — «perfectum est enim unumquodque, quando potest generare tale quale ipsum est» — quia igitur Filius accipit potentiam producendi aeque perfectum, sicut ipse et Pater est, ut Spiritum sanctum: ideo virtus ei appropriatur; ideo dicitur virtus Patris et dextera[^10], et Pater operari per Filium.
 
 Aliter potest dici, quod virtus dicit immediatiorem ordinationem ad actum quam potentia, quia potentia ordinatur ad opus per dispositionem, et Filio appropriatur dispositio, ideo et potentia disposita. Et sic patent omnia quaesita.
 
@@ -101,11 +101,11 @@ Second, it is asked whether this locution is to be admitted: *The Father is powe
 
 <!-- page 564 -->
 
-5. Likewise, since the immediate cause of operation is the will, and this is appropriated to the Holy Spirit, it seems that one ought rather to say[?] *to work through the Holy Spirit*, than *through the Son*.
+5. Likewise, since the immediate cause of operation is the will, and this is appropriated to the Holy Spirit, it seems that one ought rather to say *to work through the Holy Spirit*, than *through the Son*.
 
 **On the contrary:**
 
-1. *Me being powerful* is the same as *me*[?]: therefore if the Father is powerful with begotten power, then he has being from it.
+1. *Me being powerful* is the same as *me*: therefore if the Father is powerful with begotten power, then he has being from it.
 
 2. Likewise, power is appropriated to the Father, therefore it belongs to the Son neither by proprietas nor by appropriation: therefore such a locution is more improper than this: *The Father is wise with begotten wisdom*.
 
@@ -125,7 +125,7 @@ Second, it is asked whether this locution is to be admitted: *The Father is powe
 
 *To 3.* To that which is objected, that it follows: *he knows through the Son, therefore he is wise through the Son*[^4]: therefore etc.; it must be said that the case of *knowing* and of *working* is not similar. For although *to know* is a transitive verb, it nevertheless does not connote an effect as *to work* does; and therefore *per* cannot import sub-authority along with it [i.e. with *to know*]; for where there is sub-authority, it is denoted that something is from two and from one through the other. And so that [point] is clear.
 
-*To 4 and 5.* To that which is objected, whether [*per*] expresses an account of cause or of instrument; it must be said that it expresses neither properly, but sub-authority, which imports the account of both as far as concerns what there is in it of completion. — As for what is objected, that *to work through him* is not appropriated[?] to the Son, since operation is through virtue, the response is that virtue is appropriated to the Son, just as it is also said in First Corinthians, chapter 1[^8]: *We preach Christ the virtue of God and the wisdom of God*. And the reason why virtue is appropriated to the Son is that virtue is the ultimate of power, or is ultimate power[^9]. Since therefore the Son is produced by the Father according to every kind of perfection of power — for to generate is an act of perfect power, "for each thing is perfect when it can generate such as itself is" — since therefore the Son receives the power of producing what is equally perfect, just as he himself and the Father is, namely the Holy Spirit: therefore virtue is appropriated to him; therefore he is called the virtue of the Father and the right hand[^10], and the Father [is said] to work through the Son.
+*To 4 and 5.* To that which is objected, whether [*per*] expresses an account of cause or of instrument; it must be said that it expresses neither properly, but sub-authority, which imports the account of both as far as concerns what there is in it of completion. — As for what is objected, that *to work through him* is not appropriated to the Son, since operation is through virtue, the response is that virtue is appropriated to the Son, just as it is also said in First Corinthians, chapter 1[^8]: *We preach Christ the virtue of God and the wisdom of God*. And the reason why virtue is appropriated to the Son is that virtue is the ultimate of power, or is ultimate power[^9]. Since therefore the Son is produced by the Father according to every kind of perfection of power — for to generate is an act of perfect power, "for each thing is perfect when it can generate such as itself is" — since therefore the Son receives the power of producing what is equally perfect, just as he himself and the Father is, namely the Holy Spirit: therefore virtue is appropriated to him; therefore he is called the virtue of the Father and the right hand[^10], and the Father [is said] to work through the Son.
 
 In another way it can be said that virtue expresses a more immediate ordination to the act than power does, because power is ordained to the work through disposition, and disposition is appropriated to the Son, [and] therefore also disposed power. And thus all the points sought are clear.
 

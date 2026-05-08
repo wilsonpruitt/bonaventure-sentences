@@ -175,9 +175,9 @@ We have already said many things on the sacrament of the Unity and Trinity, supr
 
      **En.** The Vatican and editions 4, 6 add the gloss: *et aliud, quod Dei est, aliudque naturam Dei* ("and what is of God [is] another, and the nature of God [is] yet another"), against all the codices and the other editions.
 
-[^10]: **La.** *Ibid.* n. 24. In quo textu pro *fuerit in forma*, vi ed. Hilarii *fuerit*; *infirma ad id natura eius vi*. Deinde Vat. cum plurimis edd. addit *quae* post *desit usquam*, sed contra originale, codd. et ed. I. In fine contra codd. Vat. cum aliis edd., excepta 8, *autem aliud sunt* pro *aliud autem sint*. [?]
+[^10]: **La.** *Ibid.* n. 24. In quo textu pro *fuerit in forma*, ut ed. Hilarii *fuerit; infirma ad id natura eius, ut*. Deinde Vat. cum plurimis edd. addit *quae* post *desit usquam*, sed contra originale, codd. et ed. I. In fine contra codd. Vat. cum aliis edd., excepta 8, *autem aliud sunt* pro *aliud autem sint*.
 
-     **En.** *Ibid.* n. 24. In which text, in place of *fuerit in forma*, the edition of Hilary has *fuerit; infirma ad id natura eius vi*. Then the Vatican with most editions adds *quae* after *desit usquam*, but against the original, the codices, and ed. I. At the end, against the codices, the Vatican with the other editions (except 8) [reads] *autem aliud sunt* ("but they are another") in place of *aliud autem sint* ("but they should be other"). [?]
+     **En.** *Ibid.* n. 24. In which text, in place of *fuerit in forma*, the edition of Hilary [reads] *fuerit; infirma ad id natura eius, ut*. Then the Vatican with most editions adds *quae* after *desit usquam*, but against the original, the codices, and ed. I. At the end, against the codices, the Vatican with the other editions (except 8) [reads] *autem aliud sunt* ("but they are another") in place of *aliud autem sint* ("but they should be other").
 
 [^11]: **La.** *Libr.* VII. *de Trin.* c. 6. n. 11. Cfr. d. V. c. 2. pag. 110, nota 7, et d. XXV. c. 1. pag. 432, nota 5.
 
@@ -207,9 +207,9 @@ We have already said many things on the sacrament of the Unity and Trinity, supr
 
      **En.** All that precedes is taken from Hugh of Saint-Victor, *On the Sacraments*, book I, part II, c. 8, with a few things altered or transposed by the Master. Also what follows is read in the same place.
 
-[^18]: **La.** Codd. A B C E et ed. 1 *benignitas*. [?]
+[^18]: **La.** Codd. A B C E et ed. 1 *benignitas*.
 
-     **En.** Codices A B C E and ed. 1 [read] *benignitas* ("kindness"). [?] (Note: this variant gloss appears here per the OCR but seems to attach to the catchword for *bonitas* in the following sentence; flagged for resolution.)
+     **En.** Codices A B C E and ed. 1 [read] *benignitas* ("kindness").
 
 [^19]: **La.** Cap. II. n. 3. In quo textu ed. Augustini moderna habet *oportuit intellectum quod* pro *potuit intellectum quam*; sola Vat. *oportuit intellectam*. Antiquae edd. August. concordant cum textu nostro. Deinde omnes edd. perperam *Constantino* pro *Constantio*, refragantibus codd. Denique pro *defensum* Vat. et edd. 4, 8 *distensum*.
 

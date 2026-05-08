@@ -94,9 +94,9 @@ Second, whether it is caused by things[^3].
 
      **En.** The codices and editions 1, 2, 3, 5, 7, 9 omit *et* ("and").
 
-[^2]: **La.** Ita codd. BCD; aliis codd. et omnibus edd. [?].
+[^2]: **La.** Ita codd. BCD; in aliis codd. et omnibus edd. *esse*.
 
-     **En.** Thus codd. BCD; in other codices and in all editions [the reading is otherwise — text not legible in OCR][?].
+     **En.** Thus codd. BCD; in other codices and in all editions [the reading is] *esse*.
 
 [^3]: **La.** *Notae ad Commentarium.* — Supple cum Vat. infra distinct. 39:
 

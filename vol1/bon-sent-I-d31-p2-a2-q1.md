@@ -86,7 +86,7 @@ Quia vero vir iustus conformatur per caritatem voluntati divinae et ei adhaeret 
 
 *3.* Ad illud quod obiicitur quod Spiritus est medium uniens; dicendum, quod unit quantum ad voluntatem, sed non quantum ad conformitatem naturae; et non dicuntur unum ratione conformitatis voluntatis solum. Ideo non valet, quia ligamen Spiritus non est tota causa quare sint unum.
 
-*4.* Ad illud quod obiicitur, quod membra Christi sunt unum; dici potest, quod membra Christi non dicuntur unum simpliciter, sed unum corpus; et sic etiam Christus est unum cum membris[?], sed hoc est ratione humanitatis assumtae.
+*4.* Ad illud quod obiicitur, quod membra Christi sunt unum; dici potest, quod membra Christi non dicuntur unum simpliciter, sed unum corpus; et sic etiam Christus est unum cum membris, sed hoc est ratione humanitatis assumtae.
 
 ### Scholion
 
@@ -152,7 +152,7 @@ But since the just man is conformed by charity to the divine will and adheres to
 
 *3.* To that which is objected, that the Spirit is the uniting middle; it must be said that he unites with respect to the will, but not with respect to conformity of nature; and they are not said to be one by reason of conformity of will alone. Therefore [the argument] does not hold, since the bond of the Spirit is not the whole cause why they are one.
 
-*4.* To that which is objected, that the members of Christ are one; it can be said that the members of Christ are not said to be one simply, but one body; and thus also Christ is one with [his] members[?], but this is by reason of the humanity assumed.
+*4.* To that which is objected, that the members of Christ are one; it can be said that the members of Christ are not said to be one simply, but one body; and thus also Christ is one with [his] members, but this is by reason of the humanity assumed.
 
 ### Scholion
 

@@ -155,9 +155,9 @@ In[^21] the foregoing it has been made plain that in the cognition or foreknowle
 
      **En.** Psalm 74:7 [Vulgate]; Cassiodorus, *Expositio in Psalterium*, on this passage. The following passage from the same author is on Psalm 16:14.
 
-[^10]: **La.** Nostri codd. et edd. *libro ad Helvidium*, sed revera locus invenitur Epist. 169. n. 2. ad Evod., nonnullis tamen a Magistro omissis. Paulo ante codd. *abscondi a lumine* [?] *lumine*.
+[^10]: **La.** Nostri codd. et edd. *libro ad Helvidium*, sed revera locus invenitur Epist. 169. n. 2. ad Evod., nonnullis tamen a Magistro omissis. Paulo ante codd. *abscondi a lumine* pro *abscondita a lumine*.
 
-     **En.** Our codices and editions [read] *libro ad Helvidium* ("the book to Helvidius"), but in fact the passage is found in Epistle 169, n. 2, to Evodius, with some [things] nevertheless omitted by the Master. A little before, the codices [read] *abscondi a lumine* ("to be hidden from the light") [?] *lumine* ("light"). [?] (Note: the OCR fragments the closing variant of this note across the column break and trails off into footer-band noise; the bracketed *lumine* may be a vertical-bar separator misread as text — flagged for resolution against a clean print.)
+     **En.** Our codices and editions [read] *libro ad Helvidium* ("the book to Helvidius"), but in fact the passage is found in Epistle 169, n. 2, to Evodius, with some [things] nevertheless omitted by the Master. A little before, the codices [read] *abscondi a lumine* ("to be hidden from the light") in place of *abscondita a lumine* ("hidden from the light").
 
 [^11]: **La.** Respicitur Matth. 7, 23: *Nunquam novi vos*, et Luc. 13, 27: *Nescio vos*.
 

@@ -79,11 +79,11 @@ Secundo, supposito quod praedestinatio non inferat necessitatem libero arbitrio,
 
 ### Scholion
 
-**I.** Additur haec quaestio, ne quis ex principiis antea stabilitis derogare possit certitudini divinae praedestinationis. Simul in solutione ad 3. [?] resolvitur alia quaestio, utrum scil. numerus praedestinatorum augeri possit; et in solutione ad 6. valide et triplici argumentatione retunditur insipientia eorum, qui doctrina hac ad impietatis excusationem abutuntur.
+**I.** Additur haec quaestio, ne quis ex principiis antea stabilitis derogare possit *certitudini* divinae praedestinationis. Simul in solutione ad 3. resolvitur alia quaestio, utrum scil. numerus praedestinatorum *augeri* possit; et in solutione ad 6. valide et triplici argumentatione retunditur insipientia eorum, qui doctrina hac ad impietatis excusationem abutuntur.
 
 **II.** Distinctionem certitudinis a parte rei evenientis, et a parte Dei praedestinantis etiam S. Thom. (*S.* I. q. 116. a. 3; *de Verit.* q. 6. a. 3. in fine corp. et alibi) adhibet. Haec in genere ab omnibus conceditur, licet de ratione certitudinis a parte Dei dissentiant. — Quod nemo, seclusa revelatione, certo scire potest, se esse praedestinatum, docetur a Concilio Trid. (Sess. 6. c. 12.), et a S. Doctore confirmatur infra d. 41. a. 1. q. 2. et alibi.
 
-Alex. Hal., *S.* [?] 28. — B. Albert., [?] I. 12. — Petr. [a Tar., hic q. ?] [?] — Richard. [a Med.,] hic a. 2. q. 3.
+**III.** Alex. Hal., *S.* p. I. q. 28. m. 2. a. 3. — B. Albert., hic a. 11. 12. — Petr. a Tar., hic q. 2. a. 2. 3. — Richard. a Med., hic a. 2. q. 3.
 
 ---
 
@@ -140,11 +140,11 @@ Secondly, granted that predestination does not impose necessity on free choice s
 
 ### Scholion
 
-**I.** This question is added, lest from the principles previously established anyone derogate from the certainty of divine predestination. At the same time, in the solution to 3. [?] another question is resolved, namely whether the number of the predestined can be increased; and in the solution to 6., the foolishness of those who abuse this doctrine as an excuse for impiety is robustly refuted by a threefold argumentation.
+**I.** This question is added, lest from the principles previously established anyone derogate from the *certainty* of divine predestination. At the same time, in the solution to 3 another question is resolved, namely whether the number of the predestined can be *increased*; and in the solution to 6, the foolishness of those who abuse this doctrine as an excuse for impiety is robustly refuted by a threefold argumentation.
 
 **II.** The distinction of the certainty on the side of the thing happening, and on the side of God who predestines, is also employed by St. Thomas (*Summa* I. q. 116. a. 3; *de Veritate* q. 6. a. 3. at the end of the corpus, and elsewhere). This is in general conceded by all, although they disagree about the ground of the certainty on God's side. — That no one, apart from revelation, can know with certainty that he is predestined, is taught by the Council of Trent (Sess. 6. c. 12), and is confirmed by the holy Doctor below at d. 41. a. 1. q. 2. and elsewhere.
 
-Alex. of Hales, *Summa* [?] 28. — B. Albert, [?] I. 12. — Peter [of Tarentaise, hic q. ?] [?] — Richard [of Mediavilla,] here a. 2. q. 3.
+**III.** Alex. of Hales, *Summa* p. I. q. 28. m. 2. a. 3. — B. Albert, here a. 11. 12. — Peter of Tarentaise, here q. 2. a. 2. 3. — Richard of Mediavilla, here a. 2. q. 3.
 
 ---
 
@@ -202,6 +202,6 @@ Alex. of Hales, *Summa* [?] 28. — B. Albert, [?] I. 12. — Peter [of Tarentai
 
      **En.** The Vatican edition omits *stultorum*, and a little later with codex cc substitutes *praedestinavit* for *praeordinavit*. Then after *an non* codex X inserts *si non*. — This axiom appears to be formed from the sayings of Boethius, IV. *de Consolatione* prose 1 and 4, under whose name it was current. Cf. *Auctoritates Aristotelis* etc., of which we have already made mention above on page 101, note 6. Somewhat earlier, for *contra arguendo* the Vatican reads *argumentando*.
 
-[^14]: **La.** Epist. I. Tim. 2, 4: *Qui omnes homines vult salvos fieri et ad agnitionem veritatis venire*. — Iuvat hic afferre quod Augustinus, *de Dono persever.* c. 15. n. 38, enarrat de quodam monacho: «*Fuit quidam in nostro monasterio, qui corripientibus fratribus, cur quaedam non facienda faceret, et facienda non faceret, respondebat: Qualiscumque nunc sim, talis ero, qualem me Deus futurum esse praescivit. Qui profecto et verum dicebat, et hoc vero non proficiebat in bonum, sed usque adeo profecit in malum, ut, deserta monasterii societate, fieret canis reversus ad suum vomitum*[?]».
+[^14]: **La.** Epist. I. Tim. 2, 4: *Qui omnes homines vult salvos fieri et ad agnitionem veritatis venire*. — Iuvat hic afferre quod Augustinus, *de Dono persever.* c. 15. n. 38, enarrat de quodam monacho: «*Fuit quidam in nostro monasterio, qui corripientibus fratribus, cur quaedam non facienda faceret, et facienda non faceret, respondebat: Qualiscumque nunc sim, talis ero, qualem me Deus futurum esse praescivit. Qui profecto et verum dicebat, et hoc vero non proficiebat in bonum, sed usque adeo profecit in malum, ut, deserta monasterii societate, fieret canis reversus ad suum vomitum*».
 
-     **En.** 1 Timothy 2, 4: *Who wills all men to be saved and to come to the knowledge of the truth*. — It is helpful here to bring forward what Augustine, *On the Gift of Perseverance*, c. 15, n. 38, narrates of a certain monk: «*There was a certain man in our monastery, who, when the brethren chided him as to why he did certain things which were not to be done, and did not do those which were to be done, would reply: Whatever I now am, such I shall be, as God foreknew that I would be. Who indeed spoke truly, but he did not by this truth profit unto good, but advanced so far in evil that, having forsaken the fellowship of the monastery, he became a dog returned to his vomit*[?]».
+     **En.** 1 Timothy 2, 4: *Who wills all men to be saved and to come to the knowledge of the truth*. — It is helpful here to bring forward what Augustine, *On the Gift of Perseverance*, c. 15, n. 38, narrates of a certain monk: «*There was a certain man in our monastery, who, when the brethren chided him as to why he did certain things which were not to be done, and did not do those which were to be done, would reply: Whatever I now am, such I shall be, as God foreknew that I would be. Who indeed spoke truly, but he did not by this truth profit unto good, but advanced so far in evil that, having forsaken the fellowship of the monastery, he became a dog returned to his vomit*».

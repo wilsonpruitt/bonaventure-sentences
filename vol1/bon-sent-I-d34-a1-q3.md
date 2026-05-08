@@ -123,9 +123,9 @@ it must be said, that by this [word] which is *according to* there can be meant 
 
 ## Apparatus
 
-[^1]: **La.** Cfr. supra d. 3. p. I. q. 2. ad 1, et q. 1, sic[?] dub. 3, nec non ibid. p. II. q. 1. seqq.
+[^1]: **La.** Cfr. supra d. 3. p. I. q. 2. ad 1, et q. 4, ac dub. 3, nec non ibid. p. II. q. 1. seqq.
 
-     **En.** Cf. above d. 3, p. I, q. 2, *ad* 1, and q. 1, thus[?] dub. 3, also *ibid.* p. II, q. 1 ff.
+     **En.** Cf. above d. 3, p. I, q. 2, *ad* 1, and q. 4, and dub. 3, also *ibid.* p. II, q. 1 ff.
 
 [^2]: **La.** Vide hic lit. Magistri, c. 3.
 

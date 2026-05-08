@@ -148,7 +148,7 @@ When therefore it is asked: either according to a part, or according to the whol
 
 [^1]: **La.** Supple cum ed. 1 *Magister*. Paulo superius pro *illocalitate* Vat. *illocabilitate*, et *mutabilitate* pro *mutatione*.
 
-    **En.** Supply with ed. 1 *Magister*. A little above, in place of *illocalitate* the Vatican [edition reads] *illocabilitate*[?], and *mutabilitate* in place of *mutatione*.
+    **En.** Supply with ed. 1 *Magister*. A little above, in place of *illocalitate* the Vatican [edition reads] *illocabilitate*, and *mutabilitate* in place of *mutatione*.
 
 [^2]: **La.** Parte I. huius dist. a. 1. q. 2. — Adiectivum *localis* hic idem sonat ac *loco circumscriptibilis*. — Paulo inferius pro *Sed esse* Vat. cum aliquibus codd. *sed omne*, et subinde post *locatum* est ed. 1 interiicit *esse*.
 

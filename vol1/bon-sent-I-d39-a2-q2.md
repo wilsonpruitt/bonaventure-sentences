@@ -147,9 +147,9 @@ Authors: Alex. Hal., *S.* p. I, q. 23, m. 4, a. 6. — St. Thomas, *S.* I, q. 14
 
 ## Apparatus
 
-[^1]: **La.** Cap. 7. § 2: «Semel igitur divina sapientia cognoscens omnia, immaterialiter materialia, et non partite partitum, et multa universaliter (ἑνικῶς), ipso uno omnia et cognoscens et adducens». [?]
+[^1]: **La.** Cap. 7. § 2: «Semel igitur divina sapientia cognoscens omnia, immaterialiter materialia, et non partite partitum, et multa universaliter (ἑνικῶς), ipso uno omnia et cognoscens et adducens».
 
-     **En.** Chapter 7, § 2: "Therefore at once the divine wisdom knowing all things — material things immaterially, partite [things] not-partitely, and many things universally (*henikōs*), by the one itself both knowing and bringing forth all." [?]
+     **En.** Chapter 7, § 2: "Therefore at once the divine wisdom knowing all things — material things immaterially, partite [things] not-partitely, and many things universally (*henikōs*), by the one itself both knowing and bringing forth all."
 
 [^2]: **La.** Cap. 13. n. 22. Vide hic lit. Magistri, c. 1.
 

@@ -36,7 +36,7 @@ format_version: 1
 
 > The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus (*Notae ad Libr. Sententiarum*, reflowed from the two-column footer band on printed pp. 568–569) in Latin, followed by an English rendering. Where an OCR-bracketed inline marker had no separately printed gloss, the marker is preserved without an apparatus entry.
 
-Post supradicta interius considerari atque subtiliter inquiri oportet, utrum proprietates personarum, quibus ipsae personae determinantur, sint ipsae personae et sint Deus, id est divina essentia, an ita sint personis[?], ut non sint personae, ac per hoc nec divina essentia. — Quod enim in personis sint proprietates, nemo inficiari audet, cum aperte clamet auctoritas[^1] quod « in personis est proprietas, et in essentia unitas ». Superius[^2] quoque multis Sanctorum testimoniis astruximus, per-
+Post supradicta interius considerari atque subtiliter inquiri oportet, utrum proprietates personarum, quibus ipsae personae determinantur, sint ipsae personae et sint Deus, id est divina essentia, an ita sint personis, ut non sint personae, ac per hoc nec divina essentia. — Quod enim in personis sint proprietates, nemo inficiari audet, cum aperte clamet auctoritas[^1] quod « in personis est proprietas, et in essentia unitas ». Superius[^2] quoque multis Sanctorum testimoniis astruximus, per-
 
 <!-- page 568 -->
 
@@ -44,7 +44,7 @@ sonas proprietatibus distingui atque determinari, ipsasque proprietates, tres sc
 
 Cumque de simplicitate deitatis supra[^8] dissereremus, auctoritatibus Sanctorum, scilicet Augustini, Hilarii, Isidori nec non et Boethii, evidenter monstravimus, Deum hoc esse omnino quod in se habet, excepto quod Pater habet Filium, nec est Filius, et Filius habet Patrem, nec est Pater; et sic esse in natura trium, ut qui habet hoc sit quod habet, et totum, quod ibi est, unum esse, unam vitam esse; quae modo non iteramus, ne fastidium lectori ingeramus. Si ergo proprietates ibi sunt, singula earum est id in quo est, et unum eademque vita singulae sunt. Fateamur ergo, et proprietates esse in tribus personis, et ipsas esse personas atque divinam essentiam.
 
-Quod enim proprietas etiam divina natura sit, ostendit Hilarius dicens, nativitatem Filii esse naturam. Idem in libro septimo *de Trinitate*[^4] ait: « Utriusque natura non differt: unum sunt Pater et Filius. Habet igitur hoc sacramenti nativitas, ut complectatur in se et nomen et naturam et potestatem, quia nativitas non potest non esse ea natura, unde nascatur Filius ». Idem in sexto[^5]: « Nativitas, proprietas est, veritas est ». Idem in septimo dicit, « quod naturae nativitas sit intelligenda esse in natura Dei ». Supra[^6] etiam dicit, « quod proprium Patris est, quod semper Pater est, et proprium Filii, quod semper Filius est », significans quod proprietas Patris est Pater, et proprietas Filii est Filius. — His aliisque pluribus auctoritatibus aperte significari videtur, quod proprietas Filii filius sit, sic et Deus[?]; ita et proprietas Patris et proprietas Spiritus sancti.
+Quod enim proprietas etiam divina natura sit, ostendit Hilarius dicens, nativitatem Filii esse naturam. Idem in libro septimo *de Trinitate*[^4] ait: « Utriusque natura non differt: unum sunt Pater et Filius. Habet igitur hoc sacramenti nativitas, ut complectatur in se et nomen et naturam et potestatem, quia nativitas non potest non esse ea natura, unde nascatur Filius ». Idem in sexto[^5]: « Nativitas, proprietas est, veritas est ». Idem in septimo dicit, « quod naturae nativitas sit intelligenda esse in natura Dei ». Supra[^6] etiam dicit, « quod proprium Patris est, quod semper Pater est, et proprium Filii, quod semper Filius est », significans quod proprietas Patris est Pater, et proprietas Filii est Filius. — His aliisque pluribus auctoritatibus aperte significari videtur, quod proprietas Filii filius sit, sic et Deus; ita et proprietas Patris et proprietas Spiritus sancti.
 
 Hoc autem aliqui negant dicentes, quidem proprietates in personis esse, sed non esse personas ipsas, quia ita dicunt[^7] esse in personis vel in essentia divina, ut non sint interius, sicut ea sunt quae secundum substantiam de Deo dicuntur, ut bonitas, iustitia, sed extrinsecus affixae sunt. Atque ita esse rationibus probare contendunt. Si enim, inquiunt, proprietates sunt personae, non eis personae determinantur. — Contra quod dicimus, quia etiam se ipsis personae differunt, sicut supra Hieronymus loquens de Patre et Filio et Spiritu sancto dicit: « Substantia unum sunt, sed personis ac nominibus distinguuntur ». — Sed iterum addunt: Si proprietates ipsae divina essentia sunt, cum essentia non differant tres personae, nec proprietatibus differunt. Quomodo enim differt Pater a Filio, eo quod divina essentia est, cum in essentia unum sint?
 
@@ -78,7 +78,7 @@ Item illis verbis Augustini vehementer insistunt superius positis, scilicet: *Ve
 
 *Whether the properties of the persons are the persons themselves, or the divine *usia* [essence].*
 
-After what has been said above, it must be considered more inwardly and subtly inquired into, whether the properties of the persons, by which the persons themselves are determined, are themselves the persons and are God — that is, the divine essence — or whether they are so [present] in the persons[?] that they are not persons, and on this account neither divine essence. — That properties are in the persons, no one dares to deny, since authority openly proclaims[^1] that "in the persons there is property, and in the essence unity." Above[^2] also we have established by many testimonies of the Saints, that the per-
+After what has been said above, it must be considered more inwardly and subtly inquired into, whether the properties of the persons, by which the persons themselves are determined, are themselves the persons and are God — that is, the divine essence — or whether they are so [present] in the persons that they are not persons, and on this account neither divine essence. — That properties are in the persons, no one dares to deny, since authority openly proclaims[^1] that "in the persons there is property, and in the essence unity." Above[^2] also we have established by many testimonies of the Saints, that the per-
 
 <!-- page 568 -->
 
@@ -86,7 +86,7 @@ sons are distinguished and determined by their properties, and we have expressed
 
 And since we discussed above[^8] the simplicity of the deity, by the authorities of the Saints — namely, Augustine, Hilary, Isidore, and also Boethius — we plainly showed that God is altogether this which He has in Himself, except that the Father has the Son and is not the Son, and the Son has the Father and is not the Father; and that thus the being is in the nature of three, so that He who has [something] is what He has, and the whole, that is there, is one being, one life — which we do not now repeat, lest we bring weariness upon the reader. If therefore the properties are there, each of them is that in which it is, and the several are one and the same life. Let us therefore confess that the properties are in the three persons, and that they themselves are persons and the divine essence.
 
-For that the property is also the divine nature, Hilary shows, saying that the nativity of the Son is nature. The same in the seventh book *On the Trinity*[^4] says: "The nature of both does not differ: the Father and the Son are one. The nativity of this sacrament therefore has [this property], that it embraces in itself both name and nature and power, since the nativity cannot but be that nature whence the Son is born." The same in the sixth[^5]: "The nativity is property, is truth." The same in the seventh says, "that the nativity of nature is to be understood as being in the nature of God." Above[^6] he also says, "that it is the property of the Father, that He is always Father, and the property of the Son, that He is always Son" — signifying that the property of the Father is the Father, and the property of the Son is the Son. — By these and many other authorities it seems plainly to be signified that the property of the Son is son, and so also God[?]; and likewise the property of the Father and the property of the Holy Spirit.
+For that the property is also the divine nature, Hilary shows, saying that the nativity of the Son is nature. The same in the seventh book *On the Trinity*[^4] says: "The nature of both does not differ: the Father and the Son are one. The nativity of this sacrament therefore has [this property], that it embraces in itself both name and nature and power, since the nativity cannot but be that nature whence the Son is born." The same in the sixth[^5]: "The nativity is property, is truth." The same in the seventh says, "that the nativity of nature is to be understood as being in the nature of God." Above[^6] he also says, "that it is the property of the Father, that He is always Father, and the property of the Son, that He is always Son" — signifying that the property of the Father is the Father, and the property of the Son is the Son. — By these and many other authorities it seems plainly to be signified that the property of the Son is son, and so also God; and likewise the property of the Father and the property of the Holy Spirit.
 
 But some deny this, saying that the properties are indeed in the persons, but are not the persons themselves; because they say[^7] that they are so in the persons or in the divine essence, that they are not within, as those things are which are said of God according to substance, such as goodness, justice, but are affixed extrinsically. And they undertake to prove this thus by reasons. For if, they say, the properties are persons, then the persons are not determined by them. — Against this we say that the persons also differ by themselves, as Jerome above, speaking of the Father and the Son and the Holy Spirit, says: "They are one in substance, but are distinguished by persons and by names." — But again they add: If the properties themselves are the divine essence, since the three persons do not differ in essence, then they do not differ in properties either. For how does the Father differ from the Son, in that He is the divine essence, when they are one in essence?
 
@@ -144,13 +144,13 @@ Likewise they vehemently insist on those words of Augustine set down above, name
 
     **En.** Distinction XXV, last chapter.
 
-[^9]: **La.** *Libr.* II, *de Trin.* n. 8, sed nonnullis a Magistro [in]transpositis et mutatis. [?]
+[^9]: **La.** *Libr.* II. *de Trin.* n. 5, sed nonnullis a Magistro omissis, transpositis et mutatis.
 
-    **En.** Book II, *On the Trinity*, n. 8, but with some things [mis]transposed and altered by the Master. [?]
+    **En.** Book II, *On the Trinity*, n. 5, but with some things omitted, transposed, and altered by the Master.
 
-[^10]: **La.** *De Fide orth.* III, c. 6. Vide supra d. XXVII. p. [I]. [?]
+[^10]: **La.** *De Fide orth.* III. c. 6. Vide supra d. XXVII. p. I. c. 3.
 
-    **En.** *On the Orthodox Faith* III, c. 6. See above Distinction XXVII, p. [I]. [?]
+    **En.** *On the Orthodox Faith* III, c. 6. See above Distinction XXVII, part I, c. 3.
 
 [^11]: **La.** Ita codd. C D et ed. I, in ceteris *sibi*.
 
@@ -168,17 +168,17 @@ Likewise they vehemently insist on those words of Augustine set down above, name
 
     **En.** Augustine, *Exposition on Psalm* 68, [verse] 3, sermon 1, n. 5.
 
-[^15]: **La.** Vat. et aliae edd., excepta 1, addunt *vel quo*, refragantibus codd. et originali. Paulo inferius pro *quod vel quo Deus est* originale habet: *quod Deus est, hoc ipso*. Post *non substan­tiae* codd. et plurimae edd. contra Vat., edd. 6, 8 et origini[s] omittunt *nomen*. [?]
+[^15]: **La.** Vat. et aliae edd., excepta 1, addunt *vel quo*, refragantibus codd. et originali. Paulo inferius pro *quod vel quo Deus est* originale habet: *quod Deus est, hoc ipso*. Post *non substantiae* codd. et plurimae edd. contra Vat., edd. 6, 8 et originale omittunt *nomen*.
 
-    **En.** The Vatican and other editions, except ed. 1, add *vel quo* ("or by which"), against the codices and the original. A little below, for *quod vel quo Deus est* ("that, or by which, He is God") the original has: *quod Deus est, hoc ipso* ("that He is God, by this very thing"). After *non substantiae* the codices and most editions, against the Vatican, omit *nomen*; editions 6, 8 and the original [retain it]. [?]
+    **En.** The Vatican and other editions, except ed. 1, add *vel quo* ("or by which"), against the codices and the original. A little below, for *quod vel quo Deus est* ("that, or by which, He is God") the original has: *quod Deus est, hoc ipso* ("that He is God, by this very thing"). After *non substantiae* the codices and most editions, against the Vatican (and editions 6, 8 and the original), omit *nomen*.
 
 [^16]: **La.** Codd. ABCE et ed. I *substantiae*: paulo post cod. *quod Deus* pro *quo Deus*, et *quod Pater* pro *quo Pater*.
 
     **En.** Codices ABCE and ed. I [read] *substantiae*: a little later a codex [reads] *quod Deus* in place of *quo Deus*, and *quod Pater* in place of *quo Pater*.
 
-[^17]: **La.** Codd. et edd. 3, 1 *substantiae*, quod repetunt infra *ar[...] id est*. [?]
+[^17]: **La.** Codd. et edd. 3, 7 *substantiae*, quod repetunt infra ante *id est*.
 
-    **En.** The codices and editions 3, 1 [read] *substantiae*, which they repeat below as *ar[...] id est*. [?]
+    **En.** The codices and editions 3, 7 [read] *substantiae*, which they repeat below before *id est*.
 
 [^18]: **La.** *Dist.* XXVII. p. II. c. 3.
 

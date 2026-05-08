@@ -78,7 +78,7 @@ Ad intelligentiam autem obiectorum est notandum, quod sicut esse in loco est dup
 
 **Ad argumenta pro parte affirmativa:**
 
-*Ad 1.* Ex hoc patet responsio ad primum obiectum, et[?] Bernardus accipit *discurrere* et *transire* secundum proprietatem loci, quae est circumscriptio.
+*Ad 1.* Ex hoc patet responsio ad primum obiectum, et Bernardus accipit *discurrere* et *transire* secundum proprietatem loci, quae est circumscriptio.
 
 *Ad 2.* Ad illud ergo quod quaeritur, utrum per se aut per accidens; dicendum secundum praedictam distinctionem[^7-bis] de motu, quod secundum primum motum non movetur spirituale nisi per accidens, alio moto. Sicut enim nauta, mota navi, movetur, sic spiritus, moto corpore, in quo est. Quantum ad secundum motum, sicut Angelus per se ipsum et sine corpore definitur loco, ita per se ipsum transfertur, ita quod non alio movente, nec per alium motum. Ipse autem obiicit de primo motu tantum, qui per se convenit corpori soli.
 
@@ -96,7 +96,7 @@ quod habet virtutem finitam. Et sic patet illud, quod limitatio non repugnat sum
 
 **II.** Angelos non tantum *per accidens*, sed etiam *per se* moveri, aliter tamen ac corpora, contra Peripateticos cum theologorum communi sententia Seraphicus hic tenet et bene explicat. — In solut. ad 4. S. Doctor supponit, quod substantia spiritualis potest super se reflecti ac se ipsam movere, non tamen secundum idem (cfr. II. Sent. d. 24. p. I. a. 2. q. 2. ad 4; d. 25. p. I. q. 1.), et quod se active moveat ex parte formae, passive ex parte materiae. Quoad ultimum autem problematice loquitur addens: «Si habet materiam». Hoc respicit sententiam, quam ipse II. Sent. d. 3. p. I. a. 1. q. 1. 2. 3. tanquam probabilem defendit, scil. quod etiam in Angelis aliquo modo distinctio materiae et formae admittenda sit.
 
-**III.** Alex. Hal., S. p. II. q. 33. m. I. 3. — Scot., II. Sent. d. 2. q. 9. — S. Thom., hic q. 4. a. 1; S. I. q. 33. a. 2[?]. — B. Albert., hic a. 22. — Petr. a Tar., hic q. 5. a. 1. — Richard. a Med., hic a. 3. q. 1. — Aegid. R., hic 2. princ. q. 1. — Durand., de hac et duabus seqq. qq. hic p. II. q. 2. — Dionys. Carth., de hac et seqq. qq. hic q. 4. — Biel, de hac et seqq. qq. hic q. 3.
+**III.** Alex. Hal., S. p. II. q. 33. m. I. 3. — Scot., II. Sent. d. 2. q. 9. — S. Thom., hic q. 4. a. 1; S. I. q. 53. a. 1. — B. Albert., hic a. 22. — Petr. a Tar., hic q. 5. a. 1. — Richard. a Med., hic a. 3. q. 1. — Aegid. R., hic 2. princ. q. 1. — Durand., de hac et duabus seqq. qq. hic p. II. q. 2. — Dionys. Carth., de hac et seqq. qq. hic q. 4. — Biel, de hac et seqq. qq. hic q. 3.
 
 ---
 
@@ -148,7 +148,7 @@ For the understanding of the objections it must be noted that, just as to be in 
 
 **Replies to the arguments for the affirmative:**
 
-*To 1.* From this the response to the first objection is plain, and[?] Bernard takes *to run about* and *to pass through* according to the property of place, which is circumscription.
+*To 1.* From this the response to the first objection is plain, and Bernard takes *to run about* and *to pass through* according to the property of place, which is circumscription.
 
 *To 2.* To that which is asked, whether *per se* or *per accidens*; it must be said, according to the aforesaid distinction[^7-bis] concerning motion, that according to the first kind of motion a spiritual thing is not moved except *per accidens*, by something else being moved. For just as a sailor, by the moved ship, is moved, so a spirit, by the moved body in which he is. As to the second kind of motion, just as an angel by himself and without a body is defined to a place, so by himself he is transferred, so that nothing else is the mover, nor is it through another motion. He himself, however, raises the objection only about the first motion, which belongs *per se* to body alone.
 
@@ -166,7 +166,7 @@ he has finite power. And so that point is plain, that limitation does not contra
 
 **II.** That angels are moved not only *per accidens* but also *per se*, yet otherwise than bodies, the Seraphic Doctor here, against the Peripatetics, holds and well explains, with the common opinion of the theologians. — In the reply to 4 the holy Doctor supposes that a spiritual substance can reflect upon itself and move itself, yet not in the same respect (cfr. *II Sent.* d. 24. p. I. a. 2. q. 2. ad 4; d. 25. p. I. q. 1.), and that it moves itself actively on the part of form, passively on the part of matter. As to the last point, however, he speaks only problematically, adding: "If it has matter." This regards the opinion which he himself defends as probable in *II Sent.* d. 3. p. I. a. 1. q. 1. 2. 3., namely, that even in angels some sort of distinction of matter and form is to be admitted.
 
-**III.** Alex. of Hales, *Summa* p. II. q. 33. m. I. 3. — Scotus, *II Sent.* d. 2. q. 9. — St. Thomas, here q. 4. a. 1; *S.* I. q. 33. a. 2[?]. — Bl. Albert, here a. 22. — Peter of Tarantasia, here q. 5. a. 1. — Richard of Mediavilla, here a. 3. q. 1. — Aegidius Romanus, here 2. princ. q. 1. — Durandus, on this and the two following questions here p. II. q. 2. — Dionysius the Carthusian, on this and the following questions here q. 4. — Biel, on this and the following questions here q. 3.
+**III.** Alex. of Hales, *Summa* p. II. q. 33. m. I. 3. — Scotus, *II Sent.* d. 2. q. 9. — St. Thomas, here q. 4. a. 1; *S.* I. q. 53. a. 1. — Bl. Albert, here a. 22. — Peter of Tarantasia, here q. 5. a. 1. — Richard of Mediavilla, here a. 3. q. 1. — Aegidius Romanus, here 2. princ. q. 1. — Durandus, on this and the two following questions here p. II. q. 2. — Dionysius the Carthusian, on this and the following questions here q. 4. — Biel, on this and the following questions here q. 3.
 
 ---
 
@@ -175,8 +175,8 @@ he has finite power. And so that point is plain, that limitation does not contra
 [^1]: **La.** Vat. cum cod. cc *mutabilitate*.
      **En.** The Vatican edition, with codex cc, reads *mutabilitate* ("changeableness").
 
-[^2]: **La.** Serm. 5[?]. n. 2.
-     **En.** Sermon 5[?], n. 2.
+[^2]: **La.** Serm. 5. n. 2. <!-- Quaracchi p. 658 footnote-block uses ad-hoc per-page numbering; Bernard *Sermones in Cantica* serm. 5 standardly cited as locus of *discurrere et de loco ad locum transire* phrase -->
+     **En.** Sermon 5, n. 2.
 
 [^3]: **La.** Cfr. Aristot., V. *Phys.* text. 1, VIII. *Phys.* text. 27. (c. 4.), de *Anima*, text. 37. seqq. (c. 3.).
      **En.** Cfr. Aristotle, *Physics* V, text 1; *Physics* VIII, text 27 (c. 4); *On the Soul*, text 37 ff. (c. 3).
@@ -196,8 +196,8 @@ he has finite power. And so that point is plain, that limitation does not contra
 [^7-bis]: **La.** Pro *distinctionem* plurimi codd. *definitionem*, pauci cum Vat. *divisionem*; nostrae lectioni suffragantur codd. D P Q R Y cc et ed. 1 nec non contextus. Subinde post *de motu* non pauci codd. omittunt *quod*, et post pauca Vat. verbis *alio modo* praefigit *scilicet*.
      **En.** In place of *distinctionem* very many codices have *definitionem*, a few with the Vatican *divisionem*; codices D P Q R Y cc, edition 1, and the context support our reading. Further on, after *de motu* not a few codices omit *quod*, and a little later the Vatican edition prefixes *scilicet* to the words *alio modo*.
 
-[^8]: **La.** Sensus est: si Angelus potest esse in ter[ra][?] sine corpore, et consequenter sola vi spirituali, sequitur et sola vi spirituali possit se transferre in terram.
-     **En.** The sense is: if an angel can be on earth[?] without a body, and consequently by spiritual power alone, it follows that by spiritual power alone he can transfer himself to earth.
+[^8]: **La.** Sensus est: si Angelus potest esse in terra sine corpore, et consequenter sola vi spirituali, sequitur, ut et sola vi spirituali possit se transferre in terram.
+     **En.** The sense is: if an angel can be on earth without a body, and consequently by spiritual power alone, it follows that by spiritual power alone he can transfer himself to earth.
 
 [^8-bis]: **La.** Pro *aliud* cod. T *aliquid*.
      **En.** In place of *aliud* codex T has *aliquid*.

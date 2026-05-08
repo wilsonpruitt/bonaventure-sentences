@@ -110,13 +110,13 @@ Fourth, concerning the comparison of the same property to itself.
 
     **En.** Codices aa and bb add *quae dicuntur* ("which are said").
 
-[^2]: **La.** Hi duo textus inveniuntur apud Aristot., I. *Elench.* c. (c. 1.). [?]
+[^2]: **La.** Hi duo textus inveniuntur apud Aristot., I. *Elench.* c. 2. (c. 1.).
 
-    **En.** These two texts are found in Aristotle, I. *[On Sophistical] Refutations*, c. (c. 1.). [?]
+    **En.** These two texts are found in Aristotle, I. *[On Sophistical] Refutations*, c. 2 (c. 1).
 
-[^3]: **La.** Codd. I X aa: ed. 1 *particulas*. Aliquanto inferius pro *distincta* codd. [...]. [?]
+[^3]: **La.** Codd. I X aa bb cum ed. 1 *particulas*. Aliquanto inferius pro *distincta* codd. aa bb *distinctiva*.
 
-    **En.** Codices I, X, and aa: edition 1 [reads] *particulas* ("little parts"). Somewhat below, for *distincta* ("distinct"), the codices [read ...]. [?]
+    **En.** Codices I, X, aa, bb with edition 1 [read] *particulas* ("little parts"). Somewhat below, for *distincta* ("distinct"), codices aa, bb [read] *distinctiva* ("distinctive").
 
 [^4]: **La.** Vat. *per violentiam auctoris Sabellii*. Mox pro *auctoritates* cod. W *auctoritatem*.
 

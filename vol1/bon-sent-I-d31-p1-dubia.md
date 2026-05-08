@@ -41,7 +41,7 @@ In parte ista sunt dubitationes circa litteram et primo dubitatur de situ huius 
 
 Item quaeritur de hoc quod dicit, quod nihil est sibi simile. Videtur enim falsum, quia aliquis differt a se, sicut Socrates senex a se puero: ergo pari ratione aliquid potest esse simile sibi. — Item Christus homo est sibi similis, quia nullus est beatus, nisi sit Deo assimilatus; sed Christus est maxime Deo assimilatus: ergo etc.
 
-**Respondeo:** Dicendum, quod, sicut differentia aliquando notat alietatem suppositi a supposito, ut cum dicitur: Petrus est alius a Paulo; aliquando alietatem in natura, ut cum dicitur: Christus secundum quod homo differt a se [?] Deo; aliquando alietatem status a statu, ut Petrus senex differt a se puero: per hunc modum intelligendum est de similitudine. Quando igitur similis dicit similitudinem suppositi ad suppositum, non potest idem esse similis sibi; quando vero dicit similitudinem *naturae* ad *naturam*, vel status ad statum, potest idem esse sibi similis, quia haec concurrunt in eadem persona; et ita intelligit Magister.
+**Respondeo:** Dicendum, quod, sicut differentia aliquando notat alietatem suppositi a supposito, ut cum dicitur: Petrus est alius a Paulo; aliquando alietatem in natura, ut cum dicitur: Christus secundum quod homo differt a se Deo; aliquando alietatem status a statu, ut Petrus senex differt a se puero: per hunc modum intelligendum est de similitudine. Quando igitur similis dicit similitudinem suppositi ad suppositum, non potest idem esse similis sibi; quando vero dicit similitudinem *naturae* ad *naturam*, vel status ad statum, potest idem esse sibi similis, quia haec concurrunt in eadem persona; et ita intelligit Magister.
 
 #### DUB. III.
 
@@ -65,7 +65,7 @@ In this part there are doubts concerning the text, and first there is a doubt co
 
 Likewise it is asked concerning what he says, that *nothing is like itself*. For this seems false, because someone differs from himself, as Socrates as an old man from himself as a boy: therefore by parity of reasoning something can be like itself. — Likewise, Christ as man is like himself, because no one is blessed unless he be made like to God; but Christ is in the highest degree made like to God: therefore etc.
 
-**I respond:** It must be said that, just as *difference* sometimes denotes an otherness of supposit from supposit, as when it is said: Peter is other than Paul; sometimes an otherness in nature, as when it is said: Christ, insofar as he is man, differs from himself [?] [insofar as he is] God; sometimes an otherness of state from state, as Peter as an old man differs from himself as a boy — in this way is *likeness* to be understood. When therefore "like" expresses a likeness of supposit to supposit, the same thing cannot be like itself; but when it expresses a likeness of *nature* to *nature*, or of state to state, the same thing can be like itself, because these come together in the same person; and so the Master understands it.
+**I respond:** It must be said that, just as *difference* sometimes denotes an otherness of supposit from supposit, as when it is said: Peter is other than Paul; sometimes an otherness in nature, as when it is said: Christ, insofar as he is man, differs from himself, [insofar as he is] God; sometimes an otherness of state from state, as Peter as an old man differs from himself as a boy — in this way is *likeness* to be understood. When therefore "like" expresses a likeness of supposit to supposit, the same thing cannot be like itself; but when it expresses a likeness of *nature* to *nature*, or of state to state, the same thing can be like itself, because these come together in the same person; and so the Master understands it.
 
 #### DOUBT III.
 
@@ -81,5 +81,5 @@ Likewise it is asked concerning what he says, that *the equality of Father and S
 
 ## Notes
 
-- The `[?]` flag on `differt a se [?] Deo` (DUB II respondeo) marks an OCR-visible apostrophe-like glyph after `se` whose function is uncertain — neither a footnote anchor (no apparatus on this page) nor an obvious abbreviation. The clause is intelligible without it.
+- The OCR-visible glyph after `se` in `differt a se Deo` (DUB II respondeo) is the printed Quaracchi footnote-7 anchor on p. 540 col. b: fn 7 = "Cod. W *adiicit* Deo" (= codex W adds *Deo*). The chunk currently does not carry apparatus on this page; the body word reads as printed, codex-W variant documented in the d.31–d.40 polish-resolution log (2026-05-07).
 - Marginal glosses present in the OCR — `Differentia triplex` (next to the threefold-difference passage in DUB II) and `Alii` (mis-OCR'd `Aiii`, next to "Vel aliter dicendum" in DUB III) — have been stripped as Quaracchi-editor marginalia, per project convention.

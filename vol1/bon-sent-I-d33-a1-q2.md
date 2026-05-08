@@ -173,7 +173,7 @@ said that it is not predicated of substance as of a subject, nor by inherence, b
     **En.** In very many codices and editions 2, 3, 4, 5, 6 the word *similiter* (similarly) is missing.
 
 [^4]: **La.** Boeth., III. de Consol. prosa 10.
-    **En.** Boethius, *On the Consolation [of Philosophy]*, book III, prose 10. [The phrase "than which nothing greater can be conceived" is in fact Anselmian; the Quaracchi editors evidently cite Boethius for the underlying axiom of the supreme good. [?]]
+    **En.** Boethius, *On the Consolation [of Philosophy]*, book III, prose 10. [The phrase "than which nothing greater can be conceived" is in fact Anselmian; the Quaracchi editors evidently cite Boethius for the underlying axiom of the supreme good.]
 
 [^5]: **La.** In Magistri, c. 3. Cfr. et supra d. 6. dub. 2, et d. 19, lit. II. q. 2. ad 1.
     **En.** In the Master [Lombard], c. 3. Cf. also above d. 6, dub. 2, and d. 19, *littera* II, q. 2, ad 1.

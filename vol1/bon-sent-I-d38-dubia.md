@@ -32,11 +32,13 @@ format_version: 1
 
 #### DUB. I.
 
-In parte ista sunt dubitationes circa litteram et primo de hoc quod dicit Augustinus: *Nec aliter scilicet creata quam creanda.* Videtur enim male dicere, quia *res*[^1], ut vere cognoscitur, debet esse cognoscens et cognitum simul, ut cum intelligo lapidem, oportet, quod sciam in lapide, quid sit, et an sit, et quale sit; et hoc non potest fieri nisi quod intelligam[?], quod res habet esse in se, et est in praesenti.
+In parte ista sunt dubitationes circa litteram et primo de hoc quod dicit Augustinus: *Nec aliter scilicet creata quam creanda.* Videtur enim male dicere, quia res, si vere cognoscatur, cognoscitur sicut est; sed aliter fuerunt, cum fuerunt creanda, quam cum erant creata — primo enim res fuerunt in causa et secundum quid, postea in proprio genere et simpliciter — ergo aut Deus non vere cognoscit, aut aliter cognovit.
 
-**Respondeo:** Dicendum, quod cum dico, *rem aliter cognosci*, dupliciter potest intelligi: aut ita quod adverbium dicat alietatem quantum ad cognoscens, et quantum ad esse rei cognitae. Si quantum ad esse rei cognitae, sic est verum[^2], et est sensus: Deus aliter cognoscit rem ut habet[?] esse, sicut Augustinus dicit. Si autem dicat alietatem quantum ad cognoscens et esse, hoc est falsum; et est sensus: Deus cognoscit aliter rem factam, quam priusquam fieret cognoverit; et hoc falsum, quia significatur divina cognitio alterari, et quod aliquid receperit a re extra. Et per hoc patet obiectum primum.
+Item, Angelus cognoscit res in Verbo, cognoscit etiam eas in proprio genere, et alius et alius modus cognoscendi est hic ab illo[^1]: ergo cum non possit latere Deum quod novit Angelus, videtur, quod Deus utroque modo cognoscat, et ita aliter et aliter.
 
-Quod obiicitur, quod Deus cognoscit res in proprio genere, sicut lapidem; dicendum, quod *cognoscere res in proprio genere* dupliciter intelligitur: aut ita quod hoc dicat, quod cognoscens habet praesentialem repraesentationem rei, et hoc perfectionis est, et non est dicta noscendi a cognitione in Verbo; aut ita quod aspectus intelligentiae sive vis cognitivae deflectatur[^3] supra[?]
+**Respondeo:** Dicendum, quod cum dico, *aliter cognosci*, dupliciter potest intelligi: aut ita quod adverbium dicat alietatem quantum ad *cognitionem*, aut quantum ad *esse rei cognitae*. Si quantum ad *esse rei cognitae*, sic est verum[^2], et est sensus: Deus cognoscit rem istam aliter se vel se habere, quam se prius habuit; et sic non intelligit Augustinus. Si autem dicat alietatem quantum ad *cognitionem*, sic est falsa; et est sensus: Deus cognoscit aliter rem factam, quam prius faciendam cognoverit; et ita est falsum, quia sic significatur divina cognitio alterata, et quod aliquid receperit a re extra. Et per hoc patet obiectum primum.
+
+Quod obiicitur, quod Deus cognoscit res in proprio genere, sicut Angelus; dicendum, quod *cognoscere res in proprio genere* dupliciter intelligitur: aut ita quod hoc dicat, quod habet in proprio genere, cognoscatur, et hoc perfectionis est, et non latet Deum, et sic non dicit novum modum cognoscendi a cognitione in Verbo; aut ita quod aspectus intelligentiae sive vis cognitivae deflectatur[^3] supra
 
 <!-- page 681 -->
 
@@ -44,7 +46,7 @@ rem ut est in proprio genere, et hoc est imperfectionis, quia scilicet tunc[^4] 
 
 #### DUB. II.
 
-Item quaeritur de hoc quod dicit: *Tunc eius quod aeternum est, aliqua existeret causa* etc. Vult enim dicere, quod praescientia dicat quid aeternum; sed hoc videtur falsum, quia praescientia dicit respectum ad creaturam futuram; sed nihil est futurum secundum esse, quod habet in Deo, sed in proprio genere: ergo connotat aliquod temporale[?], ergo videtur, quod cognoscatur[^5] *ex tempore*. — Praeterea, respectus ille nihil dicit a parte Dei nisi solum modum intelligendi nostrum: ergo tunc coepit ille respectus, quando coepit noster intellectus, non ergo fuit ab aeterno.
+Item quaeritur de hoc quod dicit: *Tunc eius quod aeternum est, aliqua existeret causa* etc. Vult enim dicere, quod praescientia dicat quid aeternum; sed hoc videtur falsum, quia praescientia dicit respectum ad creaturam futuram; sed nihil est futurum secundum esse, quod habet in Deo, sed in proprio genere: ergo connotat aliquod temporale, ergo videtur, quod cognoscatur[^5] *ex tempore*. — Praeterea, respectus ille nihil dicit a parte Dei nisi solum modum intelligendi nostrum: ergo tunc coepit ille respectus, quando coepit noster intellectus, non ergo fuit ab aeterno.
 
 **Respondeo:** Sicut dicit Magister[^6], *praescientia* dicit quid aeternum et ab aeterno. Cum enim non importet nisi duo, scilicet antecessionem et scientiam, et antecessio omnis creaturae sit ante omnem creaturam, et scientia naturaliter, patet quod praescientia quid aeternum dicit[^7]. — Quod ergo obiicitur, quod importat rei *futuritionem*; dicendum, quod futuritio uno modo importat *successionem* temporis, et ita non est de ratione praescientiae; hoc enim modo futurum coepit cum tempore. Alio modo futurum importat *ordinem* temporalis ad aeternum secundum *consecutionem*, sicut praescientia *antecessionem*; et quoniam iste ordo solum exigit primum extremum in actu, et illud fuit ab aeterno, ideo et futuritio et praescientia.
 
@@ -64,7 +66,7 @@ Item quaeritur de hoc verbo Augustini: *Deus per Prophetam praedixit infidelitat
 
 <!-- page 682 -->
 
-dici; sed non propter hoc revelatur, sive quia dicenti non creditur, sive quia dictum de[?] conditione intelligitur, sive intelligens intelligit de alio, non de se ipso. Et quia verbum Isaiae prophetae comminatorie et generaliter erat dictum, et hominibus iam in parte incredulis non advertentibus, omnibus his modis potuit intelligi, ut esset praedictio, non revelatio.
+dici; sed non propter hoc revelatur, sive quia dicenti non creditur, sive quia dictum de conditione intelligitur, sive intelligens intelligit de alio, non de se ipso. Et quia verbum Isaiae prophetae comminatorie et generaliter erat dictum, et hominibus iam in parte incredulis non advertentibus, omnibus his modis potuit intelligi, ut esset praedictio, non revelatio.
 
 ---
 
@@ -76,11 +78,13 @@ dici; sed non propter hoc revelatur, sive quia dicenti non creditur, sive quia d
 
 #### DOUBT I.
 
-In this part there are doubts concerning the text, and first concerning what Augustine says: *Not otherwise [is the creature known] as already created than as about to be created.* For he seems to speak ill, because *a thing*[^1], as it is truly known, must be at once knowing and known together, as when I understand a stone, it is necessary that I know in the stone what it is, and whether it is, and of what sort it is; and this cannot come about except in that I understand[?] that the thing has being in itself, and is in the present.
+In this part there are doubts concerning the text, and first concerning what Augustine says: *Not otherwise [did He know things] as already created than as about to be created.* For he seems to speak ill, because a thing, if it is truly known, is known as it is; but [things] were otherwise when they were about to be created than when they were created — for first the things were in [their] cause and *secundum quid*, [and] afterwards in [their] proper genus and simply — therefore either God does not truly know, or He has known otherwise.
 
-**I respond:** It must be said that when I say *that a thing is otherwise known*, it can be understood in two ways: either so that the adverb says an otherness with respect to the knower, or with respect to the being of the thing known. If [it is meant] of the being of the thing known, thus it is true[^2], and the sense is: God knows a thing otherwise as it has[?] being, as Augustine says. But if it says an otherness with respect both to the knower and to the being, this is false; and the sense is: God knows the thing once made otherwise than as he had known it before it was made; and this is false, because it would mean that the divine cognition is altered, and that he received something from a thing outside. And by this the first objection is plain.
+Likewise, an Angel knows things in the Word, and also knows them in [their] proper genus, and there is one mode of knowing here, [and] another there[^1]: therefore since what an Angel knows cannot lie hidden from God, it seems that God [too] knows in both modes, and so [knows things] otherwise and otherwise.
 
-What is objected, that God knows things in their proper genus, as a stone; it must be said that *to know things in their proper genus* is understood in two ways: either so that this says that the knower has a present representation of the thing, and this is of perfection, and is not different from knowing in the Word; or so that the gaze of the intelligence or cognitive power is bent[^3] over[?]
+**I respond:** It must be said that when I say *to be otherwise known*, it can be understood in two ways: either so that the adverb states an otherness with respect to the *cognition*, or [an otherness] with respect to the *being of the thing known*. If [it is taken] with respect to the *being of the thing known*, thus it is true[^2], and the sense is: God knows that this thing is otherwise, or holds itself otherwise, than it has held itself before; and thus Augustine does not [intend it]. But if it states an otherness with respect to the *cognition*, thus it is false; and the sense is: God knows a thing once made otherwise than as He had previously known it as needing to be made; and this is false, because thus the divine cognition is signified as altered, and as having received something from a thing outside. And by this the first objection is plain.
+
+What is objected, that God knows things in their proper genus, as the Angel does; it must be said that *to know things in their proper genus* is understood in two ways: either so that this says that what is in the proper genus, is known [in that genus], and this is of perfection, and does not lie hidden from God, and thus [it] does not state a new mode of knowing [different] from the cognition in the Word; or so that the gaze of the intelligence or cognitive power is bent[^3] over
 
 <!-- page 681 -->
 
@@ -88,7 +92,7 @@ a thing as it is in its proper genus, and this is of imperfection, namely becaus
 
 #### DOUBT II.
 
-Likewise it is asked concerning what he says: *Then of that which is eternal, some cause would have to exist* etc. For he wishes to say that *praescientia* (foreknowledge) says something eternal; but this seems false, because foreknowledge says a respect to a future creature; but nothing is future according to the being which it has in God, but [only] in its proper genus: therefore it connotes something temporal[?], therefore it seems that it is known[^5] *from time*. — Furthermore, that respect says nothing on the side of God except only our mode of understanding: therefore that respect began when our intellect began, therefore it was not from eternity.
+Likewise it is asked concerning what he says: *Then of that which is eternal, some cause would have to exist* etc. For he wishes to say that *praescientia* (foreknowledge) says something eternal; but this seems false, because foreknowledge says a respect to a future creature; but nothing is future according to the being which it has in God, but [only] in its proper genus: therefore it connotes something temporal, therefore it seems that it is known[^5] *from time*. — Furthermore, that respect says nothing on the side of God except only our mode of understanding: therefore that respect began when our intellect began, therefore it was not from eternity.
 
 **I respond:** As the Master says[^6], *praescientia* says something eternal and from eternity. For since it imports nothing but two things, namely antecession and knowledge, and the antecession of every creature is before every creature, and knowledge naturally [is so], it is plain that praescientia says something eternal[^7]. — As to what is objected, that it imports the *futurition* of a thing; it must be said that *futurition* in one way imports a *succession* of time, and so it is not of the account of foreknowledge; for in this way the future began with time. In another way the future imports an *order* of the temporal to the eternal according to *consecution*, just as foreknowledge [imports] *antecession*; and since this order requires only the first extreme in act, and that was from eternity, therefore both *futurition* and *praescientia* [are from eternity].
 
@@ -108,7 +112,7 @@ Likewise it is asked concerning this saying of Augustine: *God through the Proph
 
 <!-- page 682 -->
 
-told; but not on this account is it revealed, either because the speaker is not believed, or because the saying is understood of[?] a [conditional] condition, or [because] the one understanding understands [it] of another, not of himself. And since the word of Isaiah the Prophet was uttered minatorily and generally, and to men in part already unbelieving and not heeding, it could be understood in all these ways, so as to be a prediction, not a revelation.
+told; but not on this account is it revealed, either because the speaker is not believed, or because the saying is understood of a [conditional] condition, or [because] the one understanding understands [it] of another, not of himself. And since the word of Isaiah the Prophet was uttered minatorily and generally, and to men in part already unbelieving and not heeding, it could be understood in all these ways, so as to be a prediction, not a revelation.
 
 ---
 

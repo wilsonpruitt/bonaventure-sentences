@@ -183,17 +183,17 @@ and therefore it cannot be reflected. But in simple primaries, of which kind is 
 
     **En.** In place of *communiter*, codex R [reads] *similiter*.
 
-[^13]: **La.** Alias: *subiacere*; sic in his propositis. Similiter verbo *praedicari*, quod mox sequitur, vix substitueris *legi*; et *praedicari* uti hic exponendum est genere passivo, sic ut *praedicari proprietatem* dicas, quod proprietas alteri rei reapse insit. [?]
+[^13]: **La.** *Sive*: subiectum est in ista propositione. Similiter verbo *praedicatur*, quod mox sequitur, vix subiicienda est: est *praedicatum* in hac propositione: *paternitas est generans*. — Post *praedicatur* plurimi codd. nec non edd. 2, 3, 4, 5 adiciunt *Pater*, ed. 1 *paternitas*; mendose.
 
-    **En.** Otherwise: *to underlie*; thus in these propositions. Similarly, for the verb *praedicari* which immediately follows, you would scarcely substitute *legi*; and *praedicari* as used here is to be expounded in the passive voice, in such a way that you would say *praedicari proprietatem* — namely, that the property really inheres in another thing. [?]
+    **En.** *Or:* it is the subject in this proposition. Similarly, with the verb *praedicatur*, which immediately follows, [the subject] can scarcely be subjoined: it is the predicate in this proposition: *paternity is begetting*. — After *praedicatur*, very many codices and editions 2, 3, 4, 5 add *Pater* (Father), edition 1 [adds] *paternitas* (paternity); erroneously.
 
-[^14]: **La.** Plures codd. ut Q P R W cum ed. 1, *eorum* loco *repugnantia*; ed. Vat. *est ibi*, sic codd. duo etc. [?]
+[^14]: **La.** Plures codd. ut G S T W cc ff cum ed. 1, immutata interpunctione, sic: *vera esset tunc, et esset sensus*.
 
-    **En.** Several codices such as Q P R W with edition 1 [read] *eorum* in place of *repugnantia*; the Vatican edition [reads] *est ibi*, so two codices etc. [?]
+    **En.** Several codices such as G, S, T, W, cc, ff with edition 1, with the punctuation altered, [read] thus: *it would then be true, and the sense would be*.
 
-[^15]: **La.** Codd. A P Q T cum ed. 1 post *repugnantia* addunt *de*; alii ut S aa etc. *contra repugnantiam*. [?]
+[^15]: **La.** Codd. A P Q T cum ed. 1 *quae repugnantia sit ibi*; alii [...] [partial — fn-4 continuation not legible at column break].
 
-    **En.** Codices A P Q T with edition 1 after *repugnantia* add *de*; others such as S aa etc. [read] *contra repugnantiam*. [?]
+    **En.** Codices A, P, Q, T with edition 1 [read] *quae repugnantia sit ibi* ("what contradiction there is in it"); others [...] [partial — fn-4 continuation not legible at column break].
 
 ## Notes
 

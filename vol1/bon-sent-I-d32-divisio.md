@@ -47,7 +47,7 @@ Prima pars habet duas partes. In prima Magister movet quaestionem et opponit. In
 
 <!-- page 556 -->
 
-huius quaestionis tria alia dubia concurrunt, ideo habet haec pars quatuor partes secundum quatuor dubitationes, quas movet et determinat. Et primo determinat istam quaestionem: utrum Pater sit sapiens sapientia genita, quam determinat in partem negativam. Secundo vero determinat aliam quaestionem: utrum Filius sit sapiens sapientia ingenita, quam determinat in partem affirmativam[^4], ibi: *Post haec quaeri solet* etc. Tertio movet hanc quaestionem: utrum Filius sit sapiens per se ipsum vel se ipso, quam determinat per distinctionem, quod *se* [?] *ipso* potest teneri originaliter, vel formaliter, et hoc ibi: *Quaeri autem solet, utrum Filius* etc. Quarto movet hanc quaestionem: utrum Pater duplicem habeat sapientiam, quam determinat in partem negativam ostendens, hanc quaestionem et eius rationem non esse responsione dignam, et hoc facit ibi: *Post haec quaeri solet a quibusdam, utrum una tantum sit sapientia*[^5].
+huius quaestionis tria alia dubia concurrunt, ideo habet haec pars quatuor partes secundum quatuor dubitationes, quas movet et determinat. Et primo determinat istam quaestionem: utrum Pater sit sapiens sapientia genita, quam determinat in partem negativam. Secundo vero determinat aliam quaestionem: utrum Filius sit sapiens sapientia ingenita, quam determinat in partem affirmativam[^4], ibi: *Post haec quaeri solet* etc. Tertio movet hanc quaestionem: utrum Filius sit sapiens per se ipsum vel se ipso, quam determinat per distinctionem, quod *se ipso* potest teneri originaliter, vel formaliter, et hoc ibi: *Quaeri autem solet, utrum Filius* etc. Quarto movet hanc quaestionem: utrum Pater duplicem habeat sapientiam, quam determinat in partem negativam ostendens, hanc quaestionem et eius rationem non esse responsione dignam, et hoc facit ibi: *Post haec quaeri solet a quibusdam, utrum una tantum sit sapientia*[^5].
 
 *Praeterea diligenter notandum est.* Haec est particula tertia, in qua redit Magister ad quaestionem primo positam, et habet haec pars duas partes. In prima obiicit accipiens rationem ex determinatione alterius quaestionis. In secunda vero loco solutionis suam insufficientiam ostendit et hanc quaestionem determinandam lectori relinquit, et hoc ibi: *Difficillimam mihi hanc quaestionem fateor*[^6].
 
@@ -88,7 +88,7 @@ The first part has two divisions. In the first the Master raises the question an
 
 <!-- page 556 -->
 
-of this question three other doubts concur, therefore this part has four divisions according to the four doubts which he raises and determines. And first he determines this question: whether the Father is wise by a begotten wisdom, which he determines in the negative. Second, however, he determines another question: whether the Son is wise by an unbegotten wisdom, which he determines in the affirmative[^4], there: *"After these things it is wont to be asked"* etc. Third, he raises this question: whether the Son is wise through himself or by himself, which he determines by means of a distinction, namely that *by* [?] *himself* can be taken originatively or formally, and this there: *"It is wont to be asked, however, whether the Son"* etc. Fourth, he raises this question: whether the Father has a twofold wisdom, which he determines in the negative, showing that this question and its reasoning are not worthy of a response, and this he does there: *"After these things it is wont to be asked by some, whether there is only one wisdom"*[^5].
+of this question three other doubts concur, therefore this part has four divisions according to the four doubts which he raises and determines. And first he determines this question: whether the Father is wise by a begotten wisdom, which he determines in the negative. Second, however, he determines another question: whether the Son is wise by an unbegotten wisdom, which he determines in the affirmative[^4], there: *"After these things it is wont to be asked"* etc. Third, he raises this question: whether the Son is wise through himself or by himself, which he determines by means of a distinction, namely that *by himself* can be taken originatively or formally, and this there: *"It is wont to be asked, however, whether the Son"* etc. Fourth, he raises this question: whether the Father has a twofold wisdom, which he determines in the negative, showing that this question and its reasoning are not worthy of a response, and this he does there: *"After these things it is wont to be asked by some, whether there is only one wisdom"*[^5].
 
 *"Furthermore, it must be diligently noted."* This is the third little section, in which the Master returns to the question first posed, and this part has two divisions. In the first he raises an objection, taking his reason from the determination of the other question. In the second, however, in place of a solution he shows his own insufficiency and leaves this question to be determined by the reader, and this there: *"I confess that this question is most difficult for me"*[^6].
 
@@ -116,15 +116,15 @@ Second it is asked, in what construction that ablative is to be construed.
 
 [^2]: **La.** Vat. cum pluribus edd. *scilicet*.
 
-    **En.** The Vatican edition with several [other] editions [reads/has] *scilicet* ("namely"). [?]
+    **En.** The Vatican edition with several [other] editions [reads/has] *scilicet* ("namely").
 
 [^3]: **La.** Vat. ampliat addendo post *sapiens* verba *scilicet* [...]; et subinde post *genita* verba *vel sapientia* [...].
 
-    **En.** The Vatican edition expands [the text] by adding after *sapiens* ("wise") the words *scilicet* ("namely") [...]; and likewise after *genita* ("begotten") the words *vel sapientia* ("or wisdom") [...]. [?]
+    **En.** The Vatican edition expands [the text] by adding after *sapiens* ("wise") the words *scilicet* ("namely") [...]; and likewise after *genita* ("begotten") the words *vel sapientia* ("or wisdom") [...].
 
 [^4]: **La.** Vat. et ed. 2 *tamen*; paulo ante eadem omittit *ita* ante *dictum*.
 
-    **En.** The Vatican edition and edition 2 read *tamen* ("nevertheless"); a little before, the same [edition] omits *ita* ("thus") before *dictum* ("said"). [?]
+    **En.** The Vatican edition and edition 2 read *tamen* ("nevertheless"); a little before, the same [edition] omits *ita* ("thus") before *dictum* ("said").
 
 [^5]: **La.** Codd. B E *cognita*. Vat. cum pluribus edd. addit *ipsa* ante *praemissa*, et deinde *hanc* ante *quaestionem*.
 

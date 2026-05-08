@@ -36,7 +36,7 @@ format_version: 1
 
 Secundo quaeritur, utrum res sint in Deo ratione essentiae, vel personae. Et quod ratione essentiae, videtur[^1]:
 
-1. Quia quod inest ratione personae proprium, quod inest ratione essentiae est commune: si ergo hoc[^2] est commune tribus[?]...
+1. Quia quod inest ratione personae est proprium, quod inest ratione essentiae est commune: si ergo hoc[^2] est commune tribus, patet etc.
 
 <!-- page 622 -->
 
@@ -64,7 +64,7 @@ Quod obiicitur ad oppositum, non concludit de persona ratione propriorum, sed ra
 
 ### Scholion
 
-**I.** Cum creaturae sint in Deo ratione triplicis causalitatis, scilicet efficientis, exemplantis, finientis, et cum actiones sint suppositorum (hic arg. 1. ad opposit.), dubium ortum est, utrum res esse in Deo attribuendum sit ipsi ratione essentiae, an personae, an utriusque, id est ratione appropriatorum. Hanc quaestionem, sic positam, non invenimus discussam, nisi II[?] p[?]m[?]cis[?], nempe a Scoto, *Collationes*, col. 31, et II. *Sent.* q. I; B. Albert., hic a. 11, et Ægid. R., hic 2. princ. q. 2. Tota ratio responsionis fundatur in his duobus principiis, quod res sint in Deo ut causa, et quod appropriata significent Deum ut causam.
+**I.** Cum creaturae sint in Deo ratione triplicis causalitatis, scilicet efficientis, exemplantis, finientis, et cum actiones sint suppositorum (hic arg. 1. ad opposit.), dubium ortum est, utrum res esse in Deo attribuendum sit ipsi ratione essentiae, an personae, an utriusque, id est ratione appropriatorum. Hanc quaestionem, sic positam, non invenimus discussam, nisi a paucis, nempe a Scoto, *Collationes*, col. 31, et II. *Sent.* q. I; B. Albert., hic a. 11, et Ægid. R., hic 2. princ. q. 2. Tota ratio responsionis fundatur in his duobus principiis, quod res sint in Deo ut causa, et quod appropriata significent Deum ut causam.
 
 ---
 
@@ -77,7 +77,7 @@ Quod obiicitur ad oppositum, non concludit de persona ratione propriorum, sed ra
 
 Secondly it is asked, whether things are in God by reason of essence, or of person. And that [they are] by reason of essence, it appears thus[^1]:
 
-1. Because that which is in [something] by reason of person is proper, [whereas] that which is in [something] by reason of essence is common: if therefore this[^2] is common to the three [persons][?]...
+1. Because that which is in [something] by reason of person is proper, [whereas] that which is in [something] by reason of essence is common: if therefore this[^2] is common to the three [persons], it is plain, etc.
 
 <!-- page 622 -->
 
@@ -105,7 +105,7 @@ What is objected to the contrary does not conclude concerning person by reason o
 
 ### Scholion
 
-**I.** Since creatures are in God by reason of a threefold causality, namely efficient, exemplar, and final, and since actions belong to supposits (here arg. 1 *ad opp.*), a doubt has arisen whether to be in God is to be attributed to him by reason of essence, or of person, or of both, that is, by reason of the appropriated [terms]. This question, so posed, we do not find discussed, except by a few[?], namely by Scotus, *Collationes*, col. 31, and II *Sent.* q. I; B. Albert here a. 11, and Ægidius Romanus here 2 *princ.* q. 2. The whole reason of the response is founded on these two principles, that things are in God as in a cause, and that the appropriated [terms] signify God as cause.
+**I.** Since creatures are in God by reason of a threefold causality, namely efficient, exemplar, and final, and since actions belong to supposits (here arg. 1 *ad opp.*), a doubt has arisen whether to be in God is to be attributed to him by reason of essence, or of person, or of both, that is, by reason of the appropriated [terms]. This question, so posed, we do not find discussed, except by a few, namely by Scotus, *Collationes*, col. 31, and II *Sent.* q. I; B. Albert here a. 11, and Ægidius Romanus here 2 *princ.* q. 2. The whole reason of the response is founded on these two principles, that things are in God as in a cause, and that the appropriated [terms] signify God as cause.
 
 ---
 
@@ -135,9 +135,9 @@ What is objected to the contrary does not conclude concerning person by reason o
 
     **En.** Question 63. You have the integral text above, d. 27, p. II, q. 2, *fundam.* 2.
 
-[^7]: **La.** Verba Augustini haec sunt: *Pater quippe intelligitur Verbi, qui dixit: Fiat. Quod autem illo dicente factum est, procul dubio per Verbum factum est. In eo vero quod dicitur: Vidit Deus, quia bonum est, satis significatur, Deum nulla necessitate... sed sola bonitate fecisse quod factum est... Quae bonitas si Spiritus sanctus recte intelligitur, universa nobis Trinitas in suis operibus intimatur*. — In cod. F (et T in margine) textus sic incipit: *Dixit, vidit, fiat; per fiat intelligitur* etc. Mox verbo *producere* codd. P Q V praefigunt *res*. Dein post *quod sunt* cod. [?] non incongrue addit *in Deo*.
+[^7]: **La.** Verba Augustini haec sunt: *Pater quippe intelligitur Verbi, qui dixit: Fiat. Quod autem illo dicente factum est, procul dubio per Verbum factum est. In eo vero quod dicitur: Vidit Deus, quia bonum est, satis significatur, Deum nulla necessitate... sed sola bonitate fecisse quod factum est... Quae bonitas si Spiritus sanctus recte intelligitur, universa nobis Trinitas in suis operibus intimatur*. — In cod. F (et T in margine) textus sic incipit: *Dixit, vidit, fiat; per fiat intelligitur* etc. Mox verbo *producere* codd. P Q V praefigunt *res*. Dein post *quod sunt* cod. O non incongrue addit *in Deo*.
 
-    **En.** The words of Augustine are these: "*For the Father indeed is understood [as the Father] of the Word, who said: Let it be made. But what was made when he so spoke, was without doubt made through the Word. But in this, that it is said: God saw that it is good, it is sufficiently signified that God by no necessity... but by goodness alone made what was made... If this goodness is rightly understood as the Holy Spirit, the whole Trinity is intimated to us in its works.*" — In codex F (and T in the margin) the text begins thus: "*He said, he saw, let it be made; by 'let it be made' is understood* etc." Soon, before the verb *producere*, codices P Q V prefix *res*. Then after *quod sunt*, codex [?] not incongruously adds *in Deo*.
+    **En.** The words of Augustine are these: "*For the Father indeed is understood [as the Father] of the Word, who said: Let it be made. But what was made when he so spoke, was without doubt made through the Word. But in this, that it is said: God saw that it is good, it is sufficiently signified that God by no necessity... but by goodness alone made what was made... If this goodness is rightly understood as the Holy Spirit, the whole Trinity is intimated to us in its works.*" — In codex F (and T in the margin) the text begins thus: "*He said, he saw, let it be made; by 'let it be made' is understood* etc." Soon, before the verb *producere*, codices P Q V prefix *res*. Then after *quod sunt*, codex O not incongruously adds *in Deo*.
 
 [^8]: **La.** Pro *quod* multi codd. minus recte *utrum*, et in fine responsionis pro *consideratur* perperam *considerantur*.
 

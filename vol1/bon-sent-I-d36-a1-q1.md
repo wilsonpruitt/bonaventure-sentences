@@ -185,9 +185,9 @@ What is objected: that what is in God is unchangeable; it must be said that this
 
     **En.** The Vatican [edition] here interjects *videlicet ut causa, scilicet*. Soon after *est res* codex W adds *in Deo*, and then in place of *secundum se* codex V exhibits *secundum esse*, and shortly thereafter, before the words *suum esse*, codex M prefixes *secundum*.
 
-[^10]: **La.** Codd. aa bb subiiciunt *omnino*.[?]
+[^10]: **La.** Codd. aa bb subiiciunt *omnino*.
 
-    **En.** Codices aa bb subjoin *omnino* ("utterly").[?]
+    **En.** Codices aa bb subjoin *omnino* ("utterly").
 
 [^11]: **La.** Verba *illud quod est in aliquo* in multis mss. desiderantur. Aliquanto inferius pro *potest dici* codd. L V cc *potest esse*.
 

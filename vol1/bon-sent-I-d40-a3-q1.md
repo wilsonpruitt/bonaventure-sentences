@@ -177,9 +177,9 @@ As to what is therefore objected concerning calling, that it is wider, therefore
 
 ## Apparatus
 
-[^1]: **La.** Cum art. I. divisus sit in duos [?].
+[^1]: **La.** Cum art. I. divisus sit in duos (pag. 701, col. II.), nos inscripsimus, ut aliae edd., hic art. III.
 
-     **En.** "Since article I [is] divided into two [...]" [editorial cross-reference; OCR fragmentary at this footnote].
+     **En.** Since article I is divided into two (p. 701, col. II), we have inscribed [it], like the other editions, here as art. III.
 
 [^2]: **La.** Vers. 4, ubi Vulgata: *Elegit nos in ipso*; et infra pro *coram ipso* (Ambros. in hunc locum *coram eo*) Vulg. *in conspectu eius*.
 
@@ -233,7 +233,7 @@ As to what is therefore objected concerning calling, that it is wider, therefore
 
      **En.** In the Vatican [edition] and codex cc the words *et dilectio* ("and love") are missing.
 
-[^15]: **La.** Pro *effectus*, quod clare legitur in codd. H R I aa et in ed. 1, Vat. *effectu*. Multi codd. sunt dubiae lectionis nec discerni potest, utrum *effectum* exhibeant, an *effectu*. — Huc referri potest quod August., *de Praedest. Sanctor.* c. 17. n. 34, de electis eorumque vocatione profert. Facta enim c. 16 [?] n. 32. distinctione inter vocatos, qui, etsi vocati, noluerunt venire, et illos, qui etiam praedestinati et electi sunt, loc. cit. ait: *Electi sunt itaque ante mundi constitutionem ea praedestinatione, in qua Deus sua futura facta praescivit; electi sunt autem de mundo ea vocatione, qua Deus id quod praedestinavit, implevit.*
+[^15]: **La.** Pro *effectus*, quod clare legitur in codd. H R I aa et in ed. 1, Vat. *effectu*. Multi codd. sunt dubiae lectionis nec discerni potest, utrum *effectum* exhibeant, an *effectu*. — Huc referri potest quod August., *de Praedest. Sanctor.* c. 17. n. 34, de electis eorumque vocatione profert. Facta enim c. 16. n. 32. distinctione inter vocatos, qui, etsi vocati, noluerunt venire, et illos, qui etiam praedestinati et electi sunt, loc. cit. ait: *Electi sunt itaque ante mundi constitutionem ea praedestinatione, in qua Deus sua futura facta praescivit; electi sunt autem de mundo ea vocatione, qua Deus id quod praedestinavit, implevit.*
 
-     **En.** In place of *effectus*, which is clearly read in codices H R I aa and in edition 1, the Vatican [reads] *effectu*. Many codices are of doubtful reading, nor can it be discerned whether they exhibit *effectum* or *effectu*. — Here may be referred what Augustine, *On the Predestination of the Saints*, c. 17, n. 34, brings forward concerning the elect and their calling. For having made, c. 16 [?], n. 32, the distinction between those called, who, although called, were unwilling to come, and those who are also predestined and elect, loc. cit. he says: "*The elect are therefore [chosen] before the foundation of the world by that predestination in which God foreknew his own future deeds; but they are elected out of the world by that calling by which God fulfilled what he had predestined.*"
+     **En.** In place of *effectus*, which is clearly read in codices H R I aa and in edition 1, the Vatican [reads] *effectu*. Many codices are of doubtful reading, nor can it be discerned whether they exhibit *effectum* or *effectu*. — Here may be referred what Augustine, *On the Predestination of the Saints*, c. 17, n. 34, brings forward concerning the elect and their calling. For having made, c. 16, n. 32, the distinction between those called, who, although called, were unwilling to come, and those who are also predestined and elect, loc. cit. he says: "*The elect are therefore [chosen] before the foundation of the world by that predestination in which God foreknew his own future deeds; but they are elected out of the world by that calling by which God fulfilled what he had predestined.*"
 

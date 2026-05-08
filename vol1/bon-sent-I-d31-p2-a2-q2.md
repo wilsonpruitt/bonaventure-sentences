@@ -79,9 +79,9 @@ concordant in fine propinquo et in opere, differunt tamen in remoto, quia quilib
 
 ### Scholion
 
-**I.** Pro distinctione, posita in solutione sive ulteriori determinatione 1. argumenti ad oppositum, et in quaest. seq. ad 1, aliquid est indistinctum in se, distinctum a quolibet alio; unitas conformitatis, quae conformitas[?] potest esse triplex, ut exponitur in textu. In sensu rigoroso solummodo unitas indivisionis est unitas simpliciter. Nihilominus in sensu largiore interdum, etiam deficiente unitate indivisionis, unitas conformitatis dici potest unitas simpliciter, scilicet quando conformitas est perfecta in natura, in voluntate, in actione, ut explicatur in corp. Ita apte exponuntur varii loci s. Scripturae. — Quoad solutionem ad ult., quod substantia actionis, quae est quasi substratum deformitatis, sit a Deo, cfr. II. *Sent.* d. 37. a. 2. q. 1.
+**I.** Pro distinctione, posita in solutione sive ulteriori determinatione 1. argumenti ad oppositum, et in quaest. seq. ad 1, aliquid est indistinctum in se, distinctum a quolibet alio; unitas conformitatis, quae conformitas potest esse triplex, ut exponitur in textu. In sensu rigoroso solummodo unitas indivisionis est unitas simpliciter. Nihilominus in sensu largiore interdum, etiam deficiente unitate indivisionis, unitas conformitatis dici potest unitas simpliciter, scilicet quando conformitas est perfecta in natura, in voluntate, in actione, ut explicatur in corp. Ita apte exponuntur varii loci s. Scripturae. — Quoad solutionem ad ult., quod substantia actionis, quae est quasi substratum deformitatis, sit a Deo, cfr. II. *Sent.* d. 37. a. 2. q. 1.
 
-**II.** Ipsa quaestio explicite tractatur tantum a B. Alberto, hic a. 13[?].
+**II.** Ipsa quaestio explicite tractatur tantum a B. Alberto, hic a. 13.
 
 ---
 
@@ -135,9 +135,9 @@ they agree in the proximate end and in the work, they nevertheless differ in the
 
 ### Scholion
 
-**I.** As for the distinction set down in the solution, or rather in the further determination of the 1. argument on the opposite side, and in the following question, ad 1: something is undivided in itself, [yet] distinct from anything else; the unity of conformity, which conformity[?] can be threefold, as is expounded in the text. In the strict sense, only the unity of indivision is unity simply. Nevertheless, in a broader sense, sometimes — even with the unity of indivision failing — the unity of conformity can be called unity simply, namely when the conformity is perfect in nature, in will, in action, as is explained in the body [of the question]. Thus the various passages of holy Scripture are aptly expounded. — As for the solution to the last [argument], that the substance of the action, which is as it were the substrate of the deformity, is from God, cf. II *Sent.* d. 37, a. 2, q. 1.
+**I.** As for the distinction set down in the solution, or rather in the further determination of the 1. argument on the opposite side, and in the following question, ad 1: something is undivided in itself, [yet] distinct from anything else; the unity of conformity, which conformity can be threefold, as is expounded in the text. In the strict sense, only the unity of indivision is unity simply. Nevertheless, in a broader sense, sometimes — even with the unity of indivision failing — the unity of conformity can be called unity simply, namely when the conformity is perfect in nature, in will, in action, as is explained in the body [of the question]. Thus the various passages of holy Scripture are aptly expounded. — As for the solution to the last [argument], that the substance of the action, which is as it were the substrate of the deformity, is from God, cf. II *Sent.* d. 37, a. 2, q. 1.
 
-**II.** The question itself is treated explicitly only by B. Albert, here a. 13[?].
+**II.** The question itself is treated explicitly only by B. Albert, here a. 13.
 
 ---
 
@@ -183,6 +183,6 @@ they agree in the proximate end and in the work, they nevertheless differ in the
 
     **En.** The Vatican [edition], together with codex cc, adds *tres* ["three"].
 
-[^11]: **La.** Aristot., V. *Metaph.* text. 8. (IV. c. 4.) ait: «Natura vero dicitur uno quidem modo nascentium generatio... alio vero ex quo primo inexistente generatur quod gignitur». Haec verba in versione Arabico-latina sic redduntur: «Et dicitur natura uno modo de omnibus pullulantibus; et etiam dicitur natura illud, cum...»[?]
+[^11]: **La.** Aristot., V. *Metaph.* text. 8. (IV. c. 4.) ait: «Natura vero dicitur uno quidem modo nascentium generatio... alio vero ex quo primo inexistente generatur quod gignitur». Haec verba in versione Arabico-latina sic redduntur: «Et dicitur natura uno modo de omnibus pullulantibus; et etiam dicitur natura illud, cum...» [Quaracchi quotation truncated mid-clause; remainder continues in printed apparatus but is not transcribed in this chunk.]
 
-    **En.** Aristotle, V *Metaphysics*, text 8 (IV, c. 4), says: "But *nature* is said in one way [of] the generation of things being born... in another way [of] that from which, primarily inexisting, what is begotten is begotten." These words in the Arabic-Latin version are rendered thus: "And *nature* is said in one way of all things sprouting forth; and *nature* is also said [of] that, when..."[?]
+    **En.** Aristotle, V *Metaphysics*, text 8 (IV, c. 4), says: "But *nature* is said in one way [of] the generation of things being born... in another way [of] that from which, primarily inexisting, what is begotten is begotten." These words in the Arabic-Latin version are rendered thus: "And *nature* is said in one way of all things sprouting forth; and *nature* is also said [of] that, when..." [Quaracchi quotation truncated mid-clause; remainder not transcribed in this chunk.]

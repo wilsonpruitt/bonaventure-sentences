@@ -147,9 +147,9 @@ It is asked therefore what is the *difference*, and *what is prior according to 
 
      **En.** Verse 14.
 
-[^7]: **La.** In cod. [?] additur *sive dispositio*.
+[^7]: **La.** In cod. O additur *sive dispositio*.
 
-     **En.** In a codex [?] there is added *or disposition*.
+     **En.** In codex O there is added *or disposition*.
 
 [^8]: **La.** Supple cum Vat. *voluntatis*.
 
