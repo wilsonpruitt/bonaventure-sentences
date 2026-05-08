@@ -10,6 +10,8 @@ title_la: "Utrum generatio Filii sit secundum rationem exemplaritatis"
 title_en: "Whether the generation of the Son is according to the account of exemplarity"
 printed_pages: [129, 130]
 pdf_pages: [231, 232]
+line_start: 28416
+line_end: 28642
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 129–130"
 has_scholion: true
 has_apparatus: true

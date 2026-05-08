@@ -14,7 +14,7 @@ has_apparatus: false
 line_start: 28213
 line_end: 28266
 word_count_latin: 360
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 28213–28266 of pt2), fresh literal English translation, no apparatus on divisio page (0 entries), [?] flags on ambiguous spots (2026-05-07)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 28213–28266 of pt2), fresh literal English translation, no apparatus on divisio page (0 entries); residual [?] on 'secundum [?]' resolved to 'secundum rem' against PDF p. 702 on 2026-05-08 (2026-05-08)"
 format_version: 1
 ---
 
@@ -110,7 +110,7 @@ Concerning entity, two [questions] are asked.
 
 First it is asked, whether predestination is something eternal or temporal.
 
-Second, what predestination is according to its [real] thing.
+Second, what predestination is according to the thing (*rem*).
 
 ---
 

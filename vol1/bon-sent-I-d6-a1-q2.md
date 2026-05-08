@@ -10,6 +10,8 @@ title_la: "Utrum generatio in divinis sit secundum rationem voluntatis"
 title_en: "Whether the generation in divinis is according to the account of will"
 printed_pages: [127, 128]
 pdf_pages: [229, 230]
+line_start: 28086
+line_end: 28415
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 127–128"
 has_scholion: true
 has_apparatus: true

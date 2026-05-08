@@ -11,6 +11,8 @@ title_la: "Utrum Deus sit in aliquo determinato genere sive praedicamento"
 title_en: "Whether God is in any determinate genus or predicament"
 printed_pages: [173, 174]
 pdf_pages: [275, 276]
+line_start: 35076
+line_end: 35294
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 173–174"
 has_scholion: true
 has_apparatus: true

@@ -9,6 +9,8 @@ type: quaestio
 title_la: "Utrum in divinis ponenda sit tertia persona procedens per modum mutuae caritatis"
 title_en: "Whether a third person proceeding by way of mutual charity is to be posited in God"
 printed_pages: [193, 194]
+line_start: 38990
+line_end: 39160
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 193–194"
 has_scholion: true
 has_apparatus: true

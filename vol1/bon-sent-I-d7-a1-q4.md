@@ -10,6 +10,8 @@ title_la: "Utrum posse generari et posse creari sit posse univocum"
 title_en: "Whether to be able to be begotten and to be able to be created is a univocal being-able"
 printed_pages: [143, 144]
 pdf_pages: [245, 246]
+line_start: 30468
+line_end: 30741
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 143–144"
 has_scholion: true
 has_apparatus: true

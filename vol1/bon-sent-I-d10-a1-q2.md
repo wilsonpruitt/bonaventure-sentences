@@ -9,6 +9,8 @@ type: quaestio
 title_la: "Utrum in divinis ponenda sit persona procedens per modum amoris sive caritatis"
 title_en: "Whether a person proceeding by way of love or charity is to be posited in God"
 printed_pages: [192, 193]
+line_start: 38661
+line_end: 38975
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 192–193"
 has_scholion: true
 has_apparatus: true

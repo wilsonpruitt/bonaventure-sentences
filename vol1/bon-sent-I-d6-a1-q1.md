@@ -10,6 +10,8 @@ title_la: "Utrum generatio Filii sit secundum rationem necessitatis"
 title_en: "Whether the generation of the Son is according to the account of necessity"
 printed_pages: [125, 126]
 pdf_pages: [227, 228]
+line_start: 27817
+line_end: 28085
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 125–126"
 has_scholion: true
 has_apparatus: true

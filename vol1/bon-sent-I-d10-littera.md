@@ -11,6 +11,8 @@ pdf_pages: [294, 295]
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. X (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 192–193)"
 has_scholion: false
 has_apparatus: true
+line_start: 37971
+line_end: 38247
 transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation completed 2026-05-04 (apparatus already bilingual from 2026-04-17), 20-footnote apparatus from raw OCR (2026-05-04)"
 format_version: 1
 ---

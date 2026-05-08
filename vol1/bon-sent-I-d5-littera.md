@@ -8,6 +8,8 @@ title_la: "Distinctio V — textus Magistri Sententiarum"
 title_en: "Distinction V — text of the Master of the Sentences"
 printed_pages: [108, 109, 110]
 pdf_pages: [210, 211, 212]
+line_start: 25061
+line_end: 25619
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. V (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 108–110)"
 has_scholion: false
 has_apparatus: true

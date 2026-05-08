@@ -11,6 +11,8 @@ title_la: "Utrum divinum esse sit adeo verum, quod non possit cogitari non esse"
 title_en: "Whether the divine being is so true that it cannot be thought not to be"
 printed_pages: [152, 153, 154]
 pdf_pages: [254, 255, 256]
+line_start: 32054
+line_end: 32575
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 152–154"
 has_scholion: true
 has_apparatus: true

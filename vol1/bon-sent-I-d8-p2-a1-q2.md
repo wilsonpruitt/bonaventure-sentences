@@ -11,6 +11,8 @@ title_la: "Utrum summa simplicitas soli Deo conveniat"
 title_en: "Whether supreme simplicity belongs to God alone"
 printed_pages: [168, 169, 170]
 pdf_pages: [270, 271, 272]
+line_start: 34190
+line_end: 34634
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 168–170"
 has_scholion: true
 has_apparatus: true

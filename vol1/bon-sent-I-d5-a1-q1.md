@@ -11,6 +11,8 @@ title_la: "Utrum substantia sive essentia generet"
 title_en: "Whether substance or essence begets"
 printed_pages: [111, 112, 113]
 pdf_pages: [213, 214, 215]
+line_start: 25765
+line_end: 26255
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 111–113"
 has_scholion: true
 has_apparatus: true

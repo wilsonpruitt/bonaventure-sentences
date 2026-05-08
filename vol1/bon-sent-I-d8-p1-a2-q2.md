@@ -11,6 +11,8 @@ title_la: "Utrum solus Deus immutabilis sit"
 title_en: "Whether God alone is unchangeable"
 printed_pages: [158, 159, 160, 161]
 pdf_pages: [260, 261, 262, 263]
+line_start: 32878
+line_end: 33451
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 158–161"
 has_scholion: true
 has_apparatus: true

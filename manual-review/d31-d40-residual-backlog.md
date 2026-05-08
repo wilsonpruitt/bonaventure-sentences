@@ -38,14 +38,14 @@ Categories:
 - **`Auctoris` ↔ `viatoris` substitution** — d.39 a1-q2 scholion I had `pro statu Auctoris` for printed `pro statu *viatoris*`. Doctrinally significant. Grep scholion text for `Auctor` mis-readings.
 - **Editorial-bracket reconstructions** — d.39 a2-q1 had `[Patet ex praedicta distinctione…]` where printed text is shorter and uses different vocabulary. Smell: editorial brackets in chunk body often mean chunker was guessing without printed access.
 - **Split-italic phrase patterns** — d.32 divisio had `*se* [?] *ipso*` where printed has continuous `*se ipso*`. Regex: `\*[a-z]+\*\s*\[?\]\s*\*[a-z]+\*`.
-- **Single-word OCR drops at column-bottoms** — d.40 divisio had `praedestinatio secundum [?]` missing `rem`. Recurs throughout corpus.
+- ~~**Single-word OCR drops at column-bottoms** — d.40 divisio had `praedestinatio secundum [?]` missing `rem`. Recurs throughout corpus.~~ RESOLVED 2026-05-08 for d.40 divisio (Latin already had `rem`; English bracket `[real]` cleaned to `the thing (*rem*)`; verified against PDF p. 702). Pattern still warrants a corpus-wide sweep — leave open as audit candidate.
 
 ## D. Single-chunk structural corrections
 
-- **d.33 a1-q4 [^15] col-break continuation** — PDF p. 580 col-a fn 4 ends "alii [...]" with continuation likely wrapping to col-b but not legible in current 600 dpi crop. Re-crop covering col-a→col-b transition would close it.
+- ~~**d.33 a1-q4 [^15] col-break continuation** — PDF p. 580 col-a fn 4 ends "alii [...]" with continuation likely wrapping to col-b but not legible in current 600 dpi crop. Re-crop covering col-a→col-b transition would close it.~~ RESOLVED 2026-05-08: continuation pulled from `doctorisseraphic12bona_djvu.txt` line 23294: `codd. non pauci cum edd. 2, 3 quod repugnantia sit ibi. — De ultima propos. solutionis vide supra d. 17. p. 1. q. 2. obiect. 4.`
 - **d.32 littera [^11] Hilary `de Trin.` IX quote** — Quaracchi prints quote ending mid-clause; annotated in chunk. Could be extended if a later edition or critical apparatus supplies the rest.
-- **d.40 a4-q2 apparatus duplicates [^16]/[^19] and [^17]/[^20]** — identical defs for two pairs. Chunker artifact; cleanup pass.
-- **d.40 a2-q1 frontmatter `printed_pages`** — declares [706, 707, 708, 709] but scholion II is actually on p. 710. Audit `printed_pages` on all d.40 chunks; scholion sections routinely under-counted.
+- ~~**d.40 a4-q2 apparatus duplicates [^16]/[^19] and [^17]/[^20]** — identical defs for two pairs. Chunker artifact; cleanup pass.~~ RESOLVED 2026-05-08: duplicate `[^19]`/`[^20]` defs removed; misplaced body anchors `[^16][^17]` at end of Respondeo removed; body anchors at *potentiae et habitus* and *iustitia* renumbered to `[^16]`/`[^17]`. Apparatus now 1–17, 18 (sibi), 21–26 (gap at 19/20 to avoid downstream renumber). Build smoke-tested clean.
+- ~~**d.40 a2-q1 frontmatter `printed_pages`** — declares [706, 707, 708, 709] but scholion II is actually on p. 710. Audit `printed_pages` on all d.40 chunks; scholion sections routinely under-counted.~~ RESOLVED 2026-05-08: extended to [706, 707, 708, 709, 710]; pdf_pages [296, 297, 298, 299, 300]; source range updated to pp. 706–710. Scholion verified against PDF p. 710 (pt2 PDF p. 300).
 
 ---
 

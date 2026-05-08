@@ -9,6 +9,8 @@ type: quaestio
 title_la: "Utrum amor sive caritas sit proprium Spiritus sancti"
 title_en: "Whether love or charity is proper to the Holy Spirit"
 printed_pages: [200, 201]
+line_start: 39154
+line_end: 39419
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 200–201"
 has_scholion: true
 has_apparatus: true

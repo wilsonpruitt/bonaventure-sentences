@@ -10,6 +10,8 @@ title_la: "Utrum Pater communicet Filio potentiam generandi"
 title_en: "Whether the Father communicates to the Son the power of begetting"
 printed_pages: [138, 139, 140]
 pdf_pages: [240, 241, 242]
+line_start: 29832
+line_end: 30260
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 138–140"
 has_scholion: true
 has_apparatus: true

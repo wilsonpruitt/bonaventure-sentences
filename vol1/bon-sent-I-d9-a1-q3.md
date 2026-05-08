@@ -10,6 +10,8 @@ title_la: "Utrum in divinis generatio sit aeterna"
 title_en: "Whether generation in God is eternal"
 printed_pages: [184, 185]
 pdf_pages: [286, 287]
+line_start: 36760
+line_end: 36966
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 184–185"
 has_scholion: true
 has_apparatus: true

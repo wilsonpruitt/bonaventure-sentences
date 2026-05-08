@@ -8,6 +8,8 @@ title_la: "Commentarius in Distinctionem VI — Divisio Textus et Tractatio Quae
 title_en: "Commentary on Distinction VI — Division of the Text and Treatment of the Questions"
 printed_pages: [124, 125]
 pdf_pages: [226, 227]
+line_start: 27721
+line_end: 27816
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 124–125"
 has_scholion: false
 has_apparatus: true

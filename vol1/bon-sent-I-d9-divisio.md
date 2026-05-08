@@ -8,6 +8,8 @@ title_la: "Commentarius in Distinctionem IX — Divisio textus"
 title_en: "Commentary on Distinction IX — Division of the text"
 printed_pages: [179, 180]
 pdf_pages: [281, 282]
+line_start: 36017
+line_end: 36138
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 179–180"
 has_scholion: false
 has_apparatus: true

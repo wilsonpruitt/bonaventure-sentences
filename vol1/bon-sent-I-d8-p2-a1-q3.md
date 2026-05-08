@@ -11,6 +11,8 @@ title_la: "Utrum anima rationalis sit tota in toto corpore, et tota in qualibet 
 title_en: "Whether the rational soul is whole in the whole body, and whole in every part of it"
 printed_pages: [170, 171, 172]
 pdf_pages: [272, 273, 274]
+line_start: 34635
+line_end: 35075
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 170–172"
 has_scholion: true
 has_apparatus: true

@@ -8,6 +8,8 @@ title_la: "Distinctio VIII — textus Magistri Sententiarum"
 title_en: "Distinction VIII — text of the Master of the Sentences"
 printed_pages: [147, 148, 149]
 pdf_pages: [249, 250, 251]
+line_start: 31017
+line_end: 31495
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. VIII (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 147–149)"
 has_scholion: false
 has_apparatus: true

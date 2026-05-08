@@ -8,9 +8,9 @@ quaestio: 1
 type: quaestio
 title_la: "Utrum praedestinatio inferat salutis necessitatem"
 title_en: "Whether predestination imposes the necessity of salvation"
-printed_pages: [706, 707, 708, 709]
-pdf_pages: [296, 297, 298, 299]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 706–709"
+printed_pages: [706, 707, 708, 709, 710]
+pdf_pages: [296, 297, 298, 299, 300]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 706–710"
 has_scholion: true
 has_apparatus: true
 line_start: 28636

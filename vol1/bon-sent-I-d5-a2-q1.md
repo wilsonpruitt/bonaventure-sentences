@@ -10,6 +10,8 @@ title_la: "Utrum substantia sive essentia generetur"
 title_en: "Whether substance or essence is begotten"
 printed_pages: [115, 116, 117]
 pdf_pages: [217, 218, 219]
+line_start: 26512
+line_end: 26785
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 115–117"
 has_scholion: true
 has_apparatus: true

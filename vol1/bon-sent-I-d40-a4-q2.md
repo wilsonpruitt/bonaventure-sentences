@@ -69,7 +69,7 @@ Secundo quaeritur, utrum obduratio sit a Deo sive sit effectus Dei reprobantis. 
 
 > *Obduratio, prout est defectus, non est a Deo; sed prout ordinatur a retribuente divina iustitia in poenam culpae, est a Deo.*
 
-**Respondeo:** Dicendum, quod obduratio, in quantum *poena*, dicit animae ineptitudinem, et ita dicit *defectum* poenalem; et poena omnis, in quantum talis, est iusta et *ordinata*: ideo dicit *defectum ordinatum*. In quantum ergo *defectus* est, non habet causam nisi deficientem; haec autem non est Deus, quia Deus non est causa deficiens, sed liberum arbitrium destitutum. In quantum vero *ordinatum*, habet causam *merentem*, scilicet ipsam culpam, et causam *ordinantem*, scilicet retribuentem divinam iustitiam.[^16][^17]
+**Respondeo:** Dicendum, quod obduratio, in quantum *poena*, dicit animae ineptitudinem, et ita dicit *defectum* poenalem; et poena omnis, in quantum talis, est iusta et *ordinata*: ideo dicit *defectum ordinatum*. In quantum ergo *defectus* est, non habet causam nisi deficientem; haec autem non est Deus, quia Deus non est causa deficiens, sed liberum arbitrium destitutum. In quantum vero *ordinatum*, habet causam *merentem*, scilicet ipsam culpam, et causam *ordinantem*, scilicet retribuentem divinam iustitiam.
 
 **Ad argumenta:**
 
@@ -79,9 +79,9 @@ Secundo quaeritur, utrum obduratio sit a Deo sive sit effectus Dei reprobantis. 
 
 ordinatus est in poena sibi debita. Per hunc modum est intelligendum in proposito.
 
-4. Ad illud ergo quod obiicitur, quod obduratio dicit positionem; dicendum, quod in corporibus dicit positionem, quia per naturam suam nata sunt sibi[^18] resistere; sed in spiritibus dicit defectum, quia de naturali aptitudine spiritus debet esse habilis ad susceptionem influentiae divinae. Unde habilitas talis est potentiae et habitus[^19]; sed econtra obduratio et ineptitudo est per modum privationis.
+4. Ad illud ergo quod obiicitur, quod obduratio dicit positionem; dicendum, quod in corporibus dicit positionem, quia per naturam suam nata sunt sibi[^18] resistere; sed in spiritibus dicit defectum, quia de naturali aptitudine spiritus debet esse habilis ad susceptionem influentiae divinae. Unde habilitas talis est potentiae et habitus[^16]; sed econtra obduratio et ineptitudo est per modum privationis.
 
-5. Ad illud quod obiicitur, quod qui permittit, subditum perire, est causa etc.; dicendum, quod verum est, si tenetur et debet facere; sed si non tenetur nec debet hoc facere, immo magis contrarium, nullatenus potest illi imputari periculum, sed iustitia[^20]; et ita est in Deo.
+5. Ad illud quod obiicitur, quod qui permittit, subditum perire, est causa etc.; dicendum, quod verum est, si tenetur et debet facere; sed si non tenetur nec debet hoc facere, immo magis contrarium, nullatenus potest illi imputari periculum, sed iustitia[^17]; et ita est in Deo.
 
 6. 7. Ad illud quod obiicitur, quod si aliquid est causa alicuius, quod oppositum est causa oppositi; dicendum, quod illud tenet in naturalibus et necessariis, sicut in habere pulmonem et non habere, et respirare et non respirare; non autem habet locum in voluntariis, sicut dicit Anselmus[^21]. Causa autem, quare iste habet gratiam, est quia Deus dat; causa, quare non habet, est quia non accipit. — Sed ista solutio non videtur competens, quoniam si maxima Philosophi bona est, necesse est, quod teneat in omni materia.
 
@@ -146,7 +146,7 @@ Secondly it is asked whether obduration is from God or whether it is an effect o
 
 > *Obduration, insofar as it is a defect, is not from God; but insofar as it is ordained by divine justice as one repaying as a punishment for sin, it is from God.*
 
-**I respond:** It must be said that obduration, insofar as [it is] *punishment*, signifies the soul's ineptitude, and so it signifies a penal *defect*; and every punishment, insofar as such, is just and *ordained*: therefore it signifies an *ordained defect*. Insofar therefore as it is a *defect*, it has no cause but a deficient one; and this is not God, since God is not a deficient cause, but [rather] a destitute free will. But insofar as it is *ordained*, it has a *meriting* cause, namely the fault itself, and an *ordaining* cause, namely the divine justice repaying.[^16][^17]
+**I respond:** It must be said that obduration, insofar as [it is] *punishment*, signifies the soul's ineptitude, and so it signifies a penal *defect*; and every punishment, insofar as such, is just and *ordained*: therefore it signifies an *ordained defect*. Insofar therefore as it is a *defect*, it has no cause but a deficient one; and this is not God, since God is not a deficient cause, but [rather] a destitute free will. But insofar as it is *ordained*, it has a *meriting* cause, namely the fault itself, and an *ordaining* cause, namely the divine justice repaying.
 
 **To the arguments:**
 
@@ -156,9 +156,9 @@ Secondly it is asked whether obduration is from God or whether it is an effect o
 
 [that one] is ordered into the punishment due to himself. In this manner is it to be understood in the matter at hand.
 
-*To 4.* To that which is objected, that obduration speaks a *positing*; it must be said that in bodies it speaks a *positing*, because by their nature they are made to resist themselves[^18]; but in spirits it speaks a *defect*, because by the natural aptitude the spirit ought to be apt for the reception of divine influence. Hence such aptitude belongs to potency and habit[^19]; but on the contrary obduration and ineptitude is by way of *privation*.
+*To 4.* To that which is objected, that obduration speaks a *positing*; it must be said that in bodies it speaks a *positing*, because by their nature they are made to resist themselves[^18]; but in spirits it speaks a *defect*, because by the natural aptitude the spirit ought to be apt for the reception of divine influence. Hence such aptitude belongs to potency and habit[^16]; but on the contrary obduration and ineptitude is by way of *privation*.
 
-*To 5.* To that which is objected, that one who permits a subject to perish is a cause etc.; it must be said that this is true if he is bound and ought to act; but if he is not bound nor ought to do this, indeed rather the contrary, in no way can the danger be imputed to him, but [it is rather] justice[^20]; and so it is in God.
+*To 5.* To that which is objected, that one who permits a subject to perish is a cause etc.; it must be said that this is true if he is bound and ought to act; but if he is not bound nor ought to do this, indeed rather the contrary, in no way can the danger be imputed to him, but [it is rather] justice[^17]; and so it is in God.
 
 *To 6, 7.* To that which is objected, that if something is the cause of something, then the opposite is cause of the opposite; it must be said that this holds in things natural and necessary, as in *having a lung* and *not having one*, and *breathing* and *not breathing*; but it does not have place in voluntary matters, as Anselm says[^21]. Now the cause why this man has grace is because God gives; the cause why he does not have it is because he does not receive. — But this solution does not seem fitting, since if the Philosopher's maxim is sound, it is necessary that it hold in every matter.
 
@@ -249,14 +249,6 @@ And therefore it must be said that he speaks of the *proximate and immediate* ca
 [^18]: **La.** Vat. omittit *sibi*; cod. H bene exhibet *sibi invicem*.
 
      **En.** The Vatican edition omits *sibi*; codex H rightly has *sibi invicem* (to one another).
-
-[^19]: **La.** Quae sunt duae primae species qualitatis, ab Aristotele in libr. *de Praedicam.* c. de Qualitate recensitae, de quibus vide supra d. 3. p. II. a. I. q. 3. in corp., et a. 2. q. 1. ad 1. — Cod. R ante verba *et habitus* interiicit *sive potentiae*, et subinde post *obduratio* omittit *et*. Mox post *per modum* Vat. adicit *praevisionis et*; demum cod. cc pro *privationis* substituit *praevisionis*.
-
-     **En.** These are the two first species of quality, recounted by Aristotle in *Categories*, ch. on Quality, concerning which see above d. 3, p. II, a. I, q. 3, in the body, and a. 2, q. 1, ad 1. — Codex R inserts *or of potency* before the words *and of habit*, and just after *obduratio* omits *et*. Just after *per modum* the Vatican edition adds *of foresight and*; finally codex cc substitutes *of foresight* for *of privation*.
-
-[^20]: **La.** Vat. *iustitiae*.
-
-     **En.** The Vatican edition reads *iustitiae* (of justice).
 
 [^21]: **La.** Probans propositiones quae hic immediate sequuntur et iam supra in fundam. 7. occurrerunt.
 

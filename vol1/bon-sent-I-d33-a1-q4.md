@@ -191,9 +191,9 @@ and therefore it cannot be reflected. But in simple primaries, of which kind is 
 
     **En.** Several codices such as G, S, T, W, cc, ff with edition 1, with the punctuation altered, [read] thus: *it would then be true, and the sense would be*.
 
-[^15]: **La.** Codd. A P Q T cum ed. 1 *quae repugnantia sit ibi*; alii [...] [partial — fn-4 continuation not legible at column break].
+[^15]: **La.** Codd. A P Q T cum ed. 1 *quae repugnantia sit ibi*; alii codd. non pauci cum edd. 2, 3 *quod repugnantia sit ibi*. — De ultima propos. solutionis vide supra d. 17. p. 1. q. 2. obiect. 4.
 
-    **En.** Codices A, P, Q, T with edition 1 [read] *quae repugnantia sit ibi* ("what contradiction there is in it"); others [...] [partial — fn-4 continuation not legible at column break].
+    **En.** Codices A, P, Q, T with edition 1 [read] *quae repugnantia sit ibi* ("what contradiction there is in it"); not a few other codices, with editions 2 and 3, [read] *quod repugnantia sit ibi* ("that there is contradiction in it"). — On the last proposition of the solution, see above d. 17. p. 1. q. 2, objection 4.
 
 ## Notes
 

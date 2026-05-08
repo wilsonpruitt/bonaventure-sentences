@@ -9,6 +9,8 @@ title_la: "Commentarius in Distinctionem VIII — Pars I, Divisio Textus et Trac
 title_en: "Commentary on Distinction VIII — Part I, Division of the Text and Treatment of the Questions"
 printed_pages: [149, 150]
 pdf_pages: [251, 252]
+line_start: 31496
+line_end: 31619
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 149–150"
 has_scholion: false
 has_apparatus: true

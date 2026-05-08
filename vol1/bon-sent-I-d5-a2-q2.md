@@ -10,6 +10,8 @@ title_la: "Utrum substantia sive essentia per generationem communicetur"
 title_en: "Whether substance or essence is communicated through generation"
 printed_pages: [117, 118]
 pdf_pages: [219, 220]
+line_start: 26786
+line_end: 26998
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 117–118"
 has_scholion: true
 has_apparatus: true

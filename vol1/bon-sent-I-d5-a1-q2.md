@@ -10,6 +10,8 @@ title_la: "Utrum Filius dicatur genitus de substantia Patris"
 title_en: "Whether the Son is said to be begotten of the substance of the Father"
 printed_pages: [114, 115]
 pdf_pages: [216, 217]
+line_start: 26256
+line_end: 26511
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 114–115"
 has_scholion: true
 has_apparatus: true

@@ -10,6 +10,8 @@ printed_pages: [207, 208]
 source: "Petrus Lombardus, *Sententiae* I, d. 11; in S. Bonaventurae, *Opera Omnia*, Tomus I (Quaracchi, 1882), pp. 207–208"
 has_scholion: false
 has_apparatus: true
+line_start: 40193
+line_end: 40497
 transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 40232–40495; original skeleton OCR boundary started 40191 and duplicated d.10 dub V/VI content), full apparatus from raw OCR (18 entries), full English (2026-05-02)"
 format_version: 1
 ---

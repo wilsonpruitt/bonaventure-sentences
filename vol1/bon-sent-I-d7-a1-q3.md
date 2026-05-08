@@ -10,6 +10,8 @@ title_la: "Utrum potentia generandi et potentia creandi sint unica potentia"
 title_en: "Whether the power of begetting and the power of creating are one power"
 printed_pages: [141, 142]
 pdf_pages: [243, 244]
+line_start: 30261
+line_end: 30467
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 141–142"
 has_scholion: true
 has_apparatus: true

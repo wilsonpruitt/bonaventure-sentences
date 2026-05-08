@@ -8,6 +8,8 @@ title_la: "Distinctio VII — textus Magistri Sententiarum"
 title_en: "Distinction VII — text of the Master of the Sentences"
 printed_pages: [133, 134]
 pdf_pages: [235, 236]
+line_start: 29025
+line_end: 29108
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. VII (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 133–134)"
 has_scholion: false
 has_apparatus: true

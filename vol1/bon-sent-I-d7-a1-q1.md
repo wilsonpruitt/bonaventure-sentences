@@ -10,6 +10,8 @@ title_la: "Utrum potentia generandi dicat aliquid absolutum vel relativum"
 title_en: "Whether the power of begetting signifies something absolute or relative"
 printed_pages: [135, 136, 137]
 pdf_pages: [237, 238, 239]
+line_start: 29245
+line_end: 29831
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 135–137"
 has_scholion: true
 has_apparatus: true

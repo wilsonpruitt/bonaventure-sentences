@@ -11,6 +11,8 @@ title_la: "Utrum veritas sit proprietas divini esse"
 title_en: "Whether truth is a property of the divine being"
 printed_pages: [150, 151, 152]
 pdf_pages: [252, 253, 254]
+line_start: 31620
+line_end: 32053
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 150–152"
 has_scholion: true
 has_apparatus: true

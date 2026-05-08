@@ -10,6 +10,8 @@ title_la: "Utrum generatio Filii terminata sit"
 title_en: "Whether the generation of the Son is terminated"
 printed_pages: [185, 186, 187]
 pdf_pages: [287, 288, 289]
+line_start: 36967
+line_end: 37249
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 185–187"
 has_scholion: true
 has_apparatus: true

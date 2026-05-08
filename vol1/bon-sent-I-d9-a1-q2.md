@@ -10,6 +10,8 @@ title_la: "Utrum in divinis generatio distinguat inter gignentem et genitum"
 title_en: "Whether generation in God distinguishes between the one begetting and the one begotten"
 printed_pages: [182, 183]
 pdf_pages: [284, 285]
+line_start: 36432
+line_end: 36759
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 182–183"
 has_scholion: true
 has_apparatus: true

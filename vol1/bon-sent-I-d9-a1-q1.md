@@ -10,6 +10,8 @@ title_la: "Utrum in divinis generatio ponenda sit"
 title_en: "Whether generation is to be posited in God"
 printed_pages: [180, 181, 182]
 pdf_pages: [282, 283, 284]
+line_start: 36139
+line_end: 36431
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 180–182"
 has_scholion: true
 has_apparatus: true

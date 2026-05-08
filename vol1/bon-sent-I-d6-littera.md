@@ -8,6 +8,8 @@ title_la: "Distinctio VI — textus Magistri Sententiarum"
 title_en: "Distinction VI — text of the Master of the Sentences"
 printed_pages: [123, 124]
 pdf_pages: [225, 226]
+line_start: 27496
+line_end: 27720
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. VI (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 123–124)"
 has_scholion: false
 has_apparatus: true

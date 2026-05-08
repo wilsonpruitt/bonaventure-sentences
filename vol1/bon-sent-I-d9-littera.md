@@ -8,6 +8,8 @@ title_la: "Distinctio IX — textus Magistri Sententiarum"
 title_en: "Distinction IX — text of the Master of the Sentences"
 printed_pages: [177, 178, 179]
 pdf_pages: [279, 280, 281]
+line_start: 35561
+line_end: 36016
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. IX (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 177–179)"
 has_scholion: false
 has_apparatus: true

@@ -11,6 +11,8 @@ title_la: "Utrum Deus sit immutabilis"
 title_en: "Whether God is unchangeable"
 printed_pages: [156, 157, 158]
 pdf_pages: [258, 259, 260]
+line_start: 32576
+line_end: 32877
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 156–158"
 has_scholion: true
 has_apparatus: true

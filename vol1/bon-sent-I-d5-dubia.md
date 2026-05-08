@@ -8,6 +8,8 @@ title_la: "Dubia circa litteram Magistri"
 title_en: "Doubts concerning the Master's text"
 printed_pages: [118, 119, 120]
 pdf_pages: [220, 221, 222]
+line_start: 26999
+line_end: 27495
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 118–120"
 has_scholion: false
 has_apparatus: true

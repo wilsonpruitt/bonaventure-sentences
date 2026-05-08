@@ -11,6 +11,8 @@ title_la: "Utrum Deus sit summe simplex"
 title_en: "Whether God is supremely simple"
 printed_pages: [166, 167, 168]
 pdf_pages: [268, 269, 270]
+line_start: 33900
+line_end: 34189
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 166–168"
 has_scholion: true
 has_apparatus: true
