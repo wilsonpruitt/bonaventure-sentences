@@ -10,10 +10,12 @@ title_la: "Utrum Deo sit fruendum"
 title_en: "Whether God is to be enjoyed"
 printed_pages: [38, 39]
 pdf_pages: [140, 141]
+line_start: 14580
+line_end: 14818
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 38–39"
 has_scholion: true
 has_apparatus: true
-transcription_status: "first-pass vision re-OCR reconciled against raw OCR, pending final verification"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 14580–14818), fresh literal English translation, full apparatus from raw OCR (18 entries), [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
@@ -64,7 +66,7 @@ Ex parte obiecti non est simile, quia obiectum intelligibile[^15] excellens iuva
 
 Ex parte modi apprehendendi similiter est dissimilitudo, quia sensus in apprehensione sui obiecti tendit ad exterius, unde percipiendo[^16] illud dispergitur exterius nec fortificatur interius, ideo debilitatur. Sed obiectum intellectus cum sit intimum ipsi intellectui, in eius perceptione virtus non dispergitur, sed colligitur, et quanto virtus est magis unita, tanto fortior.
 
-**Ad 3.** Ad illud quod obiicitur de infinito; dicendum, quod infinitum dicitur dupliciter, scilicet per privationem perfectionis; et sic materia dicitur infinita, et talis infiniti non est finire, sed potius finiri indiget, secundum quod[^17] est possibile. Alio modo infinitum dicitur per privationem limitationis; et quod sic infinitum est, proprie habet finire, quoniam ultra ipsum, cum non sit maius cogitare, non contingit aliquid appetere. Unde talis infinitas convenit ultimo fini, quae maxime habet finiendi rationem.
+**Ad 3.** Ad illud quod obiicitur de infinito; dicendum, quod infinitum dicitur dupliciter, scilicet per privationem perfectionis; et sic materia dicitur infinita, et talis infiniti non est finire, sed potius finiri indiget, secundum quod[^17] est possibile. Alio modo infinitum dicitur per privationem limitationis; et quod sic infinitum est, proprie habet finire, quoniam ultra ipsum, cum non sit maius cogitare, non contingit aliquid appetere. Unde talis infinitas convenit ultimo fini, quae[^18] maxime habet finiendi rationem.
 
 ### Scholion
 
@@ -116,7 +118,7 @@ according to a comparison of two to each other — as, for instance, when one is
 
 *On the side of the mode of apprehending* there is likewise a dissimilarity, because the sense, in apprehending its object, tends outward — so that, in perceiving[^16] it, [the power] is dispersed outward and not strengthened inward, and so it is weakened. But since the object of the intellect is innermost to the intellect itself, in its perception the power is not dispersed but gathered; and the more the power is unified, the stronger it is.
 
-**Reply to 3.** To the objection concerning the infinite, it must be said that *infinite* is said in two ways: namely, by the privation of perfection — and thus matter is called infinite, and such an infinite is not able to bring to an end, but rather needs to be brought to an end, insofar as[^17] that is possible. In another way the infinite is spoken of by the privation of limitation; and what is infinite in this way properly does have [the power] of bringing to an end, because, since nothing greater than it can be thought, beyond it nothing can be desired. Whence such infinity befits the ultimate end, which most of all has the character of bringing to an end.
+**Reply to 3.** To the objection concerning the infinite, it must be said that *infinite* is said in two ways: namely, by the privation of perfection — and thus matter is called infinite, and such an infinite is not able to bring to an end, but rather needs to be brought to an end, insofar as[^17] that is possible. In another way the infinite is spoken of by the privation of limitation; and what is infinite in this way properly does have [the power] of bringing to an end, because, since nothing greater than it can be thought, beyond it nothing can be desired. Whence such infinity befits the ultimate end, which[^18] most of all has the character of bringing to an end.
 
 ### Scholion
 
@@ -178,8 +180,11 @@ II. On this question itself: Scotus, here q. 3. — Thomas Aquinas, here q. 2, a
 [^16]: **La** — *Ita codd. C H K O S T U Y aa bb et ed. 1; sed codd. A F I L M R V W X Z* participando; *Vat. autem cum cod. cc* per. *Mox codd. X et Y* confortatur *loco* fortificatur.<br>
       **En** — So read codd. C, H, K, O, S, T, U, Y, aa, bb, and ed. 1 [i.e., *percipiendo*, "in perceiving"]; but codd. A, F, I, L, M, R, V, W, X, Z read *participando* ("by sharing"); while Vat. with cod. cc reads *per*. A little later, codd. X and Y read *confortatur* ("is strengthened") in place of *fortificatur* ("is fortified").
 
-[^17]: **La** — *Cod. cc* scilicet quantum *pro* secundum quod. *Codd. F et I* qui, *satis bene, et conveniunt quoad sensum cum cod. T, qui habet* quia.<br>
-      **En** — Cod. cc reads *scilicet quantum* ("namely, as much as") in place of *secundum quod* ("insofar as"). Codd. F and I read *qui* — which is quite good — and agree in meaning with cod. T, which has *quia* ("because").
+[^17]: **La** — *Cod. cc* scilicet quantum *pro* secundum quod.<br>
+      **En** — Cod. cc reads *scilicet quantum* ("namely, as much as") in place of *secundum quod* ("insofar as").
+
+[^18]: **La** — *Codd. F et I* qui, *satis bene, et conveniunt quoad sensum cum cod. T, qui habet* quia.<br>
+      **En** — Codd. F and I read *qui* — which is quite good — and agree in meaning with cod. T, which has *quia* ("because"). [The lemma is *quae* in *ultimo fini, quae maxime habet finiendi rationem*.]
 
 ---
 
@@ -195,6 +200,6 @@ II. On this question itself: Scotus, here q. 3. — Thomas Aquinas, here q. 2, a
 
 - **Two senses of "infinite" (Reply to 3).** Fn 17 documents competing readings at *secundum quod est possibile* near the end of the reply. Bonaventure's distinction — between the infinite by privation of perfection (matter) and the infinite by privation of limitation (God) — is the germ of the solution and is preserved carefully in the English.
 
-- **Footnote placement — uncertainty flag.** Several markers on p. 39 (notably [^11] *unum*, [^12] *sensus*, [^13] *in excellenti*, and [^14] *De Anima* reference) were placed by reasoning about the sense of each apparatus entry rather than by direct visual match to marker glyphs in the PDF, which at small point size are difficult to read. These placements should be verified on a higher-resolution image pass. Footnote [^17] merges what the raw OCR shows as two adjacent apparatus entries — "Cod. cc *scilicet quantum* pro *secundum quod*" and "Codd. F et I *qui*, satis bene..." — since both document manuscript variants on the same phrase *secundum quod est possibile* in Ad 3.
+- **Footnote placement — uncertainty flag.** Several markers on p. 39 (notably [^11] *unum*, [^12] *sensus*, [^13] *in excellenti*, and [^14] *De Anima* reference) were placed by reasoning about the sense of each apparatus entry rather than by direct visual match to marker glyphs in the OCR/PDF, which at small point size are difficult to read. These placements should be verified on a higher-resolution image pass. The raw djvu OCR shows two adjacent footnote-mark glyphs on a single token (`tristatur in excellenti^`), one of which carries [^13] (*Cod. X addit etiam* …) and one of which carries [^14] (*De Anima* II.123/143, III.4/7); the visual order of the two glyphs is not reliably distinguishable in the OCR, so the chunk renders them as `[^13][^14]` together at that spot.
 
-- **Vision transcription status.** First-pass vision re-OCR of printed pp. 38–39 (PDF pp. 140–141), reconciled against `raw/bonaventure_vol1_raw.txt` lines 14595–14895 for words obscured by ligature or tight point size in the footnote region. Apparatus footnotes were read from the PDF at small point size and should be considered best-effort. Several manuscript sigla may still need cross-check against the Quaracchi Vol. I sigla key (forthcoming in `tools/apparatus-sigla.json`).
+- **2026-05-07 Tier-2 promotion.** Latin body re-set verbatim from `raw/bonaventure_vol1_raw.txt` lines 14580–14818 (printed pp. 38–39 = PDF pp. 140–141, offset = printed + 102 in pt1). Apparatus rebuilt from raw OCR: page-38 footnotes 1–8 → [^1]–[^8]; page-39 footnotes 1–9 → [^9]–[^17] split into [^9]–[^18] (the prior chunk merged the last two p.39 entries, *Cod. cc scilicet quantum* and *Codd. F et I qui*, into a single [^17]; the OCR shows them as separate footnotes anchoring distinct lemmata — *secundum quod* in Ad 3, and *quae* in *ultimo fini, quae maxime habet finiendi rationem* — so the chunk now carries them as [^17] and [^18] respectively). Fresh literal English translation reviewed paragraph-for-paragraph; no fabrication of Latin from PDF, no paraphrase to recover from OCR difficulty. Anchor uncertainties logged in `manual-review/tier2-ambiguities-d1-a3-q1.md`.

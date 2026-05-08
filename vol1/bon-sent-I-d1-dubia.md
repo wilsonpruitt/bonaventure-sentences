@@ -8,10 +8,12 @@ title_la: "Dubia circa litteram Magistri — Distinctio I"
 title_en: "Doubts concerning the text of the Master — Distinction I"
 printed_pages: [42, 43, 44, 45]
 pdf_pages: [144, 145, 146, 147]
+line_start: 15262
+line_end: 15788
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 42–45"
 has_scholion: false
 has_apparatus: true
-transcription_status: "first-pass vision, pending final verification"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 15262–15788), fresh literal English translation, full apparatus from raw OCR (37 entries), [?] flags on ambiguous spots (2026-05-07)"
 format_version: 1
 ---
 
@@ -23,113 +25,119 @@ format_version: 1
 
 <!-- page 42 -->
 
-**DUBIA CIRCA LITTERAM MAGISTRI**
-
-In parte ista circa litteram quaeruntur plura, et primo de hoc quod dicit[^1]:
+**DUBIA CIRCA LITTERAM MAGISTRI.**
 
 ### Dub. I.
 
-*Earum vero quaedam sunt, quibus fruendum est, quaedam quibus utendum, quaedam quae fruuntur et utuntur.* — Contra: Omnia Sacramenta sunt medicinae et viae coniunctae; omne Sacramentum institutum est ad instructionem; sed medicina et via non sunt fructus, sed sunt in usu: ergo omnibus Sacramentis utendum, et nullo fruendum: ergo divisio illa non est sufficiens.
+In parte ista circa litteram quaeruntur plura, et primo de hoc quod dicit: *Eorum vero quaedam sunt, quorum usus omnis est in significando, non in iustificando.* Sed contra: Omnia Sacramenta sunt medicinae, quia secundum Hugonem de sancto Victore[^1] *Sacramenta omni tempore fuerunt medicinae*; sed omnis medicina habet effectum in curando: ergo et Sacramenta similiter; sed ista curatio est iustificatio: ergo omni tempore Sacramenta habuerunt iustificare.
 
-**Responsio.** Dicendum, quod duplex est contractus huius divisionis circa legis, scilicet veteris et novae. Nam veteris legis rationes sive signa ordinabantur in fidem venturorum, et sic Sacramenta sive signa *legalia* tantum erant ad utendum; Sacramenta vero novae legis et ordinantur in Deum et continent rem significatam, quae est gratia: ideo sunt etiam ad fruendum, non solum ad utendum.
+**Respondeo:** Dicendum, quod dupliciter est considerare Sacramenta veteris Legis, scilicet in se sive ratione operis operati; et sic erant tantum ad significandum; vel ratione fidei annexae sive caritatis sive ratione operis operantis; et sic erant ad iustificandum Sacramenta legalia, praeter Circumci[^2][?].
 
 ### Dub. II.
 
-*Omne igitur signum res est aliqua.* — Opponitur de his quae divina sunt: videtur enim, quod aliqua sint signa, et tamen res non sunt, ut divinarum personarum relationes; sunt enim quaedam signa significantia, et tamen, cum sint relationes, res non sunt: ergo propositio Magistri non est universaliter vera.
+*Omne igitur signum res est aliqua.* Opponitur de ista divisione. Videtur enim Magister male dividere, quia superius non dividitur contra suum inferius; sed res est superius ad signum: ergo etc.
 
-**Responsio.** Dicendum, quod *res* ibi non accipitur stricte pro eo quod est res per se existens, sed communiter, secundum quod quodlibet ens dicitur res. Unde sicut ens dividitur per praedicamenta decem et per substantiam et accidens, sic etiam res: unde relationes et significata et huiusmodi sunt res modo communi. Nec est inconveniens, rem esse signum alterius, quia hoc non excludit, quin sit res in se, sed dicit rem importare relationem ad aliud.
+**Respondeo:** Dicendum, quod verum est, quod superius in sua generalitate acceptum non dividitur contra suum inferius; sed contractum[^3] bene potest dividi. Hic autem *res*[^4] contrahitur ad standum pro re non significante.
 
 ### Dub. III.
 
-Item quaeritur de hoc quod Magister dicit[^2]: *Non autem e converso omnis res signum est alicuius.* — Sed contra: Omnis res creata habet rationem vestigii Dei; sed vestigium est signum: ergo omnis creata res est signum Dei: ergo propositio est falsa.
+Item quaeritur de hoc quod dicit Magister: *Non autem e converso omnis res signum.* Videtur enim male dicere, quia signum est quod ducit in aliud cognoscendum; sed omnis res ducit in aliud, quia omnis res est causa, vel effectus. Causa autem ducit in cognitionem effectus[^5] et e converso. Si dicas, quod non omne, quod ducit, est signum, sed quod ducit in prius; tunc omnis creatura est signum, cum ducat in Deum.
 
-**Responsio.** Dicendum, quod *signum* dupliciter accipitur: stricte, secundum quod signum est quod ex se ducit in cognitionem alterius ita quod principaliter id aliud significet; et sic non omnis res est signum. Alio modo accipitur large, secundum quod omnis creatura ducit in Deum; et sic omnis creatura est signum Dei, sed hoc est per modum vestigii, non per modum proprie dicti signi.
+**Respondeo:** Dicendum, quod duplex est signum, scilicet naturale et institutum. De primo non intenditur hic, sed de secundo; unde non valet obiectio ad propositum, quoniam hic[^6] intenditur de signo ex institutione, sicut sunt signa vocalia et sacramentalia.
 
 ### Dub. IV.
 
-Item videtur Magister male dicere in hoc quod dicit[^3]: *Primum de rebus, postea de signis.* Videtur enim e converso dicendum, quia per signa ducimur in res: ergo prius erat agendum de signis quam de rebus.
-
-**Responsio.** Dicendum, quod duplex est ordo: unus quoad *nos*, alius quoad ipsam rem. Quoad nos, prius est signum, quia per signa venimus in cognitionem rerum; sed quoad rem ipsam, res est prior, quia signum accipit esse suum a re quam significat. Unde Magister, quia intendit tractare secundum ordinem naturae et dignitatis, incipit a rebus; Augustinus vero in *Doctrina christiana*, quia intendit docere modum agendi et procedendi per signa, incipit a signis.
+Item videtur Magister male dicere in hoc quod dicit: *Primum de rebus, postea de signis.* Videtur enim dicere[^7] debuisse potius e converso, quia signum ducit in cognitionem rei: ergo prius esset agendum vel dicendum de signis quam de rebus.
 
 <!-- page 43 -->
 
+**Respondeo:** Dicendum, quod prior est cognitio signi quam rei, respectu cuius est signum; sed non oportet, quod omnis rei. Unde ipse primo agit de rebus, quarum sacramenta non sunt signa.
+
 ### Dub. V.
 
-Item videtur, quod ista divisio rerum — *Aliae sunt quibus fruendum, aliae quibus utendum* — sit mala, quia in malis significatis divisio non includitur: mala enim sunt res aliquae; sed malis nec fruendum est nec utendum, ut dictum est in quaestionibus praecedentibus: ergo ista divisio non est sufficiens.
+Item videtur, quod ista divisio rerum: *Aliae sunt quibus fruendum* etc., sit male assignata respectu divisi, quia divisum simplicius est dividentibus et dividentibus aliquid est[^8] commune; sed Deo nihil est simplicius nec est aliquid commune Deo et creaturae: ergo etc.
 
-**Responsio.** Dicendum, quod ista divisio non est rerum quantum ad nomen *tantum*, sed quantum ad nomen divisivae relationis ad voluntatem. Mala autem, quamvis sint res, non habent per se ordinem ad voluntatem; ordo enim rerum ad voluntatem est per modum boni, et per hoc a divisione excluduntur quae non sunt bona secundum se. Vel dici potest, quod sunt communiter res, et ratio divisionis est in communi.
+**Respondeo:** Dicendum, quod est divisio unius communis secundum nomen tantum; et sic est divisio aequivoci; est alia divisio communis secundum nomen et rem; et haec est divisio univoci; est etiam tertia medio modo; et ista est analogi, ubi non est communitas secundum unitatem naturae[^9], sed secundum similitudinem proportionis; et haec communitas est rationis.
 
 ### Dub. VI.
 
-Item videtur mala divisio quantum ad membra: videtur enim, quod tertium membrum sit superfluum. Nam, cum res, quae fruuntur et utuntur, aut fruuntur per se tantum aut utuntur per se tantum aut utrumque, et illud quod fruitur est et quod utitur, iam enumeratum: ergo tertium membrum nihil addit.
+Item videtur mala divisio quantum ad membra: videtur enim, quod tertium membrum sit superfluum. Omni enim re aut est utendum, aut fruendum: ergo tertium superfluit.
 
-**Responsio.** Dicendum, quod tertium membrum non coincidit cum aliis, nec naturaliter nec suppositive. Licet enim qui fruitur etiam utatur — ut dicit Christus *fruens* et *utens* —, non tamen est *idem secundum rationem*: aliud enim est fruibile, aliud utibile, et ideo qui fruitur et utitur constituit tertium membrum distinctum ab aliis.
+Item, sicut est res, quae fruitur et utitur, ita est res, qua fruendum est et utendum, ut Christus: ergo qua ratione ponitur[^10] tertium membrum, deberet poni quartum.
+
+**Respondeo:** Omnis res, quae est natura aliqua, aut est finis; et sic est res, qua fruendum; aut deducens ad finem; et sic est res, qua utendum; aut ad finem perveniens; et sic est res, quae fruitur et utitur, ut homo: et sic accipiuntur membra. Et est ista divisio satis conveniens huic scientiae, quia cum theologia sit de Creatore et de creaturis, utile est, ut theologus doceat, quomodo homo per alias res tendat in Deum.
 
 ### Dub. VII.
 
-Item opponitur de hoc quod dicit: *Res quibus fruendum.* — Videtur enim, quod tres sint per se res quibus fruendum, et sic diversitas et pluralitas fruitionum simpliciter fit: cum multiplicitas fruitionum sit ex parte rerum quibus fruendum, et sit ibi trinitas rerum, erit ibi trinitas fruitionum.
+Item opponitur de hoc quod dicit: *Res, quibus fruendum*; quia si[^11] tres sunt res per se et non per accidens, et a diversitate rerum est diversitas sive multiplicitas fruitionis: ergo sicut sunt tres res, sic erunt tres fruitiones.
 
-**Responsio.** Dicendum, quod non est ibi nisi una res accipienda communiter, et non sunt ibi nisi tres personae, non tres res, non tres fruitiones. Quia enim persona et natura non sunt ibi unum, sed *una natura* in *tribus personis*, ideo unus communiter et unitate naturae fruimur; secundum vero quod personae distinguuntur ab invicem, fruimur trium personarum distincte et nominatim in benedictione, et non communem vocamus ideo fruitio est *una*.
+Item, tres articuli sunt, quia[^12] de tribus personis: ergo a simili et tres fruitiones.
+
+**Respondeo:** Quod *res* accipitur hic communiter ad essentiam et personam propter sui generalitatem; et quia sumtum[^13] est hoc vocabulum *res* ab actu animae, ideo tres dicuntur res, quia tres personae, sed tamen una res, quia una bonitas est in eis. Quia ergo una bonitas, ideo et una fruitio, quamvis tres res. — Et quoniam articulus dicit quid a parte animae distinguentis, scilicet intellectus, et fruitio respicit ipsam[^14] divinam essentiam et bonitatem et unionem affectus communiter, ideo fruitio est una.
 
 ### Dub. VIII.
 
-Item obiicitur de hoc quod dicit: *Omnis qui fruitur, utitur.* — Videtur enim falsum, quoniam sunt aliqui qui fruuntur et non utuntur, sicut patet de delectatione in delectabili; aliquis enim potest delectari in delectabili et non uti ipso: ergo non omnis qui fruitur, utitur.
+Item obiicitur de hoc quod dicit: *Omnis, qui fruitur, utitur*; quia videtur falsum, quoniam stulti[^15] homines similiter et bestiae fruuntur, quia propter se delectantur in delectabili, sed non utuntur. Si dicas, quod dicitur translative; quare non similiter transfertur verbum *utendi*?
 
-**Responsio.** Dicendum, quod hoc intelligitur in sua generalitate: nam omnis qui fruitur sic vel sic ordinat affectum et ponit aliquid finem, et in ponendo finem utitur mediis. Unde omnis, quando aliquo fruitur, utitur illo in ordine ad se ipsum aut ad aliud; et qui non videtur uti, nihilominus utitur delectatione tamquam ultimo fine, et in hoc ipso consistit *abusio*, non proprie dicta *usus*.
+**Respondeo:** *Uti* importat libertatem in sua generali acceptione, in speciali importat libertatem cum relatione ad aliud; *frui* importat libertatem cum delectatione; et licet nec libertas nec collatio[^16] conveniat brutis, convenit eis tamen delectatio. Ideo *uti* nullo modo convenit brutis; *frui* autem convenit eis aliquo modo, licet improprie[^17].
 
 ### Dub. IX.
 
-Item videtur male dicere, quod *in homine quo possit frui*, quia de beata Virgine cantatur: *Vita, dulcedo et spes nostra*, et Ecclesia, quae non errat.
+Item videtur male dicere, quod *in homine spes ponenda non est*, quia[^18] de beata Virgine cantatur *Vita, dulcedo et spes* ab Ecclesia, quae non errat.
 
 <!-- page 44 -->
 
-**Responsio.** Dicendum, quod beata Virgo dicitur vita et spes nostra *propter fructum suum*, quem peperit mundo, non propter se ipsam simpliciter; et sic fruitio de ipsa refertur ad Christum, cuius ipsa est mater. Unde Ecclesia, cum eam vocat vitam et spem, non ponit eam in fine, sed indicat eam *viam* per quam ad finem pervenitur.
+Item, Ionae primo[^19]: *Accessit ad eum gubernator*; Glossa: «Naturale est homini magis de aliis quam de se in periculis confidere».
+
+**Respondeo:** Dicendum, quod sperare de aliquo est dupliciter, aut sicut de adiutore, aut sicut de salvatore. Prima spes potest esse in homine, secunda non. — Vel est sperare finale praemium; et hoc debet esse tantum in Deo; vel temporale beneficium; et hoc potest esse in homine. Primum si ponitur[^20] in homine, meretur maledictionem, secundum [?].
 
 ### Dub. X.
 
-Item quaeritur, quare dicit de homine: *Itaque fruitur*, vel *fruitur in Domino*, vel *fruitur Domino*, magis quam de alia creatura, cum rectius vestigium repraesentet et amor Dei.
+Item quaeritur, quare dicit de homine: *Itaque frater, ego fruar te in Domino*, magis quam de asino vel de alia creatura, cum in omnibus creaturis reluceat vestigium divinae bonitatis.
 
-**Responsio.** Dicendum, quod aliquid frui proprie, videlicet in Domino habitare et, ut frui in Domino, est hoc quod homo fruitur et per opera sciam, quem debet habitare in eo, et est figura locutionis.
+**Respondeo:** Quod dicatur[^21] aliquis aliquo frui in Deo, non facit repraesentatio, sed magis inhabitatio. Unde conversa est propria, videlicet haec: *Ego fruar Domino in te*, dum per opera sciam, Deum habitare in te; et est figurativa locutio.
 
 ### Dub. XI.
 
-Item quaeritur de hac solutione Augustini, qua solvit auctoritates praedictas per illam determinationem *in Domino*. Sed Deuteronomii vigesimo octavo[^4]: *Fruere magnalia*. Item, *Filios generabis et filias, ut non fruaris in eis*: ergo et ibi vocatur *frui*, sic quod non implicat, aut frui est, aut peccatum, aut actus fruitionis rectus.
+Item quaeritur de hac solutione Augustini, qua solvit auctoritatem praedictam per illam determinationem *in Domino*. Sed Ecclesiastici octavo[^22] simpliciter dicitur: *Fruere magnatis*. Item, Deuteronomii vigesimo octavo[^23]: *Filios generabis et filias, et non frueris eis*; ex hoc implicat, quod, si non peccarent, fruerentur.
 
-**Responsio.** Dicendum, quod solutio non est generalis, sed propositum intenditur; et per eas recurrendum est, ad quae generaliter praedicantur et unde ratio ipsa quaestionis et quae communiter de propria locutionibus scriptura communiter loqui.
+**Respondeo:** Dicendum, quod praedicta solutio non est generalis, sed solum ad propositam auctoritatem. Et ideo recurrendum est ad solutionem praedictam extra litteram in quaestionibus[^24], quod, cum *frui* accipiatur communiter et proprie, in praedictis locutionibus accipitur communiter tantum.
 
 ### Dub. XII.
 
-Item non videtur valere quod dicit Magister: *Si enim nec fruitur, nec utitur eis, quia Deus diligit, non autem tertium aliquo modo inveniri: ergo cum diligit, aut uti, aut frui oportet Deus.*
+Item non videtur valere quod dicit Magister: *Si enim nec fruitur, nec utitur* etc., quia Deus diligit se, non tamen utitur, quia non diligit se propter aliud; nec fruitur, quia ubi fruitio, ibi est inhaerentia et indigentia, ut dicit Augustinus[^25]; Deus autem utroque caret etc.
 
-**Responsio.** Dicendum, quod ratio huius consequentiae fundatur super quamdam causam: primum est, quia aut est cogitatio, aut est proxima ad actum; tertia, quia dispositio generalis, in qua consistit *vestigii ratio*: dicit enim respectum ad finem. Unde sicut Deus unus imprimit unitatem, ita bonus bonitatem.
+**Respondeo:** Dicendum, quod fruitio de sui generali ratione dicit amoris unionem, scilicet fruibilis cum fruente. Quoniam igitur contingit aliquid uniri sibi et alii, contingit non tantum frui alio, sed etiam se ipso; sed ubi est unio ad alterum, ibi est dependentia, inhaerentia et indigentia; ubi vero ad se ipsum, si ipsum est summum bonum, ibi[^26] non est inhaerentia nec dependentia vel indigentia, sed omnimoda sufficientia. Si vero ipsum bonum deficiens est, indiget; et inde est, quod solus Deus se ipso perfecte fruitur, nihil autem aliud ab ipso potest perfecte se ipso frui. Solus enim Deus est summum bonum et diligit se fruendo se, diligit etiam alia fruendo se: et ita nec fruitio Dei nec usus est cum indigentia, sicut nostra fruitio et usus.
 
 ### Dub. XIII.
 
-Item obiicitur de hoc quod dicit: *Quia bonus est, sumus*: ergo qui ab aeterno bonus erat, ab aeterno erimus.
+Item obiicitur de hoc quod dicit: *Quia bonus est, sumus*: ergo quia ab aeterno bonus est, ab aeterno sumus.
 
-**Responsio.** Dicendum, quod *quia bonus est, sumus* non solum causam naturalem et necessariam, et e converso, indicat *voluntariam*. Bonitas autem divina non causa naturali aut per modum voluntatis, non natura, habet quem ad esse per modum effectum statim, non tantum.
+**Respondeo:** Dicendum breviter, quod hoc est, quia *bonus* dicit causam[^27]. Sed est causa naturalis et necessaria, et causa voluntaria. Bonitas autem divina est causa nostri *esse* et *boni esse* per modum voluntatis, non naturae; haec autem causa non ponit effectum statim, cum est.
 
 ### Dub. XIV.
 
-Item, adhuc obiicitur, quare similiter non inquiritur: *Si dicam, quod bonus est hoc non sum dispositione in quantum cassa; sapientia ergo est dispositio Dei, in quantum sumus, sic et nos, valentes sumus.* Si dicam, quod non est via dispositio immediata, sicut est bonitas, sed per coniunctionem cum increata? In aeternum ergo bonitas in Deo, non propter se.
+Item, adhuc obiicitur, quare similiter non sequitur: *quia iustus est, iusti sumus*[^28]? Si dicas, quod iustitia non est eius dispositio in quantum causa; contra: sapientia est dispositio Dei in quantum causa: ergo pari ratione, quia sapiens est, sapientes sumus. Si tu dicas, quod non est dispositio immediata, sicut bonitas; obiicitur de voluntate, quae est immediatissima, et tamen non sequitur: quia volens est, volentes sumus.
 
-**Responsio.** Dicendum, quod ratio huius non sequitur: nam conditio causae in omniparibus causis, secundum quid est proxima ad actum; tertia, quia dispositio generalis, in qua consistit vestigii ratio: dicit enim respectum ad finem. Unde sicut Deus unus imprimit unitatem, ita bonus bonitatem.
+**Respondeo:** Dicendum, quod ratio huius consequentiae triplex est. Una est, quia bonitas est conditio causae in quantum causa; secunda est, quia
 
 <!-- page 45 -->
+
+est proxima ad actum[^29]; tertia, quia dispositio generalis, in qua consistit vestigii ratio; dicit enim respectum ad finem. Unde sicut Deus unus imprimit unitatem, ita bonus bonitatem.
 
 ### Dub. XV.
 
 Item obiicitur de hoc quod dicitur: *Ut scilicet ametur propter se ipsam tantum*, quia sicut *per se* ad *per accidens*, ita *propter se* ad *propter aliud*. Sed nihil, quod convenit alicui per accidens, convenit per se: ergo nihil, quod convenit alicui propter aliud, convenit propter se. Si ergo virtutes sunt appetendae propter aliud, non ergo propter se.
 
-**Responsio.** Sicut dicit Philosophus[^5]: «Idem est finis et *propter quod*». Finis autem dupliciter est: uno modo *finis ultimus*, qui propriissime est finis, in quo est status; alio modo *finis sub fine*, qui dicitur proprie *terminus*. Sic et *propter quod* diversificatur; unde uno modo excludit finem, alio modo non, ut dicit Magister.
+**Respondeo:** Sicut dicit Philosophus[^30], «Idem est finis et *propter quod*». Finis autem dupliciter est: uno modo *finis ultimus*, qui propriissime est finis, in quo est status; alio modo *finis sub fine*, qui[^31] dicitur proprie *terminus*. Sic et *propter quod* diversificatur; unde uno modo excludit finem, alio modo non, ut dicit Magister.
 
-Quod ergo obiicitur de *per se*: dico, quod sicut *per se* uno modo opponitur ei quod est *per aliud* — et sic idem est *per se* et *secundum quod ipsum* sive *primum universale*[^6] —, alio modo opponitur ei quod est *per accidens*: sic et *propter se* dupliciter accipitur. Uno modo opponitur ei quod est *propter aliud*; alio modo ei quod est *per accidens*, quia ad illud accidentaliter ordinatur. Secundum hoc distinguit Magister *propter se*, et consequenter *honestum* sive *fruibile*, et ipsam denique fruitionem.
+Quod ergo obiicitur de *per se*; dico, quod, sicut *per se* uno modo opponitur ei quod est *per aliud* — et sic idem est *per se* et *secundum quod ipsum*, sive *primum universale*[^32] — alio modo opponitur ei quod est *per accidens*: sic et *propter se* dupliciter accipitur. Uno modo opponitur ei quod est *propter aliud*, alio modo ei quod est *per accidens*, quia[^33] ad illud accidentaliter ordinatur. Secundum hoc distinguit Magister *propter se*, et consequenter *honestum* sive *fruibile*, et ipsam denique fruitionem[^34].
 
 ### Dub. XVI.
 
-Item obiicitur de hoc quod dicit: *Et quaedam sunt res per quas fruimur, ut virtutes.* — Videtur, quod solis potentiis possit frui anima. Sine omni enim virtute potest frui bono creato; ergo cum magis sit fruibile bonum increatum, et anima magis ad hoc nata est, poterit eo frui solis potentiis.
+Item obiicitur de hoc quod dicit: *Et quaedam sunt res, per quas fruimur, ut virtutes.* Videtur quod solis potentiis possit frui anima[^35]. Sine omni enim virtute potest frui bono creato; ergo cum magis sit fruibile bonum increatum, et anima magis ad hoc nata est, poterit eo frui solis potentiis.
 
-**Responsio.** Dicendum, quod summum bonum est quod supra nos est; ad hoc ergo, quod illi uniamur, necessario intervenit duplex *medium*: medium unum, per quod anima nata est uniri alii a se diverso — et hoc est *potentia*; aliud *speciale* supra hoc, quod ipsam sublevet — et hoc est *virtus*. Quod obiicitur non est simile, quia potentia per se potest deficere et inclinari, sed non per se elevari.
+**Respondeo:** Dicendum, quod summum bonum est quod supra nos est; ad hoc ergo, quod illi uniamur, necessario intervenit duplex *medium*: medium unum, per quod anima nata est uniri alii a se diverso; et hoc est *potentia*; aliud *speciale*[^36] supra hoc, quod ipsam sublevet; et hoc est *virtus*. Quod obiicitur non est simile, quia potentia per se potest deficere et inclinari, sed non per se elevari[^37].
 
 ---
 
@@ -137,113 +145,119 @@ Item obiicitur de hoc quod dicit: *Et quaedam sunt res per quas fruimur, ut virt
 
 <!-- page 42 -->
 
-**Doubts concerning the text of the Master**
+**Doubts concerning the text of the Master.**
 
-In this portion, several questions are raised about the text. First, concerning what the Master says[^1]:
+### Dub. I.
 
-### Doubt 1.
+In this part, several questions are raised concerning the text, and first about what [the Master] says: *"Of these, however, certain ones are such that all their use is in signifying, not in justifying."* But on the contrary: All the Sacraments are medicines, since according to Hugh of Saint-Victor[^1], *the Sacraments in every age were medicines*; but every medicine has its effect in curing: therefore the Sacraments likewise; but this curing is justification: therefore in every age the Sacraments had [the power] to justify.
 
-*"Some [things] are to be enjoyed, some are to be used, and some both enjoy and use."* — **Against:** All the Sacraments are medicines, and means joined [to the end]; every Sacrament is instituted for instruction. But medicine and a means are not the fruit, but belong to use. Therefore all the Sacraments are to be used and none enjoyed; hence the Master's threefold division is insufficient.
+**I respond:** It must be said that the Sacraments of the Old Law are to be considered in two ways: namely, in themselves or by reason of the work-worked (*opus operatum*); and in this respect they were only for signifying; or by reason of the faith adjoined, or charity, or by reason of the work-working (*opus operans*); and in this respect the legal Sacraments were for justifying — except Circumci[^2][?].
 
-**Reply.** A twofold account must be given of this division, for the two laws — the Old and the New. Under the Old Law, the sacraments or signs were ordered to faith in what was to come, and so the legal sacraments or signs were only for use. But the sacraments of the New Law are both ordered *to God* and *contain* the thing signified — namely, grace; and so they are also for *enjoyment*, not only for use.
+### Dub. II.
 
-### Doubt 2.
+*"Every sign, therefore, is a thing of some sort."* An objection is raised concerning this division. For it seems that the Master divides badly, since a higher [genus] is not divided against its lower [species]; but *thing* is higher than *sign*: therefore etc.
 
-*"Every sign, therefore, is a thing of some sort."* — One may object from what pertains to divine things: it seems that some things are signs and yet not *things* — for example, the relations among the divine persons; for they are certain significant signs and yet, being relations, are not things: therefore the Master's proposition is not universally true.
+**I respond:** It must be said that it is true that a higher [genus], taken in its generality, is not divided against its lower [species]; but when contracted[^3] it can well be divided. Here, however, *thing*[^4] is contracted to stand for a non-signifying thing.
 
-**Reply.** "Thing" (*res*) is not taken here strictly, for what is a thing existing in itself, but commonly, according as any being is called a thing. Just as "being" is divided by the ten categories and by substance and accident, so also is "thing." Hence relations and significates and the like are things in the common sense. Nor is there anything incongruous in a thing's being a sign of something else, since this does not exclude its being a thing in itself — it only says that the thing involves a relation toward something other.
+### Dub. III.
 
-### Doubt 3.
+Likewise, a question is raised about what the Master says: *"Not, however, conversely, is every thing a sign."* For it seems he speaks badly, since a sign is what leads to the knowledge of another; but every thing leads to another, since every thing is either a cause or an effect. A cause leads to the knowledge of an effect[^5], and conversely. If you say that not everything that leads is a sign, but [only] what leads to what is prior, then every creature is a sign, since it leads to God.
 
-Again, the question is asked concerning what the Master says[^2]: *"Not every thing, however, is a sign of something."* — **Against:** Every created thing has the character of a vestige of God; but a vestige is a sign; therefore every created thing is a sign of God; therefore the proposition is false.
+**I respond:** It must be said that there are two kinds of sign, namely natural and instituted. The first is not the topic here, but the second; whence the objection is not valid against the proposition, since here[^6] the discussion is of a sign by institution, such as vocal and sacramental signs.
 
-**Reply.** "Sign" is taken in two ways. *Strictly*, a sign is that which of itself leads to the knowledge of another in such a way that what it principally signifies is that other — and in this sense not every thing is a sign. *Broadly*, it is taken insofar as every creature leads toward God — and in this sense every creature is a sign of God, but by way of *vestige*, not as a sign properly so called.
+### Dub. IV.
 
-### Doubt 4.
-
-Again, the Master seems to speak badly in saying[^3]: *"First concerning things, afterwards concerning signs."* For it seems that the reverse order is required, since we are led to things *through* signs: therefore signs should be treated before things.
-
-**Reply.** There are two orders: one with respect to *us*, another with respect to the thing itself. With respect to us, the sign comes first, since we arrive at the knowledge of things through signs; but with respect to the thing itself, the thing is prior, since the sign takes its being from the thing it signifies. Therefore the Master — since he intends to treat things in the order of nature and dignity — begins with things; Augustine, by contrast, in *On Christian Doctrine* — since he intends to teach the manner of proceeding through signs — begins with signs.
+Likewise, the Master seems to speak badly in saying: *"First concerning things, afterwards concerning signs."* For it seems he ought rather to have said[^7] the converse, since a sign leads to the knowledge of a thing: therefore one should treat or speak of signs before things.
 
 <!-- page 43 -->
 
-### Doubt 5.
+**I respond:** It must be said that the cognition of a sign is prior to that of the thing of which it is a sign; but it is not necessary [that it be prior to the cognition] of every thing. Whence he himself first treats of things of which the sacraments are not signs.
 
-Again, the division of things — *"some are to be enjoyed, others used"* — seems flawed, since *evil* things are not included in it: for evils are certain things, but evils are neither to be enjoyed nor to be used (as was said in the preceding questions): therefore the division is insufficient.
+### Dub. V.
 
-**Reply.** This division is not a division of things *as things*, but of things *as they are related to the will*. Evils, although they are things, have no ordering *per se* toward the will; for the ordering of things toward the will is *by way of the good*, and this excludes from the division whatever is not good in itself. Or it may be said that things are here taken in a general sense, and the ground of the division is taken *in common*.
+Likewise, it seems that this division of things — *"Some are to be enjoyed,"* etc. — is badly assigned with respect to what is divided, because what is divided is simpler than the dividing members, and there is something[^8] common to the dividing members; but nothing is simpler than God, nor is there anything common to God and creature: therefore etc.
 
-### Doubt 6.
+**I respond:** It must be said that there is a division of one thing common in name only; and this is the division of the equivocal; there is another division [of what is] common in name and in reality; and this is the division of the univocal; there is also a third in an intermediate manner; and this is the division of the analogical, where there is no community according to unity of nature[^9], but according to a likeness of proportion; and this community is one of reason.
 
-Again, the division seems faulty in its *members*: the third member seems superfluous. For since the things that "both enjoy and use" either enjoy only, or use only, or do both — and in either of those cases they are already enumerated — : therefore the third member adds nothing.
+### Dub. VI.
 
-**Reply.** The third member does not coincide with the others, either naturally or supposititiously. For although the one who enjoys also uses — as Christ is said to *enjoy* and *use* — nevertheless these are not *the same in notion*: enjoyable is one thing, usable another, and therefore the one who enjoys *and* uses constitutes a third member distinct from the other two.
+Likewise, the division seems faulty as regards its members: for the third member seems superfluous. For every thing is either to be used or to be enjoyed: therefore the third is superfluous.
 
-### Doubt 7.
+Likewise, just as there is a thing that enjoys and uses, so there is a thing that is to be enjoyed and used, like Christ: therefore by the same reasoning by which a third member is posited[^10], a fourth ought to be posited.
 
-Again, an objection is raised concerning what he says: *"Things by which [we are] to enjoy."* — For it seems that there are three things *in themselves* to be enjoyed, and so there is a diversity and plurality of enjoyments without qualification: since the multiplicity of enjoyments would derive from the side of the things to be enjoyed, and there is a trinity of things, there will be a trinity of enjoyments.
+**I respond:** Every thing that is some nature is either an end; and so it is the thing by which one is to enjoy; or [a thing] leading to the end; and so it is the thing by which one is to use; or [a thing] arriving at the end; and so it is the thing that enjoys and uses, like man: and thus the members are taken. And this division is sufficiently fitting to this science, since, as theology is concerned with the Creator and creatures, it is useful that the theologian teach how man tends toward God through other things.
 
-**Reply.** There is only *one thing* taken commonly, not three: for the three persons are not three things, not three enjoyments. Since person and nature are not there one and the same, but *one nature in three persons*, we enjoy [God] *commonly* and by way of the unity of his nature; but inasmuch as the persons are distinguished from one another, we enjoy the three persons *distinctly and by name* in our benediction — and we do not call this a common enjoyment. Therefore enjoyment is *one*.
+### Dub. VII.
 
-### Doubt 8.
+Likewise, an objection is raised concerning what he says: *"Things by which we are to enjoy"*; since if[^11] there are three things *per se* and not *per accidens*, and from the diversity of things comes the diversity or multiplicity of enjoyment: therefore as there are three things, so there will be three enjoyments.
 
-Again, an objection is raised about: *"Everyone who enjoys also uses."* — For it seems false, since there are some who enjoy and do not use — as is clear in the case of delight in a delightful thing: one can be delighted in a delightful thing without using it: therefore not everyone who enjoys uses.
+Likewise, there are three articles, since[^12] [they are] of three persons: therefore by parity there are three enjoyments.
 
-**Reply.** This is meant in its general sense. For everyone who enjoys, in one way or another, orders his affection and sets up something as *end*; and in positing an end, one uses the means [to it]. Hence whenever one enjoys something, he uses it *in reference to himself or to something else*. And one who *seems* not to use is nonetheless using his delight as if it were his ultimate end — and this is precisely *abuse*, not properly called *use*.
+**I respond:** That *thing* is here taken commonly for both essence and person, on account of its generality; and since this word *thing* is taken[^13] from an act of the soul, therefore three are called things, since [there are] three persons, but nevertheless [it is] one thing, since one goodness is in them. Since therefore [there is] one goodness, [there is] also one enjoyment, although three things. — And since *article* signifies something on the side of the soul that distinguishes — namely, the intellect — and enjoyment regards the[^14] divine essence itself and goodness and the union of affection commonly, therefore enjoyment is one.
 
-### Doubt 9.
+### Dub. VIII.
 
-Again, it seems wrong to say that *"no human being can be enjoyed,"* since the Church sings of the Blessed Virgin: *"Our life, our sweetness, and our hope"* — and the Church does not err.
+Likewise, an objection is raised concerning what he says: *"Everyone who enjoys, uses"*; since this seems false, because foolish[^15] men, and likewise beasts, enjoy, since they take pleasure in something delightful for its own sake, but they do not use. If you say that this is said by transference (*translative*), why is the verb *to use* not similarly transferred?
+
+**I respond:** *To use* implies liberty in its general acceptance; in its special [acceptance] it implies liberty with reference to another; *to enjoy* implies liberty with delight; and although neither liberty nor comparing[^16] (*collatio*) belongs to brutes, nevertheless delight does belong to them. Therefore *to use* belongs in no way to brutes; *to enjoy*, however, belongs to them in some way, although improperly[^17].
+
+### Dub. IX.
+
+Likewise, [the Master] seems to speak badly in saying that *"hope is not to be placed in man,"* since[^18] of the Blessed Virgin the Church — which does not err — sings, *"Life, sweetness, and hope."*
 
 <!-- page 44 -->
 
-**Reply.** The Blessed Virgin is called our life and hope *on account of her fruit* — the one she bore to the world — not on account of herself simply; and so the enjoyment regarding her is referred to Christ, whose mother she is. Hence when the Church calls her our life and our hope, she does not place her at the end but signifies her as the *way* by which we reach the end.
+Likewise, Jonah 1[^19]: *"The pilot came to him"*; the Gloss: «It is natural for a man, in dangers, to have more confidence in others than in himself».
 
-### Doubt 10.
+**I respond:** It must be said that to hope from someone is twofold: either as from a helper, or as from a savior. The first hope can be in man; the second cannot. — Or it is to hope for the final reward; and this should be only in God; or for a temporal benefit; and this can be in man. The first, if it is placed[^20] in man, deserves a curse; the second [does not] [?].
 
-Again, the question is asked: why does [Augustine] say of man *"thus he enjoys,"* or *"he enjoys in the Lord,"* or *"he enjoys the Lord,"* rather than of some other creature, since that creature may represent the character of goodness and of the love of God more clearly?
+### Dub. X.
 
-**Reply.** To enjoy [a man] properly — namely, to dwell in the Lord, and so to enjoy in the Lord — is this: that a man enjoys by works he understands, who ought to dwell in [the Lord]; and this is a *figure of speech*.
+Likewise, the question is raised: why does [the Master] say of man, *"Therefore, brother, may I enjoy you in the Lord,"* rather than of an ass or of any other creature, since in all creatures the vestige of divine goodness shines forth?
 
-### Doubt 11.
+**I respond:** That[^21] one is said to enjoy someone in God, [this] is not done by representation, but rather by indwelling. Whence the converse is proper, namely this: *"May I enjoy the Lord in you,"* insofar as I know through your works that God dwells in you; and this is a figurative expression.
 
-Again, the question is raised concerning this solution of Augustine's, by which he resolves the preceding authorities through the qualification *"in the Lord."* But Deuteronomy 28[^4]: *"You shall enjoy great things."* Likewise: *"You shall beget sons and daughters, that you may not enjoy them"*: therefore in these places too the word *enjoy* is used — yet without implying either that *enjoy* is a sin or that the act of enjoyment is upright.
+### Dub. XI.
 
-**Reply.** The solution is not general, but directed to the proposition at hand; and one must have recourse to the way in which these expressions are generally predicated, and to the fact that Scripture frequently uses ordinary figures of speech.
+Likewise, the question is raised concerning this solution of Augustine, by which he resolves the aforesaid authority through that determination *"in the Lord."* But Ecclesiasticus 8[^22] simply says: *"Enjoy great men"* (*Fruere magnatis*). Likewise, Deuteronomy 28[^23]: *"You shall beget sons and daughters, and you shall not enjoy them"*; from this it is implied that, if they had not sinned, they would have enjoyed [them].
 
-### Doubt 12.
+**I respond:** It must be said that the aforesaid solution is not general, but only [applies] to the proposed authority. And therefore one must have recourse to the solution previously given outside the text, in the [main] questions[^24]: that since *to enjoy* is taken commonly and properly, in the aforementioned expressions it is taken commonly only.
 
-Again, what the Master says seems not to hold: *"If [man] neither enjoys nor uses [God] — since God loves [him] — , no third option is found; therefore he must either use or enjoy God."*
+### Dub. XII.
 
-**Reply.** The reason for this consequence rests on a certain ground: first, there is either a thought [about God] or a nearness to the act [of enjoyment]; third, there is a general disposition in which the character of a *vestige* consists — for it bears a relation to an end. Hence, just as the one God impresses unity, so as good he impresses goodness.
+Likewise, what the Master says does not seem to hold: *"For if [a man] neither enjoys nor uses,"* etc.; for God loves Himself, yet does not use [Himself], since He does not love Himself for the sake of another; nor does He enjoy [Himself], since where there is enjoyment, there is inherence and need (*indigentia*), as Augustine says[^25]; God, however, lacks both, etc.
 
-### Doubt 13.
+**I respond:** It must be said that enjoyment, in its general account, expresses the union of love, namely of the enjoyable with the one enjoying. Since, therefore, it happens that something is united to itself and to another, it happens that one not only enjoys another, but also oneself; but where there is union to another, there is dependence, inherence, and need; whereas where [there is union] to oneself — if oneself is the highest good — there[^26] is no inherence, nor dependence, nor need, but every kind of sufficiency. But if the good itself is deficient, it is in need; and hence it is that God alone enjoys Himself perfectly, while nothing other than Him is able to enjoy itself perfectly. For God alone is the highest good, and He loves Himself by enjoying Himself; He also loves other things by enjoying Himself: and so neither God's enjoyment nor His use involves need, as our enjoyment and use [do].
 
-Again, an objection is raised from what he says: *"Because God is good, we exist."* — Therefore since God was good from eternity, we also were from eternity.
+### Dub. XIII.
 
-**Reply.** The statement *"because God is good, we exist"* does not express only a *natural and necessary cause* — nor conversely — but indicates a *voluntary* one. For divine goodness does not operate by the mode of a natural cause; rather it produces its effect by way of the will, not of nature, and so does not produce the effect at once in every case.
+Likewise, an objection is raised concerning what he says: *"Because [God] is good, we exist"*: therefore, because He is good from eternity, we exist from eternity.
 
-### Doubt 14.
+**I respond:** It must be said briefly that this [is so] because *good* expresses a cause[^27]. But there is a natural and necessary cause, and a voluntary cause. Now, divine goodness is the cause of our *being* and *being good* by way of will, not of nature; and such a cause does not produce its effect immediately when it exists.
 
-Again, the further objection is raised: why is it not asked in the same way, *"If I say that God is good, this is not a disposition insofar as it is empty — for wisdom is a disposition of God insofar as we ourselves are wise?"* If, then, I say that this is *not* an immediate disposition in the way that goodness is, but [occurs] by way of conjunction with what is uncreated — is goodness in God from all eternity, then, not by way of himself?
+### Dub. XIV.
 
-**Reply.** The consequence does not follow. For the condition of a cause among causes of the same rank is, according to what is proximate to the act, of one kind; and, third, there is a general disposition in which the character of a vestige consists — for it bears a relation to an end. Hence, just as the one God impresses unity, so as good he impresses goodness.
+Likewise, the further objection is raised: why does it not similarly follow, *"Because [God] is just, we are just"*[^28]? If you say that justice is not His disposition insofar as [He is] cause; on the contrary: wisdom is the disposition of God insofar as [He is] cause: therefore by parity of reasoning, because He is wise, we are wise. If you say that it is not an immediate disposition, as goodness is; the objection is raised about the will, which is most immediate, and yet it does not follow: because He is willing, we are willing.
+
+**I respond:** It must be said that the reason for this consequence is threefold. One [reason] is, that goodness is the condition of a cause insofar as cause; the second is, that
 
 <!-- page 45 -->
 
-### Doubt 15.
+[goodness] is most proximate to act[^29]; the third, that [it is] a general disposition in which the character of a vestige consists; for it expresses a relation to an end. Whence, just as the one God impresses unity, so as good He impresses goodness.
 
-Again, an objection is raised about: *"That [virtue] may be loved for its own sake alone."* For just as *per se* is to *per accidens*, so *propter se* is to *propter aliud*. But nothing which belongs to something *per accidens* belongs to it *per se*: therefore nothing which belongs to something *propter aliud* belongs to it *propter se*. If, then, the virtues are to be desired *on account of another*, they are not to be desired *on account of themselves*.
+### Dub. XV.
 
-**Reply.** As the Philosopher says[^5]: *"The end and the 'that for the sake of which' are the same."* But an *end* is twofold. In one way, the *ultimate end*, which is most properly the end, in which there is rest; in another way, a *subordinate end* (*finis sub fine*), which is properly called a *terminus*. So too *propter quod* is diversified: in one way it excludes [any further] end; in another way it does not, as the Master says.
+Likewise, an objection is raised about what is said: *"That [virtue], namely, may be loved for its own sake alone,"* since just as *per se* [is] to *per accidens*, so *propter se* [is] to *propter aliud*. But nothing that belongs to something *per accidens* belongs *per se*: therefore nothing that belongs to something *propter aliud* belongs *propter se*. If, then, virtues are to be desired for the sake of another, they are not [to be desired] for their own sake.
 
-As to the objection from *per se*: I say that just as *per se* in one sense is opposed to *per aliud* — and in that sense the *per se* is identical with what belongs to a thing *secundum quod ipsum*, or as a *primum universale*[^6] — and in another sense is opposed to *per accidens*, so *propter se* is taken in two ways. In one way it is opposed to *propter aliud*; in another way it is opposed to *per accidens*, because [what belongs *propter aliud*] is ordered to that other *accidentally*. According to this, the Master distinguishes *propter se*, and consequently the *upright* or the *enjoyable*, and finally *enjoyment* itself.
+**I respond:** As the Philosopher says[^30], «The end and the *propter quod* are the same». But end is twofold: in one way the *ultimate end*, which is most properly an end, in which there is rest; in another way an *end-under-an-end*, which[^31] is properly called *terminus*. So too *propter quod* is diversified: whence in one way it excludes [a further] end, in another way not, as the Master says.
 
-### Doubt 16.
+As to the objection raised concerning *per se*: I say that, just as *per se* in one way is opposed to that which is *through another* — and so *per se* is the same as *secundum quod ipsum*, or *primum universale*[^32] — and in another way is opposed to that which is *per accidens*: so also *propter se* is taken in two ways. In one way it is opposed to that which is *propter aliud*; in another way to that which is *per accidens*, since[^33] it is ordered to that [other] accidentally. According to this, the Master distinguishes *propter se*, and consequently the *upright* (*honestum*) or the *enjoyable* (*fruibile*), and finally enjoyment itself[^34].
 
-Again, an objection is raised concerning: *"There are also certain things through which we enjoy [God] — namely, the virtues."* It seems that the soul could enjoy [God] *by its powers alone*. For without any virtue at all the soul can enjoy a created good; therefore, since the uncreated good is all the more enjoyable, and the soul is all the more born for this, it will be able to enjoy it by the powers alone.
+### Dub. XVI.
 
-**Reply.** The highest good is that which is *above* us. In order that we be united to it, a twofold *medium* is necessarily required. The first is that by which the soul is naturally fitted to be united to something other than itself — and this is *power*; the second is a *special* medium beyond this, which elevates the soul — and this is *virtue*. The objection does not hold, because a power of itself can fail and be inclined downward, but it cannot of itself be *elevated*.
+Likewise, an objection is raised concerning what he says: *"And there are certain things through which we enjoy [God], namely the virtues."* It seems that the soul could enjoy [the highest good] by its powers alone[^35]. For without any virtue [the soul] can enjoy a created good; therefore, since the uncreated good is more enjoyable, and the soul is more born for this, it will be able to enjoy it by powers alone.
+
+**I respond:** It must be said that the highest good is what is above us; in order, then, that we be united to it, a twofold *medium* necessarily intervenes: one medium, by which the soul is born to be united to something other than itself; and this is *power* (*potentia*); another, *special*[^36] [medium] above this, which lifts it up; and this is *virtue* (*virtus*). The objection is not parallel, since power of itself can fail and be inclined [downward], but cannot of itself be elevated[^37].
 
 ---
 
@@ -251,36 +265,162 @@ Again, an objection is raised concerning: *"There are also certain things throug
 
 > The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering.
 
-[^1]: **La** — *Scilicet in littera Magistri, d. 1, c. 3 (Quaracchi p. 27). — Eadem divisio recurrit apud Aug., De doctr. christ. I, c. 3, n. 3.*<br>
-      **En** — Namely in the text of the Master (Peter Lombard), d. 1, ch. 3 (Quaracchi p. 27). — The same division recurs in Augustine, *On Christian Doctrine* I, ch. 3, n. 3.
+[^1]: **La.** Libr. I. de Sacram. p. 8. c. 12. (ed. Paris. 1526): *Si quis igitur quaerat tempus institutionis Sacramentorum, sciat, quia quamdiu morbus est, tempus medicinae est.*
 
-[^2]: **La** — *Magister, Sent. I, d. 1, c. 1 (Quaracchi p. 26).*<br>
-      **En** — Peter Lombard, *Sent.* I, d. 1, ch. 1 (Quaracchi p. 26).
+    **En.** [Hugh of Saint-Victor], *De Sacramentis*, bk. I, pt. 8, ch. 12 (Paris ed. 1526): *"If, therefore, anyone should ask about the time of the institution of the Sacraments, let him know that as long as there is disease, it is the time of medicine."*
 
-[^3]: **La** — *Ibidem. — Cf. et Aug., De doctr. christ. I, c. 2, n. 2.*<br>
-      **En** — Ibid. — Cf. also Augustine, *On Christian Doctrine* I, ch. 2, n. 2.
+[^2]: **La.** Cod. Z addit: *supple, quae non tantum erat ad significandum ratione operis operati, sed ad iustificandum.*
 
-[^4]: **La** — *Deut. 28, 41. — Idem loquendi modus frequens in Vet. Test., videsis Os. 9, 11; Eccli. 8, 9.*<br>
-      **En** — Deut. 28:41. — The same manner of speaking is frequent in the Old Testament; see Hos. 9:11; Sir. 8:9.
+    **En.** Codex Z adds: *"supply: [the legal sacraments,] which were not only for signifying by reason of the work-worked, but also for justifying."* — [The OCR at the end of Dub. I body breaks off mid-word at "Circumci–"; the apparatus shows codex Z's continuation, and the printed Quaracchi here likely reads "praeter Circumcisionem" with a footnote referring to the codex variant. [?] flagged because the body is truncated in the OCR.]
 
-[^5]: **La** — *Cf. Arist., Phys. II, c. 3, n. 6; et Eth. Nic. I, c. 1, n. 1.*<br>
-      **En** — Cf. Aristotle, *Physics* II, ch. 3, n. 6; and *Nicomachean Ethics* I, ch. 1, n. 1.
+[^3]: **La.** Hoc est, si genus per differentiam ad speciem contrahitur.
 
-[^6]: **La** — *Arist., Anal. post. I, c. 4, n. 1. Cf. et S. Thom. in commentario ad hunc locum, ubi distinguit quatuor modos per se praedicandi, quorum primus est quando praedicatum est de ratione subiecti, secundus cum praedicatum ex principiis subiecti causatur, tertius cum subiectum ponitur in definitione praedicati, quartus cum praedicatum dicitur per causam efficientem.*<br>
-      **En** — Aristotle, *Posterior Analytics* I, ch. 4, n. 1. Cf. also Thomas Aquinas, *Commentary* on the same passage, where he distinguishes four modes of *per se* predication: (1) when the predicate belongs to the definition of the subject; (2) when the predicate is caused by the principles of the subject; (3) when the subject is placed in the definition of the predicate; (4) when the predicate is said by way of efficient cause.
+    **En.** That is, when a genus is contracted to a species through a [specific] difference.
+
+[^4]: **La.** Codd. LO satis bene: *Sic est hic, et res contrahitur.*
+
+    **En.** Codices L and O quite well [read]: *"So it is here, and the thing is contracted."*
+
+[^5]: **La.** Plures codd. ut ACLORTWX etc. indebite omittunt: *causa autem ducit in cognitionem effectus.*
+
+    **En.** Many codices, such as A C L O R T W X etc., improperly omit: *"and a cause leads to the knowledge of an effect."*
+
+[^6]: **La.** Contradicentibus codd. et edd. 1, 2, 3, perperam Vat. loco *hic* habet *hoc* et post *sacramentalia* superflue addit *tale ergo signum non est omnis res; licet omnis res sit signum primo modo*.
+
+    **En.** Against the codices and editions 1, 2, 3, the Vatican edition wrongly has *hoc* in place of *hic*, and after *sacramentalia* superfluously adds: *"such a sign, therefore, is not every thing; although every thing is a sign in the first mode."*
+
+[^7]: **La.** Multi codd. ut ACFGKLOUWX etc. cum edd. 1, 2, 3, 6 *dixisse*.
+
+    **En.** Many codices, such as A C F G K L O U W X etc., together with editions 1, 2, 3, 6, [read] *dixisse* [for *dicere*].
+
+[^8]: **La.** Praeferimus lectionem mss. et edd. 1, 2, 3 lectioni Vat. *divisum debet esse* loco *aliquid est*, utpote subnexis conformiorem.
+
+    **En.** We prefer the reading of the manuscripts and of editions 1, 2, 3 to the Vatican edition's *"the divided ought to be"* in place of *"there is something"*, as more conformable to what follows.
+
+[^9]: **La.** Ex fere omnibus mss. et ed. 1, 2, 3 emendavimus interpolationem Vat.: *est tertia medio modo, et ista est analogi, sicut ista est, ubi non est communitas creaturae et Creatori secundum naturae participationem, sed.* Deinde in fine responsionis codd. DIXY ee addunt *et per hoc patet responsio, quia obiectio procedit de divisione univoci; haec autem divisio est analogi.* Placet haec additio, utpote continens applicationem principii. Cfr. supra a. 3. q. 1. ad 1.
+
+    **En.** From nearly all the manuscripts and editions 1, 2, 3 we have emended the Vatican edition's interpolation: *"there is a third in an intermediate mode, and this is [the division] of the analogical, as this one is, where there is no community of creature and Creator according to participation of nature, but..."* Then at the end of the response, codices D, I, X, Y, ee add: *"and through this the response is clear, because the objection proceeds from the division of the univocal; this division, however, is of the analogical."* This addition is acceptable, as containing an application of the principle. Cf. above, art. 3, q. 1, ad 1.
+
+[^10]: **La.** Refragantibus mss. et ed. 1, habet Vat. *ponit*. Cod. dd omittit *ut Christus* et deinde legit *ergo tertium superfluit, vel qua ratione*.
+
+    **En.** Against the manuscripts and edition 1, the Vatican edition has *ponit*. Codex dd omits *"like Christ"* and then reads: *"therefore the third is superfluous, or by what reasoning..."*
+
+[^11]: **La.** Supplevimus ex mss. et ed. 1 *si*. Paulo post cod. R *ad diversitatem* loco *a diversitate*.
+
+    **En.** We have supplied *si* ("if") from the manuscripts and edition 1. Shortly after, codex R [reads] *ad diversitatem* in place of *a diversitate*.
+
+[^12]: **La.** Contra codd. omittit Vat. *quia*.
+
+    **En.** Against the codices, the Vatican edition omits *quia*.
+
+[^13]: **La.** Vat. contra mss. et edd. 1, 2, 3 *assumtum* et paulo infra post *tamen* addit *aeque bene*.
+
+    **En.** The Vatican edition, against the manuscripts and editions 1, 2, 3, [reads] *assumtum*, and a little later after *tamen* adds *aeque bene*.
+
+[^14]: **La.** Fide fere omnium codd. et edd. 1, 2, 3 suffecimus *ipsam* et paulo infra pro *effectus* posuimus *affectus*.
+
+    **En.** On the authority of nearly all the codices and editions 1, 2, 3, we have substituted *ipsam* and a little later, in place of *effectus*, we have placed *affectus*.
+
+[^15]: **La.** Codd. inter se non conveniunt; nam alii, ut ACGKLORSUVWX etc. cum ed. 1 loco *stulti* ponunt *multi*, qui et dein fere omnes omittunt *similiter et bestiae*, dum e contra alii ut FH (T a secunda manu correctus), omissis verbis *stulti homines similiter et*, retinent *bestiae* (codd. HT *bruta*); edd. 4, 5, 6 loco *multi* habent *mali*. Verba Augustini, in quibus obiectio fundatur, sunt: *Et frui quidem cibo et qualibet corporali voluptate non adeo absurde existimantur et bestiae; uti autem aliqua re non potest nisi animal, quod rationis est particeps. Scire namque, quo quidque referendum sit, non datum est rationis expertibus, sed neque ipsis rationalibus stultis* (83. Qq. q. 30.).
+
+    **En.** The codices do not agree among themselves: some, such as A C G K L O R S U V W X etc. with edition 1, place *multi* in place of *stulti*, and then nearly all of those omit *"likewise also beasts"*; whereas others, such as F H (and T, corrected by a second hand), with the words *"foolish men, likewise also"* omitted, retain *bestiae* (codices H, T: *bruta*); editions 4, 5, 6 have *mali* in place of *multi*. The words of Augustine, on which the objection is based, are: *"And indeed, that even beasts enjoy food and any bodily pleasure is not so absurdly judged; but a thing cannot be used except by a living being which partakes of reason. For to know to what each thing is to be referred is not given to those devoid of reason, nor even to rational beings who are foolish"* (*83 Questions*, q. 30).
+
+[^16]: **La.** Substituimus ex plurimis mss. ut ACFGHIKOSTUVWXZ etc. et ed. 1 *collatio* pro *relatio*; cod. R legit *delectio*. Paulo supra cod. O post *relatione* addit *vel collatione*.
+
+    **En.** We have substituted *collatio* for *relatio* from very many manuscripts (A C F G H I K O S T U V W X Z etc.) and edition 1; codex R reads *delectio*. A little above, codex O after *relatione* adds *vel collatione*.
+
+[^17]: **La.** Cfr. August. loc. cit.; insuper B. Albert., hic a. 17. ad 2. — Thom., hic q. 1. a. 1. et S. I. II. q. 11. a. 2. — Scot., hic q. 5. — Richard., hic a. 2. q. 2. — Petr. a Tar., hic q. 2. a. 3.
+
+    **En.** Cf. Augustine, op. cit.; further, Bl. Albert [the Great], here art. 17, ad 2. — Thomas [Aquinas], here q. 1, art. 1, and *Summa* I-II, q. 11, art. 2. — Scotus, here q. 5. — Richard [of Middleton], here art. 2, q. 2. — Peter of Tarentaise, here q. 2, art. 3.
+
+[^18]: **La.** Ope codd. et ed. 1 expunximus particulam *et*, quam Vat. ponit post *quia*.
+
+    **En.** With the help of the codices and edition 1, we have struck out the particle *et*, which the Vatican edition places after *quia*.
+
+[^19]: **La.** Vers. 6. Textus Glossae interlinearis apud Lyranum est: *Naturale est, unumquemque in suo periculo plus de alio quam de se sperare.*
+
+    **En.** [Jonah 1,] verse 6. The text of the Interlinear Gloss according to [Nicholas of] Lyra is: *"It is natural that everyone, in his own peril, hopes more from another than from himself."*
+
+[^20]: **La.** Vat. contra multos codd. ut AFGKTWX etc. et sex primas edd. *ponatur*.
+
+    **En.** The Vatican edition, against many codices (A F G K T W X etc.) and the first six editions, [reads] *ponatur*.
+
+[^21]: **La.** Vat. contra mss. et ed. 1 *dicitur*. Paulo infra Vat. contra codd. CISTVWXZ etc. et ed. 1 post *conversa* supervacanee addit *per consequens*.
+
+    **En.** The Vatican edition, against the manuscripts and edition 1, [reads] *dicitur*. A little later, the Vatican edition, against codices C I S T V W X Z etc. and edition 1, after *conversa* superfluously adds *per consequens*.
+
+[^22]: **La.** Vers. 10. Ita codd. et ed. 1 ac Hugo de S. Charo in hunc locum; Vulgata vero *servire magnatis*; Vat. autem citando Ecclesiasten 7, 15. legit *fruere bonis*.
+
+    **En.** [Sirach/Ecclesiasticus 8,] verse 10. So [read] the codices and edition 1, and Hugh of Saint-Cher on this passage; but the Vulgate has *servire magnatis* ("to serve the great"); the Vatican edition, however, citing Ecclesiastes 7:15, reads *fruere bonis* ("enjoy goods").
+
+[^23]: **La.** Vers. 41. — Mox post *fruerentur* in Vat. additur *eis*.
+
+    **En.** [Deut. 28,] verse 41. — Soon after *fruerentur*, the Vatican edition adds *eis*.
+
+[^24]: **La.** Hic, a. 2. q. 1. in corp. — Deinde Vat. praeter fidem omnium codd. et sex primarum edd. post *quod* omittit *cum* et post *praedictis* contra antiquiores mss. loco *locutionibus* ponit *auctoritatibus*.
+
+    **En.** Here, art. 2, q. 1, in the body. — Then the Vatican edition, against the witness of all codices and the first six editions, omits *cum* after *quod*, and against the older manuscripts, after *praedictis*, places *auctoritatibus* in place of *locutionibus*.
+
+[^25]: **La.** Libr. I. de Doctr. christ. c. 31. n. 34: *Sed si fruitur, eget bono nostro, quod nemo sanus dixerit.* — Ex antiquioribus codd. cum ed. 1 post *ibi* adiecimus *est*.
+
+    **En.** [Augustine,] *On Christian Doctrine*, bk. I, c. 31, n. 34: *"But if He enjoys [us], He needs our good — which no sound person would say."* — From the older codices, with edition 1, we have added *est* after *ibi*.
+
+[^26]: **La.** Auctoritate codd. et ed. 1 supplevimus *ibi*. Paulo infra cod. dd post *dependentia* habet *nec* pro *vel*.
+
+    **En.** On the authority of the codices and edition 1, we have supplied *ibi*. A little later, codex dd has *nec* in place of *vel* after *dependentia*.
+
+[^27]: **La.** Vat. *quod hoc quia bonus est dicit causam*, sed secuti sumus auctoritatem mss. et ed. 1. Mox lectio Vat. minus recta *sed est aliqua causa naturalis etiam necessaria et est aliqua causa voluntaria* castigatur ex codd. et ed. 1. Paulo infra Vat. post *naturae*, contradicentibus mss. et ed. 1, addit *et necessitatis*.
+
+    **En.** The Vatican edition has *"because this is because [He] is good expresses cause"*; but we have followed the authority of the manuscripts and edition 1. The less-correct Vatican reading *"but there is some natural cause, also necessary, and there is some voluntary cause"* is corrected from the codices and edition 1. A little later, the Vatican edition, after *naturae* and against the manuscripts and edition 1, adds *et necessitatis*.
+
+[^28]: **La.** Ope mss. et ed. 1 expunximus verba, quae Vat. hic addit *sicut quia bonus est, boni sumus*.
+
+    **En.** With the help of the manuscripts and edition 1, we have struck out the words which the Vatican edition here adds: *"as: because [He] is good, we are good."*
+
+[^29]: **La.** Absque ulla auctoritate codd. et ed. 1 hic Vat. addit: *quia cum bonum sit sui communicativum, de sui ratione importat communicabilitatem, importat etiam voluntatem, quae duo ponunt effectum in actu.* Paulo ante, obnitentibus mss. et ed. 1, ponit Vat. *dispositio* pro *conditio* et paulo infra post *dicit* omittit *enim*. — Hoc et praecedens dubium fuse ab Alex. Hal. explicantur S. 1. q. 17. m. 9. — De ratione vestigii cfr. infra d. 3. p. 1. q. 2. in fine et ibidem dub. 6.
+
+    **En.** Without any authority of the codices or edition 1, the Vatican edition here adds: *"because, since the good is self-communicative, by its very ratio it implies communicability, and also implies will — which two place the effect into act."* A little before, against the manuscripts and edition 1, the Vatican edition has *dispositio* for *conditio*, and a little later after *dicit* omits *enim*. — This dubium and the preceding one are explained at length by Alexander of Hales, *Summa* I, q. 17, m. 9. — On the *ratio* of vestige, cf. below, d. 3, pt. 1, q. 2, at the end, and ibid. dub. 6.
+
+[^30]: **La.** Libr. II. Phys. text. 29. (c. 3.), ubi iuxta ed. Venet. 1489: *Dicitur etiam (causa) secundum finem intentum, et hoc est illud propter quod.*
+
+    **En.** [Aristotle,] *Physics* II, text 29 (ch. 3), where according to the Venice ed. of 1489: *"A cause is also said [to be such] according to the intended end, and this is the 'on account of which.'"*
+
+[^31]: **La.** Vat. cum pluribus codd. FGK etc. *ei* pro *qui*.
+
+    **En.** The Vatican edition, with several codices F, G, K etc., [reads] *ei* in place of *qui*.
+
+[^32]: **La.** Propositio haec, ex Aristot., I. Poster. text. 11. (c. 4.) sumta, iuxta antiquam versionem (ed. Venet. apud Octavianum Scotum, 1538) sic exhibetur: «Per se autem et secundum quod ipsum, idem, ut per se lineae inest punctus et rectum: etenim secundum quod linea». Et paulo ante: «Universale autem dico, quod utique et de omni sit et per se et secundum quod ipsum… Universale tale est tunc, quando in quolibet et primo monstretur». — S. Thomas in Commentario ad hunc locum observat, quod hic «universale non hoc modo accipitur, prout omne quod praedicatur de pluribus dicitur universale, secundum quod Porphyrius determinat de quinque universalibus; sed dicitur hic universale secundum quandam adaptationem vel adaequationem praedicati ad subiectum, cum scilicet neque praedicatum invenitur extra subiectum neque subiectum sine praedicato… Primo dicit, quod universale, scilicet praedicatum, est etiam quod de omni est, id est, universaliter praedicatur de subiecto; et etiam per se, scilicet inest ei, convenit subiecto, secundum quod ipsum subiectum est. Multa enim de aliquibus praedicantur universaliter, quae non conveniunt ei per se et secundum quod ipsum est. Sicut omnis lapis coloratus est, non tamen secundum quod lapis, sed secundum quod ipsum est superficiem habens» (ed. Parmae 1865). — Vocatur illud *primum universale*, quando universale praedicatum non solum in quolibet est, de quo praedicatur, sed et primo demonstratur inesse ei, de quo praedicatur; sic, ut in exemplo ab Aristotele persistemus, habere tres angulos aequales duobus rectis non convenit primo isosceli, sed triangulo (quia isosceli convenit in quantum triangulus est), adeoque et *primum universale* trianguli, non isoscelis est. Plura videsis apud S. Thomam loc. cit. et Scot. in I. Poster. q. 15-39. — Ad normam ed. operum Aristot. et codd. nec non ed. 1 substituimus in propositione praedicta post *per se* particulam *et* pro *quod*.
+
+    **En.** This proposition, taken from Aristotle, *Posterior Analytics* I, text 11 (ch. 4), is given according to the old version (Venice ed., at Octavianus Scotus's, 1538) thus: «*Per se* and *secundum quod ipsum* are the same — as a point and being-straight belong to a line *per se*: for [they belong to it] insofar as it is a line». And shortly before: «*Universal*, however, I call that which is both of every [instance] and *per se* and *secundum quod ipsum*… A universal of such a kind is then [called *primum*] when it is shown [to belong] in any [instance] and primarily». — St. Thomas, in his Commentary on this passage, observes that here «*universal* is not taken in the way in which everything that is predicated of many is called universal, in the sense in which Porphyry determines the five universals; but *universal* here is said according to a certain adaptation or adequation of predicate to subject — namely, when neither is the predicate found outside the subject, nor the subject without the predicate… First he says that the universal — namely, the predicate — is also that which is of every [instance], that is, is predicated universally of the subject; and also *per se*, that is, belongs to it, [and] belongs to the subject *secundum quod* the subject itself is. For many things are predicated universally of certain things which do not belong to them *per se* and *secundum quod ipsum est*. Just as every stone is colored, not however *secundum quod* it is a stone, but *secundum quod* it itself has a surface» (Parma ed., 1865). — That is called *primum universale* when the universal predicate not only is in everything of which it is predicated, but is also primarily shown to be in [that] of which it is predicated; thus, to keep to Aristotle's example, having three angles equal to two right [angles] does not belong primarily to the isosceles, but to the triangle (since it belongs to the isosceles inasmuch as it is a triangle), and so the *primum universale* is of the triangle, not of the isosceles. See more in St. Thomas, loc. cit., and Scotus, *On Posterior Analytics* I, qq. 15–39. — In the proposition cited, after *per se*, we have substituted, in conformity with the editions of Aristotle's works, the codices, and edition 1, the particle *et* in place of *quod*.
+
+[^33]: **La.** Praeter fidem mss. et sex primarum edd. hic Vat. addit *aliud*.
+
+    **En.** Against the witness of the manuscripts and the first six editions, the Vatican edition here adds *aliud*.
+
+[^34]: **La.** In solutione huius dubii concordat Richard., hic a. 2. q. 3. ad 1.
+
+    **En.** Richard [of Middleton] agrees in the solution of this dubium, here art. 2, q. 3, ad 1.
+
+[^35]: **La.** Auctoritate mss. et ed. 1 delevimus verba hic a Vat. adiecta *sine omni virtute*, utpote quae iam satis indicantur particula exclusiva *solis*.
+
+    **En.** On the authority of the manuscripts and edition 1, we have deleted the words here added by the Vatican edition, *sine omni virtute*, since they are sufficiently indicated by the exclusive particle *solis*.
+
+[^36]: **La.** Additur hic a Vat. *vel spirituale*, quod deest in fere omnibus codd. et ed. 1; pauci codd., ut HUW cc loco *speciale* ponunt minus recte *spirituale*. Paulo ante cod. R pro *intervenit* habet *concurrit*, et cod. X loco *unum* satis bene legit *generale*.
+
+    **En.** The Vatican edition here adds *vel spirituale*, which is missing in nearly all the codices and in edition 1; a few codices, such as H, U, W, cc, place — less correctly — *spirituale* in place of *speciale*. A little before, codex R has *concurrit* in place of *intervenit*, and codex X, in place of *unum*, quite well reads *generale*.
+
+[^37]: **La.** Quo sensu virtutibus sit fruendum, vide supra a. 3. q. 2. et II. Sent. d. 18. a. 1. q. 2. — B. Albert., hic a. 21. — Aegid. R., hic l. princ. q. 2.
+
+    **En.** In what sense the virtues are to be enjoyed, see above, art. 3, q. 2, and II *Sent.* d. 18, art. 1, q. 2. — Bl. Albert [the Great], here art. 21. — Giles of Rome, here, principal q. 2.
 
 ---
 
 ## Notes
 
-- **Chunk scope.** This chunk covers all sixteen *Dubia circa litteram Magistri* for Distinction 1, spanning printed pp. 42–45 (PDF pp. 144–147). The dubia form Bonaventure's appendix to Dist. 1, raising and resolving sixteen objections to Peter Lombard's text itself rather than to the substantive doctrine of the distinction. They therefore complement the three quaestio-articles (*De uti*, *De frui*, *De fruibili*) by addressing the literal wording of the *Sentences*.
+- **Chunk scope.** This chunk covers all sixteen *Dubia circa litteram Magistri* for Distinction 1, spanning printed pp. 42–45 (PDF pp. 144–147), corresponding to raw OCR lines 15262–15788 of `raw/bonaventure_vol1_raw.txt`. The dubia form Bonaventure's appendix to Dist. 1, raising and resolving sixteen objections to Peter Lombard's text itself rather than to the substantive doctrine of the distinction.
 
-- **Chunking correction.** The legacy chunk `vol1/legacy/bon-sent-I-d1-dubia.md` was severely conflated: it captured only the tail of Dub. XV and all of Dub. XVI (from printed p. 45), and then ran straight into all of Distinctio II's Lombard text. Dubs I–XIV were entirely missing from the legacy chunker's output. This rebuild recovers all sixteen dubia in full from vision OCR of pp. 42–45. Legacy file moved to `vol1/legacy/`.
+- **Chunking note.** The legacy auto-chunker had truncated this chunk (cf. `vol1/legacy/bon-sent-I-d1-dubia.md`); the present rebuild captures all sixteen dubia by extending `line_end` to 15788, the last line before `DISTINCTIO II` at line 15794.
 
-- **Scope of the dubia.** The dubia fall into three clusters: (i) *Dubs I–IV* concern the Master's division of things into *signa* and *res* and the ordering of the treatise; (ii) *Dubs V–VIII* concern the division *fruibile / utibile / fruens-et-utens*; (iii) *Dubs IX–XVI* concern particular Augustinian expressions the Master quotes (*fruere magnalia*, *in homine fruitur*, *fruitur in Domino*, *propter se ipsam*, etc.) and what they imply about the relation between *frui* and *uti*. Dub. XVI closes the distinction by asking whether the soul might enjoy God *by its powers alone*, and Bonaventure's answer — that virtue is a second *medium* beyond the powers, elevating the soul above its natural capacity — is a doctrinally important passage foreshadowing his later treatment of grace.
+- **Tier-2 rebuild (2026-05-07).** This file replaces the prior "first-pass vision" version (backed up at `vol1/_backup-d1-dubia-pre-rebuild-20260507/`). The prior Latin body had been heavily paraphrased and in several places fabricated (most notably Dub. I, V, VII, IX, X, XI, XIII, XIV); the apparatus had been wholly invented as 6 imaginary footnotes referencing Peter Lombard, Augustine, and Aristotle. The present rebuild re-sets the Latin verbatim from the IA djvu OCR, supplies a fresh literal English translation, and reconstructs the full 37-entry Quaracchi apparatus from the OCR footnote block. Two `[?]` flags noted in `manual-review/tier2-ambiguities-d1-dubia.md`.
 
-- **Translation strategy.** The dubia are typically short — a single objection plus a short *responsio* — and Bonaventure's Latin is compressed and heavily dependent on the lemmata he is quoting from the Master. The English tries to keep the back-and-forth structure of each dubium visible (**Against** / **Reply**) without smoothing out the contrast, and to keep the lemmata in italics so the reader can see what phrase of Lombard's text each dubium is addressing.
-
-- **Key terms** (per project glossary, carried over from the Dist. 1 quaestiones): *frui / uti / fruibile / utibile* → enjoy / use / enjoyable / usable; *per se / propter se / per accidens / propter aliud* → in itself / for its own sake / by accident / for the sake of another; *vestigium* → vestige; *signum / res* → sign / thing; *medium* → medium (i.e. that through which the soul reaches its term); *potentia / virtus* → power / virtue (where *virtus* in Dub. XVI carries the specific sense of a *supernatural elevating principle*, not merely *virtue* in the moral sense).
-
-- **Vision transcription status.** First-pass vision re-OCR of printed pp. 42–45 (PDF pp. 144–147). Several of the Latin *responsio* bodies — particularly in Dubs X–XIV, which are very compressed and include abbreviated Scriptural references — should be verified on a second vision pass at higher image resolution before publication. Dubs XV–XVI (p. 45) were additionally cross-checked against the legacy raw OCR (in `vol1/legacy/bon-sent-I-d1-dubia.md`) and harmonized where the legacy text was more legible.
+- **Key terms** (per project glossary): *frui / uti / fruibile / utibile* → enjoy / use / enjoyable / usable; *per se / propter se / per accidens / propter aliud* → in itself / for its own sake / by accident / for the sake of another; *vestigium* → vestige; *signum / res* → sign / thing; *medium* → medium; *potentia / virtus* → power / virtue; *opus operatum / opus operans* → work-worked / work-working (preserved Latin on first occurrence in Dub. I).
