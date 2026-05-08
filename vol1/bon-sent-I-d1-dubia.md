@@ -89,7 +89,7 @@ Item videtur male dicere, quod *in homine spes ponenda non est*, quia[^18] de be
 
 Item, Ionae primo[^19]: *Accessit ad eum gubernator*; Glossa: «Naturale est homini magis de aliis quam de se in periculis confidere».
 
-**Respondeo:** Dicendum, quod sperare de aliquo est dupliciter, aut sicut de adiutore, aut sicut de salvatore. Prima spes potest esse in homine, secunda non. — Vel est sperare finale praemium; et hoc debet esse tantum in Deo; vel temporale beneficium; et hoc potest esse in homine. Primum si ponitur[^20] in homine, meretur maledictionem, secundum [?].
+**Respondeo:** Dicendum, quod sperare de aliquo est dupliciter, aut sicut de adiutore, aut sicut de salvatore. Prima spes potest esse in homine, secunda non. — Vel est sperare finale praemium; et hoc debet esse tantum in Deo; vel temporale beneficium; et hoc potest esse in homine. Primum si ponitur[^20] in homine, meretur maledictionem, secundum vero non.
 
 ### Dub. X.
 
@@ -209,7 +209,7 @@ Likewise, [the Master] seems to speak badly in saying that *"hope is not to be p
 
 Likewise, Jonah 1[^19]: *"The pilot came to him"*; the Gloss: «It is natural for a man, in dangers, to have more confidence in others than in himself».
 
-**I respond:** It must be said that to hope from someone is twofold: either as from a helper, or as from a savior. The first hope can be in man; the second cannot. — Or it is to hope for the final reward; and this should be only in God; or for a temporal benefit; and this can be in man. The first, if it is placed[^20] in man, deserves a curse; the second [does not] [?].
+**I respond:** It must be said that to hope from someone is twofold: either as from a helper, or as from a savior. The first hope can be in man; the second cannot. — Or it is to hope for the final reward; and this should be only in God; or for a temporal benefit; and this can be in man. The first, if it is placed[^20] in man, deserves a curse; but the second does not.
 
 ### Dub. X.
 
