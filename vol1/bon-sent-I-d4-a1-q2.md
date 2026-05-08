@@ -10,10 +10,12 @@ title_la: "Utrum admitti possit haec locutio: Deus generat alium Deum"
 title_en: "Whether this expression can be admitted: God generates another God"
 printed_pages: [99, 100, 101]
 pdf_pages: [201, 202, 203]
+line_start: 23974
+line_end: 24227
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 99–101"
 has_scholion: true
 has_apparatus: true
-transcription_status: "first-pass vision re-OCR reconciled against raw OCR, pending final verification"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23974–24227), fresh literal English translation, full apparatus from raw OCR (17 entries), [?] flags on ambiguous spots (2026-05-08)"
 format_version: 1
 ---
 
@@ -48,7 +50,7 @@ consequentiam ut modum sequitur consecutio ut res; unde si haec est vera: *si ho
 
 3. Item, *Pater sive Deus genuit alium*; haec est vera, constat: ergo aut *alium Deum*, aut *alium non Deum*; sed non *alium non Deum*: ergo etc.
 
-4. Item, *alius* est terminus masculini generis[^4]; sed terminus masculini generis stat pro persona in partitivis terminis: ergo *alius* dicit alietatem personalem; sed haec est vera: *Deus genuit Deum alium in persona*; ergo simpliciter est vera haec: *Deus genuit alium Deum*.
+4. Item, *alius* est terminus masculini generis; sed terminus masculini generis[^4] stat pro persona in partitivis terminis: ergo *alius* dicit alietatem personalem; sed haec est vera: *Deus genuit Deum alium in persona*; ergo simpliciter est vera haec: *Deus genuit alium Deum*.
 
 **Conclusio.**
 
@@ -106,7 +108,7 @@ a consequence [taken] as a mode there follows a consecution [taken] as a thing �
 
 3. Again, *the Father — that is, God — generated another*; this is true, it is clear: therefore either *another God*, or *another not-God*; but not *another not-God*: therefore etc.
 
-4. Again, *another* (*alius*) is a term of the masculine gender[^4]; but a term of the masculine gender stands for a person in partitive terms: therefore *another* expresses personal otherness; but this is true: *God generated another God in person*; therefore this is simply true: *God generated another God*.
+4. Again, *another* (*alius*) is a term of the masculine gender; but a term of the masculine gender[^4] stands for a person in partitive terms: therefore *another* expresses personal otherness; but this is true: *God generated another God in person*; therefore this is simply true: *God generated another God*.
 
 **Conclusion.**
 
@@ -142,56 +144,56 @@ II. On the conclusion and on the solution of the objections, the principal docto
 
 > The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering.
 
-[^1]: **La** — *Cap. 24:* Nam cum dicimus Deum de Deo, Filium de Patre, non alium intelligimus Deum de Deo alio, sed eundem ipsum Deum de eodem ipso Deo. *— Codd. cum Vat. falso ponunt* in Proslogio.<br>
-      **En** — Ch. 24: "For when we say *God from God, Son from Father*, we do not understand another God [coming] from another God, but the same very God from the same very God." — The codices, along with Vat., wrongly cite [this passage as being] *in the* Proslogion.
+[^1]: **La.** *Cap. 24:* Nam cum dicimus Deum de Deo, Filium de Patre, non alium intelligimus Deum de Deo alio, sed eundem ipsum Deum de eodem ipso Deo. *— Codd. cum Vat. falso ponunt* in Proslogio.
+     **En.** Ch. 24: "For when we say *God from God, Son from Father*, we do not understand another God [coming] from another God, but the same very God from the same very God." — The codices, along with Vat., wrongly cite [this passage as being] *in* Proslogio.
 
-[^2]: **La** — *Nam ut ait Arist., De Anima II, text. 47 (c. 4):* Generat autem nihil ipsum se ipsum. *— De propositione minore Arist., Metaph. XIV, c. 3 (XIII, c. 1):* Alterum (contrarium est) eidem, et aliud ipsi (αὐτῷ). *— In hac propositione minore Vat.* et *loco* sed, *obstantibus mss. et ed. 1.*<br>
-      **En** — For, as Aristotle says, *On the Soul* II, text 47 (ch. 4): "Nothing generates itself." — On the minor proposition, Aristotle, *Metaphysics* XIV, ch. 3 (XIII, ch. 1): "The *other* (is contrary) to the same, and the *another* [is contrary] to it itself (*autō*)." — In this minor proposition, Vat. reads *et* ("and") in place of *sed* ("but"), against the mss. and ed. 1.
+[^2]: **La.** *Nam ut ait Aristot., II. de Anima, text. 47. (c. 4.):* Generat autem nihil ipsum se ipsum. *— De propositione minore Aristot., XIV. Metaph. c. 3. (XIII. c. 1.):* Alterum (contrarium est) eidem, et aliud ipsi (αὐτῷ [?]). *— In hac propositione minore Vat.* et *loco* sed, *obstantibus mss. et ed. 1.*
+     **En.** For, as Aristotle says, *On the Soul* II, text 47 (ch. 4): "Nothing generates itself." — On the minor proposition, Aristotle, *Metaphysics* XIV, ch. 3 (XIII, ch. 1): "The *other* (is contrary) to the same, and the *another* [is contrary] to it itself (*autō*)." — In this minor proposition Vat. reads *et* ("and") in place of *sed* ("but"), against the mss. and ed. 1.
 
-[^3]: **La** — *Auctoritate mss. et ed. 1 expunximus hic additum* etiam; *cod. 1 autem addit* similiter haec est vera. *Cod. O post* homo est *addit* ergo. *— Plura de hac consequentia vide apud Boeth., de Syllogismo hypothetico.*<br>
-      **En** — On the authority of the mss. and ed. 1, we have struck out *etiam* ("also") here added; but cod. 1 adds *similiter haec est vera* ("likewise this is true"). Cod. O after *homo est* ("man exists") adds *ergo* ("therefore"). — For more on this consequence, see Boethius, *On the Hypothetical Syllogism*.
+[^3]: **La.** *Auctoritate mss. et ed. 1 expunximus hic additum* etiam; *cod. 1 autem addit* similiter haec est vera. *Cod. O post* homo est *addit* ergo. *— Plura de hac consequentia vide apud Boeth., de Syllogismo hypothetico.*
+     **En.** On the authority of the mss. and ed. 1, we have struck out *etiam* ("also") here added; but cod. 1 adds *similiter haec est vera* ("likewise this is true"). Cod. O after *homo est* ("man exists") adds *ergo* ("therefore"). — For more on this consequence, see Boethius, *On the Hypothetical Syllogism*.
 
-[^4]: **La** — *Vat., obnitentibus antiquioribus mss. et ed. 1, minus bene* qui *loco* sed terminus masculini generis; *et circa finem argumenti* similiter *loco* simpliciter.<br>
-      **En** — Vat., against the older mss. and ed. 1, less well reads *qui* in place of *sed terminus masculini generis* ("but a term of the masculine gender"); and near the end of the argument, *similiter* ("likewise") in place of *simpliciter* ("simply").
+[^4]: **La.** *Vat., obnitentibus antiquioribus mss. et ed. 1, minus bene* qui *loco* sed terminus masculini generis; *et circa finem argumenti* similiter *loco* simpliciter.
+     **En.** Vat., against the older mss. and ed. 1, less well reads *qui* in place of *sed terminus masculini generis* ("but a term of the masculine gender"); and near the end of the argument, *similiter* ("likewise") in place of *simpliciter* ("simply").
 
-[^5]: **La** — *Ed. 1* sic ut. *Cod. R* et si substantivetur tunc.<br>
-      **En** — Ed. 1 reads *sic ut* ("thus, as"). Cod. R reads *et si substantivetur tunc* ("and if it is substantivized, then").
+[^5]: **La.** *Ed. 1* sic ut. *Cod. R* et si substantivetur tunc.
+     **En.** Ed. 1 reads *sic ut* ("thus, as"). Cod. R reads *et si substantivetur tunc* ("and if it is substantivized, then").
 
-[^6]: **La** — *Aliqui codd. ut R cc* veritate, *et paulo infra plurimi codd. cum ed. 1 contra Vat.* iunctum *pro* adiunctum.<br>
-      **En** — Some codices, such as R and cc, read *veritate* ("the truth") [in place of *virtute*, "the force"]; and a little further on, very many codices with ed. 1 — against Vat. — read *iunctum* ("joined") in place of *adiunctum* ("attached").
+[^6]: **La.** *Aliqui codd. ut R cc* veritate, *et paulo infra plurimi codd. cum ed. 1 contra Vat.* iunctum *pro* adiunctum.
+     **En.** Some codices, such as R and cc, read *veritate* ("the truth") [in place of *virtute*, "the force"]; and a little further on, very many codices with ed. 1 — against Vat. — read *iunctum* ("joined") in place of *adiunctum* ("attached").
 
-[^7]: **La** — *Sensus est: maxime cum appositiva constructio fiat coniunctione termini minus communis cum magis communi.*<br>
-      **En** — The sense is: especially since an appositive construction comes about through the joining of a less common term with a more common one.
+[^7]: **La.** *Sensus est: maxime cum appositiva constructio fiat coniunctione termini minus communis cum magis communi.*
+     **En.** The sense is: especially since an appositive construction comes about through the joining of a less common term with a more common one.
 
-[^8]: **La** — *Hoc est, stricte secundum regulas artium, scilicet grammaticae et logicae.*<br>
-      **En** — That is, strictly according to the rules of the [liberal] arts — namely, of grammar and of logic.
+[^8]: **La.** *Hoc est, stricte secundum regulas artium, scilicet grammaticae et logicae.*
+     **En.** That is, strictly according to the rules of the [liberal] arts — namely, of grammar and of logic.
 
-[^9]: **La** — *Codd. cum primis sex edd. omittunt* omnimoda, *quod a Vat. termino* distinctio *praefigitur.*<br>
-      **En** — The codices, with the first six editions, omit *omnimoda* ("of every kind"), which Vat. prefixes to the term *distinctio* ("distinction").
+[^9]: **La.** *Codd. cum primis sex edd. omittunt* omnimoda, *quod a Vat. termino* distinctio *praefigitur.*
+     **En.** The codices, with the first six editions, omit *omnimoda* ("of every kind"), which Vat. prefixes to the term *distinctio* ("distinction").
 
-[^10]: **La** — *Vat. praeter fidem codd. et ed. 1* opposito.<br>
-       **En** — Vat., against the fidelity of the codices and ed. 1, reads *opposito* ("from the opposite" — singular).
+[^10]: **La.** *Vat. praeter fidem codd. et ed. 1* opposito.
+     **En.** Vat., against the fidelity of the codices and ed. 1, reads *opposito* ("from the opposite" — singular).
 
-[^11]: **La** — *Fide mss. et ed. 1 substituimus* recipiuntur *loco* recipiunt. *Paulo infra multi codd. omittunt* similiter.<br>
-       **En** — On the fidelity of the mss. and ed. 1, we have substituted *recipiuntur* (passive, "are received") in place of *recipiunt* (active, "they receive"). A little further on, many codices omit *similiter* ("likewise").
+[^11]: **La.** *Fide mss. et ed. 1 substituimus* recipiuntur *loco* recipiunt. *Paulo infra multi codd. omittunt* similiter.
+     **En.** On the fidelity of the mss. and ed. 1, we have substituted *recipiuntur* (passive, "are received") in place of *recipiunt* (active, "they receive"). A little further on, many codices omit *similiter* ("likewise").
 
-[^12]: **La** — *Cod. X* distinctionem personarum in.<br>
-       **En** — Cod. X reads *distinctionem personarum in* ("a distinction of persons in").
+[^12]: **La.** *Cod. X* distinctionem personarum in.
+     **En.** Cod. X reads *distinctionem personarum in* ("a distinction of persons in").
 
-[^13]: **La** — *Vide in lit. Magistri, c. 2 in fine; et super Ioannem, c. 3, Tract. 14, n. 11:* Pater mittens Filium se alterum misit.<br>
-       **En** — See the text of the Master [Peter Lombard], ch. 2 at the end; and [Augustine] *on John*, ch. 3, Tractate 14, n. 11: "The Father, sending the Son, sent himself as another."
+[^13]: **La.** *Vide in lit. Magistri, c. 2. in fine; et super Ioannem, c. 3. Tract. 14. n. 11:* Pater mittens Filium se alterum misit.
+     **En.** See the text of the Master [Peter Lombard], ch. 2 at the end; and [Augustine] *on John*, ch. 3, Tractate 14, n. 11: "The Father, sending the Son, sent himself as another."
 
-[^14]: **La** — *Codd. M X addunt* est.<br>
-       **En** — Codd. M, X add *est* ("is").
+[^14]: **La.** *Codd. M X addunt* est.
+     **En.** Codd. M, X add *est* ("is").
 
-[^15]: **La** — *Cod. R addit* genuit.<br>
-       **En** — Cod. R adds *genuit* ("[he] generated").
+[^15]: **La.** *Cod. R addit* genuit.
+     **En.** Cod. R adds *genuit* ("[he] generated").
 
-[^16]: **La** — *Exemplum sumtum est ex Arist., Periherm. II, c. 2 (c. 11), ubi secundum translationem Boethii habetur:* si citharoedus est et bonus, est et citharoedus bonus, *licet aliae translationes ponunt* coriarius (σκυτεύς) *pro* citharoedus. *— De hac fallacia accidentis vide supra d. 2, q. 1 ad 1.*<br>
-       **En** — The example is taken from Aristotle, *On Interpretation* II, ch. 2 (ch. 11), where according to Boethius's translation it reads: "if he is a citharist and [is] good, he is also a good citharist"; although other translations give *coriarius* ("leather-worker," *skuteus*) in place of *citharoedus* ("citharist"). — On this fallacy of accident, see above, d. 2, q. 1 ad 1.
+[^16]: **La.** *Exemplum sumtum est ex Aristot., II. Periherm. c. 2. (c. 11.), ubi secundum translationem Boethii habetur:* si citharoedus est et bonus, est et citharoedus bonus, *licet aliae translationes ponunt* coriarius (σκυτεύς [?]) *pro* citharoedus. *— De hac fallacia accidentis vide supra d. 2. q. 1. ad 1.*
+     **En.** The example is taken from Aristotle, *On Interpretation* II, ch. 2 (ch. 11), where according to Boethius's translation it reads: "if he is a citharist and [is] good, he is also a good citharist"; although other translations give *coriarius* ("leather-worker," *skuteus*) in place of *citharoedus* ("citharist"). — On this fallacy of accident, see above, d. 2, q. 1, ad 1.
 
-[^17]: **La** — *Vat. hic* subiectum *loco* substantivum, *et paulo infra post* substantivatur *ponit* Sicut ergo, cum dicitur unus Deus, hoc nomen unus dicit unitatem, *sed contra antiquiores codd. et ed. 1.*<br>
-       **En** — Vat. here reads *subiectum* ("subject") in place of *substantivum* ("substantive"); and a little further on, after *substantivatur*, Vat. inserts *Sicut ergo, cum dicitur unus Deus, hoc nomen unus dicit unitatem* ("Just as, therefore, when *one God* is said, this name *one* expresses unity") — but against the older codices and ed. 1.
+[^17]: **La.** *Vat. hic* subiectum *loco* substantivum, *et paulo infra post* substantivatur *ponit* Sicut ergo, cum dicitur unus Deus, hoc nomen unus dicit unitatem, *sed contra antiquiores codd. et ed. 1.*
+     **En.** Vat. here reads *subiectum* ("subject") in place of *substantivum* ("substantive"); and a little further on, after *substantivatur*, Vat. inserts *Sicut ergo, cum dicitur unus Deus, hoc nomen unus dicit unitatem* ("Just as, therefore, when *one God* is said, this name *one* expresses unity") — but against the older codices and ed. 1.
 
 ---
 

@@ -11,7 +11,7 @@ pdf_pages: [148, 149, 150, 151]
 source: "Petrus Lombardus, Sententiae in IV Libris Distinctae, Lib. I, d. 2, cc. 1–5 (Quaracchi 1882, as reprinted in S. Bonaventurae Opera Omnia, Tomus I)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "first-pass vision, pending final verification"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 15794–16313), parallel literal English translation, 55-entry apparatus from raw OCR; sweep-audited 2026-05-08 (replaced 2 placeholder apparatus entries [^14] and [^16] with real OCR content; corrected fn 6 *aliud*→*scilicet* OCR-paraphrase)"
 format_version: 1
 ---
 
@@ -133,8 +133,8 @@ Now, after the testimonies of the Old Testament concerning the faith of the holy
 [^5]: **La.** Sequimur codd. A B D E. Cod. C *de hac re igitur*. Edd. 1, 8 *de hac ergo re*. Vat. cum ceteris: *de hac re ergo*. Paulo infra cod. E *devotissimis* pro *devotis*.
     **En.** We follow codd. A B D E. Cod. C reads *de hac re igitur*. Edd. 1 and 8: *de hac ergo re*. The Vatican ed., with the rest: *de hac re ergo*. A little below, cod. E has *devotissimis* for *devotis*.
 
-[^6]: **La.** August., l. de Trin. c. 3. n. 5, sed circa principium aliud additum est a Magistro.
-    **En.** Augustine, *De Trinitate* I, ch. 3, n. 5, but near the beginning something else has been added by the Master.
+[^6]: **La.** August., I *de Trin.* c. 3. n. 5, sed circa principium *scilicet* additum est a Magistro.
+    **En.** Augustine, *De Trinitate* I, ch. 3, n. 5, but near the beginning *scilicet* has been added by the Master.
 
 [^7]: **La.** Vat. et edd. 2, 3, 4, 7, 9 *divinitatis*.
     **En.** Vatican ed. and edd. 2, 3, 4, 7, 9 read *divinitatis*.
@@ -157,12 +157,14 @@ Now, after the testimonies of the Old Testament concerning the faith of the holy
 [^13]: **La.** Graece: οὐσίαν. Praeter Vat. et ed. 6 omnes codd. et edd. miro errore legunt *homousion* (*consubstantialem*).
     **En.** Greek: *ousían*. Except for the Vatican ed. and ed. 6, all codices and editions through a strange error read *homousion* (*consubstantial*).
 
-[^14]: *[placeholder for repeated apparatus number in source; see [^13]]*
+[^14]: **La.** Graece: οὐσίαν. Praeter Vat. et ed. 6 omnes codd. et edd. miro errore legunt *homousion* (*consubstantialem*).
+    **En.** Greek: *ousían*. Except for the Vatican ed. and ed. 6, all codices and editions through a strange error read *homousion* (*consubstantial*). [Note: this duplicates the content in [^13]; the OCR footnote 14 is the *usian* note, while OCR fn 13 covers the *de Fide ad Petrum* attribution to Fulgentius. Both anchors retained per body marker positions.]
 
-[^15]: **La.** Cap. 2. n. 4. In textu Vat. cum edd. 4, 6, 9 *primo* pro *primum*. Vat. contra fidem codd., edd. 1, 6, 8 et textum Aug. addit *magis*.
-    **En.** *De Trinitate* I, ch. 2, n. 4. In the text the Vatican ed., with edd. 4, 6, 9, reads *primo* for *primum*. The Vatican ed., against the witness of the codices and edd. 1, 6, 8 and the text of Augustine, adds *magis*.
+[^15]: **La.** Cap. 2. n. 4. In textu Vat. cum edd. 4, 6, 9 *primo* pro *primum*.
+    **En.** *De Trinitate* I, ch. 2, n. 4. In the text the Vatican ed., with edd. 4, 6, 9, reads *primo* for *primum*.
 
-[^16]: **La.** *[see [^15]]*
+[^16]: **La.** Vat. contra fidem codd., edd. 1, 6, 8 et textum Aug. addit *magis*.
+    **En.** The Vatican ed., against the witness of the codices and edd. 1, 6, 8 and the text of Augustine, adds *magis*.
 
 [^17]: **La.** Codd. A C D cum Vat. et edd. 4, 5, 6, 8 *assertione*, quod tamen minus concordat cum originali.
     **En.** Codd. A C D, with the Vatican ed. and edd. 4, 5, 6, 8, read *assertione*, which however agrees less with the original.

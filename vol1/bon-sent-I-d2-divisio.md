@@ -11,7 +11,7 @@ pdf_pages: [151, 152]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 49–50"
 has_scholion: false
 has_apparatus: true
-transcription_status: "first-pass vision, pending final verification"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 16314–16494), fresh literal English translation, 6-entry apparatus from raw OCR; sweep-audited 2026-05-08 (reverted *rationalem*→*rationabilem* and restored omitted clause «multi enim credunt, qui non intelligunt»)"
 format_version: 1
 ---
 
@@ -36,7 +36,7 @@ Haec est secunda pars, in qua, primi libri materia indagata, incipit Magister pr
 
 <!-- page 50 -->
 
-De ipsa autem sacratissima Trinitate tripliciter contingit tractare, quoniam primo contingit ipsam credere, secundo creditam intelligere, tertio intellectum dicere sive enuntiare. Credere autem est per auctoritatem, intelligere per rationem, dicere per catholicam et rationalem[^3] locutionem. Ideo primo de ipsa Trinitate et Unitate agit, secundum quod creditur; secundo de ipsa, secundum quod credita per rationem intelligitur, ibi, distinctione tertia: *Apostolus namque ait*; tertio, secundum quod credita et intellecta rationaliter et catholice exprimitur, infra, distinctione vigesima secunda: *Post praedicta dissertendum nobis videtur de nominum diversitate*. Et patet ordo. Prius enim est credere, quam intelligere, et similiter prius est intelligere, quam sermone exprimere.
+De ipsa autem sacratissima Trinitate tripliciter contingit tractare, quoniam primo contingit ipsam credere, secundo creditam intelligere, tertio intellectum dicere sive enuntiare. Credere autem est per auctoritatem, intelligere per rationem, dicere per catholicam et rationabilem[^3] locutionem. Ideo primo de ipsa Trinitate et Unitate agit, secundum quod creditur; secundo de ipsa, secundum quod credita per rationem intelligitur, ibi, distinctione tertia: *Apostolus namque ait*; tertio, secundum quod credita et intellecta rationabiliter et catholice exprimitur, infra, distinctione vigesima secunda: *Post praedicta dissertendum nobis videtur de nominum diversitate*. Et patet ordo. Prius enim et verius est eam credere quam intelligere; multi enim credunt, qui non intelligunt; et prius similiter est intelligere quam sermone exprimere.
 
 Prima pars, scilicet secundum quod creditur, continet praesentem distinctionem; et quoniam materia est difficillima, primo ponit modum procedendi; secundo vero exsequitur, ibi: *Proponamus ergo in medium*.
 
@@ -72,7 +72,7 @@ Ad declarationem eorum quae de sacra Trinitate et Unitate dicit Magister, quatuo
 
 This is the second part, in which the Master, having investigated the subject-matter of the first book, now begins to pursue it further; and this part[^1] is divided into two parts, since things that are to be enjoyed can be considered in two ways — namely, in themselves, and in comparison to creatures: in themselves, by reason of trinity and unity; in comparison to creatures, by reason of knowledge, power, and will. First, then, he treats[^2] of the holy Trinity and Unity; second, of knowledge and power and will, below at distinction thirty-five: *And since above we have discussed*.
 
-Concerning the most sacred Trinity itself, one may treat of it in three ways, since first one can believe it, second understand what is believed, and third express or enunciate what is understood. Now, to believe is through authority, to understand is through reason, to express is through Catholic and rational[^3] speech. Therefore he first treats of the Trinity and Unity itself according to what is believed; second, of the same according to what is believed and understood through reason, at distinction three: *For the Apostle says*; third, according to what is believed and understood is expressed rationally and in a Catholic manner, below at distinction twenty-two: *After the foregoing, it seems to us that we must discuss the diversity of names*. And the order is clear. For it is prior to believe than to understand, and likewise it is prior to understand than to express in speech.
+Concerning the most sacred Trinity itself, one may treat of it in three ways, since first one can believe it, second understand what is believed, and third express or enunciate what is understood. Now, to believe is through authority, to understand is through reason, to express is through Catholic and rational[^3] speech. Therefore he first treats of the Trinity and Unity itself according to what is believed; second, of the same according to what is believed and understood through reason, at distinction three: *For the Apostle says*; third, according to what is believed and understood is expressed rationally and in a Catholic manner, below at distinction twenty-two: *After the foregoing, it seems to us that we must discuss the diversity of names*. And the order is clear. For it is prior — and truer — to believe it than to understand it (for many believe who do not understand); and similarly it is prior to understand than to express in speech.
 
 The first part — namely, according to what is believed — contains the present distinction; and since the subject-matter is most difficult, he first sets down the mode of proceeding; and second, carries it out, at: *Let us therefore set forth in the midst*.
 

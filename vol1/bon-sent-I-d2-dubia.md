@@ -11,7 +11,7 @@ pdf_pages: [161, 162, 163, 164]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 59–62"
 has_scholion: false
 has_apparatus: true
-transcription_status: "first-pass vision, pending final verification"
+transcription_status: "FIRST-PASS — apparatus rebuild REQUIRED before Tier 2 promotion (sweep audit 2026-05-08 found apparatus entries [^1]-[^5] citing p.61 footer content but anchored on DUB. I-II body which is on p.59; entries [^5], [^8], [^13] are explicit placeholders; misalignment exposes the same fabrication pattern caught in d.1 dubia). Latin body itself matches OCR. See manual-review/d2-sweep-audit-log.md for full disposition."
 format_version: 1
 ---
 

@@ -13,7 +13,7 @@ pdf_pages: [156, 157, 158]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 54–56"
 has_scholion: true
 has_apparatus: true
-transcription_status: "second-pass OCR cleanup, pending vision verification"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 17109–17359), parallel literal English translation incl. scholion, 12-entry apparatus from raw OCR; sweep-audited 2026-05-08 (clean — body and apparatus match OCR pp. 54–56; [^6] is a deliberate cross-reference to [^5] for the same OCR footer note 5 anchored at two body positions)"
 format_version: 1
 ---
 

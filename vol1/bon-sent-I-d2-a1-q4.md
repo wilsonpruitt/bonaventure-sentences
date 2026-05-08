@@ -13,7 +13,7 @@ pdf_pages: [158, 159, 160]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 56–58"
 has_scholion: true
 has_apparatus: true
-transcription_status: "second-pass OCR cleanup, pending vision verification"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 17360–17786), full literal English translation incl. scholion, 11-entry apparatus from raw OCR; sweep-audited 2026-05-08 (removed editorial «recte 16, 15» gloss not present in Quaracchi)"
 format_version: 1
 ---
 
@@ -178,8 +178,8 @@ Or — differently and better — the mode of producing by art agrees with the m
 
 > The numbered footnotes below correspond to markers in both the Latin body above and the English translation.
 
-[^1]: **La.** Ioan. 16, 13 (recte 16, 15): *Omnia quaecumque habet Pater mea sunt*.
-    **En.** John 16:13 [recte 16:15]: *«All things whatsoever the Father has are mine»*.
+[^1]: **La.** Ioan. 16, 13: *Omnia quaecumque habet Pater mea sunt*.
+    **En.** John 16:13: *«All things whatsoever the Father has are mine»*.
 
 [^2]: **La.** Plurimi codd. (A C G I K L M O R S Z etc.) minus recte et non sibi constantes *procedendi*. Paulo infra post *artis* ex mss. et edd. 1, 2, 3 restituimus particulam *Et*.
     **En.** Many codices (A C G I K L M O R S Z etc.) less correctly and inconsistently with themselves read *procedendi*. A little below, after *artis*, on the witness of the manuscripts and edd. 1, 2, 3, we have restored the particle *Et*.
