@@ -13,6 +13,8 @@ source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), p. 80"
 has_scholion: false
 has_apparatus: false
 transcription_status: "Phase C rebuild — Latin from stash + raw OCR, fresh English"
+line_start: 21006
+line_end: 21034
 format_version: 1
 ---
 

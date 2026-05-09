@@ -13,6 +13,8 @@ source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 77–80"
 has_scholion: false
 has_apparatus: true
 transcription_status: "Phase C rebuild — Latin from legacy d3-dubia (Dub I–III head) + legacy d3-p1-dubia (Dub III tail + Dub IV); Pars II opening stashed separately; apparatus pending"
+line_start: 20563
+line_end: 21005
 format_version: 1
 ---
 

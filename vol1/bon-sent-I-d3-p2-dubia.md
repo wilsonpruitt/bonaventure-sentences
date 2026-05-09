@@ -13,6 +13,8 @@ source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 93–94"
 has_scholion: false
 has_apparatus: true
 transcription_status: "Phase C Tier 2 — Latin body, English translation, 4-footnote apparatus (2026-04-13)"
+line_start: 23056
+line_end: 23296
 format_version: 1
 ---
 

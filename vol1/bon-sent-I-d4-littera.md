@@ -12,6 +12,8 @@ source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. IV (as printed in 
 has_scholion: false
 has_apparatus: true
 transcription_status: "Phase C Tier 2 complete — Latin body, English body, 16-footnote apparatus (2026-04-13; sweep-audited 2026-05-08 — added 14 page-95 Lombard-text apparatus entries from raw OCR with body anchors in both languages; renumbered prior [^1]/[^2] to [^15]/[^16])"
+line_start: 23297
+line_end: 23486
 format_version: 1
 ---
 

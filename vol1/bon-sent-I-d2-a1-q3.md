@@ -143,7 +143,9 @@ Concerning the question itself: Alexander of Hales, *Summa*, p. I, q. 43, m. 6, 
 [^5]: **La.** Vat. contra mss. et ed. 1 hic et circa finem argumenti post *si diversis* ponit *et* loco *sed*.
     **En.** The Vatican ed., against the manuscripts and ed. 1, here and near the end of the argument after *si diversis* puts *et* in place of *sed*.
 
-[^6]: **La.** *[see [^5]; same apparatus entry]*
+[^6]: **La.** *[see [^5]; same apparatus entry — the printed Quaracchi anchors footnote 5 at two body positions in this paragraph (omnes / sed)]*
+
+    **En.** *[see [^5]; same apparatus entry — the printed Quaracchi anchors footnote 5 at two body positions in this paragraph (omnes / sed)]*
 
 [^7]: **La.** Sensus videtur esse: Deus omnia complet sive perfecta facit; sed personas, i. e. intellectuales naturas sive supposita, beatificando complet: ergo proprium Dei est *beatificare*. — Vat. *illas complere* pro *beatificare* et paulo ante *personas complere* et loco *alia complere*; *ergo*, quae lectio omnibus codd. et ed. 1 contraria est et progressum argumentationis aufert. Paulo post cod. A cum ed. 1 loco *aliquem* habet *aliquam*, supple *personam*.
     **En.** The sense seems to be: God completes all things — that is, makes them perfect — but *persons*, i.e., intellectual natures or supposits, he completes by beatifying them; therefore it is proper to God to *beatify*. — The Vatican ed. reads *illas complere* for *beatificare*, and a little earlier *personas complere*, and in place of *alia complere*, *ergo* — a reading which is contrary to all the codices and ed. 1 and removes the progress of the argument. A little later, cod. A with ed. 1 has *aliquam* in place of *aliquem* — supply *personam*.
