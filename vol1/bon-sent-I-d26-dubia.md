@@ -14,7 +14,7 @@ line_end: 4587
 word_count_latin: 1110
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — head-clip fixed: line_start 4477 → 4355 to capture DUB I–III head (was missing). Latin re-set verbatim from IA djvu OCR pt2 (raw lines 4355–4587) with two-column deinterleaving, fresh literal English translation, 10 dubia I–X, full apparatus from raw OCR (23 entries) across pp. 462–464 footers. p. 464 footnote band absent from OCR sweep — entries [^22]–[^23] are honest stubs flagged [?] pending eyes-on-PDF read of p. 464 footer (sweep audit 2026-05-08 reverted the prior [^23] reconstruction which had been a duplicate of [^17] / John 8:44 / not applicable to DUB X). (2026-05-04; sweep 2026-05-08)"
+transcription_status: "Phase C Tier 2 complete — head-clip fixed: line_start 4477 → 4355 to capture DUB I–III head. Latin set verbatim from IA djvu OCR pt2 (raw lines 4355–4587) with two-column deinterleaving, fresh literal English, 10 dubia I–X, 23-entry apparatus across pp. 462–464 footers (entries [^1]–[^21] from IA djvu OCR; [^22]–[^23] from PDF pt2 p. 54 footer at 600 dpi). 2026-05-04 base; 2026-05-08 sweep audit; 2026-05-09 PDF-supplement diff-check resolved the 8 prior inline ambiguity flags — see manual-review/d1-d11-pdf-supplement-resolution-log.md for the per-entry disposition of [^11], [^18], [^22], [^23]."
 format_version: 1
 ---
 
@@ -168,7 +168,7 @@ And to this it must be said that [*donator*] can be said either from the act of 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes [^1]–[^11] are reflowed from the page 462 footer (col-A notes 1–5 + col-B notes [unnumbered]–11). Notes [^12]–[^21] are reflowed from the page 463 footer (col-A notes 1–2 + col-B notes 3–10). Anchors [^22]–[^23] in DUB X are present in the body OCR but the corresponding p. 464 footer is absent from the IA djvu OCR sweep — entries are stub placeholders flagged in `manual-review/tier2-ambiguities-d26-dubia.md`.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Latin entries reproduce the Quaracchi apparatus verbatim; English translations follow each Latin entry. Notes [^1]–[^11] are reflowed from the page 462 footer (col-A notes 1–5 + col-B notes [unnumbered]–11); fn [^11] line-wraps onto p. 463 footer top. Notes [^12]–[^21] are reflowed from the page 463 footer (col-A notes 1–2 + col-B notes 3–10). Notes [^22]–[^23] are from the page 464 footer (PDF pt2 p. 54), confirmed eyes-on at 600 dpi 2026-05-09 — see `manual-review/d1-d11-pdf-supplement-resolution-log.md` for the disposition.
 
 [^1]: **La.** Vers. 20. — Verba Damasceni vide supra pag. 410, nota 2.
 
@@ -210,7 +210,7 @@ And to this it must be said that [*donator*] can be said either from the act of 
 
     **En.** Book V *On the Trinity*, c. 1, n. 8 and following, where he also makes mention of the division of separable and inseparable accidents. — The Vatican [edition], with only one or another codex, after *naturam suam* inserts *mutabile aut* (changeable or).
 
-[^11]: **La.** Libr. I. Comment. in Categorias seu Praedicam. Aristotelis: «Sed si quis quoque obiiciat, posse locum accidentia per[?]mutare, malum namque si in manu teneatur, manus mali odore completur, adeo odor quod est accidens, in aliud subiectum transire potest. Sed non hoc ait Aristoteles, quoniam mutare accidens locum non potest, nec ita dixit impossibile esse sine eo in quo erat, sed sine eo in quo est; hoc enim significat mutare quidem posse locum, sed sine aliquo subiecto non posse subsistere». Lib. V. Comment. in Porphyr. recensens communitates et differentias generis et accidentis ait: «*Accidentis vero participatio et intenditur et remittitur. Invenies enim quemlibet paulo diutius ambulantem, et paulo amplius nigrum, et si in ipsis Aethiopibus considerabis, omnes non aeque nigro colore esse obductos invenies*». Idem repetit in fine libri *de Proprio et accidente*.
+[^11]: **La.** Libr. I. Comment. in Categorias seu Praedicam. Aristotelis: «Sed si quis quoque obiiciat, posse locum accidentia permutare, malum namque si in manu teneatur, manus mali odore completur, adeo odor quod est accidens, in aliud subiectum transire potest. Sed non hoc ait Aristoteles, quoniam mutare accidens locum non potest, nec ita dixit impossibile esse sine eo in quo erat, sed sine eo in quo est; hoc enim significat mutare quidem posse locum, sed sine aliquo subiecto non posse subsistere». Lib. V. Comment. in Porphyr. recensens communitates et differentias generis et accidentis ait: «*Accidentis vero participatio et intenditur et remittitur. Invenies enim quemlibet paulo diutius ambulantem, et paulo amplius nigrum, et si in ipsis Aethiopibus considerabis, omnes non aeque nigro colore esse obductos invenies*». Idem repetit in fine libri *de Proprio et accidente*.
 
     **En.** Book I, *Commentary on the Categories or Predicaments of Aristotle*: «But if anyone should also object that accidents can change place, for if an evil [thing] is held in the hand, the hand is filled with the odor of the evil [thing], so that the odor, which is an accident, can pass over into another subject — [we reply that] Aristotle does not say this, since an accident cannot change place, nor did he say [it] to be impossible without that in which it was, but [only] without that in which it is; for this means [that an accident] can indeed change place, but cannot subsist without some subject». Book V of the *Commentary on Porphyry*, reviewing the commonalities and differences of genus and accident, says: «*The participation of accident, however, is both intensified and remitted. For you will find anyone who has walked a little longer [to be] also a little more black, and if you consider [it] among the Ethiopians themselves, you will find them not all to be invested with equally black color*». He repeats the same at the end of the book *On Property and Accident*.
 
@@ -238,9 +238,9 @@ And to this it must be said that [*donator*] can be said either from the act of 
 
     **En.** Verse 44 (John 8, 44). — A little above, after *secundo modo*, codex *V* repeats *dicitur*. — This doubt is also solved by Bl. Albert, here a. 15; [and by] St. Thomas, here near the *littera*.
 
-[^18]: **La.** Aliqui codd. ut *F G T W* *nuncupatur*. Mox tenendum [?] in Vat., pro *nativitate* ponentis *nuncupatione*, auctoritate codd. correximus. — Huius dubii solutionem exhibet etiam S. Thomas, hic circa lit.
+[^18]: **La.** Aliqui codd. ut *F G T W* *nuncupatur*. Mox mendum Vat., pro *nativitate* ponentis *nuncupatione*, auctoritate codd. correximus. — Huius dubii solutionem exhibet etiam S. Thomas, hic circa lit.
 
-    **En.** Some codices such as *F G T W* [read] *nuncupatur* (he is named). Soon [we have read] *tenendum* [?]; in the Vatican [edition], which sets *nuncupatione* (by name) in place of *nativitate* (by nativity), we have corrected on the authority of the codices. — This doubt's solution is also presented by St. Thomas, here near the *littera*.
+    **En.** Some codices such as *F G T W* [read] *nuncupatur* (he is named). Soon [we have corrected] a textual error (*mendum*) of the Vatican, which sets *nuncupatione* (by name) in place of *nativitate* (by nativity), on the authority of the codices. — This doubt's solution is also presented by St. Thomas, here near the *littera*.
 
 [^19]: **La.** Aristot., *de Praedicam.* c. *de Relatione*.
 
@@ -254,10 +254,10 @@ And to this it must be said that [*donator*] can be said either from the act of 
 
     **En.** Thus codices *P Q*; the Vatican [edition] [reads] *nomina decet fingere* (it is fitting to fashion names). Several other codices with edition 1 also favor the reading we have received, putting *docet* (teaches) for *decet* (is fitting), and omitting *Philosophus*. The Philosopher in the place cited actually says: *But it will sometimes perhaps be necessary even to fashion a name, if there has not been a name imposed, to which it might be conveniently assigned*. — A little after, many codices with edition 1 [read] *carere* in place of *iacere*.
 
-[^22]: **La.** [?] Aristot., *de Praedicam.* c. *de Relatione*. [Reconstructed reference: the IA djvu OCR sweep does not capture the p. 464 footer between body line 4587 and DISTINCTIO XXVII at line 4588. The body anchor stands at *relativa sint simul natura* — the standard Aristotelian tag from *Categoriae* 7b15. Citation plausible but unverified; needs eyes-on-PDF read of p. 464 footer (pdf p. 54).]
+[^22]: **La.** Aristot., loc. cit.
 
-    **En.** [?] Aristotle, *On the Categories*, chapter *On Relation*. [Reconstructed reference; pending eyes-on-PDF verification of p. 464 footer.]
+    **En.** Aristotle, the place cited (back-reference; the immediately previous footnote anchor at the same locus, [^19]–[^20], gave *de Praedicam.* c. *de Relatione* — Quaracchi here uses *loc. cit.* to point back to that citation rather than restate it).
 
-[^23]: **La.** [?] Footer note absent from IA djvu OCR sweep of p. 464; body marker present at *sic et donum* (raw line 4583). Pending eyes-on-PDF read of p. 464 footer (pdf p. 54).
+[^23]: **La.** Sic maior pars codd. cum ed. 1; aliqui ut *L P Q W Z* *Vat.* cum cod. *cc* et *sic*.
 
-    **En.** [?] Footer note absent from IA djvu OCR sweep of p. 464; body marker is on the conjunction *et* in *sic et donum*, suggesting a textual variant. Pending eyes-on-PDF verification.
+    **En.** Thus the majority of codices with ed. 1; some, such as *L P Q W Z*, [read with] the *Vatican* with codex *cc* and *sic*. (A textual-variant note on the conjunction *sic* in the body phrase *sic et donum*; the chunk's body word is the lemma the editors are recording variants on.)

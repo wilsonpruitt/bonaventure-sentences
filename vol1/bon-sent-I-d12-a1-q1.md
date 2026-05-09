@@ -16,7 +16,7 @@ has_apparatus: true
 line_start: 42148
 line_end: 42339
 word_count_latin: 1232
-transcription_status: "Phase C Tier 2 complete with caveats — Latin re-set verbatim from IA djvu OCR (raw lines 42148–42339), fresh literal English translation, apparatus [^1]–[^9] from OCR (page 220), apparatus [^10]–[^13] flagged [?] because page-221 apparatus block is missing from OCR (body markers present, content reconstruction unverified — see manual-review/tier2-ambiguities.md), scholia I–III (2026-05-02)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 42148–42339), fresh literal English translation, apparatus [^1]–[^9] from OCR p. 220 footer, apparatus [^10]–[^13] recovered from p. 221 footer (originally thought missing; in fact present in OCR at lines ~42349–42380, mis-attributed to Q.II in linear OCR stream — confirmed eyes-on against PDF p. 221 footer at 600 dpi 2026-05-08), scholia I–III (2026-05-02; apparatus reconciliation 2026-05-08)"
 format_version: 1
 ---
 
@@ -164,21 +164,21 @@ If, then, it is asked whether the Holy Spirit proceeds prior from the Father tha
 
     **En.** Codex X reads *immutabilitati*.
 
-[^10]: **La.** [?] — Apparatus block for page 221 missing from IA djvu OCR. Body marker present after *alter accipit ab altero*. Reconstruction (unverified): possibly a Vatican-vs-mss variant on *accipiat / accipit*. → Resolve by PDF p. 221.
+[^10]: **La.** Cod. R addit *bene*.
 
-    **En.** [?] — Apparatus missing from OCR; body marker present after *the one receives from the other*. See `manual-review/tier2-ambiguities.md`.
+    **En.** Codex R adds *bene* (well).
 
-[^11]: **La.** [?] — Apparatus block for page 221 missing from IA djvu OCR. Body marker after *si intelligatur prius*. Reconstruction (unverified): possibly a manuscript variant on the placement or omission of *prius*. → Resolve by PDF p. 221.
+[^11]: **La.** Fide antiquiorum mss. et ed. 1 adiecimus *prius*. Paulo infra sequimur codd. M Y et ed. 1 addendo: *similiter si prius origine.* — Consentit Anselm., de *Proces. Spir. sanct.* c. 23–25.
 
-    **En.** [?] — Apparatus missing from OCR; body marker after *if* prior *is understood*. See `manual-review/tier2-ambiguities.md`.
+    **En.** On the testimony of the older mss. and ed. 1, we have added *prius*. A little below, we follow codd. M Y and ed. 1 in adding: *similiter si prius origine* (likewise if [it is understood as] prior in origin). — Anselm agrees, *On the Procession of the Holy Spirit*, c. 23–25.
 
-[^12]: **La.** [?] — Apparatus block for page 221 missing from IA djvu OCR. Body marker after *Ad illud ergo*. Reconstruction (unverified): possibly a manuscript variant on *ergo / autem*. → Resolve by PDF p. 221.
+[^12]: **La.** Vat. omittit contra vetustiores codd. et ed. 1 *ergo*. Mox ed. 1 post *et bene* addit *prima*.
 
-    **En.** [?] — Apparatus missing from OCR; body marker after *To that, then*. See `manual-review/tier2-ambiguities.md`.
+    **En.** The Vatican edition, against the more ancient codd. and ed. 1, omits *ergo*. Shortly afterwards, ed. 1 adds *prima* after *et bene*.
 
-[^13]: **La.** [?] — Apparatus block for page 221 missing from IA djvu OCR. Body marker after *quod per prius*. Reconstruction (unverified): possibly a manuscript variant on *quia per / quod per*. → Resolve by PDF p. 221.
+[^13]: **La.** Fide aliquorum mss. ut YZ et ed. 1 supplevimus *per*, quod et supra in ipsa obiectione habetur. Paulo ante unus alterve codex *aliud* loco *illud*.
 
-    **En.** [?] — Apparatus missing from OCR; body marker after *what one has prior*. See `manual-review/tier2-ambiguities.md`.
+    **En.** On the testimony of some manuscripts (YZ) and ed. 1, we have supplied *per*, which is also found above in the objection itself. Shortly before, one or another codex has *aliud* in place of *illud*.
 
 ## Notes
 

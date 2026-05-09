@@ -16,7 +16,7 @@ has_apparatus: true
 line_start: 66415
 line_end: 66679
 word_count_latin: 864
-transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR (raw lines 66415–66679, line_start extended from 66439 to 66415 by main thread to capture ARTICULUS II opener and a2 intro), literal English, 14-footnote apparatus from PDF pp. 383–385 footers (excludes footnotes belonging to a1-q2 ad-replies appearing on p. 383), scholion translated (2026-05-03)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR (raw lines 66415–66679), literal English, 14-footnote apparatus verbatim from PDF pp. 383–385 footers, scholion translated (2026-05-03; PDF-supplement diff-check 2026-05-09 — see manual-review/d1-d11-pdf-supplement-resolution-log.md for the per-entry disposition of [^6], [^12], [^14] and the body-word 'persona' restoration in the closing sentence; all three apparatus entries are now bilingual and quote the printed Quaracchi text directly)."
 format_version: 1
 ---
 
@@ -76,7 +76,7 @@ Secundum enim quod importat privationem associationis, vera est, quia, cum tripl
 
 <!-- page 385 -->
 
-et non alius Pater, sed, *Pater et non alius a Patre*; et ideo non importatur convenientia in forma proprietatis paternitatis cum alietate, sed sufficit, quod sit alia persona — Pater enim est[^14] — vel etiam alia essentia: et illa excludit hoc quod est *solus*; et sic patet illud.
+et non alius Pater, sed, *Pater et non alius a Patre*; et ideo non importatur convenientia in forma proprietatis paternitatis cum alietate, sed sufficit, quod sit alia persona — Pater enim est persona[^14] — vel etiam alia essentia: et illa excludit hoc quod est *solus*; et sic patet illud.
 
 ### Scholion
 
@@ -136,7 +136,7 @@ For insofar as it imports the privation of association, [the locution] is true, 
 
 <!-- page 385 -->
 
-that there be another person — for the Father is [a person][^14] — or even another essence: and that excludes this which is *alone*; and so that [argument] is plain.
+that there be another person — for the Father is a person[^14] — or even another essence: and that excludes this which is *alone*; and so that [argument] is plain.
 
 ### Scholion
 
@@ -170,7 +170,9 @@ that there be another person — for the Father is [a person][^14] — or even a
 
     **En.** The most common reading of the manuscripts and of the earlier editions (except edition 1), in which there is *includit* ("includes"), although in itself it can be explained (cf. the response to argument 3 of the preceding question), nevertheless considering the goal of the argument, we judge less apt and incomplete. A little below, after *primum ergo*, codex *W* adds the particle *et*.
 
-[^6]: **La.** Cod. *V* [primo] *Pater* pro *quod est Pater*, qui et mox post [iterum] interim [ponit?] *semper*. Dein ex antiquioribus mss. et ed. 1 substituimus *falsi* pro *falsa*.
+[^6]: **La.** Cod. *V termino Pater* pro *quod est Pater*, qui et mox post *dicatur* adiicit *semper*. Dein ex antiquioribus mss. et ed. 1 substituimus *falsi* pro *falso*.
+
+    **En.** Codex V reads *termino Pater* in place of *quod est Pater*, and shortly afterwards adds *semper* after *dicatur*. Then on the testimony of the older manuscripts and ed. 1, we have substituted *falsi* for *falso*.
 
     **En.** Codex *V* [reads] *Pater* in place of *quod est Pater*, which [codex] also next, after [the second occurrence], [reads?] *semper*. Then, from the older manuscripts and edition 1, we have substituted *falsi* in place of *falsa*. [OCR badly garbled at "C.fv\. V Iprmiiio... ilirahii inliirii .viiipei"; reading reconstructed.]
 
@@ -194,7 +196,9 @@ that there be another person — for the Father is [a person][^14] — or even a
 
     **En.** Distinction 6, dubium 2, and especially d. 19, p. II, q. 2, ad 1. — The Vatican edition with one or another codex [reads] *supra* ("above") in place of *saepe* ("often"), and against all codices and edition 1 [reads] *aliud* in place of *alius*.
 
-[^12]: **La.** In cod. *T* [adiungitur:] [*Deus*] *Pater nullum dicit distinctionem*.
+[^12]: **La.** In cod. *T* adiungitur: *Pater nullum dicit distinctionem*.
+
+    **En.** In codex T there is added: *Pater nullum dicit distinctionem* ("the Father expresses no distinction").
 
     **En.** In codex *T* [there is added:] *Deus Pater nullum dicit distinctionem* ("'God the Father' expresses no distinction"). [OCR garbled at "iidiiiiipiiiiioi»)... iiilliim"; reading reconstructed.]
 
@@ -202,6 +206,8 @@ that there be another person — for the Father is [a person][^14] — or even a
 
     **En.** Several codices such as *V W* [read] *convenirent* ("would agree"). Next codex *Y* [reads] *illud* in place of *istud*. [OCR garbled at "Piiiiii iml.l. lif V IV riiiiiiniiiinit"; reading reconstructed.]
 
-[^14]: **La.** [Lacuna in OCR: textus desideratur post *Pater enim est*, ante *— vel etiam alia essentia*. Verisimiliter *alia persona* vel similiter supplendum.]
+[^14]: **La.** Vat. cum solo cod. cc hic repetit *alia*. Mox ex plurimis mss. et ed. 1 substituimus *illa* pro *ista*.
+
+    **En.** The Vatican alone with codex *cc* here repeats *alia*. Soon after, on the testimony of most manuscripts and ed. 1, we have substituted *illa* for *ista*.
 
     **En.** [Lacuna in OCR: the text after *Pater enim est* and before *— vel etiam alia essentia* is missing. Most likely *alia persona* ("another person") or similar is to be supplied.]

@@ -13,7 +13,7 @@ pdf_pages: [158, 159, 160]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 56–58"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 17360–17786), full literal English translation incl. scholion, 11-entry apparatus from raw OCR; sweep-audited 2026-05-08 (removed editorial «recte 16, 15» gloss not present in Quaracchi)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 17360–17786), full literal English translation incl. scholion, 11-entry apparatus from raw OCR; sweep-audited 2026-05-08 (removed editorial «recte 16, 15» gloss not present in Quaracchi). PDF-supplement diff-check 2026-05-09 (see manual-review/d1-d11-pdf-supplement-resolution-log.md): *Sed contra* opener restored to literal Quaracchi text from PDF p. 56 at 600 dpi ('quia necesse est, in illa Trinitate esse beatitudinem, perfectionem, simplicitatem, primitatem'); [^3] body anchor moved from 'est' to 'simplicitatem' to match the printed footnote-3 superscript position. Args 1–4 of *Sed contra* verified verbatim against OCR + 600 dpi."
 format_version: 1
 ---
 
@@ -40,7 +40,7 @@ Quarto et ultimo quaeritur, utrum in divinis personis sit ponere trinitatem. Et 
 
 **4.** Item, cum in divinis sit duplex modus producendi[^2], scilicet unus per modum naturae, alius per modum voluntatis, et ibi debeat esse completa ratio productionis, videtur etiam, quod ibi debeat esse modus producendi tertius per modum artis. Et si sic, erit ibi ponere quartam personam secundum hunc modum producendi.
 
-*Sed contra:* Quod sit ibi trinitas tantum, ostenditur ex suppositionibus superius factis, quia in illa Trinitate est[^3] beatitudo, perfectio, simplicitas, primitas.
+*Sed contra:* Quod sit ibi trinitas tantum, ostenditur ex suppositionibus superius factis, quia necesse est, in illa Trinitate esse beatitudinem, perfectionem, simplicitatem[^3], primitatem.
 
 **1.** Ex prima suppositione ostenditur sic: si est ibi summa beatitudo: ergo summa concordia; ergo est summa germanitas, summa caritas. Sed si essent plures quam tres, non esset ibi summa germanitas; si pauciores, non esset ibi summa caritas: ergo sunt tres tantum. Probatio minoris. Si est ibi quarta persona, aut procedit ab una, aut a duabus, aut a tribus. Si ab una vel[^4] duabus tantum, tunc non perfecte et aequaliter convenit cum omnibus; si autem a tribus, tunc duae personae intermediae magis conveniunt ad invicem quam cum extremis, quia producuntur et producunt; et ita non est ibi perfectus nexus. — Item, si essent pauciores quam tres, non esset ibi perfecta caritas, quia perfectus amor et est liberalis et est communis: quia liberalis, ideo tendit in[^5] alterum; quia communis, ideo vult illum diligi ab altero et diligere alterum sicut se et a se: ergo est ibi dilectio et condilectio; hoc autem non potest esse minus quam in tribus.
 
@@ -116,7 +116,7 @@ Fourth and finally, it is asked whether a trinity is to be posited in the divine
 
 **4.** Likewise, since in divine things there is a twofold mode of producing[^2] — one by way of nature, and the other by way of will — and since there ought to be a complete account of production there, it seems also that there ought to be a third mode of producing, by way of art. And if so, a fourth person would have to be posited according to this mode of producing.
 
-*On the contrary:* That there is only a trinity there is shown from the suppositions made above, because in that Trinity there is[^3] beatitude, perfection, simplicity, and primacy.
+*On the contrary:* That there is only a trinity there is shown from the suppositions made above, because it is necessary that in that Trinity there be beatitude, perfection, simplicity[^3], and primacy.
 
 **1.** From the first supposition it is shown thus: if there is supreme beatitude there, then there is supreme concord; therefore supreme kindredship, supreme charity. But if there were more than three, there would not be supreme kindredship; if fewer, there would not be supreme charity: therefore there are only three. Proof of the minor: if there is a fourth person there, it proceeds either from one, from two, or from three. If from one or[^4] from two only, then it does not agree perfectly and equally with all; but if from three, then the two intermediate persons agree more with one another than with the extremes — because they are both produced and produce — and thus there is not a perfect bond there. — Likewise, if there were fewer than three, there would not be perfect charity, because perfect love is both generous and shared: because it is generous, it tends toward[^5] another; because it is shared, it wills that the beloved be loved by another, and that the other be loved as itself and by itself: therefore there is love and *co-love*; but this cannot exist with fewer than three.
 

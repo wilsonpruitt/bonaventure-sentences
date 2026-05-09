@@ -15,7 +15,7 @@ line_end: 37249
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 185–187"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation completed 2026-05-04 (apparatus already bilingual from 2026-04-17), scholion translated, 10-footnote apparatus from raw OCR (2026-05-04)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation, scholion translated, 16-footnote apparatus (2026-05-04 base; 2026-05-09 PDF-supplement audit). 2026-05-09 audit: respondeo continuation onto p. 187 was a paraphrase + fabrication (chunk's 'Unde ergo… / Cassiodoro ergo…' paragraphs do not appear in printed Quaracchi at all) and the four *Ad N* replies were entirely missing. Replaced fabrications with literal text 'Si igitur…et esse coniunctissimum principio productivo… / Cum ergo quaeritur…/ Concedo ergo…' and added the four Ad replies verbatim from raw OCR lines 37246–37310. Apparatus extended [^11]–[^16] from p. 187 footer (raw lines 37310–37345); page-break marker repositioned to its correct mid-sentence location. English mirrors literal Latin; scholion unchanged."
 format_version: 1
 ---
 
@@ -58,15 +58,21 @@ Quarto et ultimo quaeritur, utrum generatio Filii sit terminata. Et quod sic, vi
 
 **Respondeo:** Ad praedictorum intelligentiam notandum, quod quaedam sunt, in quibus idem est esse et factum esse, differt tamen fieri et esse, ut sunt illa, quorum esse est permanens nec dependet omnino a principio producente[^7], immo habent rationem subsistendi aliquam intra se, sive per principia propria sive subiecti, ut substantiae et accidentia innata. Quaedam sunt, in quibus differt esse et factum esse, idem tamen est fieri et esse, ut sunt successiva, quorum esse dependet omnino a principio producente existente in sua actualitate, ut sunt motus et mutationes. Quaedam sunt, in quibus est idem fieri et esse et factum esse, ut sunt illa, quae habent esse permanens et totaliter dependent a principio producente, existente in sua actualitate per eundem modum, per quem in principio[^8], non tantum in se, sed etiam respectu producti, ita quod consimilis modus actualitatis attendatur quantum ad utrumque; et talia sunt influentiae sive corporales sive spirituales. Unde Augustinus octavo super Genesim ad litteram[^9] dicit, quod lumen semper nascitur et, dum nascitur, est, unde aer semper est illuminatus et semper illuminatur. Similiter omnino dicit[^10] de lumine spirituali, quod est gratia.
 
-Si igitur Filius Dei habet esse permanentissimum et habet esse ab alio, et secundum Patris more dictum per generationem, cum producens non possit magis vel minus producere, et quod validius est, non possit non producere, et quod productum est non possit non esse productum; sed productum non possit separari a producente, maxime cum fecunditas generandi non perdatur, sed perficiatur: si ergo in Deo est fecunditas perfecta — patet, quod generatio Filii est huius generis, scilicet in quo idem est fieri et factum esse et esse. Et ideo sic debet dici generatus, quod nihilominus generetur; et sic dicendus est generari, quod nihilominus sit generatus. Et ideo generatio eius dicenda est terminata, quatenus hoc vocabulum excludit imperfectionem; interminata vero, quatenus excludit durationem.
-
-Et sic patet responsio ad utramque partem, quia rationes, quae probant generationem esse terminatam, procedunt de generatione, in qua differt fieri et factum esse. Et illae, quae probant eam non esse terminatam, procedunt de generatione, in qua differt esse et factum esse. Generatio autem Filii est huius conditionis, in qua idem est fieri et esse et factum esse, sicut ostensum est; et ideo utraque pars deficit, quia procedit ex insufficienti.
+Si igitur Filius Dei habet esse permanentissimum
 
 <!-- page 187 -->
 
-Unde ergo quod generatio Filii non terminetur, hoc est, quia semper manet in suo esse, et quod non sit interminata, hoc est, quia Filius est perfectissime genitus. Et ita non potest dici proprie, quod generatio eius sit terminata vel interminata; sed si dicatur terminata, hoc est, quia non imperfecta, quia quoad hoc habetur ex terminatione; si dicatur interminata, hoc est, quia non habet praescriptionem, quia quoad hoc habetur ex interminatione.
+et esse coniunctissimum principio productivo, ut in sui actualitate existenti, quia ipse Filius est purus[^11] actus; omnino idem est in ipso nasci et natum esse; et ideo semper nascitur et semper est natus et semper est, nec unquam desinit nec cessat generari, nec Pater generare.
 
-Cassiodoro ergo quod generatio Filii non terminetur, et concedendum et non concedendum; quia idem est ibi fieri et factum esse, ideo utrumque concedendum est simul; et sic patet, quod generatio Filii est interminata positive, non privative.
+Cum ergo quaeritur, an generatio Filii sit terminata, distinguendum est, quia *terminatum* aut excludit imperfectionem; et sic generatio Filii est terminata, quia perfecta, cum simul sint[^12], immo idem sit generari et generatum esse. Si vero excludat durationem, falsa est, quia semper durat.
+
+Concedo ergo, quod generatio Filii est interminata ratione *desitionis*, quia nunquam desinit generari, sicut probant rationes ad secundam partem adductae.
+
+**1.** Ad illud[^13] quod obiicitur in contrarium, quod *qui semper nascitur nunquam est natus*; dicendum, quod verum est in illa generatione, in qua differt nasci et natum esse; sed non talis est generatio divina. Attamen quia generatio divina intelligitur per generationem creatam, et in creaturis de perfecte nato non dicitur nasci, sed natum esse: ideo vult Augustinus[^14], quod melius dicitur Filius natus esse, quia intelligibilius est, non quia ei non conveniat nasci.
+
+**2. 3.** Ad illud quod obiicitur, quod *produci terminatur ad productum esse*, et similiter, *nobilius est generatum esse quam generari*; dicendum, quod omnia ista tantum ibi habent locum, ubi differt generari et generatum esse. In illa[^15] autem generatione locum non habent.
+
+**4.** Ad illud quod ultimo obiicitur, in generatione, quae semper est in generando etc.; solvendum est per interemptionem; non enim est verum, quod generatio semper ens[^16] semper de novo aliquid producat, quia radius semper oritur a sole, nec tamen semper iteratur nec succedit, sed a sua origine continuatur in esse.
 
 ### Scholion
 
@@ -104,13 +110,21 @@ Fourthly and lastly it is asked whether the generation of the Son is terminated.
 
 **I respond:** For the understanding of the foregoing it is to be noted that there are certain [things] in which to-be and to-have-been-made are the same, yet to-become and to-be differ, as are those things whose being is permanent and does not depend wholly on the producing principle[^7], but rather have some ground of subsisting within themselves, either through their own principles or through [those of] a subject, as substances and innate accidents. There are certain [things] in which to-be and to-have-been-made differ, yet to-become and to-be are the same, as are successive [things], whose being depends wholly on the producing principle existing in its actuality, as are motions and changes. There are certain [things] in which to-become and to-be and to-have-been-made are the same, as are those things which have permanent being and totally depend on the producing principle, existing in its actuality in the same mode by which [it existed] at the beginning[^8], not only in itself but also with respect to the produced [thing], so that a like mode of actuality is observed as to both; and such are influences, whether corporeal or spiritual. Hence Augustine in the eighth [book] *On Genesis according to the Letter*[^9] says that light is always being born and, while it is being born, it is, whence the air is always illuminated and is always being illuminated. He says quite similarly[^10] of the spiritual light which is grace.
 
-If therefore the Son of God has the most permanent being and has being from another, and according to the Father's manner [it is] said through generation, since the producer cannot produce more or less, and what is stronger, cannot not produce, and what has been produced cannot not be produced; but the produced cannot be separated from the producer, especially since the fecundity of generating is not lost but perfected: if therefore in God there is perfect fecundity — it is clear that the generation of the Son is of this kind, namely that in which to-become and to-have-been-made and to-be are the same. And therefore he must be called generated in such a way that nonetheless he is being generated; and he must be called as being generated in such a way that nonetheless he has been generated. And therefore his generation must be called terminated, insofar as this term excludes imperfection; but unterminated, insofar as it excludes [limited] duration.
+If therefore the Son of God has the most permanent being
 
-And so the response to both sides is clear, since the reasons which prove the generation to be terminated proceed from a generation in which to-become and to-have-been-made differ. And those which prove it not to be terminated proceed from a generation in which to-be and to-have-been-made differ. But the generation of the Son is of this condition, in which to-become and to-be and to-have-been-made are the same, as has been shown; and therefore both sides fail, since each proceeds from an insufficient [premise].
+<!-- page 187 -->
 
-Hence therefore that the generation of the Son is not terminated, this is because it always remains in its being; and that it is not unterminated, this is because the Son is most perfectly begotten. And so it cannot properly be said that his generation is terminated or unterminated; but if it be called terminated, this is because it is not imperfect, since as to this it is had from termination; if it be called unterminated, this is because it has no limit (*praescriptionem*), since as to this it is had from unterminatedness.
+and a being most closely conjoined to its productive principle, as [conjoined] to one existing in its own actuality — because the Son himself is pure[^11] act — then to-be-born and to-have-been-born are wholly the same in him; and therefore he is always being born, and is always already born, and always is, nor does he ever cease nor is he ever ceasing to be generated, nor does the Father [ever cease] to generate.
 
-To Cassiodorus, therefore, that the generation of the Son is not terminated, [this is] both to be conceded and not to be conceded; since to-become and to-have-been-made are the same there, therefore both must be conceded together; and so it is clear that the generation of the Son is unterminated positively, not privatively.
+When, therefore, it is asked whether the generation of the Son is terminated, a distinction must be made, since *terminated* either excludes imperfection — and in this sense the generation of the Son is terminated, because [it is] perfect, since they are simultaneous[^12], indeed since to-be-generated and to-have-been-generated are one and the same. But if [terminated] excludes duration, it is false, because [his generation] always endures.
+
+I concede, then, that the generation of the Son is unterminated in the sense of *cessation* (*desitionis*), because it never ceases to be generated, as the reasons adduced for the second side prove.
+
+**1.** To the objection[^13] urged against [this], that *whoever is always being born is never born*: it must be said that this is true in the kind of generation in which to-be-born and to-have-been-born differ; but the divine generation is not such. Nevertheless, since the divine generation is understood through created generation, and among creatures one does not say of a perfectly born [thing] that it is being born but rather that it has been born: therefore Augustine holds[^14] that it is better to say that the Son *has been born*, because [this] is more intelligible — not because it is unfitting that he be born.
+
+**2. 3.** To the objection that *to-be-produced is terminated at product-being*, and likewise, *to-have-been-generated is more noble than to-be-generated*: it must be said that all these [observations] hold only there, where to-be-generated and to-have-been-generated differ. In that[^15] generation, [however,] they have no place.
+
+**4.** To what is finally objected — that in a generation which is always in the act of generating, etc. — the solution is by *interemption*: for it is not true that a generation [which is] always-existing[^16] always produces something afresh, since a ray always rises from the sun yet is not always repeated nor does it [come] in succession, but is continued in being from its origin.
 
 ### Scholion
 
@@ -148,10 +162,35 @@ This question coheres most tightly with the preceding one, as is easily understo
     **En.** Ch. 12, n. 26: *For not, as we were saying, as a man works the earth... does God work the just man, that is, by justifying him, so that if he departs, what he made remains in the one departing; but rather, as the air in the presence of light has not been made bright but is being made bright — because if it had been made bright and were not still being made bright, it would remain bright even when the light was absent — so a man, with God present to him, is illuminated, but when God is absent, is immediately darkened.*
 
 [^10]: **La.** Vide textum modo citatum. — Vat. cum cod. cc, aliis vero cum ed. 1 reluctantibus, *dicendum* pro *dicit*.
-    **En.** See the text just cited. — The Vatican edition with codex cc, but with the others and ed. 1 opposing, reads *dicendum* for *dicit*.
+
+    **En.** See the text just cited. — The Vatican, with codex *cc*, against other manuscripts and ed. 1, reads *dicendum* in place of *dicit*.
+
+[^11]: **La.** Ita vetustiores mss. et ed. 1, dum Vat. cum cod. cc *ipse est Filius et purus*. Paulo ante unus alterve cod. ut PQ cum ed. 1 *sua* loco *sui*.
+
+    **En.** Thus the older manuscripts and ed. 1, while the Vatican with codex *cc* reads *ipse est Filius et purus* (he himself is Son and pure). Slightly earlier, one or another codex (PQ) with ed. 1 reads *sua* in place of *sui*.
+
+[^12]: **La.** Lectio Vat. *simile* loco *simul sint* corrigitur ex mss. et ed. 1.
+
+    **En.** The Vatican reading *simile* in place of *simul sint* is corrected from the manuscripts and ed. 1.
+
+[^13]: **La.** Ed. 1 addit *ergo*.
+
+    **En.** Edition 1 adds *ergo*.
+
+[^14]: **La.** Verba Augustini vide supra in ipsa obiectione. — Mox ed. 1 *dicatur* loco *dicitur*. Paulo ante fide mss. et ed. 1 substituimus *perfecte* pro *perfecto*.
+
+    **En.** For Augustine's words see above in the objection itself. — Shortly afterwards ed. 1 reads *dicatur* in place of *dicitur*. A little earlier, on the testimony of the manuscripts and ed. 1, we have substituted *perfecte* for *perfecto*.
+
+[^15]: **La.** Vat. contra mss. *ista*.
+
+    **En.** The Vatican, against the manuscripts, [reads] *ista*.
+
+[^16]: **La.** Hoc est, *quae semper est*. — Paulo infra post *nec tamen semper* Vat. explicando addit *eius productio*, quod deest in mss. et ed. 1.
+
+    **En.** That is, *which always is*. — A little below, after *nec tamen semper*, the Vatican by way of explanation adds *eius productio*, which is absent from the manuscripts and ed. 1.
 
 ---
 
 ## Notes
 
-- The respondeo section on p. 186–187 contains some OCR-damaged passages in the raw text. The clean transcription above reconstructs the argument from the page images, but the final two paragraphs (starting "Unde ergo" and "Cassiodoro ergo") should be verified against the PDF — the marginal glosses and OCR damage were heavy in this area.
+- (Resolved 2026-05-09) The respondeo section's continuation onto p. 187 was previously a paraphrase + fabrication ("Unde ergo… Cassiodoro ergo…") and the four *Ad N* replies were missing entirely. PDF-supplement audit replaced the fabrications with literal Quaracchi text from p. 187 (lines 37246–37310 of `raw/bonaventure_vol1_pt1`), restored *Ad 1*, *Ad 2/3*, *Ad 4*, and added 6 new apparatus entries [^11]–[^16] from the p. 187 footer (raw lines 37310–37345). All marker positions verified against IA djvu OCR.
