@@ -12,7 +12,7 @@ pdf_pages: [195, 196]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 93–94"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 — Latin body, English translation, 4-footnote apparatus (2026-04-13)"
+transcription_status: "Phase C partial — Latin body and English translation Tier-2 quality; scripture-citation [^1] (Psalm 72:20) properly anchored; printed Quaracchi textual-variant apparatus (~11 entries on pp. 93-94 footers) NOT yet transcribed; supplementary scholar's cross-refs previously presented as [^2]-[^4] moved to `## Notes` section as they are not from the printed apparatus (2026-05-09 — see manual-review/d1-d4-tier2-promotion-log.md)"
 line_start: 23056
 line_end: 23296
 format_version: 1
@@ -124,11 +124,16 @@ Likewise a question arises about what he says: that *"he understood that God has
 [^1]: **La.** Psalm. 72, 20 (Vulg.): *Domine, in civitate tua imaginem ipsorum ad nihilum rediges*. — Verbum *civitate* hic accipitur in sensu metaphorico, scilicet pro *iudicio* sive *providentia*.
     **En.** Psalm 72:20 (Vulgate, 73:20 Heb.): *"O Lord, in your city you shall reduce their image to nothing."* — The word *"city"* is here taken metaphorically, namely for *judgment* or *providence*.
 
-[^2]: **La.** Cfr. Psalm. 48, 13 et 21 (Vulg.): *Homo cum in honore esset, non intellexit*. Textus saepe citatus a S. Bonaventura pro amissione imaginis Dei in statu peccati.
-    **En.** Cf. Psalm 48:13 and 21 (Vulgate, 49:12, 20 Heb.): *"Man, when he was in honor, did not understand."* The text is often cited by St. Bonaventure for the loss of the image of God in the state of sin.
+> **Editor's note (2026-05-09):** The printed Quaracchi apparatus on pp. 93–94 contains ~11 textual-variant footnotes (manuscript collations, codex sigla, *Vat. pro …* readings) that are NOT yet transcribed in this chunk. The cross-reference notes that previously appeared here as `[^2]`–`[^4]` were not from the printed apparatus but were supplementary scholar's commentary (sources for the *homo, cum in honore esset* citation, the *essentia / vita / mens* analysis, and the genitive-construction analysis); they have been moved to the `## Notes` section below. Full Quaracchi apparatus rebuild from raw OCR (lines 23056–23296) is pending; see `manual-review/d1-d4-tier2-promotion-log.md`.
 
-[^3]: **La.** De triplici distinctione *essentia / vita / mens* cfr. August., X *de Trin.* c. 10, n. 13, ubi *mens* proprie dicitur de anima rationali prout habet actum intellectivum. Cfr. etiam Dionys., *de Divinis Nominibus* c. 4.
-    **En.** On the threefold distinction *essence / life / mind*, cf. Augustine, *On the Trinity* X, c. 10, n. 13, where *mind* is properly said of the rational soul insofar as it has an intellective act. Cf. also Pseudo-Dionysius, *On the Divine Names* c. 4.
+---
 
-[^4]: **La.** De constructione genitivi triplici — *possessionis*, *declarationis essentiae*, *intransitiva* — cfr. Prisciani *Institutiones Grammaticae* XVII, et Alanus ab Insulis, *Regulae theologicae* reg. 22. Tertium modum (genitivum intransitivum) Scholastici saepe applicant ad theologica, ut hic de relatione personae ad essentiam.
-    **En.** On the threefold construction of the genitive — *of possession*, *of declaring the essence*, and *intransitive* — cf. Priscian, *Institutes of Grammar* XVII, and Alan of Lille, *Theological Rules*, reg. 22. The Scholastics often apply the third mode (the intransitive genitive) to theological matters, as here concerning the relation of person to essence.
+## Notes
+
+The following are scholar's cross-references preserved from an earlier draft. They are NOT part of the printed Quaracchi critical apparatus and should not be confused with it. Useful as background pointers; rendered without `[^N]` body anchors.
+
+**On *homo, cum in honore esset, non intellexit* (Dubium I respondeo):** Cf. Psalm 48:13 and 21 (Vulgate, 49:12, 20 Heb.): *"Man, when he was in honor, did not understand."* The text is often cited by St. Bonaventure for the loss of the image of God in the state of sin.
+
+**On *essentia / vita / mens* (Dubium II respondeo):** On the threefold distinction *essence / life / mind*, cf. Augustine, *On the Trinity* X, c. 10, n. 13, where *mind* is properly said of the rational soul insofar as it has an intellective act. Cf. also Pseudo-Dionysius, *On the Divine Names* c. 4.
+
+**On the threefold genitive construction (Dubium III respondeo):** *of possession*, *of declaring the essence*, and *intransitive* — cf. Priscian, *Institutes of Grammar* XVII, and Alan of Lille, *Theological Rules*, reg. 22. The Scholastics often apply the third mode (the intransitive genitive) to theological matters, as here concerning the relation of person to essence.

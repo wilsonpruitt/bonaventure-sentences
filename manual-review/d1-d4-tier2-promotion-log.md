@@ -55,17 +55,40 @@ Audit flag: 36 → 0 for `d1-a3-q1`. No translation work needed because the Tier
 
 **Lesson 7 (parser format drift, this session):** when the audit flags `apparatus [^N] missing **La.**` and `**En.**` on a chunk whose `transcription_status` claims `Phase C Tier 2 complete`, do not assume the translations are missing — first check the raw entry format. Tier-1-era format `**La** — ... <br>` parses as neither La nor En because the parser regex requires `**La.**` / `**En.**` (period). A purely mechanical replace-all clears it without touching content. Apply this lesson before opening a translation tool.
 
-## Wave 3+ — pending
+## Wave 3 — 2026-05-09 (d3-p2-dubia honesty pass)
 
-Remaining d.1-d.4 audit findings (per the wave-2 close audit):
+### Finding
 
-1. `d3-p2-a1-q3` apparatus-count diff `+22` (raw=28, chunk=6) — full apparatus rebuild from raw 21664-22244. Weight: large.
+`d3-p2-dubia`'s 4 apparatus defs were a fabrication-via-omission pattern (same class as d9-a1-q4, Task 6 lesson 2):
+- `[^1]` = Psalm 72:20 scripture citation properly anchored to body (legitimate).
+- `[^2]`–`[^4]` = scholar's cross-references (Psalm 48:13 source for *homo cum in honore esset*; Augustine *de Trin.* X.10 on *essentia/vita/mens*; Priscian/Alan-of-Lille on the threefold genitive). Useful as scholar's commentary, but **not** from the printed Quaracchi apparatus.
+- The 11 actual Quaracchi textual-variant footnotes on printed pp. 93–94 (visible in raw OCR lines 23056–23296: codex collations, *Vat. pro …* readings) were entirely missing from the chunk despite the status string claiming "Phase C Tier 2 — 4-footnote apparatus".
+
+### Action taken
+
+- Kept `[^1]` (legitimate scripture citation, anchored body marker).
+- Moved `[^2]`–`[^4]` content to a new `## Notes` section as preserved scholar's commentary, with explicit "NOT part of the printed Quaracchi critical apparatus" framing — preserves the useful pointers without misrepresenting them.
+- Inserted an Editor's note in the apparatus block flagging that the 11-entry Quaracchi rebuild is pending.
+- Updated `transcription_status` from `Phase C Tier 2 —` to `Phase C partial —` (honest non-Tier-2 marker; auditor will warn about the unrecognized prefix, which is the correct signal).
+
+### Audit deltas
+
+- `audit-formatting`: removed 3 orphan-def WARN; added 1 unrecognized-prefix WARN (honest).
+- `audit-apparatus-count`: chunk count 4 → 1; diff `+7` → `+10` (diff *grew* because the 3 orphan defs no longer mask the gap — this is the desired honest signal).
+- Paraphrase audit and build both clean.
+
+### Lesson 8 (fabrication-via-omission)
+
+When `audit-apparatus-count` flags a chunk with chunk-count > 0 but a `+N` diff, do not assume the existing entries are correct. Spot-check whether they correspond to the printed Quaracchi footer markers in the raw OCR range. If the chunk's entries are scholar's cross-references (Augustine cites, Aristotle cites, scripture parallels) while the raw OCR footers are textual-variant notes (codex sigla, *Vat. pro …*, *Cod. X legit …*), the chunk is masking a missing apparatus with fabricated commentary — same pattern as d9-a1-q4. Disposition recipe: keep legitimate-anchored entries, move fabricated cross-refs to a `## Notes` section with explicit non-apparatus framing, downgrade status string to honest `Phase C partial —`, and queue the real apparatus rebuild.
+
+## Wave 4+ — pending
+
+Remaining d.1-d.4 audit findings (post-wave-3):
+
+1. `d3-p2-a1-q3` apparatus-count diff `+22` (raw=28, chunk=6) — full apparatus rebuild from raw 21664-22244. Weight: large. Apply Lesson 8 first: spot-check whether the 6 existing entries are real Quaracchi or fabricated cross-refs.
 2. `d3-p1-dubia` apparatus-count diff `+22` (raw=22, chunk=0); status string honestly says "apparatus pending" — full build from raw 20563-21005. Weight: large.
-3. `d3-p2-dubia` apparatus-count diff `+7` (raw=11, chunk=4) plus formatting WARN "apparatus def with no marker: ['2', '3', '4']". The 3 orphan defs cite Psalm 48, Augustine *de Trin.* X.10, and Priscian/Alan-of-Lille on genitive construction — material relevant to the doubts but not anchored in body. Two possibilities:
-   - (a) Quaracchi apparatus content with anchors forgotten — verify against raw OCR 23056-23296 and place anchors at correct body positions.
-   - (b) AI-generated supplementary cross-refs added without authority — remove or relabel as commentary.
-   Distinguish by diffing the chunk's 4 defs against the 11 raw OCR footer markers in the range. Weight: medium.
+3. `d3-p2-dubia` apparatus-count diff `+10` (raw=11, chunk=1) — 10 entries pending from raw 23056-23296. Status string already honest as `Phase C partial`. Weight: medium.
 4. `d3-p1-dubia` and `d3-p2-divisio` status strings still `"Phase C rebuild — …"` (honest non-Tier-2). Update the prefix only when the apparatus actually lands.
 5. Optional: sample-Tier-2 verification on one already-Tier-2-claimed d.3/d.4 chunk per Task 6 protocol (600 dpi PDF diff vs chunk; look for fabrication).
 
-After wave 3+ closes, re-baseline the audits and confirm formatting + apparatus-count both clean for d.1-d.4 before proceeding to Task 10 (d.5-d.11).
+After wave 4+ closes, re-baseline the audits and confirm formatting + apparatus-count both clean for d.1-d.4 before proceeding to Task 10 (d.5-d.11).
