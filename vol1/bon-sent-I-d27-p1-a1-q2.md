@@ -17,7 +17,7 @@ has_scholion: true
 line_start: 5036
 line_end: 5743
 word_count_latin: 6650
-transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin verbatim from IA djvu OCR pt2 (raw lines 5036–5743) with two-column deinterleaving across printed pp. 468–474, literal English translation, page-bottom apparatus from pp. 468–471 footers (15 entries), 3-section Scholion (I, II, III bibliographic headers), and full Anecdota I + II additions transcribed from pp. 472–474 (the longest single chunk of d.27, containing the famous Bonaventure self-explanation from Prologus to II Sent. and the cod. G additamentum). Some [?] flags on heavily-garbled OCR spots in the Anecdota II disquisition (2026-05-05) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier A): chunk has 25 apparatus defs vs hardened-heuristic raw count 57 (diff +32). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR pt2 (raw lines 5036–5743) with two-column deinterleaving across pp. 468–474, literal English translation, full apparatus from raw OCR (48 entries: 25 body-anchored [^1]–[^25] preserved from prior Tier-2 pass, plus 23 page-foot lemma-variant entries [^26]–[^48] supplementing per-page footer sequences for pp. 468–471 and one p. 472 split), per-page restart convention documented in the apparatus header note, Anecdota I + II (pp. 472–474) preserved verbatim, three [?] flags retained ([^47] OCR-truncated p. 471 footer 11; *valuabiliter[?]*, *inventurus[?]* in Anecdota II); rebuilt 2026-05-09 closing Wave 9b Tier A; see manual-review/d1-d4-tier2-promotion-log.md Lesson 9 and manual-review/tier2-ambiguities-d27-p1-a1-q2.md"
 format_version: 1
 ---
 
@@ -410,6 +410,100 @@ From these things, then, it is plain that one of the said positions (parts) or o
 [^25]: **La.** Sic codd. G aa bb in textu Anecdoti I. — Verba *omisi et nunc suppleo* a S. Bonav. ipso adducta in Anecdoto Prologo II. Sent.
 
     **En.** Thus codd. G aa bb in the text of Anecdotum I. — The words *I omitted and now I supply* are adduced by St. Bonaventure himself in the unedited Prologue to II Sent.
+
+> **Page-foot lemma-variant entries.** The numbered footnotes below ([^26] onward) supplement the body-anchored apparatus above with the remaining per-page Quaracchi footer entries (pp. 468–471) that bear on lemma text or editorial notes rather than on body markers. They are presented page by page in printed-page order; numbering is consecutive in document-reading order, not per-page-restart.
+
+[^26]: **La.** [Page 468, footer 1.] Vat. cum paucis codd. *eaedem proprietates*; non congrue.
+
+    **En.** [Page 468, footer 1.] The Vatican with a few codices [reads] *eaedem proprietates* ("the same properties"); not congruously.
+
+[^27]: **La.** [Page 468, footer 2.] Ubi a Petro Lombardo haec verba Augustini ex libro *Enchiridion* c. 39. n. 12. afferuntur: *Non igitur concedendum est, quidquid de aliqua re nascitur, continuo eiusdem rei filium nuncupandum. Ut enim omittam, aliter de homine nasci filium, aliter capillum, pediculum, lumbricum, quorum nihil est filius.* — Paulo superius cod. S post *Primum quidem* subiicit *est*.
+
+    **En.** [Page 468, footer 2.] Where by Peter Lombard these words of Augustine from the book *Enchiridion* c. 39, n. 12 are adduced: *It is not, then, to be conceded that whatever is born from some thing must straightway be called the son of the same thing. For — to omit that a son is born from a man in one way, a hair, a louse, a worm in another, none of which is a son.* — A little above, cod. S after *Primum quidem* adds *est* ("is").
+
+[^28]: **La.** [Page 468, footer 3.] Cap. 2.
+
+    **En.** [Page 468, footer 3.] Chapter 2.
+
+[^29]: **La.** [Page 468, footer 5.] Plura de hoc vide supra d. 8. q. 1. ad 3. pag. 113.
+
+    **En.** [Page 468, footer 5.] More on this see above d. 8, q. 1, ad 3, p. 113.
+
+[^30]: **La.** [Page 468, footer 6.] Plurimi codd. cum ed. 1 *praedicare*, sed cum in subsequenti propositione omnes codd. et edd. unanimiter vocabulum *praedicatio* exhibeant cum Vat., et hic maluimus *praedicatio* quam verbum *praedicare*. — De duplici hac praedicatione cfr. supra d. 8. a. 1. q. 1. ad 2.
+
+    **En.** [Page 468, footer 6.] Most codices with ed. 1 [read] *praedicare*, but since in the following proposition all codices and editions unanimously exhibit the word *praedicatio* with the Vatican, here also we have preferred *praedicatio* to the verb *praedicare*. — On this twofold predication see above d. 8, a. 1, q. 1, ad 2.
+
+[^31]: **La.** [Page 468, footer 7.] Cap. 1.
+
+    **En.** [Page 468, footer 7.] Chapter 1.
+
+[^32]: **La.** [Page 469, footer 1.] Vat. *generari*, quem errorem correximus ex antiquioribus mss. et ed. 1.
+
+    **En.** [Page 469, footer 1.] The Vatican [reads] *generari* ("to be generated"), which error we have corrected from the older manuscripts and ed. 1.
+
+[^33]: **La.** [Page 470, footer 2.] Supple cum cod. G *est*.
+
+    **En.** [Page 470, footer 2.] Supply with cod. G *est* ("is").
+
+[^34]: **La.** [Page 470, footer 3.] Quaestione principali soluta, S. Doctor ex occasione huius obiectionis in his quae sequuntur solvit connexam quaestionem, scil. quae sit ultima ratio, quare Deus generet et spiret. Cfr. supra d. 7. q. 2. conclus. et hic Scholion.
+
+    **En.** [Page 470, footer 3.] With the principal question resolved, the Holy Doctor on occasion of this objection in what follows solves a connected question, namely what is the ultimate account why God generates and spirates. Cf. above d. 7, q. 2, conclusion, and the Scholion here.
+
+[^35]: **La.** [Page 470, footer 4.] In compluribus codd. ut A I Q S T Y legitur *liberalis ens* pro *homo liberalis*.
+
+    **En.** [Page 470, footer 4.] In several codices such as A I Q S T Y is read *liberalis ens* ("a liberal being") in place of *homo liberalis* ("a liberal man").
+
+[^36]: **La.** [Page 470, footer 6.] Cfr. supra pag. 215, nota 9.
+
+    **En.** [Page 470, footer 6.] Cf. above p. 215, n. 9.
+
+[^37]: **La.** [Page 470, footer 8.] Vat., non suffragantibus codd. neque ed. 1, voci *primum* praemittit *est esse*, et paulo superius eidem voci postponit *quaerere*. Non multo post pro *ponere* nonnulli codd. ut P Q bb (T) *quaerere*.
+
+    **En.** [Page 470, footer 8.] The Vatican, with the codices and ed. 1 not supporting, prefixes to the word *primum* the [words] *est esse*, and a little above postpones to the same word *quaerere*. Not long after, in place of *ponere* some codices such as P Q bb (T) [read] *quaerere*.
+
+[^38]: **La.** [Page 470, footer 12.] Supple cum codd. aa bb *personis*. — Paulo ante complures codd., inter quos et cod. T, cum ed. 1 *producat* pro *producit*, et paulo inferius *quod producat* pro *quia producit*.
+
+    **En.** [Page 470, footer 12.] Supply with codd. aa bb *personis* ("by/to the persons"). — A little before, several codices, among which is also cod. T, with ed. 1 [read] *producat* ("may produce") in place of *producit* ("produces"), and a little below *quod producat* ("that he may produce") in place of *quia producit* ("because he produces").
+
+[^39]: **La.** [Page 470, footer 13.] Cod. T post *proprium* repetit *Patris*. Non multo post pro *dicat* aliqui codd. ut W Y *dicit*, pro quo verbo Vat., antiquioribus codd. nec non ed. 1 refragantibus, substituit verbum *importat*.
+
+    **En.** [Page 470, footer 13.] Cod. T after *proprium* repeats *Patris* ("of the Father"). Not long after, in place of *dicat* some codices such as W Y [read] *dicit*, for which verb the Vatican, with the older codices and ed. 1 contradicting, substitutes the verb *importat*.
+
+[^40]: **La.** [Page 470, footer 14.] Non pauci codd. ut A F G H T V X Y cum ed. 1 *posset*. Paulo inferius post *sua ponit* codd. Q Z repetunt *respectum*.
+
+    **En.** [Page 470, footer 14.] Not a few codices such as A F G H T V X Y with ed. 1 [read] *posset* ("could be"). A little below after *sua ponit*, codd. Q Z repeat *respectum* ("respect").
+
+[^41]: **La.** [Page 471, footer 2 — Hilary, *De Trinitate* IV.] Num. 6: *In uno, ex quo auctoritatem innascibilitatis intelligit (Ecclesia); in uno, per quem potestatem nihil differentem ab auctore veneratur.* Cfr. et IX. n. 31.
+
+    **En.** [Page 471, footer 2 — Hilary, *De Trinitate* IV.] Number 6: *In one [Person] from whom [the Church] understands the authority of unbegottenness; in one through whom she venerates a power not differing from the author.* Cf. also IX, n. 31.
+
+[^42]: **La.** [Page 471, footer 4.] Cod. H *innascibilitas*.
+
+    **En.** [Page 471, footer 4.] Cod. H [reads] *innascibilitas*.
+
+[^43]: **La.** [Page 471, footer 6.] Supple cum codd. G M bb *est*.
+
+    **En.** [Page 471, footer 6.] Supply with codd. G M bb *est* ("is").
+
+[^44]: **La.** [Page 471, footer 7.] Supra d. 2. q. 3, et d. 7. q. 2.
+
+    **En.** [Page 471, footer 7.] Above d. 2, q. 3, and d. 7, q. 2.
+
+[^45]: **La.** [Page 471, footer 9.] Cfr. supra d. 26. q. 3. — Paulo inferius post *hypostasi* Vat. praeter fidem codd. et ed. 1 *non* pro *nisi*.
+
+    **En.** [Page 471, footer 9.] Cf. above d. 26, q. 3. — A little below, after *hypostasi*, the Vatican against the credit of codd. and ed. 1 [reads] *non* in place of *nisi*.
+
+[^46]: **La.** [Page 471, footer 10.] Supple: *reduci necesse est*. — Sola Vat., suppressa voce *unius*, post *personae* interiicit *reduci*, et pro *aliarum* substituit *unius*.
+
+    **En.** [Page 471, footer 10.] Supply: *reduci necesse est* ("it is necessary to be reduced"). — The Vatican alone, with the word *unius* suppressed, after *personae* inserts *reduci*, and in place of *aliarum* substitutes *unius*.
+
+[^47]: **La.** [Page 471, footer 11.] Vat. cum cod. [?] [OCR truncated at column boundary; the footer entry's body is fragmentary in the IA djvu and pertains to a Vatican-edition variant near the close of the page; full text not recoverable from OCR alone].
+
+    **En.** [Page 471, footer 11.] The Vatican with cod. [?] [OCR truncated at column boundary; the footer entry's body is fragmentary in the IA djvu and pertains to a Vatican-edition variant near the close of the page; full text not recoverable from OCR alone].
+
+[^48]: **La.** [Page 472, footer 5 — split from [^24].] Subinde pro *Ideo et ista* permulti codd. cum ed. 1 *Et ideo alia*, qua lectione sensus confunditur, unde Vaticanae lectionem retinuimus. — Nota quod hic codd. G aa bb textum largissima additione locupletant, quam post Scholion invenies.
+
+    **En.** [Page 472, footer 5 — split from [^24].] Then in place of *Ideo et ista* very many codices with ed. 1 [read] *Et ideo alia*, by which reading the sense is confused, whence we have retained the Vatican's reading. — Note that here codd. G aa bb enrich the text with the largest addition, which you will find after the Scholion. (This material is also retained inline in [^24] for reading continuity; entry duplicated here to bring the per-page footer count for p. 472 to its full five-entry total.)
 
 ## Notes
 

@@ -1,26 +1,32 @@
-# Tier-2 ambiguities: bon-sent-I-d31-p2-dubia
+# Tier-2 ambiguities — `bon-sent-I-d31-p2-dubia`
 
-Logged 2026-05-06 during Tier-2 promotion of d.31 Pars II Dubia.
+Originally logged 2026-05-06 during Tier-2 promotion (8-entry apparatus). Superseded 2026-05-09 during Wave 9b Tier A apparatus rebuild (8 → 25 entries).
 
-## Note on dubia count
-The user task spec said "3 dubia (DUB I, DUB II, DUB III)", but the OCR raw line range 13273–13569 (printed pp. 549–552) actually contains **8 dubia (DUB I–VIII)**. All 8 were translated. The DUB. IV–VIII headings are real (not column-break artifacts), even though the heavily two-column-scrambled OCR places them at unusual indents and uses garbled forms (`DuB. IV.`, `DlB. 11.` for DUB. II, `DuB. vni.` for DUB. VIII). The duplicate `DIST. XXXI. P. II. DUBIA.` heading at raw line 13418 is, as the task notes flagged, a page-top running head only.
+## Body-anchor positions ([?] flags)
 
-## Inline `[?]` flags
+The four `[?]` flags now embedded in the chunk are all on body-anchor uncertainty for new apparatus entries; none flag content of the apparatus Latin/English itself.
 
-- **DUB. IV, *Per 1. rationem* paragraph (Latin)**: `quae includit perfectam[?] similitudinem cognoscendi`. OCR reads `perfectam'»` with apparatus marker; one MS variant in the apparatus reads `expressam` (Cod. M). Kept Quaracchi's `perfectam` but flagged because the marker position is awkward.
+1. **DUB IV, body marker [^6] (Vide supra d. 11 a. 2. q. 1, et d. 18[?] p. II. q. 1)**: OCR raw line 13402 reads `Vide supra d. \L  a. 2. q. 1, et d. IS. p. II. q. I.` — `\L` and `IS` are OCR garbles for Roman numerals. Best reading is `XI` (= 11) for the first and `XVIII` (= 18) for the second, but PDF spot-check not done. Currently rendered as 11 and 18 with `[?]`. → Resolve by 600-dpi PDF check of p. 550 footer fn 4.
 
-- **DUB. V, opening (Latin/English)**: `quae attribuit[?]`. OCR shows a unmarked footnote anchor (`attribuit'`); the apparatus note 2 for page 551 reads "Intellige: Hilarius, ex quo etiam dubia, quae sequuntur, sumta sunt." That note clarifies the unstated subject, but does not affect the verb itself; flagged because the anchor is on `attribuit` and the gloss is interpretive rather than a textual variant.
+2. **DUB IV, body marker [^8] (Cod. T cum nonnullis aliis adiicit *est*)**: anchor position uncertain. Footer says Cod. T adds `est` somewhere in the second-account passage. Body has multiple candidates: `talis est`, `imago est`, `frequenter imago non aequatur ei cuius est`. Currently anchored on `talis est` / `as such` — best fit because Quaracchi listed this fn between fn 7 (`qui est`) and fn 9 (`indistincta`/`indiscreta`), which brackets the start of the second account. → Resolve by 600-dpi PDF check of p. 550 body marker between fns 6 and 7 (per-page numbering).
 
-- **DUB. VIII, Respondeo opening (Latin/English)**: `Dicendum, quod[?] Hilarius intendit`. OCR shows a `^` after `quod` with no clearly matching footnote in the page-552 apparatus block (which ends at line 13598 of raw). The footnote may belong to a marginal sigla noting Hilary as the subject; left flagged.
+3. **DUB IV, body marker [^14] ("Cod. T (in marg.) addit *in*"; placed at "ideo prima")**: OCR raw line 13454 shows `ideo^ prima dicitur similitudo` — the `^` is the marker. The footer says Cod. T adds *in* near here. The English mirrors at "therefore the first[^14] is called". Position is plausible but not pdf-verified. → Resolve by 600-dpi PDF check of p. 551.
 
-- **DUB. VIII, Respondeo (Latin/English)**: `volentes elidere[?]`. OCR's `eludere` variant (apparatus note for page 552: "Paulo post pro *elidebat* Vat. cum codd. A L T X Y Z et ed. 1 *eludebat*") confirms a Vat./most-codd. reading of `eludebat` rather than `elidebat`. Quaracchi prints `elidere` / `elidebat` in the body; left as printed but flagged for the variant.
+4. **DUB VIII, body marker [^25] ("Complures codd. ... *quin*"; placed at "non quia")**: page-552 footer 5 records a *quin* variant. The body has `non quia utrumque non sit verum` (in `**Respondeo**` of DUB VIII reply); `non quin` is a Latin idiom and the most plausible site for the variant. Alternative candidate: `quia videtur haec confessio fidei` (DUB VIII opening). Currently anchored on `non quia` / `not because`. → Resolve by 600-dpi PDF check of p. 552 footer fn 5 (or post-substantiam-footer entry).
 
-## Apparatus footnote scope
+## Apparatus content (no [?] embedded in Latin/English text proper)
 
-Page 549 has 9 OCR footnotes (lines ~19–39 of the chunk raw). The first 7 belong to content **before** our chunk (the Quaestio 3 commentary, *De ratione appropriationis*, and the SCHOLION above the dubia heading). Only notes 8 ("Cod. bb hunc") and 9 ("Cod. T omittit relationem. secundum...") attach to DUB. I — preserved here as `[^1]` and `[^2]`.
+The 25 footer entries themselves are OCR-clean enough (after silently correcting common garbles: `iddit` → `addit`, `defmitur` → `definitur`, `incongnie` → `incongrue`, `cmcordibus` → `concordibus`) that no `[?]` appears within the rendered Latin or English of any apparatus entry.
 
-Page 550 has 10 OCR footnotes. The first ~3 attach to the right column of DUB. IV (essentialiter argument). Notes preserved here as `[^3]–[^6]`. Some notes near the end (e.g. `>` Cod. M *expressam*) are textual variants on DUB. IV's "perfectam" wording — represented inline via the `[?]` flag rather than a separate apparatus entry, since the variant is minor and the apparatus marker positions are scrambled by the column layout.
+The four prior-log [?] flags (perfectam, attribuit, quod, elidere) were body-text uncertainties about marker positions; they are now resolved by the 25-entry apparatus rebuild — `attribuit` now carries the rendered cross-ref [^15]; `elidere`/`elidebat` is covered by [^23]; `expressam` MS variant is now its own entry [^12]; the unmarked `quod` after `Dicendum,` was a residual OCR mark-up artifact and carries no Quaracchi footer in the per-page footer block, so the [?] is dropped (the body now carries no marker at that position).
 
-Page 551 has 3 OCR footnotes (visible at lines 217–231 of chunk raw). They are mostly cross-references for the Hilary citation context and the Aristotle source on `unius rei una sit definitio` (already captured in `[^5]`). No additional dubia-specific apparatus needed.
+## Page-counting note
 
-Page 552 footnotes appear in the OCR **after** the d.32 opening paragraph (lines 13585–13598 of raw), because the two-column OCR pulled them down. The substantive entries: note 1 (DUB. VII `ubi…`/textual variants), note 4 (DUB. VIII `substantiam`/`consonantiam` MS variant), and the cross-reference to S. Thomas. Captured here as `[^7]` and `[^8]`.
+The hardened audit-apparatus-count heuristic returned 38 for raw lines 13273–13569, but eyes-on walk yields 25 dubia-relevant footers:
+
+- **p. 549**: 2 entries (fns 8, 9 of the page-549 footer block; the earlier 7 footers belong to the prior d.30 a3-q3 chunk which spans the page-548–549 break)
+- **p. 550**: 10 entries (full per-page sequence 1–10)
+- **p. 551**: 8 entries (full per-page sequence 1–8)
+- **p. 552**: 5 entries (fns 1–5 of the dubia portion; fns labelled 1–2 in the right-hand column of p. 552 belong to the d.32 chunk that begins on this page)
+
+The heuristic overcount (~13) is consistent with Lesson 9's stated ~10% noise margin extended by the cross-distinction page sharing on pp. 549 and 552.

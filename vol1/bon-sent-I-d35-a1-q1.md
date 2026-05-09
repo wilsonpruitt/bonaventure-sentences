@@ -16,7 +16,7 @@ has_apparatus: true
 line_start: 18309
 line_end: 18857
 word_count_latin: 4519
-transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin re-set verbatim from IA djvu OCR (raw lines 18309–18857 of pt2), fresh literal English translation, full apparatus from raw OCR (12 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier A): chunk has 12 apparatus defs vs hardened-heuristic raw count 49 (diff +37). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR pt2 (raw lines 18309–18857), literal English translation, full apparatus from raw OCR (15 entries across 6 printed-page footer sequences for pp. 600–605: p.600 = 6 entries [^1]–[^6], p.601 = 6 entries [^7]–[^12], p.602 = 3 entries [^13]–[^15], pp. 603–605 = 0 entries / pure scholion body), per-page restart convention, scholion from OCR with [?] flags on ambiguous spots carried over from prior pass; rebuilt 2026-05-09 closing Wave 9b Tier A; see manual-review/d1-d4-tier2-promotion-log.md Lesson 9. NOTE: hardened-heuristic audit reports raw=49 (diff +34), but eyes-on PDF inspection of pp. 600–605 footers (raw/doctorisseraphic12bona.pdf, pdf pages 190–195 at 600dpi) confirms ground-truth = 15 entries; remainder of audit-script count is Scholion body (pp. 602–605) miscounted as footer-note openers via italicized-citation false positives. See manual-review/tier2-ambiguities-d35-a1-q1.md."
 format_version: 1
 ---
 
@@ -83,9 +83,9 @@ Ad intelligentiam autem obiectorum intelligendum, quod idea dicitur similitudo r
 
 <!-- page 602 -->
 
-3. Ad illud quod obiicitur tertio, quod nobilior est cognitio per essentiam; dicendum, quod est similitudo causata a veritate rei extra, et de hac verum est, quod nunquam ita perfecte exprimit rem, sicut ipsa res si praesentialiter esset apud animam, et hac similitudine non cognoscit Deus. Est alia similitudo, quae est ipsa veritas expressiva cogniti, et eo similitudo, quo veritas; et haec similitudo melius exprimit rem, quam ipsa res se ipsam exprimat, quia res ipsa accipit rationem expressionis ab illa: et secundum hanc est perfectior cognitio, et hac cognoscit Deus.
+3. Ad illud quod obiicitur tertio, quod nobilior est cognitio per essentiam; dicendum, quod est similitudo causata a veritate rei extra, et de hac verum est, quod nunquam ita perfecte exprimit rem, sicut ipsa res si praesentialiter esset apud animam[^13], et hac similitudine non cognoscit Deus. Est alia similitudo, quae est ipsa veritas expressiva cogniti, et eo similitudo, quo veritas; et haec similitudo melius exprimit rem, quam ipsa res se ipsam exprimat, quia res ipsa accipit rationem expressionis ab illa: et secundum hanc est perfectior cognitio, et hac cognoscit Deus.
 
-4. Ad illud quod obiicitur, quod idea est ad regulandum et dirigendum; dicendum, quod regulari et dirigi potest esse dupliciter: aut per regulam differentem a directo et regulato, et haec ponit imperfectionem et possibilitatem erroris; aut per regulam, quae est idem quod regulatum, et haec ponit impossibilitatem erroris. Quia enim regula errare non potest, et[^8] Deus est ipsa regula et idea: ideo impossibile est, eum errare. Et sic patet, quod idea in Deo non ponit imperfectionem, sed complementum.
+4. Ad illud quod obiicitur, quod idea est ad regulandum et dirigendum; dicendum, quod regulari et dirigi potest esse dupliciter: aut per regulam differentem a directo et regulato, et haec ponit imperfectionem et possibilitatem erroris; aut per regulam, quae est idem quod regulatum, et haec ponit impossibilitatem erroris. Quia enim regula errare non potest, et[^14] Deus est ipsa regula et idea: ideo impossibile est, eum errare. Et sic patet, quod idea in Deo non ponit[^15] imperfectionem, sed complementum.
 
 ---
 
@@ -195,9 +195,9 @@ But for the understanding of the objections, it must be understood that *idea* i
 
 <!-- page 602 -->
 
-3. As to what is objected thirdly, that knowing through essence is more noble; it must be said that there is a likeness *caused by the truth of the thing outside*, and concerning this it is true that it never expresses the thing so perfectly as the thing itself [would] if it were present to the soul, and by this likeness God does not know. There is another likeness, which is the very *expressive truth of the known*, and is a likeness in that it is truth; and this likeness expresses the thing better than the thing itself expresses itself, since the thing itself receives its account of expression *from* it: and according to this is the more perfect knowing, and by this God knows.
+3. As to what is objected thirdly, that knowing through essence is more noble; it must be said that there is a likeness *caused by the truth of the thing outside*, and concerning this it is true that it never expresses the thing so perfectly as the thing itself [would] if it were present to the soul[^13], and by this likeness God does not know. There is another likeness, which is the very *expressive truth of the known*, and is a likeness in that it is truth; and this likeness expresses the thing better than the thing itself expresses itself, since the thing itself receives its account of expression *from* it: and according to this is the more perfect knowing, and by this God knows.
 
-4. As to what is objected, that idea is for *regulating and directing*; it must be said that being-regulated and being-directed can be in two ways: either by a rule different from the directed and regulated, and this posits imperfection and the possibility of error; or by a rule which is the same as the regulated, and this posits the impossibility of error. For since the rule cannot err, and[^8] God is himself the rule and idea: therefore it is impossible that he err. And so it is clear that idea in God does not posit imperfection, but completion.
+4. As to what is objected, that idea is for *regulating and directing*; it must be said that being-regulated and being-directed can be in two ways: either by a rule different from the directed and regulated, and this posits imperfection and the possibility of error; or by a rule which is the same as the regulated, and this posits the impossibility of error. For since the rule cannot err, and[^14] God is himself the rule and idea: therefore it is impossible that he err. And so it is clear that idea in God does not posit[^15] imperfection, but completion.
 
 ---
 
@@ -300,3 +300,15 @@ But whether the doctrine of the Angelic and Seraphic Doctors, beyond a differenc
 [^12]: **La.** Supple: *unde immediata ratio cognoscendi non est obiectum cognitum (veritas), sed similitudo eius*. — In sequenti propositione *e converso* accipiendum est pro *e contrario*, quod etiam exstat in ed. I. — Vetustiores codd. cum ed. 1 *primo*. Mox pro *assimilat cognitum* cod. *bb* *assimilatur cognito*, et subinde pro *competente* plures codd. cum ed. 1 minus clare *competenti*. — Cod. Z *expressissima*. Paulo inferius post *cognoscere* cod. D addit *veritatem, quae est extra; e contrario autem erat in Deo, quia in ipso veritas, quae est intra, facit cognoscere similitudinem, quae est extra*. Deinde post *patent* cod. S addit *omnia*. — Vat. hic subicit *est*, pro quo multo melius substituendum esset: *cognoscit intellectus divinus*. Paulo inferius eadem Vat., nonnullis codd. faventibus, vocem *multitudo* immutavit in *similitudo*. — Supple cum cod. X *scilicet Deo et creaturae*.
 
     **En.** Supply: *whence the immediate account of knowing is not the known object (truth), but its likeness*. — In the following proposition *e converso* is to be taken for *e contrario*, which also stands in edition I. — The older codices with edition 1 [read] *primo*. Soon for *assimilat cognitum* codex *bb* [reads] *assimilatur cognito*, and shortly thereafter, for *competente*, several codices with edition 1 less clearly *competenti*. — Codex Z *expressissima*. A little further on, after *cognoscere*, codex D adds *the truth, which is outside; on the contrary it was in God, since in him truth, which is within, makes [him] to know the likeness, which is outside*. Then after *patent* codex S adds *all*. — The Vatican here subjoins *est*, for which it would be much better to substitute *the divine intellect knows*. A little further on, in the same place, the Vatican, with several codices favoring [it], changed the word *multitudo* into *similitudo*. — Supply with codex X *namely, God and the creature*.
+
+[^13]: **La.** Aliquot codd. ut *A T V* cum ed. 1 *praesenter*, alii ut *X Z aa* *praesens*. Voci *animam*, quae proxime sequitur, cod. *R* praefigit *ipsam*. Dein post *alia similitudo* cod. addit *causata a veritate*, et paulo inferius post *et eo* cod. *X* inserit *est*.
+
+    **En.** Some codices, as *A T V* with edition 1, [read] *praesenter*; others, as *X Z aa*, *praesens*. To the word *animam*, which immediately follows, codex *R* prefixes *ipsam*. Then after *alia similitudo* a codex adds *causata a veritate*, and a little further on, after *et eo*, codex *X* inserts *est*.
+
+[^14]: **La.** Supple cum cod. *bb* *quia*.
+
+    **En.** Supply with codex *bb*: *quia* [since/because].
+
+[^15]: **La.** Vat. praeter fidem codd. et ed. I hic interponit *defectus et*.
+
+    **En.** The Vatican [edition], against the witness of the codices and edition I, here interposes *defectus et*.

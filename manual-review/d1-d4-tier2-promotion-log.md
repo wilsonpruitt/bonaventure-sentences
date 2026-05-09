@@ -166,3 +166,86 @@ This is the inverse of Lesson 8 (fabrication-via-omission via scholar's-cross-re
 ### Next
 
 Wave 5 closes the three d.1–d.4 apparatus-count flags. Task 9 is complete. Task 10 (d.5–d.11) was scoped before the heuristic was hardened; the hardened audit will reframe it. The corpus-wide undercoverage list above is a separate planning conversation with the user.
+
+## Wave 9b Tier A — 2026-05-09 (d37-littera apparatus-incomplete disposition)
+
+### Action
+
+`bon-sent-I-d37-littera` was on the Wave 9b Tier A list with audit diff +30 (raw=62 vs chunk=32). PDF-supplement work had already been done 2026-05-07/09 at 600 dpi (see `d1-d11-pdf-supplement-resolution-log.md`), with three narrative ambiguities resolved at that time, and the chunk's translation + apparatus content was sound.
+
+### Finding
+
+The +30 diff is **OVERCOUNT bias** per the task prompt's twin-bias note on Lesson 9, not real undercoverage. Two contributing sources:
+
+1. **Lombard chapter rubrics as footer false-positives.** The chunk is a *littera* with 9 numbered chapters (Cap. I–IX) plus 2 pars headings plus body italicized rubrics ("Quibus modis dicitur Deus esse in rebus", "De mutatione vero loci magna…", etc.). Each "Cap. N." line and rubric-opener line matches the hardened footer-opener regex `\d{1,2}(?![.0-9])\s+[A-Z]` or `[\W_]{1,3}\s+[A-Z]`. Easily ~15–20 hits.
+
+2. **Two-stream apparatus, by-design single-stream inclusion.** Lombard *littera* pages in Quaracchi carry **two** parallel apparatus bands at the page footer: (a) a left-column text-critical band on Lombard's body (variant readings, marginal cross-refs to Alexander Hal., Albertus, Richardus, Bonaventure parallels — restarts numbering 1, 2, 3 per page) and (b) the right-column "NOTAE AD LIBR. SENTENTIARUM" editorial-content stream (also restarts per page, anchored to numbered superscripts in the body). The chunk consolidates only stream (b), matching the d8-littera convention. The raw OCR counts hits from both streams plus body rubrics, hence +30. The two-stream pattern is the same one driving d8-littera's +28, d28-littera's flagged status, etc.
+
+### Per-page distribution (corrected)
+
+The chunk's prior `## Apparatus` blockquote claimed `12 + 9 + 1 + 10`, but the resolution log for the PDF-supplement pass had already noted [^22] is on p. 634 (not p. 635) and that p. 635 has 3 entries (not 1). Eyes-on confirms:
+
+- **p. 633:** [^1]–[^12] = **12 entries** (right-col NOTAE band: Coloss 2,9 / Errat Magister / Epist 187 c.6 n.19 / Num. 24 / Cap. 7 n. 81 / Edd 1, 3 *qui* / Ibid n. 86 + Ier. 23, 24 / Cap. 66, 1 / Sap. 7, 27 / Epist 166 c.2 n.4 / Tract. 111 n.2 + Ioan 17, 24 + de Agone / Vat. cum aliis edd. addendo *quod*).
+- **p. 634:** [^13]–[^22] = **10 entries** (Dist. XIV + I. Cor. 13, 9 / Libr. II c.21 n.1 + Enarrat. Ps 122 / Epist 187 c.4 n.13 / *Ita cod. D* / Vat. *corporeis* + *repleat loca* / Cap. 29 + *Solet etiam* / Cap. 6 n.21 + Rom. 1, 21 / Vat. *nunc* / Homil. 2 n.1 / Primus locus + Sap. 8, 1 + 7, 25 + de Agone — em-dash separator confirmed against PDF p. 224).
+- **p. 635:** [^23]–[^24] = **2 entries** (*I ad lit. c. 20 n. 39, 40* / *Libr. VIII c. 26 n. 48*).
+- **p. 636:** [^25]–[^32] = **8 entries** (Beda Cap. I + Hom. 34 in Evang / Ambrose I de Spiritu sancto + Isai. 6, 6 / Sap. 8, 1 / Epist 187 c.4 n.11 + *fumus loco humus* / Enarrat. in Ps 147 n.22 / Codd. ABCE *praecidere* / Quaest. 20 + Vat. *Quod enim alicubi* / Codd. AD edd. *doceremus*).
+
+Total: 12 + 10 + 2 + 8 = 32. Matches the chunk's existing apparatus exactly.
+
+### Disposition
+
+- Status string promoted to `Phase C Tier 2 complete — …` with explicit per-page distribution (12/10/2/8) and explicit overcount-bias note on the +30 audit diff.
+- `## Apparatus` blockquote updated with corrected per-page distribution sentence.
+- No body or apparatus content edits — the chunk's content was already correct from the 2026-05-07/09 PDF-supplement pass; this disposition is metadata-only.
+- Three audits clean (paraphrase 0/0; headers 0 flags d.37; apparatus-count: d37-littera no longer carries INCOMPLETE-SUSPECT — the diff+30 row remains in the table but the flag column is empty since `is_tier2=True`).
+- Build: `node site/scripts/build-content.mjs` parses cleanly (414 questions, 350 translated, no errors).
+
+### Lesson 9 reinforcement (OVERCOUNT on littera chunks)
+
+The two-stream apparatus convention on Lombard *littera* pages systematically inflates the hardened audit by ~30 entries per littera. Combined with chapter/rubric line-start matches, every multi-chapter *littera* will land in the +25 to +30 audit diff range even when the editorial-NOTAE apparatus is fully transcribed. **Treat *littera* chunks with status-string-claimed Tier-2-complete and audit diff in the +20 to +35 range as eyes-on disposition candidates, not automatic rebuild candidates.** Real undercoverage on a littera would show diff > +40 plus body anchors with no matching `[^N]:` def — that signal is absent here.
+
+## Wave 9b Tier A — full pass (2026-05-09; closes Tier A)
+
+Full Tier A close. Eight of nine chunks dispositioned (`d36-divisio` deferred — frontmatter line bounds span non-contiguous content from other chunks, audit diff is bounds-noise not undercoverage; needs separate frontmatter-bounds initiative).
+
+### Chunk-by-chunk results
+
+| Chunk | Before | After | Disposition | Notes |
+|---|---|---|---|---|
+| `d5-a1-q1` | 5 | 24 | apparatus-rebuilt-body-paraphrased | Body itself paraphrased; 3 omitted-content clusters at contra-1, replies ad 2/3 — anchors clustered at semantic-end, body rebuild deferred. **NEW failure mode: body undercoverage on top of apparatus undercoverage.** |
+| `d31-p2-dubia` | 8 | 25 | complete | Cross-distinction page boundaries handled (p. 549 fns 1–7 → d.30; p. 552 right-col → d.32) |
+| `d8-p2-a1-q3` | 7 | 37 | complete | 1 [?] flag |
+| `d8-p1-a2-q2` | 12 | 38 | complete | +15 residual heuristic noise (acceptable) |
+| `d7-a1-q1` | 5 | 36 | complete | Conclusio rewritten with verbatim Quaracchi summary (printed conclusion replaced an editorial paraphrase); 6 [?] flags |
+| `d35-a1-q1` | 12 | 15 | complete | **OVERCOUNT finding:** raw=49 vs ground-truth=15. Pp. 602–605 are mostly Scholion (italicized work-citations + lettered series + numbered argument openers all match the regex). +34 residual noise; ACCEPT WITH REASON |
+| `d27-p1-a1-q2` | 25 | 48 | complete | OVERCOUNT: raw=57 vs ground-truth=48. Anecdota II numbered argument blocks + Scholion citations inflate the audit; eyes-on confirms 48. 3 [?] flags |
+| `d37-littera` | 32 | 32 | complete | **OVERCOUNT-only**: no entries added. Two-stream apparatus convention + Lombard chapter rubrics inflate audit by ~30. Per-page distribution corrected (12/10/2/8). Disposition metadata-only. |
+| `d36-divisio` | — | — | DEFERRED | Frontmatter line_start–line_end (20165–20520, 355 lines) spans non-contiguous content; chunk's actual scope is ~80 lines (status string says "20165–20231 + 20507–20520"). Audit raw=52 counts footer entries from intervening chunks. Needs frontmatter-bounds-audit initiative, not apparatus rebuild. |
+
+### Lesson 10 (OVERCOUNT on Scholion-heavy chunks)
+
+The hardened audit overcounts when chunks contain heavy Scholion content (italicized work-citations like `*Sent.* d. 36. q. 3.`, lettered series `a)` `b)`, or numbered argument openers `1.` `2.`). Surfaced on `d35-a1-q1` (raw=49 vs ground-truth=15), `d27-p1-a1-q2` (raw=57 vs 48), and the *littera* chunks (Lesson 9 reinforcement above). The hardened regex was tuned for OCR garbles; it can't tell apart "footer entry opener" from "Scholion citation opener" without context.
+
+**Disposition recipe:**
+1. The audit is ALWAYS a triage signal, never ground truth — both directions.
+2. For chunks claimed Tier-2 with audit diff +20 to +35, eyes-on the printed-page footer band before deciding to rebuild. If ground-truth count matches chunk count, the disposition is metadata-only (status string + ambiguities log); no apparatus changes needed.
+3. For chunks at diff > +40, undercoverage is more likely real but still verify per-page first.
+
+### Lesson 11 (body undercoverage on apparatus rebuilds)
+
+The Wave 5 / Wave 9b agent prompts treated body content as a given ("body is sound; rebuild only apparatus"). Wave 9b Wave 1 d5-a1-q1 broke that assumption: the chunk's Latin body itself is paraphrased relative to printed Quaracchi (3 omitted clusters of editorial commentary on contra-1 / reply ad 2 / reply ad 3). The agent followed orders and clustered orphan apparatus markers at semantic-end, but updated the chunk to claim "Tier 2 complete" — the same misleading-metadata trap.
+
+**Disposition recipe:**
+1. Apparatus rebuild prompts MUST include a body-paraphrase guard step (added Wave 9b Wave 2 onward): "Before placing apparatus markers, spot-check whether the chunk's Latin body actually contains the text that the printed footer entries are commenting on. If clusters are missing, do NOT cluster orphan anchors at semantic-end and call it Tier-2 complete; flag instead."
+2. New status-string variant: `Phase C Tier 2 apparatus-rebuilt-body-paraphrased — …`. Distinct from `complete —` (clean), `apparatus-incomplete —` (Wave 9b downgrade), and `partial —` (mixed).
+3. Body-undercoverage is a separate corpus-wide initiative. After Tier B + C close, run a body-paraphrase audit (compare chunk Latin body length per printed-page against raw OCR per-page line counts; flag chunks where chunk body is < 70% of OCR body length, suggesting paragraph drops).
+
+### Audit deltas at Tier A close
+
+- `audit-paraphrase`: 0 critical / 1 high (pre-existing d11-divisio)
+- `audit-headers`: clean for d.1–d.40 except known d.42–d.48 skeleton flags
+- `audit-apparatus-count`: see per-chunk table above; all 8 closed Tier A chunks within heuristic noise band
+
+### Files touched in Wave 9b Tier A close
+
+8 chunk files modified (apparatus + body anchors); 7 ambiguities logs created/extended; status strings updated. d36-divisio deferred. The d37-littera disposition section above (auto-appended by an agent during this wave) is preserved in place.
