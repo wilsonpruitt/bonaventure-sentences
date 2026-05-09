@@ -40,14 +40,32 @@ The 1 high in paraphrase is `d11-divisio` (pre-existing, not part of this arc).
 
 Wave 1 was mechanical; the Task 6 lesson catalog covered every disposition encountered. New lessons (if any) will land in subsequent waves.
 
-## Wave 2+ — pending
+## Wave 2 — 2026-05-09 (apparatus format conversion on d1-a3-q1)
 
-Targets in priority order (by audit signal strength):
+### What shipped
 
-1. `d3-p2-a1-q3` (diff +22, ARTICULUS I QUAESTIO III content) — full apparatus rebuild from raw 21664-22244.
-2. `d3-p1-dubia` (diff +22, all 4 dubia of pars 1) — full apparatus from raw 20563-21005.
-3. `d1-a3-q1` (6 missing entries) — rebuild `[^13]`-`[^18]` from raw OCR for d.1 a.3 q.1.
-4. `d3-p2-dubia` (diff +7, plus 3 orphaned def markers) — investigate orphans, rebuild from raw 23056-23296.
-5. Optionally a sample-Tier-2 verification on a d.3 or d.4 already-Tier-2-claimed chunk (per Task 6 protocol): pick one at random, 600 dpi PDF diff against the chunk, look for fabrication. d9-a1-q4 caught wholesale fabrication this way.
+**`d1-a3-q1` apparatus format converted to parser-canonical bilingual.** All 18 entries used the legacy Tier-1 format `[^N]: **La** — <Latin><br>\n      **En** — <English>` (em-dash, no period after `La`/`En`, trailing `<br>`). The audit flagged all 18 as missing both `**La.**` and `**En.**`. The translations were already present and complete; the issue was purely formatting drift from the d.10+ corpus convention.
 
-After wave 2 closes, re-baseline the audits and confirm formatting + apparatus-count both clean for d.1-d.4 before proceeding to Task 10 (d.5-d.11).
+Conversion (three replace-all Edits):
+1. `**La** — ` → `**La.** ` (period, drop em-dash)
+2. `**En** — ` → `**En.** ` (same)
+3. `<br>\n` → `\n` (drop legacy line-break tags)
+
+Audit flag: 36 → 0 for `d1-a3-q1`. No translation work needed because the Tier-1 author had already done literal renderings — they just used a non-canonical wrapper.
+
+**Lesson 7 (parser format drift, this session):** when the audit flags `apparatus [^N] missing **La.**` and `**En.**` on a chunk whose `transcription_status` claims `Phase C Tier 2 complete`, do not assume the translations are missing — first check the raw entry format. Tier-1-era format `**La** — ... <br>` parses as neither La nor En because the parser regex requires `**La.**` / `**En.**` (period). A purely mechanical replace-all clears it without touching content. Apply this lesson before opening a translation tool.
+
+## Wave 3+ — pending
+
+Remaining d.1-d.4 audit findings (per the wave-2 close audit):
+
+1. `d3-p2-a1-q3` apparatus-count diff `+22` (raw=28, chunk=6) — full apparatus rebuild from raw 21664-22244. Weight: large.
+2. `d3-p1-dubia` apparatus-count diff `+22` (raw=22, chunk=0); status string honestly says "apparatus pending" — full build from raw 20563-21005. Weight: large.
+3. `d3-p2-dubia` apparatus-count diff `+7` (raw=11, chunk=4) plus formatting WARN "apparatus def with no marker: ['2', '3', '4']". The 3 orphan defs cite Psalm 48, Augustine *de Trin.* X.10, and Priscian/Alan-of-Lille on genitive construction — material relevant to the doubts but not anchored in body. Two possibilities:
+   - (a) Quaracchi apparatus content with anchors forgotten — verify against raw OCR 23056-23296 and place anchors at correct body positions.
+   - (b) AI-generated supplementary cross-refs added without authority — remove or relabel as commentary.
+   Distinguish by diffing the chunk's 4 defs against the 11 raw OCR footer markers in the range. Weight: medium.
+4. `d3-p1-dubia` and `d3-p2-divisio` status strings still `"Phase C rebuild — …"` (honest non-Tier-2). Update the prefix only when the apparatus actually lands.
+5. Optional: sample-Tier-2 verification on one already-Tier-2-claimed d.3/d.4 chunk per Task 6 protocol (600 dpi PDF diff vs chunk; look for fabrication).
+
+After wave 3+ closes, re-baseline the audits and confirm formatting + apparatus-count both clean for d.1-d.4 before proceeding to Task 10 (d.5-d.11).
