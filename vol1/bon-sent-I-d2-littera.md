@@ -11,7 +11,9 @@ pdf_pages: [148, 149, 150, 151]
 source: "Petrus Lombardus, Sententiae in IV Libris Distinctae, Lib. I, d. 2, cc. 1–5 (Quaracchi 1882, as reprinted in S. Bonaventurae Opera Omnia, Tomus I)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 15794–16313), parallel literal English translation, 55-entry apparatus from raw OCR; sweep-audited 2026-05-08 (replaced 2 placeholder apparatus entries [^14] and [^16] with real OCR content; corrected fn 6 *aliud*→*scilicet* OCR-paraphrase)"
+line_start: 15794
+line_end: 16313
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 15794–16313), parallel literal English translation, 55-entry apparatus from raw OCR; sweep-audited 2026-05-08; 2026-05-09 added line_start/line_end frontmatter fields so the paraphrase audit can run content checks (the prior HIGH flag was a false-positive triggered by absent frontmatter)"
 format_version: 1
 ---
 
