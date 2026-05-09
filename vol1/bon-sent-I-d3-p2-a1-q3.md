@@ -14,7 +14,7 @@ pdf_pages: [187, 188, 189, 190]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 85–88"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 — Latin body, English translation, 6-footnote apparatus (2026-04-13). Scholion still pending."
+transcription_status: "Phase C partial — Latin body and English translation Tier-2 quality; 6 anchored apparatus entries are scholar's cross-references (Augustine, Bernard, Pseudo-Aug., Aristotle, Dionysius), NOT verbatim Quaracchi; the printed Quaracchi textual-variant apparatus (~28 entries on pp. 85-88 footers) NOT yet transcribed; scholion still pending (2026-05-09 — see manual-review/d1-d4-tier2-promotion-log.md)"
 line_start: 21664
 line_end: 22244
 format_version: 1
@@ -148,6 +148,8 @@ And therefore it must be said that the powers of the soul are *not the same* as 
 ---
 
 ## Apparatus
+
+> **Editor's note (2026-05-09):** The 6 entries below are scholar's cross-references (Augustine, Bernard, Pseudo-Augustine, Aristotle, Dionysius) anchored to the body where the cited authorities are alluded to or quoted. They are NOT verbatim transcriptions of the printed Quaracchi critical apparatus on pp. 85–88. The Quaracchi footers in this range carry ~28 textual-variant entries (codex collations, *Vat. pro …* readings, *Cod. X legit …* notes) that are not yet transcribed in this chunk. Full Quaracchi apparatus rebuild from raw OCR (lines 21664–22244) is pending; see `manual-review/d1-d4-tier2-promotion-log.md`. The cross-references below are preserved as useful background until the rebuild lands.
 
 [^1]: **La.** August., X *de Trin.* c. 11, n. 18: *Haec tria, memoria, intelligentia, voluntas, quoniam non sunt tres vitae, sed una vita, nec tres mentes, sed una mens: consequenter utique nec tres substantiae sunt, sed una substantia*.
     **En.** Augustine, *On the Trinity* X, c. 11, n. 18: *"These three — memory, understanding, will — since they are not three lives, but one life; not three minds, but one mind: consequently they are not three substances, but one substance."*

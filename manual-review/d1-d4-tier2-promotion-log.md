@@ -81,7 +81,37 @@ Audit flag: 36 → 0 for `d1-a3-q1`. No translation work needed because the Tier
 
 When `audit-apparatus-count` flags a chunk with chunk-count > 0 but a `+N` diff, do not assume the existing entries are correct. Spot-check whether they correspond to the printed Quaracchi footer markers in the raw OCR range. If the chunk's entries are scholar's cross-references (Augustine cites, Aristotle cites, scripture parallels) while the raw OCR footers are textual-variant notes (codex sigla, *Vat. pro …*, *Cod. X legit …*), the chunk is masking a missing apparatus with fabricated commentary — same pattern as d9-a1-q4. Disposition recipe: keep legitimate-anchored entries, move fabricated cross-refs to a `## Notes` section with explicit non-apparatus framing, downgrade status string to honest `Phase C partial —`, and queue the real apparatus rebuild.
 
-## Wave 4+ — pending
+## Wave 4 — 2026-05-09 (d3-p2-a1-q3 honesty pass; d3-p1-dubia already honest)
+
+### Findings
+
+Applied Lesson 8 to `d3-p2-a1-q3`. The 6 anchored apparatus entries are scholar's cross-references (Augustine *de Trin.* X.11 + XV.7; Bernard / Guilelmus *Super Cantica*; Pseudo-Aug. *de Spiritu et anima*; Aristotle *de Anima* II.37; Dionysius *Cael. Hier.* c. 11) — well-translated, properly anchored, but **not** the printed Quaracchi textual-variant apparatus. Raw OCR pp. 85–88 footers carry ~28 entries (codex collations, *Vat. pro …* readings) that are missing.
+
+`d3-p1-dubia` requires no edit this wave — status string already honestly admits `Phase C rebuild — apparatus pending` and the apparatus block already carries an explicit stub note. Most-honest state of the three.
+
+### Action taken
+
+- `d3-p2-a1-q3`: added Editor's note in apparatus block with explicit "scholar's cross-references, NOT verbatim Quaracchi" framing; updated `transcription_status` to `Phase C partial —` with full disposition narrative and pointer to this log.
+- `d3-p1-dubia`: left as-is. Honest non-Tier-2.
+
+### Audit deltas
+
+- `audit-formatting`: `d3-p2-a1-q3` status string prefix changed from `Phase C Tier 2 —` to `Phase C partial —` (auditor will warn on prefix; correct honest signal).
+- `audit-apparatus-count`: unchanged (chunk-counts didn't change). Three-flag baseline: `d3-p1-dubia +22`, `d3-p2-a1-q3 +22`, `d3-p2-dubia +10`.
+- Paraphrase audit and build both clean.
+
+## Wave 5+ — pending
+
+The three apparatus-count flags above are the remaining d.1-d.4 work. Each is a real Quaracchi textual-variant apparatus rebuild from raw OCR (60 entries total across the three chunks). This is wave-dispatch / subagent-template territory:
+
+- 60 entries × ~50 words bilingual translation each = ~3,000 words of careful Latin → English
+- Per-entry recipe: locate raw OCR footer text → clean OCR garbles → translate literally → place body anchor at OCR-marker position → 4-5 space indent **En.** convention
+- Use the Acta agent prompt template (permission test + 30-chunk floor) per `feedback_acta-agent-prompt.md`
+- Wave-dispatch 3-5 subagents in parallel; one chunk per subagent or split largest by ~10-entry batches
+
+Then re-baseline audits, confirm formatting + apparatus-count clean for d.1-d.4, advance to Task 10.
+
+Optional: sample-Tier-2 verification on one already-Tier-2-claimed d.3/d.4 chunk per Task 6 protocol (600 dpi PDF diff vs chunk; look for fabrication). The wave-3 d3-p2-dubia and wave-4 d3-p2-a1-q3 findings suggest other "Tier-2" chunks may be carrying scholar's-cross-refs in place of real Quaracchi apparatus — worth a probabilistic sample.
 
 Remaining d.1-d.4 audit findings (post-wave-3):
 
