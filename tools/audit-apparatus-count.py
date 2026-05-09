@@ -30,12 +30,23 @@ RAW_PT2 = REPO / "raw" / "bonaventure_vol1_pt2_raw.txt"
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 APPARATUS_DEF_RE = re.compile(r"^\[\^[^\]]+\]:", re.MULTILINE)
 APPARATUS_BLOCK_RE = re.compile(r"^## Apparatus\s*\n(.*)\Z", re.DOTALL | re.MULTILINE)
-# Footer footnote indicators: numeral.dot at start of line, OR superscript-style
-# glyphs trailing a word. We use a conservative "numeral + period at line start"
-# pattern restricted to short numerals (1-2 digit / single roman) followed by
-# whitespace and a Latin word — typical Quaracchi footer note opener.
+# Footer footnote indicators. Quaracchi footnote openers in the OCR follow
+# three patterns:
+#   1. Bare 1-2 digit + 2+ spaces:        `13  Restituimus`
+#   2. Garbled glyph (1-3 punct chars):   `'*  Cap.`, `1»  Cap.`, `-"  Fide`
+#   3. Lowercase roman numeral:           `i.  Cap.`, `iv  Vide`
+# Body objections are also numbered (`1.  Augustinus`, `2.  Item,`) — they're
+# distinguished by a *period* after the digit. So the pattern excludes
+# digit-period openers via negative lookahead.
+#
+# Wave-5 (2026-05-09) tested against three apparatus rebuilds with known
+# ground truth: 40/45, 36/36, 24/23 — close enough to ground truth to be
+# a useful triage signal without forcing per-chunk eyes-on every flag.
+# The previous regex `[\d]{1,2}\s*\.?\s+[A-Z]` matched body objections
+# AND missed garbled openers, so it both over-flagged Tier-1 chunks and
+# under-flagged genuine Tier-2 gaps (the wave-5 inverse-Lesson-8 trap).
 FOOTER_NOTE_RE = re.compile(
-    r"^\s*(?:[\d]{1,2}|[ivx]{1,3})\s*\.?\s+[A-Z]",
+    r"^\s*(?:\d{1,2}(?![.0-9])|[\W_]{1,3}|[ivx]{1,3}\.?)\s+[A-Z][a-zà-ÿ]",
     re.MULTILINE,
 )
 

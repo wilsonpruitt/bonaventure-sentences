@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(path:/Users/wilsonpruitt/bonaventure-sentences/**)",
+      "Edit(path:/Users/wilsonpruitt/bonaventure-sentences/vol1/**)",
+      "Edit(path:/Users/wilsonpruitt/bonaventure-sentences/manual-review/**)",
+      "Write(path:/Users/wilsonpruitt/bonaventure-sentences/manual-review/**)",
+      "Bash(mkdir:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(wc:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(sed:*)",
+      "Bash(awk:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(python3.11:*)"
+    ]
+  }
+}
