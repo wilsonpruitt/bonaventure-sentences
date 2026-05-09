@@ -19,6 +19,7 @@ VOL1 = REPO / "vol1"
 RANGE_RE = re.compile(r"lines?\s+(\d+)[–—\-](\d+)")
 
 CANDIDATES = [
+    # Original d.26+ targets (2026-05-08).
     "bon-sent-I-d26-divisio.md",
     "bon-sent-I-d27-p1-divisio.md",
     "bon-sent-I-d27-p2-divisio.md",
@@ -29,6 +30,21 @@ CANDIDATES = [
     "bon-sent-I-d30-a1-q3.md",
     "bon-sent-I-d31-p1-a1-q1.md",
     "bon-sent-I-d37-p1-dubia.md",
+    # d.1-d.3 backfill (2026-05-09 — 9 chunks with explicit `lines NNN-NNN`
+    # in their transcription_status). The audit-formatting tool flagged 26
+    # d.1-d.4 chunks as missing line bounds; these 9 are auto-parseable.
+    # The other 17 lack a parseable range in their status and are deferred
+    # to Task 9 (the per-chunk Tier-2 promotion pass), where each chunk's
+    # line range will be located by grepping for its distinctive header.
+    "bon-sent-I-d1-a1-q1.md",
+    "bon-sent-I-d1-divisio.md",
+    "bon-sent-I-d2-a1-q1.md",
+    "bon-sent-I-d2-a1-q2.md",
+    "bon-sent-I-d2-a1-q3.md",
+    "bon-sent-I-d2-a1-q4.md",
+    "bon-sent-I-d2-divisio.md",
+    "bon-sent-I-d2-dubia.md",
+    "bon-sent-I-d3-divisio.md",
 ]
 
 def backfill(path: Path) -> str:

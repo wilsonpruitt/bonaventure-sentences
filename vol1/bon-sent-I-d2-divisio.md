@@ -12,6 +12,8 @@ source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 49–50"
 has_scholion: false
 has_apparatus: true
 transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 16314–16494), fresh literal English translation, 6-entry apparatus from raw OCR; sweep-audited 2026-05-08 (reverted *rationalem*→*rationabilem* and restored omitted clause «multi enim credunt, qui non intelligunt»)"
+line_start: 16314
+line_end: 16494
 format_version: 1
 ---
 

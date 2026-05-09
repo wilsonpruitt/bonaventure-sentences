@@ -14,6 +14,8 @@ source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 56–58"
 has_scholion: true
 has_apparatus: true
 transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 17360–17786), full literal English translation incl. scholion, 11-entry apparatus from raw OCR; sweep-audited 2026-05-08 (removed editorial «recte 16, 15» gloss not present in Quaracchi). PDF-supplement diff-check 2026-05-09 (see manual-review/d1-d11-pdf-supplement-resolution-log.md): *Sed contra* opener restored to literal Quaracchi text from PDF p. 56 at 600 dpi ('quia necesse est, in illa Trinitate esse beatitudinem, perfectionem, simplicitatem, primitatem'); [^3] body anchor moved from 'est' to 'simplicitatem' to match the printed footnote-3 superscript position. Args 1–4 of *Sed contra* verified verbatim against OCR + 600 dpi."
+line_start: 17360
+line_end: 17786
 format_version: 1
 ---
 
