@@ -17,7 +17,7 @@ has_scholion: true
 line_start: 5036
 line_end: 5743
 word_count_latin: 6650
-transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR pt2 (raw lines 5036–5743) with two-column deinterleaving across printed pp. 468–474, literal English translation, page-bottom apparatus from pp. 468–471 footers (15 entries), 3-section Scholion (I, II, III bibliographic headers), and full Anecdota I + II additions transcribed from pp. 472–474 (the longest single chunk of d.27, containing the famous Bonaventure self-explanation from Prologus to II Sent. and the cod. G additamentum). Some [?] flags on heavily-garbled OCR spots in the Anecdota II disquisition (2026-05-05)"
+transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin verbatim from IA djvu OCR pt2 (raw lines 5036–5743) with two-column deinterleaving across printed pp. 468–474, literal English translation, page-bottom apparatus from pp. 468–471 footers (15 entries), 3-section Scholion (I, II, III bibliographic headers), and full Anecdota I + II additions transcribed from pp. 472–474 (the longest single chunk of d.27, containing the famous Bonaventure self-explanation from Prologus to II Sent. and the cod. G additamentum). Some [?] flags on heavily-garbled OCR spots in the Anecdota II disquisition (2026-05-05) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier A): chunk has 25 apparatus defs vs hardened-heuristic raw count 57 (diff +32). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
 format_version: 1
 ---
 

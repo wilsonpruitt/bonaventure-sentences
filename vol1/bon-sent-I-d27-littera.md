@@ -14,7 +14,7 @@ has_apparatus: true
 line_start: 4588
 line_end: 4823
 word_count_latin: 1820
-transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR (raw/bonaventure_vol1_pt2_raw.txt lines 4588–4823, two-column deinterleaved across printed pp. 464–466, Pars I capp. I–III + Pars II capp. I–V), literal English, apparatus from page-bottom footnote bands of pp. 464–465 (no body apparatus on p. 466 within the littera; the page-bottom band on p. 466 belongs to the COMMENTARIUS that opens at line 4828), tail-trimmed before COMMENTARIUS opener at line 4828 (2026-05-05)"
+transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin set verbatim from IA djvu OCR (raw/bonaventure_vol1_pt2_raw.txt lines 4588–4823, two-column deinterleaved across printed pp. 464–466, Pars I capp. I–III + Pars II capp. I–V), literal English, apparatus from page-bottom footnote bands of pp. 464–465 (no body apparatus on p. 466 within the littera; the page-bottom band on p. 466 belongs to the COMMENTARIUS that opens at line 4828), tail-trimmed before COMMENTARIUS opener at line 4828 (2026-05-05) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier B): chunk has 17 apparatus defs vs hardened-heuristic raw count 40 (diff +23). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
 format_version: 1
 ---
 

@@ -14,7 +14,7 @@ line_end: 13859
 word_count_latin: 1820
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR pt2 (raw lines 13570–13859), Lombard's d.32 littera (single-pars; Capp. I–VI spanning printed pp. 553–556), fresh literal English translation, full apparatus from raw OCR Notae block + inline Magistri-text footers (12 entries), [?] flags on ambiguous spots (2026-05-06)"
+transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin re-set verbatim from IA djvu OCR pt2 (raw lines 13570–13859), Lombard's d.32 littera (single-pars; Capp. I–VI spanning printed pp. 553–556), fresh literal English translation, full apparatus from raw OCR Notae block + inline Magistri-text footers (12 entries), [?] flags on ambiguous spots (2026-05-06) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier B): chunk has 15 apparatus defs vs hardened-heuristic raw count 36 (diff +21). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
 format_version: 1
 ---
 

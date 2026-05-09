@@ -17,7 +17,7 @@ has_apparatus: true
 line_start: 23369
 line_end: 23593
 word_count_latin: 1627
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23369–23593 of pt2), fresh literal English translation, full apparatus from raw OCR (13 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
+transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin re-set verbatim from IA djvu OCR (raw lines 23369–23593 of pt2), fresh literal English translation, full apparatus from raw OCR (13 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier B): chunk has 13 apparatus defs vs hardened-heuristic raw count 38 (diff +25). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
 format_version: 1
 ---
 

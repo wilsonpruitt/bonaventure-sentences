@@ -126,7 +126,9 @@ For any chunk that needs to be promoted to Tier 2 — whether re-verifying a "fi
 
 4. **Translate English literally**. Match the corrected Latin paragraph for paragraph. Use the scholastic-formulae and key-terminology tables further down in this file for consistency.
 
-5. **Apparatus from OCR text directly** — the OCR includes the full Quaracchi apparatus block (typically 20+ footnotes per chunk-page). Pull each entry from raw lines and translate. Do NOT reuse the apparatus block from the existing chunk if you find any divergence — Tier-1 chunks frequently dropped or paraphrased apparatus entries.
+5. **Apparatus from OCR text directly** — the OCR includes the full Quaracchi apparatus block. **Quaracchi restarts footnote numbering on each printed page**, so a multi-page chunk has multiple per-page footer sequences. Render every numbered Quaracchi footer entry in the raw range, page by page; ~10 entries per printed page is normal. Do NOT reuse the apparatus block from the existing chunk if you find any divergence — Tier-1 chunks frequently dropped or paraphrased apparatus entries.
+
+   **Lesson 9 (2026-05-09 wave 5):** when rebuilding from a target count derived from `audit-apparatus-count.py`, the heuristic *undercounts* — it misses garbled OCR openers (`'*` for 14, `1»` for 10, `1'` for 17, `-"` for 20). Walk the raw range yourself; do not stop at the heuristic count. The regex was hardened 2026-05-09 but is still not perfectly faithful (~10% noise either direction). Ground-truth is the printed page footer, not the audit script. See `manual-review/d1-d4-tier2-promotion-log.md` Lesson 9.
 
 6. **PDF (`raw/doctorisseraphic1{1,2}bona.pdf`) is consulted only for**:
    - OCR garbles flagged with `?` glyphs or impossible Latin (extract via `tools/extract-pages.py --volume vol1 --pages N --dpi 400`)
@@ -168,7 +170,7 @@ These three scripts are guard rails against the failure modes caught in the 2026
 
 1. **`audit-paraphrase.py`** — word-prefix Jaccard + length ratio + status-string smell detection. Catches paraphrase suspects via low overlap with raw OCR. Smell-flag column is the reliable signal; non-smell low-Jaccard on pt2 chunks is mostly OCR-garble noise.
 2. **`audit-headers.py`** — counts unique semantic headers (DUB., QUAESTIO, ARTICULUS roman numerals) in raw OCR per distinction vs chunk body headers. Catches silent body dropouts (the d.27 entire-DUB-V-missing class of failure that `[?]`-flag walks miss because no flag is ever placed). Flag = chunk has fewer headers than raw.
-3. **`audit-apparatus-count.py`** — counts raw OCR footer-note patterns vs chunk `[^N]:` defs. Catches vestigial skeleton chunks (auto-chunked with no apparatus despite raw OCR having footer notes — d.3 / d.8 / d.9-dubia-v2 vestigial cleanup pattern) and incomplete promotions (NOT-Tier-2 chunks with high diff).
+3. **`audit-apparatus-count.py`** — counts raw OCR footer-note patterns vs chunk `[^N]:` defs. Catches vestigial skeleton chunks (auto-chunked with no apparatus despite raw OCR having footer notes — d.3 / d.8 / d.9-dubia-v2 vestigial cleanup pattern) and incomplete promotions (NOT-Tier-2 chunks with high diff). **Heuristic regex hardened 2026-05-09** to catch garbled OCR openers (prior regex undercounted by ~50%; see Lesson 9 in `manual-review/d1-d4-tier2-promotion-log.md`). The hardened audit then surfaced ~23 already-"Tier-2 complete" chunks with diff +20 to +48 — those are tracked as Wave 9b and have status strings downgraded to `Phase C Tier 2 apparatus-incomplete —` pending rebuild.
 
 **The audits are noisy** — they're triage signals, not absolute truth. Investigate flagged chunks against the raw OCR; only act after eyes-on confirmation. But never commit a chunk-promotion or scaffold-rebuild that leaves a flag without dispositioning it (resolve, document, or accept-with-reason in the per-distinction sweep audit log).
 

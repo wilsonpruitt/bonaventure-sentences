@@ -15,7 +15,7 @@ line_end: 29831
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 135–137"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body (4 fundamenta + 5 contra restored from PDF p. 135), scholion Latin, full English body, scholion English, 5-footnote apparatus (Aristotle Metaph IX + de Anima II, Dionysius, de Spiritu et anima) (2026-04-13)"
+transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin body (4 fundamenta + 5 contra restored from PDF p. 135), scholion Latin, full English body, scholion English, 5-footnote apparatus (Aristotle Metaph IX + de Anima II, Dionysius, de Spiritu et anima) (2026-04-13) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier A): chunk has 5 apparatus defs vs hardened-heuristic raw count 43 (diff +38). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
 format_version: 1
 ---
 

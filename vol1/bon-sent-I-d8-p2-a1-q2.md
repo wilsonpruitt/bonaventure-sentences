@@ -16,7 +16,7 @@ line_end: 34634
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 168–170"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, English body, scholion (I–V), 8-footnote apparatus (2026-04-13)"
+transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin body, English body, scholion (I–V), 8-footnote apparatus (2026-04-13) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier B): chunk has 8 apparatus defs vs hardened-heuristic raw count 31 (diff +23). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
 format_version: 1
 ---
 

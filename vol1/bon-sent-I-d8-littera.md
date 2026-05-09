@@ -13,7 +13,7 @@ line_end: 31495
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. VIII (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 147–149)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body (Caps I–VIII), English body, 14-footnote apparatus (2026-04-13)"
+transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin body (Caps I–VIII), English body, 14-footnote apparatus (2026-04-13) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier B): chunk has 14 apparatus defs vs hardened-heuristic raw count 42 (diff +28). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
 format_version: 1
 ---
 
