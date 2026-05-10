@@ -16,7 +16,7 @@ has_apparatus: true
 line_start: 16970
 line_end: 17308
 word_count_latin: 2455
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 16970–17308 of pt2), fresh literal English translation, full apparatus from raw OCR (16 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 16970–17308 of pt2), fresh literal English translation, full apparatus from raw OCR (16 entries; ^16 uses Quaracchi `—`-joined micro-note style for several p.588 sub-entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07; Wave 9b Tier C OVERCOUNT-ACCEPT 2026-05-10 — banded +10 attributable to merged micro-notes + garbled OCR superscript markers; body fully literal, no paraphrase)"
 format_version: 1
 ---
 

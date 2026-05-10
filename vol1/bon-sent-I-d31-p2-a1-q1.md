@@ -17,7 +17,7 @@ has_apparatus: true
 line_start: 12163
 line_end: 12364
 word_count_latin: 980
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR pt2 (raw lines 12163–12364), ARTICULUS I + QUAESTIO I, fresh literal English translation, full apparatus from raw OCR (15 entries), scholion translated literally, [?] flags on ambiguous spots (2026-05-06)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR pt2 (raw lines 12163–12364), ARTICULUS I + QUAESTIO I, fresh literal English translation, full apparatus from raw OCR (15 entries: 7 on p.541 + 8 on p.542), scholion translated literally, [?] flags on ambiguous spots (2026-05-06); Wave 9b Tier C disposition OVERCOUNT-ACCEPT — banded heuristic +11 inflated by italicized work citations + scholion lemma cites; eyes-on per-page footer walk confirms 15/15 complete (2026-05-10)"
 format_version: 1
 ---
 

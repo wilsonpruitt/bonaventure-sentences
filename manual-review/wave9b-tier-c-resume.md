@@ -67,19 +67,68 @@ banded diff > 8): ~8-10 chunks including `d27-littera` (+21),
 `d34-a1-q1` (+10). Full table at
 `manual-review/wave9b-tier-c-triage-banded.md`.
 
-### Suggested next move (revised)
+### Real-undercoverage dispatch — done 2026-05-10
 
-Skip the original "validate 10 → tune estimator → re-bucket" plan;
-banded detector is built. Next moves in priority order:
+9 candidates dispatched in 3 waves of 3, with tightened "walk every
+apparatus entry per page from raw OCR" prompts. Outcome:
 
-1. **Eyes-on the ~10 real-undercoverage candidates** above. Dispatch
-   in waves of 3, like Tier B. Tighten the agent prompt: walk every
-   apparatus entry per page against raw OCR, not just count footers.
-2. **Body-paraphrase corpus audit** (Lesson 11 follow-up) — separate
-   initiative for d4-a1-q4 / d5-a1-q1 / d7-a1-q2 / and unknown others.
-3. The 35 small-chunk shared-page suspects (banded +5 to +10, mostly
-   divisios) can probably be batch-accepted without per-chunk dispatch
-   if a quick spot-check on 3-4 confirms the shared-page pattern.
+| Wave | Chunks | Banded diff | Verdict |
+|---|---|---|---|
+| 1 | d27-littera (+21), d35-a1-q1 (+14), d33-littera (+14) | +49 | 3/3 ACCEPT |
+| 2 | d28-littera (+14), d37-p2-a1-q1 (+14), d39-a1-q1 (+13) | +41 | 3/3 ACCEPT |
+| 3 | d31-p2-a1-q1 (+11), d34-a1-q1 (+10), d8-p1-a2-q2 (+8) | +29 | 3/3 ACCEPT |
+
+**9/9 OVERCOUNT-ACCEPT. Zero rebuilds. Zero body-paraphrase finds.**
+
+Across the 9 chunks, banded inflation traced uniformly to:
+- Italicized work citations inside multi-clause apparatus entries
+  (e.g. *de Trinitate*, *Topic.*, *S. Thom. S. I. q. ...*)
+- Lombard chapter rubrics inside littera entries (Cap. I, Cap. II...)
+- Scholion lemma citations (Alex. Hal., Greg. Ariminens., Mastrius...)
+- Em-dash-joined micro-notes correctly bundled in chunk's `[^N]:` defs
+- Shared-page boundary contamination (d8-p1-a2-q2: p.158 fns 1-10
+  belong to prior chunk)
+- OCR-garbled superscript markers caught by the hardened regex
+
+Status strings updated in 8 chunks; d8-p1-a2-q2 disposition logged in
+this resume doc + commit message (no chunk edit needed — Tier-2
+already documented per-page mapping).
+
+### Tier C status
+
+**Tier C closed for the +5 to +21 banded-diff suspect set.** Bucket
+collapse summary:
+
+| Stage | Suspect chunks |
+|---|---|
+| Pre-banded triage | 124 (orig diff > 5) |
+| Post-banded triage | 49 (banded diff > 5) |
+| Post-skeleton-filter | ~45 |
+| Post-Wave-9b-Tier-C-dispatch (top 9) | 36 remaining at banded +5 to +10 |
+
+The remaining 36 are mostly small divisios + quaestio openers at
+distinction boundaries. Wave 9b Tier C precedent strongly suggests
+these will batch-accept with a 3-4 chunk spot-check confirming the
+shared-page-boundary pattern. Not blocking d.41+ chunking.
+
+### Open follow-ups
+
+1. **Body-paraphrase corpus audit** (Lesson 11) — separate initiative
+   for d4-a1-q4 / d5-a1-q1 / d7-a1-q2 / d2-a1-q4 (apparatus side
+   already deferred). Build a tool comparing chunk Latin body length
+   per page against raw OCR per-page line counts; flag chunks
+   < ~70%.
+2. **Spot-check the residual 36** (banded +5 to +10) — pick 3-4 from
+   different pdf_page geometries (single-page divisio, 2-page
+   quaestio opener, 3-page mid-distinction quaestio) and confirm the
+   shared-page-noise pattern. If confirmed, batch-accept; if any
+   surprise, expand.
+3. **d.41+ chunking** — UNBLOCKED for chunking work as of 2026-05-10.
+   Re-chunking + Tier-2 promotion can resume.
+4. **`d36-divisio` frontmatter bounds** — outstanding from earlier
+   notes; line range 20165–20520 (355 lines) spans non-contiguous
+   content; chunk's actual scope ~80 lines. Tighten line bounds OR
+   extend chunk schema for multi-range coverage.
 
 ----
 
