@@ -14,7 +14,7 @@ line_end: 15351
 word_count_latin: 1840
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin re-set verbatim from IA djvu OCR pt2 (raw lines 15062–15351), Lombard's d.33 littera (single-pars; Capp. I–II spanning printed pp. 567–569), fresh literal English translation, full apparatus from raw OCR Notae blocks (19 entries), [?] flags on ambiguous spots (2026-05-07) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier B): chunk has 19 apparatus defs vs hardened-heuristic raw count 41 (diff +22). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR pt2 (raw lines 15062–15351), Lombard's d.33 littera (single-pars; Capp. I–II spanning printed pp. 567–569), fresh literal English translation, full apparatus from raw OCR Notae blocks (19 entries: 0/11/8 across pp. 567/568/569 — p. 567 footers belong to the preceding d.32 chunk, d.33 body begins at the very bottom of p. 567 with no d.33-specific footnotes on that page). Per-page eyes-on walk against `raw/bonaventure_vol1_pt2_raw.txt` lines 15062–15351 confirms ground-truth=19. Hardened-heuristic audit raw=41 (diff +22) is OVERCOUNT bias (Lesson 9 reinforcement + Lesson 10): Cap. I and Cap. II rubric openers, italicized chapter-title rubrics, and the embedded Augustine/Hilary citation series (`Eo quod Deus est, substantia est`, `Pater non illud est quod est`, etc.) all match the hardened footer-opener regex. Disposition metadata-only; no body or apparatus content edits. (2026-05-09)"
 format_version: 1
 ---
 

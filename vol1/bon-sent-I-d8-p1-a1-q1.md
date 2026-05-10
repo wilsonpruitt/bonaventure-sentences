@@ -16,7 +16,7 @@ line_end: 32053
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 150–152"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin body, English body, scholion (I–IV), 10-footnote apparatus (2026-04-13) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier B): chunk has 10 apparatus defs vs hardened-heuristic raw count 31 (diff +21). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
+transcription_status: "Phase C Tier 2 complete — Latin body verbatim from IA djvu OCR (raw lines 31620–32053), literal English translation, scholion I–IV, full apparatus rebuilt from raw OCR (22 entries: p. 150 fns 5–13 = 9, p. 151 fns 1–10 = 10, p. 152 fns 1–3 = 3; p. 150 fns 1–4 belong to d8-p1-divisio per chunk-boundary convention since the top of p. 150 carries the TRACTATIO QUAESTIONUM listing). Hardened-heuristic raw count 31 vs ground-truth 22 reflects ~9 OCR overcount (running heads, rubric-line openers, and the four divisio-page footers); audit residual diff +9 acceptable. Body coverage sound (per-page distribution verified eyes-on against PDF pp. 150–152 at 300 dpi). Disposition rebuild 2026-05-09."
 format_version: 1
 ---
 
@@ -41,43 +41,43 @@ Quod veritas sit proprietas divini esse, ostenditur auctoritatibus et rationibus
 
 3. Item, Augustinus in *Soliloquiis* et *de Vera Religione*[^3] dicit, quod lux increata est ratio cognoscendi se et omnia cognoscibilia: ergo si veritas est ratio cognoscendi, et sola lux increata est veritas: ergo veritas est proprietas Dei solius.
 
-4. Item, Anselmus in libro *de Veritate*[^4] dicit, quod omnia sunt vera prima veritate: aut ergo intelligit *effective*, aut *formaliter*; non effective, quia similiter omnia possent dici vera prima bonitate: ergo intelligitur formaliter: ergo non est alia veritas quam veritas increata: ergo si illa est in Deo et Deus, veritas est solius Dei proprietas.
+4. Item, Anselmus in libro *de Veritate*[^4] dicit, quod omnia sunt vera prima veritate: aut ergo intelligit *effective*, aut *formaliter*; non effective, quia similiter omnia possent[^5] dici vera prima bonitate: ergo intelligitur formaliter: ergo non est alia veritas quam veritas increata: ergo si illa est in Deo et Deus, veritas est solius Dei proprietas.
 
-5. Item, rationibus probatur sic: veritas et vanitas opponuntur; sed omnis creatura habet vanitatem[^5] et permixtionem cum non esse, cum sit ex nihilo, et solus Deus hac caret omnino: ergo in solo Deo est veritas.
+5. Item, rationibus probatur sic: veritas et vanitas opponuntur; sed omnis creatura habet vanitatem[^6] et permixtionem cum non esse, cum sit ex nihilo, et solus Deus hac caret omnino: ergo in solo Deo est veritas.
 
-6. Item, veritas opponitur umbrae. Quod enim est umbra rei, non habet veritatem[^6]; sed creaturae sunt umbrae illius summi esse: ergo non habent veritatem in esse.
+6. Item, veritas opponitur umbrae. Quod enim est umbra rei, non habet veritatem[^7]; sed creaturae sunt umbrae illius summi esse: ergo non habent veritatem in esse.
 
-7. Item, veritas est, qua aliquid est verum; sed veritas est vera, cum sit cognoscibilis; sed constat quod non alio quam se, quia alias esset abire in infinitum; sed quod est verum se ipso, est verum per essentiam: ergo omnis veritas est vera per essentiam; sed sola veritas increata est vera per essentiam: ergo veritas est proprietas Dei solius.
+7. Item, veritas est, qua aliquid est verum; sed veritas est vera, cum sit cognoscibilis; sed constat quod non alio quam se, quia alias[^8] esset abire in infinitum; sed quod est verum se ipso, est verum per essentiam: ergo omnis veritas est vera per essentiam; sed sola veritas increata est vera per essentiam: ergo veritas est proprietas Dei solius.
 
 **Contra:**
 
-1. Si veritas est Dei proprietas, aut ergo veritas complexa, aut incomplexa. Non complexa; quia talis est cum compositione, in Deo autem non est compositio aliqua. Non incomplexa; quia haec convertitur cum ente[^7]: ergo cum entitas non sit Dei proprietas, pari ratione nec veritas erit.
+1. Si veritas est Dei proprietas, aut ergo veritas complexa, aut incomplexa. Non complexa; quia talis est cum compositione, in Deo autem non est compositio aliqua. Non incomplexa; quia haec convertitur cum ente[^9]: ergo cum entitas non sit Dei proprietas, pari ratione nec veritas erit.
 
 <!-- page 151 -->
 
-2. Item, *verum* aeque commune est ut *bonum*, et quodam modo magis; sed bonitas non est Dei proprietas: ergo pari ratione nec veritas.
+2. Item, *verum* aeque commune est ut *bonum*, et quodam modo magis[^10]; sed bonitas non est Dei proprietas: ergo pari ratione nec veritas.
 
-3. Item, veritas est ratio discernendi Creatorem a creatura et creaturam a creatura; sed quod est ratio discernendi et distinguendi est diversum in diversis: ergo alia veritas est in Deo quam in creatura, et in una creatura quam in alia: ergo non est proprium solius Dei.
+3. Item, veritas est ratio discernendi Creatorem a creatura et creaturam a creatura[^11]; sed quod est ratio discernendi et distinguendi est diversum in diversis: ergo alia veritas est in Deo quam in creatura, et in una creatura quam in alia: ergo non est proprium solius Dei.
 
-4. Item, Augustinus in *Soliloquiis*[^8]: *«Verum est id quod est»*, ergo veritas est ipsa entitas: ergo non est proprium essentiae, quia si sic, qua ratione dicitur *veritas est proprietas essentiae*, posset dici e converso, cum omnino idem sint.
+4. Item, Augustinus in *Soliloquiis*[^12]: *«Verum est[^13] id quod est»*, ergo veritas est ipsa entitas: ergo non est proprium essentiae, quia si sic, qua ratione dicitur *veritas est proprietas essentiae*, posset dici e converso, cum omnino idem sint.
 
 > **Conclusio.** Veritas, quatenus opponitur falsitati, invenitur etiam in creaturis secundum triplicem suam comparationem — ad subiectum quod informat, ad principium quod repraesentat, ad intellectum quem excitat; quatenus vero opponitur permixtioni, est proprietas solius Dei.
 
-**Respondeo:** Dicendum, quod veritas habet triplicem comparationem. Habet enim comparari *ad subiectum quod informat*, *ad principium quod repraesentat*, et *ad intellectum quem excitat*. In comparatione ad subiectum dicitur veritas *actus et potentiae indivisio*. In comparatione ad principium dicitur veritas *summae unitatis et primae repraesentatio sive imitatio*. In comparatione ad intellectum dicitur veritas *ratio discernendi*.
+**Respondeo:** Dicendum, quod veritas habet triplicem comparationem. Habet enim comparari *ad subiectum quod informat*, *ad principium quod repraesentat*, et *ad intellectum quem excitat*. In comparatione ad subiectum dicitur veritas *actus et potentiae indivisio*. In comparatione ad principium dicitur veritas *summae unitatis*[^14] *et primae repraesentatio sive imitatio*. In comparatione ad intellectum dicitur veritas *ratio discernendi*.
 
 Et in omnibus istis comparationibus dupliciter potest accipi veritas: uno modo, prout distinguitur contra falsitatem; alio modo, prout distinguitur contra permixtionem, secundum quod verum dicitur *purum et impermixtum*.
 
-Prout veritas dividitur contra falsitatem, quae est privatio indivisionis et imitationis et expressionis, sic cum in creatura sit aliquo modo invenire et indivisionem et imitationem et expressionem, sic est veritas non tantum in Creatore, sed etiam in creatura; et sic non assignatur Dei proprietas.
+Prout veritas dividitur contra falsitatem, quae est privatio indivisionis et imitationis et[^15] expressionis, sic cum in creatura sit aliquo modo invenire et indivisionem et imitationem et expressionem, sic est veritas non tantum in Creatore, sed etiam in creatura; et sic non assignatur Dei proprietas.
 
-Alio modo, prout veritas dividitur contra permixtionem sive impuritatem, sic est in solo Deo. Nam in solo Deo est indivisio pura, non permixta alicui diversitati; in solo Deo est imitatio et similitudo pura, non permixta alicui dissimilitudini; et in solo Deo est expressio luminis non permixta obscuritati. In creatura autem est indivisio cum actus et potentiae diversitate, et imitatio cum dissimilitudine; est ulterius in ea expressio cum obscuritate. Et ideo hoc modo veritas est divini esse proprietas; et sic accipit Magister et Augustinus et Hieronymus. Vocant enim *verum esse* quod nihil habet de possibilitate, nihil habet de vanitate, nihil de non-entitate. Et ideo in Deo non cadit *praeteritio* et *futuritio*, quae aliquo modo non-entia sunt.
+Alio modo, prout veritas dividitur contra permixtionem sive impuritatem, sic est in solo Deo. Nam in solo Deo est indivisio pura, non permixta alicui diversitati; in solo Deo est imitatio et similitudo pura, non permixta alicui dissimilitudini; et in solo Deo est expressio luminis non permixta obscuritati[^16]. In creatura autem est indivisio cum actus et potentiae diversitate, et imitatio cum dissimilitudine; est ulterius in ea expressio cum obscuritate. Et ideo hoc modo veritas est divini esse proprietas; et sic accipit Magister et Augustinus et Hieronymus. Vocant enim *verum esse* quod nihil habet de possibilitate, nihil habet de vanitate, nihil de non-entitate. Et ideo in Deo non cadit *praeteritio* et *futuritio*, quae aliquo modo non-entia sunt.
 
 **Ad argumenta pro parte affirmativa:**
 
 *Ad 1, 2, 5, 6.* Et sic procedunt duae primae auctoritates et rationes.
 
-*Ad 3.* Ad illud vero quod obiicitur, quod non sit alia veritas quam aeterna, quia ipsa sola facit intelligere; dicendum, quod sicut color est obiectum visus et motivum visus — tamen non sine actu lucis — et differt ab ipsa luce; sic dicendum, quod veritas creata, quamvis non possit movere sine veritate increata, nihilominus est motiva suo modo et alia veritas ab illa.
+*Ad 3.* Ad illud vero quod obiicitur, quod non sit alia veritas quam aeterna, quia ipsa sola facit intelligere; dicendum, quod sicut color est obiectum visus et motivum visus — tamen non sine actu lucis — et differt ab[^17] ipsa luce; sic dicendum, quod veritas creata, quamvis non possit movere sine veritate increata, nihilominus est motiva suo modo et alia veritas ab illa.
 
-*Ad 4 et 7.* Ad illud quod obiicitur de Anselmo, quod omnia sunt vera veritate prima; dicendum, quod *verum* de sui impositione dicit comparationem ad causam exemplarem, sicut *bonum* ad causam finalem. Sicut enim dicitur *bonum* ratione ordinis, sic *verum* ratione expressionis; et ratio exprimendi est ipsius exemplaris. Sicut igitur, cum dicitur de bonis creatis, quod sunt bona bonitate increata, bonitas praedicat finem in ablativo, non formam, quia Dei bonitas nullius creati est forma; similiter, cum dicitur, quod omnia sunt vera veritate increata, ablativus dicit causam formalem exemplarem[^9]. Omnia enim vera sunt et nata sunt se exprimere per expressionem illius summi luminis; quod si cessaret influere, cetera desinerent esse vera. Ideo nulla veritas creata est vera per essentiam, sed per participationem; et per hoc patet ultimum.
+*Ad 4 et 7.* Ad illud quod obiicitur de Anselmo, quod omnia sunt vera veritate prima; dicendum, quod *verum* de sui impositione dicit comparationem ad causam exemplarem, sicut *bonum* ad causam finalem. Sicut enim dicitur *bonum* ratione ordinis, sic *verum* ratione expressionis; et ratio exprimendi est ipsius exemplaris. Sicut igitur, cum dicitur de bonis creatis, quod sunt bona bonitate increata, bonitas praedicat finem in ablativo, non formam, quia Dei bonitas[^18] nullius creati est forma; similiter, cum dicitur, quod omnia sunt vera veritate increata, ablativus dicit causam formalem exemplarem[^19]. Omnia enim vera sunt et nata sunt se exprimere per expressionem illius summi luminis; quod si cessaret influere, cetera desinerent esse vera. Ideo nulla veritas creata est vera per essentiam, sed per participationem; et per hoc patet ultimum.
 
 **Ad argumenta pro parte contra:**
 
@@ -85,11 +85,11 @@ Alio modo, prout veritas dividitur contra permixtionem sive impuritatem, sic est
 
 *Ad 1–3.* Ad illud vero quod obiicitur in contrarium, quod non est proprietas; patet responsio: quoniam obiicit de veritate, secundum quod habet oppositionem ad defectum *falsitatis*, non ad *permixtionem possibilitatis*; praedicto enim modo convenit non tantum Creatori, sed etiam creaturae.
 
-*Ad 4.* Ad illud quod obiicitur, quod veritas est idem quod divina essentia; dicendum, quod de ratione *proprietatis in creatura*[^10] sunt ista tria: *primum* est, quod convenit soli; *secundum* est, quod est ratio innotescendi; *tertium* est, quod differt ab eo cuius est proprietas. Duo prima sunt perfectionis, ultimum vero imperfectionis, quia excludit simplicitatem. Et ideo veritas dicitur divinae essentiae proprietas, non quia differat vel sit inhaerens divinae essentiae, sicut accidens subiecto, sed quia soli convenit et est ratio cognoscendi eam. Et haec est causa, quare e converso essentia non est proprietas veritatis, quia non est ratio innotescendi eam, sicut e converso.
+*Ad 4.* Ad illud quod obiicitur, quod veritas est idem quod divina essentia; dicendum, quod de ratione *proprietatis in creatura* sunt ista tria: *primum* est, quod convenit soli; *secundum* est, quod est ratio innotescendi; *tertium* est, quod differt ab eo cuius est proprietas[^20]. Duo prima sunt perfectionis, ultimum vero imperfectionis, quia excludit simplicitatem. Et ideo veritas dicitur divinae essentiae proprietas, non quia differat vel sit inhaerens divinae essentiae, sicut accidens[^21] subiecto, sed quia soli convenit et est ratio cognoscendi eam. Et haec est causa, quare e converso essentia non est proprietas veritatis, quia non est ratio innotescendi eam, sicut e converso.
 
 *Quaestio incidens.* Si autem quaeras, cum idem significent essentia et veritas, quare unum est ratio cognoscendi alterum, et non e converso; ad hoc dixerunt aliqui, quod quamvis idem significent essentia et veritas, tamen unum, scilicet veritas, est magis ratio cognoscendi ratione connotati. Sed hoc non potest stare, quia veritas nihil connotat. Dicendum ergo, quod hoc est ratione *modi significandi* et *intelligendi*.
 
-Et notandum, quod dupliciter est loqui de his nominibus: uno modo ratione eius *quod nominant* seu significant; alio modo ratione eius *in quo significatur poni quod nominant*. Unde differt dicere *sensum* et *sensum hominis*; quia primo dicitur commune ad sensum hominis et bruti, secundo proprium hominis. Si ergo accipimus huiusmodi nomina secundum se, alia est ratio *essentiae*, alia *veritatis*, quoniam essentia dicit *quid*, veritas *conditionem entis*. Cum vero essentiam et veritatem trahimus ad Deum, quamvis idem sint, tamen ratione generalium significatorum unum accipitur ut proprietas alterius; et non est ibi synonymia nec sunt nomina synonyma, sed manet ratio subiecti et proprietatis secundum modum significandi, et manet etiam secundum modum intelligendi; quia per essentiam in creatura intelligimus essentiam in Creatore, et per veritatem creaturae intelligimus veritatem increatam. Unde sicut veritas creata est proprietas et ratio cognoscendi essentiam creatam, sic veritas increata secundum rationem significandi et intelligendi est ratio cognoscendi et intelligendi essentiam increatam.
+Et notandum, quod dupliciter est loqui de his nominibus: uno modo ratione eius *quod nominant* seu significant; alio modo ratione eius *in quo significatur poni quod nominant*[^22]. Unde differt dicere *sensum* et *sensum hominis*; quia primo dicitur commune ad sensum hominis et bruti, secundo proprium hominis. Si ergo accipimus huiusmodi nomina secundum se, alia est ratio *essentiae*, alia *veritatis*, quoniam essentia dicit *quid*, veritas *conditionem entis*. Cum vero essentiam et veritatem trahimus ad Deum, quamvis idem sint, tamen ratione generalium significatorum unum accipitur ut proprietas alterius; et non est ibi synonymia nec sunt nomina synonyma, sed manet ratio subiecti et proprietatis secundum modum significandi, et manet etiam secundum modum intelligendi; quia per essentiam in creatura intelligimus essentiam in Creatore, et per veritatem creaturae intelligimus veritatem increatam. Unde sicut veritas creata est proprietas et ratio cognoscendi essentiam creatam, sic veritas increata secundum rationem significandi et intelligendi est ratio cognoscendi et intelligendi essentiam increatam.
 
 ### Scholion
 
@@ -117,51 +117,51 @@ That truth is a property of the divine being is shown from authorities and reaso
 
 3. Likewise, Augustine in the *Soliloquies* and *On True Religion*[^3] says that the uncreated light is the ground of knowing itself and all knowables: therefore if truth is the ground of knowing, and only the uncreated light is truth: therefore truth is the property of God alone.
 
-4. Likewise, Anselm in his book *On Truth*[^4] says that all things are true by the first truth: either, therefore, he understands this *effectively* or *formally*; not effectively, because in the same way all things could be called good by the first goodness: therefore it is understood formally: therefore there is no truth other than uncreated truth: therefore, since that is in God and is God, truth is the property of God alone.
+4. Likewise, Anselm in his book *On Truth*[^4] says that all things are true by the first truth: either, therefore, he understands this *effectively* or *formally*; not effectively, because in the same way all things could be called[^5] good by the first goodness: therefore it is understood formally: therefore there is no truth other than uncreated truth: therefore, since that is in God and is God, truth is the property of God alone.
 
-5. Likewise, by reasons it is proved thus: truth and vanity are opposed; but every creature has vanity[^5] and a mixture with non-being, since it is from nothing, and God alone lacks this altogether: therefore truth is in God alone.
+5. Likewise, by reasons it is proved thus: truth and vanity are opposed; but every creature has vanity[^6] and a mixture with non-being, since it is from nothing, and God alone lacks this altogether: therefore truth is in God alone.
 
-6. Likewise, truth is opposed to shadow. For what is the shadow of a thing does not have truth[^6]; but creatures are the shadows of that supreme being: therefore they do not have truth in being.
+6. Likewise, truth is opposed to shadow. For what is the shadow of a thing does not have truth[^7]; but creatures are the shadows of that supreme being: therefore they do not have truth in being.
 
-7. Likewise, truth is that by which something is true; but truth is true, since it is knowable; yet this is known not by anything other than itself — otherwise there would be an infinite regress; but what is true by its very self is true by essence: therefore all truth is true by essence; but only the uncreated truth is true by essence: therefore truth is the property of God alone.
+7. Likewise, truth is that by which something is true; but truth is true, since it is knowable; yet this is known not by anything other than itself — otherwise[^8] there would be an infinite regress; but what is true by its very self is true by essence: therefore all truth is true by essence; but only the uncreated truth is true by essence: therefore truth is the property of God alone.
 
 **On the contrary:**
 
-1. If truth is a property of God, then it is either *complex* or *incomplex*. Not complex, for such truth involves composition, and in God there is no composition. Nor incomplex, since this is convertible with being[^7]: therefore, since *being* is not a property of God, for the same reason neither will *truth* be.
+1. If truth is a property of God, then it is either *complex* or *incomplex*. Not complex, for such truth involves composition, and in God there is no composition. Nor incomplex, since this is convertible with being[^9]: therefore, since *being* is not a property of God, for the same reason neither will *truth* be.
 
-2. Likewise, *true* is as common a term as *good*, and in a certain way more so; but goodness is not a property of God: therefore for the same reason neither is truth.
+2. Likewise, *true* is as common a term as *good*, and in a certain way more so[^10]; but goodness is not a property of God: therefore for the same reason neither is truth.
 
-3. Likewise, truth is the ground by which we distinguish Creator from creature and creature from creature; but what is the ground of distinguishing is different in different things: therefore the truth in God is other than the truth in a creature, and other in one creature than in another: therefore it is not proper to God alone.
+3. Likewise, truth is the ground by which we distinguish Creator from creature and creature from creature[^11]; but what is the ground of distinguishing is different in different things: therefore the truth in God is other than the truth in a creature, and other in one creature than in another: therefore it is not proper to God alone.
 
-4. Likewise, Augustine in the *Soliloquies*[^8]: *"True is that which is"*, therefore truth is entity itself: therefore it is not proper to essence; for if so, for the same reason it is said *"truth is a property of essence"* one could say the reverse, since they are wholly the same.
+4. Likewise, Augustine in the *Soliloquies*[^12]: *"True is[^13] that which is"*, therefore truth is entity itself: therefore it is not proper to essence; for if so, for the same reason it is said *"truth is a property of essence"* one could say the reverse, since they are wholly the same.
 
 > **Conclusion.** Truth, insofar as it is opposed to *falsity*, is found also in creatures according to its threefold comparison — to the subject which it informs, to the principle which it represents, to the intellect which it excites; but insofar as it is opposed to *admixture*, it is the property of God alone.
 
-**I respond:** It must be said that truth has a threefold comparison. For it may be compared to *the subject which it informs*, to *the principle which it represents*, and to *the intellect which it excites*. In comparison to the subject, truth is called *the undividedness of act and potency*. In comparison to the principle, truth is called *the representation or imitation of the highest unity and of the first*. In comparison to the intellect, truth is called *the ground of distinguishing*.
+**I respond:** It must be said that truth has a threefold comparison. For it may be compared to *the subject which it informs*, to *the principle which it represents*, and to *the intellect which it excites*. In comparison to the subject, truth is called *the undividedness of act and potency*. In comparison to the principle, truth is called *the representation or imitation of the highest unity*[^14] *and of the first*. In comparison to the intellect, truth is called *the ground of distinguishing*.
 
 And in all these comparisons, truth can be taken in two ways: in one way, as it is distinguished against *falsity*; in another, as it is distinguished against *admixture* — according as the true is called *pure and unmixed*.
 
-As truth is divided against falsity (which is the privation of undividedness, of imitation, and of expression), then since in a creature there is in some way both undividedness, imitation, and expression, truth exists not only in the Creator but also in the creature; and in this way it is not assigned as God's property.
+As truth is divided against falsity (which is the privation of undividedness, of imitation, and[^15] of expression), then since in a creature there is in some way both undividedness, imitation, and expression, truth exists not only in the Creator but also in the creature; and in this way it is not assigned as God's property.
 
-In the other way — as truth is divided against admixture or impurity — it exists in God alone. For in God alone is there pure undividedness, not mixed with any diversity; in God alone is there imitation and likeness pure, not mixed with any unlikeness; and in God alone is there expression of light not mixed with obscurity. But in a creature there is undividedness with a diversity of act and potency, and imitation with unlikeness; further, there is in it expression with obscurity. And therefore in this way truth is a property of the divine being; and thus the Master and Augustine and Jerome take it. For they call *true being* that which has nothing of possibility, nothing of vanity, nothing of non-entity. And therefore in God there is no *having-been* or *being-about-to-be*, which are in some way non-beings.
+In the other way — as truth is divided against admixture or impurity — it exists in God alone. For in God alone is there pure undividedness, not mixed with any diversity; in God alone is there imitation and likeness pure, not mixed with any unlikeness; and in God alone is there expression of light not mixed with obscurity[^16]. But in a creature there is undividedness with a diversity of act and potency, and imitation with unlikeness; further, there is in it expression with obscurity. And therefore in this way truth is a property of the divine being; and thus the Master and Augustine and Jerome take it. For they call *true being* that which has nothing of possibility, nothing of vanity, nothing of non-entity. And therefore in God there is no *having-been* or *being-about-to-be*, which are in some way non-beings.
 
 **To the arguments for the affirmative:**
 
 *To 1, 2, 5, 6.* And thus proceed the first two authorities and reasons [i.e., they hold].
 
-*To 3.* As for the objection that there is no truth other than the eternal, because that alone causes understanding, it must be said that just as color is the object and mover of sight — yet not without the act of light — and is distinct from the light itself, so it must be said that created truth, though it cannot move without uncreated truth, is nevertheless a mover in its own way and is a truth distinct from that one.
+*To 3.* As for the objection that there is no truth other than the eternal, because that alone causes understanding, it must be said that just as color is the object and mover of sight — yet not without the act of light — and is distinct from[^17] the light itself, so it must be said that created truth, though it cannot move without uncreated truth, is nevertheless a mover in its own way and is a truth distinct from that one.
 
-*To 4 and 7.* As for the objection from Anselm that all things are true by the first truth, it must be said that *true* by its very imposition names a comparison to the *exemplary cause*, just as *good* to the *final cause*. For just as the good is said in terms of order, so the true is said in terms of expression; and the ground of expressing belongs to the exemplar itself. Just as, then, when it is said of created goods that they are good *by the uncreated goodness*, goodness in the ablative predicates the end, not the form (since God's goodness is the form of no creature), similarly, when it is said that all things are true *by uncreated truth*, the ablative names the exemplary formal cause[^9]. For all true things are and are born to express themselves by the expression of that supreme light; for if it ceased to flow in, the rest would cease to be true. Hence no created truth is true by essence but by participation; and by this the last point is clear.
+*To 4 and 7.* As for the objection from Anselm that all things are true by the first truth, it must be said that *true* by its very imposition names a comparison to the *exemplary cause*, just as *good* to the *final cause*. For just as the good is said in terms of order, so the true is said in terms of expression; and the ground of expressing belongs to the exemplar itself. Just as, then, when it is said of created goods that they are good *by the uncreated goodness*, goodness in the ablative predicates the end, not the form (since God's goodness[^18] is the form of no creature), similarly, when it is said that all things are true *by uncreated truth*, the ablative names the exemplary formal cause[^19]. For all true things are and are born to express themselves by the expression of that supreme light; for if it ceased to flow in, the rest would cease to be true. Hence no created truth is true by essence but by participation; and by this the last point is clear.
 
 **To the arguments for the contrary:**
 
 *To 1–3.* As for what is objected on the contrary, that it is not a property, the response is plain: for it objects concerning truth according as it has opposition to the defect of *falsity*, not to the *admixture of possibility*; for in the first manner, it belongs not only to the Creator but also to the creature.
 
-*To 4.* As for the objection that truth is the same as the divine essence, it must be said that the notion of *property in a creature*[^10] consists of these three: *first*, that it belongs to one alone; *second*, that it is the ground of becoming known; *third*, that it differs from that whose property it is. The first two pertain to perfection, the last to imperfection — since it excludes simplicity. And therefore truth is called a property of the divine essence not because it differs from, or inheres in, the divine essence as an accident in a subject, but because it belongs to God alone and is the ground of knowing Him. And this is the reason why, conversely, essence is *not* a property of truth: because it is not the ground of making truth known, as truth is the ground of making essence known.
+*To 4.* As for the objection that truth is the same as the divine essence, it must be said that the notion of *property in a creature* consists of these three: *first*, that it belongs to one alone; *second*, that it is the ground of becoming known; *third*, that it differs from that whose property it is[^20]. The first two pertain to perfection, the last to imperfection — since it excludes simplicity. And therefore truth is called a property of the divine essence not because it differs from, or inheres in, the divine essence as an accident[^21] in a subject, but because it belongs to God alone and is the ground of knowing Him. And this is the reason why, conversely, essence is *not* a property of truth: because it is not the ground of making truth known, as truth is the ground of making essence known.
 
 *Incidental question.* If, however, you ask: since essence and truth signify the same thing, why is one the ground of knowing the other, and not conversely? — to this some have replied that, although essence and truth signify the same, yet one (namely truth) is more the ground of knowing by reason of what is connoted. But this cannot stand, since truth connotes nothing. It must therefore be said that this is by reason of the *mode of signifying* and *of understanding*.
 
-And it should be noted that there is a twofold way to speak of these names: one way, by reason of *that which they name* or signify; another, by reason of *that in which what they name is signified as placed*. Hence it makes a difference to say *sense* and *a man's sense*: for the first is said in common of the sense of man and of beast, the second is proper to man. If, then, we take such names in themselves, the notion of *essence* is one thing, of *truth* another — since essence names a *what*, and truth names a *condition of being*. When, however, we draw essence and truth to God, although they are the same, nevertheless by reason of their general significations one is taken as a property of the other; and there is neither synonymy there nor are the names synonyms, but the character of subject and of property remains according to the mode of signifying, and also remains according to the mode of understanding — since through created essence we understand essence in the Creator, and through created truth we understand uncreated truth. Whence, just as created truth is the property and ground of knowing created essence, so uncreated truth according to the mode of signifying and understanding is the ground of knowing and understanding the uncreated essence.
+And it should be noted that there is a twofold way to speak of these names: one way, by reason of *that which they name* or signify; another, by reason of *that in which what they name is signified as placed*[^22]. Hence it makes a difference to say *sense* and *a man's sense*: for the first is said in common of the sense of man and of beast, the second is proper to man. If, then, we take such names in themselves, the notion of *essence* is one thing, of *truth* another — since essence names a *what*, and truth names a *condition of being*. When, however, we draw essence and truth to God, although they are the same, nevertheless by reason of their general significations one is taken as a property of the other; and there is neither synonymy there nor are the names synonyms, but the character of subject and of property remains according to the mode of signifying, and also remains according to the mode of understanding — since through created essence we understand essence in the Creator, and through created truth we understand uncreated truth. Whence, just as created truth is the property and ground of knowing created essence, so uncreated truth according to the mode of signifying and understanding is the ground of knowing and understanding the uncreated essence.
 
 ### Scholion
 
@@ -177,34 +177,70 @@ And it should be noted that there is a twofold way to speak of these names: one 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering. Quaracchi restarts footnote numbering on each printed page; this question spans pp. 150–152, so the chunk's `[^1]–[^22]` consolidate three printed-page footer bands: p. 150 fns 5–13 → `[^1]–[^9]`; p. 151 fns 1–10 → `[^10]–[^19]`; p. 152 fns 1–3 → `[^20]–[^22]`. (P. 150 fns 1–4 belong to the d8-p1-divisio chunk, since the top of p. 150 carries the *Tractatio quaestionum* listing.)
 
-[^1]: **La.** Hieron., *Ep. ad Marcellam* (cfr. *litteram Magistri* supra, d. 8, Cap. I, ubi integra citatur). In nostra ed. c. 1 circa medium.
-    **En.** Jerome, *Letter to Marcella* (cf. the *littera Magistri* above, d. 8, Cap. I, where the full text is cited). In our edition, c. 1, near the middle.
+[^1]: **La.** Hieron., *Ep. ad Marcellam*. Cap. 1 circa initium. — Vat. praeter fidem mss. et ed. 1 *auctoritate Hieronymi* pro *Hieronymus*.
+    **En.** Jerome, *Letter to Marcella*. Chapter 1, near the beginning. — The Vatican edition, against the manuscripts and ed. 1, reads *auctoritate Hieronymi* in place of *Hieronymus*.
 
-[^2]: **La.** August., *de Vera Religione* c. 36, n. 66. Vat., contra plurimos codd., legit *summe* pro *summum*.
-    **En.** Augustine, *On True Religion* c. 36, n. 66. The Vatican edition, against most manuscripts, reads *summe* for *summum*.
+[^2]: **La.** August., *de Vera Religione* c. 36, n. 66: *Si enim falsitas ex iis est, quae imitantur unum, non in quantum id imitantur, sed in quantum implere non possunt*. — Et ibid. paulo ante ait: *At si corpora in tantum fallunt, in quantum non implent illud unum quod convincuntur imitari, a quo principio unum est, quidquid est*. — Vat. contra plurimos codd. *summe* loco *summum*.
+    **En.** Augustine, *On True Religion* c. 36, n. 66: *"For if falsity is from those things which imitate the one, not insofar as they imitate it, but insofar as they cannot fulfill it."* — And ibid., a little earlier, he says: *"But if bodies deceive insofar as they do not fulfill that one which they are shown to imitate — by which principle whatever is, is one."* — The Vatican edition, against most manuscripts, reads *summe* in place of *summum*.
 
-[^3]: **La.** August., I *Soliloq.* c. 8, n. 15; *de Vera Religione* c. 31, n. 64 et c. 36, n. 66. Vat., absque ulla auctoritate mss. et ed. 1, omittit verba *se et omnia usque cognoscendi*.
-    **En.** Augustine, *Soliloquies* I, c. 8, n. 15; *On True Religion* c. 31, n. 64 and c. 36, n. 66. The Vatican edition, without any support of the manuscripts or ed. 1, omits the words *se et omnia usque cognoscendi*.
+[^3]: **La.** Libr. I *Soliloq.* c. 8, n. 15. — *De Vera Religione* c. 31, n. 64, et c. 36, n. 66. — Vat. absque ulla auctoritate mss. et ed. 1 omittit verba *se et omnia usque cognoscendi*.
+    **En.** Book I of the *Soliloquies*, c. 8, n. 15. — *On True Religion* c. 31, n. 64, and c. 36, n. 66. — The Vatican edition, without any support of the manuscripts or ed. 1, omits the words *se et omnia usque cognoscendi*.
 
-[^4]: **La.** Anselm., *de Veritate* c. 13, ubi probat omnium rerum unam solum esse rectitudinem, ex qua concludit: *una igitur in omnibus illis est veritas*.
-    **En.** Anselm, *On Truth* c. 13, where he proves that there is only one rectitude of all things, from which he concludes: *"there is therefore one truth in all of them."*
+[^4]: **La.** Cap. 13, ubi probat omnium rerum unam solum esse rectitudinem, ex qua concludit: *una igitur in omnibus illis est veritas*.
+    **En.** Chapter 13, where he proves that there is only one rectitude of all things, from which he concludes: *"there is therefore one truth in all of them."*
 
-[^5]: **La.** Rom. 8, 20: *Vanitati enim creatura subiecta est*. Cfr. etiam Eccles. 3, 19.
+[^5]: **La.** Ita cum ed. 1 antiquiores codd., quorum quidem aliqui *possunt* legunt pro *possent*; Vat. autem cum cod. cc *possunt dici bona*, quo posito argumentum destruitur; recte siquidem omnia effective dicuntur et sunt bona bonitate prima. Circa finem argumenti Vat. cum cod. cc post *si illa est* repetit verbum *est*, et immediate post Vat. *sola* pro *et Deus* ponit *etc. ergo*; sed obstat auctoritas mss. et ed. 1.
+    **En.** Thus with ed. 1 the older manuscripts, some of which read *possunt* for *possent*; the Vatican edition, however, with codex cc reads *possunt dici bona*, which once granted destroys the argument — for rightly are all things effectively called and are good by the first goodness. Near the end of the argument, the Vatican edition with codex cc repeats the word *est* after *si illa est*, and immediately after the Vatican reads *sola* in place of *et Deus*, putting *etc. ergo*; but the authority of the manuscripts and ed. 1 stands against this.
+
+[^6]: **La.** Rom. 8, 20: *Vanitati enim creatura subiecta est*. Cfr. etiam Eccles. 3, 19.
     **En.** Romans 8:20: *"For the creature was made subject to vanity."* Cf. also Ecclesiastes 3:19.
 
-[^6]: **La.** Cfr. Aristot., V. *Metaph.* text. 34 (IV, c. 29). Mox post *summi* supplevimus ex mss. et ed. 1 male omissum *esse*.
-    **En.** Cf. Aristotle, *Metaphysics* V, text 34 (IV, c. 29). Shortly after *summi*, we have supplied from the manuscripts and edition 1 the word *esse*, which was badly omitted.
+[^7]: **La.** Vide Aristot., V. *Metaph.* text. 34 (IV, c. 29). — Mox post *summi* supplevimus ex mss. et ed. 1 male omissum *esse*.
+    **En.** See Aristotle, *Metaphysics* V, text 34 (IV, c. 29). — Shortly after *summi*, we have supplied from the manuscripts and ed. 1 the word *esse*, which was badly omitted.
 
-[^7]: **La.** *Veritas incomplexa* convertitur cum ente ut passio entis. Cfr. scholion I huius q. ad explicationem distinctionis inter veritatem *complexam* (propositionis) et *incomplexam* (entis).
-    **En.** *Incomplex truth* is convertible with being as a property of being. Cf. scholion I of this question for the explanation of the distinction between *complex* truth (of a proposition) and *incomplex* truth (of being).
+[^8]: **La.** Codd. cum ed. 1 *tunc* pro *alias*, sed non ita bene.
+    **En.** The manuscripts with ed. 1 read *tunc* in place of *alias*, but not as well.
 
-[^8]: **La.** August., II *Soliloq.* c. 5, n. 8: *Verum mihi videtur esse id quod est*. Multi codd. ut BDFIPQTXYZ cum ed. 1 omittunt *est*.
-    **En.** Augustine, *Soliloquies* II, c. 5, n. 8: *"True seems to me to be that which is."* Many manuscripts (BDFIPQTXYZ) with ed. 1 omit *est*.
+[^9]: **La.** Aristot., II *Metaph.* text. 4 (I. brevior. c. 1.): *Unumquodque sicut se habet ut sit, ita et ad veritatem*.
+    **En.** Aristotle, *Metaphysics* II, text 4 (Book I shorter version, c. 1): *"As each thing stands in being, so also it stands in relation to truth."*
 
-[^9]: **La.** Codd. DT expressius: *ablativus non dicit causam formalem esse rerum complectivam, sed exemplarem*. Paulo infra Vat. cum cod. cc, contra alios et ed. 1, legit *expressione* loco *per expressionem*.
-    **En.** Codices DT read more explicitly: *"the ablative names the formal cause of things not as comprehensive but as exemplary."* Shortly after, the Vatican edition with codex cc — against the others and edition 1 — reads *expressione* in place of *per expressionem*.
+[^10]: **La.** Ratio communiter allegata est, quia *verum* est enti propinquius et in se abstractius.
+    **En.** The reason commonly alleged is that *true* is closer to *being* and in itself more abstract.
 
-[^10]: **La.** Cfr. Aristot., V *Topic.* c. 1 et 2, ac Porphyr., *de Praedicabilibus* c. *de Proprio*. Mendum Vat. *antecedens* loco *accidens* correximus fide mss. et trium primarum edd.
-    **En.** Cf. Aristotle, *Topics* V, cc. 1 and 2; and Porphyry, *On the Predicables*, chapter *On the Proper*. We have corrected the error of the Vatican edition *antecedens* to *accidens* on the authority of the manuscripts and the first three editions.
+[^11]: **La.** August., *de Vera Religione* c. 7, n. 13: *Omnis enim res vel essentia... simul haec tria habet, ut et unum aliquid sit, et specie propria discernatur a ceteris, et rerum ordinem non excedat*.
+    **En.** Augustine, *On True Religion* c. 7, n. 13: *"For every thing or essence... has at the same time these three: that it is some one thing, that it is distinguished from the rest by its own species, and that it does not exceed the order of things."*
+
+[^12]: **La.** Libr. II, c. 5, n. 8: *Verum mihi videtur esse id quod est*.
+    **En.** Book II, c. 5, n. 8: *"True seems to me to be that which is."*
+
+[^13]: **La.** Multi codd. ut BDFIPQTXYZ cum ed. 1 omittunt *est*.
+    **En.** Many manuscripts (BDFIPQTXYZ) with ed. 1 omit *est*.
+
+[^14]: **La.** Ex fere omnibus antiquioribus mss. et ed. 1 hic pro *veritatis* substituimus *unitatis*, et paulo infra pro *distinguendi* posuimus *discernendi*, quae lectio etiam comprobatur argumento secundo pro affirmativa parte et argumento tertio pro negativa parte supra allato.
+    **En.** From nearly all the older manuscripts and ed. 1 we have substituted *unitatis* for *veritatis* here, and a little below have put *discernendi* in place of *distinguendi* — a reading also confirmed by the second argument for the affirmative side and the third argument for the negative side cited above.
+
+[^15]: **La.** Ex plurimis mss. et ed. 1 supplevimus bis particulam *et*.
+    **En.** From many manuscripts and ed. 1 we have twice supplied the particle *et*.
+
+[^16]: **La.** Vat. cum cod. cc *permixti obscuritate*, sed contra antiquiores codd., quorum tamen nonnulli etiam habent *obscuritate*, sed minus bene et contra immediate praecedentia.
+    **En.** The Vatican edition with codex cc reads *permixti obscuritate*, but against the older manuscripts — though some of these also have *obscuritate*, but less aptly and against the immediately preceding text.
+
+[^17]: **La.** Vat. praeter fidem mss. et edd. 1, 2, 3 *ipsa a luce*, sed incongrue, et in fine argumenti contra antiquiores mss. post *veritas* addit *est*.
+    **En.** The Vatican edition, against the manuscripts and editions 1, 2, 3, reads *ipsa a luce*, but incongruously; and at the end of the argument, against the older manuscripts, it adds *est* after *veritas*.
+
+[^18]: **La.** Vat. contra antiquiores codd. *bonitas increata* pro *Dei bonitas*.
+    **En.** The Vatican edition, against the older manuscripts, reads *bonitas increata* in place of *Dei bonitas*.
+
+[^19]: **La.** Codd. DT expressius: *ablativus non dicit causam formalem esse rerum complectivam, sed exemplarem*. Paulo infra Vat. cum cod. cc, sed contra alios et ed. 1, *expressione* loco *per expressionem*, et in fine Vat. sola *patent ultima* pro *patet ultimum*, sed falso.
+    **En.** Codices DT read more explicitly: *"the ablative names the formal cause of things, not as comprehensive, but as exemplary."* Shortly after, the Vatican edition with codex cc, but against the others and ed. 1, reads *expressione* in place of *per expressionem*; and at the end, the Vatican alone reads *patent ultima* for *patet ultimum*, but wrongly.
+
+[^20]: **La.** Cfr. Aristot., V *Topic.* c. 1 et 2, ac Porphyr., *de Praedicabilibus* c. *de Proprio*.
+    **En.** Cf. Aristotle, *Topics* V, cc. 1 and 2; and Porphyry, *On the Predicables*, chapter *On the Proper*.
+
+[^21]: **La.** Mendum Vat. *antecedens* loco *accidens* correximus fide mss. et trium primarum edd. Paulo infra post *veritatis* nonnulli codd. cum ed. 1 non apte addunt particulam *et*.
+    **En.** We have corrected the error of the Vatican edition *antecedens* to *accidens* on the authority of the manuscripts and the first three editions. A little below, after *veritatis*, some manuscripts with ed. 1 inaptly add the particle *et*.
+
+[^22]: **La.** Plerique codd. ut ARSTY etc. *denominant. Unde differret*, et paulo infra *deinde* pro *secundo* et *accipiamus* loco *accipimus*.
+    **En.** Most manuscripts (ARSTY etc.) read *denominant. Unde differret*, and a little further on *deinde* for *secundo* and *accipiamus* for *accipimus*.

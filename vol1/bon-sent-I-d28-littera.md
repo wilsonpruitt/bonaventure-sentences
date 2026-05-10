@@ -14,7 +14,7 @@ has_apparatus: true
 line_start: 7590
 line_end: 7777
 word_count_latin: 1633
-transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin verbatim from IA djvu OCR (raw lines 7590–7777, multi-cap Lombard text), literal English, apparatus from page-bottom footnote bands; d.28 scaffolds sweep 2026-05-08 added missing p.494 fn 3 (= chunk [^9], Cap. 2 n. 3 — Augustine de Trin. VII source citation) with body anchors and renumbered subsequent footnotes (2026-05-08) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier B): chunk has 15 apparatus defs vs hardened-heuristic raw count 36 (diff +21). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 7590–7777, multi-cap Lombard text), literal English, apparatus from page-bottom footnote bands (15 entries: 6 from p. 493, 9 from p. 494); d.28 scaffolds sweep 2026-05-08 added missing p.494 fn 3 (= chunk [^9], Cap. 2 n. 3 — Augustine de Trin. VII source citation) with body anchors and renumbered subsequent footnotes (2026-05-08); Wave 9b Tier B disposition 2026-05-09: hardened-audit diff +21 (raw 36 vs chunk 15) is OVERCOUNT-ONLY per Lesson 9 reinforcement (littera +30 bias from chapter rubrics × 7 caps and Lesson-10 noise from italic work-citations *de Trinitate*, *de Incarnatione*, *de Fide ad Petrum*, *Num.* 33/35/8). Per-page footer walk confirms 6+9=15 entries, exactly matching chunk; apparatus is complete. No body or apparatus changes; metadata-only update."
 format_version: 1
 ---
 

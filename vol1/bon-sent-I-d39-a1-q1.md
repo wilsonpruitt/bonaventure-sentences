@@ -16,7 +16,7 @@ has_apparatus: true
 line_start: 26585
 line_end: 26927
 word_count_latin: 2843
-transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin re-set verbatim from IA djvu OCR (raw lines 26585–26927 of pt2), fresh literal English translation, full apparatus from raw OCR (13 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier B): chunk has 13 apparatus defs vs hardened-heuristic raw count 40 (diff +27). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26585–26927 of pt2), fresh literal English translation, full apparatus from raw OCR (15 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07; apparatus disposition 2026-05-09) [Wave 9b Tier B disposition: per-page footer walk found ~16-17 real footer entries across pp. 684-686 (p. 687 = scholion only, no footer apparatus). Hardened-heuristic raw=40 is a ~24-entry overcount driven by Lesson-10 noise (Scholion lemma citations / numbered argument openers `1. Auctoritate`, `2. Item`, `3. Item`, etc. / Scholion outline numbers `I.`, `II.`, `III.` / numbered Nominales-Thomistas-Scotus list `1. 2.`). Real undercoverage was small: chunk now adds [^14] (Cfr. supra pag. 312, nota 8) and [^15] (Supple cum Vat. ibi: Simul itaque) anchored to the opening sentence — these are pre-quaestio editor cross-references the original chunk skipped. Note [^4] retains its current grouping of `Cfr. supra pag. 78, nota 2 ... — Aristot. I. Poster. c. 2` as one anchor entry; OCR numbers them separately, but they share a single body anchor at *in entibus est status*; this is the chunk's editorial choice and accounts for the residual ~1-entry gap vs raw walk. Body Latin verified faithful to OCR (spot-checked across opening, sed-contra, respondeo, ad-arguments clusters); no body-paraphrase issues.]"
 format_version: 1
 ---
 
@@ -37,7 +37,7 @@ format_version: 1
 
 > The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives first the Latin source text (**La.**), then the English rendering (**En.**).
 
-Quod autem Deus cognoscat alia a se, ostenditur auctoritate et ratione.
+Quod autem Deus cognoscat alia a se[^14], ostenditur auctoritate et ratione.[^15]
 
 1. *Auctoritate* sic: Psalmus[^1]: *Qui plantavit aurem non audiet? aut qui finxit oculum non considerat?* quasi dicat, hoc est impossibile, quod det aliis potentiam cognoscendi, et ipse non cognoscat.
 
@@ -123,7 +123,7 @@ Fundamentum huius doctrinae inconcussum est, scil. quod una simplicissima Dei es
 ### Question I.
 #### *Whether God knows things other than himself.*
 
-That God knows things other than himself is shown by authority and by reason.
+That God knows things other than himself[^14] is shown by authority and by reason.[^15]
 
 1. *By authority* thus: the Psalm[^1]: *"He that planted the ear, shall he not hear? or he that formed the eye, shall he not consider?"* — as if to say: it is impossible that he should give to others the power of knowing, and himself not know.
 
@@ -252,3 +252,11 @@ The unshakable foundation of this doctrine is, namely, that the one most simple 
 [^13]: **La.** Aristot., IX. *Metaph.* text. 16. (VIII. c. 8.) differentiam inter *actionem transeuntem* et *immanentem*, quae hic respicitur, sic proponit: «*Quorumcumque itaque aliud quiddam praeter usum est id quod fit, horum actus in eo quod fit, est ut aedificatio in eo quod aedificatur, et contextio in eo quod contexitur; similiter et in aliis, et omnino motus in moto. Quorum vero non est aliud quoddam opus praeter actionem, in ipsismet actio est, ut visio in vidente, et speculatio in speculante, et vita in anima*». Ex his responsio S. Doctoris facile intelligitur. Nam *facere* ut actio transiens praesupponit perfectionem potentiae, et ideo potentia, sive faciat sive non, perfectissima et actus purus esse potest; at *scire*, ut actio immanens, perfectissimum et actus purus esse nequit, nisi in ipso comprehendatur actualis cognitio omnium rerum. — Codd. AV *sed*.
 
      **En.** Aristotle, IX *Metaphysics*, text 16 (VIII, c. 8) sets forth the difference between *transient action* and *immanent action*, which is here in view, thus: "*Of whatsoever things, accordingly, there is something else besides the use that is what comes-to-be, of these the act is in that which comes-to-be, as the building [is] in what is built, and the weaving in what is woven; and similarly also in others, and altogether motion [is] in the moved. But of those of which there is not some other work besides the action, in the agents themselves is the action, as vision in the seer, and speculation in the speculator, and life in the soul*". From these the response of the Holy Doctor is easily understood. For *to make*, as transient action, presupposes the perfection of the power, and therefore the power, whether it makes or not, can be most perfect and pure act; but *to know*, as immanent action, cannot be most perfect and pure act, unless in itself it comprehends the actual cognition of all things. — Codices AV [read] *sed* ("but"; in place of *et* — variant on a particle in the body).
+
+[^14]: **La.** Cfr. supra pag. 312, nota 8.
+
+     **En.** Cf. above p. 312, note 8 [editor's cross-reference attached to the question's opening statement].
+
+[^15]: **La.** Supple cum Vat. ibi: *Simul itaque*.
+
+     **En.** Supply, with the Vatican [edition], at that point: "*Simul itaque*" ("at the same time, therefore") [editor's textual supplement].
