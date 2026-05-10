@@ -1,5 +1,9 @@
 # Wave 9b Tier B — resume document
 
+> **CLOSED 2026-05-09 in commit `8ca85a3`.** All 14 chunks dispositioned
+> (8 rebuilt, 6 overcount-accepted). See `wave9b-tier-c-resume.md` for
+> the next initiative. This file preserved for reference.
+
 Created 2026-05-09 after Wave 9b Tier A landed. This is the queue for the **next session** to pick up.
 
 ## Context (skim before starting)
