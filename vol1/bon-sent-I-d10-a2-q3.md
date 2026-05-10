@@ -14,7 +14,7 @@ line_end: 39883
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 203–204"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 39630–39883), full apparatus from raw OCR (23 entries), scholion, full English (2026-05-02) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 39630-39883), fresh literal English translation, full apparatus from raw OCR (24 entries from p.203-204 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
 format_version: 1
 ---
 
@@ -31,47 +31,49 @@ format_version: 1
 
 *Utrum Spiritus sanctus proprie sit spiritus.*
 
-Tertio et ultimo quaeritur, utrum Spiritus sanctus proprie sit *spiritus*. Et quod sic, videtur hoc modo:
+Tertio et ultimo quaeritur, utrum Spiritus sanctus proprie sit spiritus. Et quod sic, videtur hoc modo:
 
-1. Quia persona Spiritus sancti isto nomine propriissime designatur, quod dicitur *Spiritus sanctus*[^1]; sed hoc nomen *sanctus* non coarctat hoc quod est *spiritus*, cum sit aeque commune: ergo *spiritus* proprie dicitur illa persona.
+1. Quia persona Spiritus sancti isto nomine propriissime designatur, quod dicitur Spiritus sanctus[^1]; sed hoc nomen[^2] *sanctus* non coarctat hoc quod est *spiritus*, cum sit aeque commune: ergo *spiritus* proprie dicitur illa persona.
 
-2. Item, *Spiritus* dicitur, quia[^2] spiratur; sed quod spiratur non generatur, nec e converso: ergo cum spirari non conveniat Patri nec Filio: ergo convenit Spiritui sancto.
+2. Item, *Spiritus* dicitur, quia[^3] spiratur; sed quod spiratur non generatur, nec e converso: ergo cum spirari non conveniat Patri nec Filio: ergo convenit Spiritui sancto.
 
-3. Item, homines concordes in uno malo dicuntur conspiratores, non quia idem cogitent, sed quia idem malum appetunt, et ad idem malum unus omnium est colligatus affectus: ergo cum *conspiratio*[^3] a *spiratione* veniat, non dicitur spirari nisi amor: ergo nec *Spiritus sanctus* dicitur nisi amor: ergo etc.
+3. Item, homines concordes in uno malo dicuntur *conspiratores*, non quia idem cogitent, sed quia idem malum appetunt, et ad idem malum unus omnium est colligatus affectus: ergo cum conspiratio[^4] a spiratione veniat, non dicitur spirari nisi amor: ergo nec Spiritus sanctus dicitur nisi amor: ergo etc.
 
 **Contra:**
 
-1. *Spiritus est Deus, et eos, qui adorant eum, in spiritu et veritate oportet adorare*, Ioannis quarto[^4]: sed tota Trinitas est adoranda: ergo tota Trinitas est *spiritus*; hoc idem dicit Augustinus[^5].
+1. *Spiritus est Deus, et eos, qui adorant eum, in spiritu et veritate oportet adorare*, Ioannis quarto[^5]; sed tota Trinitas est adoranda: ergo tota Trinitas est spiritus; hoc idem dicit Augustinus[^6].
 
-2. Item, ratione ostenditur hoc idem sic: *spiritus* dividitur contra *corpus*: ergo quod non est corpus est spiritus[^6]: ergo est nomen absolutum, non relativum: ergo etc.
+2. Item, ratione ostenditur hoc idem sic: spiritus dividitur contra corpus: ergo quod non est corpus est spiritus[^7]: ergo est nomen absolutum, non relativum: ergo etc.
 
-3. Item, *spiritus* dicitur aut a *spiritualitate*, aut a *spiratione*. Si a *spiritualitate*, sic dividitur contra corpus, et constat quod toti[^7] conveniat Trinitati; si a *spiratione*, contra: *spirare* active dictum convenit toti Trinitati, quia tota Trinitas dicitur *inspirare*: ergo active dictum non dicitur relative, ergo nec passive.
+3. Item, spiritus dicitur aut a spiritualitate, aut a spiratione. Si a spiritualitate, sic dividitur contra corpus, et constat quod toti[^8] conveniat Trinitati; si a spiratione; contra: spirare active dictum
 
 <!-- page 204 -->
 
-4. Item, secundum quod dicitur a *spiratione*, videtur quod magis proprie conveniat Filio; et hoc patet per auctoritatem, Iob trigesimo secundo[^8]: «*Inspiratio Omnipotentis dat intellectum*»; sed hoc appropriatur Filio: ergo etc.
+convenit toti Trinitati, quia tota Trinitas dicitur inspirare: ergo active dictum non dicitur relative, ergo nec passive.
 
-5. Item, *spiratio* est actus naturalis[^9]; sed solus Filius procedit per modum naturae: ergo solus Filius spiratur.
+4. Item, secundum quod dicitur a *spiratione*, videtur quod magis proprie conveniat Filio; et hoc patet per auctoritatem, Iob trigesimo secundo[^9]: *Inspiratio Omnipotentis dat intellectum*; sed hoc appropriatur Filio: ergo etc.
 
-> **Conclusio.** *Spiritus*, quatenus dicitur a *spiritualitate*, convenit toti Trinitati; quatenus autem dicitur a *spiratione*, est proprium Spiritus sancti.
+5. Item, spiratio est actus naturalis[^10]; sed solus Filius procedit per modum naturae: ergo solus Filius spiratur.
 
-**Respondeo:** Dicendum, quod hoc nomen *spiritus* reperitur in corporibus, in substantiis rationalibus[^10] et in Deo; et licet in Deo sit propriissime, quia propriissime est in eo spiritualitas et spiratio, tamen ratio cognoscendi et dicendi tanquam a posteriori incipit a substantia corporali.
+> **Conclusio.** Spiritus, quatenus dicitur a spiritualitate, convenit toti Trinitati; quatenus autem dicitur a spiratione, est proprium Spiritus sancti.
 
-In substantia autem corporali *spiritus* dicitur dupliciter: aut a *spiritualitate* contra corpulentiam; sic dicitur absolute, et vocatur *spiritus* corpus subtile, sicut accipitur in libro *de Differentia spiritus et animae*[^11]; aut a *spiratione*; et sic dicitur *spiritus flatus*, sicut accipit Chrysostomus, Ioannis tertio[^12]: «*Spiritus, ubi vult, spirat*» etc. Et in Psalmo[^13]: «*Ignis, grando, spiritus*» etc.
+**Respondeo:** Dicendum, quod hoc nomen *spiritus* reperitur in corporibus, in substantiis rationalibus[^11] et in Deo; et licet in Deo sit propriissime, quia propriissime est in eo spiritualitas et spiratio, tamen ratio cognoscendi et dicendi tanquam a posteriori incipit a substantia corporali.
 
-Secundum hunc duplicem modum accipitur in substantia spirituali sive rationali: aut a *spiritualitate* contra corporeitatem — et sic substantia rationalis vel eius potentia interior dicitur *spiritus*, Ecclesiastes tertio[^14]: «*Quis novit, si spiritus filiorum* etc.»; aut a *spiratione* — et sic affectus vel amor dicitur *spiritus*. Et ratio huius est, quia actus spirationis in corpore est actus internus, actus continuus, actus vivificus, et habens originem a calore[^15]. Quia igitur egressus amoris, ut amor est, venit ab intrinseco; et amor est actus vivificus, quia *amor est vita*; et iterum amor est actus continuus, quia continue debet reddi amor, et tunc est perfectus, quando homo sic amat; rursus est calor spiritualis: ideo solus amor dicitur spiritualiter spirari; et sic accipitur illud primae ad Thessalonicenses ultimo[^16]: «*Ut integer spiritus*» etc.
+In substantia autem corporali *spiritus* dicitur dupliciter: aut a *spiritualitate* contra corpulentiam; et sic dicitur absolute, et vocatur spiritus corpus subtile, sicut accipitur in libro *de Differentia spiritus et animae*[^12]; aut a *spiratione*; et sic dicitur spiritus flatus, sicut accipit Chrysostomus, Ioannis tertio[^13]: *Spiritus ubi vult spirat* etc. Et in Psalmo[^14]: *Ignis, grando, spiritus* etc.
 
-Secundum hunc duplicem modum accipitur in divinis. Nam secundum quod *spiritus* dicitur a *spiritualitate*, sic convenit toti Trinitati: nam tota Trinitas caret corporeitate et materialitate; et sic est nomen absolutum, Ioannis quarto[^17]: «*Spiritus est Deus*». Secundum autem quod dicitur a *spiratione*, sic convenit illi soli personae, quae procedit[^18] ut amor, ratione iam dicta. Spirari enim in spiritualibus solius est amoris; et quoniam amor potest spirari recte et ordinate, et sic est purus; vel indirecte et immunde, et sic est libidinosus: ideo persona illa, quae est amor, non tantum dicitur *Spiritus*, sed *Spiritus sanctus*. Non sic Filius dicitur[^19] sanctus, quia generatio est motus naturalis, circa quem non attenditur sanctitas vel puritas, sicut attenditur circa amorem voluntatis.
+Secundum hunc duplicem modum accipitur in substantia spirituali sive rationali, aut a *spiritualitate* contra corporeitatem: et sic substantia rationalis vel eius potentia interior dicitur *spiritus*, Ecclesiastis tertio[^15]: *Quis novit, si spiritus filiorum* etc.; aut a *spiratione*; et sic affectus vel amor dicitur *spiritus*. Et ratio huius est, quia actus spirationis in corpore est actus internus, actus continuus, actus vivificus, et habens originem a calore[^16]. Quia igitur egressus amoris, ut amor est, venit ab intrinseco; et amor est actus vivificus, quia amor est vita; et iterum amor est actus continuus, quia continue debet reddi amor, et tunc est perfectus, quando homo sic amat; rursus est calor spiritualis: ideo solus amor dicitur spiritualiter spirari; et sic accipitur illud primae ad Thessalonicenses ultimo[^17]: *Ut integer spiritus* etc.
+
+Secundum hunc duplicem modum accipitur in divinis. Nam secundum quod *spiritus* dicitur a spiritualitate, sic convenit toti Trinitati: nam tota Trinitas caret corporeitate et materialitate; et sic est nomen absolutum, Ioannis quarto[^18]: *Spiritus est Deus*. Secundum autem quod dicitur a spiratione, sic convenit illi soli personae, quae procedit[^19] ut amor, ratione iam dicta. Spirari enim in spiritualibus solius est amoris; et quoniam amor potest spirari recte et ordinate, et sic est purus; vel indirecte et immunde, et sic est libidinosus: ideo persona illa, quae est amor, non tantum dicitur *Spiritus*, sed *Spiritus sanctus*. Non sic Filius dicitur[^20] sanctus, quia generatio est motus naturalis, circa quem non attenditur sanctitas vel puritas, sicut attenditur circa amorem voluntatis.
 
 **Ad argumenta pro parte contra:**
 
-*Ad 1, 2, 3, 4.* Ad illud quod obiicitur, quod *spirare* est totius Trinitatis; dicendum, quod *spirare* dicitur dupliciter: uno modo est *spirare* idem quod *Spiritum*[^20] producere; et sic non convenit toti Trinitati; alio modo est *spirare* idem quod *inspirare*: et sic[^21] convenit toti Trinitati, quia *inspirare* dicit effectum spiritus, qui est a tota Trinitate. Dicitur enim *inspirari* quod in spiritu nostro spiritualiter immittitur, sive affectio sive cognitio.
+*Ad 1, 2, 3, 4.* Ad illud quod obiicitur, quod spirare est totius Trinitatis; dicendum, quod spirare dicitur dupliciter: uno modo est spirare idem quod Spiritum[^21] producere; et sic non convenit toti Trinitati; alio modo est spirare idem quod inspirare: et sic[^22] convenit toti Trinitati, quia inspirare dicit effectum spiritus, qui est a tota Trinitate. Dicitur enim inspirari quod in spiritu nostro spiritualiter immittitur, sive affectio sive cognitio.
 
-*Ad 5.* Ad illud quod obiicitur, quod[^22] motus est naturalis; dicendum, quod sic est in corporalibus, quae spirant propter naturae indigentiam; sed non sic in spiritualibus substantiis, quae spirant ex liberalitate voluntatis. Unde ratione huius non transfertur[^23], sed ratione aliarum proprietatum.
+*Ad 5.* Ad illud quod obiicitur, quod[^23] motus est naturalis; dicendum, quod sic est in corporalibus, quae spirant propter naturae indigentiam; sed non sic in spiritualibus substantiis, quae spirant ex liberalitate voluntatis. Unde ratione huius non transfertur[^24], sed ratione aliarum proprietatum.
 
 ### Scholion
 
-In conclusione antiqui Scholastici cum Patribus Latinis et Graecis consentiunt. Alex. Hal., S. p. I. q. 43. m. 1, et q. 63. m. 1. — Scot., I. Sent. d. 18. q. unica in utroque scripto. — S. Thom., hic q. 1. a. 4; S. I. q. 36. a. 1. — B. Albert., hic S. p. 1. tr. 8. q. 36. m. 1. — Petr. a Tar., hic q. 3. a. 2. — Richard. a Med., hic a. 2. q. 1. — Aegid. R., hic 1. princ. q. 4. — Henr. Gand., S. a. 1. 2. — Durand., hic q. 2. — Dionys. Carth., hic q. 2.
+In conclusione antiqui Scholastici cum Patribus Latinis et Graecis consentiunt. Alex. Hal., S. p. I. q. 43. m. 1, et q. 63. m. 1. — Scot., I. Sent. d. 18. q. unica in utroque scripto. — S. Thom., hic q. 1. a. 1; S. I. q. 36. a. 1. — B. Albert., hic a. 1. — Dionys. Carth., hic q. 2. — Petr. a Tar., hic q. 3. — Richard. a Med., hic a. 2. — Aegid. R., hic 1. princ. q. 4. — Henr. Gand., S. a. 1. 2. — Durand., S. p. 1. tr. 8. q. 36. m. 1.
 
 ---
 
@@ -83,146 +85,148 @@ In conclusione antiqui Scholastici cum Patribus Latinis et Graecis consentiunt. 
 
 *Whether the Holy Spirit is properly* spirit.
 
-Thirdly and finally it is asked, whether the Holy Spirit is properly *spirit*. And that this is so seems clear thus:
+Thirdly and lastly it is asked whether the Holy Spirit is properly *spirit*. And that it is so, seems to be the case in this way:
 
-1. Because the person of the Holy Spirit is most properly designated by this name, in being called *Holy Spirit*[^1]; but the name *holy* does not constrict that which is *spirit*, since it is equally common: therefore *spirit* is said properly of that person.
+1. Because the person of the Holy Spirit is most properly designated by this name when he is called *Holy Spirit*[^1]; but this name[^2] *holy* does not restrict that which is *spirit*, since it is equally common: therefore *spirit* is properly said of that person.
 
-2. Likewise, He is called *Spirit* because[^2] He is spirated; but what is spirated is not generated, nor conversely: therefore since to be spirated does not befit the Father or the Son: therefore it befits the Holy Spirit.
+2. Likewise, he is called *Spirit* because[^3] he is breathed forth; but what is breathed forth is not generated, nor conversely: therefore since to be breathed forth does not befit the Father nor the Son: therefore it befits the Holy Spirit.
 
-3. Likewise, men in agreement upon one evil are called *conspirators* — not because they think the same thing, but because they desire the same evil, and one common affection of all is bound together upon that same evil: therefore since *conspiracy*[^3] comes from *spiration*, only love is said to be spirated: therefore neither is the *Holy Spirit* called anything but love: therefore etc.
+3. Likewise, men in concord in one evil are called *conspirators*, not because they think the same, but because they desire the same evil, and the affection of all is bound together unto the same evil: therefore since *conspiracy*[^4] comes from *spiration*, only love is said to be breathed forth: therefore the Holy Spirit too is named nothing but love: therefore etc.
 
 **On the contrary:**
 
-1. "*God is Spirit, and those who worship Him must worship Him in spirit and in truth*", John, chapter four[^4]: but the whole Trinity is to be worshiped: therefore the whole Trinity is *spirit*; the same is said by Augustine[^5].
+1. *God is Spirit, and those who worship him must worship him in spirit and in truth*, John 4[^5]; but the whole Trinity is to be worshipped: therefore the whole Trinity is spirit; Augustine says the same[^6].
 
-2. Likewise, the same is shown by reason thus: *spirit* is divided over against *body*: therefore what is not body is spirit[^6]: therefore it is an absolute name, not a relative one: therefore etc.
+2. Likewise, the same is shown by reason thus: spirit is divided against body: therefore what is not body is spirit[^7]: therefore it is an absolute name, not a relative one: therefore etc.
 
-3. Likewise, *spirit* is said either from *spirituality* or from *spiration*. If from *spirituality*, then it is divided over against body, and it is clear that it befits the whole Trinity[^7]; if from *spiration*, on the contrary: *to spirate*, said in the active voice, befits the whole Trinity, because the whole Trinity is said *to inspire*: therefore [the term], said actively, is not said relatively, and therefore neither passively.
+3. Likewise, *spirit* is said either from *spirituality* or from *spiration*. If from spirituality, so it is divided against body, and it is plain that it belongs to the whole[^8] Trinity; if from spiration; on the contrary: *to breathe forth* taken actively
 
 <!-- page 204 -->
 
-4. Likewise, in so far as it is said from *spiration*, it seems to befit the Son more properly; and this is clear by authority, Job thirty-two[^8]: "*The inspiration of the Almighty gives understanding*"; but this is appropriated to the Son: therefore etc.
+befits the whole Trinity, because the whole Trinity is said *to inspire*: therefore taken actively it is not said relatively, and so neither passively.
 
-5. Likewise, *spiration* is a natural act[^9]; but only the Son proceeds by way of nature: therefore only the Son is spirated.
+4. Likewise, insofar as it is said from *spiration*, it seems that it more properly befits the Son; and this is plain from authority, Job 32[^9]: *The inspiration of the Almighty gives understanding*; but this is appropriated to the Son: therefore etc.
 
-> **Conclusion.** *Spirit*, in so far as it is said from *spirituality*, befits the whole Trinity; but in so far as it is said from *spiration*, it is proper to the Holy Spirit.
+5. Likewise, spiration is a natural act[^10]; but only the Son proceeds by way of nature: therefore only the Son is breathed forth.
 
-**I respond:** It must be said that this name *spirit* is found in bodies, in rational substances[^10], and in God; and although it is found in God most properly — because most properly there is in Him spirituality and spiration — nevertheless the order of knowing and naming begins, as from what is posterior, from corporeal substance.
+> **Conclusion.** *Spirit*, insofar as it is said from spirituality, belongs to the whole Trinity; but insofar as it is said from spiration, is proper to the Holy Spirit.
 
-In corporeal substance *spirit* is said in two ways: either from *spirituality* in opposition to corpulence — and so it is said absolutely, and *spirit* is called a subtle body, as it is taken in the book *On the Difference of Spirit and Soul*[^11]; or from *spiration* — and so a *breath of spirit* is meant, as Chrysostom takes it on John, chapter three[^12]: "*The Spirit breathes where it wills*", etc. And in the Psalm[^13]: "*Fire, hail, spirit*", etc.
+**I respond:** It must be said that this name *spirit* is found in bodies, in rational substances[^11], and in God; and although in God it is most properly [used], because spirituality and spiration are most properly in him, nevertheless the manner of knowing and naming, as from what is posterior, begins from corporeal substance.
 
-According to this same twofold manner it is taken in spiritual or rational substance: either from *spirituality* in opposition to corporeity — and so the rational substance, or its interior power, is called *spirit*, Ecclesiastes three[^14]: "*Who knows whether the spirit of the children* etc.?"; or from *spiration* — and so affection or love is called *spirit*. And the reason for this is that the act of spiration in the body is an interior act, a continuous act, a life-giving act, and one having its origin from heat[^15]. Therefore since the going-forth of love, as it is love, comes from within; and love is a life-giving act, since *love is life*; and again love is a continuous act, since love must continually be returned, and is then perfect when a person so loves; and again it is a spiritual heat: therefore love alone is said to be spiritually spirated; and so is taken that passage of First Thessalonians, the last chapter[^16]: "*That the whole spirit*" etc.
+In corporeal substance, *spirit* is said in two ways: either from *spirituality* opposed to bulkiness; and so it is said absolutely, and a subtle body is called spirit, as is taken in the book *On the Difference of Spirit and Soul*[^12]; or from *spiration*; and so *spirit* means breath, as Chrysostom takes it, John 3[^13]: *The Spirit breathes where it wills* etc. And in the Psalm[^14]: *Fire, hail, spirit* etc.
 
-According to this same twofold manner it is taken in God. For inasmuch as *spirit* is said from *spirituality*, so it befits the whole Trinity, for the whole Trinity lacks corporeity and materiality; and so it is an absolute name, John four[^17]: "*God is Spirit*". But inasmuch as it is said from *spiration*, so it befits only that person who proceeds[^18] as love, by the reason already given. For to be spirated in spiritual things is proper to love alone; and since love can be spirated rightly and ordinately — and so it is pure — or indirectly and impurely — and so it is libidinous: therefore that person, who is love, is called not only *Spirit*, but *Holy Spirit*. The Son is not called[^19] holy in this manner, because generation is a natural motion, with respect to which holiness or purity is not considered, as it is considered with respect to the love of the will.
+According to this twofold mode, it is taken also in spiritual or rational substance, either from *spirituality* opposed to corporeity: and so the rational substance, or its interior power, is called *spirit*, Ecclesiastes 3[^15]: *Who knows if the spirit of the sons* etc.; or from *spiration*; and so the affection or love is called *spirit*. And the reason of this is that the act of spiration in the body is an internal act, a continuous act, a life-giving act, and has its origin from heat[^16]. Therefore since the going-forth of love, as it is love, comes from within; and love is a life-giving act, because love is life; and again love is a continuous act, because love must continuously be returned, and then it is perfect, when a man so loves; again, [love] is a spiritual heat: therefore only love is said to be breathed forth spiritually; and thus is taken that text of First Thessalonians, the last [chapter][^17]: *That your whole spirit* etc.
 
-**To the arguments on the contrary side:**
+According to this twofold mode, it is taken in divine things. For inasmuch as *spirit* is said from spirituality, so it belongs to the whole Trinity: for the whole Trinity lacks corporeity and materiality; and so it is an absolute name, John 4[^18]: *God is Spirit*. But inasmuch as it is said from spiration, so it belongs to that person alone who proceeds[^19] as love, for the reason already given. For to be breathed forth in spiritual matters belongs only to love; and since love can be breathed forth rightly and orderly, and so is pure; or indirectly and impurely, and so is libidinous: therefore that person which is love is not only called *Spirit*, but *Holy Spirit*. Not so is the Son called[^20] holy, because generation is a natural motion, with respect to which sanctity or purity is not considered, as it is considered with respect to the love of the will.
 
-*To 1, 2, 3, 4.* To that which is objected, that *to spirate* belongs to the whole Trinity; it must be said that *to spirate* is said in two ways. In one way *to spirate* is the same as to produce *the Spirit*[^20]; and so it does not befit the whole Trinity. In the other way *to spirate* is the same as *to inspire*; and thus[^21] it befits the whole Trinity, because *to inspire* states an effect of the Spirit, which is from the whole Trinity. For something is said to be *inspired* which is sent into our spirit spiritually — whether an affection or a cognition.
+**To the arguments on the contrary:**
 
-*To 5.* To that which is objected, that[^22] the motion is natural; it must be said that this is so in corporeal things, which spirate on account of nature's need; but it is not so in spiritual substances, which spirate from the liberality of the will. Hence by reason of this [natural-act consideration] it is not transferred[^23], but by reason of other properties.
+*To 1, 2, 3, 4.* To that which is objected, that to breathe forth belongs to the whole Trinity; it must be said that to breathe forth is said in two ways: in one mode, to breathe forth is the same as to produce the Spirit[^21]; and so it does not belong to the whole Trinity; in another mode, to breathe forth is the same as *to inspire*: and so[^22] it belongs to the whole Trinity, because *to inspire* names the effect of the spirit, which is from the whole Trinity. For that is said to be inspired which is sent into our spirit spiritually, whether affection or cognition.
+
+*To 5.* To that which is objected, that[^23] the motion is natural; it must be said that so it is in corporeal things, which breathe forth on account of the indigence of nature; but not so in spiritual substances, which breathe forth from the liberality of the will. Hence by reason of this it is not transferred[^24], but by reason of other properties.
 
 ### Scholion
 
-In the conclusion the ancient Scholastics agree with the Latin and Greek Fathers. Alex. Hal., *Summa* p. I, q. 43, m. 1, and q. 63, m. 1. — Scotus, I *Sent.* d. 18, q. unica, in both writings. — St. Thomas, here q. 1, a. 4; *S.* I, q. 36, a. 1. — Bl. Albert, here *Summa* p. 1, tr. 8, q. 36, m. 1. — Petr. a Tar., here q. 3, a. 2. — Richard. a Med., here a. 2, q. 1. — Aegid. R., here principium 1, q. 4. — Henr. Gand., *Summa* a. 1, 2. — Durand., here q. 2. — Dionys. Carth., here q. 2.
+In the conclusion the ancient Scholastics agree with the Latin and Greek Fathers. Alexander of Hales, *Summa* p. I, q. 43, m. 1, and q. 63, m. 1. — Scotus, *I Sent.* d. 18, q. unica, in either writing. — St. Thomas, here q. 1, a. 1; *Summa* I, q. 36, a. 1. — Blessed Albert, here a. 1. — Dionysius the Carthusian, here q. 2. — Peter of Tarentaise, here q. 3. — Richard of Mediavilla, here a. 2. — Giles of Rome, here 1, princ. q. 4. — Henry of Ghent, *Summa* a. 1, 2. — Durandus, *Summa* p. 1, tr. 8, q. 36, m. 1.
 
 ---
 
 ## Apparatus
 
-[^1]: **La.** Unus alterve cod. ut Z cum ed. 1 omittit *sanctus*, pro quo cod. O ponit *quia per spirationem producitur*. Paulo ante cod. Z *quo* loco *quod*, pro quo aliqui codd. ut H habent *quia*. Mox aliqui codd. ut aa bb post *non coarctat hoc* adiungunt *nomen*, et ed. 1 post *ergo spiritus* adiicit *sanctus*.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Latin note (**La.**) followed by an English rendering (**En.**).
 
-    **En.** One or two codices (e.g. Z) with ed. 1 omit *sanctus*, in place of which codex O sets *because He is produced by spiration*. Slightly earlier, codex Z reads *quo* in place of *quod*, for which some codices (e.g. H) have *quia*. Shortly after, some codices (aa bb) after *non coarctat hoc* add *nomen*, and ed. 1 after *ergo spiritus* adds *sanctus*.
+[^1]: **La.** Codd. LO hic addunt: *sic Filius et Spiritus sanctus conveniunt originaliter in Patre, sed* etc.[?]
 
-[^2]: **La.** Fide multorum mss. ut AFGHIKMTVY etc. substituimus *quia* loco *quod*.
+     **En.** Codices LO here add: *thus the Son and the Holy Spirit agree originally in the Father, but* etc.[?]
 
-    **En.** On the testimony of many manuscripts (AFGHIKMTVY etc.) we have substituted *quia* for *quod*.
+[^2]: **La.** Post *non coarctat hoc* adiungunt *nomen* H et ed. I; mox pro *ergo spiritus* adiicit *sanctus*.
 
-[^3]: **La.** Praestamus lectionem veram ex multis mss. ut AFGHISTVW etc. et ed. 1 ponendo *conspiratio* loco *spiratio*.
+     **En.** After *non coarctat hoc* the manuscript H and ed. I add *nomen*; soon afterward in place of *ergo spiritus* it adds *sanctus*.
 
-    **En.** We have established the true reading from many manuscripts (AFGHISTVW etc.) and ed. 1 by setting *conspiratio* in place of *spiratio*.
+[^3]: **La.** Fide multorum mss. ut AFGHIKMTVY etc. substituimus *quia* loco *quod*.
 
-[^4]: **La.** Vers. 24.
+     **En.** On the testimony of many manuscripts such as AFGHIKMTVY etc., we have substituted *quia* for *quod*.
 
-    **En.** Verse 24 (John 4:24).
+[^4]: **La.** Praestamus lectionem veram ex multis mss. ut AFGHISTVV etc. et ed. I ponendo *conspiratio* loco *spiratio*.
 
-[^5]: **La.** Libr. V. *de Trin.* c. 11. n. 12, et ibid. XV. c. 19. n. 37.
+     **En.** We give the true reading from many manuscripts such as AFGHISTVV etc. and ed. I by placing *conspiratio* in the place of *spiratio*.
 
-    **En.** *De Trinitate* V, c. 11, n. 12, and likewise XV, c. 19, n. 37.
+[^5]: **La.** Vers. 24.
 
-[^6]: **La.** Hic *lit. Magistri*, c. 3. — Ed. 1 *hoc ipsum* loco *hoc idem*.
+     **En.** Verse 24. [John 4:24.]
 
-    **En.** Here Lombard's text (*Littera Magistri*), c. 3. — Ed. 1 reads *hoc ipsum* in place of *hoc idem*.
+[^6]: **La.** Libr. V. *de Trin.* c. 11, n. 12, et ibid. XV. c. 19, n. 37.
 
-[^7]: **La.** In cod. O additur *sed tota Trinitas non est corpus*, etc. In fine argumenti supple: *ergo convenit toti Trinitati*.
+     **En.** Book V *On the Trinity*, c. 11, n. 12, and ibid. book XV, c. 19, n. 37.
 
-    **En.** In codex O is added: *but the whole Trinity is not body*, etc. At the end of the argument supply: *therefore it befits the whole Trinity*.
+[^7]: **La.** Hic lit. Magistri, c. 3. — Ed. I *hoc ipsum* loco *hoc idem*.
 
-[^8]: **La.** Vers. 8, in quo textu Vulgata cum ed. 1 habet *intelligentiam* loco *intellectum*. Mox ed. 1 *haec* pro *hoc*.
+     **En.** Here the text of the Master [Lombard], c. 3. — Ed. I [reads] *hoc ipsum* in place of *hoc idem*.
 
-    **En.** Verse 8 (Job 32:8); in which text the Vulgate with ed. 1 has *intelligentiam* in place of *intellectum*. Shortly after, ed. 1 reads *haec* for *hoc*.
+[^8]: **La.** In cod. 0 additur: *sed tota Trinitas non est corpus* etc. In fine argumenti supple: *ergo convenit toti Trinitati*.
 
-[^9]: **La.** Cfr. Aristot., *de Respiratione*.
+     **En.** In codex 0 there is added: *but the whole Trinity is not body* etc. At the end of the argument supply: *therefore it belongs to the whole Trinity*.
 
-    **En.** Cf. Aristotle, *On Respiration*.
+[^9]: **La.** Vers. 8, in quo textu Vulgata cum ed. I habet *intelligentiam* loco *intellectum*. Mox ed. I *haec* pro *hoc*.
 
-[^10]: **La.** Substituimus ope multorum mss. ut AFGKT etc. et edd. 1, 2, 3 *rationalium* loco *rationalibus*.
+     **En.** Verse 8, in which text the Vulgate together with ed. I has *intelligentiam* in place of *intellectum*. Soon ed. I [reads] *haec* for *hoc*.
 
-    **En.** With the help of many manuscripts (AFGKT etc.) and editions 1, 2, 3 we have substituted *rationalium* for *rationalibus*.
+[^10]: **La.** Cfr. Aristot., *de Respiratione*.
 
-[^11]: **La.** Liber iste a Richardo (hic a. 2. q. 3.) attribuitur Constabulo; sed cfr. *Bibliotheca philosophorum mediae aetatis*, ed. a Baracli, Innsbruck 1876–1878, fasc. 2, ubi continentur: *Excerpta Costa-Ben Lucae de Differentia animae et spiritus*. Vide etiam libr. *de Spiritu*, c. 1 (inter opera Arist.).
+     **En.** Cf. Aristotle, *On Respiration*.
 
-    **En.** This book is attributed by Richard (here a. 2, q. 3) to Constabulus; but cf. *Bibliotheca philosophorum mediae aetatis*, ed. by Baracli, Innsbruck 1876–1878, fasc. 2, where are contained: *Excerpts of Costa Ben Luca, On the Difference of the Soul and the Spirit*. See also the book *On the Spirit*, c. 1 (among the works of Aristotle).
+[^11]: **La.** Substituimus ope multorum mss. ut AFGKT etc. et edd. 1, 2, 3 *rationalium* loco *rationalibus*.[?]
 
-[^12]: **La.** Homil. 26 (alias 25) super Ioan. 3, 8.
+     **En.** We have substituted, with the aid of many manuscripts such as AFGKT etc. and editions 1, 2, 3, *rationalium* in place of *rationalibus*.[?]
 
-    **En.** Homily 26 (otherwise 25) on John 3:8.
+[^12]: **La.** Liber iste a Richardo (hic a. 2, q. 3) attribuitur Constabulo; sed cfr. *Bibliotheca philosophorum mediae aetatis*, ed. a Baracli, Innsbruck 1876–1878, fasc. 2, ubi continentur: *Excerpta Costa-Ben Lucae de Differentia animae et spiritus*. Vide etiam libr. *de Spiritu*, c. 1 (inter opera Arist.).
 
-[^13]: **La.** 148, 8.
+     **En.** This book is attributed by Richard (here a. 2, q. 3) to Constabulus; but cf. *Library of Philosophers of the Middle Ages*, ed. by Baracli, Innsbruck 1876–1878, fasc. 2, where there are contained: *Extracts of Costa-Ben Luca on the Difference of Soul and Spirit*. See also the book *On Spirit*, c. 1 (among the works of Aristotle).
 
-    **En.** Psalm 148:8.
+[^13]: **La.** Homil. 26 (alias 25) super Ioan. 3, 8.
 
-[^14]: **La.** Vers. 21.
+     **En.** Homily 26 (alias 25) on John 3, 8.
 
-    **En.** Verse 21 (Eccl. 3:21).
+[^14]: **La.** 148, 8.
 
-[^15]: **La.** De his respirationis actibus vide Aristot., *de Respiratione*; et Nemesium, *de Natura hominis*, c. 28.
+     **En.** [Psalm] 148, 8.
 
-    **En.** On these acts of respiration, see Aristotle, *On Respiration*; and Nemesius, *On the Nature of Man*, c. 28.
+[^15]: **La.** Vers. 21.
 
-[^16]: **La.** Vers. 23.
+     **En.** Verse 21. [Ecclesiastes 3:21.]
 
-    **En.** Verse 23 (1 Thess. 5:23).
+[^16]: **La.** De his respirationis actibus vide Aristot., *de Respiratione*; et Nemesium, *de Natura hominis*, c. 28.
 
-[^17]: **La.** Vers. 24.
+     **En.** Concerning these acts of respiration see Aristotle, *On Respiration*; and Nemesius, *On the Nature of Man*, c. 28.
 
-    **En.** Verse 24 (John 4:24).
+[^17]: **La.** Vers. 23.
 
-[^18]: **La.** Cod. K adiungit *per modum amoris*. Mox post *recte* Vat. et cod. cc, cum subnexis non cohaerenter et praeter fidem aliorum codd. cum ed. 1, *Spirare* loco *Spirari*.
+     **En.** Verse 23. [1 Thessalonians 5:23.]
 
-    **En.** Codex K adds *by way of love*. Shortly after *recte*, the Vatican edition and codex cc — incongruously with what follows and against the testimony of the other codices and ed. 1 — read *Spirare* in place of *Spirari*.
+[^18]: **La.** Vers. 24.
 
-[^19]: **La.** Auctoritate mss. et sex primarum edd. expunximus hic perperam additum *Spiritus*.
+     **En.** Verse 24. [John 4:24.]
 
-    **En.** On the authority of the manuscripts and the first six editions, we have here expunged *Spiritus*, wrongly added.
+[^19]: **La.** Cod. K adiungit *per modum amoris* etc. Mox post *recte* Vat. et cod. cc cum subnexis non cohaerenter et praeter fidem aliorum codd. cum ed. 1 *Spirare* loco *Spirari*.
 
-[^20]: **La.** In mss. et edd. 1, 2, 3 non additur *sanctum*, quod in Vat. habetur.
+     **En.** Codex K adds *per modum amoris* etc. Soon after *recte*, the Vatican edition and codex cc, with their attached words incoherently and against the testimony of the other codices, together with ed. 1, [read] *Spirare* in place of *Spirari*.
 
-    **En.** In the manuscripts and editions 1, 2, 3 *sanctum* is not added, which is found in the Vatican edition.
+[^20]: **La.** Auctoritate mss. et sex primarum edd. expunximus hic perperam additum *Spiritus*.
 
-[^21]: **La.** Vat. contra antiquiores mss. et ed. 1 *ille* pro *sic*.
+     **En.** On the authority of the manuscripts and the first six editions, we have here removed the wrongly added word *Spiritus*.
 
-    **En.** The Vatican edition, against the older manuscripts and ed. 1, reads *ille* for *sic*.
+[^21]: **La.** In mss. et edd. 1, 2, 3 non additur *sanctum*, quod in Vat. habetur.
 
-[^22]: **La.** Supple: *spiratio*. Paulo infra praeferimus lectionem plurium codd. ut F P X V et ed. 1 *spirant* loco *inspirant*.
+     **En.** In the manuscripts and editions 1, 2, 3 the word *sanctum* is not added, which is found in the Vatican edition.
 
-    **En.** Supply: *spiratio*. Slightly later we prefer the reading of several codices (F P X V) and ed. 1, *spirant* in place of *inspirant*.
+[^22]: **La.** Vat. contra antiquiores mss. et ed. I *ille* pro *sic*.
 
-[^23]: **La.** Vat. cum cod. cc *transferuntur*, sed falso, quia subiectum est *spiratio*, et contra vetustiores codd. et ed. 1. Cod. K addit satis bene *ad divina*.
+     **En.** The Vatican edition, against the more ancient manuscripts and ed. I, [reads] *ille* in place of *sic*.
 
-    **En.** The Vatican edition with codex cc reads *transferuntur*, but wrongly, since the subject is *spiratio*, and against the older codices and ed. 1. Codex K adds, quite fittingly, *ad divina*.
+[^23]: **La.** Supple: *spiratio*. Paulo infra praeferimus lectionem plurium codd. ut F P X V et ed. 1 *spirant* loco *inspirant*.
 
----
+     **En.** Supply: *spiratio*. A little below, we prefer the reading of several codices such as F P X V and ed. 1, *spirant* in place of *inspirant*.
 
-## Notes
+[^24]: **La.** Vat. cum cod. cc *transferiuntur*, sed falso, quia subiectum est *spiratio*, et contra vetustiores codd. et ed. I. Cod. K addit satis bene *ad divina*.
 
-[Notes pending]
+     **En.** The Vatican edition with codex cc [reads] *transferiuntur*, but falsely, because the subject is *spiratio*, and against the more ancient codices and ed. I. Codex K adds aptly enough *ad divina*.

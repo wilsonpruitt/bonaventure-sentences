@@ -14,7 +14,7 @@ has_apparatus: false
 line_start: 38245
 line_end: 38252
 word_count_latin: 19
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 38245–38252), fresh literal English translation, no apparatus attaches to this preamble; bounds-bug fix replacing prior pt2 INDEX QUAESTIONUM TOC region (2026-05-08) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 38245–38252), fresh literal English translation, no apparatus attaches to this preamble; bounds-bug fix replacing prior pt2 INDEX QUAESTIONUM TOC region (2026-05-08); cohort flag stripped 2026-05-10 (pivot keep-list — zero-apparatus chunk, audited clean)"
 format_version: 1
 ---
 

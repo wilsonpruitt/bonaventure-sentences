@@ -1,0 +1,7 @@
+# Tier-2 ambiguities — d.10 a.2 q.3
+
+Chunk: `vol1/bon-sent-I-d10-a2-q3.md` (rebuild from-scratch 2026-05-10)
+
+- **bon-sent-I-d10-a2-q3, apparatus [^1] / arg 1 marker placement**: raw OCR p.203 footer note 2 (`Codd. LO hic addunt sic Filius et Spiritus sanctus conveniunt originaliter in Patre, sed`) reads as a variant addition near arg 1 ("propriissime designatur, quod dicitur Spiritus sanctus"), but the addition phrasing more naturally fits the p.203 q.2 region (end of q.2 Ad 3). Currently anchored on the `sanctus` of arg 1 in q.3, but it may actually belong to q.2's apparatus and have been carried over here in error. → Resolve via 600dpi PDF check of p.203 footer left column and confirm whether the apparatus footer note 2 ties to a q.2 line or q.3 line.
+
+- **bon-sent-I-d10-a2-q3, apparatus [^11] / Respondeo "rationalibus"**: raw OCR p.204 footer note 3 says "Substituimus … *rationalium* loco *rationalibus*" — i.e. the Quaracchi editors REPLACED the manuscript reading `rationalibus` with `rationalium`. The printed body therefore reads `rationalium` (genitive plural, governed by `substantiis`?). Our rebuild Latin body retained `rationalibus` (dative/ablative pl., agreeing with `substantiis`), which is what Quaracchi printed per the note's "substituimus … loco" formula. Grammar question is which case the Quaracchi text actually carries — needs 600dpi PDF eyes-on of p.204 line ~6 ("reperitur in corporibus, in substantiis [rationabilibus / rationalium]"). → If PDF shows `rationalium`, swap the body word and update the apparatus rendering accordingly.

@@ -8,13 +8,14 @@ quaestio: 3
 type: quaestio
 title_la: "Utrum in divinis ponenda sit tertia persona procedens per modum mutuae caritatis"
 title_en: "Whether a third person proceeding by way of mutual charity is to be posited in God"
-printed_pages: [193, 194]
+printed_pages: [198, 199]
+pdf_pages: [300, 301]
 line_start: 38990
-line_end: 39160
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 193–194"
+line_end: 39134
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 198–199"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 38990–39160), full apparatus from raw OCR (8 entries), scholia I–II, full English body and scholia (2026-05-02) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 38990-39134), fresh literal English translation, full apparatus from raw OCR (8 entries from p.198-199 footer blocks), scholion translated, frontmatter printed_pages corrected from [193,194] to [198,199], [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
 format_version: 1
 ---
 
@@ -25,11 +26,13 @@ format_version: 1
 
 ## Latin
 
-<!-- page 193 -->
+<!-- page 198 -->
 
 ### Quaestio III
 
 *Utrum in divinis ponenda sit tertia persona procedens per modum mutuae caritatis.*
+
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation below.
 
 Tertio quaeritur, utrum sit necesse ponere tertiam personam procedentem per modum mutuae caritatis. Et quod sic, videtur.
 
@@ -39,7 +42,7 @@ Tertio quaeritur, utrum sit necesse ponere tertiam personam procedentem per modu
 
 3. Item, ratione ostenditur hoc ipsum, quia perfectior est dilectio, quando est mutua, quia si non est mutua, ex altera parte claudicat; sed in illa dilectione est summa perfectio et nulla claudicatio: ergo etc.
 
-4. Item, qui non amat vicissim amantem se recte et liberaliter, aut est iniquus, aut ingratus: cum ergo in divinis nulla sit iniquitas, nulla ingratitudo, necesse est ibi esse amorem mutuum.
+4. Item, qui non amat vicissim amantem se recte et liberaliter aut est iniquus, aut ingratus: cum ergo in divinis nulla sit iniquitas, nulla ingratitudo, necesse est ibi esse amorem mutuum.
 
 **Contra:**
 
@@ -51,11 +54,13 @@ Tertio quaeritur, utrum sit necesse ponere tertiam personam procedentem per modu
 
 4. Item, si amor est mutuus, ergo est amor Patris ad Filium; sed iste, ut dicit Richardus[^4], est amor gratuitus, similiter erit Filii ad Patrem; et iste, ut ipse dicit, est amor debitus: ergo si tertia persona procedit per modum amoris gratuiti et debiti, ergo est amor ex utroque permixtus: ergo non amor purus. Et iterum, cum iste amor sit Filius, videtur quod Filius sit Spiritus sanctus, quia, ut dicit Richardus[^5], in Filio est amor ex utroque permixtus.
 
+### Conclusio
+
 > **Conclusio.** Tertia persona procedit per modum mutuae caritatis.
 
 **Respondeo:** Dicendum, quod cum amor perfectionem delectationis[^6] et unionis et rectitudinis habeat ex mutualitate, aut non est personam ponere in divinis procedere per modum amoris, aut, si procedit, procedit per modum mutuae caritatis.
 
-**Ad argumenta pro parte contra:**
+**Ad argumenta in contrarium:**
 
 *Ad 1.* Ad illud ergo quod obiicitur in contrarium, quod tunc Filius aliquid dat Patri; dicendum, quod ex hoc, quod amans per amorem tendit in amatum, nihil dat ei; alioquin nos daremus aliquid Deo, cum ipsum amamus.
 
@@ -63,13 +68,13 @@ Tertio quaeritur, utrum sit necesse ponere tertiam personam procedentem per modu
 
 *Ad 3.* Ad illud quod obiicitur: si mutuus, non unicus[^7]; dicendum, quod verum est in amantibus, quorum affectus sunt diversi; non sic est in Deo.
 
-<!-- page 194 -->
-
 *Ad 4.* Ad illud quod obiicitur, quod non est amor purus; dicendum, quod ex utraque parte liberalis est, et ideo omnino purus. Et quod[^8] dicit Richardus, quod est amor debitus et gratuitus; dicendum, quod istae conditiones non dicunt modum amandi circa amorem, sed dicunt modum emanandi sive originis circa personas.
+
+<!-- page 199 -->
 
 ### Scholion
 
-**I.** In solut. ad 4[?] verba locum Richardi a S. Victore exponentia: «Non dicunt modum amandi circa amorem etc.» hunc sensum habent: Pater habet amorem gratuitum, quia non est ab alio; Filius amorem permixtum, quia a Patre procedit et cum ipso producit Spiritum sanctum, cui attribuitur amor debitus, quia non producit personam, sed ipse producitur. Cum vero amor in tribus personis sit idem et purissimus, locutio Richardi sumenda est non in sensu proprio, sed metaphorico; unde Scholastici posteriores eam non probabant. Cfr. Brulifer ad hunc locum S. Bonaventurae.
+**I.** In solut. ad 4. verba locum Richardi a S. Victore exponentia: «Non dicunt modum amandi circa amorem etc.» hunc sensum habent: Pater habet amorem gratuitum, quia non est ab alio, Filius amorem permixtum, quia a Patre procedit et cum ipso producit Spiritum sanctum, cui attribuitur amor debitus, quia non producit personam, sed ipse producitur. Cum vero amor in tribus personis sit idem et purissimus, locutio Richardi sumenda est non in sensu proprio, sed metaphorico; unde Scholastici posteriores eam non probabant. Cfr. Brulifer[?] ad hunc locum S. Bonaventurae.
 
 **II.** Quoad conclusionem cfr. Alex. Hal., S. p. I. q. 43. m. 5. — Scot., I. Sent. d. 12. q. 1, et d. 32. q. 1. ad 3. 4. — S. Thom., hic q. 1. a. 2. — B. Albert., hic a. 7. — Petr. a Tar., hic q. 2. n. 2. — Richard. a Med., hic a. 1. q. 3. — Henr. Gand., S. a. 61. q. 4, et a. 54. q. 6. n. 47. — Biel, I. Sent. d. 12. q. 2. nota 3.
 
@@ -77,53 +82,51 @@ Tertio quaeritur, utrum sit necesse ponere tertiam personam procedentem per modu
 
 ## English
 
-<!-- page 193 -->
-
 ### Question III
 
-*Whether a third person proceeding by way of mutual charity is to be posited in God.*
+*Whether in God a third person is to be posited proceeding by way of mutual charity.*
 
-Thirdly it is asked, whether it is necessary to posit a third person proceeding by way of mutual charity. And that this is so seems clear:
+Thirdly it is asked whether it is necessary to posit a third person proceeding by way of mutual charity. And that it is so, it seems.
 
-1. John, chapter seventeen[^1]: "*That they may be one, just as we are one*": the Lord prays and asks unity for the disciples — not unity of nature, but of love through conformity to that supreme unity; but the members of Christ are united by mutual love: therefore in God there is the exemplar of this: thus etc.[^2]
+1. John 17[^1]: «That they may be one, even as we are»: the Lord prays and asks for the disciples a unity, not of nature, but of love through conformity to that highest unity; but the members of Christ are united by mutual love: therefore in God there is an exemplar of this: and so on.[^2]
 
-2. Likewise, Jerome, on Psalm seventeen[^3]: "*The Holy Spirit is the love which the Father has toward the Son, and the Son toward the Father*": therefore it is mutual love.
+2. Likewise, Jerome on Psalm 17[^3]: «The Holy Spirit is the love which the Father has toward the Son, and the Son toward the Father»: therefore it is a mutual love.
 
-3. Likewise, this same point is shown by reason: love is more perfect when it is mutual, because if it is not mutual, it limps on one side; but in that love there is supreme perfection and no limping: therefore etc.
+3. Likewise, this same point is shown by reason, because love is more perfect when it is mutual, since if it is not mutual, it limps on the other side; but in that love is the highest perfection and no limping: therefore, and so on.
 
-4. Likewise, one who does not in turn love a person who loves him rightly and liberally is either unjust or ungrateful: since therefore in God there is no injustice, no ingratitude, it is necessary that mutual love be there.
+4. Likewise, he who does not love in return one who loves him rightly and liberally is either unjust or ungrateful: since therefore in God there is no injustice and no ingratitude, it is necessary that there be mutual love.
 
 **On the contrary:**
 
-1. If there is mutual love, then the Son's love is toward the Father and the Father's toward the Son: therefore the Father receives something from the Son; which is absurd.
+1. If there is mutual love, therefore [it is] of the Son toward the Father and of the Father toward the Son: therefore the Father receives something from the Son; which is absurd.
 
-2. Likewise, one who loves a person who loves him does what he owes, because this is a debt that must be repaid; therefore if there is mutual love in God, it is owed: therefore it is not most liberal, which is absurd.
+2. Likewise, he who loves one who loves him does what is owed, because this is a debt which is to be repaid; therefore if in God there is mutual love, therefore it is owed: therefore it is not most liberal, which is absurd.
 
 3. Likewise, no mutual love is a unique love; this is self-evident; therefore if the Holy Spirit is mutual love, He is not a unique love.
 
-4. Likewise, if the love is mutual, then it is the love of the Father toward the Son; but this love, as Richard[^4] says, is *gratuitous love*; similarly there will be the love of the Son toward the Father; and this, as he himself says, is *owed love*: therefore if the third person proceeds by way of gratuitous and owed love, then He is a love mixed of both: therefore not a pure love. And again, since this mixed love is the Son, it seems that the Son is the Holy Spirit, because, as Richard[^5] says, in the Son there is a love mixed of both.
+4. Likewise, if the love is mutual, therefore it is the love of the Father toward the Son; but this love, as Richard says[^4], is gratuitous love; likewise will there be [love] of the Son toward the Father; and this, as he himself says, is owed love: therefore if the third person proceeds by way of gratuitous and owed love, therefore it is a love mixed from both: therefore not pure love. And again, since this love is the Son, it seems that the Son is the Holy Spirit, because, as Richard says[^5], in the Son there is a love mixed from both.
+
+### Conclusion
 
 > **Conclusion.** The third person proceeds by way of mutual charity.
 
-**I respond:** It must be said that, since love has the perfection of delight[^6] and union and rectitude from mutuality, either one cannot posit a person in God to proceed by way of love, or, if such a one proceeds, he proceeds by way of mutual charity.
+**I respond:** It must be said that, since love has the perfection of delight[^6] and of union and of rectitude from mutuality, either one is not to posit a person in God to proceed by way of love, or, if one does proceed, it proceeds by way of mutual charity.
 
-**To the arguments on the contrary side:**
+**To the arguments to the contrary:**
 
-*To 1.* To that which is objected on the contrary side, that then the Son gives something to the Father; it must be said that, from the fact that one loving tends through love into the loved, he gives nothing to him; otherwise we would give something to God when we love Him.
+*To 1.* To what is objected to the contrary, that then the Son gives something to the Father; it must be said that from the fact that the lover by love tends toward the beloved, he gives nothing to him; otherwise we would be giving something to God when we love Him.
 
-*To 2.* To that which is objected, that mutual love is owed; it must be said that it is owed, because it is right; but nevertheless love does not consider what is owed. Hence, however much may be owed, so long as the debt is not attended to, the character of liberality is not diminished, but rather the character of rectitude is shown.
+*To 2.* To what is objected, that mutual love is owed; it must be said that it is owed because it is right; yet love does not consider what is owed. Hence however much may be owed, so long as the debt is not attended to, the character of liberality is not diminished; rather, the character of rectitude is shown.
 
-*To 3.* To that which is objected: if mutual, then not unique[^7]; it must be said that this is true in lovers whose affections are diverse; it is not so in God.
+*To 3.* To what is objected: if mutual, not unique[^7]; it must be said that this is true among lovers whose affections are diverse; it is not so in God.
 
-<!-- page 194 -->
-
-*To 4.* To that which is objected, that it is not pure love; it must be said that it is liberal on each side, and therefore wholly pure. And as for what[^8] Richard says, that it is owed love and gratuitous love; it must be said that these conditions do not state the manner of loving as regards the love itself, but rather the manner of emanating or of origin as regards the persons.
+*To 4.* To what is objected, that it is not pure love; it must be said that from each side it is liberal, and therefore wholly pure. And as to what[^8] Richard says, that it is owed and gratuitous love; it must be said that these conditions do not state the mode of loving with respect to the love itself, but state the mode of emanation or of origin with respect to the persons.
 
 ### Scholion
 
-**I.** In the solution to objection 4[?], the words expounding the passage of Richard of St. Victor, "*they do not state the manner of loving as regards the love*, etc.", have this sense: the Father has *gratuitous* love, because He is not from another; the Son has *mixed* love, because He proceeds from the Father and together with Him produces the Holy Spirit, to whom is attributed *owed* love, because He does not produce a person but is Himself produced. But since love in the three persons is one and the same and most pure, Richard's manner of speaking is to be taken not in a proper but in a metaphorical sense; whence the later Scholastics did not approve it. Cf. Brulifer on this passage of St. Bonaventure.
+**I.** In the solution to [argument] 4, the words expounding the passage of Richard of St. Victor — «They do not state the mode of loving with respect to the love, etc.» — have this sense: the Father has gratuitous love, because He is not from another; the Son has mixed love, because He proceeds from the Father and together with Him produces the Holy Spirit, to whom is attributed owed love, because He does not produce a person, but is Himself produced. But since love in the three persons is the same and most pure, Richard's expression must be taken not in a proper sense, but in a metaphorical one; whence the later Scholastics did not approve it. Cf. Brulifer[?] on this passage of St. Bonaventure.
 
-**II.** As regards the conclusion, cf. Alex. Hal., *Summa* p. I, q. 43, m. 5. — Scotus, I *Sent.* d. 12, q. 1, and d. 32, q. 1, ad 3, 4. — St. Thomas, here q. 1, a. 2. — Bl. Albert, here a. 7. — Petrus a Tarantasia, here q. 2, n. 2. — Richard. a Med., here a. 1, q. 3. — Henr. Gand., *Summa* a. 61, q. 4, and a. 54, q. 6, n. 47. — Biel, I *Sent.* d. 12, q. 2, nota 3.
+**II.** As to the conclusion, cf. Alex. of Hales, *Summa*, p. I, q. 43, m. 5. — Scotus, I *Sent.* d. 12, q. 1, and d. 32, q. 1, ad 3, 4. — St. Thomas, here q. 1, a. 2. — Bl. Albert, here a. 7. — Peter of Tarentaise, here q. 2, n. 2. — Richard of Mediavilla, here a. 1, q. 3. — Henry of Ghent, *Summa* a. 61, q. 4, and a. 54, q. 6, n. 47. — Biel, I *Sent.* d. 12, q. 2, nota 3.
 
 ---
 
@@ -131,19 +134,19 @@ Thirdly it is asked, whether it is necessary to posit a third person proceeding 
 
 [^1]: **La.** Vers. 22.
 
-    **En.** Verse 22 (John 17:22).
+    **En.** Verse 22.
 
-[^2]: **La.** Pauci codd. ut HIPQ; *et sic patet etc.*
+[^2]: **La.** Pauci codd. ut HIPQ; et sic patet etc.
 
-    **En.** A few codices, e.g. HIPQ, read: *and so it is clear, etc.*
+    **En.** A few codices, such as HIPQ: *and so it is clear, etc.*
 
 [^3]: **La.** Vide lit. Magistri, c. 2. post medium.
 
-    **En.** See the *Littera Magistri* (Lombard's text), c. 2, after the middle. (The citation, though attributed to Jerome by Bonaventure, is in fact found in the body of Lombard's distinction, c. 2, just past the middle.)
+    **En.** See the text of the Master [Lombard], c. 2, after the middle.
 
 [^4]: **La.** Libr. V. *de Trin.* c. 17. et seqq. — Mox post *iste* Vat. praeter fidem mss. et ed. 1 additur *ergo*, et paulo infra contra multos codd. ut A G K T Z etc. et ed. 1 habetur *ille* loco *iste*.
 
-    **En.** *On the Trinity*, Bk. V, c. 17 ff. — Shortly after, following *iste*, the Vatican edition adds *ergo*, against the testimony of the manuscripts and ed. 1; and slightly later, against many codices (A G K T Z etc.) and ed. 1, it has *ille* in place of *iste*.
+    **En.** [Richard of St. Victor], Book V, *On the Trinity*, c. 17 and following. — Shortly after *iste*, the Vatican edition, against the testimony of the manuscripts and ed. 1, adds *ergo*; and a little further on, against many codices such as A, G, K, T, Z, etc., and ed. 1, it has *ille* in place of *iste*.
 
 [^5]: **La.** Ex antiquioribus mss. et ed. 1 supplevimus *Richardus*.
 
@@ -151,18 +154,12 @@ Thirdly it is asked, whether it is necessary to posit a third person proceeding 
 
 [^6]: **La.** Nonnulli codd. ut A F K U Z cum ed. 1 *dilectionis*.
 
-    **En.** Some codices (A F K U Z) with ed. 1 read *dilectionis*.
+    **En.** Several codices, such as A, F, K, U, Z, together with ed. 1, [read] *dilectionis* [love].
 
 [^7]: **La.** Cod. X *obiicitur: nullus amor mutuus est unicus*.
 
-    **En.** Codex X reads: *the objection is that no mutual love is unique*.
+    **En.** Codex X [reads]: *it is objected: no mutual love is unique*.
 
 [^8]: **La.** Vat. loco *quod* habet *cum*, deinde omittit *Richardus*, refragantibus vetustioribus mss. et ed. 1, sicuti et paulo infra ponit perperam *emanandi* pro *amandi*.
 
-    **En.** The Vatican edition, in place of *quod*, has *cum*, and then omits *Richardus*, against the older manuscripts and ed. 1, just as also slightly later it wrongly puts *emanandi* for *amandi*.
-
----
-
-## Notes
-
-[Notes pending]
+    **En.** The Vatican edition, in place of *quod*, has *cum*, then omits *Richardus*, against the older manuscripts and ed. 1; likewise a little further on it wrongly puts *emanandi* for *amandi*.
