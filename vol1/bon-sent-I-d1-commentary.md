@@ -14,7 +14,7 @@ has_apparatus: false
 line_start: 13215
 line_end: 13223
 word_count_latin: 17
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 13215–13223), fresh literal English translation, no apparatus attaches to this preamble (2026-05-08) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 13215–13223), fresh literal English translation, no apparatus attaches to this preamble (2026-05-08); cohort flag stripped 2026-05-10 (pivot keep-list — zero-apparatus chunk, audited clean)"
 format_version: 1
 ---
 

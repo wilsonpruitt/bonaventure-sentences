@@ -410,3 +410,8 @@ No `[?]` flags placed inline. The Lombard text on Distinction V is well preserve
 **bon-sent-I-d4-a1-q1, app. [^17] (p.98 fn 9)**: OCR `Cod. K. addit dcut hic` — *dcut* almost certainly *scilicet* abbreviation. Currently rendered "[scilicet?]". → Resolve with PDF p.98 footer.
 
 **bon-sent-I-d9-littera, multiple**: d.9 littera rebuild from scratch 2026-05-10. (a) Cap. III. header marked [?] — OCR shows "Cap. III." indirectly through running placement; chapter rubric placement between Ambrose Cap.I/II blocks and Cap.V is ambiguous in OCR column glitch (lines 35687-35690); the printed page likely shows Cap. III. with running-head context but PDF eyes-on needed. (b) [^13] Isaiah 53,8 — OCR note 6 on p.178 reads "Cap. 33, 8." which is implausible as a Hieronymus Eccl. cap (only 12 chap); rendered as Isai. 53, 8 (the Isaiah ineffability prooftext at body "Generationem eius quis enarrabit?"). Resolve with 600dpi PDF p.178 footer band check.
+
+## 2026-05-10 batch — d.1-littera from-scratch rebuild
+
+**bon-sent-I-d1-littera, p.27 "In homine autem spes ponenda..."**: OCR line 12981-12982 reads `In homine autem spes ponenda / quia Maledictus est qui hoc facit` — predicate of "spes ponenda" missing (compare Augustine's original *De doctr. christ.* I.22, which has "spes ponenda non est"). Apparatus note 18 (raw line 13051: "mss. omnes et edd. 1, 8 male... omittunt nos ante consolatur") flags an adjacent omission but not this one. Currently rendered as "*spes ponenda non est*[?]" in the English on conjectural restoration; the Latin body preserves the OCR as-is. → Resolve at next 600dpi PDF eyes-on pass.
+
