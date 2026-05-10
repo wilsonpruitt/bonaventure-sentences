@@ -13,167 +13,168 @@ pdf_pages: [156, 157, 158]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 54–56"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 17109–17359), parallel literal English translation incl. scholion, 12-entry apparatus from raw OCR; sweep-audited 2026-05-08 (clean — body and apparatus match OCR pp. 54–56; [^6] is a deliberate cross-reference to [^5] for the same OCR footer note 5 anchored at two body positions) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
-line_start: 17109
-line_end: 17359
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 17109-17359), fresh literal English translation, full apparatus from raw OCR (14 entries from p.54-56 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
 format_version: 1
 ---
 
-# I Sent., d. 2, a. 1, q. 3
+# I Sent., d. 2, a. unicus, q. 3
 ## *Utrum numerus divinarum personarum sit infinitus*
 
 ---
 
 ## Latin
-
 <!-- page 54 -->
 
-### Quaestio III
-
-*Utrum numerus divinarum personarum sit infinitus.*
+### Quaestio III. *Utrum numerus divinarum personarum sit infinitus.*
 
 Consequenter tertio loco quaeritur, utrum in divinis personis sit ponere infinitatem. Et quod sic, ostenditur hoc modo.
 
-**1.** Quia creatura est finita, et quidquid est in ipsa, est actu finitum: ergo ab oppositis, quia divina essentia est infinita, quidquid est in ipsa, est infinite: ergo cum in Deo sit numerus personarum, erit infinitus; et ita erunt personae infinitae.
+1. Quia creatura est[^1] finita, et quidquid est in ipsa, est actu finitum: ergo ab oppositis, quia divina essentia est infinita, quidquid est in ipsa, est infinite; ergo cum in Deo sit numerus personarum, erit infinitus; et ita erunt personae infinitae.
 
-**2.** Item, cum duplex sit infinitas, virtualis et numeralis, infinitas virtualis est in Deo: ergo pari ratione infinitas numeralis: ergo in Deo sunt infinitae personae.
+2. Item, cum duplex sit infinitas, virtualis et numeralis[^2], infinitas virtualis est in Deo: ergo pari ratione infinitas numeralis: ergo in Deo sunt infinitae personae.
 
 <!-- page 55 -->
 
-**3.** Item, infinita virtus, cum emanat[^1] secundum suam totam infinitatem, non tantum producit infinitum intensive, sed etiam extensive; sed virtus Patris in productione personarum emanat secundum omnimodam sui potestatem: ergo non tantum producit personas infinitas in virtute, immo etiam[^2] infinitas in numero.
+3. Item, infinita virtus, cum emanat[^3] secundum suam totam infinitatem, non tantum producit infinitum intensive, sed etiam extensive; sed virtus Patris in productione personarum emanat secundum omnimodam sui potestatem: ergo non tantum producit personas infinitas in virtute, immo etiam[^4] infinitas in numero.
 
-**4.** Item, hoc ipsum ostenditur sic: multiplicatio personarum aut est virtutis, aut non. Si non; ergo non debet in divinis poni; si est virtutis per se: ergo maior multiplicatio erit maioris virtutis, et summae virtutis infinita multiplicatio: ergo etc.
+4. Item, hoc ipsum ostenditur sic: multiplicatio personarum aut est virtutis, aut non. Si non; ergo non debet in divinis poni; si est virtutis per se: ergo maior multiplicatio erit maioris virtutis, et summae virtutis infinita multiplicatio: ergo etc.
 
-*Contra hoc* ostenditur quadruplici conditione, quae sumitur ab hoc quod semper Deo est attribuendum quod nobilius est, quod necesse est ponere finitatem personarum. Prima est *distinctio*, secunda *ordo*, tertia *connexio*, quarta *summa completio*[^3].
+**Contra** hoc ostenditur quadruplici conditione, quae sumitur ab hoc quod semper Deo est attribuendum quod nobilius est, quod necesse est ponere finitatem personarum. Prima est distinctio, secunda ordo, tertia connexio, quarta summa completio[^5].
 
-**1.** Ex prima conditione ostenditur sic: si est ibi distinctio, non ergo confusio; sed ubi est infinitas, ibi est confusio: ergo etc.
+1. Ex prima conditione ostenditur sic: si est ibi distinctio, non ergo confusio; sed ubi est infinitas, ibi est confusio: ergo etc.
 
-**2.** Item, ex secunda sic: ubi est ordo, ibi est terminatio, quia ubi deficit terminatio, deficit et[^4] mediatio et per consequens ordo; sed ubi est terminatio, non est infinitas: ergo si in personis divinis est ordo, non est infinitas.
+2. Item, ex secunda sic: ubi est ordo, ibi est terminatio, quia ubi deficit terminatio, deficit et[^6] mediatio et per consequens ordo; sed ubi est terminatio, non est infinitas: ergo si in personis divinis est ordo, non est infinitas.
 
-**3.** Item, ex tertia sic: ubi est connexio, necesse est, quod omnes[^5] personae procedant ab una; nam si una ab alia et ita consequenter, tunc est infinita distantia inter primam et ultimam; sed[^6] hoc est inconveniens: ergo omnes ab una: aut ergo eisdem modis, aut diversis. Si eisdem: ergo nulla distinctio; si diversis, sed diversi modi emanandi sunt finiti: ergo etc.
+3. Item, ex tertia sic: ubi est connexio, necesse est, quod omnes personae procedant ab una; nam si una ab alia et ita consequenter, tunc est infinita distantia inter primam et ultimam; sed[^7] hoc est inconveniens: ergo omnes ab una: aut ergo eisdem modis, aut diversis. Si eisdem: ergo nulla distinctio; si diversis, sed diversi modi emanandi sunt finiti: ergo etc.
 
-**4.** Item, ex quarta sic: si est ibi summa completio, ergo nata est divinitas alia complere: ergo cum completio personarum sit in beatitudine, nata est beatificare[^7]. Sed si essent personae infinitae, impossibile esset aliquem beatificari a Deo; cognitio enim cuiuslibet personae est de substantia beatitudinis, cum tota bonitas, quae est substantiale praemium, sit in qualibet[^8] personarum; ergo aut anima omnes cognosceret, aut non esset beata; sed impossibile esset omnes cognoscere, cum virtus eius sit finita: ergo etc.
+4. Item, ex quarta sic: si est ibi summa completio, ergo nata est divinitas alia complere: ergo cum completio personarum sit in beatitudine, nata est beatificare[^8]. Sed si essent personae infinitae, impossibile esset aliquem beatificari a Deo; cognitio enim cuiuslibet personae est de substantia beatitudinis, cum tota bonitas, quae est substantiale praemium, sit in qualibet personarum; ergo aut anima omnes cognosceret, aut non esset beata; sed impossibile esset[^9] omnes cognoscere, cum virtus eius sit finita: ergo etc.
 
-### Conclusio
+> **Conclusio.** Numerum divinarum personarum esse finitum, et fides tenet et ratio suadet.
 
-> *Numerum divinarum personarum esse finitum, et fides tenet et ratio suadet.*
+**Respondeo:** Dicendum, quod in divinis personis quantum ad numerum non est ponere infinitatem, sed finitatem.
 
-**Respondeo:** Dicendum, quod in divinis personis quantum ad numerum non est ponere infinitatem sed finitatem.
+Ratio autem huius est, quia infinitas numeralis repugnat perfectioni et ordini, quia est per recessum ab unitate sive ab origine sua. Similiter et[^10] infinitas molis; et ideo neutrum est in Deo. Infinitas autem virtutis est per accessum ad unitatem et originem; et ideo, cum ista sit perfectionis, ponenda est in Deo, alia non.
 
-Ratio autem huius est, quia infinitas numeralis repugnat perfectioni et ordini, quia est per recessum ab unitate sive ab origine sua. Similiter et infinitas molis; et ideo neutrum est in Deo. Infinitas autem virtutis est per accessum ad unitatem et originem; et ideo, cum ista sit perfectionis, ponenda est in Deo, alia non[^9].
+**Ad argumenta:**
 
-**1–2.** Ad illud ergo quod obiicitur, quod *quidquid est in Deo, est infinite*; dicendum, quod verum est infinite, sed non qualicumque infinitate, sed illa qua Deus est infinitus; et haec est infinitas immensitatis, et tali modo est Trinitas infinita, non infinitate numerali, quae non congruit Deo[^10].
+*Ad 1, 2.* Ad illud ergo quod obiicitur, quod quidquid est in Deo, est infinite; dicendum, quod verum est infinite, sed non qualicumque[^11] infinitate, sed illa qua Deus est infinitus; et haec est infinitas immensitatis, et tali modo est Trinitas infinita, non infinitate numerali, quae non congruit Deo[^12].
 
-**3.** Ad illud quod obiicitur, quod *infinita virtus, infinite*[^11] *emanans, producit infinita*; dicendum, quod divinae virtuti non convenit productio nisi perfecti; et ideo non convenit ei productio alicuius infinitatis nisi illius, quae stat cum summa perfectione. Haec autem non est infinitas numeralis, et ideo non est in Deo.
+*Ad 3.* Ad illud quod obiicitur, quod infinita virtus, infinite[^13] emanans, producit infinita; dicendum, quod divinae virtuti non convenit productio nisi perfecti; et ideo non convenit ei productio alicuius infinitatis nisi illius, quae stat cum summa perfectione. Haec autem non est infinitas numeralis, et ideo non est in Deo.
 
-**4.** Ad ultimum quod obiicitur, quod *potentiae est se multiplicare*; dicendum, quod non omni modo[^12] est potentiae, sed perfecte multiplicare se potentiae est; et ideo non sequitur: *ergo magis se multiplicare est maior perfectio*, nisi intelligatur *perfecte*; sed infinite se multiplicare secundum numerum est imperfecte; et ideo non convenit Deo.
+*Ad 4.* Ad ultimum quod obiicitur, quod potentiae est se multiplicare; dicendum, quod non omni modo[^14] est potentiae, sed perfecte multiplicare se potentiae est; et ideo non sequitur: ergo magis se multiplicare est maior perfectio, nisi intelligatur perfecte; sed infinite se multiplicare secundum numerum est imperfecte; et ideo non convenit Deo.
+
+<!-- page 56 -->
 
 ### Scholion
 
-Tres solent communiter distingui species infinitatis, scil. *numeralis*, quae est in quantitate discreta, *molis*, quae est in quantitate continua, et *virtutis* sive *immensitatis*; cfr. infra d. 19. p. I. a. 1. q. 1 et 2. — Pro faciliore intelligentia quatuor argumentorum in *fundam.* haec notamus. Istae quatuor proprietates divinitatis, saltem tres primae, ita inter se connexae sunt, ut secunda (ordo) supponat primam (distinctionem) et tertia (connexio) utramque. Primum arg. ex distinctione sumptum sic procedit: si Deo attribuendum quod nobilius est, et si ibi est distinctio, ipsa distinctio debet esse sine confusione, cum confusio sit imperfectionis; sed ubi infinita multitudo, ibi est confusio: ergo etc.; cfr. infra d. 43. a. 1. q. 3. Secundum arg. procedit ex hoc axiomate, quod, ubi est ordo, ibi necessario est primum et ultimum (terminus) et medium. Tertium arg. est satis perspicuum. In quarto arg., quod sumitur ex summa completione, i. e. plenitudine perfectionis, S. Doctor supponit cum sententia communi, quod «cognitio cuiuslibet personae est de substantia beatitudinis». De hoc tamen Scot. (I. Sent. d. 1. q. 1.) dubitat et opinatur, non esse, absolute loquendo, impossibile, quod in caelo aliquis fruatur essentia Dei, non vero personis. De qua sententia videri potest Macedo, *Collationes doctrinae S. Thom. et Scoti*, collat. 3. differ. 3.
+**I.** Communiter triplex distinguitur infinitas, scil. numeralis, quae est in quantitate discreta, molis, quae est in quantitate continua, et virtutis sive immensitatis; cfr. infra d. 19. p. I. a. I. q. I. et 2. — Pro faciliore intelligentia quatuor argumentorum in fundam. haec notamus. Istae quatuor proprietates divinitatis, saltem tres primae, ita inter se connexae sunt, ut secunda (ordo) supponat primam (distinctionem) et tertia (connexio) utramque. Primum arg. ex distinctione sumtum sic procedit: si Deo attribuendum quod nobilius est, et si ibi est distinctio, ipsa distinctio debet esse sine confusione, cum confusio sit imperfectionis; sed ubi infinita multitudo, ibi est confusio: ergo etc.; cfr. infra d. 43. a. I. q. 3. Secundum arg. procedit ex hoc axiomate, quod, ubi est ordo, ibi necessario est primum et ultimum (terminus) et medium. Tertium arg. est satis perspicuum. In quarto arg., quod sumitur ex summa completione, i. e. plenitudine perfectionis, S. Doctor supponit cum sententia communi, quod « cognitio cuiuslibet personae est de substantia beatitudinis ». De hoc tamen Scot. (I. Sent. d. 1. q. 1.) dubitat et opinatur, non esse, absolute loquendo, impossibile, quod in caelo aliquis fruatur essentia Dei, non vero personis. De qua sententia videri potest Macedo, *Collationes doctrinae S. Thom. et Scoti*, collat. 3. differ. 3.
 
-Circa ipsam quaestionem: Alex. Hal., *S.* p. I. q. 43. m. 6, ubi latius fund. 1 et 2 explicantur. — Scot., hic q. 3 et q. 7. — S. Thom., *S.* I. q. 30. a. 2. — B. Albert., de hac et seq. quaest., *S.* p. 1. tr. 9. q. 41. m. 3. — Petr. a Tar., hic q. 2. a. 2. — Richard. a Med., hic a. 2. q. 2. — Henr. Gand., *S.* a. 53. q. 9. — Durand., I. Sent. d. 10. q. 2. — Biel, I. Sent. d. 10. q. 1.
+**II.** Circa ipsam quaestionem: Alex. Hal., S. p. I. q. 43. m. 6., ubi latius fund. 1. et 2. explicantur. — Scot., hic q. 5.[?] et 7. — S. Thom., S. I. q. 30. a. 2. — B. Albert., de hac et seq. quaest. S. p. I. tr. 9. q. 41. m. 3. — Petr. a Tar., hic q. 2. a. 2. — Richard. a Med., hic a. 2. q. 2. — Henr. Gand., S. a. 53. q. 9. — Durand., I. Sent. d. 10. q. 2. — Biel, I. Sent. d. 10. q. 1.
 
 ---
 
 ## English
 
-### Question III
+### Question III. *Whether the number of divine persons is infinite.*
 
-*Whether the number of divine persons is infinite.*
+In the third place, consequently, it is asked whether infinity is to be posited in the divine persons. And that it is so, is shown in this way.
 
-Consequently, in the third place, it is asked whether infinity is to be posited in the divine persons. And that it is so is shown in the following way.
+1. Because the creature is[^1] finite, and whatever is in it is actually finite: therefore from the opposites, since the divine essence is infinite, whatever is in it is infinite; therefore since in God there is a number of persons, it will be infinite; and so the persons will be infinite.
 
-**1.** Because a creature is finite, and whatever is in it is actually finite: therefore by opposition, since the divine essence is infinite, whatever is in it is infinite: therefore, since in God there is a number of persons, that number will be infinite, and thus there will be an infinity of persons.
+2. Likewise, since infinity is twofold, virtual and numerical[^2], virtual infinity is in God: therefore by parity of reasoning numerical infinity also: therefore in God there are infinite persons.
 
-**2.** Likewise, since infinity is twofold — virtual and numerical — virtual infinity is in God: therefore by parity of reasoning numerical infinity is as well: therefore in God there are infinite persons.
+3. Likewise, an infinite power, when it emanates[^3] according to its whole infinity, produces an infinite not only intensively but also extensively; but the power of the Father in the production of persons emanates according to its all-encompassing potency: therefore it produces persons not only infinite in power, but rather even[^4] infinite in number.
 
-**3.** Likewise, an infinite power, when it emanates[^1] according to its entire infinity, produces not only the infinite intensively but also extensively; but the power of the Father in the production of persons emanates according to the entire fullness of his might: therefore it produces persons infinite not only in power but even[^2] infinite in number.
+4. Likewise, this very point is shown thus: the multiplication of persons either belongs to power, or it does not. If not, then it ought not to be posited in the divine; if it belongs to power *per se*: therefore a greater multiplication will belong to a greater power, and an infinite multiplication to the highest power: therefore etc.
 
-**4.** Likewise, this same point is shown thus: the multiplication of persons is either a matter of power or it is not. If not, then it ought not to be posited in divine things. If it is a matter of power through itself, then greater multiplication will belong to greater power, and infinite multiplication to supreme power: therefore, etc.
+**On the contrary**, this is shown by a fourfold condition, which is taken from this, that there must always be attributed to God what is more noble, namely that it is necessary to posit a finitude of persons. The first is distinction, the second order, the third connection, the fourth supreme completion[^5].
 
-*On the contrary*, it is shown by four conditions — conditions drawn from the principle that what is nobler must always be attributed to God — that it is necessary to posit finitude of the persons. The first condition is *distinction*, the second *order*, the third *connection*, the fourth *supreme completion*[^3].
+1. From the first condition it is shown thus: if there is distinction there, then there is no confusion; but where there is infinity, there is confusion: therefore etc.
 
-**1.** From the first condition it is shown thus: if there is distinction there, then not confusion; but where there is infinity, there is confusion: therefore, etc.
+2. Likewise, from the second thus: where there is order, there is termination, since where termination is lacking, mediation also[^6] is lacking, and consequently order; but where there is termination, there is no infinity: therefore if in the divine persons there is order, there is no infinity.
 
-**2.** Likewise, from the second thus: where there is order, there is termination, because where termination is lacking, mediation is also[^4] lacking, and consequently order is lacking; but where there is termination, there is no infinity: therefore, if in the divine persons there is order, there is no infinity.
+3. Likewise, from the third thus: where there is connection, it is necessary that all persons proceed from one; for if one proceeds from another and so on consequently, then there is an infinite distance between the first and the last; but[^7] this is inconvenient: therefore all proceed from one: either, then, by the same modes, or by diverse. If by the same: therefore no distinction; if by diverse, but the diverse modes of emanating are finite: therefore etc.
 
-**3.** Likewise, from the third thus: where there is connection, it is necessary that all[^5] the persons proceed from one; for if one proceeds from another, and so on successively, then there is an infinite distance between the first and the last; but[^6] this is unfitting: therefore they all proceed from one. Either, then, by the same modes or by different modes. If by the same modes, then no distinction; if by different modes — but the different modes of emanating are finite: therefore, etc.
+4. Likewise, from the fourth thus: if there is supreme completion there, then divinity is fitted to complete other things: therefore since the completion of persons consists in beatitude, it is fitted to beatify[^8]. But if there were infinite persons, it would be impossible for anyone to be beatified by God; for the cognition of every person belongs to the substance of beatitude, since the whole goodness, which is the substantial reward, is in each of the persons; therefore either the soul would know all of them, or it would not be blessed; but it would be impossible[^9] to know all of them, since its power is finite: therefore etc.
 
-**4.** Likewise, from the fourth thus: if there is supreme completion there, then the divinity is naturally suited to complete another: therefore, since the completion of persons consists in beatitude, it is naturally suited to beatify[^7]. But if the persons were infinite, it would be impossible for anyone to be beatified by God. For the knowledge of every given person belongs to the substance of beatitude, since the whole goodness that is the substantial reward is in each[^8] of the persons; therefore either the soul would know all of them, or it would not be blessed. But it would be impossible to know all of them, since the soul's power is finite: therefore, etc.
+> **Conclusion.** That the number of divine persons is finite, both faith holds and reason persuades.
 
-### Conclusion
+**I respond:** It must be said that in the divine persons, with respect to number, infinity is not to be posited but finitude.
 
-> *That the number of the divine persons is finite is both held by faith and persuaded by reason.*
+The reason for this is that numerical infinity is repugnant to perfection and to order, because it is by recession from unity or from its origin. Likewise also[^10] infinity of mass; and therefore neither is in God. But the infinity of power is by access to unity and origin; and therefore, since this belongs to perfection, it is to be posited in God, but the others are not.
 
-**I respond:** It must be said that in the divine persons, with respect to number, one is not to posit infinity but finitude.
+**To the arguments:**
 
-The reason for this is that numerical infinity is incompatible with perfection and order, because it arises from recession from unity or from one's origin. Likewise, infinity of mass; and therefore neither is in God. But infinity of power arises from approach toward unity and origin; and therefore, since this belongs to perfection, it is to be posited in God — the other is not[^9].
+*To 1 and 2.* To that which is objected, that whatever is in God is infinitely; it must be said that it is true that it is infinite, but not by any kind[^11] of infinity, but by that by which God is infinite; and this is the infinity of immensity, and in this way the Trinity is infinite, not by numerical infinity, which does not befit God[^12].
 
-**1–2.** To the objection, then, that *whatever is in God is infinite*: it must be said that it is true that it is infinite, but not with just any infinity — rather with that infinity by which God is infinite; and this is the *infinity of immensity*. And it is in this way that the Trinity is infinite, not with numerical infinity, which does not belong to God[^10].
+*To 3.* To that which is objected, that infinite power, infinitely[^13] emanating, produces infinite things; it must be said that to the divine power no production befits except of a perfect thing; and therefore there does not befit it the production of any infinity except that which stands together with supreme perfection. But this is not numerical infinity, and therefore it is not in God.
 
-**3.** To the objection that *an infinite power, emanating infinitely*[^11], *produces infinite things*: it must be said that it does not belong to divine power to produce anything but the perfect; and therefore there does not belong to it the production of any infinity except that which stands together with supreme perfection. But this is not numerical infinity, and therefore it is not in God.
-
-**4.** To the last objection, that *it belongs to power to multiply itself*: it must be said that it does not belong to power in every mode[^12], but it belongs to power to multiply itself *perfectly*; and therefore it does not follow that «to multiply itself more is a greater perfection», unless *perfectly* is understood. But to multiply itself infinitely according to number is to multiply itself imperfectly; and therefore this does not belong to God.
+*To 4.* To the last objection, that it belongs to power to multiply itself; it must be said that not in every way[^14] does it belong to power, but to multiply oneself perfectly belongs to power; and therefore it does not follow: therefore to multiply oneself more is a greater perfection, unless it be understood perfectly; but to multiply oneself infinitely according to number is imperfectly; and therefore it does not befit God.
 
 ### Scholion
 
-Three species of infinity are commonly distinguished: *numerical* (in discrete quantity), *of mass* (in continuous quantity), and *of power* or *immensity*; cf. below d. 19, p. I, a. 1, q. 1 and 2. — For easier understanding of the four arguments in the *fundamenta* we note the following. These four attributes of the divinity — at least the first three — are so connected to one another that the second (*order*) presupposes the first (*distinction*), and the third (*connection*) presupposes both. The first argument, drawn from *distinction*, proceeds thus: if what is nobler is to be attributed to God, and if there is distinction there, then that distinction must be without confusion — since confusion belongs to imperfection; but where there is an infinite multitude, there is confusion: therefore, etc. Cf. below d. 43, a. 1, q. 3. The second argument proceeds from the axiom that where there is order, there is necessarily a first and a last (the terminus) and a middle. The third argument is sufficiently clear. In the fourth argument, drawn from *supreme completion* — i.e., the fullness of perfection — the Holy Doctor supposes, with the common opinion, that «the knowledge of any given person belongs to the substance of beatitude». Of this, however, Scotus (*I Sent.*, d. 1, q. 1) is in doubt, and he holds that it is not absolutely impossible for someone in heaven to enjoy the essence of God without enjoying the persons. On this opinion, see Macedo, *Collationes doctrinae S. Thomae et Scoti*, collation 3, difference 3.
+**I.** Commonly infinity is distinguished into three kinds, namely numerical, which is in discrete quantity; of mass, which is in continuous quantity; and of power or immensity; cf. below d. 19, p. I, a. I, q. 1 and 2. — For an easier understanding of the four arguments in the *fundamenta* we note these things. These four properties of divinity, at least the first three, are so connected with one another that the second (order) presupposes the first (distinction) and the third (connection) presupposes both. The first argument, taken from distinction, proceeds thus: if to God is to be attributed what is more noble, and if there is distinction there, the distinction itself ought to be without confusion, since confusion belongs to imperfection; but where there is infinite multitude, there is confusion: therefore etc.; cf. below d. 43, a. I, q. 3. The second argument proceeds from this axiom, that where there is order, there is necessarily a first and a last (term) and a middle. The third argument is sufficiently clear. In the fourth argument, which is taken from supreme completion, i.e. the plenitude of perfection, the Holy Doctor supposes, with the common opinion, that "the cognition of any person belongs to the substance of beatitude." Concerning this, however, Scotus (I. Sent. d. 1. q. 1.) doubts and is of the opinion that it is not, absolutely speaking, impossible that someone in heaven should enjoy the essence of God but not the persons. On this opinion one may consult Macedo, *Collationes doctrinae S. Thom. et Scoti*, collat. 3, differ. 3.
 
-Concerning the question itself: Alexander of Hales, *Summa*, p. I, q. 43, m. 6, where *fund.* 1 and 2 are more broadly explained. — Scotus, here, q. 3 and q. 7. — St. Thomas, *Summa* I, q. 30, a. 2. — Bl. Albert the Great, on this and the following question, *Summa*, p. 1, tract. 9, q. 41, m. 3. — Peter of Tarentaise, here, q. 2, a. 2. — Richard of Mediavilla, here, a. 2, q. 2. — Henry of Ghent, *Summa* a. 53, q. 9. — Durandus, *I Sent.*, d. 10, q. 2. — Biel, *I Sent.*, d. 10, q. 1.
+**II.** Concerning the question itself: Alex. of Hales, *Summa* p. I, q. 43, m. 6, where *fundamenta* 1 and 2 are more fully explained. — Scotus, here q. 5[?] and 7. — St. Thomas, *Summa* I, q. 30, a. 2. — Bl. Albert, on this and the following question, *Summa* p. I, tr. 9, q. 41, m. 3. — Peter of Tarantasia, here q. 2, a. 2. — Richard of Mediavilla, here a. 2, q. 2. — Henry of Ghent, *Summa* a. 53, q. 9. — Durandus, I. Sent. d. 10, q. 2. — Biel, I. Sent. d. 10, q. 1.
 
 ---
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, drawn from the Quaracchi editors' page-by-page footers (pp. 54–56).
 
-[^1]: **La.** Sensu et mss. cum ed. 1 ita exigentibus, mutavimus *emanet*, quod habet Vat.
-    **En.** With the sense and the manuscripts (together with ed. 1) so requiring, we have changed *emanet*, which the Vatican ed. has.
+[^1]: **La.** Ita codd. et ed. I, dum Vat. *creatura cum sit finita*. Paulo post cod. cc *infinitum* pro *infinite*. Mox codd. A W loco *infinitus* habent *infinite*; aliqui autem codd. ut M T V X cum ed. I minus apte *erunt infinitae* pro *erit infinitus*; sed nihil mutandum duximus.
 
-[^2]: **La.** Faventibus antiquioribus codd. et ed. 1, supplevimus *etiam*.
-    **En.** With the older codices and ed. 1 in favor, we have supplied *etiam*.
+     **En.** Thus the codices and ed. I, while the Vatican has *creatura cum sit finita* ["since the creature is finite"]. A little later cod. cc has *infinitum* for *infinite*. Soon afterward codices A W have *infinite* in place of *infinitus*; some codices, however, such as M T V X with ed. I, less aptly have *erunt infinitae* in place of *erit infinitus*; but we have judged that nothing should be changed.
 
-[^3]: **La.** Id est, plenitudo perfectionis.
-    **En.** That is, the fullness of perfection.
+[^2]: **La.** Cfr. August., *de Quant. animae* c. 3. et seqq. — Cod. R hic non male addit *si*.
 
-[^4]: **La.** Auctoritate vetustiorum mss. et ed. 1 hic adiecimus *et*, ac paulo infra *personis* a Vat. et cod. cc minus recte omissa.
-    **En.** On the authority of the older manuscripts and ed. 1, we have here added *et*, and a little below *personis*, which the Vatican ed. and cod. cc less correctly omit.
+     **En.** Cf. Augustine, *On the Quantity of the Soul*, c. 3 and following. — Cod. R here not unsuitably adds *si*.
 
-[^5]: **La.** Vat. contra mss. et ed. 1 hic et circa finem argumenti post *si diversis* ponit *et* loco *sed*.
-    **En.** The Vatican ed., against the manuscripts and ed. 1, here and near the end of the argument after *si diversis* puts *et* in place of *sed*.
+[^3]: **La.** Sensu et mss. cum ed. I ita exigentibus, mutavimus *emanet*, quod habet Vat.
 
-[^6]: **La.** *[see [^5]; same apparatus entry — the printed Quaracchi anchors footnote 5 at two body positions in this paragraph (omnes / sed)]*
+     **En.** Since the sense and the manuscripts together with ed. I demanded it, we have changed *emanet* ["should emanate"], which the Vatican has [to *emanat*].
 
-    **En.** *[see [^5]; same apparatus entry — the printed Quaracchi anchors footnote 5 at two body positions in this paragraph (omnes / sed)]*
+[^4]: **La.** Faventibus antiquioribus codd. et ed. I, supplevimus *etiam*.
 
-[^7]: **La.** Sensus videtur esse: Deus omnia complet sive perfecta facit; sed personas, i. e. intellectuales naturas sive supposita, beatificando complet: ergo proprium Dei est *beatificare*. — Vat. *illas complere* pro *beatificare* et paulo ante *personas complere* et loco *alia complere*; *ergo*, quae lectio omnibus codd. et ed. 1 contraria est et progressum argumentationis aufert. Paulo post cod. A cum ed. 1 loco *aliquem* habet *aliquam*, supple *personam*.
-    **En.** The sense seems to be: God completes all things — that is, makes them perfect — but *persons*, i.e., intellectual natures or supposits, he completes by beatifying them; therefore it is proper to God to *beatify*. — The Vatican ed. reads *illas complere* for *beatificare*, and a little earlier *personas complere*, and in place of *alia complere*, *ergo* — a reading which is contrary to all the codices and ed. 1 and removes the progress of the argument. A little later, cod. A with ed. 1 has *aliquam* in place of *aliquem* — supply *personam*.
+     **En.** With the older codices and ed. I in favor, we have supplied *etiam* ["even"].
 
-[^8]: **La.** Plures codd. ut T Y *est*, et forte melius.
-    **En.** Several codd. (T Y) read *est*, perhaps better.
+[^5]: **La.** Id est, plenitudo perfectionis.
 
-[^9]: **La.** Desideratur hic in Vat. *et*, quod mss. et ed. 1 exhibent. Paulo post ex codd. et ed. 1 adiecimus verba *et originem* ac *alia non*, quae Vat. prave omittit. Item codd. et ed. 1 *neutrum* loco *neutra*, quod habet Vat.
-    **En.** Here the Vatican ed. lacks *et*, which the manuscripts and ed. 1 have. A little below, on the witness of the codices and ed. 1, we have added the words *et originem* and *alia non*, which the Vatican ed. wrongly omits. Likewise, the codices and ed. 1 read *neutrum* instead of the Vatican's *neutra*.
+     **En.** That is, the plenitude of perfection.
 
-[^10]: **La.** Codd. A T aliique cum ed. 1 pro *qualibet*, quod exstat in Vat., exhibent distinctius *qualicumque*. — Fide omnium mss. et ed. 1 expunximus propositionem sequentem: *Et per hoc patet responsio ad secundum, scilicet quare infinitas numeralis non est ponenda in Deo, sicut virtualis*, quae hic a Vat. ad ordinem solutionum servandum additur. Sed semel pro semper notandum, quod saepe saepius specialis responsio ad obiectionem a S. Doctore omittitur, quando ipsa iam in praecedentibus, sicuti v. g. hic in corp. articuli, clare continetur.
-    **En.** Codd. A T and others, with ed. 1, in place of the Vatican's *qualibet* more distinctly read *qualicumque*. — On the witness of all the manuscripts and ed. 1, we have deleted the following proposition: *«And through this the response to the second is clear — namely, why numerical infinity is not to be posited in God, just as virtual [infinity is]»*, which is here added by the Vatican ed. to preserve the order of responses. But let it be noted once for always that more often than not a specific response to an objection is omitted by the Holy Doctor when it is already clearly contained in what precedes — as, for example, here in the body of the article.
+[^6]: **La.** Auctoritate vetustiorum mss. et ed. I hic adiecimus *et* ac paulo infra *personis* a Vat. et cod. cc minus recte omissa.
 
-[^11]: **La.** Vat., obnitentibus mss. et ed. 1, *in infinitate* pro *infinite*.
-    **En.** The Vatican ed., against the witness of the manuscripts and ed. 1, reads *in infinitate* for *infinite*.
+     **En.** On the authority of the older manuscripts and ed. I we have added here *et* ["also"] and a little below *personis*, which were less correctly omitted by the Vatican and cod. cc.
 
-[^12]: **La.** Codd. cum edd. 1, 2, 3 omittunt hic in Vat. additum *multiplicare se*, quod facile suppletur. Paulo infra Vat. cum recentiore cod. cc, contrariantibus aliis mss. et ed. 1, interpunctione mutata ac posito *convenit Deo* loco *ideo*, habet *et convenit Deo: non sequitur ergo, magis*. Dein circa finem, ex mss. et ed. 1 ante *ideo* adiecimus particulam *et*.
-    **En.** The codices with edd. 1, 2, 3 omit the Vatican ed.'s added *multiplicare se*, which is easily supplied. A little below, the Vatican ed., with the more recent cod. cc — against the other manuscripts and ed. 1 — with the punctuation changed and *convenit Deo* placed in the position of *ideo*, reads *et convenit Deo: non sequitur ergo, magis*. Then near the end, on the witness of the manuscripts and ed. 1, before *ideo* we have added the particle *et*.
+[^7]: **La.** Vat. contra mss. et ed. I. hic et circa finem argumenti post *si diversis* ponit *et* loco *sed*.
 
----
+     **En.** The Vatican, against the manuscripts and ed. I, here and near the end of the argument, after *si diversis* ["if by diverse"] places *et* in place of *sed* ["but"].
 
-## Notes
+[^8]: **La.** Sensus videtur esse: Deus omnia complet sive perfecta facit; sed personas, i. e. intellectuales naturas sive supposita, beatificando complet: ergo proprium Dei est beatificare. — Vat. *illas complere* pro *beatificare* et paulo ante *personas complere* et loco *alia complere*; ergo, quae lectio omnibus codd. et ed. I contraria est et progressum argumentationis aufert. Paulo post cod. A cum ed. I loco *aliquem* habet *aliquam*, supple *personam*.
 
-- **Chunk scope.** This chunk covers Q3 of the *articulus unicus* on printed pp. 54–56 (PDF 156–158). It argues for and against the positing of infinity in the divine persons from four suppositions each side (infinity of the divine essence, twofold infinity, infinite power's emanation, and multiplication of persons as a matter of power — against which are set distinction, order, connection, and supreme completion). The scaffold's original Latin body contained only arguments 3–4 of the *fundamenta*; arguments 1–2 were embedded in the legacy `d2-a1-q2.md` file and have been moved here. The scaffold's trailing content (into Q4) has been moved to `d2-a1-q4.md`.
+     **En.** The sense seems to be: God completes all things, that is, makes them perfect; but persons, i.e. intellectual natures or supposits, he completes by beatifying: therefore it is proper to God to beatify. — The Vatican has *illas complere* ["to complete those"] for *beatificare* ["to beatify"], and a little before *personas complere* ["to complete the persons"] in place of *alia complere* ["to complete other things"]; therefore this reading is contrary to all the codices and ed. I and removes the progress of the argumentation. A little later cod. A with ed. I in place of *aliquem* has *aliquam*, supplying *personam*.
 
-- **Key terms in this chunk:**
-  - *infinitas immensitatis* ("infinity of immensity") — Bonaventure's name for God's proper infinity; qualitative rather than quantitative, denoting the absence of any limiting boundary or deficiency. Distinguished here from *infinitas numeralis* (numerical infinity, in discrete quantities) and *infinitas molis* (infinity of mass/extension).
-  - *recessus ab unitate / accessus ad unitatem* ("recession from / approach toward unity") — the structural contrast at the heart of the *Respondeo*. Numerical and material infinities represent flight from the unity and determinacy that characterize perfection; virtual/intensive infinity represents concentration toward the primordial unity. This is a characteristically Neoplatonic framework that runs through Bonaventure's Trinitarian theology.
-  - *summa completio* ("supreme completion") — the fourth property cited against numerical infinity; rendered "supreme completion" rather than "fullness" to preserve the active sense of *completio* (bringing-to-completion). The argument is that an infinite number of persons would make beatific knowledge impossible for any finite soul.
+[^9]: **La.** Plures codd. ut T Y *est* et forte melius.
 
-- **Transcription status.** Second-pass cleanup of the raw-OCR Latin body, with arguments 1–2 drawn from the neighboring legacy `d2-a1-q2` chunk and the trailing Q4 opening moved to `d2-a1-q4`. English is fresh translation for arguments 1–2 and paired from the Phase A legacy translation for the rest of the question. Final verification at higher DPI pending, particularly for the scholion's scholastic cross-references.
+     **En.** Several codices such as T Y have *est* ["is"], and perhaps better.
+
+[^10]: **La.** Desideratur hic in Vat. *et*, quod mss. et ed. I exhibent. Paulo post ex codd. et ed. I adiecimus verba *et originem* ac *alia non*, quae Vat. prave omittit. Item codd. et ed. I *neutrum* loco *neutra*, quod habet Vat.
+
+     **En.** Here in the Vatican is wanting *et* ["also"], which the manuscripts and ed. I exhibit. A little later, from the codices and ed. I, we have added the words *et originem* ["and origin"] and *alia non* ["the others not"], which the Vatican depravedly omits. Likewise the codices and ed. I read *neutrum* in place of *neutra*, which the Vatican has.
+
+[^11]: **La.** Codd. A T aliique cum ed. I *pra qualibet*[?], quod exstat in Vat., exhibent distinctius *qualicumque*.
+
+     **En.** Codices A T and others with ed. I, against *qualibet*[?] ["whatever-of-each-kind"], which stands in the Vatican, exhibit more distinctly *qualicumque* ["whatsoever-kind"].
+
+[^12]: **La.** Fide omnium mss. et ed. I expunximus propositionem sequentem: *Et per hoc patet responsio ad secundum, scilicet quare infinitas numeralis non est ponenda in Deo, sicut virtualis*, quae hic a Vat. ad ordinem solutionum servandum additur. Sed semel pro semper notandum, quod saepe saepius specialis responsio ad obiectionem a S. Doctore omittitur, quando ipsa iam in praecedentibus, sicuti v. g. hic in corp. articuli, clare continetur.
+
+     **En.** On the authority of all the manuscripts and ed. I we have expunged the following proposition: *And by this is clear the response to the second, namely why numerical infinity is not to be posited in God, as virtual is*, which is here added by the Vatican to preserve the order of solutions. But once for all it is to be noted that very often a special response to an objection is omitted by the Holy Doctor when it is already clearly contained in the preceding, as for example here in the body of the article.
+
+[^13]: **La.** Vat., obnitentibus mss. et ed. I, *in infinitate* pro *infinite*.
+
+     **En.** The Vatican, against the manuscripts and ed. I, has *in infinitate* ["in infinity"] for *infinite* ["infinitely"].
+
+[^14]: **La.** Codd. cum edd. I, 2, 3 omittunt hic in Vat. additum *multiplicare se*, quod facile suppletur. Paulo infra Vat. cum recentiore cod. cc, contrariantibus aliis mss. et ed. I, interpunctione mutata ac posito *convenit Deo* loco *ideo*, habet *et convenit Deo: non sequitur ergo, magis*. Dein circa finem rei[?] ex mss. et ed. I ante *ideo* adiecimus particulam *et*.
+
+     **En.** The codices with editions 1, 2, 3 omit here what is added in the Vatican, *multiplicare se* ["to multiply itself"], which is easily supplied. A little below, the Vatican with the more recent cod. cc, against the other manuscripts and ed. I, with the punctuation changed and *convenit Deo* placed in place of *ideo*, has *et convenit Deo: non sequitur ergo, magis*. Then near the end of the matter[?], from the manuscripts and ed. I, we have added before *ideo* the particle *et*.

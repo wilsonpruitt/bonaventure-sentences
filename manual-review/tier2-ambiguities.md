@@ -377,3 +377,19 @@ No `[?]` flags placed inline. The Lombard text on Distinction V is well preserve
 **d.7-dubia, Dub. VII tail (raw lines 31005-31015)**: OCR of the closing sentence is fragmented across stub-columns: `potentia potest in- / telligi ovi / formaliter, et / tem modo non / et sic est in solo Patre; vel / sic ponitur esse in Filio; alio au- / tem modo non`. Word "ovi" between "intelligi" and "formaliter" is unrecoverable from OCR; likely a corrupted adverb (possibly *uno modo* / *aliter*). Currently rendered with [?] flags at three points. → Resolve via 600dpi PDF p.146 (PDF p.248) eyes-on read.
 
 **d.7-dubia, Dub. IV apparatus note 12 (p.146 footer line 30971)**: footer ends mid-sentence `ponit loco` with no further text in OCR before next note. The completing word (e.g. *hypostasim*, repeated) is cut. → Resolve via 600dpi PDF; flagged [?] in note body.
+
+**bon-sent-I-d2-a1-q1, p.50 fundamenta intro**: OCR has *triplici habita suppositione* + *ratione status, qui non est nisi in summo et primo* — translated *status* as "rational ground of the *terminus*" (per app. note 12, *status* = principle beyond which one cannot pass in causal regress). [?] retained on phrase "rationale of the *status*" understanding. → Resolve: keep current literal "rational ground of the *terminus*" with [^12] in respondeo carrying the sense.
+
+**bon-sent-I-d2-a1-q1, p.51 sed-contra arg.4**: OCR shows quoted maxim *« in aeternis sit idem esse et posse »* matches app. note 8's Aristot. III Phys. 32. No flag needed; cross-anchored at [^8].
+
+**bon-sent-I-d2-a1-q2, apparatus [^17] (p.54 footer 6)**: PDF reads "Paulo post cod. X *unitas* pro *nullo*", but in the body the relevant passage is "quia illa a *nullo*" — and *unitas* would be a strange substitution. Possibly "*unitas*" is a misread of another variant, or the referent is not the body word I assumed. Currently rendered verbatim. → Resolve via fresh 600dpi recheck of p.54 footer 6 in next polish pass.
+
+**bon-sent-I-d4-divisio, apparatus [^1] (p.96 NOTAB note 1)**: OCR reads "Vat. contra mss. et ed. 1 omittit *iid*." The token *iid* is unclear — likely OCR garble for *id* or *idem* (cf. p.96 footer note 1 above which mentions "item pro idem"). Body anchor placed on "Et" at start of second sentence of divisio (raw line 23493 "Et iucidit"); could equally anchor at "ponitur secunda pars" (line 23492) if *iid* refers to a different word. Currently rendered with [?] flag pending 600dpi PDF eyes-on. → Resolve at next d.1-d.10 polish pass.
+
+**bon-sent-I-d4-dubia, DUB VII Respondeo (p.107 body)**: OCR "in sermone Tniiuntur sine oppositione" — Tniiuntur is a garble. Currently rendered "iungunt[?]" (joined). Likely *iuniuntur* / *coniunguntur*. Resolve via 600dpi PDF p.107 eyes-on.
+
+## d.2 littera rebuild (2026-05-10)
+
+- **bon-sent-I-d2-littera, p.46 footer note 8**: OCR garble «««*'« hoc» suggests Vatican-edition lemma is *audit hoc* (vs. text *audit haec*). Currently rendered *audit hoc*[?]. → Resolve via 600dpi PDF p.46 footer.
+- **bon-sent-I-d2-littera, p.47 footer notes 36–37 (body markers [^36], [^37])**: Quaracchi printing has marginal rubric «*Aliae auctoritates*» appearing inline in OCR at this position; OCR also doubles the Gen. 1, 1 reference across the page-break. Currently flagged with [?]. → Resolve via 600dpi PDF p.47–48 to confirm whether these are two distinct apparatus entries or a single rubric+citation pair.
+- **bon-sent-I-d2-littera, p.48 footer note 43**: apparatus footer uses *passus est* as a lemma but the body word at the marker position is *natus est* (Filius) / *processit* (Spiritus) — apparently a printer's slip in the apparatus. Currently rendered *passus est* (verbatim) with translator's bracket. → Resolve via 600dpi PDF p.48 footer.
