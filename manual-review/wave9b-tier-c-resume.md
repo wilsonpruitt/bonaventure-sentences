@@ -216,6 +216,170 @@ Instead:
    The high-value targets will be a much smaller subset (estimate: 20–40
    real-undercoverage chunks corpus-wide).
 
+## d.1-d.10 Wave 9b residual re-verification campaign (opened 2026-05-10)
+
+### Why
+
+The Wave 9b Tier C residual spot-check (4 of 36 chunks at banded +5 to
++10) found 1/4 = `d6-a1-q2` had real undercoverage: only 7 of 21
+ground-truth apparatus entries. All 14 textual-variant notes
+(`Vat. cum cod. cc...`, `iste pro ille`, etc.) were silently dropped
+during initial Tier-2 promotion. Audits did NOT flag this — banded
+under-counts variant openers, paraphrase audit doesn't smell variant
+entries.
+
+The d6 rebuild then surfaced 3 MORE issues that no audit caught:
+- `<!-- page 128 -->` marker placed before Conclusio but the actual
+  page break is mid-Respondeo
+- Silently elided sentence in body (`Pater vult, se esse Deum...`)
+- Old [^1] cited Hilary `de Synodis n.58`; raw OCR is `n.88, XXIV`
+
+This is a pattern. The d.1-d.10 cohort was promoted before the
+locked-in apparatus standard + audit guard rails. False-confidence
+"Phase C Tier 2 complete" labels are unreliable.
+
+Outcome of strategic decision (2026-05-10): bounded reset on d.1-d.10
+**only**. d.11+ stays as-is (Tier B + Tier C dispatches confirm it
+holds up).
+
+### Scope
+
+89 d.1-d.10 chunks total:
+- 84 "Phase C Tier 2 complete" claims (cohort-flagged 2026-05-10)
+- 4 already demoted to `apparatus-incomplete + body-paraphrased`
+  (d2-a1-q4 / d4-a1-q4 / d5-a1-q1 / d7-a1-q2 — handled by separate
+  body-paraphrase initiative)
+- 1 skeleton (d3-p2-divisio)
+
+3 zero-apparatus chunks (d1-commentary, d10-commentary, d5-divisio)
+audited 2026-05-10 — all legitimately apparatus-free
+(`has_apparatus: false` in frontmatter, honest status strings). NOT
+mislabeled skeletons.
+
+### Pre-campaign state (commit `4b5cbf8`, 2026-05-10)
+
+84 chunks now carry `[d.1-d.10 Wave 9b residual re-verification
+campaign 2026-05-10 — apparatus completeness pending]` appended to
+`transcription_status`. Tool: `tools/add-d1-d10-cohort-flag.py`
+(reversible via `--undo`). Site keeps serving the chunks unchanged.
+
+### Wave A — 13 chunks at banded > +5 (queued)
+
+Highest-risk cohort: most-likely undercoverage per d6 pattern.
+Excluded 4 from raw 17-chunk list: d5-divisio (legit apparatus-free),
+d6-a1-q2 (already rebuilt 2026-05-10), d4-a1-q4 + d5-a1-q1 (already
+demoted to body-paraphrase backlog).
+
+Dispatch order (highest banded first):
+
+| Wave | Chunks |
+|---|---|
+| A1 | d7-a1-q4 (+15), d8-p2-a1-q1 (+15), d5-a2-q1 (+13) |
+| A2 | d2-a1-q4 (+11) [already in backlog], d7-a1-q3 (+9), d8-p2-dubia (+9) |
+| A3 | d5-a1-q2 (+8), d8-p1-a2-q2 (+8), d8-p1-dubia (+7) |
+| A4 | d8-p2-a1-q4 (+7), d6-a1-q1 (+6), d8-p1-a2-q1 (+6) |
+| A5 | d8-p2-divisio (+6) |
+
+Note: d2-a1-q4 is already in body-paraphrase backlog; can either skip
+in Wave A or roll its apparatus rebuild forward separately. Net: 12-13
+chunks needing dispatch.
+
+### Wave A agent prompt — lessons-encoded template
+
+After d6's three-extra-issues finding, Wave A prompts MUST include
+all of:
+
+1. **Walk every entry per page from raw OCR** (per CLAUDE.md):
+   render every numbered Quaracchi footer entry, page by page;
+   ~10/page is normal. Cross-reference each ground-truth entry against
+   chunk's `[^N]:` defs. PRESENT/MISSING/MIS-ANCHORED/FABRICATED.
+   Include BOTH auctoritas-citations AND textual-variant notes.
+2. **Verify page-break markers** (`<!-- page N -->`) against raw OCR.
+   The d6 chunk had its `<!-- page 128 -->` marker placed before
+   Conclusio but the real break was mid-Respondeo. Find the
+   running-head transition in raw OCR and place the marker there.
+3. **Body sanity check for silent elisions** — does chunk Latin body
+   contain every sentence the raw OCR has in the chunk's line range?
+   Spot-check by sampling 3-5 paragraphs from raw vs chunk body.
+4. **Verify footer numerals against raw OCR** — d6's [^1] cited
+   Hilary n.58 but raw OCR was n.88. Compare every Roman/Arabic numeral
+   in chunk apparatus against raw.
+5. **Body paraphrase check (Lesson 11)** — proportional length, no
+   obvious paraphrase. Demote rather than rebuild if body paraphrased.
+
+Disposition categories (4 outcomes, not 3):
+- BODY-PARAPHRASED → demote to `apparatus-incomplete + body-paraphrased`,
+  defer to body-paraphrase corpus initiative.
+- BODY-OK + APPARATUS-INCOMPLETE → REBUILD apparatus (and any
+  page-break / footer-citation fixes). Update status string.
+- BODY-OK + APPARATUS-COMPLETE → OVERCOUNT-ACCEPT, strip cohort flag,
+  document overcount source in status.
+- SURPRISE → halt rebuild, report finding, ask for direction.
+
+Critical: prompts MUST tell agent to update status string to remove
+the cohort flag if disposition is OVERCOUNT-ACCEPT or REBUILD-COMPLETE.
+Otherwise the chunk stays flagged as pending forever.
+
+### Wave B — 20 medium-risk chunks (banded +1 to +5)
+
+Run after Wave A pattern emerges. Strategy: spot-check 5 from
+diverse types (1 littera, 1 dubia, 2 quaestio, 1 divisio); if all
+clean, batch-strip cohort flag with explanation; if any fail,
+expand to full Wave B dispatch.
+
+### Wave C — 52 low-risk chunks (banded ≤ 0)
+
+Banded under-counts; chunks claim more entries than heuristic finds.
+Most likely clean. Spot-check 5 across types; batch-accept if clean,
+else expand.
+
+### Open questions for next session
+
+- Roll d2-a1-q4 apparatus rebuild into Wave A2, or keep separate
+  (it's in the body-paraphrase backlog already; body verified solid).
+- After Wave A: if the rebuild rate is much higher than 50%, consider
+  upgrading Wave B from spot-check-then-batch to full dispatch.
+- The d36-divisio frontmatter bounds bug (line range 20165-20520
+  spans non-contiguous content) is still open — outside d.1-d.10
+  scope, but tracked in this resume doc.
+
+### Files of interest for next session
+
+- `tools/audit-apparatus-count-banded.py` — banded detector. Use
+  `--chunk d{N}-...` per chunk for post-rebuild verification.
+- `tools/add-d1-d10-cohort-flag.py` — `--undo` strips cohort flag
+  from a single chunk if needed.
+- `manual-review/wave9b-tier-c-triage-banded.md` — full d.1-d.40
+  banded re-bucket table.
+- `manual-review/d1-d4-tier2-promotion-log.md` — Lessons 7-11.
+- `_backup-d6-pre-rebuild-20260510/` — d6-a1-q2 pre-rebuild backup
+  for diff reference (showing what a "Phase C Tier 2 complete" chunk
+  could look like before discovering it was 7-of-21).
+- `CLAUDE.md` — Tier-2 verification workflow (canonical).
+
+### Confirm starting state (next session)
+
+```bash
+cd /Users/wilsonpruitt/bonaventure-sentences
+git log --oneline -5
+# expect:
+#   4b5cbf8 d.1-d.10 Wave 9b residual campaign: pre-campaign cohort flag
+#   c748e0d Rebuild d6-a1-q2 apparatus 7 -> 21 entries
+#   28f514c Wave 9b Tier C: 9 candidates dispositioned 9/9 OVERCOUNT-ACCEPT
+#   c265d46 Wave 9b Tier C: per-page footer-band detector
+#   d49548e Wave 9b Tier C sample-validate: 3 real-fix items dispositioned
+
+git status  # clean
+
+grep -l "Wave 9b residual re-verification campaign" vol1/*.md | wc -l
+# expect: 84
+
+python3.11 tools/audit-paraphrase.py 2>&1 | tail -1
+# expect: critical: 0  high: 1
+```
+
+----
+
 ## Outstanding initiatives (not Tier C)
 
 These were surfaced during Tier B and remain open:
