@@ -13,7 +13,7 @@ pdf_pages: [203, 204]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 101–102"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, English body (fresh), and 11-footnote apparatus all filled from Quaracchi pp. 101-102 (2026-04-13) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 24233-24413), fresh literal English translation, full apparatus from raw OCR (8 entries from p.101-102 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
 line_start: 24233
 line_end: 24413
 format_version: 1
@@ -34,105 +34,104 @@ format_version: 1
 
 Tertio quaeritur, utrum hoc nomen *Deus* grammatice significet pluralem numerum, sive utrum congrue possit dici: *plures dii*. Et quod sic, videtur:
 
-**1.** Quia secundum Philosophum[^1] intellectus sunt idem apud omnes, quamvis voces sint diversae; sed modi significandi consequuntur modos intelligendi: ergo cum apud Hebraeos congrue dicatur *Eloim*, quod aequipollet ei quod est *dii*, ergo et apud nos.
+**1.** Quia secundum Philosophum[^1] intellectus sunt idem apud omnes, quamvis voces sint diversae; sed modi significandi consequuntur modos intelligendi: ergo cum apud Hebraeos congrue dicatur *Heloim*, quod aequipollet ei quod est *dii*, ergo et apud nos.
 
-**2.** Item, sicut vult Philosophus, verum supponit congruum; unde «*Catonis est*, vel *non est*, nec verum nec falsum significat»[^2]; sed haec vera est: *non sunt plures dii*: ergo congrua: ergo et haec congrua: *plures sunt dii*, quia negatio non removet incongruitatem.
+**2.** Item, sicut vult Philosophus[^2], verum supponit congruum; unde «*Catonis est*, vel *non est*, nec verum nec falsum significat»; sed haec vera est: *non sunt plures dii*: ergo congrua: ergo et haec congrua: *plures sunt dii*, quia negatio non removet incongruitatem.
 
-**3.** Item, sicut *Deus* convenit uni soli, ita *principium creaturarum* uni soli[^3]; sed quamvis falso dicantur plura principia, tamen dicuntur congrue: ergo pari ratione possumus dicere: *plures dii*.
+**3.** Item, sicut Deus convenit uni soli, ita principium[^3] creaturarum uni soli; sed quamvis falso dicantur plura principia, tamen dicuntur congrue: ergo pari ratione possumus dicere: *plures dii*.
 
-**4.** Item, hoc nomen *phoenix*[^4] non habet nisi unicum suppositum; tamen congrue dicitur: *plures phoenices*. Si tu dicas, quod suppositum pluriflcatur per successionem temporis; obiicio tibi de hoc nomine *sol*, quod nullo tempore pluriflcatur; et tamen congrue dicitur: *plures soles*: ergo et *plures dii*.
+**4.** Item, hoc nomen *phoenix* non habet nisi unicum suppositum[^4]; tamen congrue dicitur: *plures phoenices*. Si tu dicas, quod suppositum plurificatur per successionem temporis; obiicio tibi de hoc nomine *sol*, quod nullo tempore plurificatur; et tamen congrue dicitur: *plures soles*: ergo et *plures dii*.
 
-*Contra:*
+**Contra:**
 
-**1.** Omne nomen, quod habet plurale, est nomen *appellativum*[^5]; propria enim nomina non pluriflcantur, non enim dicitur: *plures Petri* vel *Ioannes*; sed hoc nomen *Deus* non est nomen appellativum, quia non significat formam multiplicabilem: ergo etc.
+**1.** Omne nomen, quod habet plurale, est nomen appellativum; propria enim nomina non plurificantur, non enim dicitur: *plures Petri* vel *Ioannes*[^5]; sed hoc nomen *Deus* non est nomen appellativum, quia non significat formam multiplicabilem: ergo etc.
 
 **2.** Item, hoc nomen *Deus* est proprie[^6] proprium divinae naturae; sed nullum tale multiplicatur: ergo etc.
 
-### Conclusio
-
-> *Grammatice et secundum artem impositionis, hoc nomen «Deus» non pluriflcatur; secundum usum tamen ex accommodatione admittitur «plures dii» ut falsa propositio.*
-
-**Respondeo:** Ad praedictorum intelligentiam est notandum, quod hoc nomen *Deus* dicitur tripliciter, scilicet *nuncupative*, *adoptive* et *naturaliter*. Primis duobus modis pluriflcatur; unde Apostolus primae ad Corinthios octavo[^7]: *Si quidem sunt dii multi, et domini multi*; sed tertio modo non, quia sic hoc nomen *Deus* significat divinam naturam cum conditionibus, quarum collectiones impossibile est in alio reperire; et ideo sicut nomen proprium non habet plurale, secundum artem loquendo, sic nec hoc[^8] nomen *Deus* proprie naturalem divinitatem significans.
-
 <!-- page 102 -->
 
-**1.** Ad illud ergo quod obiicitur, quod apud Hebraeos habet plurale quod est *Eloim*; dicendum, quod modi significandi non tantum sequuntur[^9] diversos modos intelligendi generales, sed etiam modos exprimendi. Et quoniam ipsi habent articulos et modos exprimendi diversos, quos nos non habemus, ideo illi possunt habere, sed nos non.
+> **Conclusio.** Nomen *Deus*, proprie loquendo, non habet plurale.
 
-**2.** Ad illud quod obiicitur, quod verum supponit congruum; dicendum, quod duplex est incongruitas: una est ex discohaerentia accidentium[^10], ut *Catonis est*; alia ex discohaerentia intellectuum, ut cum dicitur *plures Petri*. Prima incongruitas tollit veritatem et falsitatem; secunda vero incongruitas habet falsitatem coniunctam: et ideo, quia per negationem removetur falsitas, et Sancti malunt loqui vere, quam proprietatem sermonis servare et loqui minus vere, ideo negant *plures deos*. Posset tamen dici, quod quamvis haec vox *dii* non sit vox significativa secundum artem et impositionem, tamen est vox significativa ex accommodatione usus, ut *olli* pro *illi*: et ideo generat falsum intellectum affirmativa, et negativa verum, quamvis non grammatice.
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod hoc nomen *Deus* dicitur tripliciter, scilicet *nuncupative*, *adoptive* et *naturaliter*. Primis duobus modis plurificatur; unde Apostolus primae ad Corinthios octavo[^7]: *Si quidem sunt dii multi, et domini multi*; sed tertio modo non, quia sic hoc nomen *Deus* significat divinam naturam cum conditionibus, quarum collectiones impossibile est in alio reperire; et ideo sicut nomen proprium non habet plurale, secundum artem loquendo, sic nec hoc[?] nomen *Deus*.
 
-**3. 4.** Ad illud quod obiicitur, quod *principium* uni soli convenit, similiter et *phoenix*; dicendum, quod convenire uni soli est tripliciter. Aut enim est, quia imponitur nomen a forma immultiplicabili, ut in propriis nominibus; et sic tollit pluralitatem re et consignificatione. Aut imponitur a forma, quae nata est communicari, quamvis non communicetur propter determinationem, ut cum[^11] dicitur: *principium creaturarum*. Aut propter defectum materiae, ut *phoenix*; et tale tollit pluralitatem secundum rem, non secundum consignificationem, quia potest consignificari talis forma, ut potest multiplicari per supposita.
+**1.** Ad illud ergo quod obiicitur, quod apud Hebraeos habet plurale quod est *Heloim*; dicendum, quod modi significandi non tantum sequuntur diversos modos intelligendi generales, sed etiam modos exprimendi. Et quoniam ipsi habent articulos et modos exprimendi diversos, quos nos non habemus, ideo illi possunt habere, sed nos non.
+
+**2.** Ad illud quod obiicitur, quod verum supponit congruum; dicendum, quod duplex est incongruitas: una est ex discohaerentia accidentium, ut *Catonis est*; alia ex discohaerentia intellectuum, ut cum dicitur: *plures Petri*. Prima incongruitas tollit veritatem et falsitatem; secunda vero incongruitas habet falsitatem coniunctam: et ideo, quia per negationem removetur falsitas, et Sancti malunt loqui vere, quam proprietatem sermonis servare et loqui minus vere, ideo negant *plures deos*. Posset[^8] tamen dici, quod quamvis haec vox *dii* non sit vox significativa secundum artem et impositionem, tamen est vox significativa ex accommodatione usus, ut *olli* pro *illi*: et ideo generat falsum intellectum affirmativa, et negativa verum, quamvis non grammatice.
+
+**3. 4.** Ad illud quod obiicitur, quod principium uni soli convenit, similiter et *phoenix*; dicendum, quod convenire uni soli est tripliciter. Aut enim est, quia imponitur nomen a forma immultiplicabili, ut in propriis nominibus; et sic tollit pluralitatem re et consignificatione. Aut imponitur a forma, quae nata est communicari, quamvis non communicetur propter determinationem, ut cum dicitur: *principium creaturarum*. Aut propter defectum materiae, ut *phoenix*; et tale tollit pluralitatem secundum rem, non secundum consignificationem, quia potest consignificari talis forma, ut potest multiplicari per supposita.
 
 ---
 
 ## English
 
+<!-- page 101 -->
+
 ### Question III
 
-*Whether it can be said congruously according to the rules of grammar: «several gods».*
+*Whether it can be said congruously according to the rules of grammar: several gods.*
 
-Third, it is asked whether this name *God* grammatically signifies the plural number — that is, whether it can be said congruously: «*several gods*». And it seems that it can:
+Thirdly it is asked, whether this name *God* grammatically signifies the plural number, or whether it can be said congruously: *several gods*. And that it can, seems thus:
 
-**1.** Because, according to the Philosopher[^1], the understandings are the same in all, although the words are diverse; but the modes of signifying follow the modes of understanding: therefore, since among the Hebrews it is said congruously *Eloim*, which is equivalent to *gods*, then [it should be possible] also among us.
+**1.** Because according to the Philosopher[^1] understandings are the same among all, although vocal expressions are diverse; but the modes of signifying follow the modes of understanding: therefore since among the Hebrews it is congruously said *Heloim*, which is equivalent to that which is *gods*, therefore also among us.
 
-**2.** Likewise, as the Philosopher holds, the *true* presupposes the *congruous*; whence «*Cato is*, or *is not*, signifies neither true nor false»[^2]; but this is true: «*there are not several gods*»: therefore [it is] congruous: therefore also this is congruous: «*there are several gods*», because negation does not remove incongruity.
+**2.** Likewise, as the Philosopher will have it[^2], the true presupposes the congruous; whence "*Cato's is*, or *is not*, signifies neither true nor false"; but this is true: *there are not several gods*: therefore congruous: therefore also this is congruous: *there are several gods*, because negation does not remove incongruity.
 
-**3.** Likewise, just as *God* belongs to one only, so does *principle of creatures*[^3]; but although it is said falsely that there are *several principles*, yet it is said congruously: therefore by the same reasoning we can say *several gods*.
+**3.** Likewise, just as *God* belongs to one alone, so *principle*[^3] of creatures belongs to one alone; but although several principles are said falsely, nevertheless they are said congruously: therefore by parity of reasoning we can say: *several gods*.
 
-**4.** Likewise, this name *phoenix*[^4] has only a single supposit; yet it is said congruously: «*several phoenixes*». If you say that the supposit is multiplied through succession of time, I object to you concerning the name *sun*, which is at no time multiplied — and yet it is said congruously: «*several suns*»: therefore also *several gods*.
+**4.** Likewise, this name *phoenix* has only a single supposit[^4]; nevertheless it is congruously said: *several phoenixes*. If you should say that the supposit is multiplied through succession of time, I object to you concerning this name *sun*, which is at no time multiplied; and nevertheless it is congruously said: *several suns*: therefore also *several gods*.
 
-*On the contrary:*
+**On the contrary:**
 
-**1.** Every name that has a plural is an *appellative* name[^5]; for proper names are not pluralized — for it is not said «*several Peters*» or «*Johns*»; but this name *God* is not an appellative name, because it does not signify a multipliable form: therefore, etc.
+**1.** Every name which has a plural is an appellative name; for proper names are not pluralized, for one does not say: *several Peters* or *Johns*[^5]; but this name *God* is not an appellative name, because it does not signify a multipliable form: therefore etc.
 
-**2.** Likewise, this name *God* is properly[^6] proper to the divine nature; but no such name is multiplied: therefore, etc.
+**2.** Likewise, this name *God* is properly[^6] proper to the divine nature; but no such [name] is multiplied: therefore etc.
 
-### Conclusion
+<!-- page 102 -->
 
-> *Grammatically and according to the art of imposition, this name «God» is not pluralized; according to usage, however, by accommodation, «several gods» is admitted as a false proposition.*
+> **Conclusion.** The name *God*, properly speaking, does not have a plural.
 
-**I respond:** For the understanding of the foregoing it should be noted that this name *God* is said in three ways — namely *by appellation* (*nuncupative*), *by adoption*, and *naturally*. In the first two ways it is pluralized — whence the Apostle in the first letter to the Corinthians, chapter eight[^7]: *If indeed there are many gods and many lords*; but in the third way it is not, because in this third sense the name *God* signifies the divine nature with conditions whose collection is impossible to find in any other; and therefore, as a proper name does not have a plural — speaking according to the art [of grammar] — so neither does this[^8] name *God*, which signifies the natural divinity properly.
+**I respond:** For the understanding of what has been said, it must be noted that this name *God* is said in three ways, namely *nuncupatively*, *adoptively* and *naturally*. In the first two modes it is pluralized; whence the Apostle in First Corinthians, chapter eight[^7]: *If indeed there are many gods, and many lords*; but in the third mode not, because thus this name *God* signifies the divine nature together with conditions whose collection is impossible to find in another; and therefore, just as a proper name does not have a plural, speaking according to art, so neither does this[?] name *God*.
 
-**1.** To the objection, then, that among the Hebrews it has the plural *Eloim*: it must be said that the modes of signifying follow[^9] not only the diverse general modes of understanding, but also the modes of expressing. And since they have articles and diverse modes of expression which we do not have, they can have it but we cannot.
+**1.** Therefore to that which is objected, that among the Hebrews there is a plural which is *Heloim*; it must be said that the modes of signifying do not follow only the diverse general modes of understanding, but also the modes of expressing. And because they themselves have articles and diverse modes of expressing, which we do not have, therefore they can have [it], but we cannot.
 
-**2.** To the objection that the *true* presupposes the *congruous*: it must be said that incongruity is twofold — one is from a *discoherence of accidents*[^10], as in *Cato is*; the other from a *discoherence of understandings*, as when it is said *several Peters*. The first incongruity removes both truth and falsity; the second incongruity has falsity joined to it. And therefore, because falsity is removed by the negation, and the Saints prefer to speak truly rather than to preserve propriety of speech and speak less truly, they therefore deny *several gods*. It could be said, however, that although this word *gods* is not a significative word according to art and imposition, yet it is significative by an accommodation of usage — like *olli* for *illi* — and therefore the affirmative generates a false understanding, and the negative a true one, although not grammatically.
+**2.** To that which is objected, that the true presupposes the congruous; it must be said that incongruity is twofold: one is from disharmony of accidents, as *Cato's is*; the other from disharmony of understandings, as when it is said: *several Peters*. The first incongruity takes away truth and falsity; but the second incongruity has falsity conjoined: and therefore, because through negation falsity is removed, and the Saints prefer to speak truly than to preserve the propriety of speech and speak less truly, therefore they deny *several gods*. It could[^8] nevertheless be said, that although this utterance *gods* is not a significative utterance according to art and imposition, it is nevertheless a significative utterance from the accommodation of usage, as *olli* for *illi*: and therefore the affirmative generates a false understanding, and the negative a true [understanding], although not grammatically.
 
-**3., 4.** To the objection that *principle* belongs to one only, and likewise *phoenix*: it must be said that to belong to one only is threefold. Either because the name is imposed from a non-multipliable form, as in proper names — and this removes plurality both in reality and in consignification. Or it is imposed from a form which is naturally suited to be communicated, although it is not communicated owing to determination, as when[^11] it is said *principle of creatures*. Or by reason of a defect of matter, as *phoenix*; and such a name removes plurality in reality but not in consignification, because such a form can be consignified as it can be multiplied by supposits.
+**3. 4.** To that which is objected, that *principle* belongs to one alone, and likewise *phoenix*; it must be said that to belong to one alone is in three ways. For either it is because the name is imposed from an unmultipliable form, as in proper names; and thus it removes plurality in reality and in cosignification. Or it is imposed from a form which is suited by nature to be communicated, although it is not communicated because of determination, as when it is said: *principle of creatures*. Or on account of a defect of matter, as *phoenix*; and such [a name] removes plurality according to the thing, not according to cosignification, because such a form can be cosignified, as it can be multiplied through supposits.
 
 ---
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** = Latin (Quaracchi). **En.** = literal English rendering.
 
-[^1]: **La.** Libr. I *Periherm.* c. 1: *Et quemadmodum nec litterae omnibus eaedem sunt, ita nec voces omnibus eaedem: quorum tamen haec signa primo sunt, ea omnibus sunt eaedem passiones animae*.
-    **En.** Aristotle, *On Interpretation* I, c. 1: «And just as letters are not the same for all, so neither are words the same for all: yet those [things] of which these are the primary signs are the same for all — [namely] the affections of the soul».
+[^1]: **La.** Libr. I. Periherm. c. 1: *Et quemadmodum nec litterae omnibus eaedem sunt, ita nec voces omnibus eaedem: quorum tamen haec signa primo sunt, ea omnibus sunt eaedem passiones animae.*
 
-[^2]: **La.** Libr. I *Periherm.* c. 2, iuxta translationem Boethii: *Nomen vero semper, ut Catonis est, vel non est; nondum enim verum nec falsum significat*; in quo textu ceterae translationes *Philonis* pro *Catonis* ponunt. Ad quem locum auctor libri *Auctoritatum Aristot.* etc. (a. 1500) addit: *Ex quo communiter trahitur, quod verum et falsum praesupponunt congruum*. Incongruitas huius dictionis consistit in discohaerentia accidentium, ut infra in solutione dicitur; deest enim subiectum genitivi.
-    **En.** Aristotle, *On Interpretation* I, c. 2, according to Boethius' translation: «A name always, as *Cato's is, or is not*; for it does not yet signify the true or the false»; in which text the other translations put *Philonis* for *Catonis*. To this passage the author of the book *Auctoritates Aristotelis* etc. (a. 1500) adds: «From which it is commonly drawn that *true* and *false* presuppose *the congruous*». The incongruity of this phrase consists in a discoherence of accidents, as is said below in the solution; for the subject of the genitive is lacking.
+    **En.** Book I of *On Interpretation*, c. 1: *And just as letters are not the same for all, so neither are vocal expressions the same for all: but those of which these [vocal expressions] are primarily signs, are the same affections of the soul for all.*
+
+[^2]: **La.** Libr. I. Periherm. c. 2, iuxta translationem Boethii: «*Nomen vero semper, ut Catonis est, vel non est; nondum enim aliquid verum dicit aut falsum*»; in quo textu ceterae translationes *Philonis* pro *Catonis* ponunt. Ad quem locum auctor libri *Auctoritatum Aristot.* etc. (a. 1500) addit: «*Ex quo communiter trahitur, quod verum et falsum praesupponunt congruum*». Incongruitas huius dictionis consistit in discohaerentia accidentium, ut infra in solutione dicitur; deest enim subiectum genitivi.
+
+    **En.** Book I of *On Interpretation*, c. 2, according to Boethius's translation: "*A noun, however, always — as in 'Cato's is' or 'is not' — does not yet say anything true or false*"; in which text the other translations put *Philo's* for *Cato's*. To which passage the author of the book of *Aristotelian Authorities* etc. (a. 1500) adds: "*From which it is commonly drawn that the true and the false presuppose the congruous*." The incongruity of this expression consists in the disharmony of accidents, as is said below in the solution; for the subject of the genitive is lacking.
 
 [^3]: **La.** Cod. S addit *omnium*. Codd. cum ed. 1 in fine argumenti *deos* loco *dii*.
-    **En.** Cod. S adds *omnium* («of all»). The codd. with ed. 1 at the end of the argument read *deos* in place of *dii*.
 
-[^4]: **La.** S. Doctor loquitur secundum antiquam opinionem fabulosam, quod haec avis in uno solo individuo existat, ex cuius cineribus resurgat alius. Idem exemplum adducit Boeth., I *de Categoriis Aristot.* c. *de Denominativis*.
-    **En.** The Holy Doctor speaks according to the ancient fabulous opinion that this bird [the phoenix] exists in only one individual, from whose ashes another arises. Boethius adduces the same example in his *Commentary on Aristotle's Categories*, c. *de Denominativis*.
+    **En.** Codex S adds *of all*. The codices with edition 1 at the end of the argument [read] *deos* in place of *dii*.
 
-[^5]: **La.** Cfr. Priscian., II *Grammat.* c. 5.
-    **En.** Cf. Priscian, *Institutes of Grammar* II, c. 5.
+[^4]: **La.** S. Doctor loquitur secundum antiquam opinionem fabulosam, quod haec avis in uno solo individuo existat, ex cuius cineribus resurgat alius. Idem exemplum adducit Boeth., I. de Categoriis Aristot. c. de Denominativis.
 
-[^6]: **La.** Postulantibus mss. et ed. 1 addidimus *proprie*. Paulo infra aliqui codd. ut H ff post *multiplicatur* adiciunt *vel plurificatur*; ed. 1 *nec plurificatur*.
-    **En.** At the request of the mss. and ed. 1 we have added *proprie* («properly»). A little later some codd. (H ff) after *multiplicatur* add *vel plurificatur*; ed. 1 *nec plurificatur*.
+    **En.** The holy Doctor speaks according to the ancient fabulous opinion, that this bird exists in one sole individual, from whose ashes another arises. Boethius adduces the same example in Book I of [his commentary on] Aristotle's *Categories*, chapter on Denominatives.
 
-[^7]: **La.** 1 Cor. 8, 5.
-    **En.** 1 Corinthians 8:5.
+[^5]: **La.** Cfr. Priscian., II. Grammat. c. 5.[?]
 
-[^8]: **La.** Vat. praeter fidem mss. minus apte *sic nec nomen Dei*.
-    **En.** The Vatican ed., against the witness of the mss., less aptly reads *sic nec nomen Dei*.
+    **En.** Cf. Priscian, *Grammar* II, c. 5.[?]
 
-[^9]: **La.** Ex plurimis mss. ut A C F G H M N R S T V X Y Z etc. substituimus *sequuntur* loco *requirunt*; alii codd. ut I U ff cum ed. 1 *consequuntur*. Lectio mss. certe praeferenda lectioni Vat.
-    **En.** From most mss. (A C F G H M N R S T V X Y Z etc.) we have substituted *sequuntur* («follow») for *requirunt* («require»); other codd. (I U ff) with ed. 1 read *consequuntur*. The mss. reading is certainly to be preferred to the Vatican ed.'s.
+[^6]: **La.** Postulantibus mss. et edd. 1, addidimus *proprie*. Paulo infra aliqui codd. ut H ff post *multiplicatur* adiiciunt *vel plurificatur*; ed. 1 *nec plurificatur*.
 
-[^10]: **La.** Priscian., XVII *Grammat.* c. 1 (*de Constructione*): *Nam si incongrua (ratio contextus) sit, soloecismum faciet, quasi elementis orationis inconcinne coeuntibus* etc.
-    **En.** Priscian, *Institutes of Grammar* XVII, c. 1 (*On Construction*): «For if [the pattern of the context] is incongruous, it will produce a solecism, as when the elements of speech come together inelegantly».
+    **En.** With the manuscripts and edition 1 demanding it, we have added *proprie*. A little below, some codices such as H ff after *multiplicatur* add *vel plurificatur*; edition 1 [reads] *nec plurificatur*.
 
-[^11]: **La.** Supplevimus ex mss. et primis sex edd. *cum*. In fine responsionis antiquiores codd. cum ed. 1 *significari* pro *consignificari*.
-    **En.** From the mss. and first six editions we have supplied *cum*. At the end of the response, the older codd. with ed. 1 read *significari* for *consignificari*.
+[^7]: **La.** Vat. hic *subiectum* loco *substantivum*, et paulo infra post *substantivatur* ponit *Sicut ergo, cum dicitur unus Deus, hoc nomen unus dicit unitatem*, sed contra antiquiores codd. et ed. 1.
+
+    **En.** The Vatican edition here [reads] *subiectum* in place of *substantivum*, and a little below, after *substantivatur*, places *Just so, when it is said one God, this name 'one' bespeaks unity*, but against the more ancient codices and edition 1.
+
+[^8]: **La.** Cod. R addit *genuit*.[?]
+
+    **En.** Codex R adds *genuit*.[?]

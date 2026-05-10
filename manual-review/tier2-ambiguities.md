@@ -393,3 +393,18 @@ No `[?]` flags placed inline. The Lombard text on Distinction V is well preserve
 - **bon-sent-I-d2-littera, p.46 footer note 8**: OCR garble «««*'« hoc» suggests Vatican-edition lemma is *audit hoc* (vs. text *audit haec*). Currently rendered *audit hoc*[?]. → Resolve via 600dpi PDF p.46 footer.
 - **bon-sent-I-d2-littera, p.47 footer notes 36–37 (body markers [^36], [^37])**: Quaracchi printing has marginal rubric «*Aliae auctoritates*» appearing inline in OCR at this position; OCR also doubles the Gen. 1, 1 reference across the page-break. Currently flagged with [?]. → Resolve via 600dpi PDF p.47–48 to confirm whether these are two distinct apparatus entries or a single rubric+citation pair.
 - **bon-sent-I-d2-littera, p.48 footer note 43**: apparatus footer uses *passus est* as a lemma but the body word at the marker position is *natus est* (Filius) / *processit* (Spiritus) — apparently a printer's slip in the apparatus. Currently rendered *passus est* (verbatim) with translator's bracket. → Resolve via 600dpi PDF p.48 footer.
+
+## d.4 a.1 q.3 from-scratch rebuild (2026-05-10)
+
+- **bon-sent-I-d4-a1-q3, Respondeo "sic nec hoc[?] nomen Deus"**: OCR has `hoc''` (double-apostrophe glyph). Likely a footnote marker in OCR that did not survive transcription cleanly; no corresponding footer note on p.102 maps unambiguously. Currently rendered `hoc[?]`. → Resolve at decade-end with 600dpi PDF eyes-on (printed p. 102).
+- **bon-sent-I-d4-a1-q3, app. [^5] (Priscian)**: OCR has `II.  Grammat.  c.  S.` — the `S` is almost certainly OCR for `5` but flagged because Priscianus *Inst. Gramm.* II.5 vs II.S unclear without PDF check. Currently rendered `c. 5.[?]`. → Resolve with 600dpi PDF.
+- **bon-sent-I-d4-a1-q3, app. [^8] (Cod. R addit genuit)**: OCR-anchored text `Cod. R addit genuit.` is grammatically odd in this q.3 context (no obvious Respondeo word for *genuit* to attach to); placement at the start of the page-101 footer block is unambiguous, but the lemma it glosses is not. Currently rendered with [?]. → Resolve with 600dpi PDF.
+
+## d.4 a.1 q.1 (2026-05-10 from-scratch rebuild)
+
+**bon-sent-I-d4-a1-q1, scholion §I opener**: OCR garbles "explicationem aliquor[??] / quae in liac quaestione" — likely *aliquorum terminorum*. Currently rendered "aliquorum [terminorum?]". → Resolve with 600dpi PDF p.98 footer/scholion margin.
+**bon-sent-I-d4-a1-q1, app. [^10] (p.98 fn 2)**: OCR ends "tract. de Re-" cut at line break, never resumes — clearly *Restrictione*. Currently rendered "Re[strictione?]". → Resolve with PDF p.98 footer.
+**bon-sent-I-d4-a1-q1, app. [^14] (p.98 fn 6)**: OCR `non multiplicabilem in i` truncated mid-line — Quaracchi's emendation almost certainly *immultiplicabilem* (matches body text). Currently rendered "*immultiplicabilem*[?]". → Resolve with PDF p.98 footer.
+**bon-sent-I-d4-a1-q1, app. [^15] (p.98 fn 7)**: OCR `Vat. contra antiquiores codd. et ed. I addit i` — added word truncated. Currently rendered "[verbum?]". → Resolve with PDF p.98 footer.
+**bon-sent-I-d4-a1-q1, app. [^16] (p.98 fn 8)**: OCR `non liabeat suppositionem aliam a / sito antecedente` — `[suppo]sito` lost across line break. Currently rendered "[supposito?]". → Resolve with PDF p.98 footer.
+**bon-sent-I-d4-a1-q1, app. [^17] (p.98 fn 9)**: OCR `Cod. K. addit dcut hic` — *dcut* almost certainly *scilicet* abbreviation. Currently rendered "[scilicet?]". → Resolve with PDF p.98 footer.
