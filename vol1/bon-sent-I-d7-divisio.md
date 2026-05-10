@@ -13,7 +13,7 @@ line_end: 29242
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 134–135"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body restored verbatim from IA djvu OCR (raw lines 29109–29242), missing gerundium/significatione passiva–activa passage (raw lines 29207–29221) restored, fabricated cross-reference apparatus replaced with the actual eight Quaracchi textual-variant footnotes from the foot of printed p. 134 (raw lines 29270–29316) (sweep audit 2026-05-08)"
+transcription_status: "Phase C Tier 2 complete — Latin body restored verbatim from IA djvu OCR (raw lines 29109–29242), missing gerundium/significatione passiva–activa passage (raw lines 29207–29221) restored, fabricated cross-reference apparatus replaced with the actual eight Quaracchi textual-variant footnotes from the foot of printed p. 134 (raw lines 29270–29316) (sweep audit 2026-05-08) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

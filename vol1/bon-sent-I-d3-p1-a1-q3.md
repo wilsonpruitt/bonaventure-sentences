@@ -16,7 +16,7 @@ has_scholion: true
 has_apparatus: true
 line_start: 20075
 line_end: 20302
-transcription_status: "Phase C Tier 2 complete (2026-05-09) — Latin verbatim from IA djvu OCR (raw lines 20075–20302); literal English; 14-entry bilingual apparatus rebuilt verbatim from PDF p. 74 footer (fns 1–11) + p. 75 footer (fns 1–3) at 600 dpi; scholion (Sections I, II, III) restored from raw OCR (chunk had been missing the entire scholion). Body markers [^1]–[^14] placed at the OCR superscript positions. Replaces the prior 'Phase C rebuild — apparatus footnotes pending' status."
+transcription_status: "Phase C Tier 2 complete (2026-05-09) — Latin verbatim from IA djvu OCR (raw lines 20075–20302); literal English; 14-entry bilingual apparatus rebuilt verbatim from PDF p. 74 footer (fns 1–11) + p. 75 footer (fns 1–3) at 600 dpi; scholion (Sections I, II, III) restored from raw OCR (chunk had been missing the entire scholion). Body markers [^1]–[^14] placed at the OCR superscript positions. Replaces the prior 'Phase C rebuild — apparatus footnotes pending' status. [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

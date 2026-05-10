@@ -11,7 +11,7 @@ pdf_pages: [207, 208, 209]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 105–107"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body (Dub I split properly from Dub II per Quaracchi pp. 104-107; Dub VI fundamentum restored), English body (fresh for all 9 dubia), 15-footnote apparatus all filled (2026-04-13); sweep-audited 2026-05-08 — restored 3 body omissions (DUB III «Sed licet solutio Praepositivi…»; DUB IV «ideo simul stat pro pluribus, sicut pro uno: et ideo non»; DUB V tail «Unde unus solus Deus dicitur una sola natura… nec est idem in homine natura et res naturae») and fixed [^14] body anchor from «Deus» to «Deo»; English re-translated literally for affected passages"
+transcription_status: "Phase C Tier 2 complete — Latin body (Dub I split properly from Dub II per Quaracchi pp. 104-107; Dub VI fundamentum restored), English body (fresh for all 9 dubia), 15-footnote apparatus all filled (2026-04-13); sweep-audited 2026-05-08 — restored 3 body omissions (DUB III «Sed licet solutio Praepositivi…»; DUB IV «ideo simul stat pro pluribus, sicut pro uno: et ideo non»; DUB V tail «Unde unus solus Deus dicitur una sola natura… nec est idem in homine natura et res naturae») and fixed [^14] body anchor from «Deus» to «Deo»; English re-translated literally for affected passages [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 line_start: 24634
 line_end: 25060
 format_version: 1

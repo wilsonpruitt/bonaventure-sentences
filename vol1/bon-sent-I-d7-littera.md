@@ -13,7 +13,7 @@ line_end: 29107
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. VII (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 132–133)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body restored verbatim from IA djvu OCR (raw lines 28913–29107), missing Cap. I tail (Maximinus dialogue + properties of Pater/Filius) restored, missing Cap. II passage (Pater habet potentiam... habet ergo aliquam Pater) restored, full apparatus rebuilt from p.132 NOTAE block (raw lines 29002–29022) + p.133 footer (raw lines 29133–29170); 17 footnotes (Augustine c.Maxim + de Trin + textual variants) (sweep audit 2026-05-08)"
+transcription_status: "Phase C Tier 2 complete — Latin body restored verbatim from IA djvu OCR (raw lines 28913–29107), missing Cap. I tail (Maximinus dialogue + properties of Pater/Filius) restored, missing Cap. II passage (Pater habet potentiam... habet ergo aliquam Pater) restored, full apparatus rebuilt from p.132 NOTAE block (raw lines 29002–29022) + p.133 footer (raw lines 29133–29170); 17 footnotes (Augustine c.Maxim + de Trin + textual variants) (sweep audit 2026-05-08) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

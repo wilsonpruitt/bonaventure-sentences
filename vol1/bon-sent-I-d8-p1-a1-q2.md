@@ -16,7 +16,7 @@ line_end: 32575
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 152–154"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — apparatus rebuilt page-by-page from raw OCR (pp. 152–154 → 35 footer entries: 10 + 15 + 10), all body and translation preserved verbatim from prior Tier-2 pass, additional codex-variant + cross-reference apparatus entries restored (Wave 9b Tier B, 2026-05-09)"
+transcription_status: "Phase C Tier 2 complete — apparatus rebuilt page-by-page from raw OCR (pp. 152–154 → 35 footer entries: 10 + 15 + 10), all body and translation preserved verbatim from prior Tier-2 pass, additional codex-variant + cross-reference apparatus entries restored (Wave 9b Tier B, 2026-05-09) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

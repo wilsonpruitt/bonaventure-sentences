@@ -13,7 +13,7 @@ line_end: 27714
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. VI (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 123–124)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 27551–27714), fresh literal English translation, full apparatus rebuilt from raw OCR (10 entries: 3 on p.123 + 7 on p.124), bilingual La./En. structure, no [?] flags (2026-05-08)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 27551–27714), fresh literal English translation, full apparatus rebuilt from raw OCR (10 entries: 3 on p.123 + 7 on p.124), bilingual La./En. structure, no [?] flags (2026-05-08) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

@@ -13,7 +13,7 @@ has_scholion: false
 has_apparatus: true
 line_start: 37971
 line_end: 38198
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 37971–38198; prior chunk had wholesale fabricated body and apparatus), fresh literal English translation, full apparatus rebuilt from raw OCR (20 entries; prior 20 entries fabricated). Several p.193 OCR footer entries are damaged in the OCR scan; flagged with [?] for PDF eyes-on resolution at the d.41–d.50 polish-blocker pass (2026-05-08)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 37971–38198; prior chunk had wholesale fabricated body and apparatus), fresh literal English translation, full apparatus rebuilt from raw OCR (20 entries; prior 20 entries fabricated). Several p.193 OCR footer entries are damaged in the OCR scan; flagged with [?] for PDF eyes-on resolution at the d.41–d.50 polish-blocker pass (2026-05-08) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

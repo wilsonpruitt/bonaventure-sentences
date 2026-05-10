@@ -15,7 +15,7 @@ has_scholion: true
 has_apparatus: true
 line_start: 14178
 line_end: 14534
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 14178–14534), fresh literal English translation, full apparatus from raw OCR (24 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 14178–14534), fresh literal English translation, full apparatus from raw OCR (24 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-07) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

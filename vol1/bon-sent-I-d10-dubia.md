@@ -12,7 +12,7 @@ line_end: 40231
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 205–207"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 39891–40231; original skeleton was clipped at line 40190 missing Dub V continuation + Dub VI), full apparatus from raw OCR (31 entries across 3 pages), full English (2026-05-02)"
+transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 39891–40231; original skeleton was clipped at line 40190 missing Dub V continuation + Dub VI), full apparatus from raw OCR (31 entries across 3 pages), full English (2026-05-02) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

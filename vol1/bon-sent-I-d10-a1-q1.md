@@ -15,7 +15,7 @@ has_scholion: true
 has_apparatus: true
 line_start: 38322
 line_end: 38663
-transcription_status: "Phase C Tier 2 complete — Latin body, scholion, apparatus, English body and scholion (2026-04-17 / English 2026-05-02)"
+transcription_status: "Phase C Tier 2 complete — Latin body, scholion, apparatus, English body and scholion (2026-04-17 / English 2026-05-02) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

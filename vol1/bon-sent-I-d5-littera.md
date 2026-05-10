@@ -13,7 +13,7 @@ line_end: 25618
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. V (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 108–110)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 25061-25618), fresh literal English translation, full apparatus from raw OCR (28 entries from p.108-110 footer blocks), [?] flags on ambiguous spots (2026-05-08)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 25061-25618), fresh literal English translation, full apparatus from raw OCR (28 entries from p.108-110 footer blocks), [?] flags on ambiguous spots (2026-05-08) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

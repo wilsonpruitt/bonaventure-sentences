@@ -14,7 +14,7 @@ line_end: 31619
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 149–150"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 31496–31619), missing-paragraph restoration ('Item prima pars habet duas partes...'), fresh literal English translation, full apparatus from raw OCR NOTAE AD COMMENTARIUM (4 entries, fabricated cross-reference apparatus replaced) (2026-05-08)"
+transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 31496–31619), missing-paragraph restoration ('Item prima pars habet duas partes...'), fresh literal English translation, full apparatus from raw OCR NOTAE AD COMMENTARIUM (4 entries, fabricated cross-reference apparatus replaced) (2026-05-08) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

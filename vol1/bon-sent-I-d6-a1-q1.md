@@ -15,7 +15,7 @@ line_end: 28085
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 125–126"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, scholion Latin (already done), full English body, scholion English, 6-footnote apparatus (Hilary, Richard of St. Victor, 1 John 3, Psalm 24) (2026-04-13)"
+transcription_status: "Phase C Tier 2 complete — Latin body, scholion Latin (already done), full English body, scholion English, 6-footnote apparatus (Hilary, Richard of St. Victor, 1 John 3, Psalm 24) (2026-04-13) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

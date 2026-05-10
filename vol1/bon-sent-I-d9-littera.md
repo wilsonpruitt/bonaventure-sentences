@@ -13,7 +13,7 @@ line_end: 36016
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. IX (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 177–179)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation completed 2026-05-04, 37-footnote apparatus from raw OCR; 2026-05-08 sweep audit replaced spurious duplicate [^34]/[^35] (fabricated 'professionis loco professio' note that did not appear in OCR p.178/p.179) with the four genuine p.179 NOTAE entries [^34]–[^37], and re-anchored body markers at *nec ratio*, *ea*, *natum*, and end-of-Cap-V; spurious anchor on *de Trinitate* removed (content properly belongs to [^33] Num. 21). [^37] flagged [?] for OCR truncation pending PDF eyes-on (see manual-review/tier2-ambiguities-d9-littera.md)"
+transcription_status: "Phase C Tier 2 complete — Latin set verbatim from IA djvu OCR, literal English translation completed 2026-05-04, 37-footnote apparatus from raw OCR; 2026-05-08 sweep audit replaced spurious duplicate [^34]/[^35] (fabricated 'professionis loco professio' note that did not appear in OCR p.178/p.179) with the four genuine p.179 NOTAE entries [^34]–[^37], and re-anchored body markers at *nec ratio*, *ea*, *natum*, and end-of-Cap-V; spurious anchor on *de Trinitate* removed (content properly belongs to [^33] Num. 21). [^37] flagged [?] for OCR truncation pending PDF eyes-on (see manual-review/tier2-ambiguities-d9-littera.md) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

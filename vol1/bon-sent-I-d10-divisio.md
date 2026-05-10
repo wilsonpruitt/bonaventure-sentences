@@ -13,7 +13,7 @@ has_scholion: false
 has_apparatus: true
 line_start: 38245
 line_end: 38317
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 38245–38317; prior chunk had wholesale fabricated body and apparatus), fresh literal English translation, full apparatus rebuilt from raw OCR (5 entries; prior 2 entries fabricated) (2026-05-08)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 38245–38317; prior chunk had wholesale fabricated body and apparatus), fresh literal English translation, full apparatus rebuilt from raw OCR (5 entries; prior 2 entries fabricated) (2026-05-08) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

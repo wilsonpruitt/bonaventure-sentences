@@ -16,7 +16,7 @@ line_end: 32053
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 150–152"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body verbatim from IA djvu OCR (raw lines 31620–32053), literal English translation, scholion I–IV, full apparatus rebuilt from raw OCR (22 entries: p. 150 fns 5–13 = 9, p. 151 fns 1–10 = 10, p. 152 fns 1–3 = 3; p. 150 fns 1–4 belong to d8-p1-divisio per chunk-boundary convention since the top of p. 150 carries the TRACTATIO QUAESTIONUM listing). Hardened-heuristic raw count 31 vs ground-truth 22 reflects ~9 OCR overcount (running heads, rubric-line openers, and the four divisio-page footers); audit residual diff +9 acceptable. Body coverage sound (per-page distribution verified eyes-on against PDF pp. 150–152 at 300 dpi). Disposition rebuild 2026-05-09."
+transcription_status: "Phase C Tier 2 complete — Latin body verbatim from IA djvu OCR (raw lines 31620–32053), literal English translation, scholion I–IV, full apparatus rebuilt from raw OCR (22 entries: p. 150 fns 5–13 = 9, p. 151 fns 1–10 = 10, p. 152 fns 1–3 = 3; p. 150 fns 1–4 belong to d8-p1-divisio per chunk-boundary convention since the top of p. 150 carries the TRACTATIO QUAESTIONUM listing). Hardened-heuristic raw count 31 vs ground-truth 22 reflects ~9 OCR overcount (running heads, rubric-line openers, and the four divisio-page footers); audit residual diff +9 acceptable. Body coverage sound (per-page distribution verified eyes-on against PDF pp. 150–152 at 300 dpi). Disposition rebuild 2026-05-09. [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

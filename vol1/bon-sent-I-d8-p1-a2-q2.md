@@ -16,7 +16,7 @@ line_end: 33451
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 158–161"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR pt1 (raw lines 32878–33451), literal English translation, full apparatus from raw OCR (38 entries across 4 printed-page footer sequences for pp. 158–161: p.158 fns 11–13 [fns 1–10 belong to prior a.2-q.1 tail], p.159 fns 1–16, p.160 fns 1–9, p.161 fns 1–10), per-page restart convention, 1 [?] flag (p.159 fn 3 ambiguous anchor); rebuilt 2026-05-09 closing Wave 9b Tier A; see manual-review/d1-d4-tier2-promotion-log.md Lesson 9 and manual-review/tier2-ambiguities-d8-p1-a2-q2.md"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR pt1 (raw lines 32878–33451), literal English translation, full apparatus from raw OCR (38 entries across 4 printed-page footer sequences for pp. 158–161: p.158 fns 11–13 [fns 1–10 belong to prior a.2-q.1 tail], p.159 fns 1–16, p.160 fns 1–9, p.161 fns 1–10), per-page restart convention, 1 [?] flag (p.159 fn 3 ambiguous anchor); rebuilt 2026-05-09 closing Wave 9b Tier A; see manual-review/d1-d4-tier2-promotion-log.md Lesson 9 and manual-review/tier2-ambiguities-d8-p1-a2-q2.md [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

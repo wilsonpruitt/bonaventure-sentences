@@ -14,7 +14,7 @@ line_end: 35560
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 175–176"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body verified against IA djvu OCR (raw lines 35295–35560), 6-dubium structure, 6-footnote apparatus; sweep-audit 2026-05-08 corrected fn[^5] (Aug. V de Trin. c. 8 n. 9, not c. 1 n. 2) and replaced editorial-summary English with full OCR-verbatim Latin + literal En."
+transcription_status: "Phase C Tier 2 complete — Latin body verified against IA djvu OCR (raw lines 35295–35560), 6-dubium structure, 6-footnote apparatus; sweep-audit 2026-05-08 corrected fn[^5] (Aug. V de Trin. c. 8 n. 9, not c. 1 n. 2) and replaced editorial-summary English with full OCR-verbatim Latin + literal En. [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

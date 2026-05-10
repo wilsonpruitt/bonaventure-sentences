@@ -13,7 +13,7 @@ has_scholion: false
 has_apparatus: true
 line_start: 15794
 line_end: 16313
-transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 15794–16313), parallel literal English translation, 55-entry apparatus from raw OCR; sweep-audited 2026-05-08; 2026-05-09 added line_start/line_end frontmatter fields so the paraphrase audit can run content checks (the prior HIGH flag was a false-positive triggered by absent frontmatter)"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 15794–16313), parallel literal English translation, 55-entry apparatus from raw OCR; sweep-audited 2026-05-08; 2026-05-09 added line_start/line_end frontmatter fields so the paraphrase audit can run content checks (the prior HIGH flag was a false-positive triggered by absent frontmatter) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

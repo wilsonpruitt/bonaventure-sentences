@@ -13,7 +13,7 @@ line_end: 31015
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 145–146"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body restored verbatim from IA djvu OCR (raw lines 30742–31015), Dub I de-duplicated preamble, missing Dub VII tail (potentia non est principium generationis sed idoneitas... raw lines 30960–31015) restored, page-break placement corrected (printed page 146 begins mid-Dub VII at raw line 30995); apparatus rebuilt against the actual p. 145 footer (raw lines 30779–30850) and p. 146 footer (raw lines 30963–30992); 18 footnotes (sweep audit 2026-05-08)"
+transcription_status: "Phase C Tier 2 complete — Latin body restored verbatim from IA djvu OCR (raw lines 30742–31015), Dub I de-duplicated preamble, missing Dub VII tail (potentia non est principium generationis sed idoneitas... raw lines 30960–31015) restored, page-break placement corrected (printed page 146 begins mid-Dub VII at raw line 30995); apparatus rebuilt against the actual p. 145 footer (raw lines 30779–30850) and p. 146 footer (raw lines 30963–30992); 18 footnotes (sweep audit 2026-05-08) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

@@ -12,7 +12,7 @@ pdf_pages: [195, 196]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 93–94"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23056–23296), fresh literal English translation, full apparatus from raw OCR (23 entries across 2 printed-page footer sequences for Dubia content); legitimate Ps 72:20 anchor preserved as [^4]; 3 prior scholar's cross-refs retained in ## Notes section per Wave 3; full-coverage pass 2026-05-09; see manual-review/d1-d4-tier2-promotion-log.md for disposition history (2026-05-09)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23056–23296), fresh literal English translation, full apparatus from raw OCR (23 entries across 2 printed-page footer sequences for Dubia content); legitimate Ps 72:20 anchor preserved as [^4]; 3 prior scholar's cross-refs retained in ## Notes section per Wave 3; full-coverage pass 2026-05-09; see manual-review/d1-d4-tier2-promotion-log.md for disposition history (2026-05-09) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 line_start: 23056
 line_end: 23296
 format_version: 1

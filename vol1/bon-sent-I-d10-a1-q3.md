@@ -14,7 +14,7 @@ line_end: 39160
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 193–194"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 38990–39160), full apparatus from raw OCR (8 entries), scholia I–II, full English body and scholia (2026-05-02)"
+transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 38990–39160), full apparatus from raw OCR (8 entries), scholia I–II, full English body and scholia (2026-05-02) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 

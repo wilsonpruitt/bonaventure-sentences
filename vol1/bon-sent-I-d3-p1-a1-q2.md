@@ -14,7 +14,7 @@ pdf_pages: [172, 173, 174, 175]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 70–73"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, English body, scholion English, and 26-footnote apparatus all filled from Quaracchi pp. 71–73 (2026-04-13)"
+transcription_status: "Phase C Tier 2 complete — Latin body, English body, scholion English, and 26-footnote apparatus all filled from Quaracchi pp. 71–73 (2026-04-13) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 line_start: 19636
 line_end: 20073
 format_version: 1

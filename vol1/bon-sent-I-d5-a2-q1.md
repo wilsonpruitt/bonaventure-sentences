@@ -15,7 +15,7 @@ line_end: 26785
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 115–117"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, scholion Latin (2 sections incl. Joachim ref + Richard quotation), English body (fresh), scholion English, 7-footnote apparatus (2026-04-13)"
+transcription_status: "Phase C Tier 2 complete — Latin body, scholion Latin (2 sections incl. Joachim ref + Richard quotation), English body (fresh), scholion English, 7-footnote apparatus (2026-04-13) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
 format_version: 1
 ---
 
