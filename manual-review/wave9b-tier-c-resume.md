@@ -1,7 +1,87 @@
 # Wave 9b Tier C — resume document
 
-Created 2026-05-09 at the close of Wave 9b Tier B. This is the queue for
-the next session.
+Created 2026-05-09 at the close of Wave 9b Tier B. **Updated 2026-05-10**
+after sample-validate (10 chunks) + per-page footer-band detector built.
+This is the queue for the next session.
+
+## 2026-05-10 update — sample-validate + banded detector
+
+### Sample-validate findings (10/10)
+
+5 chunks from Bucket B + 5 from Bucket C, eyes-on PDF footer walks:
+
+| Bucket | OVERCOUNT-ONLY | SMALL-UNDER | OTHER | LARGE-UNDER |
+|---|---|---|---|---|
+| B (5) | 3 | 1 | 1 | 0 |
+| C (5) | 4 | 1 | 0 | 0 |
+| **Total** | **7** | **2** | **1** | **0** |
+
+Zero of 10 samples are real-LARGE-undercoverage. Sample agents
+under-reported gap sizes (claimed 1-4 missing for what was actually
+7-13 missing); future sample agents need explicit instruction to
+verify ALL apparatus entries against raw OCR per page, not spot-check.
+
+3 real-fix items dispositioned in commit `d49548e`:
+
+- **`d35-divisio`** — pages corrected 600→599 / 190→189; missing
+  [^5] (Cod. V *autem*) backfilled. Now 5 entries, Tier 2 complete.
+- **`d4-a1-q4`** — fabricated [^7] removed; demoted to
+  `apparatus-incomplete + body-paraphrased` (joins d5-a1-q1 / d7-a1-q2
+  pattern). 7 of 13 ground-truth footers missing; body Sed-contra +
+  Respondeo paraphrased; Scholion III missing.
+- **`d2-a1-q4`** — body solid (PDF-supplement diff-checked
+  2026-05-09), but ENTIRE p.57 footer band (11 entries) absent.
+  Demoted to `apparatus-incomplete (body verified)`.
+
+### Banded detector (`tools/audit-apparatus-count-banded.py`)
+
+Built 2026-05-10. Page-section partition + footer-band scoping
+eliminates two dominant noise sources from the original audit:
+body-objection numerals outside the band, and intra-entry numerals
+inside long multi-clause apparatus entries.
+
+Validation against 10 sample chunks (ground-truth from sample-validate):
+banded count is within ±3 of ground truth on 8/10. Two failures: chunks
+that are FULLY shared (e.g. `d29-divisio` straddling distinction
+boundary at p.507/508) — detector has no chunk-portion attribution.
+
+**Re-bucketing impact (d.1–d.40, 350 chunks audited):**
+
+| Banded diff | orig audit | banded audit |
+|---|---|---|
+| ≤ 0 | 127 | 218 |
+| 1-2 | 45 | 46 |
+| 3-5 | 54 | 37 |
+| 6-10 | 69 | 33 |
+| 11-19 | 44 | 14 |
+| ≥ 20 | 11 | 2 |
+
+Suspect count (banded > 5) = **49 chunks**. Filtering 4 skeletons
+(chunk_app = 0: d27-p2-divisio, d5-divisio, d40-divisio + 1 more)
+leaves **45 candidates** for eyes-on. Most are divisios/small
+quaestios at distinction boundaries (shared-page noise persists).
+Real-undercoverage candidates (large chunks with multi-page spans,
+banded diff > 8): ~8-10 chunks including `d27-littera` (+21),
+`d35-a1-q1` (+14, 6-page span), `d33-littera` (+14), `d28-littera`
+(+14), `d37-p2-a1-q1` (+14), `d39-a1-q1` (+13), `d31-p2-a1-q1` (+11),
+`d34-a1-q1` (+10). Full table at
+`manual-review/wave9b-tier-c-triage-banded.md`.
+
+### Suggested next move (revised)
+
+Skip the original "validate 10 → tune estimator → re-bucket" plan;
+banded detector is built. Next moves in priority order:
+
+1. **Eyes-on the ~10 real-undercoverage candidates** above. Dispatch
+   in waves of 3, like Tier B. Tighten the agent prompt: walk every
+   apparatus entry per page against raw OCR, not just count footers.
+2. **Body-paraphrase corpus audit** (Lesson 11 follow-up) — separate
+   initiative for d4-a1-q4 / d5-a1-q1 / d7-a1-q2 / and unknown others.
+3. The 35 small-chunk shared-page suspects (banded +5 to +10, mostly
+   divisios) can probably be batch-accepted without per-chunk dispatch
+   if a quick spot-check on 3-4 confirms the shared-page pattern.
+
+----
 
 ## Context — Tier B is closed
 
