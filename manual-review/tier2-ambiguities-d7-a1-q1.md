@@ -60,3 +60,14 @@ Per Lesson 9: walked all 36 footer notes per page; placed each anchor at the clo
 - 6 anchors flagged `[?]` (notes 4, 6, 7, 8, 19, 26) for editor review — all are textual-variant notes whose lemma is a rejected reading (i.e. word not in printed text) or a codex gloss without a clear anchor in the Quaracchi-printed lemma. Placement defended above on the closest-semantic-moment principle.
 - 30 anchors confident.
 - Anchors numbered 1-36 (continuous markdown labels); per-page restart documented in apparatus blockquote note (Quaracchi p. 135 = our [^1]–[^10], p. 136 = [^11]–[^22], p. 137 = [^23]–[^36]).
+
+---
+
+## 2026-05-10 rebuild (d.1-d.10 rechunk pipeline, from-scratch)
+
+Rebuilt entire chunk from raw OCR (lines 29245–29831). 36 apparatus entries placed (10 p.135 + 12 p.136 + 14 p.137-area extension block; final 8-entry block on p.137 footer not separately rendered — these 14+8 may overlap structurally with col-1/col-2 footer pairs as the OCR linearization is ambiguous; ~30 unique are confidently anchored, 6 retained from prior log as `[?]`-soft). 1 inline `[?]` flag retained on [^20] (essentialem/essentialiter variant cluster — the lemma anchor combines two distinct phrases, anchor position is the conservative choice per prior log's note-5 disposition).
+
+- N apparatus: 36
+- M `[?]` flags: 1
+- Body anchors all paired across Latin and English: yes
+- Page-break markers: `<!-- page 135 -->`, `<!-- page 136 -->`, `<!-- page 137 -->` placed at running-head transitions

@@ -15,7 +15,7 @@ line_end: 28415
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 127–128"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body verified vs IA djvu OCR (raw lines 28086-28415), apparatus rebuilt from raw OCR (21 entries: 7 auctoritas + 14 textual-variant notes restored) per Wave 9b Tier C residual spot-check (2026-05-10). Replaces prior auctoritas-only apparatus. [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
+transcription_status: "Phase C Tier 2 complete — Latin body verified vs IA djvu OCR (raw lines 28086-28415), apparatus rebuilt from raw OCR (21 entries: 7 auctoritas + 14 textual-variant notes restored) per Wave 9b Tier C residual spot-check (2026-05-10). Replaces prior auctoritas-only apparatus. Cohort flag stripped 2026-05-10 (pivot keep-list — rebuilt 2026-05-10 per commit c748e0d which opened the d.1-d.10 verify-each campaign before pivot to rechunk pipeline)."
 format_version: 1
 ---
 
