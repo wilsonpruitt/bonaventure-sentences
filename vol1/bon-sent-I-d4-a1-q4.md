@@ -13,7 +13,7 @@ pdf_pages: [205, 206]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 103–104"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, scholion Latin, English body (fresh), scholion English, and 7-footnote apparatus all filled from Quaracchi pp. 103-104 (2026-04-13)"
+transcription_status: "Phase C Tier 2 apparatus-incomplete + body-paraphrased — Wave 9b Tier C sample-validate (2026-05-10) confirmed: (a) body Sed-contra args 1-2 paraphrased away from raw OCR (chunk arg 1 'Sicut se habet homo ad hominem...' not in raw; raw has 'Pronomen refert rem pro proprio supposito... Benedicat nos Deus'); (b) Respondeo three-opinion summary abridges raw's two-opinion-plus-melius-est-dicere structure; (c) Scholion III missing (raw line 24628: cross-refs to Bonav d.29, Alex Hal, B. Albert, Petr a Tar, Richard a Med, Henr Gand, Dionys Carth, Biel); (d) apparatus 6 of 13 ground-truth entries missing — chunk has only raw p.103 entries 7-8 (Psalm + supplevimus proprie) and 4 of 5 p.104 entries; missing p.103 entries 1-6 (Vers. 8, Vat. praeter fidem, Ex plurimis mss substituimus sequuntur, Priscian XVII.1 ratio contextus, Vat potest, Supplevimus cum) and p.104 entry 4 (Cod. H addit quia); (e) prior chunk [^7] (Aristot Metaph X 'Omne etenim... aut idem aut diversum') was FABRICATED — no such footer in raw OCR — REMOVED 2026-05-10. Same pattern as d5-a1-q1 and d7-a1-q2; deferred to body-paraphrase corpus audit initiative."
 line_start: 24414
 line_end: 24633
 format_version: 1
@@ -60,7 +60,7 @@ Altera vero opinio est, quod *Deus* proprie supponit pro natura communi, non pro
 
 <!-- page 104 -->
 
-Tertia media sententia, cui favet S. Doctor, tenet quod[^6] *Deus* proprie supponit tam naturam quam personam. Tamen rationes ad utramque partem concludunt verum suo modo. Hoc autem non potest in alio[^7] termino inveniri, et ideo nec consimilis modus supponendi. Ratio est, quod *Deus* habet naturam et termini communis (quia habet tria supposita) et termini singularis sive discreti (quia significat unam naturam incommunicabiliter possessam a tribus).
+Tertia media sententia, cui favet S. Doctor, tenet quod[^6] *Deus* proprie supponit tam naturam quam personam. Tamen rationes ad utramque partem concludunt verum suo modo. Hoc autem non potest in alio termino inveniri, et ideo nec consimilis modus supponendi. Ratio est, quod *Deus* habet naturam et termini communis (quia habet tria supposita) et termini singularis sive discreti (quia significat unam naturam incommunicabiliter possessam a tribus).
 
 ### Scholion
 
@@ -102,7 +102,7 @@ The first is that this name *God* properly signifies the nature and supposits fo
 
 The other opinion is that *God* properly supposits for the common nature, not for a person.
 
-A third, middle opinion — which the Holy Doctor favors — holds that[^6] *God* properly supposits both for the nature and for a person. Yet the reasons on both sides conclude truly in their own way. But this cannot be found in any other[^7] term, and therefore neither can any similar mode of suppositing. The reason is that *God* has the nature both of a common term (because it has three supposits) and of a singular or discrete term (because it signifies one nature incommunicably possessed by three).
+A third, middle opinion — which the Holy Doctor favors — holds that[^6] *God* properly supposits both for the nature and for a person. Yet the reasons on both sides conclude truly in their own way. But this cannot be found in any other term, and therefore neither can any similar mode of suppositing. The reason is that *God* has the nature both of a common term (because it has three supposits) and of a singular or discrete term (because it signifies one nature incommunicably possessed by three).
 
 ### Scholion
 
@@ -134,5 +134,3 @@ A third, middle opinion — which the Holy Doctor favors — holds that[^6] *God
 [^6]: **La.** Ita fere omnes codd. cum ed. 1, in quorum lectione *quod* refertur ad paulo supra positum *dicere utrumque*. Vat. loco *quod* ponit *ideo*, cuius lectionis sensus explicatur codice Z et ideo *dico quod proprie*. Paulo infra codd. O bb *Unde* pro *Tamen*.
     **En.** So nearly all the codd. with ed. 1, in whose reading *quod* refers back to *dicere utrumque* a little above. The Vatican ed. puts *ideo* in place of *quod*; the sense of this reading is explained in cod. Z by reading *dico quod proprie*. A little later codd. O bb read *Unde* for *Tamen*.
 
-[^7]: **La.** Cfr. Aristot., X *Metaph.* text. 12 (IX, c. 3): *Omne etenim, quodcumque sit ens, aut idem aut diversum*.
-    **En.** Cf. Aristotle, *Metaphysics* X, text 12 (IX, c. 3): «For whatever is a being is either the same or diverse».

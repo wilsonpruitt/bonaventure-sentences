@@ -6,15 +6,15 @@ distinctio: 35
 type: divisio
 title_la: "Commentarius in Distinctionem XXXV. Divisio textus."
 title_en: "Commentary on Distinction XXXV. Division of the text."
-printed_pages: [600]
-pdf_pages: [190]
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), p. 600"
+printed_pages: [599]
+pdf_pages: [189]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), p. 599"
 has_scholion: false
 has_apparatus: true
 line_start: 18227
 line_end: 18308
 word_count_latin: 430
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 18227–18308 of pt2), COMMENTARIUS heading + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM, fresh literal English translation, full apparatus from raw OCR (4 entries), [?] flags on ambiguous spots (2026-05-07)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 18227–18308 of pt2), COMMENTARIUS heading + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM, fresh literal English translation, full apparatus from raw OCR (5 entries; entry 5 backfilled 2026-05-10 via Wave 9b Tier C sample-validate), printed_pages corrected 600→599 (2026-05-10)"
 format_version: 1
 ---
 
@@ -25,7 +25,7 @@ format_version: 1
 ---
 
 ## Latin
-<!-- page 600 -->
+<!-- page 599 -->
 
 ## Commentarius in Distinctionem XXXV.
 
@@ -45,7 +45,7 @@ Prima pars dividitur in tres. In prima Magister determinat de ipsa Dei scientia.
 
 Prima pars, quae continet praesentem distinctionem, tres habet[^2]. In prima, cum Dei scientia sit una, determinat, quomodo sortitur plura nomina. In secunda, cum Dei scientia vel praescientia sit aeterna, determinat, quomodo se habeat ad temporalia vel creata, ibi: *Hic considerari oportet, utrum scientia vel praescientia.* In tertia, cum Dei scientia sit ens, quomodo cognoscat non entia, ibi: *Propterea omnia dicuntur esse in Deo* etc.
 
-In prima parte, se ipsum continuans dicit, quod divina essentia plura habet nomina propter connotata[^3]. In secunda dicit, quod Dei scientia esset, si nihil futurum esset, et esset scientia, sed non diceretur praescientia. In tertia ostendit, quod omnes res[^4] habent rationes in Deo, per quas cognoscuntur et sunt in ipsa, et ita omnia sunt sibi praesentia; et sic patet divisio et sententia. Subdivisiones enim partium manifestae sunt in littera.
+In prima parte, se ipsum continuans dicit, quod divina essentia plura habet nomina propter connotata[^3]. In secunda dicit, quod Dei scientia esset, si nihil futurum esset, et esset scientia, sed non diceretur praescientia. In tertia ostendit, quod omnes res[^4] habent rationes in Deo, per quas cognoscuntur et sunt in ipsa, et ita omnia sunt sibi praesentia; et sic patet divisio et sententia. Subdivisiones enim[^5] partium manifestae sunt in littera.
 
 ### Tractatio quaestionum.
 
@@ -66,7 +66,7 @@ Sexto, utrum in ideis sit pluralitas secundum numerum ordinatum, vel confusum.
 ---
 
 ## English
-<!-- page 600 -->
+<!-- page 599 -->
 
 ## Commentary on Distinction XXXV.
 
@@ -84,7 +84,7 @@ The first part is divided into three. In the first the Master determines concern
 
 The first part, which contains the present distinction, has three [divisions][^2]. In the first, since God's knowledge is one, he determines how it receives many names. In the second, since God's knowledge or foreknowledge is eternal, he determines how it stands with respect to temporal or created things, there: *"Here it must be considered, whether knowledge or foreknowledge."* In the third, since God's knowledge is of being, [he determines] how it knows non-beings, there: *"Therefore all things are said to be in God"* etc.
 
-In the first part, continuing himself, he says that the divine essence has many names on account of what it connotes[^3]. In the second he says that God's knowledge would be, if nothing were future, and would be knowledge, but would not be called foreknowledge. In the third he shows that all things[^4] have their formal grounds in God, through which they are known and are in him, and thus all things are present to him; and so the division and sense are clear. For the subdivisions of the parts are evident in the letter [of the text itself].
+In the first part, continuing himself, he says that the divine essence has many names on account of what it connotes[^3]. In the second he says that God's knowledge would be, if nothing were future, and would be knowledge, but would not be called foreknowledge. In the third he shows that all things[^4] have their formal grounds in God, through which they are known and are in him, and thus all things are present to him; and so the division and sense are clear. For[^5] the subdivisions of the parts are evident in the letter [of the text itself].
 
 ### Treatment of the questions.
 
@@ -121,6 +121,10 @@ Sixth, whether in the ideas there is plurality according to an ordered or a conf
 [^4]: **La.** Pro *omnes res*, quam lectionem ex codd. P Q restituimus, ceteri codd. cum ed. 1 substituunt solummodo *omnes*; Vat. *omnia*.
 
     **En.** For *omnes res* ("all things"), which reading we have restored from codices P and Q, the remaining codices with edition 1 substitute only *omnes* ("all"); the Vatican edition [reads] *omnia* ("all things", neuter).
+
+[^5]: **La.** Cod. V *autem*.
+
+    **En.** Codex V [reads] *autem* ("however") [for *enim* ("for")].
 
 ---
 
