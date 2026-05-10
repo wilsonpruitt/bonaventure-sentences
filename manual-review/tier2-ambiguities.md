@@ -415,3 +415,11 @@ No `[?]` flags placed inline. The Lombard text on Distinction V is well preserve
 
 **bon-sent-I-d1-littera, p.27 "In homine autem spes ponenda..."**: OCR line 12981-12982 reads `In homine autem spes ponenda / quia Maledictus est qui hoc facit` — predicate of "spes ponenda" missing (compare Augustine's original *De doctr. christ.* I.22, which has "spes ponenda non est"). Apparatus note 18 (raw line 13051: "mss. omnes et edd. 1, 8 male... omittunt nos ante consolatur") flags an adjacent omission but not this one. Currently rendered as "*spes ponenda non est*[?]" in the English on conjectural restoration; the Latin body preserves the OCR as-is. → Resolve at next 600dpi PDF eyes-on pass.
 
+
+## bon-sent-I-d3-littera (2026-05-10 from-scratch rebuild)
+
+- **d3-littera, p.62 apparatus [^2]**: OCR truncates the second text-critical footnote at line 18357–18358 ("Codd. CDE et" — entry breaks). Currently rendered as `[?]` flag inline. → Resolve via 600dpi PDF extraction of p.62 footer (PDF page 164).
+- **d3-littera, p.63 apparatus [^8]**: OCR shows `BCDE et ed. I , omisso` then breaks mid-clause before `Iranspositis verbis`. Word governed by `omisso` (likely `vel` or `vestigium`) not legible. Marked `[?]`. → Resolve via 600dpi PDF p.63 footer (PDF 165).
+- **d3-littera, p.65 "in anima"**: Body OCR at line 18732 reads `in  anima'` with an apostrophe-shaped marker; the footer at 18818 gives `Codd. et edd. 1, 3, S, 6, 7, 9  animo.` That variant note is merged into [^39] (which covers note 10 of the printed footer) rather than given its own anchor; the anchor in body is left as `[?]` inline (English side only) to preserve the OCR signal. → Verify via 600dpi PDF p.65 footer.
+- **d3-littera, p.66 entire footer block absent from OCR**: Anchors [^43]–[^45] (Augustine *de Trin.* IX; Fulgentius/Pseudo-Aug. *de Fide ad Petrum*; closing citation) all rendered as `[?]` placeholders. Raw text terminates at body line 18874; COMMENTARIUS begins 18876. → Extract p.66 footer (PDF 168) at 600 dpi and backfill the three notes' specific chapter/n. citations.
+- **d3-littera, p.64 [^17]**: The OCR-listed footer entries for p.64 conflate the running reference to *de Trin.* libr. xiv with the preceding "Cap. 8, n. 11" of note 16; rendered as a stitched-together pair with [^17] flagged for verification.

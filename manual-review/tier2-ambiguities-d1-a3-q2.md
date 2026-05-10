@@ -13,3 +13,14 @@ Per-chunk log for `bon-sent-I-d1-a3-q2.md` (`Utrum solo Deo sive bono increato f
 **bon-sent-I-d1-a3-q2, Scholion II ("S. c. Gent. I. c. 43; III. c. 48. SO.[?]")** [?]: OCR raw line 15255 reads `S. c. Gent. I. c. 43 ;  III.  c.  48.  SO.` The token `SO.` is almost certainly OCR garble for `50` (i.e., chs. 48 and 50 of *Summa contra Gentiles* III). Rendered as "III, cc. 48, 50". Resolve by checking *Summa contra Gentiles* III for the relevant chapters on God as the end / blessedness — chs. 48 and 50 are both highly plausible.
 
 **bon-sent-I-d1-a3-q2, Apparatus, page-42 footnote block missing from OCR** [?]: The IA djvu OCR transcribes the body of printed p. 42 (Ad 4 continuation, Ad 5, Scholion) but skips the footnote block at the page foot. Two body footnote anchors recognized in the body (`Huiusmodi enim '` at the head of the second mode of `bonum honestum`, and `inflatae' »` at the close of the Augustinian gloss) have been encoded as `[^23]` and `[^24]` with placeholder apparatus entries flagged `[?]`. Two further OCR markers (`Hiiiusmotli  enim` doubled marker, and `ipsam  ^` in Ad 5) were detected but not anchored due to placement uncertainty. Resolve via 600 dpi PDF eyes-on read of printed p. 42, full footnote block. The Augustinian quotation `virtutes, cum ad se referuntur, superbae sunt et inflatae` is the locus from *De civitate Dei* XIX, 25 (and is what `[^24]` should ultimately cite verbatim from the Quaracchi apparatus).
+
+---
+
+## 2026-05-10 from-scratch rebuild log
+
+Rebuild from raw OCR lines 14821-15259 (frontmatter preserved; body, English, scholion, apparatus all re-set fresh).
+
+- **bon-sent-I-d1-a3-q2, p.42 body, "Huiusmodi enim '"**: OCR has marker `'` after *enim* but no apparatus footer block for p.42 is present in the OCR (raw lines 15215-15233 jump from p.41 apparatus directly into p.42 body, then into SCHOLION at line 15234). Three p.42 markers (after *enim*, *inflatae'*, *ipsam*) lack corresponding apparatus entries. Currently rendered as `[?]` inline placeholders in both Latin and English bodies. → Resolve by 600dpi PDF eyes-on of p.42 footer at next decade-polish pass.
+- **bon-sent-I-d1-a3-q2, p.42 body, "inflatae' »"**: closing quotation of cited dictum "virtutes, cum ad se referuntur, superbae sunt et inflatae" — citation expected (likely Augustine, *De Civ. Dei* XIX.25 or Gregory, *Moralia*). Apparatus entry absent in raw OCR. → Resolve at decade-polish.
+- **bon-sent-I-d1-a3-q2, p.42 body, "anima ipsam ^ diligit"**: marker after *ipsam* — apparatus entry absent in raw OCR. → Resolve at decade-polish.
+- **bon-sent-I-d1-a3-q2, apparatus [^15], "ipsa, quod Vat."**: OCR line 15177 reads `Supplevimus cx mss. et ed. 1 ipsa, quod Vat.` and breaks before the next entry. Either `omittit` or `non habet` is the implied verb; rendered `[Vat. omittit]` with `[?]` flag. → Resolve at decade-polish via PDF p.41 footer eyes-on.
