@@ -15,7 +15,7 @@ line_end: 26511
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 114–115"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body (fundamenta arg 1 restored from Quaracchi p. 114), scholion Latin (2 sections on transitive construction + doctor consensus), English body (fresh), scholion English, 8-footnote apparatus (2026-04-13) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26256-26511), fresh literal English translation, full apparatus from raw OCR (13 entries from p.114-115 footer blocks plus p.116 footer entries 1-3 merged into next chunk's footer block in OCR), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline)"
 format_version: 1
 ---
 
@@ -30,27 +30,31 @@ format_version: 1
 
 ### Quaestio II
 
-*Utrum Filius dicatur genitus de substantia Patris, vel de aliquo alio.*
+*Utrum concedenda sit locutio, quod Filius generetur de substantia Patris.*
 
 Secundo quaeritur, utrum sit concedendum, quod aliquis generetur de substantia Patris, ut Filius. Et quod sic, videtur:
 
-**1.** Per multas auctoritates in littera et maxime per illam[^1]: *Dicitur quoque et frequenter in Scriptura legitur: Pater de sua substantia genuisse Filium*; sed Scriptura non dicit nisi verum nec frequentat nisi proprium: ergo praedictus sermo est verus et proprius.
+**1.** Per multas auctoritates in littera[^1] et maxime per illam: *Dicitur quoque et frequenter in Scriptura legitur: Pater de sua substantia genuisse Filium*;
+
+<!-- page 115 -->
+
+sed Scriptura non dicit nisi verum nec frequentat nisi proprium: ergo praedictus sermo est verus et proprius.
 
 **2.** Item, ratione ostenditur sic: quicumque est ab aliquo[^2] et est ei consubstantialis, est de eius substantia; sed Filius est a Patre et est ei consubstantialis: ergo est de eius substantia.
 
-**3.** Item, *Pater generat Filium*: aut ergo de aliquo, aut de nihilo; non de nihilo, quia tunc esset creatura: ergo de aliquo; non de aliquo alio a se: ergo de sui substantia.
+**3.** Item, *Pater generat Filium*: aut ergo de aliquo, aut de nihilo; non de nihilo, quia tunc esset creatura: ergo de aliquo[^3]; non de aliquo alio a se: ergo de sui substantia.
 
 **4.** Item, in inferioribus filius, qui habet partem substantiae a patre, dicitur esse *de substantia patris*: ergo multo fortius, qui habet totam substantiam, dicitur esse de substantia generantis: ergo haec est vera: *Filius est de substantia Patris*.
 
 *Contra:*
 
-**1.** Propositiones sunt transitivae[^3], et ubi transitio, ibi est distinctio et diversitas: ergo cum dicitur: *Filius de substantia Patris*, haec praepositio *de* notat distinctionem inter substantiam Patris et Filium: ergo cum nulla sit distinctio, quia Filius est substantia Patris, propositio praedicta est falsa.
+**1.** Propositiones sunt transitivae[^4], et ubi transitio, ibi est distinctio et diversitas: ergo cum dicitur: *Filius de substantia Patris*, haec praepositio *de* notat distinctionem inter substantiam Patris et Filium: ergo cum nulla sit distinctio, quia Filius est substantia Patris, propositio praedicta est falsa. Si dicas, quod haec praepositio *de* cadit a generali significato praepositionum, retinens speciale: ergo est ibi soloecismus[^5], sicut si dicatur *sublime volat* pro *sublimiter*, quod stultum est dicere.
 
-**2.** Item, praepositio *de*, prout accipitur specialiter, aliquando tenetur *materialiter*, ut *cultellus de ferro*; aliquando *ordinaliter*, ut *de mane fit meridies*[^4]; aliquando *originaliter*, ut *radius de sole* vel *splendor de igne*[^5]. Sed quocumque istorum modorum accipiatur, falsa est locutio: si materialiter, quia Filius caret materia; si ordinaliter, falsa, quia sensus est, quod Filius sit post Patrem; si originaliter, falsa, quia tunc est sensus, quod Filius habeat ortum a substantia Patris; sed ista non admittitur: *substantia Patris generat Filium*.
+**2.** Item, obiicitur de significato speciali. Haec praepositio *de*, prout accipitur specialiter, aliquando tenetur *materialiter*, ut *cultellus de ferro*; aliquando *ordinaliter*, ut *de mane fit meridies*, id est post mane; aliquando *originaliter*, ut si dicatur, *radius de sole* vel *splendor de igne*. Sed quocumque istorum modorum accipiatur, falsa est locutio: si materialiter, est falsa, quia Filius caret materia; si ordinaliter, falsa, quia sensus est, quod Filius sit post Patrem sive post substantiam Patris; si originaliter, similiter falsa quia tunc est sensus, quod Filius habeat ortum a substantia Patris; sed ista non admittitur: *substantia Patris generat Filium*: ergo est omni modo[^6] falsa. Si dicas, quod nullo istorum modorum, sed tenetur quarto modo *substantialiter*; quaeritur, unde ortum habeat haec significatio et ubi consimiliter accipiatur[^7]; et videtur quod hoc nihil sit, quia tunc haec esset vera: *Pater est de substantia Filii*, quam nemo concedit.
 
-**3.** Item, differt haec praepositio *de* et *a*: quia *a* proprie dicit habitudinem principii activi, sed *de* dicit habitudinem principii passivi; sed Deo et eius substantiae magis convenit ratio principii activi quam passivi: ergo haec est magis vera: *Filius est a substantia Patris*, quam *de*; sed haec non recipitur: ergo nec alia debet recipi.
+**3.** Item, hoc idem ostenditur sic: differt haec praepositio *de* et *a*: quia *a* proprie dicit habitudinem principii activi, sed haec praepositio *de* dicit habitudinem principii passivi; sed Deo et eius substantiae magis convenit ratio principii activi quam passivi: ergo haec est magis vera: *Filius est a substantia Patris*, quam *de*; sed haec non recipitur: ergo nec alia debet recipi.
 
-**4.** Item, *de* aut dicit identitatem aut diversitatem; si identitatem: ergo cum summa identitas sit in essentia vel substantia, haec erit vera: *substantia de substantia*, quam negat Magister; si diversitatem: sed non distinguitur substantia Patris a Filio, quia Filius est ipsa substantia Patris: ergo omnino est falsa.
+**4.** Item, *de* aut dicit identitatem aut diversitatem; si identitatem: ergo cum summa identitas sit in essentia vel substantia, haec erit vera: *substantia[^8] de substantia*, quam negat Magister; si diversitatem: sed non distinguitur substantia Patris a Filio, quia Filius est ipsa substantia Patris: ergo omnino est falsa.
 
 ### Conclusio
 
@@ -58,13 +62,13 @@ Secundo quaeritur, utrum sit concedendum, quod aliquis generetur de substantia P
 
 **Respondeo:** Dicendum, quod praedicta locutio est concedenda.
 
-Et ad intelligentiam praedictorum notandum, quod praeter praedictos tres modos, quibus haec praepositio *de* accipitur, quarto modo etiam potest accipi, scilicet *substantialiter*, ut dicat substantialem convenientiam inter extrema; sed hanc nunquam pure dicit, cum sit praepositio et importet aliquam habitudinem et respectum ad extrema. Si enim tantum substantialiter teneretur[^6], sicut dicitur: *filius de substantia patris*, ita diceretur: *pater de substantia filii*; quod absonum est.
+Et ad intelligentiam praedictorum[^9] notandum, quod praeter praedictos tres modos, quibus haec praepositio *de* accipitur, quarto modo etiam potest accipi, scilicet *substantialiter*, ut dicat substantialem convenientiam inter extrema; sed hanc nunquam pure dicit, cum sit praepositio et importet aliquam habitudinem et respectum ad extrema. Si enim tantum substantialiter teneretur[^10]; sicut dicitur: *filius de substantia patris*, ita diceretur: *pater de substantia filii*; quod absonum est.
 
-Propterea notandum, quod *substantialiter accipi* consuevit tripliciter. Aliquando accipitur *substantialiter et partialiter*, ut cum dicitur, quod partes sunt de toto sive de substantia totius, ut *urceus vini de dolio*. Aliquando accipitur *substantialiter et ordinaliter*, ut cum dicitur: *de pane fit corpus Christi*; ibi enim est[^7] ordo, quia substantia panis non manet in corpore Christi, sicut nec mane in meridie; sed ulterius substantialiter, quia substantia panis transit in substantiam corporis Christi. Aliquando accipitur[^8] *substantialiter et originaliter*, ut cum dicitur: *Filius de substantia Patris*; ratione ablativi tenetur substantialiter, ratione genitivi originaliter: et ideo importat aliquam distinctionem Filii ad Patrem, non ad eius substantiam, et ita praepositio tenet ibi generale significatum et speciale.
+Propterea notandum, quod *substantialiter accipi* consuevit tripliciter. Aliquando accipitur *substantialiter et partialiter*, ut cum dicitur, quod partes sunt de toto sive de substantia totius, ut *urceus vini de dolio*. Aliquando accipitur *substantialiter et ordinaliter*, ut cum dicitur: *de pane fit corpus Christi*; ibi enim est ordo, quia substantia panis non manet in corpore Christi, sicut nec mane in meridie; sed ulterius substantialiter, quia substantia panis transit in substantiam corporis Christi. Aliquando accipitur[^11] *substantialiter et originaliter*, ut cum dicitur: *Filius de substantia Patris*; ratione ablativi tenetur substantialiter, ratione genitivi originaliter: et ideo importat aliquam distinctionem Filii ad Patrem, non ad eius substantiam, et ita praepositio tenet ibi generale significatum et speciale.
 
-<!-- page 115 -->
+<!-- page 116 -->
 
-**1. 2.** Et sic patet responsio ad primum argumentum et secundum.
+**1. 2.** Et sic patet responsio ad primum argumentum et secundum. Tamen quod dicitur, quod praepositiones sunt transitivae, non intelligitur, quod notent ex hoc diversitatem necessario; sed sicut dicitur, quod obliqui[^12] sunt transitivi quantum ad modum; quia transitive construuntur cum verbis, ut, *video me*; similiter hoc de praepositionibus dicitur, quae[^13] cum obliquis construuntur.
 
 **3.** Patet etiam tertium, quod *de* non tantum dicit habitudinem principii passivi nec tantum habitudinem principii activi, sed habitudinem consubstantialem cum habitudine originis; quod non facit haec praepositio *a*; et ideo non est simile.
 
@@ -92,49 +96,49 @@ Ampliorem expositionem et applicationem huius solutionis exhibent Alex. Hal., *S
 
 ### Question II
 
-*Whether the Son is said to be begotten of the substance of the Father, or of anything else.*
+*Whether the expression should be conceded that the Son is begotten of the substance of the Father.*
 
-Second it is asked whether it is to be conceded that anyone is begotten of the substance of the Father, as the Son is. And it seems so:
+Secondly it is asked whether it should be conceded that anyone is begotten of the substance of the Father, as the Son is. And that it is so, it seems:
 
-**1.** By many authorities in the text and especially by this[^1]: *«It is said — and in Scripture it is frequently read — that the Father begot the Son from His own substance»*; but Scripture says only what is true, and uses frequently only what is proper: therefore the aforesaid statement is true and proper.
+**1.** By many authorities in the text[^1] and especially by this: *«It is also said, and frequently read in Scripture, that the Father begot the Son from His own substance»*; but Scripture says nothing except what is true, and uses frequently nothing except what is proper: therefore the aforesaid expression is true and proper.
 
-**2.** Likewise, it is shown by reason thus: whoever is from another[^2] and is consubstantial with him, is of his substance; but the Son is from the Father and is consubstantial with Him: therefore He is of His substance.
+**2.** Likewise, it is shown by reason thus: whoever is from something[^2] and is consubstantial with it, is of its substance; but the Son is from the Father and is consubstantial with Him: therefore He is of His substance.
 
-**3.** Likewise, *the Father begets the Son*: either, then, from something, or from nothing; not from nothing, because then He would be a creature: therefore from something; not from something other than Himself: therefore from His own substance.
+**3.** Likewise, *the Father begets the Son*: either, then, from something, or from nothing; not from nothing, because then He would be a creature: therefore from something[^3]; not from something other than Himself: therefore from His own substance.
 
-**4.** Likewise, among inferior beings a son who has a part of his father's substance is said to be *of the father's substance*: therefore much more strongly, one who has the whole substance is said to be *of the substance of the begetter*: therefore this is true: *the Son is of the Father's substance*.
+**4.** Likewise, among inferior beings a son who has a part of his father's substance is said to be *of the father's substance*: therefore much more strongly, one who has the whole substance is said to be *of the substance of the begetter*: therefore this is true: *the Son is of the substance of the Father*.
 
 *On the contrary:*
 
-**1.** Propositions are transitive[^3], and where there is transition, there is distinction and diversity: therefore when it is said *the Son from the Father's substance*, this preposition *from* (*de*) denotes a distinction between the Father's substance and the Son: therefore, since there is no distinction — because the Son *is* the Father's substance — the aforesaid proposition is false.
+**1.** Propositions are transitive[^4], and where there is transition, there is distinction and diversity: therefore when it is said *the Son of the substance of the Father*, this preposition *de* (of/from) denotes a distinction between the substance of the Father and the Son: therefore, since there is no distinction — because the Son *is* the substance of the Father — the aforesaid proposition is false. If you say that this preposition *de* falls from the general signification of prepositions, retaining the special: then there is here a solecism[^5], just as if one were to say *sublime volat* for *sublimiter* ("it flies sublime" for "sublimely"), which it is foolish to say.
 
-**2.** Likewise, the preposition *de*, as it is taken specially, is sometimes taken *materially* — as *a knife from iron*; sometimes *ordinally* — as *midday is from morning*[^4]; sometimes *originally* — as *a ray from the sun* or *splendor from fire*[^5]. But in whatever of these modes it is taken, the expression is false: if materially, because the Son lacks matter; if ordinally, false because the sense is that the Son is after the Father; if originally, false because then the sense is that the Son has His origin from the Father's substance — but this is not admitted: *«the Father's substance begets the Son»*.
+**2.** Likewise, an objection is made concerning the special signified meaning. This preposition *de*, as it is taken specially, is sometimes taken *materially*, as *a knife of iron*; sometimes *ordinally*, as *from morning comes midday*, that is, after morning; sometimes *originally*, as when it is said, *a ray from the sun* or *splendor from fire*. But in whatever of these modes it is taken, the expression is false: if materially, it is false because the Son lacks matter; if ordinally, false because the sense is that the Son is after the Father, or after the substance of the Father; if originally, similarly false because then the sense is that the Son has His origin from the substance of the Father — but this is not admitted: *«the substance of the Father begets the Son»*: therefore in every way[^6] it is false. If you say that it is taken in none of those modes, but is held in a fourth mode, *substantially*, it is asked whence this signification has its origin, and where it is similarly taken[^7]; and it seems that this is nothing, because then this would be true: *the Father is of the substance of the Son*, which no one concedes.
 
-**3.** Likewise, this preposition *de* differs from *a* (from): for *a* properly expresses the relation of an active principle, but *de* expresses the relation of a passive principle; but the account of an active principle belongs more to God and His substance than that of a passive: therefore this is more true: *the Son is from (a) the Father's substance*, than *of (de)*; but this is not received: therefore neither should the other be received.
+**3.** Likewise, the same is shown thus: this preposition *de* differs from *a* (from): for *a* properly expresses the relation of an active principle, but this preposition *de* expresses the relation of a passive principle; but the account of an active principle belongs more to God and His substance than that of a passive: therefore this is more true: *the Son is from (a) the substance of the Father*, than *of (de)*; but this is not received: therefore neither should the other be received.
 
-**4.** Likewise, *de* expresses either identity or diversity; if identity — then since the highest identity is in the essence or substance, this will be true: *substance of substance*, which the Master denies; if diversity — but the substance of the Father is not distinguished from the Son, because the Son is the very substance of the Father: therefore it is altogether false.
+**4.** Likewise, *de* expresses either identity or diversity; if identity — then since the highest identity is in the essence or substance, this will be true: *substance[^8] of substance*, which the Master denies; if diversity — but the substance of the Father is not distinguished from the Son, because the Son is the very substance of the Father: therefore it is altogether false.
 
 ### Conclusion
 
-> *It is to be conceded that the Son is begotten from the substance of the Father.*
+> *It is to be conceded that the Son is begotten of the substance of the Father.*
 
 **I respond:** It must be said that the aforesaid expression is to be conceded.
 
-For understanding the foregoing, it should be noted that besides the three aforementioned modes in which this preposition *de* is taken, it can also be taken in a fourth mode — namely *substantially* — so that it expresses a substantial agreement between the extremes. But it never says this purely, since it is a preposition and imports some relation and respect to the extremes. For if it were taken only substantially[^6] — as it is said *son from the father's substance*, so it would be said *father from the son's substance*, which is absurd.
+And for the understanding of the foregoing[^9] it should be noted that besides the three aforementioned modes in which this preposition *de* is taken, it can also be taken in a fourth mode, namely *substantially*, so that it expresses a substantial agreement between the extremes. But it never says this purely, since it is a preposition and imports some relation and respect to the extremes. For if it were held only substantially[^10], as it is said *son from the substance of the father*, so it would be said *father from the substance of the son*; which is absurd.
 
-Therefore it should be noted that *to be taken substantially* is of three kinds. Sometimes it is taken *substantially and partially*, as when it is said that parts are *of the whole* or of the substance of the whole, as *a jug of wine from the barrel*. Sometimes it is taken *substantially and ordinally*, as when it is said *the body of Christ is made from bread*; for there is[^7] order, because the substance of bread does not remain in the body of Christ, just as morning does not remain in midday — but further substantially, because the substance of bread passes into the substance of the body of Christ. Sometimes it is taken[^8] *substantially and originally*, as when it is said *the Son from the substance of the Father*; by reason of the ablative it is taken substantially, by reason of the genitive originally. And therefore it imports some distinction of the Son to the Father, not to His substance — and so the preposition here holds its general signified meaning together with its special one.
+Therefore it should be noted that *to be taken substantially* is customary in three ways. Sometimes it is taken *substantially and partially*, as when it is said that parts are *of the whole* or of the substance of the whole, as *a jug of wine from the cask*. Sometimes it is taken *substantially and ordinally*, as when it is said: *from bread is made the body of Christ*; for there is order there, because the substance of the bread does not remain in the body of Christ, just as morning does not remain at midday; but further substantially, because the substance of the bread passes into the substance of the body of Christ. Sometimes it is taken[^11] *substantially and originally*, as when it is said: *the Son of the substance of the Father*; by reason of the ablative it is held substantially, by reason of the genitive originally: and therefore it imports some distinction of the Son to the Father, not to His substance, and so the preposition there holds its general signified meaning together with its special one.
 
-**1., 2.** From this is clear the response to the first and second arguments.
+**1. 2.** And so the response to the first and second arguments is clear. Yet as to what is said, that prepositions are transitive — it is not understood that they thereby denote diversity necessarily; but just as it is said that oblique [cases][^12] are transitive as to manner, because they are construed transitively with verbs, as *I see myself*; likewise this is said of prepositions, which[^13] are construed with oblique cases.
 
-**3.** The third is also clear: that *de* does not express only the relation of a passive principle, nor only the relation of an active principle, but a consubstantial relation together with the relation of origin — which this preposition *a* does not do; and therefore they are not alike.
+**3.** The third is also clear: that *de* expresses not only the relation of a passive principle, nor only the relation of an active principle, but a consubstantial relation together with the relation of origin — which this preposition *a* does not do; and therefore they are not alike.
 
-**4.** To the last objection the response is clear, because *de* there does not express identity at all, nor diversity, but *consubstantiality with the relation of origin*.
+**4.** To that which is last objected, the response is clear, because *de* there does not express identity at all, nor diversity, but *consubstantiality with the relation of origin*.
 
 ### Scholion
 
 **I.** For the understanding of certain terms occurring in the reply to 1 and elsewhere, we note the following from the ancient grammarians.
 
-1. A twofold *transitive* construction was distinguished — namely of *acts* and of *persons*. In the first, the dependent constructible signifies in the manner of an *act*, as in transitive verbs — e.g. *I read a book*; the second is that in which the dependent constructible signifies in the manner of a *substance*. This occurs either by oblique cases (e.g. *Socrates's son*; *similar to Cicero*) or also by prepositions — which are therefore called transitive. See Scotus, *Grammatica speculativa*, cc. 46–51, who discusses this subtly.
+1. A twofold *transitive* construction was distinguished, namely both of *acts* and of *persons*. In the first, the dependent constructible signifies in the manner of an *act*, as in transitive verbs, e.g. *I read a book*; the second is that in which the dependent constructible signifies in the manner of a *substance*. This occurs either by oblique cases (e.g. *Socrates's son*; *similar to Cicero*) or also by prepositions, which are therefore called transitive. See Scotus, *Grammatica speculativa*, cc. 46–51, who discusses this subtly.
 
 2. A *transitive* construction, according to the ancient definition, is one in which the constructibles pertain to diverse things, or seem to pertain to diverse things; an *intransitive* is one in which the constructibles pertain to the same thing, or at least seem to pertain to the same.
 
@@ -152,26 +156,41 @@ A fuller exposition and application of this solution is given by Alexander of Ha
 
 > The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi critical apparatus in Latin, followed by an English rendering.
 
-[^1]: **La.** Textum Magistri vide in lit. c. 1 et 2 circa finem. Ipsa verba *Pater de sua substantia genuit Filium* apud Augustinum crebrius recurrunt, e. gr. XV *de Trin.* c. 20, n. 38.
-    **En.** See the Master's text in littera c. 1 and 2 near the end. The words «the Father begot the Son from His own substance» recur frequently in Augustine — e.g. *de Trin.* XV, c. 20, n. 38.
+[^1]: **La.** Hic c. 1 post medium.
+    **En.** Here [in the *Sentences* text, distinction 5] c. 1, after the middle.
 
-[^2]: **La.** Ex fere omnibus codd. et ed. 1 substituimus *aliquo* pro *alio*. Paulo infra nonnulli codd. ut K V W X post *modorum* addunt *tenetur*.
-    **En.** From nearly all the codd. and ed. 1 we have substituted *aliquo* («from something») for *alio*. A little later, several codd. (K V W X) after *modorum* add *tenetur*.
+[^2]: **La.** Ex fere omnibus codd. et ed. 1 substituimus *aliquo* pro *alio*.
+    **En.** From nearly all the codd. and ed. 1 we have substituted *aliquo* ("from something") for *alio* ("from another").
 
-[^3]: **La.** Cfr. Priscian., XIV *Grammat.* c. 1 seqq. — Mox post *ibi* Vat. habet *etiam est* loco *et*. Paulo infra ed. 1 verbo *nulla* praemittit satis bene *in substantia*.
-    **En.** Cf. Priscian, *Institutes of Grammar* XIV, c. 1 ff. — Next, after *ibi* the Vatican ed. reads *etiam est* in place of *et*. A little later, ed. 1 prefixes *in substantia* before the word *nulla*, suitably.
+[^3]: **La.** Vat. contra plurimos codd. et ed. 1 addit *et*, pro quo cod. A melius habet *sed*.
+    **En.** The Vatican ed., against most codd. and ed. 1, adds *et*; for which cod. A better reads *sed*.
 
-[^4]: **La.** Priscian., XV *Grammat.* c. 1: *Nam si (ordinatio partium orationis) incongrua sit, soloecismum faciet, quasi elementis orationis inconcinne coeuntibus*.
+[^4]: **La.** Cfr. Priscian., XIV *Grammat.* c. 1 seqq. — Mox post *ibi* Vat. habet *etiam est* loco *et*. Paulo infra ed. 1 verbo *nulla* praemittit satis bene *in substantia*.
+    **En.** Cf. Priscian, *Institutes of Grammar* XIV, c. 1 ff. — Next, after *ibi* the Vatican ed. has *etiam est* in place of *et*. A little later, ed. 1 prefixes *in substantia* before the word *nulla*, suitably enough.
+
+[^5]: **La.** Priscian., XV *Grammat.* c. 1: *Nam si (ordinatio partium orationis) incongrua sit, soloecismum faciet, quasi elementis orationis inconcinne coeuntibus*.
     **En.** Priscian, *Institutes of Grammar* XV, c. 1: «For if [the ordering of the parts of speech] is incongruous, it will produce a solecism, as when the elements of speech come together inelegantly».
 
-[^5]: **La.** Similia habet Aristot., V *Metaph.* text. 29 (IV, 24), de praepositione *ex*.
-    **En.** Aristotle has similar things, *Metaphysics* V, text 29 (IV, 24), on the preposition *ex* («out of»).
+[^6]: **La.** Plures codd. ut A F H K T Y etc. cum ed. 4 *omni modo*, Vat. *omnino*. — Similia habet Aristot., V *Metaph.* text. 29 (IV, 24) de praepositione *ex*. — Paulo infra nonnulli codd. ut K V W X post *modorum* addunt *tenetur*.
+    **En.** Several codd. (A F H K T Y etc.) with ed. 4 read *omni modo* ("in every way"), Vat. *omnino* ("altogether"). — Aristotle has similar things, *Metaphysics* V, text 29 (IV, 24), on the preposition *ex* ("out of"). — A little later, several codd. (K V W X) after *modorum* add *tenetur*.
 
-[^6]: **La.** Vat. contra mss. et ed. 1 *similiter accipitur*.
-    **En.** The Vatican ed., against the mss. and ed. 1, reads *similiter accipitur*.
+[^7]: **La.** Vat. contra mss. et ed. 1 *similiter accipitur*.
+    **En.** The Vatican ed., against the mss. and ed. 1, reads *similiter accipitur* ("is similarly taken").
 
-[^7]: **La.** Aliqui codd. ut T V addunt *est*.
+[^8]: **La.** Vat. praeter fidem mss. et ed. 1 addit *est*. Textum Magistri vide in lit. c. 1 et 2 circa finem.
+    **En.** The Vatican ed., contrary to the testimony of the mss. and ed. 1, adds *est*. For the Master's text see in *littera* c. 1 and 2 near the end. [?]
+
+[^9]: **La.** Aliqui codd. ut T V addunt *est*.
     **En.** Some codd. (T V) add *est*.
 
-[^8]: **La.** Substituimus ex codd. et ed. 1 *accipitur* pro *dicitur*. Paulo infra post *Filius* cod. V addit *est*.
-    **En.** From the codd. and ed. 1 we have substituted *accipitur* for *dicitur*. A little later, after *Filius*, cod. V adds *est*.
+[^10]: **La.** Vat., obnitentibus mss. et ed. 1, minus bene *tenetur*.
+    **En.** The Vatican ed., against the mss. and ed. 1, less well reads *tenetur* ("is held").
+
+[^11]: **La.** Substituimus ex codd. et ed. 1 *accipitur* pro *dicitur*. Paulo infra post *Filius* cod. V addit *est*.
+    **En.** From the codd. and ed. 1 we have substituted *accipitur* ("is taken") for *dicitur* ("is said"). A little later, after *Filius*, cod. V adds *est*.
+
+[^12]: **La.** Supple: *casus*. — Paulo infra plures codd. ut A C F G H K L O R S V X etc. cum edd. 2, 3, 4, 5, 6 *videt me* pro *video me*, sed non bene.
+    **En.** Supply: *casus* ("[oblique] cases"). — A little later, several codd. (A C F G H K L O R S V X etc.) with edd. 2, 3, 4, 5, 6 read *videt me* ("he sees me") for *video me* ("I see myself"), but not well.
+
+[^13]: **La.** Vat. praeter fidem antiquiorum mss. et ed. 1 adiungit *etiam*. Cod. H *quia* loco *quae*.
+    **En.** The Vatican ed., contrary to the testimony of the older mss. and ed. 1, adds *etiam*. Cod. H reads *quia* in place of *quae*.
