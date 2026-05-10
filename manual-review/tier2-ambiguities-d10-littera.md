@@ -21,3 +21,7 @@ Resolution method per CLAUDE.md polish-blocker cadence: `pdftoppm -r 600 -f 295 
 The d.10 littera chunk is otherwise body-clean (verbatim from OCR pp. 192 lines 37971–38040 and p. 193 lines 38110–38198). No body-text `[?]` flags raised — only apparatus tail-truncation `[?]` flags. The chunk's Latin and English bodies render correctly; only the apparatus footer text is provisional pending PDF resolution.
 
 When the d.41–d.50 decade polish runs, the seven `[?]` items above can be resolved together via a single PDF p. 295 read.
+
+## 2026-05-10 from-scratch rebuild
+
+Chunk rebuilt from raw OCR (lines 37971–38198) under the d.1–d.10 rechunk pipeline. Apparatus now totals **22 entries** (13 from p.192 footer block — 3 above-NOTAE textual variants on Master's text + 10 below-NOTAE reference notes; 9 from p.193 footer block). Eleven `[?]` flags inline on apparatus entries [^6], [^14], [^19] (×2), [^20] (×3), [^21] (×2), [^22] (×3) covering p.193 OCR scan damage at raw lines 38217–38239 (truncated tails: *subsisti·*, *suntque/Spiritus*, *quomodo Deus dilectio est si non est*, *ineffabilem/ineffabiliter*, Codex C *brevius* clause). Carryover: resolve at d.41–d.50 polish via 600dpi PDF p.295 read. All three audits clean (paraphrase 0/0, headers no flag, apparatus diff −6 with no flag).
