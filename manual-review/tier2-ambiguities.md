@@ -357,3 +357,7 @@ The chunk OCR was unusually clean once marginals were stripped; no genuine `[?]`
 ## bon-sent-I-d5-littera (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)
 
 No `[?]` flags placed inline. The Lombard text on Distinction V is well preserved in the Quaracchi OCR; all marker-position attachments resolved cleanly against the per-page footer numbering (p.108 = 14, p.109 = 11, p.110 = 14; total 39 entries). OCR garbles in the apparatus block (e.g. *supernue* for *supervacue*, *anle* for *ante*, *Trinilate* for *Trinitate*, *insiimatione* for *insinuatione*, *piaesentlie- seos* for *parentheseos*) were silently corrected where the printed-Latin intent was unambiguous. No flagged residues.
+
+**d6-a1-q1, arg. 2 / apparatus [^2]**: OCR `emanat alj alio ^` and footer `Nonnulli codd. ut KWXY ee aliqm pro alio`. The variant reading `ee aliqm` looks corrupt (likely `ex aliquo` or `ab aliquo`). → Rendered as printed `ee aliquo` with [?]; needs PDF eyes-on at p.125 footer fn 2.
+**d6-a1-q1, apparatus [^12]**: OCR `quae in praecedentibus taclai'` — last word truncated/garbled at line break. Likely `tactae sunt` or `tactae`. → Rendered `tactae [sunt]` with [?]; PDF check at p.126 footer fn 4 needed.
+**d6-a1-q1, scholion II**: OCR ends `B. Albert., hic` mid-sentence (line 28041) and the next line begins page 126 footer block, suggesting scholion II continues but is cut at the chunk boundary at line 28085. → Rendered with trailing [?]; the full citation list may extend onto p.127 in raw OCR — pending verification once d.6 a.1 q.2 chunk is built.
