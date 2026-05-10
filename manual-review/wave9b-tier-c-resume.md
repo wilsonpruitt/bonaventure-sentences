@@ -1,5 +1,146 @@
 # Wave 9b Tier C — resume document
 
+Created 2026-05-09 at the close of Wave 9b Tier B. **CAMPAIGN CLOSED
+2026-05-10** — see "Pivot 2026-05-10" section at the top before reading
+the rest of this file.
+
+## Pivot 2026-05-10 — d.1-d.10 verify-each campaign abandoned, moved to d.31+ rechunk pipeline
+
+### What happened
+
+Wave A1 + A2 of the d.1-d.10 residual re-verification campaign ran 6
+chunks total (after the d6-a1-q2 spot-check that opened the campaign).
+Result: **0 ACCEPT / 2 REBUILD / 3 BODY-PARAPHRASED / 1 HALT.**
+
+| Wave | Chunk | Banded | Disposition |
+|---|---|---|---|
+| Spot | d6-a1-q2 | +5 | REBUILD (7→21) |
+| A1 | d7-a1-q4 | +15 | BODY-PARAPHRASED (obj 1 wholly paraphrased; 3 fabricated [^N]) |
+| A1 | d8-p2-a1-q1 | +15 | REBUILD (7→23) |
+| A1 | d5-a2-q1 | +13 | BODY-PARAPHRASED (Respondeo truncated; "Ad 1...Ad 4" replies fabricated) |
+| A2 | d2-a1-q4 | +11 | HALT — body has 3 missing paragraphs, prior "body verified solid 2026-05-09" claim was wrong |
+| A2 | d7-a1-q3 | +9 | BODY-PARAPHRASED (Replies 1-2 paraphrased) |
+| A2 | d8-p2-dubia | +9 | REBUILD (6→21) |
+
+**7 of 7 chunks needed work. Zero overcount-only.** Pattern is
+structural, not edge-case: fabricated `[^N]` cross-refs, fabricated
+"Ad 1...Ad 4" reply blocks, paraphrased objections, silently elided
+body paragraphs, misplaced page markers, bad footer numerals, bad
+`printed_pages` frontmatter (d7-a1-q4: 143-144 should be 142-143-144).
+
+### Why we stopped
+
+Each verification pass surfaced issues the prior pass didn't catch:
+
+- d6 spot-check found apparatus rot.
+- d6 rebuild surfaced page-marker rot, body-elision rot, footer-numeral rot.
+- Wave A1 surfaced fabricated reply blocks.
+- Wave A2 surfaced 3 missing body paragraphs in a chunk that was
+  supposedly diff-checked against the PDF the day before.
+
+The audit tools we built (banded detector, triage estimator) measure
+narrower phenomena than the actual rot. Verification cost approached
+rebuild cost AND verification was unreliable (d2-a1-q4 prior verification
+was wrong). Each wave expanded scope rather than closing it.
+
+User signal 2026-05-10: *"The churn of verification has sucked up twice
+as much usage as the d.31+ method and it doesn't feel like we are closer
+to resolution. Each wave flags new issues."*
+
+### What replaces it
+
+**d.1-d.10 moves into the d.31+ rechunk pipeline.** Same method that
+shipped d.34-d.40 in one push 2026-05-07: re-chunk from raw OCR,
+parallel translation waves, Tier-2 promote.
+
+Concretely:
+
+- **Keep as Tier-2 confirmed** (rebuilt 2026-05-10, real work):
+  - `d6-a1-q2` (committed 2026-05-10, commit `c748e0d`)
+  - `d8-p2-a1-q1` (Wave A1 rebuild — see commit alongside this doc)
+  - `d8-p2-dubia` (Wave A2 rebuild — see commit alongside this doc)
+- **Keep as Tier-2 confirmed** (zero-apparatus, audited clean
+  2026-05-10): `d1-commentary`, `d10-commentary`, `d5-divisio`.
+  These have honest `has_apparatus: false` frontmatter.
+- **Keep flagged** (already demoted to `apparatus-incomplete +
+  body-paraphrased`, deferred to body-paraphrase initiative):
+  `d2-a1-q4`, `d4-a1-q4`, `d5-a1-q1`, `d5-a2-q1`, `d7-a1-q2`,
+  `d7-a1-q3`, `d7-a1-q4`. These need body rebuild from raw OCR; in
+  the new strategy the rebuild IS the rechunk.
+- **Discard body + apparatus on the remaining ~76 chunks**, keep
+  filenames + frontmatter scope. Replace body Latin / body English /
+  apparatus from raw OCR using the d.31+ method.
+- **Cohort flag stays in place** for the 76 unverified chunks until
+  rechunk replaces them. No demotion tool needed.
+
+### What NOT to do (anti-patterns from the campaign)
+
+- ❌ Don't dispatch Wave A3-A5. The cohort is being rebuilt; verifying
+  individual chunks before discarding their content is wasted work.
+- ❌ Don't run the d.1-d.10 banded triage. Same reason.
+- ❌ Don't trust prior "body verified" claims on d.1-d.10 chunks
+  (d2-a1-q4 demonstrated the verification was unreliable).
+- ❌ Don't try to repair chunks in place. The corruption is structural
+  (LLM-fabricated content rather than transcription); repair surface
+  area is worse than rebuild surface area.
+
+### Files surviving the pivot
+
+- `tools/audit-apparatus-count-banded.py` — useful for future Tier-2
+  verification on chunks built via the d.31+ method. Keep.
+- `tools/add-d1-d10-cohort-flag.py` — `--undo` mode strips flag from a
+  single chunk; rechunk pipeline can call this as it promotes each
+  chunk to fresh Tier-2.
+- `manual-review/wave9b-tier-c-triage-banded.md` — keep as historical
+  record of the heuristic's limits.
+- `manual-review/d1-d4-tier2-promotion-log.md` — Lessons 7-11 still
+  load-bearing for future Tier-2 work.
+- `_backup-d8-p2-a1-q1-pre-rebuild-20260510/`,
+  `_backup-d8-p2-dubia-pre-rebuild-20260510/` — pre-rebuild snapshots
+  for diff reference.
+
+### Outstanding outside-d.1-d.10 items (still real)
+
+- `d36-divisio` frontmatter bounds bug (line range 20165-20520 spans
+  non-contiguous content; chunk's actual scope ~80 lines). Tighten
+  line bounds OR extend chunk schema for multi-range coverage. NOT
+  d.1-d.10; outlives this pivot.
+- d.41+ chunking still blocked by polish discipline
+  (`feedback_bonaventure-guard-rail-discipline.md`).
+- Body-paraphrase corpus audit tool (Lesson 11 follow-up) — chunk
+  Latin body length per printed-page vs raw OCR per-page line counts;
+  flag chunks < ~70%. Low priority now that d.1-d.10 is moving to
+  rebuild rather than detection.
+
+### Confirm starting state (next session)
+
+```bash
+cd /Users/wilsonpruitt/bonaventure-sentences
+git log --oneline -3
+# expect (after pivot commit):
+#   <hash> Wave 9b campaign closed: pivot d.1-d.10 to d.31+ rechunk pipeline
+#   4b5cbf8 d.1-d.10 Wave 9b residual campaign: pre-campaign cohort flag
+#   c748e0d Rebuild d6-a1-q2 apparatus 7 -> 21 entries
+
+git status  # clean
+
+# Cohort flag still on the 76 unverified chunks:
+grep -l "Wave 9b residual re-verification campaign" vol1/*.md | wc -l
+# expect: ~76 (84 minus the chunks the campaign edited 2026-05-10)
+```
+
+### First move next session
+
+Open the d.31+ rechunk playbook (start with d.34-d.40 commit history as
+template — see memory `bonaventure-sentences.md`). Pick a wave size of
+2-3 distinctions, parallel-translate, Tier-2 promote. Don't open this
+file again unless something below the pivot section is needed for
+historical context.
+
+----
+
+## (Historical record — Wave 9b Tier C dispatch + sample-validate. Above pivot supersedes.)
+
 Created 2026-05-09 at the close of Wave 9b Tier B. **Updated 2026-05-10**
 after sample-validate (10 chunks) + per-page footer-band detector built.
 This is the queue for the next session.

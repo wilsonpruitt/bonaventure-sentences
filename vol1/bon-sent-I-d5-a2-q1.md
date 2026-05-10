@@ -15,7 +15,7 @@ line_end: 26785
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 115–117"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, scholion Latin (2 sections incl. Joachim ref + Richard quotation), English body (fresh), scholion English, 7-footnote apparatus (2026-04-13) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
+transcription_status: "Phase C Tier 2 apparatus-incomplete + body-paraphrased — Latin body diverges from raw OCR (arguments 1-4 substantively rewritten/condensed, Respondeo truncated mid-passage dropping 'Sed quoniam in creaturis...' through closing 'procedunt rationes ad partes oppositas', individual replies 'Ad 1...Ad 4' fabricated where Bonaventure wrote a single closing 'Et sic patent omnia obiecta...procedunt enim diversis viis'); apparatus 7 entries vs ~10 in raw footer; deferred to body-paraphrase corpus initiative (re-verification 2026-05-10)"
 format_version: 1
 ---
 

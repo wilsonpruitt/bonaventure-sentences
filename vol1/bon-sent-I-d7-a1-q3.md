@@ -15,7 +15,7 @@ line_end: 30467
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 141–142"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, scholion Latin (already done), full English body, scholion English, 5-footnote apparatus (Augustine de Trin VII, Aristotle de Anima II, cross-refs to d. 20) (2026-04-13) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
+transcription_status: "Phase C Tier 2 apparatus-incomplete + body-paraphrased — Wave 9b re-verification 2026-05-10 found Replies 1 and 2 paraphrased / silently summarized (Reply 1 drops Augustine alietate-rationis exposition + cross-ref to d.5; Reply 2 replaces Quaracchi 'completionem ab obiectis' / 'se ipso agit' argument with a generic simplicity gloss) and apparatus has only 5 of ~18 ground-truth Quaracchi footer entries (p.141 = 14 entries, p.142 q.3-portion = 4 entries; chunk 5 are partially fabricated cross-refs not present in raw OCR footer). Demoted pending body-paraphrase corpus initiative; do NOT rebuild apparatus until body re-set verbatim from raw OCR (lines 30261-30467) per Lesson 11. (2026-04-13 original; 2026-05-10 demoted)"
 format_version: 1
 ---
 

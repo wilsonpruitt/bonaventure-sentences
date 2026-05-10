@@ -15,7 +15,7 @@ line_end: 30741
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 143–144"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body, scholion Latin (already done), full English body, scholion English, 3-footnote apparatus (Augustine de Doctrina, cross-refs to d. 1 and d. 42) (2026-04-13) [d.1-d.10 Wave 9b residual re-verification campaign 2026-05-10 — apparatus completeness pending]"
+transcription_status: "Phase C Tier 2 apparatus-incomplete + body-paraphrased — Latin objections paraphrased rather than transcribed from OCR (e.g. obj. 1 invents 'Generatio dicit productionem ad similitudinem naturae...' where OCR has 'Quia quamvis idem sit generare et creare quantum ad principale significatum...'); apparatus has 3 fabricated cross-ref entries vs 19 ground-truth Quaracchi footers (9 page 142 + 10 page 143); scholion has only section III, missing I, II, IV; printed_pages frontmatter [143,144] also missing page 142 where QUAESTIO IV opens; deferred to body-paraphrase corpus initiative; do not rebuild apparatus until body re-transcribed (re-verified 2026-05-10)"
 format_version: 1
 ---
 
