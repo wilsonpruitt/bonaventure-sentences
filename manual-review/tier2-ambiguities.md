@@ -361,3 +361,19 @@ No `[?]` flags placed inline. The Lombard text on Distinction V is well preserve
 **d6-a1-q1, arg. 2 / apparatus [^2]**: OCR `emanat alj alio ^` and footer `Nonnulli codd. ut KWXY ee aliqm pro alio`. The variant reading `ee aliqm` looks corrupt (likely `ex aliquo` or `ab aliquo`). → Rendered as printed `ee aliquo` with [?]; needs PDF eyes-on at p.125 footer fn 2.
 **d6-a1-q1, apparatus [^12]**: OCR `quae in praecedentibus taclai'` — last word truncated/garbled at line break. Likely `tactae sunt` or `tactae`. → Rendered `tactae [sunt]` with [?]; PDF check at p.126 footer fn 4 needed.
 **d6-a1-q1, scholion II**: OCR ends `B. Albert., hic` mid-sentence (line 28041) and the next line begins page 126 footer block, suggesting scholion II continues but is cut at the chunk boundary at line 28085. → Rendered with trailing [?]; the full citation list may extend onto p.127 in raw OCR — pending verification once d.6 a.1 q.2 chunk is built.
+
+## d.7 divisio (2026-05-10 from-scratch rebuild)
+
+**bon-sent-I-d7-divisio, body line ~"utrum [potentia] generandi sit in Filio"**: OCR raw line 29126 reads `utrum / generandi sit in Filio` with the noun apparently missing across the column break (lines 29125-29126: `Filius possit generare ; in secunda , utrum / generandi sit in Filio`). Context demands *potentia*. → Rendered `[potentia]` editorially supplied with [?]; PDF p.134 col. 2 eyes-on at 600dpi to confirm.
+**bon-sent-I-d7-divisio, apparatus [^5]**: OCR raw line 29289 `qui et pro genmdium ponunt germdimm` — both terms OCR-garbled. Quaracchi typically distinguishes *gerundium* vs *gerundivum*. → Rendered as `*gerundium* / *gerundivum*` with [?]; PDF p.135 footer note 5 eyes-on at 600dpi to confirm direction of variant.
+**bon-sent-I-d7-divisio, p.134 footer block (raw lines 29133-29170)**: An additional ~10-11 textual-variant footer entries (markers 1-11 with `aliquam`, `accipiatur`, `Mendum Vat. omittentis`, `repetunt ex`, `Dist. XXVI`, etc.) belong to the page 134 footer apparatus, but their body anchors were lost in the OCR for the divisio's opening lines (29109-29132). → Currently rendering only the 8 anchored entries from p.135 footer. p.134 footer entries pending PDF eyes-on to identify body anchors and integrate.
+
+## d.7 littera (2026-05-10 from-scratch rebuild)
+
+**bon-sent-I-d7-littera, apparatus [^11]**: OCR raw lines 29137-29139 read `Mendum Vat. omittentis ; / 1,2,3,5,6,8,9,10. Paulo / •loco Potest ergo.` — the word being omitted (semicolon glyph followed by what should be a Latin word or particle) is OCR-garbled across a column break. → Rendered `Mendum Vat. omittentis [?]` with editorial flag; PDF p.133 footer note 3 eyes-on at 600dpi to identify the omitted lemma.
+
+## bon-sent-I-d7-dubia (2026-05-10 from-scratch rebuild)
+
+**d.7-dubia, Dub. VII tail (raw lines 31005-31015)**: OCR of the closing sentence is fragmented across stub-columns: `potentia potest in- / telligi ovi / formaliter, et / tem modo non / et sic est in solo Patre; vel / sic ponitur esse in Filio; alio au- / tem modo non`. Word "ovi" between "intelligi" and "formaliter" is unrecoverable from OCR; likely a corrupted adverb (possibly *uno modo* / *aliter*). Currently rendered with [?] flags at three points. → Resolve via 600dpi PDF p.146 (PDF p.248) eyes-on read.
+
+**d.7-dubia, Dub. IV apparatus note 12 (p.146 footer line 30971)**: footer ends mid-sentence `ponit loco` with no further text in OCR before next note. The completing word (e.g. *hypostasim*, repeated) is cut. → Resolve via 600dpi PDF; flagged [?] in note body.
