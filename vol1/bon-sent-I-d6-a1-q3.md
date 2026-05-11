@@ -15,7 +15,7 @@ line_end: 28639
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 129–130"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 28416-28639), fresh literal English translation, full apparatus from raw OCR (12 entries from p.129 footer block; p.130 footer block not preserved in OCR — body markers retained with [?] flags), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 28416-28639), fresh literal English translation, full apparatus from raw OCR (12 entries from p.129 footer block; p.130 footer block not preserved in OCR — body markers retained with [?] flags), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.130 footer band reconstructed from 600dpi PDF eyes-on (raw/vision/vol1/p-130.png); recovered 7 entries; resolved 7 [?] flags (footer note 8 on p.130 belongs to the d6-dubia chunk — DUB. I begins on p.130, not anchored here)"
 format_version: 1
 ---
 
@@ -170,30 +170,30 @@ The sense of this question is, whether the Son is produced according to the mann
 
     **En.** We follow many codices such as FGHIKSTY etc. with the first edition by putting *exemplaritatis* in place of *exemplantis*; the reading received into the text corresponds better to the context. A little below, some manuscripts with the first edition read *dicitur* in place of *videtur*. Soon, with the help of older manuscripts and the first edition, we have added *Pater* after *loquitur*.
 
-[^13]: **La.** [?] *de Trinitate* lib. VI; OCR of p. 130 footer block missing — see PDF p. 130 (PDF p. 232) for the verbatim Quaracchi entry. Standard reference: Augustine, *de Trin.* VI, c. 10, n. 11, "Ars quaedam omnipotentis atque sapientis Dei plena omnium rationum viventium incommutabilium."
+[^13]: **La.** Cap. 10. n. 11: *Ars quaedam omnipotentis atque sapientis Dei, plena omnium rationum viventium incommutabilium.* S. Thomas, QQ. disp. de Ver. q. 3. a. 1 proxime sequentem propositionem ita exhibet: *Augustinus dicit in libro de Civ. Dei: Qui negat ideas esse infidelis est, quia negat Filium esse.*
 
-    **En.** [?] *On the Trinity*, bk. VI; the OCR of the p. 130 footer block is missing — see PDF p. 130 (PDF p. 232) for the verbatim Quaracchi entry. The standard reference is Augustine, *On the Trinity* VI, c. 10, n. 11.
+    **En.** [Augustine, *On the Trinity* VI,] c. 10, n. 11: "A certain art of the omnipotent and wise God, full of all the living unchangeable rationes." Thomas, *Disputed Questions on Truth* q. 3, a. 1, presents the immediately following proposition thus: *Augustine says in the book On the City of God: He who denies that the ideas exist is unbelieving, because he denies that the Son exists.*
 
-[^14]: **La.** [?] OCR of p. 130 footer block missing for this body marker — see PDF p. 130 (PDF p. 232).
+[^14]: **La.** Vat. praeter fidem mss. et sex primarum edd. *ille modus producendi*, sed minus iuste.
 
-    **En.** [?] The OCR of the p. 130 footer block is missing for this body marker — see PDF p. 130 (PDF p. 232).
+    **En.** The Vatican edition, against the witness of the manuscripts and of the six first editions, reads *ille modus producendi* ("that manner of producing"), but less rightly.
 
-[^15]: **La.** [?] OCR of p. 130 footer block missing for this body marker — see PDF p. 130 (PDF p. 232).
+[^15]: **La.** Vat. *respondendum*, sed obstant mss. cum edd. 1, 2, 3, 6.
 
-    **En.** [?] The OCR of the p. 130 footer block is missing for this body marker — see PDF p. 130 (PDF p. 232).
+    **En.** The Vatican edition reads *respondendum*, but the manuscripts together with editions 1, 2, 3, and 6 stand against it.
 
-[^16]: **La.** [?] OCR of p. 130 footer block missing for this body marker — see PDF p. 130 (PDF p. 232).
+[^16]: **La.** Supple cum codd. IZ *Filius*. Mox ex antiquis mss. et ed. 1 substituimus *per* loco *secundum*. Paulo infra ed. 1 satis bene *prout est* pro *quod est*. Dein multi codd. cum ed. 1 *sunt* loco *sumuntur*. Mox codd. LO post *imaginis* addunt *et hoc sunt primae rationes*.
 
-    **En.** [?] The OCR of the p. 130 footer block is missing for this body marker — see PDF p. 130 (PDF p. 232).
+    **En.** Supply *Filius* with codices IZ. Soon thereafter, on the authority of older manuscripts and of the first edition, we have substituted *per* in place of *secundum*. A little below, the first edition reads, well enough, *prout est* in place of *quod est*. Then many codices together with the first edition read *sunt* in place of *sumuntur*. Soon thereafter, codices LO add after *imaginis* the words *et hoc sunt primae rationes* ("and these are the first rationes").
 
-[^17]: **La.** [?] OCR of p. 130 footer block missing — Altissiodorensis (William of Auxerre), *Summa aurea*, lib. I, tr. de mundo archetypo / de ideis. See PDF p. 130 (PDF p. 232) for the verbatim Quaracchi entry.
+[^17]: **La.** Adiecimus auctoritate antiquiorum mss. et ed. 1 *in quaestione*. — Iste locus invenitur in Summa dicti auctoris in fine libr. 1, quae Summa fertur impressa Parisiis 1500. Haec plures exstat manuscripta in biblioth. Laurentiana Florentiae. Ibi in cod. (11. plut. sin. VII.) sub rubrica: *de Creatione mundi*, legitur: « Dicimus, quod exemplar sive idea dicitur de Filio Dei et *proprie* et *appropriate*... Sed quia dispositio ad sapientiam pertinet, per *appropriationem* potest dici de Filio, quod sit exemplar vel idea rerum. Sed secundum quod ipse dicitur proprie Imago Patris eadem ratione, qua ipse est Verbum, et in illa Imagine per dictam rationem relucent omnia: et secundum hoc *proprie* dicitur ipse idea vel exemplar rerum » etc. Paulo post sequitur: « Secundo quaeritur, utrum Filius Dei sit mundus archetypus »; ad quod respondet: « Unde Filius Dei quodam modo est mundus archetypus *appropriate*, quodam modo *proprie*, ut dictum est de exemplari ».
 
-    **En.** [?] The OCR of the p. 130 footer block is missing — William of Auxerre, *Summa aurea*, bk. I, treatise on the archetypal world / on the ideas. See PDF p. 130 (PDF p. 232) for the verbatim Quaracchi entry.
+    **En.** We have added *in quaestione* on the authority of older manuscripts and of the first edition. — This passage is found in the *Summa* of the said author at the end of book 1, which *Summa* is reported to have been printed at Paris in 1500. Several manuscripts of it are extant in the Laurentian Library in Florence. There, in codex (11. plut. sin. VII.) under the rubric *On the Creation of the world*, it reads: "We say that the exemplar, or idea, is said of the Son of God both *properly* and *by appropriation*... But since disposition pertains to wisdom, by *appropriation* it can be said of the Son that he is the exemplar or idea of things. But insofar as he himself is properly called the Image of the Father by the same account by which he is the Word, and in that Image by the said account all things shine forth, and according to this he is *properly* called the very idea or exemplar of things," etc. A little later it follows: "Secondly it is asked whether the Son of God is the archetypal world"; to which he responds: "Hence the Son of God in a certain manner is the archetypal world *by appropriation*, in a certain manner *properly*, as has been said of the exemplar."
 
-[^18]: **La.** [?] OCR of p. 130 footer block missing for this body marker — see PDF p. 130 (PDF p. 232).
+[^18]: **La.** Vat. cum cod. cc *quia*, sed minus bene et contra alios codd. cum ed. 1.
 
-    **En.** [?] The OCR of the p. 130 footer block is missing for this body marker — see PDF p. 130 (PDF p. 232).
+    **En.** The Vatican edition with codex cc reads *quia*, but less well and against the other codices together with the first edition.
 
-[^19]: **La.** [?] OCR of p. 130 footer block missing — *infra* reference probably to d. 27 (de Verbo). See PDF p. 130 (PDF p. 232) for the verbatim Quaracchi entry.
+[^19]: **La.** Dist. 27. p. II. praecipue q. 3.
 
-    **En.** [?] The OCR of the p. 130 footer block is missing — the *infra* (below) reference is probably to d. 27 (on the Word). See PDF p. 130 (PDF p. 232) for the verbatim Quaracchi entry.
+    **En.** [See below] Distinction 27, part II, especially question 3.

@@ -8,14 +8,14 @@ quaestio: 2
 type: quaestio
 title_la: "Utrum substantia sive essentia divina per generationem communicetur"
 title_en: "Whether the divine substance or essence is communicated through generation"
-printed_pages: [117, 118]
-pdf_pages: [219, 220]
+printed_pages: [118, 119]
+pdf_pages: [220, 221]
 line_start: 26786
 line_end: 26998
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 117–118"
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 118–119"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26786-26998), fresh literal English translation, full apparatus from raw OCR (7 entries from p.117 footer block; p.118 footer block not surfaced in OCR — 6 body anchors flagged [?] for later PDF resolution), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26786-26998), fresh literal English translation, full apparatus from raw OCR (7 entries from p.118 footer block; 6 entries from p.119 footer block initially missing), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline); 2026-05-10 Bucket 1 PDF recovery — p.119 footer band reconstructed from 600dpi PDF eyes-on (raw/vision/vol1/p-119.png); recovered 6 entries; resolved/accepted 6 [?] flags; corrected printed_pages frontmatter from [117,118] to [118,119] (chunk does not span p.117); repositioned fn-8 anchor from spurious 'plurium [?]' to 'generatio' (p.119 fn 1)"
 format_version: 1
 ---
 
@@ -26,7 +26,7 @@ format_version: 1
 
 ## Latin
 
-<!-- page 117 -->
+<!-- page 118 -->
 
 ### Quaestio II
 
@@ -58,21 +58,23 @@ Ultimo quaeritur, utrum substantia per generationem communicetur; et quod sic, o
 
 **Respondeo:** Ad hoc intelligendum notandum, quod *commune*, quantum est de se, indifferenter se habet ad actum et potentiam. *Commune* enim potest dici illud quod est *communicabile*, quamvis non sit in pluribus; sicut patet in multis universalibus, ut in sole et luna et huiusmodi. *Commune* etiam dicitur *communicatum*, quod est actu in pluribus.
 
-Dico ergo, quod quemadmodum forma universalis, quantum est de se, est communicabilis; sed tamen actu communicatur per propagationem[^7] plurium [?][^8], sic natura divina vel essentia de se quidem communicabilis est, sed quod actu communicetur, non est nisi per illud quod multiplicat vel plurificat supposita; haec autem est generatio.
+Dico ergo, quod quemadmodum forma universalis, quantum est de se, est communicabilis; sed tamen actu communicatur per propagationem[^7] plurium,
 
-<!-- page 118 -->
+<!-- page 119 -->
+
+sic natura divina vel essentia de se quidem communicabilis est, sed quod actu communicetur, non est nisi per illud quod multiplicat vel plurificat supposita; haec autem est generatio[^8].
 
 Quoniam igitur per generationem personae plurificantur, et substantia in illis non numeratur, hinc est, quod verissime substantia vel essentia per generationem communicatur, quia per generationem fit, ut sit una in pluribus.
 
-**1.** Ad illud quod obiicitur, quod generatio est principium distinguendi; dicendum, quod generatio per se est principium distinguendi suppositum a supposito, quia ad illud terminatur per se; etiam est principium communicandi naturam[?][^9] communem, quia similem ex simili. Sed quoniam natura in inferioribus numeratur in suppositis, ideo est principium distinguendi etiam commune, sed per accidens; in Deo autem nec est per se nec per accidens.
+**1.** Ad illud quod obiicitur, quod generatio est principium distinguendi; dicendum, quod generatio per se est principium distinguendi suppositum a supposito, quia ad illud terminatur per se; etiam est principium communicandi naturam[^9] communem, quia similem ex simili. Sed quoniam natura in inferioribus numeratur in suppositis, ideo est principium distinguendi etiam commune, sed per accidens; in Deo autem nec est per se nec per accidens.
 
-**2.** Ad illud quod obiicitur, quod *facere commune esse in hoc* est ratio appropriandi; dicendum, quod illud habet veritatem, quando commune est appropriabile vel appropriatum per *esse in hoc*. Divina autem essentia non est sic appropriabilis, vel appropriata per *esse in hoc*, quia non est appropriabilis quoad significatum nec quoad suppositum, quia idem significat et supponit, sicut supra ostensum est[?][^10]; significatum autem eius nulla additione distinguitur. Haec enim est vera: *essentia Patris et essentia, quae est in Patre, est Filius*.
+**2.** Ad illud quod obiicitur, quod *facere commune esse in hoc* est ratio appropriandi; dicendum, quod illud habet veritatem, quando commune est appropriabile vel appropriatum per *esse in hoc*. Divina autem essentia non est sic appropriabilis, vel appropriata per *esse in hoc*, quia non est appropriabilis quoad significatum nec quoad suppositum, quia idem significat et supponit, sicut supra ostensum est[^10]; significatum autem eius nulla additione distinguitur. Haec enim est vera: *essentia Patris et essentia, quae est in Patre, est Filius*.
 
-Vel aliter potest dici, quod *facere esse in hoc* est dupliciter: aut absolute; et sic est ratio appropriandi; aut in comparatione, ut illud quod erat prius in uno, fiat postea in alio; et sic est ratio communicandi naturam. Sed quaedam natura est, quae distinguitur[?][^11] in suppositis, ut puta illa cui fit additio, quaedam non, ut divina; et in prima est ratio communicandi et distinguendi, in divina solum communicandi.
+Vel aliter potest dici, quod *facere esse in hoc* est dupliciter: aut absolute; et sic est ratio appropriandi; aut in comparatione, ut illud quod erat prius in uno, fiat postea in alio; et sic est ratio communicandi naturam. Sed quaedam natura est, quae distinguitur[^11] in suppositis, ut puta illa cui fit additio, quaedam non, ut divina; et in prima est ratio communicandi et distinguendi, in divina solum communicandi.
 
-**3.** Ad illud quod obiicitur, quod, si per generationem communicatur, generatio substantiam facit communem[?][^12]; dicendum, quod verum est, secundum quod *commune* dicitur secundum *actum*, quia in pluribus, sed non secundum *potentiam*. Unde circumscripta generatione, substantia est communis, quia communicabilis; sed non est communis, quia communicata.
+**3.** Ad illud quod obiicitur, quod, si per generationem communicatur, generatio substantiam facit communem[^12]; dicendum, quod verum est, secundum quod *commune* dicitur secundum *actum*, quia in pluribus, sed non secundum *potentiam*. Unde circumscripta generatione, substantia est communis, quia communicabilis; sed non est communis, quia communicata.
 
-**4.** Ad illud quod obiicitur, quod illud quod per generationem datur, generatur; dicendum, quod falsum est: quia *generari* dicit productionem et distinctionem, sed *datio*[?][^13] dicit auctoritatem et communicationem; et quoniam per generationem substantia non distinguitur, quamvis communicetur: ergo etc.
+**4.** Ad illud quod obiicitur, quod illud quod per generationem datur, generatur; dicendum, quod falsum est: quia *generari* dicit productionem et distinctionem, sed *datio*[^13] dicit auctoritatem et communicationem; et quoniam per generationem substantia non distinguitur, quamvis communicetur: ergo etc.
 
 ### Scholion
 
@@ -114,21 +116,23 @@ Last, it is asked whether substance is communicated through generation; and that
 
 **I respond:** For understanding this it should be noted that *common*, considered in itself, is indifferently disposed to act and to potency. For *common* can be said of that which is *communicable*, although it not be in many — as is clear in many universals, such as the sun and the moon and the like. *Common* is also said of what is *communicated*, which is actually in many.
 
-I say therefore that, just as the universal form, considered in itself, is communicable, but yet is actually communicated through the propagation[^7] of many [?][^8]; so the divine nature or essence is in itself indeed communicable, but its being actually communicated is only through that which multiplies or pluralizes the supposits — and this is generation.
+I say therefore that, just as the universal form, considered in itself, is communicable, but yet is actually communicated through the propagation[^7] of many,
 
-<!-- page 118 -->
+<!-- page 119 -->
+
+so the divine nature or essence is in itself indeed communicable, but its being actually communicated is only through that which multiplies or pluralizes the supposits — and this is generation[^8].
 
 Since, therefore, through generation the persons are pluralized, and the substance in them is not numbered, hence it is that most truly substance or essence is communicated through generation, because through generation it comes to be that one [substance] is in many.
 
-**1.** To the objection that generation is the principle of distinguishing: it must be said that generation is *per se* the principle of distinguishing one supposit from another, because it is *per se* terminated at it; it is also the principle of communicating the common nature[?][^9], because [it produces] the like from the like. But because the nature in inferior beings is numbered in supposits, therefore it is also the principle of distinguishing the common, but *per accidens*; in God, however, it is neither *per se* nor *per accidens*.
+**1.** To the objection that generation is the principle of distinguishing: it must be said that generation is *per se* the principle of distinguishing one supposit from another, because it is *per se* terminated at it; it is also the principle of communicating the common nature[^9], because [it produces] the like from the like. But because the nature in inferior beings is numbered in supposits, therefore it is also the principle of distinguishing the common, but *per accidens*; in God, however, it is neither *per se* nor *per accidens*.
 
-**2.** To the objection that *to make the common to be in this* is the principle of appropriating: it must be said that this is true when the common is appropriable or appropriated through *being in this*. But the divine essence is not thus appropriable, nor appropriated through *being in this*, because it is not appropriable as to its signified or as to its supposit, since it signifies and supposits the same, as was shown above[?][^10]; and its signified is not distinguished by any addition. For this is true: *the essence of the Father, and the essence which is in the Father, is the Son*.
+**2.** To the objection that *to make the common to be in this* is the principle of appropriating: it must be said that this is true when the common is appropriable or appropriated through *being in this*. But the divine essence is not thus appropriable, nor appropriated through *being in this*, because it is not appropriable as to its signified or as to its supposit, since it signifies and supposits the same, as was shown above[^10]; and its signified is not distinguished by any addition. For this is true: *the essence of the Father, and the essence which is in the Father, is the Son*.
 
-Or it can be said otherwise: *to make to be in this* is in two ways — either absolutely, and in this way it is the principle of appropriating; or by comparison, that what was previously in one comes to be afterward in another, and in this way it is the principle of communicating the nature. But there is a certain nature which is distinguished[?][^11] in supposits — namely that to which addition is made — and a certain nature [which is] not, such as the divine; and in the first there is the principle of communicating and of distinguishing, in the divine [nature] only [the principle] of communicating.
+Or it can be said otherwise: *to make to be in this* is in two ways — either absolutely, and in this way it is the principle of appropriating; or by comparison, that what was previously in one comes to be afterward in another, and in this way it is the principle of communicating the nature. But there is a certain nature which is distinguished[^11] in supposits — namely that to which addition is made — and a certain nature [which is] not, such as the divine; and in the first there is the principle of communicating and of distinguishing, in the divine [nature] only [the principle] of communicating.
 
-**3.** To the objection that, if [substance] is communicated through generation, generation makes the substance common[?][^12]: it must be said that this is true according as *common* is said *in act*, because [it is] in many; but not according to *potency*. Hence with generation set aside, substance is common because *communicable*; but it is not common as *communicated*.
+**3.** To the objection that, if [substance] is communicated through generation, generation makes the substance common[^12]: it must be said that this is true according as *common* is said *in act*, because [it is] in many; but not according to *potency*. Hence with generation set aside, substance is common because *communicable*; but it is not common as *communicated*.
 
-**4.** To the objection that what is given through generation is begotten: it must be said that this is false: because *to be begotten* expresses production and distinction, but *giving*[?][^13] expresses authority and communication; and since through generation substance is not distinguished, although it be communicated: therefore, etc.
+**4.** To the objection that what is given through generation is begotten: it must be said that this is false: because *to be begotten* expresses production and distinction, but *giving*[^13] expresses authority and communication; and since through generation substance is not distinguished, although it be communicated: therefore, etc.
 
 ### Scholion
 
@@ -163,20 +167,20 @@ Or it can be said otherwise: *to make to be in this* is in two ways — either a
 [^7]: **La.** Ita antiquiores codd. cum ed. 1, dum Vat. et cod. cc *actu non communicatur nisi per propagationem*. Vat. deinde contra mss. et ed. 1 addit *vel aggregationem*; sed aperte falsum. Paulo infra plerique codd. ut A F G K T etc. cum ed. 1 *communicatur* pro *communicetur*.
     **En.** Thus the older codices with ed. 1, while the Vatican edition and codex cc read *actu non communicatur nisi per propagationem* ["actually is not communicated except through propagation"]. The Vatican then, against the manuscripts and ed. 1, adds *vel aggregationem* ["or aggregation"] — but plainly falsely. A little below, most codices, such as A F G K T etc., with ed. 1 read *communicatur* in place of *communicetur*.
 
-[^8]: **La.** [?] OCR-anchor placeholder for the page-118 footer block, which is not surfaced in the IA djvu OCR for raw lines 26901-26997. Body apostrophe-marker after *plurium* (raw line 26910) indicates a Quaracchi footnote here.
-    **En.** [?] Page-118 apparatus entry not recovered from OCR; pending PDF eyes-on resolution.
+[^8]: **La.** Cod. O addit *et processio*.
+    **En.** Codex O adds *et processio* ["and procession"].
 
-[^9]: **La.** [?] OCR-anchor placeholder; body apostrophe-marker after *naturam* (raw line 26928) indicates a Quaracchi footnote here.
-    **En.** [?] Page-118 apparatus entry not recovered from OCR; pending PDF eyes-on resolution.
+[^9]: **La.** Ex antiquioribus mss. adiecimus *etiam*, sicut et paulo infra fide mss. et ed. 1 *similem* substituimus loco *consimilem*.
+    **En.** From the older manuscripts we have added *etiam* ["also"], just as a little below, on the authority of the manuscripts and ed. 1, we have substituted *similem* ["like"] in place of *consimilem* ["very like"].
 
-[^10]: **La.** [?] OCR-anchor placeholder; body apostrophe-marker after *ostensum est* (raw line 26941) indicates a Quaracchi footnote here. Likely cross-reference to d. 4, q. 4 or to d. 5, a. 2, q. 1.
-    **En.** [?] Page-118 apparatus entry not recovered from OCR; pending PDF eyes-on resolution.
+[^10]: **La.** Hic a. 4. q. 4. ad 2.
+    **En.** Here [cf.] a. 4, q. 4, ad 2.
 
-[^11]: **La.** [?] OCR-anchor placeholder; body apostrophe-marker after *distinguitur* (raw line 26953) indicates a Quaracchi footnote here.
-    **En.** [?] Page-118 apparatus entry not recovered from OCR; pending PDF eyes-on resolution.
+[^11]: **La.** Vat. *dividitur*, sed absque auctoritate mss. et ed. 1. — Paulo post cod. I *quaedam quae non distinguitur* loco *quaedam non*, et mox cod. W post *solum* repetit *ratio*.
+    **En.** The Vatican edition reads *dividitur* ["is divided"], but without the authority of the manuscripts and ed. 1. — A little later, codex I has *quaedam quae non distinguitur* ["a certain one which is not distinguished"] in place of *quaedam non* ["a certain one not"], and soon after, codex W after *solum* repeats *ratio*.
 
-[^12]: **La.** [?] OCR-anchor placeholder; body caret-marker after *communem* (raw line 26960) indicates a Quaracchi footnote here.
-    **En.** [?] Page-118 apparatus entry not recovered from OCR; pending PDF eyes-on resolution.
+[^12]: **La.** Ita multi codd. ut C L O S V W X Y etc. cum ed. 1; alii vero ut A F G H I T Z etc. *quod si generatio communicat substantiam, et communem.* Vat. *communicatur substantia, fit per generationem communis substantia.*
+    **En.** So many codices, such as C L O S V W X Y etc., with ed. 1; but others, such as A F G H I T Z etc., read *quod si generatio communicat substantiam, et communem* ["that if generation communicates the substance, also the common"]. The Vatican edition reads *communicatur substantia, fit per generationem communis substantia* ["the substance is communicated, the common substance comes about through generation"].
 
-[^13]: **La.** [?] OCR-anchor placeholder; body caret-marker after *datio* (raw line 26970) indicates a Quaracchi footnote here.
-    **En.** [?] Page-118 apparatus entry not recovered from OCR; pending PDF eyes-on resolution.
+[^13]: **La.** Mendum Vat. *ratio* pro *datio* ex mss. correximus et paulo infra fide codd. B D F H I P Q T Y loco *quia* substituimus *quoniam*, licet alii antiqui codd. ut A E G K S W X Z et ff ed. 1 *solum habeant quoniam*, sed minus bene.
+    **En.** We have corrected the Vatican edition's error of *ratio* for *datio* on the authority of the manuscripts; and a little below, on the authority of codices B D F H I P Q T Y, we have substituted *quoniam* ["since"] in place of *quia* ["because"], although other older codices, such as A E G K S W X Z and ff ed. 1, *only have quoniam* — but less well.
