@@ -13,7 +13,7 @@ pdf_pages: [154, 155, 156]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 52–54"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 16890-17108), fresh literal English translation, full apparatus from raw OCR (18 entries from p.52-54 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 16890-17108), fresh literal English translation, full apparatus from raw OCR (18 entries from p.52-54 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF verification — p.53-54 footer entries confirmed against 600dpi PDF eyes-on (raw/vision/vol1/p-053.png + p-054.png); 2 corrections (fn14 ferme→fere; fn17 unitas→nulla resolved [?]), 1 [?] flag resolved"
 format_version: 1
 ---
 
@@ -163,7 +163,7 @@ Secondly it is asked whether a plurality of persons is to be posited in God. And
 
     **En.** Distinction 27, part I, q. 2, ad 3. — Soon after *caritatis* the Vatican [edition] adds *eadem essentia divina est* ["the same divine essence is"], which is absent from the manuscripts and edition 1. Codex R prefixes *bonitatis* to the word *beatitudinis*.
 
-[^14]: **La.** Restituimus lectionem ferme omnium antiquorum mss. et ed. 1 substituendo *ponitur* loco *ponendus est* et addendo *neque*, quod Vat. cum recentiore cod. cc indebite omittit.
+[^14]: **La.** Restituimus lectionem fere omnium antiquorum mss. et ed. 1 substituendo *ponitur* loco *ponendus est* et addendo *neque*, quod Vat. cum recentiore cod. cc indebite omittit.
 
     **En.** We have restored the reading of nearly all the ancient manuscripts and edition 1 by substituting *ponitur* for *ponendus est* and adding *neque*, which the Vatican [edition], together with the more recent codex cc, unduly omits.
 
@@ -175,9 +175,9 @@ Secondly it is asked whether a plurality of persons is to be posited in God. And
 
     **En.** Distinction 8, part II, a. 1, q. 1, and d. 23, a. 2, q. 1 and 2. — A little before, codex X [reads] *solum* in place of *potius*.
 
-[^17]: **La.** In Vat. et recentiore cod. cc deest *et*, quod tamen in antiquis mss. et ed. 1 habetur, et quidem bene. Paulo post cod. X *unitas* pro *nullo*. [?]
+[^17]: **La.** In Vat. et recentiore cod. cc deest *et*, quod tamen in antiquis mss. et ed. 1 habetur, et quidem bene. Paulo post cod. X *nulla* pro *nullo*.
 
-    **En.** In the Vatican [edition] and the more recent codex cc *et* is missing, which however is found in the ancient manuscripts and edition 1, and rightly so. A little later codex X [reads] *unitas* for *nullo*. [?]
+    **En.** In the Vatican [edition] and the more recent codex cc *et* is missing, which however is found in the ancient manuscripts and edition 1, and rightly so. A little later codex X [reads] *nulla* for *nullo*.
 
 [^18]: **La.** Libr. I. *de Doctr. christ.* c. 5. n. 5: *In Patre unitas, in Filio aequalitas, in Spiritu S. unitatis aequalitatisque concordia*.
 

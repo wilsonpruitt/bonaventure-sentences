@@ -14,7 +14,7 @@ pdf_pages: [184, 185, 186]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 82–84"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 21368-21663), fresh literal English translation, full apparatus from raw OCR (24 entries from p.82-84 footer blocks; p.84 footer recovered via 700dpi PDF since OCR truncated it), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 21368-21663), fresh literal English translation, full apparatus from raw OCR (24 entries from p.82-84 footer blocks; p.84 footer recovered via 700dpi PDF since OCR truncated it), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF verification — p.84 footer entries confirmed against 600dpi PDF eyes-on (raw/vision/vol1/p-084.png); 1 correction ([^22] Augustine-de-Trin book references X.11-12/XIV.8.12 had been swapped → corrected to PDF reading), 0 [?] flags resolved in scope (2 vestigial [?] in [^3]/[^9] English left untouched — out of p.84 scope, Latin source unambiguous)"
 line_start: 21368
 line_end: 21663
 format_version: 1
@@ -243,9 +243,9 @@ according as the mind knows and loves itself; the second is in memory, intellige
 
      **En.** Number 4: *In that, however, which is derived [from the mind] in activity concerning temporal things, even if a trinity can [be found], nevertheless the image of God cannot be found [there].*
 
-[^22]: **La.** De prima assignatione vide IX. *de Trin.*, per totum; de secunda ibid. XIV. c. 8. ac 12; de completissima imaginis ratione ibid. XIV. c. 11. et 12. seqq.
+[^22]: **La.** De prima assignatione vide IX. *de Trin.*, per totum; de secunda ibid. X. c. 11. et 12; de completissima imaginis ratione ibid. XIV. c. 8. ac 12. seqq.
 
-     **En.** On the first assignment [of the image], see IX *On the Trinity*, throughout; on the second, ibid. XIV, c. 8 and 12; on the most complete account of the image, ibid. XIV, c. 11 and 12 ff.
+     **En.** On the first assignment [of the image], see IX *On the Trinity*, throughout; on the second, ibid. X, c. 11 and 12; on the most complete account of the image, ibid. XIV, c. 8 and 12 ff.
 
 [^23]: **La.** Vat. contra mss. *respondeo*.
 

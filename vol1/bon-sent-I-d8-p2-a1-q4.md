@@ -16,7 +16,7 @@ line_end: 35294
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 173–174"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 35076-35294), fresh literal English translation, full apparatus from raw OCR (13 entries from p.173-174 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 35076-35294), fresh literal English translation, full apparatus from raw OCR (13 entries from p.173-174 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.174 footer entries 1 & 2 (both for q.4 body) recovered from 600dpi PDF eyes-on (raw/vision/vol1/p-174.png); apparatus renumbered to 15 entries; entry 8 corrected (etiam not eum); fabricated marginal-gloss entry removed; p.173 entries 12 and 13 un-merged; body markers 10-13 repositioned per PDF; 2 [?] flags resolved"
 format_version: 1
 ---
 
@@ -51,23 +51,23 @@ Quarto et ultimo quaeritur, utrum Deus sit in aliquo determinato genere. Et quod
 
 > **Conclusio.** Deus nec est in aliquo determinato genere, nec in pluribus.
 
-**Respondeo:** Dicendum, quod non convenit Deo[^8] esse in uno genere determinato, quia omne tale habet esse limitatum et arctatum et compositum. In pluribus[^9] generibus non potest esse. Aut enim aliquid est in pluribus propter naturarum et proprietatum diversitatem, ut album, in quantum dicit subiectum aliquod sive rem albam, est in genere substantiae, sed in quantum dicit formam, quae est albedo, est in praedicamento qualitatis; aut propter generalitatem, sicut unum et ens[^10].
+**Respondeo:** Dicendum, quod non convenit Deo[^8] esse in uno genere determinato, quia omne tale habet esse limitatum et arctatum et compositum. In pluribus[^9] generibus non potest esse. Aut enim aliquid est in pluribus propter naturarum et proprietatum diversitatem, ut album, in quantum dicit subiectum aliquod sive rem albam, est in genere substantiae, sed in quantum dicit formam, quae est albedo, est in praedicamento qualitatis; aut propter generalitatem, sicut unum et ens.
 
-Propter naturarum multiformitatem[^11] non potest Deus esse in pluribus, quia omne tale compositum est et multiforme, Deus autem simplex. Non propter generalitatem, quia ens tale nihil est habens[^12] distinctum a rebus creatis. Deus autem est habens in se ens distinctum a rebus, et habens esse simplex et infinitum; et ideo nec in uno genere nec in pluribus esse potest.
+Propter naturarum multiformitatem[^10] non potest Deus esse in pluribus, quia omne tale compositum est et multiforme, Deus autem simplex. Non propter generalitatem, quia ens tale nihil est habens[^11] distinctum a rebus creatis. Deus autem est habens in se ens distinctum a rebus, et habens esse simplex et infinitum; et ideo nec in uno genere nec in pluribus esse potest.
 
 **Ad argumenta:**
 
-*Ad 1.* Ad illud ergo quod obiicitur, quod distinguitur ab aliis, est natura distincta etc.; dicendum, quod verum est, si distinguatur per aliquid, quod ipsum[^13] contrahat et arctet, sicut per differentiam cadentem in genere; Deus autem non sic distinguitur, sed se ipso.
+*Ad 1.* Ad illud ergo quod obiicitur, quod distinguitur ab aliis, est natura distincta etc.; dicendum, quod verum est, si distinguatur per aliquid, quod ipsum[^12] contrahat et arctet, sicut per differentiam cadentem in genere; Deus autem non sic distinguitur, sed se ipso.
 
-*Ad 2.* Ad illud quod obiicitur, quod Deus habet superius univocum; dicendum, quod Deo non est superius, quia non est simplicius; nec univocum,
+*Ad 2.* Ad illud quod obiicitur, quod Deus habet superius univocum; dicendum, quod Deo non est superius, quia[^13] non est simplicius; nec univocum,
 
 <!-- page 174 -->
 
 quia illa ratio non convenit uniformiter creaturae et Creatori. Deus enim est ens per se, quia nullo egens; creatura est ens per se, quia non est in alio ut in subiecto, eget tamen alio ad sui conservationem.
 
-*Ad 3.* Ad illud quod obiicitur, quod omne, quod est perfectionis et bonitatis, ponendum est in Deo; dicendum, quod hoc potest esse dupliciter: vel per diversitatem, et hoc facit esse in diversis generibus; vel secundum omnimodam unitatem, et hoc facit esse extra omne genus.
+*Ad 3.* Ad illud quod obiicitur, quod omne, quod est perfectionis et bonitatis, ponendum est in Deo; dicendum, quod hoc potest esse dupliciter: vel per[^14] diversitatem, et hoc facit esse in diversis generibus; vel secundum omnimodam unitatem, et hoc facit esse extra omne genus.
 
-*Ad 4.* Ad illud quod ultimo obiicitur, quod Deo nihil deficit de bonitate; dicendum, quod Deus non dicitur non deficiens a bonitate propter hoc, quod omnis differentia boni particularis sit in Deo per differentiam, sed quia est in eo per aequivalentiam.[?] Quia enim est summum bonum, complectitur in se bonum omne; sic intelligendum est de entitate; et sic patet illud.
+*Ad 4.* Ad illud quod ultimo obiicitur, quod Deo nihil deficit de bonitate; dicendum, quod Deus non dicitur non deficiens a bonitate propter hoc, quod omnis differentia boni particularis sit in Deo per differentiam, sed quia est in eo per aequivalentiam[^15]. Quia enim est summum bonum, complectitur in se bonum omne; sic intelligendum est de entitate; et sic patet illud.
 
 ### Scholion
 
@@ -103,21 +103,21 @@ Fourthly and lastly it is asked whether God is in any determinate genus. And tha
 
 > **Conclusion.** God is neither in any determinate genus, nor in several.
 
-**I respond:** It must be said that it is not fitting for God[^8] to be in one determinate genus, because every such thing has being that is limited and contracted and composite. In several[^9] genera he cannot be. For either something is in several on account of the diversity of natures and properties — as *white*, insofar as it signifies some subject or white thing, is in the genus of substance, but insofar as it signifies the form, which is whiteness, is in the predicament of quality — or on account of generality, as *one* and *being*[^10].
+**I respond:** It must be said that it is not fitting for God[^8] to be in one determinate genus, because every such thing has being that is limited and contracted and composite. In several[^9] genera he cannot be. For either something is in several on account of the diversity of natures and properties — as *white*, insofar as it signifies some subject or white thing, is in the genus of substance, but insofar as it signifies the form, which is whiteness, is in the predicament of quality — or on account of generality, as *one* and *being*.
 
-On account of the multiformity of natures[^11] God cannot be in several, because everything such is composite and multiform, whereas God is simple. Nor on account of generality, because such a being is nothing having[^12] anything distinct from created things. But God is one having in himself a being distinct from things, and having simple and infinite being; and therefore he can be neither in one genus nor in several.
+On account of the multiformity of natures[^10] God cannot be in several, because everything such is composite and multiform, whereas God is simple. Nor on account of generality, because such a being is nothing having[^11] anything distinct from created things. But God is one having in himself a being distinct from things, and having simple and infinite being; and therefore he can be neither in one genus nor in several.
 
 **To the arguments:**
 
-*To 1.* To that which is objected, that what is distinguished from others is a distinct nature, etc.; it must be said that this is true, if it be distinguished by something which contracts and constricts it[^13], as by a difference falling within a genus; but God is not so distinguished, but by himself.
+*To 1.* To that which is objected, that what is distinguished from others is a distinct nature, etc.; it must be said that this is true, if it be distinguished by something which contracts and constricts it[^12], as by a difference falling within a genus; but God is not so distinguished, but by himself.
 
-*To 2.* To that which is objected, that God has something univocal above himself; it must be said that nothing is above God, because nothing is simpler; nor univocal,
+*To 2.* To that which is objected, that God has something univocal above himself; it must be said that nothing is above God, because[^13] nothing is simpler; nor univocal,
 
-quia that account does not apply uniformly to creature and Creator. For God is a being through himself, because needing nothing; a creature is a being through itself, because it is not in another as in a subject, yet it needs another for its conservation.
+because that account does not apply uniformly to creature and Creator. For God is a being through himself, because needing nothing; a creature is a being through itself, because it is not in another as in a subject, yet it needs another for its conservation.
 
-*To 3.* To that which is objected, that everything that belongs to perfection and goodness is to be placed in God; it must be said that this can be in two ways: either by *diversity*, and this causes it to be in diverse genera; or according to entire *unity*, and this causes it to be outside every genus.
+*To 3.* To that which is objected, that everything that belongs to perfection and goodness is to be placed in God; it must be said that this can be in two ways: either by[^14] *diversity*, and this causes it to be in diverse genera; or according to entire *unity*, and this causes it to be outside every genus.
 
-*To 4.* To that which is objected last, that to God nothing of goodness is lacking; it must be said that God is not called non-deficient in goodness on the ground that every difference of particular good is in God by way of difference, but because it is in him by equivalence.[?] For since he is the highest good, he encompasses in himself every good; the same is to be understood of entity; and so that point is plain.
+*To 4.* To that which is objected last, that to God nothing of goodness is lacking; it must be said that God is not called non-deficient in goodness on the ground that every difference of particular good is in God by way of difference, but because it is in him by equivalence[^15]. For since he is the highest good, he encompasses in himself every good; the same is to be understood of entity; and so that point is plain.
 
 ### Scholion
 
@@ -161,26 +161,34 @@ quia that account does not apply uniformly to creature and Creator. For God is a
 
      **En.** From the more ancient manuscripts and the first edition we have supplied *est*.
 
-[^8]: **La.** Vat. praeter fidem mss. et sex primarum edd. addit *eum*.
+[^8]: **La.** Vat. praeter fidem mss. et sex primarum edd. addit *etiam*.
 
-     **En.** The Vatican edition, contrary to the testimony of the manuscripts and of the six earliest editions, adds *eum*.
+     **En.** The Vatican edition, contrary to the testimony of the manuscripts and of the six earliest editions, adds *etiam*.
 
 [^9]: **La.** Quae, sicut et *res, aliquid, verum, bonum* propter maximam universalitatem, qua in omnibus generibus implicantur, vocantur *transcendentalia*.
 
      **En.** Which, like *res, aliquid, verum, bonum*, on account of their highest universality — by which they are implicated in all the genera — are called *transcendentalia* (transcendentals).
 
-[^10]: **La.** *Esse in pluribus dupliciter.* [Marginal gloss in printed text.]
-
-     **En.** *To be in several in two ways.* [Marginal gloss in the printed text.]
-
-[^11]: **La.** Vat. *multiplicitatem*, sed contra mss. et ed. 1.
+[^10]: **La.** Vat. *multiplicitatem*, sed contra mss. et ed. 1.
 
      **En.** The Vatican edition reads *multiplicitatem*, but against the manuscripts and the first edition.
 
-[^12]: **La.** Unus alterve codex ut E V omittit *habens*.
+[^11]: **La.** Unus alterve codex ut E V omittit *habens*.
 
      **En.** One or another codex such as E V omits *habens*.
 
-[^13]: **La.** Cod. V *rationem* loco *ipsum*. — Fide antiquiorum mss. et ed. 1 expunximus hic additum *eo*, et paulo post substituimus *illa* pro *substantiae*.[?]
+[^12]: **La.** Cod. V *rationem* loco *ipsum*.
 
-     **En.** Codex V reads *rationem* in place of *ipsum*. — On the testimony of the more ancient manuscripts and the first edition we have removed the added *eo* here, and a little after we have substituted *illa* for *substantiae*.[?]
+     **En.** Codex V reads *rationem* in place of *ipsum*.
+
+[^13]: **La.** Fide antiquiorum mss. et ed. 1 expunximus hic additum *eo*, et paulo post substituimus *illa* pro *substantiae*.
+
+     **En.** On the testimony of the more ancient manuscripts and the first edition we have removed the added *eo* here, and a little after we have substituted *illa* for *substantiae*.
+
+[^14]: **La.** Codd. V X *secundum*, et paulo infra cod. T *uniformitatem* loco *unitatem*.
+
+     **En.** Codices V and X read *secundum*, and a little after codex T reads *uniformitatem* in place of *unitatem*.
+
+[^15]: **La.** Hoc est, per eminentiam seu eminenter.
+
+     **En.** That is, by way of eminence or eminently.
