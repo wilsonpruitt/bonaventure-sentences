@@ -15,7 +15,7 @@ line_end: 24227
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 99–101"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23974-24227), fresh literal English translation, full apparatus from raw OCR (14 entries from p.99-101 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23974-24227), fresh literal English translation, full apparatus from raw OCR (14 entries from p.99-101 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 sub-key cleanup — collapsed back-reference markers [^4b]/[^6b] onto primaries [^4]/[^6] per sequential-integer convention"
 format_version: 1
 ---
 
@@ -50,7 +50,7 @@ consequentiam ut modum sequitur consecutio ut res; unde si haec est vera: *si ho
 
 3. Item, Pater sive Deus genuit alium; haec est vera, constat: ergo aut alium Deum, aut alium non Deum; sed non alium non Deum: ergo etc.
 
-4. Item, *alius* est terminus masculini generis; sed terminus masculini generis[^4] stat pro persona in partitivis terminis: ergo *alius* dicit alietatem personalem; sed haec est vera: *Deus genuit Deum alium in persona*; ergo simpliciter[^4b] est vera haec: *Deus genuit alium Deum*.
+4. Item, *alius* est terminus masculini generis; sed terminus masculini generis[^4] stat pro persona in partitivis terminis: ergo *alius* dicit alietatem personalem; sed haec est vera: *Deus genuit Deum alium in persona*; ergo simpliciter[^4] est vera haec: *Deus genuit alium Deum*.
 
 ### Conclusio.
 
@@ -58,7 +58,7 @@ consequentiam ut modum sequitur consecutio ut res; unde si haec est vera: *si ho
 
 **Respondeo:** Dicendum, quod haec consuevit distingui: *Deus genuit alium Deum*, quia *alius* potest teneri *adiective*; et sic ponit alietatem circa formam istius termini *Deus*, et sic locutio est falsa; potest etiam teneri *substantive*, ut[^5] substantivetur; et tunc est appositiva constructio, sicut *animal homo*, et est sensus hoc modo: *Deus genuit alium Deum*, id est, *genuit alium qui est Deus*; et in hoc sensu est locutio vera.
 
-Sed licet ista distinctio in locutionibus theologicis propter quendam proprium modum loquendi locum habeat, tamen quantum esset de virtute[?][^6] sermonis, non esset distinguenda; quia adiectivum adiunctum[^6b] substantivo, ut *homo albus*, non dicitur substantivari, nec appositiva constructio dicitur ibi esse, maxime cum illa sit minus communis respectu magis communis[^7]. Unde cum hoc nomen *alius* sit adiectivum habens substantivum coniunctum, in praedicta locutione ponit alietatem circa ipsum ratione suppositi et formae.
+Sed licet ista distinctio in locutionibus theologicis propter quendam proprium modum loquendi locum habeat, tamen quantum esset de virtute[?][^6] sermonis, non esset distinguenda; quia adiectivum adiunctum[^6] substantivo, ut *homo albus*, non dicitur substantivari, nec appositiva constructio dicitur ibi esse, maxime cum illa sit minus communis respectu magis communis[^7]. Unde cum hoc nomen *alius* sit adiectivum habens substantivum coniunctum, in praedicta locutione ponit alietatem circa ipsum ratione suppositi et formae.
 
 Et propterea, si velimus artificialiter[^8] procedere, iudicanda est talis locutio falsa. Propter hoc ad intelligentiam dictae locutionis notanda est regula communis: non habet locum distinctio, ubi non est ex diversis causis unio, verbi gratia, Pater et Filius et Spiritus sanctus uniuntur in hoc nomine *Deus*, non ex diversis causis sive ratione diversorum, sed ratione unius deitatis sive essentiae. Unio ex diversis causis est, ut in homine uniuntur Petrus et Ioannes ratione diversarum humanitatum, quia alia est humanitas Petri, et alia Ioannis.
 
@@ -104,7 +104,7 @@ a consequence as a mode follows a consecution as a thing; whence if this is true
 
 3. Likewise, the Father or God generated another; this is true, it is established: therefore either another God, or another non-God; but not another non-God: therefore etc.
 
-4. Likewise, *alius* is a term of masculine gender; but a term of masculine gender[^4] stands for a person in partitive terms: therefore *alius* signifies personal otherness; but this is true: *God generated another God in person*; therefore this is simply[^4b] true: *God generated another God.*
+4. Likewise, *alius* is a term of masculine gender; but a term of masculine gender[^4] stands for a person in partitive terms: therefore *alius* signifies personal otherness; but this is true: *God generated another God in person*; therefore this is simply[^4] true: *God generated another God.*
 
 ### Conclusion.
 
@@ -112,7 +112,7 @@ a consequence as a mode follows a consecution as a thing; whence if this is true
 
 **I respond:** It must be said that this is customarily distinguished: *God generated another God*, because *alius* can be taken *adjectivally*; and thus it places otherness around the form of this term *Deus*, and so the expression is false; it can also be taken *substantivally*, so that[^5] it be substantivized; and then it is an appositive construction, as in *animal homo* (animal-man), and the sense is in this way: *God generated another God*, that is, *he generated another who is God*; and in this sense the expression is true.
 
-But although this distinction has place in theological expressions on account of a certain proper mode of speaking, nevertheless as far as concerns the strict force[?][^6] of the discourse, it should not be distinguished; because an adjective adjoined[^6b] to a substantive, as *homo albus* (white man), is not said to be substantivized, nor is an appositive construction said to be there, especially since that [appositive construction] is less common with respect to the more common[^7]. Whence since this name *alius* is an adjective having a substantive joined [to it], in the aforesaid expression it places otherness around it by reason of the supposit and of the form.
+But although this distinction has place in theological expressions on account of a certain proper mode of speaking, nevertheless as far as concerns the strict force[?][^6] of the discourse, it should not be distinguished; because an adjective adjoined[^6] to a substantive, as *homo albus* (white man), is not said to be substantivized, nor is an appositive construction said to be there, especially since that [appositive construction] is less common with respect to the more common[^7]. Whence since this name *alius* is an adjective having a substantive joined [to it], in the aforesaid expression it places otherness around it by reason of the supposit and of the form.
 
 And therefore, if we wish to proceed artificially[^8] [i.e., strictly by the rules of the arts], such an expression must be judged false. On account of this, for the understanding of the said expression, a common rule must be noted: distinction has no place where there is not union from diverse causes — for example, the Father and the Son and the Holy Spirit are united in this name *Deus*, not from diverse causes or by reason of diverse [things], but by reason of one deity or essence. Union from diverse causes is, as in [the case of] man, Peter and John are united by reason of diverse humanities, because Peter's humanity is one, and John's another.
 
@@ -154,10 +154,6 @@ According to this it must be attended to, that in divine matters certain words i
 
     **En.** The Vatican edition, against the older mss. and ed. 1, less well [reads] *qui* in place of *sed terminus masculini generis*; and near the end of the argument similarly [reads] *loco* in place of *simpliciter*.
 
-[^4b]: **La.** Vide notam praecedentem (« et circa finem argumenti similiter *loco simpliciter* »).
-
-    **En.** See the preceding note ("and near the end of the argument similarly [reads] *loco* in place of *simpliciter*").
-
 [^5]: **La.** Ed. 1 *sic ut*. Cod. R *et si substantivetur tunc*.
 
     **En.** Ed. 1 [reads] *sic ut*. Cod. R [reads] *et si substantivetur tunc*.
@@ -165,10 +161,6 @@ According to this it must be attended to, that in divine matters certain words i
 [^6]: **La.** Aliqui codd. ut R cc *veritate*, et paulo infra plurimi codd. cum ed. 1 contra Vat. *iunctum* pro *adiunctum*.
 
     **En.** Some codices, as R cc, [read] *veritate*, and a little below most codices with ed. 1, against the Vatican edition, [read] *iunctum* in place of *adiunctum*.
-
-[^6b]: **La.** Vide notam praecedentem (« plurimi codd. cum ed. 1 contra Vat. *iunctum* pro *adiunctum* »).
-
-    **En.** See the preceding note ("most codices with ed. 1, against the Vatican edition, [read] *iunctum* in place of *adiunctum*").
 
 [^7]: **La.** Sensus est: maxime cum appositiva constructio fiat coniunctione termini minus communis cum magis communi.
 
