@@ -13,7 +13,7 @@ line_end: 29242
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 134–135"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 29109-29242), fresh literal English translation, apparatus from raw OCR (8 entries from p.134-135 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 29109-29242), fresh literal English translation, apparatus from raw OCR (8 entries from p.134-135 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.134 footer band re-anchored from 600dpi PDF eyes-on (raw/vision/vol1/p-134.png, /tmp/p134-r600-236.png); confirmed all 8 anchor positions correct against PDF, resolved 2 [?] flags (body 'potentia' on p.134 left col + footnote 5 trailing flag — gerundivum sentence is complete)"
 format_version: 1
 ---
 
@@ -34,7 +34,7 @@ Hic solet quaeri, utrum Pater potuerit vel voluerit etc.
 
 ## DIVISIO TEXTUS.
 
-In praesenti distinctione ponit Magister dubitationem ex comparatione potentiae generandi ad personam, utrum scilicet, sicut est in persona Patris, ita sit in persona Filii. Et habet haec pars duas: in prima Magister quaerit et determinat, utrum Filius possit generare; in secunda, utrum [potentia][?] generandi sit in Filio, ibi: *Item quaeritur a quibusdam, si Pater potens sit etc.*
+In praesenti distinctione ponit Magister dubitationem ex comparatione potentiae generandi ad personam, utrum scilicet, sicut est in persona Patris, ita sit in persona Filii. Et habet haec pars duas: in prima Magister quaerit et determinat, utrum Filius possit generare; in secunda, utrum potentia generandi sit in Filio, ibi: *Item quaeritur a quibusdam, si Pater potens sit etc.*
 
 Item prima pars habet quatuor particulas. In prima movet quaestionem, utrum posse et velle
 
@@ -69,7 +69,7 @@ Here it is wont to be asked, whether the Father could or willed etc.
 
 ## DIVISION OF THE TEXT.
 
-In the present distinction the Master sets out a doubt arising from the comparison of the power of generating to the person, namely whether, as it is in the person of the Father, so also it is in the person of the Son. And this part has two [sections]: in the first the Master asks and determines whether the Son can generate; in the second, whether [the power][?] of generating is in the Son, there: *Likewise it is asked by some, whether the Father is able etc.*
+In the present distinction the Master sets out a doubt arising from the comparison of the power of generating to the person, namely whether, as it is in the person of the Father, so also it is in the person of the Son. And this part has two [sections]: in the first the Master asks and determines whether the Son can generate; in the second, whether the power of generating is in the Son, there: *Likewise it is asked by some, whether the Father is able etc.*
 
 Likewise the first part has four particles. In the first he raises the question, whether to be able and to will
 
@@ -113,9 +113,9 @@ For the elucidation of those things which the Master says about the power of gen
 
      **En.** From the older manuscripts and edition 1 we have substituted *intelligatur* for *intelligitur* and shortly after *habeat* in place of *habet* and a little below *ista* for *illa* and *aliquos* in place of *alios*.
 
-[^5]: **La.** Vat. *Sed*, et paulo post omittit *hoc* contra vetustiores codd. et ed. 1, qui *et* pro *gerundium* ponunt *gerundivum*.[?]
+[^5]: **La.** Vat. *Sed*, et paulo post omittit *hoc* contra vetustiores codd. et ed. 1, qui *et* pro *gerundium* ponunt *gerundivum*.
 
-     **En.** The Vatican [edition reads] *Sed*, and a little after omits *hoc* against the older codices and edition 1, which put *gerundivum* for *gerundium*.[?]
+     **En.** The Vatican [edition reads] *Sed*, and a little after omits *hoc* against the older codices and edition 1, which put *gerundivum* for *gerundium*.
 
 [^6]: **La.** Cod. O glossando addit: *scilicet Pater, quia eadem est potentia in Patre et in Filio ad hoc ut generetur, nec tamen ex hoc sequitur, quod Filius generat, sed ex hoc sequitur, quod aliquis generat.*
 

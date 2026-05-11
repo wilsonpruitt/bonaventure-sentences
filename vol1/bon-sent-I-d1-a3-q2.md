@@ -15,7 +15,7 @@ has_scholion: true
 has_apparatus: true
 line_start: 14821
 line_end: 15259
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 14821-15259), fresh literal English translation, full apparatus from raw OCR (24 entries from p.39-42 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 14821-15259), fresh literal English translation, full apparatus from raw OCR (24 entries from p.39-42 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.42 footer band reconstructed from 600dpi PDF eyes-on (raw/vision/vol1/p-042.png); recovered 3 entries; resolved/accepted 3 [?] flags"
 format_version: 1
 ---
 
@@ -88,9 +88,9 @@ Omnes enim[^17] hae quatuor rationes ad unam reducuntur, scilicet ad hanc: quia 
 
 <!-- page 42 -->
 
-Huiusmodi enim [?] propter assimilationem ad Deum habent pulcritudinem, qua nos delectant et alliciunt; tamen in ipsis non est quiescendum, quia tunc amittunt pulcritudinem, quia «virtutes, cum ad se referuntur, superbae sunt et inflatae [?]».
+Huiusmodi enim[^25] propter assimilationem ad Deum habent pulcritudinem, qua nos delectant et alliciunt; tamen in ipsis non est quiescendum, quia tunc amittunt pulcritudinem, quia «virtutes, cum ad se referuntur, superbae sunt et inflatae[^26]».
 
-5. *Ad illud* quod obiicitur de beatitudine; dicendum, quod beatitudo creata non finit appetitum per se, sed per coniunctionem cum increata: unde anima ipsam [?] diligit propter Deum, non propter se.
+5. *Ad illud* quod obiicitur de beatitudine; dicendum, quod beatitudo creata non finit appetitum per se, sed per coniunctionem cum increata: unde anima ipsam[^27] diligit propter Deum, non propter se.
 
 ### Scholion
 
@@ -158,9 +158,9 @@ For all[^17] these four reasons reduce to one, namely to this: that since the so
 
 4. *To that* which is objected concerning virtue, that virtue is an honorable good; it must be said that the honorable good is said in two ways: either as what is purely good, or as that in which its likeness shines forth. In the first mode the honorable is to be enjoyed, taking "to enjoy" properly, since this alone terminates and quiets. In the second mode not, unless it be taken commonly, insofar as it expresses delight.
 
-For such [virtues] [?] on account of assimilation to God have beauty, by which they delight and attract us; nevertheless in them one is not to rest, since then they lose their beauty, since «the virtues, when they are referred to themselves, are proud and inflated [?]».
+For such [virtues][^25] on account of assimilation to God have beauty, by which they delight and attract us; nevertheless in them one is not to rest, since then they lose their beauty, since «the virtues, when they are referred to themselves, are proud and inflated[^26]».
 
-5. *To that* which is objected concerning beatitude; it must be said that created beatitude does not terminate the appetite per se, but through conjunction with the uncreated: whence the soul loves [?] it on account of God, not on account of itself.
+5. *To that* which is objected concerning beatitude; it must be said that created beatitude does not terminate the appetite per se, but through conjunction with the uncreated: whence the soul loves it[^27] on account of God, not on account of itself.
 
 ### Scholion
 
@@ -271,3 +271,15 @@ As to the principal question, see the authors in the preceding Scholion.
 [^24]: **La.** Ed. 1 hic addit *Deus*, quod certe subaudiendum est.
 
     **En.** Ed. 1 here adds *Deus* (God), which certainly must be understood.
+
+[^25]: **La.** Subaudi cum cod. R *virtutes*. Mox plures antiquiores codd. ut ACFGKLORSUYZ ee post *pulcritudinem* loco *qua* habent *quia*.
+
+    **En.** Understand with cod. R *virtutes* (virtues). Soon after, several of the older manuscripts such as ACFGKLORSUYZ ee, after *pulcritudinem*, have *quia* in place of *qua*.
+
+[^26]: **La.** August., XIX. *de Civ. Dei*, c. 25: *Virtutes, cum ad se ipsas referuntur nec propter aliud expetuntur, etiam tunc inflatae ac superbae sunt.*
+
+    **En.** Augustine, *On the City of God* XIX, c. 25: *The virtues, when they are referred to themselves and not sought on account of something else, even then are inflated and proud.*
+
+[^27]: **La.** Lapsum librariorum Vat. ponentium *ipsa* pro *ipsam* correximus ope mss. et ed. 1.
+
+    **En.** A scribal slip of the Vatican [editors], who place *ipsa* for *ipsam*, we have corrected with the help of the manuscripts and ed. 1.
