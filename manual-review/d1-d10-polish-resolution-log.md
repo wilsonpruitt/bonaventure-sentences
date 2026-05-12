@@ -1543,3 +1543,147 @@ Per the per-chunk ambiguity log (`manual-review/tier2-ambiguities-d4-a1-q4.md`),
 - `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d3-p2-a1-q1.md | sort -u | wc -l` → 25 unique markers, each appears 3× (Latin body + English body + apparatus def).
 - `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
 - d.3 guard-rail audits run (audit-paraphrase / audit-headers / audit-apparatus-count). No new flags introduced.
+
+## d10-a1-q1 (pp.194-196)
+
+- **Source**: `raw/vision/vol1/p-hires-d10a1q1-r600-{296,297,298}.png` (600 dpi extracts; pt1 offset +102).
+- **Header verification**: single `### Quaestio I.` body header; matches raw OCR (one QUAESTIO marker in this chunk). Clean.
+- **Inline `[?]` flags**: 2 (one Latin body, one English mirror), both at the same locus in the body of Ad 3 (final paragraph before Ad 4).
+
+| Locus | Reading rendered | PDF p.196 eyes-on | Disposition |
+|---|---|---|---|
+| Latin body, Ad 3 final ¶: *"...processus per modum voluntatis possit esse intrinsecus, sicut[?] procedit amor ab amante..."* | `sicut[?]` | Plain `sicut` — fully legible, no garble, no ligature ambiguity. | RESOLVED — `[?]` dropped; reading is `sicut`. |
+| English mirror at same locus: *"just as[?] love proceeds from the lover"* | `just as[?]` | Mirror of Latin. | RESOLVED — `[?]` dropped; reading is "just as". |
+
+### `[?]` resolution count
+
+- 2 `[?]` flags resolved (both same locus, Latin + English mirror).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d10-a1-q1.md` after this pass.
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d10-a1-q1.md` → 0.
+- `transcription_status` updated to record polish-pass disposition (2026-05-12).
+- `cd site && node scripts/build-content.mjs` parses cleanly; chunk count holds at 414.
+- d.10 guard-rail audits (paraphrase, headers, apparatus-count) all clean.
+
+## d1-littera (pp.26-28)
+
+- **Source**: `raw/vision/vol1/p-hires-26-28-r600-{128,129,130}.png` (600 dpi extracts of PDF pp. 128–130 = printed pp. 26–28; pt1 offset +102).
+- 2 inline `[?]` flags, paired (Latin body + English mirror) on the same Lombard clause on printed p. 27.
+
+| Flag | Location | Disposition |
+|---|---|---|
+| Latin body, p.27 | `In homine autem spes ponenda non est[?], quia *Maledictus est qui hoc facit*.` (mid Cap. III, *Utrum homine sit fruendum*) | RESOLVED. 600dpi crop `raw/vision/vol1/p-hires-26-28-r600-129.png` shows the printed Quaracchi reading unambiguously as `In homine autem spes ponenda non est,` with no OCR garble and no editorial variant flagged in the page footer. Flag removed. |
+| English body, p.27 | mirror: `But hope is not to be placed in man[?], for *Cursed is he who does this*.` | RESOLVED. Mirrors the resolved Latin. Translation is accurate (alludes to Jer. 17:5, per apparatus `[^18]`). Flag removed. |
+
+### `[?]` resolution count
+
+- 2 `[?]` flags resolved (1 Latin body + 1 English mirror, same clause).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d1-littera.md` after this pass.
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d1-littera.md` → 0.
+- `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
+- d.1-scoped guard-rail audits (audit-paraphrase / audit-headers / audit-apparatus-count) run; no new flags against this chunk.
+
+## d1-a1-q2 (pp.32-33)
+
+- **Source**: `raw/vision/vol1/p-hires-d1a1q2-r600-134.png` and `-135.png` (600 dpi extracts of PDF pp. 134-135 = printed pp. 32-33).
+- **Header verification**: PDF p.33 running head reads `DIST. I. ART. I. QUAEST. II.` — frontmatter (`distinctio: 1`, `articulus: 1`, `quaestio: 2`) is correct.
+- 2 inline `[?]` flags resolved, both inside apparatus entry `[^10]`.
+
+| Body anchor | Disposition | Footer source |
+|---|---|---|
+| `[^10]` La: `mutavimusque *contra* in *contra[?]*. [?]` | RESOLVED → `mutavimusque *convenit* in *contingit*.` | p.32 footer note 10 (600dpi): "Vat. cum cod. cc male omittit *bene*, quod antiquiores mss. ac ed. 1 suppeditant, mutavimusque *convenit* in *contingit*." |
+| `[^10]` En: parallel garble + bracketed flag note | RESOLVED → "...and we have changed *convenit* into *contingit*." | same |
+
+The chunk had treated the closing lemma as wholly OCR-garbled. The 600dpi crop is fully legible: the editors substituted *contingit* for the Vatican's *convenit* — consistent with apparatus `[^1]` ("posuimus *contingit* loco *convenit*") and `[^17]` ("bis *contingit* loco *convenit*") elsewhere in this same chunk, where the Quaracchi editors repeatedly note this same substitution.
+
+### `[?]` resolution count
+
+- 2 `[?]` flags resolved (both in `[^10]`).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d1-a1-q2.md` after this pass.
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d1-a1-q2.md` → 0.
+- `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d1-a1-q2.md | sort -V | uniq -c` → each `[^N]` (N=1..17) appears exactly 3× (Latin body + English body + apparatus def).
+- `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
+- d.1-scoped guard-rail audits (audit-paraphrase / audit-headers / audit-apparatus-count) run; no new flags against this chunk.
+
+## d1-dubia (pp.42-45)
+
+**Date:** 2026-05-12
+**Source:** 600dpi extracts `raw/vision/vol1/p-hires-d1dubia-r600-{144,145,146,147}.png` (PDF pp.144-147 = printed pp.42-45, offset +102).
+**Header verification:** ✓ p.42 header reads "SENTENTIARUM LIB. I." matching the chunk; p.44 verified for footer crop. DUB. I-XVI all present and ordered correctly in chunk body.
+
+### Findings table
+
+| Body anchor | Disposition | Footer source |
+|---|---|---|
+| `[^22]` La: `Vat. autem citando Ecclesiasten 7, 15. legit *fruere bonis*. [?]` | RESOLVED — chunk text matches print verbatim; flag was on the surprising lemma `serire magnatis` for the Vulgate citation, but Quaracchi unambiguously prints `serire magnatis` at p.44 footer note 4. Flag removed; text unchanged. | p.44 footer note 4 (600dpi): "Vers. 10. Ita codd. et ed. 1 ac Hugo de S. Charo in hunc locum; Vulgata vero *serire magnatis*; Vat. autem citando Ecclesiasten 7, 15. legit *fruere bonis*." |
+| `[^22]` En: parallel `[?]` | RESOLVED — English now renders the Vulgate lemma in Latin (`serire magnatis`) with literal gloss "to serve the great" rather than the earlier paraphrase "to consort with great men". Flag removed. | same |
+
+### `[?]` resolution count
+
+- 2 `[?]` flags resolved (both in `[^22]`).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d1-dubia.md` after this pass.
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d1-dubia.md` → 0 inline (frontmatter status string updated to drop the "[?] flags on ambiguous spots" phrasing).
+- `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
+- d.1-scoped guard-rail audits (audit-paraphrase / audit-headers / audit-apparatus-count) run; no new flags against this chunk.
+
+## d10-a1-q3 (pp.198-199)
+
+Pass: 2026-05-12. Resolved 2 inline `[?]` flag instances (1 substantive site × Latin + English mirror) via 600dpi PDF eyes-on. Source: `raw/vision/vol1/p-hires-d10a1q3-r600-300.png` (PDF p.300 = printed p.198) + `-301.png` (PDF p.301 = printed p.199) + `/tmp/p200-r600-302.png` (PDF p.302 = printed p.200; scholion bleeds onto p.200 top), extracted via `pdftoppm -r 600`. Page-header verification: PDF 301 shows running head "DIST. X. ART. I. QUAEST. III." with printed `199` top-right; PDF 302 shows printed `200` top-left under "SENTENTIARUM LIB. I." Pt1 offset +102 holds.
+
+**Date**: 2026-05-12
+**Inline `[?]` count at start**: 2 (both literal `Brulifer[?]` — Latin scholion-I closing + English mirror).
+**`[?]` flags remaining after pass**: 0.
+
+| Flag | Location | Disposition |
+|---|---|---|
+| `Brulifer[?]` (La) | Scholion I closing: «Cfr. Brulifer[?] ad hunc locum S. Bonaventurae.» | RESOLVED. 600dpi crop `/tmp/p200-line.png` shows printed reading unambiguously **Brulifer** (clear B-r-u-l-i-f-e-r). This is **Stephanus Brulefer** (Étienne Brulefer, †1499), Franciscan commentator on Bonaventure's *Sentences*. Flag removed. |
+| `Brulifer[?]` (En mirror) | English Scholion I closing: «Cf. Brulifer[?] on this passage of St. Bonaventure.» | RESOLVED. Same PDF crop. English glossed as "Brulefer (Stephanus Brulefer, †1499)" to make the historical referent transparent for non-specialist readers. Flag removed. |
+
+### Systemic finding (scholion page-break)
+
+Scholion I for q.3 begins on **printed p.200** (PDF 302), not p.199 — the body and apparatus footer of p.199 fill the page below the scholion start. The chunk's inline `<!-- page 199 -->` marker was placed immediately before `### Scholion`, conflating the body's last paragraph (which IS on p.199) with the scholion (which is on p.200). Added a corrective `<!-- page 200 -->` marker between `### Scholion` and `**I.**`. Did not modify `printed_pages` frontmatter ([198, 199]) — scholion overflow onto p.200 is a single-paragraph bleed and out of the resolution-pass scope; flagged here for future audit.
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d10-a1-q3.md` → 0.
+- `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
+- d.10 guard-rail audits (audit-paraphrase / audit-headers / audit-apparatus-count) run; no new flags introduced.
+
+## d10-a1-q2 (pp.197-198, formerly mis-labelled 196-198)
+
+- **Source**: 600dpi PDF extracts `/tmp/p-d10a1q2-{298,299,300,301}.png` (printed pp. 196-199; pt1 offset +102).
+- 2 inline `[?]` flags, both in apparatus.
+- **Systemic finding**: chunk frontmatter `printed_pages: [196,197,198]` was off-by-one — q.2 (`QUAESTIO II.`) begins on printed p.197 (PDF p.299), not p.196 (p.196 contains end of q.1 + Scholion to q.1). Body text "Secundo quaeritur..." appears on p.197; respondeo continuation ("tenet de ratione liberalitatis...") on p.198; scholion II–III on p.199. Frontmatter, source string, apparatus header note, and three `<!-- page N -->` markers all corrected (+1 each). PDF pages updated to [299,300,301].
+
+| Flag | Location | Disposition |
+|---|---|---|
+| `[^6]` Aristotle text-number | English mirror `text 41 [?] and 53 (c. 9 sq.)` (Latin OCR rendered `text. il. et 53.`) | RESOLVED. P.197 footer note 6 (600dpi crop `/tmp/p197-lower.png`) reads unambiguously `text. 41. et 53.` Latin updated to `text. 41. et 53.`; English flag stripped to `text 41 and 53`. |
+| `[^19]` codex sigla list | Latin `A C F G I I K L R S U V W X Y` (doubled-I OCR garble) + English mirror `A C F G H [?] I K L R S U V W X Y` | RESOLVED. P.198 footer note 8 (600dpi crop `/tmp/p198-sigla2.png`) prints sigla list as `A C F G H I K L R S U V W X Y` — no missing siglum between H and I. Latin updated `G I I K` → `G H I K`; English `[?]` stripped. |
+
+### `[?]` resolution count
+
+- 2 `[?]` flags resolved (1 Aristotelian citation, 1 sigla list).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d10-a1-q2.md` after this pass.
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d10-a1-q2.md` → 0.
+- `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d10-a1-q2.md | sort -u | wc -l` → 21 unique markers, each appears 3× (Latin body + English body + apparatus def).
+- `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
+- d.10 guard-rail audits (audit-paraphrase / audit-headers / audit-apparatus-count) run; no new flags introduced.

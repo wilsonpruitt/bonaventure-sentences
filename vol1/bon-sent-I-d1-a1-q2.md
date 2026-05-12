@@ -15,7 +15,7 @@ line_end: 13961
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 32–33"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 13675-13961), fresh literal English translation, full apparatus from raw OCR (17 entries from p.32-33 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 13675-13961), fresh literal English translation, full apparatus from raw OCR (17 entries from p.32-33 footer blocks), scholion translated, all ambiguity flags resolved via 600dpi PDF eyes-on (2026-05-12 d.1-d.10 polish pass)"
 format_version: 1
 ---
 
@@ -177,9 +177,9 @@ Hence note that, since *to use* is to take up something into the faculty of the 
 
     **En.** Inasmuch as *to use* is to take up something into the faculty of the will. See above, q. 1. Compare also Aristotle, *Nicomachean Ethics* I, last chapter, where he treats of the powers which are not subject to the command of reason and the will.
 
-[^10]: **La.** Vat. cum cod. *cc* male omittit *bene*, quod antiquiores mss. ac ed. 1 suppeditant, mutavimusque *contra* in *contra[?]*. [?]
+[^10]: **La.** Vat. cum cod. *cc* male omittit *bene*, quod antiquiores mss. ac ed. 1 suppeditant, mutavimusque *convenit* in *contingit*.
 
-    **En.** The Vatican edition with codex *cc* wrongly omits *bene*, which the older manuscripts and ed. 1 supply; and we have changed *contra* into *contra[?]*. [The closing phrase of this note is OCR-garbled — flag.]
+    **En.** The Vatican edition with codex *cc* wrongly omits *bene*, which the older manuscripts and ed. 1 supply; and we have changed *convenit* into *contingit*.
 
 [^11]: **La.** Quaest. 30: *Sic enim utitur suo corpore: quibusdam assumendis vel respuendis ad valitudinem, quibusdam tolerandis ad patientiam, quibusdam ordinandis ad iustitiam, quibusdam considerandis ad aliquod veritatis documentum*. — In quo textu plurimi codd. ut A B C D F G H I K S T W Z etc. omittunt *assumendis vel*, pro quo ed. 1 ponit *conferendis aut*.
 

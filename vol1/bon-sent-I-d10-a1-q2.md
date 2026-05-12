@@ -8,14 +8,14 @@ quaestio: 2
 type: quaestio
 title_la: "Utrum in divinis ponenda sit persona procedens per modum amoris sive caritatis"
 title_en: "Whether a person proceeding by way of love or charity is to be posited in God"
-printed_pages: [196, 197, 198]
-pdf_pages: [298, 299, 300]
+printed_pages: [197, 198, 199]
+pdf_pages: [299, 300, 301]
 line_start: 38661
 line_end: 38990
-source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 196–198"
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 197–199"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 38661-38990), fresh literal English translation, full apparatus from raw OCR (21 entries from p.196-197 footer blocks), scholion I-III translated, frontmatter printed_pages corrected from [192,193] to [196,197,198], [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 38661-38990), fresh literal English translation, full apparatus from raw OCR (21 entries from p.197-198 footer blocks), scholion I-III translated, frontmatter printed_pages corrected to [197,198,199] (q.2 starts p.197; prior [196,197,198] was off-by-one), page-break markers and apparatus header re-aligned, 2 ambiguity flags resolved via 600dpi PDF eyes-on (2026-05-12 d.1-d.10 polish pass)"
 format_version: 1
 ---
 
@@ -26,7 +26,7 @@ format_version: 1
 
 ## Latin
 
-<!-- page 196 -->
+<!-- page 197 -->
 
 ### Quaestio II.
 ### *Utrum in divinis ponenda sit persona procedens per modum amoris sive caritatis.*
@@ -65,7 +65,7 @@ Secundo quaeritur, utrum in divinis sit necesse ponere personam procedentem per 
 
 **Respondeo:** Dicendum, quod, sicut probatum est supra[^9], necesse est aliquam personam in divinis procedere per modum liberalitatis, et illam dicimus Spiritum sanctum. Hanc autem necesse est procedere per modum amoris; quia, si ponatur in divinis emanatio[^10] per modum voluntatis, necesse est, quod inter omnes sit prima et nobilissima. Emanatio autem per modum amoris est huiusmodi, quod patet, si respiciamus in anima. Affectio enim amoris est prima inter omnes affectiones et radix omnium aliarum, sicut ostendit Augustinus in pluribus locis, maxime in decimo quarto de Civitate Dei[^11]. Et ista affectio nobilissima est inter omnes, quoniam plus
 
-<!-- page 197 -->
+<!-- page 198 -->
 
 tenet de ratione liberalitatis. Unde hoc est donum, in quo omnia alia dona donantur, et in quo consistunt omnes deliciae substantiae intellectualis. Unde nihil in creaturis est considerare ita deliciosum, sicut amorem mutuum; et sine amore nullae sunt deliciae[^12]. Propter hoc dicit Philosophus[^13], quod amicitia aut est beatitudo, aut non sine beatitudine. Si ergo emanatio est per modum liberalitatis in divinis, necesse fuit esse[^14] primam et summam; et sic necesse fuit esse per modum amoris.
 
@@ -85,7 +85,7 @@ tenet de ratione liberalitatis. Unde hoc est donum, in quo omnia alia dona donan
 
 **I.** Amor seu caritas in divinis accipitur tripliciter: *essentialiter*, et sic est illa complacentia, qua quaelibet persona diligit se et duas alias personas; *notionaliter*, et sic est ipsa spiratio activa sive concordia in spirando, qua Pater et Filius spirant Spiritum sanctum; *personaliter*, et sic est ipsa persona procedens i. e. Spiritus sanctus (cfr. infra a. 2. q. 1.). Et notandum, quod Spiritus sanctus non procedit ut id quod datur per amorem, sed ut amor datus sive productus.
 
-<!-- page 198 -->
+<!-- page 199 -->
 
 **II.** Quaestio in solut. ad 4. tacta, utrum vis irascibilis habeat locum in substantia spirituali, resolvitur quoad Deum a S. Bonaventura (I. Sent. d. 45. dub. 10.) cum sententia communi sic: «Vis irascibilis et ira non recipitur in Deo nisi transsumtive». Quoad Angelos et appetitum rationalem animae humanae Henr. Gand. (Quodl. 8. q. 15.) affirmat, in appetitu rationali distinguendam esse vim irascibilem et concupiscibilem; sed ipsius argumenta a Scot. (III. Sent. d. 26. q. unic.) impugnantur. Etiam S. Thom. (S. 1. q. 59. a. 4.) illam distinctionem Henr. Gand. non admittit, nec Richardus (II. Sent. d. 24. a. 2. q. 3.); etiam Petr. a Tar. (III. Sent. d. 26. a. 7.) hanc negativam sententiam reputat probabiliorem. Propriam suam sententiam Scot. explicat alibi (III. Sent. d. 34. q. unic.), admittendo aliquam distinctionem ex parte obiecti, cui consentiunt S. Bonav. (II. Sent. d. 25. p. I. q. 6. ad 2, et d. 24. p. I. a. 2. q. 1; III. Sent. d. 33. a. 1. q. 3.) et Alex. Hal. (S. p. II. q. 29. m. 3.).
 
@@ -132,7 +132,7 @@ Second, the question is whether in God it is necessary to posit a person proceed
 
 **I respond:** It must be said that, as has been proved above[^9], it is necessary that some person in God proceed by way of liberality, and that one we call the Holy Spirit. But this person must necessarily proceed by way of love; because, if there is posited in God an emanation[^10] by way of will, it is necessary that among all [emanations] it be the first and most noble. Now an emanation by way of love is of this kind, which is clear if we look at the soul. For the affection of love is the first among all affections and the root of all the others, as Augustine shows in many places, especially in the fourteenth [book] *On the City of God*[^11]. And this affection is the most noble among all, because it
 
-<!-- page 197 -->
+<!-- page 198 -->
 
 holds more of the character of liberality. Hence this is the gift in which all other gifts are given, and in which consist all the delights of the intellectual substance. Hence nothing in creatures is to be considered so delightful as mutual love; and without love there are no delights[^12]. On account of this the Philosopher says[^13] that friendship either is beatitude, or is not without beatitude. If therefore the emanation is by way of liberality in God, it had to be[^14] the first and highest; and thus it had to be by way of love.
 
@@ -152,7 +152,7 @@ holds more of the character of liberality. Hence this is the gift in which all o
 
 **I.** Love or charity in God is taken in three ways: *essentially*, and thus it is that complacency by which any person loves itself and the two other persons; *notionally*, and thus it is the active spiration itself or the concord in spirating, by which the Father and the Son spirate the Holy Spirit; *personally*, and thus it is the proceeding person itself, i.e., the Holy Spirit (cf. below a. 2. q. 1.). And it is to be noted that the Holy Spirit does not proceed as that which is given through love, but as love given or produced.
 
-<!-- page 198 -->
+<!-- page 199 -->
 
 **II.** The question touched in the solution to [argument] 4, whether the irascible power has place in a spiritual substance, is resolved as regards God by St. Bonaventure (I. Sent. d. 45. dub. 10.) with the common opinion thus: «The irascible power and anger are not received in God except by transumption». As regards Angels and the rational appetite of the human soul, Henry of Ghent (Quodl. 8. q. 15.) affirms that in the rational appetite the irascible and concupiscible powers are to be distinguished; but his arguments are impugned by Scotus (III. Sent. d. 26. q. unic.). St. Thomas (S. 1. q. 59. a. 4.) likewise does not admit that distinction of Henry of Ghent, nor does Richard (II. Sent. d. 24. a. 2. q. 3.); Peter of Tarentaise also (III. Sent. d. 26. a. 7.) considers this negative opinion the more probable. Scotus explains his own opinion elsewhere (III. Sent. d. 34. q. unic.), admitting some distinction on the side of the object, in which St. Bonaventure concurs (II. Sent. d. 25. p. I. q. 6. ad 2, and d. 24. p. I. a. 2. q. 1; III. Sent. d. 33. a. 1. q. 3.), as does Alexander of Hales (S. p. II. q. 29. m. 3.).
 
@@ -162,7 +162,7 @@ holds more of the character of liberality. Hence this is the gift in which all o
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are reproduced verbatim from the Quaracchi editors' apparatus (footers of pp. 196–197).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are reproduced verbatim from the Quaracchi editors' apparatus (footers of pp. 197–198).
 
 [^1]: **La.** Mss. et ed. 1 *postulantibus*, expunximus hic a Vat. additum *enim*. Mox post *cognitio* eod. W addit *boni*. — Cfr. de hoc argumento August., IX. de Trin. c. 10. n. 15. ubi et ait: *Verbum est... cum amore notitia.*
 
@@ -186,7 +186,7 @@ holds more of the character of liberality. Hence this is the gift in which all o
 
 [^6]: **La.** Praestituimus lectionem distinctiorem antiquiorum mss. et ed. 1 pro lectione Vat. et cod. cc sic *concupiscibilis amorem*. Haec motivae potentiae divisio, a Scholasticis recepta, occurrit in Nemesii Episc. Emeseni libro *de Natura hominis* c. 16. et seqq.; ac in Gregorii Nysseni libro *de Anima et resurrectione*, et in Epistola eiusdem canonica ad S. Letoium; ac Ioan. Damasc., II. *de Fide orthod.* c. 22, ubi et passiones seu affectiones animae enumerantur. Vide et Aristot., III. *de Anima*, text. 41. et 53. (c. 9. seq.); *de Motu animal.* c. 3. (c. 6.); II. *Ethic.* c. 5, et I. *Magn. Moral.* c. 8. (c. 7. et 8.).
 
-     **En.** We have preferred the more distinct reading of the older manuscripts and edition 1 over the reading of the Vatican [edition] and codex cc, which reads thus: *concupiscibilis amorem*. This division of the motive power, received by the Scholastics, occurs in Nemesius bishop of Emesa, *On the Nature of Man*, c. 16 and following; and in Gregory of Nyssa's book *On the Soul and Resurrection*, and in his canonical letter to St. Letoius; and in John Damascene, II. *On the Orthodox Faith*, c. 22, where also the passions or affections of the soul are enumerated. See also Aristotle, III. *On the Soul*, text 41 [?] and 53 (c. 9 sq.); *On the Motion of Animals* c. 3 (c. 6); II. *Ethics* c. 5, and I. *Greater Morals* c. 8 (c. 7 and 8).
+     **En.** We have preferred the more distinct reading of the older manuscripts and edition 1 over the reading of the Vatican [edition] and codex cc, which reads thus: *concupiscibilis amorem*. This division of the motive power, received by the Scholastics, occurs in Nemesius bishop of Emesa, *On the Nature of Man*, c. 16 and following; and in Gregory of Nyssa's book *On the Soul and Resurrection*, and in his canonical letter to St. Letoius; and in John Damascene, II. *On the Orthodox Faith*, c. 22, where also the passions or affections of the soul are enumerated. See also Aristotle, III. *On the Soul*, text 41 and 53 (c. 9 sq.); *On the Motion of Animals* c. 3 (c. 6); II. *Ethics* c. 5, and I. *Greater Morals* c. 8 (c. 7 and 8).
 
 [^7]: **La.** Codd. V Y *in divinis*.
 
@@ -236,9 +236,9 @@ holds more of the character of liberality. Hence this is the gift in which all o
 
      **En.** Distinction 11, q. 2 and d. 13, q. 3. — Then after *status* on the faith of very many manuscripts and edition 1 we have substituted *est* for *sit*.
 
-[^19]: **La.** Vat. cum cod. cc addit *alium*, quod deest in antiquioribus mss. et ed. 1. Mox multi codd. ut A C F G I I K L R S U V W X Y etc. *illum* loco *alium*.
+[^19]: **La.** Vat. cum cod. cc addit *alium*, quod deest in antiquioribus mss. et ed. 1. Mox multi codd. ut A C F G H I K L R S U V W X Y etc. *illum* loco *alium*.
 
-     **En.** The Vatican [edition] with codex cc adds *alium*, which is missing in the older manuscripts and edition 1. Then many codices, such as A C F G H [?] I K L R S U V W X Y etc., [read] *illum* in place of *alium*.
+     **En.** The Vatican [edition] with codex cc adds *alium*, which is missing in the older manuscripts and edition 1. Then many codices, such as A C F G H I K L R S U V W X Y etc., [read] *illum* in place of *alium*.
 
 [^20]: **La.** Libr. II. *de Fide orthod.* c. 16: *Est porro ira rationis satelles, vindex cupiditatis.*
 

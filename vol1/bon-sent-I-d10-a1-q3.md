@@ -15,7 +15,7 @@ line_end: 39134
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 198–199"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 38990-39134), fresh literal English translation, full apparatus from raw OCR (8 entries from p.198-199 footer blocks), scholion translated, frontmatter printed_pages corrected from [193,194] to [198,199], [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 38990-39134), fresh literal English translation, full apparatus from raw OCR (8 entries from p.198-199 footer blocks), scholion translated, frontmatter printed_pages corrected from [193,194] to [198,199], [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-12 polish-blocker [?] pass — 2 Brulifer[?] flags (La scholion + En mirror) RESOLVED via 600dpi PDF p.200 (PDF 302) eyes-on: printed reads 'Cfr. Brulifer ad hunc locum S. Bonaventurae' (= Stephanus Brulefer, †1499); inline page marker for scholion corrected to <!-- page 200 --> (scholion bleeds onto p.200 top-right column)"
 format_version: 1
 ---
 
@@ -74,7 +74,9 @@ Tertio quaeritur, utrum sit necesse ponere tertiam personam procedentem per modu
 
 ### Scholion
 
-**I.** In solut. ad 4. verba locum Richardi a S. Victore exponentia: «Non dicunt modum amandi circa amorem etc.» hunc sensum habent: Pater habet amorem gratuitum, quia non est ab alio, Filius amorem permixtum, quia a Patre procedit et cum ipso producit Spiritum sanctum, cui attribuitur amor debitus, quia non producit personam, sed ipse producitur. Cum vero amor in tribus personis sit idem et purissimus, locutio Richardi sumenda est non in sensu proprio, sed metaphorico; unde Scholastici posteriores eam non probabant. Cfr. Brulifer[?] ad hunc locum S. Bonaventurae.
+<!-- page 200 -->
+
+**I.** In solut. ad 4. verba locum Richardi a S. Victore exponentia: «Non dicunt modum amandi circa amorem etc.» hunc sensum habent: Pater habet amorem gratuitum, quia non est ab alio, Filius amorem permixtum, quia a Patre procedit et cum ipso producit Spiritum sanctum, cui attribuitur amor debitus, quia non producit personam, sed ipse producitur. Cum vero amor in tribus personis sit idem et purissimus, locutio Richardi sumenda est non in sensu proprio, sed metaphorico; unde Scholastici posteriores eam non probabant. Cfr. Brulifer ad hunc locum S. Bonaventurae.
 
 **II.** Quoad conclusionem cfr. Alex. Hal., S. p. I. q. 43. m. 5. — Scot., I. Sent. d. 12. q. 1, et d. 32. q. 1. ad 3. 4. — S. Thom., hic q. 1. a. 2. — B. Albert., hic a. 7. — Petr. a Tar., hic q. 2. n. 2. — Richard. a Med., hic a. 1. q. 3. — Henr. Gand., S. a. 61. q. 4, et a. 54. q. 6. n. 47. — Biel, I. Sent. d. 12. q. 2. nota 3.
 
@@ -124,7 +126,7 @@ Thirdly it is asked whether it is necessary to posit a third person proceeding b
 
 ### Scholion
 
-**I.** In the solution to [argument] 4, the words expounding the passage of Richard of St. Victor — «They do not state the mode of loving with respect to the love, etc.» — have this sense: the Father has gratuitous love, because He is not from another; the Son has mixed love, because He proceeds from the Father and together with Him produces the Holy Spirit, to whom is attributed owed love, because He does not produce a person, but is Himself produced. But since love in the three persons is the same and most pure, Richard's expression must be taken not in a proper sense, but in a metaphorical one; whence the later Scholastics did not approve it. Cf. Brulifer[?] on this passage of St. Bonaventure.
+**I.** In the solution to [argument] 4, the words expounding the passage of Richard of St. Victor — «They do not state the mode of loving with respect to the love, etc.» — have this sense: the Father has gratuitous love, because He is not from another; the Son has mixed love, because He proceeds from the Father and together with Him produces the Holy Spirit, to whom is attributed owed love, because He does not produce a person, but is Himself produced. But since love in the three persons is the same and most pure, Richard's expression must be taken not in a proper sense, but in a metaphorical one; whence the later Scholastics did not approve it. Cf. Brulefer (Stephanus Brulefer, †1499) on this passage of St. Bonaventure.
 
 **II.** As to the conclusion, cf. Alex. of Hales, *Summa*, p. I, q. 43, m. 5. — Scotus, I *Sent.* d. 12, q. 1, and d. 32, q. 1, ad 3, 4. — St. Thomas, here q. 1, a. 2. — Bl. Albert, here a. 7. — Peter of Tarentaise, here q. 2, n. 2. — Richard of Mediavilla, here a. 1, q. 3. — Henry of Ghent, *Summa* a. 61, q. 4, and a. 54, q. 6, n. 47. — Biel, I *Sent.* d. 12, q. 2, nota 3.
 

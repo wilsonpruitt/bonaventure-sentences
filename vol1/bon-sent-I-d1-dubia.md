@@ -13,7 +13,7 @@ line_end: 15788
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 42–45"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 15262-15788), fresh literal English translation, full apparatus from raw OCR (37 entries from p.42-45 footer blocks), 16 DUB present, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 15262-15788), fresh literal English translation, full apparatus from raw OCR (37 entries from p.42-45 footer blocks), 16 DUB present; all [?] flags resolved via 600dpi PDF eyes-on (2 flags at [^22] resolved 2026-05-12, d.1-d.10 polish pass)"
 format_version: 1
 ---
 
@@ -342,9 +342,9 @@ Likewise it is objected against this that he says: *"And certain are things thro
 
     **En.** The Vatican, against the manuscripts and edition 1, [has] *dicitur*. A little below, the Vatican, against codices C, I, S, T, V, W, X, Z etc. and edition 1, after *conversa* superfluously adds *per consequens*.
 
-[^22]: **La.** Vers. 10. Ita codd. et ed. 1 ac Hugo de S. Charo in hunc locum; Vulgata vero *serire magnatis*; Vat. autem citando Ecclesiasten 7, 15. legit *fruere bonis*. [?]
+[^22]: **La.** Vers. 10. Ita codd. et ed. 1 ac Hugo de S. Charo in hunc locum; Vulgata vero *serire magnatis*; Vat. autem citando Ecclesiasten 7, 15. legit *fruere bonis*.
 
-    **En.** Verse 10. Thus the codices and edition 1, and Hugh of St. Cher on this passage; but the Vulgate [has] *"to consort with great men"*; the Vatican, however, citing Ecclesiastes 7:15, reads *fruere bonis*. [?]
+    **En.** Verse 10. Thus the codices and edition 1, and Hugh of St. Cher on this passage; but the Vulgate [has] *serire magnatis* ("to serve the great"); the Vatican, however, citing Ecclesiastes 7:15, reads *fruere bonis*.
 
 [^23]: **La.** Vers. 41. — Mox post *fruerentur* in Vat. additur *eis*.
 
