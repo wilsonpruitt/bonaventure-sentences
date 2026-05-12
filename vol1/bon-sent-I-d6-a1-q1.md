@@ -15,7 +15,7 @@ line_end: 28085
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 125–126"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 27817-28085), fresh literal English translation, full apparatus from raw OCR (18 entries from p.125-126 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 27817-28085), fresh literal English translation, full apparatus from raw OCR (18 entries from p.125-126 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch) — 2026-05-12 [?]-flag polish pass: 6 resolved via 600dpi PDF, 0 accepted-illegible"
 format_version: 1
 ---
 
@@ -74,7 +74,7 @@ Et haec ultima[^13] necessitas cadit in Deo, et principaliter in Deo, quia ipse 
 
 Ultima illa species necessitatis, quam S. Doctor in corp. vocat *necessitatem immutabilitatis*, intelligenda est in sensu absoluto, ita ut eius oppositum simpliciter sit impossibile. Hoc ideo notandum fuit, quia aliqui doctores necessitatem immutabilitatis aliter accipiunt, nempe pro ea qua aliquid ita habet esse, ut oppositum etiam possit esse, sed non simul cum suo opposito (cfr. Brulifer ad hunc locum). — De variis divisionibus necessitatis cfr. S. Bonav., II. Sent. d. 7. p. I. a. 2. q. 2. ad 3; et ibid. d. 25. p. II. q. 2. in corp.; III. Sent. d. 12. a. 2. q. 1. ad 5.
 
-**II.** Quoad conclusionem ipsam cfr. Alex. Hal., S. p. I. q. 42. m. 5. a. 1. — Scot., hic q. 1, et Report., hic q. 3. — S. Thom., hic q. 1. a. 1; S. I. q. 41. a. 2. — B. Albert., hic [?].
+**II.** Quoad conclusionem ipsam cfr. Alex. Hal., S. p. I. q. 42. m. 5. a. 1. — Scot., hic q. 1, et Report., hic q. 3. — S. Thom., hic q. 1. a. 1; S. I. q. 41. a. 2. — B. Albert., hic a. 1; S. p. I. tr. 7. q. 30. m. 3. a. 2. — Petr. a Tar., hic q. 1. a. 1. — Richard. a Med., hic q. 1. — Aegid. R., hic 1. princ. q. 1. et 2. — Henr. Gand., de hac et seq. q. 8. a. 54. q. 3.
 
 ---
 
@@ -126,7 +126,7 @@ And this last[^13] necessity falls in God, and principally in God, because he al
 
 That last species of necessity, which the holy Doctor in the body [of the article] calls *necessity of immutability*, must be understood in an absolute sense, so that its opposite is simply impossible. This had to be noted because some doctors take *necessity of immutability* otherwise, namely for that by which something has its being in such a way that the opposite can also be, but not at the same time as its opposite (cf. Brulifer at this place). — On the various divisions of necessity see St. Bonaventure, II Sent. d. 7. p. I. a. 2. q. 2. ad 3; and ibid. d. 25. p. II. q. 2. in the body; III Sent. d. 12. a. 2. q. 1. ad 5.
 
-**II.** Concerning the conclusion itself see Alex. of Hales, S. p. I. q. 42. m. 5. a. 1. — Scotus, here q. 1, and *Reportata*, here q. 3. — St. Thomas, here q. 1. a. 1; S. I. q. 41. a. 2. — Bl. Albert, here [?].
+**II.** Concerning the conclusion itself see Alex. of Hales, S. p. I. q. 42. m. 5. a. 1. — Scotus, here q. 1, and *Reportata*, here q. 3. — St. Thomas, here q. 1. a. 1; S. I. q. 41. a. 2. — Bl. Albert, here a. 1; S. p. I. tr. 7. q. 30. m. 3. a. 2. — Peter of Tarentaise, here q. 1. a. 1. — Richard of Mediavilla, here q. 1. — Giles of Rome, here 1. *princ.* q. 1. et 2. — Henry of Ghent, *On this and the following* q. 8. a. 54. q. 3.
 
 ---
 
@@ -137,8 +137,8 @@ That last species of necessity, which the holy Doctor in the body [of the articl
 [^1]: **La.** Vat. *respondet ad haereticum hominem arguendo*, sed obstant mss. et ed. 1.
      **En.** The Vatican edition reads *he responds to the heretical man by arguing*, but the manuscripts and the first edition stand against [it].
 
-[^2]: **La.** Nonnulli codd. ut KWXY *ee aliquo* pro *alio*. [?]
-     **En.** Some codices, as KWXY, [read] *ee aliquo* in place of *alio*. [?]
+[^2]: **La.** Nonnulli codd. ut K W X Y *ee aliquo* pro *alio*.
+     **En.** Some codices, as K W X Y, [read] *ee aliquo* in place of *alio*.
 
 [^3]: **La.** Aristot., III. Phys. text. 32 (c. 1): *Posse enim ab ipso esse nihil differt in perpetuis*. — Paulo infra post *auferre* cod. O addit *ei*. — De conversione harum propositionum modalium *impossibile non esse* et *necesse esse* cfr. Aristot., II. Periherm. c. 3 (c. 13) et de relatione inter omnipotentiam et potentiam vide infra d. 7. q. 1.
      **En.** Aristotle, *Physics* III, text 32 (c. 1): *For in eternal things, to be able to be does not differ from being itself*. — A little below, after *auferre*, codex O adds *ei*. — On the conversion of these modal propositions *impossible-not-to-be* and *necessary-to-be*, cf. Aristotle, *De interpretatione* II, c. 3 (c. 13), and on the relation between omnipotence and power see below d. 7. q. 1.
@@ -167,8 +167,8 @@ That last species of necessity, which the holy Doctor in the body [of the articl
 [^11]: **La.** 24, 17.
      **En.** [Ps.] 24, 17.
 
-[^12]: **La.** Cfr. Aristot., I. Phys. text. 81 (c. 9), ubi agit de materiae naturali appetitu respectu formae; et V. Metaph. text. 6 (IV. c. 5), ubi praeter necessitatem immutabilitatis alias proponit necessitatis species, quae in praecedentibus tactae [sunt]. [?]
-     **En.** Cf. Aristotle, *Physics* I, text 81 (c. 9), where he treats of the natural appetite of matter with respect to form; and *Metaphysics* V, text 6 (IV. c. 5), where, besides necessity of immutability, he proposes other species of necessity, which were touched on in the preceding [passages]. [?]
+[^12]: **La.** Cfr. Aristot., I. Phys. text. 81 (c. 9), ubi agit de materiae naturali appetitu respectu formae; et V. Metaph. text. 6 (IV. c. 5), ubi praeter necessitatem immutabilitatis alias proponit necessitatis species, quae in praecedentibus tactae sunt.
+     **En.** Cf. Aristotle, *Physics* I, text 81 (c. 9), where he treats of the natural appetite of matter with respect to form; and *Metaphysics* V, text 6 (IV. c. 5), where, besides necessity of immutability, he proposes other species of necessity, which were touched on in the preceding [passages].
 
 [^13]: **La.** Vat. cum cod. cc, obnitentibus antiquioribus mss. et ed. 1, *Et hoc ultimo modo*, et paulo infra post *est qui* minus apte repetit *principaliter*. In fine corp. cod. T cum pluribus aliis post *qualis* omittit *non*, quae lectio explicatur lectione cod. R *quare est in Deo*.
      **En.** The Vatican edition with codex cc, with the older manuscripts and the first edition resisting, [reads] *Et hoc ultimo modo* ["And in this last mode"], and a little below, after *est qui*, less aptly repeats *principaliter*. At the end of the body, codex T with several others, after *qualis*, omits *non*, which reading is explained by the reading of codex R *quare est in Deo* ["wherefore it is in God"].

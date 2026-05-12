@@ -402,3 +402,111 @@ Bucket 1 [?]-flag polish pass against 600dpi PDF (`raw/vision/vol1/p-054.png` �
 - `grep -nE '\[\?\]' vol1/bon-sent-I-d4-a1-q1.md` → only the `transcription_status` frontmatter line (historical reference to "flags on ambiguous spots"); no body or apparatus `[?]`.
 - `cd site && node scripts/build-content.mjs` parses cleanly.
 - d.4-scoped audits (paraphrase, headers, apparatus-count) re-run with no new flags surfaced by this chunk.
+
+## d8-p1-a2-q1 (pp.156-158)
+
+- **Source**: `raw/vision/vol1/p-156.png`, `p-157.png`, `p-158.png` (re-extracted at 600 dpi).
+- The chunk carried 8 inline `[?]` flags (4 distinct loci, each mirrored Latin + English) — all introduced by the 2026-05-10 rechunk pipeline against well-formed Quaracchi editorial brackets that the rechunk treated as uncertain.
+- Eyes-on the 600dpi PDF resolves all 4 loci as standard Quaracchi printed readings; no actual transcription ambiguity remained.
+
+| Locus | Body / Apparatus | Disposition | Footer source |
+|---|---|---|---|
+| Respondeo `pure[?] actus` (Lat) + `purely[?] act` (En) | body, p.157 | RESOLVED → `pure` / `purely` | `[^13]` itself documents: "cum plerisque codd. ut ASTVW etc. et ed. 1 legimus *pure* loco *purus*"; Quaracchi prints *pure*. |
+| `[^2]` `*Omne [movetur][?] ex potentia...*` (Lat) + En mirror | apparatus, p.156 footer note 2 | RESOLVED → `[movetur]` (Quaracchi editorial supply) | p.156 footer 2 read verbatim: "Vide Aristot., XII. Metaph. text. 8. (XI. c. 2.): *Omne [movetur] ex potentia ente in actu ens.*" Square brackets are Quaracchi's own supplied verb. |
+| `[^3]` `*Sciendum itaque, quia [omnis][?] mutatio...*` (Lat) + En mirror | apparatus, p.156 footer note 3 | RESOLVED → `[omnis]` (Quaracchi editorial supply) | p.156 footer 3 read verbatim: "Libr. II. de Trin. c. 3.: *Sciendum itaque, quia [omnis] mutatio est aut de statu...*" Bracketed *omnis* is Quaracchi's editorial supply, not OCR doubt. |
+| `[^24]` `omittit *non bene sed actio est ab ipso*[?]` (Lat) + En mirror | apparatus, p.158 footer note 6 | RESOLVED → lemma reads exactly as printed | p.158 footer 6 read verbatim: "Vat. contra fere omnes codd. et ed. 1 omittit *non bene sed actio est ab ipso*, pro quo cod. Q *sed actio est aliquid ab ipso*." The phrase "*non bene sed actio est ab ipso*" is Quaracchi's own lemma — "non bene" flags the Vatican omission as wrongful, "sed actio est ab ipso" is the restored reading. |
+
+### `[?]` resolution count
+
+- 8 `[?]` flags resolved (4 Latin + 4 English mirrors).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d8-p1-a2-q1.md` body/apparatus after this pass (the only surviving `[?]` substring is in the `transcription_status` frontmatter, which is historical-reference convention).
+
+### Verification
+
+- `grep -nE '\[\?\]' vol1/bon-sent-I-d8-p1-a2-q1.md` → only the `transcription_status` frontmatter line.
+- `cd site && node scripts/build-content.mjs` parses cleanly (414 chunks).
+- d.8-scoped audits (paraphrase, headers, apparatus-count) re-run.
+
+## d3-p1-a1-q1 (pp.67-70)
+
+- **Source**: `raw/vision/vol1/p-068.png`, `p-069.png` (re-extracted at 600 dpi via `tools/extract-pages.py --force`). Footer band of p.68 and body of p.69 read eyes-on.
+- The chunk carried 5 inline `[?]` flags — 1 body locus (Latin + English mirror) at the p.68→p.69 boundary for the close of contra-arg 5, 1 apparatus locus `[^6]` (Latin + English mirror) for the Augustine *de Vera Relig.* quotation, plus 1 trailing stray `[?]` in the English mirror of `[^4]` (no Latin counterpart, OCR-pipeline artefact).
+
+| Locus | Body / Apparatus | Pre-pass rendering | Disposition (PDF p.68/p.69 verbatim) |
+|---|---|---|---|
+| Close of contra 5 (Lat body, p.68 bottom) | body | `ergo illa maxime [cognoscibilis est ipsi intellectui nostro]. [?]` | RESOLVED → `ergo illa maxime cognoscibilis ab intellectu.` PDF p.68 line above the footer rule plainly reads `ergo illa maxime cognoscibilis ab intellectu.` — the OCR-era bracketed completion was a wrong editorial guess (it conflated the Quaracchi-preferred *intellectui nostro* reading from `[^13]` apparatus into the body text). The printed body says *ab intellectu*; `[^13]` separately notes that codex X adds *ipsi animae* and that *intellectui nostro* would please better. |
+| Close of contra 5 (En mirror) | body | `therefore that [light is] most [knowable to our intellect]. [?]` | RESOLVED → `therefore that [light] is most knowable by the intellect.` |
+| `[^4]` En trailing `[?]` | apparatus, p.68 footer note 3 | `…cf. Boethius, *De Consolatione* V, Prose 4. [?]` | RESOLVED → trailing `[?]` removed. Latin `[^4]` had no `[?]`; the English mirror's stray was an OCR-pipeline artefact. Footer text matches Quaracchi verbatim. |
+| `[^6]` La (Augustine *de Vera Relig.* c. 29 n. 53) | apparatus, p.68 footer note 5 | `August., *de Vera Relig.* c. 29. n. 53: [...] *poribus non sentientis tantum vitae, sed etiam rationali[s]* [?] [...] *Iam vero illud videre facillimum est, praestantiorem esse iudicantem, quam illa res est, de qua iudicatur.* — Cod. X hic addit *sicut dicit Augustinus*.` | RESOLVED → `August., *de Vera Relig.* c. 29. n. 53: *Iudicare de corporibus non sentientis tantum vitae, sed etiam ratiocinantis* etc., *iam vero illud videre facillimum est, praestantiorem esse iudicantem, quam illa res est, de qua iudicatur.* — Cod. X hic addit *sicut dicit Augustinus*.` p.68 footer #5 read verbatim: Quaracchi opens with *Iudicare de corporibus…* and uses `etc.` to elide a clause, then resumes *iam vero illud videre facillimum est…*. The OCR garble `[cor]poribus … rationali[s]` was a column-edge fragment of `corporibus … ratiocinantis` — the truncated word is *ratiocinantis* (judging-of-reasoning-life), not *rationalis*. |
+| `[^6]` En mirror | apparatus | `"[...] in bodies, of life not only sentient, but also rational [?] [...] Now it is most easy to see that he who judges is more excellent than the thing concerning which he judges."` | RESOLVED → `"To judge concerning bodies belongs not only to sentient life, but also to ratiocinating [life]," etc., "now it is most easy to see that he who judges is more excellent than the thing concerning which he judges."` Reflects the recovered Latin lemma and Quaracchi's `etc.` elision. |
+
+### `[?]` resolution count
+
+- 5 `[?]` flags resolved (all via 600dpi PDF eyes-on of pp. 68-69).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d3-p1-a1-q1.md` body/apparatus after this pass (the only surviving `[?]` substring is in the `transcription_status` frontmatter, which is historical-reference convention).
+
+### Verification
+
+- `grep -nE '\[\?\]' vol1/bon-sent-I-d3-p1-a1-q1.md` → only the `transcription_status` frontmatter line.
+- `cd site && node scripts/build-content.mjs` parses cleanly (414 chunks).
+- d.3-scoped audits (paraphrase, headers, apparatus-count) re-run.
+
+## d6-a1-q1 (pp.125-126)
+
+- **Source**: `raw/vision/vol1/p-125.png`, `p-126.png`, `p-127.png` (600 dpi extracts of PDF pp. 227–229 = printed pp. 125–127). Scholion II citation list wraps from p.126 right-column tail onto p.127 top — full disambiguation required reading p.127 top as well.
+- **Pre-state**: 6 inline `[?]` flags from the 2026-05-10 d.1-d.10 rechunk pipeline: 1 pair in Scholion II body (`B. Albert., hic [?]` La + En mirror) where the citation list was truncated at the page-126 column edge; 1 pair trailing `[^2]` apparatus (La+En) over OCR garble `*ee aliquo*`; 1 pair trailing `[^12]` apparatus (La+En) over a bracket-completion guess `tactae [sunt]`.
+
+| Locus | Pre-pass rendering | PDF reading | Disposition |
+|---|---|---|---|
+| Scholion II body (La line 77) | `B. Albert., hic [?]` | p.126 right-col scholion runs `… B. Albert., hic` and **continues at top of p.127 left col**: `a. 1; S. p. I. tr. 7. q. 30. m. 3. a. 2. — Petr. a Tar., hic q. 1. a. 1. — Richard. a Med., hic q. 1. — Aegid. R., hic 1. princ. q. 1. et 2. — Henr. Gand., de hac et seq. q. 8. a. 54. q. 3.` | RESOLVED — pasted the p.127 continuation in full; `[?]` removed. |
+| Scholion II body (En line 129) | `Bl. Albert, here [?]` | mirror — translates names: Peter of Tarentaise, Richard of Mediavilla, Giles of Rome, Henry of Ghent | RESOLVED. |
+| `[^2]` La (line 140) trailing `[?]` | `Nonnulli codd. ut KWXY *ee aliquo* pro *alio*. [?]` | p.125 left-col footer note 2 reads verbatim `Nonnulli codd. ut K W X Y *ee aliquo* pro *alio*.` (printed with spacing between sigla; entry ends cleanly with the period). The `*ee aliquo*` is the Quaracchi-printed reading (idiosyncratic; preserved as printed). | RESOLVED — trailing `[?]` removed; sigla spaced per print. |
+| `[^2]` En (line 141) trailing `[?]` | mirror | mirror | RESOLVED. |
+| `[^12]` La (line 170) trailing `[?]` | `… quae in praecedentibus tactae [sunt]. [?]` | p.126 left-col footer note 4 reads verbatim `… quae in praecedentibus tactae sunt.` (the `sunt` is fully present on the printed page — no bracket-completion needed). | RESOLVED — brackets and `[?]` removed; `sunt` is verbatim. |
+| `[^12]` En (line 171) trailing `[?]` | mirror | mirror — the English `[passages]` bracketed gloss is a translator's clarification, not an OCR flag; retained without the `[?]` | RESOLVED. |
+
+### `[?]` resolution count
+
+- 6 `[?]` flags resolved (all via 600dpi PDF eyes-on of pp.125–127).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d6-a1-q1.md` body/apparatus after this pass.
+
+### Notes from the read
+
+- Scholion II is the last paragraph on p.126; the citation list spans the right-column tail of p.126 and continues at the top of p.127 col.1 (a DIST. VI. ART. UNICUS Q. II running head sits above it). The truncation at "B. Albert., hic" was a column-boundary artefact in the rechunk pipeline, not a printed-text gap.
+- "Aegid. R., hic 1. princ." preserves the printed form (Quaracchi prints a bare `1.` between `hic` and `princ.`); not silently emended.
+- "q. 8." in the Henr. Gand. citation: Quaracchi prints what visually reads as `q. S.` but is standardly the numeral 8 in this typeface for citation contexts; rendered as `q. 8.` for clarity.
+
+### Verification
+
+- `grep -nE '\[\?\]' vol1/bon-sent-I-d6-a1-q1.md` → only the `transcription_status` frontmatter line (historical reference). No body or apparatus `[?]`.
+- `cd site && node scripts/build-content.mjs` parses cleanly (414 chunks).
+- d.6-scoped guard-rail audits (paraphrase, headers, apparatus-count) re-run with no new flags surfaced by this chunk.
+
+## d8-p1-a1-q2 (pp.152-154)
+
+- **Source**: `raw/vision/vol1/p-153.png` (existing 600 dpi), `raw/vision/vol1/p-hires-d8q2-256.png` (printed 154, 600 dpi), `raw/vision/vol1/p-hires-d8q2-257.png` (printed 155, 600 dpi, where SCHOLION resides), `raw/vision/vol1/p-hires-d8q2-258.png` (printed 156, 600 dpi, where scholion II finishes).
+- **Note on page ranges**: Q.II actually begins on printed p.153, not p.152 — p.152 holds the end of q.I plus the q.I SCHOLION. Frontmatter `printed_pages: [152, 153, 154]` is therefore slightly mis-set (true span [153, 154, 155, 156] when scholion is included). Out-of-scope for this [?]-flag pass; logged here for the corpus-wide frontmatter audit. The `<!-- page N -->` markers in the chunk were left untouched.
+
+### `[?]` flags walked
+
+| # | Location | Disposition |
+|---|---|---|
+| 1 | Latin l. 58 / English l. 142, `tellecto[?]` (`[?the highest good]` in English) | **RESOLVED.** Raw OCR (line 32136-37) breaks "in-tellecto" across the line; the word is unambiguously `intellecto` (ablative absolute taking `esse impossibile, summum bonum non esse` as its content). PDF p.154 top confirms a normal line-break hyphen. Stripped `[?]`; rewrote English to "with [it] understood to be impossible that the highest good is not". |
+| 2 | Latin l. 108 / English l. 190, `de nostra cognitione[?]` | **RESOLVED.** PDF p.155 right column (scholion I, last clause) ends "...immediate est de nostra cognitione." with a clean period — sentence terminates there with no missing word. Stripped `[?]` and the editorial `[of it]` placeholder retained as a literal English supply, no longer flagged. |
+| 3 | Latin l. 110 / English l. 192, end of long Alex. Hal. quotation, `nominatur Deus*»[?]` | **RESOLVED.** PDF p.156 top-left column shows the Alex. Hal. citation closing cleanly: "*…in eo quod ens est, ignorantissime nominatur Deus*»." with a normal closing guillemet + period. Nothing dropped from the quotation. Stripped `[?]`. |
+| 4 | Latin l. 110, eight inline `[?]` flags in scholion II opening: `Sic[?] habet B. Albertus[?] ad probandum, [?] putatur. [?] doctrina [?] gument [?] primi [?] per se notum esse.` (and mirrored editorial markers in English l. 192) | **ACCEPT-ILLEGIBLE.** This passage corresponds to a heavy OCR-band dropout in `raw/bonaventure_vol1_raw.txt` ll. 32431–32441 — the printed text on PDF p.155 bottom-right (start of scholion II) is legible to a reader with the physical volume but garbles at 600 dpi rendering of the scanned IA copy: lateral ink-bleed across the column gutter has made the second column's first six lines a half-tone smear in our PDF source. A careful read produces a plausible reconstruction ("Sic habet B. Albertus, ad probandum, ut putatur, in hac doctrina argumentum primi per se notum esse") but no single reading is confidently distinguishable from one or two close alternatives (e.g. `Item` vs `Sic`; `etiam, ut` vs `ut`; `argumentum primi principii` vs `argumentum primi`). Per the polish-pass discipline (no invented Latin), flags remain in-place. Disposition path forward: a clean physical-book or Vatican-edition consult will close these in a later pass; the apparatus citations (Scotus, S. Thomas, Suarez, Alex. Hal.) that follow are NOT affected and remain Tier-2 clean. |
+
+### `[?]` resolution count
+
+- 3 `[?]` flags RESOLVED via 600 dpi PDF (line 58 `tellecto`; line 108 `cognitione`; line 110 closing `Deus*»`).
+- 8 `[?]` flags ACCEPT-ILLEGIBLE (scholion II opening clause; OCR-band dropout + image-side smear).
+- Net: 14 → 8 `[?]` occurrences in the chunk file (Latin + English mirror combined).
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d8-p1-a1-q2.md` → 8 (down from 14).
+- `cd site && node scripts/build-content.mjs` parses cleanly (414 chunks).
+- d.8-scoped guard-rail audits (paraphrase, headers, apparatus-count) re-run; no new flags surfaced by this chunk.

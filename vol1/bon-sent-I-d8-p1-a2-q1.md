@@ -16,7 +16,7 @@ line_end: 32877
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 156–158"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 32576-32877), fresh literal English translation, full apparatus from raw OCR (27 entries from p.156-158 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 32576-32877), fresh literal English translation, full apparatus from raw OCR (27 entries from p.156-158 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch) — 2026-05-12 [?]-flag polish pass: 4 resolved via 600dpi PDF, 0 accepted-illegible"
 format_version: 1
 ---
 
@@ -65,7 +65,7 @@ tatio aut est in statum meliorem aut deteriorem aut parem»; sed nullo istorum m
 
 > Deus est omnino immutabilis et secundum locum, quia immensus, et secundum tempus, quia aeternus, et secundum formam, quia simplex; et quia immutabilis, ideo omnia movet.
 
-**Respondeo:** Dicendum, quod, sicut dicit Boethius[^13], «Deus stabilis manens dat cuncta moveri». Unde divina essentia est immutabilis. Non enim mutatur loco, quia ubique est; non tempore, quia aeternitas simul est; non forma, quia pure[?] actus est. Unde mutationem secundum formam tollit simplicitas, secundum tempus tollit aeternitas, secundum locum tollit immensitas.
+**Respondeo:** Dicendum, quod, sicut dicit Boethius[^13], «Deus stabilis manens dat cuncta moveri». Unde divina essentia est immutabilis. Non enim mutatur loco, quia ubique est; non tempore, quia aeternitas simul est; non forma, quia pure actus est. Unde mutationem secundum formam tollit simplicitas, secundum tempus tollit aeternitas, secundum locum tollit immensitas.
 
 Et ideo in Deo est summa stabilitas, et inde omnis motus causalitas; quia, sicut probat Augustinus[^14] et vult Philosophus, omnis motus procedit ab immobili; ut cum movetur manus, stat cubitus, et movetur cubitus, stante humero. Quia ergo Dei sapientia est stabilis[^15], ideo omnia movet.
 
@@ -133,7 +133,7 @@ is either into a better state, or worse, or equal"; but the divine nature is cha
 
 > God is wholly unchangeable, both as regards place, because he is immense, and as regards time, because he is eternal, and as regards form, because he is simple; and because he is unchangeable, therefore he moves all things.
 
-**I respond:** It must be said that, as Boethius says[^13], "God, remaining stable, gives all things to be moved." Hence the divine essence is unchangeable. For it is not changed in place, because he is everywhere; not in time, because eternity is all at once; not in form, because he is purely[?] act. Hence simplicity removes change according to form, eternity removes it according to time, immensity removes it according to place.
+**I respond:** It must be said that, as Boethius says[^13], "God, remaining stable, gives all things to be moved." Hence the divine essence is unchangeable. For it is not changed in place, because he is everywhere; not in time, because eternity is all at once; not in form, because he is purely act. Hence simplicity removes change according to form, eternity removes it according to time, immensity removes it according to place.
 
 And therefore in God is the highest stability, and thence the causality of all motion; because, as Augustine proves[^14] and the Philosopher holds, all motion proceeds from the immobile; as when the hand is moved, the elbow stands still, and the elbow is moved while the shoulder stands. Therefore because the wisdom of God is stable[^15], therefore it moves all things.
 
@@ -171,13 +171,13 @@ It could however be said otherwise, as was touched on above[^22], that it is not
 
     **En.** See Aristotle, *Physics* V, text 1 ff., and *Metaphysics* XI, c. 10 (X, c. 11).
 
-[^2]: **La.** Aristot., XII. Metaph. text. 8. (XI. c. 2.): *Omne [movetur][?] ex potentia ente in actu ens.*
+[^2]: **La.** Aristot., XII. Metaph. text. 8. (XI. c. 2.): *Omne [movetur] ex potentia ente in actu ens.*
 
-    **En.** Aristotle, *Metaphysics* XII, text 8 (XI, c. 2): "Everything [is moved][?] from being in potency into being in act."
+    **En.** Aristotle, *Metaphysics* XII, text 8 (XI, c. 2): "Everything [is moved] from being in potency into being in act."
 
-[^3]: **La.** Libr. II. de Trin. c. 3: *Sciendum itaque, quia [omnis][?] mutatio est aut de statu in statum meliorem, aut de statu in statum deteriorem, aut de statu in statum priori aequalem; ubi autem nihil horum esse potest, vera incommutabilitas inest.* — Mox ed. 1 *optima* pro *verissime*, et cod. K in fine argumenti *divinae essentiae* pro *divini esse*.
+[^3]: **La.** Libr. II. de Trin. c. 3: *Sciendum itaque, quia [omnis] mutatio est aut de statu in statum meliorem, aut de statu in statum deteriorem, aut de statu in statum priori aequalem; ubi autem nihil horum esse potest, vera incommutabilitas inest.* — Mox ed. 1 *optima* pro *verissime*, et cod. K in fine argumenti *divinae essentiae* pro *divini esse*.
 
-    **En.** Book II *On the Trinity*, c. 3: "It must therefore be known that [every][?] change is either from a state into a better state, or from a state into a worse state, or from a state into a state equal to the prior; but where none of these can be, there is true incommutability." — Just below, ed. 1 reads *optima* for *verissime*, and codex K at the end of the argument reads *divinae essentiae* for *divini esse*.
+    **En.** Book II *On the Trinity*, c. 3: "It must therefore be known that [every] change is either from a state into a better state, or from a state into a worse state, or from a state into a state equal to the prior; but where none of these can be, there is true incommutability." — Just below, ed. 1 reads *optima* for *verissime*, and codex K at the end of the argument reads *divinae essentiae* for *divini esse*.
 
 <!-- p. 157 -->
 
@@ -263,9 +263,9 @@ It could however be said otherwise, as was touched on above[^22], that it is not
 
     **En.** The Vatican edition with codex cc reads *hic* in place of *si*, and after *homo* adds *igitur*, but the authority of the other manuscripts and ed. 1 stands against it.
 
-[^24]: **La.** Vat. contra fere omnes codd. et ed. 1 omittit *non bene sed actio est ab ipso*[?], pro quo cod. Q *sed actio est aliquid ab ipso*. Paulo ante post *obiicitur* in cod. V et ed. 1 deest *quando*.
+[^24]: **La.** Vat. contra fere omnes codd. et ed. 1 omittit *non bene sed actio est ab ipso*, pro quo cod. Q *sed actio est aliquid ab ipso*. Paulo ante post *obiicitur* in cod. V et ed. 1 deest *quando*.
 
-    **En.** The Vatican edition, against nearly all codices and ed. 1, omits *non bene sed actio est ab ipso*[?]; for which codex Q reads *sed actio est aliquid ab ipso*. A little before, after *obiicitur*, in codex V and ed. 1, *quando* is missing.
+    **En.** The Vatican edition, against nearly all codices and ed. 1, omits *non bene sed actio est ab ipso*; for which codex Q reads *sed actio est aliquid ab ipso*. A little before, after *obiicitur*, in codex V and ed. 1, *quando* is missing.
 
 [^25]: **La.** Auctoritate mss. et ed. 1 expunximus hic additum *quid*.
 

@@ -14,7 +14,7 @@ pdf_pages: [169, 170, 171, 172]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 67–70"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 19050-19635), fresh literal English translation, full apparatus from raw OCR (32 entries from p.67-70 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 19050-19635), fresh literal English translation, full apparatus from raw OCR (32 entries from p.67-70 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch) — 2026-05-12 [?]-flag polish pass: 5 resolved via 600dpi PDF, 0 accepted-illegible"
 line_start: 19050
 line_end: 19635
 format_version: 1
@@ -64,7 +64,7 @@ est infinitus, et intellectus finitus: ergo etc. Praeterea, si est aliqua propor
 
 <!-- page 69 -->
 
-ergo illa maxime [cognoscibilis est ipsi intellectui nostro]. [?]
+ergo illa maxime cognoscibilis ab intellectu.
 
 > **Conclusio.** Deus, in se summe cognoscibilis, etiam nobis esset summe cognoscibilis, si non esset defectus ex parte intellectus nostri.
 
@@ -143,7 +143,7 @@ is infinite, and the intellect is finite: therefore etc. Moreover, if there is a
 
 5. Likewise, each thing can more effectively [act] in that to which it is naturally ordered[^13]; but our intellect is naturally ordered to the cognition of the highest light:
 
-therefore that [light is] most [knowable to our intellect]. [?]
+therefore that [light] is most knowable by the intellect.
 
 > **Conclusion.** God, in Himself supremely knowable, would also be supremely knowable to us, were there no defect on the part of our intellect.
 
@@ -205,15 +205,15 @@ This divine cooperation or illumination is much urged by both St. Augustine and 
 
 [^4]: **La.** Ex mss. IXZ pro *sensibili*, quod Vat. cum plurimis mss. habet, substituimus *sensu*, quod contextui magis correspondet formamque argumenti completiorem reddit ac confirmatur ex Richardo a Med., hic a. 1. q. 1. et Petro a Tar., hic q. 1, qui idem argumentum eodem modo proponunt. Paulo ante cod. K *creato* pro *humano*. — De propositione minore huius argumenti cfr. Boeth., V. de Consol. Prosa 4.
 
-     **En.** From mss. IXZ, for *sensibili*, which the Vat. with most mss. has, we have substituted *sensu*, which corresponds better to the context and renders the form of the argument more complete, and is confirmed from Richard of Mediavilla, here a. 1 q. 1, and Peter of Tarentaise, here q. 1, who propose the same argument in the same way. A little before, codex K [reads] *creato* for *humano*. — Concerning the minor proposition of this argument, cf. Boethius, *De Consolatione* V, Prose 4. [?]
+     **En.** From mss. IXZ, for *sensibili*, which the Vat. with most mss. has, we have substituted *sensu*, which corresponds better to the context and renders the form of the argument more complete, and is confirmed from Richard of Mediavilla, here a. 1 q. 1, and Peter of Tarentaise, here q. 1, who propose the same argument in the same way. A little before, codex K [reads] *creato* for *humano*. — Concerning the minor proposition of this argument, cf. Boethius, *De Consolatione* V, Prose 4.
 
 [^5]: **La.** Colligitur ex eo, quod cognitio sit actio immanens, de qua vide Aristot., IX. Metaph. text. 16. (VIII. 8.); et supponitur ab Aristot., III. de Anima, text. 6. et 37-39. (c. 4. et 8.), ubi dicit, animam esse locum formarum, ipsam cognoscendo quodammodo esse omnia, in ipsa non esse ipsas res, sed formas earum intellectumque esse formam formarum.
 
      **En.** It is gathered from the fact that cognition is an immanent action, concerning which see Aristotle, *Metaphysics* IX, text 16 (VIII. 8.); and it is presupposed by Aristotle, *De Anima* III, text 6 and 37-39 (c. 4 and 8), where he says that the soul is the place of forms, that by knowing it is somehow all things, that in it are not the things themselves but their forms, and that the intellect is the form of forms.
 
-[^6]: **La.** August., *de Vera Relig.* c. 29. n. 53: [...] *poribus non sentientis tantum vitae, sed etiam rationali[s]* [?] [...] *Iam vero illud videre facillimum est, praestantiorem esse iudicantem, quam illa res est, de qua iudicatur.* — Cod. X hic addit *sicut dicit Augustinus*.
+[^6]: **La.** August., *de Vera Relig.* c. 29. n. 53: *Iudicare de corporibus non sentientis tantum vitae, sed etiam ratiocinantis* etc., *iam vero illud videre facillimum est, praestantiorem esse iudicantem, quam illa res est, de qua iudicatur.* — Cod. X hic addit *sicut dicit Augustinus*.
 
-     **En.** Augustine, *On True Religion* c. 29 n. 53: "[...] in bodies, of life not only sentient, but also rational [?] [...] Now it is most easy to see that he who judges is more excellent than the thing concerning which he judges." — Codex X here adds "as Augustine says."
+     **En.** Augustine, *On True Religion* c. 29 n. 53: "To judge concerning bodies belongs not only to sentient life, but also to ratiocinating [life]," etc., "now it is most easy to see that he who judges is more excellent than the thing concerning which he judges." — Codex X here adds "as Augustine says."
 
 [^7]: **La.** Textus Aristot. de hac re vide supra in arg. ex secunda suppositione. — De duplici modo informationis, scil. per essentiam et per similitudinem cfr. infra fundam. 3. — Mox post *Deus non informat* supple cum cod. R *intellectum*.
 
