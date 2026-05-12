@@ -13,7 +13,7 @@ line_end: 31015
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 145–146"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 30742-31015), fresh literal English translation, full apparatus from raw OCR (19 entries from p.145-146 footer blocks), 7 DUB present, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 30742-31015), fresh literal English translation, full apparatus from raw OCR (19 entries from p.145-146 footer blocks), 7 DUB present, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); polish-blocker [?] resolution pass 2026-05-12 (Dub. VII tail rewritten in correct Quaracchi order originaliter→Patre; formaliter→Filio; [^12] loco *hypostasi* recovered)"
 format_version: 1
 ---
 
@@ -72,7 +72,7 @@ Item videtur male dicere ibi: *Aliam significes potentiam, qua Pater potest gign
 
 Item quaeritur de hoc quod dicit, quod *Filius habet potentiam, qua potest esse Filius sive qua potest gigni.* Videtur enim dubium vel falsum, quia gigni omnino est a gignere, et gignere est a potentia Patris: ergo et gigni.
 
-**Respondeo:** Sicut potentia gignendi in Patre non dicit nisi naturam in persona ut natam ex se producere aliam, sic potentia gignendi in Filio non dicit nisi naturam[^18] in persona ut natam produci ab alia; sicut enim hypostasi Patris convenit generare, sic hypostasi Filii convenit generari. Nec valet quod obiicitur in contrarium. Nam omne quod habet Filius, sive essentiale sive personale, habet a Patre. Ideo quamvis ipsum gigni sit a potentia Patris, non excluditur tamen[^19] quin potentia gignendi passiva sit in Filio. Sed illa potentia non est principium generationis, sed idoneitas sive hypostasis cum sua proprietate ad generari. Unde quod dicitur *posse gigni*, potentia potest intelligi [?] formaliter, et sic ponitur esse in Filio; alio autem modo non [?] et sic est in solo Patre [?].
+**Respondeo:** Sicut potentia gignendi in Patre non dicit nisi naturam in persona ut natam ex se producere aliam, sic potentia gignendi in Filio non dicit nisi naturam[^18] in persona ut natam produci ab alia; sicut enim hypostasi Patris convenit generare, sic hypostasi Filii convenit generari. Nec valet quod obiicitur in contrarium. Nam omne quod habet Filius, sive essentiale sive personale, habet a Patre. Ideo quamvis ipsum gigni sit a potentia Patris, non excluditur tamen[^19] quin potentia gignendi passiva sit in Filio. Sed illa potentia non est principium generationis, sed idoneitas sive hypostasis cum sua proprietate ad generari. Unde quod dicitur *posse gigni*, potentia potest intelligi *originaliter*, et sic est in solo Patre; vel *formaliter*, et sic ponitur esse in Filio; alio autem modo non.
 
 ---
 
@@ -126,7 +126,7 @@ Likewise, he seems to speak ill there: *That you should signify another power, b
 
 Likewise it is asked concerning this, that he says that *the Son has the power by which he can be the Son or by which he can be begotten.* For this seems doubtful or false, because to be begotten is wholly from to beget, and to beget is from the power of the Father: therefore so is to be begotten.
 
-**I respond:** Just as the power of begetting in the Father signifies nothing other than the nature in the person as apt of itself to produce another, so the power of begetting in the Son signifies nothing other than the nature[^18] in the person as apt to be produced from another; for as it belongs to the hypostasis of the Father to generate, so it belongs to the hypostasis of the Son to be generated. Nor does what is objected to the contrary hold. For everything that the Son has, whether essential or personal, he has from the Father. Therefore, although the very being-begotten is from the power of the Father, it is nevertheless[^19] not excluded that the passive power of begetting is in the Son. But that power is not the principle of generation, but the suitability or hypostasis with its property to be generated. Hence what is called *the ability to be begotten*, the power can be understood [?] formally, and thus is posited to be in the Son; but in another way not [?], and so it is in the Father alone [?].
+**I respond:** Just as the power of begetting in the Father signifies nothing other than the nature in the person as apt of itself to produce another, so the power of begetting in the Son signifies nothing other than the nature[^18] in the person as apt to be produced from another; for as it belongs to the hypostasis of the Father to generate, so it belongs to the hypostasis of the Son to be generated. Nor does what is objected to the contrary hold. For everything that the Son has, whether essential or personal, he has from the Father. Therefore, although the very being-begotten is from the power of the Father, it is nevertheless[^19] not excluded that the passive power of begetting is in the Son. But that power is not the principle of generation, but the suitability or hypostasis with its property to be generated. Hence what is called *the ability to be begotten*, the power can be understood *originally*, and so it is in the Father alone; or *formally*, and thus is posited to be in the Son; but in no other way.
 
 ---
 
@@ -178,9 +178,9 @@ Likewise it is asked concerning this, that he says that *the Son has the power b
 
     **En.** The Vatican edition, beyond the witness of the manuscripts and ed. 1, adds *idem*.
 
-[^12]: **La.** De varia acceptione huius nominis *proprietas*, quatenus scilicet convenit cum relatione et ab ea distinguitur, sicuti et de relationibus in Deo vide infra d. 26. per totam. — Codd. hoc loco inter se non conveniunt; aliqui enim ut X cc post *ideo si* omittunt *in personis*, e contra cod. T cum ed. 1 addit *divinis*; mox post *esse* multi codd. cum edd. 1, 2, 3 omittunt *hypostasim*, quod cod. cc, interpunctione mutata, ponit loco [?].
+[^12]: **La.** De varia acceptione huius nominis *proprietas*, quatenus scilicet convenit cum relatione et ab ea distinguitur, sicuti et de relationibus in Deo vide infra d. 26. per totam. — Codd. hoc loco inter se non conveniunt; aliqui enim ut X cc post *ideo si* omittunt *in personis*, e contra cod. T cum ed. 1 addit *divinis*; mox post *esse* multi codd. cum edd. 1, 2, 3 omittunt *hypostasim*, quod cod. cc, interpunctione mutata, ponit loco *hypostasi*.
 
-    **En.** On the various acceptations of this name *property*, namely insofar as it agrees with relation and is distinguished from it, just as on the relations in God, see below distinction 26 throughout. — The codices do not agree with each other in this place; for some such as X cc after *ideo si* omit *in personis*, while on the contrary codex T with ed. 1 adds *divinis*; soon after *esse* many codices with edd. 1, 2, 3 omit *hypostasim*, which codex cc, with the punctuation changed, puts in [its] place [?].
+    **En.** On the various acceptations of this name *property*, namely insofar as it agrees with relation and is distinguished from it, just as on the relations in God, see below distinction 26 throughout. — The codices do not agree with each other in this place; for some such as X cc after *ideo si* omit *in personis*, while on the contrary codex T with ed. 1 adds *divinis*; soon after *esse* many codices with edd. 1, 2, 3 omit *hypostasim*, which codex cc, with the punctuation changed, puts in place of *hypostasi*.
 
 [^13]: **La.** Plures codd. ut AGHIKSTWXZ ... *sic*, et paulo infra fere omnes codd. cum ed. 1 contra Vat. *diversificationem* ponunt pro *diversitatem*.
 

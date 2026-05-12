@@ -14,7 +14,7 @@ pdf_pages: [177, 178, 179]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 75–77"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 20302-20562), fresh literal English translation, full apparatus from raw OCR (17 entries from p.75-77 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 20302-20562), fresh literal English translation, full apparatus from raw OCR (17 entries from p.75-77 footer blocks), scholion translated; 2026-05-12 polish-pass resolved 3 [?] flag sites via 600dpi PDF eyes-on (p.76 fn14 *potissimae*; p.77 scholion I cutoff = 'habere possunt') and removed obsolete [^18] cutoff anchor"
 line_start: 20302
 line_end: 20562
 format_version: 1
@@ -78,9 +78,9 @@ Est alia trinitas appropriatorum, scilicet unitatis, veritatis et bonitatis[^12]
 
 ### Scholion
 
-**I.** Quoad propositionem in corp., quae attribuit haereticis aliquem habitum fidei, sciendum, quod duplex distinguitur habitus fidei, scil. infusus et acquisitus, et hic est ordinis naturalis. Acquisitum habitum vel ipsi haeretici formales habere [?][^18]
+**I.** Quoad propositionem in corp., quae attribuit haereticis aliquem habitum fidei, sciendum, quod duplex distinguitur habitus fidei, scil. infusus et acquisitus, et hic est ordinis naturalis. Acquisitum habitum vel ipsi haeretici formales habere possunt.
 
-Recte dicitur in solut. ad 4, quod cognitio imaginis sit solius fidei. Imago enim, in quantum imago, dicit respectum ad id cuius est imago. Nullus autem respectus potest cognosci nisi cognito utroque extremo. Licet igitur cognoscatur fundamentum relationis in anima, i. e. imago materialiter intellecta, tamen non cognoscitur formaliter ut imago, quamdiu alter terminus relationis non cognoscitur, nempe tres personae divinae.
+Recte dicitur in solut. ad 4, quod cognitio imaginis sit solius fidei. Imago enim, in quantum imago, dicit respectum ad id cuius est imago. Nullus autem respectus potest cognosci nisi cognito utroque extremo. Licet igitur cognoscatur fundamentum relationis in anima, i. e. imago materialiter intellecta, tamen non cognoscitur *formaliter* ut imago, quamdiu alter terminus relationis non cognoscitur, nempe tres personae divinae.
 
 **II.** S. Bonav., *Breviloq.* p. I. c. 2. — Alex. Hal., S. p. I. q. 2. m. 1. a. 3. — Scot., *Quodlib.* q. 14. — S. Thom., hic. q. 1. a. 4; S. I. q. 32. a. 1. — B. Albert., hic a. 18; S. p. I. tr. 3. q. 43. m. 3. — Petr. a Tar., hic. q. 2. a. 2. — Richard. a Med., hic a. 2. q. 2. — Aegid. R., hic 1. princ. q. 4. — Henr. Gand., S. a. 22. q. 4. n. 25. — Dionys. Carth., hic q. 4.
 
@@ -132,9 +132,9 @@ There is another trinity of appropriated [attributes], namely of unity, truth, a
 
 ### Scholion
 
-**I.** With respect to the proposition in the body [of the article] which attributes to heretics some habit of faith, it is to be known that a twofold habit of faith is distinguished, namely infused and acquired, and this [latter] is of the natural order. The acquired habit either the formal heretics themselves can have [?][^18]
+**I.** With respect to the proposition in the body [of the article] which attributes to heretics some habit of faith, it is to be known that a twofold habit of faith is distinguished, namely infused and acquired, and this [latter] is of the natural order. The acquired habit the formal heretics themselves can have.
 
-It is rightly said in the solution to the fourth [argument] that the knowledge of the image is of faith alone. For the image, insofar as image, bespeaks a relation to that of which it is the image. But no relation can be known unless both extremes are known. Although therefore the foundation of the relation in the soul, i.e. the image materially understood, is known, nevertheless it is not known formally as image, so long as the other term of the relation is not known, namely the three divine persons.
+It is rightly said in the solution to the fourth [argument] that the knowledge of the image is of faith alone. For the image, insofar as image, bespeaks a relation to that of which it is the image. But no relation can be known unless both extremes are known. Although therefore the foundation of the relation in the soul, i.e. the image *materially* understood, is known, nevertheless it is not known *formally* as image, so long as the other term of the relation is not known, namely the three divine persons.
 
 **II.** St. Bonaventure, *Breviloquium* p. I. c. 2. — Alexander of Hales, *Summa* p. I. q. 2. m. 1. a. 3. — Scotus, *Quodlibet* q. 14. — St. Thomas, here q. 1. a. 4; *Summa* I. q. 32. a. 1. — Bl. Albert, here a. 18; *Summa* p. I. tr. 3. q. 43. m. 3. — Peter of Tarentaise, here q. 2. a. 2. — Richard of Mediavilla, here a. 2. q. 2. — Giles of Rome, here 1. princ. q. 4. — Henry of Ghent, *Summa* a. 22. q. 4. n. 25. — Denis the Carthusian, here q. 4.
 
@@ -196,9 +196,9 @@ It is rightly said in the solution to the fourth [argument] that the knowledge o
 
     **En.** The Vatican edition, against the manuscripts and ed. 1, [reads] *ad*.
 
-[^14]: **La.** Vat., obnitentibus mss. et ed. 1, minus bene [?]. Mox cod. O ante *redemptionis* praemittit *incarnationis et*.
+[^14]: **La.** Vat., obnitentibus mss. et ed. 1, minus bene *potissimae*. Mox cod. O ante *redemptionis* praemittit *incarnationis et*.
 
-    **En.** The Vatican edition, with the manuscripts and ed. 1 opposing, less well [reads ...; word illegible in OCR, marked [?]]. Soon after, codex O before *redemptionis* prefixes *incarnationis et*.
+    **En.** The Vatican edition, with the manuscripts and ed. 1 opposing, less well [reads] *potissimae* [agreeing with *bonitatis* rather than *potissimi* with *effectus*]. Soon after, codex O before *redemptionis* prefixes *incarnationis et*.
 
 [^15]: **La.** Vat. contra plurimos codd. minus bene addit *id*.
 
@@ -212,6 +212,3 @@ It is rightly said in the solution to the fourth [argument] that the knowledge o
 
     **En.** Codex Y [reads] *quam ad acquirendam*; a reading by no means to be despised.
 
-[^18]: **La.** [Textus scholii I in OCR praeciditur post verba "habere" linea 20543; sequens columna deest in editione djvu. Sensus est de habitu fidei acquisito qui haereticis formalibus tribui potest.]
-
-    **En.** [The text of Scholion I in the OCR is cut off after the word "habere" at line 20543; the following column is missing in the djvu edition. The sense concerns the acquired habit of faith which can be attributed to formal heretics.]

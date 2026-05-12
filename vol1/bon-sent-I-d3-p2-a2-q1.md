@@ -14,7 +14,7 @@ pdf_pages: [190, 191, 192]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 88–90"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 22245-22680), fresh literal English translation, full apparatus from raw OCR (26 entries from p.88-90 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 22245-22680), fresh literal English translation, full apparatus from raw OCR (26 entries from p.88-90 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); d.1-d.10 polish pass 2026-05-12 — 2 [?] flag sites resolved via 600dpi PDF eyes-on ([^8] cuto→cum; [^26] truncated-in-source accepted)"
 line_start: 22245
 line_end: 22680
 format_version: 1
@@ -213,9 +213,9 @@ tion, as through virtue; for loving one's own[^22] good through innate dispositi
 
     **En.** Codices X and Y add *scilicet*.
 
-[^8]: **La.** Substituimus ope mss. et ed. 1 hic *cuto* loco *et* ac paulo infra *intelligentiae* pro *intellectivae*.
+[^8]: **La.** Substituimus ope mss. et ed. 1 hic *cum* loco *et* ac paulo infra *intelligentiae* pro *intellectivae*.
 
-    **En.** We have substituted, by means of the manuscripts and ed. 1, here *cuto* [?] in place of *et* and a little below *intelligentiae* for *intellectivae*.
+    **En.** We have substituted, by means of the manuscripts and ed. 1, here *cum* in place of *et* and a little below *intelligentiae* for *intellectivae*.
 
 [^9]: **La.** Cap. 3. circa medium, quem tamen textum plurimi mss. cum sex primis edd. hic mutarunt, pro *anima* ponendo *animae substantia tota*; codd. vero T X *animae substantia*, quos sequimur, quia eorum lectio correspondet sensui obiicientium. Cfr. Scholion.
 
@@ -285,6 +285,6 @@ tion, as through virtue; for loving one's own[^22] good through innate dispositi
 
     **En.** Codex Z adds *but namely by the superior part*, while ed. 1: *but supply for a turning of the soul to God or a reflection upon consideration of itself toward God*.
 
-[^26]: **La.** Vat. praeter fidem mss. et ed. 1 *agnitio*; et immediate post *propterea* loco *praeterea*, sed falso, quia revera novum [?]
+[^26]: **La.** Vat. praeter fidem mss. et ed. 1 *agnitio*; et immediate post *propterea* loco *praeterea*, sed falso, quia revera novum [printed entry ends here at the bottom of p.90; ACCEPT-AS-TRUNCATED-IN-SOURCE].
 
-    **En.** The Vatican edition, against the trust of the manuscripts and ed. 1, [reads] *agnitio*; and immediately after, *propterea* in place of *praeterea*, but falsely, because in truth a new [?] [apparatus entry truncated at page break in OCR].
+    **En.** The Vatican edition, against the trust of the manuscripts and ed. 1, [reads] *agnitio*; and immediately after, *propterea* in place of *praeterea*, but falsely, because in truth a new [printed footer entry ends here at the bottom of p.90; ACCEPT-AS-TRUNCATED-IN-SOURCE — the next page begins a fresh footer-note sequence with no continuation].

@@ -15,7 +15,7 @@ line_end: 36759
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 182–183"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 36432-36759), fresh literal English translation, full apparatus from raw OCR (29 entries from p.182-183 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 36432-36759), fresh literal English translation, full apparatus from raw OCR (29 entries from p.182-183 footer blocks), scholion translated (2026-05-10 d.1-d.10 rechunk pipeline from-scratch; 2026-05-12 polish pass: 2 [?] flags resolved against 600dpi PDF p.183)"
 format_version: 1
 ---
 
@@ -72,7 +72,7 @@ Similiter ratione relationis est distinctio, quia nihil ad se refertur nec ordin
 
 2. Ad illud quod obiicitur, quod aeque simplex est persona, ut essentia; dicendum, quod simplicitas essentiae est, quod sit in pluribus; sed simplicitas suppositi est, quod non sit in[^22] pluribus. Nam suppositum sive individuum, quantum est de se, dicitur quod est in uno solo; ideo non est simile.
 
-3. Ad illud quod obiicitur, quod idem[^23] est essentia et persona; dicendum, quod quamvis sint idem, non tamen sunt ad idem: quia persona est ad alium, ideo generatur[?] et refertur; essentia vero non, ideo essentia communicatur et persona distinguitur. Sicut ergo, quamvis idem sit in Patre essentia et persona, tamen persona generat, essentia non; sic e converso essentia communicatur et persona non.
+3. Ad illud quod obiicitur, quod idem[^23] est essentia et persona; dicendum, quod quamvis sint idem, non tamen sunt ad idem: quia persona est ad alium, ideo generatur et refertur; essentia vero non, ideo essentia communicatur et persona distinguitur. Sicut ergo, quamvis idem sit in Patre essentia et persona, tamen persona generat, essentia non; sic e converso essentia communicatur et persona non.
 
 4. Ad illud quod obiicitur de principio et fine in puncto, patet responsio, quia illae non sunt mutuae relationes, quod proprie requiritur ad distinctionem; unde non valet. Quod obiicit[^24] de intelligente et intellecto, dico quod non est ibi relatio secundum esse, sed secundum dici. Ad hoc autem quod relatio distinguat, oportet quod sint relationes mutuae, quia aliter non distinguunt; oportet etiam, quod dicant relationem secundum esse.
 
@@ -134,7 +134,7 @@ Likewise by reason of the relation there is distinction, because nothing is refe
 
 2. To that which is objected, that the person is just as simple as the essence; it must be said that the simplicity of the essence is that it be in many; but the simplicity of the supposit is that it not be in[^22] many. For a supposit or individual, insofar as it is in itself, is said [to be] that which is in one alone; therefore it is not the same.
 
-3. To that which is objected, that the essence and the person are the same[^23]; it must be said that, although they are the same, yet they are not toward the same: because the person is toward another, therefore it is generated[?] and is referred; but the essence is not, therefore the essence is communicated and the person is distinguished. As therefore, although in the Father the essence and the person are the same, yet the person generates, the essence does not; so conversely the essence is communicated, the person is not.
+3. To that which is objected, that the essence and the person are the same[^23]; it must be said that, although they are the same, yet they are not toward the same: because the person is toward another, therefore it is generated and is referred; but the essence is not, therefore the essence is communicated and the person is distinguished. As therefore, although in the Father the essence and the person are the same, yet the person generates, the essence does not; so conversely the essence is communicated, the person is not.
 
 4. To that which is objected concerning beginning and end in a point, the answer is clear, because those are not mutual relations, which is properly required for distinction; whence it does not hold. As to what is objected[^24] concerning the one understanding and the thing understood, I say that there is not there a relation according to being, but according to predication. For the relation to distinguish, it is required that the relations be mutual, because otherwise they do not distinguish; it is required also that they bespeak a relation according to being.
 

@@ -13,7 +13,7 @@ pdf_pages: [132, 133, 134]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 30–32"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 13383-13668), fresh literal English translation, full apparatus from raw OCR (22 entries from p.30-32 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 13383-13668), fresh literal English translation, full apparatus from raw OCR (22 entries from p.30-32 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); d.1-d.10 polish-blocker scholion pass — resolved 4 [?] flags via 600dpi PDF eyes-on read of p.32 (2026-05-12)"
 line_start: 13383
 line_end: 13668
 format_version: 1
@@ -84,7 +84,7 @@ Si ergo quaeratur, cuius potentiae est[^17] actus: dicendum, quod, communissime 
 
 ### Scholion
 
-Plurimi[?] scholastici satis consentiunt. Scot., [hic][?] q. in fine. — S. Thom., hic q. 1; S. B. Albert. M., hic a. 13, 16 et 17. — [Richard. a Med.][?], hic a. 1, q. 1. — [...][?], hic a. 1 principalis q. 3. — Henr. Gand., S. a. — Durand., hic q. 3. — Dionys. Carth., hic q. 1. [...] hic q. 1, qui doctrinam S. Bonavent. breviter repetit.
+Plurimi scholastici satis consentiunt. Scot., I. *Sent.* d. 1. q. 2. et 5. in fine. — S. Thom., hic q. 1; S. *Theol.* 1. 2. q. 16. a. 1. — B. Albert. M., hic a. 13. 16. et 17. — Petr. a Tar., hic q. 1. a. 1. qui doctrinam S. Bonavent. breviter repetit. — Richard. a Med., hic a. 1. q. 1. — Aegid. R., hic a. 1. principalis q. 3. — Henr. Gand., S. a. 6. q. 1. — Durand., hic q. 3. — Dionys. Carth., hic q. 1. — Brul., hic q. 1.
 
 ---
 
@@ -148,7 +148,7 @@ If, then, it be asked of which faculty it is[^17] the act: it must be said that,
 
 ### Scholion
 
-Most[?] scholastics agree well enough on this. Scotus, [here][?] q. at the end. — St. Thomas, here q. 1; St. B. Albert M., here a. 13, 16, and 17. — [Richard of Mediavilla][?], here a. 1, q. 1. — [...][?], here a. 1, principal q. 3. — Henry of Ghent, *Summa* a. — Durandus, here q. 3. — Dionysius the Carthusian, here q. 1. [...] here q. 1, which briefly repeats the doctrine of St. Bonaventure.
+Most scholastics agree well enough on this. Scotus, I *Sent.* d. 1, q. 2 and 5, at the end. — St. Thomas, here q. 1; *Summa Theol.* I-II, q. 16, a. 1. — Bl. Albert M., here a. 13, 16, and 17. — Peter of Tarentaise, here q. 1, a. 1, which briefly repeats the doctrine of St. Bonaventure. — Richard of Mediavilla, here a. 1, q. 1. — Aegidius Romanus, here a. 1, principal q. 3. — Henry of Ghent, *Summa* a. 6, q. 1. — Durandus, here q. 3. — Dionysius the Carthusian, here q. 1. — Brulefer, here q. 1.
 
 ---
 
@@ -180,9 +180,9 @@ Most[?] scholastics agree well enough on this. Scotus, [here][?] q. at the end. 
 
     **En.** Aristotle, *Categories*, chapter on Opposites, near the end: "It is plain that contraries are by nature produced about the same thing, either in species or in genus."
 
-[^7]: **La.** Idem B. Albert., S. I. tr. 2. q. 8. m. 1. his verbis exprimit: *Secundo dicitur uti rei exercitium ad inducendum habitum, secundum quod dicit Victorinus in Rhetoricis suis* (seu Comment. in Rhetor. Ciceronis, l. c. [?], n. c. 89.), *quod natura habilem facit, ars potentem, usus facilem.* — Vide et Aristot., II. *Ethic.* c. 1.
+[^7]: **La.** Idem B. Albert., S. I. tr. 2. q. 8. m. 1. his verbis exprimit: *Secundo dicitur uti rei exercitium ad inducendum habitum, secundum quod dicit Victorinus in Rhetoricis suis* (seu Comment. in Rhetor. Ciceronis, l. c. 25. et n. c. 89.), *quod natura habilem facit, ars potentem, usus facilem.* — Vide et Aristot., II. *Ethic.* c. 1.
 
-    **En.** The same point Blessed Albert, *Summa* I, tr. 2, q. 8, m. 1, expresses in these words: "Secondly, *uti* is called the exercising of a thing for the inducing of a habit, in accordance with what Victorinus says in his *Rhetorica*" (or *Commentary on Cicero's Rhetoric*, l. c. [?], n. c. 89), "that nature makes one apt, art makes one able, use makes one ready." — See also Aristotle, *Ethics* II, c. 1.
+    **En.** The same point Blessed Albert, *Summa* I, tr. 2, q. 8, m. 1, expresses in these words: "Secondly, *uti* is called the exercising of a thing for the inducing of a habit, in accordance with what Victorinus says in his *Rhetorica*" (or *Commentary on Cicero's Rhetoric*, l. c. 25 and n. c. 89), "that nature makes one apt, art makes one able, use makes one ready." — See also Aristotle, *Ethics* II, c. 1.
 
 [^8]: **La.** Vide Aristot., IX. *Metaph.* text. 16. (Ed. Paris. VIII. c. 8.). — Mox codd. C F G H K L O R S U cc et ed. 1 *utile* pro *utibile*; cod. Z *utile sive utibile quo* etc.
 

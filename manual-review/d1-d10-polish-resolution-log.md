@@ -849,3 +849,213 @@ Pass: 2026-05-12. Resolved 2 substantive `[?]` flag sites (4 grep matches = 2 si
 - Quaracchi `[word]` editorial brackets: none in this chunk (none in body, none in apparatus). N/A.
 - Phantom apparatus check: `[^6]` was suspected as candidate (long `[?]` site); verified PDF-backed at p.192 footer 2. No phantom.
 - ACCEPT-ILLEGIBLE classification preserved for `[^19]` printer's-mark glyph; semantic content of variant is complete without it.
+
+## d9-a1-q2 (pp.182-183)
+
+Polish-blocker [?] resolution pass, 2026-05-12. PDF source: `raw/doctorisseraphic11bona.pdf` p.285 (printed p.183), re-extracted at 600dpi (`raw/vision/vol1/p-183.png`, 4.0 MB).
+
+The chunk held 2 inline `[?]` flags, both at a single co-referenced site in the response to Contra objection 3 ("Ad illud quod obiicitur, quod idem est essentia et persona"): the Latin word `generatur` and its English mirror `is generated`. The flag had been placed in the 2026-05-10 from-scratch build because the OCR raw line was suspected of ambiguity between `generatur` (3rd sg. passive) and a possible alternative form.
+
+| Body anchor | Disposition | PDF citation |
+|---|---|---|
+| Latin line 75, `ideo generatur[?] et refertur` | RESOLVED → `generatur` | p.183 left column, mid-page: word is plainly `generatur` (3rd sg. present passive of *genero*) in the printed Quaracchi text; no editorial marker, no OCR ambiguity at 600dpi. Reading is "ideo generatur et refertur". |
+| English line 137, `therefore it is generated[?] and is referred` | RESOLVED → `it is generated` | Mirror of above; English translation is correct as already rendered. |
+
+### `[?]` resolution count
+
+- 2 `[?]` flags resolved (both at the same `generatur` / `is generated` site).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d9-a1-q2.md` after this pass.
+
+### Systemic notes
+
+- No OCR-band footer dropout on pp.182-183: chunk's 29 apparatus entries from p.182/p.183 footer blocks are intact from the 2026-05-10 from-scratch build.
+- Quaracchi `[word]` editorial brackets: none in this chunk body. N/A.
+- Phantom apparatus check: anchors `[^1]`–`[^29]` all present in both Latin and English bodies; def lines all present (verified via grep of pairing).
+- `transcription_status` frontmatter updated with the 2026-05-12 polish-pass annotation.
+
+### Verification
+
+- `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d9-a1-q2.md | sort -t^ -k2 -n | uniq -c` → each `[^N]` (N=1..29) appears exactly 3× (Latin body + English body + apparatus def).
+- `grep -c '\[?\]' vol1/bon-sent-I-d9-a1-q2.md` → 0.
+- `cd site && node scripts/build-content.mjs` parses cleanly; 414-chunk count preserved.
+- d.9-scoped guard-rail audits (paraphrase, headers, apparatus-count) clean.
+
+## d10-commentary (p.194)
+
+**Date**: 2026-05-12
+**Scope**: 3 inline `[?]` grep matches (1 substantive site × Latin + English mirror + Notes commentary) resolved via 600dpi PDF eyes-on (`raw/vision/vol1/p-hires-d10commentary-r600-296.png`, crops `/tmp/p194-incipit.png`, `/tmp/p194-incipit2.png`).
+
+### Flag 1 — incipit lemma `«... quantum Deo donante, ak[?]»` (Latin + English mirror + Notes) — RESOLVED
+
+- **Before**: La `«Nunc post Filii aeternitatem de Spiritu sancto, quantum Deo donante, ak[?]» etc.` / En mirror with `ak[?]` placeholder. Notes speculated the truncated `ak-` continued as Lombard's `aggrediar` ("I shall undertake").
+- **PDF p.194 incipit line eyes-on (600 dpi)**: reads verbatim `Nunc post Filii aeternitatem de Spiritu sancto, quantum Deo donante, etc.` The lemma terminates with `etc.` (Quaracchi's standard citation-truncation marker) immediately after `donante,`. There is no `aggrediar`, no second `ak-` word, no garble — the OCR misread the printed `etc.` as `ak-`.
+- **Diagnosis**: OCR-only artifact. The chunk-builder's speculative reconstruction (`ak- → aggrediar`) was unwarranted; Quaracchi prints `etc.` and ends the citation there, as it does throughout the Sentences commentary for incipit lemmata.
+- **Resolution**:
+  - Latin: `*«Nunc post Filii aeternitatem de Spiritu sancto, quantum Deo donante,»* etc.` (drop `ak[?]`; period inside `etc.` outside the close-quote per Quaracchi).
+  - English: `*«Now, after [treating of] the eternity of the Son, [we shall treat] of the Holy Spirit, insofar as God grants it,»* etc.` (mirror).
+  - Notes: rewrote the trailing sentence — removed the `aggrediar` speculation and recorded the OCR-vs-PDF resolution.
+- **PDF citations**: 600dpi crops `/tmp/p194-incipit.png`, `/tmp/p194-incipit2.png` — incipit line fully legible; the terminal token is unambiguously `etc.` (period included).
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0 (verified `grep -c '\[?\]' vol1/bon-sent-I-d10-commentary.md` = 0).
+- Apparatus entries: 0 (preamble has none).
+- Body anchors: N/A.
+- 1 substantive site resolved; 0 accepted-illegible.
+
+### Systemic notes
+
+- Quaracchi `[word]` editorial brackets: none. N/A.
+- Phantom apparatus check: N/A (`has_apparatus: false`).
+- No body dropout — chunk is the d.10 preamble only (raw lines 38245–38252); substantive content begins in `bon-sent-I-d10-divisio.md`.
+
+## d1-a1-q1 (pp.30-32)
+
+Bucket 1 polish-blocker pass against `raw/vision/vol1/p-d1a1q1-r600-134.png` (PDF p.134 = printed p.32, 600 dpi via pdftoppm `-r 600 -f 132 -l 134`). Four inline `[?]` flags in the scholion at the foot of p.32 (no other `[?]` flags in this chunk; body and apparatus on pp.30-31 are clean). Cross-checked against IA djvu OCR (raw lines 271-285 of the chunk band, which preserve the scholion structure but garble multiple author names).
+
+The scholion is a Quaracchi reference list of scholastic commentators on the question. Eyes-on PDF reading + OCR cross-reference resolved all four flags as transcription gaps rather than ambiguities.
+
+| Body location | Flag | Disposition | PDF reading |
+|---|---|---|---|
+| Opening word | `Plurimi[?]` | RESOLVED → `Plurimi` | OCR garbled to "niiliiiui"; PDF unambiguous "Plurimi" (the standard Quaracchi scholion opener for consensus notes). |
+| Scotus citation | `Scot., [hic][?] q. in fine` | RESOLVED → `Scot., I. *Sent.* d. 1. q. 2. et 5. in fine` | Prior chunk-builder had collapsed the actual citation to a `[hic]` guess; PDF gives the full Scotus *Sentences* reference. |
+| Richard cite | `[Richard. a Med.][?]` | RESOLVED → `Richard. a Med.` (drop brackets) | PDF + OCR both legible "Richard. a Med."; brackets were prior translator-side uncertainty, no editorial-Quaracchi bracket. |
+| Aegidius cite | `[...][?], hic a. 1 principalis q. 3` | RESOLVED → `Aegid. R., hic a. 1. principalis q. 3.` | PDF reads "Aegid. R." (Aegidius Romanus / Giles of Rome) — single-letter surname abbreviation. Also recovered preceding/trailing displaced text: "Petr. a Tar., hic q. 1. a. 1. qui doctrinam S. Bonavent. breviter repetit" (which the prior chunk had mis-attached to the last entry), and final "Brul., hic q. 1." (Brulefer — Stephanus Brulefer, Franciscan commentator). |
+
+### Other corrections folded into this pass
+
+- **S. Thom. citation expansion**: prior chunk had "St. Thomas, here q. 1; St. B. Albert M., …" merging S. Thomas's second citation into Albert's entry. PDF shows "S. Thom., hic q. 1; S. *Theol.* 1. 2. q. 16. a. 1. — B. Albert. M., hic a. 13. 16. et 17." — the "S." is the opener of *Summa Theol.* I-II q. 16 a. 1, not the "St." of Albert. Corrected Latin + English.
+- **Henr. Gand. citation**: prior chunk truncated to "S. a." — PDF reads "S. a. 6. q. 1." Filled in.
+- **Petr. a Tar. entry**: was entirely missing from prior chunk's scholion (the "qui doctrinam S. Bonavent. breviter repetit" tail had drifted to the final entry). Restored.
+- **Brul. entry**: final entry "Brul., hic q. 1." (Brulefer) was rendered as "[...]" in prior chunk. Restored.
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0 (`grep -c '\[?\]' vol1/bon-sent-I-d1-a1-q1.md` = 0).
+- 4 substantive sites RESOLVED; 0 accepted-illegible.
+- Apparatus entries unchanged at 22 (this pass touched only the scholion).
+- Body anchors `[^1]`–`[^22]` unchanged; each still appears 3× (Latin body + English body + apparatus def).
+
+### Systemic checks
+
+- **Quaracchi `[word]` editorial brackets**: none introduced; the prior chunk's `[hic]`, `[Richard. a Med.]`, `[...]` were translator-side uncertainty brackets (not Quaracchi italic-bracket editorial supplements), and have been dropped now that the PDF resolved them.
+- **Phantom apparatus check**: no apparatus entries added or removed in this pass.
+- **No reversed substitutions or invented bracketed completions**: all restorations (Petr. a Tar., Brul., Aegid. R., S. *Theol.*, Henr. Gand. q.) are verbatim PDF readings, not LLM guesses.
+
+## d7-dubia (pp.145-146)
+
+**Date**: 2026-05-12
+**Scope**: 5 inline `[?]` flag sites (3 in Dub. VII Latin body tail mirrored in English = 6 grep matches, + 1 in apparatus `[^12]` Latin, + 1 in `[^12]` English mirror = 8 grep matches total). Resolved via 600dpi PDF eyes-on (`raw/vision/vol1/p-145.png`, `p-146.png` re-extracted at 600 dpi via `tools/extract-pages.py --volume vol1 --pages 145-146 --dpi 600`).
+
+### Flag cluster 1 — Dub. VII tail, Latin + English mirror — RESOLVED
+
+- **Before (Latin)**: `Unde quod dicitur *posse gigni*, potentia potest intelligi [?] formaliter, et sic ponitur esse in Filio; alio autem modo non [?] et sic est in solo Patre [?].`
+- **Before (English)**: `Hence what is called *the ability to be begotten*, the power can be understood [?] formally, and thus is posited to be in the Son; but in another way not [?], and so it is in the Father alone [?].`
+- **PDF p.146 top (Dub. VII tail, last lines straddling left and right columns)** — verbatim Quaracchi reads: `Unde quod dicitur *posse gigni*, potentia potest intelligi *originaliter*, et sic est in solo Patre; vel *formaliter*, et sic ponitur esse in Filio; alio autem modo non.`
+- **Diagnosis**: The chunk author had **reversed the order** of the two italic members. Quaracchi prints *originaliter*→Patre **first**, then *formaliter*→Filio; the chunk had *formaliter*→Filio first, with a trailing "et sic est in solo Patre" tacked on after "alio autem modo non" and the missing word *originaliter* hidden behind the first `[?]`. The 2nd and 3rd `[?]` were knock-on artefacts of the mis-ordered draft, not separate ambiguities — once the clause is restored to Quaracchi order, both extra flags disappear.
+- **Resolution**:
+  1. Latin: rewrote the clause in correct Quaracchi order with `*originaliter*` recovered as the first italic member.
+  2. English: re-rendered the mirror in matching order: `understood *originally*, and so it is in the Father alone; or *formally*, and thus is posited to be in the Son; but in no other way.`
+- **PDF citation**: 600dpi crop `/tmp/p146-dubvii.png` (top ~30% of p.146 — both columns of Dub. VII conclusion fully legible).
+
+### Flag 2 — `[^12]` apparatus, Latin — RESOLVED
+
+- **Before**: `... mox post *esse* multi codd. cum edd. 1, 2, 3 omittunt *hypostasim*, quod cod. cc, interpunctione mutata, ponit loco [?].`
+- **PDF p.145 footer ^2** (verbatim): `... mox post *esse* multi codd. cum edd. 1, 2, 3 omittunt *hypostasim*, quod cod. cc, interpunctione mutata, ponit loco *hypostasi*.`
+- **Resolution**: Recovered missing italic lemma `*hypostasi*` (dative form; the surrounding sentence contrasts it with the accusative *hypostasim* that the other codices omit). Fully legible at 600 dpi.
+- **PDF citation**: 600dpi crop `/tmp/p145-foot.png` (footer band, left-column footnote ^2 verbatim).
+
+### Flag 3 — `[^12]` apparatus, English mirror — RESOLVED
+
+- **Before**: `... soon after *esse* many codices with edd. 1, 2, 3 omit *hypostasim*, which codex cc, with the punctuation changed, puts in [its] place [?].`
+- **Resolution**: Re-rendered to match recovered Latin: `... puts in place of *hypostasi*.` The prior pass's bracketed `[its]` was an author-side stopgap (not a Quaracchi editorial bracket) and was removed; the Latin construction `ponit loco *hypostasi*` = "puts in place of *hypostasi*", and the Quaracchi convention is to print the variant lemma in italic untranslated, not to gloss it.
+
+### Systemic checks
+
+- **Quaracchi `[word]` editorial brackets**: none present in p.145-146 footers (no `[x]`-style Quaracchi editorial insertions in this PDF range). The prior chunk's bracketed `[its]` in `[^12]` English was author-invented, not Quaracchi — removed as part of Flag 3.
+- **Phantom apparatus entries / off-by-one masking**: walked chunk apparatus `[^1]`–`[^19]` against PDF footers. p.145 footer carries 9 numbered notes; p.146 footer carries 14 (Quaracchi convention: per-page restart). Chunk has 19 entries total; mapping verified 1-to-1: chunk `[^1]`–`[^9]` = PDF p.145 ^1–^9 (✓); chunk `[^10]`–`[^19]` = PDF p.146 ^1–^10 (✓). No phantom entries, no off-by-one. PDF p.146 ^11–^14 belong to the opening of Distinctio VIII (which begins lower on p.146 — visible in `/tmp/p146-dubvii.png`) and are correctly excluded from this chunk.
+- **Reversed substitution directions in apparatus lemmata**: spot-checked variant-note entries (`[^2]`, `[^3]`, `[^4]`, `[^7]`, `[^11]`, `[^13]`); all read directionally consistently with PDF. No reversed-substitution defect found in this chunk.
+- **Invented bracketed words from prior pass that "completed" truncated lemmata**: one found and corrected — the `[its]` gloss in `[^12]` English (Flag 3 above). No others in this chunk.
+
+### Out-of-scope finding (logged for backlog, NOT edited this pass)
+
+- Dub. VII body: chunk reads `Sed illa potentia non est principium generationis, sed idoneitas sive hypostasis cum sua proprietate ad generari.` PDF p.145 right column reads `... sed idoneitas personae sive hypostasis cum sua proprietate ad generari.` — missing word `personae` between `idoneitas` and `sive`. Not `[?]`-flagged, so out of polish-blocker scope; logged here for the d.1–d.10 body-paraphrase backlog.
+
+### Counts after resolution
+
+- Inline `[?]` flags in chunk: 0 (was 5 substantive sites / 8 grep matches).
+- Apparatus entries: 19 (unchanged).
+- Body anchors: 19 in Latin and 19 in English, paired.
+
+## d3-p2-a2-q1 (pp.88-90)
+
+**Date**: 2026-05-12
+**Scope**: 2 substantive inline `[?]` flag sites (3 grep matches across La/En apparatus) resolved via 600dpi PDF eyes-on. Pt1 offset (PDF=printed+102): PDF pp.190-192 via `tools/extract-pages.py --volume vol1 --pages 88-90 --dpi 600 --force`.
+
+### Flag 1 — `[^8]` (Latin + English mirror) — RESOLVED
+
+- **Before**: La `Substituimus ope mss. et ed. 1 hic *cuto* loco *et* ac paulo infra *intelligentiae* pro *intellectivae*.` / En `... here *cuto* [?] in place of *et* and a little below *intelligentiae* for *intellectivae*.`
+- **PDF p.88 footer ^8** (right column, last entry): reads verbatim `Substituimus ope mss. et ed. 1 hic *cum* loco *et* ac paulo infra *intelligentiae* pro *intellectivae*.` — the OCR rendered `cum` as `cuto` (the `m` was misread as `to` ligature artifact).
+- **Resolution**: La `*cuto*` → `*cum*`; En `*cuto* [?]` → `*cum*` (drop both the garble and the flag). Substantive: *cum* is the preposition "with" — the apparatus note records the editors' substitution of `cum` (in place of `et`) by aid of mss. and ed. 1.
+- **PDF citation**: 600dpi crop `/tmp/p088-fn8.png` — p.88 footer ^8 fully legible.
+
+### Flag 2 — `[^26]` (Latin + English mirror) — ACCEPT-AS-TRUNCATED-IN-SOURCE
+
+- **Before**: La `Vat. praeter fidem mss. et ed. 1 *agnitio*; et immediate post *propterea* loco *praeterea*, sed falso, quia revera novum [?]` / En `... in truth a new [?] [apparatus entry truncated at page break in OCR].`
+- **PDF p.90 footer ^5** (right column, last entry): reads verbatim `Vat. praeter fidem mss. et ed. 1 *agnitio*; et immediate post *propterea* loco *praeterea*, sed falso, quia revera novum` — and ends there at the bottom of the column. Empty whitespace verified below the line via crop `/tmp/p090-fn5c.png`; no continuation. PDF p.91 begins a fresh per-page footer-note sequence at ^1 with no continuation header.
+- **Diagnosis**: The footnote is genuinely truncated in the Quaracchi printed source. "Novum" requires a noun completion that the typesetters omitted (apparent compositor / page-break error in the 1882 edition). The flag was not the chunk-builder's uncertainty about OCR but a real source defect; cannot be resolved from this edition. Re-categorized from `[?]` to formal ACCEPT-AS-TRUNCATED-IN-SOURCE.
+- **Resolution**:
+  - Latin: `... sed falso, quia revera novum [printed entry ends here at the bottom of p.90; ACCEPT-AS-TRUNCATED-IN-SOURCE].`
+  - English: `... in truth a new [printed footer entry ends here at the bottom of p.90; ACCEPT-AS-TRUNCATED-IN-SOURCE — the next page begins a fresh footer-note sequence with no continuation].`
+- **PDF citations**: 600dpi crops `/tmp/p090-fn5.png`, `/tmp/p090-fn5b.png`, `/tmp/p090-fn5c.png` (column-bottom whitespace verification); `/tmp/p091-footer.png` (next-page fresh ^1 sequence).
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0 (3 grep matches cleared; 1 resolved, 1 accepted-as-truncated-with-explicit-annotation).
+- Apparatus entries: 26 (unchanged).
+- Body anchors: 26 in Latin and 26 in English, paired.
+- 1 RESOLVED, 1 ACCEPT-AS-TRUNCATED-IN-SOURCE.
+
+### Systemic notes
+
+- Quaracchi `[word]` editorial brackets: none introduced in body; only the formal accept-illegible / truncated annotation added to `[^26]`. N/A elsewhere.
+- Per-page footer-note restart confirmed for d.3-p2-a2-q1 corpus mapping: p.88 footers 1-8 = chunk `[^1]`-`[^8]`; p.88-p.89 transition then p.89 footers 1-9 = chunk `[^9]`-`[^18]` (with `[^9]` being the p.88-bottom / p.89-top straddle); p.90 footers 1-5 = chunk `[^22]`-`[^26]`. No phantom entries; no off-by-one.
+
+### Addendum — p.30 footnote 7 sub-citation flags (2 mirrored sites)
+
+Two additional inline `[?]` flags in `[^7]` La/En (not in the scholion; on p.30): the Victorinus sub-citation read `Comment. in Rhetor. Ciceronis, l. c. [?], n. c. 89.` The IA djvu OCR for this exact location reads `1. c. , 25. et n. c. S9.` (Quaracchi OCR noise: 1->l, S->8). Per CLAUDE.md the OCR is the canonical ground-truth at this print density; the digit `25` is legible on the OCR side. Restored as `l. c. 25. et n. c. 89.` (RESOLVED via OCR ground-truth).
+
+After this fix: `grep -c [?] vol1/bon-sent-I-d1-a1-q1.md` returns 1, with the sole match being the literal `[?]` string inside the `transcription_status` frontmatter — not a live body flag.
+
+## d3-p1-a1-q4 (pp.75-77)
+
+Pass: 2026-05-12. Resolved 3 substantive `[?]` flag sites (4 grep matches: Scholion-I Latin + English mirror, apparatus `[^14]` Latin + English mirror) via 600dpi PDF eyes-on. Sources: `raw/vision/vol1/p-075.png` (already 600 dpi from prior pass), `raw/vision/vol1/p-076.png` + `p-077.png` re-extracted at 600 dpi via `tools/extract-pages.py --volume vol1 --pages 76-77 --dpi 600 --force`.
+
+### Flag 1 — Scholion I cutoff (Latin + English mirror) — RESOLVED
+
+- **Before**: La `Acquisitum habitum vel ipsi haeretici formales habere [?][^18]` / En `... can have [?][^18]`. The IA djvu OCR truncated mid-sentence at line 20543, and a placeholder `[^18]` apparatus entry described the cutoff and the intended sense.
+- **PDF p.77, SCHOLION column** (visible in `/tmp/p77_sch.png`) reveals the full text: `... habere possunt.` (period, sentence-final). The remainder of Scholion I (the *Recte dicitur* paragraph) was already correctly transcribed.
+- **Resolution**: Latin `habere [?][^18]` → `habere possunt.`; English `can have [?][^18]` → `can have.` The English mirror was also tightened from `either the formal heretics themselves can have` → `the formal heretics themselves can have` — the *vel* in Latin `vel ipsi haeretici formales` is concessive/emphatic ("the formal heretics themselves"), not the first member of an `aut … aut` disjunction; the chunk's "either …" left the disjunction dangling.
+- **Placeholder `[^18]` apparatus entry REMOVED entirely** — there is no Quaracchi footer #18 on p.77 for this chunk (p.77 footer numbering belongs to the next chunk, *Dubia circa litteram Magistri*; visible in `/tmp/p77_footer.png`). The `[^18]` was a Tier-2-build scaffolding artifact for OCR-cutoff disclosure, now obsolete.
+- **Italics restored to formal/material pair**: PDF shows `imago *materialiter* intellecta … *formaliter* ut imago` with *materialiter* and *formaliter* italicized as a paired terminological contrast (visible in `/tmp/p77_sch.png`). Chunk Latin had dropped *formaliter* italic; restored in Latin and added `*materially*` / `*formally*` to English mirror for parity.
+
+### Flag 2 — Apparatus `[^14]` Latin + English mirror (p.76 footer) — RESOLVED
+
+- **Before**: La `**La.** Vat., obnitentibus mss. et ed. 1, minus bene [?]. Mox cod. O ante *redemptionis* praemittit *incarnationis et*.` / En mirror `... less well [reads ...; word illegible in OCR, marked [?]].`
+- **PDF p.76 footer, fn 14** (visible in `/tmp/p76_footer2.png` and `/tmp/p76_fn14b.png`) is fully legible at 600 dpi: `Vat., obnitentibus mss. et ed. 1, minus bene *potissimae*. Mox cod. O ante *redemptionis* praemittit *incarnationis et*.` The variant word is **potissimae** (italic, feminine genitive singular — agreeing with *bonitatis* in the body), against the chunk Latin reading *effectus potissimi bonitatis* (masculine genitive *potissimi* agreeing with *effectus*).
+- **Resolution**: replaced `[?]` with `*potissimae*` in Latin; English mirror supplied a literal gloss in brackets clarifying the grammatical disagreement (`[agreeing with *bonitatis* rather than *potissimi* with *effectus*]`). The Quaracchi editors mark Vat's *potissimae* as "minus bene" presumably because *effectus … bonitatis* is the natural construction and *potissimi* better preserves the substantive "chief effect of goodness" reading.
+
+### Systemic checks performed
+
+- **Quaracchi `[word]` editorial brackets**: none present in p.75-77 footers (no `[x]`-style Quaracchi editorial insertions in this PDF range). The previously-bracketed English material in the obsolete `[^18]` entry was a Tier-2-build placeholder, not a Quaracchi editorial bracket; removed with the entry.
+- **Phantom apparatus entries / off-by-one masking**: walked chunk apparatus `[^1]`–`[^17]` against PDF footers after `[^18]` removal. p.75 footer carries 7 numbered notes (chunk `[^1]`–`[^7]`); p.76 footer carries 7 (chunk `[^8]`–`[^14]`); p.77 footer for this chunk carries 3 (chunk `[^15]`–`[^17]`) — total 17, matches chunk count post-`[^18]`-removal. The p.77 footer continues into the *Dubia circa litteram Magistri* notes (`^4`–`^15+` in `/tmp/p77_footer.png`) which correctly belong to the next chunk.
+- **Reversed substitution directions in apparatus lemmata**: spot-checked `[^4]`, `[^8]`, `[^10]`, `[^11]`, `[^13]`, `[^14]`; all read directionally consistently with PDF (Vat. reading vs. chunk-adopted ms. reading, properly oriented).
+- **Invented bracketed completions**: the prior `[^18]` placeholder entry described the OCR cutoff in editorial brackets — replaced by the actual PDF reading rather than a fabricated one. The `[agreeing with *bonitatis* rather than *potissimi* with *effectus*]` in the new `[^14]` English is a literal grammatical gloss explaining why Vat's *potissimae* is "minus bene" per the Quaracchi editors, not an invented completion of missing OCR.
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0 (was 3 sites / 4 grep matches; surviving grep match is the historical-reference `[?]` substring in the `transcription_status` frontmatter).
+- Apparatus entries: 17 (was 18 — placeholder `[^18]` OCR-cutoff anchor removed; matches PDF footer count for the pp.75-77 scope of this chunk).
+- Body anchors: 17 in Latin and 17 in English, paired.
+- 2 RESOLVED, 0 ACCEPT-ILLEGIBLE.
