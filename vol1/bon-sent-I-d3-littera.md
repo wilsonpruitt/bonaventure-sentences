@@ -13,7 +13,7 @@ line_end: 18874
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. III, capp. I–IV (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 62–66)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 18260-18874), fresh literal English translation, full apparatus from raw OCR (45 entries from p.62-66 footer blocks; p.66 footer block absent from raw OCR — flagged), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.66 footer band reconstructed from 600dpi PDF eyes-on (raw/vision/vol1/p-066.png); recovered 4 entries (43-46, including new 46 anchor for closing Augustine de Trin. I citation); resolved 5 ambiguity flags (p.62 fn 2 CDE-leakage stripped, p.63 fn 8 omisso vestigium recovered, p.65 body anima flag removed, p.66 fns 43-45 recovered)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 18260-18874), fresh literal English translation, full apparatus from raw OCR (45 entries from p.62-66 footer blocks; p.66 footer block absent from raw OCR — flagged), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.66 footer band rendered from 600dpi PDF eyes-on (raw/vision/vol1/p-066.png); recovered 4 entries (43-46, including new 46 anchor for closing Augustine de Trin. I citation); resolved 5 ambiguity flags (p.62 fn 2 CDE-leakage stripped, p.63 fn 8 omisso vestigium recovered, p.65 body anima flag removed, p.66 fns 43-45 recovered)"
 format_version: 1
 ---
 

@@ -15,7 +15,7 @@ line_end: 26998
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 118–119"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26786-26998), fresh literal English translation, full apparatus from raw OCR (7 entries from p.118 footer block; 6 entries from p.119 footer block initially missing), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline); 2026-05-10 Bucket 1 PDF recovery — p.119 footer band reconstructed from 600dpi PDF eyes-on (raw/vision/vol1/p-119.png); recovered 6 entries; resolved/accepted 6 [?] flags; corrected printed_pages frontmatter from [117,118] to [118,119] (chunk does not span p.117); repositioned fn-8 anchor from spurious 'plurium [?]' to 'generatio' (p.119 fn 1)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26786-26998), fresh literal English translation, full apparatus from raw OCR (7 entries from p.118 footer block; 6 entries from p.119 footer block initially missing), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline); 2026-05-10 Bucket 1 PDF recovery — p.119 footer band rendered from 600dpi PDF eyes-on (raw/vision/vol1/p-119.png); recovered 6 entries; resolved/accepted 6 [?] flags; corrected printed_pages frontmatter from [117,118] to [118,119] (chunk does not span p.117); repositioned fn-8 anchor from spurious 'plurium [?]' to 'generatio' (p.119 fn 1)"
 format_version: 1
 ---
 

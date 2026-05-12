@@ -15,7 +15,7 @@ line_end: 28639
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 129–130"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 28416-28639), fresh literal English translation, full apparatus from raw OCR (12 entries from p.129 footer block; p.130 footer block not preserved in OCR — body markers retained with [?] flags), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.130 footer band reconstructed from 600dpi PDF eyes-on (raw/vision/vol1/p-130.png); recovered 7 entries; resolved 7 [?] flags (footer note 8 on p.130 belongs to the d6-dubia chunk — DUB. I begins on p.130, not anchored here)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 28416-28639), fresh literal English translation, full apparatus from raw OCR (12 entries from p.129 footer block; p.130 footer block not preserved in OCR — body markers retained with [?] flags), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.130 footer band rendered from 600dpi PDF eyes-on (raw/vision/vol1/p-130.png); recovered 7 entries; resolved 7 [?] flags (footer note 8 on p.130 belongs to the d6-dubia chunk — DUB. I begins on p.130, not anchored here)"
 format_version: 1
 ---
 

@@ -13,7 +13,7 @@ has_scholion: false
 has_apparatus: true
 line_start: 37971
 line_end: 38198
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 37971-38198), fresh literal English translation, full apparatus from raw OCR (22 entries from p.192-193 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.193 partial recovery from 600dpi PDF eyes-on (raw/vision/vol1/p-193.png); 11 [?] resolved (footer entries 4-9 reconstructed verbatim, missing footer #10 added as new [^23] Col. 1, 13, p.193 body anchors renumbered to match printed marker positions 1-10), 2 [?] kept as ACCEPT-ILLEGIBLE in [^6] (typographic 'ut 1 T est' cross-reference glyph in printed text, not a Latin word)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 37971-38198), fresh literal English translation, full apparatus from raw OCR (22 entries from p.192-193 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.193 partial recovery from 600dpi PDF eyes-on (raw/vision/vol1/p-193.png); 11 [?] resolved (footer entries 4-9 rendered verbatim, missing footer #10 added as new [^23] Col. 1, 13, p.193 body anchors renumbered to match printed marker positions 1-10), 2 [?] kept as ACCEPT-ILLEGIBLE in [^6] (typographic 'ut 1 T est' cross-reference glyph in printed text, not a Latin word)"
 format_version: 1
 ---
 
