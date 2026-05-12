@@ -12,7 +12,7 @@ pdf_pages: [70, 71]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 480–481"
 has_scholion: false
 has_apparatus: false
-transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR (raw lines 6286–6356), de-interleaved from two-column page-bottom layout, literal English (2026-05-06)"
+transcription_status: "Phase C Tier 2 complete — Latin verbatim from IA djvu OCR pt2 (raw lines 6286–6356), de-interleaved from two-column page-bottom layout, literal English; apparatus-count audit flag (raw=13 chunk=0) dispositioned ACCEPT-AS-NULL — the p.480 footer entries belong to the preceding chunk d27-p1-dubia (whose body ends at line 6285) and the p.481 footer belongs to d27-p2-a1-q1 (which begins at line 6362); divisio body has no inline footnote markers, see manual-review/tier2-ambiguities-d27-p2-divisio.md (2026-05-12)"
 line_start: 6286
 line_end: 6356
 format_version: 1

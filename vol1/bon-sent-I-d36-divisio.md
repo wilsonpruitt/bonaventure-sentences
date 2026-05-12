@@ -14,7 +14,7 @@ has_apparatus: true
 line_start: 20165
 line_end: 20520
 word_count_latin: 460
-transcription_status: "Phase C Tier 2 apparatus-incomplete — Latin re-set verbatim from IA djvu OCR (raw lines 20165–20231 + 20507–20520 of pt2), COMMENTARIUS heading + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM + ART. II preamble rolled in, fresh literal English translation, full apparatus from raw OCR (4 entries), [?] flags on ambiguous spots (2026-05-07) [Apparatus undercoverage flagged 2026-05-09 (Wave 9b, Tier A): chunk has 4 apparatus defs vs hardened-heuristic raw count 52 (diff +48). Body and translation are sound; only the apparatus block is incomplete. Full apparatus rebuild from raw OCR queued — see manual-review/d1-d4-tier2-promotion-log.md Lesson 9.]"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 20165–20231 + 20507–20520 of pt2), COMMENTARIUS heading + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM + ART. II preamble rolled in, literal English, apparatus rebuilt from raw OCR (4 entries on p. 619; p. 622 preamble carries no footer band of its own — the p. 622 footer notes at raw lines 20522–20534 belong to d36-a1-q2, which holds pp. 621–622 quaestio II content above the ARTICULUS II split), Wave 9b Lesson 10 OVERCOUNT disposition: hardened-audit raw=52 is bounds-noise from intervening d36-a1-q1 + d36-a1-q2 apparatus (which span the lines-20232-to-20506 gap and are fully covered in their own chunks); ground-truth eyes-on the printed pp. 619/622 footer bands confirms 4 entries belong to this chunk, all four already present and verbatim-faithful (2026-05-12)"
 format_version: 1
 ---
 
