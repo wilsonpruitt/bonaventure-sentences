@@ -11,7 +11,7 @@ pdf_pages: [197, 198]
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. IV (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 95–96)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23297-23486), fresh literal English translation, full apparatus from raw OCR (16 entries from p.95-96 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23297-23486), fresh literal English translation, full apparatus from raw OCR (16 entries from p.95-96 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); d.1-d.10 polish pass — 2 [?] flags resolved via 600dpi PDF eyes-on (^11 truncation completed to 'Cap. 6. n. 10, ubi et proximus locus, sed nonnullis omissis et mutatis'; phantom apparatus ^13 'Cap. 6.' removed and ^13-^16 renumbered to match PDF body markers; chunk ^16 split into ^15 [Cap. 7 n. 9, p.96 fn 1] and ^16 [Epistola 170, p.96 fn 2]) (2026-05-12)"
 line_start: 23297
 line_end: 23486
 format_version: 1
@@ -123,26 +123,26 @@ Now let us return to the foregoing question, where it was asked whether God the 
 
     **En.** The Vatican edition and edition 4 add *et* ("and"); shortly after, codd. C D read *unam essentiam* ("one essence") for *sive essentiam* ("or essence").
 
-[^11]: **La.** L. 1, c. 10, ubi et proximus locus, et mutatis. [?]
+[^11]: **La.** Cap. 6. n. 10, ubi et proximus locus, sed nonnullis omissis et mutatis.
 
-    **En.** Book 1, chapter 10, where also the next passage is found, and with changes. [?]
+    **En.** Chapter 6, no. 10, where also the next passage is found, but with some things omitted and changed.
 
 [^12]: **La.** I. Tim. 6, 15. *Quem suis temporibus ostendet beatus* etc. Apud Augustinum: *Quem temporibus propriis ostendet Pater beatus* etc. Perperam mss. D E cum edd. 3, 4, 5, 7, 9 *ostendit* loco *ostendet*.
 
     **En.** 1 Tim. 6:15. *Whom in his times the blessed [one] shall show* etc. In Augustine: *Whom the blessed Father shall show forth in His own times* etc. Wrongly the manuscripts D E together with editions 3, 4, 5, 7, 9 [read] *ostendit* ("shows") in place of *ostendet* ("shall show").
 
-[^13]: **La.** Cap. 6. [?]
-
-    **En.** Chapter 6. [?]
-
-[^14]: **La.** Cap. 8, n. 9. Proximi loci citatio in omnibus mss. et edd., demptis Vat. et ed. 4, ita fertur: *Item in libro de Fide ad Petrum in expositione Symboli*; at perperam, cum verba subsequentia non in eo, sed in *Enchyridion* legantur.
+[^13]: **La.** Cap. 8, n. 9. Proximi loci citatio in omnibus mss. et edd., demptis Vat. et ed. 4, ita fertur: *Item in libro de Fide ad Petrum in expositione Symboli*; at perperam, cum verba subsequentia non in eo, sed in *Enchyridion* legantur.
 
     **En.** Chapter 8, no. 9. The citation of the next passage in all manuscripts and editions, except the Vatican and edition 4, is given thus: *Likewise in the book On Faith to Peter, in the exposition of the Symbol*; but wrongly, since the subsequent words are not read in that work, but in the *Enchiridion*.
 
-[^15]: **La.** Serm. 233. de Fide cathol., n. 1, sed paulo aliter, nempe: *Credimus in unum Deum... Hunc unum Deum et hanc unam esse divini nominis Trinitatem*.
+[^14]: **La.** Serm. 233. de Fide cathol., n. 1, sed paulo aliter, nempe: *Credimus in unum Deum... Hunc unum Deum et hanc unam esse divini nominis Trinitatem*.
 
     **En.** Sermon 233, *On the Catholic Faith*, no. 1, but somewhat differently, namely: *We believe in one God... [we believe] this one God and this one [to be] the Trinity of the divine name*.
 
-[^16]: **La.** Cap. 7, n. 9. — Immediate ante Vat. et edd. 1, 2 habent *item* pro *idem*; mox post *Ecce* Vat. et ed. 4 addunt *et*. Deinde codd. A B C D et edd. 1, 8 *concedendum* pro *credendum*, sed non bene nec congrue ad duo testimonia Augustini, qui loquitur tum de interiore fide (*Credimus*), tum de confessione fidei (*Dicimus*). — Epistola 170 ad Maximum medicum, n. 5. — Paulo infra in explicatione verborum Augustini Vat. male omittit *a* post *de se alterum*.
+[^15]: **La.** Cap. 7, n. 9. — Immediate ante Vat. et edd. 1, 2 habent *item* pro *idem*; mox post *Ecce* Vat. et ed. 4 addunt *et*. Deinde codd. A B C D et edd. 1, 8 *concedendum* pro *credendum*, sed non bene nec congrue ad duo testimonia Augustini, qui loquitur tum de interiore fide (*Credimus*), tum de confessione fidei (*Dicimus*).
 
-    **En.** Chapter 7, no. 9. — Immediately before, the Vatican edition and editions 1, 2 have *item* ("likewise") for *idem* ("the same"); shortly after *Ecce*, the Vatican and edition 4 add *et* ("and"). Then codd. A B C D and editions 1, 8 [read] *concedendum* ("to be conceded") for *credendum* ("to be believed"), but not well nor congruously with the two testimonies of Augustine, who speaks both of interior faith (*We believe*) and of the confession of faith (*We say*). — Letter 170 to Maximus the physician, no. 5. — A little below in the explanation of Augustine's words, the Vatican edition wrongly omits *a* after *de se alterum*.
+    **En.** Chapter 7, no. 9. — Immediately before, the Vatican edition and editions 1, 2 have *item* ("likewise") for *idem* ("the same"); shortly after *Ecce*, the Vatican and edition 4 add *et* ("and"). Then codd. A B C D and editions 1, 8 [read] *concedendum* ("to be conceded") for *credendum* ("to be believed"), but not well nor congruously with the two testimonies of Augustine, who speaks both of interior faith (*We believe*) and of the confession of faith (*We say*).
+
+[^16]: **La.** Epistola 170. ad Maximum medicum, n. 5. — Paulo infra in explicatione verborum Augustini Vat. male omittit *a* post *de se alterum*.
+
+    **En.** Letter 170 to Maximus the physician, no. 5. — A little below in the explanation of Augustine's words, the Vatican edition wrongly omits *a* ("from") after *de se alterum* ("another from Himself").

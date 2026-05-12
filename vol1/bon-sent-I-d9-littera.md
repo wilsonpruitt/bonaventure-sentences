@@ -13,7 +13,7 @@ line_end: 36016
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. IX (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 177–179)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 35561-36016), fresh literal English translation, full apparatus from raw OCR (37 entries from p.177-179 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 35561-36016), fresh literal English translation, full apparatus from raw OCR (37 entries from p.177-179 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); d.1-d.10 polish-blocker pass 1 [?]-flag resolution complete via 600dpi PDF eyes-on of pp.177-179 (2026-05-12, 4 flags resolved: Cap. III. heading confirmed printed p.177, Isai. 53, 8 confirmed printed-footer-10 p.177 'Cap. 53, 8.')"
 format_version: 1
 ---
 
@@ -50,7 +50,7 @@ resco ». Scriptum est enim in veteri Testamento[^8], ut vel unum e pluribus dic
 
 Item: « Dic, inquam, mihi haeretice, fuitne, quando omnipotens Deus Pater non erat, et Deus erat? Nam si Pater esse coepit, Deus ergo primo erat et postea Pater factus est. Quomodo ergo immutabilis Deus est? Si enim ante Deus, postea Pater fuit, utique generationis accessione mutatus est ». « Sed avertat Deus hanc amentiam[^10] ».
 
-### Cap. III.[?]
+### Cap. III.
 
 *De ineffabili et intelligibili generationis modo.*
 
@@ -106,7 +106,7 @@ der at." For it is written in the Old Testament[^8], that I may speak of one out
 
 Likewise: "Tell me, I say, heretic, was there a time when omnipotent God was not Father and yet was God? For if he began to be Father, then God first existed and afterwards was made Father. How then is God unchangeable? For if he was first God and afterwards Father, he was certainly changed by the accession of generation." "But may God turn away this madness[^10]."
 
-### Chap. III.[?]
+### Chap. III.
 
 *On the ineffable and intelligible mode of generation.*
 
@@ -188,9 +188,9 @@ Let us say therefore that the Son was born from the Father before time and is al
 
     **En.** Philippians 4, 7. The words which follow below, *ori manum admove* ("put your hand to your mouth") and *scrutari non licet* ("it is not permitted to scrutinize"), refer to Sirach 5, 14 and 3, 22.
 
-[^13]: **La.** Isai. 53, 8.[?]
+[^13]: **La.** Isai. 53, 8.
 
-    **En.** Isaiah 53, 8.[?]
+    **En.** Isaiah 53, 8.
 
 [^14]: **La.** Cap. 3.
 

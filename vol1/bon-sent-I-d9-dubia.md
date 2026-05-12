@@ -13,7 +13,7 @@ line_end: 37970
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 187–192"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 37250-37970), fresh literal English translation, full apparatus from raw OCR (67 entries from p.187-191 footer blocks; p.192 has no DUB apparatus), 13 DUB present, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 37250-37970), fresh literal English translation, full apparatus from raw OCR (66 entries from p.187-191 footer blocks; p.192 has no DUB apparatus), 13 DUB present (2026-05-10 d.1-d.10 rechunk pipeline from-scratch; 2026-05-12 d.1-d.10 polish-pass: resolved [?] flags via 600dpi PDF eyes-on — [^1] verb 'legit' was Quaracchi-implicit ellipsis, removed; phantom [^54] apparatus entry deleted, body anchors [^52]/[^53]/[^54] re-mapped to p.190 footer markers 14/15 on 'utrumque'/'Patri', original off-by-one corrected; [^55]-[^66] in body+apparatus renumbered down by one)"
 format_version: 1
 ---
 
@@ -103,11 +103,11 @@ Item quaeritur de hoc quod dicit: *Ego hodie genui te*, quia potest intelligi de
 
 Item quaeritur de hoc quod dicit Origenes: *Splendor autem non semel nascitur et desinit.* Contra: si hoc simile rectum est, videtur quod Filius non semel nascatur: ergo quaeritur, quare magis generatio Filii assimilatur splendori quam aliis rebus, maxime cum non generetur a luce splendor nisi ad praesentiam corporis obiecti? Et praeterea, Filius dicitur *lux*[^47]; non ergo splendor lucis.
 
-**Respondeo:** Dicendum, quod generatio Filii habet in se perfectam conformitatem, coaeternitatem et aequalitatem[^48]; et quia in creatura una simul haec non possumus invenire, ideo capimus ex multis, et ideo multas illi assimilamus. Quantum ergo ad *conformitatem* similis est generationi verbi[^49], quod est proles perfecte repraesentans illum, a quo est. Quantum ad *coaeternitatem* similis est egressui splendoris a luce, in quo est coaevitas[^50], propter lucis actualitatem. Quantum ad *aequalitatem* similis est generationi viventis ex vivente, qui generat sibi aequale[^51] omnino; et sic diversimode comparatur a Sanctis. Comparat igitur Origenes ad egressum splendoris, non quantum ad iterationis assimilationem[^52], sed quantum ad privationem intermissionis sive interpolationis.
+**Respondeo:** Dicendum, quod generatio Filii habet in se perfectam conformitatem, coaeternitatem et aequalitatem[^48]; et quia in creatura una simul haec non possumus invenire, ideo capimus ex multis, et ideo multas illi assimilamus. Quantum ergo ad *conformitatem* similis est generationi verbi[^49], quod est proles perfecte repraesentans illum, a quo est. Quantum ad *coaeternitatem* similis est egressui splendoris a luce, in quo est coaevitas[^50], propter lucis actualitatem. Quantum ad *aequalitatem* similis est generationi viventis ex vivente, qui generat sibi aequale[^51] omnino; et sic diversimode comparatur a Sanctis. Comparat igitur Origenes ad egressum splendoris, non quantum ad iterationis assimilationem, sed quantum ad privationem intermissionis sive interpolationis.
 
-Et nota, quod differunt splendor, radius et lumen, cum omnia dicant influentiam a luminoso: quia *radius* dicit emissionem secundum diametralem distantiam; *lumen*, secundum circumferentiam, utrumque[^53] tamen in profundum transparentis; *splendor* dicit repercussionem ad corpus non transparens, tersum et limitatum. Sed tamen hic Origenes vocat splendorem lumen progrediens a luce.
+Et nota, quod differunt splendor, radius et lumen, cum omnia dicant influentiam a luminoso: quia *radius* dicit emissionem secundum diametralem distantiam; *lumen*, secundum circumferentiam, utrumque[^52] tamen in profundum transparentis; *splendor* dicit repercussionem ad corpus non transparens, tersum et limitatum. Sed tamen hic Origenes vocat splendorem lumen progrediens a luce.
 
-Ad illud ergo quod obiicitur, quod Filius est *lux*; dicendum, quod lux habet in se naturam manifestandi; et ita respicit cognitionem et appropriatur Filio; habet in se vim multiplicandi sive generandi splendorem; et ita appropriatur Patri.[^54]
+Ad illud ergo quod obiicitur, quod Filius est *lux*; dicendum, quod lux habet in se naturam manifestandi; et ita respicit cognitionem et appropriatur Filio; habet in se vim multiplicandi sive generandi splendorem; et ita appropriatur Patri.[^53]
 
 <!-- page 191 -->
 
@@ -115,35 +115,35 @@ Ad illud ergo quod obiicitur, quod Filius est *lux*; dicendum, quod lux habet in
 
 Item quaeritur de hoc quod dicit Hilarius, quod *cum sacramento scientiae suae ex eo nascitur.* Videtur enim secundum hoc, quod Pater secundum sacramentum scientiae generat Filium: ergo scientia est ratio generandi.
 
-**Respondeo:** Dicendum, quod Hilarius vocat hic[^55] *sacramentum* sacrum secretum; dicit autem, Filium nasci cum sacramento scientiae, quia Filii generatio non tantum sacra, sed etiam secreta est, non, inquam, Deo secreta, sed nobis, quia nos eam non comprehendimus; ipse autem[^56] perfecte novit eam. Ideo dicit *cum sacramento* etc.
+**Respondeo:** Dicendum, quod Hilarius vocat hic[^55] *sacramentum* sacrum secretum; dicit autem, Filium nasci cum sacramento scientiae, quia Filii generatio non tantum sacra, sed etiam secreta est, non, inquam, Deo secreta, sed nobis, quia nos eam non comprehendimus; ipse autem[^55] perfecte novit eam. Ideo dicit *cum sacramento* etc.
 
 ### Dub. IX.
 
 Item quaeritur de hoc quod dicit: *Quod ex vivo vivum natum est habet nativitatis perfectum sine novitate naturae.* Videtur enim falsum, quia puer nascitur de patre et matre viventibus, et tamen utrumque habet, scilicet imperfectionem et novitatem.
 
-**Respondeo:** Ratio Hilarii, sicut patet per litteram sequentem[^57], intelligenda est de vivo per essentiam; ubi enim est vivens per essentiam, non fit ex non vivo vivens, sicut fit in vivente per participationem, ubi non generatur vivum ex vivo nisi per non vivum, ut patet, quia homo non generatur ex homine nisi mediante semine.
+**Respondeo:** Ratio Hilarii, sicut patet per litteram sequentem[^56], intelligenda est de vivo per essentiam; ubi enim est vivens per essentiam, non fit ex non vivo vivens, sicut fit in vivente per participationem, ubi non generatur vivum ex vivo nisi per non vivum, ut patet, quia homo non generatur ex homine nisi mediante semine.
 
 ### Dub. X.
 
-Item quaeritur de hoc quod dicit: *Neque ex derivatione, sed ex virtute nativitas est.* Videtur contrarium, quia secundum Dionysium[^58] et Anselmum Pater se habet ad Filium et Spiritum sanctum, ut fons, et illi ut rivi; sed rivus est a fonte per derivationem.
+Item quaeritur de hoc quod dicit: *Neque ex derivatione, sed ex virtute nativitas est.* Videtur contrarium, quia secundum Dionysium[^57] et Anselmum Pater se habet ad Filium et Spiritum sanctum, ut fons, et illi ut rivi; sed rivus est a fonte per derivationem.
 
-**Respondeo:** Dicendum, quod nativitas, quae est per derivationem, attenditur quantum ad transmutationem aliquam circa illud quod transmutatur, et ita dicit passionem quandam, ac per hoc infirmitatem[^59]; sed vivens, quod est vita, est actus purus, et ita vita pura, in qua non est infirmitas, sed pura actualitas; et ideo vult Hilarius dicere, quod Pater generans est totus[^60] vita, et quod generat non est per vel demutationem, quae attenditur in derivatione, sed per omnimodam virtutem: ergo Filius genitus est virtus, non per mutationem natus.
+**Respondeo:** Dicendum, quod nativitas, quae est per derivationem, attenditur quantum ad transmutationem aliquam circa illud quod transmutatur, et ita dicit passionem quandam, ac per hoc infirmitatem[^58]; sed vivens, quod est vita, est actus purus, et ita vita pura, in qua non est infirmitas, sed pura actualitas; et ideo vult Hilarius dicere, quod Pater generans est totus[^59] vita, et quod generat non est per vel demutationem, quae attenditur in derivatione, sed per omnimodam virtutem: ergo Filius genitus est virtus, non per mutationem natus.
 
 ### Dub. XI.
 
-Item quaeritur de hoc quod dicit: *Ubi Pater auctor est, ibi et nativitas est.* Videtur quod improprie dicit[^61], quia auctoritas dicit causalitatem; sed haec non recipitur in divinis: ergo etc.
+Item quaeritur de hoc quod dicit: *Ubi Pater auctor est, ibi et nativitas est.* Videtur quod improprie dicit[^60], quia auctoritas dicit causalitatem; sed haec non recipitur in divinis: ergo etc.
 
-**Respondeo:** Dicendum, quod auctoritas dicit quandam principalitatem sive auctoritatem[^62] in persona, quae nihil habet ab alio, sed ab ipso omnes; et ista auctoritas in Patre est innascibilitas; unde non dicit causalitatem, sed privationem principii, et per hoc summam principalitatem.
+**Respondeo:** Dicendum, quod auctoritas dicit quandam principalitatem sive auctoritatem[^61] in persona, quae nihil habet ab alio, sed ab ipso omnes; et ista auctoritas in Patre est innascibilitas; unde non dicit causalitatem, sed privationem principii, et per hoc summam principalitatem.
 
 ### Dub. XII.
 
-Item quaeritur de hoc quod dicit: *Quod vero ab aeterno natum est, id, si non aeternum natum est* etc; et innuit Hilarius hic tale argumentum: si Filius non est generatus sive natus ab aeterno, generatio eius non est aeterna; et si hoc[^63], Pater non generat ab aeterno: ergo Pater non est aeternus: ergo qui derogat aeternitati Filii, derogat aeternitati Patris. Sed ista ratio non videtur valere, quia similiter ego arguam ex parte Creatoris et creaturae: si[^64] creatura non est aeterna, non ab aeterno creavit Deus, et ita non est Creator aeternus.
+Item quaeritur de hoc quod dicit: *Quod vero ab aeterno natum est, id, si non aeternum natum est* etc; et innuit Hilarius hic tale argumentum: si Filius non est generatus sive natus ab aeterno, generatio eius non est aeterna; et si hoc[^62], Pater non generat ab aeterno: ergo Pater non est aeternus: ergo qui derogat aeternitati Filii, derogat aeternitati Patris. Sed ista ratio non videtur valere, quia similiter ego arguam ex parte Creatoris et creaturae: si[^63] creatura non est aeterna, non ab aeterno creavit Deus, et ita non est Creator aeternus.
 
-**Respondeo:** Dicendum, quod non est simile, sicut patet ex sequenti[^65] eius quod Hilarius supponit, quod esse Patrem sit proprie proprium illius personae: ergo cum tale semper conveniat, aut aliter res non habet esse perfectum, sequitur de necessitate: aut Filius est aeternus, aut Pater ab aeterno non habet esse perfectum. Creare vero, etsi solius Dei sit, tamen ratione connotati habet imperfectionem coniunctam, secundum quam non tantum impossibile, sed etiam non intelligibile est, aliquid ab aeterno creari[^66].
+**Respondeo:** Dicendum, quod non est simile, sicut patet ex sequenti[^64] eius quod Hilarius supponit, quod esse Patrem sit proprie proprium illius personae: ergo cum tale semper conveniat, aut aliter res non habet esse perfectum, sequitur de necessitate: aut Filius est aeternus, aut Pater ab aeterno non habet esse perfectum. Creare vero, etsi solius Dei sit, tamen ratione connotati habet imperfectionem coniunctam, secundum quam non tantum impossibile, sed etiam non intelligibile est, aliquid ab aeterno creari[^65].
 
 ### Dub. XIII.
 
-Item quaeritur de hoc quod dicit: *Sed se ipsum demutare nascendo*; quia secundum hoc, cum Filius Dei prius esset et postea ex Virgine natus sit[^67]: ergo esset mutatus.
+Item quaeritur de hoc quod dicit: *Sed se ipsum demutare nascendo*; quia secundum hoc, cum Filius Dei prius esset et postea ex Virgine natus sit[^66]: ergo esset mutatus.
 
 <!-- page 192 -->
 
@@ -231,11 +231,11 @@ Likewise there is a question about what he says: *Today I have begotten thee*, b
 
 Likewise there is a question about what Origen says: *But a splendor is not born once and ceases.* On the contrary: if this similitude is correct, it seems that the Son is not born once: therefore it is asked, why is the generation of the Son rather likened to a splendor than to other things, especially since splendor is not generated from a light except in the presence of an opposing body? And besides, the Son is called *light*[^47]; therefore [he is] not the splendor of light.
 
-**I respond:** It must be said that the generation of the Son has in itself perfect *conformity*, *coeternity* and *equality*[^48]; and because in a creature we cannot find these together in one, therefore we take from many, and so we liken him to many. As to *conformity* therefore he is similar to the generation of a word[^49], which is an offspring perfectly representing the one from whom it is. As to *coeternity* he is similar to the going-forth of a splendor from a light, in which there is coaeval[^50], on account of the actuality of the light. As to *equality* he is similar to the generation of a living from a living, who generates one altogether equal[^51] to himself; and thus in diverse ways he is compared by the Saints. Therefore Origen compares [it] to the going-forth of a splendor, not as to a likeness of iteration[^52], but as to the privation of intermission or interruption.
+**I respond:** It must be said that the generation of the Son has in itself perfect *conformity*, *coeternity* and *equality*[^48]; and because in a creature we cannot find these together in one, therefore we take from many, and so we liken him to many. As to *conformity* therefore he is similar to the generation of a word[^49], which is an offspring perfectly representing the one from whom it is. As to *coeternity* he is similar to the going-forth of a splendor from a light, in which there is coaeval[^50], on account of the actuality of the light. As to *equality* he is similar to the generation of a living from a living, who generates one altogether equal[^51] to himself; and thus in diverse ways he is compared by the Saints. Therefore Origen compares [it] to the going-forth of a splendor, not as to a likeness of iteration, but as to the privation of intermission or interruption.
 
-And note that *splendor*, *ray*, and *light* differ, since all signify an influence from the luminous: because a *ray* signifies emission according to diametrical distance; *light* (*lumen*), according to the circumference, both[^53] however into the depth of the transparent; *splendor* signifies the reflection back to a non-transparent, clean, and limited body. But nevertheless here Origen calls the light proceeding from the light a *splendor*.
+And note that *splendor*, *ray*, and *light* differ, since all signify an influence from the luminous: because a *ray* signifies emission according to diametrical distance; *light* (*lumen*), according to the circumference, both[^52] however into the depth of the transparent; *splendor* signifies the reflection back to a non-transparent, clean, and limited body. But nevertheless here Origen calls the light proceeding from the light a *splendor*.
 
-To that, then, which is objected, that the Son is *light*; it must be said that light has in itself the nature of manifesting; and so it regards cognition and is appropriated to the Son; it has in itself the power of multiplying or generating splendor; and so it is appropriated to the Father.[^54]
+To that, then, which is objected, that the Son is *light*; it must be said that light has in itself the nature of manifesting; and so it regards cognition and is appropriated to the Son; it has in itself the power of multiplying or generating splendor; and so it is appropriated to the Father.[^53]
 
 <!-- page 191 -->
 
@@ -243,35 +243,35 @@ To that, then, which is objected, that the Son is *light*; it must be said that 
 
 Likewise there is a question about what Hilary says, that *with the sacrament of his knowledge he is born from him*. For it seems according to this that the Father generates the Son according to the sacrament of knowledge: therefore knowledge is the ground of generating.
 
-**I respond:** It must be said that Hilary here[^55] calls *sacrament* a sacred secret; and he says that the Son is born with the sacrament of knowledge, because the generation of the Son is not only sacred but also secret — not, I say, secret to God, but to us, because we do not comprehend it; but he himself[^56] perfectly knows it. Therefore he says *with the sacrament* etc.
+**I respond:** It must be said that Hilary here[^55] calls *sacrament* a sacred secret; and he says that the Son is born with the sacrament of knowledge, because the generation of the Son is not only sacred but also secret — not, I say, secret to God, but to us, because we do not comprehend it; but he himself[^55] perfectly knows it. Therefore he says *with the sacrament* etc.
 
 ### Dub. IX.
 
 Likewise there is a question about what he says: *That which is born living from a living thing has the perfection of birth without newness of nature.* For it seems false, because a child is born from a living father and a living mother, and yet both have, namely, imperfection and newness.
 
-**I respond:** The argument of Hilary, as appears through the following text[^57], is to be understood of the living by essence; for where there is a living [thing] by essence, the living does not come about from a non-living, as it comes about in a living [thing] by participation, where the living is not generated from the living except through the non-living, as is plain, because a man is not generated from a man except by means of seed.
+**I respond:** The argument of Hilary, as appears through the following text[^56], is to be understood of the living by essence; for where there is a living [thing] by essence, the living does not come about from a non-living, as it comes about in a living [thing] by participation, where the living is not generated from the living except through the non-living, as is plain, because a man is not generated from a man except by means of seed.
 
 ### Dub. X.
 
-Likewise there is a question about what he says: *Nativity is not from derivation but from power.* The contrary seems [to be the case], because according to Dionysius[^58] and Anselm the Father stands to the Son and the Holy Spirit as a fount, and they to him as rivers; but a river is from the fount by derivation.
+Likewise there is a question about what he says: *Nativity is not from derivation but from power.* The contrary seems [to be the case], because according to Dionysius[^57] and Anselm the Father stands to the Son and the Holy Spirit as a fount, and they to him as rivers; but a river is from the fount by derivation.
 
-**I respond:** It must be said that nativity which is by derivation is regarded as to some change concerning that which is changed, and so signifies a certain passion, and through this an infirmity[^59]; but the living, which is life, is pure act, and thus pure life, in which there is no infirmity but pure actuality; and therefore Hilary wishes to say that the Father, in generating, is wholly[^60] life, and what he generates is not through change or transmutation, which is regarded in derivation, but through omnimodal power: therefore the begotten Son is power, born not through change.
+**I respond:** It must be said that nativity which is by derivation is regarded as to some change concerning that which is changed, and so signifies a certain passion, and through this an infirmity[^58]; but the living, which is life, is pure act, and thus pure life, in which there is no infirmity but pure actuality; and therefore Hilary wishes to say that the Father, in generating, is wholly[^59] life, and what he generates is not through change or transmutation, which is regarded in derivation, but through omnimodal power: therefore the begotten Son is power, born not through change.
 
 ### Dub. XI.
 
-Likewise there is a question about what he says: *Where the Father is author, there also is nativity.* It seems he speaks improperly[^61], because authority signifies causality; but this is not received in the divine [persons]: therefore etc.
+Likewise there is a question about what he says: *Where the Father is author, there also is nativity.* It seems he speaks improperly[^60], because authority signifies causality; but this is not received in the divine [persons]: therefore etc.
 
-**I respond:** It must be said that authority signifies a certain principality or authority[^62] in a person which has nothing from another, but from itself all [others have]; and that authority in the Father is innascibility; hence it does not signify causality, but the privation of a principle, and through this the highest principality.
+**I respond:** It must be said that authority signifies a certain principality or authority[^61] in a person which has nothing from another, but from itself all [others have]; and that authority in the Father is innascibility; hence it does not signify causality, but the privation of a principle, and through this the highest principality.
 
 ### Dub. XII.
 
-Likewise there is a question about what he says: *But that which has been born from eternity, if it has not been born eternal* etc.; and Hilary here implies such an argument: if the Son is not generated or born from eternity, his generation is not eternal; and if this[^63], the Father does not generate from eternity: therefore the Father is not eternal: therefore he who detracts from the eternity of the Son detracts from the eternity of the Father. But this argument does not seem to hold, because similarly I will argue on the part of the Creator and the creature: if[^64] the creature is not eternal, God did not create from eternity, and so the Creator is not eternal.
+Likewise there is a question about what he says: *But that which has been born from eternity, if it has not been born eternal* etc.; and Hilary here implies such an argument: if the Son is not generated or born from eternity, his generation is not eternal; and if this[^62], the Father does not generate from eternity: therefore the Father is not eternal: therefore he who detracts from the eternity of the Son detracts from the eternity of the Father. But this argument does not seem to hold, because similarly I will argue on the part of the Creator and the creature: if[^63] the creature is not eternal, God did not create from eternity, and so the Creator is not eternal.
 
-**I respond:** It must be said that the case is not similar, as is plain from the consequence[^65] of what Hilary supposes, that to be Father is properly proper to that person: therefore since such [an attribute] always belongs [to him], or otherwise the thing does not have perfect being, it follows of necessity: either the Son is eternal, or the Father from eternity does not have perfect being. But to create, even though it belong to God alone, nevertheless by reason of the connoted has an imperfection joined with it, according to which it is not only impossible, but also not intelligible, that anything be created from eternity[^66].
+**I respond:** It must be said that the case is not similar, as is plain from the consequence[^64] of what Hilary supposes, that to be Father is properly proper to that person: therefore since such [an attribute] always belongs [to him], or otherwise the thing does not have perfect being, it follows of necessity: either the Son is eternal, or the Father from eternity does not have perfect being. But to create, even though it belong to God alone, nevertheless by reason of the connoted has an imperfection joined with it, according to which it is not only impossible, but also not intelligible, that anything be created from eternity[^65].
 
 ### Dub. XIII.
 
-Likewise there is a question about what he says: *But to alter himself by being born*; because according to this, since the Son of God existed before and afterwards was born of the Virgin[^67]: therefore he would be changed.
+Likewise there is a question about what he says: *But to alter himself by being born*; because according to this, since the Son of God existed before and afterwards was born of the Virgin[^66]: therefore he would be changed.
 
 <!-- page 192 -->
 
@@ -281,11 +281,11 @@ Likewise there is a question about what he says: *But to alter himself by being 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry is given first in Latin (**La.**), then in literal English (**En.**). Numbering is sequential `[^1]`–`[^67]` across all six pages of the apparatus block (p. 187–p. 191; p. 192 has no apparatus footer in the dubia).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry is given first in Latin (**La.**), then in literal English (**En.**). Numbering is sequential `[^1]`–`[^66]` across all six pages of the apparatus block (p. 187–p. 191; p. 192 has no apparatus footer in the dubia).
 
-[^1]: **La.** Ita vetustiores mss. et ed. 1, dum Vat. cum cod. cc legit *ipse est Filius et purus*. Paulo ante unus alterve cod. ut PQ cum ed. 1 *sua* loco *sui*. [?]
+[^1]: **La.** Ita vetustiores mss. et ed. 1, dum Vat. cum cod. cc *ipse est Filius et purus*. Paulo ante unus alterve cod. ut PQ cum ed. 1 *sua* loco *sui*.
 
-    **En.** So the older mss. and ed. 1, while the Vatican [edition] with cod. cc reads *ipse est Filius et purus*. A little before, one or another cod. like PQ with ed. 1 [reads] *sua* in place of *sui*. [?]
+    **En.** So the older mss. and ed. 1, while the Vatican [edition] with cod. cc [reads] *ipse est Filius et purus*. A little before, one or another cod. like PQ with ed. 1 [reads] *sua* in place of *sui*.
 
 [^2]: **La.** Lectio Vat. *simile* loco *simul sint* corrigitur ex mss. et ed. 1.
 
@@ -495,58 +495,54 @@ Likewise there is a question about what he says: *But to alter himself by being 
 
     **En.** More on this similitude taken from splendor is given by Alexander of Hales, *Summa*, p. 1, q. 42, m. 5, a. 3, and the other authors alleged a little above, and Aegidius Romanus, here on the text.
 
-[^54]: **La.** [?] OCR garble at apparatus boundary p.190/191; entry placement ambiguous. [?]
-
-    **En.** [?] OCR garble at apparatus boundary p.190/191; entry placement ambiguous. [?]
-
-[^55]: **La.** Vat. contra plurimos codd. et ed. 1 minus bene *hoc*.
+[^54]: **La.** Vat. contra plurimos codd. et ed. 1 minus bene *hoc*.
 
     **En.** The Vatican [edition], against very many codices and ed. 1, less well [reads] *hoc*.
 
-[^56]: **La.** Aliqui codd. ut AITZ bb cc *enim*; ed. 1 *vero*.
+[^55]: **La.** Aliqui codd. ut AITZ bb cc *enim*; ed. 1 *vero*.
 
     **En.** Some codices, as AITZ bb cc, [read] *enim*; ed. 1 [reads] *vero*.
 
-[^57]: **La.** Quae Hilarii verba vide in lit. Magistri c. 4. post medium. — Mox plures codd. ut FHITXYZ etc. cum ed. 1 *intelligitur* loco *intelligenda est*.
+[^56]: **La.** Quae Hilarii verba vide in lit. Magistri c. 4. post medium. — Mox plures codd. ut FHITXYZ etc. cum ed. 1 *intelligitur* loco *intelligenda est*.
 
     **En.** For these words of Hilary see in the text of the Master, c. 4, after the middle. — Then several codices, as FHITXYZ etc., with ed. 1, [read] *intelligitur* in place of *intelligenda est*.
 
-[^58]: **La.** *De Div. Nom.* c. 2. § 5: *Pater fons in supersubstantiali Deitate.* Anselm., *de Fide Trin.* c. 8. et *de Process. Spiritus S.* c. 17, ubi haec similitudo fuse exponitur.
+[^57]: **La.** *De Div. Nom.* c. 2. § 5: *Pater fons in supersubstantiali Deitate.* Anselm., *de Fide Trin.* c. 8. et *de Process. Spiritus S.* c. 17, ubi haec similitudo fuse exponitur.
 
     **En.** *On the Divine Names*, c. 2, § 5: *The Father [is] the fount in the supersubstantial Deity.* Anselm, *On the Faith of the Trinity*, c. 8, and *On the Procession of the Holy Spirit*, c. 17, where this similitude is at length expounded.
 
-[^59]: **La.** Multi codd. ut ACFGHIKLRSTUV etc. cum subnexis non cohaerenter *informitatem*.
+[^58]: **La.** Multi codd. ut ACFGHIKLRSTUV etc. cum subnexis non cohaerenter *informitatem*.
 
     **En.** Many codices, as ACFGHIKLRSTUV etc., with what follows, [read] not coherently *informitatem*.
 
-[^60]: **La.** Vat. contra mss. et ed. 1 minus apte *tota*. Mox cod. M *ita quod* pro *et quod*. Paulo infra post *demutationem* in Vat. additur *seu diminutionem*, quod abest ab antiquis mss. et edd. 1, 2, 3.
+[^59]: **La.** Vat. contra mss. et ed. 1 minus apte *tota*. Mox cod. M *ita quod* pro *et quod*. Paulo infra post *demutationem* in Vat. additur *seu diminutionem*, quod abest ab antiquis mss. et edd. 1, 2, 3.
 
     **En.** The Vatican [edition], against the mss. and ed. 1, less aptly [reads] *tota*. Then cod. M [reads] *ita quod* for *et quod*. A little further on after *demutationem*, in the Vatican [edition] there is added *seu diminutionem*, which is absent from the old mss. and editions 1, 2, 3.
 
-[^61]: **La.** Vat. *dicat*. Mox cod. Y *reperitur* loco *recipitur*.
+[^60]: **La.** Vat. *dicat*. Mox cod. Y *reperitur* loco *recipitur*.
 
     **En.** The Vatican [edition] [reads] *dicat*. Then cod. Y [reads] *reperitur* in place of *recipitur*.
 
-[^62]: **La.** Cod. Z addit *sive auctoritatem*.
+[^61]: **La.** Cod. Z addit *sive auctoritatem*.
 
     **En.** Cod. Z adds *sive auctoritatem*.
 
-[^63]: **La.** In cod. M additur *ergo*.
+[^62]: **La.** In cod. M additur *ergo*.
 
     **En.** In cod. M *ergo* is added.
 
-[^64]: **La.** Fide codd. F T Y substituimus *si* pro *sed*. Mox verbis *ab aeterno* codd. WXY cum ed. 1 praemittunt *ergo*, Vat. cum aliquibus mss. *enim*; cod. H ponit *quia non ab aeterno*; multi codd. ut A F G T V etc. quamlibet particulam omittunt.
+[^63]: **La.** Fide codd. F T Y substituimus *si* pro *sed*. Mox verbis *ab aeterno* codd. WXY cum ed. 1 praemittunt *ergo*, Vat. cum aliquibus mss. *enim*; cod. H ponit *quia non ab aeterno*; multi codd. ut A F G T V etc. quamlibet particulam omittunt.
 
     **En.** On the testimony of codd. F T Y we have substituted *si* for *sed*. Then before the words *ab aeterno* codd. WXY with ed. 1 prefix *ergo*, the Vatican [edition] with some mss. [prefixes] *enim*; cod. H puts *quia non ab aeterno*; many codices, as A F G T V etc., omit any such particle.
 
-[^65]: **La.** Cod. W *consequenti*.
+[^64]: **La.** Cod. W *consequenti*.
 
     **En.** Cod. W [reads] *consequenti*.
 
-[^66]: **La.** De quo vide II. Sent. d. 1. p. 1. a. 1. q. 2.
+[^65]: **La.** De quo vide II. Sent. d. 1. p. 1. a. 1. q. 2.
 
     **En.** On which see II Sent. d. 1, p. 1, a. 1, q. 2.
 
-[^67]: **La.** Vat. cum ed. 1, mutata interpunctione, sic, at codd. AFGHIKT etc. exhibent textum nostrum.
+[^66]: **La.** Vat. cum ed. 1, mutata interpunctione, sic, at codd. AFGHIKT etc. exhibent textum nostrum.
 
     **En.** The Vatican [edition] with ed. 1, with the punctuation changed, [reads] thus, while codices AFGHIKT etc. exhibit our text.

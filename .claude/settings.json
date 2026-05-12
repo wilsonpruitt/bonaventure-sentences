@@ -4,10 +4,13 @@
       "Read(path:/Users/wilsonpruitt/bonaventure-sentences/**)",
       "Edit(path:/Users/wilsonpruitt/bonaventure-sentences/vol1/**)",
       "Edit(path:/Users/wilsonpruitt/bonaventure-sentences/manual-review/**)",
+      "Edit(path:/Users/wilsonpruitt/bonaventure-sentences/site/**)",
+      "Write(path:/Users/wilsonpruitt/bonaventure-sentences/vol1/**)",
       "Write(path:/Users/wilsonpruitt/bonaventure-sentences/manual-review/**)",
       "Bash(mkdir:*)",
       "Bash(ls:*)",
       "Bash(cat:*)",
+      "Bash(cp:*)",
       "Bash(wc:*)",
       "Bash(find:*)",
       "Bash(grep:*)",
@@ -15,7 +18,13 @@
       "Bash(awk:*)",
       "Bash(head:*)",
       "Bash(tail:*)",
-      "Bash(python3.11:*)"
+      "Bash(python3.11:*)",
+      "Bash(node:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   }
 }

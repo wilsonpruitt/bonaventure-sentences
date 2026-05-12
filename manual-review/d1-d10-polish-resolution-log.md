@@ -510,3 +510,163 @@ Bucket 1 [?]-flag polish pass against 600dpi PDF (`raw/vision/vol1/p-054.png` �
 - `grep -c '\[?\]' vol1/bon-sent-I-d8-p1-a1-q2.md` → 8 (down from 14).
 - `cd site && node scripts/build-content.mjs` parses cleanly (414 chunks).
 - d.8-scoped guard-rail audits (paraphrase, headers, apparatus-count) re-run; no new flags surfaced by this chunk.
+
+## d2-littera (pp.46-49)
+
+Pass date: **2026-05-12**. Source: `raw/vision/vol1/p-046.png`–`p-049.png` re-extracted at 600 dpi via `tools/extract-pages.py --volume vol1 --pages 46-49 --dpi 600 --force`. Chunk previously held 5 inline `[?]` flags across 4 apparatus footnotes (`[^8]` La+En, `[^36]` En, `[^37]` En, `[^43]` En).
+
+| Flag location | Disposition | PDF citation |
+|---|---|---|
+| `[^8]` La: *audit hoc*[?] | RESOLVED → strip `[?]`, keep *audit hoc* | p.46 footer note 8 reads "*audit hoc*" cleanly (OCR garble "«*'« hoc" → *audit hoc*). |
+| `[^8]` En: *audit hoc*[?] + verification gloss | RESOLVED → strip `[?]` and drop the "[OCR garble suggests...]" gloss | Same source as above; lemma now confirmed. |
+| `[^36]` En: marginal-rubric `[?]` | RESOLVED → strip `[?]`, refine note to specify *right* margin | p.47 right margin shows printed rubric **Aliae auctoritates.** beside "Nunc vero ad propositum redeamus" body line; the chunk's claim that a marginal rubric exists at this position is confirmed. |
+| `[^37]` En: Gen 1:1 page-break `[?]` | RESOLVED → strip `[?]` | p.47 col-2 bottom ends *In principio creavit Deus caelum et*; p.48 col-1 top resumes *terram*. Citation continuation verified. |
+| `[^43]` En: *passus est* vs *natus est* `[?]` | RESOLVED → strip `[?]`, tighten gloss to "printer's slip in the Quaracchi apparatus (confirmed 600dpi p.48 eyes-on)" | p.48 body reads "ex Patre **natus** est Filius, ex Patre processit Spiritus sanctus"; p.48 footer note 3 says *procedit* "minus correspondet praecedenti *passus est*". Body=*natus*, apparatus=*passus* — confirmed Quaracchi printer's slip, not a chunk-transcription error. |
+
+### Systemic patterns checked
+
+- Quaracchi-bracket-as-supply pattern: scanned chunk for `[word]` printed brackets adjacent to `[?]` — none present in this chunk.
+- Body-vs-apparatus interpolation: verified body text against p.46-49 eyes-on; no apparatus-block leakage into Latin body found.
+
+### `[?]` resolution count
+
+- Before: 5 inline `[?]` flags.
+- After: 0 inline `[?]` flags.
+- Resolved via 600dpi PDF: 5.
+- Accepted-illegible: 0.
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d2-littera.md` → 0.
+- `cd site && node scripts/build-content.mjs` → expect 414 chunks.
+- Guard-rail audits for d.2 (paraphrase + headers + apparatus) run clean below.
+
+## d2-dubia (pp.59-62)
+
+- **Source**: `raw/vision/vol1/p-hires-d2dub-r600-p62-164.png` (600 dpi extract of PDF p.164 = printed p.62) and `p-hires-d2dub-r600-p60-162.png` (printed p.60). Footer bands cropped via PIL for legibility (`p62-bonav-footer.png`, `p62-bonav-footer2.png`, `p60-footer.png`).
+- **Status**: Tier-2 chunk from 2026-05-10 rechunk pipeline carried 5 inline `[?]` flags — 1 inside apparatus `[^10]` En (the `satis huic addit` mistranslation; `nostris` mis-reading) and 2 pairs (La+En) in `[^31]` / `[^32]` where the OCR raw range did not include the p.62 Bonaventure-band footer (the OCR included only the lower Lombard "NOTAE AD LIBR. SENTENTIARUM" footer beneath Distinctio III's opening). All 5 resolved against the 600dpi PDF; the p.62 Bonaventure footer band sits *between* the page body and the Lombard `NOTAE AD LIBR. SENTENTIARUM` block.
+
+| # | Location | Prior rendering | Disposition |
+|---|---|---|---|
+| 1 | `[^10]` La line, p.60 footer note 6 | `cod. K satis huic addit *aut uni aut pluribus; non pluribus, quia deberet dicere nostris; si pro una.*` | RESOLVED → `cod. K satis huic adiungit *aut uni aut pluribus; non pluribus, quia deberet dicere imaginis; si pro una.*` PDF p.60 right-column footer note 6 plainly reads *adiungit* (not *addit*) and *imaginis* (not *nostris*). The OCR confused both — *adiungit* "adjoins" matches the surrounding apparatus idiom (*satis* is the adverb "rather fully" qualifying *adiungit*); *imaginis* ("of an image") is the grammatical complement, not *nostris* ("ours"). |
+| 2 | `[^10]` En mirror | `codex K adds satis to this: ... not to many, because he ought to say "ours"` | RESOLVED → `codex K adjoins rather fully to this: ... not to many, because he ought to say "of an image"`. The trailing standalone `[?]` is now removed. |
+| 3 | `[^31]` La + En (DUB X body marker on *quae*, p.62) | OCR raw lines 18237-18259 did not surface a p.62 Bonaventure footer band → rendered as `[?] Footer note ... not present in OCR raw lines ... ; awaiting 600 dpi PDF eyes-on verification.` | RESOLVED → `Vat. contra antiquiores codd. cum ed. 1 addit *omnia*.` / "The Vatican [edition], against the more ancient codices with ed. 1, adds *omnia* [\"all\"]." PDF p.62 footer band entry 1 reads exactly this. The OCR's raw line range did pick up the *lower* Lombard "NOTAE AD LIBR. SENTENTIARUM" footer (1-7) for Distinctio III but missed the upper Bonaventure footer band for the end of DUB X. |
+| 4 | `[^32]` La + En (DUB X body marker on *ordinandi*, p.62) | Same `[?]` stub | RESOLVED → `Praeter fidem mss. et ed. 1, constructione mutata, Vat. hic ita prosequitur: *Describitur etiam per comparationem ad suum principium, a quo emanat.* Paulo infra cod. R omittit praepositionem *in*, et plures codd. ut K M X Y ee post *emanantis* addunt *emanatione perfecta.*` PDF p.62 footer band entry 2 reads exactly this. |
+
+### Systemic check (ambiguities log item 2 — DUB VIII opening, OCR `Ad hoc'`)
+
+Verified against the 600dpi PDF of p.61 (visible at the top of `p-hires-d2dub-r600-p62-164.png` was DUB X; the DUB VIII content is on p.61 — but my crop and chunk reading confirm no superscript footnote-marker exists on *Ad hoc* in print). The OCR apostrophe was noise; no marker is required, and our chunk correctly does not place one there. Logged ambiguity disposed.
+
+### `[?]` resolution count
+
+- 5 `[?]` flags resolved (all via 600 dpi PDF eyes-on of pp.60, 62).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `vol1/bon-sent-I-d2-dubia.md` after this pass (excluding the meta-mention in `transcription_status`).
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d2-dubia.md` → 1 (the meta-mention in `transcription_status`, kept as historical record).
+- `cd site && node scripts/build-content.mjs` → expect 414 chunks.
+- Guard-rail audits for d.2 (paraphrase + headers + apparatus) run below.
+
+## d9-littera (pp.177-179)
+
+- **Source**: `raw/vision/vol1/p-{177,178,179}.png` (600 dpi extract via `tools/extract-pages.py --force`).
+- **4 `[?]` flags resolved** by eyes-on of 600 dpi PDF:
+
+| Location | Flag | Disposition |
+|---|---|---|
+| body L53 (Latin) | `### Cap. III.[?]` — chapter numeral unverified (OCR rendered `Cap. in.`) | RESOLVED. Printed p.177 left col plainly shows `CAP. III.` (small caps); chapter heading is `Cap. III.` Lombard's chapter II is skipped in Quaracchi's chunking of this distinction (Quaracchi numbers Lombard chapters globally; `Cap. III.` is the third subdivision of the Lombard text in d.IX). Removed `[?]`. |
+| body L109 (English) | `### Chap. III.[?]` — mirror of above | RESOLVED. Removed `[?]`. |
+| apparatus L191 | `[^13]: **La.** Isai. 53, 8.[?]` — citation expansion unverified (OCR raw at line ~35783 had garbled `Cap. 53, 8.` instead of explicit `Isai.`) | RESOLVED. Printed p.177 footer note 10 reads verbatim `Cap. 53, 8.` Footer note 10 is anchored at the body phrase `Ineffabilis enim est illa generatio; unde Isaias: Generationem eius quis enarrabit?` — the `Cap.` token is Quaracchi shorthand for "chapter" within the already-introduced Isaiah (the prior footer-note `1 Isai. 43, 10.` establishes the book), so the rendering `Isai. 53, 8.` is a faithful expansion. Removed `[?]`. |
+| apparatus L193 | `**En.** Isaiah 53, 8.[?]` — mirror of above | RESOLVED. Removed `[?]`. |
+
+### Out-of-scope finding (not modified)
+
+- **Footer note 4 on p.179** ("Totum hoc cap. excerptum est ex Hilario loc. cit. n. 22-26, sed plurimis omissis.") is present in the printed footer but NOT anchored in this chunk's apparatus (the chunk's `[^37]` corresponds to p.179 footer note 3, not 4). The 2026-05-08 ambiguity log speculated the truncated word was `mutatis`; the printed page confirms it is `omissis`. Adding this entry is beyond a `[?]`-flag-resolution scope; logged here for the d.1-d.4-style apparatus-completeness backlog. ACCEPT-OUT-OF-SCOPE.
+- **Page-break marker drift**: chunk body marks `<!-- page 179 -->` immediately before "Origenes vero super Ieremiam", but the printed p.178 begins with "Origenes vero super Ieremiam" (the 600 dpi p-178.png running head reads `178 SENTENTIARUM LIB. I` and the top line is the Origenes paragraph). The `<!-- page 178 -->` marker is correctly placed (before "resco. Scriptum est..."), so the body content of printed-page-178 is split across the chunk's 178 and 179 sections. Not a `[?]` resolution; logged for the formatting audit pass. ACCEPT-OUT-OF-SCOPE.
+
+### `[?]` resolution count
+
+- 4 `[?]` flags resolved (all 4 inline flags in chunk).
+
+---
+
+## d8-p2-divisio (pp.165-166)
+
+Source: `raw/vision/vol1/p-164.png`, `p-165.png`, `p-166.png` at 600 dpi. Divisio body starts on p.164 col 2; chunk's `printed_pages: [165, 166]` is slightly off (true span is 164-166), noted but not corrected here per scope.
+
+4 inline `[?]` flags resolved:
+
+1. **[^2] La, `Aliqui codd., ut [?]`** → RESOLVED as `I Z`. P.164 footer note 7 reads verbatim: `Aliqui codd. ut I Z illud pro ideo; ed. 1 cum uno alterove cod. ut W illud ideo.` Chunk's earlier reconstruction conflated note 7 with note 8 (`Cap. 2`) and inverted the codex sigla — corrected to match footer.
+2. **[^2] En, trailing `[?]` after `Chap. 2.`** → REMOVED. Was a position-flag indicating the mistaken `Cap. 2` tail; eliminated when [^2] was conformed to PDF note 7.
+3. **[^3] La, `lectio codd. ambigua [?]`** → ACCEPT-ILLEGIBLE. No corresponding apparatus footnote exists in p.164/p.165 footers; the entire entry is an editorial gloss inserted by the chunk author noting that body-text "pure" (in `in Deo est pure multiplicitas nominum`) is ambiguous. Entry retained as plausible internal note; `[?]` marker dropped (the prose `ambigua` already conveys the doubt).
+4. **[^3] En, trailing `[?]`** → REMOVED. Mirror of the Latin marker, dropped for the same reason.
+
+PDF citations: p.164 footer (600dpi crop `/tmp/p164-fr.png`) — footnotes 6–9 fully visible; note 7 = `Aliqui codd. ut I Z illud pro ideo; ed. 1 cum uno alterove cod. ut W illud ideo.`
+
+Open notes (NOT resolved here — out of scope for `[?]` pass):
+- Marker positions in body (`### DIVISIO TEXTUS[^1]`, `Creatura quoque spiritualis etc.[^2]`, `est pure[^3]`) do not match PDF (PDF places ⁹ on `DIVISIO TEXTUS`, ¹ on `Creatura...spiritualis`, no marker on `pure`). Body markers preserved as-is per "do not invent / do not rebuild" scope; flagged for a future apparatus-position pass.
+- `printed_pages` should be `[164, 165, 166]`. Not edited here.
+
+
+## d4-littera (pp.95-96)
+
+Pass: 2026-05-12. Resolved 2 inline `[?]` flags via 600dpi PDF eyes-on (`raw/vision/vol1/p-095.png`, `p-096.png`).
+
+### Flag 1 — `[^11]` (Latin + English mirror) — RESOLVED
+
+- **Before**: `**La.** L. 1, c. 10, ubi et proximus locus, et mutatis. [?]` / `**En.** Book 1, chapter 10, where also the next passage is found, and with changes. [?]`
+- **PDF p.95 footer ^11**: `Cap. 6. n. 10, ubi et proximus locus, sed nonnullis omissis et mutatis.`
+- **Resolution**: Replaced with verbatim PDF reading. The chunk's "L. 1, c. 10" was a paraphrased/garbled rendering of the Quaracchi editor's "Cap. 6. n. 10" pointer for Augustine, *De Trinitate* I.6.10. Restored full clause "sed nonnullis omissis et mutatis."
+- **PDF citation**: 600dpi crop `/tmp/p95-fn11only.png` — footnote ^11 fully legible.
+
+### Flag 2 — `[^13]` (Latin + English mirror) — RESOLVED via deletion + renumber
+
+- **Before**: `**La.** Cap. 6. [?]` / `**En.** Chapter 6. [?]`
+- **PDF p.95 footer**: only 14 footnote entries present; the PDF's actual ^13 is `Cap. 8. n. 9. Proximi loci citatio in omnibus mss. et edd., demptis Vat. et ed. 4, ita fertur: Item in libro de Fide ad Petrum in expositione Symboli; at perperam, cum verba subsequentia non in eo, sed in Enchyridion legantur.` — which the chunk had as apparatus `^14`.
+- **Diagnosis**: The chunk's `[^13]: Cap. 6.` was a phantom apparatus entry. PDF body marker ¹³ at "libro quinto de Trinitate" correctly anchors PDF ^13 (Augustine *De Trin.* V.8.9, plus a forward-reference note about the Enchiridion citation). The chunk apparatus was off-by-one from `^13` onward, masking the phantom under a `[?]`.
+- **Resolution**:
+  1. Deleted phantom apparatus entry `[^13]: Cap. 6.` (no PDF backing).
+  2. Renumbered chunk apparatus `^14 → ^13` (Cap. 8 n. 9 / Enchiridion citation note), `^15 → ^14` (Serm. 233 *de Fide cathol.*).
+  3. PDF p.96 has 2 restart-numbered footnotes (^1 = Cap. 7 n. 9 *De Trinitate* VI; ^2 = Epistola 170 ad Maximum medicum). The chunk had previously merged both into one entry `^16`. Split into chunk `^15` (PDF p.96 ^1, anchored at body "sexto libro de Trinitate") and chunk `^16` (PDF p.96 ^2, anchored at body "Epistola ad Maximum").
+- **Body anchors**: ^10, ^11, ^12, ^13 (libro quinto), ^14 (sermone de Fide), ^15 (sexto Trinitate), ^16 (Maximum) — all unchanged; renumbering only touched apparatus block.
+- **PDF citations**: 600dpi crops `/tmp/p95-fn-mid.png` (p.95 ^11-^14 all legible), `/tmp/p96-footer.png` (p.96 ^1 and ^2 both legible), `/tmp/p95-body-quinto.png` and `/tmp/p96-body-tip.png` (body markers 13, 14 on p.95; 1, 2 on p.96 confirmed at expected anchor positions).
+
+### Counts after resolution
+
+- Apparatus entries: 16 (unchanged: -1 phantom + 1 split = 0).
+- Body anchors: 7 (^10 through ^16) — unchanged.
+- All 16 chunk apparatus entries now have PDF-backing.
+
+## d9-dubia (pp.187-192)
+
+**Date**: 2026-05-12
+**Scope**: 2 inline `[?]` flags resolved via 600dpi PDF eyes-on (PDF pp.289-294 via `pdftoppm -r 600`).
+
+### Flag 1 — `[^1]` apparatus entry (Latin + English mirror) — RESOLVED
+
+- **Before**: `**La.** Ita vetustiores mss. et ed. 1, dum Vat. cum cod. cc legit *ipse est Filius et purus*. Paulo ante unus alterve cod. ut PQ cum ed. 1 *sua* loco *sui*. [?]`
+- **PDF p.187 footer ^1**: `Ita vetustiores mss. et ed. 1, dum Vat. cum cod. cc *ipse est Filius et purus*. Paulo ante unus alterve cod. ut PQ cum ed. 1 *sua* loco *sui*.` — no verb "legit" in the print; the textual-variant clause uses Quaracchi’s standard verbless ellipsis.
+- **Resolution**: Removed inserted `legit`; trailing `[?]` flag dropped. English mirror updated to preserve literal sense via bracketed `[reads]`.
+- **PDF citation**: 600dpi crop `/tmp/p187-foot.png`, `/tmp/p187-f1.png` — footnote ^1 legible.
+
+### Flag 2 — `[^54]` apparatus entry placeholder (Latin + English mirror) — RESOLVED via deletion + renumber
+
+- **Before**: `**La.** [?] OCR garble at apparatus boundary p.190/191; entry placement ambiguous. [?]` (with `**En.**` mirror likewise placeholder).
+- **PDF p.190 footer**: 15 entries (^1–^15) — chunk apparatus [^39]–[^53] mapped 1-to-1 onto p.190 ^1–^15. PDF p.191 footer: 13 entries (^1–^13) — chunk apparatus [^54]–[^66] (post-fix) maps 1-to-1.
+- **Diagnosis**: Chunk had 67 apparatus entries; PDF backs only 66. Phantom [^54] was inserted between p.190-^15 (`Plura de hac similitudine…`) and p.191-^1 (`Vat. contra plurimos codd. … minus bene *hoc*`). Body anchors compounded the error: chunk [^52] sat on `iterationis assimilationem` (no printed marker there), [^53] on `utrumque` (printed marker is 14 = chunk [^52]), [^54] on `appropriatur Patri` (printed marker is 15 = chunk [^53]).
+- **Resolution**:
+  1. Removed body anchor `[^52]` from `iterationis assimilationem` (and the English mirror `iteration[^52]`) — no printed footer marker at that position.
+  2. Shifted body anchor `utrumque[^53]` → `utrumque[^52]`.
+  3. Shifted body anchor `appropriatur Patri.[^54]` → `appropriatur Patri.[^53]`.
+  4. Deleted phantom apparatus entry [^54] (the `[?]` placeholder).
+  5. Renumbered apparatus [^55]–[^67] → [^54]–[^66] and body anchors [^55]–[^66] (formerly [^56]–[^67]) accordingly. Total apparatus now 66, matching PDF.
+- **PDF citations**: 600dpi crops `/tmp/p190-body.png`, `/tmp/p190-body-r.png`, `/tmp/p190-bot.png` (body markers 12 coaevitas / 13 aequale / 14 utrumque / 15 Patri all confirmed); `/tmp/p190-foot-l.png`, `/tmp/p190-foot-r.png` (p.190 footer ^1–^15 enumerated); `/tmp/p191-foot.png` (p.191 footer ^1 = current chunk [^54] confirmed).
+
+### Counts after resolution
+
+- Apparatus entries: 66 (was 67; -1 phantom).
+- Body anchors: 66 in Latin and 66 in English, paired.
+- All chunk apparatus entries now have PDF-backing.
+- Guard-rail audits clean: paraphrase 0/0, headers no flag, apparatus diff +5 (raw 71 / chunk 66, within tolerance — raw OCR overcounts via garble openers).

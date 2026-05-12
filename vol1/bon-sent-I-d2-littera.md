@@ -13,7 +13,7 @@ has_scholion: false
 has_apparatus: true
 line_start: 15794
 line_end: 16313
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 15794-16313), fresh literal English translation, full apparatus from raw OCR (60 entries from p.46-49 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 15794-16313), fresh literal English translation, full apparatus from raw OCR (60 entries from p.46-49 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch) — 2026-05-12 [?]-flag polish pass: 5 resolved via 600dpi PDF, 0 accepted-illegible"
 format_version: 1
 ---
 
@@ -148,9 +148,9 @@ Now after the testimonies of the Old Testament concerning the faith of the Holy 
 
     **En.** The Vatican edition and editions 2, 3, 4, 7, 9 read *divinitatis* [in place of *Deitatis*].
 
-[^8]: **La.** Cap. 2. n. 4, in quo textu loco *audit haec* Vat. cum codd. ABE et pluribus edd. legit *audit hoc*[?], sed contradicente originali.
+[^8]: **La.** Cap. 2. n. 4, in quo textu loco *audit haec* Vat. cum codd. ABE et pluribus edd. legit *audit hoc*, sed contradicente originali.
 
-    **En.** *On the Trinity* I, c. 2, n. 4, in which text in place of *audit haec* the Vatican edition with codices A, B, E and several editions reads *audit hoc*[?], but the original contradicts. [The OCR garble ("«*'« hoc") suggests the lemma *audit hoc*; flagged for verification.]
+    **En.** *On the Trinity* I, c. 2, n. 4, in which text in place of *audit haec* the Vatican edition with codices A, B, E and several editions reads *audit hoc*, but the original contradicts.
 
 [^9]: **La.** Psalm. 104, 4.
 
@@ -262,11 +262,11 @@ Now after the testimonies of the Old Testament concerning the faith of the Holy 
 
 [^36]: **La.** [Marginal rubric in the Quaracchi printing: *Aliae auctoritates*. The OCR preserves the marginal heading at this point in the text.]
 
-    **En.** [Marginal rubric in the Quaracchi printing: *Other authorities*. The marginal heading appears at this point in the text.] [?]
+    **En.** [Marginal rubric in the Quaracchi printing: *Other authorities*. The marginal heading appears in the right margin at this point in the text.]
 
 [^37]: **La.** Gen. 1, 1 (continuation of the citation across the page-break).
 
-    **En.** Genesis 1:1 (continuation of the citation across the page-break). [?]
+    **En.** Genesis 1:1 (continuation of the citation across the page-break).
 
 [^38]: **La.** Gen. 3, 5. — Paulo post contra codd. et edd. 1, 3, 8 Vat. cum ceteris edd. *hebraico* pro *hebraeo*.
 
@@ -290,7 +290,7 @@ Now after the testimonies of the Old Testament concerning the faith of the Holy 
 
 [^43]: **La.** Vat. et edd. 2, 4, 5, 7, 9 *procedit*, quod minus correspondet praecedenti *passus est*.
 
-    **En.** The Vatican edition and editions 2, 4, 5, 7, 9 read *procedit*, which corresponds less to the preceding *passus est* [or *natus est*]. [The OCR shows *natus est* in the body; the apparatus references *passus est*, which appears to be a printer's slip in the apparatus.] [?]
+    **En.** The Vatican edition and editions 2, 4, 5, 7, 9 read *procedit*, which corresponds less to the preceding *passus est*. [The body reads *natus est*; the apparatus reference to *passus est* is a printer's slip in the Quaracchi apparatus (confirmed 600dpi p.48 eyes-on).]
 
 [^44]: **La.** Psalm. 32, 6.
 

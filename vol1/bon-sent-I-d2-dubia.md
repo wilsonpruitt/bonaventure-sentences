@@ -11,7 +11,7 @@ pdf_pages: [161, 162, 163, 164]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 59–62"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 17786-18259), fresh literal English translation, full apparatus from raw OCR (32 entries from p.59-62 footer blocks), 10 DUB present, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 17786-18259), fresh literal English translation, full apparatus from raw OCR (32 entries from p.59-62 footer blocks), 10 DUB present, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch) — 2026-05-12 [?]-flag polish pass: 5 resolved via 600dpi PDF, 0 accepted-illegible"
 line_start: 17786
 line_end: 18259
 format_version: 1
@@ -213,9 +213,9 @@ Likewise it is objected concerning what he says: *The Lord possessed me*; since 
 
     **En.** Concerning this name of God *He who is*, cf. below d. 22, q. 3, and Alex. of Hales, S. p. I, q. 19, m. 4, a. 1.
 
-[^10]: **La.** Cod. K hic addit *aut pro imagine creata*, sed non bene, quia agitur tantum de imagine, in quantum Deum concernit; et si S. Doctor postea dicit *si pro imagine creata*, hoc dicit magis excludendo, quam tamquam membrum disiunctionis exhibendo, ut patet ex ipsius modis. Paulo infra post *persona* cod. K satis huic addit *aut uni aut pluribus; non pluribus, quia deberet dicere nostris; si pro una.*
+[^10]: **La.** Cod. K hic addit *aut pro imagine creata*, sed non bene, quia agitur tantum de imagine, in quantum Deum concernit; et si S. Doctor postea dicit *si pro imagine creata*, hoc dicit magis excludendo, quam tamquam membrum disiunctionis exhibendo, ut patet ex ipsius modis. Paulo infra post *persona* cod. K satis huic adiungit *aut uni aut pluribus; non pluribus, quia deberet dicere imaginis; si pro una.*
 
-    **En.** Codex K here adds *or for created image*, but not well, since the discussion concerns only image insofar as it concerns God; and if the Holy Doctor afterward says *if for created image*, he says this rather by way of exclusion than as exhibiting it as a member of the disjunction, as is clear from his modes. A little below, after *persona*, codex K adds satis to this: *either to one or to many; not to many, because he ought to say "ours"; if for one.* [?]
+    **En.** Codex K here adds *or for created image*, but not well, since the discussion concerns only image insofar as it concerns God; and if the Holy Doctor afterward says *if for created image*, he says this rather by way of exclusion than as exhibiting it as a member of the disjunction, as is clear from his modes. A little below, after *persona*, codex K adjoins rather fully to this: *either to one or to many; not to many, because he ought to say "of an image"; if for one.*
 
 [^11]: **La.** Quamvis mss. cum edd. 1, 2, 3 non faveant, reliquimus tamen *et relationem*, cum contextus et doctrina S. Doctoris infra d. 31. p. II. a. 1. q. 1. et 2. tradita id apertissime exigant. Paulo ante Vat. contra codd. et ed. 1 *doctores sancti*. Cod. R legit *secundum quod hic accipiuntur, imago et similitudo dicunt essentiam.*
 
@@ -297,10 +297,10 @@ Likewise it is objected concerning what he says: *The Lord possessed me*; since 
 
     **En.** In the Vatican [edition] *et* is missing, which the mss. with ed. 1 exhibit. — On intellectual prophecy or vision, cf. II Sent. d. 10, a. 3, q. 2, in the body; Hexaem. Serm. 9; Centiloq. p. III, sect. 46. — St. Augustine, XII *On Genesis Literally*, c. 6 and following, and the book *Against Adimantus, Disciple of Manichaeus*, c. 28. — On the question, *who was simpliciter the greatest of the Prophets*, see St. Thomas, S. II–II, q. 174, a. 4, where he says that although in some respect some other of the Prophets was greater than Moses, nevertheless simpliciter Moses was greater than all the others. Lyranus in the preface to the Psalter strives to break St. Thomas's reasons; Dionysius the Carthusian in the proem of the Exposition on the Psalms attempts to reconcile the opinions.
 
-[^31]: **La.** [?] Footer note for body marker on *quae* (DUB X) on p. 62 not present in OCR raw lines 18237-18259; awaiting 600 dpi PDF eyes-on verification.
+[^31]: **La.** Vat. contra antiquiores codd. cum ed. 1 addit *omnia*.
 
-    **En.** [?] Footer note for body marker on *which* (Dub. X) on p. 62 not present in the OCR raw lines 18237–18259; awaiting 600 dpi PDF eyes-on verification.
+    **En.** The Vatican [edition], against the more ancient codices with ed. 1, adds *omnia* ["all"].
 
-[^32]: **La.** [?] Footer note for body marker on *ordinandi* (DUB X) on p. 62 not present in OCR raw lines 18237-18259; awaiting 600 dpi PDF eyes-on verification.
+[^32]: **La.** Praeter fidem mss. et ed. 1, constructione mutata, Vat. hic ita prosequitur: *Describitur etiam per comparationem ad suum principium, a quo emanat.* Paulo infra cod. R omittit praepositionem *in*, et plures codd. ut K M X Y ee post *emanantis* addunt *emanatione perfecta.*
 
-    **En.** [?] Footer note for body marker on *to order* (Dub. X) on p. 62 not present in the OCR raw lines 18237–18259; awaiting 600 dpi PDF eyes-on verification.
+    **En.** Against the authority of the mss. and ed. 1, with the construction changed, the Vatican [edition] here continues thus: *It is also described by comparison to its principle, from which it emanates.* A little below, codex R omits the preposition *in*, and many codices such as K M X Y ee, after *emanantis*, add *emanatione perfecta* ["by perfect emanation"].

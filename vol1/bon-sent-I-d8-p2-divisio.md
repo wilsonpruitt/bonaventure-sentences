@@ -14,7 +14,7 @@ line_end: 33899
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 165–166"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 33787-33899), fresh literal English translation, apparatus from raw OCR (3 entries from p.165-166 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 33787-33899), fresh literal English translation, apparatus from raw OCR (3 entries from p.165-166 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); polish-pass 2026-05-12 resolved [^2] codices = I Z via 600dpi p.164 footer note 7, accepted-illegible [^3] editorial gloss (no corresponding PDF apparatus entry — entry retained as plausible editorial note flagging body word 'pure')"
 format_version: 1
 ---
 
@@ -65,11 +65,11 @@ Quarto quaeritur, utrum Deus sit in aliquo determinato genere.
 [^1]: **La.** In hac distinctione divisio textus partis II. in codd. hoc loco ponitur, dum alibi coniungitur cum divisione partis I. Cfr. ultima verba in divisione partis I. p. 150.
     **En.** In this distinction the division of the text of Part II is placed in the codices at this point, while elsewhere it is joined with the division of Part I. Cf. the last words in the division of Part I, p. 150.
 
-[^2]: **La.** Aliqui codd., ut [?], cum uno alterove cod., ut W, *illud* [pro *ideo*]; *illud pro ideo* Cap. 2.
-    **En.** Some codices, such as [?], together with one or another codex, such as W, [read] *illud* [in place of *ideo*]; *illud* for *ideo*, Chap. 2. [?]
+[^2]: **La.** Aliqui codd., ut I Z, *illud* pro *ideo*; ed. 1 cum uno alterove cod., ut W, *illud ideo*.
+    **En.** Some codices, such as I Z, [read] *illud* in place of *ideo*; ed. 1 together with one or another codex, such as W, [reads] *illud ideo*.
 
-[^3]: **La.** *pure* — i.e. *plurima* sive *pluralitas*; lectio codd. ambigua [?].
-    **En.** *pure* — i.e. *plurima* or *pluralitas*; the reading of the codices is ambiguous [?].
+[^3]: **La.** *pure* — i.e. *plurima* sive *pluralitas*; lectio codd. ambigua.
+    **En.** *pure* — i.e. *plurima* or *pluralitas*; the reading of the codices is ambiguous.
 
 ---
 
