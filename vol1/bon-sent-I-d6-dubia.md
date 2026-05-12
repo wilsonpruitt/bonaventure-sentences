@@ -13,7 +13,7 @@ line_end: 28910
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 131–132"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 28640-28910), fresh literal English translation, full apparatus from raw OCR (19 entries from p.131-132 footer blocks: 13 on p.131 + 6 on p.132), 5 DUB present, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 28640-28910), fresh literal English translation, full apparatus from raw OCR (19 entries from p.131-132 footer blocks: 13 on p.131 + 6 on p.132), 5 DUB present, all [?] flags resolved via 600dpi PDF eyes-on (2026-05-12 d.1-d.10 polish pass)"
 format_version: 1
 ---
 
@@ -182,9 +182,9 @@ Likewise it is asked concerning what he says[^16] in the marginal note: *that th
 
     **En.** Book II *On the Orthodox Faith* c. 22, near the middle: *For God does not deliberate, because to enter into counsel belongs to one who is ignorant.* — The Vatican edition, against the older codices and ed. 1, reads *quia* in place of *quod*. Some codices such as aa, bb, ff, with ed. 1, read *consiliari* for *consilium*.
 
-[^18]: **La.** Cod. dd addit *aut consulere*[?]. Paulo infra nonnulli codd. ut CISV aa cc cum quinque primis edd. *ad hoc* pro *ab hoc*.
+[^18]: **La.** Cod. dd addit *aut consulere*. Paulo infra nonnulli codd. ut CISV aa cc cum quinque primis edd. *ad hoc* pro *ab hoc*.
 
-    **En.** Codex dd adds *aut consulere* [?] ("or to take counsel"). A little below, some codices such as CISV, aa, cc, with the first five editions, read *ad hoc* in place of *ab hoc*.
+    **En.** Codex dd adds *aut consulere* ("or to take counsel"). A little below, some codices such as CISV, aa, cc, with the first five editions, read *ad hoc* in place of *ab hoc*.
 
 [^19]: **La.** In Vat. et cod. cc desideratur *hoc*.
 

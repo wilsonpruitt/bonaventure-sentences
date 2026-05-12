@@ -13,7 +13,7 @@ line_end: 27714
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. VI (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 123–124)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 27551-27714), fresh literal English translation, full apparatus from raw OCR (19 entries from p.123-124 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 entry-merging expansion — split consolidated entries to 19 sequential keys matching raw OCR footer notes 1:1 (p.123 main 9 + NOTAE 3 + p.124 main 5 + NOTAE 2)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 27551-27714), fresh literal English translation, full apparatus from raw OCR (19 entries from p.123-124 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 entry-merging expansion — split consolidated entries to 19 sequential keys matching raw OCR footer notes 1:1 (p.123 main 9 + NOTAE 3 + p.124 main 5 + NOTAE 2); 2026-05-12 polish-blocker d.1-d.10 [?] resolution pass — [^19] resolved against PDF p.124 fn 7 (n. 39, 1 et n. 58, XXV; OCR conflated as 'n. 39 [?]')"
 format_version: 1
 ---
 
@@ -142,6 +142,6 @@ What then remained, except that he should fall silent, seeing himself bound by h
 
     **En.** Jerome, *On the Epistle to the Ephesians*, on c. 1, 5. — All codices and editions [read] *Augustinus* in place of *Hieronymus*. — In whose text the Vatican edition alone with the original, after *id est*, adds *de* and then after *Christo* adjoins *in alio loco*, namely Eccli. 1, 1.
 
-[^19]: **La.** Hilar., *de Synodis*, n. 39 [?] et n. 58, XXV. — In cod. A respectu huius notulae additur *et quia Magister non probaverat, Patrem genuisse Filium voluntate, ideo haec nota posita est*. Haec notula in Vat. et aliis edd. ad marginem, in edd. 5, 6 in textu posita est.
+[^19]: **La.** Hilar., *de Synodis*, n. 39, 1 et n. 58, XXV. — In cod. A respectu huius notulae additur *et quia Magister non probaverat, Patrem genuisse Filium voluntate, ideo haec nota posita est*. Haec notula in Vat. et aliis edd. ad marginem, in edd. 5, 6 in textu posita est.
 
-    **En.** Hilary, *On the Synods*, n. 39 [?] and n. 58, XXV. — In codex A, with respect to this little note, is added: *and because the Master had not proved that the Father begot the Son by will, therefore this note has been placed [here]*. This little note is placed in the margin in the Vatican edition and other editions; in editions 5, 6 it is placed in the text.
+    **En.** Hilary, *On the Synods*, n. 39, 1 and n. 58, XXV. — In codex A, with respect to this little note, is added: *and because the Master had not proved that the Father begot the Son by will, therefore this note has been placed [here]*. This little note is placed in the margin in the Vatican edition and other editions; in editions 5, 6 it is placed in the text.

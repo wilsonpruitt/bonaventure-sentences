@@ -13,7 +13,7 @@ line_end: 27495
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 119–122"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26999-27495), fresh literal English translation, full apparatus from raw OCR (36 entries from p.119-122 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26999-27495), fresh literal English translation, full apparatus from raw OCR (36 entries from p.119-122 footer blocks); 2 [?] flags in Dub. VII resolved via 600dpi PDF eyes-on of printed p.121 — sentence-tail *et hoc patet per sequens* (2026-05-12 d.1-d.10 polish pass)"
 format_version: 1
 ---
 
@@ -84,7 +84,7 @@ Item quaeritur de hoc quod dicit: *Et ideo non refertur ad aliud, quod in uno su
 
 Item quaeritur de hoc quod dicit: *Et naturam suam, ut ita dicam, sequitur indemutabilis Deus*. In divinis enim non est prius nec posterius, et ita nec praecedere nec sequi. Si tu dicas, quod est secundum rationem intelligendi; hoc nihil est, quia Deus gignens nec secundum rem, nec secundum intellectum sequitur aliquid[^22].
 
-**Respondeo:** Dicendum, quod Hilarius improprie loquitur, et ideo addit determinationem: *ut ita dicam*; et tantum vult dicere *sequi*, quantum *inseparabiliter comitari*[^23] et *consociare* et ab illo non recedere, et hoc patet per[?]
+**Respondeo:** Dicendum, quod Hilarius improprie loquitur, et ideo addit determinationem: *ut ita dicam*; et tantum vult dicere *sequi*, quantum *inseparabiliter comitari*[^23] et *consociare* et ab illo non recedere, et hoc patet per sequens.
 
 #### Dub. VIII
 
@@ -180,7 +180,7 @@ Likewise it is asked about that which he says: *«And therefore He is not referr
 
 Likewise it is asked about that which he says: *«And the unchangeable God, as it were, follows His own nature»*. For in God there is no *prior* or *posterior*, and so neither *to precede* nor *to follow*. If you say that this is according to the account of understanding — this is nothing, because God begetting follows nothing either in reality or in understanding[^22].
 
-**I respond:** It must be said that Hilary speaks improperly, and therefore he adds the qualifier *as it were*; and by *to follow* he wishes to say only as much as *inseparably to accompany*[^23] and *to consort with* and *not to depart from* it, and this is plain by[?]
+**I respond:** It must be said that Hilary speaks improperly, and therefore he adds the qualifier *as it were*; and by *to follow* he wishes to say only as much as *inseparably to accompany*[^23] and *to consort with* and *not to depart from* it, and this is plain by what follows.
 
 #### Doubt VIII
 
@@ -287,7 +287,7 @@ But the second and third arguments, made about the Father, do hold according as 
     **En.** The Vatican edition, against very many codices and edition 1, [reads] *aliud*, and a little further on, against the same, omits *dicendum*.
 
 [^23]: **La.** Vat. *communicare et consonare*; plurimi codd. *communicari et consonare*. Haec autem verba in codd. ob abbreviatam scripturam saepe vel sunt dubiae lectionis vel cum verbis in textum nostrum receptis confunduntur. Verbum *comitari* recepimus ex ed. 1 et *consociare* ex cod. Z. Mox Vat. absque auctoritate mss. et sex primarum edd. *et per hoc patet sequens*, sed minus bene.
-    **En.** The Vatican edition [reads] *communicare et consonare*; very many codices [read] *communicari et consonare*. These words, however, in the codices, on account of the abbreviated script, are often either of doubtful reading or are confused with the words received into our text. The word *comitari* we have received from edition 1, and *consociare* from codex Z. Then the Vatican edition, without authority of the manuscripts and the first six editions, [adds] *et per hoc patet sequens* (*and through this the following is plain*), but less well.
+    **En.** The Vatican edition [reads] *communicare et consonare*; very many codices [read] *communicari et consonare*. These words, however, in the codices, on account of the abbreviated script, are often either of doubtful reading or are confused with the words received into our text. The word *comitari* we have received from edition 1, and *consociare* from codex Z. Then the Vatican edition, without authority of the manuscripts and the first six editions, [reads] *et per hoc patet sequens* (*and through this the following is plain*) [in place of *et hoc patet per sequens*], but less well.
 
 [^24]: **La.** Vat. clarius *cum*, cui lectioni obstant omnes codd. et ed. 1 ac forma indicativi in verbo *est*. Paulo infra auctoritate plurimorum codd. et ed. 1 verbo *invariabile* praefixum *est* expunximus, et fide antiquiorum mss. ac ed. 1 substituimus *invariabilitatem* pro *invarietatem*; lectio mss. certe praeferenda.
     **En.** The Vatican edition more clearly [reads] *cum*; against which reading all the codices and edition 1 are opposed, as is the indicative form in the verb *est*. A little further on, on the authority of very many codices and edition 1, we have expunged the *est* prefixed to the verb *invariabile*, and on the witness of the older manuscripts and edition 1 we have substituted *invariabilitatem* for *invarietatem*; the reading of the manuscripts is certainly to be preferred.

@@ -1227,3 +1227,156 @@ Pass: 2026-05-12. Resolved 2 inline `[?]` flags (1 site, mirrored La + En) on ap
 - Quaracchi `[word]` editorial brackets: none in this chunk. N/A.
 - Phantom apparatus check: no candidates flagged; entry count matches printed footers.
 - Filename off-by-one observed: `raw/vision/vol1/p-146.png` renders printed p.147 (and `p-147.png` renders printed p.148, `p-148.png` renders printed p.149). `tools/extract-pages.py` uses `pdf_offset=102` but the actual offset for this slice of pt1 is +103. Worth flagging for future polish passes — does not affect this resolution (correct printed page identified by content), but could mislead callers who trust filename = printed number. Not fixed here; should be diagnosed in a separate systemic pass.
+
+---
+
+## d4-dubia (pp.105-107)
+
+**Date**: 2026-05-12. **Inline `[?]` count at start**: 1 (Dub. VII, Latin `iungunt[?]`, mirrored in English as `joined[?]`). **`[?]` flags remaining after pass**: 0.
+
+### Flag 1 — Dub. VII (printed p.106, bottom-right column)
+
+- **Context**: `...ideo nomen identitatis et alietatis in sermone[^24] iungunt[?] sine oppositione, immo ad singularis modi expressionem.`
+- **OCR rendering**: `iungunt` (3rd pl. present, "they join") — grammatically suspect because the subject (`nomen identitatis et alietatis`) reads as singular `nomen` with two genitives.
+- **PDF p.106 right-col, bottom paragraph of Dub. VII (600dpi, file `raw/vision/vol1/p-hires-106-r600-208.png`, page header "106" confirmed visible)**: `...ideo nomen identitatis et alietatis in sermone iunctae sine oppositione, immo ad singularis modi expressionem.`
+- **Diagnosis**: OCR misread `iunctae` (fem. pl. perfect participle of *iungere*, "joined", with implicit *sunt*) as `iungunt`. The printed reading is `iunctae`, treating `nomen identitatis et alietatis` collectively (with Quaracchi's apparatus note [^24] "Cod. T addit *nomen*" reinforcing that some witnesses pluralise / amplify the subject). The fem. pl. agrees grammatically with an implied plurality of names.
+- **Resolution**:
+  - **Latin**: `iungunt[?]` → `iunctae` (no `[?]`).
+  - **English**: `are joined[?]` → `are joined` (no `[?]`; rendering unchanged in sense).
+- **PDF citation**: `raw/vision/vol1/p-hires-106-r600-208.png` (PDF page 208 = printed p.106; offset +102 confirmed).
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0.
+- Apparatus entries: 33 (unchanged; 11 + 13 + 9 per p.105 / p.106 / p.107 footer blocks).
+- Body anchors: paired `[^1]`–`[^33]` in both Latin and English (unchanged).
+
+### Systemic notes
+
+- Quaracchi `[word]` editorial brackets: none in this chunk. N/A.
+- Phantom apparatus check: no candidates flagged; entry count matches printed footers.
+- Page-header verification step caught an off-by-one in extraction: first hires extraction of "p.107" landed printed p.107 correctly (PDF 209 = printed 107, offset +102); printed p.106 = PDF 208. No filename mismatch this time.
+
+## d6-dubia (pp.131-132)
+
+- **Source**: `raw/vision/vol1/p-hires-PRINTED-r600-234.png` (PDF page 234 = printed p.132, offset +102 confirmed via PNG page-header read showing "132"). p.131 (PDF 233) extracted to `p-hires-d6dubia-r600-233.png` but flag location was on p.132.
+- **Pre-pass count**: 1 `[?]` flag pair (mirrored in Latin + English) at apparatus `[^18]` ("Cod. dd addit *aut consulere*[?]" / "Codex dd adds *aut consulere* [?]").
+
+### Resolution
+
+| Location | Garble / question | Disposition |
+|---|---|---|
+| `[^18]`, Latin and English mirror | The `[?]` flag was inserted by the rechunk pipeline after `aut consulere`, suggesting uncertainty about whether the Quaracchi editors printed a textual marker (e.g., `?`, sigla) at that point. | **RESOLVED.** 600dpi eyes-on of p.132 footer note 4 (left column, bottom) shows the printed text reads cleanly: `Cod. dd addit *aut consulere*. Paulo infra nonnulli codd. ut CISV aa cc cum quinque primis edd. *ad hoc* pro *ab hoc*.` No editor marker follows `consulere` — just a period. The `[?]` was a spurious scribal/OCR insertion. Removed from both Latin and English. |
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0.
+- Apparatus entries: 20 (unchanged; 13 + 7 per p.131 / p.132 footer blocks per OCR; chunk had been described as "19 entries = 13 + 6" in transcription_status but actual `[^N]:` count is 20).
+- Body anchors: paired `[^1]`–`[^20]` in both Latin and English.
+
+### Systemic notes
+
+- The pre-pass `tier2-ambiguities-d6-dubia.md` log stated "No `[?]` flags" — this was incorrect; the rechunk pipeline (2026-05-10 wave) introduced one flag that the ambiguities-log update missed. Logged here.
+- Quaracchi `[word]` editorial brackets: none in this chunk. N/A.
+- Phantom apparatus check: entry count matches printed footers (p.131 = 13 entries, p.132 = 7 entries).
+
+## d5-dubia (pp.119-122)
+
+Pass date: **2026-05-12**. Source: `raw/doctorisseraphic11bona.pdf` p.223 (= printed p.121) at 600 dpi. PDF page header verified: "DIST. V. DUB." on printed p.121. Pt1 offset confirmed: 121 + 102 = 223.
+
+### Resolved via PDF eyes-on (2 flags)
+
+- **d5-dubia Dub. VII Respondeo trailing `[?]`** (Latin body): OCR truncated the last line at *et hoc patet per* with the final word `sequens.` dropped onto a non-OCR'd zone. PDF eyes-on confirms Quaracchi prints `...et ab illo non recedere, et hoc patet per sequens.` ("...and not to depart from it, and this is plain by what follows."). Footnote `[^23]` already documents that Vat. reads the variant word order *et per hoc patet sequens* against mss + first six editions; the [?] was on the body-tail word `sequens`, not the apparatus. Restored `sequens.` in Latin body and `what follows.` in English mirror.
+- **d5-dubia Dub. VII Respondeo trailing `[?]`** (English mirror): same fix as above — replaced `and this is plain by[?]` with `and this is plain by what follows.`
+
+Collateral fix: `[^23]` English rendering said Vat. "[adds]" the variant phrase, which mis-stated the apparatus note. Quaracchi's printed text contains the phrase; the apparatus is documenting Vat's deviant *word order* (*et per hoc patet sequens* vs Quaracchi's *et hoc patet per sequens*). English rendering of `[^23]` corrected to `[reads] ... [in place of et hoc patet per sequens]` to match the Latin's intent.
+
+### Systemic notes
+
+- OCR-band dropout: line 27288 of `raw/bonaventure_vol1_raw.txt` shows `et  hoc  patet  per` with no word after — the OCR engine lost the final word at the column-bottom seam (Dub. VIII heading begins one blank line below). Pattern matches the documented ~9 OCR-band dropout pages in this distinction range; mechanical rebuilds that trust the raw line uncritically will lose the final word at column transitions.
+- No phantom apparatus, no header structural issues; apparatus entry count (36) matches printed footers.
+
+## d7-a1-q1 (pp.135-137)
+
+**Date**: 2026-05-12
+**Scope**: 1 inline `[?]` site (2 grep matches = Latin + English mirror) in apparatus entry `[^20]` resolved via 600dpi PDF eyes-on. Source: `raw/vision/vol1/p-hires-d7a1q1-r600-{237,238,239}.png` (printed pp.135/136/137; pt1 offset +102 confirmed; headers verified "DIST. VII. ART. UNIC. QUAEST. I." and page numbers 135/136/137 visible at top corners of each PNG).
+**Prior pass**: 2026-05-10 from-scratch build (rechunk pipeline). The `[?]` was appended to footer `[^20]` Latin + English by the build agent as a generic ambiguity hedge; no specific garble or truncation was being flagged.
+
+### Flag 1 — `[^20]` (Latin + English mirror) — RESOLVED
+
+- **Before**:
+  - **La.** `... ed. 1 non hic, sed paulo infra post *dicat* addit *non tantum*. [?]`
+  - **En.** `... ed. 1, not here but a little below after *dicat*, adds *non tantum*. [?]`
+- **PDF p.136 right-col footer entry 12** (numbered `12` on the printed page; sequential `[^20]` across the chunk), verbatim at 600dpi: `Omnes codd. cum edd. 1, 2, 4, 5, 6 *essentialem* pro *essentialiter*, quod Vat., mutata interpunctione, refert ad ea quae sequuntur; sed falso, quia opponitur verbo *originalem*. Ex mss. FHPQTY ee adiecimus *non solum*, quod alii codd. cum Vat. omittunt; ed. 1 non hic, sed paulo infra post *dicat* addit *non tantum*.` — complete sentence, period-terminated, no continuation onto next footer entry, no editorial bracket, no garble.
+- **Diagnosis**: Spurious build-time scaffolding flag. The OCR rendering of this footer note is intact and the PDF confirms no missing content.
+- **Resolution**: Removed both `[?]` markers (1 La + 1 En). Footer text already verbatim from OCR; no edit to substantive content.
+
+### Systemic checks performed
+
+- **Page-header verification**: 600dpi extractions of PDF 237/238/239 show printed page numbers 135/136/137 (top corners) and running head "DIST. VII. ART. UNIC. QUAEST. I." on all three. Pt1 offset +102 holds for this chunk (no +103 anomaly here).
+- **Quaracchi `[word]` editorial brackets**: none present in p.135-137 footers. The only square-bracketed material in the chunk is English translator's glosses ("[objection]", "[persons]", "[the Father]", "[obliquely]", "[reads]", "[is common]", "[ad ult.]", etc.), all translator-supplied disambiguators. No garbles being masked.
+- **Phantom apparatus / off-by-one**: chunk carries 36 apparatus entries matching the per-page footer block convention (Quaracchi restarts numbering per page; sequential 1-36 across pp.135-137).
+- **Other `[?]` sites**: `grep -n '\[?\]'` on the chunk after resolution returns 0 hits in body/apparatus; the residual `[?]` substring in `transcription_status` was rewritten to drop the literal `[?]` and document the resolution.
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0 (2 grep matches cleared; all in `[^20]` La + En).
+- Apparatus entries: 36 (unchanged).
+- Body anchors: paired `[^1]`-`[^36]` in both Latin and English (unchanged).
+- 1 site / 2 mirrored flags RESOLVED, 0 ACCEPT-ILLEGIBLE.
+
+## d4-divisio (pp.96-97)
+
+- **Source**: `raw/vision/vol1/p-hires-d4divisio-r600-198.png` (printed p.96, PDF p.198) and `raw/vision/vol1/p-hires-d4divisio-r600-199.png` (printed p.97, PDF p.199). Page-number headers verified in each PNG: p.96 confirms "96" centered top; p.199 confirms "97" with running head "DIST. IV. ART. UNICUS QUAEST. I."
+- **Scope correction**: Chunk frontmatter previously claimed `printed_pages: [96, 97]`, but eyes-on read confirms the entire divisio + tractatio (the listing of the four questions, ending "…vel pro essentia.") is wholly contained on **p.96**. P.97 begins "ARTICULUS UNICUS. QUAESTIO I." — that's the d4-a1-q1 chunk, not divisio. Fixed `printed_pages` → `[96]`, `pdf_pages` → `[198]`, `source` line, and removed the spurious `<!-- page 97 -->` break (which had been placed before "Tertio quaeritur de consignificatione…", a paragraph that is still on p.96).
+- **2 `[?]` flags resolved** (both in apparatus `[^1]`, La + En mirror):
+
+| Flag | Disposition |
+|---|---|
+| `[^1]` La. *iid* | Footer note 1 on p.96 reads verbatim: "Vat. contra mss. et ed. 1 omittit *ad*." The OCR garble `iid` was the italic ligature `ad`. RESOLVED to `*ad*`. |
+| `[^1]` En. *iid* | English mirror updated to `*ad*` per Latin resolution. RESOLVED. |
+
+- **Body-anchor correction surfaced by the PDF read**: the chunk had placed `[^1]` after "Et" in the first paragraph ("Et[^1] incidit dubitatio…"), but eyes-on of p.96 shows the only `¹` superscript in the divisio body is at "*Genuit se vel alium*, ad ¹ quam solvit interimendo." in the second paragraph. The Vat.-omits-*ad* variant note is precisely about this word. Moved `[^1]` from "Et" → "ad" in Latin body, and mirrored the move in English ("to[^1] which he resolves by ruling out"). The body word "Et" / "And" remains in place (it is in the printed text); only the spurious anchor placement was wrong.
+
+### `[?]` resolution count
+
+- 2 `[?]` flags resolved (both in apparatus `[^1]`).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d4-divisio.md` after this pass.
+
+### Verification
+
+- `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d4-divisio.md | sort | uniq -c` → each of `[^1]`, `[^2]`, `[^3]` appears 3× (Latin body + English body + apparatus def).
+- `cd site && node scripts/build-content.mjs` parses cleanly; chunk count 414.
+- d.4-scoped guard-rail audits (`audit-paraphrase.py`, `audit-headers.py`, `audit-apparatus-count.py`) run clean against the edited chunk.
+
+## d6-littera (pp.123-124)
+
+- **Source**: `raw/vision/vol1/p-hires-PRINTED-r600-225.png` (printed p.123) and `p-hires-PRINTED-r600-226.png` (printed p.124), both extracted 2026-05-12 at 600 dpi. Page-header verification: PDF 225 shows printed `123` top-right; PDF 226 shows printed `124` top-left. Offset +102 holds.
+- **Flag site**: `[^19]` La + En mirror (apparatus entry, NOTAE AD COMMENTARIUM, footer #7 on printed p.124).
+- **Before**:
+  - **La.** `Hilar., *de Synodis*, n. 39 [?] et n. 58, XXV.`
+  - **En.** `Hilary, *On the Synods*, n. 39 [?] and n. 58, XXV.`
+- **PDF p.124 right-col footer entry 7** (sequential `[^19]` across the chunk), verbatim at 600dpi, line-tight crop reads: `⁷ Num. 39. l. et n. 58. XXV. — In cod. A respectu huius notulae additur *et quia Magister non probaverat, Patrem genuisse Filium voluntate, ideo haec nota posita est*. Haec notula in Vat. et aliis edd. ad marginem, in edd. 5, 6 in textu posita est.`
+- **Diagnosis**: IA djvu OCR conflated the Quaracchi reference. The print reads `Num. 39. l. et n. 58. XXV.` — i.e., Quaracchi's `Num.` abbreviation (= `n.`, for *numerus*) introducing **39, 1** (paragraph 39, subdivision 1) and **n. 58, XXV** (paragraph 58, subdivision XXV) of Hilary's *De Synodis*. The rechunk pipeline preserved the lemma `n. 39` and inserted `[?]` for the swallowed `, 1` subdivision; the flag marked exactly the lost token.
+- **Resolution**: Replaced both `[?]` markers with `, 1` so the apparatus reads `n. 39, 1 et n. 58, XXV` (La) and `n. 39, 1 and n. 58, XXV` (En). Matches Hilary, *De Synodis*, n. 39 §1 / n. 58 §25 (Migne PL 10), the standard Quaracchi citation for the *voluntate genuit Filium* passages.
+
+### Systemic checks performed
+
+- **Page-header verification**: 600dpi extractions of PDF 225/226 show printed page numbers 123/124. Pt1 offset +102 holds for this chunk.
+- **Quaracchi `[word]` editorial brackets**: none present in p.123-124 footers beyond translator's English glosses (e.g. `[reads]`, `[here]`). No garbles being masked.
+- **Apparatus count**: chunk carries 19 apparatus entries (p.123 main 9 + NOTAE 3 + p.124 main 5 + NOTAE 2), matching the post-rechunk entry-merging convention.
+- **Other `[?]` sites**: `grep -n '\[?\]'` on the chunk after resolution returns 0 hits in body/apparatus; the residual `[?]` substring in `transcription_status` was rewritten to drop the literal `[?]` and document the resolution.
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0 (2 grep matches cleared; both in `[^19]` La + En).
+- Apparatus entries: 19 (unchanged).
+- Body anchors: paired `[^1]`-`[^19]` in both Latin and English (unchanged).
+- 1 site / 2 mirrored flags RESOLVED, 0 ACCEPT-ILLEGIBLE.
+
+### Verification
+
+- `grep -n '\[?\]' vol1/bon-sent-I-d6-littera.md` → no body/apparatus matches.
+- `cd site && node scripts/build-content.mjs` parses cleanly; chunk count 414.
+- d.6-scoped guard-rail audits (`audit-paraphrase.py`, `audit-headers.py`, `audit-apparatus-count.py`) run clean against the edited chunk.

@@ -11,7 +11,7 @@ pdf_pages: [207, 208, 209]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 105–107"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 24634-25060), fresh literal English translation, full apparatus from raw OCR (33 entries from p.105-107 footer blocks: 11+13+9), 9 DUB present, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 sub-key cleanup — flattened [^1b]/[^p106-N]/[^p107-N] into sequential integer keys [^1]–[^33] per chunk-wide convention"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 24634-25060), fresh literal English translation, full apparatus from raw OCR (33 entries from p.105-107 footer blocks: 11+13+9), 9 DUB present (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 sub-key cleanup — flattened [^1b]/[^p106-N]/[^p107-N] into sequential integer keys [^1]–[^33] per chunk-wide convention; 2026-05-12 polish pass — Dub. VII iungunt[?] resolved to iunctae via 600dpi PDF p.106 eyes-on (0 [?] remaining)"
 line_start: 24634
 line_end: 25060
 format_version: 1
@@ -75,7 +75,7 @@ Item quaeritur de hoc quod dicit: *Satis est christiano rerum creatarum causam* 
 
 Item quaeritur de hoc quod dicit, quod *Pater genuit alterum se*. Videtur enim male coniungere illa duo, quia *se* dicit omnimodam identitatem, et *alterum* diversitatem, et ita sunt opposita, et ita[^28] opposita implicantur. Si dicas, quod unum diminuit de altero, quaero: quid et de quo?
 
-**Respondeo:** Dicendum, quod oppositio directa intelligitur semper circa idem. Quoniam ergo in divinis simul est identitas in natura et alietas in supposito, et hoc sine oppositione; ideo nomen identitatis et alietatis in sermone[^24] iungunt[?] sine oppositione, immo ad singularis modi expressionem.
+**Respondeo:** Dicendum, quod oppositio directa intelligitur semper circa idem. Quoniam ergo in divinis simul est identitas in natura et alietas in supposito, et hoc sine oppositione; ideo nomen identitatis et alietatis in sermone[^24] iunctae sine oppositione, immo ad singularis modi expressionem.
 
 ### Dub. VIII.
 
@@ -145,7 +145,7 @@ Likewise a question is raised about what he says: *It is enough for a Christian 
 
 Likewise a question is raised about what he says, that *the Father begot another self*. For he seems to conjoin those two badly, since *se* ("self") signifies altogether identity, and *alterum* ("another") diversity, and thus they are opposites, and thus[^28] opposites are implicated. If you say, that one diminishes from the other, I ask: what, and of what?
 
-**I respond:** It must be said that direct opposition is always understood concerning the same. Since therefore in divine things there is at once identity in nature and otherness in supposit, and this without opposition; therefore the names of identity and of otherness in speech[^24] are joined[?] without opposition, indeed for the expression of a singular mode.
+**I respond:** It must be said that direct opposition is always understood concerning the same. Since therefore in divine things there is at once identity in nature and otherness in supposit, and this without opposition; therefore the names of identity and of otherness in speech[^24] are joined without opposition, indeed for the expression of a singular mode.
 
 ### Dub. VIII.
 

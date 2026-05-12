@@ -15,7 +15,7 @@ line_end: 29831
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 135–137"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 29245-29831), fresh literal English translation, full apparatus from raw OCR (36 entries from p.135-137 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 29245-29831), fresh literal English translation, full apparatus from raw OCR (36 entries from p.135-137 footer blocks), scholion translated; 1 site / 2 mirrored inline flags resolved via 600dpi PDF eyes-on 2026-05-12 (apparatus [^20] confirmed verbatim, no truncation) (2026-05-10 d.1-d.10 rechunk pipeline; 2026-05-12 polish pass)"
 format_version: 1
 ---
 
@@ -260,9 +260,9 @@ According to this explanation, the essence and the property of the person consti
 
     **En.** A blunder of the Vatican edition we have corrected on the testimony of the manuscripts by substituting *univocum* for *unicum*.
 
-[^20]: **La.** Omnes codd. cum edd. 1, 2, 4, 5, 6 *essentialem* pro *essentialiter*, quod Vat., mutata interpunctione, refert ad ea quae sequuntur; sed falso, quia opponitur verbo *originalem*. Ex mss. FHPQTY ee adiecimus *non solum*, quod alii codd. cum Vat. omittunt; ed. 1 non hic, sed paulo infra post *dicat* addit *non tantum*. [?]
+[^20]: **La.** Omnes codd. cum edd. 1, 2, 4, 5, 6 *essentialem* pro *essentialiter*, quod Vat., mutata interpunctione, refert ad ea quae sequuntur; sed falso, quia opponitur verbo *originalem*. Ex mss. FHPQTY ee adiecimus *non solum*, quod alii codd. cum Vat. omittunt; ed. 1 non hic, sed paulo infra post *dicat* addit *non tantum*.
 
-    **En.** All codices, with editions 1, 2, 4, 5, 6, [read] *essentialem* for *essentialiter*, which the Vatican edition, with altered punctuation, refers to what follows; but wrongly, since it is set in opposition to the word *originalem*. From manuscripts FHPQTY ee we have added *non solum*, which the other codices, with the Vatican edition, omit; ed. 1, not here but a little below after *dicat*, adds *non tantum*. [?]
+    **En.** All codices, with editions 1, 2, 4, 5, 6, [read] *essentialem* for *essentialiter*, which the Vatican edition, with altered punctuation, refers to what follows; but wrongly, since it is set in opposition to the word *originalem*. From manuscripts FHPQTY ee we have added *non solum*, which the other codices, with the Vatican edition, omit; ed. 1, not here but a little below after *dicat*, adds *non tantum*.
 
 [^21]: **La.** Cod. bb addit *generandi*.
 
