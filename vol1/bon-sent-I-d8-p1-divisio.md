@@ -14,7 +14,7 @@ line_end: 31619
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 149–150"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 31496-31619), fresh literal English translation, apparatus from raw OCR (7 entries from p.149-150 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 31496-31619), fresh literal English translation, apparatus from raw OCR (7 entries from p.149-150 footer blocks); all [?] flags resolved via 600dpi PDF eyes-on (2026-05-12 d.1-d.10 polish pass)"
 format_version: 1
 ---
 
@@ -134,6 +134,6 @@ Second, whether it is its property in the highest degree, that is, to such an ex
 
      **En.** The Vatican [edition], against the manuscripts and edition 1, [reads] *hac* for *ista*; shortly after it says *primarum*, because *simplicity* is enumerated by the Master as the third property; *primarum*, however, is omitted by a few codices and by edition 4.
 
-[^7]: **La.** Ex antiquioribus mss. et ed. 1 adiecimus *quaeritur*.[?]
+[^7]: **La.** Ex antiquioribus mss. et ed. 1 adiecimus *quaeritur*.
 
-     **En.** From the older manuscripts and edition 1 we have added *quaeritur*.[?]
+     **En.** From the older manuscripts and edition 1 we have added *quaeritur*.

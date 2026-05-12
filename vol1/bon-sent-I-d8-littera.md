@@ -13,7 +13,7 @@ line_end: 31495
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. VIII (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 147–149)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 31017-31495), fresh literal English translation, full apparatus from raw OCR (32 entries from p.147-149 footer blocks: 14 + 11 + 7), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 31017-31495), fresh literal English translation, full apparatus from raw OCR (32 entries from p.147-149 footer blocks: 14 + 11 + 7); prior inline ambiguity flags resolved via 600dpi PDF eyes-on 2026-05-12 (printed p.147 footer #13 = praefigit *suae*); 0 inline ambiguity flags remaining (2026-05-10 build, 2026-05-12 polish pass)"
 format_version: 1
 ---
 
@@ -154,8 +154,8 @@ But the simplicity and sincerity of this essence is so great, that there is not 
 [^12]: **La.** Vat. contra codd. B C D E et fere omnes edd. *praeteriit vel futurum sit*.
     **En.** The Vatican edition, against codices B C D E and almost all editions, [reads] *praeteriit vel futurum sit*.
 
-[^13]: **La.** Vat. cum edd., excepta ed. 1, *esse* pro *tunc*. Paulo infra Vat. cum edd., excepta ed. 1, verbo *divinitatis* praefi[?]...
-    **En.** The Vatican edition with the editions, except edition 1, [reads] *esse* in place of *tunc*. A little below, the Vatican edition with the editions, except edition 1, prefix [?] [to] the word *divinitatis*... [OCR truncates the entry at "praefi-"; continuation likely *praefigunt suae* or similar.]
+[^13]: **La.** Vat. cum edd., excepta ed. 1, *esse* pro *tunc*. Paulo infra Vat. cum edd., excepta ed. 1, verbo *divinitatis* praefigit *suae*.
+    **En.** The Vatican edition with the editions, except edition 1, [reads] *esse* in place of *tunc*. A little below, the Vatican edition with the editions, except edition 1, prefixes *suae* to the word *divinitatis*.
 
 [^14]: **La.** *Num.* 11. — Paulo ante Vat., dempta 1, addunt *suae* post *existentiam*.
     **En.** *Number* 11. — A little before, the Vatican edition, with the exception of edition 1, adds *suae* after *existentiam*.

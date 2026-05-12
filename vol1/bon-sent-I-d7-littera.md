@@ -13,7 +13,7 @@ line_end: 29107
 source: "Petri Lombardi Sententiarum Libri IV, Liber I, Dist. VII (as printed in S. Bonaventurae, Opera Omnia, Tomus I, Quaracchi 1882, pp. 132–133)"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 28913-29107), fresh literal English translation, full apparatus from raw OCR (19 entries from p.132-133 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 marker reposition — anchored [^17] on first *id est*, [^18] on end of *qua possit esse Filius*, [^19] on *esse* in *Filium genitum esse*; verified against p.133 footer markers in raw OCR"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 28913-29107), fresh literal English translation, full apparatus from raw OCR (19 entries from p.132-133 footer blocks) (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 marker reposition — anchored [^17] on first *id est*, [^18] on end of *qua possit esse Filius*, [^19] on *esse* in *Filium genitum esse*; verified against p.133 footer markers in raw OCR; 2026-05-12 polish pass — resolved 2 [?] flags in [^11] (La+En mirror) via 600dpi PDF eyes-on (p.133 footer ^11: omitted word = *non*)"
 format_version: 1
 ---
 
@@ -126,9 +126,9 @@ Likewise it is asked by some, whether the Father is able by nature to beget the 
 
     **En.** The Vatican edition with editions 4, 5, 6 reads *accipiatur*.
 
-[^11]: **La.** Mendum Vat. omittentis [?]; castigatur ex codd. et edd. 1, 2, 3, 5, 6, 8, 9, 10. Paulo ante cod. D *Potest autem* loco *Potest ergo*.
+[^11]: **La.** Mendum Vat. omittentis *non*; castigatur ex codd. et edd. 1, 2, 3, 5, 6, 8, 9, 10. Paulo ante cod. D *Potest autem* loco *Potest ergo*.
 
-    **En.** A blunder of the Vatican edition omitting [?]; it is corrected from the codices and editions 1, 2, 3, 5, 6, 8, 9, 10. A little before, codex D reads *Potest autem* in place of *Potest ergo*.
+    **En.** A blunder of the Vatican edition omitting *non*; it is corrected from the codices and editions 1, 2, 3, 5, 6, 8, 9, 10. A little before, codex D reads *Potest autem* in place of *Potest ergo*.
 
 [^12]: **La.** Codd. hic repetunt *ex*.
 

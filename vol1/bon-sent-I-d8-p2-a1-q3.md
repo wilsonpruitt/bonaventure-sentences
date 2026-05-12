@@ -16,7 +16,7 @@ line_end: 35075
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 170–172"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 34635-35075), fresh literal English translation, full apparatus from raw OCR (37 entries from p.170-172 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 34635-35075), fresh literal English translation, full apparatus from raw OCR (37 entries from p.170-172 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch) — 2026-05-12 [?]-flag polish pass: 2 resolved via 600dpi PDF, 0 accepted-illegible"
 format_version: 1
 ---
 
@@ -191,9 +191,9 @@ form, because it perfects the whole, is in the whole and in every part: but beca
 
      **En.** The Vatican edition, without the authority of the manuscripts and editions 1, 2, 3, 6, less well omits *in toto corpore*.
 
-[^6]: **La.** Fide plurium mss. ut M T V W X Z etc. et ed. 1 adiecimus *ergo*, et dein *iev^est* [?].
+[^6]: **La.** Fide plurium mss. ut M T V W X Z etc. et ed. 1 adiecimus *ergo*, et dein post *ergo* *est*.
 
-     **En.** On the trust of many manuscripts such as M T V W X Z etc. and ed. 1 we have added *ergo*, and then *iev^est* [?] (OCR garble; reading uncertain).
+     **En.** On the trust of many manuscripts such as M T V W X Z etc. and ed. 1 we have added *ergo*, and then after *ergo* [supplied] *est*.
 
 [^7]: **La.** Plurimi codd. cum ed. 1 hic et paulo post minus apte omittunt *est*.
 

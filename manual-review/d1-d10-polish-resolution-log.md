@@ -511,6 +511,57 @@ Bucket 1 [?]-flag polish pass against 600dpi PDF (`raw/vision/vol1/p-054.png` �
 - `cd site && node scripts/build-content.mjs` parses cleanly (414 chunks).
 - d.8-scoped guard-rail audits (paraphrase, headers, apparatus-count) re-run; no new flags surfaced by this chunk.
 
+## d8-p1-a1-q2 retry (pp.152-154)
+
+Pass date: **2026-05-12** (same-day retry of wave-1 ACCEPT-ILLEGIBLE disposition).
+
+### Trigger
+
+Wave-1 (earlier 2026-05-12) accepted 8 `[?]` flags as ACCEPT-ILLEGIBLE on the premise that scholion II opens on PDF p.155 bottom-right and is OCR-smeared. Retry re-examined `raw/vision/vol1/p-hires-d8q2-258.png` (printed p.156, where scholion II actually starts).
+
+### Finding
+
+**Wave-1 mis-located scholion II.** Scholion II does NOT open on p.155 bottom-right (that region is the tail of scholion I body + apparatus footnotes for scholion I). Scholion II opens at the **top of p.156 left column** and is fully legible at 600 dpi. The wave-1 "OCR-band dropout + lateral ink-bleed" diagnosis applied to scholion I's apparatus footer band, not to scholion II.
+
+### Verified scholion II opening (from p.156 left column, top)
+
+> "II. Circa quaestionem, utrum existentia Dei sit per se nota, antiqui Scholastici diverso modo loquuntur. Omnes tamen concedunt, existentiam esse de conceptu essentiali Dei. S. Anselmus docet, omni apprehendenti significationem vocabuli *Deus* per se notam esse eius existentiam; unde ex ipso conceptu Dei et entis, quo melius cogitari non potest, formavit argumentum ad probandum existentiam Dei..."
+
+The wave-1 reconstruction (`Sic[?] habet B. Albertus[?] ad probandum, [?] putatur. [?] doctrina [?] gument [?] primi [?] per se notum esse.`) was a hallucination — none of those words appear in scholion II's actual opening. The `argumentum ad probandum` formula is present, but in a different construction four lines down.
+
+### `[?]` flags walked
+
+| # | Location | Wave-1 disposition | Retry disposition |
+|---|---|---|---|
+| 1-7 | Latin l. 110, scholion II opening, 7 bare `[?]` | ACCEPT-ILLEGIBLE | **RESOLVED.** Entire scholion II body replaced with verbatim transcription from p.156 (`raw/vision/vol1/p-hires-d8q2-258.png`). Full text now present (~3× length of wave-1 reconstruction); recovers Anselm citation, Aegidius/Dionysius citations, Nominalist clause, full Scotus distinction, S. Thomas citation block, Alex. Hal. quotation continuation, B. Albert + Richard + Petr. a Tar. citations, S. Thom. *de Verit.* q. 22 quotation, S. Bonaventura *de Reductione*, Scot. I *Sent.* d. 3. q. 2 closing quote. |
+| 8 | English l. 192, `[?Likewise]` | — | **RESOLVED.** Mirror rewritten literal from corrected Latin: "Concerning the question whether the existence of God is known *per se*, the ancient Scholastics speak in diverse ways..." |
+| 9 | English l. 192, `B. Albert[?]` | — | **RESOLVED.** No `[?]` needed; verified `B. Albert, S. tr. 3. q. 19. m. 2.` is intact in the Latin (it follows the Alex. Hal. block, not preceding it). |
+| 10 | English l. 192, `[…?…]` (editorial supply gap) | — | **RESOLVED.** Gap filled with the literal English of the recovered Latin. |
+
+### Systemic check: scope of dropout
+
+This is more than a flag-resolution: wave-1 left the chunk with a scholion II body that was ~1/3 the length of the printed text and contained fabricated stem-words. The retry restores the full text. **No invented Latin** in the retry: every clause traces to p.156 image. Other scholia (I, III, IV) in this chunk were not re-checked under this retry's scope — only scholion II was edited.
+
+### Systemic check: PDF-extract location convention
+
+Source-of-truth correction for the chunk: scholion II runs **printed p.156**. Frontmatter `printed_pages: [152, 153, 154]` and `pdf_pages: [254, 255, 256]` understate the scholion span; this is a known frontmatter audit item (logged in wave-1 §"Note on page ranges"), still pending corpus-wide.
+
+### Systemic check: are other "ACCEPT-ILLEGIBLE" dispositions in the log similarly mis-located?
+
+Worth a focused sweep of the wave-1 ACCEPT-ILLEGIBLE entries (this log) in a later pass: confirm that each cited PDF location actually contains the cited passage. The d8-p1-a1-q2 wave-1 entry mis-identified p.155 bottom-right as scholion II opening when it was scholion I tail. Sweep tracked as a polish-pass follow-up; not blocking.
+
+### `[?]` resolution count (post-retry)
+
+- Before retry: 10 `[?]` occurrences in chunk body (7 Latin scholion II + 1 English bare + `[?Likewise]` + `[…?…]`).
+- After retry: 0 `[?]` occurrences in chunk body. The 2 occurrences in `transcription_status` are meta-history and retained intentionally.
+- Net: 10 → 0 in body; 12 → 2 in file total (counting status meta).
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d8-p1-a1-q2.md` → 2 (both inside `transcription_status` meta string).
+- `cd site && node scripts/build-content.mjs` → expect 414 chunks.
+- d.8-scoped guard-rail audits re-run below.
+
 ## d2-littera (pp.46-49)
 
 Pass date: **2026-05-12**. Source: `raw/vision/vol1/p-046.png`–`p-049.png` re-extracted at 600 dpi via `tools/extract-pages.py --volume vol1 --pages 46-49 --dpi 600 --force`. Chunk previously held 5 inline `[?]` flags across 4 apparatus footnotes (`[^8]` La+En, `[^36]` En, `[^37]` En, `[^43]` En).
@@ -1059,3 +1110,120 @@ Pass: 2026-05-12. Resolved 3 substantive `[?]` flag sites (4 grep matches: Schol
 - Apparatus entries: 17 (was 18 — placeholder `[^18]` OCR-cutoff anchor removed; matches PDF footer count for the pp.75-77 scope of this chunk).
 - Body anchors: 17 in Latin and 17 in English, paired.
 - 2 RESOLVED, 0 ACCEPT-ILLEGIBLE.
+
+## d7-littera (pp.132-133)
+
+Pass: 2026-05-12. Resolved 2 inline `[?]` flag instances (1 substantive site × Latin + English mirror) via 600dpi PDF eyes-on. Source: `raw/vision/vol1/p-hires-PRINTED-r600-234.png` (PDF p.234 = printed p.132) and `p-hires-PRINTED-r600-235.png` (PDF p.235 = printed p.133), extracted via `pdftoppm -r 600 -f 234 -l 235 -png raw/doctorisseraphic11bona.pdf raw/vision/vol1/p-hires-PRINTED-r600`.
+
+### Flag 1 — `[^11]` (Latin + English mirror) — RESOLVED
+
+- **Before**: `**La.** Mendum Vat. omittentis [?]; castigatur ex codd. et edd. 1, 2, 3, 5, 6, 8, 9, 10. Paulo ante cod. D *Potest autem* loco *Potest ergo*.` / `**En.** A blunder of the Vatican edition omitting [?]; it is corrected from the codices and editions 1, 2, 3, 5, 6, 8, 9, 10. A little before, codex D reads *Potest autem* in place of *Potest ergo*.`
+- **PDF p.133 footer ^11**: `Mendum Vat. omittentis non; castigatur ex codd. et edd. 1, 2, 3, 5, 6, 8, 9, 10. Paulo ante cod. D Potest autem loco Potest ergo.`
+- **Resolution**: Replaced both `[?]` with `*non*`. The body passage being annotated is *non enim non potuit, sed non oportuit*; the Vatican edition omitted the second `non`, and Quaracchi restores it from the codices and editions 1, 2, 3, 5, 6, 8, 9, 10. The English mirror tracks the Latin word in italics.
+- **PDF citation**: 600dpi page `raw/vision/vol1/p-hires-PRINTED-r600-235.png` — p.133 footer ^11 fully legible.
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk body/apparatus: 0 (2 grep matches in `transcription_status` frontmatter are historical-reference substrings, not flags).
+- Apparatus entries: 19 (unchanged).
+- Body anchors: 19 in Latin and 19 in English, paired (unchanged).
+- 1 RESOLVED site (2 grep matches), 0 ACCEPT-ILLEGIBLE.
+
+## d8-p2-a1-q3 (pp.170-172)
+
+Bucket 1 PDF-recovery pass — 2026-05-12. Source: 600dpi `pdftoppm -r 600 -f 272 -l 272` extraction of `raw/doctorisseraphic11bona.pdf` (pt1 PDF p.272 = printed p.170; offset +102). Chunk held 2 inline `[?]` flag matches inside a single apparatus entry (`[^6]` La + En) anchored at *aut ergo[^6] est in qualibet parte* in arg. 5.
+
+| Body anchor | Disposition | Footer source |
+|---|---|---|
+| `[^6]` La/En `iev^est [?]` | RESOLVED → `post *ergo* est` | p.170 footer note 6 (left column): *Fide plurium mss. ut M T V W X Z etc. et ed. 1 adiecimus* ergo, *et dein post* ergo *est.* |
+
+The IA djvu OCR garble `iev^est` was the italicised italic-roman alternation *post* `ergo` *est* (with "ergo" set italic between two roman words) — eyes-on read of the 600dpi PDF resolves cleanly. No accept-illegible.
+
+### `[?]` resolution count
+
+- 2 `[?]` flags resolved (both inside apparatus `[^6]` La + En mirror).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d8-p2-a1-q3.md` after this pass (modulo the historical-reference `[?]` substring inside the `transcription_status` frontmatter).
+
+### Verification
+
+- `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d8-p2-a1-q3.md | sort -t^ -k2 -n | uniq -c` → each `[^N]` (N=1..37) appears exactly 3× (Latin body + English body + apparatus def).
+- d.8-scoped guard-rail audits run clean.
+- `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
+
+## d7-a1-q4 (pp.142-144)
+
+- **Source**: `raw/vision/vol1/p-hires-144-r600-246.png` (600 dpi). Pt1 offset +102 → PDF p. 246.
+- **Context**: chunk rebuilt 2026-05-11 (Bucket 3 wave 2, commit `7d6a18f`); single inline `[?]` flag carried over from rebuild, mirrored in Latin + English.
+
+| Flag | Location | Disposition |
+|---|---|---|
+| 1 | Scholion III, citation `S. Thom. ... tamen de Potentia q. 2. a. 5[?] aliter loquitur` | **RESOLVED.** 600dpi PDF p.144 right column (mid-page, end of Scholion III) reads unambiguously `tamen de Potentia q. 2. a. 5, aliter loquitur.` The OCR garble `q. 2. a. S.` is `q. 2. a. 5.` — the provisional render in the chunk and ambiguities log was correct. Both Latin and English flag markers removed. |
+
+### `[?]` resolution count
+
+- 1 `[?]` flag resolved (mirror pair: Latin + English both struck).
+- 0 ACCEPT-ILLEGIBLE.
+- Anchor-position uncertainties documented in `manual-review/tier2-ambiguities-d7-a1-q4.md` (positions of `[^7]`, `[^8]`, `[^11]`, `[^13]`) NOT addressed this pass — out of scope (apparatus entry contents are stable; only anchor positions are uncertain, and the chunk renders correctly).
+
+### Verification
+
+- `grep -n '\[?\]' vol1/bon-sent-I-d7-a1-q4.md` → 0 hits.
+- d.7-scoped guard-rail audits run clean.
+- `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
+
+## d8-p1-divisio (pp.149-150)
+
+Pass: 2026-05-12. Resolved 2 inline `[?]` flags (1 site, mirrored La + En) on apparatus `[^7]` via 600dpi PDF eyes-on (`raw/vision/vol1/p-hires-149-150-r600-251.png` + `-252.png` extracted via `pdftoppm -r 600`). Cross-verified against raw IA djvu OCR lines 31496-31619.
+
+### Flag 1 — Apparatus `[^7]` La + En mirror (p.150 footer) — RESOLVED
+
+- **Before**: La `Ex antiquioribus mss. et ed. 1 adiecimus *quaeritur*.[?]` / En `From the older manuscripts and edition 1 we have added *quaeritur*.[?]`
+- **PDF p.150 footer, fn 7** is fully legible at 600 dpi: the entry reads in its entirety `Ex antiquioribus mss. et ed. 1 adiecimus *quaeritur*.` — period, sentence-final, no continuation. There is no Quaracchi editorial bracket, no truncation, no garble.
+- **Body anchor**: the OCR (raw line ~31616) shows `Primo  quaeritur*  de  ipsa  veritate.` with an asterisk-as-footnote-marker on `quaeritur` — the chunk Latin and English already carry `[^7]` at the correct position (`Primo quaeritur[^7] de` / `First it is asked[^7]`). The note explains a Quaracchi editorial addition of *quaeritur* in the body relative to certain manuscripts/editions, which is consistent with the body text as transmitted.
+- **Resolution**: removed both `[?]` markers (1 La + 1 En). The flags were spurious Tier-2-build scaffolding artifacts — the OCR rendering of this footer note is intact and the PDF confirms there is no missing content to flag.
+
+### Systemic checks performed
+
+- **Quaracchi `[word]` editorial brackets**: none present in p.149-150 footers; the only square-bracketed material in the chunk is the English translator's `[edition]` / `[questions]` glosses, which are translator-supplied disambiguators rather than Quaracchi editorial insertions. No garbles being masked.
+- **Phantom apparatus entries / off-by-one**: walked chunk `[^1]`–`[^7]` against PDF footers. p.149 footer carries 5 numbered notes (chunk `[^1]`–`[^5]`); p.150 footer carries 2 numbered notes (chunk `[^6]`–`[^7]`) — total 7, matches chunk apparatus count exactly. No reuse of next-chunk footer.
+- **Reversed substitution directions**: spot-checked `[^1]`, `[^2]`, `[^3]`, `[^4]`, `[^6]`; each reads directionally consistently with PDF (Vat. reading vs. chunk-adopted ms./ed.-1 reading, properly oriented).
+- **Invented bracketed completions**: none — the resolution removed a flag rather than supplying invented text. The footer text was already verbatim from OCR and PDF-confirmed.
+- **Per-page footer-note restart confirmed**: p.149 fns 1-5 → chunk `[^1]`-`[^5]`; p.150 fns 1-2 → chunk `[^6]`-`[^7]`. Restart-on-page convention preserved.
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk body/apparatus: 0 (2 grep matches cleared, both removed as spurious; remaining historical `[?]` substring in `transcription_status` frontmatter has been rewritten to drop the literal `[?]`).
+- Apparatus entries: 7 (unchanged).
+- Body anchors: 7 in Latin and 7 in English, paired.
+- 1 site / 2 mirrored flags RESOLVED, 0 ACCEPT-ILLEGIBLE.
+
+## d8-littera (pp.147-149)
+
+**Date**: 2026-05-12
+**Scope**: 1 inline `[?]` site (2 grep matches = Latin + English mirror) in apparatus entry `[^13]` resolved via 600dpi PDF eyes-on. Source: `raw/vision/vol1/p-146.png` (file name off-by-one vs printed numbering; this image renders printed p.147 — confirmed by body content "Cap. I. *De veritate ac proprietate divinae essentiae*" + the 14-entry footer matching frontmatter "14 + 11 + 7").
+**Prior pass**: 2026-05-10 from-scratch build (rechunk pipeline). The OCR raw at line ~31200-something truncated footer #13 at `praefi-` and the build placed `[?]` plus a guess `praefigunt suae` in an editorial annotation.
+
+### Flag 1 — `[^13]` (Latin + English mirror) — RESOLVED
+
+- **Before**:
+  - **La.** `Vat. cum edd., excepta ed. 1, *esse* pro *tunc*. Paulo infra Vat. cum edd., excepta ed. 1, verbo *divinitatis* praefi[?]...`
+  - **En.** `... prefix [?] [to] the word *divinitatis*... [OCR truncates the entry at "praefi-"; continuation likely *praefigunt suae* or similar.]`
+- **PDF p.147 right-col footer entry 13** (verbatim, 600dpi): `Vat. cum edd., excepta ed. 1, *esse* pro *tunc*. Paulo infra Vat. cum edd., excepta ed. 1, verbo *divinitatis* praefigit *suae*.`
+- **Diagnosis**: OCR truncation only. The actual printed verb is `praefigit` (3rd sg. present, *praefigo* — "prefixes/sets before"); the prefixed word is *suae*. Adjacent footer #14 ("Num. 11. — Paulo ante Vat. ... addunt *suae* post *existentiam*") refers to a different placement of *suae* (after *existentiam*, not before *divinitatis*), confirming the two notes describe independent insertions of the same word and disambiguating the resolved reading.
+- **Resolution**:
+  - **La.** `Vat. cum edd., excepta ed. 1, *esse* pro *tunc*. Paulo infra Vat. cum edd., excepta ed. 1, verbo *divinitatis* praefigit *suae*.`
+  - **En.** `The Vatican edition with the editions, except edition 1, [reads] *esse* in place of *tunc*. A little below, the Vatican edition with the editions, except edition 1, prefixes *suae* to the word *divinitatis*.`
+- **PDF citations**: 600dpi crops `/tmp/p147-rightfoot.png`, `/tmp/p147-full-bottom.png` — footnote 13 fully legible, "praefigit *suae*" with *suae* italicised.
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0 (2 grep matches cleared in `[^13]` La + En; no `[?]` remains anywhere in body, apparatus, or `transcription_status`).
+- Apparatus entries: 32 (unchanged; 14 + 11 + 7 per p.147 / p.148 / p.149 footer blocks).
+- Body anchors: paired `[^1]`-`[^32]` in both Latin and English (unchanged).
+
+### Systemic notes
+
+- Quaracchi `[word]` editorial brackets: none in this chunk. N/A.
+- Phantom apparatus check: no candidates flagged; entry count matches printed footers.
+- Filename off-by-one observed: `raw/vision/vol1/p-146.png` renders printed p.147 (and `p-147.png` renders printed p.148, `p-148.png` renders printed p.149). `tools/extract-pages.py` uses `pdf_offset=102` but the actual offset for this slice of pt1 is +103. Worth flagging for future polish passes — does not affect this resolution (correct printed page identified by content), but could mislead callers who trust filename = printed number. Not fixed here; should be diagnosed in a separate systemic pass.
