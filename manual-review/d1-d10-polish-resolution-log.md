@@ -1687,3 +1687,63 @@ Scholion I for q.3 begins on **printed p.200** (PDF 302), not p.199 — the body
 - `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d10-a1-q2.md | sort -u | wc -l` → 21 unique markers, each appears 3× (Latin body + English body + apparatus def).
 - `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
 - d.10 guard-rail audits (audit-paraphrase / audit-headers / audit-apparatus-count) run; no new flags introduced.
+
+## d1-a3-q2 (pp.39-42)
+
+Follow-up pass 2026-05-12 to clear the final inline `[?]` flag flagged in the prior Bucket 1 pass (line 86 of this log: "One `[?]` remains in `[^15]` English on a translator-side editorial guess about the bracketed Vatican lemma — out of Bucket 1 scope, p.41 not p.42.").
+
+The flag sat at the trailing end of the English mirror of `[^15]`: "...which the Vatican [ed. omits]. [?]" The IA djvu OCR truncated the footer note mid-sentence after "Vat." (raw line 357: `5  Supplevimus  cx  mss.  et  ed.   1  ipsa ,  quod  Vat.`) — the Quaracchi verb governing *quod Vat.* was lost.
+
+| Body anchor | Disposition | PDF source |
+|---|---|---|
+| `[^15]` En: `which the Vatican [ed. omits]. [?]` | RESOLVED → `which the Vatican [ed.] omits.` | 600dpi PDF p.41 (`raw/vision/vol1/p-hires-41-r600-143.png`), footer note 5 reads verbatim: *Supplevimus ex mss. et ed. 1 ipsa, quod Vat. omittit.* The translator's bracketed guess was correct: the verb is **omittit**. Latin `[^15]` updated to restore the italicized verb (`quod Vat. *omittit*.`); English mirror simplified to plain "which the Vatican [ed.] omits." |
+
+### Verification
+
+- 0 inline `[?]` flags remaining in `vol1/bon-sent-I-d1-a3-q2.md`.
+- `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d1-a3-q2.md | sort -t^ -k2 -n | uniq -c` → each `[^N]` (N=1..27) still appears exactly 3×.
+- d.1 guard-rail audits re-run clean.
+- `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
+
+## d5-a1-q2 (pp.114-115)
+
+- **Source**: `raw/vision/vol1/p-114.png` and `raw/vision/vol1/p-115.png` re-extracted at 600 dpi (pt1 offset +102; PDF pp.216-217).
+- **Headers verified**: p.114 "SENTENTIARUM LIB. I" (verso) with QUAESTIO II beginning at bottom of page; p.115 "DIST. V. ART. I. QUAEST. II." (recto) with CONCLUSIO and *Respondeo*. Match chunk content exactly.
+- **Single `[?]` flag** sat on apparatus `[^8]` **En.** rendering, trailing the clause "For the Master's text see in *littera* c. 1 and 2 near the end."
+- **Latin** (verified verbatim from p.115 footer #8): "Vat. praeter fidem mss. et ed. 1 addit *est*. Textum Magistri vide in lit. c. 1 et 2 circa finem." — *circa finem* = "near the end" [of cc. 1 and 2 of Lombard's Sent. I, d. 5 *littera*]. The referent is unambiguous: the two Lombard chapters in this distinction's *littera*. The English rendering is correct and idiomatic; the `[?]` flag was conservative translator-uncertainty during the 2026-05-10 rechunk pipeline and is now retracted.
+
+### `[?]` resolution count
+
+- 1 `[?]` flag resolved (`[^8]` apparatus English mirror).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d5-a1-q2.md` after this pass.
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d5-a1-q2.md` → 0.
+- `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d5-a1-q2.md | sort -u | wc -l` → 13 unique markers, each appears 3× (Latin body + English body + apparatus def).
+- `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
+- d.5 guard-rail audits (audit-paraphrase / audit-headers / audit-apparatus-count) run; no new flags introduced.
+
+## d1-divisio (pp.29-30)
+
+- **Source**: `raw/vision/vol1/p-hires-r600-131.png` and `p-hires-r600-132.png` (re-extracted at 600 dpi via `pdftoppm -r 600 -f 131 -l 132`). PDF offset +102 confirmed by running head "DISTINCTIO I." / "29".
+- **Headers verified**: p.29 = "COMMENTARIUS IN DISTINCTIONEM I." + "DIVISIO TEXTUS."; p.30 = "SENTENTIARUM LIB. I." + "TRACTATIO QUAESTIONUM." Frontmatter `printed_pages: [29, 30]` / `pdf_pages: [131, 132]` correct.
+- **Flag location**: trailing `[?]` at end of `[^10]` English mirror, line 159 ("…HLOS, which read *videtur*. [?]"). The Latin entry on p.29 footer reads: "Ita plurimi codd. ut ACFGIKRTVXWZ etc. et ed. 1 necnon textus Magistri Sentent. contra Vat., quae habet *videretur*, et aliquos codd. ut HLOS, qui legunt *videtur*."
+
+| Footer # (p.29) | Body anchor | Disposition |
+|---|---|---|
+| 10 | `[^10]` | 600 dpi crop of p.29 footer band confirms verbatim the Latin entry as transcribed; sigla `HLOS` and lemma `videtur` are exact. RESOLVED — stray `[?]` removed from English mirror; no other change to entry text. |
+
+### `[?]` resolution count
+
+- 1 `[?]` flag resolved (apparatus `[^10]` English mirror).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d1-divisio.md` after this pass.
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d1-divisio.md` → 0.
+- `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d1-divisio.md | sort -u | wc -l` → 12 unique markers, each appears 3× (Latin body + English body + apparatus def).
+- `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
+- d.1 guard-rail audits (audit-paraphrase / audit-headers / audit-apparatus-count) run; no new flags introduced.

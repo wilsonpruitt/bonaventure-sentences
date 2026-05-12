@@ -15,7 +15,7 @@ has_scholion: true
 has_apparatus: true
 line_start: 14821
 line_end: 15259
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 14821-15259), fresh literal English translation, full apparatus from raw OCR (24 entries from p.39-42 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.42 footer band rendered from 600dpi PDF eyes-on (raw/vision/vol1/p-042.png); recovered 3 entries; resolved/accepted 3 [?] flags"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 14821-15259), fresh literal English translation, full apparatus from raw OCR (24 entries from p.39-42 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.42 footer band rendered from 600dpi PDF eyes-on (raw/vision/vol1/p-042.png); recovered 3 entries; resolved/accepted 3 [?] flags; 2026-05-12 d.1-d.10 polish pass — resolved final [?] flag on [^15] via 600dpi p.41 eyes-on (raw/vision/vol1/p-hires-41-r600-143.png): Vat. verb is *omittit*"
 format_version: 1
 ---
 
@@ -232,9 +232,9 @@ As to the principal question, see the authors in the preceding Scholion.
 
     **En.** From the older manuscripts and ed. 1 we have substituted *concurrit* (concurs) in place of *concernitur* (is concerned) and a little after we have corrected the mistake of the Vatican [ed.], which together with the more recent cod. cc has *delectat* for *delectatur*. — Cfr. above, a. 3. q. 1. arg. 1. ad opp.
 
-[^15]: **La.** Supplevimus ex mss. et ed. 1 *ipsa*, quod Vat. [omittit].
+[^15]: **La.** Supplevimus ex mss. et ed. 1 *ipsa*, quod Vat. *omittit*.
 
-    **En.** We have supplied from the manuscripts and ed. 1 the word *ipsa* (itself), which the Vatican [ed. omits]. [?]
+    **En.** We have supplied from the manuscripts and ed. 1 the word *ipsa* (itself), which the Vatican [ed.] omits.
 
 [^16]: **La.** Cod. W *per*.
 

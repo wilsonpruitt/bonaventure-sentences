@@ -15,7 +15,7 @@ line_end: 26511
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 114–115"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26256-26511), fresh literal English translation, full apparatus from raw OCR (13 entries from p.114-115 footer blocks plus p.116 footer entries 1-3 merged into next chunk's footer block in OCR), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 26256-26511), fresh literal English translation, full apparatus from raw OCR (13 entries from p.114-115 footer blocks plus p.116 footer entries 1-3 merged into next chunk's footer block in OCR), scholion translated, all [?] flags resolved via 600dpi PDF eyes-on (2026-05-12 d.1-d.10 polish pass)"
 format_version: 1
 ---
 
@@ -178,7 +178,7 @@ A fuller exposition and application of this solution is given by Alexander of Ha
     **En.** The Vatican ed., against the mss. and ed. 1, reads *similiter accipitur* ("is similarly taken").
 
 [^8]: **La.** Vat. praeter fidem mss. et ed. 1 addit *est*. Textum Magistri vide in lit. c. 1 et 2 circa finem.
-    **En.** The Vatican ed., contrary to the testimony of the mss. and ed. 1, adds *est*. For the Master's text see in *littera* c. 1 and 2 near the end. [?]
+    **En.** The Vatican ed., contrary to the testimony of the mss. and ed. 1, adds *est*. For the Master's text see in *littera* c. 1 and 2 near the end.
 
 [^9]: **La.** Aliqui codd. ut T V addunt *est*.
     **En.** Some codd. (T V) add *est*.

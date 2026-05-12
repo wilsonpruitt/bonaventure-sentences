@@ -11,7 +11,7 @@ pdf_pages: [131, 132]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 29–30"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 13224-13377), fresh literal English translation, apparatus from raw OCR (12 entries from p.29-30 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 13224-13377), fresh literal English translation, apparatus from raw OCR (12 entries from p.29-30 footer blocks); [?] flag in [^10] English mirror resolved 2026-05-12 via 600dpi PDF p.29 eyes-on (HLOS / videtur confirmed) (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
 line_start: 13224
 line_end: 13377
 format_version: 1
@@ -156,7 +156,7 @@ First it is asked, what is *to use* by essence.
 
 [^10]: **La.** Ita plurimi codd. ut ACFGIKRTVXWZ etc. et ed. 1 necnon textus Magistri Sentent. contra Vat., quae habet *videretur*, et aliquos codd. ut HLOS, qui legunt *videtur*.
 
-    **En.** Thus the great majority of codices such as ACFGIKRTVXWZ etc. and edition 1 as well as the text of the Master of the Sentences against the Vatican edition, which has *videretur*, and against some codices such as HLOS, which read *videtur*. [?]
+    **En.** Thus the great majority of codices such as ACFGIKRTVXWZ etc. and edition 1 as well as the text of the Master of the Sentences against the Vatican edition, which has *videretur*, and against some codices such as HLOS, which read *videtur*.
 
 [^11]: **La.** Ex antiquioribus mss. et ed. 1 supplevimus *quarum*, sicuti et paulo infra post *fruatur* substituimus *vel* pro *et*.
 
