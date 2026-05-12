@@ -13,7 +13,7 @@ pdf_pages: [204, 205]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 102–103"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 24414–24625), Sed-contra args 1-2 restored from raw (Pronomen refert rem… / Item quia iste terminus homo proprie supponit pro individuo…), Respondeo two-opinion-plus-melius-est-dicere structure restored, fresh literal English, full apparatus from raw OCR (9 entries traceable to Q.IV anchors: 4 p.102 footers + 5 p.103 footers), Scholion III added (cross-refs to Bonav d.29, Alex Hal, B. Albert, Petr a Tar, Richard a Med, Henr Gand, Dionys Carth, Biel), [?] flags for OCR-garbled apparatus 2 and Scholion II OCR fragments (2026-05-11). NOTE: task brief specified 13 entries citing p.102 footers 3-6 (Ex-plurimis-sequuntur, Priscian-XVII.1, Vat-potest, Supplevimus-cum) as missing from Q.IV; analysis of OCR body anchors shows those 4 footers carry anchors in Q.III's response section that prints on p.102 (sequuntur L24352, intellectum/Posset L24369-73, cum L24383), not Q.IV — they are Q.III apparatus-incomplete and tracked separately. See manual-review/tier2-ambiguities-d4-a1-q4.md for full disposition."
+transcription_status: "Phase C Tier 2 complete — Latin body re-set verbatim from IA djvu OCR (raw lines 24414–24625), Sed-contra args 1-2 restored from raw (Pronomen refert rem… / Item quia iste terminus homo proprie supponit pro individuo…), Respondeo two-opinion-plus-melius-est-dicere structure restored, fresh literal English, full apparatus from raw OCR (9 entries traceable to Q.IV anchors: 4 p.102 footers + 5 p.103 footers), Scholion III added (cross-refs to Bonav d.29, Alex Hal, B. Albert, Petr a Tar, Richard a Med, Henr Gand, Dionys Carth, Biel), [?] flag at apparatus [^2] resolved 2026-05-12 via 600dpi PDF eyes-on (PDF 204, printed p.102 footer 2: *Vat. praeter fidem mss. et ed. 1 minus apte sic «nec nomen Dei»*); Scholion II OCR-fragment flag accepted (body readable, no inline [?] required) (2026-05-11; flag resolution 2026-05-12). NOTE: task brief specified 13 entries citing p.102 footers 3-6 (Ex-plurimis-sequuntur, Priscian-XVII.1, Vat-potest, Supplevimus-cum) as missing from Q.IV; analysis of OCR body anchors shows those 4 footers carry anchors in Q.III's response section that prints on p.102 (sequuntur L24352, intellectum/Posset L24369-73, cum L24383), not Q.IV — they are Q.III apparatus-incomplete and tracked separately. See manual-review/tier2-ambiguities-d4-a1-q4.md for full disposition."
 line_start: 24414
 line_end: 24625
 format_version: 1
@@ -132,9 +132,9 @@ But it is better to say both[^8] — because it has the nature both of a common 
 
     **En.** Verse 8 [of Psalm 66].
 
-[^2]: **La.** Vat. praeter fidem mss. [...] nomen Dei.[?]
+[^2]: **La.** Vat. praeter fidem mss. et ed. 1 minus apte sic *nec nomen Dei*.
 
-    **En.** The Vatican ed., against the faith of the mss. [reads ...] *nomen Dei*.[?] (OCR fragmentary at L24444–24445; the middle of the note is illegible in the djvu OCR — full text to be recovered from 600dpi PDF at printed p. 102 footer.)
+    **En.** The Vatican ed., against the faith of the mss. and ed. 1, [reads] less aptly thus: *nec nomen Dei*.
 
 [^3]: **La.** Psalm. 66, 7. 8. — Verba, quae hic a S. Doctore attribuuntur S. Ambrosio, eidem etiam a Magistro supra d. II, c. 4 adscribuntur. Vide p. 48 nota 8. — In ipsis verbis Vat. praeter fidem mss. et ed. 1 *professio* loco *confessio*.
 

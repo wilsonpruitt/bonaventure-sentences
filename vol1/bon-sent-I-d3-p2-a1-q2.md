@@ -14,7 +14,7 @@ pdf_pages: [184, 185, 186]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 82–84"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 21368-21663), fresh literal English translation, full apparatus from raw OCR (24 entries from p.82-84 footer blocks; p.84 footer recovered via 700dpi PDF since OCR truncated it), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF verification — p.84 footer entries confirmed against 600dpi PDF eyes-on (raw/vision/vol1/p-084.png); 1 correction ([^22] Augustine-de-Trin book references X.11-12/XIV.8.12 had been swapped → corrected to PDF reading), 0 [?] flags resolved in scope (2 vestigial [?] in [^3]/[^9] English left untouched — out of p.84 scope, Latin source unambiguous)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 21368-21663), fresh literal English translation, full apparatus from raw OCR (24 entries from p.82-84 footer blocks; p.84 footer recovered via 700dpi PDF since OCR truncated it), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF verification — p.84 footer entries confirmed against 600dpi PDF eyes-on (raw/vision/vol1/p-084.png); 1 correction ([^22] Augustine-de-Trin book references X.11-12/XIV.8.12 had been swapped → corrected to PDF reading), 0 [?] flags resolved in scope (2 vestigial [?] in [^3]/[^9] English left untouched — out of p.84 scope, Latin source unambiguous); 2026-05-12 d.1-d.10 polish pass — pp.82-84 600dpi PDF eyes-on (raw/vision/vol1/p-hires-082-r600-184.png), printed-page headers verified (82/83/84), the 2 vestigial [?] in [^3] and [^9] English resolved (Latin footer entries match chunk exactly: p.82 footer #2 = [^3], p.82 footer #9 = [^9]; flags were translator-uncertainty markers with no Latin-source ambiguity, removed)"
 line_start: 21368
 line_end: 21663
 format_version: 1
@@ -169,7 +169,7 @@ according as the mind knows and loves itself; the second is in memory, intellige
 
 [^3]: **La.** Vat. contra mss. et ed. 1 prima. Cod. R *quia enim in Filio proprie est imago*. Mox codd. P Q *cognita* loco *cognoscendi*.
 
-     **En.** The Vatican edition [reads thus] against the manuscripts and the first edition. Codex R [reads]: *for in the Son properly is the image*. Soon after, codices P and Q [read] *cognita* in place of *cognoscendi*. [?]
+     **En.** The Vatican edition [reads thus] against the manuscripts and the first edition. Codex R [reads]: *for in the Son properly is the image*. Soon after, codices P and Q [read] *cognita* in place of *cognoscendi*.
 
 [^4]: **La.** Cap. 8. n. 11; vide hic in lit. Magistri, cap. 2.
 
@@ -193,7 +193,7 @@ according as the mind knows and loves itself; the second is in memory, intellige
 
 [^9]: **La.** Cfr. supra d. 1. a. 1. q. 1.
 
-     **En.** Cf. above d. 1, a. 1, q. 1. [?]
+     **En.** Cf. above d. 1, a. 1, q. 1.
 
 [^10]: **La.** Ita ms. cum ed. 1, licet aliqui loco *quia* minus bene habeant *quod*, sed Vat.: *De isto est oppositio, quo modo sic.*
 

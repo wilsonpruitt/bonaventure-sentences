@@ -14,7 +14,7 @@ pdf_pages: [182, 183, 184]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 80–82"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 21035-21367), fresh literal English translation, full apparatus from raw OCR (25 entries from p.80-82 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 21035-21367), fresh literal English translation, full apparatus from raw OCR (25 entries from p.80-82 footer blocks), scholion translated; 2 [?] flags ([^4] p.80, [^20] p.82) resolved via 600dpi PDF eyes-on 2026-05-12 (d.1-d.10 polish pass)"
 line_start: 21035
 line_end: 21367
 format_version: 1
@@ -171,7 +171,7 @@ That threefold distinction of memory (in solut. ad 3.) is also found in Alexande
 
 [^4]: **La.** Libr. XIV. *de Trin.* c. 8. n. 11. Vide supra d. III. in lit. Magistri, c. 2. circa initium. — Paulo infra post *praesens* ope mss. posuimus *ad* loco *apud*.
 
-     **En.** Book XIV *On the Trinity*, c. 8, n. 11. See above d. III. in the letter of the Master, c. 2, near the beginning. — A little below, after *praesens*, with the help of the manuscripts we have placed *ad* in place of *apud*. [?]
+     **En.** Book XIV *On the Trinity*, c. 8, n. 11. See above d. III. in the letter of the Master, c. 2, near the beginning. — A little below, after *praesens*, with the help of the manuscripts we have placed *ad* in place of *apud*.
 
 [^5]: **La.** Plures codd. ut ABIPQTX etc. hic repetunt *est*.
 
@@ -233,9 +233,9 @@ That threefold distinction of memory (in solut. ad 3.) is also found in Alexande
 
      **En.** The Vatican edition [reads] *formationis*, but the authority of the manuscripts and ed. 1 stands against it, which also shortly after omit *reformatio*, which however for the sake of clarity we have not expunged. See more below in the Scholion on this question.
 
-[^20]: **La.** Fide [vid. *Vide*] mss. restituimus particulam *et*.
+[^20]: **La.** Fide mss. restituimus particulam *et*.
 
-     **En.** With the manuscripts we have restored the particle *et*. [?]
+     **En.** On the testimony of the manuscripts we have restored the particle *et*.
 
 [^21]: **La.** Vat. contra mss. et ed. 1 *prima*. Cod. R *quia enim in Filio proprie est imago*. Mox codd. P Q *cognitiva* loco *cognoscendi*.
 

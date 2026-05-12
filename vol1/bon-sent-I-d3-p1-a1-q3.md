@@ -16,7 +16,7 @@ has_scholion: true
 has_apparatus: true
 line_start: 20074
 line_end: 20301
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 20075-20301), fresh literal English translation, full apparatus from raw OCR (14 entries from p.74 footer fns 1-11 + p.75 footer fns 1-3), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 20075-20301), fresh literal English translation, full apparatus from raw OCR (14 entries from p.74 footer fns 1-11 + p.75 footer fns 1-3), scholion translated; [?] flags on apparatus [^8] Augustine citation resolved via 600dpi PDF p.74 eyes-on (n. 1 → n. 4) (2026-05-10 rechunk; 2026-05-12 polish pass)"
 format_version: 1
 ---
 
@@ -178,9 +178,9 @@ Concerning the twofold medium, namely efficient and disposing (in the solution a
 
     **En.** Codices L O read *creaturam*. Shortly after, codex W, following *quidem*, adds *cognoscere*; but ed. 1, following *est*, adds *viatorum et comprehensorum*.
 
-[^8]: **La.** Libr. 22. c. 30. n. 1[?]: *Vacabimus in aeternum, videntes quia ipse est Deus, quo pleni erimus, quando ipse erit omnia in omnibus.* — In quo textu plures mss. ut A I T etc. cum ed. 1 *quomodo* pro *quando*.
+[^8]: **La.** Libr. 22. c. 30. n. 4: *Vacabimus in aeternum, videntes quia ipse est Deus, quo pleni erimus, quando ipse erit omnia in omnibus.* — In quo textu plures mss. ut A I T etc. cum ed. 1 *quomodo* pro *quando*.
 
-    **En.** Book 22, c. 30, n. 1[?]: *We shall be at rest forever, seeing that he himself is God, with whom we shall be filled, when he himself shall be all in all.* — In which text several manuscripts, such as A I T etc., with ed. 1, [read] *quomodo* [how] in place of *quando* [when].
+    **En.** Book 22, c. 30, n. 4: *We shall be at rest forever, seeing that he himself is God, with whom we shall be filled, when he himself shall be all in all.* — In which text several manuscripts, such as A I T etc., with ed. 1, [read] *quomodo* [how] in place of *quando* [when].
 
 [^9]: **La.** Libr. V. de Consid. c. 1.
 

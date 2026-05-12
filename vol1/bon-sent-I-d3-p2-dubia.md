@@ -12,7 +12,7 @@ pdf_pages: [195, 196]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 93–94"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23056-23296), fresh literal English translation, full apparatus from raw OCR (23 entries from p.93-94 footer blocks: 8+15), 6 DUB present, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23056-23296), fresh literal English translation, full apparatus from raw OCR (23 entries from p.93-94 footer blocks: 8+15), 6 DUB present, all flags resolved via 600dpi PDF eyes-on (2026-05-12 d.1-d.10 polish pass)"
 line_start: 23056
 line_end: 23296
 format_version: 1
@@ -54,7 +54,7 @@ Item quaeritur de hoc quod dicit, quod tres personae non sunt *unius Dei*; quia 
 
 ### Dub. IV.
 
-Item quaeritur de hoc quod dicit, quod ex maxima parte est dissimilis. Videtur[?] quod[?] imago est similitudo expressa: ergo si maxime est dissimilis, non est imago.
+Item quaeritur de hoc quod dicit, quod ex maxima parte est dissimilis. Videtur quod imago est similitudo expressa: ergo si maxime est dissimilis, non est imago.
 
 **Respondeo:** Dicendum, quod est expressio[^17] simpliciter, vel in genere. Si ergo loquamur de expressione simpliciter, sic dico, quod anima rationalis non est valde similis Deo; si autem loquamur in genere creaturae, quia tantum accedit[^18], quantum potest natura creata, sic dicitur valde similis et expressa similitudo Dei.
 
@@ -102,7 +102,7 @@ Likewise it is asked about what he says, that the three persons are not *of one 
 
 ### Dub. IV.
 
-Likewise it is asked about what he says, that for the greatest part it is unlike. It seems[?] that[?] the image is an expressed likeness: therefore if it is most unlike, it is not an image.
+Likewise it is asked about what he says, that for the greatest part it is unlike. It seems that the image is an expressed likeness: therefore if it is most unlike, it is not an image.
 
 **Respondeo:** It must be said that there is expression[^17] simply, or in [its proper] genus. If therefore we speak of expression simply, then I say that the rational soul is not greatly like God; but if we speak in the genus of creature, since it approaches[^18] as much as a created nature can, in this way it is called greatly like and an expressed likeness of God.
 

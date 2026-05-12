@@ -1380,3 +1380,166 @@ Collateral fix: `[^23]` English rendering said Vat. "[adds]" the variant phrase,
 - `grep -n '\[?\]' vol1/bon-sent-I-d6-littera.md` → no body/apparatus matches.
 - `cd site && node scripts/build-content.mjs` parses cleanly; chunk count 414.
 - d.6-scoped guard-rail audits (`audit-paraphrase.py`, `audit-headers.py`, `audit-apparatus-count.py`) run clean against the edited chunk.
+
+## d3-p2-dubia (pp.93-94)
+
+- **Date**: 2026-05-12
+- **Scope**: 2 inline `[?]` flags (Dub. IV opening, Latin "Videtur[?] quod[?]" + English mirror "It seems[?] that[?]") resolved via 600dpi PDF eyes-on. Source: `raw/vision/vol1/p-hires-d3p2dubia-r600-{195,196}.png` (printed pp.93/94; pt1 offset +102 confirmed).
+- **Page-header verification**: PDF 195 shows printed `93` top-right + running head `DIST. III. P. II. ART. II. QUAEST. III.` (Dub. I begins bottom of right column); PDF 196 shows `94 SENTENTIARUM LIB. I.` Offset +102 holds.
+
+### Flags 1-2 — Dub. IV opening (Latin + English mirror) — RESOLVED
+
+- **Before** (Latin): `Videtur[?] quod[?] imago est similitudo expressa...`
+- **Before** (English): `It seems[?] that[?] the image is an expressed likeness...`
+- **PDF p.94 left col, Dub. IV** verbatim at 600dpi: `Item quaeritur de hoc quod dicit, quod *ex maxima parte est dissimilis*. Videtur quod imago est similitudo expressa: ergo si maxime est dissimilis, non est imago.` — complete sentence, no garble, no editorial bracket, "Videtur quod" prints cleanly.
+- **Diagnosis**: Spurious build-time scaffolding flags. The rechunk pipeline (2026-05-10) inserted `[?]` after every word of the Dub. IV opener as a hedge while uncertain whether the phrase was a fragment; PDF read confirms the OCR rendering matches print exactly.
+- **Resolution**: Removed all 4 `[?]` markers (2 Latin + 2 English mirror). No edit to substantive content.
+
+### Systemic checks performed
+
+- **Page-header verification**: pt1 offset +102 holds for this chunk (PDF 195 = printed 93; PDF 196 = printed 94). No +103 anomaly.
+- **Quaracchi `[word]` editorial brackets**: none present in p.93-94 footers beyond translator's English glosses (`[understood]`, `[the term]`, `[it is called]`, `[premise]`, `[reads]`, etc.). No garbles being masked.
+- **Phantom apparatus / off-by-one**: chunk carries 23 apparatus entries matching p.93 (8) + p.94 (15) footer blocks per status string.
+- **Other `[?]` sites**: `grep -n '\[?\]'` on the chunk after resolution returns 0 hits.
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0 (4 grep matches cleared).
+- Apparatus entries: 23 (unchanged).
+- Body anchors: paired `[^1]`-`[^23]` in both Latin and English (unchanged).
+- 2 sites / 4 mirrored flags RESOLVED, 0 ACCEPT-ILLEGIBLE.
+
+### Verification
+
+- `grep -n '\[?\]' vol1/bon-sent-I-d3-p2-dubia.md` → no matches.
+- `cd site && node scripts/build-content.mjs` parses cleanly; chunk count 414.
+- d.3-scoped guard-rail audits (`audit-paraphrase.py`, `audit-headers.py`, `audit-apparatus-count.py`) run clean against the edited chunk.
+
+## d3-p1-a1-q3 (pp.73-75)
+
+Pass date: **2026-05-12**.
+PDF source: `raw/doctorisseraphic11bona.pdf` (pt1) p.74 (PDF p.176), 600 dpi.
+Pt1 PDF offset: `pdf_page = printed_page + 102`.
+
+### Resolved via 600dpi PDF eyes-on (2 flags)
+
+- **d.3-p1-a1-q3 [^8] Augustine *De Civitate Dei* citation (Latin line 181 / English line 183)**: `Libr. 22. c. 30. n. 1[?]` and `Book 22, c. 30, n. 1[?]` — IA djvu OCR raw line 20208 reads `8 Libr. 22. c. 30. n. i :` (the glyph after `n.` is a garbled lower-case `i`, ambiguous). 600 dpi crop of p.74 bottom-left footnote 8 shows the printed number is **`4`** (`Libr. 22. c. 30. n. 4 : Vacabimus in aeternum, videntes quia ipse est Deus...`). Standard Augustine citation; *De Civ. Dei* XXII.30 is the long "eternal rest" chapter and §4 begins `Vacabimus`. Corrected both Latin and English to `n. 4` and removed `[?]` flags.
+
+### Verification
+
+- `grep -n '\[?\]' vol1/bon-sent-I-d3-p1-a1-q3.md` → no body/apparatus matches.
+- `cd site && node scripts/build-content.mjs` parses cleanly; chunk count 414.
+- d.3-scoped guard-rail audits (`audit-paraphrase.py`, `audit-headers.py`, `audit-apparatus-count.py`) run clean against the edited chunk.
+
+## d4-a1-q4 (pp.102-103)
+
+- **Source**: `raw/vision/vol1/p-hires-PRINTED-r600-204.png` (printed p.102) and `p-hires-PRINTED-r600-205.png` (printed p.103), both extracted 2026-05-12 at 600 dpi. Page-header verification: PDF 204 shows printed `102` top-left; PDF 205 shows printed `103` top-right. Offset +102 holds.
+- **Flag site**: `[^2]` La + En mirror (apparatus entry, p.102 left-column footer #2).
+- **Before**:
+  - **La.** `Vat. praeter fidem mss. [...] nomen Dei.[?]`
+  - **En.** `The Vatican ed., against the faith of the mss. [reads ...] *nomen Dei*.[?]` (OCR fragmentary at L24444–24445)
+- **PDF p.102 footer entry 2**, verbatim at 600dpi reads: `² Vat. praeter fidem mss. et ed. 1 minus apte sic *nec nomen Dei*.`
+- **Diagnosis**: IA djvu OCR dropped the middle clause `et ed. 1 minus apte sic` between `mss.` and `nec`, leaving an ellipsis that the rebuild flagged. The recovered text is a short editorial note that the Vatican edition reads *«nec nomen Dei»* (negated) less aptly than the manuscripts + ed. 1, which omit the *nec*.
+- **Resolution**: Replaced both `[?]` markers. La now reads `Vat. praeter fidem mss. et ed. 1 minus apte sic *nec nomen Dei*.`; En now reads `The Vatican ed., against the faith of the mss. and ed. 1, [reads] less aptly thus: *nec nomen Dei*.`
+
+### Scholion II OCR-fragment flag — ACCEPT (no inline [?] in chunk)
+
+Per the per-chunk ambiguity log (`manual-review/tier2-ambiguities-d4-a1-q4.md`), Scholion II opening words suffered the usual scholion-header OCR breakup at the rebuild. The note was logged as LOW / defer because the body is rendered readable and no inline `[?]` was placed. Confirmed 2026-05-12: chunk carries no `[?]` flag inside Scholion II text. ACCEPT as-is; no PDF transcription required for Tier-2 completeness.
+
+### Systemic checks performed
+
+- **Page-header verification**: 600dpi extractions of PDF 204/205 show printed page numbers 102/103. Pt1 offset +102 holds for this chunk.
+- **Quaracchi `[word]` editorial brackets**: present only as translator's English glosses in apparatus En lines (`[reads]`, `[of Psalm 66]`, etc.); no Latin-side garbles being masked.
+- **Apparatus count**: chunk carries 9 apparatus entries (4 p.102 footers traceable to Q.IV body anchors + 5 p.103 footers). Diff vs raw-OCR heuristic (16) explained by Q.III footer anchors printing on p.102 — tracked as separate d4-a1-q3 apparatus-incomplete backlog item per `manual-review/tier2-ambiguities-d4-a1-q4.md`.
+- **Other `[?]` sites**: `grep -n '\[?\]' vol1/bon-sent-I-d4-a1-q4.md` after resolution returns 0 hits in body/apparatus; literal `[?]` substring in `transcription_status` rewritten to document the resolution.
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0 (2 grep matches cleared; both in `[^2]` La + En).
+- Apparatus entries: 9 (unchanged).
+- Body anchors: paired `[^1]`-`[^9]` in both Latin and English (unchanged).
+- 1 site / 2 mirrored flags RESOLVED, 1 flag ACCEPT (Scholion II OCR-fragment, no inline marker present).
+
+### Verification
+
+- `grep -n '\[?\]' vol1/bon-sent-I-d4-a1-q4.md` → no body/apparatus matches.
+- `cd site && node scripts/build-content.mjs` parses cleanly; chunk count 414.
+- d.4-scoped guard-rail audits (`audit-paraphrase.py`, `audit-headers.py`, `audit-apparatus-count.py`) run clean against the edited chunk.
+
+## d3-p2-a1-q2 (pp.82-84)
+
+- **Source**: `raw/vision/vol1/p-hires-082-r600-184.png` (PDF pp. 184–186 = printed pp. 82–84, 600 dpi). Printed-page headers verified in image: top of column reads "82" on p.184. Pt1 offset +102 confirmed.
+- **Scope**: 2 vestigial `[?]` flags in apparatus `[^3]` English and `[^9]` English, deferred from the 2026-05-10 Bucket-1 p.84-scope pass and explicitly tracked at log line 183 as "translator-uncertainty about English style, not a Latin-source flag".
+- **Disposition**: both RESOLVED. p.82 footer eyes-on at 600 dpi confirms both apparatus entries match the chunk's Latin text exactly:
+  - p.82 footer #2 → `[^3]`: "Vat. contra mss. et ed. 1 prima. Cod. R *quia enim in Filio proprie est imago*. Mox codd. P Q *cognita* loco *cognoscendi*." — chunk matches verbatim.
+  - p.82 footer #9 → `[^9]`: "Cfr. supra d. 1. a. 1. q. 1." — chunk matches verbatim.
+- Both English renderings are accurate literal mirrors of the unambiguous Latin; the `[?]` markers carried no real ambiguity and have been removed from the English side of both entries.
+- No Latin-body or English-body edits required beyond removing the two trailing `[?]` glyphs from the apparatus English lines.
+
+### `[?]` resolution count
+
+- 2 `[?]` flags resolved (apparatus `[^3]` English, apparatus `[^9]` English).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d3-p2-a1-q2.md` after this pass.
+
+### Verification
+
+- `grep -n '\[?\]' vol1/bon-sent-I-d3-p2-a1-q2.md` → no matches.
+- `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d3-p2-a1-q2.md | sort -u | wc -l` → 24 unique markers (`[^1]`–`[^24]`); each appears 3× (Latin body, English body, apparatus def).
+- `cd site && node scripts/build-content.mjs` parses cleanly; chunk count 414.
+- d.3-scoped guard-rail audits (`audit-paraphrase.py`, `audit-headers.py`, `audit-apparatus-count.py`) run clean against the edited chunk.
+
+## d3-divisio (pp.66-67)
+
+- **Source**: `raw/vision/vol1/p-hires-PRINTED-r600-168.png` (printed p.66) and `p-hires-PRINTED-r600-169.png` (printed p.67), both extracted 2026-05-12 at 600 dpi. Page-header verification: PDF 168 shows printed `66` top-left header; PDF 169 shows printed `67` top-right header. Pt1 offset +102 holds.
+- **Flag site**: `[^3]` La + En mirror (apparatus entry on printed p.66, main footer #2; long Fulgentius variant note).
+- **Before**:
+  - **La.** `... In fine textus St[?] *fuissent quoque naturae* pro *fuissent naturarum quoque.*`
+  - **En.** `... At the end of the text St[?] [reads] *fuissent quoque naturae* in place of *fuissent naturarum quoque.*`
+- **PDF p.66 left-col footer entry 2** (the long Fulgentius note), verbatim at 600dpi: `... duplicem suppositionem et argumentationem confundit. In fine te-/xtus Vat. *fuissent quoque naturae* pro *fuissent naturarum quoque.*`
+- **Diagnosis**: IA djvu OCR rendered the line break `te-/xtus Vat.` as `te-/xtm\3t.` (line 18941), corrupting `Vat.` (the Vatican edition siglum, used throughout Quaracchi's apparatus) into the garbled token preserved as `St[?]` by the rechunk pipeline. The flag was placed exactly on the lost siglum.
+- **Resolution**: Replaced `St[?]` with `Vat.` in Latin; rewrote the English mirror to read "the Vatican edition" (matches the established English convention used in `[^8]`, `[^9]`, `[^11]`, `[^12]`, `[^13]` of this same chunk).
+
+### Systemic checks performed
+
+- **Page-header verification**: 600dpi extractions of PDF 168/169 show printed page numbers 66/67. Pt1 offset +102 holds for this chunk.
+- **`Vat.` siglum consistency check**: chunk uses "the Vatican edition" in English for `Vat.` in 5 other apparatus entries. `[^3]` now follows the same convention.
+- **Quaracchi `[word]` editorial brackets / other garbles**: no further OCR garbles in p.66-67 footers beyond the `te-/xtm\3t.` resolved here.
+- **Apparatus count**: chunk carries 13 apparatus entries (main p.66 footers 1-4 + NOTAE p.66 entries 1-7 + p.67 footers + NOTAE), unchanged.
+- **Other `[?]` sites**: `grep -n '\[?\]'` on the chunk after resolution returns 0 hits in body or apparatus.
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk body/apparatus: 0 (2 grep matches cleared; both in `[^3]` La + En).
+- Apparatus entries: 13 (unchanged).
+- Body anchors: paired `[^1]`-`[^13]` in both Latin and English (unchanged).
+- 1 site / 2 mirrored flags RESOLVED, 0 ACCEPT-ILLEGIBLE.
+
+### Verification
+
+- `grep -n '\[?\]' vol1/bon-sent-I-d3-divisio.md` → no body/apparatus matches.
+- `cd site && node scripts/build-content.mjs` parses cleanly; chunk count 414.
+- d.3-scoped guard-rail audits (`audit-paraphrase.py`, `audit-headers.py`, `audit-apparatus-count.py`) run clean against the edited chunk.
+
+## d3-p2-a1-q1 (pp.80-82)
+
+- **Source**: `raw/vision/vol1/p-hires-d3p2a1q1-{182,183,184}.png` (600 dpi extracts of PDF pp. 182–184 = printed pp. 80–82; pt1 offset +102).
+- 2 inline `[?]` flags, both on English side of apparatus entries; Latin OCR/transcription matched the printed page in both cases.
+
+| Flag | Location | Disposition |
+|---|---|---|
+| `[^4]` (p.80 footer #4) | English mirror of `Paulo infra post praesens ope mss. posuimus ad loco apud.` | RESOLVED. 600dpi crop `/tmp/p182-foot.png` confirms printed Latin exactly. English "with the help of the manuscripts we have placed *ad* in place of *apud*" is accurate; flag removed. |
+| `[^20]` (p.82 footer #1) | Latin `Fide [vid. *Vide*] mss. restituimus particulam *et*.` + English mirror | RESOLVED. 600dpi crop `/tmp/p184-foot2.png` shows printed reading is unambiguously **Fide** (tall-F, no question of *Vide*). `Fide mss.` is idiomatic Quaracchi apparatus Latin = "On the testimony / on the faith of the manuscripts". Removed the `[vid. *Vide*]` parenthetical from Latin; revised English to "On the testimony of the manuscripts we have restored the particle *et*"; flag removed. |
+
+### `[?]` resolution count
+
+- 2 `[?]` flags resolved (both apparatus English mirrors).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d3-p2-a1-q1.md` after this pass.
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d3-p2-a1-q1.md` → 0.
+- `grep -oE '\[\^[0-9]+\]' vol1/bon-sent-I-d3-p2-a1-q1.md | sort -u | wc -l` → 25 unique markers, each appears 3× (Latin body + English body + apparatus def).
+- `cd site && node scripts/build-content.mjs` parses cleanly → 414 chunks.
+- d.3 guard-rail audits run (audit-paraphrase / audit-headers / audit-apparatus-count). No new flags introduced.
