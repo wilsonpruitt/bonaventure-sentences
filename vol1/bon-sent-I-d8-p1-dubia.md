@@ -14,7 +14,7 @@ line_end: 33786
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 161–165"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 33452-33786), fresh literal English translation, full apparatus from raw OCR (19 entries from p.161-165 footer blocks), 10 DUB present, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 33452-33786), fresh literal English translation, full apparatus from raw OCR (19 entries from p.161-165 footer blocks), 10 DUB present, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); d.1-d.10 polish pass 2026-05-12 — 2 [?] flags resolved via 600dpi PDF eyes-on ([^7] verbatim, [^11] Vat. *de loco in* lemma confirmed)"
 format_version: 1
 ---
 
@@ -201,8 +201,8 @@ And it must be said that vicissitude implies the number of a turn, and this is a
 [^6]: **La.** Vat. praeter fidem omnium mss. et edd. 1, 2, 3 addit *non*, sed falso, quia iuxta omnes Scholasticos intensio et remissio est motus eiusdem v. g. caloris a statu imperfectiore ad perfectiorem et viceversa. Vide S. Thomam, qui hic circa litteram idem dubium solvit consimili distinctione, scilicet: *Magis et minus potest dici aliquid vel quantum ad ipsam naturam participatam, quae secundum se intenditur et remittitur secundum accessum ad terminum vel recessum; et hoc non est nisi in accidentibus; vel quantum ad modum participandi; et sic etiam in essentialibus dicitur magis et minus secundum diversum modum participandi, sicut Angelus dicitur magis intellectualis quam homo.*
     **En.** The Vatican edition, against the testimony of all manuscripts and editions 1, 2, 3, adds *non*, but falsely, because according to all the Scholastics intensification and remission is a motion of the same thing, e.g. of heat, from a less perfect state to a more perfect and conversely. See St. Thomas, who here on the text resolves the same doubt with a similar distinction, namely: *More and less can be said of a thing either as regards the participated nature itself, which in itself is intensified and remitted according to its approach to or recession from the term; and this is only in accidents; or as regards the mode of participating; and thus also in essentials more and less is said according to the different mode of participating, as an Angel is said to be more intellectual than a man.*
 
-[^7]: **La.** Cod. T *vermi*, cod. W *ibi* pro *bene*.[?]
-    **En.** Codex T [reads] *vermi*, codex W *ibi* for *bene*.[?]
+[^7]: **La.** Cod. T *vermi*, cod. W *ibi* pro *bene*.
+    **En.** Codex T [reads] *vermi*, codex W *ibi* in place of *bene*.
 
 [^8]: **La.** Libr. XII. c. 15. n. 2.
     **En.** Book XII, ch. 15, n. 2.
@@ -213,8 +213,8 @@ And it must be said that vicissitude implies the number of a turn, and this is a
 [^10]: **La.** Supple: *non noscere sive non habere praeteritum vel futurum*.
     **En.** Supply: *not to know, or not to have, past or future*.
 
-[^11]: **La.** Vat. praeter fidem mss. et ed. 1 *etiam*, et paulo post cum *priori et posteriori* (nonnulli codd. habent quidem *cum* loco *est*, sed solus cod. cc cum *priori et posteriori*). Pro nostra lectione militant etiam ea quae S. Doctor II. Sent. d. 2. p. I. a. 1. q. 3. in corp. habet, ubi fusius hanc quaestionem pertractans, ex creaturae possibilitate sive ex eo, quod nulla creatura omnino est actus, deducit durationem successionis sive prius et posterius in aevo. — Mox Vat., omnibus mss. et sex primis edd. obnitentibus, *de loco in [locum][?]*. Paulo infra cod. I satis bene addit *sine variatione et innovatione*.
-    **En.** The Vatican edition, against the testimony of the manuscripts and ed. 1, [reads] *etiam*, and a little after with *before and after* (some codices indeed have *cum* in place of *est*, but only codex cc [has] with *before and after*). For our reading there also fight the things which the holy Doctor has in II Sent. d. 2. p. I. a. 1. q. 3. in corp., where, treating this question more fully, from the possibility of the creature, or from the fact that no creature is wholly act, he deduces the duration of succession or the before and after in aeviternity. — Shortly after, the Vatican edition, against all the manuscripts and the first six editions, [reads] *from place to place*[?]. A little below, codex I quite well adds *without variation and innovation*.
+[^11]: **La.** Vat. praeter fidem mss. et ed. 1 *etiam*, et paulo post cum *priori et posteriori* (nonnulli codd. habent quidem *cum* loco *est*, sed solus cod. cc cum *priori et posteriori*). Pro nostra lectione militant etiam ea quae S. Doctor II. Sent. d. 2. p. I. a. 1. q. 3. in corp. habet, ubi fusius hanc quaestionem pertractans, ex creaturae possibilitate sive ex eo, quod nulla creatura omnino est actus, deducit durationem successionis sive prius et posterius in aevo. — Mox Vat., omnibus mss. et sex primis edd. obnitentibus, *de loco in*. Paulo infra post *successionem* cod. I satis bene addit *sine variatione et innovatione*.
+    **En.** The Vatican edition, against the testimony of the manuscripts and ed. 1, [reads] *etiam*, and a little after with *before and after* (some codices indeed have *cum* in place of *est*, but only codex cc [has] with *before and after*). For our reading there also fight the things which the holy Doctor has in II Sent. d. 2. p. I. a. 1. q. 3. in corp., where, treating this question more fully, from the possibility of the creature, or from the fact that no creature is wholly act, he deduces the duration of succession or the before and after in aeviternity. — Shortly after, the Vatican edition, against all the manuscripts and the first six editions, [reads] *de loco in* [sic — Quaracchi prints the Vatican lemma as it stands]. A little below, after *successionem*, codex I quite well adds *without variation and innovation*.
 
 [^12]: **La.** Vide *Monolog.* c. 28. et *Proslog.* c. 20. et 22.
     **En.** See *Monologion* ch. 28, and *Proslogion* ch. 20 and 22.

@@ -670,3 +670,182 @@ Pass: 2026-05-12. Resolved 2 inline `[?]` flags via 600dpi PDF eyes-on (`raw/vis
 - Body anchors: 66 in Latin and 66 in English, paired.
 - All chunk apparatus entries now have PDF-backing.
 - Guard-rail audits clean: paraphrase 0/0, headers no flag, apparatus diff +5 (raw 71 / chunk 66, within tolerance — raw OCR overcounts via garble openers).
+
+## d4-a1-q3 (pp.101-102)
+
+Pass: 2026-05-12. Resolved 4 inline `[?]` flags via 600dpi PDF eyes-on (`raw/vision/vol1/p-101.png`, `p-102.png` re-extracted at 600 dpi via `tools/extract-pages.py --volume vol1 --pages 101-102 --dpi 600 --force`). Chunk was rebuilt earlier today (Bucket G commit `6f780f6`); apparatus restructured 8→10 entries with mis-anchored prior `[^7]/[^8]` (Vat.subiectum / Cod.R-genuit) removed to `bon-sent-I-d4-a1-q2`. Open flags noted at handoff in `manual-review/tier2-ambiguities-d4-a1-q3.md`.
+
+### Flag 1 — body `sic nec hoc[?] nomen Deus` (Latin) + `so neither does this[?] name God` (English mirror) — RESOLVED as OCR artifact
+
+- **Before**: `sic nec hoc[?] nomen *Deus*` / `so neither does this[?] name *God*`. Raw djvu OCR rendered the position as `hoc''` (two apostrophe-like glyphs after `hoc`), raising the possibility of a printer's footnote superscript.
+- **PDF p.102 eyes-on**: At 600 dpi the line reads "et ideo sicut nomen proprium non habet plurale, secundum artem loquendo, sic nec hoc nomen *Deus*." No superscript marker visible on `hoc`. The p.102 footer block is fully accounted for: entries 1-2 anchor into Q.IV body (Vers.8 / nomen Dei) and entries 3-6 anchor into Q.III as the current `[^7]`-`[^10]` (sequuntur / Priscian-accidentium / Vat-potest / Supplevimus-cum). No spare footer entry would correspond to a marker at `hoc`. The OCR `''` is a stray artifact (likely from the italic transition into *Deus*).
+- **Resolution**: Removed `[?]` from both Latin and English bodies. No anchor added.
+
+### Flag 2 — apparatus `[^5]` `Cfr. Priscian., II. Grammat. c. 5.[?]` (Latin + English mirror) — RESOLVED
+
+- **Before**: `**La.** Cfr. Priscian., II. Grammat. c. 5.[?]` / `**En.** Cf. Priscian, *Grammar* II, c. 5.[?]`. Raw djvu OCR garbled the chapter numeral (rendered `S` for `5`).
+- **PDF p.101 eyes-on**: At 600 dpi footnote entry 5 in the page footer reads verbatim "Cfr. Priscian., II. Grammat. c. 5." Numeral `5` confirmed (not `S`); citation form intact.
+- **Resolution**: Removed `[?]` from both Latin and English; verbatim reading retained.
+
+### Counts after resolution
+
+- Apparatus entries: 10 (unchanged).
+- Body anchors: 10 in Latin and 10 in English, paired.
+- All 10 chunk apparatus entries PDF-backed (p.101 footer entries 4-9 → `[^1]`-`[^6]`; p.102 footer entries 3-6 → `[^7]`-`[^10]`).
+- 4 `[?]` flags cleared (2 substantive sites × Latin+English mirror = 4 grep matches as expected).
+
+
+## d8-p1-dubia (pp.161-165)
+
+Pass: 2026-05-12. Resolved 2 inline `[?]` flags via 600dpi PDF eyes-on (`raw/vision/vol1/p-162.png`, `p-163.png`). Both flags sat in apparatus block (Latin + English mirror, so 4 `[?]` glyphs total).
+
+### Flag 1 — `[^7]` (Latin + English mirror) — RESOLVED
+
+- **Before**: `**La.** Cod. T *vermi*, cod. W *ibi* pro *bene*.[?]` / `**En.** Codex T [reads] *vermi*, codex W *ibi* for *bene*.[?]`
+- **PDF p.163 footer ^1**: `Cod. T *vermi*, cod. W *ibi* pro *bene*.` — verbatim. Codex T's reading *vermi* (literally "for the worm") is genuinely the printed Quaracchi lemma; it is a recorded codex eccentricity, not an OCR garble.
+- **Resolution**: Dropped trailing `[?]` glyphs on both Latin and English. Mildly tightened English mirror (`for` → `in place of`) to match Quaracchi convention used elsewhere in the chunk.
+- **PDF citation**: 600dpi crop `/tmp/p163-mid.png` — footnote ^1 fully legible at top of left-column footer block.
+
+### Flag 2 — `[^11]` (Latin + English mirror) — RESOLVED
+
+- **Before**: `... — Mox Vat., omnibus mss. et sex primis edd. obnitentibus, *de loco in [locum][?]*. Paulo infra cod. I satis bene addit *sine variatione et innovatione*.` / English mirror with `*from place to place*[?]`.
+- **PDF p.163 footer ^5**: `... — Mox Vat., omnibus mss. et sex primis edd. obnitentibus, *de loco in*. Paulo infra post *successionem* cod. I satis bene addit *sine variatione et innovatione*.`
+- **Diagnosis**: Quaracchi prints the Vatican-edition lemma as the bare italic phrase `de loco in.` — apparently truncated (the Vat. text it cites likely reads "de loco in locum" or similar, but Quaracchi reproduces only what they printed). The chunk author had inserted `[locum]` as a conjectural completion and rendered the English as `*from place to place*` — both inventions. PDF also shows the missing clause `post *successionem*` (chunk had dropped these two words before `cod. I satis bene addit`).
+- **Resolution**:
+  1. Latin: removed `[locum]` insertion, dropped `[?]`, restored the missing `post *successionem*` clause.
+  2. English: re-rendered the Vatican lemma as `*de loco in*` (preserving Quaracchi's bare lemma rather than glossing) with bracketed editorial note `[sic — Quaracchi prints the Vatican lemma as it stands]`; added `after *successionem*` to mirror the restored Latin.
+- **PDF citation**: 600dpi crops `/tmp/p163-fn5.png`, `/tmp/p163-fn5-line.png` — footnote ^5 fully legible, period after `in` confirmed, `post successionem` clause confirmed.
+
+### Systemic checks
+
+- **Quaracchi `[word]` editorial brackets**: none present in this chunk's PDF range (no `[x]`-style Quaracchi editorial insertions in pp.161-165 footers); chunk's prior `[locum]` was author-invented, not Quaracchi.
+- **Phantom apparatus entries**: walked chunk apparatus ^1-^19 against PDF footers — p.162 ^1-^6 → chunk ^1-^6 (1-to-1 ✓); p.163 ^1-^13 → chunk ^7-^19 (1-to-1 ✓). All 19 chunk entries have PDF backing. No off-by-one masking. (Note: chunk [^12] renders `c. 20. et 22` for *Proslog.* citation where PDF shows `c. 29. et 22` — flagged for non-`[?]`-pass disposition; out of polish-blocker scope.)
+
+### Counts after resolution
+
+- Apparatus entries: 19 (unchanged).
+- Body anchors: 19 in Latin and 19 in English, paired (unchanged).
+- All chunk apparatus entries now have PDF-backing.
+
+## d10-a2-q3 (pp.203-204)
+
+**Date**: 2026-05-12
+**Scope**: 4 inline `[?]` flags (2 Latin + 2 English mirrors) resolved via 600dpi PDF eyes-on (PDF pp.305-306 via `pdftoppm -r 600`, pt1 offset = printed + 102).
+
+### Flag 1 — `[^1]` apparatus (Latin + English mirror) — RESOLVED
+
+- **Before**: `**La.** Codd. LO hic addunt: *sic Filius et Spiritus sanctus conveniunt originaliter in Patre, sed* etc.[?]` (English mirror likewise `etc.[?]`).
+- **PDF p.203 footer ^2**: `Codd. LO hic addunt sic Filius et Spiritus sanctus conveniunt originaliter in Patre, sed.` — ends with bare *sed.* (period); no `etc.`
+- **Resolution**: Dropped trailing `etc.` and `[?]` in both Latin and English; closing italic with terminal period preserved. Quaracchi's ellipsis convention is the bare *sed*. with period.
+- **PDF citation**: 600dpi crop `/tmp/p203-body-left.png` (left column, footnote ^2 fully legible).
+
+### Flag 2 — `[^11]` apparatus (Latin + English mirror) — RESOLVED
+
+- **Before**: `**La.** Substituimus ope multorum mss. ut AFGKT etc. et edd. 1, 2, 3 *rationalium* loco *rationalibus*.[?]` (English mirror likewise).
+- **PDF p.204 footer ^3**: `Substituimus ope multorum mss. ut AFGKT etc. et edd. 1, 2, 3 *rationalibus* loco *rationalium*.` — chunk had substitution direction reversed (Quaracchi adopts *rationalibus*, replacing *rationalium*; chunk wrongly had Quaracchi adopting *rationalium*).
+- **Resolution**: Reversed direction in both Latin and English; dropped `[?]`. Body anchor on `substantiis rationalibus[^11]` / `rational substances[^11]` is correctly positioned (Quaracchi's adopted reading is *rationalibus*).
+- **PDF citation**: 600dpi crop `/tmp/p204-foot3b.png` (p.204 footnote ^3 fully legible).
+
+### Separate backlog flagged (NOT resolved this pass)
+
+p.203 apparatus has off-by-N misalignment downstream of [^1]/[^2]: chunk skips PDF p.203 footer entries ^3 (`Ita plurimi codd. ... quia unus oritur a duobus`), ^4 (`Ed. 1 consimilia`), ^5 (`Cod. X significat`), and most of ^6 (`Unus alterve cod. ut Z ... cod. Z quo loco quod`, of which the chunk preserves only the tail `Mox codd. ab bb post non coarctat hoc addunt nomen ...`, misread as `H` and rendered as chunk [^2]). Net: chunk apparatus on p.203 has 8 entries; PDF p.203 q.3 footer has 11. Per scope ("Do NOT: invent; commit; touch siblings"), not addressed here — logged for the broader d.1-d.10 apparatus-completeness rebuild backlog (see MEMORY.md d.1-d.10 polish TODO).
+
+### Counts after resolution
+
+- Inline `[?]` flags in chunk: 0 (was 4).
+- Apparatus entries: 24 unchanged.
+- Body anchors: 24 in Latin and 24 in English, paired.
+
+## d10-a2-q2 (pp.202-203)
+
+**Date**: 2026-05-12
+**Scope**: 4 inline `[?]` flag matches (2 substantive sites × Latin+English mirror) resolved via 600dpi PDF eyes-on. Pt1 offset (PDF=printed+102): PDF pp.304-305 via `pdftoppm -r 600`.
+
+### Flag 1 — `[^9]` (Latin + English mirror) — RESOLVED
+
+- **Before**: `...alii vero, pauci *eximius*[?]. Perturbatior nobis ob contextum visa est lectio codd. *HM* in textum recepta.` / English mirror: `...a few, have *eximius*[?]. The reading of codices *HM*, ... more disturbed on account of the context.`
+- **PDF p.202 footer ^10** (the second half of chunk `[^9]`, which merges PDF p.202 fns ^9 + ^10): `Vat. omittit *est* legendo *quia amor mutuus est amor unicus et substantificus*; ita etiam aliae edd. et plurimi codd. cum hac differentia, quod plures codd. pro *unicus* habent *unitus*, alii vero pauci *vivificus*. Probabilior nobis ob contextum visa est lectio codd. HIM in textum recepta.`
+- **Resolution**: Replaced `eximius[?]` → `vivificus` (clearly legible in PDF). Also corrected two adjacent garbles surfaced by eyes-on: `Perturbatior` → `Probabilior` and `HM` → `HIM`. English mirror updated: `*eximius*[?]` → `*vivificus*`, and `more disturbed` → `more probable`.
+- **PDF citation**: 600dpi crop `/tmp/p202-fn9-zoom.png` — p.202 right-column footnotes ^9 through ^12 all legible; ^10 entry verbatim.
+
+### Flag 2 — `[^12]` (Latin + English mirror) — RESOLVED
+
+- **Before**: `Vat., adstipulante[?] nullo cod., *originalis*...` / English: `The Vatican edition, with no codex supporting[?] it, reads *originalis*...`
+- **PDF p.203 footer ^1** (= chunk `[^12]`; per-page restart, chunk's first p.203 entry): `Vat., adstipulante nullo cod., *originalis*, et mox contra antiquiores codd. et ed. 1 post *potest* addit *dici*, deinde contra multos codd. ut IKMRTZ etc. ac ed. 1 loco *conveniant* ponit *communicent*.` — `adstipulante` fully legible, no garble in PDF.
+- **Resolution**: Dropped `[?]` from both Latin (`adstipulante[?]` → `adstipulante`) and English mirror (`supporting[?] it` → `supporting it`). No substantive change — flag was unwarranted; the word reads cleanly at 600dpi.
+- **PDF citation**: 600dpi crop `/tmp/p203-fn1-zoom.png` — p.203 footnote ^1 verbatim.
+
+### Systemic check — chunk-vs-PDF apparatus mapping
+
+- PDF p.202 has 12 footer entries; PDF p.203 has 11. Chunk has 16 apparatus entries total. Question 2 + scholion span all of p.202 + first ~half of p.203, so chunk should hold p.202 ^1-^12 + p.203 ^1-^4 = 16. **Mapping verified**: chunk `[^1]`-`[^8]` = PDF p.202 ^1-^8 (1-to-1); chunk `[^9]` = PDF p.202 ^9 + ^10 merged with ` — ` joiner (structural editorial choice carried from rechunk pipeline; not a defect); chunk `[^10]` = PDF p.202 ^11; chunk `[^11]` = PDF p.202 ^12; chunk `[^12]`-`[^16]` would map to p.203 ^1-^5, but chunk only has 16 total so `[^12]`-`[^15]` = p.203 ^1-^4 (Q2 + scholion stop before p.203 fn ^5 which belongs to Q3). No phantom entries, no off-by-one. Body anchors compatible with merged-^9 numbering.
+- Minor variant noted but not corrected in `[^10]`: chunk reads `HV essentialem` and `Z essentiali`; PDF reads `HY essentialem` and `Z essentiae`. Substantive (codex sigla / case-form differences) but pre-existing from rechunk pipeline and outside this polish-pass scope (not flagged with `[?]`).
+
+### Counts after resolution
+
+- Apparatus entries: 16 (unchanged).
+- Body anchors: 16 in Latin and 16 in English, paired.
+- All 4 `[?]` matches cleared (2 substantive sites × La+En mirror).
+
+## d10-a2-q1 (pp.200-201)
+
+Pass: 2026-05-12. Resolved 2 substantive `[?]` flag sites (4 grep matches = 2 sites × Latin+English mirror) via 600dpi PDF eyes-on. Source: `raw/vision/vol1/p-hires-d10a2q1-302.png` (PDF p.302 = printed p.200; full page at 600 dpi via `pdftoppm -r 600 -f 302 -l 303`) plus footer crop `raw/vision/vol1/p200_foot_sips.png`. Both flags were in p.200-footer apparatus entries `[^6]` and `[^7]`.
+
+### Flag 1 — apparatus `[^6]` `Aliqui codd. ut V X Z bb falso *aut* loco *sive*[?]` (Latin + English mirror) — RESOLVED
+
+- **Before**: La `Aliqui codd. ut V X Z bb falso *aut* loco *sive*[?].` / En `Some codices such as V X Z bb falsely [read] *aut* (or) in place of *sive* (or)[?].` Flag was overcautious — chunk-builder uncertain whether codex sigla `V X Z bb` was complete.
+- **PDF p.200 footer (right column) eyes-on**: At 600 dpi note 6 reads verbatim "Aliqui codd. ut V X Z bb falso *aut* loco *sive*." Sigla `V X Z bb` confirmed exactly; no further sigla or trailing clause. Period after *sive* terminates the entry.
+- **Resolution**: Removed `[?]` from both Latin and English; verbatim reading retained.
+
+### Flag 2 — apparatus `[^7]` `Supplevimus hic *et*; mox substituimus [variant uncertain in OCR][?]` (Latin + English mirror) — RESOLVED
+
+- **Before**: La `Supplevimus hic *et*; mox substituimus [variant uncertain in OCR][?].` / En `We have supplied here *et* (and); soon we substitute [variant uncertain in OCR][?].` Raw djvu OCR garbled the second clause; chunk-builder left a placeholder.
+- **PDF p.200 footer (right column) eyes-on**: At 600 dpi note 7 reads verbatim "Supplevimus hic *et*; mox substituimus genitivum *Spiritus sancti* pro dativo, ope mss. et ed. 1."
+- **Resolution**: La set to `Supplevimus hic *et*; mox substituimus genitivum *Spiritus sancti* pro dativo, ope mss. et ed. 1.` En set to `We have supplied here *et* (and); soon we substitute the genitive *Spiritus sancti* (of the Holy Spirit) for the dative, by aid of the manuscripts and ed. 1.`
+
+### Counts after resolution
+
+- Apparatus entries: 19 (unchanged).
+- Body anchors: 19 in Latin and 19 in English, paired.
+- All 19 chunk apparatus entries PDF-backed (p.200 footer notes 1-3 + 5-8 → `[^1]`-`[^9]` after re-anchor of Augustine cross-reference; p.201 footer → `[^10]`-`[^19]`).
+- 4 `[?]` flags cleared (2 substantive sites × Latin+English mirror = 4 grep matches).
+- 0 accepted-illegible.
+- 0 `[?]` flags remaining in `d10-a2-q1.md` after this pass (verified `grep -n '\[?\]' vol1/bon-sent-I-d10-a2-q1.md` matches only the transcription_status appendix).
+
+## d10-littera (pp.192-193)
+
+**Date**: 2026-05-12
+**Scope**: 4 inline `[?]` flags (2 substantive sites × Latin+English mirror) resolved/re-affirmed via 600dpi PDF eyes-on (`raw/vision/vol1/p-192.png`, `p-193.png`).
+**Prior pass**: 2026-05-10 Bucket 1 — p.193 footer recovery (footer entries 4-9 verbatim, missing footer #10 added as `[^23]`, body anchors renumbered to match printed positions 1-10); 11 `[?]` cleared, 2 remaining in `[^6]` carried as ACCEPT-ILLEGIBLE and now revisited.
+
+### Flag 1 — `[^6]` (Latin + English mirror) — RESOLVED
+
+- **Before**: `**La.** ... aliqui codd. *ut* [?] *est.*` / `**En.** ... some codices add *ut* [?] *est.*`
+- **PDF p.192 footer ^2** (printed footer 2 = chunk apparatus `[^6]`): reads verbatim `Vat. cum cod. cc repetit hic *naturam,* quod deest in antiquioribus mss. et ed. 1. Paulo infra post *persona* adiungunt aliqui codd. ut I T *est.*`
+- **Diagnosis**: The `[?]` glyph between *ut* and *est* is the upright codex sigla pair `I T` — two manuscript witnesses. This is the same Quaracchi convention as d.8-p2-divisio (`aliqui codd. ut I Z illud pro ideo` resolved 2026-05-12), where `ut` = "such as" introducing example codices, not the Latin word *ut* in the body variant. Prior reading "typographic 'ut 1 T est' cross-reference glyph, not a Latin word" was half-right (the inner glyph is not Latin) but mis-classified — the sigla are meaningful and renderable.
+- **Resolution**:
+  - Latin: `aliqui codd. ut I T *est.*` (drop italic from `ut`; `I T` upright per sigla convention; only the variant word *est* italic).
+  - English: `some codices, such as I and T, add *est.*` (idiomatic rendering of `ut I T` = "such as I and T").
+- **PDF citations**: 600dpi crops `/tmp/p192-footer.png`, `/tmp/p192fl.png`, `/tmp/p192-fn2only.png` — footnote ^2 fully legible; "I T" clearly two upright Roman capitals (not "1 T" numeral, not a typographic ornament).
+
+### Flag 2 — `[^19]` (Latin + English mirror) — ACCEPT-ILLEGIBLE (re-affirmed)
+
+- **Before**: `**La.** ... cod. D et edd. 1, 8 *subsistit*[?], quod magis placeret ...` / `**En.** ... codex D and editions 1, 8 [read] *subsistit*[?] (with a small subscript glyph) ...`
+- **PDF p.193 footer ^6** (printed footer 6 = chunk apparatus `[^19]`): reads `Cap. 4. et 5. n. 6. et 7; ex ultimo cap. etiam sequentis huius capituli textus excerpti sunt. In fine primi textus pro *consistit* cod. D et edd. 1, 8 *subsistit* [tiny printer's mark], quod magis placeret, si faveret Augustinus.`
+- **Diagnosis**: After italic *subsistit* and before the comma, the printed footer has a small typographic ornament — appears to be a comma-with-flourish or a tiny subscript-style mark (one of Quaracchi's editorial sigla, possibly indicating "as variant only" or a cross-reference). It is not a Latin word and carries no propositional content beyond the variant note already conveyed. The variant claim (*subsistit* in cod. D / edd. 1, 8 in place of *consistit*) is fully captured by the surrounding prose. Re-affirmed ACCEPT-ILLEGIBLE.
+- **Resolution**:
+  - Latin: `*subsistit* [small typographic glyph, ACCEPT-ILLEGIBLE], quod magis placeret ...` (replace `[?]` with explicit accept-illegible annotation).
+  - English: `*subsistit* [followed by a small typographic glyph in the printed footer; ACCEPT-ILLEGIBLE — not a Latin word] ...`
+- **PDF citations**: 600dpi crops `/tmp/p193-footer.png`, `/tmp/p193-fn6.png`, `/tmp/p193sub.png` — footnote ^6 fully legible; glyph after *subsistit* is a small ornament, not letterforms.
+
+### Counts after resolution
+
+- Inline `[?]` flags remaining in chunk: 0.
+- Apparatus entries: 23 (unchanged).
+- Body anchors: paired Latin/English (unchanged from 2026-05-10 Bucket 1 renumber).
+- No phantom apparatus entries detected; off-by-one alignment check clean (chunk `[^1]`-`[^22]` track p.192 footer entries 1-9 then p.193 footer entries 1-13; `[^23]` is the new p.193 footer #10 added in Bucket 1).
+
+### Systemic notes
+
+- Quaracchi `[word]` editorial brackets: none in this chunk (none in body, none in apparatus). N/A.
+- Phantom apparatus check: `[^6]` was suspected as candidate (long `[?]` site); verified PDF-backed at p.192 footer 2. No phantom.
+- ACCEPT-ILLEGIBLE classification preserved for `[^19]` printer's-mark glyph; semantic content of variant is complete without it.

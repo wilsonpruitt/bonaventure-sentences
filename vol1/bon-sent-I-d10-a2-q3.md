@@ -14,7 +14,7 @@ line_end: 39883
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 203–204"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 39630-39883), fresh literal English translation, full apparatus from raw OCR (24 entries from p.203-204 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 39630-39883), fresh literal English translation, full apparatus from raw OCR (24 entries from p.203-204 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-12 d.1-d.10 polish-pass: 4 inline [?] flags (2 La+2 En mirrors) resolved via 600dpi PDF eyes-on — [^1] dropped phantom etc., [^11] reversed substitution direction (rationalibus loco rationalium); deeper apparatus-misalignment p.203 (chunk skips PDF entries ^3-^5 and most of ^6) flagged as separate backlog"
 format_version: 1
 ---
 
@@ -135,9 +135,9 @@ In the conclusion the ancient Scholastics agree with the Latin and Greek Fathers
 
 > The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the original Latin note (**La.**) followed by an English rendering (**En.**).
 
-[^1]: **La.** Codd. LO hic addunt: *sic Filius et Spiritus sanctus conveniunt originaliter in Patre, sed* etc.[?]
+[^1]: **La.** Codd. LO hic addunt: *sic Filius et Spiritus sanctus conveniunt originaliter in Patre, sed*.
 
-     **En.** Codices LO here add: *thus the Son and the Holy Spirit agree originally in the Father, but* etc.[?]
+     **En.** Codices LO here add: *thus the Son and the Holy Spirit agree originally in the Father, but*.
 
 [^2]: **La.** Post *non coarctat hoc* adiungunt *nomen* H et ed. I; mox pro *ergo spiritus* adiicit *sanctus*.
 
@@ -175,9 +175,9 @@ In the conclusion the ancient Scholastics agree with the Latin and Greek Fathers
 
      **En.** Cf. Aristotle, *On Respiration*.
 
-[^11]: **La.** Substituimus ope multorum mss. ut AFGKT etc. et edd. 1, 2, 3 *rationalium* loco *rationalibus*.[?]
+[^11]: **La.** Substituimus ope multorum mss. ut AFGKT etc. et edd. 1, 2, 3 *rationalibus* loco *rationalium*.
 
-     **En.** We have substituted, with the aid of many manuscripts such as AFGKT etc. and editions 1, 2, 3, *rationalium* in place of *rationalibus*.[?]
+     **En.** We have substituted, with the aid of many manuscripts such as AFGKT etc. and editions 1, 2, 3, *rationalibus* in place of *rationalium*.
 
 [^12]: **La.** Liber iste a Richardo (hic a. 2, q. 3) attribuitur Constabulo; sed cfr. *Bibliotheca philosophorum mediae aetatis*, ed. a Baracli, Innsbruck 1876–1878, fasc. 2, ubi continentur: *Excerpta Costa-Ben Lucae de Differentia animae et spiritus*. Vide etiam libr. *de Spiritu*, c. 1 (inter opera Arist.).
 

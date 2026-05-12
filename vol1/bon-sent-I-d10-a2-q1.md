@@ -15,7 +15,7 @@ line_end: 39419
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 200–201"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 39154-39419), fresh literal English translation, full apparatus from raw OCR (19 entries from p.200-201 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 39154-39419), fresh literal English translation, full apparatus from raw OCR (19 entries from p.200-201 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch) — 2026-05-12 [?]-flag polish pass: 2 resolved via 600dpi PDF, 0 accepted-illegible"
 format_version: 1
 ---
 
@@ -145,13 +145,13 @@ The doctrine of this question is the common opinion: Alex., *Summa* p. I. q. 13.
 
     **En.** Augustine, *On the Trinity* bk. XV, c. 17, n. 28: "Both the Father is called charity and the Son and the Holy Spirit, and all together are one charity." In which text ed. 1 after *omnes* (all) adds *tres* (three).
 
-[^6]: **La.** Aliqui codd. ut V X Z bb falso *aut* loco *sive*[?].
+[^6]: **La.** Aliqui codd. ut V X Z bb falso *aut* loco *sive*.
 
-    **En.** Some codices such as V X Z bb falsely [read] *aut* (or) in place of *sive* (or)[?].
+    **En.** Some codices such as V X Z bb falsely [read] *aut* (or) in place of *sive* (or).
 
-[^7]: **La.** Supplevimus hic *et*; mox substituimus [variant uncertain in OCR][?].
+[^7]: **La.** Supplevimus hic *et*; mox substituimus genitivum *Spiritus sancti* pro dativo, ope mss. et ed. 1.
 
-    **En.** We have supplied here *et* (and); soon we substitute [variant uncertain in OCR][?].
+    **En.** We have supplied here *et* (and); soon we substitute the genitive *Spiritus sancti* (of the Holy Spirit) for the dative, by aid of the manuscripts and ed. 1.
 
 [^8]: **La.** Posuit *omne* iuxta antiquiores mss. et ed. 1, contra Vat. *omne illud*, *illud* additum a Vat.
 

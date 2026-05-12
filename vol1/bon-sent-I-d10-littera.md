@@ -13,7 +13,7 @@ has_scholion: false
 has_apparatus: true
 line_start: 37971
 line_end: 38198
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 37971-38198), fresh literal English translation, full apparatus from raw OCR (22 entries from p.192-193 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.193 partial recovery from 600dpi PDF eyes-on (raw/vision/vol1/p-193.png); 11 [?] resolved (footer entries 4-9 rendered verbatim, missing footer #10 added as new [^23] Col. 1, 13, p.193 body anchors renumbered to match printed marker positions 1-10), 2 [?] kept as ACCEPT-ILLEGIBLE in [^6] (typographic 'ut 1 T est' cross-reference glyph in printed text, not a Latin word)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 37971-38198), fresh literal English translation, full apparatus from raw OCR (22 entries from p.192-193 footer blocks), [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); 2026-05-10 Bucket 1 PDF recovery — p.193 partial recovery from 600dpi PDF eyes-on (raw/vision/vol1/p-193.png); 11 [?] resolved (footer entries 4-9 rendered verbatim, missing footer #10 added as new [^23] Col. 1, 13, p.193 body anchors renumbered to match printed marker positions 1-10), 2 [?] kept as ACCEPT-ILLEGIBLE in [^6] (typographic 'ut 1 T est' cross-reference glyph in printed text, not a Latin word); 2026-05-12 d.1-d.10 polish-blocker [?] pass — 4 remaining [?] resolved/re-affirmed via 600dpi PDF eyes-on (p.192 fn2, p.193 fn6): [^6] 'ut [?] est' RESOLVED to codex sigla 'ut I T est' (parallel to d.8-p2-divisio 'ut I Z' convention); [^19] 'subsistit[?]' re-affirmed ACCEPT-ILLEGIBLE (small typographic glyph after subsistit, not a Latin word)"
 format_version: 1
 ---
 
@@ -117,9 +117,9 @@ Here it must be noted that, just as the Holy Spirit in the Trinity is specially 
 
     **En.** The Vatican edition and ed. 4 omit *et.* — Below, before *Filius,* codex C and ed. 8 omit *Deus*; at the end of this text, before *sapientia,* codices BCD and editions 1, 8 read *sint* in place of *sit.*
 
-[^6]: **La.** Vat. cum cod. cc repetit hic *naturam,* quod deest in antiquioribus mss. et ed. 1. Paulo infra post *persona* adiungunt aliqui codd. *ut* [?] *est.*
+[^6]: **La.** Vat. cum cod. cc repetit hic *naturam,* quod deest in antiquioribus mss. et ed. 1. Paulo infra post *persona* adiungunt aliqui codd. ut I T *est.*
 
-    **En.** The Vatican edition, together with codex cc, here repeats *naturam,* which is absent from the older manuscripts and from ed. 1. A little below, after *persona,* some codices add *ut* [?] *est.*
+    **En.** The Vatican edition, together with codex cc, here repeats *naturam,* which is absent from the older manuscripts and from ed. 1. A little below, after *persona,* some codices, such as I and T, add *est.*
 
 [^7]: **La.** Vat. perperam omittit *in.* In fine huius textus Vat. et pleraeque edd. *nuncupatur* pro *nuncupetur,* refragantibus Augustino, codd. A C E et ed. 8.
 
@@ -169,9 +169,9 @@ Here it must be noted that, just as the Holy Spirit in the Trinity is specially 
 
     **En.** Verse 1. — Earlier, after *Nunc,* editions 1 and 8 read *ergo* in place of *vero.*
 
-[^19]: **La.** Cap. 4. et 5. n. 6. et 7; ex ultimo cap. etiam sequentis huius capituli textus excerpti sunt. In fine primi textus pro *consistit* cod. D et edd. 1, 8 *subsistit*[?], quod magis placeret, si faveret Augustinus.
+[^19]: **La.** Cap. 4. et 5. n. 6. et 7; ex ultimo cap. etiam sequentis huius capituli textus excerpti sunt. In fine primi textus pro *consistit* cod. D et edd. 1, 8 *subsistit* [small typographic glyph, ACCEPT-ILLEGIBLE], quod magis placeret, si faveret Augustinus.
 
-    **En.** Ch. 4 and ch. 5, nn. 6 and 7; from the last chapter, also, the texts of the chapter following here are excerpted. At the end of the first text, in place of *consistit,* codex D and editions 1, 8 [read] *subsistit*[?] (with a small subscript glyph), which would please more, if Augustine were to favor it.
+    **En.** Ch. 4 and ch. 5, nn. 6 and 7; from the last chapter, also, the texts of the chapter following here are excerpted. At the end of the first text, in place of *consistit,* codex D and editions 1, 8 [read] *subsistit* [followed by a small typographic glyph in the printed footer; ACCEPT-ILLEGIBLE — not a Latin word], which would please more, if Augustine were to favor it.
 
 [^20]: **La.** Ephes. 4, 8. — Paulo ante pro *sintque* mss. ACDE *suntque* ac forte melius. Deinde codd. AC incipiunt sequentem textum verbis: *Spiritus quoque* pro *Spiritus ergo.*
 

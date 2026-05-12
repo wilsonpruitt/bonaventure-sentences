@@ -14,7 +14,7 @@ line_end: 39629
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 202–203"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 39420-39629), fresh literal English translation, full apparatus from raw OCR (16 entries from p.202-203 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 39420-39629), fresh literal English translation, full apparatus from raw OCR (16 entries from p.202-203 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch); polish-pass 2026-05-12 resolved 2 inline [?] flags via 600dpi PDF eyes-on (vivificus + adstipulante; also corrected Probabilior/HIM in [^9])"
 format_version: 1
 ---
 
@@ -159,9 +159,9 @@ If the Holy Spirit is called a bond, the sense is that he is love from two, name
 
     **En.** Codex E reads *eodem* in place of *uno*, which, with the remaining manuscripts and ed. 1 dissenting, the Vatican edition less well omits.
 
-[^9]: **La.** Plures codd. ut *ACGK LSU VW Y* perperam hic addunt *eius*. Mox post *ideo* ed. 1 adiungit *et*. — Vat. omittit *est* legendo *quia amor mutuus est amor unicus et substantificus*; ita etiam aliae edd. et plurimi codd. cum hac differentia, quod plures codd. pro *unicus* habent *unitus*, alii vero, pauci *eximius*[?]. Perturbatior nobis ob contextum visa est lectio codd. *HM* in textum recepta.
+[^9]: **La.** Plures codd. ut *ACGK LSU VW Y* perperam hic addunt *eius*. Mox post *ideo* ed. 1 adiungit *et*. — Vat. omittit *est* legendo *quia amor mutuus est amor unicus et substantificus*; ita etiam aliae edd. et plurimi codd. cum hac differentia, quod plures codd. pro *unicus* habent *unitus*, alii vero pauci *vivificus*. Probabilior nobis ob contextum visa est lectio codd. *HIM* in textum recepta.
 
-    **En.** Several codices like *ACGK LSU VW Y* wrongly here add *eius*. Soon after, ed. 1 adds *et* after *ideo*. — The Vatican edition omits *est*, reading *quia amor mutuus est amor unicus et substantificus*; thus also the other editions and very many codices, with this difference, that several codices have *unitus* in place of *unicus*, while others, a few, have *eximius*[?]. The reading of codices *HM*, received into the text, seemed to us more disturbed on account of the context.
+    **En.** Several codices like *ACGK LSU VW Y* wrongly here add *eius*. Soon after, ed. 1 adds *et* after *ideo*. — The Vatican edition omits *est*, reading *quia amor mutuus est amor unicus et substantificus*; thus also the other editions and very many codices, with this difference, that several codices have *unitus* in place of *unicus*, while others, a few, *vivificus*. The reading of codices *HIM*, received into the text, seemed to us more probable on account of the context.
 
 [^10]: **La.** Codd. *HV essentialem* et cod. *Z essentiali* loco *per essentiam*, quod multi codd. ut *AC FGK LORS TU V* etc. cum sex primis edd. omittunt.
 
@@ -171,9 +171,9 @@ If the Holy Spirit is called a bond, the sense is that he is love from two, name
 
     **En.** On the faith of many manuscripts like *AFGHI K TVX* etc. and ed. 1, we have substituted *Et* in place of *In*.
 
-[^12]: **La.** Vat., adstipulante[?] nullo cod., *originalis*, et mox contra antiquiores codd. et ed. 1 post *potest* addit *dici*, deinde contra multos codd. ut *IKMRTZ* etc. ac ed. 1 loco *conveniunt* ponit *communicent*.
+[^12]: **La.** Vat., adstipulante nullo cod., *originalis*, et mox contra antiquiores codd. et ed. 1 post *potest* addit *dici*, deinde contra multos codd. ut *IKMRTZ* etc. ac ed. 1 loco *conveniunt* ponit *communicent*.
 
-    **En.** The Vatican edition, with no codex supporting[?] it, reads *originalis*, and soon, against the older codices and ed. 1, after *potest* adds *dici*, then against many codices like *IKMRTZ* etc. and ed. 1 in place of *conveniunt* puts *communicent*.
+    **En.** The Vatican edition, with no codex supporting it, reads *originalis*, and soon, against the older codices and ed. 1, after *potest* adds *dici*, then against many codices like *IKMRTZ* etc. and ed. 1 in place of *conveniunt* puts *communicent*.
 
 [^13]: **La.** Codd. *LO* hic addunt *sic Filius et Spiritus sanctus conveniunt originaliter in Patre, sed.*
 

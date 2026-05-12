@@ -13,7 +13,7 @@ pdf_pages: [203, 204]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 101–102"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 24233-24413), full apparatus from raw OCR (10 entries: 6 from p.101 footer Q.III-portion + 4 from p.102 footer Q.III-portion = sequuntur/Priscian/Vat-potest-intellectum/Supplevimus-cum), prior misplaced [^7]/[^8] (Vat.subiectum, Cod.R-genuit) removed (raw OCR shows them as p.101 footer entries 1+3 anchored to Q.II body above, not Q.III), body anchors placed at OCR-marker positions, fresh literal English, [?] flags on ambiguous spots (2026-05-12)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 24233-24413), full apparatus from raw OCR (10 entries: 6 from p.101 footer Q.III-portion + 4 from p.102 footer Q.III-portion = sequuntur/Priscian/Vat-potest-intellectum/Supplevimus-cum), prior misplaced [^7]/[^8] (Vat.subiectum, Cod.R-genuit) removed (raw OCR shows them as p.101 footer entries 1+3 anchored to Q.II body above, not Q.III), body anchors placed at OCR-marker positions, fresh literal English, [?] flags on ambiguous spots (2026-05-12); polish-pass 2026-05-12: 4 [?] flags resolved via 600dpi PDF eyes-on (p.101 [^5] Priscian c.5 confirmed; p.102 body 'sic nec hoc nomen Deus' OCR `''` artifact, no superscript on hoc)"
 line_start: 24233
 line_end: 24413
 format_version: 1
@@ -52,7 +52,7 @@ Tertio quaeritur, utrum hoc nomen *Deus* grammatice significet pluralem numerum,
 
 > **Conclusio.** Nomen *Deus*, proprie loquendo, non habet plurale.
 
-**Respondeo:** Ad praedictorum intelligentiam est notandum, quod hoc nomen *Deus* dicitur tripliciter, scilicet *nuncupative*, *adoptive* et *naturaliter*. Primis duobus modis plurificatur; unde Apostolus primae ad Corinthios octavo: *Si quidem sunt dii multi, et domini multi*; sed tertio modo non, quia sic hoc nomen *Deus* significat divinam naturam cum conditionibus, quarum collectiones impossibile est in alio reperire; et ideo sicut nomen proprium non habet plurale, secundum artem loquendo, sic nec hoc[?] nomen *Deus*.
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod hoc nomen *Deus* dicitur tripliciter, scilicet *nuncupative*, *adoptive* et *naturaliter*. Primis duobus modis plurificatur; unde Apostolus primae ad Corinthios octavo: *Si quidem sunt dii multi, et domini multi*; sed tertio modo non, quia sic hoc nomen *Deus* significat divinam naturam cum conditionibus, quarum collectiones impossibile est in alio reperire; et ideo sicut nomen proprium non habet plurale, secundum artem loquendo, sic nec hoc nomen *Deus*.
 
 **1.** Ad illud ergo quod obiicitur, quod apud Hebraeos habet plurale quod est *Heloim*; dicendum, quod modi significandi non tantum sequuntur[^7] diversos modos intelligendi generales, sed etiam modos exprimendi. Et quoniam ipsi habent articulos et modos exprimendi diversos, quos nos non habemus, ideo illi possunt habere, sed nos non.
 
@@ -90,7 +90,7 @@ Thirdly it is asked, whether this name *God* grammatically signifies the plural 
 
 > **Conclusion.** The name *God*, properly speaking, does not have a plural.
 
-**I respond:** For the understanding of what has been said, it must be noted that this name *God* is said in three ways, namely *nuncupatively*, *adoptively* and *naturally*. In the first two modes it is pluralized; whence the Apostle in First Corinthians, chapter eight: *If indeed there are many gods, and many lords*; but in the third mode not, because thus this name *God* signifies the divine nature together with conditions whose collection is impossible to find in another; and therefore, just as a proper name does not have a plural, speaking according to art, so neither does this[?] name *God*.
+**I respond:** For the understanding of what has been said, it must be noted that this name *God* is said in three ways, namely *nuncupatively*, *adoptively* and *naturally*. In the first two modes it is pluralized; whence the Apostle in First Corinthians, chapter eight: *If indeed there are many gods, and many lords*; but in the third mode not, because thus this name *God* signifies the divine nature together with conditions whose collection is impossible to find in another; and therefore, just as a proper name does not have a plural, speaking according to art, so neither does this name *God*.
 
 **1.** Therefore to that which is objected, that among the Hebrews there is a plural which is *Heloim*; it must be said that the modes of signifying do not follow[^7] only the diverse general modes of understanding, but also the modes of expressing. And because they themselves have articles and diverse modes of expressing, which we do not have, therefore they can have [it], but we cannot.
 
@@ -120,9 +120,9 @@ Thirdly it is asked, whether this name *God* grammatically signifies the plural 
 
     **En.** The holy Doctor speaks according to the ancient fabulous opinion, that this bird exists in one sole individual, from whose ashes another arises. Boethius adduces the same example in Book I of [his commentary on] Aristotle's *Categories*, chapter on Denominatives.
 
-[^5]: **La.** Cfr. Priscian., II. Grammat. c. 5.[?]
+[^5]: **La.** Cfr. Priscian., II. Grammat. c. 5.
 
-    **En.** Cf. Priscian, *Grammar* II, c. 5.[?]
+    **En.** Cf. Priscian, *Grammar* II, c. 5.
 
 [^6]: **La.** Postulantibus mss. et edd. 1, addidimus *proprie*. Paulo infra aliqui codd. ut H ff post *multiplicatur* adiiciunt *vel plurificatur*; ed. 1 *nec plurificatur*.
 
