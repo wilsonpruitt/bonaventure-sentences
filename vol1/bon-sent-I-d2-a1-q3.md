@@ -13,7 +13,7 @@ pdf_pages: [156, 157, 158]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 54–56"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 17109-17359), fresh literal English translation, full apparatus from raw OCR (14 entries from p.54-56 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 17109-17359), fresh literal English translation, full apparatus from raw OCR (14 entries from p.54-56 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch) — 2026-05-12 [?]-flag polish pass: 6 resolved via 600dpi PDF (3 distinct loci × La+En mirrors), 0 accepted-illegible"
 format_version: 1
 ---
 
@@ -69,7 +69,7 @@ Ratio autem huius est, quia infinitas numeralis repugnat perfectioni et ordini, 
 
 **I.** Communiter triplex distinguitur infinitas, scil. numeralis, quae est in quantitate discreta, molis, quae est in quantitate continua, et virtutis sive immensitatis; cfr. infra d. 19. p. I. a. I. q. I. et 2. — Pro faciliore intelligentia quatuor argumentorum in fundam. haec notamus. Istae quatuor proprietates divinitatis, saltem tres primae, ita inter se connexae sunt, ut secunda (ordo) supponat primam (distinctionem) et tertia (connexio) utramque. Primum arg. ex distinctione sumtum sic procedit: si Deo attribuendum quod nobilius est, et si ibi est distinctio, ipsa distinctio debet esse sine confusione, cum confusio sit imperfectionis; sed ubi infinita multitudo, ibi est confusio: ergo etc.; cfr. infra d. 43. a. I. q. 3. Secundum arg. procedit ex hoc axiomate, quod, ubi est ordo, ibi necessario est primum et ultimum (terminus) et medium. Tertium arg. est satis perspicuum. In quarto arg., quod sumitur ex summa completione, i. e. plenitudine perfectionis, S. Doctor supponit cum sententia communi, quod « cognitio cuiuslibet personae est de substantia beatitudinis ». De hoc tamen Scot. (I. Sent. d. 1. q. 1.) dubitat et opinatur, non esse, absolute loquendo, impossibile, quod in caelo aliquis fruatur essentia Dei, non vero personis. De qua sententia videri potest Macedo, *Collationes doctrinae S. Thom. et Scoti*, collat. 3. differ. 3.
 
-**II.** Circa ipsam quaestionem: Alex. Hal., S. p. I. q. 43. m. 6., ubi latius fund. 1. et 2. explicantur. — Scot., hic q. 5.[?] et 7. — S. Thom., S. I. q. 30. a. 2. — B. Albert., de hac et seq. quaest. S. p. I. tr. 9. q. 41. m. 3. — Petr. a Tar., hic q. 2. a. 2. — Richard. a Med., hic a. 2. q. 2. — Henr. Gand., S. a. 53. q. 9. — Durand., I. Sent. d. 10. q. 2. — Biel, I. Sent. d. 10. q. 1.
+**II.** Circa ipsam quaestionem: Alex. Hal., S. p. I. q. 43. m. 6., ubi latius fund. 1. et 2. explicantur. — Scot., hic q. 5. et 7. — S. Thom., S. I. q. 30. a. 2. — B. Albert., de hac et seq. quaest. S. p. I. tr. 9. q. 41. m. 3. — Petr. a Tar., hic q. 2. a. 2. — Richard. a Med., hic a. 2. q. 2. — Henr. Gand., S. a. 53. q. 9. — Durand., I. Sent. d. 10. q. 2. — Biel, I. Sent. d. 10. q. 1.
 
 ---
 
@@ -115,7 +115,7 @@ The reason for this is that numerical infinity is repugnant to perfection and to
 
 **I.** Commonly infinity is distinguished into three kinds, namely numerical, which is in discrete quantity; of mass, which is in continuous quantity; and of power or immensity; cf. below d. 19, p. I, a. I, q. 1 and 2. — For an easier understanding of the four arguments in the *fundamenta* we note these things. These four properties of divinity, at least the first three, are so connected with one another that the second (order) presupposes the first (distinction) and the third (connection) presupposes both. The first argument, taken from distinction, proceeds thus: if to God is to be attributed what is more noble, and if there is distinction there, the distinction itself ought to be without confusion, since confusion belongs to imperfection; but where there is infinite multitude, there is confusion: therefore etc.; cf. below d. 43, a. I, q. 3. The second argument proceeds from this axiom, that where there is order, there is necessarily a first and a last (term) and a middle. The third argument is sufficiently clear. In the fourth argument, which is taken from supreme completion, i.e. the plenitude of perfection, the Holy Doctor supposes, with the common opinion, that "the cognition of any person belongs to the substance of beatitude." Concerning this, however, Scotus (I. Sent. d. 1. q. 1.) doubts and is of the opinion that it is not, absolutely speaking, impossible that someone in heaven should enjoy the essence of God but not the persons. On this opinion one may consult Macedo, *Collationes doctrinae S. Thom. et Scoti*, collat. 3, differ. 3.
 
-**II.** Concerning the question itself: Alex. of Hales, *Summa* p. I, q. 43, m. 6, where *fundamenta* 1 and 2 are more fully explained. — Scotus, here q. 5[?] and 7. — St. Thomas, *Summa* I, q. 30, a. 2. — Bl. Albert, on this and the following question, *Summa* p. I, tr. 9, q. 41, m. 3. — Peter of Tarantasia, here q. 2, a. 2. — Richard of Mediavilla, here a. 2, q. 2. — Henry of Ghent, *Summa* a. 53, q. 9. — Durandus, I. Sent. d. 10, q. 2. — Biel, I. Sent. d. 10, q. 1.
+**II.** Concerning the question itself: Alex. of Hales, *Summa* p. I, q. 43, m. 6, where *fundamenta* 1 and 2 are more fully explained. — Scotus, here q. 5 and 7. — St. Thomas, *Summa* I, q. 30, a. 2. — Bl. Albert, on this and the following question, *Summa* p. I, tr. 9, q. 41, m. 3. — Peter of Tarantasia, here q. 2, a. 2. — Richard of Mediavilla, here a. 2, q. 2. — Henry of Ghent, *Summa* a. 53, q. 9. — Durandus, I. Sent. d. 10, q. 2. — Biel, I. Sent. d. 10, q. 1.
 
 ---
 
@@ -163,9 +163,9 @@ The reason for this is that numerical infinity is repugnant to perfection and to
 
      **En.** Here in the Vatican is wanting *et* ["also"], which the manuscripts and ed. I exhibit. A little later, from the codices and ed. I, we have added the words *et originem* ["and origin"] and *alia non* ["the others not"], which the Vatican depravedly omits. Likewise the codices and ed. I read *neutrum* in place of *neutra*, which the Vatican has.
 
-[^11]: **La.** Codd. A T aliique cum ed. I *pra qualibet*[?], quod exstat in Vat., exhibent distinctius *qualicumque*.
+[^11]: **La.** Codd. A T aliique cum ed. I *pro qualibet*, quod exstat in Vat., exhibent distinctius *qualicumque*.
 
-     **En.** Codices A T and others with ed. I, against *qualibet*[?] ["whatever-of-each-kind"], which stands in the Vatican, exhibit more distinctly *qualicumque* ["whatsoever-kind"].
+     **En.** Codices A T and others with ed. I, against *pro qualibet* ["for whatsoever"], which stands in the Vatican, exhibit more distinctly *qualicumque* ["whatsoever-kind"].
 
 [^12]: **La.** Fide omnium mss. et ed. I expunximus propositionem sequentem: *Et per hoc patet responsio ad secundum, scilicet quare infinitas numeralis non est ponenda in Deo, sicut virtualis*, quae hic a Vat. ad ordinem solutionum servandum additur. Sed semel pro semper notandum, quod saepe saepius specialis responsio ad obiectionem a S. Doctore omittitur, quando ipsa iam in praecedentibus, sicuti v. g. hic in corp. articuli, clare continetur.
 
@@ -175,6 +175,6 @@ The reason for this is that numerical infinity is repugnant to perfection and to
 
      **En.** The Vatican, against the manuscripts and ed. I, has *in infinitate* ["in infinity"] for *infinite* ["infinitely"].
 
-[^14]: **La.** Codd. cum edd. I, 2, 3 omittunt hic in Vat. additum *multiplicare se*, quod facile suppletur. Paulo infra Vat. cum recentiore cod. cc, contrariantibus aliis mss. et ed. I, interpunctione mutata ac posito *convenit Deo* loco *ideo*, habet *et convenit Deo: non sequitur ergo, magis*. Dein circa finem rei[?] ex mss. et ed. I ante *ideo* adiecimus particulam *et*.
+[^14]: **La.** Codd. cum edd. I, 2, 3 omittunt hic in Vat. additum *multiplicare se*, quod facile suppletur. Paulo infra Vat. cum recentiore cod. cc, contrariantibus aliis mss. et ed. I, interpunctione mutata ac posito *convenit Deo* loco *ideo*, habet *et convenit Deo: non sequitur ergo, magis*. Dein circa finem responsionis ex mss. et ed. I ante *ideo* adiecimus particulam *et*.
 
-     **En.** The codices with editions 1, 2, 3 omit here what is added in the Vatican, *multiplicare se* ["to multiply itself"], which is easily supplied. A little below, the Vatican with the more recent cod. cc, against the other manuscripts and ed. I, with the punctuation changed and *convenit Deo* placed in place of *ideo*, has *et convenit Deo: non sequitur ergo, magis*. Then near the end of the matter[?], from the manuscripts and ed. I, we have added before *ideo* the particle *et*.
+     **En.** The codices with editions 1, 2, 3 omit here what is added in the Vatican, *multiplicare se* ["to multiply itself"], which is easily supplied. A little below, the Vatican with the more recent cod. cc, against the other manuscripts and ed. I, with the punctuation changed and *convenit Deo* placed in place of *ideo*, has *et convenit Deo: non sequitur ergo, magis*. Then near the end of the response, from the manuscripts and ed. I, we have added before *ideo* the particle *et*.

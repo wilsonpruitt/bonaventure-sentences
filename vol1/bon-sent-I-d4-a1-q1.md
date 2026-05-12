@@ -13,7 +13,7 @@ pdf_pages: [199, 200, 201]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 97–99"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23584-23973), fresh literal English translation, full apparatus from raw OCR (17 entries from p.97-99 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 23584-23973), fresh literal English translation, full apparatus from raw OCR (17 entries from p.97-99 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch) — 2026-05-12 [?]-flag polish pass: 13 resolved via 600dpi PDF, 0 accepted-illegible"
 line_start: 23584
 line_end: 23973
 format_version: 1
@@ -72,7 +72,7 @@ Circa primum, quod haec locutio: Deus genuit Deum, sit concedenda,
 
 ### Scholion
 
-**I.** In gratiam lectorum, qui in antiqua logica minus sunt exercitati, iuvat hic ponere explicationem aliquorum [terminorum?][?], quae in hac quaestione et alibi in hoc opere saepe occurrunt. Sumtae sunt hae et aliae multae alibi in notis positae explicationes magna ex parte ex Summulis Petri Hispani, quae tempore S. Bonaventurae in manibus scholarium erant. Postquam Petrus multa de rebus philosophicis et medicina scripsit, a. 1275 electus est in Summum Pontificem et assumsit nomen Ioannis XXI. Mortuus est 16. Maii 1277. Plura videri possunt in quovis libro de logica scholastica tractante.
+**I.** In gratiam lectorum, qui in antiqua logica minus sunt exercitati, iuvat hic ponere explicationem aliquorum terminorum, quae in hac quaestione et alibi in hoc opere saepe occurrunt. Sumtae sunt hae et aliae multae alibi in notis positae explicationes magna ex parte ex Summulis Petri Hispani, quae tempore S. Bonaventurae in manibus scholarium erant. Postquam Petrus multa de rebus philosophicis et medicina scripsit, a. 1275 electus est in Summum Pontificem et assumsit nomen Ioannis XXI. Mortuus est 16. Maii 1277. Plura videri possunt in quovis libro de logica scholastica tractante.
 
 1. Aliud est *significatio*, aliud *suppositio* alicuius termini. Significatio est repraesentatio rei per vocem et convenit omnibus vocabulis tam substantivis quam reliquis, sive in propositione, sive extra propositionem.
 
@@ -143,7 +143,7 @@ Concerning the first [point], that this expression — God begot God — should 
 
 ### Scholion
 
-**I.** For the benefit of readers who are less practiced in the old logic, it is helpful here to set forth an explanation of certain [terms?][?] which often occur in this question and elsewhere in this work. These and many other explanations placed elsewhere in the notes are taken for the most part from the *Summulae* of Peter of Spain, which were in the hands of scholars in the time of St. Bonaventure. After Peter had written much on philosophical matters and on medicine, in 1275 he was elected Supreme Pontiff and took the name John XXI. He died on May 16, 1277. More may be seen in any book treating of scholastic logic.
+**I.** For the benefit of readers who are less practiced in the old logic, it is helpful here to set forth an explanation of certain terms which often occur in this question and elsewhere in this work. These and many other explanations placed elsewhere in the notes are taken for the most part from the *Summulae* of Peter of Spain, which were in the hands of scholars in the time of St. Bonaventure. After Peter had written much on philosophical matters and on medicine, in 1275 he was elected Supreme Pontiff and took the name John XXI. He died on May 16, 1277. More may be seen in any book treating of scholastic logic.
 
 1. *Signification* is one thing, *supposition* of any term another. Signification is the representation of a thing by means of an utterance, and it belongs to all words, both substantives and the rest, whether in a proposition or outside a proposition.
 
@@ -207,9 +207,9 @@ or of which things [in the plural] such a term is verified in some proposition. 
 
      **En.** Very many codices, together with the first six editions, omit *ipsi albedini et*, but wrongly, as is clear from the context.
 
-[^10]: **La.** Praedictarum regularum prima insinuatur ab Aristot., VII. *Metaph.* text. 21. et 27. ac IX. *Metaph.* text. 12. (VI. c. 6. 8. et VIII. c. 7.); secunda habetur in Petri Hisp. *Summula*, tract. de Suppos. et Distrib.; tertia in opusculo, quod etiam Petro Hisp. attribuitur, scil. *Parvorum Logicalium*, tract. de Negat. et Affirm. c. 1; quarta in eiusdem *Summula*, tract. de Re[strictione?][?].
+[^10]: **La.** Praedictarum regularum prima insinuatur ab Aristot., VII. *Metaph.* text. 21. et 27. ac IX. *Metaph.* text. 12. (VI. c. 6. 8. et VIII. c. 7.); secunda habetur in Petri Hisp. *Summula*, tract. de Suppos. et Distrib.; tertia in opusculo, quod etiam Petro Hisp. attribuitur, scil. *Parvorum Logicalium*, tract. de Negat. et Affirm. c. 1; quarta in eiusdem *Summula*, tract. de Relativis.
 
-      **En.** Of the foregoing rules, the first is hinted at by Aristotle, *Metaphysics* VII, text 21 and 27, and *Metaphysics* IX, text 12 (VI, cc. 6, 8, and VIII, c. 7); the second is found in Peter of Spain's *Summula*, tract on Supposition and Distribution; the third in a little work also attributed to Peter of Spain, namely the *Parvorum Logicalium*, tract on Negation and Affirmation, c. 1; the fourth in the same author's *Summula*, tract on Re[striction?][?].
+      **En.** Of the foregoing rules, the first is hinted at by Aristotle, *Metaphysics* VII, text 21 and 27, and *Metaphysics* IX, text 12 (VI, cc. 6, 8, and VIII, c. 7); the second is found in Peter of Spain's *Summula*, tract on Supposition and Distribution; the third in a little work also attributed to Peter of Spain, namely the *Parvorum Logicalium*, tract on Negation and Affirmation, c. 1; the fourth in the same author's *Summula*, tract on Relatives.
 
 [^11]: **La.** Ex plurimis mss. et ed. 1 substituimus *etsi* loco *et*. Mox cod. X post *deitate* habet *non tamen imponitur formae, sed personae*.
 
@@ -223,18 +223,18 @@ or of which things [in the plural] such a term is verified in some proposition. 
 
       **En.** That is, *it makes [the term] supposit*. — A little before, codex R [reads] *subiectum* in place of *illum*.
 
-[^14]: **La.** Ex antiquioribus mss. et ed. 1 mutavimus *responsio* in *solutio* et paulo post *non multiplicabilem* in *immultiplicabilem*[?].
+[^14]: **La.** Ex antiquioribus mss. et ed. 1 mutavimus *responsio* in *solutio* et paulo post *non multiplicabilem* in *immultiplicabilem*.
 
-      **En.** From older manuscripts and ed. 1 we have changed *responsio* into *solutio*, and a little after *non multiplicabilem* into *immultiplicabilem*[?].
+      **En.** From older manuscripts and ed. 1 we have changed *responsio* into *solutio*, and a little after *non multiplicabilem* into *immultiplicabilem*.
 
-[^15]: **La.** Vat. contra antiquiores codd. et ed. 1 addit [verbum?][?].
+[^15]: **La.** Vat. contra antiquiores codd. et ed. 1 addit *totaliter et*.
 
-      **En.** The Vatican [edition], against the older codices and ed. 1, adds [a word?][?].
+      **En.** The Vatican [edition], against the older codices and ed. 1, adds *totaliter et*.
 
-[^16]: **La.** Supplevimus ex mss. et ed. 1 *Deus*. Paulo ante cod. K. *modo negativo relativum non habeat suppositionem aliam a [supposito?][?] antecedente*.
+[^16]: **La.** Supplevimus ex mss. et ed. 1 *Deus*. Paulo ante cod. K. modo negativo *relativum non habet suppositionem aliam a suo antecedente*.
 
-      **En.** From the manuscripts and ed. 1 we have supplied *Deus*. A little before, codex K [reads]: "in the negative mode the relative does not have a supposition other than from its [supposit?][?] antecedent."
+      **En.** From the manuscripts and ed. 1 we have supplied *Deus*. A little before, codex K [reads], in the negative mode: "*the relative does not have a supposition other than from its own antecedent*."
 
-[^17]: **La.** Cod. K. addit [scilicet?][?] hic: *Deus genitus non est Pater: ergo Deus non est Pater*.
+[^17]: **La.** Cod. K. addit *hic*: *Deus genitus non est Pater; ergo Deus non est Pater*.
 
-      **En.** Codex K here adds [namely?][?]: "God begotten is not the Father: therefore God is not the Father."
+      **En.** Codex K adds *hic* ["here"]: "God begotten is not the Father; therefore God is not the Father."

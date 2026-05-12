@@ -15,7 +15,7 @@ line_end: 14818
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 38–39"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 14580-14818), fresh literal English translation, full apparatus from raw OCR (18 entries from p.38-39 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 14580-14818), fresh literal English translation, full apparatus from raw OCR (18 entries from p.38-39 footer blocks), scholion translated, [?] flags on ambiguous spots (2026-05-10 d.1-d.10 rechunk pipeline from-scratch) — 2026-05-12 [?]-flag polish pass: 6 resolved via 600dpi PDF, 0 accepted-illegible"
 format_version: 1
 ---
 
@@ -206,17 +206,17 @@ On the part of the mode of apprehending there is likewise dissimilarity, since t
 
      **En.** Codex X adds *etiam*. A little later codices aa and bb have *spiritualis* in place of *immaterialis*. Next, the codices do not agree among themselves; for codices A C G I L S T U W, after *tristatur*, omit *in*; codices R and ff put *ab*; codex bb has *ex*; many however, such as F H K etc., with the first edition, have *in*.
 
-[^14]: **La.** De hac differentia inter sensum et intellectum vide Aristot., II. *de Anima*, text. 123. et 143. paulo supra relatos, et libr. III. text. 4. (ed. Paris. c. 4.): *Necesse est itaque, quoniam (intellectus) omnia intelligit, immixtum esse;* et text. 7: *Quod autem non similis sit impassibilitas sensitivi et intellectivi, manifestum est [?]... tire ex vehementi sensibili... sed intellectus cum aliquid intellexerit valde intelligibile, non minus intelligit inferiora, sed et magis; sensitivum enim non sine corpore est, hic (intellectus) [?] est.*
+[^14]: **La.** De hac differentia inter sensum et intellectum vide Aristot., II. *de Anima*, text. 123. et 143. paulo supra relatos, et libr. III. text. 4. (ed. Paris. c. 4.): *Necesse est itaque, quoniam (intellectus) omnia intelligit, immixtum esse;* et text. 7: *Quod autem non similis sit impassibilitas sensitivi et intellectivi, manifestum est sensoriis et sensu. Sensus enim non potest sentire ex vehementi sensibili... sed intellectus cum aliquid intellexerit valde intelligibile, non minus intelligit inferiora, sed et magis; sensitivum enim non sine corpore est, hic (intellectus) autem separabilis est.*
 
-     **En.** On this difference between sense and intellect see Aristotle, *On the Soul* bk. II, text 123 and 143, recounted a little above, and bk. III, text 4 (Paris ed., c. 4.): *It is therefore necessary, since (the intellect) understands all things, that it be unmixed;* and text 7: *That the impassibility of the sensitive and of the intellective are not alike is manifest [?]... [the sense being unable to] sense from a vehement sensible... but the intellect, when it has understood something very intelligible, does not understand inferior things less, but even more; for the sensitive is not without a body, but this (the intellect) [?] is.*
+     **En.** On this difference between sense and intellect see Aristotle, *On the Soul* bk. II, text 123 and 143, recounted a little above, and bk. III, text 4 (Paris ed., c. 4.): *It is therefore necessary, since (the intellect) understands all things, that it be unmixed;* and text 7: *That the impassibility of the sensitive and of the intellective are not alike is manifest in the sense-organs and in sense. For sense cannot sense from a vehement sensible... but the intellect, when it has understood something very intelligible, does not understand inferior things less, but even more; for the sensitive is not without a body, but this (the intellect) is separable.*
 
-[^15]: **La.** Auctoritate antiquiorum [mss. — text garbled in OCR; [?]] substituimus *intelligibile* loco *intelligentiae*.
+[^15]: **La.** Auctoritate antiquiorum mss. substituimus *intelligibile* loco *intelligentiae*.
 
      **En.** On the authority of the older [manuscripts] we have substituted *intelligibile* in place of *intelligentiae*.
 
-[^16]: **La.** Ita codd. C H K O S T U Y aa bb et ed. [?]; sed codd. A F I L M R V W X Z *participando*; Vat. autem cum cod. cc *per*. Mox codd. X et Y *confortatur* loco *fortificatur*.
+[^16]: **La.** Ita codd. C H K O S T U Y aa bb et ed. 1; sed codd. A F I L M R V W X Z *participando*; Vat. autem cum cod. cc *per*. Mox codd. X et Y *confortatur* loco *fortificatur*.
 
-     **En.** Thus codices C H K O S T U Y aa bb and the [first] edition [?]; but codices A F I L M R V W X Z [have] *participando*; the Vatican edition, however, with codex cc, has *per*. Next, codices X and Y have *confortatur* in place of *fortificatur*.
+     **En.** Thus codices C H K O S T U Y aa bb and the first edition; but codices A F I L M R V W X Z [have] *participando*; the Vatican edition, however, with codex cc, has *per*. Next, codices X and Y have *confortatur* in place of *fortificatur*.
 
 [^17]: **La.** Cod. cc *scilicet quantum* pro *secundum quod*.
 

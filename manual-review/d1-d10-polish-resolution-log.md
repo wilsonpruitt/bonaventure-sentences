@@ -288,3 +288,117 @@ Findings on the pre-existing chunk:
 **[?] resolved count:** 11 (across 5 apparatus entries × Latin+English pairs, plus a few singletons).
 **[?] kept as ACCEPT-ILLEGIBLE:** 2 (both in [^6], same typographic cross-reference glyph).
 **Net:** 11 of 13 [?] flags resolved with verbatim PDF text; 2 kept with ACCEPT-ILLEGIBLE reason; 1 missing apparatus entry recovered ([^23] Col 1:13); body anchor positions on p.193 corrected to match the 10 printed footer markers; transcription_status updated.
+
+## d1-a3-q1 (pp. 38-39)
+
+- **Source**: `raw/vision/vol1/p-039.png` (600 dpi extract, footer band cropped via PIL to `/tmp/p039-footer-{L,R}.png` for legibility).
+- 6 inline `[?]` flags in apparatus entries `[^14]`, `[^15]`, `[^16]` resolved via 600dpi PDF eyes-on read of p.39 footer band. All carried over from the 2026-05-10 d.1-d.10 rechunk pipeline pass.
+
+| `[^N]` | Flag location | Pre-pass rendering | Resolved verbatim from PDF p.39 footer |
+|---|---|---|---|
+| `[^14]` | After `manifestum est` (Latin) | `manifestum est [?]... tire ex vehementi sensibili...` | `manifestum est sensoriis et sensu. Sensus enim non potest sentire ex vehementi sensibili...` (footer #5 on p.39 is fully legible; OCR had dropped `sensoriis et sensu. Sensus enim non potest sen-` across a line-break). RESOLVED. |
+| `[^14]` | After `hic (intellectus)` (Latin) | `hic (intellectus) [?] est.` | `hic (intellectus) autem separabilis est.` RESOLVED. |
+| `[^14]` | English mirror (first) | `manifest [?]... [the sense being unable to] sense from a vehement sensible...` | `manifest in the sense-organs and in sense. For sense cannot sense from a vehement sensible...` RESOLVED. |
+| `[^14]` | English mirror (second) | `this (the intellect) [?] is.` | `this (the intellect) is separable.` RESOLVED. |
+| `[^15]` | Latin: `Auctoritate antiquiorum [mss. — text garbled in OCR; [?]] substituimus` | bracketed disclaimer about OCR garble | Footer #6 reads cleanly: `Auctoritate antiquiorum mss. substituimus intelligibile loco intelligentiae.` Disclaimer stripped; English already correct. RESOLVED (OCR was actually fine; the prior pass over-flagged). |
+| `[^16]` | Latin & English: `et ed. [?]` / `the [first] edition [?]` | edition number not certain | Footer #7 reads: `Ita codd. CHKOSTUY aa bb et ed. 1, sed codd. AF ILMRVWXZ participando;` — i.e. `ed. 1` = first edition. RESOLVED in both Latin and English (English bracketed-`[first]` qualifier removed; now reads plain `the first edition`). |
+
+### `[?]` resolution count
+
+- 6 `[?]` flags resolved (all via 600dpi PDF eyes-on of p.39 footer band).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d1-a3-q1.md` after this pass.
+
+### Anchor-position residuals from prior log NOT in scope of this pass
+
+The `manual-review/tier2-ambiguities-d1-a3-q1.md` file flagged three anchor-placement uncertainties (`[^11]`, `[^12]`, `[^13]`/`[^14]` on p.39) where the marker glyphs in the OCR could not be reliably distinguished. Those concern *anchor position* (lemma-reasoning vs. glyph-confirmed), not text content, and were NOT marked with inline `[?]` flags in the chunk body — they remain dispositioned as "plausible, glyph-not-confirmed" per the existing log. The d.1-d.10 polish blocker scope is inline `[?]` text content; anchor-position residuals stay as-is.
+
+## d2-a1-q3 (pp.54-56)
+
+Bucket 1 [?]-flag polish pass against 600dpi PDF (`raw/vision/vol1/p-054.png` … `p-056.png` re-extracted at 600 dpi via `tools/extract-pages.py --force`). The IA djvu OCR for pp.54–56 was intact (apparatus already recovered in the 2026-05-10 rechunk pass); this session resolves three small OCR ambiguities that the rechunk pipeline correctly flagged with `[?]` rather than silently guessing.
+
+| Locus | OCR garble | PDF reading | Disposition |
+|---|---|---|---|
+| Scholion II citation list (Latin line 72 + English mirror line 118) | OCR `S.  et  7.` rendered as `q. 5.[?] et 7.` / `q. 5[?] and 7.` | p.56 right-column scholion plainly reads `Scot., hic q. 5. et 7.` | RESOLVED → `q. 5.` (the `[?]` was a precautionary flag; the digit is unambiguous on the PDF) |
+| Apparatus `[^11]` La+En (lines 166, 168) | OCR `pT&  qualibet` rendered as `*pra qualibet*[?]` | p.55 right-column footer note 9 reads `Codd. A T aliique cum ed. I **pro qualibet**, quod exstat in Vat., exhibent distinctius **qualicumque**` | RESOLVED → `*pro qualibet*` (OCR `pT&` / `pra` was a garble of `pro`); English mirror updated to gloss `pro qualibet` as "for whatsoever" |
+| Apparatus `[^14]` La+En (lines 178, 180) | OCR line-broke `re-/i` rendered as `circa finem rei[?]` / `near the end of the matter[?]` | p.55 right-column footer note 12 plainly reads `Dein circa finem **re-/sponsionis** ex mss. et ed. I ante *ideo* adiecimus particulam *et*` | RESOLVED → `circa finem responsionis` / `near the end of the response` (OCR truncated `responsionis` at hyphenated line-break, leaving the `re-` fragment that the rechunker read as `rei`) |
+
+### `[?]` resolution count
+
+- 6 `[?]` flags resolved (3 distinct loci × Latin + English mirrors).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `vol1/bon-sent-I-d2-a1-q3.md` after this pass.
+
+### Verification
+
+- `grep -c "\[?\]" vol1/bon-sent-I-d2-a1-q3.md` → 1 (the meta-mention in `transcription_status` describing the rechunk-era flagging, kept as historical record).
+- `cd site && node scripts/build-content.mjs` parses cleanly (414 chunks).
+- d.2-scoped `audit-paraphrase` / `audit-headers` / `audit-apparatus-count` re-run clean (see audit block at end of this log).
+
+## d4-a1-q2 (pp.99-101)
+
+- **Source**: `raw/vision/vol1/p-hires-d4q2-{201,202,203}.png` (600 dpi extracts of PDF pp. 201-203 = printed pp. 99-101).
+- **9 inline `[?]` flags** previously logged in `manual-review/tier2-ambiguities-d4-a1-q2.md` (5 Latin + 4 English/scholion). All 9 resolved by eyes-on 600 dpi read; no flags accepted-illegible.
+
+| # | Location | Prior rendering | Disposition |
+|---|---|---|---|
+| 1 | Latin Respondeo, p.100 col.1 | `de virtute[?][^6] sermonis` | RESOLVED → `de virtute[^6] sermonis`. PDF p.100 col.1 reads *virtute* (Vat. reading; ap. crit. note [^6] records codd. R cc *veritate*). |
+| 2 | English mirror | `strict force[?][^6] of the discourse` | RESOLVED → `strict force[^6] of the discourse`. |
+| 3 | Latin Respondeo end, p.100 col.1 | `non sequitur ad verbum [simpliciter? distin][?]ctionem` | RESOLVED → `non sequitur ad verbum simpliciter distinctionem`. PDF p.100 col.1 bottom clearly reads the unbroken phrase. OCR garble was line-break artefact. |
+| 4 | English mirror | `there does not follow upon the [single?] word [simply distin][?]ction` | RESOLVED → `does not follow upon the word [taken] simply [a] distinction`. |
+| 5 | Latin Ad 3, p.101 col.1 | `scilicet quod *Deus* [genuit?][?] *Deum*` | RESOLVED → `scilicet quod *Deus genuit Deum*`. PDF p.101 col.1 confirms full italic *Deus genuit Deum*; OCR had elided the verb. |
+| 6 | English mirror | `namely that *God [generated?][?] God*` | RESOLVED → `namely that *God generated God*`. |
+| 7 | Latin Scholion I, p.101 col.2 | `ad suum subiectivum [substantivum?][?] ponitur` | RESOLVED → `ad suum subiectivum ponitur`. PDF p.101 col.2 (scholion band) clearly reads *subiectivum* — OCR was correct; prior reviewer's "expected substantivum" hypothesis was wrong. The scholion deliberately distinguishes *subiectivum* (the thing the adjective subjects itself to, i.e. its grammatical subject) from *substantivum* later in the same sentence. |
+| 8 | Latin Scholion I | `importat [alietatem?][?] circa suum substantivum` | RESOLVED → `importat alietatem circa suum substantivum`. PDF p.101 scholion band confirms *alietatem* in full. |
+| 9 | English mirror (both 7 & 8) | `to its subject [substantive?][?], imports [otherness?][?]` | RESOLVED → `to its subject [substantive], imports otherness`. |
+
+### `[?]` resolution count
+
+- 9 `[?]` flags resolved (all via 600 dpi PDF eyes-on of pp.99-101).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d4-a1-q2.md` after this pass.
+
+### Verification
+
+- `grep -c '\[?\]' vol1/bon-sent-I-d4-a1-q2.md` → 0.
+- `cd site && node scripts/build-content.mjs` parses cleanly at 414 chunks.
+- Guard-rail audits (paraphrase, headers, apparatus-count) scoped to d.4 run with no new flags.
+
+## d4-a1-q1 (pp. 97–99)
+
+- **Source**: `raw/vision/vol1/p-097.png`, `p-098.png`, `p-099.png` (600dpi from `doctorisseraphic11bona.pdf` PDF pp. 199–201). Footer bands cropped via PIL for legibility.
+- **Status**: Tier-2 chunk from 2026-05-10 rechunk pipeline carried 13 inline `[?]` flags — 1 pair in scholion I body ("[terminorum?]" / "[terms?]"), and 11 inside apparatus `[^10]`, `[^14]`, `[^15]`, `[^16]`, `[^17]` (La+En) where OCR garbled italicized lemmata in the footer band on p. 98 right column. All 13 resolved against the 600dpi PDF.
+
+| Body anchor | Disposition | PDF source |
+|---|---|---|
+| Scholion §I body (La): `aliquorum [terminorum?][?]` | RESOLVED → `aliquorum terminorum,` | p. 98 left column, scholion opening line — printed `terminorum,` plain. |
+| Scholion §I body (En): `certain [terms?][?]` | RESOLVED → `certain terms` | mirror of above. |
+| `[^10]` La: `tract. de Re[strictione?][?]` | RESOLVED → `tract. de Relativis.` | p. 98 left-col footer note 3, ends "quarta in eiusdem *Summula*, tract. de Re-/lativis." (line-broken across two physical lines; tract is *de Relativis*, NOT *de Restrictione* as the OCR guess assumed). |
+| `[^10]` En: `tract on Re[striction?][?]` | RESOLVED → `tract on Relatives.` | mirror. |
+| `[^14]` La: `in *immultiplicabilem*[?].` | RESOLVED → `in *immultiplicabilem*.` (drop `[?]`) | p. 98 right-col footer note 6 verbatim: "Ex antiquioribus mss. et ed. 1 mutavimus *responsio* in *solutio* et paulo post *non multiplicabilem* in *immultiplicabilem*." Confirms reading is correct as it stands. |
+| `[^14]` En: `into *immultiplicabilem*[?].` | RESOLVED → `into *immultiplicabilem*.` | mirror. |
+| `[^15]` La: `addit [verbum?][?].` | RESOLVED → `addit *totaliter et*.` | p. 98 right-col footer note 7 verbatim: "Vat. contra antiquiores codd. et ed. 1 addit *totaliter et*." The added Vatican words are *totaliter et*, anchored at "negatio praeposita … omnino a subiecto removeat praedicatum" — Vat. inserts *totaliter et* before *omnino*. |
+| `[^15]` En: `adds [a word?][?].` | RESOLVED → `adds *totaliter et*.` | mirror. |
+| `[^16]` La: `aliam a [supposito?][?] antecedente` | RESOLVED → `aliam a suo antecedente` (also corrects `habeat` → `habet` and re-italicizes the cod. K lemma) | p. 98 right-col footer note 8 verbatim: "Supplevimus mss. et ed. 1. *Deus*. Paulo ante cod. K. modo negativo *relativum non habet suppositionem aliam a suo antecedente*." The bracketed `[supposito?]` was a wrong OCR guess; printed text is *suo*. Verb is `habet` (indicative) not `habeat` (subjunctive). |
+| `[^16]` En: `from its [supposit?][?] antecedent.` | RESOLVED → `from its own antecedent.` (translation revised to match `suo antecedente`) | mirror. |
+| `[^17]` La: `Cod. K. addit [scilicet?][?] hic:` | RESOLVED → `Cod. K. addit *hic*:` (drop bracketed guess; italicize the single added word `hic`) | p. 98 right-col footer note 9 verbatim: "Cod. K. addit *hic*: *Deus genitus non est Pater; ergo Deus non est Pater*." The added codex-K word is just *hic* (italicized), not a separate *scilicet*. Also corrected the semicolon between clauses per printed text. |
+| `[^17]` En: `adds [namely?][?]:` | RESOLVED → `adds *hic* ["here"]:` | mirror with literal gloss of the Latin word `hic`. |
+
+### `[?]` resolution count
+
+- 13 `[?]` flags resolved (2 in scholion body, 11 in apparatus `[^10]`/`[^14]`/`[^15]`/`[^16]`/`[^17]` La+En pairs).
+- 0 `[?]` flags accepted-illegible.
+- 0 `[?]` flags remaining in `d4-a1-q1.md` body/apparatus after this pass.
+
+### Notes from the read
+
+- p. 98 footer column-split: the left column carries notes 1–3 of the page (Bonaventure body footnotes), the right column carries notes 4–9. The IA djvu OCR for this footer band garbled the italicized Latin lemma words inside notes 6, 7, 8, 9, which is why the rechunk left bracketed-guess flags there. The 600dpi PDF read is unambiguous for all four.
+- `[^16]` correction (`habeat` → `habet`, italicization scope) was applied alongside the `[supposito?]` → `suo` resolution as part of the same lemma; this matches Quaracchi's printed italics convention for codex variant readings.
+- `[^17]` correction (colon → semicolon inside the cod. K lemma, italics scope) likewise matches the printed text.
+- The bracketed English gloss `*hic* ["here"]` in `[^17]` En mirrors d.5–d.6 polish-log convention for translating Latin variant-word lemmata.
+
+### Verification
+
+- `grep -nE '\[\?\]' vol1/bon-sent-I-d4-a1-q1.md` → only the `transcription_status` frontmatter line (historical reference to "flags on ambiguous spots"); no body or apparatus `[?]`.
+- `cd site && node scripts/build-content.mjs` parses cleanly.
+- d.4-scoped audits (paraphrase, headers, apparatus-count) re-run with no new flags surfaced by this chunk.
