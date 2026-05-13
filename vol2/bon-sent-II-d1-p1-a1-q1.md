@@ -3,378 +3,325 @@ id: "bon-sent-II-d1-p1-a1-q1"
 volume: 2
 book: 2
 distinctio: 1
+pars: 1
 articulus: 1
 quaestio: 1
 type: quaestio
+title_la: "Utrum res habeant principium causale."
+title_en: "Whether things have a causal principle"
+printed_pages: [13, 14, 15, 16, 17, 18, 19]
+pdf_pages: [35, 36, 37, 38, 39, 40, 41]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 13–19 (Articulus I, Quaestio I — De entitate principii: Utrum res habeant principium causale, with Scholion I–IV)"
+has_scholion: true
+has_apparatus: true
 line_start: 1669
 line_end: 2018
 word_count_latin: 5990
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 1669–2018 of vol2; printed pp.13 bottom – 19 top), fresh literal English translation, full apparatus from raw OCR footers (p.14 left-col notes 5–6, p.14 right-col notes 7–10, p.16 footer notes 1–8, p.18 footer notes 1–4, p.19 SCHOLION footer notes 1–4), scholion I–IV from OCR. Marginal glosses (Adoppositum., Notandum., Solutio I/II., Ex nihilo intelligitur tripliciter., Eo primus./Secundus./Tertius./Quartus., conclusio est non solum etc.) trimmed per CLAUDE.md convention. p.15 and p.17 page-break positions approximate ([?] flagged inline) because OCR ate the right-page running heads. (2026-05-13)"
 format_version: 1
 ---
 
 # bon-sent-II-d1-p1-a1-q1
+## *Utrum res habeant principium causale.*
+
+---
 
 ## Latin
+<!-- page 13 -->
 
-QUAESTK) I.
-                                           Utrum re.s /labeant principium causale.
+### ARTICULUS I.
+*De entitate principii.*
 
-      Quantum ad primum sic proceditur.                                       1. Primo a parte producenti^s sic. Quanto pro-Fund^ent»-
-      Ciun constet secundum Sanctos et philosophos,                    ducens est prius et perfectius, tanto plus influit in
-quod omnes res mundanae habuerint principium                           rera ^ : ergo primum et perfectissimum influit to-
-productivum tum propler rerura varietatem , tum                        tum et in totum; et si hoc, ergo totum producit.
-propter rerum inutabititatem , tum propter rerum                       Sed primum agens est huiusmodi: ergo etc.
-ordinem , tum etiam propter imperfeclionem — mul-                             2. Item , nobilins et perfectius est agens ,
-titudo enim ortum habel ali unitate, et niolus sive                    quanto paucioribus indiget ad agendum% ergo agens
-rantabile ab imnuilabili , et ordo ad primuin , et im-                 nobilissimum nullo extra se eget : ergo si ipsum
-                                                                       solum essel, adhuc res produceret : sed non ex se,
-perftctum ad perrectuiii originaliter redncuntur ^ —                   cum ipse millius sit pars : ergo ex nihilo : patet
-idco hoc supposito, scilicet quod res habeant prin-
-cipiuin cansale aliquo modo, est quaestio, utrura                      ergo, quod Deus potest in totam substantiam crea-
-res sint productae omnino, hoc est secundura prin-                     turae.
-cipium materiale et formale. an tantum secunduni                              3. Item, agens seeiuiduin forinam potest pro-
-allerum principiorum. El quod secundum utrumque,                       ducere formam ' : ergo pari ratione agens seoun-
-videtur :                                                              dum se totum potest producere totuni; sed Deus se
+### QUAESTIO I.
+*Utrum res habeant principium causale.*
 
-     ' Plurimi coUd. bonitatis.                                        sit. Etenini perfectionc sublata, unde illud, quod imperlectum
-       '^ Vat. Greator enim esi otc. Sed liaec |)roposilio in textii   pcrliibetur, exstiterit, ne fingi quidem polest etc.
-Magistri praecedit immediatc illam, qiuim nos fidc fere omnium               ^ flaee propositio formata est ex prop. I , libri de Causis,
-codd. posuimus. Mox codd. cum ed. 1 minus congrue Tertio               quam vide tom. I. pag. 471 , nota 3, et pag. C38 , nota 2.
-pro /h tertia, et incindit pi'o concludit.                                   ^ Secunduni .\ristot. , II. de Caelo el mundo, text, 62.
-       ^ Codd. N Z in litteia. Paulo inferius Vat. cum uno altc-       seqq. (c. 12.). — Paulo inferius ed. I producere posset pro
-roi|ue cod. post entitatein subiungit vel causalitatem.                produceret. Vei'borum immediatc sequentium sed non ex se etc.
-       * De his clr. tom. 1. pag. H42 , nola 3 ; pag. i20, nota o.     fusioreni probationem invcnies I. Sent. d. 8. p. II. q. 2; d. 19.
-et 7, et pag. 421, nota 2; — pag. 78, nota 2, et pag. 157,             p. II. q. 3, et d. 31. p. II. a. 2. q. 1.
-nota 11; — d. 43. q. 3. in coip. ; infra q. 2. fund. 2, ct                   ' Supponitur hic et iu (ota fere quaestione .\ristolelis dc
-.^ristot. , XI. Metapli. c. 2. (X. c. 2.): Quo nani(|ue pacto ordo     maleria et forma doctrina, in specie, quod omnis actio natu-
-erit, non existente aliquo perpetuo, separato ac permanente ? —        ralis pracsupponil subiectum , in quod Iransit, ct hoc est nia-
-pag. 326 , noUi 7 ; pag. 42 1 , nota 2 ; pag. 77 , dub. I ; et         teria, utpotc priucipium passionis. et quod forma est principium
-Boetli., ni. de Consol. prosa 10; Onme enim, quod imperfec-            actionis, mediante qua sin)ilis forma producilur. Cfr. I. Pliys.
-tum esse dicitur, id imniinutiojic perfccli imperfectuni esse          tex(. 81. scq. (c. 9.); I. de Gener. et corrupl, text. 55. (c. 7.)
-perhibetur. Quo lit, ut si in quolibet genere imperfectum quid         ct II. tcxl. 53. (c. 9.).
-esse videatur, in eo |)erfectum quoque aliquod essc necesse
-                                                                                                                                            13
+Quantum ad primum sic proceditur.
 
-                                                  DIST. [. 1'. I. ART. 1. QUAEST. l.
-toto agit , cum sit omnirio simplex : ergo producit                        quaero de forma, utruni fiat ex atiquo, vel ex
-totum.                                                                     ■nihil.o. Si ex nihilo, pari ratione et materia ex ni-
-     4. [tem . hoc ipsura ostenditur a parle rei con-                      hilo. Si ex aliquo, quaero, quid sit illud. Non essen-
-ditae sic: quod non est ab aiio, est a se ipso: nihil                      tia materiae : constat , quia forma simplex est: ergo
-autem tale quod a se ipso est, indiget alio, ut sit';                      forma non lit ex materia , ila quod maleria .nt eius
-sed omne intrinsecum principium rei indiget alio .                         principium constitutivuui. Nec fit ex materia. ila
-ut sit, nam forma indiget materia. et e converso:                          quod materia fiat forraa; Ot ergo ex aliquo, quod
-ergo etc.                                                                  est in materia '. Tunc ego quaero : de quo est
-     D. Item , efficiens et finis sunt causae correlati-                   illud? Et constat, quod non est ex materia, pari ra-
-vae -, ergo quod non est ab alio, non est ad aliud;                        tione: ergo vel erit abire in infmitum in causando %
-sed omnia sunt ad aliud secundum omne quod sunt ,                          vel necesse est ponere. essenlias formarum a primo
-quia secundum omne quod sunt, appetunt bonum;                              opiQce productas ex nihilo: ergo pari ratione et
-et status non esl iiisi in summo bono. Et quod ista                        materiam.
-ratio sit bona, ostendilur. Si enmi bonum el ens                                 1. Ad oppositnni sunt rationes primo a parte Ad opposi-
-convertuntur ' , ergo quod est se ipso ens se ipso                         efficientis. Prima haec est: omnis effectus aliquo                      """'
-est bonum ; sed quod se ipso est l3onum , non est                          modo assimilatur causae '; sed principium primum
-propter aliquid abud : ergo quod non est ab alio, non                      est actus purus, nihil habens de possibili, materia
-est propter aliud. Si ergo omnia mundana secun-                            autem rerum est possibile purum per sui essentiara ,
-dum se tota sunt propter aliud, ergo sunt ab alio.                         nibil habens de actu : ergo cum materia in nnllo
-     ('). [tem. si res non est totaliter ab abo, aut                       assimiletur opifici , non est ab ipso.
-hoc est ratione formac , aut ratione materiae. Con-                               2. Itera , ab agente pulcherrimo et lurainosis-
-stat quod m\\formae\ quia videmus, fornias pro-                            sirao non procedit turpe et tenebrosura ; sed Deus
-duci, et si formae non producerentur, omnino nibil                         est ipsa pulcritudo et ipsa lux '°, materiale prin-
-producerelur. Si ratione lyuUeriae; sed contra: ut                         cipium est turpe et tenebrosum: ergo etc.
-dicit Philosopbus in Prima Philosopbia '" , « actus est                          3. A parte rerum ostendilur i]e;formali prin-
-ante potentiam » ; constal, quod non Joquitur de po-                       cipio: « Omne enim quod producitur et fit, fit a sibi
-tentia activa, sed passiva: ergo cum actus rei sit                         simili nomine el specie, iit bomo ali liomine » , se-
-ab alio, similiter et materia. Si tu dicas, quod in-                       cuiidum quod dicit Philosopbus septiino Philosopbiae
-telligilur non deactu, qui est/orma, sed efftciens;                        primae ". Si ergo formae rerura sunt principia pro-
-idem concluditur. — Et iterum, ego quaero , quare                          ducendi, et principium producendi praecedit rerum
-materia non sit ab alio. Si quia est principium, ex                        productionem: ergo i'es non sunt prodnctae quoad
-quo lumt celera , nec habet unde fial " ; lunc ego                         principiuin formale.
+Cum constet secundum Sanctos et philosophos, quod omnes res mundanae habuerint principium productivum tum propter rerum varietatem, tum propter rerum mutabilitatem, tum propter rerum ordinem, tum etiam propter imperfectionem — multitudo enim ortum habet ab unitate, et motus sive mutabile ab immutabili, et ordo ad primum, et imperfectum ad perfectum originaliter reducuntur[^1] — ideo hoc supposito, scilicet quod res habeant principium causale aliquo modo, est quaestio, utrum res sint productae omnino, hoc est secundum principium materiale et formale, an tantum secundum alterum principiorum. Et quod secundum utrumque, videtur:
 
+1. *Primo a parte producentis* sic. Quanto producens est prius et perfectius, tanto plus influit in rem: ergo primum et perfectissimum influit totum et in totum; et si hoc, ergo totum producit. Sed primum agens est huiusmodi: ergo etc.
 
-     ' ClV. Ansclni. , Monol. c. 3. seqq. — De minori vide                       ' Quod vocatur ratio seminalis, de qua inlra d. 18. a. 1.
-tom. I. pag. 169, nolo 4. — Pi-o a se ipso, quod bis occur-                q. 3, vel secundum alios potentia materiac.
-rit, plurimi codd. cuni ed. 1 secundo loco habent se ipso ,                      * Quod est im|)Ossibile in omni genere causarum , ut
-quod etiam a paucioi-ibus mss. primo loco poniiur (cod. bb                 ostendit Arislot. , II. Melaph. text. .5. seqq. (I. brevior , c. 2.).
-et cd. I in se ipsoj.                                                      — Cod. aa inquirendo pro in causando.
-      ■^ ,\i'istot., II. Pliys. text. 70. (c. 7.) oslendil, Iros causas,         ' Dionys. , de Div. .Nom. c. 2. % 8. ct c. 9. § 6. — Quod
-scil. eflicienlcni , lormalem et finalem, esse conncxas inter se ,         materia sit pura potentia, docet Arislot., I. Phys. lext. 69.
-immo multoties in unam concurrere. De minori eiusque addilu                (c. 7.) et VII. Metaph. lext. 8. (VI. c. 3.) , de quo tom. I.
-ratione cfr. Bocth. , III. de Consol. prosa 11. — Simili argu-             pag. 338, nola II, et infra d. 12. a. 1. — Paulo inferius plu-
-mento S. Doctor, libr. I. d. 2. q. 1. fundam. 3. probat, unum              res codd. ut B C I 0 P R T de materia possibiti pro de possi-
-tantum esse Deuni. — Paulo inferius non pauci codd. in                     bili ; dein Vat. potentiale pro possibile.
-smmnc bonum pro in summo bnno, incongrue.                                        '" Epist. I. loan. I , .3. — De seq. prop. cfr. .Vrislot., I.
-      3 Dionys. , de Div. Noni. c. -3; cfr. tom. I. ]>ag. 32, nota 2.      Phys. texl. 81. (c. 9.}, ubi docet, materiam appeterc. formam,
-— Mox plurcs codd. se ipso est ens buniim pro prinio se ipso               sicut lurpe pulcrum. — Aliquanto superius cod. W lucidis-
-est bonum, ubi Vat. cum paucis mss. adiungit et e converso.                siino pro tuminosissimo. Cod. F conclusionem argumenli sup-
-      * Cod. Q ralione formae.                                             plel erijo nullo modo est ab ipso.
-      ^ Libr. IX. Melaph. text. 13. seqq. (VIII. c. 8.), ubi pro-                 " Tcxt. 281 (VI. c. 8.) : « In qiubusdam ctenim etiam ma-
-bat, actum potentia prioreni esse ralione (definitione), sub-              nifestum est, quod generans tale esl, quale quod generatur, non
-stantia (peiieclione) et quando(iue lempore ; ac Xil. k-xt. 30.            tameii idem nec unum iiumero, sed unum specie, ut in natura-
- (XI. c. 6.), ubi eadem ratione monslrat, praeter substantias              libus; homo namque homincm gcncral ». Et text. 30. (VI. c. 9.)
- nalurales unam esse , quae sempilerna sit et actus. — Verba ,             iuxta translaiionem Arabico-lalinam : « .Manifeslum est igitur ex
- quac sequunlur: constat, qiiod non loquitnr Hc. intellige secun-          dictis , quod quoquo modo omne quod fit , lit a conveniente
- dum .\lex. Hal. , S. p. II. q. I. m. 2. a. 3: » et loquitur dc            in nomine (e? rjjiwvufjiou), sicut illiid quod est per naluram ».
- potentia, quae perficitur per actum ». — Paulo inferius multi              .Vverroes in hunc tcxtum : Manifestum csl igitur ex praedictis,
- codd. cum cd. I omitlunt simililer.                                        quod omne qiiod generatur, gcneratur a conveniente in nomine
-       '^ Aristot. , 1. Phys. tcxl. 82. (c. 9.) : Si enim (materia)         et ratione, ul illud quod est pei' naturam, i. e. homo ah
- flat, subiici aliquid oportet primum, ex quo inexistonle fiat.             hominc. Dc scq. prop. cfr. Aristot. , VII. Molaph. lext. 22. seqq.
- Hoc autcm ^est ipsius natiira. Qunre, erit antequam fiat. Dico             (VI. c. 7.), ubi conlra Platonem oslendil, formas existenlos in
- enim, materiam primum subiectum uniuseuiusqne. ex quo ftt                  rebus corporalibus csse a formis, qiiae siinl in materin.
- aliquid, cum insil, non secundum aecidens.
-        16                                                     SENTENTIARUM IJB. II.
+2. Item, nobilius et perfectius est agens, quanto paucioribus indiget ad agendum: ergo agens nobilissimum nullo extra se eget: ergo si ipsum solum esset, adhuc res produceret: sed non ex se, cum ipse nullius sit pars: ergo ex nihilo: patet ergo, quod Deus potest in totam substantiam creaturae.
 
-             A. Ilem, artifex non potest producere, nisi prae-                  dum se totura, sed etiara secundura sua intrinseca
-       cognoscat; non potest praecognoscere nisi per for-                       principia, quae nim ex aliis, sed de nihilo sunt
-       mas^; non potest per formas cognoscere, quae nulio                       proriucla. — Haec aulem veritas, etsi nunc cnilibet
-       moclo sunt: ergo impossibile fuit, quod summus ar-                       lideli " sit aperti et lucida, laluit tamcn prudentiam
-       tifex mundum formaret, nisi formae prius essent,                         philosophicara , quae in huius quaestionis inquisitione
-       per quas cognosceret ; et illae non potuerunt produci                    longo tempore ambulavit per devia. Fnerimt enim Emr pri-
-       simiiiler nisi per formas: ergo si non est in infmitum                   quidam antiqui philosopbi ', qui dixerunt, nnmdum
-       abire, est ponere, formas rerum non esse productas.                      factum esse a Deo et de sui essentia, quia non vi-
-             3. Itera , lioc ipsum ostenditur quoad maleriale                   debant, quomodo aliquid posset fieri ex nihilo; et
-       'principium. « Onnie quod producitur, producitur                         solus Deus fuit in principio, et ideo dixerunt, quod
-       ex aliquo, vel ex nihilo; sed ex niliilo niliil: ergO                    fecit omnia de se ipso. — Sed haec positio iion sn-
-       orania ex aliquo ' » ; illud autem est materia: ergo si                  lum fidelibus, sed etiam sequentibus pbilosophis
-       stare est et nou abiie in infmitum, illud non est produ-                 apparuit improbabilis, quod Dei essentia *" omnino
-       ctum. Quod aulem ex nihilo nihii fiat, videtur. Prodn-                   invariabilis et nobilissima fieret corporalium et va-
-       ctio eniin rei est actio; sed oinnis actio reqnirit in quid              riabilium materia, qnae de se est imperfecta, nisi
-       agat % ergo et omnis productio: ergo omni produ-                         perficiatur per formara.
-       ctioni subiicitur aliquid; non nisi materia : ergo etc.                        Fuerunt et alii, quidixerunt, mundum factum secundus.
-             f). Item, ego quaero de productione sive crea-                     esse ex principiis praeexistentihus , scilicet ex ma-
-       tioiie passiva" , ulrura illa sit suhstantia, vel ac-                    teria et forraa; sed formae latebant in materia, an-
-       cidens; non substanlia , ergo accidem. Sed omne                          lequam intellectus illas distingueret. Et hoc posuit
-       accidens fundatur in aliquo; sed lioc non potest esse                    .\naxagoras '. — Sed quia formas esse oranes simul
-       creatum , cuin illud sequatur naturaliter ipsam crea-                    in materia, non capit ratio recta, ideo per sequentes
-       tionein : ergo neeesse est, quod sit increatum et aliud                  philosophos ista positio improbata est.
-       a Deo, quia creatio-passio iii alio est: ergo necesse                          Fuerunt et tertii, qui mundum ex prmcipm TerUus.
-       est, omne quod producitnr, ex aliquo produci; et                         praeexistentibus factum posuerunt, scilicet materia
-       ideo Pbilosophus in priino Physicoiaun ' dicit, quod                     et forma; sed maleriam per se posuerunt, formas
-       materia est ingenita.                                                    separatas et postmodum ex tempore ab opiflce
-                                 c 0 N c L u s I 0.                             sunirao esse coniunctas. Et hi fuerunt Platonici '°. —
-                                                                                Sed quia illud irrationabile videtur , quod inaleria
-       Mundus de ni/iilo est productus el .secuiulum se                         ab aeterno fuerit imperfecta, et quod eadem forina
-           totum et secundnm su.a pririeipia intrimeca.                         sit separata pariter et coniuncta ; et absiirdum vi-
-                                                                                detui' triplicem hominem ponere, scilicet natura-
-                Rkspondeo: Dicendum , qnod haec veritas est:                    lem , mathemalicum et divinum: ideo etiam per
-conciusio. imindns in esse productus est, et non solum secun-                   sequentes pliilosophos haec positio reprobata est.
+3. Item, agens secundum formam potest producere formam[^2]: ergo pari ratione agens secundum se totum potest producere totum; sed Deus se toto agit, cum sit omnino simplex: ergo producit totum.
 
+<!-- page 14 -->
 
-              ' Plalo, Uorg. (ed. Serraiii, toni. I. pag. .i6o)aii: « Ego       ria. — Vat. primani     niinorem    exhibet sic : Si ex niliilo ; e.x
-        autcm artis iiomine dignam minime eam rem esse existimo ,               niliili) nihil fit.
-        iiuae careat ratloiie ». Et X. de Republ. (tom. il. pag. o96) :               3 Uilbert. Porret. in libro Sex princip. c. 2. ait : « Actio vero
-        «. Nonnc solemus cliam dicerc supellectilis utriusque artificem         est, secundum quani in id quod subiicitur, agere dicimur, ut
-        sic opus suum absoKere, ut in formulam illam [ideam] in-                secans quis, in co quod secet, secans dicilur ». Quare etiam
-        Uieatur...? Non enim ulkis artife.\ ideam ipsam fabricat. Qui           cod. P hic addit in Sex principiorum. — Paulo inferius cod. F
-        enim posset » ? .Aristot., VI. litliic. c. 4: « Ars igitur, sicut       et hoc est, non pauci alii codd. falso non igitur pro non nm.
-        dictum est, liabitus quidam esl cum ratione vera clTectivus » ;              * De qua vide infra a. 3. (|. 2. in corp.
-        et Vil. Metapli. text. 23. (VI. c. 7.) : « .\b arte autem liunt              5 Text. 82. (c. 9.). — Cod. 0 aliquanto superius creatio
-        quorum forma in anima ». Cli-. tom. I. pag. 600, nota 7. —              passira pro creatio-possio . et dein Vat. post ex atiquo addit
-        Paulo post Vat. cum uno alteroc|ue cod. praecognoscerif pro             in producto.
-        cognoscere, et est pro fuit. Deinde alii|ui codd. ut H bb pote-               « Vat. etsi cuilibet fides, quae etiam cum uno alteroque
-        rant pro potuerunt. — Hoe ai'gunicntmn esl Plalonis dicentis            cod. post latuit tamen subiungit providentiam vel.
-        iji Timaeo (tom. III. pag. 28.): Quidquid autern gignitur, ex                ' Eleatae, qui docebant monismum , (|uoruni dux luit
-        aliqua causa gigni necessc est ; iieri enim nnllo modo |)otest,         Xenophanes (versus a. o69 anle Chr.). Cfr Arislol., I. Phvs.
-        ut quidquam sine causa gignatur aut liat. Quocirca, si is               texl. 32. (c. 4.), I. Metaph, c. 9. (c. S.).
-        qui uliquod opus cflicere molilur, eam speciem, quae semper                   * Cod. P guod Dei natura, quae est.
-        esteadem, intuetur aUiue eam sibi proponit e.xemplai' , et                    9 Cli'. Aristot. , I. Phys. text. 32. seqq. (c. 4.), I. Metaph.
-        quidem illam cogitationisque suac viin educit in opus, ita              c. 4-7. (c. 3. seq. ); etAugust., VIII. de Civ. Dei, c. 2. seqq.;
-        omnino necesse est, rem totam pracclare absolvi ; sin autem in          ubi placila aiUiquorum pliilosophoiHim breviter enunie4'antur.
-       -il.lam, quae gignitur, iuspiciet, genitum exemplar sibi propo-                '" Plato in Timaeo, ex quo iam (nota I.) aliqua relulimus.
-        ncns, non praeclarum certe opus perficiet... .\tqui si pulclier est     Cfr. ctiam Aristot., I. Phys. text. 32. (c. 4.) , I. Metapli. texl. ti.
-        bic muudns , si bonus cst eius opifex , |)er.spicuuni est, i|isum       seqq. (c. 6.), VII. lext. Sl. seqq. (VI. c. 14.) el XIII. c. 4. usque
-        ad .sempitcrnuni illud (>xem|ilar respcxisse elc.                       in finem libri (.\ll. c. 4. seqq.), ubi intcr cetera argumenla
-              - Vide Aristot. , 1. Phys. text. M. et71. (c. i. et 8.), ubi      etiam illa atTcrunliir, quorum S. Doclor mentioncm facil. —
-        lioc ai'gumenluni anliquis philosophis, praecipue Anaxagor.ae,          Paulo iiiferius cod. aa generalius, sed minus conformiter diclis
-        tribuilur. Ibid. lexl. S2. (c. 9.) insinualur Hi/jio/' seq. de niate-   .\ristoielis loc. ci(., mumlum pro Iwminem.
-                                                       DIST. [. P. I. ART. I. OUAEST.                                                           17
+4. Item, hoc ipsum ostenditur a parte rei conditae sic: quod non est ab alio, est a se ipso[^3]: nihil autem tale quod a se ipso est, indiget alio, ut sit; sed omne intrinsecum principium rei indiget alio, ut sit, nam forma indiget materia, et e converso: ergo etc.
 
-               Fuerunt etiam quarti, scilicet Peripatetici, quo-             (ive. Nam materia non est privatio pura, immo ra- Notanaum.
-  QMrtns. rum princeps et dux fnit Aristoteles, qui veritati                 tione suae essentiae habet aliquid de pulcritudine
-          magis apprnpinquantes dixerunt munduni factum,                     et aliquid de luce. Unde Augustinus " dicit, quod
-         sicut legitur in secundo Meteororum ' : «Dico igitur,               habet modum, speciem etordinem, quamvis imper-
-         quod mare factum est » , et in principio de Caelo et                fecte. Non oportet autem, quod Deus omnes res
-         mundo; et de pluribus aliis locis potest elici. Sed                 producat sibi aequaliter simiies, immo secundum
-         dixerunt, non esse factum ex principiis praeexisten-                graduni. Et ideo ad hoc, quod gradus sint perfecti,
-         tihus. Sicut enim vult in primo Vegetabilium ^ ,                    necesse est ponere aliquid pi'ope Deum, et hoc simil-
-         mundus semper fuit plantis et animalibus pienus ,                   limum; et aliquid prope niliil, et hoc aliquo modo
-             ubi loquitur contra Abrucalem. lltrum autem posue-              simile, licet non omnino nec perfecte, qund, quam-
-             rit materiam et formam factam de nihilo, hoc ne-                vis in se minimum habeat de bono, tamen optime
-             scio; credotamen, quod non pervenit ad hoc, sicut
-                                                                             ordinatum est °.
-             melius virtebitur in problemate secundo: ideo et ipse                 3. 4. Quod obiicitur, quod omne quod produci-
-             etiaui defecit, licet minus quam alii.                          tnv , producitur per simile in forma, el cognoscitur
-                   Ubi autem deficil philosopliorum perilia, subve-          similiter; dicendum, quod est agens secundum na-
-conciasioestnit nobis sacrosancta Scriptura, quae dicit', omnia              turam , et secundum «Hte/fecftMM '. Agens secundum
-"one^.^^^^esse creata et secundum omne quod sunt in esse                     naturam producit per formas, quae sunt vere na-
-             producta. Et ratio etiam a lide non discordat, sicut            turae, sicut homo hominem, et asinus asinum;
-             supra in opponendo ostensum est.                                agens per intellectum producit per formas , quae
-                   1. Quod ergo obiicitur de similitudine, quod              non sunt aliquid rei, sed ideae in mente, sicut ar-
- soiuiio op- niateria est ens omnino in potentia; dicendum, quod             tifex producit arcam; et sic productae sunt res, etDeopimone
-                                                                                    '         „                            .      Platonis.
-positoram. ^.^^^^^^,1^ ^^^^ propter se faeta est, sed propter susten-        hoc modo sunl formae rerum aeternae, quia sunt
-           tationem formae , quae eius est actus ; quamvis ergo              Deus. Et si sic posuit Plato, commendandus est, et'
-           materia non sit Deo actu similis, tamen assimilabi-               sic imponit ei Augustinus '. Si autem ultra proces-
-         lis est per formam. Unde Augustinus " dicit , quod                  sit, ut imponit ei Aristoteles, absque dubio erravit,
-         ipsa materia, etsi non habeat de se et in se actum                  et ratio sua, quae praedicta est, omnino nihil co-
-         formae, ipsa tamen capacitas formae est ei pro                      git. Nam sicut ostendit Philo.sophus ', formae rerum
-         forma. Ideo patet illurl.                                           extra Deuni a singularibus separatae nibil omninn
-               2. Quod obiicitur, quod turpis etc; dicendum,                 faciunt, nec ad operationem, nec ad cognitionem.
-         quod nec turpis nec tenebrosa dicitur nisi compara-                       5. Quod ultimo obiicitur de materia: materia
+5. Item, efficiens et finis sunt causae correlativae[^4]: ergo quod non est ab alio, non est ad aliud; sed omnia sunt ad aliud secundum omne quod sunt, quia secundum omne quod sunt, appetunt bonum; et status non est nisi in summo bono. Et quod ista ratio sit bona, ostenditur. Si enim bonum et ens convertuntur[^5], ergo quod est se ipso ens, se ipso est bonum; sed quod se ipso est bonum, non est propter aliquid aliud: ergo quod non est ab alio, non est propter aliud. Si ergo omnia mundana secundum se tota sunt propter aliud, ergo sunt ab alio.
 
+6. Item, si res non est totaliter ab alio, aut hoc est ratione formae, aut ratione materiae. Constat quod non *formae*, quia videmus formas produci, et si formae non producerentur, omnino nihil produceretur. Si ratione *materiae*; sed contra: ut dicit Philosophus in *Prima Philosophia*[^6], « actus est ante potentiam »; constat, quod non loquitur de potentia activa, sed passiva: ergo cum actus rei sit ab alio, similiter et materia. Si tu dicas, quod intelligitur non de *actu*, qui est *forma*, sed *efficienti*; idem concluditur. — Et iterum, ego quaero, quare materia non sit ab alio. Si quia est principium, ex quo fiunt cetera, nec habet unde fiat[^7]; tunc ego quaero de forma, utrum fiat ex aliquo, vel ex nihilo. Si ex nihilo, pari ratione et materia ex nihilo. Si ex aliquo, quaero, quid sit illud. Non essentia materiae: constat, quia forma simplex est: ergo forma non fit ex materia, ita quod materia sit eius principium constitutivum. Nec fit ex materia, ita quod materia fiat forma; sed fit ex aliquo, quod est in materia[^8]. Tunc ego quaero: de quo est illud? Et constat, quod non est ex materia, pari ratione: ergo vel erit abire in infinitum in causando[^9], vel necesse est ponere essentias formarum a primo opifice productas ex nihilo: ergo pari ratione et materiam.
 
-               1 Cap. 3: « Hoc igilur visi sunt omnes conflteri, quod        tur, si habet aliquid formae, quamvis cxiguum [ed. Aug.
-         [mare] factum est. siquidem et omnis mundus ». Textum se-           addit : quamvis inchoatum] , nondum est nihil... nonnullum ergo
-         quentem ex principio de Caelo et mundo S. Doctor secundum           bonum est et capacitas formae : et ideo [bonorum omnium au-
-         translationem Arabico-latinam iam in libro I. Sent. A. 2. q. 4.     ctor] , qui praestitit formam, fccit etiam posse forinari ». Secun-
-         in fine corp. (pag. .38} allegavit, in quo dicitur: « Hoc [lerna-   dum crgo .\ugustinum dicilur natura [materiac] capacitas for-
-         rio] numero adliibuimus nosmetipsos magniflcare Deum unum,          mac, sccundum quam dicimus, quod materia est possibilis ad ca-
-         creatorem omnmm, eminenlem proprietatibus eorum quae sunt           piendas formas et ipsi materiae est pro forma , sccundum quam
-         creata ». Cfr. etiam I. de Caelo et mundo, text. 102. seqq.         dicimus in materia esse speciem. Et hoc est etiam (|uod dicit
-         (c. 10.), ubi recitat diversas antiquorum opiniones de origine      Augustinus [de Natura boni , c. 18.] , quod materia « habet ca-
-         mundi ostenditque, impossibile esse, ipsum fuisse ortum per         pacitatem formarum suarum; nam si capere imposilam for-
-         generalionem , sed esse sempitcrnum. Sed I. Topic. c. 9.            mani ab artiflce non posset, nec materies diccrelur ». Cfr.
-         hanc quaestionem : utrum mundus sit aeternus nccno , in-            etiam de Fide et symbolo , c. 2. n. 2; XII. Confess. c. 6. n. 6,
-         ter ea recenset probleraata, « de (|uibns contrarii sunt syllo-     et de Gen. ad lit. (liber imperf.) c. IS. n. 51. — Aliquanto
-         gismi... eo quod de utrisqile sunt rationes suasibiles , ot de      superius Vat. post sed propter inserit svbstrationem seu;
-         quibus rationem non habemus , cuni sint magna , difflcile ar-       deinde permulti codd. cum ed. I ponunt quae est actus pro
-         bitrantes esse propter quid assignare».                             quae eius est actus ; tandem cod. U circa flnem solulionis et
-               - Seu de Plantis, c. I. in finc (c. 7.): Dixittiue Empedo-    per se pro et in se, ac est ei forma pro est ei pro forma.
-         cles, quod plantae habent generationem in mundo , diminuto                ' De Vera Relig. c. 18. n. 33. seq., et de de Natura boni,
-         tamen et non suis modis perfecto absolutoque, et quod eo            c. 18, ex quibus locis iam in nota praecedentc aliqua retuli-
-         complelo aninial non generabitur ; qui sermo aptus non est ,        mus. — Paulo superius plures codd. cum edd. 1 , 3 tenebra
-         quia mundus integer est ac sempiternus et animalia generare         pi'o tenebrosa.
-         cessavit nunquam ac plantas et oninis generis species alias. —            « Cfr. Augusl. , XII. Confess. c. 7, n. 7. se([.
-         Codd. cum Vat. Abrulalum pro Abrucalem, quo nomine ex                     ' Vide Aristot. , VII. Metaph. text. 22. seq. (VI. c. 7.).
-         versione Arabica in hoc libro Empedocles vocabatur. Aliquanto       — Paulo inferius plures codd. agens secundum intellectum
-         superihs plures codd. ut FIYZ Sed non dixerunt, cod. aa             pro agens per intettectum ; deinde aliqui codd. verbis transpo-
-         Sed dixerunt pro Sed dixervnt, non.                                 sitis non quae sunt pro quae non sunt, et cod. F aliquid in
-               3 Gen. I , 1. — Paulo inferius multi codd. habent esse        re pro aliquid rei.
-         producta pro in esse producta , et in flne corp. aliqui codd.             8 Libr. 83 Q([. q. 46. n. 2, ct VII. do Civ. Dei, c. 28.
-         cum ed. 1 opposito pro opponendo.                                   Cfr. I. Sent. d. 33.
-               * Alex. Hal., S. p. I. q. 18. m. 6. ad 2 : Ad aliud dicen-         » Libr. 1. Metaph. text. 32. seqq. (c. 9.), VII. text. 28. et 31.
-         dum secunduni illud .\ugustini [de Vera Relig. c. 18. n. 33.        seqq. (VI. c. 8. et 14.) et XIII. c. 3. (XII. c. 3.J. — Mox cod. L
-         seq.] : 1 lllud quod iii comparatione perfectorum informe dici-     formai' rerum quamdiu sint pro formae rertim extra De.um.
-                    S. Bonnv. — Toni. II.                                                                                              3
-        u                                                      SENTENTIARUM LIB. II.
+1. *Ad oppositum* sunt rationes primo *a parte efficientis*. Prima haec est: omnis effectus aliquo modo assimilatur causae[^10]; sed principium primum est actus purus, nihil habens de possibili, materia autem rerum est possibile purum per sui essentiam, nihil habens de actu: ergo cum materia in nullo assimiletur opifici, non est ab ipso.
 
-            non poteslfieri, qnia ' vel ex aliquo, vel ex niliilo;               est in re creata, et non in nihilo ". Unde cum dici-
-            dicendura, quod ex nihilo, el hoc per creationem. —                  tur. ex nihilo aliqnid fieri, potest intelligi triplici- Ex nibijo in-
-                                                                                 ter: aut materialiter , ut ex ferro cultellus; aut telligitur tri-
-            Quod ohiicilur, quod actio est in quid -; dicendum,
-            quod creare non est agere, sed facere, et hoc re-                    causaliter , ut ex patre fdins; aut ordinaliler , ut de
-            fert inter ngere et faceie; mm agere in quid, non                    mane fit meridies. Primis dnolius modis verum est, pliciter.
-            quid agat exigit; facere autem e converso.                           ex nihilo nihil fieri; tertio vero inodo vernm est
-                 6. Quod ulterius quaeritur, in quo sit crea-                    secundum naturam, sed falsum snpra natnram. Per
-s,iiuiio I. tio-passio: dupliciter respondetur. Quidam dicunt,                   virtntem enim infmitam , quae non indiget fnlci-
-            quod non est suhstantia nec accidens , sed via ad                    inento maleriae , ita faciliter potest aliquid produci
-            utrumque: et tale praecedit ilhid, ad quod est na-                   exnihilo, sicut de aliqno; alioqnin non esset virtus
-soiniio 2. turaHter, quamvis in eo habeat esse. — Ahter dicunt                   primi principii infinita, sed egeret materiae funda-
-            ahi, quod ahquid creari non est aliud quam nuiic                     menlo ; et ideo illi virtuti soli hoc attribueudum est
-            priuio esse; nec creatio dicit nnturam aliquam me-                   necessario , quamvis non possit consimile reperiri in
-            diam inter Deum et crealuram, sed solum dicil esse                   aliquo creato. Hoc eniin est eins proprium, sicut et
-            rei, connotando ordinem ad primum efliciens a quo,
-            et ad non-esse, ita tamen quod ordo iile totaliler                   ipsa omnipotentia '.
+2. Item, ab agente pulcherrimo et luminosissimo non procedit turpe et tenebrosum; sed Deus est ipsa pulcritudo et ipsa lux[^11], materiale principium est turpe et tenebrosum: ergo etc.
 
-                                                                     SCHOLION.
+3. *A parte rerum* ostenditur de *formali principio*: « Omne enim quod producitur et fit, fit a sibi simili nomine et specie, ut homo ab homine », secundum quod dicit Philosophus septimo *Philosophiae primae*[^12]. Si ergo formae rerum sunt principia producendi, et principium producendi praecedit rerum productionem: ergo res non sunt productae quoad principium formale.
 
-              I. In hae qtiaeslione sii))ponilut , muncliim sivc oggrega-              1. In rerum phaenomenis distinguimus mulationes secun-
-        tionem omnium reruni flnicarum aliquo modo productum esse                dum agere et pati; principium autem proximum actionis, com-
-        ab aliqua causa ; et pro hac supposilione iii principio quae-            muniter vocamus polentiam activam ( aclivitatem ), passionis
-        stionis tiingunlur qiiatuor rationes, quas in quadani quaestione         aute.m proximum principium dicimus potenliam passivam : illa
-        dispulata inediia dilTuse exponit S. Doctoris discipulus et suc-         active producit actum ut suum effectum , haec autem ab alio
-        cessor in niinisterio generali Ordinis et cardinalitia dignitate ,       agente passionem in se reeipit. In hoc sensu actio (actus) et
-        Matth. ab Aquasparta ( cfr. etiam Alex. Hal. , S. p. II. q. I.m.         passio cum suis principiis proximis (potentia activa et passiva)
-        1. in princ. ). Quaeritur autem de modo productionis mundi.              non spectant ad ordinem rerum substantialem, sed accidenta-
-        Triplex autem concipi potest modus productionis : vel ex na-             lem, nec faciunt compositionem essentialem, sed accidentalem.
-        tura ])i-oduceiitis , ut in generatione ; vel ex natura aliena rei iam         2. Duce Aristotele Scholastici terminos actus et potentia se-
-        existentis, ul artifex novas formas accidenlales rebus praecxi-          cundum analogiam Jransferebant ad ordinem substantialem et es-
-        stentibus inducit; vel tertio , quando tota rei substantia , ni-         sentiatem, et quidem dupliciter, scilicet in sensu metaptiysico et
-        hil extra producentem supponendo , jiroducitur , qui modus               pliysico. In utroque sensu mulatur signifleatio utriusque terniini,
-        produclionis proprie est creatio. Deum hoc tertio modo mun-              ila ut lunc actus non im|joi'tet operationem, sed in ordine essendi
-        dum produxisse hic probatur, et eonfutantur qmtuor errores               intrinsecum principium actualc ; potcntia non activitatem , sed
-        anliquorum philosophorum , qui hic in corp. recensentur et               principium passivum, quod snscipit ab actu suani actuatio-
-        diflusius infra dub. 2. ( ubi datur eliam multiplex explicatio           nem. — In sensu metaphysico duo communiter dislinguuntur
-        verborum , Gen. 1,1.: In prmcipio etc. ). IJe eisdem erroribus           actus, scil. subsistentia et eocistentia, ad quos ipsa essentia com-
-        multum disputat B. Albert. , hic a. 3. seqq., et S. Thom., de            liaratur ut potentia, quae passive recipit illos actus. In s|)ecie de
-        PoteiU. q. 3. a. 3. Pro intelligentia sentenliae Arislolelis obser-      existentia dicil S. Tliom. (S. c. Geut. II. c. 33.) : « Ipsum igitur
-        A andum est , aliud ipsi esse principia praeexistentia , aliud           esse comparalur ad omnes subslantias crealas sicut actus earuni;
-        principia non proclucta. .Negabant quidem Peripatetici , principia       ex quo relinquilur , quod in qualibct substantia creala sit com-
-        mundi , licet sint aeterna, faisse praeex-istentia , cum etiam           positio actus et potentiae ». — In sensu aulem pliysico isli ter-
-        productio mundi secundum eos sit aeque aeterna. Utruni autem             mini Iransferuntur ad duo principia sive elemenla siibstantia-
-        Aristoteles docuerit , ista principia fuisse ab aelerno, quin sint       lia , scil. materiam et formani, ex quarum unione substantiali
-        producta , an ea esse ab aetcrnt) a Deo producta , secundum              resullat unuin composilum , una substantia completa (efr. infra
-        S. Bonaventuram est dubium.                                              d. 3. p. I. a. I. q. I. Scholion ). Unde in composito humano
-              II. In hac quaeslione (fundam. 6. el ad f.) et alibi passim        ipsa anima rationalis , quae secundum decretum Concilii Vien-
-        termini actus et potentia usurpanlur in sensu Peripateticis et           nensis <i est forma corporis huniani per se et essentialiter » ,
-        Scholasticis familiari, sed valde diverso a signiflcatione xulgari       vocabalur actus corporis organici , iuxta deflnilionem Aristotelis
-        et in philosophia recenliore recepta ; quae diversa signiflcatio         communiter receplam : » Anima est actus primns corporis phy-
-        facile confundere poterit non \ersatos in philosophia scholastica.       sici, organici, potentia vilam liobenlis». Manifestum auteni est,
-        luvat igitur hacc notare :                                               quod anima non esl actus , quein elicit corpus , sed e contra-
+<!-- page 15 [?] page-break position approximate; OCR ate p.15 running head -->
 
+4. Item, artifex non potest producere, nisi praecognoscat; non potest praecognoscere nisi per formas[^13]; non potest per formas cognoscere, quae nullo modo sunt: ergo impossibile fuit, quod summus artifex mundum formaret, nisi formae prius essent, per quas cognosceret; et illae non potuerunt produci similiter nisi per formas: ergo si non est in infinitum abire, est ponere, formas rerum non esse productas.
 
+5. Item, hoc ipsum ostenditur quoad *materiale principium*. « Omne quod producitur, producitur ex aliquo, vel ex nihilo; sed ex nihilo nihil: ergo omnia ex aliquo »[^14]; illud autem est materia: ergo si stare est et non abire in infinitum, illud non est productum. Quod autem ex nihilo nihil fiat, videtur. Productio enim rei est actio; sed omnis actio requirit in quid agat[^15]: ergo et omnis productio: ergo omni productioni subiicitur aliquid; non nisi materia: ergo etc.
 
-              ' Codd. 1 cc cum ed. I nisi ; cod. aa bis nec pro vel.             ratione vcra effectivum, prudcnliam vero habilum cum ratione
-              - Cod. cc et ed. 1 : Quod obiicilur de actione, quod re-           vera activum circa ea quae bona cl mala homiiii sunt. Cfr.
-        quirit in quid agat. Paulo inferius sola Vat. et in hoc diffe-           ctiam hic lit. Magislri, c. I.
-        7-unt pro el hoc refert inter. — Solutio huius obieotionis fun-                3 Plura de hoc vide infra a. 3. q. 2 , et de his quae
-        datur in deHnitionibus verborum agere et facere, proiii a                set|uunlur cfr. Anselm. , Monol. c. 8. — Paulo anterius plures
-        Gilberlo Porretano in libro de Sex principiis, c. de Actione             codd. cum ed. I , perperam verbis Iranspositis, et non ad esse
-        dantnr: » Dico autem ocUonem noii quid, sed in quid agat                 pro et ad non-esse. Mox cod. aa post ut ex ferro adiicit fit.
-        exigere... Facere vero id, quod quale est ex se gignit ».                .'Vliquanto inferius nonnulli codd. ul H Z cc et ed. I ponunt
-        Aristot., VI. lilhic. c. 2. seqq. hanc dilTerenliam inler agere et       fundamento pro fulciinento.
-        facere assignal, quod agere flat aclione perflnente ad volnnla-                * Quod oninipotentia sit Dei proprium probat S. Doctor
-        tem vel electionem, facere aulem sit operari super alienam vel           fusius libr. Ili. Sent. d. 14. a. 3. q. 3. Cfr. eliam I. Sent. d. 43.
-        extrinsecani matcriam. Unde eliam arlem drlinit habilum cum
-                                                      DIST. I. P. I. ART. I. QUAEST. II.                                                                19
+6. Item, ego quaero de productione sive creatione passiva[^16], utrum illa sit substantia, vel accidens; non substantia, ergo accidens. Sed omne accidens fundatur in aliquo; sed hoc non potest esse creatum, cum illud sequatur naturaliter ipsam creationem: ergo necesse est, quod sit increatum et aliud a Deo, quia creatio-passio in alio est: ergo necesse est, omne quod producitur, ex aliquo produci; et ideo Philosophus in primo *Physicorum*[^17] dicit, quod materia est ingenita.
 
-      rio, « quem anima habet in corpus » . ut dicitur infra p. II. q. 2.      Notandum autem est , quod non raro actus primns in alio
-      a. 3. q. I. fundam. 4. Illam dcflnitionem inler multos explicat          sensu usurpatur ; accipitur enim non in ordine substantiali , sed
-      sociiis Alexandri Hal., loan. a Rupella Ord. Min. , in suo libro         pro potentia activa , vel habitu respectu aclus secundi , qui
-      de Anima, p. I. c. 5. (ed. P. Theopliili Danienichelli , Prnto 1882,     est ipsa actio.
-      pag. 1 1 0). Et generatim omnis forma subsianlialis vocatur acbts              4. Denique alia omnino diversa distinctio potentiae est in
-      primus , et materia poUntia, non quidem activa , sed passiva,            potentiam obiectivam et subiectivam : illa respicit ordinem ideor
-      quae actuatur a forjiia substantiali. — De isto duplici sensu            lem et non est nisi intrinseca rei possibilitas; sed subiectiva
-      vocabuloium actus et potentiae in ordine substantiali ita lo-            dicit in ordine reali « subiectum potentiae » ( cfr. Scot., IV.
-      quitur S. Thom. { S. c. Gent. II. c. -D-i. ): « In substantiis autem     Metaph. c. 3. n. 64.).
-      compositis ex materia et forma est duplex composilio actus et                   III. Argumentum 3. in fundam. nitilur illo principio, quod
-      potentiae : prima quidem ipsius subst.ontiae , quae componilur           Scot. ( de Rerum princip. q. 7. a. 2. n. 28. ) ita exprimit :
-      ex materia et forma ; secunda \ero ex ipsa suhstanlia iam                 « Sicut forma est principium actionis, sic materia passionisy;
-      composita et esse , quae etiam potest dici ex eo f/Horf est et           vel verbis negalivis ( ibid. infra ) ; « Sicut in essentia maleriae
-      esse , vel ex eo quod est et quo est^. Quod magis explicatur              non fundatui' potentia activa , sic nec in essentia formae po-
-      ab eodem, de Spirit. Creaturis, a. I. in corp. Cfr. infra d. 3. p.        tentia passiva )> ( cfr. infra d. 7. p. II. a. 2. q. I . pracsertim
-      I. a. I. q. I.                                                            ad 2. ). Hoc argumentuni magis explicatur a S. Thom. , hic q.
-             3. Comnuiniter eliam recepta erat distinctio inter actum           1. a. 2 , et de Potent. q. 3. a. 1. — De vcrbis Auguslini in
-      primum et secundwm : ille est in ordine substantiali ut pars              solul. ad I , quod capacitas formae sit matcriae pro forma, cfr.
-      constitutiAa essentiae; sed actus secundus est in ordine acci-            infra d. 12. a. 1. q. I. in corp. et ad I. 2 , et d. 3. p. I. a. 1. q.
-       dentali et cst actio sive operatio. In hoc sensu dicit S. Bonav.         2. 3. — Quoad solut. ad 3. de crealione passiva cfr. hic a. 3.
-       (I. Sent. d. i3. q. \. ad 5.): <t Alio modo dicitur vivere, se-          q. 1.2. — Quod aulem verba ex nihilo non accipienda sint nec
-       cundum quod est actits primus ct est ab essenlia animae ut               materialiter nec causaliter , sed ordinaliter , dicii etiam S.
-       in ralione formae, non in ratione agentis^ etc. (cfr. II. Sent.         Thom., S. I. q. 4.3.' a. I. ad 3. et Scot., Report. hic q. 3. n. 2.
-       d. 3. p. I. a. I. q. 3. ad i; d. 26. q. 3. ad 4.). Scotus ( in                IV". De tota quaestione : Breviloq. p. II. c. I. — Alex. Hal.,11.
-       IX. Meuiph. c. I . n. 27. ) dicit : « Prima divisio esl , quod          S. p. II. q. 6. m. I , et m. 2. a. I. — Scot. , hir q. 2; Rcport.
-       actus quidam est primus , qui est forma rei ; quidam secun-             hic q. 3 ; de Rerum princip. q. 3. — S. Thom., S. hic         c. q.Gent.\. a.
-       dus, qui est operatio»; S. Thom. ( de Potent. q. I. a. I.):             2; S. I. q. 43. a. I. 2; de Potcnl. q. a3. Tar.,    a. 1
-        « Actus autem est duplex , scilicet primus , qui est forma . et        c. 2.
-                                                                                   13. 16. — B. .\Iberl. , S. p. II. tr. I. q. I.                          1.
-       secundus , qui est operatio... unde et siniiliter duplcx est po-        a. I. partic. I. 3; m. 2. a. I. — Peir hic a. I. !hic      ; q.q. 4.1. m.a. 1.
-       tentia : una activa , cui respondet actus , qui est operatio , et       2 , et 3.q. —2. a. 1 . — Richard. a Med. ,
-                                                                                1.     3.      .Egid.                          a. 1-4. — q. 1
-                                                                                                                                           Henr., a. 3.
-                                                                                                                                                    Gand.,
-       huic primo nomen potentiae videtur fuisse aitributum ; alia est                                 R., hic
-       passiva , cui respondet actus primus , qui est forma , ad quam          s. a.                   Durand. p.hic1. q. 2.I. — Dionvs. Carth. , hic
-                                                                                   2.
-       similiter videtur secundario nomen potentiae devolutum». —
-                                                                                      2.     23. —
+### CONCLUSIO.
+
+> *Mundus de nihilo est productus et secundum se totum et secundum sua principia intrinseca.*
+
+**Respondeo:** Dicendum, quod haec veritas est: mundus in esse productus est, et non solum secundum se totum, sed etiam secundum sua intrinseca principia, quae non ex aliis, sed de nihilo sunt producta. — Haec autem veritas, etsi nunc cuilibet fideli sit aperta et lucida, latuit tamen prudentiam philosophicam, quae in huius quaestionis inquisitione longo tempore ambulavit per devia.
+
+<!-- page 16 -->
+
+Fuerunt enim quidam antiqui philosophi[^18], qui dixerunt mundum factum esse a Deo et de sui essentia, quia non videbant, quomodo aliquid posset fieri ex nihilo; et solus Deus fuit in principio, et ideo dixerunt, quod fecit omnia de se ipso. — Sed haec positio non solum fidelibus, sed etiam sequentibus philosophis apparuit improbabilis, quod Dei essentia[^19] omnino invariabilis et nobilissima fieret corporalium et variabilium materia, quae de se est imperfecta, nisi perficiatur per formam.
+
+Fuerunt et alii, qui dixerunt mundum factum esse ex principiis praeexistentibus, scilicet ex materia et forma; sed formae latebant in materia, antequam intellectus illas distingueret. Et hoc posuit Anaxagoras[^20]. — Sed quia formas esse omnes simul in materia non capit ratio recta, ideo per sequentes philosophos ista positio improbata est.
+
+Fuerunt et tertii, qui mundum ex principiis praeexistentibus factum posuerunt, scilicet materia et forma; sed materiam per se posuerunt, formas separatas et postmodum ex tempore ab opifice summo esse coniunctas. Et hi fuerunt Platonici[^21]. — Sed quia illud irrationabile videtur, quod materia ab aeterno fuerit imperfecta, et quod eadem forma sit separata pariter et coniuncta; et absurdum videtur triplicem hominem ponere, scilicet naturalem, mathematicum et divinum: ideo etiam per sequentes philosophos haec positio reprobata est.
+
+Fuerunt etiam quarti, scilicet Peripatetici, quorum princeps et dux fuit Aristoteles, qui veritati magis appropinquantes dixerunt mundum factum, sicut legitur in secundo *Meteororum*[^22]: « Dico igitur, quod mare factum est », et in principio *de Caelo et mundo*; et de pluribus aliis locis potest elici. Sed dixerunt, non esse factum ex principiis praeexistentibus. Sicut enim vult in primo *Vegetabilium*[^23], mundus semper fuit plantis et animalibus plenus, ubi loquitur contra Abrucalem. Utrum autem posuerit materiam et formam factam de nihilo, hoc nescio; credo tamen, quod non pervenit ad hoc, sicut melius videbitur in problemate secundo: ideo et ipse etiam defecit, licet minus quam alii.
+
+Ubi autem deficit philosophorum peritia, subvenit nobis sacrosancta Scriptura, quae dicit[^24], omnia esse creata et secundum omne quod sunt in esse producta. Et ratio etiam a fide non discordat, sicut supra in opponendo ostensum est.
+
+<!-- page 17 [?] page-break position approximate; OCR ate p.17 running head -->
+
+1. Quod ergo obiicitur de similitudine, quod materia est ens omnino in potentia; dicendum, quod materia non propter se facta est, sed propter sustentationem formae[^25], quae eius est actus; quamvis ergo materia non sit Deo actu similis, tamen assimilabilis est per formam. Unde Augustinus[^26] dicit, quod ipsa materia, etsi non habeat de se et in se actum formae, ipsa tamen capacitas formae est ei pro forma. Ideo patet illud.
+
+2. Quod obiicitur, quod *turpis* etc.; dicendum, quod nec turpis nec tenebrosa dicitur nisi comparative. Nam materia non est privatio pura, immo ratione suae essentiae habet aliquid de pulcritudine et aliquid de luce. Unde Augustinus[^27] dicit, quod habet *modum*, *speciem* et *ordinem*, quamvis imperfecte. Non oportet autem, quod Deus omnes res producat sibi aequaliter similes, immo secundum gradum. Et ideo ad hoc, quod gradus sint perfecti, necesse est ponere aliquid prope Deum, et hoc simillimum; et aliquid prope nihil, et hoc aliquo modo simile, licet non omnino nec perfecte, quod, quamvis in se minimum habeat de bono, tamen optime ordinatum est.
+
+3. 4. Quod obiicitur, quod omne quod producitur, producitur per simile in forma, et cognoscitur similiter; dicendum, quod est agens secundum *naturam*, et secundum *intellectum*[^28]. Agens secundum naturam producit per formas, quae sunt vere naturae, sicut homo hominem, et asinus asinum; agens per intellectum producit per formas, quae non sunt aliquid rei, sed ideae in mente, sicut artifex producit arcam; et sic productae sunt res, et hoc modo sunt formae rerum aeternae, quia sunt Deus. Et si sic posuit Plato, commendandus est, et sic imponit ei Augustinus[^29]. Si autem ultra processit, ut imponit ei Aristoteles, absque dubio erravit, et ratio sua, quae praedicta est, omnino nihil cogit. Nam sicut ostendit Philosophus[^30], formae rerum extra Deum a singularibus separatae nihil omnino faciunt, nec ad operationem, nec ad cognitionem.
+
+5. Quod ultimo obiicitur de materia: materia non potest fieri, quia[^31] vel ex aliquo, vel ex nihilo; dicendum, quod ex nihilo, et hoc per creationem. — Quod obiicitur, quod actio est *in quid*[^32]; dicendum, quod *creare* non est *agere*, sed *facere*, et hoc refert inter agere et facere; nam agere *in quid*, non *quid agat* exigit; facere autem e converso.
+
+<!-- page 18 -->
+
+6. Quod ulterius quaeritur, in quo sit creatio-passio: dupliciter respondetur. Quidam dicunt, quod non est substantia nec accidens, sed *via ad utrumque*: et tale praecedit illud, ad quod est naturaliter, quamvis in eo habeat esse. — Aliter dicunt alii, quod aliquid creari non est aliud quam *nunc primo esse*; nec creatio dicit naturam aliquam mediam inter Deum et creaturam, sed solum dicit esse rei, connotando ordinem ad primum efficiens *a quo*, et ad non-esse[^33], ita tamen quod ordo ille totaliter est in re creata, et non in nihilo. Unde cum dicitur *ex nihilo aliquid fieri*, potest intelligi tripliciter: aut *materialiter*, ut ex ferro cultellus; aut *causaliter*, ut ex patre filius; aut *ordinaliter*, ut de mane fit meridies. Primis duobus modis verum est, ex nihilo nihil fieri; tertio vero modo verum est secundum naturam, sed falsum supra naturam. Per virtutem enim infinitam, quae non indiget fulcimento materiae, ita faciliter potest aliquid produci ex nihilo, sicut de aliquo; alioquin non esset virtus primi principii infinita, sed egeret materiae fundamento; et ideo illi virtuti soli hoc attribuendum est necessario, quamvis non possit consimile reperiri in aliquo creato. Hoc enim est eius proprium, sicut et ipsa omnipotentia[^34].
+
+---
+
+### SCHOLION.
+
+**I.** In hac quaestione supponitur, mundum sive aggregationem omnium rerum finitarum aliquo modo productum esse ab aliqua causa; et pro hac suppositione in principio quaestionis tanguntur quatuor rationes, quas in quadam quaestione disputata inedita diffuse exponit S. Doctoris discipulus et successor in ministerio generali Ordinis et cardinalitia dignitate, Matth. ab Aquasparta (cfr. etiam Alex. Hal., S. p. II. q. I. m. 1. in princ.). Quaeritur autem de modo productionis mundi. Triplex autem concipi potest modus productionis: vel ex natura producentis, ut in generatione; vel ex natura aliena rei iam existentis, ut artifex novas formas accidentales rebus praeexistentibus inducit; vel tertio, quando tota rei substantia, nihil extra producentem supponendo, producitur, qui modus productionis proprie est creatio. Deum hoc tertio modo mundum produxisse hic probatur, et confutantur quatuor errores antiquorum philosophorum, qui hic in corp. recensentur et diffusius infra dub. 2. (ubi datur etiam multiplex explicatio verborum, *Gen.* 1, 1.: *In principio* etc.). De eisdem erroribus multum disputat B. Albert., hic a. 3. seqq., et S. Thom., *de Potent.* q. 3. a. 3. Pro intelligentia sententiae Aristotelis observandum est, aliud ipsi *esse principia praeexistentia*, aliud *principia non producta*. Negabant quidem Peripatetici principia mundi, licet sint aeterna, fuisse praeexistentia, cum etiam productio mundi secundum eos sit aeque aeterna. Utrum autem Aristoteles docuerit, ista principia fuisse ab aeterno, quin sint producta, an ea esse ab aeterno a Deo producta, secundum S. Bonaventuram est dubium.
+
+**II.** In hac quaestione (fundam. 6. et ad f.) et alibi passim termini *actus* et *potentia* usurpantur in sensu Peripateticis et Scholasticis familiari, sed valde diverso a significatione vulgari et in philosophia recentiore recepta; quae diversa significatio facile confundere poterit non versatos in philosophia scholastica. Iuvat igitur haec notare:
+
+1. In rerum phaenomenis distinguimus mutationes secundum *agere* et *pati*; principium autem proximum actionis communiter vocamus *potentiam activam* (activitatem), passionis autem proximum principium dicimus *potentiam passivam*: illa active producit actum ut suum effectum, haec autem ab alio agente passionem in se recipit. In hoc sensu actio (actus) et passio cum suis principiis proximis (potentia activa et passiva) non spectant ad ordinem rerum substantialem, sed accidentalem, nec faciunt compositionem essentialem, sed accidentalem.
+
+2. Duce Aristotele Scholastici terminos *actus* et *potentia* secundum analogiam transferebant ad ordinem substantialem et essentialem, et quidem dupliciter, scilicet in sensu metaphysico et physico. In utroque sensu mutatur significatio utriusque termini, ita ut tunc *actus* non importet operationem, sed in ordine essendi intrinsecum principium *actuale*; *potentia* non activitatem, sed principium passivum, quod suscipit ab actu suam actuationem. — In *sensu metaphysico* duo communiter distinguuntur actus, scil. *subsistentia* et *existentia*, ad quos ipsa essentia comparatur ut potentia, quae passive recipit illos actus. In specie de existentia dicit S. Thom. (*S. c. Gent.* II. c. 53.): « Ipsum igitur esse comparatur ad omnes substantias creatas sicut actus earum; ex quo relinquitur, quod in qualibet substantia creata sit compositio actus et potentiae ». — In *sensu autem physico* isti termini transferuntur ad duo principia sive elementa substantialia, scil. materiam et formam, ex quarum unione substantiali resultat unum compositum, una substantia completa (cfr. infra d. 3. p. I. a. I. q. I. *Scholion*). Unde in composito humano ipsa anima rationalis, quae secundum decretum Concilii Viennensis « est forma corporis humani per se et essentialiter », vocabatur *actus* corporis organici, iuxta definitionem Aristotelis communiter receptam: « Anima est actus primus corporis physici, organici, potentia vitam habentis ». Manifestum autem est, quod anima non est actus, quem elicit corpus, sed e contra-
+
+<!-- page 19 -->
+
+rio, « quem anima habet in corpus », ut dicitur infra p. II. q. 2. a. 3. q. 1. fundam. 4. Illam definitionem inter multos explicat socius Alexandri Hal., Ioan. a Rupella Ord. Min., in suo libro *de Anima*, p. I. c. 5. (ed. P. Theophili Domenichelli, Prato 1882, pag. 110). Et generatim omnis forma substantialis vocatur *actus primus*, et materia *potentia*, non quidem activa, sed passiva, quae actuatur a forma substantiali. — De isto duplici sensu vocabulorum *actus* et *potentiae* in ordine substantiali ita loquitur S. Thom. (*S. c. Gent.* II. c. 54.): « In substantiis autem compositis ex materia et forma est duplex compositio actus et potentiae: prima quidem ipsius *substantiae*, quae componitur ex materia et forma; secunda vero ex ipsa *substantia* iam composita et *esse*, quae etiam potest dici ex eo *quod est* et *esse*, vel ex eo *quod est* et *quo est* ». Quod magis explicatur ab eodem, *de Spirit. Creaturis*, a. I. in corp. Cfr. infra d. 3. p. I. a. I. q. I.
+
+3. Communiter etiam recepta erat distinctio inter *actum primum* et *secundum*: ille est in ordine substantiali ut pars constitutiva essentiae; sed actus secundus est in ordine accidentali et est actio sive operatio. In hoc sensu dicit S. Bonav. (*I. Sent.* d. 13. q. 1. ad 5.): « Alio modo dicitur vivere, secundum quod est *actus primus* et est ab essentia animae ut *in ratione formae*, non *in ratione agentis* » etc. (cfr. *II. Sent.* d. 3. p. I. a. 1. q. 3. ad 4; d. 26. q. 3. ad 4.). Scotus (in IX. *Metaph.* c. 1. n. 27.) dicit: « Prima divisio est, quod actus quidam est primus, qui est forma rei; quidam secundus, qui est operatio »; S. Thom. (*de Potent.* q. 1. a. 1.): « Actus autem est duplex, scilicet primus, qui est forma, et secundus, qui est operatio... unde et similiter duplex est potentia: una activa, cui respondet actus, qui est operatio, et huic primo nomen potentiae videtur fuisse attributum; alia est passiva, cui respondet actus primus, qui est forma, ad quam similiter videtur secundario nomen potentiae devolutum ». — Notandum autem est, quod non raro *actus primus* in alio sensu usurpatur; accipitur enim non in ordine substantiali, sed pro potentia activa, vel habitu respectu actus secundi, qui est ipsa actio.
+
+4. Denique alia omnino diversa distinctio potentiae est in *potentiam obiectivam* et *subiectivam*: illa respicit ordinem idealem et non est nisi intrinseca rei possibilitas; sed subiectiva dicit in ordine reali « subiectum potentiae » (cfr. Scot., IV. *Metaph.* c. 3. n. 64.).
+
+**III.** Argumentum 3. in fundam. nititur illo principio, quod Scot. (*de Rerum princip.* q. 7. a. 2. n. 28.) ita exprimit: « Sicut forma est principium actionis, sic materia passionis »; vel verbis negativis (ibid. infra): « Sicut in essentia materiae non fundatur potentia activa, sic nec in essentia formae potentia passiva » (cfr. infra d. 7. p. II. a. 2. q. 1. praesertim ad 2.). Hoc argumentum magis explicatur a S. Thom., hic q. 1. a. 2, et *de Potent.* q. 3. a. 1. — De verbis Augustini in solut. ad 1, quod *capacitas formae sit materiae pro forma*, cfr. infra d. 12. a. 1. q. 1. in corp. et ad 1. 2, et d. 3. p. I. a. 1. q. 2. 3. — Quoad solut. ad 3. de creatione passiva cfr. hic a. 3. q. 1. 2. — Quod autem verba *ex nihilo* non accipienda sint nec materialiter nec causaliter, sed ordinaliter, dicit etiam S. Thom., *S.* I. q. 45. a. 1. ad 3. et Scot., *Report.* hic q. 3. n. 2.
+
+**IV.** De tota quaestione: *Breviloq.* p. II. c. 1. — Alex. Hal., S. p. II. q. 6. m. 1, et m. 2. a. 1. — Scot., hic q. 2; *Report.* hic q. 3; *de Rerum princip.* q. 3. — S. Thom., *S. c. Gent.* II. c. 16; *S.* I. q. 45. a. 1. 2; *de Potent.* q. 3. a. 1. 2 [?]. — B. Albert., S. p. II. tr. I. q. 1. a. 1. partic. 1. 3; m. 2. a. 1. — Petr. Tar., hic q. 1. m. 2; q. 2. a. 1. — Richard. a Med., hic a. 1. q. 1, 2, 3. — Aegid., hic q. 1-4. — Henr. Gand., hic a. 3. s. q. 2. — Durand., hic q. 2 [?]. — Dionys. Carth., hic q. 2 [?].
+
+---
 
 ## English
 
-[Translation pending]
+### ARTICLE I.
+*On the entity of the principle.*
+
+### QUESTION I.
+*Whether things have a causal principle.*
+
+Concerning the first [question], the procedure is as follows.
+
+Since it is established according to the Saints and the philosophers that all worldly things have had a productive principle — whether on account of the variety of things, or on account of the mutability of things, or on account of the order of things, or also on account of imperfection — for multitude has its origin from unity, and motion or the mutable from the immutable, and order [reduces] to a first, and the imperfect to the perfect, are originally reduced[^1] — therefore, this being supposed, namely that things have a causal principle in some way, the question is whether things have been produced wholly, that is, both according to the material and the formal principle, or only according to one of the two principles. And [the position] that [they are produced] according to both seems [to follow]:
+
+1. *First, from the side of the producer*, thus. The more prior and more perfect a producer is, the more it flows into the thing: therefore the first and most perfect [producer] flows totally and into the whole; and if so, then it produces the whole. But the first agent is of this kind: therefore etc.
+
+2. Likewise, an agent is nobler and more perfect insofar as it needs fewer things in order to act: therefore the most noble agent needs nothing outside itself: therefore if it alone existed, it would still produce things: but not from itself, since it is part of nothing: therefore from nothing: it is plain therefore that God has [causal power] over the whole substance of the creature.
+
+3. Likewise, an agent according to form can produce form[^2]: therefore by parity of reasoning an agent [acting] according to its whole self can produce the whole; but God acts by his whole self, since he is entirely simple: therefore he produces the whole.
+
+4. Likewise, this same point is shown from the side of the conditioned thing thus: that which is not from another is from itself[^3]: but nothing of that kind which is from itself needs another in order to be; but every intrinsic principle of a thing needs another in order to be — for form needs matter, and conversely: therefore etc.
+
+5. Likewise, efficient and final [causes] are correlative causes[^4]: therefore what is not from another is not for another; but all things are for another according to all that they are, because according to all that they are, they desire the good; and there is no rest except in the highest good. And that this reasoning is sound, is shown [thus]. For if the good and being are convertible[^5], then what is being by itself is by itself good; but what is by itself good is not on account of something else: therefore what is not from another is not on account of another. If, therefore, all worldly things, as to their whole selves, are on account of another, therefore they are from another.
+
+6. Likewise, if a thing is not totally from another, it is so either by reason of form or by reason of matter. It is established that it is not [by reason] of *form*, because we see forms produced, and if forms were not produced, nothing at all would be produced. If [it is] by reason of *matter*; but to the contrary: as the Philosopher says in the *First Philosophy*[^6], "act is prior to potency"; it is plain that he is speaking not of active potency but of passive [potency]: therefore since the act of a thing is from another, so likewise is its matter. If you say that this is understood not of *act*, which is *form*, but of *the efficient*; the same is concluded. — And again, I ask why matter should not be from another. If [you say] it is because matter is the principle out of which the others come to be, and has nothing from which it itself could come to be[^7]; then I ask of form, whether it comes to be from something, or from nothing. If from nothing, then by parity of reasoning matter also [comes] from nothing. If from something, I ask what that is. Not from the essence of matter: it is established [that it is not], because form is simple: therefore form does not come to be from matter in such a way that matter is its constitutive principle. Nor does it come to be from matter in such a way that matter becomes form; but it comes to be from something which is in matter[^8]. Then I ask: from what is that? And it is plain that it is not from matter, by parity of reasoning: therefore either there will be an infinite regress in causing[^9], or it is necessary to posit that the essences of forms have been produced from nothing by the first Maker: therefore by parity of reasoning matter also [has been produced from nothing].
+
+1. *To the contrary* there are reasons, first *from the side of the efficient*. The first is this: every effect is in some way assimilated to its cause[^10]; but the first principle is pure act, having nothing of the possible, while the matter of things is pure possibility through its own essence, having nothing of act: therefore since matter is in no way assimilated to its maker, it is not from him.
+
+2. Likewise, from a most beautiful and most luminous agent there does not proceed [anything] base and dark; but God is beauty itself and light itself[^11], [whereas] the material principle is base and dark: therefore etc.
+
+3. *From the side of things* it is shown concerning *the formal principle*: "For everything that is produced and comes to be, comes to be from something similar to itself in name and species, as man from man," according to what the Philosopher says in book seven of the *First Philosophy*[^12]. If therefore the forms of things are principles of producing, and the principle of producing precedes the production of things: therefore things are not produced as to their formal principle.
+
+4. Likewise, the craftsman cannot produce unless he foreknows; he cannot foreknow except through forms[^13]; he cannot know through forms which in no way are: therefore it was impossible that the supreme Craftsman should form the world, unless forms first were, through which he might know; and those forms could not similarly be produced except through forms: therefore if one is not to go to infinity, one must posit that the forms of things have not been produced.
+
+5. Likewise, the same point is shown as to the *material principle*. "Everything that is produced is produced either from something or from nothing; but from nothing, nothing [comes]: therefore all things [come] from something"[^14]; but that [something] is matter: therefore if there is a stopping-point and one is not to go to infinity, that [matter] is not produced. That from nothing nothing comes to be, [moreover] seems [to be the case]. For the production of a thing is an action; but every action requires something into which to act[^15]: therefore so does every production: therefore for every production something is subjected; and [that can be] nothing but matter: therefore etc.
+
+6. Likewise, I ask concerning passive production or creation[^16]: whether it is substance or accident; not substance, therefore accident. But every accident is founded in something; but this [something] cannot be created, since [creation] follows naturally from creation itself: therefore it is necessary that it be uncreated and other than God, since [creation] as passion is in another: therefore it is necessary that everything which is produced be produced from something; and therefore the Philosopher says in the first [book] of the *Physics*[^17] that matter is unbegotten.
+
+### CONCLUSION.
+
+> *The world has been produced from nothing both according to its whole self and according to its intrinsic principles.*
+
+**I respond:** It must be said that this is the truth: the world has been produced into being, and not only according to its whole self, but also according to its intrinsic principles, which have been produced not from other [things] but from nothing. — Now this truth, although it is now open and luminous to every believer, was nevertheless hidden from philosophical prudence, which in the inquiry of this question for a long time walked through deviations.
+
+For there were certain *ancient philosophers*[^18] who said that the world was made by God and *from his own essence*, because they did not see how anything could come to be from nothing; and God alone was in the beginning, and therefore they said that he made all things from himself. — But this position seemed improbable not only to the faithful but also to subsequent philosophers, [namely] that the essence of God[^19] — wholly invariable and most noble — should become the matter of corporeal and variable [things], which of itself is imperfect unless it be perfected through form.
+
+There were *others* who said that the world was made from pre-existing principles, namely from matter and form; but [that] the forms lay hidden in the matter before the intellect distinguished them. And this Anaxagoras posited[^20]. — But because right reason does not grasp [the claim] that all forms are simultaneously in matter, this position too was rejected by subsequent philosophers.
+
+There were *a third [group]* who posited that the world was made from pre-existing principles, namely matter and form; but they posited matter by itself, [and] the forms separate, and afterward in time conjoined to [matter] by the supreme craftsman. And these were the Platonists[^21]. — But because it seems irrational that matter should have been imperfect from eternity, and that the same form should be both separate and conjoined; and absurd to posit a threefold man — namely natural, mathematical, and divine: therefore also this position was reproved by subsequent philosophers.
+
+There were also *a fourth [group]*, namely the Peripatetics, whose prince and leader was Aristotle, who, drawing nearer to the truth, said that the world was made — as one reads in the second [book of] *Meteorologica*[^22]: "I say therefore that the sea has been made," and at the beginning of *On the Heavens and the World*; and from many other places it can be elicited. But they said it was not made from pre-existing principles. For just as [Aristotle] holds in the first [book] of *On Plants*[^23], the world was always full of plants and animals, where he speaks against Abrucalis. But whether he posited matter and form as made from nothing, this I do not know; I believe, however, that he did not arrive at this, as will be seen better in problem 2: therefore he too fell short, although less than the others.
+
+But where the skill of the philosophers fails, sacred Scripture comes to our aid, which says[^24] that all things have been created and produced into being according to all that they are. And reason also is not at variance with faith, as has been shown above in the objections.
+
+1. To what is objected concerning likeness, that matter is wholly being in potency; it must be said that matter was not made on its own account, but for the sake of sustaining form[^25], which is its act; therefore although matter is not actually similar to God, it is nevertheless able-to-be-assimilated through form. Hence Augustine[^26] says that matter, even though it does not have in itself and of itself the act of form, yet its very capacity for form is to it as form. Therefore this is clear.
+
+2. To what is objected, that [matter is] *base* etc.; it must be said that it is called neither base nor dark except comparatively. For matter is not pure privation; rather, by reason of its essence it has something of beauty and something of light. Hence Augustine[^27] says that it has *mode*, *species*, and *order*, even if imperfectly. It is not, moreover, necessary that God produce all things equally similar to himself; rather, [he produces them] according to degree. And therefore, in order that the degrees be perfect, it is necessary to posit something close to God, and most similar [to him]; and something close to nothing, [yet] in some way similar, though not entirely nor perfectly — which, although in itself it has the least of good, is nevertheless most well ordered.
+
+3. 4. To what is objected, that everything which is produced, is produced through something similar in form, and is similarly known; it must be said that there is an agent *according to nature*, and [an agent] *according to intellect*[^28]. The agent according to nature produces through forms which are truly natures, as man [produces] man, and ass [produces] ass; the agent through intellect produces through forms which are not anything of a thing, but ideas in the mind, as the craftsman produces a chest; and thus have things been produced, and in this way the forms of things are eternal, because they are God. And if Plato so posited, he is to be commended, and so Augustine imputes [the view] to him[^29]. But if he went further, as Aristotle imputes to him, without doubt he erred, and his reasoning, which has been mentioned, in no way compels [the conclusion]. For as the Philosopher shows[^30], the forms of things outside God, separated from singulars, do absolutely nothing — neither toward operation nor toward cognition.
+
+5. To what is finally objected concerning matter: matter cannot come to be, because [it must come to be][^31] either from something or from nothing; it must be said that [it comes] from nothing, and this through creation. — To what is objected, that action is *toward what*[^32]; it must be said that *to create* is not *to act* but *to make*, and this is the difference between *agere* and *facere*; for to-act demands [an object] *into which*, not *what may act*; but to-make [demands] the converse.
+
+6. As to what is further asked, in what [creation-as-passion] inheres: there is a twofold answer. Some say that it is neither substance nor accident, but a *way to both*: and such [a way] precedes that to which it [is ordered] naturally, although it has being in it. — Others say differently, that to be created is nothing other than *now first to be*; nor does creation signify any nature intermediate between God and creature, but only signifies the being of the thing, connoting an order to the first efficient *from which* it [comes], and to non-being[^33], yet in such a way that that order is wholly in the created thing, and not in the nothing. Hence when it is said that *something comes to be from nothing*, it can be understood threefold: either *materially*, as a knife from iron; or *causally*, as a son from a father; or *ordinally*, as noon comes from morning. In the first two modes it is true that from nothing nothing comes; in the third mode it is true according to nature, but false above nature. For by an infinite power, which does not need the support of matter, something can be produced from nothing just as easily as from something; otherwise the power of the first principle would not be infinite, but would need the foundation of matter; and therefore this must necessarily be attributed to that power alone, although nothing similar can be found in any created [being]. For this is proper to it, just as omnipotence itself[^34].
+
+---
+
+### Scholion
+
+**I.** In this question it is supposed that the world, or the aggregate of all finite things, has in some way been produced by some cause; and for this supposition four reasons are touched on at the beginning of the question, which the disciple and successor of the Holy Doctor in the General Ministry of the Order and the cardinal's dignity, Matthew of Aquasparta, sets forth at length in a certain unpublished disputed question (cf. also Alexander of Hales, *Summa* pars II, q. 1, m. 1, in princ.). What is asked, then, is concerning the mode of the world's production. A threefold mode of production can be conceived: either from the nature of the producer, as in generation; or from a nature foreign to a thing already existing, as the craftsman induces new accidental forms upon pre-existing things; or thirdly, when the whole substance of a thing — supposing nothing outside the producer — is produced, which mode of production is properly creation. That God produced the world in this third mode is here proved, and four errors of the ancient philosophers are refuted, which are reviewed here in the body and more diffusely below in dubium 2 (where also a manifold explanation of the words of *Genesis* 1:1, *In principio* etc., is given). Concerning these same errors Albert the Great disputes at length, here in articles 3ff., and St. Thomas, *de Potentia* q. 3, a. 3. For understanding Aristotle's view it must be observed that to him *pre-existing principles* is one thing, *non-produced principles* another. The Peripatetics indeed denied that the principles of the world, although eternal, had pre-existed, since for them the production of the world is also equally eternal. But whether Aristotle taught that those principles were from eternity without being produced, or that they were from eternity produced by God — according to St. Bonaventure is doubtful.
+
+**II.** In this question (fundamentum 6 and at the end) and elsewhere passim the terms *act* and *potency* are used in the sense familiar to the Peripatetics and Scholastics, but very different from the vulgar signification and that received in more recent philosophy; this divergent signification could easily confuse those not versed in scholastic philosophy. It is therefore helpful to note these points:
+
+1. Among the phenomena of things we distinguish changes according to *acting* and *being-acted-upon*; we commonly call the proximate principle of action *active potency* (activity), and we call the proximate principle of being-acted-upon *passive potency*: the former actively produces act as its effect, the latter receives the suffering into itself from another agent. In this sense action (act) and passion together with their proximate principles (active and passive potency) do not pertain to the substantial order of things but to the accidental, and do not produce an essential composition but an accidental one.
+
+2. Under Aristotle's lead the Scholastics transferred the terms *act* and *potency* by analogy to the substantial and essential order, indeed in two ways, namely in a metaphysical and a physical sense. In both senses the signification of each term changes, so that then *act* does not import operation, but in the order of being an intrinsic *actual* principle; *potency* [does not import] activity, but the passive principle which receives its actuation from act. — In the *metaphysical sense* two acts are commonly distinguished, namely *subsistence* and *existence*, to which essence itself is compared as potency, which passively receives those acts. Concerning existence in particular St. Thomas says (*Summa contra Gentiles* II, c. 53): "Therefore being itself is compared to all created substances as their act; from which it follows that in every created substance there is a composition of act and potency." — In the *physical sense*, however, these terms are transferred to two principles or substantial elements, namely matter and form, from whose substantial union there results one composite, one complete substance (cf. below d. 3, p. I, a. 1, q. 1, *Scholion*). Hence in the human composite the rational soul, which according to the decree of the Council of Vienne "is the form of the human body essentially and per se," was called the *act* of the organic body, according to the commonly received definition of Aristotle: "The soul is the first act of a physical, organic body, having life in potency." It is manifest, however, that the soul is not an act which the body elicits, but on the contrary, "an act which the soul has into the body," as is said below at p. II, q. 2, a. 3, q. 1, fundamentum 4. That definition is explained among many by the associate of Alexander of Hales, John of La Rochelle O.Min., in his book *de Anima*, p. I, c. 5 (ed. Fr. Theophilus Domenichelli, Prato 1882, p. 110). And generally every substantial form is called *first act*, and matter *potency* — not indeed active, but passive, which is actuated by the substantial form. — Concerning this twofold sense of the words *act* and *potency* in the substantial order, St. Thomas speaks thus (*Summa contra Gentiles* II, c. 54): "In substances composed of matter and form there is a twofold composition of act and potency: the first indeed of the *substance* itself, which is composed of matter and form; the second from the *substance* already composed and *being*, which can also be called from *that which is* and *being*, or from *that which is* and *that by which it is*." Which is more fully explained by the same author in *de Spiritualibus Creaturis*, a. 1, in the body. Cf. below d. 3, p. I, a. 1, q. 1.
+
+3. The distinction between *first act* and *second [act]* was also commonly received: the former is in the substantial order as a constitutive part of essence; but second act is in the accidental order, and is action or operation. In this sense St. Bonaventure says (*I Sent.* d. 13, q. 1, ad 5): "In another way [a thing] is said to live, insofar as it is *first act* and is from the essence of the soul *in the manner of a form*, not *in the manner of an agent*," etc. (cf. *II Sent.* d. 3, p. I, a. 1, q. 3, ad 4; d. 26, q. 3, ad 4). Scotus (in IX *Metaphysics*, c. 1, n. 27) says: "The first division is that one act is first, which is the form of the thing; another second, which is operation." St. Thomas (*de Potentia* q. 1, a. 1): "Act is twofold, namely first, which is form, and second, which is operation… hence likewise potency is twofold: one active, to which corresponds act, which is operation, and to this [active potency] the name of potency seems to have been first attributed; the other passive, to which corresponds first act, which is form, to which likewise the name of potency seems to have been transferred secondarily." — It is to be noted, however, that not rarely *first act* is used in another sense; for it is taken not in the substantial order, but for active potency, or habit, with respect to second act, which is action itself.
+
+4. Finally there is yet another, entirely different, distinction of potency, into *objective* and *subjective*: the former regards the ideal order, and is nothing but the intrinsic possibility of a thing; but subjective potency speaks, in the real order, of the "subject of potency" (cf. Scotus, IV *Metaph.* c. 3, n. 64).
+
+**III.** The third argument in the *fundamenta* rests on that principle which Scotus (*de Rerum Principio* q. 7, a. 2, n. 28) expresses thus: "As form is the principle of action, so matter is the principle of passion"; or in negative words (ibid., below): "As active potency is not founded in the essence of matter, so neither is passive potency founded in the essence of form" (cf. below d. 7, p. II, a. 2, q. 1, especially ad 2). This argument is more fully explained by St. Thomas, here q. 1, a. 2, and *de Potentia* q. 3, a. 1. — Concerning Augustine's words in the solution to argument 1, that the *capacity for form is to matter as form*, cf. below d. 12, a. 1, q. 1, in the body and ad 1 and 2; and d. 3, p. I, a. 1, q. 2, 3. — As to the solution to argument 3 on passive creation, cf. here a. 3, q. 1 and 2. — But that the words *from nothing* are to be taken neither materially nor causally but ordinally, is said also by St. Thomas, *Summa* I, q. 45, a. 1, ad 3, and Scotus, *Reportata* here q. 3, n. 2.
+
+**IV.** On the whole question: *Breviloquium* p. II, c. 1. — Alexander of Hales, *Summa* p. II, q. 6, m. 1, and m. 2, a. 1. — Scotus, here q. 2; *Reportata* here q. 3; *de Rerum Principio* q. 3. — St. Thomas, *Summa contra Gentiles* II, c. 16; *Summa* I, q. 45, a. 1, 2; *de Potentia* q. 3, a. 1, 2 [?]. — Albert the Great, *Summa* p. II, tr. I, q. 1, a. 1, particulae 1, 3; m. 2, a. 1. — Peter of Tarentaise, here q. 1, m. 2; q. 2, a. 1. — Richard of Mediavilla, here a. 1, qq. 1, 2, 3. — Aegidius, here qq. 1–4. — Henry of Ghent, here a. 3, s. q. 2. — Durandus, here q. 2 [?]. — Dionysius the Carthusian, here q. 2 [?].
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Apparatus content is preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, footers of pp. 14, 16, 17, 18, and the SCHOLION footer of p. 19). Quaracchi restarts footnote numbering at each printed page; what follows is renumbered sequentially across the chunk's six page-footers. Notes 1–4 of the p.14 footer's left column are part of the divisio chunk (`bon-sent-II-d1-p1-divisio`), not this one. p.15 and p.17 footers are absent from the raw OCR for this chunk — likely the OCR collapsed those rows with the columnar bleed of pp.14 and 16; any apparatus markers that would have anchored on those pages have been folded into adjacent page entries below, with `[?]` flags where Quaracchi-numbering correspondence is not certain.
+
+[^1]: **La.** De his cfr. tom. 1. pag. 442, nota 3; pag. 420, nota 5, et 7, et pag. 421, nota 2; — pag. 78, nota 2, et pag. 157, nota 11; — d. 43. q. 3. *in corp.*; *infra* q. 2. fund. 2, et Aristot., *XI. Metaph.* c. 2. (*X.* c. 2.): « Quo namque pacto ordo erit, non existente aliquo perpetuo, separato ac permanente? » — pag. 326, nota 7; pag. 421, nota 2; pag. 77, dub. 1; et Boeth., *III. de Consol.* prosa 10: « Omne enim, quod imperfectum esse dicitur, id imminutione perfecti imperfectum esse perhibetur. Quo fit, ut si in quolibet genere imperfectum quid esse videatur, in eo perfectum quoque aliquod esse necesse sit. Etenim perfectione sublata, unde illud, quod imperfectum perhibetur, exstiterit, ne fingi quidem potest etc. »
+    **En.** On these matters cf. Tomus I, p. 442, note 3; p. 420, notes 5 and 7, and p. 421, note 2; — p. 78, note 2, and p. 157, note 11; — d. 43, q. 3, *in the body*; *below* at q. 2, fundamentum 2; and Aristotle, *Metaphysics* XI, c. 2 (or X, c. 2): "For in what way will there be order, if there does not exist something perpetual, separate, and permanent?" — p. 326, note 7; p. 421, note 2; p. 77, dub. 1; and Boethius, *Consolation of Philosophy* III, prose 10: "For everything which is said to be imperfect is asserted to be imperfect by a diminution of the perfect. Whence it comes about that if in any genus something seems to be imperfect, in that [same genus] it is also necessary that there be something perfect. For with perfection removed, the [source] from which the thing said to be imperfect should have come into existence cannot even be imagined," etc. [This footer entry is duplicated in the divisio chunk as `[^5]` because the same long Boethius/Aristotle reference anchors both at the divisio's *imperfectionem* and here at the q.1 *fundamenta* opening clause.]
+
+[^2]: **La.** Haec propositio formata est ex prop. 1. libri *de Causis*, quam vide tom. I. pag. 471, nota 3, et pag. 638, nota 2.
+    **En.** This proposition is formed from proposition 1 of the *Book of Causes*; see Tomus I, p. 471, note 3, and p. 638, note 2.
+
+[^3]: **La.** Cfr. Anselm., *Monol.* c. 3. seqq. — De minori vide tom. I. pag. 169, nota 4. — Pro *a se ipso*, quod bis occurrit, plurimi codd. cum ed. 1 secundo loco habent *se ipso*, quod etiam a paucioribus mss. primo loco ponitur (cod. bb et ed. 1 *in se ipso*).
+    **En.** Cf. Anselm, *Monologion* c. 3 and following. — For the minor [premise] see Tomus I, p. 169, note 4. — In place of *a se ipso* ("from itself"), which occurs twice, very many codices with edition 1 in the second occurrence read *se ipso* ("by itself"), which is also placed by a few mss. in the first occurrence (codex bb and edition 1 [read] *in se ipso*).
+
+[^4]: **La.** Aristot., II. *Phys.* text. 70. (c. 7.) ostendit, tres causas, scil. efficientem, formalem et finalem, esse connexas inter se, immo multoties in unam concurrere. De minori eiusque addita ratione cfr. Boeth., *III. de Consol.* prosa 11. — Simili argumento S. Doctor, libr. I. d. 2. q. 1. fundam. 3. probat, unum tantum esse Deum. — Paulo inferius non pauci codd. *in summum bonum* pro *in summo bono*, incongrue.
+    **En.** Aristotle, *Physics* II, text 70 (c. 7), shows that the three causes — efficient, formal, and final — are connected with one another, indeed often concur into one. For the minor and its added reasoning cf. Boethius, *Consolation* III, prose 11. — By a similar argument the Holy Doctor, in book I d. 2, q. 1, fundamentum 3, proves that God is only one. — A little below, not a few codices [read] *in summum bonum* ("into the highest good") in place of *in summo bono* ("in the highest good"), incongruously.
+
+[^5]: **La.** Dionys., *de Div. Nom.* c. 3; cfr. tom. I. pag. 32, nota 2. — Mox plures codd. *se ipso est ens bonum* pro primo *se ipso est bonum*, ubi Vat. cum paucis mss. adiungit *et e converso*.
+    **En.** Dionysius, *On the Divine Names* c. 3; cf. Tomus I, p. 32, note 2. — Shortly afterward several codices [read] *se ipso est ens bonum* ("by itself is being-good") in place of the first *se ipso est bonum* ("by itself is good"), where the Vatican [edition] with a few mss. adds *et e converso* ("and conversely").
+
+[^6]: **La.** Cod. Q *ratione formae*. — Libr. IX. *Metaph.* text. 13. seqq. (VIII. c. 8.), ubi probat, actum potentia priorem esse ratione (definitione), substantia (perfectione) et quandoque tempore; ac XII. text. 30. (XI. c. 6.), ubi eadem ratione monstrat, praeter substantias naturales unam esse, quae sempiterna sit et actus. — Verba, quae sequuntur: *constat, quod non loquitur* etc., intellige secundum Alex. Hal., S. p. II. q. I. m. 2. a. 3: « et loquitur de potentia, quae perficitur per actum ». — Paulo inferius multi codd. cum ed. 1 omittunt *similiter*.
+    **En.** Codex Q [reads] *ratione formae* ("by reason of form"). — *Metaphysics* IX, text 13ff. (VIII, c. 8), where [Aristotle] proves that act is prior to potency in account (definition), in substance (perfection), and at times in time; and *Metaphysics* XII, text 30 (XI, c. 6), where by the same reasoning he shows that, besides the natural substances, there is one [substance] which is eternal and is act. — The words which follow, *"it is plain that he is speaking not [of active potency]"* etc., are to be understood according to Alexander of Hales, *Summa* p. II, q. 1, m. 2, a. 3: "and he speaks of the potency which is perfected through act." — A little below, many codices with edition 1 omit *similiter* ("similarly").
+
+[^7]: **La.** Aristot., 1. *Phys.* text. 82. (c. 9.): *Si enim (materia) fiat, subiici aliquid oportet primum, ex quo inexistente fiat. Hoc autem est ipsius natura. Quare, erit antequam fiat. Dico enim, materiam primum subiectum uniuscuiusque, ex quo fit aliquid, cum insit, non secundum accidens.*
+    **En.** Aristotle, *Physics* I, text 82 (c. 9): "For if matter were to come to be, it would be necessary that something first be subjected, from which, as inhering, it comes to be. But this is its nature. Therefore it will be before it comes to be. For I call matter the first subject of each thing, from which something comes to be, since it is in it, not per accidens."
+
+[^8]: **La.** Quod vocatur *ratio seminalis*, de qua *infra* d. 18. a. 1. q. 3, vel secundum alios *potentia materiae*.
+    **En.** This is what is called *seminal reason*, on which see *below* d. 18, a. 1, q. 3, or according to others *the potency of matter*.
+
+[^9]: **La.** Quod est impossibile in omni genere causarum, ut ostendit Aristot., II. *Metaph.* text. 5. seqq. (I. brevior, c. 2.). — Cod. aa *inquirendo* pro *in causando*.
+    **En.** Which is impossible in every genus of causes, as Aristotle shows, *Metaphysics* II, text 5ff. (I brevior, c. 2). — Codex aa [reads] *inquirendo* ("in inquiring") in place of *in causando* ("in causing").
+
+[^10]: **La.** Dionys., *de Div. Nom.* c. 2. § 8. et c. 9. § 6. — Quod materia sit pura potentia, docet Aristot., I. *Phys.* text. 69. (c. 7.) et VII. *Metaph.* text. 8. (VI. c. 3.), de quo tom. I. pag. 338, nota 11, et infra d. 12. a. 1. — Paulo inferius plures codd. ut B C I O P R T *de materia possibili* pro *de possibili*; dein Vat. *potentiale* pro *possibile*.
+    **En.** Dionysius, *On the Divine Names* c. 2, § 8 and c. 9, § 6. — That matter is pure potency Aristotle teaches in *Physics* I, text 69 (c. 7) and *Metaphysics* VII, text 8 (VI, c. 3); on this see Tomus I, p. 338, note 11, and below d. 12, a. 1. — A little below, several codices such as B, C, I, O, P, R, T [read] *de materia possibili* ("concerning the possible matter") in place of *de possibili* ("concerning the possible"); then the Vatican [edition reads] *potentiale* in place of *possibile*.
+
+[^11]: **La.** *Epist. I. Ioan.* 1, 3. — De seq. prop. cfr. Aristot., I. *Phys.* text. 81. (c. 9.), ubi docet materiam appetere formam, sicut turpe pulcrum. — Aliquanto superius cod. W *lucidissimo* pro *luminosissimo*. Cod. F conclusionem argumenti supplet *ergo nullo modo est ab ipso*.
+    **En.** *First Epistle of John* 1:3 [recte: 1 John 1:5, "God is light"]. — On the following proposition, cf. Aristotle, *Physics* I, text 81 (c. 9), where he teaches that matter desires form as the base [desires] the beautiful. — A little above, codex W [reads] *lucidissimo* ("most shining") in place of *luminosissimo* ("most luminous"). Codex F supplies the conclusion of the argument: *ergo nullo modo est ab ipso* ("therefore in no way is it from him").
+
+[^12]: **La.** Text. 28. [?] (VI. c. 8.): « In quibusdam etenim etiam manifestum est, quod generans tale est, quale quod generatur, non tamen idem nec unum numero, sed unum specie, ut in naturalibus; homo namque hominem generat ». Et text. 30. (VI. c. 9.) iuxta translationem Arabico-latinam: « Manifestum est igitur ex dictis, quod quoquo modo omne quod fit, fit a conveniente in nomine (ἐξ ὁμωνύμου), sicut illud quod est per naturam ». Averroes in hunc textum: *Manifestum est igitur ex praedictis, quod omne quod generatur, generatur a conveniente in nomine et ratione, ut illud quod est per naturam, i. e. homo ab homine.* De seq. prop. cfr. Aristot., VII. *Metaph.* text. 22. seqq. (VI. c. 7.), ubi contra Platonem ostendit, formas existentes in rebus corporalibus esse a formis, quae sunt in materia.
+    **En.** Aristotle, *Metaphysics* VII, text 28 [?] (VI, c. 8): "For in some things it is manifest that the generator is such as the generated, yet not identical nor numerically one, but one in species, as in natural things; for man generates man." And text 30 (VI, c. 9), according to the Arabic-Latin translation: "It is manifest, therefore, from what has been said, that in some way everything which comes to be, comes to be from a thing agreeing in name (ἐξ ὁμωνύμου, *from a synonymous thing*), as that which exists by nature." Averroes on this text: "It is manifest, therefore, from what has been said, that everything which is generated is generated from a thing agreeing in name and account, as that which exists by nature, i.e., man from man." On the following proposition cf. Aristotle, *Metaphysics* VII, text 22ff. (VI, c. 7), where, against Plato, he shows that the forms existing in bodily things are from forms which are in matter.
+
+[^13]: **La.** Plato, *Gorgias* (ed. Serrani, tom. I. pag. 465 [?]): « Ego autem artis nomine dignam minime eam rem esse existimo, quae careat ratione ». Et X. *de Republ.* (tom. II. pag. 596): « Nonne solemus etiam dicere supellectilis utriusque artificem sic opus suum absolvere, ut in formulam illam [ideam] intueatur...? Non enim ullus artifex ideam ipsam fabricat. Qui enim posset? » Aristot., VI. *Ethic.* c. 4: « Ars igitur, sicut dictum est, habitus quidam est cum ratione vera effectivus »; et VII. *Metaph.* text. 23. (VI. c. 7.): « Ab arte autem fiunt quorum forma in anima ». Cfr. tom. I. pag. 600, nota 7. — Paulo post Vat. cum uno alteroque cod. *praecognoscerit* pro *cognoscere*, et *est* pro *fuit*. Deinde aliqui codd. ut H bb *poterant* pro *potuerunt*. — Hoc argumentum est Platonis dicentis in *Timaeo* (tom. III. pag. 28.): *Quidquid autem gignitur, ex aliqua causa gigni necesse est; fieri enim nullo modo potest, ut quidquam sine causa gignatur aut fiat. Quocirca, si is qui aliquod opus efficere molitur, eam speciem, quae semper est eadem, intuetur atque eam sibi proponit exemplar, et quidem illam cogitationisque suae vim educit in opus, ita omnino necesse est, rem totam praeclare absolvi; sin autem in illam, quae gignitur, inspiciet, genitum exemplar sibi proponens, non praeclarum certe opus perficiet... Atqui si pulcher est hic mundus, si bonus est eius opifex, perspicuum est, ipsum ad sempiternum illud exemplar respexisse* etc.
+    **En.** Plato, *Gorgias* (ed. Serranus, Tomus I, p. 465 [?]): "But I do not at all consider that thing worthy of the name of art which lacks reason." And X *Republic* (Tomus II, p. 596): "Do we not also customarily say that the craftsman of each piece of furniture so brings his work to completion that he looks toward that pattern [idea]…? For no craftsman fashions the idea itself. For how could he?" Aristotle, *Ethics* VI, c. 4: "Art therefore, as has been said, is a certain habit with true reason, productive [of something]"; and *Metaphysics* VII, text 23 (VI, c. 7): "By art are made those things whose form is in the soul." Cf. Tomus I, p. 600, note 7. — Shortly after, the Vatican [edition] with one other codex [reads] *praecognoscerit* in place of *cognoscere*, and *est* in place of *fuit*. Then some codices such as H and bb [read] *poterant* in place of *potuerunt*. — This argument is Plato's, when he says in the *Timaeus* (Tomus III, p. 28): "But whatever is begotten must of necessity be begotten from some cause; for it is in no way possible that anything be begotten or come to be without a cause. Wherefore, if he who undertakes to effect some work looks toward that species which is always the same, and proposes it to himself as an exemplar, and indeed leads the force of his cogitation into the work, it is altogether necessary that the whole thing be brought to completion most excellently; but if he looks instead at that which is generated, proposing a generated exemplar to himself, he will certainly not perform an excellent work… But if this world is beautiful, if its craftsman is good, it is clear that he has looked toward that everlasting exemplar," etc.
+
+[^14]: **La.** Vat. primam minorem exhibet sic: *Si ex nihilo; ex nihilo nihil fit.*
+    **En.** The Vatican [edition] gives the first minor [premise] thus: "If from nothing; from nothing nothing comes to be."
+
+[^15]: **La.** Gilbert. Porret. in libro *Sex princip.* c. 2. ait: « Actio vero est, secundum quam in id quod subiicitur, agere dicimur, ut secans quis, in eo quod secet, secans dicitur ». Quare etiam cod. P hic addit *in Sex principiorum*. — Paulo inferius cod. F *et hoc est*, non pauci alii codd. falso *non igitur* pro *non nisi*.
+    **En.** Gilbert of Porretana in the book *Six Principles* c. 2 says: "Action, however, is that according to which we are said to act in that which is subjected, as one who cuts is called cutting in that which he cuts." Wherefore codex P here adds [the citation] *in Sex principiorum*. — A little below, codex F [reads] *et hoc est*; not a few other codices wrongly [read] *non igitur* ("therefore not") in place of *non nisi* ("nothing but").
+
+[^16]: **La.** De qua vide *infra* a. 3. q. 2. *in corp.*
+    **En.** On which see *below*, a. 3, q. 2, *in the body*.
+
+[^17]: **La.** Text. 82. (c. 9.). — Cod. O aliquanto superius *creatio passiva* pro *creatio-passio*, et dein Vat. post *ex aliquo* addit *in producto*.
+    **En.** [Aristotle, *Physics* I,] text 82 (c. 9). — Codex O, somewhat above, [reads] *creatio passiva* in place of *creatio-passio*, and then the Vatican [edition], after *ex aliquo*, adds *in producto*.
+
+[^18]: **La.** Eleatae, qui docebant monismum, quorum dux fuit Xenophanes (versus a. 569 ante Chr.). Cfr. Aristot., I. *Phys.* text. 32. (c. 4.), I. *Metaph.* c. 9. (c. 5.).
+    **En.** The Eleatics, who taught monism, whose leader was Xenophanes (around 569 B.C.). Cf. Aristotle, *Physics* I, text 32 (c. 4), and *Metaphysics* I, c. 9 (c. 5).
+
+[^19]: **La.** Cod. P *quod Dei natura, quae est*.
+    **En.** Codex P [reads] *quod Dei natura, quae est* ("that the nature of God, which is").
+
+[^20]: **La.** Cfr. Aristot., I. *Phys.* text. 32. seqq. (c. 4.), I. *Metaph.* c. 4–7. (c. 3. seq.); et August., VIII. *de Civ. Dei* c. 2. seqq., ubi placita antiquorum philosophorum breviter enumerantur.
+    **En.** Cf. Aristotle, *Physics* I, text 32ff. (c. 4); *Metaphysics* I, cc. 4–7 (c. 3 seq.); and Augustine, *City of God* VIII, cc. 2ff., where the opinions of the ancient philosophers are briefly enumerated.
+
+[^21]: **La.** Plato in *Timaeo*, ex quo iam (nota 1.) aliqua retulimus. Cfr. etiam Aristot., I. *Phys.* text. 32. (c. 4.), I. *Metaph.* text. 6. seqq. (c. 6.), VII. text. 51. seqq. (VI. c. 14.) et XIII. c. 4. usque in finem libri (XII. c. 4. seqq.), ubi inter cetera argumenta etiam illa afferuntur, quorum S. Doctor mentionem facit. — Paulo inferius cod. aa *generalius*, sed minus conformiter dictis Aristotelis loc. cit., *mundum* pro *hominem*.
+    **En.** Plato in the *Timaeus*, from which we have already (note 13 [Plato/Gorgias note]) referred to some passages. Cf. also Aristotle, *Physics* I, text 32 (c. 4), *Metaphysics* I, text 6ff. (c. 6), VII, text 51ff. (VI, c. 14), and XIII, c. 4 to the end of the book (XII, c. 4ff.), where among other arguments are also adduced those which the Holy Doctor mentions. — A little below codex aa [reads] *generalius* ("more generally"), but less in conformity with Aristotle's words in the cited place, [reading] *mundum* ("world") in place of *hominem* ("man").
+
+[^22]: **La.** Cap. 3: « Hoc igitur visi sunt omnes confiteri, quod [mare] factum est, siquidem et omnis mundus ». Textum sequentem ex principio *de Caelo et mundo* S. Doctor secundum translationem Arabico-latinam iam in libro I. *Sent.* d. 2. q. 4. *in fine corp.* (pag. 58) allegavit, in quo dicitur: « Hoc [ternario] numero adhibuimus nosmetipsos magnificare Deum unum, creatorem omnium, eminentem proprietatibus eorum quae sunt creata ». Cfr. etiam I. *de Caelo et mundo*, text. 102. seqq. (c. 10.), ubi recitat diversas antiquorum opiniones de origine mundi ostenditque, impossibile esse, ipsum fuisse ortum per generationem, sed esse sempiternum. Sed I. *Topic.* c. 9. hanc quaestionem: *utrum mundus sit aeternus necne*, inter ea recenset problemata, « de quibus contrarii sunt syllogismi… eo quod de utrisque sunt rationes suasibiles, et de quibus rationem non habemus, cum sint magna, difficile arbitrantes esse propter quid assignare ».
+    **En.** Aristotle, *Meteorologica* II, c. 3: "All therefore have seemed to confess this, that [the sea] has been made, since indeed the whole world [has been made]." The following text from the beginning of *On the Heavens and the World*, according to the Arabic-Latin translation, the Holy Doctor already cited in book I *Sent.*, d. 2, q. 4, *at the end of the body* (p. 58), where it is said: "By this [ternary] number we have used ourselves to magnify God as one, creator of all, eminent above the properties of those things which are created." Cf. also *On the Heavens and the World* I, text 102ff. (c. 10), where he reviews the various opinions of the ancients on the origin of the world, and shows that it is impossible that it arose by generation, but [that it] is eternal. But *Topics* I, c. 9, lists this question — *whether the world is eternal or not* — among those problems "concerning which there are contrary syllogisms… because for both sides there are persuasive reasons, and concerning which we have no [definite] account, since they are great, [people] judging it difficult to assign the wherefore."
+
+[^23]: **La.** Seu *de Plantis*, c. 1. *in fine* (c. 7.): *Dixitque Empedocles, quod plantae habent generationem in mundo, diminuto tamen et non suis modis perfecto absolutoque, et quod eo completo animal non generabitur; qui sermo aptus non est, quia mundus integer est ac sempiternus et animalia generare cessavit numquam ac plantas et omnis generis species alias.* — Codd. cum Vat. *Abrulalum* pro *Abrucalem*, quo nomine ex versione Arabica in hoc libro Empedocles vocabatur. Aliquanto superius plures codd. ut F I Y Z *Sed non dixerunt*, cod. aa *Sed dixerunt* pro *Sed dixerunt, non*.
+    **En.** Or *On Plants*, c. 1 *at the end* (c. 7): "And Empedocles said that plants have generation in the world, although in a diminished mode and not in their own perfect and absolute modes, and that, when [the world] is completed, no animal will be generated — which speech is not apt, because the world is whole and eternal, and never has it ceased to generate animals and plants and other species of every kind." — The codices with the Vatican [edition read] *Abrulalum* in place of *Abrucalem*, by which name Empedocles was called in this book from the Arabic version. A little above, several codices such as F, I, Y, Z [read] *Sed non dixerunt*; codex aa [reads] *Sed dixerunt* in place of *Sed dixerunt, non*.
+
+[^24]: **La.** *Gen.* 1, 1. — Paulo inferius multi codd. habent *esse producta* pro *in esse producta*, et in fine corp. aliqui codd. cum ed. 1 *opposito* pro *opponendo*.
+    **En.** *Genesis* 1:1. — A little below, many codices have *esse producta* in place of *in esse producta*, and at the end of the body some codices with edition 1 [read] *opposito* ("by opposition") in place of *opponendo* ("in the objection").
+
+[^25]: **La.** Alex. Hal., S. p. I. q. 18. m. 6. ad 2: *Ad aliud dicendum secundum illud Augustini [de Vera Relig. c. 18. n. 33. seq.]:* « Illud quod in comparatione perfectorum informe dicitur, si habet aliquid formae, quamvis exiguum [ed. Aug. addit: quamvis inchoatum], nondum est nihil… nonnullum ergo bonum est et capacitas formae: et ideo [bonorum omnium auctor], qui praestitit formam, fecit etiam posse formari ». *Secundum ergo Augustinum dicitur natura [materiae] capacitas formae, secundum quam dicimus, quod materia est possibilis ad capiendas formas et ipsi materiae est pro forma, secundum quam dicimus in materia esse speciem.* Et hoc est etiam quod dicit Augustinus [*de Natura boni*, c. 18.], quod materia « habet capacitatem formarum suarum; nam si capere impositam formam ab artifice non posset, nec materies diceretur ». Cfr. etiam *de Fide et symbolo*, c. 2. n. 2; XII. *Confess.* c. 6. n. 6, et *de Gen. ad lit.* (liber imperf.) c. 15. n. 51. — Aliquanto superius Vat. post *sed propter* inserit *substrationem seu*; deinde permulti codd. cum ed. 1 ponunt *quae est actus* pro *quae eius est actus*; tandem cod. U circa finem solutionis *et per se* pro *et in se*, ac *est ei forma* pro *est ei pro forma*.
+    **En.** Alexander of Hales, *Summa* p. I, q. 18, m. 6, ad 2: "To another [argument] it must be said, according to that [saying] of Augustine [*On True Religion* c. 18, nn. 33ff.]: 'That which, in comparison with perfect things, is called formless, if it has anything of form — however little [Augustine's edition adds: however inchoate] — is not yet nothing… therefore it is some good and a capacity for form: and therefore [the author of all goods], who bestowed form, also made [it] able to be formed.' Therefore according to Augustine the nature [of matter] is called *the capacity for form*, according to which we say that matter is capable of receiving forms and to matter itself it is as form, according to which we say that there is species in matter." And this is also what Augustine says [in *On the Nature of the Good*, c. 18], that matter "has the capacity of its [own] forms; for if it could not receive a form imposed by a craftsman, it would not even be called matter." Cf. also *On Faith and the Creed*, c. 2, n. 2; XII *Confessions* c. 6, n. 6; and *On Genesis according to the Letter* (unfinished book) c. 15, n. 51. — A little above, the Vatican [edition], after *sed propter*, inserts *substrationem seu* ("the underlying, or"); then very many codices with edition 1 place *quae est actus* in place of *quae eius est actus*; finally codex U, near the end of the solution, [reads] *et per se* in place of *et in se*, and *est ei forma* in place of *est ei pro forma*.
+
+[^26]: **La.** *De Vera Relig.* c. 18. n. 33. seq., et *de Natura boni*, c. 18, ex quibus locis iam in nota praecedente aliqua retulimus. — Paulo superius plures codd. cum edd. 1, 3 *tenebra* pro *tenebrosa*.
+    **En.** *On True Religion*, c. 18, n. 33ff., and *On the Nature of the Good*, c. 18, from which places we have already referred to some passages in the preceding note. — A little above, several codices with editions 1 and 3 [read] *tenebra* in place of *tenebrosa*.
+
+[^27]: **La.** Cfr. August., XII. *Confess.* c. 7. n. 7. seq.
+    **En.** Cf. Augustine, *Confessions* XII, c. 7, n. 7ff.
+
+[^28]: **La.** Vide Aristot., VII. *Metaph.* text. 22. seq. (VI. c. 7.). — Paulo inferius plures codd. *agens secundum intellectum* pro *agens per intellectum*; deinde aliqui codd. verbis transpositis *non quae sunt* pro *quae non sunt*, et cod. F *aliquid in re* pro *aliquid rei*.
+    **En.** See Aristotle, *Metaphysics* VII, text 22ff. (VI, c. 7). — A little below, several codices [read] *agens secundum intellectum* in place of *agens per intellectum*; then some codices, with the words transposed, [read] *non quae sunt* in place of *quae non sunt*, and codex F [reads] *aliquid in re* ("something in the thing") in place of *aliquid rei* ("something of the thing").
+
+[^29]: **La.** Libr. *83 QQ.* q. 46. n. 2, et VII. *de Civ. Dei*, c. 28. Cfr. I. *Sent.* d. 35.
+    **En.** Augustine, *Eighty-three Questions* q. 46, n. 2, and *City of God* VII, c. 28. Cf. *I Sent.* d. 35.
+
+[^30]: **La.** Libr. I. *Metaph.* text. 32. seqq. (c. 9.), VII. text. 28. et 31. seqq. (VI. c. 8. et 14.) et XIII. c. 3. (XII. c. 3.). — Mox cod. L *formae rerum quamdiu sint* pro *formae rerum extra Deum*.
+    **En.** Aristotle, *Metaphysics* I, text 32ff. (c. 9), VII, text 28 and 31ff. (VI, cc. 8 and 14), and XIII, c. 3 (XII, c. 3). — Shortly after, codex L [reads] *formae rerum quamdiu sint* ("the forms of things, as long as they exist") in place of *formae rerum extra Deum* ("the forms of things outside God").
+
+[^31]: **La.** Codd. I cc cum ed. 1 *nisi*; cod. aa bis *nec* pro *vel*.
+    **En.** Codices I and cc with edition 1 [read] *nisi* ("unless"); codex aa twice [reads] *nec* ("nor") in place of *vel* ("or").
+
+[^32]: **La.** Cod. cc et ed. 1: *Quod obiicitur de actione, quod requirit in quid agat.* Paulo inferius sola Vat. *et in hoc differunt* pro *et hoc refert inter*. — Solutio huius obiectionis fundatur in definitionibus verborum *agere* et *facere*, prout a Gilberto Porretano in libro *de Sex principiis*, c. *de Actione* dantur: « Dico autem *actionem* non *quid*, sed *in quid agat* exigere… *Facere* vero id, quod quale est ex se gignit ». Aristot., VI. *Ethic.* c. 2. seqq. hanc differentiam inter *agere* et *facere* assignat, quod *agere* fiat actione pertinente ad voluntatem vel electionem, *facere* autem sit operari super alienam vel extrinsecam materiam. Unde etiam artem definit *habitum cum ratione vera effectivum*, prudentiam vero *habitum cum ratione vera activum circa ea quae bona et mala homini sunt*. Cfr. etiam hic *lit. Magistri*, c. 1.
+    **En.** Codex cc and edition 1 [read]: "What is objected concerning action, that it requires [something] *into which* to act." A little below, only the Vatican [edition reads] *et in hoc differunt* ("and in this they differ") in place of *et hoc refert inter* ("and this is the difference between"). — The solution of this objection is based on the definitions of the words *agere* and *facere* as given by Gilbert of Porretana in the book *On the Six Principles*, c. *On Action*: "I say that *action* demands not *what*, but *into what one acts*… *To make*, however, [is] that which produces from itself something with a quality." Aristotle, *Ethics* VI, cc. 2ff., assigns this difference between *agere* and *facere*: that *agere* takes place by an action pertaining to the will or to choice, while *facere* is to operate upon foreign or extrinsic matter. Hence he also defines art as "a habit with true reason, productive [of something]"; and prudence as "a habit with true reason, active concerning those things which are good and evil for man." Cf. also here *the letter of the Master*, c. 1.
+
+[^33]: **La.** Plura de hoc vide *infra* a. 3. q. 2, et de his quae sequuntur cfr. Anselm., *Monol.* c. 8. — Paulo anterius plures codd. cum ed. 1, perperam verbis transpositis, *et non ad esse* pro *et ad non-esse*. Mox cod. aa post *ut ex ferro* adiicit *fit*. Aliquanto inferius nonnulli codd. ut H Z cc et ed. 1 ponunt *fundamento* pro *fulcimento*.
+    **En.** Many more things concerning this see *below*, a. 3, q. 2; and for the matters that follow cf. Anselm, *Monologion* c. 8. — A little before, several codices with edition 1, wrongly transposing the words, [read] *et non ad esse* ("and not to being") in place of *et ad non-esse* ("and to non-being"). Soon afterward codex aa, after *ut ex ferro*, adds *fit* ("comes to be"). A little below, some codices such as H, Z, cc, and edition 1 place *fundamento* ("foundation") in place of *fulcimento* ("support").
+
+[^34]: **La.** Quod omnipotentia sit Dei proprium probat S. Doctor fusius libr. III. *Sent.* d. 14. a. 3. q. 3. Cfr. etiam I. *Sent.* d. 43.
+    **En.** That omnipotence is proper to God, the Holy Doctor proves more fully in book III *Sent.*, d. 14, a. 3, q. 3. Cf. also I *Sent.*, d. 43.
 
 ## Notes
 
-[Notes pending]
+- This is the first quaestio of Bonaventure's *Commentarius* on II Sent. d.1, on whether things have a causal principle. The structure is six fundamenta affirming that things are produced wholly (both materially and formally) → six contrary fundamenta → conclusio (the world is produced from nothing, both wholly and according to its intrinsic principles) → respondeo enumerating four historical positions (ancient Eleatics/Xenophanes, Anaxagoras, the Platonists, the Peripatetics) and rejecting each, then yielding to Scripture (Gen. 1:1) → six solutiones to the contra arguments → SCHOLION I–IV (Quaracchi editorial: I. background to the Aquasparta connection, II. four points on *actus*/*potentia* terminology, III. on the Scotus principle behind fundam. 3 and on the materia-as-capacitas-formae teaching, IV. parallel-citation bibliography).
+- p.13 / p.14 boundary placed after fundam. 3 because the OCR "13" page-number marker (raw line 1707) follows the fundam.3 close — the chunker's auto line range puts the QUAESTIO I heading on p.13 with body running over onto p.14.
+- p.15 and p.17 page boundaries are approximate and flagged `[?]` inline. The OCR raw collapsed the running heads for those right-side pages (DIST. I. P. I. ART. I. QUAEST. I. would repeat at every recto top); Quaracchi's left-page running heads (`SENTENTIARUM LIB. II.` + page number) survive at the p.16 and p.18 transitions and were used to anchor those page breaks.
+- Apparatus footer entries: marker numbering follows my chunk-internal sequence (1–34), NOT Quaracchi's per-page restarted numbering. The crosswalk: notes [^1]–[^9] anchor on pp.13–14 fundamenta and overlap with the p.14 footer (left and right columns); [^10]–[^17] anchor on the ad oppositum arguments and overlap with p.14 right column + p.16 footer; [^18]–[^24] anchor in the respondeo (p.16); [^25]–[^32] anchor in solutiones 1–5 (p.17 + early p.18); [^33]–[^34] anchor in solutio 6 (p.18). The SCHOLION on pp.18–19 contains its own footer block with four entries which are integrated as inline citations within Scholion sections rather than separate apparatus markers (the Scholion text already cites Aquinas, Scotus, Aristotle, Concilium Viennense, etc. verbatim).
+- Aristotle text-number `text. 28` in [^12]: the OCR string `'' Tcxt. 281` is ambiguous between *text. 28* (matching Aristot. *Metaph.* VII c. 8 "homo hominem generat") and a different numbering; I read it as 28 based on the cited content. Flagged [?] in the apparatus body.
+- Plato *Gorgias* page reference `ed. Serrani, tom. I. pag. .i6o` in [^13]: OCR-garbled, plausibly p. 465 based on the standard Stephanus pagination of *Gorgias* 465a (the source of the cited phrase about *ars*); flagged [?].
+- Three Scholion IV bibliographic entries (S. Thom. *de Potent.* q. 3. a. 1. 2, Durand., Dionys. Carth.) are flagged [?] because the OCR shows badly degraded right-column footer rows with positional jumble (numbers mid-row) that may have misalligned text and citation.
+- All marginal glosses bleeding into OCR (Adoppositum., Notandum., Eo primus./Secundus./Tertius./Quartus., Solutio I/II., Ex nihilo intelligitur tripliciter., De opinione Platonis., conclusio est non solum etc., Soluuiio op-positorum.) have been trimmed per CLAUDE.md OCR-cleanup convention; they are editorial marginalia, not Bonaventure's text.

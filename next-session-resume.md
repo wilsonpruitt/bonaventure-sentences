@@ -1,72 +1,91 @@
-# Next session — Vol I polish-blocker (d.41-d.48) + Vol II kickoff
+# Next session — Vol II d.1 Tier-2 continuation (session 3)
 
-Updated 2026-05-13 at close of d.47+d.48 session.
+Updated 2026-05-13 at close of session 2 (q1 promoted).
 
-## 🎉 VOL I COMPLETE — 411/411 questions Tier-2
+Head commit: not yet committed — session 2 work (q1 promotion) is uncommitted on disk. **First action next session: decide whether to commit session 2 + session 1 together, or run audits first, then commit.**
 
-Head commit `3fffa93`. 13 chunks promoted today (1 dry-run + 4 parallel waves of 3). All d.1-d.48 distinctions complete; site build clean at 411/411.
+## Status
 
-Major findings from this session:
-- d.47 had no auto-chunked Q.II (OCR-garbled `QUAESHO II.` at line 42030) — gap-filled mid-session after wave 1 agent surfaced it.
-- d.48 ART.II had no auto-chunked Q.II (OCR-garbled `QLIAESTIO U.` at line 43539) — gap-filled pre-flight.
-- d.48 had 4 dubia (I-IV), not the 2 anticipated. Agent verified against PDF.
-- d.47 dubia was severely mis-chunked: `p1-dubia` had Q.IV scholion, `p2-dubia` had only DUB.I; rebuilt as 5-dubia chunk (DUB I-V).
-- d.48 a1-q2 printed_pages OCR-garbled as `834` (actual 854) — caught post-hoc, fixed.
+- Vol I COMPLETE (411/411 Tier-2).
+- Vol II auto-chunked: 464 skeletons across d.1–d.44.
+- Vol II d.1 promotions to date:
+  - `d1-littera` (session 1, 2026-05-12)
+  - `d1-p1-divisio` (session 1, 2026-05-12)
+  - `d1-p1-a1-q1` (session 2, 2026-05-13) — *Utrum res habeant principium causale*. 6 fundamenta + 6 contra + conclusio + respondeo (4 historical positions: Eleatics/Xenophanes, Anaxagoras, Platonists, Peripatetics) + 6 solutiones + SCHOLION I–IV. 34 apparatus entries spanning pp.13–19. Ambiguities log: `manual-review/tier2-ambiguities-II-d1-p1-a1-q1.md`.
+- Site build: 2 books, 873 chunks, **414 translated**.
+- No deploy. Wilson's policy: hold until Vol II has meaningful Tier-2 work to show.
 
-Audits at commit: 0 critical paraphrase / 0 high (4 false-positive smell flags on descriptive "gap-fill"/"auto-chunked" substrings in status strings). 0 header flags. 0 apparatus flags.
+## Open [?] flags from session 2 (parked for d.10 polish-blocker)
 
-## Decision point — polish-blocker cadence
+- `d1-p1-a1-q1`: 2 page-break positions (p.15, p.17 — OCR ate right-page running heads); Aristotle text-number 28 in [^12]; Plato Stephanus page 465 in [^13]; 3 Scholion-IV bibliographic entries (S. Thom. *de Potent.*, Durand., Dionys. Carth.). Resolution path: extract `vol2/p-hires-r600-pp.14-19` and eyes-on the column-break positions and footer text. See `manual-review/tier2-ambiguities-II-d1-p1-a1-q1.md` for the full disposition log.
 
-CLAUDE.md says polish-blocker runs every 10 distinctions (after d.30, d.40, d.50…). Vol I ends at d.48, so the d.41-d.50 blocker is now a **d.41-d.48 blocker** without the full decade.
+## Next chunk: d1-p1-a1-q2
 
-Carry list: ~30 [?] flags from d.43-d.46 + ~19 new flags from this session's d.47-d.48 promotions. Per-chunk carry log at `manual-review/d41-d50-polish-resolution-log.md`. New flags from today (audit at promotion-time, not full polish-pass):
+Chunk: `vol2/bon-sent-II-d1-p1-a1-q2.md`
+Raw lines: 2019–2410 (~392 raw lines — the largest remaining chunk in d.1 p1)
+Title: *Utrum res habeant principium initiale* — whether things have an initial principle (i.e., a temporal beginning vs. eternity of the world).
+Printed pp.: probably 19–24 (continues from where q1 ends mid-p.19).
+PDF pp.: ~41–46 (offset +22).
 
-- d47-littera: 3 [?] (apparatus 5, 6, 8 — codex garbles, Psalm citation)
-- d47-a1-q1: 1 [?] (apparatus 15 cod. sigil at p.840)
-- d47-a1-q2: 3 [?] (apparatus 12 sentence-cut, Scholion II "Petr. a Tar. hic [?]")
-- d47-a1-q3: 2 [?] (apparatus 1 *Iob* citation, 14 garbled cross-ref)
-- d47-a1-q4: 2 [?] (apparatus 1 `filios fornicariae`, 13 editorial note)
-- d47-dubia: 0
-- d47-divisio: 0
-- d48-littera: 1 [?] (apparatus 12 corrupt fn 5 tail)
-- d48-a1-q1: 3 [?] (Scholion I `q. 45. q. 2`, `sanum`, `modo volendi`)
-- d48-a1-q2: 0
-- d48-a2-q1: 1 [?] (apparatus 8 cod. column split)
-- d48-a2-q2: 3 [?] (body: `velle aliquia velle proprie`, `si Deo placet`, Scholion II `m. 4. § 6.`)
-- d48-dubia: 0
-- d48-divisio: 0
+This is the *world-eternity* question — Bonaventure's most famous defense that the world cannot have been eternal. Expect 4–6 *ad oppositum a parte motus* arguments at the head, the classic Bonaventure infinity arguments in the respondeo (an actual infinity of revolutions is impossible; an infinite series cannot be traversed; etc.), and a substantial Scholion drawing parallels to *I Sent.* d. 1, *Itinerarium*, and the Thomistic *de Aeternitate mundi* tradition.
 
-Total: ~49 flags to disposition.
+### Workflow per CLAUDE.md (locked-in)
 
-**Ask Wilson** before next session which path to take:
-- (a) Run the d.41-d.48 polish-blocker as the standard 600dpi PDF eyes-on pass before Vol II.
-- (b) Defer polish-blocker to a dedicated Vol I closing session and start Vol II Tier-2 first.
-- (c) Treat Vol I as KDP-ready immediately (mirror Ambrose Ps 118 single-volume pipeline at `~/wroot-press/`) and run polish as a separate track.
+1. Find OCR line range; verify boundaries against raw (look for footer-bleed; chunker emits warnings via `python3.11 tools/auto-chunk-volume.py 2 --dry-run`).
+2. Latin verbatim from raw OCR, NOT from PDF.
+3. `[^N]` anchors at OCR positions, not end-of-clause.
+4. English literal, paragraph-for-paragraph.
+5. Apparatus walked page-by-page from raw OCR footers; Quaracchi restarts numbering per page.
+6. Log `[?]` flags inline; resolve at decade polish-blocker (d.10).
+7. `node scripts/build-content.mjs` smoke-test before commit.
 
-## Open scope nudges (out of this session's commit, future work)
+### Lesson from session 2 (don't repeat)
 
-Reported by promotion agents but not actioned:
-- d47-a1-q2: `line_end` could be extended ~42255 to formally cover its own apparatus footnotes (currently 42212; Quaracchi p.843 footer entries 9-15 anchor on body in chunk but live past line bound). Cosmetic — apparatus content was still captured.
-- d48-a1-q2: agent initially set printed_pages from OCR-garble running head `834` (actual 854). Fixed in this commit. Watch for similar `8`-prefix OCR garbles in vol2.
+- **Trim marginal glosses aggressively**. q1 had ~10 bleeding marginalia (`Adoppositum.`, `Notandum.`, `Eo primus./Secundus./Tertius./Quartus.`, `Solutio I/II.`, `Ex nihilo intelligitur tripliciter.`, `De opinione Platonis.`, `conclusio est non solum etc.`). CLAUDE.md says trim them; don't render them as headings.
+- **Apparatus marker renumbering is fine**. Chunk-internal sequence 1–N is more readable than Quaracchi's per-page restart. Document the crosswalk in Notes so the polish pass can verify.
+- **When OCR eats a page running head**, mark the `<!-- page N -->` position as `[?]` rather than guessing precisely. The d.10 polish pass will resolve via 600dpi PDF.
+- **OCR's `text. 28[?]` vs `text. 281` ambiguity** in [^12] is the kind of thing that the polish pass + PDF verification clears in seconds — don't try to resolve eyes-on-OCR alone.
 
-## After polish (or in parallel) — Vol II kickoff
+### Pace
 
-- Raw OCR for vol2 at `~/bonaventure-sentences/raw/bonaventure_vol2_raw.txt` (verify exists; INDEX QUAESTIONUM TOC starts at vol1-pt2 line 44057, suggests vol2 chunks need new boundaries).
-- CLAUDE.md is vol1-scoped; needs a sibling for vol2 with new pt offsets (vol2 pt1/pt2 will have different `pdf_page = printed − N` constants).
-- Auto-chunker (`chunk_vol1.py`) needs a vol2 variant.
-- Site copy: switch the corpus-status banner from "Vol I in progress" → "Vol I complete" / "Vol II in progress". Live at https://bonaventure.wrootpress.com.
-- Wroot Press KDP candidate: Vol I English single-volume — mirror the Ambrose Ps 118 pipeline (513pp, $30, symmetric 0.875" margins after Typst parity-bug fix). Or English+Latin facing-page edition.
+q1 took ~one focused session, end-to-end (one big Write of the whole chunk). q2 is comparable in size (~390 raw lines vs q1's ~350); plan ~one session. Wilson's policy: go slowly through d.10 manually before launching parallel agents.
 
-## Tools cheat sheet (unchanged)
+### Remaining d.1 chunks after q2 (in order)
+
+| Chunk | Lines | Notes |
+|---|---|---|
+| d1-p1-a1-q2 | 2019–2410 | *Utrum habeant principium initiale* (world-eternity) — **next** |
+| d1-p1-a2-q1 | 2420–2605 | |
+| d1-p1-a2-q2 | 2606–2776 | |
+| d1-p1-a3-q1 | 2785–2974 | |
+| d1-p1-a3-q2 | 2975–3182 | |
+| d1-p1-dubia | 3183–3329 | DUB. I–V |
+| d1-p2-divisio | 3330–3378 | p2 commentary intro |
+| d1-p2-a1-q1 … d1-p2-a3-q2 | 3382–4188 | 6 quaestiones |
+| d1-p2-dubia | 4189–4263 | |
+
+12 quaestiones + 2 dubia + 1 divisio remaining in d.1 ⇒ ~13 more sessions to finish d.1 alone.
+
+## Polish-blocker (after d.10 ships)
+
+1. `[?]` flag resolution — last 10 distinctions only (Vol II d.1–d.10 since this is Vol II's first decade).
+2. Style/formatting audit — full corpus (Vol I + Vol II).
+3. Resolution log at `manual-review/II-d1-d10-polish-resolution-log.md` (note `II-` prefix to distinguish from Vol I's d.1–d.10 log).
+
+## Tools cheat sheet
 
 ```bash
-# Audit gates (after edits)
-python3.11 tools/audit-paraphrase.py --min-d N --max-d N
-python3.11 tools/audit-headers.py --min-d N --max-d N
-python3.11 tools/audit-apparatus-count.py --min-d N --max-d N
+# Inspect raw chunk range
+awk 'NR>={start} && NR<={end}' raw/bonaventure_vol2_raw.txt
 
-# Build smoke
+# Vol II offset: pdf_page = printed + 22
+python3.11 tools/extract-pages.py --volume vol2 --pages {printed_pages}
+
+# Chunker warnings
+python3.11 tools/auto-chunk-volume.py 2 --dry-run 2>&1 | awk '/WARNINGS/,/Chunk list/'
+
+# Smoke build
 cd site && node scripts/build-content.mjs
 ```
 
-pt2 offset: `pdf_page = printed − 410`.
+Vol II offsets: see CLAUDE.md table (`pdf = printed + 22`). No deploy until meaningful Vol II Tier-2 work to show.
