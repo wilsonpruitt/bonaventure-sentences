@@ -257,6 +257,11 @@ def dedupe_markers(markers: list[Marker], lines: list[str]) -> list[Marker]:
     return result
 
 
+# Module-level accumulator for emit-time warnings surfaced from dedup / boundary
+# inspection. Cleared at the start of each main() run; printed in the summary.
+_WARNINGS: list[tuple[str, str, str]] = []
+
+
 def find_distinctio_ranges(markers: list[Marker], total_lines: int) -> list[tuple[int, int, int]]:
     """Return (distinctio_num, start_line, end_line) for each distinction."""
     dist_markers = [m for m in markers if m.kind == "distinctio"]
@@ -281,6 +286,11 @@ def find_distinctio_ranges(markers: list[Marker], total_lines: int) -> list[tupl
                 idx = unique.index(prev)
                 unique[idx] = m
                 seen[m.num] = m
+                _WARNINGS.append((
+                    f"d.{m.num}",
+                    "dedup-running-head",
+                    f"dropped L{prev.line} in favor of L{m.line} (Δ {m.line - prev.line} lines) — verify the later occurrence is the real section break",
+                ))
             # else: far-apart duplicate (body reference / index) — keep first.
 
     ranges = []
@@ -289,6 +299,68 @@ def find_distinctio_ranges(markers: list[Marker], total_lines: int) -> list[tupl
         end = unique[i + 1].line - 1 if i + 1 < len(unique) else total_lines
         ranges.append((m.num, start, end))
     return ranges
+
+
+# Patterns used by audit_chunk_boundaries (defined at module scope so they
+# compile once and are visible from main()).
+RE_APPARATUS_LINE = re.compile(
+    # Quaracchi footer notes typically start with a small numeral or
+    # OCR-mangled marker (a punctuation glyph standing for the numeral)
+    # indented from the left margin, followed by a capital-led word.
+    # Catches: `1 Cfr.`, `' Cfr.`, `- Vnt.`, `^ Cod.`, `* Sola`, `'^2 Vat.`,
+    # and similar. Required: ≥3 spaces indent + 1-3 marker chars (digit or
+    # punctuation) + whitespace + capital letter + lower-case letter.
+    r"^[ \t]{3,}[\d'`^*°\-]{1,3}\s+[A-Z][a-zA-Z]",
+    re.MULTILINE,
+)
+RE_RUNHEAD_PAGE = re.compile(
+    # `DIST. N. P. M.` running heads (and OCR variants like `DIST. 1. P. i.`).
+    # Used to flag chunk boundaries that begin with a page running head
+    # rather than real body content.
+    r"^[ \t\f]*DIST\.?\s*[IVXLCUivxlcu0-9]+\.?\s*P\.?\s*[IVXLCUivxlcu0-9ij]+\.",
+    re.MULTILINE,
+)
+
+
+def audit_chunk_boundaries(all_chunks: list["Chunk"], lines: list[str]) -> None:
+    """Emit warnings for chunk-head patterns that suggest a likely boundary
+    misalignment a human reviewer should verify before Tier-2 promotion:
+
+    1. **apparatus-at-head**: chunk's first ~25 lines contain ≥3 Quaracchi
+       footer-style numbered notes. Usually means the preceding chunk's page
+       footer landed in this chunk's range — verify which notes anchor where
+       (the page-13 footer that spans Lombard's littera + Bonaventure's
+       commentary is the canonical example).
+
+    2. **runhead-at-head**: chunk's first ~10 lines contain a `DIST. N. P. M.`
+       running head. Body content typically starts a few lines after a running
+       head — line_start may be off by ~5-15 lines.
+    """
+    for c in all_chunks:
+        # Scan a wider head window (50 lines) — page-13 style footers can sit
+        # 10-15 lines into a chunk that starts with a brief commentary intro.
+        head_end = min(c.start + 49, c.end)
+        head = "\n".join(lines[c.start - 1:head_end])
+        ap_count = len(RE_APPARATUS_LINE.findall(head))
+        # Threshold tuning notes: 3+ hits surfaces ~250 warnings on vol2 (most
+        # are real but systemic — virtually every quaestio chunk inherits a tail
+        # of the previous page's footer). 5+ catches the egregious cases (a
+        # full page footer block sitting inside the chunk head) while keeping
+        # signal-to-noise readable. Lower to 3 only for forensic boundary
+        # work on a single distinction; default 5 for corpus dry-runs.
+        if ap_count >= 5:
+            _WARNINGS.append((
+                c.chunk_id,
+                "apparatus-at-head",
+                f"first 50 lines have {ap_count} footer-style numbered notes — verify ownership; some may belong to preceding chunk",
+            ))
+        head_first10 = "\n".join(lines[c.start - 1:min(c.start + 9, c.end)])
+        if RE_RUNHEAD_PAGE.search(head_first10):
+            _WARNINGS.append((
+                c.chunk_id,
+                "runhead-at-head",
+                f"first 10 lines contain a page running head (`DIST. N. P. M.`) — line_start may be off by 5-15 lines",
+            ))
 
 
 def find_pars_split_line(text: str, start: int, end: int) -> int | None:
@@ -505,6 +577,7 @@ def main():
         print(f"ERROR: {raw_path} missing or empty. Run fetch-volume.py first.", file=sys.stderr)
         sys.exit(1)
 
+    _WARNINGS.clear()  # fresh accumulator for this run
     text = raw_path.read_text(errors="replace")
     lines = text.split("\n")  # must match line-num counting in find_markers (text[:m.start()].count("\n") + 1)
     total_lines = len(lines)
@@ -545,6 +618,23 @@ def main():
     print(f"  quaestio: {sum(1 for c in all_chunks if c.kind == 'quaestio')}")
     print(f"  dubia: {sum(1 for c in all_chunks if c.kind == 'dubia')}")
     print(f"  commentary: {sum(1 for c in all_chunks if c.kind == 'commentary')}")
+
+    audit_chunk_boundaries(all_chunks, lines)
+    if _WARNINGS:
+        # Group by category so review is easier
+        by_kind: dict[str, list[tuple[str, str]]] = {}
+        for chunk_id, kind, msg in _WARNINGS:
+            by_kind.setdefault(kind, []).append((chunk_id, msg))
+        print(f"\n--- WARNINGS ({len(_WARNINGS)} total) ---")
+        kind_labels = {
+            "dedup-running-head": "Running-head duplicates (dedup picked the later occurrence)",
+            "apparatus-at-head": "Apparatus at chunk head (likely spans preceding chunk's page footer)",
+            "runhead-at-head": "Page running head at chunk head (line_start may be off)",
+        }
+        for kind, entries in by_kind.items():
+            print(f"\n  [{kind_labels.get(kind, kind)}] — {len(entries)} chunk(s):")
+            for chunk_id, msg in entries:
+                print(f"    {chunk_id}: {msg}")
 
     if args.dry_run:
         print("\n--- Chunk list (dry run) ---")

@@ -1,17 +1,18 @@
 ---
-id: "bon-sent-II-d1-p1-divisio-dup2"
+id: "bon-sent-II-d1-p2-divisio"
 volume: 2
 book: 2
 distinctio: 1
+pars: 2
 type: divisio
 line_start: 3330
 line_end: 3378
 word_count_latin: 710
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13 (relabeled from p1-divisio-dup2 — pars boundary corrected)"
 format_version: 1
 ---
 
-# bon-sent-II-d1-p1-divisio-dup2
+# bon-sent-II-d1-p2-divisio
 
 ## Latin
 
