@@ -1,125 +1,87 @@
-# Next session — d.1-d.10 polish (PDF eyes-on)
+# Next session — d.45 + d.46 Tier-2 promotion
 
-Created 2026-05-10 at the close of the 16-wave d.1-d.10 rechunk pipeline.
-All 79 cohort chunks force-rebuilt from raw OCR. Deployed to
-https://bonaventure.wrootpress.com same day.
+Updated 2026-05-13 at close of d.43+d.44 session.
 
-## Status at handoff
+## Where we are
 
-- 0 cohort flags remaining (verify: `grep -l "Wave 9b residual" vol1/*.md | wc -l` → 0)
-- Last commit: `437b6f5` (Wave 16 FINAL)
-- Build: 414 chunks / 350 translated
-- d.1 through d.40 are now all Tier-2
+- d.1 through d.44 are Tier-2 (411 questions / 379 translated as of 2026-05-13 build).
+- Today (session 2, 2026-05-13): promoted 15 d.43+d.44 chunks (7 + 8) in 6 parallel-agent waves under the d.41/d.42 cadence. Mechanical pre-flight cleared two vestigial p2-dubia chunks (d.43 + d.44) and created one gap-fill scaffold (`d44-a2-q1`, ART. II QUAEST. UNIC. the auto-chunker had dropped). Final audits: 0 critical, 0 high, 0 apparatus flags.
+- Polish blocker for d.41-d.50 still pending at d.50 (per CLAUDE.md cadence — runs after d.50 ships, not before).
 
-## What's left — three buckets
+## What's next — d.45 + d.46
 
-### Bucket 1 — PDF eyes-on resolution for ~250 [?] flags + 9 OCR-band dropouts
+Same cadence and dispatch pattern. Reference logs:
+- `manual-review/d41-d50-polish-resolution-log.md` (session 1 d.41+d.42 + session 2 d.43+d.44; ~395 lines).
+- d43-divisio + d44-divisio for non-pars distinction frontmatter pattern (no `pars:` field).
 
-The 16-wave rebuild surfaced ambiguities the agents could not resolve
-from IA djvu OCR alone. These need 600dpi PDF reads.
+### Pre-flight grep (do this first before dispatching agents)
 
-**OCR-band dropouts (entire footer block missing from IA djvu OCR
-for that page)** — high priority:
+```
+awk 'NR>=37122 && NR<=GUESS_END && /DISTINCTIO|DIST\.|ARTICULUS|ART\.|QUAESTIO|QUAEST\.|DUB|DIVISIO|PARS|SCHOLION|COMMENTARIUS/ {print NR": "$0}' raw/bonaventure_vol1_pt2_raw.txt
+```
 
-| Chunk | Page | Status |
-|---|---|---|
-| d1-a3-q2 | p.42 | 3 [?] body markers, no footer |
-| d2-a1-q2 | p.54 | Agent already recovered 7 entries from PDF in Wave 4 |
-| d3-littera | p.66 | 3 [?] body markers, no footer |
-| d3-p2-a1-q2 | p.84 | Agent already recovered 3 entries from PDF in Wave 14 |
-| d5-a2-q2 | p.118 | 6 [?] body markers, no footer |
-| d6-a1-q3 | p.130 | 7 [?] body markers, no footer |
-| d7-divisio | p.134 | ~10 unanchored footer entries |
-| d8-p2-a1-q4 | p.174 | OCR p.174 footer block elided; marker `⁵` preserved with [?] |
-| d10-littera | p.193 | 11 [?] on p.193 tail (heavy scan damage) |
+DISTINCTIO XLV begins at raw line **37122**. Use that as `line_start` for d.45-littera. End bound: search for `DISTINCTIO XLVI.` (run grep with broader range).
 
-**Process** for each:
-1. Extract at 600dpi: `python3.11 tools/extract-pages.py --volume vol1 --pages N --dpi 600`
-2. Read the footer band visually and reconcile with the chunk's apparatus
-3. Either fill the `[?]` flags in apparatus or replace them with the real
-   footer entries (matching body marker positions)
+### Expected patterns (same five as before)
 
-**Remaining ~250 [?] flags** are mostly small (single-word OCR garbles,
-ambiguous codex sigla, truncated lemmas). Spot-check by chunk via the
-per-chunk ambiguities logs at `manual-review/tier2-ambiguities-d{N}-*.md`.
+1. Spurious `p1`/`p2` rename targets (only if neither distinction has a real *Pars Prima/Secunda*, which is the case for d.41–d.44; verify d.45/d.46 with grep for "PARS").
+2. Vestigial chunks (typically `p2-dubia` at running-head boundary).
+3. line_end truncations cutting off closing scholia or final dubia.
+4. Possible gap-fill chunks the auto-chunker missed entirely (look for ARTICULUS / QUAESTIO / DUBIA headers that don't have a corresponding file).
+5. line_end overshoots into next distinction.
 
-### Bucket 2 — Convention cleanups (low priority)
+### Dispatch cadence
 
-Renumbering / consolidation cleanups noted during rebuild:
+1. Solo dry-run on one divisio chunk first to validate any new patterns.
+2. Parallel sub-waves of 2-3 agents at the 8 GB RAM cap.
+3. Agent prompts MUST include:
+   - "**KEEP EMITTING PROGRESS OUTPUT**" + cap of 60 seconds per garbled-word investigation (avoids the 600s watchdog stalls that killed two wave-4 agents this session before redispatch).
+   - 400 dpi PNGs for header verification, not 600 (faster).
+   - Raw OCR is the canonical Latin source; PNGs are for header confirmation + flag resolution only.
+   - Don't bleed into neighbor chunks; report scope findings rather than acting.
 
-- **sub-key markers** to remove (replace with sequential integer keys):
-  - `d4-dubia` — uses `[^1b]`, `[^p106-N]`, `[^p107-N]` (33 entries total)
-  - `d4-a1-q2` — uses `[^4b]`, `[^6b]`
-- **entry-merging to expand** (the strict convention is 1:1 with raw OCR
-  footer notes, not consolidated by shared body anchor):
-  - `d6-littera` — 11 entries consolidated from 19 raw footer notes
-  - `d3-divisio` — main-footer + NOTAE merged by shared anchor
-- **marker reposition**:
-  - `d7-littera` — `[^17]`/`[^18]`/`[^19]` positions appear scrambled
-    (apparatus content suggests [^17] → *scilicet*, [^18] → *qua possit
-    esse Filius*, [^19] → *esse* within that phrase). Currently [^17]
-    sits where [^18]/[^19] belong.
+## d.41-d.50 polish-blocker (deferred until d.50 ships)
 
-Parser tolerates all these — chunks render and parse cleanly. These
-are correctness/consistency cleanups, not blockers.
+Per CLAUDE.md "Polish-blocker cadence (every 10 distinctions)": runs after d.50 ships, not before. Carry list (so far):
 
-### Bucket 3 — Body-paraphrase backlog (separate initiative)
+- 23 `[?]` flags across d.43+d.44 chunks (most in d44-a1-q3 = 6, d43-littera = 5, d43-a1-q1 = 5, d44-a1-q2 = 3). All catalogued per-chunk in `manual-review/d41-d50-polish-resolution-log.md`. PDF eyes-on at 600+ dpi will resolve most.
+- `d43-divisio` `[^1]` may be mis-anchored on `reperitur` (true anchor likely on `multa` in d43-littera body, line 34122) — re-investigate.
+- `d44-a1-q1` apparatus undercount: raw=27, chunk=12 (most p.783 footers correctly excluded as belonging to q2; verify a few p.782 footers aren't missing).
+- `d44-a1-q2` 3 `[?]` flags on p.785 — Q.II + Q.III footers folded in raw OCR; needs 600 dpi eyes-on.
 
-7 chunks already demoted to `apparatus-incomplete + body-paraphrased`
-during the verify-each campaign before the pivot. Their body Latin is
-paraphrased, not verbatim from OCR — needs full body rebuild:
+## Pre-existing carry-over (from session 1 close 2026-05-12)
 
-- d2-a1-q4, d4-a1-q4, d5-a1-q1, d5-a2-q1, d7-a1-q2, d7-a1-q3, d7-a1-q4
+- ~140 `[?]` flags in d.41+d.42 chunks were resolved this session via the pre-existing log entries. Polish pass at d.50 will sweep the remaining ~23 d.43+d.44 flags listed above.
+- `d41-d50-polish-resolution-log.md` is the canonical per-chunk record; ~395 lines after today's append.
 
-These weren't part of the rechunk pipeline cohort (already flagged
-differently). Process: same per-chunk recipe from CLAUDE.md, but the
-trigger is body length < ~70% of raw OCR per-page line counts. Build
-the audit tool (Lesson 11 followup) before starting, or just rebuild
-all 7 directly.
+## Build state at handoff
 
-## How to start the next session
+- `cd site && node scripts/build-content.mjs` → `Built content.json: 1 book(s), 411 questions, 379 translated`.
+- No commits this session. All 15 d.43+d.44 chunks ready to commit as one unit; pre-existing skeletons in d.45+ untouched.
+- Keep around per project convention: `_backup-d43-p2-dubia-vestigial-20260513/`, `_backup-d44-p2-dubia-vestigial-20260513/`, plus the per-chunk pre-promote backups the agents wrote.
 
-1. Read this file. Pick a bucket.
-2. **For PDF eyes-on (Bucket 1)**: tackle 1-2 OCR-band dropouts per
-   session. They are small surface area but require visual PDF reading.
-3. **For convention cleanups (Bucket 2)**: 1-session bulk job. Could
-   be dispatched as a single agent per chunk.
-4. **For body-paraphrase (Bucket 3)**: 7 chunks via parallel agents,
-   same cadence as the rechunk pipeline. Estimate 1-2 waves.
-
-## What NOT to do
-
-- ❌ Don't re-verify or re-rebuild the 79 cohort chunks unless something
-  specific surfaces a regression. The pipeline closed clean.
-- ❌ Don't trust IA djvu OCR for the pages in Bucket 1's dropout list.
-  PDF is authoritative for those specific pages.
-- ❌ Don't expand entry-merging or sub-keys further in new chunks. The
-  convention is sequential integer keys, one entry per raw OCR footer
-  note.
-
-## d.41+ is unblocked
-
-After polish completes (or in parallel), d.41+ chunking + Tier-2
-promotion can resume. d.40 closed the polish cadence; the next polish-
-blocker is d.50.
-
-## Confirm starting state next session
+## Tools cheat sheet
 
 ```bash
-cd /Users/wilsonpruitt/bonaventure-sentences
-git log --oneline -5
-# expect:
-#   437b6f5 d.1-d.10 rechunk pipeline Wave 16 (FINAL): d.8 pars II + d.8 p1-dubia
-#   a9fdaf4 d.1-d.10 rechunk pipeline Wave 15: d.8 pars I + littera
-#   38437a5 d.1-d.10 rechunk pipeline Wave 14: d.3 pars II finish
-#   0477181 d.1-d.10 rechunk pipeline Wave 13: d.3 pars I + p2-a1-q1
-#   a111dbb d.1-d.10 rechunk pipeline Wave 12: d.1 finish + d.3 scaffolds
+# Pre-flight structural grep
+awk 'NR>=START && NR<=END && /DISTINCTIO|DIST\.|ARTICULUS|ART\.|QUAESTIO|QUAEST\.|DUB|DIVISIO|PARS|SCHOLION|COMMENTARIUS/ {print NR": "$0}' raw/bonaventure_vol1_pt2_raw.txt
 
-git status  # clean
+# 400dpi PNG header verification
+pdftoppm -r 400 -f PDF_START -l PDF_END -png raw/doctorisseraphic12bona.pdf raw/vision/vol1/d45XX-r400
 
-grep -l "Wave 9b residual re-verification campaign" vol1/*.md | wc -l
-# expect: 0
+# Audit gates (after edits)
+python3.11 tools/audit-paraphrase.py --min-d 45 --max-d 46
+python3.11 tools/audit-headers.py --min-d 45 --max-d 46
+python3.11 tools/audit-apparatus-count.py --min-d 45 --max-d 46
 
-python3.11 tools/audit-paraphrase.py 2>&1 | tail -1
-# expect: critical: 0  high: 1 (pre-existing d11-divisio)
+# Build smoke
+cd site && node scripts/build-content.mjs
 ```
+
+**pt2 offset**: `pdf_page = printed - 410` (confirmed throughout d.41–d.44).
+
+---
+
+## (Archived) Prior next-session note — d.1-d.10 polish PDF eyes-on
+
+The previous content of this file (created 2026-05-10 at close of the d.1-d.10 rechunk pipeline) has been overwritten. d.1-d.10 polish-blocker pass was completed 2026-05-12 (Bonaventure session 1 wrap-up); see `manual-review/d1-d10-polish-resolution-log.md` for the per-flag resolution record. The 250-flag PDF-eyes-on backlog described in the prior note is now resolved or dispositioned.
