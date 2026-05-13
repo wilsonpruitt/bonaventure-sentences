@@ -88,9 +88,25 @@ VOLUMES: dict[str, VolumeConfig] = {
         pdf_offset=102,          # PDF page = printed page + 102
         printed_min=1,
         printed_max=632,
-        description="Opera Omnia, Tomus I — Commentarius in I Librum Sententiarum",
+        description="Opera Omnia, Tomus I pt 1 — Commentarius in I Librum Sententiarum (pp.1–~410)",
     ),
-    # Pending: vol1_part2, vol2, vol3, vol4 once the PDFs are downloaded.
+    "vol1-pt2": VolumeConfig(
+        name="vol1-pt2",
+        pdf_path=REPO_ROOT / "raw" / "doctorisseraphic12bona.pdf",
+        pdf_offset=-410,         # PDF page = printed page − 410
+        printed_min=411,
+        printed_max=872,
+        description="Opera Omnia, Tomus I pt 2 — Commentarius in I Librum Sententiarum (pp.~411–872)",
+    ),
+    "vol2": VolumeConfig(
+        name="vol2",
+        pdf_path=REPO_ROOT / "raw" / "doctorisseraphic02bona.pdf",
+        pdf_offset=22,           # PDF page = printed page + 22 (verified 2026-05-13)
+        printed_min=11,
+        printed_max=1030,
+        description="Opera Omnia, Tomus II — Commentarius in II Librum Sententiarum",
+    ),
+    # Pending: vol3, vol4 (PDFs local; offsets TBD on first use)
 }
 
 

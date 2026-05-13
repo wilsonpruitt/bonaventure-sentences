@@ -14,7 +14,10 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SITE_DIR = path.resolve(__dirname, "..");
 const REPO_ROOT = path.resolve(SITE_DIR, "..");
 
-const LATIN_DIR = path.join(REPO_ROOT, "vol1");
+// Scan all volume dirs; each dir's files declare their own `book:` in frontmatter.
+const VOL_DIRS = ["vol1", "vol2", "vol3", "vol4"]
+  .map((v) => path.join(REPO_ROOT, v))
+  .filter((p) => fs.existsSync(p));
 const TRANS_DIR = path.join(REPO_ROOT, "translations", "vol1");
 const OUT_FILE = path.join(SITE_DIR, "src", "data", "content.json");
 
@@ -139,11 +142,16 @@ const BOOK_TITLES = {
 };
 
 // Main
-const latinFiles = fs.readdirSync(LATIN_DIR).filter((f) => f.endsWith(".md"));
+const latinFiles = VOL_DIRS.flatMap((dir) =>
+  fs
+    .readdirSync(dir)
+    .filter((f) => f.endsWith(".md"))
+    .map((f) => ({ file: f, dir }))
+);
 const chunks = [];
 
-for (const file of latinFiles) {
-  const content = fs.readFileSync(path.join(LATIN_DIR, file), "utf-8");
+for (const { file, dir } of latinFiles) {
+  const content = fs.readFileSync(path.join(dir, file), "utf-8");
   const { meta, body } = parseFrontmatter(content);
   if (!meta.id) continue;
 

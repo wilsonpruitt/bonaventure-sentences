@@ -35,14 +35,20 @@ RE_DISTINCTIO = re.compile(
     # Tolerant of OCR substitutions in 'DISTINCTIO':
     #   DISTING(TIO)   — C→G (d.17 line 51999: 'DISTINGTIO XVII.')
     #   DiSTINCTIO     — case mangle (d.23 line 69303 running head)
-    # Roman numeral allows U-for-I substitution (XVIU=XVIII at d.18 line 56737).
-    r"^[ \t]*D[Ii]STIN[CG]TIO\S*\s+([IVXLCUivxlcu]+(?:\s*[IVXLCUivxlcu])*)\b",
+    #   DISTmCTIO      — IN→m ligature mangle (vol2 d.II line 4264: 'DISTmCTIO 11.')
+    # Roman numeral allows U-for-I substitution (XVIU=XVIII at d.18 line 56737)
+    # and digit substitution (vol2 d.II: '11.' = II).
+    # Leading whitespace must also accept \f (form feed) — pdftotext emits \f as
+    # the page-break sentinel at the start of a fresh page, and clean DISTINCTIO
+    # headers in vol2 frequently sit on the first line of a new page
+    # (vol2 d.17 line 28812, d.20 line 33403, d.34 line 55782).
+    r"^[ \t\f]*D[Ii]ST[Im]N?[CG]?TIO\S*\s+([IVXLCUivxlcu0-9]+(?:\s*[IVXLCUivxlcu0-9])*)\b",
     re.MULTILINE,
 )
 RE_COMMENTARIUS = re.compile(
     # C[O0]MMENT[AE][RE]?(IU|III)[S8] — covers COMMENTARIUS, C0MMENTARIU8, C0MMENTAEIU8,
     # COMMENTAEIUS, C0MMENTARIII8. Requires "IN D" suffix (the distinction ref).
-    r"^[ \t]*C[O0]MMENT[AE][REI]{1,3}[US8]{1,2}\s+(?:IN|m)\s+D",
+    r"^[ \t\f]*C[O0]MMENT[AE][REI]{1,3}[US8]{1,2}\s+(?:IN|m)\s+D",
     re.MULTILINE,
 )
 RE_DIVISIO = re.compile(
@@ -50,7 +56,7 @@ RE_DIVISIO = re.compile(
     # TE.XTUS / TEXTIIS (II→U) / TKXTUS (E→K, d.43 line 34161).
     # Anchored to line-start with anti-DIST lookahead so running heads like
     # 'DIST. XVII. P. 1. DIVISIO TEXTIIS.' (line 52600) don't false-positive.
-    r"^[ \t]*(?!DIST[.\s])(?:.*\b)?D[IL]V[ITJ]SIO\s+T[EK]\.?XT[UI]{1,3}[S8]",
+    r"^[ \t\f]*(?!DIST[.\s])(?:.*\b)?D[IL]V[ITJ]SIO\s+T[EK]\.?XT[UI]{1,3}[S8]",
     re.MULTILINE,
 )
 RE_QUAESTIO = re.compile(
@@ -63,7 +69,7 @@ RE_QUAESTIO = re.compile(
     #   gl!.\ESTIO   (d.17 p1-q3 — Q→gl, U→l!, line 53715)
     # Match strategy: alternation of (Q|O|gl)-led prefix + tolerant middle + STIO/STK)
     # ending. The roman/digit number after is captured as group(1).
-    r"^[ \t]*['`]?(?:"                                   # optional stray apostrophe (OCR noise, e.g. d.40 a4-q1 line 29733)
+    r"^[ \t\f]*['`]?(?:"                                   # optional stray apostrophe (OCR noise, e.g. d.40 a4-q1 line 29733)
         r"[QO][UIJij1lL][A^.flUVWFEIJij\\n]{0,6}"        # Q/O-led with tolerant middle (incl U from 'QIUESTIO', V from 'QU.VESTIO')
         r"(?:S[Tnr][I1li]?[O0]|STK\))"                    # ending: STIO clean; S[Tnr][I1li]?[O0] covers OCR T→n/r and dropped-I or lowercase-i variants; STK) for d.18 q5
         r"|gl[!.\\]+\\?ESTIO"                             # gl!.\ESTIO style
@@ -72,7 +78,7 @@ RE_QUAESTIO = re.compile(
 )
 RE_ARTICULUS = re.compile(
     # ARTI[CG]ULUS + roman / digit-garbled roman / UNICUS variants (UiNICUS, UNIGUS, UiNIGUS)
-    r"^[ \t]*ARTI[CGI]U[L1I]U[S8]\s+([IVXLC1]+|U[Ii]?N[IL]?[CG]U[S8])\b",
+    r"^[ \t\f]*ARTI[CGI]U[L1I]U[S8]\s+([IVXLC1]+|U[Ii]?N[IL]?[CG]U[S8])\b",
     re.MULTILINE,
 )
 RE_DUBIA = re.compile(
@@ -89,13 +95,21 @@ RE_DUBIA = re.compile(
     #       (`vni.` = OCR for VIII). They live inside a single dubia chunk and are
     #       not separately matched here, but if a future tool needs to enumerate
     #       sub-dubia for audit, account for these variants.
-    r"^[ \t]*(?!DIST[.\s])"
+    r"^[ \t\f]*(?!DIST[.\s])"
     r"(?:.*\bD[UHL][IH]?B[IL][A\\]\b|D[ruUlL][bB][.\s]+[I1L]\b[^IVX])",
     re.MULTILINE,
 )
 RE_PARS = re.compile(
-    r"^[ \t]*PARS\s+(I{1,3}|PRIMA|SECUNDA)\b",
+    r"^[ \t\f]*PARS\s+(I{1,3}|PRIMA|SECUNDA)\b",
     re.MULTILINE | re.IGNORECASE,
+)
+# Vol II has NO standalone `PARS PRIMA/SECUNDA` headings — pars info lives only
+# in running heads like `DIST. II. P. I. ART. I. QUAEST. I.` or `DIST. II. P. II. ...`.
+# This regex picks up running heads with the P. {I|II|1|2} component so we can
+# infer the P.I → P.II transition line within each distinction.
+RE_RUNHEAD_PARS = re.compile(
+    r"^[ \t\f]*DIST\.?\s*[IVXLCUivxlcu0-9]+\.?\s*P\.?\s*(I{1,3}|1|2|II)\.",
+    re.MULTILINE,
 )
 
 ROMAN = {
@@ -120,6 +134,9 @@ def parse_roman(s: str) -> int | None:
     s = s.replace("[", "1")
     if s in ("1", "11", "111"):
         return len(s)
+    # Vol II ALSO has 4-digit digit-mangle: "1111" = IV (rare; safeguard).
+    if s == "1111":
+        return 4
     # OCR ligature: small-caps "III." sometimes scanned as a single "m" glyph
     # (observed at d.23 a1-q3 line 70027: 'QIUESTIO m.'). Quaestio numbers in
     # the Sentences never exceed ~10, so M=1000 is never legitimate here.
@@ -274,6 +291,33 @@ def find_distinctio_ranges(markers: list[Marker], total_lines: int) -> list[tupl
     return ranges
 
 
+def find_pars_split_line(text: str, start: int, end: int) -> int | None:
+    """Inspect running heads inside a distinction range and return the first
+    line where P. II content begins, or None if the distinction is single-pars.
+
+    Vol II lacks standalone PARS PRIMA/SECUNDA headers — pars information
+    is only carried in running heads like `DIST. II. P. I. ART. I.` and
+    `DIST. II. P. II. ART. I.`. We find the first P.{II|2} running head; the
+    p1/p2 boundary lies just before it.
+    """
+    # Re-scan with line filter
+    region = "\n".join(text.split("\n")[start - 1:end])
+    p1_lines: list[int] = []
+    p2_lines: list[int] = []
+    for m in RE_RUNHEAD_PARS.finditer(region):
+        rel_line = region[:m.start()].count("\n")
+        abs_line = start + rel_line
+        pars_raw = m.group(1).upper()
+        if pars_raw in ("I", "1"):
+            p1_lines.append(abs_line)
+        elif pars_raw in ("II", "2"):
+            p2_lines.append(abs_line)
+    if not p2_lines or not p1_lines:
+        return None
+    # P.II split = first P.II running head
+    return min(p2_lines)
+
+
 def chunk_distinction(
     dist_num: int,
     start: int,
@@ -281,9 +325,24 @@ def chunk_distinction(
     markers: list[Marker],
     vol: int,
     book: int,
+    text: str | None = None,
 ) -> list[Chunk]:
     """Split a distinction range into chunks based on sub-markers."""
     sub = [m for m in markers if start <= m.line <= end and m.kind != "distinctio"]
+
+    # Detect pars split (vol II uses running-head pars; vol I uses explicit PARS markers).
+    pars_split = find_pars_split_line(text, start, end) if text else None
+
+    def pars_for_line(line: int) -> int | None:
+        if pars_split is None:
+            return None
+        return 1 if line < pars_split else 2
+
+    def labeled_prefix(line: int) -> str:
+        p = pars_for_line(line)
+        if p is None:
+            return f"bon-sent-{roman_vol(vol)}-d{dist_num}"
+        return f"bon-sent-{roman_vol(vol)}-d{dist_num}-p{p}"
 
     prefix = f"bon-sent-{roman_vol(vol)}-d{dist_num}"
     chunks = []
@@ -298,12 +357,14 @@ def chunk_distinction(
     # If there's a commentarius, everything before it is littera
     littera_end = commentarius_lines[0] - 1 if commentarius_lines else None
     if littera_end and littera_end > start + 5:
-        chunks.append(Chunk(f"{prefix}-littera", start, littera_end, "littera", dist_num))
+        lp = labeled_prefix(start)
+        chunks.append(Chunk(f"{lp}-littera", start, littera_end, "littera", dist_num, pars=pars_for_line(start)))
 
     # If no quaestio markers at all, treat entire commentary as one chunk
     if not quaestio_markers:
         comm_start = commentarius_lines[0] if commentarius_lines else start
-        chunks.append(Chunk(f"{prefix}-commentary", comm_start, end, "commentary", dist_num))
+        lp = labeled_prefix(comm_start)
+        chunks.append(Chunk(f"{lp}-commentary", comm_start, end, "commentary", dist_num, pars=pars_for_line(comm_start)))
         return chunks
 
     # Build quaestio chunks: each quaestio runs until the next quaestio or dubia or end
@@ -330,31 +391,40 @@ def chunk_distinction(
 
     # Walk boundaries and create chunks
     cur_art = 1
+    cur_pars: int | None = pars_for_line(start)
     divisio_start = None
     i = 0
     while i < len(boundaries):
         line, kind, num = boundaries[i]
         next_line = boundaries[i + 1][0] if i + 1 < len(boundaries) else end + 1
 
+        # Reset articulus counter when crossing the pars boundary
+        new_pars = pars_for_line(line)
+        if new_pars != cur_pars:
+            cur_pars = new_pars
+            cur_art = 1
+
+        lp = labeled_prefix(line)
+
         if kind == "commentarius":
             # Commentarius intro — might include divisio
             pass
         elif kind == "divisio":
             # Divisio textus — runs until next articulus or quaestio
-            chunks.append(Chunk(f"{prefix}-divisio", line, next_line - 1, "divisio", dist_num))
+            chunks.append(Chunk(f"{lp}-divisio", line, next_line - 1, "divisio", dist_num, pars=cur_pars))
         elif kind == "articulus":
             cur_art = num or cur_art
         elif kind == "quaestio":
             q_end = next_line - 1
-            chunk_id = f"{prefix}-a{cur_art}-q{num}"
+            chunk_id = f"{lp}-a{cur_art}-q{num}"
             chunks.append(Chunk(
                 chunk_id, line, q_end, "quaestio", dist_num,
-                articulus=cur_art, quaestio=num,
+                pars=cur_pars, articulus=cur_art, quaestio=num,
             ))
         elif kind == "dubia":
             # End at the next section boundary (not end-of-distinction) so multi-pars
             # distinctions don't have the dubia swallow the next pars.
-            chunks.append(Chunk(f"{prefix}-dubia", line, next_line - 1, "dubia", dist_num))
+            chunks.append(Chunk(f"{lp}-dubia", line, next_line - 1, "dubia", dist_num, pars=cur_pars))
         i += 1
 
     return chunks
@@ -454,7 +524,7 @@ def main():
 
     all_chunks = []
     for dist_num, d_start, d_end in dist_ranges:
-        chunks = chunk_distinction(dist_num, d_start, d_end, markers, vol, book_for_vol(vol))
+        chunks = chunk_distinction(dist_num, d_start, d_end, markers, vol, book_for_vol(vol), text=text)
         all_chunks.extend(chunks)
 
     id_seen: dict[str, int] = {}

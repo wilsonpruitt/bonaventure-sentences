@@ -309,6 +309,32 @@ npx vercel deploy --prod --prebuilt --archive=tgz
 
 ## Source references
 
-- **Quaracchi 1882 Vol. I**: `doctorisseraphic11bona.pdf` in `raw/` (gitignored). PDF page = printed page + 102 for Vol. I pt. 1.
-- **Internet Archive**: `doctorisseraphic{VOL}{PART}bona` — Vol I pt 1 is local; other volumes need download.
-- **Lombard's Sentences** (for littera chapters): same PDF; Lombard text is printed at the top of each distinction's opening pages.
+### Volume offsets (PDF ↔ printed page)
+
+| Volume | PDF filename | Raw OCR | Offset | Body range (printed) | Distinctions |
+|---|---|---|---|---|---|
+| I pt 1 | `doctorisseraphic11bona.pdf` | `bonaventure_vol1_raw.txt` | `pdf = printed + 102` | 1–~410 | d.1–d.~25 |
+| I pt 2 | `doctorisseraphic12bona.pdf` | `bonaventure_vol1_pt2_raw.txt` | `pdf = printed − 410` | ~411–872 | d.~25–d.48 |
+| II | `doctorisseraphic02bona.pdf` (1056pp) | `bonaventure_vol2_raw.txt` | `pdf = printed + 22` | 11–~903 | d.1–d.44 |
+| III | `doctorisseraphic03bona.pdf` | `bonaventure_vol3_raw.txt` | TBD | TBD | TBD |
+| IV | `doctorisseraphic04bona.pdf` | `bonaventure_vol4_raw.txt` | TBD | TBD | TBD |
+
+**Vol II structure notes** (verified 2026-05-13):
+- Single Tomus II — no pt1/pt2 split (unlike Vol I). One PDF, one raw file, one offset.
+- 44 distinctions confirmed via DISTINCTIO header scan. **`DISTINCTIO II.` is OCR-garbled** as `DISTmCTIO 11.` (IN→m ligature, II→11 digit-mangle); auto-chunker regex updated 2026-05-13 to tolerate.
+- **Page breaks** in pdftotext output use `\f` (form feed) as the page-start sentinel, sitting immediately before a clean `DISTINCTIO XVII.` etc. The chunker's leading-whitespace class was extended from `[ \t]*` to `[ \t\f]*` to handle this.
+- **No standalone `PARS PRIMA/SECUNDA` headers** — pars info lives ONLY in running heads like `DIST. II. P. I. ART. I.` and `DIST. II. P. II. ART. I.`. The chunker now infers pars splits from running-head transitions and labels chunks `bon-sent-II-d{N}-p{1|2}-...`.
+- Chunk id convention: `bon-sent-II-d{N}-...` (verified end-to-end 2026-05-13: build script reads `vol2/`, `book: 2` chunks group under "Book II: On the Creation of Things").
+- Same Tier-2 guardrails as Vol I: literal not paraphrase, full apparatus from raw OCR footers, 3 audit scripts before commit, polish-blocker every 10 distinctions.
+
+**Phase 1 status (tooling, 2026-05-13)**:
+- ✓ `tools/auto-chunk-volume.py` — vol2 supported (44/44 distinctions, pars-aware, 61 residual dup-IDs for per-distinction rechunk review).
+- ✓ `tools/extract-pages.py` — vol2 entry added (offset +22, printed range 11–1030).
+- ✓ `site/scripts/build-content.mjs` — now scans vol1/vol2/vol3/vol4 dirs (each chunk declares its own `book:`).
+- ⚠ `site/src/app/page.tsx:47,57` — landing copy still hardcoded "Volume I". Update in Phase 4 once vol2 has real chunks.
+- ⚠ `tools/audit-{paraphrase,headers,apparatus-count}.py` — still vol1-only (`bon-sent-I-` glob, pt1/pt2 slicer). Defer extension to Phase 2 when actual vol2 chunks exist to audit; until then, vol2 has nothing to guard.
+
+### Other
+
+- **Internet Archive**: `doctorisseraphic{VOL}{PART}bona` — Vols I–IV all local; V–X need download.
+- **Lombard's Sentences** (for littera chapters): same PDF as the body; Lombard text is printed at the top of each distinction's opening pages.
