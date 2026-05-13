@@ -221,20 +221,28 @@ function renderBody(body: string, className: string, pageMode: PageMode) {
       return;
     }
 
-    const headingLead = trimmed.match(/^(####|###)\s+([^\n]+)(?:\n([\s\S]*))?$/);
-    if (headingLead) {
-      const [, hashes, headingText, rest] = headingLead;
-      const Tag = hashes === "####" ? "h4" : "h3";
-      const cls = hashes === "####" ? "reader-h4" : "reader-h3";
-      nodes.push(
-        <Tag key={`h-${i}`} className={cls}>
-          {renderInline(headingText, pageMode)}
-        </Tag>
-      );
-      if (rest && rest.trim()) {
+    const headingRe = /^(####|###)\s+([^\n]+)(?:\n([\s\S]*))?$/;
+    if (headingRe.test(trimmed)) {
+      let remainder: string = trimmed;
+      let headingIdx = 0;
+      while (remainder.length > 0) {
+        const m: RegExpMatchArray | null = remainder.match(headingRe);
+        if (!m) break;
+        const [, hashes, headingText, rest] = m;
+        const Tag = hashes === "####" ? "h4" : "h3";
+        const cls = hashes === "####" ? "reader-h4" : "reader-h3";
+        nodes.push(
+          <Tag key={`h-${i}-${headingIdx}`} className={cls}>
+            {renderInline(headingText, pageMode)}
+          </Tag>
+        );
+        headingIdx += 1;
+        remainder = rest?.trim() ?? "";
+      }
+      if (remainder.length > 0) {
         nodes.push(
           <p key={`h-${i}-rest`} className={className} style={{ marginBottom: "1rem" }}>
-            {renderInline(rest.trim(), pageMode)}
+            {renderInline(remainder, pageMode)}
           </p>
         );
       }
