@@ -15,7 +15,7 @@ has_apparatus: true
 line_start: 30649
 line_end: 30722
 word_count_latin: 417
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 30649–30722 of pt2), fresh literal English translation, full apparatus from raw OCR (1 entry; footer note 2 on p.727 anchors in d41-littera body, not here), [?] flags on ambiguous spots (2026-05-12)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 30649–30722 of pt2), fresh literal English translation, full apparatus from raw OCR (1 entry; footer note 2 on p.727 anchors in d41-littera body, not here); 0 [?] flags remaining (2026-05-13)"
 format_version: 1
 ---
 
@@ -95,9 +95,9 @@ Second, whether they have in God a motive ground.
 
 ## Apparatus
 
-[^1]: **La.** Vat. et aliae edd., excepta I, *dici possunt,* contra [refragantibus[?]] codd., quorum tamen codd. A B D *possunt* pro *possent*. — De parte falsa, cfr. Comment. hic a. 2. q. 2. — De eadem re loquitur Magister etiam infra d. XLIV. c. 2.
+[^1]: **La.** Vat. et aliae edd., excepta I, *dici possunt,* contradicentibus codd., quorum tamen codd. A B D *possunt* pro *possent*. — De parte falsa, cfr. Comment. hic a. 2. q. 2. — De eadem re loquitur Magister etiam infra d. XLIV. c. 2.
 
-     **En.** The Vatican edition and the other editions, except [edition] I, [read] *"dici possunt"* ("they can be said"), against [the testimony of[?]] the codices, of which however codices A, B, D have *possunt* in place of *possent.* — On the false [part], cf. the Commentary here, art. 2, q. 2. — The Master speaks of the same matter also below at d. XLIV, c. 2.
+     **En.** The Vatican edition and the other editions, except [edition] I, [read] *"dici possunt"* ("they can be said"), with the codices contradicting [them], of which however codices A, B, D have *possunt* in place of *possent.* — On the false [part], cf. the Commentary here, art. 2, q. 2. — The Master speaks of the same matter also below at d. XLIV, c. 2.
 
 ---
 

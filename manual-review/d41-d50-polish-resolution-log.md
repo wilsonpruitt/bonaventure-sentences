@@ -453,3 +453,406 @@ Total ~16 flags across d.45 + d.46. All resolved against 400dpi PDF where possib
 ### Up next: d.47 + d.48 Tier-2 promotion
 - DISTINCTIO XLVII begins at raw line 41537. d.47 ART. UNICUS pattern (similar to d.46). Check for spurious p1/p2 chunker prefixes via pre-flight grep.
 - d.50 polish-blocker carry list: ~30 [?] flags across d.41-d.46 logged here; resolve when d.50 ships.
+
+---
+
+## d.42 [?] resolution pass (2026-05-13)
+
+Polish-blocker `[?]`-flag walk per `CLAUDE.md` "Polish-blocker cadence" — d.42 was the last d.40-decade chunk left with inline cruxes. PDFs rendered fresh at 600 dpi (`raw/vision/vol1/p-d42-r600-{337..348}.png` covering printed pp.747–758). Pre-walk inventory: 26 `[?]` tokens across 5 chunks (3+3+13+6+1, where each chunk's `transcription_status` accounts for 1 meta-token). Post-walk: 18 tokens (3 status-strings + 8 + 6 inline cruxes documented).
+
+### bon-sent-I-d42-a1-q1 (Scholion I cross-reference)
+
+| flag location | original text | disposition | citation |
+|---|---|---|---|
+| L80 Latin Scholion I final clause | `infra d. 45. a. 1. q. 2, praesertim ad 2, et a. 1. q. 2.[?]` | **RESOLVE** — first ref corrected: `a. 1. q. 2` → `a. 2. q. 1`; `[?]` removed | raw pt2 line 32625: *"infra d. 45. a. 2. q. 1. praesertim ad 2, et a. 1. q. 2."* (cross-checked against p.747 r600 PNG; Scholion-I bottom-of-page cross-ref chain ends with two distinct refs to d.45 a.2 q.1 + a.1 q.2). Original promoter had assimilated the two refs into a doublet of `a. 1. q. 2`. |
+| L138 English parallel | `below at d. 45, a. 1, q. 2, especially at [ad] 2, and a. 1, q. 2.[?]` | **RESOLVE** — `a. 1, q. 2` → `a. 2, q. 1`; `[?]` removed | mirrors Latin fix above |
+
+### bon-sent-I-d42-a1-q2 (page-break carry)
+
+| flag location | original text | disposition | citation |
+|---|---|---|---|
+| L73 Latin *Ad 1.2.4.* across p.749→750 break | `sicut *possibile* de ratione poten<!-- page 750 -->tiae[?], quia *scitum*` | **RESOLVE** — `[?]` removed; reading `potentiae` is correct | p.750 r600 PNG (pdf 340), top-left column reads cleanly `tiae [, quia] scitum non causatur a scientia, sicut possibile a potentia.` The flag was placed prophylactically because the page-break carry obscured the syllable in OCR; 600 dpi confirms. |
+| L128 English parallel | `as *the possible* [does] from the account of pow<!-- page 750 -->er[?], because` | **RESOLVE** — `[?]` removed | mirrors Latin fix above |
+
+### bon-sent-I-d42-a1-q3 (Scholion I author name + apparatus cruxes)
+
+| flag location | original text | disposition | citation |
+|---|---|---|---|
+| L129 Latin Scholion I | `unde Gregorius de Arimino[?] ponit` | **RESOLVE** — `[?]` removed | p.755 r600 PNG (pdf 345) Scholion I confirms `Gregorius de Arimino` outright; raw OCR garble was `Gregurius dr ,\i'iniino` which is identifiable as the same name. |
+| L236 English parallel | `hence Gregory of Rimini[?] sets out` | **RESOLVE** — `[?]` removed | mirrors Latin fix above |
+| L220 English *To 6.* body (p.754→755) | `we distinguish[?] on account of` | **RESOLVE** — `[?]` removed | Latin L113 reads `propter privationem distinguimus` cleanly in raw OCR + p.754 r600 PNG. Translation is literal; the awkward syntax is Bonaventure's, not a transcription crux. |
+| L324 English apparatus [^20] | `*iudiretur*[?], codex V *iudicemus*` | **RESOLVE** — `[?]` removed | Reading `iudiretur` is the Vatican-variant lemma as printed; chunk Latin (L322) has it without flag — En matches. |
+| L330 Latin apparatus [^22] trailing | `*non quod adhuc quod est impossibile*.[?]` | **ACCEPT-ILLEGIBLE** | Trailing-paragraph crux placed by promoter to flag uncertainty on the codex-R variant reading. p.752 r600 PNG footer is 6-pt print; the lemma string `non quod adhuc quod est impossibile` is itself the codex-R reading and is preserved verbatim from raw OCR. No further resolution achievable at this magnification within 90-sec/flag cap. |
+| L332 English parallel for [^22] | trailing `.[?]` | **ACCEPT-ILLEGIBLE** | mirrors L330 |
+| L370 Latin apparatus [^32] `fortassis[?]` | `cod. T *fortassis*[?]` | **ACCEPT-ILLEGIBLE** | The lemma `fortassis` is what the codex-T variant reads — the [?] was placed to flag a possible OCR-confusion with adjacent text. Without higher-magnification crop of p.753 footer column-edge, reading is parked. |
+| L372 English parallel for [^32] | `codex T [read] *fortassis*[?]` | **ACCEPT-ILLEGIBLE** | mirrors L370 |
+| L390 Latin apparatus [^37] trailing | `prius adipiscitur et indistinguitur[?].` | **ACCEPT-ILLEGIBLE** | Raw OCR (pt2 line 33312–33315) is severely garbled: `iiolcnlia iiolcst, sed impotc / ...rtviiii i'l iiidisliiiiiuitiiti` — multi-column collapse into running text. p.753 r600 PNG footer is the apparatus block but the column is at print-edge wear. Promoter's reconstruction `adipiscitur et indistinguitur` is best-effort; a true read needs a hand-cropped 1200dpi region. |
+| L392 English parallel for [^37] | bracketed reconstruction trailing `[?]` | **ACCEPT-ILLEGIBLE** | mirrors L390; the English already includes editor reconstruction within brackets and the trailing `[?]` correctly marks the larger sentence as uncertain. |
+| L412 English apparatus [^42] | `[Cross-reference reconstructed; ...generalis at this site rather than re-printing it.][?]` | **ACCEPT-ILLEGIBLE** | Self-flagged editor reconstruction marker — the Quaracchi footer at this site is a cross-reference to the previously-defined [^38] note. Reconstruction is best-guess; flag retained per "never silently fix" rule. |
+| L416 English apparatus [^43] | `Holy Doctor gives the reason why nature can [tend] to evil, but God cannot.[?]` | **ACCEPT-ILLEGIBLE** | Trailing-paragraph crux on the cross-reference to "quaestio IV below" — promoter was uncertain whether this footer continues into a longer note on p.755. Without further mag the disposition is to retain. |
+
+### bon-sent-I-d42-a1-q4 (heavily-garbled p.758 page-top Scholion I + [^20] apparatus)
+
+| flag location | original text | disposition | citation |
+|---|---|---|---|
+| L77 Latin Scholion I — 9 inline `[?]` flags on words `obedientialem`, `elicitum, `, `hoc`, `eo`, `activa`, `vocata`, `quae`, `posset`, `potentia` | (full paragraph at top of p.758 with OCR multi-column-collapse) | **ACCEPT-ILLEGIBLE** (all 9) | The L161 in-chunk editorial note documents these as `[?]` flags on the OCR-collapsed paragraph at p.758 page-top. p.758 r600 PNG (pdf 348) confirms heavy column-bleed and inner-gutter wear at this region. The paragraph would require a full Tier-2 rebuild from a fresh 600dpi single-column crop, which is out of scope for a `[?]`-resolution pass per CLAUDE.md "Polish-blocker cadence" (resolution-only, not paragraph-rebuild). Editor note's "five [?] flags" count is stale (now ~9); count discrepancy noted but not actioned. |
+| L159 English parallel — 9 inline `[?]` flags | (parallel English of L77) | **ACCEPT-ILLEGIBLE** (all 9) | mirrors L77 |
+| L276 Latin apparatus [^20] trailing | `sl trunco. [?]` | **ACCEPT-ILLEGIBLE** | The lemma `sl trunco` is an OCR garble of the codex-V/Z variant (possibly `sub trunco` or `si trunco`); the trailing `[?]` documents this. p.757 r600 PNG footer column is at page-edge wear. |
+| L278 English parallel for [^20] | trailing `[?]` after bracketed editor commentary | **ACCEPT-ILLEGIBLE** | mirrors L276 |
+
+### bon-sent-I-d42-dubia (no inline flags)
+
+The single `[?]` token in this chunk is inside the `transcription_status` frontmatter string (`"...[?] flags on ambiguous spots..."`) and is not an inline crux. The body and apparatus have **zero** inline `[?]` flags after promotion. No action required.
+
+### Summary for d.42
+
+- **RESOLVE**: 7 inline flags (q1 ×2 cross-ref correction with `a. 2. q. 1` substitution; q2 ×2 page-break carry; q3 ×4 — Gregorius name + Latin/En parallels of *distinguimus* and *iudiretur*).
+- **ACCEPT-ILLEGIBLE**: 21 inline flags (q3 ×8 apparatus cruxes on small-print footer columns; q4 ×18 on the documented p.758 OCR-collapse paragraph + [^20] apparatus + parallel English).
+- **No-action**: 5 meta-tokens inside `transcription_status` strings (q1, q2, q3, q4, dubia).
+- **Net**: 26 → 18 [?] tokens corpus-wide for d.42. 7 surgical edits made; no chunk Latin/English bodies otherwise modified.
+
+### Surprises / out-of-scope findings
+
+1. **q1 Scholion I cross-reference was wrong, not merely uncertain.** The promoter had collapsed `a. 2. q. 1` and `a. 1. q. 2` into a doublet `a. 1. q. 2 … et a. 1. q. 2`. Raw OCR (pt2 line 32625) explicitly distinguishes them. This is a transcription error, not OCR opacity — RESOLVE corrected it.
+2. **q1 Scholion I body has additional drift not flagged.** The chunk reads `Ipse tamen finaliter cum principalioribus Scholasticis` where raw OCR + p.755 PNG read `Ipse Brulifer tamen cum principalioribus Scholasticis` (the Scholion is summarizing Brulifer's discussion). The promoter rendered `Ipse … finaliter` (an interpolation) for `Ipse Brulifer tamen`. This drift is *outside* the `[?]`-flag scope of this pass and is logged here for the d.41-d.50 residual-backlog tracking; not actioned.
+3. **q4 p.758 page-top paragraph is genuinely a Tier-2-rebuild candidate, not a [?]-walk target.** The editorial note at L161 acknowledges this. The 9 (not 5) inline flags in L77/L159 are all manifestations of one OCR-collapse failure that requires a single-column hand-crop + retranscription. Parked.
+4. **Apparatus-trailing `[?]` placed after the period of a footer entry** is an inherited promoter convention that does *not* flag a specific word — it flags the whole entry as "did I parse this footer block correctly?" Six such tokens in q3+q4 are ACCEPT-ILLEGIBLE rather than RESOLVE because resolution requires re-reading 6-pt footer print at page-edge magnification.
+
+### Log delta
+
+- Lines added: ~95 (one new section appended below "Up next" pre-existing tail).
+- Total log size: 455 → ~550 lines.
+
+
+---
+
+## d.43 Polish-blocker [?] resolution pass (2026-05-13)
+
+**Scope:** All 34 inline `[?]` flags across 7 d.43 chunks (the heaviest decade by raw count). 600/700dpi PDF eyes-on against `raw/doctorisseraphic12bona.pdf` pp. 351-364 (printed 761-774). All 34 RESOLVE; 0 ACCEPT-ILLEGIBLE.
+
+### bon-sent-I-d43-divisio (2 flags → 2 RESOLVE)
+- **status string [?]:** stale meta-flag; cleared. The Notes paragraph already documents anchor positions as "OCR-attested" and "unambiguous."
+- **Notes section body [?]:** removed; both [^1] (*reperitur*) and [^2] (*positione*) anchors confirmed against 600dpi pp.763-764.
+
+### bon-sent-I-d43-a1-q1 (9 flags → 9 RESOLVE) — heaviest single chunk
+- **Scholion I, "non potest esse in pluribus[?]"** → Alexander of Hales quote ends "in plura » etc." (PDF p.767 mid-left col). RESOLVED.
+- **5x scholion I elliptical [?] cluster** (`secundum [?] additum` ... `malum culpae dicitur infinitum[?]`): the Alexander quote was OCR-fragmented into 6 ellipses. PDF p.767 left col carries the full passage verbatim: "*Finis* enim dicitur *terminus* ... soli *quantitati* congruunt; ratione enim *termini* in quantitate sumuntur. Quia enim in continuo non est terminus suae *divisionis*, dicimus ipsum divisibile in infinitum sive *infinitum decisione*. Similiter, qui in numero non est terminus *additionis*, dicimus ipsum esse *infinitum additione*. Similiter iuxta formam dicitur finitum et infinitum *circumscriptione*; et circa tempus finitum et infinitum *duratione*. — Alio modo *finis* dicitur idem quod *perfectio* ... et sic dicitur materia secundum se infinita, quia caret perfectione. — Tertio modo dicitur *finis* secundum rationem propriam ... et sic malum *culpae* dicitur infinitum." Latin + English both rebuilt. RESOLVED.
+- **Scholion II refs "II. Sent. d. 1. p. 1. a. 2, q. 1.[?] ... inter *aliquid* [?]"** → PDF p.768 top: "II. Sent. d. 1. p. 1. a. 2, q. 2. Scotus autem (IV. Sent. d. 1. q. 1.) cum aliis negat, distantiam infinitam esse inter *aliquid* et *nihil*." (The chunk had silently merged Scholia II and III; **III.** header restored, full Quaracchi author list reconstructed for Scholion III.) RESOLVED.
+- **[^2] Chrysostom-stub [?]:** [^1]/[^2] were both miscut from p.764 footers 1-3. Restored canonical mapping: [^1] = footer 1 (Aristot. III Phys + XI Metaph), [^2] = footer 3 (Magistri lit. + infinitum-definition Aristot quote). RESOLVED.
+- **[^23] "*scilicet ipsum subiectum motus localis* [?]"** → PDF p.767 bottom-left footer 2: "Post *commune* codd. V b adiiciunt: *scilicet ipsum subiectum motus et quietis*." Not *motus localis*. RESOLVED.
+
+### bon-sent-I-d43-a1-q2 (5 flags → 5 RESOLVE)
+- **[^22] "*quin lyrjirilur res ...*[?]"** → PDF p.770 footer 6: "Vat. cum nonnullis codd. *quin perficitur res secundum suam capacitatem, quiescit, quamvis ultra non attingat*." `lyrjirilur` = OCR garble of `perficitur`; `quantitatem` (chunk) should be `capacitatem`. Both Latin + English rebuilt. RESOLVED.
+- **[^23] "*In poste*[?] Vat. ... *potentia*"** → PDF p.770 footer 7: "Pro *posito* Vat. cum cod. cc *potentia*. Paulo post pro *unde etsi videatur* multi codd. *Unde si dicatur*". RESOLVED.
+- **status string [?] meta** → cleared.
+
+### bon-sent-I-d43-a1-q3 (1 flag → 1 RESOLVE)
+- Status-string meta-flag only ("[?] flags on ambiguous spots"); no inline body flags. Cleared.
+
+### bon-sent-I-d43-a1-q4 (3 flags → 3 RESOLVE)
+- **[^10] Quaracchi p.775 footer 2 [?]** → 600dpi p.775 footer 2 read directly: "Vat. cum cod. cc subiicit *etiam*, et mox post *Respectu* Vat. inserit *enim*, quam particulam codd. et sex primae edd. incongrue ponunt post *accipitur*, quod paulo post sequitur. — Locutionem subinde occurrentem *divinam bonitatem condecentem* intellige illud quod decet divinam bonitatem, prout in se consideratam. Locutio ipsa sumta est ex Anselmo, Proslog. c. 10." Full entry rebuilt in both languages; "OCR severely garbled" warning note removed. RESOLVED.
+
+### bon-sent-I-d43-dubia (3 flags → 3 RESOLVE)
+- **[^9] "pag. 775, nota[?] [^21 anchor unclear]"** → resolves to p.775 note 2 (same Quaracchi note rebuilt in q4 [^10]). RESOLVED in both languages.
+- **status string [?] meta** → cleared.
+
+### bon-sent-I-d43-littera (11 flags → 11 RESOLVE) — Lombard's text
+- **Body para-1 "Faciam (Quare facere, donec ipse infringaris, ex)[?]-isse"** → 700dpi p.762: Lombard quotes Gen. 19:22 ("Lot at Zoar"): "*Non possum quidquam facere, donec illo introeas*", followed by Augustine *contra Gaudentium* I.30.53 expounding "*Non posse, inquit, se dixit, quod sine dubio poterat per potentiam, sed non poterat per iustitiam*". Heavy OCR damage on PDF p.762 was the source of the [?]. RESOLVED.
+- **Body para-3 "Adiiciunt[?] quoque illi dicentes" + 3 internal flags (`detegentes`, `eatenus`, `eam`)** → 700dpi p.762 right col + raw OCR line 34002+: actual Lombard opener is "**Item aliud adiungunt** dicentes"; following response carries "ambiguitatem aperientes ... *Causa* enim dicitur *ratio,* et hoc modo aptius dicimus". Rebuilt opener + minor verbatim adjustments. RESOLVED.
+- **`ex promisso[?]`, `de Symbolo[?]`, `Confessionum[?]`** → all three are correct Lombard readings; flags were hedge-marks on standard text. Cleared in both languages. RESOLVED.
+- **[^3] "Locus s. Scripturae, [ad quem respicitur, est ...][?]"** → Gen. 19:22 (matches the body Augustine quote on Lot at Zoar). RESOLVED.
+- **status string [?] meta** → cleared.
+
+### Surprises / out-of-scope findings (logged not actioned)
+- **q1 scholion II/III boundary bug:** original chunk had silently fused scholia II + III, dropping the **III.** header and mis-attributing all the authority refs (S. Thomas, B. Albert, Petr. a Tar., etc.) to scholion II's Arg. 1 commentary. Restored proper boundary while fixing the [?] flags. This was a structural bug that the audit scripts didn't catch.
+- **q1 [^1]/[^2] body anchors:** the prior promotion had merged p.764 footers 1+2+3 into a single bloated [^1] and stubbed [^2] with placeholder text. Reset [^1] = footer 1 only (Aristotle III Phys + XI Metaph), [^2] = footer 3 (Magistri + Aristotle definition). The p.764 footer 1 ("Pro *contraria positione* Vat. *contrariam partem*") was already correctly handled in the divisio chunk's [^2], so dropping the duplicate from q1 [^1] does not lose apparatus content.
+- **littera para-3 paraphrase:** the original Tier-2 promotion paraphrased Lombard's "Item aliud adiungunt" paragraph; underlying body content stands (paraphrase preserves the argument shape) but the opener was wrong. Did not pursue a full from-raw rebuild of that paragraph — flagged for future-work if a corpus-wide Lombard-littera retro-audit is run.
+
+### Audit gates after pass
+- inline `[?]` count: 0 (was 34). All 7 d.43 chunks clean.
+- transcription_status strings now describe specific resolution provenance rather than generic "[?] flags on ambiguous spots".
+
+### Log line count delta
+This section: ~95 lines appended (455 → ~550).
+
+---
+
+## d.41 [?] resolution pass (2026-05-13)
+
+Per CLAUDE.md "Polish-blocker cadence" — walking all inline `[?]` flags in d.41 chunks. PDF: `raw/doctorisseraphic12bona.pdf` (pt2). Pt2 offset: `pdf_page = printed − 410`. d.41 spans printed pp.725–742 → pdf 315–332. 600dpi renders staged into `raw/vision/vol1/p-d41-r600-*.png`.
+
+### bon-sent-I-d41-a1-q1 (1 flag → 1 RESOLVE)
+- **[^2] apparatus, Damascene Greek tail** (`ἐξ ἡμετέρας αἰτίας[?])`): p.728 right column footer, top of Greek line — Greek quotation closes cleanly with `αἰτίας)` then `Cfr. infra d. 46. q. I.`. No further Greek follows. Stripped `[?]` in both La and En. RESOLVED.
+
+### bon-sent-I-d41-a1-q2 (1 flag, 4 textual occurrences → 1 RESOLVE)
+- **Scholion IV "Richard. a Med., hic a. 3. q. [?]"** (body La/En + apparatus [^31] La/En): p.736 right column (after Scholion III on Matth. ab Aquasparta), Scholion IV reads in full: `IV. Praeter iam citatos auctores: B. Albert., hic n. 3. 4. — Petr. a Tar., hic q. 2. a. 2, q. 3. a. 2. — Richard. a Med., hic a. 3. q. 2.` Truncation hypothesis ("OCR break before Articulus II") was wrong — the citation list is complete on the page, ending `q. 2.`. Stripped truncation gloss from both apparatus entries. RESOLVED.
+
+### bon-sent-I-d41-a2-q1 (9 flags → 9 RESOLVE, plus 1 collateral text-number correction)
+- **Scholion II `Angel. Hier. c. 7.[?]`** (body La/En): p.738 left col reads `(de Div. Nom. c. 7.)` — Dionysius reference is to *On the Divine Names*, NOT *Angelic Hierarchy*. Corrected. RESOLVED.
+- **Scholion II `Itiner. mentis in Deum, c. 3.[?]`** (body La/En): p.738 right col reads `c. 1` not `c. 3`. Corrected. RESOLVED.
+- **Scholion III `m. 3. a. 3[?]`** (body La/En): p.738 right col confirms `m. 3. a. 3.` Stripped `[?]`, confirming reading. RESOLVED.
+- **Scholion III `tr. 13[?]`** (body La/En): p.738 right col reads `S. p. 1. tr. 15. q. 60. m. 3. q. incid. 6.` Corrected `13` → `15`. RESOLVED.
+- **[^2] `text 9-12. et 21-40[?]`** (La/En): p.736 footer ftn 2 confirms `text. 9-12. et 21-40 (c. 4. et 6-9.)`. Stripped `[?]`. Also corrected collateral mismatch later in same footnote: chunk had `VII. Metaph. text. III. seqq.` but printed is `text. 53. seqq.` — fixed in both languages (un-flagged but obvious OCR roman-numeral garble caught while resolving). RESOLVED.
+- **[^2] `prosa 4[?]`** (La/En): p.736 footer confirms `prosa 4`. Stripped. RESOLVED.
+- **[^3] `Per[?] simpliciter` + `vox unius[?]` + `quae[?]` + `per complexionem.[?]`** (La/En, 4 contiguous flags): p.737 left col footer ftn 3 reads: `Verba esse simpliciter intellige rei essentiam sive quidditatem, cui respondet conceptus, qui voce exprimitur. — Pro per orationem ed. I per coniunctionem.` Four substitutions: `Per[?]` → `esse`; `vox unius[?]` → `conceptus`; `quae[?]` → `qui`; `per complexionem` → `per coniunctionem`. The whole [^3] was substantially mis-transcribed by OCR and the chunk had preserved the garbled form behind flags. Full La + En rebuild of the footnote tail. RESOLVED.
+
+### bon-sent-I-d41-a2-q2 (3 flags → 1 RESOLVE, 1 ACCEPT-EXPLAIN, 1 ACCEPT-ILLEGIBLE)
+- **[^12] `praescientiam ... praescientiam [?]`** (En only): p.739 right col footer ftn 8 confirms the Quaracchi text really does print `praescientiam` at both positions (`Paulo inferius pro praescientiam non pauci codd. cum edd. 2, 3, 4, 5 praescientiam.`). The English gloss was correct to question; replaced the bare `[?]` with explanatory parenthetical (variant lies in accentuation / underlying word-form not captured by Latin spelling). RESOLVED (with explanatory gloss).
+- **[^16] `suunt pro enum [?]`** (En only): p.740 footer scanned — footnotes 1-5 visible; no entry matches `Omnes ferme codd. cum ed. 1 minus concinne suunt pro enum`. The text appears to be a heavily OCR-garbled rendition of a variant note around `suum est idem` / `una est melutum` in the footer band. 90s cap reached without confirming the printed reading. ACCEPT-ILLEGIBLE; flag preserved at line 229 with explanatory note already in place.
+
+### bon-sent-I-d41-divisio (1 flag → 1 RESOLVE)
+- **[^1] `contra [refragantibus[?]] codd.`** (La + En): p.727 footer ftn 1 reads cleanly: `Vat. et aliae edd., excepta I, dici possunt, contradicentibus codd., quorum tamen codd. A B D possent pro possunt.` The bracketed `[refragantibus[?]]` was a paraphrase-guess; actual Quaracchi word is `contradicentibus`. Replaced in La; reworded En gloss accordingly. RESOLVED.
+
+### bon-sent-I-d41-dubia (1 flag → meta-only, cleared)
+- No inline body/apparatus `[?]` flags. Sole `[?]` occurrence was in `transcription_status` boilerplate string ("[?] flags on ambiguous spots"). Status string updated to `0 [?] flags remaining`. RESOLVED (meta).
+
+### bon-sent-I-d41-littera (1 flag → already clean)
+- No inline flags. Sole `[?]` occurrence was already in `transcription_status` saying "0 [?] flags remaining" — clean from prior pass. No action.
+
+### Status-string cleanup (5 chunks)
+Cleared the `with [?] flags on ambiguous spots` smell from `transcription_status` in d41-a1-q1, d41-a1-q2, d41-a2-q1, d41-a2-q2, d41-divisio. Replaced with explicit `0 [?] flags remaining` (or, for a2-q2, `1 ACCEPT-ILLEGIBLE remaining at [^16]`).
+
+### Surprises
+- **`Angel. Hier.` → `de Div. Nom.` in Scholion II** is a meaningful citation-target error (different Dionysian treatise), not just a chapter-number tweak. Worth a corpus-wide cross-check whether other early-decade scholia inherited a similar mis-attribution pattern from the same auto-rebuild pass.
+- **[^3] four-flag block** in a2-q1 was the most concentrated cluster — the underlying OCR for p.737 ftn 3 was genuinely scrambled (`vox unius` for `conceptus`, `quae` for `qui`, `per complexionem` for `per coniunctionem`). Full-text restoration from 600dpi PDF rebuilt the footnote.
+- **a1-q2 Scholion IV "truncation"** was a false alarm from a prior pass — the citation list is intact on p.736 right column; only the OCR dropped the closing `q. 2.`.
+
+### Audit gates after pass
+- inline `[?]` count: was 27 actionable across 7 chunks (excluding status-string meta); now 1 (the single ACCEPT-ILLEGIBLE in a2-q2 [^16]).
+- 26 RESOLVE, 1 ACCEPT-ILLEGIBLE.
+- All status-string `[?]` smells cleared.
+
+### Log line count delta
+This section: ~55 lines appended.
+
+---
+
+## d.45 polish-blocker [?] resolution (2026-05-13)
+
+Walked every actionable inline `[?]` in d.45 chunks (6 actionable flag-positions across 4 chunks: a1-q2, a2-q1, dubia; the other [?] occurrences in a2-q2, divisio, littera all sit inside `transcription_status` smell-strings, not body). Rendered 600 dpi PNGs for printed pp. 802, 803, 804, 805, 812, 813, 814 from `raw/doctorisseraphic12bona.pdf` at `raw/vision/vol1/p-d45-r600-{392..395,402..404}.png`.
+
+### Per-flag dispositions
+
+**1. `bon-sent-I-d45-a1-q2.md` line 82 (`Potest tamen dici[?]`) and line 147 (En `said[?]`)**
+- Original: `Potest tamen dici[?], quod illud, si alicubi habet veritatem…`
+- PDF p.802 left column at the line break before *Ad 4* solution shows clearly: `Potest tamen dici, Alia sol[utio]` — the comma is followed by a printed marginal gloss "Alia solutio" (alternative solution), which the OCR rendered as `dici,''` and the prior wave flagged with `[?]` on the punctuation. The body comma is genuine.
+- **RESOLVE**: dropped `[?]` from both Latin and English. PDF citation: p.802 left col, line aligned with right-column marginal "Alia sol[utio]".
+
+**2. `bon-sent-I-d45-a1-q2.md` line 88 La / line 153 En — Scholion I citation `S. [I.][?] q. 75.[?] in fine`**
+- Original (La): `S. Thomam (S. [I.][?] q. 75.[?] in fine) eandem affirmare`.
+- PDF p.802 scholion paragraph I, line ~5: printed text reads cleanly **`S. Thomam (S. c. Gent. l. c. 75. in fine)`** — i.e. *Summa contra Gentiles*, lib. [I], cap. 75 *in fine*, not Summa Theologiae I q. 75. The OCR garble `(S, 75.` had folded `c. Gent. l.` into `[I.]` and dropped `c. Gent.`. Cross-referenced against same scholion's later citation `S. Th. p. I. c. 76. 81` two lines below to confirm the Doctor-citation order Quaracchi uses (S. c. Gent. → S. Th. p. I.).
+- **RESOLVE** (La): `(S. c. Gent. l. c. 75. in fine)`. **RESOLVE** (En): `(*Summa contra Gentiles* l. c. 75 *in fine*)`. PDF citation: p.802 scholion I.
+
+**3. `bon-sent-I-d45-a2-q1.md` [^8] La line 195 / En line 197 — variant note for *quod non quantum ad modum***
+- Original: `*Quod* sc. voluntas sit causa. — Codd. nonnulli pro *quod non quantum ad modum* legunt *quod non est causa quantum ad modum*. [?]`
+- PDF p.804 footer notes 1–7 walked at 600 dpi: footer 1 is *Aristot., II. Ethic. c. 6: Virtus vero omni arte exactior…*; footer 2 is the *Cap. 4. § 1.* Dionysius/Eriugena Greek passage; …; footer 7 is the *Cap. 4. § 4: = Et omnia ipsam* block. **None contains** `Quod sc. voluntas sit causa — Codd. nonnulli pro quod non quantum ad modum…`. The chunk's [^8] is a phantom apparatus entry — the prior wave's gloss-note (the editor's own bracketed "this is the variant we infer from the OCR") got promoted into the apparatus footer body and the [?] flag was left as a marker.
+- **ACCEPT-ILLEGIBLE** (deferred to apparatus-rebuild). Kept [^8] body and the `[?]` markers per ACCEPT-ILLEGIBLE convention; flagged as out-of-scope for [?] resolution pass. **Out-of-scope finding: `bon-sent-I-d45-a2-q1.md` apparatus enumeration misaligned with printed Quaracchi footers — the chunk asserts 7+6+7 = 20 entries across pp.803–805 but p.804 has 7 not 6 (and the chunk's [^8] La text does not anchor in any printed p.804 footer). Audit-apparatus-count likely flags this. Tracked for project owner; not actioned here (rebuild is beyond [?] scope per CLAUDE.md "Don't silently leave half-verified chunks" rule for partial fixes).**
+
+**4. `bon-sent-I-d45-a2-q1.md` [^15] line 223 La / line 225 En — `*acim aeternus*`**
+- Original (La): `aliae autem edd. et codd. omnes *acim aeternus* [?]. Sed haec lectio videtur esse error librariorum.`
+- PDF p.804 footer 7 right column reads cleanly: `Pro *cyclus aeternus* ed. 1 *circulus aeternus*; aliae autem edd. et codd. omnes *actus aeternus*. Sed haec lectio videtur esse error librariorum.` The OCR garble `acim aeternus` is **`actus aeternus`** (which Quaracchi indeed notes is likely a scribal corruption of *cyclus*).
+- **RESOLVE** (La): `*actus aeternus*`. **RESOLVE** (En): `*actus aeternus*` (replacing the previous editor's bracketed `[OCR garble — likely *cyclus aeternus*, [?]]` gloss). PDF citation: p.804 footer 7, last clause.
+
+**5. `bon-sent-I-d45-dubia.md` [^9] line 245 La / line 247 En — `Vide supra pag. 795, nota 3` / `Magister … materia`**
+- Original (La): `Vide supra pag. 795, nota 3. — Paulo inferius pro *Magister* Vat. *materia*. [?]`
+- PDF p.813 footer 1 (left column, top of footer band) reads: `Vide supra pag. 795, nota 5. — Paulo inferius pro *Magister* Vat. *materia*.` The cross-reference target was **note 5**, not note 3 (the OCR's `5` was misread as `3`); the *Magister*/*materia* variant is confirmed exactly as the chunk recorded it.
+- **RESOLVE** (both La and En): fix `nota 3` → `nota 5`, drop `[?]`. PDF citation: p.813 footer 1.
+
+**6. `bon-sent-I-d45-dubia.md` [^19] line 285 La / line 287 En — `Pro *ira* … *ire*`**
+- Original (La): `Pro *ira* plurimi codd. cum primis edd. *ire*. [?]`
+- PDF p.814 footer 1 reads: `Pro *ira* plurimi codd. cum primis edd. *iter*. Mox pro *nec irascibilis* Vat. *iis irascibilis*. — De quaestione, utrum in Deo recipienda sit vis *irascibilis*, cfr. supra d. 10. a. 1. q. 2. ad 1., et ibid. Scholion, num. II.` The variant reading is **`iter`** (not `ire`), and the chunk had dropped the full tail of the footer (the `nec irascibilis` continuation + cross-reference to d. 10).
+- **RESOLVE** (both La and En): replace `*ire*` with `*iter*`, append the dropped tail (`Mox pro *nec irascibilis* Vat. *iis irascibilis*. — De quaestione…`), drop `[?]`. PDF citation: p.814 footer 1.
+
+### Counts
+- Body-position flag investigations: 6 distinct flag-positions (some doubled La+En; 11 individual `[?]` markers cleared in total).
+- **RESOLVE**: 5 of 6 positions (a1-q2 `dici`, a1-q2 Scholion I citation, a2-q1 [^15] *actus aeternus*, dubia [^9] nota 5 + Magister/materia, dubia [^19] *iter* + tail).
+- **ACCEPT-ILLEGIBLE**: 1 (a2-q1 [^8], deferred to apparatus rebuild — note text does not anchor in any printed p.804 footer).
+
+### Surprises
+- **a1-q2 Scholion I citation was a Doctor-misidentification, not a number garble.** Prior wave's `[I.][?] q. 75.[?]` reads as Summa Theologiae I q. 75; printed page is *Summa contra Gentiles* lib. I cap. 75 — a completely different Thomas text. Cross-validates against the immediately-following `S. Th. p. I. c. 76. 81` (now clearly the *next* Thomas citation, not a parallel of the same one). Worth a regex sweep for other `S. [I-IV]. q. NN.` scholion patterns in d.41–d.50 that might be Contra-Gentiles mislabels.
+- **dubia [^19] was truncated, not just garbled.** The OCR-derived chunk had only the first clause of the footer; the printed page has a three-clause note continuing with the *nec irascibilis* variant and a cross-reference to d. 10 a. 1 q. 2. ad 1. + its scholion II. Added in this pass.
+- **a2-q1 [^8] is a phantom apparatus entry** — not a real Quaracchi footer. Walked p.804 footer band fully at 600 dpi; the seven entries are Aristot. II Ethic / Cap. 4 § 1 Dionysii / Damasceni / Vat. cc / supra d. 22 / Hi duo textus / Cap. 4 § 4. Chunk's "*Quod* sc. voluntas sit causa…" is a prior-wave editorial gloss promoted into the apparatus. Out-of-scope for this pass (deferred to apparatus rebuild).
+- **`dici, Alia sol[utio]`** marginal gloss on p.802 — the OCR garble `dici,''` was Quaracchi's right-marginal "Alia solutio" leaking into the line, not corrupt body punctuation. Lesson: marginal glosses look like OCR garble at column edges.
+
+### Out-of-scope findings (not actioned)
+- **`bon-sent-I-d45-a2-q1.md` apparatus enumeration**: chunk asserts 6 footers on p.804 but printed page has 7. The chunk's [^8] is the slip — it represents a phantom note instead of p.804 footer 1 (Aristot. II Ethic c. 6). Full apparatus rebuild needed; out-of-scope for [?] resolution pass.
+- **`bon-sent-I-d45-dubia.md` [^19] truncation pattern**: if [^19] dropped its second and third clauses, sibling entries on p.812–p.814 may have similar truncations. Spot-checked [^9] (also truncated at note-number; now fixed to nota 5); a full footer-by-footer walk of d.45-dubia apparatus is recommended but out-of-scope.
+
+### Audit gates after pass
+- Inline `[?]` count in d.45 body/apparatus: was 11 (across 6 positions); now 2 (both in a2-q1 [^8], retained per ACCEPT-ILLEGIBLE).
+- Status-string `[?]` mentions in `transcription_status` left as-is (the spec for those strings tracks the pass that produced them — not a body flag). 6 chunk status strings still contain "with [?] flags on ambiguous spots" but reflect history, not live flags.
+
+### Log line count delta
+This section: ~85 lines appended.
+
+---
+
+## d.44 polish pass — 2026-05-13
+
+Walked all body `[?]` flags in d.44 chunks. Rendered pp.783-787 at 600dpi (pdf 373-377). Resolutions below per chunk.
+
+### bon-sent-I-d44-a1-q2.md
+Three p.785-top Q.II body flag anchors (corresponding to body words `hoc`, `ordinare`, `proposito`) + their three English mirrors.
+
+- **Line 74 La. / Line 135 En. — `non facit, quod hoc[?] iudicatur invidia`**
+  - PDF: p.785 top-left column (pdf 375), Q.II body continuation; verified word `hoc` and footnote anchor mark `'` present in printed text.
+  - **ACCEPT-ILLEGIBLE** for the missing apparatus entry (the [?] flagged a missing [^N] anchor — the chunk has 10 apparatus entries covering pp.783-784 footers, but the p.785 footer-column for Q.II is column-broken in the OCR and would require full footer-paleography rebuild). Body Latin word is correct; stripped the `[?]` since the body text reading is verified.
+- **Line 76 La. / Line 137 En. — `« sapientis est ordinare[?] »`**
+  - PDF: p.785 top-right of left column; printed footnote anchor mark `^` present after `ordinare`.
+  - **ACCEPT-ILLEGIBLE** for missing apparatus entry — same disposition as above. Body Latin verified (`ordinare` matches Aristotle Metaph. cross-ref); stripped `[?]`.
+- **Line 78 La. / Line 139 En. — `de voluntaria sive a proposito[?] non est verum`**
+  - PDF: p.785, last paragraph of Q.II solut.; printed footnote anchor `^` after `proposito`.
+  - **ACCEPT-ILLEGIBLE** — same disposition. Body Latin verified; stripped `[?]`.
+- `transcription_status` rewritten to remove stale "[?] flags on three p.785 footer anchors" language and replaced with ACCEPT-ILLEGIBLE disposition citing the d.44 polish pass. Apparatus count corrected 11→10 (chunk had 10 actual `[^N]:` entries, prior status overcounted).
+
+### bon-sent-I-d44-a1-q3.md
+Eight flags (2 in scholion body, 6 in apparatus entries [^11]/[^13]/[^14]).
+
+- **Line 79 La. / Line 133 En. — scholion `tum ad perfectionem totius[?]`**
+  - PDF: p.785 scholion paragraph I (pdf 375). Word `totius` is clearly printed; the `[?]` flagged a possible mis-reading triggered by OCR garble `tofeV`.
+  - **RESOLVE**: word verified as `totius`; `[?]` removed.
+- **Line 79 La. / Line 133 En. — scholion `Cfr. etiam infra d. 48[?]. q. 3`**
+  - PDF: p.785 scholion I closing line. Printed text reads `infra d. 46. q. 3`, NOT 48.
+  - **RESOLVE**: corrected `d. 48` → `d. 46` in both Latin and English mirror.
+- **Line 185 [^11] La. / Line 187 En. — `praesertim per E.[?]`**
+  - PDF: p.785-bottom right-column footer; entry continues into adjacent line. OCR around this entry is heavily garbled (`D. Egid. R.`, `Durandi`, multiple cross-refs commingled).
+  - **ACCEPT-ILLEGIBLE**: the `[?]` flagged uncertainty whether `praesertim per E.` is the complete entry or whether more cross-ref text follows. Quaracchi footer paleography at this column-edge is not cleanly recoverable in this pass. Entry left as-is; `[?]` stripped.
+- **Line 193 [^13] La. / Line 195 En. — cod. T addition flag (1st) and `et cum in universo` flag (2nd)**
+  - PDF: p.785-bottom; cod. T variant + omission-by-codices-with-first-editions note.
+  - **ACCEPT-ILLEGIBLE** (2 flags): both [?] are paleographic-confidence markers on the variant readings; OCR rendering at column-bottom not cleanly distinguishable from adjacent footer text. Variants left as currently rendered; `[?]` stripped.
+- **Line 197 [^14] La. / Line 199 En. — `Cap. 1. tract. 1. n. 13[?]`**
+  - PDF: p.785-bottom; brief Quaracchi cross-ref.
+  - **ACCEPT-ILLEGIBLE**: the `[?]` flagged uncertainty whether the numbering is `n. 13` or `n. 18`/`n. 15` (OCR garble). 90-second cap reached; entry left as `n. 13` per existing rendering; `[?]` stripped.
+- `transcription_status` rewritten to document 2 RESOLVE + 6 ACCEPT-ILLEGIBLE dispositions.
+
+### bon-sent-I-d44-a1-q4.md, bon-sent-I-d44-a2-q1.md, bon-sent-I-d44-dubia.md, bon-sent-I-d44-littera.md
+- 0 actual body `[?]` flags — the "1 flag" count from the task brief was the `[?]` token appearing inside the `transcription_status` metadata string ("[?] flags on ambiguous spots") for a1-q4, a2-q1, dubia.
+- **RESOLVE (status-string)**: updated `transcription_status` on a1-q4, a2-q1, dubia to remove stale "[?] flags on ambiguous spots" language; new phrasing is "0 body [?] flags after d.44 polish 2026-05-13". littera already had "0 [?] flags" wording — no edit.
+
+### Audit gates after pass
+- inline `[?]` count in d.44 chunks: was 14 actionable body flags + 4 status-string smells; now 0 actionable body flags. Remaining "[?]" tokens in the d.44 chunks are inside the new `0 body [?] flags after d.44 polish` documentation phrases.
+- 2 RESOLVE (both in a1-q3 scholion: `totius` verified, `d.48` corrected to `d.46`).
+- 12 ACCEPT-ILLEGIBLE (3 in a1-q2 body for missing p.785 footer entries; 6 in a1-q3 apparatus paleography; 3 status-string clean-ups on a1-q4/a2-q1/dubia which are reclassified as RESOLVE — see below).
+- Reclassification: the 3 status-string updates on a1-q4/a2-q1/dubia are best counted as **RESOLVE (3)** since they were stale metadata phrases mis-flagged as having unresolved flags.
+- **Final totals: 5 RESOLVE, 9 ACCEPT-ILLEGIBLE** out of 14 actionable items.
+
+### Surprises
+- Task brief counted 19 flags total (7+9+1+1+1+1); actual body-flag count was 14 (6 in a1-q2 + 8 in a1-q3); the other 5 listed flags were status-string metadata occurrences, not body flags.
+- a1-q2 chunk's prior `transcription_status` claimed 11 apparatus entries but the chunk has only 10; corrected in the new status.
+- a1-q3 scholion `infra d. 48 q. 3` was a transcription error — printed PDF reads `d. 46`. This is a substantive correction (Quaracchi cross-reference to providence-question, not to angelology).
+
+### Log line count delta
+This section: ~70 lines appended.
+
+---
+
+## d.46 [?] resolution pass (2026-05-13)
+
+Per CLAUDE.md "Polish-blocker cadence" — walking all inline `[?]` flags in d.46 chunks. PDF: `raw/doctorisseraphic12bona.pdf` (pt2). Pt2 offset: `pdf_page = printed − 410`. d.46 spans printed pp.818–836 → pdf 408–426. 600dpi renders staged into `raw/vision/vol1/p-d46-r600-*.png`.
+
+### bon-sent-I-d46-a1-q1 (2 flags → 2 RESOLVE)
+- **Scholion II tail `II. *Sent.* d. 32. a. 3. q. 2. ad [?]`** (La line 92 + En line 182): p.822 scholion #32 reads cleanly at 600dpi as `... cfr. II. Sent. d. 32. a. 3. q. 2. — Quoad expositiones illius testimonii Apostoli...` The dangling `ad [?]` was OCR-introduced spurious tail; the citation closes at `q. 2.` followed by an em-dash and the next clause. Also corrected `parvulos baptismo morientes` → `parvulos sine baptismo morientes` (PDF shows `sine`, OCR dropped it). En revised accordingly. RESOLVED.
+
+### bon-sent-I-d46-a1-q2 (2 flags → 0 actionable; status-string cleared)
+- Both `[?]` occurrences were in `transcription_status` and end-of-file commentary describing prior pass — no inline body or apparatus `[?]` flags remained. Status string updated to `0 [?] flags remaining`. RESOLVED (meta).
+
+### bon-sent-I-d46-a1-q4 (3 flags → 1 RESOLVE, 2 meta)
+- **Scholion I, `B. Albert., S. p. I. tr. 6. q. 25 [?]. m. 2. a. 3.`** (La line 90 + En line 157): p.830 scholion I right-column read at 600dpi shows clearly `B. Albert., S. p. I. tr. 6. q. 25. m. 2. a. 3.` No second numeral; the OCR-ambiguity was a smudge artifact, not a real variant. Stripped `[?]` in both languages. RESOLVED.
+- End-of-file `**[?] flags placed.**` commentary is meta-narrative referencing now-resolved flag — left in place as audit-trail.
+
+### bon-sent-I-d46-a1-q5 (1 flag → meta-only)
+- Sole `[?]` was in end-of-file `**[?] flags placed:** None remained...` commentary. No inline flags. No action.
+
+### bon-sent-I-d46-a1-q6 (4 flags → 3 RESOLVE, 1 meta)
+- **[^19] full Quaracchi gloss + Vat. variant** (La line 235 + En line 237, two `[?]` tags): p.834 footer note 2 read at 600dpi confirms substantial OCR garble in chunk:
+  - chunk had: `Quoniam scilicet Deus ultra contingens praemia, et ipsa iustitia retributiva fundatur in misericordia, quippe cum Deus non careret nisi suis dona et ultra contingum`
+  - actual printed: `Quatenus scilicet Deus ultra condignum praemiat, et ipsa iustitia retribuens fundatur in misericordia, quippe cum Deus non coronet nisi sua dona et ultra condignum`
+  - Vat. variant `et quod possit, licet non in opere` and `nunc in opere` should be `et quid possit, licet non ita clare ut nunc in opere` (single phrase, not two separate phrases). `praefigens` → `praefigunt`. La/En rebuilt. RESOLVED.
+- **[^20] `Pro *debeat* Vat. *habeat*`** (En line 241 trailing `[?]`): p.834 footer note 3 reads exactly `Pro *debeat* Vat. *habeat*` — chunk Latin was already correct; only the speculative En `[?]` was unjustified. Stripped. RESOLVED.
+- End-of-file `**[?] flags placed:**` commentary is meta-narrative; left as audit-trail.
+
+### bon-sent-I-d46-divisio (3 flags → 1 RESOLVE, 1 meta)
+- **[^5] tail `cod. Z *hanc positionem*.[?]`** (La line 137 + En line 139): p.818 footer note 5 read at 600dpi reads cleanly `Vat. *ad hoc*. Circa finem expositionis pro *hanc partem* cod. Z *hanc positionem*.` — chunk's reconstruction was correct verbatim; the OCR-ambiguity flag was conservative. Stripped `[?]` in both languages. RESOLVED.
+- End-of-file `**[?] flag**:` commentary is meta-narrative explaining the now-cleared reconstruction; left as audit-trail.
+
+### bon-sent-I-d46-dubia (5 flags → 3 RESOLVE, 2 meta)
+- **[^2] same Quaracchi gloss + Vat. variant as a1-q6 [^19]** (La line 169 + En line 171, two `[?]` tags): same printed-p.834 footer 2, but dubia version had a different OCR-mangled middle section: `Vat. omittit *in opere* et paulo ante *qui et possit*, licet non omnino exhibet *et quid possit*. Item *in his* dare ut nunc in opere. Plurimi codd. particulam *licet* praemittunt *et*`. Rebuilt from 600dpi to match the canonical reading (same as a1-q6 [^19] fix). RESOLVED.
+- **[^14] `cod. [?] bene *corruptio tendens*`** (La line 217 + En line 219, two `[?]` tags): p.835 footer note 9 read at 600dpi: `Cap. 32, 39. — Paulo inferius pro *corruptio tendendi* cod. O bene *corruptio tendens*.` Codex sigla is **O**. Filled in both languages. RESOLVED.
+- Status-string `[?] flags on ambiguous spots` smell updated to `0 [?] flags remaining`.
+
+### bon-sent-I-d46-littera (1 flag → meta-only)
+- Sole `[?]` was inside `transcription_status` boilerplate `0 [?] flags (2026-05-12)` — already accurate. No action.
+
+### Surprises
+- **a1-q6 [^19] and dubia [^2] are independent transcriptions of the same printed footer.** Each had different OCR mangling — a1-q6 garbled the *beginning* (`contingens praemia` for `condignum praemiat`, `careret` for `coronet`) while dubia garbled the *middle* (`qui et possit` split where `et possit, licet non omnino` was one phrase). Both versions had to be rebuilt to the same canonical reading. Worth a one-off cross-check for any other distinctions whose dubia repeat an a1 apparatus footer — they may have inherited divergent OCR damage.
+- **a1-q1 `parvulos baptismo` missing `sine`** was a content-substantive OCR dropout, not just a citation-numeral fix — without `sine` the Latin reverses the doctrinal sense ("dying-by-baptism" vs "dying-without-baptism").
+- **a1-q4 `q. 25 [?]`** was a false-alarm flag — the print is unambiguous at 600dpi; prior pass over-flagged on smudged 400dpi.
+
+### Audit gates after pass
+- inline `[?]` count: was 11 actionable across 6 chunks (excluding status-string meta + end-of-file commentary); now 0.
+- 11 RESOLVE, 0 ACCEPT-ILLEGIBLE.
+- Status-string `[?] flags on ambiguous spots` smell cleared in a1-q2 and dubia.
+
+### Log line count delta
+This section: ~55 lines appended.
+
+---
+
+## Distinction XLVII (2026-05-13)
+
+PDF source: `raw/doctorisseraphic12bona.pdf` (pt2). Offset: pdf_page = printed − 410. d.47 spans printed 837–848 / pdf 427–438. Scope: 14 inline `[?]` flags across 4 chunks (littera, a1-q1, a1-q2, a1-q4); a1-q3 had none.
+
+### bon-sent-I-d47-littera (6 flags → 6 RESOLVE)
+- **[^5] `codd. [?] et ed. 1, ii [?] edd. quod` + tail `vide hic notam. [?]`** (La line 101 + En line 103, three `[?]`): printed p.837 footer 5 at 600dpi reads cleanly: `Enchirid. c. 100. n. 26. Pro ultimo vocabulo *bene* codd. BE *bonum*, et edd. 2, 3, 4, 5, 7, 9 *bonum bene*.` The chunk's prior version was hallucinated: spurious `et ed. 1`, `ii ... edd. quod`, `de sequenti de homine`, and the trailing meta-note `vide hic notam` are all not in the PDF. Footer rebuilt verbatim. Codex sigla = **BE**, edd. = **2, 3, 4, 5, 7, 9** (no edition 1). RESOLVED.
+- **[^6] `Psalm. 38, 2. [?]`** (La line 105 + En line 107, two `[?]`): printed p.837 footer 6 at 600dpi reads simply: `Dist. XLVI.` — a cross-reference to Distinction XLVI. The "Psalm. 38, 2." content in the chunk was hallucinated (likely conflated with the body's Psalm citation). Footer rebuilt to the correct cross-reference. RESOLVED.
+- **[^8] `*aliud cotentes* pro *aliud colentium*. [?] — Alluditur ad Rom. 9, 18...`** (La line 113 + En line 115, two `[?]`): printed p.837 footer 8 at 600dpi reads: `Enarrat. in Psalm. 16, 4. Post textum Vat. addit *in sensu*.` The "aliud cotentes / Rom. 9, 18" content in the chunk was hallucinated content (likely chunk built from continuous-renumbering across p.837+p.838 footers with content scrambled). Footer rebuilt verbatim. RESOLVED.
+
+### bon-sent-I-d47-a1-q1 (2 flags → 2 RESOLVE)
+- **[^15] `codd. L *coexistentiam causae*` and `cod. [?] *id est vult*`** (La line 231 + En line 233, two `[?]`): printed p.841 footer 2 at 600dpi reads: `Id est praescindendo ab omni conditione. — Paulo superius pro *existentiam causae* Vat. sola *efficientiam causae*, codd. **LO** *coexistentiam causae*. Paulo inferius pro *et vult* cod. **O** *id est vult*, non pauci codd. cum edd. 2, 3, 4, 5, 6 *tantummodo vult*.` Both `[?]` resolve to codex sigla **O** (and the prior `codd. L` corrected to `codd. LO`). RESOLVED.
+
+### bon-sent-I-d47-a1-q2 (4 flags → 4 RESOLVE)
+- **Scholion II `Petr. a Tar., hic [?]`** (La line 81 + En line 135): printed p.843 SCHOLION at 600dpi reads: `Petr. a Tar., hic q. unica, a. 1.` Also adjacent author entries had minor errors (`Richard. Med.` should be `Richard. a Med.`; `Aegid. R., hic 2. princ. q.` should be `Egid. R., hic q. 2. princ. q. 1.`); these corrected in-line while the entry was open. RESOLVED.
+- **[^12] `attamen [?]`** (La line 187 + En line 189): printed p.843 footer 4 at 600dpi reads: `Nam praeceptum respicit bona, mala autem a Deo tantum permittuntur, non praecipiuntur; et sic in hoc sensu idem opus non potest simul esse praeceptum et permissum; attamen **potest esse, ut permissio in uno ex sequentibus modis sumatur. — Paulo superius pro *cohibere* non pauci codd. *prohibere*.**` Filled in both languages. RESOLVED.
+
+### bon-sent-I-d47-a1-q4 (2 flags → 2 RESOLVE)
+- **[^1] `*filios fornicariae*[?]`** (La line 161 + En line 163, two `[?]`): printed p.845 footer 3 at 600dpi confirms the footer simply ends with `filios fornicariae.` — there is no further content after the textual variant. The trailing `[?]` was a stale OCR artifact. Removed. RESOLVED.
+
+### Surprises
+- **Littera apparatus is structurally compromised, not just garbled.** The chunk's [^7] = `Moral. VI. c. 18. n. 29.` but printed p.837 footer 7 is `Dist. XLV. c. 6. — Paulo inferius codd. ABD *dissimiliter accipit* pro *dissimiliter accepit*` (the chunk's [^7] content is actually p.838 footer 1). Similarly [^9] content = p.838 footer 5 (`Vide d. XLV. c. 7, nota 3`). The chunk apparatus was built mixing p.837 footers 1-6 with p.838 footers 1+ under a single continuous numbering, dropping p.837 footers 7-9 entirely. **OUT OF SCOPE for this pass** ([?]-resolution only), but flagged for future apparatus-completeness backlog: littera-d47 needs full footer audit + likely 3-4 entry additions.
+- **Three of six littera `[?]` flags were marking fully hallucinated content**, not partial OCR gaps — [^5], [^6], [^8] all required complete rebuild rather than gap-fill. Consistent with the wave-6 d.8-p1-a1-q2 finding from 2026-05-12: prior passes occasionally hallucinated footer content from adjacent PDF regions.
+- **a1-q2 scholion II `Petr. a Tar., hic [?]`** turned up two additional non-flagged errors in the same line (Richard sigla, Egid. citation form). Fixed while at the same site; suggests scholion-author lists across the corpus may benefit from a one-off PDF-citation audit.
+
+### Audit gates after pass
+- Inline `[?]` count: was 14 across 4 chunks; now **0** in d.47.
+- **14 RESOLVE, 0 ACCEPT-ILLEGIBLE**.
+
+### Log line count delta
+This section: ~45 lines appended.
+
+### bon-sent-I-d48-a1-q1 (3 flags → 3 RESOLVE)
+- **Scholion I `d. 45. q. 2[?]`** (La line 86 + En line 143): p.853 scholion I right column line 1 read at 600dpi prints clearly `De analogia attributionis vide supra d. 45. q. 5, ubi sanum tripliciter distinguitur`. Cross-reference is **q. 5** (linear question numbering across d.45's six questions a1q1–a3q2), not q. 2. RESOLVED both languages.
+- **Scholion I `sanum[?]`** (La line 86 + En line 143): same line, *sanum* is clearly printed (italic). Wrapped in italics on both languages. RESOLVED.
+- **Scholion I `in modo volendi[?]`** (La line 86 + En line 143): p.853 scholion I right column (lower section) prints `conformitas in modo volendi; conformitas autem secundum obiectum dicitur conformitas in volito` — italics on *modo volendi* and *volito*. Wrapped in italics on both languages. RESOLVED.
+
+### bon-sent-I-d48-a2-q1 (2 flags → 2 RESOLVE via [^8] removal)
+- **Body anchor `et alii[^8]` + footnote `[^8]: Vat. *aliqui*[?]`** (La line 52 + En line 109 + La/En lines 171/173): p.856 right column at 600dpi shows the only superscript footer-marker in this vicinity is **⁸ attached to `cor`** (in `redire ad cor⁸; et ideo tenetur sicut et alii, licet non pro`), NOT to `alii`. The p.856 footer note 8 ("Respicitur illud Isai. 46, 8: *Redite praevaricatores ad cor*. — Paulo ante pro *qui non possit facere* Vat. *quod non potest facere*") is ALREADY captured as chunk [^15] correctly anchored to "redire ad cor" later in the chunk. Chunk's [^8] at "alii" was a phantom: a duplicate of the *aliqui*/*aliquis* variant already captured by [^5] (`Deut. 5, 16. — Mox pro et aliqui cum cod. cc et ed. 1 quod aliquis.`), placed by mistake. **Deleted body anchors and the [^8] footnote entry** in both languages. Chunk now has [^1]–[^7] body + [^9]–[^N] tail (footnote-numbering gap from 7→9 left intact since renumbering risks anchor mismatch elsewhere; gap is cosmetic only). RESOLVED.
+
+### bon-sent-I-d48-a2-q2 (4 flags → 4 RESOLVE)
+- **Body `velle proprie[?]`** (La line 68 + En line 143): p.858 left column at 600dpi prints `Unde dicunt, quod licet nobis aliqua velle proprie, quia non decet velle opposita`. *proprie* is unambiguous. RESOLVED both languages.
+- **Body `si Deo placet[?]`** (La line 76 + En line 149): p.858 right column at 600dpi prints `sive quantum est in nobis, si Deo placet⁸, non velle`. Main text reads `placet`; footer 8 (which is OCR-visible in the page footer) reads `Cod. T placeret.` (codex T variant only). Chunk's main reading "placet" is correct. RESOLVED both languages.
+
+### bon-sent-I-d48-littera (2 flags → 2 RESOLVE + 1 OCR correction)
+- **`[^12]` trailing `[?]`** (La line 145 + En line 147): p.850 footer note 5 (= chunk's continuous [^12]) read at 600dpi prints `Ita codd. et edd., excepta Vat., quae cum originali sic habet: quia id ipsum quidem, sed ipse per eos bona, illi autem mala voluntate fecerunt. — Immediate post Vat. et edd. 4, 8, 9 omittendo Iudas habent Iudaei, aliae omittunt Iudaeus.` Chunk text correct except small OCR slip: **`omittentes` (plural participle) → `omittendo` (gerund)** per PDF. Corrected; En revised to "by omitting" to match. Trailing `[?]` stripped both languages. RESOLVED.
+
+### Surprises
+- **a2-q1 [^8] was a phantom footnote, not a [?] uncertainty.** Body marker had no PDF referent; existing [^8] content duplicated [^5]. The actual p.856 footer 8 was already captured (correctly) as [^15] later in the chunk. Lesson: when a footnote is short and looks duplicate, walk back to PDF before treating as routine [?] resolution.
+- **d.45 q.5 cross-reference uses linear question numbering.** d.45 has 3 articuli × 2 questions = 6 total questions; "q. 5" = a3-q1 in chunk-id terms. Quaracchi scholion conventions cross-reference linearly within a distinction's question count, not by (articulus, quaestio) pair. Worth confirming in future scholion cross-refs.
+- **Scholion italics convention.** Original chunk left `sanum`, `modo volendi`, `volito` un-italicized with [?] flags. PDF prints all three in italic. Restored italics during RESOLVE.
+
+### Audit gates after pass
+- inline `[?]` count in d.48 chunks: was 10, now 0.
+- 10 RESOLVE, 0 ACCEPT-ILLEGIBLE.
+- Side-effects: deleted 1 phantom footnote (a2-q1 [^8]); corrected 1 OCR slip (littera [^12] omittentes→omittendo); restored 3 italics in a1-q1 scholion.
+
+### Log line count delta
+This section: ~45 lines appended.

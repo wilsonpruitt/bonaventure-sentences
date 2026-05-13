@@ -15,7 +15,7 @@ has_scholion: true
 has_apparatus: true
 line_start: 36126
 line_end: 36299
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 36126–36299), fresh literal English translation, apparatus from raw OCR (11 entries: 2 on p.783 picking up the Q.II portion of the p.783 footer + 8 on p.784 + 1 cross-ref accepted for p.785 markers), scholion (I–II) translated, [?] flags on three p.785 footer anchors whose footer text falls outside the OCR range (2026-05-13)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 36126–36299), fresh literal English translation, apparatus from raw OCR (10 entries: 2 on p.783 picking up the Q.II portion of the p.783 footer + 8 on p.784); three p.785-top footer anchors for the Q.II Ad-2/3/4 markers accepted as ACCEPT-ILLEGIBLE in d.44 polish pass (body Latin verified against 600dpi p.785 render, but Q.II footer column on p.785 is heavily column-broken in OCR and the marker-footnote bodies are not cleanly recoverable without a full p.785-Q.II-footer rebuild — d44 polish 2026-05-13)"
 format_version: 1
 ---
 
@@ -71,11 +71,11 @@ Ex his patent rationes inductae ad primam partem; procedunt enim de proprietatib
 
 <!-- page 785 -->
 
-non facit, quod hoc[?] iudicatur invidia, et frequenter dimittit propter invidiam, et qui caret invidia e converso facit; sic Deus carens invidia fecit; et sic intelligitur verbum Augustini.
+non facit, quod hoc iudicatur invidia, et frequenter dimittit propter invidiam, et qui caret invidia e converso facit; sic Deus carens invidia fecit; et sic intelligitur verbum Augustini.
 
-*Ad 3.* Ad illud quod obiicitur, quod agens ex tota potentia producit optime: dicendum, quod agens ex tota potentia quidam agit secundum impetum, quidam secundum artem et sapientiam. Et qui secundum impetum agit facit quanto melius potest; qui agit secundum artem et sapientiam agit quantum vult et quantum congruit, salvo ordine, quia « sapientis est ordinare[?] ». Ideo quaedam facit bona, quaedam meliora, quaedam optima. Et sic patet, quod illud non sequitur.
+*Ad 3.* Ad illud quod obiicitur, quod agens ex tota potentia producit optime: dicendum, quod agens ex tota potentia quidam agit secundum impetum, quidam secundum artem et sapientiam. Et qui secundum impetum agit facit quanto melius potest; qui agit secundum artem et sapientiam agit quantum vult et quantum congruit, salvo ordine, quia « sapientis est ordinare ». Ideo quaedam facit bona, quaedam meliora, quaedam optima. Et sic patet, quod illud non sequitur.
 
-*Ad 4.* Ad illud quod obiicitur, quod bonum summum summe se diffundit; dicendum, quod hoc verum est de diffusione naturali, de voluntaria sive a proposito[?] non est verum. Primo modo est diffusio in productione personarum, secundo modo in productione creaturarum.
+*Ad 4.* Ad illud quod obiicitur, quod bonum summum summe se diffundit; dicendum, quod hoc verum est de diffusione naturali, de voluntaria sive a proposito non est verum. Primo modo est diffusio in productione personarum, secundo modo in productione creaturarum.
 
 ### Scholion
 
@@ -132,11 +132,11 @@ From these things the reasons brought forward to the first part are clear; for t
 
 <!-- page 785 -->
 
-does not, [in which case] this[?] is judged envy, and he often refrains on account of envy, and one who lacks envy does the opposite; so God, lacking envy, made [things]; and so is Augustine's word to be understood.
+does not, [in which case] this is judged envy, and he often refrains on account of envy, and one who lacks envy does the opposite; so God, lacking envy, made [things]; and so is Augustine's word to be understood.
 
-*Ad 3.* To that which is objected, that an agent [acting] from its whole power produces in the best way: it must be said that an agent [acting] from its whole power acts in one of two ways: some act according to impulse, some according to art and wisdom. And he who acts according to impulse makes [a thing] as good as he can; he who acts according to art and wisdom acts as much as he wills and as much as is fitting, with order preserved, since « it belongs to the wise man to set things in order[?] ». Therefore he makes some things good, some better, some best. And thus it is clear that this does not follow.
+*Ad 3.* To that which is objected, that an agent [acting] from its whole power produces in the best way: it must be said that an agent [acting] from its whole power acts in one of two ways: some act according to impulse, some according to art and wisdom. And he who acts according to impulse makes [a thing] as good as he can; he who acts according to art and wisdom acts as much as he wills and as much as is fitting, with order preserved, since « it belongs to the wise man to set things in order ». Therefore he makes some things good, some better, some best. And thus it is clear that this does not follow.
 
-*Ad 4.* To that which is objected, that the supreme good supremely diffuses itself: it must be said that this is true of natural diffusion; of voluntary or purposeful [diffusion][?] it is not true. In the first mode the diffusion is in the production of [the divine] persons; in the second mode, in the production of creatures.
+*Ad 4.* To that which is objected, that the supreme good supremely diffuses itself: it must be said that this is true of natural diffusion; of voluntary or purposeful [diffusion] it is not true. In the first mode the diffusion is in the production of [the divine] persons; in the second mode, in the production of creatures.
 
 ### Scholion
 

@@ -242,9 +242,9 @@ Likewise, it is asked concerning what he says, that *he commanded Abraham to sac
 
      **En.** What the Holy Doctor brings forward here for the resolution of this doubt plainly agrees with what he taught above at d. 41, a. 1, q. 2 concerning the cause and reason of predestination. — In agreement with the Holy Doctor's solution are Alexander of Hales, *Summa* p. I. q. 35. m. 3; Scotus, *On the Principles of Things* q. 4. a. 2. n. 20; Bl. Albert, here a. 7; St. Thomas, *S.* I, q. 19, a. 5; Peter of Tarentaise, here q. 2, a. 3, and in the exposition of the text; and Richard of Mediavilla, here a. 2, q. 4, and in his commentary on the text.
 
-[^9]: **La.** Vide supra pag. 795, nota 3. — Paulo inferius pro *Magister* Vat. *materia*. [?]
+[^9]: **La.** Vide supra pag. 795, nota 5. — Paulo inferius pro *Magister* Vat. *materia*.
 
-     **En.** See above p. 795, note 3. — A little below, for *Magister* the Vatican has *materia*. [?]
+     **En.** See above p. 795, note 5. — A little below, for *Magister* the Vatican has *materia*.
 
 [^10]: **La.** Pro *aliquam* non pauci codd. *a materia*; perperam.
 
@@ -282,9 +282,9 @@ Likewise, it is asked concerning what he says, that *he commanded Abraham to sac
 
      **En.** On this doubt cf. Bl. Albert, here a. 10, and Richard of Mediavilla, here in his commentary on the text.
 
-[^19]: **La.** Pro *ira* plurimi codd. cum primis edd. *ire*. [?]
+[^19]: **La.** Pro *ira* plurimi codd. cum primis edd. *iter*. Mox pro *nec irascibilis* Vat. *iis irascibilis*. — De quaestione, utrum in Deo recipienda sit vis *irascibilis*, cfr. supra d. 10. a. 1. q. 2. ad 1., et ibid. Scholion, num. II.
 
-     **En.** For *ira*, very many codd. with the early editions [read] *ire*. [?]
+     **En.** For *ira*, very many codd. with the early editions [read] *iter*. Next, for *nec irascibilis* the Vatican [reads] *iis irascibilis*. — On the question whether the power of the *irascible* is to be admitted in God, cf. above d. 10 a. 1 q. 2 ad 1, and *Scholion* there, num. II.
 
 [^20]: **La.** Vat. cum cod. cc *manifestare*.
 

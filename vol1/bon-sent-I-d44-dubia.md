@@ -14,7 +14,7 @@ line_end: 37121
 word_count_latin: 1180
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 36952–37121 of pt2; consolidates the spurious auto-chunker p1/p2 split — d.44 has only one dubia block of four DUB. units spanning pp.792–794, with the small tail of DUB. IV spilling onto p.794 before DISTINCTIO XLV at line 37122), fresh literal English translation, apparatus from raw OCR (17 entries: p.792 notes 1–7 + p.793 notes 1–10; p.794 footer belongs to d.45), [?] flags on ambiguous spots (2026-05-13)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 36952–37121 of pt2; consolidates the spurious auto-chunker p1/p2 split — d.44 has only one dubia block of four DUB. units spanning pp.792–794, with the small tail of DUB. IV spilling onto p.794 before DISTINCTIO XLV at line 37122), fresh literal English translation, apparatus from raw OCR (17 entries: p.792 notes 1–7 + p.793 notes 1–10; p.794 footer belongs to d.45); 0 body [?] flags after d.44 polish 2026-05-13"
 format_version: 1
 ---
 

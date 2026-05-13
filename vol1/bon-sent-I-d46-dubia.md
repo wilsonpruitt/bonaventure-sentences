@@ -14,7 +14,7 @@ line_end: 41536
 word_count_latin: 1480
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 41298–41536 of pt2) cross-checked against 400 dpi PDF renders for pp.834–836 because the raw OCR for d.46-dubia is heavily two-column-garbled, fresh literal English translation, apparatus from raw OCR + PDF footer reads (24 entries: p.834 notes 1–5 + p.835 notes 1–8 + p.836 notes 1–11), [?] flags on ambiguous spots (2026-05-12)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 41298–41536 of pt2) cross-checked against 400 dpi PDF renders for pp.834–836 because the raw OCR for d.46-dubia is heavily two-column-garbled, fresh literal English translation, apparatus from raw OCR + PDF footer reads (24 entries: p.834 notes 1–5 + p.835 notes 1–8 + p.836 notes 1–11), 0 [?] flags remaining after d.46 polish pass (2026-05-13)"
 format_version: 1
 ---
 
@@ -166,9 +166,9 @@ And so what is objected — that truth is appropriated to the Son — is plain: 
 
      **En.** Namely, *silence and sleep*. — In the Vatican and cod. cc the words *non est simile, quia* are wanting.
 
-[^2]: **La.** Quatenus scilicet Deus ultra condignum praemiat, et ipsa iustitia retribuens fundatur in misericordia, quippe cum Deus non coronet nisi sua dona et ultra condignum. — Vat. omittit *in opere* et paulo ante *qui et possit*, licet non omnino exhibet *et quid possit*. Item *in his* dare ut nunc in opere. Plurimi codd. particulam *licet* praemittunt *et*. [?]
+[^2]: **La.** Quatenus scilicet Deus ultra condignum praemiat, et ipsa iustitia retribuens fundatur in misericordia, quippe cum Deus non coronet nisi sua dona et ultra condignum. — Vat. omittit *in opere* et paulo ante pro *et possit, licet non omnino* exhibet *et quid possit, licet non ita clare ut nunc in opere*. Plurimi codd. particulae *licet* praefigunt *et*.
 
-     **En.** That is, inasmuch as God rewards beyond what is fitting, and the very justice that repays is founded upon mercy, since indeed God crowns nothing except his own gifts and beyond what is fitting. — The Vatican omits *in opere* and, a little before, *qui et possit*, although it does not entirely exhibit *et quid possit*. Likewise *in his* "to give as now in work". Very many codd. prefix the particle *licet* before *et*. [?]
+     **En.** Inasmuch as God rewards beyond what is fitting, and the very justice that repays is founded upon mercy, since indeed God crowns nothing except his own gifts and beyond what is fitting. — The Vatican [edition] omits *in opere* ("in the work"), and a little before, for *et possit, licet non omnino* ("and is able, although not entirely") exhibits *et quid possit, licet non ita clare ut nunc in opere* ("and what would be possible, although not so clearly as now in the work"). Very many codices prefix to the particle *licet* [the word] *et*.
 
 [^3]: **La.** Pro *debeat* Vat. *habeat*.
 
@@ -214,9 +214,9 @@ And so what is objected — that truth is appropriated to the Son — is plain: 
 
      **En.** *Enchiridion* c. 2 ff.: «*But the wisdom of man is piety. You have this in the book of holy Job* (28:28); *for there it is read that Wisdom herself said to man: Behold, piety is wisdom* [Vulgate: *Behold, the fear of the Lord, that itself is wisdom*; Septuagint: *Behold, the worship of God is wisdom*]. *But if you ask what he there called piety, more distinctly in the Greek you will find* θεοσέβεια, *which is the worship of God... Here, if I should reply that God is to be worshiped by faith, hope, and charity, you will certainly be about to say*» etc. The same is said in the book *On the Spirit and the Letter*, c. 11, n. 18, and *de Trin.* XII, c. 14, n. 22, and XIV, c. 1, n. 1 ff., where also the various opinions are touched on which are placed under the term *sapientia* in the preceding, nor is it less suggested in what way *sapientia* differs from *scientia*; on which cf. Aristotle, *Metaph.* I, c. 1-2, and *Ethic.* VI, c. 2-8. — This doubt is also resolved by St. Thomas, here in his commentary on the text.
 
-[^14]: **La.** Cap. 32, 39. — Paulo inferius pro *corruptio tendendi* cod. [?] bene *corruptio tendens*.
+[^14]: **La.** Cap. 32, 39. — Paulo inferius pro *corruptio tendendi* cod. O bene *corruptio tendens*.
 
-     **En.** Chap. 32:39. — A little below, for *corruptio tendendi* cod. [?] rightly has *corruptio tendens*. [?]
+     **En.** Chap. 32:39. — A little below, for *corruptio tendendi* cod. O rightly has *corruptio tendens*.
 
 [^15]: **La.** Libr. IV. *de Consol.* prosa 2. — Paulo inferius pro *Et ad illud Deus non deducit* codd. aa bb *Et ad illud [non?] esse, quod huic esse opponitur, Deus non deducit*.
 

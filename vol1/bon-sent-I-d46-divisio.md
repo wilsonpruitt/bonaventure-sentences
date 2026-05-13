@@ -134,9 +134,9 @@ For the understanding of what the Master determines in the present distinction, 
 
     **En.** The Vatican edition [reads] *responsiones* ("responses").
 
-[^5]: **La.** Vat. *ad hoc*. Circa finem expositionis pro *hanc partem* cod. Z *hanc positionem*.[?]
+[^5]: **La.** Vat. *ad hoc*. Circa finem expositionis pro *hanc partem* cod. Z *hanc positionem*.
 
-    **En.** The Vatican edition [reads] *ad hoc* ("for this"). Near the end of the exposition, in place of *hanc partem* ("this part") codex Z [reads] *hanc positionem* ("this position").[?]
+    **En.** The Vatican edition [reads] *ad hoc* ("for this"). Near the end of the exposition, in place of *hanc partem* ("this part") codex Z [reads] *hanc positionem* ("this position").
 
 ---
 

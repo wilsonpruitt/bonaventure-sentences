@@ -49,7 +49,7 @@ Quod autem teneamur in ratione volendi, videtur.
 
 3. Item, si tenemur conformare in ratione volendi, cum ergo vir peccator habeat voluntatem a Deo continue in hoc deficientem, quia non habet caritatem: ergo continue in omni instanti peccat.
 
-4. Item, nullus potest conformare voluntatem suam divinae in ratione volendi, nisi habeat caritatem; sed non est in nostra potestate habere caritatem[^7]: ergo homo tenetur ad impossibile. Si dicas, quod potest facere, quo facto habebit caritatem, quia potest se disponere ad caritatem; obiicitur de obstinato, et de eo qui actualiter est in peccato: dum peccat et est in actu illo, non potest se conformare: ergo non tenetur. Quodsi non tenetur, et alii[^8] tenentur, reportat commodum de malitia; quodsi hoc non est conveniens, nulli ergo tenentur.
+4. Item, nullus potest conformare voluntatem suam divinae in ratione volendi, nisi habeat caritatem; sed non est in nostra potestate habere caritatem[^7]: ergo homo tenetur ad impossibile. Si dicas, quod potest facere, quo facto habebit caritatem, quia potest se disponere ad caritatem; obiicitur de obstinato, et de eo qui actualiter est in peccato: dum peccat et est in actu illo, non potest se conformare: ergo non tenetur. Quodsi non tenetur, et alii tenentur, reportat commodum de malitia; quodsi hoc non est conveniens, nulli ergo tenentur.
 
 ### Conclusio.
 
@@ -106,7 +106,7 @@ That we are bound [to conform it] in the manner of willing, is shown.
 
 3. Likewise, if we are bound to conform in the manner of willing, since a sinful man has a will continually deficient from God in this respect — because he does not have charity — therefore he sins continually in every instant.
 
-4. Likewise, no one can conform his will to the divine in the manner of willing unless he have charity; but to have charity is not in our power[^7]: therefore man is bound to the impossible. If you say that he can do that which, once done, he will have charity, because he can dispose himself to charity; the objection is raised concerning the obstinate man, and concerning him who is actually in sin: while he sins and is in that act, he cannot conform himself: therefore he is not bound. And if he is not bound, while others[^8] are bound, he reaps an advantage from his malice; and if this is not fitting, then no one is bound.
+4. Likewise, no one can conform his will to the divine in the manner of willing unless he have charity; but to have charity is not in our power[^7]: therefore man is bound to the impossible. If you say that he can do that which, once done, he will have charity, because he can dispose himself to charity; the objection is raised concerning the obstinate man, and concerning him who is actually in sin: while he sins and is in that act, he cannot conform himself: therefore he is not bound. And if he is not bound, while others are bound, he reaps an advantage from his malice; and if this is not fitting, then no one is bound.
 
 ### Conclusion.
 
@@ -168,9 +168,6 @@ If, however, you ask what the place and time are; unction[^16] teaches this bett
 
     **En.** For charity itself is not from us, but from God through the Holy Spirit, who pours it forth in our hearts (Rom. 5:5). Cf. Augustine, *On Grace and Free Will*, c. 18, n. 37 ff. — A little further down, after *potest facere*, the Vatican edition, without the authority of the codices, adds *quod in se est*.
 
-[^8]: **La.** Vat. *aliqui*[?]
-
-    **En.** The Vatican edition reads *aliqui*[?] [for *alii*].
 
 [^9]: **La.** Pro *ut si velimus aliquid, velimus ex caritate* plures codd. cum ed. 1 et Vat. *ut scilicet velimus ex caritate*, quam lectionem correximus ex codd. R T Z aa, suffragantibus aliqua ex parte etiam codd. A S, qui etiam pro *scilicet*, quod in Vat. legitur, exhibent *si*, etsi deinde post primum *velimus* omittunt *aliquid, velimus*.
 

@@ -13,7 +13,7 @@ pdf_pages: [358, 359, 360, 361]
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 768–771"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 34614–34911), fresh literal English translation, apparatus from raw OCR (23 entries: 8 p.768 + 8 p.769 + 7 p.770), Scholion I (p.770) + Scholion II (p.771) translated, [?] flags on ambiguous spots (2026-05-13). NOTE: brief specified raw line_start 34705 (page 769 running head); semantic QUAESTIO II header is at raw line 34614 with body beginning on printed p.768. Used 34614 to preserve arguments 1–6 (fundamenta + sed-contra 1–3) which print on p.768 — chunk would otherwise be content-incomplete. q1 frontmatter currently shows line_end: 34704, which overlaps QUAESTIO II header at 34614 — scope finding logged, not actioned per task constraint."
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 34614–34911), fresh literal English translation, apparatus from raw OCR (23 entries: 8 p.768 + 8 p.769 + 7 p.770), Scholion I (p.770) + Scholion II (p.771) translated; footer entries 6,7 reconstructed against 600dpi p.770 (2026-05-13). NOTE: brief specified raw line_start 34705 (page 769 running head); semantic QUAESTIO II header is at raw line 34614 with body beginning on printed p.768. Used 34614 to preserve arguments 1–6 (fundamenta + sed-contra 1–3) which print on p.768 — chunk would otherwise be content-incomplete. q1 frontmatter currently shows line_end: 34704, which overlaps QUAESTIO II header at 34614 — scope finding logged, not actioned per task constraint."
 line_start: 34614
 line_end: 34911
 format_version: 1
@@ -264,10 +264,10 @@ the infinite is said in matter and in the genus of substance and in the other ge
 
       **En.** Namely, the proposition. — Somewhat below, in place of *Secundo modo est finitus*, several codd. wrongly [read] *Secundo modo est infinitus*. Toward the end of the solution before *non excedit* we have inserted *si*, on the authority of codd. A R T. — Cf. above d. 19, p. I, q. 1, ad 3.
 
-[^22]: **La.** Id est, quia comprehendens completur et satiatur. Cfr. supra d. 1. a. 3. q. 2. ad 2. — Vat. cum nonnullis codd. *quin lyrjirilur res secundum suam quantitatem, quiescit quamvis ultra non attingat*[?]. Alii codd. (III. n. pauci) sic: *quin perficitur res, requiescit, quamvis etc.* Nostra lectio, quae est receptior, descripta est ex codd. R O.
+[^22]: **La.** Id est, quia comprehendens completur et satiatur. Cfr. supra d. 1. a. 3. q. 2. ad 2. — Vat. cum nonnullis codd. *quin perficitur res secundum suam capacitatem, quiescit, quamvis ultra non attingat*. Alii codd. non pauci sic: *quin perficitur res, requiescit, quamvis etc.* Nostra lectio, quae est receptior, descripta est ex codd. R O.
 
-      **En.** That is, because the one comprehending is completed and satiated. Cf. above d. 1, a. 3, q. 2, ad 2. — The Vatican ed. with some codd. [reads] *quin lyrjirilur[?] res secundum suam quantitatem, quiescit quamvis ultra non attingat*. Other codd. (3, that is, few) thus: *quin perficitur res, requiescit, quamvis etc.* Our reading, which is the more received, has been transcribed from codd. R O.
+      **En.** That is, because the one comprehending is completed and satiated. Cf. above d. 1, a. 3, q. 2, ad 2. — The Vatican ed. with some codd. [reads] *quin perficitur res secundum suam capacitatem, quiescit, quamvis ultra non attingat*. Other codd. not a few thus: *quin perficitur res, requiescit, quamvis etc.* Our reading, which is the more received, has been transcribed from codd. R O.
 
-[^23]: **La.** In poste[?] Vat. cum cod. cc *potentia*. Paulo post pro *unde etsi* exhibent multi codd. *Unde si dicatur*; incongrue.
+[^23]: **La.** Pro *posito* Vat. cum cod. cc *potentia*. Paulo post pro *unde etsi videatur* multi codd. *Unde si dicatur*; incongrue.
 
-      **En.** *In poste*[?] [OCR ambiguous] the Vatican ed. with codex cc [reads] *potentia*. A little later, in place of *unde etsi*, many codd. display *Unde si dicatur*; incongruously.
+      **En.** In place of *posito* the Vatican ed. with codex cc [reads] *potentia*. A little later, in place of *unde etsi videatur*, many codd. display *Unde si dicatur*; incongruously.

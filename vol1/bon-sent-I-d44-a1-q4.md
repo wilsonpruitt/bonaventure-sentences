@@ -16,7 +16,7 @@ has_apparatus: true
 line_start: 36503
 line_end: 36741
 word_count_latin: 2314
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 36503–36741 of pt2), fresh literal English translation, full apparatus from raw OCR (18 entries), scholion from OCR with [?] flags on ambiguous spots (2026-05-13)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 36503–36741 of pt2), fresh literal English translation, full apparatus from raw OCR (18 entries), scholion from OCR; 0 body [?] flags after d.44 polish 2026-05-13"
 format_version: 1
 ---
 

@@ -16,7 +16,7 @@ has_apparatus: true
 line_start: 39996
 line_end: 40237
 word_count_latin: 1620
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 39996–40237) with 400dpi PDF eyes-on confirmation of running heads (printed pp. 822–824 = pt2 PDF pp. 412–414), fresh literal English translation, full apparatus from raw OCR (15 entries spanning p.822 footer + p.823 footer + p.824 footer), scholion translated, [?] flags on a handful of OCR garbles where intent is contextually unambiguous but printed form is partly obscured (2026-05-12)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 39996–40237) with 400dpi PDF eyes-on confirmation of running heads (printed pp. 822–824 = pt2 PDF pp. 412–414), fresh literal English translation, full apparatus from raw OCR (15 entries spanning p.822 footer + p.823 footer + p.824 footer), scholion translated, 0 [?] flags remaining after d.46 polish pass (2026-05-13)"
 format_version: 1
 ---
 

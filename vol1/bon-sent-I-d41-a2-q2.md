@@ -16,7 +16,7 @@ line_end: 32013
 word_count_latin: 2156
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 31706–32013 of pt2), fresh literal English translation, full apparatus from raw OCR + 600dpi PDF verification (28 entries: 5 from p.738, 10 from p.739, 11 from p.740, 2 from p.741), scholion (I–II) from OCR with [?] flags on ambiguous spots (2026-05-12)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 31706–32013 of pt2), fresh literal English translation, full apparatus from raw OCR + 600dpi PDF verification (28 entries: 5 from p.738, 10 from p.739, 11 from p.740, 2 from p.741), scholion (I–II) from OCR; 1 ACCEPT-ILLEGIBLE remaining at [^16] (suunt/enum variant unresolvable at 600dpi); other [?] flags resolved (2026-05-13)"
 format_version: 1
 ---
 
@@ -210,7 +210,7 @@ or that one, so *verbum praesentis temporis* ("verb of the present tense") does 
 
 [^12]: **La.** Id est, prout sistit in se, sive, ut paulo inferius dicitur, prout *importat nudum intelligere*, meram scil. apprehensionem absque iudicio de veritate obiectiva cognitionis. Hoc modo Deus omnia cognoscit quae cognosci possunt, etiam omnia falsa et impossibilia. — Paulo inferius pro *praescientiam* non pauci codd. cum edd. 2, 3, 4, 5 *praescientiam.*
 
-     **En.** That is, insofar as it stands in itself, or — as is said a little below — insofar as it *imports bare understanding*, that is, a mere apprehension without judgment about the objective truth of the cognition. In this mode God knows all things which can be known, even all false and impossible things. — A little below, in place of *praescientiam* ("foreknowledge"), not a few codices with editions 2, 3, 4, 5 [read] *praescientiam* [sic — Quaracchi notes the same word in two acceptations] [?].
+     **En.** That is, insofar as it stands in itself, or — as is said a little below — insofar as it *imports bare understanding*, that is, a mere apprehension without judgment about the objective truth of the cognition. In this mode God knows all things which can be known, even all false and impossible things. — A little below, in place of *praescientiam* ("foreknowledge"), not a few codices with editions 2, 3, 4, 5 [read] *praescientiam* (Quaracchi prints the same word at both positions; the variant evidently lies in accentuation or in an underlying word-form not captured by spelling).
 
 [^13]: **La.** Graece προαιρετικόν (a προαιρείσθαι, de quo supra pag. 714, nota 3.) i. e. *electivum vel adhaesivum.* Verbum igitur *scire*, acceptum ut verbum *prohaereticum*, significat cognitionem cum electione sive adhaesione (assensu) relate ad rem cognitam, quatenus scil. simul iudicatur, rem cognitam esse veram, et *scire transit in actum extra* connotando *cogniti existentiam extra intellectum*. Cfr. supra d. 33. dub. 5, et d. XXXVIII. lit. Magistri, c. 1. — Cod. M verbo *prohaereticum* adiungit: *id est voluntarium, unde prohaeresis id est voluntas.*
 

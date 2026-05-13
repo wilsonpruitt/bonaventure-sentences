@@ -16,7 +16,7 @@ has_apparatus: true
 line_start: 36742
 line_end: 36951
 word_count_latin: 1180
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 36742–36951 of pt2; this chunk recovers ART. II QUAEST. UNIC. that the prior auto-chunker had dropped), fresh literal English translation, apparatus from raw OCR (19 entries), scholion translated, [?] flags on ambiguous spots (2026-05-13)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 36742–36951 of pt2; this chunk recovers ART. II QUAEST. UNIC. that the prior auto-chunker had dropped), fresh literal English translation, apparatus from raw OCR (19 entries), scholion translated; 0 body [?] flags after d.44 polish 2026-05-13"
 format_version: 1
 ---
 

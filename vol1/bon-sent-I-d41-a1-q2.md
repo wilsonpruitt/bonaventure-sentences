@@ -16,7 +16,7 @@ has_apparatus: true
 line_start: 31040
 line_end: 31494
 word_count_latin: 6875
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 31040–31494 of pt2) with 400dpi PDF page-images consulted to resolve two-column OCR row-interleaving, fresh literal English translation, full apparatus from raw OCR (page-by-page footer walk, ~50 entries spanning pp.731–736), scholion (I–IV) from OCR with [?] flags on ambiguous spots (2026-05-12)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 31040–31494 of pt2) with 400dpi PDF page-images consulted to resolve two-column OCR row-interleaving, fresh literal English translation, full apparatus from raw OCR (page-by-page footer walk, ~50 entries spanning pp.731–736), scholion (I–IV) from OCR; 0 [?] flags remaining (2026-05-13)"
 format_version: 1
 ---
 
@@ -134,7 +134,7 @@ Dionys. Carth. (hic q. 1. in fine) concludit: «*Quamvis autem positio Thomae si
 
 *III.* Verba in solut. ad 6: «*Propter quorum (bonorum) tamen praevisionem nec scio determinare*» etc. respicere videntur locum S. Augustini (83 Qq. q. 68. n. 4. apud Magistrum, hic c. 2.), de cuius sensu et tum temporis et magis a tribus saeculis plurimum disputatum est. Dicit igitur S. Augustinus quod voluntas Dei, qua *cuius vult miseretur, et quem vult indurat*, «*venit de occultissimis meritis*». Magister putat, S. Augustinum hoc saltem in suo simili retractasse, quod etiam S. Thomas (de Verit. q. 6. a. 2. ad 10.) refert, sed addit: «*Vel si debent sustineri, referendum est ad effectum reprobationis vel praedestinationis, quod habet aliquam causam meritoriam vel dispositivam*». Matth. ab Aquasparta, qui in quinta anecdota quaestione disputata: utrum praedestinatio habeat aliquam causam, omnino sequitur S. Bonaventuram, eundem textum explicat «*non de electione aeterna, sed de vocatis ad poenitentiam*».
 
-*IV.* Praeter iam citatos auctores: B. Albert., hic n. 3. 4. — Petr. a Tar., hic q. 2. a. 2, q. 3. a. 2. — Richard. a Med., hic a. 3. q. [?].[^31]
+*IV.* Praeter iam citatos auctores: B. Albert., hic n. 3. 4. — Petr. a Tar., hic q. 2. a. 2, q. 3. a. 2. — Richard. a Med., hic a. 3. q. 2.[^31]
 
 ---
 
@@ -245,7 +245,7 @@ Dionysius the Carthusian (here q. 1, at the end) concludes: «*Although, however
 
 *III.* The words in the solution ad 6: «*on account of the foresight of which (goods), however, I do not know how to determine*», etc., seem to regard the passage of St. Augustine (*83 Quaestiones* q. 68, n. 4, in the Master, here c. 2), of whose meaning much has been disputed both then and especially in [the last] three centuries. St. Augustine therefore says that the will of God, by which *he has mercy on whom he wills, and hardens whom he wills*, «*comes from most hidden merits*». The Master thinks that St. Augustine retracted this at least in his similar [passage], which St. Thomas (*De Verit.* q. 6, a. 2, ad 10) also reports, but he adds: «*Or, if they must be sustained, [the words] are to be referred to the effect of reprobation or predestination, which has some meritorious or dispositive cause*». Matthew of Aquasparta, who in the fifth posthumously published disputed question — *Whether predestination has any cause* — entirely follows St. Bonaventure, explains that same passage «*not of the eternal election, but of those called to penitence*».
 
-*IV.* Besides the authors already cited: B. Albert, here n. 3, 4. — Peter of Tarentaise, here q. 2, a. 2, q. 3, a. 2. — Richard of Mediavilla, here a. 3, q. [?].[^31]
+*IV.* Besides the authors already cited: B. Albert, here n. 3, 4. — Peter of Tarentaise, here q. 2, a. 2, q. 3, a. 2. — Richard of Mediavilla, here a. 3, q. 2.[^31]
 
 ---
 
@@ -371,6 +371,6 @@ Dionysius the Carthusian (here q. 1, at the end) concludes: «*Although, however
 
      **En.** Rom. 3:19. The words appended look back to Rom. 11:33: *How incomprehensible are his judgments!*
 
-[^31]: **La.** Praeter iam citatos auctores: B. Albert., hic n. 3. 4. — Petr. a Tar., hic q. 2. a. 2, q. 3. a. 2. — Richard. a Med., hic a. 3. q. [?] [OCR break — the page footer terminates here as the Scholion IV citation list is cut off mid-sentence before the start of Articulus II].
+[^31]: **La.** Praeter iam citatos auctores: B. Albert., hic n. 3. 4. — Petr. a Tar., hic q. 2. a. 2, q. 3. a. 2. — Richard. a Med., hic a. 3. q. 2.
 
-     **En.** Besides the authors already cited: B. Albert, here nn. 3, 4. — Peter of Tarentaise, here q. 2, a. 2; q. 3, a. 2. — Richard of Mediavilla, here a. 3, q. [?] [OCR break — the Scholion IV citation list is truncated mid-sentence at the end of p. 736 before the start of Articulus II].
+     **En.** Besides the authors already cited: B. Albert, here nn. 3, 4. — Peter of Tarentaise, here q. 2, a. 2; q. 3, a. 2. — Richard of Mediavilla, here a. 3, q. 2.

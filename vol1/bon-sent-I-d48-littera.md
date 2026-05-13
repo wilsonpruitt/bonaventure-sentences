@@ -142,9 +142,9 @@ Here ends the first book[^13]; the second begins.
 
      **En.** Loc. cit. — Reference is made to that event which is recounted in Acts 21, 10 and following.
 
-[^12]: **La.** Ita codd. et edd., excepta Vat., quae cum originali sic habet: *quia id ipsum quidem, sed ipse per eos bona, illi autem mala voluntate fecerunt*. — Immediate post Vat. et edd. 4, 8, 9 omittentes *Iudas* habent *Iudaei*, aliae omittunt *Iudaeus*. [?]
+[^12]: **La.** Ita codd. et edd., excepta Vat., quae cum originali sic habet: *quia id ipsum quidem, sed ipse per eos bona, illi autem mala voluntate fecerunt*. — Immediate post Vat. et edd. 4, 8, 9 omittendo *Iudas* habent *Iudaei*, aliae omittunt *Iudaeus*.
 
-     **En.** Thus the codices and editions, except the Vatican, which with the original has it thus: *quia id ipsum quidem, sed ipse per eos bona, illi autem mala voluntate fecerunt* ("because [they did] this same thing indeed, but he through them [did it] with a good will, [and] they with an evil will"). — Immediately after, the Vatican edition and editions 4, 8, 9, omitting *Iudas*, have *Iudaei*; the other [editions] omit *Iudaeus*. [?]
+     **En.** Thus the codices and editions, except the Vatican, which with the original has it thus: *quia id ipsum quidem, sed ipse per eos bona, illi autem mala voluntate fecerunt* ("because [they did] this same thing indeed, but he through them [did it] with a good will, [and] they with an evil will"). — Immediately after, the Vatican edition and editions 4, 8, 9, by omitting *Iudas*, have *Iudaei*; the others omit *Iudaeus*.
 
 [^13]: **La.** Ita cod. B; codd. A C E: *Hic finitur primus liber de mysterio Trinitatis; incipit liber secundus de rerum creatione et formatione corporalium et aliis pluribus* (deest in A) *eis pertinentibus*. In cod. D et in edd. haec rubrica paulo aliter exhibetur.
 

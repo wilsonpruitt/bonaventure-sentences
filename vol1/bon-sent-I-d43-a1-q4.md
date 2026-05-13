@@ -16,7 +16,7 @@ has_apparatus: true
 line_start: 35238
 line_end: 35379
 word_count_latin: 1327
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 35238–35379 of pt2), verified against 600dpi PDF renders of pp. 774–775 (pdf 364–365); fresh literal English translation; full apparatus from raw OCR (13 entries, p.774 footer = 8 entries, p.775 footer = 5 entries — all 5 of p.775's footer notes anchor in the body, none in the scholion); scholion (sections I–II) translated from OCR with [?] flags on ambiguous spots (2026-05-13)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 35238–35379 of pt2), verified against 600dpi PDF renders of pp. 774–775 (pdf 364–365); fresh literal English translation; full apparatus from raw OCR (13 entries, p.774 footer = 8 entries, p.775 footer = 5 entries — all 5 of p.775's footer notes anchor in the body, none in the scholion); scholion (sections I–II) translated from OCR; footer entry 2 reconstructed against 600dpi p.775 (2026-05-13)"
 format_version: 1
 ---
 
@@ -165,9 +165,9 @@ Therefore to what is then objected, that God can operate reasonably without thes
 
      **En.** [Quaracchi p.775 footer entry 1.] That is, [Peter] Abelard, whose opinion see in his *Introductio ad Theologiam*, Book III, n. 5. — Aristotle proposes a similar opinion, *Metaphysics* IX, text 5 (VIII, c. 3): «There are however certain ones, like the Megarics, who say that [someone] is then alone able [to do something] when he is acting; but when he is not acting, he is not able [to do it]: such as that one who is not building cannot build, but the one who is building [can build], when he is building».
 
-[^10]: **La.** *[Quaracchi p.775 footer entry 2.] Vat. cum cod. cc subiicit* etiam*, et mox post* Respectu *eadem incongrue ponunt* post id quod*. Locutionem subinde dictam* intellige illud quod decet divinam bonitatem*[?] sumta est ex Anselmo.*
+[^10]: **La.** [Quaracchi p.775 footer entry 2.] Vat. cum cod. cc subiicit *etiam*, et mox post *Respectu* Vat. inserit *enim*, quam particulam codd. et sex primae edd. incongrue ponunt post *accipitur*, quod paulo post sequitur. — Locutionem subinde occurrentem *divinam bonitatem condecentem* intellige illud quod decet divinam bonitatem, prout in se consideratam. Locutio ipsa sumta est ex Anselmo, Proslog. c. 10.
 
-     **En.** [Quaracchi p.775 footer entry 2.] The Vatican with codex cc subjoins *etiam*, and soon after *Respectu* the same [witnesses] incongruously place *post id quod*. The locution said hereafter, *understand that which befits the divine goodness*[?], is taken from Anselm. [Note: the OCR underlay for this footer entry is severely garbled, and the wording reconstructed here is provisional — see `manual-review/d41-d50-polish-resolution-log.md`.]
+     **En.** [Quaracchi p.775 footer entry 2.] The Vatican with codex cc subjoins *etiam*, and soon after *Respectu* the Vatican inserts *enim*, which particle the codd. and the first six editions incongruously place after *accipitur*, which follows a little later. — The locution occurring hereafter, *divinam bonitatem condecentem* ("befitting the divine goodness"), understand [as] *that which befits the divine goodness as considered in itself*. The locution itself is taken from Anselm, *Proslogion* c. 10.
 
 [^11]: **La.** *[Quaracchi p.775 footer entry 3.] Ed. 1 adiicit* Deus*, et dein cum cod. M (in marg.) pro* nihil etiam *habet* nulli etiam. *Loco* disponit*, quod verbis* nihil etiam *praecedit, cod. R* disposuit. *Mox pro* quando retribuit *codd. V X* quid retribuat. *Post* retribuit *Vat. interserit* quia. *Dein locutio* iustitia naturalis *non in sensu morali accipienda est, sed tantum ut circumlocutio quaedam explicativa pro* natura.
 

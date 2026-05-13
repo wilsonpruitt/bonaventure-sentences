@@ -98,21 +98,21 @@ From the foregoing it is clear, that the will of God, which is himself, is alway
 
      **En.** Codices A, B, C and editions 1, 6 (with *o* in the margin) [read] *gloriam* ("glory") [in place of *gratiam* "grace"].
 
-[^5]: **La.** Enchirid. c. 100. n. 26. Pro ultimo vocabulo *bene* codd. [?] et ed. 1, ii [?] edd. *quod*. — De sequenti *de homine*, et codd. 2, 3, 4, 5, 7, 9 *bonum bene*. — Pro Augustini, vide hic notam.
+[^5]: **La.** Enchirid. c. 100. n. 26. Pro ultimo vocabulo *bene* codd. BE *bonum*, et edd. 2, 3, 4, 5, 7, 9 *bonum bene*.
 
-     **En.** *Enchiridion*, c. 100, n. 26. In place of the final word *bene* ("well"), the codices [?] and ed. 1 [read] *bene*; the other editions *quod*. — Concerning the following *de homine*, codices 2, 3, 4, 5, 7, 9 [read] *bonum bene*. — As to Augustine, see the note here. [?]
+     **En.** *Enchiridion*, c. 100, n. 26. In place of the final word *bene* ("well"), the codices BE [read] *bonum*, and editions 2, 3, 4, 5, 7, 9 [read] *bonum bene*.
 
-[^6]: **La.** Psalm. 38, 2. [?]
+[^6]: **La.** Dist. XLVI.
 
-     **En.** Psalm 38, 2. [?]
+     **En.** Distinction XLVI.
 
 [^7]: **La.** Moral. VI. c. 18. n. 29. Codd. et edd., exceptis 7, 8, citant: *Gregorius super Genesim*. Textus tamen a Magistro non parum est mutatus.
 
      **En.** *Moralia* VI, c. 18, n. 29. The codices and editions, except 7 and 8, cite: *Gregory on Genesis*. The text however has been changed not a little by the Master.
 
-[^8]: **La.** Cap. 102. n. 26. In quo textu sola Vat. cum originali *aliud cotentes* pro *aliud colentium*. [?] — Alluditur ad illud Rom. 9, 18: *Ergo cuius vult miseretur, et quem vult indurat*.
+[^8]: **La.** Enarrat. in Psalm. 16, 4. Post textum Vat. addit *in sensu*.
 
-     **En.** Chapter 102, n. 26. In which text the Vatican edition alone, with the original, [reads] *aliud cotentes* in place of *aliud colentium* [?]. — Reference is made to that [passage] of Romans 9, 18: *Therefore he hath mercy on whom he wills, and whom he wills he hardens*.
+     **En.** *Enarrationes in Psalmos*, on Psalm 16, 4. After the text, the Vatican edition adds *in sensu* ("in [its] sense").
 
 [^9]: **La.** Vide d. XLV. c. 7, nota 3.
 

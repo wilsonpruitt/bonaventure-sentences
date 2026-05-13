@@ -232,13 +232,13 @@ As to the *first* annexed question, cf. Alexander of Hales, *Summa* p. I q. 18 m
 
      **En.** Namely *silence* and *sleep*. — In the Vatican [edition] and codex cc the word *nisi* ("unless") or a similar one, *quia* ("because"), is wanting.
 
-[^19]: **La.** Quoniam scilicet Deus ultra contingens praemia, et ipsa iustitia retributiva fundatur in misericordia, quippe cum Deus non careret nisi suis dona et ultra contingum. — Vat. omittit *in opere* et paulo ante pro *et possit, licet non omnino* exhibet *et quod possit, licet non in opere* et *nunc in opere*. Plurimi codd. particula *licet* praefigens *et*. [?]
+[^19]: **La.** Quatenus scilicet Deus ultra condignum praemiat, et ipsa iustitia retribuens fundatur in misericordia, quippe cum Deus non coronet nisi sua dona et ultra condignum. — Vat. omittit *in opere* et paulo ante pro *et possit, licet non omnino* exhibet *et quid possit, licet non ita clare ut nunc in opere*. Plurimi codd. particulae *licet* praefigunt *et*.
 
-     **En.** Namely because God [bestows] rewards beyond the contingent, and retributive justice itself is founded in mercy, inasmuch as God would not lack [anything] except [the giving of] his gifts beyond the contingent. — The Vatican [edition] omits *in opere* ("in the work"), and a little before, for *et possit, licet non omnino* ("and is able, although not entirely") exhibits *et quod possit, licet non in opere* and *nunc in opere*. Very many codices, prefixing the particle *licet* [add] *et*. [?]
+     **En.** Inasmuch as God rewards beyond what is fitting, and the very justice that repays is founded in mercy, since indeed God crowns nothing except his own gifts and beyond what is fitting. — The Vatican [edition] omits *in opere* ("in the work"), and a little before, for *et possit, licet non omnino* ("and is able, although not entirely") exhibits *et quid possit, licet non ita clare ut nunc in opere* ("and what would be possible, although not so clearly as now in the work"). Very many codices prefix to the particle *licet* [the word] *et*.
 
 [^20]: **La.** Pro *debeat* Vat. *habeat*.
 
-     **En.** For *debeat* ("ought") the Vatican [edition reads] *habeat* ("has"). [?]
+     **En.** For *debeat* ("ought") the Vatican [edition reads] *habeat* ("has").
 
 ---
 

@@ -228,9 +228,9 @@ If, therefore, it be objected that the will of God is necessary in itself, and n
 
     **En.** Here, in the *corpus*. — The words immediately following *quod, quamvis comparatio divinae voluntatis sit ad futurum contingens, tamen* the Vatican edition has suppressed, putting in their place the little word *cum*, and then for *sicut unum contingens aliud* it substitutes *sicut unum est contingens, ita et aliud*. At the end of this proposition, for *evenit*, the codices V G P S T W cc ee ff and ed. 1 have *eveniet*. — The words which appear in the middle of this proposition, *se necessario comitentur*, regard the necessity *of consequence*, not *of the consequent*, with which the contingency of the effect stands.
 
-[^15]: **La.** Id est praescindendo ab omni conditione. — Paulo superius pro *existentiam causae* Vat. sola *efficientiam causae*, codd. L *coexistentiam causae*. Paulo inferius pro *et vult* cod. [?] *id est vult*, non pauci codd. cum edd. 2, 3, 4, 5, 6 *tantummodo vult*.
+[^15]: **La.** Id est praescindendo ab omni conditione. — Paulo superius pro *existentiam causae* Vat. sola *efficientiam causae*, codd. LO *coexistentiam causae*. Paulo inferius pro *et vult* cod. O *id est vult*, non pauci codd. cum edd. 2, 3, 4, 5, 6 *tantummodo vult*.
 
-    **En.** That is, by setting aside every condition. — A little higher up, for *existentiam causae* the Vatican edition alone has *efficientiam causae*; codd. L *coexistentiam causae*. A little further down, for *et vult*, cod. [?] [reads] *id est vult*; not a few codices with edd. 2, 3, 4, 5, 6 read *tantummodo vult*.
+    **En.** That is, by setting aside every condition. — A little higher up, for *existentiam causae* the Vatican edition alone has *efficientiam causae*; codices L and O [read] *coexistentiam causae*. A little further down, for *et vult*, cod. O [reads] *id est vult*; not a few codices with edd. 2, 3, 4, 5, 6 read *tantummodo vult*.
 
 [^16]: **La.** Cfr. supra d. 43. a. 1. q. 2. in fine. — Dist. 38. a. 2. q. 2. — Paulo superius pro *sed voluntas libere potest, quae* Vat. cum uno alteroque cod. *sed quod voluntas libere potest, quia*.
 

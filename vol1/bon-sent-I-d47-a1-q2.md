@@ -78,7 +78,7 @@ Alia ratio sumitur secundum alium modum distinguendi: quia[^6] quaedam sunt sign
 
 **I.** Notanda est distinctio inter *facere contra voluntatem Dei* et *facere praeter voluntatem Dei*, ut observat S. Bonav., hic dub. 2. In illo est *actus absolutus voluntatis de opposito*; in hoc vero talis actus non est nec de uno volito nec de opposito. Consentiunt Alex. Hal. (S. p. 1, q. 40, m. 1, ad 1), et S. Thom. (hic q. 1, a. 2).
 
-**II.** *Auctores:* Alex. Hal., S. p. 1, q. 40, m. 4. — S. Thom., hic q. 1, a. 2. — B. Albert., hic a. 3. — Petr. a Tar., hic [?]. — Richard. Med., hic q. 2. — Aegid. R., hic 2. princ. q. — Dionys. Carth., I. *Sent.* d. 46, q. 3, circa finem.
+**II.** *Auctores:* Alex. Hal., S. p. 1, q. 40, m. 4. — S. Thom., hic q. 1, a. 2. — B. Albert., hic a. 3. — Petr. a Tar., hic q. unica, a. 1. — Richard. a Med., hic q. 2. — Egid. R., hic q. 2. princ. q. 1. — Dionys. Carth., I. *Sent.* d. 46, q. 3, circa finem.
 
 ---
 
@@ -132,7 +132,7 @@ Another reason is taken according to another mode of distinguishing: because[^6]
 
 **I.** Note the distinction between *to act against the will of God* and *to act besides the will of God*, as St. Bonaventure observes here in dub. 2. In the former there is an *absolute act of the will concerning the opposite*; in the latter no such act exists either concerning one willed [object] or concerning the opposite. Alex. of Hales (*Summa* p. 1, q. 40, m. 1, ad 1) and St. Thomas (here q. 1, a. 2) agree.
 
-**II.** *Authors:* Alexander of Hales, *Summa* p. 1, q. 40, m. 4. — St. Thomas, here q. 1, a. 2. — Bl. Albert, here a. 3. — Peter of Tarentaise, here [?]. — Richard de Mediavilla, here q. 2. — Aegidius Romanus, here 2 *princ.* q. — Dionysius the Carthusian, I *Sent.* d. 46, q. 3, near the end.
+**II.** *Authors:* Alexander of Hales, *Summa* p. 1, q. 40, m. 4. — St. Thomas, here q. 1, a. 2. — Bl. Albert, here a. 3. — Peter of Tarentaise, here q. unica, a. 1. — Richard de Mediavilla, here q. 2. — Aegidius Romanus, here q. 2 *princ.* q. 1. — Dionysius the Carthusian, I *Sent.* d. 46, q. 3, near the end.
 
 ---
 
@@ -184,9 +184,9 @@ Another reason is taken according to another mode of distinguishing: because[^6]
 
     **En.** Or, as was said above in the solution *Ad 2*, because it signifies the absolute will, which connotes something absolutely. — For *signato* the Vatican edition has *significato*, which also a little higher up after *maximum signum*, with few codices supporting, adds *quia impletio maius est*. — On solution by interception cf. above p. 87, note 4.
 
-[^12]: **La.** Nam praeceptum respicit bona, mala autem a Deo tantum permittuntur, non praecipiuntur; et sic in hoc sensu idem opus non potest simul esse praeceptum et permissum; attamen [?].
+[^12]: **La.** Nam praeceptum respicit bona, mala autem a Deo tantum permittuntur, non praecipiuntur; et sic in hoc sensu idem opus non potest simul esse praeceptum et permissum; attamen potest esse, ut permissio in uno ex sequentibus modis sumatur. — Paulo superius pro *cohibere* non pauci codd. *prohibere*.
 
-    **En.** For precept regards goods, but evils are only permitted by God, not commanded; and so in this sense the same work cannot at once be both commanded and permitted; yet [?].
+    **En.** For precept regards goods, but evils are only permitted by God, not commanded; and so in this sense the same work cannot at once be both commanded and permitted; yet it can be that the permission is taken in one of the following modes. — A little higher up, for *cohibere*, not a few codices [read] *prohibere*.
 
 [^13]: **La.** *Matth.* 19, 8.
 
