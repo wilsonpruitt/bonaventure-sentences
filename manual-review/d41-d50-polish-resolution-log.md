@@ -394,3 +394,62 @@ Total: 44 `[^N]:` defs in chunk. Audit script counts raw footer markers at 54 vs
 2. `d44-a1-q1` may genuinely miss some p.782 footers (q2 agent observed q1 picks up only 1 footer from p.782 but p.782 may have more body anchors). Re-check during d.41-d.50 polish pass.
 3. `d44-a1-q2` has 3 `[?]` flags on p.785 because Q.II / Q.III footers were folded together in raw OCR — needs 600+ dpi eyes-on in polish pass.
 4. d.44 `printed_pages` for several chunks were narrower than pre-flight estimate by 1 page on each side (most chunks span 3 printed pages, not 2; auto-chunker treats body line bounds rather than printed-page bounds).
+
+---
+
+## Session 3 — d.45 + d.46 Tier-2 promotion (2026-05-13)
+
+### Summary
+- **19 chunks promoted** (d.45: 10, d.46: 9). Build 411/397 (start 411/379).
+- Cadence: solo dry-run on d45-divisio, then 5 parallel waves of 3 + 1 final wave of 2. Wave size held at 3 (8 GB RAM cap).
+- 0 audit flags after final gates (paraphrase/headers/apparatus).
+
+### Pre-flight structural cleanup (d.45 + d.46)
+- d.45 chunker had created spurious `p1`/`p2` prefixes despite no Pars structure. Renamed 5 chunks (`p1-a1-q2`→`a1-q2`, `p1-a2-q1`→`a2-q1`, `p1-a2-q2`→`a2-q2`, `p1-dubia`→`dubia`, `p2-divisio`→`divisio`); stripped `pars:` field on each.
+- d.45 vestigial `p1-divisio` (4-word running-head fragment, lines 37375-37379) → deleted, backup at `_backup-d45-pre-cleanup-20260513/d45-p1-divisio-vestigial.md`.
+- d.45 gap-fill: `a1-q1` was missing entirely (auto-chunker dropped ART. I QUAEST. I at lines 37449-37670). Created skeleton, then promoted via agent.
+- d.45 ART. III boundary: `a3-q1` line_start extended 38475→38459 (include ARTICULUS III header + intro that introduces both q.I and q.II).
+- d.45 ART. III QUAEST. II boundary: `a3-q2` line_start extended 38633→38629 (include garbled `QU.\EST10 11.` header).
+- d.45 ART. II header: `a2-q1` line_start extended 37967→37954 to absorb ARTICULUS II header + intro (13-line orphan block).
+- d.46 dubia truncation: `line_end` extended 41361→41536 (chunk was cut off mid-DUB.III at running-head boundary; full content now reaches DISTINCTIO XLVII at 41537).
+
+### Per-chunk [?] flag carry-over (parked for d.50 polish-blocker)
+Total ~16 flags across d.45 + d.46. All resolved against 400dpi PDF where possible; remaining flags are footer-print-edge / two-column-collision crux points.
+
+- **d45-a1-q1**: 0 flags
+- **d45-a1-q2**: 12 flags (intra-Scholion citation cruxes; *Potest tamen dici[?]* punctuation noise; [^25] reconstruction)
+- **d45-a2-q1**: 2 flags ([^8] footer fusion; [^15] `acim aeternus` for `cyclus aeternus`)
+- **d45-a2-q2**: 0
+- **d45-a3-q1**: 0
+- **d45-a3-q2**: 0
+- **d45-littera**: 0
+- **d45-divisio**: 0
+- **d45-dubia**: 2 flags ([^9] *Magister/materia* variant; [^19] *ira/ire* variant)
+- **d46-littera**: 0
+- **d46-divisio**: 3 flags (all on [^5] cod. Z lemma)
+- **d46-a1-q1**: 2 flags (Scholion I terminal `ad [?]` numeral — paper-edge clip)
+- **d46-a1-q2**: 0
+- **d46-a1-q3**: 0
+- **d46-a1-q4**: 1 flag (Scholion I `Bl. Albert, S. p. I tr. 6 q. 25 [?]`)
+- **d46-a1-q5**: 0
+- **d46-a1-q6**: 2 flags ([^19]/[^20] 6-pt Quaracchi footer wording)
+- **d46-dubia**: 6 flags ([^2] *licet* praemittunt construction; [^14] cod. siglum unrecoverable; others on apparatus opacities)
+
+### Boundary scope-mismatches found (logged, not all actioned)
+- **d.46-divisio**: lines 39659-39665 (ARTICULUS UNICUS + TRACTATIO QUAESTIONUM closing) are in no chunk. Follows established d.46 pattern; left as-is.
+
+### Audit gates final
+- paraphrase: 0 critical, 1 high (d45-a1-q1 gap-fill marked, status string contains "gap-fill" not "stale-smell" — acceptable)
+- headers: 0 flags
+- apparatus-count: 0 flags (all diffs within heuristic tolerance per Lesson 9)
+
+### Build state
+- `1 book(s), 411 questions, 397 translated`. Up from 379 translated at session start (+18; +1 from d45-a1-q1 gap-fill bringing total questions 410→411).
+
+### Backups
+- `_backup-d45-pre-cleanup-20260513/` (all original p1/p2 chunks + d.46-dubia pre-lineend-fix)
+- Per-chunk pre-promote backups written by individual agents
+
+### Up next: d.47 + d.48 Tier-2 promotion
+- DISTINCTIO XLVII begins at raw line 41537. d.47 ART. UNICUS pattern (similar to d.46). Check for spurious p1/p2 chunker prefixes via pre-flight grep.
+- d.50 polish-blocker carry list: ~30 [?] flags across d.41-d.46 logged here; resolve when d.50 ships.
