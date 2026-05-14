@@ -1,78 +1,94 @@
-# Next session — Vol II d.1 Tier-2 continuation (session 4)
+# Next session — Vol II d.1 Tier-2 continuation (session 5)
 
-Updated 2026-05-13 at close of session 3 (q2 promoted).
+Updated 2026-05-14 at close of session 4 (d.1 pars 1 COMPLETE).
 
-Head commit: `5191478` — Vol II d.1 Tier-2 session 3 (p1-a1-q2 world-eternity).
+Head commit: `42969f0` — Vol II d.1 Tier-2 session 4 (p1-a2-q1, p1-a2-q2, p1-a3-q1, p1-a3-q2, p1-dubia).
 
 ## Status
 
 - Vol I COMPLETE (411/411 Tier-2).
 - Vol II auto-chunked: 464 skeletons across d.1–d.44.
-- Vol II d.1 promotions to date:
-  - `d1-littera` (session 1, 2026-05-12)
-  - `d1-p1-divisio` (session 1, 2026-05-12)
-  - `d1-p1-a1-q1` (session 2, 2026-05-13) — *Utrum res habeant principium causale*. 6 fundamenta + 6 contra + conclusio + respondeo (4 historical positions: Eleatics/Xenophanes, Anaxagoras, Platonists, Peripatetics) + 6 solutiones + SCHOLION I–IV. 34 apparatus entries spanning pp.13–19. Ambiguities log: `manual-review/tier2-ambiguities-II-d1-p1-a1-q1.md`.
-  - `d1-p1-a1-q2` (session 3, 2026-05-13) — *Utrum mundus productus sit ab aeterno, an ex tempore*. The world-eternity quaestio. 6 rationes Philosophi (2 a motu, 2 a tempore, 2 a parte causae producentis) + 6 fundamenta per se nota (infinity-addition, ordering, traversing, finite-virtus comprehending infinity, infinita simul, esse-post-non-esse) + conclusio + respondeo + 6 ad-arguments + Scholion I–IV. 51 apparatus entries spanning pp.19–24, chunk-internal renumbering with page crosswalk. Ambiguities log: `manual-review/tier2-ambiguities-II-d1-p1-a1-q2.md`.
-- Site build: 2 books, 873 chunks, **415 translated**.
+- Vol II d.1 pars 1 **COMPLETE** (9/9 chunks Tier-2):
+  - `d1-littera` (session 1)
+  - `d1-p1-divisio` (session 1)
+  - `d1-p1-a1-q1` *causal principle* (session 2)
+  - `d1-p1-a1-q2` *world-eternity* (session 3)
+  - `d1-p1-a2-q1` *Manichaean dualism* (session 4)
+  - `d1-p1-a2-q2` *immediate vs. mediated creation* (session 4)
+  - `d1-p1-a3-q1` *creation as mutation* (session 4)
+  - `d1-p1-a3-q2` *creation as medium* (session 4) — incl. Erigena/Council-of-Sens history
+  - `d1-p1-dubia` *DUB I–V* (session 4)
+- Site build: 2 books, 873 chunks, **420 translated**.
 - No deploy. Wilson's policy: hold until Vol II has meaningful Tier-2 work to show.
 
-## Open [?] flags from session 3 (parked for d.10 polish-blocker)
+## Open [?] flags parked for d.10 polish-blocker
 
-- `d1-p1-a1-q2`: codex-letter list at [^3] (raw `ni B E F H Iv V`, provisionally read as `B E F H K V` with `ni` left flagged); *potum / lutum* variant at [^49] (Vat. reads *lutum* "clay" where body has *potum* — possible Du Cange "vasculum vel poculum"). Resolution path: 600dpi extract of pp.19, 24 and eyes-on confirm. See `manual-review/tier2-ambiguities-II-d1-p1-a1-q2.md` for full disposition log.
+- `d1-p1-a3-q1` [^21] (*vel inceptio* anchor on p. 33) — footer entry was not separately resolvable in OCR before the SCHOLION block; mapped by content match. Resolution: 600 dpi PDF extract of p. 33 and eyes-on. See `manual-review/tier2-ambiguities-II-d1-p1-a3-q1.md`.
+- `d1-p1-a3-q2` — page-mapping in the apparatus crosswalk is approximate where two-column OCR linearization is ambiguous; per-footer content match is faithful, but per-page sequence numbers may be off by one in places.
 
-## Next chunk: d1-p1-a2-q1
+## Next chunk: d1-p2-divisio
 
-Chunk: `vol2/bon-sent-II-d1-p1-a2-q1.md`
-Raw lines: 2420–2605 (~186 lines — about half the size of q1/q2)
-Printed pp.: probably 24–27 (continues from where q2 ends mid-p.24; new ARTICULUS II opens with running head `DIST. 1. P. I. ART. II. QUAEST. I.` visible at raw line 2402).
-PDF pp.: ~46–49 (offset +22).
+Chunk: `vol2/bon-sent-II-d1-p2-divisio.md`
+Raw lines: **3330–3378** (~49 lines — very short, the divisio textus + Tractatio quaestionum opener for art. I of pars II).
+Printed pages: probably 38 (the tail end, after DUB V of pars 1 closes) into early 39.
+PDF pages: ~60–61 (offset +22).
 
-This opens ART. II of P. I (still d.1). The thematic shift: from the *whether/when* of creation (ART. I: causal principle + temporal principle) to the *how/by whom*. ART. II quaestiones typically circle the agent-cause (Trinity as creator, Father-only vs. Father-Son-Spirit, the question whether creation is appropriable). Verify the actual quaestio title from raw OCR before drafting.
+Pars II of d.1 is *De multitudine, fine et distinctione creaturarum* — opens the topic of why there are many creatures, the end / ordering of creatures, and how they differ.
+
+This divisio chunk has TWO sub-elements:
+1. **DIVISIO TEXTUS** (raw lines 3330–3349 approx): exegetical breakdown of the Master's pars II text into three parts (*distinctio rerum*, *ordo*, *epilogus*) with sub-subdivisions tracking specific phrases the Master uses (*Ideoque, si quaeratur, quare sit creatus homo*; *Et sicut factus est homo propter Deum*; *De homine quoque in Scriptura*; *Ex praemissis apparet*).
+2. **TRACTATIO QUAESTIONUM** (raw lines 3349–3378): the question-listing for art. I, with three principal questions (rerum distinctione / ordine / differentia Angeli et animae) and two sub-questions under the first (multiplicatione rerum quantum ad principium / quantum ad differentias).
+
+Both elements together fit comfortably in one short session. After this, art. I q1 (`d1-p2-a1-q1`) begins at raw line 3381.
+
+### Apparatus expected
+
+Page 38 footer block (visible in OCR around lines 3354–3378) contains 8 footers — most pertain to the divisio textus body. Heavy editorial Schol-like note on Aristotle's three principles + Albert's / Aquinas's reading of it (footer 4), with cross-refs to several other doctors. Footers 5–7 are quick scripture / cross-references.
 
 ### Workflow per CLAUDE.md (locked-in)
 
-1. Find OCR line range; verify boundaries against raw (`python3.11 tools/auto-chunk-volume.py 2 --dry-run`).
+1. Find OCR line range; verify boundaries against raw.
 2. Latin verbatim from raw OCR, NOT from PDF.
 3. `[^N]` anchors at OCR positions, not end-of-clause.
 4. English literal, paragraph-for-paragraph.
-5. Apparatus walked page-by-page from raw OCR footers; Quaracchi restarts numbering per page → chunk uses single sequence 1–N with crosswalk in Notes.
+5. Apparatus walked page-by-page from raw OCR footers.
 6. Log `[?]` flags inline; resolve at decade polish-blocker (d.10).
 7. `node scripts/build-content.mjs` smoke-test before commit.
 
-### Lessons confirmed by sessions 2–3 (apply forward)
+### Lessons confirmed by sessions 2–4 (carry forward)
 
-- **Trim marginal glosses aggressively** (`Ad oppositum`, `Fundamenta`, `Conclusio`, `Solutio`, `Distinctio`, `Notandum`, `Alii aliter intelligunt Aristotelem`, etc.). Don't render them as headings; the structural divisions are surfaced via bold numbering and `### Conclusio` / `### Scholion` section headings only.
-- **Apparatus marker renumbering is fine** — chunk-internal sequence 1–N is more readable than Quaracchi's per-page restart. Always document the page-by-page crosswalk in `## Notes`.
-- **Page-break markers** go in the chunk at the printed-page running-head or page-number boundary; if OCR ate a running head, mark the `<!-- page N -->` position as `[?]` rather than guessing.
+- **Trim marginal glosses aggressively** (`Ad oppositum`, `Fundamenta`, `Conclusio`, `Solutio`, `Distinctio`, `Notandum`, `Triplex productio`, `Determinatio trium productionum`, `Epilogus`, `Dupliciter relatio`, `Aliter`, `Eliditur error 1/2/3`, etc.). Don't render them as headings or text.
+- **Apparatus marker renumbering is fine** — chunk-internal sequence 1–N is more readable than Quaracchi's per-page restart. Document the page-by-page crosswalk in `## Notes`.
+- **Page-break markers** go in the chunk at the printed-page running-head or page-number boundary; if OCR ate a running head, mark `<!-- page N -->` position as `[?]` rather than guessing.
 - **Don't try to resolve subtle OCR ambiguities eyes-on-OCR alone** — the d.10 polish pass + 600dpi PDF clears them in seconds.
-- **Vol II audit scripts not yet implemented**: `audit-paraphrase.py`, `audit-headers.py`, `audit-apparatus-count.py` still vol1-only. `audit-formatting.py` audits 411 vol1 chunks but ignores `vol2/`. Manual confidence required for vol2 chunk quality until those scripts are extended. Smoke build (`build-content.mjs`) is the only mechanical check.
+- **Watch for column-linearization page-spillover** — session 4 caught a "missing" page-30 footer that turned out to sit at the top of the next chunk's OCR window. Always glance at the next chunk's first ~20 lines if a footer reference seems short.
+- **Vol II audit scripts not yet implemented**: `audit-paraphrase.py`, `audit-headers.py`, `audit-apparatus-count.py` still vol1-only. Manual confidence required for vol2 chunk quality until those scripts are extended. Smoke build (`build-content.mjs`) is the only mechanical check.
 
 ### Pace
 
-- q1 (~350 lines, 6 fundamenta + 6 contra + scholion): one focused session.
-- q2 (~392 lines, the world-eternity heavyweight, 6+6+Scholion I-IV): one focused session.
-- q3 candidate is `d1-p1-a2-q1` at ~186 lines — comfortably one session, possibly with d1-p1-a2-q2 (~171 lines) bundled if energy allows.
+- a2-q1, a2-q2, a3-q1, a3-q2, dubia all in session 4 (one extended session): demonstrated 5-chunk-per-session bundle is feasible when chunks are short-to-medium and apparatus is OCR-clean.
+- `d1-p2-divisio` is small enough to bundle with `d1-p2-a1-q1` in session 5 if energy allows. (`d1-p2-a1-q1` raw lines 3381–~3550, ~170 lines — comfortably one focused session on its own.)
 
-### Remaining d.1 chunks after q3 (in order)
+### Remaining d.1 pars 2 chunks (in order)
 
 | Chunk | Lines | Notes |
 |---|---|---|
-| d1-p1-a2-q1 | 2420–2605 | **next** — opens ART. II of P. I |
-| d1-p1-a2-q2 | 2606–2776 | |
-| d1-p1-a3-q1 | 2785–2974 | |
-| d1-p1-a3-q2 | 2975–3182 | |
-| d1-p1-dubia | 3183–3329 | DUB. I–V |
-| d1-p2-divisio | 3330–3378 | p2 commentary intro |
-| d1-p2-a1-q1 … d1-p2-a3-q2 | 3382–4188 | 6 quaestiones |
-| d1-p2-dubia | 4189–4263 | |
+| d1-p2-divisio | 3330–3378 | **next** — DIVISIO TEXTUS + TRACTATIO QUAESTIONUM for pars II |
+| d1-p2-a1-q1 | 3381–~3550 | *Utrum a primo efficiente debuerit, vel potuerit esse rerum multitudo* |
+| d1-p2-a1-q2 | ~3551–~3720 | |
+| d1-p2-a2-q1 | ~3721–~3890 | |
+| d1-p2-a2-q2 | ~3891–~4030 | |
+| d1-p2-a3-q1 | ~4031–~4140 | |
+| d1-p2-a3-q2 | ~4141–~4188 | |
+| d1-p2-dubia | 4189–4263 | closes d.1 |
 
-11 quaestiones + 2 dubia + 1 divisio remaining in d.1 ⇒ ~11 more sessions to finish d.1 alone.
+6 quaestiones + 1 divisio + 1 dubia remaining in d.1 pars 2 ⇒ ~7–8 more focused sessions to finish d.1 entirely (or fewer with bundling).
 
 ## Polish-blocker (after d.10 ships)
 
-1. `[?]` flag resolution — last 10 distinctions only (Vol II d.1–d.10 since this is Vol II's first decade).
+1. `[?]` flag resolution — Vol II d.1–d.10 only.
 2. Style/formatting audit — full corpus (Vol I + Vol II).
-3. Resolution log at `manual-review/II-d1-d10-polish-resolution-log.md` (note `II-` prefix to distinguish from Vol I's d.1–d.10 log).
+3. Resolution log at `manual-review/II-d1-d10-polish-resolution-log.md`.
 
 ## Tools cheat sheet
 
