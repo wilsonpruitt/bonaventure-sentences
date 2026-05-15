@@ -110,6 +110,20 @@ That truth is a property of the divine being is shown from authorities and reaso
 
 **This workflow is the result of multiple costly false-starts. DO NOT improvise an alternative.**
 
+> ### ⚠ VOL II OVERRIDE — read this first if `volume: 2`
+>
+> The recipe below was written for **Vol I** (single-column, near-perfect ABBYY OCR). **Vol II is two-column and the IA djvu OCR cascade-shatters the Respondeo, Solutio, scholion, and *every* page-footer** (diagonal one-token-per-line fragmentation + two-column bleed). For Vol II the OCR-vs-PDF priority is **inverted** in the damaged regions. Proven across d.1 sessions 5–12 (all 17 chunks): every quaestio was a full PDF re-set. Apply these overrides:
+>
+> 1. **The PDF is authoritative wherever the OCR is cascade-fragmented** — i.e. essentially every Respondeo + Solutio + footer. The OCR remains the base only for clean running prose (videtur/contra args) and for exact footnote-marker spacing. (This inverts the "canonical source of truth" rule and anti-pattern #1 below — for Vol II damaged regions the column-band PDF read *is* authoritative.)
+> 2. **Standard per-quaestio procedure:** `python3.11 tools/extract-pages.py --volume vol2 --pages <printed> --dpi 450`, then `python3.11 tools/colcrop.py vol2 <printed-page> [split_x=1660] [n_bands=3] [scale=1.8]` → reads to `/tmp/colcrop/vol2-pNNN-{L,R}-{0..n}.png`. Read each page **Left column top→bottom, then Right column**; body bands then footer bands. Reflow column-by-column, not raw-line order.
+> 3. **Offset `pdf = printed + 22`.** Running-head page numbers are routinely OCR digit-mangled (`80`=50, `34`=54; `DISTmCTIO 11.`=DISTINCTIO II). Trust the +22 offset and running-head *text*, never the OCR'd digits.
+> 4. **Cross-chunk footer split (recurring — every chunk boundary that falls inside a printed page):** a printed page's footer notes split by *body anchor*, not by which chunk physically holds the footer block. Before promoting a chunk, verify the prior chunk captured its share of any shared page footer; document the split in `## Notes`. Reading a shared footer in printed order once lets you populate the new chunk *and* retire a prior chunk's parked `[?]` in the same pass (session 10 did this for a2-q2's [^12]).
+> 5. **Chunking convention (locked d.1 sessions 8/10/11):** a short ARTICULUS opener (`Consequenter … quaeruntur duo …`) is folded into that article's **q1** — no standalone `dN-pM-aK-divisio` chunk. The pars-level divisio chunk holds the pars DIVISIO TEXTUS + TRACTATIO QUAESTIONUM (+ the first article's sub-divisio). A quaestio with **no scholion is normal** if the article's q1 scholion says `pro quaest. seq.` — check the sibling before treating a missing scholion as an error.
+> 6. **Mechanical checks:** the three guard-rail audit scripts are still **vol1-only** (`bon-sent-I-` glob). For Vol II the *only* mechanical check is `node site/scripts/build-content.mjs` (chunk count + parse + marker pairing). Manual confidence + the column-band PDF discipline carry the quality bar until the audits are extended to `bon-sent-II-`.
+> 7. **`[?]` flags:** tracked in the chunk's own `## Notes` + the in-repo `next-session-resume.md`, cleared in the d.10-style **decade polish-blocker** (600 dpi pass over d.1–d.10). There is no per-chunk `manual-review/tier2-ambiguities*.md` discipline for Vol II.
+>
+> Steps 1, 3, 4, 7–10 of the recipe below still apply as written. Steps 2/5/6 apply but with the PDF-priority inversion above.
+
 ### The canonical Latin source of truth is the IA djvu.txt OCR — NOT eyes-on-PDF reads
 
 `raw/bonaventure_vol1_raw.txt` is a verbatim copy of `doctorisseraphic11bona_djvu.txt` from Internet Archive (likewise pt2). This is ABBYY-quality OCR and is dramatically more accurate than reading small-set Quaracchi printed text at any reasonable PDF dpi. Reading the printed page directly will produce errors (e.g. `bonus` misread as `utens`, `homo` as `bonum`, `proceditur` reversed to `procedam`) that the OCR gets right.
@@ -130,7 +144,7 @@ For any chunk that needs to be promoted to Tier 2 — whether re-verifying a "fi
 
    **Lesson 9 (2026-05-09 wave 5):** when rebuilding from a target count derived from `audit-apparatus-count.py`, the heuristic *undercounts* — it misses garbled OCR openers (`'*` for 14, `1»` for 10, `1'` for 17, `-"` for 20). Walk the raw range yourself; do not stop at the heuristic count. The regex was hardened 2026-05-09 but is still not perfectly faithful (~10% noise either direction). Ground-truth is the printed page footer, not the audit script. See `manual-review/d1-d4-tier2-promotion-log.md` Lesson 9.
 
-6. **PDF (`raw/doctorisseraphic1{1,2}bona.pdf`) is consulted only for**:
+6. **PDF (`raw/doctorisseraphic1{1,2}bona.pdf`) is consulted only for** *(Vol I only — for Vol II the PDF is the routine source for every Respondeo + footer; see the Vol II Override above)*:
    - OCR garbles flagged with `?` glyphs or impossible Latin (extract via `tools/extract-pages.py --volume vol1 --pages N --dpi 400`)
    - Footnote-anchor positions when OCR-marker spacing is ambiguous
    - Scholion opening words (OCR fragments these heavily because the SCHOLION header breaks up text mid-sentence)
@@ -151,7 +165,7 @@ Vol I has ~436 chunks total. Of these (per audit on 2026-05-01): ~56 Tier-2 comp
 
 ### What NOT to do (anti-patterns from past sessions)
 
-- ❌ Don't read the PDF and treat your reading as authoritative. The OCR is more accurate.
+- ❌ Don't read the PDF and treat your reading as authoritative. The OCR is more accurate. *(Vol I only. For Vol II's cascade-shattered Respondeo/footers the column-band PDF read IS authoritative — see the Vol II Override at the top of this section.)*
 - ❌ Don't trust the existing chunk's Latin or apparatus. Many were generated by AI translation rather than literal transcription. Diff against OCR.
 - ❌ Don't silently leave half-verified chunks. Either complete to Tier 2, or revert to skeleton with the original status string. Never an in-between.
 - ❌ Don't skip the ambiguities log. Every `[?]` you write goes in the log.
@@ -332,7 +346,7 @@ npx vercel deploy --prod --prebuilt --archive=tgz
 - ✓ `tools/extract-pages.py` — vol2 entry added (offset +22, printed range 11–1030).
 - ✓ `site/scripts/build-content.mjs` — now scans vol1/vol2/vol3/vol4 dirs (each chunk declares its own `book:`).
 - ⚠ `site/src/app/page.tsx:47,57` — landing copy still hardcoded "Volume I". Update in Phase 4 once vol2 has real chunks.
-- ⚠ `tools/audit-{paraphrase,headers,apparatus-count}.py` — still vol1-only (`bon-sent-I-` glob, pt1/pt2 slicer). Defer extension to Phase 2 when actual vol2 chunks exist to audit; until then, vol2 has nothing to guard.
+- ⚠ `tools/audit-{paraphrase,headers,apparatus-count}.py` — still vol1-only (`bon-sent-I-` glob, pt1/pt2 slicer). **Now overdue:** d.1's 17 Tier-2 `bon-sent-II-` chunks (sessions 1–12, complete 2026-05-15) are unguarded by the audit scripts — only `build-content.mjs` smoke-tests them. Extending the three audits to a `bon-sent-II-` glob (single raw file, offset `pdf=printed+22`, no pt1/pt2 slicer) is the highest-value tooling task before d.2+ accumulates more unaudited chunks.
 
 ### Other
 
