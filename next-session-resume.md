@@ -51,7 +51,7 @@ Session-12 recon of the d.2 raw structure (grep `raw/bonaventure_vol2_raw.txt`):
 - **Structure:** d.2 is multi-pars (running heads show `DIST. II. P. I.` and `DIST. II. P. II.`). Make separate `d2-p1-littera` (Lombard text — its own big Tier-2 chunk, template `vol1/bon-sent-I-d8-littera.md`), `d2-p1-divisio` (COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM, raw 4418–~4462), then `d2-p1-aN-qN…`, and likewise pars 2. Fold short ARTICULUS openers into each article's q1 (precedent locked in sessions 8/10/11 — no standalone `aN-divisio` chunks).
 - **Skeleton hygiene:** `ls vol2/ | grep 'II-d2-'` shows `*-dup2.md` duplicates (the 61 residual dup-IDs noted in CLAUDE.md Phase 1). During the re-chunk pass, derive correct boundaries from raw, then delete/relabel the stale `-dup2` skeletons (back up first per CLAUDE.md step 8).
 - **Cross-chunk footer carry-in:** the page-52 footer's `NOTAE AD LIBR. SENTENTIARUM` block (the `Praecedentia codd. nostri non numerant tanquam capitulum…`; `Isidorus, I. Sentent. (sive de Summo Bono) c. 10. n. 4…`; `Gen. 1, 1…` notes) anchors d.2's opening littera, **not** d1-p2-dubia. Start d.2's first chunk (`d2-p1-littera`) apparatus crosswalk from those.
-- **Discipline carries forward unchanged:** every quaestio is a full 450 dpi PDF re-set (`tools/extract-pages.py` + `tools/colcrop.py`), Latin verbatim from IA djvu OCR, literal English, page-by-page apparatus crosswalk with documented cross-chunk footer splits, `[?]` flags parked for the decade polish-blocker, `node site/scripts/build-content.mjs` smoke-test before commit, two-commit-per-session cadence (chunk + resume). Vol II offset: **PDF = printed + 22**.
+- **Discipline carries forward unchanged:** every quaestio is a full 450 dpi PDF re-set (`tools/extract-pages.py` + `tools/colcrop.py`), Latin verbatim from IA djvu OCR, literal English, page-by-page apparatus crosswalk with documented cross-chunk footer splits, `[?]` flags parked for the decade polish-blocker, two-commit-per-session cadence (chunk + resume). Vol II offset: **PDF = printed + 22**. **Pre-commit checks (now incl. the Vol II audits):** `node site/scripts/build-content.mjs` + `python3.11 tools/audit-{paraphrase,headers,apparatus-count}.py --volume 2 --min-d 2 --max-d 2` (and the marker-pairing python one-liner used in sessions 8–12).
 
 `tools/colcrop.py` (committed session 8) is the PIL column-band cropper: `python3.11 tools/colcrop.py vol2 <printed-page> [split_x=1660] [n_bands=3] [scale=1.8]` → `/tmp/colcrop/vol2-pNNN-{L,R}-{0..n}.png`. Read L column top→bottom then R column; footer bands are the bottom band of each column.
 
@@ -61,13 +61,15 @@ Session 7 (q2, ~2160 words, pp. 41–43) confirmed: for any large quaestio the I
 
 ### Workflow per CLAUDE.md (locked-in)
 
+> ⚠ For Vol II this list is **modified by the CLAUDE.md "VOL II OVERRIDE"** (top of the Tier-2 verification workflow section). Specifically step 2: the OCR is the base only for clean prose + footnote-marker spacing; the 450 dpi column-band PDF read is authoritative for the (near-universal) cascade-shattered Respondeo/Solutio/footers. Read the override before starting d.2.
+
 1. Find OCR line range; verify boundaries against raw.
-2. Latin verbatim from raw OCR, NOT from PDF.
+2. Latin verbatim from raw OCR, NOT from PDF — *Vol II: except cascade-damaged regions, where the PDF is authoritative (see override above).*
 3. `[^N]` anchors at OCR positions, not end-of-clause.
 4. English literal, paragraph-for-paragraph.
 5. Apparatus walked page-by-page from raw OCR footers.
 6. Log `[?]` flags inline; resolve at decade polish-blocker (d.10).
-7. `node scripts/build-content.mjs` smoke-test before commit.
+7. Pre-commit: `node site/scripts/build-content.mjs` + the 3 audits `--volume 2` + marker-pairing one-liner.
 
 ### Lessons confirmed by sessions 2–4 (carry forward)
 
@@ -77,7 +79,7 @@ Session 7 (q2, ~2160 words, pp. 41–43) confirmed: for any large quaestio the I
 - **Don't try to resolve subtle OCR ambiguities eyes-on-OCR alone** — the d.10 polish pass + 600dpi PDF clears them in seconds.
 - **Watch for column-linearization page-spillover** — session 4 caught a "missing" page-30 footer at the top of the next chunk's OCR window. Always glance at the next chunk's first ~20 lines if a footer reference seems short.
 - **Cross-chunk footer split is now a confirmed recurring pattern (session 5, page 38).** When a printed page's footer block sits at a chunk boundary, its notes split by *body anchor*, not by which chunk physically contains the footer text. Session 5: page-38 footer notes 1–6 anchored in `d1-p1-dubia`'s page-38 body (DUB III tail/IV/V) but that chunk had only captured pp. 36–37 footer; notes 7–8 anchored in `d1-p2-divisio`. **Before promoting any chunk, verify the prior chunk's last printed page footer was fully captured for the body it holds on that page.** Same convention as `d1-p1-divisio` (notes 1–4 in next chunk's footer). Backfilling a committed Tier-2 chunk is acceptable and expected when this is found — renumber its sequence continuously and document in its Notes + `transcription_status`.
-- **Vol II audit scripts not yet implemented**: `audit-paraphrase.py`, `audit-headers.py`, `audit-apparatus-count.py` still vol1-only. Manual confidence required for vol2 chunk quality until those scripts are extended. Smoke build (`build-content.mjs`) is the only mechanical check.
+- **Vol II audit scripts DONE (2026-05-15, commit `76da3e7`)**: all three accept `--volume 2`. Run before each commit alongside the smoke build: `python3.11 tools/audit-{paraphrase,headers,apparatus-count}.py --volume 2 --min-d N --max-d N`. Calibration (verified on d.1's 17 Tier-2 chunks): paraphrase cleanly separates done (→OK) from skeleton (→HIGH/CRITICAL); apparatus-count flag logic intact (0 false flags on real chunks; diff column noisy ±10–18 — triage only); header audit is **coarse for Vol II** (positive diffs, catches only gross whole-chunk dropouts — fine-grained dropout detection still rests on the per-session column-band PDF pass). See CLAUDE.md "Required guard-rail audits" → Vol II calibration block. (`build-content.mjs` is still the parse/marker-pairing check.)
 
 ### Pace
 
