@@ -14,7 +14,7 @@ has_scholion: false
 has_apparatus: true
 line_start: 3183
 line_end: 3329
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 3183–3329), fresh literal English translation, full apparatus from raw OCR (15 entries across pp. 36–37, chunk-internal renumbering); DUB I–V translated literally (2026-05-13)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 3183–3329), fresh literal English translation, full apparatus from raw OCR (21 entries across pp. 36–38, chunk-internal renumbering); DUB I–V translated literally (2026-05-13). Page-38 footer backfill 2026-05-15: entries 16–21 added (footer notes 1–6, anchoring in this chunk's DUB III tail / IV / V body — *in Physicis*, *privatio non differt a forma*, *materia et specie*, *determinat in primo*, *in secundo die*, *malum culpae*); footer notes 7–8 anchor in the following d1-p2-divisio chunk and are rendered there"
 format_version: 1
 ---
 
@@ -60,11 +60,11 @@ Item quaeritur de hoc quod dicit: *Aristoteles tria posuit esse principia, duo e
 
 <!-- page 38 -->
 
-Sed tunc est quaestio, quia videtur non sufficienter principia in *Physicis* assignasse; immo si ibi assignavit tria praeter *operatorium*, tunc ergo sunt quatuor. — Et dicendum ad hoc, quod *privatio non differt a forma* vel a materia. Sive enim privatio nominet appetitum formae cum eius carentia, sive nominet ipsam formae essentiam, prout est in materia in potentia, non differt ab his duobus, scilicet materia et specie. Nam appetitus ad materiam reducitur nec est aliud; et essentia formae ad speciem secundum rem. Et haec duo principia determinat in primo. Postmodum adiungit tertium, *operatorium*, dum omnia reducit ad motorem primum, in octavo. Et sic patet, quod Magister vere et proprie loquitur.
+Sed tunc est quaestio, quia videtur non sufficienter principia in *Physicis*[^16] assignasse; immo si ibi assignavit tria praeter *operatorium*, tunc ergo sunt quatuor. — Et dicendum ad hoc, quod *privatio non differt a forma*[^17] vel a materia. Sive enim privatio nominet appetitum formae cum eius carentia, sive nominet ipsam formae essentiam, prout est in materia in potentia, non differt ab his duobus, scilicet materia et specie[^18]. Nam appetitus ad materiam reducitur nec est aliud; et essentia formae ad speciem secundum rem. Et haec duo principia determinat in primo[^19]. Postmodum adiungit tertium, *operatorium*, dum omnia reducit ad motorem primum, in octavo. Et sic patet, quod Magister vere et proprie loquitur.
 
 ### Dub. IV.
 
-Item quaeritur de hoc quod dicit: *In principio temporum mundum creasse*. Si enim tempus coepit cum primo mobili, et illud coepit in secundo die: non ergo *in principio temporis*, sed ante.
+Item quaeritur de hoc quod dicit: *In principio temporum mundum creasse*. Si enim tempus coepit cum primo mobili, et illud coepit in secundo die[^20]: non ergo *in principio temporis*, sed ante.
 
 **Respondeo:** Dicendum, quod *tempus* dicitur tripliciter: *communissime*, *communiter* et *proprie*. Communissime dicitur mensura exitus de non-esse in esse. Communiter dicitur tempus mensura cuiuslibet mutationis, maxime illius quae fuit ante primum mobile. Tertio modo dicitur proprie mensura motus primi mobilis, ut communiter consuevit distingui. Et quia primo modo dictum est *primum* omnium, et in illo conditum est saeculum: ideo dicit: *in principio temporum*.
 
@@ -74,7 +74,7 @@ Item quaeritur de hoc quod dicit: *Omnipotentissimi est nocere non posse.*
 
 Contra: Omnis poena affligit et laedit, et si laedit, nocet: ergo si Deus non potest nocere, non potest punire.
 
-**Respondeo:** Dicendum, quod sicut duplex est malum, scilicet *culpae* et *poenae*, sic etiam duplex est nocumentum. Cum ergo dicitur, quod non potest nocere, non intelligitur quantum ad nocumentum, quod facit malum poenae, sed quod facit malum culpae.
+**Respondeo:** Dicendum, quod sicut duplex est malum, scilicet *culpae* et *poenae*, sic etiam duplex est nocumentum. Cum ergo dicitur, quod non potest nocere, non intelligitur quantum ad nocumentum, quod facit malum poenae, sed quod facit malum culpae[^21].
 
 ---
 
@@ -108,11 +108,11 @@ Likewise the question is asked about what he says: *Aristotle posited three prin
 
 **I respond:** It must be said that he distinguishes the two from the third for this reason: that two are intrinsic, like elements, and one is extrinsic. Where the Philosopher posits these three, if it be asked, is expressly found in the second book *On Generation*, near the end[^15].
 
-But then there is a question, because he seems not to have sufficiently assigned principles in the *Physics*; indeed, if there he assigned three besides the *operatory* [principle], then there are four. — And it must be said to this that *privation does not differ from form* or from matter. For whether privation names the appetite of form along with the lack of it, or names the very essence of form insofar as it is in matter in potency, it does not differ from these two — namely matter and species. For appetite is reduced to matter and is nothing else; and the essence of form to species, according to reality. And these two principles he determines in the first [book]. Afterward he adjoins a third, the *operatory*, when he reduces all things to a first mover, in the eighth. And so it is plain that the Master speaks truly and properly.
+But then there is a question, because he seems not to have sufficiently assigned principles in the *Physics*[^16]; indeed, if there he assigned three besides the *operatory* [principle], then there are four. — And it must be said to this that *privation does not differ from form*[^17] or from matter. For whether privation names the appetite of form along with the lack of it, or names the very essence of form insofar as it is in matter in potency, it does not differ from these two — namely matter and species[^18]. For appetite is reduced to matter and is nothing else; and the essence of form to species, according to reality. And these two principles he determines in the first [book][^19]. Afterward he adjoins a third, the *operatory*, when he reduces all things to a first mover, in the eighth. And so it is plain that the Master speaks truly and properly.
 
 ### Dub. IV.
 
-Likewise the question is asked about what he says: *He created the world in the beginning of times*. For if time began with the first movable, and that began on the second day, then [it was created] not *in the beginning of time* but before.
+Likewise the question is asked about what he says: *He created the world in the beginning of times*. For if time began with the first movable, and that began on the second day[^20], then [it was created] not *in the beginning of time* but before.
 
 **I respond:** It must be said that *time* is said in three ways: *most commonly*, *commonly*, and *properly*. Most commonly it is said to be the measure of the going-out from non-being into being. Commonly time is said to be the measure of any mutation whatever — especially of that which was before the first movable. In the third way it is said properly to be the measure of the motion of the first movable, as it is commonly distinguished. And because in the first sense it was called the *first* of all, and in it the age was founded: therefore he says *in the beginning of times*.
 
@@ -122,7 +122,7 @@ Likewise the question is asked about what he says: *It belongs to the most omnip
 
 To the contrary: Every penalty afflicts and injures, and if it injures, it harms: therefore if God cannot harm, he cannot punish.
 
-**I respond:** It must be said that as evil is twofold, namely *of fault* and *of penalty*, so likewise harm is twofold. When therefore it is said that he cannot harm, it is not understood with regard to the harm which makes the evil of *penalty*, but to that which makes the evil of *fault*.
+**I respond:** It must be said that as evil is twofold, namely *of fault* and *of penalty*, so likewise harm is twofold. When therefore it is said that he cannot harm, it is not understood with regard to the harm which makes the evil of *penalty*, but to that which makes the evil of *fault*[^21].
 
 ---
 
@@ -190,11 +190,39 @@ To the contrary: Every penalty afflicts and injures, and if it injures, it harms
 
     **En.** Text 51ff. (c. 9), where, inquiring concerning the causes and principles of generation and corruption, he says: «*For this is as matter, that as form; but it is necessary that a third still be present*», namely the efficient principle, as is proved in what follows.
 
+[^16]: **La.** Intellige secundum obiectionem, libro primo *Physicorum*, quod etiam Vat. ponit. Paulo inferius et circa finem solutionis plurimi codd. cum primis edd. *operationem* pro *operatorum*, sed contra textum Ambrosii a Magistro, hic c. 3, relatum. — Pro intelligentia eorum, quae sequuntur, observandum, quod secundum Aristotelem res naturales, si considerantur in statu constitutionis seu in *facto esse*, duo habent principia intrinseca, nempe materiam et formam; si vero considerantur in statu generationis seu in *fieri*, tria, scil. materiam, formam et privationem. Privatio, cum generatim sit carentia formae in subiecto apto ad formam, sumi potest tum respectu materiae, tum respectu formae. Si sumitur respectu materiae, tunc privatio erit ipsa materia, quatenus forma caret, apta tamen est (inclinatur, appetitum habet) ad illam, sive, ut S. Bonav. ait: «*Appetitus formae* (i. e. appetitus materiae ad formam) *cum carentia eius*». Si sumitur respectu formae, cum ipsa secundum Aristotelem ex materia sive ex potentia materiae sit educenda, privatio erit forma ex materia educenda.
+
+    **En.** Understand [it] according to the objection, in the first book of the *Physics*, which the Vatican ms. also places [there]. A little below and near the end of the solution very many codices, with the first editions, read *operationem* for *operatorum*, but against the text of Ambrose as reported by the Master here, c. 3. — For the understanding of what follows, it is to be observed that, according to Aristotle, natural things, if they are considered in the state of constitution, that is, in *being-made* (*in facto esse*), have two intrinsic principles, namely matter and form; but if they are considered in the state of generation, that is, in *becoming* (*in fieri*), three — namely matter, form, and privation. Privation, since generally it is the lack of form in a subject apt for form, can be taken either with respect to matter or with respect to form. If it is taken with respect to matter, then privation will be the matter itself, insofar as it lacks form yet is apt for it (is inclined toward it, has an appetite for it) — or, as St Bonaventure says: «*the appetite of form* (i.e. the appetite of matter for form) *together with the lack of it*». If it is taken with respect to form, since according to Aristotle form is to be drawn out of matter or out of the potency of matter, privation will be the form to be drawn out of matter.
+
+[^17]: **La.** Text. 4-5. seqq. (c. 6.). — Notandum, quod in determinatione, quae sit vera de hac re sententia Aristotelis, nec recentiores nec antiqui eiusdem interpretes conveniunt. S. Bonav. hic approbat sententiam Magistri, sed B. Albertus, *II. Sent.* d. 1. a. 11, asserit: Aristoteles in veritate non dicit hoc, quod tria vel duo sint principia mundi; sed ipse probat, duo non incepisse per motum, scilicet materiam primam et motorem primum; et ideo imponitur ei, quod duo dixerit esse ab aeterno. Et quando dicuntur duo, tunc tanguntur principia naturae essentialiter constituentia naturam, ut materia et forma, quia privatio non constituit, sed abiicitur per motum ad formam. Quando autem dicitur tertium, tunc dicitur seu tangitur primum movens. Cfr. idem, *S.* p. II. tr. I. q. 4. m. 2. a. 3. et 4; et S. Thomas, *II. Sent.* d. 1, qui B. Alberto consentit. Cfr. etiam Petr. a Tar., Richard. a Med. et Aeg. R., hic in exposit. textus. Idem dissensus est circa sententiam Platonis, de qua re diffuse disputat Dionys. Carth., hic q. 3.
+
+    **En.** Text 4–5ff. (c. 6). — It is to be noted that, as to what is the true opinion of Aristotle in this matter, neither the more recent nor the ancient interpreters of him agree. St Bonaventure here approves the opinion of the Master, but Bl. Albert, *II Sent.* d. 1, a. 11, asserts: Aristotle in truth does not say this, that there are three or two principles of the world; rather he proves that two did not begin through motion, namely first matter and the first mover; and therefore it is imputed to him that he said two [principles] are from eternity. And when two are spoken of, then the principles essentially constituting nature are touched on, as matter and form, because privation does not constitute [nature] but is cast off by motion toward form. But when a third is spoken of, then the first mover is meant or touched on. Cf. the same author, *Summa* p. II, tr. I, q. 4, m. 2, a. 3 and 4; and St Thomas, *II Sent.* d. 1, who agrees with Bl. Albert. Cf. also Peter of Tarantasia, Richard of Mediavilla, and Giles of Rome, here in the exposition of the text. The same disagreement is found concerning the opinion of Plato, on which matter Denis the Carthusian disputes at length, here q. 3.
+
+[^18]: **La.** Graece μορφή, quod latine vertitur modo *forma*, modo *species*. — Cod. L addit aliter: quod privatio non est principium secundum rem, sed tantum secundum rationem. Dein cod. *cc* et ed. 1 post *appetitus* supplent *materiae*.
+
+    **En.** In Greek μορφή, which in Latin is rendered now *forma*, now *species*. — Codex L adds otherwise: that privation is not a principle according to reality, but only according to reason. Then codex *cc* and ed. 1 after *appetitus* supply *materiae*.
+
+[^19]: **La.** Subaudi: *libro Physicorum*, de quo in ipsa obiectione.
+
+    **En.** Supply: *in the book of the Physics*, concerning which [book] [is spoken] in the objection itself.
+
+[^20]: **La.** Gen. 1, 6-8: *Dixit quoque Deus: Fiat firmamentum... et factum est vespere et mane, dies secundus.*
+
+    **En.** Genesis 1:6–8: *And God also said: Let there be a firmament... and there was evening and morning, the second day.*
+
+[^21]: **La.** Cfr. infra d. 2. p. I. a. 2. q. 1.
+
+    **En.** Cf. below d. 2, p. I, a. 2, q. 1.
+
 ---
 
 ## Notes
 
-**Chunk-internal apparatus renumbering.** Quaracchi restarts footnote numbering on each printed page; this chunk uses a single sequence 1–15 spanning pp. 36–37. Page-by-page assignment is approximate where the OCR linearization is ambiguous; content match against the body anchors was the controlling rule.
+**Chunk-internal apparatus renumbering.** Quaracchi restarts footnote numbering on each printed page; this chunk uses a single sequence 1–21 spanning pp. 36–38. Page-by-page assignment is approximate where the OCR linearization is ambiguous; content match against the body anchors was the controlling rule.
+
+**Page-38 footer backfill (2026-05-15).** The page-38 footer carries eight Quaracchi notes. The original promotion (2026-05-13) captured only pp. 36–37 and left the page-38 footer unworked, although the page-38 *body* (DUB III tail / DUB IV / DUB V) was present. Entries 16–21 here render page-38 footer notes 1–6, which content-match this chunk's page-38 body anchors: note 1 → *in Physicis* ([^16]), note 4 → *privatio non differt a forma* ([^17]), note 2 → *materia et specie* ([^18]), note 3 → *determinat in primo* ([^19]), note 5 → *in secundo die* ([^20]), note 6 → *malum culpae* ([^21]). Page-38 footer notes 7–8 anchor in the opening of the next chunk (`bon-sent-II-d1-p2-divisio`) and are rendered there (renumbered 1–2), per the same cross-chunk-footer convention already used by `bon-sent-II-d1-p1-divisio`.
+
+**`in octavo` — no separate note.** The OCR carries a stray `\` glyph after *motorem primum, in octavo* (raw line 3308). No distinct page-38 footer note corresponds; the elliptical *in octavo* is covered by note 3's *Subaudi: libro Physicorum* ([^19]), which licenses supplying *libro Physicorum* for both *in primo* and *in octavo*. Flagged for 600 dpi PDF confirmation at the d.10 polish-blocker (printed p. 38 = PDF p. 60).
 
 **Page-break placement.** Page-36 ↔ page-37 placed mid-DUB-II Respondeo (after *exemplaris*) per the running-head transition at raw line 3220. Page-37 ↔ page-38 placed at the end of DUB-III *Respondeo* (before the four-principles continuation) per the running-head at raw line 3287.
 
