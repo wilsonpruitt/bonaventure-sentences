@@ -15,6 +15,7 @@ deserves an eyes-on diff against the OCR footer.
 Usage:
   python3.11 tools/audit-apparatus-count.py
   python3.11 tools/audit-apparatus-count.py --min-d 27 --max-d 27 --min-diff 3
+  python3.11 tools/audit-apparatus-count.py --volume 2          # Vol II (single raw, no pt1/pt2)
 """
 from __future__ import annotations
 import argparse
@@ -23,9 +24,28 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-VOL1 = REPO / "vol1"
-RAW_PT1 = REPO / "raw" / "bonaventure_vol1_raw.txt"
-RAW_PT2 = REPO / "raw" / "bonaventure_vol1_pt2_raw.txt"
+
+
+def vol_cfg(volume: int) -> dict:
+    """Per-volume paths/globs. Vol I = two raw files (pt1 d<24, pt2 d>=24);
+    Vol II = a single raw file, no pt split. Default (volume=1) preserves the
+    original Vol I behavior exactly."""
+    if volume == 2:
+        return dict(
+            cdir=REPO / "vol2",
+            cglob="bon-sent-II-d*.md",
+            fn_re=re.compile(r"bon-sent-II-d(\d+)-"),
+            raws=[REPO / "raw" / "bonaventure_vol2_raw.txt"],
+            split24=False,
+        )
+    return dict(
+        cdir=REPO / "vol1",
+        cglob="bon-sent-I-d*.md",
+        fn_re=re.compile(r"bon-sent-I-d(\d+)-"),
+        raws=[REPO / "raw" / "bonaventure_vol1_raw.txt",
+              REPO / "raw" / "bonaventure_vol1_pt2_raw.txt"],
+        split24=True,
+    )
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 APPARATUS_DEF_RE = re.compile(r"^\[\^[^\]]+\]:", re.MULTILINE)
@@ -69,11 +89,12 @@ def count_apparatus_defs(text: str) -> int:
     return len(APPARATUS_DEF_RE.findall(block))
 
 
-def raw_slice(distinctio: int, ls: int, le: int) -> str:
-    if distinctio >= 24:
-        raw = RAW_PT2.read_text(encoding="utf-8", errors="replace")
+def raw_slice(distinctio: int, ls: int, le: int, cfg: dict) -> str:
+    raws = cfg["raws"]
+    if cfg["split24"] and distinctio >= 24:
+        raw = raws[1].read_text(encoding="utf-8", errors="replace")
     else:
-        raw = RAW_PT1.read_text(encoding="utf-8", errors="replace")
+        raw = raws[0].read_text(encoding="utf-8", errors="replace")
     lines = raw.splitlines()
     if ls < 1 or le > len(lines) + 5:
         return ""
@@ -91,12 +112,15 @@ def main():
     ap.add_argument("--max-d", type=int, default=48)
     ap.add_argument("--min-diff", type=int, default=5,
                     help="flag chunks where (footer_notes - apparatus_defs) >= this (default 5)")
+    ap.add_argument("--volume", type=int, default=1, choices=(1, 2),
+                    help="1 = Vol I (default, pt1/pt2); 2 = Vol II (single raw)")
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
+    cfg = vol_cfg(args.volume)
 
     rows = []
-    for p in sorted(VOL1.glob("bon-sent-I-d*.md")):
-        m = re.match(r"bon-sent-I-d(\d+)-", p.name)
+    for p in sorted(cfg["cdir"].glob(cfg["cglob"])):
+        m = cfg["fn_re"].match(p.name)
         if not m:
             continue
         d = int(m.group(1))
@@ -109,7 +133,7 @@ def main():
             le = int(fm.get("line_end", ""))
         except (ValueError, TypeError):
             continue
-        slc = raw_slice(d, ls, le)
+        slc = raw_slice(d, ls, le, cfg)
         if not slc:
             continue
         chunk_count = count_apparatus_defs(text)
@@ -140,7 +164,7 @@ def main():
     rows.sort(key=lambda r: -r["diff"])
     flagged = [r for r in rows if r["flag"]]
 
-    lines = ["# Apparatus-Count Audit", ""]
+    lines = [f"# Apparatus-Count Audit — Vol {'II' if args.volume == 2 else 'I'}", ""]
     lines.append(f"Heuristic comparison of raw-OCR footer-note openers vs chunk `[^N]:` defs. Flag threshold: diff ≥ {args.min_diff}.")
     lines.append("")
     lines.append(f"**Flagged: {len(flagged)} chunks** (out of {len(rows)} audited).")

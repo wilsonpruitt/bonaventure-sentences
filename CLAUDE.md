@@ -119,7 +119,7 @@ That truth is a property of the divine being is shown from authorities and reaso
 > 3. **Offset `pdf = printed + 22`.** Running-head page numbers are routinely OCR digit-mangled (`80`=50, `34`=54; `DISTmCTIO 11.`=DISTINCTIO II). Trust the +22 offset and running-head *text*, never the OCR'd digits.
 > 4. **Cross-chunk footer split (recurring — every chunk boundary that falls inside a printed page):** a printed page's footer notes split by *body anchor*, not by which chunk physically holds the footer block. Before promoting a chunk, verify the prior chunk captured its share of any shared page footer; document the split in `## Notes`. Reading a shared footer in printed order once lets you populate the new chunk *and* retire a prior chunk's parked `[?]` in the same pass (session 10 did this for a2-q2's [^12]).
 > 5. **Chunking convention (locked d.1 sessions 8/10/11):** a short ARTICULUS opener (`Consequenter … quaeruntur duo …`) is folded into that article's **q1** — no standalone `dN-pM-aK-divisio` chunk. The pars-level divisio chunk holds the pars DIVISIO TEXTUS + TRACTATIO QUAESTIONUM (+ the first article's sub-divisio). A quaestio with **no scholion is normal** if the article's q1 scholion says `pro quaest. seq.` — check the sibling before treating a missing scholion as an error.
-> 6. **Mechanical checks:** the three guard-rail audit scripts are still **vol1-only** (`bon-sent-I-` glob). For Vol II the *only* mechanical check is `node site/scripts/build-content.mjs` (chunk count + parse + marker pairing). Manual confidence + the column-band PDF discipline carry the quality bar until the audits are extended to `bon-sent-II-`.
+> 6. **Mechanical checks:** the three guard-rail audits now support Vol II via `--volume 2` (added 2026-05-15) — run them before commit alongside `node site/scripts/build-content.mjs` (chunk count + parse + marker pairing). For Vol II the audits are coarser than for Vol I (see the Vol II audit-calibration notes under "Required guard-rail audits"): paraphrase reliably separates done-vs-skeleton, apparatus-count flag logic holds, but the header audit only catches gross dropouts. Manual confidence + the column-band PDF discipline still carry the fine-grained quality bar.
 > 7. **`[?]` flags:** tracked in the chunk's own `## Notes` + the in-repo `next-session-resume.md`, cleared in the d.10-style **decade polish-blocker** (600 dpi pass over d.1–d.10). There is no per-chunk `manual-review/tier2-ambiguities*.md` discipline for Vol II.
 >
 > Steps 1, 3, 4, 7–10 of the recipe below still apply as written. Steps 2/5/6 apply but with the PDF-priority inversion above.
@@ -175,10 +175,22 @@ Vol I has ~436 chunks total. Of these (per audit on 2026-05-01): ~56 Tier-2 comp
 After ANY chunk promotion, scaffold rebuild, or apparatus edit affecting one or more distinctions, run all three audit scripts and address findings before committing:
 
 ```bash
+# Vol I (default):
 python3.11 tools/audit-paraphrase.py --min-d N --max-d N
 python3.11 tools/audit-headers.py --min-d N --max-d N
 python3.11 tools/audit-apparatus-count.py --min-d N --max-d N
+
+# Vol II — add --volume 2 (single raw file, no pt1/pt2; header ranges from
+# chunk frontmatter since DISTINCTIO headers are OCR-garbled):
+python3.11 tools/audit-paraphrase.py --volume 2 --min-d N --max-d N
+python3.11 tools/audit-headers.py --volume 2 --min-d N --max-d N
+python3.11 tools/audit-apparatus-count.py --volume 2 --min-d N --max-d N
 ```
+
+**Vol II audit calibration (verified 2026-05-15 against d.1's 17 Tier-2 chunks):**
+- `audit-paraphrase --volume 2` cleanly partitions done from not-done: the 17 d.1 Tier-2 chunks land in **OK**; auto-chunked skeletons land in HIGH/CRITICAL (the `auto-chunked skeleton` smell + skeleton-vs-raw low Jaccard). A large HIGH bucket = "many skeletons remain", not a regression. Writes `manual-review/vol2-paraphrase-audit.md`.
+- `audit-apparatus-count --volume 2` flag logic is unchanged (SKELETON-SUSPECT / INCOMPLETE-SUSPECT); real Tier-2 chunks with apparatus don't flag. The raw-vs-chunk *diff* column is noisier than Vol I (two-column cascade footers) — triage signal only, expect ±10–18.
+- `audit-headers --volume 2` uses author-verified frontmatter line ranges, but the raw-side marker regexes undercount Vol II's garbled headers and global numeral-dedup collapses per-pars repeats, so Vol II diffs run **positive** (chunk ≥ raw). The LOSS flags still fire on a gross body dropout (a whole chunk's worth of headers missing); finer dropout detection on Vol II still relies on the per-session column-band PDF discipline, not this audit.
 
 These three scripts are guard rails against the failure modes caught in the 2026-05-08 cleanup campaign:
 
@@ -346,7 +358,7 @@ npx vercel deploy --prod --prebuilt --archive=tgz
 - ✓ `tools/extract-pages.py` — vol2 entry added (offset +22, printed range 11–1030).
 - ✓ `site/scripts/build-content.mjs` — now scans vol1/vol2/vol3/vol4 dirs (each chunk declares its own `book:`).
 - ⚠ `site/src/app/page.tsx:47,57` — landing copy still hardcoded "Volume I". Update in Phase 4 once vol2 has real chunks.
-- ⚠ `tools/audit-{paraphrase,headers,apparatus-count}.py` — still vol1-only (`bon-sent-I-` glob, pt1/pt2 slicer). **Now overdue:** d.1's 17 Tier-2 `bon-sent-II-` chunks (sessions 1–12, complete 2026-05-15) are unguarded by the audit scripts — only `build-content.mjs` smoke-tests them. Extending the three audits to a `bon-sent-II-` glob (single raw file, offset `pdf=printed+22`, no pt1/pt2 slicer) is the highest-value tooling task before d.2+ accumulates more unaudited chunks.
+- ✓ `tools/audit-{paraphrase,headers,apparatus-count}.py` — extended to Vol II 2026-05-15 via `--volume 2` (default 1 = unchanged Vol I behavior, regression-checked). Single raw file, no pt1/pt2 slicer; header audit takes per-distinction ranges from chunk frontmatter (DISTINCTIO headers are OCR-garbled). Verified against d.1's 17 Tier-2 chunks: paraphrase partitions done (17→OK) vs skeleton; apparatus-count 0 false flags; header audit coarse (positive diffs — see calibration notes in "Required guard-rail audits").
 
 ### Other
 

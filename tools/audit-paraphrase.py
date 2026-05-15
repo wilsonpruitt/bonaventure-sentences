@@ -14,9 +14,10 @@ Output: markdown report ranked by suspicion score, written to
 manual-review/d1-d40-paraphrase-audit.md by default.
 
 Usage:
-  python3.11 tools/audit-paraphrase.py                      # full report
+  python3.11 tools/audit-paraphrase.py                      # full report (Vol I)
   python3.11 tools/audit-paraphrase.py --max-d 25           # subset
   python3.11 tools/audit-paraphrase.py --chunk d3-littera   # single chunk diff dump
+  python3.11 tools/audit-paraphrase.py --volume 2           # Vol II (single raw, no pt1/pt2)
 """
 from __future__ import annotations
 import argparse
@@ -26,9 +27,36 @@ from dataclasses import dataclass
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-VOL1 = REPO / "vol1"
-RAW_PT1 = REPO / "raw" / "bonaventure_vol1_raw.txt"
-RAW_PT2 = REPO / "raw" / "bonaventure_vol1_pt2_raw.txt"
+
+
+def vol_cfg(volume: int) -> dict:
+    """Per-volume paths/globs. Default (volume=1) preserves the original Vol I
+    behavior exactly (two raw files, pt1 d<24 / pt2 d>=24). Vol II = a single
+    raw file, no pt split."""
+    if volume == 2:
+        return dict(
+            cdir=REPO / "vol2",
+            cglob="bon-sent-II-d*.md",
+            fn_re=re.compile(r"bon-sent-II-d(\d+)-"),
+            chunk_glob="bon-sent-II-{}.md",
+            chunk_glob_fuzzy="bon-sent-II-*{}*.md",
+            raws=[REPO / "raw" / "bonaventure_vol2_raw.txt"],
+            split24=False,
+            default_out="manual-review/vol2-paraphrase-audit.md",
+            vlabel="II",
+        )
+    return dict(
+        cdir=REPO / "vol1",
+        cglob="bon-sent-I-d*.md",
+        fn_re=re.compile(r"bon-sent-I-d(\d+)-"),
+        chunk_glob="bon-sent-I-{}.md",
+        chunk_glob_fuzzy="bon-sent-I-*{}*.md",
+        raws=[REPO / "raw" / "bonaventure_vol1_raw.txt",
+              REPO / "raw" / "bonaventure_vol1_pt2_raw.txt"],
+        split24=True,
+        default_out="manual-review/d1-d40-paraphrase-audit.md",
+        vlabel="I",
+    )
 
 # Status strings that smell like paraphrase / unfinished work
 SMELL_PATTERNS = [
@@ -117,31 +145,28 @@ def tokenize(s: str) -> set[str]:
     }
 
 
-def raw_slice(distinctio: int, ls: int, le: int) -> str:
-    # Pt2 starts at d.24 per memory; some d.24/d.25 content also lives in pt1.
-    # Heuristic: if distinctio >= 24 prefer pt2; let pt1 fallback if line range
-    # doesn't fit pt2.
-    pt2 = RAW_PT2.read_text(encoding="utf-8", errors="replace").splitlines()
-    pt1 = RAW_PT1.read_text(encoding="utf-8", errors="replace").splitlines()
-
+def raw_slice(distinctio: int, ls: int, le: int, cfg: dict) -> str:
     def take(lines: list[str]) -> str:
         if ls is None or le is None or ls < 1 or le > len(lines) + 5:
             return ""
         end = min(le, len(lines))
         return "\n".join(lines[ls - 1 : end])
 
+    raws = cfg["raws"]
+    if not cfg["split24"]:
+        # Vol II (or any single-raw volume): one file, slice by line number.
+        return take(raws[0].read_text(encoding="utf-8", errors="replace").splitlines())
+
+    # Vol I: pt2 starts at d.24 per memory; some d.24/d.25 content also lives
+    # in pt1. If distinctio >= 24 prefer pt2; fall back to pt1.
+    pt1 = raws[0].read_text(encoding="utf-8", errors="replace").splitlines()
+    pt2 = raws[1].read_text(encoding="utf-8", errors="replace").splitlines()
     if distinctio >= 24:
-        s = take(pt2)
-        if s:
-            return s
-        return take(pt1)
-    s = take(pt1)
-    if s:
-        return s
-    return take(pt2)
+        return take(pt2) or take(pt1)
+    return take(pt1) or take(pt2)
 
 
-def audit_chunk(path: Path, raw_pt1_lines: int, raw_pt2_lines: int) -> ChunkAudit | None:
+def audit_chunk(path: Path, cfg: dict) -> ChunkAudit | None:
     text = path.read_text(encoding="utf-8", errors="replace")
     fm = parse_frontmatter(text)
     if not fm:
@@ -180,7 +205,7 @@ def audit_chunk(path: Path, raw_pt1_lines: int, raw_pt2_lines: int) -> ChunkAudi
     elif not chunk_latin.strip():
         notes.append("no ## Latin block found — chunk malformed")
     else:
-        raw_text = raw_slice(distinctio, ls, le)
+        raw_text = raw_slice(distinctio, ls, le, cfg)
         if not raw_text:
             notes.append(f"raw slice empty (range {ls}-{le} out-of-bounds)")
         else:
@@ -297,7 +322,7 @@ def render_report(audits: list[ChunkAudit], max_d: int) -> str:
     return "\n".join(lines)
 
 
-def diff_dump(path: Path):
+def diff_dump(path: Path, cfg: dict):
     """Single-chunk debug dump: print chunk Latin alongside raw slice."""
     text = path.read_text(encoding="utf-8", errors="replace")
     fm = parse_frontmatter(text)
@@ -312,7 +337,7 @@ def diff_dump(path: Path):
     print(extract_latin(text)[:2000])
     print()
     print("## Raw OCR slice")
-    print(raw_slice(distinctio, ls, le)[:2000])
+    print(raw_slice(distinctio, ls, le, cfg)[:2000])
 
 
 def main():
@@ -320,36 +345,38 @@ def main():
     ap.add_argument("--max-d", type=int, default=40)
     ap.add_argument("--min-d", type=int, default=1)
     ap.add_argument("--chunk", help="single-chunk diff dump (e.g. d3-littera)")
-    ap.add_argument("--out", default="manual-review/d1-d40-paraphrase-audit.md")
+    ap.add_argument("--volume", type=int, default=1, choices=(1, 2),
+                    help="1 = Vol I (default, pt1/pt2); 2 = Vol II (single raw)")
+    ap.add_argument("--out", default=None,
+                    help="report path (default: per-volume manual-review path)")
     args = ap.parse_args()
+    cfg = vol_cfg(args.volume)
 
     if args.chunk:
-        matches = list(VOL1.glob(f"bon-sent-I-{args.chunk}.md"))
+        matches = list(cfg["cdir"].glob(cfg["chunk_glob"].format(args.chunk)))
         if not matches:
-            matches = list(VOL1.glob(f"bon-sent-I-*{args.chunk}*.md"))
+            matches = list(cfg["cdir"].glob(cfg["chunk_glob_fuzzy"].format(args.chunk)))
         if not matches:
             sys.exit(f"no chunk match for {args.chunk}")
         for p in matches:
-            diff_dump(p)
+            diff_dump(p, cfg)
         return
 
     audits: list[ChunkAudit] = []
-    raw_pt1_n = sum(1 for _ in RAW_PT1.open())
-    raw_pt2_n = sum(1 for _ in RAW_PT2.open())
-    for p in sorted(VOL1.glob("bon-sent-I-d*.md")):
+    for p in sorted(cfg["cdir"].glob(cfg["cglob"])):
         # filter by distinctio
-        m = re.match(r"bon-sent-I-d(\d+)-", p.name)
+        m = cfg["fn_re"].match(p.name)
         if not m:
             continue
         d = int(m.group(1))
         if not (args.min_d <= d <= args.max_d):
             continue
-        a = audit_chunk(p, raw_pt1_n, raw_pt2_n)
+        a = audit_chunk(p, cfg)
         if a is not None:
             audits.append(a)
 
     report = render_report(audits, args.max_d)
-    out_path = REPO / args.out
+    out_path = REPO / (args.out or cfg["default_out"])
     out_path.write_text(report, encoding="utf-8")
     print(f"wrote {out_path} — {len(audits)} chunks audited")
     crit = sum(1 for a in audits if a.score >= 8)

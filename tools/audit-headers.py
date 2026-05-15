@@ -12,9 +12,18 @@ For each distinction d.N:
   - Report mismatches
 
 Usage:
-  python3.11 tools/audit-headers.py                  # full corpus
+  python3.11 tools/audit-headers.py                  # full corpus (Vol I)
   python3.11 tools/audit-headers.py --min-d 27 --max-d 27
   python3.11 tools/audit-headers.py --out manual-review/headers-audit.md
+  python3.11 tools/audit-headers.py --volume 2       # Vol II (ranges from frontmatter)
+
+Vol I derives per-distinction raw ranges by parsing `DISTINCTIO N.` headers
+in the raw OCR. Vol II's distinction headers are OCR-garbled past reliable
+parsing (`DISTINCTIO II.` → `DISTmCTIO 11.`), so for `--volume 2` the raw
+slice for distinction d is taken from the chunk frontmatter instead: it is
+[min(line_start), max(line_end)] over all `bon-sent-II-d{d}-*` chunks. Those
+bounds are author-verified during the re-chunk pass, so this is in fact a
+tighter ground truth than header-parsing.
 """
 from __future__ import annotations
 import argparse
@@ -24,9 +33,62 @@ from collections import defaultdict
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-VOL1 = REPO / "vol1"
-RAW_PT1 = REPO / "raw" / "bonaventure_vol1_raw.txt"
-RAW_PT2 = REPO / "raw" / "bonaventure_vol1_pt2_raw.txt"
+
+
+def vol_cfg(volume: int) -> dict:
+    if volume == 2:
+        return dict(
+            cdir=REPO / "vol2",
+            cglob_all="bon-sent-II-d*.md",
+            cglob_d="bon-sent-II-d{}-*.md",
+            fn_re=re.compile(r"bon-sent-II-d(\d+)-"),
+            raws=[REPO / "raw" / "bonaventure_vol2_raw.txt"],
+            ranges_from="frontmatter",
+            vlabel="II",
+        )
+    return dict(
+        cdir=REPO / "vol1",
+        cglob_all="bon-sent-I-d*.md",
+        cglob_d="bon-sent-I-d{}-*.md",
+        fn_re=re.compile(r"bon-sent-I-d(\d+)-"),
+        raws=[REPO / "raw" / "bonaventure_vol1_raw.txt",
+              REPO / "raw" / "bonaventure_vol1_pt2_raw.txt"],
+        ranges_from="raw-headers",
+        vlabel="I",
+    )
+
+
+FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
+
+
+def parse_fm(text: str) -> dict:
+    m = FM_RE.match(text)
+    if not m:
+        return {}
+    out: dict = {}
+    for line in m.group(1).splitlines():
+        if ":" in line and not line.startswith(" "):
+            k, _, v = line.partition(":")
+            out[k.strip()] = v.strip().strip('"').strip("'")
+    return out
+
+
+def vol2_distinction_line_ranges(cfg: dict) -> dict[int, tuple[int, int]]:
+    """Build {d: (min_line_start, max_line_end)} from vol2 chunk frontmatter."""
+    spans: dict[int, list[int]] = {}
+    for p in sorted(cfg["cdir"].glob(cfg["cglob_all"])):
+        m = cfg["fn_re"].match(p.name)
+        if not m:
+            continue
+        d = int(m.group(1))
+        fm = parse_fm(p.read_text(encoding="utf-8", errors="replace"))
+        try:
+            ls, le = int(fm["line_start"]), int(fm["line_end"])
+        except (KeyError, ValueError, TypeError):
+            continue
+        lo, hi = spans.get(d, (ls, le))
+        spans[d] = (min(lo, ls), max(hi, le))
+    return spans
 
 # OCR-garble-tolerant regex for each marker class.
 # pt2 OCR has heavy column-bleed: markers can sit mid-line, indented arbitrarily,
@@ -115,7 +177,7 @@ def count_markers_in_slice(slice_text: str) -> dict[str, int]:
     }
 
 
-def count_chunk_headers(distinctio: int) -> dict[str, int]:
+def count_chunk_headers(distinctio: int, cfg: dict) -> dict[str, int]:
     """Sum unique semantic headers across all chunk files for this distinction.
     Counts only Latin-form headers in `## Latin` body sections.
     Roman-numeral keys are scoped per chunk-file (so two chunks each having
@@ -123,7 +185,7 @@ def count_chunk_headers(distinctio: int) -> dict[str, int]:
     dubs: set[str] = set()
     arts: set[str] = set()
     quaests: set[str] = set()
-    for p in sorted(VOL1.glob(f"bon-sent-I-d{distinctio}-*.md")):
+    for p in sorted(cfg["cdir"].glob(cfg["cglob_d"].format(distinctio))):
         text = p.read_text(encoding="utf-8", errors="replace")
         m = re.match(r"^---\n.*?\n---\n", text, re.DOTALL)
         body = text[m.end():] if m else text
@@ -149,28 +211,47 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--min-d", type=int, default=1)
     ap.add_argument("--max-d", type=int, default=48)
+    ap.add_argument("--volume", type=int, default=1, choices=(1, 2),
+                    help="1 = Vol I (default, ranges from raw DISTINCTIO headers); "
+                         "2 = Vol II (ranges from chunk frontmatter)")
     ap.add_argument("--out", default=None, help="optional markdown report path")
     args = ap.parse_args()
+    cfg = vol_cfg(args.volume)
 
-    pt1 = RAW_PT1.read_text(encoding="utf-8", errors="replace")
-    pt2 = RAW_PT2.read_text(encoding="utf-8", errors="replace")
+    if cfg["ranges_from"] == "frontmatter":
+        # Vol II: per-distinction raw slice = [min line_start, max line_end]
+        # over that distinction's chunks (line-based into the single raw file).
+        raw_lines = cfg["raws"][0].read_text(encoding="utf-8", errors="replace").splitlines()
+        spans = vol2_distinction_line_ranges(cfg)
 
-    # pt1 covers d.1-d.23 territory; pt2 covers d.24-d.48 territory
-    pt1_ranges = find_distinction_ranges(pt1)
-    pt2_ranges = find_distinction_ranges(pt2)
+        def slice_for(d: int):
+            if d not in spans:
+                return None
+            lo, hi = spans[d]
+            return "\n".join(raw_lines[lo - 1:min(hi, len(raw_lines))])
+    else:
+        pt1 = cfg["raws"][0].read_text(encoding="utf-8", errors="replace")
+        pt2 = cfg["raws"][1].read_text(encoding="utf-8", errors="replace")
+        # pt1 covers d.1-d.23 territory; pt2 covers d.24-d.48 territory
+        pt1_ranges = find_distinction_ranges(pt1)
+        pt2_ranges = find_distinction_ranges(pt2)
+
+        def slice_for(d: int):
+            if d <= 23 and d in pt1_ranges:
+                s, e = pt1_ranges[d]
+                return pt1[s:e]
+            if d in pt2_ranges:
+                s, e = pt2_ranges[d]
+                return pt2[s:e]
+            return None
 
     rows = []
     for d in range(args.min_d, args.max_d + 1):
-        if d <= 23 and d in pt1_ranges:
-            start, end = pt1_ranges[d]
-            slice_text = pt1[start:end]
-        elif d in pt2_ranges:
-            start, end = pt2_ranges[d]
-            slice_text = pt2[start:end]
-        else:
+        slice_text = slice_for(d)
+        if slice_text is None:
             continue
         raw_counts = count_markers_in_slice(slice_text)
-        chunk_counts = count_chunk_headers(d)
+        chunk_counts = count_chunk_headers(d, cfg)
         diff = {k: chunk_counts[k] - raw_counts[k] for k in raw_counts}
         # raw counts include running-head false positives; keep tolerance
         # Negative diff = chunk has FEWER headers than raw (silent dropout suspect)
@@ -191,8 +272,9 @@ def main():
         })
 
     # Render
-    lines = ["# Header-Inventory Audit", ""]
-    lines.append("Per-distinction count of semantic headers in raw OCR vs chunk body bodies. Negative diff = chunk has fewer headers than raw (silent dropout suspect). Tolerance ±1 because OCR has running-head false positives.")
+    lines = [f"# Header-Inventory Audit — Vol {cfg['vlabel']}", ""]
+    lines.append("Per-distinction count of semantic headers in raw OCR vs chunk body bodies. Negative diff = chunk has fewer headers than raw (silent dropout suspect). Tolerance ±1 because OCR has running-head false positives."
+                 + (" Vol II ranges are taken from chunk frontmatter line_start/line_end (author-verified), not from parsing OCR-garbled DISTINCTIO headers." if args.volume == 2 else ""))
     lines.append("")
     lines.append("| d | ART raw / chunk / diff | QUAEST raw / chunk / diff | DUB raw / chunk / diff | Flag |")
     lines.append("|---|---|---|---|---|")
