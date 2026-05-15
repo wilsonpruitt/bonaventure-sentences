@@ -1,8 +1,8 @@
-# Next session — Vol II d.1 Tier-2 continuation (session 8)
+# Next session — Vol II d.1 Tier-2 continuation (session 9)
 
-Updated 2026-05-15 at close of session 7 (d.1 p2-a1-q2 done — ARTICLE I COMPLETE).
+Updated 2026-05-15 at close of session 8 (d.1 p2-a2-q1 done — ARTICLE II q1 complete).
 
-Head commit: `06ea22a` — Vol II d.1 Tier-2 session 7 (p2-a1-q2, 23-entry apparatus, full-chunk PDF re-set).
+Head commit: `59836b3` — Vol II d.1 Tier-2 session 8 (p2-a2-q1, 13-entry apparatus, full-chunk PDF re-set, ART. II opener absorbed). Resume commit follows.
 
 ## Status
 
@@ -18,11 +18,12 @@ Head commit: `06ea22a` — Vol II d.1 Tier-2 session 7 (p2-a1-q2, 23-entry appar
   - `d1-p1-a3-q1` *creation as mutation* (session 4)
   - `d1-p1-a3-q2` *creation as medium* (session 4) — incl. Erigena/Council-of-Sens history
   - `d1-p1-dubia` *DUB I–V* (session 4; **page-38 apparatus backfilled session 5**, entries 16–21)
-- Vol II d.1 pars 2 **IN PROGRESS** (3/8 chunks Tier-2; ARTICLE I complete):
+- Vol II d.1 pars 2 **IN PROGRESS** (4/8 chunks Tier-2; ARTICLE I complete + ART. II q1):
   - `d1-p2-divisio` *Divisio textus + Tractatio quaestionum* (session 5)
   - `d1-p2-a1-q1` *Utrum a primo efficiente debuerit, vel potuerit esse rerum multitudo* (session 6) — 16-entry apparatus, PDF-verified
   - `d1-p2-a1-q2` *Utrum rerum universitas triplici differentia distinguatur* (session 7) — 23-entry apparatus, full-chunk PDF re-set (largest chunk in d.1)
-- Site build: 2 books, 873 chunks, **423 translated**.
+  - `d1-p2-a2-q1` *Quis sit finis principalior rerum conditarum, divina gloria an utilitas nostra* (session 8) — ART. II opener absorbed (no separate a2-divisio chunk); 13-entry apparatus, full PDF re-set, cross-chunk footer splits on pp. 43 & 45
+- Site build: 2 books, 873 chunks, **424 translated**.
 - No deploy. Wilson's policy: hold until Vol II has meaningful Tier-2 work to show.
 
 ## Open [?] flags parked for d.10 polish-blocker
@@ -33,14 +34,18 @@ Head commit: `06ea22a` — Vol II d.1 Tier-2 session 7 (p2-a1-q2, 23-entry appar
 - `d1-p1-dubia` *in octavo* — stray `\` OCR glyph after *motorem primum, in octavo* (raw 3308); no distinct page-38 note, treated as covered by note 3's *Subaudi: libro Physicorum* ([^19]). Confirm at 600 dpi (printed p. 38 = PDF p. 60).
 - `d1-p2-a1-q1` [^1] — *de Gen. et Corr.* locus reads *text. 56* in the 450 dpi PDF (OCR had *text. 36*); re-confirm at 600 dpi. [^7] cross-ref *tom. I pag. 171* taken from OCR (left edge cropped in the 450 dpi extract). Both low-confidence, non-blocking. See `manual-review/tier2-ambiguities-II-d1-p2-a1-q1.md`.
 - `d1-p2-a1-q2` [^8] / [^20] — [^8] (*Supple: supremi*) body anchor sits ambiguously in the two-column Sed-contra-1 (*primae differentiae generis*); [^20] (*Codd. U Y supplent ordinatur*) `°` marker fell in the cascade-damaged *ordo in formis corporalibus* sentence, content-matched to *forma elementi*. Non-blocking; re-confirm at 600 dpi. (No separate per-chunk ambiguities file yet — fold into the d.10 log.)
+- `d1-p2-a2-q1` [^1] / [^13] / [^7] — [^1] single anchor after *Magister* carries Lombard + Scripture + Augustine *de Doctr. christ.* (Quaracchi note 4); re-confirm marker not repeated after *Doctrina christiana*. [^13] (*Subaudi cum cod. N Deum* → reply 4 *in laudando*) rests on the two-column p.45-footer linearization at the a2-q1/a2-q2 boundary — re-confirm p.45 footer note 1 is not q2's opener. [^7] (*quodsi non frustra facit*) marker surfaced as a stray `S` glyph (raw 3756), content-matched to Aristot. *de Caelo* p.44 note 5. All non-blocking; fold into the d.10 log.
 
-## Next chunk: d1-p2-a2 (ARTICLE II — needs re-chunk first)
+## Next chunk: d1-p2-a2-q2 (ARTICLE II, q2 — re-derive line_end first)
 
-**ART. I is complete** (divisio + a1-q1 + a1-q2). Next is ARTICULUS II *De rerum ordine ad finem et ad invicem* (raw 3672).
+**ART. II q1 is complete.** The ART. II opener was absorbed into `d1-p2-a2-q1` (no separate `a2-divisio` chunk — it parallels `a1-q1` carrying its own `### ARTICULUS I.` heading). Next is **`d1-p2-a2-q2`**: *Utrum natura spiritualis dignitate naturae praecellat compositam ex spirituali et corporali* — "Whether spiritual nature surpasses in dignity of nature [that which is] composed of spiritual and corporeal."
 
-ART. II has its own short **divisio opener** at raw 3676–3679: *"Consequenter secundo loco quaeritur de rebus productis quantum ad ordinem. Et circa hoc quaeruntur duo. Primum est de ordine rerum in comparatione ad finem. Secundum est de ordine earum, quem habent ad invicem."* — i.e. ART. II has q1 (de ordine ad finem) + q2 (de ordine ad invicem). **Before translating, re-chunk**: decide whether this opener is its own `d1-p2-a2-divisio` chunk or folds into `d1-p2-a2-q1`; check the auto-chunk skeletons for `bon-sent-II-d1-p2-a2-*` and grep raw for the real semantic headers (the auto-chunker line ranges past a1 are stale — see table).
+- Real boundaries (verified session 8): `QU.\ESTIO II.` head at **raw 3818**; title at 3819; body opens *Secundo quaeritur de ordine rerum ad invicem. Nam hunc tangit Magister in littera...* at raw 3820. End at **raw 3924** (next semantic header `ARTICULUS III.` is raw **3925**, then `QUAESTIO I.` a3-q1 at raw **3934**). The auto-chunk skeleton's 3818–3924 is correct here; still re-verify against raw before translating.
+- Pages: q2 opens at the bottom of printed **p. 45** (raw 3818; p.45→46 running head `46 SENTENTIARUM LIB. II.` at raw ~3844), so q2 spans **pp. 45–~48** (PDF 67–~70, offset +22). Looks large (two `CONCLUSIO` markers, ~1550 OCR words) — budget a solo session + full 450 dpi PDF pass.
+- **Cross-chunk footer inheritance (already mapped in a2-q1's Notes):** the printed **p. 45 footer notes 2–5** anchor in *this* q2 (`Hic c. 6 in fine` → q2 intro *Magister in littera*; `Aristot. I. Rhetor. ... de Bono maiore et utili maiore` and `Aristot. III. Topic. c. 2` → q2 Fundamenta; `In multis locis ... de Lib. Arb.` → q2 Contra 1 *Augustinus*). p.45 footer note 1 (*Subaudi cum cod. N Deum*) belongs to a2-q1 and is already its [^13] — do **not** re-capture it. Start q2's apparatus crosswalk from the p.45 footer's note 2.
+- After a2-q2: **ART. III** *de differentia Angeli et animae* — check raw 3925–3934 for an ART. III title + opener (ART. II had one at 3676–3679); decide fold-vs-split the same way (precedent now set: fold the short opener into a3-q1, no standalone a3-divisio). Then `d1-p2-dubia` (~raw 4187–4263, `DUBIA CIRCA LITTERAM MAGISTRI` at raw 4187, `DUB. 1` at 4189) closes d.1.
 
-- `d1-p2-a2-q1` title (raw 3682): *Quis sit finis principalior rerum conditarum, utrum divina gloria, an utilitas nostra* — "Which is the more principal end of created things, whether the divine glory or our utility." Body starts raw 3684; running heads `44 SENTENTIARUM LIB. II.` at raw ~3708, `46 SENTENTIARUM LIB. II.` at raw ~3844, with a `CONCLUSIO` at raw ~3714 and another at ~3871 — a2-q1 looks large; verify `line_end` at the next `QUAESTIO`/`ARTICULUS` before translating, and budget a PDF pass (the 3686–3690 region already shows column-bleed `Fundamenta`/garble).
+`tools/colcrop.py` (committed session 8) is the PIL column-band cropper: `python3.11 tools/colcrop.py vol2 <printed-page> [split_x=1660] [n_bands=3] [scale=1.8]` → `/tmp/colcrop/vol2-pNNN-{L,R}-{0..n}.png`. Read L column top→bottom then R column; footer bands are the bottom band of each column.
 
 ### Apparatus / PDF discipline (carry forward — proven sessions 6–7)
 
@@ -72,6 +77,7 @@ Session 7 (q2, ~2160 words, pp. 41–43) confirmed: for any large quaestio the I
 - Session 5: 1 divisio chunk + a cross-chunk apparatus backfill (page-38 footer found mis-split). Cross-chunk corrections cost ~1 chunk-equivalent of effort — budget for them when a chunk boundary falls inside a printed page.
 - Session 6: `d1-p2-a1-q1` solo focused session — dense ~1190-word quaestio (pp. 39–40), full 450 dpi PDF pass.
 - Session 7: `d1-p2-a1-q2` solo focused session — **largest chunk in d.1** (~2160 words, pp. 41–43, 23 apparatus entries), entire chunk re-set against PDF. A ~2000-word quaestio with heavy cascade damage is a full session on its own; do not bundle.
+- Session 8: `d1-p2-a2-q1` solo focused session — ~1300-word quaestio (pp. 43–45, 13 apparatus entries) + re-chunk decision (absorb ART. II opener) + two cross-chunk footer splits (pp. 43, 45) verified against a1-q2's committed crosswalk. Re-chunk + dual cross-chunk split adds ~½ chunk-equivalent over a clean mid-size quaestio. Added `tools/colcrop.py`.
 
 ### Remaining d.1 pars 2 chunks (in order)
 
@@ -82,10 +88,10 @@ Pars II structure (from the p2 divisio's *Tractatio quaestionum*): three article
 | ~~d1-p2-divisio~~ | 3321–3378 | ✅ session 5 |
 | ~~d1-p2-a1-q1~~ | 3382–3502 | ✅ session 6 (16-entry apparatus, PDF) |
 | ~~d1-p2-a1-q2~~ | 3503–3670 | ✅ session 7 (23-entry apparatus, full PDF re-set) |
-| d1-p2-a2-q1 | 3681–? | **next** — *Quis sit finis principalior rerum conditarum* (preceded by ART. II divisio opener raw 3676–3679; re-chunk first). Looks large (CONCLUSIO at ~3714 and ~3871) |
-| d1-p2-a2-q2 | ? | *de ordine rerum ad invicem* |
-| d1-p2-a3-q* | ? | ART. III *de differentia Angeli et animae* — q-count TBD from raw |
-| d1-p2-dubia | ~4189–4263 | closes d.1 |
+| ~~d1-p2-a2-q1~~ | 3672–3817 | ✅ session 8 (13-entry apparatus, full PDF re-set; ART. II opener absorbed, pp. 43/45 cross-chunk footer splits) |
+| d1-p2-a2-q2 | 3818–3924 | **next** — *Utrum natura spiritualis dignitate naturae praecellat compositam ex spirituali et corporali*. Inherits p.45 footer notes 2–5. Looks large (~1550 words, pp. 45–~48) |
+| d1-p2-a3-q* | 3934–~4186 | ART. III *de differentia Angeli et animae* — check raw 3925–3934 for ART. III title+opener (fold into a3-q1 like a2); q-count TBD from raw |
+| d1-p2-dubia | ~4187–4263 | `DUBIA CIRCA LITTERAM MAGISTRI` raw 4187, `DUB. 1` 4189 — closes d.1 |
 
 ART. I done. Remaining: ART. II (2 q) + ART. III + closing dubia. **All line ranges past a1 are stale auto-chunker estimates — re-derive each from raw semantic-header greps before translating.** ~3–5 more focused sessions to finish d.1 (large quaestiones are solo sessions; only short/clean ones bundle).
 
