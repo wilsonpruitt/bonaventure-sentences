@@ -3,13 +3,16 @@ id: "bon-sent-II-d3-p1-a2-q2"
 volume: 2
 book: 2
 distinctio: 3
+pars: 1
 articulus: 2
 quaestio: 2
 type: quaestio
+title_la: "Utrum personalis proprietas in Angelis sit substantialis, vel accidentalis."
+title_en: ""
 line_start: 7973
 line_end: 8197
 word_count_latin: 3117
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 7973-8197) — QUAESTIO II (7973). Ends before QUAESTIO III (8198)."
 format_version: 1
 ---
 
@@ -248,7 +251,3 @@ i.praedicati, quia proprium dicitur mcuiare de ge-                       alibi r
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

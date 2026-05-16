@@ -1,21 +1,33 @@
 ---
-id: "bon-sent-II-d3-p1-divisio-dup2"
+id: "bon-sent-II-d3-p2-divisio"
 volume: 2
 book: 2
 distinctio: 3
+pars: 2
 type: divisio
-line_start: 8486
-line_end: 8506
-word_count_latin: 197
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Commentarius in Distinctionem III, Pars II — Divisio textus."
+title_en: ""
+line_start: 8477
+line_end: 8510
+word_count_latin: 231
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 8477-8510) — COMMENTARIUS IN DIST. III Pars II (8477) + DIVISIO TEXTUS (8486) + TRACTATIO QUAESTIONUM (8498). ARTICULUS I opener (8507) folds into a1-q1."
 format_version: 1
 ---
 
-# bon-sent-II-d3-p1-divisio-dup2
+# bon-sent-II-d3-p2-divisio
 
 ## Latin
 
-DIVISIO TEXTUS.
+C0MMENTARIU8                         IN DISTINCTIONEM III.
+                                                                       Pars 11.
+
+                                          De habitibus per naturam Angelis superadditis.
+
+                                               Illud quoque investigatione dignum videtur.
+
+                                                    TEXTUM     MAGISTRl   VIDE     SUPRA    PAG.   86.
+
+                                                                 DIVISIO TEXTUS.
 
              Supra egit Magister de naturaliiras attributis                      ponit opinionem veram, similiter cum sua confirma-
        ipsis Angelis. In hac parte agit de habitibus su-                         tione, ibi: Aliis autem videtur etc. In tertia opi-
@@ -36,6 +48,10 @@ DIVISIO TEXTUS.
         habuit in sua creatione.                                                 stanti suae creationis ex propria volunlate fuerit
               Secundo quaeritur de naturali sua cognitione.                      malus.
 
+                                                                 ARTIGULUS             I.
+
+                                        De qualitate , quam Angelus habuit in sua creatione.
+
 ## English
 
 [Translation pending]
@@ -43,7 +59,3 @@ DIVISIO TEXTUS.
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

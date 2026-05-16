@@ -1,19 +1,22 @@
 ---
-id: "bon-sent-II-d3-p1-a1-q1-dup2"
+id: "bon-sent-II-d3-p2-a1-q1"
 volume: 2
 book: 2
 distinctio: 3
+pars: 2
 articulus: 1
 quaestio: 1
 type: quaestio
+title_la: "Utrum Deus malum condiderit Angelum."
+title_en: ""
 line_start: 8511
 line_end: 8674
 word_count_latin: 2254
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 8511-8674) — ARTICULUS I opener folded in + QUAESTIO I (8511). Ends before QUAESTIO II (8675)."
 format_version: 1
 ---
 
-# bon-sent-II-d3-p1-a1-q1-dup2
+# bon-sent-II-d3-p2-a1-q1
 
 ## Latin
 
@@ -187,7 +190,3 @@ itemaccepta-enim facit Deus , nisi quod vuU; sed omne quod                      
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

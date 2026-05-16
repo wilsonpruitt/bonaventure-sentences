@@ -3,13 +3,16 @@ id: "bon-sent-II-d3-p2-a2-q1"
 volume: 2
 book: 2
 distinctio: 3
+pars: 2
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 8864
+title_la: "Utrum Angelus omnia creata, quae cognoscit, cognoscat per species innatas."
+title_en: ""
+line_start: 8858
 line_end: 9162
-word_count_latin: 4296
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 4323
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 8858-9162) — ARTICULUS II opener (8858) folded in + QUAESTIO I (8864). Ends before QUAESTIO II (9163)."
 format_version: 1
 ---
 
@@ -17,7 +20,13 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTIGULUS II.
+                                                          De naturali cognitione Angeli.
+
+              Circa secundum principale ef^ circa                   Angeli           Primum est de cognitione ipsius creaturae.
+         naturalem cognitionem duo quaeruntur.                                       Secundum de cognitione creatricis essentiae.
+
+                                                       QUAESTIO I.
                           Utrum Angelus omnia creata, quae cogno.scil, cognoscat per species innatas.
               Quaeritur ergo primo , utrum Angelus omnia                            1. Videtur sacra Scriptura velle, Ezechielis vi-FnDdamenta.
          creata, quae cognoscit, cognoscat per species inna-                   gesiino octavo ' : Tu plenus sapientia et perfectus
@@ -322,7 +331,3 @@ singularia distincte repraesentent. Scot. autem, cui forc concor-        11. q. 
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

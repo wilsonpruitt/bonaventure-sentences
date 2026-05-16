@@ -3,13 +3,16 @@ id: "bon-sent-II-d3-p1-a2-q1"
 volume: 2
 book: 2
 distinctio: 3
+pars: 1
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 7824
+title_la: "Utrum in Angelis sit mera discretio personalis."
+title_en: ""
+line_start: 7814
 line_end: 7972
-word_count_latin: 2275
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 2322
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 7814-7972) — ARTICULUS II opener (7814) folded in + QUAESTIO I (7824). Ends before QUAESTIO II (7973)."
 format_version: 1
 ---
 
@@ -17,7 +20,17 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS          II.
+
+                                                               De discretione personali.
+
+                Consequenler quaeritur de secundo attributo ,                   scretio personalis.
+                                                                                      Secundo tiuaeritur, utrum haec proprietas sit
+          scilicet de discretione ■* personali. Circa quani tria
+          quaeruntur.                                                           accidentalis , aut substantialis.
+                Primo quaeritur, utrum in Angelis sit raera di-                       Tertio vero, utrum sit materialis, vel formalis.
+
+                                                                 QUAESTIO I.
                                                Utruni in Angelis sit mera discretio persoiialis.
 
                 Quod autem in Angelis sit 7nera discretio per-                  miriisteria differentia speeie, quot Daniel enuraerat:
@@ -171,7 +184,3 @@ Notandum. hominibus et in Angelis est divinae potentiae et                    di
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

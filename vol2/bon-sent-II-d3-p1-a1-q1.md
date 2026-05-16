@@ -3,13 +3,16 @@ id: "bon-sent-II-d3-p1-a1-q1"
 volume: 2
 book: 2
 distinctio: 3
+pars: 1
 articulus: 1
 quaestio: 1
 type: quaestio
+title_la: "Utrum Angeli sint compositi ex materia et forma."
+title_en: ""
 line_start: 6859
 line_end: 7220
 word_count_latin: 6233
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 6859-7220) — ARTICULUS I opener folded in + QUAESTIO I (6859). Ends before QUAESTIO II (7221)."
 format_version: 1
 ---
 
@@ -386,7 +389,3 @@ patet in Angelo el anima, quia dicitur de eo quod est anima,           pateretur
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

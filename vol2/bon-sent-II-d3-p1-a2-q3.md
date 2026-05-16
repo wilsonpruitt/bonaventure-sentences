@@ -3,13 +3,16 @@ id: "bon-sent-II-d3-p1-a2-q3"
 volume: 2
 book: 2
 distinctio: 3
+pars: 1
 articulus: 2
 quaestio: 3
 type: quaestio
+title_la: "Utrum discretio personalis sit a parte principii formalis, vel materialis."
+title_en: ""
 line_start: 8198
-line_end: 8359
-word_count_latin: 1883
-transcription_status: "auto-chunked 2026-05-13"
+line_end: 8358
+word_count_latin: 1880
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 8198-8358) — QUAESTIO III (8198). Ends before DUBIA CIRCA LITTERAM (8359)."
 format_version: 1
 ---
 
@@ -178,7 +181,6 @@ fandam.     ^^^^ ^^^ .^ .^^^ supposito, sive quodest, cuius di-                 
  ™°°"^ ^' dignitatis incomraunicabiliter existens in hypostasi;
                                                                                partem ■'.
                                                                            mam MAGISTRI.
-                                                          DUBIA CIRCA LITTERAM
 
 ## English
 
@@ -187,7 +189,3 @@ fandam.     ^^^^ ^^^ .^ .^^^ supposito, sive quodest, cuius di-                 
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

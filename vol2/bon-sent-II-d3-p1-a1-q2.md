@@ -3,13 +3,16 @@ id: "bon-sent-II-d3-p1-a1-q2"
 volume: 2
 book: 2
 distinctio: 3
+pars: 1
 articulus: 1
 quaestio: 2
 type: quaestio
+title_la: "Utrum materia, ex qua compositi sunt Angeli, sit eadem cum materia corporalium."
+title_en: ""
 line_start: 7221
 line_end: 7579
 word_count_latin: 4660
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 7221-7579) — QUAESTIO II (7221). Ends before QUAESTIO III (7580)."
 format_version: 1
 ---
 
@@ -382,7 +385,3 @@ positorum.
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

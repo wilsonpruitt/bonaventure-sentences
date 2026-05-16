@@ -3,11 +3,14 @@ id: "bon-sent-II-d3-p1-divisio"
 volume: 2
 book: 2
 distinctio: 3
+pars: 1
 type: divisio
-line_start: 6824
-line_end: 6854
-word_count_latin: 335
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Commentarius in Distinctionem III, Pars I — Divisio textus."
+title_en: ""
+line_start: 6817
+line_end: 6858
+word_count_latin: 359
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 6817-6858) — COMMENTARIUS IN DIST. III Pars I (6817) + DIVISIO TEXTUS (6824) + TRACTATIO QUAESTIONUM (6836). ARTICULUS I opener (6855) folds into a1-q1."
 format_version: 1
 ---
 
@@ -15,7 +18,14 @@ format_version: 1
 
 ## Latin
 
-DIVISIO TEXTUS.
+COMMENTAPJUS                         IN DISTINCTIONEM III.
+                                                                        Pars I.
+
+                                        Quales crcati siot Aiigeli quoad naturalia attributa.
+
+                                                            Ecce     ostensum      est etc.
+
+                                                                   DIVISIO TEXTUS.
 
               Supra egit Magister, quanrto et ubi creati sunt                   miseriae, infra distinctione quarta: Post haec viden-
          Angeli. In hac parte ostendit, quales facti sunt. Et                   dum, utrum perfectos etc.
@@ -45,6 +55,11 @@ DIVISIO TEXTUS.
          sit alludunl ad Isai. 14, 13, et illa alia verba qui homo di-                * Codd. B C D E et edd. I , 8 quoniam.
                                                          DIST. III. P. I. ART. I. QUAEST. I.                                                         89
 
+
+                                                                     ARTICULUS 1.
+
+                                                        De dmplicikite essentiae in Angelis.
+
 ## English
 
 [Translation pending]
@@ -52,7 +67,3 @@ DIVISIO TEXTUS.
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

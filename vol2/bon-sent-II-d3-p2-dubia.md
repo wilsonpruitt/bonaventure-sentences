@@ -3,11 +3,14 @@ id: "bon-sent-II-d3-p2-dubia"
 volume: 2
 book: 2
 distinctio: 3
+pars: 2
 type: dubia
-line_start: 9604
+title_la: "Dubia circa litteram Magistri (Pars II)."
+title_en: ""
+line_start: 9602
 line_end: 9660
-word_count_latin: 713
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 717
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 9602-9660) — DUBIA CIRCA LITTERAM MAGISTRI (9602): DUB I (9604), DUB II (9641), DUB III (9643). Ends before DISTINCTIO IV (9661)."
 format_version: 1
 ---
 
@@ -15,7 +18,9 @@ format_version: 1
 
 ## Latin
 
-DUB.    1.                                  Quoniam igitur lucifer excellens fuit inler ceteras
+DUBIA GIRCA LITTERAM MAGISTRL
+
+                                         DUB.    1.                                  Quoniam igitur lucifer excellens fuit inler ceteras
                                                                                      crealuras, et ipse sprevit gratiam et in veritate non
                 In parle ista sunt dubilationes circa litteram,                      stetit'; ideo dicitur initium fi.gmenti. Unde et alia
           et primo quaeritur de intellectu illius verbi lob:                         translatio habet: ipse est principium viarum Dei.
@@ -79,7 +84,3 @@ Dopies sa- (lupHciter : quaedam  est a Verbo, quaedani  est in             bile 
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

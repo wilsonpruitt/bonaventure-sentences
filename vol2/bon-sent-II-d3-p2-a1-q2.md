@@ -3,13 +3,16 @@ id: "bon-sent-II-d3-p2-a1-q2"
 volume: 2
 book: 2
 distinctio: 3
+pars: 2
 articulus: 1
 quaestio: 2
 type: quaestio
+title_la: "Utrum Angelus in primo instanti suae creationis fuerit malus propria voluntate."
+title_en: ""
 line_start: 8675
 line_end: 8857
 word_count_latin: 2744
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 8675-8857) — QUAESTIO II (8675). Ends before ARTICULUS II (8858)."
 format_version: 1
 ---
 
@@ -208,7 +211,3 @@ losiiornm. ^^j^ j^ ggj g^,^jj^^^ pggj initium.                                 t
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

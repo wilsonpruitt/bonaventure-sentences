@@ -3,13 +3,16 @@ id: "bon-sent-II-d3-p2-a3-q2"
 volume: 2
 book: 2
 distinctio: 3
+pars: 2
 articulus: 3
 quaestio: 2
 type: quaestio
+title_la: "Utrum Angelus naturali dilectione magis diligat superiorem, an parem, an inferiorem."
+title_en: ""
 line_start: 9505
-line_end: 9603
-word_count_latin: 1272
-transcription_status: "auto-chunked 2026-05-13"
+line_end: 9601
+word_count_latin: 1268
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 9505-9601) — QUAESTIO II (9505). Ends before DUBIA CIRCA LITTERAM MAGISTRI Pars II (9602)."
 format_version: 1
 ---
 
@@ -114,8 +117,6 @@ condusioa. habitat. Et sic Angeius magis dihgebat per naturam                   
           — Eliam Richard. a Med. (hic a. 7. q. 2.) paulo aliter resolvil,
           scil. quod Angclus naturaliter Angelum supeiiorem magis diligc-
 
-                                                           DUBIA GIRCA LITTERAM MAGISTRL
-
 ## English
 
 [Translation pending]
@@ -123,7 +124,3 @@ condusioa. habitat. Et sic Angeius magis dihgebat per naturam                   
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

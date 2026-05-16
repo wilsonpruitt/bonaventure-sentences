@@ -3,13 +3,16 @@ id: "bon-sent-II-d3-p2-a3-q1"
 volume: 2
 book: 2
 distinctio: 3
+pars: 2
 articulus: 3
 quaestio: 1
 type: quaestio
-line_start: 9331
+title_la: "Utrum Angeli naturali dilectione dilexerint Deum propter ipsum et super omnia."
+title_en: ""
+line_start: 9323
 line_end: 9504
-word_count_latin: 2670
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 2704
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 9323-9504) — ARTICULUS III opener (9323) folded in + QUAESTIO I (9331). Ends before QUAESTIO II (9505)."
 format_version: 1
 ---
 
@@ -17,7 +20,15 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS           111.
+
+                                                        De naturali Angelorum dilectione.
+
+             Consequenter tertio loco quaeritur de naturali                          Secundo de dilectione, qua unus Angelus dili-
+        Angeloruni dileclione, et de ipsa duo quaertmtur.                       aebat aUeruin.
+             Primo de dilectione, qua diligejiant Deum.
+
+                                                         QUAESTIO I.
                       Utruni Angeli naturali dilectione dilexerint Deum propter ipsum et super omnia.
 
                   Quaeritur ergo primo de modo naturalis dile-                  omnes aclus animae, et motus isle, scilicet diligere
@@ -197,7 +208,3 @@ fntegme""* ex quadam habilitate et rectitudine respectu boni ;                  
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

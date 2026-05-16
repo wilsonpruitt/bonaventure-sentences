@@ -3,13 +3,16 @@ id: "bon-sent-II-d3-p2-a2-q2"
 volume: 2
 book: 2
 distinctio: 3
+pars: 2
 articulus: 2
 quaestio: 2
 type: quaestio
+title_la: "Utrum Angelus per cognitionem naturalem divinam essentiam cognoverit in se ipsa sine medio."
+title_en: ""
 line_start: 9163
 line_end: 9322
 word_count_latin: 2161
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-16 session 31 (correct semantic boundaries, raw 9163-9322) — QUAESTIO II (9163). Ends before ARTICULUS III (9323)."
 format_version: 1
 ---
 
@@ -184,7 +187,3 @@ conciDsio. cognitione divinam essentiam videre non poterat in                cie
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]
