@@ -1,10 +1,10 @@
-# Next session — Vol II **DISTINCTION 3 Tier-2** → next chunk `d3-p1-divisio` (d.2 COMPLETE; d.3 re-chunked, 1/17 Tier-2)
+# Next session — Vol II **DISTINCTION 3 Tier-2** → next chunk `d3-p1-a1-q2` (d.2 COMPLETE; d.3 re-chunked, 3/17 Tier-2)
 
-Updated 2026-05-16 (session 31): d.3 **re-chunk pass DONE** (commit `5569fc9`, 17 skeletons, verified) + **`d3-littera` promoted to Tier-2** (commit `96b07fc`). d.3 now **1/17 Tier-2**; next = `d3-p1-divisio`.
+Updated 2026-05-16 (session 31): d.3 **re-chunk pass DONE** (`5569fc9`, 17 skeletons, verified) + **3/17 Tier-2**: `d3-littera` (`96b07fc`, 20 app, p.86 two-stream seam — d2-p2-dubia untouched), `d3-p1-divisio` (`2a6f64e`, no apparatus, ART. I folds forward), `d3-p1-a1-q1` (`153d639`, **largest chunk in corpus**: pp.89–93, 24 app, editorial Scholion I–V no-apparatus). Next = `d3-p1-a1-q2` (QUAESTIO II *Utrum materia ex qua compositi sunt Angeli sit eadem cum materia corporalium*, raw 7221–7579). Remaining d.3: a1-q2, a1-q3, a2-q1/q2/q3, p1-dubia, p2-divisio, p2-a1-q1/q2, p2-a2-q1/q2, p2-a3-q1/q2, p2-dubia (14). Per-chunk cadence as d.2: 450 dpi colcrop re-set, page-by-page apparatus, cross-chunk splits documented, build+paraphrase/apparatus audits (`--volume 2 --min-d 3 --max-d 3`), per-chunk commit. (Distinction-level headers Q/A-LOSS is expected while d.3 is mostly skeletons — clears as quaestiones promote, same as d.2 mid-build.)
 
 **Agent-model finding (do not repeat the failed approach):** the d.3 re-chunk pass was run successfully by a subagent (bounded, fast-committing — good fit). A follow-up subagent tasked with 3 cascade Tier-2 chunks **timed out with zero output** (stream idle timeout, ~19 min, nothing committed): deep per-quaestio cascade Tier-2 is too long/read-heavy for one subagent invocation and there is no SendMessage to resume. **Decision: agents only for bounded prep (re-chunk, page-mapping, batch extraction); all cascade Tier-2 reflow is done in the MAIN THREAD** (harness compaction handles the length). Do not delegate Tier-2 chunk-building to subagents.
 
-Head commit: `96b07fc` — vol2 d.3 promote bon-sent-II-d3-littera to Tier-2 (session 31). Resume commit follows.
+Head commit: `153d639` — vol2 d.3 promote bon-sent-II-d3-p1-a1-q1 to Tier-2 (session 31). Resume commit follows.
 
 ## Status
 
