@@ -17,7 +17,7 @@ has_apparatus: true
 line_start: 6245
 line_end: 6381
 word_count_latin: 1450
-transcription_status: "Phase C Tier 2 complete — Latin re-set from 450 dpi column-band PDF over IA djvu OCR base (raw lines 6245–6381), fresh literal English translation, full apparatus from raw OCR footers page-by-page (17 entries: p.80 n.6–9 → [^1]–[^4] [inherited split — n.1–5 committed d2-p2-a2-q2]; p.81 n.1–11 → [^5]–[^15]; p.82 n.1–2 → [^16]–[^17]), scholion I–II (no apparatus). a2-q2→a2-q3 incoming SPLIT at p.80 (received, no backfill); a2-q3→a2-q4 outgoing SPLIT at p.82 (this chunk takes p.82 n.1–2; n.3+ → next d2-p2-a2-q4). Cascade-region marker placements content-matched, parked for d.10. No hard [?] flags — 450 dpi crops clean (2026-05-16)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from 450 dpi column-band PDF over IA djvu OCR base (raw lines 6245–6381), fresh literal English translation, full apparatus from raw OCR footers page-by-page (19 entries: p.80 n.6–9 → [^1]–[^4] [inherited split — n.1–5 committed d2-p2-a2-q2]; p.81 n.1–11 → [^5]–[^15]; p.82 n.1–4 → [^16]–[^19]), scholion I–II (no apparatus). a2-q2→a2-q3 incoming SPLIT at p.80 (received, no backfill); a2-q3→a2-q4 outgoing SPLIT at p.82 (this chunk takes p.82 n.1–4; n.5+ → next d2-p2-a2-q4). [^18]–[^19] backfilled session 29 (p.82 n.3–4 anchor q3's reply 5, not q4 — discovered building a2-q4). Cascade-region marker placements content-matched, parked for d.10. No hard [?] flags — 450 dpi crops clean (2026-05-16)"
 format_version: 1
 ---
 
@@ -83,7 +83,7 @@ prie; est tamen ibi proportio quoad finitatem et limitationem, per quae duo Ange
 
 5. Quod obiicitur: si totus est in qualibet parte loci, cum sint plura loca etc.; dicendum, quod totus est in qualibet parte, nec tamen in pluribus locis, sicut nec anima, dum vivificat totum corpus, non vivificat diversa corpora, sed unum.
 
-Quod autem obiicitur: esto quod corpus illud sive locus, in quo est Angelus, dividatur; dico, quod si divideretur in mille partes, dum tamen partes non sequestrarentur longe ab invicem, totus esset in omnibus, et omnes essent ei unus locus, quia nullam habent rationem ambiendi vel definiendi Angelum, sed illud quod complectitur omnes partes. Locus enim non numeratur secundum numerum corporum locantium, sed in comparatione ad locatum; sicut patet, quia unum corpus potest esse partim in aere, partim in aqua, partim in terra, nec tamen in tribus locis, sed in uno est.
+Quod autem obiicitur: esto quod corpus illud sive locus, in quo est Angelus, dividatur; dico, quod si divideretur in mille partes, dum tamen partes non sequestrarentur longe ab invicem, totus esset in omnibus, et omnes essent ei unus locus, quia nullam habent rationem ambiendi vel definiendi Angelum, sed illud quod complectitur omnes partes. Locus[^18] enim non numeratur secundum numerum corporum locantium, sed in comparatione ad locatum[^19]; sicut patet, quia unum corpus potest esse partim in aere, partim in aqua, partim in terra, nec tamen in tribus locis, sed in uno est.
 
 ### Scholion
 
@@ -149,7 +149,7 @@ erly; yet there is there a proportion as to finitude and limitation, by which tw
 
 5. To what is objected: if it is whole in any part of the place, since there are several places etc.; it must be said that it is whole in any part, nor however in several places, just as neither [does] the soul, while it vivifies the whole body, vivify diverse bodies, but one.
 
-But as to what is objected: suppose that that body or place in which the Angel is be divided; I say that if it were divided into a thousand parts, provided however that the parts were not sequestered far from one another, it would be whole in all, and all would be one place to it, because they have no character of encompassing or defining the Angel, but [only] that which embraces all the parts. For a place is not numbered according to the number of locating bodies, but in comparison to what is located; as is plain, because one body can be partly in air, partly in water, partly in earth, nor however in three places, but is in one.
+But as to what is objected: suppose that that body or place in which the Angel is be divided; I say that if it were divided into a thousand parts, provided however that the parts were not sequestered far from one another, it would be whole in all, and all would be one place to it, because they have no character of encompassing or defining the Angel, but [only] that which embraces all the parts. For a place[^18] is not numbered according to the number of locating bodies, but in comparison to what is located[^19]; as is plain, because one body can be partly in air, partly in water, partly in earth, nor however in three places, but is in one.
 
 ### Scholion
 
@@ -229,6 +229,14 @@ But as to what is objected: suppose that that body or place in which the Angel i
 
     **En.** On the faith of cod. 1 we have emended the false [reading of the] edition and of the codices, which, the particle *quia* transposed and the verb [salvatur] omitted, is this: *it is simple, because whole in any part of the place, however small the character of the place is, it is preserved in any [part].* After *in qualibet* the Vatican edition adds *et ideo.*
 
+[^18]: **La.** Simul audi: *Angelus.* — Paulo inferius cod. cc et ed. 1 *in corporalibus* pro *in corporibus.*
+
+    **En.** At the same time understand: *the Angel.* — A little below codex cc and ed. 1 [read] *in corporalibus* for *in corporibus.*
+
+[^19]: **La.** In Vat. deest *sed in comparatione ad locatum.*
+
+    **En.** In the Vatican edition *sed in comparatione ad locatum* is lacking.
+
 ---
 
 ## Notes
@@ -240,10 +248,10 @@ But as to what is objected: suppose that that body or place in which the Angel i
 **Apparatus crosswalk (per-page footer → continuous renumber).** Renumbered continuously 1–17:
 - **p. 80** footer: **notes 6–9 only** → `[^1]`–`[^4]` (the inherited split; notes 1–5 are committed `d2-p2-a2-q2`'s `[^12]`–`[^16]`).
 - **p. 81** footer: L col notes 1–6 + R col notes 7–11 → `[^5]`–`[^15]` (11 notes).
-- **p. 82** footer: **notes 1–2 only** → `[^16]`–`[^17]` (the outgoing split — see below).
+- **p. 82** footer: **notes 1–4** → `[^16]`–`[^19]` (the outgoing split — see below; n.3–4 backfilled session 29).
 
 **Cross-chunk footer boundaries.**
 - *Incoming (a2-q2 → a2-q3): SPLIT at p.80 — INHERITED.* p.80 footer notes 1–5 are committed `d2-p2-a2-q2`'s `[^12]`–`[^16]`; **notes 6–9 are this chunk's** (`[^1]`–`[^4]`, anchored in q3's *videtur* args 1–4). **No backfill** to committed `d2-p2-a2-q2`.
-- *Outgoing (a2-q3 → a2-q4): SPLIT at p.82.* q3's replies + Scholion I–II occupy the upper/middle of p.82; `QUAESTIO IV` of the next chunk begins lower on p.82. p.82's footer splits by body anchor: **notes 1–2 → this chunk** (`[^16]` reply 3 *vivificari vita rationali*; `[^17]` the *salvatur in qualibet* emendation note); **notes 3+ → `d2-p2-a2-q4`** (n.3 `Simul audi: Angelus. — Paulo inferius cod. cc et ed. 1 in corporalibus pro in corporibus`; n.4 `In Vat. deest sed in comparatione ad locatum`; n.5 `Text. 6. (c. 4.)…`; n.6 `Libr. V. Phys. text. 22. seqq.…`). When `d2-p2-a2-q4` is built, **start its apparatus at p.82 footer note 3**, by body anchor; **no backfill to this chunk.**
+- *Outgoing (a2-q3 → a2-q4): SPLIT at p.82.* q3's replies + Scholion I–II occupy the upper/middle of p.82; `QUAESTIO IV` of the next chunk begins lower on p.82. p.82's footer splits by body anchor: **notes 1–4 → this chunk** (`[^16]` reply 3 *vivificari vita rationali*; `[^17]` the *salvatur in qualibet* emendation note; `[^18]` reply-5 tail *Simul audi: Angelus*; `[^19]` reply 5 *sed in comparatione ad locatum*); **notes 5–6 → `d2-p2-a2-q4`** (n.5 `Text. 6. (c. 4.)…` → q4 arg 1 *Philosophus tertio de Anima*; n.6 `Libr. V. Phys. text. 22. seqq.…` → q4 arg 2 *Philosophus*). **n.3–4 were backfilled into this chunk in session 29** (discovered while building `d2-p2-a2-q4`: their lemmas — *Simul audi: Angelus*, *sed in comparatione ad locatum* — anchor q3's reply 5, not q4); committed `d2-p2-a2-q4` correctly starts its apparatus at p.82 footer note 5.
 
 **Decade polish (d.10 blocker).** No hard `[?]` flags — the 450 dpi crops were clean. The p.81 Respondeo/replies markers (`[^10]`–`[^15]`, two-column-cascade *triplex-positio* region) are content-matched to the printed footer in source order; per-clause anchor positions may be off by a few words where L/R linearization is ambiguous (esp. `[^10]` *primo immediate* and `[^17]` the *salvatur in qualibet* clause) — secure on content, parked for the 600 dpi d.1–d.10 pass.
