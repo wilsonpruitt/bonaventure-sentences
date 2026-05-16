@@ -24,7 +24,10 @@
       "Bash(git diff:*)",
       "Bash(git log:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Edit(path:/Users/wilsonpruitt/bonaventure-sentences/vol2/**)",
+      "Write(path:/Users/wilsonpruitt/bonaventure-sentences/vol2/**)",
+      "Read(path:/tmp/colcrop/**)"
     ]
   }
 }
