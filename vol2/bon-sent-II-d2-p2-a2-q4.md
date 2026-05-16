@@ -3,13 +3,16 @@ id: "bon-sent-II-d2-p2-a2-q4"
 volume: 2
 book: 2
 distinctio: 2
+pars: 2
 articulus: 2
 quaestio: 4
 type: quaestio
+title_la: "Utrum plures Angeli sint simul in eodem loco."
+title_en: ""
 line_start: 6382
-line_end: 6502
-word_count_latin: 1790
-transcription_status: "auto-chunked 2026-05-13"
+line_end: 6500
+word_count_latin: 1786
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-15 session 13 (correct semantic boundaries, raw 6382-6500) — QUAESTIO IV (6382). Ends before DUBIA (6501)."
 format_version: 1
 ---
 
@@ -136,8 +139,6 @@ tiotiuiam. indigentiam Angeli, quia, omni corporali loco de-                quod
         etiam S. Bonav. cum Ricliardo a Med., sed aliis ductus ratio-       a Tar., I. Sent. d. 37. q. 4. a. 3. — Richard. a Med. , I. Sent.
         nibus. Putat autem, ex parte naturae Angeli et etiam loci           d. 37. a. 2. q. i.
 
-                                                    DUBIA CIRCA LITTER.\M M.\GISTRL
-
 ## English
 
 [Translation pending]
@@ -145,7 +146,3 @@ tiotiuiam. indigentiam Angeli, quia, omni corporali loco de-                quod
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

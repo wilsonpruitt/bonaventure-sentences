@@ -3,11 +3,14 @@ id: "bon-sent-II-d2-p2-divisio"
 volume: 2
 book: 2
 distinctio: 2
+pars: 2
 type: divisio
-line_start: 4425
-line_end: 4466
-word_count_latin: 365
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Commentarius in Distinctionem II, Pars II — Divisio textus."
+title_en: ""
+line_start: 5530
+line_end: 5554
+word_count_latin: 167
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-15 session 13 (correct semantic boundaries, raw 5530-5554) — COMMENTARIUS Pars II (5530) + Pars II (5531) + DIVISIO TEXTUS (5539) + TRACTATIO QUAESTIONUM (5548). ARTICULUS I opener folds into a1-q1."
 format_version: 1
 ---
 
@@ -15,47 +18,30 @@ format_version: 1
 
 ## Latin
 
-DIVISIO TEXTUS.
+COMMENTARIUS                        IN DISTINCTIONEM 11.
+                                                                        Pars II.
 
-      Supra egit Magisler de rerum productioiie in                et ubi creati sunt Angeli. In secunda vero, quales
-generali. In hac parte agit de productione rerum iii              creati sunt, infra distinctione tertia; Ecce ostemum
-speciali. Et ([uoniam triplex est differentia creaturae,          est, ubi Angeli etc.
-scilicet spiritualis et corporalis et composita ex                      Prima pars habet duas. Primo enim determinat,
-utraque, ideo haec pars habet Ires. In prima agit                 gMa?i(to Angeli creati fuerunt; in secunda, ubi, infra
-de conditione spiritualis creaturae. In secunda de                distinctione eadeiu : lam oslensum est etc. Prima
-conditione corporalis creaturae , infra distinctione              pars liabet quatuor particulas. In prima praemittit
-duodecima : Ilaec de angelicae natnrae etc. In tertia             prooemium, in quo aperit suam intentionem. In se-
-de conditione naturae ex utrisque compositae, sci-                cunda vero movet ' duljitationein circa durationem
-licet humanae, infra distinctione decima sexta: //w               sive initium vel mensuram angelicae conditionis, ibi:
-excursis, quae supra de liomine. Priina pars liabet               Quaedam auctoritates videntur. In tertia deterrai-
-duas. In prima determinat, quales facti sunt Angeli               nat veritatem et confirmat, ibi : Videtur itaque ,
-ex prima conditione. In secunda deterniinat, quales               hoc esse tenendum. Quarto vero et ultimo veritatem
-facti sunt ex aversione et conversione , infra distin-            praedeterminatam et probatam concludit, et aucto-
-ctione quinta : Post haec consideraiio adducit etc.               ritatem in oppositum deterininat, ibi : Sinml ergo
-Prima pars lialiet duas. In prima determinat, quando              cum tempore etc.
+                                                  De loco , ubi fuerunt Angeli creati.
 
-                                                  TRACTATIO QUAESTIONUM.
-
-      Ad intelligentiam liuius partis, in qua quaeri-                    Circa primum Iria quaeruntur.
-tur de mensura conditionis angelieae naturae , duo                       Priino, utruin spiritualia habeant inensuram
-principaliter quaeruntnr.
-      Primo de mensura eius in se.                                     Secundo, utruni haijeant mensuram unicam.
-                                                                  propriam.
-      Secundo per comparationem ad mensuram esse                       Tertio , utrum habeant mensuram siinplicem
-corporalis naturae.                                               aut compositain , sive stantem vel successivam.
+                                                       lam est ostensum, quando etc.
+                                                   TEXTtM    MAGISTRI      VIDE     SUPRA    PAG.   93.
 
 
-     ' Vol. sola ordinationis.                                          3 Cap. \i, 13.
-     2 De Gen. ad lil. 1. c. 10. seqq. et XII. Confcss. c. 9. —                    NOTAE AB COMMENTARIUM.
-Post verbum Genesis edd. 1 et 8 interserunt verba Sci-ipturae:
-In principio ci'<'avit Deus caeluni et tcrrain ctc.                     ' In Vat. additur ex auctoritatibus.
-                                                                                                                                        S5
+                                                                DIVISIO TEXTUS.
 
-                                                   DIST. II. P. I. ART. I. QUAEST. 1.
+               Supra • ostendit Magister, quando Angeli fuerunt               dubitationem , ibi : Ilic quaeri solet, si in caelo em-
+         creati; in hac parte ostendit, uhi fuerunt creati,                   pyreo etc. Sic circa duo versatur intentio partis
+         quia scilicet in empyreo. Et dividitur pars ista in                  praesentis, scilicel circa loci angelici quidditatem, et
+         tres partes. In prima determinat, ubi creati fuernnt.                quantum ad actum locandi , sive offlcium , quod
+         In secunda vero repetit, quando creati fuerunt, ibi:                 dicitur liabere caelum erapyreum respectu Ange-
+         Simul ergo visibilium etc. In tertia vero removet                    lorum.
 
-                                                             ARTICULUS           ].
+                                                         TRACTATIO OUAESTIONUM.
 
-                                                De mensura angelicae naturae in se.
+              Ad intelligentiara huius parlis, quae est de loco                      Secundo, in quantnm habet locare spiritus sublimes.
+         creationis Angeloruin , cuiusraodi est empyreura cae-                       Circa priraum quaeruntur duo.
+         lum, circa duo incidit dubitatio.                                           Priraum est quantum ad qualitatem ^ naturae.
+               Prinio, circa naturam empyrei in se.                                  Secundura quantum ad virtutera influentiae.
 
 ## English
 
@@ -64,7 +50,3 @@ In principio ci'<'avit Deus caeluni et tcrrain ctc.                     ' In Vat
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

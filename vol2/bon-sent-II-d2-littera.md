@@ -1,17 +1,19 @@
 ---
-id: "bon-sent-II-d2-p1-littera"
+id: "bon-sent-II-d2-littera"
 volume: 2
 book: 2
 distinctio: 2
 type: littera
+title_la: "Distinctio II. Magistri Sententiarum (Pars I et II)."
+title_en: ""
 line_start: 4264
 line_end: 4417
 word_count_latin: 1743
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-15 session 13 (correct semantic boundaries, raw 4264-4417) — Lombard d.2 text, Pars I (Cap. I-III) + Pars II (Cap. IV-V). Single littera (d.1 precedent). printed pp.53-54."
 format_version: 1
 ---
 
-# bon-sent-II-d2-p1-littera
+# bon-sent-II-d2-littera
 
 ## Latin
 
@@ -175,7 +177,3 @@ naturae habitum formata fuit, et tamen illani, quam               lale: Ascendam
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

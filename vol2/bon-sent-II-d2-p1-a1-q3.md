@@ -1,19 +1,22 @@
 ---
-id: "bon-sent-II-d2-p2-a1-q3"
+id: "bon-sent-II-d2-p1-a1-q3"
 volume: 2
 book: 2
 distinctio: 2
+pars: 1
 articulus: 1
 quaestio: 3
 type: quaestio
+title_la: "(p1 a1 q3)"
+title_en: ""
 line_start: 4913
 line_end: 5097
 word_count_latin: 2662
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-15 session 13 (correct semantic boundaries, raw 4913-5097) — QUAESTIO III (4913). Ends before ARTICULUS II (5098)."
 format_version: 1
 ---
 
-# bon-sent-II-d2-p2-a1-q3
+# bon-sent-II-d2-p1-a1-q3
 
 ## Latin
 
@@ -208,7 +211,3 @@ Kounanm. in siuiplici , ut iii composito; unde tantam exten-                    
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

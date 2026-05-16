@@ -3,11 +3,14 @@ id: "bon-sent-II-d2-p2-dubia"
 volume: 2
 book: 2
 distinctio: 2
+pars: 2
 type: dubia
-line_start: 5452
-line_end: 5529
-word_count_latin: 1049
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Dubia circa litteram Magistri (Pars II)."
+title_en: ""
+line_start: 6501
+line_end: 6627
+word_count_latin: 1483
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-15 session 13 (correct semantic boundaries, raw 6501-6627) — DUBIA CIRCA LITTERAM MAGISTRI (6501): DUB I, DUB II (6564). Ends before DISTINCTIO III (6628)."
 format_version: 1
 ---
 
@@ -15,83 +18,132 @@ format_version: 1
 
 ## Latin
 
-DUB.   I.                                fundamenli. — Et cum virtute propria sibi divinitus inoideutem.
-                                                                                                                                     Ad .juaest.
-                                                                             data ceiitrum appetat et iii centro requiescat , fun-
-                  In parle ista sunt dubitationes circa litteram ,           data dicitur super stabilitatem suam. Et hoc dictum
-            et quaeritur primo eirca Iioc quod dicit: Et tu in               esse intelligendum est secundura veritatem. Secun-
-            principio, Domine , fundasti terram. Videtur enim                duni autem nostram imaginationem et vulgarera api-
-            falsum , pri.mo ex. Iioc , quod dicit, terram esse               nionem, cum aquae cooperiant inferiorem superficiem
-            fundatam , quia non videtur esse fundata, sed po-                terrae respectu nostri , et ultra aquam sit aer , et
-            tius appensa, secundum quod dicitur Isaiae qua-                  ultra aerem ' sit ignis , dicitur terra esse fundata
-            dragesimo ' : Qui appendit tribus digitis molem                  super aquas. Nos enira aestimamus, terram esse
-            terrae ; et Proverbiorum oclavo: Quando appen-                   super aquam , dum consideramus aquara sub pedi-
-            debat fundamenta terrae. Ilem videtur falsum di-                 bus nostris. — Dicitur etiam esse tribus digitis ap-
-            cere , cum ait : In principio terram fundasti -,                 pensa , pro eo quod tribus elementis intermediis
-            quia terra facta fuit tertio die : ergo non fuit fun-            distat a caeli circuinferentia, et mediaiitibus illis
-            data in principio.                                               videtur esse quasi appensa. — Et per hoc patet re-
-                  lu.Kta hoc quaeritur, supra (pid terra fundata             sponsio ad omnia obiecta.
-uaestio in- sit ; et videtur, quod super aquas , propter illud
- cideos.                                                                           Nota tamen , quod aliter accipitur principium, Principium
-            Psalmi ^ : Qui fxmdavit terram super aquas. Con-                 secundum quod nomine terrae inteUigitur materia, piiciter.
-            trarium autem videtur per Scripturam , quae dicit ' :            aliter secundum quod intelligitur elementum terrae.
-            Qui fundavit terram super slabilitatem suam, et                  Secundam enira quod noraine terrae intelligitur ma-
-            per rationem , quae dictat, aquam esse minus gra-                teria , tunc dicitur esse fundata in principio , id est
-            vem quam terram , et ita secundum ordinem natu-                  in priniordio productionis rerura ; secundura quod
-            rae non terram supia aquam , sed e converso.                     terra dicitur elementum , tunc dicitur esse fundata
-                  Respondeo : Dicendum , quod nomine terrae in               in principio , id est in primis operibus sex dierum '.
-Terra dici-
-ir dnplici- Scriptura intelligitur materia ° corporalium , intel-
-            ligitur etiam elementum terrae; et utroque modo                                               DUB.   II.
-            accipi potest in praedicta auctoritate, et vere. Si
-Sxplicantur enim terra accipiatur pro materia informi , sic recte
-erba Scri-
-lurae.      dicitur : In principio , tu Domine , terram funda-                     Item quaeritur de hoc quod dicitur , quod
-            sti , id est, in principio fecisti raateriara informem,          tempus non coepit esse in tempore. Omne enim
-            quasi fundamentum omninra formarum ^. Quae ideo                  quod coepit esse, aut coepit esse in tempore, aut in
-            dicitur esse fundata, quia omnes formae sustentan-               aeternitate; si igitur tempus coepit esse, et non coepit
-            tur a materia , et ipsa non sustentatur ab alio nisi             esse in aeternitate: ergo coepit esse in tempore. —
-            a Deo. Ideo autem dicitur esse fuiidata in principio,            Item, dicit, quod Deus non coepit esse Dominus ex
-            quia niliii ante ipsam creatuin esL — Si auteiuuomine            tempore. Et videtur esse falsum , quia non fuit Domi-
-            terrae intelligatur elernentum terrae, adhuc verus               nus, antequara haberet servum; sed non habuit
-            est praedictus sermo. Terra enim fundata dicilur                 servum nisi ex tempore: ergo coepit esse Dominus
-            propter sui slabilitatem, secundum illud Ecclesiaslae            ex tempore.
-            primo ' : Generatio praeterit , et generatio advenit;                  luxta hoc quaeritur, utrum coeperit esse Domi-
-                                                                                                                                       cidens.
-            terra aulem in aeternum stat. — Hoc autera elemen-               nus. Et quod non, videtur, quia dominium est pote-
-                                                                                                                                      Quaestio in-
-            tura , scilicet terrae , et dicitur fundatum et dicitur          stas coercendi subditos '", et hoc fuit semper in Deo.
-            appensum , et fundatum super stabilitatem suam                   Contrarium autem videtur, quia « relativa siinul sunt
-            et fundatuni eliara super aquas. Fundatum dicitur,               natura, ">>; el servus non fuit ab aeterno : ergo nec
-            quia, sicut fundamentum est infimum inter omnes                  Dominns.
-            partes domus, sic terra est infimum inter omnia                        Respondeo : Direndura , quod differl dicere, se-
-            corpora mundi , et in centro existens tenet locum                cundura Augustinura 'l aliquid fieri ex tempore , et Notandui
+DUBIA CIRCA LITTER.\M M.\GISTRL
 
-              ' Vers. 12: Quiii iippendil elc. — Sequens texuis est               ^ In versione Arabico-latina Aristotolis, I. Melaph. te.\l. 17.
-        Prov. 8, 29.                                                         (c. 8.), maleria prima vocatur fundamenlum natvrae. — Mox
-              - PsLilm. 101, 26: Initto tu Domine terrain riindiisti. —      cod. 'M Vers.
-                                                                                      cum 4.cd. 1 fundamentum pi-o fundata.
-        Plures eodd. In piincipio terra fmidata ; nlii cum ed. i Et tu
-        in piincipio Doviine terram fundasti.                                     * Cod. cc cum ed. 1 et ultra aquam el aerem.
-              3 Psalm. I.S3 , 6: Qui firmavit tcrram etc.                         s Cfr. de hoc dubio Alex. Ilal., S. p. II. q. 10. ni. 2.
-            ■ ^ Psalm. 103, 3: Qui fundasti terrani etc. — Paulo infcrius         '" Boeth. , de Trin. c. 5. dominiuiTi definit: Polcstas qtiae-
-        fide codd. A Y aa ccdd et ed. 1 substituimus rationem pro natu-      dani, qun servus coercetur.
-        ram (fortasse naturalemt; cod. F nostrum intellectum, ijui dictat.        " Aristot. , de Praedicam. c. dc Relativis.
-              ^ Intellige cum cod. cc et ed. I materia informis, sicui            12 Libr. XI. de Civ. Dei, c. 6.
-        et inferius dicitur.
-        70                                                  SENTENTIARUM LIB. 11.
-        in tempore , et cum tempore. Ex enim importat                         accipiendo habitudinem eius quod est ex et m; nos
-        ordiDem , in importat continentiam , cum importat                     aulem in commuiii sermone large accipimus.
-        simnltatem; et ideo nihil est faclum in tempore. nec                        Quod vero quaeritur, utrum Deus                   incideDte
+                                    DuB. L                                  et in Apocalvpsi quailo: Requiem non habebant etc.
+                                                                            — Item, ratio videtur illud persuadere, quia ibi
+             In parte ista sunt dubitationes circa litteram, et             erunt organa vocum, et in hoc vnaxima est iu-
+        primo (juaeritur de hoc quod dieit: Cum me lau-                     cunditas, et in hoc manifestatur maxime divina glo-
+        darent astra matutina. Dicit enim, hoc de Angelis                   ria: ergo videtur, quod laus vocalis erit in patria.
+                                                                                  Respondeo : Dieendum, quod super hoc non
+        intelligi. Sed contra hoc est quod dicit Damascenus* :
+        «Tradunt sibi consilia . sermone sine voce prolato « :              habetur eertitudo, nec per auctoritates nec per ra-
+        si ergo Angeli non loquuntiu', ergo non laudant. —                  tiones cogentes. Cum enim utraque pars sit proba-
+        Jtem, Angeli sniit substantiae spirituales: ergo non                bihs, utraque tenetur a diversis.
+        habent organa corporalia, ergo nec vocem possunt                          Quidain namque dicunt, quod in caelo empyreo opinio i.
+        formare. — Item , vox formatur ex percussione et                    non erit nisi laus mentalis tam ab Angelis quam ab
+        fractione aeris: si ergo in empyreo non est aer, ergo               hominibus beatis, tum quia non eompetit loco, tum
+        non videtur, quod possit ibi esse vox nec sonus,                    quia non competit localis, maxime Angelis; et si
+        ergo nec laus , non solum ab Angelis, verum etiam                   Angeli raonstrati sunl laudare vocaliter, hoc fuit
+        nec ab hominibus beatis. Si dicas, quod intelligitur                per visionem imaginariam ', non corporalem. Nec
+        de laude mentali, non vocali; in conlrarium sunt                    oportet , huiusmodi corporalem laudeln esse , quia
+        revelationes Sanctorum, qui audierunt multas ani-                   tanta erit mentalis , quod haec locuni non habebil.
+        mas ; maxime exemplum est in beato Martino ,                              Aliis autem magis placet, quod laus vocalis opiaio 2.
+        quem audivit quidam vir sanctus ^ cum laudibus                      erit in patria quantum ad homines, qui habebunt
+        ferri in caelum. — Item, in eonlrarium est auctoritas               organa , ut sic non solum animus laudel Deum , ve-
+        Isaiae sexto " : Clamahant alter ad alterum etc. ;                  rum etiam lingua, et totus homo feratur in laudem
 
-        ex tempore, nisi quod exceditur a tempore. Quia                       esse dominus ; dicendum, quod dominus uno     inceperit
-                                                                                                                               modo ■« quas
-        igitur tempus et ea, quae in primordio temporis                       importat potestatem coercendi subditos; et sic dicit
-        creata sunt , a tempore non exceduntur, ideo dicit,                   praesidentiam secundum habitum et convenit Deo
-        ea esse creata cum tempore , non wi tempore , nec                     ab aeteriio. Alio Tnodo importat aetualem praesiden-
-        ex tempore. — Et ideo cum Deus dicatur dominus                        tiam respectu servi; et sic incepit esse dominus, non
-        respectu omnis rei creatae , Deus non potuit incipere                 ratione rautationis factae in ipso, sed ratione muta-
-        dominus esse ex tempore, nec in tempore, proprie                      tionis factae in suo correlativo '.
+
+             ' Vat. Ideo quantum. Mox pluros codd. cimi ed. I prohi-        sensa sua communicant et consilia (ri 'loio: voiiixaTa r.txi pouXeu-
+        bet pro proliiberet, et dein codd. I Q bb rel plures species pro    [j-aTa).
+        vel species, ubi cod. T addit simt.                                      5 In cod. K adiicilur id est Severinus, episcopus Cotoniensis
+             ' Non pauci codd. similia, codd. 1 aa alia.                    sanctus, cfr. S. Gregor. Episc. Turon., I. de Mirac. S. Martini, c. 4.
+             ^ In codd. .\ I additur scilicet ordo v.mversi.                     ^ Vers. 3. — Apoc. 4, 8. — Paulo inferius Vau: quod ibi
+             * Libr. II. de Fide orthod. c. 3 : (luibus nec lingua opus     erunt organa vocum, qiiia in hoc etc.
+        sit nec auribus, sed sine ulla prolati sermonis ope muluo sibi           ' Codd. F cc et ed. I imaginativam.
+                                                                   DIST. II. P. II. DUBIA.                                                        88
+
+             divinam. — Etsiquaeratur, quomodo hoc possit esse,                   immensitate virtutis, secreta profunditate cognitionis,
+             dicunt, vel quod illa vocis formatio non erit per in-                quieta tranquillitate delectationis. Hoc est caelum, ad
+             spirationem et respirationem , sed per aerem, qui                    quod lucifer ascendere voluit, quia ad hanc celsitu-
+             quasi naturaliter erit Beatis complantatus , sicut                   dinem; hoc est superius omni caelo. non situ, sed
+             patet in quibusdam animalibus, ut in apibus'; vel                    dignitate ; et maius est omni caelo , non extensione ,
+             certe ita deserviet empyreum glorificatis, sicut aer                 sed sua immensitate, per quam est extra omnia,
+             corporibus non glorificatis. De Angelis vero dicunt,                 non exclusus, sicut dictum est in primo libro ". In
+             quod quia incorporei sunt per naturam propriam ,                     hoc autem caelo sunt solum tres personae, scilicet
+             non competit eis nisi laus mentalis. Unde Gregorius -:               Pater et Filius et Spiritus sanctus, qui soli sunt
+             <( Laus Angelorum est in ipsa admiratione contem-                    omnino et perfecte aequales. Omnia autem creata,
+             plationis » . Sed quia Angeli , dum ministrant nobis ,               sive corporalia sive spiritualia , intra empyreum
+             corpora assumunt ad nostrum solatium et in illis                     sunt.
+             loquuntur et voces formant ad noslram inslructio-                          Quod obiicitur de Christo, quod sedet a dextris'; oe chnsto
+             nem aliquando, ita etiam in illis vocaliter Deum
+             laudant ad nostram consolationem.                                    dicendum,   quod hoc,
+                                                                                  naturam, dicitur         si dicatur secundum
+                                                                                                      per omnimodam              divinamSi gine.'^""
+                                                                                                                        aequalitatem.
+                    Quaecumque pars teneatur, satis plana est so-                 autem secundum humanam, sic dicitur sedere a
+ladicium
+  ctorJs,
+            u-Iutio obiectorum. Quaecumque istarum positionum                     dextris , quia in potioribus bonis Patris; unde in
+              teneatur, planum est, quod textus lob inlelligitur de               empyreo ceteros excellit, tam Angelos quam homi-
+              Angelis beatis . qui dicuntur astra propter fulgorem                nes, et loco et dignitate. — Post ipsum credimus
+              matutinae cognitionis , quam habent in Verbo: et                    beatam Virginem super omnes alios; deinde ceteri
+              de laude mentali quantum ad exultalionem. quam                      ordinantur secundum dignitatem meritorum **. —
+              habent de Deo \                                                     Huius autem imaginatio faciliter potest haberi , si imaginatio.
+                                                                                  quis imaginetur aves in aere secundum ordinem , et
+                                         DUB. II.                                 pisces in aqua; sic in empyreo intelligenda sunt
+                                                                                  coUocari corpora, quia corpus illud multum habet
+                   Item quaeritur de hoc quod dicit lucifer : Ascen-              de altitudine, sicut et alii caeli. Unde non debet
+              dam in caelum. Cum enim esset in empyreo , vi-                      quis imaginari, quod ibi sint Beati sicut in solario,
+              detur , quod ultra empyreum sit aliud caelum.                       nec tamen intelligendum , quod imus sit directe su-
+              Si tu dicas, quod non esl aliud caelum corporale,                   per caput alterius; sed sicut, si esset mons rotun-
+              sed spirituale; contra: extra ultimum caelum cor-                   dus, et aliquis esset in culmine, et aliqui circum-
+              porale nihil est, quia « est continentia visibilium                 circa: sic potest aliquis imaginari, qui melius nescit,
+              et invisibiiium''»: ergo videtur, quod non sit aliud                dispositionem Beatorum in caelo empyreo et Chri-
+              caelum spirituale ultra empyreum, quin etiam sit                    sti. Vix tamen potest quis taliter imaginari , quod ^fotandam.
+              aliud corporale. — Item, Christus sedet a dextris                   perveniat ad cogitandam dispositionem per eum mo-
+              Dei \ et beata Virgo est exaltata super omnes cho-                  dum. per quem est; et ideo magis est desideranda,
+              ros Angelorum ; et tam Christus quam beata Virgo                    quam in imagine " describenda.
+              est in caelo corporali : ergo si Angeli sunt in                           Nota tamen, quod in dispositione caeloruni sive De disposi-
+              empyreo, videtur, quod ultra empyreum sit aliud                     numero videntur contradicere doctores sacrae Scri- mero caeio-
+              caelum corporale: ergo non intelligitur de spirituali.
+                   Quaerilur igitur, si ultra empyreum est caelum                 pturaedicunt,
+                                                                                  esse     philosophis.
+                                                                                                  doctoresNamaliqui
+                                                                                                                philosophi
+                                                                                                                     novem " ponunt,
+                                                                                                                              sphaeras aliqui
+                                                                                                                                         octo ™'
+    Quaesiio spirituale , quid sil, quid contineat, et pro quanto                 octo , aliqui septem caelos ; et ideo sibi ipsis viden-
+ coonexd.
+              dicatur
+               ,.
+                       caelum.                                ^
+                                                                                  tur contrariari. Ratio autem huius diversitatis est,
+                   Respondeo: Dicendum, quod cae/iHw est nomen                    quia philosophi nihil de empyreo sunt locuti, nihil
+ Ad   qoaesi.
+connexam.
+              impositum
+               .
+                          corpori secundum suam priraam
+                                                   ^
+                                                             imposi-
+                                                                ^
+                                                                                  etiam de igne el aiire, quando loquuntur de caelis.
+              tionem; et corpus, quod est sursum, dicitur caelum,                 Scriptura sacra etiam aerem caelum appellat, et
+              quia est eontentivim, secretum et quietum. Et quia                  aquas supra caelum et ipsum empyreum et ipsum
+De caeio di- haec triplex proprietas reperitur in celsitudine di-                 Deum. — Ratio autem diversitatis inter doctores ex
+              vmitatis, ideo ipsa dicitur caelum: est ennn ampla                  hoc venit , quod quidam numerant caelum spiriluale
+
+                   ' Cfr. Arislot., de l^espirat. c. 11. (c. 9.J, ubi ad expli-       ^ Disl. 37. p. 11. a. 1. q. 1-3, praecipue q. 3. ad 2.
+             candam •sitam longam et sonum apuni et cicadarum etc. recur-             ' Cod. aa o, dextns Patris.
+             rit ad S|)iritum innatum (au[j.'.puTov -vEuiioe).                         ' Vat. ipsorum, quae ct paulo inferius omittit secundum
+                                                                                  ordinem.
+                  2 Libr. 11. .Moral. c. 7. n. 10; Vox nanKiue Angelorum est
+             in laude Conditoris ipsa admiratio intimae contemplationis. —              ' Codd. F K N cc et ed. 1 imagimtione.
+             Paulo ante cod. cc et ed. I i)Ost nhi laus interserunt solum.              "> Plato, de Legum institutione (Epinomis sivc Pliilosophusj,
+                  3 Vide infra d. 10. a. 3. q. I. et 1. Sent. d. 9. dub. 4;       (ed. Serrani, tom. II. pag. 986 seq.); Aristot., XII. Metaph.
+             B. .ybert., hic a. 6.                                                text. 47. (XI. c. 8.). De sententia doctorum catholicorum vide
+                  * Damasc. , II. de Fide ortbod. c. 6.                           infra d. 14. p. II. a. I. q. 3. — Paulo interius non pauci codd.
+                  = ,Marc. 16, 19. — Quae sequuntiir dc B. M. V. inveniun-        cum ed. 1 et iterum pro et ideo.
+             tur in oflicio Assumtionis eiusdem.
+                                                                 SENTENTIARUM          LIB. 11.
+
+           cum corporalibus, ul Beda'; quidani vero oraittUDt                     secunduni communiorem computationem novem po-
+           ulteiius; quidam dividunt firmamentuni in duo, sci-                    nuntur caeli, largissime accipiendo, scilicet aereum,
+           licet iii caelum sidereum et planetarum; quidam                        aethereum, igneum, olyrapicura, caelum planetarum,
+           coninngunt. Similiter quidam dividnnt aereum in                        firmamentum, aqueum, empyreum et caelura Trini-
+           duos, quidam coniungunt; similiter de igneo. Taraen                    latis. Horum autem sulficientia patebit infra ^.
 
 ## English
 
@@ -100,7 +152,3 @@ lurae.      dicitur : In principio , tu Domine , terram funda-                  
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

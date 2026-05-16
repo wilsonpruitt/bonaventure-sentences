@@ -3,13 +3,16 @@ id: "bon-sent-II-d2-p2-a2-q1"
 volume: 2
 book: 2
 distinctio: 2
+pars: 2
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 5897
+title_la: "(p2 a2 q1)"
+title_en: ""
+line_start: 5887
 line_end: 6125
-word_count_latin: 3389
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 3450
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-15 session 13 (correct semantic boundaries, raw 5887-6125) — ARTICULUS II opener (5887-5896) folded in + QUAESTIO I (5897)."
 format_version: 1
 ---
 
@@ -17,7 +20,17 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS         II.
+
+                                                 De modo , quo Angeli sunt in loco.
+
+            Consequenter eirca secundum articulum quae-                 locis simul, aut tantum in uno.
+       runtur quatuor.                                                        Tertium est, utrum sit in loco punctali , an
+            Primum est, utrum substantiae spirituales sint              coraposito.
+       in loco corporeo.                                                      Quartura est, utrum plures Angeli possint simul
+            Secundura est. utrum Angelus sit in pluribus                esse^ in eodem loco primo.
+
+                                                                QUAESTIO I.
                                                  Utrum Angeli sint in loco corporeo.
 
               Quaeritur igitur primo, utrum loci corporalis                   4. Item, nulla substantia operatur, nisi ubi est
@@ -252,7 +265,3 @@ adntiae 2 j^^^ ^^ ^j^j^ s_ qjjjj^ gj^ju^ cceaturae ceterae ordinem ha-          
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

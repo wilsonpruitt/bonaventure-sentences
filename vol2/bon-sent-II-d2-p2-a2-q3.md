@@ -3,13 +3,16 @@ id: "bon-sent-II-d2-p2-a2-q3"
 volume: 2
 book: 2
 distinctio: 2
+pars: 2
 articulus: 2
 quaestio: 3
 type: quaestio
-line_start: 5334
-line_end: 5451
-word_count_latin: 1477
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "(p2 a2 q3)"
+title_en: ""
+line_start: 6245
+line_end: 6381
+word_count_latin: 2112
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-15 session 13 (correct semantic boundaries, raw 6245-6381) — QUAESTIO III (6245)."
 format_version: 1
 ---
 
@@ -17,123 +20,140 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO 111.
-                                  Utriim spirituales et corporales substantiae simul creatae sint.
+QUAESTIO III.
+                                                Utrum Angelus sit in loco impartibili sive punctali.
+                   Tertio quaeritur de modo essendi Angelum in                      quo minori non potest esse, quaero: aut ille locus
+Ad tura.
+    opposi-   loco. Et quaeritur , utrum sit in loco impartibili                    est partibilis, aut imparlibilis. Si partibilis: ergo
+              sive punctali. Et quod sic, videtur.                                  cura Angelus sit simplex, ergo adhuc potest esse
+                    1. Damascenus" dicit, « quod Angelus est in                     in minori. Quod si non potest esse in minori, vide-
+              loco, non flguraUter, sed intelligibiliter »: cum ergo                tur, quod ille * sit impartibilis ; sed nihil est ira-
+              nihil ipsius loci sit infigurabile et intelligibile nisi              partibile in loco nisi piuiclus: ergo etc.
+              punctus, est in puncto.                                                     4. Item, « quod recipitur in aliquo, recipitur
+                    2. Item , proportio debet esse locati ad locum ;
+                                                                                    ibi per modum recipientis, non ' per modum rece-
+              sed Angelus est simplex et impartibilis: ergo ei de-                  ptiS): si ergo Angelus est in loco partibili , est par-
+                                                                                    tibiliter. Sed irapossibile est, Angeluin recipere par-
+              betur locus siraplex et imparlibilis ". Sed hic est                   titionem: ergo etc.
+              solus punctus loci: ergo elc.
+                    3. Item, ponamus, Angelum esse in loco, in                             5. Item, si Angelus est in loco partibili tan-
 
-                Tertio quaeritur, utrum spirituales substantiae               est Angelus, ut dicit Glossa. Si tu dicas, quod
-         et corporales simul sint creatae. Et videtur, quod sic.              prius est dignitate; obiicitur de Hilario duodecimo
-                1. In Genesi': In principio creavit Deus etc;                 de Trinitate^: « Quid magnuiu, ut ante oninem
-idanieiiia.GIossa: « id est spiritualem et corporalem naturani».              creaturam Deus Dominum nostrum lesum Christum
-                2. Item, duodecimo Confessionum - : « Duo inve-               genuerit, cum et Angelorum origo terrae creatione
-         nio, quae fecisti carentia temporibus: unum, quod                    reperiatur antiquior » .
-         tua immutabilitate perfruitur, alteruni, quod ita in-                      2. IteiTT, hoc videtur ratione, quam facit Isido-
-         forme erat, ut ex forma in quam forinam muta-                        rus°: «In reriTm conditione primaria conditus est
-         retur, non haberet».                                                 locus poenarum»; sed Deus non praeparavit poenam
-                3. IteiTT , ratione videtur. Constat , quod Angeli            innocenli : ergo diabolus peccavit ante productionem
-         non siTut creati sine loco, quia tunc unus non lia-                  rerum.
-         beret ordinem ad alium secundum existentiam :                              3. Item, videtur, quod non simul potuerint',
-          oportuit ergo quod fleret empyrcum; et iterum, il-                  quia nulla virtus maior est inflnita; sed ad produ-
-          lius concavitas non poterat esse vacua: ergo etc.                   ctionem unius creaturae necesse est virtutem inflni-
-                h. Item, distinctio dierum attenditur secundum                tam exponi: ergo si ad hunc elTectum requiritur
-          distinctionem rerum % ergo productio ex niliilo prae-               virtus infinita, et infinito nihil plus potest, ergo
-          cedit omnem diem: ergo cum materia rerum cor-                       virtus illa non potest pro tempore illo alium effe-
-          poralium sit ex nihilo producta, sicut et natura                    ctum producere.
-          angelica, quemadmodum natura angelica est ante                            4. Item, simplex ad quod se convertit, totali-
-          tempus, similiter videtnr, quod materia: et si hoc,                 ter se convertit*: ergo si divina virtus est siinplicis-
-          ergo in principio durationis: ergo simul.                           sima, cum se convertit ad aliquem effectum produ-
-                CoNTRA : 1 . Ecclesiastici primo ■• : Prior omniuni           cendum, impossibile est, quod ad aliud se convertat,
-1 opposi- creata, est sapientia ; constat, quod loquitur de sa-               et ita quod aliud prodiTcat: ergo impossibile est,
-          pientia non divina, sed quae est creata; haec auteuT                quod simul plura producat.
+                   ' Cod. F primam ; cod. aa aliquam ; multi codd. perpe-           [7)vo)|ji4vov T.ijpi]; sic quoque panis communionis non simplex
+              ram illam, contra codd. K L cc et ed. I , in quibus exhibetur         est panis , sed divinilati unitus. — Cod. L transponit diffusius
+              nostra lectio.                                                        post in primo libro et.
+                   = Gen. 19, 13.                                                         ^ Libr. I. de Fide orthod. c. 13. Vide supra pag. 79,
+                   3 Plures codd. ut F K T bb cc ct ed. I definilivo.               nota 5. — Paulo superius plurimi codd. perpcram in loco parti-
+                   * Vat. quia idem exemplar. Paulo inferius post ideo cod.         bili sive, recte cod. M in loco vel partibili vel pro in loco
+              1 prosequitur cum intellectus glorificatus multa cognoscit, co-       impartibili sive.
+              gnoscit ita quod etc. , quae lectio probatur inutila lectione mul-         ' Aristot. , I. de Anima , text. 70. (c. 4. ): Quorum enim
+              torum codd. , qui exliibent quidem particulam cum , sed non           locus est indivisibilis, et ipsa [sunt indivisibilia].
+              repetunt verbum cognoscit. Dein nonnulli codd. ut A K T Y                  ' Cod. aa locus ille.
+              dispartitur pro dispergitur.                                               ' Libr. de Causis , prop. 1 0. et 20. seq. Cfr. etiam Boeth. , V.
+                    6 Libr. I. Sent. d. 37. p. I. a. 2, q. 1, et IV. Sent. d. 10.   de Consol. prosa 4. — Paulo inferius pkires codd. ut C H K 0
+              p. I. q. 1 , ubi exemplum de carbone ignito adscribitur Da-           SY cc et cdd. I , 2 pariialiter pro pariibiliter. Dein cod. T
+              masceno, qui IV. de Fidc orthod. e. 13. ait : Carbonem vidit          prosequitur. Sed impossibile est , Angelum esse partitum vel
+              Isaias (6, 2.); carbo non est simplex lignum, sed igni unitum         recipere partitiomm.
+                                                      DIST. II. P. II. .\RT. II. QUAEST. III.                                                8t
 
+          quam in loco primo , aut ergo est totus in qualibet                   corporaliter, sed spiritualiter. Quoniam vero non est
+          parte , aut est ita in toto , quod pars est in parte.                 in loco situaliter, ideo nec secundum totum, nec
+          Si totus est in toto, Jta quod pa?'s in parte, ergo                   secundum partem, nec secundum impartibile, quia
+          est partibilis; si ita quod in qualibet parte totus ,                 nulla omnino est commensuratio Angeli ad locum.
+          cum ergo partes loci sint multae, erit' in pluribus                   — Sed ista positio non intelligibilis esse videtur , toprobatnr.
+          locis. Si tu dicas, quod est in omnibus illis tan-                    quomodo scilicet aliquid possit esse in aliquo et de-
+          quani in loco uno , sicut anima est in onmibus par-                   finiri et contineri , nec tamen primo '^ immediate sit
+          tibus corporis; conira: esto quod corpus illud di-                    in toto, vel in parte, vel in impartibili. Omne
+           vidatur et locus, in quo est Angelus ^; constat, quod                enim quod est in aliquo toto , vel est ratione totius,
+          nihilominus potest esse in omnihus partibus, cum                      vel ratione ahcuius parlis.
+          non pendeat in aliqua parte principaliter. Et si hoc,                       Et ideo fuit circa hoc secunda positio, scilicet op™° ^-
+           cum sit ibi locorum multitudo, erit Angelus in plu-                  quod .\ngelus est in loco impartibili sive punctali.
+           ribus locis.                                                         Et ratio eorum erat ista, quia Angelus non habet
+                Contra: I. Punctus nec est locus, nec pars                      materiam omnino differentem a corporalium materia
+indamenta.ioci ': crgo quod cst iu puucto vel iu loco punctali                  nisi' secundum esse, scilicet quia non est extensa.
+          non est in loco.                                                      Unde cum materia sit simplex ut punctus de se ,
+             2. Item, « punctus, ut dicit Philosophus ■*, est                   dicunt, Angelum habere simplicitatem proportiona-
+       subslantia posita » , id est essentia habens positionem,                 lem punclo, et ita est in loco pnnctali. — Sed haec taproiiatnr.
+       in quo differt ab unitate: ergo si Angeius est in                        positio falsa est et non intelligibilis. Quidquid enim
+       puncto secundum proportionem puncto convenien-                           sit de materia, sicut infra ° dicetur, hoc tamen
+       tem, ergo Angelus habet positionem. Sed forma,                           est verum, quod omnis locus corporcMs est parti-
+       habens positionem in materia , non est motor suffi-                      bilis: ergo sicut est oppositio in adieclo, dicere
+       ciens eius in quo est: ergo etc.                                         corpus impartibile sive punctale , ila et dicere locum
+             3. Item, si Angelus est in puncto, primo ergo                      punctalem. Et iterum, cum punctus non sit locus,
+       influit virtutem supra punctum: ergo cum punctus                         ponere Angelum in puncto est ponere, ipsum non
+       sit improportionalis corpori, irapossibile est. quod                     e.sse in loco.
+       virtus eius se extendat ad corpus; et ita nunquam                               Et ideo esl tertia pnsitio, quod Angelus, cum opmo 3.
+       movebit corpus.                                                          contineatur a loco corporali, quod est in loco par-
+             4. Item, anima est in toto corpore; sed lioc                       tibili, tanquam in loco primo; et quoniam non po- concinsio.
+       non facit unio, quia ex hoc ipso habet dependen-                         test extendi in eo, ideo necesse est, quod sit in
+       tiam, et ita arctationem: ergo hoc est ratione sim-                      toto , ita quod totus in toto , et totus in qualibet
+       plicitatis ^. Cum ergo Angelus sit aeque simplex ,                       parte. Et in hoc est similis quodammodo simplicitas -
+       vel magis quam anima, videtur, quod multo fortius                        Angeli simplicitati divinae : sed deficit , quia Angelus
+       in maiori loco vel aequali totus possit esse.                            in uno loco sic est% Deus autem ubique. Ex hoc
+                                                                                dicit loannes Damascenus , quod Angelus est in loco
+                                 CONCLUSIO.                                     corporali, sed intelligibiliter, non figuraliler"', quia hoc
+                                                                                solum capit inlellectus , quomodo videlicet substan-
+        Angelus definitive est in loco divisibili, ita tamen,                   tia tota sit in partibus et tota in toto.
+            ut non sit locus ita parvus, quin Aiigelus                                 1 . Et ita patet responsio
+                                                                                                               *       ad verbum Dama- *"'»"»positorum."f
+            adhuc possit esse in minori.                                        sceni.
+                                                                                       2. Quod obiicitur, quod debet esse proportio ;
+               Respondeo: Triplex fuit circa hoc positio.                       dicendum , quod non oportet , quod sit proportio
+               Fuerunt enim quidam dicentes, quod Angelus,                      .secundum speciales conditiones et proprias " Angeli
+opinio i. quamvis sit in loco corporali, non tamen est in eo                    vel loci, quia Angelus non ponitur esse in hco pro-
 
-             ' Cap. 1,1. — Glossa, quae mox allegatur, est interli-                 '^ Libr. de Ordine creaturarum, c. 8. n. 7: Qui vivit in
-       nearis apud Lyranum.                                                   acternum, creavit omnia simul (Eccli. 18, I.). In quibus onini-
-             - Cap. 12. n. 1.5. Vide supra pag. 60, nota I. In hoc            bus etiam infernalis ille ignis aeternus, dc quo Doniinus dicit:
-       verbo aliqui codd. ut F K cum textu originali ut ex qua forina         lle in ignem aeternum , quem praeparavit Pator meus diabolo
-       pro ut ex forma.                                                       et angelis eius (.Matth. 2-5, 41.), simul factus fuisse minime
-             ' Vat. adiungit corporalium.                                     dubitatur... Cui ergo carcer in illa crealurarum condiliono prae-
-             * Vers. 4. — Glossa paulo inferius citata suinta cst cx          paratus est etc. — Idem Uabetur I. de Mirabil. Script. c. 2.
-       Isidor. , 1. Sententiarum seu de Summo bono, c. 10. n. 3. Idcm         (inlcr opera .\ugust.).
-       docet August. , de Gen. ad lit. (liber imperf.) c. o. n. 21 ; I. de          ' Subaudi : produci. — Cod. cc et ed. I pbtuerit scil.
-       Gen. ad lit. c. 9. n. 17 ; XI. de Civ. Dei , c. 9. ct 33. — Plurcs     Deus producere. .-\liquanto inferius non pauci codd. pro et
-       codd. sed quae est creatura pro sed quae est creata.                   infmito niliil plus potest ponunt et infinita niliil plus potest.
-             5 Num. 37: Quid enim magnum est, ut ante terram                        « Cfr. .A.ristot., III. de Anima, tot. 36. (c. 7.).
-       Deus etc.
-        68                                                   SENTENTIARUM LIB. 11.
+              ' Cod. A simul erit. — Simile argumenlum S. Bonav. de             nonnullis codd. Sed ista ratio pro Sed ista positio. — De seq.
+        anima ponit I. Sent. d. 8. p. II. q. 3. fundam. 3 ; et ibid. ad         prop. vide Arislot., IV, Pliys. text. 24. (c. 3.), ubi affert du-
+        6. liabetur illa replicatio, quae mox affertur.                         plicem modtmi essendi in aliqtio , scil. aut secundum se , aut
+             ' Vat., mutata interpunctione, dividnlui; et locus est in          secundum alterum i. e. secundum parlem. — Vat. cum pluribus
+        quo est Angelus. .Mox post partibus codd. U Y adiungunt cor-            mss. m atiquo loco toto pro in aliquo toto ; nimis constricte.
+        poris. Dcin flde codd. BDHIUV aa cc et ed. I substituimus                    ' Vat. cum paucis codd. omittens nm et nisi modo posi-
+        m aliqua parte pro ex aliqua parte.                                     tivo propositionem format, fortassc, quia multi codd. minus
+              3 Cfr. Aristot. , IV. Pliys. text. 47. (c. .5.).                  congrue omiltunt solummodo non, quod exliibetur in codd. B
+              < Libr. \. Poster. c. 23. (c. 27.) : Unitas substantia est sine   (F a secunda manu) IQU aa bb.
+        positione , punctum autem substanlia posita. Cfr. I. de Anima ,              8 Disl. 3. p. I. a. I. q. 2.
+        text. 68. (c. i.) et V. Metaph. text. 12. (IV. c. 6.). De ultima             ' Codd. BEH (bb in marg.) addunt quod non in alio ,■
+        propositione arg. vide I. Sent. d. 8. p. II. q. 3. in corp. —           nonnulli, ut NZ legunt sic tantimi est, codd. I cc et ed. 1
+        Paulo inferius eod. cc et ed. I secundum positionem pro se-             uno loco tantum est, Vat. omittit sic.
+        cundum proportionem.                                                         '" In cod. A subnectitur id est, circumscriptibiliter.
+              = Cfr. I. Sent. d. 8. p. II. q. 3.                                     " Cod. cc et ed. 4 proprietates.
+              " Codd. L 0 interserunt et. Aliquanto superius Vat. cum
+                    S. Bonav. — Tom. II.                                                                                            11
+                                                                 SENTENTIARUM LIB. II.
 
-              S.Item, quaerilur: quare tantum ista quatuor
-                                                                               tiam, quia simul incepit^ duratio materiae et intel-                             '•
-        dicuiitur primo esse creata ?                                          ligentiae, sicut probatum est.
-                                                                                     1. 2. Onod       ergo    obiicitur , quod        prior    ojh- Soiuuo oi
-                                C 0 N C LU s i 0.                                                , quod,
-                                                                               mimi etc. ; dicendum,        , sicut
-                                                                                                                . dicit
-                                                                                                                     , • ■ Augustuuis
-                                                                                                                           .      •    positorum
+           prie; est tamen ibi proportio quoad finitateni et                      pientis etc; dicendum, quod verum est. ubi rece- Notandnm.l
+           limitationem , per qiiae duo Angelus definitur et est                  ptum dependet a recipiente , sicut species recipitur
+           jn loco ; sicut enim .\ngelus habet subslantiam et                     in organo, recipitur et in intellectu, et existentia eius
+           virtutem flnitam , sic locus eius arctatus est et limi-                pendet ex eo in quo recipilur, et se habet ad illud
+           tatus.                                                                 per modum informantis; hinc est, quod recipit mo-
+                  3. Quod quaeritur de hoc: si ponatur Angelus                    dum suae existentiae ab eo in quo recipitur. Non sic
+           in loco, in quo minori non possit esse; dicendum,                      Angelus recipitur a loco , quia non pendet ex illo.
+           quod in hoc differt existentia Angeli in corpore et                          S. Quod obiieitnr: si totus est in qualibet parte
+Notandiim. animae , quod anima, quia est perfectio corporis                       loci , cum sint plura loca etc; dicendum, quod totus
+           nati vivificari vita rationali ", et illud est in deter-               est in qualibet parte, nec tamen in pluribus locis,
+           minata quantitate , ideo potest esse in corpore ita                    sicut nec anima, dum viviflcat totum corpus, non
+           parvo , qudd non in minori , quia minus non esset                      vivificat diversa corpora, sed unum.
+           organizabile et viviflcabile ; Angelus autem , quia non                      Quod autem obiicitur: esto quod corpus illud
+           est ut perfectio et simplex est, esl in qualibet parte                 sive locus, in quo est Angelus, dividatur; dico, quod
+           loci totus , quantumcumque parva est — quia ratio                      si divideretur in mille partes , dum tamen partes non
+           loci salvatur in qualibet -, non potest accipi locus                   sequestrarentur longe ab invicem, totus esset in
+           ita parvus, quin adhuc possit esse in minori — et                      omnibus , et omnes essent ei unus locus , quia nuUam
+           ideo non est dare locum, in quo minori non possit                      habenl rationem ambiendi vel deflniendi Angelum,
+           esse"; est tamen dare, in quo maiori non potest,                       sed illud quod coniplectitur omnes partes. Locus
+           sicut et anima , quia hoc venit ex limitatione. Sicut                  enim non numeratur secundum numerum corporum
+           ergo in corporibus status est in ascendendo, sed in                    locanlium, sed in comparatione ad locatum^; sicut
+           dividendo nunquam est ponere statum , nec unquam                       patet , quia unum corpus potest esse partim in aere ,
+           devenitur ad impartibile : sic intelligendum est circa                 partim in aqua, partim in terra, nec tamen in tri-
+           existentiam Angeli in loco.                                            bus locis, sed in uno est.
+                  4. Quod obiicitur, quod est per modum reci-
 
-                                                                               in fine duodecimi Confessionum \ »rms dicitur qua- Prius di
-                                                                                                                                  .   tur 4 mod
-        Qiiatuor fuerunt primo creata , scilicet caelum                        tuor modis, scuicet aeternitate, tempore, electione,
-         empyreum, angelica natura, materia et tempus.                         origine. Aelernitate Deus praecedit orania, tempore
-                                                                               flos fructum, electione fructus florem, origine sonus
-                 Respondeo : M praerlictorum intelligentiam no-                cantum. Prioritate ergo durationis'-' nec corporalis
-conciusio. tandum , quod , sicut extrahitur a Glossa ', quatuor                natura ante angelicam, nec e converso; prioritate
-           fuerunt primo creata, scilicet caelum empyreum ,                    autem electionis sive dignitatis prior omnium creala
-           angeiica natura, materia et tempus.                                 est sapientia. — Ad auctoritates Hilarii et Isidori, di-
-                 Huius autem ratio duplex potest assignari: «na;,              cendum, quod ipsi loquuntur secundum illam posi-
-  Raiio 1. quia in principio debuerunt prima in omni genere                    tionem, quae posuit, creationem tempore praecedere
-           creari, scilicet in relDus et mensuris, et in rebus                 distinctionem. Unde in principio temporis Angelus
-           corporalibus et spiritualibus, et in corporalibus acti-             et materia sunt creata; sed res non fuerunt distin-
-           vis et passivis. Quoniam igitur prima inter substan-                ctae usque ad tertium diem. — Vel potest dici,Aiiter.
-           tias spirituales est Angelus , prima inter substantias              quod Hilarius loquitur secundum opinionem °, et
-           corporales activas est empyreum, et prima inter                     Isidorus de prioritale secundnm fraevisionem.
-           passivas est materia elementorum, el prima inter                          3. Quod obiicitur, quod Deus totam potentiam
-           mensuras est tempus, quia non tantura dicit men-                    exponit ad productionem unius rei; dicendum, quod                                 ;
-           suraiu durationis, sed etiam egressionis: ideo Iiaec                quamvis totam exponat , non tamen totaliter expo- sotanduni
-           quatuor dicuntur primo creata.                                      nit. Virlus enim divina non tantum dicitur infinita,        |
-                 Alia ratio potest reddi, quod substantia spiri-               quia possit de non-ente facere ens, sed etiam quia
-  Raiio 2. tualis angelica primum debuit fieri tanquam caput                   non potest tot, quin plura; unde nunquam tot si-
-           et minus dependens, et cum facta fuit, siraul babuit                mul producit, quin adhuc possit plura; unde potest,
-           distinclionem et ordinem °; sed ordinem existentiae                 quantum est de se , in infinituni intensione et exten-                            •
-           non habuit nisi in aliquo continente: ergo simul                    sione". Et ideo non valet illud.
-           factum est caelum empyreutn supremum corporum,                           4. Quod obiicitur de simplici, dicendum, quod
-           et ideo capacissiraum. Et rursus, cuni non posset                   illud habet locum in illo simplici, in quo simul esl
-           esse vacuum, necesse fuit, fleri materiam corpora-                  simplicitas et finitas; sed de illo, quod simplex est                             i
-           lem sive molem; et quia omnis productio est in                      et infinitum siniul et semel, veritatem non habet.                                ;
-           ahqua mensura , haec tria de necessitate consequitur                Illud enim etsi ratione simplicitatis totuiu se con-                              j
-           tempus.                                                             vertat ad id, ad quod se convertit, tamen ratione                                 ;
-                 Concedendum igitur, quod quatuor sunt primo                   immensitatis nunquam se totaliter ad effectum pro-
-           creata, et quod angelica natura et corporea simnl                   ducendum convertit.
-           sunt creatae quantum ad mensurarum         concnmitan-
-
-
-                                                                   SCHOLIOK
-
-
-             I. Inler doctofes Lulinos atl quacslionem communiler affir-       chrisiiana auctoritas, ut nullas anquam, cius dictis calumniam
-        mative respondetur , praesertini post Concil. Laternncnse IV. ,        inferre praesumserit , sicut nec Atlianasii documentis , ut
-        in quo (Cap. Firmiter) definitur , quod Detis « simul ab iiiitio       llieronymtis dicil».
-        temporis utramque de nihilo condidil creaturam spiritiioiem et                II. Ale.\. Hal. , S. p. II. (|. 19. m. 1. — Loci Scoli collecti
-        corporalem». Sed inter Patres , praecipue Graecos, non dcsunl,         a .Montefortino , S. tom. II. p. I. q. 61. a. .3. — S. Thom., hic
-        qui contrariain sententiam tenent ; unde mulli opinantur, per          q. I. a. 3; S. I. q. 61. a. 3; de Potent. q. 3. a. 18. 19. — B.
-        dictn ^'erba Concilii conlrariam scntentiam non esse reprobtitum.      .\lbert., hic a. 1 ; S. p. II. tr. 3. q. 1 1 . — Petr. a Tar. , hir
-        Etiam S. Thom. in Summa theolog. (loc. cit.) dicit : « Quamvis         q. 2. a. 3. quaesliunc. 2. — liichard. a Med. , hic a. 2. q. I.
-        contrarium non sit rcputandum erroneum , praecipue propter             — .Bgid. R. , hic q. 1. a. 1. — Dionys. Carth., hic q. I.
-        sententiam Gregorii Nazianzeni , cuius taiita est in. doctrina
-
-
-
-                                                                                    ■• Cap. 29. n. 40.
-              ' Quae sunita est ex Bedac Exposit. in Gen. I , et ex
-        Quacstionibus siiper Gen. (cfr. .\ugust., j. de Gcn. contra Manich.          5 Cod. .\ durationis sice tcmporis.
-        c. 2.). — Vai. pnst materia adiungit prima.                                 ^ Id est, non asserendo. — Val. adiungit aliorum.    FT
-              - \n cod. I iidiungitur existentiae. — Cfr. p. II. a. 2. q. I.        ' Cfr. I. Sent. d. 43. q. 1. 3. 4. — Vnt. omiuit in ante
-              ^ PliH'imi cofld. cum Vat. coepit, cod. cc autem el ed. I        in/initum, quae etiam paulo superius post potcst [codd.
-        incepit.                                                               potest facere] tot, rjuin supiilet possit.
-                                                              DIST. IL P. I. DUBIA.                                                           69
-
-
-                                                     DUBIA CIRC\ LITTERAM MAGISTRl.
+                                                                      SCHOLION.
+              I. Quid sit esse definitive in loco , explicalur liic in fine       hac ductus ratione, quod punctum non sit locus. Hanc suam
+        corp. — Prima et secunda opinio liic recensita etiam a S. Thoma           sentenliam declaral in solut. ad 3. — Scotus (hic q. 6. n. 1 3.)
+        reiicitur , qui secunduni principia de fundamcnlali ratione prae-         putal, non esse ralionem necessariam nec ad unam nec ad
+        senliae angelicae in loco ab ipso stabilila resolvit, Angelos posse       aliani parteni , quod etiam Richard. (loc. ciland. ad 3.) approbat.
+        suam virtutem pro libitu appiicnre vel loco indivisibili, vel di-               II. S. Thom., I. Sent. d. 37. q. 3. a. 3 ; S. I. q. 52. a. 2.
+        visibili. Idem sentit Pelr. a Tar. — Sed S. Bona^. cum /Egi-              — Petr. a Tar. , 1. Sent. d. 37. q. 4. a. 2. praeserlim ad 4. —
+        dio R. aliisque negat, Angelum posse esse in loco indivisibili.           Ricliard. a Med.. I. Sent. d. 37. a. 2. q. 2.
 
 ## English
 
@@ -142,7 +162,3 @@ conciusio. tandum , quod , sicut extrahitur a Glossa ', quatuor                n
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]
