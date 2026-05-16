@@ -1,8 +1,10 @@
-# Next session — Vol II **DISTINCTION 3** (re-chunk + Tier-2) — **DISTINCTION 2 COMPLETE 17/17**
+# Next session — Vol II **DISTINCTION 3 Tier-2** → next chunk `d3-p1-divisio` (d.2 COMPLETE; d.3 re-chunked, 1/17 Tier-2)
 
-Updated 2026-05-16 at close of session 30 (sessions 25–30 ran in one stretch: `d2-p2-a1-q2`, `a2-q1`, `a2-q2`, `a2-q3`, `a2-q4`, `dubia` all promoted to Tier-2 + a2-q3 backfilled; **DISTINCTION 2 COMPLETE — 17/17**).
+Updated 2026-05-16 (session 31): d.3 **re-chunk pass DONE** (commit `5569fc9`, 17 skeletons, verified) + **`d3-littera` promoted to Tier-2** (commit `96b07fc`). d.3 now **1/17 Tier-2**; next = `d3-p1-divisio`.
 
-Head commit: `3f5ba7c` — vol2 d.2 promote bon-sent-II-d2-p2-dubia to Tier-2 (session 30) — DISTINCTION II COMPLETE. Resume commit follows.
+**Agent-model finding (do not repeat the failed approach):** the d.3 re-chunk pass was run successfully by a subagent (bounded, fast-committing — good fit). A follow-up subagent tasked with 3 cascade Tier-2 chunks **timed out with zero output** (stream idle timeout, ~19 min, nothing committed): deep per-quaestio cascade Tier-2 is too long/read-heavy for one subagent invocation and there is no SendMessage to resume. **Decision: agents only for bounded prep (re-chunk, page-mapping, batch extraction); all cascade Tier-2 reflow is done in the MAIN THREAD** (harness compaction handles the length). Do not delegate Tier-2 chunk-building to subagents.
+
+Head commit: `96b07fc` — vol2 d.3 promote bon-sent-II-d3-littera to Tier-2 (session 31). Resume commit follows.
 
 ## Status
 
