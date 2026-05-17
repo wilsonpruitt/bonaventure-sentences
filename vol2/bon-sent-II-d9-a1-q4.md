@@ -6,10 +6,12 @@ distinctio: 9
 articulus: 1
 quaestio: 4
 type: quaestio
+title_la: "Quaestio IV — de ordinibus Angelorum."
+title_en: ""
 line_start: 17697
 line_end: 17874
 word_count_latin: 2222
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 17697-17874) — QUAESTIO IV (17697). Ends before QUAESTIO V (17875)."
 format_version: 1
 ---
 
@@ -201,7 +203,3 @@ NotaDdiim. Angelorum nomina sumla sunt de sacra Scriptura,                    mu
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

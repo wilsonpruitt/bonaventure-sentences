@@ -6,10 +6,12 @@ distinctio: 6
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 11852
+title_la: "Utrum lucifer fuerit de supremo ordine Angelorum."
+title_en: ""
+line_start: 11847
 line_end: 11970
-word_count_latin: 1626
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 1634
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 11847-11970) — ART I opener (11847) + De quo ordine mali angeli ceciderunt + QUAESTIO I (11852) folded. Ends before QUAESTIO II (11971)."
 format_version: 1
 ---
 
@@ -17,7 +19,12 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS I.
+
+                                                    Do quo ordine rnalt angeli ceciderunt.
+
+
+                                                                      QUAESTIO I.
                                           Ulrum lucifcr fueril de supremo ordine Angclorum.
 
                  Quaeritur ergo primo, de (|uo ordine fuerit                   rarnm ; sed tanto maius est vitinm, quanto in no-
@@ -142,7 +149,3 @@ cidens solvi-
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

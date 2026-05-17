@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 5
 type: dubia
+title_la: "Dubia circa litteram Magistri."
+title_en: ""
 line_start: 11656
 line_end: 11699
 word_count_latin: 455
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 11656-11699) — DUBIA CIRCA LITTERAM MAGISTRI (11656). Ends before DISTINCTIO VI (11700)."
 format_version: 1
 ---
 
@@ -64,7 +66,3 @@ cans odit; cod. T ut bealifwans odit eum. — kkni dubiuni                  5> I
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

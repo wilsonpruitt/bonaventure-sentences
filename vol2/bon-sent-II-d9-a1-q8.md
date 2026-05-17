@@ -6,10 +6,12 @@ distinctio: 9
 articulus: 1
 quaestio: 8
 type: quaestio
+title_la: "Quaestio VIII — de ordinibus Angelorum."
+title_en: ""
 line_start: 18209
 line_end: 18311
 word_count_latin: 1236
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 18209-18311) — QUAESTIO VIII (18209). Ends before QUAESTIO IX (18312)."
 format_version: 1
 ---
 
@@ -126,7 +128,3 @@ soiuiio op- sunt; dicendum,    quod
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

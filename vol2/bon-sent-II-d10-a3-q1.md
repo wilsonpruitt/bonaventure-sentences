@@ -6,10 +6,12 @@ distinctio: 10
 articulus: 3
 quaestio: 1
 type: quaestio
-line_start: 19044
+title_la: "Quaestio I — qualiter Angeli officium suum exsequantur."
+title_en: ""
+line_start: 19031
 line_end: 19308
-word_count_latin: 3702
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 3806
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 19031-19308) — ART III opener (19031, Qualiter Angeli officium suum exsequantur) + QUAESTIO I (19044) folded. Ends before QUAESTIO II (19309)."
 format_version: 1
 ---
 
@@ -17,7 +19,20 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS III.
+
+                                                   Qualiter Angeli officium suum exsequantur.
+
+               Consequenter quaeritur de tertio articulo, sci-                 plures auctoritates Scripturae, locutione spirituah,
+         hcet qualiter iniunclum sibi ofQcium exsequantur;                     quae quidem est sine voce, circa modum loquendi
+         et cum hoc faciant discurrendo et denuntiando, in-                    duo quaeruntur.
+         cideret hic quaestio de Angeli motu et de locutione.                       Primum est, utrum locutio Angeli idem sit
+         Sed quia de motu dictura est in primo libro distin-                   quod eius cogitatio.
+         ctione trigesima septima ^ , nunc quaerendum est                           Secundum est, utrum eadem locutio possit esse
+         de locutione angelica. Et supposito, quod competat                    a Deo et Angelo.
+         Angelis loqui absque assumto corpore, sicut dicunt
+
+                                                                      QUAESTIO I.
                                             Utrum Angeli locutio sit iclem quocl eius cogitatio.
 
               Circa primum sic proceditur et ostenditur ,                      loquar etc. ; ibi Glossa : « Angeli praepositi signi-
@@ -287,7 +302,3 @@ Qaid auditus et quomodo diflferat audire et videre ; nam lam                    
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

@@ -6,10 +6,12 @@ distinctio: 9
 articulus: 1
 quaestio: 7
 type: quaestio
+title_la: "Quaestio VII — de ordinibus Angelorum."
+title_en: ""
 line_start: 18081
 line_end: 18208
 word_count_latin: 1773
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 18081-18208) — QUAESTIO VII (18081). Ends before QUAESTIO VIII (18209)."
 format_version: 1
 ---
 
@@ -151,7 +153,3 @@ opmio 3. et novem ordines Angelorum addetur ordo decimus                        
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

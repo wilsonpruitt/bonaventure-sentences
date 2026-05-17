@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 6
 type: divisio
-line_start: 11807
+title_la: "Commentarius in Distinctionem VI — Divisio textus."
+title_en: ""
+line_start: 11801
 line_end: 11846
-word_count_latin: 356
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 368
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 11801-11846) — COMMENTARIUS (11801) + DIVISIO TEXTUS (11807) + NOTAE AD COMMENTARIUM (11826) + TRACTATIO (11836). ART I (11847) folds into a1-q1."
 format_version: 1
 ---
 
@@ -15,7 +17,13 @@ format_version: 1
 
 ## Latin
 
-DIVISIO TEXTUS.
+COMMENTARIUS                          IN DISTINCTIONEM YI.
+
+                                                           De ruiiia maloruni angelorum.
+
+                                                              Praetcrm sciri oportel etc.
+
+                                                                     DIVISIO TEXTUS.
 
 
                 Supra egit Magister de aversione et cnnversio-                          Siiniliter secunda pars babet tres. In prima
@@ -61,7 +69,3 @@ DIVISIO TEXTUS.
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

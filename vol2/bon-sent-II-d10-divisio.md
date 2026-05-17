@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 10
 type: divisio
-line_start: 18494
+title_la: "Commentarius in Distinctionem X — Divisio textus."
+title_en: ""
+line_start: 18489
 line_end: 18516
-word_count_latin: 203
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 215
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 18489-18516) — COMMENTARIUS (18489) + DIVISIO TEXTUS (18494) + TRACTATIO (18508). ARTICULUS I (18517) folds into a1-q1."
 format_version: 1
 ---
 
@@ -15,7 +17,12 @@ format_version: 1
 
 ## Latin
 
-DIVISIO TEXTUS.
+COMMENTARIUS                         IN DISTINCTIONEM X.
+                                                       De ministerio Angelorum.
+
+                                                    Hoc etiam investigandum est etc.
+
+                                                              DIVISIO TEXTUS.
 
             Supra egit Magister de consequentibus confir-                       Prima pars, in qua quaerit, quibus Angelis
        mationem Angelorum quantum ad distinctionem or-                     corapetit rainistrare sive raitti , habet tres partes. In
@@ -45,7 +52,3 @@ DIVISIO TEXTUS.
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

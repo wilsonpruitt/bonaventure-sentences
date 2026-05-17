@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 6
 type: littera
+title_la: "Distinctio VI. Magistri Sententiarum."
+title_en: ""
 line_start: 11700
 line_end: 11800
 word_count_latin: 1257
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 11700-11800) — DISTINCTIO VI (11700) + Lombard Caps. Ends before COMMENTARIUS (11801)."
 format_version: 1
 ---
 
@@ -121,7 +123,3 @@ Ojiinio   . religatus sit et ad nos tenlandos nunc accessum non                 
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

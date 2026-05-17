@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 10
 type: littera
+title_la: "Distinctio X. Magistri Sententiarum."
+title_en: ""
 line_start: 18420
 line_end: 18488
 word_count_latin: 872
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 18420-18488) — DISTINCTIO X (18420) + Lombard Caps (An omnes caelestes spiritus mittantur). Ends before COMMENTARIUS (18489)."
 format_version: 1
 ---
 
@@ -90,7 +92,3 @@ Qiiaestio in- Dei existunt, quare unus tantum inter novem ordines               
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

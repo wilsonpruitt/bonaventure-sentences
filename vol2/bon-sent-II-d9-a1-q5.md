@@ -6,10 +6,12 @@ distinctio: 9
 articulus: 1
 quaestio: 5
 type: quaestio
+title_la: "Quaestio V — de ordinibus Angelorum."
+title_en: ""
 line_start: 17875
 line_end: 17988
 word_count_latin: 1667
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 17875-17988) — QUAESTIO V (17875). Ends before QUAESTIO VI (17989)."
 format_version: 1
 ---
 
@@ -137,7 +139,3 @@ s^iuuo or- quod ad unilatem ecclesiasticain non admittit hoino                  
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

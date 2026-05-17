@@ -3,13 +3,16 @@ id: "bon-sent-II-d7-p1-a1-q1"
 volume: 2
 book: 2
 distinctio: 7
+pars: 1
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 12689
-line_end: 12993
-word_count_latin: 4406
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Utrum affectus vel voluntas daemonis possit rectificari."
+title_en: ""
+line_start: 12685
+line_end: 12992
+word_count_latin: 4414
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 12685-12992) — ART I opener (garbled 'AUTICULUS I' 12685) + QUAESTIO I (12689) folded. Ends before QUAESTIO II (12993)."
 format_version: 1
 ---
 
@@ -17,7 +20,11 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+AUTICULUS           I.
+
+                                          De obstinationis malignitate quoad malos spirilus.
+
+                                                            QUAESTIO I.
                                        Utrum affectus vel voluutas daemonis possil reclificari.
 
              Quaeritur igitur primum, utrum affectio vel                          2. llem, Augustinus in libro de Fide ad Pe-
@@ -328,7 +335,3 @@ Mdiim. quod quamvis non sit tantae impietatis in superficie,
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 6
 type: dubia
-line_start: 12400
-line_end: 12504
-word_count_latin: 1326
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Dubia circa litteram Magistri."
+title_en: ""
+line_start: 12398
+line_end: 12469
+word_count_latin: 939
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 12398-12469) — DUBIA CIRCA LITTERAM MAGISTRI (12398): DUB I (12400), DUB II, DUB III (12446), DUB IV (12447). Ends before DISTINCTIO VII (12470)."
 format_version: 1
 ---
 
@@ -15,7 +17,9 @@ format_version: 1
 
 ## Latin
 
-DUB.   I.                                                           DuB. U.
+DUBIA CIRCA LITTERAM MAGISTRI.
+
+                                    DUB.   I.                                                           DuB. U.
 
               In parte ista snnt dubitationes circa lilteram                      ftem quaeritur de boc quod dicit: In isto aere
         et primo quaerilur de boc quod dicit : Eos caden-                   caliginoso , qui eis carcer est. Videlur enim, quod
@@ -83,44 +87,6 @@ forlis est et adeo, quod pauci essent, qui non vin-                   men et qua
 cerenlur, nisi Deus eius astutiam et fallaciam re-                    quid dicat Origenes^ melius est dubitare, quam super
 stringeret, quam in fme iusto iudicio permitlet dila-                 hoc aliquid defmire.
 
-
-
-                                                    DISTINCTIO              VII.
-
-                                                                Pars I.
-
-
-
-                             Cap. I.                                                              Cap. II.
-
-      Utrum boni Angcli possint peccare^ vel mali                       Quod cum utrique liaheanl liberum arbitrium, no7i
-                     rccle vivere.                                             tamen ad ulrunu/ue ftccli possunt.
-
-     Supra ' dicluni est, quod Angcli, qul perslilerunl,                   Scd cuni nec boni peccare possint, ncc niali bene
-per graliam confirmati sunt, et qui ceciderunt, a gra-                velle vel bcne operari, videlur, quod iam non liabeant
-tia Dei dcserti sunt. Et boni quideni in tantum conlir-               liberum arbitrium, quia in utranique parlcm flecli nou
-mali sunt per graliam, quod pcccare neqneunl; niali                   possunt, cuni liberum arbilrium ad ulrunique se ha-
-vero pcr maliliam adco sunt obstinati, (luod bonam                    beat. Uiide Hieronymus" in Iractatu de prodigo lilio iiieronymns.
-voluulaleni habcrc sive bcne vcllc non valcnt, ctsi                   dicil; <i Solus Deus est, in quem peccalum cadere non
-boniuu sil qnod aliquando volunt. Volunt enim ali-                    potesl; celera , cum sinl liberi arbitrii, in ulramque
-quando aliquid licri , quod Deus vult lieri, el utique                parlem flccti possunt». — Hic videtur dicere, quod Diiiicuitas.
-illud bonum cst et iustum fieri, nec tamen boiia vo-                  omnis creatura in libero arbilrio conslituta flecli po-
-luntate illud volunt, nec bene illud volunt^                          lest ad bonum et ad malum. Quod si est , ergo et boni
-
-
-
-      1 Vers. 24.                                                      c. 7. — Solvunt idem dubiuni B. Albert., bic a. 9 ; S. Tlioni.,
-      ' Gregor. , V. Moral. c. 22. n. 43: Anliqiius liostis, sicut     bic q. I. a. 5.
- contra conscntientes fortis est, ita contra resistentes debilis. —                   NOTAE AD LIBR. SENTENTIARUM.
- Cod. bb non potest vincere pro non tincit.                                  1 Dist. V. c. I. CIV. de hoc cjp. Ilugo, Sum. Sent. tr. 2.
-      3 Cfr. Jlattli. 24, 22. seiiq. — Vide de hoc dubio Alex.         c. 4.
- Hal., S. p. II. q. 101. ni. 5; B. Albcrl., Iiic a. 8; /Egid. R.,            ' Vat. cuni cod. D ct edd. 2, 3, 4, 5, 7, 9 oinitlit haec
- dub. litt. 6.                                                         ultima verba ; nec bene illud volimt.
-       * Cap. 20, 3. Cfr. liic lit. Magistri, c. G.                          ' Episl. 21. ad Danias. n. 40, in quo loco pro cadere non
-       5 Mattb. 24, 22. seqq.                                          polest originalc non cadit, et in fine possunt sxtam flectere
-       8 Dc cuius verbis in lioc dubio agitur. Clr. lit. Magistri,     voluntalem pro flecti possnnl. Cfr. infra d. XXV. c. 3. 4.
-                                                                                                                                              171
-
 ## English
 
 [Translation pending]
@@ -128,7 +94,3 @@ luntate illud volunt, nec bene illud volunt^                          lest ad bo
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

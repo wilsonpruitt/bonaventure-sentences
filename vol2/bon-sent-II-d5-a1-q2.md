@@ -6,10 +6,12 @@ distinctio: 5
 articulus: 1
 quaestio: 2
 type: quaestio
+title_la: "Utrum lucifer appetiverit Deo aequiparari."
+title_en: ""
 line_start: 10935
 line_end: 11100
 word_count_latin: 2302
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 10935-11100) — QUAESTIO II (garbled 'QU.\ESTIO 11.' 10935). Ends before ARTICULUS II (11101)."
 format_version: 1
 ---
 
@@ -190,7 +192,3 @@ opies sirai- litudo Dei , scilicet aequipurantiae sive aequalita-               
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

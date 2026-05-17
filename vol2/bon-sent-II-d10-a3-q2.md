@@ -6,10 +6,12 @@ distinctio: 10
 articulus: 3
 quaestio: 2
 type: quaestio
+title_la: "Utrum eorum locutio possit esse a Deo et ab Angelo."
+title_en: ""
 line_start: 19309
-line_end: 19453
-word_count_latin: 1961
-transcription_status: "auto-chunked 2026-05-13"
+line_end: 19451
+word_count_latin: 1957
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 19309-19451) — QUAESTIO II (garbled 'QUAESTIO 11.' 19309). Ends before DUBIA (19452)."
 format_version: 1
 ---
 
@@ -160,8 +162,6 @@ i quaesi. iusmodi apparitiones et locutiones sensibiles fiant                 en
       in genere loquuntur de apparitionibus Dei in corporalibus for-          a. 3. — Dionys. Carth. , hic q. 2.
       inis, quin de hac speciali quaestione e.xplicite tractent. Apud
 
-                                                     DUBIA CIBCA LITTERAM MAGISTRI.
-
 ## English
 
 [Translation pending]
@@ -169,7 +169,3 @@ i quaesi. iusmodi apparitiones et locutiones sensibiles fiant                 en
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

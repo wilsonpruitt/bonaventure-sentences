@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 10
 type: dubia
-line_start: 19454
+title_la: "Dubia circa litteram Magistri."
+title_en: ""
+line_start: 19452
 line_end: 19517
-word_count_latin: 802
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 806
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 19452-19517) — DUBIA CIRCA LITTERAM MAGISTRI (19452): DUB I (19454), DUB III (19512). Ends before DISTINCTIO XI (19518)."
 format_version: 1
 ---
 
@@ -15,7 +17,9 @@ format_version: 1
 
 ## Latin
 
-DUB.   I.                                 cuntur proprie mitti a Deo, nec angeli', sed potius
+DUBIA CIBCA LITTERAM MAGISTRI.
+
+                                    DUB.   I.                                 cuntur proprie mitti a Deo, nec angeli', sed potius
                                                                               dicuntur angeli diaboli, quia a suo principe diri-
             In parte ista sunt dubitationes circa litteram,                   guntur et ei obedire intendunt. — Ad oinnes autem
       et primo quaeritur de hoc quod dicit in litlera:                        illas auctoritates respondendum est, quod intelli-
@@ -86,7 +90,3 @@ DUB.   I.                                 cuntur proprie mitti a Deo, nec angeli
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

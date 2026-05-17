@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 9
 type: divisio
-line_start: 17009
+title_la: "Commentarius in Distinctionem IX — Divisio textus (de ordinibus Angelorum)."
+title_en: ""
+line_start: 17004
 line_end: 17301
-word_count_latin: 3865
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 3878
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 17004-17301) — COMMENTARIUS (17004) + DIVISIO TEXTUS (17009) + TRACTATIO (17290). ARTICULUS UNICUS (17302) folds into a1-q1."
 format_version: 1
 ---
 
@@ -15,7 +17,12 @@ format_version: 1
 
 ## Latin
 
-DIVISIO TEXTUS.
+COMMENTARIUS                          IN DISTINCTIONEM IX.
+                                               De     angelicorutii        ordinum     distinctione.
+
+                                                    Posl praedicta superest cognoscere etc.
+
+                                                               DIVISIO TEXTUS.
 
              Supra egit Magister de consequentibus ad ma-                     Prima pars habet quatuor partes. In prima determi-
         lorum obstinationem ; in hac parte agit de his quae                   nat, qualiter Angelorum ordines distinguuntur. In
@@ -315,7 +322,3 @@ enes viuim
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

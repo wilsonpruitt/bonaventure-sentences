@@ -6,10 +6,12 @@ distinctio: 9
 articulus: 1
 quaestio: 2
 type: quaestio
+title_la: "Utrum distinctio Angelorum sit a natura, an a gratia."
+title_en: ""
 line_start: 17467
 line_end: 17534
 word_count_latin: 855
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 17467-17534) — QUAESTIO II (17467). Ends before QUAESTIO III (17535)."
 format_version: 1
 ---
 
@@ -92,7 +94,3 @@ Fimdamenia.7iM, quaui Magister ponit in littera': «Ordo est mul-               
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

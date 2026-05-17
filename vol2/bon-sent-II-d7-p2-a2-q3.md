@@ -3,13 +3,16 @@ id: "bon-sent-II-d7-p2-a2-q3"
 volume: 2
 book: 2
 distinctio: 7
+pars: 2
 articulus: 2
 quaestio: 3
 type: quaestio
+title_la: "Utrum quis magicis artibus uti possit absque peccato."
+title_en: ""
 line_start: 14767
-line_end: 14892
-word_count_latin: 1667
-transcription_status: "auto-chunked 2026-05-13"
+line_end: 14890
+word_count_latin: 1663
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 14767-14890) — QUAESTIO III (14767). Ends before DUBIA (14891)."
 format_version: 1
 ---
 
@@ -141,8 +144,6 @@ snbvenit. aut Douiinus subveuit per se, ant per Angelum suum,                   
          pro diabolo.                                                               « Cap. 17. n. .37.
          206                                                    SENTENTIARUM LIB. 11.
 
-                                                        DUBIA CIRCA LITTERAM MAGISTRl.
-
 ## English
 
 [Translation pending]
@@ -150,7 +151,3 @@ snbvenit. aut Douiinus subveuit per se, ant per Angelum suum,                   
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

@@ -6,10 +6,12 @@ distinctio: 5
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 10722
+title_la: "Utrum lucifer peccaverit peccato superbiae."
+title_en: ""
+line_start: 10718
 line_end: 10934
-word_count_latin: 2961
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 2966
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 10718-10934) — ART I opener (10718) + De aversione luciferi + QUAESTIO I (10722) folded. Ends before QUAESTIO II (10935)."
 format_version: 1
 ---
 
@@ -17,7 +19,11 @@ format_version: 1
 
 ## Latin
 
-OUAESTIO 1.
+ARTICULUS I.
+
+                                                                De aversione luciferi.
+
+                                                                       OUAESTIO 1.
 
                                                  Utrum lucifer peccaverit pcccaio superbiae.
 
@@ -235,7 +241,3 @@ primam curiositatis notam , scil. quod sit mrae attentio, codd.        Graece vc
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 5
 type: littera
+title_la: "Distinctio V. Magistri Sententiarum."
+title_en: ""
 line_start: 10586
 line_end: 10672
 word_count_latin: 935
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 10586-10672) — DISTINCTIO V (10586) + Lombard Caps. Ends before COMMENTARIUS (10673)."
 format_version: 1
 ---
 
@@ -108,7 +110,3 @@ Utrum beatUudinen _, quam acceperunt in confirma-
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

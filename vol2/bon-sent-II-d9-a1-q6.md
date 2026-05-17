@@ -6,10 +6,12 @@ distinctio: 9
 articulus: 1
 quaestio: 6
 type: quaestio
+title_la: "Quaestio VI — de ordinibus Angelorum."
+title_en: ""
 line_start: 17989
 line_end: 18080
 word_count_latin: 1045
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 17989-18080) — QUAESTIO VI (17989). Ends before QUAESTIO VII (18081)."
 format_version: 1
 ---
 
@@ -116,7 +118,3 @@ latione, ^
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

@@ -3,13 +3,16 @@ id: "bon-sent-II-d7-p2-a2-q2"
 volume: 2
 book: 2
 distinctio: 7
+pars: 2
 articulus: 2
 quaestio: 2
 type: quaestio
+title_la: "Utrum verarum formarum inductio sit a spiritu maligno."
+title_en: ""
 line_start: 14531
 line_end: 14766
 word_count_latin: 3232
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 14531-14766) — QUAESTIO II (garbled 'QU.\ESTIO II.' 14531). Ends before QUAESTIO III (14767)."
 format_version: 1
 ---
 
@@ -259,7 +262,3 @@ idDemqaaesiio-
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

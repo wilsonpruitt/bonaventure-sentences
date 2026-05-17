@@ -3,11 +3,14 @@ id: "bon-sent-II-d7-p2-divisio"
 volume: 2
 book: 2
 distinctio: 7
+pars: 2
 type: divisio
-line_start: 13732
+title_la: "Commentarius in Distinctionem VII, Pars II — Divisio textus."
+title_en: ""
+line_start: 13724
 line_end: 13754
-word_count_latin: 223
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 244
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 13724-13754) — COMMENTARIUS Pars II (13724) + DIVISIO TEXTUS (13732) + TRACTATIO (13747). ARTICULUS I (13755) folds into a1-q1."
 format_version: 1
 ---
 
@@ -15,7 +18,15 @@ format_version: 1
 
 ## Latin
 
-DIVISIO TEXTUS.
+COMMENTARIUS                          IN DISTINCTIONEM VII.
+                                                                         Pars II.
+
+                                                 De consequentibus ad obstinationem.
+                                                             Et licet mali angeli etc.
+                                                   TEXTUM     MAGISTRI    VIDE    SUPRA        PAG.   171.
+
+
+                                                                 DIVISIO TEXTUS.
 
              Supra egil Magister de confinnatione et obsti-                      tiam daemonum respectu creaturaruin generaliter.
         nalione Angelorum; in hac parte agit de consequen-                       In secunda vero respectu hominum, et lioc ibi ':
@@ -45,7 +56,3 @@ DIVISIO TEXTUS.
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

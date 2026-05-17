@@ -6,10 +6,12 @@ distinctio: 5
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 11111
+title_la: "Utrum minores Angeli peccaverint peccato superbiae."
+title_en: ""
+line_start: 11101
 line_end: 11224
-word_count_latin: 1513
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 1554
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 11101-11224) — ART II opener (11101) + De aversione minorum Angelorum + QUAESTIO I (11111) folded. Ends before QUAESTIO II (11225)."
 format_version: 1
 ---
 
@@ -17,7 +19,17 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS           II.
+
+                                                      De aversionc minorum Angelorum.
+
+              Consequenter secundo loco quaeritur de aver-                    minores Angeh.
+         sione minorum Angelorum. Et circa hoc quaerun-                            Secundum est de comparatione peccati mino-
+         tur duo.                                                             ruin Angelorum ad peccatum luciferi.
+              Primum est , quo genere peccati peccaverunt
+
+
+                                                             QUAESTIO I.
                                           Utrum minores Angeli peccaverint peccato superhiae.
 
                  Circa primum sic. proceditur et quaeritur ,                  perversae societatis fecerunt » ; sed si omnes con-
@@ -137,7 +149,3 @@ Ad repiica- est obtincre cum meritis: dicendum, quod supcrbus                 bi
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

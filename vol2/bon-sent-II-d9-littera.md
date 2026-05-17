@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 9
 type: littera
+title_la: "Distinctio IX. Magistri Sententiarum."
+title_en: ""
 line_start: 16858
 line_end: 17003
 word_count_latin: 1871
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 16858-17003) — DISTINCTIO IX (16858) + Lombard Caps (De ordinum distinctione). Ends before COMMENTARIUS (17004)."
 format_version: 1
 ---
 
@@ -167,7 +169,3 @@ ii3 ofimo. gelorum Dei». — A quibusdam tamen putatur, quod                   
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

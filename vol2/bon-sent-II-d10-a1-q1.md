@@ -6,10 +6,12 @@ distinctio: 10
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 18521
+title_la: "Quaestio I — utrum boni Angeli mittantur."
+title_en: ""
+line_start: 18517
 line_end: 18634
-word_count_latin: 1608
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 1614
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 18517-18634) — ART I opener (18517, Utrum boni Angeli mittantur) + QUAESTIO I (18521) folded. Ends before QUAESTIO II (18635)."
 format_version: 1
 ---
 
@@ -17,7 +19,11 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS I.
+
+                                                       Utrum boni Angeli mittantur.
+
+                                                              QUAESTIO I.
                                                       Utrum aliqui Angeli mittantur.
 
                 Circa priraum sic proceditur, et ostendilur ,              feciunt propria auctoritate, sed Domini: ergo vide-
@@ -137,7 +143,3 @@ ni.tio  |Min- ima   tamen  potissima sumitur ex lege caritatis. Haec           m
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

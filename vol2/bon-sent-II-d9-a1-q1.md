@@ -6,10 +6,12 @@ distinctio: 9
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 17306
+title_la: "Quaestio I — de ordinum distinctione Angelorum."
+title_en: ""
+line_start: 17302
 line_end: 17466
-word_count_latin: 2108
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 2114
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 17302-17466) — ARTICULUS UNICUS opener (17302, De ordinibus Angelorum) + QUAESTIO I (17306) folded. Ends before QUAESTIO II (17467)."
 format_version: 1
 ---
 
@@ -17,7 +19,11 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS UNICUS.
+
+                                                          ■ De    ordinibus     Angelorum.
+
+                                                                      QUAESTIO I.
                          Utrum Angeli diversorum ordinum sint diversarum specierum per naturam.
 
               Primo igitur est quaestio de ordinibus Angelo-                         I. Multiplicatio Angelorum maxime manifestat .w opposi-
@@ -185,7 +191,3 @@ sotandum. niam igitur creatura completior in mundo dat ei                    quo
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

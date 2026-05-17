@@ -6,10 +6,12 @@ distinctio: 10
 articulus: 1
 quaestio: 2
 type: quaestio
+title_la: "Quaestio II — utrum boni Angeli mittantur."
+title_en: ""
 line_start: 18635
 line_end: 18741
 word_count_latin: 1421
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 18635-18741) — QUAESTIO II (18635). Ends before ARTICULUS II (18742)."
 format_version: 1
 ---
 
@@ -130,7 +132,3 @@ opinio 3. Apostoli quam verbum Dionysii ; ideo est tertius                   nos
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

@@ -6,10 +6,12 @@ distinctio: 6
 articulus: 1
 quaestio: 2
 type: quaestio
+title_la: "Quaestio II — de quo ordine mali angeli ceciderunt."
+title_en: ""
 line_start: 11971
 line_end: 12033
 word_count_latin: 784
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 11971-12033) — QUAESTIO II (11971). Ends before ARTICULUS II (12034)."
 format_version: 1
 ---
 
@@ -87,7 +89,3 @@ M opposi- angelis peccantibus non pepercil : ergo ouines la-                    
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

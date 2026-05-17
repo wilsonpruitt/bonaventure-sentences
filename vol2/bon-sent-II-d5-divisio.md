@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 5
 type: divisio
-line_start: 10678
+title_la: "Commentarius in Distinctionem V — Divisio textus."
+title_en: ""
+line_start: 10673
 line_end: 10717
-word_count_latin: 375
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 390
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 10673-10717) — COMMENTARIUS (10673) + DIVISIO TEXTUS (10678) + TRACTATIO (10697) + NOTAE AD COMMENTARIUM (10711). ART I (10718) folds into a1-q1."
 format_version: 1
 ---
 
@@ -15,7 +17,12 @@ format_version: 1
 
 ## Latin
 
-DIVISIO TEXTUS.
+COMMENTARIUS                          IN DISTINCTIONEM Y.
+                                  Qiiales facti sint Angeii aversione et conversione.
+
+                                                   Post haec consiclemtio etc.
+
+                                                         DIVISIO TEXTUS.
 
 
       Stipra osleiidit Magister, quales facti sunt An-               ibi : Hahehcml enim omnes etc. Iii tertia quaedam
@@ -61,7 +68,3 @@ fere ubiquo secundum Augusl., ubi loiiuitur de materia ista.                    
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

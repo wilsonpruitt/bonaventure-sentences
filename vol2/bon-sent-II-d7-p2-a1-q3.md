@@ -3,13 +3,16 @@ id: "bon-sent-II-d7-p2-a1-q3"
 volume: 2
 book: 2
 distinctio: 7
+pars: 2
 articulus: 1
 quaestio: 3
 type: quaestio
-line_start: 14057
+title_la: "Utrum in daemonibus sit praecognitio quoad futura."
+title_en: ""
+line_start: 14056
 line_end: 14236
 word_count_latin: 2487
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 14056-14236) — QUAESTIO III (garbled 'QU.VESTIO III.' 14057). Ends before ARTICULUS II (14237)."
 format_version: 1
 ---
 
@@ -204,7 +207,3 @@ tur. Ilinc omncs effcctus naliirales tuluros, nulla libcrtalc ini-              
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

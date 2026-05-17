@@ -3,13 +3,16 @@ id: "bon-sent-II-d7-p1-a2-q3"
 volume: 2
 book: 2
 distinctio: 7
+pars: 1
 articulus: 2
 quaestio: 3
 type: quaestio
+title_la: "Utrum haec vel illa minuat libertatis dominium."
+title_en: ""
 line_start: 13612
 line_end: 13723
 word_count_latin: 1303
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 13612-13723) — QUAESTIO III (garbled 'QUAESTIO m.' 13612). Ends before COMMENTARIUS Pars II (13724)."
 format_version: 1
 ---
 
@@ -135,7 +138,3 @@ coneiusio 2. mationem augetur , quae magis elongat a subiectione                
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

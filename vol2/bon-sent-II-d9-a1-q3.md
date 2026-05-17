@@ -6,10 +6,12 @@ distinctio: 9
 articulus: 1
 quaestio: 3
 type: quaestio
+title_la: "Utrum secundum maiorem capacitatem naturalium dentur a Deo maiora dona gratuita."
+title_en: ""
 line_start: 17535
 line_end: 17696
 word_count_latin: 2129
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 17535-17696) — QUAESTIO III (17535). Ends before QUAESTIO IV (17697)."
 format_version: 1
 ---
 
@@ -185,7 +187,3 @@ roiaudu;n. sicut fornia perflcit capacitatem materiae non sim-             ex ho
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

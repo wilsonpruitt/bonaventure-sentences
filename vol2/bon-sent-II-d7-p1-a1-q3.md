@@ -3,13 +3,16 @@ id: "bon-sent-II-d7-p1-a1-q3"
 volume: 2
 book: 2
 distinctio: 7
+pars: 1
 articulus: 1
 quaestio: 3
 type: quaestio
+title_la: "Utrum mala voluntas in daemonibus intendatur."
+title_en: ""
 line_start: 13180
 line_end: 13350
 word_count_latin: 2310
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 13180-13350) — QUAESTIO III (13180). Ends before ARTICULUS II (13351)."
 format_version: 1
 ---
 
@@ -195,7 +198,3 @@ iroiandum. piiciter : piimo , quia voluntas deliberativa , cum               exc
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

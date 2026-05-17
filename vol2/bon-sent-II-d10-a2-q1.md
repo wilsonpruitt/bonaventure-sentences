@@ -6,10 +6,12 @@ distinctio: 10
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 18750
+title_la: "Quaestio I — ad quid boni Angeli mittantur."
+title_en: ""
+line_start: 18742
 line_end: 18855
-word_count_latin: 1416
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 1451
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 18742-18855) — ART II opener (18742, Ad quid boni Angeli mittantur) + QUAESTIO I (18750) folded. Ends before QUAESTIO II (18856)."
 format_version: 1
 ---
 
@@ -17,7 +19,15 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS           II.
+
+                                                           Ad quid boni Angeli miUfxntur.
+
+              Consequenter quaeritur de secundo articulo, sci-                     cendendum nostrura affectum.
+        licet ad quid mittuntur.                                                         Secundo, utrum mittantur ad illuminandum in-
+              Et esl prima quaestio, ulrum miltantur ad ac-                        telleolum.
+
+                                                                         QUAESTIO I.
                                            Vlrum Angeli mittantur ad inflammandiim affectum.
 
                 Circa primum sic proceditur. Et quod mittantur                     consistit iustitia el aequilas — « iustilia enim est
@@ -128,7 +138,3 @@ I Mi|irotiaiur. ista positlo Bst contra veritatem catholicam et piam.           
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

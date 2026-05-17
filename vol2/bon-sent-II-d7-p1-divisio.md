@@ -3,11 +3,14 @@ id: "bon-sent-II-d7-p1-divisio"
 volume: 2
 book: 2
 distinctio: 7
+pars: 1
 type: divisio
-line_start: 12663
-line_end: 12688
-word_count_latin: 222
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Commentarius in Distinctionem VII, Pars I — Divisio textus."
+title_en: ""
+line_start: 12656
+line_end: 12684
+word_count_latin: 231
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 12656-12684) — COMMENTARIUS Pars I (12656) + DIVISIO TEXTUS (12663) + TRACTATIO (12676). ARTICULUS I (12685) folds into a1-q1."
 format_version: 1
 ---
 
@@ -15,7 +18,14 @@ format_version: 1
 
 ## Latin
 
-DIVISIO TEXTUS.
+COMMENTAHIUS                         IN DISTINCTIONEM YII.
+                                                                       Pars I.
+
+                                            De confirmattone et obstinatione Angelorum.
+
+                                                    Supra diohm est, quod Angeli elc.
+
+                                                                 DIVISIO TEXTUS.
 
 
             Supra egit Magister de aversione et conversio-                   habeant libertatem arbitrii , et opponit ad hoc , ibi
@@ -37,10 +47,6 @@ DIVISIO TEXTUS.
            Secundum est de liberi arbitrii immutabilitate                    continuatio.
       quantum ad bonos et malos.                                                   Tertio, utrum sit in eis malae voluntatis intensio.
 
-                                                                AUTICULUS           I.
-
-                                          De obstinationis malignitate quoad malos spirilus.
-
 ## English
 
 [Translation pending]
@@ -48,7 +54,3 @@ DIVISIO TEXTUS.
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

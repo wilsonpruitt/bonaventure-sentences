@@ -6,10 +6,12 @@ distinctio: 10
 articulus: 2
 quaestio: 2
 type: quaestio
+title_la: "Utrum Angeli mittantur ad illuminandum nostrum intellectum."
+title_en: ""
 line_start: 18856
 line_end: 19030
 word_count_latin: 2396
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 18856-19030) — QUAESTIO II (18856). Ends before ARTICULUS III (19031)."
 format_version: 1
 ---
 
@@ -199,7 +201,3 @@ dui           est. Non enim multum bene apparet, quomodo An-                   e
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

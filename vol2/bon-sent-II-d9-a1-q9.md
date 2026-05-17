@@ -6,10 +6,12 @@ distinctio: 9
 articulus: 1
 quaestio: 9
 type: quaestio
+title_la: "Quaestio IX — de ordinibus Angelorum."
+title_en: ""
 line_start: 18312
 line_end: 18419
 word_count_latin: 1199
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 18312-18419) — QUAESTIO IX (18312). No dubia in d.9. Ends before DISTINCTIO X (18420)."
 format_version: 1
 ---
 
@@ -131,7 +133,3 @@ parte                                                                         hi
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

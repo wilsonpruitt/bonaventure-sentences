@@ -3,13 +3,16 @@ id: "bon-sent-II-d7-p1-a1-q2"
 volume: 2
 book: 2
 distinctio: 7
+pars: 1
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 12994
+title_la: "Utrum in daemonibus sit malae voluntatis continuatio."
+title_en: ""
+line_start: 12993
 line_end: 13179
 word_count_latin: 2456
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 12993-13179) — QUAESTIO II (garbled 'QU.\EST10 II.' 12994). Ends before QUAESTIO III (13180)."
 format_version: 1
 ---
 
@@ -209,7 +212,3 @@ Dapies quod est causa indiicens , sed tamen non efficiens                  eius 
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]
