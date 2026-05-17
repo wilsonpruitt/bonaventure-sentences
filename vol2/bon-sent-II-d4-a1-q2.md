@@ -6,10 +6,12 @@ distinctio: 4
 articulus: 1
 quaestio: 2
 type: quaestio
+title_la: "Utrum Angeli in primo instanti suae creationis gloriam habere potuerint."
+title_en: ""
 line_start: 9873
 line_end: 10056
 word_count_latin: 2853
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-17 session 33 (correct semantic boundaries, raw 9873-10056) — QUAESTIO II (9873). Ends before ARTICULUS II (10057)."
 format_version: 1
 ---
 
@@ -208,7 +210,3 @@ J^y^"™; enim modo gralia dicitur coinmuniter, prout com-                      
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

@@ -6,10 +6,12 @@ distinctio: 4
 articulus: 3
 quaestio: 1
 type: quaestio
-line_start: 10270
+title_la: "De cognitione matutina et vespertina Angelorum — utrum cognitionem matutinam habuerint in ipsa creatione."
+title_en: ""
+line_start: 10261
 line_end: 10437
-word_count_latin: 2329
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 2370
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-17 session 33 (correct semantic boundaries, raw 10261-10437) — ARTICULUS III opener (10261) + title (10263) + sub-divisio (10265-10268) folded in + QUAESTIO I (10270). Ends before QUAESTIO II (10438)."
 format_version: 1
 ---
 
@@ -17,7 +19,16 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS          III.
+
+                                              De cognitione matutina et vespertina Angelorum.
+
+               Consequenter tertio loco quaeritur, uirum creati                 buei'int in ipsa crea.tione.
+          sint Angeli illuminati cognitione matutina. Et circa                        Secundum est, utrum            vespertinam post glori-
+          boc quaeruntur duo.                                                   ficationem.
+               Primum est, utruin cognitionem raatutinam ha-
+
+                                                             QUAESTIO I.
                                   Utruni Angeli in ipsa crea.tione habuerint matutinam cognitionem.
 
                Circa primum sic proceditur el ostenditur,                       per Genesim quasi per totum " sic prosequitur illos Ad opposi-
@@ -191,7 +202,3 @@ ertmebras'! ita etiam distinguunt et in luee et in tenebris , quod            in
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

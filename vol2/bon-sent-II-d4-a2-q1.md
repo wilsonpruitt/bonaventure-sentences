@@ -6,10 +6,12 @@ distinctio: 4
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 10065
+title_la: "De Angelis quoad futuri eventus praescientiam — utrum bonis revelari debuerit futura permansio."
+title_en: ""
+line_start: 10057
 line_end: 10162
-word_count_latin: 1303
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 1335
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-17 session 33 (correct semantic boundaries, raw 10057-10162) — ARTICULUS II opener (10057) + title (10059) + sub-divisio (10061-10063) folded in + QUAESTIO I (10065). Ends before QUAESTIO II (10163)."
 format_version: 1
 ---
 
@@ -17,7 +19,15 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS          II.
+
+                                              De Angelis quoad futuri eventus praescientiam.
+
+             Consequenter circa secundum duo quaerunlur. I        Secundum est. utrum                                  revelari    potuerit malis
+             Primum est, utruiu bonis revelari debuerit fu-   sua damnalio.
+        tura perinansio.                                    |
+
+                                                             QUAESTIO I.
                                         Ulrum honis Angelis revelari debueril futura permansio.
 
                 Primo ergo quaeritur, cum nullis in creatione                    quam nos in miseriis (%nstituti, ergo saltem tantam
@@ -121,7 +131,3 @@ conciQsio. El haec positio est magis rationabilis et m:fgis pla-             int
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

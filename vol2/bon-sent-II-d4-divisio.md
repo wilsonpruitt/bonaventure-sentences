@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 4
 type: divisio
-line_start: 9728
+title_la: "Commentarius in Distinctionem IV — Divisio textus."
+title_en: ""
+line_start: 9722
 line_end: 9762
-word_count_latin: 323
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 339
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-17 session 33 (correct semantic boundaries, raw 9722-9762) — COMMENTARIUS IN DISTINCTIONEM IV (9722) + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM (9745). ARTICULUS I opener (9763) folds into a1-q1. Ends before ARTICULUS I (9763)."
 format_version: 1
 ---
 
@@ -15,7 +17,13 @@ format_version: 1
 
 ## Latin
 
-DIVTSIO TEXTUS.
+COMMENTARIUS                             IN DI8TINCTI0NEM lY.
+
+                                         De habitibus Angelos in statu perfectionis constitnentibus.
+
+                                                                 Post haec videndum esl etc.
+
+                                                                         DIVTSIO TEXTUS.
 
 
                 Supra egit Magister de habitilnis naturalibus,                        praedeterminata de utrisque, ibi: Ex praedictis
@@ -57,7 +65,3 @@ DIVTSIO TEXTUS.
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

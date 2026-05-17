@@ -6,10 +6,12 @@ distinctio: 4
 articulus: 2
 quaestio: 2
 type: quaestio
+title_la: "Utrum malis Angelis revelari potuerit sua damnatio."
+title_en: ""
 line_start: 10163
 line_end: 10260
 word_count_latin: 1393
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-17 session 33 (correct semantic boundaries, raw 10163-10260) — QUAESTIO II (10163). Ends before ARTICULUS III (10261)."
 format_version: 1
 ---
 
@@ -123,7 +125,3 @@ Ad2. foDda-selmi et Magistri. Alia vero ratio de desperatione                   
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

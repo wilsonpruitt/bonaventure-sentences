@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 4
 type: littera
+title_la: "Distinctio IV. Magistri Sententiarum."
+title_en: ""
 line_start: 9661
 line_end: 9721
 word_count_latin: 909
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-17 session 33 (correct semantic boundaries, raw 9661-9721) — Lombard d.4 text (single Cap.: an perfecti et beati creati sint, an miseri et imperfecti). p.129 NOTAE AD LIBR. SENTENTIARUM is this chunk's apparatus (cross-dist. split documented in committed d3-p2-dubia). Ends before COMMENTARIUS (9722)."
 format_version: 1
 ---
 
@@ -82,7 +84,3 @@ uirumcreaii vel impcrfecti fuerint creati, dici potest, quia quodam             
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

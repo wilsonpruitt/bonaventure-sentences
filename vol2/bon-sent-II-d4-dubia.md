@@ -4,10 +4,12 @@ volume: 2
 book: 2
 distinctio: 4
 type: dubia
+title_la: "Dubia circa litteram Magistri."
+title_en: ""
 line_start: 10529
 line_end: 10585
 word_count_latin: 639
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-17 session 33 (correct semantic boundaries, raw 10529-10585) — DUBIA CIRCA LITTERAM MAGISTRI (10529): DUB I (10531), DUB II (10537), DUB III (10572 — below the p.143 DISTINCTIO V running-head bleed at 10570). Ends before semantic DISTINCTIO V (10586)."
 format_version: 1
 ---
 
@@ -79,7 +81,3 @@ DUBIA CIRCA LITTERAM MAGISTRI.
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

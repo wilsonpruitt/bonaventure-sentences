@@ -6,10 +6,12 @@ distinctio: 4
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 9767
+title_la: "Quales creati sunt Angeli quoad gloriam et gratiam — utrum in gratia creati fuerint."
+title_en: ""
+line_start: 9763
 line_end: 9872
-word_count_latin: 1445
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 1455
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-17 session 33 (correct semantic boundaries, raw 9763-9872) — ARTICULUS I opener (9763) + title (9765) folded in + QUAESTIO I (9767). Ends before QUAESTIO II (9873)."
 format_version: 1
 ---
 
@@ -17,7 +19,11 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO I.
+ARTICULUS           I.
+
+                                          Quales creati sunt Angeli qmad gloriam et gratiam.
+
+                                                               QUAESTIO I.
                                             Utrum Angeli creati sint in beatiiudine sive gloria.
 
                  Quaeritur ergo primo, utrum Angeli creati sint                 inter omnes perfectus et nobilis est conditus: ergo etc.
@@ -129,7 +135,3 @@ conciusio-2 omnis mali, tam poenae quam cnlpae; et lales                        
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]

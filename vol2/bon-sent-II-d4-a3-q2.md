@@ -6,10 +6,12 @@ distinctio: 4
 articulus: 3
 quaestio: 2
 type: quaestio
+title_la: "Utrum Angeli cognitionem vespertinam habuerint post glorificationem."
+title_en: ""
 line_start: 10438
 line_end: 10528
 word_count_latin: 1110
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-13; rechunked 2026-05-17 session 33 (correct semantic boundaries, raw 10438-10528) — QUAESTIO II (10438). Ends before DUBIA CIRCA LITTERAM MAGISTRI (10529)."
 format_version: 1
 ---
 
@@ -115,7 +117,3 @@ positoruni.
 ## Apparatus
 
 [Apparatus pending]
-
-## Notes
-
-[Notes pending]
