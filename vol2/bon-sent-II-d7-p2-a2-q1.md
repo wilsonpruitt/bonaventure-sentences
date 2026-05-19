@@ -8,316 +8,316 @@ articulus: 2
 quaestio: 1
 type: quaestio
 title_la: "Utrum omnes formae inducantur a Creatore, vel ab agente creato."
-title_en: ""
-line_start: 14237
-line_end: 14530
-word_count_latin: 4345
-transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 14237-14530) — ART II opener (garbled 'ARTICULUS IL' 14237, De virtute daemonum) + QUAESTIO I (14245) folded. Ends before QUAESTIO II (14531)."
+title_en: "Whether all forms are induced by the Creator, or by a created agent"
+printed_pages: [196, 197, 198, 199, 200]
+pdf_pages: [218, 219, 220, 221, 222]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 196–200 (Comm. in II Sent., Dist. VII, Pars II, Art. II, Quaest. I; ARTICULUS II opener De virtute daemonum + 3-q sub-divisio folded in per the Vol II chunking convention; QUAESTIO I opens at the foot of p.196 R-col and closes mid-p.200 with editorial SCHOLION I–III, before QUAESTIO II opens fresh on p.201 — next chunk)"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR base (raw 14237–14530) over the 450 dpi pp.196–200 column-band crops (PDF 218–222), read L-then-R per page, body then footer; fresh literal English; ARTICULUS II opener (De virtute daemonum + 3-q sub-divisio: utrum-omnis-formae-inductio-a-Creatore / utrum-verarum-formarum-inductio-a-spiritu-maligno / utrum-ministerio-daemonum-sine-peccato, raw 14237–14246) folded in per the locked Vol II convention; SCHOLION I–III (editorial: I significance of the question + the four communiter-statuta + the prima/secunda extreme opinions repudiated [formae nullatenus produci / formae a Creatore de nihilo creari] + the 5 communi-suffragio doctores' statuta; II two-opinion survey on the modus quo formae sint in potentia materiae — S.Thom. prima opinio [potentia passiva tantum, rationes seminales = virtutes activae completae in mixto] with the long quote from I.Sent. d.18 q.1 a.2 + S.I. q.115 a.2 + de Potent. q.3 a.7-8; S.Bonav. secunda opinio [praeter passivam et activam, aliquod principium concreatum materiae = rationes seminales in sensu largiore, cfr. infra d.12+15+18+IV.d.43.a.1.q.4] + Uldaricus's totam-formam-ab-intus-totam-ab-extra concord; III doctor list — Alex.Hal./B.Albert/Uldaricus/Guliel.Paris./Petr.a Tar. concord with S.Bonav.; Scot./Henr.Gand./Dionys.Carth./Richard.a Med./Durand./Biel sentenia S.Thomae sequuntur; no numbered apparatus — only inline cross-refs); 22-entry apparatus renumbered continuously (Quaracchi restarts per page: p.196 ³–⁴ → [^1]–[^2] (the documented incoming split from `bon-sent-II-d7-p2-a1-q3` Notes — that chunk took p.196 ¹–² as its [^18]/[^19], this chunk takes p.196 ³ [datore-Avicennae] + ⁴ [John 5,17 = Cap.5,17]); p.197 ¹–⁷ → [^3]–[^9]; p.198 ¹–⁸ → [^10]–[^17]; p.199 ¹–⁵ → [^18]–[^22]; p.200 = 0 entries (SCHOLION I–III editorial only). INCOMING a1-q3→a2-q1 RECEIVED clean (no backfill): per committed `bon-sent-II-d7-p2-a1-q3` Notes, that chunk took p.196 footer notes ¹ (`Cfr. tom. I. pag. 87, nota 4 …`) and ² (`Eodem modo verbum Philosophi explicatur 1. Sent. d. … dub. 8 …`) as its [^18]/[^19]; this chunk starts its p.196 apparatus at footer note ³ (`Hic et in principio primae quaest. multi codd. cum ed. 1 datore, quo alluditur ad sententiam Avicennae`) → [^1] at the ART II divisio's *Creatore¹* (3-q sub-divisio first point), and ⁴ (`Cap. 5, 17.` = John 5,17 *Pater meus usque modo operatur*) → [^2] at videtur 1 *Ioanne²*; `bon-sent-II-d7-p2-a1-q3` not modified, no backfill. OUTGOING a2-q1→a2-q2 CLEAN cross-page (no split): this chunk's last numbered apparatus is p.199 [^22] (`Cod. cc et ed. 1 existentem`, anchored at *entem⁵* in the Solutio Ad 6 closing epilogue); the SCHOLION I–III tail spans the bottom of p.199 R-col + p.200 carrying no numbered apparatus (only inline cross-refs to S.Thom. S.I. q.63 a.4 / I. Sent. d.18 q.1 a.2 / S.I. q.115 a.2, q.63 a.4 / de Potent. q.3 a.7-8 + the doctor lists); QUAESTIO II (*Utrum verarum formarum inductio sit a spiritu maligno* — next chunk `bon-sent-II-d7-p2-a2-q2`) opens fresh at the top of p.201 (raw 14531), so p.201's footer is wholly that chunk's. No [?] flags — all 22 superscripts + 4 page-footers (p.196 R-col + p.197 + p.198 + p.199) verified on the 450 dpi column-band crops; Greek ἐνέργειαι transcribed from the p.197 footer crop; raw-OCR garbles (`QU.\ ESTIO I.`/`!.` for *4.*/`SCHOLIOX`/`Yerum'est` for *verum est*) corrected against the crops (2026-05-19)"
 format_version: 1
 ---
 
 # bon-sent-II-d7-p2-a2-q1
 
+## *Utrum omnes formae inducantur a Creatore, vel ab agente creato.*
+
+---
+
 ## Latin
 
-ARTICULUS            IL
-                                                             De     virliUe     daemoniini.
+<!-- page 196 -->
 
-      Consequenter qnaeritur de secuiido articnli),                             agente creato.
-scilicet de virtute daemonum. De t[ua quaeruii-                                      Secundum est, utrum verariim fornuirum in-
-tur tria.                                                                       ductio sil a spiritu maligno.
-     Primnm est quasi praeambulum, ulrum omiiis                                      Terlium est, utrum ministerio daemonum pos-
-formae indiiclii) sit a Creatore % an aliquae sint al.i                         sit quis iiti in liuiusmodi operibus sine peccato.
+### Articulus II. *De virtute daemonum.*
 
-                                                                      QU.\ ESTIO I.
-                           Ulruni oinnes fonnae inducantiir a Crealore, vel ab ugente crealo.
+Consequenter quaeritur de secundo articulo, scilicet *de virtute daemonum*. De qua quaeritur secundum tria.
 
-     Piiiiio ergo qiiaeriliir, ulrmii oiiiiiis lorniae iii-                     meus usque modo operatur, ct ego operor ; sed si Ad opposi-
-dnctio sit a Crentore, an ;diquod agens particulare                             res producerentur qu;mtuin ad formam a natura.
-sive creatum possit aliquain iniiucere. El quod omnis                           non propler boc diceretnr Deus usque modo ope-
-sil a Crealore, videtur :                                                       rari: ergo videtur, quod omnis forina sit ab ipso.
-       i. 1'i'imo aneloritale \hm'm\ in loaime': Pater                               I. Ileu), ratione videtur. .Nobilius priiicipinm
+Primum est quasi praeambulum, utrum omnis formae inductio sit a Creatore[^1], an aliquae sint ab agente creato.
 
+Secundum est, utrum verarum formarum inductio sit a spiritu maligno.
 
-     ' Clr. tom. I. p;.g. 87, nola 4. — 1'unlo inferius aliqiii                      ^ Hic et in piincipio primac quacsl. miilii codd. cuni cd.
-codd. cum cd. I quae .wiit supra pro quia sniit supra.                          I datore, qno alludiiur ad scnlcnliam Axiccnnac, dc qua in
-     ' I':odcm niodo vcrbum Philosophi explicatur 1. Sent. d. U».               prima* Cap.
-                                                                                       quacsl.S, 17.
-p. I. diib, 8. Clr. cliani infra d. 28 a. ,2. q, 3, in corp.
-                                                       DIST. VII. I'. II. ART. II. (jlIVKST. I.                                                197
+Tertium est, utrum ministerio daemonum possit quis uti in huiusmodi operibus sine peccato.
 
-        est torina qiiani matcria. et magis dicit (juiii divi-                    operatio boni alicuius est operatrix, alioqnin est
-        nuni': ergo ciim naliira non possit in niinns. (|uia                      friistni: ergo videtur, quod omnis i-es aliquid pnssit
-        non potest in proiluclionem malcriue, iniiiio est a                       producere sive operari ad alicuiiis prodiiclionem ;
-        sola creatione, niulto lortius viiJetur de forma.                         aut ergo materiae, aiit formae; non inaleriae: ergo
-              ■i. Iteni, «principia reium snnt incorruptilii-                     forniae.
-        lia». !it vult Pliilosoplius ', ergo lam materia quam                          2. Item, " unius corruptio cst contrarii gene-
-        forina; sed incorruptihile est ingenerabile: ergo tam                     ralio"» — nunquam enim abiicitiir frigiis, nisi i)er
-        uKiteria quain forma est ingenerabilis: ergo si pro-                      introdiictiorem caloris, nec e converso — sed constat,
-        ducJlur iu esse, Iioc non erit a natura, sed soluni                       quod ageiis creatum potest abiicere et corrumpere
-        per creationem.                                                           contrarium: ergo potest se vel sibi siinile inducere.
-              4. Ilem, onuiis aclio creaturae lerminalnr ad                            3. Itein, ceitiini est, quod calidum calefacit —
-         iioc aUquid''; sed forma non est hoc aliquid: ergo                       qui hoc non novit indiget sensu — ergo calor ignis
-         non terininatur ad formam. Ergo cum prodnctio na-                        generat calorem: ergo pari ralione, qua calidum
-         turalis terminelur ad illud quod producitur per na-                      generat calidum, ignis general ignem, ciim non sit
-         turam, iiiipossibile est, formam produci ab agente                       minoris virlutis.
-         creato; nec materiam, hoc constat; et omne quod                               4. Iteni, cerlnm est, quod obiectum generat
-         producitur , secundum aliquod horum producitur:                          sibi simililudinem in speculo — quod patet: si obie-
-         ergo nihil.                                                              ctuin amoveatur, nullo modo resultabit ibi simili-
-               0. Item, cum producitur forma, aut ex aliquo,                      tudo — ergo pari ratione, si adsit maleria disposila,
-         aut ex nihilo. Si ex aliquo; sed omne quo 1 est ex
-                                                                                  agens potest generare sibi ■simile'' in natura:
-         aliquo, habet aliquid sui constitutivum tanquam prin-                    ergo etc.
-         cipium intrinsecum : ergo forma est composita ex
-         materia et forma, quod absurdum esl. Si ex nihilo;                                               c 0 N c L u S I 0.
-         sed omne quod ex nihilo creatur, est a Creatore:
-         ergo nulla forma est ab agenie creato.                                   Agcns crealnm parl.iculare polest educere formas
-               6. Item, cum forma est in potentia materiae,                           subslantiales , saltem corporales, quae sunt
-         aut est in potentia in ([ua , aut a qua , aut ex                              in potentia materiae, non snlmn in qua el a
-           qua. Non ex qua ; hoc probatum est ', cum forma                            qua aliquo modo, sed etiam. ex qua, quatenus
-           non habeat materiale principium, ex quo constel,                            in materia sunt sccundum rationes semi-
-           immo sit «in simplici essentia consistens»: ergo hi                        nales.
-           (]ua, vel a qua. Non « qua, quia materiae non
-           est agere: ergo solum in potentia ut in qua. Sed                             Respondeo: Dicendum ad iioc, quod de edu-
-           forma, quae solum est in potentia ut in qua, tota-                     ctione forinae in esse quadruplex fuit positio.
-           liter est ab extrinseco; et nulla, talis forma est iia-                      Quidain enim posuerunt latitationem forma- oiiinio t.
-           turahs vel a natura: ergo nullum agens creatnm
-           potest naturalem formani producere.                                    rum,    sicut intelligi:
-                                                                                  dupliciter      imponituraut .\iiaxagorae. Et illud formas
-                                                                                                                 quod ipse poneret,    potest scnsu"'""
-                 CoNTRA : \. Omnis res, sicut vult Damasceims^                    actualiter exislere in materia, sed non apparere
-fundamenia.et Philosophus, liabet propriam operationem , alio-                    extrinsecus, sicut pictura operta panno; et iste mo- improbatar
-           quin aliquid esset otiosum in natura; sed omnis                        dus impossibilis est omnino. quia tunc contraria
+### Quaestio I. *Utrum omnes formae inducantur a Creatore, vel ab agente creato.*
 
+Primo ergo quaeritur, utrum omnis formae inductio sit a Creatore, an aliquod agens particulare sive creatum possit aliquam inducere. Et quod omnis sit a Creatore, videtur:
 
-               1 De quo vide .\rislot., I. Phys. lext. 81. (c. 9.).               ralis est illa \is, qua cuiiisque nalura declaratur... Actus natu-
-               - Libr. I. Pliys. texl. -30. (c. 6.): Principia aiiteni seniper    ralis cst vis motioque cuiusque substanliae , qua caret illud
-         oporlcl manere. Ibid. text. 82. (c. 9.) speciuliter de maleria pro-      solum quod non est». Aristot., I. de Caelo et mundo, text. 31.
-         bal, quod « incorruptibilcm et ingenitam neccssc. est ipsam esse ».      seq. (c. i.) demonstrat, quod motiii circulari motus circula-
-         — Quod incorruptibile sit ingenerabile, .Vristotelcs fuse oslen-         ris non possit esse contrarius ; deinde dicit, quod unus vel
-         dil in I. de Caelo et mundo, texl. 110-140. (c. II. seq.).               ambo fruslra cssent, si oppositum slatueretur, quia vel unus
-               3 Id est, ad primam substanliam, compositam cx materia             alterum, vel ambo se invicem impedirenl. <t Fruslra enim cal-
-         et forma. Aristoleles, VII. .Metaph. text. 2-4. seqq. (VI. c. 7. seq.)   ceamenlum hoc dicimus, cuius non est calceatio; Deus autem et
-         ad ostendendum contra Platonem , quod formae separatae non               natura nihil frustra faciunt ». In cuius lextus explicatione .\ver-
-         sint causae gencrationis rerum, probat, quod neque materia               roes ait: Natura igitur fecisset ens oliosum , cum fuisset ens
-         fiat nequc forma , sed compositum. « Hoc aliquid cnim facere             sine actione omnino. Cfr. eiiani IV. Mctcor. c. ull. — Unus
-         ex omnino subiccto [i. c. materia], hoc facere est. Dico autem,          alterquc cod. cum Vat. post sicut vult addit Auguslinus.
-          quod aes facere rolundum, esl non rotundum aiit sphaeram                      ^ Aristot. , I. de Gener. ct corrupt. texl. 17. (c. 3.) gene-
-         facere, sed aliquid aliud, ut puta formam hanc in alio ». —              ralitcr ait: « lluius corruptio allerius cst generalio, et huius
-          In fine argumenti Vat. addil prodvcitur ab agente crealo.               generalio alterius est corruptio ». lit I. Phys. text. 81. (c. 9.):
-                * In arg. praeced. — Sequcns dcfinitio formae cst (iilberti       Corrupliva enim siint sui invicem contraria. — In fine argumenli
-          Porrel. , de Sex Princip. c. I. — Quod matcriae non conveniat           plurimi codd. cum edd. 2, 3 vel sibi similem (simililudinem?)
-          agere , docet Aristot. , II. de Gcner. ot corrupt. text. 33. (c. 9.).   pro vel sibi similc , et dein Vat. introdiicrve pro inducere.
-                = Libr. II. de Fide orthod. c. 23 : « Aclus fevipYEist; quippe          ' Cod. cc ct ed. I simililudinein ; alii pUirimi codd.
-          est natiiralis cuiiisque subslantiac vis et inotus... fleri cnim non    similem. Cod. cc ct cd. I imtei-iiie diiposHio pro materia
-          potest, quod subslanlia rareat nalurali aclu. Itcrum, .'iclus natu-      disposiln.
-         198                                                      SENTENT[.\RUM EIB. 11.
-                                                                                    snae speciei recipit virtutem multiplicandi se; unde
-              simul poiierentur in eodein. .\lio motlo notest intel-
-              ligi sic, ut essentiae tbrmarum sint in inateria in                   inductio formae est ab agente formam suam mulli-
-                                                                                    plicante. Et ponunt exemplura in candela , quo EMmpium.
-              potentia non soluin lateiitcs , sed ente.s ' in polen-                modo ^ una inflammat multas, et ab uno ohieclo
-              «m, utmateria habeat in se seminales omnium for-
-                                                                                    relui;ent multae imagines in plnribus speciilis. El
-   2. sensu. marum rationes, sibi a primaria conditione inditas —
-Probatur in
-                                                                                    huiusmodi formae, ut dicunl, non habent, ex quo
-              et iUud concordat et philosophiae et sacrae Scriptu-
-              i-ae — et per actionem agentis educerentur in actum.                  sint materialiler, sed ex qao originaliter ; et ideo
-              Sed hic intellectns non fnit huius positionis, sed                    non dicuntur creari nec dicunlur esse ex nihilo.
-              primus, secundnm quod expositores dicunt. Haec                        Illud enim creatur, qiiod nullo iiiodo est; sed talis
-              enim positio fuit , quod agens particulare nihi! agat,                forma sic producla aliquo modo est, Inin raiione
-              sed tantum detegat -.                                                 agentis tnm ratione materiae.
-                    .\lia fuit positio |)hilosophorum magis moder-                        Alia via est, quod formae sunt in poteiUia ma-opj;;,conclusio 2.
-                         quod onmes formae sunt a Crealore. Et                      teriae, non soluiii in qua et a qua aliqno inodo,
- in duplici noruin,
-   Opinio 3.
- sensu.       haec positio potest dupliciter intelligi: uno modo,                   sed etiam ex qua. Et hoc dicnnt. non quia ipsa
-              quod Deus sit principaliter agem et producens in                      essentia materiae sit, ex qua res producitur, sed
-]n 1. sensa omnis rei eductione, et sic habet veritatem ; vel
-                                                                                    quod in ipsa materia aliquid est concreatum , ex Noiandum,
- probatur.
-              ita, quod Deus sit tota cansa efjiciens, et agens                     quo ageiis, duin agil in ipsain, educit formam; non.
-              particulare non faciat nisi maleriam adaplare. ut, sicut              inquara ex illo tanquam ex aliquo, quod sit tan-
-              producit animam rationalcm, ita et alias formas; et                   quam aliqua pars formae producendae, sed quia
-              iste inleilectns videtur fuisse illornm pliilosophonun.               ilkid potest esse forina et fit forma, sicut globus
-In 3. sensu —      Et iste intellectus est impossibilis, quia agens
-iniprobatjr.                                                                        rosae fit rosa. Et ista positio pnnit. (juoil in niateria c^ciusio ,?.
-              particuiare aut inducit cdiquid, aut nihil. Et si                     sint veritates omnium formaruiii producendarum
-              nihil,: ergo nihil agit. Si aliquid inducit: ergo vi-                 naturaliter; et cum producilnr, nulla ° quidditas ,
-              delur, quod aliquara efficiat dispositionem; sed qua                  nulla veritas essenliae indiicitiii' de novo, sed datur
-              ratione polest in unam , et in aliam. Quare ista po-                  ei nom dispositio, ut qund erat in polentia fiat
-                                                                                    in aclu. Dilferunt enim actus ^i polentia , non quia
-              sitio non est rationabilis ' '!
-                    Tertia positio est, quod fonnae natiirales fere                 dicant diversas qwidditales, sed dispositiones di-
-Opinio 3. go omnes, ad ininus corporales, cuiusmodi sunt formae
-neraliterpro
-                                                                                    versas eiusdem; non tamen suiit dispositiones acci-
-bata et coii- elementares et formae mixtionis, sunt in potentia                     dentales, sed substanliales. Et boc non est nia-
-clusio i.
-              materiae el per actionem agenlis particularis edu-                    gnum, si est in potentia agentis creati, ut quod
-              cuntur in actum; et ista est positio, qnam videtur                    est uno niodo faciat esse aho modo.
-              temiisse Philosophus ', et modo tenent communiter                           Et haec nosilio inier onines praedictas videturMagisprobnJ
-                                                                                                 .                                   . .     tur opinio .^.1
-              doctores iu philosophia et theologia. — Sed tamen                     esse mtelligibihor ct veritati vicnuor. llanc positionem
-              haec duas habet vias.                                                 credo esse tenendam, non solnin qiiia eam suadeat
-                     Nam quidam dicunt, quod buiusiiiodi formae                     ratio, sed etiam quia confirmat aiictoritas .\ugustini
-Opinio 3. iu snnt in materia in potentia reccptiua et quodam                        super Genesim ad litteram, qnam Magister ' allegat: j
-  sensn spe-
-  ciaii.      modo activa sive cooperativa; quoniam «iaterm et                      quoil «quae prodiicuntur ;i n;itura secundmn ra- naiiones se4
-              habet possibilitatem ad recipiendmn, et etiam in-                     Itones seminales producuntur ». Quid ;uitera sint '\
-              clinationem ad cooperandum, et in agenle est Im-                      istae rationes seminales, videbitur infra *, qnando de
-              iusraodi forma producenda sicut in principio effe-                    eis erit serino. — Secundnm hanc igilur posilionem
-              ctivo et originali, quia omnis fornia per naluram                     sustinendum est, quod agens particularc educit fbr-
+**Ad oppositum:**
 
+1. Primo *auctoritate* Domini in Ioanne[^2]: *Pater meus usque modo operatur, et ego operor*; sed si res producerentur quantum ad formam a natura, non propter hoc diceretur Deus *usque modo operari*: ergo videtur, quod omnis forma sit ab ipso.
 
-                ' Eil. I ciiiii co(i. cc exislentes. Patilo infcritis cod. H        Metaph. t;. 3.]; ct existimatur etiam, qood Themislius dicat
-          substittiit viriuluin pro formarum, iibi legit cod. F virtntmn            hoc... dubitat (jalcnus et dieil : nescio utrum isla \irlu3 sit
-          ei formaram, cocld. OT virtntam formaniin, cod. Z vero                    Creator, aut non... crraverunt in hoc, quia non intellexerunt
-          seminalem causmn vel rirtnlem foriiiarum per semiiiales ra-               demonstrationem Aiistotclis; ct non est mirum de Avicenna,
-          tiones sihi otc.                                .                         sed de Alfarabio. Vidctur cnim in suo libro tle Duabus Philo-
-                2 De quo \'ide Arislot. , I. Phys. te.\t. .')2. si^iici. (c. 4.);   sophiis dubitare ». bibr. XII. Mclaph. lexl. 18, loqiiens dc ge-
-          I. de Gcner. ct corrup. text. I. scqq. (c. I.); 1. .Molupli. c. i.        neralione aequivoca, dicil, Thcmislium el lorte eliam Alfarabium
-          seq. (c. 3.).                                                             sensisse , non omnes foinias, scd solum illos , quae producunltir
-                3 Averrojs, IX. Metapli. tcxl. 7. ail: cc Motlcrni autem po-        in gencrationc aequivoca, dari ab ogente obslracln a matcria.
-          nunt unum ogcns omnia cnlia sine niedio, scilicet Deum; et                      * Cfr. VII. Metaph. text. 28. seqq. ct XII. te,\l. 13. scqq.
-          contingit istis , ut nullum ens habcal aclioncin propriam natu-           (Vi. c. 8. et XI. c. 3.) ct I. oc II. de licncr. et corrupt. —
-          ralitcr ; et cum entia non habuoi-int aclioncs proprias , non             Post tlieologia cod. cc ct ed. I prosc(|iiuntur et rlietmrs. Sed
-          habebunt csscnlias proprias; nctiones enini non diversantur               Magister liic duas liabct vias.
-          nisi per csscntias diversas. lit ista opiiiio cs( valde extranca a              ^ Cod. F siciit, cod. T quoniam ; cod. .cc c( cd. I de
-          natura hominis, et qui recipiunt htiiusniodi non liabi.Mit ccre-          cnudela , quundo.
-          brum habilitatum naturaliter ad bonuni )>. Libr. VII. Metaph.                   « Vat. naturaUler, qiiae ctiam paulo supcrius pust foriiiae
-          te.xt. 31. dicit: « Et ideo, quia .\vicenna obedit istis proposi-         producendae cum iinn altcro(|ue cod. pcrpcrom nniiltil -^ed.
-          tionibus , crcdidit , omnes foimas cssc ab intelligcntin agcntc ,               ' Infra d. XVIII. c. C.
-          quam vocal dalorcm formanini [dc quo cfr. ,\vicrnna , IX.                       s Dist. 18. a. I. q. 2. scq.
-                                                          DIST. VII. I'. II. \\\T. II. ()l!Ai:ST.
-                                                                                                                                                  199
-              mas cl inducit et rcs iiaturalps producit. Kt ratio-                   generatur, sed compositum». Cum enim produci- Noiandum.
-              nes ad Iioc inductae sunt concedendae.                                 tur forma , non producitur in se nec per .ie ,
-                   1. Ad illud ergo quod obiicitur, quod Deus                        sed ut in maleria; et sic facit compositum, et ad
-Solulio op'
- nosil^ruin                                                                          illud lerminatur generatio; niliilominus generatio
-              operatur usque niodo; dicenduin, quod Yerum'est,
-              quia vel per se operatur, vel cum aliis: unde ar-                      ve! productio naturalis respicit compositum princi-
-              gumcntuin non valet: Deus usque modo operatur,                         paliter gratia formae.
-              ergo agens creatum ei non cooperatur.                                        0. Ad ilhid quod obiicitur, utrum ex aliquo,
-                    2. Ad illud quoil oliiicitur, quod non potest in                 aut ex nihilo; dicendum, quod secundum tertiam Notandum.
-              materiani; diceiidum. quod non esl simile, quia                        positionein" formae producuntur ex aliquo , sed non
-              materkUe principiuvi non est in alio ut in potentia,                   ex aliquo materialiler vel constitutive, sed ex ali-
-              cum sit de se potentia : tunc enim potentia esset in                   quo originaiiter. Vel secundum quartam opinionem
-              potentia, et educeretur potenlia de potentia, quod                     fiunt ex aliquo: non quod e.r dicat partem, sed
-              non est intelligibile. Secus esl in forma, ut visum                    dicit consubstnntialitatem , sicul rosa ex globo ,
-              est; et ideo non est simile. — Potest etiam sumi ratio                 quia globus fit rosa.
-              ex parte agenlis, quia productio creaturae , cum sit                        6. Et per hoc patet ulti.mum. Concedo enim ,
-              agens limitatum. est productio similis a simili:sed                    quod foniiae naturales sunt in maleria quantum ad
-              constat, quod nihii agit ratione materiae, sed formae:                 potentiam et in qua, et ex qua, et a qua', secundum
-              ideo rnagis potest in formain quam in materiam.                        praedictum modum. Et si tu obiicias, quod materia
-                    o. Ad illud quod oliiicitnr, qiiod principia re-                 non agit nec constituit; dicendum, fjuod essentia f>omiam.
-              rum sunt incorruptiliilia; illud intelligilur in uni-                  materiae solum se habet per modum receptivi; sed
-              versali, non in parliculari; vel inlelligitur secun-                   seminarium inditum se habet quodani modo per
-              dum essentiam, non secunduin esse; et ideo forma                       modum activi, quodam modo per modum passivi,
-               in parliculai'i generatur et corrumpitur'. — Vel                      quoniam cooperatur agenti, et nihilominus ipsum
-              i.potesL dici, quod essentia eius uianet in potentia                   variatur ab uiia dispositione in aliam, ut dictum
-               post corruptionera , sicut ante generationem .                        est. — Haec igitur est summa positionis , qiiod EpUogns.
-                     h. Ad illud quod obiicitur, quod actio naturae                  agens creatum nullam quidditatem , nec substantia-
-               ad hoc aUquid terminatur; dicendum. cjuod , sicut                     lem nec accidentalem , omnino producit , sed entem =
-                                                                                     sub una dispositione facit esse sub alia.
-              dicit Pliilosopbus ", proprie         loquendo, « forma non
+<!-- page 197 -->
 
-                                                                         SCHOLIOX.
-                    I. Ilanc qiKicslioiU'!]! , qunc csl magni iiiomcnli niagnisquc   stant, lantum manifeslari; secunda vero putavit, eas omnes a
-              clifficullalibus obslrucla, praemillit S. Doclor, ul viam sibi paret   Creatore de nibilo creari. Contra istos crrores principalcs aucto-
-              ad solvcnda dubia, quae commentatores Lombardi bic tractarc            res communi sulfragio baec statuunt: I. Nalura in productionc
-              solebanl. Ccteri auteni comnicntalorcs eandeni hanc quacslio-          formarum vere aliquid agit. 2. Formae non pracexistunt for-
-              nem tangunt in sequenli quaesl. , et diffusius de eadem agunt          inaliter, sed lantum in potentia. 3. Forniac illae, cum non
-              infra d. 18, ubi disputant de ralionibus scniinalibus, vcl etiam       subsistant nisi in composito, proprie loqucndo non jiunt , sed
-              d. 13. — Expcricntia constat, novas sempcr oriri corporalium           ipsum compositum fil, ct quidem ex niateria, et non cx nihilo
-              reruni formas naturales, lum per generationeni perfedam et pro-        (S. Thom., S. I. q. 63. a. 4; S. Bonav., Iiic ad 4.). 4. For-
-              priedictam, quao definitur: origo viveiitis a principio vivente,       mae sunt in potentia materiae ct virlute agentium corpo-
-              coniunclo in simililiidinem naturae (S. Tliom., S. 1. q. 27. a. 2 ;    ralium educi possunt in actuni. 3. Ad hanc cductioncm con-
-              S. Bonav. , I. Sent. d. 9. a. I. q. I.), tum per gencrationem          cursus Dei nccessarius csl, quod egregie S. Thomas exphcat
-              imperfectam , qualis est in mixlionibus, quando ex divcrsarum          ct probat dc Polenlia q. 3. a. 7. (cfr. S. Bonav. , infra d. 37,
-              substantiaruni combinalionibus cliimicis novum aliquod corpus          a. I. q. I.).
-              resullal. — Pracnolandum cst , quod non agitur de prima for-                 II. Si autcm ullcrius quacratur de mo4n, quo forniae sint
-              mai'um natiiralium originc, de qua sermo cst in Gcnesi c. I ,          in potentia materiae, et quo inde ediicantur , doctores et an-
-              nec de ])roductionc animae hwnanae , dc qiiibus cfr. bic dub.          liqui et recentcs divcrsas ingrediuntur vias , quae fcre redu-
-              3. 4, infra d. 13. a. 1. q. I. ct d. 17. a. 1. q. 2. et d. 18. a. 2.   cuntur ad illas duas, in expositionc tcrliae opinionis a S. Bonav.
-              q. .3. — In hac autem quacslionc solvenda cst difficultas, quae        explicatas.
-              valde vexavit ingenia, quoniodo formae illac, quac iu.xta menlem              1. Priniam illam scntcnliam S, Thom.. baud ambigue pro-
-              Scholaslicorum important aliquid substantialc, licct incomplctum,      pugnat, ct posl eum mulli, quam eliam S. Bonav. esse proba-
-              produci possinl ab agcntc crcalo, cum constel, quod agcns crca-        bilcm aesUmat , ut patcl hic ex solul. ad -5. Clarius ean-
-              tum ni/IIatcnus possit aliquid producere ex nilnlo. Ilinc exortae      dem e.xplicat S. Thom., I. Sent. d. 18. q. I. a. 2, ex quo iuvat
-              sunt primae duae opiniones extrcmac , hic commcnioratae ct             aliqua excerpere. Uelata enim quarta senteniia, idem ita prose-
-              communiter a Scholaslicis reprobatac, quaruni prima asseruit,          quitiir : « Hoc autem vcrum non videlur, quia, quamvis formae
-              has formas nullalrnus produci, scd eas, cum formaliter praeexi-        cducanliir dc potcntia malcriae. illa lamen potentia materiae
+2. Item, *ratione* videtur. Nobilius principium est forma quam materia, et magis dicit *quid* divinum[^3]: ergo cum natura non possit in minus, quia non potest in productionem materiae, immo est a sola creatione, multo fortius videtur de forma.
 
+3. Item, « *principia rerum sunt incorruptibilia* », ut vult Philosophus[^4]; ergo tam materia quam forma; sed incorruptibile est ingenerabile: ergo tam materia quam forma est ingenerabilis: ergo si producitur in esse, hoc non erit a natura, sed solum per creationem.
 
+4. Item, omnis actio creaturae terminatur ad *hoc aliquid*[^5]; sed forma non est *hoc aliquid*: ergo non terminatur ad formam. Ergo cum productio naturalis terminetur ad illud quod producitur per naturam, impossibile est, formam produci ab agente creato; nec materiam, hoc constat; et omne quod producitur, secundum aliquod horum producitur: ergo nihil.
 
-                     ' Clr. I. Seiit. d. 8. p. I. a. 2. q. 2. ad I.                  nem , tenendo viani secundam iltius posilionis pro l>/ scciin-
-                     - Libr. VII. .Metaph. Icxt. 27. (VI. c. 8.). — Paulo supc-      diim. quartam opiniouem, (|Uod habent codd. A i K I. V; ccter'
-               ritis pi-o aclio nalnrae Val. ponit actio creaturae, qiiod cliam      Vel secundum tertiam opinionem.
-               in ipsa obicciione babclur.                                                 * In nonnullis codd. ul U aa bb ce cl ed. I dcesl et a qua.
-                     3 In Val. additur tenendo priniam viain illius positionis ,           = Cod. cc et ed. 1 existentem.
-               quae cliam paulo inferiiis legil: Vel secnndiim tertiam opinio-
-            200                                                      SENTr^NTIARUM LIB. II.
+5. Item, cum producitur forma, aut ex aliquo, aut ex nihilo. Si *ex aliquo*; sed omne quod est ex aliquo, habet aliquid sui constitutivum tanquam principium intrinsecum: ergo forma est composita ex materia et forma, quod absurdum est. Si *ex nihilo*; sed omne quod ex nihilo creatur, est a Creatore: ergo nulla forma est ab agente creato.
 
-            non cst actiia , seJ passiva tonliiin... Nec l;inien sequitur, si          agat in materiam, oportel, quod producal formnm. Et cum
-            in mnteiiii est potenliu passivn t;niliini, quod non sit gencnitio         materia non sit jiars formae, nec forma fiat pnrs matcriae,
-            naturalis ; quia niateria co.idiuvi;t ad geiicralioneni, non aijendo,      nccesse est , nliquo modo formas natiiralcs esso in malcria ,
-            sed in quantum est hahilis ad recipiendum talem octionem ,                 antequam producantur; ct subslnntia malcriae prncgnans cst
-            quap ptiam liabilitas appetHiis materiae dicilur ct inchoatio              omni!)Us; ergo rnliones scminales omnium formaruni sunt in
-            formae... Et ideo concedo, quod in iiialeria nulla potentia                ipsa. Scd ad illud stat rcsolutio, a quo incipil gencratio; ergo
-            activa cst, scd purc passiva ; ct quod rationcs seminales di-              nulla forma omnino corrumpilur, sed manet in matcria post
-            cuntur virtutes actioae , completac in «ofera cum propriis pas-            corruptionem, sicut manebat, antequam producerelur ; et sic
-            sivis , nt calor et frigus et forma ignis et virtus solis et liuius-       dicit Augiistinus. Unde formas in materia ante )iroductionem
-            modi. Et dicuntur seminates non proplcr essc impcrfcctmn ,                 dicit esse qnanlum ad rationes seminates; dicit elinm resolvi
-            quod liabent , sicut \irtus rormativa in semine ; sed quia rerum           nd materiam sicut ad occulti.ssiinos sinvs naturae, idi-m utro-
-            individuis primo creaiis liuiusmodi virtutes collatae sunt pcr             que noiiiine sccundum alteram et altcram rationem inlelligi
-            opera se,v dicruni, ut ex ci-;, quasi ex quibusdam seminibus,              volcns... Qiiamvis forma ibi sit aliqno niodo post corruptionem,
-            producerentur et niulliplicorenlur rcs naturales » (cfr. S. I. q.          tamen natura non polest producere ad idem esse, quodiiabuit
-            115. a. 2, q. 63. ii. i; de Potent. (i- 3. a. 8.). — Haec igilur           prius. Et ralio huius est, quia agens nnturale agil inlluendo ct
-            sententia statuil , qiiod formae sint in niateria tanlum tit in qtia       imperlicndo aliquid sui, quo mediante pcrficit illud quod erat
-            et aliquo niodo a iiva, scd nullatenus ex qua, quia niliil                 in materia. Et illud quod inlluilur a parle ngenus , fit aliquid
-            praecedit in materia, e.x quo fiat forma. Hanc sentcnliam iia              de complcto esse ipsius producli ; el idco necesse est, qiiod
-            explicat .ligid. R. (II. Senl. d. 12. q. 3. n. 2.): « Tripiiciter di-       natura det aliquid no\i (|uanlum ad modmn essendi suhstan-
-            citur materia essc in polenlia ad formani : \cl prout recipit              tialem, qui est esse in actu. Qunmvis enim nalura non det
-            formam, vcl proiit desiderat forniani, vcl prout transmutalur               novam essentiam, dat t;unen novum modmn cssendi , non
-            ad formam. — Si quacralur cr.go, |)er quid rrcipit? diceliir ,              lantum aciidentalem , immo ctinni subslnnlialcm , sicut esse in
-            (piod per essentiam suam... Scd accipiendo potentiam mate-                 actu . .secundum quem potest res substaniialiter numerari et
-            riae, prout desiderat formum, dici potest, caiisam liuius desi-             divcrsificari ». Ibidem q. .5. ad 6. lcgilur: « Semper manet
-                                                                                        substanti.i materiae cum ralioue scminali ».
-            derii esse privationem... I^rixatio vero nullam rem aridit ultra
-            materiani... Teitio niodo potest accipi potcntia matcriae pro                     III. Opinioni S. lionaventurac vcl omniiio adhaerent vel
-             transmutatione ad formam , ut ex lioc sit materia in potentia              favcnt .Mcx. Ha!.. praccipue S. p. II. q. 86. m. 2. § 2 , q. 42.
-             ad formam, quia iransmulatur ad illam ; et sic adliuc differt              m. .j. a. 1-0. (de raiionibus seminalibus), q. 6. m. 2. n. i,
-             materia a tali potenlia, sicut differebat a privalione... Si aulem        q. y. III. .■), q. lo. praescitim m. 3 ; ct B. .\!bcrt. (S. p. 11. tr. !.
-             quaeratur, ...([uid addat potcntia sic accepta supra maicriam,            q. -t. m. 2. a. I.); Uldaricus, eius discipulus, Gulielmus Paris.,
-             dicemiis, quod addit alitjiiam, disposilionem ad formnni. .Nam            relati a Dionys. Carth. , II. Sent. d. 18. q. 2. — Uldaricus ibi ita
-             hoc modo Iransmutatur matrria ad forniam et per agens dispo-              concludit: « Forma est in materia per csscntiam secundum
-             nitur ad illam. Qiianto ergo plus liabet de luiiusmodi Iransmu-           esse imperfectiim ct confusum alque polentiale ; et ipsa eadcm
-             talione, tanlo pliia li.ibet de liuinsmodi dis])Osilione. Quando          numero est ab extra secundiim esse suum actuale, detcrmina-
-             ergo est perfecie livnsniulata ve! perfccte disposita , lunc csl          tum et perfectum pcr virtutem formativam agenlis, immissnm
-             formne induclio » etc. Clr. iilem dc ralionibus scmiiuilibus d.           materiac... Cumque utrunique praedictorum dicat totam formam,
-              18. q. 2. a. I. 2.                                                       quanivis non totaliter, liinc quidani sub eodem sensu dicuiii,
-                   2. S. Bonavcnlurae vero \isa c^l « intelligibilior ct veiitali      quiid non sit forinae pars ab inlus et pars ab ngente, sed
-             vicinior » sciunda explicaliu, quae praeter potenliani passivam           quod lota forma est nb intus , ct toLi est ab extra secundum
-             (receplivnm) maicriae , et virtutem nclivam sive principium               esse diversum ». — Eliam Petr. a Tar. (infra d. 18. q. 1. a.
-             effectivum in agcniibus naluralibus, insuper supponit aliquod             3.) eidem .sententiae inagis favcl, cum .solvat obieclioncs contra
-             principium concreatum niateriae, ex quo agcns naluralc edu-               eam nb nliis fnctas , licct utramque sententiam rcfcrat.
-             cil formam. Hoc aiilem pulal csse idem cum illo quod S.                         Alii aulein posteriores Scliolastici lianc sentcntiam iinpu-
-             .Auguslinus vocat rationes semiuales, scil. in scnsu largiore.            gnanl, ut Scot., d. 18. q. unica, n. -i. seqq., d. 18 q. unica, in
-              Pi'0 maiore explicalione huius jiosilionis cfr. Iiic (iiiaesl, SL'q.      ulroqiie Scriplo, VII. .Mctnpli. (|. 12; llcnr. Gnnd., Quodl. i.
-             ct dub. 3; infra d. 12. a. 1. q. 3, d. I-5. a. !. et praecipue            q. If, qiii diffuse dispulnt contra enndcni. — llionys. Carlh. ,
-              d. 18. a. !. q. 2. 3, ubi agiliir de rationibus scminalibus. Perspicue   liie q. .5. et infra d. 18. q. 2. — Sentenliaui S. Thoinae scqui-
-             eaiidem dortrinam tradil IV. Sent. d. 43. a. !. q. i, ubi ngi-            tur eiiain liichard. a Med., II. Sent. d. 12. q. 10, d. 18. n. 1.
-              tur de rcsurrectione corpoiuni, his vcrbis: « Supponanius nunc,          q. 2; Durand., II. Senl. d. 18. q. 2; Biel, II. Senl. d. 18.
-              qiiod nalura aliqiiid agal, !■! illiid non agit ex niliilo, et cum
-                                                                                       q. unica.
+6. Item, cum forma est in potentia materiae, aut est in potentia *in qua*, aut *a qua*, aut *ex qua*. Non *ex qua*; hoc probatum est[^6], cum forma non habeat materiale principium, ex quo constet, immo sit « *in simplici essentia consistens* »: ergo *in qua*, vel *a qua*. Non *a qua*, quia materiae non est agere: ergo solum *in potentia ut in qua*. Sed forma, quae solum est in potentia *ut in qua*, totaliter est ab extrinseco; et nulla talis forma est naturalis vel a natura: ergo nullum agens creatum potest naturalem formam producere.
+
+**Contra:**
+
+**Fundamenta:**
+
+1. Omnis res, sicut vult Damascenus[^7] et Philosophus, habet propriam operationem, alioquin aliquid esset otiosum in natura; sed omnis operatio boni alicuius est *operatrix*, alioquin est frustra: ergo videtur, quod omnis res aliquid possit producere sive operari ad alicuius productionem; aut ergo materiae, aut formae; non materiae: ergo formae.
+
+2. Item, « *unius corruptio est contrarii generatio*[^8] » — nunquam enim abiicitur frigus, nisi per introductionem caloris, nec e converso — sed constat, quod agens creatum potest abiicere et corrumpere contrarium: ergo potest se vel sibi simile inducere.
+
+3. Item, certum est, quod calidum calefacit — qui hoc non novit indiget sensu — ergo calor ignis generat calorem: ergo pari ratione, qua calidum generat calidum, ignis generat ignem, cum non sit minoris virtutis.
+
+4. Item, certum est, quod obiectum generat sibi similitudinem in speculo — quod patet: si obiectum amoveatur, nullo modo resultabit ibi similitudo — ergo pari ratione, si adsit materia disposita, agens potest generare sibi *simile*[^9] in natura: ergo etc.
+
+### Conclusio
+
+> *Agens creatum particulare potest educere formas substantiales, saltem corporales, quae sunt in potentia materiae, non solum* in qua *et* a qua *aliquo modo, sed etiam* ex qua, *quatenus in materia sunt secundum rationes seminales.*
+
+**Respondeo:** Dicendum ad hoc, quod de eductione formae in esse quadruplex fuit positio.
+
+**Quidam enim posuerunt latitationem formarum**, sicut imponitur Anaxagorae. Et illud quod ipse poneret, dupliciter potest intelligi: aut formas posse sensu actualiter existere in materia, sed non apparere extrinsecus, sicut pictura operta panno; et iste modus impossibilis est omnino, quia tunc contraria
+
+<!-- page 198 -->
+
+simul ponerentur in eodem. Alio modo potest intelligi sic, ut essentiae formarum sint in materia in potentia non solum *latentes*, sed *entes*[^10] in potentia, ut materia habeat in se seminales omnium formarum rationes, sibi a primaria conditione inditas — et illud concordat et philosophiae et sacrae Scripturae — et per actionem agentis educerentur in actum. Sed hic intellectus non fuit huius positionis, sed primus, secundum quod expositores dicunt. Haec enim positio fuit, quod agens particulare *nihil agat, sed tantum detegat*[^11].
+
+**Alia fuit positio philosophorum magis modernorum, quod omnes formae sunt a Creatore.** Et haec positio potest dupliciter intelligi: uno modo, quod Deus sit *principaliter* agens et producens in omnis rei eductione, et sic habet veritatem; vel ita, quod Deus sit *tota causa efficiens*, et agens particulare non faciat nisi materiam adaptare, ut, sicut producit animam rationalem, ita et alias formas; et iste intellectus videtur fuisse illorum philosophorum. — Et iste intellectus est impossibilis, quia agens particulare aut inducit *aliquid*, aut *nihil*. Et si nihil: ergo nihil agit. Si aliquid inducit: ergo videtur, quod aliquam efficiat dispositionem; sed qua ratione potest in unam, et in aliam. Quare ista positio non est rationabilis[^12].
+
+**Tertia positio est, quod formae naturales fere omnes, ad minus corporales, cuiusmodi sunt formae elementares et formae mixtionis, sunt in potentia materiae et per actionem agentis particularis educuntur in actum**; et ista est positio, quam videtur tenuisse Philosophus, et modo tenent communiter doctores in philosophia et theologia[^13]. — Sed tamen haec duas habet vias.
+
+Nam quidam dicunt, quod huiusmodi formae sunt in materia in potentia *receptiva* et quodam modo *activa* sive *cooperativa*; quoniam materia et habet possibilitatem ad recipiendum, et etiam inclinationem ad cooperandum, et in agente est huiusmodi forma producenda sicut in principio effectivo et originali, quia omnis forma per naturam suae speciei recipit virtutem multiplicandi se; unde inductio formae est ab agente formam suam multiplicante. Et ponunt exemplum in candela, quo[^14] modo una inflammat multas, et ab uno obiecto relucent multae imagines in pluribus speculis. Et huiusmodi formae, ut dicunt, non habent, *ex quo* sint *materialiter*, sed *ex quo originaliter*; et ideo non dicuntur creari nec dicuntur esse ex nihilo. Illud enim creatur, quod nullo modo est; sed talis forma sic producta aliquo modo est, tum ratione agentis tum ratione materiae.
+
+**Alia via est, quod formae sunt in potentia materiae, non solum** in qua **et** a qua **aliquo modo, sed etiam** ex qua. Et hoc dicunt, non quia ipsa essentia materiae sit, ex qua res producitur, sed quod in ipsa materia aliquid est concreatum, ex quo agens, dum agit in ipsam, educit formam; non, inquam, ex illo tanquam ex aliquo, quod sit tanquam aliqua pars formae producendae, sed quia illud potest esse forma et fit forma, sicut globus rosae fit rosa. Et ista positio ponit, quod in materia sint *veritates* omnium formarum producendarum naturaliter; et cum producitur, nulla[^15] *quidditas*, nulla *veritas* essentiae inducitur de novo, sed datur ei *nova dispositio*, ut quod erat in potentia fiat in actu. Differunt enim *actus* a *potentia*, non quia dicant diversas *quidditates*, sed *dispositiones* diversas eiusdem; non tamen sunt dispositiones *accidentales*, sed *substantiales*. Et hoc non est magnum, si est in potentia agentis creati, ut quod est uno modo faciat esse alio modo.
+
+Et haec positio inter omnes praedictas videtur esse intelligibilior et veritati vicinior. Hanc positionem credo esse tenendam, non solum quia eam suadeat ratio, sed etiam quia confirmat auctoritas Augustini super Genesim ad litteram, quam Magister[^16] allegat: quod « *quae producuntur a natura secundum rationes seminales producuntur* ». Quid autem sint istae *rationes seminales*, videbitur infra[^17], quando de eis erit sermo. — Secundum hanc igitur positionem sustinendum est, quod agens particulare educit for-
+
+<!-- page 199 -->
+
+mas et inducit et res naturales producit. Et rationes ad hoc inductae sunt concedendae.
+
+**Ad argumenta:**
+
+*Ad 1.* Ad illud ergo quod obiicitur, quod Deus operatur *usque modo*; dicendum, quod verum est, quia vel per se operatur, vel cum aliis: unde argumentum non valet: Deus usque modo operatur, ergo agens creatum ei non cooperatur.
+
+*Ad 2.* Ad illud quod obiicitur, quod non potest in materiam; dicendum, quod non est simile, quia *materiale principium* non est in alio ut in potentia, cum sit de se potentia: tunc enim potentia esset in potentia, et educeretur potentia de potentia, quod non est intelligibile. Secus est in forma, ut visum est; et ideo non est simile. — Potest etiam sumi ratio ex parte *agentis*, quia productio creaturae, cum sit agens *limitatum*, est productio *similis a simili*: sed constat, quod nihil agit ratione *materiae*, sed *formae*: ideo magis potest in formam quam in materiam.
+
+*Ad 3.* Ad illud quod obiicitur, quod principia rerum sunt incorruptibilia; illud intelligitur *in universali*, non *in particulari*; vel intelligitur secundum *essentiam*, non secundum *esse*; et ideo forma in particulari generatur et corrumpitur[^18]. — Vel potest dici, quod *essentia* eius manet in potentia post corruptionem, sicut ante generationem.
+
+*Ad 4.* Ad illud quod obiicitur, quod actio naturae ad *hoc aliquid* terminatur; dicendum, quod, sicut dicit Philosophus[^19], proprie loquendo, « *forma non generatur, sed compositum* ». Cum enim producitur forma, non producitur *in se* nec *per se*, sed ut *in materia*; et sic facit compositum, et ad illud terminatur generatio; nihilominus generatio vel productio naturalis respicit compositum *principaliter gratia formae*.
+
+*Ad 5.* Ad illud quod obiicitur, utrum *ex aliquo* aut *ex nihilo*; dicendum, quod secundum tertiam positionem[^20] formae producuntur *ex aliquo*, sed non ex aliquo *materialiter* vel *constitutive*, sed ex aliquo *originaliter*. Vel secundum quartam opinionem fiunt ex aliquo: non quod *ex* dicat *partem*, sed dicit *consubstantialitatem*, sicut rosa ex globo, quia globus fit rosa.
+
+*Ad 6.* Et per hoc patet *ultimum*. Concedo enim, quod formae naturales sunt in materia quantum ad potentiam et *in qua*, et *ex qua*, et *a qua*[^21], secundum praedictum modum. Et si tu obiicias, quod materia non agit nec constituit; dicendum, quod *essentia* materiae solum se habet *per modum receptivi*; sed *seminarium* inditum se habet quodam modo per modum *activi*, quodam modo per modum *passivi*, quoniam cooperatur agenti, et nihilominus ipsum variatur ab una dispositione in aliam, ut dictum est. — Haec igitur est summa positionis, quod agens creatum *nullam quidditatem*, nec *substantialem* nec *accidentalem*, omnino producit, sed *entem*[^22] sub una dispositione facit esse sub alia.
+
+### Scholion
+
+**I.** Hanc quaestionem, quae est magni momenti magnisque difficultatibus obstructa, praemittit S. Doctor, ut viam sibi paret ad solvenda dubia, quae commentatores Lombardi hic tractare solebant. Ceteri autem commentatores eandem hanc quaestionem tangunt in sequenti quaest., et diffusius de eadem agunt infra d. 18, ubi disputant de *rationibus seminalibus*, vel etiam d. 13. — Experientia constat, novas semper oriri corporalium rerum formas naturales, tum per generationem perfectam et propriedictam, quae definitur: *origo viventis a principio vivente, coniuncto in similitudinem naturae* (S. Thom., S. I. q. 27. a. 2; S. Bonav., I. Sent. d. 9. a. 1. q. 1.), tum per generationem imperfectam, qualis est in mixtionibus, quando ex diversarum substantiarum combinationibus chimicis novum aliquod corpus resultat. — Praenotandum est, quod non agitur de prima formarum naturalium origine, de qua sermo est in Genesi c. 1, nec de productione *animae humanae*, de quibus cfr. hic dub. 3. 4, infra d. 13. a. 1. q. 1. et d. 17. a. 1. q. 2. et d. 18. a. 2. q. 3. — In hac autem quaestione solvenda est difficultas, quae valde vexavit ingenia, quomodo formae illae, quae iuxta mentem Scholasticorum important aliquid *substantiale*, licet *incompletum*, produci possint ab agente creato, cum constet, quod agens creatum *nullatenus* possit aliquid producere ex nihilo. Hinc exortae sunt primae duae opiniones extremae, hic commemoratae et communiter a Scholasticis reprobatae, quarum prima asseruit, has formas *nullatenus* produci, sed eas, cum formaliter praeexi-
+
+<!-- page 200 -->
+
+stant, tantum manifestari; secunda vero putavit, eas omnes a Creatore de nihilo creari. Contra istos errores principales auctores communi suffragio haec statuunt: **1.** Natura in productione formarum vere aliquid agit. **2.** Formae non praeexistunt formaliter, sed tantum *in potentia*. **3.** Formae illae, cum non subsistant nisi *in composito*, proprie loquendo non *fiunt*, sed ipsum compositum fit, et quidem *ex materia*, et non *ex nihilo* (S. Thom., S. I. q. 63. a. 4; S. Bonav., hic ad 4.). **4.** Formae sunt *in potentia materiae* et virtute agentium corporalium educi possunt in actum. **5.** Ad hanc eductionem concursus Dei necessarius est, quod egregie S. Thomas explicat et probat *de Potentia* q. 3. a. 7. (cfr. S. Bonav., infra d. 37. a. 1. q. 1.).
+
+**II.** Si autem ulterius quaeratur de modo, quo formae sint in potentia materiae, et quo inde educantur, doctores et antiqui et recentes diversas ingrediuntur vias, quae fere reducuntur ad illas duas, in expositione tertiae opinionis a S. Bonav. explicatas.
+
+**1.** Primam illam sententiam S. Thom. haud ambigue propugnat, et post eum multi, quam etiam S. Bonav. esse *probabilem* aestimat, ut patet hic ex solut. ad 5. Clarius eandem explicat S. Thom., I. Sent. d. 18. q. 1. a. 2, ex quo iuvat aliqua excerpere. Relata enim quarta sententia, idem ita prosequitur: « *Hoc autem verum non videtur, quia, quamvis formae educantur de potentia materiae, illa tamen potentia materiae non est activa, sed passiva tantum... Nec tamen sequitur, si in materia est potentia passiva tantum, quod non sit generatio naturalis; quia materia coadiuvat ad generationem, non agendo, sed in quantum est habilis ad recipiendum talem actionem, quae etiam habilitas appetitus materiae dicitur et inchoatio formae... Et ideo concedo, quod in materia nulla potentia activa est, sed pure passiva; et quod rationes seminales dicuntur* virtutes activae, *completae in mixto cum propriis* passivis, *ut calor et frigus et forma ignis et virtus solis et huiusmodi. Et dicuntur seminales non propter esse imperfectum, quod habent, sicut virtus formativa in semine; sed quia rerum individuis primo creatis huiusmodi virtutes collatae sunt per opera sex dierum, ut ex eis, quasi ex quibusdam seminibus, producerentur et multiplicarentur res naturales* » (cfr. S. I. q. 115. a. 2, q. 63. a. 4; *de Potent.* q. 3. a. 8.). — Haec igitur sententia statuit, quod formae sint in materia tantum ut *in qua* et aliquo modo *a qua*, sed nullatenus *ex qua*, quia nihil praecedit in materia, ex quo fiat forma. Hanc sententiam ita explicat Aegid. R. (II. Sent. d. 12. q. 3. n. 2.): « *Tripliciter dicitur materia esse in potentia ad formam: vel prout recipit formam, vel prout desiderat formam, vel prout transmutatur ad formam. — Si quaeratur ergo, per quid recipit? dicetur, quod per essentiam suam... Sed accipiendo potentiam materiae, prout desiderat formam, dici potest, causam huius desiderii esse privationem... Privatio vero nullam rem addit ultra materiam... Tertio modo potest accipi potentia materiae pro transmutatione ad formam, ut ex hoc sit materia in potentia ad formam, quia transmutatur ad illam; et sic adhuc differt materia a tali potentia, sicut differebat a privatione... Si autem quaeratur, ...quid addat potentia sic accepta supra materiam, dicemus, quod addit aliquam dispositionem ad formam. Nam hoc modo transmutatur materia ad formam et per agens disponitur ad illam. Quanto ergo plus habet de huiusmodi transmutatione, tanto plus habet de huiusmodi dispositione. Quando ergo est perfecte transmutata vel perfecte disposita, tunc est formae inductio* » etc. Cfr. idem de rationibus seminalibus d. 18. q. 2. a. 1. 2.
+
+**2.** S. Bonaventurae vero visa est « *intelligibilior et veritati vicinior* » secunda explicatio, quae praeter potentiam *passivam* (*receptivam*) materiae, et virtutem *activam* sive principium *effectivum* in agentibus naturalibus, insuper supponit aliquod *principium concreatum* materiae, ex quo agens naturale educit formam. Hoc autem putat esse idem cum illo quod S. Augustinus vocat *rationes seminales*, scil. in sensu largiore. Pro maiore explicatione huius positionis cfr. hic quaest. seq. et dub. 3; infra d. 12. a. 1. q. 3, d. 15. a. 1. et praecipue d. 18. a. 1. q. 2. 3, ubi agitur de *rationibus seminalibus*. Perspicue eandem doctrinam tradit IV. Sent. d. 43. a. 1. q. 4, ubi agitur de resurrectione corporum, his verbis: « *Supponamus nunc, quod natura aliquid agat, et illud non agit ex nihilo, et cum agat in materiam, oportet, quod producat formam. Et cum materia non sit pars formae, nec forma fiat pars materiae, necesse est, aliquo modo formas naturales esse in materia, antequam producantur; et substantia materiae praegnans est omnibus; ergo rationes seminales omnium formarum sunt in ipsa. Sed ad illud stat resolutio, a quo incipit generatio; ergo nulla forma omnino corrumpitur, sed manet in materia post corruptionem, sicut manebat, antequam produceretur; et sic dicit Augustinus. Unde formas in materia ante productionem dicit esse quantum ad rationes seminales; dicit etiam resolvi ad materiam sicut ad occultissimos sinus naturae, idem utroque nomine secundum alteram et alteram rationem intelligi volens... Quamvis forma ibi sit aliquo modo post corruptionem, tamen natura non potest producere ad idem esse, quod habuit prius. Et ratio huius est, quia agens naturale agit influendo et impertiendo aliquid sui, quo mediante perficit illud quod erat in materia. Et illud quod influitur a parte agentis, fit aliquid de completo esse ipsius producti; et ideo necesse est, quod natura det aliquid novi quantum ad modum essendi substantialem, qui est esse in actu. Quamvis enim natura non det novam essentiam, dat tamen novum modum essendi, non tantum accidentalem, immo etiam substantialem, sicut esse in actu, secundum quem potest res substantialiter numerari et diversificari* ». Ibidem q. 5. ad 6. legitur: « *Semper manet substantia materiae cum ratione seminali* ».
+
+**III.** Opinioni S. Bonaventurae vel omnino adhaerent vel favent Alex. Hal., praecipue S. p. II. q. 86. m. 2. § 2, q. 42. m. 5. a. 1-6. (de rationibus seminalibus), q. 6. m. 2. n. 4, q. 9. m. 5, q. 10. praesertim m. 3; et B. Albert. (S. p. II. tr. 1. q. 4. m. 2. a. 1.); Uldaricus, eius discipulus, Gulielmus Paris., relati a Dionys. Carth., II. Sent. d. 18. q. 2. — Uldaricus ibi ita concludit: « *Forma est in materia per essentiam secundum esse imperfectum et confusum atque potentiale; et ipsa eadem numero est ab extra secundum esse suum actuale, determinatum et perfectum per virtutem formativam agentis, immissum materiae... Cumque utrumque praedictorum dicat totam formam, quamvis non totaliter, hinc quidam sub eodem sensu dicunt, quod non sit formae pars ab intus et pars ab agente, sed quod tota forma est ab intus, et tota est ab extra secundum esse diversum* ». — Etiam Petr. a Tar. (infra d. 18. q. 1. a. 3.) eidem sententiae magis favet, cum solvat obiectiones contra eam ab aliis factas, licet utramque sententiam referat.
+
+Alii autem posteriores Scholastici hanc sententiam impugnant, ut Scot., d. 18. q. unica, n. 4. seqq., d. 18 q. unica, in utroque Scripto, VII. Metaph. q. 12; Henr. Gand., Quodl. 4. q. 11, qui diffuse disputat contra eandem. — Dionys. Carth., hic q. 5. et infra d. 18. q. 2. — Sententiam S. Thomae sequitur etiam Richard. a Med., II. Sent. d. 12. q. 10, d. 18. a. 1. q. 2; Durand., II. Sent. d. 18. q. 2; Biel, II. Sent. d. 18. q. unica.
+
+---
 
 ## English
 
-[Translation pending]
+<!-- page 196 -->
+
+### Article II. *On the power of the demons.*
+
+Next, it is asked concerning the second article, namely *on the power of the demons*. Concerning which there are three things sought.
+
+The first is, as it were, a preamble: whether the induction of every form is from the Creator[^1], or whether some are from a created agent.
+
+The second is whether the induction of true forms is from the evil spirit.
+
+The third is whether anyone can use the ministry of the demons in such works without sin.
+
+### Question I. *Whether all forms are induced by the Creator, or by a created agent.*
+
+First, then, it is asked whether the induction of every form is from the Creator, or whether some particular or created agent can induce one. And that every form is from the Creator, seems thus:
+
+**For the opposite side:**
+
+1. First, by the *authority* of the Lord in John[^2]: *My Father works until now, and I also work*; but if things were produced as to their form by nature, God would not on that account be said to *work until now*: therefore it seems that every form is from him.
+
+<!-- page 197 -->
+
+2. Likewise, by *reason* it seems thus. The form is a nobler principle than matter, and says something more divine[^3]: therefore since nature cannot do the lesser thing — for she cannot produce matter, which is by creation alone — much more does it seem so of form.
+
+3. Likewise, « *the principles of things are incorruptible* », as the Philosopher holds[^4]; therefore both matter and form; but the incorruptible is ungenerable: therefore both matter and form are ungenerable: therefore if it is brought into being, this will not be by nature, but only by creation.
+
+4. Likewise, every action of a creature is terminated at *this something*[^5]; but form is not *this something*: therefore it is not terminated at form. Therefore since natural production is terminated at that which is produced by nature, it is impossible for form to be produced by a created agent; nor matter — this is plain; and everything which is produced is produced according to one of these: therefore nothing.
+
+5. Likewise, when a form is produced, it is either *from something* or *from nothing*. If *from something*; but everything which is from something has something constitutive of itself as an intrinsic principle: therefore form is composed of matter and form, which is absurd. If *from nothing*; but everything which is created from nothing is from the Creator: therefore no form is from a created agent.
+
+6. Likewise, when a form is in the potency of matter, it is either in the potency *in which*, or *by which*, or *out of which*. Not *out of which*; this has been proved[^6], since form has no material principle of which it is constituted, but rather *consists in a simple essence*: therefore *in which* or *by which*. Not *by which*, because it is not the function of matter to act: therefore only in potency *as in which*. But a form which is only in potency *as in which* is wholly from outside; and no such form is natural or from nature: therefore no created agent can produce a natural form.
+
+**On the contrary:**
+
+**Fundamenta:**
+
+1. Every thing, as Damascene and the Philosopher will have it[^7], has its own operation; otherwise something in nature would be idle; but every operation of a good thing is *operative*, otherwise it is in vain: therefore it seems that every thing can produce something or can operate toward the production of something — either of matter or of form; not of matter: therefore of form.
+
+2. Likewise, « *the corruption of one is the generation of its contrary*[^8] » — for cold is never cast out except by the introduction of heat, nor the reverse — but it is plain that a created agent can cast out and corrupt the contrary: therefore it can introduce itself or its like.
+
+3. Likewise, it is certain that the hot heats — he who does not know this lacks sense — therefore the heat of fire generates heat: therefore by parity of reason by which the hot generates the hot, fire generates fire, since it is of no lesser power.
+
+4. Likewise, it is certain that an object generates a likeness of itself in a mirror — which is clear: if the object is removed, no likeness will reflect there — therefore by parity of reason, if disposed matter is at hand, an agent can generate the *like*[^9] of itself in nature: therefore etc.
+
+### Conclusion
+
+> *A particular created agent can educe substantial forms — at least corporeal ones — which are in the potency of matter, not only* in which *and* by which *in some manner, but also* out of which, *insofar as they are in matter according to seminal reasons.*
+
+**I respond:** It must be said on this point that there were four positions concerning the eduction of form into being.
+
+**Some posited a hiding of forms**, as is imputed to Anaxagoras. And what he posited can be understood in two ways: either that forms actually exist in matter perceptibly, but do not appear outwardly, like a picture covered by a cloth; and this mode is altogether impossible, because then contraries
+
+<!-- page 198 -->
+
+would be placed at once in the same thing. The other way it can be understood is that the essences of forms are in matter in potency, not only *latent*, but *existing*[^10] in potency — so that matter has in itself the seminal reasons of all forms, implanted in it from its primary condition; and this accords with philosophy and with sacred Scripture; and by the agent's action they are educed into act. But this was not the meaning of this position, but the first, according to what the expositors say. For this position was that a particular agent *does nothing, but only uncovers*[^11].
+
+**The second position was that of more modern philosophers, that all forms are from the Creator.** And this position can be understood in two ways: in one way, that God is *principally* the agent and producer in the eduction of every thing — and so it holds true; or that God is *the whole efficient cause*, and the particular agent does nothing except adapt matter — as he produces the rational soul, so also the other forms; and this meaning seems to have been that of those philosophers. — And this meaning is impossible, because a particular agent either induces *something*, or *nothing*. And if nothing: then it does nothing. If it induces something: then it seems that it produces some disposition; but by what reason it can do this for one, it can also for another. Therefore that position is not reasonable[^12].
+
+**The third position is that the natural forms — almost all of them, at least the corporeal — such as the forms of the elements and the forms of mixtures, are in the potency of matter and by the action of the particular agent are educed into act**; and this is the position which the Philosopher seems to have held, and which now the doctors in philosophy and theology commonly hold[^13]. — But yet this has two ways.
+
+For some say that such forms are in matter in a *receptive* potency and in some way *active* or *cooperative*; because matter both has the possibility of receiving, and also an inclination to cooperate; and in the agent there is the form to be produced as in an effective and original principle, because every form by the nature of its species receives the power of multiplying itself; whence the induction of the form is from the agent multiplying its form. And they give the example of a candle, in which manner[^14] one ignites many, and from one object many images shine forth in many mirrors. And such forms, as they say, have *that out of which* they are not *materially*, but *that out of which originally*; and therefore they are not said to be created, nor to be from nothing. For that is created which in no way is; but such a form thus produced is in some way — both by reason of the agent and by reason of the matter.
+
+**The other way is that forms are in the potency of matter not only** in which **and** by which **in some manner, but also** out of which. And this they say, not because the essence itself of matter is that out of which the thing is produced, but because in matter itself there is something concreated, out of which the agent, while it acts on matter, educes form; not, I say, out of that as out of something which is, as it were, some part of the form to be produced, but because it can be form and becomes form — as the bud of a rose becomes a rose. And this position holds that in matter there are the *truths* of all forms to be produced naturally; and when one is produced, no[^15] *quiddity*, no *truth* of essence is induced anew, but a *new disposition* is given to it, so that what was in potency may become in act. For *act* and *potency* differ, not because they bespeak different *quiddities*, but different *dispositions* of the same; yet these dispositions are not *accidental* but *substantial*. And this is no great matter, if it is in the power of a created agent that what is in one way may be made to be in another.
+
+And this position, among all the foregoing, seems to be more intelligible and closer to the truth. This position I believe must be held, not only because reason recommends it, but also because the authority of Augustine on *Genesis according to the Letter*, which the Master[^16] cites, confirms it: that « *what are produced by nature are produced according to seminal reasons* ». But what these *seminal reasons* are, will be seen below[^17], when the discourse will be of them. — According to this position, then, it must be held that the particular agent educes for-
+
+<!-- page 199 -->
+
+ms and induces and produces natural things. And the reasons brought forward for this are to be conceded.
+
+**To the arguments:**
+
+*To 1.* To the objection that God works *until now*: it must be said that this is true, since either he works by himself or together with others; whence the argument is not valid: God works until now, therefore the created agent does not cooperate with him.
+
+*To 2.* To the objection that it cannot act upon matter: it must be said that the case is not parallel, because the *material principle* is not in another as in a potency, since it is of itself potency: for then potency would be in potency, and potency would be educed from potency — which is unintelligible. It is otherwise with form, as has been seen; and therefore the case is not parallel. — One may also take a reason from the side of the *agent*, because the production of a creature, since it is a *limited* agent, is the production of *like from like*: but it is clear that nothing acts by reason of *matter* but by reason of *form*: therefore it has more power over form than over matter.
+
+*To 3.* To the objection that the principles of things are incorruptible: this is understood *in the universal*, not *in the particular*; or it is understood according to *essence*, not according to *being*; and therefore the form in the particular is generated and corrupted[^18]. — Or it can be said that its *essence* remains in potency after corruption, as it did before generation.
+
+*To 4.* To the objection that the action of nature is terminated at *this something*: it must be said that, as the Philosopher says[^19], properly speaking, « *form is not generated, but the composite* ». For when form is produced, it is not produced *in itself* nor *per se*, but as *in matter*; and so it makes the composite, and generation is terminated at that; nevertheless natural generation or production looks to the composite *principally for the sake of form*.
+
+*To 5.* To the objection whether *from something* or *from nothing*: it must be said that according to the third position[^20] forms are produced *from something*, but not from something *materially* or *constitutively*, but from something *originally*. Or according to the fourth opinion they come about *from something*: not that *from* signifies a *part*, but signifies *consubstantiality*, as a rose from a bud, because the bud becomes a rose.
+
+*To 6.* And by this is plain the *last point*. For I concede that natural forms are in matter as to potency both *in which*, and *out of which*, and *by which*[^21], according to the aforesaid mode. And if you object that matter does not act or constitute: it must be said that the *essence* of matter only holds itself *after the manner of the receptive*; but the implanted *seedbed* holds itself in some way after the manner of the *active*, in some way after the manner of the *passive*, because it cooperates with the agent, and nevertheless is itself varied from one disposition into another, as has been said. — This therefore is the sum of the position: that the created agent produces *no quiddity* at all, neither *substantial* nor *accidental*, but makes that which is[^22] under one disposition to be under another.
+
+### Scholion
+
+**I.** This question, which is of great moment and obstructed with great difficulties, the holy Doctor prefaces in order to prepare the way for solving the doubts which the commentators on Lombard used to treat here. The other commentators, however, touch on this same question in the following quaest., and treat of it more fully below at d. 18, where they dispute concerning the *seminal reasons*, or also at d. 13. — Experience makes it plain that there are always new natural forms of corporeal things arising — both through perfect and properly so-called generation, which is defined as: *the origin of a living thing from a living principle, joined into a likeness of nature* (St. Thom., S. I, q. 27, a. 2; S. Bonav., I. Sent. d. 9, a. 1, q. 1) — and through imperfect generation, such as is in mixtures, when from the chemical combinations of diverse substances some new body results. — It must be noted in advance that the question is not about the first origin of natural forms, of which there is mention in Genesis c. 1, nor of the production of the *human soul*, of which see here dub. 3, 4, below d. 13, a. 1, q. 1; d. 17, a. 1, q. 2; and d. 18, a. 2, q. 3. — In this question, however, the difficulty must be solved which has very much vexed minds, how those forms which according to the mind of the Scholastics import something *substantial*, albeit *incomplete*, can be produced by a created agent, since it is clear that a created agent *in no way* can produce something out of nothing. Hence arose the first two extreme opinions, mentioned here and commonly disapproved by the Scholastics — of which the first asserted that these forms are *in no way* produced, but, since they formally pre-exi-
+
+<!-- page 200 -->
+
+st, are only manifested; while the second held that they are all created by the Creator out of nothing. Against these principal errors the authors by common consent establish the following: **1.** Nature truly does something in the production of forms. **2.** Forms do not pre-exist formally, but only *in potency*. **3.** Those forms, since they do not subsist except *in the composite*, properly speaking are not made — but the composite itself is made, and indeed *from matter* and not *from nothing* (St. Thom., S. I, q. 63, a. 4; S. Bonav., here ad 4). **4.** Forms are *in the potency of matter* and by the power of bodily agents can be educed into act. **5.** For this eduction the concurrence of God is necessary — which St. Thomas excellently explains and proves in *de Potentia* q. 3, a. 7 (cf. S. Bonav., below d. 37, a. 1, q. 1).
+
+**II.** If, however, it is further asked about the mode in which forms are in the potency of matter, and in what way they are educed thence, the doctors — both ancient and recent — enter on diverse ways, which are nearly reduced to those two explained by St. Bonaventure in his exposition of the third opinion.
+
+**1.** That first opinion St. Thomas not ambiguously upholds — and after him many — which St. Bonaventure too judges to be *probable*, as is plain here from the solution to objection 5. St. Thomas explains the same more clearly in *I. Sent.* d. 18, q. 1, a. 2, from which it is helpful to extract some things. Having related the fourth opinion, he proceeds thus: « *But this does not seem true, because, although forms are educed from the potency of matter, that potency of matter nevertheless is not active, but passive only... Nor does it follow, if in matter there is only passive potency, that there is no natural generation; because matter coadjuvates generation not by acting, but inasmuch as it is fit to receive such an action — which fitness is also called the appetite of matter and the inchoation of form... And therefore I concede that in matter there is no active potency, but pure passive; and that the seminal reasons are called* active virtues *completed in the mixed body together with their own* passive ones, *like heat and cold and the form of fire and the power of the sun and the like. And they are called seminal not on account of the imperfect being which they have — as the formative virtue in the seed — but because to the individuals of things first created such virtues were conferred through the works of the six days, that from them, as from certain seeds, natural things might be produced and multiplied* » (cf. S. I, q. 115, a. 2; q. 63, a. 4; *de Potent.* q. 3, a. 8). — This opinion, then, holds that the forms are in matter only *in which* and in some way *by which*, but in no way *out of which*, because nothing precedes in matter out of which the form should come to be. This opinion Aegidius Romanus thus explains (II. Sent. d. 12, q. 3, n. 2): « *In three ways matter is said to be in potency to form: either as it receives the form, or as it desires the form, or as it is transmuted toward the form. — If, then, it be asked, by what does it receive? — it will be said, by its essence... But taking the potency of matter as it desires the form, it can be said that the cause of this desire is privation... Privation, however, adds no thing beyond matter... In a third way potency of matter can be taken for the transmutation toward form, so that thereby matter is in potency to form because it is transmuted toward it; and so matter still differs from such a potency as it differed from privation... But if it be asked... what such a potency adds beyond matter, we will say that it adds some disposition to form. For in this way matter is transmuted toward form and disposed to it by the agent. The more, therefore, it has of such transmutation, the more it has of such disposition. When, therefore, it is perfectly transmuted or perfectly disposed, then there is the induction of the form* » etc. Cf. the same on the seminal reasons d. 18, q. 2, a. 1–2.
+
+**2.** To St. Bonaventure, however, the second explanation seemed « *more intelligible and closer to the truth* »: which besides the *passive* (*receptive*) potency of matter and the *active* virtue or *effective* principle in natural agents, further supposes some *concreated principle* in matter, from which a natural agent educes form. And this he holds to be the same with what St. Augustine calls *seminal reasons*, in the broader sense. For a fuller explanation of this position see here the next quaest. and dub. 3; below d. 12, a. 1, q. 3; d. 15, a. 1; and especially d. 18, a. 1, q. 2–3, where the *seminal reasons* are treated. He hands down the same doctrine perspicuously in IV. Sent. d. 43, a. 1, q. 4, where the resurrection of bodies is treated, in these words: « *Let us now suppose that nature does something, and that this is not from nothing; and since it acts upon matter, it must produce a form. And since matter is not part of the form, nor does the form become part of matter, it is necessary that natural forms be in some way in matter before they are produced; and the substance of matter is pregnant with all things; therefore the seminal reasons of all forms are in it. But upon that rests the resolution: from what generation begins; therefore no form is altogether corrupted, but remains in matter after corruption, as it remained before being produced; and so Augustine says. Whence he says that forms are in matter before production as to the seminal reasons; he says also that they are resolved back to matter as to the most hidden recesses of nature, wishing the same thing to be understood by either name according to one and the other consideration... Although form is there in some manner after corruption, yet nature cannot produce it to the same being which it had before. And the reason for this is that natural agency acts by inflowing and imparting something of itself, by which mediating it perfects what was in matter. And what is inflowed from the side of the agent becomes part of the complete being of the thing produced; and therefore it is necessary that nature give something new as to the substantial mode of being, which is to be in act. For although nature does not give a new essence, yet it gives a new mode of being — not only accidental but also substantial — like being in act, according to which a thing can be substantially numbered and diversified* ». In the same place, q. 5, ad 6, it is read: « *The substance of matter always remains with the seminal reason* ».
+
+**III.** To the opinion of St. Bonaventure there adhere altogether or favor it Alex. Hal., especially *S.* p. II, q. 86, m. 2, § 2; q. 42, m. 5, a. 1–6 (on the seminal reasons); q. 6, m. 2, n. 4; q. 9, m. 5; q. 10, especially m. 3 — and Bl. Albert (*S.* p. II, tr. 1, q. 4, m. 2, a. 1); Uldaricus, his disciple; William of Paris, reported by Dionysius the Carthusian, II. Sent. d. 18, q. 2. — Uldaricus there thus concludes: « *Form is in matter through its essence according to an imperfect, confused and potential being; and the same form numerically is from outside according to its actual, determinate, and perfect being through the formative virtue of the agent, infused into the matter... And since each of the aforesaid is said to speak the whole form, although not totally, hence some, in the same sense, say that no part of the form is from within and no part from the agent — but rather that the whole form is from within, and the whole is from outside according to a diverse being* ». — Peter of Tarentaise too (below d. 18, q. 1, a. 3) is more favorable to the same opinion, since he solves the objections brought against it by others, although he relates both opinions.
+
+But other later Scholastics impugn this opinion, such as Scotus, d. 18, q. unica, n. 4 and following, d. 18, q. unica, in both Scripta; VII. Metaph. q. 12; Henr. Gand., Quodl. 4, q. 11, who disputes diffusely against it. — Dionys. Carth., here q. 5 and below d. 18, q. 2. — The opinion of St. Thomas is followed also by Richard of Mediavilla, II. Sent. d. 12, q. 10; d. 18, a. 1, q. 2; Durandus, II. Sent. d. 18, q. 2; Biel, II. Sent. d. 18, q. unica.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–22 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 196–199). Quaracchi restarts footnote numbering on each printed page: this chunk's QUAESTIO I opens at the foot of p.196 R-col, taking p.196 footer ³–⁴ (the documented incoming split — the preceding chunk `bon-sent-II-d7-p2-a1-q3` took p.196 ¹–² as its [^18]/[^19]) → [^1]–[^2]; then p.197 ¹–⁷ → [^3]–[^9]; p.198 ¹–⁸ → [^10]–[^17]; p.199 ¹–⁵ → [^18]–[^22]. The editorial SCHOLION I–III on pp.199–200 carries no numbered apparatus (only inline cross-refs to S.Thom. S.I.q.63.a.4 / S.I.q.27.a.2 / I.Sent. d.18 q.1 a.2 / S.I. q.115 a.2 / de Potent. q.3 a.7-8 + the doctor lists).
+
+[^1]: **La.** Hic et in principio primae quaest. multi codd. cum ed. 1 *datore*, quo alluditur ad sententiam Avicennae, de qua in prima quaest.
+     **En.** Here and at the beginning of the first quaestio, many codices with edition 1 read *giver*, by which is alluded the opinion of Avicenna, of which in the first quaestio.
+
+[^2]: **La.** Cap. 5, 17.
+     **En.** Chapter 5, verse 17.
+
+[^3]: **La.** De quo vide Aristot., I. *Phys.* text. 81. (c. 9.).
+     **En.** On which see Aristotle, *Physics* I, text 81 (c. 9).
+
+[^4]: **La.** Libr. I. *Phys.* text. 30. (c. 6.): *Principia autem semper oportet manere*. Ibid. text. 82. (c. 9.) specialiter de materia probat, quod « *incorruptibilem et ingenitam necesse est ipsam esse* ». — Quod incorruptibile sit ingenerabile, Aristoteles fuse ostendit in I. *de Caelo et mundo*, text. 110–140. (c. 11. seq.).
+     **En.** Book I of the *Physics*, text 30 (c. 6): *The principles must always abide*. Likewise text 82 (c. 9) specifically about matter proves that « *it must be incorruptible and ungenerated* ». — That the incorruptible is ungenerable, Aristotle shows at length in I. *On the Heavens*, text 110–140 (c. 11 and following).
+
+[^5]: **La.** Id est, ad primam substantiam, compositam ex materia et forma. Aristoteles, VII. *Metaph.* text. 2-4. seqq. (VI. c. 7. seq.) ad ostendendum contra Platonem, quod formae separatae non sint causae generationis rerum, probat, quod neque materia fiat neque forma, sed *compositum*. « *Hoc aliquid enim facere ex omnino subiecto* [i. e. materia], *hoc facere est. Dico autem, quod aes facere rotundum, est non rotundum aut sphaeram facere, sed aliquid aliud, ut puta formam hanc in alio* ». — In fine argumenti Vat. addit *producitur ab agente creato*.
+     **En.** That is, the first substance, composed of matter and form. Aristotle, VII. *Metaphysics*, text 2–4 and following (VI, c. 7 and following), in order to show against Plato that separated forms are not causes of the generation of things, proves that neither matter nor form is made, but the *composite*. « *For to make this something out of a wholly underlying subject* [i.e. matter] *is to make it. I mean that to make bronze round is not to make the round or the sphere, but something else, namely this form in another* ». — At the end of the argument the Vatican edition adds *is produced by a created agent*.
+
+[^6]: **La.** In arg. praeced. — Sequens definitio formae est Gilberti Porret., *de Sex Princip.* c. 1. — Quod materiae non conveniat agere, docet Aristot., II. *de Gener. et corrupt.* text. 33. (c. 9.).
+     **En.** In the preceding argument. — The following definition of form is from Gilbert Porretanus, *On the Six Principles*, c. 1. — That it is not fitting to matter to act, Aristotle teaches in II. *On Generation and Corruption*, text 33 (c. 9).
+
+[^7]: **La.** Libr. II. *de Fide orthod.* c. 23: « *Actus* ἐνέργειαι *quippe est naturalis cuiusque substantiae vis et motus... fieri enim non potest, quod substantia careat naturali actu. Iterum, actus naturalis est illa vis, qua cuiusque natura declaratur... Actus naturalis est vis motioque cuiusque substantiae, qua caret illud solum quod non est* ». Aristot., I. *de Caelo et mundo*, text. 31. seq. (c. 4.) demonstrat, quod motui circulari motus circularis non possit esse contrarius; deinde dicit, quod unus vel ambo frustra essent, si oppositum statueretur, quia vel unus alterum, vel ambo se invicem impedirent. « *Frustra enim calceamentum hoc dicimus, cuius non est calceatio; Deus autem et natura nihil frustra faciunt* ». In cuius textus explicatione Averroes ait: *Natura igitur fecisset ens otiosum, cum fuisset ens sine actione omnino*. Cfr. etiam IV. *Meteor.* c. ult. — Unus alterque cod. cum Vat. post *sicut vult* addit *Augustinus*.
+     **En.** Book II *On the Orthodox Faith*, c. 23: « *For act* ἐνέργειαι *is the natural power and motion of each substance... for it cannot be that a substance lack its natural act. Again, natural act is that power by which the nature of each is declared... Natural act is the power and motion of each substance, which only that lacks which is not* ». Aristotle, I. *On the Heavens*, text 31 and following (c. 4) demonstrates that circular motion cannot have a circular motion as its contrary; and then he says that one or both would be in vain if the opposite were posited, since either one would impede the other, or both each other. « *For we call that shoe in vain whose shoeing is not; but God and nature do nothing in vain* ». In the explanation of which text Averroes says: *Nature therefore would have made a being idle, since it would have been a being entirely without action*. Cf. also IV. *Meteorologica*, last c. — One or another codex with the Vatican edition after *as Damascene will have it* adds *Augustine*.
+
+[^8]: **La.** Aristot., I. *de Gener. et corrupt.* text. 17. (c. 3.) generaliter ait: « *Huius corruptio alterius est generatio, et huius generatio alterius est corruptio* ». Et I. *Phys.* text. 81. (c. 9.): *Corruptiva enim sunt sui invicem contraria*. — In fine argumenti plurimi codd. cum edd. 2, 3 *vel sibi similem* (*similitudinem?*) pro *vel sibi simile*, et dein Vat. *introducere* pro *inducere*.
+     **En.** Aristotle, I. *On Generation and Corruption*, text 17 (c. 3), says in general: « *The corruption of this is the generation of another, and the generation of this is the corruption of another* ». And I. *Physics*, text 81 (c. 9): *For corruptives are contrary to one another*. — At the end of the argument many codices with editions 2, 3 read *or its like* (*likeness?*) for *or its like*, and then the Vatican edition reads *to introduce* for *to induce*.
+
+[^9]: **La.** Cod. cc et ed. 1 *similitudinem*; alii plurimi codd. *similem*. Cod. cc et ed. 1 *materiae dispositio* pro *materia disposita*.
+     **En.** Codex cc and edition 1 read *likeness*; many other codices read *like*. Codex cc and edition 1 read *disposition of matter* for *disposed matter*.
+
+[^10]: **La.** Ed. 1 cum cod. cc *existentes*. Paulo inferius cod. H substituit *virtutum* pro *formarum*, ubi legit cod. F *virtutum et formarum*, codd. or *virtutum formarum*, cod. Z vero *seminalem causam vel virtutem formarum per seminales rationes sibi* etc.
+     **En.** Edition 1 with codex cc reads *existing ones*. A little below codex H substitutes *of virtues* for *of forms*, where codex F reads *of virtues and forms*, codices or *of the virtues of forms*, codex Z indeed *seminal cause or virtue of forms through seminal reasons to itself* etc.
+
+[^11]: **La.** De quo vide Aristot., I. *Phys.* text. 32. seqq. (c. 4.); I. *de Gener. et corrup.* text. 1. seqq. (c. 1.); I. *Metaph.* c. 4. seq. (c. 3.).
+     **En.** On which see Aristotle, I. *Physics*, text 32 and following (c. 4); I. *On Generation and Corruption*, text 1 and following (c. 1); I. *Metaphysics*, c. 4 and following (c. 3).
+
+[^12]: **La.** Averroes, IX. *Metaph.* text. 7. ait: « *Moderni autem ponunt unum agens omnia entia sine medio, scilicet Deum; et contingit istis, ut nullum ens habeat actionem propriam naturaliter; et cum entia non habuerint actiones proprias, non habebunt essentias proprias; actiones enim non diversantur nisi per essentias diversas. Et ista opinio est valde extranea a natura hominis, et qui recipiunt huiusmodi non habent cerebrum habilitatum naturaliter ad bonum* ». Libr. VII. *Metaph.* text. 31. dicit: « *Et ideo, quia Avicenna obedit istis propositionibus, credidit, omnes formas esse ab intelligentia agente, quam vocat datorem formarum* [de quo cfr. Avicenna, IX. *Metaph.* c. 3.]; *et existimatur etiam, quod Themistius dicat hoc... dubitat Galenus et dicit: nescio utrum ista virtus sit Creator, aut non... erraverunt in hoc, quia non intellexerunt demonstrationem Aristotelis; et non est mirum de Avicenna, sed de Alfarabio. Videtur enim in suo libro de Duabus Philosophiis dubitare* ». Libr. XII. *Metaph.* text. 18, loquens de generatione aequivoca, dicit Themistium et forte etiam Alfarabium sensisse, non omnes formas, sed solum illas, quae producuntur in generatione aequivoca, dari ab agente abstracto a materia.
+     **En.** Averroes, IX. *Metaphysics*, text 7, says: « *But the moderns posit one agent of all beings without intermediary, namely God; and it happens to these that no being has its own action naturally; and since beings will not have their own actions, they will not have their own essences; for actions are not diversified except by diverse essences. And this opinion is very alien to the nature of man, and those who accept this kind of thing have brains not naturally fitted for the good* ». Book VII of the *Metaphysics*, text 31, he says: « *And therefore, because Avicenna obeys these propositions, he believed that all forms are from the agent intelligence, which he calls* the giver of forms [on which cf. Avicenna, IX. *Metaph.* c. 3]; *and it is also thought that Themistius says this... Galen doubts and says: I do not know whether this virtue is the Creator or not... they have erred in this, because they have not understood Aristotle's demonstration; and it is no wonder concerning Avicenna, but concerning Alfarabius. For he seems to be in doubt in his book* On Two Philosophies ». Book XII of the *Metaphysics*, text 18, speaking of equivocal generation, says that Themistius and perhaps also Alfarabius held that not all forms, but only those which are produced in equivocal generation, are given by an agent abstracted from matter.
+
+[^13]: **La.** Cfr. VII. *Metaph.* text. 28. seqq. et XII. text. 13. seqq. (VI. c. 8. et XI. c. 3.) et I. ac II. *de Gener. et corrupt.* — Post *theologia* cod. cc et ed. 1 prosequuntur *et rhetores*. Sed Magister hic duas habet vias.
+     **En.** Cf. VII. *Metaphysics*, text 28 and following, and XII, text 13 and following (VI, c. 8, and XI, c. 3) and I. and II. *On Generation and Corruption*. — After *theology* codex cc and edition 1 continue *and rhetoricians*. But the Master here has two ways.
+
+[^14]: **La.** Cod. F *sicut*, cod. T *quoniam*; cod. cc et ed. 1 *de candela, quando*.
+     **En.** Codex F reads *as*; codex T *since*; codex cc and edition 1 read *of a candle, when*.
+
+[^15]: **La.** Vat. *naturaliter*, quae etiam paulo superius post *formae producendae* cum uno alteroque cod. perperam omittit *sed*.
+     **En.** The Vatican edition reads *naturally*, which also a little above, after *of the form to be produced*, with one or another codex, wrongly omits *but*.
+
+[^16]: **La.** Infra d. XVIII. c. 6.
+     **En.** Below dist. XVIII, c. 6.
+
+[^17]: **La.** Dist. 18. a. 1. q. 2. seq.
+     **En.** Dist. 18, art. 1, quest. 2 and following.
+
+[^18]: **La.** Cfr. *1. Sent.* d. 8. p. I. a. 2. q. 2. ad 1.
+     **En.** Cf. *1. Sent.*, dist. 8, p. I, a. 2, q. 2, ad 1.
+
+[^19]: **La.** Libr. VII. *Metaph.* text. 27. (VI. c. 8.). — Paulo superius pro *actio naturae* Vat. ponit *actio creaturae*, quod etiam in ipsa obiectione habetur.
+     **En.** Book VII of the *Metaphysics*, text 27 (VI, c. 8). — A little above for *the action of nature* the Vatican edition has *the action of the creature*, which also is in the objection itself.
+
+[^20]: **La.** In Vat. additur *tenendo primam viam illius positionis*, quae etiam paulo inferius legit: *Vel secundum tertiam opinionem, tenendo viam secundam illius positionis* pro *Vel secundum quartam opinionem*, quod habent codd. A i K L V; ceteri *Vel secundum tertiam opinionem*.
+     **En.** In the Vatican edition there is added *holding to the first way of that position*, which also a little below reads: *Or according to the third opinion, holding the second way of that position* for *Or according to the fourth opinion*, which is found in codices A, i, K, L, V; the rest read *Or according to the third opinion*.
+
+[^21]: **La.** In nonnullis codd. ut U aa bb cc ed. 1 deest *et a qua*.
+     **En.** In several codices such as U, aa, bb, cc, and edition 1, *and by which* is wanting.
+
+[^22]: **La.** Cod. cc et ed. 1 *existentem*.
+     **En.** Codex cc and edition 1 read *existing thing*.
+
+---
+
+## Notes
+
+- This chunk is **ARTICULUS II, QUAESTIO I** of the COMMENTARIUS on Distinction VII, **Pars II** — *Utrum omnes formae inducantur a Creatore, vel ab agente creato* (whether all forms are induced by the Creator, or by a created agent). Per the locked Vol II chunking convention, the short **ARTICULUS II opener** (*De virtute daemonum* + 3-q sub-divisio: utrum-omnis-formae-inductio-a-Creatore / verarum-formarum-inductio-spiritu-maligno / ministerio-daemonum-sine-peccato, raw 14237–14246) is folded into this q1 chunk — there is no standalone `d7-p2-a2-divisio`. Structure: 6 *videtur* (auctoritate Domini John 5,17 / nobilius-principium-forma-quam-materia / principia-rerum-incorruptibilia / actio-creaturae-terminatur-ad-hoc-aliquid / cum-producitur-aut-ex-aliquo-aut-ex-nihilo / cum-forma-est-in-potentia-materiae the in-qua/a-qua/ex-qua trilemma) + 4 **Sed Contra/Fundamenta** (Damascenus+Philosophus omnis-res-propriam-operationem / unius-corruptio-est-contrarii-generatio / calidum-calefacit pari-ratione ignis-generat-ignem / obiectum-generat-similitudinem-in-speculo) + *Conclusio* (blockquote: agens creatum particulare potest educere formas substantiales corporales, non solum *in qua* et *a qua* sed etiam *ex qua* secundum rationes seminales) + **Respondeo** (the **quadruplex positio**: I latitatio Anaxagorae [2 sensus] / II omnes a Creatore [2 sensus] / III in potentia materiae per actionem agentis [Philosophus, communiter doctores; 2 vias: a receptiva-cooperativa with candela exemplum / b ex qua secundum rationes seminales — *Magisprobatur opinio 3a*-rubric-margin] / IV ex qua per rationes seminales [Augustine super Genesim, Magister allegat — *Magisprobatur opinio 4*, S.Bonav.'s own position, "intelligibilior et veritati vicinior"]) + 6-block **Solutio** (Ad 1 Deus operatur usque modo via cooperatio / Ad 2 materiale principium est de se potentia + agens-limitatum-productio-similis-a-simili / Ad 3 incorruptibilia in universali not particulari + essentia manet in potentia / Ad 4 forma non generatur sed compositum per Philosophus / Ad 5 secundum tertiam positionem ex aliquo originaliter, secundum quartam ex aliquo per consubstantialitatem [rosa ex globo] / Ad 6 essentia receptiva + seminarium inditum activum-passivum, epilogus: agens creatum nullam quidditatem producit sed entem sub una dispositione facit esse sub alia) + editorial **Scholion I–III** (I significance of the question + the *prima/secunda* extreme opinions reproved + the 5 *communi suffragio statuta*; II *modus quo formae sint in potentia materiae* survey — S.Thom. prima opinio [potentia passiva tantum, rationes seminales = virtutes activae completae in mixto] + S.Bonav. secunda opinio [aliquod principium concreatum materiae = rationes seminales in sensu largiore] + the IV.Sent. d.43 a.1 q.4 long quote on resurrection; III doctor list — Alex.Hal./B.Albert/Uldaricus/Guliel.Paris./Petr.a Tar. concord with S.Bonav.; Scot./Henr.Gand./Dionys.Carth./Richard.a Med./Durand./Biel sequuntur S.Thomae).
+
+- **`has_scholion: true`.** Own editorial SCHOLION I–III with **no numbered apparatus** (only inline cross-refs to S.Thom. S.I.q.63.a.4 / S.I.q.27.a.2 / S.Bonav. I.Sent. d.9 a.1 q.1 / S.Thom. I.Sent. d.18 q.1 a.2 + S.I. q.115 a.2 + de Potent. q.3 a.7-8 / S.Bonav. infra d.12+d.15+d.18 + IV.Sent. d.43 a.1 q.4 + the doctor list).
+
+- **Cross-chunk footer — INCOMING a1-q3→a2-q1 at p.196 (RECEIVED clean, no backfill).** Per committed `bon-sent-II-d7-p2-a1-q3` Notes, that chunk took p.196 footer notes ¹ (`Cfr. tom. I. pag. 87, nota 4 … quae sunt supra vs quia sunt supra`) and ² (`Eodem modo verbum Philosophi explicatur 1. Sent. d. … dub. 8`) as its [^18]/[^19]. This chunk starts its p.196 apparatus at footer note **³** `Hic et in principio primae quaest. multi codd. cum ed. 1 datore, quo alluditur ad sententiam Avicennae` → **[^1]** at the ART II divisio's *Creatore¹* (3-q sub-divisio's first point — `utrum omnis formae inductio sit a Creatore`; the *datore* variant points to Avicenna's *dator formarum*, which is precisely the position critiqued in the second opinio of this very quaestio); and **⁴** `Cap. 5, 17.` → **[^2]** at videtur 1's *Ioanne²* (the John 5,17 *Pater meus usque modo operatur* citation). Verified by lemma on the p.196 R-col-2 crop; `bon-sent-II-d7-p2-a1-q3` not modified, no backfill.
+
+- **Cross-chunk footer — OUTGOING a2-q1→a2-q2 at p.200/p.201 (CLEAN cross-page, no split).** This chunk's last numbered apparatus is **p.199 [^22]** (`Cod. cc et ed. 1 existentem`, anchored at *entem⁵* in the Solutio Ad 6 closing epilogue *agens creatum nullam quidditatem … sed entem sub una dispositione facit esse sub alia*). The editorial SCHOLION I–III tail spans the bottom of p.199 R-col + the whole of p.200 carrying **no** numbered apparatus (only inline cross-refs to S.Thom. + S.Bonav. + the doctor lists); QUAESTIO II (*Utrum verarum formarum inductio sit a spiritu maligno* — next chunk `bon-sent-II-d7-p2-a2-q2`) opens fresh at the top of p.201 (raw 14531). p.201's footer is wholly the next chunk's; no backfill into this one.
+
+- **Apparatus crosswalk:** p.196 ³–⁴ → [^1]–[^2] (datore-Avicennae-variant / Cap.5,17-John); p.197 ¹–⁷ → [^3]–[^9] (Aristot.-I-Phys.-text.81 / Aristot.-I-Phys.-text.30+text.82+I-de-Caelo-text.110-140 / Aristot.-VII-Metaph.-text.2-4-aes-rotundum-sphaeram+Vat.-producitur-ab-agente-creato / Gilbert-Porret.-de-Sex-Princip.-c.1+Aristot.-II-de-Gener.-text.33 / Damasc.-II-de-Fide-orthod.-c.23-ἐνέργειαι+Aristot.-I-de-Caelo-text.31+Averroes-Natura-igitur-fecisset-ens-otiosum+IV-Meteor.+Vat.-Augustinus / Aristot.-I-de-Gener.-text.17+I-Phys.-text.81+Vat.-introducere / Cod.cc-ed.1-similitudinem-vs-similem); p.198 ¹–⁸ → [^10]–[^17] (Ed.1-cum-cod.cc-existentes+cod.H-virtutum-vs-formarum / Aristot.-I-Phys.-text.32+I-de-Gener.-text.1+I-Metaph.-c.4 / Averroes-IX-Metaph.-text.7-Moderni-Avicenna-dator-formarum+XII-text.18-Themistius-Alfarabius / VII-Metaph.-text.28+XII-text.13+cod.cc-et-rhetores / Cod.F-sicut+cod.T-quoniam+cod.cc-de-candela-quando / Vat.-naturaliter+omittit-sed / Infra-d.XVIII-c.6 / Dist.18-a.1-q.2-seq); p.199 ¹–⁵ → [^18]–[^22] (1.Sent.-d.8-p.I-a.2-q.2-ad-1 / Aristot.-VII-Metaph.-text.27+Vat.-actio-creaturae / Vat.-tenendo-primam-viam+codd.A-i-K-L-V / In-nonnullis-codd.-deest-et-a-qua / Cod.cc-ed.1-existentem). 22 markers, 22 defs, La==En==defs exact.
+
+- **No `[?]` flags.** All 22 superscripts + 4 page-footers (p.196 R-col + p.197 + p.198 + p.199) verified on the 450 dpi column-band crops (`/tmp/colcrop/vol2-p{196,197,198,199,200}-{L,R}-{0,1,2}.png`); Greek ἐνέργειαι in [^7] transcribed from the p.197 footer crop; SCHOLION I–III editorial body reflowed from pp.199 R-col-2 + p.200 (incl. the long S.Thom. *I. Sent.* d.18 q.1 a.2 quote in II.1 + the S.Bonav. *IV. Sent.* d.43 a.1 q.4 resurrection-quote in II.2 + the Uldaricus *totam-formam-ab-intus-totam-ab-extra* concord in III). Raw-OCR garbles (`ARTICULUS IL`/`QU.\ ESTIO I.`/`SCHOLIOX`/`Yerum'est` for *verum est*/`Crentore` for *Creatore*/the marginal-rubric ribbon `Magisprobatur opinio 3a`/`Magisprobatur opinio 4` rendered as margin-notes in the OCR, not as numbered body markers) silently corrected against the crops per CLAUDE.md.
