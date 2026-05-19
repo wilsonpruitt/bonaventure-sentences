@@ -8,330 +8,298 @@ articulus: 1
 quaestio: 1
 type: quaestio
 title_la: "Utrum affectus vel voluntas daemonis possit rectificari."
-title_en: ""
+title_en: "Whether the affection or will of a demon can be rectified"
+printed_pages: [173, 174, 175, 176, 177, 178]
+pdf_pages: [195, 196, 197, 198, 199, 200]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 173–178 (Comm. in II Sent., Dist. VII, Pars I, Art. I, Quaest. I; ARTICULUS I opener De obstinationis malignitate quoad malos spiritus folded in; SCHOLION I–II tail runs onto p.178)"
+has_scholion: true
+has_apparatus: true
 line_start: 12685
 line_end: 12992
 word_count_latin: 4414
-transcription_status: "auto-chunked 2026-05-13; rechecked 2026-05-17 session 34 (decade-batch d.5-d.10 trial — correct semantic boundaries), raw 12685-12992) — ART I opener (garbled 'AUTICULUS I' 12685) + QUAESTIO I (12689) folded. Ends before QUAESTIO II (12993)."
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR base (raw 12685–12992) over the 450 dpi pp.173–178 column-band crops (PDF 195–200), read L-then-R per page, body then footer; fresh literal English; SCHOLION I–II (editorial, no numbered apparatus); 29-entry apparatus renumbered continuously (Quaracchi restarts per page: p.173 NOTAE AD COMMENTARIUM stream → [^1]–[^3]; p.174 → [^4]–[^10]; p.175 → [^11]–[^18]; p.176 → [^19]–[^23]; p.177 → [^24]–[^29]). INCOMING divisio→a1-q1 split at p.173 RECEIVED clean (no backfill): per committed bon-sent-II-d7-p1-divisio Notes, p.173's footer is a single NOTAE AD COMMENTARIUM stream whose note ¹ is that divisio's [^1] (DIVISIO TEXTUS per gloriam); this chunk starts its p.173 apparatus at NOTAE note ² (Damascenus, Libr. II. de Fide orthod. c. 4. → [^1]), d7-p1-divisio not modified. OUTGOING a1-q1→a1-q2 CLEAN (no split): a1-q1's last numbered apparatus is p.177 [^29]; the editorial SCHOLION I–II tail spans p.178 carrying no numbered apparatus, and QUAESTIO II (next chunk bon-sent-II-d7-p1-a1-q2) opens on p.178 — all of p.178's footer anchors a1-q2's videtur, so it is wholly a1-q2's (take all p.178 footer at that build, no backfill into a1-q1). No [?] flags — all 29 superscripts + 5 page-footers verified on the 450 dpi crops; raw-OCR digit garbles corrected on the crops (p.174 n.2 Cap. 15. n. 2 not 13; p.176 n.1 pag. 153 not 133) and one custom high-zoom crop of p.178 SCHOLION II resolved the q. 25 … a. 4 — Petr. a Tar. … a. 2 digits (2026-05-19)"
 format_version: 1
 ---
 
 # bon-sent-II-d7-p1-a1-q1
+## *Utrum affectus vel voluntas daemonis possit rectificari.*
+
+---
 
 ## Latin
+<!-- page 173 -->
 
-AUTICULUS           I.
+### ARTICULUS I.
 
-                                          De obstinationis malignitate quoad malos spirilus.
+*De obstinationis malignitate quoad malos spiritus.*
 
-                                                            QUAESTIO I.
-                                       Utrum affectus vel voluutas daemonis possil reclificari.
+### QUAESTIO I.
 
-             Quaeritur igitur primum, utrum affectio vel                          2. llem, Augustinus in libro de Fide ad Pe-
-       voluntas daemonum possit rectiflcari. Et quod non,                    trum ' : « Sic creavit Deus Angelos, ut qui vellent
-       videlur.                                                              perpetuo boni essent; et qui nollent, nunquam eos
-             1. Primo , Damascenus - dicit, quod « hoc est                   divino mnnere repararet».
-mdamenia.AngeHs casus , quod hominibus mors » : sed bomo                          3. Item, boc videtur ratione. Similis est ratio
-        post mortem non potest recuperare bonam et rectam                    confirmationis in bono et obstinationis in malo ; sed
-        voluntatem , quam amisit in vita : ergo etc.                         Angeli * statim, ut bene juoti sunt, conflrm.ati sunt
+*Utrum affectus vel voluntas daemonis possit rectificari.*
 
-                        NOTAE AB COMMENTARroM.                               ut si dileclioni Cfeatoris sui iugiter inliaesissent , simul aeterni
-            ' Cod. Y gratiam , quod respondel verbis iMagislri, tiic c. I.   beatique mansissent ; si vero propi-iae libertatis arbitrio conlra
-       Vat. paulo supei'ius per conversionem pro post conversionem.          summi Creatoris imperium suam niterenlur facere voluniatem,
-            2 Libi-. II. de Fide orlhod. c. 4.                               protinus a contumacibus beatitudo discederet... Et de Angelis
-            ^ Cap. 3. n. 32: Angcli ergo alque liomines, pro eo quod         quidem lioc disposuit et implevit, ut si quis eorum bonitatem
-       rationales facii sunt, aeternitaUs ac beaiiludinis donum in i|)sa     voluntatis pcrderet, nunquam eam divino munere repararet.
-       naturae spiritualis creatione divinitus acccperunt , ita scilicct,          •■ In codd. I Q bcne addilur boni.
-        174                                                   SENTENTIXRLM LIB. II.
+Quaeritur igitur primum, utrum affectio vel voluntas daemonum possit rectificari. Et quod non, videtur.
 
-           in boiio: ergo el inali stalim ut peccaverunl, ob-                  causam efficientem , sed de/icientem ' ; sed Deus
-           stinati sunt in maio: sicut ergo boni non possunt                   nullius est causa deflciens : ergo non est causa vel
-           cadere, ita nec mali resurgere.                                     ratio huius impossibilitatis. — Secunda est haec :
-                 4. Uem , gravius peccavit Angelus quam liomo,                 « Deus antecedenter omnes homines et Angelos vult
-           ergo et gravius del)et puniri; sed peccatum homi-                   salvos fieri , ut dicit Damascenus * , quia non crea-
-           nis punitum fuit aliqua poena irremediabili, ut                     vit sive plasmavit ad poenam, sed ad gloriam ».
-           poena mortis, de qua nullus evadit: ergo necesse                    Si ergo non vult angelos malos beatificari , hoc est
-           fuit, peccatuni Angeli , quod erat mors spiritus an-                \o\vmlnte consequente ; sed « volunlas cojwe^uens est
-           gelici, puniri poena mortis. Sed non potuit puniri                  concessio ex causa nostra •> : ergo alia ratio est ul-
-           poena mortis naturae: ergo necesse fuit, ipsum                      terior, quare hoc concedit: non ergo voluntas Dei.
-           puniri poena damnationis aeternae.                                  — Tertia est haec: si diabolus veniam peteret,
-                 Sed contra: 1. Ad rectificationem voluntatis                  Dominus non repelleret, quia, sicul dicit Ambro-
-Ad opposi- duo sufliciunt , scilicet haec : condonalio divinae                 sius ' , « ipse recipit confugientes ad se ; hoc iusti-
-   "™' miscricordiae et contrilio poenitentiae ; sed utrum-                    tiae est»; sed contra iustitiam Deus nullo modo
-           que horum est possibile circa angelos lapsos esse :                 facit. — Praeterea, quantumcumque homo Deo
-           ergo et voluntatem eorum rectificari. — Quod au-                    servierit , si poenitet de bonis, Deus bona praeterita
-           tem possit esse condonatio misericordiae , ostendi-                 non acceptat: ergo similiter, si poenitet de malo,
-           tur: quia misericordia Dei est infinita, peccatum                   Yidetur, quod mala remittat; et hoc spectat ad sum-
-           luciferi ct daemonum est finitum ; sed infinitum                    me misericordem : ergo ratio, quare voluntas diaboli
-           vincit et superat finitum : ergo divina misericordia                non potest rectificari, non polest principaliler venire
-           potest remittere illud peccatum. Si lu dicas, quod                  ex parte Dei , ut patet ex hac triplici ratione.
-           potest de potenlia, sed non de condecentia ; contra :                     Ostenditur etiam , quod non ex parte naturae
-           decet misericordiam Dei summe manifestari , cum                     Angeli venit haec impossibilitas. Primo aucturitate
-           sit summa: crgo si sic manifestalur in summo, sci-                  Augustini, de Fide ad Petrum ^ : « Si Immana na-
-           licet in remittendo maximum omnium peccatorum;                      tura, postquam a Deo aversa bonitatem perdidit
-           et hoc fuit peccatum luciferi : ergo decet ipsum illud              voluntatis, ex se ipsa rursum hal^ere potuisset;
-           condonare '. — Quod autem possit esse dolor poe-                    multo possibilius hoc natura haberet angelica, quae
-           nitentiae in diabolo, ostenditur: quandocumque ali-                 quanto niinus gravatur pondere terreni corporis,
-           quis sentit sibi adesse quod odit, et abesse quod                   tanto magis hac esset praedita facultate ». — Item ,
-           diligit dolet et tristatur, quia, sicut dicit Augu-                 hoc videtur secundo ratione, quia Angelus peccando
-           stinus , de Civitate , decimo quarto ' : « Dolor est                non amisit arbitrii libertatem, quoniam libertas ar-
-           disscnsus ab his rebus , quae nobis nolenlibus ac-                  bilrii est ei naturalis ; sed ratione liberi arbitrii erat
-           cidunt»; sed diabolus scit, se ex peccato suo ami-                  susceptibilis rectitudinis a sui natura : ergo adhuc ,
-           sisse illam nobilitatem, quam habebat in caelo, et                  quantum est ex parte naturae suae, est susceptibi-
-           incurrisse poenam in inferno , el primum maxime                     lis. — Item , si natura Angeli esset causa illius im-
-           diligit et secuncium maxime odit: ergo poenitet de                  possibilitatis , et cuiuscumque res per modum na-
-           hoc quod fecit vel quod voluit, vel saltem possi-                   turae est causa, Deus similiter est causa '; quia
-           bile est, ipsum aliquando ad hunc statum devenire,                  sola voluntas adversatur Deo : ergo Deus esset cau-
-           si modo non est. — Ergo potest ex parte Angeli esse                 sa, qui lalem naturam fecit; si ergo nullo modo
-           dolor poenitentiae , ex parle Dei condonatio mise-                  Deus est causa impossibilitatis ad bonum , nec na-
-           ricordiae: ergo etc.                                                tura Angeli.
-                 2. Item, hoc ostendilur, quia, si voluntas An-                      Ostenditur etiam , quod ratio non sit ex parte
-           geli non potest rectificari, aut hoc est ex parte                   peccali angelici : quia peccatum angelicum non ex-
-           Dei, aut ex parle Angeli, aut ex parte pcccati.                     cessit peccatura liominis in infinituni quantum ad
-                 Ostenditur igitur primo, quod non sit ex parle                aliquam conditionem , ergo non nocuit in infinitum
-           Dei, triplici ratione. Prima est liaec: obstinatio                  plus quam peccatum bominis; sed peccatum hominis,
-           malae voluntatis vel impossibilitas ad rectitudinem                 etsi aufert rectiludinem, non tamen abstulit possi-
-           voluntatis est defectus, non positio, ergo non habet                bilitatem ad reclitudinem : ergo videtur , quod pec-
+1. Primo, Damascenus[^1] dicit, quod «hoc est Angelis casus, quod hominibus mors»: sed homo post mortem non potest recuperare bonam et rectam voluntatem, quam amisit in vita: ergo etc.
 
+2. Item, Augustinus in libro de Fide ad Petrum[^2]: «Sic creavit Deus Angelos, ut qui vellent perpetuo boni essent; et qui nollent, nunquam eos divino munere repararet».
 
-              ' Plures codd. ul K T V cc et cd. I ordinare.                         ^ Pupor Episl. ad Rom. 3, 21: Cum suscipil confugientes
-              ' Cap. 13. n. 2: Animae dolor, quac Irislilia nunciipalur,       ad se , iuslilia dicitur.
-         disscnsio est ab liis rebus ctc.                                          « Cap. 3. n. 34.
-              ' Augusl. , XII. de Civ. Dei , c. 7. Ibid. c. 8. sequens pro-         " Aliis verbis: et si omnis effectus, qucm quaelibet res
-         positio insinuatur.                                                   per niodum nalurae producil, Dcus similitcr esl causa, hinc,
-              * Libi-. II. de Fide orthod. , c. -29. Vciba ipsius vide toni.   quia sola voluntas ad\'crsatur Deo, Deus essst causa perversae
-         I. pag. 728 , nota 2 , ubi eliam sunl verbn eiusdem quae              voluntatis et illius impossibilitalis ad bonum ctc. — Vat. cum
-         paulo inferius occurrunt; in quibus multi codd. cum edd.              paucis codd. et ed. 1 , refraganlibus codd. C F K R S T WV ee
-         excessus ex eausa noslra pro concessio {jcapcc/^wpTjaic) ex           cum edd. 2, 3, i,et cxtiuscumque rei pro el cuiuscumgue res;
-         catisa ■nostra, quibus Vat, addil vel ex partc nostra.                cod. I. rei natura.
-                                                                                                                                      17b
-                                                   DIST. VII. P. I. ART. I. QUAEST. I.
-       calum Angeli, elsi magis elongaverit, non elongavit               — Si quaeratur , unde veniat defectus gratiae gratis
-       infinite: ergo videtur, quod elongavit cum possibi-               datae, vel quae sit ratio; absque dubio defectus
-       litate ad reditum , et ita non videtur ratio ex parte             non potest habere nisi causam deficientem ; ct ita
-       peccati. — Iteni, quantulacumque gralia, si adveniret             nec Deus nec natura Angeli potest esse prima
-       volnntati diaboli , expelleret totam culpam — loquor              causa ; sed necessarium est, quod ipsa culpa * , qua condusio 3.
-       de gratia gratum faciente — sed morbus , qui mo-                  diabolus ita aegrotavit et aegrotat, ut non pateat
-       dico remedio adveniente potest curari, non dicitur                aditus gratiae. Et in hoc consentiunt communiter
-       de se incurabilis, sed propter defectum remedii ,                 omnes , qui recte sapiunt cirra materiam istam.
-       si illud non adsit: ergo impossibilitas rectificationis '               Sed unde habeat culpa diaboli hanc irremedia-
-       in voluntate Angeli non est ralione culpae principa-              bilitatem , diversificati sunt varie opinantes.
-       liter. — Item, culpa non inducit necessitatem vo-                       Quidam enim sumserunt rationem ex compara- opinio '•
-       luntati, quia est in voluntate, secundum quod vo-                 tione culpae ad severitatem iudicantis ^. Quia enim
-       luntas est , et ita seeundum quod libera et vertibi-              diabolus et angeli eius gravissime peccaverunt , Do-
-       lis : ergo si non inducit necessitatem , ergo nec au-             minus severus iudex statim condemnavit eos ; sicut
-       fert possibililatem ad oppositum, et ita ad rectitu-              iudex magnum latronem, in turpi latrocinio depre-
-       dinem: ergo non venit illa impossibilitas ex parte                hensum . statim facit suspendi , quamvis differat
-       peccati, ergo nuUo modo.                                          suspendium unins parvi latronis, qui potuit habere
-                                                                         aliquam excusationem. — Sed haec ratio congruita- ^"" «""scii-
-                              C 0 N C L U S I 0.                         tis est : quia , esto quod diabolus minus peccasset ,
-                                                                         tunc videretur posse redire; et nos videmus, quod
-       Daemonum obstinata voluntas non potesl rectifi-                   Deus facit misericordiam cum sceleratissimis fre-
-           cari, quia est extra statum viae et meriti.                   quenter, et aliquos aliquando, qui modicum pec-
-                                                                         caverunt, demergit in infernum ; et ideo congruitas
-                 Respondeo : Dicendum , quod sicut Sancti dicunt         tantum est.
-nciusio I. et auctoritates, voluntas diaboli nullo niodo potest               Alii sumserunt rationem ex comparatione culpae op'"" ^-
-           rectificari, secundum quod hoc verbum pote5« prae-            ad naturam peccantis , quia peccans fuit substan-
-           dicat potentiam ' habentem aliquam ordinationem               tia spirituaUs, omnino non habens pondus carnis °;
-           ad actuni. Nam si intelligatur de potenlia efficientis        et quia substantia spiritualis est semper in actu
-mchiio % absolute , absque dubio polens est Deus diabolo                 suo, unde non lassatur, immo conlinue habet inor-
-           restituere bonam voluntatem ; tamen ex parte dia-             dinatam voluntatem et continue gratiam impugnat:
-           boli non est ordinatio aliqua ad hoc , immo facta             ideo non offertur sibi gratia '. — Sed istae non sunt -Von suiBcit.
-           est voluntas eius impossibilis, ut Sancti dicunt et           rationes necessitatis ; tum quia pondus carnis non
-           rationes ostendunt.                                           inclinabat hominem primum ad peccatum , ideo nec
-                 Si autem quaeratur causa impossibilitatis ad            adeo excusabat , ut peccatum eius caperet reme-
-                                                                         dium rectitudinis ; nec econtra carentia carnis adeo
-uio eent- rectitudinem , intelligendum est ad hoc , q~nad ad
- '^'"" rectitudinem voluntatis, per actuale peccatum lapsae,             Angelum impediebat. Similiter nec alia ratio , quia
-           duo concurrunt, scilicet ex parte voluntatis poeni-           Deus gratiam gratis datam frequenter dat homini
-           tentia, ex parte Dei gratia sanans. Et utrumque               existenti in actuali voluntate peccandi ; haec enim
-           deest diabolo ; et ideo omnino deest ei via rectifi-          simul stat cum culpa. Et huius exemplum patet in
-           cationis.                                                     Paulo , qui conversns est el circumdalus luce in actu
-                 Si quaeras ulterius, quid horum est ratio               persecutionis '. — Sunt tamen congruitates quaedam Noiandum.
-  Raiiones defectus alterius; dicendum, quod defectus poeni-             a latere.
-jaies. tentiae est ratio, quare deficit gralia gratum faciens,                 Alii suraserunt rationem ex parte culpae rela- opioio 3.
-           quia ad illam disponitpoenitentia informis. — Rursus,         tae ad modum peccandi per oppositum ad pecca-
-           si quaeratur, quare deficit poenitentia? dicendum,            tum hominis; quia enim homo alio suggerente pec-
-           quod deficit gratia gratis data, quae praevenit vo-           caverat, ideo dignum fuit alio relevari. Rursus ,
-           luntatem, ut poeniteat, et sine qua nemo unquam               quia lotum genus humanum ceciderat, ne totum
-           se praeparat ad gratiam , sicut iam melius patebit '.         periret , congruum fuit reduci ad rectitudinem. Econ-
+3. Item, hoc videtur *ratione*. Similis est ratio confirmationis in bono et obstinationis in malo; sed Angeli[^3] statim, ut bene moti sunt, confirmati sunt <!-- page 174 -->in bono: ergo et mali statim ut peccaverunt, obstinati sunt in malo: sicut ergo boni non possunt cadere, ita nec mali resurgere.
 
-             ' Nonmilli codd. reclitudinis.                                   ^ Haec ratio insinuatur ab Isidoro , I. de Sumnio Bono seu
-             ^ In plurimis niss. et primis edd. hic minus coiigrue ad-   Sent. c. 1 0. n. II ; Gregor. , IV. Moral. c. 3. n. 8 , et l.X. c.
-        ditur aliquam, quod tamon cod. bb omittit et pro quo Vat.        30. n. 76.
-        ponit quandam.                                                         ' Cfr. liber de Fide ad Petrum , c. 3. n. 33 , ubi dicitur ,
-             ^ Ilic ad 1. et infra d. 28. a. 2. q. I. — Paulo su-        quod « Dcus in acterno sic totam (partem) praecepil renianere
-        perius cod. cc et ed. 1 quae praeparat pro quae praevenit.       supplicio, ut etiam ignem ei aelernum pararet, in quo illi
-             * Supple: sit. — Cod. cc cum ed. 1 sed nihit est aliud ,    omnes praevaricatores Angeli nec mala voluntate possint un-
-        quam ipsa culpa, qui eiiam cum cod. aa paulo inferius omit-      quam carere nec poena , sed permnnente in cis iniustae avcr-
-        lit communiter.                                                  sionis malo , permaneat etiam iustae retributionis aelerna damna-
-            5 Cfr. Gregor., XX-Kll. Moral. c. 23. n. 47. et 49, Alanus   lio B. similia docct Isidor., de Ordine creaturarum, c. 8. n. 4.
-        de InsuIIs, II. de Art. calli. fldei, prop. 11.                        * Act. 9,1. seqq.
-         176                                                   SENTENTI.VRUM LIB. II.
+4. Item, gravius peccavit Angelus quam homo, ergo et gravius debet puniri; sed peccatum hominis punitum fuit aliqua poena irremediabili, ut poena mortis, de qua nullus evadit: ergo necesse fuit, peccatum Angeli, quod erat mors spiritus angelici, puniri poena mortis. Sed non potuit puniri poena mortis naturae: ergo necesse fuit, ipsum puniri poena damnationis aeternae.
 
-             tra est in angelicis spiritibus, qnia non peccaverunt              eunte , cum non faciat contra suam dispositionem ,
-             per tenlationem, maxime lucifer; ideo non rediit.                  non offert gratiam, quae praeveniat voluntatem et
-                                                                                formet ad poenitentiam ; et ita remanet voluntas in
-             Unde Gregorius in Moralium quarto ' : « Nunqunm                    impoenitenlia sempilerna, et ita in culpa.
-             lumen pristini status accepit, quia non persuasus
-             amisit». SimilUer , quia cecidit secundum parteni,                       Et sl tu. obiicias , quod
-                                                                                                            ' cum Deus *    praeviderit, 'luaeslio
-                                                                                                                                          obieciio ii
-             ita quod peccatum fuit particulare et personale ;                  quod diabolus lapsurus erat sive peccaturus, quare "deQs sow
-             ideo non debuit rectificari. Unde Augustinus in En-                praefixit ei ita modicum tempus merendi , ut non ha-
-             chiridio': « Placuit universitatis Conditori, ut, quo-             beret spatium redeundi ? notandum ad hoc , quod
-             niam non tota muUitudo Angelorum Deum deserendo                    in conditione reruin non attenditur ratio misericor-
-             perierat, ea quae perierat, in aeterna damnatione                  diae et iustitiae principaliter , sed sapientiae. De-
-NonsQfficit. remaneret». — Sed istae similiter sunt rationes                    crevit enim divina sapientia in universo facere du-
-                                                                                plicem creaturam rationalem , ad hoc quod esset
-             congruitatis, quia si homo peccasset propria volun-
-             tate, sine suggeslione, vel particulariter, non video,             universum completura: unam corpori unitam, ut ani-
-             quomodo non posset recuperare bonam voluntatem ,                   mam rationalera; aliam absolutam et spiritualeni, ut
-             Domino restituente.                                                Angelum *. Et quoniam substantia omnino spiritualis
-                  Alii sumserunt rationem per coniparationem ad                 est omnino incorruplibilis et ingenerabilis, non potuit
- opinio 4. slalum peccantis, quia tempus meriti et status                       unus Angelus ex altero produci ; ideo simul pro-
-             merendi erat eis praefixus usque ad primam bonam                   ducti sunt; et sicut simul sunt producti, ita etiam
-                                                                                simul glorificaudi sive dispositi ad simul glorificari.
-              operationem vel malam; et ideo"sicut homo, post-                  Et quia sunt spirituales et incorruptibiles, nullo
-              quam tempus merendi pertransiit, qnantumcumque
-              peccaverit parum, dura tamen mortaliter et quali-                 modo babentes retardat.ivum ; hinc est , quod in
-              tercumque peccaverit, ultra non potest bonam vo-                  loco gloriae sunt conditi , scilicet in empyreo , et ita
-              luntatem reacquirere; sic el de Angehs intelligen-                de proximo ad gloriam dispositi et ratione natui^ae
-              dum est. Et hoc modo assignavit Damascenus , cum                  et loci. Et ideo tempus meriti est eis ita breve prae-
-              dixit, quod « hoc est Angelis casus, quod homini-                 fixura, sicut potuit, et ideo usque ad priniam aver-
-              bus mors». Et similiter Augustinus de Fide ad                     sionem vel conversionem deliberativam. — Homini
-              Petrum, eum dixit: « Sic creavit Deus Angelos,ut                  vero, quia condilus est in corpore animali ad pro-
-              qui vellent perpeluo boni essent, et qui nollent                  creandam prolem ad cultum Dei , et ila in disposi-
-              nunquam eos divino munere repararet ». Et ila tem-                tione remoliori a gloria, datus est locus distans ad
-              juis meriti et statum praefixit usque ad primum                   merendum a sui conditione, scilicet paradisus ter-
-conciiisio i. conflictum. — Et hanc rationem credo propriam et                  restris ; et praeflxus est ei terminus diuturnus
-    Katio i. necessariani. Et hoc patet: quia, si aliqua passio                 propter officium procreandi prolem. Et propterea,
-              inest aliquibus subieclis, inest eis secundum ali-                cum peccavit angelus, statira exiit tempus meriti
-              quod commune ; diabolus autem non potest bonam                    et statum, homo vero non; et ideo iste potuit re-
-              voluntatem recuperare, ita est obslinatus, et simi-               ctificari , ille vero non. Et hoc est quod dicit .\ugu-
-              liter ludas et alius homo peccator damnatus. Con-                 stinus de Mirabilibus sacrae Scripturae ^ : « Angelus
-              stat , quod inesse ' non potest nec ratione naturae               de sublimissirno sui ordinis statu cecidit, ideo re-
-              nec ratione inodi peccandi, quia non est commune.                 surgere non potuit ».
-              Si ergo non invenitur communitas nisi a parte sta-                       Patel igilur, quod voluntas Angeli non est recti- Epiioeus.
-              tus , quia uterque est exlra statum meriti, manife-               ficabilis, nec fuit a tempore, ex quo cecidit. Quia
-              stum est, quod ista est ratio potissima et necessa-               enim fuit extra statum meriti, certissime revelata
-     p,atio2. ria. — Et hoc clarius patet in peccato hominis, si                est ei sua damnatio ; et ideo , sicut Beati non pos-
-              diligentius consideretur. Nam peccatum ludae in                   sunt timere damnationem, ita angelus malus pro-
-              principio non abstulit possibilitatem ad iustitiam ;              pter cerlitudinem damnationis non potest sperare sa-
-              et tamen sine additione et sine innovatione , solo                lutem, et propter absentiam gratiae non potest
-              tetnpore merendi transeunte, factus est impossibilis              poenitere, et ideo nec bonus esse. — His visis, facile
-              ad bonani voluntatem. Deus enim decrevit offerre                  est omnia obiecta solvere.
-         gratiam, quamdiu est tempus merendi ; quo trans-                             1. Ad illud enim quod obiicitur, quod polest esse ^o"i[j,°J
+**Sed contra:** 1. Ad rectificationem voluntatis duo sufficiunt, scilicet haec: *condonatio divinae misericordiae* et *contritio poenitentiae*; sed utrumque horum est possibile circa angelos lapsos esse: ergo et voluntatem eorum rectificari. — Quod autem possit esse *condonatio misericordiae*, ostenditur: quia misericordia Dei est infinita, peccatum luciferi et daemonum est finitum; sed infinitum vincit et superat finitum: ergo divina misericordia potest remittere illud peccatum. *Si tu dicas*, quod potest de potentia, sed non de condecentia; *contra*: decet misericordiam Dei summe manifestari, cum sit summa: ergo si sic manifestatur in summo, scilicet in remittendo maximum omnium peccatorum; et hoc fuit peccatum luciferi: ergo decet ipsum illud condonare[^4]. — Quod autem possit esse *dolor poenitentiae* in diabolo, ostenditur: quandocumque aliquis sentit sibi adesse quod odit, et abesse quod diligit dolet et tristatur, quia, sicut dicit Augustinus, de Civitate, decimo quarto[^5]: «Dolor est dissensus ab his rebus, quae nobis nolentibus accidunt»; sed diabolus scit, se ex peccato suo amisisse illam nobilitatem, quam habebat in caelo, et incurrisse poenam in inferno, et primum maxime diligit et secundum maxime odit: ergo poenitet de hoc quod fecit vel quod voluit, vel saltem possibile est, ipsum aliquando ad hunc statum devenire, si modo non est. — Ergo potest ex parte Angeli esse *dolor poenitentiae*, ex parte Dei *condonatio misericordiae*: ergo etc.
 
+2. Item, hoc ostenditur, quia, si voluntas Angeli non potest rectificari, aut hoc est ex parte *Dei*, aut ex parte *Angeli*, aut ex parte *peccati*.
 
-               1 Cap. 3. n. 8. Cfr. supra paij. 133, nota I.                           5 Libr. I. c. 2: Angelus ergo in summo lionoris sui ordine
-               - Cnp. 29. n. 9 , obi texlus originalis perpclua perditione      consiitutus , immutationcm ad cxcellenliorem statum non habuit,
-          pro aetorna damnatione. Vide eliam de Fide ad Pelrum , c.             nisi per conlemplationem sni Creatoris confirmalus in eo statu
-          3. n. 33.
-                                                                                permaneret, ubi condilus fuit; et idcireo, prolapsus, iterum re-
-                3 Nonnulli codd. cuni Val. Iioc esse ; aliqui codd. hoc         vocari minime potuit, qui de sublimissimo siii ordinis statu pro-
-          inesse. — Paulo superius verbum passio intelligitur proprictas ,      riiit. Homo vero adhuc in terra positus , gcnerandi oflicio de-
-          (luae in sensu sliicliore sumta sequitur principia speciei. Cfr.      stinatus etc. Cfr. etiam Isidor. , de Ordine creaturaruni , c. 8.
-          Doelli., IV. ct V. Comment. in Porphyr.                               n. i. seq. — Paulo superius Vat. meriti slatuti pro meriti
-                * Cfr. supra d. I. p. II. a. 1. q. 2. — Mo.\ aliqui codd. cum   et slatum.
-          cd. I omillunl primiim omnino.
-                                                                                                                                       177
-                                                   DIST. VII. P. I. ART. I. QUAEST. I.
-        condonatio misericordiae; dicendum, quod potesl de                 rem diabolus vel daemones habere non possunt,
-        potentia absoluta; sed de potentia ordinata , quae                 quia sunt exU'a statum , in quo datur gratia , et
-        operatur secundum ordineni sapienliae — et illum                   irregressibiliter sunt extra. Et ita patet illud.
-        ordinem Deus non corrumpit, imnio inviolabililer                         2. Ad illud quod obiicitur secundo, unde ve-
-        servat — non deliet esse nec potesl esse ; quia con-               niat impossibilitas; concedendum est, quod non ve-
-        silium Dei et dispositio non potest mutari aliqua                  nit ex parte Dei, sicut ostendunt tres rationes pri-
-        ratione.                                                           mae; nec ex parte na/Mrae Angeli , quantum est de
-               Ad illud ergo quod dicit, quod summe debet                  se , sicut ostendunt tres rationes secundo loco posi-
-        raanifestari misericordia : dicendum , quod sic debet              tae ; nec etiam ex parte magmtudinis peccati,
-        manifestari niisericordia , ut manifestetur etiam                  quantum est de se, sicut ostendunt tres rationes
-        iuslitia; et ideo decrevit divina bonitas in homine                ultimae. Sed hoc habet culpa ratione status. Quia soundum.
-        infirmiori et miserabiliori manifeslare misericordiam;             enim est voluntas extra meriti statum , abest omnis
-        et summe manifestavit , quando Unigenito non pe-                   gratia ; quia in statu damnationis, adest desperatio
-        percit ' ; in angelicis spiritibus placuit manifestare             certissima: quae duae sunt conditiones omnino dis-
-        itistiliam ; et sapientissime et eiegantissime faclum              ponentes vohmtatem ad impossibilitatem rectitudinis.
-        est, quia misericordia non aufert iustitiam, nec e                       Tamen illud quod obiicitur , quod non potest Ad rationem
-        converso. Et ideo erravit Origenes-, qui totum de-                                                                 inflni-cair"*''*'^'
-        dit misericordiae Dei et abstulit locum iustitiae ,                                 hominis ; quia
-                                                                                   ex parte peccati,
-                                                                           venirepeccatum
-                                                                           tum                                 volunt insolvere
-                                                                                                           non excedit
-                                                                                                       quidam                     , soiuuo aiio-
-Mdiim. quod quamvis non sit tantae impietatis in superficie,
-        tamen aequalis erroris est auferre a Deo aclum iu-                 quod etimmo,
-                                                                           mis,            quia intellectus
-                                                                                    ideo intelligit in instanti ,angelicus
-                                                                                                                  rationalis est
-                                                                                                                              sivedeifor-
-                                                                                                                                   colla- ™"''
-        stitiae , sicut auferre actum misericordiae.                       tivus in tempore °. Et ideo, quia peccatum Angeli
-               Ad jllud quod obiicitur de dolore poenitentiae,             est contra deiformem intellectum , excedit impropor-
-        quod potest esse in diabolo; dicendum, quod dolor                  tionabiliter peccatum hominis , sicut hnea impropor-
--. doior.poenitentiae est duobus modis. Aliquis enim dolet                 tionabiliter excedit punctum et tempus instans. —
-        de culpa propter damnimi, quod incurrit, et laesio-                Sed hoc non oporlet dicere , quia non oportet , quod noh proba-
-       nem ; et sic dolere potest quis ex puris naturalibus
-                                                                           morbus incurabilis curabilem excedat in infmitum, '"''
-       sine gratia gratis data; et tunc dolet, quando maio-                quia unus morbus , qui in uno statu est curabilis ,
-       rem senlit laesionem quani delectationem. Hanc dia-                 per crementum sive diuturnitatem fit incurabilis ;
-       bolus modo non habet propter habitudinem ' pec-                     ita est manifeste in morbo corporali ': Similiter vi-
-       candi , sed tamen habiturus est , cum absorbehitur                  demus manifeste in niorbo spirituali. Peccatum enim
-       a poenis post iudicium. Sed haec poenitentia non                    ante morlem est curabile , solo autem excessu mor-
-       disponit ad graliam, immo solum est poena, quia                     tis flt incurabile. Simile videmus in casu. Qui
-                                                                           enim cadit de loco parum eminenti non moritur ;
-     sic poenituit etiam ludas ■*. — Alio modo est dolor
-     poenitentiae , quo quis dolet de culpa, quia Dei                      qui aulem de turri cadit sine remedio laeditur ,
-     offensiva; et hic dolor disponit ad poenitentiam , et                 sed tamen magnitudo et altitudo non est impropor-
-     hic non est sine gratia eralis data ; et hunc dolo-                   tionabilis altitudini. Et ideo non valet illa ratio.
+Ostenditur igitur primo, quod non sit ex parte *Dei*, triplici ratione. Prima est haec: obstinatio malae voluntatis vel impossibilitas ad rectitudinem voluntatis est *defectus*, non *positio*, ergo non habet causam *efficientem*, sed *deficientem*[^6]; sed Deus nullius est causa deficiens: ergo non est causa vel ratio huius impossibilitatis. — Secunda est haec: «Deus *antecedenter* omnes homines et Angelos vult salvos fieri, ut dicit Damascenus[^7], quia non creavit sive plasmavit ad poenam, sed ad gloriam». Si ergo non vult angelos malos beatificari, hoc est voluntate *consequente*; sed «*voluntas consequens* est concessio ex causa nostra»: ergo alia ratio est ulterior, quare hoc concedit: non ergo voluntas Dei. — Tertia est haec: si diabolus veniam peteret, Dominus non repelleret, quia, sicut dicit Ambrosius[^8], «ipse recipit confugientes ad se; hoc iustitiae est»; sed contra iustitiam Deus nullo modo facit. — *Praeterea*, quantumcumque homo Deo servierit, si poenitet de bonis, Deus bona praeterita non acceptat: ergo similiter, si poenitet de malo, videtur, quod mala remittat; et hoc spectat ad summe misericordem: ergo ratio, quare voluntas diaboli non potest rectificari, non potest principaliter venire ex parte *Dei*, ut patet ex hac triplici ratione.
 
-                                                                SCHOLION.
-           I. Opinio Origenis, liberam arbitraim in puris crcaluris        quia damnati sunt extra viam i. e. e,\tra tcnipus gratiae et
-     semper posse flecti in bonum et malum , etiam in damnatis,            meriti. Quare autem iidem sint extra viam, S. Bonav. principalcm
-     est cri-or contra fidem. Hinc constat, (|uod tum in dacmonibus        esse ralionem affirmat Dei ordinationem, spiritibus et animabus
-     tum in animabus damnatis peccata sunt irremediabilia, et quod         terminum viae assignantcm. .\dmittit autem alias plures rationes
-     eorum voluntas quoad praeteritum cst obstinata in malo com-           congruentiae tum pro ista obslinaUone, tum pro eo , quod ter-
-     misso et impoenitens , et quoad futurum iinpotcns ad resur-           minus viae brevissimus sil in spiritibus, diuturnior in liomini-
-     gendum a peccato ( cfr. infra d. 43. a. 3. q. 2. ad 3 , et            bus. — Alii specialiorcm rationem invenire tentnnt. Sed eam
-     liic q. seq.). — Quae autcni sit ralio , quare libera voluntas        quam assignant complures iNominales , scil. quod ipse Deus
-     in damnatis imniobiliter adliaereat malo, doctores tentaverunt        pravum aliquem actum et necessarium causet in damnatis , alii
-     cxplicare multis et diversis viis, quarum octo ab ."Egid. R.          theologi merito exsecrantur. — Cclebris autem est sententia S.
-     (hic q. I. a. 2.) recensentur et improbantur, dum ipse nonam          Tiiomae, quod radicalis ratio quacrenda sit in inlrinseca na-
-     ct ab liis distinclam propugnat. In hoc lamen omnes conveniro         lura Angeli , et suo modo etiam animae seijaratae, quia scil.
-     videntur, quod ut istius impossibilitatis causa proxima, propria      natura pure spiritualis importet inflexibilitatem m eo quod
-     et necessaria assignanda sit « culpa rationc statusT (hic ad 2.),     voluntas semel deliberale et perfocte elegerit. Ilinc dicit (de
+Ostenditur etiam, quod non ex parte *naturae* *Angeli* venit haec impossibilitas. Primo *auctoritate* Augustini, de Fide ad Petrum[^9]: «Si humana natura, postquam a Deo aversa bonitatem perdidit voluntatis, ex se ipsa rursum habere potuisset; multo possibilius hoc natura haberet angelica, quae quanto minus gravatur pondere terreni corporis, tanto magis hac esset praedita facultate». — Item, hoc videtur secundo *ratione*, quia Angelus peccando non amisit arbitrii libertatem, quoniam libertas arbitrii est ei naturalis; sed ratione liberi arbitrii erat susceptibilis rectitudinis a sui natura: ergo adhuc, quantum est ex parte naturae suae, est susceptibilis. — Item, si natura Angeli esset causa illius impossibilitatis, et cuiuscumque res per modum *naturae* est causa, *Deus* similiter est causa[^10]; quia sola voluntas adversatur Deo: ergo Deus esset causa, qui talem naturam fecit; si ergo nullo modo *Deus* est causa impossibilitatis ad bonum, nec *natura Angeli*.
 
+Ostenditur etiam, quod ratio non sit ex parte *peccati* angelici: quia peccatum angelicum non excessit peccatum hominis *in infinitum* quantum ad aliquam conditionem, ergo non nocuit in infinitum plus quam peccatum hominis; sed peccatum hominis, etsi aufert rectitudinem, non tamen abstulit possibilitatem ad rectitudinem: ergo videtur, quod pec<!-- page 175 -->catum Angeli, etsi magis elongaverit, non elongavit infinite: ergo videtur, quod elongavit cum possibilitate ad reditum, et ita non videtur ratio ex parte *peccati*. — Item, quantulacumque gratia, si adveniret voluntati diaboli, expelleret totam culpam — loquor de gratia gratum faciente — sed morbus, qui modico remedio adveniente potest curari, non dicitur de se incurabilis, sed propter defectum remedii, si illud non adsit: ergo impossibilitas rectificationis[^11] in voluntate Angeli non est ratione *culpae* principaliter. — Item, culpa non inducit necessitatem voluntati, quia est in voluntate, secundum quod voluntas est, et ita secundum quod libera et vertibilis: ergo si non inducit necessitatem, ergo nec aufert possibilitatem ad oppositum, et ita ad rectitudinem: ergo non venit illa impossibilitas ex parte *peccati*, ergo nullo modo.
 
+### Conclusio.
 
-          ' Uom. 8 , 32 ; Proprio Filio suo non pepereit.                  iNom. c. 7. % 2, qui ctiMm ibid. c. i. % 32. ait : Daemoni ma-
-          - Libr. I. Periarch. c. 6. seq. Cfr. August. , XXI. de Civ.      lum conlra dciformem intellectum csse, animae conlra rationem,
-     Dci , c. 17. et 23, ubi Origenis sententia de salvando eliam          corpori contra naturam.
-     diabolo refellitur.                                                         " Plures codd. ul CHRS incurabili corporali. Paulo in-
-          ' .\liqui codd. ut F 1 Q cum cd. I libidinem.                    ferius cod. U post Peccatum enim addit qaod , 23    omissa dein
-          < .Matth. 27, 3.                                                 particula antem, quae etiam in pluribus aliis codd. et ed. 1
-          ^ Haec dilliarcntia intcllectus proponitur a Dionys. , de Div.   desideratur ; cod. L accessu niorlis pro excessu moriis.
-               S. Bornv. — Tom. II.
-         178                                                  SENTENTIARUM LIB. II.
+> *Daemonum obstinata voluntas non potest rectificari, quia est extra statum viae et meriti.*
 
-        Malo, q. 16. n. o. v.d 4.): « Immobiliter permaiipre in malo non      ct in solut. ad 2 ; tamen ut recte intelligntur mens eius, consule
-        convenit diabolo ex iina causa , sed ex duabus. Nam esse in           infra d. 21. a. .3. q. 2. Idem senlirc videtur Alex. Hal. et etiam
-        malo convenit ei ex propria voluntate; sed immobiliter inhae-         B. Albert., qui in obstinatione distinguit immobilcm a/]'ectum in
-        rere ei ad (juod voluntas applicalur, convenit ei ex propria          malo, a voluntate indurata procedentem, et poenani a Deo inlli-
-        natura». Idem hoc docet .S. I. q. 64. a. 2. ct S. c. Gcnt. IV.        ctam. Petr. auleni a Tar. et Richard. a Med. plures alTerunt
-        c. 9S; sed in Commenl. (hic q. I. a. 2.) non codcm modo rem           rationes , quin aliquid determinent.
-        explicat. — Contra assigniitam a S. Thoma ralionem arguunt                  H. Antiqui doctorcs praeter Alex. Hal. et Richardum a Med.
-        Durand. (hio q. 2.), Scotus (hic q. unica, Reporl. hic q. 2.) et      Iianc et duas seqq. q((. una quaest. absolvunt. Praeter iam
-        eiiam .ligid. K. (loc. cit.) , qui approbat rationem a S. Bonav.      citalos: Alex. Hal., S. p. II. q. 98. m. 4. — B. Albert., S. p.
-        prolatam, quam suo modo explicat, scil. quod ciilpae daniiiati        II. tr. 5. q. 23. ni. I. a. 4. — Pctr. a Tar., hic q. I. a. 2. —
-        haec inllicta sit poena , ut Deus nunquam specialem det imjiul-       Richard. a Med., hic a. 2. q. I. — Henr. Gand. , Quodl. 8.
-        sum ad ea quae simt gratiae. — Etiam S. Bonav. rationes               q. II. — Dionys. Carth., hic q. I. — Bicl, hie q. unica.
-        sumtas ex parte naturae non nisi ut congruas adniittit in corp.,
+**Respondeo:** Dicendum, quod sicut Sancti dicunt et auctoritates, voluntas diaboli nullo modo potest rectificari, secundum quod hoc verbum *potest* praedicat potentiam[^12] habentem aliquam *ordinationem ad actum*. Nam si intelligatur de potentia *efficientis absolute*, absque dubio potens est *Deus* diabolo restituere bonam voluntatem; tamen ex parte *diaboli* non est ordinatio aliqua ad hoc, immo facta est voluntas eius impossibilis, ut Sancti dicunt et rationes ostendunt.
+
+Si autem quaeratur *causa* impossibilitatis ad rectitudinem, intelligendum est ad hoc, quod ad rectitudinem voluntatis, per actuale peccatum lapsae, duo concurrunt, scilicet ex parte *voluntatis* poenitentia, ex parte *Dei* gratia sanans. Et utrumque deest diabolo; et ideo omnino deest ei via rectificationis.
+
+Si quaeras ulterius, quid horum est ratio defectus alterius; dicendum, quod *defectus poenitentiae* est ratio, quare deficit gratia gratum faciens, quia ad illam disponit poenitentia informis. — *Rursus*, si quaeratur, quare deficit *poenitentia*? dicendum, quod deficit gratia gratis data, quae praevenit voluntatem, ut poeniteat, et sine qua nemo unquam se praeparat ad gratiam, sicut iam melius patebit[^13]. — Si quaeratur, unde veniat defectus gratiae gratis datae, vel quae sit ratio; absque dubio defectus non potest habere nisi causam deficientem; et ita nec *Deus* nec *natura Angeli* potest esse prima causa; sed necessarium est, quod ipsa *culpa*[^14], qua diabolus ita aegrotavit et aegrotat, ut non pateat aditus gratiae. Et in hoc consentiunt communiter omnes, qui recte sapiunt circa materiam istam.
+
+Sed unde habeat *culpa* diaboli hanc irremediabilitatem, diversificati sunt varie opinantes.
+
+Quidam enim sumserunt rationem ex comparatione culpae ad *severitatem iudicantis*[^15]. Quia enim diabolus et angeli eius gravissime peccaverunt, Dominus severus iudex statim condemnavit eos; sicut iudex magnum latronem, in turpi latrocinio deprehensum, statim facit suspendi, quamvis differat suspendium unius parvi latronis, qui potuit habere aliquam excusationem. — Sed haec ratio congruitatis est: quia, esto quod diabolus minus peccasset, tunc videretur posse redire; et nos videmus, quod Deus facit misericordiam cum sceleratissimis frequenter, et aliquos aliquando, qui modicum peccaverunt, demergit in infernum; et ideo congruitas tantum est.
+
+Alii sumserunt rationem ex comparatione culpae ad *naturam peccantis*, quia peccans fuit substantia *spiritualis*, omnino non habens pondus carnis[^16]; et quia substantia spiritualis est *semper in actu* suo, unde non lassatur, immo continue habet inordinatam voluntatem et continue gratiam impugnat: ideo non offertur sibi gratia[^17]. — Sed istae non sunt rationes necessitatis; *tum* quia pondus carnis non inclinabat hominem primum ad peccatum, ideo nec adeo excusabat, ut peccatum eius caperet remedium rectitudinis; nec econtra carentia carnis adeo Angelum impediebat. *Similiter* nec alia ratio, quia Deus gratiam gratis datam frequenter dat homini existenti in actuali voluntate peccandi; haec enim simul stat cum culpa. Et huius exemplum patet in Paulo, qui conversus est et circumdatus luce in actu persecutionis[^18]. — Sunt tamen congruitates quaedam a latere.
+
+Alii sumserunt rationem ex parte culpae relatae ad *modum peccandi* per oppositum ad peccatum hominis; quia enim homo alio suggerente peccaverat, ideo dignum fuit alio relevari. *Rursus*, quia totum genus humanum ceciderat, ne totum periret, congruum fuit reduci ad rectitudinem. Econ<!-- page 176 -->tra est in angelicis spiritibus, quia non peccaverunt per tentationem, maxime lucifer; ideo non rediit. Unde Gregorius in Moralium quarto[^19]: «Nunquam lumen pristini status accepit, quia non persuasus amisit». *Similiter*, quia cecidit secundum partem, ita quod peccatum fuit particulare et personale; ideo non debuit rectificari. Unde Augustinus in Enchiridio[^20]: «Placuit universitatis Conditori, ut, quoniam non tota multitudo Angelorum Deum deserendo perierat, ea quae perierat, in aeterna damnatione remaneret». — Sed istae similiter sunt rationes congruitatis, quia si homo peccasset propria voluntate, sine suggestione, vel particulariter, non video, quomodo non posset recuperare bonam voluntatem, Domino restituente.
+
+Alii sumserunt rationem per comparationem ad *statum peccantis*, quia tempus meriti et status merendi erat eis praefixus usque ad primam bonam operationem vel malam; et ideo sicut homo, postquam tempus merendi pertransiit, quantumcumque peccaverit parum, dum tamen mortaliter et qualitercumque peccaverit, ultra non potest bonam voluntatem reacquirere; sic et de Angelis intelligendum est. Et hoc modo assignavit Damascenus, cum dixit, quod «hoc est Angelis casus, quod hominibus mors». Et similiter Augustinus de Fide ad Petrum, cum dixit: «Sic creavit Deus Angelos, ut qui vellent perpetuo boni essent, et qui nollent nunquam eos divino munere repararet». Et ita tempus meriti et statum praefixit usque ad primum conflictum. — Et hanc rationem credo propriam et necessariam. Et hoc patet: quia, si aliqua passio inest aliquibus subiectis, inest eis secundum aliquod commune; diabolus autem non potest bonam voluntatem recuperare, ita est obstinatus, et similiter Iudas et alius homo peccator damnatus. Constat, quod inesse[^21] non potest nec ratione *naturae* nec ratione *modi peccandi*, quia non est commune. Si ergo non invenitur communitas nisi a parte *status*, quia uterque est extra statum meriti, manifestum est, quod ista est ratio potissima et necessaria. — Et hoc clarius patet in peccato hominis, si diligentius consideretur. Nam peccatum Iudae in principio non abstulit possibilitatem ad iustitiam; et tamen sine additione et sine innovatione, *tempore merendi transeunte*, factus est impossibilis ad bonam voluntatem. Deus enim decrevit offerre gratiam, quamdiu est tempus merendi; quo transeunte, cum non faciat contra suam dispositionem, non offert gratiam, quae praeveniat voluntatem et formet ad poenitentiam; et ita remanet voluntas in impoenitentia sempiterna, et ita in culpa.
+
+*Et si tu obiicias*, quod cum Deus praeviderit, quod diabolus lapsurus erat sive peccaturus, quare praefixit ei ita *modicum* tempus merendi, ut non haberet spatium redeundi? notandum ad hoc, quod in conditione rerum non attenditur ratio *misericordiae* et *iustitiae* principaliter, sed *sapientiae*. Decrevit enim divina sapientia in universo facere duplicem creaturam rationalem, ad hoc quod esset universum completum: unam corpori unitam, ut animam rationalem; aliam absolutam et spiritualem, ut Angelum[^22]. Et quoniam substantia omnino spiritualis est omnino incorruptibilis et ingenerabilis, non potuit unus Angelus ex altero produci; ideo simul producti sunt; et sicut simul sunt producti, ita etiam simul glorificandi sive dispositi ad simul glorificari. Et quia sunt spirituales et incorruptibiles, nullo modo habentes *retardativum*; hinc est, quod in *loco* gloriae sunt conditi, scilicet in empyreo, et ita de proximo ad gloriam dispositi et ratione *naturae* et *loci*. Et ideo tempus meriti est eis ita breve praefixum, sicut potuit, et ideo usque ad primam aversionem vel conversionem deliberativam. — Homini vero, quia conditus est in corpore animali ad procreandam prolem ad cultum Dei, et ita in dispositione remotiori a gloria, datus est *locus* distans ad merendum a sui conditione, scilicet paradisus terrestris; et praefixus est ei *terminus* diuturnus propter officium procreandi prolem. Et propterea, cum peccavit angelus, statim exiit tempus meriti et statum, homo vero non; et ideo iste potuit rectificari, ille vero non. Et hoc est quod dicit Augustinus de Mirabilibus sacrae Scripturae[^23]: «Angelus de sublimissimo sui ordinis statu cecidit, ideo resurgere non potuit».
+
+Patet igitur, quod voluntas Angeli non est rectificabilis, nec fuit a tempore, ex quo cecidit. Quia enim fuit extra statum meriti, certissime revelata est ei sua damnatio; et ideo, sicut Beati non possunt timere damnationem, ita angelus malus propter certitudinem damnationis non potest *sperare* salutem, et propter absentiam gratiae non potest *poenitere*, et ideo nec bonus esse. — His visis, facile est omnia obiecta solvere.
+
+**Ad argumenta:** 1. Ad illud enim quod obiicitur, quod potest esse <!-- page 177 -->condonatio misericordiae; dicendum, quod potest de potentia *absoluta*; sed de potentia *ordinata*, quae operatur secundum ordinem sapientiae — et illum ordinem Deus non corrumpit, immo inviolabiliter servat — non debet esse nec potest esse; quia consilium Dei et dispositio non potest mutari aliqua ratione.
+
+Ad illud ergo quod dicit, quod summe debet manifestari misericordia: dicendum, quod sic debet manifestari *misericordia*, ut manifestetur etiam *iustitia*; et ideo decrevit divina bonitas in homine infirmiori et miserabiliori manifestare *misericordiam*; et summe manifestavit, quando Unigenito non pepercit[^24]; in angelicis spiritibus placuit manifestare *iustitiam*; et sapientissime et elegantissime factum est, quia misericordia non aufert iustitiam, nec e converso. Et ideo erravit Origenes[^25], qui totum dedit misericordiae Dei et abstulit locum iustitiae, quod quamvis non sit tantae impietatis in superficie, tamen aequalis erroris est auferre a Deo actum iustitiae, sicut auferre actum misericordiae.
+
+Ad illud quod obiicitur de dolore poenitentiae, quod potest esse in diabolo; dicendum, quod dolor poenitentiae est duobus modis. Aliquis enim dolet de culpa *propter damnum*, quod incurrit, et laesionem; et sic dolere potest quis ex puris naturalibus sine gratia gratis data; et tunc dolet, quando maiorem sentit laesionem quam delectationem. Hanc diabolus modo non habet propter habitudinem[^26] peccandi, sed tamen habiturus est, cum absorbebitur a poenis post iudicium. Sed haec poenitentia non disponit ad gratiam, immo solum est poena, quia sic poenituit etiam Iudas[^27]. — Alio modo est dolor poenitentiae, quo quis dolet *de culpa*, quia Dei offensiva; et hic dolor disponit ad poenitentiam, et hic non est sine gratia gratis data; et hunc dolorem diabolus vel daemones habere non possunt, quia sunt *extra statum*, in quo datur gratia, et irregressibiliter sunt extra. Et ita patet illud.
+
+2. Ad illud quod obiicitur secundo, unde veniat impossibilitas; concedendum est, quod non venit ex parte *Dei*, sicut ostendunt tres rationes primae; nec ex parte *naturae* Angeli, quantum est de se, sicut ostendunt tres rationes secundo loco positae; nec etiam ex parte *magnitudinis peccati*, quantum est de se, sicut ostendunt tres rationes ultimae. Sed hoc habet *culpa ratione status*. Quia enim est voluntas extra *meriti* statum, abest omnis gratia; quia in statu *damnationis*, adest desperatio certissima: quae duae sunt conditiones omnino disponentes voluntatem ad impossibilitatem rectitudinis.
+
+Tamen illud quod obiicitur, quod non potest venire ex parte *peccati*, quia non excedit in infinitum peccatum hominis; quidam volunt solvere, quod immo, quia intellectus angelicus est *deiformis*, et ideo intelligit in instanti, rationalis sive *collativus* in tempore[^28]. Et ideo, quia peccatum Angeli est contra deiformem intellectum, excedit improportionabiliter peccatum hominis, sicut linea improportionabiliter excedit punctum et tempus instans. — Sed hoc non oportet dicere, quia non oportet, quod *morbus* incurabilis curabilem excedat in infinitum, quia unus morbus, qui in uno statu est curabilis, per crementum sive diuturnitatem fit incurabilis; ita est manifeste in morbo corporali[^29]. Similiter videmus manifeste in morbo spirituali. Peccatum enim ante mortem est curabile, solo autem excessu mortis fit incurabile. Simile videmus in *casu*. Qui enim cadit de loco parum eminenti non moritur; qui autem de turri cadit sine remedio laeditur, sed tamen magnitudo et altitudo non est improportionabilis altitudini. Et ideo non valet illa ratio.
+
+### Scholion
+
+**I.** Opinio Origenis, liberum arbitrium in puris creaturis *semper* posse flecti in bonum et malum, etiam in damnatis, est error contra fidem. Hinc constat, quod tum in daemonibus tum in animabus damnatis peccata sunt irremediabilia, et quod eorum voluntas quoad praeteritum *obstinata* in malo commisso et impoenitens, et quoad futurum *impotens* ad resurgendum a peccato (cfr. infra d. 43. a. 3. q. 2. ad 3, et hic q. seq.). — Quae autem sit *ratio*, quare libera voluntas in damnatis immobiliter adhaereat malo, doctores tentaverunt explicare multis et diversis viis, quarum octo ab Aegid. R. (hic q. 1. a. 2.) recensentur et improbantur, dum ipse nonam et ab his distinctam propugnat. In hoc tamen omnes convenire videntur, quod ut istius impossibilitatis causa *proxima*, propria et necessaria assignanda sit «*culpa ratione status*» (hic ad 2.), quia damnati sunt extra *viam* i. e. extra tempus gratiae et meriti. Quare autem iidem sint extra viam, S. Bonav. principalem esse rationem affirmat Dei ordinationem, spiritibus et animabus terminum viae assignantem. Admittit autem alias plures rationes congruentiae tum pro ista obstinatione, tum pro eo, quod terminus viae brevissimus sit in spiritibus, diuturnior in hominibus. — Alii specialiorem rationem invenire tentant. Sed eam quam assignant complures Nominales, scil. quod ipse Deus pravum aliquem actum et necessarium causet in damnatis, alii theologi merito exsecrantur. — Celebris autem est sententia S. Thomae, quod *radicalis* ratio quaerenda sit in *intrinseca natura* Angeli, et suo modo etiam animae separatae, quia scil. natura pure spiritualis importet *inflexibilitatem* in eo quod voluntas semel deliberate et perfecte elegerit. Hinc dicit (de <!-- page 178 -->Malo, q. 16. a. 5. ad 4.): «Immobiliter permanere in malo non convenit diabolo ex una causa, sed ex duabus. Nam *esse in* malo convenit ei ex propria voluntate; sed *immobiliter inhaerere* ei ad quod voluntas applicatur, convenit ei ex propria natura». Idem hoc docet S. 1. q. 64. a. 2. et S. c. Gent. IV. c. 95; sed in Comment. (hic q. 1. a. 2.) non eodem modo rem explicat. — Contra assignatam a S. Thoma rationem arguunt Durand. (hic q. 2.), Scotus (hic q. unica, Report. hic q. 2.) et etiam Aegid. R. (loc. cit.), qui approbat rationem a S. Bonav. prolatam, quam suo modo explicat, scil. quod culpae damnati haec inflicta sit poena, ut Deus nunquam specialem det impulsum ad ea quae sunt gratiae. — Etiam S. Bonav. rationes sumtas ex parte *naturae* non nisi ut congruas admittit in corp., et in solut. ad 2; tamen ut recte intelligatur mens eius, consule infra d. 21. a. 3. q. 2. Idem sentire videtur Alex. Hal. et etiam B. Albert., qui in obstinatione distinguit immobilem *affectum* in malo, a voluntate indurata procedentem, et *poenam* a Deo inflictam. Petr. autem a Tar. et Richard. a Med. plures afferunt rationes, quin aliquid determinent.
+
+**II.** Antiqui doctores praeter Alex. Hal. et Richardum a Med. hanc et duas seqq. qq. una quaest. absolvunt. Praeter iam citatos: Alex. Hal., S. p. II. q. 98. m. 4. — B. Albert., S. p. II. tr. 5. q. 25. m. 1. a. 4. — Petr. a Tar., hic q. 1. a. 2. — Richard. a Med., hic a. 2. q. 1. — Henr. Gand., Quodl. 8. q. 11. — Dionys. Carth., hic q. 1. — Biel, hic q. unica.
+
+---
 
 ## English
+<!-- page 173 -->
 
-[Translation pending]
+### ARTICLE I.
+
+*On the malignity of obstinacy as regards the evil spirits.*
+
+### QUESTION I.
+
+*Whether the affection or will of a demon can be rectified.*
+
+It is asked, then, first, whether the affection or will of the demons can be rectified. And that it cannot, [thus] it seems.
+
+1. First, [John] Damascene[^1] says that «this is to the Angels [their] fall, what death is to men»: but a man after death cannot recover the good and right will which he lost in life: therefore etc.
+
+2. Likewise, Augustine in the book *On the Faith, to Peter*[^2]: «So did God create the Angels, that those who should will [it] would be perpetually good; and those who should not will [it], He would never restore by [His] divine gift».
+
+3. Likewise, this seems [so] by *reason*. The account of confirmation in good and of obstinacy in evil is alike; but the Angels[^3], as soon as they were well moved, were straightway confirmed <!-- page 174 -->in good: therefore the evil ones too, as soon as they sinned, were made obstinate in evil: just as, then, the good cannot fall, so neither can the evil rise again.
+
+4. Likewise, the Angel sinned more grievously than man, therefore he ought also to be punished more grievously; but the sin of man was punished by some irremediable penalty, as the penalty of death, from which none escapes: therefore it was necessary that the sin of the Angel, which was the death of the angelic spirit, be punished by the penalty of death. But it could not be punished by the death of [its] nature: therefore it was necessary that it be punished by the penalty of eternal damnation.
+
+**On the contrary:** 1. For the rectification of the will two things suffice, namely these: *the remission of divine mercy* and *the contrition of penitence*; but each of these is possible to be [present] concerning the fallen angels: therefore [it is possible] also that their will be rectified. — That there can be *the remission of mercy*, is shown: because the mercy of God is infinite, the sin of Lucifer and of the demons is finite; but the infinite conquers and surpasses the finite: therefore the divine mercy can remit that sin. *If you say* that He can by [absolute] power, but not by fittingness; *on the contrary*: it befits the mercy of God to be manifested in the highest degree, since it is supreme: therefore if it is thus manifested in the highest [degree], namely in remitting the greatest of all sins; and this was the sin of Lucifer: therefore it befits Him to remit it[^4]. — That there can be *the grief of penitence* in the devil, is shown: whenever someone perceives to be present to him what he hates, and to be absent what he loves, he grieves and is saddened, because, as Augustine says, *On the City [of God]*, book fourteen[^5]: «Grief is a dissent from those things which befall us unwilling»; but the devil knows that by his sin he has lost that nobility which he had in heaven, and has incurred a penalty in hell, and the first he loves greatly and the second he hates greatly: therefore he repents of what he did or what he willed, or at least it is possible that he should at some time come to this state, if he is not [in it] now. — Therefore there can be on the part of the Angel *the grief of penitence*, and on the part of God *the remission of mercy*: therefore etc.
+
+2. Likewise, this is shown [thus]: because, if the will of the Angel cannot be rectified, either this is on the part of *God*, or on the part of *the Angel*, or on the part of *the sin*.
+
+It is shown, then, first, that it is not on the part of *God*, by a threefold reason. The first is this: the obstinacy of the evil will, or the impossibility of [coming] to rectitude of will, is a *defect*, not a *positing*, therefore it does not have an *efficient* cause, but a *deficient* one[^6]; but God is the deficient cause of nothing: therefore He is not the cause or reason of this impossibility. — The second is this: «God *antecedently* wills all men and Angels to be saved, as Damascene says[^7], because He did not create or form [them] for punishment, but for glory». If, then, He does not will the evil angels to be beatified, this is by a *consequent* will; but «*the consequent will* is a concession from a cause on our side»: therefore there is some further reason why He concedes this: therefore [it is] not the will of God. — The third is this: if the devil were to ask pardon, the Lord would not repel [him], because, as Ambrose says[^8], «He Himself receives those who flee to Him; this belongs to justice»; but God in no way acts against justice. — *Moreover*, however much a man may have served God, if he repents of [his] good [deeds], God does not accept the past goods: therefore likewise, if he repents of evil, it seems that He remits the evils; and this pertains to one supremely merciful: therefore the reason why the will of the devil cannot be rectified cannot principally come on the part of *God*, as is clear from this threefold reason.
+
+It is shown also that this impossibility does not come on the part of *the nature* of *the Angel*. First by the *authority* of Augustine, *On the Faith, to Peter*[^9]: «If human nature, after being turned away from God [and] having lost the goodness of [its] will, could have it again of itself; much more possibly would the angelic nature have this, which, by as much as it is less weighed down by the burden of an earthly body, by so much the more would be endowed with this faculty». — Likewise, this seems [so] secondly by *reason*, because the Angel by sinning did not lose the liberty of choice, since liberty of choice is natural to it; but by reason of free choice it was capable of rectitude from its [own] nature: therefore still, as far as is on the part of its nature, it is capable. — Likewise, if the nature of the Angel were the cause of that impossibility, and [if] of whatever a thing is the cause through the mode of *nature*, *God* is likewise the cause[^10]; because the will alone is opposed to God: therefore God would be the cause, who made such a nature; if therefore in no way is *God* the cause of the impossibility for good, neither [is] *the nature of the Angel*.
+
+It is shown also that the reason is not on the part of *the sin* of the angel: because the angelic sin did not exceed the sin of man *infinitely* in respect of any condition, therefore it did not harm infinitely more than the sin of man; but the sin of man, although it takes away rectitude, did not however take away the possibility for rectitude: therefore it seems that the sin <!-- page 175 -->of the Angel, although it has set [him] further off, has not set [him] off infinitely: therefore it seems that it set [him] off with a possibility of return, and thus the reason does not seem [to be] on the part of *the sin*. — Likewise, however small a grace, if it should come to the will of the devil, would expel the whole fault — I speak of sanctifying grace — but a disease which can be cured by a small remedy when it is applied is not called incurable in itself, but on account of a defect of the remedy, if it be not at hand: therefore the impossibility of rectification[^11] in the will of the Angel is not principally by reason of *the fault*. — Likewise, the fault does not induce necessity upon the will, because it is in the will, according as the will is [will], and thus according as it is free and changeable: therefore if it does not induce necessity, then neither does it take away the possibility for the opposite, and thus for rectitude: therefore that impossibility does not come on the part of *the sin*, therefore in no way [at all].
+
+### Conclusion.
+
+> *The obstinate will of the demons cannot be rectified, because it is outside the state of the way and of merit.*
+
+**I respond:** It must be said that, as the Saints and the authorities say, the will of the devil can in no way be rectified, according as this word *can* predicates a potency[^12] having some *ordering to act*. For if it be understood of the potency of *an efficient [cause] absolutely*, without doubt *God* is able to restore a good will to the devil; yet on the part of *the devil* there is no ordering to this, but rather his will has been made impossible [of rectification], as the Saints say and the reasons show.
+
+But if the *cause* of the impossibility for rectitude be asked, it must be understood for this that for the rectitude of a will fallen through actual sin two things concur, namely on the part of *the will* penitence, on the part of *God* healing grace. And both are lacking to the devil; and therefore the way of rectification is wholly lacking to him.
+
+If you ask further, which of these is the reason of the defect of the other; it must be said that *the defect of penitence* is the reason why sanctifying grace fails, because formless penitence disposes to it. — *Again*, if it be asked, why does *penitence* fail? it must be said that the freely-given grace fails which prevents the will, that it may repent, and without which no one ever prepares himself for grace, as will appear better hereafter[^13]. — If it be asked whence comes the defect of the freely-given grace, or what is the reason; without doubt a defect can have only a deficient cause; and thus neither *God* nor *the nature of the Angel* can be the first cause; but it is necessary that [it be] the *fault* itself[^14], by which the devil so sickened and [still] sickens that the access of grace does not lie open. And in this all who rightly judge concerning this matter commonly agree.
+
+But whence the fault of the devil has this irremediableness, those who opine have varied in diverse ways.
+
+For some have drawn the reason from the comparison of the fault to the *severity of the one judging*[^15]. For because the devil and his angels sinned most grievously, the Lord, a severe judge, condemned them straightway; just as a judge has a great robber, caught in a base robbery, straightway hanged, although he defers the hanging of one petty robber, who could have had some excuse. — But this is a reason of fittingness: because, granted that the devil had sinned less, then it would seem he could return; and we see that God frequently shows mercy to the most wicked, and sometimes plunges into hell some who have sinned little; and therefore there is only [a reason of] fittingness.
+
+Others have drawn the reason from the comparison of the fault to the *nature of the one sinning*, because the one sinning was a *spiritual* substance, having no burden of flesh at all[^16]; and because a spiritual substance is *always in its act*, whence it is not wearied, but rather continually has a disordered will and continually assails grace: therefore grace is not offered to it[^17]. — But these are not reasons of necessity; *both* because the burden of the flesh did not incline the first man to sin, and so neither did it so excuse [him] that his sin should receive the remedy of rectitude; nor on the other hand did the absence of flesh so impede the Angel. *Likewise* neither [is] the other reason [valid], because God frequently gives freely-given grace to a man existing in an actual will to sin; for this stands together with the fault. And an example of this is clear in Paul, who was converted and encompassed with light in the very act of persecution[^18]. — There are nevertheless certain fittingnesses on the side.
+
+Others have drawn the reason on the part of the fault as related to the *mode of sinning* by way of opposition to the sin of man; for because man had sinned at another's suggestion, therefore it was fitting [for him] to be relieved by another. *Again*, because the whole human race had fallen, lest the whole should perish, it was fitting [for it] to be brought back to rectitude. The con<!-- page 176 -->trary is [the case] in the angelic spirits, because they did not sin through temptation, especially Lucifer; therefore he did not return. Whence Gregory in the fourth [book] of the *Morals*[^19]: «He never received the light of the former state, because he lost [it] not [having been] persuaded». *Likewise*, because he fell as to a part [only], so that the sin was particular and personal; therefore he ought not to be rectified. Whence Augustine in the *Enchiridion*[^20]: «It pleased the Creator of the universe that, since not the whole multitude of the Angels had perished by deserting God, that [part] which had perished should remain in eternal damnation». — But these likewise are reasons of fittingness, because if a man had sinned by his own will, without suggestion, or in a particular [way], I do not see how he could not recover a good will, the Lord restoring [it].
+
+Others have drawn the reason by comparison to the *state of the one sinning*, because the time of merit and the state of meriting was fixed for them up to the first good or evil operation; and therefore, just as a man, after the time of meriting has passed, however little he should sin, provided nevertheless he sin mortally and in whatever manner, can no longer reacquire a good will; so also it must be understood concerning the Angels. And in this manner Damascene assigned [it], when he said that «this is to the Angels [their] fall, what death is to men». And likewise Augustine *On the Faith, to Peter*, when he said: «So did God create the Angels, that those who should will [it] would be perpetually good, and those who should not will [it] He would never restore by [His] divine gift». And so He fixed the time of merit and the state up to the first conflict. — And this reason I believe to be proper and necessary. And this is clear: because, if any passion [property] is in any subjects, it is in them according to something common; but the devil cannot recover a good will, so obstinate is he, and likewise Judas and another damned sinful man. It is established that this being-in[^21] cannot [come] either by reason of *nature* or by reason of the *mode of sinning*, because it is not common. If, then, no commonness is found except on the part of the *state*, because each is outside the state of merit, it is manifest that this is the most powerful and necessary reason. — And this is clearer in the sin of man, if it be considered more diligently. For the sin of Judas in the beginning did not take away the possibility for justice; and yet without addition and without renewal, *the time of meriting passing away*, he was made incapable of a good will. For God decreed to offer grace as long as it is the time of meriting; this passing away, since He does not act against His disposition, He does not offer grace which should prevent the will and form it to penitence; and thus the will remains in everlasting impenitence, and thus in fault.
+
+*And if you object* that, since God foresaw that the devil was going to fall or sin, why did He fix for him so *little* a time of meriting, that he should not have space to return? it must be noted for this that in the constitution of things the reason of *mercy* and of *justice* is not principally regarded, but [that] of *wisdom*. For the divine wisdom decreed to make in the universe a twofold rational creature, to the end that the universe might be complete: one united to a body, namely the rational soul; the other absolute and spiritual, namely the Angel[^22]. And since a wholly spiritual substance is wholly incorruptible and ingenerable, one Angel could not be produced from another; therefore they were produced simultaneously; and just as they were produced simultaneously, so also [they were] to be glorified simultaneously, or disposed to be glorified simultaneously. And because they are spiritual and incorruptible, in no way having anything that retards [them]; hence it is that they were created in the *place* of glory, namely in the empyrean, and thus disposed near to glory both by reason of *nature* and of *place*. And therefore the time of merit was fixed for them as brief as it could be, and therefore up to the first deliberative aversion or conversion. — But to man, because he was created in an animal body for procreating offspring for the worship of God, and thus in a disposition more remote from glory, there was given a *place* distant for meriting from his condition, namely the earthly paradise; and a lasting *term* was fixed for him on account of the office of procreating offspring. And therefore, when the angel sinned, straightway the time of merit and the state went out, but not so for man; and therefore the latter could be rectified, but not the former. And this is what Augustine says *On the Marvels of Sacred Scripture*[^23]: «The Angel fell from the most sublime state of his order, therefore he could not rise again».
+
+It is clear, then, that the will of the Angel is not rectifiable, nor has been from the time at which it fell. For because it was outside the state of merit, its damnation was most certainly revealed to it; and therefore, just as the Blessed cannot fear damnation, so the evil angel, on account of the certitude of damnation, cannot *hope* for salvation, and on account of the absence of grace cannot *repent*, and therefore neither be good. — These things being seen, it is easy to solve all the objections.
+
+**To the arguments:** 1. For to that which is objected, that there can be <!-- page 177 -->the remission of mercy; it must be said that He can [do so] by *absolute* power; but by *ordained* power, which operates according to the order of wisdom — and that order God does not corrupt, but rather inviolably preserves — it neither ought to be nor can be; because the counsel of God and [His] disposition cannot be changed by any reason.
+
+To that, then, which it says, that mercy ought to be manifested in the highest degree: it must be said that *mercy* ought so to be manifested that *justice* also be manifested; and therefore the divine goodness decreed to manifest *mercy* in man, the weaker and more wretched; and it manifested [it] supremely, when He spared not [His] Only-begotten[^24]; in the angelic spirits it pleased [Him] to manifest *justice*; and it was done most wisely and most elegantly, because mercy does not take away justice, nor conversely. And therefore Origen erred[^25], who gave the whole to the mercy of God and took away the place of justice, which although it is not of so great impiety on the surface, yet it is of equal error to take away from God the act of justice, just as to take away the act of mercy.
+
+To that which is objected concerning the grief of penitence, that it can be in the devil; it must be said that the grief of penitence is in two modes. For someone grieves over a fault *on account of the harm* which he incurs, and the injury; and thus one can grieve from pure naturals without freely-given grace; and then he grieves when he feels a greater injury than delight. This [grief] the devil now does not have, on account of [his] habitual disposition[^26] of sinning, but nevertheless he will have [it], when he shall be absorbed by the punishments after the judgment. But this penitence does not dispose to grace, but rather is only punishment, for thus Judas too repented[^27]. — In another mode there is a grief of penitence by which someone grieves over a fault *because it is offensive to God*; and this grief disposes to penitence, and this is not without freely-given grace; and this grief the devil or the demons cannot have, because they are *outside the state* in which grace is given, and irreversibly are outside [it]. And so that is clear.
+
+2. To that which is objected secondly, whence the impossibility comes; it must be conceded that it does not come on the part of *God*, as the first three reasons show; nor on the part of the *nature* of the Angel, as far as is of itself, as the three reasons placed in the second place show; nor even on the part of the *magnitude of the sin*, as far as is of itself, as the last three reasons show. But the *fault* has this *by reason of the state*. For because the will is outside the state of *merit*, all grace is absent; because in the state of *damnation* there is present a most certain despair: which two are conditions wholly disposing the will to the impossibility of rectitude.
+
+Yet that which is objected, that [the impossibility] cannot come on the part of *the sin*, because it does not infinitely exceed the sin of man; some wish to solve [it], that on the contrary [it does], because the angelic intellect is *deiform*, and therefore understands in an instant, [whereas] the rational [intellect] is collative *in time*[^28]. And therefore, because the sin of the Angel is against a deiform intellect, it exceeds the sin of man disproportionately, just as a line disproportionately exceeds a point and the instant of time. — But this need not be said, because it is not necessary that an incurable disease exceed a curable one infinitely, since one disease, which in one state is curable, by increase or duration becomes incurable; thus it is manifestly in bodily disease[^29]. Likewise we see manifestly in spiritual disease. For sin before death is curable, but by the mere excess of death it becomes incurable. We see the like in a *fall*. For he who falls from a place not very high does not die; but he who falls from a tower is injured beyond remedy, yet the magnitude and the height is not disproportionate to the height. And therefore that reason is not valid.
+
+### Scholion
+
+**I.** The opinion of Origen, that free choice in pure creatures can *always* be bent to good and evil, even in the damned, is an error against the faith. Hence it is established that both in the demons and in the damned souls the sins are irremediable, and that their will is, as to the past, *obstinate* in the evil committed and impenitent, and as to the future *incapable* of rising again from sin (cf. below, d. 43, a. 3, q. 2, ad 3, and here in the following question). — But what is the *reason* why a free will in the damned immovably adheres to evil, the doctors have attempted to explain by many and diverse ways, of which eight are reviewed and disproved by Giles of Rome (here q. 1, a. 2), while he champions a ninth and distinct from these. In this, however, all seem to agree, that as the *proximate*, proper and necessary cause of this impossibility there must be assigned «*the fault by reason of the state*» (here, in the reply to [argument] 2), because the damned are outside the *way*, i.e. outside the time of grace and of merit. But why these same are outside the way, St. Bonaventure affirms the principal reason to be the ordination of God, assigning a term of the way to spirits and to souls. He admits, however, several other reasons of congruence both for that obstinacy, and for the fact that the term of the way is shortest in spirits, longer in men. — Others attempt to find a more special reason. But that which very many Nominalists assign, namely that God Himself should cause some depraved and necessary act in the damned, other theologians rightly execrate. — Celebrated, moreover, is the opinion of St. Thomas, that the *radical* reason is to be sought in the *intrinsic nature* of the Angel, and in its own manner also of the separated soul, namely because a purely spiritual nature implies *inflexibility* in that which the will has once deliberately and perfectly chosen. Hence he says (*On Evil*, <!-- page 178 -->q. 16, a. 5, ad 4): «To remain immovably in evil befits the devil not from one cause, but from two. For *to be in* evil befits him from his own will; but *immovably to adhere* to that to which the will is applied befits him from his own nature». The same he teaches in the *Summa* I, q. 64, a. 2, and *Summa contra Gentiles* IV, c. 95; but in the *Commentary* (here q. 1, a. 2) he does not explain the matter in the same way. — Against the reason assigned by St. Thomas argue Durandus (here q. 2), Scotus (here, the sole question; *Reportata*, here q. 2), and also Giles of Rome (in the place cited), who approves the reason brought forward by St. Bonaventure, which he explains in his own manner, namely that this penalty is inflicted on the fault of the damned, that God should never give a special impulse to the things which are of grace. — St. Bonaventure too admits the reasons drawn on the part of *nature* only as congruent, in the body [of the article] and in the reply to [argument] 2; yet, that his mind be rightly understood, consult below, d. 21, a. 3, q. 2. The same seems to be the opinion of Alexander of Hales and also of Blessed Albert, who in obstinacy distinguishes the immovable *affection* in evil, proceeding from a hardened will, and the *penalty* inflicted by God. But Peter of Tarentaise and Richard of Mediavilla bring forward several reasons without determining anything.
+
+**II.** The ancient doctors, except Alexander of Hales and Richard of Mediavilla, resolve this and the two following questions in one question. Besides those already cited: Alexander of Hales, *Summa* p. II, q. 98, m. 4. — Blessed Albert, *Summa* p. II, tr. 5, q. 25, m. 1, a. 4. — Peter of Tarentaise, here q. 1, a. 2. — Richard of Mediavilla, here a. 2, q. 1. — Henry of Ghent, *Quodlibet* 8, q. 11. — Dionysius the Carthusian, here q. 1. — Biel, here, the sole question.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation, renumbered 1–29 within this chunk. They are preserved verbatim from the Quaracchi 1885 critical apparatus (Tomus II, pp. 173–177). Quaracchi restarts footnote numbering on each printed page: the p.173 footer is a single `NOTAE AD COMMENTARIUM` stream and the boundary with the preceding `bon-sent-II-d7-p1-divisio` is a clean cross-chunk split on p.173 — that divisio owns p.173 NOTAE note ¹ (its [^1], DIVISIO TEXTUS *per gloriam*); this chunk begins its p.173 apparatus at NOTAE note ² (→ [^1]–[^3]); then p.174 (→ [^4]–[^10]), p.175 (→ [^11]–[^18]), p.176 (→ [^19]–[^23]), p.177 (→ [^24]–[^29]). The editorial Scholion I–II carries no numbered apparatus; its tail runs onto p.178, whose footer is wholly the next chunk's (`bon-sent-II-d7-p1-a1-q2`) — see Notes.
+
+[^1]: **La.** Libr. II. de Fide orthod. c. 4.
+
+    **En.** [John Damascene,] Book II, *On the Orthodox Faith*, c. 4.
+
+[^2]: **La.** Cap. 3. n. 32: Angeli ergo atque homines, pro eo quod rationales facti sunt, aeternitatis ac beatitudinis donum in ipsa naturae spirituali creatione divinitus acceperunt, ita scilicet, ut si dilectioni Creatoris sui iugiter inhaesissent, simul aeterni beatique mansissent; si vero propriae libertatis arbitrio contra summi Creatoris imperium suam niterentur facere voluntatem, protinus a contumacibus beatitudo discederet... Et de Angelis quidem hoc disposuit et implevit, ut si quis eorum bonitatem voluntatis perderet, nunquam eam divino munere repararet.
+
+    **En.** [*On the Faith, to Peter*,] c. 3, n. 32: The Angels therefore and men, in that they were made rational, received divinely the gift of eternity and of beatitude in the very creation of [their] spiritual nature, in such wise, namely, that if they should cleave perpetually to the love of their Creator, they would remain together eternal and blessed; but if by the choice of their own liberty they should strive to do their own will against the command of the most high Creator, beatitude would forthwith depart from the rebellious... And concerning the Angels indeed He so disposed and fulfilled [it], that if any of them should lose the goodness of [his] will, He would never restore it by [His] divine gift.
+
+[^3]: **La.** In codd. 1 Q bene additur *boni.*
+
+    **En.** In codices 1 Q the word *boni* [good] is rightly added.
+
+[^4]: **La.** Plures codd. ut K T V cc et ed. 1 *ordinare.*
+
+    **En.** Several codices, as K T V cc and ed. 1, [read] *ordinare* [to ordain].
+
+[^5]: **La.** Cap. 15. n. 2: Animae dolor, quae tristitia nuncupatur, dissensio est ab his rebus etc.
+
+    **En.** C. 15, n. 2: "The grief of the soul, which is called sadness, is a dissent from those things" etc.
+
+[^6]: **La.** August., XII. de Civ. Dei, c. 7. Ibid. c. 8. sequens propositio insinuatur.
+
+    **En.** Augustine, *On the City of God* XII, c. 7. In the same place, c. 8, the following proposition is suggested.
+
+[^7]: **La.** Libr. II. de Fide orthod., c. 29. Verba ipsius vide tom. I. pag. 728, nota 2, ubi etiam sunt verba eiusdem quae paulo inferius occurrunt; in quibus multi codd. cum edd. *excessus ex causa nostra* pro *concessio* (παραχώρησις) *ex causa nostra*, quibus Vat. addit *vel ex parte nostra.*
+
+    **En.** [John Damascene,] Book II, *On the Orthodox Faith*, c. 29. See his words in vol. I, p. 728, note 2, where there are also the words of the same [author] which occur a little below; in which many codices with the editions [read] *excessus ex causa nostra* [an excess from a cause on our side] for *concessio* (παραχώρησις) *ex causa nostra* [a concession from a cause on our side], to which the Vatican edition adds *vel ex parte nostra* [or on our part].
+
+[^8]: **La.** Super Epist. ad Rom. 3, 21: Cum suscipit confugientes ad se, iustitia dicitur.
+
+    **En.** *On the Epistle to the Romans* 3, 21: When He receives those who flee to Him, it is called justice.
+
+[^9]: **La.** Cap. 3. n. 34.
+
+    **En.** [*On the Faith, to Peter*,] c. 3, n. 34.
+
+[^10]: **La.** Aliis verbis: et si omnis effectus, quem quaelibet res per modum naturae producit, Deus similiter est causa, hinc, quia sola voluntas adversatur Deo, Deus esset causa perversae voluntatis et illius impossibilitatis ad bonum etc. — Vat. cum paucis codd. et ed. 1, refragantibus codd. C F K R S T W Y ee cum edd. 2, 3, 4, *et cuiuscumque rei* pro *et cuiuscumque res*; cod. 1. *rei natura.*
+
+    **En.** In other words: and if of every effect which any thing produces through the mode of nature God is likewise the cause, hence, because the will alone is opposed to God, God would be the cause of the perverse will and of that impossibility for good etc. — The Vatican edition, with a few codices and ed. 1, the codices C F K R S T W Y ee with edd. 2, 3, 4 resisting, [reads] *et cuiuscumque rei* for *et cuiuscumque res*; cod. 1 [reads] *rei natura.*
+
+[^11]: **La.** Nonnulli codd. *rectitudinis.*
+
+    **En.** Some codices [read] *rectitudinis* [of rectitude].
+
+[^12]: **La.** In plurimis mss. et primis edd. hic minus congrue additur *aliquam*, quod tamen cod. bb omittit et pro quo Vat. ponit *quandam.*
+
+    **En.** In very many manuscripts and the first editions there is here less congruously added *aliquam* [some], which however cod. bb omits and for which the Vatican edition puts *quandam* [a certain].
+
+[^13]: **La.** Hic ad 1. et infra d. 28. a. 2. q. 1. — Paulo superius cod. cc et ed. 1 *quae praeparat* pro *quae praevenit.*
+
+    **En.** Here, in the reply to [argument] 1, and below, d. 28, a. 2, q. 1. — A little above, cod. cc and ed. 1 [read] *quae praeparat* [which prepares] for *quae praevenit* [which prevents].
+
+[^14]: **La.** Supple: sit. — Cod. cc cum ed. 1 *sed nihil est aliud, quam ipsa culpa*, qui etiam cum cod. aa paulo inferius omittit *communiter.*
+
+    **En.** Supply: *sit* [be]. — Cod. cc with ed. 1 [reads] *sed nihil est aliud, quam ipsa culpa* [but it is nothing other than the fault itself], which [codex] also, with cod. aa, a little below omits *communiter* [commonly].
+
+[^15]: **La.** Cfr. Gregor., XXXII. Moral. c. 23. n. 47. et 49, Alanus de Insulis, II. de Art. cath. fidei, prop. 11.
+
+    **En.** Cf. Gregory, *Morals* XXXII, c. 23, nn. 47 and 49; Alan of Lille, *On the Art of the Catholic Faith* II, prop. 11.
+
+[^16]: **La.** Haec ratio insinuatur ab Isidoro, I. de Summo Bono seu Sent. c. 10. n. 11; Gregor., IV. Moral. c. 3. n. 8, et IX. c. 50. n. 76.
+
+    **En.** This reason is suggested by Isidore, *On the Highest Good* (or *Sentences*) I, c. 10, n. 11; Gregory, *Morals* IV, c. 3, n. 8, and IX, c. 50, n. 76.
+
+[^17]: **La.** Cfr. liber de Fide ad Petrum, c. 3. n. 33, ubi dicitur, quod «Deus in aeterno sic totam (partem) praecepit remanere supplicio, ut etiam ignem ei aeternum pararet, in quo illi omnes praevaricatores Angeli nec mala voluntate possint unquam carere nec poena, sed permanente in eis iniustae aversionis malo, permaneat etiam iustae retributionis aeterna damnatio». Similia docet Isidor., de Ordine creaturarum, c. 8. n. 4.
+
+    **En.** Cf. the book *On the Faith, to Peter*, c. 3, n. 33, where it is said that «God so decreed the whole (part) to remain in eternal punishment, that He should also prepare for it an eternal fire, in which all those prevaricating Angels can never be without either an evil will or punishment, but, the evil of unjust aversion remaining in them, the eternal damnation of just retribution should also remain». Isidore teaches similar things, *On the Order of Creatures*, c. 8, n. 4.
+
+[^18]: **La.** Act. 9, 1. seqq.
+
+    **En.** Acts 9, 1 ff.
+
+[^19]: **La.** Cap. 3. n. 8. Cfr. supra pag. 153, nota 1.
+
+    **En.** C. 3, n. 8. Cf. above, p. 153, note 1.
+
+[^20]: **La.** Cap. 29. n. 9, ubi textus originalis *perpetua perditione* pro *aeterna damnatione*. Vide etiam de Fide ad Petrum, c. 3. n. 33.
+
+    **En.** C. 29, n. 9, where the original text [reads] *perpetua perditione* [by perpetual perdition] for *aeterna damnatione* [in eternal damnation]. See also *On the Faith, to Peter*, c. 3, n. 33.
+
+[^21]: **La.** Nonnulli codd. cum Vat. *hoc esse*; aliqui codd. *hoc inesse.* — Paulo superius verbum *passio* intelligitur *proprietas*, quae in sensu strictiore sumta sequitur principia speciei. Cfr. Boeth., IV. et V. Comment. in Porphyr.
+
+    **En.** Some codices, with the Vatican edition, [read] *hoc esse* [this being]; some codices *hoc inesse* [this being-in]. — A little above, the word *passio* [passion] is understood [as] *proprietas* [property], which, taken in a stricter sense, follows the principles of the species. Cf. Boethius, *Commentary on Porphyry* IV and V.
+
+[^22]: **La.** Cfr. supra d. 1. p. II. a. 1. q. 2. — Mox aliqui codd. cum ed. 1 omittunt primum *omnino.*
+
+    **En.** Cf. above, d. 1, p. II, a. 1, q. 2. — Presently some codices with ed. 1 omit the first *omnino* [wholly].
+
+[^23]: **La.** Libr. I. c. 2: Angelus ergo in summo honoris sui ordine constitutus, immutationem ad excellentiorem statum non habuit, nisi per contemplationem sui Creatoris confirmatus in eo statu permaneret, ubi conditus fuit; et idcirco, prolapsus, iterum revocari minime potuit, qui de sublimissimo sui ordinis statu proruit. Homo vero adhuc in terra positus, generandi officio destinatus etc. Cfr. etiam Isidor., de Ordine creaturarum, c. 8. n. 4. seq. — Paulo superius Vat. *meriti statuti* pro *meriti et statum.*
+
+    **En.** Book I, c. 2: The Angel therefore, constituted in the highest order of his honor, did not have a change to a more excellent state, unless, confirmed through the contemplation of his Creator, he should remain in that state in which he was created; and therefore, having fallen, he who rushed down from the most sublime state of his order could in no way be recalled again. But man, still placed on earth, destined to the office of generating, etc. Cf. also Isidore, *On the Order of Creatures*, c. 8, n. 4 f. — A little above the Vatican edition [reads] *meriti statuti* for *meriti et statum.*
+
+[^24]: **La.** Rom. 8, 32: Proprio Filio suo non pepercit.
+
+    **En.** Rom. 8, 32: He spared not His own Son.
+
+[^25]: **La.** Libr. I. Periarch. c. 6. seq. Cfr. August., XXI. de Civ. Dei, c. 17. et 23, ubi Origenis sententia de salvando etiam diabolo refellitur.
+
+    **En.** *Peri Archon* (*On First Principles*) I, c. 6 f. Cf. Augustine, *On the City of God* XXI, c. 17 and 23, where Origen's opinion concerning the saving even of the devil is refuted.
+
+[^26]: **La.** Aliqui codd. ut F 1 Q cum ed. 1 *libidinem.*
+
+    **En.** Some codices, as F 1 Q, with ed. 1 [read] *libidinem* [lust].
+
+[^27]: **La.** Matth. 27, 3.
+
+    **En.** Matt. 27, 3.
+
+[^28]: **La.** Haec differentia intellectus proponitur a Dionys., de Div. Nom. c. 7. § 2, qui etiam ibid. c. 4. § 32. ait: Daemoni malum contra deiformem intellectum esse, animae contra rationem, corpori contra naturam.
+
+    **En.** This difference of the intellect is set forth by Dionysius, *On the Divine Names* c. 7, § 2, who also in the same place, c. 4, § 32, says: that for the demon evil is against the deiform intellect, for the soul against reason, for the body against nature.
+
+[^29]: **La.** Plures codd. ut C H R S *incurabili corporali.* Paulo inferius cod. U post *Peccatum enim* addit *quod*, omissa dein particula *autem*, quae etiam in pluribus aliis codd. et ed. 1 desideratur; cod. L *accessu mortis* pro *excessu mortis.*
+
+    **En.** Several codices, as C H R S, [read] *incurabili corporali.* A little below, cod. U after *Peccatum enim* adds *quod*, the particle *autem* being then omitted, which also in several other codices and ed. 1 is wanting; cod. L [reads] *accessu mortis* [by the approach of death] for *excessu mortis* [by the excess of death].
+
+---
+
+## Notes
+
+- This chunk is **ARTICULUS I, QUAESTIO I** of the COMMENTARIUS on Distinction VII, **Pars I** (*De obstinationis malignitate quoad malos spiritus* — whether the affection or will of a demon can be rectified). Per the locked Vol II chunking convention, the short `ARTICULUS I.` opener + article title (*De obstinationis malignitate quoad malos spiritus.*) + `QUAESTIO I.` (raw 12685–12690) are folded into this q1 chunk — there is no standalone article-divisio chunk. Structure: 4 *videtur* (Damascene / Augustine [Fulgentius] *de Fide ad Petrum* / *ratione* on the parallel of confirmation–obstinacy / the gravity-of-penalty argument) + **Sed contra** in two members (1: mercy + contrition suffice; 2: the impossibility is neither *ex parte Dei* [triple reason], nor *ex parte naturae Angeli* [triple], nor *ex parte peccati* [triple]) + *Conclusio* (blockquote) + a long multi-*opinio* **Respondeo** (the general impossibility; the *causa* analysis poenitentia/gratia; then four *opiniones* on whence the irremediableness — *severitas iudicantis* / *natura peccantis* / *modus peccandi* / *status peccantis*, the fourth declared *propria et necessaria*, each non-decisive one closed by a *Sed istae… congruitatis* rebuttal; the *Et si tu obiicias* wisdom-of-the-twofold-creature digression; the *Patet igitur* epilogue) + **Solutio** in two grouped replies (*Ad 1* the mercy/dolor objections; *Ad 2* the *unde impossibilitas* objection + the *deiform-intellect / morbus* sub-solution) + editorial **Scholion I–II**.
+- **Source discipline (Vol II override).** Latin re-set from the IA djvu OCR base (raw 12685–12992) over the 450 dpi pp.173–178 column-band crops (`tools/extract-pages.py --volume vol2 --pages 173-178 --dpi 450`; `tools/colcrop.py vol2 <p>`), read **Left column top→bottom, then Right column**, body bands then footer band, reflowed column-by-column (not raw-line order). The Respondeo + Solutio + every page-footer are the cascade-shattered regions where the column-band PDF read is authoritative; the videtur/contra running prose is clean OCR base. Editorial marginal glosses bleeding inline (*Fundamenta, Ad oppositum, conclusio 1/2, ratio generalis, Rationes magis speciales, Conclusio 3/4, Opinio 1–4, Non sufficit, Notandum, Obiectio…, Epilogus, Solutio oppositorum, Ad rationem ex parte peccati, Solutio aliorum, Non probatur, duplex dolor, Ratio 1/2*) trimmed per CLAUDE.md.
+- **`has_scholion: true`.** The editorial SCHOLION I–II (Origen's error; the survey of S. Thomas / Aegid. R. / Alex. Hal. / B. Albert. / Petr. a Tar. / Richard. a Med. on the *radical reason*) carries **no numbered apparatus** — only inline parenthetical cross-refs (de Malo q. 16, S. I q. 64 a. 2, S. c. Gent. IV c. 95, infra d. 21 a. 3 q. 2, etc.). Consistent with the Vol II editorial-scholion pattern (d4-a1-q1, d5-a1-q1).
+- **Cross-chunk footer — INCOMING divisio→a1-q1 at p.173 (RECEIVED clean, no backfill).** The committed `bon-sent-II-d7-p1-divisio` Notes document that p.173's footer is a single separately-headed **`NOTAE AD COMMENTARIUM`** stream whose note **¹** (`Cod. Y gratiam, quod respondet verbis Magistri, hic c. 1. Vat. paulo superius per conversionem pro post conversionem.`) is that divisio's **[^1]** (DIVISIO TEXTUS *per gloriam*). This chunk starts its p.173 apparatus at **NOTAE note ²** (`Libr. II. de Fide orthod. c. 4.` → [^1], videtur 1 *Damascenus*²), note **³** (`Cap. 3. n. 32: Angeli ergo atque homines…` → [^2], videtur 2 *Augustinus de Fide ad Petrum*³), note **⁴** (`In codd. 1 Q bene additur boni.` → [^3], videtur 3 *Angeli*⁴ *statim*). Verified by lemma on the p.173 crops; `bon-sent-II-d7-p1-divisio` not modified, no backfill.
+- **Cross-chunk footer — OUTGOING a1-q1→a1-q2 at p.178 (CLEAN, no split).** a1-q1's last numbered apparatus is **p.177 [^29]** (`Plures codd. ut C H R S incurabili corporali…`). The editorial SCHOLION I–II tail spans p.178 carrying **no** numbered apparatus; QUAESTIO II (*Utrum sit in eis malae voluntatis continuatio* — next chunk `bon-sent-II-d7-p1-a1-q2`) opens lower on p.178. All of p.178's footer (¹ `Vers. 15. — Glossa… apud Petrum Lombardum…`; ² `Vers. 8. — Glossa interlinearis apud Lyranum…`; ³ `Cap. 3. n. 33. Cfr. supra pag. 175, nota 7.`; ⁴ `Cfr. Comment. in Iob. 24, 17…`) anchors a1-q2's *videtur* (2 Cor. 6 / 1 John 3 / *de Fide ad Petrum* / per Hieronymum), so **all of p.178's footer is `bon-sent-II-d7-p1-a1-q2`'s** — take all p.178 footer at that build, no backfill into a1-q1. The clean no-apparatus-scholion-tail boundary pattern (as d4-a1-q1→a1-q2, d5-a1-q1→a1-q2).
+- **Apparatus crosswalk:** p.173 NOTAE ² ³ ⁴ → [^1]–[^3]; p.174 ¹–⁷ → [^4]–[^10] (¹ *condonare* / *ordinare* variant; ² Aug. *de Civ. Dei* XIV.15.2; ³ Aug. *de Civ. Dei* XII.7; ⁴ Damasc. *de Fide orthod.* II.29; ⁵ Ambr. *Super Rom.*; ⁶ *de Fide ad Petrum* 3.34; ⁷ *cuiuscumque rei/res* variant); p.175 ¹–⁸ → [^11]–[^18]; p.176 ¹–⁵ → [^19]–[^23]; p.177 ¹–⁶ → [^24]–[^29] (⁵ Dionys. *de Div. Nom.* L→R footer runover).
+- **No `[?]` flags.** All 29 body superscripts + the 5 page-footers (p.173 NOTAE, pp.174–177) verified on the 450 dpi column-band crops. Raw-OCR digit garbles corrected against the crops: p.174 n.2 = *Cap. 15. n. 2* (raw OCR *13*); p.176 n.1 = *Cfr. supra pag. 153* (raw OCR *133*). One custom high-zoom crop of p.178 SCHOLION II resolved the editorial cross-refs cleanly: *B. Albert., S. p. II. tr. 5. q. 25. m. 1. a. 4.* and *Petr. a Tar., hic q. 1. a. 2.* (raw OCR had *q. 23 … a. 2*; the crop is authoritative — q. 25, a. 2).
