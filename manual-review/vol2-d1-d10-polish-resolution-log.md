@@ -109,6 +109,35 @@ four d.9 items resolved:
   *de Vera Religione* locus. `[^5]` anchor placed in Latin and English.
   d.9 guard-rail audits re-run clean; build 541 translated.
 
+**d.1 (2026-05-22) — IN PROGRESS.** 600 dpi extract of printed pp.11, 12, 13.
+- `d1-littera` `[^22]` `Matth. 22,[?]` — the verse number is **37**, confirmed
+  on the 600 dpi p.13 footer note 3 (`Infra respicitur Matth. 22, 37; et
+  I. Cor. 13, 12.`). NOT 30 as the editorial best-guess supposed.
+- **DEFECT FOUND — `d1-littera` p.13 apparatus is mis-numbered; needs a
+  careful re-walk before `[^22]` can be cleanly closed.** The 600 dpi p.13
+  footer has **8 numbered notes**, not the 7 the chunk Notes claim. Printed
+  footer (verified at 600 dpi):
+  1. `Cfr. August., Enchirid. c. 29; XXII. de Civ. Dei, c. 1.`
+  2. `Vat. cum nonnullis edd. videatur.`
+  3. `Cfr. I. Sent. d. XL. c. 4. Infra respicitur Matth. 22, 37; et I. Cor. 13, 12.`
+  4. `II. Cor. 5, 4.`
+  5. `Cod. C perstiterunt, codd. A D cum edd. 1, 8 perstiter[u/a]nt; subinde Vat. perperam sublimetur, omnibus codd. et edd. refragantibus.`
+  6. `Vat. cum nonnullis edd. componens.`
+  7. `Libr. de Spiritu et anima, c. 14. (inter opera August.), et iterum Hugo a S. Vict., l. de Sacram. p. VI. c. 1.`
+  8. `Sola Vat. omittit verba et de rationali et non rationali, primo.`
+  The chunk currently has only 7 p.13 entries `[^20]`–`[^26]`, because
+  `[^22]` **merged printed notes 3 + 4** into one entry (and rendered the
+  II Cor verse as `5, 1` — should be `5, 4`). Printed note 4 (`II. Cor.
+  5, 4.`) needs its **own entry**; `[^23]`–`[^26]` then shift +1 to
+  `[^24]`–`[^27]`, and their body anchors must move with them. Additional
+  text-fidelity fixes the re-walk should make: `[^23]` (current) reads
+  `edd. 1, H` (printed `edd. 1, 8`) and `sublimatur` (printed `sublimetur`);
+  `[^25]` (current) reads *de Spiritu et anima* `c. 11` (printed `c. 14`).
+  This is a numbering/anchor repair, deliberately deferred from this pass
+  rather than half-fixed — the `[?]` on `[^22]` stays until it is done.
+- `d1-littera` `[^4]` anchor + `[^15]` Hugh ref — still PENDING.
+- `d1-p1-a1-q1`, `d1-p1-a1-q2`, `d2-*` — still PENDING.
+
 ## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — PENDING
 
 For every mid-page chunk boundary in d.1–d.10, verify against 450 dpi PDF
