@@ -153,7 +153,30 @@ four d.9 items resolved:
   headings. Fix needs a p.11-footer re-walk separating capitula-table notes
   from genuine d.1-littera notes + renumber — a focused rebuild, deferred.
   `[?]` on `[^4]` stays.
-- `d1-p1-a1-q1`, `d1-p1-a1-q2`, `d2-*` — still PENDING.
+- **DEFECT — `d1-p1-a1-q1` page-break comments are systematically
+  misplaced; deferred for a full layout re-audit.** 600 dpi page-tops
+  (pp.14–19, now extracted) vs chunk text: p.15 begins inside videtur
+  arg. 3 (`Deus se toto agit … producit totum`), p.16 at ad-oppositum
+  arg. 4 (`Item, artifex non potest producere…`), p.17 at `Fuerunt etiam
+  quarti…` — every `<!-- page N -->` marker drifts 4–16 lines late. Also
+  the printed p.14 top is **divisio** text not present in this quaestio
+  chunk (it belongs to `d1-p1-divisio`), so q1's p.13/p.14 boundary needs
+  re-tracing too. A page-layout re-audit across pp.13–19, deferred.
+- `d1-p1-a1-q1` `[^12]` (Aristotle `text. 28`), `[^13]` (Plato *Gorgias*
+  `pag. 465`), and the three Scholion IV `[?]` entries — still PENDING
+  (not reached this pass).
+- `d1-p1-a1-q2`, `d2-*` — still PENDING.
+
+### Summary of pass 1 so far (2026-05-22)
+
+Closed: all of **d.3** and **d.9** (8 flags; 3 were real OCR-mangle
+corrections). **d1-littera**: p.13 apparatus mis-merge repaired, `[^15]`
+resolved. Two real OCR digit-corrections elsewhere (`d9-a1-q9`,
+`d9-a1-q1`). Two **deferred structural defects** surfaced and documented
+for dedicated rebuilds: `d1-littera` p.11 apparatus (capitula-table notes
+mis-absorbed) and `d1-p1-a1-q1` page-break layout. Still pending:
+`d1-p1-a1-q1` `[^12]`/`[^13]`/Scholion-IV, `d1-littera [^4]`,
+`d1-p1-a1-q2`, all `d2-*`, `d3-p1-a1-q1 [^15]`; and Pass 3 entirely.
 
 ## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — PENDING
 
