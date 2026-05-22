@@ -91,7 +91,7 @@ Et ideo est positio recta, quod multitudo in rebus est a principio uno, quia est
 
 It is asked therefore first, whether from the first efficient [cause] there ought, or could, have been a multitude of things. And that there could not, it seems first thus:
 
-1. Through the Philosopher[^1]: «The same thing, behaving uniformly, is of its nature apt to produce the same effect»; but the first efficient [cause], being one, behaves altogether uniformly: therefore it seems that it could never have made many things, therefore one only.
+1. Through the Philosopher[^1]: «The same thing, behaving uniformly, is of its nature apt to produce the same effect»; but the first efficient [cause], being one, behaves altogether uniformly: therefore it seems that it could never[^2] have made many things, therefore one only.
 
 2. Likewise, from the supremely good evils can never come; from the supremely true, falsities cannot come: therefore from the supremely one, a multitude cannot come.
 
