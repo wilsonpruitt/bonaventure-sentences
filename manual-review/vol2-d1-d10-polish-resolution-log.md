@@ -133,9 +133,26 @@ four d.9 items resolved:
   text-fidelity fixes the re-walk should make: `[^23]` (current) reads
   `edd. 1, H` (printed `edd. 1, 8`) and `sublimatur` (printed `sublimetur`);
   `[^25]` (current) reads *de Spiritu et anima* `c. 11` (printed `c. 14`).
-  This is a numbering/anchor repair, deliberately deferred from this pass
-  rather than half-fixed — the `[?]` on `[^22]` stays until it is done.
-- `d1-littera` `[^4]` anchor + `[^15]` Hugh ref — still PENDING.
+  **RESOLVED** — the p.13 apparatus was re-walked and repaired: `[^22]` is
+  now printed note 3 alone (`Matth. 22, 37`), a new `[^23]` = `II. Cor. 5,
+  4.` was inserted (body anchor at *supervestiri*), `[^23]`–`[^26]` shifted
+  to `[^24]`–`[^27]`, and the `perstiterunt`/`edd. 1, 8`/`sublimetur`/`c.
+  14` text fixes were made. Build + d.1 audits re-verified.
+- `d1-littera` `[^15]` Hugh ref — **RESOLVED**. 600 dpi p.12 footer note 7
+  reads `…et ex Hugone, l. de Sacram. p. II. c. 1.`; `l.` = *liber*, `p. II`
+  = *pars* II. English corrected (the awkward "Book II [recte:…]" gloss
+  dropped). `[?]` cleared.
+- **DEFECT — `d1-littera` p.11 apparatus is mis-assigned; deferred for a
+  dedicated rebuild.** Chasing the `[^4]` anchor at 600 dpi showed footer
+  note 4 (`Codd. C T cum ed. 1 quousque`) anchors on `usquequo` in the
+  **Book II *capitula* table** (`Dist. XLII, Cap. II … usquequo poeniteat`),
+  not in d.1's littera. The capitula table fills most of p.11; note 1
+  (`…Quid`) likewise belongs to the capitula line `Quis sit bonus finis`,
+  not d.1's `Cap. I` rubric. So `[^1]`–`[^4]` (at least) are capitula-table
+  notes wrongly absorbed into the chunk and anchored in d.1's chapter
+  headings. Fix needs a p.11-footer re-walk separating capitula-table notes
+  from genuine d.1-littera notes + renumber — a focused rebuild, deferred.
+  `[?]` on `[^4]` stays.
 - `d1-p1-a1-q1`, `d1-p1-a1-q2`, `d2-*` — still PENDING.
 
 ## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — PENDING
