@@ -142,17 +142,20 @@ four d.9 items resolved:
   reads `…et ex Hugone, l. de Sacram. p. II. c. 1.`; `l.` = *liber*, `p. II`
   = *pars* II. English corrected (the awkward "Book II [recte:…]" gloss
   dropped). `[?]` cleared.
-- **DEFECT — `d1-littera` p.11 apparatus is mis-assigned; deferred for a
-  dedicated rebuild.** Chasing the `[^4]` anchor at 600 dpi showed footer
-  note 4 (`Codd. C T cum ed. 1 quousque`) anchors on `usquequo` in the
-  **Book II *capitula* table** (`Dist. XLII, Cap. II … usquequo poeniteat`),
-  not in d.1's littera. The capitula table fills most of p.11; note 1
-  (`…Quid`) likewise belongs to the capitula line `Quis sit bonus finis`,
-  not d.1's `Cap. I` rubric. So `[^1]`–`[^4]` (at least) are capitula-table
-  notes wrongly absorbed into the chunk and anchored in d.1's chapter
-  headings. Fix needs a p.11-footer re-walk separating capitula-table notes
-  from genuine d.1-littera notes + renumber — a focused rebuild, deferred.
-  `[?]` on `[^4]` stays.
+- **`d1-littera` p.11 apparatus mis-assignment — RESOLVED (rebuilt
+  2026-05-22).** Chasing `[^4]` at 600 dpi showed the printed p.11 footer
+  has 8 notes, of which **notes 1–4 anchor in the Book II *capitula*
+  table** (printed above DISTINCTIO I on p.11), not d.1's littera: note 1
+  = `Quis`/`Quid` on `Quis sit bonus finis`; notes 2–3 = the `ut ex
+  affectu` / `voluntarium` chapter-division notes; note 4 = `quousque`
+  for `usquequo` (`Dist. XLII Cap. II`). The build had absorbed all four
+  and anchored 1–3 on d.1's own Cap. I/II/III rubrics. **Repair:** the
+  four capitula-table entries deleted, the three spurious chapter-heading
+  markers removed, genuine notes (p.11 footer 5–8 + p.12 + p.13)
+  renumbered down by 4 → `[^1]`–`[^23]`. Build + d.1 audits re-verified;
+  chunk now has no `[?]` flags. (The capitula-table notes are simply
+  dropped — there is no Book II capitula-table chunk; if that front
+  matter is ever translated they get re-captured then.)
 - **DEFECT — `d1-p1-a1-q1` page-break comments are systematically
   misplaced; deferred for a full layout re-audit.** 600 dpi page-tops
   (pp.14–19, now extracted) vs chunk text: p.15 begins inside videtur
@@ -170,13 +173,15 @@ four d.9 items resolved:
 ### Summary of pass 1 so far (2026-05-22)
 
 Closed: all of **d.3** and **d.9** (8 flags; 3 were real OCR-mangle
-corrections). **d1-littera**: p.13 apparatus mis-merge repaired, `[^15]`
-resolved. Two real OCR digit-corrections elsewhere (`d9-a1-q9`,
-`d9-a1-q1`). Two **deferred structural defects** surfaced and documented
-for dedicated rebuilds: `d1-littera` p.11 apparatus (capitula-table notes
-mis-absorbed) and `d1-p1-a1-q1` page-break layout. Still pending:
-`d1-p1-a1-q1` `[^12]`/`[^13]`/Scholion-IV, `d1-littera [^4]`,
-`d1-p1-a1-q2`, all `d2-*`, `d3-p1-a1-q1 [^15]`; and Pass 3 entirely.
+corrections). **d1-littera fully done** — p.13 apparatus mis-merge
+repaired, `[^15]` resolved, and the p.11 apparatus mis-assignment
+rebuilt (4 capitula-table notes removed, renumbered to `[^1]`–`[^23]`,
+no `[?]` flags left). Three real OCR digit-corrections elsewhere
+(`d9-a1-q9`, `d9-a1-q1`). One **deferred structural defect** remains
+documented for a dedicated rebuild: `d1-p1-a1-q1` page-break layout.
+Still pending: `d1-p1-a1-q1` `[^12]`/`[^13]`/Scholion-IV + its
+page-break re-audit, `d1-p1-a1-q2`, all `d2-*`, `d3-p1-a1-q1 [^15]`;
+and Pass 3 entirely.
 
 ## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — PENDING
 
