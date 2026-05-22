@@ -45,7 +45,7 @@ Secundo quaeritur, utrum inter tempus et aevum sit aliqua mensura media. Et quod
 
 **Contra:**
 
-1. Ante quartum diem non erat tempus, quia dicitur in factione luminarium: *Erunt in signa et tempora et dies et annos*[^4]; et constat, quod non solum erat aevum, cum essent quaedam corporalia, ut herbae et arbusta: ergo erat alia mensura: ergo etc.
+1. Ante quartum diem non erat tempus, quia dicitur in factione luminarium: *Erunt in signa et tempora et dies et annos*[^4]; et constat, quod non solum erat aevum, cum essent aliqua corporalia, ut herbae et arbusta: ergo erat alia mensura: ergo etc.
 
 2. Item, post diem iudicii non erit tempus, secundum quod iurat Angelus in Apocalypsi[^5]; tamen erit successio et variatio in tormentis, quae non poterit aevo mensurari: ergo necesse est mensuram tertiam ab his ponere.
 
@@ -91,7 +91,7 @@ Secondly it is asked whether between time and the age there is any middle measur
 
 **On the contrary:**
 
-1. Before the fourth day there was no time, because it is said, at the making of the luminaries: *Let them be for signs and for times and for days and years*[^4]; and it is evident that there was not only the age, since there were certain corporeal things, like herbs and shrubs: therefore there was another measure: therefore, etc.
+1. Before the fourth day there was no time, because it is said, at the making of the luminaries: *Let them be for signs and for times and for days and years*[^4]; and it is evident that there was not only the age, since there were some corporeal things, like herbs and shrubs: therefore there was another measure: therefore, etc.
 
 2. Likewise, after the day of judgment there will be no time, according to what the Angel swears in the Apocalypse[^5]; yet there will be succession and variation in the torments, which cannot be measured by the age: therefore it is necessary to posit a third measure besides these.
 
@@ -173,4 +173,4 @@ But in another way time is taken insofar as it is the measure of variation, in w
 
 **Cross-chunk footer split — INHERITED from a2-q1 (p.65), and a2-q2→a2-q3 is CLEAN.** The p.65 footer was split by body anchor in session 19: notes 1–6 anchor a2-q1's body (committed in `d2-p1-a2-q1` as its `[^8]`–`[^13]`); **note 7 anchors a2-q2's arg-1 *libro de Causis*** and is taken here as `[^1]`. No backfill into committed `d2-p1-a2-q1` (its 13 entries are complete and correct). On the far side, a2-q2's Scholion I–III occupies the *top* of p.67 in small type and carries no apparatus; a2-q3 (`QUAESTIO III`, *Utrum spirituales et corporales substantiae simul creatae sint*, raw 5337+) then begins in normal type on p.67 — so **p.67's footer apparatus is a2-q3's, and the a2-q2→a2-q3 boundary is CLEAN (no split)**. (Pattern note: the a2-q1↔a2-q2 split happened because a2-q1's scholion was a single short paragraph that left room for a2-q2's body to start on the same page; a2-q2's scholion is a full I–III block that pushes a2-q3 onto its own footer — so the split does NOT recur at every a2 boundary, contrary to the session-19 conjecture.)
 
-**Decade polish (d.10 blocker).** No inline `[?]` flags. One low-confidence item for the 600 dpi d.1–d.10 pass: p.66 Contra-1 clause — the colcrop band clipped the right edge at `cum essent qu… corporalia… ergo erat a… mensura`; rendered from the IA OCR base (Vol II: OCR is base for clean *videtur* prose) as *cum essent quaedam corporalia … ergo erat alia mensura* (the 450 dpi crop's clipped right margin showed `aliqua` at one band edge — confirm `alia` vs `aliqua` and the `quaedam` expansion at 600 dpi; non-blocking, sense is unaffected: the Contra argues there was a third measure).
+**Decade polish (d.10 blocker).** No inline `[?]` flags. One low-confidence item for the 600 dpi d.1–d.10 pass: p.66 Contra-1 clause — the colcrop band clipped the right edge at `cum essent qu… corporalia… ergo erat a… mensura`; rendered from the IA OCR base (Vol II: OCR is base for clean *videtur* prose) as *cum essent quaedam corporalia … ergo erat alia mensura* (the 450 dpi crop's clipped right margin showed `aliqua` at one band edge — confirm `alia` vs `aliqua` and the `quaedam` expansion at 600 dpi; non-blocking, sense is unaffected: the Contra argues there was a third measure). **RESOLVED 2026-05-22** — 600 dpi p.66 shows *cum essent aliqua corporalia* (not *quaedam*) and *ergo erat alia mensura*; the body was corrected `quaedam`→`aliqua`.

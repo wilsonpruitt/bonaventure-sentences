@@ -211,9 +211,9 @@ God alone, therefore, who is pure act, is infinite in act, and has the whole *be
 
      **En.** See 1 Cor. 13:10 ff.
 
-[^7]: **La.** Verba, quae sequuntur, non sunt Hieronymi, sed Isidori, VII. Etym. c. 1. n. 12. Cfr. de hoc tom. I. pag. 446, nota 4.
+[^7]: **La.** Verba, quae sequuntur, non sunt Hieronymi, sed Isidori, VII. Etym. c. 1. n. 12. Cfr. de hoc tom. I. pag. 146, nota 4.
 
-     **En.** The words that follow are not Jerome's, but Isidore's, *Etymologies* VII, c. 1, n. 12. Cf. on this vol. I, p. 446, note 4.
+     **En.** The words that follow are not Jerome's, but Isidore's, *Etymologies* VII, c. 1, n. 12. Cf. on this vol. I, p. 146, note 4.
 
 [^8]: **La.** Cap. 20, ubi tripliciter exponitur, quod Deus sit etiam ultra ea, quae finem non habebunt, scil. quia ipsa sine Dei conservatione esse non possunt, tum quia ipsa cogitari possunt habere finem, tum quia ipsa de sua aeternitate nondum habent quod futurum est, et iam non habent quod est praeteritum, cum Dei et illorum aeternitas sit Deo tota praesens. — Textus s. Scripturae est Exod. 15, 18. — Circa finem argumenti cod. cc et ed. 1 *excedit creaturam* pro *excedit aeternitatem creaturae.*
 
@@ -268,4 +268,4 @@ God alone, therefore, who is pure act, is infinite in act, and has the whole *be
 
 **Cross-chunk footer boundary (CLEAN — no split).** Same pattern as q1→q2 and q2→q3: q3's last apparatus page is p.63, fully captured here; q3's Scholion carries no apparatus and ends on p.63. p.64 opens with the **ARTICULUS II** opener (`De mensura angelicae naturae in comparatione ad mensuram rei corporalis… De qua tria quaeruntur`, raw 5098+), which folds into the next chunk `d2-p1-a2-q1` (Vol II convention) — p.64's footer apparatus is a2's, not q3's. No backfill in either direction; the committed `d2-p1-a1-q2` (p.58 footer was q2's) is untouched.
 
-**Decade polish (d.10 blocker).** No `[?]` flags. One low-confidence item to eyes-on at 600 dpi with the d.1–d.10 batch: `[^7]` page reference rendered `tom. I. pag. 446` per the 450 dpi p.61 R-col crop; the cascade IA OCR rendered the figure ambiguously (`pag. UO`) — confirm 446 vs 440 at 600 dpi (non-blocking; the citation target — Isidore vs. Jerome attribution — is unaffected).
+**Decade polish (d.10 blocker).** No `[?]` flags. One low-confidence item to eyes-on at 600 dpi with the d.1–d.10 batch: `[^7]` page reference rendered `tom. I. pag. 446` per the 450 dpi p.61 R-col crop; the cascade IA OCR rendered the figure ambiguously (`pag. UO`) — confirm 446 vs 440 at 600 dpi (non-blocking; the citation target — Isidore vs. Jerome attribution — is unaffected). **RESOLVED 2026-05-22** — 600 dpi p.61 R footer note 7 reads `tom. I. pag. 146` (neither 446 nor 440); corrected.

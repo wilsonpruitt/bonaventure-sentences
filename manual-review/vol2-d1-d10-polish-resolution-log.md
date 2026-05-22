@@ -43,7 +43,7 @@ fields, `## Latin/English/Apparatus` structure, apparatus marker pairing
   paragraph start, the standard corpus approximation. Build re-verified
   (541 translated). `has_scholion`: a2-q2/a3-q1/a3-q2 true, dubia false.
 
-## Pass 1 — `[?]` flag resolution (d.1–d.10) — IN PROGRESS
+## Pass 1 — `[?]` flag resolution (d.1–d.10) — COMPLETE 2026-05-22
 
 Resolve every inline `[?]` and every "low-confidence, confirm at 600 dpi"
 note in d.1–d.10 via 600 dpi PDF eyes-on. For each: RESOLVE (with PDF
@@ -205,9 +205,32 @@ four d.9 items resolved:
     `quod cod. H ponit` is genuinely `H` — unchanged.) De-italicised the
     roman gloss `i. e. vasculum vel poculum`.
   - Build 541 translated; d.1 audits 0-flagged.
-- `d2-*`, `d3-p1-a1-q1 [^15]` — still PENDING.
+- **`d2-*` and `d3-p1-a1-q1` — RESOLVED 2026-05-22.** None of the d.2
+  chunks or `d3-p1-a1-q1` carried inline `[?]` flags; each instead
+  logged a "low-confidence item" in its Notes for the 600 dpi pass.
+  600 dpi extracts of printed pp.56, 59, 61, 66, 67, 69, 90 — all seven
+  confirmed:
+  - `d2-p1-a1-q1` `[^18]` — Greek `αἰών` (p.56) confirmed as transcribed.
+  - `d2-p1-a1-q2` `[^9]` (p.59) — **correction:** the connective is
+    *unde*, not *sed*, and the cod. T marginal quotation runs in italic
+    through *…unde haec auctoritas male citatur hic.* (`text. 93`
+    confirmed). La + En fixed.
+  - `d2-p1-a1-q3` `[^7]` (p.61) — **correction:** the cross-reference is
+    `tom. I. pag. 146`, not `446` (nor `440`). La + En fixed.
+  - `d2-p1-a2-q2` Contra-1 (p.66) — **correction:** the body reads *cum
+    essent aliqua corporalia* (not *quaedam*); *ergo erat alia mensura*
+    confirmed. La + En fixed `quaedam`→`aliqua`.
+  - `d2-p1-a2-q3` `[^5]` (p.67) — `Num. 37:` confirmed as transcribed.
+  - `d2-p1-dubia` `[^3]`/`[^4]` (p.69) — `Psalm. 135, 6` and
+    `Psalm. 103, 5` confirmed as transcribed.
+  - `d3-p1-a1-q1` `[^15]` — `II. de Fide orthod. c. 29` and the Greek
+    lemma confirmed as transcribed. Crosswalk note: the `[^15]` footer
+    physically sits in **p.90's footer (note 8)**, not p.91 as the
+    chunk's apparatus crosswalk states — off by one page boundary,
+    flagged in the chunk Notes for the future apparatus pass.
+  Build 541 translated; d.2/d.3 guard-rail audits 0-flagged.
 
-### Summary of pass 1 so far (2026-05-22)
+### Summary of pass 1 (2026-05-22) — COMPLETE
 
 Closed: all of **d.3** and **d.9** (8 flags; 3 were real OCR-mangle
 corrections); **d1-littera fully done** (p.13 apparatus mis-merge
@@ -218,9 +241,17 @@ six markers repositioned in both bodies), `[^12]`/`[^13]` resolved,
 Scholion IV re-transcribed verbatim. One new follow-up flagged: the
 `d1-p1-a1-q1` `[^6]` footer-merge needs a dedicated apparatus re-walk.
 **`d1-p1-a1-q2` also fully done** (`[^3]` `ni`→`ut` + `mutatus`→`mundus`
-correction; `[^49]` `H`→`ff` codex-list correction). **All of d.1 is now
-Pass-1 clean.** Still pending: all `d2-*`, `d3-p1-a1-q1 [^15]`;
-and Pass 3 entirely.
+correction; `[^49]` `H`→`ff` codex-list correction). **All of d.2 and
+`d3-p1-a1-q1` confirmed** (3 real corrections: `d2-p1-a1-q2` `[^9]`
+`sed`→`unde`, `d2-p1-a1-q3` `[^7]` `446`→`146`, `d2-p1-a2-q2` Contra-1
+`quaedam`→`aliqua`; 4 confirmed-as-transcribed).
+
+**PASS 1 IS COMPLETE** — every `[?]` flag and every logged low-confidence
+item in d.1–d.10 has been resolved against 600 dpi PDF. Two follow-ups
+are parked for a dedicated **apparatus re-walk** (not a `[?]` task):
+`d1-p1-a1-q1 [^6]` footer-merge, and `d3-p1-a1-q1`'s off-by-one apparatus
+crosswalk. **Only Pass 3 (cross-chunk boundary integrity sweep) remains
+before the d.11 gate opens.**
 
 ## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — PENDING
 

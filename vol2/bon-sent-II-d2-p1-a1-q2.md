@@ -223,9 +223,9 @@ The three opinions here reviewed are also reported by St. Thomas (here q. 1, a. 
 
      **En.** *Physics* IV, text 100 ff. and 130 f. (c. 11 and 14). — Augustine, *Confessions* XI, c. 23, n. 30 ff., and *On the City of God* XII, c. 15, n. 1 f.
 
-[^9]: **La.** In cod. T ad marg. a manu quasi suppari habetur: *Immo hoc dicit Philosophus quarto Physicorum (text. 93.)*; sed haec auctoritas male citatur hic. Verba Aristotelis vide supra pag. 58, nota 5. — Paulo superius cod. cc et ed. 1 *recti* pro *certi.*
+[^9]: **La.** In cod. T ad marg. a manu quasi suppari habetur: *Immo hoc dicit Philosophus quarto Physicorum (text. 93.); unde haec auctoritas male citatur hic.* Verba Aristotelis vide supra pag. 58, nota 5. — Paulo superius cod. cc et ed. 1 *recti* pro *certi.*
 
-     **En.** In codex T, at the margin, by an almost contemporary hand, there stands: *Rather, the Philosopher says this in the fourth [book] of the Physics (text 93)*; but this authority is wrongly cited here. For the words of Aristotle see above, p. 58, note 5. — A little above, codex cc and ed. 1 [read] *right* (*recti*) for *certain* (*certi*).
+     **En.** In codex T, at the margin, by an almost contemporary hand, there stands: *Rather, the Philosopher says this in the fourth [book] of the Physics (text 93); whence this authority is wrongly cited here.* For the words of Aristotle see above, p. 58, note 5. — A little above, codex cc and ed. 1 [read] *right* (*recti*) for *certain* (*certi*).
 
 [^10]: **La.** Libr. IV. Phys. text. 102. et 131. seq. (c. 11. et 14.).
 
@@ -298,4 +298,4 @@ The three opinions here reviewed are also reported by St. Thomas (here q. 1, a. 
 
 **Cross-chunk footer boundary (CLEAN — no split).** Same pattern as q1→q2: q2's last apparatus page is p.60, fully captured here. q2's Scholion sits physically at the foot of p.61 but carries no apparatus. p.61's footer apparatus block anchors in the **q3** body (`QUAESTIO III`, *Utrum spiritualia habeant permanentem, vel successivam mensuram*, raw 4913+), which begins in normal type at the top of p.61 above its own footer — that block belongs to the next chunk (`d2-p1-a1-q3`), not here. Likewise, p.58's footer (notes 1–5) is q2's, not q1's — confirmed and used here (no backfill into the committed `d2-p1-a1-q1`, whose 26 entries close at p.57). No backfill in either direction.
 
-**Decade polish (d.10 blocker).** One `[?]` flag: `[^9]` (p.59 note 4) — the colcrop L/R split clipped the far-left of the R-column footer continuation; rendered `sed haec auctoritas male citatur hic` (standard phrase; the visible glyph was `…e haec auctoritas`). Low-confidence, non-blocking; confirm the opening word (`sed` vs. another connective) at 600 dpi with the d.1–d.10 batch. No other ambiguities — the 450 dpi crops were otherwise clean.
+**Decade polish (d.10 blocker).** One `[?]` flag: `[^9]` (p.59 note 4) — the colcrop L/R split clipped the far-left of the R-column footer continuation; rendered `sed haec auctoritas male citatur hic` (standard phrase; the visible glyph was `…e haec auctoritas`). Low-confidence, non-blocking; confirm the opening word (`sed` vs. another connective) at 600 dpi with the d.1–d.10 batch. No other ambiguities — the 450 dpi crops were otherwise clean. **RESOLVED 2026-05-22** — 600 dpi p.59 shows the word is *unde* (not *sed*), and the cod. T marginal quotation runs in italic through *…unde haec auctoritas male citatur hic.*; corrected (`text. 93` confirmed).
