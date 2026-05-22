@@ -247,11 +247,27 @@ correction; `[^49]` `H`→`ff` codex-list correction). **All of d.2 and
 `quaedam`→`aliqua`; 4 confirmed-as-transcribed).
 
 **PASS 1 IS COMPLETE** — every `[?]` flag and every logged low-confidence
-item in d.1–d.10 has been resolved against 600 dpi PDF. Two follow-ups
-are parked for a dedicated **apparatus re-walk** (not a `[?]` task):
-`d1-p1-a1-q1 [^6]` footer-merge, and `d3-p1-a1-q1`'s off-by-one apparatus
-crosswalk. **Only Pass 3 (cross-chunk boundary integrity sweep) remains
-before the d.11 gate opens.**
+item in d.1–d.10 has been resolved against 600 dpi PDF.
+
+**Both apparatus follow-ups also CLOSED 2026-05-22** (separate from the
+`[?]` pass but completed in the same session, ahead of Pass 3):
+
+- **`d1-p1-a1-q1 [^6]` footer-merge** — RESOLVED. The merged `[^6]` was
+  split: new `[^6]` = `Cod. Q ratione formae.` (anchored at *formae* in
+  fundam. 6 per the printed ⁴ on p.15 L column); new `[^7]` = the
+  Aristotle *Metaph.* note (anchored at *Prima Philosophia* per ⁵).
+  All `[^7]`–`[^34]` shifted to `[^8]`–`[^35]` in both bodies and in
+  the apparatus; chunk now carries 35 entries (was 34). La/En body
+  anchors and apparatus defs verified to all match 1–35.
+- **`d3-p1-a1-q1` apparatus crosswalk** — RESOLVED. The chunk's
+  transcription_status and Notes crosswalks were corrected from the
+  off-by-one description (`p.91 footer notes 1–10 → [^15]–[^24]`) to
+  the verified `p.89 notes 1–7 → [^1]–[^7]; p.90 notes 1–9 → [^8]–[^16];
+  p.91 notes 1–8 → [^17]–[^24]`. Content was already correct in source
+  order; only the per-page description needed fixing.
+
+**Only Pass 3 (cross-chunk boundary integrity sweep) remains before the
+d.11 gate opens.**
 
 ## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — PENDING
 
