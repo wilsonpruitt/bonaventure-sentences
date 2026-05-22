@@ -16,7 +16,7 @@ has_scholion: true
 has_apparatus: true
 line_start: 2019
 line_end: 2410
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 2019–2410), fresh literal English translation, full apparatus from raw OCR (37 entries across 6 printed pages, chunk-internal renumbering), scholion (I–IV) translated, [?] flags on ambiguous OCR spots and bibliographic refs (2026-05-13)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 2019–2410), fresh literal English translation, full apparatus from raw OCR (37 entries across 6 printed pages, chunk-internal renumbering), scholion (I–IV) translated. [^3] and [^49] codex-variant [?] flags resolved against 600 dpi PDF pp.19, 24 (d.1–d.10 polish-blocker, 2026-05-22; orig. 2026-05-13)"
 format_version: 1
 ---
 
@@ -220,9 +220,9 @@ illuminates. In the first way God was always in act, since he himself is pure ac
 
     **En.** *Physics* VIII, text 73 (c. 9), and *On the Heavens* II, text 23 (c. 4). — In *Physics* VIII, text 53-60 (c. 7) it is proved that motion with respect to place — i.e. local motion — is more perfect than the others; and at the same place, text 73-78 (c. 8-9), and *On the Heavens* II, text 22-32 (c. 4) it is shown that circular motion is the more perfect among them and is appropriate to the heaven, which by reason of this motion is the measure of all other motions.
 
-[^3]: **La.** Hoc et sequens arg. insinuantur ab Aristot., VIII. *Phys.* text. 10 seqq. (c. I.) et XII. *Metaph.* text. 29 (XI. c. 6.). — Paulo inferius plures codd. ni B E F H K V *mundus incepit* pro *mutatus incipit*. [?]
+[^3]: **La.** Hoc et sequens arg. insinuantur ab Aristot., VIII. *Phys.* text. 10. seqq. (c. I.) et XII. *Metaph.* text. 29. (XI. c. 6.). — Paulo inferius plures codd. ut B E F H K V *mundus incepit* pro *mundus incipit*.
 
-    **En.** This and the following argument are intimated by Aristotle, *Physics* VIII, text 10 ff. (c. 1), and *Metaphysics* XII, text 29 (XI, c. 6). — A little below several manuscripts — namely B E F H K V — read *mundus incepit* ("the world began") for *mutatus incipit* ("the changed [one] begins"). [?]
+    **En.** This and the following argument are intimated by Aristotle, *Physics* VIII, text 10 ff. (c. 1), and *Metaphysics* XII, text 29 (XI, c. 6). — A little below, several codices such as B, E, F, H, K, V read *mundus incepit* ("the world began") for *mundus incipit* ("the world begins").
 
 [^4]: **La.** Tempus ab Aristot., IV. *Phys.* text. 108 (c. 11.) ita definitur: «numerus motus secundum prius et posterius et continuum». De iis quae sequuntur, notentur haec ex Aristot., qui IV. *Phys.* text. 114 (c. 12.) ait: «Tempus est mensura motus ipsiusque moveri; metitur autem hoc motum determinando quendam motum, qui mensurabit totum». Text. 133 (c. 14.): «Quoniam autem est latio, et huius [primi] species est circularis... si igitur primum mensura omnium cognatorum est circumlatio regularis mensura maxime erit, quia numerus huius notissimus est... Quapropter et videtur tempus esse sphaerae motus... Etenim tempus ipsum esse videtur circulus quidam». Ibid. text. 121 (c. 13.): «Ipsum autem nunc est continuatio temporis... continuat enim tempus praeteritum et futurum et omnino terminus temporis est; est enim huius [futuri] quidem principium, illius [praeteriti] autem finis». — Aliquanto inferius cod. cc cum ed. 1 *quod et finis* pro *quod finis*, et dein cod. aa *quod est terminus* pro *quod terminus*.
 
@@ -404,9 +404,9 @@ illuminates. In the first way God was always in act, since he himself is pure ac
 
     **En.** Codex I inserts *cum et ipse non incipiat* ("when he himself also does not begin"). A little before, many codices with ed. 1 read *posset* for *possit*, less congruously.
 
-[^49]: **La.** Codd. F Y *cc* H et ed. 1 *retrahat intelligibilia* (cod. *cc* et ed. 1 *intellectualia*) *aspiciendo*; Vat. *a sensibus se trahat ad... aliquo modo perciperet*. Eadem Vat. paulo inferius *lutum* pro *potum* i. e. *vasculum vel poculum* (cfr. Du Cange, glossarium), quod cod. H ponit; plures codd. *potum*. [?]
+[^49]: **La.** Codd. F Y *cc* ff et ed. 1 *retrahat intelligibilia* (cod. *cc* et ed. 1 *intellectualia*) *aspiciendo*; Vat. *a sensibus se trahat ad... aliquo modo perciperet*. Eadem Vat. paulo inferius *lutum* pro *potum* i. e. vasculum vel poculum (cfr. Du Cange, glossarium), quod cod. H ponit; plures codd. *potum*.
 
-    **En.** Codices F, Y, *cc*, H, and ed. 1 read *retrahat intelligibilia* (*cc* and ed. 1 *intellectualia*) *aspiciendo*; the Vatican ms. has *a sensibus se trahat ad... aliquo modo perciperet*. The same Vatican ms. a little below reads *lutum* ("clay") for *potum* — i.e. a small vessel or cup (cf. Du Cange's glossary) — which codex H gives; several codices read *potum*. [?]
+    **En.** Codices F, Y, *cc*, ff, and ed. 1 read *retrahat intelligibilia* (*cc* and ed. 1 *intellectualia*) *aspiciendo*; the Vatican ms. has *a sensibus se trahat ad... aliquo modo perciperet*. The same Vatican ms. a little below reads *lutum* ("clay") for *potum* — i.e. a small vessel or cup (cf. Du Cange's glossary) — which codex H gives; several codices read *potum*.
 
 [^50]: **La.** Hic modus loquendi sumtus est ex *Libro de Causis*, prop. 20 (alias 21), ubi dicitur de prima unitate, quod sit *in fine simplicitatis*; et ex Aristot., XII. *Metaph.* text. 39 (XI. c. 7.), ubi verbum ἄριστον, i. e. *optimum*, in translatione Arabico-latina vertitur *in fine nobilitatis*. Cfr. tom. I. pag. 638, nota 1, et pag. 806, nota 6. — Mox cod. cc et ed. 1 *vocis imperio* pro *voluntatis imperio*.
 
@@ -478,4 +478,4 @@ illuminates. In the first way God was always in act, since he himself is pure ac
 
 **Marginal glosses trimmed.** The OCR contains several editorial marginal glosses bleeding inline (e.g. `Ad oppositum`, `Fundamenta`, `Conclusio`, `Solutio`, `Distinctio`, `Notandum`, `Aliae rationes`, `Exemplum`, `Iudicium auctoris`, `Quaestio incidentalis`, `Solvendum`, `Alii aliter intelligunt Aristotelem`, `Alia solutio`); per CLAUDE.md these are not rendered as text or headings. The structural divisions (the six rationes Philosophi, the six fundamenta per se nota, the conclusio, the respondeo with replies 1–6, Scholion I–IV) are surfaced via bold numbering and section headings within the body.
 
-**Ambiguities** (full disposition in `manual-review/tier2-ambiguities-II-d1-p1-a1-q2.md`): a few OCR-level uncertainties marked `[?]` inline — codex-letter list at [^3], *potum/lutum* variant at [^49]. Page-break positions are taken from explicit Quaracchi running-head and page-number lines in raw OCR (lines 33, 103, 168, 251, 317 of the chunk).
+**Ambiguities — RESOLVED 2026-05-22** (d.1–d.10 polish-blocker pass 1, 600 dpi PDF pp.19, 24): `[^3]` — OCR `ni` corrected to `ut`, and the base reading is *mundus incipit* (not *mutatus incipit*; the chunk body already had *mundus incipit*); `[^49]` — first codex list corrected `H`→`ff` (`Codd. F Y cc ff et ed. 1`). No `[?]` flags remain. Page-break positions are taken from explicit Quaracchi running-head and page-number lines in raw OCR.

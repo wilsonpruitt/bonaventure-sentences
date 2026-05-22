@@ -192,7 +192,20 @@ four d.9 items resolved:
     `[^22]`-class merge; one body anchor unplaced. Needs a dedicated
     apparatus re-walk (cascading `[^7]`+ renumber). Logged for a future
     apparatus pass; out of scope for the `[?]`-flag pass.
-- `d1-p1-a1-q2`, `d2-*` — still PENDING.
+- **`d1-p1-a1-q2` — RESOLVED 2026-05-22 (both `[?]` flags).** 600 dpi
+  extract of printed pp.19, 24.
+  - `[^3]` (p.19 R-column footer note 3) — the OCR `ni` is **`ut`**
+    (`plures codd. ut B E F H K V`), and the base reading is **`mundus
+    incipit`**, not `mutatus incipit` — the codd. variant is `mundus
+    incepit` (perfect) for the base `mundus incipit` (present). The
+    chunk body already carried the correct `mundus incipit`. Also
+    restored the printed periods (`text. 10. seqq.`, `text. 29.`).
+  - `[^49]` (p.24 footer note 7) — the first codex list reads `Codd. F
+    Y cc ff et ed. 1`; the chunk had misread `ff` as `H`. (The later
+    `quod cod. H ponit` is genuinely `H` — unchanged.) De-italicised the
+    roman gloss `i. e. vasculum vel poculum`.
+  - Build 541 translated; d.1 audits 0-flagged.
+- `d2-*`, `d3-p1-a1-q1 [^15]` — still PENDING.
 
 ### Summary of pass 1 so far (2026-05-22)
 
@@ -204,7 +217,9 @@ deferred structural defect: `printed_pages` corrected to 14–19,
 six markers repositioned in both bodies), `[^12]`/`[^13]` resolved,
 Scholion IV re-transcribed verbatim. One new follow-up flagged: the
 `d1-p1-a1-q1` `[^6]` footer-merge needs a dedicated apparatus re-walk.
-Still pending: `d1-p1-a1-q2`, all `d2-*`, `d3-p1-a1-q1 [^15]`;
+**`d1-p1-a1-q2` also fully done** (`[^3]` `ni`→`ut` + `mutatus`→`mundus`
+correction; `[^49]` `H`→`ff` codex-list correction). **All of d.1 is now
+Pass-1 clean.** Still pending: all `d2-*`, `d3-p1-a1-q1 [^15]`;
 and Pass 3 entirely.
 
 ## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — PENDING
