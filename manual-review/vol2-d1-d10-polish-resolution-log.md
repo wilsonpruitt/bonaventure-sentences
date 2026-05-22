@@ -156,31 +156,55 @@ four d.9 items resolved:
   chunk now has no `[?]` flags. (The capitula-table notes are simply
   dropped — there is no Book II capitula-table chunk; if that front
   matter is ever translated they get re-captured then.)
-- **DEFECT — `d1-p1-a1-q1` page-break comments are systematically
-  misplaced; deferred for a full layout re-audit.** 600 dpi page-tops
-  (pp.14–19, now extracted) vs chunk text: p.15 begins inside videtur
-  arg. 3 (`Deus se toto agit … producit totum`), p.16 at ad-oppositum
-  arg. 4 (`Item, artifex non potest producere…`), p.17 at `Fuerunt etiam
-  quarti…` — every `<!-- page N -->` marker drifts 4–16 lines late. Also
-  the printed p.14 top is **divisio** text not present in this quaestio
-  chunk (it belongs to `d1-p1-divisio`), so q1's p.13/p.14 boundary needs
-  re-tracing too. A page-layout re-audit across pp.13–19, deferred.
-- `d1-p1-a1-q1` `[^12]` (Aristotle `text. 28`), `[^13]` (Plato *Gorgias*
-  `pag. 465`), and the three Scholion IV `[?]` entries — still PENDING
-  (not reached this pass).
+- **`d1-p1-a1-q1` — RESOLVED 2026-05-22 (page-break re-audit + all
+  `[?]` flags).** 600 dpi extract of printed pp.13–19. Findings:
+  - **QUAESTIO I begins on p.14, not p.13.** Printed p.13 is entirely
+    *littera* (Cap. V–VI) + COMMENTARIUS + DIVISIO TEXTUS — i.e. the
+    `d1-p1-divisio` chunk. The q1 chunk had a spurious `<!-- page 13 -->`;
+    `printed_pages` corrected `[13–19]`→`[14–19]`, `pdf_pages`→`[36–41]`,
+    `source` p.13→p.14.
+  - The Quaracchi page is two-column with **full-width ARTICULUS/QUAESTIO
+    headings**; reading order L-column then R-column. Page starts
+    (verified at left-column tops): p.14 = ARTICULUS I; p.15 = mid-fundam.
+    3 (`...se toto agit`); p.16 = ad opp. 4 (`Item, artifex non potest
+    producere`); p.17 = `Fuerunt etiam quarti, scilicet Peripatetici`;
+    p.18 = mid-solut. 5 (`...non potest fieri, quia`); p.19 = mid-Schol.
+    II.2 (`...e contra-/rio`). All six `<!-- page N -->` comments
+    repositioned; the chunk previously had markers only in the Latin body —
+    a parallel set was added to the English body (corpus convention).
+  - `[^12]` — RESOLVED. p.15 footer note 11 reads `Text. 28. (VI. c. 8.)`;
+    *text. 28* confirmed, `[?]` cleared.
+  - `[^13]` — RESOLVED. p.16 footer note 1 reads `Plato, Gorg. (ed.
+    Serrani, tom. I. pag. 465)`; *465* confirmed, `[?]` cleared.
+  - **Scholion IV — re-transcribed verbatim from 600 dpi p.19.** The
+    earlier text was a degraded-OCR guess wrong in nearly every entry;
+    corrected (`de Rerum princip. q. 5`; S. Thom. `hic q. 1. a. 2; S. I.
+    q. 45. a. 1. 2; de Potent. q. 3. a. 1; S. c. Gent. II. c. 15. 16`;
+    B. Albert. `tr. 1. q. 1. 2; q. 4. m. 1. a. 1. partic. 1. 3; m. 2.
+    a. 1`; Petr. a Tar. `hic q. 1. a. 1. 2, et q. 2. a. 1`; Richard. a
+    Med. `hic a. 1. q. 1, a. 3. q. 1. 2. 3`; Aegid. R. `hic p. 1. q. 2.
+    a. 1-4`; Henr. Gand. `S. a. 2. q. 23`; Durand. `hic q. 1`; Dionys.
+    Carth. `hic q. 2. 3`). All three flagged `[?]` cleared. Build 541
+    translated; d.1 guard-rail audits 0-flagged.
+  - **NEW follow-up flag (not fixed):** chunk `[^6]` merges two distinct
+    p.15 printed footer notes (footer 4 `Cod. Q ratione formae.` + footer
+    5 `Libr. IX. Metaph. ...`) under one marker — the d1-littera
+    `[^22]`-class merge; one body anchor unplaced. Needs a dedicated
+    apparatus re-walk (cascading `[^7]`+ renumber). Logged for a future
+    apparatus pass; out of scope for the `[?]`-flag pass.
 - `d1-p1-a1-q2`, `d2-*` — still PENDING.
 
 ### Summary of pass 1 so far (2026-05-22)
 
 Closed: all of **d.3** and **d.9** (8 flags; 3 were real OCR-mangle
-corrections). **d1-littera fully done** — p.13 apparatus mis-merge
-repaired, `[^15]` resolved, and the p.11 apparatus mis-assignment
-rebuilt (4 capitula-table notes removed, renumbered to `[^1]`–`[^23]`,
-no `[?]` flags left). Three real OCR digit-corrections elsewhere
-(`d9-a1-q9`, `d9-a1-q1`). One **deferred structural defect** remains
-documented for a dedicated rebuild: `d1-p1-a1-q1` page-break layout.
-Still pending: `d1-p1-a1-q1` `[^12]`/`[^13]`/Scholion-IV + its
-page-break re-audit, `d1-p1-a1-q2`, all `d2-*`, `d3-p1-a1-q1 [^15]`;
+corrections); **d1-littera fully done** (p.13 apparatus mis-merge
+repaired, `[^15]` resolved, p.11 apparatus mis-assignment rebuilt);
+and **`d1-p1-a1-q1` fully done** — page-break layout re-audited (the
+deferred structural defect: `printed_pages` corrected to 14–19,
+six markers repositioned in both bodies), `[^12]`/`[^13]` resolved,
+Scholion IV re-transcribed verbatim. One new follow-up flagged: the
+`d1-p1-a1-q1` `[^6]` footer-merge needs a dedicated apparatus re-walk.
+Still pending: `d1-p1-a1-q2`, all `d2-*`, `d3-p1-a1-q1 [^15]`;
 and Pass 3 entirely.
 
 ## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — PENDING
