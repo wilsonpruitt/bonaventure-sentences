@@ -171,9 +171,9 @@ operation: an *animal*, an *intellectual*, and a *divine* [operation]. The anima
 
      **En.** Especially the Neoplatonists, among whom Proclus is eminent. What Proclus teaches more at length (*Elements of Theology and Physics*, prop. 201) is set forth more briefly in the book *On Causes*, prop. 3, thus: *Every noble soul has three operations. For among its operations is the animal operation and the intelligible operation and the divine operation. The divine operation is so [called] because [the soul] itself prepares nature with the power which is in it from the first cause; its intelligible operation is so [called] because it itself knows things through the power of intelligence which is in it; its animal operation is so [called] because it itself moves the first body and all natural bodies — since it is the cause of the motion of bodies and the cause of the operation of nature* etc. Cf. also prop. 9.
 
-[^9]: **La.** Cfr. supra pag. 15, nota 5. et pag. 226, nota 5.
+[^9]: **La.** Cfr. supra pag. 43, nota 3. et pag. 226, nota 3.
 
-     **En.** Cf. above, p. 15, note 5, and p. 226, note 5.
+     **En.** Cf. above, p. 43, note 3, and p. 226, note 3.
 
 [^10]: **La.** Plures codd. *spiritibus*.
 
