@@ -90,6 +90,25 @@ Inventory gathered 2026-05-22:
 - `d3-p1-a1-q1` `[^15]` (Damascene chapter, from the original inventory) —
   still PENDING; not yet swept.
 
+**d.9 (2026-05-22)** — 600 dpi extract of printed pp.238, 243, 256, 257. All
+four d.9 items resolved:
+- `d9-a1-q8` `[^12]` — RESOLVED. p.256 footer 3 reads `Cod. aa subiungit in
+  Deum` at 600 dpi; siglum `aa` confirmed. `[?]` dropped, no content change.
+- `d9-a1-q9` `[^8]` — RESOLVED **with correction**. p.257 footer 6 reads
+  `B. Albert., hic a. 5. ad ult.` — the OCR `S.` mangled `5`, not `8`. The
+  chunk's provisional `a. 8` was wrong; corrected to `a. 5` in the Latin and
+  English apparatus. `[?]` dropped.
+- `d9-a1-q1` SCHOLION II — RESOLVED **with correction**. p.243 R-col scholion
+  reads `subiungimus Petr. a Tar., hic a. 3. 4.` — trailing numeral is `4`,
+  not the provisional `1`. Corrected in the Latin and English scholion.
+  `[?]` dropped.
+- `d9-divisio` `[^5]` (genuine dropped anchor, from pass 2) — RESOLVED. The
+  body anchor was missing in both languages though the apparatus def
+  (`Cap. 30. n. 56.`) existed. 600 dpi p.238 shows superscript ¹ after
+  `de Vera Religione` in *Definitio I*; `Cap. 30. n. 56.` is the Augustine
+  *de Vera Religione* locus. `[^5]` anchor placed in Latin and English.
+  d.9 guard-rail audits re-run clean; build 541 translated.
+
 ## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — PENDING
 
 For every mid-page chunk boundary in d.1–d.10, verify against 450 dpi PDF
