@@ -9,6 +9,11 @@ quaestio: 2
 type: quaestio
 title_la: "Utrum Angelus naturali dilectione magis diligat superiorem, an parem, an inferiorem."
 title_en: "Whether the Angel by natural love loves more the superior, or the equal, or the inferior."
+printed_pages: [127, 128]
+pdf_pages: [149, 150]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 127–128"
+has_scholion: true
+has_apparatus: true
 line_start: 9505
 line_end: 9601
 word_count_latin: 1397
@@ -19,6 +24,7 @@ format_version: 1
 # bon-sent-II-d3-p2-a3-q2
 
 ## Latin
+<!-- page 127 -->
 
 ### QUAESTIO II.
 
@@ -58,6 +64,8 @@ Respondeo: Dicendum, quod magis diligere aliquem, hoc potest esse tripliciter: a
 
 Ratione boni optati dicitur quis aliquem magis diligere, quando maius bonum optat; et sic dicitur diligere magis, quia ad maius. Hoc modo naturali dilectione, procedente ex iudicio rationis rectae, magis diligebat Angelus Angelum superiorem. Volebat enim, ipsum excellere et plus boni habere, sicut et Deus conditor voluit sic ordinare. — Ratione affectus intensi dicitur aliquis magis alterum diligere, quando affectio eius plus trahit ad[^10] alterum, et magis consolatur de eius societate; et sic dicitur aliquis magis illum diligere, cum quo libentius cohabitat. Et sic Angelus magis diligebat per naturam Angelum eiusdem ordinis; quia, sicut naturali affectu magis diligit quis compatriotas suos, maxime quando conformantur[^11] sibi in moribus; et sicut magis diligit homo eum qui est eiusdem professionis et officii, ubi invidia non interponit partes suas: sic Angelus alterum Angelum eiusdem ordinis magis dilectione naturali amplecti intelligendus est[^12], cum se videret a Conditore in officii aequalitate et naturae similitudine illi sociatum, nec esset tunc morum diversitas nec invidiae malignitas. — Ratione effectus sive beneficii impensi dicitur quis magis eum diligere, cui plura bona impendit, et circa quem magis sollicitatur: sicut mater magis confovet filium tenellum et sollicitior est circa illum quam circa adultum, et magis circa infirmum quam circa sanum. Et huius ratio est consideratio maioris indigentiae. Et hoc modo dici potest, quod Angelus superioris ordinis magis diligit Angelum inferioris[^13], quia Angelus paris vel superioris ordinis non indiget sic sua instructione, sive purgatione, secundum quod Angelus inferioris ordinis.
 
+<!-- page 128 -->
+
 Et sic secundum diversas vias membra propositae quaestionis se habent sicut excedentia et excessa, et ideo rationes ad tria praedicta membra decurrentes sibi non obviant, et concedi possunt, quamvis non sint multum cogentes. — Si autem quis ex praedictis rationibus simpliciter velit inferre maioritatem dilectionis, unica responsione potest omnibus obviari, scilicet quod omnes procedunt ab insufficienti. Si vero concluditur excessus dilectionis determinatae vel in bono optato, vel in affectu intenso, et in effectu impenso, satis de plano omnes possunt concedi.
 
 SCHOLION.
@@ -67,6 +75,7 @@ I. Etiam Petr. a Tar. (hic q. 5. a. 2.) adhibet distinctionem, qua utitur S. Bon
 II. Alii doctores de hoc non disputant, vel rem tangunt quaerendo, utrum unus Angelus naturali dilectione diligat alium, sicut se ipsum, de quo tractant Alex. Hal., S. p. II. q. 30. a. 2. § 3. — S. Thom., S. q. 60. a. 4. — B. Albert., S. p. II. tr. 4. q. 14. m. 4. a. 3. — Aegid. R., hic p. II. q. 3. a. 1. dub. lat. 1.
 
 ## English
+<!-- page 127 -->
 
 ### QUESTION II.
 
@@ -105,6 +114,8 @@ CONCLUSION.
 I respond: It must be said that to love someone more can be in three ways: either by reason of the good wished, or by reason of[^9] the intense affection, or by reason of the benefit bestowed.
 
 By reason of the good wished one is said to love someone more when one wishes a greater good; and so one is said to love more, because for a greater. In this way, by natural love proceeding from the judgment of right reason, the Angel loved the superior Angel more. For he willed him to excel and to have more good, as also God the founder willed thus to ordain. — By reason of the intense affection one is said to love another more when one's affection is drawn more toward[^10] the other, and one is more consoled by his society; and so one is said to love that one more with whom one more gladly dwells together. And thus the Angel loved more by nature the Angel of the same order; because, just as by natural affection one loves more one's fellow-countrymen, especially when they conform[^11] to oneself in character; and just as a man loves more him who is of the same profession and office, where envy does not interpose its part: so the Angel is to be understood[^12] as embracing more by natural love the other Angel of the same order, since he saw himself associated with him by the Founder in equality of office and likeness of nature, nor was there then any diversity of character nor malignity of envy. — By reason of the effect or benefit bestowed one is said to love more him on whom one bestows more goods, and about whom one is more solicitous: just as a mother cherishes more the tender child and is more solicitous about him than about the grown one, and more about the sick than about the healthy. And the reason for this is the consideration of the greater indigence. And in this way it can be said that the Angel of the higher order loves more the Angel of the lower[^13], because the Angel of the equal or higher order does not need his instruction or purgation in the way the Angel of the lower order does.
+
+<!-- page 128 -->
 
 And thus, according to the diverse ways, the members of the proposed question stand as exceeding and exceeded, and therefore the arguments running to the three aforesaid members do not oppose one another, and can be conceded, although they are not very cogent. — But if anyone from the aforesaid arguments wishes simply to infer a greater-ness of love, all can be met with a single response, namely that they all proceed from an insufficient ground. But if there is concluded an excess of love determined either in the good wished, or in the intense affection, and in the benefit bestowed, all can quite plainly be conceded.
 

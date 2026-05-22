@@ -7,6 +7,11 @@ pars: 2
 type: dubia
 title_la: "Dubia circa litteram Magistri (Pars II)."
 title_en: "Doubts concerning the text of the Master (Part II)."
+printed_pages: [128, 129]
+pdf_pages: [150, 151]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 128–129"
+has_scholion: false
+has_apparatus: true
 line_start: 9602
 line_end: 9660
 word_count_latin: 717
@@ -17,6 +22,7 @@ format_version: 1
 # bon-sent-II-d3-p2-dubia
 
 ## Latin
+<!-- page 128 -->
 
 ### DUBIA CIRCA LITTERAM MAGISTRI.
 
@@ -25,6 +31,8 @@ format_version: 1
 In parte ista sunt dubitationes circa litteram, et primo quaeritur de intellectu illius verbi Iob: *Hoc est initium figmenti Dei* etc., quare dicitur figmentum. Si ratione corporis aptati, ut infra[^1] exponit, quomodo hoc verum est, cum illud non habuerit ab initio? — Item, Deus vult omnes salvos fieri[^2]: ergo fecit Angelum illum, ut beatificaretur, non illuderetur: ergo male dicitur, ut illudatur ei etc.
 
 Respondeo: Dicendum, quod omnis creatura ratione suae fragilitatis figmentum dicitur, maxime rationalis, quando non consolidatur per gratiam. Quoniam igitur lucifer excellens fuit inter ceteras creaturas, et ipse sprevit gratiam et in veritate non stetit[^3]; ideo dicitur initium figmenti. Unde et alia translatio habet: ipse est principium viarum Dei. Hunc autem quamvis Deus praesciret futurum esse malum, tamen fecit, quia et simul praevidit, quibus bonis usibus accommodaret[^4], scilicet Sanctorum victoriae et amplificandae coronae. Potest igitur intelligi haec coniunctio ut consecutive, vel causaliter. Consecutive, sicut frequenter accipitur in Evangelio[^5]: hoc autem factum est, ut impleretur, quia consecutivum est ad hoc; sic diaboli ludificatio subsecuta est, quamvis propter illam non fuerit factus. Si autem intelligatur causaliter, tunc ponitur consequens pro antecedente. Finaliter enim diabolus factus est ad exercitium et propter promotionem bonorum, ad quod consequitur ipsius diaboli ludificatio, qui, dum intendit deiicere, promovet. Unde sensus est, quod Deus fecit diabolum, quem praevidit malum, ad exercitium bonorum, ad quod consequitur eius ludificatio[^6].
+
+<!-- page 129 -->
 
 ### DUB. II.
 
@@ -39,6 +47,7 @@ Item quaeritur de intellectu illius verbi: *Triplex erat naturalis cognitio*: au
 Respondeo: Potest dici, quod est distinctio quantum ad numerum cognoscibilium, et quantum ad gradum. Quantum ad numerum, quia cognoscibile aut est Creator, aut creatura; et creatura aut corporalis, aut spiritualis. — Ordo etiam est, quia cognoscibile aut supra, aut infra, aut iuxta; et sic clauditur omnis cognoscibilis differentia, ratione cuius Magister distinguit cognitionem magis quam ratione modi cognoscendi.
 
 ## English
+<!-- page 128 -->
 
 ### DOUBTS CONCERNING THE TEXT OF THE MASTER.
 
@@ -47,6 +56,8 @@ Respondeo: Potest dici, quod est distinctio quantum ad numerum cognoscibilium, e
 In this part there are doubts concerning the text, and first inquiry is made about the meaning of that word of Job: *This is the beginning of the handiwork of God* etc., why it is called handiwork. If by reason of the body fitted to it, as he explains below[^1], how is this true, since it did not have that from the beginning? — Likewise, God wishes all to be saved[^2]: therefore He made that Angel that he might be beatified, not mocked: therefore it is ill said that he should be mocked, etc.
 
 I respond: It must be said that every creature, by reason of its fragility, is called handiwork, especially the rational creature, when it is not consolidated by grace. Since therefore Lucifer was excellent among the other creatures, and he himself spurned grace and did not stand in the truth[^3]; therefore he is called the beginning of the handiwork. Hence another translation has: he is the beginning of the ways of God. But although God foreknew that he would be evil, nevertheless He made him, because He also at the same time foresaw to what good uses He would accommodate him[^4], namely to the victory of the Saints and to the enlarging of the crown. This conjunction can therefore be understood as consecutive or as causal. Consecutively, as is frequently taken in the Gospel[^5]: now this was done, that it might be fulfilled, because it is consecutive to this; thus the mocking of the devil followed, although he was not made on account of it. But if it be understood causally, then the consequent is put for the antecedent. For finally the devil was made for the exercise and for the promotion of the good, on which follows the mocking of the devil himself, who, while he intends to cast down, promotes. Hence the sense is that God made the devil, whom He foresaw to be evil, for the exercise of the good, on which follows his mocking[^6].
+
+<!-- page 129 -->
 
 ### DOUBT II.
 

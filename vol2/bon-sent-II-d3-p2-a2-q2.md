@@ -9,6 +9,11 @@ quaestio: 2
 type: quaestio
 title_la: "Utrum Angelus per cognitionem naturalem divinam essentiam cognoverit in se ipsa sine medio et creaturae adminiculo."
 title_en: "Whether the Angel by natural cognition knew the divine essence in itself without any medium and without the assistance of a creature."
+printed_pages: [122, 123, 124]
+pdf_pages: [144, 145, 146]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 122–124"
+has_scholion: true
+has_apparatus: true
 line_start: 9163
 line_end: 9322
 word_count_latin: 2161
@@ -19,6 +24,7 @@ format_version: 1
 # bon-sent-II-d3-p2-a2-q2
 
 ## Latin
+<!-- page 122 -->
 
 ### QUAESTIO II.
 
@@ -44,6 +50,8 @@ CONTRA: 1. Ioannis decimo septimo[^7]: *Haec est vita aeterna, ut cognoscant te 
 
 3. Item, proximior est Deo anima habens gratiam, quam sit Angelus habens sola naturalia; sed anima exuta cum gratia non potest aspicere lucem summam, nisi adiuvetur per gloriam, sicut patet de his qui sunt in purgatorio, et fuerunt in limbo: ergo videtur, quod nec Angelus per naturam.
 
+<!-- page 123 -->
+
 4. Item, lux divinae essentiae est supra omnem intellectum creatum, quantumcumque ille intellectus sit excellens in naturalibus: ergo nunquam intellectus creatus in illam intuendam ascendet virtute sua, nisi Deus condescendat per gratiam: ergo impossibile est, quod Angelus naturali cognitione cognoscat divinam essentiam in se ipsa[^9].
 
 5. Item, multo plus est Deus supra intellectum angelicum, quam sit Angelus supra intellectum humanum; sed homo non potest nosse Angelum, nisi Angelus condescendat ei: ergo nec Angelus ipsam divinam lucem in se ipsa.
@@ -68,6 +76,8 @@ Si autem quaeratur ratio huius, sane dici potest, quod divina lux propter sui em
 
 5. Ad illud quod obiicitur de velatione, dicendum, quod non posse pertingere ad alicuius cognitionem, hoc est dupliciter: vel propter cordis obscuritatem, vel propter cognoscibilis profunditatem. Si primo modo, sic dicitur impediri velatione; si secundo modo, sic impeditur non propter interpositionem velaminis, sed propter sublimitatem cognoscibilis. Primo modo impeditur homo peccator, secundo modo Angelus. Unde nec videbat sub velamine aenigmatis, nec tamen facie ad faciem, quia medium est inter utrumque, videlicet Deum videre in speculo absque aenigmate[^16].
 
+<!-- page 124 -->
+
 6. Ad illud quod obiicitur, quod aut cognoscebat Deum per medium, aut sine medio; dicendum, quod per medium, scilicet per effectum: non quia illud medium magis esset proportionale Deo, sed quia magis erat proportionale intellectui angelico; unde naturaliter videbatur per speculum et per vestigium, quamvis non per aenigma. Nec illud est contra Augustinum, quia, sicut infra melius patebit[^17], Augustinus vult, quod inter mentem et Deum non cadit medium in ratione causae efficientis, vel influentis, cadit tamen medium manuductionis, quod tamen non habet rationem medii proprie, quia magis subservit potentiae cognoscenti, quam praesit.
 
 SCHOLION.
@@ -77,6 +87,7 @@ I. Conclusio et principia hic clare exposita conveniunt cum iis quae dicuntur in
 II. Consentiunt quoad conclusionem: Alex. Hal., S. p. II. q. 23. m. 3, et q. 24. m. 1. — Scot., hic q. 9; Report. hic q. 4; IV. Sent. d. 49. q. 2. et 11. — S. Thom., II. Sent. d. 23. q. 2. a. 1; IV. Sent. d. 49. q. 2. a. 6; S. I. q. 56. a. 3; S. c. Gent. III. c. 49; de Verit. q. 8. a. 5. — B. Albert., S. p. II. tr. 4. q. 14. a. 2. partic. 2. et quaest. incid. — Petr. a Tar., hic q. 4. a. 1. quaestiunc. 1. — Richard. a Med., II. Sent. d. 4. a. 1. q. 1. — Aegid. R., I. Sent. d. 4. q. 1. a. 1. — Henr. Gand., Quodl. 4. q. 9. — Durand., I. Sent. Prolog. q. 3. — Dionys. Carth., hic q. 6. — Biel, hic q. 2. circa finem.
 
 ## English
+<!-- page 122 -->
 
 ### QUESTION II.
 
@@ -102,6 +113,8 @@ ON THE CONTRARY: 1. John, the seventeenth chapter[^7]: *This is eternal life, th
 
 3. Likewise, a soul having grace is nearer to God than is an Angel having natural endowments alone; but a soul, stripped, even with grace cannot gaze upon the supreme light unless it is helped by glory, as is plain concerning those who are in purgatory and were in limbo: therefore it seems that neither does the Angel by nature.
 
+<!-- page 123 -->
+
 4. Likewise, the light of the divine essence is above every created intellect, however excellent that intellect be in natural endowments: therefore a created intellect will never ascend to the beholding of it by its own power, unless God condescends through grace: therefore it is impossible that the Angel by natural cognition should know the divine essence in itself[^9].
 
 5. Likewise, God is much more above the angelic intellect than the Angel is above the human intellect; but man cannot know an Angel unless the Angel condescends to him: therefore neither can the Angel know the divine light itself in itself.
@@ -125,6 +138,8 @@ But if the reason for this be asked, it can soundly be said that the divine ligh
 4. To that which is objected, that either through a species or through the essence etc.; it must be said that there is still a third mode of knowing, namely through effects. Now God is known through visible effects and through spiritual substances and through the influence of a light connatural to the knowing power, which «is a certain likeness of God, not abstracted but infused, inferior to God because in an inferior nature», as Augustine says in the ninth book of *On the Trinity*, and as has been treated in the first book[^15]. And thus that argument is answered, which proceeds from an insufficient division.
 
 5. To that which is objected concerning the veiling, it must be said that not being able to attain to the cognition of something is twofold: either on account of the darkness of the heart, or on account of the profundity of the knowable. If in the first way, then one is said to be impeded by a veiling; if in the second way, then one is impeded not on account of the interposition of a veil, but on account of the sublimity of the knowable. In the first way the sinful man is impeded, in the second way the Angel. Hence he did not see under the veil of the enigma, nor yet face to face, because a medium is between the two, namely to see God in a mirror without an enigma[^16].
+
+<!-- page 124 -->
 
 6. To that which is objected, that he knew God either through a medium or without a medium; it must be said: through a medium, namely through an effect: not because that medium was more proportional to God, but because it was more proportional to the angelic intellect; hence he naturally saw through a mirror and through a vestige, although not through an enigma. Nor is this against Augustine, because, as will better appear below[^17], Augustine holds that between the mind and God there does not fall a medium in the character of an efficient or influencing cause, yet there does fall a medium of manuduction, which nevertheless does not have the character of a medium properly, because it rather subserves the knowing power than presides over it.
 
@@ -185,6 +200,6 @@ II. Agreeing as to the conclusion: Alex. of Hales, S. p. II. q. 23. m. 3, and q.
 
 **Marginal glosses trimmed** (not rendered): *Ad oppositum*, *Fundamenta*, *Conclusio*, *Ratio*, *Solutio oppositorum*, *Notandum*, *Distinctio notanda*, *Triplex modus cognoscendi Deum, et per effectum tripliciter*, *Distinctio*.
 
-**Low-confidence items parked for the d.10 600 dpi polish-blocker:**
-- `[^1]` — the Dionysius *de Div. Nom.* locus reads `Cap. 7. § 2. et c. 4. § 2. 22; c. 5. § 8.` in the 450 dpi crop (IA OCR `% 2. el c. 4. g 2. 22`). The bare `22` after `§ 2.` is anomalous; rendered as printed pending a 600 dpi eyes-on. Non-blocking (the note's variant-reading clause *in se ipso pro in se ipsa* is unambiguous).
-- `[^14]` — August. *in Ioan. tract. 1. n. 19* quotation: `praesens est illi sol, sed ipse soli absens est` — the `est` sits where the R-col-0 left edge is clipped by the colcrop splitter; recovered from the cascade IA OCR (full-width, faithful for footer prose). Re-confirm at 600 dpi.
+**Low-confidence items — RESOLVED at the d.1–d.10 600 dpi polish-blocker (2026-05-22):**
+- `[^1]` — RESOLVED. The Dionysius *de Div. Nom.* locus genuinely reads `Cap. 7. § 2. et c. 4. § 2. 22; c. 5. § 8.` on the 600 dpi p.122 footer — the `2. 22` is a list of two sections (§§ 2, 22) of chapter 4 with the `§` distributed, standard Quaracchi style. Rendering is faithful; no change.
+- `[^14]` — RESOLVED. The August. *in Ioan. tract. 1. n. 19* quotation reads in full at 600 dpi `…praesens est illi sol, sed ipse soli absens est; sic omnis stultus, omnis iniquus, omnis impius caecus est corde etc.` — matches the chunk verbatim. No change.

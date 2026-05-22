@@ -34,8 +34,16 @@ fields, `## Latin/English/Apparatus` structure, apparatus marker pairing
   complete and Tier-2. Page ranges are recoverable from each chunk's
   `transcription_status` ("printed pp. 122–124", "124–127", "127–128",
   "128–129"). To normalize: add the four fields + page-break comments.
+- **NORMALIZED 2026-05-22.** All four chunks now carry `printed_pages`,
+  `pdf_pages`, `source`, `has_scholion`, `has_apparatus` and `<!-- page N -->`
+  comments in both the Latin and English bodies. Page breaks placed at the
+  paragraph boundary before the first paragraph beginning on each page
+  (verified against 600 dpi p.122–125 tops and 450 dpi p.126–129 tops);
+  where a page begins mid-paragraph the comment sits before the next
+  paragraph start, the standard corpus approximation. Build re-verified
+  (541 translated). `has_scholion`: a2-q2/a3-q1/a3-q2 true, dubia false.
 
-## Pass 1 — `[?]` flag resolution (d.1–d.10) — PENDING
+## Pass 1 — `[?]` flag resolution (d.1–d.10) — IN PROGRESS
 
 Resolve every inline `[?]` and every "low-confidence, confirm at 600 dpi"
 note in d.1–d.10 via 600 dpi PDF eyes-on. For each: RESOLVE (with PDF
@@ -60,6 +68,27 @@ Inventory gathered 2026-05-22:
 - `d9-a1-q9` `[^8]` — Albert article `a. 8[?]` (OCR digit-mangle).
 - `d10` — no `[?]` flags (all 9 chunks clean; one literal-citation note on
   `d10-littera` `[^1]` `tr. 3. 2. 5.`, reproduced verbatim, no flag).
+
+### Resolutions
+
+**d.3 (2026-05-22)** — 600 dpi extract of printed pp.122–125 (`p-{122..125}.png`,
+4486×6850). All four d.3 low-confidence items RESOLVED, no content change:
+- `d3-p2-a2-q2` `[^1]` — RESOLVED. p.122 footer note 1 reads
+  `Cap. 7. § 2. et c. 4. § 2. 22; c. 5. § 8.` — the `2. 22` is a list of two
+  sections (§§ 2, 22) of Dionysius *de Div. Nom.* c. 4 with the `§` distributed,
+  standard Quaracchi style. Rendering faithful.
+- `d3-p2-a2-q2` `[^14]` — RESOLVED. p.123 footer note 6 reads in full
+  `August., in Ioan. tract. 1. n. 19: Quomodo homo positus in sole caecus,
+  praesens est illi sol, sed ipse soli absens est; sic omnis stultus, omnis
+  iniquus, omnis impius caecus est corde etc. — Cod. aa ut lux caeco.` —
+  matches the chunk verbatim.
+- `d3-p2-a3-q1` `[^1]` — RESOLVED. p.124 footer note 3 reads
+  `Cfr. etiam Epist. 11, ubi n. 5.` — `Epist. 11` (arabic 11) confirmed.
+- `d3-p2-a3-q1` `[^5]` — RESOLVED. p.125 footer note 2 reads
+  `Alluditur ad Thren. 3, 25:` — `25` confirmed (IA OCR `3, 23` was the
+  digit-mangle); matches Vulgate Lam 3:25 and the rendered text.
+- `d3-p1-a1-q1` `[^15]` (Damascene chapter, from the original inventory) —
+  still PENDING; not yet swept.
 
 ## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — PENDING
 

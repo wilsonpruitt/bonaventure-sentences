@@ -9,6 +9,11 @@ quaestio: 1
 type: quaestio
 title_la: "Utrum Angeli naturali dilectione dilexerint Deum propter ipsum et super omnia."
 title_en: "Whether the Angels by natural love loved God for His own sake and above all things."
+printed_pages: [124, 125, 126, 127]
+pdf_pages: [146, 147, 148, 149]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 124–127"
+has_scholion: true
+has_apparatus: true
 line_start: 9323
 line_end: 9504
 word_count_latin: 2704
@@ -19,6 +24,7 @@ format_version: 1
 # bon-sent-II-d3-p2-a3-q1
 
 ## Latin
+<!-- page 124 -->
 
 ### ARTICULUS III.
 
@@ -40,6 +46,8 @@ Quaeritur ergo primo de modo naturalis dilectionis ad Deum. Et est quaestio, utr
 
 4. Item, naturalis dilectio diligit quod diligit per modum desiderii sive concupiscentiae: sed omnis concupiscentia naturalis supponit aliquam indigentiam; sed quandocumque aliquis diligit aliquid propter suam indigentiam, magis diligit illud in quo est indigentia, quam illud quod supplet — ut cum appeto vestimentum propter indigentiam corporis et similiter cibum, magis diligo corpus quam vestimentum vel cibum — ergo si Angelus naturaliter diligit Deum propter suam indigentiam, ergo magis diligit se quam Deum.
 
+<!-- page 125 -->
+
 CONTRA: 1. Augustinus de Fide ad Petrum[^4]: «Tales Deus creavit Angelos, ut ipsum prae se diligerent, cuius opere se tales creatos esse cognovissent».
 
 2. Item, ratione videtur, quia affectus angelicus amabat bonum naturali dilectione; aut ergo quia bonum, aut quia bonum sibi. Si quia bonum, cum Deus esset summe bonus, magis ergo ipsum Deum quam aliquid aliud diligebat. Si quia bonum sibi; sed Deus adhuc melius erat ei quam aliquid aliud, quia bonus, immo optimus est affectui quaerenti illum[^5]: ergo quocumque modo videtur, quod ipsum propter se et super omnia diligebat.
@@ -57,6 +65,8 @@ CONCLUSIO.
 Respondeo: Dicendum, quod absque dubio tempore naturae institutae tam homo quam Angelus habilis erat ad diligendum Deum propter se et super omnia. Et hoc patet: impossibile enim erat, eum aliter esse rectum[^10]. Rectitudo enim mentis consistit radicaliter in amore. Amor autem rectus esse non potest, si aliquid diligat supra Deum vel aeque, vel aliquid diligat propter se, et Deum propter aliud. Si ergo Deus fecit hominem et Angelum rectum[^11], patet, quod unicuique dedit habilitatem ad amandum se, Deum, super omnia et propter se.
 
 Patet etiam hoc planius, si attendamus, quid est diligere propter se, et super omnia. — Contingit enim, aliquid diligi dilectione concupiscentiae, sicut aliquis amat vinum, vel amicitiae, sicut aliquis amat socium[^12]. — Propter se vero aliquid diligere amore concupiscentiae est non alterius gratia, sed ibi sistere, sicut ebriosus diligit vinum propter se. Propter aliud, est alterius gratia, sicut sobrius diligit potum propter salutem. — Similiter in amore amicitiae propter se diligere est non alterius gratia velle alteri bonum, sicut dicit Philosophus[^13], quod «diligimus amicos propter se, etsi nihil omnino boni debeat nobis ab ipsis esse». Propter aliud vero est alterius gratia, sicut aliquis diligit hominem propter commodum suum, sicut dicit idem[^14], quod «inimicos nostros volumus esse iustos, ut nihil nobis noceant». — Diligere vero aliquid super omnia amore amicitiae est nullo commodo vel incommodo velle ipsum offendere nec amicitiam solvere; similiter diligere[^15] dilectione concupiscentiae est nullo commodo vel incommodo velle illud perdere.
+
+<!-- page 126 -->
 
 Quoniam igitur affectus Angeli Deum habere cupiebat propter se, quia summe bonum et summe reficiens, non alterius boni gratia, et Deo volebat bonum propter se, multo magis quam amicus amico; similiter nullo commodo vel incommodo volebat Deum offendere vel perdere, ut manifestum est et patet intuenti; dico, quod Deum diligebat propter se et super omnia.
 
@@ -80,9 +90,12 @@ I. Vocabulum *naturali* in titulo quaestionis intelligitur, quatenus distinguitu
 
 II. Quaestio solvitur a Seraphico affirmative quoad amorem tum concupiscentiae tum benevolentiae. Consentiunt S. Thom., Petr. a Tar., Richard. a Med., Aegid. R. et etiam Scotus (cfr. H. de Montefortino, Sum. Scoti, t. III. p. II. q. 26. a. 3, et t. II. p. 1. q. 60. a. 5.), licet (III. Sent. d. 27. q. unica) arguat contra argumentum principale S. Thomae, unde a nonnullis pro opposita sententia citatur. — Alii autem affirmative respondent quoad amorem concupiscentiae, negative quoad amorem benevolentiae. Ita, teste Dionysio Carth., Gulielm. Antissiodorensis, quem sequuntur Alex. Hal., B. Albert. aliique, qui putant, quod amare Deum propter ipsum et super omnia sit caritas supernaturalis. — De differentia autem caritatis sive amoris gratuiti a naturali amore bene loquitur Seraphicus in solut. ad 3; quam doctrinam Petr. a Tar. iisdem fere verbis in compendium redegit.
 
+<!-- page 127 -->
+
 III. Alex. Hal., S. p. II. q. 30. m. 1. a. 2. § 2.— Scot., loc. cit. et Report. III. Sent. d. 27. n. 11-13. — S. Thom., hic q. 4; S. I. q. 60. a. 5. — B. Albert., hic a. 18; S. p. II. tr. 4. q. 14. m. 4. a. 2. — Petr. a Tar., hic q. 3. a. 1. — Richard. a Med., hic a. 7. q. 1. — Aegid. R., hic p. II. q. 3. a. 1. dub. lit. 2. — Henr. Gand., Quodl. 4. q. 11. — Dionys. Carth., de hac et seq. q. hic q. 7.
 
 ## English
+<!-- page 124 -->
 
 ### ARTICLE III.
 
@@ -104,6 +117,8 @@ The first inquiry, then, is about the mode of natural love toward God. And the q
 
 4. Likewise, natural love loves what it loves by way of desire or concupiscence: but every natural concupiscence supposes some indigence; but whenever anyone loves something on account of his own indigence, he loves more that in which the indigence is than that which supplies it — as when I seek clothing on account of the body's indigence and likewise food, I love the body more than the clothing or the food — therefore if the Angel naturally loves God on account of his own indigence, then he loves himself more than God.
 
+<!-- page 125 -->
+
 ON THE CONTRARY: 1. Augustine, *On the Faith to Peter*[^4]: «God created the Angels such that they should love Him before themselves, by whose work they had come to know that they were created such».
 
 2. Likewise, by reason it seems so, because the angelic affection loved the good by natural love; either then because it was good, or because it was good for itself. If because it was good, since God was supremely good, then it loved God Himself more than anything else. If because it was good for itself; but God was still better for it than anything else, since He is good, indeed the best, for an affection seeking Him[^5]: therefore in whatever way it seems that it loved Him for His own sake and above all things.
@@ -121,6 +136,8 @@ CONCLUSION.
 I respond: It must be said that without doubt, in the time of instituted nature, both man and the Angel was capable of loving God for His own sake and above all things. And this is plain: for it was impossible for him to be upright otherwise[^10]. For the uprightness of the mind consists radically in love. But love cannot be upright if it loves anything above God or equally, or loves anything for its own sake and God for the sake of something else. If therefore God made man and the Angel upright[^11], it is plain that He gave to each the capability of loving himself, and God, above all things and for His own sake.
 
 This is also plainer if we attend to what it is to love for one's own sake and above all things. — For it happens that something is loved by the love of concupiscence, as someone loves wine, or of friendship, as someone loves a companion[^12]. — But to love something for its own sake by the love of concupiscence is not for the sake of another, but to rest there, as the drunkard loves wine for its own sake. For the sake of something else is for the sake of another, as the sober man loves drink for the sake of health. — Similarly in the love of friendship, to love for its own sake is to will the good to another not for the sake of another, as the Philosopher says[^13], that «we love friends for their own sake, even if no good at all need come to us from them». But for the sake of something else is for the sake of another, as someone loves a man for his own advantage, as the same one says[^14], that «we wish our enemies to be just, that they may harm us in nothing». — But to love something above all things by the love of friendship is to will to offend it or dissolve the friendship for no advantage or disadvantage; similarly to love[^15] by the love of concupiscence is to will to lose it for no advantage or disadvantage.
+
+<!-- page 126 -->
 
 Since therefore the affection of the Angel desired to have God for His own sake, because supremely good and supremely refreshing, not for the sake of another good, and willed the good to God for His own sake, much more than a friend to a friend; similarly for no advantage or disadvantage it willed to offend or lose God, as is manifest and plain to one considering; I say that he loved God for His own sake and above all things.
 
@@ -143,6 +160,8 @@ SCHOLION.
 I. The word *natural* in the title of the question is understood insofar as it is distinguished from *gratuitous*, i.e. supernatural. In another sense the natural is distinguished from the deliberative and free act; thus «natural love regards the very inclination of nature, which is determined to one thing» (III. Sent. d. 31. a. 1. q. 1. ad 1; cfr. below d. 5. a. 3. q. 1. ad 4, d. 6. a. 1. q. 2. ad 3, d. 24. p. 1. a. 2. q. 3.). On natural love in both senses this question has been treated by later theologians. — Besides the things which are said in the body concerning the love of concupiscence and of benevolence (friendship), and concerning loving for one's own sake and for the sake of another, cfr. on these I. Sent. d. 17. p. 1. a. 1. q. 2; III. Sent. d. 27. a. 2. q. 2. ad 2, d. 26. a. 2. q. 3. ad 3, d. 29. a. 1. q. 2. ad 4.
 
 II. The question is resolved by the Seraphic Doctor affirmatively as to love both of concupiscence and of benevolence. Agreeing are St. Thomas, Petr. a Tar., Richard a Med., Aegid. R. and also Scotus (cfr. H. de Montefortino, Sum. Scoti, t. III. p. II. q. 26. a. 3, and t. II. p. 1. q. 60. a. 5.), although (III. Sent. d. 27. q. unica) he argues against the principal argument of St. Thomas, whence by some he is cited for the opposite opinion. — But others answer affirmatively as to the love of concupiscence, negatively as to the love of benevolence. So, on the testimony of Dionysius Carth., William of Auxerre, whom Alex. of Hales, B. Albert and others follow, who hold that to love God for His own sake and above all things is supernatural charity. — But concerning the difference of charity or gratuitous love from natural love the Seraphic Doctor speaks well in the solution to argument 3; which doctrine Petr. a Tar. reduced to a compendium in nearly the same words.
+
+<!-- page 127 -->
 
 III. Alex. Hal., S. p. II. q. 30. m. 1. a. 2. § 2.— Scot., loc. cit. and Report. III. Sent. d. 27. n. 11-13. — S. Thom., here q. 4; S. I. q. 60. a. 5. — B. Albert, here a. 18; S. p. II. tr. 4. q. 14. m. 4. a. 2. — Petr. a Tar., here q. 3. a. 1. — Richard a Med., here a. 7. q. 1. — Aegid. R., here p. II. q. 3. a. 1. dub. lit. 2. — Henr. Gand., Quodl. 4. q. 11. — Dionys. Carth., on this and the following q. here q. 7.
 
@@ -201,6 +220,6 @@ III. Alex. Hal., S. p. II. q. 30. m. 1. a. 2. § 2.— Scot., loc. cit. and Repo
 
 **Marginal glosses trimmed** (not rendered): *Ad oppositum*, *Fundamenta*, *Conclusio*, *Ratio*, *Magis determinatur*, *Distinctio 1/2*, *Subdistinctio 1/2*, *Solutio oppositorum*, *Epilogus*, *Differentia 1/2/3 (inter motum gratiae et naturae integrae)*.
 
-**Low-confidence items parked for the d.10 600 dpi polish-blocker:**
-- `[^5]` — Lamentations locus: the 450 dpi crop reads `Thren. 3, 25` (IA OCR `Thren. 3, 23`). Rendered `25` — the quoted text *Bonus est Dominus sperantibus in eum, animae quaerenti illum* is Vulgate Lam 3:25, so `25` is correct; flagged only because OCR and crop disagree on the digit. Non-blocking.
-- `[^1]` — the Bernardus note's `Epist. 11` (Bernard, *Epistola* 11) is rendered from the R-col-footer crop where the colcrop splitter clips the far-left of the R column; recovered/confirmed against the cascade IA OCR (full-width, faithful for footer prose). Re-confirm the Roman/arabic at 600 dpi.
+**Low-confidence items — RESOLVED at the d.1–d.10 600 dpi polish-blocker (2026-05-22):**
+- `[^5]` — RESOLVED. The p.125 footer reads `Alluditur ad Thren. 3, 25:` at 600 dpi (the IA OCR `3, 23` was the digit-mangle). `25` is correct and matches the rendered text. No change.
+- `[^1]` — RESOLVED. The p.124 footer note 3 reads `Cfr. etiam Epist. 11, ubi n. 5.` at 600 dpi — `Epist. 11` (arabic 11) confirmed. No change.
