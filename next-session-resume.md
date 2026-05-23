@@ -1,7 +1,7 @@
-# Next session — Vol II d.11 in progress, **d11-a1-q2 next**.
+# Next session — Vol II d.11 in progress, **d11-a1-q3 next**.
 
-**d.1–d.10 COMPLETE = 130 chunks. d.11 promotion: 2/9 done**
-(d11-divisio + d11-a1-q1). Build: 543 translated, 878 quaestio routes.
+**d.1–d.10 COMPLETE = 130 chunks. d.11 promotion: 3/9 done**
+(d11-divisio + d11-a1-q1 + d11-a1-q2). Build: 544 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23;
 deploy after each decade ships.
 
@@ -11,9 +11,9 @@ deploy after each decade ships.
 |---|---|---|---|
 | `d11-littera`  | 19518–19627 | 1483 | skeleton |
 | `d11-divisio`  | 19629–19657 |  268 | Tier 2 (2026-05-23) |
-| `d11-a1-q1`    | 19658–19835 | 2333 | **Tier 2 (2026-05-23)** |
-| `d11-a1-q2`    | 19836–19927 | 1078 | skeleton — **NEXT** |
-| `d11-a1-q3`    | 19928–20037 | 1430 | skeleton |
+| `d11-a1-q1`    | 19658–19835 | 2333 | Tier 2 (2026-05-23) |
+| `d11-a1-q2`    | 19836–19927 | 1078 | **Tier 2 (2026-05-23)** |
+| `d11-a1-q3`    | 19928–20037 | 1430 | skeleton — **NEXT** |
 | `d11-a2-q1`    | 20050–20245 | 2244 | skeleton |
 | `d11-a2-q2`    | 20246–20353 | 1354 | skeleton |
 | `d11-a2-q3`    | 20354–20531 | 2231 | skeleton |
@@ -21,41 +21,53 @@ deploy after each decade ships.
 
 ## What to do this session
 
-**Promote `d11-a1-q2`** (printed p.279, PDF 301; possibly bleeding to
-p.280). Title: *Utrum competens fuerit, Angelum deputari ad custodiam
-hominis conditi.* (i.e. integral, pre-fall man).
+**Promote `d11-a1-q3`** (printed p.280 right column → p.281+).
+Title: *Utrum Christus habuerit Angelum custodem* (Whether Christ
+had a guardian Angel).
 
-1. Extract/colcrop p.280 if not done
-   (`python3.11 tools/extract-pages.py --volume vol2 --pages 280
-   --dpi 450 && python3.11 tools/colcrop.py vol2 280`). p.279 crops
-   already exist from this session.
-2. **Page 279 reserved footers (carried by this chunk per cross-chunk
-   page-footer split discipline):**
-   - ¹ *Vide infra d. XXIV. lit. Magistri, c. 2. et XXV. c. 6.*
-     (anchors body opener at *defectus*¹)
-   - ² *Cfr. supra pag. 45, nota 5. — Cod. cc et ed. 1 per peccatum.*
-     (anchors *peccatum*²)
-   - ³ *Vers. 10. — Verba Hieronymi sunt etiam in lit. Magistri, c. 1.*
-     (anchors *Angeli eorum*³)
-   These were noted in d11-a1-q1 promotion notes; pick them up at
-   the top of this chunk's apparatus.
-3. **Continuous [^N] numbering:** start at [^1] for p.279 footer ¹;
-   work through p.279 then any p.280 footers. Quaracchi restarts
-   numbering each page but the chunk's [^N] is continuous.
-4. Marginal labels probably present (cf. d11-a1-q1 used Fundamenta /
-   Ad oppositum / Ratio* / Solutio* / Notandum). Preserve inline italic.
+1. Extract/colcrop p.281 (and p.282 if needed):
+   `python3.11 tools/extract-pages.py --volume vol2 --pages 281,282
+   --dpi 450 && python3.11 tools/colcrop.py vol2 281 && python3.11
+   tools/colcrop.py vol2 282`. p.280 crops already exist from this
+   session at `/tmp/colcrop/vol2-p280-{L,R}-{0..2}.png`.
+2. **Page 280 reserved footers carried INTO this chunk by q3 per
+   cross-chunk page-footer split discipline:**
+   - The q3 body opens on p.280 right column with "QUAESTIO III.
+     *Utrum Christus habuerit Angelum custodem*. Tertio quaeritur,
+     utrum aliquis Angelus deputatus fuerit ad custodiam Christi…"
+     followed by objections containing markers `Psalmi⁶`,
+     `confortans eum⁷`, and `bonum⁸` (the Eccli. 33,15 cite).
+   - Footers on p.280 that anchor in q3 (not q2): footer ⁶
+     (`Psalm. 90, 11. — Glossam vide apud Augustinum in hunc
+     locum, serm. 2.`), ⁷ (`Vers. 43. — Bedae verba sunt ex
+     Comment. ipsius super hunc locum, et in textu originali
+     legitur: In documento ergo utriusque naturae ei Angeli
+     ministrasse… describitur.`), ⁸ (`Hebr. 2, 9: Eum autem, qui
+     modico quam Angeli minoratus est, videmus Iesum, propter
+     passionem mortis etc.`), ⁹ (`Eccli. 33, 15. — Sequens textus
+     est Matth. 4, 1.`).
+   - q2 already captured p.280 footers 1–5 (`perdere¹`,
+     `commoveri²`, `peccatum³` (end of Ad 3), `homo⁴`,
+     `multiplicare⁵`); incoming boundary into q3 is CLEAN.
+3. **Continuous [^N] numbering for q3:** start at [^1] for the
+   first footer that q3 anchors. The four reserved p.280 footers
+   (⁶, ⁷, ⁸, ⁹) become `[^1]–[^4]`; p.281 footers continue from
+   `[^5]`.
+4. Marginal labels likely present (cf. q1/q2 pattern: *Ad
+   oppositum.*, *Fundamenta.*, *Solutio oppositorum.*, etc.).
+   Preserve inline italic.
 5. Document incoming + outgoing boundary CLEAN status in `## Notes`.
 6. Three audits + smoke build, then two-commit rhythm (chunk +
-   content.json; this resume note → d11-a1-q3).
+   content.json; this resume note → d11-a2-q1).
 
 ## Tooling status
 
 - 450 dpi PDF crops cached for pp.275–280 at `/tmp/colcrop/vol2-p*`
-  and `raw/vision/vol2/p-hires-*.png`.
-- Manual-rescue chunks created this session (d.11–d.20 boundary sweep):
-  d18-dubia, d19-littera, d13-a1-q2, d16-a1-q2, d14-p2-divisio,
-  d14-p2-a1-q3, d14-p1-a2-q1/q2, d14-p1-a3-q1/q2. All are skeleton
-  Tier-1; promote in normal Vol II cadence.
+  and `raw/vision/vol2/p-hires-*.png`. p.281+ extraction pending.
+- Manual-rescue chunks created earlier session (d.11–d.20 boundary
+  sweep): d18-dubia, d19-littera, d13-a1-q2, d16-a1-q2,
+  d14-p2-divisio, d14-p2-a1-q3, d14-p1-a2-q1/q2, d14-p1-a3-q1/q2.
+  All are skeleton Tier-1; promote in normal Vol II cadence.
 - Pre-promotion boundary sweep log:
   `manual-review/d11-d20-boundary-sweep-audit.md` — all blockers
   cleared 2026-05-23.
