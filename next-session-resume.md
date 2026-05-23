@@ -1,10 +1,10 @@
-# Next session — Vol II d.11 in progress, **d11-a2-q3 next**.
+# Next session — Vol II d.11 in progress, **d11-dubia next**.
 
-**d.1–d.10 COMPLETE = 130 chunks. d.11 promotion: 6/9 done**
+**d.1–d.10 COMPLETE = 130 chunks. d.11 promotion: 7/9 done**
 (d11-divisio + d11-a1-q1 + d11-a1-q2 + d11-a1-q3 + d11-a2-q1 +
-d11-a2-q2). Build: 547 translated, 878 quaestio routes. Vol II
-d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; deploy
-after each decade ships.
+d11-a2-q2 + d11-a2-q3). Build: 548 translated, 878 quaestio routes.
+Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23;
+deploy after each decade ships.
 
 ## d.11 chunk inventory + Tier-2 progress
 
@@ -17,44 +17,52 @@ after each decade ships.
 | `d11-a1-q3`    | 19928–20037 | 1430 | Tier 2 (2026-05-23) |
 | `d11-a2-q1`    | 20050–20245 | 2244 | Tier 2 (2026-05-23) |
 | `d11-a2-q2`    | 20246–20353 | 1354 | Tier 2 (2026-05-23) |
-| `d11-a2-q3`    | 20354–20531 | 2231 | skeleton — **NEXT** |
-| `d11-dubia`    | 20532–20645 | 1470 | skeleton |
+| `d11-a2-q3`    | 20354–20531 | 2231 | Tier 2 (2026-05-23) |
+| `d11-dubia`    | 20532–20645 | 1470 | skeleton — **NEXT** |
 
 ## What to do this session
 
-**Promote `d11-a2-q3`** (printed pp.286–?, the largest remaining d.11
-chunk by word count).
-Title: *Utrum Angelus ex damnatione custoditi incurrat aliquod
-detrimentum* (Whether the Angel incurs any harm from the damnation of
-the one in his custody).
+**Promote `d11-dubia`** (printed pp.289–?). Three dubia circa litteram
+Magistri:
+- *Dub. I.* — *Utrum unaquaeque anima ab ortu nativitatis habeat
+  Angelum delegatum* (Whether each soul has an Angel deputed to it
+  from the moment of birth).
+- *Dub. II.* — *Utrum omnes Angelos in cognitionem divinorum
+  mysteriorum secundum processum temporis profecisse* [opening
+  question text: «Item quaeritur de hoc quod dicit: Constat, omnes
+  Angelos in cognitionem divinorum mysteriorum secundum processum
+  temporis profecisse»].
+- *Dub. III.* — TBD, third dubium on a subsequent page.
 
-Body opens at bottom-right of p.286 immediately after the SCHOLION
-that closed d11-a2-q2: "*Tertio quaeritur, utrum ex damnatione
-custoditi incurrat Angelus aliquod detrimentum. Et quod sic, videtur:*"
-followed by obj. 1 (*III Reg. 20: Custodi virum istum…*).
+Body opens at p.289 L-1 immediately after the DUBIA CIRCA LITTERAM
+MAGISTRI header, "*In parte ista sunt dubitationes circa litteram, et
+primo quaeritur de hoc quod dicit Hieronymus, quod unaquaeque anima
+ab ortu nativitatis habeat Angelum delegatum*."
 
-1. Extract/colcrop p.287 and p.288 if needed:
-   `python3.11 tools/extract-pages.py --volume vol2 --pages 287,288
-   --dpi 450 && for p in 287 288; do python3.11 tools/colcrop.py
-   vol2 $p; done`. p.286 + p.287 + p.288 crops already cached at
-   `/tmp/colcrop/vol2-p28[6-8]-*`.
-2. **Page 286 footers belonging to this chunk:** numbered notes 4–7
-   on p.286 (Codd. WXY *et quia*; In cod. V additur *accidentale*;
-   In quaest. seq.; Vers. 39) anchor in a2-q3's opening objections —
-   d11-a2-q2 captured p.286 nn.1–3, so this chunk receives p.286
-   nn.4ff. Read the p.286 R-2 column-band footer block carefully.
-3. **Continuous [^N] numbering for a2-q3:** start at [^1] for p.286
-   footer ⁴.
-4. Marginal labels likely present (*Ad oppositum.*, *Fundamenta.*,
-   *Conclusio.*, *Solutio oppositorum.*, etc.). Preserve inline italic
-   per Vol II convention.
+1. Extract/colcrop p.290 (and p.291 if dubia III bleeds onto it):
+   `python3.11 tools/extract-pages.py --volume vol2 --pages 290,291
+   --dpi 450 && for p in 290 291; do python3.11 tools/colcrop.py
+   vol2 $p; done`. p.289 crops already cached at `/tmp/colcrop/vol2-p289-*`.
+2. **Page 289 footers belonging to this chunk:** nn.3–5
+   (*Antiquiores codd. capabilis*, *Post tamen excidisse videtur et
+   minus*, *Vide Alex. Hal., S. p. II. q. 41. m. 4. a. 3; B. Albert.,
+   hic a. 3; …*). d11-a2-q3 retained p.289 nn.1–2.
+3. **Continuous [^N] numbering for dubia:** start at [^1] for p.289
+   footer ³ (the *capabilis* variant on Dub. I).
+4. Marginal labels likely present (*Notandum.*, *Solutio.*,
+   *Aliter.*, *Conclusio.*, etc.) — preserve inline italic.
 5. Document incoming + outgoing boundary CLEAN status in `## Notes`.
 6. Three audits + smoke build, then two-commit rhythm (chunk +
-   content.json; this resume note → d11-dubia or d11-littera).
+   content.json; this resume note → **d11-littera** for the closing
+   d.11 chunk).
+
+After d11-dubia + d11-littera, d.11 is complete. Next d.11 milestone:
+deploy + announce LIVE (deploy after each decade ships rule), then
+the d.11–d.20 polish-blocker fires after d.20.
 
 ## Tooling status
 
-- 450 dpi PDF crops cached for pp.275–288 at `/tmp/colcrop/vol2-p*`
+- 450 dpi PDF crops cached for pp.275–289 at `/tmp/colcrop/vol2-p*`
   and `raw/vision/vol2/p-hires-*.png`.
 - Manual-rescue chunks created earlier session (d.11–d.20 boundary
   sweep): d18-dubia, d19-littera, d13-a1-q2, d16-a1-q2,
