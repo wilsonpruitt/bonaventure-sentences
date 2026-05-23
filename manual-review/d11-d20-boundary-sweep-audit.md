@@ -23,13 +23,18 @@
 - **Action before promoting a.1:** create `bon-sent-II-d13-a1-q2.md` from raw lines 22293–22436; truncate `d13-a1-q1` to lines 22053–22292.
 - a2/a3/dubia/littera/divisio boundaries CLEAN.
 
-### d.14 — **HEAVY rationalization: dup-IDs need triage**
-1. **`p1-divisio-dup2` (24796–24835) is actually `p2-divisio`** — it contains the P. II DIVISIO TEXTUS + TRACTATIO QUAESTIONUM. **Rename + update id + adjust frontmatter (`pars: 2`, drop `-dup2` suffix).**
-2. **`p1-a1-q2-dup2` (24240–24407) is a true duplicate** of canonical `p1-a1-q2` (23961–24143; same content, shifted lines). **Delete.**
-3. **`p1-a1-q1-dup2` (24144–24239) is mislabeled** — opens with "An caelum sit figurae orbicularis", which is NOT a1-q1's topic. Needs eyes-on inspection at promotion time; likely belongs to a different article or is a stray fragment. **Investigate, don't delete yet.**
-4. **`p2-dubia` + `p2-dubia-dup2` + `p2-dubia-dup3` are three slices of one continuous dubia block** (raw 25805–26203, ~5140 words total) split across OCR page-break re-announcements of the `DUBIA CIRCA LITTERAM MAGISTRI` running head. **Merge into single `p2-dubia` covering 25805–26203; delete dup2 + dup3.**
-5. **P. II has no `littera` chunk** in the source (Bonaventure's pars II opens directly with COMMENTARIUS — Lombard's pars II text isn't re-extracted in the Quaracchi printed edition). Genuine absence; do not reconstruct.
-- a1/a2/dubia P. I chunks otherwise CLEAN.
+### d.14 — **HEAVY rationalization completed 2026-05-23**
+
+The initial agent triage said the `-dup2` chunks in P.I were misalignments to fix; manual re-grep against `^[[:space:]]*[AB]?[RB]TIG?ULUS|QU[AD]?\.?\\?ESTIO` revealed P.I actually has **THREE articles**, not two, and the auto-chunker missed the article headers because of OCR garbles (`ABTICULUS 11.` for ART. II at raw line 24136, `ARTICULUS 11!.` for ART. III at raw line 24408). All five "dup" chunks were misnamed real chunks — not duplicates. Rationalized as follows:
+
+1. **`p1-divisio-dup2` → `p2-divisio`** (line_start extended 24796 → 24788 to absorb `COMMENTARIUS IN DISTINCTIONEM XIV.` opener for PARS II). ✅
+2. **`p1-a1-q1-dup2` (24144–24239) → `p1-a2-q1`** (line_start extended 24144 → 24136 to absorb `ABTICULUS 11.` + *De caelis quoad figuram.* subtitle; quaestio I title *An caelum sit figurae orbicularis.*; `articulus: 2`). ✅
+3. **`p1-a1-q2-dup2` (24240–24407) → `p1-a2-q2`** (Article II Q II — *Utrum caeli habeant dextram et sinistram*; `articulus: 2`). ✅
+4. **`p1-a2-q1` (24417–24560) → `p1-a3-q1`** (line_start extended 24417 → 24408 to absorb `ARTICULUS 11!.` opener; `articulus: 3`). ✅
+5. **`p1-a2-q2` (24561–24755) → `p1-a3-q2`** (Article III Q II; `articulus: 3`). ✅
+6. **`p2-dubia` + `dup2` + `dup3` merged** → single `p2-dubia` covering raw 25805–26147 (trimmed from agent-suggested 26203 to end before `DISTINCTIO XV.` at line 26148). ✅
+7. **P. II has no `littera` chunk** in the source (Bonaventure's pars II opens directly with COMMENTARIUS — Lombard's pars II text isn't re-extracted in the Quaracchi printed edition). Confirmed genuine absence; no reconstruction.
+8. **`p2-a1-q2` (24965–25252) split into q2 + q3 2026-05-23** — raw line 25065 had `QUAESTIO spectat / 111.` (garbled QUAESTIO III). P. II ART. I has **three** quaestiones (not two): q3 title *Utrum conveniat alicui orbi moveri absque stellis.* New `p2-a1-q3` from 25065–25252; `p2-a1-q2` truncated to 24965–25064. ✅
 
 ### d.15 — minor dubia merge
 - 9 chunks listed (`dubia` + `dubia-dup2` are two halves of one block, not a true dup).

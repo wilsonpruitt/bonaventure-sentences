@@ -3,13 +3,14 @@ id: "bon-sent-II-d14-p1-a2-q2"
 volume: 2
 book: 2
 distinctio: 14
+pars: 1
 articulus: 2
 quaestio: 2
 type: quaestio
-line_start: 24561
-line_end: 24755
-word_count_latin: 2655
-transcription_status: "auto-chunked 2026-05-13"
+line_start: 24240
+line_end: 24407
+word_count_latin: 2145
+transcription_status: "auto-chunked 2026-05-13 as misnamed p1-a1-q2-dup2; renamed 2026-05-23 (Article II Q II, sibling of new p1-a2-q1; per d11-d20 boundary sweep follow-up — see manual-review/d11-d20-boundary-sweep-audit.md for the article-numbering correction)"
 format_version: 1
 ---
 
@@ -17,201 +18,174 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO 11.
-                                   Ulrum motm caeli sil a propria forma, vel ab Intelligentia.
+                                                                            QUAESTIO II.
+                                                Utrum incaelo sit ponere dextram et sinistram.
 
-                 Secundo fjuaeritur, utrum motus caeloruin sit a             non moventur ab Intelligentia, vel Intelligentia est
-           propria fornia, vel ab Intelligentia. Et quod sit a               ipsius caeli perfectio et forma. Sed Intelligentia ali-
-           propria forma, videtur:                                           qua non est perfectio caeli, sicut dicit Damascenus
-                 1. Sicut vult Pliilosoplius ' : « Natiira est prin-         secundo Iibi'o. capitulo sexto^: «Caeli sunt inanimati
-d oijposi- cipium motus et quietis in eo, in quo est » : ergo                et insensibiles » : ergo etc.
-           omnis motus naturalis esl a forma intrinseca; sed                       5. Item , nullus motus necessarius pendet a
-            « motus caeli est naturalis » , sicut probat Philoso-            voluntate creaturae tanquam a principali motore ;
-           phus: ergo est a propria forma.                                   sed molus caeli est uniformis et necessarius secun-
-                 2. Iteui, leve sua levitate et virtute potest               dum Sanclos et philosophos ' : ergo non est a volun-
-           sursum ascendere, nullo impellente, et similiter                  tate alicuius Angeli vel Intelligentiae.
-           grave descendere absque aliqua Intelligentia mo-                        6 Item , virtus illius Angeli vel Intelligentiae
-           vente ''. Si ergo forma caeli perfectior est quam ele-            est linila ; sed virtus finita in movendo recipit fati-
-           mentaris, et figura eius aptissima ad motum circu-                gationem et laborem, maxinie cum movet illud quod
-           larem, videtur.quod raoveri pos.sit a propria forma               non est perse mobile: aut ergo^ caelum moveturpro-
-           absque omni Intelligeritia.                                       pria forma, aut si movelur virtute Intelligentiae, ne-
-                 3. Item , plus est movere se ipsum exeundo lo-              cesse est, illam laborare et lassari.
-           cum proprium quam non exeundo ; sed virtus lucis                        Contra: 1. 0 Omne quod movelur, ab alio mo-fumiamenia.
-           est se diffundere per corpora alteiius naturae, et                veturS); sed caelum secundum se totum movetur:
-           etiam diffundendo redire: ergovidetur, quod multo                 ergo videtur, quod praeter materiam et formam
-           fortius corpus caeli per naturam lucis possit se in               eius sit ponere aliquid, a quomoveatur; hoc autem
-           suo orbe movere absque influentia alicuius spiritualis            non est nisi Angelus vel Intelligentia: ergo etc.
-           substantiae.                                                            2. Item , « omnis motor est in actu respectu
-                 4. Item, motus animalium esl a forma propria                mobilis » ', sed totum caelum est mobile; sed nihil
-           et intrinseca, et hoc spectat ad complementum mo-                 idem est simul in actu et potentia: ergo caelum non
-           tus: ergo cuni motus caeli sit multo completior,                  potesl moveri a se sive propria virtute.
-           erit a forma propria et intrinseca: ergo vel caeli                      3. Item , « omnis motor sufQciens distat a mo-
+                 Secundo qnaeritnr, utrum in corpore caeli sit                        cnl dubio virtus diversa, scilicet dextra et sinistra,
+            ponere dextram et sinistram. Et quod sic, videtur:                        quoniam sunt ei loca inceptionis et status ex opere
+                  1. Per illud quod dicit Philosophus in secundo                      factionis suae » .
+FoDdaiueui.i.de Caelo et mundo^ Ait enim sic: « Est orbi pro-                               2. Item, hnc ostenditur per rationem suam,
 
-            1 Libr. II. Phys. text. 3. (c. I.). — Sequens textus est I. de        ^ Plurimi codd. oura edd. I , 2 perpcrani enim. — De
-       Caelo et mundo, text. 8. seqq. (c. 2.).                               hoc arg. cfr. Aristot. , II. de Caelo et mundo , text. 3.
-            2 Aristot. , VIII. Phys. lext. 28. (c. 4.) ct IV. de Caelo et         ° .\rislo(. , VII. Phys. lext. 1 . seqq. ; VIII. text. 34. seqq.
-       mundo, text. 6. (c. 1).                                               (c. .5.).
-            ^ De Fide orlhod. : " Ki^M-fo\ y^P ^'"^^ '^-^^ avaiaOTjToi.           ■^ Aris(o(. , VIII. Phys. text. 40. (c. S.) et IX. Metaph.
-            * Cfr. Aristot. , II. de Caelo et mundo , text. 35. seqq.        text. 13. (VIII. c. 8.). Primo loc. cit. docetur etiam, quod nihil
-       (c. 6.); XII. Metaph. text. 38. (.XI. c. 7.).                         idem esse potest simul in actii et potentia.
- 348                                                          SENTKNTIARUM LIB. II.
 
- bili ' » : euiii ergo nulla forina extensa distet a iiiate-                   dam philosophi ^* posiiisse videntur, scilicet quodopinioAv
- ria, nulla foriiia extensa potest esse motor sufficiens.                      caeli haberent animas, et quod caelum esset ma-
-,,Sed forina. caeli est forina corporalis.et extensa, et                       gnum animal, et quod movcretur a propria for-
- molus ejus , cum sit praecipnus inter alios inotus ,                          nia perfectiva, sicut movetur animal ; et hanc ani-
- est a motore sufficiente : ergo non potest esse a vir-                        mam motricem posuerunt regi et dirigi a Deo me-
- tute propriae formae.                                                         diante Inlelligentia. — Sed haec positio falsa est et Heprobaiaii
-        4. Item, omne quod naturaliter movetur ad                              erroiiea. Sicul enim dieit Damascenus, « caeli sunt
- locum aliquem, si movetur ab illo loco, movetur                               inanimati et insensibiles » ; et quod dicunlur Deum
-praeter naturam ° : ergo si caelum movetur nalura-                             aliquando benedieere % hoc est diclum per prosopo-
-liter ab oriente in occideiis, ab occidente in oriens                          peiam. Et ista est communis sententia Sanctorum.
-non regyratur per naturam: ergo videtur, quod                                  Ideo Augustinus retraclat illud verbum, quod dixerat Reiracuiio'
-caelum habeat motorem alium qua.m formam pro-
-                                                                               matur;
-                                                                               in                      Sancti aniinae
-                                                                                              Immortalitate
-                                                                                  libro etde si aliqui                ', quod
-                                                                                                               videantur              ani- ' "^"""''
-                                                                                                                              muudus sicut
-                                                                                                                          hoc dicere,
-priara.
-      0. Item, omne quod movetnr propria forma,                                Hieronymus super Ecclesiastem, hoc totum intelli-
-movetur propter propriam indigentiam; natura enim                              gendum est diclum melaphorice. Non soluin autem
-forinae non rnovet nisi propter appetitum rei, qua                             haec positio est eontra eatholicos doctores , sed
-naturaliter indiget ' ; sed caelum , sieut dicunt San-                         etiam eontra philosophicos tractatores, qui ponunt,
-cti et pliilosophi, non movetur propter propriam                               quod substantia intellectualis non unitur corpori nisi
-indigentiam: ergo non movetur a propria forma et                               mediante vegetabili et sensibili; et ita., si caelum per-
-natura.                                                                        flceretur a substantia spirituali, haberet senlire et
-      6. Item , quod movetur a propria forma natu-                             vegetari, et ita naturaliter posset corrumpi '. — Et
-raliter movente nunquam quiescit nisi violenter,                               propter lioc , ista positione omiiino eiecta, intelli-
-ipso existente in eadem dispositione *; sed caelum,                            gendum est, quod duplex est hic modus dicendi
-quantum ad naturam suae formae , semper erit in                                satis catliolicus.
-eadem dispositione: ergo aut non movetur a propria                                   Quidam enim dicunt, quod caelum niovetur a opiDio ca.
-forma et natura, aut nunquam quiescit, vel si quie-                            propria lorma hoc modo.  T   taelum
-                                                                                                            .- I   1habet
-                                                                                                                       1  quantitatem fholica 4.
-scit, violenter quiescit. Si igitur caelum aliquando                           et figuram et per hanc est ad niotuin habile ; habet
-quietabitur, et non violenter, ergo motus eius non                             nihilominus lucis perfeetionem et formain, quae inter
-est a virtute formae intrinsecae.                                              celeras formas corporales est maxime activa, et quasi
-                            c 0 N c t, u s I 0.                                medium tenens inter formas spirituales et corpora-
-                                                                               les'; el per virtutem huius forinae movcntur cor-
-Caehim non esL animcUitm , sed vel movelur a                                   pora caelestia orbiculariter multo suHicientins, quam
-                                                                               elementa moveantur motu reeto; nee oportet, ad ino-
-        propria forma , Deo defectum virtutis 'sup-                            tuiii eaeli adhiberi ministerium .\ngeli vel animae,
-        plente, vel a Deo mediante Angelo.
-                                                                               sicut nec ad motum euiuslibet elementaris naturae.
-      Rkspondeo: Dieendum , quod in hac quaestione                             Nee obstal illud, qiiod moveiis debet esse aliud a
-duae sunt positiones probabiles. concordes rationi                             mobili; quia. sieut animal secundum aliud sui mo-
-et Scripturae, praetcr illain tertiam viam, quam qui-                          vet, secundnm aliud sui es! mohile , et tamen tntum
+               ' Cfr. supra pag. 70, nota 4.                                          tinam sic habet : Quaprojitcr illc orbis babebit virtutcni ct divor-
+               ' Plurimi codd. cum primis edd. et Vat. empyreo ; nostra               sam necessario, dextrum scilicet et sinistrum, quia habet loca
+         fectio est codd. F I (T a secunda manii).                                    principii et flnis ex opcratione sui agcnlis. — In hac quaest. scri-
+               ' Text,   13. (c. 2.), qui secundum       versioncm     .\rabico-la-   bimus dextram, si cst substanlivum, dextermn, si est adicctivum.
+                                                    DIST. XIV. P. I. .\RT. II. OU.\l'ST. II.
 
-       1 Aristol., Vlll. Phys. lext, 28. (c. i.) vult, (luoil molor ililTert   ubi collecta sunt quac ipse liac dc le in Coinmentario super
-                                                                               Aristotelis opera sparsim dixit ; ac simul impugnatur opinio
-a moto. Il)id. text. 86. (c. 10.) et Xli. .■^letjpli. lcxL il. (XI.
-c. 7.) ponil, quod primus motor iion habciit m:ignitiidinem ,                  Avicenniie, qui vult, caelum inlbrmaluni csse anima sensitiva.
-scd sit se|)aralus ab ipsa.                                                          * Dan. 3, u9 : Bcnedicite caeli Domino. — Prosopopeia ,
-       « .\ristol., VIU. Phys. text. 27. seqq. (c. 4.) ct I. de Caelo          ex Graeco icpouMTiOV i. e. persona et tmm i. e. facio sive
-et mundo, texl. 9. seqq. (c. 2.). —          Cl'r. de hoc arg. Avieenna,       fingo, est figui'a i-hetorica , qu:i pei'sonas Iingimus, quac^non
-de Caelo et mundo, c. 7.                                                       suiit , iisque verba et iictiones accommodamus. Cfr. Damnsc. ,
-                                                                               II. rie Fide orthod. c. 6.
-     ' Avicenna, IX. Metaph. c. 2: Omnc quod nioveliii' motu
-non violento, ad aliquid est et desiderium alicuius esl , adeo                      ' Cap. I.D. n. 21: « Per :inim:im eign corpus subsistit,
-quod naturae etiam ost desiderium rei naturalis ; et liaec est                 et eo ipso est qiio iininiiiuir, sive uni\ers::lili>r, ut mimdiis, sive
-perfectio essentialis corpori vel in sua forma , vcl in suo ubi ,              piirliouliiiiter, ii( unumquodquo aninial inlr.i niundum ». Quae
-vel in suo situ. — Qiiod caelum non moveatur pi'opter suam                     verbii relractat, I. Hetriicl, c. 3. n. 3. dicens: Hoc toium pror-
-indigenliam, insinuat Aristot., 1. de Caelo et miindo, lext. 21.               siis temere dictum est. Sed cfr. ibid. c. 1 1. n. 4, cx quo infra p. II.
-seq. (c, 3.) et II. text. 17. (c. 3.), ubi cliam iiidicat linem                Iiuius dist. dub. 3. (|uaedam iiltermiliir, el seholion piig. 347. —
-motus caeli , scil. actioiiem divinam.                                         Verba Ilieronymi , Coinnient. in Eccle. 1 , 6. sunt : Gyrmis gyrnndo
-     ■" Cfr. Aristot., I. de Caelo et miiniio, lexl. 76. seqq. (c. 8.);        vaclit spiritiis ei iii circulos sitos revrrtitur sivc ipsum solem
-Avicenna, iX. Metaph. c. 2.                                                    spiritum nominavit, quod animet et spiret et vigeat et aiinuos
-      ^ Praccipue ,\rabes, qiiorum aiilesigiiaiius .Vvicenna (IX.              orlics suo cursu explcat etc. Cfr. Ambros. . II. llexiiem. c. i.
-Metaph. c. I.) suam opinionem his verbis complectitur: Opor-                   n. 17.
-tel autem, ut causa propinqua primi motus sit anima . non                           s Ch'. .\rislol., II. de Anima. texl. 30. se(|. {r. 3.). Avi-
-Intelligeniia , ct quod c.aelum est animal obediens Deo. Cfr.                  cenna, de Anima sive libri Sexli Niiluriilium, p. I. c. 1. Iiiinc
-                                                                               obiectionem sibi facit et nititur solvere.
-Averroes, de Suljstantia orbis, c. 2; F.pitomes in libros'
-Meliipli. Ii-. .1; Destr. destr. disp. metaph. 14. (alias 13.) sei|q.,              "^ Vide siiprii d. 13. a. 2. q. 1. Iiind:im. 2. et 3.
-                                                              DlSr. XIV. P. I. ART. 111. QUAEST. II.                                                       349
+     ibidem ' : Oiiinis iiiotus finitus iiabel priiicipiuin , a                  molus " »; sed una parte circuli mola . moventur
+     quo incipit; sed cuiuslibet caeli revolutio est finila:                     omnes: ergo non magis incipit motus ab una parte
+     ergo liabet aliqueni situni , a quo inoipil. Sed dex-                       circuli quam ab alia; ergo in circulo vel qu:ielibet
+     tra dicitur in corporiljus , unde est niolus princi-                        pars erit dextera, vel nulla: .sed caeluiii est corpus
+     pium, sinislra, ad quam est motus flnis: ergo cum                           circulare, quia movetur circulariter: ergo etc.
+     caeli sint mobiles, caeli habent dextram et sinistram.                            6. Item , si aliquod corpus habet dextram et 343-
+           3. Item. (lextrum et sinistrum sunt termini
+                                                                                 sinistram, illa pars, 'quae semel est dextera, sem-
+     latiludinis, sicut sursum et deorsum. termini longi-                        per est dextera. qnalitercumi:|ui' corpus illud nio-
+     tudinis, et ante et retro termini profunditatis; sed                        veatur localiter: ergo si caelum habet dextram et
+     omne corpus completum et terminatum baliet tres                             sinistrani, illa pars, quae semel esl in ipso dextera,
+     diniensiones et terminos dimensionum '; corpus au-                          semper est dextera. Sed non est dare aliquani par-
+     tem caeli est huiusmodi; ergo videlur, qiiod liabeat                        tem caeli, quae modo non sit in oriente, modo in
+     dexlram et sinistrain.                                                      occidente, modo in alio loco secundum regyrationem
+           4. Item , perfecliori motu moventur corpora                           caeli; ergo dextra caeli aliquando esset oriens, ali-
+     caelestia quam inferiora; sed propler motus coni-                           quando occidens; quod nullo modo concedi potest".
+     pletioneiii animalia habent dexlram et sinistram :
+                                                                                                      c 0 N c L u s 1 0.
+        ergo multo lortius corpora caelestia ".
+              Contra; 1. Sicut dicit Phiiosophus in secundo de                       /» caelis mohilihus aliquo modo est dextra
+opposi- Caelo et mundo ' : « In plantis nec est dexti'a nec                                           et sinistra.
+        ^inislra u: sed nnUlo niagis plantae accedunt ad distin-
+        ctioiiem organizationis quam caelum: ergo videtur,                             Respondeo; Dicendum. ^  quod quamvis
+                                                                                                                      * rfexfrMwi Dejiiaraiio
+                                                                                                                                        termino-
 
-            eslmovens elmobile'; sic et in caelo intelligendum                              inliaerendo illi maicstati et eius imperiis devotissime
-            est, quod est mobile per naturam quaniiUitis et                                 obtemperando , a quo et per qiiem et in quo facta
-            flgurae, et movens per naturam lucis activae. Nec                               sunt omnia». — Et baec positio magnoruni est tam in Noi.indum.
-            obstat illud, quod recedit ab eodem loeo, ad queni                              theoiogia quam in pbilosophia, quia concors pietati
-            movetur; caelum enim proprie non liabet moveri ad                               fidei et rationi piurimuni esse videtur. Si igitur hanc
-            locum , sed polius circa toctim; nec pars, quae                                 positionem sustinere veiimus, de facili potest ad obie-
-            est in orienle, inovetur ad cccidens, quia illum siluin                         cta in contrarium respoiideri.
-            intendat determinate, sed quia intendit nioveri orbi-                                 1. Ad illud quod obiicitur primo, tiuod motus           soiutio
-                                                                                            ■ 11             1-   T    1
-            culariter, qui est motus competens suae naturae.                                lile est naturalis;   dicendum,   quod1iiiotus ilie
-                                                                                                                                            .1.
-                                                                                                                                                 per obieclorura.
-          Unde sicut dicitnr in i-adio, quod procedit et relro-                             comparationem ad priinum mobile naturalis esse
-          cedit per virtutem suam, cum flt repercussio . ad                                 dicitur, quia natura eius et flgura illi uiotui con-
-          aliquod corpus splendidum ; sic est in proposito. Et                              cordat; nec oportet, quod oinne quod est naturale,
-Bcullatos
-iasdeni.  per  hoc respondent ad omnes obiectiones. — Difficile                             sit a principio intrinseco, sicut a tota causa, sed
-          tainen est secundum banc posilionem sustinere, quo-                               sufficil, quod virtus intrinseca cooperetiir virtuti
-          modo caeium moveatur a propria fonna et nalurali,                                 activae.
-            et illa permauente, quiescat ° praeter violentiam. Dif-                               2. Ad iilud quod obiicilur de gravi et levi, di-
-            ficile est etiam intelligere, quomodo non moveatur                              cendum, quod ad motum gravis non sufficit solum-
-            propter propiam indigentiam, si appetitus ille est in                           modo gravitas sive qualitas propria, immo concurrit
-            forma inlrinseca. Et ideo isti compelluntur ad hoc                              virtus ioci attrahentis et virtus ioci expellentis et
-            redire, utdicant, quod ad motum caeli non sufficit                              virtus corporis quinti, praeter illa duo moventia,
-            virtus propriae formae, sed simul cum ea requiritur                             quae ponit Phiiosophus % scilicet generans grave et
-            influxus divinae polentiae, secundum quem caeluin                               leve, et removens prohibens; et quia haec ad mo-
-1'ilur alia habet nioveri et quiescere. —
-oaestio.                                       Sed tunc remanet                             tum caeli non possunt concurrere, oportet. quod
-            quaestio. quid sit ille influxus, utrum dicat quid                              concurrat virtus spirituaiis substantiae.
-            creatum. , vel increalum; et sive boc dicat. sive                                     3. Ad iiiud qnod obiicitur de diffusione lucis,
-            illud, non est facile explicare, quare Deus illum                               dicendum, quod ille non esl motus /oca/w proprie, Noiawiiim.
-            motuni exerceat sine ministerio spiritualis creaturae,                          sed magis motus alterationis. Unde sicut ignis po-
-            cum illi sit natus convenire. — Nec tamen de facili                             test caiorem suum difl^undere deorsum, tamen vir-
-m Ulrnen
-irobatm-.   potest boc improbari. si quis hoc dicat, quod defe-                             tute propria non se movet de loco, in quo est; sic
-            ctum istius creaturae corporalis velit Deus per se-                             in caelesti corpore intelligendum est esse.
-            metipsum supplere, ut ostendat, se esse Deum caeli                                    4. Ad iiiud quod obiicitur, quod ad coinplelio-
-            et lerrae^; el ita dicatur caelum moveri viriute pro-                           nem motus facit, quod aiiquid moveatur a principio
-            pria, quod, si aliquid desit sibi ad movendi suffi-                             intrinseco; dicendum, quod hoc accidit. Non enim
-            cientiam , suppleatur ab ipsa virlute divina. Et sic                            iioc est propter unionem motoris ad mobile , sed
-            suslinendo hanc positionem , responsio ad obieeta                               propter sulficientiam motoris, qui quidem est sub-
-            est satis plana.                                                                staiitia spirituaiis , distans a materia; unde distantia
-                  Aha vero posilio est. quod Deus movet caelum                              motoris a mobili et completio inotoris ilia est, quae
-tpinio el mediante Inlelligenlia creata sive mediante Angelo;
-icliisio 2.                                                                                 facit ad motoris' perfectionem. Hoc autem niulto raa-
-            et hoCcompetehal ordini . quem Deiis constituit uni-                            gis reperilnr in inotu caeli, quod movelur ah Angeio
-            verso, de ipio dirit Augustinus super Genesim ad                                sive ab Intelligentia, separata secundum substantiam,
-            lilteram ', quod Detis sic inuiuium ordin:ivit, ut                              unita secundnm virtutem , quam si moverelur a
-            spiritum praeficeret onini corpori. Et ideo, sicut
-                                                                                            proiiria forma.
-            coiigruum cst. Angeios depulari ad minislerium ho-                                    a. Ad illud cpiod obiicitur, quod necess;n'ium
-            minum. sic etiam congruum est, lieputari ad mo-                                 non pendet a vokmtario; dicendum , quod vcrum
-            lum et regimen caelorum, cum in iioc etiam mini-                                est de voluntate verlibili. Quamvis autein voluntas
-            strent lioinini vialori et divinne subservianl maie-                            Angeli sil per naturam vertibiiis , tamen per gio-
-            slaii. Et lioc videtur Augusliiius sentire in tertio de                         riam oinnino invertibilis efflcitur; el taiem substan-
-            Libero Arliitrio% loquens de angeiica natura, de qua                            tiam inteiiigendum est esse caeli motricem, quae,
-            dicit. qiiotl << non sua maiestate continet omnia, sed                          ut dicit Augustinus ', suminae             inaiestati continenti
+        quod caelum non habeat dextram et sinistram.                             et sinislrum dicant terminos latitudinis, et sursum "■"'■
+              ± Item, dextrum et sinistrum eausantur in                          et deorsum longitudinis, et ante et retro profun-
+        nobis, iil dicit Commentator super librum de Caelo                       ditatis; non tamen nominant terminos illos simpli-
+        et niundo °. a qualitatibus activis et passivis, scilicel                citer, sed per comparationem ad motuni. Unde in
+        ali abundantia caloris naturalis procedente a corde,                     nullo corpore ponitur proprie dextra et sinistra ,
+      et spirituum plus vigentium in pai'te dextera quam                         nisi quod diversimode suscipit inotoris influentiam,
+      sinistra: si igitur hoc non est reperire in caelesti                       ita quod priino in una parte quam in alia. Unde
+      iiatura. videtur etc.                                                      dextrum et sinistrum non ponitur esse iiec in la-
+            3. Ileiii. dexlrum et sinislrum praesupponunt                        pide nec in planta, nec etiam in statua ponunlui'
+      sursum et deorsum, sicut latitudo praesupponit                             nisi similiiudine '°, quia non habent moveri localiter
+      longitudinem et habet secuni annexa ante et retro;                         a motore sufliciente. In eis vero corporibus, quae
+      in caelo autem non est ponere sursum et deorsum,                           moventur ad locum , el magis in una parle susci-
+      cum haec siut contraria; non est etiain ponere onte                        piunt motoris influentiam quaiii in alia, proprie po-
+      et retro , cum «ante dicatur, ubi est sensus». si-                         nitur dextra et sinistra , sicut in aiiimalibus. qiiae
+      cut dicil Philosophus'': ergo videtur, quod non sit                        moventur motu progressivo. et in quibus virtus
+      ibi dextra et sinistra.                                                    cordis et motoris magis viget in parte dexlera; cuius
+            4. Item. nihil quod habet extra se principiuni                       signuni esl maior fortitudo animalinm in parte illa,
+      et fiiiem sui motus, liabet dextram et sinistram';                         propter quod et illam paitem primo movenl, quaiido
+      sed corpus caeli esl huiusmodi. cum motor eius sit                         incipiuiit ambulare ". — Secundum hoc intelligen- ^pp''™''"-
+      separalus: ergo non habel dextram et sinistram.                            dum est, quod cum corpus caeleste (|uoddani habeat
+            0. ileiii. « dextrum est. unde est piincipinm                        moveri ab oriente in occidentem, vel e converso
 
-                  1 Cfr. .\ristol. , Vlll. Pliys. tfxl. 2R. el .}1. seq. (c. i. cl ■';.).         5 Cap. 11. n. 33, ubi texlus originalis iH/((S maiestnti \iv(t
-                                                                                            itli maieslnti.
-                  2 In cod. .\ addilur soilket post iudicium. Aliquonlo inl'c-
-            riiis codd. cum cd I bis flua^us pro influxus.                                        « Libr. Vlil. Phys. lexl. 32. (c. 4.). — Val. omillit
-                  3 Gen. 24, 3; ludilli. 6. IS.
-                  ■■ Libr. VIII. e. 23. n. 44 : Ergo Dei pio^idenlia regens                 genercms.
-                                                                                                 ~ Vot. motus. et paulo inferius unilam pro unita.
-            atc|ue administrans universam creaturam... subdil pi-imitus                          8 Libr. III. dc Lib. Arb. c. 11. n. 33. Vide hic in rorp.
-            pmnia sibi , deinde crcaturam corporalem creaturae spirituali ,                 q. circa llnem. — Vat. cum pluribus codd. iucontinenti, et
-            irrationiilcni rationali etc. Cfr. 83. Qq. q. 79. n. 1 , ubi dicit :            paulo inferius conservandam pro consimmandam , ubi cd. 3
-            Unaquact|iie res visibilis in boc mundo habet potestatem ange-                  cum pluribus codd. fruendam.
-            licam sibi praepositam.
-        380                                                  SENTENTIARUM LIB. II.
 
-           perfecte inhaereat. Et quod talis substantia sit motrix              tis finitae, lassalur; dicendum, quod lassationem
-soiandura. caeli , ostendit ipsius niotus nobilitas et uniformitas              non facit finitas, sed improportio motoris ad mo-
-           et necessitas; ostendit nihilominus quies futura, cum                bile, vel contrarietas , vel ineptitudo ex parte mobi-
-           perfecta erit superna civilas, ad quam consumman-                    lis; quorum nullum est in proposito. El sic patent
-           dam finaliter ordinatur ministratio angelica.                        quaesita, et per hoc etiam manifestantur quae dicun-
-                 (5. Ad illiid quod obiicilnr, quod cum sit virtu-
-                                                                      tur in littera '.
+            ' Texl. 13. (c. -2.). InlVa ccl. 1. pi iiliirimi codd. oiDiltiint:         « Libr. 11. dc Caelo et mundo, text. 8 ; III. de Parlib.
+      sinistra, iid quam est motus finis.                                        aiiinial. c. 3 ; de Incessu animal. c. i. — Muior arg. insi-
+            ■ Arislol., loc. cil. te.\t. 8. Cfr. supiM p:ig. .S24, notii I.      miatur ab Aristot., II. de Caelo cl mundo, lext. 12; ct
+            3 Aristot., loc. cil. tcxt. 9. seqq. (c. 2.).                        prima pars minoris ibid. text. 14.
+            ■" Tcxl. 12. (c. 2.). Cfr. etiam ibid. text. 7.                            ' Aristot. , II. de Caelo e( mundo, lesl. 0.
+            5 Libr. 11. text. 8-12, ubi docet, quod motus essenlialiter                8 .\ristot. , loc. cil. text. 1.5. — .Vltera pars aig. indicalur
+                                                                                 ibid. texl. 13.
+      sit in dexu-(i, et quod dextrum a sinistro per virtulem tanlum
+      dislingualur, et quod dextrum sit exitus motionis , quia princi-                  ^ Aristot. , loc. cit. text. 13. — Paulo superius nonnulli
+      pium motns animaliiim est a corde, sicut declaruUiin est in                 codd. in alio iibi pro in alio loco.
+      libio dc Molu animalium. In exposilione III. de Parl. animal.                     '" Ita antiquiores codd. Vat. cum nonnullis codd. similitu-
+      c. 4, ubi agit Aristotcles dc cordc animalium, Avorroes ait :               dinarie; Aristot. , II. de Caelo et mundo, text. 10. fc. 2.):
+      Arisloteles vero putal, cor liabere duplicem ventrioulum, cum               Secundum siniililudinem nostri, quemadmodum ea (juac sunt
+      huiusmodi duplicatio et geminatio conveniat duplici parti ani-              statuae.
+      malium , scil. dcxlrae et sinislrae. Et hanc divisionem cordis                    " .U erroes , in H. de Caelo et mundo, tcxt. 8; Primo
+       diversamque naturam eius existimat esse caiisam diversilalis               movet aninial dexlrum pedcm , deinde sinistrum , ut super hoc
+       laleris dexteri el sinistri animalium; quare imaginatur ipse               sustentetur. Cfr. Aristol. , de Incessu animai. c. 4 ; Quod autem
+       Aristoteles , ventrioiilum dextrum esse calidiorem, qnemartmn-             a dextris molinnis est initium , indicium est, omnes ferre onera
+       dnm pars dexlera est calidior.                                             sinislris etc.
+        344                                                      SENTENTIARllM Lll). 11.                                                                 *
+
+            sicut firmamentum el orbes planetarura, quodtlam                             2. Ad illud quod obiicitur, quod dextrum et
+            vero mininie, sicut empyreum, quod dexlra el si-                       sinistrum in nobis est a qualitatibus activis et pas-
+ cor,dasio. nislra caelis competant satis proprie , non tamen                      sivis; iam patel responsio ex praedictis, quia dex-
+            universaliter; Gonveniunt enim orbibus- mobi.libus ,                   trum. et sinistrum in animalibus concernunt partes
+            sed non orbi immobili.                                                 determinatas , propter unionem motoris ad mobile,
+                  .Utendendum autem est, quod cum in ani-                          non solum per modum motoris, sed etiara per mo-
+Espiicatur. malibus et in caelo ponatur ' dextra et sinistra                       dum perfectionis ; et ideo ad hoc, quod una pars
+            secundum rationem cuiusdam conformitatis, scilicet                     magis suscipiat motoris influentiara. requiritur dis-
+                                                                                   positio alia et alia, quae quidem flt per qualitates
+            propter influenliam motoris; diiTerenter tamen acci-
+            piuntur propter diversam comparationem mobilis ad                      activas et passivas. In eaelo autera non sic est, si-
+            motorem. Quia enim animalia moventnr a motore                          cut ostensum est supra.
+                                                                                         3. Ad illud quod obiicitur , quod dexlrura el
+            sibi unito, ideo dextrum et sinistrum dicit distin-
+            ctionem in partibus animalium, ita quod illa pars,                     sinistrura praesupponmit sursura et deorsura; re-
+            quae modo cst dextera. nunquam est sinistra, quia                      sponderi potest. quod veruni est, prout sursum el
+            uniformiter comparatur ad ipsius motoris inflnen-                      deorsum dicunt terminos dimetisionis '^ \ non autem "is'™»».
+                                                                                   est verum, prout dicunt inchoationera et terrainum
+            tiam , pro eo quod ipsum hal)et sibi unitum , et                       alicuius transmutationis. Secundura enim sursum
+            nunquam ab eo magis elongatur. Corpus vero cae-
+         - leste motorem habet separalum, cum non sit cor-                         et deorsum proprie attenditur augmentnra sive mo-
+                                                                                   tus ad locum, sed secundum dextrum el sinistrum
+            pus animatum , sicut postea- videbilur; et ideo mo-                    attenditur motus in loco. Ideo , etsi in caelo pona-
+            tor secundum Dei dispositionem principaliter influit
+                                                                                   tur dextrum et sinistrum, non tamen oportet sic
+            ex aliqua caeli parte ; et creditur probabiliter, quod
+          . in ea parle, ex qua motus corporum caelestium                          poni sursum et deorsum. — Aliter tamen potest ai'» soimii
+                                                                                   responderi raagis secundum opinionem Philosophi".
+            primo nobis apparent , utpote in orienle ', cum                        quod in caelo est ponere sursum et deorsum , et
+            omnia corpora facta sint propter horainem. Et quia
+            motor semper ex illa parte influit uniformiter ,                       ante et relro, sicut ponitur dextrum et sinistrum,
+                                                                                   non quia dicant terminos diversorum motnura , sed
+            quaecumque pars ibi veniat, immediatius et pro-
+                                                                                   quia in eodem raotu considerantur ultima trium di-
+            pinquius suscipit motoris influentiam. Et ideo sem-
+            per est ibi dextra nec mutatur cum partibus mo-                        meosionum, hcet magis proprie dextrum et sini-
+                                                                                   strum. Et hoc patet. Ad hoc enira , quod caelum
+            bihs, pro eo quod non est dispositio absoluta, sed
+            relata ad motoris influentiam, quae semper raanet                      revolvatur, necesse est ponere duos polos. quorum Noiandum,
+                                                                                   unus habet rationem sursum, et aller rationem
+             fixa. Et per hunc modiim locus cuiushbet rei dici-
+            tiir esse immobilis, propter hoc quod dicit situm                      deorsnm. Est etiara ponere duo heniisphaeria, quo-
+             relatum ad centrum ei circuraferentiam mundi, quae                    rum unum habet rationem ante , et alterum habet
+             nunquam possunl moveri \                                              rationem retro. Necesse est etiam ponere, quod in
+                   Ex praedictis patet quaestio proposita. patet                   heraisphaerio una pars sit , ex qua caelestia corpora
+             etiam responsio ad obiecta. Concedendum est enim,                     primo apparere incipiant : altera vero pars , ex qua
+             quod in caelo sit dextra et sinislra: et raliones ad                  desinant. Et hoc totum de facili est imaginari, si
+             hoc inductae similiter concedendae sunt , quia verum                  quis imaginatur horainem. qui pedes habeat in polo
+ Ad 3. f.m- concludunt, licet tertia ratio, sumta a dimensionibus,                 arctico, et caput in polo antarctico. et habeat faciem
+ ■^™'       procedat ab insuflicienti.                                              versam ad nostrum hemisphaerium , statim imagina-
+                  1. Ad illud vero quod obiicitur in contrarium,                   bitur differentias harum positionura ".
+                                                                                         4. Ad illud quod obiicilur, quod caelum habet
+soMoop-quo planta non habet dextram et sinistram, quain-
+posiloruD].    d
+            vis sit organizata ° ; dicendum , quod dextram et                      exti'a se principium sui motus , et ita non habet
+                                                                                    dextrum et sinistrum ; dicendum, quod illud verum
+            sinistram non facit principaliter membrorum distin-
+            ctio; hoc enim accidit et frequenter contingit, quod                   est, quando dextrum et simstrum nominant partes
+            eiusdem dispositionis est animal in parte dextra et                    determinatas; sed quando nominant ordinem raobilis
+                                                                                   ad motoris influentiam, non habet veritatem; nihil
+            sinistra; sed hoc facit influentiae motoris principa-
+            lior et minus principalis susceptio , secundum quam                    enim facit ad hoc, utrum sit motor intra, vel
+                                                                                   extra.
+            attenditur inclioatio motus et terminatio; et sic re-
+            peritur in caelo.                                                            0. .\d illud quod obiicitur, quod una parte cir-
+
+
+              1 Cod. cc ct cdd. 1 ponitiir ; cod. aa ponantvr.                          •^ Nam sicut linea est prior superficie ct corporc , ita
+              ° Seq. iirl. q. 2. — Ali.iuanto superius Val. operatur pro           svrsum prius est qiiam anteritis et dextrum. — Paulo infe-
+         comparatur.                                                               rius post iransmutatioms cod. cc et ed. 1 subiungunt secun-
+              3 Cfr. Aristot. , VIII. Pliys. te.xt. 84. (c. 10.); .Averroes , in   (hm quae dicitur esse dextrum et sinistrum..
+         U. de Caclo et niundo , text. IS.                                              ' Libr. II. de Caelo et mundo, text. 13. seqq. (c. 2.) et
+              < .\ristot., IV. Phys. text. 41. (c. -1.) locum definit, quod        IV. text. 4. seq. (c. 1.).
+         sit « continentis terminus immoliilis, prinius ».                               8 Aristot. , II. de Caelo et mundo, te.\t. 13. (c. 2.) eandem
+              5 Val. cum pluribus mss. et ed. I organica.                           adhibet imaginationem.
+                                                    niST. \l\'. P. I. MVr. III. QUAIiST. I.                                                34 b
+
+       culi mota, inoveiitur omnes; dicenduiii, quod veruiii                  tera semper est dextera; iam patet responsio. quia
+       esl; sed tamen ex boc non sequitur , quod aeque                        hoc intelligitui' de ilio dextro et sinistro, quod dicit
+       primo recipiant motoris influentiam; quod patet, cum                   dispositionem partium in comparatione ad motorem
+       aqua niovet rolaui , primo movet illam parrern, quam                   coniunctum, sicut est in animalibus; hoc ;iuteni
+       contingit,                                                             niodo non ponitur in corporibus caelestibus, sicut
+             li. Ad ultimum quod obiicitur, quod pars dex-                    prius tactuin est '.
 
 ## English
 

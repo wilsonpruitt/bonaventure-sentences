@@ -1,21 +1,30 @@
 ---
-id: "bon-sent-II-d14-p1-divisio-dup2"
+id: "bon-sent-II-d14-p2-divisio"
 volume: 2
 book: 2
 distinctio: 14
+pars: 2
 type: divisio
-line_start: 24796
+line_start: 24788
 line_end: 24835
-word_count_latin: 408
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 460
+transcription_status: "auto-chunked 2026-05-13 as misnamed p1-divisio-dup2; renamed to p2-divisio 2026-05-23 (d11-d20 pre-promotion boundary sweep + manual re-grep: COMMENTARIUS IN DISTINCTIONEM XIV. opener for PARS II at raw line 24788; DIVISIO TEXTUS at 24796; TRACTATIO QUAESTIONUM at 24821; ARTICULUS I opener at 24831; QUAESTIO I begins at 24836 = p2-a1-q1). Extended line_start from 24796 → 24788 to absorb the COMMENTARIUS header per d.11/d.10 convention"
 format_version: 1
 ---
 
-# bon-sent-II-d14-p1-divisio-dup2
+# bon-sent-II-d14-p2-divisio
 
 ## Latin
 
-DIVISIO TEXTUS.
+                              COMMENTARIUS                         IN DISTINCTIONEM XIV.
+                                                                        Pars II.
+
+                                                De productione insensibilium contentorum.
+
+                                    Sequitur: Dixit Dem: congregentur aquae in locum umim.
+                                                   TEXTUiM   MAGISTIU    VIDE     SUPRA   PAG.   334.
+
+                                                                DIVISIO TEXTUS.
 
              Supra egit Magister de prodnctione insensibilium                   duplici differentia: quaedam enim intra caelos con-
         continentium , in hac parte agit de productione in-                     tinentur ut materialia respectu generandarum re-
@@ -53,6 +62,8 @@ DIVISIO TEXTUS.
                                                                 ARTICULUS \.
 
                                  De luminaribus in comparalione ad corpus , in quo locantur.
+
+
 
 ## English
 
