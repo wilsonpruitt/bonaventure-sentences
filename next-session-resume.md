@@ -49,9 +49,10 @@ Per the locked Vol II workflow (see CLAUDE.md):
 
 ## Open project-wide TODOs (not d.11-specific)
 
-- **Site deploy still PAUSED for Vol II.** No-deploy decision is Wilson's;
-  surface when convenient. (Vol I site at bonaventure.wrootpress.com is
-  unaffected — only Vol II additions are uncommitted to prod.)
+- **Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com as of 2026-05-23**
+  (deployment `dpl_A5VrMrRvVdH96VnwNZ6k6jjtYxnw`, 876 quaestio routes,
+  541 translated). Vol-II-deploy pause is LIFTED — going forward, deploy
+  after each decade ships (or sooner at Wilson's discretion).
 - **Next decade polish-blocker fires after d.20.** Same three-pass cadence;
   `manual-review/d11-d20-polish-resolution-log.md` will be the log.
 - **Vol I site copy** still hardcodes "Volume I" in `site/src/app/page.tsx:47,57`
