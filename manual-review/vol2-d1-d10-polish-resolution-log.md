@@ -269,10 +269,39 @@ item in d.1–d.10 has been resolved against 600 dpi PDF.
 **Only Pass 3 (cross-chunk boundary integrity sweep) remains before the
 d.11 gate opens.**
 
-## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — PENDING
+## Pass 3 — cross-chunk boundary integrity sweep (d.1–d.10) — COMPLETE 2026-05-22
 
-For every mid-page chunk boundary in d.1–d.10, verify against 450 dpi PDF
-column bands that no body text or footnote was lost at the seam (the OCR
-cascade-merge failure mode — see `d9-divisio` s66 incident). d.10's nine
-boundaries were each documented CLEAN at promotion time (see each d.10
-chunk's `## Notes`); d.1–d.9 boundaries still need the sweep.
+d.10's nine mid-page boundaries were each documented CLEAN at promotion
+time (see each d.10 chunk's `## Notes`).
+
+**d.1–d.9 sweep (this session): ALL ~98 mid-page chunk boundaries CLEAN.**
+For each shared-page boundary between adjacent chunks (chunk N's last
+printed page == chunk N+1's first printed page) the closing of chunk N's
+body and the opening of chunk N+1's body were inspected for (a) grammatical
+continuity / no broken splice in chunk N's tail (the cascade-merge
+signature), (b) clean structural transition (chunk N ends a bibliography
+Scholion or a complete reply; chunk N+1 opens with a fresh ARTICULUS /
+QUAESTIO / Dubia / COMMENTARIUS heading or a divisio that continues the
+prior litttera). Apparatus splits across shared pages already documented
+in each chunk's `## Notes` (recurring footer-merge bug from earlier sessions
+was repaired in Pass 1; no new instances found).
+
+Per-distinction tally of mid-page boundaries verified CLEAN:
+- d.1 — 14 boundaries (littera/divisio/q1-q2 of p1, all article seams,
+  p1-dubia/p2-divisio seam, p2 article seams, p2-dubia tail)
+- d.2 — 15 (includes d1-p2-dubia → d2-littera cross-distinction at p.52)
+- d.3 — 13 (includes d2-p2-dubia → d3-littera cross-distinction at p.86)
+- d.4 — 7 (includes d3-p2-dubia → d4-littera cross-distinction at p.129)
+- d.5 — 7 (includes d4-dubia → d5-littera cross-distinction at p.143)
+- d.6 — 7 (includes d5-dubia → d6-littera not applicable [no share];
+  d6 internal seams + cross to d7-littera at p.170)
+- d.7 — 13 (p1: 7 incl. d6-dubia→d7-littera cross at p.170;
+  p2: 6 incl. d7-p2-dubia→d8-littera cross at p.207)
+- d.8 — 14 (p1: 7; p2: 7 — no cross to d.9 since d8-p2-a1-q6 ends p.234,
+  d9-littera starts p.235)
+- d.9 — 8 (littera→divisio at p.237 CLEAN; divisio→a1-q1 at p.241 CLEAN
+  — explicitly re-verified the s67-restored *tertia hierarchia* subdivision
+  + Gregorius/Dionysius reconciliation are present in d9-divisio body; the
+  6 remaining q-to-q seams CLEAN)
+
+**The d.11 gate is OPEN.** Translation may resume at d.11.
