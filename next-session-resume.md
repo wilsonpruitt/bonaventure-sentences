@@ -1,8 +1,8 @@
-# Next session — **d.12 promotion: 7/9 done**. Begin d12-a2-q3.
+# Next session — **d.12 promotion: 8/9 done**. Begin d12-dubia.
 
-**d.1–d.11 COMPLETE = 139 chunks. d.12 promotion: 7/9 done**
-(d12-littera, d12-divisio, d12-a1-q1, d12-a1-q2, d12-a1-q3, d12-a2-q1, d12-a2-q2).
-Build: 557 translated, 878 quaestio routes.
+**d.1–d.11 COMPLETE = 139 chunks. d.12 promotion: 8/9 done**
+(d12-littera, d12-divisio, d12-a1-q1, d12-a1-q2, d12-a1-q3, d12-a2-q1, d12-a2-q2, d12-a2-q3).
+Build: 558 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
@@ -18,38 +18,33 @@ end-of-d.20.
 | `d12-a1-q3`    | 21187–21396 | 3087 | Tier 2 (2026-05-23) |
 | `d12-a2-q1`    | 21397–21552 (eff., incl. ART II opener) | 1822 | Tier 2 (2026-05-24) |
 | `d12-a2-q2`    | 21553–21646 | 1021 | Tier 2 (2026-05-24) |
-| `d12-a2-q3`    | 21647–21744 |  ~   | skeleton — **NEXT** |
-| `d12-dubia`    | 21745–21841 | 1332 | skeleton |
+| `d12-a2-q3`    | 21647–21744 | 1326 | Tier 2 (2026-05-24) |
+| `d12-dubia`    | 21745–21841 | 1332 | skeleton — **NEXT** |
 
 ## What to do this session
 
-**Promote `d12-a2-q3`** — d.12 Article II, Quaestio III: "Quam
-relationem materia illa informis habuerit ad locum." QUAESTIO III
-opens on p.305 R lower (visible at the top of /tmp/colcrop/vol2-p305-R-1.png
-under the SCHOLION block) with "Tertio quaeritur de illa informi
-materia quantum ad locum…". Body should run p.305 R → p.306 (and
-possibly p.307); the audit-apparatus-count heuristic flagged d12-a2-q3
-at raw=7 footer entries.
+**Promote `d12-dubia`** — d.12 DUBIA CIRCA LITTERAM MAGISTRI. Opens
+on p.306 R lower with "DUB. I. In parte ista sunt dubitationes circa
+litteram, et primo quaeritur de hoc quod dicit, quod materiam quatuor
+elementorum nomine terrae appellavit Moyses…" and bleeds onto p.307+.
+Audit-apparatus-count heuristic shows raw=9 footer entries.
 
-1. p.305 + p.306 crops already cached at /tmp/colcrop/vol2-p30{5,6}-*.png.
-   Generate p.307 if the body bleeds:
-   `python3.11 tools/extract-pages.py --volume vol2 --pages 307 --dpi 450`
-   then `python3.11 tools/colcrop.py vol2 307 1660 3 1.8`.
-2. Body Latin base from IA djvu OCR raw 21647–21744 + reconcile
-   against PDF column bands.
-3. Apparatus: walk every numbered footer entry per printed page.
-   **Important — printed-block scholion II** ("Sequentem 3. quaestionem
-   ex Hugone a S. Victore accepit Magister (hic c. 3 or 5.). De ea
-   explicite tractant Alex. Hal., loc. cit. in fine, et Petr. a Tar.,
-   hic q. unica, a. 5.") sits at the foot of p.305 R between q2 and q3
-   and was **explicitly reserved for this chunk**; promote it into
-   d12-a2-q3's `### Scholion` block as item **I.**, then any q3-specific
-   scholion that appears later (at the foot of p.306/p.307) follows as
-   **II.** etc. See d12-a2-q2's `## Notes` for the rationale.
+1. p.306 crops already cached at /tmp/colcrop/vol2-p306-*.png. Generate
+   p.307+ as the body runs:
+   `python3.11 tools/extract-pages.py --volume vol2 --pages 307-309 --dpi 450`
+   then `for p in 307 308 309; do python3.11 tools/colcrop.py vol2 $p 1660 3 1.8; done`.
+2. Body Latin base from IA djvu OCR raw 21745–21841 (+ any bleed past
+   line 21841 — extend the range as needed) reconciled against PDF
+   column bands.
+3. Apparatus: p.306 footers **9 and 10** (Libr. I. de Sacram. p. I. c. 6;
+   Gen. 1, 2) are anchored in the dubia text on p.306 R bottom and were
+   **reserved for this chunk** — pick them up at the head of the chunk's
+   apparatus numbering. Continue with p.307+ footer per-page numbering.
 4. Three audits + smoke build, then two-commit rhythm (chunk +
-   content.json; this resume note → **d12-dubia**).
+   content.json; this resume note → **d13-littera** to open d.13 gate).
 
-After d12-a2-q3, finish d.12 with: dubia. Then d.13 gate opens.
+After d12-dubia, **d.13 gate opens.** The d.10 polish-blocker has been
+closed; the next polish-blocker is d.20.
 
 ## Tooling status
 
