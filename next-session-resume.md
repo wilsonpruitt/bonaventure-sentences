@@ -1,53 +1,45 @@
-# Next session — **d.13 promotion: 7/9 done.** Begin d13-a3-q2.
+# Next session — **d.13 COMPLETE.** Begin d.14 (pars-1, then pars-2 manual-rescue chunks).
 
-**d.1–d.12 COMPLETE = 148 chunks. d.13 promotion: 7/9 done** (d13-littera, d13-divisio, d13-a1-q1, d13-a1-q2, d13-a2-q1, d13-a2-q2, d13-a3-q1).
-Build: 566 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE = 157 chunks.** Build: 568 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
-## d.13 chunk inventory
+## d.13 close-out (2026-05-24)
 
-| chunk | lines | wc_la | status |
-|---|---|---|---|
-| `d13-littera`  | 21842–21990 | 1941 | Tier 2 (2026-05-24) |
-| `d13-divisio`  | 21996–22048 |  585 | Tier 2 (2026-05-24) |
-| `d13-a1-q1`    | 22053–22247 | 2728 | Tier 2 (2026-05-24) |
-| `d13-a1-q2`    | 22248–22436 | 2628 | Tier 2 (2026-05-24) |
-| `d13-a2-q1`    | 22445–22585 | 2099 | Tier 2 (2026-05-24) |
-| `d13-a2-q2`    | 22586–22883 | 4659 | Tier 2 (2026-05-24) |
-| `d13-a3-q1`    | 22894–23121 | 3127 | Tier 2 (2026-05-24) |
-| `d13-a3-q2`    | 23122–23351 | 3358 | skeleton — **NEXT** |
-| `d13-dubia`    | 23352–23549 | 2861 | skeleton |
+All nine d.13 chunks Tier-2 complete: `d13-littera`, `d13-divisio`,
+`d13-a1-q1`, `d13-a1-q2`, `d13-a2-q1`, `d13-a2-q2`, `d13-a3-q1`,
+`d13-a3-q2`, `d13-dubia`. All three Vol II audits clean for d.13
+(paraphrase 0 critical / 0 high; apparatus-count 0 flags; headers
+3/3 ART, 4/6 QUAEST, 2/4 DUB — no LOSS flag).
+
+## d.14 chunk inventory (next)
+
+d.14 has multi-pars structure (PARS I + PARS II); the auto-chunker
+created `d14-p1-*` and `d14-p2-*` chunks per the manual-rescue plan.
+Per the boundary-sweep audit (`manual-review/d11-d20-boundary-sweep-audit.md`):
+the manual-rescue chunks still in skeleton are `d14-p1-a2-q1`,
+`d14-p1-a2-q2`, `d14-p1-a3-q1`, `d14-p1-a3-q2`, `d14-p2-divisio`,
+`d14-p2-a1-q3` — plus the normal d.14 skeletons created by the
+auto-chunker.
+
+`ls vol2/bon-sent-II-d14-*` will show the full d.14 chunk set; start
+by promoting `d14-littera` (Lombard's text for distinction XIV) per
+Vol II cadence, then walk pars 1 → pars 2 chunk-by-chunk.
 
 ## What to do this session
 
-**Promote `d13-a3-q2`** — d.13 Article III, Quaestio II (probably
-*Utrum lumen sit qualitas substantialis, vel accidentalis* per the
-Article opener's *Secundo, dato quod sit qualitas, est quaestio,
-utrum sit substantialis, vel accidentalis*). Opens **top of p.327**
-under "DIST. XIII. ART. III. QUAEST. II." running head. Raw lines
-23122–23351, ~3358 words. Apparatus-count heuristic raw=29 — dense.
-Body likely spans p.327 → p.329.
+**Promote `d14-littera`** — the next quaestio in cadence. Per the Vol II
+recipe, find printed-page span from chunk frontmatter, extract +
+column-band crop, then reconstruct body + apparatus column-by-column.
 
-1. Extract + crop p.327–p.329:
-   `python3.11 tools/extract-pages.py --volume vol2 --pages 327-329 --dpi 450`
-   then `for p in 327 328 329; do python3.11 tools/colcrop.py vol2 $p 1660 3 1.8; done`.
-2. Body Latin base from IA djvu OCR raw 23122–23351 reconciled against
-   PDF column bands. Watch the column-shattered Respondeo per Vol II
-   Override.
-3. Apparatus: walk every numbered footer per printed page.
-4. Three audits + smoke build, then two-commit rhythm (chunk +
-   content.json; this resume note → **d13-dubia**).
-
-After d13-a3-q2: d13-dubia. Then d.14 gate opens (caution: d.14 has
-multi-pars structure; the chunker created d14-p1-* and d14-p2-* chunks
-per the manual-rescue plan).
+After d14-littera: walk d.14 chunks in semantic order (divisio → p1
+articles → p2 divisio → p2 articles → dubia if any).
 
 ## Tooling status
 
-- 450 dpi PDF crops cached for pp.274–326 at `/tmp/colcrop/vol2-p*`.
-  Generate p.327+ as needed.
+- 450 dpi PDF crops cached for pp.274–333 at `/tmp/colcrop/vol2-p*`.
+  Generate p.334+ as needed.
 - Manual-rescue chunks (d.11–d.20 boundary sweep) still skeleton:
   d16-a1-q2, d18-dubia, d19-littera, d14-p2-divisio, d14-p2-a1-q3,
   d14-p1-a2-q1/q2, d14-p1-a3-q1/q2. Promote in normal Vol II cadence.
