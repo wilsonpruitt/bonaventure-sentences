@@ -1,8 +1,8 @@
-# Next session — **d.12 promotion: 6/9 done**. Begin d12-a2-q2.
+# Next session — **d.12 promotion: 7/9 done**. Begin d12-a2-q3.
 
-**d.1–d.11 COMPLETE = 139 chunks. d.12 promotion: 6/9 done**
-(d12-littera, d12-divisio, d12-a1-q1, d12-a1-q2, d12-a1-q3, d12-a2-q1).
-Build: 556 translated, 878 quaestio routes.
+**d.1–d.11 COMPLETE = 139 chunks. d.12 promotion: 7/9 done**
+(d12-littera, d12-divisio, d12-a1-q1, d12-a1-q2, d12-a1-q3, d12-a2-q1, d12-a2-q2).
+Build: 557 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
@@ -17,32 +17,39 @@ end-of-d.20.
 | `d12-a1-q2`    | 20932–21186 | 3687 | Tier 2 (2026-05-23) |
 | `d12-a1-q3`    | 21187–21396 | 3087 | Tier 2 (2026-05-23) |
 | `d12-a2-q1`    | 21397–21552 (eff., incl. ART II opener) | 1822 | Tier 2 (2026-05-24) |
-| `d12-a2-q2`    | 21553–21646 |  ~   | skeleton — **NEXT** |
-| `d12-a2-q3`    | 21647–21744 |  ~   | skeleton |
+| `d12-a2-q2`    | 21553–21646 | 1021 | Tier 2 (2026-05-24) |
+| `d12-a2-q3`    | 21647–21744 |  ~   | skeleton — **NEXT** |
 | `d12-dubia`    | 21745–21841 | 1332 | skeleton |
 
 ## What to do this session
 
-**Promote `d12-a2-q2`** — d.12 Article II, Quaestio II: per the
-audit-apparatus-count heuristic the raw range 21553–21646 has ~13
-footer entries; expect body to span p.304 R lower → p.305 (and
-possibly into p.306). The opening line on p.304 R is "QUAESTIO II.
-*Utrum materia prima producta sit in die, an ante omnem diem.*" with
-"Secundo quaeritur de informi materia quantum..." beginning the body.
+**Promote `d12-a2-q3`** — d.12 Article II, Quaestio III: "Quam
+relationem materia illa informis habuerit ad locum." QUAESTIO III
+opens on p.305 R lower (visible at the top of /tmp/colcrop/vol2-p305-R-1.png
+under the SCHOLION block) with "Tertio quaeritur de illa informi
+materia quantum ad locum…". Body should run p.305 R → p.306 (and
+possibly p.307); the audit-apparatus-count heuristic flagged d12-a2-q3
+at raw=7 footer entries.
 
-1. Generate crops for p.305 (and p.306 if needed):
-   `python3.11 tools/extract-pages.py --volume vol2 --pages 305-306 --dpi 450`
-   then `python3.11 tools/colcrop.py vol2 305 1660 3 1.8` (and 306).
-   p.304 crops already cached at /tmp/colcrop/vol2-p304-*.png.
-2. Body Latin base from IA djvu OCR raw 21553–21646 + reconcile
+1. p.305 + p.306 crops already cached at /tmp/colcrop/vol2-p30{5,6}-*.png.
+   Generate p.307 if the body bleeds:
+   `python3.11 tools/extract-pages.py --volume vol2 --pages 307 --dpi 450`
+   then `python3.11 tools/colcrop.py vol2 307 1660 3 1.8`.
+2. Body Latin base from IA djvu OCR raw 21647–21744 + reconcile
    against PDF column bands.
-3. Apparatus: walk every numbered footer entry per printed page. p.304
-   already shows footers 1–8 anchoring in a2-q2's body (Genesis,
-   Cap. 1.1, Cap. 8, Loan., Epist. 1 Tim., etc. — see p.304 R-2 crop).
+3. Apparatus: walk every numbered footer entry per printed page.
+   **Important — printed-block scholion II** ("Sequentem 3. quaestionem
+   ex Hugone a S. Victore accepit Magister (hic c. 3 or 5.). De ea
+   explicite tractant Alex. Hal., loc. cit. in fine, et Petr. a Tar.,
+   hic q. unica, a. 5.") sits at the foot of p.305 R between q2 and q3
+   and was **explicitly reserved for this chunk**; promote it into
+   d12-a2-q3's `### Scholion` block as item **I.**, then any q3-specific
+   scholion that appears later (at the foot of p.306/p.307) follows as
+   **II.** etc. See d12-a2-q2's `## Notes` for the rationale.
 4. Three audits + smoke build, then two-commit rhythm (chunk +
-   content.json; this resume note → **d12-a2-q3**).
+   content.json; this resume note → **d12-dubia**).
 
-After d12-a2-q2, continue d.12 in order: a2-q3 → dubia.
+After d12-a2-q3, finish d.12 with: dubia. Then d.13 gate opens.
 
 ## Tooling status
 
