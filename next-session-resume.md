@@ -1,7 +1,7 @@
-# Next session — **d.13 promotion: 2/9 done.** Begin d13-a1-q1.
+# Next session — **d.13 promotion: 3/9 done.** Begin d13-a1-q2.
 
-**d.1–d.12 COMPLETE = 148 chunks. d.13 promotion: 2/9 done** (d13-littera, d13-divisio).
-Build: 561 translated, 878 quaestio routes.
+**d.1–d.12 COMPLETE = 148 chunks. d.13 promotion: 3/9 done** (d13-littera, d13-divisio, d13-a1-q1).
+Build: 562 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
@@ -12,8 +12,8 @@ end-of-d.20.
 |---|---|---|---|
 | `d13-littera`  | 21842–21990 | 1941 | Tier 2 (2026-05-24) |
 | `d13-divisio`  | 21996–22048 |  585 | Tier 2 (2026-05-24) |
-| `d13-a1-q1`    | 22053–22247 | 2728 | skeleton — **NEXT** |
-| `d13-a1-q2`    | 22248–22436 | 2628 | skeleton (manual-rescue) |
+| `d13-a1-q1`    | 22053–22247 | 2728 | Tier 2 (2026-05-24) |
+| `d13-a1-q2`    | 22248–22436 | 2628 | skeleton (manual-rescue) — **NEXT** |
 | `d13-a2-q1`    | 22445–22585 | 2099 | skeleton |
 | `d13-a2-q2`    | 22586–22883 | 4659 | skeleton |
 | `d13-a3-q1`    | 22894–23121 | 3127 | skeleton |
@@ -22,30 +22,33 @@ end-of-d.20.
 
 ## What to do this session
 
-**Promote `d13-a1-q1`** — d.13 Article I, Quaestio I: "*Utrum lux primo
-die facta fuerit corporalis, an spiritualis.*" Opens **p.311 R lower**
-("ARTICULUS I. — De ipsa lucis productione. — QUAESTIO I. — *Utrum lux
-primo die facta fuerit corporalis, an spiritualis.* — Circa primum sic
-proceditur et ostenditur, quod illa lux, quae dicitur primo die fuisse
-creata, non erat lux corporalis."). Body runs across p.311 R → p.312
-and likely p.313. Raw lines 22053–22247, ~2728 words. Apparatus-count
-heuristic flagged at raw=41 footer entries — very dense.
+**Promote `d13-a1-q2`** (manual-rescue) — d.13 Article I, Quaestio II:
+"*Qualiter illa lux fecerit diem et noctem.*" Opens **p.314 L mid**
+(immediately below the d13-a1-q1 scholion item III). Body runs across
+p.314 L→R and bleeds onto p.315 and possibly p.316. Raw lines
+22248–22436, ~2628 words. Apparatus-count heuristic flagged at raw=37
+footer entries — dense.
 
-1. p.311 crops cached; generate p.312–p.313 as needed:
-   `python3.11 tools/extract-pages.py --volume vol2 --pages 312-313 --dpi 450`
-   then `for p in 312 313; do python3.11 tools/colcrop.py vol2 $p 1660 3 1.8; done`.
-2. Body Latin base from IA djvu OCR raw 22053–22247 reconciled against
-   PDF column bands.
-3. Apparatus: walk every numbered footer per printed page; raw heuristic
-   undercounts. Use d13-littera's NOTAE convention (apparatus continuously
-   numbered in the chunk) as a template.
+This is a **manual-rescue chunk** created during the d.11–d.20
+boundary sweep — verify the raw line range covers a clean QUAESTIO II
+opener at line 22248 (the auto-chunker missed it because OCR garbled
+"QUAESTIO II." to "QDAESTJO U.").
+
+1. p.314 crops cached; generate p.315–p.316 as needed:
+   `python3.11 tools/extract-pages.py --volume vol2 --pages 315-316 --dpi 450`
+   then `for p in 315 316; do python3.11 tools/colcrop.py vol2 $p 1660 3 1.8; done`.
+2. Body Latin base from IA djvu OCR raw 22248–22436 reconciled against
+   PDF column bands. Watch the column-shattered Respondeo per Vol II
+   Override.
+3. Apparatus: walk every numbered footer per printed page; the Greek-
+   Patristic refs may have OCR garbles.
 4. Three audits + smoke build, then two-commit rhythm (chunk +
-   content.json; this resume note → **d13-a1-q2**).
+   content.json; this resume note → **d13-a2-q1**).
 
-After d13-a1-q1: d13-a1-q2 (manual-rescue) → d13-a2-q1 → d13-a2-q2 →
-d13-a3-q1 → d13-a3-q2 → d13-dubia. Then d.14 gate opens (caution: d.14
-has multi-pars structure; the chunker created d14-p1-* and d14-p2-*
-chunks per the manual-rescue plan).
+After d13-a1-q2: d13-a2-q1 → d13-a2-q2 → d13-a3-q1 → d13-a3-q2 →
+d13-dubia. Then d.14 gate opens (caution: d.14 has multi-pars structure;
+the chunker created d14-p1-* and d14-p2-* chunks per the manual-rescue
+plan).
 
 ## Tooling status
 
