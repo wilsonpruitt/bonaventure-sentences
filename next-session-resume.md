@@ -1,16 +1,17 @@
-# Next session — **d.11 COMPLETE**. Begin d.12 with `d12-littera`.
+# Next session — **d.11 COMPLETE + d12-littera done**. Begin d12-divisio.
 
-**d.1–d.11 COMPLETE = 139 chunks.** Build: 550 translated, 878
-quaestio routes. Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com
-since 2026-05-23; per "deploy after each decade ships" rule, the
-next live ship is at end-of-d.20.
+**d.1–d.11 COMPLETE = 139 chunks. d.12 promotion: 1/9 done**
+(d12-littera). Build: 551 translated, 878 quaestio routes. Vol II
+d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
+"deploy after each decade ships" rule, the next live ship is at
+end-of-d.20.
 
-## d.12 chunk inventory (all skeleton)
+## d.12 chunk inventory
 
 | chunk | lines | wc_la | status |
 |---|---|---|---|
-| `d12-littera`  | 20646–20732 | 1128 | skeleton — **NEXT** |
-| `d12-divisio`  | 20740–20779 |  404 | skeleton |
+| `d12-littera`  | 20609–20739 (eff.) | 1128 | Tier 2 (2026-05-23) |
+| `d12-divisio`  | 20740–20779 |  404 | skeleton — **NEXT** |
 | `d12-a1-q1`    | 20784–20931 |  ~   | skeleton |
 | `d12-a1-q2`    | 20932–21186 |  ~   | skeleton |
 | `d12-a1-q3`    | 21187–21396 |  ~   | skeleton |
@@ -21,37 +22,21 @@ next live ship is at end-of-d.20.
 
 ## What to do this session
 
-**Promote `d12-littera`** — Peter Lombard's text for d.12, the opening
-chunk of d.12. Lombard begins on p.290 R-bottom with `DISTINCTIO XII.
-Cap. I.` (*De distinctione operum sex dierum*) — see the closing
-notes of d11-dubia which confirms the p.290 outgoing boundary is
-clean. Lombard's d.12 covers the distinction of the six days' works
-and the dispute between the simultaneous-creation view (Augustine)
-and the per-intervalla view (Gregory, Jerome, Bede); expect Cap.
-I–III on pp.290–292ish.
+**Promote `d12-divisio`** — the d.12 DIVISIO TEXTUS + TRACTATIO
+QUAESTIONUM. Opens on p.292 immediately after the Lombard text Cap.
+VI ends, with `COMMENTARIUS IN DISTINCTIONEM XII. De conditione
+naturae corporalis.` header. The divisio walks the Master's two main
+parts (de conditione naturae spiritualis already treated; here de
+conditione naturae corporalis), articulates the article and quaestio
+plan. Short chunk (~404 wc); follow standard Vol II divisio pattern.
 
-1. Identify the printed-page range. The auto-chunker assigned raw
-   lines 20646–20732 — walk that range to find `Cap.` markers and
-   page-footer page-numbers, then set `printed_pages` and `pdf_pages`
-   in the frontmatter (offset `pdf = printed + 22`).
-2. Extract + colcrop the relevant pages at 450 dpi. P.290 crops are
-   already cached at `/tmp/colcrop/vol2-p290-*`; you'll need p.291
-   (already cached) and possibly p.292.
-3. Body Latin from IA djvu OCR (cleaner than column-band reads for
-   Lombard text, which is single-band at the top of each page);
-   cross-check against PDF only for garbles. Lombard-side NOTAE
-   appears as `NOTAE AD LIBR. SENTENTIARUM` block at the page foot,
-   *separate* from Bonaventure-body NOTAE.
-4. Note that p.290's Lombard-side n.2 (*Libr. I. de Gen. ad lit.*) and
-   the rest of the NOTAE AD LIBR. SENTENTIARUM block on p.290 belong
-   to d12-littera (NOT to d11-dubia or d.12 commentary). The
-   Bonaventure-body footers n.1 (*Ita codd. F…universales*) on
-   p.290 anchor in d12-littera at *quatuor elementorum¹*.
-5. Three audits + smoke build, then two-commit rhythm (chunk +
-   content.json; this resume note → **d12-divisio**).
+1. P.292 crops already cached at `/tmp/colcrop/vol2-p292-*`. Body
+   Latin from IA djvu OCR (raw 20740–20779).
+2. Three audits + smoke build, then two-commit rhythm (chunk +
+   content.json; this resume note → **d12-a1-q1**).
 
-After d12-littera, continue d.12 in the usual order: divisio → a1-q1
-→ a1-q2 → a1-q3 → a2-q1 → a2-q2 → a2-q3 → dubia.
+After d12-divisio, continue d.12 in order: a1-q1 → a1-q2 → a1-q3 →
+a2-q1 → a2-q2 → a2-q3 → dubia.
 
 ## Tooling status
 
