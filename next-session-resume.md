@@ -1,60 +1,62 @@
-# Next session — Vol II d.11 almost done, **d11-littera next (final d.11 chunk).**
+# Next session — **d.11 COMPLETE**. Begin d.12 with `d12-littera`.
 
-**d.1–d.10 COMPLETE = 130 chunks. d.11 promotion: 8/9 done**
-(d11-divisio + d11-a1-q1 + d11-a1-q2 + d11-a1-q3 + d11-a2-q1 +
-d11-a2-q2 + d11-a2-q3 + d11-dubia). Build: 549 translated, 878
+**d.1–d.11 COMPLETE = 139 chunks.** Build: 550 translated, 878
 quaestio routes. Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com
-since 2026-05-23; deploy after each decade ships.
+since 2026-05-23; per "deploy after each decade ships" rule, the
+next live ship is at end-of-d.20.
 
-## d.11 chunk inventory + Tier-2 progress
+## d.12 chunk inventory (all skeleton)
 
 | chunk | lines | wc_la | status |
 |---|---|---|---|
-| `d11-littera`  | 19518–19627 | 1483 | skeleton — **NEXT** |
-| `d11-divisio`  | 19629–19657 |  268 | Tier 2 (2026-05-23) |
-| `d11-a1-q1`    | 19658–19835 | 2333 | Tier 2 (2026-05-23) |
-| `d11-a1-q2`    | 19836–19927 | 1078 | Tier 2 (2026-05-23) |
-| `d11-a1-q3`    | 19928–20037 | 1430 | Tier 2 (2026-05-23) |
-| `d11-a2-q1`    | 20050–20245 | 2244 | Tier 2 (2026-05-23) |
-| `d11-a2-q2`    | 20246–20353 | 1354 | Tier 2 (2026-05-23) |
-| `d11-a2-q3`    | 20354–20531 | 2231 | Tier 2 (2026-05-23) |
-| `d11-dubia`    | 20532–20645 | 1470 | Tier 2 (2026-05-23) |
+| `d12-littera`  | 20646–20732 | 1128 | skeleton — **NEXT** |
+| `d12-divisio`  | 20740–20779 |  404 | skeleton |
+| `d12-a1-q1`    | 20784–20931 |  ~   | skeleton |
+| `d12-a1-q2`    | 20932–21186 |  ~   | skeleton |
+| `d12-a1-q3`    | 21187–21396 |  ~   | skeleton |
+| `d12-a2-q1`    | 21405–21552 |  ~   | skeleton |
+| `d12-a2-q2`    | 21553–21646 |  ~   | skeleton |
+| `d12-a2-q3`    | 21647–21744 |  ~   | skeleton |
+| `d12-dubia`    | 21745–21841 | 1332 | skeleton |
 
 ## What to do this session
 
-**Promote `d11-littera`** — Peter Lombard's text for d.11, the closing
-chunk of d.11. Standard littera chunk per `vol1/bon-sent-I-d8-littera.md`
-template: Latin verbatim from Quaracchi's Lombard printing (top-band
-small-type body on the d.11 opening pages), parallel literal English,
-apparatus from the `NOTAE AD LIBR. SENTENTIARUM` footer block on the
-relevant pages.
+**Promote `d12-littera`** — Peter Lombard's text for d.12, the opening
+chunk of d.12. Lombard begins on p.290 R-bottom with `DISTINCTIO XII.
+Cap. I.` (*De distinctione operum sex dierum*) — see the closing
+notes of d11-dubia which confirms the p.290 outgoing boundary is
+clean. Lombard's d.12 covers the distinction of the six days' works
+and the dispute between the simultaneous-creation view (Augustine)
+and the per-intervalla view (Gregory, Jerome, Bede); expect Cap.
+I–III on pp.290–292ish.
 
-Lombard's d.11 covers angelic custody (the source for Bonaventure's
-a.1+a.2) and the question of angelic advance in cognition (Dub.II
-source) — capit. 1–3.
+1. Identify the printed-page range. The auto-chunker assigned raw
+   lines 20646–20732 — walk that range to find `Cap.` markers and
+   page-footer page-numbers, then set `printed_pages` and `pdf_pages`
+   in the frontmatter (offset `pdf = printed + 22`).
+2. Extract + colcrop the relevant pages at 450 dpi. P.290 crops are
+   already cached at `/tmp/colcrop/vol2-p290-*`; you'll need p.291
+   (already cached) and possibly p.292.
+3. Body Latin from IA djvu OCR (cleaner than column-band reads for
+   Lombard text, which is single-band at the top of each page);
+   cross-check against PDF only for garbles. Lombard-side NOTAE
+   appears as `NOTAE AD LIBR. SENTENTIARUM` block at the page foot,
+   *separate* from Bonaventure-body NOTAE.
+4. Note that p.290's Lombard-side n.2 (*Libr. I. de Gen. ad lit.*) and
+   the rest of the NOTAE AD LIBR. SENTENTIARUM block on p.290 belong
+   to d12-littera (NOT to d11-dubia or d.12 commentary). The
+   Bonaventure-body footers n.1 (*Ita codd. F…universales*) on
+   p.290 anchor in d12-littera at *quatuor elementorum¹*.
+5. Three audits + smoke build, then two-commit rhythm (chunk +
+   content.json; this resume note → **d12-divisio**).
 
-1. Identify the printed-page range for d.11 Lombard text. The
-   `bon-sent-II-d11-littera.md` frontmatter currently says skeleton;
-   verify printed-pages by walking back from d.11 a.1 opening
-   (printed p. ~270, pdf p. ~292) — Lombard's text always precedes
-   the commentary.
-2. Extract + colcrop those pages at 450 dpi; Lombard's small-type
-   appears at the TOP of each page in a single band above the
-   Bonaventure commentary, with `NOTAE AD LIBR. SENTENTIARUM`
-   footnotes in the bottom band (separate from Bonaventure-body
-   footnotes).
-3. Three audits + smoke build, then two-commit rhythm (chunk +
-   content.json; this resume note → **d12-divisio** to open d.12).
-
-After d11-littera, **d.11 is complete and ready to deploy.** Per the
-"deploy after each decade ships" rule, d.11 alone does not trigger
-a deploy — wait for the decade ship at end-of-d.20. Continue into
-d.12 next.
+After d12-littera, continue d.12 in the usual order: divisio → a1-q1
+→ a1-q2 → a1-q3 → a2-q1 → a2-q2 → a2-q3 → dubia.
 
 ## Tooling status
 
-- 450 dpi PDF crops cached for pp.275–290 at `/tmp/colcrop/vol2-p*`
-  and `raw/vision/vol2/p-hires-*.png`.
+- 450 dpi PDF crops cached for pp.274–290 at `/tmp/colcrop/vol2-p*`
+  and pp.291 cached. Generate p.292+ as needed.
 - Manual-rescue chunks created earlier (d.11–d.20 boundary sweep):
   d18-dubia, d19-littera, d13-a1-q2, d16-a1-q2, d14-p2-divisio,
   d14-p2-a1-q3, d14-p1-a2-q1/q2, d14-p1-a3-q1/q2. All skeleton
