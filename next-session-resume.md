@@ -1,8 +1,8 @@
-# Next session — **d.11 COMPLETE + d12-littera done**. Begin d12-divisio.
+# Next session — **d.11 COMPLETE + d12-littera + d12-divisio done**. Begin d12-a1-q1.
 
-**d.1–d.11 COMPLETE = 139 chunks. d.12 promotion: 1/9 done**
-(d12-littera). Build: 551 translated, 878 quaestio routes. Vol II
-d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
+**d.1–d.11 COMPLETE = 139 chunks. d.12 promotion: 2/9 done**
+(d12-littera, d12-divisio). Build: 552 translated, 878 quaestio routes.
+Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
@@ -11,8 +11,8 @@ end-of-d.20.
 | chunk | lines | wc_la | status |
 |---|---|---|---|
 | `d12-littera`  | 20609–20739 (eff.) | 1128 | Tier 2 (2026-05-23) |
-| `d12-divisio`  | 20740–20779 |  404 | skeleton — **NEXT** |
-| `d12-a1-q1`    | 20784–20931 |  ~   | skeleton |
+| `d12-divisio`  | 20733–20776 (eff.) |  432 | Tier 2 (2026-05-23) |
+| `d12-a1-q1`    | 20784–20931 |  ~   | skeleton — **NEXT** |
 | `d12-a1-q2`    | 20932–21186 |  ~   | skeleton |
 | `d12-a1-q3`    | 21187–21396 |  ~   | skeleton |
 | `d12-a2-q1`    | 21405–21552 |  ~   | skeleton |
@@ -22,26 +22,35 @@ end-of-d.20.
 
 ## What to do this session
 
-**Promote `d12-divisio`** — the d.12 DIVISIO TEXTUS + TRACTATIO
-QUAESTIONUM. Opens on p.292 immediately after the Lombard text Cap.
-VI ends, with `COMMENTARIUS IN DISTINCTIONEM XII. De conditione
-naturae corporalis.` header. The divisio walks the Master's two main
-parts (de conditione naturae spiritualis already treated; here de
-conditione naturae corporalis), articulates the article and quaestio
-plan. Short chunk (~404 wc); follow standard Vol II divisio pattern.
+**Promote `d12-a1-q1`** — d.12 Article I, Quaestio I: *Utrum materia
+corporalium creata sit in omnimoda possibilitate.* The article opener
+(*Circa primum sic proceditur* + ARTICULUS I. — *Circa materiae
+informitatem.* + QUAESTIO I. headers) folds into this chunk per locked
+Vol II convention (no standalone `d12-a1-divisio`). Opens at the
+bottom of p.292 R and runs across p.293–~p.295. Per audit, raw footer
+heuristic counts 20 apparatus entries across the page span — expect a
+large quaestio with ~6 videtur-quod args, Contra, Respondeo, scholion,
+and Ad arguments section.
 
-1. P.292 crops already cached at `/tmp/colcrop/vol2-p292-*`. Body
-   Latin from IA djvu OCR (raw 20740–20779).
-2. Three audits + smoke build, then two-commit rhythm (chunk +
-   content.json; this resume note → **d12-a1-q1**).
+1. Generate p.293–p.295 crops: `python3.11 tools/extract-pages.py
+   --volume vol2 --pages 293-295 --dpi 450` then `python3.11
+   tools/colcrop.py vol2 293 1660 3 1.8` (repeat for 294, 295). PDF is
+   authoritative for Respondeo + footers (Vol II OCR cascade-shatters).
+2. Body Latin base from IA djvu OCR raw 20784–20931 + any p.293+
+   continuation; reconcile against PDF column bands.
+3. Apparatus: walk every numbered footer entry per printed page (note
+   that Quaracchi restarts numbering each page). Audit raw count was 20
+   — that's an indication, not ground truth.
+4. Three audits + smoke build, then two-commit rhythm (chunk +
+   content.json; this resume note → **d12-a1-q2**).
 
-After d12-divisio, continue d.12 in order: a1-q1 → a1-q2 → a1-q3 →
-a2-q1 → a2-q2 → a2-q3 → dubia.
+After d12-a1-q1, continue d.12 in order: a1-q2 → a1-q3 → a2-q1 →
+a2-q2 → a2-q3 → dubia.
 
 ## Tooling status
 
-- 450 dpi PDF crops cached for pp.274–290 at `/tmp/colcrop/vol2-p*`
-  and pp.291 cached. Generate p.292+ as needed.
+- 450 dpi PDF crops cached for pp.274–292 at `/tmp/colcrop/vol2-p*`.
+  Generate p.293+ as needed.
 - Manual-rescue chunks created earlier (d.11–d.20 boundary sweep):
   d18-dubia, d19-littera, d13-a1-q2, d16-a1-q2, d14-p2-divisio,
   d14-p2-a1-q3, d14-p1-a2-q1/q2, d14-p1-a3-q1/q2. All skeleton
