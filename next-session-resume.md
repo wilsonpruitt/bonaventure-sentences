@@ -1,11 +1,32 @@
-# Next session — **d.14-p1 {littera/divisio/a1-q1/a1-q2/a2-q1/a2-q2} DONE.** Begin `d14-p1-a3-q1` (manual-rescue).
+# Next session — **d.14-p1 {…/a2-q2/a3-q1} DONE.** Begin `d14-p1-a3-q2` (manual-rescue).
 
-**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1, a1-q2, a2-q1, a2-q2} = 163 chunks.** Build: 574 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1, a1-q2, a2-q1, a2-q2, a3-q1} = 164 chunks.** Build: 575 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
 ## Last session (2026-05-24, latest)
+
+Promoted `d14-p1-a3-q1` Tier-2 (manual-rescue):
+- *Utrum caelum immediate moveatur a Deo*, pp. 345 L (mid) → 346 →
+  347. ARTICULUS III opener (*Consequenter quaeritur tertio loco …
+  Et circa hoc quaeruntur duo.*) folded into q1 per locked Vol II
+  convention (no standalone `a3-divisio` chunk). 14 apparatus entries
+  from p. 345 R (notes 7–8 = [^5]–[^6]) + p. 346 L (notes 1–4 =
+  [^7]–[^10]) + p. 346 R (notes 5–8 = [^11]–[^14]); body opener notes
+  [^1]–[^4] from p. 345 L footer notes 2–5. p. 345 L note 1 (*Vide
+  scholion ad praecedentem quaest.*) already consumed at a2-q2 [^19]
+  per the cross-chunk split convention — verified no double-count.
+  2-section Scholion preserved + translated. One [?] flag (item 11
+  below): in-line anchor placement of [^13] (*Cfr. Aristot. VIII Phys.
+  text. 35*) at close of *Ad 3* — printed superscript not crisp at
+  450 dpi between [^12] anchor (*per quem movet*) and the *Ad 4*
+  opener; placed at *nec perfectus status* by inference. p. 347
+  Scholion has no numbered footnote anchors. p. 347 footer notes
+  1–4 hand forward to next chunk (`d14-p1-a3-q2`) per the
+  cross-chunk split convention. Build: 574 → 575 translated.
+
+## Prior session (2026-05-24, latest)
 
 Promoted `d14-p1-a2-q2` Tier-2 (manual-rescue):
 - *Utrum in caelo sit ponere dextram et sinistram*, pp. 342 R bottom →
@@ -70,8 +91,7 @@ Build: 568 → 572 translated.
 
 Remaining d.14 chunks to promote, in order:
 
-- **`d14-p1-a3-q1`** — NEXT. *(manual-rescue.)*
-- `d14-p1-a3-q2` *(manual-rescue)*
+- **`d14-p1-a3-q2`** — NEXT. *(manual-rescue.)*
 - `d14-p1-dubia`
 - `d14-p2-divisio` *(manual-rescue)*
 - `d14-p2-a1-q1`
@@ -84,14 +104,15 @@ Remaining d.14 chunks to promote, in order:
 
 ## What to do this session
 
-**Promote `d14-p1-a3-q1`** (manual-rescue). ARTICULUS III opens
-mid-p.345 L (*De caelis in comparatione ad motoris influentiam*) with
-the short divisio opener *Consequenter quaeritur tertio loco … Et circa
-hoc quaeruntur duo.* Fold the opener into q1 per the locked Vol II
-convention. Generate PDF crops for p. 345+ as needed (p. 345 already
-cached). p. 345 footer note 1 (*Vide scholion ad praecedentem
-quaest.*) is shared — claimed at the tail of `d14-p1-a2-q2`'s [^19]
-already, so verify no double-count when this chunk promotes.
+**Promote `d14-p1-a3-q2`** (manual-rescue). QUAESTIO II of Articulus
+III: *Utrum motus caeli sit a propria forma, vel ab Intelligentia.*
+Raw lines 24561 → 24820 (QUAEST. II body to TRACTATIO QUAESTIONUM of
+P. II opener). Spans pp. 347 (Q II opener after the q1 SCHOLION) →
+348 → 349 → ~350. Pick up p. 347 footer notes 1–4 (handed forward
+from `d14-p1-a3-q1` — Libr. II *Phys.* text. 3; Aristot. VIII *Phys.*
+text. 28; *De Fide orthod.*; Cfr. Aristot. II *de Caelo* text. 35);
+build continuously from page footers per the cross-chunk split
+convention. Generate column crops for pp. 348–350.
 
 The "Vat. … quando" parked footer from `d14-p1-littera` Notes still
 has no obvious d.14 anchor — defer to the polish-blocker. The "Art. 2.
@@ -101,11 +122,11 @@ pending the polish-blocker.
 
 ## Tooling status
 
-- 450 dpi PDF crops cached for pp. 274–342 at `/tmp/colcrop/vol2-p*`.
-  Generate p.343+ as needed.
+- 450 dpi PDF crops cached for pp. 274–347 at `/tmp/colcrop/vol2-p*`.
+  Generate p. 348+ as needed.
 - Manual-rescue chunks (d.11–d.20 boundary sweep) still skeleton:
   d16-a1-q2, d18-dubia, d19-littera, d14-p2-divisio, d14-p2-a1-q3,
-  d14-p1-a3-q1/q2. Promote in normal Vol II cadence.
+  d14-p1-a3-q2. Promote in normal Vol II cadence.
 - Pre-promotion boundary sweep log:
   `manual-review/d11-d20-boundary-sweep-audit.md` — all blockers
   cleared 2026-05-23.
@@ -155,6 +176,13 @@ From `d14-p1-a2-q2`:
     a2-q2's body. Disposition (capture as appended Scholion-style note,
     or confirm as p.333 NOTAE editorial apparatus that does not
     migrate) deferred to polish-blocker.
+
+From `d14-p1-a3-q1`:
+11. *Ad 3* in-line position of marker [^13] (p. 346 R footer note 7,
+    `Cfr. Aristot. VIII Phys. text. 35`) — printed superscript not
+    crisp at 450 dpi between [^12] (*per quem movet*) and the *Ad 4*
+    opener; placed at *nec perfectus status* by inference. Resolve at
+    600 dpi.
 
 ## Open project-wide TODOs
 
