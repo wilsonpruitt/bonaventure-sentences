@@ -1,8 +1,38 @@
-# Next session — **d.18 fourth chunk DONE 2026-05-25.** Begin `d18-a1-q3`.
+# Next session — **d.18 fifth chunk DONE 2026-05-25.** Begin `d18-a2-q1`.
 
-**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 + d18-a1-q2 = 205 chunks promoted.** Build: 616 translated, 879 quaestio routes.
+**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 + d18-a1-q2 + d18-a1-q3 = 206 chunks promoted.** Build: 617 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.18 fourth chunk — d18-a1-q2 promotion)
+## Last session (2026-05-25, d.18 fifth chunk — d18-a1-q3 promotion)
+
+Promoted `d18-a1-q3` Tier-2:
+- *Utrum ratio seminalis sit forma universalis, vel singularis.* Spans p.439 (QUAESTIO III header at raw 30919 immediately after d18-a1-q2 p.438 L close + Ad oppositum args 1–6 + Contra/Fundamenta args 1–3) → p.440 (Fundamenta args 4–6 + CONCLUSIO + Respondeo with *Praenotandum* + *Opinio 1.* universalia realiter in natura + *Iudicium de opinione 1.* magnorum concors auctoritati/rationi/sensui) → p.441 (Philosophus Physicorum + *Opinio 2.* forma totius vs forma partis + *Magis approbatur.* via communis + *Ratio 1.* cognitionem + univocationem + Avicenna *essentia* = quidditas + *Ratio 2.* Philosophus *cum dico caelum dico formam* + Boethius species totum esse) → p.442 (*Ratio 3.* egressus specierum a genere vs eductio formarum + elementarem/mixtionis/complexionis + *Iudicium de utraque opinione.* albedo defined-vs-produced + *Conclusio 1.* (proprie sensu) + *Conclusio 2.* (largiore sensu) + *De argumentis.* + *Solutio oppositorum.* ad 1 + ad 2) → p.443 (ad 3 Petrus/Paulus + ad 4 + ad 5 + ad 6 + SCHOLION I doctrina Augustini + descendentia critique) → p.444 (SCHOLION II 5 earlier opinions: Quidam/Scotus/S.Thom/Richard/Aegid + SCHOLION III S. Bonav. ab Alex. Hal. *natura simplex et incorporea* + SCHOLION IV Petr. a Tar. lac→sanguis→caro→embryo→animal + ovum + SCHOLION V Posteriores cum S. Thoma/Scoto/Aegidio/Henrico Gand non approbant + Apostoli *Ex parte cognoscimus* close at raw 31291 immediately before `ARTICULUS II.` at raw 31292).
+- **32 apparatus entries [^1]–[^32].** Page-split map: p.439 L-2 ¹–⁴ = [^1]–[^4]; p.439 R-2 ⁵–⁸ = [^5]–[^8]; p.440 L-2 ¹–⁶ = [^9]–[^14]; p.441 L-2 ¹–³ = [^15]–[^17]; p.441 R-2 ⁴–⁹ = [^18]–[^23]; p.442 L-2 ¹–² = [^24]–[^25]; p.442 R-2 ³–⁶ = [^26]–[^29]; p.443 L-2 ¹–³ = [^30]–[^32]. p.444 L-2 footer ¹ stays with d18-a2-q1. Notable: [^14] Averroes XII Comment. *Quoniam autem in fundamento* mat-vs-gen full block (Venice 1560 vs 1489); [^17] *Triplex universale* (*in causando / in repraesentando / in essendo*) systematic note + Aug. V *de Gen. ad lit.* c.4 n.11 *Causaliter ergo*; [^24] Averroes III *de Caelo* text 67 mixture-as-mean block; [^25] Porphyry metaphysicus-vs-logicus + *genus generalissimum* gloss; [^29] *Sex Principiorum* + Petr. a Tar. *prioritas naturae non temporis*.
+- Marginal labels preserved inline: *Ad oppositum.*, *Fundamenta.*, *Praenotandum.*, *Opinio 1.*, *Iudicium de opinione 1.*, *Opinio 2.*, *Magis approbatur.*, *Ratio 1./2./3.*, *Iudicium de utraque opinione.*, *Conclusio 1./2.*, *De argumentis.*, *Solutio oppositorum.*
+- `has_scholion: true` — FIVE scholia (I Augustinian origin + descendentia critique; II 5 earlier opinions; III S. Bonav. + reception via Alex. Hal. + Albert; IV Petr. a Tar. q3-specific with embryonic analogy; V Posteriores Scholastici dissents). SCHOLION III spans p.443 R-1 → p.444 L-0; SCHOLION V occupies p.444 R-0.
+- No `[?]` flags — all 32 anchors + 13 marginal labels crisp at 450 dpi pp.439–444. OCR around raw 30919–31291 two-column cascade-fragmented around Respondeo + SCHOLION III↔IV↔V boundaries; column-band PDF read authoritative per Vol II Override.
+- Cross-chunk hand-off: received nothing from d18-a1-q2; forward to d18-a2-q1: none (p.444 L-2 footer ¹ anchors in q1 arg.1).
+- Audits: paraphrase HIGH (1 chunk, expected first-pass); apparatus-count flag CLEARED for d18-a1-q3 (diff +21, below threshold); header audit DUB-LOSS -2 persists pending d18-dubia.
+- Build: 616 → 617 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d18-a2-q1`** — sixth d.18 chunk. ARTICULUS II opens on p.444 L band 1 at raw 31292 with `ARTICULUS II.` + subtitle *De productione animae Evae aliorumque hominum.* + opener `Consequenter quaeritur de secundo articulo, scilicet de productione animae ipsius Evae et per consequens omnis alterius animae ab anima Adae. Et circa hoc quaeruntur tria.` + 3-question sub-divisio (folded into a2-q1 per Vol II Override step 5) + QUAESTIO I opener *Utrum animae omnium hominum sint una substantia, an diversae.* p.444 L-2 footer ¹ migrates here as the first apparatus entry. p.444 crops cached at `/tmp/colcrop/vol2-p444-*`; generate p.445+ as needed.
+
+**⚠ d18-dubia is a remaining manual-rescue chunk per the d.11–d.20 boundary-sweep audit — keep this flag visible until d18-dubia clears.**
+
+## d.18 chunk inventory (in semantic order)
+
+- ~~`d18-littera`~~ **DONE 2026-05-25.**
+- ~~`d18-divisio`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q3`~~ **DONE 2026-05-25.**
+- **`d18-a2-q1`** — *Utrum animae omnium hominum sint una substantia, an diversae.* — NEXT. (skeleton)
+- `d18-a2-q2` (skeleton)
+- `d18-a2-q3` (skeleton)
+- `d18-dubia` (skeleton; ⚠ manual-rescue)
+
+## Prior session (2026-05-25, d.18 fourth chunk — d18-a1-q2 promotion)
 
 Promoted `d18-a1-q2` Tier-2:
 - *Utrum mulier formata fuerit de costa viri secundum rationem seminalem.* Spans p.434 R-0 at raw 30582 (QUAESTIO II opener `Secundo quaeritur, utrum mulier formata sit de costa viri secundum rationem seminalem. Et quod sic, videtur: 1. Primo per textum: Consummavit Deus sexto omne opus suum…` immediately after q1 SCHOLION II close on p.434 R-0) → p.434 R (Ad oppositum args 1–4) → p.435 (args 5–6 + Contra/Fundamenta args 1–6 + *Quaestio incidens* on causales-vs-seminales differentia via Aug. *de Gen ad lit* 6 lengthy block) → p.436 (rationes seminales-vs-naturales differentia + CONCLUSIO + Respondeo with *Praenotandum* + *Notiones generales* causa/ratio/semen distinctions + *Differentia rationum primordialium et causalium* + *Item naturales rationes et seminales* + *Aliter* + magi-virgis-serpentes exemplum + *Applicatio* obedientia-vs-potentia-naturae) → p.437 (*Distinguitur potentia propinqua et remota* propinqua/sufficiens vs remota/insufficiens + *Conclusio 1* (esse-in-costa) + *Conclusio 2* (facta-de-costa) + *Solutio oppositorum* ad 1.2 / 3 / 4 / 5 *Natura accipitur dupliciter* + *Distinguitur contra naturam et supra naturam* with caeco-mortuum exemplum) → p.438 L (caeco-mortuum-ad-vitam close + *Quid mirabile, quid miraculum* + ad 6 close at *non fuit proprie contra naturam nec est miraculum dicendum.*) + SCHOLION I–IV. Closes immediately before `DIST. XVIII. ART. I. QUAEST. III` page header at raw 30916; q3 opens at raw 30919.
