@@ -1,11 +1,37 @@
-# Next session — **d.14-p1 COMPLETE.** Begin `d14-p2-divisio` (manual-rescue).
+# Next session — **d.14-p2-divisio COMPLETE.** Begin `d14-p2-a1-q1`.
 
-**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1, a1-q2, a2-q1, a2-q2, a3-q1, a3-q2, dubia} = 166 chunks.** Build: 577 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE + d.14-p1 (9 chunks) + d.14-p2-divisio = 167 chunks.** Build: 578 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
 ## Last session (2026-05-24, latest)
+
+Promoted `d14-p2-divisio` Tier-2 (manual-rescue):
+- *Commentarius in Distinctionem XIV, Pars II — Divisio textus.*,
+  pp. 350 R bottom → 351. Centered COMMENTARIUS / Pars II. /
+  *De productione insensibilium contentorum.* / lemma *Sequitur:
+  Dixit Deus: congregentur aquae in locum unum.* / TEXTUM MAGISTRI
+  pointer on p. 350 R bottom (immediately after p1-dubia DUB. III
+  close); DIVISIO TEXTUS body completes across p. 351 L+R;
+  TRACTATIO QUAESTIONUM lists the two principal questions of Pars II
+  (luminaria per comparationem ad corpus / per comparationem ad ea
+  in quae operantur); ARTICULUS I sub-divisio (*Circa primum
+  quaeruntur tria. Primo… Secundo… Tertio…*) folded in per locked
+  Vol II convention. ARTICULUS I header + rubric *De luminaribus in
+  comparatione ad corpus, in quo locantur.* + QUAESTIO I onward
+  fold forward into `d14-p2-a1-q1`. 0 apparatus entries: p. 350
+  notes 1–5 fully consumed by a3-q2 [^25] + p1-dubia [^1]–[^4]
+  (verified the *in locum unum⁵* anchor is in DUB. III body, NOT in
+  the Pars II lemma below it); p. 351 footer notes 1–6 all hand
+  forward to a1-q1 (anchors in q1's affirmative args and Ad
+  oppositum). No scholion. No `[?]` flags. Apparatus-count audit
+  flags +10 SKELETON-SUSPECT — expected and documented (heuristic
+  counts p. 351 footer notes within our line range but they belong
+  semantically to a1-q1). Header audit clean. Paraphrase audit OK
+  (no smell flag). Build: 577 → 578 translated.
+
+## Prior session (2026-05-24, late)
 
 Promoted `d14-p1-dubia` Tier-2 (standard):
 - *Dubia circa litteram Magistri (Pars I)*, p. 350 only. Three dubia
@@ -125,8 +151,7 @@ Build: 568 → 572 translated.
 
 Remaining d.14 chunks to promote, in order:
 
-- **`d14-p2-divisio`** *(manual-rescue)* — NEXT.
-- `d14-p2-a1-q1`
+- **`d14-p2-a1-q1`** — NEXT.
 - `d14-p2-a1-q2`
 - `d14-p2-a1-q3` *(manual-rescue)*
 - `d14-p2-a2-q1`
@@ -136,13 +161,18 @@ Remaining d.14 chunks to promote, in order:
 
 ## What to do this session
 
-**Promote `d14-p2-divisio`** (manual-rescue). The Pars II
-COMMENTARIUS opens at raw line 24788 on p. 350 R bottom (`COMMENTARIUS
-IN DISTINCTIONEM XIV. Pars II. De productione insensibilium
-contentorum.`) and continues through DIVISIO TEXTUS on p. 351. Grep
-for the next semantic boundary (ARTICULUS I QUAESTIO I of Pars II).
-The shared printed page (p. 350) carries no pars-II footer notes —
-all 5 of p. 350's notes were consumed by a3-q2 + p1-dubia.
+**Promote `d14-p2-a1-q1`** — *Utrum omnia luminaria caeli locentur
+in uno corpore continuo.* Opens at raw line 24836 on p. 351 L mid
+with ARTICULUS I header + rubric *De luminaribus in comparatione ad
+corpus, in quo locantur.* + QUAESTIO I header (all folded forward
+from the p2-divisio per the locked Vol II convention — no
+standalone `d14-p2-a1-divisio` chunk). p. 351 footer carries 6
+numbered notes, all body-anchored within q1's affirmative args and
+*Ad oppositum* (Vers. 14, Aristot. II de Caelo text. 41–59, etc.) —
+none hand back to the divisio. Continue forward by column-band
+PDF re-set through p. 352+ until the next semantic boundary
+(QUAESTIO II of p2-a1). p. 350 carries no pars-II body or footer
+content for q1.
 
 The "Vat. … quando" parked footer from `d14-p1-littera` Notes still
 has no obvious d.14 anchor — defer to the polish-blocker. The "Art. 2.
