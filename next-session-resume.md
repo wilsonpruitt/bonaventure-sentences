@@ -1,8 +1,37 @@
-# Next session — **d.16 COMPLETE; d17-littera + d17-divisio + d17-a1-q1 + d17-a1-q2 + d17-a1-q3 DONE 2026-05-25.** Begin `d17-a2-q1`.
+# Next session — **d.16 COMPLETE; d17-littera + d17-divisio + d17-a1-q1 + d17-a1-q2 + d17-a1-q3 + d17-a2-q1 DONE 2026-05-25.** Begin `d17-a2-q2`.
 
-**d.1–d.16 = 192 chunks promoted + d17-littera + d17-divisio + d17-a1-q1 + d17-a1-q2 + d17-a1-q3 = 197 chunks.** Build: 608 translated, 879 quaestio routes.
+**d.1–d.16 = 192 chunks promoted + d17 six chunks = 198 chunks.** Build: 609 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.17 fifth chunk — d17-a1-q3 promotion)
+## Last session (2026-05-25, d.17 sixth chunk — d17-a2-q1 promotion)
+
+Promoted `d17-a2-q1` Tier-2:
+- *Utrum corpus Adae debuerit produci de natura pure caelesti.* Spans p.418 R band 1 bottom (ARTICULUS II header + subtitle *De productione hominis quoad corpus.* + opener `Consequenter quaeritur de productione primi hominis ex parte corporis. Et circa hoc quaeruntur tria.` + 3-question sub-divisio folded in per locked Vol II Override step 5; raw 29467) → p.419 (QUAESTIO I header + title + 4 Ad oppositum argg. + Sed contra/Fundamenta argg. 1–4 + CONCLUSIO + Respondeo opener with *Conclusio 1.* + *Conclusio 2.* + *Quadruplex ordo.* + *Ordo hominis in se*) → p.420 (Ad creaturam inferiorem + Ad creaturam parem + Ad Deum finem + Solutio oppositorum ad 1–4 with *Notandum.* + SCHOLION I + II commentator list). Closes immediately before QUAESTIO II opener on p.420 R band 2 at raw 29621.
+- **17 apparatus entries [^1]–[^17].** Page-split map: p.419 L footers 1–5 = [^1]–[^5] (Cfr. supra pag. 380 + Y aa supplied conclusion / pag. 216 + 346 / Aristot. II Phys. + d.2 p.II a.2 q.1 cross-ref / Cod. W *et ideo si* / Aristot. III de Anima); p.419 R footers 6–11 = [^6]–[^11] (Sive *operatione* + d.13 a.1 q.2 / Aristot. II de Anima text 31 / Aristot. I de Caelo text 7 / Cap. 2,7 + *quem*/*quam* codex variant / Codd. F l aa vs Vat. *vero* / Dist. 15 a.2 q.1 + infra pag.421 forward pointer); p.420 L footers 1–3 = [^12]–[^14] (Vat. *Deum finem* + F l *Deo* / Vat. *etsi* / *illuc* desideratur ed. 1); p.420 R footers 4–6 = [^15]–[^17] (Gen. 2,8 / Dist. 49 p.II / Unus alterque cod. *defectum*).
+- Marginal labels preserved inline: *Ad oppositum.*, *Fundamenta.*, *Conclusio 1./2.*, *Quadruplex ordo.*, *Ordo hominis in se.*, *Ad creaturam inferiorem.*, *Ad creaturam parem.*, *Ad Deum finem.*, *Solutio oppositorum.*, *Notandum.*
+- `has_scholion: true` — SCHOLION I brief doctrinal note tying article's three qq. to Alex. Hal. S. p. II. q. 77 + q. 81 m. 1 + d. 15. a. 1. q. 2–3 supposita; II = q1 commentator list (Scot. + Hier. de Montefortino + S. Thom. + B. Albert + Petr. a Tar. + Richard. a Med. + Aegid. R. + Dionys. Carth.).
+- ARTICULUS II opener + 3-question sub-divisio folded into a2-q1 per locked Vol II Override step 5.
+- No `[?]` flags — all 17 anchors + 11 marginal labels crisp at 450 dpi across pp.418–420.
+- Cross-chunk hand-off: received nothing from d17-a1-q3; forward to d17-a2-q2: none (p.420 R footers 4–6 all anchor in q1 body; q2 opens p.420 R band 2 with own opener + fresh p.421 footer sequence).
+- Audits: paraphrase HIGH (1 chunk, expected first-pass); apparatus-count flag CLEARED for d17-a2-q1 (3 skeleton-suspect flags persist on d17-a2-q2/q3/dubia — clears as they promote); header audit NO LOSS flags (ART +2 / QUAEST +2 / DUB +0).
+- Build: 608 → 609 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d17-a2-q2`** — seventh d.17 chunk. QUAESTIO II opens on p.420 R band 2 at raw 29621 with `QUAESTIO II.` header + italic title *Utrum corpus Adae constitutum fuerit ex natura pure elementari* + opener `Secundo quaeritur, utrum corpus primi hominis constitutum fuerit de natura pure elementari, an simul cum natura elementari concurrerit natura caelestis ad eius constitutionem.` No cross-chunk footer migrates from d17-a2-q1. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for p.420 R + p.421+. p.420 crops already cached; generate p.421+ as needed.
+
+## d.17 chunk inventory (in semantic order)
+
+- ~~`d17-littera`~~ **DONE 2026-05-25.**
+- ~~`d17-divisio`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q3`~~ **DONE 2026-05-25.**
+- ~~`d17-a2-q1`~~ **DONE 2026-05-25.**
+- **`d17-a2-q2`** — *Utrum corpus Adae constitutum fuerit ex natura pure elementari.* — NEXT. (skeleton)
+- `d17-a2-q3` (skeleton)
+- `d17-dubia` (skeleton)
+
+## Prior session (2026-05-25, d.17 fifth chunk — d17-a1-q3 promotion)
 
 Promoted `d17-a1-q3` Tier-2:
 - *Utrum anima Adae fuerit producta ante corpus, vel postea.* Spans p.416 R band 1 (QUAESTIO III header + italic title + opener `Tertio quaeritur, utrum anima Adae producta fuerit ante corpus, vel postea. Et quod ante, videtur:` immediately after q2 SCHOLION II close on p.416 R band 1 top) → p.416 R band 2 (Ad oppositum args 1 close) → p.417 L (args 4–6 + Contra/Fundamenta args 1–3 + arg 4 opener) → p.417 R (Fundamenta args 3–6 close + CONCLUSIO + Respondeo with *Dubitat Augustinus.* + *Conclusio.* + *Rationes Augustini.* + *Rationes pro conclusione.* + Solutio ad 1–2 begin) → p.418 L (ad 2 close + ad 3 with *Et praeterea.* + ad 4 opener) → p.418 R (ad 5–6 with *Notandum.* closing at *suo loco quaeretur.* + SCHOLION I (Origen/Plato pre-existence Concilio V can.1 anathema) + SCHOLION II (Alex. Hal. + S. Thom. + B. Albert + Petr. a Tar. + Aegid. R. commentator list)). Closes immediately before `ARTICULUS II.` opener on p.418 R band 1 at raw 29467.
