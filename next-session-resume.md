@@ -1,7 +1,56 @@
-# Next session — **d16-a1-q3 DONE.** Begin `d16-a2-q1`.
+# Next session — **d16-a2-q1 DONE.** Begin `d16-a2-q2`.
 
-**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 + d16-a1-q2 + d16-a1-q3 = 188 chunks promoted.** Build: 599 translated,
+**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 + d16-a1-q2 + d16-a1-q3 + d16-a2-q1 = 189 chunks promoted.** Build: 600 translated,
 879 quaestio routes.
+
+## Last session (2026-05-25, d.16 sixth chunk — d16-a2-q1 promotion)
+
+Promoted `d16-a2-q1` Tier-2:
+- *Utrum imaginis ratio principalius reperiatur in Angelo quam in
+  anima.* Spans p.399 R band 1 bottom (ARTICULUS II header + sub-title
+  *De imagine secundum considerationem relatam* + opener *Consequenter
+  quaeritur de imagine secundum considerationem relatam. Et circa hoc
+  quaeruntur tria.* with 3-question sub-divisio folded in per locked
+  Vol II Override step 5; raw 28166) → p.399 R band 2 (sub-divisio
+  close at *affectiva*) → p.400 L (QUAESTIO I header + Argg. pro
+  parte affirmativa 1–4) → p.400 R (Contra/Pro parte negativa 1–6 +
+  CONCLUSIO + Respondeo opener with *Opinio 1.*) → p.401 L+R (Opinio 1
+  cont., *Non omnino probatur,* *Opinio 2* with *Principium generale,*
+  *Triplex convenientia ordinis,* *Triplex ordo,* *Conclusio 1./2.,*
+  *Duplex convenientia proportionis,* *Conclusio 3.,* *Subdistinctio,*
+  *Conclusio 4.* opener) → p.402 L+R (Conclusio 4 close + *Conclusio
+  5* + *Conclusio generalis* + *Ad 3, 4* with *Notandum* + *Ad arg.
+  pro parte negativa, Ad 5* with *Notandum* + SCHOLION I + II + III).
+  Closes immediately before p.403 QUAESTIO II opener.
+- **20 apparatus entries [^1]–[^20].** Page-split map: p.399 R
+  footer 8 (anchored on `affectiva` in sub-divisio) = [^1]; p.400 L
+  footers 1–6 = [^2]–[^7]; p.400 R footers 7–10 = [^8]–[^11]; p.401 L
+  footers 1–3 = [^12]–[^14]; p.401 R footers 4–7 = [^15]–[^18]; p.402
+  L footer 1 = [^19]; p.402 R footer 2 = [^20]. p.399 R footers 5–7
+  belong to d16-a1-q3 (already consumed); p.402 SCHOLION block has
+  no body footnote.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Argg. pro parte affirmativa,* *Pro parte negativa,* *Opinio 1.,*
+  *Non omnino probatur,* *Opinio 2.,* *Principium generale,* *Triplex
+  convenientia ordinis,* *Triplex ordo,* *Conclusio 1./2./3./4./5.,*
+  *Duplex convenientia proportionis,* *Subdistinctio,* *Conclusio
+  generalis,* *Ad argg. pro parte affirm.,* *Ad arg. pro parte negat.,*
+  *Ad 5,* *Notandum* (×2).
+- `has_scholion: true` — SCHOLION I substantial doctrinal scholion on
+  *simpliciter*/*secundum quid* distinction with the Aquinas/Richard/
+  Scotus consensus; II = commentator list for q1; III = forward-
+  pointing commentator list for d16-a2-q2 (parallel to d15-a2-q1's
+  SCHOLION III forward-pointer).
+- No `[?]` flags — all 20 anchors + 17 marginal labels crisp at
+  450 dpi across pp.399–402.
+- Forward hand-off to d16-a2-q2: SCHOLION III lives here per printed
+  layout (does NOT migrate); q2 opens p.403 with its own running head
+  + body. No p.402 footer migrates forward.
+- Audits: paraphrase HIGH (expected first-pass); apparatus-count flag
+  CLEARED for q1 (skeleton flags persist on d16-a2-q2 +9, d16-a2-q3
+  +24, d16-dubia +23 — clears as they promote); header audit DUB-LOSS
+  still fires because d16-dubia is skeleton.
+- Build: 599 → 600 translated, 879 quaestio routes.
 
 ## Last session (2026-05-25, d.16 fifth chunk — d16-a1-q3 promotion)
 
@@ -208,19 +257,15 @@ Promoted `d16-littera` Tier-2:
 
 ## What to do this session
 
-**Promote `d16-a2-q1`** — sixth d.16 chunk. ARTICULUS II opens at
-raw 28166 with `ARTICULUS II.` on p.399 R band 1 bottom + sub-title
-*De imagine secundum considerationem relatam* + opener `Consequenter
-quaeritur de imagine secundum considerationem relatam. Et circa hoc
-quaeruntur tria.` (3-question sub-divisio: *Primo, utrum ratio
-imaginis principalius reperiatur in Angelo quam in anima* /
-*Secundo, utrum principalius in viro quam in femina* / *Tertio,
-utrum principalius reperiatur in cognitiva quam in affectiva*).
-QUAESTIO I header at raw 28191. Per locked Vol II Override step 5,
-the short ARTICULUS II opener + 3-question sub-divisio folds into
-this q1 chunk. Standard Vol II Tier-2 procedure: 450 dpi column-band
-PDF read. p.399 crops already cached at `/tmp/colcrop/vol2-p399-*`;
-generate p.400+ as needed.
+**Promote `d16-a2-q2`** — seventh d.16 chunk. QUAESTIO II opens on
+p.403 with `QUAESTIO II.` header + italic title *Utrum imago
+principalius sit in masculo quam in femina* + opener `Secundo
+quaeritiir, utrum principalius sit imago in masculo quam in feniina.
+Et quod sic, videtur.` Per the d16-a2-q1 forward hand-off, SCHOLION
+III on p.402 R is a forward-pointer commentator list anchored in q1
+(does NOT migrate to q2). Standard Vol II Tier-2 procedure: 450 dpi
+column-band PDF read. p.403 crops already cached at
+`/tmp/colcrop/vol2-p403-*`; generate p.404+ as needed.
 
 ## d.16 chunk inventory (in semantic order)
 
@@ -229,8 +274,8 @@ generate p.400+ as needed.
 - ~~`d16-a1-q1`~~ **DONE 2026-05-25.**
 - ~~`d16-a1-q2`~~ **DONE 2026-05-25.**
 - ~~`d16-a1-q3`~~ **DONE 2026-05-25.**
-- **`d16-a2-q1`** — *Utrum ratio imaginis principalius reperiatur in Angelo quam in anima.* — NEXT. (skeleton)
-- `d16-a2-q2` — (skeleton)
+- ~~`d16-a2-q1`~~ **DONE 2026-05-25.**
+- **`d16-a2-q2`** — *Utrum imago principalius sit in masculo quam in femina.* — NEXT. (skeleton)
 - `d16-a2-q3` — (skeleton)
 - `d16-dubia` — (skeleton)
 
