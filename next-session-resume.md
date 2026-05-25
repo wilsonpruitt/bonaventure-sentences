@@ -1,11 +1,56 @@
-# Next session — **d.14-p2-a2-q2 COMPLETE.** Begin `d14-p2-a2-q3`.
+# Next session — **d.14-p2-a2-q3 COMPLETE.** Begin `d14-p2-dubia`.
 
-**d.1–d.13 COMPLETE + d.14-p1 (9 chunks) + d.14-p2-divisio + d.14-p2-a1-q1 + d.14-p2-a1-q2 + d.14-p2-a1-q3 + d.14-p2-a2-q1 + d.14-p2-a2-q2 = 172 chunks.** Build: 583 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE + d.14-p1 (9 chunks) + d.14-p2-divisio + d.14-p2-a1-q1 + d.14-p2-a1-q2 + d.14-p2-a1-q3 + d.14-p2-a2-q1 + d.14-p2-a2-q2 + d.14-p2-a2-q3 = 173 chunks.** Build: 584 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
 ## Last session (2026-05-25)
+
+Promoted `d14-p2-a2-q3` Tier-2:
+- *Utrum ex impressionibus luminarium causetur in hominibus
+  diversitas morum.*, pp. 361 R mid (QUAESTIO III opener + *Ad
+  oppositum* arg 1 Boethius opener) → 362 L+R full (Fundamenta args
+  2–5 on L; *Contra* args 1–4 + CONCLUSIO + Respondeo opener on R)
+  → 363 L+R full (Ratio 1 *Christianae religioni* + Ratio 2 *Sensui*
+  + Ratio 3 *rectae rationi* + *opposita implicat* + Epilogus +
+  *Quoad 2. membrum* dispositive-contingenter opener) → 364 L+R full
+  (*Notandum* continuation + Solutio op. arg 1 fato + 2 bella + 3
+  Magi/stella + 4 cometa) → 365 L+R top (Sol 4 cometa close + Sol 5
+  perfectio ordinis + 2-section SCHOLION I+II terminating immediately
+  before DUBIA CIRCA LITTERAM MAGISTRI opener at line 25804).
+  28 apparatus entries continuously renumbered: p. 361 footer note 6
+  = [^1] (hand-off picked up from `d14-p2-a2-q2`, anchored at
+  *Ad oppositum* arg 1 *Boethius in libro de Consolatione* citation);
+  p. 362 footer notes 1–10 = [^2]–[^11] (notes 1–6 anchor in L
+  column Fundamenta args 2–5; notes 7–10 in R column Contra args
+  1–4 + Conclusio Vat.-omission variant); p. 363 footer notes 1–7 =
+  [^12]–[^17] (anchors in Ratio 1/2/3 + Epilogus + *Quoad 2 membrum*
+  cholericis-melancholicis cluster); p. 364 footer notes 1–9 =
+  [^18]–[^26] (anchors in Solutio op. 1 Boethius/Augustine quotes +
+  Sol 2 effectus variant + Sol 3 Chrysostomus + Sol 4 cometa
+  Damascene); p. 365 footer notes 1–2 = [^27]–[^28] (Vat. *cometam*
+  variant + the *Referatur vel ad divino iussu vel ad cometa*
+  textual-resolution note). p. 365 footer notes 3–5 (Aristot. VIII
+  Phys. text. 57. + Gen 1,1 + Gen 2,6) hand forward to
+  `d14-p2-dubia` (anchors visibly in DUB. I body immediately below
+  the SCHOLION). 2-section SCHOLION preserved + translated;
+  SCHOLION II is the article-closing commentator-list bibliography
+  per locked Vol II convention (Alex. Hal., Scot., S. Thom.,
+  B. Albert., Petr. a Tar., Aegid. R., Durand., Dionys. Carth.).
+  No `[?]` flags — all 28 anchors crisp at 450 dpi. All marginal
+  labels (*Ad oppositum.*, *Distinctio.*, *Conclusio quoad 1.
+  membrum distinctionis.*, *Ratio 1/2/3.*, *Epilogus.*, *Quoad 2.
+  membrum distinctionis.*, *Notandum.*, *Conclusio 2.*, *Solutio
+  oppositorum.*, *Fatum sec. Boethium.*, *Fatum sec. August.*,
+  *Quaestio incidens.*, *Ratio non probata.*) preserved inline per
+  locked Vol II convention. Apparatus-count audit: chunk=28 vs
+  raw=32 diff=+4 (no flag — heuristic counts p. 365 footer notes
+  3–5 which forward to `d14-p2-dubia` plus 1 OCR-noise opener).
+  Paraphrase audit OK. Header audit clean for d.14.
+  Build: 583 → 584 translated.
+
+## Prior session (2026-05-25)
 
 Promoted `d14-p2-a2-q2` Tier-2:
 - *Utrum diversa luminaria diversas habeant impressiones super
@@ -290,22 +335,19 @@ Build: 568 → 572 translated.
 
 Remaining d.14 chunks to promote, in order:
 
-- **`d14-p2-a2-q3`** — NEXT.
-- `d14-p2-dubia`
+- **`d14-p2-dubia`** — NEXT (and final d.14 chunk).
 
 ## What to do this session
 
-**Promote `d14-p2-a2-q3`** — opens at raw line 25538 on p. 361
-R mid (QUAESTIO III opener *Utrum ex impressionibus luminarium
-causetur in hominibus diversitas morum.*). p. 361 footer note 6
-(*Libr. IV. prosa 6.* — Boethius *de Consolatione*) hands forward
-from `d14-p2-a2-q2`; anchor at q3 *Ad oppositum* arg 1 *Boethius
-in libro de Consolatione* citation. Continue through pp. 362+
-(wherever the article terminates / dubia open). Per locked Vol II
-convention this q3 likely carries the article-closing scholion (or
-no fresh scholion if the article-level one was already attached at
-q1). 450 dpi crops cached for pp. 359–361; generate p. 362+ as
-needed.
+**Promote `d14-p2-dubia`** — opens at raw line 25804 on p. 365
+(DUBIA CIRCA LITTERAM MAGISTRI header immediately after the q3
+SCHOLION). Pick up p. 365 footer notes 3–5 (Aristot. VIII Phys.
+text. 57. + Gen 1,1 + Gen 2,6) forwarded from `d14-p2-a2-q3` —
+anchors in DUB. I body. Apparatus-count audit shows raw=36 for
+the dubia line range (25804–end of d.14), so expect roughly 3
+dubia (I, II, III) across pp. 365–367ish with continuous renumber.
+450 dpi crops cached for pp. 362–365; generate p. 366+ as needed.
+This chunk closes d.14.
 
 The "Vat. … quando" parked footer from `d14-p1-littera` Notes still
 has no obvious d.14 anchor — defer to the polish-blocker. The "Art. 2.
