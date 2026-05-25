@@ -1,6 +1,36 @@
-# Next session — **d.18 third chunk DONE 2026-05-25.** Begin `d18-a1-q2`.
+# Next session — **d.18 fourth chunk DONE 2026-05-25.** Begin `d18-a1-q3`.
 
-**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 = 204 chunks promoted.** Build: 615 translated, 879 quaestio routes.
+**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 + d18-a1-q2 = 205 chunks promoted.** Build: 616 translated, 879 quaestio routes.
+
+## Last session (2026-05-25, d.18 fourth chunk — d18-a1-q2 promotion)
+
+Promoted `d18-a1-q2` Tier-2:
+- *Utrum mulier formata fuerit de costa viri secundum rationem seminalem.* Spans p.434 R-0 at raw 30582 (QUAESTIO II opener `Secundo quaeritur, utrum mulier formata sit de costa viri secundum rationem seminalem. Et quod sic, videtur: 1. Primo per textum: Consummavit Deus sexto omne opus suum…` immediately after q1 SCHOLION II close on p.434 R-0) → p.434 R (Ad oppositum args 1–4) → p.435 (args 5–6 + Contra/Fundamenta args 1–6 + *Quaestio incidens* on causales-vs-seminales differentia via Aug. *de Gen ad lit* 6 lengthy block) → p.436 (rationes seminales-vs-naturales differentia + CONCLUSIO + Respondeo with *Praenotandum* + *Notiones generales* causa/ratio/semen distinctions + *Differentia rationum primordialium et causalium* + *Item naturales rationes et seminales* + *Aliter* + magi-virgis-serpentes exemplum + *Applicatio* obedientia-vs-potentia-naturae) → p.437 (*Distinguitur potentia propinqua et remota* propinqua/sufficiens vs remota/insufficiens + *Conclusio 1* (esse-in-costa) + *Conclusio 2* (facta-de-costa) + *Solutio oppositorum* ad 1.2 / 3 / 4 / 5 *Natura accipitur dupliciter* + *Distinguitur contra naturam et supra naturam* with caeco-mortuum exemplum) → p.438 L (caeco-mortuum-ad-vitam close + *Quid mirabile, quid miraculum* + ad 6 close at *non fuit proprie contra naturam nec est miraculum dicendum.*) + SCHOLION I–IV. Closes immediately before `DIST. XVIII. ART. I. QUAEST. III` page header at raw 30916; q3 opens at raw 30919.
+- **32 apparatus entries [^1]–[^32].** p.434 L-2 ³ + R-2 ⁴–⁶ (hand-off from d18-a1-q1) = [^1]–[^4]; p.435 L-2 ¹–⁵ = [^5]–[^9]; p.435 R-2 ⁶–⁹ = [^10]–[^13]; p.436 L-2 ¹–⁴ = [^14]–[^17]; p.436 R-2 ⁵–¹⁰ = [^18]–[^23]; p.437 L-2 ¹–⁵ = [^24]–[^28]; p.437 R-2 = [^29]; p.438 L-2 ¹ = [^30]; p.438 R-2 ²–³ = [^31]–[^32]. Notable: [^5] = Aug. XXVI *contra Faustum* c.3 *Deus creator nihil contra naturam facit* + Prosper + VI *de Gen ad lit* c.18 n.29 *Tam enim non fecit* block; [^10] = Aug. V *de Gen ad lit* c.23 n.44 *In semine ergo illa omnia fuerunt primitus* with multi-codex variant apparatus; [^13] = Aug. VI *de Gen ad lit* c.11/14/15 triple-citation *quemadmodum formaturus* block; [^16] = Aristot. II *Phys* text 48 *quae ab intellectu aguntur, et a natura* + nature-definition pointer to tom.1 pag.134 nota 10; [^28] = Aug. VI *de Gen ad lit* c.13 n.23–24 + IX c.17 n.32 + XXVI *contra Faustum* c.3 duplex-acceptio-naturae block.
+- Marginal labels preserved inline: *Ad oppositum.*, *Fundamenta.*, *Quaestio incidens.*, *Praenotandum.*, *Notiones generales.*, *Differentia rationum primordialium et causalium.*, *Item naturales rationes et seminales.*, *Aliter.*, *Applicatio.* (×2), *Distinguitur potentia propinqua et remota.*, *Conclusio 1./2.*, *In membris.*, *Solutio oppositorum.*, *Natura accipitur dupliciter; item locutio contra naturam.*, *Distinguitur contra naturam et supra naturam.*, *Quid mirabile, quid miraculum.*
+- `has_scholion: true` — SCHOLION I = Alex. Hal. esse-vs-produci distinction (2 conclusions, second universally granted, first disputed); II = quadruple Augustinian terminology + Scotus *semen* + Richard a Med. inter-elemental ratio seminalis gloss; III = S. Thom. tripartite miracle taxonomy harmonized with Bonav.'s binary; IV = q2 commentator list (Alex. Hal., S. Thom., B. Albert, Petr. a Tar., Richard a Med., Aegid. R., Durand., Dionys. Carth., Biel).
+- No `[?]` flags — all 32 anchors + 17 marginal labels crisp at 450 dpi across pp.434–438.
+- Cross-chunk hand-off received from d18-a1-q1: p.434 L-2 ³ + R-2 ⁴–⁶ folded as [^1]–[^4]. Forward hand-off to d18-a1-q3: none.
+- Audits: paraphrase HIGH (1 chunk); apparatus-count flag CLEARED for d18-a1-q2 (5 skeleton-suspect flags persist on d18 a1-q3/a2-*/dubia siblings); header DUB-LOSS / Q-LOSS persists pending d18 siblings.
+- Build: 615 → 616 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d18-a1-q3`** — fifth d.18 chunk. QUAESTIO III opens on p.439 at raw 30919 with `QUAESTIO III.` + italic title *Utrum ratio seminalis sit forma universalis, vel singularis.* + opener `Tertio quaeritur, quid sit ratio seminalis secundum essentiam; et cum constet, eam esse formam, est quaestio, utrum sit forma universalis, an singularis. Et quod sit forma universalis, videtur: 1. Primo per Philosophum in decimo sexto de Animalibus, ubi dicit, quod prius est animal quam homo…` No cross-chunk footer migrates from d18-a1-q2. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for p.439+. Generate p.439+ crops as needed.
+
+**⚠ d18-dubia is a remaining manual-rescue chunk per the d.11–d.20 boundary-sweep audit — keep this flag visible until d18-dubia clears.**
+
+## d.18 chunk inventory (in semantic order)
+
+- ~~`d18-littera`~~ **DONE 2026-05-25.**
+- ~~`d18-divisio`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q2`~~ **DONE 2026-05-25.**
+- **`d18-a1-q3`** — *Utrum ratio seminalis sit forma universalis, vel singularis.* — NEXT. (skeleton)
+- `d18-a2-q1` (skeleton)
+- `d18-a2-q2` (skeleton)
+- `d18-a2-q3` (skeleton)
+- `d18-dubia` (skeleton; ⚠ manual-rescue)
 
 ## Last session (2026-05-25, d.18 third chunk — d18-a1-q1 promotion)
 
