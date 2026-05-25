@@ -1,11 +1,80 @@
-# Next session — **d.15-a2-q1 DONE.** Begin `d15-a2-q2`.
+# Next session — **d.15-a2-q2 DONE.** Begin `d15-a2-q3`.
 
-**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 + d.15-a1-q2 + d.15-a1-q3 + d.15-a2-q1 = 180 chunks promoted.** Build:
-591 translated, 878 quaestio routes. Vol II d.1–d.10 LIVE on
+**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 + d.15-a1-q2 + d.15-a1-q3 + d.15-a2-q1 + d.15-a2-q2 = 181 chunks promoted.** Build:
+592 translated, 879 quaestio routes. Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
 
-## Last session (2026-05-25, sixth chunk)
+**d.15 inventory correction (2026-05-25):** d.15 has **THREE a2
+sub-quaestiones** (q1 *Utrum omnia sensibilia facta sint propter
+hominem*; q2 *Quo ordine ex parte temporis Deus produxerit res
+sensibiles*; q3 *Qui sit ordo productionis animalium respectu
+quietis*), **NOT** two as the prior auto-chunked inventory implied.
+The auto-chunker had assigned the q3 body (raw 27258–27416,
+"Tertio quaeritur…") to the q2 skeleton, with the true q2 body
+(raw 27119–27257, "Secundo quaeritur…") falling in an unassigned
+gap. Rechunk commit: misaligned skeleton renamed q2→q3 with
+frontmatter id+quaestio updated; fresh q2 scaffold built from
+raw 27119–27257; smoke build green. q2 was then promoted Tier 2
+in the same session (this entry). d.15-a2-q3 remains skeleton,
+to be promoted next.
+
+## Last session (2026-05-25, seventh chunk — q2 promotion after rechunk)
+
+Promoted `d15-a2-q2` Tier-2:
+- *Quo ordine ex parte temporis Deus produxerit res sensibiles.*
+  Spans p.384 L band 0 bottom (QUAESTIO II header + italic title)
+  → p.384 L bands 1–2 (Secundo quaeritur + Contra series 1
+  arg. 1–4 + series 2 transition `Item, obiicitur contra ordinem
+  productionis animalium in comparatione ad hominem`) → p.384 R
+  bands 1–2 (arg. 5–8 + CONCLUSIO + Respondeo *duplex ordo* +
+  *Primus ordo* per *exigentiam finis et materiae*) → p.385 L
+  bands 0–2 (Primus ordo completion + *Secundus ordo* per
+  *praecellentiam perfectionis naturae* + *Rationes 3 quare
+  homo post omnia producitur* — multitudo / distantia / perfectio)
+  → p.385 R bands 0–2 (*Conclusio generalis* + *Solutio
+  oppositorum* ad 1, 2, 3, 4, 5–6, 7 begin) → p.386 L band 0
+  (ad 7 finish + ad 8 final, closes at `quod habeat veritatem`).
+- 13 apparatus entries continuously renumbered across pp.384–385:
+  p.384 L footers 1–4 = [^1]–[^4] (Gen. 1, 20 seqq.; *Scilicet
+  die tertio* d. 14. p. II. dub. 1.; Vat. *operationum*; Gen.
+  1, 20 + cross-ref a. 1. q. 2. seq.); p.384 R footers 5–8 =
+  [^5]–[^8] (Gen. 1, 24; supra d. 1. p. II. a. 2. q. 2.;
+  Aristot. II Metaph. text. 10 + V text. 16; supra a. 1. q. 3
+  in fine corp.); p.385 L footers 1–3 = [^9]–[^11] (supra pag.
+  330 nota 5; cod. cc *quanto aliquid completius* variant +
+  Alex. Hal. Avicebron / Isaac de Elementis cit.; Aristot. II
+  de Anima text. 21 + Greg. Naz. Or. 37/42/43); p.385 R footers
+  carry [^12]–[^13] (Vide supra d. 14. p. II. dub. 1.; Hic in
+  corp. quaest. et supra a. 1. q. 2. seq.). The remaining p.385 R
+  footer slots cross-reference ad-arg dispositions and were
+  absorbed into the relevant body footnotes per the locked
+  Vol II cross-chunk footer-split convention.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Ad oppositum series 1. argumentor.*, *Series 2.*,
+  *Duplex ordo.*, *Primus ordo.*, *Secundus ordo.*, *Conclusio
+  1./2.*, *Rationes 3, quare homo post omnia producitur.*,
+  *Conclusio generalis.*, *Solutio oppositorum.*
+- Cross-chunk footer-split: p.384 L footers 1–4 and R footers
+  5–8 entirely anchor q2 body (q1's p.384 share was its tail
+  Aug. quote + SCHOLION I+II+III footer-less block, already
+  documented in d15-a2-q1 Notes). p.386 L footers 1–5 DO NOT
+  belong to q2 — they anchor q3's `Tertio quaeritur…` body on
+  p.386 L bands 1–2.  q2 has **no scholion** — the d.15-a2
+  scholion sits in d15-a2-q1 per the printed layout (q1's
+  SCHOLION III `De seq. quaestione` is the forward-pointing
+  commentator list covering both q2 and q3). `has_scholion:
+  false` is correct here per Vol II Override step 5
+  (sibling-shared-scholion pattern).
+- No `[?]` flags — all anchors + marginal labels crisp at 450 dpi.
+- Audits: paraphrase q2 unflagged (no line_start/line_end field
+  on Tier-2 chunks per Vol II convention — audit reports
+  "content audit skipped"); apparatus-count flag cleared for q2
+  (skeleton flags persist on d15-a2-q3 +24 and d15-dubia +28 —
+  clears as those promote); header audit no LOSS flags.
+- Build: 591 → 592 translated, 878 → 879 quaestio routes.
+
+## Prior session (2026-05-25, sixth chunk)
 
 Promoted `d15-a2-q1` Tier-2:
 - *Utrum omnia sensibilia facta sint propter hominem.* Spans
