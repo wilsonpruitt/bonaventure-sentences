@@ -1,7 +1,7 @@
-# Next session — **d.15-a2-q2 DONE.** Begin `d15-a2-q3`.
+# Next session — **d.15-a2-q3 DONE.** Begin `d15-dubia`.
 
-**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 + d.15-a1-q2 + d.15-a1-q3 + d.15-a2-q1 + d.15-a2-q2 = 181 chunks promoted.** Build:
-592 translated, 879 quaestio routes. Vol II d.1–d.10 LIVE on
+**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 + d.15-a1-q2 + d.15-a1-q3 + d.15-a2-q1 + d.15-a2-q2 + d.15-a2-q3 = 182 chunks promoted.** Build:
+593 translated, 879 quaestio routes. Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
 
@@ -19,7 +19,52 @@ raw 27119–27257; smoke build green. q2 was then promoted Tier 2
 in the same session (this entry). d.15-a2-q3 remains skeleton,
 to be promoted next.
 
-## Last session (2026-05-25, seventh chunk — q2 promotion after rechunk)
+## Last session (2026-05-25, eighth chunk — q3 promotion)
+
+Promoted `d15-a2-q3` Tier-2:
+- *Qui sit ordo productionis animalium respectu quietis.* Spans
+  p.386 L band 0 (QUAESTIO III header + italic title, immediately
+  after q2 ad 8 close `quod habeat veritatem.`) → p.386 L bands 1–2
+  (*Fundamenta* arg. 1–4 + *Ad oppositum* arg. 1–3 begin) → p.386 R
+  bands 0–2 (Contra arg. 1–6 close + CONCLUSIO + Respondeo opener
+  with *Praenotandum.* marginal) → p.387 L bands 0–2 (Respondeo cont.
+  with *Duplex genus.* + *Duplex perfectio universi.* + *Corollarium.*
+  + *Conclusio.* + *Solutio oppositorum.* ad 1, ad 2 begin) → p.387 R
+  bands 0–2 (ad 2 close + *Quiescere secundum August.* + *Sec. alios
+  Sanctos.* on ad 3; ad 4; ad 5–6 with *Notandum.* marginal) → p.388
+  L band 0 (Three-kinds appendix with *Tria rerum genera producta.*
+  + *Genus 1./2./3.*) → p.388 L band 1 + R band 0 (SCHOLION I + II).
+  Closes immediately before `DUBIA CIRCA LITTERAM MAGISTRI` opener
+  at raw 27638.
+- 13 apparatus entries [^2]–[^15] (numbering preserves the per-page
+  Quaracchi footer continuity established in q2's hand-off): p.386 L
+  footers 2–5 = [^2]–[^5]; p.386 R footers 6–8 = [^6]–[^8]; p.387 L
+  footers 1–4 = [^9]–[^12]; p.387 R footers 5–6 = [^13]–[^14]; p.388
+  L footer = [^15]. p.386 L footer ¹ `Vide scholion ad praecedentem
+  quaest.` is a redirect-pointer to the q1 sibling scholion AND to
+  this chunk's own SCHOLION I+II at p.388; not rendered as a numbered
+  apparatus entry.
+- **has_scholion divergence from session brief:** brief specified
+  `has_scholion: false`. PDF 450 dpi shows a clear q3-specific
+  SCHOLION I+II on p.388 L+R between the q3 body close and the
+  DUBIA opener; SCHOLION II commentator list is tagged `hic q. 3.
+  a. 1. 2`. Frontmatter set to `has_scholion: true` per Vol II
+  Override "PDF authoritative in damaged regions"; transcribed +
+  translated. Owner: confirm whether to keep here as printed or
+  collapse into a2-q1 in a polish pass.
+- Marginal labels preserved inline: *Fundamenta.*, *Ad oppositum.*,
+  *Praenotandum.*, *Duplex genus.*, *Duplex perfectio universi.*,
+  *Corollarium.*, *Conclusio.*, *Solutio oppositorum.*, *Quiescere
+  secundum August.*, *Sec. alios Sanctos.*, *Notandum.*, *Tria rerum
+  genera producta.*, *Genus 1./2./3.*
+- No `[?]` flags — all anchors + marginal labels crisp at 450 dpi.
+- Audits: paraphrase q3 not in content scope (no line_start/line_end
+  on Tier-2 chunks per Vol II convention); apparatus-count clean for
+  q3 (only d15-dubia +28 skeleton flag persists); header audit no
+  LOSS flags (QUAEST diff +3 from per-pars repeats, expected).
+- Build: 592 → 593 translated.
+
+## Prior session (2026-05-25, seventh chunk — q2 promotion after rechunk)
 
 Promoted `d15-a2-q2` Tier-2:
 - *Quo ordine ex parte temporis Deus produxerit res sensibiles.*
@@ -349,17 +394,16 @@ proceeds without `d15-p1-*` or `d15-p2-*` files; see chunk list below.
 
 ## What to do this session
 
-**Promote `d15-a2-q2`** — second quaestio under ARTICULUS II
-(*Quo ordine ex parte temporis Deus produxerit res sensibiles*).
-Opens at p. 384 L band 1 (`QUAESTIO II.` immediately below q1
-SCHOLION III on p.384 L; `Secundo quaeritur de ordine productionis
-sensibilium, quantum est ex parte temporis…` at raw 27117) → spans
-into pp. 385–386. Standard Vol II Tier-2 procedure: 450 dpi
-column-band PDF read for every Respondeo + footer. Apparatus-count
-audit flags +24 (skeleton) — clears as it promotes.
+**Promote `d15-dubia`** — last d.15 chunk. Opens at raw 27638 with
+`DUBIA CIRCA LITTERAM MAGISTRI` header on p.388 L band 1 +
+R band 0 immediately after the d15-a2-q3 SCHOLION II close. DUB. I
+opener `In parte ista incidunt dubitationes circa litteram, et primo
+quaeritur de hoc quod dicit: Producant aquae reptile animae viventis.`
+Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for
+every Respondeo + footer. Apparatus-count audit flags +28
+(skeleton) — clears as it promotes.
 
-Remaining d.15 chunk inventory in semantic order after d15-a2-q2:
-`d15-dubia`.
+Remaining d.15 chunk inventory after d15-dubia: empty (d.15 complete).
 (Vol II convention: a short articulus opener like *Consequenter...
 quaeruntur duo...* folds into that article's q1, so no standalone
 `d15-a1-divisio` or `d15-a2-divisio`.)
@@ -378,8 +422,9 @@ q2 body) pending the polish-blocker.
 - ~~`d15-a1-q2`~~ **DONE 2026-05-25.**
 - ~~`d15-a1-q3`~~ **DONE 2026-05-25.**
 - ~~`d15-a2-q1`~~ **DONE 2026-05-25.**
-- **`d15-a2-q2`** — NEXT.
-- `d15-dubia`
+- ~~`d15-a2-q2`~~ **DONE 2026-05-25.**
+- ~~`d15-a2-q3`~~ **DONE 2026-05-25.**
+- **`d15-dubia`** — NEXT.
 
 ## Tooling status
 
