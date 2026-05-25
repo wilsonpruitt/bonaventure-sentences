@@ -1,11 +1,56 @@
-# Next session — **d.15-a1-q3 DONE.** Begin `d15-a2-q1`.
+# Next session — **d.15-a2-q1 DONE.** Begin `d15-a2-q2`.
 
-**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 + d.15-a1-q2 + d.15-a1-q3 = 179 chunks promoted.** Build:
-590 translated, 878 quaestio routes. Vol II d.1–d.10 LIVE on
+**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 + d.15-a1-q2 + d.15-a1-q3 + d.15-a2-q1 = 180 chunks promoted.** Build:
+591 translated, 878 quaestio routes. Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
 
-## Last session (2026-05-25, fifth chunk)
+## Last session (2026-05-25, sixth chunk)
+
+Promoted `d15-a2-q1` Tier-2:
+- *Utrum omnia sensibilia facta sint propter hominem.* Spans
+  p. 382 L (ARTICULUS II opener *Consequenter quaeritur, quo
+  ordine animalia sint producta. Et circa hoc quaeruntur tria.*
+  + 3-question sub-divisio *ex parte finis / ex parte temporis /
+  de ordine productionis et quietis* folded in per locked Vol II
+  Override step 5; QUAESTIO I opener + *Fundamenta* arg. 1–4 +
+  *Ad oppositum* arg. 1–5) → p. 382 R (CONCLUSIO + Respondeo
+  opening *Duplex finis* + *Conclusio 1*) → p. 383 L
+  (*Conclusio 2* + *Rationes* + *Conclusio 3* + *In statu
+  innocentiae quadrupliciter* with 4 sub-reasons +
+  *Corollarium*) → p. 383 R (*Item in statu naturae lapsae cum
+  distinctione* + *De bestiis* + *Epilogus* + *Solutio
+  oppositorum* ad 1, 2, 3 with *Notandum*, ad 4–5 with
+  *iuvantia*/*offendentia* analogy + Augustine *Nimirum aliae
+  bestiae* citation opener) → p. 384 L band 0 (Augustine
+  citation tail closing at `...patet responsio ad obiecta.`)
+  + SCHOLION I + II + III. q2 opens p. 384 L below SCHOLION.
+- 18 apparatus entries continuously renumbered across pp.382–383:
+  p.382 R footers 1–6 = [^1]–[^6]; p.382 R footers 7–8 =
+  [^7]–[^8]; p.382 R band 2 footer ⁹ = [^9]; p.383 L footers
+  1–5 = [^10]–[^14]; p.383 R footers 6–9 = [^15]–[^18]. p.384
+  carries SCHOLION only (no body footnotes). No `[?]` flags —
+  all anchors crisp at 450 dpi.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Fundamenta.*, *Ad oppositum.*, *Duplex finis.*,
+  *Conclusio 1./2./3.*, *Rationes.*, *In statu innocentiae
+  quadrupliciter.*, *Corollarium.*, *Item in statu naturae
+  lapsae cum distinctione.*, *De bestiis.*, *Epilogus.*,
+  *Solutio oppositorum.*, *Notandum.*
+- Cross-chunk footer-split check: p.382 carries no a1-q3-side
+  footer (p.382 opens with the ARTICULUS II header at top of L
+  column; q3 tail closed on p.381 R). All p.382 footers anchor
+  in this q1 body. SCHOLION III `De seq. quaestione` is a
+  forward-pointing commentator list for q2 but lives in q1's
+  scholion block per the printed layout — kept here, d15-a2-q2
+  will not duplicate.
+- Audits: paraphrase HIGH (expected first-pass); apparatus-count
+  flag cleared for q1 (only d15-a2-q2 +24 and d15-dubia +28
+  skeleton flags persist); header audit DUB -1 fires because
+  d15-dubia is still skeleton — clears as it promotes.
+- Build: 590 → 591 translated.
+
+## Prior session (2026-05-25, fifth chunk)
 
 Promoted `d15-a1-q3` Tier-2:
 - *Utrum corpora animalium magis constent ex elementis passivis
@@ -235,17 +280,17 @@ proceeds without `d15-p1-*` or `d15-p2-*` files; see chunk list below.
 
 ## What to do this session
 
-**Promote `d15-a2-q1`** — first quaestio under ARTICULUS II
-(*De ordine, quo animalia sunt producta*). Opens at p. 382 L
-(`ARTICULUS II.` running head + *Consequenter quaeritur, quo ordine
-animalia sint producta. Et circa hoc quaeruntur tria.* at raw 26953)
-→ spans into pp. 383+. Vol II Override step 5: a short ARTICULUS
-opener (`Consequenter…quaeruntur tria…`) folds into that article's
-**q1** — no standalone `d15-a2-divisio` chunk. Standard Vol II Tier-2
-procedure: 450 dpi column-band PDF read for every Respondeo + footer.
+**Promote `d15-a2-q2`** — second quaestio under ARTICULUS II
+(*Quo ordine ex parte temporis Deus produxerit res sensibiles*).
+Opens at p. 384 L band 1 (`QUAESTIO II.` immediately below q1
+SCHOLION III on p.384 L; `Secundo quaeritur de ordine productionis
+sensibilium, quantum est ex parte temporis…` at raw 27117) → spans
+into pp. 385–386. Standard Vol II Tier-2 procedure: 450 dpi
+column-band PDF read for every Respondeo + footer. Apparatus-count
+audit flags +24 (skeleton) — clears as it promotes.
 
-Remaining d.15 chunk inventory in semantic order after d15-a2-q1:
-`d15-a2-q2`, `d15-dubia`.
+Remaining d.15 chunk inventory in semantic order after d15-a2-q2:
+`d15-dubia`.
 (Vol II convention: a short articulus opener like *Consequenter...
 quaeruntur duo...* folds into that article's q1, so no standalone
 `d15-a1-divisio` or `d15-a2-divisio`.)
@@ -263,8 +308,8 @@ q2 body) pending the polish-blocker.
 - ~~`d15-a1-q1`~~ **DONE 2026-05-25.**
 - ~~`d15-a1-q2`~~ **DONE 2026-05-25.**
 - ~~`d15-a1-q3`~~ **DONE 2026-05-25.**
-- **`d15-a2-q1`** — NEXT.
-- `d15-a2-q2`
+- ~~`d15-a2-q1`~~ **DONE 2026-05-25.**
+- **`d15-a2-q2`** — NEXT.
 - `d15-dubia`
 
 ## Tooling status
