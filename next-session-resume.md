@@ -1,9 +1,80 @@
-# Next session — **d.15-a2-q3 DONE.** Begin `d15-dubia`.
+# Next session — **d.15 COMPLETE.** Begin `d16-littera`.
 
-**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 + d.15-a1-q2 + d.15-a1-q3 + d.15-a2-q1 + d.15-a2-q2 + d.15-a2-q3 = 182 chunks promoted.** Build:
-593 translated, 879 quaestio routes. Vol II d.1–d.10 LIVE on
+**d.1–d.15 = 183 chunks promoted.** Build: 594 translated,
+879 quaestio routes. Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
+
+## Last session (2026-05-25, ninth chunk — d15-dubia promotion; d.15 CLOSED)
+
+Promoted `d15-dubia` Tier-2:
+- *Dubia circa litteram Magistri (Dist. XV).* Spans printed
+  **pp. 388–391** (4 pages, raw 27417–27615). **6 dubia**
+  (DUB I–VI): DUB I on reptiles vs natatilia + adornment of
+  waters vs earth + *anima vivens* triple objection (p.388
+  L–R + p.389 L head); DUB II on the *iumenta / bestiae /
+  reptilia / pecora* threefold and the sea/air/earth-symmetry
+  question (p.389 L–R); DUB III on the catholic doctors'
+  apparent dissension with the *assertive / opinando*
+  distinction and the *Alia solutio* (p.389 R + p.390 L head);
+  DUB IV on *Novam creaturam facere cessavit* with the twofold
+  *novum* distinction + Christ-as-pure-grace alternative
+  (p.390 L); DUB V on the seventh-day blessing + sanctification
+  with the *dies = mensura actionis* solution and the sabbath
+  Mosaic-law trace (p.390 R); DUB VI on the septenary computation
+  + the Ptolemaic planet-naming sequence + the *secunda/tertia
+  feria* ecclesiastical override (p.391 L–R).
+- **27 apparatus entries [^2]–[^27]** continuously renumbered
+  across pp.388–391. Page-split map: p.388 L footer 1
+  (Val. *rerum.*) sits as parked prelude inside DUB I body;
+  L footers 2–3 + R footer 4 = [^2]–[^4]; p.389 L footers 1–5
+  = [^5]–[^8] + [^10], R footers 6–7 = [^11]–[^12] (one
+  Vat.*sub una* gloss collapsed into [^8], leaving an internal
+  gap at [^9] — known and accepted); p.390 L footers 1–5 =
+  [^13]–[^17], R footers 6–8 = [^18]–[^20]; p.391 L footers 1–7
+  = [^21]–[^27], R footers: none.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Quaest. incid.*, *Tres species motus in animalibus.*,
+  *Notandum.* (×3 across DUB I, III, V), *Quadruplices modi
+  quibus reptilia.*, *Ad quaest. incidentem.*, *Quaestio 1.*
+  + *Quaestio 2.*, *Differentia 1.* + *Differentia 2.*,
+  *Alia solutio.*, *Distinctio.*, *Aliter.*, *Quaestio.*
+  (DUB VI), *Ad quaestionem.* (DUB VI).
+- Cross-chunk footer-split check: clean. p.388 commentator-list
+  block (`Vide scholion ad praecedentem quaest.`) already
+  consumed by d15-a2-q3 per that chunk's Notes; no d15-a2-q3
+  footer migrates here. d16-littera opens on p.392 with its
+  own NOTAE block — no footer migrates from d15-dubia.
+- `has_scholion: false` — DUBIA in Vol II d.15 carry no SCHOLION
+  (d.15-a2 scholion lives in d15-a2-q1; d.15-a1 in d15-a1-q1).
+- No `[?]` flags — all 27 anchors + 14 marginal labels crisp
+  at 450 dpi.
+- Audits: paraphrase HIGH (1 chunk in HIGH bucket, expected
+  first-pass over OCR-cascade-shattered base); apparatus-count
+  audit no longer reports d15-dubia (only d15-littera +1
+  benign remainder); header audit no LOSS flags — d.15 final
+  clean state achieved (ART +2 / QUAEST +6 / DUB +5 all
+  positive diffs from per-pars repeats, expected).
+- Build: 593 → 594 translated, 879 quaestio routes.
+
+## d.15 inventory — ALL DONE 2026-05-25
+
+All nine d.15 chunks promoted Tier-2 in a single day:
+`d15-littera`, `d15-divisio`, `d15-a1-q1`, `d15-a1-q2`,
+`d15-a1-q3`, `d15-a2-q1`, `d15-a2-q2`, `d15-a2-q3`, `d15-dubia`.
+
+## What to do this session
+
+**Promote `d16-littera`** — first d.16 chunk. Opens at raw
+27616 with `DISTINCTIO XVI.` running head + `Cap. I. De hominis
+creatione.` on p.391 R band 2 (bottom of p.391, immediately
+after d15-dubia DUB VI close) and continues onto p.392.
+Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read
+for every Cap. opener + footer.
+
+Remaining d.16 chunk inventory after d16-littera: `d16-divisio`,
+`d16-a1-q1`, `d16-a1-q2`, `d16-a1-q3`, `d16-a2-q1`, `d16-a2-q2`,
+`d16-a2-q3`, `d16-dubia`.
 
 **d.15 inventory correction (2026-05-25):** d.15 has **THREE a2
 sub-quaestiones** (q1 *Utrum omnia sensibilia facta sint propter
