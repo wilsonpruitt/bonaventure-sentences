@@ -1,12 +1,40 @@
-# Next session — **d.19 second chunk d19-divisio DONE 2026-05-25.** Begin `d19-a1-q1`.
+# Next session — **d.19 third chunk d19-a1-q1 DONE 2026-05-25.** Begin `d19-a1-q2`.
 
-**d.1–d.18 ALL DONE + d19-littera + d19-divisio DONE = 212 chunks promoted.** Build: 623 translated, 879 quaestio routes.
+**d.1–d.18 ALL DONE + d19-littera + d19-divisio + d19-a1-q1 DONE = 213 chunks promoted.** Build: 624 translated, 879 quaestio routes.
 
 **⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence).
 
 **Manual-rescue list for d.11–d.20 is EMPTY.**
 
-## Last session (2026-05-25, d.19 second chunk — d19-divisio promotion)
+## Last session (2026-05-25, d.19 third chunk — d19-a1-q1 promotion)
+
+Promoted `d19-a1-q1` Tier-2:
+- *Utrum anima humana per naturam sit immortalis.* Spans p.457 R-1 (lower half) at raw 32212 with `QUAESTIO I.` + italic title + opener *Circa primum sic proceditur et ostenditur, quod anima rationalis non sit naturaliter immortalis.* + Ad oppositum args 1–2 (1 Tim 6:16 *Qui solus habet immortalitatem* + Damascene *Omne quod a versione incipit*) → p.458 (arg 3 Philosophus *Intellectus corrumpitur* + args 4–6 ratione + *Fundamenta* opener + *Modi 6 considerandi* framework + Modes 1, 2 ex ordine creaturarum universi prima materia/ultima forma + corpus caeli + 3, 4 ex ordine divinae iustitiae *Nullum bonum irremuneratum*) → p.459 (Modes 5, 6 ex ordine animae ad finem + beatitudo Boethiana + 7, 8 ex virtute proprie super se reflecti + homo-interior/exterior + 9, 10 ex operatione *intelligere* + *in antiquis sapientia* Iob 12,12 + 11, 12 ex obiecto veritati proportionabilis + Soliloquia + *Iustitia est perpetua et immortalis*) → p.460 (CONCLUSIO + Respondeo with *Ratio ex parte causae finalis* + *Ex parte causae formalis* imago Dei + *Ex parte causae materialis* quo-est/forma + *Ex parte causae efficientis* Plato Timaeus *quod bona ratione iunctum est* + *Solutio oppositorum* ad 1 Apostolus + ad 2 Damascenus + *defectum vanitatis* + ad 3 Philosophus *pium debet habere intellectum*) → p.461 (ad 3 close *impassibilem incorruptibilem immortalem* + ad 4 dupliciter compassio/extra-corpus + ad 5 mors-separat-coniunctionem + ad 6 sensitivae subministrant + *Et haec sufficiant* + SCHOLION I argumenta a S. Augustino + Summa de anima Ioannis a Rupella + Aristoteles-absolution + Scotus/Durandus dubitatio + SCHOLION II commentator catalog) close at raw 32484 immediately before `QUAESTIO II.` at raw 32485.
+- **34 apparatus entries [^1]–[^34].** Forward hand-off from d19-divisio: p.457 L-2 ²–³ + R-2 ⁴–⁵ folded as [^1]–[^4] anchoring at args 1–3 of Q1 body. Native: p.458 L-2 ¹–³ + R-2 ⁴–⁸ = [^5]–[^12]; p.459 L-2 ¹–⁵ + R-2 ⁶–⁹ = [^13]–[^21]; p.460 L-2 ¹–⁵ + R-2 ⁶–⁷ = [^22]–[^28]; p.461 L-2 ¹–⁶ = [^29]–[^34]. Notable: [^7] long Plato Phaedo + Aristot I–III de Anima multi-citation + *Eudemus*-dialogus fragment + Avicenna *decem signa* block on philosophers' immortality arguments; [^11] Aristot II *de Generat. et corrupt.* text 70 *Quorumcumque autem non* corruptibility-species-vs-numero block; [^12] Aristot III *Ethic* c.1 with Greek ἀναγκασθῆναι gloss; [^15] Aristot III de Anima text 15 *intellectus intelligibilis* + Avicenna V de Anima c.2 + Auctor de Causis prop.15 long block; [^17] Aristot III de Anima text 37 + Plato X *Republic* + Aug *de Immortal. animae* c.11 falsity block; [^25] Plato *Timaeus* Chalcidius + Vat. *Denique ex parte causae efficientis* gloss; [^27] Alex. Hal. + Virgil *Aeneid* 6.729 *Igneus est ollis vigor et caelestis origo* poetic gloss.
+- Marginal labels preserved inline per locked Vol II convention: *Ad oppositum.*, *Fundamenta.*, *Modi 6 considerandi.*, *Ratio ex parte causae finalis.*, *Ex parte causae formalis.*, *Ex parte causae materialis.*, *Ex parte causae efficientis.*, *Solutio oppositorum.*, *Notandum.*, *Alia solutio.* (ten labels).
+- `has_scholion: true` — SCHOLION I = Summa de anima Ioannis a Rupella + Aristotle-absolution + Scotus IV Sent d.43 q.2 n.16 + Durandus q.1 favoring Aristotle; SCHOLION II = commentator catalog (Scotus + S. Thom. + B. Albert + Petr. a Tar. + Richard. a Med. + Aegid. R. + Durand. + Dionys. Carth. + Biel).
+- No `[?]` flags — all 34 anchors crisp at 450 dpi across pp.457–461. OCR around raw 32212–32484 two-column cascade-fragmented around Respondeo (four causes) + ad-3 Philosophus + SCHOLION I/II boundary; column-band PDF read authoritative per Vol II Override.
+- Cross-chunk hand-off: received 4 forwarded footers from d19-divisio (folded as [^1]–[^4]). Forward hand-off to d19-a1-q2: **none** — p.461 R-2 footers 1–6 all anchor in QUAESTIO II body args starting at raw 32485 *Secundo quaeritur, utrum omnis anima…*
+- Audits (d.19 third-pass): paraphrase HIGH 6 (5 sibling skeletons + d19-a1-q1 first-pass smell, expected); apparatus-count flag CLEARED for d19-a1-q1 (not in flagged list); header Q-LOSS -2 persists pending Q2/dubia sibling promotions.
+- Build: 623 → 624 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d19-a1-q2`** — fourth d.19 chunk. QUAESTIO II opens on p.461 R-1 at raw 32485 with `QUAESTIO II.` + italic title *Utrum quaevis anima, etiam brutalis, ex prima conditione fuerit immortalis.* + opener `Secundo quaeritur, utrum omnis anima, utpote brutalis, non solum rationalis, ex prima conditione fuerit immortalis. Et quod sic, videtur: 1. Ecclesiastis tertio: Unus est interitus hominis et iumentorum…` No cross-chunk footer migrates from d19-a1-q1. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.461 crops cached at `/tmp/colcrop/vol2-p461-*`; generate p.462+ as needed.
+
+## d.19 chunk inventory (in semantic order)
+
+- ~~`d19-littera`~~ **DONE 2026-05-25.**
+- ~~`d19-divisio`~~ **DONE 2026-05-25.**
+- ~~`d19-a1-q1`~~ **DONE 2026-05-25.**
+- **`d19-a1-q2`** — *Utrum quaevis anima, etiam brutalis, ex prima conditione fuerit immortalis.* — NEXT. (skeleton)
+- `d19-a2-q1` (skeleton)
+- `d19-a2-q2` (skeleton)
+- `d19-a3-q1` (skeleton)
+- `d19-a3-q2` (skeleton)
+- `d19-dubia` (skeleton)
+
+## Prior session (2026-05-25, d.19 second chunk — d19-divisio promotion)
 
 Promoted `d19-divisio` Tier-2:
 - *Commentarius in Distinctionem XIX. — De hominis immortalitate.* Single printed page p.457 (raw 32179–32214). Opens at `COMMENTAmUS IN DISTINCTIONEM XIX.` (OCR Quaracchi-R/m ligature mangle for *Commentarius*) + subtitle *De hominis immortalitate.* + lemma *Solent quaeri plura de primo hominis statu etc.* immediately after d19-littera close at *diligenter inquirant* (raw 32178). Holds the full DIVISIO TEXTUS (Supra egit Magister / Prima pars habet duas → *Solet hic quaeri* split → *In primo statu fuit corpus hominis animale* sub-split → *Sed adhuc quaeritur* dubitation split) + TRACTATIO QUAESTIONUM (three-article structure: ex parte animae / ex parte corporis / ex parte coniuncti, with Art. I's two-question sub-divisio folded in per Vol II Override step 5) + ARTICULUS I header + subtitle *De hominis immortalitate ex parte animae* + QUAESTIO I header + italic title *Utrum anima humana per naturam sit immortalis.* Closes immediately before the Q1 body opener *Circa primum sic proceditur et ostenditur, quod anima rationalis non sit naturaliter immortalis* at raw 32215.
