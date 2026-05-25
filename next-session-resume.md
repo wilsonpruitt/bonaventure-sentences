@@ -1,11 +1,49 @@
-# Next session — **d.15-divisio DONE.** Begin `d15-a1-q1`.
+# Next session — **d.15-a1-q1 DONE.** Begin `d15-a1-q2`.
 
-**d.1–d.14 + d.15-littera + d.15-divisio = 176 chunks promoted.** Build:
-587 translated, 878 quaestio routes. Vol II d.1–d.10 LIVE on
+**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 = 177 chunks promoted.** Build:
+588 translated, 878 quaestio routes. Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
 
-## Last session (2026-05-25, second chunk)
+## Last session (2026-05-25, third chunk)
+
+Promoted `d15-a1-q1` Tier-2:
+- *Utrum animae irrationalium sint productae ex aliquo.* Spans
+  p. 372 R bottom (`ARTICULUS 1.` L foot, `QUAESTIO I.` R band 2) →
+  p. 373 (Fundamenta 3–6 + *Ad oppositum* 1–6) → p. 374 (Conclusio
+  + Respondeo opening *Opinio 1./2./3.* + *Non approbantur*) →
+  p. 375 (*Opinio 4.* + *Corollarium 1./2.* + *Ratio ex Augustino
+  et Philosopho* + *Conclusio 2.* + Solutio ad 1, 2) → p. 376
+  (*Alia solutio,* Solutio ad 3, 4 + *Obiectio solvitur* + Solutio
+  5 + *Solutio aliorum non probatur* + Solutio 6 + SCHOLION opener)
+  → p. 377 L top (SCHOLION I continuation: Petr. a Tar. / S. Thom. /
+  Scot. discussion of seminal reasons) + R top (SCHOLION II
+  commentator list). `QUAESTIO II.` opens L bottom of p. 377 in
+  the next chunk.
+- 29 apparatus entries renumbered sequentially across six pages:
+  p.372 commentary-side footers 3–4 = [^1]–[^2] (picked up from
+  d15-divisio hand-off, both anchors crisp); p.373 footers 1–9 =
+  [^3]–[^11]; p.374 footers 1–3 (incl. Phys. I text 82) +
+  cross-page = [^12]–[^15]; p.375 footers 1–6 = [^16]–[^22]
+  (incl. the long Gul. Mara *hoc aliquid* gloss at [^22]); p.376
+  footers 1–3 = [^23]–[^25]; remaining SCHOLION-area + Solutio 5/6
+  cross-references = [^26]–[^29]. No `[?]` flags — all anchor
+  positions crisp at 450 dpi.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Fundamenta.*, *Ad oppositum.*, *Conclusio.* (× 2 inside
+  Respondeo), *Opinio 1./2./3./4.*, *Non approbantur.*,
+  *Corollarium 1./2.*, *Ratio ex Augustino et Philosopho.*,
+  *Conclusio 2.*, *Solutio oppositorum.*, *Notandum.* (× 5),
+  *Alia solutio.*, *De generatione aequivoca.*, *Obiectio
+  solvitur.*, *Solutio aliorum non probatur.*
+- Audits: paraphrase HIGH (expected first-pass over OCR-mangled
+  base); apparatus-count flag cleared for q1 (skeleton flags
+  persist on a*/dubia siblings); header audit Q-LOSS still fires
+  because remaining d.15 quaestiones + dubia are skeleton —
+  clears as those promote.
+- Build: 587 → 588 translated.
+
+## Prior session (2026-05-25, second chunk)
 
 Promoted `d15-divisio` Tier-2:
 - *Commentarius in Distinctionem XV — De productione mixtorum et
@@ -33,7 +71,7 @@ Promoted `d15-divisio` Tier-2:
   ART/QUAEST/DUB headers — clears as the article quaestiones promote).
 - Build: 586 → 587 translated.
 
-## Prior session (2026-05-25, first chunk)
+## Earlier session (2026-05-25, first chunk)
 
 Promoted `d15-littera` Tier-2:
 - *Distinctio XV — Littera Magistri*, Cap. I–X (10 capitula),
@@ -81,21 +119,14 @@ proceeds without `d15-p1-*` or `d15-p2-*` files; see chunk list below.
 
 ## What to do this session
 
-**Promote `d15-a1-q1`** — *Utrum animae irrationalium sint productae
-ex aliquo.* Opens at p. 372 L column foot (`ARTICULUS 1.` at raw
-26310) → `QUAESTIO I.` → spans p. 372 R column band 2 down + onward.
+**Promote `d15-a1-q2`** — second quaestio under ARTICULUS I.
+Opens immediately after the d15-a1-q1 SCHOLION block at p. 377 L
+column lower (`QUAESTIO II.` at raw 26629) → spans into p. 378+.
 Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for
-every Respondeo + footer; pick up p.372 commentary-side footer notes
-³ (`Gen. 1, 20. — Seq. textus ibid. v. 24. — Paulo … rius ex
-nonnullis codd. cum ed. 1 verbis cum aqua praemissis …`) and ⁴
-(`Secundum antiquam divisionem librorum de Animalibus. Nunc est II.
-de Generat. animal. c. 3: Restat igitur, ut mens sola extrinsecus
-accedat eaque sola divina sit.`) — anchored at *textum
-Scripturae³* (arg. 1) and *de Animalibus decimo sexto⁴* (arg. 2)
-respectively, per the d15-divisio Notes hand-off.
+every Respondeo + footer.
 
-Remaining d.15 chunk inventory in semantic order after d15-a1-q1:
-`d15-a1-q2`, `d15-a1-q3`, `d15-a2-q1`, `d15-a2-q2`, `d15-dubia`.
+Remaining d.15 chunk inventory in semantic order after d15-a1-q2:
+`d15-a1-q3`, `d15-a2-q1`, `d15-a2-q2`, `d15-dubia`.
 (Vol II convention: a short articulus opener like *Consequenter...
 quaeruntur duo...* folds into that article's q1, so no standalone
 `d15-a1-divisio` or `d15-a2-divisio`.)
@@ -110,8 +141,8 @@ q2 body) pending the polish-blocker.
 
 - ~~`d15-littera`~~ **DONE 2026-05-25.**
 - ~~`d15-divisio`~~ **DONE 2026-05-25.**
-- **`d15-a1-q1`** — *Utrum animae irrationalium sint productae ex aliquo.* — NEXT.
-- `d15-a1-q2`
+- ~~`d15-a1-q1`~~ **DONE 2026-05-25.**
+- **`d15-a1-q2`** — NEXT.
 - `d15-a1-q3`
 - `d15-a2-q1`
 - `d15-a2-q2`
