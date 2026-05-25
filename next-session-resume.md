@@ -1,8 +1,66 @@
-# Next session — **d.16 COMPLETE; d17-littera DONE 2026-05-25.** Begin `d17-divisio`.
+# Next session — **d.16 COMPLETE; d17-littera + d17-divisio DONE 2026-05-25.** Begin `d17-a1-q1`.
 
-**d.1–d.16 = 192 chunks promoted + d17-littera = 193 chunks.** Build: 604 translated, 879 quaestio routes.
+**d.1–d.16 = 192 chunks promoted + d17-littera + d17-divisio = 194 chunks.** Build: 605 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.17 first chunk — d17-littera promotion)
+## Last session (2026-05-25, d.17 second chunk — d17-divisio promotion)
+
+Promoted `d17-divisio` Tier-2:
+- *Commentarius in Distinctionem XVII — De productione Adae quoad
+  principia constituentia.* Spans p.410 only (PDF p.432, vol II
+  offset +22). Opens at raw 28895 with `COMMENTARIUS IN DISTINCTIONEM
+  XVII.` on p.410 L band 0 (immediately after d17-littera p.409 R
+  close); holds DIVISIO TEXTUS (L bands 0–2 + R bands 0–1), TRACTATIO
+  QUAESTIONUM (L+R band 1), and ARTICULUS I header + subtitle
+  *De productione hominis quoad animam.* (R band 1 bottom). Closes
+  immediately before `QUAESTIO I.` header on p.410 R band 1.
+- **2 apparatus entries [^1]–[^2]** from p.410 L band 2 footer:
+  [^1] = *Plures codd. constituentia.* anchored at *constituentia¹*
+  in DIVISIO para 1; [^2] = *Vat. hominis iam formati.* anchored
+  at *formati²* in DIVISIO para 2. p.410 R band 2 footer notes
+  ³–⁵ (Vers. 7 / Cap. 20.22 / Vers. 7) anchor in QUAESTIO I body
+  and migrate forward to d17-a1-q1.
+- **d.17 pars-split**: confirmed NO pars split — `DIST. XVII. ART.
+  I/II.` running heads only.
+- **Article fold-in** per locked Vol II Override step 5: divisio
+  holds the ART. I header + subtitle. No separate ART. I sub-divisio
+  paragraph exists (the 3-question listing `Circa primum quaeruntur
+  tria` is already inside TRACTATIO QUAESTIONUM).
+- No `[?]` flags — both anchors crisp at 450 dpi. OCR around
+  raw 28895–28940 is two-column cascade-fragmented; column-band
+  PDF read authoritative per Vol II Override.
+- `has_scholion: false` — divisio chunks carry no SCHOLION by design.
+- Audits: paraphrase HIGH (1 chunk, expected first-pass over
+  OCR-cascade base); apparatus-count flag CLEARED for divisio
+  (7 skeleton-suspect flags persist on the d.17 a*/dubia siblings —
+  clears as they promote); header audit Q-LOSS / A-LOSS / DUB-LOSS
+  fires because d.17 a*/dubia siblings are skeleton (a divisio
+  chunk has no ART/QUAEST/DUB headers) — clears as those promote.
+- Build: 604 → 605 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d17-a1-q1`** — third d.17 chunk. QUAESTIO I opens at
+raw ~28950 on p.410 R band 1 with `QUAESTIO I.` header + italic
+title *Utrum anima humana sit ex Dei substantia.* + opener
+`Circa primum sic proceditur et ostenditur, quod anima humana sit
+ex Dei substantia.` Per the d17-divisio forward hand-off, p.410 R
+band 2 footer notes ³–⁵ (Vers. 7 / Cap. 20.22 / Vers. 7) migrate
+here as the first apparatus entries. Standard Vol II Tier-2
+procedure: 450 dpi column-band PDF read for pp.410–412.
+
+## d.17 chunk inventory (in semantic order)
+
+- ~~`d17-littera`~~ **DONE 2026-05-25.**
+- ~~`d17-divisio`~~ **DONE 2026-05-25.**
+- **`d17-a1-q1`** — *Utrum anima humana sit ex Dei substantia.* — NEXT. (skeleton)
+- `d17-a1-q2` (skeleton)
+- `d17-a1-q3` (skeleton)
+- `d17-a2-q1` (skeleton)
+- `d17-a2-q2` (skeleton)
+- `d17-a2-q3` (skeleton)
+- `d17-dubia` (skeleton)
+
+## Prior session (2026-05-25, d.17 first chunk — d17-littera promotion)
 
 Promoted `d17-littera` Tier-2:
 - *Distinctio XVII — Littera Magistri*, Cap. I–VII (7 capitula),
