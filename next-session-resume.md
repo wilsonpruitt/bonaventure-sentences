@@ -1,9 +1,51 @@
-# Next session — **d16-a1-q1 DONE.** Begin `d16-a1-q2`.
+# Next session — **d16-a1-q2 DONE.** Begin `d16-a1-q3`.
 
-**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 = 186 chunks promoted.** Build: 597 translated,
+**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 + d16-a1-q2 = 187 chunks promoted.** Build: 598 translated,
 879 quaestio routes. Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
+
+## Last session (2026-05-25, d.16 fourth chunk — d16-a1-q2 promotion, manual-rescue)
+
+Promoted `d16-a1-q2` Tier-2 (manual-rescue chunk per d.11–d.20
+boundary sweep — the auto-chunker 2026-05-13 had collapsed q1+q2
+because `QU.\ESTIO n.` at raw 27969 was the OCR-garbled QUAESTIO II
+header; pre-promote skeleton boundaries verified clean against
+450 dpi PDF, no re-split needed):
+- *Utrum homo sit imago Dei naturaliter.* Spans p.396 L band 2
+  (QUAESTIO II header + title + Fundamenta arg 1 opener immediately
+  after d16-a1-q1 SCHOLION III close) → p.396 R band 2 (arg 1 close
+  + arg 2 opener) → p.397 L (Fundamenta arg 2–5 + Ad oppositum
+  contra arg 1–5) → p.397 R (CONCLUSIO + Respondeo with
+  *Duplex imago.* + *Conclusio 1.* + *Tertia species Imaginis.* +
+  *Conclusio 2.* + *Solutio oppositorum.* ad 1–3 begin with
+  *Notandum.* + *Ratio.*) → p.398 L (ad 3 close + ad 4 with
+  *Notandum.*) → p.398 R bottom (ad 5 with *Notandum.* closing at
+  `alio vero modo non.` immediately before QUAESTIO III opener at
+  raw 28075).
+- **14 apparatus entries [^1]–[^14].** Page-split map: p.396 L
+  footers 1–2 = [^1]–[^2]; p.396 R footer 3 = [^3]; p.397 L
+  footers 1–5 = [^4]–[^8]; p.397 R footers 6–8 = [^9]–[^11];
+  p.398 L footers 1–3 = [^12]–[^14]. p.398 L footers 4–5 (Gen. 1,26
+  + Serm. 43) anchor in d16-a1-q3.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Fundamenta.*, *Ad oppositum.*, *Duplex imago.*, *Conclusio 1.*,
+  *Tertia species Imaginis.*, *Conclusio 2.*, *Solutio oppositorum.*,
+  *Notandum.* (×3), *Ratio.*
+- `has_scholion: false` — q2 has no scholion of its own per the
+  locked Vol II sibling-shared-scholion pattern; q2's closing
+  footer [^14] = *Vide scholion ad praecedentem quaest.* explicitly
+  points back to d16-a1-q1 SCHOLION I (the substantial doctrinal
+  scholion on the *imago naturalis / connaturalis / artificialis*
+  trichotomy).
+- No `[?]` flags — all 14 anchors + 9 marginal labels crisp at
+  450 dpi.
+- Audits: paraphrase HIGH (expected first-pass over OCR-cascade
+  base); apparatus-count flag CLEARED for q2 (skeleton flags
+  persist on d16-a1-q3, d16-a2-q1/q2/q3, d16-dubia — clears as
+  they promote); header audit DUB-LOSS / Q-LOSS still fires
+  because d.16 siblings are skeleton.
+- Build: 597 → 598 translated, 879 quaestio routes.
 
 ## Last session (2026-05-25, d.16 third chunk — d16-a1-q1 promotion)
 
@@ -118,22 +160,23 @@ Promoted `d16-littera` Tier-2:
 
 ## What to do this session
 
-**Promote `d16-a1-q2`** — fourth d.16 chunk. *Utrum homo sit imago
-Dei naturaliter.* Opens at raw 27970 with `QU.\ESTIO n.` (OCR-garbled
-QUAESTIO II header) on p.396 R bottom (immediately after the
-d16-a1-q1 SCHOLION III close) and continues onto p.397+. Standard
-Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.396 crops
-already cached at `/tmp/colcrop/vol2-p396-*`; generate p.397+ as
-needed. This is one of the d.11–d.20 manual-rescue chunks (re-split
-2026-05-23) — base scaffold is line range 27970–28074.
+**Promote `d16-a1-q3`** — fifth d.16 chunk. *Utrum esse imaginem
+conveniat homini proprie, ita quod nulli alii.* Opens at raw 28075
+with `QUAESTIO III.` on p.398 L band 0 (immediately after the
+d16-a1-q2 *alio vero modo non.* close) and continues onto p.399+.
+Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read.
+p.398 crops already cached at `/tmp/colcrop/vol2-p398-*`; generate
+p.399+ as needed. Forward footer hand-off from d16-a1-q2: p.398 L
+footers 4 (Gen. 1, 26 = *Faciamus hominem*) + 5 (Serm. 43 alias
+*de Verbis Apostoli* serm. 27) anchor in q3 body.
 
 ## d.16 chunk inventory (in semantic order)
 
 - ~~`d16-littera`~~ **DONE 2026-05-25.**
 - ~~`d16-divisio`~~ **DONE 2026-05-25.**
 - ~~`d16-a1-q1`~~ **DONE 2026-05-25.**
-- **`d16-a1-q2`** — *Utrum homo sit imago Dei naturaliter.* — NEXT. (skeleton; manual-rescue per resume tooling note)
-- `d16-a1-q3` — *Utrum esse imaginem conveniat homini proprie, ita quod nulli alii.* (skeleton)
+- ~~`d16-a1-q2`~~ **DONE 2026-05-25.**
+- **`d16-a1-q3`** — *Utrum esse imaginem conveniat homini proprie, ita quod nulli alii.* — NEXT. (skeleton)
 - `d16-a2-q1` — (skeleton)
 - `d16-a2-q2` — (skeleton)
 - `d16-a2-q3` — (skeleton)
@@ -636,7 +679,7 @@ q2 body) pending the polish-blocker.
 - 450 dpi PDF crops cached for pp. 274–379 at `/tmp/colcrop/vol2-p*`.
   Generate p. 380+ as needed.
 - Manual-rescue chunks (d.11–d.20 boundary sweep) still skeleton:
-  d16-a1-q2, d18-dubia, d19-littera. Promote in normal Vol II cadence.
+  d18-dubia, d19-littera. (d16-a1-q2 cleared 2026-05-25.) Promote in normal Vol II cadence.
 - Pre-promotion boundary sweep log:
   `manual-review/d11-d20-boundary-sweep-audit.md` — all blockers
   cleared 2026-05-23.
