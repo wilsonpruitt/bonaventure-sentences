@@ -163,6 +163,37 @@ At this depth: realistic 1–2 chunks per first session, 2–4 chunks once patte
 
 Vol I has ~436 chunks total. Of these (per audit on 2026-05-01): ~56 Tier-2 complete, ~7 partial, ~368 skeleton. Many of the existing "translated" chunks (especially d.1, d.2) are paraphrased rather than literally transcribed and need full rebuild from OCR.
 
+## Efficient single-chunk subagent dispatch (Vol II cadence, 2026-05-25)
+
+The 2026-05-25 session shipped **59 chunks in one day** (d.14 through d.19 inclusive, manual-rescue list cleared) using strict one-chunk-per-subagent dispatch. This is ~6× the prior best cadence. **Use this pattern by default for Vol II promotion sessions.**
+
+**Main thread = coordinator only.** Never reads PDFs, never translates, never greps raw OCR. It only: reads `next-session-resume.md`, briefs the next subagent, displays the subagent's report, repeats.
+
+**Per-dispatch prompt template** (~10 steps, in order):
+1. Pin the target chunk + today's date + pars-split status.
+2. Quote the **cross-chunk hand-off** from the prior subagent's report (e.g. "p.NNN L-2 footers X–Y migrate to this q's body") so the next agent doesn't re-read the prior chunk.
+3. Page span: grep raw for the next header + cross-check running heads + next semantic boundary.
+4. **Verify the opener's "Primo/Secundo/Tertio quaeritur…" alignment. STOP and report if misaligned** — the auto-chunker has known q-swap bugs (d.15-a2 q2/q3 was caught + fixed in one user turn this way).
+5. Generate any missing PDF crops (`extract-pages.py` + `colcrop.py`).
+6. Backup: `mkdir -p _backup-{chunk}-pre-promote-{YYYYMMDD} && cp ...`.
+7. Re-set Latin column-by-column from PDF (Vol II PDF-priority inversion). Build apparatus continuously, leading with the hand-off. Translate literally per the formula tables above.
+8. Frontmatter Tier-2 + `## Notes` block (provenance, page-split map, hand-offs picked-up/forwarded, any `[?]` flags).
+9. Audits (`--volume 2 --min-d N --max-d N`) + smoke build.
+10. **Two commits**: (a) chunk + content.json; (b) `next-session-resume.md` advanced to next chunk. Do NOT deploy.
+
+**Cap the report at 200 words**: page span, apparatus count + page-split map, hand-offs, `[?]` flags, audit status, both commit SHAs.
+
+**Subagent crash recovery:** if the API socket drops, `git log --oneline -5 && git status --short`. Clean? Re-dispatch with the same prompt — the backup step makes the work idempotent.
+
+**Decade-polish gate:** when a chunk closes at d.{N0}, the next dispatch is the three-pass polish-blocker (see "Polish-blocker cadence" above), not the next distinction's littera.
+
+---
+
+**Anti-patterns to avoid (NEW):**
+- ❌ Don't bundle multiple chunks per dispatch — the per-chunk recipe is the safety mechanism (alignment check, backup, audit, two-commit cadence).
+- ❌ Don't omit the "verify Primo/Secundo/Tertio quaeritur" alignment check — the auto-chunker mis-aligned d.15-a2 q2/q3 silently.
+- ❌ Don't read the PDF in the main thread — the subagent will do it; main-thread reads burn context for no benefit.
+
 ### What NOT to do (anti-patterns from past sessions)
 
 - ❌ Don't read the PDF and treat your reading as authoritative. The OCR is more accurate. *(Vol I only. For Vol II's cascade-shattered Respondeo/footers the column-band PDF read IS authoritative — see the Vol II Override at the top of this section.)*
