@@ -1,6 +1,38 @@
-# Next session — **d.20 second chunk d20-divisio DONE 2026-05-25.** Begin `d20-a1-q1`.
+# Next session — **d.20 third chunk d20-a1-q1 DONE 2026-05-25.** Begin `d20-a1-q2`.
 
-**d.1–d.19 ALL DONE + d20-littera + d20-divisio DONE = 221 chunks promoted.** Build: 632 translated, 879 quaestio routes.
+**d.1–d.19 ALL DONE + d20-littera + d20-divisio + d20-a1-q1 DONE = 222 chunks promoted.** Build: 633 translated, 879 quaestio routes.
+
+## Last session (2026-05-25, d.20 third chunk — d20-a1-q1 promotion)
+
+Promoted `d20-a1-q1` Tier-2:
+- *Utrum in statu innocentiae fuisset sexuum commixtio.* Spans p.477 R-1 at raw 33597 (`QUAESTIO I.` + italic title + opener *Circa primum sic proceditur et ostenditur, quod, si homo stetisset, facta esset sexuum commixtio* + Ad oppositum args 1–4 partial: Gen 2,18 *Faciamus ei adiutorium simile sibi* + Aug. XIV *de Civ. Dei* c.23 *Quisquis dicit, non coituros…* + distinctio-sexuum-propter-generationem + vir-vim-generativam-non-potuit-intra-se-concipere) → p.478 (arg 4 close + Sed contra args 1–4: Aug. *de Bono coniugali* *Nuptiae non nisi mortalium* + Damasc. IV *de Fide orth.* c.24 *Poterat Deus genus hoc absque generatione* + ad-hoc-data-vis-generativa-continuari-in-simili + commixtio-sexuum-opus-carnale-spirituales-non-dediti + CONCLUSIO + Respondeo *attestatur auctoritate Scripturae et iudicio rationis rectae* with Gen 1,28 *Crescite et multiplicamini* + completionem-naturae-vs-complementum-civitatis-supernae + Solutio oppositorum ad 1 mortale-pro-vita-animali + ad 2 Damasc-non-vult-dicere-libidine-foeditate + ad 3 ratio-tota Philosophus-ignoravit propter-multiplicationem-electorum *congruentiam multiplicem* gloriae-manifestationem/hominum-coniunctionem/universi-decorem esse-permanens-vs-decurrens + ad 4 *caro* twofold-modus Gal 5,17 + Eph 5,29 vitium-vs-natura close) → p.479 L-0 top (SCHOLION I curiositatis-quam-utilitatis Augustinian aside + infra-q.4 cross-ref + SCHOLION II commentator catalog Alex.Hal./Scotus/S.Thom./B.Albert/Petr.a Tar./Richard.a Med./Aegid.R./Durand./Dionys.Carth./Biel) close immediately before `QUAESTIO II.` body at raw 33705.
+- **9 apparatus entries [^1]–[^9].** Cross-chunk hand-off received from d20-divisio: p.477 L-2 footer ³ (*Vers. 18.* on Gen 2,18) folded as [^1]. Native: p.477 R-2 ⁴ = [^2] (Aug. XIV *de Civ. Dei* c.23 n.1 *generaturos* omission + *hominis* addition); p.478 L-2 ¹–⁴ = [^3]–[^6] (Aug. *de Bono coniugali* c.2 n.2 + Damasc. IV *de Fide orth.* c.24 + Aristot. II *de Anima* text 35 *sed homo, natura stante* Vat. variant + long Vers.28 Forcellini *attestari*-passive-sense + *completionem* vs *complexionem naturae* variant block); p.478 R-2 ⁵–⁸ = [^7]–[^9] with ⁸ (Vers. 17 Gal + Eph 5,29) merged into [^9] tail for clean 9-anchor body count ([^7] Cod. T *fuisset.* + [^8] Cfr. Aug. XIV *de Civ. Dei* c.21–24 + [^9] Dist.18/19 multi-cross-ref + *divinae gloriae* vs *divinae generationis* vs *Dei gloriae* variants + Vers.17/Eph 5,29 follow-up).
+- Section labels: *Ad oppositum*, *Sed contra*, *Conclusio*, *Respondeo*, *Solutio oppositorum*, *Scholion*. Vat. marginalia (*Fundamenta*, *Conclusio 1/2*, *Notandum*, *In statu innocentiae*) absorbed silently per Vol II convention.
+- `has_scholion: true` — SCHOLION I (curiositatis-quam-utilitatis aside) + SCHOLION II (commentator catalog) on p.479 L-0 top.
+- No `[?]` flags — all 9 anchors crisp at 450 dpi across pp.477–479. OCR cascade-fragmented through Respondeo + four-part Solutio (the *congruentiam multiplicem* clause + *caro/carnale* twofold-modus block); column-band PDF read authoritative per Vol II Override step 1.
+- Cross-chunk hand-off: received p.477 L-2 ³ from d20-divisio (folded as [^1]). Forward hand-off to d20-a1-q2: **none** — p.479 SCHOLION captured here; QUAESTIO II body on p.479 L-0 mid-page onward opens its own fresh apparatus on p.479 R-1.
+- Audits (d.20 third-pass): paraphrase 1 CRITICAL / 5 HIGH (6 sibling skeletons remaining — d20-a1-q1 lands in OK); apparatus-count flag CLEARED for d20-a1-q1 (not in flagged list); header Q-LOSS A-LOSS persists pending sibling promotions.
+- Build: 632 → 633 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d20-a1-q2`** — fourth d.20 chunk. *Utrum in statu innocentiae fuisset seminum decisio.* QUAESTIO II opens on p.479 L-0 (mid-page) at raw 33705 with `QUAESTIO II.` + italic title *Utrum in statu innocentiae in commixtione fuisset seminum decisio.* + opener *Secundo quaeritur, utrum in illa commixtione esset seminum decisio. Et quod sic, videtur.* + Ad oppositum args (*Generare est de substantia sua aliquem producere* + filius-a-patre-matre-materialiter + vir-fecundaret-mulierem-aliquid-impartiretur + vasa-susceptibilia-idonea-ad-humores-seminarii) → p.480 (Sed contra: semen-superfluum-nutrimenti + secundae-vs-tertiae-digestionis + esset-conveniens-naturae-aut-non + actualis-decisio-partis-via-ad-corruptionem) + Respondeo + Solutio oppositorum + close before `QUAESTIO III.` at raw 33792. No cross-chunk footer migrates from d20-a1-q1. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.479 crops cached at `/tmp/colcrop/vol2-p479-*`; generate p.480 as needed.
+
+## d.20 chunk inventory (in semantic order)
+
+- ~~`d20-littera`~~ **DONE 2026-05-25.**
+- ~~`d20-divisio`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q1`~~ **DONE 2026-05-25.**
+- **`d20-a1-q2`** — *Utrum in statu innocentiae in commixtione fuisset seminum decisio.* — NEXT. (skeleton)
+- `d20-a1-q3` (skeleton)
+- `d20-a1-q4` (skeleton)
+- `d20-a1-q5` (skeleton)
+- `d20-a1-q6` (skeleton)
+- `d20-dubia` (skeleton)
+
+---
+
+## Prior session (2026-05-25, d.20 second chunk — d20-divisio promotion) — d.1–d.19 ALL DONE + d20-littera + d20-divisio = 221 chunks. Build: 632 translated.
 
 **Skeleton-filename convention note (verified `ls vol2/ | grep d20`):** the auto-chunker uses `d20-a1-q*` even though d.20 has ARTICULUS UNICUS (no `d20-au-q*` / `d20-q*` variant). Keep the `a1` key on all six question chunks for filename stability.
 
