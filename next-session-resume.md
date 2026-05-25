@@ -1,6 +1,34 @@
-# Next session — **d.16 COMPLETE; d17-littera + d17-divisio + d17-a1-q1 DONE 2026-05-25.** Begin `d17-a1-q2`.
+# Next session — **d.16 COMPLETE; d17-littera + d17-divisio + d17-a1-q1 + d17-a1-q2 DONE 2026-05-25.** Begin `d17-a1-q3`.
 
-**d.1–d.16 = 192 chunks promoted + d17-littera + d17-divisio + d17-a1-q1 = 195 chunks.** Build: 606 translated, 879 quaestio routes.
+**d.1–d.16 = 192 chunks promoted + d17-littera + d17-divisio + d17-a1-q1 + d17-a1-q2 = 196 chunks.** Build: 607 translated, 879 quaestio routes.
+
+## Last session (2026-05-25, d.17 fourth chunk — d17-a1-q2 promotion)
+
+Promoted `d17-a1-q2` Tier-2:
+- *Utrum anima Adae fuerit producta ex materia.* Spans p.413 L band 1 (QUAESTIO II header + italic title + opener `Secundo quaeritur, utrum anima Adae producta fuerit ex materia. Et quod non, videtur:` immediately after q1 SCHOLION II commentator list close on p.413 L band 0 at `In solutione ad 3. notanda est expositio verborum S. Augustini`) → p.413 R bands 0–1 (Ad oppositum args 1–6 + Sed contra/Fundamenta args 1–3 begin) → p.414 L (Fundamenta args 3–6 close + CONCLUSIO + Respondeo *Opinio 1.* + *Non probatur.* + *Opinio 2.*) → p.414 R (Opinio 2 *Non probatur.* + *Opinio 3.* opener) → p.415 L (Opinio 3 body with *Conclusio 1./2./3.* + *Corollarium* + Solutio ad 1–4 with *Ratio notabilis 1.* + *Alia ratio.*) → p.415 R (ad 4 close + ad 5 with *Multiplex simplicitas.* + *Notandum.* + ad 6 with *Notandum.*) → p.416 L band 0 (ad 6 close at *appetitum ad suscipiendam animam.*). SCHOLION I (substantial: S. Thomas + Richard + Alex. Hal. + Petr. a Tar.) + SCHOLION II (Scotus / Albert / Aegid. R. commentator list) on p.416 L band 0 bottom → R band 1, closing immediately before QUAESTIO III opener.
+- **24 apparatus entries [^1]–[^24].** Page-split map: p.413 L footers 1–5 = [^1]–[^5]; p.413 R footers 6–10 = [^6]–[^10]; p.414 L footers 1–4 = [^11]–[^14] (incl. [^13] = Aug. de Trin. c.2 + de Hebdomadibus + de Unitate et uno + Moribus Manich. + In Ioan. tract. 19 + Spirit. et anima c.36 + Bernard. Cant. serm. 81 *anima vivens se ipsa* block); p.414 R footers 5–6 = [^15]–[^16]; p.415 L footers 1–4 = [^17]–[^20]; p.415 R footers 5–8 = [^21]–[^24] (incl. [^24] *autem* cod. cc + Vat. *corporalem materiam* + *sustinendam animam* variants). p.416 carries no body apparatus — L band 2 footer (Vers. 26 / Cfr. pag. 398 / Vide supra d.2 p.I a.1 q.1) anchors in QUAESTIO III opener and migrates forward to d17-a1-q3.
+- Marginal labels preserved inline per locked Vol II convention: *Ad oppositum.*, *Fundamenta.*, *Opinio 1./2./3.*, *Non probatur.* (×2), *Conclusio 1./2./3.*, *Corollarium.*, *Solutio oppositorum.*, *Ratio notabilis 1.*, *Alia ratio.*, *Multiplex simplicitas.*, *Notandum.* (×2).
+- `has_scholion: true` — SCHOLION I is a substantial doctrinal scholion (S. Thomas Sum. I q.75 a.5 + S.c.G. II c.30 parallel reading; Richard's *unigenea* materia distinction; Alex. Hal. spiritualis-materia magnitudo; Petr. a Tar. on the now-obsolete-but-once-*celebris* materia-spiritualis opinion); II = q2 commentator list.
+- No `[?]` flags — all 24 anchors + 13 marginal labels crisp at 450 dpi across pp.413–416. Column-band PDF read authoritative per Vol II Override; OCR around raw 29107–29473 is two-column cascade-fragmented.
+- Cross-chunk hand-off: received nothing from d17-a1-q1 (q1's last body anchor sat on p.412; p.413 L band 0 holds q1's SCHOLION only). Forward hand-off to d17-a1-q3: p.416 L band 2 footers 1–3 migrate.
+- Audits: paraphrase HIGH (1 chunk, expected first-pass); apparatus-count flag CLEARED for d17-a1-q2 (5 skeleton-suspect flags persist on d17 a*/dubia siblings — clears as they promote); header audit Q-LOSS -1 still fires because d.17 a2-siblings + dubia skeleton — clears as those promote.
+- Build: 606 → 607 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d17-a1-q3`** — fifth d.17 chunk. QUAESTIO III opens on p.416 R band 1 with `QUAESTIO III.` header + italic title *Utrum anima Adae fuerit producta ante corpus, vel postea.* + opener `Tertio quaeritur, utrum anima Adae producta fuerit ante corpus, vel postea. Et quod ante, videtur: 1. Per textum Genesis primo: Faciamus hominem ad imaginem etc.` Per the d17-a1-q2 forward hand-off, p.416 L band 2 footers 1–3 (Vers. 26 = Gen. 1, 26 + Cfr. supra pag. 398 nota 5 + Vide supra d.2 p.I a.1 q.1) migrate here as the first apparatus entries. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for p.416+. p.416 crops already cached at `/tmp/colcrop/vol2-p416-*`; generate p.417+ as needed.
+
+## d.17 chunk inventory (in semantic order)
+
+- ~~`d17-littera`~~ **DONE 2026-05-25.**
+- ~~`d17-divisio`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q2`~~ **DONE 2026-05-25.**
+- **`d17-a1-q3`** — *Utrum anima Adae fuerit producta ante corpus, vel postea.* — NEXT. (skeleton)
+- `d17-a2-q1` (skeleton)
+- `d17-a2-q2` (skeleton)
+- `d17-a2-q3` (skeleton)
+- `d17-dubia` (skeleton)
 
 ## Last session (2026-05-25, d.17 third chunk — d17-a1-q1 promotion)
 
