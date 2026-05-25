@@ -1,8 +1,35 @@
-# Next session — **d.16 COMPLETE; d17 through d17-a2-q3 DONE 2026-05-25.** Begin `d17-dubia`.
+# Next session — **d.1–d.17 ALL COMPLETE 2026-05-25.** Begin `d18-littera`.
 
-**d.1–d.16 = 192 chunks promoted + d17 eight chunks = 200 chunks.** Build: 611 translated, 879 quaestio routes.
+**d.1–d.17 = 201 chunks promoted.** Build: 612 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.17 eighth chunk — d17-a2-q3 promotion)
+## Last session (2026-05-25, d.17 ninth chunk — d17-dubia promotion; d.17 CLOSED)
+
+Promoted `d17-dubia` Tier-2:
+- *Dubia circa litteram Magistri (Dist. XVII).* Spans p.426 R band 1 (DUBIA CIRCA LITTERAM MAGISTRI header + DUB I opener immediately after d17-a2-q3 SCHOLION II close at raw 30010) → p.426 R band 2 (DUB II opener) → p.427 L (DUB II body 3-opinion structure: *Opinio 1.* corporalis / *Opinio 2.* spiritualis / *Opinio 3 cum distinctione.* with *Subdistinctio.* + *Alia subdistinctio.* + Damascene cit. + *Rationes congruentiae.*) → p.427 R (DUB II *Ad obiecta.* close + DUB III opener with sphaera ignis + Augustinus subtilitas argg. + Respondeo *quodam modo vergens ad meridiem*) → p.428 L (DUB III close + DUB IV opener + Respondeo *Triplex differentia lignorum.* corporis/animae/coniuncti) → p.428 R (DUB IV Augustinus *de Civ. Dei* citation + DUB V opener with 3 obiecta + Respondeo *Duplex finis.* + *Mandatum disciplinae.*) → p.429 L band 0 (DUB V close at *Alia satis patent per iam dicta.* immediately before DISTINCTIO XVIII. at raw 30201).
+- **5 dubia** (DUB I–V).
+- **22 apparatus entries [^1]–[^22].** Page-split map: p.426 R-2 footers 1–4 = [^1]–[^4] (Sive non absoluta conditionata / In edd. 2,3,4 et Vat. desideratur habitationi sit congruus / Hic c. 5 / Sub hoc respectu Isidor. XIV Etymol. c. 3. n. 2 hortus deliciarum block); p.426 R-2 footer 5 + p.427 L-2 footer 1 (continuation across page break) = [^5] (Vers. 43 + Ezech. 28, 13 + Origenes IV Periarch. n. 16 + Epiph./Anastasius lengthy block); p.427 L-2 footer 2 = [^6] (Damascene *de Fide orthod.* II c. 11); p.427 R-2 footers 2–7 = [^7]–[^12] (Cfr. August. VIII de Gen ad lit c. 11 + Alex. Hal. sex rationes / Sive atrium + commentator cross-refs / Cfr. supra pag. 321 nota 4 / De Gen. ad lit. imperf. c. 14 + III c. 6 / Vide Damasc. II de Fide orthod. c. 11 + Bedam et Strabum / Ita cod. aa second hand + alii incongrue esse contemperantiam); p.428 L-2 footers 1–4 = [^13]–[^16] (Idem dubium Alex. Hal./Albert + Thomas Apostolus paradisus lunarem globum quote / Nempe lignum vitae et scientiae / In cod. V additur paradisi + universalitas vs universitas lignorum / Plures codd. ed. 2 spirituales); p.428 R-2 footers 5–9 = [^17]–[^21] (Nam secundum Aristot. I Elench. + II de Caelo opposita iuxta se posita / Libr. XIII c. 20 textus originalis mirabili Dei gratia praestabatur / Secundum August. XIII de Civ. Dei c. 20 + VIII de Gen ad lit + Alex. Hal./Albert/Aegid / Cfr. Ambros. de Paradiso + August. VIII de Gen ad lit c. 13 + XIV de Civ. Dei + Edd. homine / Vat. cui pro de quo Deo); p.429 L-2 footer 1 = [^22] (Vat. cum nonnullis codd. *spiritualis*).
+- Marginal labels preserved inline per locked Vol II convention: *Quaestio connexa.*, *Ad quaest. connexam.*, *Opinio 1./2./3 cum distinctione.*, *Subdistinctio.*, *Alia subdistinctio.*, *Rationes congruentiae.*, *Ad obiecta.*, *Triplex differentia lignorum.*, *Duplex finis.*, *Mandatum disciplinae.*
+- `has_scholion: false` — DUBIA chunks in d.17 carry no SCHOLION by design; d.17 doctrinal scholia live in q-chunks (a1-q1/q2/q3, a2-q1/q3).
+- No `[?]` flags — all 22 anchors + 10 marginal labels crisp at 450 dpi across pp.426–429. OCR around raw 30010–30200 is two-column cascade-fragmented; column-band PDF read authoritative per Vol II Override.
+- Cross-chunk hand-off: received nothing from d17-a2-q3 (p.426 L footers consumed by q3). No forward hand-off to d18-littera (d.18 opens p.429 L-1 with its own NOTAE AD LIBR. SENTENTIARUM apparatus block).
+- Audits: paraphrase NO flags (0 critical / 0 high — first time across d.17 promotion that the full distinction lands clean); apparatus-count flag CLEARED for d17-dubia (last d.17 skeleton-suspect flag now gone — d.17 fully clean); header audit NO LOSS flags — **d.17 final clean state achieved**.
+- Build: 611 → 612 translated, 879 quaestio routes.
+
+## d.17 inventory — ALL DONE 2026-05-25
+
+All nine d.17 chunks promoted Tier-2 in a single day:
+`d17-littera`, `d17-divisio`, `d17-a1-q1`, `d17-a1-q2`, `d17-a1-q3`,
+`d17-a2-q1`, `d17-a2-q2`, `d17-a2-q3`, `d17-dubia`.
+
+## What to do this session
+
+**Promote `d18-littera`** — first d.18 chunk. d.18 opens at raw 30201 with `DISTINCTIO XVIII. — Cap. I. De formatione mulieris.` on p.429 L-1 immediately after d17-dubia DUB V close at *Alia satis patent per iam dicta.* **d.18 pars-split determination: d.18 has NO pars split.** Running heads read `DIST. XVIII. ART. I/II.` only — `P. I.` / `P. II.` never appears (verified by grep `DIST\. XVIII` against raw OCR running heads at raw 30616/31610/31883). Chunk inventory proceeds with `d18-divisio` (not `d18-p1-divisio`). Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for every Cap. opener + footer.
+
+**⚠ d18-dubia is a remaining manual-rescue chunk per the d.11–d.20 boundary-sweep audit — keep this flag visible until d18-dubia clears.** Watch for the cascade-merge signature when the d18-dubia boundary is reached.
+
+Remaining d.18 chunk inventory after d18-littera: `d18-divisio`, `d18-a1-q1`, `d18-a1-q2`, `d18-a1-q3`, `d18-a2-q1`, `d18-a2-q2`, `d18-a2-q3`, `d18-dubia` (⚠ manual-rescue).
+
+## Prior session (2026-05-25, d.17 eighth chunk — d17-a2-q3 promotion)
 
 Promoted `d17-a2-q3` Tier-2:
 - *Utrum corpus Adae constitutum fuerit ex elementis in complexione et compositione aequali.* Spans p.424 L band 0 (QUAESTIO III header + italic title + opener `Tertio quaeritur, utrum corpus primi hominis constitutum fuerit ex elementis in complexione et compositione aequali. Et quod sic, videtur.` immediately after q2 *habitatio caeli empyrei* close on p.423 R band 1; raw 29847) → p.424 L bands 1–2 (Argg. pro parte affirmativa args 1–4) → p.424 R bands 0–2 (Sed contra / Pro parte negativa args 1–5 begin) → p.425 L (arg 5 close + arg 6 + CONCLUSIO + Respondeo with *Duplex aequalitas miscibilium.* + *Aequalitas a pondere modo 1./2./3.* openers) → p.425 R (*Conclusio 1.* + *Ad rationes pro parte negativa.* + *Aequalitas a iustitia.* + *Triplex est aequalitas secundum 3 status.* + *Conclusio 2.* opener) → p.426 L band 0 (*Ad rationes pro parte affirm.* paragraph; closes at *ita patet responsio ad totum.* on p.426 R band 0) + SCHOLION I (Avicenna *de medicina* source + Petr. a Tar. gold/lead exemplum gloss on equiparation vs. proportion) + II (commentator list Alex. Hal. S. p. II q. 77 m. 2 a. 1–2 + Petr. a Tar. + Richard. a Med. + back-pointer to q.1 scholion). Closes immediately before `DUBIA CIRCA LITTERAM MAGISTRI` opener at p.426 R band 1 / raw 30010.
