@@ -1,11 +1,26 @@
-# Next session — **d.14-p1 littera/divisio/a1-q1/a1-q2 DONE.** Begin `d14-p1-a2-q1` (manual-rescue).
+# Next session — **d.14-p1 littera/divisio/a1-q1/a1-q2/a2-q1 DONE.** Begin `d14-p1-a2-q2` (manual-rescue).
 
-**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1, a1-q2} = 161 chunks.** Build: 572 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1, a1-q2, a2-q1} = 162 chunks.** Build: 573 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
-## Last session (2026-05-24)
+## Last session (2026-05-24, late)
+
+Promoted `d14-p1-a2-q1` Tier-2:
+- *An caelum sit figurae orbicularis*, pp.341–342, ARTICULUS II opener
+  folded into q1 per locked Vol II convention (no standalone
+  a2-divisio chunk). 13 apparatus entries (p.341 footer: [^1]–[^11];
+  p.342 footer: [^12]–[^13]; p.342 footer note 3 forward-hands to
+  a2-q2 per cross-chunk split convention). 3-section SCHOLION
+  preserved + translated. Two `[?]` flags: (a) in-line position of
+  marker [^2] within arg. 2 (footer note exists but no printed
+  superscript glyph at 450 dpi — placed at end of clause as the
+  cross-reference for *motus circularis*); (b) Scholion II codex
+  sigil `F1 (T a secunda manu)` (parenthesis faint but confirmed
+  against p. 342 R-2 band). Build: 572 → 573 translated.
+
+## Prior session (2026-05-24)
 
 Four d.14 chunks promoted Tier-2:
 - `d14-p1-littera` — Lombard Caps. I–X, pp.333–335, 1,003 Lat words, 13
@@ -34,13 +49,13 @@ Build: 568 → 572 translated.
 
 Remaining d.14 chunks to promote, in order:
 
-- **`d14-p1-a2-q1`** — NEXT. *(manual-rescue chunk per boundary-sweep
-  audit.)* ARTICULUS II opens at p.341 L bottom ("Consequenter
-  quaeritur de caelis quantum ad figuram. Et circa hoc quaeruntur
-  duo..."). Per the locked Vol II convention, fold this short article
-  opener into q1. p.341 L-2 footer notes 5–11 (Chalcidius; De hoc et
-  seqq. fundam.; etc.) belong to a2-q1's affirmative-arg side.
-- `d14-p1-a2-q2` *(manual-rescue)*
+- **`d14-p1-a2-q2`** — NEXT. *(manual-rescue chunk per boundary-sweep
+  audit.)* QUAESTIO II opens mid-p.342 R: *Utrum in caelo sit ponere
+  dextram et sinistram.* Spans p.342 R bottom → p.343+. p.342 R
+  footer note 3 (`Text. 13. (c. 2.), qui secundum versionem
+  Arabico…`) belongs to a2-q2's affirmative-arg side per the
+  cross-chunk split convention. Note also the parked p.333 *Art. 2.
+  q. 2.* variant from `d14-p1-littera` Notes belongs here.
 - `d14-p1-a3-q1` *(manual-rescue)*
 - `d14-p1-a3-q2` *(manual-rescue)*
 - `d14-p1-dubia`
@@ -70,11 +85,11 @@ d.14 — may belong elsewhere or be a stray variant note.
 
 ## Tooling status
 
-- 450 dpi PDF crops cached for pp. 274–338 at `/tmp/colcrop/vol2-p*`.
-  Generate p.339+ as needed.
+- 450 dpi PDF crops cached for pp. 274–342 at `/tmp/colcrop/vol2-p*`.
+  Generate p.343+ as needed.
 - Manual-rescue chunks (d.11–d.20 boundary sweep) still skeleton:
   d16-a1-q2, d18-dubia, d19-littera, d14-p2-divisio, d14-p2-a1-q3,
-  d14-p1-a2-q1/q2, d14-p1-a3-q1/q2. Promote in normal Vol II cadence.
+  d14-p1-a2-q2, d14-p1-a3-q1/q2. Promote in normal Vol II cadence.
 - Pre-promotion boundary sweep log:
   `manual-review/d11-d20-boundary-sweep-audit.md` — all blockers
   cleared 2026-05-23.
@@ -103,6 +118,14 @@ From `d14-p1-a1-q2`:
    ibi²: Fiat firmamentum*"). Decision to promote here per the resume;
    polish-blocker should reconcile (accept dual anchor, or move ¹/²
    back to q1 as [^22]/[^23]).
+
+From `d14-p1-a2-q1`:
+7. Arg 2 in-line position of marker [^2] (p.341 footer note `Part.
+   II. huius d. a. 2. q. 2.`) — no printed superscript glyph visible
+   at 450 dpi within arg 2; placed at end of clause as the
+   cross-reference for *motus circularis*. Resolve at 600 dpi.
+8. Scholion II codex sigil `F1 (T a secunda manu)` — parenthesis is
+   faint at 450 dpi (confirmed but not crisp).
 
 ## Open project-wide TODOs
 
