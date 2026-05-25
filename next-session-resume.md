@@ -1,11 +1,32 @@
-# Next session — **d.14-p1 littera/divisio/a1-q1/a1-q2/a2-q1 DONE.** Begin `d14-p1-a2-q2` (manual-rescue).
+# Next session — **d.14-p1 {littera/divisio/a1-q1/a1-q2/a2-q1/a2-q2} DONE.** Begin `d14-p1-a3-q1` (manual-rescue).
 
-**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1, a1-q2, a2-q1} = 162 chunks.** Build: 573 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1, a1-q2, a2-q1, a2-q2} = 163 chunks.** Build: 574 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
-## Last session (2026-05-24, late)
+## Last session (2026-05-24, latest)
+
+Promoted `d14-p1-a2-q2` Tier-2 (manual-rescue):
+- *Utrum in caelo sit ponere dextram et sinistram*, pp. 342 R bottom →
+  343 → 344 → 345 R top. 17 apparatus entries continuously renumbered
+  across page footers: p. 342 note 3 picked up from a2-q1 hand-off
+  (= [^2], the *Text. 13. (c. 2.) … Arabico-latinam* opener for the
+  *Per illud quod dicit Philosophus* citation); p. 343 footer ¹–¹¹ →
+  [^1]+[^3]–[^12]; p. 344 footer ¹–⁸ → [^13]–[^18] (notes 7+8
+  consolidated at the Ad-3 / Ad-6 tail anchor [^19] with p. 345 note 1
+  *Vide scholion ad praecedentem quaest.*); p. 345 note 1 = closing
+  anchor of *Ad 6*. No fresh scholion (a2-q1's Scholion III is the
+  article-level *pro quaest. seq.* per Vol II convention). One `[?]`
+  flag on the in-line position of marker [^9] in *Ad oppositum* arg. 6.
+  Parked p. 333 *Art. 2. q. 2. — Cfr. etiam supra d. I. p. I. dub. 1…*
+  cross-reference catalog: confirmed no clean inline anchor in q2's
+  body (q2 cites Aristotle/Averroes/codex variants, not Thomas/
+  Tarentaise/Aegidius); documented in `## Notes` as deferred to the
+  d.11–d.20 polish-blocker for a capture-vs-reject disposition.
+  Build: 573 → 574 translated.
+
+## Prior session (2026-05-24, late)
 
 Promoted `d14-p1-a2-q1` Tier-2:
 - *An caelum sit figurae orbicularis*, pp.341–342, ARTICULUS II opener
@@ -49,14 +70,7 @@ Build: 568 → 572 translated.
 
 Remaining d.14 chunks to promote, in order:
 
-- **`d14-p1-a2-q2`** — NEXT. *(manual-rescue chunk per boundary-sweep
-  audit.)* QUAESTIO II opens mid-p.342 R: *Utrum in caelo sit ponere
-  dextram et sinistram.* Spans p.342 R bottom → p.343+. p.342 R
-  footer note 3 (`Text. 13. (c. 2.), qui secundum versionem
-  Arabico…`) belongs to a2-q2's affirmative-arg side per the
-  cross-chunk split convention. Note also the parked p.333 *Art. 2.
-  q. 2.* variant from `d14-p1-littera` Notes belongs here.
-- `d14-p1-a3-q1` *(manual-rescue)*
+- **`d14-p1-a3-q1`** — NEXT. *(manual-rescue.)*
 - `d14-p1-a3-q2` *(manual-rescue)*
 - `d14-p1-dubia`
 - `d14-p2-divisio` *(manual-rescue)*
@@ -70,18 +84,20 @@ Remaining d.14 chunks to promote, in order:
 
 ## What to do this session
 
-**Promote `d14-p1-a2-q1`** (manual-rescue per boundary-sweep audit).
-Page span p.341 → continues into p.342+. Generate PDF crops as
-needed; reset Latin column-by-column, translate, build apparatus.
-Fold the short ARTICULUS II opener ("Consequenter quaeritur... Et circa
-hoc quaeruntur duo. Primo... Secundo...") into q1 per the locked Vol II
-convention.
+**Promote `d14-p1-a3-q1`** (manual-rescue). ARTICULUS III opens
+mid-p.345 L (*De caelis in comparatione ad motoris influentiam*) with
+the short divisio opener *Consequenter quaeritur tertio loco … Et circa
+hoc quaeruntur duo.* Fold the opener into q1 per the locked Vol II
+convention. Generate PDF crops for p. 345+ as needed (p. 345 already
+cached). p. 345 footer note 1 (*Vide scholion ad praecedentem
+quaest.*) is shared — claimed at the tail of `d14-p1-a2-q2`'s [^19]
+already, so verify no double-count when this chunk promotes.
 
-The two p.333 Bonaventure-side variant footers from `d14-p1-littera`
-Notes (*Vat. … quando*; *Art. 2. q. 2. — Cfr. etiam supra d. I. p. I.
-dub. 1...*) remain parked — the "Art. 2. q. 2." cross-reference clearly
-belongs to `d14-p1-a2-q2`. The "Vat. … quando" has no obvious anchor in
-d.14 — may belong elsewhere or be a stray variant note.
+The "Vat. … quando" parked footer from `d14-p1-littera` Notes still
+has no obvious d.14 anchor — defer to the polish-blocker. The "Art. 2.
+q. 2." cross-reference catalog from p. 333 is documented in
+`d14-p1-a2-q2` Notes as deferred (no clean inline anchor in q2 body)
+pending the polish-blocker.
 
 ## Tooling status
 
@@ -89,7 +105,7 @@ d.14 — may belong elsewhere or be a stray variant note.
   Generate p.343+ as needed.
 - Manual-rescue chunks (d.11–d.20 boundary sweep) still skeleton:
   d16-a1-q2, d18-dubia, d19-littera, d14-p2-divisio, d14-p2-a1-q3,
-  d14-p1-a2-q2, d14-p1-a3-q1/q2. Promote in normal Vol II cadence.
+  d14-p1-a3-q1/q2. Promote in normal Vol II cadence.
 - Pre-promotion boundary sweep log:
   `manual-review/d11-d20-boundary-sweep-audit.md` — all blockers
   cleared 2026-05-23.
@@ -126,6 +142,19 @@ From `d14-p1-a2-q1`:
    cross-reference for *motus circularis*. Resolve at 600 dpi.
 8. Scholion II codex sigil `F1 (T a secunda manu)` — parenthesis is
    faint at 450 dpi (confirmed but not crisp).
+
+From `d14-p1-a2-q2`:
+9. *Ad oppositum* arg. 6 in-line position of marker [^9]
+   (`quod nullo modo concedi potest⁹`) — footer note exists
+   unambiguously (Aristot. text 15) but the printed `⁹` superscript
+   is faint at clause-end at 450 dpi; placed at the natural
+   cross-reference position. Resolve at 600 dpi.
+10. Parked p. 333 *Art. 2. q. 2. — Cfr. etiam supra d. I. p. I. dub.
+    1; d. 10. dub. 1; d. 12. dub. 1; …* cross-reference catalog from
+    `d14-p1-littera` Notes: confirmed no clean inline anchor in
+    a2-q2's body. Disposition (capture as appended Scholion-style note,
+    or confirm as p.333 NOTAE editorial apparatus that does not
+    migrate) deferred to polish-blocker.
 
 ## Open project-wide TODOs
 
