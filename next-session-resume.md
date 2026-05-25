@@ -1,8 +1,36 @@
-# Next session — **d.16 COMPLETE; d17 through d17-a2-q2 DONE 2026-05-25.** Begin `d17-a2-q3`.
+# Next session — **d.16 COMPLETE; d17 through d17-a2-q3 DONE 2026-05-25.** Begin `d17-dubia`.
 
-**d.1–d.16 = 192 chunks promoted + d17 seven chunks = 199 chunks.** Build: 610 translated, 879 quaestio routes.
+**d.1–d.16 = 192 chunks promoted + d17 eight chunks = 200 chunks.** Build: 611 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.17 seventh chunk — d17-a2-q2 promotion)
+## Last session (2026-05-25, d.17 eighth chunk — d17-a2-q3 promotion)
+
+Promoted `d17-a2-q3` Tier-2:
+- *Utrum corpus Adae constitutum fuerit ex elementis in complexione et compositione aequali.* Spans p.424 L band 0 (QUAESTIO III header + italic title + opener `Tertio quaeritur, utrum corpus primi hominis constitutum fuerit ex elementis in complexione et compositione aequali. Et quod sic, videtur.` immediately after q2 *habitatio caeli empyrei* close on p.423 R band 1; raw 29847) → p.424 L bands 1–2 (Argg. pro parte affirmativa args 1–4) → p.424 R bands 0–2 (Sed contra / Pro parte negativa args 1–5 begin) → p.425 L (arg 5 close + arg 6 + CONCLUSIO + Respondeo with *Duplex aequalitas miscibilium.* + *Aequalitas a pondere modo 1./2./3.* openers) → p.425 R (*Conclusio 1.* + *Ad rationes pro parte negativa.* + *Aequalitas a iustitia.* + *Triplex est aequalitas secundum 3 status.* + *Conclusio 2.* opener) → p.426 L band 0 (*Ad rationes pro parte affirm.* paragraph; closes at *ita patet responsio ad totum.* on p.426 R band 0) + SCHOLION I (Avicenna *de medicina* source + Petr. a Tar. gold/lead exemplum gloss on equiparation vs. proportion) + II (commentator list Alex. Hal. S. p. II q. 77 m. 2 a. 1–2 + Petr. a Tar. + Richard. a Med. + back-pointer to q.1 scholion). Closes immediately before `DUBIA CIRCA LITTERAM MAGISTRI` opener at p.426 R band 1 / raw 30010.
+- **10 apparatus entries [^1]–[^10].** Page-split map: p.424 L footers 1–4 = [^1]–[^4] (Cfr. supra pag. 380 nota 1 / Vat. *iniustitiae* / Avicenna Canon I Fen 1 doctr. 3 c. 1 heat-of-life block / Aristot. II de Partib. animal. + Avicenna phlegm/melancholy block); p.424 R footers 5–7 = [^5]–[^7] (Aristot. I de Caelo text 7 + Averroes + cod. aa gloss / Averroes II de Generat. text 18 + IV Meteor + X Metaph + Galen impugnat + Vat. *fuit* supplement / Aug. XIII de Civ. Dei c. 20+23 + XIV c. 26 + I de Peccatorum meritis c. 3 + d.19 forward pointer); p.425 L footer 1 = [^8] (Avicenna Canon I Fen 1 doctr. 3 c. 1 *iustitia in divisione* block); p.425 R footers 2–3 = [^9]–[^10] (Vat. *ratione* / edd. 2,3,4 + Vat. deest *reperitur in his quae miscentur naturaliter*).
+- Marginal labels preserved inline per locked Vol II convention: *Argg. pro parte affirmativa.*, *Pro parte negativa.*, *Duplex aequalitas miscibilium.*, *Aequalitas a pondere modo 1./2./3.*, *Conclusio 1./2.*, *Ad rationes pro parte negativa./affirm.*, *Aequalitas a iustitia.*, *Triplex est aequalitas secundum 3 status.*
+- `has_scholion: true` — SCHOLION I substantial doctrinal scholion (Avicenna *de medicina* as source for the *a pondere* / *a iustitia* distinction + Petr. a Tar. gold/lead exemplum gloss); II = q3-specific commentator list.
+- No `[?]` flags — all 10 anchors + 12 marginal labels crisp at 450 dpi across pp.424–426. OCR around raw 29847–30009 is two-column cascade-fragmented (`QUAESTIO 111.` header + `lll` Roman-numeral garble + diagonal token reorder around CONCLUSIO/Respondeo splice + marginal-label bleed-through); column-band PDF read authoritative per Vol II Override. **The OCR raw 29847 `QUAESTIO 111.` line is the printed-p.424 header pulled above the p.423 R-2 footer block by the cascade** — verified column-band PDF assigns it to p.424 L band 0.
+- Cross-chunk hand-off: received nothing from d17-a2-q2. Forward hand-off to d17-dubia: none — p.426 R band 2 footers 4–5 (Vers. 43 + Isidor. XIV Etymol. c. 3 + Origenes Periarch. IV n. 16) all anchor in DUB I/II body, which d17-dubia owns.
+- Audits: paraphrase HIGH (1 chunk, expected first-pass); apparatus-count flag CLEARED for d17-a2-q3 (only d17-dubia +18 skeleton-suspect flag persists — clears as it promotes); header audit NO LOSS flags (ART +3 / QUAEST +5 / DUB +0).
+- Build: 610 → 611 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d17-dubia`** — ninth and final d.17 chunk. DUBIA CIRCA LITTERAM MAGISTRI opens on p.426 R band 1 at raw 30010 with `DuB. I.` immediately after q3 SCHOLION II close. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for p.426 R + p.427+. p.426 crops already cached at `/tmp/colcrop/vol2-p426-*`; generate p.427+ as needed. d.17 closes with this chunk.
+
+## d.17 chunk inventory (in semantic order)
+
+- ~~`d17-littera`~~ **DONE 2026-05-25.**
+- ~~`d17-divisio`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q3`~~ **DONE 2026-05-25.**
+- ~~`d17-a2-q1`~~ **DONE 2026-05-25.**
+- ~~`d17-a2-q2`~~ **DONE 2026-05-25.**
+- ~~`d17-a2-q3`~~ **DONE 2026-05-25.**
+- **`d17-dubia`** — NEXT. (skeleton)
+
+## Prior session (2026-05-25, d.17 seventh chunk — d17-a2-q2 promotion)
 
 Promoted `d17-a2-q2` Tier-2:
 - *Utrum corpus Adae constitutum fuerit ex natura pure elementari.* Spans p.420 R band 2 bottom (QUAESTIO II header + italic title + opener `Secundo quaeritur, utrum corpus primi hominis constitutum fuerit de natura pure elementari, an simul cum natura elementari concurrerit natura caelestis ad eius constitutionem.` immediately after q1 SCHOLION II commentator list close at raw 29621) → p.421 (*Ad oppositum* args 1–6 + Contra/*Fundamenta* args 1–2) → p.422 (Fundamenta args 3–6 + CONCLUSIO + Respondeo with *Opinio 1.* + *Improbatur.* + *Opinio 2.* + *Non probatur.* + *Opinio 3 cum distinctione.* + *Membrum 1 distinctionis.* + *Conclusio 1.* opener) → p.423 (Conclusio 1 close + *Membrum 2.* + *Conclusio 2.* + Iuxta hanc tertiam viam response-to-question + *Solutio oppositorum* ad 1–6 with *Triplex lux.* + *Notandum.* (×2) closing at *habitatio caeli empyrei*). Closes immediately before QUAESTIO III opener on p.423 R band 2 at raw 29847.
