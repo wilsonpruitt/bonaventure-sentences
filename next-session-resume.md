@@ -1,18 +1,27 @@
-# Next session — **d.20 COMPLETE 2026-05-25 (all 9 chunks Tier-2). NEXT = d.11–d.20 decade-polish-blocker, NOT d.21-littera.**
+# Next session — **d.11–d.20 polish-blocker IN PROGRESS. Pass 1: 3/9 flags closed across 2 chunks. 6 flags remain across 6 chunks; then Pass 2 + Pass 3 before d.21-littera dispatch.**
 
-**d.1–d.20 ALL DONE = 228 chunks promoted.** Build: 639 translated, 879 quaestio routes. d.20 closed with d20-dubia (DUB. I–VII, pp. 487–489, 20-entry apparatus, no `[?]` flags). Audits final clean state: paraphrase 0 CRITICAL / 0 HIGH across all 9 d.20 chunks; apparatus-count 0 flagged; header diffs within Vol II coarseness tolerance.
+**d.1–d.20 ALL DONE = 228 chunks promoted.** Build: 639 translated, 879 quaestio routes. Polish log live at `manual-review/d11-d20-polish-resolution-log.md`.
 
-## ⚠ NEXT ACTION: d.11–d.20 decade-polish-blocker (three passes — blockers for d.21+ dispatch)
+## ⚠ NEXT ACTION: continue Pass 1 of d.11–d.20 polish-blocker (6 remaining `[?]` flags)
 
-Per `CLAUDE.md` § "Polish-blocker cadence (every 10 distinctions)" — three locked-in passes must close before any d.21 translation agent is dispatched:
+600 dpi crops cached in `raw/vision/vol2/r600/` for pp.333, 334, 335, 337, 338, 341, 342, 343, 346, 350, 450, 451, 482. The d11-d20 polish log table tracks per-flag resolution; chunk `## Notes` blocks updated as flags close.
 
-1. **`[?]` flag resolution — d.11–d.20 only, at 600 dpi.** Walk every inline `[?]` in chunks d.11–d.20 + per-chunk `manual-review/tier2-ambiguities-d{N}-*.md` logs (Vol II uses per-chunk `## Notes` flags, not the legacy ambiguities-md discipline — see Vol II Override step 7). Known item carried forward: **d18-a2-q2's stray `²` on *absque dolore* (p.451 L-1)**. Also re-check d20-a1-q4's `[^1]` *intendetur* future-passive anchor flagged in that session's notes (may also need 600 dpi). Generate 600 dpi crops via `pdftoppm -r 600 -f PDF -l PDF -png raw/doctorisseraphic02bona.pdf raw/vision/vol2/p-hires-PRINTED-r600`. Each flag → RESOLVE (with PDF citation) or formally ACCEPT-ILLEGIBLE (with reason).
-2. **Style/formatting audit — full corpus (d.1 through d.20).** Programmatic scan for: required Tier-2 frontmatter fields; `## Latin` / `## English` / `## Apparatus` standard structure; apparatus marker pairing (every `[^N]:` def matched in both Latin and English bodies); page-break presence; `transcription_status` starts with `Phase C Tier 2 complete —`; legacy auto-chunked duplicates.
-3. **Cross-chunk boundary integrity sweep — d.11–d.20 only.** For every chunk boundary that falls inside a printed page (quaestio/divisio/scholion split mid-page), verify against 450 dpi PDF column bands that no body text or footnote was lost at the seam. Watch for the IA-djvu cascade-merge signature (a grammatically broken splice in a prior chunk's tail). Use the d9 `tertia hierarchia` example as the canonical failure mode.
+**Remaining flags (6 chunks):**
+- `d14-p1-a2-q1` — (a) in-line position of marker `[^2]` in arg. 2 (no printed ² glyph at 450 dpi on p.341); (b) Mediavilla codex sigil `F1 (T a secunda manu)` parenthesis on p.342 R-2
+- `d14-p1-a2-q2` — in-line position of marker `[^9]` within *Ad oppositum 6* at clause-end of *quod nullo modo concedi potest⁹* on p.343
+- `d14-p1-a3-q1` — Scholion I phrase *Hucusque proxime accedunt* on p.346 (rare-construction flag, not a glyph-ambiguity)
+- `d14-p1-a3-q2` — `[^25]` *et per hoc etiam… litteram* anchor placement (Ad 6) on p.350
+- `d14-p1-littera` — three marginal labels *Dubium 3.* / *Dubium 1.* (×3 across Latin+English bodies) on pp.333–334; verify whether the printed text actually carries the *Dubium* label or whether these are scribal inserts from the chunker
+- `d20-a1-q4` — `[^1]` anchor on *intelligibile* vs *intendetur* future-passive variant on p.482 *Respondeo* opener
 
-**Land all three passes' dispositions in a single per-decade log file: `manual-review/d11-d20-polish-resolution-log.md`** (file does NOT yet exist — flag for creation in the polish pass). Use the d1-d4 / d1-d10 logs as format reference.
+**Closed this session (PM 2026-05-25):**
+- `d14-p1-a1-q1` Scholion II `Alex. Hal., S. p. II. q. 50. m. 1.[?]` — column-edge artifact, removed (1 flag).
+- `d18-a2-q2` Conclusio `Damasceni[^23] [?]` — OCR spacing noise, removed (1 flag).
+- `d18-a2-q2` Q2 ad 5 `absque dolore[?]` — recovered as `[^25]` = *Cfr. infra d. 19. a. 2. q. 1, et a. 3. q. 1, ubi hoc explicatur* (dropped during chunking; not held by d18-a2-q3); apparatus 22 → 25 entries (1 flag).
 
-After all three passes close, dispatch d.21-littera as the next translation chunk. Do NOT skip the polish-blocker — `CLAUDE.md` is explicit that the three passes are mandatory before the next decade of distinctions begins.
+**Pass 3 follow-up identified:** d18-a2-q2 still missing p.450 R-2 footers ⁶/⁷/⁸ (Greg solution back-ref + *Codd. Y* variant + *Cfr. supra pag. 20*). Triage in cross-chunk boundary sweep.
+
+After Pass 1 closes: Pass 2 (style/formatting audit full corpus) + Pass 3 (cross-chunk boundary sweep d.11–d.20). Only after all three close → dispatch d.21-littera.
 
 ---
 
