@@ -1,11 +1,30 @@
-# Next session — **d.14-p1 {…/a2-q2/a3-q1} DONE.** Begin `d14-p1-a3-q2` (manual-rescue).
+# Next session — **d.14-p1 {…/a3-q1/a3-q2} DONE.** Begin `d14-p1-dubia`.
 
-**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1, a1-q2, a2-q1, a2-q2, a3-q1} = 164 chunks.** Build: 575 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1, a1-q2, a2-q1, a2-q2, a3-q1, a3-q2} = 165 chunks.** Build: 576 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
 ## Last session (2026-05-24, latest)
+
+Promoted `d14-p1-a3-q2` Tier-2 (manual-rescue):
+- *Utrum motus caeli sit a propria forma, vel ab Intelligentia*,
+  pp. 347 (Q II opener after a3-q1 SCHOLION) → 348 → 349 → 350 L
+  (closing of *Ad 6*). 25 apparatus entries continuously renumbered:
+  p. 347 L footer notes 1–4 = [^1]–[^4] (hand-off from a3-q1 fully
+  consumed in q2's affirmative *Ad oppositum* args 1, 2, 4); p. 347 R
+  footer notes 5–7 = [^5]–[^7]; p. 348 footer 1–9 = [^8]–[^16];
+  p. 349 footer 1–8 = [^17]–[^24]; p. 350 L footer note 1 = [^25]
+  (Vat.-variant closing anchor on *in littera*; notes 2–4 of p. 350
+  hand forward to `d14-p1-dubia`). No q2 scholion — Article III's
+  scholion is attached to a3-q1 per Vol II convention. Two probable
+  positions held compatible (own-form-plus-divine-supply vs. Angel-
+  mediated), against the rejected Avicennan animal-soul view. One
+  [?] flag (item 12 below): [^25] apparatus body ellipsis-bracketed
+  *et per hoc etiam… litteram* tail not crisp at 450 dpi.
+  Build: 575 → 576 translated.
+
+## Prior session (2026-05-24, late)
 
 Promoted `d14-p1-a3-q1` Tier-2 (manual-rescue):
 - *Utrum caelum immediate moveatur a Deo*, pp. 345 L (mid) → 346 →
@@ -26,7 +45,7 @@ Promoted `d14-p1-a3-q1` Tier-2 (manual-rescue):
   1–4 hand forward to next chunk (`d14-p1-a3-q2`) per the
   cross-chunk split convention. Build: 574 → 575 translated.
 
-## Prior session (2026-05-24, latest)
+## Prior session (2026-05-24)
 
 Promoted `d14-p1-a2-q2` Tier-2 (manual-rescue):
 - *Utrum in caelo sit ponere dextram et sinistram*, pp. 342 R bottom →
@@ -47,7 +66,7 @@ Promoted `d14-p1-a2-q2` Tier-2 (manual-rescue):
   d.11–d.20 polish-blocker for a capture-vs-reject disposition.
   Build: 573 → 574 translated.
 
-## Prior session (2026-05-24, late)
+## Prior session (2026-05-24, earlier)
 
 Promoted `d14-p1-a2-q1` Tier-2:
 - *An caelum sit figurae orbicularis*, pp.341–342, ARTICULUS II opener
@@ -91,8 +110,7 @@ Build: 568 → 572 translated.
 
 Remaining d.14 chunks to promote, in order:
 
-- **`d14-p1-a3-q2`** — NEXT. *(manual-rescue.)*
-- `d14-p1-dubia`
+- **`d14-p1-dubia`** — NEXT.
 - `d14-p2-divisio` *(manual-rescue)*
 - `d14-p2-a1-q1`
 - `d14-p2-a1-q2`
@@ -104,15 +122,15 @@ Remaining d.14 chunks to promote, in order:
 
 ## What to do this session
 
-**Promote `d14-p1-a3-q2`** (manual-rescue). QUAESTIO II of Articulus
-III: *Utrum motus caeli sit a propria forma, vel ab Intelligentia.*
-Raw lines 24561 → 24820 (QUAEST. II body to TRACTATIO QUAESTIONUM of
-P. II opener). Spans pp. 347 (Q II opener after the q1 SCHOLION) →
-348 → 349 → ~350. Pick up p. 347 footer notes 1–4 (handed forward
-from `d14-p1-a3-q1` — Libr. II *Phys.* text. 3; Aristot. VIII *Phys.*
-text. 28; *De Fide orthod.*; Cfr. Aristot. II *de Caelo* text. 35);
-build continuously from page footers per the cross-chunk split
-convention. Generate column crops for pp. 348–350.
+**Promote `d14-p1-dubia`** (standard, not manual-rescue). The Dubia
+Circa Litteram Magistri for Pars I begin at raw line 24756 on
+p. 350 L (right after `d14-p1-a3-q2`'s closing *in littera¹*). Pick
+up p. 350 L footer notes 2–4 as opening apparatus entries (handed
+forward from `d14-p1-a3-q2`: *Scil. mutationes inferiorum corporum
+… Aristot. I de Caelo text. 20.*; *Cfr. a. 1. q. 1. huius dist.*;
+*Magister Petrus Comestor († 1178)…*). Grep for next semantic
+boundary — likely end of Pars I dubia at `COMMENTARIUS` opener for
+Pars II (visible around raw line 24809 / printed p. 351).
 
 The "Vat. … quando" parked footer from `d14-p1-littera` Notes still
 has no obvious d.14 anchor — defer to the polish-blocker. The "Art. 2.
@@ -122,11 +140,11 @@ pending the polish-blocker.
 
 ## Tooling status
 
-- 450 dpi PDF crops cached for pp. 274–347 at `/tmp/colcrop/vol2-p*`.
-  Generate p. 348+ as needed.
+- 450 dpi PDF crops cached for pp. 274–350 at `/tmp/colcrop/vol2-p*`.
+  Generate p. 351+ as needed.
 - Manual-rescue chunks (d.11–d.20 boundary sweep) still skeleton:
-  d16-a1-q2, d18-dubia, d19-littera, d14-p2-divisio, d14-p2-a1-q3,
-  d14-p1-a3-q2. Promote in normal Vol II cadence.
+  d16-a1-q2, d18-dubia, d19-littera, d14-p2-divisio, d14-p2-a1-q3.
+  Promote in normal Vol II cadence.
 - Pre-promotion boundary sweep log:
   `manual-review/d11-d20-boundary-sweep-audit.md` — all blockers
   cleared 2026-05-23.
@@ -183,6 +201,13 @@ From `d14-p1-a3-q1`:
     crisp at 450 dpi between [^12] (*per quem movet*) and the *Ad 4*
     opener; placed at *nec perfectus status* by inference. Resolve at
     600 dpi.
+
+From `d14-p1-a3-q2`:
+12. `[^25]` apparatus body (p. 350 L footer note 1): the verbatim
+    Vat. variant `In Vat. desiderantur verba et per hoc etiam...
+    litteram [?]. Vide scholion ad praecedentem quaest.` — the
+    ellipsis-bracketed tail at *litteram* could read *litteralis* or
+    be elided differently. Resolve at 600 dpi.
 
 ## Open project-wide TODOs
 
