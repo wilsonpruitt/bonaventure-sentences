@@ -1,7 +1,55 @@
-# Next session — **d16-a1-q2 DONE.** Begin `d16-a1-q3`.
+# Next session — **d16-a1-q3 DONE.** Begin `d16-a2-q1`.
 
-**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 + d16-a1-q2 = 187 chunks promoted.** Build: 598 translated,
-879 quaestio routes. Vol II d.1–d.10 LIVE on
+**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 + d16-a1-q2 + d16-a1-q3 = 188 chunks promoted.** Build: 599 translated,
+879 quaestio routes.
+
+## Last session (2026-05-25, d.16 fifth chunk — d16-a1-q3 promotion)
+
+Promoted `d16-a1-q3` Tier-2:
+- *Utrum esse imaginem conveniat homini proprie, ita quod nulli alii.*
+  Spans p.398 L band 1 bottom (QUAESTIO III header + title +
+  *Fundamenta* arg 1 opener immediately after d16-a1-q2 *alio vero
+  modo non.* close at raw 28075) → p.398 L band 2 (args 1 close +
+  arg 2 Augustine *de imagine*) → p.398 R bands 0–1 (args 3–6 +
+  *Contra* / *Ad oppositum* args 1–4) → p.399 L band 0 (arg 4 close
+  + CONCLUSIO + Respondeo with *Proprium dupliciter* + bipes
+  analogy) → p.399 L band 1 + R band 0 (*Solutio oppositorum* ad 1,
+  ad 2, ad 3 with *Duplex sensus superlativi* marginal, ad 4) →
+  p.399 R band 1 (ad 5–6 with *Notandum* marginal closing at
+  *explanata fuit.* immediately before ARTICULUS II opener at
+  raw 28166).
+- **15 apparatus entries [^1]–[^15].** Page-split map: p.398 L
+  footers 4–5 = [^1]–[^2] (Gen. 1, 26 + Serm. 43 / *de Verbis
+  Apostoli* serm. 27 — inherited per d16-a1-q2 forward hand-off);
+  p.398 R footers 6–13 = [^3]–[^10] (Aristot. V Topic. + Q I corp.
+  + Ambros. Epist. 43 + III Sent. d. 2 + Pseudo-Dion. *de Div.
+  Nom.* c. 4 + August. XIV de Trin. + d. 1. p. II. a. 2. q. 2 +
+  Dist. 3. p. II.); p.399 L footers 1–4 = [^11]–[^14] (Aristot. V
+  Topic. c. 1 + cross-ref + cod. variant + Priscian III Grammat.);
+  p.399 R footer 5 = [^15] (Gregor. *omnis creaturae nomine
+  signatur homo*). p.399 R footer 8 (*Multi codd. cum ed. 2
+  activa/affectiva*) anchors in d16-a2-divisio/q1 TRACTATIO
+  sub-divisio listing; does not migrate here.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Ad oppositum.*, *Fundamenta.* (×2), *Conclusio.*, *Solutio
+  oppositorum.*, *Duplex sensus superlativi.*, *Notandum.*
+- `has_scholion: false` — q3 has no scholion of its own per the
+  locked Vol II sibling-shared-scholion pattern; d16-a1-q1
+  SCHOLION I owns the doctrinal note for this article. p.399 has
+  no SCHOLION between q3 close and ARTICULUS II opener.
+- No `[?]` flags — all 15 anchors + 7 marginal labels crisp at
+  450 dpi across pp.398–399.
+- Forward hand-off to d16-a2-q1: none — ARTICULUS II opens on
+  p.399 R band 1 bottom with its own `Consequenter quaeritur de
+  imagine secundum considerationem relatam` opener + 3-question
+  sub-divisio (folded into a2-q1 per Vol II Override step 5).
+- Audits: paraphrase HIGH (expected first-pass); apparatus-count
+  flag CLEARED for q3 (skeleton flags persist on d16-a2-q1/q2/q3
+  and d16-dubia — clears as they promote); header audit DUB-LOSS
+  still fires because d16-dubia is skeleton.
+- Build: 598 → 599 translated, 879 quaestio routes.
+
+## Last session (2026-05-25, d.16 fourth chunk — d16-a1-q2 promotion, manual-rescue) Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
 
@@ -160,15 +208,19 @@ Promoted `d16-littera` Tier-2:
 
 ## What to do this session
 
-**Promote `d16-a1-q3`** — fifth d.16 chunk. *Utrum esse imaginem
-conveniat homini proprie, ita quod nulli alii.* Opens at raw 28075
-with `QUAESTIO III.` on p.398 L band 0 (immediately after the
-d16-a1-q2 *alio vero modo non.* close) and continues onto p.399+.
-Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read.
-p.398 crops already cached at `/tmp/colcrop/vol2-p398-*`; generate
-p.399+ as needed. Forward footer hand-off from d16-a1-q2: p.398 L
-footers 4 (Gen. 1, 26 = *Faciamus hominem*) + 5 (Serm. 43 alias
-*de Verbis Apostoli* serm. 27) anchor in q3 body.
+**Promote `d16-a2-q1`** — sixth d.16 chunk. ARTICULUS II opens at
+raw 28166 with `ARTICULUS II.` on p.399 R band 1 bottom + sub-title
+*De imagine secundum considerationem relatam* + opener `Consequenter
+quaeritur de imagine secundum considerationem relatam. Et circa hoc
+quaeruntur tria.` (3-question sub-divisio: *Primo, utrum ratio
+imaginis principalius reperiatur in Angelo quam in anima* /
+*Secundo, utrum principalius in viro quam in femina* / *Tertio,
+utrum principalius reperiatur in cognitiva quam in affectiva*).
+QUAESTIO I header at raw 28191. Per locked Vol II Override step 5,
+the short ARTICULUS II opener + 3-question sub-divisio folds into
+this q1 chunk. Standard Vol II Tier-2 procedure: 450 dpi column-band
+PDF read. p.399 crops already cached at `/tmp/colcrop/vol2-p399-*`;
+generate p.400+ as needed.
 
 ## d.16 chunk inventory (in semantic order)
 
@@ -176,8 +228,8 @@ footers 4 (Gen. 1, 26 = *Faciamus hominem*) + 5 (Serm. 43 alias
 - ~~`d16-divisio`~~ **DONE 2026-05-25.**
 - ~~`d16-a1-q1`~~ **DONE 2026-05-25.**
 - ~~`d16-a1-q2`~~ **DONE 2026-05-25.**
-- **`d16-a1-q3`** — *Utrum esse imaginem conveniat homini proprie, ita quod nulli alii.* — NEXT. (skeleton)
-- `d16-a2-q1` — (skeleton)
+- ~~`d16-a1-q3`~~ **DONE 2026-05-25.**
+- **`d16-a2-q1`** — *Utrum ratio imaginis principalius reperiatur in Angelo quam in anima.* — NEXT. (skeleton)
 - `d16-a2-q2` — (skeleton)
 - `d16-a2-q3` — (skeleton)
 - `d16-dubia` — (skeleton)
