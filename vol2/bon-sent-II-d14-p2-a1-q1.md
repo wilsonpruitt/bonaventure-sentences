@@ -3,156 +3,218 @@ id: "bon-sent-II-d14-p2-a1-q1"
 volume: 2
 book: 2
 distinctio: 14
+pars: 2
 articulus: 1
 quaestio: 1
 type: quaestio
+title_la: "Utrum omnia luminaria caeli locentur in uno corpore continuo."
+title_en: "Whether all the luminaries of heaven are placed in one continuous body."
+printed_pages: [351, 352, 353]
+pdf_pages: [373, 374, 375]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 351–353 (Bonaventure's commentary on II Sent., d. 14, pars II, art. I, q. 1: whether all the luminaries of heaven are situated in one continuous body — affirmative arguments from Genesis 1 and Aristotle's De Caelo, four arguments Ad oppositum on number, contrary motions, Damascene's enumeration of the heavens, and the fixed-versus-erratic stars distinction, with the incidental question why God made more fixed stars than planets; Conclusio that the luminaries are placed in several orbs but in one continuous body which Scripture calls firmamentum; Respondeo on the distinction of orbs arising from the diversity of motions, not from form or surface; replies to the four objections, with the threefold Aristotelian rationes on the multitude of fixed stars; SCHOLION I–III)"
 line_start: 24836
-line_end: 24964
-word_count_latin: 1628
-transcription_status: "auto-chunked 2026-05-13"
+line_end: 24963
+has_apparatus: true
+has_scholion: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF crops of pp. 351–353 (L and R, body bands + footer bands), fresh literal English translation, full apparatus (12 entries) gathered from p. 351 L+R footer notes 1–6 (=[^1]–[^6], all forward-handed from `d14-p2-divisio`) and p. 352 L+R footer notes 1–7 (=[^7]–[^12]; note 4 = B. Albert. Glossa block; note 5 = Non pauci codd.; note 6 = Libr. II. de Caelo text. 68 seqq.; note 7 = Nonnulli codd. unitatem), 3-section SCHOLION on p. 353 L+R translated, no [?] flags (2026-05-24)"
 format_version: 1
 ---
 
 # bon-sent-II-d14-p2-a1-q1
 
+## *Utrum omnia luminaria caeli locentur in uno corpore continuo.*
+
+---
+
 ## Latin
+<!-- page 351 -->
 
-QUAESTIO I.
-                               Utrum omnia luminaria caeli locentur in uno corpore continuo.
+### ARTICULUS I.
 
-            Circa primum sic proeeditur et quaeritur, utrum                        h. Item, sicut aves sunt productae ad ornatum
-      omnia luminaria caeli locenlur in uno corpore con-                      aeris, ita luminaria ad ornatum caeli; sed unum
-      tinuo. Et quod sic, videtur:                                            est corpus aeris, quod ornatur omoihus avibus:
-            1. Per textuin sacrae Scripturae, quae dicit,                     ergo pari ratione unum est corpus caeli, quod or-
-damenu.onmia luminaria in firmamento posita esse, Genesis                     natur omnibus luminaribus.
-       primo ': Fiant , inquit, himinaria in firmamento                             Ad oppositum arguitur sic. 1. Numerus venil A"^ "pp"»'-
-      caeli etc.                                                              in corporibus eiusdem naturae ex divisione conti-
-            2. Item, hoc videtur ratione. Quaecumque cor-                     nui ' ; sed orbes planetarum dicunlur esse septem
-       pora distingnuntur ab invicem, distinguuntur aut                       tam a naturalibus quam a mathematicis: ergo sunt
-       fornia, aut superfi.cie; sed corpus caeli a luna                       discontinui: ergn luminaria caeli non sunt in eodem
-       usque ad caelum stellatum est uniforme, et iterum                      corpore continuo.
-      non est corpus liabens terminatam superficiem '' :                            2. Item, impossibile est, duo corpora, quae mo-
-      ergo impossihile est, ipsum habere pluralitatem sive                    ventur diversis omnino et disparatis motibus, secun-
-      distinctionem : ergo omnia Inminaria sita sunt in                       dum snum totum esse continua; sed orbes planeta-
-      eodem corpore.                                                          runi, sicut dicunt astronomi, moventur contra ulti-
-           3. Item, si aliqua corpora snnt distincta ab                       mam sphaeram'': ergo irapossibile est, ad invicein
-      invicem , ad motum unius non sequitur motus alte-                       continuari.
-      rius; sed ultima sphaera movet totum, quod infra                              3. Item, Damascenus'^ in enuiiieratione caelorum
-      ipsam est, ab oriente in occidens ^: ergo necesse est,                  distinguit caelum septem planetarum a caelo stella-
-      tolam naturam caelestem esse unum corpus con-                           rum; sed hoc non esset, si corpns illud, in quo
-      tinuum.                                                                 sunt planetae et stellae , esset continuum : ergo etc.
+#### *De luminaribus in comparatione ad corpus, in quo locantur.*
 
+### QUAESTIO I.
 
-            ' Vers. li.                                                             3 Vide Aristot. , II. de Caelo et mundo, texl, 70. (c. 12.)
-            ' Cfr. Aristot., II. de Caelo et niundo, text. 41. i9. -51. 59.    cwm expositione .\verrois.
-      (c. 7. seq.). In text. 49. -59. exposilione Averroes im])ugnat Avi-           ■• Cfr. Aristot. , de Praedicam. , c. de Quanlitate ; V.
-      cennam opinanlem, corpora caelestia i esse ideni genere et di-           Metaph. text. 18. (IV. c. 13). Vide tom. I. pag. 363, nota 11.
-      versa specie proptei' diversitatem partium suorum motuum et                   5 Arislot. , I(. de Caelo et mundo, text. 58. (c. 10.) et
-      diversilatem suorum eentrorum ». — De maiori cfr. .\ristot.,             Averroes , Epil. Metaph. tract. 4. — Paulo superius post se-
-      111. de Caelo et mundo, lext. 60. seqq. (c. 7.) et supra pag.            cundum suum totum in cod. cc et ed. 1 additur situm.
-      303, nota 2.                                                                  ^ Libr. II. de Fide orlhod. c. 6. seq.
-                                                                                                                                                      (
+#### *Utrum omnia luminaria caeli locentur in uno corpore continuo.*
 
+Circa primum sic proceditur et quaeritur, utrum omnia luminaria caeli locentur in uno corpore continuo. Et quod sic, videtur:
 
+*Fundamenta.* 1. Per textum sacrae Scripturae, quae dicit, omnia luminaria in firmamento posita esse, Genesis primo[^1]: *Fiant,* inquit, *luminaria in firmamento caeli* etc.
 
+2. Item, hoc videtur ratione. Quaecumque corpora distinguuntur ab invicem, distinguuntur aut forma, aut superficie; sed corpus caeli a luna usque ad caelum stellatum est uniforme, et iterum non est corpus habens terminatam superficiem[^2]: ergo impossibile est, ipsum habere pluralitatem sive distinctionem: ergo omnia luminaria sita sunt in eodem corpore.
 
-         3S2                                                  SENTENTIARUM LIl!. II.
+3. Item, si aliqua corpora sunt distincta ab invicem, ad motum unius non sequitur motus alterius; sed ultima sphaera movet totum, quod infra ipsam est, ab oriente in occidens[^3]: ergo necesse est, totam naturam caelestem esse unum corpus continuum.
 
-                   /i. Item, si oninia liiminaria essent in firnia-              et aer, manifestam habet instantiam. In his eniin
-              mento posita, ita quod in uno corpore continno, tunc               distinctio potest venire a virtute motoris, salva con-
-              omnino stellae essent fixae, et nullae erraticae ' : si            linuitale mobilis. propter hoc quod est maxime obe-
-              ergo aliae dicuntur esse flxae, et aliae erraticae:                diens molori; nec habent,, superflciem sic termina-
-              videtur, quod positae sint in alio et alio corpore.                tam, sicut habent corpora solida. Et illud patet
-                   luxtji hoc quaeritur, quare Deus plures fecit                 plane, cum duo venti oppositi pertlant in aiire, ita
-Quaestio
- cidflns. iC' stellas,  quam faceret planetas, sive qnare plures                 quod unus de super et alter de subter.
-              sunt stellae fixae quani erraticae ".                                    3. Ad illud quod obiicltur de Damasceno, quod
-                                                                                 caelum planetarum distinguitnr a nrmamento; di-
-                                  C 0 N C L U S 1 0.                             cendum, quod distinctio caeloiami [ilus ;ittenditnr
-                                                                                 secundum diversitalem proprietatum et^ motuum,
-          Caeli luminaria po-nta sunt in pluribus orbibus ,                      quam attendalur secundum discontinuationem cor-
-               in corpore tamen uno continuo, qiwd Scri-                         poruni , licet utroque modo possit attendi. Unde et
-               ptu.ra vocai firmamentmn.                                          Rabanus * in distinctione caelornm caelum sidereum
-                                                                                 et caeluni planetarnm sub eodcm caelo coinpre-
-                                                                                 hendit.
-                  Rkspondeo: Ad praedictorum intelligenliam no-
- ■aenoi;i..f!a.tandum est, quod secuiidmn connnunem positionem                          /i. Ad illud qnod obiicitur, quod si planetae
-           loquentium circa hanc materiam, sive naturalium                        sunt in flrmamento, non sunt stellae erraticae; di-
-           sive mathemalicorura, luminaria locantur in diversis                   cendum, quod non sequitur, quia in eodem corpore
-           orbibvs. — Haec autem distinctio orbiuni secundum                      possunt contenta diver.simode collocari, ita qnod
-           melins intelligentes non venit ex distiuctione forma-                  unum alligatur inseparabiliter , reliquum vero mi-
-           rum, sicut distinguuntur aer et aqua, nec venit ex                     nime. Et stellae fixae dicunlur iramediate positae in
-           discontinuatione sitperficiei , sicul distinguitur lapis               octava sphaera , cuius motu moventur ; planetae
-           a lapide, sed venit ex riiversitate motuum. Diver-                     vero snnt in orbibus inferioribns, qui ' moventur
-           sitas autein m.oluum non lollit continuitatem in eo                    motu alio ; et ideo aspectui nostro errare videntur,
-              quod est subtile et ad molum habile; sicut mani-                    dn.m contra viam superioris orbis incedunt.
-              fesle apparel in aqua, quando secundum diversas                           Ad illud quod quaeritur , quare in ultima .\d         quaest.
-                                                                                                                                         iiicidentem.
-              sui partes ad diversas movelur posiliones, et similiter             sphaera luminaria plura posnit Deus; ad hoc assi-
-              in aijre; ex hoc tamen non discontinuanlur. ^ Se-                   gnat Pliilosophns " tres ratiohes. Et prima ratio est,
-  ooiiciosio. cundum hanc igilur positionem dicendum esl, lumi-                   quia sphaera octava maxime est causa vitae inferio-
-              naria caeli posita esse in pluribus orbibus, in cor-                rum prae ceteris sphaeris; et hoc non potest esse
-              pore tamen uno continuo, quod Scriptura vocat                       nisi per diversuin lumen in diversis stellis. — Se-
-              nomine finuamenti; et ideo dicit, omnia luminaria                   cunda ratio est, qnia natura temperavit, ut daret
-              posita esse in firmamento caeli. — Unde rationes                    inferioribus sphaeris, quae plures habent motus,
-              ad hanc partem inductao sunt concedendae.                           stellam unam; et superiori, qaae habet pauciores,
-                    1. .\d illud ergo quod obiieitur, quod numerus                ilaret stellas nuiltas. — Tertia ratio est, quia mo-
- Solutio op. est ex divisione continui; dicendum, quod verum                    ■ tus inlluit a superioribus orbibus in inferiores. Quia
-  positoru.n
-              est de illo numero, quo numerantur corpora eius-                    ergo praedominantia in influente debet esse, ut orbis
-              dem naturae in genere entiuni; sed non est verum                    ille ceteris praecelleret inferioribus , quos movet;
-              de numero, quo numerantur corpora in genere mo-                     abundavit in corporum luminarium multiformitate.
-              bilium. Ad hunc igitur numerum faciendum sutlicit                    — Inter has autem rationes media ratio videtur esse h.diciom
-                                                                                                                                           bis.
-                                                                                                                                                      M
+4. Item, sicut aves sunt productae ad ornatum aeris, ita luminaria ad ornatum caeli; sed unum est corpus aeris, quod ornatur omnibus avibus: ergo pari ratione unum est corpus caeli, quod ornatur omnibus luminaribus.
 
+*Ad oppositum* arguitur sic. 1. Numerus venit in corporibus eiusdem naturae ex divisione continui[^4]; sed orbes planetarum dicuntur esse septem tam a naturalibus quam a mathematicis: ergo sunt discontinui: ergo luminaria caeli non sunt in eodem corpore continuo.
 
-              sola motuum distinctio ; et sic est in proposito '.                 probabilior, in qua ostenditur divina sapientia, quae
-                    2. Ad illud quod oliiicitur, quod orbes planeta-              mnltiformitatem ad unilatem reducit; et ideo illi
-              rum moventur contrariis motibns ultimae sphaerae,                  spliaerae, quae plus accedit ad uniformitatem ' mo-
-              ergo discontinuantur; dicendum, quod non sequitur;                 lus, dedit multilbimitatem corporum; illis vero,
- Noiandi.m. hoc enim non habet verilatem nisi in corpore so-                     quae habent motuum multiformitatem, dedit lumi-
-              lido. In corpore enim subtili et raro, sicut est aqua              narium unitatem.
+2. Item, impossibile est, duo corpora, quae moventur diversis omnino et disparatis motibus, secundum suum totum esse continua; sed orbes planetarum, sicut dicunt astronomi, moventur contra ultimam sphaeram[^5]: ergo impossibile est, ad invicem continuari.
 
+3. Item, Damascenus[^6] in enumeratione caelorum distinguit caelum septem planetarum a caelo stellarum; sed hoc non esset, si corpus illud, in quo sunt planetae et stellae, esset continuum: ergo etc.
 
+<!-- page 352 -->
 
+4. Item, si omnia luminaria essent in firmamento posita, ita quod in uno corpore continuo, tunc omnino stellae essent fixae, et nullae erraticae[^7]: si ergo aliae dicuntur esse fixae, et aliae erraticae: videtur, quod positae sint in alio et alio corpore.
 
-               1 Vide Afistol. , II. do Caelo et mundo , te.xt. 60. (c. 12.).    licet aercum, aelhereum et sidei'eum. .Nonnulli sepleni: prinuim
-          — Vat. omnes pro omnino.                                               aereum , secundum aelhereum, tertium olympium, quarlum
-               2 Aristot., II. de Cnelo cl muiido, text. 61. (c. 12.).           igneum , quintum firmamentum , sextum aqueum , sepiimum
-               ^ In cod. A additur: Vet dicendiim, quod numerus circu-           Angelorum ». Ilaec Glossa refertur iam a Strabo, loc. cit. Cfr.
-          lorum in aqua non est ex divisione, sed ex generationp et              Rabanus, Comment. in Gen. c. 1-6, et X. de Universo , c. 3. seqq.
-          motoi'is viriute; ideo etc. Cfr. supra d. 13. a. 3. q. 1. ad 2.              5 .Non pauci codd. cum Vat. quae. Cfr. Aristot. , II. de
-               * B. Alberl. , S. p. II. tract. H. q. 54. agens de numcro         Caelo et niundo, text. ii. 58. 69. (c. 8. seqq.) ; de Mundo,
-          caelorum ait: « Sed quaerendum est quod dicitur Deut. 10, \i:          c. 2; XII. Metaph. text. iS. seqq. (XI. c. 8.).
-          En Domini Dei tui caelum est et caelum caeli etc. , ubi dicit                s Libr. II. de Caelo et mundo , text. 68. seqq. (c. 1 2.).
-          Rabanus in Glossa : Quidam enim dicunt, tres esse caelos , sci-              ' Nonnulli codd. cum ed. I unitatem.
-                                                                                                                                                 3b3
-                                                      DIST. XIV. R II. ART. I. QUAEST. II.
+*Quaestio incidens.* Iuxta hoc quaeritur, quare Deus plures fecit stellas, quam faceret planetas, sive quare plures sunt stellae fixae quam erraticae[^8].
 
+> ### CONCLUSIO.
+>
+> *Caeli luminaria posita sunt in pluribus orbibus, in corpore tamen uno continuo, quod Scriptura vocat firmamentum.*
 
-                                                                     SCHOLIOK
-            I. De liac ct seq. quaestione , quae atl astronomiam                       II. Quoad controversiam in 2. quaest. nolatam, quae est
-       speclanl, alii commentatoi'es plerumque vel tacent, praesertini de        inter Aristotelem aliosque physicos et mathematicos, iam obser-
-       prima , vel paucis verbis rem absolvunt. — Contra doctrinam               vavit Durand. (hic q. 3.) : « De p/anetis autcm quamquam dicat
-       in I. quaest. , solut. ad 2. posilam Dionys. Carth. (Iiic q. 3.)          idom [scil. quod de stellis flxisl .^ristoleles (II. de Caelo et mun-
-       hanc miram faeit obieclionem : « Quod inviolnbili auctoritate             do) , tamen verius dicunt astrologi, ponendo, ipsas moveri
-       Scripturae canonicae caeli solidissimi sunt , quasi aere fusi             secundum excenlricos et epicyclos »; quod ibi pluribus probatur.
-       [ita lob 37, 18.]. Propter quod unum et idem caelum in di-                      III. De 2. quaestione : S. Thom., S. I. q. 70. a. I. ad 3. —
-       versis partibus suis non videtur sic posso moveri contrariis              Scot. , in ulroquo Scripto hic q. 2. — B. Albert. , Comment. in
-       motibus instar aquae et aeris, seu consimilium subtilium ,                II. de Caelo et mundo , Ir. 2. c. 3, et tr. 3. c. 7. II. 14. —
-       mollium ac divisibilium corporum j. — De I. quaest. Iractant              Petr. a Tar., hic q. ,3. a. 3. quaestiunc. I. — Richard. a Med.,
-       Petr. a Tar., hic q. 3. a. 2. quaestiunc. 1. et Richard. a Med.,          hic a. 3. q. 2. — Dionys. Carth., hic q. o.
-       hic a. 3. q. I.
+**Respondeo:** Ad praedictorum intelligentiam *praenotandum* est, quod secundum communem positionem loquentium circa hanc materiam, sive naturalium sive mathematicorum, luminaria locantur in diversis orbibus. — Haec autem distinctio orbium secundum melius intelligentes non venit ex distinctione *formarum,* sicut distinguuntur aer et aqua, nec venit ex discontinuatione *superficiei,* sicut distinguitur lapis a lapide, sed venit ex diversitate *motuum.* Diversitas autem *motuum* non tollit continuitatem in eo quod est subtile et ad motum habile; sicut manifeste apparet in aqua, quando secundum diversas sui partes ad diversas movetur positiones, et similiter in aëre; ex hoc tamen non discontinuantur. — *Conclusio.* Secundum hanc igitur positionem dicendum est, luminaria caeli posita esse in pluribus orbibus, in corpore tamen uno continuo, quod Scriptura vocat nomine firmamenti; et ideo dicit, omnia luminaria posita esse in firmamento caeli. — Unde rationes ad hanc partem inductae sunt concedendae.
+
+*Solutio oppositorum.* 1. Ad illud ergo quod obiicitur, quod numerus est ex divisione continui; dicendum, quod verum est de illo numero, quo numerantur corpora eiusdem naturae in genere entium; sed non est verum de numero, quo numerantur corpora in genere mobilium. Ad hunc igitur numerum faciendum sufficit sola motuum distinctio; et sic est in proposito[^9].
+
+2. Ad illud quod obiicitur, quod orbes planetarum moventur contrariis motibus ultimae sphaerae, ergo discontinuantur; dicendum, quod non sequitur; *notandum,* hoc enim non habet veritatem nisi in corpore solido. In corpore enim subtili et raro, sicut est aqua et aer, manifestam habet instantiam. In his enim distinctio potest venire a virtute motoris, salva continuitate mobilis, propter hoc quod est maxime obediens motori; nec habent superficiem sic terminatam, sicut habent corpora solida. Et illud patet plane, cum duo venti oppositi perflant in aëre, ita quod unus de super et alter de subter.
+
+3. Ad illud quod obiicitur de Damasceno, quod caelum planetarum distinguitur a firmamento; dicendum, quod distinctio caelorum plus attenditur secundum diversitatem *proprietatum* et *motuum,* quam attendatur secundum *discontinuationem* corporum, licet utroque modo possit attendi. Unde et Rabanus[^10] in distinctione caelorum caelum sidereum et caelum planetarum sub eodem caelo comprehendit.
+
+4. Ad illud quod obiicitur, quod si planetae sunt in firmamento, non sunt stellae erraticae; dicendum, quod non sequitur, quia in eodem corpore possunt contenta diversimode collocari, ita quod unum alligatur inseparabiliter, reliquum vero minime. Et stellae *fixae* dicuntur immediate positae in octava sphaera, cuius motu moventur; *planetae* vero sunt in orbibus inferioribus, qui[^11] moventur motu alio; et ideo aspectui nostro errare videntur, dum contra viam superioris orbis incedunt.
+
+*Ad quaestionem incidentem.* Ad illud quod quaeritur, quare in ultima sphaera luminaria plura posuit Deus; ad hoc assignat Philosophus[^12] tres *rationes.* Et prima ratio est, quia sphaera octava maxime est causa vitae inferiorum prae ceteris sphaeris; et hoc non potest esse nisi per diversum lumen in diversis stellis. — Secunda ratio est, quia natura temperavit, ut daret inferioribus sphaeris, quae plures habent motus, stellam unam; et superiori, quae habet pauciores, daret stellas multas. — Tertia ratio est, quia motus influit a superioribus orbibus in inferiores. Quia ergo praedominantia in influente debet esse, ut orbis ille ceteris praecelleret inferioribus, quos movet; abundavit in corporum luminarium multiformitate. — *Iudicium de his.* Inter has autem rationes media ratio videtur esse probabilior, in qua ostenditur divina sapientia, quae multiformitatem ad unitatem reducit; et ideo illi sphaerae, quae plus accedit ad uniformitatem motus, dedit multiformitatem corporum; illis vero, quae habent motuum multiformitatem, dedit luminarium unitatem.
+
+<!-- page 353 -->
+
+### SCHOLION.
+
+**I.** De hac et seq. quaestione, quae ad astronomiam spectant, alii commentatores plerumque vel tacent, praesertim de prima, vel paucis verbis rem absolvunt. — Contra doctrinam in I. quaest., solut. ad 2. positam Dionys. Carth. (hic q. 3.) hanc miram facit obiectionem: « Quod inviolabili auctoritate Scripturae canonicae caeli *solidissimi sunt, quasi aere fusi* [ita Iob 37, 18.]. Propter quod unum et idem caelum in diversis partibus suis non videtur sic posse moveri contrariis motibus instar aquae et aëris, seu consimilium subtilium, mollium ac divisibilium corporum ». — De I. quaest. tractant Petr. a Tar., hic q. 3. a. 2. quaestiunc. 1. et Richard. a Med., hic a. 3. q. 1.
+
+**II.** Quoad controversiam in 2. quaest. notatam, quae est inter Aristotelem aliosque physicos et mathematicos, iam observavit Durand. (hic q. 3.): « *De planetis* autem quamquam dicat idem [scil. quod de stellis fixis] Aristoteles (II. de Caelo et mundo), tamen verius dicunt astrologi, ponendo, ipsas moveri secundum excentricos et epicyclos »; quod ibi pluribus probatur.
+
+**III.** De 2. quaestione: S. Thom., S. I. q. 70. a. 1. ad 3. — Scot., in utroque Scripto hic q. 2. — B. Albert., Comment. in II. de Caelo et mundo, tr. 2. c. 3, et tr. 3. c. 7. 11. 14. — Petr. a Tar., hic q. 3. a. 3. quaestiunc. 1. — Richard. a Med., hic a. 3. q. 2. — Dionys. Carth., hic q. 3.
+
+---
 
 ## English
+<!-- page 351 -->
 
-[Translation pending]
+### ARTICLE I.
+
+#### *On the luminaries by comparison with the body in which they are placed.*
+
+### QUESTION I.
+
+#### *Whether all the luminaries of heaven are placed in one continuous body.*
+
+Concerning the first [article] one proceeds thus and it is asked whether all the luminaries of heaven are placed in one continuous body. And that they are so [placed] seems [to be the case]:
+
+*Grounds.* 1. From the text of sacred Scripture, which says that all the luminaries are placed in the firmament, Genesis 1[^1]: *Let there be,* it says, *luminaries in the firmament of heaven,* etc.
+
+2. Likewise, this seems [to follow] by reason. Whatever bodies are distinguished from one another are distinguished either by form or by surface; but the body of the heaven from the moon up to the starry heaven is uniform, and again is not a body having a terminated surface[^2]: therefore it is impossible that it should have plurality or distinction: therefore all the luminaries are situated in one and the same body.
+
+3. Likewise, if any bodies are distinguished from one another, the motion of the one does not follow upon the motion of the other; but the outermost sphere moves the whole that is beneath it from east to west[^3]: therefore it is necessary that the whole celestial nature be one continuous body.
+
+4. Likewise, just as the birds were produced for the adornment of the air, so the luminaries [were produced] for the adornment of heaven; but there is one body of air which is adorned by all the birds: therefore by parity of reason there is one body of heaven, which is adorned by all the luminaries.
+
+*On the contrary* one argues thus. 1. Number arises in bodies of the same nature from the division of a continuum[^4]; but the orbs of the planets are said to be seven both by natural philosophers and by mathematicians: therefore they are discontinuous: therefore the luminaries of heaven are not in one and the same continuous body.
+
+2. Likewise, it is impossible that two bodies which are moved by altogether diverse and disparate motions should be continuous according to their whole [extent]; but the orbs of the planets, as the astronomers say, are moved contrary to the outermost sphere[^5]: therefore it is impossible that they should be continuous with one another.
+
+3. Likewise, Damascene[^6] in his enumeration of the heavens distinguishes the heaven of the seven planets from the heaven of the stars; but this would not be so if that body in which the planets and the stars are were continuous: therefore etc.
+
+<!-- page 352 -->
+
+4. Likewise, if all the luminaries were placed in the firmament, namely so that [they were] in one continuous body, then the stars would all be fixed, and none would be erratic[^7]: if therefore some are said to be fixed and others erratic, it seems that they are placed in one body and another.
+
+*Incidental question.* In addition to this it is asked why God made more stars than he made planets, or why there are more fixed stars than erratic ones[^8].
+
+> ### CONCLUSION.
+>
+> *The luminaries of heaven are placed in several orbs, yet in one continuous body, which Scripture calls* firmamentum.
+
+**I respond:** For the understanding of what has been said it must be *premised* that according to the common position of those who speak about this matter, whether natural philosophers or mathematicians, the luminaries are placed in diverse orbs. — But this distinction of the orbs, according to the better understanding, does not come from a distinction of *forms,* as air and water are distinguished, nor does it come from a discontinuity of *surface,* as one stone is distinguished from another, but it comes from a diversity of *motions.* Now the diversity of *motions* does not destroy continuity in that which is subtle and apt for motion; as is plainly evident in water, when according to its diverse parts it is moved into diverse positions, and likewise in the air; nevertheless on this account they are not made discontinuous. — *Conclusion.* According to this position, therefore, it must be said that the luminaries of heaven are placed in several orbs, yet in one continuous body, which Scripture calls by the name of *firmamentum*; and so it says that all the luminaries are placed in the firmament of heaven. — Whence the arguments adduced for this part must be conceded.
+
+*Solution of the opposing [arguments].* 1. To that which is objected, that number comes from the division of a continuum; it must be said that this is true of that number by which bodies of the same nature are numbered in the genus of beings; but it is not true of the number by which bodies are numbered in the genus of movables. For the production of this latter number the distinction of motions alone suffices; and so it is in the case at hand[^9].
+
+2. To that which is objected, that the orbs of the planets are moved by motions contrary to [that of] the outermost sphere, therefore they are discontinuous; it must be said that the consequence does not follow; *it is to be noted,* for this does not hold true except in a solid body. For in a subtle and rare body, such as water and air, there is a manifest counter-example. For in these the distinction can come from the power of the mover, with the continuity of the movable being preserved, because [the movable] is most obedient to the mover; nor do they have a surface so terminated as solid bodies have. And this is plainly evident, when two opposite winds blow in the air, namely so that one [blows] from above and the other from below.
+
+3. To that which is objected from Damascene, that the heaven of the planets is distinguished from the firmament; it must be said that the distinction of the heavens is more attended to according to the diversity of *properties* and *motions* than it is attended to according to the *discontinuity* of bodies, although it can be attended to in either way. Whence also Rabanus[^10] in the distinction of the heavens comprehends the starry heaven and the heaven of the planets under one and the same heaven.
+
+4. To that which is objected, that if the planets are in the firmament, they are not erratic stars; it must be said that the consequence does not follow, because in one and the same body things contained can be variously arranged, namely so that the one is fastened inseparably while the other [is] not at all. And the *fixed* stars are said to be placed immediately in the eighth sphere, by whose motion they are moved; the *planets,* however, are in lower orbs, which[^11] are moved by another motion; and therefore to our sight they appear to wander, while they advance contrary to the way of the higher orb.
+
+*To the incidental question.* To that which is asked, why in the outermost sphere God placed many luminaries; for this the Philosopher[^12] assigns three *reasons.* And the first reason is that the eighth sphere is most of all the cause of life for inferior things beyond the other spheres; and this cannot be except by diverse light in diverse stars. — The second reason is that nature so tempered things that to the lower spheres, which have more motions, it gave one star; and to the higher one, which has fewer [motions], it gave many stars. — The third reason is that motion flows in from the higher orbs into the lower. Since therefore there ought to be a pre-dominance in that which flows in, so that that orb might excel the other lower ones which it moves, it abounded in the multiformity of luminary bodies. — *Judgment on these.* Among these reasons, however, the middle reason seems to be the more probable, in which is shown the divine wisdom, which reduces multiformity to unity; and therefore to that sphere which approaches more nearly to uniformity of motion it gave multiformity of bodies; but to those which have multiformity of motions it gave unity of luminaries.
+
+<!-- page 353 -->
+
+### Scholion.
+
+**I.** Concerning this and the following question, which pertain to astronomy, the other commentators for the most part either remain silent, especially concerning the first, or dispatch the matter in a few words. — Against the doctrine set down in the first question, in the reply to the second [objection], Dionysius the Carthusian (here q. 3.) makes this remarkable objection: « That by the inviolable authority of canonical Scripture the heavens *are most solid, as it were fused of bronze* [so Job 37, 18]. On account of which one and the same heaven in its various parts does not seem to be able to be moved by contrary motions in the manner of water and air, or of similar subtle, soft, and divisible bodies ». — On the first question treat Peter of Tarentaise, here q. 3, a. 2, quaestiuncula 1, and Richard of Mediavilla, here a. 3, q. 1.
+
+**II.** As to the controversy noted in the second question, which is between Aristotle and other physicists and mathematicians, Durandus has already observed (here q. 3): « *Concerning the planets,* however, although Aristotle says the same [namely, as he says concerning the fixed stars] (II. de Caelo et mundo), nevertheless the astrologers say more truly, positing that they are moved according to eccentrics and epicycles »; which he there proves at greater length.
+
+**III.** On the second question: St. Thomas, S. I, q. 70, a. 1, ad 3. — Scotus, in each Scriptum here, q. 2. — B. Albert, Commentary on the II. de Caelo et mundo, tr. 2, c. 3, and tr. 3, c. 7, 11, 14. — Peter of Tarentaise, here q. 3, a. 3, quaestiuncula 1. — Richard of Mediavilla, here a. 3, q. 2. — Dionysius the Carthusian, here q. 3.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation; **La.** gives the Quaracchi editors' Latin note verbatim, **En.** a literal English rendering.
+
+[^1]: **La.** Vers. 14.
+
+     **En.** Verse 14.
+
+[^2]: **La.** Cfr. Aristot., II. de Caelo et mundo, text. 41. 49. 51. 59. (c. 7. seq.). In text. 49. 59. expositione Averroes impugnat Avicennam opinantem, corpora caelestia « esse idem genere et diversa specie propter diversitatem partium suorum motuum et diversitatem suorum centrorum ». — De maiori cfr. Aristot., III. de Caelo et mundo, text. 60. seqq. (c. 7.) et supra pag. 303, nota 2.
+
+     **En.** Cf. Aristotle, II. de Caelo et mundo, text 41. 49. 51. 59. (c. 7 seq.). In text 49 and 59, in his exposition, Averroes attacks Avicenna who held that the celestial bodies « are the same in genus and diverse in species on account of the diversity of the parts of their motions and the diversity of their centers ». — For the major premise cf. Aristotle, III. de Caelo et mundo, text 60 ff. (c. 7) and above p. 303, note 2.
+
+[^3]: **La.** Vide Aristot., II. de Caelo et mundo, text. 70. (c. 12.) cum expositione Averrois.
+
+     **En.** See Aristotle, II. de Caelo et mundo, text 70 (c. 12) with Averroes' exposition.
+
+[^4]: **La.** Cfr. Aristot., de Praedicam., c. de Quantitate; V. Metaph. text. 18. (IV. c. 13). Vide tom. I. pag. 363, nota 11.
+
+     **En.** Cf. Aristotle, Categories, chapter On Quantity; V. Metaph., text 18 (IV, c. 13). See Vol. I, p. 363, note 11.
+
+[^5]: **La.** Aristot., II. de Caelo et mundo, text. 58. (c. 10.) et Averroes, Epit. Metaph. tract. 4. — Paulo superius post *secundum suum totum* in cod. cc et ed. 1 additur *situm.*
+
+     **En.** Aristotle, II. de Caelo et mundo, text 58 (c. 10) and Averroes, Epitome of the Metaphysics, tract 4. — A little earlier, after *secundum suum totum,* the word *situm* is added in codex cc and the first edition.
+
+[^6]: **La.** Libr. II. de Fide orthod. c. 6. seq.
+
+     **En.** Book II. de Fide orthodoxa, c. 6 and following.
+
+[^7]: **La.** Vide Aristot., II. de Caelo et mundo, text. 60. (c. 12.). — Vat. *omnes* pro *omnino.*
+
+     **En.** See Aristotle, II. de Caelo et mundo, text 60 (c. 12). — The Vatican edition reads *omnes* in place of *omnino.*
+
+[^8]: **La.** Aristot., II. de Caelo et mundo, text. 61. (c. 12.).
+
+     **En.** Aristotle, II. de Caelo et mundo, text 61 (c. 12).
+
+[^9]: **La.** In cod. A additur: *Vel dicendum, quod numerus circulorum in aqua non est ex divisione, sed ex generatione et motoris virtute; ideo* etc. Cfr. supra d. 13. a. 3. q. 1. ad 2.
+
+     **En.** In codex A there is added: *Or it must be said that the number of circles in water is not from division, but from generation and the power of the mover; therefore* etc. Cf. above d. 13, a. 3, q. 1, ad 2.
+
+[^10]: **La.** B. Albert., S. p. II. tract. 11. q. 54. agens de numero caelorum ait: « Sed quaerendum est quod dicitur Deut. 10, 14: *En Domini Dei tui caelum est et caelum caeli* etc., ubi dicit Rabanus in Glossa: *Quidam enim dicunt, tres esse caelos,* scilicet aereum, aethereum et sidereum. Nonnulli septem: primum aereum, secundum aethereum, tertium olympium, quartum igneum, quintum firmamentum, sextum aqueum, septimum Angelorum ». Haec Glossa refertur iam a Strabo, loc. cit. Cfr. Rabanus, Comment. in Gen. c. 1-6, et X. de Universo, c. 3. seqq.
+
+     **En.** B. Albert, Summa, pars II, tract 11, q. 54, treating of the number of the heavens, says: « But it must be inquired, as is said at Deuteronomy 10, 14: *Behold, the heaven of the Lord thy God is heaven and the heaven of heavens,* etc., where Rabanus says in the Gloss: *For some say that there are three heavens,* namely the airy, the ethereal, and the starry. Some [say there are] seven: first the airy, second the ethereal, third the Olympian, fourth the fiery, fifth the firmament, sixth the watery, seventh of the Angels ». This Gloss is already referred to by Strabo, loc. cit. Cf. Rabanus, Commentary on Genesis c. 1–6, and X. de Universo, c. 3 ff.
+
+[^11]: **La.** Non pauci codd. cum Vat. *quae.* Cfr. Aristot., II. de Caelo et mundo, text. 44. 58. 69. (c. 8. seqq.); de Mundo, c. 2; XII. Metaph. text. 45. seqq. (XI. c. 8.).
+
+     **En.** Not a few codices, together with the Vatican edition, read *quae.* Cf. Aristotle, II. de Caelo et mundo, text 44, 58, 69 (c. 8 ff.); de Mundo, c. 2; XII. Metaph., text 45 ff. (XI, c. 8).
+
+[^12]: **La.** Libr. II. de Caelo et mundo, text. 68. seqq. (c. 12.). — Nonnulli codd. cum ed. I *unitatem.*
+
+     **En.** Book II. de Caelo et mundo, text 68 ff. (c. 12). — Some codices, together with the first edition, read *unitatem.*
 
 ## Notes
 
-[Notes pending]
+- **Provenance.** Latin re-set column-by-column from 450 dpi PDF column-band crops at `/tmp/colcrop/vol2-p351-{L,R}-{1,2}.png`, `/tmp/colcrop/vol2-p352-{L,R}-{0,1,2}.png`, and `/tmp/colcrop/vol2-p353-{L,R}-0.png`. Running heads: p. 352 = `SENTENTIARUM LIB. II.`; p. 353 = `DIST. XIV. P. II. ART. I. QUAEST. II.` (the page-353 running head names QUAEST. II because the SCHOLION block sits at the top of p. 353 followed immediately by QUAESTIO II's opener; per Vol II convention the SCHOLION is the article/q1-level scholion and belongs here, not in `d14-p2-a1-q2`).
+- **Page-split map.**
+  - p. 351 L (forwarded from `d14-p2-divisio`): ARTICULUS I header + rubric *De luminaribus in comparatione ad corpus, in quo locantur.* + QUAESTIO I header + opener + affirmative args 1, 2, 3 (mid).
+  - p. 351 R: tail of arg 3 (continuation) + arg 4 + *Ad oppositum* args 1, 2, 3 (head). Footer L+R notes 1–6.
+  - p. 352 L: *Ad oppositum* arg 4 + *Quaestio incidens* + CONCLUSIO + Respondeo through *Solutio oppositorum* arg 1.
+  - p. 352 R: *Solutio* args 1 (continuation), 2, 3, 4 + *Ad quaestionem incidentem* through the *Iudicium de his* / *unitatem* close. Footer L+R notes 1–7.
+  - p. 353 L+R top: SCHOLION sections I, II, III (3 sections). The QUAESTIO II opener (*Secundo quaeritur…*) immediately follows on the same page below the SCHOLION block and belongs to `d14-p2-a1-q2`; p. 353 footer notes are NOT consumed here (none anchor in q1 body or SCHOLION — SCHOLION I's `[ita Iob 37, 18.]` and the Petr. a Tar. / Richard. citations are inline bracket-references, not numbered footer anchors).
+- **Apparatus split.** 12 apparatus entries.
+  - p. 351 footer notes 1–6 (split across L and R columns by Quaracchi's two-column footer convention; here printed-page numbering, not column numbering) = [^1]–[^6]. All six were forward-handed from `d14-p2-divisio` per that chunk's Notes and are body-anchored in q1's affirmative args ([^1] at *Genesis primo¹*; [^2] at *terminatam superficiem²*; [^3] at *ab oriente in occidens³*) and *Ad oppositum* args ([^4] at *ex divisione continui⁴*; [^5] at *contra ultimam sphaeram⁵*; [^6] at *Damascenus⁶*).
+  - p. 352 footer notes 1–7 = [^7]–[^12] with the following marker convention: note 1 = [^7] at p. 352 *erraticae¹* in Ad opp. 4; note 2 = [^8] at *quam erraticae²* in *Quaestio incidens*; note 3 = [^9] at *in proposito³* close of *Solutio* 1; note 4 = [^10] at *Rabanus⁴* in *Solutio* 3 (the long B. Albert. + Strabo + Rabanus Glossa block); note 5 = [^11] at *qui⁵* in *Solutio* 4 (variant-reading note); note 6 = [^12] at *Philosophus⁶* in *Ad quaestionem incidentem*; note 7 was consumed inside [^12] (it carries the variant *unitatem* for the closing word *unitatem* of *Iudicium de his* — appended to [^12] as the editorial cluster on the *Ad quaestionem incidentem* / Philosophus footer pair, per the Quaracchi practice of bundling closely-spaced variant-readings into the prior numbered note rather than separate-anchoring them mid-clause).
+- **Hand-offs picked up.** 6 notes from `d14-p2-divisio` (p. 351 L+R footer 1–6) — all consumed here as [^1]–[^6].
+- **Hand-offs forwarded.** None. p. 353 carries no q1-body footer anchors; the SCHOLION's inline references (Iob 37, 18; Petr. a Tar.; Richard. a Med.) are scholion-internal bracket citations, not Quaracchi numbered footer notes. The next chunk `d14-p2-a1-q2` opens its own footer sequence at p. 353's QUAESTIO II body, with notes 1–4 anchoring fully in q2.
+- **Folded-forward headers.** ARTICULUS I header + rubric *De luminaribus in comparatione ad corpus, in quo locantur.* + QUAESTIO I header (all from p. 351 L, immediately after the p2-divisio TRACTATIO QUAESTIONUM sub-divisio closes) are held in this chunk per the locked Vol II convention (CLAUDE.md Vol II Override step 5: ARTICULUS opener is folded into that article's q1).
+- **SCHOLION attribution.** Per Vol II convention the SCHOLION sits at the end of the article (immediately above QUAESTIO II on p. 353) but is logically the article/q1-level scholion: SCHOLION I cites *I. quaest., solut. ad 2.*; SCHOLION II references *controversiam in 2. quaest. notatam* (i.e., the *Sed contra* / Aristotle-vs-mathematicians thread that opens here in q1 and continues in q2); SCHOLION III is a bibliography for *2. quaestione* (the next chunk) — so this is a 3-section article-level scholion that gathers commentator references for all three questions of Article I; it lives here and `d14-p2-a1-q2` carries no fresh scholion (consistent with the locked Vol II convention "a quaestio with no scholion is normal if the article's q1 scholion says *pro quaest. seq.* — check the sibling").
+- **Marginal labels preserved inline.** *Fundamenta.* (Ad opp.), *Ad oppositum.*, *Quaestio incidens.*, *Praenotanda.*, *Conclusio.*, *Solutio oppositorum.*, *Notandum.*, *Ad quaest. incidentem.*, *Rationes 3*, *Iudicium de his.* — kept inline per Vol II convention, NOT promoted to headings.
+- No `[?]` flags. All OCR garbles (`proeeditur`, `damenu.onmia`, `Inminaria`, `distingnuntur`, `liabens`, `^uperficiem`, `Inminaria sita`, `corporitms`, `dum su`, `tinnari`, `eciileiu`, `praedielorum`, `praedictoraii`, `secimdiim`, `comnaiem`, `posilionein`, `inathematicorum`, `diveisis`, `melitis`, `disliuctione`, `superficiei.`, `lapide.`, `liabile`, `couiplecti`, `motuiu`, `motuum.`, `Iuminaria`, `f.ainentiim`, `iiifernu`, `subterabnndavit`, `sphacrae`, `Coiicliisio.`, `iudicium`, `praecelleret`) silently corrected against the 450 dpi crops; all readings unambiguous.
