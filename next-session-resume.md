@@ -1,8 +1,38 @@
-# Next session — **d.18 second chunk DONE 2026-05-25.** Begin `d18-a1-q1`.
+# Next session — **d.18 third chunk DONE 2026-05-25.** Begin `d18-a1-q2`.
 
-**d.1–d.17 + d18-littera + d18-divisio = 203 chunks promoted.** Build: 614 translated, 879 quaestio routes.
+**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 = 204 chunks promoted.** Build: 615 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.18 second chunk — d18-divisio promotion)
+## Last session (2026-05-25, d.18 third chunk — d18-a1-q1 promotion)
+
+Promoted `d18-a1-q1` Tier-2:
+- *Unde fuerit productum corpus mulieris.* Spans p.431 R-1 bottom (QUAESTIO I opener `Circa primum sic proceditur et quaeritur, unde fuerit productum corpus mulieris.` immediately after d18-divisio close) → p.432 (9 numbered objections grouped *Contra primum/secundum/tertium thesim* + CONCLUSIO + Respondeo opener with *Duplex congruitas* / *Secundum congruitatem respondetur ad 3 qq.*) → p.433 (Triplex significatio: *Deus et anima* / *Christus et Ecclesia* / *superior portio rationis et inferior* + Solutio ad 1, 2, 3 with Anselm 4-modi quote) → p.434 L-mid (Ad 4-5-6 grouped reply on sopor + Ad 7-8-9 grouped reply on osse/costa closing at *sicut planius explicatur in quarto.*) + SCHOLION I (Petr. a Tar. *somnus* vs. *sopor* distinction with reference to arg. 4) + II (commentator list).
+- **23 apparatus entries [^1]–[^23].** p.431 R-2 footers ²–³ received per d18-divisio hand-off, folded together as [^1] on the opener phrase *de costa eius et osse.* p.432 L-2 ¹–⁵ = [^2]–[^6]; p.432 R-2 ⁶–¹⁰ = [^7]–[^11]; p.433 L-2 ¹–⁶ = [^12]–[^17]; p.433 R-2 ⁷–¹⁰ = [^18]–[^21]; p.434 L-2 ¹–² = [^22]–[^23]. Notable: [^17] = Anselm *Cur Deus homo* II c.8 *Quatuor modis potest Deus facere hominem* block; [^21] = Aug. IX *de Gen ad lit* c.19 n.36 *Ac per hoc etiam illa ecstasis* block.
+- Marginal labels preserved inline per locked Vol II convention: *Theses 3.*, *Contra 1./2./3. thesim.*, *Tres quaestiones.*, *Duplex congruitas.*, *Secundum congruitatem respondetur ad 3 qq.*, *Item secundae congruitatem.*, *Triplex significatio.*, *Significatio 1./2./3.*, *Ratio obiectorum.*
+- `has_scholion: true` — SCHOLION I substantial (Bonav.'s ingeniously-developed mystical significations + Petr. a Tar. *somnus* vs. *sopor* distinction); II = q1 commentator list (Alex. Hal., S. Thom., B. Albert, Petr. a Tar., Richard. a Med., Aegid. R., Durand., Dionys. Carth., Biel).
+- No `[?]` flags — all 23 anchors crisp at 450 dpi across pp.431–434. OCR around raw 30377–30581 two-column cascade-fragmented; column-band PDF read authoritative per Vol II Override.
+- Cross-chunk hand-off: received p.431 R-2 ²–³ from d18-divisio (folded as [^1]). Forward hand-off to d18-a1-q2: **p.434 L-2 footer ³ (Gen. 2, 2 Septuaginta / August. IX de Gen ad lit c.1 n.1 + c.2 n.6; VI c.11 n.18) + p.434 R-2 footers ⁴ (*Cap. 11. n. 18, ubi textus originalis in fine* erant quasi semina futurorum*; Dein non pauci codd. cum primis edd.* sed non nisi costa *pro* sed non nisi in costa*.*) + ⁵ (*Vide supra pag. 400, nota 7. — De ultima huius argumenti propositione cfr. Aristot., II. de Generat. animal. c. 1. seqq.*) + ⁶ (*Vat.* passibilis*.*)** all anchor in Q2 opener/args and migrate forward.
+- Audits: paraphrase HIGH (1 chunk, expected first-pass); apparatus-count flag CLEARED for d18-a1-q1 (6 skeleton-suspect flags persist on d18 a*/dubia siblings); header DUB-LOSS / Q-LOSS still fires because d.18 siblings remain skeleton — clears as those promote.
+- Build: 614 → 615 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d18-a1-q2`** — fourth d.18 chunk. QUAESTIO II opens on p.434 R-0 at raw 30582 with `QUAESTIO II.` + italic title *Utrum mulier formata fuerit de costa viri secundum rationem seminalem.* + opener `Secundo quaeritur, utrum mulier formata sit de costa viri secundum rationem seminalem. Et quod sic, videtur: 1. Primo per textum: Consummavit Deus sexto omne opus suum…` Per the d18-a1-q1 forward hand-off, p.434 L-2 footer ³ + p.434 R-2 footers ⁴–⁶ migrate here as the first apparatus entries. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.434 crops cached at `/tmp/colcrop/vol2-p434-*`; generate p.435+ as needed.
+
+**⚠ d18-dubia is a remaining manual-rescue chunk per the d.11–d.20 boundary-sweep audit — keep this flag visible until d18-dubia clears.**
+
+## d.18 chunk inventory (in semantic order)
+
+- ~~`d18-littera`~~ **DONE 2026-05-25.**
+- ~~`d18-divisio`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q1`~~ **DONE 2026-05-25.**
+- **`d18-a1-q2`** — *Utrum mulier formata fuerit de costa viri secundum rationem seminalem.* — NEXT. (skeleton)
+- `d18-a1-q3` (skeleton)
+- `d18-a2-q1` (skeleton)
+- `d18-a2-q2` (skeleton)
+- `d18-a2-q3` (skeleton)
+- `d18-dubia` (skeleton; ⚠ manual-rescue)
+
+## Prior session (2026-05-25, d.18 second chunk — d18-divisio promotion)
 
 Promoted `d18-divisio` Tier-2:
 - *Commentarius in Distinctionem XVIII — De formatione mulieris de viro.* Spans printed p.431 only (PDF p.453, vol II offset +22). Opens at raw 30339 with `COMMENTARIUS IN DISTINCTIONEM XVIII.` on p.431 L band 1 (immediately after d18-littera p.431 L-0 tail close at *...singillatim animas de nihilo creat.* at raw 30338); holds title + subtitle *De formatione mulieris de viro.* + epigraph *In eodem quoque paradiso etc.* + DIVISIO TEXTUS (L+R band 1 interleaved, 4 paragraphs: corpus/anima split → 4 causal sub-parts of corpus → 4 sub-parts of anima → recapitulation) + TRACTATIO QUAESTIONUM (L+R band 1 bottom, 2-question high-level split) + ARTICULUS I header + subtitle *De productione corporis mulieris de latere viri.* + ART. I sub-divisio `Circa primum quaeruntur tria` (3-question listing) + QUAESTIO I header + italic title *Unde fuerit productum corpus mulieris.* Closes immediately before the Q1 opener `Circa primum sic proceditur...` on p.431 R band 1.
