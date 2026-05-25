@@ -1,84 +1,84 @@
-# Next session — **d.14 COMPLETE.** Begin `d15-littera`.
+# Next session — **d.15-littera DONE.** Begin `d15-divisio`.
 
-**d.1–d.14 COMPLETE = 174 chunks.** Build: 585 translated, 878 quaestio routes.
-Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
-"deploy after each decade ships" rule, the next live ship is at
-end-of-d.20.
+**d.1–d.14 + d.15-littera = 175 chunks promoted.** Build: 586 translated,
+878 quaestio routes. Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com
+since 2026-05-23; per "deploy after each decade ships" rule, the next
+live ship is at end-of-d.20.
 
 ## Last session (2026-05-25)
 
-Promoted `d14-p2-dubia` Tier-2 (closes d.14):
-- *Dubia circa litteram Magistri (Pars II)*, pp. 365 R top (DUB. I
-  opener immediately after q3 SCHOLION at line 25804) → 366 → 367 →
-  368 → 369 → 370 L top (DUB. IV close at *quae sunt quaesita.*
-  immediately before DISTINCTIO XV. Cap. I. opener at line 26148).
-  Four dubia (DUB. I, II, III, IV) on Pars II Genesis lemmata:
-  DUB. I = *Congregentur aquae in locum unum / appareat arida*
-  (p.365 L + p.366 L); DUB. II = *Eodem die protulit terra herbam
-  virentem* (p.366 R); DUB. III = *Fiant luminaria in firmamento
-  caeli* with embedded *Quaestio 1* + *Quaestio 2* + four opinions
-  (p.366 R bottom → p.367 → p.368 → p.369 L top); DUB. IV =
-  *Et sint in signa et tempora et dies et annos* with *Quaestio
-  incidens* on Paschal computus (p.369 L mid → p.370 R top).
-  38 apparatus entries continuously renumbered: p.365 footer notes
-  3–5 = [^1]–[^3] (hand-off from `d14-p2-a2-q3`: Aristot. VIII
-  Phys. text. 57. + Gen 1,1 + Gen 2,6 — anchored in DUB. I body at
-  *entis completi*, *ante sit dictum*, *etiam irrigaret*; p.365
-  notes 1+2 *Vat. cometam* + *Referatur vel ad divino iussu*
-  were already consumed at a2-q3 [^27]+[^28], verified no
-  double-count); p.366 footer notes 1–9 = [^4]–[^12]; p.367 footer
-  notes 1–7 = [^13]–[^19]; p.368 footer notes 1–9 = [^20]–[^28];
-  p.369 footer notes 1–9 = [^29]–[^37]; p.370 footer note 1 =
-  [^38] (commentator-list bibliography Alex. Hal. + B. Albert. +
-  Aegid. R. closing DUB. IV and closing d.14 as a whole). No
-  scholion (Pars II dubia carry none per locked Vol II convention).
-  All marginal labels preserved inline per locked Vol II convention:
-  *Quoad tres.*, *Notandum.* (×2), *Ad 3 quaest.*, *Obiectiones 3.*,
-  *Quaestio 1.*, *Quaestio 2.*, *Opinio 1/2/3/4*, *Improbatur.*,
-  *Ratio 1/2*, *Augustinus.*, *Non omnino sufficit.*, *Luminare dicit
-  duo.*, *Approbatur.*, *Luna non lucet per se.*, *Quoad 2.*, *Ad
-  obiecta.* (×2), *Ad illud.*, *Coniecturae.*, *Ad 3 obiectiones.*,
-  *Duplex expositio.*, *Expositio 1/2*, *Magis probatur.*, *Duplex
-  motus.*, *Triplex signatio solis.*, *Item lunae.*, *Quaestio
-  incidens.*. No `[?]` flags — all 38 anchors crisp at 450 dpi.
-  Apparatus-count audit: chunk=38 vs raw=36 diff=−2 (no flag).
-  Paraphrase audit OK (Jaccard 0.19, length 0.61, no smell flag).
-  Header audit clean for d.14 across the board — DUB raw/chunk
-  3/7 +4 (chunk catches the 4th dubium the raw-side regex misses
-  because of OCR garbling; no LOSS flag fires). The previously-
-  reported potential DUB-LOSS scenario is fully resolved.
-  Build: 584 → 585 translated.
+Promoted `d15-littera` Tier-2:
+- *Distinctio XV — Littera Magistri*, Cap. I–X (10 capitula),
+  pp. 370 L bottom (DISTINCTIO XV. Cap. I. *Dixit etiam Deus...*
+  immediately after d.14-p2-dubia close at raw 26148) → 371 L+R →
+  372 L+R band 0 close at *completum et consummatum vidit.*
+  immediately before *COMMENTARIUS IN DISTINCTIONEM XV.* opener.
+  Lombard's chapter sequence covers: Cap. I work of the fifth day
+  (creatures from waters); Cap. II work of the sixth day (animals
+  and reptiles from earth); Cap. III venomous and noxious animals
+  created innocuous, made noxious through sin; Cap. IV minute
+  animals from putrefaction; Cap. V why man was made last + the
+  two opinions on creation through intervals vs simultaneously
+  introduced; Cap. VI the *simul-omnia* opinion of Augustine
+  (formaliter / materialiter / causaliter); Cap. VII rest of God
+  on the seventh day; Cap. VIII how God can be said to complete
+  on the seventh day; Cap. IX all things called *valde bona;*
+  Cap. X sanctification of the seventh day.
+  12 apparatus entries continuously renumbered: p.370 footer
+  NOTAE 1–4 = [^1]–[^4]; p.371 footer NOTAE 1–8 = [^5]–[^12].
+  p.372 carries no littera-side footer (COMMENTARIUS opens
+  immediately after the *completum et consummatum vidit.* tail).
+  No `[?]` flags — all 12 anchors and all marginal labels crisp
+  at 450 dpi. Marginal labels preserved inline per locked Vol II
+  convention: *Dubium 1.* (Cap. I), *Dubium 2.* (Cap. II),
+  *Augustinus.* (×5), *Dubium 3.* + *Opinio 1.* (Cap. V),
+  *Opinio 2.* (Cap. VI), *Dubium 4.* (Cap. VII), *Dubium 5.* +
+  *Dubium 6.* (Cap. X) — Dubium numbering runs 1→6 continuously
+  with no Pars-reset ambiguity (unlike d.14-p1-littera).
+  Apparatus-count audit: chunk=12 vs raw=13 diff=+1 (no flag —
+  raw 13th is the p.370 commentator-list note already consumed
+  at `d14-p2-dubia` [^38]). Paraphrase audit: HIGH bucket
+  (expected first-pass for new Tier-2 chunk over OCR-mangled
+  base). Header audit: Q-LOSS / A-LOSS flags fire only because
+  d15-divisio + d15-a*-q* + d15-dubia are still skeletons (no
+  ARTICULUS/QUAESTIO/DUB headers in a littera chunk by design) —
+  will clear as those promote.
+  Build: 585 → 586 translated.
 
-**d.14 fully complete (17 chunks): p1-littera, p1-divisio, p1-a1-q1,
-p1-a1-q2, p1-a2-q1, p1-a2-q2, p1-a3-q1, p1-a3-q2, p1-dubia,
-p2-divisio, p2-a1-q1, p2-a1-q2, p2-a1-q3, p2-a2-q1, p2-a2-q2,
-p2-a2-q3, p2-dubia.**
+**d.15 PARS-SPLIT DETERMINATION:** d.15 has **NO pars split.** Running
+heads across the entire d.15 commentary read `DIST. XV. ART. I.
+QUAEST. I/II/III.` and `DIST. XV. ART. II. QUAEST. I/II/III.` — no
+`P. I.` / `P. II.` ever appears. The d.15 chunk inventory therefore
+proceeds without `d15-p1-*` or `d15-p2-*` files; see chunk list below.
 
 ## What to do this session
 
-**Promote `d15-littera`** — Lombard's Sentences for d.15 (the Master's
-text printed at the top of d.15's opening pages). This is the next
-chunk in semantic order; the standard littera-chunk pattern applies
-(see `bon-sent-II-d14-p1-littera.md` for the recent template at
-similar scale). d.15 opens at raw line 26148 with `DISTINCTIO XV.`
-on p. 370 L bottom and runs through Cap. IV (the d.15-littera
-chunk in `vol2/` is currently a skeleton awaiting promotion).
+**Promote `d15-divisio`** — the *COMMENTARIUS IN DISTINCTIONEM XV.*
+opening at p. 372 L–R band 0 below the littera tail. Standard
+divisio-chunk pattern applies (DIVISIO TEXTUS + TRACTATIO
+QUAESTIONUM listing three articles, each with three questions, plus
+the d.15 dubia at the end). The d.15-divisio raw range covers the
+COMMENTARIUS title (raw 26280) through the closing of the *Circa
+primum quaeruntur tria.* triad list just before `ARTICULUS 1.` at
+raw 26496 (approx).
 
-After `d15-littera`, the d.15 chunk inventory in semantic order is:
-`d15-divisio`, `d15-a1-q1`, `d15-a1-q2`, `d15-a1-q3`, `d15-a2-q1`,
-`d15-a2-q2`, `d15-dubia`.
+After `d15-divisio`, the d.15 chunk inventory in semantic order is:
+`d15-a1-q1`, `d15-a1-q2`, `d15-a1-q3`, `d15-a2-q1`, `d15-a2-q2`,
+`d15-dubia`. (Vol II convention: a short articulus opener like
+*Consequenter... quaeruntur duo...* folds into that article's q1, so
+no standalone `d15-a1-divisio` or `d15-a2-divisio`.)
 
 The "Vat. … quando" parked footer from `d14-p1-littera` Notes still
-has no obvious d.14 anchor — defer to the polish-blocker. The "Art. 2.
-q. 2." cross-reference catalog from p. 333 is documented in
-`d14-p1-a2-q2` Notes as deferred (no clean inline anchor in q2 body)
-pending the polish-blocker.
+has no obvious d.14 anchor — defer to the polish-blocker. The
+"Art. 2. q. 2." cross-reference catalog from p. 333 is documented
+in `d14-p1-a2-q2` Notes as deferred (no clean inline anchor in
+q2 body) pending the polish-blocker.
 
-## d.15 chunk inventory (in semantic order, all skeletons)
+## d.15 chunk inventory (in semantic order)
 
-- **`d15-littera`** — NEXT.
-- `d15-divisio`
-- `d15-a1-q1`
+- ~~`d15-littera`~~ **DONE 2026-05-25.**
+- **`d15-divisio`** — NEXT.
+- `d15-a1-q1` — *Utrum animae irrationalium sint productae ex aliquo.*
 - `d15-a1-q2`
 - `d15-a1-q3`
 - `d15-a2-q1`
@@ -87,8 +87,8 @@ pending the polish-blocker.
 
 ## Tooling status
 
-- 450 dpi PDF crops cached for pp. 274–370 at `/tmp/colcrop/vol2-p*`.
-  Generate p. 371+ as needed.
+- 450 dpi PDF crops cached for pp. 274–372 at `/tmp/colcrop/vol2-p*`.
+  Generate p. 373+ as needed.
 - Manual-rescue chunks (d.11–d.20 boundary sweep) still skeleton:
   d16-a1-q2, d18-dubia, d19-littera. Promote in normal Vol II cadence.
 - Pre-promotion boundary sweep log:
