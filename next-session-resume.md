@@ -1,12 +1,45 @@
-# Next session — **d.19 ninth/FINAL chunk d19-dubia DONE 2026-05-25 — d.19 COMPLETE.** Begin `d20-littera`.
+# Next session — **d.20 first chunk d20-littera DONE 2026-05-25.** Begin `d20-divisio`.
 
-**d.1–d.19 ALL DONE = 219 chunks promoted.** Build: 630 translated, 879 quaestio routes.
+**d.1–d.19 ALL DONE + d20-littera DONE = 220 chunks promoted.** Build: 631 translated, 879 quaestio routes.
 
 **⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence). After d.20 closes, this pass is the next blocker before d.21 dispatch.
 
 **Manual-rescue list for d.11–d.20 is EMPTY.**
 
-**d.20 inventory:** single-pars (ARTICULUS UNICUS, 6 quaestiones). No pars-split. Chunks: d20-littera, d20-divisio, d20-a1-q1 … d20-a1-q6, d20-dubia.
+**d.20 inventory:** single-pars (ARTICULUS UNICUS, 6 quaestiones). No pars-split. Chunks: d20-littera ✓, d20-divisio (NEXT), d20-a1-q1 … d20-a1-q6, d20-dubia.
+
+## Last session (2026-05-25, d.20 first chunk — d20-littera promotion)
+
+Promoted `d20-littera` Tier-2:
+- *Distinctio XX — Littera Magistri.* Six capitula (Cap. I–VI) covering: mode of procreation if unfallen (Cap. I) + why no intercourse in paradise (Cap. II) + mode of translation to better state, simul vs per successiones, with Aug. *de Gen. ad lit.* IX ambiguous quote (Cap. III) + perfection of stature/use of members at birth, with Aug. *parvuli ad incessum/scalpendum* block + *Aliorum opinio* per-intervalla (Cap. IV) + sense/cognition of soul at birth, ignorance-vs-not-knowing distinction (Cap. V) + the two goods (temporal+aeternum / visibile+invisibile / animale+spirituale) with I Cor 15:46 and precept of obedience (Cap. VI). Spans p.475 L-1 at raw 33406 (`DISTINCTIO XX.` + `Cap. I.` + *De modo procreationis* subtitle + opener *Post haec videndum est, qualiter primi parentes...*) → p.475 R-1 (Cap. II Augustinus close + Cap. III *De modo translationis* + Aug. *Potuerunt primi homines* long quote + Cap. IV opener) → p.476 L-1 (Aug. *nec lingua nec manibus nec pedibus* block + *Aliorum opinio* per-intervalla + *Opponitur*/*Responsio*/*Alia obiectio*/*Responsio* food-necessity block) → p.476 R-1 (Cap. V *Utrum etiam in sensu* + *Sententia quorundam* + *Opponitur*/*Replicatur* ignorance-distinction + Cap. VI *De duobus bonis* + Aug. *animale/spirituale* + I Cor 15:46 + precept of obedience close at *veniret ad praemium* at raw 33559 immediately before page running head `DIST. XX. ART. UNICUS QUAEST. I.` at raw 33560).
+- **14 apparatus entries [^1]–[^14].** Page-split map: p.475 L-2 ¹ = [^1] (long Aug. IX c.10 n.18 + variants *utuntur/utimur* + Heb 13,4 *Honorabile connubium* gloss); p.475 R-2 ²–⁵ = [^2]–[^5] (Aug. ibid c.4 n.8 + *Codd. BCE aeternam* + *patres in aliquo* variants + Aug. c.3 n.6 + Hugo *Sum. Sent.* tr.3 c.4 + Aug. *de Peccat. merit.* I c.37 n.68); p.476 L-2 ¹–⁴ = [^6]–[^9] (*Codd. BCDE...nec pedibus* omission + Hugo + Aug. c.38 n.69 + Hugo loc.cit. + *Dist. XIX c.4* cross-ref + *ligno uti* variant); p.476 R-2 ⁵–⁹ = [^11], [^10], [^12], [^13], [^14] (Hugo I *de Sacram.* p.VI c.26 + *ignorans* variant + Hugo c.6 + I Cor 15:46 + *merendum* variant + Ed.1 *ut*). Apparatus numbered in body-anchor order, not printed-footer order: [^10]=*in ignorantia* (Cap. V), [^11]=*perfectum* close, [^12]=*spirituale*, [^13]=*promerendum*, [^14]=*ut per meritum*.
+- Marginal labels preserved inline per locked Vol II convention (twelve labels): *Opinio quorundam.*, *Improbatur.*, *Augustinus.* (×2), *Dubium 1.*–*Dubium 7.*, *Dupliciter solvitur.*, *Aliorum opinio.*, *Opponitur.* (×2), *Responsio.* (×2), *Alia obiectio.*, *Replicatur.*, *Sententia quorundam.*
+- `has_scholion: false` — littera chunks carry no SCHOLION by design.
+- No `[?]` flags — all 14 anchors crisp at 450 dpi across pp.475–476.
+- Cross-chunk hand-off: received nothing from d19-dubia. Forward hand-off to d20-divisio: **none** — d20-divisio opens p.477 L-1 with its own COMMENTARIUS + fresh apparatus block.
+- Audits (d.20 first-pass): paraphrase 1 CRITICAL / 7 HIGH (8 sibling skeletons + d20-littera first-pass smell — expected); apparatus-count d20-littera diff +3 (no flag, 14 entries); header Q-LOSS A-LOSS persists pending sibling promotions.
+- Build: 630 → 631 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d20-divisio`** — second d.20 chunk. COMMENTARIUS opens on p.477 L-1 with `COMMENTARIUS IN DISTINCTIONEM XX.` (likely OCR-mangled per Vol II habit) + subtitle + lemma + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM + ARTICULUS UNICUS header + 6-question sub-divisio (folded into divisio per Vol II Override step 5). Generate p.477 crops (`extract-pages.py --volume vol2 --pages 477 --dpi 450` then `colcrop.py vol2 477`). Standard Vol II Tier-2 procedure.
+
+## d.20 chunk inventory (in semantic order)
+
+- ~~`d20-littera`~~ **DONE 2026-05-25.**
+- **`d20-divisio`** — NEXT. (skeleton)
+- `d20-a1-q1` (skeleton)
+- `d20-a1-q2` (skeleton)
+- `d20-a1-q3` (skeleton)
+- `d20-a1-q4` (skeleton)
+- `d20-a1-q5` (skeleton)
+- `d20-a1-q6` (skeleton)
+- `d20-dubia` (skeleton)
+
+---
+
+## Prior session (d.19 final state — retained below)
+
 
 ## Last session (2026-05-25, d.19 ninth/FINAL chunk — d19-dubia promotion)
 
