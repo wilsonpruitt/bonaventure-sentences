@@ -1,8 +1,36 @@
-# Next session — **d.16 COMPLETE; d17-littera + d17-divisio DONE 2026-05-25.** Begin `d17-a1-q1`.
+# Next session — **d.16 COMPLETE; d17-littera + d17-divisio + d17-a1-q1 DONE 2026-05-25.** Begin `d17-a1-q2`.
 
-**d.1–d.16 = 192 chunks promoted + d17-littera + d17-divisio = 194 chunks.** Build: 605 translated, 879 quaestio routes.
+**d.1–d.16 = 192 chunks promoted + d17-littera + d17-divisio + d17-a1-q1 = 195 chunks.** Build: 606 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.17 second chunk — d17-divisio promotion)
+## Last session (2026-05-25, d.17 third chunk — d17-a1-q1 promotion)
+
+Promoted `d17-a1-q1` Tier-2:
+- *Utrum anima humana sit ex Dei substantia.* Spans p.410 R band 1 bottom (QUAESTIO I header + italic title + opener `Circa primum sic proceditur et ostenditur, quod anima humana sit ex Dei substantia.` immediately after d17-divisio ARTICULUS I header+subtitle close) → p.410 R band 2 (Ad oppositum arg 1 first-half) → p.411 L (args 1 close + args 2–5 + arg 6 opener + Contra/Fundamenta args 1–2 + arg 3 opener) → p.411 R (args 3–6 close + CONCLUSIO + Respondeo *Opinio 1.* + *Improbatur.* + *Opinio 2.* opener) → p.412 L (Opinio 2 Manichaean + *Refellitur.* + *Sententia catholica et conclusio.* + Solutio oppositorum ad 1–2) → p.412 R (ad 3 *Genus dupliciter.* + *Notandum de luce creata.* + ad 4–6 with *Lux corporalis differt a spirituali.*) → p.413 L band 0 (ad 6 close at `sit nata coniungi materiae.`). SCHOLION I+II on p.413 L band 1 / R band 0 between Q1 body close and QUAESTIO II opener.
+- **19 apparatus entries [^1]–[^19]** continuously renumbered. Page-split map: p.410 R footers 3–5 = [^1]–[^3] (received per d17-divisio hand-off: Vers. 7 + Aug. Manichaean attribution / Cap. 20, 22 Glossa interlinearis from August. in Ioan. tract. 121 / Vers. 7 Eccles. *Et revertatur pulvis*); p.411 L footers 1–4 = [^4]–[^7] (Acts 17:28 Vat. *philosophorum nostrorum* variant / David of Dinant *de tomis* cit. / 1 Tim. 6:16 + de Spiritu et anima c.18 + Cassiodorus de Anima c.8 / Manichaean visible-light Aug. *de Haeresibus* c.46 + *finis* pro *fons* variant); p.411 R footers 5–9 = [^8]–[^11] (Gen 1:26 + Aug. cross-refs / I Sent. d.8 p.II q.2 / I Sent. d.19 p.II q.3 / `Non pauci codd. incongrue hoc`); p.412 L footers 1–4 = [^12]–[^15] (Aug. de Duabus Animabus c.1 + Retract. + cod-variant *facere mala* lacuna / d.31 + d.34 + d.1 cross-refs / `Intellige exemplaris` Y aa codex variant + Vat. ed.4 *quia quod se habet ut materiale* / Aug. VII de Gen ad lit + XIII de Civ. Dei + Vat. *verbo*/*dicendo*); p.412 R footers 5–8 = [^16]–[^19] (John 20:22 Greek ἐνεφύσησε + Aug. VII de Gen ad lit + lit. Magistri c.2 + Vat. *Insufflavit* / Confess. I c.1 n.1 *inquietum cor* / Cap. 15 n. 24 de Trin. + de Humanae Cognitionis ratione + Vat. *spiritualis* pro *specialis* / Dist. 19 a.1 q.1 + I Sent. d.8 p.II a.2 q.2 cross-refs). p.413 carries no body apparatus (SCHOLION-only column).
+- Marginal labels preserved inline per locked Vol II convention: *Ad oppositum.*, *Fundamenta.*, *Opinio 1.*, *Improbatur.*, *Opinio 2.*, *Refellitur.*, *Sententia catholica et conclusio.*, *Solutio oppositorum.*, *Genus dupliciter.*, *Notandum de luce creata.*, *Lux corporalis differt a spirituali.*
+- `has_scholion: true` — SCHOLION I = substantial doctrinal scholion citing Dionys. Carth. on the David-of-Dinant / Manichaean error + the *lux sui generis* exposition (cross-ref I Sent. d. 3 p. I q. 1 scholion) + light-as-form cross-ref (d. 13 a. 2 q. 2); II = q1 commentator list (Alex. Hal., Scotus, Thomas, Albert, Petr. a Tar., Aegid. R., Biel).
+- No `[?]` flags — all 19 anchors + 11 marginal labels crisp at 450 dpi across pp.410–413. OCR around raw 28950–29100 is two-column cascade-fragmented (`c 0 N c L D s I 0.` CONCLUSIO splice + diagonal token reorder); column-band PDF read authoritative per Vol II Override.
+- Cross-chunk hand-off received from d17-divisio: p.410 R footers 3–5 migrate here as [^1]–[^3]. Forward hand-off to d17-a1-q2: none — p.413 carries no q1 body footer; q2 opens p.413 L band 1 with its own *Ad oppositum* argg. and fresh per-page footer sequence on p.414.
+- Audits: paraphrase HIGH (1 chunk, expected first-pass over OCR-cascade base); apparatus-count flag CLEARED for d17-a1-q1 (6 skeleton-suspect flags persist on d17 a*/dubia siblings — clears as they promote); header audit Q-LOSS / DUB-LOSS still fires because d.17 siblings are skeleton — clears as those promote.
+- Build: 605 → 606 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d17-a1-q2`** — fourth d.17 chunk. QUAESTIO II opens on p.413 L band 1 with `QUAESTIO II.` header + italic title *Utrum anima Adae fuerit producta ex materia.* + opener `Secundo quaeritur, utrum anima Adae producta fuerit ex materia. Et quod non, videtur:` Per the d17-a1-q1 forward hand-off, no p.413 footer migrates forward (q1's last body anchor [^19] sits at p.412 R band 2). Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for p.413 + p.414+. p.413 crops already cached at `/tmp/colcrop/vol2-p413-*`; generate p.414+ as needed.
+
+## d.17 chunk inventory (in semantic order)
+
+- ~~`d17-littera`~~ **DONE 2026-05-25.**
+- ~~`d17-divisio`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q1`~~ **DONE 2026-05-25.**
+- **`d17-a1-q2`** — *Utrum anima Adae fuerit producta ex materia.* — NEXT. (skeleton)
+- `d17-a1-q3` (skeleton)
+- `d17-a2-q1` (skeleton)
+- `d17-a2-q2` (skeleton)
+- `d17-a2-q3` (skeleton)
+- `d17-dubia` (skeleton)
+
+## Prior session (2026-05-25, d.17 second chunk — d17-divisio promotion)
 
 Promoted `d17-divisio` Tier-2:
 - *Commentarius in Distinctionem XVII — De productione Adae quoad
