@@ -1,11 +1,34 @@
-# Next session — **d.14-p2-divisio COMPLETE.** Begin `d14-p2-a1-q1`.
+# Next session — **d.14-p2-a1-q1 COMPLETE.** Begin `d14-p2-a1-q2`.
 
-**d.1–d.13 COMPLETE + d.14-p1 (9 chunks) + d.14-p2-divisio = 167 chunks.** Build: 578 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE + d.14-p1 (9 chunks) + d.14-p2-divisio + d.14-p2-a1-q1 = 168 chunks.** Build: 579 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
 ## Last session (2026-05-24, latest)
+
+Promoted `d14-p2-a1-q1` Tier-2:
+- *Utrum omnia luminaria caeli locentur in uno corpore continuo.*,
+  pp. 351 (L mid, ARTICULUS I + QUAESTIO I openers folded forward from
+  p2-divisio per locked Vol II convention) → 352 → 353 L+R top
+  (3-section SCHOLION immediately above QUAESTIO II opener).
+  12 apparatus entries continuously renumbered: p. 351 L+R footer
+  notes 1–6 = [^1]–[^6] (all six forward-handed from `d14-p2-divisio`,
+  body-anchored in affirmative args 1–3 and Ad opp. args 1–3);
+  p. 352 L+R footer notes 1–6 = [^7]–[^12] (note 7 = *unitatem*
+  variant-reading consolidated into [^12]'s Philosophus / II de Caelo
+  cluster, per Quaracchi practice of bundling closely-spaced
+  variants into the prior numbered note). 3-section SCHOLION
+  preserved + translated; SCHOLION III is a *De 2. quaestione*
+  bibliography that handles q2's commentator-list at the article
+  level — `d14-p2-a1-q2` carries no fresh scholion (the q1
+  scholion is the article-level *pro quaest. seq.* per Vol II
+  convention). No `[?]` flags. Apparatus-count audit: chunk=12 vs
+  raw=17 diff=+5 (no flag — heuristic catches p. 353 footer notes
+  within our line range which belong to q2). Header audit clean.
+  Build: 578 → 579 translated.
+
+## Prior session (2026-05-24, latest)
 
 Promoted `d14-p2-divisio` Tier-2 (manual-rescue):
 - *Commentarius in Distinctionem XIV, Pars II — Divisio textus.*,
@@ -151,8 +174,7 @@ Build: 568 → 572 translated.
 
 Remaining d.14 chunks to promote, in order:
 
-- **`d14-p2-a1-q1`** — NEXT.
-- `d14-p2-a1-q2`
+- **`d14-p2-a1-q2`** — NEXT.
 - `d14-p2-a1-q3` *(manual-rescue)*
 - `d14-p2-a2-q1`
 - `d14-p2-a2-q2`
@@ -161,18 +183,23 @@ Remaining d.14 chunks to promote, in order:
 
 ## What to do this session
 
-**Promote `d14-p2-a1-q1`** — *Utrum omnia luminaria caeli locentur
-in uno corpore continuo.* Opens at raw line 24836 on p. 351 L mid
-with ARTICULUS I header + rubric *De luminaribus in comparatione ad
-corpus, in quo locantur.* + QUAESTIO I header (all folded forward
-from the p2-divisio per the locked Vol II convention — no
-standalone `d14-p2-a1-divisio` chunk). p. 351 footer carries 6
-numbered notes, all body-anchored within q1's affirmative args and
-*Ad oppositum* (Vers. 14, Aristot. II de Caelo text. 41–59, etc.) —
-none hand back to the divisio. Continue forward by column-band
-PDF re-set through p. 352+ until the next semantic boundary
-(QUAESTIO II of p2-a1). p. 350 carries no pars-II body or footer
-content for q1.
+**Promote `d14-p2-a1-q2`** — *Utrum luminaria in suis orbibus
+moveantur motibus propriis.* Opens at raw line 24965 on p. 353 L
+(immediately below the q1 SCHOLION block) with bare *QUAESTIO II.*
+header + rubric and *Secundo quaeritur…* opener. p. 353 footer
+carries 4 numbered notes (Aristot. II de Caelo text. 43–82;
+*supra pag.* citation; Aristot. III de Anima text. 45 on stars
+having no organ for motion; Aristot. II de Caelo text. 35 seqq.
+with cod. Q + cc + ed. 1 variants); continue forward through
+p. 354 (where q2's Respondeo's *opinio mathematicorum* +
+*opinio philosophi et conclusio* + *Solutio oppositorum* runs)
+until the next semantic boundary at QUAESTIO III's opener
+(*Tertio quaeritur, utrum conveniat alicui orbi moveri absque
+stellis*) on the lower half of p. 354. q2 carries NO scholion —
+the article-level 3-section SCHOLION is attached to q1 per the
+locked Vol II convention (verify against the existing q1 chunk's
+SCHOLION III bibliography for *2. quaestione*). q1 forwards no
+apparatus notes into q2.
 
 The "Vat. … quando" parked footer from `d14-p1-littera` Notes still
 has no obvious d.14 anchor — defer to the polish-blocker. The "Art. 2.
