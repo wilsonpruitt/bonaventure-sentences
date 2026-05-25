@@ -1,8 +1,38 @@
-# Next session — **d.18 fifth chunk DONE 2026-05-25.** Begin `d18-a2-q1`.
+# Next session — **d.18 sixth chunk DONE 2026-05-25.** Begin `d18-a2-q2`.
 
-**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 + d18-a1-q2 + d18-a1-q3 = 206 chunks promoted.** Build: 617 translated, 879 quaestio routes.
+**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 + d18-a1-q2 + d18-a1-q3 + d18-a2-q1 = 207 chunks promoted.** Build: 618 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.18 fifth chunk — d18-a1-q3 promotion)
+## Last session (2026-05-25, d.18 sixth chunk — d18-a2-q1 promotion)
+
+Promoted `d18-a2-q1` Tier-2:
+- *Utrum animae omnium hominum sint una substantia, an diversae.* Spans p.444 L-1 at raw 31292 (`ARTICULUS II.` + subtitle *De productione animae Evae aliorumque hominum.* + opener `Consequenter quaeritur de secundo articulo…` + 3-question sub-divisio folded in per locked Vol II Override step 5 + QUAESTIO I opener) → p.444 R-1 (Ad oppositum args 1–3) → p.445 (Ad oppositum args 4–6 + Contra/Fundamenta args 1–6 partial) → p.446 (CONCLUSIO + Respondeo with *Error 1.* Pythagoras/Varro anima-est-Deus + *Reprobatur* + *Error 2.* Averroes unitatem-intellectus + *Rationes 2.* + Commentator-tripartition quotation *intellectus recipiens/efficiens/factum* + Aristoteles-interpretatio + intellectus *adeptus*) → p.447 (*Reprobatur triplici ratione* contra christianam-religionem/rectam-rationem/sensibilem-experientiam + *Conclusio* + *Solutio oppositorum* ad 1–6 with *Notandum* ×4 on indigentia/manifestatio-bonitatis-divinae/species-singularis-accidens/duo-specula) → p.448 L-0 (Notandum close at *adiuvetur per radium fidei.* + SCHOLION I Arab-philosophers + Parisian condemnations + Scotus + Albert + Aquinas + Henr. Gand. Aristoteles-undecidedness) + p.448 R-0 (SCHOLION II commentator list close at raw 31565 immediately before QUAESTIO II at raw 31566).
+- **23 apparatus entries [^1]–[^23].** Page-split map: p.444 L-2 ¹ (Aristot. II de Anima text.20 + Averroes Comment. super III de Anima + Destruct. destruct. + Algazel + dividuationem/individuationem variant; **migrated from d18-a1-q3 prior-chunk hand-off**) = [^1]; p.444 R-2 ² = [^2]; p.445 L-2 ¹–⁴ + R-2 ⁵–⁷ = [^3]–[^9]; p.446 L-2 ¹–⁵ + R-2 ⁶–⁹ = [^10]–[^18]; p.447 L-2 ¹–⁵ + R-2 ⁶ = [^19]–[^23]. Notable: [^3] Averroes III de Anima text 5 *prima materia recipit formas diversas / ista [intellectus] recipit formas universales* full block; [^7] Boethius *de Unitate et uno* *Quidquid est, ideo est quod unum est* + *Esse est existentia formae in materia* block; [^10] Augustinus *de Civ. Dei* IV.31 + VII.6+23 attribution to Varro + Isidor./Cicero/Lactantius/Minucius Felix; [^15] Commentator-tripartition pointer to d.1 p.1 a.1 q.2; [^17] Averroes *intellectus adeptus* doctrina *cum intellectus materialis fuerit copulatus*; [^22] Avicenna V Metaph. c.2 *universale-singulare per relationem ad multa* full block.
+- Marginal labels preserved inline per locked Vol II convention: *Ad oppositum.*, *Fundamenta.*, *Error 1.*, *Reprobatur.*, *Error 2.*, *Rationes 2.*, *Explicatur erro[r].*, *Reprobatur triplici ratione.*, *Notandum.* (×4), *Conclusio.*, *Solutio oppositorum.*, *Dupliciter deficit.*
+- `has_scholion: true` — SCHOLION I substantial doctrinal (Averroist unitatem-intellectus error + Parisian condemnations 1277 theses 20/22/27 + Scotus IV *Sent.* d.43 q.2 + Albert *S.* p.II tr.13 q.77 m.3 + Aquinas opusculum 15 + Summae/SCG + Henr. Gand. on Aristotle's undecidedness); II = q1 commentator list (Scot. + Hier. de Montefortino + Petr. a Tar. + Richard. a Med. + Aegid. R. + Durand. + Dionys. Carth.).
+- No `[?]` flags — all 23 anchors + 13 marginal labels crisp at 450 dpi across pp.444–448. OCR around raw 31292–31565 two-column cascade-fragmented around Error II + Commentator-quotation + Notandum (×4) + SCHOLION boundary; column-band PDF read authoritative per Vol II Override.
+- Cross-chunk hand-off: received p.444 L-2 footer ¹ from d18-a1-q3 (folded as [^1]). Forward hand-off to d18-a2-q2: **none** — p.448 L-2 footers ¹ (Vers.10) + ² (supra d.2 p.1 a.2 q.3) + ³ (Aristot. II de Anima text.36 c.4) + ⁴ (Simile invenitur supra pag.210) all anchor in Q2's *Iob quadragesimo* / *non est anima propter corpus* args and migrate forward.
+- Audits: paraphrase HIGH (1 chunk, expected first-pass); apparatus-count flag CLEARED for d18-a2-q1 (not in flagged list); header audit DUB-LOSS -2 persists pending d18-dubia.
+- Build: 617 → 618 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d18-a2-q2`** — seventh d.18 chunk. QUAESTIO II opens on p.448 R band 1 at raw 31566 with `QUAESTIO II.` + italic title *Utrum animae omnium fuerint simul productae.* + opener `Secundo quaeritur, utrum animae omnium fuerint simul productae. Et quod sic, videtur: 1. Iob quadragesimo: Ecce Behemoth, quem feci tecum…` Per the d18-a2-q1 forward hand-off, p.448 L-2 footers ¹–⁴ (Vers.10 + supra d.2 p.1 a.2 q.3 + Aristot. II de Anima text.36 + Simile invenitur supra pag.210) migrate here as the first apparatus entries. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.448 crops cached at `/tmp/colcrop/vol2-p448-*`; generate p.449+ as needed.
+
+**⚠ d18-dubia is a remaining manual-rescue chunk per the d.11–d.20 boundary-sweep audit — keep this flag visible until d18-dubia clears.**
+
+## d.18 chunk inventory (in semantic order)
+
+- ~~`d18-littera`~~ **DONE 2026-05-25.**
+- ~~`d18-divisio`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q3`~~ **DONE 2026-05-25.**
+- ~~`d18-a2-q1`~~ **DONE 2026-05-25.**
+- **`d18-a2-q2`** — *Utrum animae omnium fuerint simul productae.* — NEXT. (skeleton)
+- `d18-a2-q3` (skeleton)
+- `d18-dubia` (skeleton; ⚠ manual-rescue)
+
+## Prior session (2026-05-25, d.18 fifth chunk — d18-a1-q3 promotion)
 
 Promoted `d18-a1-q3` Tier-2:
 - *Utrum ratio seminalis sit forma universalis, vel singularis.* Spans p.439 (QUAESTIO III header at raw 30919 immediately after d18-a1-q2 p.438 L close + Ad oppositum args 1–6 + Contra/Fundamenta args 1–3) → p.440 (Fundamenta args 4–6 + CONCLUSIO + Respondeo with *Praenotandum* + *Opinio 1.* universalia realiter in natura + *Iudicium de opinione 1.* magnorum concors auctoritati/rationi/sensui) → p.441 (Philosophus Physicorum + *Opinio 2.* forma totius vs forma partis + *Magis approbatur.* via communis + *Ratio 1.* cognitionem + univocationem + Avicenna *essentia* = quidditas + *Ratio 2.* Philosophus *cum dico caelum dico formam* + Boethius species totum esse) → p.442 (*Ratio 3.* egressus specierum a genere vs eductio formarum + elementarem/mixtionis/complexionis + *Iudicium de utraque opinione.* albedo defined-vs-produced + *Conclusio 1.* (proprie sensu) + *Conclusio 2.* (largiore sensu) + *De argumentis.* + *Solutio oppositorum.* ad 1 + ad 2) → p.443 (ad 3 Petrus/Paulus + ad 4 + ad 5 + ad 6 + SCHOLION I doctrina Augustini + descendentia critique) → p.444 (SCHOLION II 5 earlier opinions: Quidam/Scotus/S.Thom/Richard/Aegid + SCHOLION III S. Bonav. ab Alex. Hal. *natura simplex et incorporea* + SCHOLION IV Petr. a Tar. lac→sanguis→caro→embryo→animal + ovum + SCHOLION V Posteriores cum S. Thoma/Scoto/Aegidio/Henrico Gand non approbant + Apostoli *Ex parte cognoscimus* close at raw 31291 immediately before `ARTICULUS II.` at raw 31292).
