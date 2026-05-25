@@ -1,6 +1,46 @@
-# Next session — **d.20 eighth chunk d20-a1-q6 DONE 2026-05-25.** Begin `d20-dubia` (final d.20 chunk).
+# Next session — **d.20 COMPLETE 2026-05-25 (all 9 chunks Tier-2). NEXT = d.11–d.20 decade-polish-blocker, NOT d.21-littera.**
 
-**d.1–d.19 ALL DONE + d20-littera + d20-divisio + d20-a1-q1 + d20-a1-q2 + d20-a1-q3 + d20-a1-q4 + d20-a1-q5 + d20-a1-q6 DONE = 227 chunks promoted.** Build: 638 translated, 879 quaestio routes.
+**d.1–d.20 ALL DONE = 228 chunks promoted.** Build: 639 translated, 879 quaestio routes. d.20 closed with d20-dubia (DUB. I–VII, pp. 487–489, 20-entry apparatus, no `[?]` flags). Audits final clean state: paraphrase 0 CRITICAL / 0 HIGH across all 9 d.20 chunks; apparatus-count 0 flagged; header diffs within Vol II coarseness tolerance.
+
+## ⚠ NEXT ACTION: d.11–d.20 decade-polish-blocker (three passes — blockers for d.21+ dispatch)
+
+Per `CLAUDE.md` § "Polish-blocker cadence (every 10 distinctions)" — three locked-in passes must close before any d.21 translation agent is dispatched:
+
+1. **`[?]` flag resolution — d.11–d.20 only, at 600 dpi.** Walk every inline `[?]` in chunks d.11–d.20 + per-chunk `manual-review/tier2-ambiguities-d{N}-*.md` logs (Vol II uses per-chunk `## Notes` flags, not the legacy ambiguities-md discipline — see Vol II Override step 7). Known item carried forward: **d18-a2-q2's stray `²` on *absque dolore* (p.451 L-1)**. Also re-check d20-a1-q4's `[^1]` *intendetur* future-passive anchor flagged in that session's notes (may also need 600 dpi). Generate 600 dpi crops via `pdftoppm -r 600 -f PDF -l PDF -png raw/doctorisseraphic02bona.pdf raw/vision/vol2/p-hires-PRINTED-r600`. Each flag → RESOLVE (with PDF citation) or formally ACCEPT-ILLEGIBLE (with reason).
+2. **Style/formatting audit — full corpus (d.1 through d.20).** Programmatic scan for: required Tier-2 frontmatter fields; `## Latin` / `## English` / `## Apparatus` standard structure; apparatus marker pairing (every `[^N]:` def matched in both Latin and English bodies); page-break presence; `transcription_status` starts with `Phase C Tier 2 complete —`; legacy auto-chunked duplicates.
+3. **Cross-chunk boundary integrity sweep — d.11–d.20 only.** For every chunk boundary that falls inside a printed page (quaestio/divisio/scholion split mid-page), verify against 450 dpi PDF column bands that no body text or footnote was lost at the seam. Watch for the IA-djvu cascade-merge signature (a grammatically broken splice in a prior chunk's tail). Use the d9 `tertia hierarchia` example as the canonical failure mode.
+
+**Land all three passes' dispositions in a single per-decade log file: `manual-review/d11-d20-polish-resolution-log.md`** (file does NOT yet exist — flag for creation in the polish pass). Use the d1-d4 / d1-d10 logs as format reference.
+
+After all three passes close, dispatch d.21-littera as the next translation chunk. Do NOT skip the polish-blocker — `CLAUDE.md` is explicit that the three passes are mandatory before the next decade of distinctions begins.
+
+---
+
+## Last session (2026-05-25, d.20 ninth/FINAL chunk — d20-dubia promotion)
+
+Promoted `d20-dubia` Tier-2:
+- *Dubia circa litteram Magistri (Dist. XX).* Seven dubia (DUB. I–VII) spanning **pp. 487–489** (raw 34257–34401). DUB. I = *infirmitas prona ad ruinam turpitudinis* / *honestate nuptiarum* / culpa-vs-poena distinction + IV Sent. tractatus-de-matrimonio cross-ref. DUB. II = *in paradiso essent nuptiae honorabiles* + Eph 5,32 *Sacramentum magnum* + Distinctio significatum/fructum/actum + Aug. *de Civ. Dei* XIV *Ratio*-of-shame ratio-deberet-dominari-corpori. DUB. III = *Deus nondum iusserat ut coirent* + Gen 1,28 *Crescite et multiplicamini* + Quaestio incidens 1 (mandatum-omnes-obligabat) + Quaestio 2 (mandatum-maneat-adhuc) + 1 Cor 7,7 *Volo enim omnes vos esse sicut meipsum* + Respondeo Ad quaest. 1 (affirmativum-pro-loco-et-tempore) + Ad quaest. 2 (naturae-lapsae-vs-institutae-consilium-virginitatis). DUB. IV = *Completo numero, sine morte corpora in aliam qualitatem transirent* + dispendium-parentibus + Prov 13,12 *spes quae differtur affligit animam* + paradisi-spatium-non-contineri + Responsio probabilior-est ratio-iudicii-resurrectionis + IV Sent. tractatu-de-resurrectione. DUB. V = *in parvulis exspectaretur aetas ad ambulandum et loquendum* + Aug. *Infirmitati mentis congruit haec infirmitas carnis* + brute-animal-fetus argument + Respondeo + Notandum teneritudo-membrorum-debilior-complexio-ad-fortiorem + brute-complexio-organizatio-distinction. DUB. VI = *Parvulos per intervallum temporis in sensu et cognitione proficere* + anima-rationalis-non-senescit + Adae-perfectam-scientia + Respondeo probabilior-positio + Notandum complexio-cerebri-mollis-fluida-facies-in-aqua-mota analogy + habitus-vs-actualis-consideratio + parvuli-baptizati *in munere non in usu* analogy + Aristot. *Phys.* VII *in sedendo et in quiescendo fit anima prudens et sciens*. DUB. VII = *Praeceptum addidit obedientiae* + tria-praecepta (Crescite-et-multiplicamini + De-omni-ligno-paradisi-comedite + De-ligno-scientiae-boni-et-mali-nolite) + Congruentia 1 Deus/proximum/se-ipsum + Congruentia 2 corpus/animam/coniunctum + negativum-vs-affirmativum disciplinae-rationem close at *totalis illa pars huius libri, quae est de hominis constitutione*.
+- **20 apparatus entries [^1]–[^20].** Page-split map: p.487 L-2 ³–⁶ = [^1]–[^4] (hand-off from d20-a1-q6: Aliqui codd. *dubitationes* + Vat. *hic* + Dist. 31 multi-ref + long Vers. 32 *cum est*/*fit* variant block); p.487 R-2 ⁷ = [^5] (Aug. *de Civ. Dei* XIV cc. 16, 19, 23 + S. Thom./Petr. a Tar./Aegid. R. roll + *dominetur ei*/*comminando* variants); p.488 L-2 ¹–⁶ = [^6]–[^11] (Vers. 28 + Vers. 7 Vulg. *Volo enim* + Cod. T *quare* + Alex. Hal./S. Thom./Richard./Aegid. roll for DUB. III + Prov 13,12 + Haud pauci codd. *filiis* + *parentes* transposition + cod. N *omnes electi*); p.488 R-2 ⁷–⁹ = [^12]–[^14] (Dist. 43 a.1 q.3 + Petr./Richard./Aegid. roll + Aug. *de Peccat. merit.* I c.38 n.69 + Vat. *Ad illud* + Alex. Hal./B. Albert./S. Thom./Petr./Richard./Aegid. roll for DUB. V); p.489 L-2 ¹–⁶ = [^15]–[^20] (Cfr. supra p.459 *non senescit* + infra d.23 a.2 q.1 + *in* before *infantia* + Supple *alteratur* + Magister IV Sent. d.IV in fine + long Aristot. *Phys.* VII text 20 with full *Neque igitur pueri* paraphrase + Alex./S. Thom./Petr./Richard. roll + *quod dicit*/*qui dicit* variant).
+- Marginal labels preserved inline per locked Vol II convention (ten labels): *Distinctio.*, *Ratio.*, *Quaestio incidens 1.*, *Quaestio 2.*, *Ad quaest. 1.*, *Ad quaest. 2.*, *Responsio.* (×3 — DUB. IV, DUB. VII), *Notandum.* (×2 — DUB. V, DUB. VI), *Congruentia 1.*, *Congruentia 2.*
+- `has_scholion: false` — dubia chunks carry no SCHOLION by design (Vol II convention, verified across d.1–d.19 dubia).
+- No `[?]` flags — all 20 anchors crisp at 450 dpi across pp. 487–489. OCR cascade-fragmented through DUB. II *Distinctio* significatum/fructum/actum + DUB. III/IV reordering (printed L vs R column-height differential put DUB. IV physically before DUB. III in linear OCR flow — reordered semantically per Vol II Override step 1).
+- Cross-chunk hand-off: received **p. 487 L-2 ³+** from d20-a1-q6 (folded as [^1]–[^4]). Forward hand-off to d.21-littera: **none** — NOTAE block on p. 489 R-2 (Hugo *Sum. Sent.* tr. 3 c. 4 + Sap. 17,10) is native to d.21-littera Cap. I opener.
+- Audits (d.20 final state): paraphrase **0 CRITICAL / 0 HIGH** across all 9 d.20 chunks (final clean state); apparatus-count 0 flagged; header diffs ART -1, QUAEST +4, DUB +6 within Vol II coarseness tolerance.
+- Build: 638 → 639 translated, 879 quaestio routes.
+
+## d.20 chunk inventory (in semantic order) — ALL DONE
+
+- ~~`d20-littera`~~ **DONE 2026-05-25.**
+- ~~`d20-divisio`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q3`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q4`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q5`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q6`~~ **DONE 2026-05-25.**
+- ~~`d20-dubia`~~ **DONE 2026-05-25 (this session).**
+
+---
 
 ## Last session (2026-05-25, d.20 eighth chunk — d20-a1-q6 promotion)
 
