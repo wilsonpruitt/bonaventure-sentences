@@ -6,9 +6,9 @@ distinctio: 15
 articulus: 2
 quaestio: 2
 type: quaestio
-line_start: 27258
-line_end: 27416
-word_count_latin: 2016
+line_start: 27119
+line_end: 27257
+word_count_latin: 1555
 transcription_status: "auto-chunked 2026-05-13"
 format_version: 1
 ---
@@ -17,164 +17,144 @@ format_version: 1
 
 ## Latin
 
-QUAESTIO II!.
-                                       Qui sit ordo produclionis aninialium respectu quielis.
+                    Secundo quaeritur de ordine productionis sen-
+             sibilium, quantuin est ex parte temporis. Et dicit                      cum bestiis^: ergo magis debuit produci eodem die
+                                                                                     cum Angelis quam eodem die cum bestiis: ergo
+             Scriptura ', quod volaliiia et natatilia facta sunt in
+                                                                                     productio hominis et bestiarum non recte facta est
+             uno die, scilicet quinto; gressibilia vero cum ho-                      in eodem die.
+             mine facta sunt die altero, scilicet sexto.
+                    Contra istum ordinem primo obiicitur ex parte                          6. Item, plus convenit irrationale cum irratio-
+              ipsorum animalium sensiljilium inse; secundo vero,                     nali quam cum homine sive rationali: ergo magis
+              in coraparalione ad hominem.                                           competens fuit in eodem die producere omnia ani-
+                                                                                     malia irrationalia, quam simul producere hominem
+                     1 . Contra primum obiicitur sic. Uno die ^ fue-                 et bruta.
+ Ad opposi- runt omnia
+tum series 1. .           ,   .
+                               elementa distincta
+                                            ,
+                                                  , non solum
+                                                           ...
+                                                                 aer et
+argumentor. iguis, scd etiaiii aqua et terra : ergo pari ratione a                         7. Item, principalius opus diei debet primo
+              summo Opifice debent fuisse ornata: ergo in uno                        fieri; sed homo principalius opus fuit sextae diei:
+              die debuit fieri ornatus aeris et aquae et terrae.                     ergo debuit ante fleri, quam fierent sensibilia sive
+                     2. Item, distinctio dierum fit penes diversita-                 bruta; quod est contra ordinem sacrae Scripturae ".
+                                                                                           8. Item , posterius magis indiget priori quam e
+              tem operum^': ergo si tria sunt elementa, quae or-
+              nantur ex animalibus, et tria sunt genera anima-                       converso " ; sed bruta animalia magis indigebant ho-
+              lium, scilicet volatilia, natatilia et gressibilia, vide-              mine, quam homo indigeret eis secundum illum
+              tur, quod produci debtierunt saltem in tribus diebus.                  slatum: ergo ante debebat homo produci , quam illa
+                     3. Item, terra prior oiiinibus producta est: ergo               in esse prodirent.
+              prior omnibus debet esse ornata: ergo animalia,
+                                                                                                                 CONCLUSIO.
+              quae terram ornant, prius produci debuerunt, quam
+              illa quae ornant aquani vel aerem.
+                     4. Item, cum producuiUur animalia ornanlia                       in productione rermn sensibilium servatus est
+                                                                                          ordo convenientissimus secundum duplicem
+              elementa, aut prodiicunlur secundum ordinem di-
+              gnitatis, ut incipiatur a supremo; aut secundum                             distinctionem ordinis.
+               ordinem ascensionis , ut incipiatur ab infimo. Si
+              pri77io modo : ergo de]:ieret prius fleri ornatus ignis                       Respondko: Dicendum, quod in productione sen-
+               quam aeris. Si secundo modo: ergo prius deberet                        sibiliurn duplex attenditur ordo, unus scilicet se-D"piexor6
+               fieri ornatus terrae quain aquae ; quorum utrumque                     cundum distinctionem diei a die , alius scilicet se-
+                                                                                      cundum ordinern eorum quae eodem die producta
+               repugnat Scripturae sacrae ' et ordinationi produ-
+               ctionis, prius delerminatae quantum ad productio-                      sunt. — Primus autem ordo attenditur secundum exi-Piimus oro
+               nem ipsorum animalium.                                                 gentiam finis et matcriae. Et quia volatilia et
+                      Iten^ obiicitur contra ordinem productionis ani-                natatilia ex aquis producta sunt . prout aqua com-
+    series 2. maliuin in comparatione ad hominem.                                     muniter accipitur ad humorem et vaporem *, et sunt
 
-                 Tertio quaeritur de ordine productionis aniraa-         aut nullum. Si nidlum effectum connotat; ergo ab
-           lium ad quietem. Et quaeritur, utrum Deus, post-              aeterno requievit: ergo ante requievit, quam aliquid
-           quam animalia produxit, ab omni opere quieverit.              produceret: ergo penes requietionem non debet ac-
-           Et quod sic, vjdetur:                                         cipi aliquis dies. Si connotat aliquem effectum; et
-                                                                         iste effeclus non fuit in diebus praecedentibus: ergo
-                 1 . Per Scripturam Genesis secundo ' : Reqwievit
-Fimismenm. Dcus clie scptimo ah omni opere , quod pcUrarat;              aliquid novum produxit in die septimo: non ergo
-           sed animalia [iroducta sunt quinto el sexto die: ergo         requievit ab omni" opere suo, postquam produxit
-           post eorum productionem sequitur quietatio.                   animalia die sexto.
-                 2. Item, omnis operatio, quae pervenit ad com-                4. Item, Deus creat quotidie novas animas et
-           pletionem, habet quietem subsequentem ; sed pro-              infundit corporibus; creare autem est opus soli Deo
-           ductio creaturarum complelur in productioue ani-              proprium: ergo non videtur, quod ab operatione
-           malium, et maxime hominis: ergo videtur, quod                 quieverit post diem sextum.
-           postquam Deus die sexto animalia produxit , quod                    3. Item, animalia quaedam producuntur per
-           deinceps requievit.                                           putrefactionem ; sed constat , quod illa non sunt pro-
-                 3. Item, distinctio dierum est ad nostram in-           ducta in sex diebus, sicut dicit Augustinus tertio'
-           structionem °; sed sex diebus permisit Deus homines           super Genesim ad liiteram, el huiusmodi habent
-           operari, septimo praecepit quiescere et cessare ab            species proprias et naturas : ergo videtur, quod post
-           omni opereV si ergo illud mandatum rationem habet             sextum diem non cessaverit a productione nova-
-           ex primaria rerum conditione, videtur, quod ad                rum specierum in genere animalium.
-           animalium productionem subsecuta fnerit quies.                      6. Item, quaedam animalia generantur per com-
-                 4. Item, omnis creaturae productio fmem ha-             mixtionem, sicut mulus ex equa et asino '; haec
-           bet et terminum, ergo similiter diesomnis, in qua             autem in sex diebus non fuerunt facta , nec in esse
-           aliquid producilur , habet vesperam ; sed septimae            inclividuali nec in sua specie: ergo post sextum
-           diei secundum Scripturarn ^ non assignantur vespe-            diem non cessavit a rerum productione, non solum
-           rae: ergo post sextam diem nulla sunt producta;               quantum ad individua, sed etiam quantum ad spe-
-           et in sexio die producta sunt animalia: ergo etc.             cies et genera.
-                 Contra: 1. loannis quinto^: Pater meus ope-
- Ai owoii- ratiir usque modo, ct ego operor : ergo si usque                                        c 0 N c L u s I 0.
-           modo operatus est, videtur, quod septimo die non
-           cessaverit ab opere.                                          Post animalium productionem secuta est quies
-                 2. Item, septimus dies aut est 5io!)!(..s dies prae-        die septimo , non quasi facta sit laboris ces-
-           ter praecedentes , aut non. Si non: ergo non debet                satio, sed operis inchoati completio.
-           aliis connumerari; si sic, et illum fecit Deus: con-
-           stat ergo, quod non requievit ab omni opere, post-                  Respondeo: Ad praedictorum intelligentiam estPiaenotandi
-           quam produxit animalia ^ Si tu dicas, quod dies               notandum, quod omuis artifex perfectus opus in-
-           ille non differt a praecedentibus nisi secundum nu-           choat, ut ad perfeclionem perducat; et sicut inten-
-           merum; sed sic differt octavus et decimus, et sic             dit, ita facit, si per omnia sufficientia virtutis agen-
-           deinceps: ergo si septimus numeratur, eadem ra-               tis sibi suppetit; cum autem ad perfectionem dedu-
-           tione et octavns deberet numerari.                            xerit, habet quod intendit. Omne aulem operans
-                 3. Item , requies aut connotat aiiquem effectum,        propler aliquid, obtento eo, propter quod agit, quie-
-
-
-                 Vide scliiilioii ad praecedcntem quaesl.                     ^ Hoc arg. insinual Augiist. , IV. de Gen. ad lit. c. 20.
-                 Vers. 2.                                                n. 37. et ut refert B. Albert., S. p. II. Ir. Il.q. 67, lioc modo
-               ' Sicut supra d. 12. a. I. q. 2. nioiislralum osl. — De   K quacrunt ludaei ».
-          minori clr. Exod. 20 9. seq. ; Deiit. .3 , 1 3. seq.                ' Cap. li. n. 23. — Vat. post septimum diem pro post
-               * Vide Gen. 2, 2. — Explicationem liuius vide apud        sextum diem.
-          Augusl. , IV. de Gen. ad lit. c. 18. n. 31. seqq. — Plures          s Aristol. , VII. .Alelaph. texl. 2S. (VI. c. 8.), lianc obiectio-
-          codd. cum Vat. ergo post septimum pro ergo post sextam.        nem aliqualenus tangii.
-               5 Vers. 17.
-                                                      DIST. XV. ART. II. (jUAEST. III.                                             387
-
-                 scit. Oinnis ergo agens perfectus sic operatnr , ut      quieti, secundum quod quies dicit cessationera a
-                aliquando quiescat.                                       productione eorum quae sunt de principali universi
-                       Cuni igitur Deus sit agens perfectissimus in       constitutione. Enumeratur tamen cum praedictis die-
-                 producendo ipsum universiim, necesse est, ipsum          bus magis quam dies octavus vel decimus propter
-                aliquando quiescere. Sed cuin duplex. sit agens,          cessationem ab opere constituendi universuni, se-
-                quoddam, quod movetur et laborat in sua opera-            cundum quain non attenditur numeratio dierum ,
-                tione, quoddam vero, quod iwc mutatur nec va-             quia non habent lerminum; et ideo septimus dies
-                rialur; illud quod primo modo agit, quiescit per          non dicitur habere vesperam, nec post illuni enu-
-                quietationem, quae quidem est priva.tio motus et          meratur dies novus, sed fit regressus ad princi-
-                laboris, sicut est agens crealum; illud vero, quod
-                secundo modo agit, quiescit quietatione, non quae              3. Ad illud quod obiicitur, quod requiescere
-                sit laboris vel fatigationis privatio, sed quac est      ab opere  , aut connotat effectum aliquem aut nul- Quicscere
-                cessatio ab opere propter ipsius perfectionem ; et        pium ^.
-                                                                         lum; dicendum, quod secundnm Augustinum" re-August""°
-                sic dicitur Deus ab omni opere quievisse, cum uni-       quiescere dicitur in Deo causaliter, quia facit crea-
-                versum produxit ad perfectum esse, et sic quievit,       turam spiritualem per completam contemplationem
-                sicut ' ad perfectum esse deduxit.                       sibi inhaerendo quiescere, vel quiescendo sibi in-
-                       Propter quod nota , quod duplex est perfectio     haerere. Secundum aulem alios Sanctos et viam sec. aiios
-      Diiplex universi: una et praecipua secundum         esse perma-
-    peileoUo
-                                                                               sabbati, quiescere
-                                                                          communem
-                                                                         die                                                  sit in ^™"'"^'
-                                                                                                                     Deusquidicitur
-                                                                                                               unde non
-                                                                                                  dicit effectum,
-                                                                                        sed qui praecessit;
-     Hiiiersi. 'nens , alia est secundum   ipsius esse decurrem. Pri-
-               ma attenditur in completa existentia principiornm         requiescere ab opere , quia prius fecit , et deinde
-               et completo numero specierum, quae quidem spe-            nova non facit. Et propter hoc dicitur coraplesse
-               cies naturam generis participant secundum rectam          oinne opus suum in die septimo, non quia tunc
-               et ordinatam intentionem naturae. Secunda vero            aliquid fecerit, quod fnerit ad completionem , sed
-               perfectio consistit in productione eorum quae per         quia tunc quiescendo consummatum ostendit,
-               tempora decurrunt et sibi consequenter succedunt,                4. Ad illud quod obiicitur, de creatione anima-
-               ex cuius successionis ordinatione resnltal quaedam        rum , dicendum , quod cum creantur nunc animae
-               unitatis pulcritudo et perfectio -. Quoniara igilur se-   rationales, non creatur nova species, sed novum
-               cundum primam perfectionem Deus universum in              individuum ; hoc autem individuum non est de con-
-               sex diebus ad esse produxit, sciJicet quantnm ad          stitutione universi primaria ; et ideo per quietationem
-               completam existentiam principiorum et quantum ad          in sabbato non excludebatur animarum creatio.
-               completum numerum specierum; ideo dicitur re-                    0. 6. Ad illud quod obiicitur de productione
-:oroIlariuin, quievisse at) omni opere, qicod patrarat. Quia vero        enruin, quae snnt per pntrefactionem et coramixtio-
-               continue operatur ad rerum successionem per pro-          nem, quod sunt novae species ; dicendnm, quod
-               pagationem et individuorum raultiplicationem ; ideo       tam illa quae generantur per putrefactionem, quain
-               dicitur operari usque modo. Et ex his patet re-           illa quae generantur per diversarum specierum
-               sponsio ad quaestionem propositam.                        commixtionem , producta sunt in suis principiis et Noiandum.
-                      Concedendum est enim, quod ad productionem         rationibus seminalibus, quamvis non sint producta
-  conciusio. animalium, maxime hominis, secuta est quies in die          in siinili secundum forinam. Principia enim eorum
-               septimo, non quia facta sit laboris terminatio, sed       sunt de primaria constitutione universi , utpote spe-
-               quia facta^ est operis inchoati completio; et con-        cies completae et rationes seminales; sed illarum
-               cedendae sunt rationes hoc prolxantes.                    specierum actualis existentia ad primariam consti-
-                      \. Ad iilud qiiod obiicitur in contrarium de       tutionem universi non spectat , quia species illae
-Solutio op' loannis quinto ': Pater meus operatur elc.: iam
- positonini
-                                                                         quodam modo sunt degenerantes et quasi per quan-
-               patel responsio. OlMicit enim de illa operatione, qnae    dam degenerationem produci habent, sicnt vermes
-               spectat ad perfectionem universi secundum esse de-        producuntur ex humano corpore per corruptionem
-               currens, non secundum esse permanens.                     aliquam, quae quidem facit corpus humanum a
-                      2. Ad illnd quod obiicitur, quod fecit diem        propria forma degenerare. Et ideo non oportuit, haec
-               septimum; dicendum, quod dies septimus non fiiit          produci in se nec in suo simili ad primariam con-
-               alius specie a praecedentibus diebus, immo quo-           stitutionem universi; nec tamen sunt superflua, quia
-               dam modo iam erat in aliis productus; et ideo ad          universum, quantuin ad bene esse, aliquo modo de-
-               primum complementum universi nihil addebat ra-            corant.
-               tione sui; et ideo eius produclio non repugnabat                Unde breviter nota, iiuod eorum quae succes- ducla.  iria rcrun.
-                                                                                                                                          gcnerapro-
-
-              ' Cod. T a secuntla nianu Ijenc cum.                            5 Cod. cc et ed. 1 primum ; Vat. addit vel primum.
-              ■ Cfr. q. 1. huius art. ad ull.                            Paulo ante aliqui codd. cuni ed. 1 noniis pro novus.
-              ' Eil. I cum cod. cc perfecta.                                  « Libr. IV. de Gen. ad lil. c. 9. n. 16. et c. 16. n. 27.
-              * Vers. 17. — Paulo inferius auctoritaie cod. aa posui-    seqq. — Dialog. Qq. 63. cum Orosio (inter opera AugustiniJ
-         nius ad perfectionem universi, dum alii codd. et edd. perpe-    q. 42. haec et seq. opinio habetur. Cfr. hic lit. Magistri ,
-                                                                         c. 7. si?q.
-         ram habont ad operalionem unicersi. Vide hic in corp.
-         388                                                   SENTENTI.\RUM LIB. [1.
-
- Genus 1. sioiie producuntur, quaedam fuerunt in prima die-                    sicut plantae et bruta animalia, quae producuntur
-          rum ' distinctione producta in simili, sed non in                    per propagationem. — Et ad haec Iria rerum genera
-          ratione seminali, utpote animae rationales, quae                     possunt reduci omnia quae fiunt; et proplerea non
-          scilicet producuntur per creationem et ideo non ha-                  dicitur Deus producere ahqua de novo , secundum
-          bent rationem seminalem; in simili tamen productae                   quod dicitur in Ecclesiastis primo-, quod nihil no-
-          sunt, quando producta fuit anima Adae, post cuius                    vum sub sole; sed dicitur ab omni opere requie-
-          productionem non producitur nova species , quamvis                   visse, quia niliil producit, quod prius non fuerit
- Genus ± producantur nova individua. — Quaedam sunt, quae                      vei in simili specie, vel in ratione seminali, quae
-          productae sunt in primis diebus quantum ad ratio-                    tunc erant de primaria constitntione universi. —
-          nem seminalem, sed non in simili, sicut ea quae                      Et sic patet, quahter ad animalium productionem
-          generanlur per putrefactionem    et per diversarum                   in die sexto sequitur requies ab omni opere in die
- Genus 3. specierum commixtionem. — Quaedam sunt, quae
-          producta sunt et in ralione seminali et in simili,                   septimo.
+                ' Gen.   1 , 20. seqq.                                                     ^<^ Cfr.
+                                                                                               Gen. supra
+                                                                                                     1 , 2i.d. seqq.
+                                                                                                                 1. p. II. a. 2. q. 2.
+               - Scilieet die tertio, iit cxplioatum fuit siipra d. 1-t. p. 11.
+           dub. 1.                                                                          ' Cfr. Aristol., 11. Metapli. tcxl.   10. (1. brev.   c. 2.)   et V.
+                ' Vat. operatiomiiii.                                                 texl. 16. (IV. c. 11.,).
+               * Gen. 1 , 20. seqq. — Dc ordinatione productionis ani-                     * Cfr. supra a. 1. q. 3. in finc corp.
+           malium vide supra a. I. q. 2. seq.
+                                                        DIST. XV. ART. 11. OUAEST. II.
+                                                                                                                                            38o
+             ad ornatum nalui'ae perspicuae; ideo sacra Scri-                 bet '. —    Et sic '
+                                                                                                 patet, quod
+                                                                                                         '   divina sapienlia in pro- (;eneialis.
+                                                                                                                                        condusio
+             ptura dicit, ea facta esse uno die. Quia vero gres-              ductioue sensibdmm conservavit ordinem convenien-
+             sibilia non solum rationalia, sed etiam irrationalia             tissimum.
+             ad ornamentum terrae spectanl et ex eadem raateria                     l. Ad ilhid ergo^ quod primo obiicitur, ' quod soiutio  op-
+                                                                                                                                    positorum.
+             sunt producta, scilicet terra; ideo non in eodeni                elementa simul sunt distincta; dicendum, quod non
+             die, sed alio a praedictis facta sunt, ita quod, sicut           est simile: quia distinctio non est in uno eleinento
+             uno die ornata est natura caelestis, scilicet quarto,            nisi respectu alterius, ideo non potest distingui
+             sic nno die ornetur nalura elementaris perspicua,                unum elementum ab alio, quin alterum distingua-
+             scilicet quinto, et alio terra, scilicet sexto. Et sieut         tur ab eo^; non sic autem est in ornatu, ornatu*
+             natura caelestis praecedit elementarem perspicuam,               enim unius elementi non necessario respicit alterum.
+oiiclnsio i.
+             et perspicua opacam; sic harum naturarum orna-                        ± Ad illud quod obiicitur, quod tria sunt ele-
+             nienta sunt ordine temporis correspondente pro-                  menta, quae ornantur: ergo etc; dicendura, quod
+             ducta.                                                           etsi tria sint, ornatus tamen duorum, scilicet aeris
+                   Secundus autem ordo, qui est inter ea quae                 et aquae, non respicil illa, ut duo sunt, sed ut in
+  Secundus
+ordo.        producta   sunt eodem die, attenditur secundum prae-             uno communicant, scihcet in natura aquea, sicut
+             cellentiam perfectionis naturae; prius enim produ-               determinatum est supra"; et ideo duorum ornatus
+             citur quod imperfectum est, et deinde quod perfe-                ad eandem diem spectat, et productio animalium,
+             ctum, quia is est ordo, ut a minus completo per-                 quae iUa duo eleraenta ornant, in uno die est facta.
+             veniatur ad magis completum '. Et ideo Scriptura                       3. Ad illud quod obiicitur, quod terra prior
+onulusio ' prius dicit esse producta natatilia die quinto, quae               est producta; dicendum, quod falsuin est. Nara in
+             sunl minus perfecta quam volatilia; et similiter in              principio Genesis lerra non accipitur pro eleniento,
+             sexto die prius dicit esse producta irrationalia
+             quam hominem.                                                    sed 4.
+                                                                                   pro Admateria
+                                                                                            illud '.
+                                                                                                  quod obiicitur de igne, quod quia
+                   Quamvis multiplex assignari possit ratio, quare            est praecipuus inter eleraenta, prius deberet ornari;
+ilationes 3,
+aare bomo    homo     post creaturas ceteras est productus ; oc-              dicendum est, quod propter qualitatem activam
+ost omniti currit autem triplex ratio ad praesens, quare post
+roducitur.                                                                    non possunt in eo vivere animalia, et propter ni-
+             omnia productus esl homo; scilicet propler par-                  miam distantiam a nobis * non essent usui hominis
+             tium corporis multitudinem , propter animae et cor-              apta; et ideo non deterniinatur eius ornatus, nec
+             poris distantiam, et propter totius coniuncti per-               post nec antea. Terrae vero ornatus ordinatur po-
+             fectionem. Propter partium corporis multitudinem                 stremo, pro eo quod ipsa est infima et obscura, et
+             deljuit homo ultimo produci. Cum enim corpus eius                ideo maiori indiget ornaraento; et propter hoc or-
+             sit completissimum inter cetera corpora, et quanto               natur plantis et aninialibus et mineralibus, et in
+             aliquid compositius ', tanto posterius, post omnia               eius ornatu consistit totius ornatus compleraentum
+             producendus erat. — Propter animae et corporis                   quanlum ad horainem, qui est praecipuus inter alia'
+             distantiam debuit fieri post cetera. Quia enim distat            animalia.
+             anima a corpore, et non solum sicut forma a ma-                        5. 6. Ad illud vero quod obiicitur, quod honio
+             teria, sed etiam sicut spirituale a corporali et «si-            debuit produci cura Angelis, cum quibus magis
+             cut perpetuum a corruptibili^»; ideo magna distan-               coraraunicat; dicenduin, quod etsi raagis comrauni-
+             tia temporis delmit intervenire iuter productionem               cat, quantura est a parte animae, non tanien quan-
+             hominis quantum ad materiale principium et con-                  tuni esl a parte corporis '". — Siraililer ad sequens
+             iunctionem suarum partium, ut per distantiam tem-                dicenduni est, quod quamvis gressibilia et volatilia
+             poris intelligeretur distantia principiorum consti-              magis comnuuiicent in (bnnali perfectione, non ta-
+             tuentium. — Propter totius compnsiti perfectionem                raen tantum communicant quantura ad elementum,
+             post cetera debuit homo produci. Quia enim homo                  ex quo principaliter constiluuntur et quod ornant;
+             sua dignitate et complemento finis est oranium cor-              quod quidem est elemenlum terrae.
+             poralium ; ideo post orania erat producendus, ut sua                   7. Ad illud quod obiicitur, quod principalius
+             produclione flniret el cornpleret omnia praecedentia,            opus deberet esse prius ; dicendum , quod falsum
+             tanquam finis cnmplet quod ad ipsum ordinari ha-                 est, quia in eis quae producantur, prius est minus
 
 
-                                                                    SCHOLIOK
-              I. Dislinclio duplicis perfeclionis univcrsi, scil. sccundum     d. 13. a. I. q. 1. — De generatione aequivoca, quae coni-
-        ipsius esse permimens et esse deourreiis, eadem esl cum ea             memoratur in solut. od S. 6, cfr. supra d. 8. p. I. a. 2.
-        quae vocalur ab Alex. Hal. (S. p. II. q. 56. m. I.) completio          q. 1 , scliolion. — In fine eiusdem solutionis S. Doctor brevi-
-        secimdmn miilerimn et formami, et completio in ftne. Simililer         ter repetit principales quasdam suas doclrinas de produclio-
-        loquilur B. Alberlus. Haec dislinclio fere coincidit cum ea quae       ne rerum, dislinguens li'ia rerum genera producenda.
-        a S. Thoma in Sum. (I. q. 73. u. I.) dicilur rei perfeclio                   II. Alex. Hal., loc. cii. — S. Tliom. , liic q. 3. a. 1. 2;
-        prima et secunda ; in Commenl. autem (liic q. 3. a. I.)                S. I. q. 7.3. a. 1. 2. — B. Albert., S. p. II. tr. II. q. 66. et
-        idem praeter eandem dislinctionem distinguil etiam |5erfectio-         67. — Petr. a Tar., bic q. 3. a. 1.2, — Ricbard. a Med.,
-        nem totolitatis, el cam quae est cx ratione finis. — De sen-           hic a. S. q. \. — .-Egid. R. , hic q. 2. a. I. 2. — Dionys.
-        tenlia Augustini, quae langitur in solulione ad 3, cfr. supia          Carth. , hic q. 4.
+               ' Cfr. supra p<ig. 330, nota 5.                                ralione supra d. I. lit. Magistri, c. 6; Gregor. Naz., Oratio 37.
+               - Cod. cc et ed. 1 quanto nliquid completius [quod ctiam       n. 17; 42. n. 1.3. seqq. ; i3. n. II.
+         Vat. liabel] el compositius, tanto perfectius et poslerius. Ptiulo         * Cfr. Ari.stot. , 11. Pliys. text. 24. (c. 2.) et V. Metaph.
+         inferius cod. P Item propter pro Propter. — .Alex. Hal., S. p.       text. 21. (IV. c. 16.).
+         II. q. 83. m. 2. ait. : Alia aulem ralio fuit compositio ex mul-           = Vide supra d. 14. p. II. dub. I.
+         tis. Homo enim inter omnes creaturas est composilissimus ,                 " Hic in corp. quaesl. et supra a. I. q. 2. seq.
+         sicut liabetur in libro Kontis vitae (Avicebron)... Propter quod           ' Cfr. supra d. 12. a. I. q. .3. ad 1. 2. et dub. I.
+         dicit isaac in libro de Elemenlis : Homo in natm'ali genera-               * Vide supra pag. 321, nota 4.
+         tione ultimum est.                                                         ^ Pkires codd. cum Vat. omnia alia , cod. aa celera.
+             3 Aristot., II. dc Animn, text. 21. (c. 2.). — Cfr.    de hac          10 Cfr. supra d. 1. p. II. a. 2. q. 2. ad 2.
+                  S. Bomv. — Tnm. II.                                                                                                  49
+          386                                             SENTENTIARUM LIB. II.
 
-                                                       DUBLV CIRC.\ LlTrER.\iVI M.\G1STRL
+         perfeetum quaui magis perfectum secundum ordinem                aiiqua ordinantur ila, quod inter ea cadit ordo es-
+         generationis, quamvis magis perfectuin sil prius se-            sentialis: quando vero est ordo solius congruentiae,,
+         cunduui ordinem dignitatis.                                     sicut in proposito. non est necesse. quod habeat
+              8. Ad illud qnod obiicitur, quod poslerius in-
+         diget priori; dicendum, quod verum est, quando                  verilatem '.
 
 ## English
 
