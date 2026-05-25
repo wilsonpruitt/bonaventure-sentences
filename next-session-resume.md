@@ -1,11 +1,61 @@
-# Next session — **d.15-a1-q1 DONE.** Begin `d15-a1-q2`.
+# Next session — **d.15-a1-q2 DONE.** Begin `d15-a1-q3`.
 
-**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 = 177 chunks promoted.** Build:
-588 translated, 878 quaestio routes. Vol II d.1–d.10 LIVE on
+**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 + d.15-a1-q2 = 178 chunks promoted.** Build:
+589 translated, 878 quaestio routes. Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
 
-## Last session (2026-05-25, third chunk)
+## Last session (2026-05-25, fourth chunk)
+
+Promoted `d15-a1-q2` Tier-2:
+- *Utrum corpora animalium sint composita ex quatuor elementis.*
+  Spans p. 377 R bands 1–2 (`QUAESTIO II.` opener immediately after
+  q1 SCHOLION II ends on p. 377 R band 0; *Ad oppositum* args 1–6 +
+  *Ad oppositum arguitur sic* / *Fundamenta* 1–3) → p. 378 L+R
+  (Fundamenta arg. 4 + CONCLUSIO + Respondeo with *Rationes 4.* +
+  *Corollarium.* on aqua/aer/ignis penetration proportions +
+  *Solutio oppositorum* ad 1–6 with *Notandum.* marginal) → p. 379
+  L+R top (SCHOLION I = Petr. a Tar. / Richard. a Med. / Scot. /
+  S. Thom. / B. Albert. on plurality of forms in mixtions; SCHOLION
+  II = commentator list including Aegid. R., Dionys. Carth., Biel).
+  q3 opens lower on p. 379 in the next chunk.
+- 14 apparatus entries renumbered sequentially across two pages:
+  p. 377 L footer 1–3 = [^1]–[^3] (Gen 1,20 + Aristot. Phys./Metaph./
+  de Anima + Lib. de Causis prop. 17); p. 377 R footer 4–5 = [^4]–
+  [^5] (cross-ref to d. 14. p. II. a. 2. q. 1 + Aristot. II. de
+  Anima text 121 with Vat. *et radicatur* variant); p. 378 L footer
+  1–3 = [^6]–[^8] (organicum + Alex. Hal. compound; Aristot. II. de
+  Anima text 31; Vat. *complexionis*/*dicitur*); p. 378 R footer 4–9
+  = [^9]–[^14] (Cod. cc *profundit* + Aristot. de Gener. et corrupt.;
+  *Quaest. seq.* short cross-ref; Dist. 17. a. 2 + I Sent. d. 17 p. II
+  q. 2 ad 2/3; codices on *formis*/*spiritibus*; Vat. *secundum
+  earum partem*; Aristot. II. de Gener. et corrupt. text 59 with
+  Vat. *materiae vel*). No `[?]` flags — all anchors crisp at 450 dpi.
+  p. 379 carries no q2-side footer (scholion runs above the q3 body;
+  q3 footers will live in `d15-a1-q3`).
+- Marginal labels preserved inline per locked Vol II convention:
+  *Ad oppositum.* (× 2 — once at the affirmative-side opener via
+  the printed marginal and once at the *Ad oppositum arguitur* turn),
+  *Fundamenta.*, *Conclusio.* (× 2 — once as the head before the
+  conclusio block, once embedded inside the Respondeo as the
+  *Conclusio.* marginal), *Rationes 4.*, *Corollarium.*, *Solutio
+  oppositorum.*, *Notandum.*
+- Cross-chunk footer-split check: p. 377 footer was reviewed against
+  `d15-a1-q1` Notes — q1 already absorbed its share (the q1 scholion-
+  side footers anchored at [^28]/[^29] per the q1 hand-off). The 3
+  L-column footer notes used here anchor unambiguously in q2's
+  fundamenta arg. 1/2/3; the 2 R-column notes anchor unambiguously
+  in q2's *Ad oppositum* arg. 4 and *Fundamenta* 1. No q2 footer
+  migrates back to q1.
+- Audits: paraphrase HIGH (expected first-pass over OCR-mangled
+  base); apparatus-count flag cleared for q2 (skeleton flags
+  persist on the four a*/dubia siblings — d15-a1-q3, d15-a2-q1,
+  d15-a2-q2, d15-dubia); header audit Q-LOSS/A-LOSS/DUB-LOSS still
+  fires because the four siblings + dubia are skeleton — clears as
+  those promote.
+- Build: 588 → 589 translated.
+
+## Prior session (2026-05-25, third chunk)
 
 Promoted `d15-a1-q1` Tier-2:
 - *Utrum animae irrationalium sint productae ex aliquo.* Spans
@@ -119,14 +169,15 @@ proceeds without `d15-p1-*` or `d15-p2-*` files; see chunk list below.
 
 ## What to do this session
 
-**Promote `d15-a1-q2`** — second quaestio under ARTICULUS I.
-Opens immediately after the d15-a1-q1 SCHOLION block at p. 377 L
-column lower (`QUAESTIO II.` at raw 26629) → spans into p. 378+.
-Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for
-every Respondeo + footer.
+**Promote `d15-a1-q3`** — third quaestio under ARTICULUS I.
+Opens immediately after the d15-a1-q2 SCHOLION block at p. 379 L
+column mid (`QUAESTIO III. — Utrum corpora animalium magis constent
+ex elementis passivis quam activis.` at raw 26762) → spans into
+p. 380+. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF
+read for every Respondeo + footer.
 
-Remaining d.15 chunk inventory in semantic order after d15-a1-q2:
-`d15-a1-q3`, `d15-a2-q1`, `d15-a2-q2`, `d15-dubia`.
+Remaining d.15 chunk inventory in semantic order after d15-a1-q3:
+`d15-a2-q1`, `d15-a2-q2`, `d15-dubia`.
 (Vol II convention: a short articulus opener like *Consequenter...
 quaeruntur duo...* folds into that article's q1, so no standalone
 `d15-a1-divisio` or `d15-a2-divisio`.)
@@ -142,16 +193,16 @@ q2 body) pending the polish-blocker.
 - ~~`d15-littera`~~ **DONE 2026-05-25.**
 - ~~`d15-divisio`~~ **DONE 2026-05-25.**
 - ~~`d15-a1-q1`~~ **DONE 2026-05-25.**
-- **`d15-a1-q2`** — NEXT.
-- `d15-a1-q3`
+- ~~`d15-a1-q2`~~ **DONE 2026-05-25.**
+- **`d15-a1-q3`** — NEXT.
 - `d15-a2-q1`
 - `d15-a2-q2`
 - `d15-dubia`
 
 ## Tooling status
 
-- 450 dpi PDF crops cached for pp. 274–372 at `/tmp/colcrop/vol2-p*`.
-  Generate p. 373+ as needed.
+- 450 dpi PDF crops cached for pp. 274–379 at `/tmp/colcrop/vol2-p*`.
+  Generate p. 380+ as needed.
 - Manual-rescue chunks (d.11–d.20 boundary sweep) still skeleton:
   d16-a1-q2, d18-dubia, d19-littera. Promote in normal Vol II cadence.
 - Pre-promotion boundary sweep log:
