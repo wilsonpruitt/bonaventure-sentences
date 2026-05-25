@@ -1,36 +1,36 @@
-# Next session — **d.14-p1-littera DONE.** Begin `d14-p1-divisio` (Bonaventure's commentary opens).
+# Next session — **d.14-p1 littera/divisio/a1-q1 DONE.** Begin `d14-p1-a1-q2`.
 
-**d.1–d.13 COMPLETE + d.14-p1-littera = 158 chunks.** Build: 569 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1} = 160 chunks.** Build: 571 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
 ## Last session (2026-05-24)
 
-`d14-p1-littera` promoted Tier-2 — Lombard's *Sententiae* II d. XIV Caps.
-I–X spanning the Pars I → Pars II transition (printed pp. 333–335 = PDF
-355–357). 1,003 Lat words; 13 apparatus entries renumbered continuously
-across three printed pages. Latin re-set column-by-column from 450 dpi
-PDF column-bands. Three `[?]` flags on marginal *Dubium N.* numerals,
-preserved as printed pending the d.11–d.20 polish-blocker 600 dpi pass.
+Three d.14 chunks promoted Tier-2 in a single session:
+- `d14-p1-littera` — Lombard Caps. I–X, pp.333–335, 1,003 Lat words, 13
+  apparatus, three `[?]` *Dubium N.* numeral flags.
+- `d14-p1-divisio` — Commentarius opener, p.335 R col, 303 Lat words,
+  0 apparatus (p.335 R-footer NOTA belongs to a1-q1).
+- `d14-p1-a1-q1` — *Utrum caelum crystallinum sit de natura aquae,*
+  pp.335–338, 2,095 Lat words, 21 apparatus across pp.335–337 footers
+  (p.338 R-footer belongs to a1-q2), 3-section scholion, 1 `[?]` flag
+  on Scholion II Alex. Hal. citation.
+
+Build: 568 → 571 translated.
 
 ## d.14 chunk inventory (in semantic order)
 
 Remaining d.14 chunks to promote, in order:
 
-- **`d14-p1-divisio`** — NEXT. The COMMENTARIUS IN DISTINCTIONEM XIV.
-  opener begins at raw line ~23706 (immediately after the littera ends
-  at `…quarta die facta sunt.`). Per Vol II convention, this chunk holds
-  the COMMENTARIUS header + *De productione insensibilium continentium.*
-  subtitle + lemma + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM + (per Vol II
-  d.1 sessions 8/10/11 lock) the short ARTICULUS I opener (`Circa primum
-  quaeruntur duo… Primo quaeritur de natura caeli crystallini. Secundo
-  de natura caeli firmamenti.`) — but does NOT include `Circa primum sic
-  proceditur` (that is the q1 opener).
-- `d14-p1-a1-q1` — *Utrum caelum crystallinum sit de natura aquae.*
-  Opens at the bottom of p.336 with `Circa primum sic proceditur…`;
-  large quaestio with two-column Respondeo.
-- `d14-p1-a1-q2`
+- **`d14-p1-a1-q2`** — NEXT. *An firmamentum sit idem cum ignis
+  elemento* (or similar — running head opens on p.338 R-2 immediately
+  below q1's Scholion III). Likely runs from p.338 R into p.339 L
+  through p.341 (running head for `DIST. XIV. P. I. ART. II. QUAEST. I.`
+  appears at line 24123 → p.341). Watch: q1's p.338 R-footer notes
+  (Gen 1,2; Gen 1,6; Homil. 3 in Hexaëm.; Vat. *ergo si ipse*) anchor
+  here per the cross-chunk footer-split convention — pick them up as
+  [^1]–[^4] of q2.
 - `d14-p1-a2-q1` *(manual-rescue chunk per boundary-sweep audit)*
 - `d14-p1-a2-q2` *(manual-rescue)*
 - `d14-p1-a3-q1` *(manual-rescue)*
@@ -47,24 +47,26 @@ Remaining d.14 chunks to promote, in order:
 
 ## What to do this session
 
-**Promote `d14-p1-divisio`.** Raw range begins at line ~23706. Per the
-Vol II recipe, find the chunk's frontmatter line range and printed-page
-span (likely pp. 335–336 = PDF 357–358 — text begins mid-p.335 right
-column under `COMMENTARIUS IN DISTINCTIONEM XIV.`). Generate PDF crops if
-not cached (`/tmp/colcrop/vol2-p{335,336}-*.png` may already exist for
-p.335 from the last session; verify p.336).
+**Promote `d14-p1-a1-q2`.** Raw range begins near line 23979 (QUAESTIO
+II running head on p.339). Page span p.338 R bottom → p.341 top. Per
+Vol II recipe, generate PDF crops for pp.339–341 (p.338 crops already
+cached), reset Latin column-by-column, translate, build apparatus.
 
-**Cross-chunk footer-split watch:** the two p.333 Bonaventure-side
-variant footers above the NOTAE divider (*Vat. cum uno alteroque cod.
-quando.* and *Art. 2. q. 2. — Cfr. etiam supra d. I. p. I. dub. 1...*)
-are anchored on the Commentarius side of p.333. They likely belong to
-this `d14-p1-divisio` chunk or to `d14-p1-a1-q1`. Read the body anchors
-and assign correctly per the Vol II cross-chunk footer-split convention.
+**Cross-chunk footer-split watch:** the p.338 R-footer notes (Gen 1,2;
+Gen 1,6; Homil. 3 in Hexaëm.; Vat. *ergo si ipse*) — flagged in
+`d14-p1-a1-q1` Notes — are body-anchored on q2's affirmative-arg side
+and SHOULD be picked up here as q2's [^1]–[^4].
+
+The two p.333 Bonaventure-side variant footers from `d14-p1-littera`
+Notes (*Vat. … quando*; *Art. 2. q. 2. — Cfr. etiam supra d. I. p. I.
+dub. 1...*) remain parked — the "Art. 2. q. 2." cross-reference clearly
+belongs to `d14-p1-a2-q2`. The "Vat. … quando" has no obvious anchor in
+d.14 — may belong elsewhere or be a stray variant note.
 
 ## Tooling status
 
-- 450 dpi PDF crops cached for pp. 274–335 at `/tmp/colcrop/vol2-p*`.
-  Generate p.336+ as needed.
+- 450 dpi PDF crops cached for pp. 274–338 at `/tmp/colcrop/vol2-p*`.
+  Generate p.339+ as needed.
 - Manual-rescue chunks (d.11–d.20 boundary sweep) still skeleton:
   d16-a1-q2, d18-dubia, d19-littera, d14-p2-divisio, d14-p2-a1-q3,
   d14-p1-a2-q1/q2, d14-p1-a3-q1/q2. Promote in normal Vol II cadence.
@@ -79,6 +81,10 @@ From `d14-p1-littera`:
    ambiguity) — `[?]` flag in chunk + Notes block.
 2. Cap. X marginal *Dubium 1.* vs *Dubium 4.* (gutter-crushed digit).
 3. Cap. VII Pars II reset of Dubium numbering — preserved as printed.
+
+From `d14-p1-a1-q1`:
+4. Scholion II at `Alex. Hal., S. p. II. q. 50. m. 1.[?]` — stray glyph
+   (likely `1.` or `n. 1.`) before em-dash to `Scot.` at 450 dpi.
 
 ## Open project-wide TODOs
 
