@@ -1,8 +1,38 @@
-# Next session — **d.18 sixth chunk DONE 2026-05-25.** Begin `d18-a2-q2`.
+# Next session — **d.18 seventh chunk DONE 2026-05-25.** Begin `d18-a2-q3`.
 
-**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 + d18-a1-q2 + d18-a1-q3 + d18-a2-q1 = 207 chunks promoted.** Build: 618 translated, 879 quaestio routes.
+**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 + d18-a1-q2 + d18-a1-q3 + d18-a2-q1 + d18-a2-q2 = 208 chunks promoted.** Build: 619 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.18 sixth chunk — d18-a2-q1 promotion)
+## Last session (2026-05-25, d.18 seventh chunk — d18-a2-q2 promotion)
+
+Promoted `d18-a2-q2` Tier-2:
+- *Utrum animae omnium fuerint simul productae.* Spans p.448 R band 1 (QUAESTIO II opener at raw 31566 immediately after d18-a2-q1 SCHOLION II close) → p.449 (Ad oppositum/*Fundamenta* args 1–5 + CONCLUSIO + Respondeo with *Tres modi dicendi* + *Primus.* Plato-Macrobius circulation + *Reprobatur dupliciter.* + *Secundus.* Manichaei + *Reprobatur* contra fidem/philosophiam/sensibilem experientiam + *Tertius.*) → p.450 (*De anima Adae dubitat Augustinus.* + duplex ratio + *Conclusio.* + Gregorius Nazianzenus/Damascene/de Anima et spiritu + *Solutio obiectorum.* ad 1–4) → p.451 L band 1 (ad 4 close *finis in intentione/executione* + ad 5 *absque dolore* + *Posset tamen dici* + single SCHOLION close at raw 31766 immediately before QUAESTIO III).
+- **24 apparatus entries [^1]–[^24].** p.448 L-2 ¹–⁴ (forwarded from d18-a2-q1) = [^1]–[^4]; p.448 R-2 ⁵–⁷ = [^5]–[^7]; p.449 L-2 ¹–⁵ = [^8]–[^12]; p.449 R-2 ⁶–¹¹ = [^13]–[^18]; p.450 L-2 ¹–⁵ = [^19]–[^23] (with [^23] absorbing the long Albert-via-Damascene Greg.Naz./Greg.Nyss. apparatus + *de Hominis opificio* + *de Spiritu et anima* p.450 R-2 inline gloss); p.451 L-2 ¹ (Phys 89 / Metaph 23 / de Anima 49) = [^24] anchored at ad 4 *executione*. Notable: [^11] Plato *Timaeus* + *Phaedrus* triplex-status-animae + Macrobius *Somnium Scip.* c.14+21 block; [^15] Aug. *de Haeresibus* c.70 Priscillianistae+Origenes; [^20] long Aug. multi-citation VI *de Gen ad lit* + *de Anima et eius origine* + Epist. 166+190 block; [^23] long Greek-ἔπρεπε apparatus on Gregory Nazianzen vs Gregory Nyssen reading.
+- Marginal labels preserved inline: *Ad oppositum.*, *Fundamenta.*, *Tres modi dicendi.*, *Primus.*, *Reprobatur dupliciter.*, *Secundus.*, *Reprobatur.* (Manichaei), *Tertius.*, *De anima Adae dubitat Augustinus.*, *Conclusio.*, *Solutio obiectorum.* (eleven labels).
+- `has_scholion: true` — single SCHOLION (no II split) — doctrinal recap to d.17 a.1 q.3 + commentator list (Alex. Hal. + Scotus + S. Thom. + B. Albert + Petr. a Tar. + Richard. a Med. + Aegid. R. + Durand. + Dionys. Carth. + Biel).
+- **One `[?]` flag:** Q2 ad 5 body anchor `²` at *absque dolore²* on p.451 L-1 has no matching p.451 L-2 footer (visible L-2 jumps from ¹ Phys 89 — Q2 ad 4 *executione* — directly to ² *Cfr. infra d. 19* — Q3 arg 6). Either a stray punctuation artifact or the `²` rides into Q3's footer block as the *infra d. 19* note. Decade-polish 600 dpi pass for d.11–d.20 to resolve.
+- Cross-chunk hand-off: received p.448 L-2 ¹–⁴ from d18-a2-q1 (folded as [^1]–[^4]). Forward hand-off to d18-a2-q3: **none** — p.451 L-2 ²–³ + R-2 ⁴–⁷ all anchor in Q3 args.
+- Audits: paraphrase HIGH (2 chunks, expected first-pass); apparatus-count flag CLEARED for d18-a2-q2 (diff -6, not flagged); header audit DUB-LOSS -2 persists pending d18-dubia.
+- Build: 618 → 619 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d18-a2-q3`** — eighth d.18 chunk. QUAESTIO III opens on p.451 R band 1 at raw 31767 with `QUAESTIO III.` + italic title *Utrum anima rationalis sit ex traduce.* + opener `Tertio quaeritur, supposito, quod animae producantur successive, utrum anima rationalis sit ex traduce. Et quod sic, videtur: 1. Genesis quadragesimo sexto: Omnes animae, quae egressae sunt de femore Iacob, sunt septuaginta duo…` No cross-chunk footer migrates from d18-a2-q2. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.451 crops cached at `/tmp/colcrop/vol2-p451-*`; generate p.452+ as needed.
+
+**⚠ d18-dubia is a remaining manual-rescue chunk per the d.11–d.20 boundary-sweep audit — keep this flag visible until d18-dubia clears.**
+
+## d.18 chunk inventory (in semantic order)
+
+- ~~`d18-littera`~~ **DONE 2026-05-25.**
+- ~~`d18-divisio`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q3`~~ **DONE 2026-05-25.**
+- ~~`d18-a2-q1`~~ **DONE 2026-05-25.**
+- ~~`d18-a2-q2`~~ **DONE 2026-05-25.**
+- **`d18-a2-q3`** — *Utrum anima rationalis sit ex traduce.* — NEXT. (skeleton)
+- `d18-dubia` (skeleton; ⚠ manual-rescue)
+
+## Prior session (2026-05-25, d.18 sixth chunk — d18-a2-q1 promotion)
 
 Promoted `d18-a2-q1` Tier-2:
 - *Utrum animae omnium hominum sint una substantia, an diversae.* Spans p.444 L-1 at raw 31292 (`ARTICULUS II.` + subtitle *De productione animae Evae aliorumque hominum.* + opener `Consequenter quaeritur de secundo articulo…` + 3-question sub-divisio folded in per locked Vol II Override step 5 + QUAESTIO I opener) → p.444 R-1 (Ad oppositum args 1–3) → p.445 (Ad oppositum args 4–6 + Contra/Fundamenta args 1–6 partial) → p.446 (CONCLUSIO + Respondeo with *Error 1.* Pythagoras/Varro anima-est-Deus + *Reprobatur* + *Error 2.* Averroes unitatem-intellectus + *Rationes 2.* + Commentator-tripartition quotation *intellectus recipiens/efficiens/factum* + Aristoteles-interpretatio + intellectus *adeptus*) → p.447 (*Reprobatur triplici ratione* contra christianam-religionem/rectam-rationem/sensibilem-experientiam + *Conclusio* + *Solutio oppositorum* ad 1–6 with *Notandum* ×4 on indigentia/manifestatio-bonitatis-divinae/species-singularis-accidens/duo-specula) → p.448 L-0 (Notandum close at *adiuvetur per radium fidei.* + SCHOLION I Arab-philosophers + Parisian condemnations + Scotus + Albert + Aquinas + Henr. Gand. Aristoteles-undecidedness) + p.448 R-0 (SCHOLION II commentator list close at raw 31565 immediately before QUAESTIO II at raw 31566).
