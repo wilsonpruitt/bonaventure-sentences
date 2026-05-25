@@ -1,11 +1,39 @@
-# Next session — **d.15-littera DONE.** Begin `d15-divisio`.
+# Next session — **d.15-divisio DONE.** Begin `d15-a1-q1`.
 
-**d.1–d.14 + d.15-littera = 175 chunks promoted.** Build: 586 translated,
-878 quaestio routes. Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com
-since 2026-05-23; per "deploy after each decade ships" rule, the next
-live ship is at end-of-d.20.
+**d.1–d.14 + d.15-littera + d.15-divisio = 176 chunks promoted.** Build:
+587 translated, 878 quaestio routes. Vol II d.1–d.10 LIVE on
+bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
+decade ships" rule, the next live ship is at end-of-d.20.
 
-## Last session (2026-05-25)
+## Last session (2026-05-25, second chunk)
+
+Promoted `d15-divisio` Tier-2:
+- *Commentarius in Distinctionem XV — De productione mixtorum et
+  sensibilium sive animalium.* Single-page chunk on p. 372 below the
+  d15-littera tail (`completum et consummatum vidit.`) at the
+  *COMMENTARIUS IN DISTINCTIONEM XV.* opener (raw 26280) → DIVISIO
+  TEXTUS (3-part split, then 2/2/2 sub-split) → TRACTATIO QUAESTIONUM
+  (2 quaestiones; the first sub-divides into 3 articles) → close at
+  *Circa primum quaeruntur tria. … an e contrario.* immediately before
+  `ARTICULUS 1.` at raw 26310. Per locked Vol II convention the
+  divisio holds DIVISIO TEXTUS + TRACTATIO QUAESTIONUM (+ the
+  first-article sub-divisio fold-in).
+- 2 apparatus entries from p.372 commentary-side footer ([^1] = Vat.
+  *simplicium et insensibilium.* anchored at `productione rerum
+  insensibilium¹`; [^2] = Vat. *dubitationes duas. Unam, ibi:
+  Quaeri solet de venenosis. Aliam, ibi: De quibusdam etiam minutis.*
+  anchored at `solvit dubitationem²`). Picked up the cross-chunk
+  hand-off from d15-littera (which flagged footer ¹ as belonging
+  here); footer ² also anchored in divisio. Footers ³–⁴ migrate to
+  d15-a1-q1 (Fundamenta arg. 1 + arg. 2). No `[?]` flags — both
+  anchor positions crisp at 450 dpi.
+- Audits: paraphrase HIGH (expected first-pass); apparatus-count flag
+  cleared for divisio (skeleton flags persist on a*/dubia siblings);
+  header audit Q-LOSS / A-LOSS expected (divisio has no
+  ART/QUAEST/DUB headers — clears as the article quaestiones promote).
+- Build: 586 → 587 translated.
+
+## Prior session (2026-05-25, first chunk)
 
 Promoted `d15-littera` Tier-2:
 - *Distinctio XV — Littera Magistri*, Cap. I–X (10 capitula),
@@ -53,20 +81,24 @@ proceeds without `d15-p1-*` or `d15-p2-*` files; see chunk list below.
 
 ## What to do this session
 
-**Promote `d15-divisio`** — the *COMMENTARIUS IN DISTINCTIONEM XV.*
-opening at p. 372 L–R band 0 below the littera tail. Standard
-divisio-chunk pattern applies (DIVISIO TEXTUS + TRACTATIO
-QUAESTIONUM listing three articles, each with three questions, plus
-the d.15 dubia at the end). The d.15-divisio raw range covers the
-COMMENTARIUS title (raw 26280) through the closing of the *Circa
-primum quaeruntur tria.* triad list just before `ARTICULUS 1.` at
-raw 26496 (approx).
+**Promote `d15-a1-q1`** — *Utrum animae irrationalium sint productae
+ex aliquo.* Opens at p. 372 L column foot (`ARTICULUS 1.` at raw
+26310) → `QUAESTIO I.` → spans p. 372 R column band 2 down + onward.
+Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for
+every Respondeo + footer; pick up p.372 commentary-side footer notes
+³ (`Gen. 1, 20. — Seq. textus ibid. v. 24. — Paulo … rius ex
+nonnullis codd. cum ed. 1 verbis cum aqua praemissis …`) and ⁴
+(`Secundum antiquam divisionem librorum de Animalibus. Nunc est II.
+de Generat. animal. c. 3: Restat igitur, ut mens sola extrinsecus
+accedat eaque sola divina sit.`) — anchored at *textum
+Scripturae³* (arg. 1) and *de Animalibus decimo sexto⁴* (arg. 2)
+respectively, per the d15-divisio Notes hand-off.
 
-After `d15-divisio`, the d.15 chunk inventory in semantic order is:
-`d15-a1-q1`, `d15-a1-q2`, `d15-a1-q3`, `d15-a2-q1`, `d15-a2-q2`,
-`d15-dubia`. (Vol II convention: a short articulus opener like
-*Consequenter... quaeruntur duo...* folds into that article's q1, so
-no standalone `d15-a1-divisio` or `d15-a2-divisio`.)
+Remaining d.15 chunk inventory in semantic order after d15-a1-q1:
+`d15-a1-q2`, `d15-a1-q3`, `d15-a2-q1`, `d15-a2-q2`, `d15-dubia`.
+(Vol II convention: a short articulus opener like *Consequenter...
+quaeruntur duo...* folds into that article's q1, so no standalone
+`d15-a1-divisio` or `d15-a2-divisio`.)
 
 The "Vat. … quando" parked footer from `d14-p1-littera` Notes still
 has no obvious d.14 anchor — defer to the polish-blocker. The
@@ -77,8 +109,8 @@ q2 body) pending the polish-blocker.
 ## d.15 chunk inventory (in semantic order)
 
 - ~~`d15-littera`~~ **DONE 2026-05-25.**
-- **`d15-divisio`** — NEXT.
-- `d15-a1-q1` — *Utrum animae irrationalium sint productae ex aliquo.*
+- ~~`d15-divisio`~~ **DONE 2026-05-25.**
+- **`d15-a1-q1`** — *Utrum animae irrationalium sint productae ex aliquo.* — NEXT.
 - `d15-a1-q2`
 - `d15-a1-q3`
 - `d15-a2-q1`
