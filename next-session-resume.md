@@ -1,12 +1,42 @@
-# Next session — **d.18 COMPLETE 2026-05-25.** Begin d.19 first chunk `d19-littera` (⚠ manual-rescue).
+# Next session — **d.19 first chunk d19-littera DONE 2026-05-25.** Begin `d19-divisio`.
 
-**d.1–d.18 ALL DONE = 210 chunks promoted.** Build: 621 translated, 879 quaestio routes.
+**d.1–d.18 ALL DONE + d19-littera DONE = 211 chunks promoted.** Build: 622 translated, 879 quaestio routes.
 
 **⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence).
 
-**⚠ d19-littera is the remaining manual-rescue chunk per the d.11–d.20 boundary-sweep audit** — keep this flag visible until d19-littera clears.
+**Manual-rescue list for d.11–d.20 is now EMPTY.** (d19-littera, the last manual-rescue chunk per the d.11–d.20 boundary-sweep audit, cleared 2026-05-25.)
 
-## Last session (2026-05-25, d.18 ninth/FINAL chunk — d18-dubia promotion, manual rescue)
+## Last session (2026-05-25, d.19 first chunk — d19-littera promotion, manual rescue cleared)
+
+Promoted `d19-littera` Tier-2 (**manual-rescue per d.11–d.20 boundary-sweep audit — list now empty**):
+- *Distinctio XIX — Littera Magistri.* Six capitula (Cap. I–VI) covering the *triplex status* doctrine (ante peccatum / post peccatum / in resurrectione), the *animale corpus / mortuum / immortale* glosses, the *posse non mori* from-tree-or-from-nature dispute, and the *prima vs. secunda immortalitas* distinction with long Augustine *de Gen. ad lit.* III/VIII quotes. Spans p.455 L-0/L-1 (DISTINCTIO XIX. + Cap. I opener *Solent quaeri plura de primo hominis statu...* at raw 32025) → p.455 R-1 (Cap. II *In primo statu fuit corpus hominis animale* + Cap. III *Corpus hominis ante peccatum mortale et immortale erat* + Beda Hexaem.) → p.456 L-1 (Cap. IV *Utrum immortalitas... de conditione naturae an ex gratiae beneficio* + Cap. V *Si posset homo semper vivere*) → p.456 R-1 (Cap. VI *De immortalitate corporis prima et secunda* + long Augustinus *de Gen. ad lit* III/VIII quotes + close at *diligenter inquirant* at raw 32178 immediately before `COMMENTAmUS IN DISTINCTIONEM XIX.` at raw 32179). Skeleton boundaries verified correct (32025–32178); no boundary correction needed.
+- **10 apparatus entries [^1]–[^10].** Page-split map: p.455 L-2 (under *NOTAE AD LIBR. SENTENTIARUM* lemma) ¹ Hugo+Augustine = [^1]; p.455 R-2 ²–⁵ (Rom 8,10 + Libr. VI c.22 + Cfr. I Cor. 15 with BDE/edd.1,8 *renovabimur* variant + Libr. I Hexaem. ad Gen 2,17) = [^2]–[^5]; p.456 L-2 ¹ (Libr. VI c.25 n.36) = [^6]; p.456 R-2 ²–⁵ (Libr. III c.21 + Bede/Glossa + Ed.1 *ut posset non mori* variant + Libr. VIII c.3 + Cfr. c. IV huius dist.) = [^7]–[^10]. The TWO footers on p.455 L-2 ABOVE the *NOTAE AD LIBR. SENTENTIARUM* lemma belong to d18-dubia (its *Rationes 6* tail) and stay there.
+- Marginal labels preserved inline per locked Vol II convention: *Duplex sensus mortalis et immortalis.*, *Dubium 1./2./3.*, *Augustinus.* (×3), *Beda.*, *Opinio quorundam.* (×2), *Opinio 1./2.*, *Non apparet.* (twelve labels).
+- `has_scholion: false` — littera chunks carry no SCHOLION by design.
+- No `[?]` flags — all 10 anchors crisp at 450 dpi across pp.455–456. Running heads on p.455 / p.457 OCR-mangled as `4S5` / `4S7` (5→S glyph confusion); trust the +22 PDF-printed offset.
+- Cross-chunk hand-off: received nothing from d18-dubia. Forward hand-off to d19-divisio: **none** — d19-divisio opens p.457 L-1 with its own `COMMENTAmUS IN DISTINCTIONEM XIX.` at raw 32179 with its own fresh apparatus block.
+- Audits (d.19 first-pass): paraphrase HIGH (8 chunks: 7 sibling skeletons + d19-littera first-pass smell — expected); apparatus-count flag CLEARED for d19-littera (diff +12, no flag); header audit Q-LOSS A-LOSS fires because d.19 a*/dubia/divisio siblings are skeleton — clears as those promote.
+- Build: 621 → 622 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d19-divisio`** — second d.19 chunk. COMMENTARIUS opens on p.457 L-1 at raw 32179 with `COMMENTAmUS IN DISTINCTIONEM XIX.` + subtitle *De hominis immortalitate.* + lemma *Solent quaeri plura de primo hominis statu etc.* + DIVISIO TEXTUS (*Supra egit Magister de hominis productione; in hac parte agit de hominis duratione et conservatione...*) + TRACTATIO QUAESTIONUM + ARTICULUS I header + ART. I sub-divisio (per locked Vol II Override step 5). p.457 crops cached at `/tmp/colcrop/vol2-p457-*`.
+
+**⚠ Manual-rescue list for d.11–d.20 is EMPTY** as of 2026-05-25 with d19-littera promotion. Decade-polish-blocker (d.11–d.20) still pending — schedule alongside d.19 dispatch.
+
+## d.19 chunk inventory (in semantic order)
+
+- ~~`d19-littera`~~ **DONE 2026-05-25 (manual-rescue cleared).**
+- **`d19-divisio`** — NEXT. (skeleton)
+- `d19-a1-q1` (skeleton)
+- `d19-a1-q2` (skeleton)
+- `d19-a2-q1` (skeleton)
+- `d19-a2-q2` (skeleton)
+- `d19-a3-q1` (skeleton)
+- `d19-a3-q2` (skeleton)
+- `d19-dubia` (skeleton)
+
+## Prior session (2026-05-25, d.18 ninth/FINAL chunk — d18-dubia promotion, manual rescue)
 
 Promoted `d18-dubia` Tier-2 (**manual-rescue per d.11–d.20 boundary-sweep audit**):
 - *Dubium circa litteram Magistri (Dist. XVIII).* Single DUBIUM (no I–V split). Spans p.454 L-1 (lower half) at raw 31978 immediately after Q3 SCHOLION II close (`Biel, II. Sent. d. 17. q. 1.`) with `DUBIUM CIRCA LITTERAM MAGISTRI.` header + opener *Posset tamen aliquis dubitare de hoc quod dicit, quod mulier de costa facta est eo miraculo, quo de quinque panibus etc.* (deferral of *de miraculis* discussion to d.31 + statement that *supra* naturam ≠ *contra* naturam) + *Adiungitur quaestio* on Angeli-ministerium with Aug. *de Gen ad lit* IX c.6 lengthy quote + *Rationes 6 pro unitate generis humani* tripartite (ex *ordine* dupliciter + ex *connexione* dupliciter + ex *significatione* dupliciter) → p.454 R-1 (Rationes 1+2 ex ordine corporis ad animam + totius coniuncti ad alias creaturas, plus Ratio 3 opener) → p.455 L-0/R-0 top (Ratio 4 *carne una* + Ratios 5+6 *allegorica* / *anagogica* close at *qui fuit principium omnium rerum*) immediately before `DISTINCTIO XIX.` at raw 32047. **Boundary correction:** the skeleton's `line_end: 32016` was too short (raw 32016 is a page-top running head *DISTINCTIO XIX.*, not the real d.19 header); the true span is **raw 31978–32046**, capturing the full p.455 tail before the real DISTINCTIO XIX at raw 32047.
