@@ -1,6 +1,38 @@
-# Next session — **d.20 third chunk d20-a1-q1 DONE 2026-05-25.** Begin `d20-a1-q2`.
+# Next session — **d.20 fourth chunk d20-a1-q2 DONE 2026-05-25.** Begin `d20-a1-q3`.
 
-**d.1–d.19 ALL DONE + d20-littera + d20-divisio + d20-a1-q1 DONE = 222 chunks promoted.** Build: 633 translated, 879 quaestio routes.
+**d.1–d.19 ALL DONE + d20-littera + d20-divisio + d20-a1-q1 + d20-a1-q2 DONE = 223 chunks promoted.** Build: 634 translated, 879 quaestio routes.
+
+## Last session (2026-05-25, d.20 fourth chunk — d20-a1-q2 promotion)
+
+Promoted `d20-a1-q2` Tier-2:
+- *Utrum in statu innocentiae in commixtione fuisset seminum decisio.* Spans p.479 R-1 at raw 33705 (`QUAESTIO II.` + italic title + opener *Secundo quaeritur, utrum in illa commixtione esset seminum decisio* + Ad oppositum args 1–4 Damasc. *Generare est de substantia sua aliquem producere* + filius-materialiter-pater-mater + vir-fecundaret-mulierem-alimenti-superfluum + vasa-susceptibilia-idonea-humoris-seminarii) → p.480 (Sed contra args 1–4 superfluum-nutrimenti-vitiositas + tertiae-digestionis-vs-secundae-stercus-urina + conveniens-vs-non-conveniens-complexioni + actualis-decisio-via-ad-corruptionem + CONCLUSIO + Respondeo *materialis/efficientis* sex-role distinction with *ratio materialis penes mulierem* + *efficientis sive activi penes virum* + Solutio oppositorum ad 1–4 *superfluitas residuitatis vs impuritatis* twofold + *debilitate virtutis contentivae* vs *nutrimenti qualitate et nutriti puritate* sub-distinction + *salvans ipsam in se vs salvans eam in altero* close at *quae ad hoc possunt adduci* at raw 33791 immediately before `QUAESTIO III.` at raw 33792).
+- **9 apparatus entries [^1]–[^9].** p.479 L-2 ¹–³ = [^1]–[^3] (Damasc. I *de Fide orthod.* c.8 *Generare-substantia* + Cfr. Aristot. I *de Gen. anim.* c.18 + d.15.a.1.q.1 + d.18.a.1.q.2.seq cross-refs + Secundum Aristot. ibid); p.479 R-2 ⁴–⁶ = [^4]–[^6] (Plurimi codd. *descindere* variant + long Aristot. I *de Gen. anim.* c.18 semen-as-superfluitas-ultimi-nutrimenti + Avicenna III *Canon* Fen 20.tr.1.c.3 *sperma quartae digestionis* gloss + Plurimi codd. *descindebat/decindebat* variant); p.480 L-2 ¹–³ = [^7]–[^9] (Vat. *complexioni* + long [^8] *nutrimenti puritate* vs Vat. *impuritate* + *puritatis nutritivae* confirmation + Vat. *sicut* omission of *nunc* sense-corruption + Vat. *et non* variant).
+- Marginal labels preserved inline per locked Vol II convention: *Ad oppositum.*, *Conclusio.*, *Solutio oppositorum.*, *Subdistinctio.*, *Distinctio solvenda.*
+- `has_scholion: false` — scholion sits with d20-a1-q1 (commentator catalog + Augustinian *plus curiositatis quam utilitatis* aside). Per Vol II Override step 5, no-scholion is normal when sibling's scholion covers the article.
+- No `[?]` flags — all 9 anchors crisp at 450 dpi across pp.479–480. OCR cascade-fragmented through the *Ad oppositum* arg-3 + entire Respondeo (*materialis/efficientis* distinction) + four-part Solutio (*superfluitas residuitatis* vs *impuritatis*); column-band PDF read authoritative per Vol II Override step 1.
+- Cross-chunk hand-off: received NONE from d20-a1-q1. Forward hand-off to d20-a1-q3: p.480 R-2 footers ⁴ (*Vide scholion ad praecedentem quaest.*) + ⁵ (Avicenna VIII *Metaph.* c.7 *delectatio est ex coniunctione convenientis cum convenienti et sensu eiusdem* definition + tom.I pag.38 nota 4 cross-ref) + ⁶ (Cfr. Aristot. X *Ethic.* c.4) + ⁷ (Alex. Hal. *S. p. II. q. 89. m. 2. addit rationem: et hoc, quia maioris harmoniae et maioris vigoris praediti erant sensus illius*) migrate forward — they anchor in Q3 *Ad oppositum* args 2–4 opening on p.480 R-1 mid-page.
+- Audits (d.20 fourth-pass): paraphrase 1 CRITICAL / 4 HIGH (5 sibling skeletons remaining — d20-a1-q2 lands in OK); apparatus-count flag CLEARED for d20-a1-q2 (not in flagged list); header Q-LOSS A-LOSS persists pending sibling promotions.
+- Build: 633 → 634 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d20-a1-q3`** — fifth d.20 chunk. *Utrum in emissione seminis in statu innocentiae fuisset delectationis intensio.* QUAESTIO III opens on p.480 R-1 (mid-page) at raw 33792 with `QUAESTIO III.` + italic title *Utrum in emissione seminis in statu innocentiae fuisset delectationis intensio.* + opener *Tertio quaeritur, utrum in illa seminis emissione esset delectationis intensio. Et quod sic, videtur.* + Ad oppositum args 1–4 (natura-bene-disposita-superfluum-emittere + Avicenna VIII *Metaph.* *delectatio est ex coniunctione convenientis cum convenienti et sensu eiusdem* + unaquaeque-virtus-cognoscitiva-delectatur-facilitate-completione + oculus-Adae-plus-delectabatur-aspectu-lucis Alex. Hal. *maioris harmoniae et maioris vigoris*). Per the d20-a1-q2 forward hand-off, p.480 R-2 footers ⁴–⁷ migrate here as [^1]–[^4]. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.480 crops cached at `/tmp/colcrop/vol2-p480-*`; generate p.481+ as needed.
+
+## d.20 chunk inventory (in semantic order)
+
+- ~~`d20-littera`~~ **DONE 2026-05-25.**
+- ~~`d20-divisio`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q2`~~ **DONE 2026-05-25.**
+- **`d20-a1-q3`** — *Utrum in emissione seminis in statu innocentiae fuisset delectationis intensio.* — NEXT. (skeleton)
+- `d20-a1-q4` (skeleton)
+- `d20-a1-q5` (skeleton)
+- `d20-a1-q6` (skeleton)
+- `d20-dubia` (skeleton)
+
+---
+
+## Prior session (2026-05-25, d.20 third chunk — d20-a1-q1 promotion)
 
 ## Last session (2026-05-25, d.20 third chunk — d20-a1-q1 promotion)
 
