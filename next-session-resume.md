@@ -1,7 +1,70 @@
-# Next session — **d16-a2-q2 DONE.** Begin `d16-a2-q3`.
+# Next session — **d16-a2-q3 DONE.** Begin `d16-dubia`.
 
-**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 + d16-a1-q2 + d16-a1-q3 + d16-a2-q1 + d16-a2-q2 = 190 chunks promoted.** Build: 601 translated,
+**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 + d16-a1-q2 + d16-a1-q3 + d16-a2-q1 + d16-a2-q2 + d16-a2-q3 = 191 chunks promoted.** Build: 602 translated,
 879 quaestio routes.
+
+## Last session (2026-05-25, d.16 eighth chunk — d16-a2-q3 promotion)
+
+Promoted `d16-a2-q3` Tier-2:
+- *Utrum imago principalius sit in cognitiva quam in affectiva.* Spans
+  p.404 L band 0 bottom (QUAESTIO III header + italic title + opener
+  *Tertio quaeritur, utrum imago principalius sit in cognitiva quam in
+  motiva sive affectiva.*, immediately after q2 *Ad arg. 1, 2 ad
+  oppositum* close at *accidentaliter.*; raw 28474) → p.404 L bands 1–2
+  (*Fundamenta* args 1–4 + *Ad opposit.* args 1–3 begin) → p.404 R
+  bands 0–2 (q2 ad-arg close on R-0 top; *Ad opposit.* arg 4 + *Quaestio
+  incidens 1* (Iuxta hoc quaeritur quae sit differentia inter imaginem
+  et similitudinem) + *Quaestio incidens 2* (Item cum duae sint potentiae
+  ex parte affectionis) closing at *in rationali.*) → p.405 L (CONCLUSIO
+  + Respondeo *de prima nominis impositione differt* + *Triplex modus
+  distinguendi.* with *Primus/Secundus/Tertius* and embedded *Conclusio
+  1./2.*) → p.405 R (*Ad 2. quaestionem incidentem.* + Solutio opposit.
+  ad 1, ad 2 begin) → p.406 L (ad 2 close + ad 3 + ad 4 with *Notandum.*
+  + SCHOLION I open) → p.406 R bands 0–1 (SCHOLION I close + SCHOLION II
+  commentator list, closing immediately before `DUBIA CIRCA LITTERAM
+  MAGISTRI` opener at raw 28638).
+- **16 apparatus entries [^1]–[^16].** Page-split map: p.404 L
+  footers 4–7 = [^1]–[^4] (inherited per q2 forward hand-off: Libr.
+  de Spiritu et anima c. 10 + Cfr. I Sent. d. 31. p. II. q. 2 + Vide
+  infra pag. 405 nota 2 + Cfr. infra d. 26 q. 5); p.404 R footers
+  8–11 = [^5]–[^8] (Vide supra pag. 115 nota 6 + Quaest. 74 + Vide
+  tom. I pag. 197 nota 6 + Cfr. III. Sent. d. 23 a. 1 q. 2); p.405 L
+  footers 1–3 = [^9]–[^11] (Aristot. de Praedicam. de Qualitate +
+  Gen. 1, 26 / Hugo I de Sacram. p. VI c. 2 + Cfr. August. IX de Trin.
+  c. 12 n. 17 with Vat. *donationis* pro *derivationis*); p.405 R
+  footers 4–6 = [^12]–[^14] (I Sent. d. 3 p. II a. 1 q. 1 ad 4 +
+  Duplex proprietas August. XIV de Trin. c. 3 n. 6 + cod. cc *informet*
+  pro *reformet* + Vat. *magis*); p.406 L footers 1–2 = [^15]–[^16]
+  (Vat. *nobilissimum* + cod. W *considerationem* pro *conditionem*
+  + Plures codd. cum edd. 1–4 *utramque* non recte). p.406 L footer 3
+  (August. II de Trin. c. 10 n. 18) anchors in d16-dubia DUB I body,
+  does NOT migrate.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Fundamenta.*, *Ad oppositum.*, *Quaestio incidens 1./2.*,
+  *Conclusio.*, *Triplex modus distinguendi.*, *Primus./Secundus./
+  Tertius.*, *Conclusio 1./2.*, *Ad 2. quaestionem incidentem.*,
+  *Solutio oppositorum.*, *Notandum.*
+- `has_scholion: true` — SCHOLION I substantial doctrinal scholion on
+  imago creationis / recreationis (reformationis) distinction with
+  vestigium/imago/similitudo grades; SCHOLION II = q3-specific
+  commentator list.
+- Forward hand-off to d16-dubia: p.406 L footer 3 + p.406 R footers
+  4+ migrate to DUB I body. p.404 q3-side footers do NOT migrate.
+- No `[?]` flags — all 16 anchors + 11 marginal labels crisp at
+  450 dpi across pp.404–406.
+- Audits: paraphrase HIGH (expected first-pass); apparatus-count
+  flag CLEARED for q3 (only d16-dubia +23 skeleton flag persists);
+  header audit DUB-LOSS still fires because d16-dubia is skeleton —
+  clears as it promotes.
+- Build: 601 → 602 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d16-dubia`** — final d.16 chunk. DUBIA CIRCA LITTERAM
+MAGISTRI opens at raw 28638 on p.406 R band 1 with `Dub. I.` immediately
+after d16-a2-q3 SCHOLION II close. Standard Vol II Tier-2 procedure.
+Cross-chunk hand-off received from q3: p.406 L footer 3 + p.406 R
+footers 4+ migrate here. d.16 closes with this chunk.
 
 ## Last session (2026-05-25, d.16 seventh chunk — d16-a2-q2 promotion)
 
@@ -319,8 +382,8 @@ column-band PDF read. p.403 crops already cached at
 - ~~`d16-a1-q3`~~ **DONE 2026-05-25.**
 - ~~`d16-a2-q1`~~ **DONE 2026-05-25.**
 - ~~`d16-a2-q2`~~ **DONE 2026-05-25.**
-- **`d16-a2-q3`** — *Utrum imago principalius sit in cognitiva quam in affectiva.* — NEXT. (skeleton)
-- `d16-dubia` — (skeleton)
+- ~~`d16-a2-q3`~~ **DONE 2026-05-25.**
+- **`d16-dubia`** — DUBIA CIRCA LITTERAM MAGISTRI (DUB I–?). — NEXT. (skeleton)
 
 ## Last session (2026-05-25, ninth chunk — d15-dubia promotion; d.15 CLOSED)
 
