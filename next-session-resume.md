@@ -1,4 +1,44 @@
-# Next session — **d.19 third chunk d19-a1-q1 DONE 2026-05-25.** Begin `d19-a1-q2`.
+# Next session — **d.19 fourth chunk d19-a1-q2 DONE 2026-05-25.** Begin `d19-a2-q1`.
+
+**d.1–d.18 ALL DONE + d19-littera + d19-divisio + d19-a1-q1 + d19-a1-q2 DONE = 214 chunks promoted.** Build: 625 translated, 879 quaestio routes.
+
+**⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence).
+
+**Manual-rescue list for d.11–d.20 is EMPTY.**
+
+## Last session (2026-05-25, d.19 fourth chunk — d19-a1-q2 promotion)
+
+Promoted `d19-a1-q2` Tier-2:
+- *Utrum quaevis anima, etiam brutalis, ex prima conditione fuerit immortalis.* Spans p.461 R-1 (lower half) at raw 32485 with `QUAESTIO II.` + italic title + opener *Secundo quaeritur, utrum omnis anima…* + Ad oppositum args 1–3 (Eccles 3:19 *Unus est interitus hominis et iumentorum* + Sap 1:13 *Deus mortem non fecit* + ratione *per hypothesim* with Aristot.III.Topic block) → p.462 (args 4–6 Augustinus/Philosophus-oculus/homo-servit-Deo + Contra/Fundamenta args 1–4 + CONCLUSIO + Respondeo with *Opinio 1.* metempsychosis-reprobatur + *Opinio 2.* impedimentum-durationis + *Sed improbatur tripliciter.* Aug.de-Gen-ad-lit-III animalia-de-rapina + rationi + imaginationi) → p.463 (Improbatur close + *Opinio 3. et Conclusio.* + *Ratio ex fine principali.* *Universa propter semetipsum operatus est Dominus* + *Haec duplex.* esse-decurrens-vs-permanens + *Ratio secundaria.* triplex-status-creaturarum-via/patria + *Solutio oppositorum.* ad 1 Eccles + ad 2 Sap + ad 3 sensibile-in-homine-vs-brutis) → p.464 L-1 (ad 4 lapis-plus-durat-modo + ad 5 senescit-ratione-corporis + ad 6 servitium-laudabile close at *Et sic patet illud.* at raw 32662 immediately before `ARTICULUS II.` at raw 32663).
+- **23 apparatus entries [^1]–[^23].** Page-split map: p.461 L-2 ⁴–⁶ = [^1]–[^3] (Vers.19 + Vers.13 + Aristot.III.Topic.c.4 long *ex hypothesi* block — p.461 L-2 ¹–³ already absorbed in d19-a1-q1 as [^29]–[^30] + variant tail-note); p.462 L-2 ¹–⁵ + R-2 ⁶–¹⁰ = [^4]–[^13] (with [^4] = long Aug. multi-citation VII.de-Gen-ad-lit + de-Lib-Arb + de-Duabus-animabus + Enarrat.in-Ps.145; [^12] = VII.de-Gen-ad-lit c.10 animalia-de-rapina); p.463 L-2 ¹–⁵ + R-2 ⁶–⁹ = [^14]–[^22]; p.464 L-2 ¹ = [^23] (Aug. *de Musica* VI c.4 *Sanitas unius diei* duration-vs-nobility gloss).
+- Marginal labels preserved inline per locked Vol II convention (thirteen labels): *Ad oppositum.*, *Fundamenta.*, *Opinio 1.*, *Reprobatur.*, *Notandum.*, *Opinio 2.*, *Sed improbatur tripliciter.*, *Opinio 3. et Conclusio.*, *Ratio ex fine principali.*, *Haec duplex.*, *Ratio secundaria.*, *Distinctio.*, *Solutio oppositorum.*
+- `has_scholion: false` — explicitly confirmed by p.464 L-2 footer ² (*Vide scholion ad praecedentem quaest.*), directing reader to d19-a1-q1 SCHOLION. Per Vol II Override step 5, no-scholion is normal when sibling's scholion covers both.
+- No `[?]` flags — all 23 anchors crisp at 450 dpi across pp.461–464. OCR around raw 32485–32662 two-column cascade-fragmented around Respondeo (Opinio 1–3 + Sed improbatur tripliciter); column-band PDF read authoritative per Vol II Override step 1.
+- Cross-chunk hand-off: **received nothing** from d19-a1-q1 (p.461 L-2 ¹–³ stay with Q1). Forward hand-off to d19-a2-q1: p.464 L-2 footers ²–⁴ migrate forward (scholion cross-ref + Hic-c.2.seqq Aristot/Averroe at *Magister in litera* + Damasc.I.de-Fide-orth-c.4 at *pugnae*).
+- Audits (d.19 fourth-pass): paraphrase HIGH 5 (5 sibling skeletons remaining); apparatus-count flag CLEARED for d19-a1-q2 (not in flagged list); header Q-LOSS -1 persists pending sibling promotions.
+- Build: 624 → 625 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d19-a2-q1`** — fifth d.19 chunk. ARTICULUS II opens on p.464 L-1 (mid-page) at raw 32663 with `ARTICULUS II.` + subtitle *De immortalitate Adae ex parte corporis.* + opener *Consequenter quaeritur quantum ad secundum articulum de immortalitate Adae ex parte corporis. Et circa hoc quaeruntur duo.* + 2-question sub-divisio (folded into a2-q1 per Vol II Override step 5) + QUAESTIO I header + italic title *Utrum corpus Adae, ipso non peccante, posset dissolvi.* + opener *Circa primum sic proceditur et ostenditur, quod etiamsi Adam non peccasset, corpus eius de necessitate dissolvi potuisset, tali ratione.* Per the d19-a1-q2 forward hand-off, p.464 L-2 footers ²–⁴ migrate here as [^1]–[^3]. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.464 crops cached at `/tmp/colcrop/vol2-p464-*`; generate p.465+ as needed.
+
+## d.19 chunk inventory (in semantic order)
+
+- ~~`d19-littera`~~ **DONE 2026-05-25.**
+- ~~`d19-divisio`~~ **DONE 2026-05-25.**
+- ~~`d19-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d19-a1-q2`~~ **DONE 2026-05-25.**
+- **`d19-a2-q1`** — *Utrum corpus Adae, ipso non peccante, posset dissolvi.* — NEXT. (skeleton)
+- `d19-a2-q2` (skeleton)
+- `d19-a3-q1` (skeleton)
+- `d19-a3-q2` (skeleton)
+- `d19-dubia` (skeleton)
+
+## Prior session (2026-05-25, d.19 third chunk — d19-a1-q1 promotion)
+
+(prior content retained below)
+
+---
 
 **d.1–d.18 ALL DONE + d19-littera + d19-divisio + d19-a1-q1 DONE = 213 chunks promoted.** Build: 624 translated, 879 quaestio routes.
 
