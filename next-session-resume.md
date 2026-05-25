@@ -1,8 +1,40 @@
-# Next session — **d.18 eighth chunk DONE 2026-05-25.** Begin `d18-dubia` (⚠ manual-rescue).
+# Next session — **d.18 COMPLETE 2026-05-25.** Begin d.19 first chunk `d19-littera` (⚠ manual-rescue).
 
-**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 + d18-a1-q2 + d18-a1-q3 + d18-a2-q1 + d18-a2-q2 + d18-a2-q3 = 209 chunks promoted.** Build: 620 translated, 879 quaestio routes.
+**d.1–d.18 ALL DONE = 210 chunks promoted.** Build: 621 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.18 eighth chunk — d18-a2-q3 promotion)
+**⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence).
+
+**⚠ d19-littera is the remaining manual-rescue chunk per the d.11–d.20 boundary-sweep audit** — keep this flag visible until d19-littera clears.
+
+## Last session (2026-05-25, d.18 ninth/FINAL chunk — d18-dubia promotion, manual rescue)
+
+Promoted `d18-dubia` Tier-2 (**manual-rescue per d.11–d.20 boundary-sweep audit**):
+- *Dubium circa litteram Magistri (Dist. XVIII).* Single DUBIUM (no I–V split). Spans p.454 L-1 (lower half) at raw 31978 immediately after Q3 SCHOLION II close (`Biel, II. Sent. d. 17. q. 1.`) with `DUBIUM CIRCA LITTERAM MAGISTRI.` header + opener *Posset tamen aliquis dubitare de hoc quod dicit, quod mulier de costa facta est eo miraculo, quo de quinque panibus etc.* (deferral of *de miraculis* discussion to d.31 + statement that *supra* naturam ≠ *contra* naturam) + *Adiungitur quaestio* on Angeli-ministerium with Aug. *de Gen ad lit* IX c.6 lengthy quote + *Rationes 6 pro unitate generis humani* tripartite (ex *ordine* dupliciter + ex *connexione* dupliciter + ex *significatione* dupliciter) → p.454 R-1 (Rationes 1+2 ex ordine corporis ad animam + totius coniuncti ad alias creaturas, plus Ratio 3 opener) → p.455 L-0/R-0 top (Ratio 4 *carne una* + Ratios 5+6 *allegorica* / *anagogica* close at *qui fuit principium omnium rerum*) immediately before `DISTINCTIO XIX.` at raw 32047. **Boundary correction:** the skeleton's `line_end: 32016` was too short (raw 32016 is a page-top running head *DISTINCTIO XIX.*, not the real d.19 header); the true span is **raw 31978–32046**, capturing the full p.455 tail before the real DISTINCTIO XIX at raw 32047.
+- **8 apparatus entries [^1]–[^8].** p.454 L-2 ¹–³ = [^1]–[^3]; p.454 R-2 ⁴–⁶ = [^4]–[^6]; p.455 L-2 ¹–² = [^7]–[^8]. Notable: [^1] = Cap. 6 n.9 + d.31 a.1 q.1 forward cross-ref + codd. aa ee *ex nihilo produci* variant block; [^4] = Cap. 15 n.28 textual variant on Augustinus quote ending (*non nisi in illo opere Dei... sed per semetipsum non operatus est et dimisit, sed ita continuanter operatur*); [^7] = Gen 2,24 Vulgate; [^8] = commentator list (Alex. Hal. + B. Albert + S. Thom. + Petr. a Tar. + Richard a Med. + Aegid. R. + Vat. *qui fuit principium omnium hominum* variant). p.455 L-2 *NOTAE AD LIBR. SENTENTIARUM* block stays with d19-littera.
+- Marginal labels preserved inline per locked Vol II convention: *Adiungitur quaestio.*, *Rationes 6 pro unitate generis humani.*, *Ratio 1. et 2.*, *Ratio 3. et 4.*, *Ratio 5. et 6.* (five labels).
+- `has_scholion: false` — dubia chunks carry no SCHOLION by design.
+- No `[?]` flags — all 8 anchors crisp at 450 dpi across pp.454–455. OCR around raw 31978–32046 two-column cascade-fragmented through the *Rationes 6* block + Augustinus quote close; column-band PDF read authoritative per Vol II Override.
+- Cross-chunk hand-off: received nothing from d18-a2-q3. Forward hand-off to d19-littera: **none** — p.455 L-2 NOTAE AD LIBR. SENTENTIARUM block belongs entirely to d.19 Lombard text.
+- Audits (d.18 final state): paraphrase 0 high / 0 critical (clean); apparatus-count 0 flagged; header audit `DUB-LOSS -2` persists — accept-with-reason (audit regex looks for roman-numeral `DUB.` markers but d.18 has a single *DUBIUM CIRCA LITTERAM MAGISTRI.* header, captured correctly; the -2 diff is audit-regex noise + a *Dubium unicum.* marginal in d18-littera, not a real dropout). **d.18 final clean state confirmed.**
+- Build: 620 → 621 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d19-littera`** — first d.19 chunk, **⚠ manual-rescue** per the d.11–d.20 boundary-sweep audit. DISTINCTIO XIX opens on p.455 L-1 at raw 32047 with `DISTINCTIO XIX.` + `Cap. I.` + subtitle *De statu hominis ante peccatum, qualis fuit secundum corpus, et qualis post peccatum.* + opener *Solent quaeri plura de primo hominis statu ante peccatum...* Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.455 crops cached at `/tmp/colcrop/vol2-p455-*`. **Before starting d.19**, also schedule the d.11–d.20 decade-polish-blocker pass (600 dpi resolution of d18-a2-q2's `²` flag + corpus-wide style audit + cross-chunk boundary integrity sweep d.11–d.20).
+
+## d.18 chunk inventory — ALL COMPLETE
+
+- ~~`d18-littera`~~ **DONE 2026-05-25.**
+- ~~`d18-divisio`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q3`~~ **DONE 2026-05-25.**
+- ~~`d18-a2-q1`~~ **DONE 2026-05-25.**
+- ~~`d18-a2-q2`~~ **DONE 2026-05-25.**
+- ~~`d18-a2-q3`~~ **DONE 2026-05-25.**
+- ~~`d18-dubia`~~ **DONE 2026-05-25 (manual-rescue cleared).**
+
+## Prior session (2026-05-25, d.18 eighth chunk — d18-a2-q3 promotion)
 
 Promoted `d18-a2-q3` Tier-2:
 - *Utrum anima rationalis sit ex traduce.* Spans p.451 R-1 (QUAESTIO III header at raw 31767 immediately after d18-a2-q2 SCHOLION close + Q3 opener + Ad oppositum args 1–6 partial) → p.452 (args 6 *Si producitur ex materia praeiacente* close + Contra/Fundamenta args 1–6 with arg 4 ex carne/ex anima dichotomy + arg 5 materia praeiacente quaero-block + arg 6 discindi-semen + CONCLUSIO + Respondeo opener with *triplex modus dicendi* + *Opinio 1.* Intelligentia + *Ratio* divina unitas/immutabilitas + *Reprobatur* haereticum) → p.453 (Opinio 1 close with Isaac *de Definitionibus* umbra-intelligentiae quote + *Opinio 2.* Traductio Augustinus dubitavit + *Non probatur* Christi anima reductio + *Opinio 3.* catholicus et verus + *Duplex ratio.* dignitas + immortalitas + *Conclusio.* + *Solutio oppositorum.* ad 1, 2, 3, 4, 5 partial) → p.454 L-1 (Solutio ad 5 close + ad 6 close at *Patent etiam ea quae dicuntur in littera.* + SCHOLION I Petr. a Tar. four-opinion fluctuation + Gennadius identification of *de Ecclesiast. Dogm.* + Traducianism consensus + SCHOLION II commentator list close at raw 31977 immediately before `DUBIUM CIRCA LITTERAM MAGISTRI.` at raw 31978).
