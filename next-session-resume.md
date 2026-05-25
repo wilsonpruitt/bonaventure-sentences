@@ -1,8 +1,36 @@
-# Next session — **d.16 COMPLETE; d17-littera + d17-divisio + d17-a1-q1 + d17-a1-q2 + d17-a1-q3 + d17-a2-q1 DONE 2026-05-25.** Begin `d17-a2-q2`.
+# Next session — **d.16 COMPLETE; d17 through d17-a2-q2 DONE 2026-05-25.** Begin `d17-a2-q3`.
 
-**d.1–d.16 = 192 chunks promoted + d17 six chunks = 198 chunks.** Build: 609 translated, 879 quaestio routes.
+**d.1–d.16 = 192 chunks promoted + d17 seven chunks = 199 chunks.** Build: 610 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.17 sixth chunk — d17-a2-q1 promotion)
+## Last session (2026-05-25, d.17 seventh chunk — d17-a2-q2 promotion)
+
+Promoted `d17-a2-q2` Tier-2:
+- *Utrum corpus Adae constitutum fuerit ex natura pure elementari.* Spans p.420 R band 2 bottom (QUAESTIO II header + italic title + opener `Secundo quaeritur, utrum corpus primi hominis constitutum fuerit de natura pure elementari, an simul cum natura elementari concurrerit natura caelestis ad eius constitutionem.` immediately after q1 SCHOLION II commentator list close at raw 29621) → p.421 (*Ad oppositum* args 1–6 + Contra/*Fundamenta* args 1–2) → p.422 (Fundamenta args 3–6 + CONCLUSIO + Respondeo with *Opinio 1.* + *Improbatur.* + *Opinio 2.* + *Non probatur.* + *Opinio 3 cum distinctione.* + *Membrum 1 distinctionis.* + *Conclusio 1.* opener) → p.423 (Conclusio 1 close + *Membrum 2.* + *Conclusio 2.* + Iuxta hanc tertiam viam response-to-question + *Solutio oppositorum* ad 1–6 with *Triplex lux.* + *Notandum.* (×2) closing at *habitatio caeli empyrei*). Closes immediately before QUAESTIO III opener on p.423 R band 2 at raw 29847.
+- **17 apparatus entries [^1]–[^17]** (+ supplementary keys `[^16-bis]` and `[^17b]` to accommodate Quaracchi's per-page restart at p.423 L footer 5 and R footer 7). Page-split map: p.421 L footers 1–4 = [^1]–[^4] (Aug. VII *de Gen ad lit* c.13+19 + Avicenna *de Anima* p.IV c.6 lengthy block / Aristot. *de Animalibus* old/new division + Virgil *Aen.* 6.730 + VII Metaph. text 3 + Porphyr. *de Praedicab.* / d.14 p.I a.1 q.2 + p.II a.2 q.2 cross-refs / Alanus ab Insulis II *de Articul. cath. fidei* prop. 13 lengthy block); p.421 R footers 5–6 = [^5]–[^6] (Aug. *super Gen ad lit* III c.4 n.6 / Aristot. I *de Generat. et corrupt.* text 87 + d.8 p.I a.2 q.2 *corporis quinti* cross-ref); p.422 L footers 1–3 = [^7]–[^9] (d.13 a.3 q.1 + *radium* vs *per radium* / Cod. cc + ed. 1 *eo* / Aristot. II *de Anima* text 11+21 + codd. V W *sensum* pro *sensificationem*); p.422 R footers 4–7 = [^10]–[^13] (Aug. VII *de Gen ad lit* c.21 n.27 + d.14 p.I a.1 q.2 / Part. I a.1 q.2 in corp. / Nonnulli codd. *animale* / Vat. *formam*); p.423 L footers 1–3 = [^14]–[^16] (Multi codd. *sublimatione* / Quaest. seq. / codd. D O Y cc ed. 1 *secundum virtutem* + Vat. omittit *secundum virtutem* + post *magis quam* codd. *secundum*); p.423 R footers 4–8 = [^16-bis], [^17b], [^17] (Fide codd. supplevimus *responsio ad quaestionem propositam* + Vat. *mediante anima rationali* / Vat. *mediante anima rationali* pro *in homine* / Cap. 5 n.7 super Gen. / Vat. interpunctione *Et quia cum haec* / Vide scholion ad praecedentem quaest. — collected into [^16-bis] (Cap. 5 cit. anchored at *Ad 5* end), [^17b] (Vat. interpunct. gloss anchored at *Et quia haec*), and [^17] (closing *Vide scholion* pointer)).
+- Marginal labels preserved inline: *Ad oppositum.*, *Fundamenta.*, *Opinio 1.*, *Improbatur.*, *Opinio 2.*, *Non probatur.*, *Opinio 3 cum distinctione.*, *Membrum 1 distinctionis.*, *Conclusio 1.*, *Membrum 2.*, *Conclusio 2.*, *Solutio oppositorum.*, *Triplex lux.*, *Notandum.* (×2).
+- `has_scholion: false` — per locked Vol II sibling-shared-scholion pattern (cf. d16-a1-q2, d16-a2-q2), q2's closing [^17] explicitly points back to q1 SCHOLION I via *Vide scholion ad praecedentem quaest.*
+- No `[?]` flags — all 17 anchors + 15 marginal labels crisp at 450 dpi across pp.420–423.
+- Cross-chunk hand-off: received nothing from d17-a2-q1 (p.420 R band 2 footers ⁴–⁶ all anchored in q1 body, consumed as q1 [^15]–[^17]). Forward hand-off to d17-a2-q3: none — q3 opens p.423 R band 2 with its own opener + fresh p.424 footer sequence.
+- Audits: paraphrase HIGH (1 chunk, expected first-pass); apparatus-count flag CLEARED for d17-a2-q2 (2 skeleton-suspect flags persist on d17-a2-q3 +19 and d17-dubia +18 — clears as they promote); header audit NO LOSS flags (ART +2 / QUAEST +3 / DUB +0).
+- Build: 609 → 610 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d17-a2-q3`** — eighth d.17 chunk. QUAESTIO III opens on p.423 R band 2 at raw 29847 immediately after q2 closing line `habitatio caeli empyrei`. No cross-chunk footer migrates from d17-a2-q2. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for p.423 R + p.424+. p.423 crops cached at `/tmp/colcrop/vol2-p423-*`; generate p.424+ as needed.
+
+## d.17 chunk inventory (in semantic order)
+
+- ~~`d17-littera`~~ **DONE 2026-05-25.**
+- ~~`d17-divisio`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d17-a1-q3`~~ **DONE 2026-05-25.**
+- ~~`d17-a2-q1`~~ **DONE 2026-05-25.**
+- ~~`d17-a2-q2`~~ **DONE 2026-05-25.**
+- **`d17-a2-q3`** — NEXT. (skeleton)
+- `d17-dubia` (skeleton)
+
+## Prior session (2026-05-25, d.17 sixth chunk — d17-a2-q1 promotion)
 
 Promoted `d17-a2-q1` Tier-2:
 - *Utrum corpus Adae debuerit produci de natura pure caelesti.* Spans p.418 R band 1 bottom (ARTICULUS II header + subtitle *De productione hominis quoad corpus.* + opener `Consequenter quaeritur de productione primi hominis ex parte corporis. Et circa hoc quaeruntur tria.` + 3-question sub-divisio folded in per locked Vol II Override step 5; raw 29467) → p.419 (QUAESTIO I header + title + 4 Ad oppositum argg. + Sed contra/Fundamenta argg. 1–4 + CONCLUSIO + Respondeo opener with *Conclusio 1.* + *Conclusio 2.* + *Quadruplex ordo.* + *Ordo hominis in se*) → p.420 (Ad creaturam inferiorem + Ad creaturam parem + Ad Deum finem + Solutio oppositorum ad 1–4 with *Notandum.* + SCHOLION I + II commentator list). Closes immediately before QUAESTIO II opener on p.420 R band 2 at raw 29621.
