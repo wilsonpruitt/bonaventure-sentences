@@ -1,4 +1,40 @@
-# Next session — **d.19 sixth chunk d19-a2-q2 DONE 2026-05-25.** Begin `d19-a3-q1`.
+# Next session — **d.19 seventh chunk d19-a3-q1 DONE 2026-05-25.** Begin `d19-a3-q2`.
+
+**d.1–d.18 ALL DONE + d19-littera + d19-divisio + d19-a1-q1 + d19-a1-q2 + d19-a2-q1 + d19-a2-q2 + d19-a3-q1 DONE = 217 chunks promoted.** Build: 628 translated, 879 quaestio routes.
+
+**⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence).
+
+**Manual-rescue list for d.11–d.20 is EMPTY.**
+
+## Last session (2026-05-25, d.19 seventh chunk — d19-a3-q1 promotion)
+
+Promoted `d19-a3-q1` Tier-2:
+- *Utrum immortalitas inesset homini a natura, vel a gratia.* ARTICULUS III opener folded in per Vol II Override step 5. Spans p.468 L-1 at raw 32940 (`ARTICULUS III.` + subtitle *De immortalitate primi hominis quantum ad coniunctum.* + 2-question sub-divisio + `QUAESTIO I.` + italic title) → p.468 R-1 (opener + Ad oppositum args 1–5) → p.469 (arg 6 + Sed contra/Fundamenta args 1–6 + CONCLUSIO + Respondeo *Opinio duplex* / *Exemplum* / *Conclusio* / *Triplex causa mortis*) → p.470 (*Quoad 1./2./3. genus* + *Accedit donum gratiae* / *vis ligni vitae* / *specialis providentia* + Solutio oppositorum ad 1–5 partial) → p.471 L-1 (ad 6 close at *Et sic patet illud.* + SCHOLION I Baius/Pius V/Scotus block + SCHOLION II commentator list + SCHOLION III sequens-quaestio note) close at raw 33151 immediately before `QUAESTIO II.` at raw 33152.
+- **19 apparatus entries [^1]–[^19].** Cross-chunk hand-off from d19-a2-q2: p.468 L-2 footers ³–⁴ migrate forward as [^1]–[^2] (Aristot. *Eud. Eth.* c.9 *Atque his fere duobus* + *Hic a.2.q.1*). Native: p.468 R-2 ⁵ = [^3]; p.469 L-2 ¹–² + R-2 ³–¹⁰ = [^4]–[^13]; p.470 L-2 ¹–² + R-2 ³–⁶ = [^14]–[^19]. Notable: [^6] long Aug. *de Peccatorum meritis* c.3 n.3 *Si enim Deus Israelitarum vestimentis* block; [^16] long Anselm *de Conceptu virgin. et origin. peccat.* c.1 *originalis* twofold-force block on *originalis/personalis iustitia*; [^19] merged Boeth. III *de Consol.* prosa 11 + d.37 a.1 q.2 cross-ref.
+- Marginal labels preserved inline per locked Vol II convention (fourteen labels): *Ad oppositum.*, *Fundamenta.*, *Opinio duplex.*, *Exemplum.*, *Conclusio.*, *Triplex causa mortis.*, *Quoad 1. genus mortis.*, *Accedit donum gratiae.*, *Quoad 2. genus.*, *Accedit vis ligni vitae.*, *Quoad 3. genus.*, *Accedit specialis providentia.*, *Solutio oppositorum.*, *Distinctio notanda.*
+- `has_scholion: true` — SCHOLION I (Baius prop. 78 / Pius V condemnation + Pius VI Pistoia synod + Aquinas's fourth mode of corruption + Scotus disagreement on solut. ad 2/3 with *statum naturae purae* vs *statum iustitiae originalis* + Lychetus cross-ref) + SCHOLION II (commentator list) + SCHOLION III (sequens-quaestio note re: d19-a3-q2 + sibling list).
+- No `[?]` flags — all 19 anchors crisp at 450 dpi across pp.468–471. Column-band PDF read authoritative per Vol II Override step 1.
+- Cross-chunk hand-off: received p.468 L-2 ³–⁴ from d19-a2-q2. Forward hand-off to d19-a3-q2: **none** — d19-a3-q2 opens p.471 R-1 at raw 33152 with its own fresh apparatus block beginning on p.471 R-2.
+- Audits (d.19 seventh-pass): paraphrase HIGH 2 (2 sibling skeletons remaining: a3-q2/dubia); apparatus-count flag CLEARED for d19-a3-q1 (not in flagged list); header diffs clean (ART +2, QUAEST +2, DUB +0).
+- Build: 627 → 628 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d19-a3-q2`** — eighth d.19 chunk. QUAESTIO II opens on p.471 R-1 at raw 33152 with `QUAESTIO II.` + italic title *Utrum immortalitas innocentiae eadem per essentiam fuisset cum immortalitate gloriae.* + opener *Secundo quaeritur, utrum eadem esset immortalitas innocentiae per essentiam cum immortalitate gloriae, si homo stetisset. Et quod sic, videtur.* No cross-chunk footer migrates from d19-a3-q1. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.471 crops cached at `/tmp/colcrop/vol2-p471-*`; generate p.472+ as needed. NB: per the d19-a3-q1 SCHOLION III, this quaestio is "easily solved from what has been said" and not separately treated by many commentators — likely a shorter chunk than the article's q1.
+
+## d.19 chunk inventory (in semantic order)
+
+- ~~`d19-littera`~~ **DONE 2026-05-25.**
+- ~~`d19-divisio`~~ **DONE 2026-05-25.**
+- ~~`d19-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d19-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d19-a2-q1`~~ **DONE 2026-05-25.**
+- ~~`d19-a2-q2`~~ **DONE 2026-05-25.**
+- ~~`d19-a3-q1`~~ **DONE 2026-05-25.**
+- **`d19-a3-q2`** — *Utrum immortalitas innocentiae eadem per essentiam fuisset cum immortalitate gloriae.* — NEXT. (skeleton)
+- `d19-dubia` (skeleton)
+
+## Prior session (2026-05-25, d.19 sixth chunk — d19-a2-q2 promotion)
 
 **d.1–d.18 ALL DONE + d19-littera + d19-divisio + d19-a1-q1 + d19-a1-q2 + d19-a2-q1 + d19-a2-q2 DONE = 216 chunks promoted.** Build: 627 translated, 879 quaestio routes.
 
