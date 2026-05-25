@@ -1,9 +1,50 @@
-# Next session — **d16-divisio DONE.** Begin `d16-a1-q1`.
+# Next session — **d16-a1-q1 DONE.** Begin `d16-a1-q2`.
 
-**d.1–d.15 = 183 chunks + d16-littera + d16-divisio = 185 chunks promoted.** Build: 596 translated,
+**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 = 186 chunks promoted.** Build: 597 translated,
 879 quaestio routes. Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
+
+## Last session (2026-05-25, d.16 third chunk — d16-a1-q1 promotion)
+
+Promoted `d16-a1-q1` Tier-2:
+- *Utrum homo sit vere imago Dei.* Spans p.393 L band 2 (QUAESTIO I
+  header + title + *Fundamenta* args 1–3 opener, immediately after
+  d16-divisio TRACTATIO close *Tertio, utrum sit imago Dei proprie.*)
+  → p.393 R band 2 (arg 3 close) → p.394 L (arg 4 + *Ad oppositum*
+  args 1–6) → p.394 R (CONCLUSIO + Respondeo with *Quadruplex
+  similitudo* + *Applicatio ad Deum* + *Probatio: Primo de
+  convenientia ordinis*) → p.395 L (*Confirmatur* + *Probatio 2* +
+  *Distinctio* + *Confirmatur*) → p.395 R (*Solutio oppositorum*
+  ad 1–5 begin, with *Notandum* at ad 2) → p.396 L (ad 5 close +
+  ad 6 opener with *Notandum*) → p.396 R (ad 6 close + SCHOLION
+  I (substantial doctrinal scholion) + II + III commentator lists).
+  Closes immediately before `QU.\ESTIO n.` (q2 opener) at raw 27970.
+- **24 apparatus entries [^3]–[^26]** continuously renumbered.
+  Page-split map: p.393 L footers 3–5 = [^3]–[^5] (inherited per
+  d16-divisio hand-off: Vers. 26 / Vers. 1 / Hugo *de Arrha animae*);
+  p.394 L footers 1–5 = [^6]–[^10]; p.394 R footers 6–11 = [^11]–
+  [^16]; p.395 L footers 1–6 = [^17]–[^22]; p.395 R footers 7–10 =
+  [^23]–[^26]. p.396 carries no body footnote (SCHOLION only).
+  Numbering does NOT restart at [^1]: [^1] and [^2] are owned by
+  d16-divisio per cross-chunk p.393 footer split.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Fundamenta.*, *Ad oppositum.*, *Quadruplex similitudo.*,
+  *Applicatio ad Deum.*, *Conclusio.*, *Probatio.* (×2),
+  *Confirmatur.* (×2), *Distinctio.*, *Solutio oppositorum.*,
+  *Notandum.* (×3).
+- `has_scholion: true` — SCHOLION I is a substantial doctrinal
+  scholion on the definition of imago + the connatural / natural /
+  artificial trichotomy; II + III are commentator lists.
+- No `[?]` flags — all 24 anchors + marginal labels crisp at 450 dpi
+  across pp.393–396. Forward hand-off to d16-a1-q2: no p.396 footer
+  migrates; q2 opens p.396 R bottom with its own footers ¹–³.
+- Audits: paraphrase HIGH (expected first-pass over OCR-cascade
+  base); apparatus-count flag cleared for q1 (skeleton flags persist
+  on d16-a1-q2/q3, d16-a2-q1/q2/q3, d16-dubia — clears as they
+  promote); header audit DUB-LOSS / Q-LOSS still fires because d.16
+  siblings are skeleton — clears as those promote.
+- Build: 596 → 597 translated, 879 quaestio routes.
 
 ## Last session (2026-05-25, d.16 second chunk — d16-divisio promotion)
 
@@ -77,21 +118,21 @@ Promoted `d16-littera` Tier-2:
 
 ## What to do this session
 
-**Promote `d16-a1-q1`** — third d.16 chunk. *Utrum homo sit vere
-imago Dei.* Opens at raw 27737 with `QUAESTIO I.` on p.393 L band 2
-(immediately after the d16-divisio TRACTATIO close) and continues
-onto p.393 R band 2 + subsequent pages. Standard Vol II Tier-2
-procedure: 450 dpi column-band PDF read. p.393 crops already cached
-at `/tmp/colcrop/vol2-p393-*`. Inherit p.393 L band 2 footers
-³–⁵ (Vers. 26 + Vers. 1 + Hugo *de Arrha animae*) per the
-d16-divisio Notes block hand-off.
+**Promote `d16-a1-q2`** — fourth d.16 chunk. *Utrum homo sit imago
+Dei naturaliter.* Opens at raw 27970 with `QU.\ESTIO n.` (OCR-garbled
+QUAESTIO II header) on p.396 R bottom (immediately after the
+d16-a1-q1 SCHOLION III close) and continues onto p.397+. Standard
+Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.396 crops
+already cached at `/tmp/colcrop/vol2-p396-*`; generate p.397+ as
+needed. This is one of the d.11–d.20 manual-rescue chunks (re-split
+2026-05-23) — base scaffold is line range 27970–28074.
 
 ## d.16 chunk inventory (in semantic order)
 
 - ~~`d16-littera`~~ **DONE 2026-05-25.**
 - ~~`d16-divisio`~~ **DONE 2026-05-25.**
-- **`d16-a1-q1`** — *Utrum homo sit vere imago Dei.* — NEXT.
-- `d16-a1-q2` — *Utrum homo sit imago Dei naturaliter.* (skeleton; manual-rescue per resume tooling note)
+- ~~`d16-a1-q1`~~ **DONE 2026-05-25.**
+- **`d16-a1-q2`** — *Utrum homo sit imago Dei naturaliter.* — NEXT. (skeleton; manual-rescue per resume tooling note)
 - `d16-a1-q3` — *Utrum esse imaginem conveniat homini proprie, ita quod nulli alii.* (skeleton)
 - `d16-a2-q1` — (skeleton)
 - `d16-a2-q2` — (skeleton)
