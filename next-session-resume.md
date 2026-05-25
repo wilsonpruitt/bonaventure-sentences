@@ -1,7 +1,74 @@
-# Next session — **d16-a2-q3 DONE.** Begin `d16-dubia`.
+# Next session — **d.16 COMPLETE.** Begin `d17-littera`.
 
-**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 + d16-a1-q2 + d16-a1-q3 + d16-a2-q1 + d16-a2-q2 + d16-a2-q3 = 191 chunks promoted.** Build: 602 translated,
-879 quaestio routes.
+**d.1–d.16 = 192 chunks promoted.** Build: 603 translated, 879 quaestio routes.
+
+## Last session (2026-05-25, d.16 ninth chunk — d16-dubia promotion; d.16 CLOSED)
+
+Promoted `d16-dubia` Tier-2:
+- *Dubia circa litteram Magistri (Dist. XVI).* Spans p.406 L band 1
+  (DUBIA CIRCA LITTERAM MAGISTRI opener + DUB I body immediately after
+  d16-a2-q3 SCHOLION II close at raw 28638) → p.406 R bands 1–2 (DUB I
+  Respondeo with persona-etymology footer 5 + DUB II opener) → p.407 L+R
+  (DUB II Respondeo + DUB III with *Quaestio incidens.* + *Duplex
+  expositio.* + *Primus modus iter triplex.* + *Secunda item triplex.* +
+  *Ad quaest. incidentem.* + *Notandum.* + DUB IV opener with
+  Boethius-aequivoca cit.) → p.408 L band 0 (DUB IV Respondeo close
+  with *Notandum.* + *Alia solutio.* + closing at *...repraesentat
+  alterum.* immediately before `DISTINCTIO XVII. — Cap. I.`).
+- **4 dubia** (DUB I–IV).
+- **14 apparatus entries [^1]–[^14].** Page-split map: p.406 L band 2
+  footers 3–4 = [^1]–[^2] (August. II de Trin. c.10 n.18 + Scilicet
+  sexto / Gen. 1,24 — inherited per d16-a2-q3 forward hand-off);
+  p.406 R band 2 footers 5–6 = [^3]–[^4] (Boethius persona etymology +
+  Cfr. d.15 a.2 q.2 / Alex.Hal/Albert/Petr/Richard); p.407 L band 2
+  footers 1–6 = [^5]–[^10] (Vide supra d.10 a.3 q.2 + Petr. a Tar. +
+  Rom 8,29 + Gen 1,26 + Hic c.3 + Cfr. supra a.2 q.3 with Vat.
+  *secundum esse* variant); p.407 R band 2 footers 7–8 = [^11]–[^12]
+  (In pluribus codd. desideratur *est* + Alex.Hal/Albert/Thom/Aegid
+  cross-refs; Boeth. de Praedicam. *de Aequivocis* with homo
+  vivens/pictus quote); p.408 L band 2 footers 1–2 = [^13]–[^14]
+  (August. VI de Trin. c.10 n.11 *ars quaedam omnipotentis* with Vat.
+  *fabricat ipsum natura* variant + Alex.Hal/Petr. a Tar.).
+- Marginal labels preserved inline per locked Vol II convention:
+  *Quaestio incidens.*, *Duplex expositio.*, *Primus modus iter
+  triplex.*, *Secunda item triplex.*, *Ad quaest. incidentem.*,
+  *Notandum.* (×2), *Alia solutio.*
+- `has_scholion: false` — DUBIA chunks in d.16 carry no SCHOLION
+  (d.16 doctrinal scholia live in d16-a1-q1, d16-a2-q1, d16-a2-q3).
+- No `[?]` flags — all 14 anchors + 8 marginal labels crisp at 450 dpi
+  across pp.406–408.
+- Cross-chunk hand-off received from d16-a2-q3: p.406 L footer 3 +
+  p.406 R footers 5+ migrate here. No forward hand-off to d17-littera
+  (d.17 opens p.408 L with its own NOTAE footer block).
+- Audits: paraphrase HIGH (1 chunk, expected first-pass over
+  OCR-cascade base); apparatus-count NO FLAGS for d.16 (only
+  d16-littera +3 benign remainder, already accepted noise);
+  header audit NO LOSS flags — **d.16 final clean state achieved**
+  (ART +2 / QUAEST +5 / DUB +4 all positive diffs from per-pars
+  repeats, expected).
+- Build: 602 → 603 translated, 879 quaestio routes.
+
+## d.16 inventory — ALL DONE 2026-05-25
+
+All nine d.16 chunks promoted Tier-2 in a single day:
+`d16-littera`, `d16-divisio`, `d16-a1-q1`, `d16-a1-q2`, `d16-a1-q3`,
+`d16-a2-q1`, `d16-a2-q2`, `d16-a2-q3`, `d16-dubia`.
+
+## What to do this session
+
+**Promote `d17-littera`** — first d.17 chunk. d.17 opens at raw 28812
+with `DISTINCTIO XVII.` + `Cap. I. De creatione animae, an de aliquo
+facta sit.` on p.408 L band 0 (immediately after d16-dubia DUB IV
+close). **d.17 pars-split determination: d.17 has NO pars split.**
+Running heads read `DIST. XVII. ART. I/II.` only — `P. I.` / `P. II.`
+never appears (verified by grep `DIST\. XVII` against raw OCR running
+heads at raw 28950/29085/29489/29912). Chunk inventory proceeds with
+`d17-divisio` (not `d17-p1-divisio`). Standard Vol II Tier-2
+procedure: 450 dpi column-band PDF read for every Cap. opener + footer.
+
+Remaining d.17 chunk inventory after d17-littera: `d17-divisio`,
+`d17-a1-q1`, `d17-a1-q2`, `d17-a1-q3`, `d17-a2-q1`, `d17-a2-q2`,
+`d17-a2-q3`, `d17-dubia`.
 
 ## Last session (2026-05-25, d.16 eighth chunk — d16-a2-q3 promotion)
 
