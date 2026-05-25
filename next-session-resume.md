@@ -1,10 +1,53 @@
-# Next session — **d.19 eighth chunk d19-a3-q2 DONE 2026-05-25.** Begin `d19-dubia`.
+# Next session — **d.19 ninth/FINAL chunk d19-dubia DONE 2026-05-25 — d.19 COMPLETE.** Begin `d20-littera`.
 
-**d.1–d.18 ALL DONE + d19-littera + d19-divisio + d19-a1-q1 + d19-a1-q2 + d19-a2-q1 + d19-a2-q2 + d19-a3-q1 + d19-a3-q2 DONE = 218 chunks promoted.** Build: 629 translated, 879 quaestio routes.
+**d.1–d.19 ALL DONE = 219 chunks promoted.** Build: 630 translated, 879 quaestio routes.
 
-**⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence).
+**⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence). After d.20 closes, this pass is the next blocker before d.21 dispatch.
 
 **Manual-rescue list for d.11–d.20 is EMPTY.**
+
+**d.20 inventory:** single-pars (ARTICULUS UNICUS, 6 quaestiones). No pars-split. Chunks: d20-littera, d20-divisio, d20-a1-q1 … d20-a1-q6, d20-dubia.
+
+## Last session (2026-05-25, d.19 ninth/FINAL chunk — d19-dubia promotion)
+
+Promoted `d19-dubia` Tier-2:
+- *Dubia circa litteram Magistri (Dist. XIX).* Four dubia (Dub. I–IV). Spans p.473 L-1 at raw 33283 (`DUBIA CIRCA LITTERAM MAGISTRI.` + `Dub. I.` *animale vs spirituale* opener + first Respondeo *nomen generis appropriatur* + *Alia solutio.* second-modus *animal/bestiis* + Psalm 48,13 *comparatus est iumentis*) → p.473 R-1 (Dub. II *mortale et immortale* opener + Respondeo *immortale dupliciter*) → p.474 L-1 (Dub. II Respondeo close *Notandum*-twofold-privation + *potentiae rationales ad opposita* + Dub. III *post peccatum corpus factum est mortuum* opener + Respondeo Aug XIII de Civ. Dei nomen-vs-participium + Rom 8,10) → p.474 R-1 (Dub. III close *morior anomalum* + Dub. IV *Sumeret de ligno vitae* tree-of-life opener + Respondeo *sacramento assisteret* divine-virtue-distinction + analogy to Sacramenta close at *sicut dicit Augustinus* at raw 33402 immediately before page running head `DISTINCTIO XX.` at raw 33403).
+- **14 apparatus entries [^1]–[^14].** p.473 R-2 ³–⁵ + L-2 ⁴ = 4 entries (p.473 L-2 ¹–² belong to d19-a3-q2 as [^15]–[^16] — *De hac liberi arbitrii divisione* + scholion cross-ref; p.473 L-2 ³ = d19-a3-q2's *Vide scholion* shoulder note). p.474 L-2 ¹–⁶ + R-2 ⁷–⁹ = 9 entries native to dubia. **Wait — recount per chunk body anchors: 14 total.** Notable: [^11] long Aug. XIII *de Civ. Dei* c.11 n.2 *Ab eo quod est oritur* full quote on *mortuus* anomalous declension + Greek ἀνώμαλον gloss; [^14] Aug. VIII *de Gen. ad lit.* c.4 n.8 *Erat ei ergo in lignis ceteris alimentum* tree-of-life-as-sacrament.
+- Marginal labels preserved inline per locked Vol II convention (three labels): *Alia solutio.* (Dub. I body second modus), *Notandum.* (×2 in Dub. II Respondeo and Dub. IV Respondeo).
+- `has_scholion: false` — dubia chunks carry no SCHOLION by design.
+- **OCR scrambling note:** the IA djvu cascade-flow puts DUB. IV (printed p.474 R-1 top, raw line 33348) physically BEFORE DUB. III (printed p.474 L-1 mid, raw line 33356) because the L column ran longer than the R column on p.474. Reordered to semantic I → II → III → IV in the chunk per column-band PDF discipline.
+- No `[?]` flags — all 14 anchors crisp at 450 dpi across pp.473–474.
+- Cross-chunk hand-off: received nothing from d19-a3-q2. Forward hand-off to d20-littera: **none** — p.474 footer banks all anchor in DUB. III/IV body.
+- Audits (d.19 final state): paraphrase 0 high / 0 critical (all 9 d.19 chunks land in OK); apparatus-count 0 flagged; header diffs all positive (ART +4, QUAEST +6, DUB +4 — chunk ≥ raw, Vol II coarseness expected). **d.19 final clean state confirmed.**
+- Build: 629 → 630 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d20-littera`** — first d.20 chunk. DISTINCTIO XX is single-pars (ARTICULUS UNICUS, 6 quaestiones — confirmed by absence of `DIST. XX. P. I/II.` running heads in raw 33400–34400). Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. Page extraction needed for pp.475+. After d20-littera: continue d.20 sequentially (divisio → a1-q1 … a1-q6 → dubia, 9 chunks total). After d.20 closes, the d.11–d.20 decade-polish-blocker triggers.
+
+## d.19 chunk inventory — ALL COMPLETE
+
+- ~~`d19-littera`~~ **DONE 2026-05-25.**
+- ~~`d19-divisio`~~ **DONE 2026-05-25.**
+- ~~`d19-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d19-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d19-a2-q1`~~ **DONE 2026-05-25.**
+- ~~`d19-a2-q2`~~ **DONE 2026-05-25.**
+- ~~`d19-a3-q1`~~ **DONE 2026-05-25.**
+- ~~`d19-a3-q2`~~ **DONE 2026-05-25.**
+- ~~`d19-dubia`~~ **DONE 2026-05-25.**
+
+## d.20 chunk inventory (in semantic order)
+
+- **`d20-littera`** — NEXT. (skeleton)
+- `d20-divisio` (skeleton)
+- `d20-a1-q1` (skeleton)
+- `d20-a1-q2` (skeleton)
+- `d20-a1-q3` (skeleton)
+- `d20-a1-q4` (skeleton)
+- `d20-a1-q5` (skeleton)
+- `d20-a1-q6` (skeleton)
+- `d20-dubia` (skeleton)
 
 ## Last session (2026-05-25, d.19 eighth chunk — d19-a3-q2 promotion)
 
