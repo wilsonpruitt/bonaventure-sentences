@@ -1,11 +1,37 @@
-# Next session — **d.14-p2-a2-q1 COMPLETE.** Begin `d14-p2-a2-q2`.
+# Next session — **d.14-p2-a2-q2 COMPLETE.** Begin `d14-p2-a2-q3`.
 
-**d.1–d.13 COMPLETE + d.14-p1 (9 chunks) + d.14-p2-divisio + d.14-p2-a1-q1 + d.14-p2-a1-q2 + d.14-p2-a1-q3 + d.14-p2-a2-q1 = 171 chunks.** Build: 582 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE + d.14-p1 (9 chunks) + d.14-p2-divisio + d.14-p2-a1-q1 + d.14-p2-a1-q2 + d.14-p2-a1-q3 + d.14-p2-a2-q1 + d.14-p2-a2-q2 = 172 chunks.** Build: 583 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
-## Last session (2026-05-24, latest)
+## Last session (2026-05-25)
+
+Promoted `d14-p2-a2-q2` Tier-2:
+- *Utrum diversa luminaria diversas habeant impressiones super
+  corporalia.*, pp. 359 R mid (QUAESTIO II opener + Fundamenta args
+  1–4 + Contra/Ad opp. arg 1 opener) → 360 L+R full (Ad opp. args
+  1–6 + CONCLUSIO + RESPONDEO opener + *Ratio ad 1. membrum* +
+  *Ratio aliorum ad 2. membrum* + *Non probatur* + *Ratio melior*
+  + Concedendae + Solutio op. 1+2 opener) → 361 L+R top (Solutio
+  op. 1+2 close + 3 + 4 + 5 + 6, terminating immediately before
+  QUAESTIO III opener at line 25538). 15 apparatus entries
+  continuously renumbered: p. 359 footer note 3 = [^1] (hand-off
+  picked up from `d14-p2-a2-q1`, anchored at q2 arg 1 Augustine
+  *quinto de Civitate Dei*); p. 359 footer notes 4–6 = [^2]–[^4];
+  p. 360 footer notes 1–6 = [^5]–[^10]; p. 361 footer notes 1–5 =
+  [^11]–[^15]. p. 361 footer note 6 (Boethius *Libr. IV. prosa 6.*)
+  hands forward to `d14-p2-a2-q3` (anchors at q3 *Ad oppositum*
+  arg 1 *Boethius in libro de Consolatione* citation, line 25540).
+  No fresh scholion (article-level 3-section SCHOLION attached to
+  a2-q1; SCHOLION II *Sequentem (2.) quaestionem* is the forward-
+  pointer for this q2). All marginal labels preserved inline per
+  locked Vol II convention. No `[?]` flags — all 15 anchors crisp
+  at 450 dpi. Apparatus-count audit: chunk=15 vs raw=14 diff=−1, no
+  flag. Paraphrase audit OK (Jaccard 0.58, length 0.17, no smell
+  flag). Header audit clean for d.14. Build: 582 → 583 translated.
+
+## Prior session (2026-05-24, latest)
 
 Promoted `d14-p2-a2-q1` Tier-2:
 - *Utrum luminaria habeant diversitatem perfectionum.*,
@@ -264,24 +290,22 @@ Build: 568 → 572 translated.
 
 Remaining d.14 chunks to promote, in order:
 
-- **`d14-p2-a2-q2`** — NEXT.
-- `d14-p2-a2-q3`
+- **`d14-p2-a2-q3`** — NEXT.
 - `d14-p2-dubia`
 
 ## What to do this session
 
-**Promote `d14-p2-a2-q2`** — opens at raw line 25397 on p. 359
-R mid (QUAESTIO II opener *Utrum diversa luminaria diversas habeant
-impressiones super corporalia.* + *Secundo quaeritur, utrum diversa
-luminaria habeant diversas impressiones super corporalia.*). p. 359
-footer note 3 (*Cap. 6, ubi textus originalis: Non usquequaque
-absurde*) hands forward from `d14-p2-a2-q1`; anchor at q2 arg 1
-Augustine *quinto de Civitate Dei*. Continue through pp. 360–362
-(or wherever q3 opens). Per locked Vol II convention this q2 likely
-carries no fresh scholion (article-level scholion was attached to
-q1, including the *Sequentem (2.) quaestionem* SCHOLION II
-forward-pointer). Generate p. 360+ crops as needed (p. 359 already
-cached).
+**Promote `d14-p2-a2-q3`** — opens at raw line 25538 on p. 361
+R mid (QUAESTIO III opener *Utrum ex impressionibus luminarium
+causetur in hominibus diversitas morum.*). p. 361 footer note 6
+(*Libr. IV. prosa 6.* — Boethius *de Consolatione*) hands forward
+from `d14-p2-a2-q2`; anchor at q3 *Ad oppositum* arg 1 *Boethius
+in libro de Consolatione* citation. Continue through pp. 362+
+(wherever the article terminates / dubia open). Per locked Vol II
+convention this q3 likely carries the article-closing scholion (or
+no fresh scholion if the article-level one was already attached at
+q1). 450 dpi crops cached for pp. 359–361; generate p. 362+ as
+needed.
 
 The "Vat. … quando" parked footer from `d14-p1-littera` Notes still
 has no obvious d.14 anchor — defer to the polish-blocker. The "Art. 2.
