@@ -1,12 +1,39 @@
-# Next session — **d.19 first chunk d19-littera DONE 2026-05-25.** Begin `d19-divisio`.
+# Next session — **d.19 second chunk d19-divisio DONE 2026-05-25.** Begin `d19-a1-q1`.
 
-**d.1–d.18 ALL DONE + d19-littera DONE = 211 chunks promoted.** Build: 622 translated, 879 quaestio routes.
+**d.1–d.18 ALL DONE + d19-littera + d19-divisio DONE = 212 chunks promoted.** Build: 623 translated, 879 quaestio routes.
 
 **⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence).
 
-**Manual-rescue list for d.11–d.20 is now EMPTY.** (d19-littera, the last manual-rescue chunk per the d.11–d.20 boundary-sweep audit, cleared 2026-05-25.)
+**Manual-rescue list for d.11–d.20 is EMPTY.**
 
-## Last session (2026-05-25, d.19 first chunk — d19-littera promotion, manual rescue cleared)
+## Last session (2026-05-25, d.19 second chunk — d19-divisio promotion)
+
+Promoted `d19-divisio` Tier-2:
+- *Commentarius in Distinctionem XIX. — De hominis immortalitate.* Single printed page p.457 (raw 32179–32214). Opens at `COMMENTAmUS IN DISTINCTIONEM XIX.` (OCR Quaracchi-R/m ligature mangle for *Commentarius*) + subtitle *De hominis immortalitate.* + lemma *Solent quaeri plura de primo hominis statu etc.* immediately after d19-littera close at *diligenter inquirant* (raw 32178). Holds the full DIVISIO TEXTUS (Supra egit Magister / Prima pars habet duas → *Solet hic quaeri* split → *In primo statu fuit corpus hominis animale* sub-split → *Sed adhuc quaeritur* dubitation split) + TRACTATIO QUAESTIONUM (three-article structure: ex parte animae / ex parte corporis / ex parte coniuncti, with Art. I's two-question sub-divisio folded in per Vol II Override step 5) + ARTICULUS I header + subtitle *De hominis immortalitate ex parte animae* + QUAESTIO I header + italic title *Utrum anima humana per naturam sit immortalis.* Closes immediately before the Q1 body opener *Circa primum sic proceditur et ostenditur, quod anima rationalis non sit naturaliter immortalis* at raw 32215.
+- **1 apparatus entry [^1].** p.457 footer has 5 notes total (L-2 ¹–³, R-2 ⁴–⁵). Only **¹** (*Non pauci codd. cum ed. 1 creationem* variant on *procreationem*) anchors in this chunk. Footers **²–⁵** all anchor in Q1 body args 1–3 (²=*Vers. 16* on *Qui solus habet immortalitatem*; ³=*Libr. I de Fide orthod. c.3 et II c.27* on Damascenus; ⁴=*Cap. 30 + cod. 0 anima rationalis* on Augustine *VII de Civitate Dei*; ⁵=*Libr. I de Anima text. 66 (c.4) + cod. 1 phreneticis* on Aristotle) and migrate forward to **d19-a1-q1** as its [^1]–[^4].
+- `has_scholion: false` — divisio chunks carry no SCHOLION by design.
+- No `[?]` flags — all anchors crisp at 450 dpi p.457. Standard OCR cosmetics silently corrected: `COMMENTAmUS`→`COMMENTARIUS`, `iramortalitate`→*immortalitate* in subtitle, `tiliorura procreationem`→*filiorum procreationem*, `horainis`→*hominis*. Running head digits crisp (`457`).
+- Cross-chunk hand-off: received nothing from d19-littera. Forward hand-off to d19-a1-q1: p.457 L-2 ²–³ + R-2 ⁴–⁵ migrate forward as [^1]–[^4].
+- Audits (d.19 second-pass): paraphrase HIGH 7 (6 sibling skeletons + d19-divisio first-pass smell, expected); apparatus-count flag CLEARED for d19-divisio (diff +6, no real flag — raw includes the 4 forwarded footers); header Q-LOSS / ART -1 persists pending sibling promotions.
+- Build: 622 → 623 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d19-a1-q1`** — third d.19 chunk. QUAESTIO I body opens on p.457 R-1 (lower half) at raw 32215 with *Circa primum sic proceditur et ostenditur, quod anima rationalis non sit naturaliter immortalis.* + Ad oppositum args 1–6 (auctoritas Apostoli + Damascenus + Philosophus + ratio passio/abiectio + condolet + substantia-operatio) + Fundamenta + sex modi considerandi. Per the d19-divisio forward hand-off, p.457 L-2 footers ²–³ + R-2 footers ⁴–⁵ migrate here as [^1]–[^4]. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.457 crops cached at `/tmp/colcrop/vol2-p457-*`; generate p.458+ as needed.
+
+## d.19 chunk inventory (in semantic order)
+
+- ~~`d19-littera`~~ **DONE 2026-05-25.**
+- ~~`d19-divisio`~~ **DONE 2026-05-25.**
+- **`d19-a1-q1`** — *Utrum anima humana per naturam sit immortalis.* — NEXT. (skeleton)
+- `d19-a1-q2` (skeleton)
+- `d19-a2-q1` (skeleton)
+- `d19-a2-q2` (skeleton)
+- `d19-a3-q1` (skeleton)
+- `d19-a3-q2` (skeleton)
+- `d19-dubia` (skeleton)
+
+## Prior session (2026-05-25, d.19 first chunk — d19-littera promotion, manual rescue cleared)
 
 Promoted `d19-littera` Tier-2 (**manual-rescue per d.11–d.20 boundary-sweep audit — list now empty**):
 - *Distinctio XIX — Littera Magistri.* Six capitula (Cap. I–VI) covering the *triplex status* doctrine (ante peccatum / post peccatum / in resurrectione), the *animale corpus / mortuum / immortale* glosses, the *posse non mori* from-tree-or-from-nature dispute, and the *prima vs. secunda immortalitas* distinction with long Augustine *de Gen. ad lit.* III/VIII quotes. Spans p.455 L-0/L-1 (DISTINCTIO XIX. + Cap. I opener *Solent quaeri plura de primo hominis statu...* at raw 32025) → p.455 R-1 (Cap. II *In primo statu fuit corpus hominis animale* + Cap. III *Corpus hominis ante peccatum mortale et immortale erat* + Beda Hexaem.) → p.456 L-1 (Cap. IV *Utrum immortalitas... de conditione naturae an ex gratiae beneficio* + Cap. V *Si posset homo semper vivere*) → p.456 R-1 (Cap. VI *De immortalitate corporis prima et secunda* + long Augustinus *de Gen. ad lit* III/VIII quotes + close at *diligenter inquirant* at raw 32178 immediately before `COMMENTAmUS IN DISTINCTIONEM XIX.` at raw 32179). Skeleton boundaries verified correct (32025–32178); no boundary correction needed.
