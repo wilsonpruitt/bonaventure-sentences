@@ -1,12 +1,40 @@
-# Next session — **d.19 seventh chunk d19-a3-q1 DONE 2026-05-25.** Begin `d19-a3-q2`.
+# Next session — **d.19 eighth chunk d19-a3-q2 DONE 2026-05-25.** Begin `d19-dubia`.
 
-**d.1–d.18 ALL DONE + d19-littera + d19-divisio + d19-a1-q1 + d19-a1-q2 + d19-a2-q1 + d19-a2-q2 + d19-a3-q1 DONE = 217 chunks promoted.** Build: 628 translated, 879 quaestio routes.
+**d.1–d.18 ALL DONE + d19-littera + d19-divisio + d19-a1-q1 + d19-a1-q2 + d19-a2-q1 + d19-a2-q2 + d19-a3-q1 + d19-a3-q2 DONE = 218 chunks promoted.** Build: 629 translated, 879 quaestio routes.
 
 **⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence).
 
 **Manual-rescue list for d.11–d.20 is EMPTY.**
 
-## Last session (2026-05-25, d.19 seventh chunk — d19-a3-q1 promotion)
+## Last session (2026-05-25, d.19 eighth chunk — d19-a3-q2 promotion)
+
+Promoted `d19-a3-q2` Tier-2:
+- *Utrum immortalitas innocentiae eadem per essentiam fuisset cum immortalitate gloriae.* Spans p.471 R-1 at raw 33152 (`QUAESTIO II.` + italic title + opener *Secundo quaeritur, utrum eadem esset immortalitas innocentiae per essentiam cum immortalitate gloriae, si homo stetisset.* + Ad oppositum args 1–5: Aug. *de Vera Religione* per-Christum-recuperamus + potentia-materiae-disposita + liberum-arbitrium-confirmatum + mortalitas-non-alia + si-stetisset-transferretur) → p.472 (Sed contra/Fundamenta args 1–5: aliud-principium-proximum + non-est-transitus-ab-eodem-in-idem + opposita-diversa Adam-mortalis-et-immortalis + condicio-animalitatis-vs-spiritualitatis + littera *Alia est immortalitas quam amisimus* + CONCLUSIO + Respondeo *Notandum* with *immortale/immortalitas* abstract/concrete + potentia-animae-regendi-corpus + tripartite *innocentia/gloria/miseria* state-mapping to liberum arbitrium + *Coriscus albus et niger idem est sed alteratus* simile) → p.473 L-1 (Solutio oppositorum ad 1 principium-praecipuum-potentia-contentiva + ad 2 transitus-a-statu-in-statum + ad 3 libertas-a-coactione/culpa/miseria three-fold-disposition) → p.473 R-1 (ad 4 conditio-vitae-non-principaliter + ad 5 Magister-alia-et-alia auctoritas-resolutio close at *Et sic patet responsio ad quaesita.* at raw 33282 immediately before `DUBIA CIRCA LITTERAM MAGISTRI.` at raw 33283).
+- **16 apparatus entries [^1]–[^16].** p.471 R-2 ¹–⁴ = [^1]–[^4] (Aug. *de Vera Relig.* multi-cap + Sive-proxima-materiae-dispositio gloss + Cfr. supra d.7 p.I a.2 q.1 caritas-cross-ref + transformaretur-variant); p.472 R-2 ¹–¹⁰ = [^5]–[^14] (Aristot. VII Topic *Nam quaecumque simpliciter eadem* + Aristot. VI Phys *Si Thebas quis it* + Averroes II de Anima text 67 + Aristot. I Topic + Aristot. IV Topic c.5 long *Quandoque autem peccant* genus-vs-accidens block + Hic-c.6 littera-variant + Codd-IQ-aa-assumto + Ed.1 corpus-continuare + Edd.3,4-unitam + Sola-Vat-essentiam + long [^14] Aristot. I Elench Coriscus-fallacies block); p.473 L-2 ¹–² = [^15]–[^16] ([^15] long Bernardo-tripartition-libertas-cross-ref d.25 + d.9 q.3 dispositions-necessity-congruity + [^16] *Vide scholion ad praecedentem quaest.* cross-ref). Notable: [^10] long Albert *Topica* II tr.2 c.5 *coniugata* gloss on principale-vs-sumtum + grammarian-vs-rei-naturam distinction; [^14] Aristot I Elench c.4/13 + II c.2/1/5 Sophistae-Coriscus-fallacies block + alter/alteratus cross-ref to pag.184.
+- Marginal labels preserved inline per locked Vol II convention (five labels): *Ad oppositum.*, *Fundamenta.*, *Conclusio.*, *Notandum.*, *Solutio oppositorum.* In-running-head glosses *Quid immortalitas.* / *In statu innocentiae.* / *In statu gloriae.* absorbed silently (they don't carry semantic weight beyond signaling the Respondeo's tripartite *innocentia/gloria/miseria* sweep).
+- `has_scholion: false` — explicitly confirmed by d19-a3-q1 SCHOLION III (*Sequens quaestio facile ex praedictis solvitur, unde a multis Commentatoribus Lombardi explicite non tractatur*) directing reader back to the article's q1. Per Vol II Override step 5, no-scholion is normal when sibling's scholion declares *pro quaest. seq.*
+- No `[?]` flags — all 16 anchors crisp at 450 dpi across pp.471–473. OCR around raw 33152–33282 two-column cascade-fragmented through Respondeo (*Quemadmodum igitur ipsius liberi arbitrii potentia* tripartite + *Coriscus albus et niger* simile) and the long [^10] Albert-*coniugata* + [^14] Coriscus-fallacies footnote blocks; column-band PDF read authoritative per Vol II Override step 1.
+- Cross-chunk hand-off: received nothing from d19-a3-q1. Forward hand-off to d19-dubia: **none** — d19-dubia opens p.473 L-1 with its own DUB. I header and the p.473 L-2/R-2 footer banks ¹–⁷ all anchor in DUB. I/II body.
+- Audits (d.19 eighth-pass): paraphrase HIGH 1 (only d19-dubia skeleton remaining); apparatus-count flag CLEARED for d19-a3-q2 (not in flagged list — only d19-dubia flagged SKELETON-SUSPECT); header diffs clean (ART +2, QUAEST +3, DUB +0).
+- Build: 628 → 629 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d19-dubia`** — ninth and final d.19 chunk. DUBIA CIRCA LITTERAM MAGISTRI opens on p.473 L-1 at raw 33283 with `DUBIA CIRCA LITTERAM MAGISTRI.` + `Dub. I.` header + opener *In parte ista sunt dubitationes circa litteram, et primo quaeritur de hoc quod dicit: In primo statu fuit corpus hominis animale...* Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.473 crops cached at `/tmp/colcrop/vol2-p473-*`; generate downstream pages as needed. After d19-dubia: **d.19 CLOSES** and the d.11–d.20 decade-polish-blocker pass triggers (resolve d18-a2-q2's stray *absque dolore* `²` flag + corpus-wide style audit + cross-chunk boundary integrity sweep d.11–d.20).
+
+## d.19 chunk inventory (in semantic order)
+
+- ~~`d19-littera`~~ **DONE 2026-05-25.**
+- ~~`d19-divisio`~~ **DONE 2026-05-25.**
+- ~~`d19-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d19-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d19-a2-q1`~~ **DONE 2026-05-25.**
+- ~~`d19-a2-q2`~~ **DONE 2026-05-25.**
+- ~~`d19-a3-q1`~~ **DONE 2026-05-25.**
+- ~~`d19-a3-q2`~~ **DONE 2026-05-25.**
+- **`d19-dubia`** — NEXT. (skeleton)
+
+## Prior session (2026-05-25, d.19 seventh chunk — d19-a3-q1 promotion)
 
 Promoted `d19-a3-q1` Tier-2:
 - *Utrum immortalitas inesset homini a natura, vel a gratia.* ARTICULUS III opener folded in per Vol II Override step 5. Spans p.468 L-1 at raw 32940 (`ARTICULUS III.` + subtitle *De immortalitate primi hominis quantum ad coniunctum.* + 2-question sub-divisio + `QUAESTIO I.` + italic title) → p.468 R-1 (opener + Ad oppositum args 1–5) → p.469 (arg 6 + Sed contra/Fundamenta args 1–6 + CONCLUSIO + Respondeo *Opinio duplex* / *Exemplum* / *Conclusio* / *Triplex causa mortis*) → p.470 (*Quoad 1./2./3. genus* + *Accedit donum gratiae* / *vis ligni vitae* / *specialis providentia* + Solutio oppositorum ad 1–5 partial) → p.471 L-1 (ad 6 close at *Et sic patet illud.* + SCHOLION I Baius/Pius V/Scotus block + SCHOLION II commentator list + SCHOLION III sequens-quaestio note) close at raw 33151 immediately before `QUAESTIO II.` at raw 33152.
