@@ -1,6 +1,40 @@
-# Next session — **d.20 first chunk d20-littera DONE 2026-05-25.** Begin `d20-divisio`.
+# Next session — **d.20 second chunk d20-divisio DONE 2026-05-25.** Begin `d20-a1-q1`.
 
-**d.1–d.19 ALL DONE + d20-littera DONE = 220 chunks promoted.** Build: 631 translated, 879 quaestio routes.
+**d.1–d.19 ALL DONE + d20-littera + d20-divisio DONE = 221 chunks promoted.** Build: 632 translated, 879 quaestio routes.
+
+**Skeleton-filename convention note (verified `ls vol2/ | grep d20`):** the auto-chunker uses `d20-a1-q*` even though d.20 has ARTICULUS UNICUS (no `d20-au-q*` / `d20-q*` variant). Keep the `a1` key on all six question chunks for filename stability.
+
+## Last session (2026-05-25, d.20 second chunk — d20-divisio promotion)
+
+Promoted `d20-divisio` Tier-2:
+- *Commentarius in Distinctionem XX. — De procreatione posteritatis.* Single printed page p.477 (raw 33560–33692). Opens at `COMMENTARIUS IN DISTINCTIONEM XX.` (clean at 450 dpi — no `COMMENTAmUS` / `DI8TINCTI0NEM` mangle this time) + subtitle *De procreatione posteritatis.* + lemma *Post haec videndum est, qualiter primi parentes etc.* + DIVISIO TEXTUS (three-part split: modus procreationis / quales filii / breviter epilogat, then 2-sub on modus = generationis + tempore translationis, 2-sub on quales = quantum ad corpus + quantum ad animam) + TRACTATIO QUAESTIONUM enumerating 6 quaestiones (sexuum commixtio / seminum decisio / delectationis intensio / integritatis corruptio / prolis generatio / aequalis multiplicatio) + ARTICULUS UNICUS header + subtitle *De procreatione liberorum in statu innocentiae.* Closes immediately before `QUAESTIO I.` heading + body opener *Circa primum sic proceditur et ostenditur, quod, si homo stetisset, facta esset sexuum commixtio* at raw 33619 (which belong to d20-a1-q1).
+- **2 apparatus entries [^1]–[^2].** p.477 L-2 holds three numbered footers ¹–³; only ¹ (Vat. *primo determinata.*) and ² (Non pauci codd. et ed. 1 *manifestata.*) anchor in the DIVISIO TEXTUS body. Footer ³ (Vers. 18.) and all R-2 footers ⁴+ anchor in QUAESTIO I body and migrate forward to d20-a1-q1.
+- `has_scholion: false` — divisio chunks carry no SCHOLION by design. The big SCHOLION printed on p.479 (under DIST. XX. ART. UNICUS QUAEST. II. running head) opening *De nonnullis in hac distinctione quaesitis S. Doctor dicit, quod plus habent curiositatis quam utilitatis* + commentator catalog belongs to **d20-a1-q1** per the Vol II convention (see hand-off below).
+- ARTICULUS UNICUS folded into divisio per Vol II Override step 5: only the header + subtitle, not the QUAESTIO I body or scholion.
+- No `[?]` flags — all anchors crisp at 450 dpi p.477. Standard OCR cosmetics silently corrected (`prinia`/`Divi-ditur`/`flliorum`/`lalionis`/`fcrrentur`/`procreatioue`/`iiberorum`/`uti^nm`/`proUs`/`innocenliae`).
+- Cross-chunk hand-off: received nothing from d20-littera. Forward hand-off to d20-a1-q1: p.477 L-2 footer ³ (*Vers. 18.* on Gen 2,18 *Faciamus ei adiutorium simile sibi*) migrates as a1-q1's [^1]; the rest of p.477's footer bank (R-2 ⁴+) likewise migrates and the receiving subagent should walk it continuously. The SCHOLION block on p.479 (under QUAEST. II. running head, opening *De nonnullis in hac distinctione quaesitis…*) also migrates to d20-a1-q1.
+- Audits (d.20 second-pass): paraphrase 1 CRITICAL / 6 HIGH (7 sibling skeletons + d20-divisio first-pass smell — expected); apparatus-count flag CLEARED for d20-divisio (not in flagged list); header Q-LOSS A-LOSS persists pending sibling promotions.
+- Build: 631 → 632 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d20-a1-q1`** — third d.20 chunk. *Utrum in statu innocentiae fuisset sexuum commixtio.* QUAESTIO I opens on p.477 R-1 at raw 33619 with the body opener *Circa primum sic proceditur et ostenditur, quod, si homo stetisset, facta esset sexuum commixtio* + Ad oppositum args 1–4 (Gen 2,18 *Faciamus ei adiutorium simile sibi* + Aug. XIV *de Civ. Dei* c.23 *Quisquis dicit, non coituros…* + distinctio sexuum + vir habuit vim generativam) → p.478 (Sed contra args 1–4 Aug. *de Bono coniugali* *Nuptiae non nisi mortalium* + Damasc. IV *de Fide orth.* c.24 + ad-hoc-data-vis-generativa + commixtio sexuum opus carnale + CONCLUSIO + Respondeo *attestatur auctoritate Scripturae et iudicio rationis rectae* + Solutio oppositorum ad 1–4 *Notandum* multiplicem-congruentiam). Per the d20-divisio forward hand-off, p.477 L-2 footer ³ migrates as [^1]; walk the rest of p.477 R-2 + p.478 footer banks for the full apparatus. **The big SCHOLION block on p.479 (commentator catalog + Augustinian *plus curiositatis quam utilitatis* + Alex. Hal. / Scotus / S. Thom. / B. Albert / Petr. a Tar. / Richard. a Med. / Aegid. R. / Dionys. Carth. / Biel) belongs to a1-q1 per Vol II convention.** Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.477 crops cached at `/tmp/colcrop/vol2-p477-*`; generate p.478 and p.479 as needed.
+
+## d.20 chunk inventory (in semantic order)
+
+- ~~`d20-littera`~~ **DONE 2026-05-25.**
+- ~~`d20-divisio`~~ **DONE 2026-05-25.**
+- **`d20-a1-q1`** — *Utrum in statu innocentiae fuisset sexuum commixtio.* — NEXT. (skeleton)
+- `d20-a1-q2` (skeleton)
+- `d20-a1-q3` (skeleton)
+- `d20-a1-q4` (skeleton)
+- `d20-a1-q5` (skeleton)
+- `d20-a1-q6` (skeleton)
+- `d20-dubia` (skeleton)
+
+---
+
+## Prior session (2026-05-25, d.20 first chunk — d20-littera promotion)
 
 **⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence). After d.20 closes, this pass is the next blocker before d.21 dispatch.
 
