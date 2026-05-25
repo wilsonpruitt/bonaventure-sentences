@@ -1,12 +1,40 @@
-# Next session — **d.19 fifth chunk d19-a2-q1 DONE 2026-05-25.** Begin `d19-a2-q2`.
+# Next session — **d.19 sixth chunk d19-a2-q2 DONE 2026-05-25.** Begin `d19-a3-q1`.
 
-**d.1–d.18 ALL DONE + d19-littera + d19-divisio + d19-a1-q1 + d19-a1-q2 + d19-a2-q1 DONE = 215 chunks promoted.** Build: 626 translated, 879 quaestio routes.
+**d.1–d.18 ALL DONE + d19-littera + d19-divisio + d19-a1-q1 + d19-a1-q2 + d19-a2-q1 + d19-a2-q2 DONE = 216 chunks promoted.** Build: 627 translated, 879 quaestio routes.
 
 **⚠ d.11–d.20 decade-polish-blocker pass is now PENDING before d.21+ dispatch.** Walk [?] flags across d.11–d.20 (only known item: d18-a2-q2's stray `²` on *absque dolore* p.451 L-1 — needs 600 dpi resolution per CLAUDE.md polish-blocker cadence).
 
 **Manual-rescue list for d.11–d.20 is EMPTY.**
 
-## Last session (2026-05-25, d.19 fifth chunk — d19-a2-q1 promotion)
+## Last session (2026-05-25, d.19 sixth chunk — d19-a2-q2 promotion)
+
+Promoted `d19-a2-q2` Tier-2:
+- *Utrum, Adam peccante, corpus eius per esum ligni vitae posset perpetuari.* Spans p.466 R-1 at raw 32834 with `QUAESTIO II.` + italic title + opener *Secundo quaeritur, utrum, Adam peccante…* + Ad oppositum args 1–6 (Gen 3,22 *Nunc ergo ne forte sumat de ligno vitae* + Richard. de S. Vict. *de Emmanuele* *Habuit ante peccatum corruptibilitatem* + Henoch/Elias-Glossa + lignum-scientiae-parallel + spiritus-fonti-vitae Psalm 35,10 + humidum-radicale doctores) → p.467 (args close + Sed contra/Fundamenta args 1–4 Rom 6,23 *Stipendia peccati mors* + Gen 2,17 *Quacumque die comederitis* + iumenta-insipientia + mortali-immortalem-virtus-divina + CONCLUSIO + Respondeo *eadem lege qua divina iustitia non patitur* + decretum-inviolabile + Solutio oppositorum ad 1 *aeternum-non-interminabilitatem-sed-diuturnitatem* + ad 2,3 patet-responsio Richardus + Henoch/Elias) → p.468 L-1 (ad 4 *dupliciter-deficit* lignum-scientiae + ad 5 voluntas-facilius-vertitur + fons-vitae-spiritualis-potentior + ad 6 humidum-radicale-statum-institutae-vs-lapsae close at *perveniret* at raw 32939 immediately before `ARTICULUS III.` at raw 32940).
+- **14 apparatus entries [^1]–[^14].** p.466 R-2 ⁴–⁵ = [^1]–[^2] (Gen 3,1 textual variants + Vers.22 full text); p.467 L-2 ¹–² = [^3]–[^4] (Richard. de S. Vict. long *de Emmanuele* c.11+c.15 block + Pseudo-Augustine *Qq. veteris et novi Test.* cross-ref; Glossa Henoch-Elias); p.467 R-2 ³–¹⁰ = [^5]–[^12] (Psalm 35,10 + Scotus *humidum radicale* tom.I p.316 note 12 + Vers.23 Vat. omission + Gen 3,19 + Psalm 48,13 *mortis/mortalitatis* variant + Aug. XIII *Civ.Dei* c.15 + Boethius *Aeternitas interminabilis* + Aug. XIII c.20); p.468 L-2 ¹–² = [^13]–[^14] (Cod. aa *infirmari* variant + *Vide scholion ad praecedentem quaest.*).
+- Marginal labels preserved inline per locked Vol II convention (three labels): *Ad oppositum.*, *Fundamenta.*, *Solutio oppositorum.*
+- `has_scholion: false` — explicitly confirmed by p.468 L-2 footer ² (*Vide scholion ad praecedentem quaest.*), directing reader to d19-a2-q1 SCHOLION. Per Vol II Override step 5, no-scholion is normal when sibling's scholion covers both.
+- No `[?]` flags — all 14 anchors crisp at 450 dpi across pp.466–468. OCR around raw 32834–32939 two-column cascade-fragmented around Respondeo ad-5 (*voluntas facilius vertitur et revertitur quam natura* + *fons vitae spiritualis multo potentior*); p.468 L-1 column-band PDF read authoritative per Vol II Override step 1.
+- Cross-chunk hand-off: received nothing from d19-a2-q1. Forward hand-off to d19-a3-q1: p.468 L-2 footers ³ (Aristot. *Eud. Eth.* c.9 *Atque fere duobus a natura quippiam inesse determinamus*) + ⁴ (*Hic a.2.q.1*) migrate forward as a3-q1's first two apparatus entries.
+- Audits (d.19 sixth-pass): paraphrase HIGH 3 (3 sibling skeletons remaining: a3-q1/a3-q2/dubia); apparatus-count flag CLEARED for d19-a2-q2 (not in flagged list); header diffs clean (ART +1, QUAEST +1, DUB +0).
+- Build: 626 → 627 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d19-a3-q1`** — seventh d.19 chunk. ARTICULUS III opens on p.468 L-1 at raw 32940 with `ARTICULUS III.` + subtitle *De immortalitate primi hominis quantum ad coniunctum.* + opener *Consequenter quaeritur de immortalitate primi hominis quantum ad coniunctum. Et circa hoc quaeruntur duo.* + 2-question sub-divisio (folded into a3-q1 per Vol II Override step 5) + QUAESTIO I header + italic title *Utrum illa immortalitas inesset homini a natura, vel a gratia.* Per the d19-a2-q2 forward hand-off, p.468 L-2 footers ³–⁴ migrate here as [^1]–[^2]. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.468 crops cached at `/tmp/colcrop/vol2-p468-*`; generate p.469+ as needed.
+
+## d.19 chunk inventory (in semantic order)
+
+- ~~`d19-littera`~~ **DONE 2026-05-25.**
+- ~~`d19-divisio`~~ **DONE 2026-05-25.**
+- ~~`d19-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d19-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d19-a2-q1`~~ **DONE 2026-05-25.**
+- ~~`d19-a2-q2`~~ **DONE 2026-05-25.**
+- **`d19-a3-q1`** — *Utrum illa immortalitas inesset homini a natura, vel a gratia.* — NEXT. (skeleton)
+- `d19-a3-q2` (skeleton)
+- `d19-dubia` (skeleton)
+
+## Prior session (2026-05-25, d.19 fifth chunk — d19-a2-q1 promotion)
 
 Promoted `d19-a2-q1` Tier-2:
 - *Utrum corpus Adae, ipso non peccante, posset dissolvi.* Spans p.464 L-1 (mid-page) at raw 32663 with `ARTICULUS II.` + subtitle *De immortalitate Adae ex parte corporis.* + 2-question sub-divisio folded in per locked Vol II Override step 5 + QUAESTIO I header + italic title + opener *Circa primum sic proceditur et ostenditur, quod etiamsi Adam non peccasset, corpus eius dissolvi potuisset, tali ratione.* + Ad oppositum args 1–5 partial → p.465 (arg 6 close + Sed contra/Fundamenta args 1–6 + CONCLUSIO + Respondeo with *Sensus duplex.* Philosophus VI Topic adverb-*nunc* analysis + *Conclusio 1.* posse-determinatio + *Conclusio 2.* dissolvi-determinatio + Solutio oppositorum ad 1 Philosophus-corruptibile-voluntati-subiacens) → p.466 (ad 2 *Distinctio.* contraria-lapsae-vs-institutae + ad 3 natura-universalis-vs-partem + ad 4 expresse-praeceptum-lignis-paradisi + ad 5 peccator-occidere-innocentem + ad 6 impassibilitas-non-perfecta close + SCHOLION I Augustinian *non posse mori* / *posse non mori* + *sensu composito/diviso* + Scotus contra-modum-loquendi + SCHOLION II commentator list) close at raw 32833 immediately before `QUAESTIO II.` at raw 32834.
@@ -17,22 +45,6 @@ Promoted `d19-a2-q1` Tier-2:
 - Cross-chunk hand-off: received p.464 L-2 ²–⁴ from d19-a1-q2. Forward hand-off to d19-a2-q2: **none** — p.466 R-2 footers ⁵+ all anchor in QUAESTIO II body starting at raw 32834.
 - Audits (d.19 fifth-pass): paraphrase HIGH 4 (4 sibling skeletons remaining); apparatus-count flag CLEARED for d19-a2-q1 (not in flagged list); header diffs clean (ART +1, QUAEST +0, DUB +0).
 - Build: 625 → 626 translated, 879 quaestio routes.
-
-## What to do this session
-
-**Promote `d19-a2-q2`** — sixth d.19 chunk. QUAESTIO II opens on p.466 R-1 at raw 32834 with `QUAESTIO II.` + italic title *Utrum, Adam peccante, corpus eius posset perpetuari per esum ligni vitae.* + opener *Secundo quaeritur, utrum, Adam peccante, corpus eius posset perpetuari per esum ligni vitae. Et quod sic, videtur: 1. Primo per textum Genesis tertio: Nunc ergo ne forte sumat de ligno vitae et vivat in aeternum…* No cross-chunk footer migrates from d19-a2-q1. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.466 crops cached at `/tmp/colcrop/vol2-p466-*`; generate p.467+ as needed.
-
-## d.19 chunk inventory (in semantic order)
-
-- ~~`d19-littera`~~ **DONE 2026-05-25.**
-- ~~`d19-divisio`~~ **DONE 2026-05-25.**
-- ~~`d19-a1-q1`~~ **DONE 2026-05-25.**
-- ~~`d19-a1-q2`~~ **DONE 2026-05-25.**
-- ~~`d19-a2-q1`~~ **DONE 2026-05-25.**
-- **`d19-a2-q2`** — *Utrum, Adam peccante, corpus eius posset perpetuari per esum ligni vitae.* — NEXT. (skeleton)
-- `d19-a3-q1` (skeleton)
-- `d19-a3-q2` (skeleton)
-- `d19-dubia` (skeleton)
 
 ## Prior session (2026-05-25, d.19 fourth chunk — d19-a1-q2 promotion)
 
