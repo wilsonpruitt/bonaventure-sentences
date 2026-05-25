@@ -1,8 +1,36 @@
-# Next session — **d.18 seventh chunk DONE 2026-05-25.** Begin `d18-a2-q3`.
+# Next session — **d.18 eighth chunk DONE 2026-05-25.** Begin `d18-dubia` (⚠ manual-rescue).
 
-**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 + d18-a1-q2 + d18-a1-q3 + d18-a2-q1 + d18-a2-q2 = 208 chunks promoted.** Build: 619 translated, 879 quaestio routes.
+**d.1–d.17 + d18-littera + d18-divisio + d18-a1-q1 + d18-a1-q2 + d18-a1-q3 + d18-a2-q1 + d18-a2-q2 + d18-a2-q3 = 209 chunks promoted.** Build: 620 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.18 seventh chunk — d18-a2-q2 promotion)
+## Last session (2026-05-25, d.18 eighth chunk — d18-a2-q3 promotion)
+
+Promoted `d18-a2-q3` Tier-2:
+- *Utrum anima rationalis sit ex traduce.* Spans p.451 R-1 (QUAESTIO III header at raw 31767 immediately after d18-a2-q2 SCHOLION close + Q3 opener + Ad oppositum args 1–6 partial) → p.452 (args 6 *Si producitur ex materia praeiacente* close + Contra/Fundamenta args 1–6 with arg 4 ex carne/ex anima dichotomy + arg 5 materia praeiacente quaero-block + arg 6 discindi-semen + CONCLUSIO + Respondeo opener with *triplex modus dicendi* + *Opinio 1.* Intelligentia + *Ratio* divina unitas/immutabilitas + *Reprobatur* haereticum) → p.453 (Opinio 1 close with Isaac *de Definitionibus* umbra-intelligentiae quote + *Opinio 2.* Traductio Augustinus dubitavit + *Non probatur* Christi anima reductio + *Opinio 3.* catholicus et verus + *Duplex ratio.* dignitas + immortalitas + *Conclusio.* + *Solutio oppositorum.* ad 1, 2, 3, 4, 5 partial) → p.454 L-1 (Solutio ad 5 close + ad 6 close at *Patent etiam ea quae dicuntur in littera.* + SCHOLION I Petr. a Tar. four-opinion fluctuation + Gennadius identification of *de Ecclesiast. Dogm.* + Traducianism consensus + SCHOLION II commentator list close at raw 31977 immediately before `DUBIUM CIRCA LITTERAM MAGISTRI.` at raw 31978).
+- **25 apparatus entries [^1]–[^25].** p.451 L-2 ¹–⁷ = [^1]–[^7]; p.452 L-2 ¹ + R-2 ²–¹¹ = [^8]–[^18]; p.453 L-2 ¹ + R-2 ²–⁷ = [^19]–[^25]. Notable: [^1] Genesis 46 Vulgate text + sexaginta-sex vs septuaginta apparatus + Hieronym. *Qq. hebraic.* + Aug. *Qq. in Gen.* q.152 lengthy block; [^6] Aug. Epist. 166 ad Hieronym. + Hieronym. *contra Rufinum* III + *Quotidie Deus operatur animas* block on adultery/incest souls + Greg. Nyssen. *de Anima*; [^10] long Aristot. *de Anima* I + Aug. multi-citation block (*de Immort. animae* + *de Quant. animae* + *de Anima et eius origine* + *de Gen ad lit* VII+X) impugning Tertullian; [^17] longest entry — Aristot. XII *Metaph.* + *de Causis* + Isaac *de Definitionibus* Monacensis codex 8001 full transcription of three-order souls (rationalis/bestialis/vegetalis) doctrine; [^21] Ioan. 5,26 *Sicut Pater habet vitam in semetipso* + Vat. *Creatore pro creatione* variant.
+- Marginal labels preserved inline per locked Vol II convention: *Ad oppositum.*, *Fundamenta.*, *Opinio 1./2./3.*, *Ratio.*, *Reprobatur.*, *Non probatur.*, *Duplex ratio.*, *Conclusio.*, *Solutio oppositorum.* (eleven labels).
+- `has_scholion: true` — single SCHOLION split per Vol II convention into I (doctrinal: Petr. a Tar. four-opinion Augustinian fluctuation + Gennadius identification of *de Ecclesiast. Dogm.* + Traducianism consensus reproved) + II (standard commentator list: Alex. Hal. + Scotus + S. Thom. + B. Albert + Petr. a Tar. + Richard. a Med. + Aegid. R. + Durand. + Biel).
+- No `[?]` flags — all 25 anchors + 11 marginal labels crisp at 450 dpi across pp.451–454. OCR around raw 31767–31977 two-column cascade-fragmented around Respondeo (Opinio 1–3 + Duplex ratio) and the long p.453 L-2 ¹ Isaac/Monacensis quote; column-band PDF read authoritative per Vol II Override.
+- Cross-chunk hand-off: received nothing from d18-a2-q2 (Q2 forward-bequeathed nothing; Q2's stray `²` on *absque dolore* still requires the 600 dpi decade-polish pass per d.11–d.20). Forward hand-off to d18-dubia: **none** — d18-dubia opens with its own p.454 L-2/R-2 footer block (Cap. 6. n. 9. seqq. + Cap. 15. n. 28. + Civ. Dei XII c. 1 + lit. Magistri c. 1).
+- Audits: paraphrase HIGH (1 chunk, expected first-pass); apparatus-count flag CLEARED for d18-a2-q3 (diff +5, at threshold, no flag); header audit DUB-LOSS -2 persists pending d18-dubia.
+- Build: 619 → 620 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d18-dubia`** — ninth and final d.18 chunk. **⚠ This is the remaining manual-rescue chunk per the d.11–d.20 boundary-sweep audit** — the original auto-chunker 2026-05-13 dropped the DUBIUM CIRCA LITTERAM MAGISTRI block; manual rescue 2026-05-23 derived raw line range 31978–32015 from boundary sweep. DUBIUM opens on p.454 L-1 (lower half) at raw 31978 immediately after Q3 SCHOLION II close (`Bicl, II. Sent. d. 17. q. 1.`) with `DUBIUM CIRCA LITTERAM MAGISTRI.` header + opener `Posset tamen aliquis dubitare de hoc quod dicit, quod mulier de costa facta est eo miraculo, quo de quinque panibus etc.…` + *Adiungitur quaestio* on Angeli-ministerium + Aug. *de Gen ad lit* libro nono quote + *Ratiomes 6 pro unitate generis humani* tripartite (ex ordine + ex connexione + ex significatione) closing on p.455 just before `DISTINCTIO XIX.` at raw 32016. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p.454 + p.455 crops cached at `/tmp/colcrop/vol2-p454-*` (p.455 still needs `python3.11 tools/extract-pages.py --volume vol2 --pages 455 --dpi 450` then `python3.11 tools/colcrop.py vol2 455`). After d18-dubia: **d.18 CLOSES** and d.11–d.20 decade-polish-blocker pass triggers (resolve any [?] across d.11–d.20 + Q2's stray *absque dolore* `²`).
+
+## d.18 chunk inventory (in semantic order)
+
+- ~~`d18-littera`~~ **DONE 2026-05-25.**
+- ~~`d18-divisio`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d18-a1-q3`~~ **DONE 2026-05-25.**
+- ~~`d18-a2-q1`~~ **DONE 2026-05-25.**
+- ~~`d18-a2-q2`~~ **DONE 2026-05-25.**
+- ~~`d18-a2-q3`~~ **DONE 2026-05-25.**
+- **`d18-dubia`** — ⚠ manual-rescue (auto-chunker dropped 2026-05-13; rescued 2026-05-23). — NEXT.
+
+## Prior session (2026-05-25, d.18 seventh chunk — d18-a2-q2 promotion)
 
 Promoted `d18-a2-q2` Tier-2:
 - *Utrum animae omnium fuerint simul productae.* Spans p.448 R band 1 (QUAESTIO II opener at raw 31566 immediately after d18-a2-q1 SCHOLION II close) → p.449 (Ad oppositum/*Fundamenta* args 1–5 + CONCLUSIO + Respondeo with *Tres modi dicendi* + *Primus.* Plato-Macrobius circulation + *Reprobatur dupliciter.* + *Secundus.* Manichaei + *Reprobatur* contra fidem/philosophiam/sensibilem experientiam + *Tertius.*) → p.450 (*De anima Adae dubitat Augustinus.* + duplex ratio + *Conclusio.* + Gregorius Nazianzenus/Damascene/de Anima et spiritu + *Solutio obiectorum.* ad 1–4) → p.451 L band 1 (ad 4 close *finis in intentione/executione* + ad 5 *absque dolore* + *Posset tamen dici* + single SCHOLION close at raw 31766 immediately before QUAESTIO III).
