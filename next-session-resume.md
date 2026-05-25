@@ -1,9 +1,69 @@
-# Next session — **d.15 COMPLETE.** Begin `d16-littera`.
+# Next session — **d16-littera DONE.** Begin `d16-divisio`.
 
-**d.1–d.15 = 183 chunks promoted.** Build: 594 translated,
+**d.1–d.15 = 183 chunks + d16-littera = 184 chunks promoted.** Build: 595 translated,
 879 quaestio routes. Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
+
+## Last session (2026-05-25, d.16 first chunk — d16-littera promotion)
+
+Promoted `d16-littera` Tier-2:
+- *Distinctio XVI — Littera Magistri*, Cap. I–IV (4 capitula),
+  spans p.391 L band 2 (Cap. I *De hominis creatione* opener immediately
+  after d15-dubia close `Et sic patet responsio ad obiecta.`) → p.391
+  R bands 1–2 (Cap. II *Qualis factus sit homo* with *Dubium 1.* +
+  *Dubium 2.* marginals; Cap. III *De imagine et similitudine, ad quam
+  factus est homo* opens on R band 2) → p.392 L bands 0–2 (Cap. III
+  body with *Imago proprie.* + *Improprie.* + *Dubium 3. et opinio 1.*
+  + *Opinio 2.* + *Opinio 3.* + *Exemplum.* marginals) → p.392 R bands
+  0–1 (Cap. IV *Quare homo dicitur imago et ad imaginem, Filius non
+  ad imaginem* with *Augustinus.* + *Dubium 4.* marginals; closes
+  immediately before *COMMENTARIUS IN DISTINCTIONEM XVI.* at raw 27717).
+- **11 apparatus entries [^1]–[^11]** continuously renumbered across
+  pp.391–392. Page-split map: p.391 R band 2 NOTAE 1–4 = [^1]–[^4];
+  p.392 L band 2 footers 1–3 = [^5]–[^7]; p.392 R band 2 footers 4–7
+  = [^8]–[^11]. p.391 L band 2 footers 1–7 belong to d15-dubia (per
+  its Notes block) — none migrate here.
+- Cross-chunk hand-off forward: d16-divisio receives the *COMMENTARIUS
+  IN DISTINCTIONEM XVI.* opener at raw 27717 + p.393 DIVISIO TEXTUS
+  footer share. No littera-side footer migrates forward.
+- **d.16 pars-split determination:** d.16 has **NO pars split.**
+  Running heads read `DIST. XVI. ART. I/II.` only — `P. I.` / `P. II.`
+  never appears. Chunk inventory therefore proceeds with `d16-divisio`
+  (not `d16-p1-divisio`).
+- `has_scholion: false` — littera chunks carry no SCHOLION by design.
+- No `[?]` flags — all 11 anchors + 9 marginal labels crisp at 450 dpi.
+- Audits: paraphrase HIGH (expected first-pass over OCR-cascade
+  base); apparatus-count audit no longer flags d16-littera (diff +3
+  benign — raw heuristic catches 14 vs chunk 11, normal noise);
+  header audit Q-LOSS / A-LOSS / DUB-LOSS fires because d.16
+  divisio + a*/dubia siblings are still skeletons (a littera chunk
+  has no ART/QUAEST/DUB headers) — will clear as those promote.
+- Build: 594 → 595 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d16-divisio`** — second d.16 chunk. Opens at raw 27717
+with `COMMENTARIUS IN DISTINCTIONEM XVI.` on p.392 R band 2 (bottom)
++ p.393 DIVISIO TEXTUS + TRACTATIO QUAESTIONUM (per locked Vol II
+convention divisio holds DIVISIO TEXTUS + TRACTATIO QUAESTIONUM +
+the first-article sub-divisio fold-in). Closes immediately before
+`ARTICULUS I.` at raw 27735. Standard Vol II Tier-2 procedure: 450
+dpi column-band PDF read. p.393 crops not yet generated — run
+`python3.11 tools/extract-pages.py --volume vol2 --pages 393 --dpi 450`
++ `python3.11 tools/colcrop.py vol2 393`.
+
+## d.16 chunk inventory (in semantic order)
+
+- ~~`d16-littera`~~ **DONE 2026-05-25.**
+- **`d16-divisio`** — NEXT.
+- `d16-a1-q1` — *Utrum homo sit vere imago Dei.* (skeleton)
+- `d16-a1-q2` — *Utrum homo sit imago Dei naturaliter.* (skeleton; manual-rescue per resume tooling note)
+- `d16-a1-q3` — *Utrum esse imaginem conveniat homini proprie, ita quod nulli alii.* (skeleton)
+- `d16-a2-q1` — (skeleton)
+- `d16-a2-q2` — (skeleton)
+- `d16-a2-q3` — (skeleton)
+- `d16-dubia` — (skeleton)
 
 ## Last session (2026-05-25, ninth chunk — d15-dubia promotion; d.15 CLOSED)
 
