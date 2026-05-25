@@ -1,11 +1,35 @@
-# Next session — **d.14-p2-a1-q1 COMPLETE.** Begin `d14-p2-a1-q2`.
+# Next session — **d.14-p2-a1-q2 COMPLETE.** Begin `d14-p2-a1-q3` (manual-rescue).
 
-**d.1–d.13 COMPLETE + d.14-p1 (9 chunks) + d.14-p2-divisio + d.14-p2-a1-q1 = 168 chunks.** Build: 579 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE + d.14-p1 (9 chunks) + d.14-p2-divisio + d.14-p2-a1-q1 + d.14-p2-a1-q2 = 169 chunks.** Build: 580 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
 ## Last session (2026-05-24, latest)
+
+Promoted `d14-p2-a1-q2` Tier-2:
+- *Utrum luminaria in suis orbibus moveantur motibus propriis.*,
+  pp. 353 (L mid-bottom: QUAESTIO II opener below q1 SCHOLION, through
+  Sed contra/Fundamenta L+R top, Conclusio + Respondeo opener R
+  mid-bottom) → 354 L+R (Solutio oppositorum args 1–4 closing at
+  *in oppositum.* / *spectat²* before QUAESTIO III opener). 7 apparatus
+  entries continuously renumbered: p. 353 footer notes 1–5 = [^1]–[^5]
+  (all five anchor in q2 body — *minori¹*, *impossibile²*,
+  *necessariis³*, *perpetuus⁴*, *mathematicos⁵*); p. 354 footer
+  notes 1–2 = [^6]–[^7] (*ipsorum¹* in Solutio op. arg. 1; *spectat²*
+  closing Solutio op. arg. 4). p. 354 footer note 3 (Cfr. supra d. 2.
+  p. II. a. 1. q. 1.) hands forward to `d14-p2-a1-q3` per the
+  cross-chunk split convention (anchors at q3's *caelum empyreum*
+  cross-reference). No fresh scholion — the article-level 3-section
+  SCHOLION is attached to q1 per locked Vol II convention (verified;
+  q1's SCHOLION III is the *pro quaest. seq.* bibliography). No `[?]`
+  flags. Apparatus-count audit: q2 not flagged (diff 0; raw line range
+  24965–25064 contains exactly the 5 p. 353 + 2 p. 354 footer notes
+  captured here). Header audit clean for d.14 across the board.
+  Paraphrase audit OK (Jaccard 0.59, length 0.15 — clean prose with
+  literal English). Build: 579 → 580 translated.
+
+## Prior session (2026-05-24, latest)
 
 Promoted `d14-p2-a1-q1` Tier-2:
 - *Utrum omnia luminaria caeli locentur in uno corpore continuo.*,
@@ -174,8 +198,7 @@ Build: 568 → 572 translated.
 
 Remaining d.14 chunks to promote, in order:
 
-- **`d14-p2-a1-q2`** — NEXT.
-- `d14-p2-a1-q3` *(manual-rescue)*
+- **`d14-p2-a1-q3`** *(manual-rescue)* — NEXT.
 - `d14-p2-a2-q1`
 - `d14-p2-a2-q2`
 - `d14-p2-a2-q3`
@@ -183,23 +206,22 @@ Remaining d.14 chunks to promote, in order:
 
 ## What to do this session
 
-**Promote `d14-p2-a1-q2`** — *Utrum luminaria in suis orbibus
-moveantur motibus propriis.* Opens at raw line 24965 on p. 353 L
-(immediately below the q1 SCHOLION block) with bare *QUAESTIO II.*
-header + rubric and *Secundo quaeritur…* opener. p. 353 footer
-carries 4 numbered notes (Aristot. II de Caelo text. 43–82;
-*supra pag.* citation; Aristot. III de Anima text. 45 on stars
-having no organ for motion; Aristot. II de Caelo text. 35 seqq.
-with cod. Q + cc + ed. 1 variants); continue forward through
-p. 354 (where q2's Respondeo's *opinio mathematicorum* +
-*opinio philosophi et conclusio* + *Solutio oppositorum* runs)
-until the next semantic boundary at QUAESTIO III's opener
-(*Tertio quaeritur, utrum conveniat alicui orbi moveri absque
-stellis*) on the lower half of p. 354. q2 carries NO scholion —
-the article-level 3-section SCHOLION is attached to q1 per the
-locked Vol II convention (verify against the existing q1 chunk's
-SCHOLION III bibliography for *2. quaestione*). q1 forwards no
-apparatus notes into q2.
+**Promote `d14-p2-a1-q3`** *(manual-rescue)* — *Utrum conveniat
+alicui orbi moveri absque stellis.* Opens at raw line 25065 on
+p. 354 R bottom with the OCR-garbled *QUAESTIO spectat / 111.*
+header (this is the auto-chunker garble for *QUAESTIO III.* that
+caused the d.11–d.20 boundary sweep to re-split this chunk from
+the original q2+q3 lump in 2026-05-23) and *Tertio quaeritur,
+utrum conveniat alicui orbi moveri absque stellis* opener. p. 354
+footer note 3 (Cfr. supra d. 2. p. II. a. 1. q. 1.) hands forward
+from `d14-p2-a1-q2` as [^1] — body-anchored at the *caelum
+empyreum* cross-reference in q3's first affirmative argument.
+Continue forward through pp. 355–356 (and possibly into 357) until
+the next semantic boundary at ARTICULUS II's opener. Generate
+p. 355+ crops as needed (p. 354 already cached). Watch the
+QUAESTIO III header garble: re-set the printed *QUAESTIO III.* +
+rubric *Utrum conveniat alicui orbi moveri absque stellis* from
+PDF directly, not from OCR.
 
 The "Vat. … quando" parked footer from `d14-p1-littera` Notes still
 has no obvious d.14 anchor — defer to the polish-blocker. The "Art. 2.
