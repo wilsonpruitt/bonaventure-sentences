@@ -1,7 +1,50 @@
-# Next session — **d16-a2-q1 DONE.** Begin `d16-a2-q2`.
+# Next session — **d16-a2-q2 DONE.** Begin `d16-a2-q3`.
 
-**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 + d16-a1-q2 + d16-a1-q3 + d16-a2-q1 = 189 chunks promoted.** Build: 600 translated,
+**d.1–d.15 = 183 chunks + d16-littera + d16-divisio + d16-a1-q1 + d16-a1-q2 + d16-a1-q3 + d16-a2-q1 + d16-a2-q2 = 190 chunks promoted.** Build: 601 translated,
 879 quaestio routes.
+
+## Last session (2026-05-25, d.16 seventh chunk — d16-a2-q2 promotion)
+
+Promoted `d16-a2-q2` Tier-2:
+- *Utrum imago principalius sit in masculo quam in femina.* Spans
+  p.403 L band 0 (QUAESTIO II header + italic title + opener *Secundo
+  quaeritur, utrum principalius sit imago in masculo quam in femina.
+  Et quod sic, videtur.* immediately after p.402 R SCHOLION III close;
+  raw 28398) → p.403 L bands 1–2 (*Ad opposit.* args 1–4) → p.403 R
+  band 0 (*Contra / Fundamenta* args 1–4 + CONCLUSIO) → p.403 R
+  bands 1–2 (Respondeo with *Conclusio 1.* + *Conclusio 2.* +
+  *Ad argg.*) → p.404 L band 0 (Ad argg. 1, 2 ad oppositum solutio
+  with Augustine *XII de Trin.* exposition closing at *accidentaliter.*
+  immediately before QUAESTIO III opener at raw 28474). q3 opens
+  on p.404 R band 0.
+- **13 apparatus entries [^1]–[^13].** Page-split map: p.403 L
+  footers 1–6 = [^1]–[^6] (1 Cor 11,7 + Glossa/Augustine cross-ref +
+  Gen 1,26 + Gen 1,27 / Gen 2,18 / 2,21 + Aristot. X Metaph. text 25
+  + Cfr. Aug. XIV de Trin. c.16 n.22 with Col 3,9 plus *non ordinatur*
+  variant); p.403 R footers 7–10 = [^7]–[^10] (Quaest. praeced. + I
+  Sent. d.3 p.II a.1 q.1 cross-ref + Gal 3,28 + Vat. *imago* pro
+  *magis* + 1 Cor 11,3 + 11,8); p.404 L footers 1–3 = [^11]–[^13]
+  (Aug. XII de Trin. c.7 nn.10+12 with cross-refs + *ibi* codex
+  variant + Eph 5,22 + *Vide scholion ad praecedentem quaest.*).
+  p.404 L footers 4+ belong to d16-a2-q3.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Ad opposit.*, *Fundamenta.*, *Conclusio 1.*, *Conclusio 2.*,
+  *Ad argg.*, *Ad argg. 1, 2 ad oppositum*.
+- `has_scholion: false` — d.16-a2 doctrinal scholion (SCHOLION I on
+  *simpliciter* / *secundum quid* distinction) lives in d16-a2-q1 per
+  the printed layout; SCHOLION III on p.402 R = forward-pointer
+  commentator list for q2 anchored in q1, does NOT migrate. Confirmed
+  by p.404 [^13] = *Vide scholion ad praecedentem quaest.* explicit
+  pointer back to q1.
+- No `[?]` flags — all 13 anchors + 6 marginal labels crisp at 450
+  dpi across pp.403–404.
+- Forward hand-off to d16-a2-q3: none — q3 opens p.404 R band 0
+  with its own Fundamenta args 1–4 + footers 4+.
+- Audits: paraphrase HIGH (expected first-pass); apparatus-count
+  flag CLEARED for q2 (skeleton flags persist on d16-a2-q3 +24 and
+  d16-dubia +23 — clears as they promote); header audit DUB-LOSS
+  still fires because d16-dubia is skeleton.
+- Build: 600 → 601 translated, 879 quaestio routes.
 
 ## Last session (2026-05-25, d.16 sixth chunk — d16-a2-q1 promotion)
 
@@ -275,8 +318,8 @@ column-band PDF read. p.403 crops already cached at
 - ~~`d16-a1-q2`~~ **DONE 2026-05-25.**
 - ~~`d16-a1-q3`~~ **DONE 2026-05-25.**
 - ~~`d16-a2-q1`~~ **DONE 2026-05-25.**
-- **`d16-a2-q2`** — *Utrum imago principalius sit in masculo quam in femina.* — NEXT. (skeleton)
-- `d16-a2-q3` — (skeleton)
+- ~~`d16-a2-q2`~~ **DONE 2026-05-25.**
+- **`d16-a2-q3`** — *Utrum imago principalius sit in cognitiva quam in affectiva.* — NEXT. (skeleton)
 - `d16-dubia` — (skeleton)
 
 ## Last session (2026-05-25, ninth chunk — d15-dubia promotion; d.15 CLOSED)
