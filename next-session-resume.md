@@ -1,8 +1,40 @@
-# Next session — **d.20 seventh chunk d20-a1-q5 DONE 2026-05-25.** Begin `d20-a1-q6`.
+# Next session — **d.20 eighth chunk d20-a1-q6 DONE 2026-05-25.** Begin `d20-dubia` (final d.20 chunk).
 
-**d.1–d.19 ALL DONE + d20-littera + d20-divisio + d20-a1-q1 + d20-a1-q2 + d20-a1-q3 + d20-a1-q4 + d20-a1-q5 DONE = 226 chunks promoted.** Build: 637 translated, 879 quaestio routes.
+**d.1–d.19 ALL DONE + d20-littera + d20-divisio + d20-a1-q1 + d20-a1-q2 + d20-a1-q3 + d20-a1-q4 + d20-a1-q5 + d20-a1-q6 DONE = 227 chunks promoted.** Build: 638 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.20 seventh chunk — d20-a1-q5 promotion)
+## Last session (2026-05-25, d.20 eighth chunk — d20-a1-q6 promotion)
+
+Promoted `d20-a1-q6` Tier-2:
+- *Utrum aequalis fieret multiplicatio virorum et mulierum, si homo stetisset.* Spans p.485 L-1 at raw 34094 (`QUAESTIO VI.` + italic title + opener *Sexto et ultimo quaeritur, utrum aequalis fieret multiplicatio virorum et mulierum* + *Fundamenta* args 1–4 Deus-masculum-et-feminam-pari-numero Gen 1,27 + generatio-non-nisi-per-masculum-et-feminam-aequaliter-intenderet + vir-intendit-salvare-in-simili-mulier-in-consimili + Crescite-et-multiplicamini + matrimonium-duo-in-carne-una) → p.485 R-1 (*Ad oppositum* args 1–4 Philos. *de Animalibus* II *femina vir occasionatus* + *Natura semper desiderat melius* + generatio-maris-propter-vigorem + semen-viri-praedominatur-trahit-ad-propriam-naturam + CONCLUSIO + Respondeo *aequaliter natura multiplicaret viros et mulieres* + *Ratio finis ad quem* matrimonii-lege-tot-mulieres-quot-viros + *Ratio principii effectivi* triplex-ratio-naturalium-medicorum) → p.486 (vas-suscipiens / commixtio / virtus-seminis-virilis with *Notandum* tertia-principalior + *Ratio 3 declaratur* ex caliditate-membri / exterioris-adiutorii Boreas-Auster / animae-imaginationis Iacob-oves + *Quoad statum naturae lapsae* membri-complexio + *Quoad statum naturae institutae* virtus-animalis-imaginantis voluntati-rationali subesset *adiutorium simile sibi* legis-matrimonii) → p.487 L-1 (Solutio oppositorum ad 1 femina-vir-occasionatus-defectus-non-repugnat-ordini-naturae + ad 2 melius-in-ordine-non-simpliciter + ad 4 praedominatio-debilitate-seminis-virilis + ad 3 vir-actione-magis-vel-minus-fortificata-twin-theory close at *magis rationabilis* at raw 34256 immediately before `DUBIA CIRCA LITTERAM MAGISTRI.` at raw 34257).
+- **19 apparatus entries [^1]–[^19].** Page-split map: p.485 L-2 ¹–⁶ = [^1]–[^6] (Gen 1:27 + cod *ita et* + *salvari* + Gen 1:28/2:24 + Aristot. II *Generat. anim.* c.3 *femina mas laesus* Greek + Aristot. II *Generat. et corrupt.* text 59 with *desideraret* variant); p.485 R-2 ⁷–¹⁰ = [^7]–[^10] (Aristot. IV *Generat. anim.* + Avicenna III Canon Fen 21 + *vide supra q.1* + multi-ref Aristot. IV + Averroes + Avicenna III Canon Fen 20/21 + *seminis* variant); p.486 L-2 ¹–⁴ = [^11]–[^14] (supra pag. 219+421 *triplex calor* + Aristot. I *Gen. anim.* c.20 + Vat. *quod quidem est* + Aristot. IV c.2 + Averroes + long [^14] Gen 30:37 + Aug. *de Trin.* III/XI + *de Civ. Dei* XII/XVIII + Avicenna I Canon Fen 2 Iacob-oves block); p.486 R-2 ⁵–⁷ = [^15]–[^17] (Gen 2:18 + cod F *vis generativa* + *unde modo* variant + Vat. *dispositionis*); p.487 L-2 ¹–² = [^18]–[^19] (*praedominabatur* imperfect variant + *Vide scholion ad praecedentem quaest.* sibling-pointer to q5 SCHOLION II commentator-roll).
+- Marginal labels preserved inline per locked Vol II convention (eleven labels): *Fundamenta.*, *Ad oppositum.*, *Conclusio.*, *Ratio ex parte finis.*, *Ratio ex parte principii.*, *Notandum.* (×2), *Redditur triplex ratio.*, *Ratio 3 declaratur ex tribus rationibus.*, *Quoad statum naturae lapsae.*, *Quoad statum naturae institutae.*, *Solutio oppositorum.*
+- `has_scholion: false` — sibling-pointer to q5 SCHOLION II on p. 484 R-2 (commentator-roll for q6: Alex. Hal., S. Thom., Petr. a Tar., Richard. a Med., Aegid. R., Durand.). Per Vol II Override step 5, no-scholion is normal when sibling's scholion declares joint coverage.
+- No `[?]` flags — all 19 anchors crisp at 450 dpi across pp.485–487. OCR cascade-fragmented through entire Respondeo (Ratio finis + Ratio principii triplex-vas/commixtio/virtus + Notandum tertia-principalior + Ratio 3 declaratur triplex-caliditas/adiutorium/anima Iacob-oves) + *Quoad statum naturae lapsae/institutae* dichotomy + Solutio ad 1+4+3 reordering (printed page closes ad 1 → ad 2 → ad 4 → ad 3, not Fundamenta order); column-band PDF read authoritative per Vol II Override step 1.
+- Cross-chunk hand-off: received NONE from d20-a1-q5 (q5 captured both SCHOLION I and SCHOLION II for p. 484 R-2). Forward hand-off to d20-dubia: **p. 487 L-2 footers ³+** (Aliqui codd. *dubitationes* + Vat. cum edd. 3,4 *hic* + Dist. 31 a.1 q.1 + a.2 q.1 multi-ref cross-ref for Dub. II — De hac ratione cfr. B. Albert hic a.6, S. Thom. circa lit., Aegid. R. hic dub. lit. 3 + Vers. 32 Eph 5,32 *Sacramentum magnum*) all anchor in DUB. I/II/III/IV body opening on p. 487 L-1 mid-page at raw 34259.
+- Audits (d.20 eighth-pass): paraphrase 0 CRITICAL / 1 HIGH (only d20-dubia skeleton remaining — d20-a1-q6 lands in OK); apparatus-count flag CLEARED for d20-a1-q6 (not in flagged list — only d20-dubia flagged SKELETON-SUSPECT); header diffs clean (ART -1, QUAEST +2, DUB -1 from remaining dubia skeleton).
+- Build: 637 → 638 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d20-dubia`** — ninth and FINAL d.20 chunk. *Dubia circa litteram Magistri (Dist. XX).* DUB. I opens on p. 487 L-1 mid-page at raw 34259 with `DUB. I.` + opener *In parte ista sunt quaestiones circa litteram, et primo quaeritur de hoc quod dicit, quod infirmitas prona ad ruinam turpitudinis excipitur honestate nuptiarum* + Respondeo *non dicitur de turpitudine quae sonat in culpam, sed magis sonat in poenam* + Dist. 31 *tractatu de matrimonio* cross-ref. Then DUB. II *quod in paradiso essent nuptiae honorabiles* + Eph 5,32 *Sacramentum magnum* + Apostolus ad Ephesios quinto. Then DUB. III + DUB. IV on subsequent pages. Per the d20-a1-q6 forward hand-off, p. 487 L-2 footers ³+ (Aliqui codd. *dubitationes* + Vat. *hic* + Dist. 31 multi-ref + Vers. 32 Eph 5,32) all migrate here. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read. p. 487 crops already cached at `/tmp/colcrop/vol2-p487-*`; generate p. 488+ as needed.
+
+**After d20-dubia closes, the d.11–d.20 decade-polish-blocker triggers** before d.21+ dispatch.
+
+## d.20 chunk inventory (in semantic order)
+
+- ~~`d20-littera`~~ **DONE 2026-05-25.**
+- ~~`d20-divisio`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q1`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q2`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q3`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q4`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q5`~~ **DONE 2026-05-25.**
+- ~~`d20-a1-q6`~~ **DONE 2026-05-25.**
+- **`d20-dubia`** — NEXT. (skeleton)
+
+---
+
+## Prior session (2026-05-25, d.20 seventh chunk — d20-a1-q5 promotion)
 
 Promoted `d20-a1-q5` Tier-2:
 - *Utrum quoties fuissent coniuncti, toties prolem genuissent.* Spans p.483 R-1 at raw 33969 (`QUAESTIO V.` + italic title + opener *Quinto quaeritur, utrum in qualibet coniunctione viri et mulieris esset prolis generatio* + *Fundamenta* args 1–4 matrimonium-pro-tempore-innocentiae-solum-officium-non-remedium + qui-debitum-petit-praeter-necessitatem-venialiter + nunquam-homo-comedisset-quin-sumsisset-refectionem + nunquam-homo-seminasset-terram-quin-collegisset-fructum) → p.483 R-1 mid (*Ad oppositum / Sed contra* args 1–4 vis-nutritiva-semen-administrat-generativae + sicut-comedere-actus-naturalis-ita-coire + ponatur-Adam-cognosceret-praegnantem + non-erat-maior-inordinatio-quam-admovendo-manum-ad-os) → p.484 (CONCLUSIO + Respondeo *vir in quolibet actu quo cognovisset uxorem suscepisset ex ea prolem* with *Ratio 1* duplicis-ordinis-virtutis-generativae-ad-rationem + *Ratio 2* perfectio-virtutis-generantis-et-concipientis + Solutio oppositorum ad 1–4: temperate-quod-superfluitas-tertiae-digestionis + actus-comestionis-ordinatus-ad-salutem-individui-vs-conservatio-speciei + praegnans-non-potest-cognosci-sine-deordinatione + *similitudo/dissimilitudo* hand-to-mouth + determinatio-usus-membrorum-ad-procreationem) → p.484 R-1 close + SCHOLION I (q5 commentators) + SCHOLION II (q6 commentators) at raw 34093 immediately before `QUAESTIO VI.` at raw 34094.
