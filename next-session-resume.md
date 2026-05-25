@@ -1,11 +1,77 @@
-# Next session — **d.15-a1-q2 DONE.** Begin `d15-a1-q3`.
+# Next session — **d.15-a1-q3 DONE.** Begin `d15-a2-q1`.
 
-**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 + d.15-a1-q2 = 178 chunks promoted.** Build:
-589 translated, 878 quaestio routes. Vol II d.1–d.10 LIVE on
+**d.1–d.14 + d.15-littera + d.15-divisio + d.15-a1-q1 + d.15-a1-q2 + d.15-a1-q3 = 179 chunks promoted.** Build:
+590 translated, 878 quaestio routes. Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
 
-## Last session (2026-05-25, fourth chunk)
+## Last session (2026-05-25, fifth chunk)
+
+Promoted `d15-a1-q3` Tier-2:
+- *Utrum corpora animalium magis constent ex elementis passivis
+  quam activis.* Spans p. 379 L bands 1–2 + R bands 1–2 (q3 opener
+  immediately below q2 SCHOLION II close on p. 379 R band 0;
+  *Pro 1. opinione* arg. 1–4 on L + *Ad oppositum* / *Pro 2. opinione*
+  arg. 1–3 on R) → p. 380 L+R (arg. 3 wraparound + arg. 4 with
+  *Replicatur.* clause + arg. 5; CONCLUSIO + Respondeo opening
+  *Duplex quantitas et praedominantia.* + *Conclusio 1./2.* +
+  *Ratio ex fine, tripliciter.* + *Idoneitas ad vitam.* +
+  *Item ad sensum.* + *Item ad motum.*) → p. 381 L (Augustine *Ignis
+  omnia penetrat* citation tail + *Aqua igitur et terra…* artisan
+  analogy + *Duplex commixtio.* + *Duplex modus producendi.* +
+  *Corollarium.* on natatilia/volatilia + Augustine *Iste inferior
+  aër*) → p. 381 R bands 0–2 (close of Augustine citation + general
+  resolution *Ex praedictis igitur patet…* + *Ad replic. in 5.
+  pro 2. opinione.* solutio ad 4 + ad 5, closing at `…potissimum
+  enim actum suum ibi exercent.`). p. 382 opens ARTICULUS II.
+  (next chunk). q3 has **no scholion of its own** — the printed
+  footer note 7 at the chunk close = *Vide scholion ad praecedentem
+  quaest.* redirects to the q2 SCHOLION I+II (consistent with q1
+  SCHOLION I's `pro quaest. seq.` pointer; locked Vol II Override
+  step 5 sibling-shared-scholion pattern).
+- 23 apparatus entries renumbered sequentially across three pages:
+  p. 379 L footer 1–4 = [^1]–[^4] (Elementa passiva/activa
+  editorial gloss + Gen 1,20+24 + Aristot. II. de Gener. et corrupt.
+  text. 50 + Aristot. de Respirat. + cod. A *animalium*); p. 379 R
+  footer 5–8 = [^5]–[^8] (Aristot. II. de Partib. anim. + de Spir.
+  et anima; Aristot. de Longit. et brevit. vitae; Cap. 5 n. 7 +
+  cross-ref p. 319; Aristot. III. de Anima text. 40); p. 380 L
+  footer 1–3 = [^9]–[^11] (Aristot. II. de Gener. anim. c. 3 *nobile
+  perfectibile*; Aristot. I. de Caelo text. 8 secundum quantitatem;
+  Gen 1,20+26 + *secundum* desideratur); p. 380 R footer 4–8 =
+  [^12]–[^16] (August. de Quant. animae c. 3 n. 4 *vitam et sensum
+  et motum*; Aristot. II. de Anima text. 36 + Vat. *molem*;
+  harmonia controversy + Avicenna; August. cap. 4 n. 6 *Tactus
+  quintus*; cross-ref cap. 4 n. 6 *Ignis omnia penetrat*); p. 381 L
+  footer 1–4 = [^17]–[^20] (Cod. cc + ed. 1 *quia*; Vat.
+  *fluctuantis*; codd. *aëre*/cod. K *aërem*; Cap. 6 n. 8 with the
+  long Maurist textual gloss); p. 381 R footer 5–7 = [^21]–[^23]
+  (Sola Vat. *quia aves moventur sursum* + numbering remark;
+  Plures codd. *quia actus et motus maxime est in volatu*;
+  *Vide scholion ad praecedentem quaest.*). No `[?]` flags — all
+  anchors crisp at 450 dpi.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Pro 1. opinione.*, *Pro 2. opinione.*, *Replicatur.*,
+  *Duplex quantitas et praedominantia.*, *Conclusio 1.*,
+  *Conclusio 2.*, *Ratio ex fine, tripliciter.*,
+  *Idoneitas ad vitam.*, *Item ad sensum.*, *Item ad motum.*,
+  *Duplex commixtio.*, *Duplex modus producendi.*, *Corollarium.*,
+  *Ad replic. in 5. pro 2. opinione.* — all crisp at 450 dpi
+  from p. 379 L+R gutters, p. 380 L+R gutters, p. 381 L gutter.
+- Cross-chunk footer-split check: q2's Notes explicitly stated
+  `p. 379 carries no q2-side footer; q3's footers will live in
+  d15-a1-q3`. The 4 L-column + 4 R-column p. 379 footer notes all
+  anchor unambiguously in q3 (none migrate back to q2). q3-close
+  footer 7 at p. 381 R = the *Vide scholion ad praecedentem quaest.*
+  pointer (intra-chunk).
+- Audits: paraphrase HIGH (expected first-pass); apparatus-count
+  flag cleared for q3 (skeleton flags persist on `d15-a2-q1` +30,
+  `d15-a2-q2` +24, `d15-dubia` +28 — clears as those promote);
+  header audit ART -1 / DUB -1 fires because `d15-a2-q1/q2` +
+  `d15-dubia` are still skeleton — clears as those promote.
+- Build: 589 → 590 translated.
+
+## Prior session (2026-05-25, fourth chunk)
 
 Promoted `d15-a1-q2` Tier-2:
 - *Utrum corpora animalium sint composita ex quatuor elementis.*
@@ -169,15 +235,17 @@ proceeds without `d15-p1-*` or `d15-p2-*` files; see chunk list below.
 
 ## What to do this session
 
-**Promote `d15-a1-q3`** — third quaestio under ARTICULUS I.
-Opens immediately after the d15-a1-q2 SCHOLION block at p. 379 L
-column mid (`QUAESTIO III. — Utrum corpora animalium magis constent
-ex elementis passivis quam activis.` at raw 26762) → spans into
-p. 380+. Standard Vol II Tier-2 procedure: 450 dpi column-band PDF
-read for every Respondeo + footer.
+**Promote `d15-a2-q1`** — first quaestio under ARTICULUS II
+(*De ordine, quo animalia sunt producta*). Opens at p. 382 L
+(`ARTICULUS II.` running head + *Consequenter quaeritur, quo ordine
+animalia sint producta. Et circa hoc quaeruntur tria.* at raw 26953)
+→ spans into pp. 383+. Vol II Override step 5: a short ARTICULUS
+opener (`Consequenter…quaeruntur tria…`) folds into that article's
+**q1** — no standalone `d15-a2-divisio` chunk. Standard Vol II Tier-2
+procedure: 450 dpi column-band PDF read for every Respondeo + footer.
 
-Remaining d.15 chunk inventory in semantic order after d15-a1-q3:
-`d15-a2-q1`, `d15-a2-q2`, `d15-dubia`.
+Remaining d.15 chunk inventory in semantic order after d15-a2-q1:
+`d15-a2-q2`, `d15-dubia`.
 (Vol II convention: a short articulus opener like *Consequenter...
 quaeruntur duo...* folds into that article's q1, so no standalone
 `d15-a1-divisio` or `d15-a2-divisio`.)
@@ -194,8 +262,8 @@ q2 body) pending the polish-blocker.
 - ~~`d15-divisio`~~ **DONE 2026-05-25.**
 - ~~`d15-a1-q1`~~ **DONE 2026-05-25.**
 - ~~`d15-a1-q2`~~ **DONE 2026-05-25.**
-- **`d15-a1-q3`** — NEXT.
-- `d15-a2-q1`
+- ~~`d15-a1-q3`~~ **DONE 2026-05-25.**
+- **`d15-a2-q1`** — NEXT.
 - `d15-a2-q2`
 - `d15-dubia`
 
