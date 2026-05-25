@@ -6,322 +6,242 @@ distinctio: 15
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 26961
-line_end: 27257
-word_count_latin: 3477
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Utrum omnia sensibilia facta sint propter hominem"
+title_en: "Whether all sensible things were made for the sake of man"
+printed_pages: [382, 383, 384]
+pdf_pages: [404, 405, 406]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 382–384"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from 450 dpi PDF column bands (Vol II Override), fresh literal English translation, full apparatus from PDF footers (16 entries) + scholion I–III (2026-05-25)"
 format_version: 1
 ---
 
 # bon-sent-II-d15-a2-q1
 
+## *Utrum omnia sensibilia facta sint propter hominem.*
+
+---
+
 ## Latin
+<!-- page 382 -->
 
-QU.VESTIO I.
-                                           Utrum ornnia sensibilia facta sint propter hominem.
+### Articulus II. *De ordine, quo animalia sunt producta.*
 
-                   Circa primuni sic proceditur etquaeritur, utrum                      3. Item, si animalia facta sunt propter homi-
-             omnia sensibilia facta sint propter hominem. Et quod                 nem, ergo nulla debent esse facta contra hominem;
-             sic, videtur:                                                        sed bestiae sunt nocivae: ergo non debuerunt fieri
-                                                                                  in primaria rerum conditione, aut certe frustra
-                    1. Primo per Scripturam, Genesis primo": Do-                  factae sunt. Si tu dicas, quod bestiae non possent
-Tnniamenia. 7ninamini piscibus maris et volalilibus caeli etc.
-             Et post, Genesis nono: Omnes pisces maris ma-                        nocere, si homo non peccassel'; tunc videtur, quod
-             nui vestrae traditi sunt , et omne quod move-                        post peccatum hominis sit nova potentia eis tradita.
-             tur et vivit: ergo omnia ad utilitatem hominis fa-                         4. Item, si animalia facta sunt propter habita-
-             cta sunt.                                                            tionem hominis decorandam , cuni in statu innocen-
-                   2. Item, Apostolus primae ad Corinlhios ter-                   tiae non deberet habitatio foedari , videtur, quod non
-             tio ' : Omnia vestra sunt, hoc dicit viris iustis:                   debuerunt corruptibilia animalia fieri, quae suis cor-
-             ergo propter viros iustos omnia quaecumque facta                     ruptionibus et exhalationibus inflcerent aerem. Si tu
-             sunt, sunt producta : ergo et animalia sensibilia.                   dicas , quod non corrumperentur ; hoc est contra Au-
-                   3. Item , Philosophus *: « Homo est fmis quo-                  gustiuum super Genesim ad litteram libro tertio%
-             dam modo omnium eorum quae sunt » : ergo et sen-                     qui dicit, tunc facta esse animalia viventia de ra-
-             sibilium.                                                            pina. Ait enim sic: «Quaedara refectionem corporis
-                   4. Item, omnia bonum exoptant, non quodcum-                    sui ex aliorum corporibus qnaerunt », ubi loquitur
-                                                                                  de bestiis.
-             que, sed sumuium, sicut vult Dionysius " et Philo-
-             sophus; sed inter creaturas inferiores sohis homo                          0. Item, quidquid sit de hoc, sive morianlur
-             natus est immediate ad Deum pertingere : ergo aliae                  sive non moriantur, videtur, quod animalia, quae
-             creaturae ordinantur in finem mediante homine. Sed                   alia devorant, hominis habitationem dehonestent, cum
-             quod in finem ordinatur mediante alio, est propter                   ea destruant, quae ad ipsius faciunt decorem et
-             illud : ergo omnia seasihilia facta sunt propter ho-                 ornatum.
-             minem.
-                   Sed contra: I. Tantae dignitatis est esse re-                                             c 0 N c L u s 1 0.
- Aii opposi- rum finem , sicut esse principium ; sed sensibiiium
-    '™- animalium solus Deus fuit principium, ita quod                            Omnia sensibilia facta sunt propter hominem ,
-             non homo : ergo eorundem fmis est non homo ,                             aliter tamen in statu innocentiae , aliter in
-             sed Deus.                                                                stalu nalurae lapsae.
-                   2. llem, quacdam sunt animalia, quae non va-
-             lent homini nisi ad esum, quaedam, quae non va-                           Respondeo: Ad praedictorum intelligentiam esl
-             lent nisi ad vestimentum; sed homo, si stetisset his                 notandum, quod finis, ad quem res ordinantur , uupiex fmis.
-             non indiguisset : ergo huinsmodi animalia aut facta                  duplex est. Quidam enim est finis principalis et
-             essent frustra, aut non sunt facta propter hominem.                  ultimus, quidam vero est finis sub fine. Si primo
-             Si tu dicas, quod Dens ea fecit, quia praevidit,                     modo loquamur de fine, sic omnium creaturarum
-             hominem esse lapsurum"; tunc videtur, quod in                        tam rationalium quam irrationalium finis est Deus, canc\as\o i.
-             voluntate hominis et peccato consisteret, utruni iila                                                  creavit Altissimus';
-             animalia frustra facta essent; quod falsum est.                                   fecil ad semelipsum
-                                                                                         enim propter
-                                                                                  quia omnia
-                                                                                  omiiia                 laudem suae bonilatis. Si autem
+Consequenter quaeritur, quo ordine animalia sint producta. Et circa hoc quaeruntur tria.
 
+Primo quaeritur de ordine productionis ex parte finis. Secundo vero ex parte temporis. Tertio vero de ordine[^1] productionis et quietis.
 
-               ' Vat. ex parte pi-o ile ordine.                                        ' Secundum .\iignst., III. de Gen. ad lit. c. 13. n. 24. Cfr.
-               2 Vers. 28. — Scq. ti-xlus est loc. cit. v. 2. sei|.               hic lit. Magistri, c. 3. — Cod. aa potuissent pro possent. Ali-
-               3 Vers. 22.
-                                                                                                                                 liomiin |)i-o sed besliae.
-               * Libr. 11. Pliys. te.xt. 2i. fc. 2.).                             quanto        16. n.Vat.25. sed multae bestiae
-                                                                                           su]5erius
-                                                                                       8 Cap.
-               5 De Div. .Nom. c. L § 1 0. — .\ristot. , I. Etliic. c. 1 . Cfr.        ^ Prov. 16. 4 ; Universa propter semetipsnm operatus est
-         etiam Boeth. , III. de Consol. prosa 2. el 1 0. se(|.
-                                                                                  Dominus. Cfr. supra lit. Magistri, d. 1. c. 4. et ibid. Commenl.
-               « Sicut tlicit Dnmasc. , II. de Fide orlhod. c. 10. — Paulo        p. II. a. 2. cj. 1. — Paulo infcrius Vat. sensibilia alia pro
-         irilerius pkircs codd. cuui Vat. ei potestate pro et peccato.            sensiliilia animalia.
-                                                             DIST. \V. ART. 11. QU.\EST. 1.                                                    383
+### Quaestio I. *Utrum omnia sensibilia facta sint propter hominem.*
 
-              loquamur de fiue non p?-mcipali, qui est flnis quo-                 naliter laedunt, aut salubriler exercent , aut ulili-
-:>Dclu3io :   liam modo et flnis sub flne; sic omnia sensibilia                   ter probant, aut ignoranter docent».
-              animalia facta .sunt propter homineni.                                    Et sic patet, quod tam liestiae quam reptilia elEpiiogns.
-                    Et hoc insinuat Philosophus, cum dicit: «Su-                  iumenta facta sunt propter hominem, sive in statu in-
-              mus finis nos qnodam modo omnium eorum quae                         nocenliae, sive in stalu naturae lapsae. Planum est
-              sunt». [nsinual etiam Scriptura multo excellentius,                 etiam per hoc illud quod obiicitur in contrarium.
-              cum dicit ' : Facimnus hominem ad imaginem et                             1. Ad illud enim quod obiicitur, quod esse fi- soiutio op-
-              similitudinem noslram, et praesil piscibus ma-
-              ri^ etc. Quia enim homo rationis capax est, ideo                    est
-                                                                                  neni dest fine       dignitatis;
-                                                                                                  principali,
-                                                                                             magnae                                     flne; ''°*"'""°
-                                                                                                                                carensverum
-                                                                                                                         flnis, quod
-                                                                                                                   dicendum
-                                                                                                                qui est
-              habet hbertatem arbitrii et natus est piscibus domi-                non autem est verum de fine, qui est finis quo-
-              nari; quia vero per similitudinem natus est in Deum                 dam modo.
-              immediate tendere, ideo omnes creaturae irrationales                      2. Ad iihid quod obiicitur de animalibus non
-              ad ipsum ordinantur, ut mediante ipso in finem ulti-                valentibus nisi ^ ad esum et vestimenlum , respon-
-              mum perducantur. — Et sic concedendae sunt raliones                 deri potest, quod illa fecit Deus, quia praevidit
-              ostendentes, animaha propter hominem facta esse.                    hominem lapsurum; esto tamen, quod non labere-
-                   .\d dissolutionem autem rationum, quae indu-                   tur, non tamen essent frustra; haberent enim prae-
-              cuntur in contrarium, notandum est, quod aliter                     ter relevationem indigentiae quadruplicem utilitatem,
-ODClusio 3. ordinantur animalia ad hominem secundum statum                        sicut determinatum est supra.
-              innocentiae, aliter secundum statum naturae la-                           3. Ad illud quod obiicitur de bestiis, quae sunt
-              psae. — Secundum statum innocentiae ordinantur                      contra hominem; dicendum, quod homine stante. Notandum.
-  nocentiae ad hominem secundum rationem quadruplicem. Pri-
-   statu in-                                                                      nulla animalia ipsum offenderent, sed omnia sibi
- qnadrupli- ma ratio est ad manifestandum eius imperium ,
- citer.
-                                                                                  mansueta essent, sicut aliquando divino imperio
-              quod manifestarent, dum ei per oninia obedirent.                    ferae crudelissimae Sanctis Dei mansuetae factae
-              Secundo , ad decorandum hominis habilaculum ;                       sunt, ut leones Danieli ^ Quod autem noceant vel
-              perpulcrum enim erat, habitationem hominis ani-                     offendant, hoc est propter peccatum hominis, non
-              malium multiplicatione, non solum arborum deco-                     propter novam potentiam eis datam, sed propter
-              rari. Tertio, ad excitandum- hominis sensum, ut                     dignilatis praesidentiam ab homine amissam. Unde
-              in ipsorum animalium naturis diversis videret homo                  sicut ocnlus sanus a sole non laeditur, sed cum
-              muUiformitalem sapientiae Conditoris. Quarto, ad                    efficitur lippus, statim offenditur, non propter mu-
-              movendum eius affectum , ut, dum homo videret,                      tationem faclam in sole, sed in oculo; sic in pro-
-              animalia secunduni rectitudinem suae naturae currere                posito intelligi potest.
-              et amare illud ad quod naturaliter facta sunt , ex                        4. 0. Ad illud quod obiicitur, quod homine
-              hoc excitaretur ad amandum Deuiii. — Et propler                     slante, non debuerunt fieri animalia mortalia; dicen-
-              has rationes non solummodo fecit Deus iumenta, sed                  dum, quod sicut animaha sua vita habitationem
-              etiam bestias et pecora; omnia enim faciunt ad                      hominis decorant et ornant, sic etiam morle sua
-              liominis utilitatem secundum raliones praedictas.                   ex successione faciunt ad universi decorationem. Et
-                    Secundum statum naturae lapsae ordinantur                     sicut animalia se invicem iuvantia sunt ralio sa-
-;era in stati
-atorae In-    ista animalia  ad uliUtatem hominis; sed aliter be-                 pientiae excogitandae ' , sic etiam animalia sese o/-
-sae cum di' stiae , et ahter iumenta et pecora. lumenta enim
-Jnctione.                                                                         fendenlia et de carnibus aUorum animalium nutri-
-              et pecora ordinantur ad relevandam hominis indi-                    mentum sumentia; quia illa corruptio aerem hominis
-              gentiam quantum ad cibum et quantum ad vesti-                       non inficeret, qui eius odoralum offenderet, sed
-              menlum ^ et quantum ad obsequium , sicut sunt                       potius quadam successione et ordine , dtfm animalia
-              equi et asini etc, et quantum ad solatium, sicut                    sibi succederent, universum decor.arent, tanquam
-              sunt quaedam aves et catuli et similia: et sic facta                pulcherrimum carmen, in quo syllaba succedit syl-
-              sunt propter hominem ratione quadruplici. — Simi-                   labae '. — Simihter, dum bestia aliud animal com-
-              hter bestiae sive animalia noxia ordinantur ad ho-                  edendo occideret, in hominis habitatione discor-
-              minem secundum quadruphcem rationem et utilita-                     diam non faceret, sed potius occasionem eruditionis
-              tem, quani ponit .\ugustinus super Genesim ad                       homini praeberet. Et hoc est quod dicit Augustinus
-              htteram hliro tertio^ Dicit enim, quod « aut poe-                   tertio ° super Genesim ad litteram : « Nimirum aliae
+Circa primum sic proceditur et quaeritur, utrum omnia sensibilia facta sint propter hominem. Et quod sic, videtur:
 
-                                                                                      « Dun. 6, 22.
-                     1 Geii. I , 26. — - Cfr. Augusl., 83. Qq. q. 13. el 30; et
-              Sei'm. 43., (alias de Verbis .\postoli, 27.). c. 2. n. 3. seq.           ' Respicere videlur ad Eecli. 16, o.
-                    - Cod. C excolendum , cod. T exercendum. Paulo inferius            8 Cfr. tom. I. pag. 7S6 , nota 7. et pag. 832 , nota i ,
-              cod. 1 excitandim, Val. modevandum pro movendum.                    ubi opera Augustini allegantur, in quibus liaec habelur senten-
-                    ^ .\liqui codd. vestilmn. — Cfr. do liis Danuisc. , II. de    lia. — Paulo superius Val. quod cius pro qni eius.
-              Fide orlliod. c. 10.                                                     ' Cap. 16. n. 23, in quibus verbis te,\tus originalis post
-                    * Cap. n. n. 20.                                              mntantw stibiungit : Quod etsi stultos latel , sublucet proficien-
-                    = Fide codd. Q U el exigente ipsa obitclione supplevimus      tibus chirumque perfectis esl. Cfr. I. de Gen. contra Manich.
-              ni.si. Vtit. vestitnm pro vestimentum.                              c. 16. n. 2-5. seq.
-         384                                                       SENTENTIARUM LIB. il.
+*Fundamenta.*
 
-         bestiae cibi sunt aliarum; nec recte possumus di-                           nere moderatione pulcritudinis temporalis, ex alio
-                                                                                     in aliud transeundo, mulanlur; et certe omnibus
-         cere, quod non essent aliae, quibus aliae vesceren-
-         tur; habent enim omnia, quamdiu sunt, mensuras,                             talibus inferioris creaturae motibus praebentur ho-
-         numeros et ordines suos, quae cuncla merifo con-                            mini salubres admonitiones». Deinde planius exem-
-         siderata laudantur, nec sine occulta pro suo ge-                            plificat. — Ex his patet responsio ad obiecta.
+1. Primo per Scripturam, Genesis primo[^2]: *Dominamini piscibus maris et volatilibus caeli* etc. Et post, Genesis nono[^3]: *Omnes pisces maris manui vestrae traditi sunt, et omne quod movetur et vivit*: ergo omnia ad utilitatem hominis facta sunt.
 
-                                                                         SCHOLIOK
-               I. De fim eiiisc|iie dislinctionibiis vide supra d. I. p. 11. a. 2.   II. Scnt. d. 1. p. II. q. 1. a. t. — Dionys. Carth. , 11. Sent.
-         q. I. Principia lioc loco explicata commuiiiter approbantur etma-           d. 1 . q. 8. — Biel , hic q. unica in fine.
-         gni momenli sunt pro etliica cliristiana (cfr. infra d. 16. a. 2. q. 1.).         111. De seq. quaeslione : Alex. Hal., S. p. II. q. S.d. m. 6.
-               II. Alex. Hal., S. p. II. q. 17. m. 3. — S. Thom., II. Sent.          — S. Thom. , hic q. 2. a. 2 ; S. q. 71. 72. — B. Alberl. ,
-                                                                                     S. p. II. tr. II. q. 63. m. 2. — Petr. a Tar. , hic q. 2. a. 2.
-         d". 1. q. 2. a. 3 ; S. c. Gent. 111. c. 22. 97. — B. Alberl., S.
-                                                                                     — Richard. a Med. , hic a. i. q. I . — .Egid. R. , hic q. 1 .
-         p. 11. tr. II. q. 63. m. 2. — Petr. a Tar. , hic q. 2. a. 3. —
-                                                                                     a. 1.2. — Dionys. Carlh., hic q. 3.
-         Rieliard. a Med. , hic II. Sent. d. I. a. •■;. q. 3. — .-Egid. W.,
+2. Item, Apostolus primae ad Corinthios tertio[^4]: *Omnia vestra sunt*, hoc dicit viris iustis: ergo propter viros iustos omnia quaecumque facta sunt, sunt producta: ergo et animalia sensibilia.
 
-                                                                           QU,\ESTIO II.
-                                         Quo ordine ex parte temporis Deus produxerit res sensibiles
-                                                                                           D. Homo enim plus convenit cum Angelis quam
-                    Secundo quaeritur de ordine productionis sen-
-             sibilium, quantuin est ex parte temporis. Et dicit                      cum bestiis^: ergo magis debuit produci eodem die
-                                                                                     cum Angelis quam eodem die cum bestiis: ergo
-             Scriptura ', quod volaliiia et natatilia facta sunt in
-                                                                                     productio hominis et bestiarum non recte facta est
-             uno die, scilicet quinto; gressibilia vero cum ho-                      in eodem die.
-             mine facta sunt die altero, scilicet sexto.
-                    Contra istum ordinem primo obiicitur ex parte                          6. Item, plus convenit irrationale cum irratio-
-              ipsorum animalium sensiljilium inse; secundo vero,                     nali quam cum homine sive rationali: ergo magis
-              in coraparalione ad hominem.                                           competens fuit in eodem die producere omnia ani-
-                                                                                     malia irrationalia, quam simul producere hominem
-                     1 . Contra primum obiicitur sic. Uno die ^ fue-                 et bruta.
- Ad opposi- runt omnia
-tum series 1. .           ,   .
-                               elementa distincta
-                                            ,
-                                                  , non solum
-                                                           ...
-                                                                 aer et
-argumentor. iguis, scd etiaiii aqua et terra : ergo pari ratione a                         7. Item, principalius opus diei debet primo
-              summo Opifice debent fuisse ornata: ergo in uno                        fieri; sed homo principalius opus fuit sextae diei:
-              die debuit fieri ornatus aeris et aquae et terrae.                     ergo debuit ante fleri, quam fierent sensibilia sive
-                     2. Item, distinctio dierum fit penes diversita-                 bruta; quod est contra ordinem sacrae Scripturae ".
-                                                                                           8. Item , posterius magis indiget priori quam e
-              tem operum^': ergo si tria sunt elementa, quae or-
-              nantur ex animalibus, et tria sunt genera anima-                       converso " ; sed bruta animalia magis indigebant ho-
-              lium, scilicet volatilia, natatilia et gressibilia, vide-              mine, quam homo indigeret eis secundum illum
-              tur, quod produci debtierunt saltem in tribus diebus.                  slatum: ergo ante debebat homo produci , quam illa
-                     3. Item, terra prior oiiinibus producta est: ergo               in esse prodirent.
-              prior omnibus debet esse ornata: ergo animalia,
-                                                                                                                 CONCLUSIO.
-              quae terram ornant, prius produci debuerunt, quam
-              illa quae ornant aquani vel aerem.
-                     4. Item, cum producuiUur animalia ornanlia                       in productione rermn sensibilium servatus est
-                                                                                          ordo convenientissimus secundum duplicem
-              elementa, aut prodiicunlur secundum ordinem di-
-              gnitatis, ut incipiatur a supremo; aut secundum                             distinctionem ordinis.
-               ordinem ascensionis , ut incipiatur ab infimo. Si
-              pri77io modo : ergo de]:ieret prius fleri ornatus ignis                       Respondko: Dicendum, quod in productione sen-
-               quam aeris. Si secundo modo: ergo prius deberet                        sibiliurn duplex attenditur ordo, unus scilicet se-D"piexor6
-               fieri ornatus terrae quain aquae ; quorum utrumque                     cundum distinctionem diei a die , alius scilicet se-
-                                                                                      cundum ordinern eorum quae eodem die producta
-               repugnat Scripturae sacrae ' et ordinationi produ-
-               ctionis, prius delerminatae quantum ad productio-                      sunt. — Primus autem ordo attenditur secundum exi-Piimus oro
-               nem ipsorum animalium.                                                 gentiam finis et matcriae. Et quia volatilia et
-                      Iten^ obiicitur contra ordinem productionis ani-                natatilia ex aquis producta sunt . prout aqua com-
-    series 2. maliuin in comparatione ad hominem.                                     muniter accipitur ad humorem et vaporem *, et sunt
+3. Item, Philosophus[^5]: «Homo est finis quodam modo omnium eorum quae sunt»: ergo et sensibilium.
 
-                ' Gen.   1 , 20. seqq.                                                     ^<^ Cfr.
-                                                                                               Gen. supra
-                                                                                                     1 , 2i.d. seqq.
-                                                                                                                 1. p. II. a. 2. q. 2.
-               - Scilieet die tertio, iit cxplioatum fuit siipra d. 1-t. p. 11.
-           dub. 1.                                                                          ' Cfr. Aristol., 11. Metapli. tcxl.   10. (1. brev.   c. 2.)   et V.
-                ' Vat. operatiomiiii.                                                 texl. 16. (IV. c. 11.,).
-               * Gen. 1 , 20. seqq. — Dc ordinatione productionis ani-                     * Cfr. supra a. 1. q. 3. in finc corp.
-           malium vide supra a. I. q. 2. seq.
-                                                        DIST. XV. ART. 11. OUAEST. II.
-                                                                                                                                            38o
-             ad ornatum nalui'ae perspicuae; ideo sacra Scri-                 bet '. —    Et sic '
-                                                                                                 patet, quod
-                                                                                                         '   divina sapienlia in pro- (;eneialis.
-                                                                                                                                        condusio
-             ptura dicit, ea facta esse uno die. Quia vero gres-              ductioue sensibdmm conservavit ordinem convenien-
-             sibilia non solum rationalia, sed etiam irrationalia             tissimum.
-             ad ornamentum terrae spectanl et ex eadem raateria                     l. Ad ilhid ergo^ quod primo obiicitur, ' quod soiutio  op-
-                                                                                                                                    positorum.
-             sunt producta, scilicet terra; ideo non in eodeni                elementa simul sunt distincta; dicendum, quod non
-             die, sed alio a praedictis facta sunt, ita quod, sicut           est simile: quia distinctio non est in uno eleinento
-             uno die ornata est natura caelestis, scilicet quarto,            nisi respectu alterius, ideo non potest distingui
-             sic nno die ornetur nalura elementaris perspicua,                unum elementum ab alio, quin alterum distingua-
-             scilicet quinto, et alio terra, scilicet sexto. Et sieut         tur ab eo^; non sic autem est in ornatu, ornatu*
-             natura caelestis praecedit elementarem perspicuam,               enim unius elementi non necessario respicit alterum.
-oiiclnsio i.
-             et perspicua opacam; sic harum naturarum orna-                        ± Ad illud quod obiicitur, quod tria sunt ele-
-             nienta sunt ordine temporis correspondente pro-                  menta, quae ornantur: ergo etc; dicendura, quod
-             ducta.                                                           etsi tria sint, ornatus tamen duorum, scilicet aeris
-                   Secundus autem ordo, qui est inter ea quae                 et aquae, non respicil illa, ut duo sunt, sed ut in
-  Secundus
-ordo.        producta   sunt eodem die, attenditur secundum prae-             uno communicant, scihcet in natura aquea, sicut
-             cellentiam perfectionis naturae; prius enim produ-               determinatum est supra"; et ideo duorum ornatus
-             citur quod imperfectum est, et deinde quod perfe-                ad eandem diem spectat, et productio animalium,
-             ctum, quia is est ordo, ut a minus completo per-                 quae iUa duo eleraenta ornant, in uno die est facta.
-             veniatur ad magis completum '. Et ideo Scriptura                       3. Ad illud quod obiicitur, quod terra prior
-onulusio ' prius dicit esse producta natatilia die quinto, quae               est producta; dicendum, quod falsuin est. Nara in
-             sunl minus perfecta quam volatilia; et similiter in              principio Genesis lerra non accipitur pro eleniento,
-             sexto die prius dicit esse producta irrationalia
-             quam hominem.                                                    sed 4.
-                                                                                   pro Admateria
-                                                                                            illud '.
-                                                                                                  quod obiicitur de igne, quod quia
-                   Quamvis multiplex assignari possit ratio, quare            est praecipuus inter eleraenta, prius deberet ornari;
-ilationes 3,
-aare bomo    homo     post creaturas ceteras est productus ; oc-              dicendum est, quod propter qualitatem activam
-ost omniti currit autem triplex ratio ad praesens, quare post
-roducitur.                                                                    non possunt in eo vivere animalia, et propter ni-
-             omnia productus esl homo; scilicet propler par-                  miam distantiam a nobis * non essent usui hominis
-             tium corporis multitudinem , propter animae et cor-              apta; et ideo non deterniinatur eius ornatus, nec
-             poris distantiam, et propter totius coniuncti per-               post nec antea. Terrae vero ornatus ordinatur po-
-             fectionem. Propter partium corporis multitudinem                 stremo, pro eo quod ipsa est infima et obscura, et
-             deljuit homo ultimo produci. Cum enim corpus eius                ideo maiori indiget ornaraento; et propter hoc or-
-             sit completissimum inter cetera corpora, et quanto               natur plantis et aninialibus et mineralibus, et in
-             aliquid compositius ', tanto posterius, post omnia               eius ornatu consistit totius ornatus compleraentum
-             producendus erat. — Propter animae et corporis                   quanlum ad horainem, qui est praecipuus inter alia'
-             distantiam debuit fieri post cetera. Quia enim distat            animalia.
-             anima a corpore, et non solum sicut forma a ma-                        5. 6. Ad illud vero quod obiicitur, quod honio
-             teria, sed etiam sicut spirituale a corporali et «si-            debuit produci cura Angelis, cum quibus magis
-             cut perpetuum a corruptibili^»; ideo magna distan-               coraraunicat; dicenduin, quod etsi raagis comrauni-
-             tia temporis delmit intervenire iuter productionem               cat, quantura est a parte animae, non tanien quan-
-             hominis quantum ad materiale principium et con-                  tuni esl a parte corporis '". — Siraililer ad sequens
-             iunctionem suarum partium, ut per distantiam tem-                dicenduni est, quod quamvis gressibilia et volatilia
-             poris intelligeretur distantia principiorum consti-              magis comnuuiicent in (bnnali perfectione, non ta-
-             tuentium. — Propter totius compnsiti perfectionem                raen tantum communicant quantura ad elementum,
-             post cetera debuit homo produci. Quia enim homo                  ex quo principaliter constiluuntur et quod ornant;
-             sua dignitate et complemento finis est oranium cor-              quod quidem est elemenlum terrae.
-             poralium ; ideo post orania erat producendus, ut sua                   7. Ad illud quod obiicitur, quod principalius
-             produclione flniret el cornpleret omnia praecedentia,            opus deberet esse prius ; dicendum , quod falsum
-             tanquam finis cnmplet quod ad ipsum ordinari ha-                 est, quia in eis quae producantur, prius est minus
+4. Item, omnia bonum exoptant, non quodcumque, sed summum, sicut vult Dionysius[^6] et Philosophus; sed inter creaturas inferiores solus homo natus est immediate ad Deum pertingere: ergo aliae creaturae ordinantur in finem mediante homine. Sed quod in finem ordinatur mediante alio, est propter illud: ergo omnia sensibilia facta sunt propter hominem.
 
+*Ad oppositum.*
 
-               ' Cfr. supra p<ig. 330, nota 5.                                ralione supra d. I. lit. Magistri, c. 6; Gregor. Naz., Oratio 37.
-               - Cod. cc et ed. 1 quanto nliquid completius [quod ctiam       n. 17; 42. n. 1.3. seqq. ; i3. n. II.
-         Vat. liabel] el compositius, tanto perfectius et poslerius. Ptiulo         * Cfr. Ari.stot. , 11. Pliys. text. 24. (c. 2.) et V. Metaph.
-         inferius cod. P Item propter pro Propter. — .Alex. Hal., S. p.       text. 21. (IV. c. 16.).
-         II. q. 83. m. 2. ait. : Alia aulem ralio fuit compositio ex mul-           = Vide supra d. 14. p. II. dub. I.
-         tis. Homo enim inter omnes creaturas est composilissimus ,                 " Hic in corp. quaesl. et supra a. I. q. 2. seq.
-         sicut liabetur in libro Kontis vitae (Avicebron)... Propter quod           ' Cfr. supra d. 12. a. I. q. .3. ad 1. 2. et dub. I.
-         dicit isaac in libro de Elemenlis : Homo in natm'ali genera-               * Vide supra pag. 321, nota 4.
-         tione ultimum est.                                                         ^ Pkires codd. cum Vat. omnia alia , cod. aa celera.
-             3 Aristot., II. dc Animn, text. 21. (c. 2.). — Cfr.    de hac          10 Cfr. supra d. 1. p. II. a. 2. q. 2. ad 2.
-                  S. Bomv. — Tnm. II.                                                                                                  49
-          386                                             SENTENTIARUM LIB. II.
+**Sed contra:** 1. Tantae dignitatis est esse rerum finem, sicut esse principium; sed sensibilium animalium solus Deus fuit principium, ita quod non homo: ergo eorundem finis est non homo, sed Deus.
 
-         perfeetum quaui magis perfectum secundum ordinem                aiiqua ordinantur ila, quod inter ea cadit ordo es-
-         generationis, quamvis magis perfectuin sil prius se-            sentialis: quando vero est ordo solius congruentiae,,
-         cunduui ordinem dignitatis.                                     sicut in proposito. non est necesse. quod habeat
-              8. Ad illud qnod obiicitur, quod poslerius in-
-         diget priori; dicendum, quod verum est, quando                  verilatem '.
+2. Item, quaedam sunt animalia, quae non valent homini nisi ad esum, quaedam, quae non valent nisi ad vestimentum; sed homo, si stetisset, his non indiguisset: ergo huiusmodi animalia aut facta essent frustra, aut non sunt facta propter hominem. Si tu dicas, quod Deus ea fecit, quia praevidit, hominem esse lapsurum[^7]; tunc videtur, quod in voluntate hominis et peccato consisteret, utrum illa animalia frustra facta essent; quod falsum est.
+
+3. Item, si animalia facta sunt propter hominem, ergo nulla debent esse facta *contra* hominem; sed bestiae sunt nocivae: ergo non debuerunt fieri in primaria rerum conditione, aut certe frustra factae sunt. Si tu dicas, quod bestiae non possent nocere, si homo non peccasset; tunc videtur, quod post peccatum hominis sit nova potentia eis tradita.
+
+4. Item, si animalia facta sunt propter habitationem hominis decorandam, cum in statu innocentiae non deberet habitatio foedari, videtur, quod non debuerunt corruptibilia animalia fieri, quae suis corruptionibus et exhalationibus inficerent aerem. Si tu dicas, quod non corrumperentur; hoc est contra Augustinum super Genesim ad litteram libro tertio[^8], qui dicit, tunc facta esse animalia viventia de rapina. Ait enim sic: «Quaedam refectionem corporis sui ex aliorum corporibus quaerunt», ubi loquitur de bestiis.
+
+5. Item, quidquid sit de hoc, sive moriantur sive non moriantur, videtur, quod animalia, quae alia devorant, hominis habitationem dehonestent, cum ea destruant, quae ad ipsius faciunt decorem et ornatum.
+
+### Conclusio.
+
+> Omnia sensibilia facta sunt propter hominem, aliter tamen in statu innocentiae, aliter in statu naturae lapsae.
+
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod *finis*, ad quem res ordinantur, *Duplex finis.* duplex est. Quidam enim est *finis principalis* et *ultimus*, quidam vero est *finis sub fine*. Si primo modo loquamur de fine, sic omnium creaturarum tam rationalium quam irrationalium finis est Deus, *Conclusio 1.* quia omnia propter semetipsum creavit Altissimus[^9]; omnia enim fecit ad laudem suae bonitatis.
+
+<!-- page 383 -->
+
+Si autem loquamur de fine *non principali*, qui est finis quodam modo et finis sub fine; *Conclusio 2.* sic omnia sensibilia animalia facta sunt propter hominem.
+
+Et hoc insinuat Philosophus, cum dicit: *Rationes.* «Sumus finis nos quodam modo omnium eorum quae sunt». Insinuat etiam Scriptura multo excellentius, cum dicit[^10]: *Faciamus hominem ad imaginem et similitudinem nostram, et praesit piscibus maris* etc. Quia enim homo rationis capax est, ideo habet libertatem arbitrii et natus est piscibus dominari; quia vero per similitudinem natus est in Deum immediate tendere, ideo omnes creaturae irrationales ad ipsum ordinantur, ut mediante ipso in finem ultimum perducantur. — Et sic concedendae sunt rationes ostendentes, animalia propter hominem facta esse.
+
+Ad dissolutionem autem rationum, quae inducuntur in contrarium, notandum est, quod *Conclusio 3.* aliter ordinantur animalia ad hominem secundum statum *innocentiae*, aliter secundum statum *naturae lapsae*. — Secundum statum *innocentiae* ordinantur ad hominem secundum rationem quadruplicem. *In statu innocentiae quadrupliciter.* Prima ratio est ad *manifestandum eius imperium*, quod manifestarent, dum ei per omnia obedirent. Secundo, ad *decorandum hominis habitaculum*; perpulcrum enim erat, habitationem hominis animalium multiplicatione, non solum arborum decorari. Tertio, ad *excitandum*[^11] *hominis sensum*, ut in ipsorum animalium naturis diversis videret homo multiformitatem sapientiae Conditoris. Quarto, ad *movendum eius affectum*, ut, dum homo videret, animalia secundum rectitudinem suae naturae currere et amare illud ad quod naturaliter facta sunt, ex hoc excitaretur ad amandum Deum. — *Corollarium.* Et propter has rationes non solummodo fecit Deus iumenta, sed etiam bestias et pecora; omnia enim faciunt ad hominis utilitatem secundum rationes praedictas.
+
+Secundum statum *naturae lapsae* ordinantur ista animalia ad utilitatem hominis; sed *Item in statu naturae lapsae cum distinctione.* aliter bestiae, et aliter iumenta et pecora. Iumenta enim et pecora ordinantur ad relevandam hominis indigentiam quantum ad *cibum* et quantum ad *vestimentum*[^12] et quantum ad *obsequium*, sicut sunt equi et asini etc., et quantum ad *solatium*, sicut sunt quaedam aves et catuli et similia: et sic facta sunt propter hominem ratione quadruplici. — Similiter *De bestiis.* bestiae sive animalia noxia ordinantur ad hominem secundum quadruplicem rationem et utilitatem, quam ponit Augustinus super Genesim ad litteram libro tertio[^13]. Dicit enim, quod «aut poenaliter laedunt, aut salubriter exercent, aut utiliter probant, aut ignoranter docent».
+
+Et sic patet, quod tam bestiae quam reptilia et *Epilogus.* iumenta facta sunt propter hominem, sive in statu innocentiae, sive in statu naturae lapsae. Planum est etiam per hoc illud quod obiicitur in contrarium.
+
+*Solutio oppositorum.*
+
+1. Ad illud enim quod obiicitur, quod esse finem est magnae dignitatis; dicendum, quod verum est de fine *principali*, qui est finis carens fine; non autem est verum de fine, qui est finis quodam modo.
+
+2. Ad illud quod obiicitur de animalibus non valentibus nisi[^14] ad esum et vestimentum, responderi potest, quod illa fecit Deus, quia praevidit hominem lapsurum; esto tamen, quod non laberetur, non tamen essent frustra; haberent enim praeter relevationem indigentiae quadruplicem utilitatem, sicut determinatum est supra.
+
+3. Ad illud quod obiicitur de bestiis, quae sunt contra hominem; dicendum, quod homine stante, *Notandum.* nulla animalia ipsum offenderent, sed omnia sibi mansueta essent, sicut aliquando divino imperio ferae crudelissimae Sanctis Dei mansuetae factae sunt, ut leones Danieli[^15]. Quod autem noceant vel offendant, hoc est propter peccatum hominis, non propter novam potentiam eis datam, sed propter dignitatis praesidentiam ab homine amissam. Unde sicut oculus sanus a sole non laeditur, sed cum efficitur lippus, statim offenditur, non propter mutationem factam in sole, sed in oculo; sic in proposito intelligi potest.
+
+4. 5. Ad illud quod obiicitur, quod homine stante, non debuerunt fieri animalia mortalia; dicendum, quod sicut animalia sua vita habitationem hominis decorant et ornant, sic etiam morte sua ex successione faciunt ad universi decorationem. Et sicut animalia se invicem *iuvantia* sunt ratio sapientiae excogitandae[^16], sic etiam animalia sese *offendentia* et de carnibus aliorum animalium nutrimentum sumentia; quia illa corruptio aerem hominis non inficeret, qui eius odoratum offenderet, sed potius quadam successione et ordine, dum animalia sibi succederent, universum decorarent, tanquam pulcherrimum carmen, in quo syllaba succedit syllabae[^17]. — Similiter, dum bestia aliud animal comedendo occideret, in hominis habitatione discordiam non faceret, sed potius occasionem eruditionis homini praeberet. Et hoc est quod dicit Augustinus tertio[^18] super Genesim ad litteram: «Nimirum aliae
+
+<!-- page 384 -->
+
+bestiae cibi sunt aliarum; nec recte possumus dicere, quod non essent aliae, quibus aliae vescerentur; habent enim omnia, quamdiu sunt, mensuras, numeros et ordines suos, quae cuncta merito considerata laudantur, nec sine occulta pro suo genere moderatione pulcritudinis temporalis, ex alio in aliud transeundo, mutantur; et certe omnibus talibus inferioris creaturae motibus praebentur homini salubres admonitiones». Deinde planius exemplificat. — Ex his patet responsio ad obiecta.
+
+### Scholion
+
+**I.** De *fine* eiusque distinctionibus vide supra d. I. p. II. a. 2. q. 1. Principia hoc loco explicata communiter approbantur et magni momenti sunt pro ethica christiana (cfr. infra d. 16. a. 2. q. 1.).
+
+**II.** Alex. Hal., S. p. II. q. 17. m. 3. — S. Thom., II. Sent. d. 1. q. 2. a. 3; S. c. Gent. III. c. 22. 97. — B. Albert., S. p. II. tr. II. q. 63. m. 2. — Petr. a Tar., hic q. 2. a. 3. — Richard. a Med., hic II. Sent. d. 1. a. 5. q. 3. — Aegid. R., II. Sent. d. 1. p. II. q. 1. a. 1. — Dionys. Carth., II. Sent. d. 1. q. 8. — Biel, hic q. unica in fine.
+
+**III.** De seq. quaestione: Alex. Hal., S. p. II. q. 85. m. 6. — S. Thom., hic q. 2. a. 2; S. q. 71. 72. — B. Albert., S. p. II. tr. II. q. 63. m. 2. — Petr. a Tar., hic q. 2. a. 2. — Richard. a Med., hic a. 4. q. 1. — Aegid. R., hic q. 1. a. 1. 2. — Dionys. Carth., hic q. 3.
+
+---
 
 ## English
 
-[Translation pending]
+### Article II. *On the order in which the animals were produced.*
+
+Consequently it is asked, in what order the animals were produced. And concerning this three questions are asked.
+
+First, the question is asked about the order of production from the side of the end. Second, from the side of time. Third, about the order[^1] of production and of rest.
+
+### Question I. *Whether all sensible things were made for the sake of man.*
+
+Concerning the first the procedure is thus, and it is asked, whether all sensible things were made for the sake of man. And that they were, seems so:
+
+*Foundations.*
+
+1. First, through Scripture, Genesis 1[^2]: *Have dominion over the fishes of the sea and the birds of the heavens*, etc. And after, Genesis 9[^3]: *All the fishes of the sea are delivered into your hand, and everything that moves and lives*: therefore all things have been made for the use of man.
+
+2. Likewise, the Apostle in 1 Corinthians 3[^4]: *All things are yours*; this he says to just men: therefore for the sake of just men all things whatsoever were made, were produced: therefore also the sensible animals.
+
+3. Likewise, the Philosopher[^5]: «Man is in a certain way the end of all things which are»: therefore also of sensible things.
+
+4. Likewise, all things desire the good — not any good whatever, but the highest — as Dionysius[^6] and the Philosopher hold; but among inferior creatures man alone is born to reach immediately to God: therefore the other creatures are ordered to the end through man as mediator. But that which is ordered to an end through another, is on account of that other: therefore all sensible things were made for the sake of man.
+
+*To the opposite.*
+
+**On the contrary:** 1. It is of as great dignity to be the end of things as to be the beginning; but of the sensible animals God alone was the beginning, in such a way that man was not: therefore the end of the same is not man, but God.
+
+2. Likewise, there are certain animals which serve man only for food, certain that serve only for clothing; but man, if he had stood [in innocence], would not have needed these: therefore animals of this kind either would have been made in vain, or were not made for the sake of man. If you say that God made them because he foresaw that man would fall[^7]; then it seems that it would lie in the will of man and in his sin, whether those animals would have been made in vain — which is false.
+
+3. Likewise, if the animals were made for the sake of man, then none ought to have been made *against* man; but the beasts are harmful: therefore they ought not to have come to be in the original constitution of things, or else they were made in vain. If you say that the beasts could not harm if man had not sinned, then it seems that after man's sin a new power was given to them.
+
+4. Likewise, if the animals were made to adorn the dwelling of man, since in the state of innocence his dwelling ought not to have been defiled, it seems that corruptible animals ought not to have been made, which by their corruptions and exhalations would infect the air. If you say that they would not have been corrupted, this is against Augustine on Genesis according to the letter, book III[^8], who says that even then the living animals were made for prey. For he says thus: «Some seek the refreshment of their own body from the bodies of others», where he speaks of beasts.
+
+5. Likewise, whatever is the case about this — whether they die or do not die — it seems that animals which devour others dishonor man's dwelling, since they destroy those things which serve for his beauty and adornment.
+
+### Conclusion.
+
+> All sensible things were made for the sake of man, yet differently in the state of innocence and differently in the state of fallen nature.
+
+**I respond:** For the understanding of the foregoing it must be noted that *the end* to which things are ordered is twofold (*The end is twofold.*). For one is the *principal* and *ultimate end*, another is the *end under an end*. If we speak of the end in the first way, thus the end of all creatures, both rational and irrational, is God (*Conclusion 1.*), because the Most High created all things for himself[^9]; for he made all things for the praise of his goodness.
+
+<!-- page 383 -->
+
+But if we speak of the *non-principal* end, which is end in a certain way and end-under-an-end (*Conclusion 2.*), then all sensible animals were made for the sake of man.
+
+And this the Philosopher suggests when he says (*Reasons.*): «We are in some way the end of all things which are». Scripture suggests it also much more excellently, when it says[^10]: *Let us make man to our image and likeness, and let him be set over the fishes of the sea*, etc. For because man is capable of reason, therefore he has freedom of choice and is born to rule the fishes; and because by his likeness he is born to tend immediately to God, therefore all irrational creatures are ordered to him, so that through him as mediator they may be led to the ultimate end. — And so the reasons showing that the animals were made for the sake of man are to be conceded.
+
+But for the resolution of the reasons brought to the contrary, it must be noted (*Conclusion 3.*) that animals are ordered to man one way in the state of *innocence*, another way in the state of *fallen nature*. — In the state of *innocence* they are ordered to man according to a fourfold reason (*In the state of innocence in a fourfold way.*). The first reason is for *manifesting his rule*, which they would manifest by obeying him in all things. Second, for *adorning man's dwelling*; for it was most beautiful that the dwelling of man be adorned by a multitude of animals, not only of trees. Third, for *arousing*[^11] *man's sense*, so that in the diverse natures of the animals themselves man might see the multiform wisdom of the Creator. Fourth, for *moving his affection*, so that, while man saw the animals run according to the rectitude of their nature and love that to which they were naturally made, he might from this be stirred up to love God. — *Corollary.* And on account of these reasons God made not only the beasts of burden, but also the wild beasts and the cattle; for all serve man's use according to the said reasons.
+
+In the state of *fallen nature* these animals are ordered to the use of man; but (*Likewise in the state of fallen nature, with distinction.*) wild beasts in one way, beasts of burden and cattle in another. For the beasts of burden and the cattle are ordered to relieve man's need with respect to *food* and with respect to *clothing*[^12] and with respect to *service*, such as horses and asses etc., and with respect to *solace*, such as certain birds and puppies and the like: and thus they were made for the sake of man under a fourfold reason. — Similarly (*Concerning the beasts.*) the wild or harmful beasts are ordered to man according to a fourfold reason and use, which Augustine sets out in *On Genesis according to the letter*, book III[^13]. For he says that «either they harm by way of penalty, or they exercise wholesomely, or they prove usefully, or they teach unwittingly».
+
+And thus it is plain that both beasts and reptiles and beasts of burden (*Epilogue.*) were made for the sake of man, whether in the state of innocence or in the state of fallen nature. And by this also is made plain that which is objected to the contrary.
+
+*Solution of the opposing arguments.*
+
+1. To that which is objected, that to be an end is of great dignity, it must be said that this is true of the *principal* end, which is the end lacking a [further] end; it is not however true of the end which is end in a certain way.
+
+2. To that which is objected concerning animals not serving except[^14] for food and clothing, it can be answered that God made them because he foresaw man would fall; suppose, however, that he had not fallen, they would not on that account have been made in vain; for they would have, beyond the relief of need, a fourfold utility, as has been determined above.
+
+3. To that which is objected concerning the beasts which are against man; it must be said that, man standing [in innocence] (*Note.*), no animals would have offended him, but all would have been tame to him, just as sometimes by divine command the most cruel beasts have been made tame to the Saints of God, as the lions to Daniel[^15]. But that they harm or offend, this is on account of man's sin — not on account of a new power given to them, but on account of the dignity of pre-eminence which man has lost. Whence, just as a healthy eye is not injured by the sun, but when it becomes bleary, it is at once offended — not on account of a change made in the sun, but in the eye — so it can be understood in the matter at hand.
+
+4. 5. To that which is objected, that with man standing, mortal animals ought not to have been made, it must be said that, just as animals by their life adorn and embellish man's dwelling, so also by their death, through succession, they make for the adornment of the universe. And just as animals helping one another (*iuvantia*) are a reason for thinking on wisdom[^16], so also animals offending one another and taking nourishment from the flesh of other animals; because that corruption would not have infected man's air so as to offend his smell, but rather by a certain succession and order, while the animals succeeded one another, they would have adorned the universe as a most beautiful song, in which one syllable succeeds another[^17]. — Likewise, when a beast killed another animal by eating it, it would not have made discord in man's dwelling, but rather would have furnished man with an occasion of instruction. And this is what Augustine says in [book] three[^18] on Genesis according to the letter: «Surely some
+
+<!-- page 384 -->
+
+beasts are food for others; nor can we rightly say that there would not have been others on which others might feed; for all things, so long as they exist, have their own measures, numbers, and orders, which when duly considered are all praised, nor without a hidden moderation suitable to its own kind of temporal beauty are they changed, passing from one into another; and certainly by all such motions of the inferior creature wholesome admonitions are offered to man». Then he sets it out more plainly by example. — From these things the response to the objections is plain.
+
+### Scholion
+
+**I.** Concerning the *end* and its distinctions, see above d. I, p. II, a. 2, q. 1. The principles here explained are commonly approved and are of great moment for Christian ethics (cf. below d. 16, a. 2, q. 1).
+
+**II.** Alex. of Hales, *Summa* p. II, q. 17, m. 3. — St. Thomas, *II Sent.* d. 1, q. 2, a. 3; *Summa contra Gent.* III, c. 22, 97. — Bl. Albert, *Summa* p. II, tr. II, q. 63, m. 2. — Peter of Tarentaise, here q. 2, a. 3. — Richard of Mediavilla, here *II Sent.* d. 1, a. 5, q. 3. — Aegidius Romanus, *II Sent.* d. 1, p. II, q. 1, a. 1. — Dionysius the Carthusian, *II Sent.* d. 1, q. 8. — Biel, here in the sole question at the end.
+
+**III.** Concerning the following question: Alex. of Hales, *Summa* p. II, q. 85, m. 6. — St. Thomas, here q. 2, a. 2; *Summa* q. 71, 72. — Bl. Albert, *Summa* p. II, tr. II, q. 63, m. 2. — Peter of Tarentaise, here q. 2, a. 2. — Richard of Mediavilla, here a. 4, q. 1. — Aegidius Romanus, here q. 1, a. 1, 2. — Dionysius the Carthusian, here q. 3.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They render the Quaracchi editors' apparatus literally; each entry gives Latin followed by English.
+
+[^1]: **La.** Vat. *ex parte* pro *de ordine*.
+     **En.** The Vatican edition reads *ex parte* in place of *de ordine*.
+
+[^2]: **La.** Vers. 28. — Seq. textus est loc. cit. v. 2. seq.
+     **En.** Verse 28. — The following text is from the same place, v. 2 ff.
+
+[^3]: **La.** Vers. 22.
+     **En.** Verse 22.
+
+[^4]: **La.** I Cor. 3, 22.
+     **En.** 1 Corinthians 3:22.
+
+[^5]: **La.** Libr. II. Phys. text. 24. (c. 2.).
+     **En.** [Aristotle,] *Physics* II, text 24 (c. 2).
+
+[^6]: **La.** De Div. Nom. c. 4. § 10. — Aristot., I. Ethic. c. 1. Cfr. etiam Boeth., III. de Consol. prosa 2. et 10. seq.
+     **En.** [Pseudo-Dionysius,] *On the Divine Names*, c. 4, § 10. — Aristotle, *Nicomachean Ethics* I, c. 1. Cf. also Boethius, *Consolation* III, prose 2 and 10 ff.
+
+[^7]: **La.** Sicut dicit Damasc., II. de Fide orthod. c. 10. — Paulo inferius plures codd. cum Vat. *et potestate* pro *et peccato*.
+     **En.** As Damascene says, *On the Orthodox Faith* II, c. 10. — A little below, several codices with the Vatican edition read *et potestate* (and power) in place of *et peccato* (and sin).
+
+[^8]: **La.** Secundum August., III. de Gen. ad lit. c. 15. n. 24. Cfr. hic lit. Magistri, c. 3. — Cod. aa *potuissent* pro *possent*. Aliquanto superius Vat. *sed multae bestiae homini* pro *sed bestiae*.
+     **En.** According to Augustine, *On Genesis according to the letter* III, c. 15, n. 24. Cf. here the text of the Master [Lombard], c. 3. — Codex aa reads *potuissent* (would have been able) in place of *possent* (could). Somewhat earlier the Vatican edition reads *sed multae bestiae homini* (but many beasts to man) in place of *sed bestiae* (but the beasts).
+
+[^9]: **La.** Prov. 16, 4: *Universa propter semetipsum operatus est Dominus.* Cfr. supra lit. Magistri, d. 1. c. 4. et ibid. Comment. p. II. a. 2. q. 1. — Paulo inferius Vat. *sensibilia alia* pro *sensibilia animalia*.
+     **En.** Proverbs 16:4: *The Lord has made all things for himself*. Cf. above the text of the Master, d. 1, c. 4, and there the Commentary, p. II, a. 2, q. 1. — A little below the Vatican edition reads *sensibilia alia* (other sensible things) in place of *sensibilia animalia* (sensible animals).
+
+[^10]: **La.** Gen. 1, 26. — Cfr. August., 83. Qq. q. 13. et 30; et Serm. 43. (alias *de Verbis Apostoli*, 27.). c. 2. n. 3. seq.
+     **En.** Genesis 1:26. — Cf. Augustine, *Eighty-three Questions* q. 13 and 30; and Sermon 43 (otherwise *On the Words of the Apostle*, 27), c. 2, n. 3 ff.
+
+[^11]: **La.** Cod. C *excolendum*, cod. T *exercendum*. Paulo inferius cod. 1 *excitandum*, Vat. *moderandum* pro *movendum*.
+     **En.** Codex C reads *excolendum* (cultivating), codex T *exercendum* (exercising). A little below codex 1 reads *excitandum* (arousing); the Vatican edition reads *moderandum* (moderating) in place of *movendum* (moving).
+
+[^12]: **La.** Aliqui codd. *vestitum*. — Cfr. de his Damasc., II. de Fide orthod. c. 10.
+     **En.** Some codices read *vestitum* (clothing, another form). — Cf. on these things Damascene, *On the Orthodox Faith* II, c. 10.
+
+[^13]: **La.** Cap. 17. n. 26.
+     **En.** Chapter 17, n. 26.
+
+[^14]: **La.** Fide codd. Q U et exigente ipsa obiectione supplevimus *nisi*. Vat. *vestitum* pro *vestimentum*.
+     **En.** On the authority of codices Q and U, and as the objection itself requires, we have supplied *nisi* (except). The Vatican edition reads *vestitum* in place of *vestimentum*.
+
+[^15]: **La.** Dan. 6, 22.
+     **En.** Daniel 6:22.
+
+[^16]: **La.** Respicere videtur ad Eccli. 16, 5.
+     **En.** It seems to refer to Ecclesiasticus 16:5.
+
+[^17]: **La.** Cfr. tom. I. pag. 786, nota 7. et pag. 832, nota 4, ubi opera Augustini allegantur, in quibus haec habetur sententia. — Paulo superius Vat. *quod eius* pro *qui eius*.
+     **En.** Cf. tom. I, p. 786, note 7, and p. 832, note 4, where the works of Augustine are cited in which this sentiment is found. — A little above the Vatican edition reads *quod eius* in place of *qui eius*.
+
+[^18]: **La.** Cap. 16. n. 25, in quibus verbis textus originalis post *mutantur* subiungit: *Quod etsi stultos latet, sublucet proficientibus clarumque perfectis est.* Cfr. I. de Gen. contra Manich. c. 16. n. 25. seq.
+     **En.** Chapter 16, n. 25, in which words the original text after *mutantur* adds: *Which, even if it lies hidden from the foolish, dimly shines for those making progress and is clear to the perfect.* Cf. *On Genesis against the Manicheans* I, c. 16, n. 25 ff.
+
+---
 
 ## Notes
 
-[Notes pending]
+- Articulus II opener (`Consequenter quaeritur, quo ordine animalia sint producta. Et circa hoc quaeruntur tria.`) at p.382 L band 0 + the three-question sub-divisio (*ex parte finis* / *ex parte temporis* / *de ordine productionis et quietis*) folded into this q1 per locked Vol II Override step 5 — no standalone `d15-a2-divisio` chunk.
+- Spans p.382 L+R (ART. II opener + 3-question split + QUAESTIO I opener + *Fundamenta* arg. 1–4 + *Ad oppositum* arg. 1–5 + CONCLUSIO + Respondeo opening *Duplex finis* + *Conclusio 1*) → p.383 L (*Conclusio 2* + *Rationes* + *Conclusio 3* + *In statu innocentiae quadrupliciter* with 4 sub-reasons + *Corollarium*) + R (*Item in statu naturae lapsae cum distinctione* + *De bestiis* + *Epilogus* + *Solutio oppositorum* ad 1, 2, 3 with *Notandum*, ad 4–5 with *iuvantia*/*offendentia* analogy + Augustine *Nimirum aliae bestiae* citation opener) → p.384 L band 0 (Augustine citation tail closing at `salubres admonitiones» ... patet responsio ad obiecta.`) + SCHOLION I + II + III (III is `De seq. quaestione` — a forward-pointer to q2's commentator list, included here per the printed scholion block belonging to q1's apparatus area).
+- 18 apparatus entries continuously numbered: p.382 R footer 1–6 = [^1]–[^6] (Vat. *ex parte* gloss on ART. II three-question split; Gen 1,28 + Gen 9,22; I Cor 3,22; Aristot. II Phys. text 24; Dion. *de Div. Nom.* + Aristot. I Ethic. + Boeth.; Damasc. II *de Fide* c. 10 + Vat. *et potestate* variant); p.382 R footer 7–8 = [^7]–[^8] (August. III *de Gen. ad lit.* c. 15 + Magistri c. 3 + cod. aa *potuissent* + Vat. *sed multae bestiae* variants; Cap. 17 n. 26 short); p.382 R band 2 footer ⁹ = [^9] (Prov 16,4 + cross-ref + Vat. *sensibilia alia*); p.383 L footer 1–5 = [^10]–[^14] (Gen 1,26 + August. 83Qq + Serm. 43; cod. C/T *excolendum*/*exercendum* + cod. 1 *excitandum* + Vat. *moderandum*; *vestitum* codd. + Damasc.; Cap. 17 n. 26 cross-ref; codd. Q U *nisi* supplement + Vat. *vestitum*); p.383 R footer 6–9 = [^15]–[^18] (Dan 6,22; Eccli 16,5; tom. I pag. 786/832 Augustine sentiment cross-ref + Vat. *quod eius*; Cap. 16 n. 25 + original text suffix + de Gen. contra Manich.).
+- Cross-chunk footer split: p.382 carries no a1-q3-side footer (p.382 opens with the ARTICULUS II header at the top of L column; q3's tail ended at p.381 R per d15-a1-q3 Notes). All p.382 footers anchor in this q1 body. p.384 carries no body footer — only the SCHOLION block (no numeric footnotes). No q1 footer migrates to d15-a2-q2.
+- *Conclusio 1./2./3.* and the inline *Duplex finis.*, *Rationes.*, *In statu innocentiae quadrupliciter.*, *Corollarium.*, *Item in statu naturae lapsae cum distinctione.*, *De bestiis.*, *Epilogus.*, *Solutio oppositorum.*, *Notandum.*, *Fundamenta.*, *Ad oppositum.* marginals preserved inline per locked Vol II convention — all crisp at 450 dpi from p.382/383 gutters.
+- No `[?]` flags — all 18 anchors and all marginal labels crisp at 450 dpi.
+- SCHOLION III labelled `De seq. quaestione` is a forward-pointing commentator list for the next quaestio (d15-a2-q2). Per the printed page layout (SCHOLION block sits between q1 close and q2 opener on p.384 L) and per locked Vol II convention (sibling-shared-scholion pattern, step 5 of Override), it is kept in this chunk as part of q1's scholion apparatus. d15-a2-q2 will not carry a duplicate.
