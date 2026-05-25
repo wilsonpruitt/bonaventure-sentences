@@ -1,11 +1,45 @@
-# Next session — **d16-littera DONE.** Begin `d16-divisio`.
+# Next session — **d16-divisio DONE.** Begin `d16-a1-q1`.
 
-**d.1–d.15 = 183 chunks + d16-littera = 184 chunks promoted.** Build: 595 translated,
+**d.1–d.15 = 183 chunks + d16-littera + d16-divisio = 185 chunks promoted.** Build: 596 translated,
 879 quaestio routes. Vol II d.1–d.10 LIVE on
 bonaventure.wrootpress.com since 2026-05-23; per "deploy after each
 decade ships" rule, the next live ship is at end-of-d.20.
 
-## Last session (2026-05-25, d.16 first chunk — d16-littera promotion)
+## Last session (2026-05-25, d.16 second chunk — d16-divisio promotion)
+
+Promoted `d16-divisio` Tier-2:
+- *Commentarius in Distinctionem XVI — Qualiter Deus produxerit
+  hominem ad suam imaginem.* Spans p.392 R band 2 bottom
+  (COMMENTARIUS opener + epigraph *His excursis...* at raw 27717,
+  immediately after d16-littera Cap. IV close) → p.393 L bands 0–1
+  + R bands 0–1 (DIVISIO TEXTUS in two-column flow + TRACTATIO
+  QUAESTIONUM + Articulus I sub-divisio fold-in). Closes at
+  *Tertio, utrum sit imago Dei proprie.* (raw 27734) immediately
+  before `ARTICULUS I.` at raw 27736. Per locked Vol II convention
+  the divisio holds DIVISIO TEXTUS + TRACTATIO QUAESTIONUM + the
+  first-article sub-divisio fold-in (no standalone d16-a1-divisio).
+- **2 apparatus entries [^1]–[^2]** from p.393 L band 2 footer:
+  [^1] = *Ita codd. et edd.; textus Magistri melius primo.* anchored
+  at *statu primi¹ hominis* in DIVISIO para 1; [^2] = *Codd. W an
+  relativam.* anchored at *considerationem relatam²* in TRACTATIO.
+  Footnotes ³ (Vers. 26), ⁴ (Vers. 1), ⁵ (Hugo *de Arrha animae*)
+  on p.393 L band 2 anchor in d16-a1-q1 (Genesis 1, 26 + Ecclus 17, 1
+  + Hugo citations in q1's affirmative arguments 1–3). p.392 R band 2
+  footer (notes 4–7) belongs entirely to d16-littera as [^8]–[^11]
+  (already consumed).
+- No `[?]` flags — both anchors crisp at 450 dpi. The OCR around
+  raw 27720–27732 is cascade-fragmented (two-column diagonal token
+  splice); column-band PDF read authoritative per Vol II Override.
+- `has_scholion: false` — divisio chunks carry no SCHOLION by design.
+- Audits: paraphrase HIGH (expected first-pass over OCR-cascade
+  base); apparatus-count flag cleared for divisio (skeleton flags
+  persist on the 6 a*/dubia siblings — clears as they promote);
+  header audit Q-LOSS / A-LOSS / DUB-LOSS still fires because
+  d.16 a*/dubia siblings are skeleton (a divisio chunk has no
+  ART/QUAEST/DUB headers) — clears as those promote.
+- Build: 595 → 596 translated, 879 quaestio routes.
+
+## Prior session (2026-05-25, d.16 first chunk — d16-littera promotion)
 
 Promoted `d16-littera` Tier-2:
 - *Distinctio XVI — Littera Magistri*, Cap. I–IV (4 capitula),
@@ -43,21 +77,20 @@ Promoted `d16-littera` Tier-2:
 
 ## What to do this session
 
-**Promote `d16-divisio`** — second d.16 chunk. Opens at raw 27717
-with `COMMENTARIUS IN DISTINCTIONEM XVI.` on p.392 R band 2 (bottom)
-+ p.393 DIVISIO TEXTUS + TRACTATIO QUAESTIONUM (per locked Vol II
-convention divisio holds DIVISIO TEXTUS + TRACTATIO QUAESTIONUM +
-the first-article sub-divisio fold-in). Closes immediately before
-`ARTICULUS I.` at raw 27735. Standard Vol II Tier-2 procedure: 450
-dpi column-band PDF read. p.393 crops not yet generated — run
-`python3.11 tools/extract-pages.py --volume vol2 --pages 393 --dpi 450`
-+ `python3.11 tools/colcrop.py vol2 393`.
+**Promote `d16-a1-q1`** — third d.16 chunk. *Utrum homo sit vere
+imago Dei.* Opens at raw 27737 with `QUAESTIO I.` on p.393 L band 2
+(immediately after the d16-divisio TRACTATIO close) and continues
+onto p.393 R band 2 + subsequent pages. Standard Vol II Tier-2
+procedure: 450 dpi column-band PDF read. p.393 crops already cached
+at `/tmp/colcrop/vol2-p393-*`. Inherit p.393 L band 2 footers
+³–⁵ (Vers. 26 + Vers. 1 + Hugo *de Arrha animae*) per the
+d16-divisio Notes block hand-off.
 
 ## d.16 chunk inventory (in semantic order)
 
 - ~~`d16-littera`~~ **DONE 2026-05-25.**
-- **`d16-divisio`** — NEXT.
-- `d16-a1-q1` — *Utrum homo sit vere imago Dei.* (skeleton)
+- ~~`d16-divisio`~~ **DONE 2026-05-25.**
+- **`d16-a1-q1`** — *Utrum homo sit vere imago Dei.* — NEXT.
 - `d16-a1-q2` — *Utrum homo sit imago Dei naturaliter.* (skeleton; manual-rescue per resume tooling note)
 - `d16-a1-q3` — *Utrum esse imaginem conveniat homini proprie, ita quod nulli alii.* (skeleton)
 - `d16-a2-q1` — (skeleton)
