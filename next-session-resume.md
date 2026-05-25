@@ -1,8 +1,39 @@
-# Next session — **d.1–d.17 ALL COMPLETE 2026-05-25.** Begin `d18-littera`.
+# Next session — **d.18 first chunk DONE 2026-05-25.** Begin `d18-divisio`.
 
-**d.1–d.17 = 201 chunks promoted.** Build: 612 translated, 879 quaestio routes.
+**d.1–d.17 + d18-littera = 202 chunks promoted.** Build: 613 translated, 879 quaestio routes.
 
-## Last session (2026-05-25, d.17 ninth chunk — d17-dubia promotion; d.17 CLOSED)
+## Last session (2026-05-25, d.18 first chunk — d18-littera promotion)
+
+Promoted `d18-littera` Tier-2:
+- *Distinctio XVIII — Littera Magistri*, Cap. I–VII (7 capitula), spans p.429 L-1 (`DISTINCTIO XVIII.` + `Cap. I. De formatione mulieris.` immediately after d17-dubia DUB V close *Alia satis patent per iam dicta.* at raw 30201) → p.429 R (Cap. II close + Cap. III opener *Quare dormienti viro...* with *Hugo.* marginal + Cap. IV opener *Quod de costa, in se multiplicata sine additamento extrinsecae rei, facta fuerit.* with *Dubium unicum.* marginal) → p.430 L (Cap. IV close *Solum Deus, id est Trinitas, est Creator¹* + Cap. V *De causis superioribus et inferioribus* with *Hugo.* + *Rationes seminales.* marginals) → p.430 R (Cap. VI *De causis, quae in Deo simul sunt et in creaturis* with *Notandum.* marginal + Cap. VII *De anima mulieris* opener with *Tres opiniones.* marginal + Ecclesiasticis Dogmatibus quote) → p.431 L-0 + R-0 (4-line tail closing at *...sed singillatim animas de nihilo creat.* at raw 30338 immediately before `COMMENTARIUS IN DISTINCTIONEM XVIII.`).
+- **17 apparatus entries [^1]–[^17].** Page-split map: p.429 *NOTAE AD LIBR. SENTENTIARUM* L-2 ¹–³ + R-2 ⁴–⁷ = [^1]–[^7] (Gen 2,21,22 + Hugo de Sacram p.VI cc.34–36 + Sum Sent tr.3 c.3 + Gandolph cit / Aug XII de Civ Dei c.27 / Edd 1,5,8 *adiungunt viri* / Aug loc.cit + IX de Gen ad lit c.13 n.23 + de Bono coniugali c.1 / Hugo I de Sacram p.VI c.36 + Sum Sent + Vat. *scilicet ut nullam* variant / Ephes 5,32 + Ioan 19,34 / Hugo Sum Sent + *addito* codd. abest); p.430 L-2 ¹–⁵ + R-2 ⁶–⁸ = [^8]–[^15] (Aug IX de Gen ad lit c.15 n.26 + c.16 n.30 / Cfr IX de Gen ad lit cc.16–17 n.32 + 83 Qq q.46 + c.18 n.33 / Haec omnia ex Hugone Sum Sent tr.3 c.3 / Quae praecedunt Hugo ex Aug IX de Gen ad lit c.17 n.32 + c.18 n.33 / Vat. *creaturae* / Edd 1,8 *factorum* + Cod Erf *futurorum* from VI lib c.8 n.13 + *quo natura substituit* gloss / Aug X de Gen ad lit c.1 n.1 + Hugo / Gennadius c.14 + Vat. *in corporibus* pro *cum corporibus*); p.431 L-2 ¹–² = [^16]–[^17] (Post *plenus* edd 1,8 *et anima et corpore* / Glossa Ps.32,15 ex Hieronymo contra Ioan. Ierosolymitanum).
+- Marginal labels preserved inline per locked Vol II convention: *Augustinus.* (×2), *Hugo.* (×2), *Dubium unicum.*, *Rationes seminales.*, *Notandum.*, *Tres opiniones.*
+- `has_scholion: false` — littera chunks carry no SCHOLION by design.
+- No `[?]` flags — all 17 anchors + 8 marginal labels crisp at 450 dpi across pp.429–431. OCR around raw 30201–30338 is two-column cascade-fragmented; column-band PDF read authoritative per Vol II Override.
+- **p.429 dual footer block:** the critical-apparatus footnotes (¹ Vat. *spiritualis* + ² Cfr. d.20 dub.7) anchor entirely in d17-dubia's p.429 L-1 tail and stay there; this chunk takes only the *NOTAE AD LIBR. SENTENTIARUM* Lombard-text block (¹–⁷).
+- Cross-chunk hand-off: none received from d17-dubia; none forward to d18-divisio (d18-divisio opens p.431 L-1 with its own *NOTAE AD COMMENTARIUM* footer block).
+- Audits: paraphrase HIGH (1 chunk, expected first-pass); apparatus-count flag CLEARED for d18-littera (chunk diff -4, no flag); header audit Q-LOSS / A-LOSS / DUB-LOSS fires because d.18 divisio + a*/dubia siblings are skeleton — clears as those promote.
+- Build: 612 → 613 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d18-divisio`** — second d.18 chunk. COMMENTARIUS IN DISTINCTIONEM XVIII opens at raw 30339 on p.431 L-1 with `De formatione mulieris de viro.` subtitle + epigraph *In eodem quoque paradiso etc.* + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM. d.18 has NO pars split. Per locked Vol II convention the divisio holds DIVISIO TEXTUS + TRACTATIO QUAESTIONUM + the first-article sub-divisio fold-in (no standalone d18-a1-divisio). Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read for p.431 + p.432. p.431 crops cached at `/tmp/colcrop/vol2-p431-*`; generate p.432 as needed.
+
+**⚠ d18-dubia is a remaining manual-rescue chunk per the d.11–d.20 boundary-sweep audit — keep this flag visible until d18-dubia clears.**
+
+## d.18 chunk inventory (in semantic order)
+
+- ~~`d18-littera`~~ **DONE 2026-05-25.**
+- **`d18-divisio`** — COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM (no pars split). — NEXT. (skeleton)
+- `d18-a1-q1` (skeleton)
+- `d18-a1-q2` (skeleton)
+- `d18-a1-q3` (skeleton)
+- `d18-a2-q1` (skeleton)
+- `d18-a2-q2` (skeleton)
+- `d18-a2-q3` (skeleton)
+- `d18-dubia` (skeleton; ⚠ manual-rescue)
+
+## Prior session (2026-05-25, d.17 ninth chunk — d17-dubia promotion; d.17 CLOSED)
 
 Promoted `d17-dubia` Tier-2:
 - *Dubia circa litteram Magistri (Dist. XVII).* Spans p.426 R band 1 (DUBIA CIRCA LITTERAM MAGISTRI header + DUB I opener immediately after d17-a2-q3 SCHOLION II close at raw 30010) → p.426 R band 2 (DUB II opener) → p.427 L (DUB II body 3-opinion structure: *Opinio 1.* corporalis / *Opinio 2.* spiritualis / *Opinio 3 cum distinctione.* with *Subdistinctio.* + *Alia subdistinctio.* + Damascene cit. + *Rationes congruentiae.*) → p.427 R (DUB II *Ad obiecta.* close + DUB III opener with sphaera ignis + Augustinus subtilitas argg. + Respondeo *quodam modo vergens ad meridiem*) → p.428 L (DUB III close + DUB IV opener + Respondeo *Triplex differentia lignorum.* corporis/animae/coniuncti) → p.428 R (DUB IV Augustinus *de Civ. Dei* citation + DUB V opener with 3 obiecta + Respondeo *Duplex finis.* + *Mandatum disciplinae.*) → p.429 L band 0 (DUB V close at *Alia satis patent per iam dicta.* immediately before DISTINCTIO XVIII. at raw 30201).
