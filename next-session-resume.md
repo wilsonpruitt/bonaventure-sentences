@@ -1,6 +1,80 @@
-# Next session — **d.16 COMPLETE.** Begin `d17-littera`.
+# Next session — **d.16 COMPLETE; d17-littera DONE 2026-05-25.** Begin `d17-divisio`.
 
-**d.1–d.16 = 192 chunks promoted.** Build: 603 translated, 879 quaestio routes.
+**d.1–d.16 = 192 chunks promoted + d17-littera = 193 chunks.** Build: 604 translated, 879 quaestio routes.
+
+## Last session (2026-05-25, d.17 first chunk — d17-littera promotion)
+
+Promoted `d17-littera` Tier-2:
+- *Distinctio XVII — Littera Magistri*, Cap. I–VII (7 capitula),
+  spans p.408 L band 0 bottom (`DISTINCTIO XVII.` + `Cap. I. De
+  creatione animae, an de aliquo facta sit.` immediately after
+  d16-dubia DUB IV close `...Vel dicendum, quod...`) → p.408 L
+  band 1 (Cap. I body + `Cap. II. De insufflatione et inspiratione
+  Dei` opener with *Quaestio 1.* + *Opinio haeretica.* marginals) →
+  p.408 R bands 0–1 (Cap. II body with *Impugnatur.*, *Quaestio 2.*,
+  *Opinio 1.*, *Opinio 2.* marginals + Cap. III opener with
+  *Augustinus.* + *Causae superiores.*) → p.409 L bands 0–1 (Cap. III
+  Augustine causarum-conditione body with *Dubium 1.* + Cap. IV
+  *Quare homo, extra paradisum creatus* with *Dubium 2.* + Cap. V
+  *Quibus modis paradisus accipiatur* with *Dubium 3.*) → p.409 R
+  bands 0–1 (Cap. V close with *Dubium 4.* + Cap. VI *De ligno vitae*
+  + Cap. VII *De ligno scientiae boni et mali* with *Glossa.*,
+  *Notandum.*, *Dubium 5.*; closes immediately before
+  `COMMENTARIUS IN DISTINCTIONEM XVII.` at raw 28895 / p.410 L
+  band 0).
+- **15 apparatus entries [^1]–[^15]** continuously renumbered across
+  pp.408–409. Page-split map: p.408 L band 2 NOTAE 1 = [^1] (Gen.
+  2, 7 + Aug. *de Gen. ad lit.* VIII source attribution); p.408 R
+  band 2 footers 2–6 = [^2]–[^6] (codex variant cap. II boundary +
+  Isa. 57, 16 LXX/Vulg. + Aug. c. 25. 27 + Cfr. dist. IV/XXIII +
+  Aug. VI cc. 13–17 + Exod. 7, 10); p.409 L band 2 footers 1–5 =
+  [^7]–[^11] (Vat. *creaturarum* + Gen. 2, 8 + Aug. VIII c. 1 +
+  Septuag. *ad orientem* + Bede + Erf. Strabus + Damascene); p.409
+  R band 2 footers 6–9 = [^12]–[^15] (Bede + Strabus on Gen. 2, 9
+  + Glossa ord. + Aug. XIV cc. 13–15 + Prov. 21, 28 + Vat. *haec*
+  + edd. 1–9 *prohibuisset* variant). p.408 L band 2 footers 1–2
+  belong to d16-dubia DUB IV ([^13]–[^14] there); no migration.
+- Marginal labels preserved inline per locked Vol II convention:
+  *Quaestio 1.*, *Opinio haeretica.*, *Impugnatur.*, *Quaestio 2.*,
+  *Opinio 1.*, *Opinio 2.*, *Augustinus.*, *Causae superiores.*,
+  *Dubium 1./2./3./4./5.*, *Glossa.*, *Notandum.*
+- `has_scholion: false` — littera chunks carry no SCHOLION by design.
+- No `[?]` flags — all 15 anchors + 14 marginal labels crisp at
+  450 dpi across pp.408–409. OCR is two-column cascade-fragmented
+  here (`DISTINCTIOterumXVII.` at raw 28750 = R-column *alterum²*
+  splice with L-column running head); column-band PDF read
+  authoritative per Vol II Override.
+- Forward hand-off to d17-divisio: none — d17-divisio opens p.410 L
+  with its own block.
+- Audits: paraphrase HIGH (1 chunk, expected first-pass over
+  OCR-cascade base); apparatus-count NO FLAG for d17-littera; header
+  audit Q-LOSS / A-LOSS / DUB-LOSS fires because d.17 divisio +
+  a*/dubia siblings are skeleton — clears as those promote.
+- Build: 603 → 604 translated, 879 quaestio routes.
+
+## What to do this session
+
+**Promote `d17-divisio`** — second d.17 chunk. COMMENTARIUS IN
+DISTINCTIONEM XVII opens at raw 28895 on p.410 L band 0 with
+`De productione Adae quoad principia constituentia.` subtitle +
+epigraph *Hic de origine animae plura quaeri solent etc.* + DIVISIO
+TEXTUS + TRACTATIO QUAESTIONUM. Per locked Vol II convention the
+divisio holds DIVISIO TEXTUS + TRACTATIO QUAESTIONUM + the first-
+article sub-divisio fold-in (no standalone d17-a1-divisio).
+Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read.
+
+## d.17 chunk inventory (in semantic order)
+
+- ~~`d17-littera`~~ **DONE 2026-05-25.**
+- **`d17-divisio`** — COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO
+  QUAESTIONUM (no pars split). — NEXT. (skeleton)
+- `d17-a1-q1` (skeleton)
+- `d17-a1-q2` (skeleton)
+- `d17-a1-q3` (skeleton)
+- `d17-a2-q1` (skeleton)
+- `d17-a2-q2` (skeleton)
+- `d17-a2-q3` (skeleton)
+- `d17-dubia` (skeleton)
 
 ## Last session (2026-05-25, d.16 ninth chunk — d16-dubia promotion; d.16 CLOSED)
 
