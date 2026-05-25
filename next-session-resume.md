@@ -1,11 +1,26 @@
-# Next session — **d.14-p1 {…/a3-q1/a3-q2} DONE.** Begin `d14-p1-dubia`.
+# Next session — **d.14-p1 COMPLETE.** Begin `d14-p2-divisio` (manual-rescue).
 
-**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1, a1-q2, a2-q1, a2-q2, a3-q1, a3-q2} = 165 chunks.** Build: 576 translated, 878 quaestio routes.
+**d.1–d.13 COMPLETE + d.14-p1 {littera, divisio, a1-q1, a1-q2, a2-q1, a2-q2, a3-q1, a3-q2, dubia} = 166 chunks.** Build: 577 translated, 878 quaestio routes.
 Vol II d.1–d.10 LIVE on bonaventure.wrootpress.com since 2026-05-23; per
 "deploy after each decade ships" rule, the next live ship is at
 end-of-d.20.
 
 ## Last session (2026-05-24, latest)
+
+Promoted `d14-p1-dubia` Tier-2 (standard):
+- *Dubia circa litteram Magistri (Pars I)*, p. 350 only. Three dubia
+  (DUB. I, II, III) on a single printed page: DUB. I + opening of
+  DUB. II in column L mid-bottom; DUB. II resp tail + DUB. III across
+  column R top. 4 apparatus entries, all p. 350 footer notes 2–5
+  handed forward from `d14-p1-a3-q2` (note 1 was already consumed
+  there as [^25] — verified no double-count). On column-band re-read
+  the footer carries 5 numbered entries, not 3 as the cross-chunk
+  hand-off briefly suggested; this chunk captures notes 2–5.
+  No scholion (Pars I dubia carry none). No new `[?]` flags.
+  d.14 DUB header audit clears at +0 (DUB-LOSS resolved).
+  Build: 576 → 577 translated.
+
+## Prior session (2026-05-24, latest)
 
 Promoted `d14-p1-a3-q2` Tier-2 (manual-rescue):
 - *Utrum motus caeli sit a propria forma, vel ab Intelligentia*,
@@ -110,8 +125,7 @@ Build: 568 → 572 translated.
 
 Remaining d.14 chunks to promote, in order:
 
-- **`d14-p1-dubia`** — NEXT.
-- `d14-p2-divisio` *(manual-rescue)*
+- **`d14-p2-divisio`** *(manual-rescue)* — NEXT.
 - `d14-p2-a1-q1`
 - `d14-p2-a1-q2`
 - `d14-p2-a1-q3` *(manual-rescue)*
@@ -122,15 +136,13 @@ Remaining d.14 chunks to promote, in order:
 
 ## What to do this session
 
-**Promote `d14-p1-dubia`** (standard, not manual-rescue). The Dubia
-Circa Litteram Magistri for Pars I begin at raw line 24756 on
-p. 350 L (right after `d14-p1-a3-q2`'s closing *in littera¹*). Pick
-up p. 350 L footer notes 2–4 as opening apparatus entries (handed
-forward from `d14-p1-a3-q2`: *Scil. mutationes inferiorum corporum
-… Aristot. I de Caelo text. 20.*; *Cfr. a. 1. q. 1. huius dist.*;
-*Magister Petrus Comestor († 1178)…*). Grep for next semantic
-boundary — likely end of Pars I dubia at `COMMENTARIUS` opener for
-Pars II (visible around raw line 24809 / printed p. 351).
+**Promote `d14-p2-divisio`** (manual-rescue). The Pars II
+COMMENTARIUS opens at raw line 24788 on p. 350 R bottom (`COMMENTARIUS
+IN DISTINCTIONEM XIV. Pars II. De productione insensibilium
+contentorum.`) and continues through DIVISIO TEXTUS on p. 351. Grep
+for the next semantic boundary (ARTICULUS I QUAESTIO I of Pars II).
+The shared printed page (p. 350) carries no pars-II footer notes —
+all 5 of p. 350's notes were consumed by a3-q2 + p1-dubia.
 
 The "Vat. … quando" parked footer from `d14-p1-littera` Notes still
 has no obvious d.14 anchor — defer to the polish-blocker. The "Art. 2.
