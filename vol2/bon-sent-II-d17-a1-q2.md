@@ -228,63 +228,63 @@ St. Thomas (here q. 1, a. 2) says: «To me it does not seem that there is in any
 
 [^10]: **La.** Text. 11. seq. (VII. c. 4.); sententialiter; clarius VII. text. 28, quem iam supra pag. 109, nota 5. allegavimus. — Plures codd. cum edd. 1, 2 *nihil facit* pro *non facit*.
 
-      **En.** Text 11 ff. (VII, c. 4); in substance; more clearly VII, text 28, which we have already cited above p. 109, note 5. — Several codices, with editions 1 and 2, read *nihil facit* for *non facit*.
+     **En.** Text 11 ff. (VII, c. 4); in substance; more clearly VII, text 28, which we have already cited above p. 109, note 5. — Several codices, with editions 1 and 2, read *nihil facit* for *non facit*.
 
 [^11]: **La.** Cfr. I. Sent. d. 3. p. II. a. 1. q. 3. fundam. 3. et d. 8. p. II. q. 2, ubi haec ex Boethio formata propositio explicatur.
 
-      **En.** Cfr. *I Sent.* d. 3, p. II, a. 1, q. 3, *fundam.* 3, and d. 8, p. II, q. 2, where this proposition formed from Boethius is explained.
+     **En.** Cfr. *I Sent.* d. 3, p. II, a. 1, q. 3, *fundam.* 3, and d. 8, p. II, q. 2, where this proposition formed from Boethius is explained.
 
 [^12]: **La.** Aristot., de Praedicam. c. de Substantia. — Pro seq. prop. cfr. Aristot., II. Metaph. text. 12. (I. brevior, c. 2.) et XII. text. 10. (XI. c. 2.), ubi dicit, quod in omni eo quod movetur sive mutatur, materia inveniatur. — August., VII. de Gen. ad lit. c. 6. n. 9. inquirens, utrum anima ex materia spirituali producta sit, ait: *Si enim quiddam incommutabile esset anima, nullo modo eius quasi materiam quaerere deberemus; nunc autem mutabilitas eius satis indicat, eam interim vitiis atque fallaciis deformem reddi, formari autem virtutibus veritatisque doctrina, sed in sua iam natura, qua est anima, sicut etiam caro in sua natura, qua iam caro est, et salute decoratur et morbis vulneribusque foedatur* etc.
 
-      **En.** Aristotle, *De Praedicamentis,* c. on Substance. — For the following proposition cfr. Aristotle, *Metaphysics* II, text 12 (I, the shorter, c. 2) and XII, text 10 (XI, c. 2), where he says that in every thing which is moved or changed, matter is found. — Augustine, *De Genesi ad litteram* VII, c. 6, n. 9, inquiring whether the soul was produced from spiritual matter, says: *For if the soul were something incommutable, we ought in no way to seek for it as it were a matter; but now its mutability sufficiently indicates that it is in the meantime rendered deformed by vices and falsehoods, and is formed by virtues and the teaching of truth, yet now in its own nature, by which it is soul, just as also flesh in its own nature, by which it is now flesh, is both adorned by health and disfigured by diseases and wounds,* etc.
+     **En.** Aristotle, *De Praedicamentis,* c. on Substance. — For the following proposition cfr. Aristotle, *Metaphysics* II, text 12 (I, the shorter, c. 2) and XII, text 10 (XI, c. 2), where he says that in every thing which is moved or changed, matter is found. — Augustine, *De Genesi ad litteram* VII, c. 6, n. 9, inquiring whether the soul was produced from spiritual matter, says: *For if the soul were something incommutable, we ought in no way to seek for it as it were a matter; but now its mutability sufficiently indicates that it is in the meantime rendered deformed by vices and falsehoods, and is formed by virtues and the teaching of truth, yet now in its own nature, by which it is soul, just as also flesh in its own nature, by which it is now flesh, is both adorned by health and disfigured by diseases and wounds,* etc.
 
 [^13]: **La.** De Trin. c. 2: «Reliqua [praeter Deum] enim non sunt id quod sunt; unumquodque enim habet *esse* suum *ex his,* *ex quibus* est, id est ex partibus suis, et est hoc atque hoc, id est partes suae coniunctae, sed non hoc, vel hoc singulariter, ut cum homo terrenus constet ex anima corporeque, corpus et anima est, non vel corpus, vel anima». In libro de Hebdomadibus docet, quod creaturae non sint suum *esse,* sed participent *esse*. In libro autem de Unitate et uno dicit, quod tam Angelus quam anima sint aliquod «unum coniunctione materiae et formae». Similiter August., II. de Moribus Manich. c. 4. n. 6. docet, quod creaturae sint bonae «participando bonum et habendo». In Ioan. tract. 19. n. 13, exponens illa verba: *Vitam dedit Filio, ut habeat eam in semetipso,* per oppositionem ad vitam animae dicit de Filio Dei: «Dedit ei, ut Filius esset, genuit, ut vita esset, hoc est *Dedit ei habere vitam in semetipso,* ut esset vita non egens vita, ne participando intelligatur habere vitam. Si enim participando haberet vitam, posset et amittendo esse sine vita». Libr. de Spiritu et anima (inter opera Augustini), c. 36. comparatur vita animae cum Dei vita: «Vita Deus est, vita et anima est, similis, sed dispar; similis, quod vita, quod se ipsa vivens... dispar, quoniam ille creator est, et ista creatura. Nisi enim ab illo creata esset, non esset; et nisi ab illo vivificata non viveret... Vita anima est, vivens quidem, sed non aliunde quam se ipsa; et ob hoc non tam vivens, quam vita est» etc. Haec verba, quae sumta sunt ex Bernard., in Cant. serm. 81. n. 3. seq., intelligit Alex. Hal., S. p. II. q. 87. m. 1. a. 2. § 2. in eodem sensu ac S. Bonav., scil. «anima vivit se ipsa i. e. aliquo sibi intrinseco, utpote formali principio»; et explicat exemplo sumto ab animali: «Animal enim dicitur *se ipso moveri* i. e. ab aliquo principio sibi intrinseco, eo modo quo dicitur anima *vivere se*».
 
-      **En.** *De Trinitate* c. 2: «For the rest [besides God] are not what they are; for everything has its *being* *from those things from which* it is, that is, from its parts, and is this and this, that is, its conjoined parts, but not this or this singly, just as when an earthly man stands together out of soul and body, he is both body and soul, not either body or soul». In the book *De Hebdomadibus* he teaches that creatures are not their own *being,* but participate in *being*. In the book *De Unitate et uno* he says that both Angel and soul are some «one by the conjunction of matter and form». Similarly Augustine, *De Moribus Manichaeorum* II, c. 4, n. 6, teaches that creatures are good «by participating in good and by having it». In *Tractate on John* 19, n. 13, expounding those words: *He gave life to the Son, that he might have it in himself,* by opposition to the life of the soul he says of the Son of God: «He gave to him to be Son, he begot, that he might be life, this is *He gave him to have life in himself,* that he might be life not needing life, lest by participating he be understood to have life. For if by participating he had life, he could also by losing it be without life». In the book *De Spiritu et anima* (among the works of Augustine), c. 36, the life of the soul is compared with the life of God: «God is life, and the soul is life, similar, but unlike; similar, in that it is life, in that it lives by itself... unlike, since he is creator, and this is creature. For unless created by him it would not be; and unless vivified by him it would not live... Life is the soul, living indeed, but from no other than itself; and on this account it is not so much living as life itself» etc. These words, which are taken from Bernard, *In Cantica* serm. 81, n. 3 ff., Alexander of Hales, S. p. II, q. 87, m. 1, a. 2, § 2, understands in the same sense as St. Bonaventure, namely «the soul lives by itself, i.e. by something intrinsic to itself, as by a formal principle»; and he explains it by an example taken from the animal: «For an animal is said *to be moved by itself,* i.e. by some principle intrinsic to itself, in the way in which the soul is said *to live by itself*».
+     **En.** *De Trinitate* c. 2: «For the rest [besides God] are not what they are; for everything has its *being* *from those things from which* it is, that is, from its parts, and is this and this, that is, its conjoined parts, but not this or this singly, just as when an earthly man stands together out of soul and body, he is both body and soul, not either body or soul». In the book *De Hebdomadibus* he teaches that creatures are not their own *being,* but participate in *being*. In the book *De Unitate et uno* he says that both Angel and soul are some «one by the conjunction of matter and form». Similarly Augustine, *De Moribus Manichaeorum* II, c. 4, n. 6, teaches that creatures are good «by participating in good and by having it». In *Tractate on John* 19, n. 13, expounding those words: *He gave life to the Son, that he might have it in himself,* by opposition to the life of the soul he says of the Son of God: «He gave to him to be Son, he begot, that he might be life, this is *He gave him to have life in himself,* that he might be life not needing life, lest by participating he be understood to have life. For if by participating he had life, he could also by losing it be without life». In the book *De Spiritu et anima* (among the works of Augustine), c. 36, the life of the soul is compared with the life of God: «God is life, and the soul is life, similar, but unlike; similar, in that it is life, in that it lives by itself... unlike, since he is creator, and this is creature. For unless created by him it would not be; and unless vivified by him it would not live... Life is the soul, living indeed, but from no other than itself; and on this account it is not so much living as life itself» etc. These words, which are taken from Bernard, *In Cantica* serm. 81, n. 3 ff., Alexander of Hales, S. p. II, q. 87, m. 1, a. 2, § 2, understands in the same sense as St. Bonaventure, namely «the soul lives by itself, i.e. by something intrinsic to itself, as by a formal principle»; and he explains it by an example taken from the animal: «For an animal is said *to be moved by itself,* i.e. by some principle intrinsic to itself, in the way in which the soul is said *to live by itself*».
 
 [^14]: **La.** Dist. 3. p. I. a. 1. q. 1.
 
-      **En.** Dist. 3, p. I, a. 1, q. 1.
+     **En.** Dist. 3, p. I, a. 1, q. 1.
 
 [^15]: **La.** Intellige *propriam per se ipsam* sive independentem a corpore, quia omnis operatio animae sensitivae est coniuncti. Cfr. Aristot., I. de Anima, text. 12. seqq. (c. 1.). — Ex hac ratione deducitur sequens, scil. quod anima brutalis non est nata per se *subsistere*. — Paulo inferius in codd. O R S habetur *per se et intra se* pro *intra se*.
 
-      **En.** Understand *proper through itself* or independent of the body, since every operation of the sensitive soul is of the conjoined whole. Cfr. Aristotle, *De Anima* I, text 12 ff. (c. 1). — From this reason the following is deduced, namely that the brute soul is not naturally fit per se *to subsist*. — A little below, in codices O R S, *per se et intra se* is given for *intra se*.
+     **En.** Understand *proper through itself* or independent of the body, since every operation of the sensitive soul is of the conjoined whole. Cfr. Aristotle, *De Anima* I, text 12 ff. (c. 1). — From this reason the following is deduced, namely that the brute soul is not naturally fit per se *to subsist*. — A little below, in codices O R S, *per se et intra se* is given for *intra se*.
 
 [^16]: **La.** Cfr. supra pag. 89, nota 5.
 
-      **En.** Cfr. above p. 89, note 5.
+     **En.** Cfr. above p. 89, note 5.
 
 [^17]: **La.** Supra d. 3. p. I. a. 1. q. 2, ubi etiam plura praecedentium explicantur. — Vat. *resolutio philosophica* pro *resolutio physica*.
 
-      **En.** Above d. 3, p. I, a. 1, q. 2, where also many of the foregoing matters are explained. — The Vatican edition reads *resolutio philosophica* for *resolutio physica*.
+     **En.** Above d. 3, p. I, a. 1, q. 2, where also many of the foregoing matters are explained. — The Vatican edition reads *resolutio philosophica* for *resolutio physica*.
 
 [^18]: **La.** Cod. T *formalem substantialem universalem,* scil. «secundum essentiam abstractam», ut dicit Bonav., I. Sent. d. 8. p. I. a. 2. q. 2. ad 1. In cod. A additur *universalis est «species, genus, vel intelligitur de particulari, sicut est anima bruti».*
 
-      **En.** Codex T reads *formalem substantialem universalem,* namely «according to abstracted essence», as Bonaventure says in *I Sent.* d. 8, p. I, a. 2, q. 2, *ad* 1. In codex A is added: *the universal is «a species, a genus, or is understood of the particular, as is the soul of a brute»*.
+     **En.** Codex T reads *formalem substantialem universalem,* namely «according to abstracted essence», as Bonaventure says in *I Sent.* d. 8, p. I, a. 2, q. 2, *ad* 1. In codex A is added: *the universal is «a species, a genus, or is understood of the particular, as is the soul of a brute»*.
 
 [^19]: **La.** Dist. 18. a. 2. q. 3. — Paulo superius post primum *materiam* cod. A subiungit *concreatam,* vel *coexistentem*.
 
-      **En.** Dist. 18, a. 2, q. 3. — A little above, after the first *materiam,* codex A appends *concreatam,* or *coexistentem*.
+     **En.** Dist. 18, a. 2, q. 3. — A little above, after the first *materiam,* codex A appends *concreatam,* or *coexistentem*.
 
 [^20]: **La.** De hac ratione cfr. Aristot., III. de Anima, text. 38. seq. (c. 8.). — Paulo superius in multis codd. et edd. 1, 2 desideratur *Ideo* [pro quo cod. V ponit *unde*], et paulo inferius falso legitur *quam intelligit* pro *per quam intelligit*.
 
-      **En.** On this reason cfr. Aristotle, *De Anima* III, text 38 ff. (c. 8). — A little above, in many codices and editions 1 and 2, *Ideo* is missing [for which codex V puts *unde*], and a little below, *quam intelligit* is falsely read for *per quam intelligit*.
+     **En.** On this reason cfr. Aristotle, *De Anima* III, text 38 ff. (c. 8). — A little above, in many codices and editions 1 and 2, *Ideo* is missing [for which codex V puts *unde*], and a little below, *quam intelligit* is falsely read for *per quam intelligit*.
 
 [^21]: **La.** Cfr. Aristot., III. de Anima, text. 28. seqq. (c. 7.).
 
-      **En.** Cfr. Aristotle, *De Anima* III, text 28 ff. (c. 7).
+     **En.** Cfr. Aristotle, *De Anima* III, text 28 ff. (c. 7).
 
 [^22]: **La.** Vide supra d. 3. p. I. a. 1. q. 1. et I. Sent. d. 8. p. II. q. 2. — Vat. omittit *et compositio ex partibus substantialibus*.
 
-      **En.** See above d. 3, p. I, a. 1, q. 1, and *I Sent.* d. 8, p. II, q. 2. — The Vatican edition omits *et compositio ex partibus substantialibus*.
+     **En.** See above d. 3, p. I, a. 1, q. 1, and *I Sent.* d. 8, p. II, q. 2. — The Vatican edition omits *et compositio ex partibus substantialibus*.
 
 [^23]: **La.** Ita plures codd. ut F W aa, alii codd. cum edd. *convenit*.
 
-      **En.** Thus several codices such as F W aa; other codices with the editions read *convenit*.
+     **En.** Thus several codices such as F W aa; other codices with the editions read *convenit*.
 
 [^24]: **La.** In cod. cc et ed. 1 bene additur *autem*. Circa finem solutionis Vat. cum nonnullis codd. *corporalem materiam* pro *corporalem naturam,* refragante etiam ed. 1, et dein plures codd. cum ed. 1 *sustinendam animam* pro *suscipiendam animam*.
 
-      **En.** In codex cc and edition 1 *autem* is well added. Toward the end of the solution the Vatican edition with some codices reads *corporalem materiam* for *corporalem naturam,* edition 1 also being against it; and then several codices with edition 1 read *sustinendam animam* for *suscipiendam animam*.
+     **En.** In codex cc and edition 1 *autem* is well added. Toward the end of the solution the Vatican edition with some codices reads *corporalem materiam* for *corporalem naturam,* edition 1 also being against it; and then several codices with edition 1 read *sustinendam animam* for *suscipiendam animam*.
 
 ---
 

@@ -264,75 +264,75 @@ Ninth and last, in comparison to the disparate.
 
 [^10]: **La.** *De Div. Nom.* c. 4. § 22. Versio Scoti Erigenae convenit, excepta ultima parte definitionis: *incoinquinatum, recipiens totam, si iustum decore, speciositatem bene formatae deiformitatis, et pure declarans in se ipso, sicut possibile est, bonitatem, quae est in adytis* (τὸ ἀγαθὸν τῆς κρυφίας σιγῆς).
 
-      **En.** Dionysius, *On the Divine Names* c. 4, § 22. The version of Scotus Eriugena agrees, except for the last part of the definition: *unpolluted, receiving whole — if just by adornment — the beauty of the well-formed deiformity, and purely declaring in itself, so far as is possible, the goodness which is in the hidden parts* (τὸ ἀγαθὸν τῆς κρυφίας σιγῆς).
+     **En.** Dionysius, *On the Divine Names* c. 4, § 22. The version of Scotus Eriugena agrees, except for the last part of the definition: *unpolluted, receiving whole — if just by adornment — the beauty of the well-formed deiformity, and purely declaring in itself, so far as is possible, the goodness which is in the hidden parts* (τὸ ἀγαθὸν τῆς κρυφίας σιγῆς).
 
 [^11]: **La.** August., XIV. *de Trin.* c. 8. n. 11.
 
-      **En.** Augustine, *On the Trinity* book XIV, c. 8, n. 11.
+     **En.** Augustine, *On the Trinity* book XIV, c. 8, n. 11.
 
 [^12]: **La.** Aliqui codd. cum Vat. *conformat*, cod. cc et ed. 1 *confirmat*.
 
-      **En.** Some codices with the Vatican edition read *conformat* (*conforms*); codex cc and edition 1 read *confirmat* (*confirms*) [for *consummat*].
+     **En.** Some codices with the Vatican edition read *conformat* (*conforms*); codex cc and edition 1 read *confirmat* (*confirms*) [for *consummat*].
 
 [^13]: **La.** Ita certo habent codd. bb ee; in aliis codd. et edd. *activam*, nisi sint dubiae lectiones. *Foeditas acta* dicit foeditatem, peccaminosa actione in voluntate productam. Triplex foeditas respondet triplici *poenae*, scil. *actae, inflictae* et *contractae*. Cfr. infra d. 35. a. 1. q. 2, ubi consideratur peccatum, in quantum est et corruptio-actio et corruptio-passio. *Culpa* acta et contracta legitur infra d. 31. a. 2. q. 2. in omnibus codd. et edd. Vide insuper d. 42. dub. 1. — Mox post *foeditas actualis* in cod. I additur *mortalis*. S. Doctor infra d. 41. a. 2. q. 1, cum resolvit quaestionem: utrum omne peccatum actuale sit voluntarium, triplex distinguit voluntarium, scil. aut voluntate *aliena*, aut voluntate *propria*, aut *partim* voluntate aliena, *partim* voluntate propria. Primo modo voluntarium est peccatum originale, secundo modo voluntarium est peccatum actuale mortale, tertio autem modo peccatum veniale, quod quodam modo tenet rationem *poenae*, quodam modo rationem *culpae*. Cfr. etiam d. 42. a. 2. q. 1.
 
-      **En.** Thus certainly read codices bb and ee; in other codices and editions *activam*, unless these are doubtful readings. *Foeditas acta* (*foulness enacted*) denotes a foulness produced in the will by sinful action. The threefold foulness corresponds to a threefold *penalty*, namely *acted, inflicted*, and *contracted*. Cf. below d. 35, a. 1, q. 2, where sin is considered as both corruption-as-action and corruption-as-passion. *Culpa acta et contracta* is read below at d. 31, a. 2, q. 2, in all codices and editions. See in addition d. 42, dub. 1. — Soon after *foeditas actualis*, codex I adds *mortalis*. The Holy Doctor below at d. 41, a. 2, q. 1, when he resolves the question whether every actual sin is voluntary, distinguishes the voluntary threefold, namely either by *another's* will, or by *one's own* will, or *partly* by another's will and *partly* by one's own. In the first mode voluntary is original sin; in the second mode voluntary is actual mortal sin; in the third mode is venial sin, which somehow has the character of *penalty* and somehow that of *fault*. Cf. also d. 42, a. 2, q. 1.
+     **En.** Thus certainly read codices bb and ee; in other codices and editions *activam*, unless these are doubtful readings. *Foeditas acta* (*foulness enacted*) denotes a foulness produced in the will by sinful action. The threefold foulness corresponds to a threefold *penalty*, namely *acted, inflicted*, and *contracted*. Cf. below d. 35, a. 1, q. 2, where sin is considered as both corruption-as-action and corruption-as-passion. *Culpa acta et contracta* is read below at d. 31, a. 2, q. 2, in all codices and editions. See in addition d. 42, dub. 1. — Soon after *foeditas actualis*, codex I adds *mortalis*. The Holy Doctor below at d. 41, a. 2, q. 1, when he resolves the question whether every actual sin is voluntary, distinguishes the voluntary threefold, namely either by *another's* will, or by *one's own* will, or *partly* by another's will and *partly* by one's own. In the first mode voluntary is original sin; in the second mode voluntary is actual mortal sin; in the third mode is venial sin, which somehow has the character of *penalty* and somehow that of *fault*. Cf. also d. 42, a. 2, q. 1.
 
 [^14]: **La.** Nam peccatum veniale *adhaeret*, quin expellat gratiam, et in quantum vitium est, *deordinat* sensualitatem, non liberum arbitrium (infra d. 24. p. II. a. 3. q. 1. seq.), in quantum poena *advenit*.
 
-      **En.** For venial sin *adheres* without expelling grace, and insofar as it is vice, it *disorders* sensuality — not free choice (below d. 24, p. II, a. 3, q. 1ff.) — insofar as the penalty *comes upon* one.
+     **En.** For venial sin *adheres* without expelling grace, and insofar as it is vice, it *disorders* sensuality — not free choice (below d. 24, p. II, a. 3, q. 1ff.) — insofar as the penalty *comes upon* one.
 
 [^15]: **La.** Hic c. 2. — Cfr. de his infra q. 2. 3.
 
-      **En.** Here, c. 2 [of the Master's text]. — Cf. on these matters below, q. 2 and q. 3.
+     **En.** Here, c. 2 [of the Master's text]. — Cf. on these matters below, q. 2 and q. 3.
 
 [^16]: **La.** Secundum Aristot., I. *Topic.* c. 1. seq., topica illa pars logicae dicitur *locos* continens, ex quibus eruuntur argumenta, quibus probabiliter (dialectice) circa res disputare possimus. Inter hos *locos* habetur etiam definitio rei.
 
-      **En.** According to Aristotle, *Topics* book I, c. 1ff., that part of logic is called *topical* which contains *places* from which arguments are drawn by which we can dispute probably (dialectically) about things. Among these *places* is also reckoned the definition of a thing.
+     **En.** According to Aristotle, *Topics* book I, c. 1ff., that part of logic is called *topical* which contains *places* from which arguments are drawn by which we can dispute probably (dialectically) about things. Among these *places* is also reckoned the definition of a thing.
 
 [^17]: **La.** Praepositivus, *Sum.* p. II. ait: *Media [angelica] vel tripartita est: superior, media et infima, quas quidam, quibus placet graecizare, appellant epiphaniam, hyperphaniam, hypophaniam. Prima continet Seraphim, Cherubim et Thronos, unde sic describitur: superior hierarchia caelestis est incarescentis affectionis incendio, altioris intellectus fastigio iudicii libra resultatio distributa... In secundo similiter tres sunt ordines, scil. Principatus, Dominationes et Potestates; quae sic describitur: media hierarchia caelestis est divina illuminatio, participem scalari reverentia insigniens, usum dominandi excrescens, arcensque contrarium... Tertia hierarchia similiter tres habet ordines, scil. Virtutes, Angelos et Archangelos; quae sic describitur: inferior hierarchia caelestis est divinum principium naturae legibus occurrens, secreta revelans pro capacitate discreta vel diserta*. — Cod. cc et ed. 1 legunt *alia Eparchia, alia Mesarchia, alia Hyparchia*.
 
-      **En.** Praepositivus, *Summa* part II, says: *The intermediate [angelic hierarchy] is tripartite: superior, intermediate, and lowest, which some, who prefer to Grecize, call epiphany, hyperphany, hypophany. The first contains the Seraphim, Cherubim, and Thrones, whence it is so described: the superior celestial hierarchy is a distributed resultation from the kindling of inflamed affection, from the height of higher intellect, from the balance of judgment... In the second likewise are three orders, namely Principalities, Dominions, and Powers; which is so described: the intermediate celestial hierarchy is a divine illumination, signing the participant with scalar reverence, going beyond the use of dominating, and warding off the contrary... The third hierarchy likewise has three orders, namely Virtues, Angels, and Archangels; which is so described: the inferior celestial hierarchy is a divine principle meeting with the laws of nature, revealing secrets according to capacity, distinct or eloquent*. — Codex cc and edition 1 read *one Eparchia, another Mesarchia, another Hyparchia*.
+     **En.** Praepositivus, *Summa* part II, says: *The intermediate [angelic hierarchy] is tripartite: superior, intermediate, and lowest, which some, who prefer to Grecize, call epiphany, hyperphany, hypophany. The first contains the Seraphim, Cherubim, and Thrones, whence it is so described: the superior celestial hierarchy is a distributed resultation from the kindling of inflamed affection, from the height of higher intellect, from the balance of judgment... In the second likewise are three orders, namely Principalities, Dominions, and Powers; which is so described: the intermediate celestial hierarchy is a divine illumination, signing the participant with scalar reverence, going beyond the use of dominating, and warding off the contrary... The third hierarchy likewise has three orders, namely Virtues, Angels, and Archangels; which is so described: the inferior celestial hierarchy is a divine principle meeting with the laws of nature, revealing secrets according to capacity, distinct or eloquent*. — Codex cc and edition 1 read *one Eparchia, another Mesarchia, another Hyparchia*.
 
 [^18]: **La.** *De Caelest. Hierarch.* c. 6. § 2. et c. 8. § 1. seq. — Gregor., in Evang. hom. 34. n. 7. — Bernard., V. *de Consid.* c. 4. n. 8.
 
-      **En.** Dionysius, *On the Celestial Hierarchy* c. 6, § 2, and c. 8, § 1ff. — Gregory, *Homily 34 on the Gospels*, n. 7. — Bernard, *On Consideration* book V, c. 4, n. 8.
+     **En.** Dionysius, *On the Celestial Hierarchy* c. 6, § 2, and c. 8, § 1ff. — Gregory, *Homily 34 on the Gospels*, n. 7. — Bernard, *On Consideration* book V, c. 4, n. 8.
 
 [^19]: **La.** *De Caelest. Hierarch.* c. 6. § 2. et c. 9. § 1. seqq. — Gregor. et Bernard. locis paulo superius citt.
 
-      **En.** Dionysius, *On the Celestial Hierarchy* c. 6, § 2, and c. 9, § 1ff. — Gregory and Bernard at the places cited just above.
+     **En.** Dionysius, *On the Celestial Hierarchy* c. 6, § 2, and c. 9, § 1ff. — Gregory and Bernard at the places cited just above.
 
 [^20]: **La.** In fere omnibus codd. et in edd. praecedentia mutilate et propter subnexa minus congrue sic exhibentur *est duplex: vel secundum ea quae essentialiter respiciunt hierarchiam, quae sunt ordo, scientia et actio, sic triplicem* etc. Cod. cc, ed. 1 et Vat. post *actio* interserunt *vel secundum status et officia. Si primo modo*. Secuti sumus cod. aa, eo excepto, quod in secundo disiunctionis membro pro *statum vel officia* substituimus *status et officia*, quod paulo inferius fere omnes codd. ponunt.
 
-      **En.** In almost all codices and editions the preceding [text] is mutilated, and, on account of what follows, less suitably exhibited thus: *est duplex: vel secundum ea quae essentialiter respiciunt hierarchiam, quae sunt ordo, scientia et actio, sic triplicem* etc. Codex cc, edition 1, and the Vatican edition, after *actio*, interpose *vel secundum status et officia. Si primo modo*. We have followed codex aa, with this exception, that in the second member of the disjunction in place of *statum vel officia* we have substituted *status et officia*, which a little below almost all the codices place.
+     **En.** In almost all codices and editions the preceding [text] is mutilated, and, on account of what follows, less suitably exhibited thus: *est duplex: vel secundum ea quae essentialiter respiciunt hierarchiam, quae sunt ordo, scientia et actio, sic triplicem* etc. Codex cc, edition 1, and the Vatican edition, after *actio*, interpose *vel secundum status et officia. Si primo modo*. We have followed codex aa, with this exception, that in the second member of the disjunction in place of *statum vel officia* we have substituted *status et officia*, which a little below almost all the codices place.
 
 [^21]: **La.** Quas vide hic in lit. Magistri, c. 2.
 
-      **En.** Which see here in the Master's text, c. 2.
+     **En.** Which see here in the Master's text, c. 2.
 
 [^22]: **La.** Secundae divisionis, qua scil. caelestis hierarchia secundum essentialia vel secundum officia dividitur in supremam, mediam et infimam. — De sententia Dionysii cfr. secunda hierarchiae definitio, quae supra allata est; de sententia Gregorii vide hic lit. Magistri, c. 2.
 
-      **En.** [I.e.,] of the second division, by which the celestial hierarchy is divided according to *essentials* or according to *offices* into supreme, intermediate, and lowest. — On the opinion of Dionysius cf. the second definition of hierarchy, which was set forth above; on the opinion of Gregory see here the Master's text, c. 2.
+     **En.** [I.e.,] of the second division, by which the celestial hierarchy is divided according to *essentials* or according to *offices* into supreme, intermediate, and lowest. — On the opinion of Dionysius cf. the second definition of hierarchy, which was set forth above; on the opinion of Gregory see here the Master's text, c. 2.
 
 [^23]: **La.** In cod. cc et ed. 1 deest *per se*.
 
-      **En.** In codex cc and edition 1 the words *per se* are absent.
+     **En.** In codex cc and edition 1 the words *per se* are absent.
 
 [^24]: **La.** Ed. 1, omissa particula *ex*, substituit *deprehendi potest*.
 
-      **En.** Edition 1, omitting the particle *ex*, substitutes *deprehendi potest*.
+     **En.** Edition 1, omitting the particle *ex*, substitutes *deprehendi potest*.
 
 [^25]: **La.** Cod. aa *quam multitudini*.
 
-      **En.** Codex aa: *quam multitudini*.
+     **En.** Codex aa: *quam multitudini*.
 
 [^26]: **La.** Codd. F H *si*.
 
-      **En.** Codices F and H: *si*.
+     **En.** Codices F and H: *si*.
 
 [^27]: **La.** Gregor., in Evang. hom. 34. n. 112. In medio aevo libri sub nomine Dionysii vulgo attribuebantur S. Dionysio Areopagitae, discipulo S. Pauli; quod ipse auctor pluries asserere videtur. Sed nunc ob gravissimas rationes fere communiter tenetur, auctorem eorum esse aetatis multo posterioris. Defenditur autem a cl. Hipler in docto libro a vulgata accusatione fraudis et haereticae doctrinae (cfr. Alzog, *Handbuch der Patrologie*, ed. 3. pag. 443 seqq.).
 
-      **En.** Gregory, *Homilies on the Gospels*, hom. 34, n. 112. — In the Middle Ages the books under the name of Dionysius were commonly attributed to St. Dionysius the Areopagite, the disciple of St. Paul, which the author himself seems repeatedly to assert. But now, for very weighty reasons, it is fairly commonly held that their author belongs to a much later age. He is defended, however, by the learned Hipler, in a learned book, from the common accusation of fraud and of heretical doctrine (cf. Alzog, *Handbuch der Patrologie*, 3rd ed., pp. 443 ff.).
+     **En.** Gregory, *Homilies on the Gospels*, hom. 34, n. 112. — In the Middle Ages the books under the name of Dionysius were commonly attributed to St. Dionysius the Areopagite, the disciple of St. Paul, which the author himself seems repeatedly to assert. But now, for very weighty reasons, it is fairly commonly held that their author belongs to a much later age. He is defended, however, by the learned Hipler, in a learned book, from the common accusation of fraud and of heretical doctrine (cf. Alzog, *Handbuch der Patrologie*, 3rd ed., pp. 443 ff.).
 
 ---
 

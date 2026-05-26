@@ -247,83 +247,83 @@ As to the *manner,* however, in which the sensible souls are now produced by pro
 
 [^10]: **La.** Cfr. Aristot., I. de Anima, text. 93. (c. 3.) et II. text. 20. (c. 2.).
 
-    **En.** Cfr. Aristotle, *On the Soul* I text 93 (c. 3) and II text 20 (c. 2).
+     **En.** Cfr. Aristotle, *On the Soul* I text 93 (c. 3) and II text 20 (c. 2).
 
 [^11]: **La.** Libr. I. de Generat. animal. c. 20. et II. c. 1. — Vat. post *nec* addit *est,* et paulo superius substituit *genus* pro *agens.* Mox Vat. cum nonnullis codd. et ceteris edd. *producuntur* pro *producitur.*
 
-    **En.** *On the Generation of Animals* I c. 20 and II c. 1. — The Vatican edition after *nec* adds *est,* and a little above substitutes *genus* for *agens.* Soon the Vatican edition with several codices and the other editions reads *producuntur* for *producitur.*
+     **En.** *On the Generation of Animals* I c. 20 and II c. 1. — The Vatican edition after *nec* adds *est,* and a little above substitutes *genus* for *agens.* Soon the Vatican edition with several codices and the other editions reads *producuntur* for *producitur.*
 
 [^12]: **La.** Cfr. hic solutio ad 2. et supra pag. 109, nota 7. et pag. 197, nota 3. — In sequentibus Vat. utitur ter verbis *corporalis materiae* pro *corporalis naturae.*
 
-    **En.** Cfr. here the solution to [argument] 2, and above p. 109 note 7 and p. 197 note 3. — In what follows the Vatican edition thrice uses the words *corporeal matter* for *corporeal nature.*
+     **En.** Cfr. here the solution to [argument] 2, and above p. 109 note 7 and p. 197 note 3. — In what follows the Vatican edition thrice uses the words *corporeal matter* for *corporeal nature.*
 
 [^13]: **La.** Parte II. a. 2. q. 2. in corp. Cfr. d. 8. p. I. a. 2. q. 1. in corp. — Lineola supra posita indicat, incongruam esse constructionem. Refertur antecedens *ad hoc consequens: Et ideo est quartus.*
 
-    **En.** Part II. Article 2. Question 2 in the body. Cfr. d. 8. Part I. Article 2. Question 1 in the body. — The line placed above indicates that the construction is incongruous. The antecedent is to be referred *to this consequent: And therefore there is a fourth [way].*
+     **En.** Part II. Article 2. Question 2 in the body. Cfr. d. 8. Part I. Article 2. Question 1 in the body. — The line placed above indicates that the construction is incongruous. The antecedent is to be referred *to this consequent: And therefore there is a fourth [way].*
 
 [^14]: **La.** Libr. I. Phys. text. 82. (c. 9.), ubi dicit, materiam esse «incorruptibilem et ingenitam... et si corrumpitur aliquid, in hoc [scil. materiam] abibit ultimum».
 
-    **En.** *Physics* I text 82 (c. 9), where he says that matter is «incorruptible and unbegotten... and if anything is corrupted, into this [namely matter] it shall pass at last».
+     **En.** *Physics* I text 82 (c. 9), where he says that matter is «incorruptible and unbegotten... and if anything is corrupted, into this [namely matter] it shall pass at last».
 
 [^15]: **La.** Cfr. supra d. 7. p. II. a. 2. q. 1. et infra d. 18. a. 1. q. 2. seq. — Aliquanto inferius plures codd. *et proficit* pro *et sic proficit.*
 
-    **En.** Cfr. above d. 7. Part II. a. 2. q. 1 and below d. 18. a. 1. q. 2 [and] following. — A little below several codices [read] *et proficit* for *et sic proficit.*
+     **En.** Cfr. above d. 7. Part II. a. 2. q. 1 and below d. 18. a. 1. q. 2 [and] following. — A little below several codices [read] *et proficit* for *et sic proficit.*
 
 [^16]: **La.** Ed. 1 *praeexstitit.*
 
-    **En.** Ed. 1 reads *praeexstitit.*
+     **En.** Ed. 1 reads *praeexstitit.*
 
 [^17]: **La.** Plures codd. cum primis edd. *seminario;* Vat. *primo seminario.*
 
-    **En.** Several codices with the first editions read *seminario;* the Vatican edition *primo seminario.*
+     **En.** Several codices with the first editions read *seminario;* the Vatican edition *primo seminario.*
 
 [^18]: **La.** Sive Quaest. 63. q. 37. (inter opera Augustini), ubi textus originalis substituit *obrutum* pro *corruptum,* subinde omittit *eisdem;* plures codd. cum edd. 1, 2, 3 substituunt *creante,* aliqui cum Vat. *concurrente* pro *curante.* Cfr. V. de Gen. ad lit. c. 23. n. 44.
 
-    **En.** Or *Quaest.* 63 q. 37 (among the works of Augustine), where the original text substitutes *obrutum* for *corruptum,* and then omits *eisdem;* several codices with edd. 1, 2, 3 substitute *creante,* some with the Vatican edition *concurrente* for *curante.* Cfr. V. *On Genesis according to the letter* c. 23 n. 44.
+     **En.** Or *Quaest.* 63 q. 37 (among the works of Augustine), where the original text substitutes *obrutum* for *corruptum,* and then omits *eisdem;* several codices with edd. 1, 2, 3 substitute *creante,* some with the Vatican edition *concurrente* for *curante.* Cfr. V. *On Genesis according to the letter* c. 23 n. 44.
 
 [^19]: **La.** Praesertim c. 14. n. 22. — Sententiam Philosophi vide loc. cit. sive, ut nunc dicitur, II. de Generat. animal. c. 3.
 
-    **En.** Especially c. 14 n. 22. — For the opinion of the Philosopher see the place cited, or, as it is now called, II. *On the Generation of Animals* c. 3.
+     **En.** Especially c. 14 n. 22. — For the opinion of the Philosopher see the place cited, or, as it is now called, II. *On the Generation of Animals* c. 3.
 
 [^20]: **La.** Dist. 18. a. 2. q. 3. — Aristot., loc. cit. c. 3. seqq. — Alius textus est ibid. libro III. c. 11: *Generantur autem in terra humoreque animalia et plantae, quoniam humor in terra, spiritus in humore, calor animalis in universo inest, ita ut quodam modo plena sint animae omnia.* — Paulo ante Vat. *dicitur inesse* pro *educitur in esse.*
 
-    **En.** Distinction 18. Article 2. Question 3. — Aristotle, loc. cit. c. 3. ff. — Another text is at the same place in book III c. 11: *But animals and plants are generated in earth and moisture, because moisture is in the earth, spirit in the moisture, animal heat in the universe, so that in some way all things are full of soul.* — A little before, the Vatican edition reads *dicitur inesse* for *educitur in esse.*
+     **En.** Distinction 18. Article 2. Question 3. — Aristotle, loc. cit. c. 3. ff. — Another text is at the same place in book III c. 11: *But animals and plants are generated in earth and moisture, because moisture is in the earth, spirit in the moisture, animal heat in the universe, so that in some way all things are full of soul.* — A little before, the Vatican edition reads *dicitur inesse* for *educitur in esse.*
 
 [^21]: **La.** Libr. III. de Trin. c. 8. n. 13: et c. 9. n. 16, ubi hoc verbum quoad sensum clare exprimitur; sic ultimo cit. loc. ait: *Nam sicut matres gravidae sunt fetibus, sic ipse mundus gravidus est causis nascentium* etc.
 
-    **En.** Book III. *On the Trinity* c. 8 n. 13, and c. 9 n. 16, where this saying is clearly expressed as to sense; thus at the last cited place he says: *For just as mothers are pregnant with offspring, so the world itself is pregnant with the causes of things to be born* etc.
+     **En.** Book III. *On the Trinity* c. 8 n. 13, and c. 9 n. 16, where this saying is clearly expressed as to sense; thus at the last cited place he says: *For just as mothers are pregnant with offspring, so the world itself is pregnant with the causes of things to be born* etc.
 
 [^22]: **La.** Plures codd. cum Vat. omittunt *habet* et *omnes,* exceptis F et T (a secund. manu) *et* ante *virtute.* — Pro intelligentia solutionis notentur haec ex Gul. Mara, hic q. 1: *Dicendum, quod hoc aliquid dicitur multipliciter. Aliquando idem est quod singulare quodcumque sive substantiae sive accidentis; et sic accipit Philosophus, ubi solvit paralogismos figurae dictionis;* «*Homo et omne commune non hoc aliquid, sed quale quid significat*» (II. Elench. c. 3.). *Aliquando est idem quod habens esse distinctum. Ita enim glossat Commentator super XII. Metaph. text. 14, ubi recitat distinctionem de ipso* quid *secundum Alexandrum,* hoc aliquid *i. e. habens esse distinctum in materia corporali; unde Commentator super III. de Anima, text. 4. dicit, quod intellectus non est* hoc aliquid *i. e. neque virtus in corpore neque corpus. Primo modo sequitur, si est motor sufficiens, quod sit* hoc aliquid, *quia omnes actiones sunt singularium. Secundo modo et tertio non sequitur; unde Commentator super illud VIII. Phys. text. 30: Et etiam quomodo est possibile : Motor, inquit, debet esse distinctus a moto aut secundum definitionem et esse, sicut illa, quae moventur ab extrinseco, aut secundum definitionem tantum, sicut est dispositio in habentibus animas. Anima enim, quae est motor in eis, distinguitur* [a corpore, quod est motum] *secundum definitionem, licet non distinguatur secundum esse* etc.
 
-    **En.** Several codices with the Vatican edition omit *habet* and *omnes,* except F and T (by a second hand) [omit] *et* before *virtute.* — For the understanding of the solution these things from Gul. Mara, here q. 1, should be noted: *It must be said that* this something *is said in many ways. Sometimes it is the same as any singular whatever, whether of substance or of accident; and so the Philosopher takes it where he solves the paralogisms of the figure of speech;* «*Man and every common [term] does not signify* this something *but a what-sort-of-thing*» (II. *Elenchi* c. 3). *Sometimes it is the same as that-which-has-distinct-being. For thus the Commentator glosses on Metaphysics XII text 14, where he recites the distinction concerning the very* "what" *according to Alexander:* this something *i.e. that-which-has-distinct-being in corporeal matter; whence the Commentator on On the Soul III text 4 says that the intellect is not* this something, *i.e. neither a power in a body nor a body. In the first sense it follows, if it is a sufficient mover, that it is* this something, *because all actions are of singulars. In the second and third sense it does not follow; whence the Commentator on that passage Physics VIII text 30: 'And also how is it possible': The mover, he says, must be distinct from the moved, either according to definition and being, like those things that are moved from without, or according to definition only, as is the disposition in things having souls. For the soul, which is the mover in them, is distinguished* [from the body which is moved] *according to definition, although it is not distinguished according to being,* etc.
+     **En.** Several codices with the Vatican edition omit *habet* and *omnes,* except F and T (by a second hand) [omit] *et* before *virtute.* — For the understanding of the solution these things from Gul. Mara, here q. 1, should be noted: *It must be said that* this something *is said in many ways. Sometimes it is the same as any singular whatever, whether of substance or of accident; and so the Philosopher takes it where he solves the paralogisms of the figure of speech;* «*Man and every common [term] does not signify* this something *but a what-sort-of-thing*» (II. *Elenchi* c. 3). *Sometimes it is the same as that-which-has-distinct-being. For thus the Commentator glosses on Metaphysics XII text 14, where he recites the distinction concerning the very* "what" *according to Alexander:* this something *i.e. that-which-has-distinct-being in corporeal matter; whence the Commentator on On the Soul III text 4 says that the intellect is not* this something, *i.e. neither a power in a body nor a body. In the first sense it follows, if it is a sufficient mover, that it is* this something, *because all actions are of singulars. In the second and third sense it does not follow; whence the Commentator on that passage Physics VIII text 30: 'And also how is it possible': The mover, he says, must be distinct from the moved, either according to definition and being, like those things that are moved from without, or according to definition only, as is the disposition in things having souls. For the soul, which is the mover in them, is distinguished* [from the body which is moved] *according to definition, although it is not distinguished according to being,* etc.
 
 [^23]: **La.** Cod. T *natura.* Dein Vat. cum aliquibus codd. *statum* pro *statutum.* — Cfr. August., VI. de Gen. ad lit. c. 13. n. 26. seqq., ex quo Magister, infra d. XVII. c. 3, plura allegat.
 
-    **En.** Codex T reads *natura.* Then the Vatican edition with some codices [reads] *statum* for *statutum.* — Cfr. Augustine, *On Genesis according to the letter* VI c. 13 n. 26 ff., from which the Master, below d. XVII c. 3, alleges several things.
+     **En.** Codex T reads *natura.* Then the Vatican edition with some codices [reads] *statum* for *statutum.* — Cfr. Augustine, *On Genesis according to the letter* VI c. 13 n. 26 ff., from which the Master, below d. XVII c. 3, alleges several things.
 
 [^24]: **La.** Cfr. supra pag. 198, nota 3. — Sententiam Aristotelis vide III. de Generat. animal. c. 11. — Paulo inferius plures codd. *organizatum* pro *organicum.*
 
-    **En.** Cfr. above p. 198 note 3. — For the opinion of Aristotle see *On the Generation of Animals* III c. 11. — A little below several codices [read] *organizatum* for *organicum.*
+     **En.** Cfr. above p. 198 note 3. — For the opinion of Aristotle see *On the Generation of Animals* III c. 11. — A little below several codices [read] *organizatum* for *organicum.*
 
 [^25]: **La.** Nonnulli codd. hic addunt *non.* Subinde pauci codd. cum ed. 1 *et illa potentia* [ed. 1 addit *essentialiter*] pro *et illa essentia.*
 
-    **En.** Some codices here add *non.* Then a few codices with ed. 1 [read] *et illa potentia* [ed. 1 adds *essentialiter*] for *et illa essentia.*
+     **En.** Some codices here add *non.* Then a few codices with ed. 1 [read] *et illa potentia* [ed. 1 adds *essentialiter*] for *et illa essentia.*
 
 [^26]: **La.** Parte I. a. 2. q. 1. in corp.
 
-    **En.** Part I. Article 2. Question 1 in the body.
+     **En.** Part I. Article 2. Question 1 in the body.
 
 [^27]: **La.** Aristot., de Iuventute et senect., c. 1. ait: *Et multa quoque non insectorum divisa possunt vivere propter nutritivam. Talem autem particulam actu quidem habent unam, virtute autem plures* etc. Idem dicitur I. de Anima, text. 93. seqq. (c. 5.) et II. text. 20. (c. 2.). — Cfr. Alex. Hal., S. p. II. q. 87. m. 2. a. 1. § 2, ubi diversae opiniones hac de re proponuntur, et August., de Quantit. animae, c. 31. n. 62. seqq.
 
-    **En.** Aristotle, *On Youth and Old Age* c. 1 says: *And many even of non-insects, when divided, can live on account of the nutritive [soul]. Such a part, however, in act they have as one, but in power as many,* etc. The same is said in *On the Soul* I text 93 ff. (c. 5) and II text 20 (c. 2). — Cfr. Alex. Hal., S. p. II q. 87 m. 2 a. 1 § 2, where various opinions on this matter are set forth, and Augustine, *On the Quantity of the Soul* c. 31 n. 62 ff.
+     **En.** Aristotle, *On Youth and Old Age* c. 1 says: *And many even of non-insects, when divided, can live on account of the nutritive [soul]. Such a part, however, in act they have as one, but in power as many,* etc. The same is said in *On the Soul* I text 93 ff. (c. 5) and II text 20 (c. 2). — Cfr. Alex. Hal., S. p. II q. 87 m. 2 a. 1 § 2, where various opinions on this matter are set forth, and Augustine, *On the Quantity of the Soul* c. 31 n. 62 ff.
 
 [^28]: **La.** Vat. *quod,* refragantibus multis codd. et ed. 1.
 
-    **En.** The Vatican edition reads *quod,* with many codices and ed. 1 disagreeing.
+     **En.** The Vatican edition reads *quod,* with many codices and ed. 1 disagreeing.
 
 [^29]: **La.** *Solutio ad ultimum;* per propagationem brutum generat brutum, ita quod aliqua decisio corporea, non animae, fit; et inde virtus activa in humore seminario perficitur in animam prolis.
 
-    **En.** *Solution to the last [argument];* by propagation a brute generates a brute, so that some corporeal cutting-off, not of the soul, takes place; and from this the active power in the seminal moisture is perfected into the soul of the offspring.
+     **En.** *Solution to the last [argument];* by propagation a brute generates a brute, so that some corporeal cutting-off, not of the soul, takes place; and from this the active power in the seminal moisture is perfected into the soul of the offspring.
 
 ---
 

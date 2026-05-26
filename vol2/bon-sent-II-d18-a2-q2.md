@@ -214,69 +214,69 @@ It is against the Catholic faith, since it posits that the souls sinned before t
 
 [^10]: **La.** Dist. 17. a. 1. q. 3. — Paulo superius ante *divinae providentiae* in non paucis codd. omittitur *ordine.*
 
-      **En.** Dist. 17. a. 1. q. 3. — A little above, before *divinae providentiae,* in not a few codices *ordine* is omitted.
+     **En.** Dist. 17. a. 1. q. 3. — A little above, before *divinae providentiae,* in not a few codices *ordine* is omitted.
 
 [^11]: **La.** *In Timaeo,* (ed. Serrani, tom. III. pag. 41. seqq.) et in *Phaedro* (ibid. pag. 246. seqq.), ubi triplicem animae describit statum, scil. cum est in caelo nondum cum corpore coniuncta, tum in corpore est, denique cum e corpore discessit. Cfr. etiam supra pag. 22, nota 1. — Macrobius, I. *in Somnium Scip.* c. 14. et 21. — Paulo inferius codd. I (Q a secunda manu) aa *quia talis circulatio* pro *quia talis creatio.*
 
-      **En.** *In the Timaeus* (ed. Serranus, tom. III. p. 41 ff.) and in *Phaedrus* (ibid. p. 246 ff.), where he describes a threefold state of the soul, namely when it is in heaven not yet joined to a body, then when it is in a body, finally when it has departed from the body. Cf. also above page 22, note 1. — Macrobius, I *On Scipio's Dream* c. 14 and 21. — A little below, codices I (Q from a second hand) aa [read] *because such a circulation* for *because such a creation.*
+     **En.** *In the Timaeus* (ed. Serranus, tom. III. p. 41 ff.) and in *Phaedrus* (ibid. p. 246 ff.), where he describes a threefold state of the soul, namely when it is in heaven not yet joined to a body, then when it is in a body, finally when it has departed from the body. Cf. also above page 22, note 1. — Macrobius, I *On Scipio's Dream* c. 14 and 21. — A little below, codices I (Q from a second hand) aa [read] *because such a circulation* for *because such a creation.*
 
 [^12]: **La.** Cfr. August., XII. *de Trin.* c. 15. n. 24.
 
-      **En.** Cf. Augustine, XII *On the Trinity* c. 15. n. 24.
+     **En.** Cf. Augustine, XII *On the Trinity* c. 15. n. 24.
 
 [^13]: **La.** Aristot., II. *de Anima,* text. 26. (c. 2).
 
-      **En.** Aristotle, II *On the Soul,* text 26 (c. 2).
+     **En.** Aristotle, II *On the Soul,* text 26 (c. 2).
 
 [^14]: **La.** Cap. 14. n. 20. Melius allegaretur liber XIII. c. 7. n. 10. seq., sed secuti sumus codd. Cfr. X. *de Civ. Dei,* c. 30; XII. c. 20; XXII. c. 27.
 
-      **En.** Ch. 14. n. 20. It would be better to allege book XIII. c. 7. n. 10. seq., but we have followed the codices. Cf. X *On the City of God* c. 30; XII c. 20; XXII c. 27.
+     **En.** Ch. 14. n. 20. It would be better to allege book XIII. c. 7. n. 10. seq., but we have followed the codices. Cf. X *On the City of God* c. 30; XII c. 20; XXII c. 27.
 
 [^15]: **La.** Idem docent secundum August., *de Haeresibus,* c. 70., Priscillianistae et Origenes, sicut ibid. c. 42. ac XI. *de Civ. Dei,* c. 23. dicitur. — Paulo inferius edd. cum aliquibus codd. *et etiam sensibilem* pro *et contra sensibilem.*
 
-      **En.** The same is taught, according to Augustine, *On Heresies,* c. 70, by the Priscillianists and Origen, as is said ibid. c. 42 and in XI *On the City of God* c. 23. — A little below, the editions with some codices [read] *and also sensible* for *and against sensible.*
+     **En.** The same is taught, according to Augustine, *On Heresies,* c. 70, by the Priscillianists and Origen, as is said ibid. c. 42 and in XI *On the City of God* c. 23. — A little below, the editions with some codices [read] *and also sensible* for *and against sensible.*
 
 [^16]: **La.** Vers. 11.
 
-      **En.** Verse 11.
+     **En.** Verse 11.
 
 [^17]: **La.** Aristot., II. *de Anima,* text. 26. (c. 2.).
 
-      **En.** Aristotle, II *On the Soul,* text 26 (c. 2).
+     **En.** Aristotle, II *On the Soul,* text 26 (c. 2).
 
 [^18]: **La.** Epist. II. Cor. 5, 4. — Paulo inferius edd. 3, 4 cum Vat. *sed sicut* pro *non sicut.*
 
-      **En.** Epistle II Cor. 5, 4. — A little below, editions 3, 4 with the Vatican [edition read] *but as* for *not as.*
+     **En.** Epistle II Cor. 5, 4. — A little below, editions 3, 4 with the Vatican [edition read] *but as* for *not as.*
 
 [^19]: **La.** Libr. VII. c. 24. n. 35. seqq. — Paulo inferius non pauci codd. *originaliter culpam* pro *originalem culpam.*
 
-      **En.** Book VII c. 24. n. 35 ff. — A little below, not a few codices [read] *originally guilt* for *original guilt.*
+     **En.** Book VII c. 24. n. 35 ff. — A little below, not a few codices [read] *originally guilt* for *original guilt.*
 
 [^20]: **La.** Hanc rationem insinuat Augustinus, VI. *de Gen. ad lit.* c. 9. n. 15; X. c. 7. n. 12; c. 15. n. 27; c. 17. n. 30; I. *de Anima et eius origine,* c. 8. n. 8; c. 12. n. 15; II. c. 7. n. 11. seq.; III. c. 8. n. 11; Epist. 166. (alias 28.) ad Hieronymum c. 9. n. 27. et Epist. 190. (alias 157.) ad Optatum, c. 3. n. 22.
 
-      **En.** Augustine intimates this reason in VI *On Genesis to the Letter* c. 9. n. 15; X c. 7. n. 12; c. 15. n. 27; c. 17. n. 30; I *On the Soul and its Origin* c. 8. n. 8; c. 12. n. 15; II c. 7. n. 11 seq.; III c. 8. n. 11; Epistle 166 (alias 28) to Jerome c. 9. n. 27 and Epistle 190 (alias 157) to Optatus c. 3. n. 22.
+     **En.** Augustine intimates this reason in VI *On Genesis to the Letter* c. 9. n. 15; X c. 7. n. 12; c. 15. n. 27; c. 17. n. 30; I *On the Soul and its Origin* c. 8. n. 8; c. 12. n. 15; II c. 7. n. 11 seq.; III c. 8. n. 11; Epistle 166 (alias 28) to Jerome c. 9. n. 27 and Epistle 190 (alias 157) to Optatus c. 3. n. 22.
 
 [^21]: **La.** Aristot., II. *Prior.* c. 21. (c. 23.); I. *Poster.* c. 1; August., XII. *de Trin.* c. 15. n. 24; VII. *de Gen. ad lit.* c. 11. n. 16. — Aliquanto inferius plurimi codd. cum edd. 1, 2 substituunt *a corpore fuit infusa* pro *in corpus fuit infusa.*
 
-      **En.** Aristotle, II *Prior [Analytics]* c. 21 (c. 23); I *Posterior [Analytics]* c. 1; Augustine, XII *On the Trinity* c. 15. n. 24; VII *On Genesis to the Letter* c. 11. n. 16. — A little below, very many codices with editions 1, 2 substitute *was infused from the body* for *was infused into the body.*
+     **En.** Aristotle, II *Prior [Analytics]* c. 21 (c. 23); I *Posterior [Analytics]* c. 1; Augustine, XII *On the Trinity* c. 15. n. 24; VII *On Genesis to the Letter* c. 11. n. 16. — A little below, very many codices with editions 1, 2 substitute *was infused from the body* for *was infused into the body.*
 
 [^22]: **La.** Dist. 17. a. 1. q. 3.
 
-      **En.** Dist. 17. a. 1. q. 3.
+     **En.** Dist. 17. a. 1. q. 3.
 
 [^23]: **La.** Libr. II. *de Fide orthod.* c. 12. aperte sententiam catholicam docet: «*Porro corpus et anima simul creata sunt, non autem, uti deliravit Origenes, haec prius, illud posterius.*» Eandem doctrinam profitetur Greg. Naz., Orat. 31. n. 9. Hoc non obstante, apud Scholasticos invenitur argumentum in contrarium, quod fundabatur in quadam propositione, quam hi duo doctores formaverant de creatione Angelorum. B. Albert., S. p. II. tr. 12. q. 72. m. 4. a. 3, hoc arg. ita affert: *Adhuc in idem sentit Damascenus in secundo libro [de Fide orthod.] c. 3, ubi inducens Gregorium Nazianzenum, quem vocat theologum, dicit sic: «Ego autem consentio Gregorio theologo* [Orat. 12, n. 12.]; *dicebat* [ἔπρεπε i. e. *decebat*] *enim, primo intellectualem substantiam creari, et ita, hoc est consequenter, sensibilem*» [textus originalis addit: *atque ita demum hominem ex utraque constantem*]. *Cum ergo anima sit substantia intellectualis, et corpus substantia sensibilis, anima est ante corpus creata etc.* — Retinuimus cum Vat. *Gregorii Nazianzeni,* quamvis in multis codd. et edd. 1, 2 substituatur *Gregorii Nysseni,* tum quia lectio nostra in aliquibus codd. habetur, tum quia confirmatur ex verbis B. Alberti modo relatis. Immo idem in *Comment. super III. de Anima,* tr. 2. c. 10, censet, Gregorium Nyssenum sententiae Platonis de praeexistentia animae adhaesisse. Insuper in S. p. II. tr. 12. q. 72. m. 4. a. 3. quatuor rationes affert, quibus Gregorius utitur in suo libro *de Anima contra Eunomium,* qui animam definivit substantiam *incorpoream, in corpore conditam.* Cfr. tamen Gr. Nyss. liber *de Hominis opificio,* c. 28. seq. — Verba auctoris libri *de Spiritu et anima,* c. 13. sunt: *Nec aliud nec minus est irascibilitas vel concupiscibilitas, quam anima... Has potentias habet, antequam corpori misceatur.*
 
-      **En.** Book II *On the Orthodox Faith* c. 12 openly teaches the Catholic position: «*Moreover body and soul were created simultaneously, and not, as Origen raved, the one [body] before, the other [soul] after.*» Gregory Nazianzen professes the same doctrine, Oration 31. n. 9. Notwithstanding this, among the Scholastics an argument to the contrary is found, which was founded on a certain proposition that these two doctors had formed concerning the creation of the Angels. B. Albert, S. p. II. tr. 12. q. 72. m. 4. a. 3, brings forward this argument thus: *To the same effect Damascene in his second book [On the Orthodox Faith] c. 3, where, introducing Gregory Nazianzen whom he calls the theologian, he says thus: «But I myself agree with Gregory the theologian* [Oration 12, n. 12]; *for he was saying* [ἔπρεπε i. e. *it was fitting*] *that the intellectual substance was first created, and so, that is consequently, the sensible*» [the original text adds: *and so finally man composed of both*]. *Since therefore the soul is an intellectual substance, and the body a sensible substance, the soul is created before the body etc.* — We have retained, with the Vatican [edition], *Gregory Nazianzen,* although in many codices and in editions 1, 2 *Gregory of Nyssa* is substituted, both because our reading is found in some codices, and because it is confirmed by the words of B. Albert just reported. Indeed the same [Albert] in his *Commentary on III On the Soul,* tr. 2. c. 10, opines that Gregory of Nyssa adhered to Plato's view of the pre-existence of the soul. Moreover in S. p. II. tr. 12. q. 72. m. 4. a. 3 he brings forward four reasons that Gregory uses in his book *On the Soul against Eunomius,* who defined the soul as a substance *incorporeal, established in a body.* Yet cf. Gregory of Nyssa, book *On the Making of Man,* c. 28 seq. — The words of the author of the book *On the Spirit and the Soul,* c. 13, are: *Irascibility and concupiscibility are neither other nor less than the soul... It has these powers before it is mingled with the body.*
+     **En.** Book II *On the Orthodox Faith* c. 12 openly teaches the Catholic position: «*Moreover body and soul were created simultaneously, and not, as Origen raved, the one [body] before, the other [soul] after.*» Gregory Nazianzen professes the same doctrine, Oration 31. n. 9. Notwithstanding this, among the Scholastics an argument to the contrary is found, which was founded on a certain proposition that these two doctors had formed concerning the creation of the Angels. B. Albert, S. p. II. tr. 12. q. 72. m. 4. a. 3, brings forward this argument thus: *To the same effect Damascene in his second book [On the Orthodox Faith] c. 3, where, introducing Gregory Nazianzen whom he calls the theologian, he says thus: «But I myself agree with Gregory the theologian* [Oration 12, n. 12]; *for he was saying* [ἔπρεπε i. e. *it was fitting*] *that the intellectual substance was first created, and so, that is consequently, the sensible*» [the original text adds: *and so finally man composed of both*]. *Since therefore the soul is an intellectual substance, and the body a sensible substance, the soul is created before the body etc.* — We have retained, with the Vatican [edition], *Gregory Nazianzen,* although in many codices and in editions 1, 2 *Gregory of Nyssa* is substituted, both because our reading is found in some codices, and because it is confirmed by the words of B. Albert just reported. Indeed the same [Albert] in his *Commentary on III On the Soul,* tr. 2. c. 10, opines that Gregory of Nyssa adhered to Plato's view of the pre-existence of the soul. Moreover in S. p. II. tr. 12. q. 72. m. 4. a. 3 he brings forward four reasons that Gregory uses in his book *On the Soul against Eunomius,* who defined the soul as a substance *incorporeal, established in a body.* Yet cf. Gregory of Nyssa, book *On the Making of Man,* c. 28 seq. — The words of the author of the book *On the Spirit and the Soul,* c. 13, are: *Irascibility and concupiscibility are neither other nor less than the soul... It has these powers before it is mingled with the body.*
 
       **Note (this scholion footnote also incorporates the source-pointer marginal *Haec ex Gregorio sumta solutio iam supra d. 12. a. 1. q. 2. ad 3. habetur* ["This solution drawn from Gregory is already found above d. 12. a. 1. q. 2. ad 3."] and the codd.-variant gloss *Codd. Y aa propter,* and the cross-reference *Cfr. supra pag. 20, nota 7.*)
 
 [^24]: **La.** Vide Aristot., II. *Phys.* text. 89. (c. 9.); VII. *Metaph.* text. 23. (VI. c. 7.); III. *de Anima,* text. 49. (c. 10.).
 
-      **En.** See Aristotle, II *Physics* text 89 (c. 9); VII *Metaphysics* text 23 (VI c. 7); III *On the Soul* text 49 (c. 10).
+     **En.** See Aristotle, II *Physics* text 89 (c. 9); VII *Metaphysics* text 23 (VI c. 7); III *On the Soul* text 49 (c. 10).
 
 [^25]: **La.** Cfr. infra d. 19. a. 2. q. 1, et a. 3. q. 1, ubi hoc explicatur.
 
-      **En.** Cf. below d. 19, a. 2, q. 1, and a. 3, q. 1, where this is explained.
+     **En.** Cf. below d. 19, a. 2, q. 1, and a. 3, q. 1, where this is explained.
 
 ---
 

@@ -170,28 +170,28 @@ Likewise it is asked concerning what he says: *In God are all the things which h
 
 [^10]: **La.** Dist. 1. p. II. a. 2. q. 2. Cfr. etiam III. Sent. d. 23. a. 2. q. 2. in corp. et ad 5; Alex. Hal., S. p. I. q. 11. m. 5; B. Albert., hic a. 13; Petr. et Richard., hic circa lit.
 
-      **En.** Dist. 1, p. II, a. 2, q. 2. Cf. also III *Sentences* d. 23, a. 2, q. 2, in the body and ad 5; Alexander of Hales, *Summa* p. I, q. 11, m. 5; Bl. Albert here, a. 13; Peter [of Tarentaise] and Richard, here on the text.
+     **En.** Dist. 1, p. II, a. 2, q. 2. Cf. also III *Sentences* d. 23, a. 2, q. 2, in the body and ad 5; Alexander of Hales, *Summa* p. I, q. 11, m. 5; Bl. Albert here, a. 13; Peter [of Tarentaise] and Richard, here on the text.
 
 [^11]: **La.** Libr. *de Utilitate credendi*, c. 11. n. 25, ubi textus originalis *debemus* pro *debetur*. Cfr. etiam I. *Retract*. c. 14. n. 3.
 
-      **En.** Book *On the Utility of Believing*, c. 11, n. 25, where the original text has *debemus* (we ought) for *debetur* (is owed). Cf. also I *Retractations*, c. 14, n. 3.
+     **En.** Book *On the Utility of Believing*, c. 11, n. 25, where the original text has *debemus* (we ought) for *debetur* (is owed). Cf. also I *Retractations*, c. 14, n. 3.
 
 [^12]: **La.** Supple hic cum Vat. *obiicitur, quod*.
 
-      **En.** Supply here with the Vatican edition *it is objected, that*.
+     **En.** Supply here with the Vatican edition *it is objected, that*.
 
 [^13]: **La.** In Vat. desideratur *exemplum*. Mox pro *unum* multi codd. *tantum*; vitiose. — Solutio huius dubii magni momenti est.
 
-      **En.** In the Vatican edition *exemplum* is missing. Shortly afterward, for *unum*, many codices [read] *tantum*; faultily. — The solution of this doubt is of great moment.
+     **En.** In the Vatican edition *exemplum* is missing. Shortly afterward, for *unum*, many codices [read] *tantum*; faultily. — The solution of this doubt is of great moment.
 
 [^14]: **La.** Vers. 15.
 
-      **En.** Verse 15.
+     **En.** Verse 15.
 
 [^15]: **La.** Id est, infectio carnis generat infectionem animae. De generatione aequivoca supra d. 13. dub. 8. dicitur: «quae est secundum putrefactionem». Communis opinio illius aetatis admittebat istam generationem quoad aliqua viventia imperfecta. — Paulo ante pro *univocam* multi codd. *univocatam*. Verba, quae mox sequuntur, *et secundum rationem aequivocam*, in pluribus codd. et ed. 1 male omittuntur.
 
-      **En.** That is, the infection of the flesh generates the infection of the soul. Concerning equivocal generation it is said above d. 13, dub. 8: «which is according to putrefaction». The common opinion of that age admitted this kind of generation as regards certain imperfect living things. — A little before, for *univocam* many codices [read] *univocatam*. The words which immediately follow, *et secundum rationem aequivocam*, in several codices and ed. 1 are wrongly omitted.
+     **En.** That is, the infection of the flesh generates the infection of the soul. Concerning equivocal generation it is said above d. 13, dub. 8: «which is according to putrefaction». The common opinion of that age admitted this kind of generation as regards certain imperfect living things. — A little before, for *univocam* many codices [read] *univocatam*. The words which immediately follow, *et secundum rationem aequivocam*, in several codices and ed. 1 are wrongly omitted.
 
 [^16]: **La.** Cap. 4. — Verba proxime subiexa a Vat. sic in peius mutata sunt: *sordes corporales non coinquinant corpus spirituale, quia nec communicant in materia nec dependent*. Paulo inferius pro *quin nec* non pauci codd. minus congrue *qui nec*, et subinde pro *transmutabili* codd. L O *consimili*.
 
-      **En.** Chapter 4. — The words immediately appended have been changed for the worse by the Vatican edition thus: *corporeal filths do not defile a spiritual body, because they neither communicate in matter nor depend [on it]*. A little below, for *quin nec* not a few codices, less fittingly, [read] *qui nec*, and subsequently for *transmutabili* codd. L and O [read] *consimili*.
+     **En.** Chapter 4. — The words immediately appended have been changed for the worse by the Vatican edition thus: *corporeal filths do not defile a spiritual body, because they neither communicate in matter nor depend [on it]*. A little below, for *quin nec* not a few codices, less fittingly, [read] *qui nec*, and subsequently for *transmutabili* codd. L and O [read] *consimili*.

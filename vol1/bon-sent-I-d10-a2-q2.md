@@ -9,6 +9,7 @@ type: quaestio
 title_la: "Utrum Spiritus sanctus sit nexus sive unitas Patris et Filii"
 title_en: "Whether the Holy Spirit is the bond or unity of the Father and the Son"
 printed_pages: [202, 203]
+pdf_pages: [304, 305]
 line_start: 39420
 line_end: 39629
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 202–203"

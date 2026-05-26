@@ -229,76 +229,76 @@ This divine cooperation or illumination is much urged by both St. Augustine and 
 
 [^10]: **La.** Substituimus ope mss. et edd. 1, 2, 3 *sit* pro *fiat*.
 
-      **En.** We have substituted, with the aid of the mss. and editions 1, 2, 3, *sit* for *fiat*.
+     **En.** We have substituted, with the aid of the mss. and editions 1, 2, 3, *sit* for *fiat*.
 
 [^11]: **La.** Forte respiciuntur illa quae X. de Trin. c. 8-11. habentur, ubi ostenditur, animam eo ipso, quod sibi sit praesens, certiorem cognitionem habere de se quam de rebus exterioribus, quas per imagines sive similitudines percipit; vel etiam haec VIII. de Trin. c. 8. n. 12: *Ecce iam potest notiorem Deum habere, quam fratrem; plane notiorem, quia praesentiorem, notiorem, quia interiorem, notiorem, quia certiorem.* Quae verba S. Bonaventura infra d. 17. p. I. dub. 2. tali explicat modo, qui sensum huius argumenti illustrat. Cfr. etiam libr. de Magistro, c. 12. n. 39. 40. et de Videndo Deo, c. 16. n. 38, ubi et duplex cognoscendi modus, scilicet per praesentiam et per similitudinem proponitur. — Plures antiquiorum mss. ut CIMSTVY etc. post *cognoscuntur*, licet non falso, tamen propter argumenti formam minus bene *per essentiam* loco *per praesentiam*; melius codd. LO *per essentiam vel praesentiam*. Paulo post cod. Y *illa* pro *alia*.
 
-      **En.** Perhaps reference is made to those things in *De Trinitate* X, c. 8-11, where it is shown that the soul, by the very fact that it is present to itself, has more certain cognition of itself than of exterior things, which it perceives through images or likenesses; or also these things in *De Trinitate* VIII, c. 8 n. 12: "Behold, it can now have God as better known than its brother; plainly better known, because more present, better known, because more interior, better known, because more certain." Which words St. Bonaventure below at d. 17 p. I dub. 2 explains in such a way as illustrates the sense of this argument. Cf. also the book *de Magistro*, c. 12 nn. 39, 40, and *de Videndo Deo*, c. 16 n. 38, where the twofold mode of knowing, namely through presence and through likeness, is also proposed. — Several of the more ancient mss., as CIMSTVY etc., after *cognoscuntur*, though not falsely, yet less well for the form of the argument, [read] *per essentiam* in place of *per praesentiam*; better are codd. LO *per essentiam vel praesentiam*. A little after, codex Y [reads] *illa* for *alia*.
+     **En.** Perhaps reference is made to those things in *De Trinitate* X, c. 8-11, where it is shown that the soul, by the very fact that it is present to itself, has more certain cognition of itself than of exterior things, which it perceives through images or likenesses; or also these things in *De Trinitate* VIII, c. 8 n. 12: "Behold, it can now have God as better known than its brother; plainly better known, because more present, better known, because more interior, better known, because more certain." Which words St. Bonaventure below at d. 17 p. I dub. 2 explains in such a way as illustrates the sense of this argument. Cf. also the book *de Magistro*, c. 12 nn. 39, 40, and *de Videndo Deo*, c. 16 n. 38, where the twofold mode of knowing, namely through presence and through likeness, is also proposed. — Several of the more ancient mss., as CIMSTVY etc., after *cognoscuntur*, though not falsely, yet less well for the form of the argument, [read] *per essentiam* in place of *per praesentiam*; better are codd. LO *per essentiam vel praesentiam*. A little after, codex Y [reads] *illa* for *alia*.
 
 [^12]: **La.** Ed. 1 satis bene addit particulam *et*.
 
-      **En.** Ed. 1 fittingly enough adds the particle *et*.
+     **En.** Ed. 1 fittingly enough adds the particle *et*.
 
 [^13]: **La.** Cfr. Boeth., III. de Consol. Prosa 11. — Cod. C hanc propositionem ita exhibet: *unumquodque est efficacius, quando potest in id*. In fine argumenti cod. X addit *ipsi animae*; melius placeret *intellectui nostro*.
 
-      **En.** Cf. Boethius, *De Consolatione* III, Prose 11. — Codex C presents this proposition thus: "each thing is more effective when it can [act] in that." At the end of the argument codex X adds *ipsi animae*; *intellectui nostro* would please better.
+     **En.** Cf. Boethius, *De Consolatione* III, Prose 11. — Codex C presents this proposition thus: "each thing is more effective when it can [act] in that." At the end of the argument codex X adds *ipsi animae*; *intellectui nostro* would please better.
 
 [^14]: **La.** Hoc est, illuminando perficiens. — Immediate post Vat., reluctantibus mss. et sex primis edd., omittit *et*, sed minus bene; et paulo post substituit *deiformationem* pro *deiformitatem*.
 
-      **En.** That is, perfecting by illuminating. — Immediately after, the Vat., against the mss. and the first six editions, omits *et*, but less well; and a little after it substitutes *deiformationem* for *deiformitatem*.
+     **En.** That is, perfecting by illuminating. — Immediately after, the Vat., against the mss. and the first six editions, omits *et*, but less well; and a little after it substitutes *deiformationem* for *deiformitatem*.
 
 [^15]: **La.** Supple cum codd. NV *quae probant*. Paulo infra Vat. praeter fidem mss. et ed. 1 *aliud* loco *aliquid*, sed minus apte.
 
-      **En.** Supply with codices NV *quae probant* ["which prove (it)"]. A little further on, the Vat., contrary to the witness of the mss. and ed. 1, [reads] *aliud* in place of *aliquid*, but less aptly.
+     **En.** Supply with codices NV *quae probant* ["which prove (it)"]. A little further on, the Vat., contrary to the witness of the mss. and ed. 1, [reads] *aliud* in place of *aliquid*, but less aptly.
 
 [^16]: **La.** In duabus seqq. qq. et II. Sent. d. 23. a. 2. q. 3.
 
-      **En.** In the two following questions, and in II Sent. d. 23 a. 2 q. 3.
+     **En.** In the two following questions, and in II Sent. d. 23 a. 2 q. 3.
 
 [^17]: **La.** August., *de Videndo Deo*, c. 9. n. 21. ait: *Aliud est enim videre, aliud est totum videndo comprehendere. Quandoquidem id videtur, quod praesens utcumque sentitur: totum autem comprehenditur videndo, quod ita videtur, ut nihil eius lateat videntem, aut cuius fines circumspici possunt.*
 
-      **En.** Augustine, *On Seeing God*, c. 9 n. 21, says: "For it is one thing to see, another to comprehend the whole by seeing. For that is seen which is in some way sensed as present: but that is comprehended by seeing which is seen in such a way that nothing of it is hidden from the seer, or whose limits can be looked round about."
+     **En.** Augustine, *On Seeing God*, c. 9 n. 21, says: "For it is one thing to see, another to comprehend the whole by seeing. For that is seen which is in some way sensed as present: but that is comprehended by seeing which is seen in such a way that nothing of it is hidden from the seer, or whose limits can be looked round about."
 
 [^18]: **La.** Aristot., III. de Anima, text. 37. (c. 8.).
 
-      **En.** Aristotle, *De Anima* III, text 37 (c. 8.).
+     **En.** Aristotle, *De Anima* III, text 37 (c. 8.).
 
 [^19]: **La.** Ex mss. et ed. 1 substituimus *currit* pro *certat*.
 
-      **En.** From the mss. and ed. 1 we have substituted *currit* for *certat*.
+     **En.** From the mss. and ed. 1 we have substituted *currit* for *certat*.
 
 [^20]: **La.** Praeter fidem mss. et ed. 1 hic addit Vat. *duplex*.
 
-      **En.** Contrary to the witness of the mss. and ed. 1, the Vat. here adds *duplex*.
+     **En.** Contrary to the witness of the mss. and ed. 1, the Vat. here adds *duplex*.
 
 [^21]: **La.** Hoc est, propter alligationem ad organum seu propter materialitatem est ad unum obiectorum genus percipiendum limitata. De hac sensus et intellectus differentia vide Aristot., III. de Anima, text. 3-6. (c. 4.).
 
-      **En.** That is, on account of its binding to an organ or on account of its materiality, it is limited to the perceiving of one genus of objects. On this difference between sense and intellect, see Aristotle, *De Anima* III, text 3-6 (c. 4.).
+     **En.** That is, on account of its binding to an organ or on account of its materiality, it is limited to the perceiving of one genus of objects. On this difference between sense and intellect, see Aristotle, *De Anima* III, text 3-6 (c. 4.).
 
 [^22]: **La.** Vat. contra codd. et ed. 1 *virtuositatem*.
 
-      **En.** The Vat., against the codices and ed. 1, [reads] *virtuositatem*.
+     **En.** The Vat., against the codices and ed. 1, [reads] *virtuositatem*.
 
 [^23]: **La.** Cod. R hic addit *eius*.
 
-      **En.** Codex R here adds *eius*.
+     **En.** Codex R here adds *eius*.
 
 [^24]: **La.** Ed. 1 *uno*. Mox cod. 0 post *non sit* addit *et quod hoc sit*.
 
-      **En.** Ed. 1 [reads] *uno*. Then codex 0 after *non sit* adds *et quod hoc sit*.
+     **En.** Ed. 1 [reads] *uno*. Then codex 0 after *non sit* adds *et quod hoc sit*.
 
 [^25]: **La.** Cap. 31. n. 58: *Sicut in istis temporalibus legibus, quamquam de his homines iudicent, cum eas instituunt, tamen cum fuerint institutae atque firmatae, non licebit iudici de ipsis iudicare, sed secundum ipsas.* — Loco citato inveniuntur etiam verba, quae immediate post S. Doctor ex Augustino affert: *Ut enim nos et omnes animae rationales secundum veritatem de inferioribus recte iudicamus, sic de nobis, quando ei cohaeremus, sola ipsa veritas iudicat... ita etiam quantum potest lex ipsa, etiam ipse* (homo spiritualis et Deo coniunctus) *fit, secundum quam iudicat omnia, et de qua iudicare nullus potest.* — Plures codd. ut HWY, omissa particula *de*, legunt *Et hoc modo*.
 
-      **En.** [*De Vera Religione*,] c. 31 n. 58: "Just as in these temporal laws, although men judge concerning these when they establish them, nevertheless once they have been established and confirmed, it will not be permitted to the judge to judge concerning them, but according to them." — In the place cited there are also found the words which immediately afterwards the holy Doctor adduces from Augustine: "For just as we and all rational souls rightly judge according to truth concerning inferior things, so concerning us, when we cleave to it, the truth itself alone judges... so also as far as the law itself can, he himself also (the spiritual man joined to God) becomes [such], according to which he judges all things, and concerning which no one can judge." — Several codices, as HWY, with the particle *de* omitted, read *Et hoc modo*.
+     **En.** [*De Vera Religione*,] c. 31 n. 58: "Just as in these temporal laws, although men judge concerning these when they establish them, nevertheless once they have been established and confirmed, it will not be permitted to the judge to judge concerning them, but according to them." — In the place cited there are also found the words which immediately afterwards the holy Doctor adduces from Augustine: "For just as we and all rational souls rightly judge according to truth concerning inferior things, so concerning us, when we cleave to it, the truth itself alone judges... so also as far as the law itself can, he himself also (the spiritual man joined to God) becomes [such], according to which he judges all things, and concerning which no one can judge." — Several codices, as HWY, with the particle *de* omitted, read *Et hoc modo*.
 
 [^26]: **La.** Posuimus in textu *hoc secundo modo* et paulo post *de primo modo non est verum*, licet alii codd. ut DGHY etc. pro *hoc secundo modo* habeant *de hoc primo modo*, alii ut FT bb *de primo modo*, alii ut A cum Vat. *de hoc modo* et paulo post omnes codd. legant *de secundo vero non est verum*. Ex contextu siquidem constat, lectiones codicum esse erroneas; quod confirmatur etiam ex Augustino loc. cit. circa finem, ubi iisdem fere verbis eadem proponit ac S. Bonaventura. Scriptores in errorem videntur esse inducti ex eo, quod isti duo numeri ponendi sint ordine inverso. — Codd. aa bb satis bene *posse* habet loco *potest*. Circa finem huius responsionis post *dirigi* supplevimus ex mss. et sex primis edd. *ut*.
 
-      **En.** We have put in the text *hoc secundo modo* and a little after *de primo modo non est verum*, although other codices, as DGHY etc., for *hoc secundo modo* have *de hoc primo modo*, others as FT bb *de primo modo*, others as A with the Vat. *de hoc modo*; and a little after all codices read *de secundo vero non est verum*. For it is established from the context that the readings of the codices are erroneous; which is also confirmed from Augustine in the place cited near the end, where in nearly the same words he proposes the same things as St. Bonaventure. Writers seem to have been led into error from the fact that these two numbers ought to be placed in inverted order. — Codices aa bb fittingly enough have *posse* in place of *potest*. Near the end of this response, after *dirigi*, we have supplied from the mss. and the first six editions *ut*.
+     **En.** We have put in the text *hoc secundo modo* and a little after *de primo modo non est verum*, although other codices, as DGHY etc., for *hoc secundo modo* have *de hoc primo modo*, others as FT bb *de primo modo*, others as A with the Vat. *de hoc modo*; and a little after all codices read *de secundo vero non est verum*. For it is established from the context that the readings of the codices are erroneous; which is also confirmed from Augustine in the place cited near the end, where in nearly the same words he proposes the same things as St. Bonaventure. Writers seem to have been led into error from the fact that these two numbers ought to be placed in inverted order. — Codices aa bb fittingly enough have *posse* in place of *potest*. Near the end of this response, after *dirigi*, we have supplied from the mss. and the first six editions *ut*.
 
 [^27]: **La.** Ex mss. et edd. 1, 2, 3, 6 adiecimus *tamen*.
 
-      **En.** From the mss. and editions 1, 2, 3, 6 we have added *tamen*.
+     **En.** From the mss. and editions 1, 2, 3, 6 we have added *tamen*.
 
 [^28]: **La.** Num. 16; in quo textu plures codd. ut AGITYZ aa bb edd. 2, 3, 4, 5, 6 *discutimus*, codd. FKX *discernimus* loco *discimus*, ac mox plurimi codd. ut ACFGHKLORSTU VWY aa ee ff *similitudine* pro *similitudo Dei*.
 
-      **En.** [*De Trinitate* IX, c. 11,] n. 16; in which text several codices, as AGITYZ aa bb, editions 2, 3, 4, 5, 6, [read] *discutimus*, codices FKX *discernimus* in place of *discimus*; and then very many codices, as ACFGHKLORSTU VWY aa ee ff, [read] *similitudine* in place of *similitudo Dei*.
+     **En.** [*De Trinitate* IX, c. 11,] n. 16; in which text several codices, as AGITYZ aa bb, editions 2, 3, 4, 5, 6, [read] *discutimus*, codices FKX *discernimus* in place of *discimus*; and then very many codices, as ACFGHKLORSTU VWY aa ee ff, [read] *similitudine* in place of *similitudo Dei*.

@@ -178,16 +178,16 @@ part of the animal, as has been shown above[^8]: suppose then that there came to
      **En.** Supply with the Vatican [edition] *est*.
 
 [^10]: **La.** Cod. Z *intelligatur*, cod. W addit *esse*. — Paulo post pro *quasi* cod. T cum aliquibus aliis codd. *ut*, et in fine argumenti pro *suum* cod. K *minuit*.
-      **En.** Codex Z [reads] *intelligatur*; codex W adds *esse*. — A little later, in place of *quasi* codex T with some other codices reads *ut*, and at the end of the argument in place of *suum* codex K reads *minuit*.
+     **En.** Codex Z [reads] *intelligatur*; codex W adds *esse*. — A little later, in place of *quasi* codex T with some other codices reads *ut*, and at the end of the argument in place of *suum* codex K reads *minuit*.
 
 [^11]: **La.** Cod. T subiicit *est*.
-      **En.** Codex T subjoins *est*.
+     **En.** Codex T subjoins *est*.
 
 [^12]: **La.** Verba citata in libro *de Moribus Ecclesiae* non habentur, sed in Gennadii libro *de Ecclesiasticis Dogmatibus* (qui olim nomini Augustini addicebatur) c. 11 sic legitur: *Nihil incorporeum et invisibile natura credendum, nisi solum Deum Patrem et Filium et Spiritum sanctum; qui ex eo incorporeus creditur, quia ubique est et omnia implet et constringit*.
-      **En.** The words cited are not found in the book *On the Morals of the Church*, but in Gennadius's book *On Ecclesiastical Doctrines* (which was formerly attributed to the name of Augustine) c. 11 it reads thus: *Nothing is to be believed incorporeal and invisible by nature, except only God the Father and the Son and the Holy Spirit; who is believed to be incorporeal because he is everywhere and fills and contains all things*.
+     **En.** The words cited are not found in the book *On the Morals of the Church*, but in Gennadius's book *On Ecclesiastical Doctrines* (which was formerly attributed to the name of Augustine) c. 11 it reads thus: *Nothing is to be believed incorporeal and invisible by nature, except only God the Father and the Son and the Holy Spirit; who is believed to be incorporeal because he is everywhere and fills and contains all things*.
 
 [^13]: **La.** Vat. cum cod. cc *animae*.
-      **En.** The Vatican [edition] with codex cc reads *animae*.
+     **En.** The Vatican [edition] with codex cc reads *animae*.
 
 [^14]: **La.** Cfr. supra pag. 87, nota 4. — Sive *unio*. (i. e. *interemptio* sive *unio* per quam alterum exceditur ab altero, ut in genere et specie.)
-      **En.** Cf. above p. 87, note 4. — That is, *union*. (I. e., *interemption* or *union* by which one is exceeded by the other, as in genus and species.)
+     **En.** Cf. above p. 87, note 4. — That is, *union*. (I. e., *interemption* or *union* by which one is exceeded by the other, as in genus and species.)

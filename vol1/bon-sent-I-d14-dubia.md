@@ -7,6 +7,8 @@ type: dubia
 title_la: "Dubia circa litteram Magistri (Distinctio XIV)"
 title_en: "Doubts concerning the Letter of the Master (Distinction XIV)"
 printed_pages: [233, 234, 235]
+pdf_pages: [335, 336, 337]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 233–235"
 line_start: 47036
 line_end: 47319
 word_count_latin: 1626

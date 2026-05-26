@@ -236,88 +236,88 @@ In another way grace is called a help with respect to perfected being, and becau
      **En.** Gilbert of Poitiers, c. 1: *Form is something accruing to a composition, consisting in a simple and invariable essence.* — After this text, codex O adds *and thus neither form nor matter is varied*.
 
 [^10]: **La.** Ex antiquis mss. et ed. I pro *haec* substituimus *hoc*, quod sensus expostulat. Paulo ante plurimi codd. cum ed. 1 omittunt *ibi*, qui et in fine argumenti ponunt *mutatio* loco *variatio*.
-      **En.** From the ancient manuscripts and ed. I we have substituted *hoc* for *haec*, as the sense demands. A little before, very many codices with ed. 1 omit *ibi*; and at the end of the argument they place *mutatio* for *variatio*.
+     **En.** From the ancient manuscripts and ed. I we have substituted *hoc* for *haec*, as the sense demands. A little before, very many codices with ed. 1 omit *ibi*; and at the end of the argument they place *mutatio* for *variatio*.
 
 [^11]: **La.** Libr. VIII. c. 20.
-      **En.** Book VIII, c. 20.
+     **En.** Book VIII, c. 20.
 
 [^12]: **La.** Aristot., I. Poster. c. 24. (c. 31.). — Mox nomine *caeli empyrei* intellige ultimam sphaeram, quae iuxta opinionem tunc communiter receptam est immobilis et uniformis, quia eius intrinseca principia, scil. materia et forma, sunt «ita bona coniunctione coniuncta, quod nulla cadit in illud contrarietas», ut ait S. Doctor infra ad 4. obiectionem. Cfr. supra d. 1. a. 3. q. 2. opp. 1., et Aristot., I. de Caelo text. 100. (c. 9.).
-      **En.** Aristotle, *Posterior [Analytics]* I, c. 24 (c. 31). — By the name *empyrean heaven* understand the outermost sphere, which according to the opinion then commonly received is immobile and uniform, because its intrinsic principles, namely matter and form, are «so joined together by a good conjunction that no contrariety falls upon it», as the holy Doctor says below in reply to the 4th objection. Cf. above d. 1, a. 3, q. 2, opp. 1; and Aristotle, *On the Heavens* I, text 100 (c. 9).
+     **En.** Aristotle, *Posterior [Analytics]* I, c. 24 (c. 31). — By the name *empyrean heaven* understand the outermost sphere, which according to the opinion then commonly received is immobile and uniform, because its intrinsic principles, namely matter and form, are «so joined together by a good conjunction that no contrariety falls upon it», as the holy Doctor says below in reply to the 4th objection. Cf. above d. 1, a. 3, q. 2, opp. 1; and Aristotle, *On the Heavens* I, text 100 (c. 9).
 
 [^13]: **La.** Melius poneretur: *in libro de Longitudine et brevitate vitae*. Aristoteles siquidem duo scripsit opuscula, quorum uni titulus: *de Iuventute et senectute, de vita et morte*; alteri autem: *de Longitudine et brevitate vitae*. In priore opusculo perpauca occurrunt de re, quam S. Doctor hic proponit; in posteriore tamen, c. 2. et seq., fusius de hac re tractatur, et inter cetera inveniuntur haec: *Quare, cui non est contrarium et ubi non est, impossibile utique erit corrumpi*.
-      **En.** Better would be: *in the book On Length and Shortness of Life*. For Aristotle wrote two opuscula, of which one has the title: *On Youth and Old Age, On Life and Death*; the other: *On Length and Shortness of Life*. In the former opusculum very little occurs concerning the matter which the holy Doctor proposes here; in the latter, however, c. 2 and following, the matter is more fully treated, and among other things these words are found: *Wherefore, that to which there is no contrary and where there is none, will surely be incapable of being corrupted*.
+     **En.** Better would be: *in the book On Length and Shortness of Life*. For Aristotle wrote two opuscula, of which one has the title: *On Youth and Old Age, On Life and Death*; the other: *On Length and Shortness of Life*. In the former opusculum very little occurs concerning the matter which the holy Doctor proposes here; in the latter, however, c. 2 and following, the matter is more fully treated, and among other things these words are found: *Wherefore, that to which there is no contrary and where there is none, will surely be incapable of being corrupted*.
 
 [^14]: **La.** Cfr. Aristot., I. Phys. text. 42. et 82. (c. 6. et 9. in fine), et I. de Generat. et corrupt. text. 11. seqq. (c. 3.), ubi et propos. minor huius argum. insinuatur.
-      **En.** Cf. Aristotle, *Physics* I, text 42 and 82 (c. 6 and c. 9 at the end), and *On Generation and Corruption* I, text 11 ff. (c. 3), where also the minor proposition of this argument is suggested.
+     **En.** Cf. Aristotle, *Physics* I, text 42 and 82 (c. 6 and c. 9 at the end), and *On Generation and Corruption* I, text 11 ff. (c. 3), where also the minor proposition of this argument is suggested.
 
 [^15]: **La.** Vide Aristot., I. de Caelo, text. 110. seqq. (c. 11. et 12.).
-      **En.** See Aristotle, *On the Heavens* I, text 110 ff. (c. 11 and 12). [The footer attaches this Aristotle reference at the *perpetuum incorruptibile* anchor; the Augustine *non esset anima imago* quotation is glossed by the next footer entry.]
+     **En.** See Aristotle, *On the Heavens* I, text 110 ff. (c. 11 and 12). [The footer attaches this Aristotle reference at the *perpetuum incorruptibile* anchor; the Augustine *non esset anima imago* quotation is glossed by the next footer entry.]
 
 [^16]: **La.** Libr. XIV. de Trin. c. 2-4. n. 4-6., ex quo loco propositio ista colligi potest, sed quoad litteram habetur in libro *de Spiritu et anima* c. 18, et in M. Aurelii Cassiodori libro *de Anima*, c. 2: *Nam quemadmodum poterat esse imago aut similitudo Dei, si animae hominum mortis termino clauderentur?* — Paulo infra post *ergo anima* Vat. cum cod. cc, aliis tamen codd. et ed. 1 obnitentibus, *naturalis* pro *naturaliter*.
-      **En.** Book XIV *On the Trinity*, c. 2–4, nn. 4–6, from which place that proposition can be gathered, but as to the letter it is found in the book *On the Spirit and the Soul*, c. 18, and in M. Aurelius Cassiodorus' book *On the Soul*, c. 2: *For how could the souls of men be the image or likeness of God, if they were enclosed by the term of death?* — A little below, after *ergo anima*, the Vatican edition with codex cc, against the other codices and ed. 1, reads *naturalis* for *naturaliter*. [?Marker placement: this gloss-block covers both the Augustine quotation and the subsequent *naturaliter* phrase; anchored at the first marker in the body.]
+     **En.** Book XIV *On the Trinity*, c. 2–4, nn. 4–6, from which place that proposition can be gathered, but as to the letter it is found in the book *On the Spirit and the Soul*, c. 18, and in M. Aurelius Cassiodorus' book *On the Soul*, c. 2: *For how could the souls of men be the image or likeness of God, if they were enclosed by the term of death?* — A little below, after *ergo anima*, the Vatican edition with codex cc, against the other codices and ed. 1, reads *naturalis* for *naturaliter*. [?Marker placement: this gloss-block covers both the Augustine quotation and the subsequent *naturaliter* phrase; anchored at the first marker in the body.]
 
 [^17]: **La.** Cfr. Aristot., I. Phys. text. 81. (c. 9.), et Boeth., III. de Consol. Prosa 11. — Mox ope plurium mss. ut H I L O S U etc. substituimus *a non esse* (i. e. *a nihilo*) pro *ante esse*, quod Vat. habet quodque non ita correspondet modo loquendi Scholasticorum; multi codd. propter compendiosam scripturam sunt dubiae lectionis.
-      **En.** Cf. Aristotle, *Physics* I, text 81 (c. 9), and Boethius, *Consolation* III, Prose 11. — Shortly afterward, by aid of many manuscripts such as H I L O S U etc. we have substituted *a non esse* (i.e. *from nothing*) for *ante esse* ["before being"], which the Vatican edition has and which does not correspond so well to the manner of speaking of the Scholastics; many codices, because of compendious writing, are of doubtful reading.
+     **En.** Cf. Aristotle, *Physics* I, text 81 (c. 9), and Boethius, *Consolation* III, Prose 11. — Shortly afterward, by aid of many manuscripts such as H I L O S U etc. we have substituted *a non esse* (i.e. *from nothing*) for *ante esse* ["before being"], which the Vatican edition has and which does not correspond so well to the manner of speaking of the Scholastics; many codices, because of compendious writing, are of doubtful reading.
 
 [^18]: **La.** Hinc Aristot., I. de Generat. et corrupt. text. 17. (c. 3.): *Huius corruptio alterius est generatio*.
-      **En.** Hence Aristotle, *On Generation and Corruption* I, text 17 (c. 3): *The corruption of this is the generation of another*.
+     **En.** Hence Aristotle, *On Generation and Corruption* I, text 17 (c. 3): *The corruption of this is the generation of another*.
 
 [^19]: **La.** Vat. cum multis codd. hic omittit *solum* et transponit, paulo supra legendo *ergo nullum corruptibile vertibile solum*; quae lectio falsa est, nisi fiat transpositio terminorum v. g. *ergo nullum solum corruptibile, vertibile*; vel *ergo nullum vertibile corruptibile solum*. Codd. E H Z ii omittunt *solum* utrobique; codd. P Q ee vero ponunt eo loco, quo nos posuimus. — *Gratiam* accipias hic sensu largo, quo Ioan. Damasc., II. de Fide orthod. c. 3. de Angelo ait: *Immortalis est non quidem natura, sed Dei munere et gratia*.
-      **En.** The Vatican edition with many codices here omits *solum* and transposes, reading shortly above *ergo nullum corruptibile vertibile solum*; which reading is false, unless a transposition of terms is made, e.g. *therefore no corruptible alone is turnable*, or *therefore no turnable [thing] is corruptible alone*. Codices E H Z ii omit *solum* in both places; but codices P Q ee place it where we have placed it. — Take *grace* here in the broad sense in which John Damascene, *On the Orthodox Faith* II, c. 3, says of an angel: *He is immortal not indeed by nature, but by God's gift and grace*.
+     **En.** The Vatican edition with many codices here omits *solum* and transposes, reading shortly above *ergo nullum corruptibile vertibile solum*; which reading is false, unless a transposition of terms is made, e.g. *therefore no corruptible alone is turnable*, or *therefore no turnable [thing] is corruptible alone*. Codices E H Z ii omit *solum* in both places; but codices P Q ee place it where we have placed it. — Take *grace* here in the broad sense in which John Damascene, *On the Orthodox Faith* II, c. 3, says of an angel: *He is immortal not indeed by nature, but by God's gift and grace*.
 
 [^20]: **La.** Vide Aristot., I. Periherm. c. 1. — In fine argumenti post *hoc* supplevimus ex vetustioribus mss. et ed. I *est*.
-      **En.** See Aristotle, *Periermeneias* I, c. 1. — At the end of the argument, after *hoc*, we have supplied *est* from the older manuscripts and ed. I.
+     **En.** See Aristotle, *Periermeneias* I, c. 1. — At the end of the argument, after *hoc*, we have supplied *est* from the older manuscripts and ed. I.
 
 [^21]: **La.** Cod. T cum ed. 1 *ergo* pro *est*.
-      **En.** Codex T with ed. 1 reads *ergo* for *est*.
+     **En.** Codex T with ed. 1 reads *ergo* for *est*.
 
 [^22]: **La.** Cod. A *cooperante*.
-      **En.** Codex A reads *cooperante* ["co-working"].
+     **En.** Codex A reads *cooperante* ["co-working"].
 
 [^23]: **La.** Multi codd. ut ABCDEFGLRSTU etc. *actus* loco *accidens*, minus bene, ut patet ex paulo infra positis de invariabilitate. — De primis duabus mutationis speciebus vide Aristot., V. Phys. text. 7. seqq. (c. 1.) ac I. de Generat. et corrupt. text. 23. et 24. (c. 4.).
-      **En.** Many codices such as A B C D E F G L R S T U etc. [read] *actus* in place of *accidens*, less well, as is plain from what is set down a little below concerning invariability. — On the first two species of change see Aristotle, *Physics* V, text 7 ff. (c. 1) and *On Generation and Corruption* I, text 23 and 24 (c. 4).
+     **En.** Many codices such as A B C D E F G L R S T U etc. [read] *actus* in place of *accidens*, less well, as is plain from what is set down a little below concerning invariability. — On the first two species of change see Aristotle, *Physics* V, text 7 ff. (c. 1) and *On Generation and Corruption* I, text 23 and 24 (c. 4).
 
 [^24]: **La.** Supple: *invariabilitas*. Vat. *Sic accepta immutabilitas* loco *et haec*, sed contra plurimos codd., quorum tamen aliqui ut A F T etc. cum ed. I pro *haec* ponunt minus bene *hoc*.
-      **En.** Supply: *invariability*. The Vatican edition reads *Sic accepta immutabilitas* in place of *et haec*, but against many codices, of which however some such as A F T etc., with ed. I, read *hoc* less well in place of *haec*.
+     **En.** Supply: *invariability*. The Vatican edition reads *Sic accepta immutabilitas* in place of *et haec*, but against many codices, of which however some such as A F T etc., with ed. I, read *hoc* less well in place of *haec*.
 
 [^25]: **La.** In cod. T ab altera manu hic additur *invertibilitas*.
-      **En.** In codex T, by another hand, *invertibilitas* is here added.
+     **En.** In codex T, by another hand, *invertibilitas* is here added.
 
 [^26]: **La.** Vat. contra plurimos codd. ut A F G H I S T Z etc. cum ed. I addit hic *vel varietas*, et mox post *nulla* verbum *est*.
-      **En.** The Vatican edition, against many codices such as A F G H I S T Z etc. with ed. I, here adds *vel varietas* ["or variety"], and shortly after *nulla* [adds] the verb *est*.
+     **En.** The Vatican edition, against many codices such as A F G H I S T Z etc. with ed. I, here adds *vel varietas* ["or variety"], and shortly after *nulla* [adds] the verb *est*.
 
 [^27]: **La.** Vat. *naturam* loco *actum*, sed falso et contra mss. et ed. 1 *enim*.
-      **En.** The Vatican edition reads *naturam* in place of *actum*, but falsely and against the manuscripts and ed. 1 *enim*.
+     **En.** The Vatican edition reads *naturam* in place of *actum*, but falsely and against the manuscripts and ed. 1 *enim*.
 
 [^28]: **La.** Substituimus *motis* pro *moventibus*, rationem vide supra d. 8. a. 2. q. 1. argum. 3. ad opp.
-      **En.** We have substituted *motis* for *moventibus*; for the reason see above d. 8, a. 2, q. 1, argument 3 to the contrary.
+     **En.** We have substituted *motis* for *moventibus*; for the reason see above d. 8, a. 2, q. 1, argument 3 to the contrary.
 
 [^29]: **La.** Libr. de Fide Trin. c. 3: *Quoniam omne compositum necesse est aut actu aut intellectu posse disiungi.* — Mox plerique codd. ut A G H S T X cum ed. 1 *adductae* loco *inductae*.
-      **En.** Book *On the Faith of the Trinity*, c. 3: *Since every composite must necessarily be able to be disjoined either in act or in understanding.* — Shortly afterward, most codices such as A G H S T X with ed. 1 read *adductae* in place of *inductae*.
+     **En.** Book *On the Faith of the Trinity*, c. 3: *Since every composite must necessarily be able to be disjoined either in act or in understanding.* — Shortly afterward, most codices such as A G H S T X with ed. 1 read *adductae* in place of *inductae*.
 
 [^30]: **La.** Codd. P Q bene *vertibilitas creaturae*.
-      **En.** Codices P Q rightly [read] *vertibilitas creaturae* ["the turnability of the creature"].
+     **En.** Codices P Q rightly [read] *vertibilitas creaturae* ["the turnability of the creature"].
 
 [^31]: **La.** Vat. minus distincte ac contra mss. et ed. I *inesse* loco *quod inest*.
-      **En.** The Vatican edition, less distinctly and against the manuscripts and ed. I, reads *inesse* in place of *quod inest*.
+     **En.** The Vatican edition, less distinctly and against the manuscripts and ed. I, reads *inesse* in place of *quod inest*.
 
 [^32]: **La.** Cod. Z cum ed. I *creatura*. — Vide Boeth., III. de Consol. Prosa 11, ubi haec propositio probatur.
-      **En.** Codex Z with ed. I reads *creatura*. — See Boethius, *Consolation* III, Prose 11, where this proposition is proved.
+     **En.** Codex Z with ed. I reads *creatura*. — See Boethius, *Consolation* III, Prose 11, where this proposition is proved.
 
 [^33]: **La.** Vide Aristot., I. de Caelo. text. 32. (c. 4. in fine) et III. de Anima, text. 45. (c. 9.). — Codd. V X *in vanum* loco *frustra*.
-      **En.** See Aristotle, *On the Heavens* I, text 32 (c. 4 at the end) and *On the Soul* III, text 45 (c. 9). — Codices V X read *in vanum* in place of *frustra*.
+     **En.** See Aristotle, *On the Heavens* I, text 32 (c. 4 at the end) and *On the Soul* III, text 45 (c. 9). — Codices V X read *in vanum* in place of *frustra*.
 
 [^34]: **La.** Plerique codd. ut F G H I K P Q S T etc. minus bene *varia*; cod. X *mutabilia*. — Paulo infra post *sic non est* subaudi: *adiutorium vel gratia*.
-      **En.** Most codices such as F G H I K P Q S T etc. read less well *varia* ["various"]; codex X [reads] *mutabilia* ["changeable"]. — A little below, after *sic non est*, supply: *help or grace*.
+     **En.** Most codices such as F G H I K P Q S T etc. read less well *varia* ["various"]; codex X [reads] *mutabilia* ["changeable"]. — A little below, after *sic non est*, supply: *help or grace*.
 
 [^35]: **La.** Vat. praeter fidem mss. et ed. 1 in principio huius propositionis ponit *Et*, deinde hic pro *et quia* habet *quod*, quo vis rationis debilitatur.
-      **En.** The Vatican edition, against the faith of the manuscripts and ed. 1, places at the beginning of this proposition *Et*, then here in place of *et quia* has *quod*, by which the force of the reasoning is weakened.
+     **En.** The Vatican edition, against the faith of the manuscripts and ed. 1, places at the beginning of this proposition *Et*, then here in place of *et quia* has *quod*, by which the force of the reasoning is weakened.
 
 [^36]: **La.** Vat. incongrue *dantur cetera vertibilia*; omnes codd. cum ed. 1 *invertibilia*; cod. cc *dantur*, antiquiores autem codd. *dicuntur*, licet aliqui propter abbreviationem dubiae sint lectionis.
-      **En.** The Vatican edition incongruously reads *dantur cetera vertibilia* ["the rest are given as turnable"]; all the codices with ed. 1 read *invertibilia*; codex cc reads *dantur*, but the older codices read *dicuntur*, although some, because of the abbreviation, are of doubtful reading.
+     **En.** The Vatican edition incongruously reads *dantur cetera vertibilia* ["the rest are given as turnable"]; all the codices with ed. 1 read *invertibilia*; codex cc reads *dantur*, but the older codices read *dicuntur*, although some, because of the abbreviation, are of doubtful reading.
 
 [^37]: **La.** Vat. *vel esse* loco *et*, quod maior pars codd. habet; aliqui codd. ut O T cum ed. I omittunt insuper particulam *et*, pro qua cod. cc habet *vel*. Paulo post aliqui codd. ut A M T aa cum ed. 1 bis hic loco *haec*.
-      **En.** The Vatican edition reads *vel esse* in place of *et*, which the greater part of the codices have; some codices such as O T with ed. I omit besides the particle *et*, for which codex cc has *vel*. A little after, some codices such as A M T aa with ed. 1 [read] *bis* here in place of *haec*.
+     **En.** The Vatican edition reads *vel esse* in place of *et*, which the greater part of the codices have; some codices such as O T with ed. I omit besides the particle *et*, for which codex cc has *vel*. A little after, some codices such as A M T aa with ed. 1 [read] *bis* here in place of *haec*.
 
 [^38]: **La.** Vat. contra antiquiores codd. et ed. 1 *obiicitur*, sed propter subnexa minus bene. Mox Vat. cum cod. cc *et* loco *quia*, at minus distincte et praeter fidem ceterorum mss. et ed. I.
-      **En.** The Vatican edition, against the older codices and ed. 1, reads *obiicitur*, but on account of what follows less well. Shortly afterward, the Vatican edition with codex cc [reads] *et* in place of *quia*, but less distinctly and against the faith of the other manuscripts and ed. I.
+     **En.** The Vatican edition, against the older codices and ed. 1, reads *obiicitur*, but on account of what follows less well. Shortly afterward, the Vatican edition with codex cc [reads] *et* in place of *quia*, but less distinctly and against the faith of the other manuscripts and ed. I.

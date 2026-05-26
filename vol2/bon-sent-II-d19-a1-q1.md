@@ -234,67 +234,67 @@ Likewise, every corruptible power is injured by an object of disproportionate ex
      **En.** Of this kind is both the first mover or God, as Aristotle proves, VIII *Physics*, text 86 (c. 10) and XII *Metaphysics*, text 41 (XI, c. 7), and also the other separate substances or Intelligences, as he teaches there, text 43 (c. 8). — Codex A after *substantiam incorruptibilem* adds *as the angelic nature*. — On the major [premise] cf. above p. 210, note 11. — A similar argument is proposed by Gregory, IV *Dialogues*, c. 3.
 
 [^10]: **La.** Secundum Boeth., IV. de Consol. prosa 1. et 4. Cfr. tom. I. pag. 713, nota 2. Cfr. de hoc arg. Plato, Phaedo (ed. Serrani, tom. I. pag. 107.). Quod sequitur est Ier. 11, 20.
-      **En.** According to Boethius, IV *On Consolation*, prose 1 and 4. Cf. tom. I, p. 713, note 2. Cf. on this argument Plato, *Phaedo* (ed. Serranus, tom. I, p. 107). What follows is Jeremiah 11:20.
+     **En.** According to Boethius, IV *On Consolation*, prose 1 and 4. Cf. tom. I, p. 713, note 2. Cf. on this argument Plato, *Phaedo* (ed. Serranus, tom. I, p. 107). What follows is Jeremiah 11:20.
 
 [^11]: **La.** Aristot., II. de Generat. et corrupt. text. 70. (c. 11.) dicit: *Quorumcumque autem non* [incorruptibilis est substantia], *sed corruptibilis, necesse est specie, numero autem non, reverti*. Cfr. supra d. 7. p. II. a. 2. q. 1. scholion II. n. 2, ubi aliquid simile effectus asseritur ex S. Bonav. de actione creaturae respectu sui ipsius.
-      **En.** Aristotle, II *On Generation and Corruption*, text 70 (c. 11), says: *Of whatever things, however, the substance is not* [incorruptible] *but corruptible, they must return in species, but not in number*. Cf. above d. 7, p. II, a. 2, q. 1, scholion II, n. 2, where something similar is asserted on the effect from St. Bonaventure on the action of the creature with respect to itself.
+     **En.** Aristotle, II *On Generation and Corruption*, text 70 (c. 11), says: *Of whatever things, however, the substance is not* [incorruptible] *but corruptible, they must return in species, but not in number*. Cf. above d. 7, p. II, a. 2, q. 1, scholion II, n. 2, where something similar is asserted on the effect from St. Bonaventure on the action of the creature with respect to itself.
 
 [^12]: **La.** Aristot., III. Ethic. c. 1: *Quaedam autem fortasse sunt, ad quae perpetranda nemo cogi compellive potest* [Ἔνια δ' ἴσως οὐκ ἔστιν ἀναγκασθῆναι], *sed potius extrema quaeque pati ac mori convenit*.
-      **En.** Aristotle, III *Ethics*, c. 1: *But there are perhaps certain things to the perpetrating of which no one can be coerced or compelled* [Ἔνια δ' ἴσως οὐκ ἔστιν ἀναγκασθῆναι], *but it is rather fitting to suffer extremes whatsoever and to die*.
+     **En.** Aristotle, III *Ethics*, c. 1: *But there are perhaps certain things to the perpetrating of which no one can be coerced or compelled* [Ἔνια δ' ἴσως οὐκ ἔστιν ἀναγκασθῆναι], *but it is rather fitting to suffer extremes whatsoever and to die*.
 
 [^13]: **La.** Codd. Y *ad divinae iustitiae*.
-      **En.** Codices Y read *ad divinae iustitiae*.
+     **En.** Codices Y read *ad divinae iustitiae*.
 
 [^14]: **La.** Boeth., III. de Consol. prosa 2. — Principia huius et seq. arg. insinuantur ab Aristot., I. Ethic. c. 1. seq. et ab August., XIII. de Trin. c. 7. n. 10. seq.
-      **En.** Boethius, III *On Consolation*, prose 2. — The principles of this and the following argument are intimated by Aristotle, I *Ethics*, c. 1 sq., and by Augustine, XIII *On the Trinity*, c. 7, n. 10 sq.
+     **En.** Boethius, III *On Consolation*, prose 2. — The principles of this and the following argument are intimated by Aristotle, I *Ethics*, c. 1 sq., and by Augustine, XIII *On the Trinity*, c. 7, n. 10 sq.
 
 [^15]: **La.** Aristot., III. de Anima, text. 15. (c. 4.): *Et ipse* [intellectus] *etiam intelligibilis est, sicut ipsa intelligibilia. In his enim, quae sunt sine materia, idem est quod intelligit et quod intelligitur*. Cfr. ibid. II. text. 136. seqq. (III. c. 2.), ubi ex materialitate sensuum ostendit, impossibile esse, quod eodem sensu, quo sentimus, etiam nos sentire percipiamus, adeoque alium sensum, scil. communem, esse admittendum. Idem dicit I. Magn. Moral. c. 17. (c. 18.) et Auctor libri de Causis, prop. 15. Avicenna, V. de Anima sive sexti Naturalium, c. 2. hoc arg. latius exponit.
-      **En.** Aristotle, III *On the Soul*, text 15 (c. 4): *And it itself* [the intellect] *is also intelligible, just as the intelligibles themselves. For in those things which are without matter, that which understands and that which is understood are the same*. Cf. ibid. II, text 136 sqq. (III, c. 2), where from the materiality of the senses he shows that it is impossible that we should perceive ourselves sensing by the same sense by which we sense, and therefore another sense, namely the common [sense], must be admitted. The same he says in I *Magna Moralia*, c. 17 (c. 18), and the author of the book *De Causis*, prop. 15. Avicenna, V *On the Soul* or of the sixth book of the *Naturalia*, c. 2, expounds this argument more amply.
+     **En.** Aristotle, III *On the Soul*, text 15 (c. 4): *And it itself* [the intellect] *is also intelligible, just as the intelligibles themselves. For in those things which are without matter, that which understands and that which is understood are the same*. Cf. ibid. II, text 136 sqq. (III, c. 2), where from the materiality of the senses he shows that it is impossible that we should perceive ourselves sensing by the same sense by which we sense, and therefore another sense, namely the common [sense], must be admitted. The same he says in I *Magna Moralia*, c. 17 (c. 18), and the author of the book *De Causis*, prop. 15. Avicenna, V *On the Soul* or of the sixth book of the *Naturalia*, c. 2, expounds this argument more amply.
 
 [^16]: **La.** Alluditur ad illud II. Cor. 4, 16: *Sed licet is qui foris est noster homo corrumpatur, tamen is qui intus est renovatur de die in diem.*
-      **En.** Allusion is made to 2 Cor 4:16: *But though our outward man is corrupted, yet the inward [man] is renewed from day to day.*
+     **En.** Allusion is made to 2 Cor 4:16: *But though our outward man is corrupted, yet the inward [man] is renewed from day to day.*
 
 [^17]: **La.** Vide Aristot., I. de Anima, text. 12. seq. (c. 1.) et III. text. 4. seqq. (c. 4.). — Ratio seq. prop. continetur in eo, quod anima cognoscere possit *omnia* (Aristot., III. de Anima, text. 37. c. 8.); si enim haberet contrarium, anima recipere non posset similitudinem sive speciem illius, ideoque nec illud cognoscere. Cfr. Plato, X. de Republ. (tom. II. pag. 608. seqq.), ubi ostendit, animae contraria esse vitia et ignorantiam, quae tamen nequeunt ipsam dissolvere. Idem respectu falsitatis asserit August., de Immortal. animae, c. 11. n. 18. seq.
-      **En.** See Aristotle, I *On the Soul*, text 12 sq. (c. 1) and III, text 4 sqq. (c. 4). — The reason of the following proposition is contained in this, that the soul can know *all things* (Aristotle, III *On the Soul*, text 37, c. 8); for if it had a contrary, the soul could not receive the likeness or species of that [contrary], and so could not know it. Cf. Plato, X *Republic* (tom. II, pp. 608 sqq.), where he shows that the soul's contraries are vices and ignorance, which nevertheless cannot dissolve it. The same with respect to falsity Augustine asserts, *On the Immortality of the Soul*, c. 11, n. 18 sq.
+     **En.** See Aristotle, I *On the Soul*, text 12 sq. (c. 1) and III, text 4 sqq. (c. 4). — The reason of the following proposition is contained in this, that the soul can know *all things* (Aristotle, III *On the Soul*, text 37, c. 8); for if it had a contrary, the soul could not receive the likeness or species of that [contrary], and so could not know it. Cf. Plato, X *Republic* (tom. II, pp. 608 sqq.), where he shows that the soul's contraries are vices and ignorance, which nevertheless cannot dissolve it. The same with respect to falsity Augustine asserts, *On the Immortality of the Soul*, c. 11, n. 18 sq.
 
 [^18]: **La.** Iob 12, 12. — De hoc arg. cfr. Aristot., I. de Anima, text. 63. seq. (c. 4.); Problem. sect. 30. n. 4. (5.) et Avicenna, loc. cit.
-      **En.** Job 12:12. — On this argument cf. Aristotle, I *On the Soul*, text 63 sq. (c. 4); *Problems*, sect. 30, n. 4 (5); and Avicenna, *loc. cit.*
+     **En.** Job 12:12. — On this argument cf. Aristotle, I *On the Soul*, text 63 sq. (c. 4); *Problems*, sect. 30, n. 4 (5); and Avicenna, *loc. cit.*
 
 [^19]: **La.** Libr. II. c. 2. — August. hoc arg. proponit ibid. c. 13. n. 24; de Immortal. animae, c. 1. n. 1; c. 4. n. 5; c. 6. n. 10; Epist. 3. (alias 151.) ad Nebrid. n. 4.
-      **En.** Book II, c. 2. — Augustine proposes this argument *ibid.* c. 13, n. 24; *On the Immortality of the Soul*, c. 1, n. 1; c. 4, n. 5; c. 6, n. 10; Letter 3 (alias 151) to Nebridius, n. 4.
+     **En.** Book II, c. 2. — Augustine proposes this argument *ibid.* c. 13, n. 24; *On the Immortality of the Soul*, c. 1, n. 1; c. 4, n. 5; c. 6, n. 10; Letter 3 (alias 151) to Nebridius, n. 4.
 
 [^20]: **La.** Vers. 15. — Supra cod. aa bene *scientiae* pro *conscientiae*. Deinde Vat. *veritatem misericordiae* pro *veritatem vitae*.
-      **En.** Verse 15. — Above, codex aa rightly has *scientiae* for *conscientiae*. Then the Vatican [edition] [reads] *veritatem misericordiae* for *veritatem vitae*.
+     **En.** Verse 15. — Above, codex aa rightly has *scientiae* for *conscientiae*. Then the Vatican [edition] [reads] *veritatem misericordiae* for *veritatem vitae*.
 
 [^21]: **La.** Aristot., II. de Anima, text. 123. 143. (c. 12. et III. c. 2.) et III. text. 7. (c. 4.) docet, sensum laedi ex obiecto excellente, non vero intellectum.
-      **En.** Aristotle, II *On the Soul*, text 123, 143 (c. 12, and III, c. 2), and III, text 7 (c. 4), teaches that the sense is injured by an excelling object, but not the intellect.
+     **En.** Aristotle, II *On the Soul*, text 123, 143 (c. 12, and III, c. 2), and III, text 7 (c. 4), teaches that the sense is injured by an excelling object, but not the intellect.
 
 [^22]: **La.** Cap. 7. n. 10. seqq. — De Civ. Dei, VIII. c. 8; XIV. c. 25; XIX. c. 1. seqq. — Paulo inferius plures codd. *percipiendam* pro *participandam*.
-      **En.** Chapter 7, n. 10 sqq. — *City of God* VIII, c. 8; XIV, c. 25; XIX, c. 1 sqq. — A little below, several codices [read] *percipiendam* for *participandam*.
+     **En.** Chapter 7, n. 10 sqq. — *City of God* VIII, c. 8; XIV, c. 25; XIX, c. 1 sqq. — A little below, several codices [read] *percipiendam* for *participandam*.
 
 [^23]: **La.** Secundum August., XIV. de Trin. c. 8. n. 11.
-      **En.** According to Augustine, XIV *On the Trinity*, c. 8, n. 11.
+     **En.** According to Augustine, XIV *On the Trinity*, c. 8, n. 11.
 
 [^24]: **La.** Cassiodor., de Anima, c. 8. et Auctor libri de Spiritu et anima, c. 18. Cfr. supra pag. 411, nota 3.
-      **En.** Cassiodorus, *On the Soul*, c. 8, and the author of the book *On the Spirit and the Soul*, c. 18. Cf. above p. 411, note 3.
+     **En.** Cassiodorus, *On the Soul*, c. 8, and the author of the book *On the Spirit and the Soul*, c. 18. Cf. above p. 411, note 3.
 
 [^25]: **La.** Plato, in *Timaeo* (Chalcidio interprete, ed. Wrobel, pag. 43.). — Paulo superius post *ad invicem* Vat. addit *Denique ex parte causae efficientis colligitur*, et hic subiungit *efficientis*.
-      **En.** Plato, in the *Timaeus* (Chalcidius's translation, ed. Wrobel, p. 43). — A little above, after *ad invicem*, the Vatican [edition] adds *Lastly it is gathered on the part of the efficient cause*, and here subjoins *efficientis*.
+     **En.** Plato, in the *Timaeus* (Chalcidius's translation, ed. Wrobel, p. 43). — A little above, after *ad invicem*, the Vatican [edition] adds *Lastly it is gathered on the part of the efficient cause*, and here subjoins *efficientis*.
 
 [^26]: **La.** Supple: *immortalis*, quod in uno alteroque cod., in Vat. et aliis edd., excepta 1, etiam additur.
-      **En.** Supply: *immortalis*, which is also added in one and another codex, in the Vatican and other editions, except 1.
+     **En.** Supply: *immortalis*, which is also added in one and another codex, in the Vatican and other editions, except 1.
 
 [^27]: **La.** Alex. Hal., S. p. II. q. 86. m. 2. a. 2. § 1, ubi appetitum intrinsecum principiorum rerum explicat, de anima ait: *Ergo cum anima sit substantia simplex et semper in actu, in ea fortis et potens actus et vigens est appetitus*. Huius vigoris modum exprimens, maximus poetarum Virgilius (Aeneid. 6, 729) dixit: «Igneus est ollis vigor et caelestis origo, Seminibus» etc. *Igneus vigor*, quia subtilis et acutus; et *caelestis origo*, quia vis est indita divinitus.
-      **En.** Alexander of Hales, *Summa* p. II, q. 86, m. 2, a. 2, § 1, where, explaining the intrinsic appetite of the principles of things, he says of the soul: *Therefore since the soul is a simple substance and ever in act, in it there is a strong and powerful act and a vigorous appetite*. Expressing the manner of this vigor, the greatest of poets, Virgil (*Aeneid* 6:729), said: «Fiery is the vigor in them and a heavenly origin, in their seeds» etc. *Fiery vigor*, because subtle and acute; and *heavenly origin*, because the force is divinely instilled.
+     **En.** Alexander of Hales, *Summa* p. II, q. 86, m. 2, a. 2, § 1, where, explaining the intrinsic appetite of the principles of things, he says of the soul: *Therefore since the soul is a simple substance and ever in act, in it there is a strong and powerful act and a vigorous appetite*. Expressing the manner of this vigor, the greatest of poets, Virgil (*Aeneid* 6:729), said: «Fiery is the vigor in them and a heavenly origin, in their seeds» etc. *Fiery vigor*, because subtle and acute; and *heavenly origin*, because the force is divinely instilled.
 
 [^28]: **La.** Part. I. a. 2. q. 2. Cfr. etiam ibid. d. 37. p. 1. a. 1. q. 1. seq. et in hoc libro d. 37. a. 1. q. 2.
-      **En.** Part I, a. 2, q. 2. Cf. also *ibid.* d. 37, p. 1, a. 1, q. 1 sq., and in this book d. 37, a. 1, q. 2.
+     **En.** Part I, a. 2, q. 2. Cf. also *ibid.* d. 37, p. 1, a. 1, q. 1 sq., and in this book d. 37, a. 1, q. 2.
 
 [^29]: **La.** Text. 4. seqq. 15. 20. (c. 4. seq.).
-      **En.** Text 4 sqq., 15, 20 (c. 4 sq.).
+     **En.** Text 4 sqq., 15, 20 (c. 4 sq.).
 
 [^30]: **La.** Dist. 44. p. II. a. 3. q. 2. et d. 50. p. II. a. 2. q. 1. seqq. — Paulo superius cod. O *illa passio* pro *illa corruptio*.
-      **En.** Distinction 44, p. II, a. 3, q. 2, and d. 50, p. II, a. 2, q. 1 sqq. — A little above, codex O [reads] *illa passio* for *illa corruptio*.
+     **En.** Distinction 44, p. II, a. 3, q. 2, and d. 50, p. II, a. 2, q. 1 sqq. — A little above, codex O [reads] *illa passio* for *illa corruptio*.
 
 ## Notes
 

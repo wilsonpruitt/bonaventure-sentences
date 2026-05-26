@@ -133,31 +133,31 @@ Therefore just as God's predestination, properly [speaking], is the foreknowledg
 
 [^10]: **La.** Cod. D addit *et erit*.
 
-      **En.** Codex D adds *et erit* ("and will be").
+     **En.** Codex D adds *et erit* ("and will be").
 
 [^11]: **La.** Ephes. I, 4.
 
-      **En.** Ephesians 1:4.
+     **En.** Ephesians 1:4.
 
 [^12]: **La.** Non invenitur in citatis libris, sed in VI. *Hypognosticon*. Vide etiam Glossam ad Rom. 8, 29 apud Lyranum.
 
-      **En.** [The passage] is not found in the books cited, but in [book] VI of the *Hypognosticon*. See also the Gloss on Romans 8:29 in [Nicholas of] Lyra.
+     **En.** [The passage] is not found in the books cited, but in [book] VI of the *Hypognosticon*. See also the Gloss on Romans 8:29 in [Nicholas of] Lyra.
 
 [^13]: **La.** August., *de Bono persever.* c. 14. n. 33.
 
-      **En.** Augustine, *On the Gift of Perseverance*, c. 14, n. 33.
+     **En.** Augustine, *On the Gift of Perseverance*, c. 14, n. 33.
 
 [^14]: **La.** *Epist.* 194. c. 3. n. 14.
 
-      **En.** [Augustine,] *Letter* 194, c. 3, n. 14.
+     **En.** [Augustine,] *Letter* 194, c. 3, n. 14.
 
 [^15]: **La.** Rom. 9, 19.
 
-      **En.** Romans 9:19.
+     **En.** Romans 9:19.
 
 [^16]: **La.** Libr. I. *quaest.* 2. n. 19; sed plurimum a Magistro mutatis. Ultima verba *paene non aperit* etc. usque sunt ex *Epist.* (loc. cit.). — Lectio b. Scripturae est Rom. 11, 33.
 
-      **En.** [Augustine, *To Simplician*,] book I, *question* 2, n. 19; but with very much changed by the Master. The last words *paene non aperit* ("almost does not unveil") etc. and onward are from the *Letter* (at the place cited). — The reading of holy Scripture is Romans 11:33.
+     **En.** [Augustine, *To Simplician*,] book I, *question* 2, n. 19; but with very much changed by the Master. The last words *paene non aperit* ("almost does not unveil") etc. and onward are from the *Letter* (at the place cited). — The reading of holy Scripture is Romans 11:33.
 
 ---
 

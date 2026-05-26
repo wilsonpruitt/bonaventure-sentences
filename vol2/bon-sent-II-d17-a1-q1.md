@@ -209,43 +209,43 @@ And therefore the third position is true and catholic: *Catholic opinion and con
 
 [^10]: **La.** Cfr. I. Sent. d. 19. p. II. q. 3.
 
-      **En.** Cf. I Sent. d. 19, p. II, q. 3.
+     **En.** Cf. I Sent. d. 19, p. II, q. 3.
 
 [^11]: **La.** Non pauci codd. incongrue addunt *hoc*.
 
-      **En.** Not a few codices incongruously add *this* (*hoc*).
+     **En.** Not a few codices incongruously add *this* (*hoc*).
 
 [^12]: **La.** Cap. 1. n. 1. seqq. Cfr. I. Retract. c. 15. n. 1. — Paulo inferius in paucis codd. et in omnibus edd., excepta secunda, desideratur *et illa quae facit bona, nunquam potest facere mala*.
 
-      **En.** Ch. 1, n. 1 and following. Cf. *Retractations* I, c. 15, n. 1. — A little below, in a few codices and in all editions except the second, the phrase *and that which does good can never do evil* is lacking.
+     **En.** Ch. 1, n. 1 and following. Cf. *Retractations* I, c. 15, n. 1. — A little below, in a few codices and in all editions except the second, the phrase *and that which does good can never do evil* is lacking.
 
 [^13]: **La.** Dist. 31. a. 1. q. 1. et d. 34. a. 1. q. 1. Cfr. supra d. 1. p. I. a. 2. q. 1.
 
-      **En.** Distinction 31, a. 1, q. 1, and d. 34, a. 1, q. 1. Cf. above d. 1, p. I, a. 2, q. 1.
+     **En.** Distinction 31, a. 1, q. 1, and d. 34, a. 1, q. 1. Cf. above d. 1, p. I, a. 2, q. 1.
 
 [^14]: **La.** Intellige *exemplaris*, quod indicant codd. Y aa legendo *et formalis exemplaris*. Cfr. I. Sent. d. 8. p. I. a. 1. q. 1. ad 4. — Paulo inferius post *nobilis* ed. 4 et Vat. subiungunt *quia quod se habet ut materiale respectu alicuius, est minus completum ipso*.
 
-      **En.** Understand *exemplary*, which codices Y aa indicate by reading *and exemplary formal*. Cf. I Sent. d. 8, p. I, a. 1, q. 1, ad 4. — A little below, after *noble*, edition 4 and the Vatican edition add *because that which is related as material with respect to something is less complete than it*.
+     **En.** Understand *exemplary*, which codices Y aa indicate by reading *and exemplary formal*. Cf. I Sent. d. 8, p. I, a. 1, q. 1, ad 4. — A little below, after *noble*, edition 4 and the Vatican edition add *because that which is related as material with respect to something is less complete than it*.
 
 [^15]: **La.** Eodem modo explicat August., VII. de Gen. ad lit. c. 3. n. 5. seqq. et XIII. de Civ. Dei, c. 24. — Paulo superius post *et factum corpori* plures codd. cum edd. 2, 3 *insinuare*, Vat. cum ed. 4 *insinuare vel infundere* pro *infundere*. Paulo inferius Vat. *verbo* pro *dicendo*.
 
-      **En.** Augustine explains in the same way, *On Genesis according to the letter* VII, c. 3, nn. 5 and following, and *On the City of God* XIII, c. 24. — A little above, after *and what is made into the body*, many codices with editions 2 and 3 read *to insinuate*; the Vatican edition with edition 4 reads *to insinuate or to infuse* instead of *to infuse*. A little below the Vatican edition reads *by a word* instead of *by speaking*.
+     **En.** Augustine explains in the same way, *On Genesis according to the letter* VII, c. 3, nn. 5 and following, and *On the City of God* XIII, c. 24. — A little above, after *and what is made into the body*, many codices with editions 2 and 3 read *to insinuate*; the Vatican edition with edition 4 reads *to insinuate or to infuse* instead of *to infuse*. A little below the Vatican edition reads *by a word* instead of *by speaking*.
 
 [^16]: **La.** Vers. 22. Textus graecus ἐνεφύσησε; idem verbum habetur in hac propositione ex Gen. 2, 7, de qua August., VII. de Gen. ad lit. c. 1. n. 2: Ac primum illud videamus, quod scriptum est Flavit vel Sufflavit in faciem eius flatum vitae. Nonnulli enim codices habent Spiravit vel Inspiravit in faciem eius. Sed cum Graeci habeant ἐνεφύσησεν, non dubitatur, *flavit* vel *sufflavit* esse dicendum. Cfr. hic lit. Magistri, c. 2. — Vat., omisso *ubi*, dein substituit *Insufflavit; nam illa pro sufflavit et illa*.
 
-      **En.** Verse 22. The Greek text [reads] ἐνεφύσησε; the same word occurs in the proposition from Gen. 2:7, on which Augustine, *On Genesis according to the letter* VII, c. 1, n. 2: «Let us first see what is written: *He breathed* or *He breathed in* into his face the breath of life. For some codices have *He inspired* or *He inspired into his face*. But since the Greeks have ἐνεφύσησεν, there is no doubt that one must say *flavit* or *sufflavit*». Cf. here the letter of the Master, c. 2. — The Vatican edition, omitting *ubi*, then substitutes *Insufflavit; nam illa* for *sufflavit et illa*.
+     **En.** Verse 22. The Greek text [reads] ἐνεφύσησε; the same word occurs in the proposition from Gen. 2:7, on which Augustine, *On Genesis according to the letter* VII, c. 1, n. 2: «Let us first see what is written: *He breathed* or *He breathed in* into his face the breath of life. For some codices have *He inspired* or *He inspired into his face*. But since the Greeks have ἐνεφύσησεν, there is no doubt that one must say *flavit* or *sufflavit*». Cf. here the letter of the Master, c. 2. — The Vatican edition, omitting *ubi*, then substitutes *Insufflavit; nam illa* for *sufflavit et illa*.
 
 [^17]: **La.** August., I. Confess. c. 1. n. 1: Quia fecisti nos ad te, et inquietum est cor nostrum, donec requiescat in te.
 
-      **En.** Augustine, *Confessions* I, c. 1, n. 1: «Because thou hast made us toward thee, and our heart is restless until it rests in thee».
+     **En.** Augustine, *Confessions* I, c. 1, n. 1: «Because thou hast made us toward thee, and our heart is restless until it rests in thee».
 
 [^18]: **La.** Cap. 15. n. 24. Cfr. opusculum a nobis editum de Humanae Cognitionis ratione. — Plures codd. cum Vat. *convenientia spiritualis* pro *convenientia specialis*.
 
-      **En.** Ch. 15, n. 24. Cf. the little work edited by us *On the Method of Human Knowledge*. — Many codices with the Vatican edition read *spiritual agreement* instead of *special agreement*.
+     **En.** Ch. 15, n. 24. Cf. the little work edited by us *On the Method of Human Knowledge*. — Many codices with the Vatican edition read *spiritual agreement* instead of *special agreement*.
 
 [^19]: **La.** Dist. 19. a. 1. q. 1. Cfr. I. Sent. d. 8. p. II. a. 2. q. 2.
 
-      **En.** Distinction 19, a. 1, q. 1. Cf. I Sent. d. 8, p. II, a. 2, q. 2.
+     **En.** Distinction 19, a. 1, q. 1. Cf. I Sent. d. 8, p. II, a. 2, q. 2.
 
 ---
 

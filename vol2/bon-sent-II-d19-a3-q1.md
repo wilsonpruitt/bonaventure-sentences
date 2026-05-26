@@ -238,43 +238,43 @@ And so it is clear that the immortality which was in the state of innocence, as 
 
 [^10]: **La.** Quod ostensum est supra d. 17. a. 2. q. 3.
 
-      **En.** What was shown above, d. 17 a. 2 q. 3.
+     **En.** What was shown above, d. 17 a. 2 q. 3.
 
 [^11]: **La.** Vide supra pag. 464, nota 6.
 
-      **En.** See above p. 464 note 6.
+     **En.** See above p. 464 note 6.
 
 [^12]: **La.** Hic c. 4. seq.
 
-      **En.** Here c. 4 ff.
+     **En.** Here c. 4 ff.
 
 [^13]: **La.** Vat. cum ceteris edd. (exc. 1) et nonnullis codd. addit *et propinquam*.
 
-      **En.** The Vatican edition with the other editions (except 1) and several codices adds *et propinquam* ("and proximate").
+     **En.** The Vatican edition with the other editions (except 1) and several codices adds *et propinquam* ("and proximate").
 
 [^14]: **La.** Cod. 1 *humidi radicalis*. Aliquanto inferius pro *hominibus institutis* plurimi codd. et edd. 1, 2 *hominibus constitutis*.
 
-      **En.** Codex 1: *humidi radicalis* ("of the radical moisture"). Somewhat further down, for *hominibus institutis* most codices and edd. 1, 2 read *hominibus constitutis*.
+     **En.** Codex 1: *humidi radicalis* ("of the radical moisture"). Somewhat further down, for *hominibus institutis* most codices and edd. 1, 2 read *hominibus constitutis*.
 
 [^15]: **La.** Sensus est: si haec, scil. regere et conservare tale corpus, ex parte animae essent quid mere naturale, tunc anima quoque peccatrix ista praestare posset; sed non potest, quia mors secuta est peccatum.
 
-      **En.** The sense is: if these — namely to rule and conserve such a body — on the part of the soul were something merely natural, then the sinful soul also could provide these things; but it cannot, because death followed sin.
+     **En.** The sense is: if these — namely to rule and conserve such a body — on the part of the soul were something merely natural, then the sinful soul also could provide these things; but it cannot, because death followed sin.
 
 [^16]: **La.** De Conceptu virgin. et origin. peccat. c. 1, ubi duplex vis vocis *originalis* distinguitur, respectu scilicet *iustitiae* et respectu *peccati*. Dicit enim auctor: *originale* «videtur dici aut ab originale humanae naturae… aut ab origine, hoc est ab origine uniuscuiusque personae… Sed quod [originale peccatum] ab initio humanae naturae descendat, non videtur; quoniam origo illius iusta fuit, quando primi parentes iusti facti sunt sine omni peccato. Videtur itaque dici *originale* ab ipsa origine uniuscuiusque personae humanae… Simili ratione potest dici *originalis* et *personalis* iustitia: siquidem Adam et Eva originaliter, hoc est in ipso sui initio, mox ut homines exstiterunt, sine intervallo, iusti simul fuerunt. *Personalis* autem dici potest iustitia, cum iniustus accipit iustitiam, quam ab origine non habuit». — Paulo superius pro *et illud regere* plures codd. *et illud agere*.
 
-      **En.** *On the Conception of the Virgin and on Original Sin* c. 1, where the twofold force of the word *original* is distinguished, namely with respect to *justice* and with respect to *sin*. For the author says: *original* «seems to be said either from the origin of human nature… or from the origin, that is, from the origin of each person… But that [original sin] descends from the beginning of human nature, does not seem [to be the case]; since its origin was just, when the first parents were made just, without any sin. It seems therefore to be called *original* from the very origin of each human person… By a similar reason there can be called both an *original* and a *personal* justice: since Adam and Eve originally — that is, in their very beginning, as soon as they existed as men, without interval — were at the same time just. But it can be called *personal* justice, when an unjust person receives justice which he did not have from his origin». — A little above, for *et illud regere* ("and to rule it") several codices read *et illud agere* ("and to act upon it").
+     **En.** *On the Conception of the Virgin and on Original Sin* c. 1, where the twofold force of the word *original* is distinguished, namely with respect to *justice* and with respect to *sin*. For the author says: *original* «seems to be said either from the origin of human nature… or from the origin, that is, from the origin of each person… But that [original sin] descends from the beginning of human nature, does not seem [to be the case]; since its origin was just, when the first parents were made just, without any sin. It seems therefore to be called *original* from the very origin of each human person… By a similar reason there can be called both an *original* and a *personal* justice: since Adam and Eve originally — that is, in their very beginning, as soon as they existed as men, without interval — were at the same time just. But it can be called *personal* justice, when an unjust person receives justice which he did not have from his origin». — A little above, for *et illud regere* ("and to rule it") several codices read *et illud agere* ("and to act upon it").
 
 [^17]: **La.** Vat. cum ceteris edd. *si qua animalia*.
 
-      **En.** The Vatican edition with the other editions: *si qua animalia* ("if any animals").
+     **En.** The Vatican edition with the other editions: *si qua animalia* ("if any animals").
 
 [^18]: **La.** Psalm. 8, 8: *Omnia subiecisti sub pedibus eius*.
 
-      **En.** Psalm 8:8: *Thou hast subjected all things under his feet*.
+     **En.** Psalm 8:8: *Thou hast subjected all things under his feet*.
 
 [^19]: **La.** Quod fusius exponit Boeth., III. de Consol. prosa 11. De prop. praeced. cfr. supra a. 1. q. 1. ad 1. — Vide infra d. 37. a. 1. q. 2.
 
-      **En.** Which Boethius expounds more fully, III *On Consolation* prose 11. On the preceding proposition cf. above a. 1 q. 1 ad 1. — See below d. 37 a. 1 q. 2.
+     **En.** Which Boethius expounds more fully, III *On Consolation* prose 11. On the preceding proposition cf. above a. 1 q. 1 ad 1. — See below d. 37 a. 1 q. 2.
 
 ## Notes
 

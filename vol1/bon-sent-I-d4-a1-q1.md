@@ -209,32 +209,32 @@ or of which things [in the plural] such a term is verified in some proposition. 
 
 [^10]: **La.** Praedictarum regularum prima insinuatur ab Aristot., VII. *Metaph.* text. 21. et 27. ac IX. *Metaph.* text. 12. (VI. c. 6. 8. et VIII. c. 7.); secunda habetur in Petri Hisp. *Summula*, tract. de Suppos. et Distrib.; tertia in opusculo, quod etiam Petro Hisp. attribuitur, scil. *Parvorum Logicalium*, tract. de Negat. et Affirm. c. 1; quarta in eiusdem *Summula*, tract. de Relativis.
 
-      **En.** Of the foregoing rules, the first is hinted at by Aristotle, *Metaphysics* VII, text 21 and 27, and *Metaphysics* IX, text 12 (VI, cc. 6, 8, and VIII, c. 7); the second is found in Peter of Spain's *Summula*, tract on Supposition and Distribution; the third in a little work also attributed to Peter of Spain, namely the *Parvorum Logicalium*, tract on Negation and Affirmation, c. 1; the fourth in the same author's *Summula*, tract on Relatives.
+     **En.** Of the foregoing rules, the first is hinted at by Aristotle, *Metaphysics* VII, text 21 and 27, and *Metaphysics* IX, text 12 (VI, cc. 6, 8, and VIII, c. 7); the second is found in Peter of Spain's *Summula*, tract on Supposition and Distribution; the third in a little work also attributed to Peter of Spain, namely the *Parvorum Logicalium*, tract on Negation and Affirmation, c. 1; the fourth in the same author's *Summula*, tract on Relatives.
 
 [^11]: **La.** Ex plurimis mss. et ed. 1 substituimus *etsi* loco *et*. Mox cod. X post *deitate* habet *non tamen imponitur formae, sed personae*.
 
-      **En.** From very many manuscripts and ed. 1 we have substituted *etsi* in place of *et*. Next codex X, after *deitate*, has: "yet it is not imposed on the form, but on the person."
+     **En.** From very many manuscripts and ed. 1 we have substituted *etsi* in place of *et*. Next codex X, after *deitate*, has: "yet it is not imposed on the form, but on the person."
 
 [^12]: **La.** Ex illo generali principio: *Actiones sunt suppositorum.*
 
-      **En.** From that general principle: "Actions are of supposits."
+     **En.** From that general principle: "Actions are of supposits."
 
 [^13]: **La.** Id est, *facit supponere*. — Paulo ante Cod. R *subiectum* pro *illum*.
 
-      **En.** That is, *it makes [the term] supposit*. — A little before, codex R [reads] *subiectum* in place of *illum*.
+     **En.** That is, *it makes [the term] supposit*. — A little before, codex R [reads] *subiectum* in place of *illum*.
 
 [^14]: **La.** Ex antiquioribus mss. et ed. 1 mutavimus *responsio* in *solutio* et paulo post *non multiplicabilem* in *immultiplicabilem*.
 
-      **En.** From older manuscripts and ed. 1 we have changed *responsio* into *solutio*, and a little after *non multiplicabilem* into *immultiplicabilem*.
+     **En.** From older manuscripts and ed. 1 we have changed *responsio* into *solutio*, and a little after *non multiplicabilem* into *immultiplicabilem*.
 
 [^15]: **La.** Vat. contra antiquiores codd. et ed. 1 addit *totaliter et*.
 
-      **En.** The Vatican [edition], against the older codices and ed. 1, adds *totaliter et*.
+     **En.** The Vatican [edition], against the older codices and ed. 1, adds *totaliter et*.
 
 [^16]: **La.** Supplevimus ex mss. et ed. 1 *Deus*. Paulo ante cod. K. modo negativo *relativum non habet suppositionem aliam a suo antecedente*.
 
-      **En.** From the manuscripts and ed. 1 we have supplied *Deus*. A little before, codex K [reads], in the negative mode: "*the relative does not have a supposition other than from its own antecedent*."
+     **En.** From the manuscripts and ed. 1 we have supplied *Deus*. A little before, codex K [reads], in the negative mode: "*the relative does not have a supposition other than from its own antecedent*."
 
 [^17]: **La.** Cod. K. addit *hic*: *Deus genitus non est Pater; ergo Deus non est Pater*.
 
-      **En.** Codex K adds *hic* ["here"]: "God begotten is not the Father; therefore God is not the Father."
+     **En.** Codex K adds *hic* ["here"]: "God begotten is not the Father; therefore God is not the Father."

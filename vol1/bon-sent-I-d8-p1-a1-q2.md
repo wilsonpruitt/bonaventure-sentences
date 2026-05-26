@@ -243,104 +243,104 @@ It is clear therefore that St. Bonaventure has not departed from the common way 
 
 [^10]: **La.** Seu in libro: *Quomodo substantiae in eo quod sint, bonae sint*, circa medium.
 
-      **En.** Or, in the book: *How substances, in that they are, are good*, near the middle.
+     **En.** Or, in the book: *How substances, in that they are, are good*, near the middle.
 
 [^11]: **La.** 1. Tim. 6, 16; Vulgata: *lucem inhabitat inaccessibilem*.
 
-      **En.** 1 Tim. 6:16; the Vulgate: *he inhabits inaccessible light*.
+     **En.** 1 Tim. 6:16; the Vulgate: *he inhabits inaccessible light*.
 
 [^12]: **La.** Cod. W *potest cogitari aliquo modo non esse nec*.
 
-      **En.** Codex W [reads] *potest cogitari aliquo modo non esse nec*.
+     **En.** Codex W [reads] *potest cogitari aliquo modo non esse nec*.
 
 [^13]: **La.** Plerique codd. ut ACSTVW etc. omittunt *contingit*.
 
-      **En.** Most codices, as ACSTVW etc., omit *contingit*.
+     **En.** Most codices, as ACSTVW etc., omit *contingit*.
 
 [^14]: **La.** Immo ipsum destruit, includendo negationem sui oppositi.
 
-      **En.** Rather it destroys it, by including the negation of its opposite.
+     **En.** Rather it destroys it, by including the negation of its opposite.
 
 [^15]: **La.** Plurimi codd. cum ed. 1 *cogitari*, sed cum subnexis minus cohaerenter.
 
-      **En.** Very many codices with ed. 1 [read] *cogitari* ["to be thought"], but with what follows less coherently.
+     **En.** Very many codices with ed. 1 [read] *cogitari* ["to be thought"], but with what follows less coherently.
 
 [^16]: **La.** Codd. *aa bb* satis bene addunt *cum*.
 
-      **En.** Codices *aa bb* quite well add *cum*.
+     **En.** Codices *aa bb* quite well add *cum*.
 
 [^17]: **La.** Fide vetustiorum codd. et ed. 1 expunximus *ideo*, quod Vat. cum cod. cc praefigit verbo *cogitat*. Cod. V post *rem* addit *esse*.
 
-      **En.** On the authority of the older codices and ed. 1 we have expunged *ideo*, which the Vatican edition with codex cc prefixes to the verb *cogitat*. Codex V after *rem* adds *esse*.
+     **En.** On the authority of the older codices and ed. 1 we have expunged *ideo*, which the Vatican edition with codex cc prefixes to the verb *cogitat*. Codex V after *rem* adds *esse*.
 
 [^18]: **La.** Aristot., II. Poster. c. 1.
 
-      **En.** Aristotle, II. Posterior c. 1.
+     **En.** Aristotle, II. Posterior c. 1.
 
 [^19]: **La.** Libr. I. *de Sacram.* p. III. c. 1. in fine. Vat. sola in hoc textu post *poterat* addit *ab homine*.
 
-      **En.** Book I, *On the Sacraments*, p. III, c. 1, at the end. The Vatican edition alone in this text after *poterat* adds *ab homine*.
+     **En.** Book I, *On the Sacraments*, p. III, c. 1, at the end. The Vatican edition alone in this text after *poterat* adds *ab homine*.
 
 [^20]: **La.** Auctoritate antiquiorum mss. et ed. 1 *simpliciter nec* (quod etiam paulo post occurrit) substituimus pro *similiter non*, quod, mutata insuper interpunctione, habet Vat. cum cod. cc; sed non ita distincta est ista lectio.
 
-      **En.** On the authority of the older manuscripts and ed. 1 we have substituted *simpliciter nec* (which also occurs a little after) for *similiter non*, which, with the punctuation moreover changed, the Vatican edition with codex cc has; but that reading is not so distinct.
+     **En.** On the authority of the older manuscripts and ed. 1 we have substituted *simpliciter nec* (which also occurs a little after) for *similiter non*, which, with the punctuation moreover changed, the Vatican edition with codex cc has; but that reading is not so distinct.
 
 [^21]: **La.** Vat. cum cod. cc, obnitentibus tamen aliis codd. et ed. 1, hic et paulo infra pro *iustum* minus bene substituit *non iustum*; lectionis utriusque unus sensus; in lectione siquidem codd. *iustum* refertur ad praecedens *non esse*.
 
-      **En.** The Vatican edition with codex cc, the other codices and ed. 1 however resisting, here and a little below for *iustum* less well substitutes *non iustum*; the sense of both readings is one; for in the reading of the codices *iustum* refers to the preceding *non esse*.
+     **En.** The Vatican edition with codex cc, the other codices and ed. 1 however resisting, here and a little below for *iustum* less well substitutes *non iustum*; the sense of both readings is one; for in the reading of the codices *iustum* refers to the preceding *non esse*.
 
 [^22]: **La.** Praeferimus lectionem plurium mss. ut HPTY ee etc. *eum* pro *eam*, utpote quae distinctior est.
 
-      **En.** We prefer the reading of many manuscripts, as HPTY ee etc., *eum* for *eam*, inasmuch as it is more distinct.
+     **En.** We prefer the reading of many manuscripts, as HPTY ee etc., *eum* for *eam*, inasmuch as it is more distinct.
 
 [^23]: **La.** Ita codd. cum ed. 1, quorum lectio hic praeferenda est lectioni Vat. *cogitari*. Paulo post etiam unus alterve cod. pro *cogitari* ponit *cogitare*.
 
-      **En.** Thus the codices with ed. 1, whose reading here is to be preferred to the Vatican's reading *cogitari*. A little after, even one or two codices in place of *cogitari* put *cogitare*.
+     **En.** Thus the codices with ed. 1, whose reading here is to be preferred to the Vatican's reading *cogitari*. A little after, even one or two codices in place of *cogitari* put *cogitare*.
 
 [^24]: **La.** Vat., post *semper* addito *quia*, hic adiungit *aut quia, quamvis semper et ubique*; sed obstat auctoritas mss., quorum plures ut ACFKLRSTUV propter repetitionem verborum *non ubique* semel haec verba omittunt, sed incongruenter, ut patet ex subnexis. Ed. 1 *non semper aut non ubique aut non ubique totaliter*. Immediate post Vat. cum cod. cc praeter fidem ceterorum mss. et ed. 1 minus bene *Quia* pro *Quod*, cui codd. *aa, bb* adiungunt *enim*.
 
-      **En.** The Vatican edition, after *semper* with *quia* added, here appends *aut quia, quamvis semper et ubique*; but the authority of the manuscripts stands in the way, very many of which, as ACFKLRSTUV, on account of the repetition of the words *non ubique* once, omit these words, but incongruously, as appears from what follows. Ed. 1 [has] *non semper aut non ubique aut non ubique totaliter*. Immediately after, the Vatican edition with codex cc, against the authority of the other manuscripts and ed. 1, less well [reads] *Quia* for *Quod*, to which codices *aa, bb* append *enim*.
+     **En.** The Vatican edition, after *semper* with *quia* added, here appends *aut quia, quamvis semper et ubique*; but the authority of the manuscripts stands in the way, very many of which, as ACFKLRSTUV, on account of the repetition of the words *non ubique* once, omit these words, but incongruously, as appears from what follows. Ed. 1 [has] *non semper aut non ubique aut non ubique totaliter*. Immediately after, the Vatican edition with codex cc, against the authority of the other manuscripts and ed. 1, less well [reads] *Quia* for *Quod*, to which codices *aa, bb* append *enim*.
 
 [^25]: **La.** Cap. 1.
 
-      **En.** Chapter 1.
+     **En.** Chapter 1.
 
 [^26]: **La.** Supple: *cognoscimus*. Aristot., I. Poster. c. 3. (iuxta transl. Boethii): *Principium scientiae esse quoddam dicimus, in quantum terminos cognoscimus*.
 
-      **En.** Supply: *cognoscimus* ["we know"]. Aristotle, I. Posterior c. 3 (according to Boethius's translation): "We say there is a certain principle of knowledge, insofar as we know the terms."
+     **En.** Supply: *cognoscimus* ["we know"]. Aristotle, I. Posterior c. 3 (according to Boethius's translation): "We say there is a certain principle of knowledge, insofar as we know the terms."
 
 [^27]: **La.** Ex antiquioribus mss. et ed. 1 substituimus *ex* pro *in*.
 
-      **En.** From the older manuscripts and ed. 1 we have substituted *ex* for *in*.
+     **En.** From the older manuscripts and ed. 1 we have substituted *ex* for *in*.
 
 [^28]: **La.** Quomodo haec ratio sit intelligenda, vide supra fundam. 5. et 6.
 
-      **En.** How this reasoning is to be understood, see above fundamenta 5 and 6.
+     **En.** How this reasoning is to be understood, see above fundamenta 5 and 6.
 
 [^29]: **La.** Vat. cum cod. cc, aliis codd. et ed. 1 refragantibus, *est*. Proxime sequentem propositionem, quae a Vat. corrupte et mutile exhibetur, restauramus ope mss. et ed. 1 ponendo *affirmatio* loco *affirmativa*, dein *falsa* pro *vera*, et addendo verba *nihil esse* usque *si nihil est*. Codd. in eo tantum dissident, quod alii habent *dicatur*, alii cum ed. 1 *dicat*, alii *dicas*.
 
-      **En.** The Vatican edition with codex cc, the other codices and ed. 1 contradicting, [has] *est*. The proposition immediately following, which is presented by the Vatican edition corruptly and mutilatedly, we restore with the aid of the manuscripts and ed. 1, placing *affirmatio* in place of *affirmativa*, then *falsa* for *vera*, and adding the words *nihil esse* down to *si nihil est*. The codices differ only in that some have *dicatur*, others with ed. 1 *dicat*, others *dicas*.
+     **En.** The Vatican edition with codex cc, the other codices and ed. 1 contradicting, [has] *est*. The proposition immediately following, which is presented by the Vatican edition corruptly and mutilatedly, we restore with the aid of the manuscripts and ed. 1, placing *affirmatio* in place of *affirmativa*, then *falsa* for *vera*, and adding the words *nihil esse* down to *si nihil est*. The codices differ only in that some have *dicatur*, others with ed. 1 *dicat*, others *dicas*.
 
 [^30]: **La.** Plurimi codd. cum ed. 1 omittunt *Dei*.
 
-      **En.** Very many codices with ed. 1 omit *Dei*.
+     **En.** Very many codices with ed. 1 omit *Dei*.
 
 [^31]: **La.** Supple: *idolatra*.
 
-      **En.** Supply: *idolater*.
+     **En.** Supply: *idolater*.
 
 [^32]: **La.** Fide vetustiorum mss. et ed. 1 expunximus hic non apte additum *esse*.
 
-      **En.** On the authority of the older manuscripts and ed. 1 we have expunged the *esse* here not aptly added.
+     **En.** On the authority of the older manuscripts and ed. 1 we have expunged the *esse* here not aptly added.
 
 [^33]: **La.** Vat. contra mss. et ed. 1 *quod*.
 
-      **En.** The Vatican edition against the manuscripts and ed. 1 [reads] *quod*.
+     **En.** The Vatican edition against the manuscripts and ed. 1 [reads] *quod*.
 
 [^34]: **La.** Supplevimus ex mss. D G H K T Y Z aa bb ee ff et ed. 1 verba *hoc est dicere quod*. Mox cod. X *cogitare* loco *credere*. Paulo infra ex cod. T adiecimus *praesentem*; deinde ex eodem codice loco *veritatis* posuimus *virtutis*, quae lectio et in se distinctior est et in corp. art. (de defectu praesentiae), insinuari videtur.
 
-      **En.** We have supplied from manuscripts D G H K T Y Z aa bb ee ff and ed. 1 the words *hoc est dicere quod*. Shortly codex X [has] *cogitare* in place of *credere*. A little below from codex T we have added *praesentem*; then from the same codex in place of *veritatis* we have put *virtutis*, which reading is both more distinct in itself and seems to be intimated in the body of the article (concerning the defect of presence).
+     **En.** We have supplied from manuscripts D G H K T Y Z aa bb ee ff and ed. 1 the words *hoc est dicere quod*. Shortly codex X [has] *cogitare* in place of *credere*. A little below from codex T we have added *praesentem*; then from the same codex in place of *veritatis* we have put *virtutis*, which reading is both more distinct in itself and seems to be intimated in the body of the article (concerning the defect of presence).
 
 [^35]: **La.** Libr. I. c. 8. (c. 10.) iuxta translat. Boethii: *Semper enim est instare ad exterius orationem, sed ad interius orationem non semper* (πρὸς τὸν ἔξω λόγον, πρὸς τὸν ἔσω λόγον). Cfr. S. Thomas in Comment. super hunc locum, lect. 19, ubi et in translatione antiqua et in Commentario ipso pro *orationem* semper habetur *rationem*. — Vat. transponit contra sensum verborum Aristotelis *rationem* ante *contradicere*, et paulo ante pro *et sic* habet *tunc*, ac post *dignitatibus* addit *id est propositionibus per se notis*, sed praeter fidem mss. et ed. 1.
 
-      **En.** Book I, c. 8 (c. 10) according to Boethius's translation: "For it is always [possible] to press against the outer reasoning, but against the inner reasoning not always" (πρὸς τὸν ἔξω λόγον, πρὸς τὸν ἔσω λόγον). Cf. St. Thomas in his Commentary on this place, lecture 19, where both in the ancient translation and in the Commentary itself for *orationem* there is always *rationem*. — The Vatican edition transposes, against the sense of Aristotle's words, *rationem* before *contradicere*, and a little before for *et sic* has *tunc*, and after *dignitatibus* adds *id est propositionibus per se notis*, but against the authority of the manuscripts and ed. 1.
+     **En.** Book I, c. 8 (c. 10) according to Boethius's translation: "For it is always [possible] to press against the outer reasoning, but against the inner reasoning not always" (πρὸς τὸν ἔξω λόγον, πρὸς τὸν ἔσω λόγον). Cf. St. Thomas in his Commentary on this place, lecture 19, where both in the ancient translation and in the Commentary itself for *orationem* there is always *rationem*. — The Vatican edition transposes, against the sense of Aristotle's words, *rationem* before *contradicere*, and a little before for *et sic* has *tunc*, and after *dignitatibus* adds *id est propositionibus per se notis*, but against the authority of the manuscripts and ed. 1.

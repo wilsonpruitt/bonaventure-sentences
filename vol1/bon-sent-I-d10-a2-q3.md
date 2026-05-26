@@ -9,6 +9,7 @@ type: quaestio
 title_la: "Utrum Spiritus sanctus proprie sit spiritus"
 title_en: "Whether the Holy Spirit is properly *spirit*"
 printed_pages: [203, 204]
+pdf_pages: [305, 306]
 line_start: 39630
 line_end: 39883
 source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 203–204"

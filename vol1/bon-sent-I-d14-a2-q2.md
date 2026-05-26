@@ -9,6 +9,8 @@ type: quaestio
 title_la: "Utrum Spiritus sanctus detur ab aliquo viro sancto"
 title_en: "Whether the Holy Spirit is given by any holy man"
 printed_pages: [230, 231, 232, 233]
+pdf_pages: [332, 333, 334, 335]
+source: "S. Bonaventurae, Opera Omnia, Tomus I (Quaracchi, 1882), pp. 230–233"
 line_start: 46571
 line_end: 47035
 word_count_latin: 2541
