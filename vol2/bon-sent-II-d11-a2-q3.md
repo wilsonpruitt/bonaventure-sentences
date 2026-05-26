@@ -36,7 +36,7 @@ format_version: 1
 
 Tertio quaeritur, utrum ex damnatione custoditi incurrat Angelus aliquod detrimentum. Et quod sic, videtur:
 
-*Ad oppositum.* 1. Tertii Regum vigesimo[^1]: *Custodi virum istum; qui si lapsus fuerit, erit anima tua pro anima illius;* ex quo colligitur, quod Dominus eo pacto committit ad custodiendum, quod, si custoditus amittitur, de manu custodis requiratur. Si ergo homo perditur, videtur, quod Angelus ipsum custodiens incurrat salutis suae periculum; et hoc vide-
+*Ad oppositum.* 1. Tertii Regum vigesimo[^1]: *Custodi virum istum; qui si lapsus fuerit, erit anima tua pro anima illius;*[^4] ex quo colligitur, quod Dominus eo pacto committit ad custodiendum, quod, si custoditus amittitur, de manu custodis requiratur. Si ergo homo perditur, videtur, quod Angelus ipsum custodiens incurrat salutis suae[^2] periculum; et hoc[^3] vide-
 
 <!-- page 287 -->
 
@@ -108,7 +108,7 @@ gelorum custodientium malos. — *Ad q. incid. 1.* Volunt enim, malos quos nover
 
 Third, it is asked whether the Angel incurs any harm from the damnation of the one in his custody. And that he does, it seems:
 
-*To the opposite.* 1. Third [Book of] Kings, chapter twenty[^1]: *Guard this man; if he should fall, your soul will be for his soul;* from which it is gathered that the Lord commits [the man] to be guarded on this pact, that, if the one guarded is lost, he shall be required from the hand of the guardian. If therefore a man is lost, it seems that the Angel guarding him incurs danger to his own salvation; and this seems
+*To the opposite.* 1. Third [Book of] Kings, chapter twenty[^1]: *Guard this man; if he should fall, your soul will be for his soul;*[^4] from which it is gathered that the Lord commits [the man] to be guarded on this pact, that, if the one guarded is lost, he shall be required from the hand of the guardian. If therefore a man is lost, it seems that the Angel guarding him incurs danger to his own salvation[^2]; and this[^3] seems
 
 <!-- page 287 -->
 

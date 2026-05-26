@@ -29,13 +29,13 @@ format_version: 1
 
 ### Articulus II. *De caelis quoad figuram.*
 
-Consequenter quaeritur de caelis quantum ad figuram. Et circa hoc quaeruntur duo. Primo quaeritur, utrum caeli habeant orbicularem figuram. Secundo quaeritur, utrum habeant dextram et sinistram.
+Consequenter quaeritur de caelis quantum ad figuram[^4]. Et circa hoc quaeruntur duo. Primo quaeritur, utrum caeli habeant orbicularem figuram. Secundo quaeritur, utrum habeant dextram et sinistram.
 
 ### Quaestio I. *An caelum sit figurae orbicularis.*
 
-Quod autem habeant orbicularem figuram, videtur:
+Quod autem habeant orbicularem figuram, videtur[^6]:
 
-1. Et primo experientia sensus. Nam in quamcumque partem terrae vel aquae quis eat, caelum semper videtur aequaliter distare a terra[^1]; hoc autem non esset, nisi haberet orbicularem figuram: ergo etc.
+1. Et primo experientia sensus. Nam in quamcumque partem terrae vel aquae quis eat, caelum semper videtur aequaliter distare a terra[^1]; hoc autem non esset, nisi haberet orbicularem figuram: ergo etc.[^5]
 
 2. Item, videmus sensibiliter, caelum moveri circulariter; sed motus circularis non competit nisi figurae circulari: ergo caelum est orbicularis figurae[^2].
 
@@ -89,13 +89,13 @@ Propter quod ad praedictam quaestionem respondent et iuxta rationis et sensus at
 
 ### Article II. *On the heavens with respect to figure.*
 
-It is then asked concerning the heavens with respect to figure. And on this matter two questions are asked. First, it is asked whether the heavens have a spherical figure. Second, it is asked whether they have a right and a left.
+It is then asked concerning the heavens with respect to figure[^4]. And on this matter two questions are asked. First, it is asked whether the heavens have a spherical figure. Second, it is asked whether they have a right and a left.
 
 ### Question I. *Whether the heaven is of spherical figure.*
 
-That they have a spherical figure is shown:
+That they have a spherical figure is shown[^6]:
 
-1. And first by the experience of the senses. For to whatever part of the earth or of the water one may go, the heaven always appears to be equally distant from the earth[^1]; but this would not be so, unless it had a spherical figure: therefore etc.
+1. And first by the experience of the senses. For to whatever part of the earth or of the water one may go, the heaven always appears to be equally distant from the earth[^1]; but this would not be so, unless it had a spherical figure: therefore etc.[^5]
 
 2. Likewise, we see by the senses that the heaven is moved circularly; but circular motion does not befit anything except a circular figure: therefore the heaven is of spherical figure[^2].
 

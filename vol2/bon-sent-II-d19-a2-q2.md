@@ -53,7 +53,7 @@ Secundo quaeritur, utrum, Adam peccante, corpus eius posset perpetuari per esum 
 
 2. *Item,* sententia data fuit, Genesis secundo[^8]: *Quacumque die comederitis* etc. Si ergo illam sententiam nulla virtus creata potest infirmare, quantumcumque homo comederet de ligno vitae, necesse erat, ipsum mori et corpus eius resolvi. Et hoc ipsum dicit alius textus, Genesis tertio: *Pulvis es, et in pulverem* etc.
 
-3. *Item,* homo per peccatum similis factus est iumentis insipientibus; sed iumenta si comederent de ligno vitae, non propter hoc corpora eorum fierent indissolubilia: ergo si homo quantum ad conditionem mortis iumentis similis effectus est per culpam; quantumcumque de ligno vitae comederet, corpus eius dissolvi necesse esset.
+3. *Item,* homo per peccatum similis factus est iumentis insipientibus[^9]; sed iumenta si comederent de ligno vitae, non propter hoc corpora eorum fierent indissolubilia: ergo si homo quantum ad conditionem mortis iumentis similis effectus est per culpam; quantumcumque de ligno vitae comederet, corpus eius dissolvi necesse esset.
 
 4. *Item,* non minus est de mortali immortalem facere quam de mortuo vivum; sed mortuum suscitare hoc est virtutis solius Dei et virtutis infinitae: ergo corpus dissolubile ad indissolubile reducere, hoc est solius virtutis divinae: ergo si homo post peccatum de illo ligno comederet, corpus eius nihilominus dissolvi esset necesse.
 
@@ -106,7 +106,7 @@ Secondly it is asked whether, with Adam having sinned, his body could have been 
 
 2. *Likewise,* a sentence was given, Genesis second[^8]: *On whatever day you shall eat* etc. If therefore no created power can weaken that sentence, however much man might eat of the tree of life, it was necessary that he die and his body be dissolved. And this same thing the other text says, Genesis third: *Dust thou art, and unto dust* etc.
 
-3. *Likewise,* man through sin was made like the senseless beasts; but if the beasts were to eat of the tree of life, their bodies would not for that reason become indissoluble: therefore if man as regards the condition of death has been made like the beasts through fault; however much he might eat of the tree of life, his body would necessarily be dissolved.
+3. *Likewise,* man through sin was made like the senseless beasts[^9]; but if the beasts were to eat of the tree of life, their bodies would not for that reason become indissoluble: therefore if man as regards the condition of death has been made like the beasts through fault; however much he might eat of the tree of life, his body would necessarily be dissolved.
 
 4. *Likewise,* it is no less to make the immortal from the mortal than the living from the dead; but to raise the dead is of the power of God alone and of infinite power: therefore to reduce a dissoluble body to indissoluble, this is of divine power alone: therefore if man after sin were to eat of that tree, his body would nonetheless necessarily be dissolved.
 

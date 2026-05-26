@@ -495,10 +495,6 @@ Likewise there is a question about what he says: *But to alter himself by being 
 
     **En.** More on this similitude taken from splendor is given by Alexander of Hales, *Summa*, p. 1, q. 42, m. 5, a. 3, and the other authors alleged a little above, and Aegidius Romanus, here on the text.
 
-[^54]: **La.** Vat. contra plurimos codd. et ed. 1 minus bene *hoc*.
-
-    **En.** The Vatican [edition], against very many codices and ed. 1, less well [reads] *hoc*.
-
 [^55]: **La.** Aliqui codd. ut AITZ bb cc *enim*; ed. 1 *vero*.
 
     **En.** Some codices, as AITZ bb cc, [read] *enim*; ed. 1 [reads] *vero*.

@@ -117,6 +117,26 @@ Bucket A+B closed 2026-05-25 at commit `3276b94` (15 `en_indent_mix` normalized 
 - `bon-sent-II-d18-littera` [^15] (1 orphan; Gennadius c. 14)
 - `bon-sent-II-d19-a2-q2` [^9] (1 orphan; Psalm 48, 13)
 
+## Pass 2 final dispatch — 6 Bucket-C `orphan_app_defs` (2026-05-26)
+
+Final 6 Pass-2 FLAGs closed. Backups in `_backup-pass2-final-20260526/`. Per-flag disposition:
+
+1. **`vol1/bon-sent-I-d1-a2-q1.md` [^3]/[^4]/[^5]/[^6]** — Case-4 padding-DELETE. All four defs are EXACT DUPLICATES of `vol1/bon-sent-I-d1-a1-q3.md`'s [^13]/[^14]/[^15]/[^16] (Vat. additions *amorem*/*cognitionem* after *istum*/*illam*; *hoc* + omitted proposition after *ordinatione*; *scilicet usus Dei...* after *ultimum*; *in* for *ad*). Lemmas (`istum`, `ordinatione`, `ultimum`) live in the prior chunk's body, not in d1-a2-q1's "Articulus II" body. Defs removed; prefatory `>` note updated to clarify the [^3]-[^6] Quaracchi-numbered footers are carried by d1-a1-q3 ([^13]-[^16]).
+
+2. **`vol1/bon-sent-I-d9-dubia.md` [^54]** — Case-4 padding-DELETE. Per the chunk's own `transcription_status` (2026-05-12 polish-pass): the original phantom [^54] was deleted and body anchors re-mapped, but the orphan def [^54] (Vat. *hoc* variant) was never cleared. Sequential numbering [^53] then [^55] is intact in body; def [^54] removed as residual.
+
+3. **`vol2/bon-sent-II-d11-a2-q3.md` [^2]/[^3]/[^4]** — Case-3 anchor placement. Per chunk's own `## Notes`, these correspond to p.286 footers nn.5–7. p.286 holds only title + opener + obj.1 ("Tertii Regum vigesimo[^1]: *Custodi virum istum; qui si lapsus fuerit, erit anima tua pro anima illius;* …et hoc videtur dicere"). Placed [^4] (Vers.39) after the scripture quote close (`anima illius;[^4]`); [^2] (Cod. V *accidentale* / Vat. *creatum* additions) at `salutis suae[^2] periculum`; [^3] (In quaest. seq.) at `et hoc[^3] videtur dicere`. Mirrored in English at parallel clauses.
+
+4. **`vol2/bon-sent-II-d14-p1-a2-q1.md` [^4]/[^5]/[^6]** — Case-3 anchor placement. Defs: [^4] *Vide scholion ad praecedentem quaest.*; [^5] Chalcidius *in Timaeum* n.59 seqq.; [^6] *De hoc et seqq. fundam.* vide Aristot. II *de Caelo* text 22 seqq. Placed [^4] at ARTICULUS II opener clause-end ("Consequenter quaeritur de caelis quantum ad figuram[^4]"); [^6] at the question opener's "videtur[^6]:" (since it is a section-header footer covering "this and following fundamentals"); [^5] at end of arg 1 ("ergo etc.[^5]") covering the Chalcidius cosmological-observational citation that parallels arg 1's *experientia sensus*. Mirrored in English.
+
+5. **`vol2/bon-sent-II-d18-littera.md` [^15]** — Case-3 anchor placement. Def is "Gennadius, c. 14. Paulo inferius pro *cum corporibus* Vat. et edd. 2,3,4,5,6,7,9 *in corporibus*." Cap. VII body contains the *Ecclesiasticis Dogmatibus* quote with the exact lemma "cum corporibus per coitum seminari". Placed [^15] at `cum corporibus[^15]` in La and "with bodies[^15]" in En.
+
+6. **`vol2/bon-sent-II-d19-a2-q2.md` [^9]** — Case-3 anchor placement. Def is "Psalm. 48,13. — Paulo inferius pro *mortis* plures codd. *mortalitatis*." *Sed contra* arg 3 cites Psalm 48:13 verbatim ("homo per peccatum similis factus est iumentis insipientibus"). Placed [^9] at `iumentis insipientibus[^9]` in La and "the senseless beasts[^9]" in En; the *mortis*/*mortalitatis* variant ("paulo inferius") sits in the following clause "quantum ad conditionem mortis iumentis similis effectus est".
+
+**Audits post-fix:** `audit-style-formatting.py` orphan_app_defs 6 → **0**, total FLAGs 6 → **0**; `audit-paraphrase.py` clean across all touched distinctions (d.1 Vol I 0/0; d.9 Vol I 0/0; d.11 Vol II 0/0; d.14 Vol II 0/1 HIGH from unrelated sibling-skeleton; d.18–19 Vol II 0/0). Build green: 879 routes / 639 translated / 2 books (no delta).
+
+**Pass 2 status: CLOSED.** All originally-flagged Pass-2 items resolved across the Bucket-A/B (2026-05-25 PM), Bucket-C grouped dispatch (2026-05-26 AM/midday), and this final 6-flag dispatch (2026-05-26 PM).
+
 ## Pass 3 — cross-chunk boundary integrity sweep (d.11–d.20)
 
-(pending Pass 2 close — 6 Bucket-C orphan_app_defs FLAGs remaining)
+(NOW the next blocker — Pass 2 CLOSED 2026-05-26. Known Pass-1 follow-up: d18-a2-q2 p.450 R-2 footer block ⁶/⁷/⁸ — *Haec ex Gregorio sumta solutio iam supra d. 12* + *Codd. Y oa propter* + *Cfr. supra pag. 20, nota 7*.)

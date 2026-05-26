@@ -171,7 +171,7 @@ From this also is clear why it is not defined by faith and[^23] hope, as it is b
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They follow the Quaracchi editors' per-page footer sequence (p. 35 = [^1]-[^8]; p. 36 = [^9]-[^22]; p. 37 = [^23]-[^31]). Per-page footer entries whose anchor falls above the start of this chunk's text on p. 35 are nevertheless rendered in full, as they belong to the same printed-page footer block.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They follow the Quaracchi editors' per-page footer sequence (p. 35 = [^1]-[^8]; p. 36 = [^9]-[^22]; p. 37 = [^23]-[^31]). Per-page footer entries whose anchor falls above the start of this chunk's text on p. 35 ([^3]-[^6] of the Quaracchi sequence) are carried by the prior chunk `bon-sent-I-d1-a1-q3` (as its [^13]-[^16]) where their lemmas actually live.
 
 [^1]: **La.** Vers. 1. — Paulo ante exhibemus lectionem codd. RVWXYZ aa bb; alii codd. autem, omisso *Deus*, ponunt *Dominus* post *Abrahae*, a quibus non multum dissidet Vat. legendo: *est ipse, sicut Dominus dixit ad Abraam*. Mox fide antiquiorum mss. et ed. 1 post *utitur* expunximus *Deo*.
 
@@ -180,22 +180,6 @@ From this also is clear why it is not defined by faith and[^23] hope, as it is b
 [^2]: **La.** Vat. praeter fidem mss. et ed. 1 hic addit *et sic utitur*.
 
     **En.** The Vatican edition, against the testimony of the manuscripts and ed. 1, here adds *et sic utitur*.
-
-[^3]: **La.** Vat. post *istum* addit *amorem* et post *illam* adiungit *cognitionem*, quae tamen auctoritate mss. et ed. 1 tanquam superflua expunximus.
-
-    **En.** The Vatican edition after *istum* adds *amorem*, and after *illam* appends *cognitionem*, which however on the authority of the manuscripts and ed. 1 we have expunged as superfluous.
-
-[^4]: **La.** Cod. cc cum ed. 1 *hoc*. Mox antiquiores codd. et ed. 1 omittunt propositionem, quae habetur in Vat. et cod. cc post *ordinatione*, scilicet: *et illo modo non contingit uti Deo, quia non convenit ordinari*. — Fusius de hac re tractat S. Doctor II. Sent. d. 28. a. 1. q. 1.
-
-    **En.** Cod. cc with ed. 1 reads *hoc*. Next, the older codd. and ed. 1 omit the proposition which is found in the Vatican and cod. cc after *ordinatione*, namely: *et illo modo non contingit uti Deo, quia non convenit ordinari*. — The Holy Doctor treats this matter more fully at II Sent. d. 28 a. 1 q. 1.
-
-[^5]: **La.** Scilicet, cuius usus bonus, et ipsum bonum. — Vat. cum cod. cc paulo ante post *ultimum* praeter fidem antiquiorum mss. et ed. 1 addit *scilicet usus Dei aut est bonus aut malus* etc.
-
-    **En.** Namely, [the thing] whose use is good, and itself the good. — The Vatican edition with cod. cc, a little earlier, after *ultimum*, against the testimony of the older manuscripts and ed. 1, adds *scilicet usus Dei aut est bonus aut malus*, etc.
-
-[^6]: **La.** Ex mss. et ed. 1 substituimus *in* loco *ad*. — De hoc secundo responsionis membro vide supra q. 1. circa principium conclusionis.
-
-    **En.** From the manuscripts and ed. 1 we have substituted *in* for *ad*. — On this second member of the response, see above q. 1, near the beginning of the conclusion.
 
 [^9]: **La.** In Vat. hic additur *definitione probatur idipsum*, quod tamen abest a mss. et ed. 1. — De hac definitione vide lit. Magistri, c. 3.
 
