@@ -1,15 +1,31 @@
-# Next session — **d.11–d.20 polish-blocker Pass 1 essentially DONE. 8/9 flags closed; only d20-a1-q4 remains (own dispatch). Then Pass 2 + Pass 3 before d.21-littera dispatch.**
+# Next session — **d.11–d.20 polish-blocker Pass 1 CLOSED 2026-05-25 (9/9 flags resolved). NEXT BLOCKER: Pass 2 (style/formatting audit, full corpus d.1 → d.20). Then Pass 3 (cross-chunk boundary sweep d.11–d.20). Only after all three close → dispatch d.21-littera.**
 
 **d.1–d.20 ALL DONE = 228 chunks promoted.** Build: 639 translated, 879 quaestio routes. Polish log live at `manual-review/d11-d20-polish-resolution-log.md`.
 
-## ⚠ NEXT ACTION: resolve final Pass 1 flag (d20-a1-q4), then run Pass 2 + Pass 3
+## ⚠ NEXT ACTION: Pass 2 — style/formatting audit (full corpus, d.1 → d.20)
 
-600 dpi crops cached in `raw/vision/vol2/r600/` for pp.333, 334, 335, 337, 338, 341, 342, 343, 346, 350, 450, 451, 482. The d11-d20 polish log table tracks per-flag resolution.
+Per CLAUDE.md "Polish-blocker cadence" §2 (NOT scoped to the last decade — Pass 2 runs across **ALL Tier-2 chunks** every polish cycle, so formatting drift can't compound silently). Programmatic scan across `vol1/` + `vol2/` for:
+- Required Tier-2 frontmatter fields (`title_la`, `title_en`, `printed_pages`, `pdf_pages`, `source`, `has_apparatus`, `transcription_status`).
+- Standard structure (`## Latin`, `## English`, `## Apparatus`).
+- Apparatus marker pairing: every `[^N]:` def has matching body anchors in **both** Latin and English bodies.
+- Page-break presence (`<!-- page N -->`).
+- `transcription_status` starts with `Phase C Tier 2 complete —`.
+- Legacy auto-chunked duplicates (e.g. a `d{N}-divisio.md` superseded by `d{N}-p1-divisio.md` + `d{N}-p2-divisio.md`).
+- `**En.**` indent 4-vs-5-space drift (d.27–d.30 caught one of these in Vol I — apply same scan to Vol II).
 
-**Remaining flag (1 chunk):**
-- `d20-a1-q4` — `[^1]` anchor on *intelligibile* vs *intendetur* future-passive variant on p.482 *Respondeo* opener
+Fix what's mechanical in-pass; flag the rest into the polish log Pass 2 section. Do **NOT** dispatch d.21-littera until Pass 2 + Pass 3 both close.
 
-**Closed this session — late PM 2026-05-25 (5 d.14 flags across 5 chunks):**
+After Pass 2 → **Pass 3** (cross-chunk boundary integrity sweep, d.11–d.20 only; known follow-up flagged in the polish log: d18-a2-q2 missing p.450 R-2 footer block ⁶/⁷/⁸ — *Haec ex Gregorio sumta solutio iam supra d. 12* + *Codd. Y oa propter* + *Cfr. supra pag. 20, nota 7*).
+
+## Pass 1 final closure (2026-05-25, this session)
+
+- `d20-a1-q4` p.482 [^1] — RESOLVED at 600 dpi (`raw/vision/vol2/r600/p-482-r600.png`): footer ¹ reads *Non pauci codd. cum edd. 3, 4, 5 intendetur*; the manuscript variant *intendetur* (future passive of *intendere*) substitutes for the printed *intelligibile* at the *Respondeo* opener (*quod quidem non videtur esse intelligibile¹*), so the existing anchor placement is correct. Apparatus corrected (edd. 2,3,4 → 3,4,5; gloss + `[?]` markers removed in both La and En). Chunk `## Notes` and `transcription_status` updated. Audits clean (paraphrase 0/0, apparatus-count 0 flagged, header diffs within Vol II tolerance). Build verified: 879 questions / 639 translated.
+
+**9/9 d.11–d.20 Pass 1 flags now closed.** All 600 dpi crops at `raw/vision/vol2/r600/` (pp.333, 334, 335, 337, 338, 341, 342, 343, 346, 350, 450, 451, 482).
+
+## Earlier d.11–d.20 Pass 1 closures (2026-05-25 PM)
+
+**Closed previous session — late PM 2026-05-25 (5 d.14 flags across 5 chunks):**
 - `d14-p1-a2-q1` (×2) — [^2] inline ACCEPT-ILLEGIBLE at 600 dpi (no printed `²` on arg. 2; Quaracchi attached cross-ref implicitly); Mediavilla sigil `F1 (T a secunda manu)` RESOLVED — parenthesis unambiguous at 600 dpi.
 - `d14-p1-a2-q2` — [^9] inline ⁹ RESOLVED at 600 dpi (printed superscript present at clause-end of *quod nullo modo concedi potest⁹.*).
 - `d14-p1-a3-q1` — Scholion I *Hucusque proxime accedunt* RESOLVED-VACUOUS (phrase not in printed body or raw OCR).
