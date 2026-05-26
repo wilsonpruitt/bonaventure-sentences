@@ -1,4 +1,12 @@
-# Next session — **d.11–d.20 polish-blocker Pass 2: Bucket A+B done; 20 Bucket-C eyes-on FLAGs remain (was 21) — see `manual-review/d11-d20-pass2-style-audit.md`. Pass 3 still blocked.**
+# Next session — **d.11–d.20 polish-blocker Pass 2: Bucket-C grouped dispatch closed 14 of 20 FLAGs; 6 Bucket-C `orphan_app_defs` FLAGs remain (PDF-walk required). Pass 3 still blocked.**
+
+## 2026-05-26 — Bucket-C grouped dispatch (this session)
+
+20 → 6 FLAGs. **Group 1 (orphan_app_defs):** 7 of 12 closed via Case-4 padding-delete (`d43-a1-q2 [^2]`, `d8-p1-a1-q2 [^35]`, `d13-a2-q2 [^24]`, `d13-a3-q1 [^25]`, `d13-a3-q2 [^23]`, `d17-a1-q2 [^24]`, `d1-a2-q1 [^7]+[^8]`); 5 chunks STOP-FLAG-DEFERRED for PDF-walk (mid-range substantive content needing 450–600 dpi reads to place missing body anchors at correct lemmas: `d1-a2-q1 [^3]/[^4]/[^5]/[^6]`, `d9-dubia [^54]`, `d11-a2-q3 [^2]/[^3]/[^4]`, `d14-p1-a2-q1 [^4]/[^5]/[^6]`, `d18-littera [^15]`, `d19-a2-q2 [^9]`). **Group 2 (anchor_only_la):** all 5 RESOLVED via English-side mirror (`d42-a1-q3 [^24]`, `d45-dubia [^25]` was a false-positive in the prefatory note prose, `d13-a2-q2 [^20]`, `d15-a2-q2 [^9]`, plus the consequent `d45-dubia body_anchor_no_def_la [^25]`). **Group 3 (specials):** all 3 RESOLVED — `d12-a2-q2` frontmatter backfilled (6 Tier-2 keys per Vol II offset +22); `d8-p2-divisio` apparatus moved to proper `## Apparatus` section + English `[^3]` anchor mirrored at "purely[^3]"; `d3-divisio` renamed → `d3-p1-divisio` with `pars: 1` added and `tools/backfill-line-bounds.py` updated. Build: 879 routes / 639 translated / 2 books (route delta = 0; the d.3 rename is same-chunk-new-filename and build groups by frontmatter `book:`). Audits clean for touched distinctions (no new CRITICAL). Backups in `_backup-d43-a1-q2-pre-fix-20260526/` and `_backup-pass2-bucket-c-20260526/`. Detail: `manual-review/d11-d20-polish-resolution-log.md` § Bucket-C grouped dispatch 2026-05-26.
+
+**Pass 2 NOT yet closed. Bucket-C residual: 6 FLAGs (all `orphan_app_defs`).** Each needs the corresponding printed page's footer block walked at 450–600 dpi to place the missing body anchor at the right lemma (Case 3 anchor-stripping). None are Case-4 padding (the trailing-padding orphans are now all closed). Per the per-chunk time cap, dispatch one chunk per subagent and STOP-FLAG-DEFER again if the lemma cannot be located in a single ~10-min pass.
+
+---
 
 ## 2026-05-26 — Bucket-C single-flag dispatch closed (`d27-p1-a1-q2`)
 
