@@ -1,4 +1,13 @@
-# Next session — **d.11–d.20 polish-blocker Pass 2: Bucket A+B done; ~20 Bucket-C eyes-on FLAGs remain — see `manual-review/d11-d20-pass2-style-audit.md`. Pass 3 still blocked.**
+# Next session — **d.11–d.20 polish-blocker Pass 2: Bucket A+B done; 20 Bucket-C eyes-on FLAGs remain (was 21) — see `manual-review/d11-d20-pass2-style-audit.md`. Pass 3 still blocked.**
+
+## 2026-05-26 — Bucket-C single-flag dispatch closed (`d27-p1-a1-q2`)
+
+The high-stakes `orphan_app_defs` flag on `vol1/bon-sent-I-d27-p1-a1-q2.md` (23 consecutive orphan defs `[^26]–[^48]`) was diagnosed as a **duplicate-padding artifact** from the 2026-05-09 Wave 9b rebuild — not body truncation, not cascade-merge, not anchor-stripping. The padded entries restated lemma-variant content already inline within `[^1]–[^25]`; the chunk body is complete on pp. 468–474 (Anecdota I + II on pp. 472–474 carry no Quaracchi footers). Removed `[^26]–[^48]` and the prefatory `>` note; apparatus returns to 25 body-anchored entries. Audits clean for d.27 (paraphrase 0/0, headers OK, apparatus-count d27-p1-a1-q2 not flagged); style-formatting drops d27-p1-a1-q2 from `orphan_app_defs` (13 → 12); build green: 879 routes / 639 translated / 2 books. Polish log Pass 2 Bucket-C section started at `manual-review/d11-d20-polish-resolution-log.md`. Backup at `_backup-d27-p1-a1-q2-pre-rebuild-20260526/` (gitignored). Commit `2a87757`.
+
+**Pass 2 Bucket-C remaining: 20 FLAGs.** Next dispatch picks the next high-stakes flag from `manual-review/d11-d20-pass2-style-audit.md` (12 remaining `orphan_app_defs`, 4 `anchor_only_la`, 1 `body_anchor_no_def_la`, 1 `missing_section`, 1 `missing_frontmatter`, 1 `legacy_duplicate`).
+
+---
+
 
 **d.1–d.20 ALL DONE = 228 chunks promoted.** Build: 639 translated, 879 quaestio routes. Pass 1 polish log at `manual-review/d11-d20-polish-resolution-log.md`. **Pass 2 audit report at `manual-review/d11-d20-pass2-style-audit.md`** (41 → 21 FLAGs after Bucket A+B cleanup 2026-05-25 PM: 15 `en_indent_mix` normalized to 5-space via new `tools/normalize-en-indent.py`; 5 `missing_frontmatter` chunks (d10-a2-q2/q3, d10-dubia, d14-a2-q2, d14-dubia) got `pdf_pages` + `source` per Vol I pt1 offset `pdf=printed+102`; legacy `d3-divisio` KEPT — content pp.66-67 not covered by p2-divisio (p.80 only) and `tools/backfill-line-bounds.py` still references it; `d8-p2-divisio` `missing_section` left FLAGged for Wilson (`has_apparatus: true`)). Audit script: `tools/audit-style-formatting.py` (re-runnable for next decade cycle).
 
