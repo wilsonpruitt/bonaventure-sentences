@@ -24,7 +24,7 @@ declarations from each chunk's `transcription_status` / `## Notes`.
 | `d14-p1-littera` | pp.333–334 | three marginal labels *Dubium 3.* / *Dubium 1.* (×3, body inline) | ✓ RESOLVED 2026-05-25 — 600 dpi confirms Pars II Dubium numbering is continuous (Cap. VII=1/2, Cap. IX=3, Cap. X=4); Cap. IX *Dubium 3.* real (Lat+Eng); Cap. X corrected from *Dubium 1.* → *Dubium 4.* (Lat+Eng) |
 | `d18-a2-q2` | p.450 | Conclusio `Damasceni[^23] [?]` — second-anchor question | ✓ RESOLVED 2026-05-25 — `[^23]` covers Greg.Naz.+Damasceni+Augustini *de Spiritu*; stray `[?]` was OCR spacing artifact, removed |
 | `d18-a2-q2` | p.451 | `²` on *absque dolore* — stray vs real anchor | ✓ RESOLVED 2026-05-25 — `²` is real at 600 dpi; p.451 L-2 footer ² (*Cfr. infra d. 19*) reclaimed as new `[^25]` (was dropped during chunking, not held by d18-a2-q3) |
-| `d20-a1-q4` | p.482 | `[^1]` anchor on *intelligibile* / *intendetur* variant | PENDING |
+| `d20-a1-q4` | p.482 | `[^1]` anchor on *intelligibile* / *intendetur* variant | ✓ RESOLVED 2026-05-25 — 600 dpi `p-482-r600.png` footer ¹ reads *Non pauci codd. cum edd. 3, 4, 5 intendetur*; variant substitutes for *intelligibile* at *Respondeo* opener; existing anchor placement at *intelligibile[^1]* correct; apparatus edd. corrected 2,3,4 → 3,4,5; `[?]` removed |
 
 600 dpi crops generated 2026-05-25 in `raw/vision/vol2/r600/p-{N}-r600.png` for
 pp. 333, 334, 335, 337, 338, 341, 342, 343, 346, 350, 451, 482.
@@ -47,8 +47,8 @@ Build verified: 2 books / 879 questions / 639 translated.
 
 600 dpi crops added this session: p.450 (originally not pre-cached) at `raw/vision/vol2/r600/p-450-r600.png`.
 
-### Remaining pending (1 flag, 1 chunk)
-- d20-a1-q4: [^1] anchor on *intelligibile* / *intendetur*
+### Remaining pending
+None. Pass 1 CLOSED 2026-05-25.
 
 ### Session 2026-05-25 (later PM) — 5 d.14 flags closed across 5 chunks
 - d14-p1-a2-q1 (×2): [^2] inline ACCEPT-ILLEGIBLE + Mediavilla sigil parenthesis RESOLVED
@@ -58,6 +58,12 @@ Build verified: 2 books / 879 questions / 639 translated.
 - d14-p1-littera: 3 Dubium labels RESOLVED (Pars II continuous numbering; Cap. X corrected 1→4)
 
 Pass 1 essentially closed; only d20-a1-q4 remains (deferred to its own dispatch).
+
+### Session 2026-05-25 (final) — d20-a1-q4 closed; Pass 1 CLOSED
+
+- **d20-a1-q4, p.482 [^1].** 600 dpi `raw/vision/vol2/r600/p-482-r600.png` shows footer ¹ as *Non pauci codd. cum edd. 3, 4, 5 intendetur*. The manuscript variant *intendetur* (future passive of *intendere*) substitutes for the printed *intelligibile* at the *Respondeo* opener (*quod quidem non videtur esse intelligibile*); the prior anchor placement at *intelligibile[^1]* is therefore correct. Apparatus corrected (edd. 2,3,4 → 3,4,5; gloss + `[?]` markers removed in both La and En). Chunk `## Notes` updated; transcription_status amended.
+
+**Pass 1 (d.11–d.20) CLOSED 2026-05-25.** Next blocker: Pass 2 (style/formatting audit, full corpus per CLAUDE.md "Polish-blocker cadence" §2).
 
 ## Pass 2 — style/formatting audit (d.1–d.20)
 

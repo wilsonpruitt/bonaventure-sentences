@@ -13,7 +13,7 @@ pdf_pages: [504, 505]
 source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 482–483"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF (raw lines 33898–33968), fresh literal English translation, full apparatus from p.482 footers ¹–⁷ + p.483 footers ¹–² (9 entries), no scholion (sibling-pointer to q3's commentator-list scholion on p.482 L-2) (2026-05-25)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF (raw lines 33898–33968), fresh literal English translation, full apparatus from p.482 footers ¹–⁷ + p.483 footers ¹–² (9 entries), no scholion (sibling-pointer to q3's commentator-list scholion on p.482 L-2); [^1] anchor + edd. nos. confirmed at 600 dpi (d.11–d.20 polish-blocker Pass 1) (2026-05-25)"
 format_version: 1
 ---
 
@@ -104,9 +104,9 @@ sicut ostendunt rationes secundo inductae — as the reasons brought forward sec
 
 > The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Note 1 of each printed page begins a new sequence; we have renumbered consecutively for the chunk.
 
-[^1]: **La.** Non pauci codd. cum edd. 2, 3, 4 *intendetur*. [Variant probably for the verb *intelligibile* in *quod quidem non videtur esse intelligibile*; reading and anchor location flagged for 600-dpi polish-blocker pass.] [?]
+[^1]: **La.** Non pauci codd. cum edd. 3, 4, 5 *intendetur* (pro *intelligibile*).
 
-    **En.** Not a few codices, with editions 2, 3, 4, read *intendetur*. [Likely variant for the verb in "which indeed does not seem to be intelligible"; reading flagged for the decade-polish pass.] [?]
+    **En.** Not a few codices, with editions 3, 4, and 5, read *intendetur* (in place of *intelligibile*).
 
 [^2]: **La.** Cap. 26: *Sine ardoris illecebroso stimulo, cum tranquillitate animi et corporis, nulla corruptione integritatis infunderetur gremio maritus uxoris.* (Virgil. *Aeneid.* 8.).
 
@@ -149,5 +149,5 @@ sicut ostendunt rationes secundo inductae — as the reasons brought forward sec
 - **Apparatus (9 entries).** p.482 L-2 ¹–³ + p.482 R-2 ⁴–⁷ + p.483 L-2 ¹–² — renumbered consecutively as [^1]–[^9] in body-anchor order. Apparatus body-anchor order: [^1] *intendetur* variant on *Respondeo* opener; [^2] full Aug. *de Civ. Dei* XIV c.26 Virgilian-allusion quote on arg 1; [^3] long Aristot. VI *Topic.* + Damasc. *de Fide orth.* II c.22 *dolor est passionis sensus* on arg 2; [^4] *dispositionis* variant on arg 4 *disponens*; [^5] *fuit* / *corporis*-vs-*corruptionis* variants on *Sed contra* arg 1 close; [^6] *claustrorum* manuscript variants on *Fundamenta* arg 4; [^7] Aug. *de Civ. Dei* XIV c.26 short citation on *Respondeo* *Augustini* anchor; [^8] Aug. *de Civ. Dei* XIV cc.16, 23, 24 + lit. Mag. c.1 on *obedirent rationi illa membra*; [^9] *Vide scholion ad praecedentem quaest.* sibling-pointer.
 - **No scholion.** `has_scholion: false` per locked Vol II Override step 5 — the commentator-list SCHOLION on p.482 L-2 (*De hac et sequente quaest.*: Alex. Hal., B. Albert, Petr. a Tar., Richard. a Med., Aegid. R., Durand.) jointly covers q3 + q4 and is held with d20-a1-q3 (first sibling). Apparatus [^9] is the explicit *Vide scholion ad praecedentem quaest.* sibling-pointer.
 - **Hand-offs.** Received from d20-a1-q3: nothing forwarded (q3 confirmed all p.482 L-2 ¹–³ are native to q4). Forward to d20-a1-q5: **none** — p.483 L-2 footers ³+ all anchor in QUAESTIO V body (Aug. IX *de Gen. ad lit.* c.7 n.12 + the rest of the p.483 footer bank) which opens on p.483 L-0 mid-column.
-- **[?] flags.** One — [^1] anchor on the *intelligibile* word in the *Respondeo* opener (*quod quidem non videtur esse intelligibile*). The footer variant *intendetur* is a future-passive form whose printed antecedent is uncertain from the OCR; *intelligibile* is the closest morphological match in the body, but a 600-dpi pass is needed to confirm. Tracked for the d.11–d.20 decade-polish-blocker pass after d.20 closes.
+- **[?] flags.** None. d.11–d.20 polish-blocker Pass 1 (2026-05-25, 600 dpi `raw/vision/vol2/r600/p-482-r600.png`) RESOLVED [^1]: footer ¹ reads *Non pauci codd. cum edd. 3, 4, 5 intendetur* (apparatus corrected from prior *edd. 2, 3, 4*); the manuscript variant *intendetur* substitutes for *intelligibile* at the *Respondeo* opener (*quod quidem non videtur esse intelligibile¹*), so the existing anchor placement is correct; `[?]` markers and "anchor location flagged" gloss removed from both La and En apparatus entries.
 - **Standard OCR cosmetics silently corrected:** `Pririio`→Primo, `quaeritnr`→quaeritur, `utrnm`→utrum, `sletisset`→stetisset, `Iteim`→Item, `corriiptio`→corruptio, `prinripium`→principium, `immortalilas`→immortalitas, `slatii`→statu, `raanente`→manente, `njsi pBc`→nisi per, `tiinc`→tunc, `poiest`→potest, `muher`→mulier, `stroruni`→strorum, `Pespondeo`→Respondeo, `propnsita`→proposita, `plns`→plus, `qiiam`→quam, `ulilitalis`→utilitatis, `orlum`→ortum, `Auguslini`→Augustini, `qnod`→quod, `inarittis`→maritus, `conimixtio`→commixtio, `xoiandum`→Notandum, `claustrorura`→claustrorum, `nalurae`→naturae, `poeiiam`→poenam, `cognovissel`→cognovisset, `clauslrorum`→claustrorum, `geneniliva`→generativa, `oljedirent`→obedirent, `iiiductae`→inductae, `faisset`→fuisset, `poenaiis`→poenalis, `innno`→immo, `inenibra`→membra, `nianus`→manus, `ineinbrislintestate`→membris, `proptcr`→propter, `iiorret`→horret, `iilum`→illum.
