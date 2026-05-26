@@ -1,6 +1,6 @@
-# Next session — **d.11–d.20 polish-blocker Pass 2 CLOSED 2026-05-25 (41 FLAGs surfaced, 0 mechanical fixes applied — all need eyes-on). NEXT BLOCKER: Pass 3 (cross-chunk boundary sweep d.11–d.20). Only after Pass 3 closes → dispatch d.21-littera.**
+# Next session — **d.11–d.20 polish-blocker Pass 2: Bucket A+B done; ~20 Bucket-C eyes-on FLAGs remain — see `manual-review/d11-d20-pass2-style-audit.md`. Pass 3 still blocked.**
 
-**d.1–d.20 ALL DONE = 228 chunks promoted.** Build: 639 translated, 879 quaestio routes. Pass 1 polish log at `manual-review/d11-d20-polish-resolution-log.md`. **Pass 2 audit report at `manual-review/d11-d20-pass2-style-audit.md`.** Audit script: `tools/audit-style-formatting.py` (re-runnable for next decade cycle).
+**d.1–d.20 ALL DONE = 228 chunks promoted.** Build: 639 translated, 879 quaestio routes. Pass 1 polish log at `manual-review/d11-d20-polish-resolution-log.md`. **Pass 2 audit report at `manual-review/d11-d20-pass2-style-audit.md`** (41 → 21 FLAGs after Bucket A+B cleanup 2026-05-25 PM: 15 `en_indent_mix` normalized to 5-space via new `tools/normalize-en-indent.py`; 5 `missing_frontmatter` chunks (d10-a2-q2/q3, d10-dubia, d14-a2-q2, d14-dubia) got `pdf_pages` + `source` per Vol I pt1 offset `pdf=printed+102`; legacy `d3-divisio` KEPT — content pp.66-67 not covered by p2-divisio (p.80 only) and `tools/backfill-line-bounds.py` still references it; `d8-p2-divisio` `missing_section` left FLAGged for Wilson (`has_apparatus: true`)). Audit script: `tools/audit-style-formatting.py` (re-runnable for next decade cycle).
 
 ## Pass 2 closure (2026-05-25, this session)
 
