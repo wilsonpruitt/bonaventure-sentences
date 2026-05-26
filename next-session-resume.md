@@ -1,6 +1,20 @@
-# Next session — **d.11–d.20 polish-blocker Pass 2: Bucket-C grouped dispatch closed 14 of 20 FLAGs; 6 Bucket-C `orphan_app_defs` FLAGs remain (PDF-walk required). Pass 3 still blocked.**
+# Next session — **d.11–d.20 polish-blocker Pass 2 CLOSED 2026-05-26. Pass 3 (cross-chunk boundary integrity sweep d.11–d.20) is now the next blocker before d.21-littera dispatch.**
 
-## 2026-05-26 — Bucket-C grouped dispatch (this session)
+## 2026-05-26 PM — Pass 2 final dispatch closed (6/6 orphan_app_defs)
+
+Final 6 Bucket-C `orphan_app_defs` FLAGs all closed: **`d1-a2-q1` [^3]–[^6]** Case-4-DELETE (exact duplicates of `d1-a1-q3` [^13]–[^16] — lemmas live in prior chunk, not in d1-a2-q1's "Articulus II" body); prefatory `>` note updated to clarify the carrier. **`d9-dubia` [^54]** Case-4-DELETE (residual after 2026-05-12 phantom-cleanup left the def behind). **`d11-a2-q3` [^2]/[^3]/[^4]** Case-3 anchor placement on p.286 obj.1 (scripture-quote close + *salutis suae* + *et hoc videtur dicere*). **`d14-p1-a2-q1` [^4]/[^5]/[^6]** Case-3 anchor placement at ARTICULUS II opener + question opener + arg 1 close (Chalcidius cosmological obs.). **`d18-littera` [^15]** Case-3 anchor on Cap. VII "cum corporibus" (Gennadius c.14 variant). **`d19-a2-q2` [^9]** Case-3 anchor on Sed contra arg 3 "iumentis insipientibus" (Psalm 48:13).
+
+**Audits:** `audit-style-formatting.py` → orphan_app_defs 6 → **0**, total FLAGs **0**. `audit-paraphrase.py` clean across all touched distinctions (d.1, d.9 Vol I; d.11, d.14, d.18, d.19 Vol II). Build green: **879 routes / 639 translated / 2 books** (no delta). Backups in `_backup-pass2-final-20260526/` (gitignored). Polish log: `manual-review/d11-d20-polish-resolution-log.md` § Pass 2 final dispatch 2026-05-26. Commit `893f191`.
+
+**Pass 2 status: CLOSED.** 41 original FLAGs → 0 across Bucket-A/B (2026-05-25 PM) + Bucket-C grouped (2026-05-26 midday, commits `339d842`/`d6591d6`) + this final 6-flag dispatch (commit `893f191`).
+
+## ⚠ NEXT ACTION: Pass 3 — cross-chunk boundary integrity sweep (d.11–d.20 only)
+
+Per CLAUDE.md "Polish-blocker cadence" §3. For every chunk boundary in d.11–d.20 that falls inside a printed page, verify against 450 dpi PDF column bands that no body text or footnote was lost at the seam (IA djvu OCR cascade-merge failure mode — `d9-divisio` historical precedent). **Known Pass-1 follow-up:** `d18-a2-q2` missing p.450 R-2 footer block ⁶/⁷/⁸ (*Haec ex Gregorio sumta solutio iam supra d. 12* + *Codd. Y oa propter* + *Cfr. supra pag. 20, nota 7*). Log dispositions in `manual-review/d11-d20-polish-resolution-log.md` Pass 3 section. Only after Pass 3 closes → dispatch d.21-littera.
+
+---
+
+## 2026-05-26 — Bucket-C grouped dispatch (prior session)
 
 20 → 6 FLAGs. **Group 1 (orphan_app_defs):** 7 of 12 closed via Case-4 padding-delete (`d43-a1-q2 [^2]`, `d8-p1-a1-q2 [^35]`, `d13-a2-q2 [^24]`, `d13-a3-q1 [^25]`, `d13-a3-q2 [^23]`, `d17-a1-q2 [^24]`, `d1-a2-q1 [^7]+[^8]`); 5 chunks STOP-FLAG-DEFERRED for PDF-walk (mid-range substantive content needing 450–600 dpi reads to place missing body anchors at correct lemmas: `d1-a2-q1 [^3]/[^4]/[^5]/[^6]`, `d9-dubia [^54]`, `d11-a2-q3 [^2]/[^3]/[^4]`, `d14-p1-a2-q1 [^4]/[^5]/[^6]`, `d18-littera [^15]`, `d19-a2-q2 [^9]`). **Group 2 (anchor_only_la):** all 5 RESOLVED via English-side mirror (`d42-a1-q3 [^24]`, `d45-dubia [^25]` was a false-positive in the prefatory note prose, `d13-a2-q2 [^20]`, `d15-a2-q2 [^9]`, plus the consequent `d45-dubia body_anchor_no_def_la [^25]`). **Group 3 (specials):** all 3 RESOLVED — `d12-a2-q2` frontmatter backfilled (6 Tier-2 keys per Vol II offset +22); `d8-p2-divisio` apparatus moved to proper `## Apparatus` section + English `[^3]` anchor mirrored at "purely[^3]"; `d3-divisio` renamed → `d3-p1-divisio` with `pars: 1` added and `tools/backfill-line-bounds.py` updated. Build: 879 routes / 639 translated / 2 books (route delta = 0; the d.3 rename is same-chunk-new-filename and build groups by frontmatter `book:`). Audits clean for touched distinctions (no new CRITICAL). Backups in `_backup-d43-a1-q2-pre-fix-20260526/` and `_backup-pass2-bucket-c-20260526/`. Detail: `manual-review/d11-d20-polish-resolution-log.md` § Bucket-C grouped dispatch 2026-05-26.
 
