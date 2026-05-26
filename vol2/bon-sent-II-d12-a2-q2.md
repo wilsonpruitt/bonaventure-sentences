@@ -6,10 +6,17 @@ distinctio: 12
 articulus: 2
 quaestio: 2
 type: quaestio
+title_la: "Utrum materia prima producta sit in die, an ante omnem diem"
+title_en: "Whether primary matter was produced on a day, or before every day"
+printed_pages: [304, 305]
+pdf_pages: [326, 327]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 304–305"
+has_scholion: true
+has_apparatus: true
 line_start: 21553
 line_end: 21646
 word_count_latin: 1021
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 21553–21646) reconciled against vol2 p.304–305 column-band PDF reads, fresh literal English translation, full apparatus from raw OCR (13 entries: p.304 footers 1–8 + p.305 footers 1–5), scholion I (scholion II reserved for d12-a2-q3), no [?] flags (2026-05-24)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 21553–21646) reconciled against vol2 p.304–305 column-band PDF reads, fresh literal English translation, full apparatus from raw OCR (13 entries: p.304 footers 1–8 + p.305 footers 1–5), scholion I (scholion II reserved for d12-a2-q3), no [?] flags (2026-05-24); frontmatter Tier-2 keys backfilled 2026-05-26 (Pass 2 Bucket-C)"
 format_version: 1
 ---
 

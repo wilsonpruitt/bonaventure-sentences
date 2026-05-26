@@ -1,8 +1,9 @@
 ---
-id: "bon-sent-I-d3-divisio"
+id: "bon-sent-I-d3-p1-divisio"
 volume: 1
 book: 1
 distinctio: 3
+pars: 1
 type: divisio
 title_la: "Commentarius in Distinctionem III — Divisio Textus et Tractatio Quaestionum"
 title_en: "Commentary on Distinction III — Division of the Text and Treatment of the Questions"

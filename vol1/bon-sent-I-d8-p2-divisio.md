@@ -62,15 +62,6 @@ Tertio, propter illud quod dicitur in littera de anima rationali, quaeritur, utr
 
 Quarto quaeritur, utrum Deus sit in aliquo determinato genere.
 
-[^1]: **La.** In hac distinctione divisio textus partis II. in codd. hoc loco ponitur, dum alibi coniungitur cum divisione partis I. Cfr. ultima verba in divisione partis I. p. 150.
-    **En.** In this distinction the division of the text of Part II is placed in the codices at this point, while elsewhere it is joined with the division of Part I. Cf. the last words in the division of Part I, p. 150.
-
-[^2]: **La.** Aliqui codd., ut I Z, *illud* pro *ideo*; ed. 1 cum uno alterove cod., ut W, *illud ideo*.
-    **En.** Some codices, such as I Z, [read] *illud* in place of *ideo*; ed. 1 together with one or another codex, such as W, [reads] *illud ideo*.
-
-[^3]: **La.** *pure* — i.e. *plurima* sive *pluralitas*; lectio codd. ambigua.
-    **En.** *pure* — i.e. *plurima* or *pluralitas*; the reading of the codices is ambiguous.
-
 ---
 
 ## English
@@ -96,7 +87,7 @@ Above the Master showed two properties of the divine essence, namely truth and i
 
 The first part again has three parts. First he proposes that [God] is properly simple; secondly he shows that [this] does not befit corporeal nature, there: *But that you may know how [God is] simple, etc.* In the third [part], that [it] does not befit spiritual nature, there: *Also a spiritual creature, etc.*[^2]
 
-Likewise the part in which he shows that [God] is truly simple has three parts. In the first he shows that in God there is purely a multiplicity of names; in the second he shows that in him there is no diversity of categories, there: *But that in the nature of divinity there is no [diversity] of accidents, etc.* In the third he concludes that the names of the categories cannot properly be said in divine matters, and likewise the name of the first category, there: *Whence neither is "substance" properly said.*
+Likewise the part in which he shows that [God] is truly simple has three parts. In the first he shows that in God there is purely[^3] a multiplicity of names; in the second he shows that in him there is no diversity of categories, there: *But that in the nature of divinity there is no [diversity] of accidents, etc.* In the third he concludes that the names of the categories cannot properly be said in divine matters, and likewise the name of the first category, there: *Whence neither is "substance" properly said.*
 
 Likewise the part in which he shows that [God] is supremely simple has three [parts]. For first he shows that so great is the simplicity there, that there is no diversity of things there; secondly, that with this simplicity there stands a plurality of persons, there: *And since of so great a simplicity, etc.* Third and last, he sums up that a threefold property has been shown in the divine essence, there: *Behold how great an identity.*
 
@@ -111,3 +102,16 @@ Second, whether simplicity is a property of God.
 Third, on account of what is said in the text concerning the rational soul, it is asked whether the rational soul is in the whole body, in such a way that [it is] in each part.
 
 Fourth it is asked whether God is in any determinate genus.
+
+---
+
+## Apparatus
+
+[^1]: **La.** In hac distinctione divisio textus partis II. in codd. hoc loco ponitur, dum alibi coniungitur cum divisione partis I. Cfr. ultima verba in divisione partis I. p. 150.
+    **En.** In this distinction the division of the text of Part II is placed in the codices at this point, while elsewhere it is joined with the division of Part I. Cf. the last words in the division of Part I, p. 150.
+
+[^2]: **La.** Aliqui codd., ut I Z, *illud* pro *ideo*; ed. 1 cum uno alterove cod., ut W, *illud ideo*.
+    **En.** Some codices, such as I Z, [read] *illud* in place of *ideo*; ed. 1 together with one or another codex, such as W, [reads] *illud ideo*.
+
+[^3]: **La.** *pure* — i.e. *plurima* sive *pluralitas*; lectio codd. ambigua.
+    **En.** *pure* — i.e. *plurima* or *pluralitas*; the reading of the codices is ambiguous.

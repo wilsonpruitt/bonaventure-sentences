@@ -282,10 +282,6 @@ St. Thomas (here q. 1, a. 2) says: «To me it does not seem that there is in any
 
      **En.** Thus several codices such as F W aa; other codices with the editions read *convenit*.
 
-[^24]: **La.** In cod. cc et ed. 1 bene additur *autem*. Circa finem solutionis Vat. cum nonnullis codd. *corporalem materiam* pro *corporalem naturam,* refragante etiam ed. 1, et dein plures codd. cum ed. 1 *sustinendam animam* pro *suscipiendam animam*.
-
-     **En.** In codex cc and edition 1 *autem* is well added. Toward the end of the solution the Vatican edition with some codices reads *corporalem materiam* for *corporalem naturam,* edition 1 also being against it; and then several codices with edition 1 read *sustinendam animam* for *suscipiendam animam*.
-
 ---
 
 ## Notes

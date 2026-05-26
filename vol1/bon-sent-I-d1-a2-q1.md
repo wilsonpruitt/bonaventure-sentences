@@ -197,14 +197,6 @@ From this also is clear why it is not defined by faith and[^23] hope, as it is b
 
     **En.** From the manuscripts and ed. 1 we have substituted *in* for *ad*. — On this second member of the response, see above q. 1, near the beginning of the conclusion.
 
-[^7]: **La.** Vide lit. Magistri, c. 2.
-
-    **En.** See the letter of the Master [Lombard], c. 2.
-
-[^8]: **La.** Cfr. lit. Magistri, c. 2.
-
-    **En.** Cf. the letter of the Master [Lombard], c. 2.
-
 [^9]: **La.** In Vat. hic additur *definitione probatur idipsum*, quod tamen abest a mss. et ed. 1. — De hac definitione vide lit. Magistri, c. 3.
 
     **En.** In the Vatican edition there is here added *definitione probatur idipsum*, which however is absent from the manuscripts and ed. 1. — On this definition see the letter of the Master, c. 3.

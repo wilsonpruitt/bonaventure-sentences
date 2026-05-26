@@ -306,10 +306,6 @@ See the authors above in the scholion to a. 2, q. 1. — In *fundamentum* 3, fro
 
      **En.** Aristotle, *Nicomachean Ethics* I, c. 6: *The account of whiteness in snow and in white lead is the same*.
 
-[^25]: **La.** Text. 74. (c. 7.), ubi impugnat Democritum opinantem, «*si fieret vacuum quod medium est, perspici utique exquisite, etiam si formica in caelo esset*», et tenet, quod ad visionem eliciendam requiratur medium, quod obiectum deferendo immutet sensum, ideoque «*vacuo facto, nedum exquisite, sed omnino nihil videbitur*». — Textus Augustini est loc. cit. c. 3.
-
-     **En.** [Aristotle, *On the Soul* II,] text 74 (c. 7), where he refutes Democritus, who holds that «*if there were a vacuum which is the medium, [something] would surely be perspicuously seen, even if an ant were in the heaven*», and holds that for sight to be elicited a medium is required, which by carrying the object alters the sense — and therefore «*with a vacuum made, not only [not] exquisitely, but nothing at all will be seen*». — The text of Augustine is at loc. cit., c. 3.
-
 ## Notes
 
 - **Page span**: q1 opens at **p.323 L mid** (immediately below d13-a2-q2 scholion II.6's "*Auctores vide in scholio ad praecedentem quaestionem*") with the centred "ARTICULUS III." banner + italic rubric *De lucis effectu et irradiatione* + the Article opener "*Consequenter quaeritur de lucis effectu et irradiatione. Et circa hoc quaeruntur duo. Primo… Secundo…*" (folded into this q1 per Vol II convention — no standalone d13-a3-divisio chunk). QUAESTIO I title + body items 1–2 (videtur) on p.323 L→R lower; items 3–8 of videtur + Ad oppositum *Fundamenta* 1–8 + CONCLUSIO + Respondeo opener on p.324 L→R; Opiniones 1, 2, 3 + the joint *improbantur* paragraph + Opinio 4 + *Conclusio 2* + Solutio oppositorum 1 on p.325 L→R; Solutio oppositorum 2 (continuation) + 3, 4, 5, 6 on p.326 L→R; SCHOLION (single paragraph) at p.326 R bottom. d13-a3-q2 opens at top of p.327 (centred QUAESTIO II banner).

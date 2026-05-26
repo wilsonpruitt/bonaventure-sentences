@@ -29,7 +29,7 @@ format_version: 1
 
 ### DUBIA CIRCA LITTERAM MAGISTRI.
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Quaracchi numbers its footnotes per printed page; this chunk renumbers them sequentially [^1]–[^25] across the four printed pages bearing apparatus (812, 813, 814, 815). Page 811 itself carries no d.45-dubia footer — its footnotes belong to the preceding scholion of a.3 q.2.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation that follows. Each note is given first in Latin (`**La.**`), then in literal English (`**En.**`). Quaracchi numbers its footnotes per printed page; this chunk renumbers them sequentially 1 through 21 across the four printed pages bearing apparatus (812, 813, 814, 815). Page 811 itself carries no d.45-dubia footer — its footnotes belong to the preceding scholion of a.3 q.2.
 
 #### DUB. I.
 

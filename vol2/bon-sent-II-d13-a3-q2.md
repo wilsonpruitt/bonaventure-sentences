@@ -274,10 +274,6 @@ For the authors not cited, see a. 2, q. 1, scholion.
 
      **En.** Cod. O [reads] *et potest adesse et abesse* for *et recedit*. The Vatican [edition] after *completo* adds *in esse*; cod. T [reads] *est accidens*.
 
-[^23]: **La.** *De Div. Nom.* c. 2. § 4: *Sed si etiam unam quis ardentium [lampadum] subduxerit domo, coibit et proprium totum lumen, nullum quiddam aliorum luminum in semetipsa complectens aut suimet alteris relinquens. Erat enim earum, quod quidem dixi, omnium ad omnia perfectissima unitas, incommixta universaliter, et nulla parte confusa; et haec, existente in corpore aëre, et ex materiali igne pendente lumine*. Cfr. infra d. 26. q. 3. in corp.
-
-     **En.** [Dionysius,] *On the Divine Names*, c. 2, § 4: *But even if someone should withdraw from the house one of the burning [lamps], the proper whole lumen will also gather together, embracing in itself nothing of the other lumina or leaving anything of itself to the others. For there was of them, as I said, a most perfect unity of all to all, universally unmixed, and in no part confused; and this, while air is in the body, and lumen depending from material fire*. Cf. below d. 26, q. 3, in corp.
-
 ## Notes
 
 - **Page span**: q2 opens at **top of p.327** with centred "QUAESTIO II." banner + italic rubric *Utrum lumen sit forma substantialis, an accidentalis*. Body videtur items 1–4 (*Fundamenta*) + CONTRA items 1–4 (*Ad oppositum*) + CONCLUSIO + Respondeo opener + Opinio 1 on p.327 L→R. Opinio 2 + Opinio 3 + *Improbatur* + *Iudicium de praedictis* + *Lumen dicit virtutem activam* + *2. qualitatem sensibilem* + *Notandum* on p.328 L→R. Body close + *Conclusio de membris* + *Ex his patent rationes* + *Ad fundamenta 1–4* + *Ad opposita* + *De accidente naturali* + *De lumine ut accidente* + close of body + SCHOLION items I + II opener + part of item I on p.329 L→R. SCHOLION items I close + item II + closing line *Auctores non citatos vide a. 2. q. 1, scholion.* on **p.330 L-0 / R-0** (the d13-a3-q2 portion of p.330 ends mid-page; "DUBIA CIRCA LITTERAM MAGISTRI" banner opens d13-dubia below it).

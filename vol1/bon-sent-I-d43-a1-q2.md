@@ -184,10 +184,6 @@ the infinite is said in matter and in the genus of substance and in the other ge
 
      **En.** Supply with codex M *potentia*. Then the same codex M after *maior* inserts *quam*. — This argument is founded on the axiom: *operation follows being*.
 
-[^2]: **La.** Intellige: in Bon. Cfr. August., VI. et VII. *de Trin.* c. I. seqq.
-
-     **En.** Understand: in [the writings of] Bonaventure. Cf. Augustine, *On the Trinity* VI and VII, c. 1 and following. [Note: the body cites «octavo de Trinitate»; the editors gloss that the reference is rather to books VI–VII of Augustine.]
-
 [^3]: **La.** Vers. 27, et II. Paralip. 2, 6. Primus locus sic prosequitur: *te capere non possunt, quanto magis domus haec, quam aedificavi*. — Paulo superius voci *nunquam* cod. Y praefigit *quia*; Vat. eidem voci *nunquam* adiicit *enim*, et dein pro *eius substantia* exhibet etiam *substantia*.
 
      **En.** Verse 27, and 2 Chronicles 2:6. The first passage continues thus: *cannot contain thee, how much less this house which I have built*. — A little above, codex Y prefixes *quia* to the word *nunquam*; the Vatican ed. adds *enim* to the same word *nunquam*, and then in place of *eius substantia* it also displays *substantia*.

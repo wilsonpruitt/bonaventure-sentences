@@ -44,7 +44,7 @@ CANDIDATES = [
     "bon-sent-I-d2-a1-q4.md",
     "bon-sent-I-d2-divisio.md",
     "bon-sent-I-d2-dubia.md",
-    "bon-sent-I-d3-divisio.md",
+    "bon-sent-I-d3-p1-divisio.md",
 ]
 
 def backfill(path: Path) -> str:
