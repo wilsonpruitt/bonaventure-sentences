@@ -67,7 +67,14 @@ Pass 1 essentially closed; only d20-a1-q4 remains (deferred to its own dispatch)
 
 ## Pass 2 — style/formatting audit (d.1–d.20)
 
-(pending Pass 1 close)
+Bucket A+B closed 2026-05-25 at commit `3276b94` (15 `en_indent_mix` normalized to 5-space; 5 `missing_frontmatter` chunks backfilled). ~21 Bucket-C eyes-on FLAGs remained.
+
+### Bucket-C session 2026-05-26 — `d27-p1-a1-q2` `orphan_app_defs` (23 entries) RESOLVED-PADDING
+
+- **Flag:** `vol1/bon-sent-I-d27-p1-a1-q2.md` apparatus defs `[^26]–[^48]` had no matching body anchors in either Latin or English (23 consecutive orphans).
+- **Diagnosis:** *not* Case 1 (body truncation), *not* Case 2 (cascade-merge splice), *not* Case 3 (anchor-stripping). The chunk body is complete on pp. 468–474 (closes mid-Anecdota II at the `cod. G` terminator, matching the printed text); pp. 472–474 are the Anecdota material with no Quaracchi footers needing body anchors. `[^26]–[^48]` were a **duplicate-padding apparatus block** added by the 2026-05-09 Wave 9b rebuild to satisfy a per-page footer count target. Every padded entry restated lemma-variant content already present inline within `[^1]–[^25]` — e.g. `[^26]` (Vat. *eaedem proprietates*) is in `[^1]`; `[^27]`/`[^28]`/`[^29]`/`[^30]`/`[^31]` are all in `[^1]`; `[^36]` is in `[^13]`; `[^37]` is in `[^14]`; `[^41]` is in `[^17]`; `[^42]`/`[^43]`/`[^46]` are in `[^19]`; `[^45]` is in `[^20]`; `[^48]` was self-annotated "duplicated here to bring the per-page footer count for p. 472 to its full five-entry total". The `[^47]` `[?]`-flagged "OCR truncated" stub was likewise spurious (no missing body anchor on p. 471 — the page-foot ¹¹ variant content is already covered by `[^19]`/`[^20]`).
+- **Action:** removed `[^26]–[^48]` and the prefatory `>` "Page-foot lemma-variant entries" note; chunk apparatus returns to its faithful 25 body-anchored entries `[^1]–[^25]`. Backup at `_backup-d27-p1-a1-q2-pre-rebuild-20260526/`. Frontmatter `transcription_status` rewritten; `## Notes` paragraph added documenting the disposition. No `[?]` flags placed (the chunk's two remaining `[?]` markers — `valuabiliter[?]` and `inventurus[?]` — are pre-existing OCR-garble flags in the Anecdota II text, untouched by this pass).
+- **Audits:** paraphrase + headers + apparatus-count clean for d.27; style-formatting re-run drops `d27-p1-a1-q2` from the `orphan_app_defs` bucket. Build smoke-tested green: 879 routes / 639 translated / 2 books.
 
 ## Pass 3 — cross-chunk boundary integrity sweep (d.11–d.20)
 
