@@ -14,7 +14,7 @@ pdf_pages: [367, 368, 369]
 source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 345–347"
 has_apparatus: true
 has_scholion: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from column-band PDF (Vol II PDF-priority inversion) and IA djvu OCR (raw lines 24408–24560), fresh literal English translation, full apparatus from p.345 R + p.346 L+R footers (15 entries; p.345 L note 1 already consumed at a2-q2 [^19]), scholion translated, 1 [?] flag on Scholion I phrase *Hucusque proxime accedunt* (2026-05-24)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from column-band PDF (Vol II PDF-priority inversion) and IA djvu OCR (raw lines 24408–24560), fresh literal English translation, full apparatus from p.345 R + p.346 L+R footers (15 entries; p.345 L note 1 already consumed at a2-q2 [^19]), scholion translated; [?] flag on suspected Scholion I phrase *Hucusque proxime accedunt* resolved 2026-05-25 600 dpi pass — phrase is not in printed Scholion I text on p.346 (verified via `raw/vision/vol2/r600/p-346-r600.png`) and not in raw OCR for the chunk's line range (24408–24560); the flag was a vacuous probe and is dropped (2026-05-24)"
 format_version: 1
 ---
 
@@ -226,7 +226,8 @@ therefore it seems that he most of all moves that which is the first mobile; but
 
 **[?] flags raised in this chunk:**
 - *(none new in body re-set — column-band PDF reading clean.)*
-- Apparatus [^13] (p. 346 R footer note 7, *Cfr. Aristot. VIII Phys. text. 35*) anchor placed at the close of *Ad 3* (*nec perfectus status*) by inference — no printed superscript glyph clearly visible in the body at 450 dpi between the *per quem movet* [^12] anchor and the *Ad 4* opener. Resolve at 600 dpi during the d.11–d.20 polish-blocker.
+- Apparatus [^13] (p. 346 R footer note 7, *Cfr. Aristot. VIII Phys. text. 35*) anchor placed at the close of *Ad 3* (*nec perfectus status*) by inference — no printed superscript glyph clearly visible in the body at 450 dpi between the *per quem movet* [^12] anchor and the *Ad 4* opener. **Polish-blocker resolution 2026-05-25:** ACCEPT-ILLEGIBLE at 600 dpi (`p-346-r600.png`); no inline superscript visible in the body between [^12] and [^14] — [^13] and [^14] are continuation refs printed in the footer block; editorial placement retained.
+- **Polish-blocker resolution 2026-05-25 — Scholion I *Hucusque proxime accedunt*:** phrase not present in printed Scholion I on p.346 (600 dpi verified) nor in raw OCR for line range 24408–24560. Vacuous-probe flag dropped.
 
 **Parked items not resolved by this chunk:**
 - The p. 333 *Art. 2. q. 2.* cross-reference catalog (originally from `d14-p1-littera` Notes, re-checked at `d14-p1-a2-q2`): still no clean inline anchor in this chunk's body either (q1 cites Aristotle/Averroes/Boethius/Augustine, not Tarentaise/Aegidius/Durand catalog material). Deferred to the d.11–d.20 polish-blocker per the resume convention.

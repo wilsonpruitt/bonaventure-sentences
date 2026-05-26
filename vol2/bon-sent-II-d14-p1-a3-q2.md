@@ -14,7 +14,7 @@ pdf_pages: [369, 370, 371, 372]
 source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 347–350"
 has_apparatus: true
 has_scholion: false
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from column-band PDF (pp. 347–350, Vol II PDF-priority), fresh literal English translation, full apparatus (25 entries) continuously renumbered across p. 347 footer 1–4 [hand-off from a3-q1] + p. 347 footer 5–7 + p. 348 footer 1–9 + p. 349 footer 1–8 + p. 350 footer 1, 1 [?] flag on Ad 6 footnote anchor placement (2026-05-24)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from column-band PDF (pp. 347–350, Vol II PDF-priority), fresh literal English translation, full apparatus (25 entries) continuously renumbered across p. 347 footer 1–4 [hand-off from a3-q1] + p. 347 footer 5–7 + p. 348 footer 1–9 + p. 349 footer 1–8 + p. 350 footer 1, [?] flag on Ad 6 [^25] footnote (litteram→littera reading + anchor placement) resolved at 600 dpi 2026-05-25 (2026-05-24)"
 format_version: 1
 ---
 
@@ -261,9 +261,9 @@ is *mover* and *movable*[^17]; so also it is to be understood in the heaven, tha
 
      **En.** Book III of *On Free Choice,* c. 11, n. 33. See here in the body of the question near the end. — The Vatican [edition] with very many codices [reads] *incontinenti,* and a little further down *conservandam* for *consummandam,* where edition 3 with very many codices [reads] *fruendam.*
 
-[^25]: **La.** In Vat. desiderantur verba *et per hoc etiam... litteram* [?]. Vide scholion ad praecedentem quaest.
+[^25]: **La.** In Vat. desiderantur verba *et per hoc etiam... littera.* Vide scholion ad praecedentem quaest.
 
-     **En.** In the Vatican [edition] the words *et per hoc etiam... litteram* are wanting. See the scholion to the preceding question.
+     **En.** In the Vatican [edition] the words *et per hoc etiam... littera* are wanting. See the scholion to the preceding question.
 
 ---
 
@@ -288,5 +288,4 @@ is *mover* and *movable*[^17]; so also it is to be understood in the heaven, tha
 
 **Marginal labels preserved inline (Vol II convention).** *Ad oppositum,* *Fundamenta,* *Opinio Avicennae,* *Reprobatur,* *Retractatio Augustini,* *Opinio catholica 1,* *Difficultates eiusdem,* *Oritur alia quaestio,* *Non tamen improbatur,* *Opinio et conclusio 2,* *Notandum,* *Solutio obiectorum.*
 
-**Open `[?]` flag.**
-- `[^25]` apparatus body: the exact run of dropped words `et per hoc etiam... litteram` is given verbatim from p. 350 L footer note 1 verso, but the ellipsis-bracketed text is itself ambiguous at 450 dpi — the printed "litteram" tail could read "litteralis" or be elided differently in the Vatican variant. Marked `[?]` after *litteram* in the Latin apparatus entry. Resolve at 600 dpi in the d.11–d.20 polish-blocker.
+**Polish-blocker resolution 2026-05-25 (600 dpi).** `[?]` on `[^25]` closed: at 600 dpi (`raw/vision/vol2/r600/p-350-r600.png`, L-footer crop) the printed text reads *In Vat. desiderantur verba* **et per hoc etiam... littera.** (not *litteram*) — corrected in both Latin and English of `[^25]`. Body anchor placement at *in littera[^25]* (close of Ad 6) confirmed correct.

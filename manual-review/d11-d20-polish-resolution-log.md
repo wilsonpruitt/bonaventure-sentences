@@ -16,12 +16,12 @@ declarations from each chunk's `transcription_status` / `## Notes`.
 | Chunk | Page(s) | Flag | Resolution |
 |---|---|---|---|
 | `d14-p1-a1-q1` | p.338 | Scholion II — `Alex. Hal., S. p. II. q. 50. m. 1.[?]` (Latin+English) | ✓ RESOLVED 2026-05-25 — no stray glyph; column-edge artifact at 450 dpi |
-| `d14-p1-a2-q1` | p.341 | (a) in-line position of marker `[^2]` in arg. 2 (no printed ² glyph at 450 dpi) | PENDING |
-| `d14-p1-a2-q1` | p.342 R-2 | (b) Mediavilla codex sigil `F1 (T a secunda manu)` — parenthesis faint | PENDING |
-| `d14-p1-a2-q2` | p.343 | in-line position of marker `[^9]` within *Ad opp. 6* (faint ⁹ at clause-end) | PENDING |
-| `d14-p1-a3-q1` | p.346 | Scholion I phrase *Hucusque proxime accedunt* | PENDING |
-| `d14-p1-a3-q2` | p.350 | `[^25]` *et per hoc etiam… litteram* anchor placement (Ad 6) | PENDING |
-| `d14-p1-littera` | pp.333–334 | three marginal labels *Dubium 3.* / *Dubium 1.* (×3, body inline) | PENDING |
+| `d14-p1-a2-q1` | p.341 | (a) in-line position of marker `[^2]` in arg. 2 (no printed ² glyph at 450 dpi) | ✓ ACCEPT-ILLEGIBLE 2026-05-25 — confirmed at 600 dpi no printed `²` in body; Quaracchi attached cross-ref implicitly to *motus circularis* sub-arg; editorial placement at clause-end retained |
+| `d14-p1-a2-q1` | p.342 R-2 | (b) Mediavilla codex sigil `F1 (T a secunda manu)` — parenthesis faint | ✓ RESOLVED 2026-05-25 — parenthesis unambiguous at 600 dpi `p-342-r600.png` full-width footer crop |
+| `d14-p1-a2-q2` | p.343 | in-line position of marker `[^9]` within *Ad opp. 6* (faint ⁹ at clause-end) | ✓ RESOLVED 2026-05-25 — printed `⁹` unambiguous at 600 dpi `p-343-r600.png` (R-top crop): *quod nullo modo concedi potest⁹.* |
+| `d14-p1-a3-q1` | p.346 | Scholion I phrase *Hucusque proxime accedunt* | ✓ RESOLVED-VACUOUS 2026-05-25 — phrase not present in printed Scholion I (600 dpi) nor in raw OCR for chunk's line range; flag was a stray transcription_status probe, dropped |
+| `d14-p1-a3-q2` | p.350 | `[^25]` *et per hoc etiam… litteram* anchor placement (Ad 6) | ✓ RESOLVED 2026-05-25 — at 600 dpi `p-350-r600.png` (L-foot crop) footer reads *et per hoc etiam... littera.* (not *litteram*); apparatus corrected La+En; body anchor at *in littera[^25]* confirmed |
+| `d14-p1-littera` | pp.333–334 | three marginal labels *Dubium 3.* / *Dubium 1.* (×3, body inline) | ✓ RESOLVED 2026-05-25 — 600 dpi confirms Pars II Dubium numbering is continuous (Cap. VII=1/2, Cap. IX=3, Cap. X=4); Cap. IX *Dubium 3.* real (Lat+Eng); Cap. X corrected from *Dubium 1.* → *Dubium 4.* (Lat+Eng) |
 | `d18-a2-q2` | p.450 | Conclusio `Damasceni[^23] [?]` — second-anchor question | ✓ RESOLVED 2026-05-25 — `[^23]` covers Greg.Naz.+Damasceni+Augustini *de Spiritu*; stray `[?]` was OCR spacing artifact, removed |
 | `d18-a2-q2` | p.451 | `²` on *absque dolore* — stray vs real anchor | ✓ RESOLVED 2026-05-25 — `²` is real at 600 dpi; p.451 L-2 footer ² (*Cfr. infra d. 19*) reclaimed as new `[^25]` (was dropped during chunking, not held by d18-a2-q3) |
 | `d20-a1-q4` | p.482 | `[^1]` anchor on *intelligibile* / *intendetur* variant | PENDING |
@@ -47,13 +47,17 @@ Build verified: 2 books / 879 questions / 639 translated.
 
 600 dpi crops added this session: p.450 (originally not pre-cached) at `raw/vision/vol2/r600/p-450-r600.png`.
 
-### Remaining pending (6 flags, 6 chunks)
-- d14-p1-a2-q1 (×2): [^2] inline + Mediavilla sigil parenthesis
-- d14-p1-a2-q2: [^9] inline at clause-end of Ad opp. 6
-- d14-p1-a3-q1: Scholion I phrase *Hucusque proxime accedunt*
-- d14-p1-a3-q2: [^25] *et per hoc etiam… litteram* anchor placement
-- d14-p1-littera: three marginal *Dubium 1./3.* labels
+### Remaining pending (1 flag, 1 chunk)
 - d20-a1-q4: [^1] anchor on *intelligibile* / *intendetur*
+
+### Session 2026-05-25 (later PM) — 5 d.14 flags closed across 5 chunks
+- d14-p1-a2-q1 (×2): [^2] inline ACCEPT-ILLEGIBLE + Mediavilla sigil parenthesis RESOLVED
+- d14-p1-a2-q2: [^9] inline ⁹ RESOLVED (printed superscript present at 600 dpi)
+- d14-p1-a3-q1: *Hucusque proxime accedunt* RESOLVED-VACUOUS (not in body/raw)
+- d14-p1-a3-q2: [^25] RESOLVED (litteram → littera correction; anchor confirmed)
+- d14-p1-littera: 3 Dubium labels RESOLVED (Pars II continuous numbering; Cap. X corrected 1→4)
+
+Pass 1 essentially closed; only d20-a1-q4 remains (deferred to its own dispatch).
 
 ## Pass 2 — style/formatting audit (d.1–d.20)
 
