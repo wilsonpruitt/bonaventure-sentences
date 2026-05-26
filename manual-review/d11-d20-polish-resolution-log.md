@@ -139,4 +139,41 @@ Final 6 Pass-2 FLAGs closed. Backups in `_backup-pass2-final-20260526/`. Per-fla
 
 ## Pass 3 — cross-chunk boundary integrity sweep (d.11–d.20)
 
-(NOW the next blocker — Pass 2 CLOSED 2026-05-26. Known Pass-1 follow-up: d18-a2-q2 p.450 R-2 footer block ⁶/⁷/⁸ — *Haec ex Gregorio sumta solutio iam supra d. 12* + *Codd. Y oa propter* + *Cfr. supra pag. 20, nota 7*.)
+**Status (2026-05-26 PM): CLOSED.** Enumerated all chunk-pair boundaries inside d.11–d.20 in semantic order via inline helper (yaml-frontmatter `printed_pages` walk). **97 boundaries total, 83 mid-page** (i.e. `prior.printed_pages[-1] == receiving.printed_pages[0]`). Audited each: receiving chunk's `## Notes` block (and/or the prior chunk's forward-handoff note) explicitly documents the page-split / footer-migration / continuity status.
+
+**Per-distinction breakdown (mid-page boundaries / FLAGs):**
+
+- d.11: 7 mid-page boundaries — all CLEAN. (d11-divisio→a1-q1 p.276, a1-q1→a1-q2 p.279, a1-q2→a1-q3 p.280, a1-q3→a2-q1 p.282, a2-q1→a2-q2 p.285, a2-q2→a2-q3 p.286, a2-q3→dubia p.289.)
+- d.11→d.12 inter-distinction: dubia→d12-littera p.290 — CLEAN.
+- d.12: 6 mid-page — all CLEAN.
+- d.12→d.13: dubia→d13-littera p.308 — CLEAN.
+- d.13: 6 mid-page — all CLEAN.
+- d.13→d.14: dubia→d14-p1-littera p.333 — CLEAN.
+- d.14: 13 mid-page (p1 + p2 + intra-pars) — all CLEAN. (Includes d14-p1-dubia→d14-p2-divisio p.350 cross-pars boundary; p2-divisio holds the explicit page-split note.)
+- d.14→d.15: d14-p2-dubia→d15-littera p.370 — CLEAN.
+- d.15: 7 mid-page — all CLEAN.
+- d.15→d.16: d15-dubia→d16-littera p.391 — CLEAN.
+- d.16: 7 mid-page — all CLEAN.
+- d.16→d.17: d16-dubia→d17-littera p.408 — CLEAN.
+- d.17: 7 mid-page — all CLEAN.
+- d.17→d.18: d17-dubia→d18-littera p.429 — CLEAN.
+- d.18: 7 mid-page — 6 CLEAN + 1 follow-up resolved (see d18-a2-q2/q3 note below).
+- d.18→d.19: d18-dubia→d19-littera p.455 — CLEAN.
+- d.19: 7 mid-page — all CLEAN.
+- d.19→d.20: implicit through divisio inheritance — CLEAN.
+- d.20: 7 mid-page — all CLEAN (the d.20 series was built in semantic order this same wave with explicit hand-off Notes in every chunk; verified by helper).
+
+**Pass-1 follow-up resolution — `d18-a2-q2` p.450 R-2 footers ⁶/⁷/⁸.**
+
+Generated `/tmp/colcrop/vol2-p450-{L,R}-{0..2}.png` via `tools/colcrop.py vol2 450`. Eyes-on R-2 column band confirms three numbered footers exactly as projected in the resume note:
+- ⁶ *Haec ex Gregorio sumta solutio iam supra d. 12. a. 1. q. 2. ad 3. habetur.*
+- ⁷ *Codd. Y aa* propter*.* (Quaracchi prints *aa*, not *oa* — minor resume-note OCR transcription error; printed reading is *aa*.)
+- ⁸ *Cfr. supra pag. 20, nota 7.*
+
+**Disposition: CONSOLIDATED into existing [^23] composite scholion-footer; NO body text missing; no splice.** All three footer entries anchor within the SCHOLION I body that runs from p.450 R-mid into p.451 L-1 (the *Gregorius Nazianzeni/Nysseni* codd.-variant scholion + *de Spiritu et anima* c. 13 textual reception). The d18-a2-q2 apparatus [^23] already absorbs this content verbatim (the printed scholion paragraph terminating *Has potentias habet, antequam corpori misceatur*) and the parenthetical note at line 271 explicitly enumerates the three marginal source-pointer/codd.-variant/cross-reference items. Cross-checked the p.450 R-2 PDF crop body band against d18-a2-q2 [^23]'s full English+Latin pair: every Latin clause from *Libr. II. de Fide orthod. c. 12…* through *…antequam corpori misceatur* appears verbatim in [^23]. **No grammatical splice; no missing body words; no orphan apparatus.** The three footers are a marginal-typography convention (Quaracchi often prints source-pointers + variant-glosses as separately-numbered footers even when the scholion already incorporates the citation inline); their atomic split-out as [^26]/[^27]/[^28] would be a cosmetic refinement, deferred (no impact on body or translation integrity).
+
+Note updated in d18-a2-q2's `## Notes` block: Pass-3 follow-up CLOSED.
+
+**No splices, no rebuilds, no body recovery needed across all 83 mid-page boundaries.** This is consistent with the Vol II cadence — every d.11–d.20 chunk was promoted with the cross-chunk hand-off discipline locked from 2026-05-25; the cascade-merge failure-mode (d9-divisio precedent) requires building a chunk *without* having read its neighbor's PDF page, which the one-chunk-per-subagent dispatch with hand-off briefings explicitly prevents.
+
+**Pass 3 status: CLOSED. d.11–d.20 decade-polish-blocker FULLY CLOSED (Pass 1 + Pass 2 + Pass 3).** Next action: dispatch d.21-littera (Vol II).
