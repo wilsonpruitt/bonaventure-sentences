@@ -1,21 +1,24 @@
-# Next session — **d.11–d.20 polish-blocker Pass 1 CLOSED 2026-05-25 (9/9 flags resolved). NEXT BLOCKER: Pass 2 (style/formatting audit, full corpus d.1 → d.20). Then Pass 3 (cross-chunk boundary sweep d.11–d.20). Only after all three close → dispatch d.21-littera.**
+# Next session — **d.11–d.20 polish-blocker Pass 2 CLOSED 2026-05-25 (41 FLAGs surfaced, 0 mechanical fixes applied — all need eyes-on). NEXT BLOCKER: Pass 3 (cross-chunk boundary sweep d.11–d.20). Only after Pass 3 closes → dispatch d.21-littera.**
 
-**d.1–d.20 ALL DONE = 228 chunks promoted.** Build: 639 translated, 879 quaestio routes. Polish log live at `manual-review/d11-d20-polish-resolution-log.md`.
+**d.1–d.20 ALL DONE = 228 chunks promoted.** Build: 639 translated, 879 quaestio routes. Pass 1 polish log at `manual-review/d11-d20-polish-resolution-log.md`. **Pass 2 audit report at `manual-review/d11-d20-pass2-style-audit.md`.** Audit script: `tools/audit-style-formatting.py` (re-runnable for next decade cycle).
 
-## ⚠ NEXT ACTION: Pass 2 — style/formatting audit (full corpus, d.1 → d.20)
+## Pass 2 closure (2026-05-25, this session)
 
-Per CLAUDE.md "Polish-blocker cadence" §2 (NOT scoped to the last decade — Pass 2 runs across **ALL Tier-2 chunks** every polish cycle, so formatting drift can't compound silently). Programmatic scan across `vol1/` + `vol2/` for:
-- Required Tier-2 frontmatter fields (`title_la`, `title_en`, `printed_pages`, `pdf_pages`, `source`, `has_apparatus`, `transcription_status`).
-- Standard structure (`## Latin`, `## English`, `## Apparatus`).
-- Apparatus marker pairing: every `[^N]:` def has matching body anchors in **both** Latin and English bodies.
-- Page-break presence (`<!-- page N -->`).
-- `transcription_status` starts with `Phase C Tier 2 complete —`.
-- Legacy auto-chunked duplicates (e.g. a `d{N}-divisio.md` superseded by `d{N}-p1-divisio.md` + `d{N}-p2-divisio.md`).
-- `**En.**` indent 4-vs-5-space drift (d.27–d.30 caught one of these in Vol I — apply same scan to Vol II).
+`tools/audit-style-formatting.py` (new) walked Vol I = 406 Tier-2 + Vol II = 217 Tier-2 chunks (256 skeletons skipped). **41 FLAGs surfaced, all left as FLAGs for Wilson — no mechanical-trivial fixes applied this pass.** Per-mode tallies (full detail in the audit report):
 
-Fix what's mechanical in-pass; flag the rest into the polish log Pass 2 section. Do **NOT** dispatch d.21-littera until Pass 2 + Pass 3 both close.
+- `en_indent_mix` (15) — chunks mixing 5- and 6-space `**En.**` indent within a single Apparatus block (one chunk mixes 4 and 5). Convention permits 4 or 5; 6-space rows render but are drift. Left as FLAG for a future bulk-cleanup pass — too risky to silently rewrite without confirming the corpus-wide intended width.
+- `orphan_app_defs` (13) — apparatus `[^N]:` defs with no matching body anchor in either La or En. Largest: `d27-p1-a1-q2` with 23 orphan defs (likely a known scholion-block convention; needs eyes-on confirmation before disposition).
+- `missing_frontmatter` (6) — `d10-a2-q2 / a2-q3 / dubia` + `d14-a2-q2 / dubia` missing `pdf_pages` (+ `source` for d14); `bon-sent-II-d12-a2-q2` missing 6 Tier-2 keys (suspect mis-promoted skeleton — verify Tier-2 status).
+- `anchor_only_la` (4) — body anchor present in Latin body but not English (`d42-a1-q3 [^24]`, `d45-dubia [^25]`, `II-d13-a2-q2 [^20]`, `II-d15-a2-q2 [^9]`).
+- `body_anchor_no_def_la` (1) — `d45-dubia [^25]` (paired with the anchor-only finding above).
+- `missing_section` (1) — `d8-p2-divisio` has `has_apparatus: true` but no `## Apparatus` section.
+- `legacy_duplicate` (1) — `vol1/bon-sent-I-d3-divisio.md` superseded by `vol1/bon-sent-I-d3-p2-divisio.md` (no `d3-p1-divisio.md` exists; needs human review on retire/rename).
 
-After Pass 2 → **Pass 3** (cross-chunk boundary integrity sweep, d.11–d.20 only; known follow-up flagged in the polish log: d18-a2-q2 missing p.450 R-2 footer block ⁶/⁷/⁸ — *Haec ex Gregorio sumta solutio iam supra d. 12* + *Codd. Y oa propter* + *Cfr. supra pag. 20, nota 7*).
+**Build smoke-tested green: 2 books, 879 quaestio routes, 639 translated (no regression).** Audit script is idempotent — re-run at every decade-polish cycle.
+
+## ⚠ NEXT ACTION: Pass 3 — cross-chunk boundary integrity sweep (d.11–d.20 only)
+
+Per CLAUDE.md "Polish-blocker cadence" §3. For every chunk boundary in d.11–d.20 that falls inside a printed page, verify against 450 dpi PDF column bands that no body text or footnote was lost at the seam (the IA djvu OCR cascade-merge failure mode — see `d9-divisio` historical precedent in CLAUDE.md). Known follow-up from Pass 1: **d18-a2-q2 missing p.450 R-2 footer block ⁶/⁷/⁸** (*Haec ex Gregorio sumta solutio iam supra d. 12* + *Codd. Y oa propter* + *Cfr. supra pag. 20, nota 7*). Log dispositions in `manual-review/d11-d20-polish-resolution-log.md` Pass 3 section. Only after Pass 3 closes → dispatch d.21-littera.
 
 ## Pass 1 final closure (2026-05-25, this session)
 
