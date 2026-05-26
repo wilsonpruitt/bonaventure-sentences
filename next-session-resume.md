@@ -1,23 +1,25 @@
-# Next session — **d.11–d.20 polish-blocker IN PROGRESS. Pass 1: 3/9 flags closed across 2 chunks. 6 flags remain across 6 chunks; then Pass 2 + Pass 3 before d.21-littera dispatch.**
+# Next session — **d.11–d.20 polish-blocker Pass 1 essentially DONE. 8/9 flags closed; only d20-a1-q4 remains (own dispatch). Then Pass 2 + Pass 3 before d.21-littera dispatch.**
 
 **d.1–d.20 ALL DONE = 228 chunks promoted.** Build: 639 translated, 879 quaestio routes. Polish log live at `manual-review/d11-d20-polish-resolution-log.md`.
 
-## ⚠ NEXT ACTION: continue Pass 1 of d.11–d.20 polish-blocker (6 remaining `[?]` flags)
+## ⚠ NEXT ACTION: resolve final Pass 1 flag (d20-a1-q4), then run Pass 2 + Pass 3
 
-600 dpi crops cached in `raw/vision/vol2/r600/` for pp.333, 334, 335, 337, 338, 341, 342, 343, 346, 350, 450, 451, 482. The d11-d20 polish log table tracks per-flag resolution; chunk `## Notes` blocks updated as flags close.
+600 dpi crops cached in `raw/vision/vol2/r600/` for pp.333, 334, 335, 337, 338, 341, 342, 343, 346, 350, 450, 451, 482. The d11-d20 polish log table tracks per-flag resolution.
 
-**Remaining flags (6 chunks):**
-- `d14-p1-a2-q1` — (a) in-line position of marker `[^2]` in arg. 2 (no printed ² glyph at 450 dpi on p.341); (b) Mediavilla codex sigil `F1 (T a secunda manu)` parenthesis on p.342 R-2
-- `d14-p1-a2-q2` — in-line position of marker `[^9]` within *Ad oppositum 6* at clause-end of *quod nullo modo concedi potest⁹* on p.343
-- `d14-p1-a3-q1` — Scholion I phrase *Hucusque proxime accedunt* on p.346 (rare-construction flag, not a glyph-ambiguity)
-- `d14-p1-a3-q2` — `[^25]` *et per hoc etiam… litteram* anchor placement (Ad 6) on p.350
-- `d14-p1-littera` — three marginal labels *Dubium 3.* / *Dubium 1.* (×3 across Latin+English bodies) on pp.333–334; verify whether the printed text actually carries the *Dubium* label or whether these are scribal inserts from the chunker
+**Remaining flag (1 chunk):**
 - `d20-a1-q4` — `[^1]` anchor on *intelligibile* vs *intendetur* future-passive variant on p.482 *Respondeo* opener
 
-**Closed this session (PM 2026-05-25):**
+**Closed this session — late PM 2026-05-25 (5 d.14 flags across 5 chunks):**
+- `d14-p1-a2-q1` (×2) — [^2] inline ACCEPT-ILLEGIBLE at 600 dpi (no printed `²` on arg. 2; Quaracchi attached cross-ref implicitly); Mediavilla sigil `F1 (T a secunda manu)` RESOLVED — parenthesis unambiguous at 600 dpi.
+- `d14-p1-a2-q2` — [^9] inline ⁹ RESOLVED at 600 dpi (printed superscript present at clause-end of *quod nullo modo concedi potest⁹.*).
+- `d14-p1-a3-q1` — Scholion I *Hucusque proxime accedunt* RESOLVED-VACUOUS (phrase not in printed body or raw OCR).
+- `d14-p1-a3-q2` — [^25] RESOLVED: footer reads *...littera.* (not *litteram*); La+En corrected; body anchor at *in littera[^25]* confirmed.
+- `d14-p1-littera` — three Dubium marginal flags RESOLVED: Pars II numbering continuous (Cap. VII=1/2, Cap. IX=3, Cap. X=4); Cap. X corrected *Dubium 1.* → *Dubium 4.* (Lat+Eng).
+
+**Closed earlier (PM 2026-05-25):**
 - `d14-p1-a1-q1` Scholion II `Alex. Hal., S. p. II. q. 50. m. 1.[?]` — column-edge artifact, removed (1 flag).
 - `d18-a2-q2` Conclusio `Damasceni[^23] [?]` — OCR spacing noise, removed (1 flag).
-- `d18-a2-q2` Q2 ad 5 `absque dolore[?]` — recovered as `[^25]` = *Cfr. infra d. 19. a. 2. q. 1, et a. 3. q. 1, ubi hoc explicatur* (dropped during chunking; not held by d18-a2-q3); apparatus 22 → 25 entries (1 flag).
+- `d18-a2-q2` Q2 ad 5 `absque dolore[?]` — recovered as `[^25]` = *Cfr. infra d. 19. a. 2. q. 1, et a. 3. q. 1, ubi hoc explicatur* (dropped during chunking); apparatus 22 → 25 entries (1 flag).
 
 **Pass 3 follow-up identified:** d18-a2-q2 still missing p.450 R-2 footers ⁶/⁷/⁸ (Greg solution back-ref + *Codd. Y* variant + *Cfr. supra pag. 20*). Triage in cross-chunk boundary sweep.
 
