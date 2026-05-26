@@ -1,4 +1,26 @@
-# Next session — **d.11–d.20 polish-blocker Pass 2 CLOSED 2026-05-26. Pass 3 (cross-chunk boundary integrity sweep d.11–d.20) is now the next blocker before d.21-littera dispatch.**
+# Next session — **d.11–d.20 decade-polish-blocker FULLY CLOSED 2026-05-26 (Pass 1 + Pass 2 + Pass 3). Next action: dispatch `d21-littera`.**
+
+## 2026-05-26 PM — Pass 3 closed (cross-chunk boundary integrity sweep d.11–d.20)
+
+Enumerated 97 boundaries in d.11–d.20 semantic order via inline yaml-frontmatter walk: **83 mid-page** boundaries (i.e. `prior.printed_pages[-1] == receiving.printed_pages[0]`). For every mid-page seam the receiving chunk's `## Notes` block (or the prior chunk's forward-handoff note) explicitly documents the page-split / footer-migration / continuity disposition. All 83 boundaries CLEAN — no splices, no body loss, no rebuilds needed across d.11–d.20. Pass-1 follow-up resolved: `d18-a2-q2` p.450 R-2 footers ⁶/⁷/⁸ (*Haec ex Gregorio sumta solutio iam supra d. 12. a. 1. q. 2. ad 3*, *Codd. Y aa propter*, *Cfr. supra pag. 20, nota 7*) all anchor within SCHOLION I body p.450 R-mid → p.451 L-1; content fully absorbed into composite footer [^23] (Quaracchi marginal-typography convention — source-pointers + variant-glosses sometimes printed as separately-numbered footers even when scholion cites inline). Atomic split-out as [^26]/[^27]/[^28] deferred as cosmetic refinement. Resume-note glyph correction: printed footer ⁷ reads *aa*, not *oa*.
+
+**Audits:** style-formatting 0 FLAGs (unchanged); paraphrase 0 critical / 3 high (pre-existing skeleton-sibling tolerances); apparatus-count 1 known divisio flag (`d14-p2-divisio` raw=10 chunk=0); headers 1 known DUB-LOSS d.18 tolerance. Build green: **879 routes / 639 translated / 2 books** (no delta). Polish log: `manual-review/d11-d20-polish-resolution-log.md` § Pass 3. Commit `b5b1c46`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d21-littera`
+
+Per CLAUDE.md "Efficient single-chunk subagent dispatch" + the locked Vol II decade gate. d.11–d.20 decade-polish-blocker is now FULLY CLOSED (228 chunks in d.1–d.20 Tier-2 promoted). d.21 chunk inventory in `vol2/` (12 files, one missing + 2 dubia dupes — flag for re-chunk if needed):
+
+- `bon-sent-II-d21-littera.md` (FIRST dispatch — Lombard's text for Dist. XXI)
+- `bon-sent-II-d21-divisio.md`
+- `bon-sent-II-d21-a1-q1.md`, `bon-sent-II-d21-a1-q2.md`, `bon-sent-II-d21-a1-q3.md`
+- `bon-sent-II-d21-a2-q2.md`, `bon-sent-II-d21-a2-q3.md` — **NOTE:** `d21-a2-q1` is MISSING from the auto-chunker output; verify against raw OCR (`grep -n "QUAESTIO I" raw/bonaventure_vol2_raw.txt | grep d21-range`) and re-chunk before promoting a2-q2 if the QUAESTIO I body is auto-merged into a1-q3 or divisio.
+- `bon-sent-II-d21-a3-q1.md`, `bon-sent-II-d21-a3-q2.md`, `bon-sent-II-d21-a3-q3.md`
+- `bon-sent-II-d21-dubia.md` + `bon-sent-II-d21-dubia-dup2.md` + `bon-sent-II-d21-dubia-dup3.md` — **auto-chunker dup artifacts**; reconcile against printed pp. (likely 3 dubia merged into a single chunk; the dup files are leftover from chunker boundary noise).
+
+Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read (Vol II Override). `pdf = printed + 22`. Per the 59-chunk cadence: main thread = coordinator only, one chunk per subagent, two-commit cadence per chunk, do NOT deploy.
+
+---
+
 
 ## 2026-05-26 PM — Pass 2 final dispatch closed (6/6 orphan_app_defs)
 
