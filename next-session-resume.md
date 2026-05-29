@@ -1,4 +1,16 @@
-# Next session — **d23-a2-q2 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a2-q3` (QUAESTIO III *Utrum Adam in statu innocentiae ita cognoverit Deum, sicut Deus in statu gloriae cognoscitur* — *de cognitione quantum ad complementum et statum*; skeleton, opens raw ~38033 on p. 542; LAST quaestio of ART II → DUBIA follows).**
+# Next session — **d23-a2-q3 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-dubia` (DUBIA CIRCA LITTERAM MAGISTRI, **DUB. I–III** — three dubia; skeleton, opens raw ~38434 on p. 548 immediately after q3 SCHOLION IV; runs to DISTINCTIO XXIV running head raw ~38497). After d23-dubia, **d.23 is COMPLETE → d.24 next.****
+
+## 2026-05-29 — d23-a2-q3 promoted (Tier-2) — ARTICULUS II CLOSED
+
+Rebuilt `bon-sent-II-d23-a2-q3` from skeleton — **QUAESTIO III *Utrum Adam in statu innocentiae ita cognoverit Deum, sicut Deus in statu gloriae cognoscitur* (*de cognitione quantum ad complementum et statum*) — LAST quaestio of ART II.** Spans **pp. 542–548** (PDF 564–570, +22), raw 38034–38432. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p54{2..8}-{L,R}-{0,1,2}.png`). `has_scholion: true` — closing ART II SCHOLION I–IV. Includes the **ARTICULI PARISIIS CONDEMNATI** (10 condemned articles, the 10th = malus angelus + Adam in statu innocentiae).
+
+- **53 apparatus entries [^1]–[^53].** Page-split (footer provenance; [^N] order follows body anchors across the 7-page cascade): p.542 ftr 1–6; p.543 ftr 1–8; p.544 ftr 1–5; p.545 ftr 1–11; p.546 ftr 1–12; p.547 ftr 1–5 (condemned-articles + D'Argentré collation). p.548 = SCHOLION III–IV (no body markers); its 4 left-column footers belong to the **DUBIA** body → forwarded to d23-dubia. **RECEIVED: none** (a2-q2 closed clean on p.542 with its own scholion; q3 opened fresh below). **FORWARDED: p.548-L footers** (*esset*; *mali*/*nihilominus*; cod.N *respicit voluntatem*; Vers.5) to d23-dubia.
+- **Alignment VERIFIED:** opener raw 38037 = *Tertio vero quaeritur quantum ad cognitionis Adae complementum et statum* = *quantum ad complementum et statum*. End boundary: DUBIA CIRCA LITTERAM MAGISTRI raw ~38434 on p.548.
+- **[?] flags:** none. Audits: paraphrase 0 crit + 1 high = d23-dubia skeleton (q3 now OK). headers d.23 ART +3, QUAEST +6, DUB +0 (positive diffs expected Vol II; no LOSS). apparatus-count 1 SKELETON-SUSPECT = d23-dubia; q3 not flagged. Build: **882 routes, 668 translated** (+1). Commit `0a4d79c`.
+
+**Structure map (remaining d.23 skeleton):** d23-dubia (DUBIA CIRCA LITTERAM MAGISTRI, **DUB. I–III** verified via raw scan, raw ~38434 → DISTINCTIO XXIV running head raw ~38497). **After d23-dubia → d.23 COMPLETE → advance to d.24.**
+
+**Pace gate:** d.23 is the last distinction before the d.21–d.30 decade-polish blocker fires at d.30 close — no polish gate yet at d.23.
 
 ## 2026-05-29 — d23-a2-q2 promoted (Tier-2)
 
