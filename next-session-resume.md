@@ -1,4 +1,18 @@
-# Next session — **d23-a1-q1 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a1-q2` (*utrum hominem, quem praesciebat expugnandum, debuerit permittere per tentationem impugnari*; skeleton, opens raw 37457 on p. 533).**
+# Next session — **d23-a1-q2 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a1-q3` (*utrum tentationis pugna a viris iustis debeat desiderari*; skeleton, opens raw ~37567 on p. 535; LAST quaestio of ART I → ART II at raw ~37691 follows).**
+
+## 2026-05-29 — d23-a1-q2 promoted (Tier-2)
+
+Rebuilt `bon-sent-II-d23-a1-q2` from skeleton — **QUAESTIO II *Utrum Deus debuerit permittere, hominem impugnari*.** Spans **pp. 533–535** (PDF 555–557, +22), raw 37457–37566. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p53{3,4,5}-{L,R}-{0,1,2}.png`). `has_scholion: false` via **sibling-pointer to `d23-a1-q1` SCHOLION II** (the joint commentator-roll for this q2; no scholion in q2's own raw range).
+
+- **13 apparatus entries [^1]–[^13].** Page-split: p.533 footers ⁴–⁵ → [^1]–[^2] (**received** from a1-q1: ⁴ *Hic c.1…* on arg1 *Magister in littera*; ⁵ *Vers.5* on arg2 *2 Tim.2*); p.534 footers ¹–⁸ → [^3]–[^11] (¹ Eccli13,14; ² Ioan10,11/*capi-rapi*; ³ Iob41,21; ⁴ Luc11,21+*custodiret*-variant split across [^6]/[^7]; ⁵ *vertibilitate*; ⁶ *secundum hunc modum*; ⁷ Rom8,38; ⁸ *omittunt permittere*); p.535 footers ¹–³ → [^12]–[^13] (q2 *Ad obiecta* share: ¹ *elicere bonum* codd. on reply2 *nescit*; ² 1Cor10,13 on reply3 *proventum*; ³ *Vide scholion* folded). **p.535 footers ⁴ ff. (Vers.2, Psalm 25,2, right-col ⁶–¹²) belong to QUAESTIO III → forwarded to `d23-a1-q3`** (its *Iacobi/Psalmo/Corinthios* args; read in same p.535 footer band this pass).
+- **Alignment VERIFIED:** q2 opener raw 37457 = *Secundo quaeritur, utrum debuit Deus permittere, hominem impugnari*; QUAESTIO III at raw 37567 = *Tertio quaeritur, utrum tentationis impulsio desiderari debeat a viro iusto*. The p.535 running head `DIST. XXIII. ART. I. QUAEST. III.` (OCR mis-numbers page as 533/535) is a page-top head; the p.535 column-top body is still q2's replies 1–4 until QUAESTIO III begins lower.
+- **[?] flags:** none. Audits: paraphrase 0 crit + 5 high = the 5 remaining d.23 skeletons (this q2 now OK). apparatus-count 5 SKELETON-SUSPECT = same skeletons; q2 not flagged. headers DUB-LOSS / QUAEST -1 = coarse Vol II frontmatter behavior (DUB + extra QUAEST belong to still-skeleton siblings). Build: **882 routes, 664 translated** (+1). Commit `4d0474c`.
+
+**Verify Primo/Secundo/Tertio quaeritur alignment** when dispatching q3 (auto-chunker q-swap bugs). q3 = *utrum tentationis pugna a viris iustis debeat desiderari* (raw ~37567, p.535+). **Hand-off RECEIVED into q3:** p.535 footers ⁴ ff. anchor in q3's body args (lead its apparatus with them, renumbered [^1]…).
+
+**Structure map (remaining d.23 skeletons):** d23-a1-q3 (raw ~37567, p.535+ → LAST of ART I), d23-a2-q1/q2/q3 (ART II *De primorum parentum cognitione*, raw ~37691), d23-dubia (DUB I–II, raw ~38448 → DISTINCTIO XXIV running head raw ~38497).
+
+**Pace gate:** d.23 is the last distinction before the d.21–d.30 decade-polish blocker fires at d.30 close — no polish gate yet at d.23.
 
 ## 2026-05-29 — d23-a1-q1 promoted (Tier-2)
 
