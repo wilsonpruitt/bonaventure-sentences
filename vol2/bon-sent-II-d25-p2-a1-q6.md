@@ -3,348 +3,287 @@ id: "bon-sent-II-d25-p2-a1-q6"
 volume: 2
 book: 2
 distinctio: 25
+pars: 2
 articulus: 1
 quaestio: 6
 type: quaestio
-line_start: 43375
-line_end: 43694
-word_count_latin: 4489
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Utrum liberum arbitrium propter ineptitudinem corporis ligari possit quoad usum"
+title_en: "Whether free choice can be bound as to its use on account of the unfitness of the body"
+printed_pages: [620, 621, 622, 623, 624]
+pdf_pages: [642, 643, 644, 645, 646]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 620–624"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF (pp. 620–624, Vol II PDF-priority inversion; OCR raw lines 43375–43694), fresh literal English translation, full apparatus from PDF column-band footers (31 entries: p.620 ff. 6–7 received from a1-q5, p.621 ff. 1–6, p.622 ff. 1–10, p.623 ff. 1–7, p.624 ff. 1–5), SCHOLION from PDF, no [?] flags (2026-05-29)"
 format_version: 1
 ---
 
-# bon-sent-II-d25-p2-a1-q6
+# d.25, Pars II, Art. unicus, q. 6 — *ad corpus coniunctum*
+## *Utrum liberum arbitrium propter ineptitudinem corporis ligari possit quoad usum.*
+
+---
 
 ## Latin
+<!-- page 620 -->
 
-QUAESTIO VI.
-                    Utrum liberum arbitrium propter ineptitudinem corporis ligari possit quoad usum.
+### Quaestio VI. *Utrum liberum arbitrium propter ineptitudinem corporis ligari possit quoad usum.*
 
-                Sexto et ultinio quaeritur de libero arbitrio in            diri. Sed actus praeambulus ad liberum arbitrium
-          comparalione ad corpus coniunctum, et est quaestio,               est operatio intellectus, quae per ineptitudinem cor-
-          utrum propter ineptitudinem corporis ligari habeat                poris impeditur; sicut patet in dormienlibus et in
-          quantum ad usum. Et quod sic, videtur.                            phreneticis, et Philosophus ^ dicit, quod « intelle-
-                1. Bernardus de Libero Arbitrio": «Insanis et               ctus corrumpitur, quodam inlerius corrupto », et hoc
-FuDdamenia.infantibus et dormientibns nihil quod agant, impu-               docet ipsa esperientia: ergo etc.
-          talur)): sed hoc non esl, nisi quia carent usu liberi                   4. Item, sicut homo lassatur in sentiendo, ita
-          arbitrii, et lioc non est nisi propter aliquod impe-              etiam lassatur in cogitando et in meditando; sed
-          dimentum a parte corporis: ergo etc.                              quia corpus lassatur in sentiendo, ideo indiget quiete
-                2. hem, hoc ipsum videtur exemplo, quia vir                 somni, in quo impeditur ab operalionibus sensuum^:
-          sanctus et castus, cuius castitas est magna, frequen-             ergo pari ratione necesse est, liberum arbitrium pro-
-          ter in somnis consentit operi peccati ', quod nullo               pter lassitudinem corporis ab actu et usu proprio
-          modo faceret tempore vigiliae: ergo in somnis liga-
-          tur actus liberi arbitrii; sed hoc non est nisi per               impediri.
-                                                                                  Sed coNTn.-i : 1. Terlio Regum tertio '" refert hi- .w opposi-
-          lassitudinem et ineptitudinem ex parte corporis:                  storia, quod Dommus m somms apparuit Salomoni,
-          ergo etc.                                                         et merito petitionis, quam fecit, Dominus dedit ei
-                3. Item, deficiente priori, deficit id quod poste-          sapientiam multam nimis. Si ergo mereri aliquid
-           rius est: si ergo impeditur aliquis actus, qui praeam-           apud Deum et sapientiam suscipere, hoc est usus
-           bulus est ad usum liberi arbitrii, per ineptitudinem             liijeri arbitrii et rationis ; videtur, quod propter las-
-           corporis; necesse est, et usum liberi arbitrii impe-             situdinem et ineptitudinem corporis et quietem in
+Sexto et ultimo quaeritur de libero arbitrio in comparatione ad corpus coniunctum, et est quaestio, utrum propter ineptitudinem corporis ligari habeat quantum ad usum. Et quod sic, videtur.
 
+1. Bernardus *de Libero Arbitrio*[^1]: «Insanis et infantibus et dormientibus nihil quod agant, imputatur»: sed hoc non est, nisi quia carent usu liberi arbitrii, et hoc non est nisi propter aliquod impedimentum a parte corporis: ergo etc.
 
-              > Codd. aa bb hoc dictum, codd. FHIRTVY cl alii                     8 Libr. II. de Anima, te.\t. 66. (c. i.). Cfr. etiam ibid. II.
-         cum ed. 1 hoc enim. Circa nnem solut. post ex ine ipso volo        text. 162. (III. c. 3.), ubi docet, i obrui [EnixaXu^iTEaeat] ali-
-         cod. aa addit voluntarie.                                          quando intellectum passione aut aegritudine aut somno ». De
-               ^ Isa. 12, 28: Quasi pilam mitlel [Dominus] te in terram     maiori c!v. Aristot., V. Metapli. text. 16. (IV. c. II.) et supra
-         latani. — Cod, 0 sicut pila ad hominem, cod. cc et ed. 1           pag. 93, nota 2. — Pro per ineptitudinem codd. Y cc cum
-         sicut pila ad motum. Paulo inferius pro nec etiam alicui codd.     ed. I propter ineptitudinem.
-         IC T mcc etiam aliam, cod. W nec etiam aliquam.                          ^ Cfr. Aristot. , de Sonino et vigilia, c. 1. scqq.
-               3 Cfr. supra d. 18. a. 1. q. 2. ad 3. et 6.                        1" Vers. 0. seqq. Cfr. August. , XII. de Gen. ad lit. c. 13.
-               ■■ Permulti codd. cum edd. I , 2 , 3 vel pro quam ; cod.     n. 31 : Nam etiam dormiens Salomon sapienliam praeposuit
-         aa omittit hominem quam.                                           omnibus rebus eamque, neglectis ceteris, est precatus a Donii-
-               ^ Vide scholion ad praccedentem quaest.                      no ete. — Mox post quam fecit pro Domimis codd. CFLO aa
-               ^ Cap. 2. n. 5. Verba ipsa vide supra pag. 523, nota 6.      exhibent in somnis ; codd. TV haec verba in somnis addunt,
-          — Pro Insanis Vat. cum edd. 3 , 4 Vesanis, refragantibus          relenlo Dominus. Paulo inferius pro nsus liberi arbitrii et ra-
-          codd. , edd. 1 , J et textu originali.                            tionis Val. cum ed. 3 iisus liberi arbitrii in somnis, codd.
-                ' Cod. 0 ^■avo. Paulo inferius pro per lassitudinem codd.   .\ B I K P Q T W cum ed. 2 in bonis ; nostra lectio innititur codd.
-          T aa bb ee el alii propter lassitudinem. — Cfr. de hoc arg.       CDEFLNOY etc. ct ed. I.
-          August. , XII. de Gcn. ad lil. c. 13. n. 31.
-                                              DIST. XXV. P. II. ART. UNICUS QUAEST. VI.
-                                                                                                                               621
-       somnis liberum arbitrium ab actu suo non haLieat                     quae non possent dicere, nisi rationem hal^erent,
-       impediri.                                                            cum ad interrogata respondent; in neutris tamen
-             2. Item, Gregorius super illud lob': Terrebis                  dicitur usus liberi arbitrii esse. — Omnia haec diffici-
-       me per somnia , loquens de nocturnis illusionibus:                   lem faciunt quaestionem.
-       « Haec malignos spiritus agere, superna dispensatio
-                                                                                                 c 0 N c L u s I 0.
-       benigne peimittil in electorum cordibus, ne ipse sal-
-       tem a passionis praemio soQinus vacet»: ergo con-
-       tingit in somnis mereri: ergo propter ineptitudinem                  Liberum arbitrium propter corporis ineptitudinem
-       corporis liberum arbitrium non amillit usum pro-                              potest impediri quoad usum.
-       prium.
-             3. Item, aninia quantum ad propriam opera-                          Respondeo : Quod ^ etsi ad hanc quaestionem fa-
-       tionem intellectivam sive liberum arbitrium nuUius                   cile sit respondere, cum quaeritur, utritm liberum
-       partis corporis est actus , nec illam operationem                    arbitrium ligetur per corporis ineptitudinem quan-
-       exercet per aliquod organum * : ergo quantumcum-                     tum ad usum; quoniam ipsa experientia hoc plane concinsio i.
-       que corporale organum vel laedatur, vel fiat ineptum,                docet et manifestat, quod ligatur in parvulis et
-       liberum arbitrium non perdet usum suum.                              dormientibus et furiosis; ad illam taraen quaestio- Ad qnaesi.
-             4. Item, quanto magis anima recolligitur ab ex-                nem , quae hanc subsequitur, videlicet, quare liga-
-       terioribus ad interiora, tanto magis viget operatio                  tur iiberum arbitrium ex corporis ineptitudine, cum
-       interior^; sed cum ligantur organa sensuum exte-                     non sit potentia alligata organo; valde difQcile est
-       riorum, recolliguntur vires animae ab exterioribus                   respondere et eius assignare causam. Intelligendum
-       ad interiora: ergo tunc maxime debet vigere operatio                 tamen est, quod est quadruplex modus satisfaciendi
-       interior. Sed penes hanc attenditur liberi arbitrii                  huic quaestioni.
-       usus: ergo quando corpus effieitur ad sentiendum                           Quidam
-                                                                                  ^
-                                                                                          enim dicere voluerunt , quod
-                                                                                                                   '
-                                                                                                                       usus ratio- Qnatoor
-                                                                                                                                   liitiones.
-                                                                                                                                              so-
-       ineptum., utpote per somnum, liberum arbitrium                       nis vel etiam liberi arbitrii '^ impeditur el ligatur
-       tunc debet habere potissime usum proprium.                           ex corporis ineptitudine propter animae conversio-
-             0. Item, videre futura, hoc est rationis ma-                   nem; quidam vero, propler obsequii corporalis pri-
-       xime elevatae ; sed in somnis potissime fit revelatio                vationem ; tertius vero est modus dicendi, quod pro-
-            et praevisio futurorum : ergo altissimus * actus ratio-         pter operationis rationalis quandam communieatio-
-            nis viget in somnis, dum est ineptitudo ex parte                nem; quartus autem modus est, propter corporis et
-            corporis; pari ratione et usus liljeri arbitrii.                animae unionem ad tertii constitulionem.
-                  6. Item, multo magis pendet ex corpore vis                     Primo, propter conversionem dixerunt aUqui soiatio i.
-            phantastica et imaginativa quam rationalis virtus et            animam impediri ab actu rationis, existente ineptitu-
-            intellectiva: ergo si propter ineptitudinem a parte             dine ex parte corporis. Aut enim est corpus ineptum
-  i         corporis, quae quidem est in phreneticis vel etiam              ex aliqua laesione interiori, sicut est in furiosis et
-            in somnis, non impeditur operatio phantastica, immo             phreneticis; et tunc anima cessat ab operatione in-
-            etiam viget; videtur, quod non debeat impediri ope-             telligendi propter hoc , quod nimia compassione con-
-            ratio intellectiva.                                             vertitur ad corpus ralione nobilis organi laesi. Aul
-                  Est igitur quaestio, cum operatio liberi arbitrii         est ineptum ex imperfectione, quae est in mem-
-laesiio in- vel etiam intellectus nuUo modo pendeat ex cor-                 bris et organis, sicut est in parvulis; et tunc anima
-"*'°^ '' pore: unde est hoc, quod impeditur et ligatur pro-                 adeo est intenta gubernalioni corporis et rebus,
-            pter aliquam ineptitudinem factam circa corporale               quas per sensus corporis percipit, qnod quasi obli-
-laestio m- organum? —
-idens 2.                      Et iterum, si impeditur, cum minus            viscitur sui. Et ideo ex nimia conversione ad cor-
-            pendeat ex corpore quam virtus phantastica: unde                pus suum, quae est ex organoruin laesione, sive
-            est hoc, quod magis perdit usum suum ratio in                   ex imperfectione, contingit, usum rationis et liberi
-idens 3. somnis quam phantasia vel imaginatio ? — Et iterum,
-laestio in
-                                                                            arbitrii impediri. — Sed hic modus dicendi non plene Non saUsfa-
-             cuiu rafio quantum ad actum liberi arbitrii maxime             satisfacit. Videmus enim, quod vehemens dolor, ex
-             sit potens et libera: unde est hoc, quod propter               parte corporis in extreinitatibus factus, rationis usum
-             ineptitudinem ex parte corporis facilius toilitur usus         nou impedit, et tamen anima illum dolorem mul-
-             bberi arbilrii quam aliquis actus rationis? In somnis          tum refugit. Item, in somnis non raagis convertitur
-             enim homo aliquos babet rationales motus, et in                ad corporalia quam in vigilia; si ergo conversio,
-             furiosis similiter hoc videmus, quod multa dicimt.             quae est in vigilia, usum rationis non tollit, pari ra-
+2. Item, hoc ipsum videtur exemplo, quia vir sanctus et castus, cuius castitas est magna, frequenter in somnis consentit operi peccati[^2], quod nullo modo faceret tempore vigiliae: ergo in somnis ligatur actus liberi arbitrii; sed hoc non est nisi per lassitudinem et ineptitudinem ex parte corporis: ergo etc.
 
-             ' Cap. 7, U. Verba, quibus Gregorius in VIII. Moral. c.             3 Vide supra pag. 459, nota 4. Paiilo inferius cdd. iiinc
-        24. n. 43 , liunc locum exponit , haec sunl : Quem [malignum        magis pro tuno maxime.
-        spiritum] .tamen iiaec maligne agere, superna dispensatio beni-          < Val. cum edd. 3, 4 potissimus.
-        gne permittit, ne in electorum cordibus ipse sallem etc.                 5 Codd. aliqui praeflgunt dicendum.
-             2 Secundum Aristot., II. de Anima, text. II. (c. 1.) et III.        ^ Vat. liberum arbilrium. In multis codd. nec non in
-        tcxt. 6. (c. 4.). Cfr. supra pag. 458, nota 3. — Plures codd.,      primis edd. lectio horum verborum dubia est, cum sinl ab-
-        ut CFR S bb ee, in hac proposit. omittunt propriam.                 breviala.
-           622                                                       SENTENTIARUM LIB. 11.
+3. Item, deficiente priori, deficit id quod posterius est: si ergo impeditur aliquis actus, qui praeambulus est ad usum liberi arbitrii, per ineptitudinem corporis; necesse est, et usum liberi arbitrii impediri. Sed actus praeambulus ad liberum arbitrium est operatio intellectus, quae per ineptitudinem corporis impeditur; sicut patet in dormientibus et in phreneticis, et Philosophus[^3] dicit, quod «intellectus corrumpitur, quodam interius corrupto», et hoc docet ipsa experientia: ergo etc.
 
-          tione videtur, quod nec conversio, quae est in somnis                       potentia intellectiva operationem suam coipori con-
-                                                                                      iuncto, cum communicet ei esse, et ex eis fiat unum
-                circa regimen corporis '.
-                      Et ideo est secundus modus dicendi, videlicet                   per essentiam, non solum in quantum anima est vege-
-   soiatio -2. quod liberum arbitrium a proprio usu habet impe-                       tabilis et sensibilis, sed etiam in quantum rationalis^
-                diri propter privalionem obsequii corporalis. Etsi                    Anima enim rationalis, adveniens corpori humano,
-               enim operatio intellectus non (iat per organum, ni-                    sicut ex sua unione facit ipsum esse animal et ani-
-               hilominus tamen virtutes sensitivae ipsi inteliectivae                 matmn, ita facit esse /lominem; et ideo, sicut ali-
-               faciunt aliquod obsequium ad hoc, quod exerceat                        quam operationem communicat corpori, in quantum
-               suum actum. Dupliciter enim obsequitur vis phan-                       facit vivwn et in quantum facit animal, sic etiam
-               tastica intellectui in actu intelligendi, in hoc videlicet,            aliquam communicat, in quantum kich hominem , \i-
-               quod offert illa pliantasmata intellectui possibili , si-              cet non omnino uniformiter. Differenti enim modo
-               cut obiectum ollert speciem oculo; et in hoc etiam,                    communicat anima corpori operationes ', quae respi-
-               quod intellectus noster excitari habet ab inferiori,                   ciunt potentiam vegetativam et sensitivam, et ope-
-               quamdiu est coniunctus corpori -. Et ideo , quando                     rationes potentiae intetlectivae. Nam operatio sensiti-
-               laesio est et ineptitudo ex parte organi potentiae                     vae et vegetativae sic communicatur corpori , ut sit
-               sensitivae, et fit perturbatio phantasmatuni; impe-                    in corpore et per corpus, sit etiam in corpore et
-               ditur usus liberi arbitrii et intellectus propter hoc,                 non sine corpore; non enim nutrit anima, nisi me-
-               quod aufertur sibi debitum obsequium; sicut oculus                     diante organo corporeo, nec nutrit, nisi quamdiu est
-               meus potest impediri ab actu videndi propter obscu-                    in corpore. Intelligere autem sic communicat anima
-               rationem ahquam factam in re visibili, quae habet                      corpori, ut sic intelligat cxmi corpore aliquo modo
-               mihi speciem offerre et visum meum excitare. — ■                       agente", ut tamen non intelligat per corpus; sic
-jTon cit.
-      satisfa- Sed istc modus dicendi adhuc non plene satisfacit,                     intelligat etiam in corpore, ut tamen etiam intelli-
-               pro eo quod nos videmus, operationem intellectus im-                   gat, cum est separata a corpore. Quia vero, dum
-               pediri, non facto impedimento in opere interioris '                    est in corpore, communicat ei rationalem .operatio-
-               virtutis sensitivae, utpote imaginationis et phantasiae.               nem, ideo, facta inordinatione ex parte corporis,
-               Et iterum, cum intellectus et memoria intelligibilis                   habet illa operatio
-                                                                                                    *■      impediri.
-                                                                                                               ^      — Sed iste modus di-Eipane
-                                                                                                                                              proijatur
-               aliquas species in se habeat abstractas, quas in se                    cendi calumniam habet in hoc quod dicit, quod ope-
-               et penes se conservat, quas anima secum trahit,                        ratio intellectus aliquo modo communicatur corpori ,
-               cum a corpore separatur; videtur^ quod omni obse-                      cum non videatur verum, et Philosophus contradi-
-               quio phantasiae et phantasmatum circumscripto, in-                     cere videatur expresse in decimo sexto Animalium",
-               tellectus usum habere debeat respectu eorura quo-                      ubi dicit, quod « intellectus est ab extrinseco» pro-
-               rum habet in se habitum. Et hoc plane falsum est,                      pter hoc, quod nullo modo est immixtus corpori. Et
-               quia ita homo impeditur in somnis ^ a consideratione                   hoc ipsum dicil in tertio de Anima. Et itenmi, etsi
-               eorum quae novit, sicut ab inquisitione eorum quae                     concedatur , quod homo intelligat, nullo tamen modo
-               non novit.                                                             conceditur nec de toto corpore nec de parte, quod
-                     Et propterea est tertius modus dicendi, quod                     intelligat. Unde videtur, quod hoc dicatur de toto
-  soiuiio 3. operatio liberi arbitrii et rationis ex corporis ineptitu-               coniuncto ratione partis, scilicet animae; sicut, cum
-               dine habet impediri propter quandam communicatio-                      dicitur: homo est albus, hoc dicitur solum ratione
-               nem operationis. Communicat autem quodam modo
+4. Item, sicut homo lassatur in sentiendo, ita etiam lassatur in cogitando et in meditando; sed quia corpus lassatur in sentiendo, ideo indiget quiete somni, in quo impeditur ab operationibus sensuum: ergo pari ratione necesse est, liberum arbitrium propter lassitudinem corporis ab actu et usu proprio impediri.
 
-                                                                                      corporis   '°.
-                1 Has duas rationes , quae pi-aediclae opinionis principalia              ^ Cfr. Aristot. , II. de Anima , text. 6. seq. et text. 24. seqq.
-          momenla impugnant, Gulielm. Mai-a, hic q. 9, sic jitteris man-              (c. I. seq.). — Paulo inferius post ita facit cod. X adiungit
-          dat; Primum non potest stare, quia ubi maior fuga passionis,                ipsum, cod. aa etiam.
-          ibi maior conipassio ; sed in mullis liabentibus usum rationis                    ' Ex codd. .A Q X cc et ed. \ sdiecimus operationes , quae
-          est maior fuga passionis quam in phreneticis et furiosis. Se-               vox a Vat. abest. In propositione seq. sequiinur codd. F aa
-          cundum similiter non videtur verum, quia, si anima ex nimia                 bb ee. Alii codd. cum edd. sic eam exhibent : Nam opera sen-
-          attentione administrationis impediretur in actu intcllectus, ergo           sitivae... sio communicat corpori, ut sint in corpore... sint
-          magis deberet impediri in sobriis quam in ebriis. Nam secun-                (Vat. sic) etiam in corpore et (Vat. id) non sine corpore. Ta-
-          dum August. , VI. iUusicae (c. S. n. 1 0.) : Sentire animae in cor-         men, sicul nos , etiam codd. C K R S V W legunt communicatur
-          pore est cum attentione agere; sed in ebriis est minor sensua-              pro communioat.
-          litas quam in sobriis: ergo minor attentio.                                       8 Ed. I coagenie. Paulo inferius pro Quia vero codd. F V
-                " Cfr. Aristot. , III. de Anima , text. 1 8. 30. 39. (c. S. 7. 8.).   W X Z aa et alii Quia ergo.
-          — Paulo ante vocula nosler , quam ex codd. FHIKTVW                                3 Sive II. de Generat. animal. c. 3: Restat igitur, ut mens
-          aa bb ee voci intelleclus adiecimus, deest in Vat.                          sola extrinsecus acccdat eaque sola divina sit ; nihil enim cum
-                * Sic cod. aa et Vat, , dum fere omnes alii codd. cum pri-            eius actione communicat aclio corporalis. Libr. III. de Anima,
-          mis edd. perperam legunt extenoris , cod. cc cum ed. I infc-                texl. 4. (c. 4.J docet, intellcctum immixtum esse corpori. Cfr.
-          rioris. Paulo inferius pro memoria inlelligibilis Vat., moder-              supra pag. 446, nota 4. et pag. 4-38, nota 3, ubi etiam alii
-          norum modo loquendi se commodans , memoria intelleclmUs.                    loci indicantur.
-                ■• Simul audi : ex praedicta opinione sequi.                                '" Cfr. Aristot. , I. de Anima, text. 64. seqq. (c. 4.) et II.
-                = Verba ita et in somnis ex codd. C F H L T U aa cc et                text.  II. (c. I.). — Paulo superius post nec cle parteVal sub-
-          ed. I in textum recepimus. Paulo inferius pro inquisitione codd.            iicit corporis.
-          T aa acquisitione.
-                                            DIST. XXV. P. It. ART. UNICUS QUAEST. VI.                                            623
+**Sed contra:**
+1. Tertio Regum tertio[^4] refert historia, quod Dominus in somnis apparuit Salomoni, et merito petitionis, quam fecit, Dominus dedit ei sapientiam multam nimis. Si ergo mereri aliquid apud Deum et sapientiam suscipere, hoc est usus liberi arbitrii et rationis; videtur, quod propter lassitudinem et ineptitudinem corporis et quietem in somnis liberum arbitrium ab actu suo non habeat impediri.
 
-                Et propterea est quartus modus dicendi, quod              illud, secundum quod conformatur operationi sensi-
-jiaiio 4. scilicet operatio animae in corpore impediri habet              tivae. Et ideo fumositates ascendenles ad cerebrum,
-          [)ropter corporis inepliiudinem. Et huius ratio est             quae perturbant spiritus in somnis vel in pueris vel
-UDdam. unio animae et corporis ad unius tertii constitutio-               in phreneticis, vel quaecumque alia laesio organorum,
-          uera , quod est unum per essentiam , et cui debetur             in quibus resident spiritus subtilissimi et nobilissimi
-          propria operatio, secundum quod est unum. Haec                  corporales, facilius impedit usum rationis quam ima-
-          autem operatio non est vivere tantum nec sentire                ginationis. — Et sic palet ratio, quare impeditur ex
-          sive movere, sed ratiocinari et intelligere. Et pro-            ineptitudine corporis usus rationis, et quare magis
-          pter ipsam unionem non tantum pendet anima ex                   impeditur quam usus inferioris virtutis.
-          corpore quantum ad actum sentiendi, sed etiam ali-                    Ex hac eadem ratione colligitur, quare magis
-          quo modo quantum ad actum intelligendi , quamdiu                impeditur ratio quantum ad usum liberi arbitrii Ad maest.
-          est in corpore , sed longe aliter et aliter. Nam quan-          quam quantum ad alios actus rationales, quos in
-          tum ad actum vegetandi et sentiendi sic pendet, ut              soranis et furiosis aliquando dignoscitur babere. Actus
-          nullo modo possit illos exercere nisi in corpore —              enim bberi arbitrii respicit potenliam rationalem,
-          non autem sic de actu intelligendi — sic etiam pen-             prout est in omnimoda et plena libertate. Liberum
-          det, ut illos actus exerceat per corpus et per or-              enim arbitrium dicit dominium potentiae respectu
-          ganum corporeum — non sic ' est de actu intelli-                aclus, sicut supra^ determinatura est. Et quoniam,
-          gendi — et ideo actum sentiendi dicitur communicare             cum impeditur aliqua virtus operativa, primo aufer-
-          anima corpori. Unde non absurde omnino dicitur:                 tur ei actus ille, qui ei inerat secundura suam pleni-
-          oculus videt: non sic autem dicitur de actu intelli-            tudinem — sicut patet, cum aliquis infirmatur in
-          gendi. Dicitur autem anima sentire per corpus , et              pede , facilius ei aufertur potenlia velnciter currendi
-          non intelligere per corpus, quia, cum duo concur-               quara potentia ambulandi, sive facilius impeditiir hic
-          rant ad actum intelligendi et sentiendi, videlicet re-          actus quam ihe — sic et in proposito facilius et
-          cipere et iudicare, in sentiendo receptio speciei est a         frequentius contingit auferri usum libertatis quam
-          corpore, sed iudicium est a virtute'; sed m intelli-            quemcumque actum potentiae intelligendi. — Con-
-          gendo utrumque est a virtute intellectiva , videlicet           cedendae sunt igitur rationes ostendentes, quod h-
-          ab intellectu possibili et agente. Et propterea intel-          berum arbitrium ex ineptitudine ex parte corporis
-          lectus dicitur vis non alligata materiae, et opera-             habet impediri quantum ad suum usum , sicut im-
-          tionem hanc potest habere , cum est separata a cor-             peditur in infantibus et furiosis et dormientibus.
-          pore; quamdiu autem est in corpore, non omnino                        1. Ad illud quod
-                                                                                              ^     prirao
-                                                                                                    ^      obiicitur in contrarium soiutio op-
-                                                                                                                                   positonim.
-          intelligit praeter corpus. Sicut enim esse animae in            de petitione Salomonis, quae fuit in somnis; dicen-
-          corpore aliquo modo pendet ex corpore, quamvis                  dum , quod illud fuit aut gratiae specialis et pri-
-          non pendeat esse ipsius animae in se — ideo ad hoc,             vilegii, non legis coraraunis, quod in somnis po-
-          quod anima sit in corpore, necesse est, corpus de-              tuit mereri, et dignus fuit exaudiri; aut certe hoc Aiia soiutio.
-          bite complexionatum esse ; et ad illius complexionis            dicitur, non quia Deo placuerit dormiendo, sed
-          corruptionem contingit. animam amplius non esse in              quia ante vigilando et " illud praecogitando Deo pla-
-          corpore — sic, quamdiu anima est in corpore, intelli-           cuit, et quod in vigilia placuerat, Dominus per
-          gere suum non est sine corpore et sine aliqua dis-              revelationem manifestare voluit in somnis; frequen-
-          positione ex parte corporis, cuius actualitas commu-            tius enim in somnis quam in vigilia apparere con-
-          nicat'' actui intelligendi, sicut congrua dispositio            suevit.
-          correspondebat existentiae animae in corpore et per-                  2. Et per hoc patet responsio ad sequens ver-
-          fectioni eiusdem. Illa autem actualitas atlenditur              bum Gregorii. Quod enim dicit, sanctos viros in
-           secundum illud quod est supremum in corpore, et                somnis mereri; hoc dictum est, quia occasione sumta
-           quantum ad nobilissimos spiritus, qui locum habent             ab eo, quod patiuntur in somnis, postmodura me-
-           in nobilissimis organis corporis. Et quoniam, cum              rentur in vigilia; sicut vir peccator demereri dicitur
-I qMcst. aliquid aufertur ab ahquo, prius aufertur ab eo illud            in pollutione noclurna, quara sua cogitatione' pro-
-'"^' ^' quod est in eo excellentissimum ; et cum aliqua vir-              vocavit, vel de cuius recordatione postraodum de-
-           tus debilitatur, prius aufertur ab ea summum, quam             lectatur.
-           illud quod est citra summum: hinc est, quod in                       3. Ad illud quod obiicitur, quod anima secun-
-           laesione corporis citius tollitur'' illud, secundum quod        dura operationera inlellectivam non est actus alicuius
-           corpiis conformabatur operationi intellectivae , quam          partis corporis; iara patet responsio ex praedictis.
+<!-- page 621 -->
 
+2. Item, Gregorius super illud Iob[^5]: *Terrebis me per somnia*, loquens de nocturnis illusionibus: «Haec malignos spiritus agere, superna dispensatio benigne permittit in electorum cordibus, ne ipse saltem a passionis praemio somnus vacet»: ergo contingit in somnis mereri: ergo propter ineptitudinem corporis liberum arbitrium non amittit usum proprium.
 
-             ' Codd. F P Q V W et edd. 2 , 4 agglulinant autem.                ■" Cod. Y collidiiur, non incongrue ; codd. C H I S cum
-             2 Cfr. supra pag. 221 , nota 4.                              ed. 2 colligiiur , perperam. Paulo inferius pro conformatur
-             3 Vau conveniat, codd. VZ cum ed. 1 communicatur ;           cod. bb conformabaiur.
-       noslra leclio sumla est ex codd. A K T aa tti ee et ed. 1 . Ini-        ^ Huius dist. part. 1. q. 1. et 3.
-       mediate ante cod. X voculae ciiius adiungil corporalis dispo-           8 Cod. H sed quia aut vigilando aut. Mox pro placuit
-       siiionis , et mox post congrua disposilio addit sivo congruae      codd. T bb el alii ptacuerit.
-       dispositionis aciualiias.                                               ' Codd. Y bb cc ee cum ed. 1 praecogiiaiione.
-        624                                                  SENTENTIARUM LIB. U.
+3. Item, anima quantum ad propriam operationem intellectivam sive liberum arbitrium nullius partis corporis est actus, nec illam operationem exercet per aliquod organum[^6]: ergo quantumcumque corporale organum vel laedatur, vel fiat ineptum, liberum arbitrium non perdet usum suum.
 
-        Quamvis enim non operetur per organum corporale,                      latione divina plus se habet homo per modum sus-
-        nihilominus tamen ad hoc, quod anima operetur in                      cipientis quam agentis; tum, quia etiam in somnis
-                                                                              medium tenet homo inter mortuuni et viventem, et
-        corpore, necesse est, corpus secundum noliiles spi-                   ita quodam modo a vita huius mundi recedit, de
-        ritus et nobilia organa in debita actualitate et dis-
-        positione esse, sicut prius osteusum est. Et quoniam                  qua Dominus Exodi trigesimo tertio^ dicit: Nonvi-
-        haec dispositio toUitur per corporis ineptitudinem,                   debit me homo, et viuet. Ex hoc ergo non potest
-                                                                              concludi, quod usus liberi arbitrii sit in somnis,
-        ideo per consequens actus rationis et usus liberi ar-
-        bitrii impeditur.                                                     quamvis ibi contingat revelationes fieri, quoniam in
-              4. Ad illud quod obiicitur, quod anima in somnis                somnis magis agitur anima, quam agat; sed in usu
-        revocatur ab exterioribus ad interiora; dicendum,                     liberi arbitrii magis agit, quam agatur.
-            quod verum est, sed non quantum ad omnes opera-                         6. Ad illud quod obiicitur, quod vis phanta-
-            tiones interiores, sed quantum ad operationes na-                 stica non impeditur in somnis; dicendum, quod etsi
-            turales. Nam sonmus est quies virtutum animalium                  videatur phantasia magis in somnis quam in vigilia
-            cum intensione naturalium'; et ideo non sequitur,                 vigere, nihilominus tamen aliquo modo impediri ha-
-            quod usus rationis vel liberi arbitrii in somnis in-              bet. Potentior est enim homo in vigilia ad imaginan-
-            tendatur, cum haec potius contineantur sub viribus                dum omne quod vult, quam in somnis; hcet motus
-            animaliijus quam naturalibus.                                     imaginativae non ita appareat in vigilia propter con-
-                  5. Ad illud quod obiicitur, quod in somnis                  versionem animae ad exteriora, et in somnis mo-
-            anima videt futura; dieendum, quod, sicut deter-                  dici ' motus sentiantur propter animae quietationem.
-            minatum est supra distinctione septima -, in somnis               — Et si obiiciat, quod non sic impeditur, quin aliquo
-            non est praevisio futurorum, iiisi visitalio emitta-              modo habeat usum suum phantasia , ergo nec debet
-            tur ab Altissimo, sicut dicitur Ecclesiastici trige-              impediri potentia superior; iam patet responsio ex
-iNoiandQin. siuio quarto. iUagis autem Dominus visitat in somnis              his quae snpra dicta sunt; facilius enim aufertur
-            quam in vigilia in revelando futura, tum propter                  omnis potentia in summo quam citra summum. Et
-            hoc, quod anima in vigilia est dispersa ad exteriora              praeterea, in somnis plus quietantur virtutes ani-
-            sensibilia comprehendenda; tum etiam, quia Domi-                  males quam naturales; motus autem et decursus il-
-            nus, qui posuit tenebras latibiilum suum % ad sui                 lorum phantasmatura naturalis est: et ideo non sic
-            ipsius occultationem magis vult in somnis quam in                 impeditur usus phantasiae, sicut usus potentiae in-
-            vigilia revelationes emittere; tum etiam, quia in                 tellectivae. — Ad quaestiones autem , quae sequun-
-            somnis magis agitur homo, quam agat, et in reve-                  tur, plana est resporisio ex his quae praedicta sunt.
+4. Item, quanto magis anima recolligitur ab exterioribus ad interiora, tanto magis viget operatio interior[^7]; sed cum ligantur organa sensuum exteriorum, recolliguntur vires animae ab exterioribus ad interiora: ergo tunc maxime debet vigere operatio interior. Sed penes hanc attenditur liberi arbitrii usus: ergo quando corpus efficitur ad sentiendum ineptum, utpote per somnum, liberum arbitrium tunc debet habere potissime usum proprium.
 
+5. Item, videre futura, hoc est rationis maxime elevatae; sed in somnis potissime fit revelatio et praevisio futurorum: ergo altissimus[^8] actus rationis viget in somnis, dum est ineptitudo ex parte corporis; pari ratione et usus liberi arbitrii.
 
-                                                                   SCHOLIOK
+6. Item, multo magis pendet ex corpore vis phantastica et imaginativa quam rationalis virtus et intellectiva: ergo si propter ineptitudinem a parte corporis, quae quidem est in phreneticis vel etiam in somnis, non impeditur operatio phantastica, immo etiam viget; videtur, quod non debeat impediri operatio intellectiva.
 
+Est igitur quaestio, cum operatio liberi arbitrii vel etiam intellectus nullo modo pendeat ex corpore: unde est hoc, quod impeditur et ligatur propter aliquam ineptitudinem factam circa corporale organum? — Et iterum, si impeditur, cum minus pendeat ex corpore quam virtus phantastica: unde est hoc, quod magis perdit usum suum ratio in somnis quam phantasia vel imaginatio? — Et iterum, cum ratio quantum ad actum liberi arbitrii maxime sit potens et libera: unde est hoc, quod propter ineptitudinem ex parte corporis facilius tollitur usus liberi arbitrii quam aliquis actus rationis? In somnis enim homo aliquos habet rationales motus, et in furiosis similiter hoc videmus, quod multa dicunt, quae non possent dicere, nisi rationem haberent, cum ad interrogata respondent; in neutris tamen dicitur usus liberi arbitrii esse. — Omnia haec difficilem faciunt quaestionem.
 
-              Postquam S. Doclor duabus quaestionibus posuit , quod libe-     unum per essentiani. In opinione tertia dicitur, quod aninia com-
-        rum orbitrium possit mchici a creatura, immutari a Deo, cogi a        municat corpori esse , esse vivum, esse hmnanum, et quod
-        nullo, hic etiam subtiliter inquirit de via et ratione, qua possit    etiam aliquo modo ei communicat rationalem operationem. Hoc
-        impediri seu ligari ex partc coiporis; quae est quaestio non exi-     ullimum tantmn non probatur a S. Doctore. — S. Thom. au-
-        gui momenti. Alii Lombardi commentatores de hac quaestione            tem (locet, quod anima materiae dat , praeter esse animale et
-        tacent, si excipias Petrum a Tar., hic q. i. a. 2, et aliquatcnus     humanum , eliam esse corporeum (non autcm essentiam sive
-        Richardum a Med. (hic a. S. q. 2.), qui quaerit, utrum per na-        realitatem maleriae). — Quomodo anima ralionalis sit forma sub-
-        turam possimus in somnis habere usuni liberi arbitrii. Plura          stantialis corporis, docetur a S. Bonav. etiam 1. Sent. d. 8. p.
-        ad rem habet etiam Alex. Hal., S. p. III. q. 6 1 . m. L a. I . § 2.   II. a. I. q. 3. ad 1 ; supra d. I. p. II. a. 3. q. 2. ad 2. 3, d.
-              Principia autem S. Doctoris communiter approbanlur. Prae-       8. p. I. a. 3. q. 2.,, ibid. p. II. q. I. ad 3. 4, infra d. 26.
-        ter gravissiraa documenta , quae ad rationem cognitionis liumanae     q. 3, III. Sent. d. 16. a. 2. q. 1; Breviloq. p. II. c. 9. et
-        spectant, notanda est doctrina (in corp. opin. 3. et 4.) de animae    alibi passim. — De unitate formae substantialis cfr. supra d. 1 2.
-        et corporis unione, qua constituitur tertium aliquod, quod est        a. I. q. 3, et praeciptie d. 13. a. 2. q. 2. schol.
+### Conclusio
 
+> Liberum arbitrium propter corporis ineptitudinem potest impediri quoad usum.
 
+**Respondeo:** Quod[^9] etsi ad hanc quaestionem facile sit respondere, cum quaeritur, utrum liberum arbitrium ligetur per corporis ineptitudinem quantum ad usum; quoniam ipsa experientia hoc plane docet et manifestat, quod ligatur in parvulis et dormientibus et furiosis; ad illam tamen quaestionem, quae hanc subsequitur, videlicet, quare ligatur liberum arbitrium ex corporis ineptitudine, cum non sit potentia alligata organo; valde difficile est respondere et eius assignare causam. Intelligendum tamen est, quod est quadruplex modus satisfaciendi huic quaestioni.
 
+Quidam enim dicere voluerunt, quod usus rationis vel etiam liberi arbitrii[^10] impeditur et ligatur ex corporis ineptitudine propter animae conversionem; quidam vero, propter obsequii corporalis privationem; tertius vero est modus dicendi, quod propter operationis rationalis quandam communicationem; quartus autem modus est, propter corporis et animae unionem ad tertii constitutionem.
 
-              ' Secundum Aristot. , de Somno et vigilia, c. 4. (c. 3.).            ■* Vcrs. 20. — Paulo superius pro huius mundi Val. cum
-        — Paulo superius versus init. solut. Vat. omittit ab exteriori-       edd. 2, 3, 4 liuiusmodi. Paulo inferius ed. I ex hoc enim pro
-                                                                              ex hoc ergo.
-        bus, quae verba exstant in codd. CFLXY aa bb ee. In line
-        solutionis cod. F Iiic potius contineaiur pro haec poiius conti-           5 Vat. voeabulum modici, quod secundum codd. A C E F
-        neantur.                                                              L M Q X aa ee primilus legebatur, transformavit in medii. Mox
-             ^ Parte II. a. I. q. 3. ad 3. Cfr. etiam d. 23. a. 2. q. 2.      pro impeditur eadem Vat. impedit, et dein cum edd. 2, 3 pessime
-        ad 4. — Seq. text. est Eccli. 34 , 6. — Dein pro in rerelando         somno et somnum pro siimmo et summum. Similiter peccant
-        cod. I in indicando , cod. T in ostendendo.                           paulo
-             3 Psalm. 17, 12.                                                 somnis.post codd. C 0 R S et alii , ponentes in summis pro in
-                                                      DIST. XXV. P. II. DUBIA.
-                                                                                                                                   623
+Primo, propter *conversionem* dixerunt aliqui animam impediri ab actu rationis, existente ineptitudine ex parte corporis. Aut enim est corpus ineptum ex aliqua laesione interiori, sicut est in furiosis et phreneticis; et tunc anima cessat ab operatione intelligendi propter hoc, quod nimia compassione convertitur ad corpus ratione nobilis organi laesi. Aut est ineptum ex imperfectione, quae est in membris et organis, sicut est in parvulis; et tunc anima adeo est intenta gubernationi corporis et rebus, quas per sensus corporis percipit, quod quasi obliviscitur sui. Et ideo ex nimia conversione ad corpus suum, quae est ex organorum laesione, sive ex imperfectione, contingit, usum rationis et liberi arbitrii impediri. — Sed hic modus dicendi non plene satisfacit. Videmus enim, quod vehemens dolor, ex parte corporis in extremitatibus factus, rationis usum non impedit, et tamen anima illum dolorem multum refugit. Item, in somnis non magis convertitur ad corporalia quam in vigilia; si ergo conversio, quae est in vigilia, usum rationis non tollit, pari ratione videtur, quod nec conversio, quae est in somnis circa regimen corporis[^11].
 
-                                               DUBIA CIRCA LITTERAM MAGISTRI.
+<!-- page 622 -->
+
+Et ideo est secundus modus dicendi, videlicet quod liberum arbitrium a proprio usu habet impediri propter privationem obsequii corporalis. Etsi enim operatio intellectus non fiat per organum, nihilominus tamen virtutes sensitivae ipsi intellectivae faciunt aliquod obsequium ad hoc, quod exerceat suum actum. Dupliciter enim obsequitur vis phantastica intellectui in actu intelligendi, in hoc videlicet, quod offert illa phantasmata intellectui possibili, sicut obiectum offert speciem oculo; et in hoc etiam, quod intellectus noster excitari habet ab inferiori, quamdiu est coniunctus corpori[^12]. Et ideo, quando laesio est et ineptitudo ex parte organi potentiae sensitivae, et fit perturbatio phantasmatum; impeditur usus liberi arbitrii et intellectus propter hoc, quod aufertur sibi debitum obsequium; sicut oculus meus potest impediri ab actu videndi propter obscurationem aliquam factam in re visibili, quae habet mihi speciem offerre et visum meum excitare. — Sed iste modus dicendi adhuc non plene satisfacit, pro eo quod nos videmus, operationem intellectus impediri, non facto impedimento in opere interioris[^13] virtutis sensitivae, utpote imaginationis et phantasiae. Et iterum, cum intellectus et memoria intelligibilis aliquas species in se habeat abstractas, quas in se et penes se conservat, quas anima secum trahit, cum a corpore separatur; videtur[^14], quod omni obsequio phantasiae et phantasmatum circumscripto, intellectus usum habere debeat respectu eorum quorum habet in se habitum. Et hoc plane falsum est, quia ita homo impeditur in somnis[^15] a consideratione eorum quae novit, sicut ab inquisitione eorum quae non novit.
+
+Et propterea est tertius modus dicendi, quod operatio liberi arbitrii et rationis ex corporis ineptitudine habet impediri propter quandam communicationem operationis. Communicat autem quodam modo potentia intellectiva operationem suam corpori coniuncto, cum communicet ei esse, et ex eis fiat unum per essentiam, non solum in quantum anima est vegetabilis et sensibilis, sed etiam in quantum rationalis[^16]. Anima enim rationalis, adveniens corpori humano, sicut ex sua unione facit ipsum esse animal et animatum, ita facit esse *hominem*; et ideo, sicut aliquam operationem communicat corpori, in quantum facit *vivum* et in quantum facit *animal*, sic etiam aliquam communicat, in quantum facit *hominem*, licet non omnino uniformiter. Differenti enim modo communicat anima corpori operationes[^17], quae respiciunt potentiam vegetativam et sensitivam, et operationes potentiae intellectivae. Nam operatio sensitivae et vegetativae sic communicatur corpori, ut sit in corpore et per corpus, sit etiam in corpore et non sine corpore; non enim nutrit anima, nisi mediante organo corporeo, nec nutrit, nisi quamdiu est in corpore. Intelligere autem sic communicat anima corpori, ut sic intelligat cum corpore aliquo modo agente[^18], ut tamen non intelligat per corpus; sic intelligat etiam in corpore, ut tamen etiam intelligat, cum est separata a corpore. Quia vero, dum est in corpore, communicat ei rationalem operationem, ideo, facta inordinatione ex parte corporis, habet illa operatio impediri. — Sed iste modus dicendi calumniam habet in hoc quod dicit, quod operatio intellectus aliquo modo communicatur corpori, cum non videatur verum, et Philosophus contradicere videatur expresse in decimo sexto *Animalium*[^19], ubi dicit, quod «intellectus est ab extrinseco» propter hoc, quod nullo modo est immixtus corpori. Et hoc ipsum dicit in tertio *de Anima*. Et iterum, etsi concedatur, quod homo intelligat, nullo tamen modo conceditur nec de toto corpore nec de parte, quod intelligat. Unde videtur, quod hoc dicatur de toto coniuncto ratione partis, scilicet animae; sicut, cum dicitur: homo est albus, hoc dicitur solum ratione corporis[^20].
+
+<!-- page 623 -->
+
+Et propterea est quartus modus dicendi, quod scilicet operatio animae in corpore impediri habet propter corporis ineptitudinem. Et huius ratio est unio animae et corporis ad unius tertii constitutionem, quod est unum per essentiam, et cui debetur propria operatio, secundum quod est unum. Haec autem operatio non est vivere tantum nec sentire sive movere, sed ratiocinari et intelligere. Et propter ipsam unionem non tantum pendet anima ex corpore quantum ad actum sentiendi, sed etiam aliquo modo quantum ad actum intelligendi, quamdiu est in corpore, sed longe aliter et aliter. Nam quantum ad actum vegetandi et sentiendi sic pendet, ut nullo modo possit illos exercere nisi in corpore — non autem sic de actu intelligendi — sic etiam pendet, ut illos actus exerceat per corpus et per organum corporeum — non sic[^21] est de actu intelligendi — et ideo actum sentiendi dicitur communicare anima corpori. Unde non absurde omnino dicitur: oculus videt: non sic autem dicitur de actu intelligendi. Dicitur autem anima sentire per corpus, et non intelligere per corpus, quia, cum duo concurrant ad actum intelligendi et sentiendi, videlicet recipere et iudicare, in sentiendo receptio speciei est a corpore, sed iudicium est a virtute[^22]; sed in intelligendo utrumque est a virtute intellectiva, videlicet ab intellectu possibili et agente. Et propterea intellectus dicitur vis non alligata materiae, et operationem hanc potest habere, cum est separata a corpore; quamdiu autem est in corpore, non omnino intelligit praeter corpus. Sicut enim esse animae in corpore aliquo modo pendet ex corpore, quamvis non pendeat esse ipsius animae in se — ideo ad hoc, quod anima sit in corpore, necesse est, corpus debite complexionatum esse; et ad illius complexionis corruptionem contingit animam amplius non esse in corpore — sic, quamdiu anima est in corpore, intelligere suum non est sine corpore et sine aliqua dispositione ex parte corporis, cuius actualitas communicat[^23] actui intelligendi, sicut congrua dispositio correspondebat existentiae animae in corpore et perfectioni eiusdem. Illa autem actualitas attenditur secundum illud quod est supremum in corpore, et quantum ad nobilissimos spiritus, qui locum habent in nobilissimis organis corporis. Et quoniam, cum aliquid aufertur ab aliquo, prius aufertur ab eo illud quod est in eo excellentissimum; et cum aliqua virtus debilitatur, prius aufertur ab ea summum, quam illud quod est citra summum: hinc est, quod in laesione corporis citius tollitur[^24] illud, secundum quod corpus conformabatur operationi *intellectivae*, quam illud, secundum quod conformabatur operationi sensitivae. Et ideo fumositates ascendentes ad cerebrum, quae perturbant spiritus in somnis vel in pueris vel in phreneticis, vel quaecumque alia laesio organorum, in quibus resident spiritus subtilissimi et nobilissimi corporales, facilius impedit usum rationis quam imaginationis. — Et sic patet ratio, quare impeditur ex ineptitudine corporis usus rationis, et quare magis impeditur quam usus inferioris virtutis.
+
+Ex hac eadem ratione colligitur, quare magis impeditur ratio quantum ad usum liberi arbitrii quam quantum ad alios actus rationales, quos in somnis et furiosis aliquando dignoscitur habere. Actus enim liberi arbitrii respicit potentiam rationalem, prout est in omnimoda et plena libertate. Liberum enim arbitrium dicit dominium potentiae respectu actus, sicut supra[^25] determinatum est. Et quoniam, cum impeditur aliqua virtus operativa, primo aufertur ei actus ille, qui ei inerat secundum suam plenitudinem — sicut patet, cum aliquis infirmatur in pede, facilius ei aufertur potentia velociter currendi quam potentia ambulandi, sive facilius impeditur hic actus quam ille — sic et in proposito facilius et frequentius contingit auferri usum libertatis quam quemcumque actum potentiae intelligendi. — Concedendae sunt igitur rationes ostendentes, quod liberum arbitrium ex ineptitudine ex parte corporis habet impediri quantum ad suum usum, sicut impeditur in infantibus et furiosis et dormientibus.
+
+**Ad argumenta in contrarium:**
+1. Ad illud quod primo obiicitur in contrarium de petitione Salomonis, quae fuit in somnis; dicendum, quod illud fuit aut gratiae specialis et privilegii, non legis communis, quod in somnis potuit mereri, et dignus fuit exaudiri; aut certe hoc dicitur, non quia Deo placuerit dormiendo, sed quia ante vigilando et[^26] illud praecogitando Deo placuit, et quod in vigilia placuerat, Dominus per revelationem manifestare voluit in somnis; frequentius enim in somnis quam in vigilia apparere consuevit.
+
+<!-- page 624 -->
+
+2. Et per hoc patet responsio ad sequens verbum Gregorii. Quod enim dicit, sanctos viros in somnis mereri; hoc dictum est, quia occasione sumta ab eo, quod patiuntur in somnis, postmodum merentur in vigilia; sicut vir peccator demereri dicitur in pollutione nocturna, quam sua cogitatione[^27] provocavit, vel de cuius recordatione postmodum delectatur.
+
+3. Ad illud quod obiicitur, quod anima secundum operationem intellectivam non est actus alicuius partis corporis; iam patet responsio ex praedictis. Quamvis enim non operetur per organum corporale, nihilominus tamen ad hoc, quod anima operetur in corpore, necesse est, corpus secundum nobiles spiritus et nobilia organa in debita actualitate et dispositione esse, sicut prius ostensum est. Et quoniam haec dispositio tollitur per corporis ineptitudinem, ideo per consequens actus rationis et usus liberi arbitrii impeditur.
+
+4. Ad illud quod obiicitur, quod anima in somnis revocatur ab exterioribus ad interiora; dicendum, quod verum est, sed non quantum ad omnes operationes interiores, sed quantum ad operationes naturales. Nam somnus est quies virtutum animalium cum intensione naturalium[^28]; et ideo non sequitur, quod usus rationis vel liberi arbitrii in somnis intendatur, cum haec potius contineantur sub viribus animalibus quam naturalibus.
+
+5. Ad illud quod obiicitur, quod in somnis anima videt futura; dicendum, quod, sicut determinatum est supra distinctione septima[^29], in somnis non est praevisio futurorum, nisi visitatio emittatur ab Altissimo, sicut dicitur Ecclesiastici trigesimo quarto. Magis autem Dominus visitat in somnis quam in vigilia in revelando futura, tum propter hoc, quod anima in vigilia est dispersa ad exteriora sensibilia comprehendenda; tum etiam, quia Dominus, qui *posuit tenebras latibulum suum*[^30], ad sui ipsius occultationem magis vult in somnis quam in vigilia revelationes emittere; tum etiam, quia in somnis magis agitur homo, quam agat, et in revelatione divina plus se habet homo per modum suscipientis quam agentis; tum, quia etiam in somnis medium tenet homo inter mortuum et viventem, et ita quodam modo a vita huius mundi recedit, de qua Dominus Exodi trigesimo tertio[^31] dicit: *Non videbit me homo, et vivet.* Ex hoc ergo non potest concludi, quod usus liberi arbitrii sit in somnis, quamvis ibi contingat revelationes fieri, quoniam in somnis magis agitur anima, quam agat; sed in usu liberi arbitrii magis agit, quam agatur.
+
+6. Ad illud quod obiicitur, quod vis phantastica non impeditur in somnis; dicendum, quod etsi videatur phantasia magis in somnis quam in vigilia vigere, nihilominus tamen aliquo modo impediri habet. Potentior est enim homo in vigilia ad imaginandum omne quod vult, quam in somnis; licet motus imaginativae non ita appareat in vigilia propter conversionem animae ad exteriora, et in somnis modici motus sentiantur propter animae quietationem. — Et si obiiciat, quod non sic impeditur, quin aliquo modo habeat usum suum phantasia, ergo nec debet impediri potentia superior; iam patet responsio ex his quae supra dicta sunt; facilius enim aufertur omnis potentia in summo quam citra summum. Et praeterea, in somnis plus quietantur virtutes animales quam naturales; motus autem et decursus illorum phantasmatum naturalis est: et ideo non sic impeditur usus phantasiae, sicut usus potentiae intellectivae. — Ad quaestiones autem, quae sequuntur, plana est responsio ex his quae praedicta sunt.
+
+### Scholion
+
+Postquam S. Doctor duabus quaestionibus posuit, quod liberum arbitrium possit *induci* a creatura, *immutari* a Deo, *cogi* a nullo, hic etiam subtiliter inquirit de via et ratione, qua possit *impediri* seu ligari ex parte corporis; quae est quaestio non exigui momenti. Alii Lombardi commentatores de hac quaestione tacent, si excipias Petrum a Tar., hic q. 4. a. 2, et aliquatenus Richardum a Med. (hic a. 5. q. 2.), qui quaerit, utrum per naturam possimus in somnis habere usum liberi arbitrii. Plura ad rem habet etiam Alex. Hal., S. p. III. q. 61. m. 1. a. 1. § 2.
+
+Principia autem S. Doctoris communiter approbantur. Praeter gravissima documenta, quae ad rationem cognitionis humanae spectant, notanda est doctrina (in corp. opin. 3. et 4.) de animae et corporis unione, qua constituitur tertium aliquod, quod est unum per essentiam. In opinione tertia dicitur, quod anima communicat corpori *esse*, *esse vivum*, *esse humanum*, et quod etiam aliquo modo ei communicat *rationalem operationem*. Hoc ultimum tantum non probatur a S. Doctore. — S. Thom. autem docet, quod anima materiae dat, praeter *esse animale* et *humanum*, etiam *esse corporeum* (non autem essentiam sive realitatem materiae). — Quomodo *anima rationalis* sit forma substantialis corporis, docetur a S. Bonav. etiam I. Sent. d. 8. p. II. a. 1. q. 3. ad 1; supra d. 1. p. II. a. 3. q. 2. ad 2. 3, d. 8. p. I. a. 3. q. 2., ibid. p. II. q. 1. ad 3. 4, infra d. 26. q. 3, III. Sent. d. 16. a. 2. q. 1; Breviloq. p. II. c. 9. et alibi passim. — De *unitate* formae substantialis cfr. supra d. 12. a. 1. q. 3, et praecipue d. 13. a. 2. q. 2. schol.
+
+---
 
 ## English
 
-[Translation pending]
+### Question VI. *Whether free choice can be bound as to its use on account of the unfitness of the body.*
+
+In the sixth and last place, inquiry is made about free choice in comparison with the conjoined body, and the question is whether on account of the unfitness of the body it is bound as to its use. And that it is, seems [to be the case].
+
+1. Bernard, *On Free Choice*[^1]: "To the insane and to infants and to those asleep nothing that they do is imputed": but this is so only because they lack the use of free choice, and this is so only on account of some impediment on the part of the body: therefore, etc.
+
+2. Likewise, this same [point] is seen from an example, because a holy and chaste man, whose chastity is great, frequently in his sleep consents to a work of sin[^2], which he would in no way do at the time of waking: therefore in sleep the act of free choice is bound; but this is so only through the weariness and unfitness on the part of the body: therefore, etc.
+
+3. Likewise, when what is prior fails, that which is posterior fails: if therefore some act, which is preliminary to the use of free choice, is impeded through the unfitness of the body, it is necessary that the use of free choice also be impeded. But the act preliminary to free choice is the operation of the intellect, which is impeded through the unfitness of the body; as is evident in those asleep and in the frenzied, and the Philosopher[^3] says that "the intellect is corrupted when something interior is corrupted," and experience itself teaches this: therefore, etc.
+
+4. Likewise, just as a man grows weary in sensing, so too he grows weary in thinking and in meditating; but because the body grows weary in sensing, it therefore needs the rest of sleep, in which it is impeded from the operations of the senses: therefore by parity of reasoning it is necessary that free choice, on account of the weariness of the body, be impeded from its own act and use.
+
+**On the contrary:**
+1. In the Third [Book] of Kings, chapter three[^4], the history relates that the Lord appeared to Solomon in his sleep, and by the merit of the petition which he made, the Lord gave him exceeding great wisdom. If therefore to merit something before God and to receive wisdom is [an act of] the use of free choice and of reason; it seems that on account of the weariness and unfitness of the body and the quiet in sleep, free choice ought not to be impeded from its own act.
+
+2. Likewise, Gregory, on that passage of Job[^5]: *Thou wilt terrify me with dreams*, speaking of nocturnal illusions: "That malignant spirits do these things, the supernal dispensation kindly permits in the hearts of the elect, lest sleep at least be free from the reward of passion": therefore it happens that one merits in sleep: therefore on account of the unfitness of the body free choice does not lose its own use.
+
+3. Likewise, the soul as to its proper intellective operation, that is, free choice, is the act of no part of the body, nor does it exercise that operation through any organ[^6]: therefore however much the bodily organ may be injured or made unfit, free choice will not lose its use.
+
+4. Likewise, the more the soul is recollected from exterior to interior things, the more the interior operation thrives[^7]; but when the organs of the exterior senses are bound, the powers of the soul are recollected from exterior to interior things: therefore then most of all the interior operation ought to thrive. But the use of free choice is regarded according to this [interior operation]: therefore when the body is made unfit for sensing, as through sleep, free choice ought then to have its proper use most especially.
+
+5. Likewise, to see future things is [the act] of reason most highly elevated; but in sleep especially does the revelation and foresight of future things occur: therefore the highest[^8] act of reason thrives in sleep, while there is unfitness on the part of the body; and by parity of reasoning the use of free choice [thrives] also.
+
+6. Likewise, the phantastic and imaginative power depends much more on the body than the rational and intellective power: therefore if, on account of unfitness on the part of the body, which indeed exists in the frenzied or even in those asleep, the phantastic operation is not impeded but rather even thrives; it seems that the intellective operation ought not to be impeded.
+
+It is therefore a question: since the operation of free choice or even of the intellect in no way depends on the body, whence comes this, that it is impeded and bound on account of some unfitness arising about a bodily organ? — And again, if it is impeded, although it depends less on the body than the phantastic power, whence comes this, that reason loses its use more in sleep than phantasy or imagination? — And again, since reason as to the act of free choice is most of all potent and free, whence comes this, that on account of unfitness on the part of the body the use of free choice is more easily taken away than some act of reason? For in sleep a man has some rational motions, and in the frenzied likewise we see this, that they say many things which they could not say unless they had reason, when they answer questions put to them; yet in neither is the use of free choice said to be present. — All these things make the question difficult.
+
+### Conclusion
+
+> Free choice can, on account of the unfitness of the body, be impeded as to its use.
+
+**I respond:** That[^9] although it is easy to answer this question, when it is asked whether free choice is bound through the unfitness of the body as to its use — since experience itself plainly teaches and shows this, that it is bound in little ones and in those asleep and in the frenzied — yet to that question which follows upon this, namely, why free choice is bound from the unfitness of the body, since it is not a power tied to an organ, it is very difficult to respond and to assign its cause. Nevertheless it must be understood that there is a fourfold mode of satisfying this question.
+
+For some have wished to say that the use of reason or even of free choice[^10] is impeded and bound from the unfitness of the body on account of the soul's *conversion* [to the body]; others, on account of the privation of bodily service; the third mode of speaking is, on account of a certain *communication* of the rational operation; while the fourth mode is, on account of the *union* of body and soul unto the constitution of a third [thing].
+
+In the first place, on account of *conversion* some have said that the soul is impeded from the act of reason when there is unfitness on the part of the body. For the body is either unfit from some interior injury, as is the case in the frenzied and in the phrenetic; and then the soul ceases from the operation of understanding because, by excessive compassion, it is turned toward the body by reason of the noble organ injured. Or it is unfit from imperfection, which is in the members and organs, as is the case in little ones; and then the soul is so intent on the governance of the body and on the things which it perceives through the senses of the body, that it almost forgets itself. And therefore from excessive conversion to its own body, which is from the injury of the organs, or from imperfection, it happens that the use of reason and of free choice is impeded. — But this mode of speaking does not fully satisfy. For we see that a vehement pain, occurring on the part of the body in the extremities, does not impede the use of reason, and yet the soul much flees that pain. Likewise, in sleep [the soul] is not more turned to bodily things than in waking; if therefore the conversion which is in waking does not take away the use of reason, by parity of reasoning it seems that neither does the conversion which is in sleep concerning the governance of the body[^11].
+
+And therefore there is a second mode of speaking, namely, that free choice is impeded from its proper use on account of the privation of bodily service. For although the operation of the intellect is not done through an organ, nevertheless the sensitive powers render some service to the intellective power so that it may exercise its act. For the phantastic power serves the intellect in two ways in the act of understanding, namely, in this, that it offers those phantasms to the possible intellect, just as the object offers a species to the eye; and also in this, that our intellect has to be excited by what is lower, as long as it is conjoined to the body[^12]. And therefore, when there is injury and unfitness on the part of the organ of the sensitive power, and a disturbance of the phantasms arises, the use of free choice and of the intellect is impeded for this reason, that the service due to it is taken away; just as my eye can be impeded from the act of seeing on account of some darkening arising in the visible thing, which is to offer me a species and to excite my sight. — But this mode of speaking still does not fully satisfy, for the reason that we see the operation of the intellect impeded, when no impediment has been made in the work of the interior[^13] sensitive power, such as imagination and phantasy. And again, since the intellect and the intelligible memory has some species abstracted in itself, which it conserves in itself and within itself, which the soul draws with itself when it is separated from the body; it seems[^14] that, every service of phantasy and of phantasms being set aside, the intellect ought to have its use with respect to those things of which it has the habit in itself. And this is plainly false, because a man is thus impeded in sleep[^15] from the consideration of the things he knows, just as from the inquiry into the things he does not know.
+
+And therefore there is a third mode of speaking, that the operation of free choice and of reason is impeded from the unfitness of the body on account of a certain communication of operation. For the intellective power communicates in a certain way its operation to the conjoined body, since it communicates being to it, and from these there comes to be one [thing] by essence, not only insofar as the soul is vegetative and sensible, but also insofar as it is rational[^16]. For the rational soul, coming to the human body, just as by its union it makes it to be an *animal* and an *animate* [thing], so it makes it to be *man*; and therefore, just as it communicates some operation to the body insofar as it makes it *living* and insofar as it makes it *animal*, so too it communicates some [operation] insofar as it makes it *man*, although not altogether uniformly. For the soul communicates to the body in a different way the operations[^17] which regard the vegetative and sensitive power, and the operations of the intellective power. For the operation of the sensitive and vegetative [power] is so communicated to the body that it is in the body and through the body, and also that it is in the body and not without the body; for the soul does not nourish except by means of a bodily organ, nor does it nourish except as long as it is in the body. But understanding the soul so communicates to the body that it understands with the body acting in some way[^18], yet so that it does not understand through the body; so that it understands also in the body, yet so that it also understands when it is separated from the body. But because, while it is in the body, it communicates the rational operation to it, therefore, when disorder has been made on the part of the body, that operation has to be impeded. — But this mode of speaking is open to objection in this, that it says that the operation of the intellect is in some way communicated to the body, since this does not seem true, and the Philosopher seems expressly to contradict it in the sixteenth [book] *On Animals*[^19], where he says that "the intellect is from without" because it is in no way mixed with the body. And he says this same thing in the third [book] *On the Soul*. And again, even if it be conceded that man understands, it is in no way conceded either of the whole body or of a part that it understands. Whence it seems that this is said of the whole composite by reason of a part, namely the soul; just as, when it is said "man is white," this is said only by reason of the body[^20].
+
+And therefore there is a fourth mode of speaking, namely, that the operation of the soul in the body has to be impeded on account of the unfitness of the body. And the ground of this is the union of soul and body unto the constitution of one third [thing], which is one by essence, and to which a proper operation is owed insofar as it is one. But this operation is not merely to live, nor to sense or to move, but to reason and to understand. And on account of this very union the soul depends on the body not only as to the act of sensing, but also in some way as to the act of understanding, as long as it is in the body, but in very different ways. For as to the act of vegetating and sensing it so depends that it can in no way exercise those acts except in the body — but not so as to the act of understanding — and it so depends that it exercises those acts through the body and through a bodily organ — not so[^21] is it as to the act of understanding — and therefore the soul is said to communicate the act of sensing to the body. Whence it is not altogether absurdly said: the eye sees; but it is not so said of the act of understanding. And the soul is said to sense through the body, and not to understand through the body, because, since two things concur in the act of understanding and of sensing, namely to receive and to judge, in sensing the reception of the species is from the body, but the judgment is from the power[^22]; whereas in understanding both are from the intellective power, namely from the possible and the agent intellect. And therefore the intellect is called a power not tied to matter, and it can have this operation when it is separated from the body; but as long as it is in the body, it does not altogether understand apart from the body. For just as the being of the soul in the body in some way depends on the body, although the being of the soul itself in itself does not depend [on it] — therefore for the soul to be in the body it is necessary that the body be duly disposed in temperament; and upon the corruption of that temperament it happens that the soul is no longer in the body — so, as long as the soul is in the body, its understanding is not without the body and without some disposition on the part of the body, whose actuality communicates[^23] with the act of understanding, just as a congruous disposition corresponded to the existence of the soul in the body and to its perfection. But that actuality is regarded according to that which is supreme in the body, and according to the noblest spirits, which have their place in the noblest organs of the body. And since, when something is taken away from something, that which is most excellent in it is first taken away; and when some power is weakened, the highest is first taken away from it, before that which is below the highest: hence it is that in an injury of the body that is more quickly taken away[^24] according to which the body was conformed to the *intellective* operation, than that according to which it was conformed to the sensitive operation. And therefore the fumes ascending to the brain, which disturb the spirits in sleep or in children or in the phrenetic, or any other injury of the organs in which reside the subtlest and noblest bodily spirits, more easily impede the use of reason than that of imagination. — And thus is evident the reason why the use of reason is impeded from the unfitness of the body, and why it is impeded more than the use of the lower power.
+
+From this same reason it is gathered why reason is more impeded as to the use of free choice than as to the other rational acts, which it is sometimes recognized to have in sleep and in the frenzied. For the act of free choice regards the rational power insofar as it is in complete and full liberty. For free choice bespeaks the dominion of the power with respect to the act, as was determined above[^25]. And since, when some operative power is impeded, that act is first taken away from it which was in it according to its fullness — as is evident, when someone is sick in the foot, the power of running swiftly is more easily taken from him than the power of walking, or rather this act is more easily impeded than that — so too in the matter at hand it happens more easily and more frequently that the use of liberty is taken away than any act of the power of understanding. — The arguments, therefore, that show free choice to be impeded as to its use from the unfitness on the part of the body must be conceded, just as it is impeded in infants and in the frenzied and in those asleep.
+
+**To the arguments to the contrary:**
+1. To that which is first objected to the contrary concerning the petition of Solomon, which was in sleep; it must be said that it was [a matter] either of special grace and privilege, not of common law, that he could merit in sleep and was worthy to be heard; or else this is said, not because it pleased God [that he merit] while sleeping, but because beforehand, while waking and[^26] pondering that thing, it pleased God, and what had pleased [Him] in waking, the Lord willed to manifest through revelation in sleep; for [He] was more accustomed to appear in sleep than in waking.
+
+2. And by this is evident the response to the following word of Gregory. For as to what he says, that holy men merit in sleep; this is said because, an occasion being taken from what they suffer in sleep, they afterward merit in waking; just as a sinful man is said to demerit in a nocturnal pollution, which he provoked by his thought[^27], or from the recollection of which he afterward takes delight.
+
+3. To that which is objected, that the soul according to its intellective operation is not the act of any part of the body; the response is already evident from what has been said. For although it does not operate through a bodily organ, nevertheless, for the soul to operate in the body, it is necessary that the body, as to its noble spirits and noble organs, be in due actuality and disposition, as was shown before. And since this disposition is taken away through the unfitness of the body, therefore consequently the act of reason and the use of free choice is impeded.
+
+4. To that which is objected, that the soul in sleep is recalled from exterior to interior things; it must be said that this is true, but not as to all the interior operations, but as to the natural operations. For sleep is the rest of the animal powers together with the intensification of the natural [powers][^28]; and therefore it does not follow that the use of reason or of free choice is intensified in sleep, since these are rather contained under the animal powers than the natural.
+
+5. To that which is objected, that in sleep the soul sees future things; it must be said that, as was determined above in the seventh distinction[^29], in sleep there is no foresight of future things unless a visitation is sent from the Most High, as is said in Ecclesiasticus, the thirty-fourth [chapter]. But the Lord visits more in sleep than in waking in revealing future things, both because the soul in waking is dispersed to grasping exterior sensible things; and also because the Lord, who *made darkness his covert*[^30], for the concealment of Himself wishes to send forth revelations more in sleep than in waking; and also because in sleep a man is acted upon more than he acts, and in divine revelation a man stands more in the manner of one receiving than of one acting; and because also in sleep a man holds a mean between the dead and the living, and so in a certain way withdraws from the life of this world, of which the Lord says in Exodus, the thirty-third [chapter][^31]: *Man shall not see me, and live.* From this, therefore, it cannot be concluded that the use of free choice is present in sleep, although it happens that revelations are made there, since in sleep the soul is acted upon more than it acts; but in the use of free choice it acts more than it is acted upon.
+
+6. To that which is objected, that the phantastic power is not impeded in sleep; it must be said that although phantasy seems to thrive more in sleep than in waking, nevertheless it too has to be impeded in some way. For a man is more powerful in waking to imagine everything that he wills than in sleep; although the motion of the imaginative [power] does not so appear in waking on account of the soul's conversion to exterior things, and in sleep slight motions are felt on account of the soul's quietude. — And if one should object that it is not so impeded but that phantasy in some way has its use, therefore neither ought the higher power to be impeded; the response is already evident from what has been said above; for every power is more easily taken away in the highest than below the highest. And besides, in sleep the animal powers are quieted more than the natural; but the motion and course of those phantasms is natural: and therefore the use of phantasy is not impeded as the use of the intellective power [is]. — And to the questions that follow, the response is plain from what has been said before.
+
+### Scholion
+
+After the Holy Doctor had laid down in two questions that free choice can be *induced* by a creature, *changed* by God, *compelled* by none, here too he subtly inquires about the way and the ground by which it can be *impeded* or bound on the part of the body; which is a question of no slight moment. The other commentators on Lombard are silent about this question, if you except Peter of Tarentaise, here q. 4, a. 2, and to some extent Richard of Mediavilla (here a. 5, q. 2), who asks whether by nature we can have the use of free choice in sleep. Alexander of Hales, too, has much pertaining to the matter, Summa, part III, q. 61, m. 1, a. 1, § 2.
+
+But the principles of the Holy Doctor are commonly approved. Besides the most weighty teachings which pertain to the account of human cognition, the doctrine (in the body [of the article], opinions 3 and 4) on the union of soul and body, by which some third [thing] is constituted, which is one by essence, is to be noted. In the third opinion it is said that the soul communicates to the body *being*, *being alive*, *being human*, and that it also in some way communicates to it *rational operation*. Only this last [point] is not proved by the Holy Doctor. — But St. Thomas teaches that the soul gives to matter, besides *animal* and *human being*, also *corporeal being* (but not the essence or reality of matter). — In what way the *rational soul* is the substantial form of the body is taught by St. Bonaventure also in I Sent. d. 8, p. II, a. 1, q. 3, ad 1; above, d. 1, p. II, a. 3, q. 2, ad 2 and 3; d. 8, p. I, a. 3, q. 2; ibid. p. II, q. 1, ad 3 and 4; below, d. 26, q. 3; III Sent. d. 16, a. 2, q. 1; Breviloquium, p. II, c. 9, and elsewhere passim. — On the *unity* of the substantial form, cf. above, d. 12, a. 1, q. 3, and especially d. 13, a. 2, q. 2, scholion.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, and follow the Quaracchi critical apparatus. Each entry gives the Latin note (**La.**) followed by an English rendering (**En.**).
+
+[^1]: **La.** Cap. 2. n. 5. Verba ipsa vide supra pag. 523, nota 6. — Pro *Insanis* Vat. cum edd. 3, 4 *Vesanis*, refragantibus codd., edd. 1, 2 et textu originali.
+    **En.** Chapter 2, n. 5. See the words themselves above, p. 523, note 6. — For *Insanis* the Vatican [edition], with editions 3 and 4, [reads] *Vesanis*, against the codices, editions 1 and 2, and the original text.
+
+[^2]: **La.** Cod. O *bravo*. Paulo inferius pro *per lassitudinem* codd. T aa bb ee et alii *propter lassitudinem*. — Cfr. de hoc arg. August., XII. de Gen. ad lit. c. 13. n. 31.
+    **En.** Codex O [reads] *bravo*. A little below, for *per lassitudinem* codices T, aa, bb, ee and others [read] *propter lassitudinem*. — Cf. on this argument Augustine, *On the Literal Meaning of Genesis* XII, c. 13, n. 31.
+
+[^3]: **La.** Libr. II. de Anima, text. 66. (c. 4.). Cfr. etiam ibid. II. text. 162. (III. c. 3.), ubi docet, «obrui [ἐπικαλύπτεσθαι] aliquando intellectum passione aut aegritudine aut somno». De *maiori* cfr. Aristot., V. Metaph. text. 16. (IV. c. 11.) et supra pag. 93, nota 2. — Pro *per ineptitudinem* codd. Y cc cum ed. 1 *propter ineptitudinem*.
+    **En.** Book II *On the Soul*, text 66 (c. 4). Cf. also ibid. II, text 162 (III, c. 3), where he teaches that "the intellect is sometimes overwhelmed [ἐπικαλύπτεσθαι] by passion or sickness or sleep." On the *major* [premise] cf. Aristotle, V *Metaphysics*, text 16 (IV, c. 11), and above, p. 93, note 2. — For *per ineptitudinem* codices Y, cc, with edition 1, [read] *propter ineptitudinem*.
+
+[^4]: **La.** Vers. 5. seqq. Cfr. August., XII. de Gen. ad lit. c. 15. n. 31: Nam etiam *dormiens* Salomon sapientiam praeposuit omnibus rebus eamque, neglectis ceteris, est precatus a Domino etc. — Mox post *quam fecit* pro *Dominus* codd. C F L O aa exhibent *in somnis*; codd. T V haec verba *in somnis* addunt, retento *Dominus*. Paulo inferius pro *usus liberi arbitrii et rationis* Vat. cum ed. 3 *usus liberi arbitrii in somnis*, codd. A B I K P Q T W cum ed. 2 *in bonis*; nostra lectio innititur codd. C D E F L N O Y etc. et ed. 1.
+    **En.** Verse 5 ff. Cf. Augustine, XII *On the Literal Meaning of Genesis*, c. 15, n. 31: "For even *while sleeping* Solomon preferred wisdom to all things and, neglecting the rest, prayed for it from the Lord," etc. — Then after *quam fecit*, for *Dominus* codices C, F, L, O, aa give *in somnis*; codices T, V add these words *in somnis*, retaining *Dominus*. A little below, for *usus liberi arbitrii et rationis* the Vatican [edition] with edition 3 [reads] *usus liberi arbitrii in somnis*; codices A, B, I, K, P, Q, T, W with edition 2 [read] *in bonis*; our reading rests on codices C, D, E, F, L, N, O, Y, etc. and edition 1.
+
+[^5]: **La.** Cap. 7, 14. Verba, quibus Gregorius in VIII. Moral. c. 24. n. 43, hunc locum exponit, haec sunt: Quem [malignum spiritum] tamen haec maligne agere, superna dispensatio benigne permittit, ne in electorum cordibus ipse saltem etc.
+    **En.** Chapter 7, [verse] 14. The words by which Gregory expounds this passage in VIII *Morals*, c. 24, n. 43, are these: "Yet that he [the malignant spirit] does these things malignantly, the supernal dispensation kindly permits, lest in the hearts of the elect he at least," etc.
+
+[^6]: **La.** Secundum Aristot., II. de Anima, text. 11. (c. 1.) et III. text. 6. (c. 4.). Cfr. supra pag. 458, nota 3. — Plures codd., ut C F R S bb ee, in hac proposit. omittunt *propriam*.
+    **En.** According to Aristotle, II *On the Soul*, text 11 (c. 1) and III, text 6 (c. 4). Cf. above, p. 458, note 3. — Several codices, such as C, F, R, S, bb, ee, in this proposition omit *propriam*.
+
+[^7]: **La.** Vide supra pag. 459, nota 4. Paulo inferius edd. *tunc magis* pro *tunc maxime*.
+    **En.** See above, p. 459, note 4. A little below, the editions [read] *tunc magis* for *tunc maxime*.
+
+[^8]: **La.** Vat. cum edd. 3, 4 *potissimus*.
+    **En.** The Vatican [edition] with editions 3 and 4 [reads] *potissimus*.
+
+[^9]: **La.** Codd. aliqui praefigunt *dicendum*.
+    **En.** Some codices prefix *dicendum*.
+
+[^10]: **La.** Vat. *liberum arbitrium*. In multis codd. nec non in primis edd. lectio horum verborum dubia est, cum sint abbreviata.
+    **En.** The Vatican [edition reads] *liberum arbitrium*. In many codices, as well as in the early editions, the reading of these words is doubtful, since they are abbreviated.
+
+[^11]: **La.** Secundum Aristot., de Somno et vigilia, c. 4. (c. 3.). — Paulo superius versus init. solut. Vat. omittit *ab exterioribus*, quae verba exstant in codd. C F L X Y aa bb ee. In fine solutionis cod. F *hic potius contineatur* pro *haec potius contineantur*.
+    **En.** According to Aristotle, *On Sleep and Waking*, c. 4 (c. 3). — A little above, toward the beginning of the solution, the Vatican [edition] omits *ab exterioribus*, which words are present in codices C, F, L, X, Y, aa, bb, ee. At the end of the solution codex F [reads] *hic potius contineatur* for *haec potius contineantur*.
+
+[^12]: **La.** Secundum Aristot., II. de Anima, text. 11. (c. 1.) et III. text. 6. (c. 4.). Cfr. supra pag. 458, nota 3.
+    **En.** According to Aristotle, II *On the Soul*, text 11 (c. 1) and III, text 6 (c. 4). Cf. above, p. 458, note 3.
+
+[^13]: **La.** Sic cod. aa et Vat., dum fere omnes alii codd. cum primis edd. perperam legunt *exterioris*, cod. cc cum ed. 1 *inferioris*. Paulo inferius pro *memoria intelligibilis* Vat., modernorum modo loquendi se commodans, *memoria intellectualis*.
+    **En.** Thus codex aa and the Vatican [edition], while almost all the other codices with the early editions wrongly read *exterioris*, and codex cc with edition 1 [reads] *inferioris*. A little below, for *memoria intelligibilis* the Vatican [edition], accommodating itself to the modern manner of speaking, [reads] *memoria intellectualis*.
+
+[^14]: **La.** Simul audi: ex praedicta opinione sequi.
+    **En.** Hear at the same time: [this is said to] follow from the aforesaid opinion.
+
+[^15]: **La.** Verba *ita* et *in somnis* ex codd. C F H L T U aa cc et ed. 1 in textum recepimus. Paulo inferius pro *inquisitione* codd. T aa *acquisitione*.
+    **En.** The words *ita* and *in somnis* we have received into the text from codices C, F, H, L, T, U, aa, cc and edition 1. A little below, for *inquisitione* codices T, aa [read] *acquisitione*.
+
+[^16]: **La.** Has duas rationes, quae praedictae opinionis principalia momenta impugnant, Gulielm. Mara, hic q. 9, sic litteris mandat: Primum non potest stare, quia ubi maior fuga passionis, ibi maior compassio; sed in multis habentibus usum rationis est maior fuga passionis quam in phreneticis et furiosis. Secundum similiter non videtur verum, quia, si anima ex nimia attentione administrationis impediretur in actu intellectus, ergo magis deberet impediri in sobriis quam in ebriis. Nam secundum August., VI. Musicae (c. 5. n. 10.): Sentire animae in corpore est cum attentione agere; sed in ebriis est minor sensualitas quam in sobriis: ergo minor attentio.
+    **En.** These two arguments, which assail the principal points of the aforesaid opinion, William of la Mare, here q. 9, thus commits to writing: "The first cannot stand, because where there is greater flight from passion, there is greater compassion; but in many who have the use of reason there is greater flight from passion than in the phrenetic and the frenzied. The second likewise does not seem true, because, if the soul were impeded in the act of the intellect from excessive attention to administration [of the body], then it ought to be impeded more in the sober than in the drunken. For according to Augustine, VI *On Music* (c. 5, n. 10): To sense for the soul is to act in the body with attention; but in the drunken there is less sensuality than in the sober: therefore less attention."
+
+[^17]: **La.** Cfr. Aristot., III. de Anima, text. 18. 30. 39. (c. 5. 7. 8.). — Paulo ante vocula *noster*, quam ex codd. F H I K T V W aa bb ee voci *intellectus* adiecimus, deest in Vat.
+    **En.** Cf. Aristotle, III *On the Soul*, text 18, 30, 39 (c. 5, 7, 8). — A little before, the little word *noster*, which we have added to the word *intellectus* from codices F, H, I, K, T, V, W, aa, bb, ee, is lacking in the Vatican [edition].
+
+[^18]: **La.** Cfr. Aristot., II. de Anima, text. 6. seq. et text. 24. seqq. (c. 1. seq.). — Paulo inferius post *ita facit* cod. X adiungit *ipsum*, cod. aa *etiam*.
+    **En.** Cf. Aristotle, II *On the Soul*, text 6 f. and text 24 ff. (c. 1 f.). — A little below, after *ita facit* codex X adds *ipsum*, codex aa *etiam*.
+
+[^19]: **La.** Ex codd. A Q X cc et ed. 1 adiecimus *operationes*, quae vox a Vat. abest. In propositione seq. sequimur codd. F aa bb ee. Alii codd. cum edd. sic eam exhibent: Nam *opera sensitivae... sic communicat corpori, ut sint in corpore... sint* (Vat. *sic*) *etiam in corpore et* (Vat. *id*) *non sine corpore*. Tamen, sicut nos, etiam codd. C K R S V W legunt *communicatur* pro *communicat*.
+    **En.** From codices A, Q, X, cc and edition 1 we have added *operationes*, which word is absent from the Vatican [edition]. In the following proposition we follow codices F, aa, bb, ee. Other codices with the editions give it thus: "For *the works of the sensitive [power]... it so communicates to the body that they be in the body... that they be* (Vat. *so*) *also in the body and* (Vat. *that*) *not without the body*." Yet, like us, codices C, K, R, S, V, W also read *communicatur* for *communicat*.
+
+[^20]: **La.** Ed. 1 *coagente*. Paulo inferius pro *Quia vero* codd. F V W X Z aa et alii *Quia ergo*.
+    **En.** Edition 1 [reads] *coagente*. A little below, for *Quia vero* codices F, V, W, X, Z, aa and others [read] *Quia ergo*.
+
+[^21]: **La.** Sive II. de Generat. animal. c. 3: Restat igitur, ut mens sola extrinsecus accedat eaque sola divina sit; nihil enim cum eius actione communicat actio corporalis. Libr. III. de Anima, text. 4. (c. 4.) docet, intellectum immixtum esse corpori. Cfr. supra pag. 446, nota 4. et pag. 438, nota 3, ubi etiam alii loci indicantur.
+    **En.** Or II *On the Generation of Animals*, c. 3: "It remains, therefore, that mind alone come in from without and that it alone be divine; for bodily action shares nothing with its action." Book III *On the Soul*, text 4 (c. 4), teaches that the intellect is unmixed with the body. Cf. above, p. 446, note 4, and p. 438, note 3, where other passages too are indicated.
+
+[^22]: **La.** Cfr. Aristot., I. de Anima, text. 64. seqq. (c. 4.) et II. text. 11. (c. 1.). — Paulo superius post *nec de parte* Vat. subiicit *corporis*.
+    **En.** Cf. Aristotle, I *On the Soul*, text 64 ff. (c. 4) and II, text 11 (c. 1). — A little above, after *nec de parte* the Vatican [edition] subjoins *corporis*.
+
+[^23]: **La.** Codd. F P Q V W et edd. 2, 4 agglutinant *autem*.
+    **En.** Codices F, P, Q, V, W and editions 2, 4 attach *autem*.
+
+[^24]: **La.** Cfr. supra pag. 221, nota 4.
+    **En.** Cf. above, p. 221, note 4.
+
+[^25]: **La.** Vat. *conveniat*, codd. V Z cum ed. 1 *communicatur*; nostra lectio sumta est ex codd. A K T aa bb ee et ed. 1. Immediate ante cod. X voculae *cuius* adiungit *corporalis dispositionis*, et mox post *congrua dispositio* addit *sive congruae dispositionis actualitas*.
+    **En.** The Vatican [edition reads] *conveniat*; codices V, Z with edition 1 [read] *communicatur*; our reading is taken from codices A, K, T, aa, bb, ee and edition 1. Immediately before the little word *cuius* codex X adds *corporalis dispositionis*, and soon after *congrua dispositio* adds *sive congruae dispositionis actualitas*.
+
+[^26]: **La.** Cod. Y *colliditur*, non incongrue; codd. C H I S cum ed. 2 *colligitur*, perperam. Paulo inferius pro *conformatur* cod. bb *conformabatur*.
+    **En.** Codex Y [reads] *colliditur*, not incongruously; codices C, H, I, S with edition 2 [read] *colligitur*, wrongly. A little below, for *conformatur* codex bb [reads] *conformabatur*.
+
+[^27]: **La.** Huius dist. part. I. q. 1. et 3.
+    **En.** Of this distinction, part I, q. 1 and 3.
+
+[^28]: **La.** Cod. H *sed quia aut vigilando aut*. Mox pro *placuit* codd. T bb et alii *placuerit*.
+    **En.** Codex H [reads] *sed quia aut vigilando aut*. Soon, for *placuit* codices T, bb and others [read] *placuerit*.
+
+[^29]: **La.** Codd. Y bb cc ee cum ed. 1 *praecogitatione*.
+    **En.** Codices Y, bb, cc, ee with edition 1 [read] *praecogitatione*.
+
+[^30]: **La.** Secundum Aristot., de Somno et vigilia, c. 4. (c. 3.). — Paulo superius versus init. solut. Vat. omittit *ab exterioribus*, quae verba exstant in codd. C F L X Y aa bb ee. In fine solutionis cod. F *hic potius contineatur* pro *haec potius contineantur*.
+    **En.** According to Aristotle, *On Sleep and Waking*, c. 4 (c. 3). — A little above, toward the beginning of the solution, the Vatican [edition] omits *ab exterioribus*, which words are present in codices C, F, L, X, Y, aa, bb, ee. At the end of the solution codex F [reads] *hic potius contineatur* for *haec potius contineantur*.
+
+[^31]: **La.** Parte II. a. 1. q. 3. ad 3. Cfr. etiam d. 23. a. 2. q. 2. ad 4. — Seq. text. est Eccli. 34, 6. — Dein pro *in revelando* cod. I *in indicando*, cod. T *in ostendendo*. — Mox: Psalm. 17, 12; Vers. 20 [Exod. 33]. — Vat. vocabulum *modici*, quod secundum codd. A C E F L M Q X aa ee primitus legebatur, transformavit in *medii*. Mox pro *impeditur* eadem Vat. *impedit*, et dein cum edd. 2, 3 pessime *somno* et *somnum* pro *summo* et *summum*. Similiter peccant paulo post codd. C O R S et alii, ponentes *in summis* pro *in somnis*.
+    **En.** Part II, a. 1, q. 3, ad 3. Cf. also d. 23, a. 2, q. 2, ad 4. — The following text is Ecclesiasticus 34:6. — Then for *in revelando* codex I [reads] *in indicando*, codex T *in ostendendo*. — Soon: Psalm 17:12; verse 20 [Exodus 33]. — The Vatican [edition] transformed the word *modici*, which according to codices A, C, E, F, L, M, Q, X, aa, ee was originally read, into *medii*. Soon, for *impeditur* the same Vatican [edition reads] *impedit*, and then, with editions 2, 3, very badly *somno* and *somnum* for *summo* and *summum*. Codices C, O, R, S and others sin similarly a little after, putting *in summis* for *in somnis*.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF (printed pp. 620–624, pdf 642–646; Vol II PDF-priority inversion — the IA djvu OCR cascade-shattered the Respondeo *Quatuor solutiones* I–IV, the *communicatio operationis* analysis, and every page footer). English freshly translated literally. Apparatus built from the PDF column-band footers, page by page. OCR raw range 43375–43694.
+
+**Alignment confirmed.** Opener "Sexto et ultimo quaeritur de libero arbitrio in comparatione ad corpus coniunctum, et est quaestio, utrum propter ineptitudinem corporis ligari habeat quantum ad usum" = Pars II Articulus unicus sub-question 6, *ad corpus coniunctum*, the last quaestio of Pars II.
+
+**Page-split map (31 apparatus entries).**
+- p.620 = q5 tail (concludit⁵) + QUAESTIO VI title + opener + args 1–4 + Sed contra 1 → q6's own footers are p.620 ff. **6–7** (received from a1-q5) = [^1]–[^2] (Bernardus *Insanis* Cap.2 n.5; *per lassitudinem*/August. XII Gen.ad lit.).
+- p.621 = Sed contra 2–6 + the threefold *unde est hoc* aporia + CONCLUSIO + Respondeo opening (fourfold division + opinion 1 *conversio*) → ff. 1–6 = [^3]–[^8].
+- p.622 = opinion 1 tail + opinion 2 *obsequium* + opinion 3 *communicatio operationis* (de Anima / Animalium "intellectus ab extrinseco") → ff. 1–10 = [^9]–[^18].
+- p.623 = opinion 3 tail + opinion 4 *unio ad tertii constitutionem* + the *summum/citra summum* corollary + replies 1–2 → ff. 1–7 = [^19]–[^25].
+- p.624 = replies 2 tail–6 + SCHOLION → ff. 1–5 = [^26]–[^31] (note [^31] absorbs the multi-clause p.624 ff. 2+3+4+5 footer that bundles Eccli. 34:6, Psalm 17:12, Exod. 33:20, and the *modici/medii* + *in summis/in somnis* variants — Quaracchi printed these as a chained footer block across the L and R column bands).
+
+**Hand-offs.**
+- RECEIVED from a1-q5: p.620 footers 6–7 (q5 consumed footers 1–5 as its [^17]–[^21]; q5's own Notes forwarded ff. 6–7 to this q6). Led the apparatus with them as [^1]–[^2].
+- FORWARDED: NONE. QUAESTIO VI closes clean with the SCHOLION at the bottom of p.624 before the running head "DIST. XXV. P. II. DUBIA." and the "DUBIA CIRCA LITTERAM MAGISTRI" header (raw 43693). The p2-dubia owns its own p.625-ff. footers.
+
+**has_scholion: TRUE.** A genuine closing SCHOLION for the Pars II Articulus unicus: it situates q6 as the fourth of the induci/immutari/cogi/impediri series, names the sparse commentator tradition (Petrus a Tar., Richardus a Med., Alex. Hal.), and contrasts Bonaventure's opinions 3–4 on the anima/corpus *unum per essentiam* with St. Thomas on *esse corporeum*. The SCHOLION carries no footnote markers (per corpus convention).
+
+**[?] flags:** NONE. All 31 marker digits verified eyes-on against the p.620–624 L+R column bands; the cascade-shattered Respondeo and footers were reflowed column-by-column.
+
+**Pars II structure remaining:** p2-dubia (DUBIA CIRCA LITTERAM MAGISTRI, Pars II) = **three DUB** (DUB. I raw ~43695, DUB. II ~43728, DUB. III ~43793) — verify count at PDF. d.25→d.26 boundary "DISTINCTIO XXVI" at raw ~43831. With q6 done, the Pars II Articulus unicus (q1–q6) is complete; only p2-dubia remains before d.25 closes.
