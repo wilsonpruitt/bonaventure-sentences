@@ -1,4 +1,20 @@
-# Next session — **d22-a2-q2 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-a2-q3` (ARTICULUS II QUAESTIO III — SKELETON EXISTS, rebuild not create; LAST quaestio of ART II → DUBIA follows).**
+# Next session — **d22-a2-q3 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-dubia` (DUBIA CIRCA LITTERAM MAGISTRI — SKELETON EXISTS, rebuild not create; CLOSES d.22 → next is d.23).**
+
+## 2026-05-29 — d22-a2-q3 promoted (Tier-2) — LAST quaestio of ART II
+
+Rebuilt `bon-sent-II-d22-a2-q3` from skeleton — **QUAESTIO III *Utrum ignorantia sit culpae excusatio.*** Spans **pp. 525–527** (PDF 547–549, +22), raw 36918–37062. Re-set from 450 dpi PDF column bands (`/tmp/colcrop/vol2-p52{5,6,7}-{L,R}-{0..2}.png`).
+
+- **Alignment confirmed** against TRACTATIO sub-question 3 (*utrum ignorantia sit culpae excusatio*). Body: 5 *for* args (1 Tim 1 *Misericordiam…quia ignorans*; 2 Luke 12 *Servus sciens*; 3 omne peccatum voluntarium/Philosophus; 4 defectus fortitudinis excusat→defectus cognitionis; 5 parvulus/furiosus + Bernardus); Contra 1–5 (1 Isidore *Nullus in culpa maior quam qui Deum nescit*; 2 Rom 2 Ambrose Gloss *Gravissime peccas quia ignoras*; 3 malum additum malo; 4 scientia nec auget meritum; 5 pari libidine aequalis punitio) + 2 *quaestiones incidentes* (ignorantia-vs-infirmitas; differentiae ignorantiae); CONCLUSIO (*Quaelibet ignorantia aliquo modo excusat vel a toto vel a tanto*); Respondeo; Solutio Ad 1–5; then 2 incidental-question determinations (ignorantia>infirmitas; ignorantia facti vs iuris → vincibilis/invincibilis taxonomy, ending Loth/incest example).
+- **23 apparatus entries [^1]–[^23].** Page-split map: p.525 footers ²–⁷ → [^1]–[^6] (RECEIVED from a2-q2); p.526 footers ¹–⁹ → [^7]–[^15]; p.527 footers ¹–⁸ → [^16]–[^23] (all 8 anchor in q3 determination/Loth text). **`has_scholion: false`** — no SCHOLION header in range; footer ⁸ p.527 = *Vide scholion ad praecedentem quaest.* ([^23]) = sibling-pointer to a2-q2 SCHOLION III. **No `[?]` flags.**
+- **Received:** p.525 footers ²–⁷ from a2-q2. **Forwarded:** NONE — q3 closes clean at Loth; DUBIA opens fresh below on p.527 R with its own footer block.
+- **Audits.** paraphrase: q3 → content-audit-skipped (Tier-2 page-based frontmatter, no line_start/end), no longer a suspect; 0 critical + 2 high = remaining d.22 skeletons (dubia, dubia-dup2). headers: ART +3, QUAEST +5 — no LOSS. apparatus-count: q3 NOT flagged; flagged = dubia-dup2 skeleton (next-session cleanup). Build: **883 routes, 659 translated** (+1). Commit `e47be6e`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-dubia` (DUBIA CIRCA LITTERAM MAGISTRI — SKELETON EXISTS, rebuild) — CLOSES d.22
+
+`bon-sent-II-d22-dubia` — **DUBIA CIRCA LITTERAM MAGISTRI.** Opens raw **37063**, p.527 R: *DUB. I. In parte ista sunt dubitationes circa litteram, et primo quaeritur de hoc quod dicit: Si vir non peccasset, humanum genus minime peccatis corruptum periret…*. **Next distinction DISTINCTIO XXIII opens raw 37154.** Clean up the stray **`bon-sent-II-d22-dubia-dup2`** (auto-chunker duplicate, flagged SKELETON-SUSPECT in apparatus audit — delete after confirming d22-dubia captures its content). d.22 structure map: ART I (q1✓ q2✓ q3✓) / ART II (a2-q1✓ a2-q2✓ a2-q3✓) / dubia=NEXT (+ dubia-dup2 to clean); littera✓ divisio✓. **After d22-dubia, d.22 is COMPLETE → next distinction is d.23.**
+
+## ARCHIVE — earlier 2026-05-29 sessions below
+
 
 ## 2026-05-29 — d22-a2-q2 promoted (Tier-2)
 
