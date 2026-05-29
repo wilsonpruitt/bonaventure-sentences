@@ -1,4 +1,22 @@
-# Next session — **d22-a1-q2 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-a1-q3` (ARTICULUS I QUAESTIO III — SKELETON EXISTS, rebuild not create).**
+# Next session — **d22-a1-q3 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-a2-q1` (ARTICULUS II QUAESTIO I — SKELETON EXISTS, rebuild not create).**
+
+## 2026-05-29 — d22-a1-q3 promoted (Tier-2) — ARTICULUS I COMPLETE
+
+Rebuilt `bon-sent-II-d22-a1-q3` from skeleton — **QUAESTIO III *Quis gravius peccaverit, utrum vir, an mulier.*** Spans **pp. 520–521** (PDF 542–543, +22), raw ~36560–36658. Re-set from 450 dpi PDF column bands (`/tmp/colcrop/vol2-p52{0,1}-{L,R}-{0..2}.png`).
+
+- **Alignment confirmed** against TRACTATIO sub-question 3 (*quis horum gravius peccaverit*). Body: 4 *vir gravius* args (ingratitudo/dona; altior gradus = caput mulieris; contemptus mandati immediati; corruptio posteritatis Rom 5); Sed contra 1–4 (Aug. *pari fastu*; similius luciferi; mulier magis punita Gen 3; peccavit in se et in virum); CONCLUSIO (*…simpliciter loquendo gravius illo fuit* — Eve's graver); Respondeo (triplex: ingratitudine→vir gravius; libidine→mulier gravius; corruptione→per causam=vir/per occasionem=mulier; + *Aliter* ex parte peccantis vs peccati; *par fastus* gloss; *Et sic ex dictis colligitur* Eve simpliciter gravior, magis punita). SCHOLION I+II.
+- **9 apparatus entries [^1]–[^9].** Page-split map: p.520 footers ¹–⁸ → [^1]–[^8]; p.521 footer ¹ (*inhonoravit* variant, anchors q3 *exhonoravit*) → [^9]. **`has_scholion: true`** (own SCHOLION I+II). **No `[?]` flags.**
+- **Received:** NONE (q2 closed clean p.519). **Forwarded to `bon-sent-II-d22-a2-q1`:** p.521 footers ²–⁶ (²=*excusatoria* ART II TRACTATIO; ³=Vers.13 a2-q1 arg1; ⁴=Gen 2,17 arg2; ⁵=Hic c.4 seq.; ⁶=Isidor.). ART II opener + TRACTATIO are on p.521 R.
+- **Audits.** paraphrase: a1-q3 → OK; 1 critical + 4 high = remaining d.22 skeletons (a2-q1/q2/q3, dubia-dup2). headers: ART +1, QUAEST +2, DUB +0 — no LOSS. apparatus-count: a1-q3 NOT flagged (9 entries); flagged = 4 ART II/dubia skeletons. Build: **883 routes, 656 translated** (+1). Commit `5e71c4b`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-a2-q1` (ARTICULUS II QUAESTIO I — SKELETON EXISTS, rebuild)
+
+**ARTICULUS II** *De culpa primorum parentum in comparatione ad ignorantiam intellectus.* opens raw ~36658, p.521 R: *Consequenter quaeritur de peccato primorum parentum in relatione ad ignorantiam ex parte intellectus. Et circa hoc quaeruntur tria.* Per Override §5 the ART II opener + TRACTATIO fold into **a2-q1**. **ART II TRACTATIO sub-question list (verbatim):**
+- **q1:** *Primo quaeritur, utrum peccatum primorum parentum fuerit ex ignorantia.*
+- **q2:** *Secundo quaeritur, utrum ignorantia aliquo modo sit culpa.*
+- **q3:** *Tertio quaeritur, utrum sit culpae excusatio.*
+
+`bon-sent-II-d22-a2-q1` — **QUAESTIO I *Utrum peccatum primorum parentum fuerit ex ignorantia.*** Opens p.521 R (raw ~36668), *Circa primum sic proceditur et ostenditur, quod peccatum primorum parentum fuit ex ignorantia, ad minus peccatum mulieris. 1. Genesis tertio: Serpens seduxit me…*. Continues onto **p.522** (raw shows `522 SENTENTIARUM LIB. II.` then *aut illa ignorantia fuit poena, aut culpa…*). **Hand-off RECEIVED from a1-q3:** p.521 footers ²–⁶ (the ART II opener/TRACTATIO + q1 args 1–3). a2-q1 skeleton exists (rebuild). apparatus-count raw=18 → expect ~18 footers across pp.521–522+. d.22 structure map: ART I (q1✓ q2✓ q3✓ — COMPLETE) / ART II (a2-q1=NEXT, q2/q3 skeletons) / dubia + dubia-dup2 skeletons; littera✓ divisio✓.
 
 ## 2026-05-29 — d22-a1-q2 created + promoted (Tier-2)
 
