@@ -1,4 +1,31 @@
-# Next session — **d.11–d.20 decade-polish-blocker FULLY CLOSED 2026-05-26 (Pass 1 + Pass 2 + Pass 3). Next action: dispatch `d21-littera`.**
+# Next session — **d21-littera DONE 2026-05-28. Next action: dispatch `bon-sent-II-d21-divisio`.**
+
+## 2026-05-28 — d21-littera promoted (decade d.21–d.30 opener)
+
+Promoted `bon-sent-II-d21-littera` Tier-2 (the auto-chunker omitted this chunk; built fresh from 450 dpi PDF column bands):
+- *Distinctio XXI — Littera Magistri.* Five Lombard capitula (Cap. I–V): I *De invidia diaboli*, II *De forma in qua venit*, III *De calliditate serpentis*, IV *Utrum elegerit serpentem*, V *De modo tentationis*. Spans printed **pp. 489–490** (PDF pp. 511–512, offset +22). p.489 R-bottom (DISTINCTIO XXI title block + Cap. I opener, after d.20 DUB. VII close) → p.490 L (Cap. I close + Cap. II + Cap. III + Cap. IV opener) → p.490 R (Cap. IV continuation + Cap. V through *ambitur*).
+- **8 apparatus entries [^1]–[^8]** renumbered continuously across the two pages. Page-split map: p.489 R-2 NOTAE AD LIBR. SENTENTIARUM ¹–² = [^1]–[^2] (Hugo *Sum. Sent.* tr. 3 c. 4 source-statement for entire dist. + Sap. 17, 10 *timida nequitia* allusion); p.490 L-2 ¹–² = [^3]–[^4] (Aug. *Lib. XI de Gen. ad lit.* c. 2 n. 4 + Cod. Erl. Gloss-vs-Augustinus note); p.490 R-2 ³–⁶ = [^5]–[^8] (Num 22:28 + Vat. *etiam* variant + Gen 3:1-3 + Hugo *de Sacram.* p.VII c.6 ex Gregorio *Hom.* 16).
+- `has_scholion: false` — Lombard littera carries no SCHOLION by design.
+- **No `[?]` flags.** All 8 anchors crisp at 450 dpi.
+- Cross-chunk hand-off: received from d20-dubia (p.489 R-2 NOTAE block ¹–² native to Cap. I opener *Unde¹* + *timida²*); forwarded to d21-divisio: **none** — Cap. VI opens fresh on p.491 L-1 (raw 34501) with its own apparatus block.
+- **Audits.** paraphrase: 2 critical / 10 high (all 12 remaining d.21 skeletons; d21-littera lands in OK). headers: Q-LOSS A-LOSS (expected — skeletons still hold quaestio/articulus headers; littera has none). apparatus-count: 0 flag on d21-littera (12 flagged are the d.21 skeletons). Build: 879 → **880 routes, 639 → 640 translated, 2 books**. Commit `1b8663b`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d21-divisio`
+
+Per CLAUDE.md "Efficient single-chunk subagent dispatch". d.21 chunk inventory:
+
+- ~~`bon-sent-II-d21-littera`~~ **DONE 2026-05-28.**
+- **`bon-sent-II-d21-divisio`** — NEXT. (Cap. VI onwards + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM; raw line 34500 onwards starting at p.491)
+- `bon-sent-II-d21-a1-q1`, `bon-sent-II-d21-a1-q2`, `bon-sent-II-d21-a1-q3`
+- `bon-sent-II-d21-a2-q2`, `bon-sent-II-d21-a2-q3` — **`d21-a2-q1` is MISSING** from the auto-chunker output; before promoting a2-q2 the next session must `grep -n "QUAESTIO I" raw/bonaventure_vol2_raw.txt` over the d.21 range and verify whether QUAESTIO I body was auto-merged into a1-q3 or divisio. Re-chunk if so.
+- `bon-sent-II-d21-a3-q1`, `bon-sent-II-d21-a3-q2`, `bon-sent-II-d21-a3-q3`
+- `bon-sent-II-d21-dubia` + `bon-sent-II-d21-dubia-dup2` + `bon-sent-II-d21-dubia-dup3` — **auto-chunker dup artifacts**; reconcile against printed pp. (likely 3 DUB. merged into a single chunk, dup files leftover from chunker boundary noise).
+
+Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read (Vol II Override). `pdf = printed + 22`. One chunk per subagent, two-commit cadence per chunk, do NOT deploy.
+
+---
+
+## (Prior) d.11–d.20 decade-polish-blocker FULLY CLOSED 2026-05-26 (Pass 1 + Pass 2 + Pass 3)
 
 ## 2026-05-26 PM — Pass 3 closed (cross-chunk boundary integrity sweep d.11–d.20)
 
