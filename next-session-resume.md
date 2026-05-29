@@ -1,4 +1,20 @@
-# Next session — **d22-a1-q3 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-a2-q1` (ARTICULUS II QUAESTIO I — SKELETON EXISTS, rebuild not create).**
+# Next session — **d22-a2-q1 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-a2-q2` (ARTICULUS II QUAESTIO II — SKELETON EXISTS, rebuild not create).**
+
+## 2026-05-29 — d22-a2-q1 promoted (Tier-2) — folds ARTICULUS II opener + TRACTATIO
+
+Rebuilt `bon-sent-II-d22-a2-q1` from skeleton — **QUAESTIO I *Utrum peccatum primorum parentum fuerit ex ignorantia.*** Spans **pp. 521–523** (PDF 543–545, +22), raw ~36655–36785. Re-set from 450 dpi PDF column bands (`/tmp/colcrop/vol2-p52{1,2,3}-{L,R}-{0..2}.png`). Per Override §5 the ART II opener (*Consequenter quaeritur de peccato primorum parentum in relatione ad ignorantiam ex parte intellectus. Et circa hoc quaeruntur tria.*) + TRACTATIO (q1/q2/q3) **folded into this q1** — no standalone d22-a2-divisio chunk.
+
+- **Alignment confirmed** against TRACTATIO sub-question 1 (*utrum peccatum primorum parentum fuerit ex ignorantia*). Body: 5 *for* args (1 Gen 3 *Serpens seduxit*; 2 dubitavit/*Ne forte moriamur*; 3 Adam credidit veniale/Magister in littera; 4 omne peccatum aut ignorantia/infirmitate/malitia; 5 si credidissent graviter offendere); Sed contra 1–5 (poena-an-culpa; iuris-an-facti; voluntaria-an-involuntaria; innata-an-contracta/imputari Deo; mulier seducta/vir non seductus); CONCLUSIO (*Peccatum Evae et etiam Adae fuit ex quadam ignorantia, accepta in sensu largo*); Respondeo (duplex: *proprie* = privatio scientiae ex natura lapsa, non applies / *communiter* = nescientia circa peccantem, applies — Eve > Adam); Solutio Ad 1–5. SCHOLION I+II.
+- **14 apparatus entries [^1]–[^14].** Page-split map: p.521 footers ²–⁶ (received from a1-q3) → [^1]–[^5]; p.522 L footers ¹–⁴ → [^6]–[^9]; p.522 R footers ⁵–⁸ → [^10]–[^13]; p.523 footer ¹ (Ad 4 *infra*) → [^14]. **`has_scholion: true`** (own SCHOLION I+II). **No `[?]` flags.**
+- **Received:** p.521 footers ²–⁶ from a1-q3. **Forwarded to `bon-sent-II-d22-a2-q2`:** NONE — q1 closes clean at SCHOLION; q2 opens fresh on p.523 R with its own footer block (p.523 footers ²–⁴ = Vers.38/Ps35/Ill.Sent.d33 belong to q2).
+- **Audits.** paraphrase: a2-q1 → OK; 0 critical + 4 high = remaining d.22 skeletons (a2-q2/q3, dubia, dubia-dup2). headers: ART +2, QUAEST +3 (folded ART II opener + running-head FPs) — no LOSS. apparatus-count: a2-q1 NOT flagged (14 entries); flagged = a2-q2/q3/dubia-dup2 skeletons. Build: **883 routes, 657 translated** (+1). Commit `ccb5878`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-a2-q2` (ARTICULUS II QUAESTIO II — SKELETON EXISTS, rebuild)
+
+`bon-sent-II-d22-a2-q2` — **QUAESTIO II *Utrum ignorantia [in aliquo homine possit esse] aliquo modo sit culpa.*** Opens raw **36786**, p.523 R: *Secundo quaeritur gratia huius, utrum ignorantia in aliquo homine possit esse culpa. Et quod sic, videtur. 1. Primae ad Corinthios decimo quarto: Ignorans ignorabitur…*. **Hand-off RECEIVED from a2-q1:** NONE (q1 closed clean). q2 footer block starts fresh on p.523 R (footers ²=Vers.38, ³=Psalm 35,4/August. Sixtum, ⁴=Vide Ill. Sent. d.33). apparatus-count raw=21. d.22 structure map: ART I (q1✓ q2✓ q3✓ — COMPLETE) / ART II (a2-q1✓, a2-q2=NEXT, a2-q3 skeleton) / dubia + dubia-dup2 skeletons; littera✓ divisio✓.
+
+## ARCHIVE — earlier 2026-05-29 sessions below
+
 
 ## 2026-05-29 — d22-a1-q3 promoted (Tier-2) — ARTICULUS I COMPLETE
 
