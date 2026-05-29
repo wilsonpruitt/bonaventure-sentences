@@ -1,4 +1,20 @@
-# Next session — **d22-a2-q1 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-a2-q2` (ARTICULUS II QUAESTIO II — SKELETON EXISTS, rebuild not create).**
+# Next session — **d22-a2-q2 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-a2-q3` (ARTICULUS II QUAESTIO III — SKELETON EXISTS, rebuild not create; LAST quaestio of ART II → DUBIA follows).**
+
+## 2026-05-29 — d22-a2-q2 promoted (Tier-2)
+
+Rebuilt `bon-sent-II-d22-a2-q2` from skeleton — **QUAESTIO II *Utrum ignorantia in aliquo homine possit esse culpa.*** Spans **pp. 523–525** (PDF 545–547, +22), raw 36786–36917. Re-set from 450 dpi PDF column bands (`/tmp/colcrop/vol2-p52{3,4,5}-{L,R}-{0..2}.png`).
+
+- **Alignment confirmed** against TRACTATIO sub-question 2 (*utrum ignorantia in aliquo homine possit esse culpa*). Body: 5 *for* args (1 Cor 14 *Ignorans ignorabitur*; 2 Psalm/Gloss Aug.; 3 cognoscere credenda=virtus; 4 nescire quod tenetur scire; 5 error est peccatum); Contra 1–5 (Enchiridio inflicta=poena; nulla conversio ad commutabile; remanet post poenitentiam; in intellectu non affectu; omni instanti=tot peccata quot instantia); CONCLUSIO (*interdum esse peccatum, interdum non*); Respondeo (duplex: privatio cognitionis non-necessariae=non culpa / necessariae: manente tentione=culpa, non manente=non; + *Aliter* in nobis sed non a nobis=poena / in nobis et a nobis=culpa, tripliciter: erronea/affectata/crassa-supina); Solutio Ad 1–5. SCHOLION I+II+III.
+- **16 apparatus entries [^1]–[^16].** Page-split map: p.523 footers ¹–⁸ → [^1]–[^8]; p.524 footers ¹–⁷ → [^9]–[^15] (note: [^9]=p524-fn2 Sicut infra d.41 @Contra-3; [^10]=p524-fn1 Dist.30/d.32 @Contra-4 — ordered by body position); p.525 footer ¹ → [^16] (*Ex cod. cc…adiecimus pro* @Ad-5). **`has_scholion: true`** (own SCHOLION I+II+III). **No `[?]` flags.**
+- **Received:** NONE (a2-q1 closed clean p.523 L SCHOLION; q2's opening-arg footers are its own). **Forwarded to `bon-sent-II-d22-a2-q3`:** p.525 footers ²–⁴ (²=Vers.43 Timotheum a2-q3 arg1; ³=Vers.47 Servus arg2; ⁴=Averroes III Ethic. arg3) — QUAESTIO III *for*-args begin on p.525 L bottom.
+- **Audits.** paraphrase: a2-q2 → OK; 0 critical + 3 high = remaining d.22 skeletons (a2-q3, dubia, dubia-dup2). headers: ART +2, QUAEST +4 — no LOSS. apparatus-count: a2-q2 NOT flagged (16 entries); flagged = a2-q3/dubia-dup2 skeletons. Build: **883 routes, 658 translated** (+1). Commit `7da0672`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-a2-q3` (ARTICULUS II QUAESTIO III — SKELETON EXISTS, rebuild)
+
+`bon-sent-II-d22-a2-q3` — **QUAESTIO III *Utrum ignorantia sit culpae excusatio.*** Opens raw **36918**, p.525 L bottom: *Tertio quaeritur, utrum ignorantia sit culpae excusatio. Et quod sic, videtur. 1. Primae ad Timotheum primo: Misericordiam consecutus sum, quia ignorans hoc feci…*. **Hand-off RECEIVED from a2-q2:** p.525 footers ²–⁴ (²=Vers.43 Timotheum arg1; ³=Vers.47 Servus arg2; ⁴=Averroes III Ethic. arg3) — lead apparatus with these (renumbered [^1]…). **LAST quaestio of ART II → DUBIA at raw ~37063 follows.** d.22 structure map: ART I (q1✓ q2✓ q3✓ COMPLETE) / ART II (a2-q1✓ a2-q2✓, a2-q3=NEXT) / dubia + dubia-dup2 skeletons; littera✓ divisio✓.
+
+## ARCHIVE — earlier 2026-05-29 sessions below
+
 
 ## 2026-05-29 — d22-a2-q1 promoted (Tier-2) — folds ARTICULUS II opener + TRACTATIO
 
@@ -9,7 +25,7 @@ Rebuilt `bon-sent-II-d22-a2-q1` from skeleton — **QUAESTIO I *Utrum peccatum p
 - **Received:** p.521 footers ²–⁶ from a1-q3. **Forwarded to `bon-sent-II-d22-a2-q2`:** NONE — q1 closes clean at SCHOLION; q2 opens fresh on p.523 R with its own footer block (p.523 footers ²–⁴ = Vers.38/Ps35/Ill.Sent.d33 belong to q2).
 - **Audits.** paraphrase: a2-q1 → OK; 0 critical + 4 high = remaining d.22 skeletons (a2-q2/q3, dubia, dubia-dup2). headers: ART +2, QUAEST +3 (folded ART II opener + running-head FPs) — no LOSS. apparatus-count: a2-q1 NOT flagged (14 entries); flagged = a2-q2/q3/dubia-dup2 skeletons. Build: **883 routes, 657 translated** (+1). Commit `ccb5878`.
 
-## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-a2-q2` (ARTICULUS II QUAESTIO II — SKELETON EXISTS, rebuild)
+## (archived — DONE 2026-05-29) NEXT ACTION: dispatch `bon-sent-II-d22-a2-q2` (ARTICULUS II QUAESTIO II — SKELETON EXISTS, rebuild)
 
 `bon-sent-II-d22-a2-q2` — **QUAESTIO II *Utrum ignorantia [in aliquo homine possit esse] aliquo modo sit culpa.*** Opens raw **36786**, p.523 R: *Secundo quaeritur gratia huius, utrum ignorantia in aliquo homine possit esse culpa. Et quod sic, videtur. 1. Primae ad Corinthios decimo quarto: Ignorans ignorabitur…*. **Hand-off RECEIVED from a2-q1:** NONE (q1 closed clean). q2 footer block starts fresh on p.523 R (footers ²=Vers.38, ³=Psalm 35,4/August. Sixtum, ⁴=Vide Ill. Sent. d.33). apparatus-count raw=21. d.22 structure map: ART I (q1✓ q2✓ q3✓ — COMPLETE) / ART II (a2-q1✓, a2-q2=NEXT, a2-q3 skeleton) / dubia + dubia-dup2 skeletons; littera✓ divisio✓.
 
