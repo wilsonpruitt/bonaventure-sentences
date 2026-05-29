@@ -1,8 +1,9 @@
 ---
-id: "bon-sent-II-d25-p1-divisio-dup2"
+id: "bon-sent-II-d25-p2-divisio"
 volume: 2
 book: 2
 distinctio: 25
+pars: 2
 type: divisio
 line_start: 42608
 line_end: 42636
@@ -11,7 +12,7 @@ transcription_status: "auto-chunked 2026-05-13"
 format_version: 1
 ---
 
-# bon-sent-II-d25-p1-divisio-dup2
+# bon-sent-II-d25-p2-divisio
 
 ## Latin
 
