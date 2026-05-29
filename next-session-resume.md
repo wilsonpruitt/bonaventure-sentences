@@ -1,6 +1,28 @@
-# Next session — **d22-dubia DONE 2026-05-29 → d.22 COMPLETE. Next action: dispatch `bon-sent-II-d23-littera` (Lombard's text, Cap. I–IV; first chunk of d.23).**
+# Next session — **d23-littera DONE 2026-05-29 → d.23 OPENED. Next action: dispatch `bon-sent-II-d23-divisio` (COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM; skeleton exists).**
 
-## 2026-05-29 — d22-dubia promoted (Tier-2) — CLOSES d.22
+## 2026-05-29 — d23-littera promoted (Tier-2) — OPENS d.23
+
+Rebuilt `bon-sent-II-d23-littera` from skeleton — **Lombard's text, Cap. I–IV.** Spans **pp. 529–530** (PDF 551–552, +22), raw 37192–37289. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p52{9,30}-{L,R}-{0..2}.png`). **NO pars split.**
+
+- **4 capitula:** Cap. I *Quare Deus permiserit hominem tentari, quem sciebat casurum*; Cap. II *Qualis secundum animam fuerit homo ante peccatum*; Cap. III *De triplici scientia hominis ante lapsum*; Cap. IV *Utrum homo praescius fuerit eorum quae sibi futura erant*. Cap. IV ends at *…dixisse sufficiat*. `has_scholion: false`.
+- **13 apparatus entries [^1]–[^13]** from NOTAE AD LIBR. SENTENTIARUM footers. Page-split: p.529 NOTAE footers ¹–² → [^1]–[^2]; p.530 NOTAE footers ¹–¹¹ → [^3]–[^13]. **Caution noted:** p.529 L-column footers ¹–⁸ (`Cfr. supra pag. 517`; `Vide August. X de Trin.`; `Vat. nec.`…) are the **d.22 DUB V** *commentary* apparatus, NOT the littera's — the littera uses only the separate NOTAE AD LIBR. SENTENTIARUM block. **No `[?]` flags.**
+- **Received:** none (d22-dubia closed clean at *…nisi ipse homo*, above the DISTINCTIO XXIII divider on p.529). **Forwarded:** none (COMMENTARIUS / DIVISIO TEXTUS opens p.531 with its own footer series).
+- **Audits.** paraphrase: **0 critical + 8 high** = the 8 remaining d.23 skeletons (littera in OK bucket). headers: d.23 DUB/Q/A-LOSS flags are the coarse Vol II page-frontmatter behavior (littera has no ART/QUAEST/DUB headers; the raw-side headers belong to the still-skeleton divisio/articles/dubia) — not a real dropout. apparatus-count: 7 SKELETON-SUSPECT = the skeleton siblings; littera NOT flagged. Build: **882 routes, 661 translated** (+1). Commit `6cb249f`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d23-divisio` — COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM
+
+**d23-divisio** (raw 37290–37324, p.531): COMMENTARIUS IN DISTINCTIONEM XXIII (raw 37290, *Supra egit Magister de lapsu primorum parentum…*) + DIVISIO TEXTUS (raw 37295) + TRACTATIO QUAESTIONUM (raw 37310). **Totalis intentio splits into 2:** (1) *de primae tentationis permissione* [ART I, 3 qq], (2) *de primorum parentum cognitione* [ART II]. Carries its own footer series starting on p.531 (raw footer ¹ at the COMMENTARIUS).
+
+**TRACTATIO question-list (for later alignment checks):**
+- **ART I** *De permissione primae tentationis* (raw 37322): q1 *Utrum Deus debuerit facere hominem impeccabilem* (raw 37326); q2 *Utrum debuit Deus permittere hominem… tentationem impugnari* (raw 37458); q3 *Utrum tentationis pugna a vi[ctoria/rtute…]* (raw ~37567). [TRACTATIO openers at raw 37312 "Primo quaeritur… utrum Deus debuerit"; 37314 "Secundo quaeritur, utrum hominem quem… impugnari"; 37316 "Tertio quaeritur, utrum tentationis pugna a vi…"]
+- **ART II** *De primorum parentum cognitione* (raw ~37691): q1 (raw ~37702); q2, q3 (OCR headers garbled but skeleton files exist; per TRACTATIO the second part has its own questions).
+- **DUBIA** (raw ~38448): DUB I, DUB II — ends before DISTINCTIO XXIV (running head raw ~38497).
+
+**Verify Primo/Secundo/Tertio quaeritur alignment** when dispatching the ART I quaestiones (auto-chunker has known q-swap bugs).
+
+**Pace gate:** d.23 is the last distinction before the d.21–d.30 decade-polish blocker fires at d.30 close — no polish gate yet at d.23.
+
+## ARCHIVE — d22-dubia (2026-05-29) — CLOSES d.22
 
 Rebuilt `bon-sent-II-d22-dubia` from skeleton — **DUBIA CIRCA LITTERAM MAGISTRI.** Spans **pp. 527–529** (PDF 549–551, +22), raw 37063–37189. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p52{7,8,9}-{L,R}-{0..2}.png`).
 
