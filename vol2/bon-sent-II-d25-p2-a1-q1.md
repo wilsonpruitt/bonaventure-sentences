@@ -1,8 +1,9 @@
 ---
-id: "bon-sent-II-d25-p1-a1-q1-dup2"
+id: "bon-sent-II-d25-p2-a1-q1"
 volume: 2
 book: 2
 distinctio: 25
+pars: 2
 articulus: 1
 quaestio: 1
 type: quaestio
@@ -13,7 +14,7 @@ transcription_status: "auto-chunked 2026-05-13"
 format_version: 1
 ---
 
-# bon-sent-II-d25-p1-a1-q1-dup2
+# bon-sent-II-d25-p2-a1-q1
 
 ## Latin
 
