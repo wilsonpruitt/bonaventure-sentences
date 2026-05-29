@@ -1,6 +1,23 @@
-# Next session — **d21-a3-q1 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a3-q2`.**
+# Next session — **d21-a3-q2 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a3-q3`.**
 
-## 2026-05-29 — d21-a3-q1 promoted
+## 2026-05-29 — d21-a3-q2 promoted
+
+Promoted `bon-sent-II-d21-a3-q2` Tier-2 (*Utrum peccatum primum hominis fuerit remissibile, vel irremissibile.*):
+
+- QUAESTIO II of **ARTICULUS III** (*De quantitate peccati primorum parentum*). Spans **pp. 506–507** (PDF 528–529, +22). Opener p.506 L (raw 35540): *Secundo quaeritur, utrum peccatum, quod primo secutum est ex tentatione illa, fuerit remissibile, vel irremissibile. Et quod irremissibile, videtur.* *Ad oppositum* args 1–4 (Augustin. de Mirabilibus sacrae Scripturae on the Angel fell from sublimissimo statu; peccatum sine inclinatione→sine excusatione→irremissibile; morbus totam naturam inficit incurabilis; Adam habuit naturalia+gratuita Glossa Lucae 10 *vulneratus in naturalibus exspoliatus gratuitis* vs angelus solum naturalia). *Sed contra* args 1–4 (poenitentia via ad veniam, Adam doluit+poenituit; qui ab alio deiicitur ab alio adiuvetur; si irremissibile→tota natura damnata→providentia frustrata; culpa non maioris stabilitatis quam gratia). CONCLUSIO (*Peccatum primum hominis remissibile fuit, triplici ratione*). Respondeo p.506 R→507 L: three rationes — Ratio I *carnis mortalitas* (divine justice exercised via death+Christ's satisfaction, angel immortal nisi morte aeterna); Ratio II *voluntatis vertibilitas* (homo viator longo tempore, potuit transgredi→potuit conteri; angel lacked per brevitatem spatii merendi supra d.7); Ratio III *excusabilitas in culpa* (alio suggerente cecidit→mediatorem habere; Magister in littera). Epilogus: praecipua = Ratio II (vertibilitas voluntatis). Solutio Ad 1–4 p.507 R. SCHOLION I+II p.507 bottom.
+- **15 apparatus entries [^1]–[^15]** renumbered continuously. Page-split map:
+  - p.506 footers ¹–⁸ = [^1]–[^8]: August. de Mirab. Libr.I c.2 (Vide supra p.176 n.5); Cfr. infra d.30 a.1 q.1; Dist.29 a.2 q.1 + long Glossa-super-Luc.10/Beda/Ambros./August. provenance note; Dist.4 a.1 q.2; codd. variants for *inveniendam veniam* + Cfr. infra lit. Magistri d.XXXIII c.4; Cfr. hic lit.Magistri c.7 + August. III de Lib.Arb. c.10 n.29 + *ergo decuit/debuit* codd.; codd. *in carne mortali...vertibili...excusabili*; codd. F R T W aa cc ee *et* for *ut*.
+  - p.507 footers ¹–⁷ = [^9]–[^15]: Vat. *non enim erat*; Part.I a.I q.1; Hic c.7 + cod.W *rationes*; cod.cc/ed.1 *de primo homine*; Vat./codd. *inclinativum* vs *inclinationem*; Gen 22,18/26,4 + Gal 3,8 + August. X de Gen. ad lit.; *synderesis* — De qua infra d.39 a.2 q.1.
+- `has_scholion: true`. Own SCHOLION I (the *principal-reason* dispute: ancient Scholastics disagree why human sin remissible/angelic not; S.Bonav. per S.Thomae mens = vertibilitas voluntatis post lapsum; cross-ref III Sent. d.20 q.1) + SCHOLION II (commentator-roll: Alex.Hal. S.p.II q.104 m.5, B.Albert hic a.11, Petr. a Tar. hic q.3 a.3, Richard. a Med. hic a.3 q.3, Aegid. R. hic q.2 a.4, Dionys. Carth. de hac+seq).
+- **No `[?]` flags.** All 15 anchors + both scholia crisp at 450 dpi (split_x=1860 to clear the wide left column).
+- Cross-chunk hand-offs: **received NONE** (a3-q1 closed clean p.505). **Forwarded NONE** to a3-q3 — QUAESTIO II closes cleanly on p.507 with Solutio Ad 4 + SCHOLION I+II; QUAESTIO III opens fresh at raw 35674 (p.507→508) with own *Tertio quaeritur* + own footer block.
+- **Audits.** paraphrase: 1 critical / 3 high (a3-q2 dropped out of HIGH; content-check skipped because Tier-2 chunks drop the auto-chunker line_start/line_end — matches sibling Tier-2 convention). headers: d.21 ART 3/3/+0, QUAEST 4/8/+4, DUB -1 (unbuilt dubia) — no LOSS flag. apparatus-count: a3-q2 NOT flagged (15 entries; flagged = remaining skeletons dubia/dup2/dup3/a3-q3). Build: **881 routes, 649 translated, 2 books** (+1). Commit `d111326`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d21-a3-q3`
+
+`bon-sent-II-d21-a3-q3` — *Utrum inter cetera genera peccatorum primum peccatum hominis fuerit magis grave.* QUAESTIO III (the LAST quaestio of ARTICULUS III). Opens at raw 35674 (p.507 bottom→p.508) with *Tertio quaeritur, utrum...* Per the TRACTATIO order folded into a3-q1 (q3 = *utrum inter cetera genera peccatorum fuerit magis grave*). **Hand-off from a3-q2: NONE** — q2 closed clean on p.507 with Solutio Ad 4 + SCHOLION I+II; QUAESTIO III opens fresh on p.507 bottom with own *Sed contra* block (raw 35713 *Sed contra: 1. Minus est peccatum remissibile quam irremissibile...*) + own footer block. Grep raw for the next DUBIA / next semantic boundary for the q3 end (this is the last quaestio of art.III, so DUBIA CIRCA follows). Verify span via running heads `DIST. XXI. ART. III. QUAEST. III.`. After a3-q3, ARTICULUS III closes; d.21 dubia remain (dubia + dups to clean). Follow locked single-chunk recipe; two commits; NO deploy.
+
+## (archived) 2026-05-29 — d21-a3-q1 promoted
 
 Promoted `bon-sent-II-d21-a3-q1` Tier-2 (*Utrum peccatum Adae potuerit esse veniale.*):
 
