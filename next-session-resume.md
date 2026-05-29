@@ -1,6 +1,19 @@
-# Next session — **d22-a1-q1 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-a1-q2` (ARTICULUS I QUAESTIO II — MISSING, must be created fresh).**
+# Next session — **d22-a1-q2 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-a1-q3` (ARTICULUS I QUAESTIO III — SKELETON EXISTS, rebuild not create).**
 
-## 2026-05-29 — d22-a1-q1 created + promoted (Tier-2)
+## 2026-05-29 — d22-a1-q2 created + promoted (Tier-2)
+
+Created `bon-sent-II-d22-a1-q2` fresh (auto-chunker omitted ARTICULUS I q2) — **QUAESTIO II *Utrum id quod mulier appetiit, vir etiam concupierit.*** Spans **pp. 518–519** (PDF 540–541, +22), raw ~36418–36560. Two-column, cascade-shattered; re-set from 450 dpi PDF column bands (`/tmp/colcrop/vol2-p51{8,9}-{L,R}-{0..2}.png`).
+
+- **Alignment confirmed** against TRACTATIO sub-question 2 (*utrum quod mulier appetiit vir cupierit*). Body: 4 *videtur quod non* args (1 Tim 2,14 *Vir non est seductus*; Aug. de Gen. ad lit.; gravius-quam-lucifer; suggestione mulieris/serpentis); Sed contra 1–4 (Ps 118 Glossa + Gregor. Moral. Iob 41; Phil 2 Glossa + Ps 68 *Quae non rapui*; similitudo mater falsitatis; lucifer sapientior); CONCLUSIO (*Adam… non appetiit esse sicut Deus quemadmodum mulier*); Respondeo (opinio 1 = concupivit non credidit / opinio 2 = non conformis in motivo; triplex peccatum superbia-avaritia-lascivia; Augustinus trio); Corollarium (triplex ratio of "appetiit esse sicut Deus": contempt / synecdoche / non-restraint); Solutio Ad 1+2, Ad 3, Ad 4 (innata vs gratuita cognitio).
+- **17 apparatus entries [^1]–[^17]** renumbered continuously. Page-split map: p.518 footers ¹–⁹ → [^1]–[^9]; p.519 footers ¹–⁸ → [^10]–[^17]. **`has_scholion: false`** — no own scholion; commentator-roll covered by sibling **a1-q1 SCHOLION III** forward-pointer (Override §5 sibling-pointer case). **No `[?]` flags.**
+- **Received** from d22-a1-q1: NONE (q1 closed clean on p.517 with SCHOLION I+II+III; SCHOLION III is a forward roll-pointer, not a footer hand-off). **Forwarded to `d22-a1-q3`:** NONE — q2 closes on p.519 with *Ad 4*; QUAESTIO III opens fresh p.520 (raw ~36560) with its own footers.
+- **Audits.** paraphrase: a1-q2 skipped (no line frontmatter — normal for manual chunk); 1 critical + 5 high = pre-existing d.22 skeletons (a1-q3/a2-q1/q2/q3/dubia-dup2), not regressions. headers: ART +1, QUAEST +1, DUB +0 — no LOSS flag. apparatus-count: a1-q2 NOT flagged (17 entries); flagged = the 5 skeletons. Build: **883 routes, 655 translated** (+1). Commit `c021f76`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-a1-q3` (ARTICULUS I QUAESTIO III — SKELETON EXISTS, rebuild)
+
+`bon-sent-II-d22-a1-q3` — **QUAESTIO III *Quis gravius peccaverit, utrum vir, an mulier.*** Opens **p.520** (running head `SENTENTIARUM LIB. II.` then `DIST. XXII. ART. I. QUAEST. III`, raw ~36560), *Tertio quaeritur, quis eorum gravius peccaverit, utrum vir, aut mulier. Et quod vir gravius peccaverit, videtur. 1. Gravius est peccatum, ubi maior est ingratitudo…*. CONCLUSIO (visible at raw ~36561): *Licet peccatum Evae respectu peccati Adae uno modo excedatur, alio modo excedat; tamen simpliciter loquendo gravius illo fuit.* **SKELETON EXISTS** (`bon-sent-II-d22-a1-q3.md`, status `auto-chunked 2026-05-13`) — VERIFY/REBUILD, do not create. Verify q3 = *quis horum gravius peccaverit* matches TRACTATIO sub-question 3 (confirmed in d22-divisio Notes). apparatus-count raw=18 → expect ~18 footers across pp. 520+. **Hand-off RECEIVED:** NONE (q2 closed clean on p.519). Next boundary after q3 = ARTICULUS II (raw TBD). d.22 structure map: ART I (q1✓ q2✓ q3=NEXT) / ART II (a2-q1/q2/q3 skeletons) / dubia + dubia-dup2 skeletons; littera✓ divisio✓.
+
+## (archived — DONE 2026-05-29) d22-a1-q1 created + promoted (Tier-2)
 
 Created `bon-sent-II-d22-a1-q1` fresh (auto-chunker omitted ARTICULUS I q1) — **ARTICULUS I *De culpa primorum parentum quoad inordinationem affectus.* / QUAESTIO I *Quo genere peccati mulier peccaverit.***, spans **pp. 515–517** (PDF 537–539, +22), raw ~36172–36418. Two-column, cascade-shattered; re-set from 450 dpi PDF column bands (`/tmp/colcrop/vol2-p51{5,6,7}-{L,R}-{0..2}.png`).
 
@@ -9,7 +22,7 @@ Created `bon-sent-II-d22-a1-q1` fresh (auto-chunker omitted ARTICULUS I q1) — 
 - **Received** from d22-divisio: the p.515 footer sequence as native [^1]–[^5]. **Forwarded:** NONE — q1 closes cleanly on p.517 with SCHOLION; QUAESTIO II opens fresh p.518 (raw ~36418) with its own footers.
 - **Audits.** paraphrase: a1-q1 → OK (1 critical + 5 high = pre-existing d.22 skeletons a1-q3/a2-q1/q2/q3/dubia/dubia-dup2, not regressions). headers: ART +1, QUAEST +0, DUB +0 — no LOSS flag. apparatus-count: a1-q1 NOT flagged (26 entries); flagged = the skeletons. Build: **882 routes, 654 translated** (+1). Commit `8bbd910`.
 
-## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-a1-q2` (ARTICULUS I QUAESTIO II — MISSING, create fresh)
+## (archived — DONE 2026-05-29) NEXT ACTION: dispatch `bon-sent-II-d22-a1-q2` (ARTICULUS I QUAESTIO II — MISSING, create fresh)
 
 `bon-sent-II-d22-a1-q2` — **QUAESTIO II *Utrum id quod mulier appetiit, vir etiam concupierit.*** Opens p.518 (running head `DIST. XXII. ART. I. QUAEST. II`, raw ~36418), *Secundo quaeritur, utrum quod mulier appetiit vir etiam concupierit. Et quod non, videtur. 1. Primae ad Timotheum secundo: Adam non est seductus, sed mulier … 2. Item, Augustinus super Genesim ad litteram … 3. Item, si Adam appetiit esse sicut Deus …*. Verify q2 = *utrum quod mulier appetiit vir cupierit* matches TRACTATIO sub-question 2 (confirmed in d22-divisio Notes). **Hand-off RECEIVED from a1-q1:** NONE (q1 closed clean on p.517). Note SCHOLION III of a1-q1 already lists the q2 commentator-roll (forward pointer). Next boundary = QUAESTIO III (raw TBD; *quis horum gravius peccaverit*). Spans p.518 onward (PDF 540).
 
