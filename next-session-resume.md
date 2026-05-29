@@ -1,6 +1,40 @@
-# Next session — **d21-a2-q2 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a2-q3`.**
+# Next session — **d21-a2-q3 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a3-q1`.**
 
-## 2026-05-29 — d21-a2-q2 promoted
+## 2026-05-29 — d21-a2-q3 promoted
+
+Promoted `bon-sent-II-d21-a2-q3` Tier-2 (*Utrum tentatio carnis sit nobis difficilior tentatione diaboli.*):
+
+- QUAESTIO III (Articulus II — last quaestio of *De modis tentationis in generali*). Spans **pp. 501–503** (PDF pp. 523–525, offset +22). Opens p. 501 R-mid (raw 35224) with centered *QUAESTIO III.* header + *Tertio quaeritur, cui istarum tentationum sit difficilius resistere.* + *Fundamenta* args 1–4 (Magister in littera *Tentatio carnis interior difficilius deiicitur, quia interius oppugnans de nostro contra nos roboratur* + Seneca *Nulla pestis inimicior quam familiaris inimicus* + ad nocendum efficacior + multum diligit carnem multum odit diabolum). *Ad oppositum* args 1–6 (Iob 41,21 *Non est potestas super terram* + diabolus versutissimus + occultior hostis spiritualis + caro in nostra potestate Gal 5,24 *crucifigere cum vitiis* + spiritus magis adhaeret bono proprio + Hugo violentando vs blandiendo). CONCLUSIO bipartite (respectu eiusdem peccati = carnis difficilior; respectu diversorum = excedentia/excessa). Respondeo p. 502 R w/ *dupliciter intelligi* eiusdem-peccati vs alterius-peccati distinction → four conclusiones (1: respectu eiusdem carnis difficilior; 2: respectu diversorum, excedentia/excessa per pronitatem ad luxuriam vs superbiam; 3: indifferens = carnis intrinseca/continua adhaerentia vs hostis fallacia/apparentia; Gregorius in Moralibus *hostis antiquus palliat vitia sub specie virtutum*). Epilogus p. 503 L recapitulates + Conclusio 4 (*omnis caro corrupit viam suam* Gen 6,12 — homines ex maiori parte carnales, carnis difficilior). Solutio oppositorum 1–6 spanning p. 503 L (ad 1.2.3: diabolus non permittitur tota potentia, *reprimitur potestate divina*; ad 4: regnat ancilla servit domina *venter deus hominis* + *carnem suam odio habuit* Eph 5,29; ad 5: spiritus-qua-spiritus vs spiritus-qua-carnalis Gen 6,3; ad 6: violentia non simpliciter, propter tribulationum immissionem).
+- **13 apparatus entries [^1]–[^13]** renumbered continuously. Page-split map:
+  - p.501 R-2 footer ⁷–⁸ = [^1]–[^2] **received from a2-q2 hand-off**: *Hic c. 6.* Magister cross-ref; composite Boeth./Seneca/Declam. provenance debate for *familiaris inimicus* + codd. variant *inimicior*/*inimicitior*/*immitior*/*efficacior*.
+  - p.502 L-2 footer ¹–³ = [^3]–[^5]: *Cfr. hic lit. Magistri c. 6 et hic scholion* (fund. 3); Eph 5,29 + August. *de Serm. Domini in monte* II c. 14 n. 47 (fund. 4) + Vat. omits *ei*; Iob 41,21 cross-ref (Contra 1).
+  - p.502 R-2 footer ¹ = [^7]: codd. F aa *exterius* variant for Contra 5.
+  - p.502 L-2 footer ⁴–⁸ (composite mid-band) = [^6] (Gal 5,24 *carnem crucifixerunt*) + [^8] (Hugo *Allegor. in Nov. Testam.* II c. 13 *callide experiri*) + [^9] (cod. F *peccatorum carnalium*) + [^10] (Gregor. *Moralibus* XXXI c. 39 n. 78 / XXXII c. 22 n. 45 / XXXIII c. 24 n. 44 + Vat. *Homilia*).
+  - p.503 L-2 footer ¹–⁵ = [^11]–[^13]: Gen 6,12 + multi codd. *quia* variant (folded ² into ¹); Phil 3,19 + Rom 7,24 + Eph 5,29 cross-ref (folded re-cited Eph ⁴ into [^12]); Gen 6,3.
+- `has_scholion: true`. Two scholia on p. 503 L-bottom. SCHOLION I = Aegid. R. nine-ways defense of Magister + commentator-roll for *nunquam sine culpa* (Alex. Hal., S. Thom., B. Albert, Petr. a Tar., Durand.) + S. Thom. *apprehensio delectabilis* vs *sola dispositio corporalis organi* distinction + Richard. a Med. dissent + cross-ref *infra d. 24. p. II. a. 3. q. 1.* SCHOLION II = parallel-loci commentator-roll local to q3 (S. Thom. + B. Albert + Petr. a Tar. + Richard. a Med. + Aegid. R. + Dionys. Carth.).
+- **No `[?]` flags.** All 13 anchors crisp at 450 dpi.
+- Cross-chunk hand-off: **received 2** from a2-q2 (p.501 R-2 footers ⁷–⁸ = this chunk's [^1]–[^2], per resume note's *"p.501 R ⁷–⁸ reserved for q3"*). **Forwarded NONE** to d21-a3-q1 — QUAESTIO III closes cleanly at p.503 L-mid with Ad 6 (*nisi caro ibi interponat partes suas*), followed by SCHOLION I+II block; ARTICULUS III opens fresh at p.503 L-foot (raw 35381) with own *Consequenter quantum ad tertium articulum quaeritur de quantitate peccati primorum parentum* + TRACTATIO QUAESTIONUM (q1 *utrum primum peccatum potuerit esse veniale*, q2 *utrum fuerit remediabile*, q3 *utrum fuerit magis grave*) + own QUAESTIO I + own apparatus block opening on p.503 L-2 footer ⁶+ (not migrated here).
+- **Footnote-numbering compression note:** p.503 L-2 footer ⁴ re-cites Eph 5,29 already anchored under [^4]; folded into [^12]'s body per Vol II re-cite consolidation. Likewise the standalone ² *quia* codd. note folded into [^11].
+- **Audits.** paraphrase: 1 critical / 5 high (d21-a2-q3 lands in OK — was previously in HIGH bucket; one HIGH dropped). headers: d.21 ART -1 / QUAEST +2 / DUB -1 — no flags. apparatus-count: d21-a2-q3 NOT flagged (raw=22 chunk=13 diff=+9 within Vol II ±10–18 tolerance band). Build: **881 routes, 646 → 647 translated, 2 books** (+1 route). Commit `d49b55f`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d21-a3-q1`
+
+Per CLAUDE.md "Efficient single-chunk subagent dispatch". `bon-sent-II-d21-a3-q1` — *Utrum peccatum Adae potuerit esse veniale.* ARTICULUS III (*De quantitate peccati primorum parentum*) opens at raw 35381 on p. 503 L-foot with the centered ARTICULUS III header + *Consequenter quantum ad tertium articulum quaeritur de quantitate peccati primorum parentum. Et circa hoc quaeruntur tria: Primo quaeritur, utrum primum peccatum potuerit esse veniale. Secundo quaeritur, utrum fuerit remediabile sive remissibile. Tertio quaeritur, utrum inter cetera genera peccatorum fuerit magis grave.* QUAESTIO I then opens (per Vol II Override §5 — short ARTICULUS opener folds into q1, no standalone divisio chunk) with *Utrum peccatum Adae potuerit esse veniale* + *Circa primum sic proceditur et quaeritur, utrum primum peccatum hominis fuerit vel esse potuerit peccatum veniale.* Body spans p. 503 L-foot → p. 504+ until QUAESTIO II opener. Apparatus block opens on p. 503 L-2 footer ⁶+ (Gen 6,12 etc. for *omnis caro corrupit*, *quia* codd. variant — these may need to be re-checked since this chunk folded them; verify whether they actually anchor here vs. were correctly fully consumed by a2-q3's [^11]).
+
+**Hand-off from `d21-a2-q3`:** NONE forwarded — q3 closed cleanly at p.503 L-mid with Ad 6 + SCHOLION I+II; ARTICULUS III opens fresh.
+
+Procedure (locked single-chunk recipe):
+1. Pin target. Verify alignment: ARTICULUS III QUAESTIO I opener is *Primo quaeritur, utrum primum peccatum potuerit esse veniale* (first quaestio of articulus III, articulus opener folded into q1 per Override §5).
+2. Grep raw for `QUAESTIO II` near where q1 ends + cross-check running heads (p. 504+ should read `DIST. XXI. ART. III. QUAEST. I.` then `QUAEST. II.`).
+3. Generate any missing PDF crops for p.504+ (p.503 already cached).
+4. Backup: `mkdir -p _backup-d21-a3-q1-pre-promote-20260529/`.
+5. Re-set Latin column-by-column from PDF (Vol II inversion). Translate literally. Apparatus from page footers renumbered continuously, leading with any p.503 L-2 footers that anchor in a3-q1's body rather than a2-q3's.
+6. `## Notes`: provenance, page-split map, hand-offs picked-up (none from q3) / forwarded (to a3-q2), [?] flags. Likely `has_scholion` depends on whether q1 has its own SCHOLION or defers to a3-q3 per Vol II §5 sibling-pointer convention.
+7. Audits `--volume 2 --min-d 21 --max-d 21` + smoke build.
+8. Two commits — chunk+content.json, then resume-note advance pointing next at `d21-a3-q2`.
+9. NO deploy.
+
+## (archived) 2026-05-29 — d21-a2-q2 promoted
 
 Promoted `bon-sent-II-d21-a2-q2` Tier-2 (*Utrum tentatio carnis a tentatione diaboli possit separari.*):
 
