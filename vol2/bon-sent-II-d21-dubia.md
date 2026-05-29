@@ -4,61 +4,200 @@ volume: 2
 book: 2
 distinctio: 21
 type: dubia
-line_start: 35737
-line_end: 35772
-word_count_latin: 394
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Dubia circa litteram Magistri (Distinctio XXI)"
+title_en: "Doubts concerning the text of the Master (Distinction 21)"
+printed_pages: [509, 510, 511, 512]
+pdf_pages: [531, 532, 533, 534]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 509–512"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from PDF (pp. 509–512, raw lines 35771–35962), fresh literal English translation, full apparatus from raw OCR footers (15 entries, leading with p.509 footers 2–5 received from a3-q3), no scholion (dubia) (2026-05-29)"
 format_version: 1
 ---
 
 # bon-sent-II-d21-dubia
+## *Dubia circa litteram Magistri*
+
+---
 
 ## Latin
+<!-- page 509 -->
 
-DIST. XXI. DUBIA.
+## DUBIA CIRCA LITTERAM MAGISTRI.
 
-          libidine diaboliis pecoavit, et etiam inulti filii Adae             maximum omnium, et quodam modo non. Maior
-          ex maiori libidiiie peccant, quam peccaverit primus                 enim laesio dupliciter polest intelligi et ' esse, sci-
-          parens. — Si vero seciindo nindo dicatnr peccatum                   licet inlensive et exlensive. Intensive loquendo pec-
-Qdnsio 3. mains, scilicet quantum ad ingraliludinem; sic pee-                 catum Adae non fuit maximae laesionis, quia non conciusio 4.
-          catum Adae non fuit maximum simpliciler , maxi-                     adeo depravavit voluntatem suara , sicut multa pec-
-          mum tamen fnit omnium humanorum. Maximum                            cata depravant. Exlensive vero loquendo, peccatum concinsios.
-          namque simpliciler non fuit, quia diabolus ex ma-                   illud maximae laesionis fuit, quia nullum peccatum
-          iori ingratitudine peccavit, cum plura bona in sua                  est, quod tot personis nocuerit et in tot pertran-
-          creatione perceperit et de sublimiori statu lapsus                  seat, sicut illud peccatum, quod perpetratum fuit
-          fuerit. Fnit lamen maximura omnium humanorum,                       ex tentatione primaria; et ita quodara modo fuit
-          quia in nobiliori statu et altiori erat quam aiiquis                gravissimum, quodam modo non.
-          posterorum suurnm, qui lapsus fuerit in peccatnm;                         Et ex hoc patet responsio ad rationes ad utram- Ad arjn-
-          et ideo maxime iudicatur fuisse ingratus. — Si au-
-nciusios. lem dicatur tertio modo peccatnm. maius allero,                     que partem
-                                                                              versas      adductas:
-                                                                                     vias verum      ulraeque sicut
-                                                                                                 concludunt,   enim aspicienti
-                                                                                                                     secundum satis
-                                                                                                                                di-™°^'
-          ratione maioris laesionis ; sic quodam modo fuit                    est planum.
+### DUB. I.
 
-                                                                  SCHOLIOK
+In parte ista sunt dubitationes circa litteram, et primo de hoc, quod dicitur, quod diabolus loquebatur per serpentem ignorantem, sicut per energumenos. Sed contra: Diabolus movet energumenos mediante virtute sensibili: ergo videtur similiter, quod moverit serpentem ad formandam locutionem mediante sensibili virtute; hoc autem non videtur possibile, quia imaginatio serpentis non erat capax sermonis et locutionis: ergo mediante illa non poterat vox articulata formari. — Iuxta hoc quaeritur, a qua virtute fuerit illius locutionis formatio principaliter; et utrum data sit *nova* potestas serpenti; utrum etiam fuerit *miraculum*, sicut fuit in locutione asinae Balaam[^1].
 
-            1. S. Thom. disej-te docel (hic q. 2. a. 2 ; S. II. II. q. 163.   niultis, quae sunt gravioi-a, ita quod,si Adam debuisset fuisse
-       a. 3.), peccalum illud primorum parenlum non fuisse gravius            damnatus pro illo, nmlto minorem poenam sustinuisset ». Con-
-       omnibus aliis peccaiis humanis, si altendatur species peccati ,        sentit Richard. a Med. (hic a. 3. q. 2.).
-       quae gravitas essentialis est peccato ; sed fuisse gravissimum,              II. Alex. Hal, S. p. II. q. 104. m. 3. — B.^AIbert., S. p.
-       si idem attendatur secundum conditionem peccantium. Haec               11. tr. 14. q. 87. m. 3. parlic. I. — Pelr. a Tar. , hic q. 3.
-       sententia videtur esse comniunis, licct non eodem raodo omnes          a. 2. — .Egid. R., hic a. 2. q. 2. — Durand., hic q. 3. —
-       loquantur de g['avitate huius peccati absolute considemti. De          Biel, hic q. 2.
-       hoc dicit Scot. (hic q. 2. n. 3.) : « Multa peccata fiunt niodo a
+**Respondeo:** Dicendum, quod ad locutionis formationem ista tria concurrunt: primo *instrumentorum aptitudo* et convenientia; secundo vero *virtus motiva*; et tertio *virtus directiva*, cuius regimine formatur[^2] vox articulata. Et haec tria sunt in homine complete a sui natura; in brutis vero animalibus reperiuntur incomplete. Habent enim quaedam animalia organa apta, licet non complete, ad vocis formationem; habent etiam vim sensibilem[^3] motivam; habent etiam vim excogitativam sive imaginativam, ratione cuius erudiuntur ad aliquas voces pronuntiandas; non tamen est in eis complete, sed cum adest vis rationalis, quae possit et regere et movere, tunc illa potentia incompleta ad actum habet reduci. — Et sic fuit in illa prima tentatione. Nam diabolus excitabat vim motivam et adiuvabat et dirigebat,
+<!-- page 510 -->
+ut posset illas voces articulatas formare, ita quod serpenti non est data nova potestas, sed potestas superior assistebat[^4]. Unde proprie *miraculum* non erat, licet quis rationabiliter admirari posset, cum esset supra potestatem irrationalis creaturae, talia verba formari. — Licet igitur maior sit aptitudo in energumenis ratione vis motivae et organorum in loquendo quam in serpente; quia tamen virtus principaliter movens utrobique et dirigens in formando est virtus daemonis, ideo dicit Magister, eodem modo locutum esse diabolum per serpentem, quo modo loquitur per daemoniacum.
 
-                                                     DUBIA CmCA LITTERAM MAGISTRI.
+Ad illud ergo quod obiicitur, quod imaginativa vis serpentis non erat capax locutionis; dicendum, quod verum est de locutione quantum ad *significationem*, sed non est verum quantum ad vocis *expressionem*. — Vel posset dici, quod quamvis motus serpentis cooperaretur ad motum linguae, non tamen cognitiva cooperabatur ad vocis articulationem. — Et per hoc patent ea quae quaesita sunt.
+
+### DUB. II.
+
+Item quaeritur de hoc quod dicit: *serpens callidissimus dictus est propter astutiam diaboli*. Sed si haec est ratio, quare serpens dictus est callidissimus; pari ratione, si diabolus quodcumque aliud animal assumsisset, callidissimum diceretur: ergo non esset ratio, quare magis illud animal assumsisset quam aliud.
+
+**Respondeo:** Dicendum, quod calliditas attenditur in cognitione ordinata ad nocendum et seducendum. Et quoniam duplex est nocumentum, videlicet spirituale et corporale, duplex potest esse calliditas: aut in nocendo *corporaliter*, aut in nocendo *spiritualiter*. Calliditatem in nocendo corporaliter homini habet serpens a naturae suae industria, loquendo saltem secundum statum naturae lapsae. Calliditatem vero nocendi spiritualiter non habet a se, sed a diaboli praesentia; et de hoc loquitur Augustinus[^5] et Magister in littera. Et quia spiritualia debent significari per corporalia sibi similia, ideo, cum serpens ex se habeat calliditatem nocendi et insidiandi corporaliter, congruum fuit, per ipsum diabolum exercere calliditatem suam contra hominem in nocendo spiritualiter; et secundum hunc duplicem sensum intelligi potest Scriptura[^6].
+
+### DUB. III.
+
+Item quaeritur de hoc quod dicit scriptura: *Sciendum est, duas esse species tentationis, interiorem et exteriorem.* Exterior enim tentatio non est nisi propter interiorem nec ad culpam perducit nisi mediante interiori: ergo non videtur, quod ab invicem habeant distingui. — Item, subdividit[^7] interiorem in eam quae est ab hoste, et in eam quae est a carne; et videtur, quod divisio illa sit insufficiens, quia non solum tentatio est ab hoste et a carne, sed etiam a mundo, secundum illud primae Ioannis secundo[^8]: *Omne quod est in mundo, aut est concupiscentia carnis* etc.
+
+Quaeritur ergo de *sufficientia* horum membrorum. Et cum alibi legantur plures aliae differentiae tentationis, quaeritur, quomodo distinguantur ab illis.
+
+**Respondeo:** Dicendum, quod tentatio quinque modis considerari potest, scilicet quantum ad *motivum* et quantum ad *instrumentum* et quantum ad *effectum* et quantum ad *gradum* et quantum ad *modum*. — Quantum ad *motivum*: vel generaliter vel specialiter. Si generaliter; sic dividitur tentatio in eam quae est ab hoste et a carne et a mundo, ut dicitur in quadam sequentia[^9]: «Mundus, caro, daemonia diversa movent proelia». — Si specialiter, ut dicatur motivum, quod se offert non solum per modum *obiecti*, sed etiam quod inducit et excitat per modum *impulsivi*; sic est illa divisio, quam ponit Magister in littera, quod tentatio alia est ab hoste, alia est a carne, quorum utrumque habet ad malum incendere.
+
+Si autem loquamur quantum ad *instrumentum*, sic dupliciter potest considerari: aut generaliter, aut specialiter. Si generaliter; sic est illa divisio Gregorii[^10], quod tentatio quaedam est per *vitia*, quaedam per *flagella*. — Si specialiter; sic est illa divisio tentationis, quam ponit Glossa in Psalmo[^11] super illud: *Omnem escam abominata est* etc, ubi dicitur, quod multiplex est tentatio; quarum prima est *error* sive nescientia viae veritatis; secunda, *difficultas vincendarum concupiscentiarum*; tertia, *taedium boni*; quarta, *tempestas saeculi*.
+
+Si tertio modo, scilicet quantum ad *effectum*, consideretur ipsa tentatio, similiter dupliciter potest considerari: aut generaliter, aut specialiter. Si
+<!-- page 511 -->
+generaliter; sic est illa divisio, quae ponitur in Glossa super illud primae ad Corinthios decimo[^12]: *Tentatio vos non apprehendat* etc, ubi dicitur in Glossa, quod tentatio alia est *diabolica*, alia est *humana*. Et differunt, quia, sicut ibidem innuitur, tentatio diabolica est, quae malum habet exitum et quae terminatur ad mortale peccatum; tentatio vero humana dicitur, quae exitum periculosum non habet, quia vel est ibi peccatum veniale, vel nulla est ibi culpa, secundum quod ostenditur in Glossa, ubi dicitur, quod tribus modis habet fieri tentatio humana. — Si specialiter; sic est illa Augustini *de Doctrina christiana*[^13], quod diabolus tentat aut vexando carnem, aut vulnerando naturalia, aut exspoliando gratuita: hic enim ponuntur specialiter effectus tentationis diabolicae.
+
+Si autem quarto modo consideretur tentatio, scilicet quantum ad *gradum*, hoc potest esse dupliciter: aut generaliter, aut specialiter. Si generaliter; sic est illa, quam ponit Magister in littera: tentatio alia est *exterior*, alia *interior*. — Si specialiter; sic est illa, quam ponit Gregorius, et habetur in Glossa super illud Iacobi primo[^14]: *Unusquisque tentatur a concupiscentia* etc, quod tentatio tripliciter perficitur: *suggestione, delectatione* et *consensu*, ubi notantur gradus in progressu tentationis explicite, qui ponebantur in divisione prius habita implicite. Per tentationem enim exteriorem intelligimus suggestionem; per interiorem intelligimus illam, in qua est delectatio vel consensus. — Et per hoc patet responsio ad illud quod primo obiicitur, quod illa membra ad invicem non distinguuntur, cum unum ordinetur ad alterum.
+
+Si autem quinto modo consideretur tentatio, scilicet quantum ad tentandi *modum*; hoc similiter aut erit generaliter, aut specialiter. Si generaliter; hoc potest esse explicite, vel implicite. Si implicite; sic est illa, quae ponitur in Glossa super Psalmum[^15]: *Qui habitat in adiutorio*, ubi dicitur, quod quaedam est tentatio levis et occulta; quaedam gravis et occulta; quaedam levis et manifesta; quaedam gravis et manifesta. Si autem explicite; sic est illa quam ponit Bernardus[^16] per septem membra. Quarum prima est *importuna*, scilicet quae procaciter insistit; secunda *dubia*, scilicet quae animum dubietatis nebula involvit; tertia est *subita*, scilicet quae iudicium rationis praevenit; quarta *occulta*, quae scilicet deliberationis ordinem praeterfugit; quinta *violenta*, quae vires nostras transcendit; sexta *fraudulenta*, quae scilicet animum seducit; septima *perplexa*, quae variis vitiis impedit. — In hac enim divisione explicantur difficultates et gravitates tentationum sive modorum tentandi, et latentiae, quae in priori divisione implicite claudebantur. Verumtamen tam haec divisio quam praecedens est de modis tentationis in sua generalitate consideratae. — Si autem consideretur specialiter tentatio, prout contrahitur ad tentationem diaboli, sic modi eius dupliciter possunt assignari: vel implicite; et sic dividit Augustinus in quodam sermone[^17]: «Diabolus tentat ut leo, tentat ut draco». Vel explicite; et sic est illa divisio Gregorii super Iob quadragesimo[^18], super quem locum dicit Gregorius sic: «Fideli famulo Dominus cunctas hostis callidi machinationes insinuat, scilicet quod opprimendo *rapit*, insidiando *circumvenit*, minando *terret*, suadendo *blanditur*, desperando *frangit*, promittendo *decipit*». In hac autem divisione explicantur modi, quos Augustinus clauserat sub his duobus verbis, quod «tentat ut leo, tentat ut draco». — Et sic patet ratio assignandi diversas divisiones tentationis secundum diversas eius considerationes. Patet nihilominus responsio ad obiecta[^19].
+
+### DUB. IV.
+
+Item quaeritur de hoc quod dicit in littera: *Tentatio, quae fit ex carne, non est sine peccato.* Cum enim diabolus possit carnem commovere et vexare, videtur similiter, quod tentatio, quae est ab hoste, sine peccato esse non possit. — Item, cum non sit in nostra potestate tentari, vel non
+<!-- page 512 -->
+tentari, videtur, quod tentatio de se non ponat in nobis culpam, nisi ei consentiatur. Sicut ergo tentatio hostis, cui non consentitur, est materia exercendae virtutis, ita videtur etiam tentatio carnis. — Propter hoc est quaestio, quare tentatio carnis magis est semper cum peccato quam tentatio hostis.
+
+**Respondeo:** Dicendum, quod tentatio carnis est impulsus sensualitatis, quem consuevimus appellare *primum motum*; et quoniam in illo impulsu sensualitas movetur inordinate et praeter rationis ordinem, hinc est, quod tentatio carnis nunquam est in nobis, quin sit in nobis aliqua inordinatio, et ita aliqua venialis culpa. Tentatio vero hostis omnino extra est et potest esse sine aliqua delectatione inordinata in nobis existente. Et ideo dicit Magister, quod tentatio hostis potest esse sine peccato, tentatio vero carnis minime. — Alia etiam posset reddi ratio, quoniam caro est in potestate nostra, et eam possumus ad libitum nostrum domare; et ideo potius imputatur nobis in culpam carnis impulsio quam diabolica suggestio. Quomodo autem carnis impulsus sive primi motus debeant dici esse peccatum, infra suo loco magis expresse determinabitur.
+
+---
 
 ## English
 
-[Translation pending]
+## DOUBTS CONCERNING THE TEXT OF THE MASTER.
+
+### Doubt I.
+
+In this part there are doubts concerning the text, and first about what is said, that the devil spoke through an ignorant serpent, just as through those possessed. But on the contrary: The devil moves the possessed by means of a sensible power: therefore it seems likewise that he moved the serpent to form speech by means of a sensible power; but this does not seem possible, because the imagination of the serpent was not capable of speech and discourse: therefore by means of it articulate speech could not be formed[^1]. — In keeping with this it is asked from what power that speech was principally formed; and whether a *new* power was given to the serpent; and whether also it was a *miracle*, as it was in the speaking of Balaam's ass[^1].
+
+**I respond:** It must be said that three things concur for the formation of speech: first, *the aptitude of the instruments* and their fittingness; second, *a motive power*; and third, *a directive power*, by whose governance articulate speech is formed[^2]. And these three are in man completely by his nature; but in brute animals they are found incompletely. For some animals have organs apt, though not completely, for the formation of voice; they have also a sensible[^3] motive power; they have also a cogitative or imaginative power, by reason of which they are trained to pronounce certain sounds; yet it is not in them completely, but when a rational power is present, which can both govern and move, then that incomplete potency must be reduced to act. — And so it was in that first temptation. For the devil aroused the motive power and assisted and directed it,
+<!-- page 510 -->
+so that it could form those articulate words, in such a way that no new power was given to the serpent, but a higher power was assisting[^4]. Hence properly it was not a *miracle*, although one might reasonably wonder, since it was above the power of an irrational creature that such words be formed. — Therefore, although there is a greater aptitude in the possessed by reason of the motive power and the organs in speaking than in the serpent; yet because the power principally moving in both cases, and directing in the forming, is the power of the demon, therefore the Master says that the devil spoke through the serpent in the same way that he speaks through one possessed.
+
+To that, then, which is objected, that the imaginative power of the serpent was not capable of speech; it must be said that this is true of speech as to its *signification*, but it is not true as to the *expression* of the voice. — Or it could be said that, although the motion of the serpent cooperated toward the motion of the tongue, yet the cognitive power did not cooperate toward the articulation of the voice. — And by this what was asked is made clear.
+
+### Doubt II.
+
+Likewise it is asked about what he says: *the serpent was called most cunning on account of the cunning of the devil*. But if this is the reason why the serpent was called most cunning, by the same reasoning, if the devil had assumed any other animal whatever, it would be called most cunning: therefore there would be no reason why he assumed that animal rather than another.
+
+**I respond:** It must be said that cunning is observed in a knowledge ordered to harming and seducing. And since harm is twofold, namely spiritual and corporeal, cunning can be twofold: either in harming *corporeally*, or in harming *spiritually*. The cunning in harming man corporeally the serpent has from the industry of its own nature, speaking at least according to the state of fallen nature. But the cunning of harming spiritually it does not have of itself, but from the presence of the devil; and of this Augustine speaks[^5], and the Master in the text. And because spiritual things ought to be signified by corporeal things like them, therefore, since the serpent has of itself the cunning of harming and lying in wait corporeally, it was fitting for the devil through it to exercise his cunning against man in harming spiritually; and according to this twofold sense Scripture can be understood[^6].
+
+### Doubt III.
+
+Likewise it is asked about what Scripture says: *It must be known that there are two species of temptation, interior and exterior.* For exterior temptation is only on account of the interior, nor does it lead to fault except by means of the interior: therefore it does not seem that they should be distinguished from each other. — Likewise, he subdivides[^7] the interior into that which is from the enemy, and into that which is from the flesh; and it seems that that division is insufficient, because temptation is not only from the enemy and from the flesh, but also from the world, according to that of the first of John, chapter two[^8]: *Everything that is in the world is either the concupiscence of the flesh* etc.
+
+It is asked therefore concerning the *sufficiency* of these members. And since elsewhere several other differences of temptation are read, it is asked how they are distinguished from those.
+
+**I respond:** It must be said that temptation can be considered in five modes, namely as to its *motive* and as to its *instrument* and as to its *effect* and as to its *degree* and as to its *manner*. — As to the *motive*: either generally or specially. If generally; thus temptation is divided into that which is from the enemy and from the flesh and from the world, as is said in a certain sequence[^9]: «World, flesh, demons stir up diverse battles». — If specially, so that the motive be called that which presents itself not only by way of *object*, but also that which induces and incites by way of an *impelling* thing; thus is that division which the Master places in the text, that one temptation is from the enemy, another from the flesh, each of which has the power to enkindle toward evil.
+
+But if we speak as to the *instrument*, thus it can be considered in two ways: either generally, or specially. If generally; thus is that division of Gregory[^10], that one temptation is through *vices*, another through *scourges*. — If specially; thus is that division of temptation which the Gloss places on the Psalm[^11] upon that text: *Her soul abhorred all food* etc, where it is said that temptation is manifold; of which the first is *error* or ignorance of the way of truth; the second, *the difficulty of overcoming concupiscences*; the third, *weariness of the good*; the fourth, *the storm of the world*.
+
+If in the third mode, namely as to the *effect*, the temptation itself be considered, likewise it can be considered in two ways: either generally, or specially. If
+<!-- page 511 -->
+generally; thus is that division which is placed in the Gloss upon that text of the first to the Corinthians, chapter ten[^12]: *Let no temptation take hold of you* etc, where it is said in the Gloss that one temptation is *diabolical*, another is *human*. And they differ because, as is there intimated, diabolical temptation is that which has an evil outcome and which terminates in mortal sin; but human temptation is called that which does not have a perilous outcome, because either there is venial sin there, or there is no fault there, according to what is shown in the Gloss, where it is said that human temptation comes about in three ways. — If specially; thus is that of Augustine *On Christian Doctrine*[^13], that the devil tempts either by vexing the flesh, or by wounding the natural endowments, or by despoiling of the gratuitous gifts: for here the effects of diabolical temptation are placed specially.
+
+But if in the fourth mode temptation be considered, namely as to its *degree*, this can be in two ways: either generally, or specially. If generally; thus is that which the Master places in the text: one temptation is *exterior*, another *interior*. — If specially; thus is that which Gregory places, and is had in the Gloss upon that text of James, chapter one[^14]: *Each one is tempted by his own concupiscence* etc, that temptation is accomplished in three ways: by *suggestion, delight*, and *consent*, where the degrees in the progress of temptation are noted explicitly, which in the division had before were placed implicitly. For by exterior temptation we understand suggestion; by the interior we understand that in which there is delight or consent. — And by this is made clear the response to that which is first objected, that those members are not distinguished from one another, since one is ordered to the other.
+
+But if in the fifth mode temptation be considered, namely as to the *manner* of tempting; this likewise will be either generally, or specially. If generally; this can be explicitly, or implicitly. If implicitly; thus is that which is placed in the Gloss upon the Psalm[^15]: *He who dwells in the aid*, where it is said that one temptation is light and hidden; another grave and hidden; another light and manifest; another grave and manifest. But if explicitly; thus is that which Bernard places[^16] through seven members. Of which the first is *importunate*, namely that which presses on boldly; the second *doubtful*, namely that which involves the soul in a cloud of doubt; the third is *sudden*, namely that which forestalls the judgment of reason; the fourth *hidden*, which namely escapes the order of deliberation; the fifth *violent*, which transcends our strength; the sixth *fraudulent*, which namely seduces the soul; the seventh *perplexing*, which entangles with diverse vices. — For in this division are explained the difficulties and gravities of temptations or of the modes of tempting, and the hidden qualities, which in the prior division were enclosed implicitly. Nevertheless both this division and the preceding one is concerning the modes of temptation considered in their generality. — But if temptation be considered specially, as it is contracted to the temptation of the devil, thus its modes can be assigned in two ways: either implicitly; and thus Augustine divides in a certain sermon[^17]: «The devil tempts as a lion, he tempts as a dragon». Or explicitly; and thus is that division of Gregory upon Job, chapter forty[^18], upon which place Gregory speaks thus: «To his faithful servant the Lord intimates all the machinations of the cunning enemy, namely that by oppressing he *snatches away*, by lying in wait he *circumvents*, by threatening he *terrifies*, by persuading he *flatters*, by causing despair he *breaks*, by promising he *deceives*». But in this division are explained the modes which Augustine had enclosed under these two words, that «he tempts as a lion, he tempts as a dragon». — And thus is made clear the reason for assigning the diverse divisions of temptation according to its diverse considerations. There is made clear nonetheless the response to the objections[^19].
+
+### Doubt IV.
+
+Likewise it is asked about what he says in the text: *The temptation which comes from the flesh is not without sin.* For since the devil can stir up and vex the flesh, it seems likewise that the temptation which is from the enemy could not be without sin. — Likewise, since it is not in our power to be tempted, or not
+<!-- page 512 -->
+to be tempted, it seems that temptation of itself does not place fault in us, unless it be consented to. As therefore the temptation of the enemy, which is not consented to, is matter for the exercise of virtue, so it seems also is the temptation of the flesh. — On account of this there is a question, why the temptation of the flesh is more always with sin than the temptation of the enemy.
+
+**I respond:** It must be said that the temptation of the flesh is an impulse of sensuality, which we are accustomed to call *the first motion*; and since in that impulse sensuality is moved inordinately and beside the order of reason, hence it is that the temptation of the flesh is never in us without there being in us some inordination, and so some venial fault. But the temptation of the enemy is altogether outside, and can be without any inordinate delight existing in us. And therefore the Master says that the temptation of the enemy can be without sin, but the temptation of the flesh by no means. — Another reason also could be given, namely that the flesh is in our power, and we can subdue it at our pleasure; and therefore the impulse of the flesh is imputed to us as fault rather than diabolical suggestion. But in what way the impulse of the flesh, or the first motions, ought to be said to be sin, will be determined below in its proper place more expressly.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously across pp. 509–512.
+
+[^1]: **La.** Cfr. August., XI. de Gen. ad lit. c. 27. n. 34. seq. — De locutione asinae Balaam cfr. l. de Mirabil. s. Script. (inter opera S. August.) c. 34. (Num. 22, 28 seqq.)
+    **En.** Cf. Augustine, *On Genesis according to the Letter* XI, c. 27, n. 34 ff. — On the speaking of Balaam's ass, cf. the book *On the Marvels of Sacred Scripture* (among the works of St. Augustine) c. 34. (Numbers 22:28 ff.)
+
+[^2]: **La.** Boeth., l. in librum de Aristotelis interpretatione (ed. secunda), ubi de iis quae Aristot., II. de Anima, text. 87. seqq. (c. 8), profert, fusius disserit et dicit: *Vox est aeris per linguam percussio, quae per quasdam gutturis partes, quae arteriae vocantur, ab animali profertur. Sunt enim quidam alii soni, qui eodem perficiuntur flatu, quos lingua non percutit, ut est tussis... Quocirca vox haec non dicitur, sed tantum sonus. Illa quoque potest esse definitio vocis, ut eam dicamus sonum esse cum quadam imaginatione significandi. Vox namque, cum emittitur, significationis alicuius causa profertur. Tussis vero, cum sonus sit, nullius significationis causa surrepit potius, quam profertur. Quare quoniam flatus noster ita sese habet, ut si ita percutiatur atque formetur, ut cum lingua percutiat, vox sit. Si eum lingua ita percutiat, ut terminato quodam et circumscripto sono, vox exeat, locutio fit, quae Graece dicitur λέξις. Locutio enim est articulata vox... cuius locutionis partes sunt litterae, quae cum coniunctae fuerint, unam efficiunt vocem coniunctam compositamque, quae locutio praedicatur... Ut igitur sit locutio, voce opus est... Sed ut haec locutio significativa sit, illud quoque addi oportet, ut sit aliqua significandi imaginatio, per quam id quod in voce vel in locutione est, proferatur* etc. [textus post medium corruptus est].
+    **En.** Boethius, in his book on Aristotle's *On Interpretation* (second edition), where, concerning what Aristotle sets forth in *On the Soul* II, text 87 ff. (c. 8), he discourses at length and says: *Voice is a striking of the air by the tongue, which is uttered by an animal through certain parts of the throat which are called arteries. For there are certain other sounds which are produced by the same breath, which the tongue does not strike, such as a cough... Wherefore this is not called voice, but only sound. This also can be the definition of voice, that we say it to be a sound with a certain imagination of signifying. For voice, when it is emitted, is uttered for the sake of some signification. But a cough, since it is a sound, creeps up rather without any cause of signifying than is uttered. Wherefore, since our breath is so disposed that, if it be thus struck and formed that it strike with the tongue, there is voice. If the tongue so strikes it that, with a certain terminated and circumscribed sound, the voice goes forth, speech (locutio) comes about, which in Greek is called λέξις. For speech is articulate voice... of which speech the parts are letters, which, when they have been joined, make one joined and composed voice, which is called speech... Therefore, that there be speech, voice is needed... But that this speech be significative, this too must be added, that there be some imagination of signifying, through which that which is in the voice or in the speech is uttered* etc. [the text after the middle is corrupt].
+
+[^3]: **La.** Non pauci codd., inter quos F K T W aa ee cum ed. 2, omittunt *vim*; cod. cc et ed. 1 pro *vim sensibilem* substituunt *virtutem*.
+    **En.** Not a few codices, among which F K T W aa ee with ed. 2, omit *vim* ("power"); codex cc and ed. 1 substitute *virtutem* ("strength") for *vim sensibilem* ("sensible power").
+
+[^4]: **La.** Vat. cum ceteris edd. et pluribus codd. *servatur*.
+    **En.** The Vatican edition with the other editions and several codices reads *servatur* ("is preserved").
+
+[^5]: **La.** Cod. aa *bene motiva*, scil. vis. — De hoc dubio cfr. Alex. Hal., S. p. II. q. 103. m. 6; B. Albert., hic a. 6; S. p. II. tr. 14. q. 86. m. 4. q. 1. incidens; Petr. a Tar. et Richard. a Med., hic circa lit.; Aegid. R., hic dub. lit. 4.
+    **En.** Codex aa reads *bene motiva*, namely the power. — On this doubt cf. Alexander of Hales, Summa p. II q. 103 m. 6; B. Albert, here a. 6; Summa p. II tr. 14 q. 86 m. 4 q. 1 incidental; Peter of Tarentaise and Richard of Middleton, here on the text; Giles of Rome, here doubt on the text 4.
+
+[^6]: **La.** Vide supra a. I. q. 2; S. Thom., hic circa lit.; Petr. a Tar., hic circa lit.
+    **En.** See above, art. I, q. 2; St. Thomas, here on the text; Peter of Tarentaise, here on the text.
+
+[^7]: **La.** Magister, hic in lit. c. 6.
+    **En.** The Master, here in the text, c. 6.
+
+[^8]: **La.** Vers. 16. (I Ioann. 2, 16.)
+    **En.** Verse 16. (1 John 2:16.)
+
+[^9]: **La.** De omnibus Sanctis, attributa Adamo de S. Victore. — Cfr. Mone, Hymni latini medii aevi, tom. 3. pag. 10. — Paulo inferius verbo *impulsivi* nonnulli codd., ut T ee, praefigunt *obiecti*; pro *impulsivi* cod. W *impulsui*.
+    **En.** "On All Saints," attributed to Adam of St. Victor. — Cf. Mone, *Latin Hymns of the Middle Ages*, vol. 3, p. 10. — A little below, before the word *impulsivi* some codices, such as T ee, prefix *obiecti*; for *impulsivi* codex W reads *impulsui*.
+
+[^10]: **La.** Libr. XXIII. Moral. c. 1. n. 1; c. 24. n. 47. seq. et c. 25. n. 51, quo ultimo loco dicitur: *Non solum tentant vitia, sed etiam flagella castigant... Vitia, dum nos tentant, proficientes in nos virtutes humiliant; flagella, dum tentant, surgentes in corde huius mundi voluptates eradicant* etc.
+    **En.** Book XXIII of the *Morals*, c. 1, n. 1; c. 24, n. 47 ff. and c. 25, n. 51, in which last place it is said: *Not only do vices tempt, but scourges also chastise... Vices, while they tempt us, humble in us the virtues that are advancing; scourges, while they tempt, root out the pleasures of this world rising in the heart* etc.
+
+[^11]: **La.** Psalm. 106, 18. — Glossa sumta est ex August., Enarrat. in hunc Psalm. n. 8: *Prima tentatio erroris et famis verbi; secunda difficultatis vincendarum concupiscentiarum; tertia taedii atque fastidii; quarta tempestatis et periculorum.*
+    **En.** Psalm 106:18. — The Gloss is taken from Augustine, *Exposition on this Psalm* n. 8: *The first temptation is of error and of hunger for the word; the second, of the difficulty of overcoming concupiscences; the third, of weariness and disgust; the fourth, of storm and perils.*
+
+[^12]: **La.** Vers. 13. — Glossa est ex August., II. de Serm. Domini in monte, c. 9. n. 34. Cfr. etiam Haymo, in I. Cor. 10, 13. — Triplex modus tentationis humanae secundum Augustinum, loc. cit., ab Alex. Hal., S. p. II. q. 101. m. 6. ita exponitur: *Una est aliter sapere, quam res se habeat, cum bono tamen animo. Secunda est, cum quis bono animo, secundum tamen humanam fragilitatem in aliquo labitur consilio. Tertia est, cum irritatur in fratrem studio corrigendi plus, quam christiana tranquillitas postulat.* Ibid. et haec expositio datur: *Dicitur enim humana tentatio, quando est de his, sine quibus ista vita non agitur. Dicitur iterum tentatio humana, cum quis in necessitate vel pressura diffidit de Deo, auxilium humanum requirendo. Dicitur iterum tentatio humana, cum quis aliter sapit, quam res se habet, salvo tamen bono animo.*
+    **En.** Verse 13. — The Gloss is from Augustine, *On the Lord's Sermon on the Mount* II, c. 9, n. 34. Cf. also Haymo, on 1 Cor. 10:13. — The threefold mode of human temptation according to Augustine, loc. cit., is thus expounded by Alexander of Hales, Summa p. II q. 101 m. 6: *One is to be wise otherwise than the matter stands, yet with a good mind. The second is when one, with a good mind, yet according to human frailty, slips in some counsel. The third is when one is provoked against a brother by zeal for correcting more than Christian tranquillity demands.* In the same place this exposition too is given: *For temptation is called human when it is about those things without which this life is not lived. Temptation is again called human when one in necessity or distress distrusts God, by seeking human aid. Temptation is again called human when one is wise otherwise than the matter stands, yet with a good mind preserved.*
+
+[^13]: **La.** Haec divisio, quam etiam sub eadem citatione affert B. Albert., hic a. 8., forsan derivata est ex illa parabola, quam Dominus proposuit, Luc. 10, 29, de homine descendente ab Ierusalem in Iericho, qui incidit in latrones, cuius mentionem facit August., loc. cit. libr. I. c. 30. n. 30. et dicit, ipsum graviter vulneratum, saucium et semivivum esse derelictum. Cfr. supra pag. 306, nota 3.
+    **En.** This division, which under the same citation B. Albert also brings forward, here a. 8, was perhaps derived from that parable which the Lord proposed, Luke 10:29, of the man going down from Jerusalem to Jericho, who fell among robbers, of which Augustine makes mention, loc. cit. book I, c. 30, n. 30, and says that he was gravely wounded, hurt, and left half-alive. Cf. above, p. 306, note 3.
+
+[^14]: **La.** Vers. 14. — Gregor., in Evang. homil. 16. n. 1.
+    **En.** Verse 14. — Gregory, *Homilies on the Gospels*, homily 16, n. 1.
+
+[^15]: **La.** Psalm. 90, 1. — Glossa est ex August., Enarrat. super hunc Psalm. v. 5. — Cfr. etiam Hugo de S. Vict., VII. Allegor. in Vetus Testam. c. 14. et Serm. 89. in prima Domin. Quadrag.
+    **En.** Psalm 90:1. — The Gloss is from Augustine, *Exposition on this Psalm*, v. 5. — Cf. also Hugh of St. Victor, *Allegories on the Old Testament* VII, c. 14, and Sermon 89, on the first Sunday of Lent.
+
+[^16]: **La.** Divisio tentationis septemplex, quae hic Bernardo tribuitur, habetur in Richard. a S. Vict., Adnotat. in Ps. 90. (Enarrat. in Ps. 90, 13, Serm. 2. n. 9. Cfr. Sermo 315. n. 2. et Soliloq. animae ad Deum, c. 17, quae duo opera olim Augustino falso attribuebantur, nunc autem in appendicem reposita sunt.)
+    **En.** The sevenfold division of temptation, which is here attributed to Bernard, is found in Richard of St. Victor, *Notes on Psalm 90*. (Exposition on Psalm 90:13, Sermon 2, n. 9. Cf. Sermon 315, n. 2, and the *Soliloquy of the Soul to God*, c. 17, which two works were once falsely attributed to Augustine, but are now placed in an appendix.)
+
+[^17]: **La.** Enarrat. in Ps. 90, 13, Serm. 2. n. 9. (Cfr. supra.)
+    **En.** *Exposition on Psalm 90:13*, Sermon 2, n. 9. (Cf. above.)
+
+[^18]: **La.** Vers. 9. — Locus e Gregorio cit. invenitur in eius XXXII. Moral. c. 11. n. 15, ubi textus in eo differt a textu hic posito, quod post *scilicet* insertum exhibetur *omne*, et singulis verbis *insidiando, suadendo, desperando, promittendo* praefixum est *omne quod*, insuper verbo *circumvenit* mutato in *circumvolat*.
+    **En.** Verse 9. — The cited passage of Gregory is found in his *Morals* XXXII, c. 11, n. 15, where the text differs from the text set here, in that after *scilicet* the word *omne* is inserted and exhibited, and to the individual words *insidiando, suadendo, desperando, promittendo* there is prefixed *omne quod*, and moreover the word *circumvenit* is changed to *circumvolat*.
+
+[^19]: **La.** Cfr. Alex. Hal., S. p. II. q. 101. m. 6; B. Albert., hic a. 8; S. p. II. tr. 7. q. 28; Petr. a Tar., hic q. 1. a. 1; Aegid. R., hic q. 1. dub. lat. 1.
+    **En.** Cf. Alexander of Hales, Summa p. II q. 101 m. 6; B. Albert, here a. 8; Summa p. II tr. 7 q. 28; Peter of Tarentaise, here q. 1 a. 1; Giles of Rome, here q. 1 doubt on the text 1.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF (printed pp. 509–512 = PDF 531–534, offset +22), cross-checked against IA djvu OCR raw lines 35771–35962. Two-column layout: each printed page read Left column top→bottom, then Right column. DUBIA opens mid-p.509 (below a3-q3's SCHOLION, which occupies the top of p.509).
+
+**Structure.** Four doubts: DUB I (whether the devil spoke through the serpent by a new power / a miracle — three concurring factors for speech-formation, the *asina Balaam* parallel); DUB II (why the serpent was called *callidissimus* — twofold cunning, corporeal vs. spiritual); DUB III (the two species of temptation interior/exterior; the five modes of considering temptation — *motivum / instrumentum / effectum / gradum / modum* — with Gregory's *vitia/flagella*, the Glossa fourfold, the diabolical/human distinction, the *suggestio/delectatio/consensus* progression, and Bernard's [Richard of St. Victor's] sevenfold *importuna/dubia/subita/occulta/violenta/fraudulenta/perplexa*); DUB IV (the temptation of the flesh is not without sin — *primum motum*, inordinate sensuality always involves at least venial fault, vs. the enemy's wholly-external temptation).
+
+**Page-split map (apparatus, 19 entries renumbered continuously):**
+- p.509 footers ²–⁵ = [^1] *(Aug. asina Balaam, combined below)*, **[^2]** Boeth. de Interpretatione, **[^3]** codd. *vim*/*virtutem*, **[^4]** Vat. *servatur* — **received as hand-off from a3-q3** (a3-q3 consumed p.509 footer ¹ as its [^9]; footers ²–⁵ belong to DUB I/its Respondeo). The Boeth., Num 22,28, *servatur* and *vim* notes anchor in DUB I's objection and Respondeo.
+- p.510 footers ¹–⁸ = [^1] (Aug. Gen ad lit + asina Balaam, DUB I), [^5]–[^6] (DUB II: Cod. aa *motiva* + commentator-roll; *Vide supra a.I q.2*), [^7]–[^9] (DUB III openers: Magister c.6; 1 John 2,16; *De omnibus Sanctis* sequentia/Adam of St. Victor), [^10]–[^11] (Gregory Moral.; Ps 106,18 Glossa).
+- p.511 footers ¹–⁸ = [^12]–[^19] (DUB III continued: 1 Cor 10,13 + Alex. Hal. threefold-human exposition; the Luke 10,29 parable note; Jas 1,14 / Gregory homil. 16; Ps 90,1 Glossa + Hugh of St. Victor; Bernard/Richard of St. Victor sevenfold; Enarrat. Ps 90 Serm. 2; Job 40 / Gregory Moral. XXXII; the closing commentator-roll for the *responsio ad obiecta*).
+- p.512: **no d.21 footer.** DUB IV's resolution finishes at the top of p.512 R column; the only p.512 footer block (`¹ Dist. 11 a.2 q.1...` + the *NOTAE AD LIBR. SENTENTIARUM* header) belongs to DISTINCTIO XXII (Cap. I, *De origine illius peccati*), which begins immediately below.
+
+**Marker note on [^1].** Quaracchi's note on the *asina Balaam* / new-power question appears on p.510 footer ¹ and combines the *de locutione asinae Balaam* reference (Num 22,28, cited at p.509 footer ³). Both DUB I anchors (the *asina Balaam* in the objection and the *miraculum* in the Respondeo) point to this single combined note [^1]; p.509 footer ³ (Num 22,28) is folded into it rather than given a separate marker, since Quaracchi prints the Numbers citation as a sub-clause of the de-Mirabilibus note.
+
+**Cross-chunk hand-offs.** RECEIVED from `bon-sent-II-d21-a3-q3`: p.509 footers ²–⁵ (Boeth. de Interpretatione; Num 22,28 *asina Balaam*; Vat. *servatur*; codd. *vim*/*virtutem*) — all anchored here in DUB I. FORWARDED: none — DUB IV closes d.21 at the top of p.512; DISTINCTIO XXII opens fresh below with its own Cap. I + footer block.
+
+**DUB IV `infra` reference.** DUB IV's resolution ends "…infra suo loco magis expresse determinabitur" (a forward cross-reference, treated as plain prose: no separate numbered Quaracchi footer exists for it on p.512 — that page's footer is DISTINCTIO XXII's). Rendered without an apparatus marker.
+
+**`[?]` flags.** None. All anchors and the long Boethius / Alexander of Hales footer quotations were read crisp at 450 dpi.
+
+**Dup cleanup.** The auto-chunked skeletons `bon-sent-II-d21-dubia-dup2` (raw 35773–35879) and `bon-sent-II-d21-dubia-dup3` (raw 35880–36013) are pure vestigial duplicates of this DUBIA range (no English, no apparatus, no Notes); their content is fully covered by this promoted chunk and they were `git rm`'d. This chunk also absorbs the legacy `bon-sent-II-d21-dubia` skeleton's stray tail (the a3-q3 SCHOLION fragment at raw 35765–35770), which correctly lives in the already-promoted `bon-sent-II-d21-a3-q3`.
