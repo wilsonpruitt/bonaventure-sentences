@@ -1,4 +1,13 @@
-# Next session — **d24-p1-littera DONE 2026-05-29 → next action: dispatch `bon-sent-II-d24-p1-divisio` (COMMENTARIUS IN DISTINCTIONEM XXIV + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM for Pars I; skeleton, COMMENTARIUS opens raw 38792 / DIVISIO TEXTUS raw 38800 on p. 553 — both right after the littera's Cap. XIII close; stray `d24-p1-divisio-dup2` to git rm).**
+# Next session — **d24-p1-divisio DONE 2026-05-29 → next action: dispatch `bon-sent-II-d24-p1-a1-q1` (ARTICULUS I QUAESTIO I *Utrum homini dari potuerit liberum arbitrium inflexibile per naturam*; skeleton, opens raw 38847 ARTICULUS I header / 38851 QUAESTIO I / 38854 *Circa primum sic procedi[t]ur* on p. 554 — per Override §5 fold the short ARTICULUS I opener *De adiutorio homini collato, per quod posset resistere.* into this q1 chunk).**
+
+## 2026-05-29 — d24-p1-divisio promoted (Tier-2)
+
+Rebuilt `bon-sent-II-d24-p1-divisio` from skeleton — **DISTINCTIO XXIV, Pars I, COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM.** Spans **pp. 553–554** (PDF 575–576, +22), raw ~38792–38846. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p553-{L,R}-{1,2}.png`, `/tmp/colcrop/vol2-p554-{L,R}-0.png`). `has_scholion: false` (divisio).
+
+- **Boundaries confirmed:** COMMENTARIUS IN DISTINCTIONEM XXIV / Pars I / *De libero arbitrio…* / lemma *Nunc diligenter investigari oportet* etc. (raw 38792) → DIVISIO TEXTUS (raw 38800, on p.553) → TRACTATIO QUAESTIONUM (raw 38837, top of p.554) → closes at *…absque auxilio gratiae tentationi resistere*. **ARTICULUS I begins raw 38847; QUAESTIO I raw 38851; body *Circa primum sic procedi[t]ur* raw 38854.** Per Override §5 the ARTICULUS I opener folds into `d24-p1-a1-q1`.
+- **3 apparatus entries [^1]–[^3]:** [^1] = the **NOTAE AD COMMENTARIUM** footer (*Pro est liberum arbitrium, et liberum arbitrium Vat.*) — **RECEIVED (forwarded) from d24-p1-littera**; [^2] = p.553 footer ¹ (*liberum arbitrium* textual variant codd. A B D/ed.1 vs others vs edd.3,4); [^3] = p.553 footer ² (*praedictarum* supply + August. XII de Trin. c.13 cross-ref). **FORWARDED to d24-p1-a1-q1:** NONE — a1-q1's native footers (`Cfr. supra d.2 p.II a.1 q.1`, `Dist.26 q.2`, `Vat. in naturam`…) begin fresh on p.554-bottom.
+- **Verified Pars I TRACTATIO question-list (verbatim):** Two principal heads — **Primo** *de adiutorio homini collato, per quod posset resistere* (= ARTICULUS I); **Secundo** *de divisione potentiarum animae* (= ARTICULUS II). ARTICULUS I sub-questions (*Circa primum quaeruntur DUO*): **Primo** *utrum dari potuerit homini, sive alicui creaturae adiutorium, quod esset naturaliter inflexibile* (= q1, header states *Utrum homini dari potuerit liberum arbitrium inflexibile per naturam*); **Secundo** *utrum datum fuerit ei adiutorium, per quod posset absque auxilio gratiae tentationi resistere* (= q2). Matches skeletons `d24-p1-a1-q1`/`-q2`.
+- **[?] flags:** none. **Dup-cleanup:** `git rm` stray `d24-p1-divisio-dup2`. Audits: paraphrase **0 crit + 14 high (all remaining d.24 skeletons; rebuilt divisio is content-audit-skipped = Tier-2)**; headers d.24 Q-LOSS/A-LOSS (raw counts ART/QUAEST/DUB headers living in unbuilt quaestio chunks → expected skeleton signal); apparatus-count 13 SKELETON/INCOMPLETE-SUSPECT (all remaining d.24 skeletons; rebuilt divisio NOT flagged). Build: **882 routes, 671 translated** (+1). Commit `2cabd53`.
 
 ## 2026-05-29 — d24-p1-littera promoted (Tier-2)
 
@@ -18,8 +27,8 @@ Rebuilt `bon-sent-II-d23-dubia` from skeleton — **DUBIA CIRCA LITTERAM MAGISTR
 
 **d.24 structure map (auto-chunked skeletons — re-chunk-verify before promoting):** **Pars I and Pars II.**
 - `d24-p1-littera` — Cap. I–XIII Lombard text (FIRST chunk; raw ~38532–38791 on pp.549–553). **DONE (Tier-2) 2026-05-29.**
-- `d24-p1-divisio` — COMMENTARIUS IN DIST. XXIV (raw 38792) + DIVISIO TEXTUS (raw 38800) + TRACTATIO QUAESTIONUM. **NEXT.** SKELETON (+ stray `d24-p1-divisio-dup2` to git rm). NOTE: pick up the **forwarded "NOTAE AD COMMENTARIUM." footer block** (begins p.553-L) as this chunk's apparatus lead.
-- `d24-p1-a1`: q1, q2. SKELETONS.
+- `d24-p1-divisio` — COMMENTARIUS IN DIST. XXIV (raw 38792) + DIVISIO TEXTUS (raw 38800) + TRACTATIO QUAESTIONUM (raw 38837, p.554). **DONE (Tier-2) 2026-05-29.** dup2 git rm'd.
+- `d24-p1-a1`: q1 (*Utrum homini dari potuerit liberum arbitrium inflexibile per naturam*, ART I opener folds in, raw 38847/38851/38854), q2. SKELETONS. **q1 = NEXT.**
 - `d24-p1-a2`: q1, q2, q3, q4. SKELETONS (+ stray `d24-p1-a2-q1-dup2` to git rm).
 - `d24-p1-dubia` — DUBIA CIRCA LITTERAM (DUB I–III+). SKELETON (+ stray `d24-p1-dubia-dup2` to git rm).
 - `d24-p2`: auto-chunker produced `d24-p2-a2-q2`, `d24-p2-a3-q1`, `d24-p2-a3-q2`, `d24-p2-dubia` — **the Pars-II article/quaestio numbering looks suspect (jumps to a2/a3 with gaps); MUST re-chunk-verify Pars II boundaries against raw before promoting.** d.24 ends at DISTINCTIO XXV raw 41154.
