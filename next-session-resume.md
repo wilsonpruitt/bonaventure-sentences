@@ -1,4 +1,24 @@
-# Next session — **d23-a2-q3 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-dubia` (DUBIA CIRCA LITTERAM MAGISTRI, **DUB. I–III** — three dubia; skeleton, opens raw ~38434 on p. 548 immediately after q3 SCHOLION IV; runs to DISTINCTIO XXIV running head raw ~38497). After d23-dubia, **d.23 is COMPLETE → d.24 next.****
+# Next session — **d23-dubia DONE 2026-05-29 → d.23 COMPLETE → next action: dispatch `bon-sent-II-d24-p1-littera` (DISTINCTIO XXIV LITTERA MAGISTRI, Cap. I–XIII Lombard text; skeleton, opens raw ~38535 on p. 549 [Cap. I *De gratia hominis et potentia ante casum*]; runs to COMMENTARIUS IN DISTINCTIONEM XXIV raw ~38795).**
+
+## 2026-05-29 — d23-dubia promoted (Tier-2) — d.23 COMPLETE
+
+Rebuilt `bon-sent-II-d23-dubia` from skeleton — **DUBIA CIRCA LITTERAM MAGISTRI, Distinctio XXIII.** Spans **pp. 548–549** (PDF 570–571, +22), raw ~38446–38580. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p548/p549-{L,R}-{0,1,2}.png`). `has_scholion: false` (dubia).
+
+- **DUB COUNT = FOUR (DUB I, II, III, IV)** — NOT three. The resume note + task brief predicted three (raw-OCR header scan missed DUB IV). PDF unambiguously shows **DUB IV** ("Item quaeritur… homo non habuit praescientiam…") at top-left of p.549, ending "…vel quia ipse non pertractavit." The "DISTINCTIO XXIV." at top of p.549 is a **running head** — the real d.24 (Pars I, Cap. I *De gratia hominis et potentia ante casum*) begins lower on p.549. DUB IV is correctly part of this chunk.
+- **15 apparatus entries [^1]–[^15].** Page-split: p.548 ftr 1–8 → [^1]–[^8] (DUB I: 1 *esset* var., 2 *mali*/*homo*, 3 Cod.A/N *respicit*, 4 2Tim.2:5; DUB II: 5 *gloriosior*, 6 Ecclus.31:10; DUB III: 7 Gen.1:1, 8 2Tim.3:16). p.549 ftr 1–7 → [^9]–[^15] (DUB III tail: 9 Vide infra d.39, 10 John1:3; DUB IV: 11 Gen.2:23, 12 Vat.*igitur*, 13 Dist.4 a2 q2, 14 Vat.*matrimonii*, 15 Gen.37:6 Joseph). **RECEIVED: p.548 L-col footers 1–4** (confirmed anchored in DUB I–II, not a2-q3 scholion). **FORWARDED: p.549 "NOTAE AD LIBR. SENTENTIARUM" footers** (Dist.V c.5; Cap.107 n.28; Cap.103 n.28) → d24 p1-littera (they belong to d.24 Cap. I, which opens lower on p.549).
+- **[?] flags:** none. **Dup-cleanup:** none needed for d.23. Audits: paraphrase **0 crit + 0 high (all 9 d.23 chunks OK → d.23 fully Tier-2)**; apparatus-count 0 flags; headers audit emits no d.23 row (Tier-2 chunks carry no line_start/line_end — expected, matches other d.23 chunks). Build: **882 routes, 669 translated** (+1). Commit `0d39e7e`.
+
+**d.24 structure map (auto-chunked skeletons — re-chunk-verify before promoting):** **Pars I and Pars II.**
+- `d24-p1-littera` — Cap. I–XIII Lombard text (FIRST chunk; raw ~38535 on p.549). SKELETON exists.
+- `d24-p1-divisio` — COMMENTARIUS IN DIST. XXIV + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM (raw ~38793+). SKELETON (+ stray `d24-p1-divisio-dup2` to git rm).
+- `d24-p1-a1`: q1, q2. SKELETONS.
+- `d24-p1-a2`: q1, q2, q3, q4. SKELETONS (+ stray `d24-p1-a2-q1-dup2` to git rm).
+- `d24-p1-dubia` — DUBIA CIRCA LITTERAM (DUB I–III+). SKELETON (+ stray `d24-p1-dubia-dup2` to git rm).
+- `d24-p2`: auto-chunker produced `d24-p2-a2-q2`, `d24-p2-a3-q1`, `d24-p2-a3-q2`, `d24-p2-dubia` — **the Pars-II article/quaestio numbering looks suspect (jumps to a2/a3 with gaps); MUST re-chunk-verify Pars II boundaries against raw before promoting.** d.24 ends at DISTINCTIO XXV raw 41154.
+- **NB: missing skeletons may exist for some p2 articles/quaestiones — verify full Pars II structure from raw at re-chunk time.**
+
+**Pace gate:** d.24 begins the run toward the **d.21–d.30 decade-polish blocker** (fires at d.30 close). No polish gate yet at d.24.
+
 
 ## 2026-05-29 — d23-a2-q3 promoted (Tier-2) — ARTICULUS II CLOSED
 
