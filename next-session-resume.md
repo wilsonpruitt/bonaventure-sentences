@@ -1,6 +1,34 @@
-# Next session — **d21-divisio DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a1-q1`.**
+# Next session — **d21-a1-q1 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a1-q2`.**
 
-## 2026-05-29 — d21-divisio promoted
+## 2026-05-29 — d21-a1-q1 promoted
+
+Promoted `bon-sent-II-d21-a1-q1` Tier-2 (*Quid moverit principaliter diabolum ad tentandum hominem.*):
+- QUAESTIO I (Articulus I — *De tentatione primorum parentum*). Spans **pp. 492–494** (PDF pp. 514–516, offset +22). Opens p. 492 R-1 bottom (raw 34608) with *Circa primum sic proceditur* + *Fundamenta* args 1–4 (Sap. 2,24 *Invidia diaboli mors* + Greg. *Moral.* XXXI *In paradiso sano homini diabolus invidens superbiae vulnus inflixit* + Ioann. 8,44 *Ille homicida erat ab initio* + *qui desiderat casum alterius sine suo fructu... ex odio felicitatis alienae*). p. 493 L-1 *Sed contra* args 1–4 (Greg. V *Moral.* c. 46 n. 84 *Parvulum occidit invidia* + invidia respectu boni acquiribilis + invidia respectu boni desiderati + invidia respectu boni proprii diminutivum). CONCLUSIO *Diabolus ex superbia quidem, sed immediate ex invidia motus est ad hominem tentandum*. Respondeo p. 493 L-2 → R-1 with two-fold conclusion (*superbia movens primum, invidia movens proximum et immediatum*). *Solutio oppositorum* p. 493 R-1 → p. 494 L-1 (ad 1: *eius qui potest esse* + *Aliter*; ad 2: *per interemptionem* + truncatus/caecus analogy; ad 3: *odio boni alieni* + *Alia solutio*; ad 4: *secundum aestimationem falsam* + *Affectiones ex suspicionibus*). SCHOLION (I + II) on p. 494 L-1.
+- **14 apparatus entries [^1]–[^14]** renumbered continuously. Page-split map: p.492 L-2 ⁵ = [^1] (Sap. 2,24); p.492 R-2 ⁶–⁷ = [^2]–[^3] (Greg. *Moral.* XXXI c. 1 n. 1 + Ioann. 8,44 multi-codd.); p.493 L-2 ¹–⁵ = [^4]–[^8] (Aug. XI *de Gen. ad lit.* c. 14 n. 18 + Greg. V *Moral.* c. 46 n. 84 + Cfr. supra d. 7 + Cfr. Gregor. V *Moral.* c. 46 n. 86 + Dist. 5 a. 1 q. 1 + Aug. *de Sancta Virginitate* c. 31); p.493 R-2 ⁶–¹⁰ = [^9]–[^13] (Vat. *concomitatur alterum* + Codd. cc + ed. 1 *civitatem* + Cod. T *ee movens ipsum* + Cfr. tom. 1 p. 87 n. 4 + Damasc. II *de Fide orth.* c. 14); p.494 L-2 ¹ = [^14] (Edd. excepta 1 *suspicationibus*).
+- `has_scholion: true` — two-part SCHOLION captured.
+- **No `[?]` flags.** All 14 anchors crisp at 450 dpi.
+- Cross-chunk hand-off: **received 3** from d21-divisio (Sap. 2,24 + Greg. *Moral.* XXXI + Ioann. 8,44) folded as [^1]–[^3]. **Forwarded NONE** to d21-a1-q2 — QUAESTIO II opens p. 494 R-mid at raw 34711 with its own fresh apparatus block on p. 494 footers (Genesis 3 + Aristot. *Hist. animal.* / *de Gen. animal.* / *Polit.* / *Problem.* + cod. aa *tanto magis* variant).
+- **Audits.** paraphrase: 1 critical / 9 high (all 10 remaining d.21 skeletons; d21-a1-q1 lands in OK). headers: Q-LOSS A-LOSS (expected — 10 skeletons still hold headers). apparatus-count: d21-a1-q1 NOT flagged (raw=12 chunk=14 diff=-2 within tolerance). Build: **880 routes, 641 → 642 translated, 2 books**. Commit `4269738`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d21-a1-q2`
+
+Per CLAUDE.md "Efficient single-chunk subagent dispatch". `bon-sent-II-d21-a1-q2` — *Utrum tentatio per serpentem fuerit conveniens.* QUAESTIO II opens on p. 494 R-mid at raw 34711 with `QUAESTIO II.` + italic title + opener *Secundo quaeritur de tentatione primorum parentum quantum ad instrumentum medium. Et dicitur in Genesis tertio quod diabolus tentavit hominem per serpentem. Et quod iste modus non fuerit conveniens, ostenditur primo sic.* + *Ad oppositum* args 1–4 (occultior tentatio efficacior + suggestio affabilior + similis sanctitatis sub specie columbae/agni + instrumentum conformari exercitio per ipsum facto: vulpes dolosa magis quam serpens). Page span begins p. 494, continues onto subsequent pages.
+
+d.21 remaining inventory:
+- ~~`bon-sent-II-d21-littera`~~ **DONE 2026-05-28.**
+- ~~`bon-sent-II-d21-divisio`~~ **DONE 2026-05-29.**
+- ~~`bon-sent-II-d21-a1-q1`~~ **DONE 2026-05-29.**
+- **`bon-sent-II-d21-a1-q2`** — NEXT.
+- `bon-sent-II-d21-a1-q3`
+- `bon-sent-II-d21-a2-q2`, `bon-sent-II-d21-a2-q3` — **`d21-a2-q1` is MISSING** from the auto-chunker output; before promoting a2-q2 verify whether QUAESTIO I body was auto-merged into a1-q3 or somewhere adjacent. Re-chunk if so.
+- `bon-sent-II-d21-a3-q1`, `bon-sent-II-d21-a3-q2`, `bon-sent-II-d21-a3-q3`
+- `bon-sent-II-d21-dubia` + `bon-sent-II-d21-dubia-dup2` + `bon-sent-II-d21-dubia-dup3` — auto-chunker dup artifacts; reconcile against printed pp.
+
+Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read (Vol II Override). `pdf = printed + 22`. One chunk per subagent, two-commit cadence per chunk, do NOT deploy.
+
+---
+
+## 2026-05-29 — d21-divisio promoted (prior session)
 
 Promoted `bon-sent-II-d21-divisio` Tier-2 (the auto-chunker boundary intentionally placed Cap. VI–VIII Lombard littera + COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM together in this chunk; built fresh from 450 dpi PDF column bands):
 - Three Lombard capitula VI–VIII (*De duplici tentationis specie* / *Quare peccatum hominis, et non angeli, remediabile sit* / *Quod non soli viro praeceptum fuit datum*) + COMMENTARIUS IN DISTINCTIONEM XXI spanner header + DIVISIO TEXTUS (four-fold division: peccatum primorum parentum / originale / actuale; then peccatum primorum parentum = modus + potentia; then triplex relatio diabolum/hominem/Deum; then praesens dist. = qualiter + duas species + remissibilitas conclusion; then primum capitulum = motivum + instrumentum + progressum) + TRACTATIO QUAESTIONUM (three quaestiones for ART. I: motivum / instrumentum / ordinem et progressum). Spans printed **pp. 491–492** (PDF pp. 513–514, offset +22). p.491 L: Cap. VI + Cap. VII + COMMENTARIUS+DIVISIO opening; p.491 R: Cap. VI continuation + Cap. VIII + DIVISIO R-mirror; p.492 L: DIVISIO continuation; p.492 R: DIVISIO R-mirror + TRACTATIO QUAESTIONUM.
