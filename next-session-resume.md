@@ -1,4 +1,21 @@
-# Next session — **d23-divisio DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a1-q1` (*Utrum Deus debuerit facere hominem impeccabilem*; skeleton, opens raw ~37326 on p. 531).**
+# Next session — **d23-a1-q1 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a1-q2` (*utrum hominem, quem praesciebat expugnandum, debuerit permittere per tentationem impugnari*; skeleton, opens raw 37457 on p. 533).**
+
+## 2026-05-29 — d23-a1-q1 promoted (Tier-2)
+
+Rebuilt `bon-sent-II-d23-a1-q1` from skeleton — **ARTICULUS I (De permissione primae tentationis) opener folded in + QUAESTIO I.** Spans **pp. 531–533** (PDF 553–555, +22), raw 37312–37456. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p53{1,2,3}-{L,R}-{0,1,2}.png`). `has_scholion: true` (SCHOLION I = congruentia inquiry; SCHOLION II = commentator-roll for the *following* q2).
+
+- **12 apparatus entries [^1]–[^12].** Page-split (per-page Quaracchi footer sequences): p.531 footers ⁵–⁶ → [^1]–[^2] (**received** from d23-divisio: ⁵ Dionysius De Div. Nom. c.4 §19, ⁶ Prov. 3,28); p.532 footers ¹–⁷ → [^3]–[^9]; p.533 footers ¹–³ → [^10]–[^12]. **p.533 footers ⁴–⁵ forwarded to `d23-a1-q2`** — they anchor in the *Secundo quaeritur* (q2) body opening at the bottom of p.533 (⁴ *Hic c. 1…*; ⁵ *Vers. 5: Nam et qui certat in agone…*).
+- **Alignment VERIFIED:** QUAESTIO I at raw 37325 = *Utrum Deus debuerit facere hominem impeccabilem* (opener *Circa primum… utrum… inexpugnabilem, an talem, quod posset expugnari*); QUAESTIO II at raw 37457. Running head `QUAEST. II.` on pp.532–533 is a page-top running head — body is still q1 until SCHOLION closes near bottom of p.533.
+- **[?] flags:** one ACCEPT-PARTIAL on [^7] (p.532 footer ⁵): two words clipped at the L→R footer-column wrap after *Alii [codd.]*; both verified parts present, `…` elision. No other flags.
+- **Audits.** paraphrase: 0 critical + 6 high = the 6 remaining d.23 skeletons (this q1 now in OK bucket). headers: d.23 ART/QUAEST/DUB-LOSS = coarse Vol II frontmatter behavior (this chunk's range covers 1 ART/1 QUAEST; the other headers belong to still-skeleton sibling chunks) — not a real dropout. apparatus-count: 6 SKELETON-SUSPECT = the skeleton siblings; this q1 NOT flagged. Build: **882 routes, 663 translated** (+1). Commit `9290a28`.
+
+**Verify Primo/Secundo/Tertio quaeritur alignment** when dispatching q2/q3 (auto-chunker has known q-swap bugs). q2 = *utrum hominem… debuerit permittere per tentationem impugnari* (raw 37457); q3 = *utrum tentationis pugna a viris iustis debeat desiderari* (raw ~37567).
+
+**Structure map (remaining d.23 skeletons):** d23-a1-q2 (raw 37457, p.533+), d23-a1-q3 (raw ~37567), d23-a2-q1/q2/q3 (ART II *De primorum parentum cognitione*, raw ~37691), d23-dubia (DUB I–II, raw ~38448 → DISTINCTIO XXIV running head raw ~38497).
+
+**Pace gate:** d.23 is the last distinction before the d.21–d.30 decade-polish blocker fires at d.30 close — no polish gate yet at d.23.
+
+## ARCHIVE — d23-divisio (2026-05-29)
 
 ## 2026-05-29 — d23-divisio promoted (Tier-2)
 
