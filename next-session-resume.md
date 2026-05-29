@@ -1,6 +1,39 @@
-# Next session — **d21-a1-q3 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a2-q1` (chunk MUST BE CREATED — auto-chunker omitted it).**
+# Next session — **d21-a2-q1 DONE 2026-05-29 (chunk newly-created — auto-chunker omitted). Next action: dispatch `bon-sent-II-d21-a2-q2`.**
 
-## 2026-05-29 — d21-a1-q3 promoted
+## 2026-05-29 — d21-a2-q1 promoted (NEWLY-CREATED — auto-chunker omitted)
+
+Created and promoted `bon-sent-II-d21-a2-q1` Tier-2 (*Utrum carnis sit tentare.*) in a single session — the auto-chunker had omitted the file entirely (verified by d21-a1-q3 in commits `97459f4` + `b90428f`).
+
+- ARTICULUS II opener (*De modis tentationis in generali.* — *Consequenter quaeritur circa secundum articulum… Dividit autem Magister tentationem in eam quae est ab hoste, et in eam quae est a carne.*) + QUAESTIO I (*Utrum carnis sit tentare.*). Spans **pp. 497–499** (PDF pp. 519–521, offset +22). Opens p. 497 R-1 mid-page (raw 34935) with centered ARTICULUS II header; QUAESTIO I starts p. 497 R-2 (raw 35047) with *Fundamenta* args 1–4 (Iacobi 1, 14 *Unusquisque tentatur a concupiscentia* + Cassiodorus *assimilatio boni ad fallendum* + carnis prudentia *Deo inimica* + impugnamur a diabolo et a carne). p. 498 L *Sed contra* args 1–4 (Hugo de S. Victore *callide experiri* + tentans differt a tentato + sophisticatio + Deus/diabolus/homo/caro *Quaestio incidens*). CONCLUSIO *Cum tentatio sit quidam tactus ad probandum ordinatus, et carnis concupiscentia nos impellit, ad cuius impulsum sequitur approbatio vel improbatio hominis, recte caro dicitur tentare.* Respondeo p. 498 R w/ four-fold tentatio (Deus *Sap. 3, 5* + diabolus *Act. 5, 3* + homo cautus *Sir. 13, 14* + caro *Iac. 1, 14*). Solutio oppositorum p. 498 R-2 → p. 499 L-1 (ad 1 *proprie*/*generaliter*/*essentialiter* interpretations; ad 2 *iudicare*/*iudicari* same-person-different-portion; ad 3 large-dicta sophisticatio comprehension + *materiali*/ratiocinationibus alia solutio; ad 4 patet ex praedictis).
+- **15 apparatus entries [^1]–[^15]** renumbered continuously. Page-split map:
+  - p.497 R-2 ⁵–⁸ = [^1]–[^4]: *Hic c. 6* (Magister) + *Dist. 8. p. II. praesertim q. 1. seq.* (potestate daemonum) + Jas 1, 14 *Vat. omittit nos* + B. Albert. *Cassiodorus in origi. super Psalm.* w/ P. Nicolai's note on the *origine super Psalmos* identification puzzle + Ps. 134, 11 exposition w/ *tentatio colorum*.
+  - p.498 L-2 ¹–³ = [^5]–[^7]: Rom. 8, 7 + *cum spiritum*/*dum spiritum* codd. variant; Hugh *Allegor. in Nov. Test.* c. 13 + *praemissis ante violentam impulsionem*; Aristot. I *Elench.* c. 1 + c. 10 seq. *tentativa est dialectica quaedam*.
+  - p.498 R-2 ⁴–⁸ = [^8]–[^12]: composite scriptural-cross-ref block (Ps. 25,2 + Mt. 4,1 + Mt. 16,1 + 2 Cor. 12,7 + Jas. 1, 14 + Aristot. *Poster.* I c. 19 + *Et si est*/*et si sic est*/ed. 1 *si est suppressis* variants); Sap. 3, 5; Acts 5, 3 *post mentiri addit te*; Sir. 13, 14 *Ex multa enim loquela*; Jas. 1, 14.
+  - p.499 L-2 ¹–³ = [^13]–[^15]: Rom. 7, 22 + 1 Cor. 2, 14 + 2 Cor. 4, 16 + *ratio carnalis*/*homo carnalis* codd. F K N W aa variant; 1 Cor. 11, 31 *Quodsi nosmetipsos diiudicaremus* cross-ref; Aristot. I *Elench.* c. 2 et 7 *syllogismus sophisticus*/*tentativus* glossary.
+- `has_scholion: true` — SCHOLION I + II on p. 499 mid-page (centered, spanning columns). I = four-modes-tentandi distinction + Alex. Hal. S. p. II. q. 101 m. 7 a. 2 § 1-3. II = commentator-roll covering joint q1+q2 treatment (S. Thom. + B. Albert. a. 8 + Petr. a Tar. + Richard. a Med. + Aegid. R. + Dionys. Carth.).
+- **No `[?]` flags.** All 15 anchors crisp at 450 dpi.
+- Cross-chunk hand-off: **received NONE** from d21-a1-q3 (q3 closed cleanly at raw 34934). **Forwarded NONE** to d21-a2-q2 — q1 closes cleanly with SCHOLION II covering joint treatment; QUAESTIO II opens at raw 35082 on p. 499 R-mid with own *Fundamenta*. The p.499 footer ¹–³ all anchor in q1's Solutiones (Rom. 7, 22 / 1 Cor. 11, 31 / sophistic syllogism); q2's footers start ⁴+ on p.499 R / p.500.
+- **Auto-chunker omission documented.** Likely cause: the ARTICULUS II opener at raw 34935 is centered full-width (both columns) and sits 112 raw lines before the QUAESTIO I header at raw 35047; the auto-chunker's quaestio-regex appears to have folded the gap into the article context without emitting a quaestio file. Flagged in chunk Notes for auto-chunker improvement backlog.
+- **Audits.** paraphrase: critical/high counts unchanged from prior dispatch (d21-a2-q1 lands in OK). headers: d.21 ART -1 / QUAEST +0 / DUB -1 (expected — a3 still skeleton, dubia chunk count). apparatus-count: d21-a2-q1 NOT flagged (raw=25 chunk=15 diff=+10 within Vol II ±10–18 tolerance band). Build: **881 routes, 645 translated, 2 books** (+1 route). Commit `0515c3a`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d21-a2-q2`
+
+Per CLAUDE.md "Efficient single-chunk subagent dispatch". `bon-sent-II-d21-a2-q2` — *Utrum tentatio carnis a tentatione diaboli possit separari.* QUAESTIO II opens at raw 35082 on p. 499 R-mid with *Secundo quaeritur, utrum contingat, tentationem carnis a tentatione diaboli separari. Et quod sic, videtur.* + *Fundamenta* args 1–5 (quaecumque dividuntur ex opposito separabilia + diabolus tentavit hominem primum et Christum sed caro neither + esto quod diabolus nunquam suggereret nihilominus *sensus nostri ad malum proni* + aliud inquinamentum carnis aliud spiritus + tentatio hostis materia exercendae virtutis vs tentatio carnis…). Body spans p. 499 R-mid → p. 500 → continues to QUAESTIO III at raw 35182 = p. 501 (`DIST. XXI. ART. II QUAEST. III.`). Apparatus block opens on p. 499 R-2 ⁴+ (NONE from a2-q1; the p.499 ¹–³ all anchor in q1 body) + p. 500 footers (to be enumerated by next dispatch).
+
+**Hand-off from `d21-a2-q1`:** NONE forwarded — q1 closed cleanly with SCHOLION II covering joint q1+q2 commentator treatment; q2 opens fresh.
+
+Procedure (locked single-chunk recipe):
+1. Pin target. Verify alignment: ARTICULUS II QUAESTIO II opener is *Secundo quaeritur…* (the second quaestio of the article).
+2. Grep raw for `QUAESTIO II` near line 35082 + `QUAESTIO III` near line 35182 to confirm a2-q2 span.
+3. Generate PDF crops for pp. 499–500–501 at 450 dpi via `extract-pages.py --volume vol2` + `colcrop.py vol2 NNN`. p.499 crops already exist; p.500/501 may need generation.
+4. Backup: `mkdir -p _backup-d21-a2-q2-pre-promote-20260529/`.
+5. Re-set Latin column-by-column from PDF (Vol II inversion). Translate literally. Apparatus from page footers renumbered continuously.
+6. `## Notes`: provenance, page-split map, hand-offs picked-up (none) / forwarded (to d21-a2-q3), [?] flags.
+7. Audits `--volume 2 --min-d 21 --max-d 21` + smoke build.
+8. Two commits — chunk+content.json, then resume-note advance pointing next at `d21-a2-q3`.
+9. NO deploy.
+
+## (archived) 2026-05-29 — d21-a1-q3 promoted
 
 Promoted `bon-sent-II-d21-a1-q3` Tier-2 (*Utrum ordo et progressus tentationis in primis parentibus fuerit conveniens.*):
 - QUAESTIO III (Articulus I — *De tentatione primorum parentum*). Spans **pp. 496–497** (PDF pp. 518–519, offset +22). Opens p. 496 L-1 top (raw 34836) with *Tertio quaeritur de tentatione primorum parentum quantum ad ordinem et progressum. Et dicit Scriptura et Magister in littera, quod tentatio incepit a muliere, et per mulierem pervenit ad virum.* + *Fundamenta* args 1–4 (ordo destructionis contrarius ordini constructionis — mulier ultimo formata + tentatio exterior conformanda interiori — sensualitas/superior portio + cautus pugnator citius aggreditur facilius expugnandum + facilius expugnare fortem inimicum per domesticum). p. 496 R-1 *Sed contra* args 1–4 (peccatum non in carne sed in Dei imagine + mulier nullam pronitatem habebat + vituperabilius vinci a muliere + natura audacium libenter fortibus occurrere). CONCLUSIO *Propter duplicem rationem diaboli tentatio a muliere inchoavit*. Respondeo p. 496 R-mid → p. 497 L-1 with two-fold reason ex parte *sapientiae Dei* (viri exercitationem + mulieris excusationem + nostram eruditionem) and ex parte *astutiae diaboli* (minoris sapientiae + debilioris constantiae + importunioris adhaerentiae). Solutio oppositorum p. 497 L-1 → R-mid (ad 1: complexionis corporis imitatur + effeminatio; ad 2: non aequalem stabilitatem; ad 3: gloriosius mulierem luctando superare; ad 4: audacia sine astutia + *debilis in pugnando*).
