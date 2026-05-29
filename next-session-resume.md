@@ -1,4 +1,29 @@
-# Next session — **d22-a2-q3 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-dubia` (DUBIA CIRCA LITTERAM MAGISTRI — SKELETON EXISTS, rebuild not create; CLOSES d.22 → next is d.23).**
+# Next session — **d22-dubia DONE 2026-05-29 → d.22 COMPLETE. Next action: dispatch `bon-sent-II-d23-littera` (Lombard's text, Cap. I–IV; first chunk of d.23).**
+
+## 2026-05-29 — d22-dubia promoted (Tier-2) — CLOSES d.22
+
+Rebuilt `bon-sent-II-d22-dubia` from skeleton — **DUBIA CIRCA LITTERAM MAGISTRI.** Spans **pp. 527–529** (PDF 549–551, +22), raw 37063–37189. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p52{7,8,9}-{L,R}-{0..2}.png`).
+
+- **5 doubts:** DUB I (origin-of-original-sin from woman vs man), DUB II (Isidore's 3-fold vs Bede's 4-fold division of sin), DUB III (ignorance of those who refuse to know — given all naturally desire to know), DUB IV (fleeing to shadows of ignorance — ignorance as pure privation), DUB V (would man have sinned without the devil). `has_scholion: false` (no SCHOLION in range).
+- **16 apparatus entries [^1]–[^16].** Page-split map: p.527 footers ALL belong to a2-q3 (DUBIA header sits at foot of p.527, body footers begin on p.528). p.528 footers ¹–⁸ → [^1] (DUB I Anselm), [^2]–[^5] (DUB II), [^6]–[^8] (DUB III); p.529 footers ¹–⁸ → [^9]–[^12] (DUB IV), [^13]–[^16] (DUB V). p.529 running-head "DISTINCTIO XXIII." (raw 37154) is page-top only — DUB IV/V continue below it; real DISTINCTIO XXIII (Cap. I) starts raw 37192, out of scope; its "NOTAE AD LIBR. SENTENTIARUM" footers excluded. **No `[?]` flags.**
+- **Received:** none (a2-q3 closed clean). **Forwarded:** none (DUB V closes at "...nisi ipse homo"; DISTINCTIO XXIII opens fresh).
+- **Dup cleanup:** `git rm` vestigial `bon-sent-II-d22-dubia-dup2` (auto-chunker duplicate, same raw range, no unique content). Original `d22-dubia` skeleton had mis-set line bounds (= a2-q3 tail), corrected by rebuild.
+- **Audits.** paraphrase: **0 critical + 0 high** → d.22 fully Tier-2, no skeletons remain. headers: empty table (page-based frontmatter, skipped — consistent w/ Tier-2 chunks). apparatus-count: **0 flagged.** Build: **882 routes, 660 translated** (+1 translated, −1 route from dup removal). Commit `be83daa`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d23-littera` — OPENS d.23
+
+**d.23 structure** (DISTINCTIO XXIII opens raw 37192, p.529 L bottom; runs to DISTINCTIO XXIV ~raw 38497). **NO pars split.** All 9 chunks exist as SKELETONS (none missing):
+- **`bon-sent-II-d23-littera`** ← NEXT: Lombard's text, **Cap. I–IV** (raw ~37192–37295). Cap. I *Quare Deus permiserit hominem tentari, quem sciebat casurum.* Cap. II/III/IV on primorum parentum cognitio.
+- `d23-divisio`: DIVISIO TEXTUS (raw ~37295) + TRACTATIO QUAESTIONUM (raw 37310) — totalis distinctionis intentio splits into 2: (1) de primae tentationis permissione [Art I, 3 qq], (2) de primorum parentum cognitione [Art II].
+- ART I *De permissione primae tentationis* — q1 *Utrum Deus debuerit facere hominem impeccabilem* (raw 37325); q2 (raw ~37457); q3 (raw ~37567).
+- ART II (raw ~37691) — q1 (raw ~37702); q2, q3 (OCR headers garbled but skeleton files exist; per TRACTATIO Art I has 3, Art II appears to have 3).
+- DUBIA (raw ~38448): DUB I, DUB II — ends before DISTINCTIO XXIV (raw ~38497, running head at raw 38497/p.849).
+
+**Pace gate:** d.23 is the last distinction before the d.21–d.30 decade-polish blocker fires at d.30 close — no polish gate yet at d.23.
+
+## ARCHIVE — earlier 2026-05-29 sessions below
+
+## 2026-05-29 — d22-a2-q3 promoted (Tier-2) — LAST quaestio of ART II
 
 ## 2026-05-29 — d22-a2-q3 promoted (Tier-2) — LAST quaestio of ART II
 
@@ -8,10 +33,6 @@ Rebuilt `bon-sent-II-d22-a2-q3` from skeleton — **QUAESTIO III *Utrum ignorant
 - **23 apparatus entries [^1]–[^23].** Page-split map: p.525 footers ²–⁷ → [^1]–[^6] (RECEIVED from a2-q2); p.526 footers ¹–⁹ → [^7]–[^15]; p.527 footers ¹–⁸ → [^16]–[^23] (all 8 anchor in q3 determination/Loth text). **`has_scholion: false`** — no SCHOLION header in range; footer ⁸ p.527 = *Vide scholion ad praecedentem quaest.* ([^23]) = sibling-pointer to a2-q2 SCHOLION III. **No `[?]` flags.**
 - **Received:** p.525 footers ²–⁷ from a2-q2. **Forwarded:** NONE — q3 closes clean at Loth; DUBIA opens fresh below on p.527 R with its own footer block.
 - **Audits.** paraphrase: q3 → content-audit-skipped (Tier-2 page-based frontmatter, no line_start/end), no longer a suspect; 0 critical + 2 high = remaining d.22 skeletons (dubia, dubia-dup2). headers: ART +3, QUAEST +5 — no LOSS. apparatus-count: q3 NOT flagged; flagged = dubia-dup2 skeleton (next-session cleanup). Build: **883 routes, 659 translated** (+1). Commit `e47be6e`.
-
-## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-dubia` (DUBIA CIRCA LITTERAM MAGISTRI — SKELETON EXISTS, rebuild) — CLOSES d.22
-
-`bon-sent-II-d22-dubia` — **DUBIA CIRCA LITTERAM MAGISTRI.** Opens raw **37063**, p.527 R: *DUB. I. In parte ista sunt dubitationes circa litteram, et primo quaeritur de hoc quod dicit: Si vir non peccasset, humanum genus minime peccatis corruptum periret…*. **Next distinction DISTINCTIO XXIII opens raw 37154.** Clean up the stray **`bon-sent-II-d22-dubia-dup2`** (auto-chunker duplicate, flagged SKELETON-SUSPECT in apparatus audit — delete after confirming d22-dubia captures its content). d.22 structure map: ART I (q1✓ q2✓ q3✓) / ART II (a2-q1✓ a2-q2✓ a2-q3✓) / dubia=NEXT (+ dubia-dup2 to clean); littera✓ divisio✓. **After d22-dubia, d.22 is COMPLETE → next distinction is d.23.**
 
 ## ARCHIVE — earlier 2026-05-29 sessions below
 
