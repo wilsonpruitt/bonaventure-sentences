@@ -1,6 +1,45 @@
-# Next session — **d21-a1-q2 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a1-q3`.**
+# Next session — **d21-a1-q3 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a2-q1` (chunk MUST BE CREATED — auto-chunker omitted it).**
 
-## 2026-05-29 — d21-a1-q2 promoted
+## 2026-05-29 — d21-a1-q3 promoted
+
+Promoted `bon-sent-II-d21-a1-q3` Tier-2 (*Utrum ordo et progressus tentationis in primis parentibus fuerit conveniens.*):
+- QUAESTIO III (Articulus I — *De tentatione primorum parentum*). Spans **pp. 496–497** (PDF pp. 518–519, offset +22). Opens p. 496 L-1 top (raw 34836) with *Tertio quaeritur de tentatione primorum parentum quantum ad ordinem et progressum. Et dicit Scriptura et Magister in littera, quod tentatio incepit a muliere, et per mulierem pervenit ad virum.* + *Fundamenta* args 1–4 (ordo destructionis contrarius ordini constructionis — mulier ultimo formata + tentatio exterior conformanda interiori — sensualitas/superior portio + cautus pugnator citius aggreditur facilius expugnandum + facilius expugnare fortem inimicum per domesticum). p. 496 R-1 *Sed contra* args 1–4 (peccatum non in carne sed in Dei imagine + mulier nullam pronitatem habebat + vituperabilius vinci a muliere + natura audacium libenter fortibus occurrere). CONCLUSIO *Propter duplicem rationem diaboli tentatio a muliere inchoavit*. Respondeo p. 496 R-mid → p. 497 L-1 with two-fold reason ex parte *sapientiae Dei* (viri exercitationem + mulieris excusationem + nostram eruditionem) and ex parte *astutiae diaboli* (minoris sapientiae + debilioris constantiae + importunioris adhaerentiae). Solutio oppositorum p. 497 L-1 → R-mid (ad 1: complexionis corporis imitatur + effeminatio; ad 2: non aequalem stabilitatem; ad 3: gloriosius mulierem luctando superare; ad 4: audacia sine astutia + *debilis in pugnando*).
+- **13 apparatus entries [^1]–[^13]** renumbered continuously. Page-split map: p.496 L-2 ¹–⁵ = [^1]–[^5] (Hic c. 1 et 5 *lit. Magistri* + Aristot. III *Ethic.* c. 3 *quod extremum est in resolutione* + Vat. *exordium*/*exortum* + Aug. II *de Gen. contra Manich.* c. 14 + XII *de Trin.* + XIV *de Civ. Dei* + d. 24 cross-refs + codd. *ad bellum*/*in bello* F Q T ee + Aug. XI *de Gen. ad lit.* c. 42); p.496 R-2 ⁶–⁹ = [^6]–[^9] (codd. IP aa ee Vat. *etiam* interpolation + d. 24 p. II + d. 16 a. 2 q. 2 + Eccle. 7, 30 *fecerit Deus hominem rectum* + p. 124 nota 3 + Aristot. III *Ethic.* c. 7 + Eph. 5, 23 *vir caput mulieris* + 1 Cor. 11, 3); p.497 L-2 ¹–⁴ = [^10]–[^13] (Eccle. 7, 27 *laqueus venatorum* + codd. T ee *impugnator*/*impulsor* + lit. Magistri c. 1 + codd. F K T Y *compositionis*/*complexionis* + p. 170 nota 2 cross-ref on *debilis in pugnando* + *Vide scholion ad praecedentem quaest.* sibling-pointer = [^13]).
+- `has_scholion: false` — sibling-pointer to q. 2 SCHOLION II via apparatus [^13] (Quaracchi's explicit *Vide scholion ad praecedentem quaest.* footer ⁴ on p. 497 L-2). Per Vol II Override step 5.
+- **No `[?]` flags.** All 13 anchors crisp at 450 dpi.
+- Cross-chunk hand-off: **received NONE** from d21-a1-q2 (q2 closed cleanly with [^16] *et sic*/*ut sic* on p. 495 R-2 ⁸; q3 starts fresh on p. 496 L-1 top with own apparatus opening [^1] = *Hic c. 1. et 5.*). **Forwarded NONE** to a2-q1 — ARTICULUS II opener at raw 34935 carries its own apparatus block (p. 497 L-2 ⁵–⁸).
+- **Auto-chunker anomaly verified — `d21-a2-q1` MISSING, NOT MERGED INTO q3.** Read raw line 34935 (`ARTICULUS II.`) immediately after q3 body close at line 34934 (`debiliori suam inchoavit tentationem`). QUAESTIO III opener at line 34836 correctly aligned. **ARTICULUS II opener + QUAESTIO I (raw 34935–35081) has NO chunk file emitted** by the auto-chunker. **a2-q1 needs a fresh chunk file CREATED** (not re-split from elsewhere).
+- **Audits.** paraphrase: 1 critical / 7 high (all 8 remaining d.21 skeletons; d21-a1-q3 lands in OK). headers: A-LOSS (expected — skeletons still hold articulus/quaestio headers + dubia chunk missing). apparatus-count: d21-a1-q3 NOT flagged (raw=24 chunk=13 diff=+11 within tolerance; raw count is inflated by a2-q1 footers since the chunker's line_end overshoots into a2-q1 territory). Build: **880 routes, 643 → 644 translated, 2 books**. Commit `97459f4`.
+
+## ⚠ NEXT ACTION: CREATE `bon-sent-II-d21-a2-q1` (MISSING FROM AUTO-CHUNKER), then dispatch its Tier-2 promote
+
+Per CLAUDE.md "Efficient single-chunk subagent dispatch" — but with a precondition: **the chunk file does not yet exist**. The next session must FIRST create `vol2/bon-sent-II-d21-a2-q1.md` skeleton from raw lines 34935–35081 (ARTICULUS II opener + QUAESTIO I body). Then promote it Tier-2.
+
+`bon-sent-II-d21-a2-q1` — *Utrum carnis sit tentare.* ARTICULUS II opens on p. 497 R-1 mid-page at raw 34935 with `ARTICULUS II.` + *De modis tentationis in generali.* + *Consequenter quaeritur circa secundum articulum de modis tentationis in generali. Dividit autem Magister tentationem in eam quae est ab hoste, et in eam quae est a carne.* + tractatio listing three quaestiones. Then QUAESTIO I opens at raw 35047 with `QUAESTIO I.` + *Utrum carnis sit tentare.* + *Circa primum sic proceditur et ostenditur, quod carnis sit tentare.* + *Fundamenta* args 1–4 (Iacobi 1, 14 *Unusquisque tentatur a concupiscentia* + Cassiodorus *tentatio est assimilatio boni ad fallendum* + diabolus suggerit homini mala et carnis prudentia + impugnamur a diabolo et a carne). Body spans p. 497 R-1 → p. 498 → continues until QUAESTIO II opens at raw 35082 = p. 498 R-mid (`QUAESTIO II. Utrum tentatio carnis a tentatione diaboli possit separari.`). Apparatus block on p. 497 L-2 footers ⁵–⁸ (*Hic c. 6* + *Dist. 8 p. II praesertim q. 1 seq.* + *Vers. 14 — Paulo inferius Vat. omitit nos* + B. Albert. *Cassiodorus in origi. super Psalm.*) + p. 498 footers (yet to be enumerated).
+
+**Locked chunk-creation procedure for missing-from-chunker case:**
+1. Build a fresh skeleton file: `vol2/bon-sent-II-d21-a2-q1.md` with frontmatter id `bon-sent-II-d21-a2-q1`, volume 2, book 2, distinctio 21, articulus 2, quaestio 1, type quaestio, line_start 34935, line_end 35081, transcription_status `auto-chunked 2026-05-29 (manually created — auto-chunker omitted)`.
+2. Extract raw Latin body from lines 34935–35081 into `## Latin` block, leave `## English` and `## Apparatus` as `[pending]`.
+3. Run `node site/scripts/build-content.mjs` to confirm the chunk registers (expect 881 routes, 644 translated).
+4. Commit the skeleton in its own commit before promoting it Tier-2 — so the "skeleton creation" and "Tier-2 promotion" are diff-separable.
+5. Then dispatch the Tier-2 promote per standard recipe (450 dpi p.497–p.498 column-band PDF read; pp. 497 crops already exist, generate p.498 if needed).
+
+d.21 remaining inventory:
+- ~~`bon-sent-II-d21-littera`~~ **DONE 2026-05-28.**
+- ~~`bon-sent-II-d21-divisio`~~ **DONE 2026-05-29.**
+- ~~`bon-sent-II-d21-a1-q1`~~ **DONE 2026-05-29.**
+- ~~`bon-sent-II-d21-a1-q2`~~ **DONE 2026-05-29.**
+- ~~`bon-sent-II-d21-a1-q3`~~ **DONE 2026-05-29.**
+- **`bon-sent-II-d21-a2-q1`** — NEXT. **CHUNK FILE MUST BE CREATED FIRST** (see above procedure).
+- `bon-sent-II-d21-a2-q2`, `bon-sent-II-d21-a2-q3`
+- `bon-sent-II-d21-a3-q1`, `bon-sent-II-d21-a3-q2`, `bon-sent-II-d21-a3-q3`
+- `bon-sent-II-d21-dubia` + `bon-sent-II-d21-dubia-dup2` + `bon-sent-II-d21-dubia-dup3` — auto-chunker dup artifacts; reconcile against printed pp.
+
+Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read (Vol II Override). `pdf = printed + 22`. One chunk per subagent, two-commit cadence per chunk, do NOT deploy.
+
+---
+
+## 2026-05-29 — d21-a1-q2 promoted (prior session)
 
 Promoted `bon-sent-II-d21-a1-q2` Tier-2 (*Utrum tentatio per serpentem fuerit conveniens.*):
 - QUAESTIO II (Articulus I — *De tentatione primorum parentum*). Spans **pp. 494–495** (PDF pp. 516–517, offset +22). Opens p. 494 R-mid (raw 34711) with *Secundo quaeritur de tentatione primorum parentum quantum ad instrumentum medium. Et dicitur in Genesis tertio quod diabolus tentavit hominem per serpentem.* + *Ad oppositum* args 1–4 (occultior tentatio efficacior + suggestio affabilior actus locutionis humanae effigiei + columba/agnus simulant sanctitatem + instrumentum-conformari-exercitio vulpis dolosa magis quam serpens). CONCLUSIO *Quod homo tentaretur a diabolo sub specie animalis bruti, et quidem serpentis, congruum esse, tripliciter insinuatur*. Respondeo p. 494 R-mid → p. 495 L-1 with *diabolica electio* vs *divina permissio* (Aug.) and threefold congruentia ordinis (operis/finis intenti/divini iudicii) for *bruta animalia* generally, then again for *serpens* specifically. Solutio oppositorum p. 495 L-1 → R-mid (ad 1: occultatio in manifestatione + *Alia solutio* iusto iudicio Dei interius non permissus; ad 2: Beda virginis facie / corporis serpentini; ad 3: effigies amicitiae / veritas inimicitiae; ad 4: serpens callidissimus in nocendo et insidiando). Two-part SCHOLION (I + II) on p. 495 R-mid jointly covering q2 (this q) + q3 (next q) commentators.
