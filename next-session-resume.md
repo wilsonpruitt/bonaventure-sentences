@@ -1,4 +1,31 @@
-# Next session — **d21-littera DONE 2026-05-28. Next action: dispatch `bon-sent-II-d21-divisio`.**
+# Next session — **d21-divisio DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a1-q1`.**
+
+## 2026-05-29 — d21-divisio promoted
+
+Promoted `bon-sent-II-d21-divisio` Tier-2 (the auto-chunker boundary intentionally placed Cap. VI–VIII Lombard littera + COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM together in this chunk; built fresh from 450 dpi PDF column bands):
+- Three Lombard capitula VI–VIII (*De duplici tentationis specie* / *Quare peccatum hominis, et non angeli, remediabile sit* / *Quod non soli viro praeceptum fuit datum*) + COMMENTARIUS IN DISTINCTIONEM XXI spanner header + DIVISIO TEXTUS (four-fold division: peccatum primorum parentum / originale / actuale; then peccatum primorum parentum = modus + potentia; then triplex relatio diabolum/hominem/Deum; then praesens dist. = qualiter + duas species + remissibilitas conclusion; then primum capitulum = motivum + instrumentum + progressum) + TRACTATIO QUAESTIONUM (three quaestiones for ART. I: motivum / instrumentum / ordinem et progressum). Spans printed **pp. 491–492** (PDF pp. 513–514, offset +22). p.491 L: Cap. VI + Cap. VII + COMMENTARIUS+DIVISIO opening; p.491 R: Cap. VI continuation + Cap. VIII + DIVISIO R-mirror; p.492 L: DIVISIO continuation; p.492 R: DIVISIO R-mirror + TRACTATIO QUAESTIONUM.
+- **10 apparatus entries [^1]–[^10]** renumbered continuously. Page-split map: p.491 L-2 ¹–² = [^1]–[^2] (Cod. Erl. on *invisibiliter* + Greg. IV *Moral.* c.3 n.8 source-statement); p.491 R-2 ³–⁶ = [^3]–[^6] (Aug. *Enchiridion* c.29 n.9 + Matth 22:30 + Vat.+edd. *de viro* + 1 Cor 14:35 + Aug. VIII *de Gen. ad lit.* c.16 n.33); p.492 L-2 ¹–⁴ = [^7]–[^10] (Cod. K *traductum* + Cod. W *de modo* + Cod. F *ut ostendat nominis pam* variant + Vat. *quare* + Cod. aa *quasi*).
+- `has_scholion: false` — divisio chunks carry no SCHOLION by design.
+- **No `[?]` flags.** All 10 anchors crisp at 450 dpi.
+- Cross-chunk hand-off: received NONE from d21-littera (Cap. VI opens with its own fresh apparatus block per d21-littera forward note); **forwarded to d21-a1-q1: p.492 L-2 ⁵ (Sap. 2,24) + p.492 R-2 ⁶ (Greg. *Moral.* XXXI c.1 n.1) + p.492 R-2 ⁷ (Ioann. 8,44 + *tentando* multi-codd. + cod. F *ad ultimum*)** — these three anchor on the Fundamentum 1/2/3 lemmas of QUAESTIO I.
+- **Audits.** paraphrase: 2 critical / 9 high (all 11 remaining d.21 skeletons; d21-divisio lands in OK). headers: Q-LOSS A-LOSS (expected — skeletons still hold quaestio/articulus headers; divisio has none). apparatus-count: 0 flag on d21-divisio (11 flagged are the d.21 skeletons). Build: 880 routes, **640 → 641 translated**, 2 books. Commit `55040d0`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d21-a1-q1`
+
+Per CLAUDE.md "Efficient single-chunk subagent dispatch". `bon-sent-II-d21-a1-q1` — *Quid moverit principaliter diabolum ad tentandum hominem.* QUAESTIO I opens on p. 492 L-1 bottom at raw 34608 with `QUAESTIO I.` + italic title + `Circa primum sic proceditur et quaeritur, quid moverit principaliter diabolum ad tentandum hominem. Et quod invidia, videtur:` + *Fundamenta* args 1 (Sap. 2,24 *Invidia diaboli mors introivit in orbem*) + 2 (Greg. *In paradiso sano homini diabolus invidens superbiae vulnus inflixit*) + 3 (Ioann. 8,44 *Ille homicida erat ab initio* — homicidium ex odio, odium ex invidia) + 4+. Receives three forwarded apparatus from d21-divisio (Sap. 2,24 + Greg. *Moral.* XXXI c.1 n.1 + Ioann. 8,44). Page span begins p. 492, continues through subsequent pages until QUAESTIO II opens at raw 34711.
+
+d.21 remaining inventory:
+- ~~`bon-sent-II-d21-littera`~~ **DONE 2026-05-28.**
+- ~~`bon-sent-II-d21-divisio`~~ **DONE 2026-05-29.**
+- **`bon-sent-II-d21-a1-q1`** — NEXT.
+- `bon-sent-II-d21-a1-q2`, `bon-sent-II-d21-a1-q3`
+- `bon-sent-II-d21-a2-q2`, `bon-sent-II-d21-a2-q3` — **`d21-a2-q1` is MISSING** from the auto-chunker output; before promoting a2-q2 verify whether QUAESTIO I body was auto-merged into a1-q3 or somewhere adjacent. Re-chunk if so.
+- `bon-sent-II-d21-a3-q1`, `bon-sent-II-d21-a3-q2`, `bon-sent-II-d21-a3-q3`
+- `bon-sent-II-d21-dubia` + `bon-sent-II-d21-dubia-dup2` + `bon-sent-II-d21-dubia-dup3` — auto-chunker dup artifacts; reconcile against printed pp.
+
+Standard Vol II Tier-2 procedure: 450 dpi column-band PDF read (Vol II Override). `pdf = printed + 22`. One chunk per subagent, two-commit cadence per chunk, do NOT deploy.
+
+---
 
 ## 2026-05-28 — d21-littera promoted (decade d.21–d.30 opener)
 
