@@ -1,4 +1,20 @@
-# Next session — **d23-littera DONE 2026-05-29 → d.23 OPENED. Next action: dispatch `bon-sent-II-d23-divisio` (COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM; skeleton exists).**
+# Next session — **d23-divisio DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a1-q1` (*Utrum Deus debuerit facere hominem impeccabilem*; skeleton, opens raw ~37326 on p. 531).**
+
+## 2026-05-29 — d23-divisio promoted (Tier-2)
+
+Rebuilt `bon-sent-II-d23-divisio` from skeleton — **COMMENTARIUS IN DISTINCTIONEM XXIII + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM.** Single printed page **p. 531** (PDF 553, +22), raw 37290–37324. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p531-{L,R}-{0,1,2}.png`). `has_scholion: false`.
+
+- **4 apparatus entries [^1]–[^4]** from p.531 footers ¹–⁴ (all anchor in the divisio body: *iusta*¹ cod. I addition; *duas*² partes cc/ed.1 vs *tres*; *creatis*³ codd. variant; *quod*⁴ Cod. Y/Vat.). **Footers ⁵–⁶ forwarded to `d23-a1-q1`** (⁵ Dionysius De Div. Nom. c. 4 § 19 = Vide supra pag. 113 nota 7; ⁶ Prov. 3, 28) — they anchor at the QUAESTIO I *1. Primo per divinam bonitatem … Dionysius* and *2. Item … dare velociter* lemmas opening immediately below on p. 531.
+- **Received:** none (d23-littera closed on p. 530; COMMENTARIUS opens p. 531 fresh). **No `[?]` flags.**
+- **TRACTATIO question-list (verbatim):** Two heads — **ART I** *de primae tentationis permissione* (3 qq); **ART II** *de primorum parentum cognitione*. **ART I sub-qq (Circa primum quaeruntur tria):** q1 *utrum Deus debuerit hominem facere inexpugnabilem, an talem, quod posset expugnari* (header below states *Utrum Deus debuerit facere hominem impeccabilem*, raw ~37326); q2 *utrum hominem, quem praesciebat expugnandum, debuerit permittere per tentationem impugnari* (raw ~37458); q3 *utrum tentationis pugna a viris iustis debeat desiderari* (raw ~37567). Per Override §5 the ART I opener (*De permissione primae tentationis.*) folds into a1-q1.
+- **Structure map (remaining skeletons):** d23-a1-q1/q2/q3, d23-a2-q1/q2/q3 (ART II *De primorum parentum cognitione*, raw ~37691), d23-dubia (DUB I–II, raw ~38448 → DISTINCTIO XXIV running head raw ~38497).
+- **Audits.** paraphrase: 0 critical + 7 high = the 7 remaining d.23 skeletons (divisio in OK bucket). headers: d.23 DUB/Q/A-LOSS = coarse Vol II frontmatter behavior (divisio has no ART/QUAEST/DUB headers; raw-side headers belong to still-skeleton article/dubia chunks) — not a real dropout. apparatus-count: 7 SKELETON-SUSPECT = the skeleton siblings; divisio NOT flagged. Build: **882 routes, 662 translated** (+1). Commit `c123ddd`.
+
+**Verify Primo/Secundo/Tertio quaeritur alignment** when dispatching the ART I quaestiones (auto-chunker has known q-swap bugs).
+
+**Pace gate:** d.23 is the last distinction before the d.21–d.30 decade-polish blocker fires at d.30 close — no polish gate yet at d.23.
+
+## ARCHIVE — d23-littera (2026-05-29) — OPENS d.23
 
 ## 2026-05-29 — d23-littera promoted (Tier-2) — OPENS d.23
 
