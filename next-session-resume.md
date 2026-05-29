@@ -1,6 +1,25 @@
-# Next session — **d21-a2-q3 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a3-q1`.**
+# Next session — **d21-a3-q1 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d21-a3-q2`.**
 
-## 2026-05-29 — d21-a2-q3 promoted
+## 2026-05-29 — d21-a3-q1 promoted
+
+Promoted `bon-sent-II-d21-a3-q1` Tier-2 (*Utrum peccatum Adae potuerit esse veniale.*):
+
+- QUAESTIO I of **ARTICULUS III** (*De quantitate peccati primorum parentum*). Spans **pp. 503–505** (PDF 525–527, +22). The short ARTICULUS III opener (*Consequenter quantum ad tertium articulum… Et circa hoc quaeruntur tria* + the three TRACTATIO openers) is **folded into this q1 per Vol II Override §5** — no standalone divisio chunk. Article+QUAESTIO I header open on p.503 R-bottom (raw 35371). Body: *Circa primum sic proceditur… utrum primum peccatum hominis fuerit vel esse potuerit peccatum veniale*; affirmative args 1–6 (egressu/parva obliquitas; appetitus praecedit consensum Damasc.; medium inter ordinate sub Deo / inordinate supra Deum Aristot.; verbum otiosum veniale de genere; potest in maius→minus; quartus status). Sed contra 1–6 (*Fundamenta*: pronitas/impulsus; motus brutalis vs deliberatio; regnum animae Augustin. de Civ. Dei; angelus irremediabiliter; omne peccatum aufert innocentiam→immortalitatem→mortem; poenitere→passibilis→mortalis dilemma). CONCLUSIO (*Primum peccatum Adae fuit mortale, nec potuit esse veniale*). Respondeo p.504 R→505: *duplex opinio* — veniale-ex-genere-actus (verbum otiosum etc., Adam could) vs veniale-a-veniendo-ex-surreptione-naturae-corruptae (Adam could not, propter ordinem originalis iustitiae); *Verumtamen* communiter non approbant doctores; *communis opinio* = peccavit mortaliter. Solutio Ad 1–6 p.505. SCHOLION I+II p.505.
+- **14 apparatus entries [^1]–[^14]** renumbered continuously. Page-split map:
+  - **p.503: NO a3-q1 footers.** The p.503 footers (Gen 6,12 *omnis caro corrupit*, *quia* codd., Phil 3,19/Rom 7,24, Eph 5,29, Gen 6,3) all belong to a2-q3's epilogus and were correctly consumed as a2-q3 [^11]–[^13]. Verified eyes-on at 450 dpi.
+  - p.504 L-2 footers ¹–⁶ = [^1]–[^6]: Eccle 7,30 *Deus fecit hominem rectum*; Damasc. II de Fide orthod. c.22 + August. III de Lib. Arb. (order of acts of will); Aristot. VI Phys. text.32 *ex albo in fuscum non in nigrum*; Cfr. infra d.42 a.2 q.1; Vide supra pag.210 nota 11; Cfr. infra d.41 a.2 q.1 + Vat. omits *ideo veniale*.
+  - p.504 R-2 footers ⁷–¹⁰ = [^7]–[^10]: infra d.24 p.II a.1 q.1; XIV de Civ. Dei c.15/29 + codd. F Z *regimen* vs *regnum animae*; supra d.7 p.I a.1 q.1; supra d.19 a.3 q.1 ad 3 + Vat. *in primo homine* + long Alex. Hal. S. p.II q.104 m.6 *Aliud est dicere… Deus ab aeterno potuit creare mundum sed non potuit creare ab aeterno*.
+  - p.505 footers ¹–⁴ = [^11]–[^14]: infra d.41 a.2 q.1 in corp.; codd. CH *unum* / ed.1 *sanum seu vicum*; supra d.8 p.I a.2 q.1 ad 3 + I Sent. d.41 a.1 q.1 ad 6 + codd. C F R aa *peccari* pro *peccare*; supra d.7 p.I a.1 q.2 seq.
+- `has_scholion: true`. SCHOLION I = Scotus (in utroque scripto) sustinet veniale-possible (transgressio consilii vel praecepti cuius violatio non separat a fine) + Biel II Sent. d.22 q.1 probabilius + Richard. a Med. utrumque probabile; Sed Alex. Hal., S. Thom. aliique antiqui contrariam cum nostro Doctore. SCHOLION II = commentator-roll (Alex Hal, S Thom, B Albert, Petr a Tar, Aegid R, Durand, Dionys Carth).
+- **No `[?]` flags.** All 14 anchors + both scholia crisp at 450 dpi. Garbled OCR running-head page numbers (`503`/`804`/`806`) resolved against PDF running heads + the +22 offset.
+- Cross-chunk hand-offs: **received NONE** (a2-q3 closed clean at p.503 R-mid). **Forwarded NONE** to a3-q2 — q1 closes clean on p.505 with SCHOLION I+II; QUAESTIO II opens fresh on p.506 (raw 35540) with own *Secundo quaeritur, utrum peccatum… fuerit remissibile, vel irremissibile* + own footer block.
+- **Audits.** paraphrase: 1 critical / 4 high (a3-q1 lands OK; HIGH bucket dropped 5→4 — one promoted out). headers: d.21 ART 3/3/+0, QUAEST 4/7/+3, DUB -1 — no LOSS flag (DUB -1 = unbuilt dubia skeleton). apparatus-count: a3-q1 NOT flagged (14 entries; flagged items are remaining skeletons a3-q2/a3-q3/dubia/dups). Build: **881 routes, 648 translated, 2 books** (+1). Commit `4facc09`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d21-a3-q2`
+
+`bon-sent-II-d21-a3-q2` — *Utrum peccatum primum hominis fuerit remissibile, vel irremissibile.* QUAESTIO II of ARTICULUS III. Opens p.506 (raw 35540) with *Secundo quaeritur, utrum peccatum, quod primo secutum est ex tentatione illa, fuerit remissibile, vel irremissibile. Et quod irremissibile, videtur.* *Ad oppositum* args (August. de Mirabilibus sacrae Scripturae on the Angel; peccatum sine inclinatione irremissibile; etc.). **Hand-off from a3-q1: NONE** — q1 closed clean on p.505. Apparatus block for q2 begins fresh on p.506 footers. Verify alignment: a3-q2 opener = *Secundo quaeritur, utrum fuerit remediabile sive remissibile* (matches the TRACTATIO order folded into a3-q1). Grep raw for QUAESTIO III (raw 35674) for the q2 end boundary. Follow locked single-chunk recipe; two commits; NO deploy.
+
+## (archived) 2026-05-29 — d21-a2-q3 promoted
 
 Promoted `bon-sent-II-d21-a2-q3` Tier-2 (*Utrum tentatio carnis sit nobis difficilior tentatione diaboli.*):
 
