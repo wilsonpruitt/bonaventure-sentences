@@ -1,4 +1,16 @@
-# Next session — **d23-a1-q3 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a2-q1` (ARTICULUS II *De cognitione primorum parentum* opener folds in + QUAESTIO I *Utrum, si homo stetisset, in cognitione profecisset per temporum intervalla*; skeleton, ART II opens raw ~37681 on p. 537).**
+# Next session — **d23-a2-q1 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a2-q2` (QUAESTIO II *Utrum, si primi parentes stetissent in statu innocentiae, aliquando decipi potuissent* — *quantum ad defectum*; skeleton, opens raw ~37833 on p. 538).**
+
+## 2026-05-29 — d23-a2-q1 promoted (Tier-2) — ARTICULUS II OPENED
+
+Rebuilt `bon-sent-II-d23-a2-q1` from skeleton — **ARTICULUS II *De cognitione primorum parentum* opener + TRACTATIO folded in (Override §5), + QUAESTIO I *Utrum, si homo stetisset, in cognitione profecisset per temporum intervalla* (*quantum ad profectum*).** Spans **pp. 537–538** (PDF 559–560, +22), raw 37681–37832. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p53{7,8}-{L,R}-{0,1,2}.png`). `has_scholion: true` — closing SCHOLION I (Alex.Hal. parallel + Gulielmus de Melitona authenticity note) + II (perfect-knowledge sub-question) + III (commentator-roll).
+
+- **15 apparatus entries [^1]–[^15].** Page-split: **p.537 footers 1–6 → [^1]–[^6]** (args + sed contra: 1 Hugo *de Sacr.* I.VI.13; 2 Hugo+Magister litt.c.3; 3 Gen.1,28+Psalm 8,8; 4 Gen.1,26+Aristot.; 5 Cfr.d.4 a.2 q.2; 6 Vat. *quod si* var.). **p.538 footers 1–9 → [^7]–[^15]** (Respondeo: 1→7 Anselm *de Conc.virg.* c.11; 2→8 Magister litt.c.3; 3→9 cod.M *sciendi*; 4→10 Sap.9,15; 5→11 cod.Z *revelatione*; 6→12 Eph.3,10; 7→13 Augustine *Musica* VI c.5; 8→14 codd. *potuisset*; 9→15 Alex.Hal.+*infantiae* var.). **RECEIVED: none** (a1-q3 closed clean p.536, ART II fresh footer block p.537). **FORWARDED: none** (q1 closes before QUAESTIO II later on p.538; q1 holds p.537 footers + p.538 footers 1–9; q2 carries p.538 from its own body onward).
+- **Alignment VERIFIED:** ART II opener raw 37684 (*Consequenter… de cognitione primorum parentum, et incidit hic quaestio circa tria*); q1 opener raw 37691 (*Circa primum… utrum, si homo stetisset…*); TRACTATIO q1 = *quantum ad profectum*. Boundary: QUAESTIO II opens raw ~37833 on p.538.
+- **[?] flags:** none. Audits: paraphrase 0 crit + 3 high = the 3 remaining d.23 skeletons (q1 now OK). headers d.23 ART 2/3 +1, QUAEST 3/4 +1, DUB 0/0 (positive diffs expected Vol II; q1 carries folded ART II + QUAEST I headers; no LOSS). apparatus-count 3 SKELETON-SUSPECT = a2-q2/a2-q3/dubia; q1 not flagged. Build: **882 routes, 666 translated** (+1). Commit `04a067b`.
+
+**Structure map (remaining d.23 skeletons):** d23-a2-q2 (QUAESTIO II *Utrum, si primi parentes stetissent in statu innocentiae, aliquando decipi potuissent* — *quantum ad defectum*, opens raw ~37833 / p.538), d23-a2-q3 (*de ipsa cognitione quantum ad complementum et statum*), d23-dubia (DUB I–II, raw ~38448 → DISTINCTIO XXIV running head raw ~38497).
+
+**Pace gate:** d.23 is the last distinction before the d.21–d.30 decade-polish blocker fires at d.30 close — no polish gate yet at d.23.
 
 ## 2026-05-29 — d23-a1-q3 promoted (Tier-2) — ARTICULUS I COMPLETE
 
