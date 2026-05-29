@@ -1,6 +1,19 @@
-# Next session — **d22-divisio DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-a1-q1` (ARTICULUS I QUAESTIO I — MISSING, must be created fresh).**
+# Next session — **d22-a1-q1 DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-a1-q2` (ARTICULUS I QUAESTIO II — MISSING, must be created fresh).**
 
-## 2026-05-29 — d22-divisio created + promoted (Tier-2)
+## 2026-05-29 — d22-a1-q1 created + promoted (Tier-2)
+
+Created `bon-sent-II-d22-a1-q1` fresh (auto-chunker omitted ARTICULUS I q1) — **ARTICULUS I *De culpa primorum parentum quoad inordinationem affectus.* / QUAESTIO I *Quo genere peccati mulier peccaverit.***, spans **pp. 515–517** (PDF 537–539, +22), raw ~36172–36418. Two-column, cascade-shattered; re-set from 450 dpi PDF column bands (`/tmp/colcrop/vol2-p51{5,6,7}-{L,R}-{0..2}.png`).
+
+- **Alignment confirmed** against TRACTATIO sub-question 1. Body: superbia args (Eccli.10 / Aug. de Virginitate / ratione / diabolus promiserat); Sed contra arg-genus survey (2 inobedientia, 3 gula, 4 avaritia, 5 infidelitas); *Si forte tu dicas*; CONCLUSIO; Respondeo (triple-appetite framework: superbia/avaritia/gula = immoderate appetite of excellentia/sufficientia/cibus); Ad argumenta + solutio to infidelitas obj.
+- **26 apparatus entries [^1]–[^26]** renumbered continuously. Page-split map: p.515 footers ¹–⁵ → [^1]–[^5]; p.516 footers ¹–¹³ → [^6]–[^18]; p.517 footers ¹–⁸ → [^19]–[^26]. `has_scholion: true` (own SCHOLION I+II+III; III is a forward commentator-roll for q2). **No `[?]` flags.**
+- **Received** from d22-divisio: the p.515 footer sequence as native [^1]–[^5]. **Forwarded:** NONE — q1 closes cleanly on p.517 with SCHOLION; QUAESTIO II opens fresh p.518 (raw ~36418) with its own footers.
+- **Audits.** paraphrase: a1-q1 → OK (1 critical + 5 high = pre-existing d.22 skeletons a1-q3/a2-q1/q2/q3/dubia/dubia-dup2, not regressions). headers: ART +1, QUAEST +0, DUB +0 — no LOSS flag. apparatus-count: a1-q1 NOT flagged (26 entries); flagged = the skeletons. Build: **882 routes, 654 translated** (+1). Commit `8bbd910`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-a1-q2` (ARTICULUS I QUAESTIO II — MISSING, create fresh)
+
+`bon-sent-II-d22-a1-q2` — **QUAESTIO II *Utrum id quod mulier appetiit, vir etiam concupierit.*** Opens p.518 (running head `DIST. XXII. ART. I. QUAEST. II`, raw ~36418), *Secundo quaeritur, utrum quod mulier appetiit vir etiam concupierit. Et quod non, videtur. 1. Primae ad Timotheum secundo: Adam non est seductus, sed mulier … 2. Item, Augustinus super Genesim ad litteram … 3. Item, si Adam appetiit esse sicut Deus …*. Verify q2 = *utrum quod mulier appetiit vir cupierit* matches TRACTATIO sub-question 2 (confirmed in d22-divisio Notes). **Hand-off RECEIVED from a1-q1:** NONE (q1 closed clean on p.517). Note SCHOLION III of a1-q1 already lists the q2 commentator-roll (forward pointer). Next boundary = QUAESTIO III (raw TBD; *quis horum gravius peccaverit*). Spans p.518 onward (PDF 540).
+
+## (archived — DONE 2026-05-29) d22-divisio created + promoted (Tier-2)
 
 Created `bon-sent-II-d22-divisio` fresh (auto-chunker omitted it) — **COMMENTARIUS IN DISTINCTIONEM XXII + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM**, spans **pp. 514–515** (PDF 536–537, +22), raw ~36120–36230. Two-column, cascade-shattered; re-set from 450 dpi PDF column bands (crops `/tmp/colcrop/vol2-p51{4,5}-{L,R}-{0,1,2}.png`).
 
@@ -9,7 +22,7 @@ Created `bon-sent-II-d22-divisio` fresh (auto-chunker omitted it) — **COMMENTA
 - **Apparatus: NONE** (`has_apparatus: false`). DIVISIO/TRACTATIO carry no footnote markers. p.514 footers ¹–⁸ belong to d22-littera (already [^18]–[^25] there). **Hand-off forwarded to `d22-a1-q1`:** the p.515 page-footer sequence (¹ Eccli.10 *Vers.1-5*; ² Gregor. IV *Moral.* superbia/invidentia *Cap.31 n.31 sententialiter*; ³ Cfr. supra d.21 a.3 q.1 et infra d.31 a.1 q.2; ⁴ Gen.3,5; ⁵ Gen.3,11; etc.) anchors at QUAESTIO I's *1. Ecclesiastici decimo … Item, Augustinus de Virginitate … Sed contra: 2.* lemmas — renumber from [^1] in d22-a1-q1.
 - **Received** from d22-littera: NONE. **No `[?]` flags.** Audits: paraphrase divisio skipped (no line_start/line_end frontmatter — normal for manual divisio, same as d21-divisio); critical 1 + high 5 = pre-existing d.22 skeletons (a1-q3/a2-q1/q2/q3/dubia/dubia-dup2), not regressions. headers: ART +0, QUAEST -1 (unbuilt skeletons), DUB +0 — no LOSS flag. apparatus-count: divisio NOT flagged; flagged = skeletons. Build: **881 routes, 653 translated** (+1). Commit `87ea158`.
 
-## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-a1-q1` (ARTICULUS I QUAESTIO I — MISSING, create fresh)
+## (archived — DONE 2026-05-29) NEXT ACTION: dispatch `bon-sent-II-d22-a1-q1` (ARTICULUS I QUAESTIO I — MISSING, create fresh)
 
 `bon-sent-II-d22-a1-q1` — **ARTICULUS I *De culpa primorum parentum quoad inordinationem affectus.* / QUAESTIO I *Quo genere peccati mulier peccaverit.*** Opens p.515 L-bottom (running head `DIST. XXII. ART. I. QUAEST. I`, raw ~36172), *Circa primum sic proceditur et ostenditur, quod mulier peccaverit peccato superbiae. 1. Ecclesiastici decimo … Item, Augustinus in libro de Virginitate … Item, hoc videtur ratione … Sed contra: 2. Videtur quod primum peccatum mulieris fuerit inobedientia …*. **Pick up the divisio hand-off** (p.515 footers as native [^1]…). Verify q1 = *quo genere peccati mulier peccaverit* matches TRACTATIO sub-question 1 (confirmed alignment in divisio Notes). Next boundary = QUAESTIO II (raw ~36418/36259 running). Spans p.515 onward (PDF 537).
 
