@@ -1,4 +1,12 @@
-# Next session — **d23-dubia DONE 2026-05-29 → d.23 COMPLETE → next action: dispatch `bon-sent-II-d24-p1-littera` (DISTINCTIO XXIV LITTERA MAGISTRI, Cap. I–XIII Lombard text; skeleton, opens raw ~38535 on p. 549 [Cap. I *De gratia hominis et potentia ante casum*]; runs to COMMENTARIUS IN DISTINCTIONEM XXIV raw ~38795).**
+# Next session — **d24-p1-littera DONE 2026-05-29 → next action: dispatch `bon-sent-II-d24-p1-divisio` (COMMENTARIUS IN DISTINCTIONEM XXIV + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM for Pars I; skeleton, COMMENTARIUS opens raw 38792 / DIVISIO TEXTUS raw 38800 on p. 553 — both right after the littera's Cap. XIII close; stray `d24-p1-divisio-dup2` to git rm).**
+
+## 2026-05-29 — d24-p1-littera promoted (Tier-2)
+
+Rebuilt `bon-sent-II-d24-p1-littera` from skeleton — **DISTINCTIO XXIV, Pars I, Littera Magistri (Cap. I–XIII Lombard text).** Spans **pp. 549–553** (PDF 571–575, +22), raw ~38532–38791. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p549..p553-{L,R}-{0,1,2}.png`). `has_scholion: false` (littera).
+
+- **CHAPTER COUNT = THIRTEEN (Cap. I–XIII).** Cap. I opens lower-left on p.549 below the d.23 DUB IV tail (the "DISTINCTIO XXIV." at top of p.549 is a running head). Ends at close of Cap. XIII (*Quibus modis accipitur sensualitas in Scriptura*, "…vigilanter annotet"), immediately before `COMMENTARIUS IN DISTINCTIONEM XXIV` (raw 38792).
+- **28 apparatus entries [^1]–[^28]** (continuous, body-anchor order). Page-split: p.549 NOTAE AD LIBR. SENTENTIARUM (Dist.V c.5; Cap.107 n.28; Cap.103 n.28) = [^1]–[^3]; p.550 footers L1–5/R6–10; p.551 L1–4/R5–7; p.552 L1–5/R6–8; p.553 Cap. XIII text refs fold into [^28]. **RECEIVED from d23-dubia: the three p.549 NOTAE AD LIBR. SENTENTIARUM footers** → [^1]–[^3] serving Cap. I. **FORWARDED to d24-p1-divisio: the "NOTAE AD COMMENTARIUM." footer block beginning on p.553-L** (it serves the COMMENTARIUS text).
+- **[?] flags:** none. Editorial side-glosses bleeding into OCR (Quaestio incidens, Opponitur supra dictis, Dubium 1/2/3, Epilogus, Augustinus, Ratio superior et inferior, Alia solutio) trimmed as Quaracchi marginalia. Audits: paraphrase **0 crit + 15 high (all 15 = remaining d.24 skeletons; littera lands OK → not a regression)**; headers d.24 Q-LOSS/A-LOSS (counts ART/QUAEST/DUB — littera has only Cap. headers; the ART/QUAEST/DUB live in unbuilt quaestio chunks → expected skeleton signal); apparatus-count 13 SKELETON/INCOMPLETE-SUSPECT (all remaining d.24 skeletons; littera NOT flagged). Build: **882 routes, 670 translated** (+1). Commit `25f9950`.
 
 ## 2026-05-29 — d23-dubia promoted (Tier-2) — d.23 COMPLETE
 
@@ -9,8 +17,8 @@ Rebuilt `bon-sent-II-d23-dubia` from skeleton — **DUBIA CIRCA LITTERAM MAGISTR
 - **[?] flags:** none. **Dup-cleanup:** none needed for d.23. Audits: paraphrase **0 crit + 0 high (all 9 d.23 chunks OK → d.23 fully Tier-2)**; apparatus-count 0 flags; headers audit emits no d.23 row (Tier-2 chunks carry no line_start/line_end — expected, matches other d.23 chunks). Build: **882 routes, 669 translated** (+1). Commit `0d39e7e`.
 
 **d.24 structure map (auto-chunked skeletons — re-chunk-verify before promoting):** **Pars I and Pars II.**
-- `d24-p1-littera` — Cap. I–XIII Lombard text (FIRST chunk; raw ~38535 on p.549). SKELETON exists.
-- `d24-p1-divisio` — COMMENTARIUS IN DIST. XXIV + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM (raw ~38793+). SKELETON (+ stray `d24-p1-divisio-dup2` to git rm).
+- `d24-p1-littera` — Cap. I–XIII Lombard text (FIRST chunk; raw ~38532–38791 on pp.549–553). **DONE (Tier-2) 2026-05-29.**
+- `d24-p1-divisio` — COMMENTARIUS IN DIST. XXIV (raw 38792) + DIVISIO TEXTUS (raw 38800) + TRACTATIO QUAESTIONUM. **NEXT.** SKELETON (+ stray `d24-p1-divisio-dup2` to git rm). NOTE: pick up the **forwarded "NOTAE AD COMMENTARIUM." footer block** (begins p.553-L) as this chunk's apparatus lead.
 - `d24-p1-a1`: q1, q2. SKELETONS.
 - `d24-p1-a2`: q1, q2, q3, q4. SKELETONS (+ stray `d24-p1-a2-q1-dup2` to git rm).
 - `d24-p1-dubia` — DUBIA CIRCA LITTERAM (DUB I–III+). SKELETON (+ stray `d24-p1-dubia-dup2` to git rm).
