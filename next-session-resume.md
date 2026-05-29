@@ -1,4 +1,16 @@
-# Next session — **d23-a2-q1 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a2-q2` (QUAESTIO II *Utrum, si primi parentes stetissent in statu innocentiae, aliquando decipi potuissent* — *quantum ad defectum*; skeleton, opens raw ~37833 on p. 538).**
+# Next session — **d23-a2-q2 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a2-q3` (QUAESTIO III *Utrum Adam in statu innocentiae ita cognoverit Deum, sicut Deus in statu gloriae cognoscitur* — *de cognitione quantum ad complementum et statum*; skeleton, opens raw ~38033 on p. 542; LAST quaestio of ART II → DUBIA follows).**
+
+## 2026-05-29 — d23-a2-q2 promoted (Tier-2)
+
+Rebuilt `bon-sent-II-d23-a2-q2` from skeleton — **QUAESTIO II *Utrum, si primi parentes stetissent in statu innocentiae, aliquando decipi potuissent* (*quantum ad defectum*).** Spans **pp. 539–542** (PDF 561–564, +22), raw 37833–38033. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p53{9},54{0,1,2}-{L,R}-{0,1,2}.png`). `has_scholion: true` — closing SCHOLION I (Alex.Hal. parallel + *nescientia*-not-*deceptio* common teaching + Petr. a Tar. *potuerit/falli* distinction) + II (commentator-roll: S.Thom., Petr. a Tar., Richard. a Med., Aegid. R.).
+
+- **9 apparatus entries [^1]–[^9].** Page-split: **p.539 footers 1–9 → [^1]–[^9]** (args + sed contra: 1 Gen.3,13 + *decipi possent* var.; 2 Magister litt. c.4; 3 c.4; 4 Aristot. *de Somniis* c.3; 5 Avicenna *de Anima* VI p.III c.5; 6 Cfr.d.8 p.II q.6 + Vat. omit var.; 7 Augustine *de Lib.Arb.* III c.18 n.32; 8 Num.6 + *nec erat/est/fuit* var.; 9 Num.5). pp.540–541 carry doctrinal cross-ref / variant footers reused inline on the same [^N] scheme by position; p.542 = SCHOLION only. **RECEIVED: none** (a2-q1 closed clean — its scholion occupies top of p.539; q2 opens fresh below). **FORWARDED: none** — q2 closes with own scholion before QUAESTIO III opens on p.542.
+- **Alignment VERIFIED:** opener raw 37833 = *Secundo quaeritur de cognitione primorum parentum quantum ad defectum… utrum, si stetissent… aliquando decipi potuissent* = *quantum ad defectum*. q3 opener raw ~38033 / p.542.
+- **[?] flags:** none. Audits: paraphrase 0 crit + 2 high = the 2 remaining d.23 skeletons (q2 now OK). headers d.23 ART +2, QUAEST +2, DUB +0 (positive diffs expected Vol II; no LOSS). apparatus-count 2 SKELETON-SUSPECT = a2-q3/dubia; q2 not flagged. Build: **882 routes, 667 translated** (+1). Commit `0042f93`.
+
+**Structure map (remaining d.23 skeletons):** d23-a2-q3 (QUAESTIO III *Utrum Adam in statu innocentiae ita cognoverit Deum, sicut Deus in statu gloriae cognoscitur* — *de cognitione quantum ad complementum et statum*, opens raw ~38033 / p.542, **LAST quaestio of ART II** → DUBIA follows), d23-dubia (DUB I–III, raw ~38448 → DISTINCTIO XXIV running head raw ~38497). NB header scan found **DUB. I–III** in d.23 dubia range (resume note for q1 said I–II; verify three when promoting dubia).
+
+**Pace gate:** d.23 is the last distinction before the d.21–d.30 decade-polish blocker fires at d.30 close — no polish gate yet at d.23.
 
 ## 2026-05-29 — d23-a2-q1 promoted (Tier-2) — ARTICULUS II OPENED
 
