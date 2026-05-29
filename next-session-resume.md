@@ -1,6 +1,28 @@
-# Next session — **d21-dubia DONE 2026-05-29 — DISTINCTIO XXI COMPLETE. Next action: dispatch `bon-sent-II-d22-littera`.**
+# Next session — **d22-littera DONE 2026-05-29. Next action: dispatch `bon-sent-II-d22-divisio` (TRACTATIO QUAESTIONUM — also MISSING, must be created).**
 
-## 2026-05-29 — d21-dubia promoted (d.21 COMPLETE)
+## 2026-05-29 — d22-littera created + promoted (Tier-2)
+
+Created `bon-sent-II-d22-littera` fresh (auto-chunker under-produced d.22) — **Littera Magistri for DISTINCTIO XXII, Lombard Cap. I–VI**, spans **pp. 512–514** (PDF 534–536, +22), raw ~35964–36190. Two-column; read L→R per page.
+
+- **Six capitula:** I *De origine illius peccati* (elation precedes the consent; Aug. *super Genesim*; *Si comederitis eritis sicut dii*; the curabile/incurabile contrast); II *De mulieris elatione*; III *De viri elatione* (*Adam non fuit seductus* — seduced only in deeming the deadly venial); IV *Quis magis deliquerit, vir an mulier* (woman sinned more — greater tumor of presumption, *In dolore paries filios*; Aug. excusing-speeches *Mulier quam dedisti mihi*; the Psalm 68,5 / Phil 2,6 authority-roll on willing to be as God; Isidore's three modes ignorantia/infirmitate/industria); V *De ignorantia excusabili et inexcusabili* (threefold ignorance: nolunt/volunt-non-possunt/simpliciter nesciunt; Aug. *ad Valentinum*); VI *An voluntas praecesserit illud peccatum* (consensus from libero arbitrio; *ipsa voluntas iniquitas fuit*).
+- **25 apparatus entries [^1]–[^25]** renumbered continuously. Page-split map: p.512 **NOTAE AD LIBR. SENTENTIARUM** footers ¹–⁵ → [^1]–[^5]; p.513 footers ¹–¹² → [^6]–[^17]; p.514 footers ¹–⁸ → [^18]–[^25]. `has_scholion: false` (littera). **No `[?]` flags** — all 25 anchors crisp at 450 dpi (incl. long Cod. Erf./Gandulph [^18]).
+- **Hand-off resolved:** the resume note flagged p.512's footer block as d.22's. On eyes-on, p.512 footer ¹ (*Dist. 11 a.2 q.1 — Cfr. de hoc dubio Alex.Hal. …*) anchors the *tentatio carnis* tail closing **d21-a2-q1** (`infra ¹ suo loco`) — NOT the littera; **NOT picked up**. The littera's p.512 apparatus is the separate NOTAE block (¹–⁵ → [^1]–[^5]). **Forwarded none** — COMMENTARIUS IN DIST. XXII / DIVISIO TEXTUS (*Supra egit Magister de lapsu hominis*) opens p.514 below Cap. VI (raw ~36174) with its own footer ¹ (*Cap. 31 n. 31* …, raw 36244) = the divisio chunk's.
+- **Audits.** paraphrase: littera → **OK** (1 critical + 5 high = pre-existing d.22 skeletons a1-q3/a2-q1/q2/q3/dubia/dubia-dup2, not regressions). headers: ART +0, QUAEST -1 (unbuilt a-q skeletons), DUB +0 — no LOSS flag. apparatus-count: littera NOT flagged (25 entries); flagged = the skeletons. Build: **880 routes, 652 translated, 2 books** (+1). Commit `ea025f0`.
+
+## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-divisio` (TRACTATIO QUAESTIONUM — MISSING, create fresh)
+
+`bon-sent-II-d22-divisio` — the **COMMENTARIUS IN DISTINCTIONEM XXII / DIVISIO TEXTUS / TRACTATIO QUAESTIONUM** chunk (the question-listing), also MISSING from the auto-chunker. Opens p.514 L-bottom + R (raw ~36174 `COMMENTARIUS IN DISTINCTIONEM XXII`, then `DIVISIO TEXTUS` / *Supra egit Magister de lapsu hominis in comparatione ad diabolum tentantem; in hac vero parte agit quantum ad hominem transgredientem. Dividitur autem pars ista in partes duas…*), through the TRACTATIO QUAESTIONUM (raw ~36192) listing the questions. Carries its own footer ¹ (*Cap. 31 n. 31, sententialiter* …, raw 36244). Per Re-chunking §4 the TRACTATIO belongs in the divisio chunk, not a1-q1. Spans p.514 (PDF 536) onward; verify next boundary = ARTICULUS I QUAESTIO I (running head `DIST.XXII.ART.I.QUAEST.I`).
+
+### d.22 structure map (for the dispatch sequence after divisio)
+- **Littera** (Cap. I–VI) ✓ DONE 2026-05-29.
+- **divisio** (COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM) — MISSING, create next.
+- **ARTICULUS I** (*De peccato primorum parentum* / sin of the first parents): **q1 MISSING** (raw ~36172, `DIST.XXII.ART.I.QUAEST.I`), **q2 MISSING** (raw 36418), q3 EXISTS as skeleton `d22-a1-q3` (raw 36560). Verify Primo/Secundo/Tertio quaeritur alignment when building q1/q2 (auto-chunker q-swap risk).
+- **ARTICULUS II** (raw 36655, `Consequenter quaeritur de peccato primorum parentum … Et circa hoc quaeruntur tria`): q1 skeleton `d22-a2-q1` (raw 36664), q2 `d22-a2-q2` (36786), q3 `d22-a2-q3` (36918). The short ART II opener folds into a2-q1 per the locked Vol II chunking convention (no standalone a2-divisio).
+- **DUBIA CIRCA LITTERAM MAGISTRI** (raw 37063, p.827=raw 37022 running head): skeleton `d22-dubia` + stray `d22-dubia-dup2` (raw dup, `git rm` when dubia is promoted).
+- Next distinction boundary: `DISTINCTIO XXIII` at raw 37154.
+Follow locked single-chunk recipe; two commits; NO deploy.
+
+## (archived) 2026-05-29 — d21-dubia promoted (d.21 COMPLETE)
 
 Promoted `bon-sent-II-d21-dubia` Tier-2 (*Dubia circa litteram Magistri*, DUB I–IV) — **the final chunk of Distinctio 21; d.21 is now fully Tier-2 (littera, divisio, a1-q1/q2/q3, a2-q1/q2/q3, a3-q1/q2/q3, dubia = 11 chunks, 0 skeletons).**
 
@@ -11,7 +33,7 @@ Promoted `bon-sent-II-d21-dubia` Tier-2 (*Dubia circa litteram Magistri*, DUB I�
 - **Dup cleanup:** `git rm`'d `bon-sent-II-d21-dubia-dup2` (raw 35773–35879) + `dup3` (raw 35880–36013) — pure vestigial auto-chunked skeletons (no En/apparatus/Notes), fully covered by the promoted chunk.
 - **Audits (all clean, d.21 fully Tier-2).** paraphrase: **0 critical / 0 high** (all 12 d.21 chunks OK — no skeletons remain). headers: ART +2, QUAEST +6, DUB +3 (all positive = normal Vol II; no LOSS flag). apparatus-count: **0 flagged**. Build: **879 routes, 651 translated, 2 books** (−2 routes from dup removal, +1 translated). Commit `4343150`.
 
-## ⚠ NEXT ACTION: dispatch `bon-sent-II-d22-littera` (DISTINCTIO XXI COMPLETE)
+## (archived) NEXT ACTION → done: dispatch `bon-sent-II-d22-littera` (DISTINCTIO XXI COMPLETE)
 
 `bon-sent-II-d22-littera` — **Littera Magistri for Distinctio XXII** (Lombard's text, **Cap. I–VI**). Opens at raw **35964** (`DISTINCTIO XXII.` + `Cap. I. De origine illius peccati`) on **p. 512** (PDF 534), runs through Cap. II (*De mulieris elatione*), Cap. III, Cap. IV, Cap. V, Cap. VI to ~raw 36190, **pp. 512–514** (PDF 534–536). Per the multi-chapter-littera convention (CLAUDE.md "Re-chunking" §6, d.8-littera template) this is its own big Tier-2 chunk, separate from the commentary. **NOTE: the auto-chunker under-produced d.22** — only a1-q3, a2-q1/q2/q3, dubia(+dup2) exist; **littera, divisio (TRACTATIO QUAESTIONUM), a1-q1, a1-q2 are all MISSING and must be created.** d.22 structure from raw: Littera (Cap.I–VI, raw 35964–~36190) → **TRACTATIO QUAESTIONUM / divisio** (raw 36192, the question listing — belongs in a divisio chunk) → **ARTICULUS I** QUAESTIO I (raw ~36172 running head `DIST.XXII.ART.I.QUAEST.I`), QUAESTIO II (raw 36418), QUAESTIO III (raw 36560) → **ARTICULUS II** (raw 36655 `Consequenter quaeritur de peccato primorum parentum... Et circa hoc quaeruntur tria`) QUAESTIO I (raw 36664), II (36786), III (36918) → **DUBIA CIRCA LITTERAM MAGISTRI** (raw 37063, p.827=raw 37022 running head). Next boundary `DISTINCTIO XXIII` at raw 37154. Also a stray `bon-sent-II-d22-dubia-dup2` to clean when the d22 dubia is promoted. After littera, build divisio, then a1-q1 forward. Follow locked single-chunk recipe; verify Primo/Secundo/Tertio quaeritur alignment for each created quaestio (auto-chunker q-swap risk); two commits; NO deploy.
 
