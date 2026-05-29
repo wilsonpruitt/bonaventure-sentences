@@ -1,4 +1,23 @@
-# Next session — **d23-a1-q2 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a1-q3` (*utrum tentationis pugna a viris iustis debeat desiderari*; skeleton, opens raw ~37567 on p. 535; LAST quaestio of ART I → ART II at raw ~37691 follows).**
+# Next session — **d23-a1-q3 DONE 2026-05-29 → next action: dispatch `bon-sent-II-d23-a2-q1` (ARTICULUS II *De cognitione primorum parentum* opener folds in + QUAESTIO I *Utrum, si homo stetisset, in cognitione profecisset per temporum intervalla*; skeleton, ART II opens raw ~37681 on p. 537).**
+
+## 2026-05-29 — d23-a1-q3 promoted (Tier-2) — ARTICULUS I COMPLETE
+
+Rebuilt `bon-sent-II-d23-a1-q3` from skeleton — **QUAESTIO III *Utrum tentationis impulsio desiderari debeat a viro iusto*** (LAST quaestio of ART I). Spans **pp. 535–536** (PDF 557–558, +22), raw 37567–37680. Re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol2-p53{5,6}-{L,R}-{0,1,2}.png`). `has_scholion: true` — closing scholion for ART I: SCHOLION I (Petr. a Tarentasia explicating both *modi dicendi*) + SCHOLION II (commentator-roll).
+
+- **14 apparatus entries [^1]–[^14].** Page-split: **p.535 footers ⁴–¹² → [^1]–[^9]** (RECEIVED hand-off from a1-q2; all anchor in q3 args/sed-contra: ⁴ Iac.1,2; ⁵ Psalm 25,2; ⁶ Greg.Moral.VIII; ⁷ 1Cor10,13; ⁸ Tob c.12,13; ⁹ Iac.1,3 seq.; ¹⁰ Matth.6,13; ¹¹ Matth.26,41; ¹² Matth.4,1 + Chrysost.Gloss). **p.536 corpus footers ¹–⁵ → [^10]–[^14]** (Respondeo/scholion: ¹ Cfr.d.21 triplex; ² Cap.6 Magister d.21; ³ Augustine *Civ.Dei* XIV c.9; ⁴ Cfr.d.21 + *approbatos/probatos* var.; ⁵ Iob1,12/Tob2,10 + *sancti martyres* var.). **FORWARDED: none** — q3 ends cleanly before p.537 ART II.
+- **Alignment VERIFIED:** opener raw 37567 = *Tertio quaeritur, utrum tentationis impulsio desiderari debeat a viro iusto*. ART II opens raw ~37681 / p.537.
+- **[?] flags:** none. Audits: paraphrase 0 crit + 4 high = the 4 remaining d.23 skeletons (this q3 now OK). headers d.23 ART 2/2, QUAEST 3/3, DUB 0/0 all +0 (q3 completes ART I question set). apparatus-count 4 SKELETON-SUSPECT = same skeletons; q3 not flagged. Build: **882 routes, 665 translated** (+1). Commit `969584f`.
+
+**ART II TRACTATIO sub-question list (verbatim, raw ~37681, p.537 — *De cognitione primorum parentum*, *Consequenter… quaeritur de cognitione primorum parentum, et incidit hic quaestio circa tria*):**
+- **q1** = *Primo enim quaerendum est de cognitione primorum parentum quantum ad **profectum**.* (QUAESTIO I full title: *Utrum, si homo stetisset, in cognitione profecisset per temporum intervalla*.)
+- **q2** = *Secundo vero quaerendum est quantum ad **defectum**.*
+- **q3** = *Tertio quaeritur de ipsa cognitione quantum ad **complementum et statum**.*
+
+Per Override §5 the ART II opener (*De cognitione primorum parentum* + *circa hoc quaeruntur tria*) folds into **a2-q1** — no standalone divisio chunk. **Verify Primo/Secundo/Tertio alignment** when dispatching a2-q1.
+
+**Structure map (remaining d.23 skeletons):** d23-a2-q1 (ART II opener folded + QUAESTIO I *profectum*, raw ~37681, p.537+), d23-a2-q2 (*defectum*), d23-a2-q3 (*complementum et statum*), d23-dubia (DUB I–II, raw ~38448 → DISTINCTIO XXIV running head raw ~38497).
+
+**Pace gate:** d.23 is the last distinction before the d.21–d.30 decade-polish blocker fires at d.30 close — no polish gate yet at d.23.
 
 ## 2026-05-29 — d23-a1-q2 promoted (Tier-2)
 
