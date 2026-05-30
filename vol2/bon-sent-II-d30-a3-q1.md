@@ -6,558 +6,426 @@ distinctio: 30
 articulus: 3
 quaestio: 1
 type: quaestio
-line_start: 50616
-line_end: 51149
-word_count_latin: 7710
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Utrum aliquid transeat in veritatem humanae naturae per actum generativae"
+title_en: "Whether anything passes over into the truth of human nature through the act of the generative power"
+printed_pages: [726, 727, 728, 729, 730, 731, 732, 733, 734]
+pdf_pages: [748, 749, 750, 751, 752, 753, 754, 755, 756]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 726–734"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw 50602–51149) cross-checked column-by-column against 450 dpi PDF (pp. 726–734, PDF 748–756, offset pdf = printed + 22), ARTICULUS III opener folded in, marginal editorial glosses trimmed, fresh literal English translation, full apparatus from raw OCR + PDF footers (44 entries covering all 56 per-page Quaracchi footers, p.726 footer block received from a2-q2 hand-off), three-part SCHOLION translated (2026-05-30)"
 format_version: 1
 ---
 
-# bon-sent-II-d30-a3-q1
+# I Sent. d. 30, a. 3, q. 1
+## *Utrum aliquid transeat in veritatem humanae naturae per actum generativae*
+
+---
 
 ## Latin
+<!-- page 726 -->
 
-QU.\ESTIO I.
-                        Utrum aliquid transeat in veritatem humanae naturae per acturn getierativae.
+### Articulus III. *De veritate humanae naturae.*
 
-                 Circa primum sic proceditur et quaeritur, utrum            tantum raultiplicatam cernimus, ut multa hominum
-           aliquid transeat in veritatem humanae naturae per                millia ex eo iam excrevisse videamus».
-           actum generativae. Et quod non , videtur :                             2. Item , hoc ipsum ostenditur secundo auctori-
-                 1. Primo auctoritate doctorum authenticorum ,              tate Sanctorum. Dicit enim Anselmus in libro de Con-
-Ad opposi- videlicet Magistri Sententiarum et Hugonis. .\it eniin           ceptu virginali , capitulo secundo "^ , loquens de pri-
-           Magister in littera^ sic: « Omne quod in humanis                 mis parentibus : « Quia tota humana natura in illis
-           corporibus naturaliter est, descendit a primo parente            erat, et nihil extra ipsos erat, tota infirmata est et
-           lege propagationis et in se auctum et multiplicatum              corrupta». Et quod maius est, Augustinus decimo
-           est, nulla exteriori substantia in id transeunte». Si-           super Genesim ad litteram ' dicil, quod nos fuimus
-           militer magister Hugo de sancto Victore in fine sex-             in Adam secundum rationem seminalem et secun-
-           tae partis ^ : « De substantia costae, in se divina              dum corpulentam substanliam ; caro autem Chri-
-           virtute absque extrinseco additamento multiplicata ,             sti fuit solum secundum corpulentam substantiam.
-           corpus mulieris factum est, quemadmodum postea                   Quodsi baec vera sunt, quod tota caro et omnium
-           naturam humanam , a primis parentibus in subse-                  posterorum caro fuit in Adam : ergo nihil extrinse-
-           quentem generationem seminatam, a modico iam in                  cum per virtutem generativam transit in ipsani.
+Consequenter circa tertium articulum quaeritur de veritate humanae naturae. Et cum duo concurrant ad hoc, quod aliquid dicatur de veritate humanae naturae, materia videlicet et forma, ad quartum librum spectat dicere de veritate humanae naturae ex parte formae, ubi agitur de resurrectione; ad hunc vero locum spectat inquirere de veritate humanae naturae ex parte materiae, ubi inquirit Magister[^1], utrum aliquid extrinsecum in veritatem humanae naturae possit transire. Circa hoc igitur duo quaerenda sunt.
 
+Primo quaeritur, utrum aliquid transeat in veritatem humanae naturae per actum generativae. Secundo quaeritur, utrum aliquid transeat in veritatem humanae naturae per opus nutritivae.
 
-            ' Cap. 3. — Paulo ante in te.xtu Hugonis cod. T (a secunda            ^ Pro et nihil extraipsos erat textus originalis elexlra illos
-        manu) contrahimus pro contraximvs.                                  de illa nihil erat.
-            - Dist. 4.4. p. 1. a. I. et 2.                                        ' Cap. 19-21. Codd. et vetustiores edd. hic non recte si-
-            ^ Hic c. 14. seq.                                               gnant librum nonuni, in quo (c. 16. n. 30. et c. 18. n. 34.)
-            * Hic c. 1 4.                                                   pauca tantum occurrunt, quae ad rem pertinent; sed postea in
-             ^ Libr. I. c. 37. In textu allato post factum esi a Bonav.     corp. quaestionis ipsi quoque allegant librum decimum. — Paulo
-        plures propositiones omissae sunt, quae in oi'iginali exhibentur,   infei-ius verbis tota caro codd. L 0 addunt humana, et in fine
-        ubi et pro ex eo (versus finem verb. citt.) legitur ex ea.          arg. pro ipsam Val. substituit ipsum.
-                                             DIST. XXX. ART. III. QUAEST. 1.                                                 727
+### Quaestio I. *Utrum aliquid transeat in veritatem humanae naturae per actum generativae.*
 
-       3. Item, hoc videtur auctoritate Evangeliorum,              primo parente decisum fuit in se ipso, sine alterius
-Matthaei decimo quinto ' : Omne quod in os intrat,                 appositione.
-in ventreni vadit et in secessum emittitur : ergo non                    Sed contra : 1. Philosophus in libro de Anima-Fnndamenia.
-videtur, quod ex aliquo, quod ab homine comedi-                    libus " dicit , quod semen est « superfluitas ultimi
-tur , prolis corpus constituatur. Et Marci septirao ' :            cibi »: si ergo medicis in his quae dicunt circa suam
-Omne extrinsecum introiens in hominein non po-                     scientiam, credendum est, et naturalibus similiter in
-test eum coinquinare , quia non inlrat in cor, sed                 his quae dicunt circa suam scientiam, credendum est;
-in ventrem et in secessum exit , purgans omnes                     cum determinare de generatione hominis pertineat
-escas. Ibi Glossa: «Quamvis tenuissimus humor et h-                ad philosophum naturalem : credendum est ei, quod
-quens esca, cum in venis et artubus decocta fuerit                 semen sit ex superfluo nutrimenti , sic quod aUquid
-et digesta, per occultos meatus, quos Graeci poros                 extrinsecum in veritatem humanae naturae possit
-vocant, ad inferiora dilabitur et in secessiim vadit».             transire.
-       4. Item , hoc ipsum videtur ratione. Primo per                   2. Item , super illud Lucae undecimo ' : Beatus
-veritatem generationis. « Generare enim est de sui                 venter etc. , interlinearis : « Ex eodem fonte et lac
-substantia aliquem producere^»: si ergo omnes vere                 nutriendis et semen procreandis pueris emanat; de
-et recte dicuntur ab Adam geniti et filii Adae, omnes              semine ergo Virginis potuit concipi, qui eius lacte
-sumus de ahquo, quod esset eius substantia, pro-                   potuit enutriri ».
-pagati. Sed qua ratione manus mea vel pes vel aliud                      3. Item , Augustinus in libro de Vera Religione ' :
-membrum constitui habet ex eo quod fuit in Adam,                   « Alimenta corpori non apta per congruos meatus
-eadem ratione et singula membra. Videtur igitur ,                  eiiciuntur, quorum ahud feculentissimum redditur
-quod totum corpus cuiushbet hominis ex Adae se-                    terrae ad alias formas assumendas , aliud per totum
-mine fuit constitutum ; et si hoc , nihil extrinsecum              corpus exhalat, aliud totius animalis latentes nwme-
-transit in veritatem humanae nalurae per actum vir-                ros accipit et inchoatur in prolemi). Numeros au-
-tutis generativae.                                                 tem vocat seminales rationes. Per istam auctoritatem
-       8. Item, hoc ipsum videtur per legeni cogna-                expresse colligitur, quod semen sit ex alimento. Si
-tionis * : quoniara stipes non potest contrahere cum               forte ftt dicas, quod Augustinus intelligit quantum
-aliquo ex ipso procedente , nec ahqui approximantes                ad partem seminis secundum materiam; obviat ipsa
-stipiti possunt ad invicem contrahere ; hoc autem non              auctoritas, quae dicit, quod « alimentum accipit nu-
-est ob aliud nisi propter unitatem carnis et sangui-               meros», id est rationes seminales; illa enim pars di-
-nis : ergo videtur , quod non de superfluitate nutri-              citur esse pars secundum speciem, super quam fun-
-menti, sed de substantia patris proles generetur, et               datur virtus activa et conversiva. In eadem etiam
-non solum de substantia patris proximi, immo etiam                 auctoritate subiungit. quod ex illo alimento sic tra-
-patris remoti ; alioquin vana erit lex cognationis ;               ducto omnia membra formantur. Et planum est se-
-quod non solum est contra veritatem sacrae Scriptu-                cundum medicos, quod membra radicalia ex parti-
-rae, immo etiam contra dictamen naturae.                           bus secundum speciem habent formari sive ex hu-
-      6. Item, hoc ipsum videtur per conditionem                   more radicali.
-resurrectionis \ Necesse est enim, unicuique animae                      4. Item, hoc ipsum videtur ratione. Omne au-
-proprium corpus reddi. Esto igitur, quod aliquis nu-               gmentum, quod fit per naturam, vel fit per rare-
-tritus de carnibus humanis generet prolem ; si semen               factionem, vei fit per additionem. Si ergo ex illo
-illud de ahmento sumtum est, cum huius alimentum                   semine, quod ab Adam decisum fuit, omnes homi-
-esset de veritate corporis alterius hominis, rediret               nes naturaliter producti sunt; necesse est, illud esse
-ad primum corpus : ergo iste non resurgeret . qui                  auctum vel per rarefactionem , vel per additionem.
-generatus est ex iUo semine . cum anima privaretur                 Sed per rarefactionem non posset, «quia nec tot atomi
-proprio corpore. Si igitur hoc est impossibile, restal,            fuerunt in illo semine, quot homines sunt ex eo pro-
-et illud impossibile esse, videlicet quod aliquid ex-              ducti »^: si ergo auctum est, hoc est per additionem :
-trinsecum transeat in semen ; augetur igitur quod a                aliquid igitur extrinsecum intrat in seminis humani
+Circa primum sic proceditur et quaeritur, utrum aliquid transeat in veritatem humanae naturae per actum generativae. Et quod non, videtur:
 
-     ' Vers. 17.                                                       = Cfr. IV. Sent. d. 44. p. I. a. 2. q. 1, ubi de hoc argu-
-     2 Vers. 18. seq. , ubi Vulgata pro coinqiumre exhibel         mento specialiter agitur.' — Paulo inferius pro si semen illud
-commimicare , deinde posl in cor adiicit eius et post ventrem      de edd., excepta I, si solum semen de.
-verbum vadit. — Glossa, quae Bedae est (super liunc loc),               8 Vide supra pag. 479, nota 5. — Mox in Vat. et edd. 2,
-habetiir apud Slrabum et Lyranum.                   ., -           3 nec non in nonnullis codd. desunt verba et naturalibus usque
-     ^ Secundum Damascenum, de quo vide supra pag. 479,            ad credendum est Inclusive.
-nota I . — Pro siri substantia Vat. cum edd. 3 , 4 sita subslan-        ' Vers. 27. — Glossa est ordinaria; invenies eam apud
-tia, et immediate post pro aliquem eaedem edd. nec non ed. 2       Strabum et Lyranum, qui tanien pro et lac legunt et lacte.
-aliquid. Propositionem seq. Vat. et edd. 3, 4 sic transformare          8 Cap. 40. n. 74. — De, rationibus seminalibus vide supra
-sibi sumserunt: si ergo... et filii Adae omnes sumus, sumus        d. 18. a. 1. q. 2. seq. ; de carne secundum materiam et spe-
-de atiquo ex eius substantia propagati. Versus flnem arg. pro      ciem, hic schol. et q. 2; de humore radicali cfr. tom. L pag.
-ex Adae Vat. cum edd. 2, 3 substituit ex eodem, et deinde          316, nota 12.
-veritatem commutavit in virtutem.                                      ' Secundum Magistrum, hic c. 13. — Mox Vat. cum edd.
-    ■" De qua vide IV. Sent. d. 40. per totani.                    3, 4 corporis pro seminis.
-         728                                              SENTENTIARUM LIB. II.
+1. Primo auctoritate doctorum authenticorum, videlicet Magistri Sententiarum et Hugonis. Ait enim Magister in littera[^2] sic: «Omne quod in humanis corporibus naturaliter est, descendit a primo parente lege propagationis et in se auctum et multiplicatum est, nulla exteriori substantia in id transeunte». Similiter magister Hugo de sancto Victore in fine sextae partis[^3]: «De substantia costae, in se divina virtute absque extrinseco additamento multiplicata, corpus mulieris factum est, quemadmodum postea naturam humanam, a primis parentibus in subsequentem generationem seminatam, a modico iam tantum multiplicatam cernimus, ut multa hominum millia ex eo iam excrevisse videamus».
 
-         constitutionem. Quodsi tu dicas , tertiura niodum               quia hoc facit, quasi faceret per naturani. Natura tripliciteiji
-         augendi esse per muUiplicationem naturae possibi-               enim alendo et nutriendo quasi fovet extrinsecus ; Improljali
-         lem; obiicitur contra hoc per Hugonem de sancto                 sed Deus est, qui nutriraentum praestat intrinsecus ".
-                                                                         — Huic autera raodo dicendi obviat et sensus et ratio
-         Victore , qui dicit ' , quod « facere aliquid in maius
-         secundum substantiara et quantitatera sine apposi-              et auctoritas. Sensus obviat, quia sic videmus homi-
-         tione, hoc est soli Deo possibile ».                            nem ex homine produci , sicut asinum ex asino, et
-               0. Item , impossibile est , aliquem per virtutera         sicut plantam ex planta. Si igitur aUa corpora na-
-         nutritivam nutriri , nisi apponatur aliquid extrinse-           turalia fiunt ex materia addita , et sensus noster non
-         cum , per quod quis nutriatur : ergo pari ratione               fallitur ; iuQicandum est, similiter esse circa corpora
-         irapossibile est, virtutem augmentativam. augraentare           humana. — Ralio etiam obviat , quia non est gene-
-         sut)stantiam , nisi addatur aliquod extrinsecum, per            ratio naturalis nisi ea , in qua natura est vere agens
-         quod augmentetur ; aut si potest in se ipso augeri,             et vere producens sibi siniile. Si igitur multiphcatio
-         quare non potest per se ipsum nutriri^?                         horainis ex horaine esset per virtutem supra natu-
-               6. Item , de nobilitate agentis" est , quod possit        ram, et non per virtutem ipsitis naturae; genera-
-         aliam materiara ad se ipsuni trahere et in se con-              tio horainis ex horaine non esset naturalis; et si
-         vertere, sicut ignis convertit in se aerera. Si ergo            hoc, non esset generatio vera. — Repugnat etiam
-         potentia generativa in homine corapleta est et perfe-           auctoritas. Dicit enim Augustinus decirao super Ge-
-         cta , et ratio serainahs in ipso est maxime activa ;            nesira ad litterara ' , quod nos fuinius in Adara secun-
-         videtur , quod possit agere in extrinsecam maleriara            dum corpulentam substantiam et secundura rationem
-         et in se convertere et rationem seminalem ei com-               seminalem, Christus tantum secundum corpulentam
-         raunicare ; et si hoc,per opus virtutis generativae             substantiam. Sed si corpora nostra educerentur ex
-         in veritatem huraanae naturae potest aliquid extrin-            semine Adae per virtutera supra naturam, iam in
-         secura transire.                                                ipso deberent dici, sicut et Christus, esse solum-
-                                                                         modo secundura corpulentam substantiam , non se-
-                               CONCLUSIO.                                cundum rationem seminalem, cum seminalis ratio semiQali           \:
-                                                                                                                                    (Jaid iS;
-                                                                         dicat vim activam.
-                                                                                                                                  tio 3.    i
-         Aliquid de alimento transil in veritatem humanae                       Alii vero sustinent praedictara positionem, di-
-              naturae et simul cum liumido radicali fit de               centes , quod talis multiplicatio est per virtutera su- loterpn '
-              veritate prolis.                                           percaelestem. Corpus enim quintae essentiae sive
-                                                                         luminosum natum est ex se eraittere luraen et se*
-                     Respondeo ; Intelligendum est hic , quod , sicut    ipsura multiplicare, non educendo naturam luminis
-ppinio Mi- expresse patet in littera ' , opinio Magistri Sententia-      ex illo corpore, quod illurainat, sed simul rauItipU-
-               rum fuit, quod nihil extrinsecum in veritatera hu-        cat materiam et formam. Sic et in proposito dicere
-               manae naturae per generationem transeat. Haec au-         voluerunt, quod quia in natura humana multum est
-               tera positio multum apparet esse probabilis , si quis     de natura quintae essentiae, potest ipsa in se ipsa
-               attendat verba Sanctorum , et siraul cum hoc condi-       multiplicari. — Huic etiam raodo dicendi obviat sen-
-               tionem resurrectionis et legem cognationis. Hane igi-     sus et ratio et auctoritas. Semus, quia nullura Improb:
-                                                                                                                                  tnplicil
-Triplex m- tur positionem quidani sustinuerunt dicentes, quod
-terpretatio
-                                                                         corpus caeleste multiplicat lumen suura in se, sed
-               talis multiplicatio sine extrinseci appositione in Iiu-   si raultiplicat, multiplicat extra se et in materia
-               mana natura fit per virtutera supernatwalem; alii,        extrinseca. Et iterum, non videmus, quod sol in'
-               quod hoc fit per virtutem supercaelestem ; tertii ,       multiplicando generet solera vel producat solem; igi-
-               quod hoc flt per virtutera elementarem.                   tur si secnndum naturam caelestem attenditur ista
-                     Primi dixerunt, quod sicut Deus sibi reservat       raultiplicatio in humano semine; nec multiplicabi-
-Ia[erpit,'l.i- animarura creationem propter earum immortahtatera;
-tio t.
-                                                                         tur in se ipso nisi aliquo extrinseco superaddito ,
-               sic etiam substantiam corporura humanorum multi-          nec ex tali multiplicatione homo producetur ab ho-
-               plicat et augmenlat sine additione extrinseca, sicut      mine, sicut nec sol producitur a.sole. — Ratio
-               multiplicavit panes evangeIicos% et sicut multiplica-     etiam obviat, quoniara rauItiplicaUo per virtutera
-               vit costam, de qua formata est Eva ; et hoc, quia         creatara est ab aliquo siraili actiuo. Si ergo formae
-               corpora huraana sunt ad imraortalitatem ordinata.         tantum est agere '" ; et forma non assimilatur mate-
-               Non tamen dicitur facere miracula sic multiplicando.      riae, sed alteri formae : impossibile est igitur, ali-
+2. Item, hoc ipsum ostenditur secundo auctoritate Sanctorum. Dicit enim Anselmus in libro *de Conceptu virginali*, capitulo secundo[^4], loquens de primis parentibus: «Quia tota humana natura in illis erat, et nihil extra ipsos erat, tota infirmata est et corrupta». Et quod maius est, Augustinus decimo super Genesim ad litteram[^5] dicit, quod nos fuimus in Adam secundum rationem seminalem et secundum corpulentam substantiam; caro autem Christi fuit solum secundum corpulentam substantiam. Quodsi haec vera sunt, quod tota caro et omnium posterorum caro fuit in Adam: ergo nihil extrinsecum per virtutem generativam transit in ipsam.
 
+<!-- page 727 -->
 
-               ' Libr. I. de Sncram. p. VL c. 37.                        aa et alii cum ed. I mirabilia, de quo vide supra d. 18. a. I.
-               ' Vat. omittil nulriri et pro m se ipso et per se ipsmn   q. 2.« adCfr.5. I. Cor. 3. 7.
-         exliibet in se ipsa et per se ipsam.
-               ' Cod. aa et ed. 1 augmentantis. Subinde pro materiam          ' Cap. 19-21.
-         Vai. cum edd. 2, 3 naturam.                                          * Vat. omittit se et mo.x pro multiplicat substituit multi-
-               ■* Hic c. 14. scq.
-               5 loan. 6, 11. seqq. — De formalione Evae de costa Adae   plicando.
-                                                                              ' In cod. cc et ed. I deest in.
-         cfi'. Gen. 2, 21. — Paulo inferius pro miracula codd. F K T Z        "> Vide supra pag. 89, nota S.
+3. Item, hoc videtur auctoritate Evangeliorum, Matthaei decimo quinto[^6]: *Omne quod in os intrat, in ventrem vadit et in secessum emittitur*: ergo non videtur, quod ex aliquo, quod ab homine comeditur, prolis corpus constituatur. Et Marci septimo[^7]: *Omne extrinsecum introiens in hominem non potest eum coinquinare, quia non intrat in cor, sed in ventrem et in secessum exit, purgans omnes escas*. Ibi Glossa: «Quamvis tenuissimus humor et liquens esca, cum in venis et artubus decocta fuerit et digesta, per occultos meatus, quos Graeci poros vocant, ad inferiora dilabitur et in secessum vadit».
 
+4. Item, hoc ipsum videtur ratione. Primo per veritatem generationis. «Generare enim est de sui substantia aliquem producere[^8]»: si ergo omnes vere et recte dicuntur ab Adam geniti et filii Adae, omnes sumus de aliquo, quod esset eius substantia, propagati. Sed qua ratione manus mea vel pes vel aliud membrum constitui habet ex eo quod fuit in Adam, eadem ratione et singula membra. Videtur igitur, quod totum corpus cuiuslibet hominis ex Adae semine fuit constitutum; et si hoc, nihil extrinsecum transit in veritatem humanae naturae per actum virtutis generativae.
 
+5. Item, hoc ipsum videtur per legem cognationis[^9]: quoniam stipes non potest contrahere cum aliquo ex ipso procedente, nec aliqui approximantes stipiti possunt ad invicem contrahere; hoc autem non est ob aliud nisi propter unitatem carnis et sanguinis: ergo videtur, quod non de superfluitate nutrimenti, sed de substantia patris proles generetur, et non solum de substantia patris proximi, immo etiam patris remoti; alioquin vana erit lex cognationis; quod non solum est contra veritatem sacrae Scripturae, immo etiam contra dictamen naturae.
 
+6. Item, hoc ipsum videtur per conditionem resurrectionis. Necesse est enim, unicuique animae proprium corpus reddi. Esto igitur, quod aliquis nutritus de carnibus humanis generet prolem; si semen illud de alimento sumtum est, cum huius alimentum esset de veritate corporis alterius hominis, rediret ad primum corpus: ergo iste non resurgeret, qui generatus est ex illo semine, cum anima privaretur proprio corpore. Si igitur hoc est impossibile, restat, et illud impossibile esse, videlicet quod aliquid extrinsecum transeat in semen; augetur igitur quod a primo parente decisum fuit in se ipso, sine alterius appositione.
 
-                                                                                                                                            H
-                                                       DIST. XXX. ART. HI. QIIAEST. 1.                                                     729
+Sed contra: 1. Philosophus in libro *de Animalibus*[^10] dicit, quod semen est «superfluitas ultimi cibi»: si ergo medicis in his quae dicunt circa suam scientiam, credendum est, et naturalibus similiter in his quae dicunt circa suam scientiam, credendum est; cum determinare de generatione hominis pertineat ad philosophum naturalem: credendum est ei, quod semen sit ex superfluo nutrimenti, sic quod aliquid extrinsecum in veritatem humanae naturae possit transire.
 
-       quid multiplicari per virtutem creatam quantum ad                    iectum transmutationis nisi sub aliquo esse. Unde naiio 2.
-       principium materiale , nec materiam elementarem                      etsi materia corporalium per intellectum abstrahi
-       nec caelestem. — Auctoritas etiam repugnat, quo-                     possit a forma corporum, nunquam tamen per vir-
-       niam lumen egrediens a corpore luminoso corpus                        tutem alicuius creaturae potest exspoliari omni ex-
-       non est nec habet in se materiam ; et hoc supra                      tensione et forma corporea ; propter quod in pluri-
-       planius osfensum fuit distinctione decima tertia ' , ubi             bus locis dicit Augustinus , quod impossibile est, ex
-       et auctoritates ad hoc inductae sunt. Difficile est etiam
-                                                                            corpore fieri spiritum , et super Genesim ad litteram "
-            explicare secundum istam positionem, qualiter na-               et in hbro de Immortalitate animae. Si igitur haec
-            tura quintae essentiae intret constitutionem humanae            materia sub tali esse statum habet et determinatio-
-            naturae. Et nisi hoc sane intelligatur, sicut explana-          nem in sua extensione. ultra quam natura non potest
-            tum fuit supra distinctione decima septima ^ , non              procedere , pro eo quod , sicut dicit Philosophus ^ ,
-            potest de facili sustineri.                                      n omnium natura conslantium terminus est et ratio
-                  Tertii vero sustinent , quod talis multiplicatio flt      magnitudinis et augmenti » ; et alibi , quod ex uno
-  larpreta- per virtutem inferioris naturae, concurrente simul              pugillo terrae potest generari ignis in millecupla pro-
-   3.
-            potentia susceptiva ex parte materiae et acliva ex              portione, ex uno taraen pugillo non possunt gene-
-            parte formae. Materia enim , quantum est de se ,                rari nisi decem aquae : si hoc , inquam , ita est, im-
-            non habet extensionem , sed quod extendatur tan-                possibile est ponere, quod aliqua res corporalis in
-            tum vel plus , hoc est ratione formae sibi adiunctae.           se ipsa augeatur absque sua rarefactione et alterius
-            Unde quantumcumque parum ponatur de materia in                  appositione ; hoc dico de operatione naturae. Et at- soiandan
-            aliquo corpore , capax esset valde magnae extensio-             tendendum est hic, quod longe aliter loquendum
-            nis, si esset aliquod agens, quod posset formam tan-            est de materia secundum essentiam et secundum
-            tae extensionis imprimere. Ex parte vero formae est             esse sive secundum substantiam ; nec esl dicendum,
-            ibi potentia multiplicandi sibi simile ; et hinc est ,          quod tantum sit de materia in uno parvo lapide ,
-            quod cum semen adiuvatur et confovetur per ali-                 sicut in uno monte, loquendo secundum esse sive
-            mentum extrinsecum, vis illa seminalis in sua ma-               substantiam ; quamvis in materia secundum essen-
-            teria potest se ipsam multiplicare et crescere, nullo           t.iam non sit considerare tantum et quantum. Et sic
-            repugnante ; et ideo non oportet , aliquid extrinsecum          ratio non concordat huic positioni.
-            in veritatem humanae naturae transire. Et hoc vide-                  Auctoritas etiam obviat. Dicit enim Hugo in sex- Raiio 3.
-            tur Augustinus'' sentire, cum dicit, quod « ex uno              ta parte", ubi distinguit sex opera, o quorum pri-
-            semine segetes segetum et silvae silvarum, greges               mum est de nihilo aliquid facere. Secundum est de
-            gregum , populi populorum educi possunt, ita quod               aliquo aliquid facere secundum substantiam et quan-
-            nihil reperitur postea in omnibus illis, quod prius             titatem in maius. Tertium opus est de aliquibus ali-
-            non fuerit invisibihter in semine illo primo ».                 quid facere secundum substantiam et quantitatem in
-                  Huic autem positioni, etsi rationabilior ceteris          minus. Quartum opus est de aliquo aliqua facere ,
-' TobatQT videatur , nihilominus tamen , sicut et praedictis, re-           non tamen secundum substantiam et quantitatem , in
-■ liciter.
-            pugnat sensus et ratio et auctoritas.                           maius. Quintum opus est de aliquibus aliqua facere,
-                  Seivsus quidem primo repugnat. Nam si in his              non tamen secundum substantiam et quantitatem , in
-  utio 1. quae generantur , fleret crementum per multiplica-                minus. Sextum opus est de aliquo nihil facere ». De
-            tionem absque additamento ; tunc mundus iste es-                his sex generibus operum subiungit, quod « primum
-            set multo maior, quam fuerit a principio , et visibi-           opus et secundum et tertium et ultimum sunt soli
-            liter cresceret quotidie. Non enim posset dici, quod            Deo possibilia ». Cum igitur talis multiplicatio , ut
-            per resolutionem decem grana frumenti reducantur                ibidem dicit , pertineat ad secundum genus operis ,
-            ad unum.                                                        non ergo flet virtute naturae inferioris. — Quodsi
-             Ratio etiam repugnat , quia materia non est sub-               ista auctoritas non sufficit, ostenditur hoc auctori-
+2. Item, super illud Lucae undecimo[^11]: *Beatus venter* etc., interlinearis: «Ex eodem fonte et lac nutriendis et semen procreandis pueris emanat; de semine ergo Virginis potuit concipi, qui eius lacte potuit enutriri».
 
+3. Item, Augustinus in libro *de Vera Religione*[^12]: «Alimenta corpori non apta per congruos meatus eiiciuntur, quorum aliud feculentissimum redditur terrae ad alias formas assumendas, aliud per totum corpus exhalat, aliud totius animalis latentes numeros accipit et inchoatur in prolem». Numeros autem vocat seminales rationes. Per istam auctoritatem expresse colligitur, quod semen sit ex alimento. Si forte fit dicas, quod Augustinus intelligit quantum ad partem seminis secundum materiam; obviat ipsa auctoritas, quae dicit, quod «alimentum accipit numeros», id est rationes seminales; illa enim pars dicitur esse pars secundum speciem, super quam fundatur virtus activa et conversiva. In eadem etiam auctoritate subiungit, quod ex illo alimento sic traducto omnia membra formantur. Et planum est secundum medicos, quod membra radicalia ex partibus secundum speciem habent formari sive ex humore radicali.
 
+4. Item, hoc ipsum videtur ratione. Omne augmentum, quod fit per naturam, vel fit per rarefactionem, vel fit per additionem. Si ergo ex illo semine, quod ab Adam decisum fuit, omnes homines naturaliter producti sunt; necesse est, illud esse auctum vel per rarefactionem, vel per additionem. Sed per rarefactionem non posset, «quia nec tot atomi fuerunt in illo semine, quot homines sunt ex eo producti[^13]»: si ergo auctum est, hoc est per additionem: aliquid igitur extrinsecum intrat in seminis humani
 
-             > Art. 3. q. I.                             ' Art. 2. q. 2.    dum antiquam translationem sic sonat ; « Si ex aquae pugillo
-            ^ De Vera Relig. c. 42. n. 79; De uno quippe [semine]           erunt pugilli aeris decem, idem erit ». Quae verba Averroes
-       secundu ni suani naturam possunt vcl segetes segetum , vel           ita exponit; « Si dixerimus, quod unus pugillus aquae aequalis
-       silvae silvarum, vel greges gregum, vel populi populorum per         est in quantitate decem pugillis aeris, hoc non erit, ni.si ha-
-       saecula propagari, ut nullum lolium sit vel nullus pilus per tam     beant subiectum commune ambobus, v. g. quando extendetur
-       numerosam successionem , cuius non ratio in illo primo et uno        et rarefiet, fiet aer, quando condensatur et constringitur , flet
-       semine fuerit.                                                       aqua ». In Comment. super II. de Anima, text. 97. idem dicit,
-            * Libr. VII. c. 12. n. 19. et c. 20. n. 26. seq.; de Immort.    minimam dimensionum, quam materia per rarcractionem possit
-       animae, c. 13. n. 20. seqq. Posteriore loco probat, animam           recipere, dimensionem esse terrae, et maximam dimensionem se-
-       non posse converti in corpus. Cfr. supra d. 18. a. 2. q. 3. —        cundum millesimam partem esse dimensionem ignis. B. Albert.,
-       De materia vide supra d. 3. p. II. a. I. q. 2. seq.                  in hunc loc, tr. 3. c. 25., ait: Dicamus igitur, quod ex uno
-            ° Libr. II. de Anima, text. 41. (c. 4.). — Seq. sententia ,     pugillo lerrae flant per rarefactionem mille pugilli ignis, eo quod
-       Philosopho tributa, propinqua et finilima est sentenliae illi quae   corpus rarius maiorem habet quantitatem etc.
-                                                                                 « Libr. I. c. 37.
-       habetur II. de Generat. et corrupt. text. 37. (c. 6.) et secim-
-                 S. Bonav. — Tom. II.                                                                                             92
-         730                                                   SENTENTIARmi LIB. II.
+<!-- page 728 -->
 
-             tate Aiigustini, quinto siiper Genesim ad litteram ,               esse convenientem naturae. Convenit etiam, ut dicunt,
-             circa finem libri ' , ui3i sic ait : « Illa quae produ-            hoc dispositioni divinae et ordinationi corporum ad
-             cuntur ex semine, in semine omnia fuerunt primi-                   resurrectionem. Cum enim semen non resurgat in
-             tus, non mole corporeae magnitudinis , sed in po-                  generante, sed in genito, non videtur humor ille
-             tentia causali. Nam illa magnitudo copia terrae hu-                fuisse de generantis veritate, sed potius de humidi
-             morisque congesta est ; sed illa in exiguo grano                   superfluitate.                                         triplicitfii
-             mirabilior praestantiorque vis est, qua valuit adia-                     Licet autem hic modus dicendi multum videa- improbat
-             cens humor, commixtus terrae, tanquam materies                     tur probabilis attendenti verba Philosophi ^; obviat
-             verti in ligni ilhus qualitatem, in ramorum diffusio-              tamen ei, sicut et ahi raodo dicendi, et sensus et                  '
-             nem , in foliorum viriditatem » . Non igitur semen in              ?'atio et auctoritas. — Semus quidem, quia vide-
-             semetipso augetur sine alterius appositione. Adhuc                 mus, prolem ahquando assimilari proavo, et sicut
-             expressius super Genesim ad litteram, in flne deci-                assimilatur proavo, ita potest assimilari ei qui prae-
-             mi ^ : « Quid absurdius quam putare , ullum esse                   cessit usque ad generationem decimam: ergo et sic '
-             corpus , manente suae naturae quantitate , quod un-                deinceps: ergo videtur, quod aliquid sit in isto primo'' '
-             dique crescat , nisi rareflat » . Ergo si quantitas se-            filio traductura a parente primo. Et iterum, cum
-             minis decisi manet et non rarefit et undique crescit,              videamus, hominem ex coitu attenuari, et ex frequen-
-             hoc non potest esse sine appositione materiae , nisi               tatione talis aclus mortem accelerari; videtur, quod
-Epiiojus de hoc fiat mirabiliter. — Quocumque igitur praedicto-                 non solum in semine flat superflui emissio, immo
-             rum modorum sustmealur opmio Magistri, sive etiam                  quod etiam alicuius humidi radicalis; et ita proles
-             omnes modi conflentur in unnm, sive per se quili-                  non tantum est de superfluitate alimenti, sed etiam
-             bet adaptetur; plurima occurrunt difficiha, propter                de veritate generantis. — Ratio etiam obviat, quia
-             quae multi i-ecusant opinionem Magistri sustinere in               si solum esset proles de superfluitate cibi patris,
-             parte ista.                                                        nec esset vera generatio, cum generatio sit de sub-
-                   Secunda opinio circa islam positionem est ali-               stantia generantis, nec esset vera cognatio; immo
-   opinio 2. quorum sequentium verba naturalium et medicorum                    magis attineret homo porco, de quo sumtum est nu-
-             dicentium , quod mediante virtute generativa non so-               trimentum , quam patri generanti. — Auct07ntas
-             lum aliquid transit in veritatem liumanae naturae,                 etiam repugnat, quoniam expresse dicit .\ugustinus
-             immo tota veritas prolis generatae esl ex extrinseco               super Genesim ad litteram, quod omnes fuimus in
-             addito, quia est ex superfluo nictrimenli. Hoc autem               Adam secundura corpulentam substantiam et se-
-                                                                                cundum seminalem rationem. Et quod raaius est,
-             dicunt esse , quia modus ' operandi est orclinatus
-             et deleclabilis et expeditus. Ordinatus, quia ibi in-              Apostolus ' dicit, quod omnes in Adam peccavimus , et
-             cipit operatio generativae , ubi cessal operatio nutri-            quod Levi in lumbis erat Abrahae, quando decima-
-             tivae. Natura enim per prius intendit sibi quam alii;              tus fuit, ad Hebraeos septimo.
-             et ideo materia generationis est superfluitas ultimi                     Ex hac igitur positione , si pertractetur , sequi ladieium
-             cibi , quae quidem, etsi sit superflua operi nutritivae,
-             est tamen necessaria operi generativae. Modus etiam                videtur , quod
-                                                                                nutrimenti , non siesset
-                                                                                                     oninino  esset proles
-                                                                                                         generatio         de superfluo
-                                                                                                                     nec cognatio  vera ; nioue.'"
-             iste est delectabilis , quoniam natura delectatur in               ex praecedenti vero, si ponatur, quod nihil de ali-
-             emissione superflui et tristatur et dolet in emissione             mento transit in prolem , sequi videtur , quod non sit
-             necessarii et sibi coniuncti. Si ergo natura maxinie               generatio naturalis. — Si igitur pro cerlo habendum
-             delectatur in opere generativae , materia generationis             est, quod generatio hominis ex homine et vera est
-             est ex superfluo nutrimenti. Modus etiam iste est ex-              et naturalis est-  ; necesse . .
-                                                                                                               habemus , viara ,.mediam opinio     3.
-                                                                                                                                          coiiclnsio
-                                                                                inter utramque harum positionum tenere, ut dicamus,
-             peditus , quia , cum tertius ^ cibus sit In potentia
-             proxima, ut convertatur in singula membra, si na-                  quod aliquid de superfluo nutrimenti transit in se-
-              lura dei3et ex aliquo humore fabricare corpus, fa-                men, nec tamen semen omnino est de superfluo
-             bricabit ex illo; sed cum non fabricet ex necessario,              nutrimenti, immo aliquid est ibi de humido radi-
-             restat, quod fabricat ex superfluo. Quoniam igitur                 cali; et ex utroque habet semen propagari. Unde
-              natura operatur quanto potest brevius et delectabi-               sicut videmus circa nutritivam, quod est humiditas
-              lius et ordinatius, ideo dicunt, talem modum pro-                 radicalis et nutrimentalis , utpote illa quae fluit;
-              creandi, videlicet ex superfluo nutrimenti , maxime               sic intelligendum est etiam circa vim generativam,
+constitutionem. Quodsi tu dicas, tertium modum augendi esse per multiplicationem naturae possibilem; obiicitur contra hoc per Hugonem de sancto Victore, qui dicit[^14], quod «facere aliquid in maius secundum substantiam et quantitatem sine appositione, hoc est soli Deo possibile».
 
-                 ' Cap. 23. n. 4-i, ubi le.\lus origin. pro sed in poteniia          5 Codd. Q (W a secunda manu) aa hic viMiis. — Cfr. su-
-          causali liabel sed vi polenliaqiie causali. Vat. pro cau-sali siib-   pra d. 20. q. 2. seq.
-          stiluit causaliler el in fine le.xlus addit ac figuram, et in frii-         ■■ Cod. T (a secunda manu) ultimus.
-          ctmmi formas, et opulentiam.                                                = Scilicet quae speclant tuni ad naturam seminis (supra
-                 • Cap. 26. n. 48. — Val. sola liic ponil tcxtum integrum ;     pag. 478, nota 5.), tum ad nutrimentum et augmenlum (infra
-          Quid al}surdius quamputarc, massam cuiuspiam niclalli e,\ ali-        pag. 734, nota 3. ct pag. 733, nota 1.). — Paulo inferius Vat.
-          qua parte crescere posse, dum tenditur [tunditur], nisi decres-       aliis modis, multi codd. minus recte alii modi pro alii modo.
-          cat ex aUcra, vel ougeri latitudine, nisi crassitudine minuantur            ^ Codd. aa cc et ed. 1 omittunt primo.
-          [minualiirl] , aut ullum coipus esse, mancnte... nisi rarescat.            ' Rom. S, 12: In quo omnes peccaverunt. — Seq. textus
-           llaec il]i contra Tertullianum.                                      esl loc. cit. V. 9. scq.
-                                                          DIST. XXX. ART. III. QUAEST. I.                                                  731
-            quod iii ipsa est aliqua humidilas radicalis , et                  in veritatem humanae naturae mediante opere natu- Epuogas.
-            etiam aliqua fluens et refluens, et in generatione                 rae % quia non solum illud radicale , quod a patre
-            prolis una currit cum alia. Transmisit igitur Adam,                deciditur, fit de veritate prolis, sed etiam illud cum
-            quando generavit primum filium, aliquid de illa ra-                alimenti superfluo sibi iuncto, ita quod illud quod
-            dicali humiditate , et illud modicum ' per yirtutem                erat superfluum uni, sit necessarium alteri ; utrum-
-            naturae toti corpori filii fuit commixtum commir                   que enim erat fundamentum fabricae totius corporis
-            xtione perfecta , quia nullam partem erat signare in
-                                                                               generati.
-            corpore fllii, in qua non esset aliquid de illo hu-                      1. Ad illud autem quod primo ojiiicitur in con- soiuuo op-
-            mido, quod a patre traduxit. Si igitur fllius .\dae
-            in generando prolem similiter aliquid descindel3at                               eorum in Ilugonis
-                                                                                        de auctoritate
-                                                                               trarmmverbis
-                                                                               quod                                         communi- ■'""'"""'^
-                                                                                                                  magistri dicendum
-                                                                                                               et Magistri,
-                                                                                                       hac parte
-            de suo humido radicali; necesse erat , quod ali-                   ter non assentiunt', nec ego ipsos bene inlelligo;.Mod<sstiaau-
-            quid transmilteret de eo quod sumserat a patre, et
-            sic deinceps. Et pro tanto dicuntur omnes fuisse in                 nec  tamenaliam
-                                                                                intelligo    afflrmo, illos falsum dixisse, sed magis ''""''
-                                                                                                 opinionem.
-            Adam , non quia fuerit ibi lotaliter materia omnium                       2. kd illud quod obiicitur de auctoritate Ansel-
-            nostrorum corporum , sed quia ibi erat aliquanta                    mi et Augustini , iam patet responsio. Dicunt enim ,
-            materia et ratio seminalis sive potentia convertendi                quod in Adam fuimus, non quia nulla alia materia
-                ad se aliam naturam ", ita ut sufflceret ad omnium              conversa sit in corpus nostrum nisi illa, quae fuit in
-                procreationem, addito sibi illo in quo posset se mul-           Adam, sed si qua* aha conversa est, hoc non est
-     ;empiam. tiplicare. — Et est exemplum : si aliquis haberet                 nisi per coniunctionem cum illo quod ab Adam fuit
-                fermentum , quod commisceret commixtione perfecta               decisum. Et si tu dicas, quod ipse Anselmus dicit,
-                toti pastae ; nihil fieret de illa totali pasta fermen-         quod totaliter humana natura erat in Adam ; dicen- Notandmii.
-                tata, quod non diceretur fieri ^ de illa pasta ; et simi-       dum, quod hoc non dicit quantum ad existentiam
-                liter, si illa pasta commisceretur adhuc alii maiori           possibilem ", sed quantum ad existentiam actualem,
-                paslae , et sic procedendo quasi innumerabiles panes            quia nihil actu erat de veritate humanae naturae,
-                fermentati possent fieri ex modico fermento per ap-             nisi quod in Adam erat. Aliquid tamen possibile erat
-                positionem rei fermentabilis. Sic et in proposito ex           ad hoc, quod fieret de veritate humanae naturae,
-                modico semine per appositionem humoris suscepti-               sed hoc operatione et virtute carnis Adae.
-                bilis rationis seminalis possunt innumerabiles ho-                    3. Ad illud quod obiicitur de auctoritate Domini
-                mines propagari.                                               in Evangelio et de Glossa , dicendum , quod hoc ne-
-                      Et iste modus satis consonat rationi nec repu-           quaquam intelligit'" nec textus nec Glossa, quod horao
-    Dfirmatnr. gua,t verbis Philosophi et sumtus est ex verbis Au-             totum egerat, quod manducat, sed quia, cum homo
-               gustini, sicut patet aspiciendo auctoritatem prius' po-         manducat, fit separatio puri ab impuro per dige-
-               sitam, quae sumta est de libro de Vera Religione, ubi           stiones interius factas, et purura et naturae conve-
-               dicit, quod « alimentum accipit latentes numeros to-            niens inlerius retinetur, et impurum exterius expel-
-               tius animalis et inchoatur in prolem » . Et modum               Htur; et pro tanto dicebat Dominus, quod nihil quod
-               exphcat in fine quinti super Genesim ad lilteram, si-           in os intrat, hominem coinquinat; et sic verissimum
-               cut patet in auctoritate prius posita , ubi ostenditur ,        est verbum Domini, secundum quod valet ad pro-
-               quod ex modico semine generatur arbor magna. Huic               positum. — Posset tamen dici , quod secessus ibi vo- .^iia somtio,
-               igitur modo dicendi , tanquam magis intelligibih et             catur non tantum via inferior, per quam currunt
-               magis consono philosophiae et sacrae Scripturae , ma-           egestiones, sed omnes meatus subtiles, per quos fit
-               gis adhaereo. -Credo enim, beatum Augustinum hoc                ciborum decolatio. Et Glossa dicit, quod Graeci vo-
-               sensisse, sicut ex verbis eius possmn colligere. Et se-         cant illos poros; et ita non sequitur, quod totum
-               cundum hunc modum ° salvatur veritas cognationis                alimentum exeat exterius, et nihil de illo in verita-
-               et generationis, pro eo quod aliquid radicale a pa-             tem proiis pertranseat.
-               rente traducitur in prolem. Sustinetur nihilominus ge-                4. Ad illud quod obiicitur, quod generatio est
+5. Item, impossibile est, aliquem per virtutem nutritivam nutriri, nisi apponatur aliquid extrinsecum, per quod quis nutriatur: ergo pari ratione impossibile est, virtutem augmentativam augmentare substantiam, nisi addatur aliquod extrinsecum, per quod augmentetur; aut si potest in se ipso augeri, quare non potest per se ipsum nutriri[^15]?
 
-i              neratio et propagatio esse naturalis, quia hoc fit
-               per alimenti additionem. — Et ideo concedendae sunt
-               rationes ostendentes , quod aliqiiid de alimento transit
-                                                                               de substantia generantis; iam patet rcsponsio. Dico
-                                                                               enim , quod aliquid de radicali humiditate parentis
-                                                                               transil in prolem, et ratione illius salvatur ibi ve-
+6. Item, de nobilitate agentis[^16] est, quod possit aliam materiam ad se ipsum trahere et in se convertere, sicut ignis convertit in se aerem. Si ergo potentia generativa in homine completa est et perfecta, et ratio seminalis in ipso est maxime activa; videtur, quod possit agere in extrinsecam materiam et in se convertere et rationem seminalem ei communicare; et si hoc, per opus virtutis generativae in veritatem humanae naturae potest aliquid extrinsecum transire.
 
+### Conclusio.
 
-                ' Cod. aa nutiimentimi.                                             ^ Cod. M subiicit dicendi.
-                ^ Cod. cc et ed. I sic: sive potentia seminis convertendi           " Ed. 3 nutritivae, Vat. generatioae. Mox pro alimenti
-           ad se materiam.                                                     superfluo edd., excepta 2, elemento superfluo.
-                ' Val. fermentari.                                                  ' Clr. supra Praelocutio in hunc seoundum librum Senten-
-                ' Ilic in rundam. 3. — Altera Augustini sententia, quae        tiarum, circa mediuni.
-           respicitur ut prius posita et signalur ut in fine quinti super           8 Cod. aa quae. Mox pro coniunctioneih cod. cc et ed. I
-           Genesim occurrens, tiabetur supra in corp. quaeslionis, et qui-     cominixtionem.
-           dem in 3. interpretatione I. opinionis, quae incipit: Tertii vero        ' Vat. addit vel potentiatem.
-           sustinent. quod talis muiliplicalio etc. (pag. 730 col. I. in            '» Vat. cum edd. 3, 4 intendit. Deinde pro egei^at cod. ao
-           princ).
-                                                                               digerat.
-                                                                                                                                                            11
+> Aliquid de alimento transit in veritatem humanae naturae et simul cum humido radicali fit de veritate prolis.
 
-          732                                                    SENTENTIARUM LIB. II.                                                                  r
+**Respondeo:** Intelligendum est hic, quod, sicut expresse patet in littera[^17], opinio Magistri Sententiarum fuit, quod nihil extrinsecum in veritatem humanae naturae per generationem transeat. Haec autem positio multum apparet esse probabilis, si quis attendat verba Sanctorum, et simul cum hoc conditionem resurrectionis et legem cognationis. Hanc igitur positionem quidam sustinuerunt dicentes, quod talis multiplicatio sine extrinseci appositione in humana natura fit per virtutem supernaturalem; alii, quod hoc fit per virtutem supercaelestem; tertii, quod hoc fit per virtutem elementarem.
 
-                 rilas generationis ; nec tanien oportet, quod sit iden-           potentia respectu carnis humanae; et ita per mul-
-                 titas secundum totum generantis ad genitum. Sicut                 tas transmutationes videtur, quod ex ea posset fieri
-                 enim generans non dat se totum , sed partem sui , sic             semen.
-                et genitus non exivit a generante secundum totum,                                            *                                ^    ram 2.
-                                                                                          Alii vero dicunt, quod cum caro hominis sit pos- soiutio a-i
-                 sed secundum aliquam parteni; nec illud totum,                    sibilis ad omnem transmutationem, sicut et alia, quod
-                 quod a generante traxit , fuit radicale ipsi generanti ,          de illa possit generari semen; et tunc resurget in
-                 sed aliquid est additum radicali, ut possit augeri.               ipso genito, pro eo quod ad ipsum habet essentia-
-                       5. Ad illud quod obiicitur de lege cognationis, iam         liorem comparationem , et Dominus supplebit iUi
-                 patet responsio. Ita bene enim salvatur lex cogna-                aliunde addendo, sive multiplicando virtute° super
-                 tionis , si traducitur fllius a patre trahendo ab ipso            naturam , sicut facit in parvulo. — Sed qua ratione ^o" sam
-                 humorem radicalem cum additione extrinseci, sicut                 dicitur de una parte, quod potest converti, eadem
- Noianiiom, si de extrinscco nihil adderetur, immo multo verius.                   ratione et de qualibet, et sic posset homo totum cor-
-                 Additio enim extrinseci facit, ut linea consanguini-              pus suum amittere.
-                                                                                                                         ' ^              ctons.
-                 tatis aliquando terminetur, et qui magis distaut a                       Ideo est tertius modus dicendi , quod caro ho- sointio a
-                 stipite minoris consanguinitatis vinculo coniungantur.            minis secundum speciem non potest fleri caro alte-
-                 Et si obiiciat , quod si traducitur aliquid de radicali,          rius hommis secundum speciem propter necessariam
-                 quod pari ratione posset totum traduci; et quod                   ordinationem , quam habet ad animam, quae ipsam
-                 necesse sit, illud esse multiplicatum in se, cum « etiam          vivificavit. Utrum autem illa ordinatio fundetur in
-                 lot atomi non fuerint in corpore Adae» '; dicendum ,              appetitu pulverum , vel in providentia Conditoris,
-  De dupiici quod semen et est quantum mole, et est quantum                        difflcile est discernere. Quocumque tamen modo sit,
-quanto et de ^                        ...                            ,  ,.
-ratione se- yirtute. Et quantitas virtutis se tenet ex parte jor-                  ad hoc plana est responsio. Istud autem planius in-
-                 mae et potest dici ratio seminalis, et haec, cum sit               venitur determinatum in quarto'', ubi manifestatur,
-                 forma , multiplicabilis est , hoc est , potest sibi simi-         quid , in quo resurgat. — Resurget autem semen in
-                 lem inducere in materiam sibi appositam. Quantitas                genito, non in generante, quamvis dictum sit hic,
-                 vero mofc, quamvis- parva sit, potest tamen adeo                  quod semen sit de radicali humiditate generantis.
-                 extendi, ut commisceatur valde magnae quantitati                  Aliter enim semen est radicale generanti, et aliter Dapiex r
-                 per eam naturam, qua omne corpus in inflnitum divi-               generato. Quia generanti est radicale secundum par-
-                 sibile est ; et sic magnae quantitati potest conmiisceri           tem sui, est etiam radicale respectu virtutis gene-
-                 et totum traliere ad naturam suam; et ex illa to-                  rativae, non respectu virtutis nutritivae; virtus au-
-                 tali quantitate potest aliquid fieri, quod non fleret de           tem generativa et eius humiditas est ordinata ad
-                                                                                    aiiud. Unde si humiditas generativae decidatur ab
-                 ipso semine per se; et quotcumque^ fiant ex illa
-                 totali quantitate, dicuntur facta per se. Nec tamen                aliquo, sive alius generetur sive non, nunquam re-
-                  oporlet ibi distinguere diversas partes, ex quibus                surget in eo; et hinc est, quod quamvis in emis-
-                  diversa flant in iilo semine primordiali, sed solum in            sione seminis fiat decisio alicuius radicalis hmnidi-
-                 proximo, pro eo quod illud per additionem superflui                tatis, nulla tamen est ibi poena, quoniam illa humi-
-                  nutrimenti adauctum est.                                          ditas per naturam erat ad alterum ordinata. Unde
-                        6. .\d illud quod obiicitur de lege resurrectio-            et manet ibi modus operandi expeditus et delecta-
-soiaiio_1. aiio- nis , respoudent aliqui, quod homo non potest gene-
-  rum
-                                                                                    bilis et ordinatus; et hoc totum est, quia illa humi-
-                  rari de carnibus alterius hominis , pro eo quod ali-              ditas in generante erat ad alterum. In genito vero,
-                  nientum , et illud quod convertitur in semen, debet               quia ex ea fabricatur totum corpus, est sicut totius
-                  esse in potentia respectu eius in quod convertitur;               corporis fundamentum, et tunc, quando anima uni-
-                  caro autem hominis secundum speciem est in actu,                  tur ei, incipit esse vere et proprie de veritate hu-
-                  et ideo non potest in alium hominem transmutari.                  manae naturae. Tunc enim primo incipit habere ne-
- Non iiiiikii. — Sed illud non videtur sufflcere, pro eo quod ex                    cessitatem ad resurrectionem ; prius autem solum
-                  carne ^ possunt generari vermes ; posset et per con-              erat possibile '. Unde si qua mulier faceret abortum
-                  sequens generari pkmta et fruclus, et tunc esset in               ante animae unionem, illud nullo modo resurgeret.
+Primi dixerunt, quod sicut Deus sibi reservat animarum creationem propter earum immortalitatem; sic etiam substantiam corporum humanorum multiplicat et augmentat sine additione extrinseca, sicut multiplicavit panes evangelicos[^18], et sicut multiplicavit costam, de qua formata est Eva; et hoc, quia corpora humana sunt ad immortalitatem ordinata. Non tamen dicitur facere miracula sic multiplicando, quia hoc facit, quasi faceret per naturam. Natura enim alendo et nutriendo quasi fovet extrinsecus; sed Deus est, qui nutrimentum praestat intrinsecus. — Huic autem modo dicendi obviat et sensus et ratio et auctoritas. Sensus obviat, quia sic videmus hominem ex homine produci, sicut asinum ex asino, et sicut plantam ex planta. Si igitur alia corpora naturalia fiunt ex materia addita, et sensus noster non fallitur; iudicandum est, similiter esse circa corpora humana. — Ratio etiam obviat, quia non est generatio naturalis nisi ea, in qua natura est vere agens et vere producens sibi simile. Si igitur multiplicatio hominis ex homine esset per virtutem supra naturam, et non per virtutem ipsius naturae; generatio hominis ex homine non esset naturalis; et si hoc, non esset generatio vera. — Repugnat etiam auctoritas. Dicit enim Augustinus decimo super Genesim ad litteram[^19], quod nos fuimus in Adam secundum corpulentam substantiam et secundum rationem seminalem, Christus tantum secundum corpulentam substantiam. Sed si corpora nostra educerentur ex semine Adae per virtutem supra naturam, iam in ipso deberent dici, sicut et Christus, esse solummodo secundum corpulentam substantiam, non secundum rationem seminalem, cum seminalis ratio dicat vim activam.
 
-                ' Hic in lit. MagistiM, c. 13. — Vat. cuni edd. 3, 4 supplet       — Paulo superius pro in appetitu pulverum , quod habent
-           quot processenmt cx eo homines. Aliquantulum post pro et liaec          mulii codd., inter quos F H P Q (T a prinia iiianu) V V bb cc
-           codd. F Iv bb cc ct nlii cum edd. I, 2 ci hoc , el dein pro hoc         ee , cum ed. 1 , Vat. in appetitu naturali. Nostra lectio respon-
-           esi Vat. et ex hoc.                                                     det illis quae S. Doctor dicit IV. Sent. d. 44. p. I. a. 2. q. 2.
-                "■ Plurimi codd. cum primis edd. voculae quamvis praefi-           ad 2; Et quidam reddunt de hoc rationem ex parte diversorum
-           gunt et (ed. 1 et licet). — De corporis divisibilitate in infini-       appetituum, qui sunt in pulcere. Quidquid lamen sit de hoc,
-           tum cfr. Aristot., III. Phys. text. S6. seqq. (c. 6. seq.); VI. tcxt.   tamen hoc venU ab ordinatione perfecti artificis ete. In edd. 2,
-           3. (c. 1.); de Sonsu et sens. c. 6; August., de Immort. animae,         3 legitur in appetitu tantum , nullo alio verbo adiuncto. Deinde
-           c. 7. n. 12; II. de Gen. ad lit. c. 4. n. 8.                            pro Quocumque tamen modo sit, ad hoc Vat. Quocumque ta-
-                ^ Plures codd., ut T Y aa ee etc, cum ed. I quaeciimque.           men modo fit, adhnc. Mox pro invenitur codd. I K bb ee et
-                ' Cod. aa adiicil hominis.                                         alii invenietur, et pro manifestatur cod. F manifestabitur. De-
-                ^ Edd. cum pluribus codd. virtutem.                                nique pro Resurget non pauci codd., ut F K T \V Y aa cc etc,
-                ^ Disl. 44. p. I. a. 1. et 2. — De ordinatione animae ad           cum edd. I, 2, 3 Resurgit.
-           corpus clr. supra d. 17. a. 1. q. 3. et d. 18. a. 2. q. 1. seq.               ' Vat. addit vel potentiale.
-                                                                                                                                       733
-                                                DIST. XXX. ART. III. QUAEST. I.
+Alii vero sustinent praedictam positionem, dicentes, quod talis multiplicatio est per virtutem supercaelestem. Corpus enim quintae essentiae sive luminosum natum est ex se emittere lumen et se ipsum multiplicare, non educendo naturam luminis ex illo corpore, quod illuminat, sed simul multiplicat materiam et formam. Sic et in proposito dicere voluerunt, quod quia in natura humana multum est de natura quintae essentiae, potest ipsa in se ipsa multiplicari. — Huic etiam modo dicendi obviat sensus et ratio et auctoritas. Sensus, quia nullum corpus caeleste multiplicat lumen suum in se, sed si multiplicat, multiplicat extra se et in materia extrinseca. Et iterum, non videmus, quod sol in multiplicando generet solem vel producat solem; igitur si secundum naturam caelestem attenditur ista multiplicatio in humano semine; nec multiplicabitur in se ipso nisi aliquo extrinseco superaddito, nec ex tali multiplicatione homo producetur ab homine, sicut nec sol producitur a sole. — Ratio etiam obviat, quoniam multiplicatio per virtutem creatam est ab aliquo simili activo. Si ergo formae tantum est agere[^20]; et forma non assimilatur materiae, sed alteri formae: impossibile est igitur, ali-
 
+<!-- page 729 -->
 
-                                                           SCHOLION.
+quid multiplicari per virtutem creatam quantum ad principium materiale, nec materiam elementarem nec caelestem. — Auctoritas etiam repugnat, quoniam lumen egrediens a corpore luminoso corpus non est nec habet in se materiam; et hoc supra planius ostensum fuit distinctione decima tertia[^21], ubi et auctoritates ad hoc inductae sunt. Difficile est etiam explicare secundum istam positionem, qualiter natura quintae essentiae intret constitutionem humanae naturae. Et nisi hoc sane intelligatur, sicut explanatum fuit supra distinctione decima septima[^22], non potest de facili sustineri.
 
-      1. Cum ijropagatio peccati originalis supponat, quod natiira     tenditur salus sive conservatio rei in se, et generativae , qua
-lotius generis tiumani aliquo modo fuerit in Adam , et cum             intenditur conservatio rei in alio... Huic duplici naturae duplex
-constet, eandem ex parte animarum sive formarum , ab ipso              respondet veritas : una , quae respicit esse individui absolute,
-Deo procedente tempore productarum , nec formaliter nec ma-            alia , quae respicit esse, in quantum esi piincipitim aliorum:
-terialiter in illo fuisse; incidit liic quaestio ad physiologiam       sic est una veiitas naturae , quae respicit esse Adae in se;
-spectans, quomodo ex pm-te mateiialis principii natura liumana         alia, quae respicit esse illius, ut est ad producendum alios in
-fueril in Adam. Hoc problema eo diligentius ab antiquis magi-          esse. Veiitas ergo naturae, quae erat in Adam respectu sui ,
-stris secundum principia naturalis pliilosophiae tunc recepta dis-     resurget in ipso Adam; sed quae erat in ipso respeclu speciei
-cussum est, quia Magister cum Hugone a S. Victore solutio-             resurget in alio ».
-nem docuerat , quae posterioribus communiter videbatur ir-                   3. Distinctio, ex Aristotele sumta, inter carnem secundum
-rationabilis, et etiam, quia eiusdem difficultatis determinatio non    materiam et camem secundum speciem diversimode intelligi-
-tanlum ad illustrandum mysterium peccati originalis , sed magis        tur, et Richard. a Med. (hic a. 5. q. 1. ad 2.) quinque inter-
-etiam ad explicandum dogma resurrectionis et secretum natu-            pretationes recenset. Quid sentiat de hoc S. Bonav., clare iiro-
-ralis generationis servire dignoscitur. Quaeritur autem non de         ponitur in 2. quaest., quid vero S. Thom., vide apud ipsum ,
-ratione seminali sive virtute activa, quae ad formam spectat           hic q. 2. a. 1. ad 2; Sum. loc. cit. ad 2.
-(secundum quam virtutem corpora humana nosterorum in Adam                    II. Prima et extrema opinio circa propositam quaest. est
-fuisse, nemo negabat), sed praecise de materiaU principio. luvat       Magistri, qui , quamvis concedat , cibos per nutritionem in san-
-autem recolere quae de propagatione formarum, supra d. 7.              guinem et carnem iransire, negat tamen, eos transire in veiita-
-p. U. a. 2. q. I. 2. et d. 18. a. 1. q. 2. 3. dicta sunt. No-          tem huiiianae naturae , quippe quae etiam mateiialiter tota fue-
-tum autem est , recentiorem physiologiam quoad partem ex-              rit in Adam, cum in posteris eius multiplicata sit in se ipsa, sine
-perimentalem accuratioribus observationibus plurima invenisse,         conversione alicuius extrinsecus apposili ; carnem autem illam ,
-quae illa aetate erant incognita. — Duae huius articuli quae-          per nutritionem conversam , non esse nisi fomentum carnis ab
-stiones intime cohaerent ; quae ut facihus intelligantur, tria prac-   Adam tractae, nec cum illa resurrecturam esse. Triplicem luiius
-notamus.                                                               opinionis interpretationem cum S. Bonav. affert etiam S. Tliom. in
-      1. Alex. Hal. (S. p. II. q. 80. m. 2. a. I.) haec observat       Comment. loc. cit. Hanc Magisti-i opinionem, qualitercumque
-et simul suam sententiam proponit: » Tripliciter dicitur tota          intellectam , tum in se improbabilem tum insufflcientem , vel
-huinana natura fuisse in Adam: et quia natura humana per-              saltem uon necessariam esse ad explicandum propagationem
-fecte erat in eo ; et quia species humana quandoque in eo              peccati originalis , posteriores Scholastici communiter censent.
-solo salvata erat, quae postea est ab aliis participata; et eliam      Alex. Hal. autem vult eandem (secundum 3. interpretationem)
-quia aliquid in ipso erat , quod per propagationem est de con-         tanquam videtur
-                                                                                  probabilem   exponere, suus
-                                                                                                           licetdiscipulus.
-                                                                                                                  ipse in aliis verbis idem '
-stitutione corporum omniwin hominum. Cum ergo quaerilur,               sentire          ac seraphicus
-quomodo tota humana natura fuit in Adam, scilicet secundum                   Secunda et omnino opposita sentcntia tenetur a S. Thoma,
-materiam, aut secundum /brniam,- dicendum, quod secundum               qui sequilur Aristotelem et Averroem et docet , totam materiam
-materiam, quia niateria omnium corporum sive materiale, quod           corporis fluere et refluere, et non esse diversitatem inter car-
-est de conslitutione omnium corporum lumianorum, erat in               nem a parentibus tractam et per potentiam nutritivam con-
-corpore Adae. Et ad maiorem huius notitiam sciendum, quod              versam; quod legitime iam ex doctrina de unitate formae sub-
-in corpore Adae erat qumtitas molis cum ratione seminali:              stantialis sequi videtur (vide in corp. opinio 2.). Ab eodem
-ratione quantitatis illius molis poterat extendi et diffundi se-       etiam docetur, quod totum semen sit de superfluo atimenii.
-cundum extensionem corporis quasi improportionaliter maio-                   Tertia sententia , quae medium inter primam et secundam
-ris... Praeterea ratio seminalis in illo virtutem habuit acti-         positionem tenere vult, pi'aefertur a S. Bonav. lanquam pro-
-vam , qua poterat se multiplicare in materia susceptibili , sicut      babilior. Breviter eadem exponitur in flne 2. quaest. , ubi du-
-]50test virtus lucis et ignis et consimilia » ( vide Bonav. hic q.     plici conclusione dicitur, quomodo aliquid extrinsecum possit
-1. solut. ad 5.).                                                      transire in veritatem humanae naturae, proprie mediante opere
-      2. Locutio pertinere ad veiitatem naturae secundum omnes         generativae, large etiam opere nutritivae. De hac autem sen-
-signiflcat in genere id quod esl de constitutione naturae ipsius       tentia S. Thom. in Comment. loc. cit. dicit: « Huiusmodi posi-
-(S. Thom., S. I. q. 119. a. 1.), et cum natura duplicitor possit       tionis primus auctor invenitur Alexander commentator , ut
-considerari : « in communi secundum naturam speciei, alio modo,        Averroes in libro de Generatione [I. text. 38.] dicit », et ibidem
-secundum quod est in hoc individuo »; sub primo respectu               eandem pluribus rationibus impugnat.
-ad veritalem naturae pertinet forma et materia, in communi                    III. Alii Scholastici antiqui de 1. et 2. quaest. plerumque
- accepia, de quo non est conlroversia ; sub secundo autem re-          inverso ordine iractanl. Scot. in utroque Scripto (IV. Sent. d.
- spectu ad eandem pertinet « materia individualis signata et           41 q. 1.) fuse de his et annexis quaest. disputat et magis cum
- forma per huiusmodi materiam individuata i> (ibid.). De hac           S. Thoma convenire videtur, sed non in omnibus; docet etiam
- autem materia in individuo sunt illae diversae opiniones, hic in      cum S. Thoma, semen esse de superfluo alimend (apud Hier.
- quaestione 1. recensitae, quae principaliter versantur circa hoc:     de MonU'fortino, S. t. H. q. 119. a. 2.). — B. Albert. (S. p. 11.
- utruin aliquid materiale in eodem individuo corpore ab initio eius    tr. 17. q. 110. m. 1. 2.) convenit cum Alexandro Hal. — Petr.
- usque ad mortcm semper maneat et in resurrectione resurgat,           a Tar. (hic q. i. a. 1. 2.) nihil detcrminat quoad opinionem 2.
- an omnes parles materiae continue tluant et refluant. Secundum        et 3. — Richard. a Med. (loc. cit. q. 1. 2.) arguit contra opinio-
- huius rei delerminationem etiam diversimode accipitur id quod         nem tum Magistri tum S. Thoniae (cui tamen concedit, semen
- pertinet ad veritatem humanae naUirae. — Sententiam propriam          esse de superfluo nutrimenti), at in aliis sequitur nostrum Do-
- circa hoc exponit S. Bonav., infra q. 2. in corp., quae magis         ctorem. — .Egid R. (hic q. 2. a. 1. 2.) et Durand. hic (q. 4.
- illustratur his verbis Alexandri Hal. (loc. cit. ad 4.): « Natura     .5.) in re principali sequuntur S. Thomam. Henr. Gand. (Quodl.
- in primo homine erat duplex: una, quae eral simpliciler ipsius,       2. q. 10.) non clare explicat, quam opinionem praeferat. —
- ut erat individuum ; alia, quae erat illius, ul erat principium       Dionys. Carth. (hic q. 8.) dicit: « Inter tot opiniones videtur
- aliorum. Haec autem natura duplex respondet duplici appeti-           posilio illa Alexandri philosopki rationabilior esse , quantum ad
- tui, quorum unus erat respectu salutis in se, alius respectu          philosophicae veritatis perdnet forum ; quantum vero ad theo-
- salutis in alio; et duplici virtuti, scilicet nutritivae , qua in-    logicae veritatis spectat sinceritatem , positio illa Alexandri
-         734                                                     SENTENTIARUM LIB. II.
-         Iheologi ac Bonaventurae amplius placel , quamquaiii in ea              verum est, non tamen est divisibile in infinitum, nec in quam-
-         quaedam contineantur, quae difficile est salvare, praesertim quod       libet multa, ila quod sub qualibet eius particula maneant na-
-         dicunt, semen illud hominis protoplasti posse per quantumlibet          tura et ratio seminis [nec hoc determinate dicit S. Bonav.] ,
-         multos diffundi, communicari ac dividi, quia, in quantum est            quoniam omnium natura constantium certus est terminus et
-         continuum quid, est divisibile in inflnitiim. Quamvis enim lioc         finis ac ratio magnitudinis, secundum Pliilosophum » .
+Tertii vero sustinent, quod talis multiplicatio fit per virtutem inferioris naturae, concurrente simul potentia susceptiva ex parte materiae et activa ex parte formae. Materia enim, quantum est de se, non habet extensionem, sed quod extendatur tantum vel plus, hoc est ratione formae sibi adiunctae. Unde quantumcumque parum ponatur de materia in aliquo corpore, capax esset valde magnae extensionis, si esset aliquod agens, quod posset formam tantae extensionis imprimere. Ex parte vero formae est ibi potentia multiplicandi sibi simile; et hinc est, quod cum semen adiuvatur et confovetur per alimentum extrinsecum, vis illa seminalis in sua materia potest se ipsam multiplicare et crescere, nullo repugnante; et ideo non oportet, aliquid extrinsecum in veritatem humanae naturae transire. Et hoc videtur Augustinus[^23] sentire, cum dicit, quod «ex uno semine segetes segetum et silvae silvarum, greges gregum, populi populorum educi possunt, ita quod nihil reperitur postea in omnibus illis, quod prius non fuerit invisibiliter in semine illo primo».
+
+Huic autem positioni, etsi rationabilior ceteris videatur, nihilominus tamen, sicut et praedictis, repugnat sensus et ratio et auctoritas.
+
+Sensus quidem primo repugnat. Nam si in his quae generantur, fieret crementum per multiplicationem absque additamento; tunc mundus iste esset multo maior, quam fuerit a principio, et visibiliter cresceret quotidie. Non enim posset dici, quod per resolutionem decem grana frumenti reducantur ad unum.
+
+Ratio etiam repugnat, quia materia non est subiectum transmutationis nisi sub aliquo esse. Unde etsi materia corporalium per intellectum abstrahi possit a forma corporum, nunquam tamen per virtutem alicuius creaturae potest exspoliari omni extensione et forma corporea; propter quod in pluribus locis dicit Augustinus, quod impossibile est, ex corpore fieri spiritum, et super Genesim ad litteram[^24] et in libro de Immortalitate animae. Si igitur haec materia sub tali esse statum habet et determinationem in sua extensione, ultra quam natura non potest procedere, pro eo quod, sicut dicit Philosophus[^25], «omnium natura constantium terminus est et ratio magnitudinis et augmenti»; et alibi, quod ex uno pugillo terrae potest generari ignis in millecupla proportione, ex uno tamen pugillo non possunt generari nisi decem aquae: si hoc, inquam, ita est, impossibile est ponere, quod aliqua res corporalis in se ipsa augeatur absque sua rarefactione et alterius appositione; hoc dico de operatione naturae. Et attendendum est hic, quod longe aliter loquendum est de materia secundum essentiam et secundum esse sive secundum substantiam; nec est dicendum, quod tantum sit de materia in uno parvo lapide, sicut in uno monte, loquendo secundum esse sive substantiam; quamvis in materia secundum essentiam non sit considerare tantum et quantum. Et sic ratio non concordat huic positioni.
+
+Auctoritas etiam obviat. Dicit enim Hugo in sexta parte[^26], ubi distinguit sex opera, «quorum primum est de nihilo aliquid facere. Secundum est de aliquo aliquid facere secundum substantiam et quantitatem in maius. Tertium opus est de aliquibus aliquid facere secundum substantiam et quantitatem in minus. Quartum opus est de aliquo aliqua facere, non tamen secundum substantiam et quantitatem, in maius. Quintum opus est de aliquibus aliqua facere, non tamen secundum substantiam et quantitatem, in minus. Sextum opus est de aliquo nihil facere». De his sex generibus operum subiungit, quod «primum opus et secundum et tertium et ultimum sunt soli Deo possibilia». Cum igitur talis multiplicatio, ut ibidem dicit, pertineat ad secundum genus operis, non ergo fiet virtute naturae inferioris. — Quodsi ista auctoritas non sufficit, ostenditur hoc auctori-
+
+<!-- page 730 -->
+
+tate Augustini, quinto super Genesim ad litteram, circa finem libri[^27], ubi sic ait: «Illa quae producuntur ex semine, in semine omnia fuerunt primitus, non mole corporeae magnitudinis, sed in potentia causali. Nam illa magnitudo copia terrae humorisque congesta est; sed illa in exiguo grano mirabilior praestantiorque vis est, qua valuit adiacens humor, commixtus terrae, tanquam materies verti in ligni illius qualitatem, in ramorum diffusionem, in foliorum viriditatem». Non igitur semen in semetipso augetur sine alterius appositione. Adhuc expressius super Genesim ad litteram, in fine decimi[^28]: «Quid absurdius quam putare, ullum esse corpus, manente suae naturae quantitate, quod undique crescat, nisi rarefiat». Ergo si quantitas seminis decisi manet et non rarefit et undique crescit, hoc non potest esse sine appositione materiae, nisi hoc fiat mirabiliter. — Quocumque igitur praedictorum modorum sustineatur opinio Magistri, sive etiam omnes modi conflentur in unum, sive per se quilibet adaptetur; plurima occurrunt difficilia, propter quae multi recusant opinionem Magistri sustinere in parte ista.
+
+Secunda opinio circa istam positionem est aliquorum sequentium verba naturalium et medicorum dicentium, quod mediante virtute generativa non solum aliquid transit in veritatem humanae naturae, immo tota veritas prolis generatae est ex extrinseco addito, quia est ex superfluo nutrimenti. Hoc autem dicunt esse, quia modus[^29] operandi est ordinatus et delectabilis et expeditus. Ordinatus, quia ibi incipit operatio generativae, ubi cessat operatio nutritivae. Natura enim per prius intendit sibi quam alii; et ideo materia generationis est superfluitas ultimi cibi, quae quidem, etsi sit superflua operi nutritivae, est tamen necessaria operi generativae. Modus etiam iste est delectabilis, quoniam natura delectatur in emissione superflui et tristatur et dolet in emissione necessarii et sibi coniuncti. Si ergo natura maxime delectatur in opere generativae, materia generationis est ex superfluo nutrimenti. Modus etiam iste est expeditus, quia, cum tertius[^30] cibus sit in potentia proxima, ut convertatur in singula membra, si natura debet ex aliquo humore fabricare corpus, fabricabit ex illo; sed cum non fabricet ex necessario, restat, quod fabricat ex superfluo. Quoniam igitur natura operatur quanto potest brevius et delectabilius et ordinatius, ideo dicunt, talem modum procreandi, videlicet ex superfluo nutrimenti, maxime esse convenientem naturae. Convenit etiam, ut dicunt, hoc dispositioni divinae et ordinationi corporum ad resurrectionem. Cum enim semen non resurgat in generante, sed in genito, non videtur humor ille fuisse de generantis veritate, sed potius de humidi superfluitate.
+
+Licet autem hic modus dicendi multum videatur probabilis attendenti verba Philosophi; obviat tamen ei, sicut et alii modo dicendi, et sensus et ratio et auctoritas. — Sensus quidem, quia videmus, prolem aliquando assimilari proavo, et sicut assimilatur proavo, ita potest assimilari ei qui praecessit usque ad generationem decimam: ergo et sic deinceps: ergo videtur, quod aliquid sit in isto primo filio traductum a parente primo. Et iterum, cum videamus, hominem ex coitu attenuari, et ex frequentatione talis actus mortem accelerari; videtur, quod non solum in semine fiat superflui emissio, immo quod etiam alicuius humidi radicalis; et ita proles non tantum est de superfluitate alimenti, sed etiam de veritate generantis. — Ratio etiam obviat, quia si solum esset proles de superfluitate cibi patris, nec esset vera generatio, cum generatio sit de substantia generantis, nec esset vera cognatio; immo magis attineret homo porco, de quo sumtum est nutrimentum, quam patri generanti. — Auctoritas etiam repugnat, quoniam expresse dicit Augustinus super Genesim ad litteram, quod omnes fuimus in Adam secundum corpulentam substantiam et secundum seminalem rationem. Et quod maius est, Apostolus[^31] dicit, quod omnes in Adam peccavimus, et quod Levi in lumbis erat Abrahae, quando decimatus fuit, ad Hebraeos septimo.
+
+Ex hac igitur positione, si pertractetur, sequi videtur, quod non esset omnino generatio nec cognatio vera; ex praecedenti vero, si ponatur, quod nihil de alimento transit in prolem, sequi videtur, quod non sit generatio naturalis. — Si igitur pro certo habendum est, quod generatio hominis ex homine et vera est et naturalis est; necesse habemus, viam mediam inter utramque harum positionum tenere, ut dicamus, quod aliquid de superfluo nutrimenti transit in semen, nec tamen semen omnino est de superfluo nutrimenti, immo aliquid est ibi de humido radicali; et ex utroque habet semen propagari. Unde sicut videmus circa nutritivam, quod est humiditas radicalis et nutrimentalis, utpote illa quae fluit; sic intelligendum est etiam circa vim generativam,
+
+<!-- page 731 -->
+
+quod in ipsa est aliqua humiditas radicalis, et etiam aliqua fluens et refluens, et in generatione prolis una currit cum alia. Transmisit igitur Adam, quando generavit primum filium, aliquid de illa radicali humiditate, et illud modicum[^32] per virtutem naturae toti corpori filii fuit commixtum commixtione perfecta, quia nullam partem erat signare in corpore filii, in qua non esset aliquid de illo humido, quod a patre traduxit. Si igitur filius Adae in generando prolem similiter aliquid descindebat de suo humido radicali; necesse erat, quod aliquid transmitteret de eo quod sumserat a patre, et sic deinceps. Et pro tanto dicuntur omnes fuisse in Adam, non quia fuerit ibi totaliter materia omnium nostrorum corporum, sed quia ibi erat aliquanta materia et ratio seminalis sive potentia convertendi ad se aliam naturam[^33], ita ut sufficeret ad omnium procreationem, addito sibi illo in quo posset se multiplicare. — Et est exemplum: si aliquis haberet fermentum, quod commisceret commixtione perfecta toti pastae; nihil fieret de illa totali pasta fermentata, quod non diceretur fieri[^34] de illa pasta; et similiter, si illa pasta commisceretur adhuc alii maiori pastae, et sic procedendo quasi innumerabiles panes fermentati possent fieri ex modico fermento per appositionem rei fermentabilis. Sic et in proposito ex modico semine per appositionem humoris susceptibilis rationis seminalis possunt innumerabiles homines propagari.
+
+Et iste modus satis consonat rationi nec repugnat verbis Philosophi et sumtus est ex verbis Augustini, sicut patet aspiciendo auctoritatem prius[^35] positam, quae sumta est de libro de Vera Religione, ubi dicit, quod «alimentum accipit latentes numeros totius animalis et inchoatur in prolem». Et modum explicat in fine quinti super Genesim ad litteram, sicut patet in auctoritate prius posita, ubi ostenditur, quod ex modico semine generatur arbor magna. Huic igitur modo dicendi, tanquam magis intelligibili et magis consono philosophiae et sacrae Scripturae, magis adhaereo. Credo enim, beatum Augustinum hoc sensisse, sicut ex verbis eius possum colligere. Et secundum hunc modum salvatur veritas cognationis et generationis, pro eo quod aliquid radicale a parente traducitur in prolem. Sustinetur nihilominus generatio et propagatio esse naturalis, quia hoc fit per alimenti additionem. — Et ideo concedendae sunt rationes ostendentes, quod aliquid de alimento transit in veritatem humanae naturae mediante opere naturae[^36], quia non solum illud radicale, quod a patre deciditur, fit de veritate prolis, sed etiam illud cum alimenti superfluo sibi iuncto, ita quod illud quod erat superfluum uni, sit necessarium alteri; utrumque enim erat fundamentum fabricae totius corporis generati.
+
+1. Ad illud autem quod primo obiicitur in contrarium de auctoritate Magistri, dicendum quod eorum verbis in hac parte communiter non assentiunt, nec ego ipsos bene intelligo; nec tamen affirmo, illos falsum dixisse, sed magis intelligo aliam opinionem.
+
+2. Ad illud quod obiicitur de auctoritate Anselmi et Augustini, iam patet responsio. Dicunt enim, quod in Adam fuimus, non quia nulla alia materia conversa sit in corpus nostrum nisi illa, quae fuit in Adam, sed si qua alia conversa est, hoc non est nisi per coniunctionem cum illo quod ab Adam fuit decisum. Et si tu dicas, quod ipse Anselmus dicit, quod totaliter humana natura erat in Adam; dicendum, quod hoc non dicit quantum ad existentiam possibilem[^37], sed quantum ad existentiam actualem, quia nihil actu erat de veritate humanae naturae, nisi quod in Adam erat. Aliquid tamen possibile erat ad hoc, quod fieret de veritate humanae naturae, sed hoc operatione et virtute carnis Adae.
+
+3. Ad illud quod obiicitur de auctoritate Domini in Evangelio et de Glossa, dicendum, quod hoc nequaquam intelligit[^38] nec textus nec Glossa, quod homo totum egerat, quod manducat, sed quia, cum homo manducat, fit separatio puri ab impuro per digestiones interius factas, et purum et naturae conveniens interius retinetur, et impurum exterius expellitur; et pro tanto dicebat Dominus, quod nihil quod in os intrat, hominem coinquinat; et sic verissimum est verbum Domini, secundum quod valet ad propositum. — Posset tamen dici, quod secessus ibi vocatur non tantum via inferior, per quam currunt egestiones, sed omnes meatus subtiles, per quos fit ciborum decolatio. Et Glossa dicit, quod Graeci vocant illos poros; et ita non sequitur, quod totum alimentum exeat exterius, et nihil de illo in veritatem prolis pertranseat.
+
+4. Ad illud quod obiicitur, quod generatio est de substantia generantis; iam patet responsio. Dico
+
+<!-- page 732 -->
+
+enim, quod aliquid de radicali humiditate parentis transit in prolem, et ratione illius salvatur ibi veritas generationis; nec tamen oportet, quod sit identitas secundum totum generantis ad genitum. Sicut enim generans non dat se totum, sed partem sui, sic et genitus non exivit a generante secundum totum, sed secundum aliquam partem; nec illud totum, quod a generante traxit, fuit radicale ipsi generanti, sed aliquid est additum radicali, ut possit augeri.
+
+5. Ad illud quod obiicitur de lege cognationis, iam patet responsio. Ita bene enim salvatur lex cognationis, si traducitur filius a patre trahendo ab ipso humorem radicalem cum additione extrinseci, sicut si de extrinseco nihil adderetur, immo multo verius. Additio enim extrinseci facit, ut linea consanguinitatis aliquando terminetur, et qui magis distant a stipite minoris consanguinitatis vinculo coniungantur. Et si obiiciat, quod si traducitur aliquid de radicali, quod pari ratione posset totum traduci; et quod necesse sit, illud esse multiplicatum in se, cum «etiam tot atomi non fuerint in corpore Adae[^39]»; dicendum, quod semen et est quantum mole, et est quantum virtute. Et quantitas virtutis se tenet ex parte formae et potest dici ratio seminalis, et haec, cum sit forma, multiplicabilis est, hoc est, potest sibi similem inducere in materiam sibi appositam. Quantitas vero molis, quamvis[^40] parva sit, potest tamen adeo extendi, ut commisceatur valde magnae quantitati per eam naturam, qua omne corpus in infinitum divisibile est; et sic magnae quantitati potest commisceri et totum trahere ad naturam suam; et ex illa totali quantitate potest aliquid fieri, quod non fieret de ipso semine per se; et quotcumque[^41] fiant ex illa totali quantitate, dicuntur facta per se. Nec tamen oportet ibi distinguere diversas partes, ex quibus diversa fiant in illo semine primordiali, sed solum in proximo, pro eo quod illud per additionem superflui nutrimenti adauctum est.
+
+6. Ad illud quod obiicitur de lege resurrectionis, respondent aliqui, quod homo non potest generari de carnibus alterius hominis, pro eo quod alimentum, et illud quod convertitur in semen, debet esse in potentia respectu eius in quod convertitur; caro autem hominis secundum speciem est in actu, et ideo non potest in alium hominem transmutari. — Sed illud non videtur sufficere, pro eo quod ex carne[^42] possunt generari vermes; posset et per consequens generari planta et fructus, et tunc esset in potentia respectu carnis humanae; et ita per multas transmutationes videtur, quod ex ea posset fieri semen.
+
+Alii vero dicunt, quod cum caro hominis sit possibilis ad omnem transmutationem, sicut et alia, quod de illa possit generari semen; et tunc resurget in ipso genito, pro eo quod ad ipsum habet essentialiorem comparationem, et Dominus supplebit illi aliunde addendo, sive multiplicando virtute super naturam, sicut facit in parvulo. — Sed qua ratione dicitur de una parte, quod potest converti, eadem ratione et de qualibet, et sic posset homo totum corpus suum amittere.
+
+Ideo est tertius modus dicendi, quod caro hominis secundum speciem non potest fieri caro alterius hominis secundum speciem propter necessariam ordinationem, quam habet ad animam, quae ipsam vivificavit. Utrum autem illa ordinatio fundetur in appetitu pulverum, vel in providentia Conditoris, difficile est discernere. Quocumque tamen modo sit, ad hoc plana est responsio. Istud autem planius invenitur determinatum in quarto[^43], ubi manifestatur, quid, in quo resurgat. — Resurget autem semen in genito, non in generante, quamvis dictum sit hic, quod semen sit de radicali humiditate generantis. Aliter enim semen est radicale generanti, et aliter generato. Quia generanti est radicale secundum partem sui, est etiam radicale respectu virtutis generativae, non respectu virtutis nutritivae; virtus autem generativa et eius humiditas est ordinata ad aliud. Unde si humiditas generativae decidatur ab aliquo, sive alius generetur sive non, nunquam resurget in eo; et hinc est, quod quamvis in emissione seminis fiat decisio alicuius radicalis humiditatis, nulla tamen est ibi poena, quoniam illa humiditas per naturam erat ad alterum ordinata. Unde et manet ibi modus operandi expeditus et delectabilis et ordinatus; et hoc totum est, quia illa humiditas in generante erat ad alterum. In genito vero, quia ex ea fabricatur totum corpus, est sicut totius corporis fundamentum, et tunc, quando anima unitur ei, incipit esse vere et proprie de veritate humanae naturae. Tunc enim primo incipit habere necessitatem ad resurrectionem; prius autem solum erat possibile[^44]. Unde si qua mulier faceret abortum ante animae unionem, illud nullo modo resurgeret.
+
+<!-- page 733 -->
+
+### Scholion
+
+**1.** Cum propagatio peccati originalis supponat, quod natura totius generis humani aliquo modo fuerit in Adam, et cum constet, eandem ex parte animarum sive formarum, ab ipso Deo procedente tempore productarum, nec formaliter nec materialiter in illo fuisse; incidit hic quaestio ad physiologiam spectans, quomodo ex parte materialis principii natura humana fuerit in Adam. Hoc problema eo diligentius ab antiquis magistris secundum principia naturalis philosophiae tunc recepta discussum est, quia Magister cum Hugone a S. Victore solutionem docuerat, quae posterioribus communiter videbatur irrationabilis, et etiam, quia eiusdem difficultatis determinatio non tantum ad illustrandum mysterium peccati originalis, sed magis etiam ad explicandum dogma resurrectionis et secretum naturalis generationis servire dignoscitur. Quaeritur autem non de ratione seminali sive virtute activa, quae ad formam spectat (secundum quam virtutem corpora humana posterorum in Adam fuisse, nemo negabat), sed praecise de materiali principio. Iuvat autem recolere quae de propagatione formarum, supra d. 7. p. II. a. 2. q. 1. 2. et d. 18. a. 1. q. 2. 3. dicta sunt. Notum autem est, recentiorem physiologiam quoad partem experimentalem accuratioribus observationibus plurima invenisse, quae illa aetate erant incognita. — Duae huius articuli quaestiones intime cohaerent; quae ut facilius intelligantur, tria praenotamus.
+
+*1.* Alex. Hal. (S. p. II. q. 80. m. 2. a. 1.) haec observat et simul suam sententiam proponit: «Tripliciter dicitur tota humana natura fuisse in Adam: et quia natura humana perfecte erat in eo; et quia species humana quandoque in eo solo salvata erat, quae postea est ab aliis participata; et etiam quia aliquid in ipso erat, quod per propagationem est de constitutione corporum omnium hominum. Cum ergo quaeritur, quomodo tota humana natura fuit in Adam, scilicet secundum materiam, aut secundum *formam*; dicendum, quod secundum materiam, quia materia omnium corporum sive materiale, quod est de constitutione omnium corporum humanorum, erat in corpore Adae. Et ad maiorem huius notitiam sciendum, quod in corpore Adae erat quantitas molis cum ratione seminali: ratione quantitatis illius molis poterat extendi et diffundi secundum extensionem corporis quasi improportionaliter maioris... Praeterea ratio seminalis in illo virtutem habuit activam, qua poterat se multiplicare in materia susceptibili, sicut potest virtus lucis et ignis et consimilia» (vide Bonav. hic q. 1. solut. ad 5.).
+
+*2.* Locutio *pertinere ad veritatem naturae* secundum omnes significat in genere id quod est de constitutione naturae ipsius (S. Thom., S. I. q. 119. a. 1.), et cum natura dupliciter possit considerari: «in communi secundum naturam speciei, alio modo, secundum quod est in hoc individuo»; sub primo respectu ad veritatem naturae pertinet forma et materia, in communi accepta, de quo non est controversia; sub secundo autem respectu ad eandem pertinet «materia individualis signata et forma per huiusmodi materiam individuata» (ibid.). De hac autem materia in individuo sunt illae diversae opiniones, hic in quaestione 1. recensitae, quae principaliter versantur circa hoc: utrum aliquid materiale in eodem individuo corpore ab initio eius usque ad mortem semper maneat et in resurrectione resurgat, an omnes partes materiae continue fluant et refluant. Secundum huius rei determinationem etiam diversimode accipitur id quod pertinet ad veritatem humanae naturae. — Sententiam propriam circa hoc exponit S. Bonav., infra q. 2. in corp., quae magis illustratur his verbis Alexandri Hal. (loc. cit. ad 4.): «Natura in primo homine erat duplex: una, quae erat simpliciter ipsius, ut erat individuum; alia, quae erat illius, ut erat principium aliorum. Haec autem natura duplex respondet duplici appetitui, quorum unus erat respectu salutis in se, alius respectu salutis in alio; et duplici virtuti, scilicet nutritivae, qua intenditur salus sive conservatio rei in se, et generativae, qua intenditur conservatio rei in alio... Huic duplici naturae duplex respondet veritas: una, quae respicit esse individui absolute, alia, quae respicit esse, in quantum est principium aliorum: sic est una veritas naturae, quae respicit esse Adae in se; alia, quae respicit esse illius, ut est ad producendum alios in esse. Veritas ergo naturae, quae erat in Adam respectu sui, resurget in ipso Adam; sed quae erat in ipso respectu speciei resurget in alio».
+
+*3.* Distinctio, ex Aristotele sumta, inter carnem secundum materiam et carnem secundum speciem diversimode intelligitur, et Richard. a Med. (hic a. 5. q. 1. ad 2.) quinque interpretationes recenset. Quid sentiat de hoc S. Bonav., clare proponitur in 2. quaest., quid vero S. Thom., vide apud ipsum, hic q. 2. a. 1. ad 2; Sum. loc. cit. ad 2.
+
+**II.** Prima et extrema opinio circa propositam quaest. est Magistri, qui, quamvis concedat, cibos per nutritionem in sanguinem et carnem transire, negat tamen, eos transire in veritatem humanae naturae, quippe quae etiam materialiter tota fuerit in Adam, cum in posteris eius multiplicata sit in se ipsa, sine conversione alicuius extrinsecus appositi; carnem autem illam, per nutritionem conversam, non esse nisi fomentum carnis ab Adam tractae, nec cum illa resurrecturam esse. Triplicem huius opinionis interpretationem cum S. Bonav. affert etiam S. Thom. in Comment. loc. cit. Hanc Magistri opinionem, qualitercumque intellectam, tum in se improbabilem tum insufficientem, vel saltem non necessariam esse ad explicandum propagationem peccati originalis, posteriores Scholastici communiter censent. Alex. Hal. autem vult eandem (secundum 3. interpretationem) tanquam probabilem exponere, licet ipse in aliis verbis idem sentire videtur ac seraphicus suus discipulus.
+
+Secunda et omnino opposita sententia tenetur a S. Thoma, qui sequitur Aristotelem et Averroem et docet, totam materiam corporis fluere et refluere, et non esse diversitatem inter carnem a parentibus tractam et per potentiam nutritivam conversam; quod legitime iam ex doctrina de unitate formae substantialis sequi videtur (vide in corp. opinio 2.). Ab eodem etiam docetur, quod totum semen sit de superfluo alimenti.
+
+Tertia sententia, quae medium inter primam et secundam positionem tenere vult, praefertur a S. Bonav. tanquam probabilior. Breviter eadem exponitur in fine 2. quaest., ubi duplici conclusione dicitur, quomodo aliquid extrinsecum possit transire in veritatem humanae naturae, proprie mediante opere generativae, large etiam opere nutritivae. De hac autem sententia S. Thom. in Comment. loc. cit. dicit: «Huiusmodi positionis primus auctor invenitur Alexander commentator, ut Averroes in libro de Generatione [I. text. 38.] dicit», et ibidem eandem pluribus rationibus impugnat.
+
+**III.** Alii Scholastici antiqui de 1. et 2. quaest. plerumque inverso ordine tractant. Scot. in utroque Scripto (IV. Sent. d. 44. q. 1.) fuse de his et annexis quaest. disputat et magis cum S. Thoma convenire videtur, sed non in omnibus; docet etiam cum S. Thoma, semen esse de superfluo alimenti (apud Hier. de Montefortino, S. t. II. q. 119. a. 2.). — B. Albert. (S. p. II. tr. 17. q. 110. m. 1. 2.) convenit cum Alexandro Hal. — Petr. a Tar. (hic q. 1. a. 1. 2.) nihil determinat quoad opinionem 2. et 3. — Richard. a Med. (loc. cit. q. 1. 2.) arguit contra opinionem tum Magistri tum S. Thomae (cui tamen concedit, semen esse de superfluo nutrimenti), at in aliis sequitur nostrum Doctorem. — Aegid. R. (hic q. 2. a. 1. 2.) et Durand. hic (q. 4. 5.) in re principali sequuntur S. Thomam. Henr. Gand. (Quodl. 2. q. 10.) non clare explicat, quam opinionem praeferat. — Dionys. Carth. (hic q. 8.) dicit: «Inter tot opiniones videtur positio illa Alexandri philosophi rationabilior esse, quantum ad philosophicae veritatis pertinet forum; quantum vero ad theologicae veritatis spectat sinceritatem, positio illa Alexandri
+
+<!-- page 734 -->
+
+theologi ac Bonaventurae amplius placet, quamquam in ea quaedam contineantur, quae difficile est salvare, praesertim quod dicunt, semen illud hominis protoplasti posse per quantumlibet multos diffundi, communicari ac dividi, quia, in quantum est continuum quid, est divisibile in infinitum. Quamvis enim hoc verum est, non tamen est divisibile in infinitum, nec in quamlibet multa, ita quod sub qualibet eius particula maneant natura et ratio seminis [nec hoc determinate dicit S. Bonav.], quoniam omnium natura constantium certus est terminus et finis ac ratio magnitudinis, secundum Philosophum».
+
+---
 
 ## English
 
-[Translation pending]
+### Article III. *On the truth of human nature.*
+
+Next, concerning the third article, the inquiry is about the truth of human nature. And since two things concur for anything to be said about the truth of human nature, namely matter and form, it belongs to the fourth book to speak of the truth of human nature on the side of form, where the resurrection is treated; but it belongs to this place to inquire about the truth of human nature on the side of matter, where the Master[^1] inquires whether anything extrinsic can pass over into the truth of human nature. Concerning this, therefore, two things must be asked.
+
+First it is asked whether anything passes over into the truth of human nature through the act of the generative power. Second it is asked whether anything passes over into the truth of human nature through the work of the nutritive power.
+
+### Question I. *Whether anything passes over into the truth of human nature through the act of the generative power.*
+
+Concerning the first, one proceeds thus, and it is asked whether anything passes over into the truth of human nature through the act of the generative power. And that it does not, it seems:
+
+1. First by the authority of authentic doctors, namely the Master of the Sentences and Hugh. For the Master in the text[^2] says thus: «Everything that is naturally in human bodies descends from the first parent by the law of propagation and has been increased and multiplied in itself, with no exterior substance passing over into it». Likewise master Hugh of St. Victor at the end of the sixth part[^3]: «From the substance of the rib, multiplied in itself by divine power without any extrinsic addition, the body of the woman was made, just as afterward we behold human nature, sown by the first parents into the subsequent generation, already so much multiplied from a small beginning that we see many thousands of men to have grown forth from it».
+
+2. Likewise, this same thing is shown, secondly, by the authority of the Saints. For Anselm says, in his book *On the Virginal Conception*, chapter two[^4], speaking of the first parents: «Since the whole of human nature was in them, and nothing was outside them, the whole was weakened and corrupted». And what is greater, Augustine in the tenth book *On Genesis according to the Letter*[^5] says that we were in Adam according to the seminal reason and according to corporeal substance; but the flesh of Christ was only according to corporeal substance. But if these things are true, that the whole flesh and the flesh of all posterity was in Adam: then nothing extrinsic passes over into it through the generative power.
+
+3. Likewise, this seems so by the authority of the Gospels, in Matthew chapter fifteen[^6]: *Everything that enters into the mouth goes into the belly and is cast out into the privy*: therefore it does not seem that the body of the offspring is constituted from anything that is eaten by a man. And in Mark chapter seven[^7]: *Everything extrinsic entering into a man cannot defile him, because it does not enter into the heart, but into the belly, and goes out into the privy, purging all foods*. There the Gloss: «Although the thinnest humor and the liquid food, when it has been cooked and digested in the veins and limbs, glides down through hidden passages, which the Greeks call *pores*, to the lower parts and goes into the privy».
+
+4. Likewise, this same thing seems so by reason. First through the truth of generation. «For to generate is to produce someone from one's own substance[^8]»: if therefore all are truly and rightly said to be begotten of Adam and sons of Adam, we are all propagated from something that was his substance. But by the same reasoning that my hand or foot or any other member has to be constituted from that which was in Adam, by the same reasoning also the individual members. It seems therefore that the whole body of any man was constituted from the seed of Adam; and if this is so, nothing extrinsic passes over into the truth of human nature through the act of the generative power.
+
+5. Likewise, this same thing seems so through the law of kinship[^9]: since the stock cannot contract [marriage] with anyone proceeding from itself, nor can those approaching the stock contract with one another; and this is for no other reason than the unity of flesh and blood: therefore it seems that the offspring is generated not from the superfluity of nourishment, but from the substance of the father, and not only from the substance of the near father, but even of the remote father; otherwise the law of kinship will be vain; which is not only against the truth of sacred Scripture, but even against the dictate of nature.
+
+6. Likewise, this same thing seems so through the condition of the resurrection. For it is necessary that to each soul its own body be restored. Suppose therefore that someone nourished on human flesh generates offspring; if that seed has been taken from nourishment, since the nourishment of this was from the truth of another man's body, it would return to the first body: therefore the one who was generated from that seed would not rise again, since the soul would be deprived of its own body. If therefore this is impossible, it remains that that also is impossible, namely that anything extrinsic passes over into the seed; therefore what was cut off from the first parent is increased in itself, without the addition of anything else.
+
+On the contrary: 1. The Philosopher in the book *On Animals*[^10] says that seed is «the superfluity of the last food»: if therefore physicians are to be believed in those things which they say concerning their science, and natural philosophers likewise in those things which they say concerning their science; since to determine concerning the generation of man belongs to the natural philosopher: he is to be believed when he says that seed is from the superfluity of nourishment, so that something extrinsic can pass over into the truth of human nature.
+
+2. Likewise, on that text of Luke chapter eleven[^11]: *Blessed is the womb* etc., the interlinear gloss says: «From the same source both the milk for nourishing and the seed for procreating children flows forth; from the seed of the Virgin, therefore, he could be conceived who could be nourished by her milk».
+
+3. Likewise, Augustine in the book *On True Religion*[^12]: «Foods not suited to the body are cast out through fitting passages, of which one part, most fecal, is returned to the earth to take on other forms; another part exhales through the whole body; another part takes on the latent numbers of the whole animal and is begun in offspring». Now he calls the seminal reasons «numbers». By this authority it is expressly gathered that seed is from nourishment. If perhaps you should say that Augustine understands this with respect to the part of the seed according to matter; the authority itself stands in the way, which says that «the nourishment takes on numbers», that is, seminal reasons; for that part is said to be the part according to species, upon which the active and converting power is founded. In the same authority he adds that from that nourishment thus drawn off all the members are formed. And it is plain according to physicians that the radical members have to be formed from the parts according to species, that is, from the radical humor.
+
+4. Likewise, this same thing seems so by reason. Every increase that occurs through nature either occurs through rarefaction or occurs through addition. If therefore all men have been naturally produced from that seed which was cut off from Adam; it is necessary that it has been increased either through rarefaction or through addition. But it could not be through rarefaction, «because there were not so many atoms in that seed as there are men produced from it[^13]»: if therefore it has been increased, this is through addition: something extrinsic, therefore, enters into the constitution of human
+
+seed. But if you should say that there is a third mode of increase, possible through the multiplication of nature; against this it is objected through Hugh of St. Victor, who says[^14] that «to make something greater according to substance and quantity without addition, this is possible to God alone».
+
+5. Likewise, it is impossible for anyone to be nourished through the nutritive power unless something extrinsic is added by which one is nourished: therefore by parity of reasoning it is impossible for the augmentative power to augment substance unless something extrinsic is added by which it is augmented; or if it can be increased in itself, why can it not be nourished through itself[^15]?
+
+6. Likewise, it belongs to the nobility of an agent[^16] that it can draw another matter to itself and convert it into itself, as fire converts air into itself. If therefore the generative power in man is complete and perfect, and the seminal reason in it is in the highest degree active; it seems that it can act upon extrinsic matter and convert it into itself and communicate to it the seminal reason; and if this is so, then through the work of the generative power something extrinsic can pass over into the truth of human nature.
+
+### Conclusion.
+
+> Something from nourishment passes over into the truth of human nature and, together with the radical moisture, comes to be of the truth of the offspring.
+
+**I respond:** It must be understood here that, as plainly appears in the text[^17], the opinion of the Master of the Sentences was that nothing extrinsic passes over into the truth of human nature through generation. Now this position appears very probable, if one attends to the words of the Saints, and together with this to the condition of the resurrection and the law of kinship. This position, therefore, some have maintained, saying that such multiplication, without the addition of anything extrinsic, occurs in human nature through a supernatural power; others, that it occurs through a supercelestial power; a third group, that it occurs through an elemental power.
+
+The first said that just as God reserves to himself the creation of souls on account of their immortality, so too he multiplies and augments the substance of human bodies without extrinsic addition, as he multiplied the evangelical loaves[^18], and as he multiplied the rib from which Eve was formed; and this because human bodies are ordained to immortality. Yet he is not said to work miracles in multiplying thus, because he does this as though he were doing it through nature. For nature, in feeding and nourishing, as it were fosters from without; but it is God who furnishes the nourishment from within. — But against this manner of speaking stand both sense and reason and authority. Sense stands in the way, because we thus see man produced from man, just as an ass from an ass, and as a plant from a plant. If therefore other natural bodies come to be from added matter, and our sense is not deceived; it must be judged that it is likewise concerning human bodies. — Reason too stands in the way, because there is no natural generation except that in which nature is truly acting and truly producing something like itself. If therefore the multiplication of man from man were through a power above nature, and not through the power of nature itself; the generation of man from man would not be natural; and if this is so, it would not be a true generation. — Authority too is repugnant. For Augustine says in the tenth book *On Genesis according to the Letter*[^19] that we were in Adam according to corporeal substance and according to the seminal reason, Christ only according to corporeal substance. But if our bodies were drawn out from the seed of Adam through a power above nature, then in him they would have to be said, like Christ also, to be only according to corporeal substance, not according to the seminal reason, since the seminal reason denotes an active power.
+
+But others maintain the aforesaid position, saying that such multiplication is through a supercelestial power. For the body of the fifth essence, or the luminous body, is naturally apt to emit light from itself and to multiply itself, not by drawing the nature of light out of that body which it illuminates, but it multiplies matter and form together. And so in the matter at hand they wished to say that, because in human nature there is much of the nature of the fifth essence, it can be multiplied in itself. — But against this manner of speaking too stand sense and reason and authority. Sense, because no celestial body multiplies its light in itself, but if it multiplies, it multiplies it outside itself and in extrinsic matter. And again, we do not see that the sun in multiplying generates a sun or produces a sun; therefore if this multiplication in human seed is regarded according to the celestial nature; it will not be multiplied in itself except by something extrinsic superadded, nor from such multiplication will a man be produced from a man, just as neither is a sun produced from a sun. — Reason too stands in the way, since multiplication through a created power is from something actively similar. If therefore it belongs to form alone to act[^20]; and form is not made like to matter, but to another form: it is impossible, therefore, for
+
+anything to be multiplied through a created power with respect to the material principle, neither elemental matter nor celestial. — Authority too is repugnant, since light going forth from a luminous body is not a body, nor does it have matter in itself; and this was shown more plainly above in the thirteenth distinction[^21], where the authorities for this were also adduced. It is difficult, too, to explain according to this position how the nature of the fifth essence enters the constitution of human nature. And unless this is rightly understood, as was explained above in the seventeenth distinction[^22], it cannot easily be maintained.
+
+But a third group maintain that such multiplication occurs through the power of inferior nature, with a receptive potency concurring on the part of matter and an active one on the part of form. For matter, so far as it is of itself, does not have extension, but that it be extended so much or more, this is by reason of the form joined to it. Hence however little of matter be placed in any body, it would be capable of a very great extension, if there were some agent that could impress a form of so great an extension. But on the part of form there is in it a potency of multiplying its like; and hence it is that when the seed is aided and fostered by extrinsic nourishment, that seminal force in its matter can multiply itself and grow, with nothing resisting; and therefore it is not necessary that anything extrinsic pass over into the truth of human nature. And Augustine seems to hold this[^23], when he says that «from one seed harvests of harvests and forests of forests, herds of herds, peoples of peoples, can be brought forth, in such a way that nothing is afterward found in all those things which was not previously invisibly in that first seed».
+
+But against this position, although it seems more reasonable than the rest, nonetheless, as against the aforesaid ones, sense and reason and authority are repugnant.
+
+Sense indeed is first repugnant. For if in those things which are generated, growth came about through multiplication without addition; then this world would be much greater than it was at the beginning, and would grow visibly day by day. For it could not be said that by resolution ten grains of wheat are reduced to one.
+
+Reason too is repugnant, because matter is not the subject of transmutation except under some being. Hence, although the matter of corporeal things can be abstracted from the form of bodies by the intellect, it can nevertheless never be despoiled, through the power of any creature, of all extension and corporeal form; on account of which Augustine says in many places that it is impossible for a spirit to come to be from a body, both *On Genesis according to the Letter*[^24] and in the book *On the Immortality of the Soul*. If therefore this matter under such being has a fixed state and determination in its extension, beyond which nature cannot proceed, for the reason that, as the Philosopher says[^25], «of all things that are constant there is a term and a ratio of magnitude and of increase»; and elsewhere, that from one fistful of earth fire can be generated in a thousandfold proportion, yet from one fistful only ten of water can be generated: if this, I say, is so, it is impossible to posit that some corporeal thing be augmented in itself without its own rarefaction and the addition of something else; this I say concerning the operation of nature. And it must be attended to here that one must speak in a quite different way of matter according to essence and according to being, that is, according to substance; nor is it to be said that there is as much of matter in one small stone as in one mountain, speaking according to being or substance; although in matter according to essence one is not to consider how much and how great. And thus reason does not agree with this position.
+
+Authority too stands in the way. For Hugh says in the sixth part[^26], where he distinguishes six works, «of which the first is to make something from nothing. The second is to make something from something according to substance and quantity, into something greater. The third work is to make something from some things according to substance and quantity, into something less. The fourth work is to make something from something, yet not according to substance and quantity, into something greater. The fifth work is to make something from some things, yet not according to substance and quantity, into something less. The sixth work is to make nothing from something». Concerning these six kinds of works he adds that «the first work and the second and the third and the last are possible to God alone». Since therefore such multiplication, as he says in the same place, pertains to the second kind of work, it will not therefore occur by the power of inferior nature. — But if this authority is not sufficient, this is shown by the author-
+
+ity of Augustine, in the fifth book *On Genesis according to the Letter*, near the end of the book[^27], where he says thus: «Those things which are produced from seed were all in the seed at first, not in the bulk of corporeal magnitude, but in causal potency. For that magnitude has been gathered together by an abundance of earth and moisture; but in the tiny grain there is a more wonderful and more excellent force, by which the adjacent moisture, mixed with the earth, had the power to be turned, as it were as material, into the quality of that tree, into the diffusion of branches, into the greenness of leaves». Therefore the seed is not increased in itself without the addition of something else. Still more expressly *On Genesis according to the Letter*, at the end of the tenth book[^28]: «What is more absurd than to think that any body, while the quantity of its nature remains, grows on every side, unless it be rarefied». Therefore if the quantity of the seed cut off remains and is not rarefied and grows on every side, this cannot be without the addition of matter, unless this come about miraculously. — In whatever of the aforesaid modes, therefore, the opinion of the Master be maintained, whether also all the modes be blended into one, or each be adapted by itself; very many difficulties arise, on account of which many refuse to maintain the opinion of the Master in this part.
+
+The second opinion concerning this position is that of certain men who follow the words of the natural philosophers and physicians, saying that, by means of the generative power, not only does something pass over into the truth of human nature, but rather the whole truth of the offspring generated is from the extrinsic thing added, because it is from the superfluity of nourishment. Now they say that this is so because the mode[^29] of operating is orderly and delightful and expeditious. Orderly, because there the operation of the generative power begins where the operation of the nutritive power ceases. For nature first intends [the good] for itself rather than for another; and therefore the matter of generation is the superfluity of the last food, which indeed, although it be superfluous for the work of nutrition, is nevertheless necessary for the work of generation. This mode also is delightful, since nature is delighted in the emission of the superfluous and is saddened and grieves in the emission of what is necessary and conjoined to itself. If therefore nature is most delighted in the work of generation, the matter of generation is from the superfluity of nourishment. This mode also is expeditious, because, since the third[^30] food is in proximate potency to be converted into the individual members, if nature must fashion a body from some humor, it will fashion it from that one; but since it does not fashion it from what is necessary, it remains that it fashions it from the superfluous. Since therefore nature operates as briefly and delightfully and orderly as it can, therefore they say that such a mode of procreating, namely from the superfluity of nourishment, is most fitting to nature. It is fitting also, as they say, to the divine disposition and to the ordination of bodies to the resurrection. For since the seed does not rise again in the one generating, but in the one generated, that humor does not seem to have been of the truth of the one generating, but rather of the superfluity of moisture.
+
+But although this manner of speaking seems very probable to one attending to the words of the Philosopher; nonetheless, as against the other manner of speaking too, sense and reason and authority stand in its way. — Sense indeed, because we see offspring sometimes made like to a great-grandfather, and as it is made like to the great-grandfather, so it can be made like to the one who preceded all the way to the tenth generation: therefore so on thereafter: therefore it seems that there is something in this first son drawn down from the first parent. And again, since we see a man weakened by coitus, and death hastened by the frequency of such an act; it seems that not only is there an emission of the superfluous in the seed, but rather also of some radical moisture; and thus the offspring is not only from the superfluity of nourishment, but also from the truth of the one generating. — Reason too stands in the way, because if the offspring were only from the superfluity of the father's food, neither would there be a true generation, since generation is from the substance of the one generating, nor would there be a true kinship; rather a man would have more to do with the pig from which the nourishment was taken than with the father who generated him. — Authority too is repugnant, since Augustine expressly says, *On Genesis according to the Letter*, that we were all in Adam according to corporeal substance and according to the seminal reason. And what is greater, the Apostle[^31] says that we all sinned in Adam, and that Levi was in the loins of Abraham when he was tithed, to the Hebrews chapter seven.
+
+From this position, therefore, if it be carried through, it seems to follow that there would not be a true generation or kinship at all; but from the preceding one, if it be posited that nothing of the nourishment passes over into the offspring, it seems to follow that there is no natural generation. — If therefore it is to be held for certain that the generation of man from man is both true and natural; we must hold a middle way between both of these positions, so that we say that something of the superfluity of nourishment passes over into the seed, yet the seed is not wholly from the superfluity of nourishment, but rather there is something there of the radical moisture; and from both the seed has its propagation. Hence just as we see concerning the nutritive power that there is a moisture both radical and nutrimental, namely that which flows; so it must be understood also concerning the generative power,
+
+that in it there is a certain radical moisture, and also a certain flowing and reflowing moisture, and in the generation of the offspring the one runs together with the other. Adam therefore transmitted, when he generated his first son, something of that radical moisture, and that little[^32] was mixed by the power of nature with the whole body of the son by a perfect mixture, because no part could be marked out in the body of the son in which there was not something of that moisture which he drew down from the father. If therefore the son of Adam in generating offspring likewise cut off something of his own radical moisture; it was necessary that he transmit something of that which he had taken from the father, and so on thereafter. And for so much are all said to have been in Adam, not because the matter of all our bodies was there totally, but because there was there a certain amount of matter and the seminal reason, that is, a potency of converting another nature to itself[^33], so that it would suffice for the procreation of all, when there was added to it that in which it could multiply itself. — And there is an example: if someone should have leaven, which he should mix with a perfect mixture into the whole dough; nothing would come to be of that whole leavened dough that would not be said to come to be[^34] of that dough; and likewise, if that dough were mixed further into another larger dough, and proceeding thus, well-nigh innumerable leavened loaves could be made from a little leaven by the addition of leavenable matter. So too in the matter at hand, from a little seed by the addition of moisture capable of receiving the seminal reason, innumerable men can be propagated.
+
+And this mode agrees well enough with reason and is not repugnant to the words of the Philosopher and is drawn from the words of Augustine, as appears by looking at the authority set forth before[^35], which is taken from the book *On True Religion*, where he says that «the nourishment takes on the latent numbers of the whole animal and is begun in offspring». And he explains the mode at the end of the fifth book *On Genesis according to the Letter*, as appears in the authority set forth before, where it is shown that from a little seed a great tree is generated. To this manner of speaking, therefore, as more intelligible and more in accord with philosophy and sacred Scripture, I adhere more. For I believe that blessed Augustine held this, as I can gather from his words. And according to this mode the truth of kinship and of generation is preserved, for the reason that something radical is drawn down from the parent into the offspring. Generation and propagation are nonetheless maintained to be natural, because this comes about through the addition of nourishment. — And therefore those reasons are to be conceded which show that something of the nourishment passes over into the truth of human nature by means of the work of nature[^36], because not only that radical [moisture] which is cut off from the father comes to be of the truth of the offspring, but also that together with the superfluity of nourishment joined to it, in such a way that what was superfluous for the one is necessary for the other; for each was the foundation of the fashioning of the whole body generated.
+
+1. To that which is first objected on the contrary from the authority of the Master, it must be said that they commonly do not assent to their words in this part, nor do I myself well understand them; nor however do I affirm that they said something false, but rather I understand a different opinion.
+
+2. To that which is objected from the authority of Anselm and Augustine, the response is now clear. For they say that we were in Adam, not because no other matter has been converted into our body except that which was in Adam, but if any other has been converted, this is only by conjunction with that which was cut off from Adam. And if you should say that Anselm himself says that the whole of human nature was in Adam; it must be said that he does not say this with respect to possible existence[^37], but with respect to actual existence, because nothing was actually of the truth of human nature except what was in Adam. Yet something possible was there toward this, that it should come to be of the truth of human nature, but this by the operation and power of the flesh of Adam.
+
+3. To that which is objected from the authority of the Lord in the Gospel and from the Gloss, it must be said that neither the text nor the Gloss in any way understands[^38] that man passed out the whole of what he eats, but that, when a man eats, there occurs a separation of the pure from the impure through the digestions made within, and the pure and what is conformed to nature is retained within, and the impure is expelled without; and for so much the Lord said that nothing which enters into the mouth defiles a man; and thus the word of the Lord is most true, according as it avails for the matter at hand. — Yet it could be said that «the privy» is there called not only the lower passage through which the discharges run, but all the subtle passages through which the straining-off of foods occurs. And the Gloss says that the Greeks call them *pores*; and thus it does not follow that the whole nourishment goes out without, and nothing of it passes over into the truth of the offspring.
+
+4. To that which is objected, that generation is from the substance of the one generating; the response is now clear. For I say
+
+that something of the radical moisture of the parent passes over into the offspring, and by reason of it the truth of generation is preserved there; nor however is it necessary that there be an identity according to the whole of the one generating with the one generated. For just as the one generating does not give the whole of himself, but a part of himself, so too the one generated did not come out from the one generating according to the whole, but according to some part; nor was that whole which it drew from the one generating radical to the one generating, but something is added to the radical, that it may be able to be increased.
+
+5. To that which is objected from the law of kinship, the response is now clear. For the law of kinship is just as well preserved if the son is drawn down from the father by drawing from him the radical humor with the addition of an extrinsic thing, as if nothing were added from without, indeed much more truly. For the addition of the extrinsic thing brings it about that the line of consanguinity is at some point terminated, and that those who are more distant from the stock are joined by a lesser bond of consanguinity. And if it be objected that, if something of the radical is drawn down, then by parity of reasoning the whole could be drawn down; and that it would be necessary for it to be multiplied in itself, since «not even so many atoms were in the body of Adam[^39]»; it must be said that seed is both quantitative in bulk and quantitative in power. And the quantity of power belongs to the side of form and can be called the seminal reason, and this, since it is a form, is multipliable, that is, it can induce its like into the matter set beside it. But the quantity of bulk, although[^40] it be small, can nevertheless be so extended as to be mixed with a very great quantity through that nature by which every body is infinitely divisible; and thus it can be mixed with a great quantity and draw the whole to its own nature; and from that whole quantity something can come to be that would not come to be from the seed itself by itself; and however many[^41] come to be from that whole quantity, they are said to be made through itself. Nor however is it necessary there to distinguish diverse parts, from which diverse things come to be in that primordial seed, but only in the proximate [seed], for the reason that it has been increased by the addition of superfluous nourishment.
+
+6. To that which is objected from the law of resurrection, some respond that a man cannot be generated from the flesh of another man, for the reason that the nourishment, and that which is converted into seed, must be in potency with respect to that into which it is converted; but the flesh of man according to species is in act, and therefore cannot be transmuted into another man. — But this does not seem to suffice, for the reason that from flesh[^42] worms can be generated; and consequently a plant and fruit could be generated, and then it would be in potency with respect to human flesh; and thus through many transmutations it seems that from it seed could come to be.
+
+But others say that, since the flesh of man is capable of every transmutation, like other things too, that from it seed can be generated; and then it will rise again in the one generated, for the reason that it has a more essential relation to him, and the Lord will supply for that one by adding from elsewhere, or by multiplying by a power above nature, as he does in the little child. — But by whatever reasoning it is said of one part that it can be converted, by the same reasoning [it is said] also of any part whatever, and thus a man could lose his whole body.
+
+Therefore there is a third manner of speaking, that the flesh of man according to species cannot become the flesh of another man according to species, on account of the necessary ordination which it has to the soul which vivified it. But whether that ordination is founded in the appetite of the dusts, or in the providence of the Creator, is difficult to discern. In whatever way it be, however, the response to this is plain. But this is found more plainly determined in the fourth book[^43], where it is made manifest what rises again, and in what. — But the seed will rise again in the one generated, not in the one generating, although it has been said here that the seed is from the radical moisture of the one generating. For seed is radical to the one generating in one way, and to the one generated in another. For to the one generating it is radical according to a part of himself, it is also radical with respect to the generative power, not with respect to the nutritive power; but the generative power and its moisture is ordained to another. Hence if the moisture of the generative power be cut off from anyone, whether another be generated or not, it will never rise again in him; and hence it is that although in the emission of seed a cutting-off of some radical moisture occurs, there is nevertheless no penalty there, since that moisture by nature was ordained to another. Hence also there remains there the expeditious and delightful and orderly mode of operating; and this whole is because that moisture in the one generating was [ordained] to another. But in the one generated, because from it the whole body is fashioned, it is as it were the foundation of the whole body, and then, when the soul is united to it, it begins to be truly and properly of the truth of human nature. For then it first begins to have a necessity for the resurrection; but before, it was only possible[^44]. Hence if some woman should miscarry before the union of the soul, that would in no way rise again.
+
+### Scholion
+
+**1.** Since the propagation of original sin supposes that the nature of the whole human race was in some way in Adam, and since it is established that the same, on the side of souls or forms, produced by God himself in the course of time, was in him neither formally nor materially; there arises here a question pertaining to physiology, in what way, on the side of the material principle, human nature was in Adam. This problem was the more diligently discussed by the ancient masters according to the principles of natural philosophy then received, because the Master, together with Hugh of St. Victor, had taught a solution which seemed to later writers commonly irrational, and also because the determination of this same difficulty is recognized to serve not only for illustrating the mystery of original sin, but still more for explaining the dogma of the resurrection and the secret of natural generation. But the question is not about the seminal reason or the active power, which pertains to form (according to which power no one denied that the human bodies of posterity were in Adam), but precisely about the material principle. But it is useful to recall what was said above concerning the propagation of forms, d. 7, p. II, a. 2, q. 1–2, and d. 18, a. 1, q. 2–3. But it is known that more recent physiology, as to the experimental part, has by more accurate observations discovered very many things which in that age were unknown. — The two questions of this article are intimately connected; that they may more easily be understood, we note three things beforehand.
+
+*1.* Alexander of Hales (S. p. II. q. 80. m. 2. a. 1.) observes these things and at the same time sets forth his own opinion: «The whole of human nature is said to have been in Adam in three ways: both because human nature was perfectly in him; and because the human species was at one time saved in him alone, which was afterward shared by others; and also because there was something in him which by propagation is of the constitution of the bodies of all men. When therefore it is asked how the whole of human nature was in Adam, namely according to matter, or according to *form*; it must be said that according to matter, because the matter of all bodies, or the material, which is of the constitution of all human bodies, was in the body of Adam. And for the fuller knowledge of this, it must be known that in the body of Adam there was a quantity of bulk together with the seminal reason: by reason of the quantity of that bulk it could be extended and diffused according to the extension of a body almost disproportionately greater... Moreover, the seminal reason in him had an active power, by which it could multiply itself in receptive matter, as the power of light and of fire and the like can» (see Bonaventure here, q. 1, solution to 5).
+
+*2.* The locution *to pertain to the truth of nature* according to all signifies in general that which is of the constitution of the nature itself (St. Thomas, S. I. q. 119. a. 1.), and since nature can be considered in two ways: «in common according to the nature of the species, in another way, according as it is in this individual»; under the first respect there pertain to the truth of nature form and matter, taken in common, about which there is no controversy; but under the second respect there pertains to the same «individual signate matter and the form individuated through this kind of matter» (ibid.). But concerning this matter in the individual there are those diverse opinions, here recounted in question 1, which principally turn upon this: whether something material in the same individual body should always remain from its beginning until death and rise again in the resurrection, or whether all the parts of matter continually flow and reflow. According to the determination of this matter, that which pertains to the truth of human nature is also taken in diverse ways. — His own opinion concerning this S. Bonaventure sets forth below, q. 2, in the body, which is more illustrated by these words of Alexander of Hales (loc. cit. ad 4.): «Nature in the first man was twofold: one, which was simply of himself, as he was an individual; another, which was of him, as he was a principle of others. Now this twofold nature corresponds to a twofold appetite, of which one was with respect to wellbeing in itself, the other with respect to wellbeing in another; and to a twofold power, namely the nutritive, by which is intended the wellbeing or preservation of the thing in itself, and the generative, by which is intended the preservation of the thing in another... To this twofold nature corresponds a twofold truth: one, which regards the being of the individual absolutely, another, which regards the being insofar as it is a principle of others: thus there is one truth of nature, which regards the being of Adam in himself; another, which regards the being of that one, as it is for producing others in being. The truth of nature, therefore, which was in Adam with respect to himself, will rise again in Adam himself; but that which was in him with respect to the species will rise again in another».
+
+*3.* The distinction, taken from Aristotle, between flesh according to matter and flesh according to species is understood in diverse ways, and Richard of Middleton (here a. 5. q. 1. ad 2.) recounts five interpretations. What S. Bonaventure holds concerning this is clearly set forth in the second question; but what S. Thomas holds, see in him, here q. 2. a. 1. ad 2; *Summa*, loc. cit., ad 2.
+
+**II.** The first and extreme opinion concerning the proposed question is that of the Master, who, although he concedes that foods pass through nutrition into blood and flesh, nevertheless denies that they pass over into the truth of human nature, inasmuch as it was even materially wholly in Adam, since in his posterity it was multiplied in itself, without the conversion of anything extrinsically added; but that flesh, converted through nutrition, is nothing but a fomenting of the flesh drawn from Adam, nor will it rise again with it. The threefold interpretation of this opinion S. Thomas too, with S. Bonaventure, brings forward in his Commentary, loc. cit. This opinion of the Master, however understood, later Scholastics commonly judge to be both in itself improbable and insufficient, or at least not necessary for explaining the propagation of original sin. But Alexander of Hales wishes to set forth the same (according to the third interpretation) as probable, although he himself in other words seems to hold the same as his seraphic disciple.
+
+The second and entirely opposite opinion is held by S. Thomas, who follows Aristotle and Averroes and teaches that the whole matter of the body flows and reflows, and that there is no diversity between flesh drawn from the parents and flesh converted through the nutritive power; which seems to follow legitimately from the doctrine of the unity of the substantial form (see in the body, opinion 2). By the same it is also taught that the whole seed is from the superfluity of nourishment.
+
+The third opinion, which wishes to hold a middle between the first and second position, is preferred by S. Bonaventure as more probable. The same is briefly set forth at the end of the second question, where by a twofold conclusion it is said how something extrinsic can pass over into the truth of human nature, properly by means of the work of generation, broadly also by the work of nutrition. But concerning this opinion S. Thomas in his Commentary, loc. cit., says: «The first author of this kind of position is found to be Alexander the commentator, as Averroes in the book *On Generation* [I, text 38] says», and in the same place impugns it with several reasons.
+
+**III.** Other ancient Scholastics for the most part treat of the first and second questions in inverse order. Scotus in each of his Writings (IV Sent. d. 44. q. 1.) disputes at length about these and connected questions and seems to agree more with S. Thomas, but not in all things; he also teaches with S. Thomas that the seed is from the superfluity of nourishment (in Hier. de Montefortino, S. t. II. q. 119. a. 2.). — B. Albert (S. p. II. tr. 17. q. 110. m. 1–2.) agrees with Alexander of Hales. — Peter of Tarentaise (here q. 1. a. 1–2.) determines nothing as to the second and third opinion. — Richard of Middleton (loc. cit. q. 1–2.) argues against the opinion both of the Master and of S. Thomas (to whom, however, he concedes that the seed is from the superfluity of nourishment), but in other things follows our Doctor. — Aegidius Romanus (here q. 2. a. 1–2.) and Durandus here (q. 4–5.) in the principal matter follow S. Thomas. Henry of Ghent (Quodl. 2. q. 10.) does not clearly explain which opinion he prefers. — Dionysius the Carthusian (here q. 8.) says: «Among so many opinions, that position of Alexander the philosopher seems more reasonable, as far as concerns the forum of philosophical truth; but as far as regards the sincerity of theological truth, that position of Alexander
+
+the theologian and of Bonaventure pleases more, although in it there are contained certain things which it is difficult to make good, especially that they say that the seed of the first-formed man could be diffused, communicated, and divided through however many men, because, insofar as it is something continuous, it is divisible to infinity. For although this is true, it is nevertheless not divisible to infinity, nor into however many parts, in such a way that under any particle of it the nature and ratio of seed should remain [nor does S. Bonaventure determinately say this], since of all things that are constant there is a certain term and end and ratio of magnitude, according to the Philosopher».
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus in Latin (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries here are renumbered continuously [^1]–[^44] in body order across printed pages 726–732, covering all 56 per-page Quaracchi footers (some footers sharing a single body anchor are consolidated into one entry). (The Scholion on pp. 733–734 carries no numbered footers.)
+
+[^1]: **La.** Dist. 44. p. I. a. 1. et 2.
+    **En.** [IV Sent.] Dist. 44, p. I, a. 1 and 2.
+
+[^2]: **La.** Hic c. 14.
+    **En.** Here [in the text of the Master, d. 30] c. 14.
+
+[^3]: **La.** Libr. I. c. 37. In textu allato post *factum est* a Bonav. plures propositiones omissae sunt, quae in originali exhibentur, ubi et pro *ex eo* (versus finem verb. citt.) legitur *ex ea*.
+    **En.** [Hugh, *On the Sacraments*] Bk. I, c. 37. In the text quoted, after *factum est* several propositions have been omitted by Bonaventure which are exhibited in the original, where also, for *ex eo* (toward the end of the cited words), *ex ea* is read.
+
+[^4]: **La.** Cap. 3. — Paulo ante in textu Hugonis cod. T (a secunda manu) *contrahimus* pro *contraximus*.
+    **En.** [Anselm, *On the Virginal Conception*] c. 3. — A little before, in the text of Hugh, codex T (by a second hand) reads *contrahimus* for *contraximus*.
+
+[^5]: **La.** Cap. 19-21. Codd. et vetustiores edd. hic non recte signant librum *nonum*, in quo (c. 16. n. 30. et c. 18. n. 34.) pauca tantum occurrunt, quae ad rem pertinent; sed postea in corp. quaestionis ipsi quoque allegant librum *decimum*. — Paulo inferius verbis *tota caro* codd. L O addunt *humana*, et in fine arg. pro *ipsam* Vat. substituit *ipsum*.
+    **En.** [Augustine, *On Genesis according to the Letter*] cc. 19–21. The codices and older editions here wrongly mark the *ninth* book, in which (c. 16, n. 30, and c. 18, n. 34) only a few things occur which pertain to the matter; but afterward, in the body of the question, they too allege the *tenth* book. — A little below, to the words *tota caro* codices L O add *humana*, and at the end of the argument, for *ipsam*, the Vatican [edition] substitutes *ipsum*.
+
+[^6]: **La.** Vers. 17.
+    **En.** [Matth. 15,] v. 17.
+
+[^7]: **La.** Vers. 18. seq., ubi Vulgata pro *coinquinare* exhibet *communicare*, deinde post *in cor* adiicit *eius* et post *ventrem* verbum *vadit*. — Glossa, quae Bedae est (super hunc loc.), habetur apud Strabum et Lyranum.
+    **En.** [Marc. 7,] v. 18 f., where the Vulgate, for *coinquinare*, exhibits *communicare*, then after *in cor* adds *eius*, and after *ventrem* the word *vadit*. — The Gloss, which is Bede's (on this passage), is found in Strabus and Lyranus.
+
+[^8]: **La.** Secundum Damascenum, de quo vide supra pag. 479, nota 1. — Pro *sui substantia* Vat. cum edd. 3, 4 *sua substantia*, et immediate post pro *aliquem* eaedem edd. nec non ed. 2 *aliquid*. Propositionem seq. Vat. et edd. 3, 4 sic transformare sibi sumserunt: *si ergo... et filii Adae omnes sumus, sumus de aliquo ex eius substantia propagati*. Versus finem arg. pro *ex Adae* Vat. cum edd. 2, 3 substituit *ex eodem*, et deinde *veritatem* commutavit in *virtutem*.
+    **En.** According to the Damascene, on whom see above p. 479, note 1. — For *sui substantia* the Vatican [edition] with edd. 3, 4 [reads] *sua substantia*, and immediately after, for *aliquem*, the same editions and also ed. 2 [read] *aliquid*. The following proposition the Vatican [edition] and edd. 3, 4 took it upon themselves to transform thus: *if therefore... and we are all sons of Adam, we are propagated from something of his substance*. Toward the end of the argument, for *ex Adae* the Vatican [edition] with edd. 2, 3 substitutes *ex eodem*, and then changed *veritatem* into *virtutem*.
+
+[^9]: **La.** De qua vide IV. Sent. d. 40. per totam.
+    **En.** Concerning which see IV Sent., d. 40, throughout.
+
+[^10]: **La.** Libr. II. de Anima, text. 41. (c. 4.). — Seq. sententia, Philosopho tributa, propinqua et finitima est sententiae illi quae habetur II. de Generat. et corrupt. text. 37. (c. 6.) et secundum antiquam translationem sic sonat: «Si ex aquae pugillo erunt pugilli aeris decem, idem erit». Quae verba Averroes ita exponit: «Si dixerimus, quod unus pugillus aquae aequalis est in quantitate decem pugillis aeris, hoc non erit, nisi habeant subiectum commune ambobus, v. g. quando extendetur et rarefiet, fiet aer, quando condensatur et constringitur, fiet aqua». In Comment. super II. de Anima, text. 97. idem dicit, minimam dimensionum, quam materia per rarefactionem possit recipere, dimensionem esse terrae, et maximam dimensionem secundum millesimam partem esse dimensionem ignis. B. Albert., in hunc loc., tr. 3. c. 25., ait: *Dicamus igitur, quod ex uno pugillo terrae fiant per rarefactionem mille pugilli ignis, eo quod corpus rarius maiorem habet quantitatem etc.*
+    **En.** [Aristotle] Bk. II *On the Soul*, text 41 (c. 4). — The following sentence, attributed to the Philosopher, is near and adjacent to that sentence which is found in II *On Generation and Corruption*, text 37 (c. 6), and according to the ancient translation runs thus: «If from a fistful of water there will be ten fistfuls of air, it will be the same». Which words Averroes expounds thus: «If we say that one fistful of water is equal in quantity to ten fistfuls of air, this will not be unless they have a subject common to both, e.g. when it is extended and rarefied, it becomes air, when it is condensed and compressed, it becomes water». In his Commentary on II *On the Soul*, text 97, the same [Averroes] says that the least of the dimensions which matter can receive through rarefaction is the dimension of earth, and the greatest dimension, according to a thousandth part, is the dimension of fire. B. Albert, on this passage, tr. 3, c. 25, says: *Let us say therefore that from one fistful of earth there come to be by rarefaction a thousand fistfuls of fire, because the rarer body has a greater quantity, etc.*
+
+[^11]: **La.** Vers. 27. — Glossa est ordinaria; invenies eam apud Strabum et Lyranum, qui tamen pro *et lac* legunt *et lacte*.
+    **En.** [Luc. 11,] v. 27. — The Gloss is the ordinary one; you will find it in Strabus and Lyranus, who however, for *et lac*, read *et lacte*.
+
+[^12]: **La.** Cap. 40. n. 74. — De rationibus seminalibus vide supra d. 18. a. 1. q. 2. seq.; de carne secundum materiam et speciem, hic schol. et q. 2; de humore radicali cfr. tom. I. pag. 316, nota 12.
+    **En.** [Augustine, *On True Religion*] c. 40, n. 74. — On the seminal reasons see above d. 18, a. 1, q. 2 f.; on flesh according to matter and species, this scholion and q. 2; on the radical humor cf. vol. I, p. 316, note 12.
+
+[^13]: **La.** Hic in lit. Magistri, c. 13. — Vat. cum edd. 3, 4 supplet *quot processerunt ex eo homines*. Aliquantulum post pro *et haec* codd. F K bb cc et alii cum edd. 1, 2 *et hoc*, et dein pro *hoc est* Vat. *et ex hoc*.
+    **En.** Here in the text of the Master, c. 13. — The Vatican [edition] with edd. 3, 4 supplies *quot processerunt ex eo homines* [as many men as proceeded from it]. A little after, for *et haec*, codices F K bb cc and others with edd. 1, 2 [read] *et hoc*, and then for *hoc est* the Vatican [edition reads] *et ex hoc*.
+
+[^14]: **La.** Libr. I. de Sacram. p. VI. c. 37.
+    **En.** [Hugh] Bk. I *On the Sacraments*, p. VI, c. 37.
+
+[^15]: **La.** Vat. omittit *nutriri* et pro *in se ipso et per se ipsum* exhibet *in se ipsa et per se ipsam*.
+    **En.** The Vatican [edition] omits *nutriri* and, for *in se ipso et per se ipsum*, exhibits *in se ipsa et per se ipsam*.
+
+[^16]: **La.** Cod. aa et ed. 1 *augmentantis*. Subinde pro *materiam* Vat. cum edd. 2, 3 *naturam*.
+    **En.** Codex aa and ed. 1 [read] *augmentantis*. Then, for *materiam*, the Vatican [edition] with edd. 2, 3 [reads] *naturam*.
+
+[^17]: **La.** Hic c. 14. seq.
+    **En.** Here [in the text of the Master] c. 14 f.
+
+[^18]: **La.** Ioan. 6, 11. seqq. — De formatione Evae de costa Adae cfr. Gen. 2, 21. — Paulo inferius pro *miracula* codd. F K T Z aa et alii cum ed. 1 *mirabilia*, de quo vide supra d. 18. a. 1. q. 2. ad 5.
+    **En.** John 6, 11 ff. — On the formation of Eve from the rib of Adam cf. Gen. 2, 21. — A little below, for *miracula*, codices F K T Z aa and others with ed. 1 [read] *mirabilia*, on which see above d. 18, a. 1, q. 2, ad 5.
+
+[^19]: **La.** Cap. 19-21.
+    **En.** [Augustine, *On Genesis according to the Letter*, Bk. X] cc. 19–21.
+
+[^20]: **La.** Cfr. I. Cor. 3. 7.
+    **En.** Cf. 1 Cor. 3, 7.
+
+[^21]: **La.** Art. 3. q. 1.
+    **En.** [D. 13] a. 3, q. 1.
+
+[^22]: **La.** Art. 2. q. 2.
+    **En.** [D. 17] a. 2, q. 2.
+
+[^23]: **La.** De Vera Relig. c. 42. n. 79; *De uno quippe [semine] secundum suam naturam possunt vel segetes segetum, vel silvae silvarum, vel greges gregum, vel populi populorum per saecula propagari, ut nullum lolium sit vel nullus pilus per tam numerosam successionem, cuius non ratio in illo primo et uno semine fuerit.*
+    **En.** [Augustine] *On True Religion*, c. 42, n. 79; *For from one [seed] according to its nature can be propagated through the ages either harvests of harvests, or forests of forests, or herds of herds, or peoples of peoples, so that there be no weed or no hair through so numerous a succession whose ratio was not in that first and one seed.*
+
+[^24]: **La.** Libr. VII. c. 12. n. 19. et c. 20. n. 26. seq.; de Immort. animae, c. 13. n. 20. seqq. Posteriore loco probat, animam non posse converti in corpus. Cfr. supra d. 18. a. 2. q. 3. — De materia vide supra d. 3. p. II. a. 1. q. 2. seq.
+    **En.** [Augustine, *On Genesis according to the Letter*] Bk. VII, c. 12, n. 19, and c. 20, n. 26 f.; *On the Immortality of the Soul*, c. 13, n. 20 ff. In the latter place he proves that the soul cannot be converted into a body. Cf. above d. 18, a. 2, q. 3. — On matter see above d. 3, p. II, a. 1, q. 2 f.
+
+[^25]: **La.** Libr. II. de Anima, text. 41. (c. 4.).
+    **En.** [Aristotle] Bk. II *On the Soul*, text 41 (c. 4).
+
+[^26]: **La.** Libr. I. c. 37.
+    **En.** [Hugh, *On the Sacraments*] Bk. I, c. 37.
+
+[^27]: **La.** Cap. 23. n. 44, ubi textus origin. pro *sed in potentia causali* habet *sed vi potentiaque causali*. Vat. pro *causali* substituit *causaliter* et in fine textus addit *ac figuram, et in fructuum formas, et opulentiam*.
+    **En.** [Augustine, *On Genesis according to the Letter*, Bk. V] c. 23, n. 44, where the original text, for *sed in potentia causali*, has *sed vi potentiaque causali*. The Vatican [edition], for *causali*, substitutes *causaliter*, and at the end of the text adds *ac figuram, et in fructuum formas, et opulentiam*.
+
+[^28]: **La.** Cap. 26. n. 45. — Vat. sola hic ponit textum integrum: *Quid absurdius quam putare, massam cuiuspiam metalli ex aliqua parte crescere posse, dum tenditur [tunditur], nisi decrescat ex altera, vel augeri latitudine, nisi crassitudine minuantur [minuatur!], aut ullum corpus esse, manente... nisi rarescat.* Haec ille contra Tertullianum.
+    **En.** [Augustine, Bk. X] c. 26, n. 45. — The Vatican [edition] alone here gives the text in full: *What is more absurd than to think that the mass of any metal can grow in some part, while it is stretched [hammered], unless it decrease in another, or be increased in breadth, unless they be diminished [diminished!] in thickness, or that any body, while [its quantity] remains... unless it be rarefied.* These things he [says] against Tertullian.
+
+[^29]: **La.** Codd. Q (W a secunda manu) aa *hic modus*. — Cfr. supra d. 20. q. 2. seq.
+    **En.** Codices Q (W by a second hand) aa [read] *hic modus*. — Cf. above d. 20, q. 2 f.
+
+[^30]: **La.** Cod. T (a secunda manu) *ultimus*.
+    **En.** Codex T (by a second hand) [reads] *ultimus*.
+
+[^31]: **La.** Rom. 5, 12: *In quo omnes peccaverunt.* — Seq. textus est loc. cit. v. 9. seq.
+    **En.** Rom. 5, 12: *In whom all sinned.* — The following text is the cited passage [Hebr. 7], v. 9 f.
+
+[^32]: **La.** Cod. aa *nutrimentum*.
+    **En.** Codex aa [reads] *nutrimentum*.
+
+[^33]: **La.** Cod. cc et ed. 1 sic: *sive potentia seminis convertendi ad se materiam*.
+    **En.** Codex cc and ed. 1 [read] thus: *or the potency of the seed to convert matter to itself*.
+
+[^34]: **La.** Vat. *fermentari*.
+    **En.** The Vatican [edition reads] *fermentari*.
+
+[^35]: **La.** Hic in fundam. 3. — Altera Augustini sententia, quae respicitur ut prius posita et signatur ut in fine quinti super Genesim occurrens, habetur supra in corp. quaestionis, et quidem in 3. interpretatione 1. opinionis, quae incipit: *Tertii vero sustinent, quod talis multiplicatio* etc. (pag. 730 col. 1. in princ.).
+    **En.** Here in fundamentum 3. — The other sentence of Augustine, which is regarded as set forth before and is marked as occurring at the end of the fifth book *On Genesis*, is found above in the body of the question, namely in the third interpretation of the first opinion, which begins: *But a third group maintain that such multiplication* etc. (p. 730, col. 1, at the beginning).
+
+[^36]: **La.** Ed. 3 *nutritivae*, Vat. *generative*. Mox pro *alimenti superfluo* edd., excepta 2, *elemento superfluo*.
+    **En.** Ed. 3 [reads] *nutritivae*, the Vatican [edition] *generative*. Soon after, for *alimenti superfluo*, the editions, except 2, [read] *elemento superfluo*.
+
+[^37]: **La.** Vat. addit *vel potentialem*.
+    **En.** The Vatican [edition] adds *vel potentialem*.
+
+[^38]: **La.** Vat. cum edd. 3, 4 *intendit*. Deinde pro *egerat* cod. aa *digerat*.
+    **En.** The Vatican [edition] with edd. 3, 4 [reads] *intendit*. Then, for *egerat*, codex aa [reads] *digerat*.
+
+[^39]: **La.** Hic in lit. Magistri, c. 13. — Vat. cum edd. 3, 4 supplet *quot processerunt ex eo homines*.
+    **En.** Here in the text of the Master, c. 13. — The Vatican [edition] with edd. 3, 4 supplies *quot processerunt ex eo homines* [as many men as proceeded from it].
+
+[^40]: **La.** Plurimi codd. cum primis edd. voculae *quamvis* praefigunt *et* (ed. 1 *et licet*). — De corporis divisibilitate in infinitum cfr. Aristot., III. Phys. text. 56. seqq. (c. 6. seq.); VI. text. 3. (c. 1.); de Sensu et sens. c. 6; August., de Immort. animae, c. 7. n. 12; II. de Gen. ad lit. c. 4. n. 8.
+    **En.** Very many codices with the first editions prefix *et* to the little word *quamvis* (ed. 1 *et licet*). — On the divisibility of body to infinity cf. Aristotle, III *Physics*, text 56 ff. (c. 6 f.); VI, text 3 (c. 1); *On Sense and the Sensed*, c. 6; Augustine, *On the Immortality of the Soul*, c. 7, n. 12; II *On Genesis according to the Letter*, c. 4, n. 8.
+
+[^41]: **La.** Plures codd., ut T Y aa ee etc., cum ed. 1 *quaecumque*.
+    **En.** Several codices, such as T Y aa ee etc., with ed. 1 [read] *quaecumque*.
+
+[^42]: **La.** Cod. aa adiicit *hominis*.
+    **En.** Codex aa adds *hominis*.
+
+[^43]: **La.** Dist. 44. p. I. a. 1. et 2. — De ordinatione animae ad corpus cfr. supra d. 17. a. 1. q. 3. et d. 18. a. 2. q. 1. seq.
+    **En.** [IV Sent.] Dist. 44, p. I, a. 1 and 2. — On the ordination of the soul to the body cf. above d. 17, a. 1, q. 3, and d. 18, a. 2, q. 1 f.
+
+[^44]: **La.** Vat. addit *vel potentiale*. — Paulo superius pro *in appetitu pulverum*, quod habent multi codd., inter quos F H P Q (T a prima manu) V V bb cc ee, cum ed. 1, Vat. *in appetitu naturali*. Nostra lectio respondet illis quae S. Doctor dicit IV. Sent. d. 44. p. I. a. 2. q. 2. ad 2: *Et quidam reddunt de hoc rationem ex parte diversorum appetituum, qui sunt in pulvere. Quidquid tamen sit de hoc, tamen hoc venit ab ordinatione perfecti artificis etc.* In edd. 2, 3 legitur *in appetitu tantum*, nullo alio verbo adiuncto. Deinde pro *Quocumque tamen modo sit, ad hoc* Vat. *Quocumque tamen modo fit, adhuc*. Mox pro *invenitur* codd. I K bb ee et alii *invenietur*, et pro *manifestatur* cod. F *manifestabitur*. Denique pro *Resurget* non pauci codd., ut F K T W Y aa cc etc., cum edd. 1, 2, 3 *Resurgit*.
+    **En.** The Vatican [edition] adds *vel potentiale*. — A little above, for *in appetitu pulverum*, which many codices have, among them F H P Q (T by the first hand) V V bb cc ee, with ed. 1, the Vatican [edition reads] *in appetitu naturali*. Our reading corresponds to those things which the holy Doctor says, IV Sent. d. 44, p. I, a. 2, q. 2, ad 2: *And some give the reason for this from the side of the diverse appetites which are in the dust. Whatever, however, be the case concerning this, nevertheless this comes from the ordination of the perfect artificer, etc.* In edd. 2, 3 is read *in appetitu tantum*, with no other word added. Then, for *Quocumque tamen modo sit, ad hoc*, the Vatican [edition reads] *Quocumque tamen modo fit, adhuc*. Soon after, for *invenitur*, codices I K bb ee and others [read] *invenietur*, and for *manifestatur*, codex F [reads] *manifestabitur*. Finally, for *Resurget*, not a few codices, such as F K T W Y aa cc etc., with edd. 1, 2, 3 [read] *Resurgit*.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from the IA djvu OCR (raw 50602–51149), cross-checked column-by-column against the 450 dpi PDF, pp. 726–734 (PDF 748–756, offset pdf = printed + 22). Vol II PDF-priority inversion applied to the cascade-fragmented Respondeo (triplex-interpretatio + the two opinions + the six replies) and to the marginal editorial labels that bled into the OCR body (`Opinio Magistri`, `Triplex interpretatio`, `Interpretatio 1/2`, `Improbatur tripliciter`, `Quid seminale`, `Solutio ad …`, `Epilogus`, `Conclusio`, `Exemplum`, `Notandum`, `De duplici quanto`, `Confirmatur`, `Improbatur leviter`, `Adnotatio`) — all trimmed as editorial marginalia, not Bonaventure's text. Running heads verified on the page images: pp. 727/729/731/733 *DIST. XXX. ART. III. QUAEST. I.*; pp. 726/728/730/732/734 *SENTENTIARUM LIB. II.*; p. 729-foot catchword *S. Bonav. — Tom. II. 92*.
+
+**ARTICULUS III opener folded in.** Per the Vol II Override §5, the short ART III opener (*Consequenter circa tertium articulum quaeritur de veritate humanae naturae… Circa hoc igitur duo quaerenda sunt*) + its TRACTATIO (q1 *per actum generativae* / q2 *per opus nutritivae*) is folded into this q1; no standalone d30-a3-divisio chunk. **Alignment verified:** q1 opener *…utrum aliquid transeat in veritatem humanae naturae per actum generativae* = ART III TRACTATIO item 1 ✅.
+
+**Structure.** ART III opener + TRACTATIO; 6 fundamenta pro parte negativa (1 Magister/Hugo *littera* / 2 Anselm *de Conceptu virginali* + Augustinus *super Genesim* / 3 Matth. 15 + Marc. 7 Glossa / 4 *veritas generationis* / 5 *lex cognationis* / 6 *conditio resurrectionis*) + 6 Sed contra (1 Philosophus *de Animalibus* superfluitas-ultimi-cibi / 2 Luc. 11 interlinearis / 3 Augustinus *de Vera Religione* alimentum-accipit-numeros / 4 augmentum per rarefactionem-vel-additionem / 5 nutritiva-requirit-extrinsecum / 6 nobilitas-agentis) + Conclusio + Respondeo (opinio Magistri → triplex interpretatio [supernaturalis / supercaelestis / elementaris], each improbata per sensus+ratio+auctoritas; then opinio 2 [tota-veritas ex superfluo]; then opinio 3 = via media S. Bonav., *aliquid de superfluo nutrimenti transit in semen*, fermentum-exemplum, *magis adhaereo*) + Ad 1–6 (the six replies, incl. the threefold *solutio aliorum* on the resurrection objection) + three-part SCHOLION.
+
+**has_scholion = TRUE** — single SCHOLION with three parts: **I** (sub-points 1–3: the physiological problem; Alex. Hal. *tripliciter tota natura in Adam*; *veritas naturae* per S. Thom. S. I q. 119; Aristotelian *caro secundum materiam / secundum speciem*) + **II** (the three opinions doctrinally placed: Magister / S. Thomas-Aristotle-Averroes / Bonaventure's via media) + **III** (commentator-roll: Scotus / Albert / Petr. a Tar. / Richard. a Med. / Aegid. / Durand. / Henr. Gand. / Dionys. Carth.). Scholion spans p.733 L+R → top of p.734 L, ending *…secundum Philosophum* immediately before QUAESTIO II title (*Utrum aliquid transeat in veritatem… per opus nutritivae*, raw 51150, p.734). The SCHOLION on pp.733–734 carries **no numbered footers**.
+
+**Apparatus — 44 entries [^1]–[^44]** covering all 56 per-page Quaracchi footers, renumbered continuously in body order across pp. 726–732, every numbered Quaracchi footer rendered (a few sharing a single body anchor consolidated into one entry):
+- **p.726 (7 footers, RECEIVED from a2-q2 hand-off):** f2 Dist.44 → [^1] (ART III opener *Magister*); f4 Cap.3 → [^4] (Anselm/Hugo text-variant); f5 Libr.I c.37 → [^3] (Hugo fine sextae partis); f3 Hic c.14 seq → [^17]; f1 Hic c.14 → [^2]; f6 Pro et nihil → [^5] (Augustinus super Genesim cc.19-21); f7 Cap.19-21 → see [^5]. *(Note: p.726's footers serve both the ART III opener and q1 fund 1–2; markers placed at body anchors, not raw footer order — so [^1]/[^2]/[^3]/[^4]/[^5] all live on p.726, while [^17] is the *Hic c.14 seq.* note re-anchored at the Respondeo's "in littera" on p.728.)*
+- **p.727 (9 footers):** [^6] Vers.17 (Matth.15) / [^7] Vers.18 (Marc.7 Glossa-Bedae) / [^8] Damascenum+Vat-variants / [^9] IV.Sent.d.40 (lex cognationis) / [^10] Aristot II-de-Anima+Averroes-pugillus (SC1) / [^11] Vers.27 (Luc.11 interlinearis, SC2) / [^12] Cap.40 n.74 de-Vera-Relig (SC3) / [^13] Hic-c.13-Magistri (SC4 atomi).
+- **p.728 (10 footers):** [^14] Libr.I c.37 Hugo / [^15] Vat-omittit-nutriri / [^16] augmentantis+materiam/naturam / [^17] = Hic c.14 seq (Respondeo *in littera*; this is p.726 f3 re-anchored — see above) / [^18] Ioan.6,11 panes / [^19] Cap.19-21 Augustinus / [^20] Cfr.I.Cor.3,7.
+- **p.729 (6 footers):** [^21] Art.3 q.1 (d.13) / [^22] Art.2 q.2 (d.17) / [^23] de-Vera-Relig c.42 n.79 / [^24] Libr.VII c.12+de-Immort / [^25] Libr.II de-Anima text.41 / [^26] Libr.I c.37 Hugo (sex opera).
+- **p.730 (7 footers):** [^27] Cap.23 n.44 Augustinus-quinto / [^28] Cap.26 n.45 Augustinus-decimo / [^29] Codd-Q *hic modus*+d.20 / [^30] Cod.T *ultimus* / [^31] Rom.5,12 Apostolus.
+- **p.731 (10 footers):** [^32] Cod.aa *nutrimentum* / [^33] Cod.cc *sive potentia seminis* / [^34] Vat *fermentari* / [^35] Hic-in-fundam.3 (Augustini-sententia prius-posita) / [^36] Ed.3 *nutritivae*/Vat *generative* / [^37] Vat-addit *vel potentialem* / [^38] Vat *intendit*+egerat/digerat.
+- **p.732 (7 footers):** [^39] Hic-in-lit.Magistri c.13 (atomi-in-corpore-Adae) / [^40] *quamvis*+Aristot-divisibilitate / [^41] Plures-codd *quaecumque* / [^42] Cod.aa *hominis* / [^43] Dist.44 (IV Sent, *in quarto*) / [^44] Vat *vel potentiale* + *in appetitu pulverum/naturali* long-note.
+
+Total markers: 44 distinct `[^N]` defs (several Quaracchi footers consolidated where they share one body anchor; the page-by-page count above documents which raw footer maps to which entry). All 44 `[^N]` paired La/En and present in both Latin and English bodies.
+
+**Hand-offs.** RECEIVED from a2-q2 = the ART III opener + entire q1 body + **p.726's numbered footer block** (the a2-q2 SCHOLION ended on p.726 R-top; its inline Anselm *de Conceptu virginali* citation was not a numbered footer — p.726's 7 numbered footers all cite the ART III/q1 body and are consumed here). FORWARDED to a3-q2 = NONE: q1's SCHOLION closes clean at the top of p.734 L (*…secundum Philosophum*) immediately before the QUAESTIO II title; p.734's first numbered footer (Augustinus *de Civitate Dei* Cap. 14) already belongs to q2.
+
+**Cascade-dropout check PASSED** — all 6 fundamenta + 6 Sed contra + Conclusio + full Respondeo (triplex-interpretatio + opinio 2 + opinio 3 via-media + fermentum-exemplum) + Ad 1–6 + three-part SCHOLION read against both 450 dpi column bands pp. 726–734. Body seams grammatically continuous: 727→728 (*…intrat in seminis humani ‖ constitutionem*); 728→729 (*…impossibile est igitur, ali- ‖ quid multiplicari*); 729→730 (*…ostenditur hoc auctori- ‖ tate Augustini*); 730→731 (*…circa vim generativam, ‖ quod in ipsa est aliqua humiditas radicalis*); 731→732 (*…iam patet responsio. Dico ‖ enim, quod aliquid de radicali humiditate*); 732→733 (*…prius autem solum erat possibile* / SCHOLION opens p.733); 733→734 (*…positio illa Alexandri ‖ theologi ac Bonaventurae amplius placet*).
+
+**carve note:** skeleton was NOT bundled with q2 (line_start 50616 / line_end 51149 = q1 only); QUAESTIO II (*per opus nutritivae*) opens fresh at raw 51150, p.734 — forwarded to `bon-sent-II-d30-a3-q2`.
+
+**NO [?] flags.**
