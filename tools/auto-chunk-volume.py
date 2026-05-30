@@ -112,6 +112,14 @@ RE_PARS = re.compile(
     r"^[ \t\f]*PARS\s+(I{1,3}|PRIMA|SECUNDA)\b",
     re.MULTILINE | re.IGNORECASE,
 )
+# End-of-body sentinel: the volume-tail 'INDEX QUAESTIONUM' (table of contents)
+# is followed by DISTINCTIO TOC entries that otherwise leak into the last real
+# distinction's final chunk (d.44 dubia bled to L70777 past the INDEX at L70608).
+# OCR variant: INDEX OUAESTIONUM (Q→O).
+RE_INDEX_END = re.compile(
+    r"^[ \t\f]*INDEX\s+[QO]U[A.]?ESTIONUM",
+    re.MULTILINE,
+)
 # Vol II has NO standalone `PARS PRIMA/SECUNDA` headings — pars info lives only
 # in running heads like `DIST. II. P. I. ART. I. QUAEST. I.` or `DIST. II. P. II. ...`.
 # This regex picks up running heads with the P. {I|II|1|2} component so we can
@@ -610,6 +618,14 @@ def main():
     print(f"Found {len(markers)} markers after dedup")
 
     dist_ranges = find_distinctio_ranges(markers, total_lines)
+    # Cap at the end-of-body INDEX QUAESTIONUM: clamp any range end into the
+    # index and drop ranges that start inside it (TOC ghost distinctions).
+    m_idx = RE_INDEX_END.search(text)
+    if m_idx:
+        index_line = text[:m_idx.start()].count("\n") + 1
+        before = len(dist_ranges)
+        dist_ranges = [(n, s, min(e, index_line - 1)) for (n, s, e) in dist_ranges if s < index_line]
+        print(f"Body ends at INDEX QUAESTIONUM (line {index_line}); clamped ranges, dropped {before - len(dist_ranges)} TOC-ghost distinction(s)")
     if args.min_dist is not None:
         before = len(dist_ranges)
         dist_ranges = [r for r in dist_ranges if r[0] >= args.min_dist]
