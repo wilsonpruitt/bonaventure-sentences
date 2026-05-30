@@ -13,7 +13,7 @@ pdf_pages: [791, 792, 793]
 source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 769–771"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from 450dpi PDF column bands + IA djvu OCR (raw 53577–53746), literal English, full apparatus from raw OCR (17 entries: p.769 footers 2–7 received from a2-q2 → [^1]–[^6], p.770 footers 1–9 → [^7]–[^15], p.771 footers 1–2 → [^16]–[^17]), article-level scholion I–II covering q1+q2 held here (a3-q2 has_scholion=false), ARTICULUS III opener folded into q1 (2026-05-30)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from 450dpi PDF column bands + IA djvu OCR (raw 53577–53746), literal English, full apparatus from raw OCR (18 entries: p.769 footers 2–7 received from a2-q2 → [^1]–[^6], p.770 footers 1–9 → [^7]–[^15], p.771 footers 1–3 → [^16]–[^18], where [^18] = p.771 footer 3 Matthew 12:36 anchoring q1 reply 4, restored 2026-05-30), article-level scholion I–II covering q1+q2 held here (a3-q2 has_scholion=false), ARTICULUS III opener folded into q1 (2026-05-30)"
 format_version: 1
 ---
 
@@ -79,7 +79,7 @@ boni vel mali fecerit: ergo per oppositum, omnis qui generatur ab Adam, cum hoc 
 
 3. Ad illud vero quod obiicitur, quod non est aliquis laudandus vel vituperandus pro eo quod ei naturaliter inest; dicendum, quod si intelligatur de *natura instituta*, nec est laudandus nec vituperandus, nec apud Deum nec apud homines, quia ipse Deus naturam instituit nec debet culpare quod fecit. Si vero intelligatur de eo quod naturaliter inest secundum *statum naturae lapsae*; sic dico, quod non est homo apud *homines* vituperandus, sicut dicit Anselmus, et habitum est in responsione, quia homines quantum ad talia pares sunt; nec debet homo quod non dedit ab homine exigere. Apud vero *Deum*, qui aliter naturam instituit, vituperandus est, quia in se non habet quod Deus iuste ab ipso exigit[^17]. Illud igitur verbum Philosophi, quod dicit, quod pro naturalibus nec laudamur nec vituperamur, aut est intelligendum de naturalibus quantum ad naturae institutionem, aut si de aliis intelligatur, hoc intelligitur quantum ad iudicium humanum, non quantum ad iudicium divinum.
 
-4. Ad illud quod ultimo obiicitur, quod pronior est Deus ad miserendum quam homo; dicendum, quod verum est, pro eo quod plenam misericordiam praestat ei cui sibi placuerit misereri; nihilominus tamen districtissime iudicat, sicut ex illo verbo colligitur in Matthaei duodecimo: *De omni verbo otioso reddent homines rationem in die iudicii.* Unde multa sunt peccata, quae apud homines tolerantur et non puniuntur, utpote sunt spiritualia et interiora, de quibus oportebit in die iudicii nos reddere rationem. Misericordia enim viam iustitiae non praecludit.
+4. Ad illud quod ultimo obiicitur, quod pronior est Deus ad miserendum quam homo; dicendum, quod verum est, pro eo quod plenam misericordiam praestat ei cui sibi placuerit misereri; nihilominus tamen districtissime iudicat, sicut ex illo verbo colligitur in Matthaei duodecimo[^18]: *De omni verbo otioso reddent homines rationem in die iudicii.* Unde multa sunt peccata, quae apud homines tolerantur et non puniuntur, utpote sunt spiritualia et interiora, de quibus oportebit in die iudicii nos reddere rationem. Misericordia enim viam iustitiae non praecludit.
 
 ### Scholion
 **I.** Duae huius articuli quaestiones intime cohaerent. In 1. quaest. peccatum originale consideratur sub ratione *culpae*, quae a capite seu stipite generis humani per moralem quandam imputationem transit in animas posterorum. In 2. quaest. vero agitur de hoc, quod Deus cum infecta carne uniat animam ab ipso creatam. Exceptis Petro a Tar. et Richardo a Med., alii Commentores una quaestione comprehendunt utrumque problema, tractantes vel primum (ut S. Thom. et Richardus) vel secundum. Plerumque autem iidem tantum unum alterumve argumentum ponunt ex pluribus a nostro Doctore allatis.
@@ -144,7 +144,7 @@ The *loftiness of the divine power* demands this, on account of which God ought 
 
 3. But to that which is objected, that no one is to be praised or blamed for that which is in him naturally; it must be said that if it be understood of *instituted nature*, one is neither to be praised nor blamed, neither before God nor before humans, because God Himself instituted nature and ought not to blame what He made. But if it be understood of that which is in him naturally according to the *state of fallen nature*; thus I say that the human is not to be blamed before *humans*, as Anselm says, and as was held in the [above] response, because humans as regards such things are equal; nor ought a human to exact from a human what he did not give. But before *God*, who instituted nature otherwise, he is to be blamed, because he does not have in himself what God justly exacts from him[^17]. Therefore that word of the Philosopher, who says that for natural things we are neither praised nor blamed, is either to be understood of natural things as regards the institution of nature, or, if it be understood of other [things], this is understood as regards human judgment, not as regards divine judgment.
 
-4. To that which is objected last, that God is more inclined to mercy than the human; it must be said that it is true, inasmuch as He bestows full mercy on him whom it shall please Him to pity; nevertheless He judges most strictly, as is gathered from that word in the twelfth [chapter] of Matthew: *Of every idle word humans shall render an account in the day of judgment.* Hence there are many sins which among humans are tolerated and not punished, such as are spiritual and interior, of which it will behoove us to render an account in the day of judgment. For mercy does not preclude the way of justice.
+4. To that which is objected last, that God is more inclined to mercy than the human; it must be said that it is true, inasmuch as He bestows full mercy on him whom it shall please Him to pity; nevertheless He judges most strictly, as is gathered from that word in the twelfth [chapter] of Matthew[^18]: *Of every idle word humans shall render an account in the day of judgment.* Hence there are many sins which among humans are tolerated and not punished, such as are spiritual and interior, of which it will behoove us to render an account in the day of judgment. For mercy does not preclude the way of justice.
 
 ### Scholion
 **I.** The two questions of this article are intimately connected. In the 1st question original sin is considered under the character of *guilt*, which passes from the head or stock of the human race by a certain moral imputation into the souls of the posterity. But in the 2nd question there is treated this, that God unites with the infected flesh a soul created by Him. With the exception of Peter of Tarentaise and Richard of Mediavilla, the other Commentators comprehend both problems in one question, treating either the first (as St. Thomas and Richard) or the second. But for the most part these same [authors] set down only one or the other argument out of the many adduced by our Doctor.
@@ -155,7 +155,7 @@ The *loftiness of the divine power* demands this, on account of which God ought 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^6] are p.769 footers 2–7 (footer 1 was held by a2-q2); [^7]–[^15] are p.770 footers 1–9; [^16]–[^17] are p.771 footers 1–2.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1]–[^6] are p.769 footers 2–7 (footer 1 was held by a2-q2); [^7]–[^15] are p.770 footers 1–9; [^16]–[^18] are p.771 footers 1–3.
 
 [^1]: **La.** Intellige: animae.
 
@@ -225,6 +225,10 @@ The *loftiness of the divine power* demands this, on account of which God ought 
 
     **En.** Cf. Augustine, *Retractations* I, c. 15, n. 6 and following. — We have already noted the saying of the Philosopher above, p. 113, note 8.
 
+[^18]: **La.** Vers. 36: *Dico autem vobis, quoniam omne verbum otiosum, quod locuti fuerint homines, reddent rationem de eo in die iudicii.*
+
+    **En.** Verse 36: « But I say to you, that for every idle word that men shall speak, they shall render an account for it in the day of judgment. »
+
 ---
 
 ## Notes
@@ -236,11 +240,11 @@ The *loftiness of the divine power* demands this, on account of which God ought 
 **Page-split map.**
 - p. 769 (q1 opener + 4 arguments + 4 sed-contra): footers 2–7 → [^1]–[^6]. (p.769 footer 1 *Vide scholion ad praecedentem quaest.* was held by a2-q2 as its [^16] *obiecta* reference.)
 - p. 770 (end of sed-contra 4, Conclusio, Respondeo, replies 1–2): footers 1–9 → [^7]–[^15].
-- p. 771 (replies 2 cont., 3, 4, Scholion): footers 1–2 → [^16]–[^17]. The p.771 right-column footers (Vers. 36 / Matthew 12:36; the *animam infusam* textual variant; Vat. *vexaret*) belong to **QUAESTIO II** and are forwarded to a3-q2.
+- p. 771 (replies 2 cont., 3, 4, Scholion): footers 1–3 → [^16]–[^18]. Footer 3 (`Vers. 36`, Matthew 12:36 *De omni verbo otioso*) anchors **q1 reply 4** ("in Matthaei duodecimo") and is held here as [^18] — restored 2026-05-30 after the initial promotion wrongly forwarded it to a3-q2 (a3-q2 correctly declined it; the citation lives in this q1). The remaining p.771 right-column footers (4–5: the *animam infusam* textual variant; Vat. *vexaret*) belong to **QUAESTIO II** and are held in a3-q2.
 
 **Hand-off received** (from a2-q2): the ARTICULUS III opener + p.769 footers 2+ anchored here. a2-q2 retained p.769 footer 1.
 
-**Hand-off forwarded** (to d32-a3-q2): the QUAESTIO II body begins on p.771 right column; the p.771 right-column footer block (Matthew 12:36 *De omni verbo otioso*; the *animam infusam* / *eam* manuscript variant; Vat./cod. AI/cod. F variant on *vexaret*) belongs entirely to q2.
+**Hand-off forwarded** (to d32-a3-q2): the QUAESTIO II body begins on p.771 right column; the p.771 right-column footers 4–5 (the *animam infusam* / *eam* manuscript variant; Vat./cod. AI/cod. F variant on *vexaret*) belong to q2. (Footer 3, Matthew 12:36, was initially mis-forwarded here but actually anchors q1 reply 4 — held in this chunk as [^18], corrected 2026-05-30.)
 
 **Scholion scope.** The two-paragraph SCHOLION (I–II) is **article-level**, explicitly covering both q1 and q2 ("Duae huius articuli quaestiones intime cohaerent. In 1. quaest.... In 2. quaest. vero..."). It is held here in q1; **a3-q2 has has_scholion: false**.
 
