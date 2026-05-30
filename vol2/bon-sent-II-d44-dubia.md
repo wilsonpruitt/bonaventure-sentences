@@ -1,0 +1,169 @@
+---
+id: "bon-sent-II-d44-dubia"
+volume: 2
+book: 2
+distinctio: 44
+type: dubia
+line_start: 70468
+line_end: 70607
+word_count_latin: 1791
+transcription_status: "auto-chunked 2026-05-30"
+format_version: 1
+---
+
+# bon-sent-II-d44-dubia
+
+## Latin
+
+DUB.    I.                                ita semper movent ad malum , sicut ipse qui est in
+                                                                             malo obstinatus, et a quo sumsit exordium omne
+              In parte ista sunt quaesliones circa Iilteram, et
+        pritno quaeritur de illa responsione, quam facit Ma-
+                                                                             malum '^.                   Dun. II.
+        gister : Sciendimi est , Apostolum ibi loqui de sae-
+        culari potestaie. Non enim videtur Magisler suHi-
+        cienter solvere ad quaestionem molam, immo polius                          Item quaeritur de hoc quod dicit: Ipsos huma-
+        fugere, quia, sicut liabitum est in praecedenti capi-                narum rerum gradus adverte, si quis iusserit cu-
+        tulo ' , diabolus non habet potestalem nocendi a se                  rator etc. In quo verbo innuit, quod si potestas in-
+        ipso, sed a Deo; cum igitur Apostolus dicit, quod                    ferior obviet potestati superiori, magis obediendura
+        omnis potestas a Deo est, intelligit non solum de                    est potestali superiori quam inferiori. Sed contrariura
+        poteslate hominis, sed etiam de potestate diaboli. —                 huius habetur super illud Apocalypsis secundo': Et
+        Iteni videtur, quod eius potestati non sit resistendum,              Angelo Ecclesiae Pergami scribe: .« Non audet ar-
+          quia leremiae vigesimo septimo ° : Gens et regmmi,                 chiepiscopus super subditos episcopi manum impo-
+          quod non servierit Nabuchodonosor etc. , comraina-                 nere sine eo » ; sed hoc potest episcopus sine archi-
+          tur his Dominus, qui non servient Nabuchodonosor.                  episcopo: ergo videtur, quod raagis est obediendum
+          Si ergo per Nabuchodonosor significatur diabolus, vi-              inferiori quam superiori. — Uera, potestas*' irarae-
+          detur etc. — Item , non debemus resistere poteslati ,              diata magis infliiit quam mediata : ergo si potestas
+          membris diaboli, utpote malis praelatis et tyrannis,               inferior raagis iramediata est quam superior, vide-                    '
+          qui sunt membra ipsius diaboli : ergo multo fortius                tur, quod magis sit standum poteslati inferiori quam
+          nec ipsi diabolo, qui est caput ipsorum malorum ^                  superiori. — Contrarium huius est, quia dicit Boe-
+                Respondeo: Dicendum, quod Magister recte di-                 thius': Quidquid potest virtus inferior, potest su-
+          cil in boc quod dicit, quod verbura Apostoli , quo                 perior, sed non e converso: ergo virtus superior
+          dicitur non resistendum esse potestati, intelligi ha-              potest compescere inferiorem: ergo magis standum
+          beat de polestale humana, non de polestale diabo-                  est mandato ipsius.
+Noiandum. lica ; quia potestas humana el ordinala est et ordi-                     Respondeo: Dicendum, quod dupliciter est loqui
+          nate frequenter raovet et imperat, et ideo qui ei                  de potestate superiori et inferiori: aut ita, quod
+          resistit diuinae ordinationi resistit*, saltem si or-              poteslas inferior totaliter fluit a poteslate superiori, ^^^^^^^''■'l,
+          dinate praecipit. Sed quia diabolus ex perversitate                ad quam ordinatur, sicut potestas curatoris a pote- !Js"j°[","''
+          voluntatis suae semper inordinate et ad maliim mo-                 state proconsulis, et potestas proconsulis a potestate
+          vet et contra Deum, ideo secundum rectum ordinem                   imperatoris: et tunc verum est quod dicit, quod
+          et mandatum Apostoli ^ fortiter est ei resistendum et              standum est magis potestati superioris quam infe-
+          pugnandum contra eum tanquam contra pessimum                       rioris. Aut illae potestates ita se habent, quod ambae
+          adversarium. — Quod ergo dicitur, quod potestas dia-               fluunt a superiori , et in casibus " determinatis una
+          boli a Deo est; dicendura, quod verum est; sed ipse                praesupponit alterara, et illa tertia plenum posse
+          non utitur ea ad id, ad quod Deus ei eara dedit,                    habet super utramque, sicut potestas episcopi et ar-
+          irarao semper malum intendit; et dum nos ei for-                   -cliiepiscopi a polestate Papae, qmplenam Iiabet po- i^j";!;!!"*"
+          titer resistimus, malum suum in bonum noslrum                      tentiam super utrumque; et tunc non est generaliter '^^p^-
+          convertimus.                                                        verum, quod magis oportoat obedire potestati su-
+             Ad illud quod obiicitur de membris diaboli, di-                  periori quam inferiori, utpote potestati archiepiscopi
+        cendum, quod non est siraile; nam membra sua non                      quam episcopi, quia unus est praelatus immediatus,
+
+
+             ' Scil. cap. I .                                                      ^ Hoc dubium solvunt etiarn Alex. Hal., S. p. 1. q. 22. ni.
+             2 Vers. 8. — Paiilo inferius pro senient codd. C S T V bb       2; B. Albert., Iiic a. S; S. p. II. Ir. 24. q. 141. m. 3 ; S. Thom.,
+        serrierunt, cudd. K R W servieriid, codd. F ee senamt.               bic circa lit.; Petr. a Tar. et Ricliard. a Med., hic circa lil. ;
+             3 Gregor., XIV. Moral. c. 21. n. 2-5: « Cfiput quippo ini-      .'Egid. R., hic dub. lit. 7.
+        quorum diabolus est». Idem dicit Ilaymo in cxplic. II. Tliess.             ^* Edd.
+                                                                                      Vers. catisa.
+                                                                                             12. — De Glossa cfr. lur. can. 2. et -3. IX. q. 3.
+        2, 4. — Paulo superius Vat. cum edd. 3, 4 omitlit potestati,
+        et cod. F pro membris diaboli substiluit membrormn tlinboU.                ^ Libr. V. de Consol. prosa 4: Superior comprehendendi vis
+        — Qunc sint membra diaboli, vide Gregor., III. Moral. c. 16.         ampleetitur inreriorem, inferior vero ad supcriorem nullo modo
+        n. 29.                                                               consurgit. — Mox pro mandato ipsius cod. T mandato supc-
+             ■• Rom. 13, 2. Cfr. supra a. 3. q. \. seq.                      rioris.
+             5 Epist. I. Petri S, 8. 9: Vigilate, quia adversariiis vcster         "> Pro casibus codd. C F IT K R S (T a prima manu) W bb
+        diabolus tanquam leo rugiens circuit... Cui resistite fortes in      ce atque edd. 1, 2 talibus. Subinde memorali codd. cum plu-
+        fide. — Pro fortilcr primae edd. exliibent freqitenter , Vat.        ribus aliis pro praesupponit exhibent praeponil. Post pauca
+        semper.                                                              pro Papae, c/ui cod. T substituit Papae, quia.
+         1016                                                 SENTENTIARUM LIB. II.
+
+             alter niediatiis. Sed respectu eius qui habet plenam            sima secunda. — In quarlo similiter duo dicit: unum
+             potestatem super utruinque, veritatem habet, quia               est, quod baptismus loannis cum impositione ma-
+ Not.indura. ille non est tantum praelatus medialus '. Unde ma-              nuum aequipollebat baptismo Christi, ita quod ba-
+             gis debet stare subditus mandato Papae quam man-                ptizatus baplismate loannis in fide Trinitatis non erat
+             dato alicuius praelati inferioris. Et in hoc casu lo-           rebaptizandus , et hoc dicit distinctione secunda. Aliud
+             quitur Auguslinus'. — Et per hoc patet responsio                est de potestate baptizandi interius, quam dixit; quod
+             ad obiecta.                                                     Deus potuit alii dare, et qnod creatura potuit su-
+                                                                             scipere; et similiter, quod Deus potest potestatem
+                                    DUB.   III.                              creandi communicare et creare per creaturam tan-
+                                                                             quam per ministrum; et hoc dicit distinctione quinta.
+                Postremo quaeritur de illis auctoritatibus, quas                   In his octo positionibus ' communiter doctores
+             Magister adducit in littera '. Cum enim sit quaestio            Parisienses non sequuntur Magistrum, nec credo, in
+             de potestate peccandi, videtur, quod minus recte                omnibus his eum esse sustinendum, ne amore ho-
+             adducat auctoritates illas, quae loquuntur de pote-             minis veritali fiat praeiudicium; et haec omnia suis
+             state dominandi et inferendi inalum poenae, sicut               locis manifesta sunt et manifestabuntur °.
+             aspicienti patet.                                                     Si cui autem aliter videtur, et fortassis melius, Epiiogusno-
+                   Et dicendum, quod ex consequenti ahquo modo
+                                                                                    duorum sed
+                                                                             tione invideo;
+                                                                             non                hoc rogo,utsi
+                                                                                            librorum                        expIana-se''Qt!''"^"',
+                                                                                                                quis'et inetiam
+                                                                                                     praecedentium               duo-
+       ncsp. possunt ad propositum applicari; verumlamen, sicut
+             aperte apparet, Magister allegat eas aliquantulum               ruin sequenlium aliquid in hoc opusculo invenerit
+             minus recte^ Non tamen est mirandum, si iii tot et              approbalione dignum, gratias agat Deo, largitori bo-
+             tam bonis dictis Magister dixit aliquid minus com-              norum. In aliis vero locis, ubi invenerit vel falsum,
+ Defenditiir plete; nec ei est propter hoc insultandum. Magis                vel dubium, vel ojjscurum, scril^entis insufQcientiae
+     "^* ' enim suo labore meruit legentium orationes et gra-                benigne indulgeat, qui'° absque dnbio, teste conscien- xoia.
+            tiarum actiones quam reprehensiones, lieet in ali-               tia, ve7'a et aperta et comTrmma dicere concupivit.
+            quibus locis declinaverit ab opinionibus communi-                Quidquid enim sit de verbis, quae foliis comparantur,
+            bus et parti minus probabiii adhaeserit, praecipue               hoc sumnioperc attendendo in inquisitione qualibet
+            in octo locis.                                                   observandum , ne quis adeo laetetur in scntentia oris Noiandum.
+                  Nam in primo libro sunt duo, unum videlicet                sui " et sic ei inhaereat , ut verba oris alieni de-
+  losiocisest
+MagisternoQ    ,
+                 distinctione
+                       c t^ •
+                              decima
+                               ,
+                                     septima, quod
+                                     * ■        ,
+                                                    caritas,
+                                                     ■ ,
+                                                             quae            spiciat, aspiciens ea oculo minus sano, et sic per
+tenetur. Bst amor ^ Dei et proximi, non est quid creatum,                    tumorem et livorem aditum sibi verilatis praecludat
+            sed increatum. Aliud vero est, quod haec nomina                  et de numero illorum sit, de quibus dicit Aposto-
+            trinus et trinitas non dlcunl positionem, sed priva-             lus '^ , quod semper sunt discentes et nunquam ad
+            tionem tantuni; et hoc ponit dislinctione vigesima               viam veritalis pervenientes ; quod avertat Deus ab
+            quarta. — In secundo vero libro similiter duo dicil,             omnibus inquisitoribus veritatis. — Ilanc autem veri-
+            quorum primum est, quod in Angelis beatis prae-                  tatem infatigabiliter quaerere, infallibiliter invenire,
+            mium praecessit, et meritum respectu substantialis               inamissibiliter apprehendere et tenere concedat no-
+            praemii habet subsequi ; et hoc dicit distinctione               bis ille qui est via , veritas et vita", qui cum Pa-
+            quinta et etiam distinctione undecima. Aliud est ",              tre et Spiritu sancto unum existens in essentia et
+            quod nihil de cibis transit in veritatem humanae                 ab eis distinctus in persona, hominem rectum fe-
+            naturae, nec per generationem nec per nutritio-                  cit, qui se infinilis quaestionibus miscuit ^^ pecca,-
+            nem. — In tertio libro similiter duo dicit: unum                 torum, secundum quod series manifestat duorum
+            est, quod anima exuta a corpore est persona; et hoc              librorum praeccdentium ; cui est omnis honor et
+            dicit distinctionc quinta. Aliud est, quod Christus              gloria, kms et imperium per iiifinita saeculorum
+            fuit homo in triduo; ct hoc dicit distinctione vige-
+                                                                        saecula. Amen^^.
+                                                          EXPLICIT LIBER SECUNDUS.
+
+              ' Codd. X Y Z bb et alii odiiciunt sed immediatus.                   ^ Cfr. supra Praelocutio in liunc librum, ubi auctor eosdem
+              ' Profcrens illa verba, quae lextum huius dubii formant        octo locos commemorat.
+         ct integra liabcntur hic lit. Magislri, c. 2. — De hoc dub. cfr.          ' Pliuimi codd. quid.
+         B. .■Uberl., hic a. 6; S. p. II. tr. 2L q. Ul. m. 3; S. Thom.,            1» Plures codd., ut FKTWee, quae.
+         Pelr. a Tar. et llichard. a Med., hic circa lit. ; /Egid. R., hic         " Prov. 1S, 23. — Paulo superius pro attendendo in inqui-
+         q. 2. a. 3. dub. lal. 7.                                            sitiune qualibel observandum edtl. attendendum et inquisitione
+              ' Hic c. \. — Paulo inferius pro loquuntur cdd. subsli-        qualibet esl obsereandum. Pro attendendo , quod habent codd.
+         tuunt locmn tenent.                                                 COS, alii codd. attendo, cod. I vtendo.
+              ■* Cfr. supra s. I. q. I. in corp. — Paulo superius mulli            '- Epist. II. Tim. 3 , 7 , in quo loco Vat. cuin cdd. 3 , 4
+         codd. et edd. -I, 2 omittunt modo, et paulo inferius codd. II 1 V   et etiam   Vulgala
+                                                                                   '3 loan.  U, 6.pro viam o.\lubent scientiam.
+         pro insultandum habent insistendum.
+              ^ Ab edd. abest amor^                                              " Eccle. 7 , 30. Vide supra Prooemiimi. — In Vat. et cdd.
+              * Vat. hic adiicit distinct. 50.                               3, 4 deest vo\ peccatorum.
+              ' Codd. IIVXZ rutionibus.                                          >5 Rom. 16 , 27 ; I. Pelr. 4 , 1 1. ct 3 , II; Apoc. I , 6.
+
+## English
+
+[Translation pending]
+
+## Apparatus
+
+[Apparatus pending]
+
+## Notes
+
+[Notes pending]
