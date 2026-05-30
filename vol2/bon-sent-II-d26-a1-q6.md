@@ -6,174 +6,220 @@ distinctio: 26
 articulus: 1
 quaestio: 6
 type: quaestio
-line_start: 45024
-line_end: 45171
-word_count_latin: 2095
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Utrum gratia comparetur ad animam in ratione motoris"
+title_en: "Whether grace is related to the soul in the character of a mover"
+printed_pages: [644, 645, 646, 647]
+pdf_pages: [666, 667, 668, 669]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 644–647"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF per Vol II Override (raw lines 45024–45230), fresh literal English translation, full apparatus from raw OCR (14 entries), scholion (I–IV) from PDF column bands (2026-05-29)"
 format_version: 1
 ---
 
 # bon-sent-II-d26-a1-q6
+## *Utrum gratia comparetur ad animam in ratione motoris*
+
+---
 
 ## Latin
+<!-- page 644 -->
 
-QUAESTIO VI.
-                               Ulrum gralia comparetur ad aivimam in ratione motoris.
+### Articulus Unicus. *De gratiae quidditate.*
+### Quaestio VI. *Utrum gratia comparetur ad animam in ratione motoris.*
 
-     Sexto et ultimo quaeritur, utrum gratia compa-                           1. Primo per auctoritatem Augustini, quam Ma-Fundamei
-retur ad animam in ratione motoris. Et quod sic. vi-                    gister adducit in littera ^ quod gratia praeveniens est, '
-detur :                                                                 quae « praevenit bonae voluntatis meritum , et respe-
+Sexto et ultimo quaeritur, utrum gratia comparetur ad animam in ratione motoris. Et quod sic, videtur:
 
+1. *Primo* per auctoritatem Augustini, quam Magister adducit in littera[^1], quod gratia praeveniens est, quae «praevenit bonae voluntatis meritum, et respectu cuius ipsa voluntas bona pedissequa est, non praevia»: ergo gratia respectu voluntatis se habet per modum excitantis, imperantis et regentis; et omne tale se habet in ratione motoris: ergo etc.
 
-      ' Vat. cum edd. 3, 4 prius. Mox verbo oportel cod. aa             addit 5 sua.
-                                                                                 Yat. reformatis. Paulo inferius post prius sit in cod. F
- addit inlelligi.
-      2 Cfr. Aristot., V. Topic. c. 2. 3. S. (c. 3. S. 8.); IV. Phys.       ^ Codd. aa cc et ed. I quod.
- text. 2-5. (c. 3.); V. Metaph. toxt. 23. (IV. c. 18.).                     ' Dist. 4. p. II. a. 2. q. I. seq. — Cod. aa verbis non so-
-       ^ Plurimi codd. cum primis edd. substmtiam.                      lum praemittit ut, et dein jiost decorari addit possit.
-                                                                             * Ilic c. 2. in fine.
-       * Cfr. August., Epist. 187. (alias 37.) c. 4. n. 12. seq.
-                                                  DIST. XXVI. ART. UNICUS QUAEST. VI.                                                            643
+<!-- page 645 -->
 
-      ctu cuius ipsa voluntas bona pedissequa est, non prae-                 et moveat: ergo non erit accidens simplex. Si sicut
-      via 1) : ergo gratia respeelu voluntatis se habet per mo-              motor non motus; sed talis motor non est quid crea-
-      dum excitantis, imperantis et regentis; et omne tale                   tum: ergo vel gratia non est quid creatum, vel non
-      se habet in ratione motoris: ergo etc.                                 movet liberum arbitrium.
-             2. Item, Augustinus ' : « Gratia se habet ad libe-                    b. Item , « idem manens idem, in creaturis sem-
-      rum arbitrium, sicut sessor ad equum » ; sed sessor                    per est natum facere idem ^ » : ergo si gratia est quid
-      est raotor equi: ergo gratia est motrix iiberi arbitrii.               creatum et movet liberum arbitrium; cum gratia
-             3. Ilem, hoc videtur 7-atione. Plus est potenliam               non varietur, semper ad idem inclinabit liberum ar-
-      aliquam supra se erigere quam ipsam movere; sed                        bitrium: ergo nunquam facit homo per gratiam nisi
-      gratia elevat potentiam liberi arbitrii ad opera meri-                 unum opus meritorium. Si igitur liberum arbitrium
-      toria, quae sunt supra ipsam: ergo est liberi arbitrii                 niodo excitatur ad unum genus operis, modo ad
-      motrix.                                                                ahud; videtur, quod aut illa excitatio non sit a gra-
-                 4. Item, plus potest gratia super Iil3erum arbi-            tia, aut gratia non dicit aliquid creatum, aut gratia
-          trium, quam liberum arbitrium possit super se ipsum;               mutatur et variatur, sicut liberum arbitrium.
-          sed « liiierum arbitrium est instrumentum se ipsum
-          movens " , sicut dicit Anselmus -, et voluntas movere                                         c 0 N c L u s 1 0.
-          potest se ipsam : ergo multo fortius moveri potest a
-          gratia.                                                            Liherum arbitrium movetur a gratia dupliciter :
-                 5. Item , omne quod est principium vitae perfe-                 tum a gratia operante ut instrumento Dei,
-          ctae, est principium motus in eo quod vivificat "; sed                 tum a cooperante ut dispositione ad motum.
-          gratia est principium vitae in anima: ergo etc.
-                 Contra: 1. Voluntas eo ipso est libera, quo mo-                  Respondeo : Dicendum, quod absque dubio, sicut
-I opposi- vetur ex se ipsa. Cum igitur gratia sit aliud a volun-             auctoritates Sanctorum dicunt , necesse est ponere , conciusio i.
-          tale, si gratia movet voluntatem, aufert ei libertatem;            liberum arbitrium a gratia moveri et excitari. Ab ipsa
-          sed constans est, quod gratia voluntati libertatem non             enim gratia operante praevenitur et a cooperante ad
-          aufert: ergo ipsam non movet.                                      opera meritoria elevatur, ila quod respectu operis
-                 2. Item , omnis motor sufliciens est hoc aliquid            meritorii gratia est sicut principalis motrix, et volun-
-          et subslantia complela distans a mobiii": ergo aut                 tas sicut pedissequa '.
-          gralianon niovet liberuni arbitrium, aut si movet, est                   Qualiter autem ipsa gratia, cum sit accidens
-          substantia. Si igitur gratia creata non potest esse in ge-         animae, ipscam habeat movere, hoc habet difTicuUa-
-          nere substantiae, sed in genere accidentis: ergo etc.              tem. Ad huius autem difQcultatis explicationem du-
-                 3. Item, si gratia movet liberum arbitrium, aut             plex
-                                                                             ^     est modus dicendi sive intelligendi,
-                                                                                                                 ° secundum Moiusimei-
-                                                                                                                                    ligendi do-
-          moy eX naluralilci' , axd violenter , anl voluntarie. Si           quem liberum arbitrium dicitur a gratia moveri. — p'«-
-          naturaliter : ergo opera meritoria erunt naturalia.                Unus modus dicendi est, quod gratia movere dicitur Modas i.
-          Rursus, si naturaliter movet. semper movet, quan-                  liberum arbitrium, quoniam ipsa est dispositio ad
-          tum est de se: ergo uunquam quiescit homo ab ope-                  quendam spiritualem motum. Sicut enim pondus in
-          ribus meritoriis. Si violenter: ergo nec salvatur ibi              corporibus disponit ad motum , sic et suo modo pon-
-          ratio meriti nec libertas arbitrii, quorum utrumque                dus in spiritibus. Gratia autem est quoddam spiri-
-          patet esse falsum. Si voluntarie; sed nihil movet vo-              tuale pondus, datum animae, per quod habet sursum
-          luntarie, nisi habeat cognitionem et voluntatem : ergo             tendere*'; et quoniam liberum arbitrium est natum se
-          gratia cognoscit et vult, et ita est substantia raliona-           ipsum movere secundum actus, in quos polest de
-          lis. Igitur vel gratia. si movet liberum arbitrium, non            se; cum est adiutum et informatum gratia, excellen-
-          est aliquid creatum, vel si est aliquid creatum, non               tius movet se ipsnm, ita quod, cum liberum arbi-
-          movet liberum arbitrium.                                           trium sit movens et motum, gratia disponit ipsum
-                 4. Ilem, si movet liberum arbitrium, aut sicut              sub ratione moventis. Et pro tanto dicitur gratia rao-
-          motor motus, aut sicut motor non motics. Si tu des,                vere libermn arbitrium , quia liberum arbitrium ,
-          quod sicut raotor motus: ergo cum nihil secundum                   gratia informatum, movet se ipsum, per quem mo-
-          idem moveatur et moveat ^ gratia secundum se ha-                   dum amor dicitur movere hoQiinem ad magna opera
-          bebit aliam et aliam naturam, per quam moveatur                    facienda.
+2. *Item*, Augustinus[^2]: «Gratia se habet ad liberum arbitrium, sicut sessor ad equum»; sed sessor est motor equi: ergo gratia est motrix liberi arbitrii.
 
+3. *Item*, hoc videtur *ratione*. Plus est potentiam aliquam supra se erigere quam ipsam movere; sed gratia elevat potentiam liberi arbitrii ad opera meritoria, quae sunt supra ipsam: ergo est liberi arbitrii motrix.
 
-            ' Vide supi-a png. 600, nola 6.                                  aa bb Si tu dicis. In fine arg. post secundum Bel cod. K inter-
-            ' De Concoi-d. praesc. Dei cum lib. arb. q. 3. c. 11.            iicit si est aliqtdd creatum.
-            ' Ciim hoo convenil definilio animae, quam Arislot. dat 11.             ^ Aristot., II. de Generat. et corrupt. text. 56. (c. 10.): Idem
-       de Anima, text. 24. (c. 2.) dicens, animam esse id « quo vi-          enim et similiter se habens semper idem natum est facere. —
-       vimus el seniimus et movemur et intelligimus primo ».                 In fine arg. pro sicut cod. M secundum.
-            ■" De hac duplici propi-ielate motoris sufflcientis vide supra          ' De divisione graliae in gratiam operaniem et cooperan-
-       pag. 109, nota 7; pag. 3i8, nola -1. et pag. 373, nota 6.             tem cfr. hic lii. Magislri, c. 1. et infra d. 27. dub. 1.
-            5 Cfr. Aristot., Vlll. Phys. text. 40. scqq. (c. 8.) — Paulo            * Cfr. August., XIII. Confess. c. 7. n.,8; o. 9. n. 10; Enarrat. 2.
-       superius pro Si (u des codd. \ ee et alii Si ttt dicas, codd.         in Ps. 29. n. 10.
-         646                                                   SENTENTIARUM LIB. II.
-                                                                                                                                                        i
-                    Alius est niodus intelligendi, secunduui quem li-           dum aiium modum intelligendi , Deus per gratiam
-   luodus -2. berum arbitrium dicitur a gratia moveri. Gratia enim              movet voluntatem; nec tamen hoc voiuntati repu-
-              est sicut quaedam influcntia procedens a luce su-                 gnat, quia voluntas vult sic "^ moveri a Deo. Unde
-              perna, quae semper babet coniunctionem cum sua                    sic movetur a Deo, quod movetur etiam a se ipsa;.
-              origine, sicut luraen cum sole; et quia semper suae               el ideo omne opus meritorium attribuitur gratiae et
-              origini coniungitur, ideo non tantum attribuitur ei               libero arbitrio.
-              operatio ratione subiecti, in quo est, sed etiam ra-                    2. Ad iliud quod obiicitur, quod motor distat a
-              tione subiecti, a quo est ^ Unde sicut lumen non so-              mobiii; dicendum, quod illud inlelligitur in eo motu,,
-              lum operatur cum aere, sed etiam operatnr in ipsum                in quo moveri est vere pati, sicut est in motu cor-
-              aerem ratione continuationis cum suo fonte; sic et                poraii, et de eo motore, qui est tota causa sufficiens ^
-              gratia non solum operatur cum libero arbitrio, sed                et tota causa motus. Talis autem niotor non dicitur
-              etiam operatur in liberum arbitrium et iiberum ar-                esse gratia, pro eo quod non movet nisi sicut dis-
-              bitrium movet. — Unde non est aliud dicere gratiam                positio, vei sicut instrumentum , sicut prius fuit ex-
-              liberura arbitrium movere, quam gratiam esse Spi-
-              ritus sancti instrumentum ad movendum liberum                     pianatum.
-                                                                                      3. Ad iliud quod quaeritur : aut movet natura-
-              arbitrium.                                                        iiter etc; dicendum, quod movet wototorze, non a
-                    Uterque borum modorum intelligendi conveniens               voluntate, qua ipsa gratia sit voiens, sed°a voluntate,
-              est et rectus, nec unus sine altero sufficit. Nam pri-            qua Deus gratiam influens est volens, et a volun-
-              mus competit gratiae cooperanti sive subsequenti ;                tate, qua liberum arbilrium gratificatwn vult mo-
-              secundus competit gratiae operanti sive praevenienti.             vere se ipsum.
-conciosio 2. Gratia enim operans liberum arbitrium praevenit et                       4. Ad illud quod quaeritur, ulrum sit inotor mo-
-              movet, quia Deus iliam infundendo voluntatem ho-                  tus, vel non motus; iam patet responsio. illa enim
-              minis sauat et praeparat. Gratia vero cooperans sive              divisio motoris est de motore, qui est hoc aliquid
-conciasio 3. subsequens liberum arbilrium dicitur movere, quia                  et sul3stantia et est motor sufficiens; talis autem mo-
-              volunlas, tali dono gratiae informata, movet se ipsam.            tor non est gratia, ut praedictum est.
-              Hanc enim potentiam babet voluntas, scilicet moven-                     0. Ad illud quod obiicitur, quod idem, manens
-              di se ipsam, quia est potentia materiae non aiiigata,             idem, semper etc. ; dicendum , quod iliud failit in
-         sicut supra" ostensum est, cum de lijjero arJDitrio                    Deo; et ideo, secundum quod Deus movet per gra- ^foiandum
-         agebatur. — Coucedendae sunt igitur rationes osten-                    tiam, per eandem gratiam potest excitare ad diversa
-         dentes, quod gratia ad liberum arbitrium comparari                     opera. Secundum vero quod liberum arbitrium se
-         babet in ratione motoris. Ad rationes autem ad oppo-                   ipsum movet per gratiam ad diversa opera, est in
-         situm plana est responsio ex iam dictis.                               ipso cognitionis et affectionis diversitas, secundura
-               1. Ad illud enim quod primo obiicitur de vo-                     quas" ordinari habet ad diversa operum genera: et
-poltorom ' non
-           '^'"'^^'■® ' 'l^o^iimmo
-                                s^ ipsam  movet;                                ideo, quamvis gratia non varietnr iii se, movet ta-
-                  obstat,            consonat  ei diceiidnm, quod quod
-                                                  quod dicitur,    lioc         men ad diversa, ratione variationis in motore sibi
-              movetur per gratiam. Sicut enim voluntas movet se                 coniuncto, sine quo non potest movere. Niinquam
-              ipsam ad opera naturalia , sic adiuta per gratiam                 enim gratia elicit opus meritorium, nisi voluntas sibi
-Aiia soiniio. niovet 86 ipsam ad opera meritoria. — Vel secun-                  cooperetur.
+4. *Item*, plus potest gratia super liberum arbitrium, quam liberum arbitrium possit super se ipsum; sed «liberum arbitrium est instrumentum se ipsum movens», sicut dicit Anselmus[^3], et voluntas movere potest se ipsam: ergo multo fortius moveri potest a gratia.
 
-                                                                    SCHOLION.
-               I. Graiia saiicliflains, cuni sil piincipium vitae supcina-      aliorum auctorum habent, vide infra d. 27. locc. citt. Pi'inia
-         turalis, etiam principium motus est (hic fundam. S.). Hinc an-         illa distinctione S. Doctor hio utitur, ut explicet duplicem mo-
-         tiqui Scholastici ipsuin habituale donum gratiae distinguebant in      dum, quo gratia movet liberum arbilrium, scilicel ut disposi-
-         gratiam operantem et coopemntem, secundum duplicem eiusdem             tio et ut instrumentum: ut dispositio, quatenus illud gratia
-         ettectuni (cfr. infra d. 27. a. 1. q. I. et dub. 1; S. Thom., hic      cooperante informatur et a se ipsum movet per gratiam ad di-
-         a. 5; S. 1. 11. q. 111. a. 2.). Ipsi enim virlntem infusam et          versa ojiera » (ad 5.); ut instrumenlum , quatenus Deus per
-         actualetii motionem intima quadam connexione inter se coniun-          gratiam operantem, cum sua origine divina semper coniun-
-         clas esse considerabant et saepe eodeni nomine significabant .         ctam, operatur in liberum arbitrium illudque movet. — Ad rem
-         ut iam dictum est ( hic q. I . schnlion ). Inde etiam eausa re-        faciunt verba Ale.xandri Ilal. (S. p. III. q. 61. m. 3. a. 2. ad 2.):
-         petenda esse videtur, quod de giatia actuali illa aetate parum         » Liberum arbitrium secundum duplicem rationem comparatur
-         et quasi obiter ti'actaretur.                                          ad gratiam, scilicet in ralione recipientis el in ratione opcran-
-               De multiplici sensu, quem terniini gratiae operantis et          tis; ct tamen utrmnqua est volimtatis seu liberi arbitrii, scili-
-         cooperantis , praevenientis et subsequentis in libr'is .^uguslini et   cet recipere gratiam et cum gralia operari ». Addilur ibid., quod
+5. *Item*, omne quod est principium vitae perfectae, est principium motus in eo quod vivificat[^4]; sed gratia est principium vitae in anima: ergo etc.
 
+**Contra:**
+1. Voluntas eo ipso est libera, quo movetur ex se ipsa. Cum igitur gratia sit aliud a voluntate, si gratia movet voluntatem, aufert ei libertatem; sed constans est, quod gratia voluntati libertatem non aufert: ergo ipsam non movet.
 
+2. *Item*, omnis motor sufficiens est *hoc aliquid* et substantia completa distans a mobili[^5]: ergo aut gratia non movet liberum arbitrium, aut si movet, est substantia. Si igitur gratia creata non potest esse in genere substantiae, sed in genere accidentis: ergo etc.
 
-              ' Non pauci codd., inter quos F W Y aa bb cc ee, cum                   = Codd. C H I L 0 U S W Y ee et alii et; jierperam.
-          ed. I omittunt hic et paulo superius post in qm verbum est.                ^ Cod. bb qnam, cod. Y per quas. Paulo inferius pro sibi
-              2 Dist. 23. p. 1. q. 3.                                           coniuncto plurcs codd., nt C K 0 R S V V, cum edd. 2, 3 sicut
-              ' Codd. T ee et jjauei alii euni eil. I sc.                       coniuncto.
-              ■• Edd. 2, 3 cfflciens, Vat. efjiciens et sufliciens.
+3. *Item*, si gratia movet liberum arbitrium, aut movet *naturaliter*, aut *violenter*, aut *voluntarie*. Si *naturaliter*: ergo opera meritoria erunt naturalia. *Rursus*, si *naturaliter* movet, semper movet, quantum est de se: ergo nunquam quiescit homo ab operibus meritoriis. Si *violenter*: ergo nec salvatur ibi ratio meriti nec libertas arbitrii, quorum utrumque patet esse falsum. Si *voluntarie*; sed nihil movet voluntarie, nisi habeat cognitionem et voluntatem: ergo gratia cognoscit et vult, et ita est substantia rationalis. Igitur vel gratia, si movet liberum arbitrium, non est aliquid creatum, vel si est aliquid creatum, non movet liberum arbitrium.
+
+4. *Item*, si movet liberum arbitrium, aut sicut *motor motus*, aut sicut *motor non motus*. Si tu des, quod sicut *motor motus*: ergo cum nihil secundum idem moveatur et moveat[^6], gratia secundum se habebit aliam et aliam naturam, per quam moveatur et moveat: ergo non erit accidens simplex. Si sicut *motor non motus*; sed talis motor non est quid creatum: ergo vel gratia non est quid creatum, vel non movet liberum arbitrium.
+
+5. *Item*, «idem manens idem, in creaturis semper est natum facere idem»[^7]: ergo si gratia est quid creatum et movet liberum arbitrium; cum gratia non varietur, semper ad idem inclinabit liberum arbitrium: ergo nunquam facit homo per gratiam nisi unum opus meritorium. Si igitur liberum arbitrium modo excitatur ad unum genus operis, modo ad aliud; videtur, quod aut illa excitatio non sit a gratia, aut gratia non dicit aliquid creatum, aut gratia mutatur et variatur, sicut liberum arbitrium.
+
+### Conclusio
+
+> **Conclusio.** Liberum arbitrium movetur a gratia dupliciter: tum a gratia operante ut instrumento Dei, tum a cooperante ut dispositione ad motum.
+
+**Respondeo:** Dicendum, quod absque dubio, sicut auctoritates Sanctorum dicunt, necesse est ponere, liberum arbitrium a gratia moveri et excitari. Ab ipsa enim gratia operante praevenitur et a cooperante ad opera meritoria elevatur, ita quod respectu operis meritorii gratia est sicut principalis motrix, et voluntas sicut pedissequa[^8].
+
+*Qualiter* autem ipsa gratia, cum sit accidens animae, ipsam habeat movere, hoc habet difficultatem. Ad huius autem difficultatis explicationem duplex est modus dicendi sive intelligendi, secundum quem liberum arbitrium dicitur a gratia moveri. —
+
+Unus modus dicendi est, quod gratia movere dicitur liberum arbitrium, quoniam ipsa est *dispositio* ad quendam spiritualem motum. Sicut enim pondus in corporibus disponit ad motum, sic et suo modo pondus in spiritibus. Gratia autem est quoddam spirituale pondus, datum animae, per quod habet sursum tendere[^9]; et quoniam liberum arbitrium est natum se ipsum movere secundum actus, in quos potest de se; cum est adiutum et informatum gratia, excellentius movet se ipsum, ita quod, cum liberum arbitrium sit movens et motum, gratia disponit ipsum sub ratione moventis. Et pro tanto dicitur gratia movere liberum arbitrium, quia liberum arbitrium, gratia informatum, movet se ipsum, per quem modum amor dicitur movere hominem ad magna opera facienda.
+
+<!-- page 646 -->
+
+Alius est modus intelligendi, secundum quem liberum arbitrium dicitur a gratia moveri. Gratia enim est sicut quaedam *influentia* procedens a luce superna, quae semper habet coniunctionem cum sua origine, sicut lumen cum sole; et quia semper suae origini coniungitur, ideo non tantum attribuitur ei operatio ratione subiecti, *in quo* est, sed etiam ratione subiecti, *a quo* est[^10]. Unde sicut lumen non solum operatur *cum* aëre, sed etiam operatur *in* ipsum aërem ratione continuationis cum suo fonte; sic et gratia non solum operatur *cum* libero arbitrio, sed etiam operatur *in* liberum arbitrium et liberum arbitrium movet. — Unde non est aliud dicere gratiam liberum arbitrium movere, quam gratiam esse Spiritus sancti *instrumentum* ad movendum liberum arbitrium.
+
+Uterque horum modorum intelligendi conveniens est et rectus, nec unus sine altero sufficit. Nam primus competit gratiae *cooperanti* sive *subsequenti*; secundus competit gratiae *operanti* sive *praevenienti*. Gratia enim *operans* liberum arbitrium praevenit et movet, quia Deus illam infundendo voluntatem hominis sanat et praeparat. Gratia vero *cooperans* sive *subsequens* liberum arbitrium dicitur movere, quia voluntas, tali dono gratiae informata, movet se ipsam. Hanc enim potentiam habet voluntas, scilicet movendi se ipsam, quia est potentia materiae non alligata, sicut supra[^11] ostensum est, cum de libero arbitrio agebatur. — Concedendae sunt igitur rationes ostendentes, quod gratia ad liberum arbitrium comparari habet in ratione motoris. Ad rationes autem ad oppositum plana est responsio ex iam dictis.
+
+1. Ad illud enim quod primo obiicitur de voluntate, quod se ipsam movet; dicendum, quod hoc non obstat, immo consonat ei quod dicitur, quod movetur per gratiam. Sicut enim voluntas movet se ipsam ad opera naturalia, sic adiuta per gratiam movet se ipsam ad opera meritoria. — Vel secundum alium modum intelligendi, Deus per gratiam movet voluntatem; nec tamen hoc voluntati repugnat, quia voluntas vult sic moveri a Deo. Unde sic movetur a Deo, quod movetur etiam a se ipsa; et ideo omne opus meritorium attribuitur gratiae et libero arbitrio.
+
+2. Ad illud quod obiicitur, quod motor distat a mobili; dicendum, quod illud intelligitur in eo motu, in quo moveri est vere *pati*, sicut est in motu corporali, et de eo motore, qui est tota causa *sufficiens*[^12] et tota causa motus. Talis autem motor non dicitur esse gratia, pro eo quod non movet nisi sicut *dispositio*, vel sicut *instrumentum*, sicut prius fuit explanatum.
+
+3. Ad illud quod quaeritur: aut movet *naturaliter* etc.; dicendum, quod movet *voluntarie*, non a voluntate, qua ipsa gratia sit volens, sed[^13] a voluntate, qua Deus *gratiam influens* est volens, et a voluntate, qua liberum arbitrium *gratificatum* vult movere se ipsum.
+
+4. Ad illud quod quaeritur, utrum sit *motor motus*, vel *non motus*; iam patet responsio. Illa enim divisio motoris est de motore, qui est *hoc aliquid* et substantia et est motor *sufficiens*; talis autem motor non est gratia, ut praedictum est.
+
+5. Ad illud quod obiicitur, quod idem, manens idem, semper etc.; dicendum, quod illud fallit in Deo; et ideo, secundum quod *Deus* movet per gratiam, per eandem gratiam potest excitare ad diversa opera. Secundum vero quod *liberum arbitrium* se ipsum movet per gratiam ad diversa opera, est in ipso cognitionis et affectionis diversitas, secundum quas[^14] ordinari habet ad diversa operum genera: et ideo, quamvis gratia non varietur in se, movet tamen ad diversa, ratione variationis in motore sibi coniuncto, sine quo non potest movere. Nunquam enim gratia elicit opus meritorium, nisi voluntas sibi cooperetur.
+
+### Scholion
+**I.** Gratia sanctificans, cum sit principium *vitae* supernaturalis, etiam principium *motus* est (hic fundam. 5.). Hinc antiqui Scholastici ipsum habituale donum gratiae distinguebant in gratiam *operantem* et *cooperantem*, secundum duplicem eiusdem effectum (cfr. infra d. 27. a. 1. q. I. et dub. 1; S. Thom., hic a. 5; S. I. II. q. III. a. 2.). Ipsi enim *virtutem infusam* et *actualem motionem* intima quadam connexione inter se coniunctas esse considerabant et saepe eodem nomine significabant, ut iam dictum est (hic q. I. scholion). Inde etiam causa repetenda esse videtur, quod de gratia *actuali* illa aetate parum et quasi obiter tractaretur.
+
+De multiplici sensu, quem termini gratiae operantis et cooperantis, praevenientis et subsequentis in libris Augustini et aliorum auctorum habent, vide infra d. 27. locc. citt. Prima illa distinctione S. Doctor hic utitur, ut explicet duplicem modum, quo gratia movet liberum arbitrium, scilicet ut *dispositio* et ut *instrumentum*: ut dispositio, quatenus illud gratia *cooperante* informatur et «se ipsum movet per gratiam ad diversa opera» (ad 5.); ut instrumentum, quatenus Deus per gratiam *operantem*, cum sua origine divina semper coniunctam, operatur in liberum arbitrium illudque movet. — Ad rem faciunt verba Alexandri Hal. (S. p. III. q. 61. m. 3. a. 2. ad 2.): «Liberum arbitrium secundum duplicem rationem comparatur ad gratiam, scilicet in ratione *recipientis* et in ratione *operantis*; et tamen utrumque est voluntatis seu liberi arbitrii, scilicet recipere gratiam et cum gratia operari». Additur ibid., quod gratia comparata ad liberum arbitrium sub ratione *recipientis* dicitur gratia *operans*; sed *cooperans*, secundum quod simul liberum arbitrium operatur cum gratia. Porro paulo inferius legitur: «In receptione gratiae, hoc est, quando efficit *voluntatem bonam*, prior est actio gratiae, deinde consensus ipsius arbitrii seu cooperatio in consentiendo, et ideo gratia dicitur hic *operans*. Sed liberum arbitrium dicitur *cum gratia operari*, quando operatur bonum per gratiam. Quia ergo opus elicitur a potentia arbitrii, ipsa gratia iuvante, ipsum liberum arbitrium dicitur operans, ipsa vero gratia cooperans velut adminiculans operanti». — Doctrinam S. Bonaventurae aliis verbis et quibusdam additamentis explicat Richard. a Med. (hic a. unicus q. 5.): «Gratia movet liberum arbitrium et per modum *efficientis instrumentalis* et per modum *formae*. Primo modo movet liberum arbitrium in instanti suae infusionis, quia in illo instanti Spiritus S. tanquam *principale* agens per suam influentiam, quae est gratia, tanquam per *instrumentale* efficiens in libero arbitrio causat quandam excitationem et inclinationem ad bonum voluntatis actum. Illa autem excitatio vel inclinatio non est actus volendi, sed *dispositio* ad illum actum, vel aliqualis inchoatio illius actus; quia in eliciendo actum volendi semper cooperatur liberum arbitrium. Sed ad causandam illam excitationem vel inclinationem, quae in ipso causatur in instanti infusionis gratiae, liberum arbitrium est *passivum* tantum. — Movet etiam gratia liberum arbitrium per modum *formae*, in quantum liberum arbitrium per formam gratiae potest se movere et elevare ad opera meritoria de condigno, quibus motibus se movere sine gratia non poterat» etc. — Breviter Petr. a Tar. (hic q. unica a. 7.) sic quaestionem solvit: «Movere aliquid dupliciter contingit: aut *effective*, sicut sol movet vaporem elevando sursum; aut *dispositive*, sicut pondus eius vel levitas movet inclinando ipsum. Primo modo *Deus* movet liberum arbitrium, et ipsum liberum arbitrium se ipsum, gratia perfectum et habilitatum ad se movendum. Secundo modo *gratia* movet ipsum». — Quod gratia *habitualis* habeat actum in anima et *effective* et *formaliter*, docet etiam S. Thom. (hic q. unica a. 5. ad 2; S. I. II. q. III. a. 2. in fine corp.), sed paulo aliter hanc distinctionem explicat.
+
+Ceterum doctrina S. Bonaventurae in hac quaestione proposita optime convenit cum decretis Concilii Tridentini (Sess. VI. praesertim c. 5. et can. 4. 5.) de efficacia gratiae; immo dici potest, eam non esse nisi quandam expositionem verborum Concilii Arausicani II. (a. 529.), a Bonifacio II. confirmati (can. 9.): «Quoties bona agimus, Deus in nobis atque nobiscum, ut operemur, operatur».
+
+**II.** Cooperationem liberi arbitrii ad actus salutares a saec. XVI. multae haereses diversimode negarunt, quarum errores decretis Concilii Tridentini et Summorum Pontificum condemnati sunt. Hinc catholici theologi de efficacia gratiae, de cooperatione liberi arbitrii et de vero sensu doctrinae S. Augustini *specialiores* et plerumque satis intricatas quaestiones instituerunt et in plurimis libris tractarunt eo laudabili fine, ut concordiam gratiae et libertatis defenderent et evidentius demonstrarent. In fide quidem concordes, diversas vias demonstrationis ingressi sunt. Hinc de *ratione*, qua efficacia gratiae connectitur cum consensu voluntatis, gravissimae et spinosissimae controversiae exortae sunt, praecipue inter celebres scholas duorum Ordinum de Ecclesia optime meritorum, scilicet S. Dominici et Societatis Iesu. S. Sedes post longissimas disputationes et inquisitiones, ab an. 1598 in famosa Congregatione de auxiliis habitas, de ipso obiecto controversiae nihil definivit, nec sub Paulo V., quando (1607) Congregatio de auxiliis dissoluta est, nec sub sequentibus Pontificibus; vetitum tamen est, ne quis in hac quaestione tractanda partem suae oppositam «aut qualificaret, aut censura quapiam notaret». Insuper a Paulo V. et Urbano VIII. prohibitum est, libros et tractatus de auxiliis edere; quae prohibitio postea consuetudine derogata est. Ultimo Clemens XII. (2 Oct. 1733) decreta Clementis XI. et Benedicti XIII, ad quandam defensionem Thomisticae scholae lata, comprobat quidem et confirmat, sed addit: «Nolumus, aut per nostras, aut per ipsorum laudes Thomisticae scholae delatas, quas iterato nostro iudicio comprobamus et confirmamus, quidquam esse detractum ceteris catholicis scholis, diversa ab eadem in explicanda divinae gratiae efficacia sentientibus, quarum etiam erga hanc S. Sedem praeclara sunt merita». Denique ibidem rursus interdicitur, ne «notam aut censuram aliquam theologicam iisdem scholis diversa sentientibus inurere, aut earum sententias conviciis et contumeliis incessere audeant, donec de iisdem controversiis haec s. Sedes aliquid definiendum aut pronuntiandum censuerit» (Denzinger, Enchirid. symbolor. et definit., ed. 3. pag. 312. seqq.). His sapientissimis S. Sedis iudiciis standum est.
+
+**III.** Controversia utriusque scholae praecipue versatur circa explicationem gratiae *sufficientis* et *efficacis*, et etiam *praevenientis*, de quo consulantur proprii utriusque scholae probati auctores. Cum autem in nostro I. tomo p. 710 in scholio n. 2. (ubi agitur de causalitate divinae voluntatis in praedestinatione implicata) aliqua dicta sint de diversa ratione, qua a duabus scholis catholicis explicatur causalitas et connexio divinae voluntatis cum consensu voluntatis creatae; ea quae ibi de causalitate divinae motionis in genere secundum scholam Societatis Iesu occurrunt, nimis breviter et indistincte prolata sunt, ita ut, si de sola gratia praeveniente dicta intelliguntur, non exprimant veram huius celebris scholae sententiam. Hinc melius et mentem nostram et veram dictae scholae sententiam hoc loco explicamus. Docetur igitur ab eadem, voluntatem illustratione et excitatione gratiae *praevenientis* (sive mere sufficientis sive etiam efficacis) ita ad consensum praemoveri, ut ad dissentiendum libera maneat, ac proinde consensus ex hac gratia ita sequatur, ut etiam possit non sequi. Connexionem autem infallibilem gratiae efficacis cum consensu liberi arbitrii ut explicet, ipsa utitur *scientia media*, qua Deus ante omne decretum absolutum praevideat, quid voluntas humana in hypothesi, quod hac vel illa gratia excitaretur, factura esset, et ex hac praevisione praedestinatis decernat gratias efficaces i. e. tales, cum quibus eos libere cooperaturos infallibiliter praescivit. Hanc autem sententiam eadem affirmat exprimere genuinum doctrinae Ss. Augustini et Thomae sensum. — Quoad diversas sententias de concursu Dei generali ad actus voluntatis liberos, sed naturalis ordinis, vide infra d. 37. a. 1. q. 1.
+
+**IV.** Hanc praecise quaestionem explicite tractatam non vidimus ab aliis antiquis scholasticis nisi ab his: Petr. a Tar., hic q. unica a. 7. — Richard. a Med., hic a. unicus q. 5. — Dionys. Carth., hic q. I. — Alii rem tangunt in quaestione de gratia operante et cooperante, quos vide in scholio ad d. 27. a. 1. q. 1.
+
+---
 
 ## English
 
-[Translation pending]
+### Article (Sole). *On the quiddity of grace.*
+### Question VI. *Whether grace is related to the soul in the character of a mover.*
+
+Sixth and last it is asked whether grace is related to the soul in the character of a mover. And that it is, seems [the case]:
+
+1. *First*, by the authority of Augustine, which the Master adduces in the text[^1], that grace is prevenient, which «anticipates the merit of a good will, and in regard to which the good will itself is a follower, not a forerunner»: therefore grace with respect to the will stands by way of an arouser, commander, and ruler; and everything of this sort stands in the character of a mover: therefore, etc.
+
+2. *Likewise*, Augustine[^2]: «Grace stands to free choice as a rider to a horse»; but the rider is the mover of the horse: therefore grace is the mover of free choice.
+
+3. *Likewise*, this seems [so] *by reason*. It is more to raise some potency above itself than to move it; but grace elevates the potency of free choice to meritorious works, which are above it: therefore it is the mover of free choice.
+
+4. *Likewise*, grace can do more upon free choice than free choice can do upon itself; but «free choice is an instrument moving itself», as Anselm says[^3], and the will can move itself: therefore much more strongly can it be moved by grace.
+
+5. *Likewise*, everything that is the principle of perfect life is the principle of motion in that which it vivifies[^4]; but grace is the principle of life in the soul: therefore, etc.
+
+**On the contrary:**
+1. The will is free by this very fact, that it is moved from itself. Since therefore grace is something other than the will, if grace moves the will, it takes away its freedom; but it is established that grace does not take freedom from the will: therefore it does not move it.
+
+2. *Likewise*, every sufficient mover is *a this-something* and a complete substance distant from the movable[^5]: therefore either grace does not move free choice, or, if it moves it, it is a substance. If therefore created grace cannot be in the genus of substance, but in the genus of accident: therefore, etc.
+
+3. *Likewise*, if grace moves free choice, it moves either *naturally*, or *violently*, or *voluntarily*. If *naturally*: therefore meritorious works will be natural. *Again*, if it moves *naturally*, it always moves, as far as it depends on itself: therefore a man never rests from meritorious works. If *violently*: therefore neither is the character of merit preserved there nor the freedom of choice, both of which are clearly false. If *voluntarily*; but nothing moves voluntarily unless it has cognition and will: therefore grace knows and wills, and thus is a rational substance. Therefore either grace, if it moves free choice, is not something created, or, if it is something created, it does not move free choice.
+
+4. *Likewise*, if it moves free choice, [it does so] either as a *moved mover*, or as an *unmoved mover*. If you grant that [it moves] as a *moved mover*: therefore, since nothing is moved and moves according to the same [respect][^6], grace will have in itself one nature and another, by which it is moved and moves: therefore it will not be a simple accident. If as an *unmoved mover*; but such a mover is not something created: therefore either grace is not something created, or it does not move free choice.
+
+5. *Likewise*, «the same thing remaining the same is, in creatures, always apt to do the same»[^7]: therefore if grace is something created and moves free choice; since grace is not varied, it will always incline free choice to the same thing: therefore a man never does, through grace, anything but one meritorious work. If therefore free choice is now aroused to one kind of work, now to another; it seems that either that arousal is not from grace, or grace does not signify something created, or grace is changed and varied, like free choice.
+
+### Conclusio
+
+> **Conclusion.** Free choice is moved by grace in two ways: both by grace *operating* as the instrument of God, and by [grace] *cooperating* as a disposition to motion.
+
+**I respond:** It must be said that, beyond doubt, as the authorities of the Saints say, it is necessary to hold that free choice is moved and aroused by grace. For by *operating* grace itself it is prevented, and by *cooperating* [grace] it is elevated to meritorious works, so that with respect to a meritorious work grace is as it were the principal mover, and the will as it were a follower[^8].
+
+But *how* grace itself, since it is an accident of the soul, can move it, this has its difficulty. For the explanation of this difficulty there is a twofold way of speaking or of understanding, according to which free choice is said to be moved by grace. —
+
+One way of speaking is that grace is said to move free choice because it is a *disposition* toward a certain spiritual motion. For just as weight in bodies disposes to motion, so too in its own way [is there] a weight in spirits. But grace is a certain spiritual weight, given to the soul, by which it has [the power] to tend upward[^9]; and since free choice is apt to move itself according to the acts of which it is capable of itself; when it is aided and informed by grace, it more excellently moves itself, so that, since free choice is mover and moved, grace disposes it under the character of mover. And to this extent grace is said to move free choice, because free choice, informed by grace, moves itself; in which manner love is said to move a man to the doing of great works.
+
+The other is the way of understanding according to which free choice is said to be moved by grace. For grace is as it were a certain *influence* proceeding from the supernal light, which always has conjunction with its origin, as light with the sun; and because it is always joined to its origin, therefore operation is attributed to it not only by reason of the subject *in which* it is, but also by reason of the subject *from which* it is[^10]. Hence just as light operates not only *with* the air, but also operates *in* the air itself by reason of its continuation with its source; so too grace not only operates *with* free choice, but also operates *in* free choice and moves free choice. — Hence to say that grace moves free choice is nothing other than [to say] that grace is the *instrument* of the Holy Spirit for moving free choice.
+
+Each of these ways of understanding is fitting and correct, nor does one suffice without the other. For the first belongs to *cooperating* or *subsequent* grace; the second belongs to *operating* or *prevenient* grace. For *operating* grace prevents and moves free choice, because God, by infusing it, heals and prepares the will of man. But *cooperating* or *subsequent* grace is said to move free choice, because the will, informed by such a gift of grace, moves itself. For the will has this potency, namely of moving itself, because it is a potency not bound to matter, as was shown above[^11], when free choice was treated of. — The reasons therefore are to be granted which show that grace must be related to free choice in the character of a mover. But to the reasons to the contrary the response is plain from what has now been said.
+
+1. For as to what is objected first concerning the will, that it moves itself; it must be said that this does not stand against, nay rather agrees with, what is said, that it is moved by grace. For just as the will moves itself to natural works, so, aided by grace, it moves itself to meritorious works. — Or according to the other way of understanding, God through grace moves the will; nor yet does this repugn the will, because the will wills thus to be moved by God. Hence it is so moved by God that it is also moved by itself; and therefore every meritorious work is attributed to grace and to free choice.
+
+2. To what is objected, that a mover is distant from the movable; it must be said that this is understood of that motion in which to be moved is truly to *undergo*, as is the case in bodily motion, and of that mover which is the whole *sufficient* cause[^12] and the whole cause of the motion. But such a mover is not said to be grace, for the reason that it moves only as a *disposition*, or as an *instrument*, as was explained before.
+
+3. To what is asked: whether it moves *naturally*, etc.; it must be said that it moves *voluntarily*, not by a will whereby grace itself is willing, but[^13] by the will whereby God *infusing grace* is willing, and by the will whereby free choice *made pleasing* wills to move itself.
+
+4. To what is asked, whether it is a *moved mover* or an *unmoved* one; the response is already clear. For that division of mover is about the mover which is *a this-something* and a substance and is a *sufficient* mover; but such a mover is not grace, as was said before.
+
+5. To what is objected, that the same thing, remaining the same, always [does the same], etc.; it must be said that this fails in God; and therefore, according as *God* moves through grace, through the same grace he can arouse to diverse works. But according as *free choice* moves itself through grace to diverse works, there is in it a diversity of cognition and of affection, according to which[^14] it is to be ordered to diverse kinds of works: and therefore, although grace is not varied in itself, it nevertheless moves to diverse things by reason of the variation in the mover joined to it, without which it cannot move. For grace never elicits a meritorious work unless the will cooperates with it.
+
+### Scholion
+**I.** Sanctifying grace, since it is the principle of supernatural *life*, is also the principle of *motion* (here, fundamentum 5). Hence the ancient Scholastics distinguished the very habitual gift of grace into *operating* and *cooperating* grace, according to its twofold effect (cf. below d. 27. a. 1. q. I. and dub. 1; St. Thomas, here a. 5; S. I-II. q. 111. a. 2.). For they considered *infused virtue* and *actual motion* to be joined together by a certain intimate connection, and often signified them by the same name, as has already been said (here q. I., scholion). Hence too the cause seems to be sought why *actual* grace was treated of in that age but little and as it were in passing.
+
+Concerning the manifold sense which the terms of operating and cooperating, prevenient and subsequent grace have in the books of Augustine and of other authors, see below d. 27, the places cited. The Holy Doctor uses that first distinction here in order to explain the twofold manner in which grace moves free choice, namely as *disposition* and as *instrument*: as disposition, inasmuch as free choice is informed by *cooperating* grace and «moves itself through grace to diverse works» (ad 5.); as instrument, inasmuch as God through *operating* grace, always joined to its divine origin, operates in free choice and moves it. — To the point are the words of Alexander of Hales (S. p. III. q. 61. m. 3. a. 2. ad 2.): «Free choice is related to grace according to a twofold character, namely in the character of *recipient* and in the character of *operating*; and yet each belongs to the will or free choice, namely to receive grace and to operate with grace». It is added there that grace related to free choice under the character of *recipient* is called *operating* grace; but *cooperating*, according as free choice operates together with grace. Further, a little below it is read: «In the reception of grace, that is, when it effects a *good will*, the action of grace is prior, then the consent of the choice itself or cooperation in consenting, and therefore grace is here called *operating*. But free choice is said to *operate with grace* when it works good through grace. Since therefore the work is elicited by the potency of choice, with grace itself helping, free choice itself is called operating, but grace itself cooperating as it were ministering to the one operating». — The doctrine of St. Bonaventure, in other words and with certain additions, Richard of Mediavilla explains (here, sole article, q. 5): «Grace moves free choice both by way of *instrumental efficient* and by way of *form*. In the first way it moves free choice in the instant of its infusion, because in that instant the Holy Spirit, as the *principal* agent, through his influence, which is grace, as through an *instrumental* efficient, causes in free choice a certain arousal and inclination to a good act of the will. But that arousal or inclination is not the act of willing, but a *disposition* toward that act, or some inchoation of that act; because in eliciting the act of willing free choice always cooperates. But for causing that arousal or inclination, which is caused in it in the instant of the infusion of grace, free choice is *passive* only. — Grace also moves free choice by way of *form*, inasmuch as free choice, through the form of grace, can move and elevate itself to meritorious works of condignity, by which motions it could not move itself without grace» etc. — Briefly Peter of Tarentaise (here q. sole a. 7.) thus solves the question: «To move something happens in two ways: either *effectively*, as the sun moves vapor by raising it upward; or *dispositively*, as its weight or lightness moves [a body] by inclining it. In the first way *God* moves free choice, and free choice itself [moves] itself, perfected and enabled by grace to move itself. In the second way *grace* moves it». — That *habitual* grace has an act in the soul both *effectively* and *formally*, St. Thomas also teaches (here q. sole a. 5. ad 2; S. I-II. q. 111. a. 2. at the end of the corpus), but he explains this distinction a little otherwise.
+
+For the rest, the doctrine of St. Bonaventure proposed in this question agrees excellently with the decrees of the Council of Trent (Sess. VI. especially c. 5. and can. 4. 5.) on the efficacy of grace; nay, it can be said that it is nothing but a certain exposition of the words of the Second Council of Orange (a. 529.), confirmed by Boniface II (can. 9.): «As often as we do good, God works in us and with us, that we may work».
+
+**II.** From the sixteenth century many heresies in diverse ways denied the cooperation of free choice unto salutary acts, whose errors were condemned by the decrees of the Council of Trent and of the Supreme Pontiffs. Hence Catholic theologians instituted more specialized and generally rather intricate questions concerning the efficacy of grace, the cooperation of free choice, and the true sense of the doctrine of St. Augustine, and treated them in very many books with this laudable aim, that they might defend the harmony of grace and freedom and demonstrate it more evidently. Concordant indeed in faith, they entered upon diverse paths of demonstration. Hence concerning the *manner* in which the efficacy of grace is connected with the consent of the will, most grave and most thorny controversies arose, especially between the celebrated schools of two Orders most excellently deserving of the Church, namely those of St. Dominic and of the Society of Jesus. The Holy See, after the longest disputations and inquiries held from the year 1598 in the famous Congregation *de auxiliis*, defined nothing concerning the very object of the controversy, neither under Paul V., when (1607) the Congregation *de auxiliis* was dissolved, nor under the following Pontiffs; yet it was forbidden that anyone, in treating this question, should «either qualify or note with any censure» the part opposed to his own. Moreover by Paul V. and Urban VIII. it was prohibited to publish books and tractates *de auxiliis*; which prohibition was afterward derogated by custom. Lastly Clement XII. (2 Oct. 1733) indeed approved and confirmed the decrees of Clement XI. and Benedict XIII, issued for a certain defense of the Thomistic school, but added: «We do not wish, either through our praises or through theirs conferred on the Thomistic school, which by repeated judgment of ours we approve and confirm, that anything be detracted from the other Catholic schools, which think differently from it in explaining the efficacy of divine grace, and whose merits toward this Holy See are also illustrious». Finally there again it is forbidden that they should «brand the same schools thinking differently with any theological note or censure, or assail their opinions with reproaches and insults, until this Holy See shall have judged that something is to be defined or pronounced concerning the same controversies» (Denzinger, Enchirid. symbolor. et definit., ed. 3. pag. 312. seqq.). One must stand by these most wise judgments of the Holy See.
+
+**III.** The controversy of the two schools turns chiefly about the explanation of *sufficient* and *efficacious* grace, and also of *prevenient* [grace], concerning which let the approved authors proper to each school be consulted. But since in our first volume, p. 710, in the scholion n. 2 (where there is treated the causality of the divine will implied in predestination), some things were said about the diverse manner in which the causality and connection of the divine will with the consent of the created will is explained by the two Catholic schools; the things that occur there concerning the causality of divine motion in general according to the school of the Society of Jesus were set forth too briefly and indistinctly, so that, if they are understood of prevenient grace alone, they do not express the true opinion of this celebrated school. Hence we here better explain both our mind and the true opinion of the said school. It is therefore taught by it that the will is, by the illumination and arousal of *prevenient* grace (whether merely sufficient or also efficacious), so premoved to consent that it remains free to dissent, and consequently the consent so follows from this grace that it can also not follow. But to explain the infallible connection of efficacious grace with the consent of free choice, it uses *middle knowledge* (*scientia media*), whereby God, before every absolute decree, foresees what the human will would do on the hypothesis that it were aroused by this or that grace, and from this foreknowledge decrees for the predestined efficacious graces, i. e. such as those with which he infallibly foreknew that they would freely cooperate. And this opinion the same [school] affirms expresses the genuine sense of the doctrine of Saints Augustine and Thomas. — As to the diverse opinions about God's general concurrence to the free acts of the will, but of the natural order, see below d. 37. a. 1. q. 1.
+
+**IV.** This precise question we have not seen explicitly treated by other ancient scholastics except by these: Peter of Tarentaise, here q. sole a. 7. — Richard of Mediavilla, here sole article q. 5. — Dionysius the Carthusian, here q. I. — Others touch the matter in the question on operating and cooperating grace, whom see in the scholion to d. 27. a. 1. q. 1.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**).
+
+[^1]: **La.** Hic c. 2. in fine.
+    **En.** Here [in the text of the Master], c. 2, at the end.
+
+[^2]: **La.** Vide supra pag. 600, nota 6.
+    **En.** See above, p. 600, note 6.
+
+[^3]: **La.** *De Concord. praesc. Dei cum lib. arb.* q. 3. c. 11.
+    **En.** [Anselm,] *On the Harmony of God's Foreknowledge with Free Choice*, q. 3, c. 11.
+
+[^4]: **La.** Cum hoc convenit definitio animae, quam Aristot. dat II. de Anima, text. 24. (c. 2.) dicens, animam esse id «quo vivimus et sentimus et movemur et intelligimus primo».
+    **En.** With this agrees the definition of the soul which Aristotle gives, *On the Soul* II, text 24 (c. 2), saying that the soul is that «by which we primarily live and perceive and are moved and understand».
+
+[^5]: **La.** De hac duplici proprietate motoris sufficientis vide supra pag. 109, nota 7; pag. 348, nota 1; et pag. 373, nota 6.
+    **En.** On this twofold property of a sufficient mover see above, p. 109, note 7; p. 348, note 1; and p. 373, note 6.
+
+[^6]: **La.** Cfr. Aristot., V. Topic. c. 2. 3. 5. (c. 3. 5. 8.); IV. Phys. text. 2-5. (c. 3.); V. Metaph. text. 23. (IV. c. 18.). — Paulo superius pro *Si tu des* codd. N ee et alii *Si tu dicas*, codd. aa bb *Si tu dicis*. In fine arg. post *secundum vel* cod. K interiicit *si est aliquid creatum*.
+    **En.** Cf. Aristotle, *Topics* V c. 2, 3, 5 (c. 3, 5, 8); *Physics* IV, text. 2–5 (c. 3); *Metaphysics* V, text. 23 (IV. c. 18). — A little above, for *Si tu des* codices N, ee and others read *Si tu dicas*, codices aa, bb *Si tu dicis*. At the end of the argument, after *secundum vel*, codex K inserts *si est aliquid creatum*.
+
+[^7]: **La.** Aristot., II. de Generat. et corrupt. text. 56. (c. 10.): *Idem enim et similiter se habens semper idem natum est facere.* — In fine arg. pro *sicut* cod. M *secundum*.
+    **En.** Aristotle, *On Generation and Corruption* II, text 56 (c. 10): «For the same thing, and behaving in the same way, is always apt to do the same.» — At the end of the argument, for *sicut* codex M reads *secundum*.
+
+[^8]: **La.** De divisione gratiae in gratiam *operantem* et *cooperantem* cfr. hic lit. Magistri, c. 1. et infra d. 27. dub. 1.
+    **En.** On the division of grace into *operating* and *cooperating* grace, cf. here the text of the Master, c. 1, and below d. 27, dub. 1.
+
+[^9]: **La.** Cfr. August., XIII. Confess. c. 7. n. 8; c. 9. n. 10; Enarrat. 2. in Ps. 29. n. 10.
+    **En.** Cf. Augustine, *Confessions* XIII, c. 7, n. 8; c. 9, n. 10; *Second Exposition on Psalm 29*, n. 10.
+
+[^10]: **La.** Non pauci codd., inter quos F W Y aa bb cc ee, cum ed. 1 omittunt hic et paulo superius post *in quo* verbum *est*.
+    **En.** Not a few codices, among them F W Y aa bb cc ee, together with ed. 1, here and a little above omit, after *in quo*, the word *est*.
+
+[^11]: **La.** Dist. 25. p. 1. q. 3.
+    **En.** Distinction 25, part 1, q. 3.
+
+[^12]: **La.** Edd. 2, 3 *efficiens*, Vat. *efficiens et sufficiens*.
+    **En.** Editions 2 and 3 read *efficiens* ["efficient"], the Vatican edition *efficiens et sufficiens* ["efficient and sufficient"].
+
+[^13]: **La.** Codd. T ee et pauci alii cum ed. 1 *sc.*
+    **En.** Codices T, ee and a few others, with ed. 1, read *sc.* [scilicet].
+
+[^14]: **La.** Cod. bb *quam*, cod. Y *per quas*. Paulo inferius pro *sibi coniuncto* plures codd., ut C K O R S V Y, cum edd. 2, 3 *sicut coniuncto*.
+    **En.** Codex bb reads *quam*, codex Y *per quas*. A little below, for *sibi coniuncto* several codices, such as C K O R S V Y, with editions 2, 3, read *sicut coniuncto*.
 
 ## Notes
 
-[Notes pending]
+- **Provenance:** Latin re-set column-by-column from the 450 dpi PDF per the Vol II Override (raw OCR lines 45024–45230 used as cross-check; OCR cascade-shattered the Conclusio, Respondeo, replies, and the long modern SCHOLION + interleaved the two columns + diagonal-fragmented the p.644 footer band). English freshly translated literally. Apparatus built from the PDF column-band footer reads. The two-column scholion was reflowed L-col-then-R-col per page.
+- **Alignment:** VERIFIED. Opener "Sexto et ultimo quaeritur, utrum gratia comparetur ad animam in ratione motoris" = the d.26 ARTICULUS UNICUS sub-question 6 (last) per the TRACTATIO list (*utrum [gratia] insit ad modum perfectionis tantum, an etiam per modum motoris*); the body text frames the same question as *comparetur in ratione motoris*. No q-swap.
+- **Page-split map (printed pp. 644–647; pdf = printed + 22):**
+  - p.644 (R-col, bottom): QUAESTIO VI title + opener + arg-1 (*Primo per auctoritatem Augustini … in littera*, footer ⁸ anchored).
+  - p.645: args 2–5 + *Contra* 1–4 head + CONCLUSIO + Respondeo opener (two modes; Modus 1 = *dispositio*/spiritual weight).
+  - p.646: Modus 2 (*influentia a luce superna*, instrument of the Holy Spirit) + concluding remarks (operans/cooperans) + replies 1–5 + SCHOLION I.
+  - p.647: SCHOLION II–IV tail (de auxiliis controversy; tom. I p.710 correction; commentator-roll), ending "…quos vide in scholio ad d. 27. a. 1. q. 1." before DUBIA CIRCA LITTERAM MAGISTRI / DUB. I.
+- **Apparatus split map (14 entries, body-anchor order, one footer per entry except the single net merge at [^14]):**
+  - p.644 footer ⁸ → [^1] (Hic c. 2 in fine; anchors opener *in littera*). **RECEIVED hand-off region:** q5 already consumed p.644 footers ⁵–⁷ (its [^22]–[^24]); footers ¹–⁴ on p.644 anchor in q5's reply tail (q5's concern). q6 takes ONLY footer ⁸ from p.644.
+  - p.645 footers ¹–⁸ → [^2]–[^9] (¹ supra p.600 n.6 *sessor* = [^2]; ² Anselm de Concord. q.3 c.11 *instrumentum se ipsum movens* = [^3]; ³ Aristot II de Anima text.24 definition-of-soul *principium vitae* = [^4]; ⁴ duplex proprietas motoris supra p.109/348/373 *substantia distans a mobili* = [^5]; ⁵ Aristot V Topic/IV Phys/V Metaph + *Si tu des/dicas/dicis* variant + cod.K insert *idem moveatur et moveat* = [^6]; ⁶ Aristot II de Gen. et corr. text.56 *idem manens idem natum facere* + *sicut/secundum* cod.M SC-5 = [^7]; ⁷ divisio gratiae operans/cooperans, lit.Magistri c.1 + d.27 dub.1 *pedissequa* = [^8]; ⁸ August XIII Confess + Enarrat.2 in Ps.29 *sursum tendere* = [^9]).
+  - p.646 footers ¹–⁶ → [^10]–[^14] in BODY-ANCHOR order (print-footer order ≠ body order, so renumbered to body order): footer ¹ → [^10] (codd F W Y… omit *est* after *in quo*; Modus 2 *a quo est*); footer ² → [^11] (Dist. 25 p.1 q.3; reply-1 *supra ostensum*); footer ⁴ → [^12] (Edd. 2,3 *efficiens*/Vat *efficiens et sufficiens*; reply-2 *tota causa sufficiens*); footer ³ → [^13] (codd T ee *sc.*; reply-3 *sed*); footers ⁵+⁶ → [^14] (cod. CHILORSWY *et;* perperam + cod. bb *quam*/Y *per quas* + *sibi/sicut coniuncto*; reply-5 *secundum quas*, one net merge of the two reply-5 footers). Markers sit at true body positions; entry numbers ascend in body order.
+- **has_scholion = TRUE.** q6 carries its own full SCHOLION I–IV (closing scholion for the article). SCHOLION I = the operans/cooperans + dispositio/instrumentum doctrine (Alex.Hal S.p.III q.61 m.3 a.2 / Richard a Med / Petr.a Tar / S.Thom) + Trent/Orange concord; II = de auxiliis controversy history (Congregatio 1598, Paul V/Urban VIII, Clement XII 1733, Denzinger); III = sufficient/efficacious/prevenient grace + scientia media + tom.I p.710 correction; IV = commentator-roll. SCHOLION carries NO footnote markers.
+- **Hand-offs:** RECEIVED p.644 footer ⁸ (now [^1]) anchoring the opener; q5 retained p.644 footers ⁵–⁷. FORWARDED nothing — q6 SCHOLION closes clean at raw 45230 before DUBIA CIRCA LITTERAM MAGISTRI / DUB. I (raw 45231/45233); the dubia chunk owns its own p.647 R-col + p.648 footer block.
+- **[?] flags:** NONE. Latin re-set from 450 dpi PDF column bands per Override; OCR garbles silently corrected (aivimam→animam, gralia→gratia, moy eX naluralilci'→aut movet naturaliter, raotor→motor, niovet→movet, raodum→modum, pedissequa, influcntia→influentia, conlinue→continue, sauat→sanat, gratiftcatum→gratificatum, hoQiinem→hominem, raanens→manens, deflnit→definit). The single OCR siglum-list "C K O R S V V" in p.646 footer 6 reads "C K O R S V Y" at zoom (the second V = Y); rendered C K O R S V Y.
