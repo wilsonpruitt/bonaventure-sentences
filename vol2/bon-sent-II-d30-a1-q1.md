@@ -6,513 +6,240 @@ distinctio: 30
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 49759
-line_end: 50246
-word_count_latin: 7335
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Utrum corruptio, quae est in humana natura, insit ei a suae conditionis primordio, an ex peccati merito"
+title_en: "Whether the corruption that is in human nature belongs to it from the beginning of its condition, or from the merit of sin"
+printed_pages: [714, 715, 716, 717]
+pdf_pages: [736, 737, 738, 739]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 714–717"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF (pp. 714–717, PDF 736–739) cross-checked against IA djvu OCR, fresh literal English translation, full apparatus from raw OCR footers (25 entries across 4 printed pages), scholion I–II from PDF; carved out of mis-ranged skeleton that bundled q1+q2 (2026-05-30)"
 format_version: 1
 ---
 
-# bon-sent-II-d30-a1-q1
+# I Sent. (Bk II), d. 30, a. 1, q. 1
+## *Utrum corruptio, quae est in humana natura, insit ei a suae conditionis primordio, an ex peccati merito*
+
+---
 
 ## Latin
+<!-- page 714 -->
 
-QU.\ESTIO I.
-         Utrum corrwptio, quae est in humana natura, insit ei a suae concUtionis primordio , an ex peccati nierito.
+### Articulus I. *De originalis peccati entitate.*
+### Quaestio I. *Utrum corruptio, quae est in humana natura, insit ei a suae conditionis primordio, an ex peccati merito.*
 
-                Circa primum sic proceditur et quaeritur, utrum               sexto : Quare species appropriatur Filio '; sed a sum-
-          corruptio, quam videmus in humana natura, iiisit                    ma pulcritudine nihil procedit foedum , nihil turpe ,
-          ei ex suae conditionis primordio , an ex peccati me-                nihil quod rationalem offendat aspectum ; sed in ho-
-          rito. Et quod non insit ex suae conditionis primor-                 mine ratione utente sunt aliquae passiones connatu-
-          dio, sed ex peccati merito, videtur tam ex ordine                   rales, de quibus rationabihter erubescit : ergo talis
-          divinae iustiliae, quam ex ordine sapientiae, quam                  passio nunquam fuit in homine a sua prima origine ;
-          etiam ex ordine bonitatis. Differt enim triplex ordo                et fuit sic , vel merito Iransgressionis : ergo etc.
-          in creaturis, quia per iustiliam fit ordinatio remu-                      4. Item, ubicumque intelligitur summa sapien-
-          neralionum et meritorura , per sapientiam vero or-                  tia, intelligitur summa veritas et summa aeciualitas ;
-           dinalio partium ad se invicem , per bonitatem vero                 sed a summa aequalitate nulla debet procedere im-
-          ordinatio rerum in suum finem.                                      proportionabilitas ; sed duratio et conservatio corporis
-                 1. Ex parte divinae iustitiae arguitur sic. Nulli            secundum statum praesentis miseriae est impropor-
-Fandamenta.iuste infligitur poeua , nisi praecedat culpa ' ; sed              tionabilis animae, quae est eius forma. quia hoc est
-          niliil aliud est poena quam passio involuntaria in                  temporale, illud perpetuuni: ergo nunquam humana
-          rationali creatura : ergo nullo modo talis passio fuit              natura sic producta fuit in sui primordio a summa
-          m homine , antequara praecesserit in eo culpa : igitur              sapientia: videtur ergo, quod in hoc ceciderit ex pro-
-          talis corruptio non fuit in humano genere a primor-                 pria culpa \
-          dio suae conditionis, sed ex raerito transgressionis.                    5. Ex urdine divinae bonitatis arguitur sic. A
-                2. Item , a summa iustitiae aequitate nuUa pro-               summa bonitale nihil procedit, quod sit magis pro-
-          cedit curvitas et obliquitas ; sed humana natura non                pinquum ad malum quam ad bonum , cum universa
-          solum corrupta est corruptione poenalitatis , verum                 propter semetipsam summa bonitas operetur ^; sed
-          etiam corruptione curvitatis , quia videmus , homi-                 sensiis et cogitationes hominuni prona sunt in nia-
-          nes ex corruptione sibi indita inclinari ad malum ' :               luni a,b adolescentia sua , secundum quod dicit sa-
-          ergo nunquam a divina iustitia processit, quod hu-                  cra Scriptura: ergo in illa corruptione, in qua est,
-          mana natura sit corrupta in sui primordio : ergo si                 non fuit humana natura a summa bonitate producla.
-          corrupta est, hoc est solum peccati merito.                               6. Item , nihil quod procedit a summa bonitate,
-                3. Ex ordine autem sapientiae arguitur sic. Ubi-              est dignum maledictione ; sed multae sunt in nobis
-          cumque est summa sapientia, ibi est summa pulcri-                   passiones maledictione dignae, propter quas tam
-          tudo, sicut exponit Augustinns in libro de Trinitate                lob " quam leremias maledixit diei suae, in qua na-
+Circa primum sic proceditur et quaeritur, utrum corruptio, quam videmus in humana natura, insit ei ex suae conditionis primordio, an ex peccati merito. Et quod non insit ex suae conditionis primordio, sed ex peccati merito, videtur tam ex ordine divinae iustitiae, quam ex ordine sapientiae, quam etiam ex ordine bonitatis. Differt enim triplex ordo in creaturis, quia per *iustitiam* fit ordinatio remunerationum et meritorum, per *sapientiam* vero ordinatio partium ad se invicem, per *bonitatem* vero ordinatio rerum in suum finem.
 
+**Fundamenta.**
 
-               ' Cfi'. (lictum August. , supra pag. 432 , nota 4. allatum.         3 Sive c. 10. n. M, ubi S. Doctor illam ab Hilario factam
-         Idem, VI. Op. imperf. contra lulianum, c. 36. sic: « Omnis au-       appropriationem: « Aeternitas in Patre, species in Imagine, usus
-         lem pocna liominis (|uid ost , nisi poena imaginis Dei ? Quac si     in Muiiere », explanat et quantum ad « speciem in Imagine »
-         inferlur iniuste, profecto a quo infertur iniustus est. Quis pono    dicit: » In qua Imagine speciem nominavit, credo, propter pul-
-         dubitel , c|Uod iniuste inferatur poena imagini Dei, nisi hoc        critudinem, ubi iam est tanta congruentia... tanquam Verbum
-         culpa meruerit ? » Quoad ininorein cfr. illud Anselmi in eius        perfectum, cui non desit aliquid, ct ars quaedam omnipotenlis
-         libi'0 de Conceplu virgin. et oi-ig. pecc, c. 4 ; Nam nihil cst      atque sapientis Dei, plena omnium rationum viventium incom-
-         alicui poena , nisi quod est contra volunlatem ; et nulla res poe-   mutabilium » elc. Ibid. n. 12. ait; In illa enim Trinitale summa
-         nam sentit, nisi quae habet voluntatem. Cfr. infra d. 36. a. 2.      origo est rerum omnium et perfectissima pulcritudo et beatis-
-         q. 2. et a. 3. q. I. seq. — In edd. , excepta I, maior sic so-       sima delectatio. — Post Augitstinus codd. H I T ee et alii cum
-         nat: Nullus nffligilur poena , nisi praececlat culpu ; post quae     edd. 2, 4 intcriiciunt in littera. Vat. omittit verba Quarc spe-
-         Vat. prosequitm- sic : sed paisio involuntana in rationali crea-     cies appropriatur Filio.
-         tnra esl poena ; talis autem passio non fxiii in homine , an-             ■• Anselm., II. Cur Deus homo, c. 2 ; Sapientiae et iustitjae
-         tequam praecessit in eo culpa. Versus finem arg. , ubi cum           Dei repugnat, ut cogeret hominem mortem pati sine culpa,
-         codd. F K M U Y aa bb ee ot aliis nec non cum ed. I legimus          quem iustum fecit ad aeternam beatitudinem. Sequitur ergo, quia
-         m humano genere, Vat. habet in liumana natura,                       si nunquam peccasset, nunquam moreretur (cfi-. ibid. i. c. 9.).
-               ^ Similiter loquitur Bernardus in expositione verborum il-          ^ Prov. 16, 4: Universa propter semetipsum operatus est
-         lorum Eccl. 7, 30; Solummodo lioc inveni, quod fecerit Deus          Dominus. — Seq. toxtus est Gen. 8, 21. — Pro propinqimm
-         hominem rectum. Cfr. supra pag. 'la^, nota 3. — Pro corru-           Vat. promim.
-         ptione curvitatis nonnulli codd. cum Vat. et edd. 2, 3, 4 cor-             « Cap. 3, 3. seqq. — lerem. 20, 1 4 ; Exod. 23, 26 ; Deul. 7,
-         ruptione carnis, quibus verbis Vat. sola uddit quae est corru-       1 4. — Circa finem arg. cod. Y voci bonitatis praefigit divinae.
-         ptio cuipabilis.
-                                                                                                                                          715
+1. Ex parte divinae iustitiae arguitur sic. Nulli iuste infligitur poena, nisi praecedat culpa[^1]; sed nihil aliud est poena quam passio involuntaria in rationali creatura: ergo nullo modo talis passio fuit in homine, antequam praecesserit in eo culpa: igitur talis corruptio non fuit in humano genere a primordio suae conditionis, sed ex merito transgressionis.
 
-                                                       DIST. XXX. ART. I. QUAEST. I.
-            tiis est, et in Lege maledicebantur steriles mulieres:         maiorem, qui propter ipsum factus esl a sua pri-
-            ergo non videtur, quod humana natura in ea cor-                maria conditione. Sed ita videmus in maiori munclo,
-            ruptione, in qua nunc est, creata sit a summa boni-            quod inferiores orbes contrario motu moventur orbi
-            tate. — Videtur igitur, quod in hanc corruptionem              superiori, secundum quod dicunt philosophi natura-
-            et statum devenerit merito culpae , cum hoc sit con-           les ' : ergo pari ratione videtur, quod in homine per
-            tra ordinem bonitatis, sapientiae et iustitiae, contra         naturam portio sensitiva movetur contra iudicium
-            quem ordinem inconveniens est Deum aliquid facere.             rationis. Sed haec esl corruptio, quae in nobis est
-                  Sed cONTfiA: 1. Primo ostenditur, quod hoc non           maxime inordinata : si igitur haec est a prima con-
-   opposi- repugnet ordini divinae iuslitiae, quia non est ma-
-d tam.                                                                     ditione, videtur, quod el oranis alia.
-            ioris innocentiae homo, quam sit ovis vel agnus; sed                 o. Item , hoc videtur aha ratione , sumta per
-            ovis mortahs et passibihs producta fuit a Deo, ita             principia moralis philosophiae. Dicit enim moralis
-            quod in nuUo ex hoc derogatur divinae iustitiae ' :            philosophus% quod virtus est difQciUimorum opera-
-            ergo pari ratione videtur, quod si talem produxisset           tiva, nec est aliqua virtutis laus, ubi nuUa est dif-
-            hominem , quaUs nunc est , non videretur in ahquo              ficuUas : si ergo homo fuit conditus ad virtutem dis-
-            derogari eidem.                                                positus, videtur, quod a sua prima conditione ha-
-                  2. Item, quod non repugnet ordini sapientiae,            buerit difQcultatem faciendi bonum et vitandi mahtm,
-            videtur. Secundum idem exemplar , secundum quod                et in tali fuisset dispositus, quod oranis virtus habere
-           Deus produxit honiinem de terra, produxit etiam                 posset in eo suuin usum : ergo videtur creatus fuisse
-           alia animantia et corpora mixta; sed hoc non re-                cum huiusmodi corruptionibus.
-           pugnat pulcritudini divini exemplaris, quod ex qua-                   6. Itera, hoc videtur ratione, sumta secundum
-           tuor elementis composita sint corruptibiha , inimo              principia theologiae. Dicit enim per Scripturam "
-           hoc facit ad ordinem universi, sicut in pluribus locis          Spiritus sanctus, quod via perveniendi ad gloriam
-           ostendit Augustinus ' : ergo non videtur esse contra            et subhmitatem est per ignommiam et humiUtatem ;
-           ordinem sapientiae, si Deus easdem proprietates et              via perveniendi ad coronam est per tentationem et
-           passibilitates a natura indidit hominibus , quas etiam          pugnam; via perveniendi ad quietem et tranquiUi-
-           dedit ahis animalibus.                                          tatera est per iabores et tribulationes. Si ergo homo
-                 3. Item, quod non sit contra ordinem bonitatis            debuit sic fieri, quod esset dispositus pervenire ad
-           divinae, videtur. Ad summam enim bonitatem spe-                 gloriam et victoriam et pacem perfectam ; videtur,
-           ctat dare unicuique inchnationem competentem suae               quod humana natura in poenahtatibus et corruptio-
-           naturae. Sed sicut anima rationalis delectari habet             nibus, in quibus nunc est. a suae conditionis pri-
-           in bono simplieiter, ita et sensibihs in bono ut nunc;          mordio fuerit constituta.
-           et sicut terra habet quiescere deorsum, ita et ignis
-           sursum. Si igitur Deus omnibus dedit proprias in-                                        c 0 N c L u s 1 0.
-           chnationes, igitur a primaria hominis constitutione
-           erat diversitas appetituum in sensibili et rationah, erat       Humana natura in has corrupliones deiecta est
-           nihilominus appetitus diversus in eiementis corpus                  merito primae praevaricationis , non instituta
-           constituentibus. Si igitur diversitas primae inchna-                a. primordio sua.e conditionis.
-           tionis facit rebelhonem, et diversitas secundae inclina-
-           tionis inducit corruptionem " ; videtur, quod si homo                 Respondeo: Dicendum, quod absque dubio na- conciosio.
-           hoc modo conditus esset, in nullo derogaretur ordini            tura humana in has corruptiones ' deiecta est merito
-           bonitatis divinae.                                              priraae praevaricationis , non inslituta a primordio
-                 4. Item , quod talis fuerit homo conditus , vide-         suae conditionis. Hoc enim fidei veritas praedicat,
-           tur posse persuaderi ex ratione, sumta secundum                 sacrae Scripturae auctoritas confirmat, rationis pro-
-           principia naturalis philosophiae. Cum enim honio sit            babil.itas raanifestat. Fides hoc clamat et dicit, Filium Ratio i.
-          minor mumhis , propter quem omnia facta sunt,                    Dei passum esse , ut nos a morte eriperet, in quam
-           debet habere naturalem conformitatem ad mundum                  nos induxerat primus parens.. Sacrae Scripturae au- Raiio 2.
+2. Item, a summa iustitiae aequitate nulla procedit curvitas et obliquitas; sed humana natura non solum corrupta est corruptione poenalitatis, verum etiam corruptione curvitatis, quia videmus, homines ex corruptione sibi indita inclinari ad malum[^2]: ergo nunquam a divina iustitia processit, quod humana natura sit corrupta in sui primordio: ergo si corrupta est, hoc est solum peccati merito.
 
+3. Ex ordine autem sapientiae arguitur sic. Ubicumque est summa sapientia, ibi est summa pulcritudo, sicut exponit Augustinus in libro *de Trinitate* sexto: *Quare species appropriatur Filio*[^3]; sed a summa pulcritudine nihil procedit foedum, nihil turpe, nihil quod rationalem offendat aspectum; sed in homine ratione utente sunt aliquae passiones connaturales, de quibus rationabiliter erubescit: ergo talis passio nunquam fuit in homine a sua prima origine; et fuit sic, vel merito transgressionis: ergo etc.
 
-            1 Cfr. supra ci. 19. a. I. q. 2.                               •2. q. I. — De ratione sic argumentandi cfr. Aristol. , I. de
-            - Ut e. g. in libr. 111. de Lib. Arb. c. 14. n. iO, ubi        Histor. animal. c. 15, ubi loquitur de ordine partium liominis
-      illam corruptionem non vitiiperationc dignam signat, quae oria-      ad mundum maiorem; vide etiam supra pag. 336, nota 6.
-      tur ex « ordine mutabilium reruni sibi cedenlium secundum                  ^ Cfr. Aristot., II. Ethic. c. 3. Sententiam ipsam yide supra
-      leges congruentissimas, pro valentia cuiusque partis universitali    pag. 572, nota 2. — Vat. omittit vocem morulis, voci philo-
-      datas » ; libr. Xll. de Civ. Dei, c. i; de Nalura boni, c. 8; Con-   sophus praecedentem.
-      tra Secundinum Manich. c. 1.3, ubi corruptionein rerum cor-                6 Matth. 23, 12; Luc. 14, II ; — Tob. 12, 13; 11. Tim. 2,
-      poralium ad pulcritudinem universi conferre asserit.                 5; — Luc. 24, 26; Act. 14, 21. — Paulo inferius pro oictoriam
-            3 Edd., excepta 1, cum pluribus codd. tentationem ; nostra     cod. Z coronam.
-      lectio nilitur codd. A X Y Z aa bb cc ee et aliis. Cod. Z addit            ' Edd. cum non paucis codd. tenlationes, sed procul dubio
-      per elementorum separationem in corpore hominis.                     multo melior est leclio codd. Y aa bb ee, quam in texlum re-
-            * Vide supra d. 14. p. II. a. I. q. I. seq. — Quod omnia       cepimus, quippe cum raiio corrtiptionis latior sit quam ratio
-      propter hominem facta sint, monstratum est supra d. IS. a.           tentationis.
-        716                                                   SENTENTIARUM L[B. U.
+4. Item, ubicumque intelligitur summa sapientia, intelligitur summa veritas et summa aequalitas; sed a summa aequalitate nulla debet procedere improportionabilitas; sed duratio et conservatio corporis secundum statum praesentis miseriae est improportionabilis animae, quae est eius forma, quia hoc est temporale, illud perpetuum: ergo nunquam humana natura sic producta fuit in sui primordio a summa sapientia: videtur ergo, quod in hoc ceciderit ex propria culpa[^4].
 
-           cloritas confirmal, quae dicit Genesis secundo ', qua-                   2. Ad illud quod obiicitur, quod secundum idem
-           liter lionio per cuipam inobedientiae poenam morta-                exemplar alia genera animalium facta sunt corru-
-  Raiio 3. litatis incurrerit. Ralio autem hoc raanifestat, sicut             ptibilia; dicendum, quod non est simile, pro eo quod
-           prius in opponendo monstratum est, tam ex ordine,                  alia animalia ab homine non habent formara cora-
-           qui respicit divinam iustitiam, quam ex ordine, qui                pletivam incnrruptibilem. In solo autem homine ani-
-           respicit sapientiam, (\Vi'A.m etiam ex ordine, qui re-             ma est inimortalis per naturam, sicut ostensum fuit
-           spicit bonitatem sunimam.                                          supra"; et ideo mortalitas in aliis animalibus non
-                 Attendendum est tamen, quod ratio in mqui-                   ponit aliquam improportionem perfectibilis ad suam
-observaijo rendo (lupliciter potest procedere : aut prout est orf-            perfeclionem, sicut ponit in homine;ac per hoc nec
-           iuta radto fidei, et sic procedit aspiciendo ad causas             ila repugnat mortalitas in aliis animalibus ordini,
-           supeiiores; aut proiit iudicio proprio relicta ast, el             quem sapientia Dei servat in rerum conditione, sicut
-                                                                              morlalitas reperta in homine.
-           sic procedit inspiciendo ad naturas et causas inferio-
-           res; acquirit enim scientiam per viam sensus et expe-                    3. Ad illud quod obiicitur , quod .summae boni-
-           rientiae-. Primo modo ratiocinantur doctores catliolici            tatis est dare unicuique suam iiiclinationem; dicen-
-           et fideles circa ea quae sunt fidei, et secundum liunc             dum, quod hoc verum est, salvo ordine, qui attenditur
-           modum ratiocinandi multum est lioc consonum ra-                    inter res, secundum quod comparantur ad invicem;
-           tioni, quod Deus in tanta miseria et calamitate, in                quoniam bonitas non praeiudicat sapientiae; et quia
-           qua nunc est, liominem a principio non fecerit; immo               secundum ordinem naturae corpus debet esse sub-
-           dicere contrarium magnae impietatis videtur esse                   iectum animae, et sensibilitas ' subiecta debet esse
-                                                                              rationi : sic debuit Deus dare inclinationem tam cor-
-        piae el sanae menti. Secundo niodo ratiocinando '                     pori hominis, quam sensualitati carnis, quod in nuUo
-        processeriiiit pliilo.so|)iii , qui non aspexerunt in lio-
-        minis conditione suum principaiem Auctorem , sed                      praeiudic;iretur rectitudini rationis. Et hinc est, quod
-        aspexerunt principia componentia et operationes, quas                 etsi sensualitas bonum ut nunc appeteret, nulla ta-
-        habet per virtutem naturae ; et secundum hunc mo-                     men erat rehellio in primo homine , quia tantum ap-
-        dum ratio potius discordat veritati catholicae, quam                  petebat, sicut ratio dictabat. Nunc autem esl rebel-
-        concordet. Et haec est ratio, quare philosophi, qui                   lio, quia praeter iudicium rationis frequenter appetit;
-        fuerunt tantae veritatis indagatores, non perveneruiit                et propter hoc brutales effecti suinus et iumentis in-
-            ad lapsus humani cognitionem *, quia eis videl)atur               sipientibxLS comparati, cum tamen homo in primor-
-            esse valde rationabile, hominem sic fuisse conditum;              dio conditiis fuerit in honore et dignitate rationis".
-            cum tamen catliolicis doctoribus non sohirn fide, sed                   4. Et per hoc manifesta est responsio ad se-
-            etiani rationum evidentia certitudinaliter eius contra-           quens obiectum, quod obiicit de diversitate motuum
-            riuin appareat esse verum. — Unde et rationes , quae              orbiuni caelestium. Etsi eniin videatur ibi esse con-
-            hoc ostendunt, sunt concedendae.                                  tnu-ielas, non tamen est ibi contrarietas, immo or-
-                  1. Ad illud ergo quod primo obiicitur, quod                 dinatio recta, pro eo quod sphaera superior semper
-soiuiio op- Dgus fecit ovem passibilem, quae tamen non pecca-                 movet inferiorem, et nunquam inferior superiorem.
-            vit; dicendum, quod noii est simile de homine el de               Nunc autem in nobis non est sic , pro eo quod vide-
-            ove; homo enim, qui rationis particeps est, capax                 mus aliam legem in membris nostris, repugnantem
-            est beatitudinis et iustitiae, et per oppositum cujpae            legi mentis nostrae et capiivantem nos in servitu-
-            et miseriae. Unde sicut in homine oUiquari culpa                                                                                        l>istiD( ! I
+5. Ex ordine divinae bonitatis arguitur sic. A summa bonitate nihil procedit, quod sit magis propinquum ad malum quam ad bonum, cum *universa propter semetipsam* summa bonitas *operetur*[^5]; sed *sensus et cogitationes hominum prona sunt in malum ab adolescentia sua*, secundum quod dicit sacra Scriptura: ergo in illa corruptione, in qua est, non fuit humana natura a summa bonitate producta.
 
+6. Item, nihil quod procedit a summa bonitate, est dignum maledictione; sed multae sunt in nobis passiones maledictione dignae, propter quas tam Iob[^6] quam Ieremias maledixit diei suae, in qua natus est, et in Lege maledicebantur steriles mulieres: ergo non videtur, quod humana natura in ea corruptione, in qua nunc est, creata sit a summa bonitate. — Videtur igitur, quod in hanc corruptionem et statum devenerit merito culpae, cum hoc sit contra ordinem bonitatis, sapientiae et iustitiae, contra quem ordinem inconveniens est Deum aliquid facere.
 
-            est, sic et pati poena est; in ove autem neulrum                  tem peccati^.
-                                                                                    5. Ad illiid quod obiicitur, quod virtus est dif-
-            contingit reperire^ Ideo passibilitas ovis nihil facil ad         licillimorum operativa; dicendum, quod quaedam est notaoda^! l
-            ordinem nec contra ordinem divinae iustitiae, cuius               difficultas, quae venit ex gene?'e operis, quaedam vero,
-            est considerare meritnrum exigentiam; non sic au-                 quae venit ex defectu operantis. Prima difficultas
-            tem est de passione in natura humana.                             est de essentia virtutis. Virtus enim, in quantum
+**Sed contra:** 1. Primo ostenditur, quod hoc non repugnet ordini divinae iustitiae, quia non est maioris innocentiae homo, quam sit ovis vel agnus; sed ovis mortalis et passibilis producta fuit a Deo, ita quod in nullo ex hoc derogatur divinae iustitiae[^7]: ergo pari ratione videtur, quod si talem produxisset hominem, qualis nunc est, non videretur in aliquo derogari eidem.
 
-              ' Vers. 17: In quocumque cnim die comedcfis ox e.o,             ideo debet esse corruptibilis , ut proportio salvetur. In homine
-         morte morieris. Ibid. c. 3. narrutur lapsus hominis. — Pro qxiae     aulem atiter; quia incorruptibilis esl forma, incorruptibile
-         dicit Vat. cum edd. 3, 4 et plures codd. quia dicit. Aliquan-        debet esse fonuatum.
-         tulum anlc pro eriperet codd. F U liberaret, cod. aa redimeret.             " Disl. 19. a. 1. q. 1. seq. — Mox pro improporlionem
-               - Cfr. supra d. 24. p. U. a. I. q. 1. in corp. — Paulo supe-   mulli codd. cum. edd. I, 2, 3 perperam proportionem.
-         rius pro inspiciendo edd., excepta I, respiciendo.                          ' Edd. cum nonnullis codd. sensualitas. CJv. snpra pag.
-               ' Val. raliocinandi.                                           578, nola S. ct pag. 387, nota 6.
-               ■• Codd. C Iv U S T Y aa bb ct alii cum primis cdd. con-              * Psuim. iS, 21; Homo cuni in honore csset, non intel-
-         ditionem.                                                            lcxil ; comparatus est iumentis insipicnlibus et similis factus est
-              ^ Cfr. August. , de Natura boni, c. 7. scq.; Anselm., dc        illis. — Paulo superius post praeter iudicium codd. Y aa inse-
-         Conceptu virgin. et orig. pecc. c. 3. — In fine solut. cod. .A       runt immo contra iudicium. l)ein |iro effecli sumus cod. cc et
-         addit: Vel dicendum, quod poena non dicitur incsse alicui,           ed. I facli sumus.
-         visi quod natus est cognoscere iustum et iniustum, bonum et                 ' Rom. 7, 23: Video autem aliam legem in mcmbris meis,
-         malum, poenam etijloriam: sedonisnon est Imiusmodi ; ideo            rcpugnantem legi mentis meae et capti\anlem mc in lege
-         patet. Vel sicut in sequenti auctoritate dicilur , ovis non habel
-         form.am incorruptibilem , sicul liomo , sed potius corruptibilcm ;
-                                                                              peccali.
-                                                                                                                                        717
-                                                 DIST. XXX. ART. I. QUAEST. II.
-virtus, circa magna consistit et ardua; haec autem                     homo proficerel, minueretur in eo virtutis excellen-
-difiBcultas in primo homine fuit slc. Homo enim ita                    tia; quod falsum esse nemo dubitat.
-perfecte Deo obedivisset et ita perfecte Deo adhae-                          6. Ad illud autem quod obiicitur de via perve-
-sisset, sicut perfectio virtutis obedientiae et amicitiae              niendi ad salutem secundum sacrae Scripturae instru-
-hoc requirit; et sic de aliis virtutibus'. — Est et aha                ctionem, dicendum, quod Scriptura sacra tradita est
-difEcultas, quae venit ex defectu opemnlis; et isla                    homini lapso et documenta tradit, per quae perdu-
-quidem non est de essentia virtutis, immo accidit                      catur ad patriam, secundum quod competil statui
-virtuti, secundum quod virtus est; et ideo ad hoc,                     praesenti. Ideo ex his non potest argui, quod talis
-quod homo esset virtuosus, non oportuit hanc diffi-                    debuerit homo fieri, ut per hanc viam deveniret;
-cultatem reperire ■ in homine in primordio. Et quod                    tales enim viae " sunt valde asperae. Si autem homo
-illud sit verum, hoc planum est. Quanto enim aliquis                   non peccasset, non cura asperitate, sed cum omni
-magis proficit in virtute, tanto magis operatur cum                    lenitate pervenisset ad suum finem. Et est simile:
-minori difficultate ex parte sua; si igitur haec dif-                  quia sanitas conservatur per bona cibaria et suavia,
-ficultas esset de virtutis essentia, secundum quod                     sed non recuperatur nisi per potiones amaras.
+2. Item, quod non repugnet ordini sapientiae, videtur. Secundum idem exemplar, secundum quod Deus produxit hominem de terra, produxit etiam alia animantia et corpora mixta; sed hoc non repugnat pulcritudini divini exemplaris, quod ex quatuor elementis composita sint corruptibilia, immo hoc facit ad ordinem universi, sicut in pluribus locis ostendit Augustinus[^8]: ergo non videtur esse contra ordinem sapientiae, si Deus easdem proprietates et passibilitates a natura indidit hominibus, quas etiam dedit aliis animalibus.
 
-                                                           SGHOLION.
-       1. Conclusio loquitur taiilum de facto; et flde constat, cor-   inquirendi rationabiliter circa hanc i-em, scilicet vel supposilis
-rupUonem, sive ut alii cum S. Tlioma loquuntur, defectus cor-          nonnullis principiis fidci, vei ex sola rationis vi. De hoc autem
-poris et animae, quibus laburat genus liumanuni, originem lia-         niodo philosophorum dicit, « quod tunc ratio potius discordat
-bere a peccato Adae. .\rgumenta autem rationis, hic in fundam.         veritati catholicae quam concordet », dum S. Thom. (S. c. Gent,
-et in corp. posita, sane debcnt int?lligi, ne excludere videantur      IV, c. S2.) doccl, quod duce sola ratione, « peccati originalis in
-possibilitatem stalus naturae purae, quando scilicet Deo pla-          humano gcnere probabilitcr quaedam signa apparent ». Ilinc iam
-cuisset hominem non exaltare ad finem supernaluralem, sed              infertur, argumenta a S. Bonaventura allata, intelligenda esse
-eum creare dotalum solis donis naturalibus aptumque ad finem           in suppositione praesentis providentiao, quae hominem destinavit
-assequendum naturalem per operationes ciusdem ordinis. In hac          ad flnem supcrnaturalem et ab initio fecit « homineni rectum »
-hypotliesi homo non esset aptus nec obligalus, ut lenderet ad          (Eccl. 7. 30.). — Quod autem immortalita^ secunduni corpus
-flnem supernaturalem, immediatam scil. visionem et fruitionem          fuei-it in Adam donum gratuitum, probatum est supra d. 19.
-Dei; caruisset etiani tunc dono gratiae sanctificantis, atque donis    a. 3. q. I, Saepius eliam asserit S. Bonav., quod naturalia rema-
-integritatis. Hinciisdem, ut in statu naturae lapsae, naluralibus      neant integra post peccatum eliam in daemonibus (supra d. 6. a.
-premeretur defectibus, quae naluram bumanam consequuntur,              3. q. I. fundam. 2. et in corp. et etiam expressius III, Scnt. d.
-nisi Deus alio modo supplevisset; expers autem fuissol cuipae          2S. q, 2. ad 3.), quia « quod esl naturale est indelebile » (su-
-originalis et captivitatis sub potestate diaboli (Concil. Trident.     pra d. 7. p. II. a. I. q. 2. fundam. 1.), De cor ruptiotie , quam
-Sess. V. can. 2.). Possibilern aulem fuisse statum naturae purae,      inferl pcccatum, cfr, infra d, 37, praesertim a. 2, — Etiam illud
-exploratum est. Nam s. Sedes, condcmnatis niullis propositio-          principium (fundam, I,), quod poena non infligatur, nisi praece-
-nibus Baii et ctiam prop. 16. Synodi Pistoriensis, oppositam           dat culpa , si intelligitur de omni passione rationalis creaturae ,
-doctrinam tenendam esse docuit, scilicet dona tum gratiae san-         non valet, nisi supposita praesente providentia, quam flde tan-
-cliflcantis tum integritatis non esse debita ex naturali cxigentia     tuni novimus (cfr. Richard. a Med., hic a. 2. q. 2,).
-et conditione humanae naturae, sed potius esse gratuitum Dei                  II. Alex. Hal., S. p. II, q, 106. m, I.-— Scot., in utroque
-beneficium. Ad immortalitatem spectat condemnata Baii prop.            Scriplo, II. Sent, d. 19. q. unica. — S. Thom., iiic q. 1. a. I;
-78: 8 Immortalitas primi liominis non erat gratiae beneflcium,         S, 1. 11. q. 85. a. 5. 6; S, c. Gent, IV. c. 50-53; de Malo, q,
-sed naturalis conditio i (cfr. prop. 17. Synodi Pistor.); ad de-       S, a, /». 5. — B. Alberl,, liic a, 1 ; S, p. II. tr. 17. q. 107. m. 1.
-fectus naturales in genere prop. SS: « Deus non potuisset ab           — Petr. a Tar., hic q. I. a. 1, — Richard, a Med,, hic. a. 1.
-inifio talem creare homineni, qualis nunc nascitur».                   q. 2. — ;Egid. R., hic q. I. a. 2. 3. — Durand,, hic q. 1. —
-      Quod autem S. Bonav. omnino alienus sit ab errore Baii ,         Dionys. Carth., hie q. 3. — ■ Biel, de hac et seqq, qq hic q, unica.
-iam concluditur ex dislinctione in corp. posita de duplici modo
+3. Item, quod non sit contra ordinem bonitatis divinae, videtur. Ad summam enim bonitatem spectat dare unicuique inclinationem competentem suae naturae. Sed sicut anima rationalis delectari habet *in bono simpliciter*, ita et sensibilis *in bono ut nunc*; et sicut terra habet quiescere deorsum, ita et ignis sursum. Si igitur Deus omnibus dedit proprias inclinationes, igitur a primaria hominis constitutione erat diversitas appetituum in sensibili et rationali, erat nihilominus appetitus diversus in elementis corpus constituentibus. Si igitur diversitas primae inclinationis facit rebellionem, et diversitas secundae inclinationis inducit corruptionem[^9]; videtur, quod si homo hoc modo conditus esset, in nullo derogaretur ordini bonitatis divinae.
 
+4. Item, quod talis fuerit homo conditus, videtur posse persuaderi ex ratione, sumta secundum principia naturalis philosophiae. Cum enim homo sit *minor mundus*[^10], propter quem omnia facta sunt, debet habere naturalem conformitatem ad mundum maiorem, qui propter ipsum factus est a sua primaria conditione. Sed ita videmus in *maiori mundo*, quod inferiores orbes contrario motu moventur orbi superiori, secundum quod dicunt philosophi naturales: ergo pari ratione videtur, quod in homine per naturam portio sensitiva movetur contra iudicium rationis. Sed haec est corruptio, quae in nobis est maxime inordinata: si igitur haec est a prima conditione, videtur, quod et omnis alia.
 
-                                                             QUAESTIO H.
+5. Item, hoc videtur alia ratione, sumta per principia moralis philosophiae. Dicit enim moralis philosophus[^11], quod virtus est difficillimorum operativa, nec est aliqua virtutis laus, ubi nulla est difficultas: si ergo homo fuit conditus ad virtutem dispositus, videtur, quod a sua prima conditione habuerit difficultatem faciendi bonum et vitandi malum, et in tali fuisset dispositus, quod omnis virtus habere posset in eo suum usum: ergo videtur creatus fuisse cum huiusmodi corruptionibus.
 
-                      Ulrum natura* humana merilo primae Iransgressionis fuerit corrupta
-                                    poenaliter tantum, an etiani culpabiliter .
+6. Item, hoc videtur ratione, sumta secundum principia theologiae. Dicit enim per Scripturam[^12] Spiritus sanctus, quod via perveniendi ad gloriam et sublimitatem est per ignominiam et humilitatem; via perveniendi ad coronam est per tentationem et pugnam; via perveniendi ad quietem et tranquillitatem est per labores et tribulationes. Si ergo homo debuit sic fieri, quod esset dispositus pervenire ad gloriam et victoriam et pacem perfectam; videtur, quod humana natura in poenalitatibus et corruptionibus, in quibus nunc est, a suae conditionis primordio fuerit constituta.
 
-     Secundo quaeritur, utrnm merito primae trans-                     minem peccatum intravit in mundmn, et per pecca-fmiameais.
-gressionis humana natura fuerit corrupta poenaliler                    lum mors, ita et in omnes homines mors pert7'ansiit,
-tantum, an etiam culpabiliter. Et quod culpabiliter                    in quo omnes peccaverunl. Ex isto verbo colligitur,
-corrupta sit, videtur.                                                 quod oranes in Adam fuerunt infecti et peccatores
-      1. Ad Romanos quinto^: Sicut per unum ko-                        conslituti. Si forte dicas, sicut dicunt Pelagiani, quod
+### Conclusio.
 
+> Humana natura in has corruptiones deiecta est merito primae praevaricationis, non instituta a primordio suae conditionis.
 
-      ' Cfr. supra d. 29. a. 3, q. I., ubi dicilur, in illo stalu      perius pro tradit codd, F K W aa exhibent tradidit, et paulo
-virtutes non habuisse actus imperfectos.                               inferius pro lenitate codd. F K L 0 T Y etc, cum ed. 2 levitate.
-     - Vat, et edd. 3, 4 reperiri.                                           ' Vcrs, 12, ubi Vulgata m hunc mundiim pro in mun-
-     3 Pro viae codd. C F R L R S T etc. nec non edd. 1,2, 3           dum. Pi'0 pertransiit ed. I et plurimi codd. pertrmisit. — Ali-
-substiluunt in se ; fortasse legendmn esset viae iti se. Paulo su-     qiiantulum posi pro fuerunt codd, C L 0 R S et alii fuerint.
-718                                                      SENTENTIARUM LIB. II.
+**Respondeo:** Dicendum, quod absque dubio natura humana in has corruptiones[^13] deiecta est merito primae praevaricationis, non instituta a primordio suae conditionis. Hoc enim fidei veritas praedicat, sacrae Scripturae auctoritas confirmat, rationis probabilitas manifestat. *Fides* hoc clamat et dicit, Filium Dei passum esse, ut nos a morte eriperet, in quam nos induxerat primus parens. *Sacrae Scripturae auctoritas* confirmat, quae dicit Genesis secundo[^14], qualiter homo per culpam inobedientiae poenam mortalitatis incurrerit. *Ratio* autem hoc manifestat, sicut prius in opponendo monstratum est, tam ex ordine, qui respicit divinam iustitiam, quam ex ordine, qui respicit sapientiam, quam etiam ex ordine, qui respicit bonitatem summam.
 
- pertransit per imitationem ; contm : ad Ephesios se-                     corrupil poenahter; pari ratione videtur, quod cul-
- cundo': Eranvus natura fHiiirae , sicut et ceteri;                       pa Adae totam humanam naturam infecerit culpa-
- sed nemo est filius irae nisi per culpara: si ergo                       biliter el omnes ex illo exeuntes corruperit culpabi-
- per naturam omnes eranius filii irae, omnes per na-                      liter. — Si igitur culpa, quae omnibus inest per natu-
- luram contraliimus culpam: ergo in ceteris natura                        ram , est culpa originalis; colligitur ex omnibus his tnm;i
- humana culpabiliter est infecta.                                         rationibus, quod ponere sit culpam originalem.
-      2. Item, loannis tertio*: Nisi qiiis renatus fue-                          Sed contra : 1 . Ezechielis decimo octavo ' : Fi-
- rit ex aqua et Spiritu sancto etc. ; sed nullus a                        lius non portabit iniquitatem patris , et pater etc. Ad opp'
-praemio aeterno excluditur nisi pro peccato: si igi-                      Si igitur haec lex divina est , secundum divinam le-
- tur omnes non baptizati excluduntur, sive sint parvi                     gem quilibet peccat sibi et non alii, iuxta illud
- sive adulti, ergo omnes, ex quo nati sunt, habent                        Proverbiorum nono : Si sapiens eris , tibimetipsi
- culpam; sed non culpam, quam fecerimt, cum huic                          eris: si autem illusor , solus portabis malum: igi-
-sententiae subiaceant ante usum rationis, sicut patet                     tur non videtur, quod ex peccato patris filius ha-
-in parvulis incircumcisis , Genesis decimo septimo :                      beat infici culpabiliter.
-igitur haec est culpa, quae per naturalem generatio-                             2. Item , tam in novo quam in veteri Testamento
-nem reperitur in quolibet: ergo etc.                                      nuptiae concessae sunt tanquam bonae et licitae " ;
-      3. Item, si tota natura esset in una persona,                       sed ad nuilum bonum necessario consequitur malum;
-corrupta illa persona quantum ad esse, necesse est,                       sed ad nuptias necessario sequeretur maluni , si pro-
- totam naluram corrumpi quantum ad esse: ergo pari                        les culpam contraheret a sua origine : ergo vel nu-
-ratione, si corrumperetur quantum ad bene esse, cor-                      ptiae sunt malae et illicitae , quod est contra sacrara
-rumperetur tota natura quantum ad bene esse. Sicut                        Scripturam et fldem christianam , vel non est ponere
-enim sequitur: si Adam moritur, homomoritur; sic                          peccalum originale.
-sequitur: si Adam peccat, homo peccat. Cum igitur                                3. Item , corrupta re transrautabili et minus no-
-tota natura esset in Adam, quando peccavit; videtur,                      bili , non propter hoc corrumpitur quod est intrans-
-quod tota in eo peccaverit, ac per hoc tota in omni-                      mutabile et maius nobile ; sed persona hominis est
-bus et singulis culpabiliter infecta fuerit '.                            transmutabilis et minus nobilis quam nalura — tota
-      4. Item, venenato fonte, per consequens vene-                      enim natura speciei perpetua est et raagis nobilis
-nantur et rivuli a fonte procedentes. Si igitur omnes                    quam una persona singularis — ergo irapossibile
-homines processerunt ab Adam , sicut rami a radice,                      fuit, eara a persona Adae totaliter et per culpam infici.
-et rivuh a fonte; et ipse corfuptus fuil morbo con-                              4. Itera, in mahs generaliter est verum, quod
-cupiscentiae. quae' fuit in eo culpa: videtur, quod                      malura habiium praecedit malus actus , quamvis e
-et ceteros corrupit eodem corruptionis genere, et ita                    conlrario sit in bonis ° : ergo habitualis corruptio
-culpabiliter.                                                            naturae oritur ex actuali culpa ipsius naturae. Sed
-      5. Item, sicut se habet innocens respectu inno-                    natura , quantura est de se , semper est recta et non
-centis generandi, sic peccator respectu peccatoris; sed                  peccat , quia peccatum proprie est voluntatis : ergo
-si Adam stetisset in sua innocentia , omnes tilios ge-                   non videlur, quod tota natura infecta fuerit, vel
-nuisset innocentes: ergo tota humana natura esset                        etiara potuerit inflci.
-innocens et pura, quantum esset ex ipso. Hoc satis                               0. Itera, nullum naturale est culpabile, pro eo
-planum est^: ergo pari ratione, mm peccavit, totam                       quod « in naturalibus nec laudamur nec vitupera-
-humanam naturam constituit peccatricem, ita quod                         mur '" » ; sed originalis corruptio est naluralis , cuni
-omnes fllios gigneret peccatores.                                        sit eadera apud onines: ergo videtur, quod ista duo
-      6. Item , quia Adam peccavit, factus est morta-                    sint incorapossibilia, quod aliqua corruptio sit cul-
-lis; et quia mortalis est, necesse fuit, quod generaret                  pabilis, et quod sit originalis : ergo non videtur,
-omnes filios mortales; sed sicut se habet effectus ad                    quod nalura tota a persona potuerit culpabiliter infici.
-effectum, ita se habet causa ad causam ^ si igitur                              6. Item , nullum necessarium est voluntarium ;
-causa mortalitatis fuit culpa, et mortalitas personae                    sed corruptio originalis est necessaria : ergo non est
-Adae totam humanam naturam fecit mortalem et totam                       voluntaria. Sed omnis culpa est affectio voluntaria,
+Attendendum est tamen, quod ratio in inquirendo dupliciter potest procedere: aut prout est *adiuta radio fidei*, et sic procedit aspiciendo ad causas superiores; aut prout *iudicio proprio relicta est*, et sic procedit inspiciendo ad naturas et causas inferiores; acquirit enim scientiam per viam sensus et experientiae[^15]. Primo modo ratiocinantur doctores catholici et fideles circa ea quae sunt fidei, et secundum hunc modum ratiocinandi[^16] multum est hoc consonum rationi, quod Deus in tanta miseria et calamitate, in qua nunc est, hominem a principio non fecerit; immo dicere contrarium magnae impietatis videtur esse piae et sanae menti. Secundo modo ratiocinando processerunt philosophi, qui non aspexerunt in hominis conditione suum principalem Auctorem, sed aspexerunt principia componentia et operationes, quas habet per virtutem naturae; et secundum hunc modum ratio potius discordat veritati catholicae, quam concordet. Et haec est ratio, quare philosophi, qui fuerunt tantae veritatis indagatores, non pervenerunt ad lapsus humani cognitionem, quia eis videbatur esse valde rationabile, hominem sic fuisse conditum[^17]; cum tamen catholicis doctoribus non solum fide, sed etiam rationum evidentia certitudinaliter eius contrarium appareat esse verum. — Unde et rationes, quae hoc ostendunt, sunt concedendae.
 
+1. Ad illud ergo quod primo obiicitur, quod Deus fecit ovem passibilem, quae tamen non peccavit; dicendum, quod non est simile de homine et de ove; homo enim, qui rationis particeps est, capax est beatitudinis et iustitiae, et per oppositum culpae et miseriae. Unde sicut in homine *obliquari* culpa est, sic et *pati* poena est; in ove autem neutrum contingit reperire[^18]. Ideo passibilitas ovis nihil facit ad ordinem nec contra ordinem divinae iustitiae, cuius est considerare meritorum exigentiam; non sic autem est de passione in natura humana.
 
-      ' Vers. 3. — De senleinia Peluginnorum dV. Iiic lit. Magi-               ^ Ilaec propos. minor idem dicit quod Boelh., II. de Dille-
-stri, c. 4.                                                              renliis topic, verbis generalioribus sic exprimit: Quod in una-
-      ■^ Vei's. 5. — Seci. lextiis est loc. cit. v. \l, ubi Deus dicit   qua(|ue re evenit, id in cius proportionali evenire necesse esl.
-ad Abi-aham : Masculus, cuius praepuUi cai-o circumcisa non                    ' Vors. 20. — Seq. texlus est loc. cit. 12, ubi Vulgala
-fuerit, delebilur anima illa de populo suo: quia pactum meum             fueris liabet pi'o eris. — In flne arg. |)i'o infici cnlpabiliter cod.
-iri-itum lecil. — Pro quam fecenmt codtl. li T cc et ed. I fe-           aa effici culpabilis.
-cerint.                                                                        ' Gen. I, 27. seq. ; Matth. 19, 3. scqq.; I. Cor. 7, 2. seqq.;
-     ' Cfr. Anselm., de Concept. ■virgin. et orig. pecc. c. 23.          I. Tim. 4, 3. Cfr. August., de Nuptiis et concupisc. per totum.
-     ■* Vat. cum edd. 3 , i qui. Mox pro corrupit codd. T Y                   '■> Cfr. Aristot., II. Ethic. o. 4. et 6.
-cum ed. 1 corruperit, codd. aa bb corrumpil.                                   '" Secundum Ai'islol., cuius verba vide supra pag. 113,
-     ^ Et ostendil Anselm., de Conceptu virgin. el orig. pecc.           nota 8. De ratione, quac additur minori, cfr. supra pag. 397,
-c. 10. et 24. Cfr. Ale.x. Hal., S. p. II. q. 90. m. I. o. I.             nola I.
-                                                    DIST. XXX. ART. I. QUAEST. II.                                                         719
+2. Ad illud quod obiicitur, quod secundum idem exemplar alia genera animalium facta sunt corruptibilia; dicendum, quod non est simile, pro eo quod alia animalia ab homine non habent formam completivam incorruptibilem. In solo autem homine anima est immortalis per naturam, sicut ostensum fuit supra[^19]; et ideo mortalitas in aliis animalibus non ponit aliquam improportionem perfectibilis ad suam perfectionem, sicut ponit in homine; ac per hoc nec ita repugnat mortalitas in aliis animalibus ordini, quem sapientia Dei servat in rerum conditione, sicut mortalitas reperta in homine.
 
-     secundum quod dicit Augustinus in libro de Libero                    homine vigor concupiscentiae et lex membrorum ,
-     Arbitrio ' : ergo iropossibile est, originalem corruplio-            quam unusquisque habet a nativitate, captival spi-
-     nem esse culpam : redit igitur idem quod prius ,                     ritum et ei praedominatur. Ex hoc igitur clarum et
-     quod nulla culpa sit originalis, et quod nalura hu-                  apertum est, quod anima cuiuslibet hominis a nati-
-     mana in Adam non fuerit infecta culpabiliter.                        vitate perversa est et inordinata; sed sicut ordinatio
-                                                                          in homine el rectitudo iustitia est , sic perversitas et
-                            c 0 N c L u s I 0.                            inordinalio culpa est. Si ergo aniina " cuiuslibet ho-
-                                                                          minis per legem concupiscentiae perversa est a sua
-     Humana naiura in omnibus hominibus corrapta                          origine, in quolibet homine indubitanter ponendum
-         est , non soluni poenaliter, sed etiam culpabi-                  est esse peccatum originale, quantum esl de sua
-         liter , et hoc quidern peccato Adae.                             prima nativitate. — Et de hoe nemo dubital, nisi qui conDrmawr.
-                                                                          nescit, quantus sit vigor concupiscentiae, et qualiter
-               Respondeo : Dicendum , quod absque dubio tola              spiritus rationalis Deo debeal ' subesse. Constat enim,
-lOBio 1. natura , hoc est natura ' in omnibus hominibus, se-              quod non subest spirilus noster perfecte Deo, nisi
-         rainaliter ab Adara descendentibus , corrupta est, non           diligat ipsum .super omnia et propter se. Planum
-         solum poenaliter , sed etiam culpabiliter. Hoc enim              est eliam, quod nullus in statu naturae corruptae
-         manifestal visionis Dei carentia, rationalis erube-              Deura diligit super omnia et propter se sine dono
- atio 1. scentia, concupiscentiae praedominantia. — Caren-                gratiae , immo necessario vincitur a vigore concupi-
-         tia visioni-s Dei hoc manifestat, quia nullus debet              scentiae, ut magis amet se, vel aliquod bonum ap-
-         aeterno bono, ad quod factus est, privari, nisi in               parens *. Planum est igitur , quod anima cuiuslibet
-         se habeat aliquid , per quod indignus sit divino aspe-           hominis in sua nativitate peccatrix est, cum sub-
-         ctui praesentari ; tale autem non est nisi culpa. Si             versa et inordinata. sit, sicut ostensum est. Et ideo
-         igitur omnes, quotquot sunt, visione Dei privantiu-,             dicit Apostolus ad Roraanos septinio ° , in persona
-         nisi per baptismum fluminis vel flaminis renascan-               hominis lapsi : Video aliam legem in membris meis,
-         tur ; planum est, quod omnes, quotquot sunt, con-                repugnantem legi mentis meae el captivantem me
-         trahunt ex sua origine culpam ^                                  in lege peccati. Et exclamat: Infelix ego homo, quis
-               Erubescentia etiam rationis hoc manifestat. Nul-           me liberabit de corpore mortis huius ? Et respon-
-latio 2. lus enim rationabiliter erubescit de his passionibus,            del : Gratia Dei per lesum Christmn. Hanc igilur
-         quas habet a natura, nisi insint ei per aliquam cul-             legem et inordinationem '° ad Deum si quis veht
-         pam ; sed omnis homo naturaliter erubescit ex ge-                attendere, nullo modo dubitabit, hominetn esse pec-
-         nitalium membrorum motu. Ex hoc igitur colligitur                catorem a sua nativitate , immo ita certum est , ut
-         et manifestatur , quod quihbet in se ipso non tantuni            dul)itari non possit de originaii , sicut etiam nec de
-         poenahter, sed etiam vituperabiliter et culpabihter              actuali. — Hoc tamen ignoraverunt philosophi et corouarinm.
-         est corruptus , quantum est de sua naturali origine '.           etiam aliqui haeretici , quia nescierunt atlendere, in
-               Praedominantia concupiscenliae hoc evidentis-              quo attenditur-rectitudo animae et iustitia ", et pro
-iatio 3. sime manifestat. Certum est enim, quod tunc anima                quanlo anima dici debet ad Deum ordinata. Constat
-         hominis est ordinata, quando spiritus est sub Deo,               igitur, quod tota humana natura corrupta est, non
-         el caro et virtutes animales sunt sub spiritu et se-             solum poenaliler, sed etiam culpabiliter.
-         quuntur eius imperium. Ab oppositis igitur tunc ani-                   A quo autem corrupta fuerit, hoc planum est ex coDciosios.
-         ma hominis est perversa, quando caro et virtutes                 ipsa Scriptura ", quia ab Adam. Potuit autem Adam
-         animales praesunt spiritui rationali. Et hoc quidem              totam naturam corrumpere et culpabilem facere suo Tripiei con-
-         verum est de plano , non tanturamodo secundum fi-
-         dem , verum eliam secundum philosophiam ^ Sed in                 peccato,
-                                                                          quia                   humanaeconcurrente.
-                                                                                            conditione
-                                                                                   triplici erat
-                                                                               non tantum                             Prima ^81,(31.'°°°
-                                                                                                            naturae individuum.
+3. Ad illud quod obiicitur, quod summae bonitatis est dare unicuique suam inclinationem; dicendum, quod hoc verum est, salvo ordine, qui attenditur inter res, secundum quod comparantur ad invicem; quoniam bonitas non praeiudicat sapientiae; et quia secundum ordinem naturae corpus debet esse subiectum animae, et *sensibilitas*[^20] subiecta debet esse rationi: sic debuit Deus dare inclinationem tam corpori hominis, quam sensualitati carnis, quod in nullo praeiudicaretur rectitudini rationis. Et hinc est, quod etsi sensualitas *bonum ut nunc* appeteret, nulla tamen erat rebellio in primo homine, quia tantum appetebat, sicut ratio dictabat. Nunc autem est rebellio, quia praeter iudicium rationis frequenter appetit; et propter hoc brutales effecti sumus *et iumentis insipientibus comparati*, cum tamen homo in primordio conditus fuerit in honore et dignitate rationis[^21].
 
+4. Et per hoc manifesta est responsio ad sequens obiectum, quod obiicit de diversitate motuum orbium caelestium. Etsi enim videatur ibi esse contrarietas, non tamen est ibi contrarietas, immo ordinatio recta, pro eo quod sphaera superior semper movet inferiorem, et nunquam inferior superiorem. Nunc autem in nobis non est sic, pro eo quod videmus *aliam legem in membris nostris, repugnantem legi mentis nostrae et captivantem nos in servitutem peccati*[^22].
 
-            ' Libr. 11. c. ult. n. 54, ubi peccaUim nominat niolum             * Cfr. August., I. de Nuptiis et conoupisc. c. 6. n. 7; I, Contra
-      voluntarium, quam notationem postea fusius e.xplicat 111. c. 1.
-                                                                          duas epist.' Pelagianor. c. 15. n. 31. seq.; III. Contra lulian.
-      n. 1 . seqq. Ibid. c. 9. n. 26. ait : Non enim peccatum et          Pelagian. c. 10. n. 20. — Edd., excepla 1, omittunt naturali.
-      supplicium peccati naturae sunt quaedam , sed affectiones na-            ^ Cfr. supra pag. 604, nota 5 , ubi auctoritatem Aristotelis
-     turarum, illa voluntaria, ista pocnalis. — Paulo superius post       adduxinius. Cfr. eiiam August., Enarrat. in Ps. 145. n. 5; II. de
-      affectio voluntaria ed. 1 additserf niliil est peccatum, nisisit    Actis cum Felice Manich. c. 4. et 17. — In seq. propos. respi-
-      voluntarium ; paulo inferius pro esse culpam edd., exce|3ta 1,      citur Rom. 7, 23.
-      esse per culpam, quae et deinde pro originalis substituunt a             <^ Val. cum edd. 2, 3, 4 et aliquibus codd. natura.
-      nalura, pro quo cod. C naturalis.                                        ' Codd. cum vetustioribus edd. (lebei.
-            " Vat. cum ed. 4 absque dubio tota massa, hoc est na-              * Cfr. supra d. 28, praesertim a. 1. q. 3. et d. 3. p. II.
-      tura liumana. Post pauca pro rationalis codd. H V aa carna-         a. 3.5 q.Vers.
-                                                                                      1 23.
-                                                                                         praeserlim
-                                                                                              seqq. ad 3.
-      /w, quae lectio non congruit cum seqq.
-            3 lia.et August., Serm. 294. (alias 14. do Verbis Apostoli)        '0 Ita non pauci codd., ut N V X Z bb cc ee, cum ed. 1 ;
-      c. 3. n. 3, ubi illud Pelagianorum confutatur, parvulos bapti-      Val. cum aliis ordinationem.
-                                                                               " Vat. ciim edd. 3, 4 iustitiae.
-     'zandos esse non propter vita^n aeternam, sed prnpler 7vgmini
-      caelorum. Cfr. III. Contra Iiilian. Pelagian. c. 3. n. 9.                '- Rom, 5, 12. — Mox pro conditione cod. aa ratione.
-        720                                                  SENTENTIARUM LIB. II.
+5. Ad illud quod obiicitur, quod virtus est difficillimorum operativa; dicendum, quod quaedam est difficultas, quae venit *ex genere operis*, quaedam vero, quae venit *ex defectu operantis*. Prima difficultas est de essentia virtutis. Virtus enim, in quantum virtus, circa magna consistit et ardua; haec autem difficultas in primo homine fuit sic. Homo enim ita perfecte Deo obedivisset et ita perfecte Deo adhaesisset, sicut perfectio virtutis obedientiae et amicitiae hoc requirit; et sic de aliis virtutibus[^23]. — Est et alia difficultas, quae venit *ex defectu operantis*; et ista quidem non est de essentia virtutis, immo accidit virtuti, secundum quod virtus est; et ideo ad hoc, quod homo esset virtuosus, non oportuit hanc difficultatem reperire[^24] in homine in primordio. Et quod illud sit verum, hoc planum est. Quanto enim aliquis magis proficit in virtute, tanto magis operatur cum minori difficultate ex parte sua; si igitur haec difficultas esset de virtutis essentia, secundum quod homo proficeret, minueretur in eo virtutis excellentia; quod falsum esse nemo dubitat.
 
-            sed totius humanae naturae principium. Secunda                    generato vero melius est sic esse quam non esse, ma-
-                                                                              xime cum subveniatur ei per gratiam baptismalem.
-            est, quia non tantum fuit sibi datam mandatum si-                      3. Ad illud quod obiicitur, quod corrupto mi-
-            cut singulari personae, sed tanquam stipiti totius                nus nobili et transmutabili, non corrumpitur magis
-            humaiiae naturae ; et hoc bene indicat textus ', quia             nobile et perpetuum ; dicendum , quod illud verum
-            mandatum illud descendit per virum ad mulierem.
-            Tertia, quia Adam innocentiam et immortalitatem                   est et locum habet, quando illud quod est magis no-
-            susceperat pro se et sua tota posteritate : unde ipse             bile et perpetuum , non dependet a minus nobili et
-                                                                              transmutabili. Non sic autem est in proposito, quia
-            innocens et immortalis generasset immortalem et in-
-            nocentem. Quia igitur ipse erat omnium principium;                tota natura humana dependebat a persona Adae quan-
-            et transgressus est mandatum quod ei datum erat,                  tura ad existentiam. Unde si Adam fuisset mortuus,
-                                                                              totum genus humanum esset in eo corruptum.                          '
-            secundum quod erat principium; et amisit iilam iusti-
-            tiam et iunocentiam , quam debebat omnibus poste-                       4. Ad illud quod obiicitur , quod malum habi-                 '
-            ris conservare: hinc est, quod per ipsum originali                tum praecedit malus actus ; dicendum , quod hoc                     ;I
-            iustitia sumus privati, et in eius infectione ceteri              verum est; verumtamen ex hoc non oportet, quod            '[
-            sunt infecti , non tantum poenaliter , sed etiam cul-             malum habitum naturae praecedat malus actus na- Notandnttl i
-            pabiliter: tum propter debitum ordinationis , quae                tiirae, secundum quod natura, sed sufBcit, quod prae-
-            deberet esse in nobis ; tum propter carentiam illius              cedat malus actus personae, pro eo quod natura et           !
-            innoceniiae, quam deberemus habere; tuni propter                  persona sunt indivisa; et ideo corruptio personalis '\
-            praedominantiam concupiscentiae , per quam ani-                   potest effici naturalis , sicut ostendit Anselmus de            ''
-            mae nostrae sunt inordinatae et iniustae ; et si iniu-            Conceptu virginali '. — Posset tamen dici , quod etsi Aiiter. ; i
-            stae sunt et inordmatae, necesse est, eas summae                  natura in se non peccaverit, peccavit tanien, prout
-  Epiiogas. iustitiae displicere. — Patet igitur , quod tota humana           erat in Adam ; ipse enim Adam peccavit, in quan- .              ;
-            natura corrupta est, non solum poenaliter, sed etiam              tum erat omnium hominum principium.                             j
-                                                                                    B. Ad illud quod obiicitur, quod nullum natu- ;
-            culpabiliter. Patet nihilominus, a quo fuerit corru-
-            pta, quoniam a primo parente. Qualiter aulem illa                 rale est culpabile; dicendum, quod, sicut dicit Au- i
-            culpa traduci habeat, hoc determinabitur infra^ Ra-               gustinus * , differt dicere naturam et naturam cor- Distioctiffj
-                                                                              ruptam. Potest igitur aliquid esse naturale , quod i
-            tiones igitur ad primam partem concedendae sunt.
-                    1. Ad illud ergo quod primo obiicitur, quod fi-           consequitur ipsam naturam secundum institutionem,
-soiotio op- ^j,(,5 nonportabit iniquitatem patris; dicendum, quod             et aliquid esse naturale , quod consequitur ipsam na-
-                                                                              turam secundum corruptionem. Dico igitur , quod
-            illud intelligitur de peccato , quo pater peccat ut sin-
-            gularis    persona, sicut melius manifestabitur infra^;           illud quod est naturale, quod consequitur naturam '.
-            et ideo lomun non habet in transgressione primaria,               secundum institutionem , nullo modo est culpabile;
-            quia illa non fuit omnino singularis personae, sicut              illud vero quod sic est naturale, quod consequitur
-            explanatum est supra.                                             naturam secundum corruptionem, culpabile est; et
-                    2. Ad illud quod obiicitur , quod ad bonum non            tale est originale. Et sic patet illud.
-            necessario consequitur malum ; dicendum , quod ve-                      6. Ad illud quod obiicitur, quod nullum neces-
-                                                                              sarium voluntarium est ; dicendum , quod etsi hoc
-            rum est per se loquendo. Unde ad nuptias non ne-
-            cessario sequitur genitae prolis corruptio, in quan-              respectu eiusdem veritatem possit habere, tamen
-            tum est ibi maris et feminae coniunctio naturalis ,               respectu diversorum non necesse est, quod habeat Xotandai
-            sed in quantum illi coniunctioni adiuncta est corru-              veritatem. Quod enim necessarium est uni , volunta-
-            ptio vitiosa seminis ob peccatum primi parentis. Et               rium potest esse alteri ; et sic est in originali, quod
-            si iu obiicias, sicut obiicit haereticus ' , quod qua-            quidem, etsi nobis sit necessarium, Adae tamen fuit
-            litercumque sequatur malum , omittendum esset illud               voluntarium ; et ratione illius voluntatis nobis impu-
-Noiandiim. boniuii ; dicendum , quod illud non est verum, nisi                tatur in peccatum, unde dicuntur omnes peccasse
-            quando malum praeponderat bono. Nunc autem non                    in ipso'. Hoc autem melius ostendetur, cum mani-
-            est sic, quia in generantibus non est ullaculpa; in               festabitur, qualiter originale peccatura traducitur.
+6. Ad illud autem quod obiicitur de via perveniendi ad salutem secundum sacrae Scripturae instructionem, dicendum, quod Scriptura sacra tradita est homini *lapso* et documenta tradit, per quae perducatur ad patriam, secundum quod competit statui praesenti. Ideo ex his non potest argui, quod talis debuerit homo fieri, ut per hanc viam deveniret; tales enim viae[^25] sunt valde asperae. Si autem homo non peccasset, non cum asperitate, sed cum omni lenitate pervenisset ad suum finem. Et est simile: quia sanitas conservatur per bona cibaria et suavia, sed non recuperatur nisi per potiones amaras.
 
-              ' Gen. 2, 16. seq.: Praecepitque ei dicens... ne comedas etc.   tialis, hoc est propria, lecit; quod tamcn egit persona, non
-         Quem textuni Augusl., VUI. dc Gen. ad lil. c. 17. n. 36. eo-         fecit sine nalura. Persona enim erat , quod dicebatur Adam ;
-         dem sensu inlerpreiatur, de quo vide supra d. XXI. iit. Magi-        natura, quodhomo; fecit igitur persona peccatricem naluram,
-         stri, c. 8. — De rationibus hic propositis cfr. Anselm., de Con-     ([uia cum Adam peccavit , homo peccavit. Siquidem non quia
-         ceptu virgin. et orig. pecc. c. 2. 9. 10. 23. seq.                   homo erat, ut vetitum praesumeret, impulsus est; sed propria
-               '- Dist. 31. a. 1. 2.                                          voluntate, quam non cxigit natura, scd persona concepit, at-
-               3 Disl. 33. a. I. q. I.                                        tractus est. — Paulo superius post personae codd. F Y ee et
-              ■* Cfr. August., de Peccato orig. c. 33. n. 38. seq.; II. de    alii cum ed. I omittunt pro. Paulo inferius post in Adam Val.
-         Nuptiis et concup. c. 21. scqq. — Paulo superius pro seminis         adiungit peccante.
-         Vat. cum edd. 2, 3, i, paucis codd. sulTragantibus, in kominis             « Libr. I. Retract. c. 10. n. 3. et c. 13. n. 6; de .Natura
-         semine.
-                                                                              et gratia, c. 3. n. 3; II. de Nuptiis et concup. c. 21. n. 36. —
-              5 Cap. 23, ubi ait: Quod Adam comedebat, hoo natura             Paulo inferius pro institutionem ed. I primam constiltitionem.
-         exigebat; quia, ut hoc exigeret, sic creata erat. Quod vero de            ' Rom. 5, 12: In quo omnes peccaverunt. — Cfr. infra
-         ligno vetito comedil, non hoc voluntas Haturalis, sed perso-         d. 31. a. I. 2. ubi de modo propagationis peccali originalis.
-                                                                                                                                            721
-                                                         DIST. XXX. ART. II. QU.\EST. I.
+### Scholion
+**I.** Conclusio loquitur tantum *de facto*; et fide constat, *corruptionem*, sive ut alii cum S. Thoma loquuntur, *defectus corporis et animae*, quibus laborat genus humanum, originem habere a peccato Adae. Argumenta autem *rationis*, hic in fundam. et in corp. posita, sane debent intelligi, ne excludere videantur *possibilitatem* status naturae purae, quando scilicet Deo placuisset hominem non exaltare ad finem supernaturalem, sed eum creare dotatum solis donis naturalibus aptumque ad finem assequendum naturalem per operationes eiusdem ordinis. In hac hypothesi homo non esset aptus nec obligatus, ut tenderet ad finem supernaturalem, immediatam scil. visionem et fruitionem Dei; caruisset etiam tunc dono gratiae sanctificantis, atque donis integritatis. Hinc iisdem, ut in statu naturae lapsae, naturalibus premeretur defectibus, quae naturam humanam consequuntur, nisi Deus alio modo supplevisset; expers autem fuisset culpae originalis et captivitatis sub potestate diaboli (Concil. Trident. Sess. V. can. 2.). *Possibilem* autem fuisse statum naturae purae, exploratum est. Nam s. Sedes, condemnatis multis propositionibus Baii et etiam prop. 16. Synodi Pistoriensis, oppositam doctrinam tenendam esse docuit, scilicet dona tum gratiae sanctificantis tum integritatis non esse *debita* ex naturali exigentia et conditione humanae naturae, sed potius esse gratuitum Dei beneficium. Ad *immortalitatem* spectat condemnata Baii prop. 78: « Immortalitas primi hominis non erat gratiae beneficium, sed naturalis conditio » (cfr. prop. 17. Synodi Pistor.); ad *defectus naturales in genere* prop. 55: « Deus non potuisset ab initio talem creare hominem, qualis nunc nascitur ».
 
+Quod autem S. Bonav. omnino alienus sit ab errore Baii, iam concluditur ex distinctione in corp. posita de duplici modo inquirendi rationabiliter circa hanc rem, scilicet vel suppositis nonnullis principiis fidei, vel ex sola rationis vi. De hoc autem modo *philosophorum* dicit, « quod tunc ratio potius discordat veritati catholicae quam concordet », dum S. Thom. (S. c. Gent. IV, c. 52.) docet, quod duce sola ratione, « peccati originalis in humano genere probabiliter quaedam signa apparent ». Hinc iam infertur, argumenta a S. Bonaventura allata, intelligenda esse in suppositione praesentis providentiae, quae hominem destinavit ad finem supernaturalem et ab initio fecit « hominem rectum » (Eccl. 7, 30.). — Quod autem *immortalitas* secundum corpus fuerit in Adam donum gratuitum, probatum est supra d. 19. a. 3. q. I. Saepius etiam asserit S. Bonav., quod naturalia remaneant integra post peccatum etiam in daemonibus (supra d. 6. a. 3. q. I. fundam. 2. et in corp. et etiam expressius III. Sent. d. 28. q. 2. ad 3.), quia « quod est naturale est indelebile » (supra d. 7. p. II. a. I. q. 2. fundam. 1.). De *corruptione*, quam infert peccatum, cfr. infra d. 37. praesertim a. 2. — Etiam illud principium (fundam. I.), quod poena non infligatur, nisi praecedat culpa, si intelligitur de omni passione rationalis creaturae, non valet, nisi supposita praesente providentia, quam fide tantum novimus (cfr. Richard. a Med., hic a. 2. q. 2.).
 
-                                                                    SCHOLION.
-             I. Conclusio esl de fide, ut eonslal ex Concilio Arausioano       humanum adstrictum fuerit ad finem supernaluralem assequen-
-       11. (can. 2.) et Tridenl. (Sess. V. can. 2.), et communiler a           dum, tum (|uod a Deo acceperil ius quoddam ad dona super-
-       Sclioiasticis approbalui'. Mirum autem est et improbandum, ([uod        naturalia ( gratiam et integritatem ) sibi ab Adamo cum ipsa na-
-       Durand. (Iiic q. 2.), licel confileatur, quod « in nobis est per        tura iransmitlonda. IIoc ultimum denique supponil, quod Adam
-       originem aliquod peccatum , seu aliqua culpa » , tamen postea           fuerit caput et principium secundarium humani generis in ordine
-       favere videatur iis qui opinabantur, quod « in parvulis poccn-          et n,-iturali et supernaiurali el quasi depositarius ipsius, cui ,
-       tum oritjimle non sil proprie culpa, sicut est actuale, sed so-         ut dinit S. Dnctor, non fuit « datum mandatum sicut singu-
-       lum interpretative ».                                                   lari pcrsonae, sed tanquam stipili totius Immanae naturae ».
-             Notatu dignum est quod dicitur (liic in corp.) dr Iriplici con-   — Essentia pcccati (iriginalis magis e.xplicatur infra a. 2. q.
-       ditione concurrente in Adam, ut corrumpere pottierit naturam in         I . — Quoad argumcnta quaedam rationis rccole schol. ad prae-
-       omnibus hominibus; quae doctrina re|)etilur et applicatur infra         cedentem quaest.
-       d. 33. a. I. q. I, et cum S. Anselmo docetur : • Si Adam nequis-              II. Alex. Hal., S. p. il. q. 106. m, 2. a. t. — Scot., in
-       set ad eos quos generaturus erat, iustitiam suam perducere,             utroque Scripto, hic q. 1. — S. Thom., hic q. I. a. 2; S. I. 11.
-       nequaquam posset ad eos iniustitiam (culpam) suam perdu-                q. 81. a. 1. 3, q. 82. a. I ; de .Malo, q. 4. a. 1. — B. Albert.,
-       cere ». Certe carentia iustitiae originalis nequit liabere pro ge-      hic a. 2; S. p. II. tr. 17. q. 107. m. 2. — Petr. a Tar., hic
-       nere humano rationem culpae, nisi supponatur, quod conser-              q. I. a 2. — Richard. a Med., hic a. I. (]. I. — ,€gid. R., hic
-       vatio eiusdem liabuerit pi'o eodem ralionem debiti. Hoc autem           q. 1, a. 4. — Dionys. Carth., hic q. 2. — Biel, de hac et seqq.
-       rursus supponil, tum quod ex Dei ordinatione lotum genus
-                                                                               qq. hic q. 2.
+**II.** Alex. Hal., S. p. II. q. 106. m. 1. — Scot., in utroque Scripto, II. Sent. d. 19. q. unica. — S. Thom., hic q. 1. a. 1; S. 1. 11. q. 85. a. 5. 6; S. c. Gent. IV. c. 50-53; de Malo, q. 5. a. 5. — B. Albert., hic a. 1; S. p. II. tr. 17. q. 107. m. 1. — Petr. a Tar., hic q. 1. a. 1. — Richard. a Med., hic a. 1. q. 2. — Aegid. R., hic q. 1. a. 2. 3. — Durand., hic q. 1. — Dionys. Carth., hic q. 3. — Biel, de hac et seqq. qq. hic q. unica.
+
+---
 
 ## English
 
-[Translation pending]
+### Article I. *On the entity of original sin.*
+### Question I. *Whether the corruption that is in human nature belongs to it from the beginning of its condition, or from the merit of sin.*
+
+Concerning the first point one proceeds thus and asks whether the corruption that we see in human nature belongs to it from the beginning of its condition, or from the merit of sin. And that it does not belong to it from the beginning of its condition, but from the merit of sin, seems [to follow] both from the order of divine justice, and from the order of wisdom, and also from the order of goodness. For a threefold order differs in creatures, since through *justice* there comes about the ordering of recompenses and merits, through *wisdom* the ordering of parts to one another, and through *goodness* the ordering of things to their end.
+
+**Arguments.**
+
+1. From the side of divine justice it is argued thus. To no one is a penalty justly inflicted unless a fault precede[^1]; but a penalty is nothing other than an involuntary suffering in a rational creature: therefore in no way was such a suffering in man before a fault had preceded in him: therefore such corruption was not in the human race from the beginning of its condition, but from the merit of transgression.
+
+2. Likewise, from the supreme equity of justice no crookedness and obliquity proceeds; but human nature is corrupted not only by the corruption of penalty, but also by the corruption of crookedness, since we see that men are inclined to evil by the corruption implanted in them[^2]: therefore it never proceeded from divine justice that human nature should be corrupted in its beginning: therefore if it is corrupted, this is solely by the merit of sin.
+
+3. From the order of wisdom it is argued thus. Wherever there is supreme wisdom, there is supreme beauty, as Augustine explains in the sixth book *On the Trinity*: *Why beauty (species) is appropriated to the Son*[^3]; but from supreme beauty nothing foul proceeds, nothing base, nothing that would offend the rational gaze; but in man, who uses reason, there are certain connatural passions of which he is reasonably ashamed: therefore such a passion was never in man from his first origin; and it was so, [if at all,] by the merit of transgression: therefore etc.
+
+4. Likewise, wherever supreme wisdom is understood, supreme truth and supreme equality is understood; but from supreme equality no disproportion ought to proceed; but the duration and conservation of the body according to the state of the present misery is disproportionate to the soul, which is its form, since the one is temporal, the other perpetual: therefore human nature was never thus produced in its beginning by supreme wisdom: it seems therefore that it has fallen into this by its own fault[^4].
+
+5. From the order of divine goodness it is argued thus. From supreme goodness nothing proceeds that is more inclined to evil than to good, since *supreme goodness works all things for its own sake*[^5]; but *the senses and thoughts of men are prone to evil from their youth*, according to what sacred Scripture says: therefore in that corruption in which it is, human nature was not produced by supreme goodness.
+
+6. Likewise, nothing that proceeds from supreme goodness is worthy of malediction; but there are many passions in us worthy of malediction, on account of which both Job[^6] and Jeremiah cursed the day on which they were born, and in the Law barren women were cursed: therefore it does not seem that human nature was created by supreme goodness in that corruption in which it now is. — It seems therefore that it has come into this corruption and state by the merit of fault, since this is against the order of goodness, wisdom, and justice, against which order it is unfitting that God should make anything.
+
+**On the contrary:** 1. First it is shown that this is not repugnant to the order of divine justice, since man is not of greater innocence than a sheep or a lamb is; but a sheep was produced by God mortal and passible, in such a way that nothing is thereby derogated from divine justice[^7]: therefore by parity of reasoning it seems that, if He had produced such a man as he now is, it would not seem that anything was derogated from the same.
+
+2. Likewise, that it is not repugnant to the order of wisdom seems [true]. According to the same exemplar by which God produced man from the earth, He also produced other animals and mixed bodies; but it is not repugnant to the beauty of the divine exemplar that things composed of the four elements should be corruptible — rather, this makes for the order of the universe, as Augustine shows in many places[^8]: therefore it does not seem to be against the order of wisdom if God endowed men by nature with the same properties and passibilities that He also gave to other animals.
+
+3. Likewise, that it is not against the order of divine goodness seems [true]. For it belongs to supreme goodness to give to each thing an inclination befitting its nature. But just as the rational soul has its delight *in the good simply*, so also the sensible [soul] *in the good as now [presented]*; and just as earth tends to rest downward, so fire upward. If therefore God gave to all their proper inclinations, then from the primary constitution of man there was a diversity of appetites in the sensible and the rational, and there was likewise a diverse appetite in the elements constituting the body. If therefore the diversity of the first inclination produces rebellion, and the diversity of the second inclination induces corruption[^9]; it seems that, if man had been constituted in this manner, nothing would be derogated from the order of divine goodness.
+
+4. Likewise, that man was so constituted can seem to be persuaded by a reason taken according to the principles of natural philosophy. For since man is a *lesser world*[^10], for whom all things were made, he ought to have a natural conformity to the greater world, which was made for his sake from its primary condition. But thus we see in the *greater world* that the lower spheres are moved by a contrary motion to the higher sphere, according to what the natural philosophers say: therefore by parity of reasoning it seems that in man by nature the sensitive portion is moved against the judgment of reason. But this is the corruption that is most disordered in us: if therefore this is from the first condition, it seems that every other [corruption] is also.
+
+5. Likewise, this seems [to follow] by another reason, taken from the principles of moral philosophy. For the moral philosopher says[^11] that virtue is operative about the most difficult things, nor is there any praise of virtue where there is no difficulty: if therefore man was constituted disposed for virtue, it seems that from his first condition he had the difficulty of doing good and avoiding evil, and was disposed in such a way that every virtue could have its use in him: therefore it seems he was created with corruptions of this kind.
+
+6. Likewise, this seems [to follow] by a reason taken according to the principles of theology. For the Holy Spirit says through Scripture[^12] that the way of attaining glory and sublimity is through ignominy and humility; the way of attaining the crown is through temptation and combat; the way of attaining rest and tranquillity is through labors and tribulations. If therefore man had to be so made that he was disposed to attain glory and victory and perfect peace; it seems that human nature was constituted, from the beginning of its condition, in the penalties and corruptions in which it now is.
+
+### Conclusion.
+
+> Human nature has been cast down into these corruptions by the merit of the first transgression, not instituted [so] from the beginning of its condition.
+
+**I respond:** It must be said that, without doubt, human nature has been cast down into these corruptions[^13] by the merit of the first transgression, not instituted [so] from the beginning of its condition. For the truth of faith proclaims this, the authority of sacred Scripture confirms it, the probability of reason manifests it. *Faith* cries this out and says that the Son of God suffered in order to rescue us from the death into which the first parent had led us. The *authority of sacred Scripture* confirms it, which says in Genesis 2[^14] how man through the fault of disobedience incurred the penalty of mortality. *Reason* manifests it, as was shown above in the objecting, both from the order that regards divine justice, and from the order that regards wisdom, and also from the order that regards supreme goodness.
+
+It must be noted, however, that reason in its inquiring can proceed in two ways: either insofar as it is *aided by the ray of faith*, and thus it proceeds by looking to the higher causes; or insofar as it is *left to its own judgment*, and thus it proceeds by examining natures and lower causes; for it acquires knowledge by the way of sense and experience[^15]. In the first way the catholic doctors and the faithful reason about the things that are of faith, and according to this manner of reasoning[^16] it is much consonant with reason that God did not make man, from the beginning, in the great misery and calamity in which he now is; rather, to say the contrary seems to a pious and sound mind to be [a thing] of great impiety. In the second way of reasoning the philosophers proceeded, who did not look in the condition of man to his principal Author, but looked to the constituting principles and the operations that he has by the power of nature; and according to this manner reason rather discords with catholic truth than agrees with it. And this is the reason why the philosophers, who were such great investigators of truth, did not arrive at the knowledge of the human fall, because it seemed to them very reasonable that man was so constituted[^17]; whereas to the catholic doctors not only by faith, but also by the evidence of reasons, the contrary of it appears certainly to be true. — Hence the reasons too which show this are to be conceded.
+
+1. To that, then, which is first objected, that God made the sheep passible, which nevertheless did not sin; it must be said that the case of man and of the sheep is not alike; for man, who is a partaker of reason, is capable of beatitude and justice, and conversely of fault and misery. Hence just as in man to *be made crooked* is a fault, so also to *suffer* is a penalty; but in the sheep neither happens to be found[^18]. Therefore the passibility of the sheep makes nothing toward the order nor against the order of divine justice, whose [office] is to consider the exigency of merits; but it is not so with passion in human nature.
+
+2. To that which is objected, that according to the same exemplar other kinds of animals were made corruptible; it must be said that the case is not alike, for the reason that other animals, unlike man, do not have a completive incorruptible form. But in man alone the soul is immortal by nature, as was shown above[^19]; and therefore mortality in other animals does not posit any disproportion of the perfectible to its perfection, as it posits in man; and on account of this, mortality in other animals is not so repugnant to the order which the wisdom of God preserves in the condition of things, as the mortality found in man.
+
+3. To that which is objected, that it belongs to supreme goodness to give to each its own inclination; it must be said that this is true, the order being preserved which is attended to among things insofar as they are compared to one another; since goodness does not prejudice wisdom; and because according to the order of nature the body ought to be subject to the soul, and *sensibility*[^20] ought to be subject to reason: thus God ought to have given an inclination to the body of man as well as to the sensuality of the flesh, in such a way that the rectitude of reason would in no way be prejudiced. And hence it is that, even though sensuality desired *the good as now [presented]*, there was nevertheless no rebellion in the first man, since it desired only as reason dictated. But now there is rebellion, since it frequently desires beyond the judgment of reason; and on account of this we have been made brutish *and likened to senseless beasts of burden*, although man was in the beginning constituted in the honor and dignity of reason[^21].
+
+4. And through this the response is manifest to the following objection, which objects concerning the diversity of motions of the heavenly spheres. For although there seem to be a contrariety there, yet there is no contrariety there, but rather a right ordering, for the reason that the higher sphere always moves the lower, and never the lower the higher. But now in us it is not so, for the reason that we see *another law in our members, repugnant to the law of our mind and captivating us into the servitude of sin*[^22].
+
+5. To that which is objected, that virtue is operative of the most difficult things; it must be said that there is a certain difficulty which comes *from the kind of work*, and a certain other which comes *from the defect of the one working*. The first difficulty is of the essence of virtue. For virtue, insofar as it is virtue, is concerned with great and arduous things; but this difficulty in the first man was thus: for man would have obeyed God so perfectly and adhered to God so perfectly as the perfection of the virtue of obedience and friendship requires; and so of the other virtues[^23]. — And there is another difficulty which comes *from the defect of the one working*; and this indeed is not of the essence of virtue, but rather is accidental to virtue, insofar as it is virtue; and therefore, for man to be virtuous, it was not necessary that this difficulty[^24] be found in man in the beginning. And that this is true is plain. For the more one advances in virtue, the more he works with less difficulty on his own part; if therefore this difficulty were of the essence of virtue, then as man advanced, the excellence of virtue would be diminished in him; which no one doubts to be false.
+
+6. To that, however, which is objected concerning the way of attaining salvation according to the instruction of sacred Scripture, it must be said that sacred Scripture was handed down to *fallen* man and delivers the documents through which he may be led to the fatherland, according as it befits the present state. Therefore from these it cannot be argued that man ought to have been made such that he should arrive by this way; for such ways[^25] are very harsh. But if man had not sinned, he would have arrived at his end not with harshness, but with all gentleness. And there is a likeness: for health is preserved through good and pleasant foods, but is not recovered except through bitter potions.
+
+### Scholion
+**I.** The conclusion speaks only *of the fact*; and by faith it is certain that *corruption*, or as others with St. Thomas say, the *defect of body and soul* with which the human race labors, has its origin from the sin of Adam. But the arguments of *reason*, here placed in the fundamenta and in the corpus, must indeed be understood so as not to seem to exclude the *possibility* of the state of pure nature — namely, when it would have pleased God not to exalt man to a supernatural end, but to create him endowed with natural gifts alone and fit to attain a natural end through operations of the same order. In this hypothesis man would not be fit nor obliged to tend to a supernatural end, namely the immediate vision and fruition of God; he would also then have lacked the gift of sanctifying grace, and the gifts of integrity. Hence by these same [conditions], as in the state of fallen nature, he would be pressed by the natural defects that follow upon human nature, unless God had supplied otherwise; but he would be free of original fault and of captivity under the power of the devil (Council of Trent, Sess. V. can. 2.). That the state of pure nature was *possible* is established. For the Holy See, having condemned many propositions of Baius and also prop. 16 of the Synod of Pistoia, taught that the opposite doctrine is to be held, namely that the gifts both of sanctifying grace and of integrity are not *due* from the natural exigency and condition of human nature, but rather are a gratuitous benefit of God. To *immortality* pertains the condemned prop. 78 of Baius: « The immortality of the first man was not a benefit of grace, but a natural condition » (cfr. prop. 17 of the Synod of Pistoia); to *natural defects in general* prop. 55: « God could not have created from the beginning such a man as is now born ».
+
+That St. Bonaventure is altogether foreign to the error of Baius is now concluded from the distinction placed in the corpus concerning the twofold mode of inquiring reasonably about this matter, namely either by supposing certain principles of faith, or from the force of reason alone. Of this mode of the *philosophers* he says, « that then reason rather discords with catholic truth than agrees », whereas St. Thomas (S. c. Gent. IV, c. 52) teaches that, with reason alone as guide, « certain signs of original sin in the human race probably appear ». Hence it is now inferred that the arguments adduced by St. Bonaventure are to be understood in the supposition of the present providence, which destined man to a supernatural end and from the beginning made « man upright » (Eccl. 7, 30). — That *immortality* according to the body was in Adam a gratuitous gift was proven above in d. 19. a. 3. q. I. St. Bonaventure also often asserts that natural [endowments] remain integral after sin even in the demons (above d. 6. a. 3. q. I. fundam. 2. and in the corpus, and even more expressly III Sent. d. 28. q. 2. ad 3.), since « what is natural is indelible » (above d. 7. p. II. a. I. q. 2. fundam. 1.). On the *corruption* which sin brings, cfr. below d. 37, especially a. 2. — Also that principle (fundam. I), that a penalty is not inflicted unless a fault precede, if it is understood of every passion of a rational creature, does not hold unless on the supposition of the present providence, which we know by faith alone (cfr. Richard of Mediavilla, here a. 2. q. 2.).
+
+**II.** Alexander of Hales, S. p. II. q. 106. m. 1. — Scotus, in both Commentaries, II Sent. d. 19. q. unica. — St. Thomas, here q. 1. a. 1; S. I-II. q. 85. a. 5. 6; S. c. Gent. IV. c. 50-53; de Malo, q. 5. a. 5. — Bl. Albert, here a. 1; S. p. II. tr. 17. q. 107. m. 1. — Peter of Tarentaise, here q. 1. a. 1. — Richard of Mediavilla, here a. 1. q. 2. — Giles of Rome, here q. 1. a. 2. 3. — Durandus, here q. 1. — Dionysius the Carthusian, here q. 3. — Biel, on this and the following questions, here q. unica.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order across pp. 714–717.
+
+[^1]: **La.** Cfr. dictum August., supra pag. 432, nota 4. allatum. Idem, VI. *Op. imperf. contra Iulianum*, c. 36. sic: « Omnis autem poena hominis quid est, nisi poena imaginis Dei? Quae si infertur iniuste, profecto a quo infertur iniustus est. Quis porro dubitet, quod iniuste inferatur poena imagini Dei, nisi hoc culpa meruerit? » Quoad minorem cfr. illud Anselmi in eius libro *de Conceptu virgin. et orig. pecc.* c. 4: Nam nihil est alicui poena, nisi quod est contra voluntatem; et nulla res poenam sentit, nisi quae habet voluntatem. Cfr. infra d. 36. a. 2. q. 2. et a. 3. q. 1. seq. — In edd., excepta I, maior sic sonat: *Nullus affligitur poena, nisi praecedat culpa*; post quae Vat. prosequitur sic: *sed passio involuntaria in rationali creatura est poena; talis autem passio non fuit in homine, antequam praecessit in eo culpa*. Versus finem arg., ubi cum codd. F K M U Y aa bb ee et aliis nec non cum ed. I legimus *in humano genere*, Vat. habet *in humana natura*.
+    **En.** Cfr. the dictum of Augustine cited above on p. 432, note 4. The same, VI. *Unfinished Work against Julian*, c. 36, says thus: « But what is every penalty of man, except the penalty of the image of God? If it is inflicted unjustly, surely he by whom it is inflicted is unjust. Who, moreover, would doubt that a penalty is inflicted unjustly on the image of God, unless fault has merited this? » As to the minor, cfr. that saying of Anselm in his book *On the Virginal Conception and Original Sin*, c. 4: For nothing is a penalty to anyone except what is against the will; and no thing feels a penalty except one that has a will. Cfr. below d. 36. a. 2. q. 2. and a. 3. q. 1, following. — In the editions, except I, the major runs thus: *No one is afflicted with a penalty unless a fault precede*; after which the Vatican [edition] continues thus: *but an involuntary passion in a rational creature is a penalty; but such a passion was not in man before a fault had preceded in him*. Toward the end of the argument, where with codices F K M U Y aa bb ee and others, and also with ed. I, we read *in the human race*, the Vatican [edition] has *in human nature*.
+
+[^2]: **La.** Similiter loquitur Bernardus in expositione verborum illorum Eccl. 7, 30; Solummodo hoc inveni, quod fecerit Deus hominem rectum. Cfr. supra pag. 124, nota 3. — Pro *corruptione curvitatis* nonnulli codd. cum Vat. et edd. 2, 3, 4 *corruptione carnis*, quibus verbis Vat. sola addit *quae est corruptio culpabilis*.
+    **En.** Bernard speaks similarly in the exposition of those words of Eccl. 7, 30: « Only this I have found, that God made man upright. » Cfr. above p. 124, note 3. — For *corruption of crookedness* some codices, with the Vatican [edition] and edd. 2, 3, 4, [read] *corruption of the flesh*, to which words the Vatican alone adds *which is the culpable corruption*.
+
+[^3]: **La.** Sive c. 10. n. 11, ubi S. Doctor illam ab Hilario factam appropriationem: « Aeternitas in Patre, species in Imagine, usus in Munere », explanat et quantum ad « speciem in Imagine » dicit: « In qua Imagine speciem nominavit, credo, propter pulcritudinem, ubi iam est tanta congruentia... tanquam Verbum perfectum, cui non desit aliquid, et ars quaedam omnipotentis atque sapientis Dei, plena omnium rationum viventium incommutabilium » etc. Ibid. n. 12. ait: In illa enim Trinitate summa origo est rerum omnium et perfectissima pulcritudo et beatissima delectatio. — Post *Augustinus* codd. H I T ee et alii cum edd. 2, 4 interiiciunt *in littera*. Vat. omittit verba *Quare species appropriatur Filio*.
+    **En.** Or c. 10. n. 11, where the Holy Doctor explains that appropriation made by Hilary: « Eternity in the Father, beauty in the Image, use in the Gift », and as to « beauty in the Image » he says: « In which Image he named beauty, I believe, on account of the beauty where there is now such great congruity... as the perfect Word, to which nothing is lacking, and a certain art of the omnipotent and wise God, full of all the living, immutable reasons » etc. In the same place, n. 12, he says: For in that Trinity is the supreme origin of all things and the most perfect beauty and the most blessed delight. — After *Augustinus* codices H I T ee and others, with edd. 2, 4, insert *in littera* (in the text). The Vatican [edition] omits the words *Why beauty is appropriated to the Son*.
+
+[^4]: **La.** Anselm., II. *Cur Deus homo*, c. 2: Sapientiae et iustitiae Dei repugnat, ut cogeret hominem mortem pati sine culpa, quem iustum fecit ad aeternam beatitudinem. Sequitur ergo, quia si nunquam peccasset, nunquam moreretur (cfr. ibid. l. c. 9.).
+    **En.** Anselm, *Why God Became Man*, bk. II, c. 2: It is repugnant to the wisdom and justice of God that He should compel to suffer death without fault the man whom He made just for eternal beatitude. It follows therefore that, if he had never sinned, he would never die (cfr. the same, bk. I, c. 9).
+
+[^5]: **La.** Prov. 16, 4: Universa propter semetipsum operatus est Dominus. — Seq. textus est Gen. 8, 21. — Pro *propinquum* Vat. *pronum*.
+    **En.** Prov. 16, 4: The Lord has worked all things for His own sake. — The following text is Gen. 8, 21. — For *propinquum* (inclined) the Vatican [edition reads] *pronum* (prone).
+
+[^6]: **La.** Cap. 3, 3. seqq. — Ierem. 20, 14; Exod. 23, 26; Deut. 7, 14. — Circa finem arg. cod. Y voci *bonitatis* praefigit *divinae*.
+    **En.** [Job] ch. 3, 3 and following. — Jer. 20, 14; Exod. 23, 26; Deut. 7, 14. — Toward the end of the argument cod. Y prefixes *divinae* (divine) to the word *bonitatis* (goodness).
+
+[^7]: **La.** Cfr. supra d. 19. a. 1. q. 2.
+    **En.** Cfr. above d. 19. a. 1. q. 2.
+
+[^8]: **La.** Ut e. g. in libr. III. *de Lib. Arb.* c. 14. n. 40, ubi illam corruptionem non vituperatione dignam signat, quae oriatur ex « ordine mutabilium rerum sibi cedentium secundum leges congruentissimas, pro valentia cuiusque partis universitati datas »; libr. XII. *de Civ. Dei*, c. 4; *de Natura boni*, c. 8; *Contra Secundinum Manich.* c. 15, ubi corruptionem rerum corporalium ad pulcritudinem universi conferre asserit.
+    **En.** As e.g. in bk. III. *On Free Choice* c. 14. n. 40, where he marks as not worthy of blame that corruption which arises from « the order of mutable things yielding to one another according to the most fitting laws, given to each part according to its worth for the universe »; bk. XII. *On the City of God*, c. 4; *On the Nature of the Good*, c. 8; *Against Secundinus the Manichee*, c. 15, where he asserts that the corruption of corporeal things contributes to the beauty of the universe.
+
+[^9]: **La.** Edd., excepta I, cum pluribus codd. *tentationem*; nostra lectio nititur codd. A X Y Z aa bb cc ee et aliis. Cod. Z addit *per elementorum separationem in corpore hominis*.
+    **En.** The editions, except I, with several codices, [read] *temptation*; our reading rests on codices A X Y Z aa bb cc ee and others. Cod. Z adds *through the separation of the elements in the body of man*.
+
+[^10]: **La.** Vide supra d. 14. p. II. a. I. q. 1. seq. — Quod omnia propter hominem facta sint, monstratum est supra d. 15. a. 2. q. 1. — De ratione sic argumentandi cfr. Aristot., I. *de Histor. animal.* c. 15, ubi loquitur de ordine partium hominis ad mundum maiorem; vide etiam supra pag. 336, nota 6.
+    **En.** See above d. 14. p. II. a. I. q. 1, following. — That all things were made for the sake of man was shown above in d. 15. a. 2. q. 1. — On the manner of arguing thus cfr. Aristotle, I. *On the History of Animals* c. 15, where he speaks of the order of the parts of man to the greater world; see also above p. 336, note 6.
+
+[^11]: **La.** Cfr. Aristot., II. *Ethic.* c. 3. Sententiam ipsam vide supra pag. 572, nota 2. — Vat. omittit vocem *moralis*, voci *philosophus* praecedentem.
+    **En.** Cfr. Aristotle, II. *Ethics* c. 3. The sentiment itself see above p. 572, note 2. — The Vatican [edition] omits the word *moralis* (moral), which precedes the word *philosophus* (philosopher).
+
+[^12]: **La.** Matth. 23, 12; Luc. 14, 11; — Tob. 12, 13; II. Tim. 2, 5; — Luc. 24, 26; Act. 14, 21. — Paulo inferius pro *victoriam* cod. Z *coronam*.
+    **En.** Matt. 23, 12; Luke 14, 11; — Tob. 12, 13; II Tim. 2, 5; — Luke 24, 26; Acts 14, 21. — A little below, for *victoriam* (victory) cod. Z [reads] *coronam* (crown).
+
+[^13]: **La.** Edd. cum non paucis codd. *tentationes*, sed procul dubio multo melior est lectio codd. Y aa bb ee, quam in textum recepimus, quippe cum ratio *corruptionis* latior sit quam ratio *tentationis*.
+    **En.** The editions, with not a few codices, [read] *temptations*, but without doubt the reading of codices Y aa bb ee is much better, which we have received into the text, since indeed the notion of *corruption* is broader than the notion of *temptation*.
+
+[^14]: **La.** Vers. 17: In quocumque enim die comederis ex eo, morte morieris. Ibid. c. 3. narratur lapsus hominis. — Pro *quae dicit* Vat. cum edd. 3, 4 et plures codd. *quia dicit*. Aliquantulum ante pro *eriperet* codd. F U *liberaret*, cod. aa *redimeret*.
+    **En.** Verse 17: For on whatever day you shall eat of it, you shall die the death. In the same place, c. 3, the fall of man is narrated. — For *quae dicit* (which says) the Vatican [edition] with edd. 3, 4 and several codices [read] *quia dicit* (because it says). A little before, for *eriperet* (might rescue) codices F U [read] *liberaret* (might free), cod. aa *redimeret* (might redeem).
+
+[^15]: **La.** Cfr. supra d. 24. p. II. a. I. q. 1. in corp. — Paulo superius pro *inspiciendo* edd., excepta I, *respiciendo*.
+    **En.** Cfr. above d. 24. p. II. a. I. q. 1. in the corpus. — A little earlier, for *inspiciendo* (examining) the editions, except I, [read] *respiciendo* (looking back).
+
+[^16]: **La.** Vat. *ratiocinandi*.
+    **En.** The Vatican [edition reads] *ratiocinandi*.
+
+[^17]: **La.** Codd. C K U S T Y aa bb et alii cum primis edd. *conditionem*.
+    **En.** Codices C K U S T Y aa bb and others, with the first editions, [read] *conditionem*.
+
+[^18]: **La.** Cfr. August., *de Natura boni*, c. 7. seq.; Anselm., *de Conceptu virgin. et orig. pecc.* c. 3. — In fine solut. cod. A addit: *Vel dicendum, quod poena non dicitur inesse alicui, nisi quod natus est cognoscere iustum et iniustum, bonum et malum, poenam et gloriam: sed ovis non est huiusmodi; ideo patet. Vel sicut in sequenti auctoritate dicitur, ovis non habet formam incorruptibilem, sicut homo, sed potius corruptibilem*; ideo debet esse corruptibilis, ut proportio salvetur. In homine autem aliter; quia incorruptibilis est forma, incorruptibile debet esse formatum.
+    **En.** Cfr. Augustine, *On the Nature of the Good*, c. 7 and following; Anselm, *On the Virginal Conception and Original Sin*, c. 3. — At the end of the solution cod. A adds: *Or it must be said that a penalty is not said to be in anything except [that] which is born to know the just and the unjust, the good and the evil, penalty and glory: but the sheep is not of this kind; therefore it is clear. Or, as is said in the following authority, the sheep does not have an incorruptible form, like man, but rather a corruptible one*; therefore it must be corruptible, so that the proportion may be preserved. But in man it is otherwise; because the form is incorruptible, the formed [thing] must be incorruptible.
+
+[^19]: **La.** Dist. 19. a. 1. q. 1. seq. — Mox pro *improportionem* multi codd. cum edd. I, 2, 3 perperam *proportionem*.
+    **En.** Dist. 19. a. 1. q. 1, following. — Soon, for *improportionem* (disproportion) many codices with edd. I, 2, 3 [read] erroneously *proportionem* (proportion).
+
+[^20]: **La.** Edd. cum nonnullis codd. *sensualitas*. Cfr. supra pag. 578, nota 5. et pag. 387, nota 6.
+    **En.** The editions, with several codices, [read] *sensualitas* (sensuality). Cfr. above p. 578, note 5, and p. 387, note 6.
+
+[^21]: **La.** Psalm. 48, 21: Homo cum in honore esset, non intellexit; comparatus est iumentis insipientibus et similis factus est illis. — Paulo superius post *praeter iudicium* codd. Y aa inserunt *immo contra iudicium*. Dein pro *effecti sumus* cod. cc et ed. I *facti sumus*.
+    **En.** Ps. 48, 21: Man, when he was in honor, did not understand; he was compared to senseless beasts of burden and was made like to them. — A little earlier, after *praeter iudicium* (beyond judgment) codices Y aa insert *immo contra iudicium* (rather, against judgment). Then for *effecti sumus* (we have been made) cod. cc and ed. I [read] *facti sumus* (we were made).
+
+[^22]: **La.** Rom. 7, 23: Video autem aliam legem in membris meis, repugnantem legi mentis meae et captivantem me in lege peccati.
+    **En.** Rom. 7, 23: But I see another law in my members, fighting against the law of my mind and captivating me in the law of sin.
+
+[^23]: **La.** Cfr. supra d. 29. a. 3. q. I., ubi dicitur, in illo statu virtutes non habuisse actus imperfectos.
+    **En.** Cfr. above d. 29. a. 3. q. I., where it is said that in that state the virtues did not have imperfect acts.
+
+[^24]: **La.** Vat. et edd. 3, 4 *reperiri*.
+    **En.** The Vatican [edition] and edd. 3, 4 [read] *reperiri* (to be found [passive]).
+
+[^25]: **La.** Pro *viae* codd. C F K L R S T etc. nec non edd. 1, 2, 3 substituunt *in se*; fortasse legendum esset *viae in se*.
+    **En.** For *viae* (ways) codices C F K L R S T etc., and also edd. 1, 2, 3, substitute *in se* (in themselves); perhaps it should be read *viae in se* (the ways in themselves).
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF (printed pp. 714–717 = PDF pp. 736–739, offset +22), cross-checked against IA djvu OCR (raw `bonaventure_vol2_raw.txt`). English is a fresh literal translation. Apparatus from the per-page Quaracchi footer blocks, renumbered to continuous body order. SCHOLION I–II read from p. 717.
+
+**Carve note.** This chunk was carved out of a mis-ranged auto-chunked skeleton (`line_start 49759 / line_end 50246`) that bundled BOTH ARTICULUS I quaestiones. This file is now **q1 ONLY** (raw 49759 → just before the QUAESTIO II header at raw 49998). The QUAESTIO II body (raw ~50001 onward, opener *Secundo quaeritur, utrum merito primae transgressionis humana natura fuerit corrupta poenaliter tantum, an etiam culpabiliter*) plus all of q2's footers were FORWARDED to a new chunk `bon-sent-II-d30-a1-q2` (to be created; q2 raw range ~49998 → ARTICULUS II header at raw 50247). Per Override §5 the short ARTICULUS I opener (*De originalis peccati entitate*) is folded into this q1.
+
+**Alignment verified.** q1 opener *Circa primum sic proceditur et quaeritur, utrum corruptio, quam videmus in humana natura, insit ei ex suae conditionis primordio, an ex peccati merito* = ART I TRACTATIO item 1 (corruptio-ex-primordio-an-ex-merito) per d30-divisio. ✅
+
+**Structure.** 6 fundamenta (3 ex iustitia/sapientia, then 3 ex bonitate — args 1–3 from iustitia/sapientia split, then the bonitas pair 5–6; the "contra" disposition is folded in) + 6 Sed contra (ad opposita: 1 ovis-non-peccavit, 2 idem-exemplar, 3 inclinatio-competens, 4 minor-mundus/orbes, 5 virtus-difficillimorum, 6 via-per-ignominiam) + Conclusio + Respondeo (triplex testimonium: fides / Scriptura / ratio; then duplex modus rationis: adiuta-radio-fidei vs iudicio-proprio-relicta → philosophi erred) + Ad 1–6. **has_scholion=TRUE** — SCHOLION I (anti-Baius: status naturae purae possibilis; Trent Sess.V can.2; Baius props 78/55; S.Thomas S.c.Gent.IV c.52) + SCHOLION II (q1 commentator-roll: Alex.Hal / Scotus / S.Thomas / Albert / Petr.a.Tar / Richard / Aegidius / Durand / Dionys.Carth / Biel).
+
+**Page-split map.** p.714 = ART I opener + q1 title + fundamenta 1–6 + Sed contra opener (footers 1–6). p.715 = Sed contra 1–6 cont + Conclusio + Respondeo opener (footers 1–7). p.716 = Respondeo cont (observatio de duplici modo rationis) + Ad 1–4 (footers 1–9). p.717 = Ad 5–6 + SCHOLION I–II, ending *…Biel, de hac et seqq. qq. hic q. unica.* immediately before the QUAESTIO II header (footers 1–3 of p.717 belong to q1's Ad 5/6). Body seams 714→715 / 715→716 / 716→717 grammatically continuous (450 dpi); cascade-dropout check PASSED — all 6 fundamenta + 6 Sed contra + full Respondeo + both SCHOLION parts read against both 450 dpi column bands of pp. 714–717.
+
+**Apparatus count.** 25 entries [^1]–[^25], every numbered Quaracchi footer in q1's range rendered (one La/En each), continuous body order across the 4 pages: p.714 footers 1–6 → [^1]–[^6]; p.715 footers 1–7 → [^7]–[^13]; p.716 footers 1–9 → [^14]–[^22]; p.717 footers 1–3 (q1's Ad 5/6 footers; the rest of p.717's footer block belongs to q2) → [^23]–[^25]. Marker pairing: 25 La = 25 En = 25 defs.
+
+**Hand-offs.** RECEIVED: NONE (d30-divisio consumed p.713 COMMENTARIUS footers and closed clean before ART I raw 49759). FORWARDED to `bon-sent-II-d30-a1-q2`: the entire QUAESTIO II body (raw ~49998 onward) and all of q2's footers (p.717 footer block from q2's Ad-area downward + pp. 718–721 footers).
+
+**[?] flags:** NONE.
