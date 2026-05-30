@@ -10,6 +10,7 @@ printed_pages: [454, 455]
 pdf_pages: [476, 477]
 source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 454–455"
 has_scholion: false
+has_apparatus: true
 transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from 450 dpi column-band PDF (pp.454–455, Vol II Override; manual-rescue chunk per d.11–d.20 boundary-sweep audit, raw line range corrected from skeleton's 31978–32016 to actual 31978–32046), fresh literal English translation, full apparatus (8 entries: 6 from p.454 L-2/R-2 + 2 from p.455 L-2), single DUBIUM with one *Adiungitur quaestio* on Angeli-ministerium + tripartite *Rationes 6 pro unitate generis humani* (ex ordine + ex connexione + ex significatione); no [?] flags (2026-05-25)"
 format_version: 1
 ---

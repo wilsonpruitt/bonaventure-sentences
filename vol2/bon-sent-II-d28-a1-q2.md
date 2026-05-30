@@ -13,7 +13,7 @@ pdf_pages: [699, 700, 701]
 source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 677–679"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF (raw lines 47273–47389, pp.677–679), fresh literal English translation, full apparatus from raw OCR (8 entries, leading with p.677 R-col footers 3–5 received from a1-q1), SCHOLION I+II from OCR, no [?] flags (2026-05-29)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF (raw lines 47273–47389, pp.677–679), fresh literal English translation, full apparatus from raw OCR (10 entries, leading with p.677 R-col footers 3–5 received from a1-q1; p.679 R-col footers 1–2 added [^9]–[^10] at the q2/q3 seam during the d.21–d.30 polish-blocker), SCHOLION I+II from OCR, no [?] flags (2026-05-30)"
 format_version: 1
 ---
 
@@ -69,7 +69,7 @@ Secundo quaeritur, utrum liberum arbitrium absque gratia gratum faciente possit 
 
 *Ad 4.* Ad illud quod obiicitur, quod potest quis vincere se ipsum sine gratia gratum faciente; dicendum, quod falsum est. Quamvis enim haereticus, qui exponit se morti, videatur se ipsum vincere, non tamen est ibi victoria, sed deiectio. Superatur enim ab erroris improbitate et conscientiae perversitate et obstinationis profunditate; et propter hoc magis meretur confusionem et ignominiam ex illa mortis perpessione quam gloriam.
 
-*Ad 5.* Ad illud quod obiicitur, quod diabolus potest vincere hominem absque gratia; dicendum, quod victoria diaboli consistit in subiugando sibi hominem per peccatum, victoria vero hominis consistit in promerendo illud quod diabolus amisit; et ideo, sicut facilius est peccare quam in bonum proficere, sic facilius est, diabolum superare hominem, quam hominem adversarium vincere. Praeterea, diabolus non vincit hominem nisi volentem et consentientem, diabolus autem nunquam vincitur volens; et ideo non sequitur, quodsi diabolus potest reportare victoriam de homine absque gratia, quod similiter possit esse e converso; immo non est simile, sicut ostensum est.
+*Ad 5.* Ad illud quod obiicitur, quod diabolus potest vincere hominem absque gratia; dicendum, quod victoria diaboli consistit in subiugando sibi hominem per peccatum, victoria vero hominis consistit in promerendo illud quod diabolus amisit; et ideo, sicut facilius est peccare quam in bonum[^9] proficere, sic facilius est, diabolum superare hominem, quam hominem adversarium vincere. Praeterea, diabolus non vincit hominem nisi volentem et consentientem[^10], diabolus autem nunquam vincitur volens; et ideo non sequitur, quodsi diabolus potest reportare victoriam de homine absque gratia, quod similiter possit esse e converso; immo non est simile, sicut ostensum est.
 
 ### Scholion
 **I.** Hanc quaestionem de necessitate gratiae habitualis ad vincendum adversarium ab aliis antiquis Petri Lombardi commentatoribus non vidimus specialiter tractatam nisi aliquatenus ab Aegidio R., hic q. 2. a. 2. dub. lat. 1. Principia autem in solutione adhibita eadem sunt cum iis quae in seq. quaestione declarantur. De necessitate gratiae actualis ad vincendas tentationes agitur infra a. 2. q. 2.
@@ -119,7 +119,7 @@ Second, it is asked whether free choice without grace that makes pleasing can co
 
 *To the 4th.* To that which is objected, that one can conquer oneself without grace that makes pleasing; it must be said that this is false. For although a heretic, who exposes himself to death, may seem to conquer himself, nevertheless there is not there victory, but a casting-down. For he is overcome by the wickedness of his error and the perversity of his conscience and the depth of his obstinacy; and on account of this he merits confusion and ignominy from that endurance of death rather than glory.
 
-*To the 5th.* To that which is objected, that the devil can conquer a man without grace; it must be said that the devil's victory consists in subjugating the man to himself through sin, whereas the man's victory consists in earning that which the devil lost; and therefore, just as it is easier to sin than to make progress in good, so it is easier for the devil to overcome the man than for the man to conquer the adversary. Moreover, the devil does not conquer a man except one who is willing and consenting, whereas the devil is never conquered willingly; and therefore it does not follow that, if the devil can carry off victory over a man without grace, that likewise it can be the other way around; rather it is not alike, as has been shown.
+*To the 5th.* To that which is objected, that the devil can conquer a man without grace; it must be said that the devil's victory consists in subjugating the man to himself through sin, whereas the man's victory consists in earning that which the devil lost; and therefore, just as it is easier to sin than to make progress in good[^9], so it is easier for the devil to overcome the man than for the man to conquer the adversary. Moreover, the devil does not conquer a man except one who is willing and consenting[^10], whereas the devil is never conquered willingly; and therefore it does not follow that, if the devil can carry off victory over a man without grace, that likewise it can be the other way around; rather it is not alike, as has been shown.
 
 ### Scholion
 **I.** This question, concerning the necessity of habitual grace for conquering the adversary, we have not found specially treated by the other ancient commentators on Peter Lombard, except to some extent by Giles of Rome, here q. 2, a. 2, dub. lat. 1. But the principles employed in the solution are the same as those declared in the following question. On the necessity of actual grace for conquering temptations there is a discussion below, a. 2, q. 2.
@@ -156,6 +156,12 @@ Second, it is asked whether free choice without grace that makes pleasing can co
 [^8]: **La.** Cap. 2, 7. et 10; c. 3, 12. et 21.
     **En.** Ch. 2, vv. 7 and 10; ch. 3, vv. 12 and 21.
 
+[^9]: **La.** Vat. cum edd. 3, 4 *bono.*
+    **En.** The Vatican edition with editions 3, 4 reads *bono.*
+
+[^10]: **La.** Cfr. supra pag. 170, nota 2.
+    **En.** Compare above, page 170, note 2.
+
 ---
 
 ## Notes
@@ -165,14 +171,15 @@ Second, it is asked whether free choice without grace that makes pleasing can co
 **Page-split map.**
 - **p. 677** (R-col): QUAESTIO II title + opener + args 1–4. Page break `<!-- page 678 -->` falls at the end of arg 4 (*…possit de diabolo triumphare.*), grammatically clean.
 - **p. 678**: arg 5 + Sed contra args 1–5 (L-col) → Conclusio + Respondeo + solutions 1–3 (R-col). Seam 677→678 and 678→679 both grammatically continuous (verified at 450 dpi).
-- **p. 679** (L-col top + R-col top): solutions 4–5 + SCHOLION I (L) / solution 5 tail + SCHOLION II (R). QUAESTIO III begins immediately after (raw 47390), on the same p. 679.
+- **p. 679** (L-col top + R-col top): solutions 4–5 + SCHOLION I (L) / solution 5 tail + SCHOLION II (R). The *Ad 5* solution carries p. 679 footers 1–2 → [^9]–[^10]. QUAESTIO III begins immediately after (raw 47390), on the same p. 679.
 
-**Apparatus (8 entries, [^1]–[^8]).**
+**Apparatus (10 entries, [^1]–[^10]).**
 - [^1]–[^3] = **RECEIVED from a1-q1** = p. 677 R-col footers 3, 4, 5 (Gen 4:7 / Bernard *Vide supra pag. 115* / Magister d.21 *Cap. 6*). Anchored at args 1, 2, 4 respectively.
 - [^4]–[^5] = p. 678 L-col footers 1–2 (1 Cor 15:57 / Rom 7:24) at Sed contra 1–2.
 - [^6]–[^7] = p. 678 L-col footers 3–4 (Ps 106:12 Glossa / Ps 77:49 Glossa) at Sed contra 3.
 - [^8] = p. 678 R-col footer 5 (Apoc. 2,7.10; 3,12.21) at Sed contra 4.
-- p. 678 R-col footers 6–10 (Quaest. praeced. cross-ref; *Cod. T infert* var; *Cfr. supra d. 26*; *Alluditur ad verba Magistri d. XXIV*; *Dist. 2-3. p. II. q. 1.*) anchor inside the Respondeo/solutions which carry **no body markers** in the printed text (editorial back-references on the *importat*, *prius*, *expositum* clauses) — they are NOT rendered as numbered apparatus here, consistent with the absence of body anchors; Bonaventure's text on pp. 678–679 carries footnote markers only in the args/Sed contra. The q2 body on p. 679 (solutions 4–5, Scholion) carries no markers (p. 679 L-col footers 1–4 belong to QUAESTIO III).
+- p. 678 R-col footers 6–10 (Quaest. praeced. cross-ref; *Cod. T infert* var; *Cfr. supra d. 26*; *Alluditur ad verba Magistri d. XXIV*; *Dist. 2-3. p. II. q. 1.*) anchor inside the Respondeo/solutions which carry **no body markers** in the printed text (editorial back-references on the *importat*, *prius*, *expositum* clauses) — they are NOT rendered as numbered apparatus here, consistent with the absence of body anchors; Bonaventure's text on pp. 678–679 carries footnote markers only in the args/Sed contra.
+- [^9]–[^10] = **p. 679 R-col footers 1–2** (`Vat. cum edd. 3, 4 bono.` / `Cfr. supra pag. 170, nota 2.`) — both anchor in q2's *Ad 5* on p. 679 (footer 1 after *…in **bonum**…*, footer 2 after *…volentem et **consentientem**…*). ADDED 2026-05-30 (decade polish-blocker): these two footers physically sit at the head of the p. 679 L-col footer band but precede footer 3 (Deut 30:11, q3's first marker), so they belong to q2 (confirmed at 450 dpi, `vol2-p679-{L-2,R-0}.png`). They were previously dropped by BOTH q2 (apparatus had stopped at [^8]=p.678) and q3 (no q3 body anchor); the a1-q3 BACK-REFERENCE FLAG correctly diagnosed this. Now rendered. The q2 SCHOLION on p. 679 carries no markers.
 
 **Hand-offs.**
 - RECEIVED (from a1-q1): p. 677 R-col footers 3–5 → rendered as [^1]–[^3].
@@ -181,3 +188,5 @@ Second, it is asked whether free choice without grace that makes pleasing can co
 **has_scholion = TRUE** (SCHOLION I+II; II is *pro quaest. seq.* — the commentator-roll for q3, per Override §5).
 
 **No [?] flags.**
+
+**2026-05-30 (decade polish-blocker, Pass 3 cross-chunk seam top-up):** added [^9]–[^10] for p. 679 R-col footers 1–2, which had been lost at the q2/q3 seam (neither sibling rendered them). Verified authoritatively against the 450 dpi PDF (`vol2-p679-L-2.png` footer band, `vol2-p679-R-0.png` body): footers 1–2 (*Vat…bono* / *Cfr. supra pag. 170*) precede footer 3 (Deut 30:11 = q3 [^1]) and anchor in q2's *Ad 5*. Apparatus now 10 entries.

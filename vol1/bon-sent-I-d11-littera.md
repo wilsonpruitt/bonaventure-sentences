@@ -7,6 +7,7 @@ type: littera
 title_la: "Littera Magistri — De processione Spiritus sancti a Patre et Filio"
 title_en: "Lombard's text — On the procession of the Holy Spirit from the Father and the Son"
 printed_pages: [207, 208]
+pdf_pages: [309, 310]
 source: "Petrus Lombardus, *Sententiae* I, d. 11; in S. Bonaventurae, *Opera Omnia*, Tomus I (Quaracchi, 1882), pp. 207–208"
 has_scholion: false
 has_apparatus: true
