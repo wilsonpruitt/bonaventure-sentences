@@ -9,7 +9,7 @@ type: quaestio
 line_start: 61447
 line_end: 61590
 word_count_latin: 1866
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-30"
 format_version: 1
 ---
 

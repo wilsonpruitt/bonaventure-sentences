@@ -7,7 +7,7 @@ type: divisio
 line_start: 61222
 line_end: 61269
 word_count_latin: 531
-transcription_status: "auto-chunked 2026-05-13"
+transcription_status: "auto-chunked 2026-05-30"
 format_version: 1
 ---
 

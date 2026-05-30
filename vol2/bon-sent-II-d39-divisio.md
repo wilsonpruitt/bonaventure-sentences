@@ -4,10 +4,10 @@ volume: 2
 book: 2
 distinctio: 39
 type: divisio
-line_start: 62378
-line_end: 62409
-word_count_latin: 451
-transcription_status: "auto-chunked 2026-05-13"
+line_start: 62415
+line_end: 62455
+word_count_latin: 463
+transcription_status: "auto-chunked 2026-05-30"
 format_version: 1
 ---
 
@@ -15,37 +15,46 @@ format_version: 1
 
 ## Latin
 
-DIST. XXXIX. DIVISIO TEXTUS.
-                                                                                                                                897
-       est et in omnibus est, cliain iii parviilis, iii quibiis noii-     dicunt, duos esse molus: unum , quo vult bonuin «a-
-       dum est eius actiis.                                               turaliter. Quare naturaliter et quare naturalis dici-
-                                                                          tiir? Quia talis fuit motus naturae humanae in prima
-                                  Cap. III.                               conditione, in qiia creati sine vitio sumus, quae proprie
-                                                                          natura dicitur. Fuit enim homo creatus in voluntate
-               Ex quo sensu dicitur naturaliter omnis                     rectus. Unde in Ecclesiasticis Dogmatibus* .scriptum est:
-                        homo velle bonum.                                  « Firmissinie tene, primos homines bonos et rectos e,sse
-                                                                          crealos cum libero arbitrio, qiio possent, si vellent,
-               Praeterea quaeri solet , quoniodo intelligendum            propria volunlate peccare; eosque non necessitate, sed
-Qivsuo. sit quod ait Ambrosius, exponens illud verbum Apo-                propria voluntale peccasse ». Recte igitur dicitur homo
-         stoli': Non enim quod volo, illud aqo, sed quod nolo,            naticraliter velle bonum, quia in recta et bona volun-
-         illud facio. Dicit enini, quod « homo, subiectus peccato,        tate conditus est. Superior enim scintilia rationis, quae Dubium 2.
-         facit quod non vult, quia naturaliter vult bonum. Sed            etiam, ut ait Hieronymus^, " in Cain non potuit exstin-
-         voluntas haec semper caret effeclu , nisi gratia Dei             gui», bonum semper vult el malnm odit. — Alium au-
-         adiuvet et liberet». Si lionio subiectus est peccato,            tem dicunt esse motum mentis, quo nieiis, relicta sii-
-         vult quidem malum et operalur, quia servus est peceati           periorum lege, subiicit se peccatis eisque obleclatur.
-         et eius voluntatem, sicut supra^ dixit Augustinus, libeu-        Iste motus, ut aiunt, anteqiiam alicui adsilgraiia, do-
-         ter facit; quomodo ergo naluraliter vult bonum ? An              minatur in homine et regnat alteruraque deprimit mo-
-         est eadem voluntas, id est idem motus, qua libeuter              tum; uterque tamen ex libero arbitrio est. Veniente
-         peccato servit, et qua naturaliter vult bonura? Si non           autem graiia, ilie malus niotus eliditur,el alter natu-
-         est eadeni voluntas, quae ergo istarum est, quae, cum            raliter bonus liberatur et adiuvatur, ut ellicaciter bo-
-         homo iustiticatur, a servitute peccati liberatur ? Ut            nnm velit. .Ante gratiam vero, licet naturaliter velit Diibhim 3.
-         enim superius' disseruimus, gratia Dei vohintaleiii ho-          homo bonum, non tamcn absohUe concedi oportet,
-         minis liberat et adiuvat, <iuae voluntalem hoininis prae-        bonam habere voluntatem, sed potins malam. — Alii uosp. -2.
-         parat adiuvandam et adiuvat praeparatam. Sed quae                autem dicunt, unam esse voluntatem, id est unum nio-
-         est illa vohintas? An illa quae naturaliter vult bonum,          tum , quo naturaliter vult homo bonum et ex vitio
-         an quae libenter servit peccato, si tamen duae sunt              vult malum eoque delectatur; et in quaiUum vult bo-
-         voluntates? — Proposila est quaeslio profunda, quae              num, naturaliter bonus est, in quantum malum vult,
-Resp. 1. varia a diversis exposilione determinatur. — Alii enim           malus est.
+DIVISIO TEXTUS.
+
+            Supra ostendit Magister, unde voluntas habeat                       Similiter secunda pars principalis dividifur in
+      rectificari et depravari. In hac parte inquirit, quare              duas partes; in quarum prima movet dubitationem
+      voluntas magis depravetur in suo actu quam aliqua                   et opponit; in secuoda parte eam dissolvit secun-
+      alia potentia. Dividitur autein pars ista in duas par-              (lum diversoriira opiniones, ibi: Proposila est quae-
+      tes. in quarum prima inquirit de causa depravatio-                  stio profunda etc. — Et sic principaliter duo de-
+      nis ^ voluntatis deliberativae. In secunda vero inqui-              terrainat Magister in parte ista, qualiter videlicet
+      rit de rectitudine voluntatis humanae, secundum                     voluntas depravari possit, cum sit naturalis animae
+      quod movetur per modum naturae, ibi: Praeterea                      potentia, et qualiter homo naturaliter bonum velit
+      quaeri solet, quomodo inteUigendum sit etc.                         et appelat, videlicet ratipne naturalis iudicatorii,
+            Priraa pars dividitur in partes duas, in qua-                 quod quidem est conscientia, quae semper bonum
+      rum prima movet quaestionem et delerminat; in                       dictat, et ratione scintillae rationis vel conscien-
+      secunda vcro opponit contra praedictam solutionem                   liae ", quae quidem est synderesis, quae seraper ad
+                                                                          bonum inclinat et contra malura recalcitrat.
+       ad maiorem veritatis'- explanationem , ibi: Sed adhuc
+       quaeritur, quare huiusmodi naturalis elc.
+
+
+             1 Rom. 7, 19. Verbotenus legilur in Ulossa, quae incipit     edd. , habct libro de Fide ad Petrum ; et revera in hoc ( e.
+       V. 13. et sumta est ex Commenl. in Epislolas S. Pauli, qui falso   2.5. n. 68.), non in illo , locus cit. invenitur.
+       tribuitur S. Ambrosio (intcr Opera Ambros. in liunc locum ).             ' Super Ezech.' 1 , 7, et est etiam in Glossa ordinaria. —
+             ' Dist. XXV. c. 7. — Paulo inferius post idem motus et       Inferius Vat. cum paucis edd. post matum addit semper , et
+       se^rvit, et Vat. et plures edd. bis ponunt quo pro gm, et ite-     post motum omittit menlis.
+       rum post istarum esl ponunt qua pro quae, refragantibus codd.                        NOTAE AD COMMBNTARIUM.
+       et ed. I.                                                                ' Edd., wiccpta 1 , privationis. — Supra anle aliqiia alia cod.
+             3 Dist. XXV!. c. I.                                          Y perporam inserit in.                ' Edd. , excepta I, voluntatis.
+             * Vat. cum paucis edd. , refragantibus codd. et ceteris            3 Codd. C L R S T ee et alii scientiae.
+                   S. Bonav. — Tom. II.                                                                                          113
+         898                                                    SENTENTIARUM LIB. II.
+
+                                                             TRACTATIO QUAESTIONUM.
+
+               Ad intelligentiam igiliir hnius partis incidit liic                     Primo quaeritur de ipsa conscientia in compa-
+         quaestio circa diio.                                                    ratione ad subiectum, utrum scilicet sit ex parte
+               Et primo quaerilur de ipsa conscientia, quae                      cognitivae, vel ex parte affectivae.
+         est voluntatis quaedam regula directiva.                                      Secundo quaeritur in coraparatione ad originem,
+              Secundo quaeritur de synderesi, quae dicitur                       ulrum scilicet sit a natura, vel ab acquisitione.
+         ipsius conscientiae scintilla.                                                Tertio quaeritur in comparatione ad effectum,
+              Circa primuin quaeriuitur tria.                                    videlicet utrum omnis conscientia habeat obligare.
 
 ## English
 

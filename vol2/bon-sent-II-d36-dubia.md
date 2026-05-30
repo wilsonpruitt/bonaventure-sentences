@@ -4,10 +4,10 @@ volume: 2
 book: 2
 distinctio: 36
 type: dubia
-line_start: 59641
+line_start: 59619
 line_end: 59788
-word_count_latin: 1984
-transcription_status: "auto-chunked 2026-05-13"
+word_count_latin: 2267
+transcription_status: "auto-chunked 2026-05-30"
 format_version: 1
 ---
 
@@ -15,7 +15,29 @@ format_version: 1
 
 ## Latin
 
-DIST. XXXVI. DUBIA.                                                        8S7
+DUBIA CIRCA LITTERA:\I MAGISTRI.
+                                                                                                                                                (
+
+                                    Dun. I.                                  tra : aut peccatum est causa peccati voluntaria , aut
+                                                                             necessaria. Non voluntaria, quia nihil voluntarie
+              In parte ista sunt qnaestiones circa litteram, et              operatur, nisi quod cognoscit et appetit"; talis au-
+        primo quaeritur de hoc quod dicitur in primo ca-                     tem est rationalis creatura, non culpa: ergo non est
+        pitulo, quod peccatum est causa peccati. Sed con-                    voluntaria causa. Item, non est causa necessaria,
+
+
+             ' Art. I. q. I. Verbiim Augiisl. vidc liic lit. Magist. c. 3.        ' Sive aliis verbis: cum in minoii dicit. — Paulo ante post
+             ' Super Rom. I, 2i; vido Petr. Lombard. in liunc locum.         dicendtim, quod Vat. et edd. 3, i addunl hoc.
+        — Versus finem solutionis ante datam Vat. repetit gratiam.                8 Vide tom. I. pag. S8, nota S, et infra d. 37. a. 2. q. 1.
+             ^ Codd. R (a secunda manu) T ee et alii cum ed. 1 indis-        in fine. — Mox pro attribuere Vat. attributa, edd. 3, 4 attri-
+        positionem. Particula vel , quae Aoci dispositionem praecedit,       buere possnnt, cod. ee attribui possunt. Subinde pro sonat
+        deest in codd. Iv (a secunda manu) T ee; codd. H Y bb pro            Vat. cum edd. 3, i ct plures codd. sonant.
+        ea substituerunt et.                                                      9 Cod. F quia.
+
+              * Edd. ciim aliquot codd., ut F bb, omittiint ergo.                '" Vide scholion ad praeccdentem quaest.
+              5 Cod. V et ed. \ Ad illud vero quod obiicitnr.                    " Vide supra pag. 592, nota 3. — Subinde post ta/is au-
+              ^ Cfr. supra d. 26. q. S. pracsertim ad S. — Paulo supe-       tcm est cod. V subiicit sota.
+        ritis pro eiectio edd. praeter 1 cum pluribus codd. abiectio.
+                                                             DIST. XXXVI. DUBIA.                                                        8S7
 
             quia qui peccavit uno peccato, non est necesse, quod            aliud trahit». Et ita nec defectus per se facit, nec
             peccet altero ' : ergo non videtur, quod aliquo modo            bonum per se, sed unum cum alio. — lUud tamen
