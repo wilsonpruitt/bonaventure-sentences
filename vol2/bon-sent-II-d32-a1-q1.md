@@ -6,394 +6,237 @@ distinctio: 32
 articulus: 1
 quaestio: 1
 type: quaestio
+title_la: "Utrum baptismus deleat originale quantum ad culpam"
+title_en: "Whether baptism deletes original [sin] as to guilt"
+printed_pages: [759, 760, 761, 762]
+pdf_pages: [781, 782, 783, 784]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 759–762"
 line_start: 52943
-line_end: 53312
-word_count_latin: 5040
-transcription_status: "auto-chunked 2026-05-13"
+line_end: 53131
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR + 450dpi PDF column bands (raw 52943–53131), literal English, full apparatus from raw OCR (18 entries: p.759 footer 6 received from divisio + p.760 footers 1–10 + p.761 footers 1–7), scholion I–III (2026-05-30)"
 format_version: 1
 ---
 
 # bon-sent-II-d32-a1-q1
+## *Articulus I, Quaestio I — Utrum baptismus deleat originale quantum ad culpam*
+
+---
 
 ## Latin
+<!-- page 759 -->
 
-QUAESTIO I.
-                           Utrum baptismus deleat originale quantum ad culpam.
+### ARTICULUS I.
+### *De deletione originalis culpae.*
 
-     Circa primum sic proceditur et quaeritur, utrum        aqua et Spiritu, sancto , non intrabit in re^nitm Fandamenia.
-baptismus deleat originale quantum ad culpam. Et            caelorum ; hoc autem non est propter culpam actua-
-quod sic, videlur.                                          lem in parvulis: ergo si hoc est, erit propter cul-
-     1. loannis tertio': Nisi quis renatus fuerit ex        pam originalem. Sed post baptismum non privatur
+### QUAESTIO I.
+### *Utrum baptismus deleat originale quantum ad culpam.*
 
+Circa primum sic proceditur et quaeritur, utrum baptismus deleat originale quantum ad culpam. Et quod sic, videtur:
 
-    1 Psalm. 2i, 10.                                            ■• Vat. cum edd. 2, 3 ad infusionem et dein imputationem.
-    ^ Vat. deleatur.                                             5 Vat. cum edd. 2, 3, 4 morbo.
-     ^ Verba a quo sit tanquam ab auctore desunt in edd.,        « Vers. 5 , ubi pro non intrabit in regnum caelorum Vul-
-excepta 1.                                                  gata legit non potest introire in regnum Dei.
-        760                                                 SENTENTIARUM LIB. II.
+1. Ioannis tertio: *Nisi quis renatus fuerit ex aqua et Spiritu sancto, non intrabit in regnum caelorum*[^1]; hoc autem non est propter culpam actualem in parvulis: ergo si hoc est, erit propter culpam originalem. Sed post baptismum non privatur
 
-             parviilus regno caeloriim : ergo necesse est, quod                    4. Ilem, culpa est raerilum poemie'' : ergo si
-             in baptismo tollatur illud quod reddebat hominem                 omnino cessat culpa, omnino debet removeri poejia.
-             indignum visione Dei : ergo etc.                                 Si igitur post baptismum remanet poemi debita ori-
-                    2. Item , ad Romanos sexto ' : Quicumque bapti-           ginali, utpote mors et consirailes poenae, non vide-
-             zati sumus in Christo lesu, in morte ipsius bapti-               tur, quod per baptismum fiat deletio originalis cu^-
-            zali sumus. Et post : Qui enim mortuns est peccato,               pae quantum ad maculam. Quodsi tu dicas, quod,
-             iustifimtus est a peccato ; Glossa : « Ita per bapti-            macula peccati deleta, adhuc potest remanere ali-
-             smum mortui sumus peccato, sicut Christus semel                  quis reatus in aniraa et obligalio ad poenam pro
-             mortuus est poenae » .                                           culpa prius facta ; videtur lunc, quod originale re-
-                    3. Item , hoc ipsum videtur ratione. Baptismus            manet quantum ad reatum. Male igitur dicit Magi-
-             enim est sacramentum verilatis et etiam novae Le-                ster% cum ait, quod originale transit reatu et re-
-             gis - : ergo sicut in baptismate homo lavatur exte-              manel actu.
-             rius, ila vere lavatur interins: si ergo in baptismo
-                                                                                                       CONCLnSIO.
-             puer exterius lavalur, videtur, quod interius a pec-
-             cato originali mundetur.
-                    4. Item , in baptismo efficitur homo membrum              Originale peccatum in haptismo remittitur quoad
-             Christi et regeneratur generatione ^ spirituali : si ergo             culpam, tum quia vitium concupiscentiae de-
-             membrum Christi quis esse non potest, quamdiu ma-                     bilitatur , tum quia reatus ipsius solvitur.
-             net in peccato mortali, videtur, quod per baptismura
-              originale peccatum deleatur quantum ad culpam.                       Respondeo : Dicendum , quod , sicut Magister di-
-                    Sed contra: 1. Impossibile est, deleri maculam            cit in littera ' et accipit ex verbis Augustini , duplici '^^^^^°},
-.\<i opposi- peccati sive deforraitatem amoveri, quaradiu nianet              ratione dicitur originale remitti in baptismo : quia
-    ^™' privatio boni , quae deberet inesse ; sed in homine                   per gratiam baptismi vitium concupiscentiae debili- \
-                                                                              tatur atque extenuatur, ut iam non regnet ; et quia
-              post baptismum manet carentia illius originalis iusti-
-              tiae, quae fuit in Adam in statu innocentiae: ergo              reatus ipsius solvitur.
-                                                                                    Ad huius autem verbi intelligenliara notandum,
-              per ipsura non deletur macula originalis culpae. Ma-
-              ior manifesta est per ipsam peccati deflnitionera *.            quod istud verbum dupliciter potest intelligi, et utro-
-              Minor manifesta est per ipsam experientiam , quia               que raodo satis bene et probabiliter. Uno modo sic.
-              manifeste videmus, quod post baptisraum caro spi-               Sicut dicit Augustinus in libro de Baptismo parvu- Js^y.'"'"^:
-              ritui non ita subiicitur, sicut in Adam subiiciebatur.          loruni ", « originale est concupiscentia sive vitiura |
-                     2. Item, impossibile est, maculam peccati de-            concupiscentiae » , et hoc ipsura dicit Magister in lit-
-                                                                              tera. Ilaec autem concupiscentia , prout dicitur esse
-              leri, quamdiu raanet aclus peccati, sicut est mani-
-              festum — nunquam enim alicui remittitur peccalura                originale peccatum , norainat appetitum boni commu-
-                                                                               tabilis intensum et inordinatum. Et ratio huius est
-              fornicationis , quanidiu est in actu fornicandi — sed
-               post baptismum raanet originale quantum ad actum,               ista, quoniara originale peccatum non tantum est
-               sicut dicit Magister^: ergo impossibile est, quod in            culpa, sed etiam culpa mortalis. In quantum culpa
-               baptisrao deleatur quantura ad maculam et reatum.               est, dicit privationeni ordinis debiti ; in quantum
-                     3. Itera, concupiscere post haptismum culpa               mortalis est, non tantum dicit boni dehiti privatio-
-               est ; sed quales sunt actus , tales sunt hahitus " : ergo       nem, sed etiara dicit ordinis et iusiitiae subversio-
-               concupiscentia, quae remanet post baptismura , est              nem. Ad hoc igitur, quod concupiscentia in aliquo
-               culpa. Sed non est culpa actualis : ergo est culpa              dicat culpara originalera , necesse est , quod dicat
-               originalis : igitur per baptismum originalis culpa non          necessitatem concupiscendi sive appetitus immode-
-               deletur quantum ad raaculam.                                    rantiara cura dehito non concupiscendi et cum do-
+<!-- page 760 -->
 
+parvulus regno caelorum: ergo necesse est, quod in baptismo tollatur illud quod reddebat hominem indignum visione Dei: ergo etc.
 
-                1 Vers. 3. — Seq. textus est ibid. v. 7 , ulM Vulgata post         ' Cfr. infra d. 35. dub. 6.
-          moftuus est omittit peccalo. Glossa adducta, quae mterlinearis           5 Ilic c. I. in flne.
-          est, apud Lyranum sic souat: <t Si ita morlui sumus peccato,              ^ Vide Aristot., 11. Ethic. c. 1, ex quo cap. iam supra pag.
-          sicut Cliristus semel mortuus est poenae ». Fere idcm dicit          653, nota 6. nonnulla attulimus. August., Serm. 292. (alias23.
-          Glossa ordinaria super v. 10. eiusd. cap., quae Glossa sumta         de Sanctis) c. i. n. 7. ait sic: Qualis lionio est, tales actus lia-
-          est ex August., I. Contra Maximinum, c. 2.                           bot. Si bonus homo est, bonos actus liabet; si malus liomo
-                " loan. 1, 17: « Quia lex per Moysen data est, gralia ct       est, malos actus habet; non potest bonus honio malos actus
-          veritas per lcsum Cliristum facta est ». Verba Doctoris non qui-     haberc, nec malus homo bonos actus habere. Quid evidentius?
-          dem dirccte, sed indirecte signiflcant difTerenliani inter Sacra-         ' Id est: meretur poenam.
-          menta veteris ot novi Tcslanicnti, quae in eo consistit, quod Sa-         8 Ilic c. I, ubi sequitur .Auguslinum.
-           cramenta novae Legis gratiam , quam signiflcant , re vera etiam          5 Iterum hic o. 1 .
-           continent ct conferunt, dum Sacramenta veteris Legis gratiam              "> Libr. I. c. 9. n. 10. seq. , quod testinionium Magisler su-
-           tantummodo signiflcabant. Cfr. IV. Sent. d. 1. p. I. q. 3. seqq.    pra adduxit d. XXX. c. 10. Cfr. etiam d. XXXL c. 3. et hic
-           — Vat. et edd. 3, 4 vocem veritatis male transformarunt in          c. 1 , ubi Magisler peccatum originale docet esse vilium concu-
-           veteris.                                                            pisccnliae. Ibid. eliam explicatio insinualur eorum quae hic se-
-               ' Codd. H Y cc ee et alii cimi ed. 1 regeneratione.
-                                                                               quuntur.
-                                                                                                                                       761
-                                                    DIST. XXXII. .\RT. I. OtlAEST. I.
+2. Item, ad Romanos sexto[^2]: *Quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus.* Et post: *Qui enim mortuus est peccato, iustificatus est a peccato*; Glossa: « Ita per baptismum mortui sumus peccato, sicut Christus semel mortuus est poenae ».
 
-            minio, ita qnod carnalis appetitus praesit spiritui.          loquendo formaliter, sed materialiter. Unde cuni
-            Et qnia utrunique liorum est in liomine anle bapti-           excluditur carentia debitae iustitiae per gratiam
-            smum — habet enini dehitum non concupiscendi, qnia            baptismalem, remanet concupiscentia ratione poe-
-            ad lioc tota liumana natura in Adam fuerat obligata,          nae. Et hinc est, quod dicit Magister, quod « transit
-            nec illa obligatio alicui fueral relaxata; habet etiam        reatu et remanet actu », quia iara non est culpa,
-            ftonznHwn ', quia gratia destitutus vincitnr iege mem-        per quam homo sit dignns poena, sed poena est ex
-            brorum — ■ hinc est, quod habet in se originale pec-          praecedenti culpa relicta. Pro tanto etiam dicit, quod
-            catum. Cum autem homo baptizatur, tunc gratia in-             originale peccalum dnplici ratione dicitur remitti in
-            fundilur, et merito passionis Christi, cuius efTicitur        baptismo: el quia concupiscentia extenuatur, et quia
-            niembrum, per baptismnm ab illo debito absolvitur.            debitum solvitur. Solvitur namque debitum, dum per
-            Gratia vero erigit animam el dat ei potentiam , nt            iustitiam gratiae recompensatur iustitia originalis in-
-            non vincatur a concupiscenlia , et per hoc aitfert ei         nocentiae. Concupiscentia vero remittitur, dum pote-
-            dominium. Et hinc est, quod quia in haptismate tol-           stas datur spiritui per gratiam regendi et vincendi
-            litur concupiscentiae dominium , et solvitur non con-         carnem. — Concedendae sunt igitur rationes osten-
-            cupiscendi debitum , quod omnino aufertur ratio cul-          dentes, peccatum originale quantum ad culpam de-
-            pae ah ipsa concupiscentia, licet aliquo modo re-             leri in baptismo.
-            nianeat. — Et hinc est, quod Magister dicit, quod                  .1. Ad illnd ergo quod primo obiicitur in con-
-            originale in baptismo « transit realic et remanet             trarium, qnod manet privatio originalis institiae; re-
-            actu » , quia, etsi remaneat concupiscentia, non tamen        spondetnr, quod debitum. solvitur merito passionis
-            remanet, prout est «t/pa et obligatoria ad poenam.            Christi, et recompensatio fit gratia Spiritus sancti,
-            Hinc est etiam, quod Magister dicit, duplici ratione          quam Deus dat animae, et qnam etiam plus acce.
-            in baptismate peccatum originale deleri: et quia i'?-         ptat quam institiam innocentiae '.
-            tium concupiscentiae extenuatnr , et quia reatus                    2. Ad illud quod obiicitur, qnod manente actu
-            solvitur.                                                     non polest deleri culpa; dicendum, quod verum est
-                  Aliter etiani potest intelligi verlram illud,utin-      de actii, in quo consistit plena ratio culpae, sicut
-                                                                          in actu fornicationis consistit consummatio illius pec-
-■^'«^fp"'»- telligamus, sicut superius ^ dictum fuit, in originali
-            culpa reperiri conformitatem quandani ad cnlpam               cati. Actus autera originalis peccati vocatur hic con-
-            act.ualem. Sicut enim videmus, quod in culpa actuali          cupiscenlia sive necessitas concupiscendi ; sed haec
-            et est conversio et est aversio ' in ipso cwtu pec-           non manel, prout in ipsa est illins peccati consura-
-            candi; et in ipso liabitu peccati est privatio habi-          matio. Sicut enira dictum est, nec manet qnantura
-            tus boni et quaedam habilitatio ad actum peccati ;            ad dominium, nec manet quantum ad non concupi-
-            sic in originali intelligimus esse debitae iustitiae ca-      scendi debitum. Unde sicnt in aliquo casto post dele-
-            rentiam et concupiscentiam. Et quemadmodum in                 tionem et dimissionem peccati luxuriae manere po-
-            actuali privatio habilitatis bonae est ipsum pecca-           test aliqua pronitas carnalis concupiscentiae, etetiam
-            tum, formaliter loquendo ; ipsa vero habilitatio sive         aliquando in actum concupiscendi exire, salva nihilo-
-            pronitas ad actum peccati non est peccatum , nisi             minus castitate: sic et in proposito intelligendnm
-            materialiter loquendo , pro eo quod non est culpa,            est esse.
-            nisi quamdiu manet ibi privatio : sic intelligendnm                 3. Ad illud quod obiicitur, quod concupiscere
-            est in proposito. Et quemadmodum in actualis pec-             post baptismum est peccatum; dicendum, quod ve-
-            cati deletione, cum gratia infunditnr, statim remo-           rum est; sed ex hoc non seqnitur, qnod illa con-
-            vetur culpa, in qnantum erat deformitas et privatio ;         cupiscentia, quae provocat ad concupiscendum , sit
-            nihilominus tamen simul cura hoc manet quaedam                peccatum, sed sufQcit, quod sit peccatum ", vel ex
-            pronilas ad actum, licet remissa , in his potissime,          peccato relicta. Quando ergo dicitur, quod quales
-            qui peccaverunt peccato consuetudinis : sic, quando           sunt actus, tales sunt habitus; hoc intelligitur de
-             gratia baptismalis infunditur animae, statim remo-           habitibus generatis ex actibus frequentatis, sicut de
-            vetur originale peccatum , eatenus qua erat carentia          habitibus consuetudinalibus. Concupiscentia vero illa,
-             debitae iustitiae ; statim etiam . cum gratia est in         quae post baptismum remanet, non est aggenerata
-             anima, simul cum ea est et iustitia ; co?ict(.pwce)U?a       ex frequenti concupi.scere, sed ex carnis corruptio-
-             vero non omnino tollitur, sed minuitur, pro eo quod          ne ; et ideo non habet rationem culpae, sed poenae.
-            pronitas ad culpam simul potest stare cum gratia,             Quia vero ad malum inclinat, potius vitiositas quam
-             quia, sicut dictum est *, non erat ipsum peccatum            poenalitas appellari debet".
+3. Item, hoc ipsum videtur ratione. Baptismus enim est sacramentum veritatis et etiam novae Legis[^3]: ergo sicut in baptismate homo lavatur exterius, ita vere lavatur interius: si ergo in baptismo puer exterius lavatur, videtur, quod interius a peccato originali mundetur.
 
+4. Item, in baptismo efficitur homo membrum Christi et regeneratur generatione[^4] spirituali: si ergo membrum Christi quis esse non potest, quamdiu manet in peccato mortali, videtur, quod per baptismum originale peccatum deleatur quantum ad culpam.
 
-             ' Simul audi: concupiscentiae i. c. concupiscenliani prae-       * Vat. addit tofe pronilas.
-         dominantem. — Paulo inferius pro el merito edd., excepta 1,          5 Cfr. supra d. 29. a. I. q. I.
-         ex merito; deinde post membrum Val. interiicit et.                   ^ Pro peccalum vel in cod. T a secunda manu substitutum
-             2 DisL 30. a. 2. q. I.                                       est poena.
-             3 Vat. cum edd. 2, 3, i perperam addit et, perpaucis lan-         ' Cfr. supra d. 31. a. 2. q. I. in corp. (opinio 3.).
-         tum suffragantibus codd.
-                  S. Botifiv.     Tom.
+**Sed contra:**
 
+*Ad oppositum.*
 
-                                                                                                                              96
-        762                                                    SENTENTIARUM LIB. II.
+1. Impossibile est, deleri maculam peccati sive deformitatem amoveri, quamdiu manet privatio boni, quae deberet inesse; sed in homine post baptismum manet carentia illius originalis iustitiae, quae fuit in Adam in statu innocentiae: ergo per ipsum non deletur macula originalis culpae. Maior manifesta est per ipsam peccati definitionem[^5]. Minor manifesta est per ipsam experientiam, quia manifeste videmus, quod post baptismum caro spiritui non ita subiicitur, sicut in Adam subiiciebatur.
 
-              4. .\(1 illiitl quod obiicitur, quod reniola culpa,              fortius originale; ad hoc satis planum est respon-
-        debet per coiisequens removeri poena; dicendum,                        dere. Sed huius quaestionis determinatio non spectat
-        quod iliud verum est de poena aeterna et eius                          ad locum istum , sed ad quartum iibrum '-. in ea
-        reatu; de aliis vero poenis temporalibus hoc non                       parle, in qua agitur de baptismo quantum ad effe-
-        oporlel; sicut manifestum est in Sacramento poeni-                     cturn; et ibi determinatum invenietur, quare homo
-        tenliae, in quo, etsi deleatur culpa in conlritione,                   in baptismo a quibusdam poenis absolvitur, a qui-
-        nihilominus lamen obligatur homo ad satisfactio-                       busdam vero minime. Et quia superfluitas vitanda
-        nem; quamvis enim Deus remittat offensam, adhuc                        est. et singula suis locis tractanda sunt tum propter
-        quaerit emendam K Et si tu ohiicias, quod in ba-                       ordinem tum propter brevitatem, ad praesens omit-
-        ptismo est plena remissio, unde delentur ibi actua-                    tendum est.
-        ha quantnm ad poenam et culpam, et ita multo
+2. Item, impossibile est, maculam peccati deleri, quamdiu manet actus peccati, sicut est manifestum — nunquam enim alicui remittitur peccatum fornicationis, quamdiu est in actu fornicandi — sed post baptismum manet originale quantum ad actum, sicut dicit Magister[^6]: ergo impossibile est, quod in baptismo deleatur quantum ad maculam et reatum.
 
-                                                                    SCHOLION.
-              i. Manere in baptizalis conciipisccnliam vcl fomiteni, con-      verba conrMpiscentia intensa et remissa (supra d. ."iO. a. 2. q.
-        fltentur et peccatores et iusti. Sed attenclendum est, quod ana-       I. in corp. et ad 2. 3.). Non enim in solo gradu intenso ponit
-        themate Concilii Trid. (Sess. V. can. 5.) plectitur, « si quis pcr     consistere concupiscentiam, quatenus speclat ad culpani origina-
-        lesu Christi, Domini noslri, gratiam reatum originalis peccnti re-     lem (aliter in baptizatis peccatoribus, qui culpa propria habent
-        mitti negat; aut etiam asserit, non tolli totum id quod veram          intensissimam concupiscentiam, revivisceret peccatum origina-
-        et propriam peccati rationem habet, sed illud dicit tanlum radi,       le), sed quatenus illud dominium concupiscenliae simid ortum
-        aut non imputari ». Ibid. docetur, quod t in renatis nihil odit        habet ex peccato Adae. Hoc expiicite docelur hic dub. .3. ^cfr.
-        Deus... qui vere consepulti sunt cum Christo per baptismum in          et dub. 2.). Hinc S. Bonav. non discordat a S. Thoma (hic q.
-        mortem ». Cnncupiscentia autem , « cum ad agonem relicta sit,          1. a. 1. ad 4.), qui dicit: <t Intensio et remissio lomilis super
-        nocere non consenlientibus, sed viriliter per Christi lesu gratiam     diversam naturam fundanlur. Dicitur enim intensvs, secundum
-        repugnantibus, non valet». Ad rem faciunt etiam plures pro-            quod ad suum formale coniungitur, quod cst defectus iustitiae,-
-        positiones Baii, a s. Sede reprobatae (cfr. supra d. .30. a. 2. q.     et remissus , secundum quod a lali defectu separatur )>. In hoc
-        1, schol.). — Perfecte concordat S. Bonav. (hic in corp.) dicens:      tamen aliquatenus hi duo Doctores dissentire videntur, quod
-        0 Omnino auferhir ratio culpae ab ipsa concupiscentia , licet          S. Thom. (loco cit.) dieit: « Intensio et remissio nunquam spe-
-        aliquo modo remaneat ». — Communiter autem antiqui docent,             ciei diversilatem causant, sed qnandoque ex speciei diver.sitate
-        quod in baptismo tum culpa (et per consequens reatus poe-              consequuntur ». Sed S. Bonav. (.supra d. 30. a. 2. q. I. ad 3.)
-        nae) tollitur, tum prava dispositio fvUium, dominium) concu-           distinguit istam propusitionem dicens: <t Istud locum habet in
-        piscentiae minuitur (S. Thom., liic q. I. a. I.). Hoc aulem S.         naturalibui , non tamen habet veritatem in moralibus ».
-        Bonav. duplici via, secundum duplicem definitionem peccati ori-              III. Alex. Hal., S. p. II. q. 106. m. 6. — Scot., in utroque
-        ginalis, explicat, quam utnimque vocat pi-ob.ibilem. S. Thom.          Scripto, hic q. unica — S. Tliom., loc. cit. — B. Albert., hic a.
-        sequitur secundam viam, quae fiindalur in distinctione formalis         I; de hac et seq. q. S. p. II. Ir. 17. q. III. m. 2. — Pelr. a
-        etmaterialis elementi, quod est in peccato originali, et in hoc        Tar., hic q. 1. a. I. — Bichard. a Med., hic a. I. q. 1. —
-        principio, quod gratia baplismi opponilur originali iniustiliae ,      .■Egid B., hic q. I. a. I. — Durand., de hac et seq. q. hic q. I.
-        quatenus est corriiptio personae, non nalurae (cfr. seq. quaesl.).     — Dionys. Carth., de hac et seq. q. hic q. 1 . — Biel , hio q.
-              II. Ilac quaestione elucidatur, quid S. Doctor inlclligat per
+3. Item, concupiscere post baptismum culpa est; sed quales sunt actus, tales sunt habitus[^7]: ergo concupiscentia, quae remanet post baptismum, est culpa. Sed non est culpa actualis: ergo est culpa originalis: igitur per baptismum originalis culpa non deletur quantum ad maculam.
 
+4. Item, culpa est meritum poenae[^8]: ergo si omnino cessat culpa, omnino debet removeri poena. Si igitur post baptismum remanet poena debita originali, utpote mors et consimiles poenae, non videtur, quod per baptismum fiat deletio originalis culpae quantum ad maculam. Quodsi tu dicas, quod, macula peccati deleta, adhuc potest remanere aliquis reatus in anima et obligatio ad poenam pro culpa prius facta; videtur tunc, quod originale remanet quantum ad reatum. Male igitur dicit Magister[^9], cum ait, quod originale transit reatu et remanet actu.
 
-                                                       QU.\ESTIO U.
-                           Ulrum originale peccatum per baptismum dcleatur quantum ad causam.
+### Conclusio.
 
-                 Secundo quaeritur, utrum originale peccatum                   tur quantum ad culpam, sed etiam quantum ad
-           per baptismum deleri habeat quantum ad ca,usam.                     causam.
-           Et quod sic, videtur:                                                    2. Item, polentior est Christus in satisfaciendo,
-                 1. Per verbum Damasceni \ qui dicit, quod                     quam fuerit .\dam in corrnmpendo, sicut dicitur ad
-Ad opposi- duo sunt in baptisrao correspondentia duobus, quae                  Romanos quinto *: Non sicut delictum, ita el do-
-   '""" sunt in homine. .\it enim sic: « Quoniam duplex                        num; ex quo innuit, quod multo maius fuit donum
-           est homo ex anima et corpore, duplicent dedil pur-                  quam delictum. Ergo si delictum .\dae non tantum
-           gationem, per aquam et Spirilum; Spiritu quod se-                   potuit inficere hominem in se, sed prout est princi-
-           cundum imaginem et similitudinem est renovanle,                     piuin alterius; videtur, quod baptismi Sacramentum
-           aqua etiaui per Spiritus gratiam corpus a peccato                   non tantum ciiret hominem iii se, sed etiani prout
-           purg.ante et a corruptione liberante ». Si igitur haec              est alterius principium.
-           eorruplio est causa origiiialis peccati transfundendi,                   3. Ilem, non removelur elTectus, persistente
-           videtur, quod originale peccatum non solum delea-                   causa": ergo si baptismus removet ipsum originale
+> Originale peccatum in baptismo remittitur quoad culpam, tum quia vitium concupiscentiae debilitatur, tum quia reatus ipsius solvitur.
 
-              1 Cfr. IV. Senl. d. 13. p. II. a. I. q. 2. seqq. — Vat. adliuc   git etiam. Bespicitur in hoc testu loan. 3, 5 : Msi quis renatus
-        tamen quaerit emendationem.                                            fueris ex aqua et Spiialu S. etc.
-                                                                                     ' Vers. .1-5.
-              2 Dist. 4. p. I. a. I. q. 2.
-              ' Libr. IV. de Fide orlhod. c. 0. In sententia allaia lexlus          = Arislol., II. Poster. e. 17. (c. U.): Cum causa sit, necesse
-        originalis vori duplicem subiuiigit nobis el dein post dedit adiun-    esl, rem (elTcctum) oninem esse.
-                                                                                                                                      763
-                                                      DIST. XXXIl. ART. I. QUAEST. II.
+**Respondeo:** Dicendum, quod, sicut Magister dicit in littera[^10] et accipit ex verbis Augustini, duplici ratione dicitur originale remitti in baptismo: quia per gratiam baptismi vitium concupiscentiae debilitatur atque extenuatur, ut iam non regnet; et quia reatus ipsius solvitur.
 
-         peccatim ab homine, necesse est, quod et causam                    sed baptismus non toUil lioraini ignorantiam, quae
-         originalis peccati excludat ab ipso; et si hoc, vide-              se tenet ex parte mentis; ergo multo minus nec
-          tur lunc, quod baptizatus non transfundat in alteruin             illam corruptionem, quae se tenet ex parte carnis;
-         originale peccatum.                                                sed illa est causa originalis: ergo etc.
-               4. Item, non sufficienter curat morbum qui re-
-         hn{|uit radicem morbi: ergo aut Christus uon est                                         c 0 N c L u s 1 0.
-         perfectiis medicus, aut si perfectus medicas est, per
-         medicinam Sacramenti baptismi non solum expiatur                   Per baptismum. originale peccatum deletur quan-
-         originale quantum ad culpam, sed etiam quantum                         tum ad culpam, non tamen removetur causa
-         ad causam; et si hoc, ergo baptizatus etc.                             transfundendi originale in personam alteram.
-               0. Item, tales snnt fructus, qualis est arbor; et
-         tales sunt rami, qualis et radix. Unde et Dominus                        Respondeo: Dicendum, quod dupliciter est loqui
-          in Matthaei septimo ' ; Non pntesl arbor bona fru-                de causa originalis: aut secundum considerationem
-                                                                                                                                   Dupliciter
-         clus malos facere ; et Apostolus ad Romanos unde-                  unius hominis in se, aut per comparationem ipsius loqueDdam
-                                                                                                                                  ligiDalis.
-         cinio: Si radix sancta, et rami sancli : ergo si ori-              ad allerum ex ipso propagandnm. — Si primo modo causa o-
-                                                                                                                                  de
+Ad huius autem verbi intelligentiam notandum, quod istud verbum dupliciter potest intelligi, et utroque modo satis bene et probabiliter. Uno modo sic. Sicut dicit Augustinus in libro de Baptismo parvulorum[^11], « originale est concupiscentia sive vitium concupiscentiae », et hoc ipsum dicit Magister in littera. Haec autem concupiscentia, prout dicitur esse originale peccatum, nominat appetitum boni commutabilis intensum et inordinatum. Et ratio huius est ista, quoniam originale peccatum non tantum est culpa, sed etiam culpa mortalis. In quantum culpa est, dicit privationem ordinis debiti; in quantum mortalis est, non tantum dicit boni debiti privationem, sed etiam dicit ordinis et iustitiae subversionem. Ad hoc igitur, quod concupiscentia in aliquo dicat culpam originalem, necesse est, quod dicat necessitatem concupiscendi sive appetitus immoderantiam cum debito non concupiscendi et cum
 
+<!-- page 761 -->
 
-         ginale deletum est in parente, et parens est purifi-               loquamur, sic semper, cura deletur originale pecca- Conclusio 1.
-         catus; videtur siniiliter, quod purificetur et proles.             tum, delelur etiam causa originalis peccati quantura
-          Et si hoc, aut originale non deletur per baptismum,               ad hoc, ut non possil deinceps peccatum originale
-         aut si deletur quantum ad culpam, deletur similiter                causare" in aninia baptizati. Remittitur enim quodara
-         quantum ad causam. Si tu dicas, quod baptismus                     modo foedilas carnis, et per consequens improbitas
-         non purificat hominem ab originali, in quantum est                 suae tyrannidis , ratione cuius habebat spiritum in
-         corrupiio naturalis , sed in quantum est corruptio                 servitutem peccati redigere; quod quidem non po-
-         personalis; contra: « si oppositum est causa oppositi,             lest facere post baptismum propter auxilium gratiae,
-         et propositum est causa propositi ^ », sed persona                 quod ibi datur spiritui, per quod praesidet carni: et
-         corrupta corrumpit naturam: ergo pari ratione, per-                ita effectus illius gratiae quodara raodo redundat in
-         sona sanata, sanatur et natura.                                    carnem.
-               6. Item, si aliquis curet aliquem a lepra, quia                    Si autem loquamur de causa originalis respeclu
-          lepra est morbus hereditarius \ hoc ipso quod a le-               alterius propagandi, sic per baptismura non dele- CoQcIusio 2.
-          pra curat, dat ei potentiam generandi fdium sanum:                tur originale quantum ad causani sive radicem. —
-         ergo pari ratione, si originale morbus est heredita-               Et ratio huius potissiraa, ut credo, est, quia corru-
-         rius; videtur. quod non deleatur, quin auferatur                   ptio, quae est causa originalis peccati propagandi,
-         illa corruptio, per quam originale in alterum trans-               est corruptio naturae sive consistens penes vira ge-
-         funditur.                                                          nerativam ', quae habet radicari in carne. Unde ori-
-               Sed contba; 1. Baptizatus etiam post bapti-                  ginale, prout est vitium per.sonae, respicit volun-
-r/andamenta.smum seutit iu se motus concupiscentiae ; sed concu-            tatem ; prout autera est vitium naturae , respicit
-          piscentia ortum habet ex carnis foeditate, et illa est            generativam virtutem et carnem. Gratia autem sa-
-                                                                            cramentalis proprie respicit corruptionem personae;
-          causa originalis peccati in prole'; ergo baptismus non
-          curat morbum originalis peccati quantum ad radicem.               contra vero corruptionem naturae non habet ordi-
-                2. Item, causa originalis peccati residet penes             nari directe. Et hinc est, quod cum infunditur gra-
-          carnem; sed gratia Spiritus sancti respicit proprie               tia baptisraalis, deietur originalis culpa, secundum
-          ipsam mentem: ergo si causa originalis peccati non                quod erat poccatum ipsius animae; remanet tamen
-          opponitur ipsi gratiae, videtur, quod per gratiam                 aliquis languor in carne, qui " est causa originalis
-          baptismalem non habeat reraoveri.                                 in prole.
-                3. Item, si baptismus curaret originale non tan-                  Si autem quaeratur, quare remedium gratiae vitur.
-          tum, in quantum est morbus personalis, sed etiam,                 sacramentalis ordinatur directe contra originale, ut cidens sol-
-                                                                                                                                  Quaestio in-
-          in quantum est raorbus naluralis; igitur parente                  corrumpit personam, et non prout corrumpit natii-
-          haptizato, non oporteret prolem baptizari. Si igitur              ram; dicendum, quod sumnuis i\ledicus hoc insti-
-          anumquemque in propria persona necesse est bapti-                 tuit, ratione congrua exigente, tum ex parte Medici, tio.
-          zari, videtur, quod in baptismale non fiat deletio ori-           tum ex parte aegroti, tum ex parte medicamenti. — Triplex ra-
-          ginalis quantum ad causam et radicem morbi.                        Ex parte, inquara, Medici, quia sic Dominus debuit
-                4. Item, propter peccatum originale haberaus                nos curare, ut salutem nostram unusquisque ab ipso
-          ignorantiam in mente et concupiscentiam in carne =;               immediate recognosceret, et ideo unumquemque vo-
+dominio, ita quod carnalis appetitus praesit spiritui. Et quia utrumque horum est in homine ante baptismum — habet enim debitum non concupiscendi, quia ad hoc tota humana natura in Adam fuerat obligata, nec illa obligatio alicui fuerat relaxata; habet etiam fomitem[^12], quia gratia destitutus vincitur lege membrorum — hinc est, quod habet in se originale peccatum. Cum autem homo baptizatur, tunc gratia infunditur, et merito passionis Christi, cuius efficitur membrum, per baptismum ab illo debito absolvitur. Gratia vero erigit animam et dat ei potentiam, ut non vincatur a concupiscentia, et per hoc aufert ei dominium. Et hinc est, quod quia in baptismate tollitur concupiscentiae dominium, et solvitur non concupiscendi debitum, quod omnino aufertur ratio culpae ab ipsa concupiscentia, licet aliquo modo remaneat. — Et hinc est, quod Magister dicit, quod originale in baptismo « transit reatu et remanet actu », quia, etsi remaneat concupiscentia, non tamen remanet, prout est culpa et obligatoria ad poenam. Hinc est etiam, quod Magister dicit, duplici ratione in baptismate peccatum originale deleri: et quia vitium concupiscentiae extenuatur, et quia reatus solvitur.
 
-              1 Vers. 1 8. — Seq. lextiis est loc. cit. v. 1 6.                  ' Cfr. supra d. 31. a. 2. q. I. in corp.
-              2 Aristot., IV. Topic. c. 4: Si opposittim in opposito, et        5 Vide supra d. 30. a. 2. q. I. seq. et infra a. 2. q. 1.
-         proposituni in proposito erit.                                         6 Codd. 0 ua regnare, cod. ee iierare, Vat. cum edd. I,
-              3 Avicenna, I. Canon. Fen 2. Doctr. 1. c. 8: Et sunt aegri-   3, 4 e.t paucis codd. causari.
-         tudinum t|uaedam, quae in semine hereditantur, sicut... plithi-         ' Vat. cum edd. 3 , 4 omittil sive et subindc generativam.
-         sis et lepra. — Pro quia lepra est codd. L 0 guae esl.                  8 Vat. cum edd. 3, 4 quae.
-        764                                                   SENTENTIARUM LIB. II.
+Aliter etiam potest intelligi verbum illud, ut intelligamus, sicut superius[^13] dictum fuit, in originali culpa reperiri conformitatem quandam ad culpam actualem. Sicut enim videmus, quod in culpa actuali et est conversio et est aversio[^14] in ipso actu peccandi; et in ipso habitu peccati est privatio habitus boni et quaedam habilitatio ad actum peccati; sic in originali intelligimus esse debitae iustitiae carentiam et concupiscentiam. Et quemadmodum in actuali privatio habilitatis bonae est ipsum peccatum, formaliter loquendo; ipsa vero habilitatio sive pronitas ad actum peccati non est peccatum, nisi materialiter loquendo, pro eo quod non est culpa, nisi quamdiu manet ibi privatio: sic intelligendum est in proposito. Et quemadmodum in actualis peccati deletione, cum gratia infunditur, statim removetur culpa, in quantum erat deformitas et privatio; nihilominus tamen simul cum hoc manet quaedam pronitas ad actum, licet remissa, in his potissime, qui peccaverunt peccato consuetudinis: sic, quando gratia baptismalis infunditur animae, statim removetur originale peccatum, eatenus qua erat carentia debitae iustitiae; statim etiam, cum gratia est in anima, simul cum ea est et iustitia; concupiscentia vero non omnino tollitur, sed minuitur, pro eo quod pronitas ad culpam simul potest stare cum gratia, quia, sicut dictum est[^15], non erat ipsum peccatum, loquendo formaliter, sed materialiter. Unde cum excluditur carentia debitae iustitiae per gratiam baptismalem, remanet concupiscentia ratione poenae. Et hinc est, quod dicit Magister, quod « transit reatu et remanet actu », quia iam non est culpa, per quam homo sit dignus poena, sed poena est ex praecedenti culpa relicta. Pro tanto etiam dicit, quod originale peccatum duplici ratione dicitur remitti in baptismo: et quia concupiscentia extenuatur, et quia debitum solvitur. Solvitur namque debitum, dum per iustitiam gratiae recompensatur iustitia originalis innocentiae. Concupiscentia vero remittitur, dum potestas datur spiritui per gratiam regendi et vincendi carnem. — Concedendae sunt igitur rationes ostendentes, peccatum originale quantum ad culpam deleri in baptismo.
 
-          luit curari in suo baplisraale iramediate el iii se. Et                   3. Ad illud quod obiicitur, quod non reniovetur
-          propterea baptismus delet originale in homiue, se-                  effectus, permanente causa; dicendum, quod verum
-          cundura quod est indiuiduum, non secundum quod                      est de causa efficiente et conservante, non de effi- Noiandom.
-          est alterias principium, ut ex hoc unusquisque red-                 ciente lantum. Verum est etiam de existentia cau-
-          dat obsequiura Deo debitum et magis recognoscal                     sae in ea dispositione, in qua producit effectum.
-          salvalionis suae beneflcium '.                                      Neutro autem istorum modorum remanet causa ori-
-                Ex parte etiam aegroti congruentia erat. Deus                 ginalis, sive quia foeditas ipsa non est causa con-
- Ratio 2. enim neminera vult salvare nisi salva arbitrii sui li-              servativa origiiialis, cum originale sit in anima se-
-          bcrtate; et ideo talera efficaciara raedicaraento dedit,            parata; sive quia non remanet in ea dispositione et
-          ul salva esset libertas et raeritum liberi arbitrii.                intensione, secundum quam anima ex ipsa contrahit
-          Ideo etiara, ut fides habeat locum, occultat Dorainus               originale.
-          Sacrainenti sui effectum -. Et ideo non curatur na-                       4. Ad illud quod obiicltur, quod non sufQcien-
-          turae morbus.                                                       ter curat inorbum qui relinquil radicem; dicendum,
-                Ex parte etiani medicamenti ratio est, quia vir-              quod hoc verum est, quando radix inorbi relinqui-
- Ratio 3. tus regenerativa in Sacramento est ipsa fides, unde                 tur, quae potest causare vulnus in eo qui curatur.
-          a fide passionis dicuntur Sacramenta habere efflca-                 Non sic autem relinquitur radix originalis peccati,
-          ciam. Quoniara igitur haec virtus regenerativa prin-                quae quidera possit iterare inorbum illura circa eum
-          cipaliter respicit voluntateni et raentem, virtus au-               qui baptizatur. — Posset tamen et aUter dici, quod Aiiasoiatii
-          tem generativa decisionem c.arnis a carne ; hinc est,               utile est relinquere radicera alicuius aegritudinis,
-          quod baptisraus sanat sive curat originale, secundurn               quia una aegritudo frequenter curat alterara. Huius-
-          quod est morbus personae, dum in eo datur gra-                       modi auteni corruptio, quae remanet in carne, oc-
-          tia, per quara rectificatur personalis voluntas, re-                casio est vitandi multa mala , el per consequens
-          manente nibilorainus corruptione in carne et in vi                  faciendi multa bona, sicut ostenditur in quarto \ in
-          generativa, quae causa est transfundendi originaleni                 tractatu de effectu baptismi.
-                                                                                    0. Ad illud quod obiicitur, quod si radix est
-            culpam   '.                                                       sancta, et rami; dicendum, quod illud intelligitur
-                  Et sic patet, quod per baptismura deletur ori-
-            ginale peccatura quantnra ad culpam; non taraen re;               per se loquendo, ut si radix sancta sit, secundura
-            movetur causa trausfundendi originale in personam                 quod 7-adix ; baptismus autem , etsi sanctificet ho-
-            alteram, sicut rationes ostendunt, quae ad secun-                 minem, non tainen sanctificat eum, secundum quod
-            dam partem inducunlur, et ideo concedendae sunt.                  est principium alterius , quia remedium illud curat
-                  1. Ad illud ergo quod primo obiicitur de Da-                 morbura personae, non naturae, sicut ostensura est.
-soiuiio op- masceno, quod caro et spiritus purgantur in bapti-                      6. Ad illud quod obiicitur, quod curato leproso,
- positoram. ^^^, dicendum, quod Damascenus intelligit carnem                  datur ei virtus generandi sanum; dicendum, quod
-            purgari, quia foeditas carnis aliquo modo remitti-                non est siinile. Lepra enim sic est morbus heredi-
-            tur, non quia omnino tollatur. Et illara remissionem              tarius, quod non est alius morbus, ut corrumpit
-            sive diininutionem foeditatis purgationem vocat pro-              personam et ut corrurapit natwram, eo quod totuni
-            pter hoc, quod non est ainplius causa culpae in eo,               hominem inficit ex parte earnis, non soluui quan-
-            in quo est; non tamen per baptismum oninino foe-                  tuin ad nutritivam, sed etiam quantum ad genera-
-            ditas deletur, cura non tantuin pruritus coitus sit               tivara; et ideo leprosus generat leprosura, quia ita
-            in paganis, verum etiam in Christianis. Proliabile la-            corruptus est iii eo humor generativus, sicut '^ nu-
-            men est, quod aliquo modo illa foeditas per bapti-                tritivus; et quando homo a lepra curatur, uterque
-            smum remittatur; vulgo enini dicitur, quod parvuli                humor simul in ipso sanatur. Sed in originali pec-
-            baplizati non ita foetent aliis, sicut non baptizati \            cato est corruptio personae et nalurae, ita quod
-                  2. Ad illud quod obiicitur, quod Christus lua-              istae corruptiones sunt diversae. Corruptio enim per-
-            gis fuit sufBciens ad satisfaciendum, quam Adara ad               sonae respicit liberam voluntatera; corruptio vero
-            rorrunipendura; dicenduin, qiiod verum est; verura-               naturae, secundum quod ab illa causatur, respicit
-            tamen, quia non dedit omneiii virtutem Sacramento,                generativam virtutem. « Est enim natura vis insita
-            quain dare poterat, sed quain dare congruebat; ideo,              rebus, ex sirailibus sirailia procreans ' » : et ideo,
-            etsi sufficientior esset, non tainen dedit virtutera              quamvis una istarura corruptionum per baptismum
-            Sacramento curandi omnem corruptionem, sed so-                    curetur, non oportet, quod curetur alia; et hinc est,
-            luin corruptionem personae. Sic eniin congruebat,                 quod raundificatus per baptisinura generat iramun-
-            ut prius ostensum est.                                            dum. Qualitas enira prolis genitae plus conforraatur
+1. Ad illud ergo quod primo obiicitur in contrarium, quod manet privatio originalis iustitiae; respondetur, quod debitum solvitur merito passionis Christi, et recompensatio fit gratia Spiritus sancti, quam Deus dat animae, et quam etiam plus acceptat quam iustitiam innocentiae[^16].
 
+2. Ad illud quod obiicitur, quod manente actu non potest deleri culpa; dicendum, quod verum est de actu, in quo consistit plena ratio culpae, sicut in actu fornicationis consistit consummatio illius peccati. Actus autem originalis peccati vocatur hic concupiscentia sive necessitas concupiscendi; sed haec non manet, prout in ipsa est illius peccati consummatio. Sicut enim dictum est, nec manet quantum ad dominium, nec manet quantum ad non concupiscendi debitum. Unde sicut in aliquo casto post deletionem et dimissionem peccati luxuriae manere potest aliqua pronitas carnalis concupiscentiae, et etiam aliquando in actum concupiscendi exire, salva nihilominus castitate: sic et in proposito intelligendum est esse.
 
-              ' Cfr. .\nselm., 1. Cur Dcus homo, c. 5, ubi ex codcm               3 Cfr. August., loc. cit. c. 27. n. 43. seqq.
-         principio vult probare, quod redemptio hominis non potuil fleri          ' In edd. legitur ita foetent, sicut alii mn baptizati.
-         pcr aliiim quam per Dci personam.                                        5 Dis(. i. p. I. a. I. q. 2.
-              ° Cfr. .\ugust., li. de Pcccat. merit. et remiss. etc. c. 31.       ^ Cod. cc et ed. I adiiciunt et.
-         n. SO. ncc non Anselm., de Concord. praesc. Dei cum lib. arb.            ' Cfr. tom. I. pag. 134, nota !0.
-         q. .3. c. 9.
-                                                       DIST. XXXIl. AKT. II. QLIAEST. I.                                                   765
+3. Ad illud quod obiicitur, quod concupiscere post baptismum est peccatum; dicendum, quod verum est; sed ex hoc non sequitur, quod illa concupiscentia, quae provocat ad concupiscendum, sit peccatum, sed sufficit, quod sit peccatum[^17], vel ex peccato relicta. Quando ergo dicitur, quod quales sunt actus, tales sunt habitus; hoc intelligitur de habitibus generatis ex actibus frequentatis, sicut de habitibus consuetudinalibus. Concupiscentia vero illa, quae post baptismum remanet, non est aggenerata ex frequenti concupiscere, sed ex carnis corruptione; et ideo non habet rationem culpae, sed poenae. Quia vero ad malum inclinat, potius vitiositas quam poenalitas appellari debet[^18].
 
-        dispositioni virtiitis generativae quam dispositioni                  similiter intelligendum est in hominibus, quod quia
-        vohmkUis liberae. Et ideo exempliticat Augustinus',                   corruptio remanet in vi generativa , quamvis yo/tm-
-        quod sicut circumcisus geuerat praeputiatum , et                      las curetur per gratiam, homo generat secundum
-        ex grano mundo generatur granura cum paleis, et                       id, in quo assimilatur Adae, non secundum quod as-
-        hoc, quia omnia ista erant in vi propagativa el ra-                   similatur Christo; et ideo producit filium similem
-        tione seminali, secundum quam haec propagantur:                       Adae praevaricatori magis quam suo Redemptori^.
+<!-- page 762 -->
 
-                                                                   SGHOLION.
+4. Ad illud quod obiicitur, quod remota culpa, debet per consequens removeri poena; dicendum, quod illud verum est de poena aeterna et eius reatu; de aliis vero poenis temporalibus hoc non oportet; sicut manifestum est in Sacramento poenitentiae, in quo, etsi deleatur culpa in contritione, nihilominus tamen obligatur homo ad satisfactionem; quamvis enim Deus remittat offensam, adhuc quaerit emendam. Et si tu obiicias, quod in baptismo est plena remissio, unde delentur ibi actualia quantum ad poenam et culpam, et ita multo fortius originale; ad hoc satis planum est respondere. Sed huius quaestionis determinatio non spectat ad locum istum, sed ad quartum librum, in ea parte, in qua agitur de baptismo quantum ad effectum; et ibi determinatum invenietur, quare homo in baptismo a quibusdam poenis absolvitur, a quibusdam vero minime. Et quia superfluitas vitanda est, et singula suis locis tractanda sunt tum propter ordinem tum propter brevitatem, ad praesens omittendum est.
 
-              I. Loculio causa peccati oi'iginalis siimla est ex Petro Lom-   turam, sive personam in se absolute , non ut esl principium
-        bardo, d. XXXL o. 4. 5. 6, et intelligitur non de causa prin-         olterius personae.
-        cipali eiusdem, sed de instrumenlali , quae est in carne, ut                Haec et praecedens quaestio non parum servit ad intelli-
-        .supra d. 31. n. 2. q. I. in scliolio est dictum (cfr. etiam ibid.    gendam nostri Doctoris doclrinam de peccato originali, sicut et
-        dub. L). Hinc eandeni quaestionem Petr. a Tar. tractat sub            infra d. 33. a. 2. q. I, ubi tria in peccato originali dislinguun-
-        titulo: n Utrum foeditas carnis in baptismo tollatur » ; S. Tho-      tur, scilicet formate, materiale et causale.
-        mas vero generalius: » Utrum poena originalem culpam conse-                 IL Alex. HaL, S. p. IL q. 106. m. 7. a. 7. § I. 2. 4. — S.
-        quens post baptismum i'emaneat ». — Soluiio S. Bonaventurae           Thom., hic q. I. a. 2. — B. Albert., hic. a S. — Petr. a Tar.,
-        communiter approbatur, quae eruitur ex hoc principio: pecca-          hic q. I. a. 2. — Richard. a Med., hic a. I. q. 2. — .Egid. R.,
-        tmn originale inticit naluram et per consequens personam;             hic q. I. a. 2. — Dionys. Carth., hic q. 2.
-        gratia vero in hoc tempore sanat proprie personam, non na-
+### Scholion
+
+**I.** Manere in baptizatis concupiscentiam vel fomitem, confitentur et peccatores et iusti. Sed attendendum est, quod anathemate Concilii Trid. (Sess. V. can. 5.) plectitur, « si quis per Iesu Christi, Domini nostri, gratiam reatum originalis peccati remitti negat; aut etiam asserit, non tolli totum id quod veram et propriam peccati rationem habet, sed illud dicit tantum radi, aut non imputari ». Ibid. docetur, quod « in renatis nihil odit Deus... qui vere consepulti sunt cum Christo per baptismum in mortem ». Concupiscentia autem, « cum ad agonem relicta sit, nocere non consentientibus, sed viriliter per Christi Iesu gratiam repugnantibus, non valet ». Ad rem faciunt etiam plures propositiones Baii, a s. Sede reprobatae (cfr. supra d. 30. a. 2. q. 1, schol.). — Perfecte concordat S. Bonav. (hic in corp.) dicens: « Omnino aufertur ratio culpae ab ipsa concupiscentia, licet aliquo modo remaneat ». — Communiter autem antiqui docent, quod in baptismo tum culpa (et per consequens reatus poenae) tollitur, tum prava dispositio (vitium, dominium) concupiscentiae minuitur (S. Thom., hic q. 1. a. 1.). Hoc autem S. Bonav. duplici via, secundum duplicem definitionem peccati originalis, explicat, quam utramque vocat probabilem. S. Thom. sequitur secundam viam, quae fundatur in distinctione formalis et materialis elementi, quod est in peccato originali, et in hoc principio, quod gratia baptismi opponitur originali iniustitiae, quatenus est corruptio personae, non naturae (cfr. seq. quaest.).
+
+**II.** Hac quaestione elucidatur, quid S. Doctor intelligat per verba *concupiscentia intensa et remissa* (supra d. 30. a. 2. q. 1. in corp. et ad 2. 3.). Non enim in solo gradu intenso ponit consistere concupiscentiam, quatenus spectat ad culpam originalem (aliter in baptizatis peccatoribus, qui culpa propria habent intensissimam concupiscentiam, revivisceret peccatum originale), sed quatenus illud dominium concupiscentiae simul ortum habet ex peccato Adae. Hoc explicite docetur hic dub. 3. (cfr. et dub. 2.). Hinc S. Bonav. non discordat a S. Thoma (hic q. 1. a. 1. ad 4.), qui dicit: « Intensio et remissio fomitis super diversam naturam fundantur. Dicitur enim intensus, secundum quod ad suum formale coniungitur, quod est defectus iustitiae, et remissus, secundum quod a tali defectu separatur ». In hoc tamen aliquatenus hi duo Doctores dissentire videntur, quod S. Thom. (loco cit.) dicit: « Intensio et remissio nunquam speciei diversitatem causant, sed quandoque ex speciei diversitate consequuntur ». Sed S. Bonav. (supra d. 30. a. 2. q. 1. ad 3.) distinguit istam propositionem dicens: « Istud locum habet in naturalibus, non tamen habet veritatem in moralibus ».
+
+**III.** Alex. Hal., S. p. II. q. 106. m. 6. — Scot., in utroque Scripto, hic q. unica. — S. Thom., loc. cit. — B. Albert., hic a. 1; de hac et seq. q. S. p. II. tr. 17. q. 3. m. 2. — Petr. a Tar., hic q. 1. a. 1. — Richard. a Med., hic a. 1. q. 1. — Aegid. R., hic q. 1. a. 1. — Durand., de hac et seq. q. hic q. 1. — Dionys. Carth., de hac et seq. q. hic q. 1. — Biel, hic q. unica.
+
+---
 
 ## English
 
-[Translation pending]
+### ARTICLE I.
+### *On the deletion of original guilt.*
+
+### QUESTION I.
+### *Whether baptism deletes original [sin] as to guilt.*
+
+Concerning the first point one proceeds thus and it is asked, whether baptism deletes original [sin] as to guilt. And that it does, it seems:
+
+1. John, third [chapter]: *Unless one is born again of water and the Holy Spirit, he will not enter into the kingdom of heaven*[^1]; but this is not on account of actual guilt in little children: therefore if this is so, it will be on account of original guilt. But after baptism the little child is not deprived
+
+<!-- page 760 -->
+
+of the kingdom of heaven: therefore it is necessary that in baptism that be removed which rendered the human unworthy of the vision of God: therefore etc.
+
+2. Likewise, to the Romans, sixth [chapter][^2]: *Whoever of us are baptized in Christ Jesus are baptized in his death.* And after: *For he who is dead to sin is justified from sin*; the Gloss: « Thus by baptism we are dead to sin, just as Christ once died to punishment ».
+
+3. Likewise, this same thing seems [to follow] by reason. For baptism is a sacrament of truth and also of the new Law[^3]: therefore just as in baptism the human is washed exteriorly, so he is truly washed interiorly: if therefore in baptism the child is washed exteriorly, it seems that he is cleansed interiorly from original sin.
+
+4. Likewise, in baptism the human is made a member of Christ and is regenerated by a spiritual generation[^4]: if therefore no one can be a member of Christ as long as he remains in mortal sin, it seems that by baptism original sin is deleted as to guilt.
+
+**On the contrary:**
+
+*To the opposite.*
+
+1. It is impossible that the stain of sin be deleted or the deformity removed, as long as there remains the privation of the good which ought to be present; but in a human after baptism there remains the lack of that original justice which was in Adam in the state of innocence: therefore by it the stain of original guilt is not deleted. The major is manifest by the very definition of sin[^5]. The minor is manifest by experience itself, because we manifestly see that after baptism the flesh is not subjected to the spirit as it was subjected in Adam.
+
+2. Likewise, it is impossible that the stain of sin be deleted as long as the act of sin remains, as is manifest — for the sin of fornication is never remitted to anyone as long as he is in the act of fornicating — but after baptism original [sin] remains as to its act, as the Master says[^6]: therefore it is impossible that in baptism it be deleted as to stain and liability.
+
+3. Likewise, to concupisce after baptism is guilt; but as the acts are, so are the habits[^7]: therefore the concupiscence which remains after baptism is guilt. But it is not actual guilt: therefore it is original guilt: therefore by baptism original guilt is not deleted as to stain.
+
+4. Likewise, guilt is the merit of punishment[^8]: therefore if guilt wholly ceases, punishment ought wholly to be removed. If therefore after baptism there remains punishment due to original [sin], such as death and like punishments, it does not seem that by baptism there is made a deletion of original [sin] as to stain. But if you say that, the stain of sin having been deleted, there can still remain some liability in the soul and an obligation to punishment for guilt previously committed; it seems then that original [sin] remains as to liability. Wrongly therefore does the Master say[^9], when he asserts that original [sin] passes away as to liability and remains as to act.
+
+### Conclusion.
+
+> Original sin is remitted in baptism as to guilt, both because the vice of concupiscence is weakened, and because its liability is loosed.
+
+**I respond:** It must be said that, as the Master says in the text[^10] and takes from the words of Augustine, original [sin] is said to be remitted in baptism for a twofold reason: because by the grace of baptism the vice of concupiscence is weakened and attenuated, so that it no longer reigns; and because its liability is loosed.
+
+But for the understanding of this saying it is to be noted that this saying can be understood in two ways, and in each way well enough and probably. In one way thus. As Augustine says in the book *On the Baptism of Little Children*[^11], « original [sin] is concupiscence or the vice of concupiscence », and the Master says this same thing in the text. But this concupiscence, insofar as it is said to be original sin, names the intense and inordinate appetite of a changeable good. And the reason for this is this, that original sin is not only guilt, but also mortal guilt. Insofar as it is guilt, it states the privation of due order; insofar as it is mortal, it states not only the privation of the due good, but also states the subversion of order and justice. To this end, therefore, that concupiscence in someone may state original guilt, it is necessary that it state the necessity of concupiscing or the immoderation of appetite together with the obligation of not concupiscing and with
+
+<!-- page 761 -->
+
+dominion, such that the carnal appetite presides over the spirit. And because both of these are in the human before baptism — for he has the obligation of not concupiscing, since to this the whole human nature in Adam had been obligated, nor had that obligation been relaxed for anyone; he has also the tinder [of sin][^12], because, destitute of grace, he is conquered by the law of the members — hence it is that he has in himself original sin. But when the human is baptized, then grace is infused, and by the merit of the passion of Christ, of whom he is made a member, he is absolved by baptism from that obligation. And grace raises up the soul and gives it the power not to be conquered by concupiscence, and through this takes away its dominion. And hence it is that, because in baptism the dominion of concupiscence is removed, and the obligation of not concupiscing is loosed, the character of guilt is wholly taken away from concupiscence itself, although it remains in some manner. — And hence it is that the Master says that original [sin] in baptism « passes away as to liability and remains as to act », because, even if concupiscence remains, yet it does not remain insofar as it is guilt and binding to punishment. Hence it is also that the Master says that for a twofold reason sin is deleted in baptism: both because the vice of concupiscence is attenuated, and because the liability is loosed.
+
+In another way also that saying can be understood, so that we understand, as was said above[^13], that in original guilt there is found a certain conformity to actual guilt. For just as we see that in actual guilt there is both a turning-toward and a turning-away[^14] in the very act of sinning; and in the very habit of sin there is the privation of the habit of good and a certain aptitude toward the act of sin; so in the original [sin] we understand there to be the lack of due justice and concupiscence. And just as in the actual [sin] the privation of the good aptitude is the sin itself, formally speaking; but the aptitude itself or proneness toward the act of sin is not sin, except materially speaking, for the reason that it is not guilt except as long as the privation remains there: so it is to be understood in the case at hand. And just as in the deletion of actual sin, when grace is infused, the guilt is at once removed, insofar as it was deformity and privation; nevertheless together with this there remains a certain proneness toward the act, though remitted, especially in those who have sinned by a sin of habit: so, when baptismal grace is infused into the soul, original sin is at once removed, insofar as it was the lack of due justice; at once also, when grace is in the soul, together with it there is also justice; but concupiscence is not wholly taken away, but is diminished, for the reason that proneness toward guilt can stand together with grace, because, as was said[^15], it was not the sin itself, speaking formally, but materially. Whence when the lack of due justice is excluded by baptismal grace, concupiscence remains by reason of punishment. And hence it is that he says that it « passes away as to liability and remains as to act », because it is now not guilt, by which the human is worthy of punishment, but the punishment is left over from preceding guilt. For this reason also he says that original sin is said to be remitted in baptism for a twofold reason: both because concupiscence is attenuated, and because the obligation is loosed. For the obligation is loosed, when by the justice of grace the justice of original innocence is recompensed. But concupiscence is remitted, when power is given to the spirit by grace to rule and conquer the flesh. — The reasons therefore are to be granted which show that original sin is deleted in baptism as to guilt.
+
+1. To that therefore which is first objected to the contrary, that the privation of original justice remains; it is replied that the obligation is loosed by the merit of the passion of Christ, and the recompense is made by the grace of the Holy Spirit, which God gives to the soul, and which he even accepts more than the justice of innocence[^16].
+
+2. To that which is objected, that when the act remains the guilt cannot be deleted; it must be said that it is true of the act in which the full character of guilt consists, just as in the act of fornication consists the consummation of that sin. But the act of original sin is here called concupiscence or the necessity of concupiscing; but this does not remain insofar as in it there is the consummation of that sin. For as was said, it neither remains as to dominion, nor remains as to the obligation of not concupiscing. Whence just as in some chaste person, after the deletion and dismissal of the sin of lust, there can remain some proneness of carnal concupiscence, and even sometimes go out into the act of concupiscing, while chastity is nevertheless preserved: so also in the case at hand it is to be understood to be.
+
+3. To that which is objected, that to concupisce after baptism is sin; it must be said that it is true; but from this it does not follow that that concupiscence which provokes to concupiscing is sin, but it suffices that it be a punishment[^17], or [something] left over from sin. When therefore it is said that as the acts are, so are the habits; this is understood of habits generated from frequented acts, as of habits of custom. But that concupiscence which remains after baptism is not engendered from frequent concupiscing, but from the corruption of the flesh; and therefore it does not have the character of guilt, but of punishment. But because it inclines toward evil, it ought rather to be called viciousness than penalty[^18].
+
+<!-- page 762 -->
+
+4. To that which is objected, that guilt having been removed, punishment ought consequently to be removed; it must be said that that is true of eternal punishment and its liability; but of other temporal punishments this is not necessary; as is manifest in the Sacrament of penance, in which, even if the guilt is deleted in contrition, nevertheless the human is obligated to satisfaction; for although God remits the offense, he still requires amends. And if you object that in baptism there is full remission, whence actual [sins] are there deleted as to punishment and guilt, and so much more strongly is original [sin]; to this it is plain enough to respond. But the determination of this question does not pertain to this place, but to the fourth book, in that part in which baptism is treated as to its effect; and there it will be found determined why a human in baptism is absolved from certain punishments, but from certain ones not at all. And because superfluity is to be avoided, and individual matters are to be treated in their own places both for the sake of order and for the sake of brevity, it must for the present be omitted.
+
+### Scholion
+
+**I.** That concupiscence or the tinder [of sin] remains in the baptized, both sinners and the just confess. But it is to be attended to that by the anathema of the Council of Trent (Session V. canon 5.) one is struck, « if anyone denies that the liability of original sin is remitted by the grace of our Lord Jesus Christ; or also asserts that the whole of that which has the true and proper character of sin is not taken away, but says that it is only scraped off, or not imputed ». In the same place it is taught that « in the reborn God hates nothing... who are truly buried together with Christ by baptism into death ». But concupiscence, « since it is left for the contest, cannot harm those who do not consent, but who manfully resist by the grace of Jesus Christ ». To the point there contribute also several propositions of Baius, reprobated by the Holy See (cfr. above d. 30. a. 2. q. 1, schol.). — S. Bonaventure perfectly agrees (here in the body) saying: « The character of guilt is wholly taken away from concupiscence itself, although it remains in some manner ». — But the ancients commonly teach that in baptism both the guilt (and consequently the liability of punishment) is taken away, and the depraved disposition (the vice, the dominion) of concupiscence is diminished (St. Thomas, here q. 1. a. 1.). But this S. Bonaventure explains by a twofold way, according to the twofold definition of original sin, each of which he calls probable. St. Thomas follows the second way, which is founded on the distinction of the formal and material element which is in original sin, and on this principle, that the grace of baptism is opposed to original injustice insofar as it is a corruption of the person, not of the nature (cfr. the following question).
+
+**II.** By this question it is elucidated what the holy Doctor understands by the words *intense and remitted concupiscence* (above d. 30. a. 2. q. 1. in the body and ad 2. 3.). For he does not place concupiscence, insofar as it pertains to original guilt, to consist in the intense degree alone (otherwise in baptized sinners, who by their own guilt have the most intense concupiscence, original sin would revive), but insofar as that dominion of concupiscence has its origin together [with it] from the sin of Adam. This is explicitly taught here in dub. 3. (cfr. also dub. 2.). Hence S. Bonaventure does not disagree with St. Thomas (here q. 1. a. 1. ad 4.), who says: « The intensity and remission of the tinder are founded upon a diverse nature. For it is called intense insofar as it is joined to its formal [element], which is the defect of justice, and remitted insofar as it is separated from such a defect ». Yet in this the two Doctors seem somewhat to dissent, that St. Thomas (in the cited place) says: « Intensity and remission never cause a diversity of species, but sometimes follow from a diversity of species ». But S. Bonaventure (above d. 30. a. 2. q. 1. ad 3.) distinguishes this proposition, saying: « That holds in natural [things], yet does not hold true in moral [things] ».
+
+**III.** Alexander of Hales, *Summa* p. II. q. 106. m. 6. — Scotus, in each *Scriptum*, here q. unica. — St. Thomas, in the cited place. — B. Albert, here a. 1; on this and the following question *Summa* p. II. tr. 17. q. 3. m. 2. — Petrus a Tarantasia, here q. 1. a. 1. — Richard of Middleton, here a. 1. q. 1. — Aegidius Romanus, here q. 1. a. 1. — Durandus, on this and the following question, here q. 1. — Dionysius the Carthusian, on this and the following question, here q. 1. — Biel, here q. unica.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1] is p.759 footer 6 (received from d32-divisio); [^2]–[^11] are p.760 footers 1–10; [^12]–[^18] are p.761 footers 1–7. The p.762 footers belong to QUAESTIO II and are forwarded to d32-a1-q2.
+
+[^1]: **La.** Vers. 5, ubi pro *non intrabit in regnum caelorum* Vulgata legit *non potest introire in regnum Dei*.
+    **En.** Verse 5, where for *will not enter into the kingdom of heaven* the Vulgate reads *cannot enter into the kingdom of God*.
+
+[^2]: **La.** Vers. 3. — Seq. textus est ibid. v. 7, ubi Vulgata post *mortuus est* omittit *peccato*. Glossa adducta, quae interlinearis est, apud Lyranum sic sonat: « Si ita mortui sumus peccato, sicut Christus semel mortuus est poenae ». Fere idem dicit Glossa ordinaria super v. 10. eiusd. cap., quae Glossa sumta est ex August., I. Contra Maximinum, c. 2.
+    **En.** Verse 3. — The following text is ibid. v. 7, where the Vulgate after *is dead* omits *to sin*. The Gloss adduced, which is interlinear, in Lyranus runs thus: « If we are so dead to sin, as Christ once died to punishment ». The ordinary Gloss on v. 10 of the same chapter says nearly the same, which Gloss is taken from Augustine, I. *Against Maximinus*, c. 2.
+
+[^3]: **La.** Ioan. 1, 17: « Quia lex per Moysen data est, gratia et veritas per Iesum Christum facta est ». Verba Doctoris non quidem directe, sed indirecte significant differentiam inter Sacramenta veteris et novi Testamenti, quae in eo consistit, quod Sacramenta novae Legis gratiam, quam significant, re vera etiam continent et conferunt, dum Sacramenta veteris Legis gratiam tantummodo significabant. Cfr. IV. Sent. d. 1. p. I. q. 3. seqq. — Vat. et edd. 3, 4 vocem *veritatis* male transformarunt in *veteris*.
+    **En.** John 1, 17: « Because the law was given through Moses, grace and truth were made through Jesus Christ ». The words of the Doctor signify not directly indeed, but indirectly, the difference between the Sacraments of the old and the new Testament, which consists in this, that the Sacraments of the new Law truly also contain and confer the grace which they signify, whereas the Sacraments of the old Law only signified grace. Cfr. IV. Sent. d. 1. p. I. q. 3. seqq. — The Vatican [edition] and edd. 3, 4 wrongly transformed the word *veritatis* ("of truth") into *veteris* ("of the old").
+
+[^4]: **La.** Codd. H Y cc ee et alii cum ed. 1 *regeneratione*.
+    **En.** Codd. H Y cc ee and others, with ed. 1, [read] *regeneratione*.
+
+[^5]: **La.** Cfr. infra d. 35. dub. 6.
+    **En.** Cfr. below d. 35. dub. 6.
+
+[^6]: **La.** Hic c. 1. in fine.
+    **En.** Here c. 1, at the end.
+
+[^7]: **La.** Vide Aristot., II. Ethic. c. 1, ex quo cap. iam supra pag. 653, nota 6. nonnulla attulimus. August., Serm. 292. (alias 23. de Sanctis) c. 1. n. 7. ait sic: *Qualis homo est, tales actus habet. Si bonus homo est, bonos actus habet; si malus homo est, malos actus habet; non potest bonus homo malos actus habere, nec malus homo bonos actus habere. Quid evidentius?*
+    **En.** See Aristotle, II. *Ethics* c. 1, from which chapter we have already adduced some things above p. 653, note 6. Augustine, *Sermon* 292 (otherwise 23, *On the Saints*) c. 1. n. 7. says thus: *Such as a man is, such acts he has. If he is a good man, he has good acts; if he is a bad man, he has bad acts; a good man cannot have bad acts, nor a bad man good acts. What is more evident?*
+
+[^8]: **La.** Id est: meretur poenam.
+    **En.** That is: it merits punishment.
+
+[^9]: **La.** Hic c. 1, ubi sequitur Augustinum.
+    **En.** Here c. 1, where he follows Augustine.
+
+[^10]: **La.** Iterum hic c. 1.
+    **En.** Again here c. 1.
+
+[^11]: **La.** Libr. I. c. 9. n. 10. seq., quod testimonium Magister supra adduxit d. XXX. c. 10. Cfr. etiam d. XXXI. c. 3. et hic c. 1, ubi Magister peccatum originale docet esse vitium concupiscentiae. Ibid. etiam explicatio insinuatur eorum quae hic sequuntur.
+    **En.** Book I. c. 9. n. 10. seq., which testimony the Master adduced above d. XXX. c. 10. Cfr. also d. XXXI. c. 3. and here c. 1, where the Master teaches original sin to be the vice of concupiscence. In the same place also an explanation is insinuated of those things which here follow.
+
+[^12]: **La.** Simul audi: *concupiscentiae* i. e. *concupiscentiam praedominantem.* — Paulo inferius pro *et merito* edd., excepta 1, *ex merito*; deinde post *membrum* Vat. interiicit *et*.
+    **En.** Hear at the same time: *concupiscentiae*, that is, *the predominating concupiscence.* — A little below, for *et merito* the editions, except 1, [read] *ex merito*; then after *membrum* the Vatican [edition] inserts *et*.
+
+[^13]: **La.** Dist. 30. a. 2. q. 1.
+    **En.** Dist. 30. a. 2. q. 1.
+
+[^14]: **La.** Vat. cum edd. 2, 3, 4 perperam addit *et*, perpaucis tantum suffragantibus codd.
+    **En.** The Vatican [edition] with edd. 2, 3, 4 wrongly adds *et*, with very few codices favoring [it].
+
+[^15]: **La.** Vat. addit *talis pronitas.*
+    **En.** The Vatican [edition] adds *talis pronitas* ("such proneness").
+
+[^16]: **La.** Cfr. supra d. 29. a. 1. q. 1.
+    **En.** Cfr. above d. 29. a. 1. q. 1.
+
+[^17]: **La.** Pro *peccatum vel* in cod. T a secunda manu substitutum est *poena.*
+    **En.** For *peccatum vel* in cod. T, by a second hand, *poena* has been substituted.
+
+[^18]: **La.** Cfr. supra d. 31. a. 2. q. 1. in corp. (opinio 3.).
+    **En.** Cfr. above d. 31. a. 2. q. 1. in the body (opinion 3.).
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from IA djvu OCR (raw 52943–53131), with the cascade-fragmented Respondeo, Ad-obiecta replies, SCHOLION, and all page-footers verified against 450 dpi PDF column bands (printed pp. 759–762, offset pdf = printed + 22 → pdf pp. 781–784). Read Left column top→bottom then Right column for each page; body bands then footer bands.
+
+**Boundary (coordinator-verified, held).** This chunk = ARTICULUS I, QUAESTIO I only. The ARTICULUS I opener (`ARTICULUS I. / De deletione originalis culpae.`, raw 52939–52941, p. 759) is folded in as headings per Override §5 — the article-level `Circa primum quaeruntur duo` opener (TRACTATIO QUAESTIONUM, raw 52929–52936) belongs to d32-divisio. The chunk ENDS at raw 53131, immediately before the OCR-garbled `QU.\ESTIO U.` header at raw 53134 (*Utrum originale peccatum per baptismum deleatur quantum ad causam*, body "Secundo quaeritur…") — everything from 53134 onward is d32-a1-q2.
+
+**Page-split / footer map.** Spans printed pp. 759–762.
+- p. 759 (running head `DIST. XXXII. ART. I. QUAEST. I. 759` at top, which sits over the divisio): the QUAESTIO I opener + fundamentum 1 begin here. Footers 1–5 anchor in the divisio chunk; footer 6 (John 3,5 Vulgate variant) anchors at *Ioannis tertio* in this q1's fundamentum 1 → [^1] (received from divisio).
+- p. 760: fundamenta 2–4 + Sed contra 1–4 + Conclusio + Respondeo (first mode); footers 1–10 → continuous [^2]–[^11]. Markers reflowed L-column then R-column: [^2] ad Romanos, [^3] novae Legis, [^4] regeneratione, [^5] peccati definitionem; [^6] Magister (actus, c.1 in fine), [^7] habitus (Aristot. Ethic.), [^8] meritum poenae, [^9] Magister (transit reatu, c.1 sequitur Augustinum), [^10] Magister in littera (Respondeo opener), [^11] de Baptismo parvulorum.
+- p. 761: Respondeo (second mode) + Ad obiecta 1–3; footers 1–7 → continuous [^12]–[^18]. By Quaracchi numbering (not strict page-position): [^12] fomitem, [^13] superius (d.30), [^14] aversio, [^15] dictum est (talis pronitas), [^16] innocentiae (d.29), [^17] peccatum (cod. T poena), [^18] debet (d.31 a.2 q.1).
+- p. 762 (top, above QU.\ESTIO U.): tail of Ad obiectum 4 + SCHOLION (items I, II, III). The SCHOLION carries only parenthetical/reference content (Conc. Trid., commentator roll) — NO numbered footers. The p. 762 footers 1–5 (Cfr. IV. Sent. d. 15…; Dist. 4. p. I. a. 1. q. 2.; Libr. IV. de Fide orthod. c. 9…; Vers. 15; Aristot. II. Poster.) all anchor in QUAESTIO II's body and are forwarded to d32-a1-q2.
+
+**Hand-off received.** From d32-divisio: p.759 footer 6 (John 3,5 Vulgate variant *non potest introire in regnum Dei*), anchored at *Ioannis tertio* in fundamentum 1 → rendered as [^1].
+
+**Hand-off forwarded to d32-a1-q2.** The QU.\ESTIO U. header (raw 53134, *Utrum originale peccatum per baptismum deleatur quantum ad causam*) and everything below the SCHOLION on p. 762 belong to a1-q2. The entire p. 762 footer block (notes 1–5: `Cfr. IV. Sent. d. 13. p. II. a. 1. q. 2. seqq. — Vat. adhuc tamen quaerit emendationem`; `Dist. 4. p. I. a. 1. q. 2.`; `Libr. IV. de Fide orthod. c. 9. …`; `Vers. 15`; `Aristot., II. Poster. c. 17. (c. 14.)`) is forwarded to a1-q2 — this q1 claims no footer on p. 762.
+
+**Scholion disposition.** PRESENT here at q1 (p. 762, raw 53106–53131), items I, II, III. `has_scholion: true`. Item I treats the manere concupiscentiam / Conc. Trid. Sess. V can. 5 / Baius — confirming it is q1's scholion as briefed. Item II elucidates *concupiscentia intensa et remissa* (d.30 cross-ref). Item III is the commentator roll. q2 may legitimately lack its own scholion per Override §5.
+
+**Cascade-dropout check.** PASSED. Both column bands of each of pp. 759–762 read top→bottom; the p.759/760 seam (inside fundamentum 1), p.760/761 seam (inside the Respondeo first/second mode), and p.761/762 seam (inside Ad obiectum 4) are each grammatically continuous. No mid-paragraph splice signature found. The shared p.759 footer block is fully accounted across divisio (1–5) + this q1 (6); the shared p.762 footer block belongs wholly to a1-q2.
+
+**[?] flags.** None.
