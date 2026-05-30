@@ -1,4 +1,14 @@
-# Next session — **d.30 COMPLETE — Vol II d.21–d.30 all Tier-2. NEXT ACTION = the d.21–d.30 three-pass DECADE POLISH-BLOCKER (per CLAUDE.md "Polish-blocker cadence") BEFORE any d.31 dispatch. Do NOT dispatch d.31 littera until the d.21–d.30 polish closes.**
+# Next session — **d.21–d.30 DECADE POLISH-BLOCKER CLOSED 2026-05-30 (all 3 passes — see `manual-review/d21-d30-polish-resolution-log.md`). NEXT ACTION = dispatch `bon-sent-II-d31-littera`** (DISTINCTIO XXXI opens raw 51357 / p.737; DUBIUM CIRCA LITTERAM at raw 51385; offset pdf=printed+22). **d.30-a3-q2 FORWARDED p.737 footers 3–5** (Cap.8 octo-nominibus / inclinatur / De-hoc-dubio-Alex.Hal) **to the d.31 dubium — pick them up there.**
+
+## ✅ DECADE POLISH-BLOCKER — d.21–d.30 — CLOSED 2026-05-30 (was the prior blocker)
+
+All three passes closed; full disposition in `manual-review/d21-d30-polish-resolution-log.md`. New guard-rail tooling added: `tools/polish-style-scan.py` (Pass-2 full-corpus invariant scan) + `tools/seam-screen.py` (Pass-3 mid-page-boundary continuity screen) — re-run these at every future decade gate. Summary:
+- **Pass 1** — only one genuine inline `[?]` (d28-dubia DUB.IV [^18]) RESOLVED from p.692 (Anselm *Cur Deus homo* I.24 belongs to DUB.III *Anselmus* tail, moved there); parked d29-a3-q1 [^3] gap CONFIRMED intentional (non-anchorable Cod.Q marginal gloss).
+- **Pass 2** — fixed 7 chunks: d11-littera +pdf_pages; d18-dubia +has_apparatus; d21-a3-q2 [^13]→En; d21-a1-q2 [^16] Petr.Comestor→both bodies; **d24-p1-a2-q2** [^17]/[^18] placed + [^11]–[^16] 2-position drift corrected from p.564; **d27-littera** Cap.XII [^24]/[^25] restored from p.652 (parked item a: [^24]=`Quaest. 39. n. 1.`, [^25]=`Cap. 2. n. 5.…`); **d28-a1-q2** p.679 footers 1–2 → [^9]/[^10] recovered (parked item c). 2 residual flags are OUT-OF-DECADE vol1 (d1-a1-q3 stray `[^?]`; d42-a1-q4 garbled p.758 ¶) — FLAGGED FORWARD to their own decade gates, not touched.
+- **Pass 3** — 80 mid-page boundaries in d.21–d.30, all grammatically-complete tails; 2 screen suspects (d29-a1-q2, d24-p1-a2-q4) verified FALSE POSITIVES vs raw OCR; 4 parked-item seams PDF-verified (d27→divisio, d24-q2→q3, d28-a1-q2 q2/q3, d28-dubia→d29). No cascade-merge dropout.
+- Build: 884 q / 748 translated, parses clean. Commit `bf0cd58`.
+
+---
 
 ## ⚠ DECADE POLISH-BLOCKER — d.21–d.30 (FIRES NOW, 2026-05-30) — three passes, all blockers for d.31+
 
