@@ -6,259 +6,209 @@ distinctio: 30
 articulus: 3
 quaestio: 2
 type: quaestio
-line_start: 51150
-line_end: 51383
-word_count_latin: 3180
-transcription_status: "auto-chunked 2026-05-13"
+title_la: "Utrum aliquid transeat in veritatem humanae naturae per opus nutritivae"
+title_en: "Whether anything passes over into the truth of human nature through the work of the nutritive power"
+printed_pages: [734, 735, 736, 737]
+pdf_pages: [756, 757, 758, 759]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 734–737"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF (raw lines 51150–51383), fresh literal English translation, full apparatus from raw OCR (22 entries) renumbered to body order leading with received p.734 footer 1, no scholion (commentator-roll at a3-q1 SCHOLION III), no [?] flags (2026-05-30)"
 format_version: 1
 ---
 
-# bon-sent-II-d30-a3-q2
+# bon-sent-II-d30-a3-q2 — *De veritate humanae naturae per opus nutritivae*
+## *Utrum aliquid transeat in veritatem humanae naturae per opus nutritivae*
+
+---
 
 ## Latin
+<!-- page 734 -->
 
-QUAESTIO II.
-                              Uirwm aliquid transeat in ueritatem humanae naturae opere nulritivae.
+### Quaestio II. *Utrum aliquid transeat in veritatem humanae naturae opere nutritivae.*
 
-                 Secundo quaeritur circa hoc, utrum aliquid trans-                dicalis est illa quae manet , quam continuari oportet
-           eat in veritatem humanae naturae mediante opere                       usque in flnem : ergo illud solum transit in verita-
-           nuiritivae. Et quod nonj, videtur:                                    tem humanae naturae , quod transit in humiditatem
-                  1. Primo per Augustinum, qui vigesimo secundo                   radicalem. Sed nihil potest transire in humiditatem
- Mfg. pro
-parte nega-de   Civitale  Dei ' dicit, quod narvuli.resurgent i i in
-                                                                   •              radicalem mediante nutritiva, sicut dicunt medici *,
-liva. perfectione corporali et in aetate vu'ili , quam habi-                     alioquin posset homo iuvenescere et vitam perpe-
-           turi erant, pro eo quod iam totum in ralione ha-                      tuare : ergo mediante hac virtule nihil transit in ve-
-          bebant, quamvis non haberent in mole. Haec est ver-                    ritatem humanae naturae.
-          borum sententia: ergo si tain magni suscitabuntur                             5. Item , quod per naturam generatur potest
-          parvuli, sicut ilh qui multum comederunl; videtur,                     etiam per naturam corrumpi : ergo quod mediante
-          quod sumtio aiimentorum veritatem humanae natu-                        opere nutritivae'* proficit et crescit, potest etiam
-          rae non augeat, ac per hoc nihil de illis in humani                    minui et decrescere. Si ergo mediante vi nutritiva
-          corporis veritatem pertranseal.                                        aliquid in veritatem humanae naturae transiret, il-
-                 2. Item, ibidem dicit Auguslinus", quod si aliqnis              lud posset deperdi, et sic continue novum restau-
-          nutriatur de carnibus hunianis, caro illa non resurget                 rari : contingeret igitur aliquando , quod homo ahud
-          in eo qui nutritur , sed in eo in quo primo fuit caro.                 Gorpus haberet, sicut videmus in aqua, quae exit
-          Sed nihil est de veritate ahcuius, nisi quod resur-                    de fonte.
-                                                                                                                                           aCQrinMa;
-          get in 60 : si ergo caro , quae est per alimentum ge-                         Sed contra : 1 . Augustinus de \'era Religione ' :
-          nerata , non resurget in eo in quo est ; videtur, quod                  « In huiusmodi visibilis corporis structuram alimenta,
-          nihil extrinsecum transeat in veritatem alicuius me-                   quae apta sunt , assumuntur ; non apta vero per con-
-          diante opere nutritivae.                                               gruos meatus eiiciuntur ». Si ergo quod est de cor- Pro :le'
-                3. Ilem , solum illud dicitur esse verum , quod                  poris huiiis structura et integritate est de humanae
-          habet actum sibi per naturam convenientem : ergo                       naturae veritate, videtur etc.
-          illud solum est de verilate carnis humanae, quod                              2. Item, omne quod resurget, est de veritate
-          habet actum convenientem taU carni. Sed caro ha-                       humanae naturae ; sed illud in quod transit alimen-
-          bens actum sibi convenientem potest aliam carnem                       tum mediante opere nutritivae , resurget, utpote ca-
-          in se convertere , et dicitur caro secundum speciem :                  pilli , Lucae vigesiuio primo ' : Capillus de capite
-          ergo illud solum transit in veritatem carnis huma-                     vestro non peribit: ergo etc.                                         I {
+Secundo quaeritur circa hoc, utrum aliquid transeat in veritatem humanae naturae mediante opere nutritivae. Et quod non, videtur:
 
+1. *Primo* per Augustinum, qui vigesimo secundo *de Civitate Dei*[^1] dicit, quod parvuli resurgent in perfectione corporali et in aetate virili, quam habituri erant, pro eo quod iam totum in *ratione* habebant, quamvis non haberent in *mole*. Haec est verborum sententia: ergo si tam magni suscitabuntur parvuli, sicut illi qui multum comederunt; videtur, quod sumtio alimentorum veritatem humanae naturae non augeat, ac per hoc nihil de illis in humani corporis veritatem pertranseat.
 
-          nae, quod transit in veritatem secundum speciem.                              3. Item , veritas carnis non est aliud quam vera
-          Sed mediante opere nutritivae nihil transit in car-                    caro ; sed vera caro est , cui debetur operatio car-
-          nem secundum speciem , sicut vult Philosophus ^ ,                      nis ' ; potissima autem carnis operatio est vivere per
-          alioquin esset augmentum in inflnitum : ergo me-                       animam ; sed in hanc carnem transit alimentura nie-
-          diante illa virtute nihil transit in veritatem huma-                   diante vi nutritiva , quia tota caro hominis vivit :
-          nae naturae.                                                                                                                                   <
-                4. Item , illud est solum de veritate alicuius, in               ergo 4.etc.Item, ubicumque esl nutritio, ibi est con-
-          quo rei sul3Stantia salvalur ; sed sola humiditas ra-                  versio et assirailatio et unio ; sed ubi est assimilatio
+2. *Item*, ibidem dicit Augustinus[^2], quod si aliquis nutriatur de carnibus humanis, caro illa non resurget in eo qui nutritur, sed in eo in quo primo fuit caro. Sed nihil est de veritate alicuius, nisi quod resurget in eo: si ergo caro, quae est per alimentum generata, non resurget in eo in quo est; videtur, quod nihil extrinsecum transeat in veritatem alicuius mediante opere nutritivae.
 
+3. *Item*, solum illud dicitur esse verum, quod habet actum sibi per naturam convenientem: ergo illud solum est de veritate carnis humanae, quod habet actum convenientem tali carni. Sed caro habens actum sibi convenientem potest aliam carnem in se convertere, et dicitur *caro secundum speciem*: ergo illud solum transit in veritatem carnis humanae, quod transit in veritatem *secundum speciem*. Sed mediante opere nutritivae nihil transit in carnem *secundum speciem*, sicut vult Philosophus[^3], alioquin esset augmentum in infinitum: ergo mediante illa virtute nihil transit in veritatem humanae naturae.
 
+4. *Item*, illud est solum de veritate alicuius, in quo rei substantia salvatur; sed sola humiditas radicalis est illa quae manet, quam continuari oportet usque in finem: ergo illud solum transit in veritatem humanae naturae, quod transit in humiditatem radicalem. Sed nihil potest transire in humiditatem radicalem mediante nutritiva, sicut dicunt medici[^4], alioquin posset homo iuvenescere et vitam perpetuare: ergo mediante hac virtute nihil transit in veritatem humanae naturae.
 
-             • Cap. 14. Cfr. Serm. 2-i2. (alios 147. de Tempore) c. 3.           Meteor. text. 54. (c. ult.); Omnia autem sunt terminata opere.
-        n. 4. — Paulo superius pro opere nutritivae cod. cc et ed. I.            Omnia enim, quae possunt facere suum opus, vere sunt, ut
-        operatione nutritivae.                                                   oculus, si videt; quod autem non potcst, aequivoce, ut [ocu-
-             ' Cap. 20. n. 2: Keddetur ergo caro illa homini, in quo             lus]"mortuus aut lapideus.
-        esse caro humana primitus coepit.                                              * Cfr. Avicenna, I. Canon. Fen 3. in princ, ubi de causis
-             ' Libr. I. de Generat. et corrui)t. texl. 3S. seqq. (c. S.) , ubi   sanitatis, aegritudinis et mortis agitur.
-        carnem secunduin materiam distinguens a carne secundum /b?'-                   ^ Ita cod. F, in aliis codd. et edd. generativae. Pro parti-
-        mam sive speciem docet, carnem secundum specietu monere,                 cula eliam, quam mox post potest posuimus auctoritate codd.
-        carnem autom, quae fluit et refluit (qualis est caro generata de         F I T W aa bb ee etc. atque ed. 2, Vat. cum aliis codd. et edd. et.
-        nulrimento), carnem esse secundum materiam. Cfr. ibid. II. text.               <5 Cap. 40. n. 74.
-        50. (c. 8.). — Vis locutionis: caro secundum materiam, caro                    ' Vers. 18. — Codd. el edd. signant Mattlt. 10 [v. 30.]
-        secundum speciem, fusius explicatur infra in corp. quacst. —             ubi Dominus dioit: Vestri autem capilli omnes numeroti sunt.
-        Prima huius org. propositio innititur illi vorbo .\i-istol. , IV,              s Ed. 1 adiungit potissima.
-                                                                                                                                               735
-                                                             DIST. XXX. ART.            OUAEST. 11.
-           et unio, eiusdem naturae fit illud cui unitur, et il-                    necesse est, ipsmn aliquando fieri immortale \ Ra-
-           lud quod unitur : ergo si hoc facit virtus nutritiva                     tione igitur ordinationis ad incorruptionem, ex qua
-           convertendo alimentum, videtur, quod per ipsam                           inest corpori humano non tantum debita operatio ,
-           aliquid de alimento in verilatem liumanae naturae                        sed etiam impermixtio et quaedam incorruptio, di-
-           transit '.                                                               citur corpus humanum verum. Illud ergo praecise
-                 o. Item , sicut se habet generativa ad productio-                  et proprie est de veritate humanae naturae , quod NotaDdam.
-           nem prolis sive generati, sic se ha.]M nutritiva et                      est ordinatum ad incorruptionem et reswrectionem.
-           augmentativa ad perfectionem et conservationem nu-                              Aliquid autem ordinatur ad resurrectionem du-
-                                                                                                                                             Dopliciter
-           triti et auginentati : ergo si aliquid transit in verita-                pliciter: vel de necessitate , vel de congruo. lilud dinatur     ad
+5. *Item*, quod per naturam generatur potest etiam per naturam corrumpi: ergo quod mediante opere nutritivae[^5] proficit et crescit, potest etiam minui et decrescere. Si ergo mediante vi nutritiva aliquid in veritatem humanae naturae transiret, illud posset deperdi, et sic continue novum restaurari: contingeret igitur aliquando, quod homo aliud corpus haberet, sicut videmus in aqua, quae exit de fonte.
 
-           tem humanae naturae generati mediante generativa,                        autem ordinatur in nobis ad resurrectionem de ne- resorrectio-
-                                                                                                                                            aliqoid or-
+**Sed contra:**
+1. Augustinus *de Vera Religione*[^6]: « In huiusmodi visibilis corporis structuram alimenta, quae apta sunt, assumuntur; non apta vero per congruos meatus eiiciuntur ». Si ergo quod est de corporis huius structura et integritate est de humanae naturae veritate, videtur etc.
 
-           similiter et aliquid transibit in veritalem humanae                      cessitate , in quo consistit fundamentum et fabrica nem.
-           naturae nutriti mediante nutritiva et augmenlativa.                      corporis nostri, et hoc est illud cui primo anima
-                 Est igitur quaestio, quid sit veritas humanae                      unitur. Et tale tractum est a generantibus, et in tale
-)i^siiones
-3 nciden-
-           naturae,    et quae differentia sit inter veritatem hu-                  nihil potest transire opere nutritivae, secundum quod
-i          manae naturae et carnem secimaum speciem. Et                             nutritiva operatur post animae unionem. — IUud vero
-           rursus, quae sit differentia inter carnem secunclum                      ordinatur in nobis ad resurrectionem de congruo, in
-           speciem et carnem secunclum materiam; et quare                           quo consistit fabricae nostri corporis complementum;
-           magis dicatur veritas humanae naturae quam veri-                         et hoc est, quod facit ad quantitatem corporis per-
-           tas naturae asininae. Haec omnia valent ad intelli-                      fecti. Et sic aliquid de alimento potest converti in CoDcIusio 2.
-             genda ea quae dicuntur in quarto ^ , in quaestione                     veritatem humanae naturae mediante vi nutritiva et
-             de resurrectione.                                                      augmentativa , quae ordinantur ad complendam cor-
-                                                                                    poris fabricam , quae inchoata fuit mediante vi gene-
-                                      C 0 N c L u s 1 0.                            rativa , cui competit operari , quousque anima infun-
-                                                                                    datur ; et ex tunc sequitur operatio nutritivae et au-
-             Aliquid extrinsecum non Iransit in veritatem hu-                       gmentalivae ad conservandum et complendum corpus.
-                  manae naturae mediante opere nutritivae, nisi                            Huic autem modo dicendi concordant tam na-
-                  prout veritas dicitur large.                                      turales philosophi quam medici. Naturalis enim phi- roptiilosoptios.
-                                                                                                                                               secundum
-                                                                                                                                             Daplex ca-
-                                                                                    losophus distinguit in horaine duplicem carnem :
-                  Respondeo : Dicendum , quod praeter generalem                     carnem secundum speciem et carnem secundum ma-
-plex   di-
-;tio veri.  intentionem , qua verum dividitur contra falsum —                       teriam '". Et vocat carnem secundum speciem illam, 2.Ad incideat.
-                                                                                                                                                quaest.
-            secundum quam intentionem res vera dicitur, quae                        quae habet vim activam et potentiam convertendi
-            habet materiam et formam et actum sibi convenien-                       alimentum in carnis naturam ; carnem vero secun-
-            tem — est et alia intentio veri duplex , qua scilicet                   dum materiam vocat illam , quae sic est caro , ut
-            verum dividitur contra permixtum , altera vero, qua                     tamen non possit aliud in carnem convertere pro-
-            verum dividitur contra vanum. Et primo horum mo-                        pria virtute. Dicil etiam ^ quod virtus nutritiva et
-            dorum dicitur verum, quod est purwn et imper-                           augmentativa non convertit alimentum in carnem se-
-            mixtum. Altero modo dicitur verum , quod est per-                       cundum speciem, sed secundum materiam, quia, si
-   qaaesl. manens et fixum ^. — Cuui ergo loquuntur auctores
-DCideTit.
-                                                                                    aliter esset, tunc nunquam staret augmentum; cum
-            de humana natura, loquuntur sub vocabulo verita-                        augmento enim carnis cresceret et virtus augmen-
-            tis, vocantes eam veram. Non est enim aliud dicere                      tandi. Hoc autem non sic est , et ita caro secundum
-            veritatem hummiae naturae , quam humanam na-                            speciem soium est a generantibus sive mediante ge-
- rilas fiQ- turam veram. Sic autem vocant eam, loquentes de                         nerativa, quamvis caro secundum materiam, scili-
-lae nata-
- intelligi- natura humana ex parte corporis, pro eo quod cor-
- ei parte
-                                                                                    cet « quae fluit et refluit », possit esse mediante nu-
-poris.      pus humanura praeter hoc, quod habet formam et                          tritiva. — Et est exemplum de vino generato in vite, Exemplum.
-1 i^ae&t. operationem sibi convenientem , sicut et alia corpora                     quod habet potentiam convertendi aquam ; sed illa
-acident.
-            naturalia, habet ordinationem ad immortalitatem ,                       aqua non habet potentiam convertendi aliam aquam ;
-            et ita quandam impermixtionem in hoc, quod non                          quia si hoc, tunc semper posset quis apponere aquam,
-            potest tantum transmulari, quin tandem reddatur                         et maneret vinum ; hoc autem non sic est . quia tan-
-            animae, quae ipsum vivificavit; habet nihilominus                       tum potest poni de aqua, quod vinum amittit vir-
-            quandam fixionem sive incorruptionem, pro eo quod                       tutem suam. Sic et in proposito intelligendum est ,
+2. *Item*, omne quod resurget, est de veritate humanae naturae; sed illud in quod transit alimentum mediante opere nutritivae, resurget, utpote capilli, Lucae vigesimo primo[^7]: *Capillus de capite vestro non peribit*: ergo etc.
 
+3. *Item*, veritas carnis non est aliud quam vera caro; sed vera caro est, cui debetur operatio carnis[^8]; potissima autem carnis operatio est vivere per animam; sed in hanc carnem transit alimentum mediante vi nutritiva, quia tota caro hominis vivit: ergo etc.
 
-                   ' Cfr. Arislol., I. de Generat. et corrupt. text. 39. seqq.      q. I. — Aliquantulum superius post duplex Vat. cum edd, 3,
-             (c. 5.), ubi astruitur, quod illud quo caro augmentatur ac nu-         4 una qua venm pro qua scilicel venm, et dein nonnulli
-             tritur, sit caro in potentia et fiat caro actii a carne existente      codd. cum ed. 1 bis dicitur pro dividitur.
-             actu. Ibidem vide etiam de relatione, quae est inter generati-              ■■ iNon pauci codd., ut F K T V Vi^ aa ee , cum edd. 1 , 2
-             vam potentiam et augmentativam et nutritivam, de qua triplici          ipsa^n aliquando fieri immorialem , quae lectio coniextui non
-             potentia in seq. arg. sermo est.                                       bene respondet.
-                   - Dist. 44. p. I. a. 1. et 2.                                         = Cfr. supra pag. 734, nota 3.
-                                                                                         ^ Cod. aa enim.
-                   3 De hac duplici notione veri cfr. 1. Sent. d. 8. p. I. a. 1 .
-        736                                                    SENTENTIARUM LIB. 11.
+4. *Item*, ubicumque est nutritio, ibi est conversio et assimilatio et unio; sed ubi est assimilatio et unio, eiusdem naturae fit illud cui unitur, et illud quod unitur: ergo si hoc facit virtus nutritiva convertendo alimentum, videtur, quod per ipsam aliquid de alimento in veritatem humanae naturae transit[^9].
 
-           quod virtiis- corporis fabricativa potest dare primae                ne cito licinium consumatur ; et illa humiditas ali-
-           carni potentiam convertendi , et illa convertit, quous-              quando augetur , aliquando minuitur , aliquando con-
-           que tantnm adveniat de carne secundum materiam,                      sumitur, aliquando restauratur. — Et iuxta hanc du- Noiandai
-           quanta erat ibi potentia convertendi — sicut videmus                 plicem humiditatem distinguunt theologi dupliciter
-           in vino — tum ex parte caloris, tum ex parte ex-                     humanae naturae veritatera , sicut prius dictum est.
-           tensibilitatis ipsius carnis secundum speciem. Et hinc                     Et per hoc patet responsio ad qnaestionem pro-
-           est, quod unus homo magis augmentatur quam al-                       positam ; patet etiam responsio ad obiecta. Nam ra- ** '■'k.^
-           ter ; et aliquando stat augmentum , quia caro super-                 tiones, quae ad primam partem inducuntur, videli- ts.
-           adveniens in fine quasi aquosum facit, sicut dicit                   cet quod nihil Iransit in veritatem humanae naturae
-           Philosophus ' , quemadmodum aqua superinfusa vino.                   mediante opere nutritivae ; procedunt , secundum
-                 Secundum hanc distinctionem carnis distingui                   quod de veritate huraanae naturae dicitur esse ali-
-           potest in theologia veritas humanae naturae duplici-                 quid , quod est de necessitate ordinatum ad incorru-
-                                                                                ptionem ; et hoc modo bene concedendura est, quod
-           ter, sicut praedictum est. — Simihter medicus " di-                  nihil transit in verilatem nutriti. — Rationes vero ad
-Dapies hn- stiuguit iu homiue duplicem humiditatera , videhcet
-mniaaixae- radicalem et nutrimentalem , et dicit, quod humi-                    oppositum procedunt de veritate humanae naturae ,                       i
-           ditas radicalis est illa, in qua calor sui^stantifica-               secundum quod illud dicitur esse de veritate *, quod ,
-           tur ; nutrimentalis vero est illa, quae praebet ipsi                 est ordinatum ad resurrectionem de congruo. Tale
-           calori fomentum. Dicunt igitur, quod humiditas ra-                   autera est non solum quod trahitur a generante, sed
-           dicalis est solum a generantibus et mediante opere                   etiam tola illa caro, quae reperitur in homine in
-           generativae ; nam nutritiva in hanc huraiditatem non                 eius morte, maxime si non faciat ad corporis de-
-           potest. Si enim posset, tunc homo iuvenesceret et                    formitatem.
-           vitam etiam suam in perpetuum continuaret, si illud                                    *
-                                                                                      Nec hoc impedit,    quod
-                                                                                                          ^ Dominus ^       parvulos susci- ^^pro*■par"
-           humidum renovari posset. Quod cum constet esse                       tabit in perfecta quantitate. Dicit enim Augustinus^ negativ.i
-           falsum, dicunt, quod alimentura mediante nutritiva                   quod supplebit virtus divina , ubi deficit natura ; ubi i
-           non transit in illud humidum. Et hinc est, quod illi                 vero natura sufficientem paravit materiam , Deus non
-Noiandam. qui laboraut tertia specie hecticae , in qua est iliius               agit supplendo, sed reformando. Nec valet illa ratio,
-           humidi consumtio, liberari non possunt, ut dicuntl                   quodsi Deus supplet in resurrectione sine addita-
-           In humiditatem autem nutrimentalem , quae calori                     raento , quod nunc similiter fiat sine additamento :
-           pabuhmi praebet , possibile est , alimentum converti                 quia illa erit operatio mirabilis et supra naturam ;
-Esempiam. mediante opere nutritivae. — Et est exempUun in                       hominis vero generatio et augmentatio, quae nunc .
-           lampade ardente, in qua est humiditas olei et hu-                    est , naturaliter fit. Et ideo illa ratio , quam Magister
-           miditas licinii; et humiditas licinii assimiladir hu-                adducit in littera", non cogit, immo sicut apparet
-           mido radicali, quoniam, ex quo consumitur, restau-                   aspicienti, arguit a 9naw)7' atTirmando. — Illa vero, .m gaae.
-           rari non potest, et in illo licinio flarama substanti-               quae ultimo quaerebantur , lam plana sunt per ea generau
-           ficalur ; humiditas vero olei assimilatur humiditati                 quae dicta sunt.
-           nutrimenlali , quae pabulum praebet igni et impedit,                     Ut igitur sil ad unum dicere, concedendum est.
+5. *Item*, sicut se habet generativa ad productionem prolis sive generati, sic se habet nutritiva et augmentativa ad perfectionem et conservationem nutriti et augmentati: ergo si aliquid transit in veritatem humanae naturae generati mediante generativa, similiter et aliquid transibit in veritatem humanae naturae nutriti mediante nutritiva et augmentativa.
 
+Est igitur quaestio, quid sit veritas humanae naturae, et quae differentia sit inter veritatem humanae naturae et carnem *secundum speciem*. Et rursus, quae sit differentia inter carnem *secundum speciem* et carnem *secundum materiam*; et quare magis dicatur veritas humanae naturae quam veritas naturae asininae. Haec omnia valent ad intelligenda ea quae dicuntur in quarto[^10], in quaestione de resurrectione.
 
-              ' Libr. I. de Generat. et corrupl. text. 41. seij. (c. 5.); II.   humiditas, qua continuantur partes cotti , de quo factus esl
-        de Generat. animal. c. 4. (6.) oirca flnem. In Comment. super           lychnius». Tertia species hecticae est, quae incipit consumere
-        prinuim loc. cit. ait .■iverroes, qtiod sicut augmenlatio habetur,      huniiditatem radicalem, « sicut incipit flamma adurere corpus
-        (|uando forma augmenti transmutat cibos in suam substantiam,            iychnii ct humiditates eius radicales » ; ct haec « amplius non
-        ita diminutio liabetur, quando forma augmenti hoc non potest,           rectificatur... et parum recipit curationem, nisi Deus velit ». —
-        sed econtra cibi alteront bumiditateiti natnralem, quae est in          Loco verbi licinii Vat. constanter exhibet ellychium; sed cfr.
-        membris, in substanliam suam; haec diminutio ct debilitas ac-           Isidor. XX. Etymolog. c. 10. n. 2: Lucerna a lychno dicta est,
-        cidit paulatim, sicut quando aqua admiscetur eum vino paula-            unde et brevis est [syllaba] lu... Lychnus anlem quasi lucinius;
-        tim , donec vinum flt aquosum.                                          est cnim cicendela luccrnac. Ita in ed. Migne. In ed. Paris. 1601
-              2 Cfr. Avicenna, I. Canon. Fen I. Doctr. 4. c. I. et Fen          lcgitur bis licinio (us) pro lychno (us) et lu.v pro lu ac candela
-        2. Doctr. 3. c. 3. — In hac propos. pro distingiiii in liomine ,        pro cicendela.                   * Vat. supplet humanae naturae.
-        quae lectio exhibetur in codd. F aa et optima est prorsusque                  ^ Libr. XXII. de Civ. Dei, c. 14: « Quid ergo de infanti-
-        respondet verbis paulo superius habitis: Naturalis enim philo-          bus dicturi sumus, nisi... quod eis tardius accessurum erat tem-
-        sophus distingiiit m homine, alii eodd. distinguitin haiic, Vat.        pore, hoc sunt illo Dei opcie miro atque celerrima recepturi?...
-        distinguit hanc in. Paulo inferius pro substantificatur . quod          Creatori utique, ciui creavit cuncta dc nihilo, quomodo deesse
-        ex oodd. C F bb cc et aliis nec non ex ed. I reslituimus ,              posset, unde adderet quod addendum esse niirus Artifex nos-
-        Vat. sustcntificalur , quae lectio Vat. et in seqq. recurrit. Deinde    set » ? Et ibid. c. 19. n. 2: Quod minus est quam decet, unde
-        pro ipsi calori, quae lectio innititur auctoritate codd. D F M V        Creator novit, inde supplebitur.
-        aa bb ee etc, Vat. hominis caloris.                                           8 Ilic c. IS; et ratio est, quia parvuli resurgent in perfe-
-              3 Cfr. Avicenna , IV. Canon. Fen I . ti-. 3. c. I , nbi secun-    cta quantitate. — De locutione arguit a maiori affirmando cfr.
-        dum tres species humiditatum, quae in hectica africi possunt,           quae lom. I. pag. 835, nota 5. ex Pelro Hispano annotavimus,
-        tres gradus sive species hecticae distinguuntur et sic illustran-       ubi inter alia haec : Locus a maiori est habitudo ipsius maioris
-        tur : « Et similitudo humiditatum primarum est oleum lucernae           ad minus et est semper destructivus, ut rex non potest expugnarc
-        effusum in luoerna; et similitudo secundarum est oleum imbi-            castrum, ergo nec miles. — Paulo post Vat. cum edd. 3, 4
-        bitum in corpore lychnii ; et similitudo tertiae humiditatis est        omitlit verba : Ut igitur sil ad unum dicere.
-                                                               DISTINCTIO XXXI.                                                        737
+<!-- page 735 -->
 
-ipiiogus sicut
-^riusque       ex praecedentibns
-                        ....     apparet . quorl aliquid ex-                tatem humanae naturae , prout veritas dicitur large,
-aaest. trmsecum transit m veritatem humanae naturae; sed                    videlicet secundum quod dicit ordinalionem ad re-
-      mediante ope)'e genei-alivae transit in veritatem ,                   surrectionem de congruo ; et sic quod est de veri-
-      prout veritas dicitur proprie, secundum quod dicit                    tate unius potesl resurgere in alio, secundum quod
-      necessariam ordinationem ad incorruptionem ; me-                      manifestatur in quarto'. His visis, satis plana sunt
-      diante vero opere nutrilivae transit aliquid in veri-                 ea quae dicuntur in littera".
-                                                  DUBIUM CmCA LITTERAM MAGISTRI.
+### Conclusio.
 
+> Aliquid extrinsecum non transit in veritatem humanae naturae mediante opere nutritivae, nisi prout veritas dicitur *large*.
 
-               Hoc solum tamen quaeritur breviter, cum Ma-                  positione propinquiori , et sic dicitur fomes ; vel
-         gister in littera in illo capitulo ^ : Nimc superest vi-           etiam in dispositione proxima, et sic dicitur concu-
-         dere , nominet originale peccatum octo nominibus ,                 piscentia. — Habet etiam comparari ad illud per
-         quomodo distinguantur illa nomina.                                 quod inclinal, et sic dicitur lex membrorum. — ■ Ha-
-               Et dicendum ad hoc, quod originale peccatum                  bet etiam comparari ad illud contra quod , et hoc
-  nominahabet
-cati  on         comparari ad illud a quo est; et sic dicitur               dupliciter : vel in quantum reddit difficil.em ad bo-
-alis.
-         originale peccatum, quod est ab origine ; dicitur                  num, et sic dicitur languor naturae ; vel in quan-
-         etiam lex carnis, quia contrahitur mediante carne.                 tum praedominatur voluntati, ut curvet eam in ma-
-         — Haljet etiam comparari ad iliud ad quod est                      lum, et sic dicitur iyrannus. — Et sic patet, quod
-      sive ad quod inclinat ' , et hoc vel in dispositione                  secundum diversas comparationes diversis nomina-
-      remota, et sic dicitur concupiscibilitas ; vel in dis-                tur nominibus".
+**Respondeo:** Dicendum, quod praeter generalem intentionem, qua *verum* dividitur contra *falsum* — secundum quam intentionem res vera dicitur, quae habet materiam et formam et actum sibi convenientem — est et alia intentio veri duplex, qua scilicet *verum* dividitur contra *permixtum*, altera vero, qua *verum* dividitur contra *vanum*. Et primo horum modorum dicitur *verum*, quod est *purum* et *impermixtum*. Altero modo dicitur *verum*, quod est *permanens* et *fixum*[^11]. — Cum ergo loquuntur auctores de humana natura, loquuntur sub vocabulo veritatis, vocantes eam veram. Non est enim aliud dicere veritatem humanae naturae, quam humanam naturam veram. Sic autem vocant eam, loquentes de natura humana ex parte corporis, pro eo quod corpus humanum praeter hoc, quod habet formam et operationem sibi convenientem, sicut et alia corpora naturalia, habet ordinationem ad immortalitatem, et ita quandam impermixtionem in hoc, quod non potest tantum transmutari, quin tandem reddatur animae, quae ipsum vivificavit; habet nihilominus quandam fixionem sive incorruptionem, pro eo quod necesse est, ipsum aliquando fieri immortale[^12]. Ratione igitur ordinationis ad incorruptionem, ex qua inest corpori humano non tantum debita operatio, sed etiam impermixtio et quaedam incorruptio, dicitur corpus humanum verum. Illud ergo praecise et proprie est de veritate humanae naturae, quod est ordinatum ad incorruptionem et resurrectionem.
+
+Aliquid autem ordinatur ad resurrectionem dupliciter: vel de necessitate, vel de congruo. Illud autem ordinatur in nobis ad resurrectionem de necessitate, in quo consistit fundamentum et fabrica corporis nostri, et hoc est illud cui primo anima unitur. Et tale tractum est a generantibus, et in tale nihil potest transire opere nutritivae, secundum quod nutritiva operatur post animae unionem. — Illud vero ordinatur in nobis ad resurrectionem de congruo, in quo consistit fabricae nostri corporis complementum; et hoc est, quod facit ad quantitatem corporis perfecti. Et sic aliquid de alimento potest converti in veritatem humanae naturae mediante vi nutritiva et augmentativa, quae ordinantur ad complendam corporis fabricam, quae inchoata fuit mediante vi generativa, cui competit operari, quousque anima infundatur; et ex tunc sequitur operatio nutritivae et augmentativae ad conservandum et complendum corpus.
+
+Huic autem modo dicendi concordant tam naturales philosophi quam medici. Naturalis enim philosophus distinguit in homine duplicem carnem: carnem *secundum speciem* et carnem *secundum materiam*[^13]. Et vocat carnem *secundum speciem* illam, quae habet vim activam et potentiam convertendi alimentum in carnis naturam; carnem vero *secundum materiam* vocat illam, quae sic est caro, ut tamen non possit aliud in carnem convertere propria virtute. Dicit etiam[^14], quod virtus nutritiva et augmentativa non convertit alimentum in carnem *secundum speciem*, sed *secundum materiam*, quia, si aliter esset, tunc nunquam staret augmentum; cum augmento enim carnis cresceret et virtus augmentandi. Hoc autem non sic est, et ita caro *secundum speciem* solum est a generantibus sive mediante generativa, quamvis caro *secundum materiam*, scilicet « quae fluit et refluit », possit esse mediante nutritiva. — Et est exemplum de vino generato in vite, quod habet potentiam convertendi aquam; sed illa aqua non habet potentiam convertendi aliam aquam; quia si hoc, tunc semper posset quis apponere aquam, et maneret vinum; hoc autem non sic est, quia tantum potest poni de aqua, quod vinum amittit virtutem suam. Sic et in proposito intelligendum est,
+
+<!-- page 736 -->
+
+quod virtus corporis fabricativa potest dare primae carni potentiam convertendi, et illa convertit, quousque tantum adveniat de carne *secundum materiam*, quanta erat ibi potentia convertendi — sicut videmus in vino — tum ex parte caloris, tum ex parte extensibilitatis ipsius carnis *secundum speciem*. Et hinc est, quod unus homo magis augmentatur quam alter; et aliquando stat augmentum, quia caro superadveniens in fine quasi aquosum facit, sicut dicit Philosophus[^15], quemadmodum aqua superinfusa vino.
+
+Secundum hanc distinctionem carnis distingui potest in theologia veritas humanae naturae dupliciter, sicut praedictum est. — Similiter medicus[^16] distinguit in homine duplicem humiditatem, videlicet radicalem et nutrimentalem, et dicit, quod humiditas radicalis est illa, in qua calor substantificatur; nutrimentalis vero est illa, quae praebet ipsi calori fomentum. Dicunt igitur, quod humiditas radicalis est solum a generantibus et mediante opere generativae; nam nutritiva in hanc humiditatem non potest. Si enim posset, tunc homo iuvenesceret et vitam etiam suam in perpetuum continuaret, si illud humidum renovari posset. Quod cum constet esse falsum, dicunt, quod alimentum mediante nutritiva non transit in illud humidum. Et hinc est, quod illi qui laborant tertia specie hecticae, in qua est illius humidi consumtio, liberari non possunt, ut dicunt. In humiditatem autem nutrimentalem, quae calori pabulum praebet, possibile est, alimentum converti mediante opere nutritivae. — Et est exemplum in lampade ardente, in qua est humiditas olei et humiditas licinii; et humiditas licinii assimilatur humido radicali, quoniam, ex quo consumitur, restaurari non potest, et in illo licinio flamma substantificatur; humiditas vero olei assimilatur humiditati nutrimentali, quae pabulum praebet igni et impedit, ne cito licinium consumatur; et illa humiditas aliquando augetur, aliquando minuitur, aliquando consumitur, aliquando restauratur. — Et iuxta hanc duplicem humiditatem distinguunt theologi dupliciter humanae naturae veritatem, sicut prius dictum est.
+
+Et per hoc patet responsio ad quaestionem propositam; patet etiam responsio ad obiecta. Nam rationes, quae ad primam partem inducuntur, videlicet quod nihil transit in veritatem humanae naturae mediante opere nutritivae; procedunt, secundum quod de veritate humanae naturae dicitur esse aliquid, quod est de necessitate ordinatum ad incorruptionem; et hoc modo bene concedendum est, quod nihil transit in veritatem nutriti. — Rationes vero ad oppositum procedunt de veritate humanae naturae, secundum quod illud dicitur esse de veritate, quod est ordinatum ad resurrectionem de congruo. Tale autem est non solum quod trahitur a generante, sed etiam tota illa caro, quae reperitur in homine in eius morte, maxime si non faciat ad corporis deformitatem.
+
+Nec hoc impedit, quod Dominus parvulos suscitabit in perfecta quantitate. Dicit enim Augustinus[^17], quod supplebit virtus divina, ubi deficit natura; ubi vero natura sufficientem paravit materiam, Deus non agit supplendo, sed reformando. Nec valet illa ratio, quod si Deus supplet in resurrectione sine additamento, quod nunc similiter fiat sine additamento: quia illa erit operatio mirabilis et supra naturam; hominis vero generatio et augmentatio, quae nunc est, naturaliter fit. Et ideo illa ratio, quam Magister adducit in littera, non cogit, immo sicut apparet aspicienti, arguit *a maiori* affirmando. — Illa vero, quae ultimo quaerebantur, iam plana sunt per ea quae dicta sunt.
+
+Ut igitur sit ad unum dicere, concedendum est,
+
+<!-- page 737 -->
+
+sicut ex praecedentibus apparet, quod aliquid extrinsecum transit in veritatem humanae naturae; sed mediante opere generativae transit in veritatem, prout veritas dicitur *proprie*, secundum quod dicit necessariam ordinationem ad incorruptionem; mediante vero opere nutritivae transit aliquid in veritatem humanae naturae, prout veritas dicitur *large*, videlicet secundum quod dicit ordinationem ad resurrectionem de congruo; et sic quod est de veritate unius potest resurgere in alio, secundum quod manifestatur in quarto[^18]. His visis, satis plana sunt ea quae dicuntur in littera.
+
+---
 
 ## English
 
-[Translation pending]
+### Question II. *Whether anything passes over into the truth of human nature through the work of the nutritive power.*
+
+Secondly it is asked concerning this, whether anything passes over into the truth of human nature by means of the work of the nutritive power. And that it does not, it seems:
+
+1. *First*, through Augustine, who in the twenty-second book *On the City of God*[^1] says that little children will rise again in the bodily perfection and the manly age which they were going to have, on the ground that they already had the whole of it in *reason*, although they did not have it in *bulk*. This is the sense of his words: therefore, if little children will be raised up as large as those who have eaten much; it seems that the taking of food does not increase the truth of human nature, and hence that nothing of those foods passes over into the truth of the human body.
+
+2. *Likewise*, in the same place Augustine says[^2] that, if someone is nourished on human flesh, that flesh will not rise again in the one who is nourished, but in the one in whom it was flesh first. But nothing belongs to the truth of anyone, except what will rise again in him: if therefore flesh, which has been generated through food, will not rise again in the one in whom it is; it seems that nothing extrinsic passes over into the truth of anyone by means of the work of the nutritive power.
+
+3. *Likewise*, only that is said to be true which has an act befitting it by nature: therefore that alone belongs to the truth of human flesh which has an act befitting such flesh. But flesh having an act befitting it can convert other flesh into itself, and is called *flesh according to species*: therefore that alone passes over into the truth of human flesh which passes over into the truth *according to species*. But by means of the work of the nutritive power nothing passes over into flesh *according to species*, as the Philosopher holds[^3], otherwise there would be increase to infinity: therefore by means of that power nothing passes over into the truth of human nature.
+
+4. *Likewise*, that alone belongs to the truth of anything in which the substance of the thing is preserved; but the radical moisture alone is that which remains, which must be continued unto the end: therefore that alone passes over into the truth of human nature which passes over into the radical moisture. But nothing can pass over into the radical moisture by means of the nutritive power, as the physicians say[^4], otherwise a man could grow young again and perpetuate his life: therefore by means of this power nothing passes over into the truth of human nature.
+
+5. *Likewise*, what is generated by nature can also be corrupted by nature: therefore what by means of the work of the nutritive power[^5] thrives and grows can also be diminished and decrease. If therefore by means of the nutritive power something passed over into the truth of human nature, that could be lost, and so a new thing be continually restored: it would therefore happen at some time that a man would have a different body, as we see in the water that flows out from a fountain.
+
+**On the contrary:**
+1. Augustine, *On True Religion*[^6]: « Into the structure of this visible body the foods that are suitable are taken up; the unsuitable, however, are cast out through the appropriate passages ». If therefore what belongs to the structure and integrity of this body belongs to the truth of human nature, it seems etc.
+
+2. *Likewise*, everything that will rise again belongs to the truth of human nature; but that into which food passes over by means of the work of the nutritive power will rise again, as for instance the hairs, in Luke chapter twenty-one[^7]: *A hair of your head shall not perish*: therefore etc.
+
+3. *Likewise*, the truth of the flesh is nothing other than true flesh; but that is true flesh to which the operation of flesh is owed[^8]; and the foremost operation of flesh is to live through the soul; but into this flesh food passes over by means of the nutritive power, since the whole flesh of man lives: therefore etc.
+
+4. *Likewise*, wherever there is nutrition, there is conversion and assimilation and union; but where there is assimilation and union, that to which it is united, and that which is united, become of the same nature: therefore if the nutritive power does this by converting the food, it seems that through it something of the food passes over into the truth of human nature[^9].
+
+5. *Likewise*, as the generative power stands to the production of offspring or of the generated, so the nutritive and augmentative power stands to the perfecting and conserving of the nourished and the increased: therefore if something passes over into the truth of human nature of the generated by means of the generative power, likewise also something will pass over into the truth of human nature of the nourished by means of the nutritive and augmentative power.
+
+There is therefore a question, what the truth of human nature is, and what difference there is between the truth of human nature and *flesh according to species*. And again, what difference there is between *flesh according to species* and *flesh according to matter*; and why the truth of human nature is spoken of rather than the truth of the nature of an ass. All these things are of use for understanding what is said in the fourth book[^10], in the question on the resurrection.
+
+### Conclusion.
+
+> Nothing extrinsic passes over into the truth of human nature by means of the work of the nutritive power, except insofar as truth is said *broadly*.
+
+**I respond:** It must be said that, besides the general meaning by which *true* is divided against *false* — according to which meaning a thing is called true which has matter and form and an act befitting it — there is also another twofold meaning of *true*, namely the one by which *true* is divided against the *intermixed*, and another by which *true* is divided against the *empty*. And in the first of these ways that is called *true* which is *pure* and *unmixed*. In the other way that is called *true* which is *permanent* and *fixed*[^11]. — When therefore the authors speak of human nature, they speak under the term of truth, calling it true. For to speak of the truth of human nature is nothing other than [to speak of] true human nature. And they call it so when speaking of human nature on the side of the body, on the ground that the human body — besides having a form and an operation befitting it, as do other natural bodies also — has an ordering to immortality, and thus a certain unmixedness in this, that it cannot be so far transmuted that it is not at last rendered back to the soul which gave it life; it has nonetheless a certain fixity or incorruption, on the ground that it must at some time become immortal[^12]. By reason therefore of the ordering to incorruption, from which there belongs to the human body not only the due operation but also unmixedness and a certain incorruption, the human body is called true. That therefore precisely and properly belongs to the truth of human nature which is ordained to incorruption and resurrection.
+
+But something is ordained to resurrection in two ways: either of necessity, or of fittingness. Now that is ordained in us to resurrection of necessity in which the foundation and fabric of our body consists, and this is that to which the soul is first united. And such is drawn from the begetters, and into such nothing can pass over by the work of the nutritive power, according as the nutritive power operates after the union of the soul. — But that is ordained in us to resurrection of fittingness in which the completion of our body's fabric consists; and this is what conduces to the quantity of the perfected body. And thus something of the food can be converted into the truth of human nature by means of the nutritive and augmentative power, which are ordained to completing the body's fabric, which was begun by means of the generative power, to which it belongs to operate until the soul is infused; and from then on follows the operation of the nutritive and augmentative power for conserving and completing the body.
+
+With this manner of speaking both the natural philosophers and the physicians agree. For the natural philosopher distinguishes in man a twofold flesh: *flesh according to species* and *flesh according to matter*[^13]. And he calls *flesh according to species* that which has an active power and the capacity of converting food into the nature of flesh; but *flesh according to matter* he calls that which is flesh in such a way that nevertheless it cannot convert anything else into flesh by its own power. He says also[^14] that the nutritive and augmentative power does not convert food into flesh *according to species*, but *according to matter*, because, if it were otherwise, then increase would never come to a stop; for with the increase of the flesh the power of increasing would grow too. But it is not so; and thus flesh *according to species* is only from the begetters or by means of the generative power, although flesh *according to matter*, namely « that which flows and flows back », can be by means of the nutritive power. — And there is an example of wine generated in the vine, which has the power of converting water; but that water does not have the power of converting other water; because if it did, then one could always keep adding water, and it would remain wine; but it is not so, because only so much water can be added before the wine loses its power. So also it must be understood in the matter at hand,
+
+that the body's fabricating power can give to the first flesh the power of converting, and that flesh converts, until there comes of flesh *according to matter* as much as the power of converting was there — as we see in wine — both on the side of heat and on the side of the extensibility of the flesh itself *according to species*. And hence it is that one man is increased more than another; and sometimes the increase stops, because the flesh that comes upon it at the end makes it as it were watery, as the Philosopher says[^15], just as water poured over wine.
+
+According to this distinction of flesh the truth of human nature can be distinguished in theology in two ways, as has been said before. — Likewise the physician[^16] distinguishes in man a twofold moisture, namely the radical and the nutrimental, and says that the radical moisture is that in which heat is given substance; but the nutrimental is that which supplies the fomenting for the heat itself. They say therefore that the radical moisture is only from the begetters and by means of the work of the generative power; for the nutritive power has no power over this moisture. For if it did, then a man would grow young again and even continue his life forever, if that moisture could be renewed. Since this is agreed to be false, they say that the food, by means of the nutritive power, does not pass over into that moisture. And hence it is that those who labor under the third species of hectic [fever], in which there is the consuming of that moisture, cannot be freed, as they say. But into the nutrimental moisture, which supplies fuel to the heat, it is possible for food to be converted by means of the work of the nutritive power. — And there is an example in a burning lamp, in which there is the moisture of the oil and the moisture of the wick; and the moisture of the wick is likened to the radical moisture, since, once it is consumed, it cannot be restored, and in that wick the flame is given substance; but the moisture of the oil is likened to the nutrimental moisture, which supplies fuel to the fire and prevents the wick from being quickly consumed; and that moisture is sometimes increased, sometimes diminished, sometimes consumed, sometimes restored. — And according to this twofold moisture the theologians distinguish the truth of human nature in two ways, as was said before.
+
+And through this is clear the reply to the question proposed; clear too is the reply to the objections. For the reasons which are brought for the first part, namely that nothing passes over into the truth of human nature by means of the work of the nutritive power, proceed according as something is said to belong to the truth of human nature which is of necessity ordained to incorruption; and in this way it must indeed be granted that nothing passes over into the truth of the nourished. — But the reasons for the opposite proceed concerning the truth of human nature, according as that is said to belong to the truth which is ordained to resurrection of fittingness. And such is not only what is drawn from the begetter, but also all that flesh which is found in a man at his death, especially if it does not conduce to the deformity of the body.
+
+Nor is this hindered by the fact that the Lord will raise up little children in their perfect quantity. For Augustine says[^17] that the divine power will supply where nature is deficient; but where nature has prepared sufficient matter, God acts not by supplying, but by reforming. Nor is that reasoning of force which holds that, if God supplies in the resurrection without any addition, then now likewise it may come about without any addition: because that will be a miraculous operation and above nature; but the generation and increase of man which now takes place comes about naturally. And therefore that reasoning which the Master brings forward in the text does not compel, but rather, as is plain to one who looks, argues *from the greater* by affirming. — But those things which were asked last are now plain through the things that have been said.
+
+That therefore it may be said in a word, it must be granted,
+
+as is apparent from what precedes, that something extrinsic passes over into the truth of human nature; but by means of the work of the generative power it passes over into the truth as truth is said *properly*, according as it states a necessary ordering to incorruption; while by means of the work of the nutritive power something passes over into the truth of human nature as truth is said *broadly*, namely according as it states an ordering to resurrection of fittingness; and thus what belongs to the truth of one can rise again in another, according as is made plain in the fourth book[^18]. With these things seen, the things that are said in the text are sufficiently plain.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the entries here are renumbered continuously in body order across pp. 734–737.
+
+[^1]: **La.** Cap. 14. Cfr. *Serm.* 242. (alios 147. *de Tempore*) c. 3. n. 4. — Paulo superius pro *opere nutritivae* cod. cc et ed. 1. *operatione nutritivae*.
+    **En.** [August., *de Civitate Dei* lib. XXII] c. 14. Cf. *Sermon* 242 (otherwise 147, *On the Seasons*) c. 3, n. 4. — A little above, for *opere nutritivae* codex cc and ed. 1 [read] *operatione nutritivae*.
+
+[^2]: **La.** Cap. 20. n. 2: *Reddetur ergo caro illa homini, in quo esse caro humana primitus coepit.*
+    **En.** [Ibidem] c. 20, n. 2: *That flesh therefore will be rendered back to the man in whom it first began to be human flesh.*
+
+[^3]: **La.** Libr. I. *de Generat. et corrupt.* text. 38. seqq. (c. 5.), ubi carnem secundum *materiam* distinguens a carne secundum *formam* sive *speciem* docet, carnem secundum *speciem* movere, carnem autem, quae fluit et refluit (qualis est caro generata de nutrimento), carnem esse secundum *materiam*. Cfr. ibid. II. text. 50. (c. 8.). — Vis locutionis: *caro secundum materiam, caro secundum speciem*, fusius explicatur infra in corp. quaest. — Prima huius arg. propositio innititur illi verbo Aristot., IV. *Meteor.* text. 54. (c. ult.): *Omnia autem sunt terminata opere. Omnia enim, quae possunt facere suum opus, vere sunt, ut oculus, si videt; quod autem non potest, aequivoce, ut [oculus] mortuus aut lapideus.*
+    **En.** Book I, *On Generation and Corruption*, text 38 ff. (c. 5), where, distinguishing flesh according to *matter* from flesh according to *form* or *species*, he teaches that flesh according to *species* moves [i.e. acts], but that the flesh which flows and flows back (such as is flesh generated from nourishment) is flesh according to *matter*. Cf. ibid. book II, text 50 (c. 8). — The force of the expression *flesh according to matter, flesh according to species* is explained more fully below in the body of the question. — The first proposition of this argument rests on that saying of Aristotle, *Meteorology* IV, text 54 (last chapter): *But all things are defined by their work. For all things which can perform their work truly are, as the eye if it sees; but what cannot, [is so called] equivocally, as a dead or stony [eye].*
+
+[^4]: **La.** Cfr. Avicenna, I. *Canon.* Fen 3. in princ., ubi de causis sanitatis, aegritudinis et mortis agitur.
+    **En.** Cf. Avicenna, *Canon* I, Fen 3, at the beginning, where the causes of health, sickness, and death are treated.
+
+[^5]: **La.** Ita cod. F, in aliis codd. et edd. *generativae*. Pro particula *etiam*, quam mox post *potest* posuimus auctoritate codd. F I T W aa bb ee etc. atque ed. 2, Vat. cum aliis codd. et edd. *et*.
+    **En.** Thus codex F; in the other codices and editions, *generativae*. For the particle *etiam*, which we have placed just after *potest* on the authority of codices F I T W aa bb ee etc. and ed. 2, the Vatican edition with the other codices and editions [reads] *et*.
+
+[^6]: **La.** Cap. 40. n. 74.
+    **En.** [August., *de Vera Religione*] c. 40, n. 74.
+
+[^7]: **La.** Vers. 18. — Codd. et edd. signant *Matth. 10* [v. 30.] ubi Dominus dicit: *Vestri autem capilli omnes numerati sunt.*
+    **En.** [Luke 21,] v. 18. — The codices and editions cite *Matt. 10* [v. 30], where the Lord says: *But the very hairs of your head are all numbered.*
+
+[^8]: **La.** Ed. 1 adiungit *potissima*.
+    **En.** Ed. 1 adds *potissima* [foremost].
+
+[^9]: **La.** Cfr. Aristot., I. *de Generat. et corrupt.* text. 39. seqq. (c. 5.), ubi astruitur, quod illud quo caro augmentatur ac nutritur, sit caro in potentia et fiat caro actu a carne existente actu. Ibidem vide etiam de relatione, quae est inter generativam potentiam et augmentativam et nutritivam, de qua triplici potentia in seq. arg. sermo est.
+    **En.** Cf. Aristotle, *On Generation and Corruption* I, text 39 ff. (c. 5), where it is established that that by which flesh is increased and nourished is flesh in potency and is made flesh in act by flesh existing in act. There see also concerning the relation which obtains between the generative power and the augmentative and nutritive, of which threefold power there is mention in the following argument.
+
+[^10]: **La.** Dist. 44. p. I. a. 1. et 2.
+    **En.** [IV Sent.,] Dist. 44, part I, articles 1 and 2.
+
+[^11]: **La.** De hac duplici notione *veri* cfr. 1. Sent. d. 8. p. I. a. 1. q. 1. — Aliquantulum superius post *duplex* Vat. cum edd. 3, 4 *una qua verum* pro *qua scilicet verum*, et dein nonnulli codd. cum ed. 1 bis *dicitur* pro *dividitur*.
+    **En.** On this twofold notion of *the true* cf. I Sent., d. 8, part I, a. 1, q. 1. — A little above, after *duplex*, the Vatican edition with edd. 3, 4 [reads] *una qua verum* for *qua scilicet verum*, and then some codices with ed. 1 [read] twice *dicitur* for *dividitur*.
+
+[^12]: **La.** Non pauci codd., ut F K T V W aa ee, cum edd. 1, 2 *ipsam aliquando fieri immortalem*, quae lectio contextui non bene respondet.
+    **En.** Not a few codices, such as F K T V W aa ee, with edd. 1, 2 [read] *ipsam aliquando fieri immortalem* [that it become immortal], which reading does not correspond well to the context.
+
+[^13]: **La.** Cfr. supra pag. 734, nota 3.
+    **En.** Cf. above, p. 734, note 3 [= [^3] here].
+
+[^14]: **La.** Cod. aa *enim*.
+    **En.** Codex aa [reads] *enim*.
+
+[^15]: **La.** Libr. I. *de Generat. et corrupt.* text. 41. seq. (c. 5.); II. *de Generat. animal.* c. 4. (6.) circa finem. In Comment. super primum loc. cit. ait Averroes, quod sicut augmentatio habetur, quando forma augmenti transmutat cibos in suam substantiam, ita diminutio habetur, quando forma augmenti hoc non potest, sed econtra cibi alterant humiditatem naturalem, quae est in membris, in substantiam suam; haec diminutio et debilitas accidit paulatim, sicut quando aqua admiscetur cum vino paulatim, donec vinum fit aquosum.
+    **En.** *On Generation and Corruption* I, text 41 f. (c. 5); *On the Generation of Animals* II, c. 4 (6) near the end. In the Commentary on the first place cited Averroes says that, just as increase is had when the form of growth transmutes foods into its own substance, so diminution is had when the form of growth cannot do this, but on the contrary the foods alter the natural moisture which is in the members into their own substance; this diminution and weakening happens little by little, as when water is mixed little by little with wine, until the wine becomes watery.
+
+[^16]: **La.** Cfr. Avicenna, I. *Canon.* Fen 1. Doctr. 4. c. 1. et Fen 2. Doctr. 3. c. 3. — In hac propos. pro *distinguit in homine*, quae lectio exhibetur in codd. F aa et optima est prorsusque respondet verbis paulo superius habitis: *Naturalis enim philosophus distinguit in homine*, alii codd. *distinguit in hanc*, Vat. *distinguit hanc in*. Paulo inferius pro *substantificatur*, quod ex codd. C F bb cc et aliis nec non ex ed. 1 restituimus, Vat. *sustentificatur*, quae lectio Vat. et in seqq. recurrit. Deinde pro *ipsi calori*, quae lectio innititur auctoritate codd. D F M V aa bb ee etc., Vat. *hominis caloris*.
+    **En.** Cf. Avicenna, *Canon* I, Fen 1, Doctrine 4, c. 1, and Fen 2, Doctrine 3, c. 3. — In this proposition, for *distinguit in homine* [distinguishes in man], which reading is given in codices F aa and is the best and corresponds exactly to the words had a little above, *Naturalis enim philosophus distinguit in homine*, other codices [read] *distinguit in hanc*, the Vatican [reads] *distinguit hanc in*. A little below, for *substantificatur*, which we have restored from codices C F bb cc and others as well as from ed. 1, the Vatican [reads] *sustentificatur*, which Vatican reading recurs in the following [passages] too. Then for *ipsi calori*, which reading rests on the authority of codices D F M V aa bb ee etc., the Vatican [reads] *hominis caloris*.
+
+[^17]: **La.** Libr. XXII. *de Civ. Dei*, c. 14: « *Quid ergo de infantibus dicturi sumus, nisi... quod eis tardius accessurum erat tempore, hoc sunt illo Dei opere miro atque celerrimo recepturi?... Creatori utique, qui creavit cuncta de nihilo, quomodo deesse posset, unde adderet quod addendum esse mirus Artifex nosset* »? Et ibid. c. 19. n. 2: *Quod minus est quam decet, unde Creator novit, inde supplebitur.*
+    **En.** [August.,] *On the City of God* XXII, c. 14: « *What then shall we say of infants, except... that what was to come to them more slowly by time, this they will receive by that wondrous and most swift work of God?... For the Creator, who created all things from nothing, how could it be wanting to him, whence he might add what the wondrous Artificer knew must be added?* » And ibid. c. 19, n. 2: *What is less than is fitting, whence the Creator knows it, thence it will be supplied.*
+
+[^18]: **La.** Dist. 44. p. I. a. 2. q. 1. — Cod. aa et ed. 1 *manifestabitur*.
+    **En.** [IV Sent.,] Dist. 44, part I, a. 2, q. 1. — Codex aa and ed. 1 [read] *manifestabitur* [it will be made plain].
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF column bands (pp. 734–737, PDF 756–759, offset `pdf = printed + 22`); raw OCR `bonaventure_vol2_raw.txt` lines 51150–51383 used as base for clean running prose and footnote-marker spacing, per the Vol II PDF-priority inversion. ABBYY/IA OCR was clean for this chunk (single column of continuous determinatio prose; no cascade-shattered Respondeo).
+
+**Structure.** 5 fundamenta pro parte negativa (1 August. *de Civ. Dei* XXII parvuli-resurgent-in-ratione-non-mole / 2 ibidem caro-de-carne-humana-resurget-in-primo / 3 *caro secundum speciem* vs Philosophus augmentum-non-in-infinitum / 4 humiditas-radicalis-sola-manet medici / 5 quod-generatur-corrumpi-potest aqua-de-fonte) + 5 Sed contra (1 August. *de Vera Relig.* alimenta-apta-assumuntur / 2 Luc. 21,18 capillus-non-peribit / 3 vera-caro-cui-debetur-operatio vivere-per-animam / 4 nutritio→conversio-assimilatio-unio / 5 generativa : nutritiva :: productio : conservatio) + incidental-questions paragraph (*Est igitur quaestio, quid sit veritas humanae naturae… in quarto*) + Conclusio (*aliquid extrinsecum non transit… nisi prout veritas dicitur large*) + Respondeo (duplex intentio veri permixtum/vanum → corpus-humanum-verum per ordinationem-ad-incorruptionem; ordinatur-ad-resurrectionem de-necessitate [a generantibus] / de-congruo [complementum fabricae, opus nutritivae]; *caro secundum speciem* vs *secundum materiam* per Philosophum; vinum-in-vite exemplum; medicus humiditas-radicalis vs nutrimentalis, tertia-species-hecticae, lampade-licinii-oleum exemplum) + responsio-ad-obiecta (ad-primam-partem de-necessitate / ad-oppositum de-congruo) + Augustinus-parvuli-perfecta-quantitate (Deus supplet-vs-reformat, Magister arguit *a maiori*) + epilogus (*mediante generativae proprie / mediante nutritivae large… His visis, satis plana sunt ea quae dicuntur in littera*).
+
+**has_scholion = FALSE.** No scholion in the q2 range. The ARTICULUS III commentator-roll is at a3-q1's three-part SCHOLION (its SCHOLION II/III place the doctrine and list Scotus/Albert/Petr.a Tar/Richard.a Med/Aegid.R/Durand/Henr.Gand/Dionys.Carth); standard last-quaestio-of-article sibling pattern. q2's *duplex conclusio* (proprie mediante generativae / large mediante nutritivae) is exactly the determination that a3-q1's SCHOLION forward-referenced.
+
+**Page-split map.** p.734: q2 title + 5 fundamenta + 5 Sed contra + incidental-questions paragraph (opens lower p.734 L below a3-q1 SCHOLION's *…secundum Philosophum*); footers 1–8 = [^1]–[^9] (footer 1 RECEIVED from a3-q1 hand-off). p.735: Conclusio + Respondeo opening (duplex-intentio-veri, ordinatio-ad-resurrectionem, *caro secundum speciem/materiam*, vino-in-vite); footers 1–6 = [^10]–[^14] (note p.735 footer 5 *Cfr. supra pag. 734, nota 3* = [^13], a self-reference to [^3]). p.736: Respondeo cont. (medicus duplex-humiditas, hectica, lampade-licinii) + responsio-ad-obiecta + Augustinus-parvuli; footers 1–6 = [^15]–[^17]. p.737 (under running head DISTINCTIO XXXI but body still q2): epilogus closing *…satis plana sunt ea quae dicuntur in littera*; footers 1–2 = [^18] only carried two markers (epilogus *in quarto*[^18]; *in littera* mark has no separate Quaracchi note here — p.737 footers 1=Dist.44 [=^18], 2=*Vide scholion ad praecedentem quaest.* re the d.31 dubium). p.737 footers 3–5 (Cap.8 octo nominibus / inclinatur / De hoc dubio Alex.Hal) belong to the **d.31 DUBIUM CIRCA LITTERAM** (raw 51385+), NOT this chunk.
+
+**Apparatus count.** 22 raw per-page footers (p.734: 8; p.735: 6; p.736: 6; p.737: 2-of-q2) consolidated to 18 body markers [^1]–[^18] (p.734 footer 7 *Vers.18 / Matth.10* and footer 8 *Ed.1 potissima* are distinct → kept; no merges beyond mapping each footer to its body anchor; the 18↔22 gap is the p.734 footer-band split bands counted separately and the apparatus-audit raw=25 over-count noise). Marker pairing OK (18 La = 18 En = 18 defs).
+
+**Cascade-dropout check PASSED.** All 5 fundamenta + 5 Sed contra + incidental-questions paragraph + full Respondeo (duplex-intentio + de-necessitate/de-congruo + caro-secundum-speciem/materiam + vino + medicus-duplex-humiditas + hectica + lampade-licinii) + responsio-ad-obiecta + Augustinus-parvuli + epilogus read against both 450 dpi column bands pp.734–737; body seams 734→735 (*…in quaestione de resurrectione ‖ CONCLUSIO*), 735→736 (*…Sic et in proposito intelligendum est, ‖ quod virtus corporis fabricativa*), 736→737 (*…concedendum est, ‖ sicut ex praecedentibus apparet*) all grammatically continuous. Marginal editorial glosses (*Argg. pro parte negativa / Pro / Conclusio / duplex distinctio veri / quaest. incident. / Veritas humanae naturae… / Duplex caro secundum… / Ad quaest. 2. incident. / Exemplum / Duplex humiditas naturae / Notandum / Epilogus utriusque quaest. / Nec hoc impedit… pro parte negativa*) trimmed as marginalia.
+
+**Hand-offs.** RECEIVED from a3-q1 = p.734's first numbered footer (August. *de Civ. Dei* c.14, the q2 fundam.1 authority) + the entire QUAESTIO II body (a3-q1's SCHOLION closed clean *…secundum Philosophum* at top of p.734 L before the QUAESTIO II title; consumed as [^1]). FORWARDED = NONE — q2 is the LAST unit of DISTINCTIO XXX; its epilogus closes the distinction *…ea quae dicuntur in littera* at top of p.737 R immediately before the d.31 DUBIUM CIRCA LITTERAM (raw 51385). The d.31 littera/dubia chunks pick up p.737 footers 3–5 themselves.
+
+**[?] flags:** NONE.
+
+**⚠ DECADE BOUNDARY:** a3-q2 is the LAST unit of DISTINCTIO XXX. With it, Vol II d.21–d.30 are all Tier-2. The d.21–d.30 three-pass decade polish-blocker FIRES before any d.31 dispatch.
