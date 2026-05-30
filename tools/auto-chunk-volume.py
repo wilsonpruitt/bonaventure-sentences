@@ -54,9 +54,12 @@ RE_COMMENTARIUS = re.compile(
 RE_DIVISIO = re.compile(
     # DIV[IT]SIO TE[.]?XTUS — covers DIVISIO, DIVTSIO; TEXTUS clean or OCR'd
     # TE.XTUS / TEXTIIS (II→U) / TKXTUS (E→K, d.43 line 34161).
-    # Anchored to line-start with anti-DIST lookahead so running heads like
-    # 'DIST. XVII. P. 1. DIVISIO TEXTIIS.' (line 52600) don't false-positive.
-    r"^[ \t\f]*(?!DIST[.\s])(?:.*\b)?D[IL]V[ITJ]SIO\s+T[EK]\.?XT[UI]{1,3}[S8]",
+    # Whole-line anti-DIST lookahead so running heads like 'DIST. XVII. P. 1.
+    # DIVISIO TEXTIIS.' (line 52600) and 'DIST. XXXIII. DIVISIO TEXTUS. 781'
+    # (d.33 line 54437) don't false-positive. The previous start-only
+    # `(?!DIST[.\s])` was defeated by backtracking through the `.*\b` prefix,
+    # which let running heads match → the divisio-dup2 files.
+    r"^(?!.*\bD[Ii1lL]ST[.\s])[ \t\f]*(?:.*\b)?D[IL]V[ITJ]SIO\s+T[EK]\.?XT[UI]{1,3}[S8]",
     re.MULTILINE,
 )
 RE_QUAESTIO = re.compile(
@@ -69,7 +72,7 @@ RE_QUAESTIO = re.compile(
     #   gl!.\ESTIO   (d.17 p1-q3 — Q→gl, U→l!, line 53715)
     # Match strategy: alternation of (Q|O|gl)-led prefix + tolerant middle + STIO/STK)
     # ending. The roman/digit number after is captured as group(1).
-    r"^[ \t\f]*['`]?(?:"                                   # optional stray apostrophe (OCR noise, e.g. d.40 a4-q1 line 29733)
+    r"^[ \t\f]*[\^'`.,*]{0,2}(?:"                          # optional stray junk glyph(s): apostrophe, caret (d.36 a2-q1 '^QUAESTIO I.' line 59026), etc.
         r"[QO][UIJij1lL][A^.flUVWFEIJij\\n]{0,6}"        # Q/O-led with tolerant middle (incl U from 'QIUESTIO', V from 'QU.VESTIO')
         r"(?:S[Tnr][I1li]?[O0]|STK\))"                    # ending: STIO clean; S[Tnr][I1li]?[O0] covers OCR T→n/r and dropped-I or lowercase-i variants; STK) for d.18 q5
         r"|gl[!.\\]+\\?ESTIO"                             # gl!.\ESTIO style
@@ -78,7 +81,9 @@ RE_QUAESTIO = re.compile(
 )
 RE_ARTICULUS = re.compile(
     # ARTI[CG]ULUS + roman / digit-garbled roman / UNICUS variants (UiNICUS, UNIGUS, UiNIGUS)
-    r"^[ \t\f]*ARTI[CGI]U[L1I]U[S8]\s+([IVXLC1]+|U[Ii]?N[IL]?[CG]U[S8])\b",
+    # Number group also accepts lowercase OCR garbles: 'in' = III (d.32 'ARTICULUS in.'
+    # line 53577 — the miss that mislabeled ART III as a2 → -dup2 files), 'il'/'ill' = II/III.
+    r"^[ \t\f]*ARTI[CGI]U[L1I]U[S8]\s+([IVXLC1]+|[iI][nlIL]{1,2}|U[Ii]?N[IL]?[CG]U[S8])\b",
     re.MULTILINE,
 )
 RE_DUBIA = re.compile(
@@ -95,7 +100,11 @@ RE_DUBIA = re.compile(
     #       (`vni.` = OCR for VIII). They live inside a single dubia chunk and are
     #       not separately matched here, but if a future tool needs to enumerate
     #       sub-dubia for audit, account for these variants.
-    r"^[ \t\f]*(?!DIST[.\s])"
+    # Whole-line anti-DIST lookahead: running heads 'DIST. XXXV. DUBIA. 837'
+    # (d.35 lines 58242/58392) were matching via the `.*\bDUBIA` alternation
+    # because the old start-only `(?!DIST[.\s])` was defeated by backtracking
+    # → the dubia-dup2/dup3 files.
+    r"^(?!.*\bD[Ii1lL]ST[.\s])[ \t\f]*"
     r"(?:.*\bD[UHL][IH]?B[IL][A\\]\b|D[ruUlL][bB][.\s]+[I1L]\b[^IVX])",
     re.MULTILINE,
 )
@@ -141,6 +150,11 @@ def parse_roman(s: str) -> int | None:
     # (observed at d.23 a1-q3 line 70027: 'QIUESTIO m.'). Quaestio numbers in
     # the Sentences never exceed ~10, so M=1000 is never legitimate here.
     if s == "M":
+        return 3
+    # OCR garble: small-caps "III." scanned as "in" (three serif-I's read i-n),
+    # observed at d.32 'ARTICULUS in.' (line 53577). Article numbers never reach
+    # values where IN could be a legitimate roman numeral.
+    if s == "IN":
         return 3
     # UNICUS OCR variants: UiNICUS, UNIGUS, UiNIGUS, UINICUS etc. all mean UNICUS (=1).
     if re.fullmatch(r"U[I]?N[IL]?[CG]U[S8]", s):
@@ -426,8 +440,15 @@ def chunk_distinction(
     articulus_markers = [m for m in sub if m.kind == "articulus"]
     dubia_lines = [m.line for m in sub if m.kind == "dubia"]
 
-    # If there's a commentarius, everything before it is littera
-    littera_end = commentarius_lines[0] - 1 if commentarius_lines else None
+    # Littera = everything before the commentary proper. Prefer the COMMENTARIUS
+    # marker; fall back to the DIVISIO TEXTUS line when the COMMENTARIUS header is
+    # OCR-mangled past matching (e.g. d.34 'COMMENTAPJUS', d.40), and finally to
+    # the first articulus/quaestio. Without this fallback the littera is silently
+    # dropped whenever the COMMENTARIUS glyph is garbled (the d.34/d.40 miss).
+    littera_boundary = commentarius_lines or divisio_lines
+    if not littera_boundary:
+        littera_boundary = sorted(m.line for m in sub if m.kind in ("articulus", "quaestio"))
+    littera_end = littera_boundary[0] - 1 if littera_boundary else None
     if littera_end and littera_end > start + 5:
         lp = labeled_prefix(start)
         chunks.append(Chunk(f"{lp}-littera", start, littera_end, "littera", dist_num, pars=pars_for_line(start)))
@@ -565,6 +586,7 @@ def main():
     ap.add_argument("--dry-run", action="store_true", help="Show boundaries only, don't write files")
     ap.add_argument("--force", action="store_true", help="Overwrite existing chunk files")
     ap.add_argument("--min-dist", type=int, default=None, help="Ignore distinctions below this number (filters ghost tail matches)")
+    ap.add_argument("--max-dist", type=int, default=None, help="Ignore distinctions above this number (scope a regen to a range, protecting other distinctions' work)")
     args = ap.parse_args()
 
     vol = args.volume
@@ -593,6 +615,11 @@ def main():
         dist_ranges = [r for r in dist_ranges if r[0] >= args.min_dist]
         if before != len(dist_ranges):
             print(f"Filtered {before - len(dist_ranges)} distinctions below d.{args.min_dist}")
+    if args.max_dist is not None:
+        before = len(dist_ranges)
+        dist_ranges = [r for r in dist_ranges if r[0] <= args.max_dist]
+        if before != len(dist_ranges):
+            print(f"Filtered {before - len(dist_ranges)} distinctions above d.{args.max_dist}")
     print(f"Found {len(dist_ranges)} distinctions")
 
     all_chunks = []
