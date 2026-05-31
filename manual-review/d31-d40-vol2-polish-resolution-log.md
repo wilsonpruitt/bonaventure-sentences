@@ -229,3 +229,37 @@ Independent cross-chunk boundary integrity sweep for d.37 and d.38 (2026-05-31).
 - **Smoke build** `node site/scripts/build-content.mjs`: `2 book(s), 875 questions, 839 translated` — parses cleanly.
 
 No chunks edited this pass — all 15 seams CLEAN. The d.37–d.38 `## Notes` page-split / footer-map / cascade-dropout blocks are internally consistent (hand-off chains match across every adjacent pair) and the three PDF-spot-checked seams confirmed the Notes accurate to the printed footer text verbatim. Distinct from the d.31–d.36 sweep (which found dropped footers): the d.37 (sessions 37) and d.38 chunks were built under the strict per-subagent dispatch with explicit hand-off documentation, and no footer-accounting defect surfaced.
+
+## Pass 3 (boundary sweep) — d.39–d.40
+
+Independent cross-chunk boundary integrity sweep for d.39 and d.40 — the final segment of the d.31–d.40 decade (2026-05-31). Method: full marker-pairing audit across all 18 d.39/d.40 chunks (La == En == defs, 0 orphans); grammatical-continuity read of every adjacent seam (prior-chunk Latin tail vs receiving-chunk Latin head, watching for the cascade-merge broken-tail signature); PDF/OCR cross-check of the highest-risk footer-split seams (p.911 re-confirm of the Pass-1 recovery; p.896 d.39 side). **All 14 seams CLEAN — no fixes made.** Prior agents' notes that `d39-a2-q1` was footer-corrected in Pass 1 and `d39-divisio` anchors fixed in Pass 2 were re-confirmed internally consistent.
+
+| Seam (shared printed p.) | Prior → next | Status |
+|---|---|---|
+| p.896 | d38-dubia → d39-littera (d.39 side) | CLEAN (DISTINCTIO XXXIX opens fresh "Samaritanus enim…"; littera claims its p.896/897 NOTAE AD LIBR. footers [^1]–[^9]; d.38-dubia footers stay with d38-dubia per the Pass-3 d.37–d.38 sweep) |
+| p.897 | d39-littera → d39-divisio | CLEAN (littera closes Cap.III "…in quantum malum vult, malus est." before COMMENTARIUS IN DIST. XXXIX; divisio opens fresh; Pass-2 anchor fix `[^1][^5]` in divisio head verified internally paired) |
+| p.898 | d39-divisio → d39-a1-q1 | CLEAN (divisio ends with TRACTATIO listing three questions; a1-q1 opens "Circa primum sic proceditur" continuous; ARTICULUS I/QUAESTIO I fresh) |
+| p.905 | d39-a1-q2 → d39-a1-q3 | CLEAN (q2 closes scholion III; q3 opens QUAESTIO III "Tertio quaeritur de conscientia quantum ad effectum ligationis") |
+| p.908 | d39-a1-q3 → d39-a2-q1 | CLEAN (q3 closes scholion II; ARTICULUS II "De synderesi" opens fresh with TRACTATIO; p.908 break sits inside q3 scholion I, footer accounted) |
+| **p.911** | **d39-a2-q1 → d39-a2-q2** | **CLEAN — re-confirmed vs Pass-1 footer recovery**: a2-q1 holds the article-level scholion (I–II) + its 16 La-only variant defs [^1]–[^16] through the p.911 break; a2-q2 opens QUAESTIO II "Utrum synderesis per peccatum exstingui possit" with a fresh per-page footer sequence [^1]–[^16] (Quaracchi restarts numbering per printed page). No footer collision, none dropped — the Pass-1 24→27 marker correction stands |
+| p.913 | d39-a2-q2 → d39-a2-q3 | CLEAN (q2 closes reply 4 "…tam conscientia quam synderesis[^16]" — no own scholion, which is expected per a2-q1 scholion II "Duae sequentes quaestiones … non habent difficultatem"; q3 opens QUAESTIO III fresh) |
+| p.915 | d39-a2-q3 → d39-dubia | CLEAN (q3 closes reply 6 "…in abutente."; DUBIA CIRCA LITTERAM/Dub.I opens fresh; p.915 break inside dubia Dub.I body, accounted) |
+| p.917 | d39-dubia → d40-littera | CLEAN (d39-dubia closes "…patent quae dicuntur in littera in hac parte."; DISTINCTIO XL / Cap. Unicum opens fresh) |
+| p.919 | d40-littera → d40-divisio | CLEAN (littera closes the Augustine *quasi/velut* discussion; COMMENTARIUS IN DIST. XL opens fresh; p.919 break sits inside littera tail then divisio reopens p.919) |
+| p.922 | d40-a1-q1 → d40-a1-q2 | CLEAN (q1 closes scholion II; q2 opens QUAESTIO II "Utrum quantum quis intendit, tantum faciat" mid-p.922 with own fresh footers) |
+| p.924 | d40-a1-q2 → d40-a1-q3 | CLEAN (q2 closes replies Ad 3,4; q3 opens QUAESTIO III "Utrum intentio absque bonis operibus sufficiat…") |
+| p.926 | d40-a1-q3 → d40-a2-q1 | CLEAN (q3 closes its Abelard/Council-of-Sens scholion; ARTICULUS II "De bonitate, quam opera superaddunt…" opens fresh with TRACTATIO folded into a2-q1) |
+| p.933 | d40-a2-q3 → d40-dubia | CLEAN (q3 closes reply 6 "…Ex his patet responsio ad illud quod ultimo quaerebatur[^18]."; DUBIA CIRCA LITTERAM/Dub.I opens fresh; p.933 footer hand-off n.3 *Vide scholion* → dubia [^1] matches the resume-file hand-off, none dropped) |
+
+### Verification
+- **Marker pairing**, all 18 d.39–d.40 chunks: La == En == defs, 0 orphans. (`d39-a2-q1`'s 16 defs are La-only Quaracchi textual-variant notes — a pre-existing Pass-1 editorial choice, not a boundary defect; La/En body anchors still pair [^1]–[^16] cleanly.)
+- **`audit-paraphrase --volume 2 --min-d 39 --max-d 40`:** 18 chunks, 0 critical / 0 high.
+- **`audit-headers --volume 2 --min-d 39 --max-d 40`:** no LOSS flags (d.39 +1/+2/+2, d.40 +1/+2/+3 — all positive, expected Vol II).
+- **`audit-apparatus-count --volume 2 --min-d 39 --max-d 40`:** 0 SUSPECT flags; +diffs within the Vol II two-column cascade-footer triage band (max +14).
+- **Smoke build** `node site/scripts/build-content.mjs`: `2 book(s), 875 questions, 839 translated` — parses cleanly.
+
+No chunks edited this pass — all 14 seams CLEAN. Every receiving chunk's opening sentence is grammatically continuous with the prior chunk's close (no cascade-merge broken tail anywhere), and shared-page footers are fully accounted for across each adjacent pair, with the p.911 split re-confirmed against the Pass-1 footer recovery and the p.933 → d40-dubia hand-off matched both sides.
+
+## Decade gate CLOSED
+
+The **d.31–d.40 three-pass decade polish-blocker is COMPLETE** (2026-05-31): Pass 1 (`[?]`-flag resolution, 600 dpi), Pass 2 (full-corpus style/formatting audit), and Pass 3 (cross-chunk boundary integrity sweep, 450 dpi column bands — d.31–d.38 swept by prior agents, 3 dropped footnotes found+fixed in d.31–d.36, d.37–d.38 clean; d.39–d.40 swept here, all 14 seams CLEAN) all close clean. **d.41 translation work is now UNBLOCKED.** Next action: `bon-sent-II-d41-littera` (DISTINCTIO XLI at raw line 64950).
