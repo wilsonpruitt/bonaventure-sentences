@@ -1,15 +1,21 @@
-# Next session — **`bon-sent-II-d36-littera` DONE (Tier-2) → next is `bon-sent-II-d36-divisio`** (2026-05-30 — `bon-sent-II-d36-littera`, commit `62098b4`; Littera Magistri for DISTINCTIO XXXVI, Cap. I–VI + Epilogus, **verified 6 chapters** at 450 dpi, range raw **58468–58642**, **printed pp. 840–842** (PDF 862–864, offset +22), **22 apparatus entries** (p.840 f1–10, p.841 f1–9, p.842 f1–3; one-to-one, no folds), **has_scholion=FALSE**, opens DISTINCTIO XXXVI.
+# Next session — **`bon-sent-II-d36-divisio` DONE (Tier-2) → next is `bon-sent-II-d36-a1-q1`** (2026-05-30 — `bon-sent-II-d36-divisio`, commit `3f3b946`; COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM for DISTINCTIO XXXVI, range raw **58643–58686**, **printed p.842** (PDF 864, offset +22), **1 apparatus entry** (NOTAE AD COMMENTARIUM note 1 at *movet quaestionem¹*; text footers 1–3 belong to d36-littera), **has_scholion=FALSE**.
 
-> ## ★ NEXT ACTION = dispatch `bon-sent-II-d36-divisio`
+> ## ★ NEXT ACTION = dispatch `bon-sent-II-d36-a1-q1`
 >
-> **COMMENTARIUS / DIVISIO TEXTUS / TRACTATIO QUAESTIONUM for DISTINCTIO XXXVI.** **Range:** `COMMENTARIUS IN DISTINCTIONEM XXXVI` raw **58643** → ends immediately before `ARTICULUS I` / `QUAESTIO I` (raw ~58687/58691). **Printed page: begins p.842** (PDF 864, offset +22). The COMMENTARIUS body BEGINS on the **lower band of the p.842 L-col**, directly below where the d36-littera Epilogus closed (the littera occupies p.842 L-col TOP + the whole R-col). DIVISIO TEXTUS + TRACTATIO QUAESTIONUM (*Primo quaeritur de comparatione culpae ad poenam secundum identitatem; Secundo… secundum inseparabilitatem; Tertio quaeritur de comparatione poenae ad di-…*) verified present at the p.842 L-2 band. Continues onto p.843+ (verify span via running heads). Template = `vol2/bon-sent-II-d35-divisio.md` (or `d36`'s sibling). **HAND-OFF IN: NONE** — the d36-littera claimed all three p.842 footers (de Libero Arbitrio, *bonas*, *operis*), all anchoring in littera Cap. VI + Epilogus; the COMMENTARIUS on p.842 carries no footer yet. The divisio's first footer is the first footer that anchors in COMMENTARIUS/DIVISIO body (read p.842 L-col footer band — it may hold a footer 1 anchoring the COMMENTARIUS opener if present, else the first footer is on p.843).
+> **ARTICULUS I, QUAESTIO I of DISTINCTIO XXXVI: *Utrum unum peccatum sit alterius peccati poena.*** **Range:** `ARTICULUS I` raw **58687** / `QUAESTIO I` raw **58691** → ends immediately before `QUAESTIO II` raw **58856**. Article-opener title: *De comparatione culpae ad poenam secundum identitatem.* Q1 body begins *Circa primum sic proceditur et quaeritur, utrum peccatum sit poena peccati. Et quod sic, videtur.* **Printed page: begins p.843** (PDF 865, offset +22; running head `DIST. XXXVI. ART. I. QUAEST. I. 843`). Verify span via running heads; apparatus audit says **18 raw footers** for this q. Template = a sibling Vol II aN-qN. **HAND-OFF IN: NONE** — d36-divisio fully consumed the p.842 commentary footers (1 entry); a1-q1's footers begin on p.843.
 >
-> **d.36 FULL COMMENTARY STRUCTURE (verified in raw, offsets relative to raw 58468 base; raw line-order is TWO-COLUMN INTERLEAVED — pin the true article/quaestio sequence + topics at 450 dpi before building each q):**
-> - `COMMENTARIUS IN DISTINCTIONEM XXXVI` raw **58643**; `DIVISIO TEXTUS` follows; `TRACTATIO QUAESTIONUM` raw **58668**.
-> - `ARTICULUS I` raw **58687** → `QUAESTIO I` raw **58691**; `QUAESTIO II` raw **58856**.
-> - `ARTICULUS II` (`ARTICULUS IL`) raw **59017** → `QUAESTIO I` raw **59026** (garbled `^QUAESTIO I.`); `QUAESTIO II` raw **59454**.
-> - `ARTICULUS III` raw **59326** → `QUAESTIO I` raw **59335**.  *(NB: the ART III header at 59326 precedes the ART II q2 at 59454 in raw line order — two-column interleave; verify true sequence at 450 dpi.)*
-> - The TRACTATIO QUAESTIONUM (read at p.842 L-2) lists at least three comparisons: (1) culpae ad poenam *secundum identitatem*; (2) culpae ad poenam *secundum inseparabilitatem*; (3) poenae ad di[gnitatem / aliud — text cut at column edge]. PIN the full question list at 450 dpi.
+> **d.36 FULL COMMENTARY STRUCTURE — DEFINITIVE (verified 2026-05-30 from TRACTATIO QUAESTIONUM + each ARTICULUS opener at 450 dpi): 3 articles, 2 quaestiones each = 6 quaestiones total.**
+> - `COMMENTARIUS IN DISTINCTIONEM XXXVI` raw **58643**; `DIVISIO TEXTUS`; `TRACTATIO QUAESTIONUM` raw **58668**. (All in d36-divisio, DONE.)
+> - **ART I** *De comparatione culpae ad poenam secundum identitatem* raw **58687**:
+>   - Q1 raw **58691** → **58855** — *Utrum unum peccatum sit alterius peccati poena* (NEXT).
+>   - Q2 raw **58856** → **59016** — *Utrum passiones animae sint poenae tantum, an poenae simul et peccata.*
+> - **ART II** *De comparatione culpae ad poenam secundum inseparabilitatem* raw **59017** (opener `Et circa hoc quaeruntur duo`):
+>   - Q1 raw **59026** — *Utrum in aliquo contingat ponere culpam sine poena subsequente.*
+>   - Q2 — *Utrum contingat in aliquo reperire poenam sine merito praecedentis culpae* (header location to confirm; opener lists 2 qq).
+> - **ART III** *De comparatione poenae ad divinae iustitiae aequitatem* raw **59326** (opener `Et circa hoc quaeruntur duo`):
+>   - Q1 raw **59335** — *Utrum aliqua poena sit a Deo.*
+>   - Q2 raw **59454** — *Utrum omnis poena sit a Deo.*
+> - *(NB: raw line order is two-column interleaved — ART III header at 59326 precedes ART II's Q2 at 59454 in raw order. The +1 article structure and per-article 2-question counts above are confirmed from the article openers' `quaeruntur duo` + the TRACTATIO; still pin each q's exact end-boundary at 450 dpi when building.)*
 > - `DUBIA CIRCA LITTERAM MAGISTRI` raw **59619**; running head `DIST. XXXVI. DUBIA.` raw ~59641; closes before `DISTINCTIO XXXVII.` raw **59789** / `Cap. I` raw 59791.
 > - So d.36 likely = **3 art (a1: 2q; a2: 2q; a3: 2q?) + littera + divisio + dubia.** CONFIRM article/quaestio count at 450 dpi per the standard alignment check (Primo/Secundo/… quaeritur) — auto-chunker has known q-swap bugs.
 >
