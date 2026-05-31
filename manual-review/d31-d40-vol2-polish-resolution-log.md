@@ -196,3 +196,36 @@ Both anchored in La + En bodies; apparatus entries added with English; the Notes
 - **Smoke build** `node site/scripts/build-content.mjs`: `2 book(s), 875 questions, 839 translated` — parses cleanly.
 
 Chunks edited this pass: `d35-a2-q2` (+ `content.json`). All other 21 seams CLEAN — the d.34–d.36 chunks' `## Notes` page-split / footer-map / cascade-dropout-check blocks were verified internally consistent (hand-off chains match across adjacent chunks) and spot-checked against the 450 dpi PDF (p.812 footer split confirmed exactly).
+
+---
+
+## Pass 3 (boundary sweep) — d.37–d.38
+
+Independent cross-chunk boundary integrity sweep for d.37 and d.38 (2026-05-31). Method: full marker-pairing audit across all 18 chunks (La == En == defs, 0 orphans); exhaustive cross-check of every `## Notes` hand-off chain (every FORWARDED matches the receiving chunk's RECEIVED, with explicit printed-footer-number → marker maps); 450 dpi PDF column-band verification of three representative/highest-risk seams. All seams CLEAN — no fixes made.
+
+| Seam (shared printed p.) | Prior → next | Status |
+|---|---|---|
+| p.859 | d36-dubia → d37-littera (d.37 side) | CLEAN (DISTINCTIO XXXVII opens fresh; littera claims all 14 p.859/860 NOTAE AD LIBR. footers [^1]–[^14]; d.36 COMMENTARIUS notes stay with d36-divisio) |
+| p.860 | d37-littera → d37-divisio | CLEAN (littera closes "…Deus mortem non fecit." before COMMENTARIUS; p.860 littera footers 1–5 → littera [^10]–[^14]; NOTAE AD COMMENTARIUM note 1 → divisio [^1]) |
+| p.861 | d37-divisio → d37-a1-q1 | CLEAN (divisio ends before ARTICULUS I/QUAESTIO I; a1-q1 receives all p.861 footers fresh [^1]–[^6]) |
+| p.864 | d37-a1-q1 → d37-a1-q2 | CLEAN (q1 scholion fills p.864 top, claims no footer; entire p.864 footer block 1–5 → q2 [^1]–[^5], hand-off matched) |
+| p.871 | d37-a2-q1 → d37-a2-q2 | CLEAN (article scholion held by q1; p.871 lower-col footers 1–5 → q2 [^1]–[^5]) |
+| p.873 | d37-a2-q2 → d37-a2-q3 | CLEAN (typeset running-head QUAEST.III is a header error — body is q2 tail; p.873 footers 1–5 → q2 [^13]–[^17], footers 6–8 → q3; q3 footer-5 *Vide scholion* resolved by q3 agent per q2's forwarded note) |
+| **p.876** | **d37-a2-q3 → d37-dubia** | **CLEAN — PDF-verified**: q3 closes "…Et sic patent / quaesita[^18]" (grammatically continuous across p.875/876 break; [^18] is a p.875 footer); DUBIA CIRCA LITTERAM/Dub.I opens fresh; all p.876 dubia footers (n.1 Glossa-Rom → dubia [^1] onward) owned by dubia — no collision, none dropped |
+| p.878 | d37-dubia → d38-littera | CLEAN (dubia closes before DISTINCTIO XXXVIII; p.878 NOTAE AD LIBR. footers → d.38 littera [^1]–[^5]; d.37-commentary `Hic dub.1.2.3.` note excluded) |
+| p.880 | d38-littera → d38-divisio | CLEAN (Cap.IV closes before COMMENTARIUS; littera `nulli`-note → littera [^10]; NOTAE AD COMMENTARIUM block → divisio [^1]–[^4]; no duplication) |
+| p.883 | d38-a1-q1 → d38-a1-q2 | CLEAN (q1 article-scholion consumes p.883 R-col footer band; q2 opens mid-p.883 with own fresh footers 1–3 → [^1]–[^3]) |
+| p.885 | d38-a1-q2 → d38-a1-q3 | CLEAN (p.885 footers 1–8 → q2 [^18]–[^25]; footers 9–10 → q3 [^1]–[^2], hand-off matched both sides) |
+| p.889 | d38-a1-q4 → d38-a2-q1 | CLEAN (shared p.889 footer band: q4 owns nn.1–4 [^11]–[^14], a2-q1 owns n.5 [^1]; ARTICULUS II opener folded into a2-q1 per §5) |
+| p.891 | d38-a2-q1 → d38-a2-q2 | CLEAN (article scholion held by a2-q1; shared p.891 footers: q1 owns nn.1–3 [^13]–[^15], q2 owns nn.4–5 [^1]–[^2], hand-off matched) |
+| **p.894** | **d38-a2-q2 → d38-dubia** | **CLEAN — PDF-verified**: L-col footer band shows exactly 6 footers; nn.1–4 (Dist.25; Vat.affectiva; Ps.69; Vide scholion) → q2 [^20]–[^23]; nn.5–6 (Isai.64/I Cor.2,9; Vide supra pag.194 — *sed voluntas…est absens*) → dubia [^1]/[^2]. q2 ends "Deus in adiutorium meum intende", Dub.I opens "In parte ista sunt quaestiones circa litteram" — continuous, no footer dropped |
+| **p.896** | **d38-dubia → d39-littera (d.38 side)** | **CLEAN — PDF-verified**: Dub.IV closes "…probabiles et veri, si recte fuerint intellecti[^19]" (= printed p.896 footer n.2) before DISTINCTIO XXXIX; both p.896 dubia footers (nn.1–2 → [^18]/[^19]) accounted for; the p.896 NOTAE AD LIBR. block (nn.1–3) and R-col footer n.4 (*admittendum* variant) correctly excluded as d.39 material |
+
+### Verification
+- **Marker pairing**, all 18 d.37–d.38 chunks: La == En == defs, 0 orphans. (`d38-divisio` has a `[^10]` token inside its `## Notes` prose only — an explanatory cross-reference to the littera's note, not a body anchor; Latin/English/Apparatus all pair [^1]–[^4] cleanly.)
+- **`audit-paraphrase --volume 2 --min-d 37 --max-d 38`:** 18 chunks, 0 critical / 0 high.
+- **`audit-headers --volume 2 --min-d 37 --max-d 38`:** no LOSS flags (all positive diffs — expected Vol II).
+- **`audit-apparatus-count --volume 2 --min-d 37 --max-d 38`:** 0 SUSPECT flags; all +diffs within the Vol II two-column cascade-footer triage band (max +13).
+- **Smoke build** `node site/scripts/build-content.mjs`: `2 book(s), 875 questions, 839 translated` — parses cleanly.
+
+No chunks edited this pass — all 15 seams CLEAN. The d.37–d.38 `## Notes` page-split / footer-map / cascade-dropout blocks are internally consistent (hand-off chains match across every adjacent pair) and the three PDF-spot-checked seams confirmed the Notes accurate to the printed footer text verbatim. Distinct from the d.31–d.36 sweep (which found dropped footers): the d.37 (sessions 37) and d.38 chunks were built under the strict per-subagent dispatch with explicit hand-off documentation, and no footer-accounting defect surfaced.
