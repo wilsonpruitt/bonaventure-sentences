@@ -4,393 +4,259 @@ volume: 2
 book: 2
 distinctio: 35
 type: dubia
-line_start: 58179
-line_end: 58545
-word_count_latin: 5038
-transcription_status: "auto-chunked 2026-05-30"
+title_la: "Dubia circa litteram Magistri (Distinctio XXXV)"
+title_en: "Doubts concerning the text of the Master (Distinction XXXV)"
+printed_pages: [836, 837, 838, 839]
+pdf_pages: [858, 859, 860, 861]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 836–839"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450dpi PDF (printed pp. 836–839, PDF 858–861) cross-checked against IA djvu OCR (raw 58179–58467), literal English, full apparatus from printed-page footers (27 entries), DUBIA CIRCA LITTERAM closing DISTINCTIO XXXV (verified DUB count = 6, I–VI) (2026-05-30)"
 format_version: 1
 ---
 
-# bon-sent-II-d35-dubia
+# Distinctio XXXV — Dubia circa litteram Magistri
+## *Doubts concerning the text of the Master*
+
+---
 
 ## Latin
+<!-- page 836 -->
 
-DUBIA CIRCA LITTER.\M MAGISTRI.
+### Dubia circa litteram Magistri.
 
+**Dub. I.** In parte ista sunt quaestiones circa litteram, et primo quaeritur de illa definitione, quam primo ponit: *Peccatum est dictum, vel factum, vel concupitum contra legem Dei.* Videtur enim dicere falsum. Aut enim hoc intelligitur *disiunctive*, aut *subdisiunctive*[^1]. Si *subdisiunctive*: ergo membra non possunt simul stare: ergo nullum idem peccatum est concupitum et factum; sed hoc falsum est, quia omne peccatum factum est concupitum[^2]. — Item, videtur, quod non conveniat *omni* peccato, quia peccatum omissionis nec est factum nec concupitum nec dictum: ergo videtur, quod male sit assignata, quia non convenit omni peccato mortali actuali.
 
-                             DUB.
-                                                                       sionis, dicenduin, quod omne peccatum, sicut vult Noiandm
-                                                                       Augustinus^ radicem habet amorem malum; et ideo,
-     In parte ista, sutit quaestiones circa litteram, et               quamvis in peccato oraissionis sit privalio alicuius
-primo quaeritur de illa definitione, quam primo po-                    actus principalis; quia tainen illa privatio ortum ha-
-nit: Peccatum esl diclum, vel factum, vel concupi-                     bet ex amore alicuius boni corarautabilis — quod
-tum conlra legem Dei. Videtur enim dicere falsum.                      patet, quia aliquis non vult ad matutinas surgere,
-Aut enim hoc intelligitur disiunctive , aut subdisiun-                 quia vult in iecto quiescere — ideo peccatum omis-
-ctiue\ Si subdisiunctiue : ergo menibra non possunl                    sionis cadit sub hoc membro, quod dicitur concu-
-simul stare: ergo nullura idem peccatum est concu-
-pitum et factum; sed hoc falsum est, quia omne                                                     DUB.   II.
-peccatum factum est concupitum -. — Item, videtur,
-quod non conveniat omni peccato, quia peccatum                          pitumItera^. qiiaeritur de hoc quod dicit: Peccatum est
-omissionis nec est factum nec concupitum nec di-                       voluntas retinendi, vel assequendi quod iustitia ve-
-ctum: ergo videtur, quod male sit assignata, quia                      tat. Aliquod enim est peccatum, in quo aliquis nec
-non convenit omni peccato mortali actuali.                             vult aliquid retinere nec aliquid assequi, irarao po-
-     RE.SP0NDEO : Dicendum, quod praedicta dentiitio                   tius iiitendit destruere, sicut est in ira et odio et
-est peccati actualis et mortalis. Pro ' hoc, quod e^l                  invidia. — Itera, velle assequi quod iustitia vetat,
-                                                                       vel retinere, hoc est avaritiae vel rapinae: ergo onine
-peccati actualis, dicitur, quod esl dictum, vel fa-
-ctum, vel concupitum, secundum triplicem actum ,                       peccatura erit rapina.
-videlicet potentiae interpretatiuae et operativae et                         Est igitur quaestio, cum peccata ita bene sint
-                                                                                                                                cidens.
-affeclivae, quae omnes sunt potentiae quodam modo                      contra alias virlutes, sicut contra iuslitiam: quare
-motivae. Secundum quod est mortale, dicitur, quod                                                                                           Qaaestio
-                                                                       magis definitur peccatuiu per oppositum ' ad iusti-
-est contra legem Dei; et sic convenit omni et soli.                    tiam, quara per oppositum ad virtutes alias ?
-Omni , qnia onme peccatum actuale aut est concu-                            Respomdeo: Dicendum , quod Augustinus ' defi-
-pitura tantura, aut est concupilum et exterius con-                    nit peccatum per iilud quod est radix omnis raali;
-suminatum, et hoc vel per verbura, vel per opus.                       hoc autera est amor hbidinosus. Et quoniara oranis
-Soli vero convenit, quia non convenit veniali, cuin                    araor libidinosus vel est rei habitae, vel habendae,
-non sit contra legem Dei'; nec originali, cum non                      et hoc praeter ordineni et regulani legis aeternae;
-sit dictum, vel factum. — Ad illud quod quaeritur,                     ideo dicit, quod peccatum est voluntas assequendi,
-ulrum vel ieneatur ibi disiunctive, vel suhdisiun-                     vel retinendi quod iustitia vetat, ita quod describit
-ctive; dicendum , quod disiunctive; sed ullimum                        amorem inordinatum, qui est radix oranis peccati,
-raembrum intelligendum est cum praecisione; reli-                      et per id ad quod est, et per id contra quod est.
-qua vero minirae. Unde sensus est, quod omne pec-                           Quod ergo obiicitur de ira et odio, dicendura,
-catum aut est dictura et concupitum. aut factum et                     qut)d etsi ibi sit detestatio consequens, est tamen ibi
-concupitum, aut concupitum lantum.                                     delectatio antecedens, et propterea continetur sub
-                                                                       hac assigiiatione.
-      Ad illud vero quod obiicitui- de peccato omis-
+**Respondeo:** Dicendum, quod praedicta definitio est peccati *actualis* et *mortalis.* Pro hoc, quod est peccati *actualis*, dicitur, quod est *dictum, vel factum, vel concupitum*, secundum triplicem actum, videlicet potentiae *interpretativae* et *operativae* et *affectivae*, quae omnes sunt potentiae quodam modo motivae. Secundum quod est *mortale*, dicitur, quod est *contra legem Dei*; et sic convenit omni et soli. Omni, quia omne peccatum actuale aut est concupitum tantum, aut est concupitum et exterius consummatum, et hoc vel per verbum, vel per opus. Soli vero convenit, quia non convenit veniali, cum non sit *contra legem Dei*[^3]; nec originali, cum non sit *dictum, vel factum.* — Ad illud quod quaeritur, utrum vel teneatur ibi *disiunctive*, vel *subdisiunctive*; dicendum, quod *disiunctive*; sed ultimum membrum intelligendum est cum praecisione; reliqua vero minime. Unde sensus est, quod omne peccatum aut est dictum et concupitum, aut factum et concupitum, aut concupitum tantum.
 
+Ad illud vero quod obiicitur de peccato omissionis, dicendum, quod omne peccatum, sicut vult Augustinus[^4], radicem habet amorem malum; et ideo, quamvis in peccato omissionis sit privatio alicuius actus principalis; quia tamen illa privatio ortum habet ex amore alicuius boni commutabilis — quod patet, quia aliquis non vult ad matutinas surgere, quia vult in lecto quiescere — ideo peccatum omissionis cadit sub hoc membro, quod dicitur *concupitum*[^5].
 
-      ' Prisrian., XVI. (Jrammal. c. I: Disiunclivae [coniunclio-            3 Codd. I 0 R .\ Z bb dd et alii cum od. I Per, Vat. cum
-nes] sunt quae, quamvis dictiones coniiingant, sensum tamen            edd. 3, 4 Sccundmn.
-disiunctum liajient, et alteram (luideni rcm esse, alteram vero              * Cfr. infra d. 42. a. 2, q. 1. in cor)).
-non esse significant, ut ve, vel, aut... [v. g.] vel dies est, vel           5 Libr. X.XII. de Civ. Dei, c. 22. n. 1. Cfr. ibid. XIV. c.
-nox... Subdisiimctivae sunt quai! voce disiunetivai'um utrumque        7. n. 2; Enarrat. in Ps. 9. n. IS. et in Ps. 79. n. 13; de Gratia
-tamen esse significant vel simul , ut copulaiivae, vcl fliscreie.      Christi contra Pelag. ct Caelest. c. 20. n. 21.
-Simul, ut Terentius in Eunucho: « Vel rex semper maximas                     s Vide supra d. o. a. I. q. I. ad I. — De hoc dubio cfr.
-mihi gratias agebat», pro: eliam rex... Discreie, utrumque ta-         Ale.\. Hal, S. p. II. q. 107. m. I. et q, 114. m. 1; B. Albert.,
-men esse signiflcat, ut: lota die vel legit iste, vel cogitat; si-     hic a. 3; S. p. II. tr. 18. q. 114. m. 3; S. Thom., hic a. 2;
-gnificat enim et legere et eogitare, sed non simul utrmnquc            Petr. a Tar., hic q. I. a. I. ct ciica lit. ; Bichard. a Med., hic
-facere, sed aliis horis legere, aliis cogilare etc. — Post Aul         circa lit.; .Egid. R., hic q. I. a. 1. Locis hic cilt. tanguntur
-enim hon Vat. ct edd. 3, 4 adiungunt quod est, vel. Mox pro            etiam dubia , quae subsequuntur.
-Si subdisiunctive cod. cc et ed. I perperam Si.disiimctive.                  ' Propter abbreviationem vocis opposiium, a librariis fa-
-      ' In cod. L a manu secunda, sed suppari adiectum est:            ctam, in nonnullis codd. pro ea legi posset opposiiionem, quam
-si disiunciive, ergo potest esse peccatum oris et operis sine          lcctionem cod. bb hic el paulo inferius praebet.
-peccato volunlatis, quod esi falsmn. Aliquanto inferius post                 s Libr. dc Duabus Animabus, c. II. n. 13, unde textus
- nssignata cod. T supplet (lefutitio.                                  huius dubii dcpromptus osl.
-                                                                DIST. XXXV. DUBIA.                                                             837
+**Dub. II.** Item quaeritur de hoc quod dicit: *Peccatum est voluntas retinendi, vel assequendi quod iustitia vetat.* Aliquod enim est peccatum, in quo aliquis nec vult aliquid retinere nec aliquid assequi, immo potius intendit destruere, sicut est in ira et odio et invidia. — Item, velle assequi quod iustitia vetat, vel retinere, hoc est avaritiae vel rapinae: ergo omne peccatum erit rapina.
 
-               Ail illud qnod obiicilur, quod tuiic omne pec-                  tio enim culpahilitatis prirao et principaliter reperi-
-          catum erit rapina; dicendura, quod asseculio ibi stat                tur in peccato actuali raortali, et consequenter in
-          non solummodo pro cupiditate rerum teiTenarum,                       originali , et pjostremo in veniali ; et ideo notiflcatio-
-\dqnaesi. immo ellam cuiuslibet appetibilis: iuslitia yevo nm                  nes, qiiae dantur de peccato simpliciter, potissime
-DCidenlem.                         ' '      , . , .  .
-          lantum ibi stat , prout est carchnahs vn-tus . sed                   referuntur ad peccatuin actuale mortale, quod est
-          prout est virtus generahs , quae omnes vii-tutes                     peccalum simpliciter °.
-          complectitur, et cui omnia vilia opponuntur '.                             El per hoc patet responsio ad illa quae obiiciun-
-                                                                               tur. Nam ex hoc, quod illa tria genera peccatorum
-                                    DUB.   III.                                conveniunt in causa et in effectu, non concluditur,
-                                                                               quod peccatura dicatur de eis univoce, sed analo-
-                 Item quaeritur de hoc quod dicit: In utraque                  gice, quia in his non cominunicant aequaliter, sed
-           assignatione de actuali peccato agitur et mortaU,                   secundum prius et posterius.
-           non veniaU. Videtur enim, quod male fiat assi-                           Et ideo cum quaeritur, utrum possit una com- ^a qnaesi.
-           gnatio peccati. Si enim recta descriptio vel assignatio             munis ratio
-                                                                               „ ,„ ■    ,.
-                                                                                             assignari,■ dicendum,
-                                                                                                -         T   1
-                                                                                                                    quod,  potest una incidentem.
-           debeat convenire omni descripto-;etpraedictae defini-               assignari ratio, quae conveniat eis secnndum prius
-           liones non conveniant omni peccato: ergo non recte                  et posterius , et ita secundum communitatem ana-
-           assignantur. Si tu dicas, quod peccaium non dicitur
-                                                                               logice ', utpote si dicatur, quod peccatura est meri-
-           ile eis univoce , sed aequivoce; contra : quae con-                 tum poenae vel privatio boni. — Ad illud ergo quod
-           veniunt in causa et effectu, habent univocationem^.                 obiicitur, quod nulla est proportio; dicendum, quod
-           Sed omne genus peccati ortum habet ex peccato                       etsi nulla est proporlio quantum ad commensura-
-           .\dae, tam originale quam actuale quara etiam ve-                   tionem quantitatis demeriti, est tamen proportio
-           niale; orania etiara genera peccatorum in hoc con-                  inter veniale et mortale secundura conshnilem com-
-           veniunt, quod animam reddunt dignam poena et                        parationem et ad originem et ad effectum conse-
-           privant ab ea aliquod bonum, quod est iustitia, vel
-           ad iuslitiam ordinatum : ergo videtur, quod de eis
-           univoce dicalur peccatum; et si hoc: ergo videtur,                  quentem '.                   DuB. IV.
-           quod nna ratio communis debeat assignari de pec-
-           cato, prout dicitur de his omnibus generibus.                             Item quaeritur de alia deflnitione Ambrosii ,
-                 Est igitur quaestio, utrum contingal unam cora-               quam ponit: Peccatum esl praevaricatio legis di-
-  iiio in- nuinem rationera assignare omni generi peccati ; hoc                vinae et caelestium inobecUentia mandatorum. Vi-
-           est quaerere, ulrum peccatum de eis dicatur uni-                    delur enim , quod haec ratio non conveniat omni
-           voce. Et si lu dicas, quod sic; in contrarium est,                  peccato. Quaedam enim, ut dicit .\ugustinus ', sunt
-           quia quae umvocantur in aliquo habent proportio-                    mala, quia prohihila ; quaedam prohibita , quia
-           iiera': sed mortalis et venialis nulla est proportio:               mala: ergo si nulla esset lex, nec aliqua praecepta
-           ergo mc univocatio. — Item, videtur falsum dicere,                  data, adhuc essent peccata: non ergo omne pecca-
-           cum dicit, quod praedictae assignationes non con-                   tum est praevaricatio legis etc. — Item, sicut obe-
-           veniunt peccato veniali. Veniale enim peccatura est                 dientia distingnitur ab ahis virtutibus, ita inobedien-
-           dictura, vel factura, vel concupitum , et contra legera             tia ab aliis vitiis: ergo raale definitur omne peccatum
-           Dei, sicut dicitur ad Romanos septimo ° super il-                   per inohedientiara. — Itena, ita peccat qui non obe-
-           hid: Non concupisces , Glossa: « Bona est lex, quae,                dit praelato, sicut qui non obedit Deo: ergo non
-           dum concupiscentiam prohibet, orania mala prohi-                    tantum est peccatum inobedientia caelestium prae-
-           bet»; ergo venialia prohibentur a lege Dei, sunt                    ceptorura, sed etiara terrenorum.
-           igitur contra legera Dei : ergo praedicta ratio conve-                    Respondeo: Dicenduin, quod lex aliquando ac- lcs accipi-
-           nit veniali.
-                 Respondeo: Dicendura, quod peccatum, prout                            stricte pro
-                                                                               cipitur prout
-                                                                               large,                                         et legem tef. °'''"^''
-                                                                                                                       data; aliquando
-                                                                                                             legemvelnaturae
-                                                                                                    lege scripta
-                                                                                              comprehendit
-           dicitur de originali, actuali mortali et veniali, nec               Scripturae et legem gratiae. El in praedicta notiflca-
-           dicilur omnino univoce nec dicitur oranino aequi-                   tione lex accipitur large.
-           voce, sed quasi raedio raodo, scilicet analogice. Ra-                    Ad illud quod obiicitur de obedientia, dicen-
+Est igitur quaestio, cum peccata ita bene sint contra alias virtutes, sicut contra iustitiam: quare magis definitur peccatum per oppositum[^6] ad iustitiam, quam per oppositum ad virtutes alias?
 
+**Respondeo:** Dicendum, quod Augustinus[^7] definit peccatum per illud quod est radix omnis mali; hoc autem est amor libidinosus. Et quoniam omnis amor libidinosus vel est rei habitae, vel habendae, et hoc praeter ordinem et regulam legis aeternae; ideo dicit, quod peccatum est voluntas assequendi, vel retinendi quod iustitia vetat, ita quod describit amorem inordinatum, qui est radix omnis peccati, et per *id ad quod* est, et per *id contra quod* est.
 
-             ' Iluius dubii sokuionem dant eliam S. Thom., Iiic circa               * Cfr. quae Aristot., I. Elhic. c. 6 , de analogis profert, quae
-       lit.; Petr. a Tar. et Richard. a Med., hic circa lit. ; /Egid. R.,      describens docet, quod ab uno sint, vel ad unum conferantur et
-       hic dub. lit. 1.                                                        quandam proportionem inter se habeant.
-             ' Secundum Arislol., VI. Topic. c. 1 . Vide supra pag. 828,            ' Vat. cum edd. 3, 4 amloyiae. Mo.\ pro vel cod. cc et
-       nota 2.                                                                 ed. I et.
-             3 Cfr. Aristot., VII. Topic. c. 1. et tom. I. pag. 51, nola 11.        8 Cfr. Alex. Hal., S. p. II. q. 108. m. 4; B. Albert., hic a.
-             * Aristot., I. Topic. o. 13: Nam univocum omne, compa-            1. seq. ; S. p. II. tr. 18. q. 114. m. 4. a. 1. partic. 1.
-       r.ibile. Cfr. VII. Physic. text. 24. seqq. (c. 4.).                          ' l.ibr. I. de Lib. Arb. c. 3. n. 6: Non sane ideo [adulte-
-             5 Vers. 7. De Glossa adiuncta vide supra pag. 721, nota 2.        rium] malum est, quia vetatur lege, sed ideo vetatur lege,
-       — Paulo superius Vat. et edd. 3, 4 omiltunt el anle contra.             quia malum est.
-         838                                                   SENTENTIi^RUM LIB. 11.
-                                                                                ter et varie definitur a Sanctis? Quaeritur etiam,
- obeaie-siadum, quod obedientia dupliciter accipitur: uno rao-
-                                                                                penes quid illae defmilinnes distinguantur.
-pSr''"'^^, prout dicit observantiani mandatorum modo,        et sic
-                                                       Dei, prout
-         est communis oranibus virtutibus; alio                                      Respondeo : Dicendum , quod de peccato est lo-
-         specialiter considerat rationem praecepti , et sic est                 qui formaliter, et est loqui materialiter, scilicet ]lici
-                                                                                                                                        Peccatiradicfd<
-                                                                                ^                           p      ,   ,      ,     ■ 1'°""' «^ ^'
-         virtus divisa ab aliis, quia potissime habet usum                      ratione substrati. Et quia, formaliler loquendo, pn-pi
-         suum in his quae ideo sunt bona, quia praecepta.                       vatio est, malerialiter vero loquendo substernit sibi
-         Et sic obedientia dupliciter accipilur, scilicet large et              actum; ideo aliquando definitur Tper privationem,
-         stricte, el in praedicta notiiicatione accipitur large.                aliquando per positionem, quia quaedam sunl for-
-         — Ad illud quod obiicitur de obedientia praelati,                      males definitiones , quaedam materiales; et utroque Defmitif
-                                                                                                                                       nes forraaUi
-         dicendum, quod totum pendet ex mandato Dei, quia                       modo multipliciter.
-                                                                                     Si enim consideremus peccatum, secundum quod
-         Deus mandat, quod obediatur homini '.
-                                     DuD. V.                                    dicit privationem, hoc. potest esse tripliciter: aut in s^t iripiic'i
-                                                                                quantum simpliciter ' dicit recessum a bono, aut in
-                                                                                quantum dicit recessum a rectitudine naturae, aut
-              Item quaeritur de hoc quod dicit: Non cotisi-                     in quantum dicit recessum ab omnis boni comple-
-         stente peccato, virtus forlasse non esset. Videtur                     mento et perfectione.
-         enim falsnm dicere, quia, si non esset culpa, purior                                                           ^            "   cum 3 def
-                                                                                      Prirao modo sumitur definitio triplex ab Augu-         Moiasiji
-         esset caritas: ergo virtus perfectior et verior". Si tu                stino, quae omnes     idem  circumloqnun  tnr   diversis "'''«"•''"'s.
-         dicas, quod hoc non asserit, sed sub dubitatione di-                   verbis, quarum priraa sumitur in libro de Civitate
-         cit; contra: ita falsum dicit qui certum proponit ut
-                                                                                Dei*, et est haec: «Peccatum est absentia boni, ubi
-                               dubium asserit ut cerlum ''.
-                     sicut qui quod                                             debet esse». — Secunda, de libro de Vera Religione:
-          dubiumEt ,dicendum,         in illo verbo non ponitur                  «Peccatum non est appetitio naturarum malarum, sed
-    Rosp. nec significatur virtus non esse, non existente ma-                   desertio meliorum». — Tertia, de libro de Natura bo-
-          litia, sed hoc significatur, quod non ita appareret,                  ni: « Peccatum est corruptio modi, speciei et ordinis».
-          sicut nunc apparet; et ideo dicit: fortassis non esset,
-                                                                                      Secundo modo, scilicet prout peccatum dicit re- j-^J^"» -■
-          id est, non cognosceretur ita esse*.                                  cessum a rectitudine naturae, inveniuntur tres de-
-                                     DuB. VI.                                   finitiones, quae idem circumloquuntur, quaravis ali-
-                                                                                ter et aliter; quarura una est Damasceni ', quae est:
-                   Item quaeritur de hoc quod dicit in illo capi-                « Peccatum est ab eo quod est secundum naturam, in
-            tulo ^ : Potest etiam quaeri, quod peccatum est pri-                id quod est praeter naturam aversio». — Alia est
-            vatio sive corruptio boni. Si enim privatio et po-                  Anselmi: « Peccatum est carentia debitae iustitiae».
-            sitio opponuntur, et peccatum recte defmitum est                    — Tertia est Augustini : « Peccatura est defectus qui-
-            supra": peccatum est dictum, vel factum etc. : ergo                 dam a luce verilalis, naturam non periraens, sed
-            male deftnitur per privationera.                                    obscurans ».
-                   luxta hoc quaeritur, cum unius rei una sit de-                     Tertio vero modo, videlicet prout dicit recessum
-Quaesiiones finitio : uude est hoc, quod peccatum ita multiplici-               ab oninis boni complemento et perfectione, sic repe- .*'■"*"* '■
+Quod ergo obiicitur de ira et odio, dicendum, quod etsi ibi sit detestatio consequens, est tamen ibi delectatio antecedens, et propterea continetur sub hac assignatione.
 
+<!-- page 837 -->
+Ad illud quod obiicitur, quod tunc omne peccatum erit rapina; dicendum, quod *assecutio* ibi stat non solummodo pro cupiditate rerum terrenarum, immo etiam cuiuslibet appetibilis: *iustitia* vero non tantum ibi stat, prout est *cardinalis* virtus, sed prout est virtus *generalis*, quae omnes virtutes complectitur, et cui omnia vitia opponuntur[^8].
 
-               ' Cfr. infra d. 44. a. 2. et 3. .Ugid. R., hic dub. lit. 3. —    sed desortio meliorum. Cfr. etiam Conlra Secundinum Manich.
-         Paulo Isuperius plures codd., ut Iv bb cc ee, cum ed. I Et si-         c. 15, et XII. de Civ. Dei, c. 8. — Tertia definitio est in libro
-         cut pro Et sic.                    ° Cfr. supra d. 29. a. 3. q. 2.     de Natura boni, c. 4. — Pro m libro de Civitale Dei cod. \V
-              5 Vide August., de Mendacio, c. 3. n. 3.                          rectius de libro de Civilate Dei.
-              * Cfr. Petr. a Tar. el Richard. a Med., hic circa lit. ; ,Egid.         ' Libr. IV. de Fide ortliod. c. 20. Cfr. etiam. II. c. 30. et
-         R., dub. lit. 5.                                          5 Cap. 3.    Dialog. contra Manich., ubi pkires definitionum peccati, hic pro-
-               « Hic dub. I. — Quod unius rei una tantuni sit definitio,        positarum, explicantur. — Seq. Anselmi dcfinitio est in libro de
-         docet Arislot., VI. Topic. c. 3. (c. 4.).                              Conceptu 'virgin. et orig. pecc. c. 3. et 6; vide supra pag. 722,
-               ' Edd., excepta I , abstulerunt hinc voceni simpliciter eam-     nota 3. et pag. 816, nota 8. — Terlia Augustini definitio habe-
-         que posuerunt in tertio disiunctionis membro ante recessum             tur Enarrat. in Ps. S8. serm. I. n. 18, ubi inter alia haec:
-         ab omnis boni.                                                         (t Est quaedam origo fonsque virtutis, est quaedam radix sa-
-               8 Libr. XI. c. 9. et 22, ubi S. Doclor malum amissionem          pienliae, est quaedam, ut ita dicam, si et hoc dicendum est,
-         sive privationem boni definit. Dcinde c. 17. et XII. c. 1-9 osten-     regio incommutaBilis veritatis; ab hac anima recedens tenebra-
-         dit, maluni et vilium esse non posse, nisi in eis quibus adi-          tur, accedens illuminatur » etc. Ibid. in Ps. 7. n. 19; lam vero
-         mendo bonum noceat naturae. Cfr. etiam XIX. c. 13. n 2. —              tenebris significari peccata et in Prophela invenitur... et in
-         Secunda definilio est in libro de Vera Relig. c. 20. n. 38, ubi        Aposlolo dicente... Abiiciamu-s opera tenebrarum et induamur
-         exposito, quod nulla substantia mala sit, sed omnis substantia         arma lucis (Rom. 13, 12.). Non quod aliqua sit natura tene-
-         bona; quodque duple.v sit bonum, aeternum scil. et tempo-              brarum. Omnis enim natura, in quantum natura est, esse cogi-
-         rale etc, concluditur: <c Est igitur quoddam bonum, quod si            tur; esse autem ad lucem pertinet, non-esse ad tenebras. Qui
-         diligit anima ratinnalis, peccat, quia infra iilam ordinatum est;      ergo deserit eum, a qiio factus est, et inclinatur in id, unde
-         quare ipsum peccatum malum est, non ea substantia, quae                factus est, id est in nihilum, in hoc peccato tenebratur, et
-         peccando diligiiur. iNon ergo arbor illa malum est, quae in me-        tamen non penitus perit, sed in infimis ordinatur. Cfr. XL de
-          dio paradiso plantata scribilur , sed divini praecepti trangres-      Civ. Dei, c. 9. et XII. c. 9, ubi S. Auctor de peccato ange-
-         sio » etc. Similiter in libro de Natura boni, c. 34. et 36. ait:       lorum tractans docet, istos aversione a luce aeterna et incom-
-         Peccatum vel iniquilas non cst appetitio naturarum malariim,           mulabili factos esse tenebras. Cfr. et XIX. c. 13. n. 2.
-                                                                                                                                       839
-                                                       DIST. XXXV. DUBIA.
+**Dub. III.** Item quaeritur de hoc quod dicit: *In utraque assignatione de actuali peccato agitur et mortali, non veniali.* Videtur enim, quod male fiat assignatio peccati. Si enim recta descriptio vel assignatio debeat convenire omni descripto[^9]; et praedictae definitiones non conveniant omni peccato: ergo non recte assignantur. Si tu dicas, quod peccatum non dicitur de eis *univoce*, sed *aequivoce; contra*: quae conveniunt in causa et effectu, habent *univocationem*[^10]. Sed omne genus peccati ortum habet ex peccato Adae, tam originale quam actuale quam etiam veniale; omnia etiam genera peccatorum in hoc conveniunt, quod animam reddunt dignam poena et privant ab ea aliquod bonum, quod est iustitia, vel ad iustitiam ordinatum: ergo videtur, quod de eis *univoce* dicatur peccatum; et si hoc: ergo videtur, quod una ratio communis debeat assignari de peccato, prout dicitur de his omnibus generibus.
 
-  ritur triplex definitio, quae differt solo dicendi
-                                                                         nitio, quarum una sumla est a Basilio^: «Peccatum
-  modo, quarum prima sumitur ab Augustino in libro                       est dispositio animae contrarie se habens ad virtu-
-  de Libero Arbitrio': « Malum est aversio a l.)ono in-                  tem ». — Secunda ab Augustino, in libro de Duabus
-  commutabili ». — Altera vero ab eodem, in libro de                     Animabus: « Peccatum est voluntas retinendi, vel as-
- Vera Religione: « Peccatum est carere bonis incommu-                    sequendi quod iustitia vetat»; accipitur enim ibi iusli-
-  tabilibus, quilras fruendum est. » — Tertia sumitur                    tia generaliter, prout omnem virtutem complectitur.
-  ab eodem Augustino : « Peccatura est tenebra inlel-                    — Tertia ab eodem Augustino, in libro de Vera Reli-
-  ligibilis » ; hoc enim dictum est, in quantum privat                  .gione: « Peccatum est appetere quae Christus contem-
-  a visione lucis aeternae. — Hae omnes sunt notitica-                   psit, vel contemnere quae Christus appetiit ». Nam
-  tiones peccati quasi formales.                                         Christus fuit omnis virtutis speculum et exemplar.
-         Sunt et aliae notificationes , quae concernunt                        Tertio modo, scilicet per comparationem ad bo- "'"i''^ 3
-iaclum suhstratum. Et istae variantur secundum                           nwm, quod praetendit, simuiter invenitur triplex as-
-- triplicem considerationem peccati , quam habet sub                     signatio re conveniens, licet ditferat modo dicendi,
-  hac ratione: aut videlicet ad Deum, quem offendit;                     quarum una esl ab Augustino, in libro de Civitate
-  aut ad virtutem, quam excludit; aut ad bonum ut                        Dei^: " Peccatum est male uti bono». — Secunda
-  nunc, quod praetendit.                                                 vero, in libro de Trinitate: «Peccatum est uti fruen-
-         Si in comparatione ad Deum, quem offendit, sic                  dis et frui ulendis » ; et similiter in libro Octoginta
-• est triplex, quarum una accipilur ab Augustino, in                     trium Quaestionum. — Tertia est eiusdem Augusti-
-  libro contra Manichaeos ^ : « Peccatum esl in ve-                      ni, in libro de Libero Arbitrio : « Peccatum est,
-  ritatis praeceptis, vel in ipsa veritate errare ». —                    spreto incommutabili bono, rebus commutabilibus
-  Alia ab Ambrosio, in libro deParadiso: « Peccatum                       adhaerere ».
-  esl praevaricatio legis divinae et caelestium inobe-                         Fortassis autem et aliae notificationes ab istis duo- l'J.
-                                                                                                                                      Dori"''iones
-                                                                                                                                          et 20.
+Est igitur quaestio, utrum contingat unam communem rationem assignare omni generi peccati; hoc est quaerere, utrum peccatum de eis dicatur *univoce.* Et si tu dicas, quod sic; in contrarium est, quia quae univocantur in aliquo habent *proportionem*[^11]: sed mortalis et venialis nulla est proportio: ergo nec univocatio. — Item, videtur falsum dicere, cum dicit, quod praedictae assignationes non conveniunt peccato veniali. Veniale enim peccatum est dictum, vel factum, vel concupitum, et contra legem Dei, sicut dicitur ad Romanos septimo[^12] super illud: *Non concupisces*, Glossa: «Bona est lex, quae, dum concupiscentiam prohibet, omnia mala prohibet»; ergo venialia prohibentur a lege Dei, sunt igitur contra legem Dei: ergo praedicta ratio convenit veniali.
 
-  dientia praeceptorum ». — Tertia ab eodera Augu-                        devigmti poterunt reperiri. Nam duaealiae sunt, quae
-  stino, et habetur in littera: « Peccatum est dictum,                    videntur circumloqui peccatum secundum utramque
-  vel factum, vel concupitum contra legem Dei ».                          acceptionem, ut est illa: Peccatum est actus incidens
-         Secundo modo, scilicet per comparationem ad                     ex defectu boni '. Et illa: Peccatum est meritum poe-
-■ virtutem, quam excludit, sic reperitur triplex defi-                   nae aeternae. — Et sic in universo sunt viginti.
+**Respondeo:** Dicendum, quod peccatum, prout dicitur de originali, actuali mortali et veniali, nec dicitur omnino *univoce* nec dicitur omnino *aequivoce*, sed quasi *medio modo*, scilicet *analogice.* Ratio enim culpabilitatis primo et principaliter reperitur in peccato actuali mortali, et consequenter in originali, et postremo in veniali; et ideo notificationes, quae dantur de peccato *simpliciter*, potissime referuntur ad peccatum actuale mortale, quod est peccatum simpliciter.
 
-      ' Libi-. 1. c. 16. n. aS; II. c. 19. n. 33; III. c. I. n. 2. —     stituunt recipiendi, et textus origin. pro assequendi hiibel con-
- Secunda dpfinilio eruitur ex iis quae c. M-14 libri de Vcra             sequendi. — Tcrlia definitio scntentialiler habetur loc. cit. c. 16.
- Relfg. docenlur de vita eiusque opposilo, scil. niorte, quae vo-        n. 31, ubi S. Doetor ait: iNon enim ullum peccatum commitli.
-                                                                         polest, nisi aul dum appetunhir ea quae ille [Christus] con-
- catur JiCgM/M (quae vox, secundum' quod ipse inlerpretotur ,
- derivatur ab eo quod ne quidqiiam est), qua volunlas deficiendo         tempsit, aut fugiunuu' quac ille sustinuit.
- ab eo cuius essentia fruenda est, et inhaerendo inferioribus tendit            ^ Libr. XII. c. 8, ubi sententialiler habetur, S. Doctore
- ad nihilum, unde privalur bonis incommutabilibus etc. — Ter-            docente, amorem perversum et inordinalum , non res ipsas, vi-
- tla definitio, quae sentenlialiter potius quam verbotenus apud          tium constituere. Definitio ad verbuni habetur in libr. de Na-
- August. esse videtur, non ita intelligenda est, tanquam tenebrae        tura boni, c. 36; Malum est enim male uti bono. — Secunda
- peccati essent aliquid ()) $e et per se intclligibile — hoc enim        definitio innititur verbis X. de Trin., c. 10. n. 13. prolatis: « Nec
- Augustinus e.xpresse negat in Exposit. propos. ex Epist. ad Rom.,       est alia vita hominum vitiosa atque culpabilis, quani male utens
- jiropos. 43, et XII. deCiv. Dei,c. 7, afferens illud Ps. 81, 12:        et male fruens ». Siniilia occurrunt in libr. 83 Qq. q. 30; Omnis
- Delicta quis intelligit? — sed intelligenda est et in oppositione       itaque humana perversio esl, quod etiam vilium vocalur, fruen-
- ad tenebras corporales, et in comparatione ad subiectum, in             dis uti velle, alque utendis frui. — Tertia definitio oxprimitur,
- quo tenebrae sunt, scil. in substantiis intellectu praeditis. Nam       II. de Lib. Arb. c. 19. n. 53, his verbis: Sed malum sit aversio
- in Gen. ad lit. imperf. lib. c, 5. n. 24. seq. distinguit triplicem     eius ab incommutabili bono et conversio ad mulabilia bona. —
- lucem, scil. corporalem, sensualeni et rationalem, eique contra-         Paido superius pro re conveniens Vat. rei conveniens.
- rias triplices tenebras, scil. corporales, sensuales (cognilioni               ^ Hanc definitionem, quae Augustino tribuitur (cfr. infra lit.
- sensuum convenienles) et rationales, scil. ignorantia et peccataj        Magistri, d. XXXVII. c. 1.), Alex. Hal. (S. p. II. q. 107. m. 1.)
- quatenus afficiuiit superiorem partem rationis, quae Deo et aeter-       sic enucleat: Peccatum -dicitur actus incidens, non quia casua-
-  nis intendit et intelligentia vocatur. I. de Baptismo contra Donat.     liter incidat, sed quia non ex necessitale, sed conlingenter pro-
-  c. II. n. 16. autem ait: i Peccata enim tencbrae animarum               venit ex volunlate ; in voluntale enim est peccare, vel non pec-
-  suntn, et Enarrat. in Ps. 17. n. 29: i Nos enim peccatis nostris        care... Defectus boni dicitur dupliciter: vel ut notet causam
-  tenebrae sumus». De voce intelligibilis dicta de materia cfr. S.        ipsius actus contingentis ex voluntate (voluntas enim aliquando
-  Thom., S. I. q. 8S. a. 1. ad 2. — Paulo superius Val. et edd.           ex infirmitate, aliquando ex certa malitia peccat), vel potest de-
-  3, 4 differunt pro differt.                                             feclus boni dicere privalionem quandam boni, quod est virtus,
-        2 De Fide conlra Manich. c. 8: 1'eccare enim quid aliud           et secundum hoc haec praepositio ex non notat causam mate-
-  est, nisi in veritatis praeceptis, vel in ipsa non stare veritate?
-                                                                          rialem, sed causam formalem, ut sit sensus:' peccatum est actus
-  — Secunda definilio, ex Anibrosio allata, habetur in libro cit.         deformatus. — De Fide ad Petr. c. 21. n. 64. Fulgent. ait: Unde
-  c. 8. n. 39. — De tertia vide hic lit. Magistri, c. 1.                  constat, geminum esse crcaturae rationalis malum: unum, quo
-        3 Jn Hexaem. homil. 2. n. 4, ubi contra Manichaeos dicit:         voluntarie ipsa defecit a summo bono Creatore suo; alterum , quo
-  Quid igitur dicimus? Quod malum non est substantia vivens               invita punietur ignis aeterni supplicio; illud passura iuste,quia
-  aut animata, sed dispositio (Siifleai?) in anima contrarie se ha-       hoc admisit iniuste , et quae ordinem in se non servavit divi-
-   bens ad virtutem etc. — Pro Basilio codd. 1 N Z ee et alii An-         nae institutionis, ordinem divinae non effugiet ultionis. — De
-  selmo, cod. A Ambrosio. — Secunda definitio invenitur loc. cit.         hoc dubio cfr. Alex. Hal., S. p. II. q. 94. m. 2, q. 97. et q.
-   c. 11. n. 15. Vide hic lit. Magistri, c. 1. In hac secunda defi-       107. m. I ; B. Albert., hic a. 3. et 8; S. p. U. tr. 18. q. 114.
-   nitione edd. praeter I cum pluribus codd. pro retinendi sub-           m. 3; S. Thom., hic a. 2.
-            8/|()                                                         SIHNTRNTIiVRUM iJi!. ii.
+Et per hoc patet responsio ad illa quae obiiciuntur. Nam ex hoc, quod illa tria genera peccatorum conveniunt in causa et in effectu, non concluditur, quod peccatum dicatur de eis *univoce*, sed *analogice*, quia in his non communicant aequaliter, sed secundum prius et posterius.
 
+Et ideo cum quaeritur, utrum possit una communis ratio assignari, dicendum, quod potest una assignari ratio, quae conveniat eis secundum prius et posterius, et ita secundum communitatem *analogice*, utpote si dicatur, quod peccatum est meritum poenae vel privatio boni. — Ad illud ergo quod obiicitur, quod nulla est proportio; dicendum, quod etsi nulla est proportio quantum ad commensurationem quantitatis demeriti, est tamen proportio inter veniale et mortale secundum consimilem comparationem et ad originem et ad effectum consequentem.
 
-                                                                     DISTINCTIO XXXVI.
+**Dub. IV.** Item quaeritur de alia definitione Ambrosii, quam ponit: *Peccatum est praevaricatio legis divinae et caelestium inobedientia mandatorum.* Videtur enim, quod haec ratio non conveniat omni peccato. Quaedam enim, ut dicit Augustinus[^13], sunt *mala, quia prohibita*; quaedam *prohibita, quia mala*: ergo si nulla esset lex, nec aliqua praecepta data, adhuc essent peccata: non ergo omne peccatum est praevaricatio legis etc. — Item, sicut obedientia distinguitur ab aliis virtutibus, ita inobedientia ab aliis vitiis: ergo male definitur omne peccatum per inobedientiam. — Item, ita peccat qui non obedit praelato, sicut qui non obedit Deo: ergo non tantum est peccatum inobedientia caelestium praeceptorum, sed etiam terrenorum.
 
-                                              Cai'. 1.                                      terniis dicllui' pociia iiiiilorum, ipila ea cruciantui'; riec
-                                                                                            tamen ipse cruciatus malorum ignis est, sed per igncm
-                                                                                            (it iii homine. \\.:\per /mccatum corrumpitiir nytiira, ct
-            Quacdam aimtd mnl peccalim el ponna peccali, quae-
-                dam peccatmii el causa pecccUi, alia vero peccalum                          imniiiiiiitiir ' lioiiiiin naluriie; el est ipsii Iniiiiiuiitio el
-                el ca./tm el, poena peccali.                                                corriiptio \m\\ /iassi,o o,l /ioeii,u.;cX iion est csscntialiter
-                                                                                            ipsiiiii pocciitiini, pcr (piod lit, scd idco pcccatiim di-
-                    Scieiidiim csl (iiinfiii, (|ii:ic(l;iiri sic esse pcccjit;!,            cltiir, iit priicmissum cst, (pila per peccatum illico, ut
-                                                                                            pocciit liomo, lit in bomine illn corruptio, quae tiimen
- AiiKn«iino». ut sinl eti;un poenac peccatonim. Undc Augustiniis su-
-                                                                                            flt Deo auctorc. Illa eiiim poeiia sive passio, quae esl
-            |)er iiium locum l>.siiimi (piiiKpiiigesiini soptinii': Sii-                    boni corriipdo, a Deo est. Illiiis liiiueii, ut sie dicam,
-            percecidil ignis , el non oiderunl solem , ait: « Ifjnis
-            su])crbiiie ct concupisccntiiie el inie in(clli{,'ltur. Isliis                  muleria ct causa est pecc;itiuii, qiiod ;i IJeo non est ^^.
-                                                                                            Oiiod vidclur Aiii^nsdniis noliissc ot iiixtii Imnc soii-
-            po(,'niis piiuci vidciil; Idco ciis niiixiinc ciiiiiinciiioi-;il                suiii intollcxlssc, ciiiii iilt lii liliro dc Priiodestinatione AiiRiistinii
-            Ap()s(oliis iii l'',plsl(ilii iui Itoniiiniis (l (^iiiiinciiit niultii,
-            (|uae siint pecciita ct pociia pcccati. Iiilcr piiiiiiim cnini                  Siinctoriiin ° : « i^riiodcstiiiiiiiono Deus ea praescivit,
-            pecciitiini iipostasiiie el iiltimam poeiiam igiiis iicteini                    quiio riicriit Ipse riicturiis. Scd praescivit Deus etiam
-            inediii (|uae siint, el peccata siin( et poona pcccati ».                       (piac non est ipse factiirus, id est oninia mala, quia,
-                                                                                            ctsi sunt quiiedam, qiiac Ita pccc;i(;i snnt, ut cli;im
-  cimsomn. Grcnoviiis (pioi|iic siipci- l'',/,ccliiclciii '■' ait : « r.niilcni-
-            nenti, ipil iinn viiK pocnitcri^ poiiit Dciis olVcndlcii-                       /loenue siiit pccciiti , scciindiini illiid Apostoli: Tradi-
-                                                                                            d;il liius Deus iii, /ia,ssi,ones etc. , noii tiuiicii poccadim
-            iuiii, iit scilicct i;r;iviiis liiiplnij;;il. I'ccc;iliun cniiii, ipiod
-            pcr pociiileii(i;iiii (■Itliis iioii dclclur, iiiit peiratum csl                Dci est, sod iiidicinm », scilicct pocna. Iii Scriptiirn
- Dniiium i. et cama pccciid, iiiil peccatum et poena pcccati, aiit                          eiiim siiepc iiomlnc i,ud,icii pociia inlolligitiir. — llic (lili-
-            peccatum simui et cuma el poena iieccali. Uiidc Moy-                            i;eiitcr inteiidcnlibiis insinuiirc videtiii': ea qiiae pcccata
-            .scs: Nondutn sunt compkta peccata Amorrhaeorum ; el                            sunt et poeiiae pcccati, iion in quantiini peccata swwl ,
-            David iiifpiit: Appone iniquitatem su/ier iniquitutem                           scd iii (|ii;intuni /menae, Dci csse dicuntiir'. Niiiii cuni
-            eorum ; el iiliiis 1'roplietii: Sumjuis sunf/uincm tetigit,                     dixlsscl, Dciiiu iiou csse l';icturuiii iii;ilii aliipia, id est
-            h\ est, pc(;e;itiim pccciUo addiiurn cst. I^iiiilus (|uo(pie                    pcc('iita; (pila posset ei oliiici, qiiiicdiim poccata cssc
-            ait: Propterea tradidit tUos IJeus in passmnes ii/no-                           ctiiiiii /((««a.s pcccad — e( /loena iiocciid oiuiiis iusla cst,
-            miniae ctc. ; (^t Itcni: Ut ini/iieim.t /leccata sua sem-                       ct idco a Deo cst — (piasi dcteriniiiando. secundiim ipiid
-            per. loanni (|U0(pic \h'v Aiigeiiiiii dicitur: Qui in sor-                      laciiit 011, vcl scciindiiiii qiiid iioii 1'aciat, addidit rcli-
-            dibus est sordescat adhuc». — \l\ liis tcstimoiiiis colli-                      (piii. Iiixla voro priicdlcliim iiilollii,'onliiiin peccida sanc
-            gitlir, |)ccciiliiiii iiliipiiid c( pccciiluiii css(^ cl pociiiuu               dicimdir /loenue. Uiidc Apostoliis iip|)ollii( ca passiones
+**Respondeo:** Dicendum, quod *lex* aliquando accipitur *stricte* pro lege scripta vel data; aliquando *large*, prout comprehendit legem naturae et legem Scripturae et legem gratiae. Et in praedicta notificatione lex accipitur *large.*
 
-            pcccali.                                                                        ii/iiimiiniae, qui;i , iit alt aiictoriliis ', « licot quaednm
-                                                                                            pocciilii sinl , (pinc dolccUuit , siint tnmcu piissioncs
-                                             Gai'. II.                                      nntiirne iioii noniinandiie», (piia per ea corrunipitur
-                                                                                            iiiiliira.
+<!-- page 838 -->
+Ad illud quod obiicitur de obedientia, dicendum, quod obedientia dupliciter accipitur: uno modo, prout dicit observantiam mandatorum Dei, et sic est communis omnibus virtutibus; alio modo, prout specialiter considerat rationem praecepti, et sic est virtus divisa ab aliis, quia potissime habet usum suum in his quae ideo sunt bona, quia praecepta. Et sic obedientia dupliciter accipitur, scilicet *large* et *stricte*, et in praedicta notificatione accipitur *large.* — Ad illud quod obiicitur de obedientia praelati, dicendum, quod totum pendet ex mandato Dei, quia Deus mandat, quod obediatur homini[^14].
 
-                    An peccutimi sit causu /icccati, in ijuantum                                                               r,Ai>. III.
-                                   est /leccatum.
+**Dub. V.** Item quaeritur de hoc quod dicit: *Non consistente peccato, virtus fortasse non esset.* Videtur enim falsum dicere, quia, si non esset culpa, purior esset caritas: ergo virtus perfectior et verior. Si tu dicas, quod hoc non asserit, sed sub dubitatione dicit; *contra*: ita falsum dicit qui certum proponit ut dubium, sicut qui dubium asserit ut certum.
 
-                     VA idco incrlli) ipi;icrltur, iilriiiii, lii ipi;iiitiiiii piec-               Quod nrm, omne peccatum est poena /leccati.
-  oiiiicitur. calum. cst, sit pocn;i pcccidi. — Qiiod iion vi(l(^(ur, ('11111
-              omiiis pociiii pcccati iiistii sit. Uiide Aiigiistiiiiis in li-                      Et licct cx lioc sciisu omiic pocc;itiim mortnlc pos- i)|.j(|i,
-              l)i'o Uctractidionuin ": « Oninis iioena peccati iiista est et                sit dici /loena, non lamci) omne " jiotcsl dici /loena, 'S:,.^
-              suppllciuin nomliiiitur ». Si (M'i;o pccciiluiii , (piod cst                  peccati. Voena enim /icccati, ut praedielum cst, est
-              peccatiim cl pociiii pccc;iti, iii ipiiiiitiini pcccaliim cst,                llliid cuiiis caiisa cst aliiid pracccdcns pocc;iluni. Nam
-              pociiii pceciid cst; ciini oiiinls pociiii iiislii dc liisdtlii               pccciiliini slc dicitur yjoena joflcctt^/rcspcctii pracceden-
-                Dci vcniiit, videtiii', iii (piiiiiliiiii pccc;itiiiii cst, iiisliiin       lls, slciil dlciliir causa peccati respcctu scipicnds. Quo
-iio9|i. socnii- essc et a Deo provcnirc. — Ad (piod illi rcspoudcnt,                        (it, iit idcm pccntnm ct causa sit et poena pcccati,
- Illnlloii"'"! pcccalum sic dlcl pocnam pcccati , ipiiii /jcr peccatnm,                     scd ailerius pcccnti /loena et allerius causa. Ut ciiini
- lioinni. j,| ||,„„| „|(,|.j(o pniocedcnds poccati lionio labidir, de-                      Gregorius in Moi'alibus'° ait: «Pcccadim, quod poeniten-
-               scrciitc Dco, corriiinpilur boua iiiiliirii. Siciit l;;iiis aiv              (In 11011 diliilliir. siio ponflcrc iiiox iid aliiid Irnblt. Uiidc
+Et dicendum, quod in illo verbo non ponitur nec significatur virtus non esse, non existente malitia, sed hoc significatur, quod non ita appareret, sicut nunc apparet; et ideo dicit: *fortassis non esset*, id est, non cognosceretur ita esse.
 
+**Dub. VI.** Item quaeritur de hoc quod dicit in illo capitulo[^15]: *Potest etiam quaeri, quod peccatum est privatio sive corruptio boni.* Si enim privatio et positio opponuntur, et peccatum recte definitum est supra: *peccatum est dictum, vel factum* etc.: ergo male definitur per privationem.
 
-                  ' Vors. '.). liiKirnil. n. 1S. — l.ociis Scrlptiiriic csl lloin.                '• Alliiin scntcntiiiin Miigistcr liic c. i. siilis ii|)|)iiiljiit; (|iiiic
-            1 , 23. sc(|i|. — l^ro poem pccnati cdil. I , 8 poeniic pivcali.                comi))iii)is cst postcriorihus (cfr. Comincnt. Iiic i). I. (]. I.).
-                  « Libr. I. Iioni. II. n. ^,'!. U. 2.'!. Viilo oliiini .\XV. Mo-                 " (^iifi. 10. n. I'.) (cum intcrpoliitionihus). I.ncus Apostoli
-                                                                                            cst lloi)). I , 2li.
-            l'ii(inm, ('.!). n. 22. 2:t. l.nci Scri|)liii'iic : Ccii. |.'i, IG; l's. (is,
-            28; Osc. i, 2; lUiin. I, 2(i ; I. Thcs. 2, Ki; Ainir. 22, (I.                          ' Viil. cuD) piiucis ccUI. ct codil. omiliii iliiiiiiliir.
-                  ' I.ilir. I. c. !). 11. ;;, cl 111. ilc l.ili. Arh. c. 18. ii. 51.               " tdo.ssii iid Hom. I , 2(i, — 1'iiulii supcrius Viit. cnm cdd.
-                  ■' '<'a\. I miniiiliir ct niiniilio ; |i;iiilii sii|iciiiis cdil. I , 8   2 , .■! , 1,7 (>(is pnssiones iiro eu pnssioncs.
-            eo crucinnlur pm ea cniciiuilio- , ijniic ctiiiin inrrii pro lllius                    » iLdd, I, 8 nddunt peccatiim.
-            tamcn hiibcnt lllius aulem.                                                            '» l.ibi'. .\XV. c. 9. 1). 22.
+Iuxta hoc quaeritur, cum unius rei una sit definitio: unde est hoc, quod peccatum ita multipliciter et varie definitur a Sanctis? Quaeritur etiam, penes quid illae definitiones distinguantur.
 
+**Respondeo:** Dicendum, quod de peccato est loqui *formaliter*, et est loqui *materialiter*, scilicet ratione substrati. Et quia, *formaliter* loquendo, privatio est, *materialiter* vero loquendo substernit sibi actum; ideo aliquando definitur per *privationem*, aliquando per *positionem*, quia quaedam sunt *formales* definitiones, quaedam *materiales*; et utroque modo multipliciter.
 
+<!-- page 839 -->
+Si enim consideremus peccatum, secundum quod dicit *privationem*, hoc potest esse tripliciter: aut in quantum *simpliciter*[^16] dicit recessum *a bono*, aut in quantum dicit recessum *a rectitudine naturae*, aut in quantum dicit recessum *ab omnis boni complemento et perfectione.*
 
+Primo modo sumitur definitio triplex ab Augustino, quae omnes idem circumloquuntur diversis verbis, quarum prima sumitur in libro de Civitate Dei[^17], et est haec: «Peccatum est absentia boni, ubi debet esse». — Secunda, de libro de Vera Religione: «Peccatum non est appetitio naturarum malarum, sed desertio meliorum». — Tertia, de libro de Natura boni: «Peccatum est corruptio modi, speciei et ordinis».
 
-                                                                                                                                                                                ■
-                                                                                                                                                          8/1-1
+Secundo modo, scilicet prout peccatum dicit recessum *a rectitudine naturae*, inveniuntur tres definitiones, quae idem circumloquuntur, quamvis aliter et aliter; quarum una est Damasceni[^18], quae est: «Peccatum est ab eo quod est secundum naturam, in id quod est praeter naturam aversio». — Alia est Anselmi: «Peccatum est carentia debitae iustitiae». — Tertia est Augustini: «Peccatum est defectus quidam a luce veritatis, naturam non perimens, sed obscurans».
+
+Tertio vero modo, videlicet prout dicit recessum *ab omnis boni complemento et perfectione*, sic reperitur triplex definitio, quae differt solo dicendi modo, quarum prima sumitur ab Augustino in libro de Libero Arbitrio[^19]: «Malum est aversio a bono incommutabili». — Altera vero ab eodem, in libro de Vera Religione: «Peccatum est carere bonis incommutabilibus, quibus fruendum est.» — Tertia sumitur ab eodem Augustino: «Peccatum est tenebra intelligibilis»; hoc enim dictum est, in quantum privat a visione lucis aeternae. — Hae omnes sunt notificationes peccati quasi *formales.*
+
+Sunt et aliae notificationes, quae concernunt *actum substratum.* Et istae variantur secundum triplicem considerationem peccati, quam habet sub hac ratione: aut videlicet ad *Deum*, quem offendit; aut ad *virtutem*, quam excludit; aut ad *bonum ut nunc*, quod praetendit.
+
+Si in comparatione ad *Deum*, quem offendit, sic est triplex, quarum una accipitur ab Augustino, in libro contra Manichaeos[^20]: «Peccatum est in veritatis praeceptis, vel in ipsa veritate errare». — Alia ab Ambrosio, in libro de Paradiso: «Peccatum est praevaricatio legis divinae et caelestium inobedientia praeceptorum». — Tertia ab eodem Augustino, et habetur in littera: «Peccatum est dictum, vel factum, vel concupitum contra legem Dei».
+
+Secundo modo, scilicet per comparationem ad *virtutem*, quam excludit, sic reperitur triplex definitio, quarum una sumta est a Basilio[^21]: «Peccatum est dispositio animae contrarie se habens ad virtutem». — Secunda ab Augustino, in libro de Duabus Animabus: «Peccatum est voluntas retinendi, vel assequendi quod iustitia vetat»; accipitur enim ibi iustitia *generaliter*, prout omnem virtutem complectitur. — Tertia ab eodem Augustino, in libro de Vera Religione: «Peccatum est appetere quae Christus contempsit, vel contemnere quae Christus appetiit». Nam Christus fuit omnis virtutis speculum et exemplar.
+
+Tertio modo, scilicet per comparationem ad *bonum*, quod praetendit, similiter invenitur triplex assignatio re conveniens, licet differat modo dicendi, quarum una est ab Augustino, in libro de Civitate Dei[^22]: «Peccatum est male uti bono». — Secunda vero, in libro de Trinitate: «Peccatum est uti fruendis et frui utendis»; et similiter in libro Octoginta trium Quaestionum. — Tertia est eiusdem Augustini, in libro de Libero Arbitrio: «Peccatum est, spreto incommutabili bono, rebus commutabilibus adhaerere».
+
+Fortassis autem et aliae notificationes ab istis duodeviginti poterunt reperiri. Nam duae aliae sunt, quae videntur circumloqui peccatum secundum utramque acceptionem, ut est illa: *Peccatum est actus incidens ex defectu boni*[^23]. Et illa: *Peccatum est meritum poenae aeternae.* — Et sic in universo sunt viginti.
+
+---
 
 ## English
 
-[Translation pending]
+### Doubts concerning the text of the Master.
+
+**Doubt I.** In this part there are questions concerning the text, and first it is asked about that definition which he first sets down: *Sin is a thing said, or done, or desired against the law of God.* For it seems to say what is false. For either this is understood *disjunctively*, or *subdisjunctively*[^1]. If *subdisjunctively*: then the members cannot stand together: therefore no one and the same sin is both desired and done; but this is false, because every sin done is desired[^2]. — Likewise, it seems that it does not suit *every* sin, because the sin of omission is neither done nor desired nor said: therefore it seems that it is badly assigned, because it does not suit every actual mortal sin.
+
+**I respond:** It must be said that the aforesaid definition is of *actual* and *mortal* sin. For that which belongs to *actual* sin, it is said to be *a thing said, or done, or desired*, according to the threefold act, namely of the *interpretative* and *operative* and *affective* power, which are all in a certain manner motive powers. Insofar as it is *mortal*, it is said to be *against the law of God*; and thus it suits all and only [such sins]. All, because every actual sin is either only desired, or is both desired and outwardly consummated, and this either by word or by deed. And it suits only [such], because it does not suit the venial [sin], since this is not *against the law of God*[^3]; nor original [sin], since this is not *a thing said, or done.* — To that which is asked, whether it is to be held there *disjunctively* or *subdisjunctively*; it must be said, *disjunctively*; but the last member is to be understood with precision, the rest by no means. Hence the sense is, that every sin is either said and desired, or done and desired, or only desired.
+
+But to that which is objected concerning the sin of omission, it must be said that every sin, as Augustine holds[^4], has for its root an evil love; and therefore, although in the sin of omission there is the privation of some principal act; yet because that privation takes its origin from the love of some changeable good — which is plain, because someone is unwilling to rise for matins, because he wishes to rest in bed — therefore the sin of omission falls under this member, which is called *desired*[^5].
+
+**Doubt II.** Likewise it is asked about that which he says: *Sin is the will of retaining, or of obtaining, that which justice forbids.* For there is some sin in which one neither wishes to retain anything nor to obtain anything, but rather intends to destroy, as is the case in anger and hatred and envy. — Likewise, to wish to obtain or to retain that which justice forbids, this belongs to avarice or to rapine: therefore every sin will be rapine.
+
+There is therefore a question, since sins are as much against the other virtues as against justice: why is sin rather defined by what is opposed[^6] to justice, than by what is opposed to the other virtues?
+
+**I respond:** It must be said that Augustine[^7] defines sin by that which is the root of all evil; but this is libidinous love. And since all libidinous love is either of a thing possessed or to be possessed, and this apart from the order and rule of the eternal law; therefore he says that sin is the will of obtaining, or of retaining, that which justice forbids, so that he describes the inordinate love, which is the root of all sin, both by *that toward which* it is, and by *that against which* it is.
+
+As for that, then, which is objected concerning anger and hatred, it must be said that although there is there a consequent detestation, yet there is there an antecedent delight, and therefore it is contained under this assignation.
+
+<!-- page 837 -->
+To that which is objected, that then every sin will be rapine; it must be said that *obtaining* there stands not only for the cupidity of earthly things, but indeed of any appetible whatever: but *justice* does not there stand only insofar as it is the *cardinal* virtue, but insofar as it is the *general* virtue, which embraces all the virtues, and to which all vices are opposed[^8].
+
+**Doubt III.** Likewise it is asked about that which he says: *In each assignation it is treated of actual and mortal sin, not venial.* For it seems that the assignation of sin is badly made. For if a right description or assignation ought to suit everything described[^9]; and the aforesaid definitions do not suit every sin: then they are not rightly assigned. If you say that sin is not said of them *univocally*, but *equivocally; on the contrary*: things which agree in cause and effect have *univocation*[^10]. But every genus of sin takes its origin from the sin of Adam, both original and actual and also venial; all the genera of sins also agree in this, that they render the soul worthy of punishment and deprive it of some good, which is justice, or ordered to justice: therefore it seems that sin is said of them *univocally*; and if this: then it seems that one common account ought to be assigned of sin, insofar as it is said of all these genera.
+
+There is therefore a question, whether it happens that one common account may be assigned to every genus of sin; that is to ask, whether sin is said of them *univocally.* And if you say that yes; on the contrary it stands, because things which are univocated in something have a *proportion*[^11]: but between mortal and venial there is no proportion: therefore neither univocation. — Likewise, he seems to say what is false, when he says that the aforesaid assignations do not suit venial sin. For venial sin is a thing said, or done, or desired, and against the law of God, as it is said in Romans seven[^12] upon that text: *You shall not covet*, Gloss: «The law is good, which, while it forbids concupiscence, forbids all evils»; therefore venial [sins] are forbidden by the law of God, they are therefore against the law of God: therefore the aforesaid account suits the venial [sin].
+
+**I respond:** It must be said that sin, insofar as it is said of original, actual mortal, and venial [sin], is neither said altogether *univocally* nor said altogether *equivocally*, but as it were in a *middle manner*, namely *analogically.* For the formal character of culpability is found first and principally in actual mortal sin, and consequently in original [sin], and lastly in venial [sin]; and therefore the notifications which are given of sin *simply* are most of all referred to actual mortal sin, which is sin simply.
+
+And by this the answer to those things which are objected becomes plain. For from this, that those three genera of sins agree in cause and in effect, it is not concluded that sin is said of them *univocally*, but *analogically*, because in these they do not communicate equally, but according to prior and posterior.
+
+And therefore when it is asked whether one common account can be assigned, it must be said that one account can be assigned which suits them according to prior and posterior, and thus according to the *analogical* commonness, as for instance if it be said that sin is the meriting of punishment or the privation of good. — To that, then, which is objected, that there is no proportion; it must be said that although there is no proportion with regard to the commensuration of the quantity of demerit, yet there is a proportion between venial and mortal according to a like comparison both to the origin and to the consequent effect.
+
+**Doubt IV.** Likewise it is asked about the other definition of Ambrose, which he sets down: *Sin is the transgression of the divine law and the disobedience to the heavenly commandments.* For it seems that this account does not suit every sin. For some things, as Augustine says[^13], are *evil because forbidden*; some *forbidden because evil*: therefore if there were no law, nor any precepts given, there would still be sins: therefore not every sin is the transgression of a law, etc. — Likewise, just as obedience is distinguished from the other virtues, so disobedience [is distinguished] from the other vices: therefore every sin is badly defined by disobedience. — Likewise, he sins who does not obey a prelate, just as he who does not obey God: therefore sin is not only the disobedience to the heavenly precepts, but also to the earthly.
+
+**I respond:** It must be said that *law* is sometimes taken *strictly* for the written or given law; sometimes *broadly*, insofar as it comprehends the law of nature and the law of Scripture and the law of grace. And in the aforesaid notification law is taken *broadly.*
+
+<!-- page 838 -->
+To that which is objected concerning obedience, it must be said that obedience is taken in two ways: in one way, insofar as it bespeaks the observance of the commandments of God, and thus it is common to all the virtues; in another way, insofar as it specially considers the formal character of precept, and thus it is a virtue divided from the others, because it has its use most of all in those things which are good for the reason that they are commanded. And thus obedience is taken in two ways, namely *broadly* and *strictly*, and in the aforesaid notification it is taken *broadly.* — To that which is objected concerning obedience to a prelate, it must be said that the whole depends on the commandment of God, because God commands that one obey man[^14].
+
+**Doubt V.** Likewise it is asked about that which he says: *Sin not existing, virtue perhaps would not be.* For it seems to say what is false, because, if there were no fault, charity would be purer: therefore virtue more perfect and truer. If you say that he does not assert this, but says it under doubt; *on the contrary*: he speaks as falsely who proposes what is certain as doubtful, as he who asserts what is doubtful as certain.
+
+And it must be said that in that word it is neither posited nor signified that virtue does not exist, malice not existing, but this is signified, that it would not so appear as it now appears; and therefore he says: *perhaps it would not be*, that is, it would not be known to be so.
+
+**Doubt VI.** Likewise it is asked about that which he says in that chapter[^15]: *It can also be asked, since sin is the privation or corruption of good.* For if privation and position are opposed, and sin was rightly defined above: *sin is a thing said, or done* etc.: then it is badly defined by privation.
+
+In connection with this it is asked, since of one thing there is one definition: whence is it, that sin is so manifoldly and variously defined by the Saints? It is also asked, by what those definitions are distinguished.
+
+**I respond:** It must be said that of sin one may speak *formally*, and one may speak *materially*, namely by reason of the substratum. And because, speaking *formally*, it is a privation, but speaking *materially* it spreads beneath itself an act; therefore it is sometimes defined by *privation*, sometimes by *position*, because some definitions are *formal*, some *material*; and in each way manifoldly.
+
+<!-- page 839 -->
+For if we consider sin insofar as it bespeaks *privation*, this can be in three ways: either insofar as it *simply*[^16] bespeaks a withdrawal *from good*, or insofar as it bespeaks a withdrawal *from the rectitude of nature*, or insofar as it bespeaks a withdrawal *from the completion and perfection of all good.*
+
+In the first manner is taken a threefold definition from Augustine, which all express the same thing in different words, of which the first is taken in the book *On the City of God*[^17], and is this: «Sin is the absence of good, where it ought to be». — The second, from the book *On True Religion*: «Sin is not the appetite of evil natures, but the desertion of better ones». — The third, from the book *On the Nature of Good*: «Sin is the corruption of measure, species, and order».
+
+In the second manner, namely insofar as sin bespeaks a withdrawal *from the rectitude of nature*, three definitions are found, which express the same thing, though in different ways; of which one is of Damascene[^18], which is: «Sin is the turning-away from that which is according to nature into that which is beside nature». — Another is of Anselm: «Sin is the lack of due justice». — The third is of Augustine: «Sin is a certain defect from the light of truth, not destroying nature, but obscuring it».
+
+In the third manner, namely insofar as it bespeaks a withdrawal *from the completion and perfection of all good*, there is found a threefold definition, which differs only in the manner of speaking, of which the first is taken from Augustine in the book *On Free Choice*[^19]: «Evil is a turning-away from the unchangeable good». — The other from the same, in the book *On True Religion*: «Sin is to be without the unchangeable goods, which are to be enjoyed.» — The third is taken from the same Augustine: «Sin is an intelligible darkness»; for this was said insofar as it deprives [one] of the vision of the eternal light. — All these are as it were *formal* notifications of sin.
+
+There are also other notifications, which concern the *underlying act.* And these vary according to the threefold consideration of sin, which it has under this aspect: namely either to *God*, whom it offends; or to *virtue*, which it excludes; or to *the good as now*, which it puts forward.
+
+If in comparison to *God*, whom it offends, thus it is threefold, of which one is taken from Augustine, in the book *Against the Manichees*[^20]: «Sin is to err in the precepts of truth, or in the truth itself». — Another from Ambrose, in the book *On Paradise*: «Sin is the transgression of the divine law and the disobedience to the heavenly precepts». — The third from the same Augustine, and it is had in the text: «Sin is a thing said, or done, or desired against the law of God».
+
+In the second manner, namely by comparison to *virtue*, which it excludes, there is found a threefold definition, of which one is taken from Basil[^21]: «Sin is a disposition of the soul holding itself contrarily to virtue». — The second from Augustine, in the book *On the Two Souls*: «Sin is the will of retaining, or of obtaining, that which justice forbids»; for justice is there taken *generally*, insofar as it embraces every virtue. — The third from the same Augustine, in the book *On True Religion*: «Sin is to desire those things which Christ despised, or to despise those things which Christ desired». For Christ was the mirror and exemplar of every virtue.
+
+In the third manner, namely by comparison to *the good* which it puts forward, there is likewise found a threefold assignation agreeing in reality, although it differs in the manner of speaking, of which one is from Augustine, in the book *On the City of God*[^22]: «Sin is to use a good badly». — The second, in the book *On the Trinity*: «Sin is to use the things to be enjoyed and to enjoy the things to be used»; and likewise in the book *Of the Eighty-three Questions.* — The third is of the same Augustine, in the book *On Free Choice*: «Sin is, the unchangeable good being spurned, to cleave to changeable things».
+
+But perhaps still other notifications beyond these eighteen will be able to be found. For there are two others, which seem to express sin according to either acceptation, as is that one: *Sin is an act befalling from the defect of good*[^23]. And that one: *Sin is the meriting of eternal punishment.* — And thus in all there are twenty.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin of Quaracchi's apparatus (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; these entries combine the full p.836 footer block (footers 1–8 → [^1]–[^5], DUB. I = footers 1–2, the DUB. I omission-reply + DUB. II = footers 3–8), the full p.837 footer block (footers 1–9 → [^6]–[^12]), the full p.838 footer block (footers 1–9 → [^13]–[^15], the bulk being the long Augustine/Damascene source-notes for DUB. VI's definition catalogue), and the full p.839 footer block (footers 1–5 → [^16]–[^23]).
+
+[^1]: **La.** Priscian., XVI. Grammat. c. 1: *Disiunctivae* [coniunctiones] *sunt quae, quamvis dictiones coniungant, sensum tamen disiunctum habent, et alteram quidem rem esse, alteram vero non esse significant, ut* ve, vel, aut... [v. g.] vel dies est, vel nox... *Subdisiunctivae sunt quae voce disiunctivarum utrumque tamen esse significant vel simul, ut copulativae, vel discrete. Simul, ut Terentius in Eunucho:* «Vel rex semper maximas mihi gratias agebat», *pro:* etiam rex... *Discrete, utrumque tamen esse significat, ut:* tota die vel legit iste, vel cogitat; *significat enim et legere et cogitare, sed non simul utrumque facere, sed aliis horis legere, aliis cogitare etc.* — Post *Aut enim hoc* Vat. et edd. 3, 4 adiungunt *quod est, vel.* Mox pro *Si subdisiunctive* cod. cc et ed. 1 perperam *Si disiunctive.*
+    **En.** Priscian, *Grammar*, Bk. XVI, c. 1: *Disjunctive* [conjunctions] *are those which, although they conjoin words, yet have a disjoined sense, and signify that the one thing indeed is, but the other is not, as* ve, vel, aut [or]... [e.g.] vel dies est, vel nox [either it is day, or night]... *Subdisjunctive are those which, with the voice of disjunctives, yet signify that both are, either at once, like the copulatives, or separately. At once, as Terence in the* Eunuch: «Vel rex semper maximas mihi gratias agebat» [Even the king always gave me the greatest thanks], *for:* etiam rex [even the king]... *Separately, it yet signifies that both are, as:* tota die vel legit iste, vel cogitat [all day this man either reads or thinks]; *for it signifies both to read and to think, but not to do both at once, but at some hours to read, at others to think, etc.* — After *Aut enim hoc* the Vatican edition and editions 3, 4 add *quod est, vel.* Soon after, for *Si subdisiunctive* codex cc and edition 1 wrongly read *Si disiunctive.*
+
+[^2]: **La.** In cod. L a manu secunda, sed suppari adiectum est: *si disiunctive, ergo potest esse peccatum oris et operis sine peccato voluntatis, quod est falsum.* Aliquanto inferius post *assignata* cod. T supplet *definitio.*
+    **En.** In codex L, by a second hand, but of nearly the same age, there is added: *if disjunctively, then there can be a sin of mouth and of deed without a sin of will, which is false.* Somewhat below, after *assignata* codex T supplies *definitio.*
+
+[^3]: **La.** Codd. I O R X Z bb dd et alii cum ed. 1 *Per*, Vat. cum edd. 3, 4 *Secundum.*
+    **En.** Codices I, O, R, X, Z, bb, dd, and others with edition 1 read *Per*; the Vatican edition with editions 3, 4 *Secundum.*
+
+[^4]: **La.** Cfr. infra d. 42. a. 2. q. 1. in corp.
+    **En.** Cf. below, d. 42, a. 2, q. 1, in the body.
+
+[^5]: **La.** Libr. XXII. de Civ. Dei, c. 22. n. 1. Cfr. ibid. XIV. c. 7. n. 2; Enarrat. in Ps. 9. n. 15. et in Ps. 79. n. 13; de Gratia Christi contra Pelag. et Caelest. c. 20. n. 21.
+    **En.** *On the City of God*, Bk. XXII, c. 22, n. 1. Cf. ibid., Bk. XIV, c. 7, n. 2; *Enarrations on the Psalms*, on Ps. 9, n. 15, and on Ps. 79, n. 13; *On the Grace of Christ against Pelagius and Caelestius*, c. 20, n. 21.
+
+[^6]: **La.** Vide supra d. 5. a. 1. q. 1. ad 1. — De hoc dubio cfr. Alex. Hal., S. p. II. q. 107. m. 1. et q. 114. m. 1; B. Albert., hic a. 3; S. p. II. tr. 18. q. 114. m. 3; S. Thom., hic a. 2; Petr. a Tar., hic q. 1. a. 1. et circa lit.; Richard. a Med., hic circa lit.; Aegid. R., hic q. 1. a. 1. Locis hic citt. tanguntur etiam dubia, quae subsequuntur.
+    **En.** See above, d. 5, a. 1, q. 1, ad 1. — On this doubt cf. Alexander of Hales, *Summa*, p. II, q. 107, m. 1, and q. 114, m. 1; B. Albert, here, a. 3; *Summa*, p. II, tr. 18, q. 114, m. 3; St. Thomas, here, a. 2; Peter of Tarentaise, here, q. 1, a. 1, and on the text; Richard of Mediavilla, here on the text; Giles of Rome, here, q. 1, a. 1. In the places here cited the doubts which follow are also touched upon.
+
+[^7]: **La.** Propter abbreviationem vocis *oppositum*, a librariis factam, in nonnullis codd. pro ea legi posset *oppositionem*, quam lectionem cod. bb hic et paulo inferius praebet.
+    **En.** On account of the abbreviation of the word *oppositum*, made by the scribes, in several codices in its place might be read *oppositionem*, which reading codex bb here and a little below presents.
+
+[^8]: **La.** Libr. de Duabus Animabus, c. 11. n. 13, unde textus huius dubii depromptus est.
+    **En.** The book *On the Two Souls*, c. 11, n. 13, whence the text of this doubt is drawn.
+
+[^9]: **La.** Huius dubii solutionem dant etiam S. Thom., hic circa lit.; Petr. a Tar. et Richard. a Med., hic circa lit.; Aegid. R., hic dub. lit. 1.
+    **En.** The solution of this doubt is also given by St. Thomas, here on the text; Peter of Tarentaise and Richard of Mediavilla, here on the text; Giles of Rome, here, doubt on the text, 1.
+
+[^10]: **La.** Secundum Aristot., VI. Topic. c. 1. Vide supra pag. 828, nota 2.
+    **En.** According to Aristotle, *Topics*, Bk. VI, c. 1. See above, p. 828, note 2.
+
+[^11]: **La.** Cfr. Aristot., VII. Topic. c. 1. et tom. I. pag. 51, nota 11. — Aristot., I. Topic. c. 13: *Nam univocum omne, comparabile.* Cfr. VII. Physic. text. 24. seqq. (c. 4.).
+    **En.** Cf. Aristotle, *Topics*, Bk. VII, c. 1, and vol. I, p. 51, note 11. — Aristotle, *Topics*, Bk. I, c. 13: *For everything univocal is comparable.* Cf. *Physics*, Bk. VII, text 24 ff. (c. 4).
+
+[^12]: **La.** Vers. 7. De Glossa adiuncta vide supra pag. 721, nota 2. — Paulo superius Vat. et edd. 3, 4 omittunt *et* ante *contra.*
+    **En.** Verse 7. Concerning the adjoined Gloss see above, p. 721, note 2. — A little above, the Vatican edition and editions 3, 4 omit *et* before *contra.*
+
+[^13]: **La.** Cfr. quae Aristot., I. Ethic. c. 6, de analogis profert, quae describens docet, quod *ab uno* sint, vel *ad unum* conferantur et quandam proportionem inter se habeant. — Vat. cum edd. 3, 4 *analogiae.* Mox pro *vel* cod. cc et ed. 1 *et.* — De hoc dubio cfr. Alex. Hal., S. p. II. q. 108. m. 4; B. Albert., hic a. 1. seq.; S. p. II. tr. 18. q. 114. m. 4. a. 1. partic. 1. — Libr. I. de Lib. Arb. c. 3. n. 6: *Non sane ideo* [adulterium] *malum est, quia vetatur lege, sed ideo vetatur lege, quia malum est.*
+    **En.** Cf. what Aristotle, *Ethics*, Bk. I, c. 6, brings forward concerning analogous things, which in describing he teaches to be *from one*, or to be referred *to one* and to have a certain proportion among themselves. — The Vatican edition with editions 3, 4 read *analogiae.* Soon after, for *vel* codex cc and edition 1 read *et.* — On this doubt cf. Alexander of Hales, *Summa*, p. II, q. 108, m. 4; B. Albert, here, a. 1 ff.; *Summa*, p. II, tr. 18, q. 114, m. 4, a. 1, partic. 1. — *On Free Choice*, Bk. I, c. 3, n. 6: *It is not indeed for this reason that* [adultery] *is evil, because it is forbidden by law, but for this reason is it forbidden by law, because it is evil.*
+
+[^14]: **La.** Cfr. infra d. 44. a. 2. et 3. Aegid. R., hic dub. lit. 3. — Paulo superius plures codd., ut I bb cc ee, cum ed. 1 *Et sicut* pro *Et sic.* — Cfr. supra d. 29. a. 3. q. 2. — Vide August., de Mendacio, c. 3. n. 3. — Cfr. Petr. a Tar. et Richard. a Med., hic circa lit.; Aegid. R., dub. lit. 5.
+    **En.** Cf. below, d. 44, a. 2 and 3; Giles of Rome, here, doubt on the text, 3. — A little above, several codices, such as I, bb, cc, ee, with edition 1 read *Et sicut* for *Et sic.* — Cf. above, d. 29, a. 3, q. 2. — See Augustine, *On Lying*, c. 3, n. 3. — Cf. Peter of Tarentaise and Richard of Mediavilla, here on the text; Giles of Rome, doubt on the text, 5.
+
+[^15]: **La.** Cap. 3. — Hic dub. 1. — Quod unius rei una tantum sit definitio, docet Aristot., VI. Topic. c. 3. (c. 4.).
+    **En.** Chapter 3. — Here, doubt 1. — That of one thing there is but one definition, Aristotle teaches, *Topics*, Bk. VI, c. 3 (c. 4).
+
+[^16]: **La.** Edd., excepta 1, abstulerunt hinc vocem *simpliciter* eamque posuerunt in tertio disiunctionis membro ante *recessum ab omnis boni.*
+    **En.** The editions, except the first, removed from here the word *simpliciter* and placed it in the third member of the disjunction before *recessum ab omnis boni.*
+
+[^17]: **La.** Libr. XI. c. 9. et 22, ubi S. Doctor malum amissionem sive privationem boni definit. Deinde c. 17. et XII. c. 1-9 ostendit, malum et vitium esse non posse, nisi in eis quibus adimendo bonum noceat naturae. Cfr. etiam XIX. c. 13. n. 2. — Secunda definitio est in libro de Vera Relig. c. 20. n. 38, ubi exposito, quod nulla substantia mala sit, sed omnis substantia bona; quodque duplex sit bonum, aeternum scil. et temporale etc, concluditur: «*Est igitur quoddam bonum, quod si diligit anima rationalis, peccat, quia infra illam ordinatum est; quare ipsum peccatum malum est, non ea substantia, quae peccando diligitur. Non ergo arbor illa malum est, quae in medio paradiso plantata scribitur, sed divini praecepti transgressio*» etc. Similiter in libro de Natura boni, c. 34. et 36. ait: *Peccatum vel iniquitas non est appetitio naturarum malarum, sed desertio meliorum.* Cfr. etiam Contra Secundinum Manich. c. 15, et XII. de Civ. Dei, c. 8. — Tertia definitio est in libro de Natura boni, c. 4. — Pro *in libro de Civitate Dei* cod. W rectius *de libro de Civitate Dei.*
+    **En.** *On the City of God*, Bk. XI, c. 9 and 22, where the holy Doctor defines evil as the loss or privation of good. Then in c. 17 and Bk. XII, c. 1–9, he shows that evil and vice cannot be except in those things to which by taking away the good it harms nature. Cf. also Bk. XIX, c. 13, n. 2. — The second definition is in the book *On True Religion*, c. 20, n. 38, where, having explained that no substance is evil, but every substance is good, and that good is twofold, namely eternal and temporal, etc., it is concluded: «*There is therefore a certain good which, if the rational soul love it, it sins, because it is ordered beneath that [soul]; wherefore the sin itself is evil, not that substance which is loved in sinning. Therefore not that tree is the evil which is written to have been planted in the midst of paradise, but the transgression of the divine precept*» etc. Likewise in the book *On the Nature of Good*, c. 34 and 36, he says: *Sin or iniquity is not the appetite of evil natures, but the desertion of better ones.* Cf. also *Against Secundinus the Manichee*, c. 15, and Bk. XII *On the City of God*, c. 8. — The third definition is in the book *On the Nature of Good*, c. 4. — For *in libro de Civitate Dei* codex W more correctly *de libro de Civitate Dei.*
+
+[^18]: **La.** Libr. IV. de Fide orthod. c. 20. Cfr. etiam II. c. 30. et Dialog. contra Manich., ubi plures definitionum peccati, hic propositarum, explicantur. — Seq. Anselmi definitio est in libro de Conceptu virgin. et orig. pecc. c. 3. et 6; vide supra pag. 722, nota 3. et pag. 816, nota 8. — Tertia Augustini definitio habetur Enarrat. in Ps. 58. serm. 1. n. 18, ubi inter alia haec: «*Est quaedam origo fonsque virtutis, est quaedam radix sapientiae, est quaedam, ut ita dicam, si et hoc dicendum est, regio incommutabilis veritatis; ab hac anima recedens tenebratur, accedens illuminatur*» etc. Ibid. in Ps. 7. n. 19; iam vero tenebris significari peccata et in Propheta invenitur... et in Apostolo dicente... *Abiiciamus opera tenebrarum et induamur arma lucis* (Rom. 13, 12.). Non quod aliqua sit natura tenebrarum. Omnis enim natura, in quantum natura est, *esse* cogitur; *esse* autem ad lucem pertinet, *non-esse* ad tenebras. Qui ergo deserit eum, a quo factus est, et inclinatur in id, unde factus est, id est in nihilum, in hoc peccato tenebratur, et tamen non penitus perit, sed in infimis ordinatur. Cfr. XI. de Civ. Dei, c. 9. et XII. c. 9, ubi S. Auctor de peccato angelorum tractans docet, istos aversione a luce aeterna et incommutabili factos esse tenebras. Cfr. et XIX. c. 13. n. 2.
+    **En.** *On the Orthodox Faith*, Bk. IV, c. 20. Cf. also Bk. II, c. 30, and the *Dialogue against the Manichees*, where several of the definitions of sin here proposed are explained. — The following definition of Anselm is in the book *On the Conception of the Virgin and Original Sin*, c. 3 and 6; see above, p. 722, note 3, and p. 816, note 8. — The third definition, of Augustine, is had in the *Enarrations on the Psalms*, on Ps. 58, sermon 1, n. 18, where among other things [is] this: «*There is a certain origin and fountain of virtue, there is a certain root of wisdom, there is, so to speak, if this too must be said, a certain region of unchangeable truth; from this the soul, withdrawing, is darkened, drawing near, is illumined*» etc. Ibid., on Ps. 7, n. 19; that indeed sins are signified by darkness is found both in the Prophet... and in the Apostle saying... *Let us cast off the works of darkness and put on the armor of light* (Rom. 13:12). Not that there is any nature of darkness. For every nature, insofar as it is nature, is compelled *to be*; but *to be* pertains to light, *not-to-be* to darkness. He therefore who deserts him by whom he was made, and is inclined into that whence he was made, that is into nothing, is darkened in this sin, and yet does not utterly perish, but is ordered among the lowest things. Cf. Bk. XI *On the City of God*, c. 9, and Bk. XII, c. 9, where the holy Author, treating of the sin of the angels, teaches that they were made darkness by a turning-away from the eternal and unchangeable light. Cf. also Bk. XIX, c. 13, n. 2.
+
+[^19]: **La.** Libr. I. c. 16. n. 35; II. c. 19. n. 53; III. c. 1. n. 2. — Secunda definitio eruitur ex iis quae c. 11-14 libri de Vera Relig. docentur de vita eiusque opposito, scil. morte, quae vocatur *nequitia* (quae vox, secundum quod ipse interpretatur, derivatur ab eo quod *ne quidquam* est), qua voluntas deficiendo ab eo cuius essentia fruenda est, et inhaerendo inferioribus tendit ad nihilum, unde privatur bonis incommutabilibus etc. — Tertia definitio, quae sententialiter potius quam verbotenus apud August. esse videtur, non ita intelligenda est, tanquam tenebrae peccati essent aliquid *in se* et *per se* intelligibile — hoc enim Augustinus expresse negat in Exposit. propos. ex Epist. ad Rom., propos. 43, et XII. de Civ. Dei, c. 7, afferens illud Ps. 81, 12: *Delicta quis intelligit?* — sed intelligenda est et in oppositione ad tenebras corporales, et in comparatione ad subiectum, in quo tenebrae sunt, scil. in substantiis intellectu praeditis. Nam in Gen. ad lit. imperf. lib. c. 5. n. 24. seq. distinguit triplicem lucem, scil. corporalem, sensualem et rationalem, eique contrarias triplices tenebras, scil. corporales, sensuales (cognitioni sensuum convenientes) et rationales, scil. ignorantia et peccata, quatenus afficiunt superiorem partem rationis, quae Deo et aeternis intendit et intelligentia vocatur. I. de Baptismo contra Donat. c. 11. n. 16. autem ait: «*Peccata enim tenebrae animarum sunt*», et Enarrat. in Ps. 17. n. 29: «*Nos enim peccatis nostris tenebrae sumus*». De voce *intelligibilis* dicta de materia cfr. S. Thom., S. I. q. 88. a. 1. ad 2. — Paulo superius Vat. et edd. 3, 4 *differunt* pro *differt.*
+    **En.** Bk. I, c. 16, n. 35; Bk. II, c. 19, n. 53; Bk. III, c. 1, n. 2. — The second definition is drawn out from those things which are taught in c. 11–14 of the book *On True Religion* concerning life and its opposite, namely death, which is called *nequitia* ("worthlessness") (which word, according as he himself interprets it, is derived from this, that it is *ne quidquam*, "not anything"), by which the will, by failing from that whose essence is to be enjoyed, and by cleaving to lower things, tends toward nothing, whence it is deprived of the unchangeable goods, etc. — The third definition, which seems to be in Augustine sententially rather than word for word, is not to be understood as though the darkness of sin were something intelligible *in itself* and *through itself* — for this Augustine expressly denies in the *Exposition of Propositions from the Epistle to the Romans*, prop. 43, and Bk. XII *On the City of God*, c. 7, citing that text of Ps. 81:12: *Who understands his faults?* — but it is to be understood both in opposition to corporeal darkness, and in comparison to the subject in which the darkness is, namely in substances endowed with intellect. For in the *Unfinished Literal Commentary on Genesis*, c. 5, n. 24 ff., he distinguishes a threefold light, namely corporeal, sensual, and rational, and contrary to it a threefold darkness, namely corporeal, sensual (corresponding to the cognition of the senses), and rational, namely ignorance and sins, insofar as they affect the higher part of the reason, which is intent upon God and eternal things and is called intelligence. But in Bk. I *On Baptism against the Donatists*, c. 11, n. 16, he says: «*For sins are the darkness of souls*», and *Enarrations on the Psalms*, on Ps. 17, n. 29: «*For we by our sins are darkness*». Concerning the word *intelligibilis* said of matter, cf. St. Thomas, *Summa*, I, q. 88, a. 1, ad 2. — A little above, the Vatican edition and editions 3, 4 read *differunt* for *differt.*
+
+[^20]: **La.** De Fide contra Manich. c. 8: *Peccare enim quid aliud est, nisi in veritatis praeceptis, vel in ipsa non stare veritate?* — Secunda definitio, ex Ambrosio allata, habetur in libro cit. c. 8. n. 39. — De tertia vide hic lit. Magistri, c. 1.
+    **En.** *On Faith against the Manichees*, c. 8: *For what else is it to sin, than not to stand in the precepts of truth, or in the truth itself?* — The second definition, brought from Ambrose, is had in the book cited, c. 8, n. 39. — Concerning the third, see here the text of the Master, c. 1.
+
+[^21]: **La.** In Hexaem. homil. 2. n. 4, ubi contra Manichaeos dicit: *Quid igitur dicimus? Quod malum non est substantia vivens aut animata, sed dispositio* (διάθεσις) *in anima contrarie se habens ad virtutem* etc. — Pro *Basilio* codd. 1 N Z ee et alii *Anselmo*, cod. A *Ambrosio.* — Secunda definitio invenitur loc. cit. c. 11. n. 15. Vide hic lit. Magistri, c. 1. In hac secunda definitione edd. praeter 1 cum pluribus codd. pro *retinendi* substituunt *recipiendi*, et textus origin. pro *assequendi* habet *consequendi.* — Tertia definitio sententialiter habetur loc. cit. c. 16. n. 31, ubi S. Doctor ait: *Non enim ullum peccatum committi potest, nisi aut dum appetuntur ea quae ille* [Christus] *contempsit, aut fugiuntur quae ille sustinuit.*
+    **En.** *On the Hexaemeron*, homily 2, n. 4, where against the Manichees he says: *What therefore do we say? That evil is not a living or animate substance, but a disposition* (διάθεσις) *in the soul holding itself contrarily to virtue* etc. — For *Basilio* codices 1, N, Z, ee and others read *Anselmo*; codex A *Ambrosio.* — The second definition is found in the place cited, c. 11, n. 15. See here the text of the Master, c. 1. In this second definition the editions except the first, with several codices, for *retinendi* substitute *recipiendi*, and the original text for *assequendi* has *consequendi.* — The third definition is had sententially in the place cited, c. 16, n. 31, where the holy Doctor says: *For no sin can be committed, except either when those things are desired which he* [Christ] *despised, or those are fled which he endured.*
+
+[^22]: **La.** Libr. XII. c. 8, ubi sententialiter habetur, S. Doctore docente, amorem perversum et inordinatum, non res ipsas, vitium constituere. Definitio ad verbum habetur in libr. de Natura boni, c. 36: *Malum est enim male uti bono.* — Secunda definitio innititur verbis X. de Trin., c. 10. n. 13. prolatis: «*Nec est alia vita hominum vitiosa atque culpabilis, quam male utens et male fruens*». Similia occurrunt in libr. 83 Qq. q. 30: *Omnis itaque humana perversio est, quod etiam vitium vocatur, fruendis uti velle, atque utendis frui.* — Tertia definitio exprimitur, II. de Lib. Arb. c. 19. n. 53, his verbis: *Sed malum sit aversio eius ab incommutabili bono et conversio ad mutabilia bona.* — Paulo superius pro *re conveniens* Vat. *rei conveniens.*
+    **En.** *On the City of God*, Bk. XII, c. 8, where it is had sententially, the holy Doctor teaching that perverse and inordinate love, not the things themselves, constitutes vice. The definition is had word for word in the book *On the Nature of Good*, c. 36: *For evil is to use a good badly.* — The second definition rests on the words set forth in Bk. X *On the Trinity*, c. 10, n. 13: «*Nor is there another life of men, vicious and culpable, than [one] using badly and enjoying badly*». Similar things occur in the book *Of the 83 Questions*, q. 30: *And so all human perversion, which is also called vice, is to wish to use the things to be enjoyed and to enjoy the things to be used.* — The third definition is expressed, Bk. II *On Free Choice*, c. 19, n. 53, in these words: *But let evil be its turning-away from the unchangeable good and its turning toward changeable goods.* — A little above, for *re conveniens* the Vatican edition reads *rei conveniens.*
+
+[^23]: **La.** Hanc definitionem, quae Augustino tribuitur (cfr. infra lit. Magistri, d. XXXVII. c. 1.), Alex. Hal. (S. p. II. q. 107. m. 1.) sic enucleat: *Peccatum dicitur actus incidens, non quia casualiter incidat, sed quia non ex necessitate, sed contingenter provenit ex voluntate; in voluntate enim est peccare, vel non peccare... Defectus boni dicitur dupliciter: vel ut notet causam ipsius actus contingentis ex voluntate* (voluntas enim aliquando ex infirmitate, aliquando ex certa malitia peccat), *vel potest defectus boni dicere privationem quandam boni, quod est virtus, et secundum hoc haec praepositio* ex *non notat causam materialem, sed causam formalem, ut sit sensus: peccatum est actus deformatus.* — De Fide ad Petr. c. 21. n. 64. Fulgent. ait: *Unde constat, geminum esse creaturae rationalis malum: unum, quo voluntarie ipsa defecit a summo bono Creatore suo; alterum, quo invita punietur ignis aeterni supplicio; illud passura iuste, quia hoc admisit iniuste, et quae ordinem in se non servavit divinae institutionis, ordinem divinae non effugiet ultionis.* — De hoc dubio cfr. Alex. Hal., S. p. II. q. 94. m. 2, q. 97. et q. 107. m. 1; B. Albert., hic a. 3. et 8; S. p. II. tr. 18. q. 114. m. 3; S. Thom., hic a. 2.
+    **En.** This definition, which is attributed to Augustine (cf. below, the text of the Master, d. XXXVII, c. 1), Alexander of Hales (*Summa*, p. II, q. 107, m. 1) thus unfolds: *Sin is called an act befalling, not because it befalls by chance, but because it comes forth not from necessity, but contingently from the will; for it is in the will to sin or not to sin... The defect of good is said in two ways: either so as to note the cause of the act itself contingent from the will* (for the will sometimes sins from weakness, sometimes from settled malice), *or the defect of good can bespeak a certain privation of good, which is virtue, and according to this the preposition* ex (from) *does not note a material cause, but a formal cause, so that the sense is: sin is a deformed act.* — *On Faith, to Peter*, c. 21, n. 64, Fulgentius says: *Whence it is clear that the evil of the rational creature is twofold: one, by which it itself voluntarily failed from the highest good, its Creator; the other, by which unwillingly it will be punished by the torment of eternal fire; the former it will suffer justly, because it admitted the latter unjustly, and that which did not keep in itself the order of the divine institution, will not escape the order of the divine vengeance.* — On this doubt cf. Alexander of Hales, *Summa*, p. II, q. 94, m. 2, q. 97, and q. 107, m. 1; B. Albert, here, a. 3 and 8; *Summa*, p. II, tr. 18, q. 114, m. 3; St. Thomas, here, a. 2.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF of printed pp. 836–839 (PDF pp. 858–861, offset +22), cross-checked against the IA djvu OCR (raw lines 58179–58467). FINAL unit of DISTINCTIO XXXV — after this chunk **d.35 is fully Tier-2** (9 units: littera + divisio + a1-q1/q2/q3 + a2-q1/q2/q3 [a2-q3 was created from scratch] + dubia). The DUBIA opens at the top of p.836 L-col (header `DUBIA CIRCA LITTERAM MAGISTRI` immediately after a2-q3's closing scholion apparatus `…ad mentem S. Bonaventurae… II. Praeter locos…`) and closes at the bottom of p.839 R-col (*…Et sic in universo sunt viginti.*) immediately before DISTINCTIO XXXVI / Cap. I (which begins on p.840).
+
+**Verified DUB count = 6 (I–VI)** at 450 dpi (the raw OCR interleaves the two columns and the apparatus audit reports ~40 footers, but the column-band PDF read confirms exactly six dubia headers `DUB. I`–`DUB. VI`):
+- DUB. I — *Peccatum est dictum, vel factum, vel concupitum contra legem Dei* (whether this definition is false / does not suit every sin; resolved: it is the definition of *actual mortal* sin — *dictum/factum/concupitum* per the triplex *potentia interpretativa/operativa/affectiva*, *contra legem Dei* per its mortality; held *disiunctive* with the last member taken *cum praecisione*; sin of omission falls under *concupitum* since its root is an evil love).
+- DUB. II — *Peccatum est voluntas retinendi, vel assequendi quod iustitia vetat* (why sin is defined by opposition to *iustitia* rather than to other virtues; resolved: Augustine describes the *amor libidinosus* / inordinate love that is the root of all sin, taking *iustitia generaliter* for the general virtue embracing all virtues — so it is not all *rapina*).
+- DUB. III — *In utraque assignatione de actuali peccato agitur et mortali, non veniali* (whether *peccatum* is said univocally / one common ratio can be assigned; resolved: said *analogice*, neither wholly *univoce* nor wholly *aequivoce* — *secundum prius et posterius*, principally of actual mortal sin).
+- DUB. IV — *Peccatum est praevaricatio legis divinae et caelestium inobedientia mandatorum* (Ambrose's definition; resolved by the *lex large/stricte* and *obedientia large/stricte* distinctions; obedience to a prelate ultimately depends on God's mandate).
+- DUB. V — *Non consistente peccato, virtus fortasse non esset* (whether the Master speaks falsely; resolved: the *verbum* signifies not that virtue would not exist without malice, but that it would not so *appear* — *non cognosceretur ita esse*).
+- DUB. VI — *Potest etiam quaeri, quod peccatum est privatio sive corruptio boni* + the sub-question *cum unius rei una sit definitio, unde… peccatum ita multipliciter definitur* (with margin *Quaestiones duae*; resolved by the *formaliter/materialiter* distinction, generating the great catalogue of **20 definitions of sin**: privation [3 modes × 3 = 9 *formal* definitions] + substratum-act [ad Deum / ad virtutem / ad bonum = 9 *material*] + 2 mixed = 18 + 2 = 20).
+
+**Page-split map.**
+- **p.836** (L-col top → R-col): tail of a2-q3 apparatus + DUBIA header + DUB. I (full, incl. omission-reply) + DUB. II (opener + Respondeo to *…sub hac assignatione*); 8 footers → [^1]–[^5] (DUB. I = footers 1–2 = [^1]–[^2]; DUB. I omission-reply + DUB. II = footers 3–8 = [^3] *Per/Secundum*, [^4] *d.42*, [^5] *de Civ. Dei*, plus footers 6–8 folded into [^6]/[^7]/[^8]).
+- **p.837** (L-col + R-col): DUB. II tail (*assecutio/iustitia generalis*) + DUB. III (full) + DUB. IV (opener + Respondeo *lex large/stricte*); 9 footers → [^6]–[^12].
+- **p.838** (L-col + R-col): DUB. IV tail (*obedientia*) + DUB. V (full) + DUB. VI (opener + *Iuxta hoc* sub-question + Respondeo *formaliter/materialiter* + start of definition catalogue); 9 footers → [^13]–[^15] (mostly long Augustine/Damascene/Anselm source-notes for the catalogue).
+- **p.839** (L-col + R-col): DUB. VI definition catalogue (the 20 definitions) to *…Et sic in universo sunt viginti.*; 5 footers → [^16]–[^23].
+- Body seams grammatically continuous: 836→837 (DUB. II: *…erit rapina; dicendum, quod ‖ assecutio ibi stat*); 837→838 (DUB. IV: *…obedientia, dicen‖dum, quod obedientia dupliciter*); 838→839 (DUB. VI: *…et utroque modo multipliciter. ‖ Si enim consideremus peccatum*).
+
+**Apparatus = 23 entries** ([^1]–[^23]). 1:1 footer-to-marker mapping was impossible because Quaracchi's p.836–839 footers run far more numerous than the dubia's natural anchor points (the audit's ~40 raw footer count reflects this), so several adjacent same-anchor footer entries were merged into a single `[^N]` (notably [^6], [^13], [^14], [^17]–[^19], [^21]–[^23] each gather a footer's worth of cross-references + variant notes + the long patristic source-quotations). Every numbered Quaracchi footer entry on pp.836–839 is represented; none dropped. La/En counts: 23 La = 23 En = 23 defs.
+
+**Hand-offs.** RECEIVED from a2-q3: none — the DUBIA opens fresh at the top of p.836 (a2-q3's apparatus closes immediately before the DUBIA header on the same page; a2-q3 retains its scholion footers). FORWARDED: none — the DUBIA closes the distinction; DISTINCTIO XXXVI opens fresh on p.840 with `Cap. I` and its own footer block.
+
+**Cascade-dropout check.** All three internal page seams (836→837, 837→838, 838→839) read against the 450 dpi column bands and confirmed grammatically continuous with no mid-paragraph splice. The IA djvu OCR cascade-shattered the DUB. VI definition catalogue (the *Modus 1/2/3* margins + the «Peccatum est…» quotation series) and interleaved the two columns; the body was reconstructed column-by-column from the PDF. No body text or footnote lost at the seams.
+
+**has_scholion = false** — DUBIA chunks carry no scholion.
+
+**[?] flags:** none. All six DUB bodies, both/all Respondeo opinions, the DUB. VI 20-definition catalogue, and the full p.836 (f1–8), p.837 (f1–9), p.838 (f1–9) and p.839 (f1–5) footer blocks were read against the 450 dpi column bands and parse cleanly.
