@@ -19,6 +19,18 @@ W, H = im.size
 outdir = "/tmp/colcrop"
 os.makedirs(outdir, exist_ok=True)
 
+# Anthropic API rejects any image whose base64 payload exceeds 5 MB
+# (messages.N.content.M: 400). base64 inflates ~1.37x, so cap the PNG on
+# disk at MAX_BYTES; shrink-to-fit if an upscaled band would blow past it.
+MAX_BYTES = 3_600_000  # ~4.9 MB once base64-encoded — safely under the 5 MB cap
+
+def save_under_cap(crop, outp):
+    crop.save(outp)
+    while os.path.getsize(outp) > MAX_BYTES and min(crop.size) > 200:
+        crop = crop.resize((int(crop.width * 0.85), int(crop.height * 0.85)), Image.LANCZOS)
+        crop.save(outp)
+    return crop
+
 cols = {"L": (0, min(split_x + 60, W)), "R": (max(split_x - 60, 0), W)}
 band_h = H // n
 overlap = 220
@@ -31,5 +43,5 @@ for cname, (x0, x1) in cols.items():
         nh = int(crop.height * scale)
         crop = crop.resize((nw, nh), Image.LANCZOS)
         outp = f"{outdir}/{vol}-p{page:03d}-{cname}-{i}.png"
-        crop.save(outp)
-        print(outp, crop.size)
+        crop = save_under_cap(crop, outp)
+        print(outp, crop.size, f"{os.path.getsize(outp)//1024} KB")

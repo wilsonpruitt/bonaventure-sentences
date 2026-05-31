@@ -9,11 +9,10 @@ raw/*_djvu.txt
 raw/vision/
 manual-review/*-numbered.txt
 
-# Pre-rebuild snapshot dirs — ephemeral insurance, prior versions live in git history
-vol1/_backup-*/
-_backup-*/
+# Pre-rebuild snapshots — ephemeral insurance, prior versions live in git history.
+# Matches both dirs (_backup-.../) and loose files (_backup-*.md, _backup-*.md.bak).
+vol1/_backup-*
+_backup-*
 
 # Python caches
 **/__pycache__/
-vol1/_backup-d3-p2-a2-q3-pre-rebuild-20260508/
-_backup-d3-pre-rechunk-20260516/

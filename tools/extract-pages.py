@@ -157,11 +157,20 @@ def parse_range(spec: str) -> list[int]:
 # Extraction
 # ----------------------------------------------------------------------------
 
+# The Anthropic API rejects any single image whose base64 payload exceeds
+# 5 MB (the messages.N.content.M: 400 error). base64 inflates the on-disk
+# size ~1.37x, so a PNG larger than this threshold cannot be Read directly —
+# it must be cropped first (tools/colcrop.py) before sending to the model.
+MAX_SAFE_BYTES = 3_600_000  # ~4.9 MB once base64-encoded
+
+
 @dataclass
 class Result:
     extracted: list[int]
     skipped: list[int]
     errored: list[tuple[int, str]]
+    # (printed_page, size_bytes) for files too large to Read without cropping.
+    oversized: list[tuple[int, int]]
 
 
 def output_path(volume: str, printed: int) -> Path:
@@ -236,11 +245,14 @@ def extract_pages(
     if not config.pdf_path.exists():
         raise FileNotFoundError(f"PDF not found at {config.pdf_path}")
 
-    result = Result(extracted=[], skipped=[], errored=[])
+    result = Result(extracted=[], skipped=[], errored=[], oversized=[])
     for printed in pages:
         status, err = extract_one(config, printed, dpi, force)
         if status == "extracted":
             result.extracted.append(printed)
+            size = output_path(volume, printed).stat().st_size
+            if size > MAX_SAFE_BYTES:
+                result.oversized.append((printed, size))
         elif status == "skipped":
             result.skipped.append(printed)
         else:
@@ -299,6 +311,14 @@ def main() -> int:
     print(f"Requested: {len(pages)} pages ({args.pages})")
     print(f"Extracted: {len(result.extracted)}")
     print(f"Skipped:   {len(result.skipped)} (already existed)")
+    if result.oversized:
+        print(
+            f"⚠ Oversized: {len(result.oversized)} page(s) exceed ~{MAX_SAFE_BYTES // 1_000_000} MB — "
+            "too large to Read directly (Anthropic API caps images at 5 MB base64)."
+        )
+        for printed, size in result.oversized:
+            print(f"  p. {printed}: {size / 1_048_576:.1f} MB — crop before reading, e.g.")
+            print(f"      python3.11 tools/colcrop.py {args.volume} {printed}")
     if result.errored:
         print(f"Errored:   {len(result.errored)}")
         for printed, err in result.errored:
