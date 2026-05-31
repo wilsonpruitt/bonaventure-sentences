@@ -82,9 +82,9 @@ quod verum est; sed quod ipse obiicit, quod ordo attenditur penes intentionem; d
 
 4. Ad illud quod obiicitur, quod malum culpae est deformitas; dicendum, quod non tantum est *deformitas* opposita pulcritudini, sed etiam est *curvitas*[^12] opposita rectitudini. Ideo non sequitur, quod magis privet speciem quam ordinem; non enim dicitur *deformitas* per solius pulcritudinis privationem, sed etiam in hoc intelligitur privatio aliorum; magis tamen denominatur a privatione speciei et formae propter hoc, quod species est ratio cognoscendi.
 
-5. Ad illud quod obiicitur, quod malum est ordinabile; dicendum, quod duplex est ordo. *(Duplex ordo.)* Est enim ordo *ante factum esse*, qui est ex intentione facientis. Et est ordo *post factum esse*, qui quidem attenditur secundum iustitiam retribuentis. Primus ordo est ille, qui privatur a malo per malum; et hunc ordinem malum non potest habere, sicut nec speciem. Secundus vero ordo non privatur per malum, immo malum est ordinabile in poenis secundum illum ordinem.
+5. Ad illud quod obiicitur, quod malum est ordinabile; dicendum, quod duplex est ordo. *(Duplex ordo.)* Est enim ordo *ante factum esse*, qui est ex intentione facientis. Et est ordo *post factum esse*, qui quidem attenditur secundum iustitiam retribuentis. Primus ordo est ille, qui privatur a[^13] malo per malum; et hunc ordinem malum non potest habere, sicut nec speciem. Secundus vero ordo non privatur per malum, immo malum est ordinabile in poenis secundum illum ordinem.
 
-6. Ad illud quod obiicitur, quod non fit privatio in respectivo nisi per aliquid absolutum; dicendum, quod tam *species* quam *ordo*, ut hic accipitur, utrumque est respectivum; ideo non magis privatur unum per alterum quam e converso. Nihilominus tamen haec tria tolluntur per mutationem factam circa aliquid absolutum; tunc enim privantur, cum liberum arbitrium peccat inordinate movendo se ipsum.
+6. Ad illud quod obiicitur, quod non fit privatio in respectivo nisi per aliquid absolutum; dicendum, quod tam *species* quam *ordo*, ut hic accipitur, utrumque est respectivum; ideo non magis privatur unum per alterum quam e converso. Nihilominus tamen haec tria tolluntur per mutationem factam circa aliquid absolutum; tunc enim privantur, cum liberum arbitrium peccat inordinate movendo se ipsum[^14].
 
 ---
 
@@ -141,9 +141,9 @@ that it is true; but as for what he himself objects, that order is reckoned acco
 
 4. To that which is objected, that the evil of guilt is a deformity; it must be said that it is not only a *deformity* opposed to beauty, but is also a *crookedness*[^12] opposed to rectitude. Therefore it does not follow that it deprives [it] of species more than of order; for it is not called a *deformity* through the privation of beauty alone, but in this is also understood the privation of the others; nevertheless it is more denominated from the privation of species and form on account of this, that species is the character of knowing.
 
-5. To that which is objected, that evil is capable of being ordered; it must be said that order is twofold. *(Twofold order.)* For there is an order *prior to the thing's being made*, which is from the intention of the maker. And there is an order *after the thing's being made*, which indeed is reckoned according to the justice of the one requiting. The first order is that which is deprived by evil through evil; and this order evil cannot have, just as neither [can it have] species. But the second order is not deprived through evil, but rather evil is capable of being ordered in punishments according to that order.
+5. To that which is objected, that evil is capable of being ordered; it must be said that order is twofold. *(Twofold order.)* For there is an order *prior to the thing's being made*, which is from the intention of the maker. And there is an order *after the thing's being made*, which indeed is reckoned according to the justice of the one requiting. The first order is that which is deprived by[^13] evil through evil; and this order evil cannot have, just as neither [can it have] species. But the second order is not deprived through evil, but rather evil is capable of being ordered in punishments according to that order.
 
-6. To that which is objected, that no privation is made in the relative except through something absolute; it must be said that both *species* and *order*, as taken here, are each relative; therefore one is not deprived through the other any more than conversely. Nevertheless these three are taken away through a change made about something absolute; for then they are deprived, when the free will sins by moving itself inordinately.
+6. To that which is objected, that no privation is made in the relative except through something absolute; it must be said that both *species* and *order*, as taken here, are each relative; therefore one is not deprived through the other any more than conversely. Nevertheless these three are taken away through a change made about something absolute; for then they are deprived, when the free will sins by moving itself inordinately[^14].
 
 ---
 
@@ -187,6 +187,12 @@ that it is true; but as for what he himself objects, that order is reckoned acco
 [^12]: **La.** Edd. 2, 3 *deformitas*, Vat. *deformitas vel curvitas.*
     **En.** Edd. 2, 3 [read] *deformitas*, the Vatican [edition] *deformitas vel curvitas.*
 
+[^13]: **La.** In Vat. desideratur *a.*
+    **En.** In the Vatican [edition] the word *a* is wanting.
+
+[^14]: **La.** Vide scholion ad praecedentem quaest.
+    **En.** See the scholion to the preceding question.
+
 ## Notes
 
 **Provenance.** Latin re-set from IA djvu OCR (raw 57820–57929), with the cascade-fragmented two-column body (Respondeo, Solutio ad 1–6) and all page-footers verified against 450 dpi PDF column bands (printed pp. 830–832, offset pdf = printed + 22 → pdf pp. 852–854). Read Left column top→bottom then Right column for each page; body bands then footer bands.
@@ -198,7 +204,7 @@ that it is true; but as for what he himself objects, that order is reckoned acco
 **Page-split / footer map.** Spans printed pp. 830–832 (running heads: p.830 verso `830 SENTENTIARUM LIB. II.`; p.831 recto `DIST. XXXV. ART. II. QUAEST. II. 831`; p.832 verso `832 SENTENTIARUM LIB. II.`).
 - p.830 (R col bottom): QUAESTIO II opener + fundamentum 1 (de Natura boni). Only **footer 5** anchors here → [^1] (Cap. 3, the *maius/magis* variant on fund 1) — RECEIVED from a2-q1. p.830 footers 1–4 belong to a2-q1 (its [^11]–[^14]; footer 3 = Abbas Vercellensis/*salvat in esse* = a2-q1's [^13] Solutio ad-2, footer 4 = *numerus* = a2-q1's [^14] Solutio ad-4 — the resume's footer-3-anchors-at-q2 caution is RESOLVED: a2-q1 correctly claimed it).
 - p.831: fund 1 tail + fund 2–4 + Sed contra 1–4 + fund 5–6 (printed on the R col after Sed contra) + Conclusio + Respondeo + Solutio ad-1 opener. Footers 1–10 → continuous [^2]–[^11]: [^2] fund 2 *quod¹* (Sive quia); [^3] fund 3 *prius² ostensum* (Quaest. praeced.); [^4] SC1 *deordinationem³* (infra d.40); [^5] SC2 *bonitati⁴* (I Sent. d.3 p.1 dub.3); [^6] SC3 *voluntatem⁵* (infra d.41 a.2 q.2); [^7] fund 5 *in Enchiridio⁶* (Cap. 11 n.3); [^8] fund 6 *nec mutatio⁷* (Aristot. V. Phys.); [^9] Respondeo *inseparabiles⁸* (Multi codd. separabiles); [^10] Respondeo *tantum vel maius⁹* (codd. T/W secunda manus); [^11] Respondeo *tota merces¹⁰* (Verba Augustini supra pag. 543). (NB: the body marker order on p.831 follows the printed flow — fund 2,3 then Sed contra 1–3 then fund 5,6 then Respondeo — matching Quaracchi's footer sequence 1–10.)
-- p.832: Solutio ad-1 tail + ad-2 through ad-6 (+ QUAESTIO III opener at col bottom, NOT this chunk). Only **footer 1** anchors here → [^12] (Ad 4 *curvitas¹*, the *deformitas vel curvitas* variant). p.832 footers 2–7 belong to QUAESTIO III (footer 2 *In Vat. desideratur a* = q3 fund 3; footer 3 *Vide scholion ad praecedentem quaest.* = q3 fund 2; footers 4–7 = q3 body) and are forwarded to d35-a2-q3.
+- p.832: Solutio ad-1 tail + ad-2 through ad-6 (+ QUAESTIO III opener at col bottom, NOT this chunk). **Footers 1–3 anchor here** → [^12]–[^14] (footer 1 = Ad 4 *curvitas¹*, the *deformitas vel curvitas* variant → [^12]; footer 2 = Ad 5 *qui privatur a² malo per malum*, the *In Vat. desideratur a* variant → [^13]; footer 3 = Ad 6 *movendo se ipsum³*, *Vide scholion ad praecedentem quaest.* → [^14]). p.832 footers 4–7 belong to QUAESTIO III and are forwarded to d35-a2-q3. **(Pass-3 boundary-sweep fix, 2026-05-31: footers 2–3 were originally dropped from this chunk — the d35-a2-q3 Pass-1 polish note had flagged this gap for the decade-polish pass. The printed superscripts `a²` and `se ipsum³` were confirmed eyes-on at 450 dpi p.832 R-col; q3's fund 1 carries printed superscript `4`, so q3 correctly begins at footer 4. Now restored as [^13]–[^14].)**
 
 **Hand-off received.** From d35-a2-q1: p.830 footer 5 (`Cap. 3. — Paulo inferius pro maius edd., excepta 1, cum pluribus codd., inter quos codd. K T, magis.`) → [^1], anchoring at QUAESTIO II's fundamentum 1 (*in libro de Natura boni — Cap. 3*).
 

@@ -145,3 +145,54 @@ Anchored in La + En bodies; apparatus entry added with English; Notes footer-map
 - **Smoke build** `node site/scripts/build-content.mjs`: `2 book(s), 875 questions, 839 translated` — parses cleanly.
 
 Chunks edited this pass: `d32-a1-q1`, `d32-a3-q2` (+ `content.json`). Backups: `_backup-d32-a1-q1-pass3-20260531/`, `_backup-d32-a3-q2-pass3-20260531/`.
+
+---
+
+## Pass 3 (cross-chunk boundary integrity sweep) — d.34–d.36 (2026-05-31)
+
+Verified all 22 mid-page seams (prior chunk's last printed page == next chunk's first printed page) for d.34–d.36 against the 450 dpi PDF column bands (offset pdf = printed + 22). For each seam: (a) grammatical continuity across the seam, (b) full footer accounting across the two chunks (every numbered Quaracchi footer on the shared page present in one chunk or the other), (c) no mid-paragraph body dropout (the d9-divisio cascade-merge class).
+
+**Result: 21 CLEAN, 1 FIXED.** No body-text dropout at any seam — every chunk's body is complete and grammatically continuous at the seam (all seams in d.34–d.36 are clean QUAESTIO/ARTICULUS/DUBIA/COMMENTARIUS header breaks; prior chunks close on a complete scholion, Ad-N reply, or Lombard Cap.; next chunks open with a self-contained *Secundo/Tertio/Consequenter quaeritur…* opener). The 1 defect was a **dropped footnote pair** in `d35-a2-q2`, already flagged for this decade-polish pass by the d35-a2-q3 Pass-1 note.
+
+### Seam-by-seam
+
+| Seam (shared printed p.) | Prior → next | Status |
+|---|---|---|
+| p.802 | d34-littera → d34-divisio | CLEAN (Lombard Cap. → COMMENTARIUS break; littera tail complete at [^7]) |
+| p.802 | d34-divisio → d34-a1-q1 | CLEAN (divisio NOTAE [^1]; q1 receives 3 *Fundamenta* footers [^1]–[^3]) |
+| p.805 | d34-a1-q1 → d34-a1-q2 | CLEAN (p.805 footers 1–4 → q1 [^23]–[^26]; footer 5 → q2 [^1]) |
+| p.808 | d34-a1-q2 → d34-a1-q3 | CLEAN (7 p.808 footers forwarded → q3 [^1]–[^7]) |
+| p.809 | d34-a1-q3 → d34-a2-q1 | CLEAN (7 p.809 footers → a2-q1 [^1]–[^7]) |
+| p.812 | d34-a2-q1 → d34-a2-q2 | CLEAN — PDF-verified: p.812 footers 1–2 → a2-q1 [^26]; footers 3–4 → a2-q2 [^1]/[^2] |
+| p.818 | d34-dubia → d35-littera | CLEAN (DISTINCTIO break; dubia complete at [^11], littera opens DISTINCTIO XXXV) |
+| p.821 | d35-divisio → d35-a1-q1 | CLEAN (divisio footers 1–2; footer 3 → a1-q1 [^1]) |
+| p.824 | d35-a1-q1 → d35-a1-q2 | CLEAN (1 p.824 footer → a1-q2 [^1]) |
+| p.826 | d35-a1-q2 → d35-a1-q3 | CLEAN (p.826 footers 1–6 → q2 [^12]–[^17]; 7–9 → q3 [^1]–[^3]) |
+| p.828 | d35-a1-q3 → d35-a2-q1 | CLEAN (q3 p.828 footnote-free; ART II opens) |
+| p.830 | d35-a2-q1 → d35-a2-q2 | CLEAN (p.830 footers 1–4 → a2-q1; footer 5 → a2-q2 [^1]) |
+| **p.832** | **d35-a2-q2 → d35-a2-q3** | **FIXED** — see below |
+| p.836 | d35-a2-q3 → d35-dubia | CLEAN (q3 complete at scholion; DUBIA opens, p.836 footers → dubia) |
+| p.842 | d36-littera → d36-divisio | CLEAN (Lombard → COMMENTARIUS break; p.842 footers 1–3 → littera, NOTAE 1 → divisio) |
+| p.845 | d36-a1-q1 → d36-a1-q2 | CLEAN (p.845 footers 1–3 → a1-q2 [^1]–[^3]) |
+| p.847 | d36-a1-q2 → d36-a2-q1 | CLEAN (p.847 footers 1–4 → a1-q2 [^17]–[^20]; 5–6 → a2-q1 [^1]/[^2]) |
+| p.850 | d36-a2-q1 → d36-a2-q2 | CLEAN (a2-q1 scholion footnote-free; p.850 footers 1–9 → a2-q2 [^1]–[^9]) |
+| p.852 | d36-a2-q2 → d36-a3-q1 | CLEAN (p.852 footer 1 → a2-q2 [^18]; footers 2–11 → a3-q1 [^1]–[^10]) |
+| p.854 | d36-a3-q1 → d36-a3-q2 | CLEAN (a3-q1 scholion footnote-free; 7 p.854 footers → a3-q2 [^1]–[^7]) |
+| p.856 | d36-a3-q2 → d36-dubia | CLEAN (p.856 footers 4 + 11 → dubia [^1]/[^2]; q2 retains the rest) |
+| p.859 | d36-dubia → d37-littera (d.36 side) | CLEAN (Dub. V closes complete at [^20]; d.37 littera opens DISTINCTIO XXXVII fresh, p.859 NOTAE → d.37 onward) |
+
+### FIXED #1 — p.832, `bon-sent-II-d35-a2-q2`
+
+The d35-a2-q3 Pass-1 (footer-recovery) polish note had explicitly flagged this for the decade-polish pass: q2's committed file **dropped p.832 printed footers 2 and 3**. Confirmed eyes-on at 450 dpi (p.832 R-col): the printed superscripts `qui privatur a² malo per malum` (Ad 5) and `movendo se ipsum³` (Ad 6) are present in q2's body, but q2 carried no matching markers — both footnotes were lost. (q3's *fundamentum 1* carries printed superscript `4`, so q3 correctly begins at footer 4 — this is purely a q2 gap.) Restored:
+- `[^13]` at *privatur a / deprived by* (Ad 5): `In Vat. desideratur *a.*` / "In the Vatican [edition] the word *a* is wanting."
+- `[^14]` at *movendo se ipsum / moving itself* (Ad 6): `Vide scholion ad praecedentem quaest.` / "See the scholion to the preceding question."
+Both anchored in La + En bodies; apparatus entries added with English; the Notes footer-map corrected (footers 1–3 now → [^12]–[^14]; 4–7 still forwarded to q3). Backup: `_backup-d35-a2-q2-pass3-20260531/`.
+
+### Verification
+- **Marker pairing**, `d35-a2-q2`: La == En == defs == [^1]–[^14]; 0 orphans.
+- **`audit-paraphrase --volume 2 --min-d 34 --max-d 36`:** 0 critical, 0 high (27 chunks).
+- **`audit-apparatus-count --volume 2 --min-d 34 --max-d 36`:** 0 SUSPECT flags; all +diffs within the known Vol II two-column cascade-footer triage band. `d35-a2-q2` moved +6 → +4 after the fix.
+- **`audit-headers --volume 2 --min-d 34 --max-d 36`:** no LOSS flags.
+- **Smoke build** `node site/scripts/build-content.mjs`: `2 book(s), 875 questions, 839 translated` — parses cleanly.
+
+Chunks edited this pass: `d35-a2-q2` (+ `content.json`). All other 21 seams CLEAN — the d.34–d.36 chunks' `## Notes` page-split / footer-map / cascade-dropout-check blocks were verified internally consistent (hand-off chains match across adjacent chunks) and spot-checked against the 450 dpi PDF (p.812 footer split confirmed exactly).
