@@ -6,349 +6,277 @@ distinctio: 39
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 62666
-line_end: 62990
-word_count_latin: 4827
-transcription_status: "auto-chunked 2026-05-30"
+title_la: "Utrum conscientia sit habitus innatus, aut acquisitus"
+title_en: "Whether conscience is an innate or an acquired habit"
+printed_pages: [901, 902, 903, 904, 905]
+pdf_pages: [923, 924, 925, 926, 927]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 901–905"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 62657–62990) cross-checked column-by-column against 450 dpi PDF (printed pp. 901–905 = pdf pp. 923–927; offset +22), fresh literal English translation, full apparatus from raw OCR (30 entries: p.901 ×7, p.902 ×9, p.903 ×9, p.904 ×1 body + ×4 scholion), question-level scholion (I–III) re-set from PDF (2026-05-31)"
 format_version: 1
 ---
 
 # bon-sent-II-d39-a1-q2
+## *Utrum conscientia sit habitus innatus, aut acquisitus*
+
+---
 
 ## Latin
+<!-- page 901 -->
 
-QU.\ESTIO II.
-                                        Utrum conscientia sil habilus innatus , aut aequisitus.
+### Quaestio II. *Utrum conscientia sit habitus innatus, aut acquisitus.*
 
-             Secnndo quaeritur, utruiii conscientia sit habitus               tes ; sed hoc non potest esse sine aliqua praecogni-
-       innatus , aut acquisitus. Et quoil sit habitus innatus,                tione: ergo videtur, quod ad huiusmodi facienda
-       videtur.                                                               haliearaus ahquam cognitionem naturaliter nobis im-
-               1. Ad Romanos secundo': Cum genles, quae                       pressam '. Sed cognitio inclinans ad hoc est Conscien-
-                                                                              tia : ergo etc.
-'K^v'°^- legem non habent, naturaliter quae legis sunl fa-
-         ciunt, ipsi sibi sunt lex, quia ostendunt oiJiis legis                     o. Item, lex naturalis cognoscitur ab homine
-         scriptum in cordibus suis , testimonium illis red-                   aliquo modo, aul ergo jTer acquisitionem , aut per
-         dente conscientia. Et Glossa ibidem: «Etsi gentes non                naturam. Si per acquisitionem : ergo non debet dici
-         habeant legem scriptam, habent tamen legera na-                      naturalis , sed acquisita, sicut nec virtutes pohti-
-         turalem, qua sibi conscii sunt«: ergo ex textu et                    cae \ Si vero per naturam ; et cognitio legis natu-
-         Glossa patet, quod conscientia dicit habitum natu-                   ralis non est aliud quam conscientia : ergo etc.
-         raliter cordi humano inscriptum.                                           G. Item, ius naturale naturaliter ligal volunta-
-               2. Item, Augustinus iii iibro tertio de Libero                 tem ; sed ligamen ° voluntatis necessario praecedit
-       Arbitrio'-': « Ante omne raeritiim boni operis non est                 actus cognitionis — affectum enim praecedit intelle-
-       parura accepisse naturale iudicatorium , quo sapien-                   ctus — ergo si voluntas naturaliter ad illud ius li-
-       tiam quis praeponat errori. et quietem diflicultati».                  gatur, videtur, quod illud ius naturaliter ab anima
-       Si ergo conscientia est huiusmodi iudicatorium, est                    cognoscatur. Si ergo illius iuris cognitio est conscien-
-       igitur habitus homini innatus.                                         tia, patet etc.
-             3. Item , Isidorus ' : « lus naturale est quod                         Sed contra : 1. Philosophus
-                                                                                                             ^
-                                                                                                                  in tertio de Anima' Argp.
-                                                                                                                                       parte.
-                                                                                                                                              pros
-       natura docuit animalia » : ergo si natura docuit ani-                  dicit, quod « anima creata est sicut tabula rasa, in
-       malia iilud quod est iuris naluralis, raulto fortius                   qua nihil depictum est »: ergo videtur, quod anima
-       docuit horainera, qui excellit orania aniraalia; sed                   a sua prima conditione nullam habeat innatam co-
-       cognitio iuris naturalis non est ahud quam conscieu-                   gnitionem. Si ergo habitus conscientiae dicit aliquara
-       tia : ergo etc.                                                        cognitioneni , videtur, quod non sit innatus, sed
-             4. Item, naturalem haberaus instinctura ad ap-                   acquisitus.
-       petendum beatitudinem et ad honorandum paren-                                2. Itera, Augustinus in prirao libro Retractatio-
+Secundo quaeritur, utrum conscientia sit habitus innatus, aut acquisitus. Et quod sit habitus innatus, videtur.
 
+1. Ad Romanos secundo[^1]: *Cum gentes, quae legem non habent, naturaliter quae legis sunt faciunt, ipsi sibi sunt lex, quia ostendunt opus legis scriptum in cordibus suis, testimonium illis reddente conscientia.* Et Glossa ibidem: «Etsi gentes non habeant legem scriptam, habent tamen legem naturalem, qua sibi conscii sunt»: ergo ex textu et Glossa patet, quod conscientia dicit habitum naturaliter cordi humano inscriptum.
 
-             1 Vers. 1 4. seq. Vulgata : Cum enim gentes... naturaliter       tit. 2 , hanc ex Ulpiano sunitam deflnilionem proponit : lus
-       ea quae... faciunt, eiusmodi legem non liabcntes, ipsi sibi sunt       nalurale est quod natura omnia animalia docuit. — De minori
-       lex. Qid ostendunt etc. — Glossam in hunc loc. vide supra              cfr. infra a. 2. q. 1. in flne.
-       pag. 899 , nota 6.                                                           ' De principiis , in quibus hoc arg. fundalur , vidc supra
-             - Cap. 20. n. -36, in quo teslimonio texlus origin. pro          pag. 881 , nota .5; pag. 892, nota 6. et d. 38. dub. 1.
-       iudicatorium cxhibet iudicium. Eliam in versione similis loci                5 Macrob. , I. Somn. Scipion. c. 8, Plolinum et Platonicos
-       Basilii, ubi secundum anliquos Scholasticos (cfr. Alex. Hal., S. p.    secutus , ut ipsc profitetur , virtutes dividit in politicas, purga-
-       II. q. 73. m. 2; B. Albert., S. p. II. tr. 16. q. 99. m. 2.            torias , purgati animi et exemplares. Politicae dicuntur virtu-
-       a. I : S. Thom. , S. p. I. q. 79. a. 3. ) legendum est iudicati-       tes , secundum quod regunl ( ut iustitia , temperanlia etc. ) vitam
-       vum vel iudicatorium naturale , quae verba accurate reddunt            humanam quoad opera exteriora , et secundum quod piignant
-       Graeca verba itpiTripiov ipuaixov (criterium physicum), recen-         contra vitia ; pnrgatoriae , secundum quod iam sunt in victo-
-       tiores edilores haec verba interpretantur iudicium naturale. Sic       ria vitiorum et respiciunt parlim interiora , partim exteriora ;
-       ed. Migne , Hom. 12. in Principium Proverb. n. 9 : Cum enim            purgati animi , quando , victis iam vitiis , possessor virlutum
-       habeamus in nobis iudicium quoddam naturale , qua bona a               quiescit , raro insurgentibus primis motibus; exemplares, qune
-       malis secernimus etc.                                                  sunt in mente divina.
-            3 Libr. V. Etymolog. c. 4. n. I : i lus naturale est com-              ^ Edd. , excepta 1 , cum nonnullis codd. ligationem.
-       mune omniuni nationum et quod ubique instinctu naturae, non                 ' Text. 1 4. (c. 4.). — Paulo inferius pro prima conditione
-       conslitutione aliqua habeatur». luslinian., I. Inslitut. lur. civil.   cod. T prima crealione.
-902                                                   SENTENTIARUM LIB. II.
-                                                                                                CONCLUSIO.
- num ' retractat hoc quod dixerat , « animam creari
- scientem , sed mole corporis oppressam oblivisci eo-
- rum quae sciebat » ; sed non retractaret, nisi habe-                  Conscientia dicit habitum innalum ralione tum lu-
- ret hoc pro falso : ergo falsum est secundum Augu-                         minis animae inditi, tum primoriun principio-                    f
- stinum, quod anima habeat naturaliter cognitionem                          rum moralium, dicit auiem habitum acquisi-                       |
- agendornm. Si ergo conscientia est huiusmodi habi-                         tum tum ratione specierum ipsius cognoscibi-                     l
- tus cognitivus, videtur. quod non sil innatus, sed                         lis , tum respectu specialium operationum.                       |
-acquisitns.
-      3. Item , non habetnr cognitio de complexo, nisi                      Respondeo : Ad praedictoruin intelligentiam est        j
- habeatur de incomplexo — unde non cognoscit prin-                     notandum , quod praeter illam positionem Platoni- Posuio pi4l
- cipium qui non cognoscil terminos, propler qnod
-                                                                             quae posuit,
-                                                                       cam, animae
-                                                                       esse                        habitnssedcognoscendorum
-                                                                                           omnesinnatos.
-                                                                                   simpliciter                              °°'^' !!j
-                                                                                                               oblivioni dari
-dicit Philosophns', quod « principia cognoscimus, in
-quantum terminos » — sed cognitionem incomplexo-                       ad tempus propter corporis molem , quam improbat ;
-rura non haberaus nisi mechantibus sensibus ; ]iemo
-                                                                       et reprobat tam Philosophus qnam Augustiuus" ; tres 0|„Qioncs',i
-enim cognoscit colorem nisi per visum , et propterea
- « amittentes unum sensnm necesse est unam scien-                      fuerunt  opiniones
-                                                                       gnitivorum.                   illaeorigine
-                                                                                               tres de
-                                                                                          doctorum
-                                                                                    Et omnes                             in co-
-                                                                                                                   habiluum
-                                                                                                             positiones     hoc "'*'■ |{
-tiam amittere^». Si ergo omnis scientia incoraple-                     concordant , quod sicut virtutes consuetudinales nec           !i
-xornm est mediante sensu , necesse est , quod omnis                    sunl omnino a natura nec oinnino ab acquisitione ,             '
-cognitio complexorum sit acquisita et accepta a seiisu;                sed quodam modo snnt innatae , quodam modo acqui- j
-sed conscienlia dicit cognitionem complexi, utpote                     silae: sic etiam et habitus cognitivi nec sunt om- coMiusioiij
-alicuins regnlae iuris naturalis: ergo videtur, quod
-                                                                                                                      modo ^*""''^"' i;
-conscientia non dical habitum innatum, sed acqui-                      niiio innati
-                                                                       innati                              — quodam
-                                                                                                acquisiti. sed
-                                                                                          niodo acquisiti,
-                                                                                    nec omnino
-                                                                               et quodara                      In assignando ii
-situm.                                                                 autem modum, secundum quera isti habitus sunt
-      4. Item, aequalis difficultatis vel maioris est                  innati, et secunduin quem sunt acquisiti, diversifi- :i
-scire ea quae pertinent ad mores , sicut ea quae per-                  cantur diversi.                                                ;i
-tinent ad siniplicem speculationem ; sed scientia, quae                      Quidam enim dicere voluerunt, quod innati?,xmi opinio i. i
-est habitus cognitivus speculanilorum, non est nobis
-                                                                       intellectni agenti, sed acquisiti sunt quantura ad in- tlm. ""'' I
-innata , sed acqnisita ' : ergo pari ratione et conscien-              tellectum possibilem ; et quantum ad istum intelle- 1,
-tia, quae est habitus dirigens in ageridis, non est                    ctum dicit Philosophus, animam creari sicut tabu-
-innata, sed acquisila.                                                 lam nndam, et ille intellectns est, qui habet perfici I
-      o. [teni , omnis habitns naturalis semper est re-                mediantibus potentiis sensitivis °. — Sed istud non «jon proba ' i
-ctus ° ; conscientia antem aliqnando est recta , ali-                  videtur esse consonum nec verbis Philnsophi nec ve- "'' '■'
-quando erronea : ergo conscientia non est habitus                      ritati. Si enim intellectus agens haberet habitus co-            ,i
-naturalis, sed acquisitus.
-      6. Item , habitns naturales omni insunt et sem-                  gnoscendorum , quare non posset illos communicare '|
-                                                                       possibili sine adiutorio sensuum inferiorum ? Rur-            ■
-per , quia natnralia sunt illa quae sunt eadem apud                    sus, si intellectus agens haberet habitus cognoscendo- ,
-omnes, et naturalia comilantur naturam inseparabi-                     rum, iam anima a sua conditione non essel ignorans, '
-liler^; sed conscientiae non sunt eaedem apud omnes,                   imrao potius esset sciens. Difficile etiam est siinul ,
-immo frequenter sunt contrariae; conscientia etiam                     cum hoc intelligere, quomodo species dicantur esse              ,
-non semper inest, qnia frequenter homo incipit ha-                     in intellectu agenlc, cum possibilis dicatur « quo
-bere conscientiam , quani prius non habebat, sicut                     est omnia fieri », et agetis « quo est omnia facere ' ».
-religiosus, ex quo intrat religionem, habet conscien-                        Et ideo est secandus modus dicendi , quod ha- opi„io 2. i
-tiam , quod non liceat ei facere contra consilia , et                  bitus cognitivi quodam modo sunt innali, quodam
-hanc prius non habebat : ergo etc.                                     modo acquisiti. Innati enim sunt quoad cognitionem
+2. Item, Augustinus in libro tertio *de Libero Arbitrio*[^2]: «Ante omne meritum boni operis non est parum accepisse naturale iudicatorium, quo sapientiam quis praeponat errori, et quietem difficultati». Si ergo conscientia est huiusmodi iudicatorium, est igitur habitus homini innatus.
 
+3. Item, Isidorus[^3]: «Ius naturale est quod natura docuit animalia»: ergo si natura docuit animalia illud quod est iuris naturalis, multo fortius docuit hominem, qui excellit omnia animalia; sed cognitio iuris naturalis non est aliud quam conscientia: ergo etc.
 
+4. Item, naturalem habemus instinctum ad appetendum beatitudinem et ad honorandum parentes; sed hoc non potest esse sine aliqua praecognitione: ergo videtur, quod ad huiusmodi facienda habeamus aliquam cognitionem naturaliter nobis impressam[^4]. Sed cognitio inclinans ad hoc est conscientia: ergo etc.
 
+5. Item, lex naturalis cognoscitur ab homine aliquo modo, aut ergo per acquisitionem, aut per naturam. Si per acquisitionem: ergo non debet dici naturalis, sed acquisita, sicut nec virtutes politicae[^5]. Si vero per naturam; et cognitio legis naturalis non est aliud quam conscientia: ergo etc.
 
-      ' Cap. 8. n. 2, ubi exponil sentenliam in libi-o de Quanlit.           5 Clr. supra d. 24. p. II. a. 1. q. I. arg. 2. ad oppos.
-animae (c. 20. n. 34.) prolatam : Onines artes aniniam secum           et solut.
-attulisse mihi videri, nec aliud quidquam esse id quod dicitur               5 Vide supra pag. 397, nota I. et pag. 468. nota 3. —
-discere, quam reminisci ct recordari.                                  i\Iox pro conscientia etiain edd. I, 2, 3, 4 cum pkirimis codd.
-      ' Lib. L Poster. c. 3: Et principium scientiae esse quod-        conscientia enim.
-dam dicimus, in quantum terminos cognoscimus. — In verbis                    ' Praeter testimoiiia hic in argg. allata cfr. etiam locc.
-ex Philosopho allatis Vat. post in quantum tenninos supplet co-        supra pag. 206, nota 2. el pag. 4S0, nota 3. ex Aristot. ct
-gnoscimus.                                                             August. cilt.
-      ' Aristot., I. 1'oster. c. li. (c. 18.), — Jlox edd. , excepta         * Cfr. supra d. 24. p. I. a. 2. q. I. in corp., ubi huec opi-
-'I, falso et conira codd. incomplexoi-um pro complexorum.              nio exjjlicatur.
-      * Seoundum Aristot., 11. Poster. c. 18. (c. 15.) et 1.                 « Aristot., III. de Anima, text. 18. (c. 5.).
-Metaph. c. I.
-                                                     DIST. XXXIX. ART. I. QUAEST. II.                                                         903
+6. Item, ius naturale naturaliter ligat voluntatem; sed ligamen[^6] voluntatis necessario praecedit actus cognitionis — affectum enim praecedit intellectus — ergo si voluntas naturaliter ad illud ius ligatur, videtur, quod illud ius naturaliter ab anima cognoscatur. Si ergo illius iuris cognitio est conscientia, patet etc.
 
-              m universali, acqnisiti quoad cognitionem in par-                    Sed hoc altendendum est praecipue; quia, sicut
-              ticulari; sive innati quoad cognitionem principio-             inter cognoscibilia quaedam sunt valde evidentia ,
-              rum , acquisiti quoad cognitionem conchisionum ;               sicut dignitates et prima principia ; quaedam sunt
-              nnde dignitas est iila quam quisque probat audi-               ■minus evidentia , sicul conclusiones particulares ;
-oD tnr.proba- lam '. — Sed nec iste modus dicendi consonal ver-              sic et in operabilibus quaedam sunt maxime evi-
-              bis Pliiloso|ihi et .\ugustini. Nam Pliilosoplius in           dentia , utpote illud : « quod tibi non vis fieri, alii
-              libro Posteriorum ■ probat, quod cognitio p;-M(c;^io-          ne feceris'», et quod Deo obtemperandum est, et
-              rmn non est nobis innala, deducens ad plura in-                consimilia. Quemadmodum igitur cognilio primorum
-              convenienlia ; et ibidem ostendit, quod « cognitio             principiorum ratione illius luminis dicitur essenobis
-              principiorum acquiritur via sensus, memoriae et ex-            innata, quia lumen illud sufflcit ad illa cognoscenda,
-              perientiae». Augustinns etiam in duodecimo iibro de            posl receptionem specierum, sine aliqua persuasione
-              Trinilate\ loquens de parvulo, qui resnondeb;il de om-         supci-addita, propler sui evidentiam : sic et primo-
-              nibus principiis geometriae, dicit ibi, quod hoc non           rum principiorum moralium cognitio iiobis innata
-              erat, quia anima iliins parvuli prius illa novisset,           est, pro eo quod iudicatorium illud sufficit ad illa
-              sed potius « ista videbat in quadam luce sni genc-             cognoscenda. Ritrsus , quemadmodum cognitio par-
-              ris incorporea; quemadmodum oculus carnis videt                ticularium conclusionum scientiarum acquisita est ,
-              quae in hac luce corporea contra adiacent, cuins               pro eo quod lumen nobis innatum non plene suffi-
-              lucis capax eique congruens est creatus » .                    cit ad illa cognoscenda, sed indiget aliqua persua-
-                    Et propterea est lertius modus dicendi, quod             sione et habilitatione nova : sic etiam intelligendum
-lopinio 3. habitus cognitivi quodam modo sunt nobis mHcU)' et                est ex parte operabilium , quod quaedam sunt agen-
-           quodam modo acquisiti, non tantnm loqiiendo de                    da, ad quae tenemur, quae non cognoscimus nisi per
-           cognitione in parliculari et de cognitione conclusio-             instructionem' superaddiSam. ^ Quoniam igitur co)i-
-           nuni, sed etiam de cognitione principiorum. Cum                   scienlia nominat habituni directivum nostri iudicii
-           enim ad cognilionem duo concurrant necessario, vi-                respectu operabilium, hinc est, quod qiiodam inodo
-           delicet praesentia cognoscibilis et lumen, quo me-                babitum nominat innatum , et quodam modo nomi-
-           diante de illo iudicamus, sicut videmus in visu,et                nat acquisitum. Ilabitum , inquam , innalum nominat conciosio 3.
-          in praecedenti auctoritale innuit Augustinus'' ; habi-             respectu eorum quae sunt de primo dictamine na-
-Qcinsio2. tus cognilivi sunt quodam modo nobis innati ratione                turae; habitum vero acquisitum respectu eorum quae
-          luminis animae inditi, sunt etiam quodam modo                      sunt inslitutionis superadditae. Habitum etiam inna-
-          acquisiti ratione sprciei; et hoc quidem verbis Phi-               tum dicit respectu luminis directivi; babitnm nihi-
-          losophi et Augustini concordat. Omnes enim in hoc                  lominus acquisitum respectu speciei ipsius cognosci-
-          concordant, quod potentiae cognitivae sit lumen in-                bilis. Naturale enim habeo lumen , quod sufficit ad
-          ditum, quod vocalur naturale indicalorium ; speciie*               cognoscendum , quod parentes sunl honorandi , et
-          autem et simililudines rerum acquiruntur in nobis                  quod proximi non sunt laedendi ; non tamen habeo
-          medianle sensu, sicut expresse dicit Philosophus in                naturaliler mihi impressam speciem patris, vel spe-
-          multis locis ° ; et hoc etiam experientia docet. Nemo              ciem proxinii.
-          enim imquam cognosceret totum , a.ui partem, aut                         Ilis visis, plana est responsio ad quaestionem
-          patrem. , aut matreni , nisi sensu aliquo exteriori                propositam et etiam ad obiecta. Concedo enim, quod Epiiogus.
-          speciem eius acciperet; et hinc est, quod « amit-                  conscientia dicit habitum quodam modo innatum ,
-          tentes unum sensum necesse habemus unam scien-                     videlicet ratione illius luminis super nos signati ,
-          liam amittere"». Illud aulem lumen sive naturale                   quod quidem ostendit nobis bona ', et quod est se-
-          iudicatorium dirigit ipsam animam in iudicando tam                 minarium aliorum habituum acquirendorum; et sic
-          de cognoscibilibus quam de operabilibus.                           currunt rationes ad primam partem inductae. Con-
+**Sed contra:**
+1. Philosophus in tertio *de Anima*[^7] dicit, quod «anima creata est sicut tabula rasa, in qua nihil depictum est»: ergo videtur, quod anima a sua prima conditione nullam habeat innatam cognitionem. Si ergo habitus conscientiae dicit aliquam cognitionem, videtur, quod non sit innatus, sed acquisitus.
 
+<!-- page 902 -->
+2. Item, Augustinus in primo libro *Retractationum*[^8] retractat hoc quod dixerat, «animam creari scientem, sed mole corporis oppressam oblivisci eorum quae sciebat»; sed non retractaret, nisi haberet hoc pro falso: ergo falsum est secundum Augustinum, quod anima habeat naturaliter cognitionem agendorum. Si ergo conscientia est huiusmodi habitus cognitivus, videtur, quod non sit innatus, sed acquisitus.
 
-            ' Boelli., de Hebdom. sive quomodo substantiiie in eo quod       7. ct pag. .568,    nota 5. — Cod.      V voci parvulo      praemittit
-       sinl, bonae sint etc. In Vat. deest propositio unde dignitas...
-       auditam.                                                                   * lidd. hic perperam subiiciunt quod.
-                                                                             quodam.
-             ° Libr. 11. c. 18. (c. 1-5.), ubi pro sua sententia alTert,          = Libr. I. Poster. c. 14. (c. 18.); II. c. 18. (c. IS.); 111. de
-       quod si notitia principiorum nobis es.set innata , ipsa nobis esset   Anima, le.vt. 39. (c. 8.); 1. .Metaph. c. I. Cfr. siipra d. 24. p. I.
-       certissima et simul (ut e.xpcrientia docet) nos lateret; et .si la-   a. 2. q. 4. et d. 25. p. 11. q. 6.
-       leret, per aliam priorem excitarelur. — In teslimonio Philoso-             « Arislot., I. Poster. c. 14. (c. 18.).
-       phi edd. praeter 1 post acquiritur subiungunt iii nobis.                   ' Tob. 4, IB: Quod ab alio oderis fieri tibi, vide ne lu
-             ' Cap. 15. n. 24, quo in loco pro contra adiacent lexlus        aliquando alteri facias. Cfr. Mallh. 7, 12; Luc. 6, 31.
-       origin. habet circumadiacent , cod. A circumcirca adiacent ,               * In cod. T antiqua amanuensis nianus instructionem com-
-       cod. T (a secunda manu) cum Vat. et edd. 2, 3, 4 circa adia-          mutavit in institutionem. Aliquanto inferius pro institutionis ,
-       cent. In cod. P ad verba videbat in quadam luce in margine            quam leclionem ex codd. restauravimus, Vnt. instructionis.
-       ab antiqua manu annotalum est: lucedivina, quae assistit no-                 ^ Kespicitur illud Ps. 4, 6. seq. : Quis osteiidit nobis bona"?
-       stro intetleciui et est ratio cognoscendi. Cui explicationi con-      Signatum est super nos lumen vultus tui, Domine. — S. Thom.,
-       cordat ipse August., I. Retract. c. i. n. 4. et c. S. n. 2. Cfr.      S. p. 1. q. 79. a. 12. arg. 3, ait: « Augustinus dicit in libro
-       supra pag. 266, nota 2; pag. 270, nota 4; pag. 413, nota              [II. c. 10. n. 29.] de Lib. Arb., quod in naturali iudicatorio adsunt
-         904                                                   SENTENTIARUM LIB. U.
-                                                                                                                                                       eidcDS sol^i
+3. Item, non habetur cognitio de complexo, nisi habeatur de incomplexo — unde non cognoscit principium qui non cognoscit terminos, propter quod dicit Philosophus[^9], quod «principia cognoscimus, in quantum terminos» — sed cognitionem incomplexorum non habemus nisi mediantibus sensibus; nemo enim cognoscit colorem nisi per visum, et propterea «amittentes unum sensum necesse est unam scientiam amittere»[^10]. Si ergo omnis scientia incomplexorum est mediante sensu, necesse est, quod omnis cognitio complexorum sit acquisita et accepta a sensu; sed conscientia dicit cognitionem complexi, utpote alicuius regulae iuris naturalis: ergo videtur, quod conscientia non dicat habitum innatum, sed acquisitum.
 
-            cedo nihiloDiinus, quod conscienlia dicil quodani modo              qua quaeritur , utrum omnis cognitio sit a sensu, Quacstio i)
-                                                                                Dicendura est, quod non. Necessario enim oportet
-            habilum acquisitum, videlicet ratione specierum ipso-               ponere, quod anima novit Deura et se ipsara et quae
-            rum cognoscibilium, sicul ostendunt tres primae ra-
-            tiones ad secundara partem inductae. Concedo etiam,                 sunt in se ipsa, sine adminiculo semuum exterio-
-                                                                                rum. Unde si aUquando dicat Philosophus-, quod
-            quod dicit habitum quodam modo acquisitum re-                       « nihil est in intellectu , quod prius non fuerit in
-            spectu specialium operabilium , sicut tres aliae ra-                sensu » et quod « oranis cognitio habet ortum a
-corouaiiam tiones ostenduut. — Si qua autera sunt cognoscibilia,
-resinngeDs. ^^^^ quidem cognoscantur per sui essenliam, non                     sensu » ; inteUigendum est de illis quae quidem ha-
-            per speciem , respeclu talium poterit dici conscientia              bent esse in anima per similitudinem abstractam ;
-            esse habitus simpliciter innatus , utpole respectu                  et iUa dicuntur esse in anima ad modum scripturae.
-            huius quod est Deura amare et Deum timere. Deus                     Et propterea valde notabiUter dicit Philosophus ' ,
-            enim non cognoscitur per similitudinem a sensu                      quod in anima nihil scriptum est, non quia nulla
-            acceptam , immo « Dei notitia naturaliter est nobis                 sit in ea notitia, sed quia nnlia esl in ea pictura vel
-            inserta», sicut dicit Augustiuus '. Quid autem sit                  similitudo abstracta. Et lioc est quod dicit Angustinus
-            amor et timor , non cognoscit homo per similitu-                    in hbro de Civitate Dei * : « hiseruit nobis Deus natu-
-            dineni exierius acceptam , sed per essentiam ; hu-                  rale iudicalorium, ubi quid sit lucis, quid tenebrarum,
-            iusmodi enim affectus essentialiter sunt in anima.                  cognoscitur in libro lucis , qui veritas est, quia ve-
-                  Ex his patet responsio ad illam quaestionem ,                 ritas in corde hominum naturaliter est impressa».
+4. Item, aequalis difficultatis vel maioris est scire ea quae pertinent ad mores, sicut ea quae pertinent ad simplicem speculationem; sed scientia, quae est habitus cognitivus speculandorum, non est nobis innata, sed acquisita[^11]: ergo pari ratione et conscientia, quae est habitus dirigens in agendis, non est innata, sed acquisita.
 
-                                                                    SCHOLION.
-               I. Qui ciiiii S. Tlionia lenenl, conscienliam proprie dieere           II. Plura in hac quaesl. occurrunt, quae spectanl ad do-
-         actnm, syndercsim vero habilum innatum intclleclus, pi'oponcn-         ctrinam cle raiionc humanae cognitionis, de qua iam saepius
-         tem prinia principia practica, non possunt amplius inquirere de        sermo fuit. De intellectu agente et possibili cfr. supra d. 24.
-         habitu innato conscientiae. Hanc autem quaesiionem S. Bonav.           p. I. a. 2. q. 4. — De cognitione Dei I. Sent. d. 3. p. I. q. I.
-         Iiic ponit et cum duplice distinclione solvit. Cum aulem S. Tho^       2; II. Sent. d. 23. a. 2. q. 3, et cfr. d. 3. p. li. a. 2. q. 2.,
-         mas synderesi tribuat id quod secundum S. Bonavenluram est                   In hac autem quaestione plenius exponitur doctrina de fto-
-         ea pars conscientiae , quae imponai liabitum innatum ; Angeii-         bitibus innatis et acquisitis , de qua re iam nonnulla dicta sunl
-         eus fei'e iisdem verbis loquilur de synderesi, quae S. Bonav.          I. Sent. d. 17. p. 1. q. 4, et schol. Si igitur quaeritur , quid
-         adhibet quoad conscientiae habitum innatum. Nam ille synderc-          quoad cognitionem sive scienliam aniniae humanae sit innatuni,
-         sim cum Magislro (hic c. 3.) nominat scintitlam. rationis (hic q.      quid acquisitum ; antiqui Scholastici in praecipuis principiis
-         3. a. 1.) atque (de Verit. q. 16. a. 1.) affirmat, quod <• anima hu-   conveniebant. Supponenda auteni est distinctio in praecedente
-         mana, quantum ad id quod in ipsa supremum est, aliquid                 quaesl. notata, quod scilicet nomen scientiae (conscieniiae) ac-
-         attingit de eo quod proprium esl naturae angelicae (cfr. S. Bo-        cipitur vel pro potentia , vel pro habitu ; vel pro obieclo scito,
-         nav., supra d. I. p. II. a. I. q. 2.), ut scilicet aliquorum cogni-    vel pro aciuali notitia (cfr. supra d. 38. a. 2. q. 2. ad 2; III.
-         tioncm subito et sine inquisitione habeat ; quamvis quantum ad         Senl. d. 31. a. 2. q. 3.). Idem dicenjlum de vocabulo intcl-
-         hoc inveniatur .\ngeIo inferior, quod in his veritatem cogno-          lectus , nisi quod , propric loquendo, « scire nominat cogniiio-
-         scere non potest, nisi a sensu accipiendo » [scil. speciem]...         nem in Iiabitu , sed intetligere in «cte » (III. Senl. d. 14. a. 2.
-          n Unde et in natura humana , in quantum attingit angclicam ,          q. 2. fundam. 1.). Manifestum autem est, quod de ipsa potentia
-         oportet esse cognitionem verilatis sine inquisitione, et in spe-       intelligendi et sciendi intcr catholicos non in quaestionem vocatur,
-         culativis et in practicis». » Onde et hanc cogniiionem oportet         utruni sit innata, cum sit facullas animae rationali esseniiatis,
-         homini naturaliter inesse, cum hoc quidem cognoscat quasi              inorganica, a facultate sensitiva distincta eamque eminentissime
-         quoddam seminarium lotius cognilionis sequentis, sicut et in           excedens (cfr. supra d. 24. p. I. a. 2. q. 4. ad opin. 6.). Restat
-         omnibus naturis sequentium operationum et eflectuum quaedam            igitur quaeslio de habitu eiusque aciu ; de quibus haec prin-
-         naturalia seniina •pvae<i\h\.un\. ; oporlet etiam, hanc cognitionem    cipia communiter tradebantur.
-         habitualem esse , ut in promptu cxistat ea uti , cum fuerit ne-              1. Praeter habitus acquisitos ponendi sunt in anima humana
-         cesse 1) etc. (cfr. Comment. loc. cit. ; S. I. q. 79. a. 8. 9. 12;     habitus innati, et quidem quoad potentiam cognitivam innatus
-         de Verit. q. 11. a. 1, q. 16. a. 1.).                                  habitus primorum principiorum (hic , et I. Sent. d. 17. loc. cit.
+5. Item, omnis habitus naturalis semper est rectus[^12]; conscientia autem aliquando est recta, aliquando erronea: ergo conscientia non est habitus naturalis, sed acquisitus.
 
+6. Item, habitus naturales *omni* insunt et *semper*, quia naturalia sunt illa quae sunt eadem apud omnes, et naturalia comitantur naturam inseparabiliter[^13]; sed conscientiae non sunt eaedem apud omnes, immo frequenter sunt contrariae; conscientia etiam non *semper* inest, quia frequenter homo incipit habere conscientiam, quam prius non habebat, sicut religiosus, ex quo intrat religionem, habet conscientiam, quod non liceat ei facere contra consilia, et hanc prius non habebat: ergo etc.
 
-         quaedani regulae et semina virtutum » [ed. oper. August. lu-           Civ. Dei in fine huius quaesl. allatum, quod cognitionem Dei
-         mina virtuluml e(c. Et Malth. ab Aquasparla in 4. quaest. a            habitualem declarat et morfjm indicat , quo acquiratur, scilicet
-         nobis publicata in opusc. de Humanae Cognitionis ratione, pag.         iudicando (rafiocinando), non abstrahendo. Cfr. etiam I. Sent.
-         147, lectorem ad eundem August. locum delegans ait: .Augusli-          d. 3. p. I. q. 1. ad 5. et d. 17. p. I. q. 4.
-         nus, secundo de Lib. Arb., ubi dieit, quod anima habet in se                - Praoter locc. in hac quaest. iam citt. cfr. etiam liber de
-         seminaria virlutum. Paulo inferius post acquisitum cod. T re-          Sensu et sens. c. 6. et Comment. Averrois in hunc libruin , ubi
-         pelit acquisitum.                                                      (in fine) dicitur: n Quilibet sensus istorum in homine est via
-               ' Uectius Daniascenus, I. de Fide orlhod. c. 1. et 3. Au-        ad prima intellecla existentia in illo genere, el praecipue audi-
-         gustinus quoque idem dicit, in loan. Evang. tr. 106. n. 4, sed         tus et visus». Themistius (unus ex anliquioribus commentato-
-         senlentialiler tantum: ci Haec est enim vis verae divinitalis, ut      ribus -\ristol.) in I. de .\nima, text. 42. ait: Intellecfio lota ex
-         creaturae rationali, iam ratione utenti, non omnino ac penilus         sensibus pendet, quia sine visis et imaginibus non perfleitur.
-         possit abscondi. Exceplis enim paucis, in quibus natura nimium              3 Libr. III. de .\nima, text. 14. (c. 4.): Oportet autem sic,
-         dcpravata est, universum genus humanum Deum mundi huius                ut in tabula, in qua nihil est scriptum (YEYpaiili^vov ) actu.
-         fatetur auctorem 1). Cfr. etiam locc. ex August. supra pag. SI7,            ■• Libr. XI. c. 27. n. 2. sententialiler, de quo vide I. Sent.
-          nota 2. citt., in quibus s. Doctor docet, hominem naturaliter         d. 17. p. I. q. 4. schol. n. II. — In lioc textu August. edd., exce-
-          appetere beatitudinem ; et VIII. de Trin. c. 3. n. 4, ubi docet,      pta 1, cum cod. ee pro naiurale substituiint «oWte, et subindc
-          notionem boni nobis esse impressam; nec non tcstimonium ex            pro ubi codd. F V bb habent ut, cod. D undc.
-                                                                                                                                                  905
-                                                         DIST. XXXIX. ART. I. QUAEST.
+### Conclusio
 
-       et supra d. 24. loc. cit. ad opin. 6.), ubi hic habitus iiltribui-          licet qiiatenus intcllectus materiam huius cogniiionis accipit a
-       tur intelleclui agenti (cfr. etiam supra d. 17. a. I. q. I.ad 6,            sensibus. — De modo autem specialiore, quo anima sibi ex phan-
-       d. 24. p. II. a. I. q. 1.). Consentit S. Thom. (de Vcrit. q. 16.            tasmahbus format species intelligibiles, variae etiam inter Scho-
-       a. 3.), quod lumen intellectus agentis, per quod principia prima            lasticos fuerunt opiniones (cfr. S. Thom. , de Verit. q. 1 0. a. 6 ;
-       in speculativis et operabilibus nobis innotescunt, « est de natura          S. I. q. 84. a. 1-8, q. 8.5. a. 1. 2, vide et diffusam quaestio-
-       ipsius animae, cum per hoc sit intelleclualis ; de quo lumine               nem disputatam Matth. ab .\quasparla, a nobis cditam in libro
-       dicitur in Psalmo (4, 7.): Signatum est svprr nos lumen vitltus             de Humanae Cognilionis ratione, typis Collegii S. Bonav. 1883,
-       tui I etc. Hac ratione habitus pi-imorum principiorum et « quae-            pag. 139-159).
-       dam semina scientiarum • dicuntiir nobis innata; « quia staiim                    6. Duplex est via sive motus intellectus, scilicet a rebus
-       lumine intellectus agentis cognoscuntur per species a sensibus              ad mentem, et a menle ad res (S. Bonav., III. Senl. d. 14. a.
-       abslractas, sive sint complexa, ut dignitates, sive incomplexa,             3. q. 2. ad 3.). In primo motu sive via acquisitionis operalio
-       ut ratio entis et unius et huiusmodi, quae statim intellectus               mentis incipit a sensibilibus et terminatur ad intellcclum ; in
-       apprehendit » (de Verit. q. II. a. 1, cfr. q. 10. a. 6.).                   secundo vero operatio incipit a nicnte et terminatui' ad res
-              2. Ut habitus iste innatus i-educatur ad actum sive pro-             (S. 13.).
-                                                                                   ad  Thom. , de Verit. q. 10. a. 3; Mallh. ab Aquasp., loc. cit.
-       cedal ad aclualem intellectionem , reciuiritur species intetUgibitis,
-        B qua formelur acies intellectus possibilis ab ipso intclligibili ,              6. Aliter ac de rebus exlra animam existentibus loquendum
-       ex qua formatione est in plcniori aclualitate respectu cius quod            est respectu cognitionis ipsius aiiimae , et eorum quae in ipsa
-       debet intelligere, quam erat prius, cum carebat specie d (supra             sunt. Ab omnibus enim Scholaslicis approbatur dictuin .\ugu-
-       d. 24. loc. cit. ad 3. 6, cfr. in corp. ad opin. 4 ; I. Sent. d. 3. p. I.   stini (l.K. dc Trin. c. 3. n. 3.), quod « mens se ipsam per se
-       q. I. ad S. et d. 17. p. I. q. 4. in finc). Et hac ratione S. Bonav.        psam cognoscit », et oum S. Bonav. docet S. Thom. (dc Verit.
-       (supra d. 24. loc. cit. ad opin. 5.) approbat scntentiam Philoso-           a. 5. ad S. et 9.), quod « anima non cognoscat se ipsam per
-       phi, qua docetur, o animam csse creatam sicut tabulam ra-                   aliam speciem abstractam a se , sed per speciem obiecti sui»,
-       sam B , <t nec habere cognitionem habituum sibi innalam , sed               quia « essentia sibi innata est , ut non eam necesse habeat
-       acquirere mediante sensu et experientia » ; simul ibi negat ,               a phanl.ismatibus acquirere ». Ilinc idem (loc. cil.) docet: « Ad
-       I quod intellectus noster dicatur habere apud se eognilionem                hoc quod |)ercipiat anima, se esse, et quid in se ipsa agatur;
-       universalium innatam.                                                       non requiritui- aliquis habitus , sed ad hoc sufflcit sola essentia
-              3. Respectu harum specierum intclligibilium distinguendum            animae , quae menti est praesens ; ex ea enim aclus progre-
-       est aliterque loquendum de cognitione rerum, quae extra ani-                diuntur, in quibus actualiter ipsn percipitur ». Hoc dicit quoad
-       mam sunt, aliter de cognitione ipsius mentis, et eorum quae                 cognitionem habitualem ; quoad actualem vero ibi docetur ,
-       in ea sunt (hic et I. Sent. d. 17. loc. cit.). Praescindimus autem          <t quod aninia cognoscitur per actus suos » (cfr. S. Bonav., hic
-       hoc loco a cognltione Dei.                                                  in flne respons., et I. Sent. d. 3. p. II. a. 2. q. I. ad I. 2.). Et
-              4. De rebus extra animam non possumus habere notitiam                notandum, quod S. Bonav. (hic in fine resp.) etiam Aristotelem
-       solummodo ex eis quae in nobis sunt, cum non habeanius                      in eodem fere sensu interpretalur. Mulla de variis magislrorum
-       earum species concreaias, nec in universali nec in particulari              opinionibus circa hanc rem profert Matth. ab .Aquasparta, loc.
-       (supra d. 24. loc. cit.). Hinc requiritur, ut anima similitudines           cil. pag. IC6-I77.
-       vel species oarum sibi acquirat, quod, teste cxperientia , non                    7. Quod autem ad omncm actualem cognilionem inlclle-
-       fit, nisi concurrcnlibus sensibus et potentiis sensitivis. Nam phan-        ctualeni prima Veritas concurral immediale, docetur ab om-
-       tasmala praebent operationi intellectuali quasi matcriam, ex qua            nibus .Scholasticis, praeter Durandum et aliquos antiquiores, ut
-       ipse inlelleclus agens sua virtute et lumine proprio forniat sibi           iam sacpe diximus. Sed S. Bonav. hunc concursum sive illu-
-       species harum rerum intelligibiles (cfr. supra d. 17. a. I. q. 2.           minationem divinam speciali modo urget, ut exposilum est in
-       ad 4; III. Sent. d. 14. a. 3. q, 2, d. 37. dub. 1. et passim).              toto opusculo citato de Humanae Cognitionis rationo.
-       Nullateiius aulem anliqui Scholaslici admittunt doctrinam sensi-                  Ex pracdictis iam perspicitur, falsissimam esse criminatio-
-       starum, quod cognitio intellectualis principaliter caiisetur a              nem , quod Scholastici faveant erroribus sensistarum.
-       sensibus vel potentiis sensitivis, ot quod spirituale gignetur ex                 III. Ilanc quaestionem alii antiqui magistri plerumque tan-
-       virtute rci corporalis ; potius explicite docent, inferiores poten-         tum tangunt in praecedente quaesl. De ea explicite agunt: Alex.
-       tias TiQc formatiter nec effective , sed tantum ministerialiter et          Hal., S. p. II. q. 78. m. 2. 3. 4. — B. Albert., S. p. II. tr.
-       materialiter concurrere ad formandas species intelligibiles, sci-           16. q. 99. m. 3. q. incid. I.
+> **Conclusio.** Conscientia dicit habitum innatum ratione tum luminis animae inditi, tum primorum principiorum moralium, dicit autem habitum acquisitum tum ratione specierum ipsius cognoscibilis, tum respectu specialium operationum.
+
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod praeter illam positionem Platonicam, quae posuit, animae esse habitus omnes simpliciter cognoscendorum innatos, sed oblivioni dari ad tempus propter corporis molem, quam improbat et reprobat tam Philosophus quam Augustinus[^14]; tres fuerunt opiniones doctorum de origine habituum cognitivorum. Et omnes tres illae positiones in hoc concordant, quod sicut virtutes consuetudinales nec sunt omnino a natura nec omnino ab acquisitione, sed quodam modo sunt innatae, quodam modo acquisitae: sic etiam et habitus cognitivi nec sunt omnino innati nec omnino acquisiti, sed quodam modo innati et quodam modo acquisiti. In assignando autem modum, secundum quem isti habitus sunt innati, et secundum quem sunt acquisiti, diversificantur diversi.
+
+Quidam enim dicere voluerunt, quod innati sunt quantum ad intellectum agentem, sed acquisiti sunt quantum ad intellectum possibilem; et quantum ad istum intellectum dicit Philosophus, animam creari sicut tabulam nudam, et ille intellectus est, qui habet perfici mediantibus potentiis sensitivis[^15]. — Sed istud non videtur esse consonum nec verbis Philosophi nec veritati. Si enim intellectus agens haberet habitus cognoscendorum, quare non posset illos communicare possibili sine adiutorio sensuum inferiorum? Rursus, si intellectus agens haberet habitus cognoscendorum, iam anima a sua conditione non esset ignorans, immo potius esset sciens. Difficile etiam est simul cum hoc intelligere, quomodo species dicantur esse in intellectu agente, cum possibilis dicatur «quo est omnia fieri», et agens «quo est omnia facere»[^16].
+
+Et ideo est secundus modus dicendi, quod habitus cognitivi quodam modo sunt innati, quodam modo acquisiti. Innati enim sunt quoad cognitionem
+<!-- page 903 -->
+in universali, acquisiti quoad cognitionem in particulari; sive innati quoad cognitionem principiorum, acquisiti quoad cognitionem conclusionum; unde dignitas est illa quam quisque probat auditam[^17]. — Sed nec iste modus dicendi consonat verbis Philosophi et Augustini. Nam Philosophus in libro Posteriorum[^18] probat, quod cognitio principiorum non est nobis innata, deducens ad plura inconvenientia; et ibidem ostendit, quod «cognitio principiorum acquiritur via sensus, memoriae et experientiae». Augustinus etiam in duodecimo libro *de Trinitate*[^19], loquens de parvulo, qui respondebat de omnibus principiis geometriae, dicit ibi, quod hoc non erat, quia anima illius parvuli prius illa novisset, sed potius «ista videbat in quadam luce sui generis incorporea; quemadmodum oculus carnis videt quae in hac luce corporea contra adiacent, cuius lucis capax eique congruens est creatus».
+
+Et propterea est tertius modus dicendi, quod habitus cognitivi quodam modo sunt nobis innati et quodam modo acquisiti, non tantum loquendo de cognitione in particulari et de cognitione conclusionum, sed etiam de cognitione principiorum. Cum enim ad cognitionem duo concurrant necessario, videlicet praesentia cognoscibilis et lumen, quo mediante de illo iudicamus, sicut videmus in visu, et in praecedenti auctoritate innuit Augustinus[^20]; habitus cognitivi sunt quodam modo nobis innati ratione luminis animae inditi, sunt etiam quodam modo acquisiti ratione speciei; et hoc quidem verbis Philosophi et Augustini concordat. Omnes enim in hoc concordant, quod potentiae cognitivae sit lumen inditum, quod vocatur naturale iudicatorium; species autem et similitudines rerum acquiruntur in nobis mediante sensu, sicut expresse dicit Philosophus in multis locis[^21]; et hoc etiam experientia docet. Nemo enim umquam cognosceret *totum*, aut *partem*, aut *patrem*, aut *matrem*, nisi sensu aliquo exteriori speciem eius acciperet; et hinc est, quod «amittentes unum sensum necesse habemus unam scientiam amittere»[^22]. Illud autem lumen sive naturale iudicatorium dirigit ipsam animam in iudicando tam de cognoscibilibus quam de operabilibus.
+
+Sed hoc attendendum est praecipue; quia, sicut inter cognoscibilia quaedam sunt valde evidentia, sicut dignitates et prima principia; quaedam sunt minus evidentia, sicut conclusiones particulares; sic et in operabilibus quaedam sunt maxime evidentia, utpote illud: «quod tibi non vis fieri, alii ne feceris»[^23], et quod Deo obtemperandum est, et consimilia. Quemadmodum igitur cognitio primorum principiorum ratione illius luminis dicitur esse nobis innata, quia lumen illud sufficit ad illa cognoscenda, post receptionem specierum, sine aliqua persuasione superaddita, propter sui evidentiam: sic et primorum principiorum moralium cognitio nobis innata est, pro eo quod iudicatorium illud sufficit ad illa cognoscenda. Rursus, quemadmodum cognitio particularium conclusionum scientiarum acquisita est, pro eo quod lumen nobis innatum non plene sufficit ad illa cognoscenda, sed indiget aliqua persuasione et habilitatione nova: sic etiam intelligendum est ex parte operabilium, quod quaedam sunt agenda, ad quae tenemur, quae non cognoscimus nisi per instructionem[^24] superadditam. — Quoniam igitur conscientia nominat habitum directivum nostri iudicii respectu operabilium, hinc est, quod quodam modo habitum nominat innatum, et quodam modo nominat acquisitum. Habitum, inquam, innatum nominat respectu eorum quae sunt de primo dictamine naturae; habitum vero acquisitum respectu eorum quae sunt institutionis superadditae. Habitum etiam innatum dicit respectu luminis directivi; habitum nihilominus acquisitum respectu speciei ipsius cognoscibilis. Naturale enim habeo lumen, quod sufficit ad cognoscendum, quod parentes sunt honorandi, et quod proximi non sunt laedendi; non tamen habeo naturaliter mihi impressam speciem patris, vel speciem proximi.
+
+His visis, plana est responsio ad quaestionem propositam et etiam ad obiecta. Concedo enim, quod conscientia dicit habitum quodam modo innatum, videlicet ratione illius luminis super nos signati, quod quidem ostendit nobis bona[^25], et quod est seminarium aliorum habituum acquirendorum; et sic currunt rationes ad primam partem inductae.
+<!-- page 904 -->
+Concedo nihilominus, quod conscientia dicit quodam modo habitum acquisitum, videlicet ratione specierum ipsorum cognoscibilium, sicut ostendunt tres primae rationes ad secundam partem inductae. Concedo etiam, quod dicit habitum quodam modo acquisitum respectu specialium operabilium, sicut tres aliae rationes ostendunt. — Si qua autem sunt cognoscibilia, quae quidem cognoscantur per sui essentiam, non per speciem, respectu talium poterit dici conscientia esse habitus simpliciter innatus, utpote respectu huius quod est Deum amare et Deum timere. Deus enim non cognoscitur per similitudinem a sensu acceptam, immo «Dei notitia naturaliter est nobis inserta», sicut dicit Augustinus[^26]. Quid autem sit amor et timor, non cognoscit homo per similitudinem exterius acceptam, sed per essentiam; huiusmodi enim affectus essentialiter sunt in anima.
+
+Ex his patet responsio ad illam quaestionem, qua quaeritur, utrum omnis cognitio sit a sensu. Dicendum est, quod non. Necessario enim oportet ponere, quod anima novit Deum et se ipsam et quae sunt in se ipsa, sine adminiculo *sensuum exteriorum*. Unde si aliquando dicat Philosophus, quod «nihil est in intellectu, quod prius non fuerit in sensu» et quod «omnis cognitio habet ortum a sensu»; intelligendum est de illis quae quidem habent *esse* in anima per *similitudinem abstractam*; et illa dicuntur esse in anima ad modum scripturae. Et propterea valde notabiliter dicit Philosophus, quod in anima nihil scriptum est, non quia nulla sit in ea notitia, sed quia nulla est in ea pictura vel *similitudo abstracta*. Et hoc est quod dicit Augustinus in libro *de Civitate Dei*: «Inseruit nobis Deus naturale iudicatorium, ubi quid sit lucis, quid tenebrarum, cognoscitur in libro lucis, qui veritas est, quia veritas in corde hominum naturaliter est impressa».
+
+### Scholion
+**I.** Qui cum S. Thoma tenent, conscientiam proprie dicere actum, synderesim vero habitum innatum intellectus, proponentem prima principia practica, non possunt amplius inquirere de habitu innato conscientiae. Hanc autem quaestionem S. Bonav. hic ponit et cum duplice distinctione solvit. Cum autem S. Thomas synderesi tribuat id quod secundum S. Bonaventuram est ea pars conscientiae, quae importat habitum innatum; Angelicus fere iisdem verbis loquitur de synderesi, quae S. Bonav. adhibet quoad conscientiae habitum innatum. Nam ille synderesim cum Magistro (hic c. 3.) nominat *scintillam rationis* (hic q. 3. a. 1.) atque (de Verit. q. 16. a. 1.) affirmat, quod «anima humana, quantum ad id quod in ipsa supremum est, aliquid attingit de eo quod proprium est naturae angelicae (cfr. S. Bonav., supra d. 1. p. II. a. 1. q. 2.), ut scilicet aliquorum cognitionem subito et sine inquisitione habeat; quamvis quantum ad hoc inveniatur Angelo inferior, quod in his veritatem cognoscere non potest, nisi a sensu accipiendo» [scil. speciem]... «Unde et in natura humana, in quantum attingit angelicam, oportet esse cognitionem veritatis sine inquisitione, et in speculativis et in practicis». «Unde et hanc cognitionem oportet homini *naturaliter* inesse, cum hoc quidem cognoscat quasi quoddam *seminarium* totius cognitionis sequentis, sicut et in omnibus naturis sequentium operationum et effectuum quaedam *naturalia semina* praeexistunt; oportet etiam, hanc cognitionem habitualem esse, ut in promptu existat ea uti, cum fuerit necesse» etc. (cfr. Comment. loc. cit.; S. I. q. 79. a. 8. 9. 12; de Verit. q. 11. a. 1, q. 16. a. 1.).
+
+**II.** Plura in hac quaest. occurrunt, quae spectant ad doctrinam de ratione humanae cognitionis, de qua iam saepius sermo fuit. De intellectu agente et possibili cfr. supra d. 24. p. I. a. 2. q. 4. — De cognitione Dei I. Sent. d. 3. p. I. q. 1. 2; II. Sent. d. 23. a. 2. q. 3, et cfr. d. 3. p. II. a. 2. q. 2.
+
+In hac autem quaestione plenius exponitur doctrina de *habitibus innatis et acquisitis*, de qua re iam nonnulla dicta sunt I. Sent. d. 17. p. I. q. 4, et schol. Si igitur quaeritur, quid quoad cognitionem sive scientiam animae humanae sit *innatum*, quid *acquisitum*; antiqui Scholastici in praecipuis principiis conveniebant. Supponenda autem est distinctio in praecedente quaest. notata, quod scilicet nomen *scientiae* (conscientiae) accipitur vel pro *potentia*, vel pro *habitu*; vel pro *obiecto scito*, vel pro *actuali notitia* (cfr. supra d. 38. a. 2. q. 2. ad 2; III. Sent. d. 31. a. 2. q. 3.). Idem dicendum de vocabulo *intellectus*, nisi quod, proprie loquendo, «scire nominat cognitionem in *habitu*, sed intelligere in *actu*» (III. Sent. d. 14. a. 2. q. 2. fundam. 1.). Manifestum autem est, quod de ipsa potentia intelligendi et sciendi inter catholicos non in quaestionem vocatur, utrum sit *innata*, cum sit facultas animae rationali essentialis, inorganica, a facultate sensitiva distincta eamque eminentissime excedens (cfr. supra d. 24. p. I. a. 2. q. 4. ad opin. 6.). Restat igitur quaestio de *habitu* eiusque *actu*; de quibus haec principia communiter tradebantur.
+
+1. Praeter habitus *acquisitos* ponendi sunt in anima humana habitus *innati*, et quidem quoad potentiam cognitivam innatus habitus *primorum principiorum* (hic, et I. Sent. d. 17. loc. cit. et supra d. 24. loc. cit. ad opin. 6.), ubi hic habitus attribuitur *intellectui agenti* (cfr. etiam supra d. 17. a. 1. q. 1. ad 6, d. 24. p. II. a. 1. q. 1.). Consentit S. Thom. (de Verit. q. 16. a. 3.), quod lumen intellectus agentis, per quod principia prima in speculativis et operabilibus nobis innotescunt, «est de natura ipsius animae, cum per hoc sit intellectualis; de quo lumine dicitur in Psalmo (4, 7.): *Signatum est super nos lumen vultus tui*» etc. Hac ratione habitus *primorum principiorum* et «quaedam *semina scientiarum*» dicuntur nobis innata; «quia statim lumine intellectus agentis cognoscuntur per species a sensibus abstractas, sive sint complexa, ut dignitates, sive incomplexa, ut ratio entis et unius et huiusmodi, quae statim intellectus apprehendit» (de Verit. q. 11. a. 1, cfr. q. 10. a. 6.).
+
+2. Ut habitus iste innatus reducatur ad *actum* sive procedat ad *actualem intellectionem*, requiritur *species intelligibilis*, «qua formetur acies intellectus possibilis ab ipso intelligibili, ex qua formatione est in pleniori actualitate respectu eius quod debet intelligere, quam erat prius, cum carebat specie» (supra d. 24. loc. cit. ad 3. 6, cfr. in corp. ad opin. 4; I. Sent. d. 3. p. I. q. 1. ad 5. et d. 17. p. I. q. 4. in fine). Et hac ratione S. Bonav. (supra d. 24. loc. cit. ad opin. 5.) approbat sententiam Philosophi, qua docetur, «animam esse creatam sicut tabulam rasam», «nec habere *cognitionem* habituum sibi innatam, sed acquirere mediante sensu et experientia»; simul ibi negat, «quod intellectus noster dicatur habere apud se cognitionem universalium innatam».
+
+3. Respectu harum specierum intelligibilium distinguendum est aliterque loquendum de cognitione rerum, quae extra animam sunt, aliter de cognitione *ipsius mentis*, et eorum quae in ea sunt (hic et I. Sent. d. 17. loc. cit.). Praescindimus autem hoc loco a cognitione Dei.
+
+4. De rebus *extra* animam non possumus habere notitiam solummodo ex eis quae in nobis sunt, cum non habeamus earum species concreatas, nec in universali nec in particulari (supra d. 24. loc. cit.). Hinc requiritur, ut anima similitudines vel species earum sibi *acquirat*, quod, teste experientia, non fit, nisi concurrentibus sensibus et potentiis sensitivis. Nam phantasmata praebent operationi intellectuali quasi materiam, ex qua ipse intellectus agens sua virtute et lumine proprio format sibi species harum rerum intelligibiles (cfr. supra d. 17. a. 1. q. 2. ad 4; III. Sent. d. 14. a. 3. q. 2, d. 37. dub. 1. et passim). Nullatenus autem antiqui Scholastici admittunt doctrinam sensistarum, quod cognitio intellectualis *principaliter* causetur a sensibus vel potentiis sensitivis, et quod spirituale gignetur ex virtute rei corporalis; potius explicite docent, inferiores potentias nec *formaliter* nec *effective*, sed tantum *ministerialiter* et *materialiter* concurrere ad formandas species intelligibiles, scilicet quatenus intellectus materiam huius cognitionis accipit a sensibus. — De modo autem speciali ore, quo anima sibi ex phantasmatibus format species intelligibiles, variae etiam inter Scholasticos fuerunt opiniones (cfr. S. Thom., de Verit. q. 10. a. 6; S. I. q. 84. a. 1-8, q. 85. a. 1. 2, vide et diffusam quaestionem disputatam Matth. ab Aquasparta, a nobis editam in libro de Humanae Cognitionis ratione, typis Collegii S. Bonav. 1883, pag. 139-159).
+
+5. Duplex est via sive motus intellectus, scilicet a rebus ad mentem, et a mente ad res (S. Bonav., III. Sent. d. 14. a. 3. q. 2. ad 3.). In primo motu sive via *acquisitionis* operatio mentis incipit a sensibilibus et terminatur ad intellectum; in secundo vero operatio incipit a mente et terminatur ad res (S. Thom., de Verit. q. 10. a. 3; Matth. ab Aquasp., loc. cit.).
+
+6. Aliter ac de rebus extra animam existentibus loquendum est respectu cognitionis ipsius *animae*, et eorum quae in ipsa sunt. Ab omnibus enim Scholasticis approbatur dictum Augustini (IX. de Trin. c. 3. n. 3.), quod «mens se ipsam per se ipsam cognoscit», et cum S. Bonav. docet S. Thom. (de Verit. a. 5. ad 5. et 9.), quod «anima non cognoscat se ipsam per aliam speciem abstractam a se, sed per speciem obiecti sui», quia «essentia sibi innata est, ut non eam necesse habeat a phantasmatibus acquirere». Hinc idem (loc. cit.) docet: «Ad hoc quod percipiat anima, se esse, et quid in se ipsa agatur; non requiritur aliquis habitus, sed ad hoc sufficit sola essentia animae, quae menti est praesens; ex ea enim actus progrediuntur, in quibus actualiter ipsa percipitur». Hoc dicit quoad cognitionem *habitualem*; quoad *actualem* vero ibi docetur, «quod anima cognoscitur per actus suos» (cfr. S. Bonav., hic in fine respons., et I. Sent. d. 3. p. II. a. 2. q. 1. ad 1. 2.). Et notandum, quod S. Bonav. (hic in fine resp.) etiam Aristotelem in eodem fere sensu interpretatur. Multa de variis magistrorum opinionibus circa hanc rem profert Matth. ab Aquasparta, loc. cit. pag. 166-177.
+
+7. Quod autem ad omnem actualem cognitionem intellectualem prima Veritas concurrat immediate, docetur ab omnibus Scholasticis, praeter Durandum et aliquos antiquiores, ut iam saepe diximus. Sed S. Bonav. hunc concursum sive illuminationem divinam speciali modo urget, ut expositum est in toto opusculo citato de Humanae Cognitionis ratione.
+
+Ex praedictis iam perspicitur, falsissimam esse criminationem, quod Scholastici faveant erroribus sensistarum.
+
+**III.** Hanc quaestionem alii antiqui magistri plerumque tantum tangunt in praecedente quaest. De ea explicite agunt: Alex. Hal., S. p. II. q. 78. m. 2. 3. 4. — B. Albert., S. p. II. tr. 16. q. 99. m. 3. q. incid. 1.
+
+---
 
 ## English
 
-[Translation pending]
+### Question II. *Whether conscience is an innate or an acquired habit.*
+
+Secondly it is asked whether conscience is an innate or an acquired habit. And that it is an innate habit appears as follows.
+
+1. To the Romans, chapter two[^1]: *When the gentiles, who do not have the law, naturally do the things that are of the law, they are a law unto themselves, since they show the work of the law written in their hearts, their conscience bearing witness to them.* And the Gloss on the same place: «Although the gentiles do not have a written law, they nonetheless have a natural law, by which they are conscious to themselves»: therefore from the text and the Gloss it is clear that conscience denotes a habit naturally inscribed upon the human heart.
+
+2. Likewise, Augustine in the third book *On Free Choice*[^2]: «Before any merit of a good work it is no small thing to have received a natural faculty of judgment, by which one prefers wisdom to error, and rest to difficulty». If therefore conscience is a faculty of judgment of this kind, it is then a habit innate to man.
+
+3. Likewise, Isidore[^3]: «Natural right is that which nature has taught the animals»: therefore if nature taught the animals that which belongs to natural right, much more did it teach man, who surpasses all the animals; but the knowledge of natural right is nothing other than conscience: therefore etc.
+
+4. Likewise, we have a natural instinct to desire happiness and to honor our parents; but this cannot be without some prior knowledge: therefore it appears that for doing things of this kind we have some knowledge naturally impressed upon us[^4]. But the knowledge inclining to this is conscience: therefore etc.
+
+5. Likewise, natural law is known by man in some way, therefore either by acquisition or by nature. If by acquisition: then it ought not to be called natural, but acquired, just as neither are the political virtues[^5]. But if by nature; and the knowledge of natural law is nothing other than conscience: therefore etc.
+
+6. Likewise, natural right naturally binds the will; but the binding[^6] of the will necessarily precedes the act of knowledge — for the intellect precedes the affection — therefore if the will is naturally bound to that right, it appears that that right is naturally known by the soul. If therefore the knowledge of that right is conscience, it is clear etc.
+
+**On the contrary:**
+1. The Philosopher in the third book *On the Soul*[^7] says that «the soul is created like a blank tablet, on which nothing is depicted»: therefore it appears that the soul, from its first condition, has no innate knowledge. If then the habit of conscience denotes some knowledge, it appears that it is not innate but acquired.
+
+2. Likewise, Augustine in the first book of the *Retractations*[^8] retracts what he had said, that «the soul is created knowing, but, oppressed by the mass of the body, forgets the things it knew»; but he would not retract it unless he held it for false: therefore it is false according to Augustine that the soul has naturally a knowledge of things to be done. If then conscience is a cognitive habit of this kind, it appears that it is not innate but acquired.
+
+3. Likewise, knowledge of the complex is not had unless knowledge of the incomplex is had — whence he who does not know the terms does not know the principle, on account of which the Philosopher says[^9] that «we know principles insofar as [we know] the terms» — but we do not have knowledge of incomplex things except by means of the senses; for no one knows color except through sight, and therefore «those who lose one sense necessarily lose one science»[^10]. If therefore all science of incomplex things is by means of sense, it is necessary that all knowledge of complex things be acquired and received from sense; but conscience denotes knowledge of the complex, namely of some rule of natural right: therefore it appears that conscience does not denote an innate habit but an acquired one.
+
+4. Likewise, it is of equal or greater difficulty to know the things that pertain to morals as those that pertain to mere speculation; but science, which is the cognitive habit of speculative matters, is not innate to us but acquired[^11]: therefore by parity of reasoning conscience also, which is a habit directing in matters to be done, is not innate but acquired.
+
+5. Likewise, every natural habit is always right[^12]; but conscience is sometimes right, sometimes erroneous: therefore conscience is not a natural habit but an acquired one.
+
+6. Likewise, natural habits are present in *all* and *always*, because natural things are those that are the same among all, and natural things accompany nature inseparably[^13]; but consciences are not the same among all, indeed they are frequently contrary; conscience also is not *always* present, since frequently a man begins to have a conscience which he did not have before, as a religious, from the time he enters religion, has a conscience that it is not lawful for him to act against the counsels, and this he did not have before: therefore etc.
+
+### Conclusio
+
+> **Conclusion.** Conscience denotes an innate habit by reason both of the light implanted in the soul and of the first moral principles, but it denotes an acquired habit both by reason of the species of the very thing knowable and in respect of particular operations.
+
+**I respond:** For the understanding of the foregoing it must be noted that, besides that Platonic position which held that all habits of things to be known are simply innate to the soul, but are given over to oblivion for a time on account of the mass of the body — which both the Philosopher and Augustine[^14] disapprove and reject — there have been three opinions of the doctors concerning the origin of cognitive habits. And all three of those positions agree in this, that just as habitual virtues are neither wholly from nature nor wholly from acquisition, but are in a certain way innate, in a certain way acquired: so also cognitive habits are neither wholly innate nor wholly acquired, but in a certain way innate and in a certain way acquired. But in assigning the manner according to which these habits are innate, and according to which they are acquired, the various [doctors] differ.
+
+For some wished to say that they are innate as regards the agent intellect, but acquired as regards the possible intellect; and it is with regard to this latter intellect that the Philosopher says that the soul is created like a bare tablet, and this is the intellect which has to be perfected by means of the sensitive powers[^15]. — But this does not seem to be consonant either with the words of the Philosopher or with the truth. For if the agent intellect had the habits of things to be known, why could it not communicate them to the possible [intellect] without the aid of the lower senses? Again, if the agent intellect had the habits of things to be known, then the soul from its condition would not be ignorant, but rather would be knowing. It is also difficult at the same time to understand how species are said to be in the agent intellect, since the possible is called «that by which it is to become all things», and the agent «that by which it is to make all things»[^16].
+
+And therefore there is a second way of speaking, that cognitive habits are in a certain way innate, in a certain way acquired. For they are innate as regards knowledge
+in the universal, acquired as regards knowledge in the particular; or innate as regards the knowledge of principles, acquired as regards the knowledge of conclusions; whence a self-evident proposition [dignitas] is that which everyone approves once it is heard[^17]. — But neither does this way of speaking accord with the words of the Philosopher and Augustine. For the Philosopher in the book of the *Posterior [Analytics]*[^18] proves that the knowledge of principles is not innate to us, leading [the opposite view] into many incongruities; and in the same place he shows that «the knowledge of principles is acquired by way of sense, memory, and experience». Augustine too, in the twelfth book *On the Trinity*[^19], speaking of the little boy who answered concerning all the principles of geometry, says there that this was not because the soul of that little boy had previously known them, but rather «he saw these things in a certain incorporeal light of its own kind; just as the eye of the flesh sees the things that lie before it in this corporeal light, of which light it is capable and to which it is suited, being created [so]».
+
+And for this reason there is a third way of speaking, that cognitive habits are in a certain way innate to us and in a certain way acquired, not only speaking of knowledge in the particular and of the knowledge of conclusions, but also of the knowledge of principles. For since two things necessarily concur for knowledge, namely the presence of the knowable and the light by means of which we judge of it, as we see in vision, and as Augustine intimates in the preceding authority[^20]; cognitive habits are in a certain way innate to us by reason of the light implanted in the soul, they are also in a certain way acquired by reason of the species; and this indeed accords with the words of the Philosopher and Augustine. For all agree in this, that there is a light implanted in the cognitive power, which is called the natural faculty of judgment; but the species and likenesses of things are acquired in us by means of sense, as the Philosopher expressly says in many places[^21]; and this experience too teaches. For no one would ever know *a whole*, or *a part*, or *a father*, or *a mother*, unless by some exterior sense he received the species of it; and hence it is that «those who lose one sense necessarily lose one science»[^22]. But that light or natural faculty of judgment directs the soul itself in judging both of things knowable and of things to be done.
+
+But this must be especially attended to; for, just as among knowable things some are very evident, such as self-evident propositions and first principles; some are less evident, such as particular conclusions; so also among things to be done some are most evident, such as this: «what you do not wish to be done to you, do not do to another»[^23], and that God is to be obeyed, and the like. As therefore the knowledge of first principles is said to be innate to us by reason of that light, because that light suffices for knowing them, after the reception of the species, without any superadded persuasion, on account of their evidence: so also the knowledge of the first moral principles is innate to us, for the reason that that faculty of judgment suffices for knowing them. Again, as the knowledge of the particular conclusions of the sciences is acquired, for the reason that the light innate to us does not fully suffice for knowing them, but needs some new persuasion and habituation: so also it must be understood on the side of things to be done, that certain things are to be done, to which we are bound, which we do not know except by superadded instruction[^24]. — Since therefore conscience names a habit directive of our judgment in respect of things to be done, hence it is that in a certain way it names an innate habit, and in a certain way names an acquired one. An innate habit, I say, it names in respect of those things that are of the first dictate of nature; but an acquired habit in respect of those things that are of superadded institution. It also calls it an innate habit in respect of the directive light; nonetheless an acquired habit in respect of the species of the very thing knowable. For I have a natural light which suffices for knowing that parents are to be honored, and that neighbors are not to be harmed; yet I do not have naturally impressed upon me the species of a father, or the species of a neighbor.
+
+These things seen, the response to the question proposed and also to the objections is plain. For I grant that conscience denotes a habit in a certain way innate, namely by reason of that light signed upon us, which indeed shows us good things[^25], and which is the seedbed of the other habits to be acquired; and thus run the reasons adduced for the first part.
+I grant nonetheless that conscience denotes in a certain way an acquired habit, namely by reason of the species of the things themselves knowable, as the first three reasons adduced for the second part show. I grant also that it denotes a habit in a certain way acquired in respect of particular operables, as the three other reasons show. — But if there are any knowable things which are known through their essence, not through a species, in respect of such conscience could be called a simply innate habit, as in respect of this which is to love God and to fear God. For God is not known through a likeness received from sense, indeed «the knowledge of God is naturally implanted in us», as Augustine says[^26]. But what love and fear are, man does not know through a likeness received from without, but through their essence; for affections of this kind are essentially in the soul.
+
+From these things is plain the response to that question by which it is asked whether all knowledge is from sense. It must be said that it is not. For it must necessarily be posited that the soul knows God and itself and the things that are in itself, without the support of the *exterior senses*. Hence if the Philosopher sometimes says that «there is nothing in the intellect which was not previously in sense» and that «all knowledge takes its origin from sense»; it must be understood of those things which have *being* in the soul through an *abstracted likeness*; and these are said to be in the soul after the manner of writing. And therefore the Philosopher very notably says that in the soul nothing is written, not because there is no knowledge in it, but because there is in it no picture or *abstracted likeness*. And this is what Augustine says in the book *On the City of God*: «God has implanted in us a natural faculty of judgment, where what is of light, what of darkness, is known in the book of light, which is truth, because truth is naturally impressed in the heart of man».
+
+### Scholion
+**I.** Those who, with St. Thomas, hold that conscience properly denotes an act, but that synderesis denotes an innate habit of the intellect proposing the first practical principles, cannot any further inquire about an innate habit of conscience. But St. Bonaventure here poses this question and solves it with a twofold distinction. Since, however, St. Thomas attributes to synderesis that which according to St. Bonaventure is that part of conscience which carries an innate habit; the Angelic Doctor speaks of synderesis in nearly the same words which St. Bonaventure employs concerning the innate habit of conscience. For he names synderesis, with the Master (here c. 3), the *spark of reason* (here q. 3, a. 1) and (de Verit. q. 16, a. 1) affirms that «the human soul, as to that which is supreme in it, attains something of that which is proper to the angelic nature (cf. St. Bonav., above d. 1, p. II, a. 1, q. 2), namely that it has knowledge of certain things suddenly and without inquiry; although in this respect it is found inferior to an angel, in that in these things it cannot know the truth except by receiving from sense» [namely the species]... «Whence also in human nature, insofar as it attains the angelic, there must be a knowledge of truth without inquiry, both in speculative and in practical matters». «Whence also it is necessary that this knowledge be present to man *naturally*, since indeed he knows this as a kind of *seedbed* of all the knowledge that follows, just as in all natures certain *natural seeds* of the operations and effects that follow pre-exist; it is also necessary that this knowledge be habitual, so that it be at hand to use it when it should be necessary» etc. (cf. Comment. loc. cit.; S. I, q. 79, a. 8, 9, 12; de Verit. q. 11, a. 1, q. 16, a. 1).
+
+**II.** Many things occur in this question which pertain to the doctrine on the nature of human knowledge, of which there has already often been discussion. On the agent and possible intellect cf. above d. 24, p. I, a. 2, q. 4. — On the knowledge of God I Sent. d. 3, p. I, q. 1, 2; II Sent. d. 23, a. 2, q. 3, and cf. d. 3, p. II, a. 2, q. 2.
+
+In this question the doctrine on *innate and acquired habits* is more fully expounded, concerning which matter some things have already been said in I Sent. d. 17, p. I, q. 4, and the scholion. If therefore it is asked what, as regards the knowledge or science of the human soul, is *innate*, what *acquired*; the ancient Scholastics agreed on the principal principles. But the distinction noted in the preceding question must be presupposed, namely that the name *science* (conscience) is taken either for the *power*, or for the *habit*; or for the *known object*, or for the *actual knowledge* (cf. above d. 38, a. 2, q. 2, ad 2; III Sent. d. 31, a. 2, q. 3). The same must be said of the word *intellect*, except that, properly speaking, «to know [scire] names knowledge in *habit*, but to understand [intelligere] in *act*» (III Sent. d. 14, a. 2, q. 2, fundam. 1). But it is manifest that concerning the power itself of understanding and knowing it is not called into question among Catholics whether it is *innate*, since it is a faculty essential to the rational soul, inorganic, distinct from the sensitive faculty and most eminently surpassing it (cf. above d. 24, p. I, a. 2, q. 4, ad opin. 6). There remains therefore the question of the *habit* and its *act*; concerning which these principles were commonly handed down.
+
+1. Besides the *acquired* habits there are to be posited in the human soul *innate* habits, and indeed as regards the cognitive power the innate habit of the *first principles* (here, and I Sent. d. 17, loc. cit., and above d. 24, loc. cit., ad opin. 6), where this habit is attributed to the *agent intellect* (cf. also above d. 17, a. 1, q. 1, ad 6, d. 24, p. II, a. 1, q. 1). St. Thomas agrees (de Verit. q. 16, a. 3) that the light of the agent intellect, through which the first principles in speculative and operable matters become known to us, «is of the nature of the soul itself, since by this it is intellectual; of which light it is said in the Psalm (4:7): *The light of thy countenance is signed upon us*» etc. By this account the habit of the *first principles* and «certain *seeds of the sciences*» are said to be innate to us; «because immediately by the light of the agent intellect they are known through species abstracted from the senses, whether they be complex, as self-evident propositions, or incomplex, as the notion of being and of one and the like, which the intellect immediately apprehends» (de Verit. q. 11, a. 1, cf. q. 10, a. 6).
+
+2. That this innate habit may be reduced to *act* or proceed to *actual understanding*, an *intelligible species* is required, «by which the gaze of the possible intellect may be formed from the intelligible itself, by which formation it is in a fuller actuality with respect to that which it ought to understand than it was before, when it lacked the species» (above d. 24, loc. cit., ad 3, 6, cf. in corp. ad opin. 4; I Sent. d. 3, p. I, q. 1, ad 5, and d. 17, p. I, q. 4, in fine). And by this account St. Bonav. (above d. 24, loc. cit., ad opin. 5) approves the opinion of the Philosopher, by which it is taught that «the soul is created like a blank tablet», «nor does it have the *knowledge* of habits innate to it, but acquires it by means of sense and experience»; and at the same time he there denies «that our intellect is said to have within itself an innate knowledge of universals».
+
+3. With respect to these intelligible species a distinction must be made and one must speak differently of the knowledge of things which are outside the soul, differently of the knowledge of *the mind itself*, and of the things that are in it (here and I Sent. d. 17, loc. cit.). But we here set aside the knowledge of God.
+
+4. Of things *outside* the soul we cannot have knowledge solely from those things which are in us, since we do not have their species co-created, neither in the universal nor in the particular (above d. 24, loc. cit.). Hence it is required that the soul *acquire* for itself the likenesses or species of them, which, as experience attests, does not happen except when the senses and the sensitive powers concur. For phantasms supply to the intellectual operation as it were the matter, from which the agent intellect itself by its own power and proper light forms for itself the intelligible species of these things (cf. above d. 17, a. 1, q. 2, ad 4; III Sent. d. 14, a. 3, q. 2, d. 37, dub. 1, and passim). But in no way do the ancient Scholastics admit the doctrine of the sensists, that intellectual knowledge is *principally* caused by the senses or sensitive powers, and that the spiritual is generated from the power of a corporeal thing; rather they explicitly teach that the lower powers concur neither *formally* nor *effectively*, but only *ministerially* and *materially* toward forming the intelligible species, namely insofar as the intellect receives the matter of this knowledge from the senses. — But concerning the more special manner in which the soul forms for itself the intelligible species from the phantasms, there were also various opinions among the Scholastics (cf. S. Thom., de Verit. q. 10, a. 6; S. I, q. 84, a. 1-8, q. 85, a. 1, 2; see also the diffuse disputed question of Matthew of Aquasparta, edited by us in the book de Humanae Cognitionis ratione, by the press of the College of St. Bonav. 1883, pag. 139-159).
+
+5. The way or motion of the intellect is twofold, namely from things to the mind, and from the mind to things (S. Bonav., III Sent. d. 14, a. 3, q. 2, ad 3). In the first motion or way of *acquisition* the operation of the mind begins from sensible things and terminates at the intellect; but in the second the operation begins from the mind and terminates at things (S. Thom., de Verit. q. 10, a. 3; Matth. ab Aquasp., loc. cit.).
+
+6. Otherwise than concerning things existing outside the soul must one speak with respect to the knowledge of the *soul* itself, and of the things that are in it. For by all the Scholastics is approved the saying of Augustine (IX de Trin. c. 3, n. 3), that «the mind knows itself through itself», and with St. Bonav. St. Thomas teaches (de Verit. a. 5, ad 5 and 9) that «the soul does not know itself through another species abstracted from itself, but through the species of its own object», because «its essence is innate to it, so that it does not need to acquire it from phantasms». Hence the same (loc. cit.) teaches: «For the soul to perceive that it is, and what is done in itself; no habit is required, but for this the soul's essence alone suffices, which is present to the mind; for from it proceed the acts in which it is actually perceived». This he says as to *habitual* knowledge; but as to *actual* it is there taught «that the soul is known through its acts» (cf. S. Bonav., here at the end of the response, and I Sent. d. 3, p. II, a. 2, q. 1, ad 1, 2). And it is to be noted that St. Bonav. (here at the end of the response) interprets Aristotle too in nearly the same sense. Many things concerning the various opinions of the masters on this matter are brought forward by Matthew of Aquasparta, loc. cit. pag. 166-177.
+
+7. That to all actual intellectual knowledge the First Truth concurs immediately, is taught by all the Scholastics, except Durandus and some of the more ancient, as we have already often said. But St. Bonav. urges this concurrence or divine illumination in a special manner, as has been expounded in the whole cited opusculum de Humanae Cognitionis ratione.
+
+From the foregoing it is now apparent that the accusation is most false, that the Scholastics favor the errors of the sensists.
+
+**III.** This question the other ancient masters for the most part only touch upon in the preceding question. They treat of it explicitly: Alex. of Hales, S. p. II, q. 78, m. 2, 3, 4. — Bl. Albert, S. p. II, tr. 16, q. 99, m. 3, q. incid. 1.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; here they are renumbered continuously. **La.** gives the Quaracchi Latin note, **En.** an English rendering.
+
+[^1]: **La.** Vers. 14. seq. Vulgata: *Cum enim gentes... naturaliter ea quae... faciunt, eiusmodi legem non habentes, ipsi sibi sunt lex. Qui ostendunt* etc. — Glossam in hunc loc. vide supra pag. 899, nota 6.
+    **En.** Rom. 2:14 ff. Vulgate: *When the gentiles... naturally do the things that... [are of the law], not having such a law, they are a law unto themselves. Who show* etc. — For the Gloss on this place see above p. 899, note 6.
+
+[^2]: **La.** Cap. 20. n. 56, in quo testimonio textus origin. pro *iudicatorium* exhibet *iudicium*. Etiam in versione similis loci Basilii, ubi secundum antiquos Scholasticos (cfr. Alex. Hal., S. p. II. q. 73. m. 2; B. Albert., S. p. II. tr. 16. q. 99. m. 2. a. 1; S. Thom., S. p. I. q. 79. a. 3.) legendum est *iudicativum* vel *iudicatorium naturale*, quae verba accurate reddunt Graeca verba κριτήριον φυσικόν (criterium physicum), recentiores editores haec verba interpretantur *iudicium naturale*. Sic ed. Migne, Hom. 12. in Principium Proverb. n. 9: *Cum enim habeamus in nobis iudicium quoddam naturale, qua bona a malis secernimus* etc.
+    **En.** Chapter 20, n. 56, in which testimony the original text gives *iudicium* (judgment) for *iudicatorium* (faculty of judgment). Also in the version of a similar passage of Basil, where according to the ancient Scholastics (cf. Alex. of Hales, S. p. II, q. 73, m. 2; Bl. Albert, S. p. II, tr. 16, q. 99, m. 2, a. 1; St. Thomas, S. p. I, q. 79, a. 3) one should read *iudicativum* or *iudicatorium naturale*, which words accurately render the Greek words κριτήριον φυσικόν (physical criterion), the more recent editors interpret these words as *iudicium naturale* (natural judgment). So ed. Migne, Hom. 12 on the Beginning of Proverbs, n. 9: *For since we have in us a certain natural judgment, by which we separate good things from bad* etc.
+
+[^3]: **La.** Libr. V. Etymolog. c. 4. n. 1: «Ius naturale est commune omnium nationum et quod ubique instinctu naturae, non constitutione aliqua habeatur». Iustinian., I. Institut. Iur. civil. tit. 2, hanc ex Ulpiano sumtam definitionem proponit: *Ius naturale est quod natura omnia animalia docuit.* — De minori cfr. infra a. 2. q. 1. in fine.
+    **En.** Bk. V Etymologies, c. 4, n. 1: «Natural right is that which is common to all nations and which is held everywhere by the instinct of nature, not by any constitution». Justinian, Bk. I of the Institutes of Civil Law, tit. 2, proposes this definition taken from Ulpian: *Natural right is that which nature has taught all the animals.* — On the minor cf. below a. 2, q. 1, at the end.
+
+[^4]: **La.** De principiis, in quibus hoc arg. fundatur, vide supra pag. 881, nota 5; pag. 892, nota 6. et d. 38. dub. 1.
+    **En.** On the principles on which this argument is founded, see above p. 881, note 5; p. 892, note 6; and d. 38, dub. 1.
+
+[^5]: **La.** Macrob., I. Somn. Scipion. c. 8, Plotinum et Platonicos secutus, ut ipse profitetur, virtutes dividit in *politicas, purgatorias, purgati animi* et *exemplares*. *Politicae* dicuntur virtutes, secundum quod regunt (ut iustitia, temperantia etc.) vitam humanam quoad opera exteriora, et secundum quod pugnant contra vitia; *purgatoriae*, secundum quod iam sunt in victoria vitiorum et respiciunt partim interiora, partim exteriora; *purgati animi*, quando, victis iam vitiis, possessor virtutum quiescit, raro insurgentibus primis motibus; *exemplares*, quae sunt in mente divina.
+    **En.** Macrobius, Bk. I, Dream of Scipio, c. 8, following Plotinus and the Platonists, as he himself professes, divides the virtues into *political, purgative, of the purified soul,* and *exemplary*. The *political* virtues are so called insofar as they govern (as justice, temperance, etc.) human life as to exterior works, and insofar as they fight against vices; *purgative*, insofar as they are already in the victory over vices and regard partly interior, partly exterior things; *of the purified soul*, when, the vices being already conquered, the possessor of the virtues is at rest, the first motions rarely arising; *exemplary*, which are in the divine mind.
+
+[^6]: **La.** Edd., excepta 1, cum nonnullis codd. *ligationem*.
+    **En.** The editions, except 1, with some codices read *ligationem* (binding).
+
+[^7]: **La.** Text. 14. (c. 4.). — Paulo inferius pro *prima conditione* cod. T *prima creatione*.
+    **En.** Text 14 (c. 4). — A little below, for *first condition* cod. T reads *first creation*.
+
+[^8]: **La.** Cap. 8. n. 2, ubi exponit sententiam in libro de Quantit. animae (c. 20. n. 34.) prolatam: *Omnes artes animam secum attulisse mihi videri, nec aliud quidquam esse id quod dicitur discere, quam reminisci et recordari.*
+    **En.** Chapter 8, n. 2, where he expounds the opinion put forward in the book On the Quantity of the Soul (c. 20, n. 34): *That the soul brought all the arts with it seems to me, nor is that which is called learning anything other than recollecting and remembering.*
+
+[^9]: **La.** Lib. I. Poster. c. 3: *Et principium scientiae esse quoddam dicimus, in quantum terminos cognoscimus.* — In verbis ex Philosopho allatis Vat. post *in quantum terminos* supplet *cognoscimus*.
+    **En.** Bk. I, Posterior [Analytics], c. 3: *And we say that the principle of science is something, insofar as we know the terms.* — In the words cited from the Philosopher the Vatican edition after *insofar as [we know] the terms* supplies *we know*.
+
+[^10]: **La.** Aristot., I. Poster. c. 14. (c. 18.). — Mox edd., excepta 1, falso et contra codd. *incomplexorum* pro *complexorum*.
+    **En.** Aristotle, Bk. I, Posterior [Analytics], c. 14 (c. 18). — Soon after, the editions, except 1, falsely and against the codices [read] *incomplexorum* for *complexorum*.
+
+[^11]: **La.** Secundum Aristot., II. Poster. c. 18. (c. 15.) et 1. Metaph. c. 1.
+    **En.** According to Aristotle, Bk. II, Posterior [Analytics], c. 18 (c. 15) and Bk. I, Metaphysics, c. 1.
+
+[^12]: **La.** Cfr. supra d. 24. p. II. a. 1. q. 1. arg. 2. ad oppos. et solut.
+    **En.** Cf. above d. 24, p. II, a. 1, q. 1, arg. 2 on the opposite side, and the solution.
+
+[^13]: **La.** Vide supra pag. 397, nota 1. et pag. 468. nota 3. — Mox pro *conscientia etiam* edd. 1, 2, 3, 4 cum plurimis codd. *conscientia enim*.
+    **En.** See above p. 397, note 1, and p. 468, note 3. — Soon after, for *conscience also* edd. 1, 2, 3, 4 with most codices read *for conscience*.
+
+[^14]: **La.** Praeter testimonia hic in argg. allata cfr. etiam locc. supra pag. 206, nota 2. et pag. 480, nota 3. ex Aristot. et August. citt.
+    **En.** Besides the testimonies cited here in the arguments, cf. also the places above p. 206, note 2, and p. 480, note 3, cited from Aristotle and Augustine.
+
+[^15]: **La.** Cfr. supra d. 24. p. I. a. 2. q. 1. in corp., ubi haec opinio explicatur.
+    **En.** Cf. above d. 24, p. I, a. 2, q. 1, in the body, where this opinion is explained.
+
+[^16]: **La.** Aristot., III. de Anima, text. 18. (c. 5.).
+    **En.** Aristotle, Bk. III, On the Soul, text 18 (c. 5).
+
+[^17]: **La.** Boeth., de Hebdom. sive *quomodo substantiae in eo quod sint, bonae sint* etc. In Vat. deest propositio *unde dignitas... auditam.*
+    **En.** Boethius, On the Hebdomads, or *how substances in that they are, are good* etc. In the Vatican edition the proposition *whence a self-evident proposition... once heard* is wanting.
+
+[^18]: **La.** Libr. II. c. 18. (c. 15.), ubi pro sua sententia affert, quod si notitia principiorum nobis esset innata, ipsa nobis esset certissima et simul (ut experientia docet) nos lateret; et si lateret, per aliam priorem excitaretur. — In testimonio Philosophi edd. praeter 1 post *acquiritur* subiungunt *in nobis*.
+    **En.** Bk. II, c. 18 (c. 15), where for his opinion he adduces that if the knowledge of principles were innate to us, it would be most certain to us and at the same time (as experience teaches) would lie hidden from us; and if it lay hidden, it would be aroused by another, prior [knowledge]. — In the testimony of the Philosopher the editions except 1 after *is acquired* add *in us*.
+
+[^19]: **La.** Cap. 15. n. 24, quo in loco pro *contra adiacent* textus origin. habet *circumadiacent*, cod. A *circumcirca adiacent*, cod. T (a secunda manu) cum Vat. et edd. 2, 3, 4 *circa adiacent*. In cod. P ad verba *videbat in quadam luce* in margine ab antiqua manu annotatum est: *luce divina, quae assistit nostro intellectui et est ratio cognoscendi.* Cui explicationi concordat ipse August., I. Retract. c. 4. n. 4. et c. 8. n. 2. Cfr. supra pag. 266, nota 2; pag. 270, nota 4; pag. 413, nota 7. et pag. 568, nota 5. — Cod. V voci *parvulo* praemittit *quodam*.
+    **En.** Chapter 15, n. 24, in which place for *lie before* [contra adiacent] the original text has *circumadiacent* (lie around), cod. A *circumcirca adiacent*, cod. T (by a second hand) with the Vatican edition and edd. 2, 3, 4 *circa adiacent*. In cod. P at the words *he saw in a certain light* it is annotated in the margin by an ancient hand: *by the divine light, which assists our intellect and is the ground of knowing.* With which explanation Augustine himself agrees, I Retract. c. 4, n. 4, and c. 8, n. 2. Cf. above p. 266, note 2; p. 270, note 4; p. 413, note 7; and p. 568, note 5. — Cod. V prefixes *a certain* [quodam] to the word *little boy*.
+
+[^20]: **La.** Edd. hic perperam subiiciunt *quod*.
+    **En.** The editions here wrongly add *quod* (that).
+
+[^21]: **La.** Libr. I. Poster. c. 14. (c. 18.); II. c. 18. (c. 15.); III. de Anima, text. 39. (c. 8.); I. Metaph. c. 1. Cfr. supra d. 24. p. I. a. 2. q. 4. et d. 25. p. II. q. 6.
+    **En.** Bk. I, Posterior [Analytics], c. 14 (c. 18); Bk. II, c. 18 (c. 15); Bk. III, On the Soul, text 39 (c. 8); Bk. I, Metaphysics, c. 1. Cf. above d. 24, p. I, a. 2, q. 4, and d. 25, p. II, q. 6.
+
+[^22]: **La.** Aristot., I. Poster. c. 14. (c. 18.).
+    **En.** Aristotle, Bk. I, Posterior [Analytics], c. 14 (c. 18).
+
+[^23]: **La.** Tob. 4, 16: *Quod ab alio oderis fieri tibi, vide ne tu aliquando alteri facias.* Cfr. Matth. 7, 12; Luc. 6, 31.
+    **En.** Tobit 4:16: *What you would hate to be done to you by another, see that you never do it to another.* Cf. Matt. 7:12; Luke 6:31.
+
+[^24]: **La.** In cod. T antiqua amanuensis manus *instructionem* commutavit in *institutionem*. Aliquanto inferius pro *institutionis*, quam lectionem ex codd. restauravimus, Vat. *instructionis*.
+    **En.** In cod. T an ancient scribal hand changed *instructionem* (instruction) into *institutionem* (institution). Somewhat below, for *institutionis*, which reading we have restored from the codices, the Vatican edition reads *instructionis*.
+
+[^25]: **La.** Respicitur illud Ps. 4, 6. seq.: *Quis ostendit nobis bona? Signatum est super nos lumen vultus tui, Domine.* — S. Thom., S. p. I. q. 79. a. 12. arg. 3, ait: «Augustinus dicit in libro [II. c. 10. n. 29.] de Lib. Arb., quod in naturali iudicatorio adsunt quaedam regulae et semina virtutum» [ed. oper. August. *lumina virtutum*] etc. Et Matth. ab Aquasparta in 4. quaest. a nobis publicata in opusc. de Humanae Cognitionis ratione, pag. 147, lectorem ad eundem August. locum delegans ait: *Augustinus, secundo de Lib. Arb., ubi dicit, quod anima habet in se seminaria virtutum.* Paulo inferius post *acquisitum* cod. T repetit *acquisitum*.
+    **En.** Reference is made to Ps. 4:6 f.: *Who shows us good things? The light of thy countenance is signed upon us, O Lord.* — St. Thomas, S. p. I, q. 79, a. 12, arg. 3, says: «Augustine says in the book [II, c. 10, n. 29] On Free Choice, that in the natural faculty of judgment there are present certain rules and seeds of the virtues» [the edition of Augustine's works: *lights of the virtues*] etc. And Matthew of Aquasparta in the 4th question, published by us in the opusculum de Humanae Cognitionis ratione, p. 147, referring the reader to the same place of Augustine, says: *Augustine, in the second [book] On Free Choice, where he says that the soul has in itself the seedbeds of the virtues.* A little below, after *acquired* cod. T repeats *acquired*.
+
+[^26]: **La.** Rectius Damascenus, I. de Fide orthod. c. 1. et 3. Augustinus quoque idem dicit, in Ioan. Evang. tr. 106. n. 4, sed sententialiter tantum: «Haec est enim vis verae divinitatis, ut creaturae rationali, iam ratione utenti, non omnino ac penitus possit abscondi. Exceptis enim paucis, in quibus natura nimium depravata est, universum genus humanum Deum mundi huius fatetur auctorem». Cfr. etiam locc. ex August. supra pag. 517, nota 2. citt., in quibus s. Doctor docet, hominem naturaliter appetere beatitudinem; et VIII. de Trin. c. 3. n. 4, ubi docet, notionem boni nobis esse impressam; nec non testimonium ex *Civ. Dei* in fine huius quaest. allatum, quod cognitionem Dei *habitualem* declarat et *modum* indicat, quo acquiratur, scilicet iudicando (ratiocinando), non abstrahendo. Cfr. etiam I. Sent. d. 3. p. I. q. 1. ad 5. et d. 17. p. I. q. 4.
+    **En.** More correctly Damascene, I, On the Orthodox Faith, c. 1 and 3. Augustine too says the same, in the Gospel of John, tr. 106, n. 4, but only sententiously: «For this is the power of true divinity, that it cannot be wholly and utterly hidden from the rational creature already using reason. For with the exception of a few, in whom nature is too greatly depraved, the whole human race confesses God to be the author of this world». Cf. also the places from Augustine cited above p. 517, note 2, in which the holy Doctor teaches that man naturally desires happiness; and VIII de Trin. c. 3, n. 4, where he teaches that the notion of good is impressed upon us; as also the testimony from the *City of God* adduced at the end of this question, which declares the *habitual* knowledge of God and indicates the *manner* in which it is acquired, namely by judging (reasoning), not by abstracting. Cf. also I Sent. d. 3, p. I, q. 1, ad 5, and d. 17, p. I, q. 4.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from the IA djvu OCR, raw lines 62657–62990 (`QU.\ESTIO II.` at 62657; ends just before `QUAESTIO III.` at 62991), cross-checked column-by-column against the 450 dpi PDF (printed pp. 901–905 = pdf pp. 923–927; offset +22). The args (videtur 1–6, sed contra 1–6) are OCR-clean; the Respondeo, Conclusio, and SCHOLION were cascade-shattered in the two-column OCR and were re-set from the PDF column bands. No `[?]` flags.
+
+**Page-split map.**
+- **p.901**: QUAESTIO II title + opener, videtur args 1–6, sed contra 1 (Philosophus, tabula rasa). Footer: 7 notes → markers [^1]–[^7].
+- **p.902**: sed contra 2–6, CONCLUSIO, Respondeo through the first two *modi dicendi* (opinio 1 and opinio 2 opener). Footer: 9 notes → markers [^8]–[^16].
+- **p.903**: rest of Respondeo (third *modus*, the light/species distinction, *quod tibi non vis fieri*, epilogus opener through *currunt rationes ad primam partem inductae*). Footer: 9 notes → markers [^17]–[^25].
+- **p.904**: end of Respondeo (*Concedo nihilominus...* through the *de Civitate Dei* citation), then start of SCHOLION (§I, §II.1–4). Footer: 1 body note (Damascenus → marker [^26]) + 4 scholion notes (parsed into the scholion text inline, no numbered markers in this chunk).
+- **p.905**: continuation of SCHOLION (§II.4–7, §III), ending at `B. Albert., S. p. II. tr. 16. q. 99. m. 3. q. incid. 1.` immediately before QUAESTIO III. The p.905 *footer* notes (Ad Romanos 14; lex a ligando) belong to **q3**, not this chunk — forwarded to q3.
+
+**Scholion disposition — CORRECTION to prior hand-off.** The q1 hand-off (`d39-a1-q1` Notes) stated that q2 and q3 carry `has_scholion: false` and should point to q1's article-level scholion. That is **incorrect for q2**: the printed text carries a distinct **question-level SCHOLION** for QUAESTIO II on pp.904–905 (§§ I–III, with §II sub-numbered 1–7), specific to the innate-vs-acquired-habit doctrine and explicitly self-referential («Plura *in hac quaest.* occurrunt»). It is set here in full and `has_scholion: true`. (q1's article-level scholion on pp.900–901 is a separate text and remains in q1.) The q3 scholion disposition should be checked independently when q3 is built.
+
+**Apparatus count:** 26 numbered body markers [^1]–[^26] (p.901 ×7, p.902 ×9, p.903 ×9, p.904 ×1 body). The 4 scholion footnotes on p.904 are textual/source notes whose content is folded into the scholion prose (Quaracchi prints them as a separate per-scholion footer sequence with no body markers in the running text); they are not given separate `[^N]` markers here to keep marker pairing clean.
+
+**Hand-offs.** Picked up from q1: NONE (q2 opens cleanly at the top of p.901's fresh footer sequence, raw 62657 — confirmed against PDF). Forwarded to q3: the p.905 page-bottom footer notes (Rom. 14:23 *Omne quod non est ex fide, peccatum est* + Gloss; *lex a ligando* / Damascene *minoris*) belong to q3's first two arguments — q3 opens mid-p.905 with `Tertio quaeritur de conscientia quantum ad effectum ligationis. Et est quaestio, utrum teneamur ad omne illud, quod conscientia dictat necessarium esse ad salutem.` The q2/q3 body boundary at raw 62990/62991 is a clean header break, not a mid-page splice.
