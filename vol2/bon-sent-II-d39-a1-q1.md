@@ -6,230 +6,212 @@ distinctio: 39
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 62460
-line_end: 62665
-word_count_latin: 3077
-transcription_status: "auto-chunked 2026-05-30"
+title_la: "Utrum conscientia teneat se ex parte intellectus, an ex parte affectus"
+title_en: "Whether conscience belongs to the intellect or to the affective power"
+printed_pages: [898, 899, 900]
+pdf_pages: [920, 921, 922]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 898–900"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 62456–62654) cross-checked column-by-column against 450 dpi PDF (printed pp. 898–900 = pdf pp. 920–922; offset +22), fresh literal English translation, full apparatus from raw OCR (19 entries: p.898 ×8, p.899 ×7, p.900 ×4), article-level scholion (I–III) for this and the following questions of Art. I (2026-05-31)"
 format_version: 1
 ---
 
-# bon-sent-II-d39-a1-q1
+# I Sent. [II Sent.], d. 39, a. 1, q. 1
+## *Utrum conscientia teneat se ex parte intellectus, an ex parte affectus*
+
+---
 
 ## Latin
+<!-- page 898 -->
 
-QUAESTIO I.
-                               Utfum conseientia teneat se ex jMrte inlellectus , an ex parte ajfectus.
+### Articulus I. *De conscientia.*
+### Quaestio I. *Utrum conscientia teneat se ex parte intellectus, an ex parte affectus.*
 
-                 Circa primum sic proceditur et quaeritur, utrum                 nein; sed oranes hi actus attribuuntur conscientiae;
-rniidamenui.conscientia teneat se ex parte intelleclus, an ex parte              nam conscientia est liber, in quo legimus, conscien-
-          affectus. Et quod ex parte intellectus, videtur:                       tia etiara interius iudicat, conscientia testificatur ,
-                 1. Primo per illud Ecclesiastis septimo': Seit                  conscientia arguit, conscientia etiam regit etdirigit^.
-          conscientia tua, quia et tu crehro maledixisti aliis ;                 Ergo videtur, quod conscientia totaliter se teneat ex
-          sed -scjVe est actus proprius potentiae cognitivae: si                 parte cognilivae, cura actus et habitus sint eiusdem
-                                                                                                                                    '                  tura.
-          ergo conscientiae est scire, conscientia se tenet ex
-                                                                                 potentiae.
-                                                                                       Sed contra: 1. Si conscientia tenet se ex parte Ad opposi-
-          parte cognitivae.
-                 "2. Item, Damascenus- dicit, quod «conscientia                  cognitivae, aut ergo &\c\i.{ potentia, aut s\z\x\.passio,
-          est lex intellectus nostri«; sed lex intellectus non                   aut sicut hahitus'^. Non sicut passio, quia passio-
-          dicitur nisi Scriptura, quae directe respicit intelle-                 nes inaxirae respiciunt affectivam; non sicut habi-
-          ctuin: ergo conscieniia tenet se ex parte potentiae                    tus, quia conscientia modo est munda, niodo im-
-          intellectivae.                                                         munda, et nuUus habitus transmutatur a munditia
-                 3. Ilem, omnis scientia est ex parte intellectus;               in irainunditiain, et e converso. Restat igitur, quod
-          omnis conscientia esl scientia: ergo omnis conscien-                   si conscientia tenet se ex parte cognitivae, non erit
-           tia est ex parte intellectus. Mai.or prupositio per se                aliiid quani potentia cognitiva: ergo si potentia co-
-          manifesta est'; minor probatur, quia omnis con-                        gnitiva est de oranibus, non solura de operabilibus,
-          scius alicuins rei est sciens illam rein: ergo a, con-                 sed etiara de speculabilihiis '; videtur , qnod con-
-          iugatis, omnis conscienti;i est scientia.                              scientia non tantuni attendatur circa ea quae sunt
-                 4. Item, conscientia dividitur per rectam et er-                morum , sed eliam circa ea quae sunt disciplina-
-           roneam; sed erroneum respicit habitura, vel actura                    rum; qiiod raanifeste falsum est.
-          intellectivnin ■" : si ergo divisum et dividenlia spe-                       2. Itein, sicut intellectus se habet ad verum,
-          ctant ad eandem potentiam aniraae, videtur, quod                       ita affectus se habet ad bonura: ergo si quid est,
-           conscieiitia teneat se ex parte potentiae cognitivae.                 cuius perfectio consistit in bonitate, iliud inagis spe-
-                 0. Item, hoc ipsuin ostenditur per actura. Le-                  clat ad bonum affectum quam ad intellectura; sed
-          gere eniin et iudicare et dirigere et testificari et                   conscientia est huiusinodi — dicit enim Apostolus
-           arguere, oinnes sunt actus spectantes ad cognitio-                    priinae ad Tiinotheuin priino ": Caritas est de corde
+Circa primum sic proceditur et quaeritur, utrum conscientia teneat se ex parte intellectus, an ex parte affectus. Et quod ex parte intellectus, videtur:
 
-               ' \\'is. 23.                                                      addila dicit Arislol. , de Sonino ct vigilia, c. I : Cuius enim
-               ° Libr. IV. de Fide orllind. c. 22.                               est |)otenlia , luiius est cl actus.
-                ^ Clr. Arislot. , VI. Elhie. c. 3. — In mmori rcspicilur illud        * Dc iiac distinclione vide supra pag. 893, nola 6. —
-         1. Cor. i , i : Niliil cnim mihi consciiis siim. — Quid sibi yelit      Quod babitus non transmutetur, e,\positum cst supra pag. 81.5,
-                                                                                 nota 4.
-         locutio a coniugaUK, intelligilur ex illo Aristot. , II. Topic. c. 3.
-         (c. 9.): Videnlur autem et quae sunt secundum casus coniu-                     ' Cfr. supra pag. 538 , nota 2. et pag. S63 , nota 9.
-         gata essc, ut iuste institiae et fortiler forliludini. Coniugata              * Vers. .3. — Seq. Script. locus est ibid. v. 18. scq. , quem
-         autem dicuntur sccundum eiindem coniugationem omnia , ut                lociim non paiici codd. , ul H I K T W Y ee , et edd. I , 2 sic
-         iustitia , iiistus, iuslum , iiistc. Cfr. supra pag. 472, nota 6.       exhibenl: Mililes in bona militia liabent [ nonniilli codd. habms]
-                * Aristot. , de Longitiid. et brev. vitae , c. 2. dicit, obli-   fidem et [aliqui boiiam] conscientiam. — Paulo superius pro
-         vionem et errcrem sivc dcceptionem (ijcaTT)) corruptioncm               ad bonum affectum Val. et edd. 3 , 4 nrf bonum laiitum, codd.
-         esse scientiae. Cfr. supia d. 23. a. 2. q. 2.                           .\ I L 0 K X Y bb et ed. I nd effectum, omisso apposilo bonum.
-                ^ Clr. Uom. 2, IS. et 14, 23. — Ue ratione conclusioni
-                                                                                                                                                   899
-                                                             DIST. XXXIX. ART. I. QUAEST. 1.
+1. *Primo* per illud Ecclesiastis septimo[^1]: *Scit conscientia tua, quia et tu crebro maledixisti aliis;* sed *scire* est actus proprius potentiae cognitivae: si ergo conscientiae est scire, conscientia se tenet ex parte cognitivae.
 
-         puro et conscientia bona ; et iterura in eadein Epi-                         scientia accipitur pro habitu , scilicet cognoscentis.
-         stola : Milites in illis bonam militiam, habens fidem                        Aiiquando autem accipitur conscientia pro ipsa po-
-         et bonam conscientiam — ergo etc.                                            tentia consciente, ut ita dicam, secundum quod di-
-               3. Item, «lex carnis repugnat iegi mentis», se-                        citur, qnod lex naturalis scripta est In conscientiis
-         cundnm quod Damascenus ' dicit; sed lex carnis se                            noslris". Cum igitur tribus niodis accipi soleat con- Noiandam.
-         tenet ex parte motivae: ergo et lex mentis tenet se                          scientiae nomen, usituMori tamen modo nomen con-
-         ex eadem parte. Sed «conscientia est lex mentis»,                            scientiae pro Aafeiiit accipitur, sicnl et nomen scien-
-         sicut supra dixit Damascenus: ergo conscientia tenet                         tiae, a quo componitur.
-         se ex parte ajfectivae.                                                            Si ergo quaeralur, cuius potentiae sit babitus;
-               4. Item, remorsus est actio potentiae affectivae,                      dicendum, quod est habitus potentiae cof/ntoae, conciusio.
-         ubicumque enim est remorsio, ibi est quidam dolor                            aliter tamen, quam sit ipsa speculativa scientia: quia
-         et passio; sed conscientiae est remordere, sicut dici-                       scientia speculativa est perfectio intellectus noslri,
-                                                                                      in quantum est speculativus ; conscientia vero est
-         tur super illud primae ad Corinthios quarto^: Nihil
-         mihi conscius sum ; Glossa : « In nulio me remor-                            habitus perficiens intellectum nostrum, in quantum
-         det conscientia mea»: ergo videtur, quod conscientia                         est practicus, sive in qnantnm dirigit in opere. Et
-         ex parte affectiuae se teneat.                                               sic intellectus habet quodam modo rationem m.otivi,
-               b. Item, delectabile et poenale se tenet ex parte                      non quia eflTiciat motum, sed quia dictat et inclinat
-          potentiae affectivae^; sed in nobis est poena et lae-                       ad motum. — ^Et propterea talis habitus non sia-tplici-coronariam.
-          titia ex parte conscientiae — unde vermis conscientiae                      ter noniinatur scientia , sed conscientia, ut in hoc
-          erit magna poena in damnatis — ergo videtur, quod                           significelur , quod habitus iste non perficit ipsam
-          conscientia teneat se ex parte potentiae ajfeclivae,                        potentiam speculativam in se, sed prout est quodam
-          non ex parte cognitivae.                                                    modo iuncta affectioni el operationi. Propter quod
-                                                                                      nos non dicimus, quod dictamen conscientiae sit ad
-                                    CONCLUSIO.                                        hoc principium: omne totum est maius sua parte,
-                                                                                      et ad consimilia; sed bene dicimus, quod conscientia
-          Conscienlia est habitus potentiae cognitivae, proul                         dictat, Deum esse honorandum, et consimilia prin-
-               est practica, non prout est speculativa.                               cipia, quae sunt sicui regidae agendoriim. — Conce- Epiiogus.
-                                                                                      dendum esl igitur, sicut rationes ostendunt, quod
-                    Respondeo: Ad praedictorum intelligentiam no-                     conscientia se lenet ex parte potentiae cognitivae,
-!tinieiieciiis
-    coQscien-  tandnm est,  quod
-                             '    sicut nomen mte//ee/«.s aliquando
-                                                              ^
-                                                                                      licet non se teneat, secundum quod est speculat.iva ,
-iaaccipiiiii- accipitur pro potentia intelligendi, aliquando pro                      sed secundum quod est pmcr^ca. « Inlellectus enim
-"-            habilu, aliquando \}V0 ipso principio intellecto* ; sk.                 specnlativns et practicus eandem potentiam dicunt,
-              nomen conscientiae tripliciter consuevit accipi a do-                   sola exlensione differentem », sicut dicit Pliilosophus':
-              ctoribus sacrae Scripturae. Aliquando enim accipitur                    nec est aliquo modo intelligendum, quod intellectus
-              conscientia pro ipso conscito; et sic dicit loannes                     practicus sit appetitns vel voluntas; hoc enim negal
-              Damascenus, quod «cnnscientia est lex inteliectus                       ipse Philosophus.
-              nostri»; lex enim est illud quod per conscientiam                             1. Ad illud ergo quod obiicitur in contrarium, sointio op-
-              novimus. Aliquando vero accipitur conscientia pro
-                                                                                      quod conscientia non potest esse potentia nec passio ^positoruiii.
-          eo qm^       conscii sumus,          scilicet pro habitu, sicut             nec habitus ex parte cognitivae; dicendum, quod
+2. Item, Damascenus[^2] dicit, quod «conscientia est lex intellectus nostri»; sed lex intellectus non dicitur nisi Scriptura, quae directe respicit intellectum: ergo conscientia tenet se ex parte potentiae intellectivae.
 
+3. Item, omnis scientia est ex parte intellectus; omnis conscientia est scientia: ergo omnis conscientia est ex parte intellectus. Maior propositio per se manifesta est[^3]; minor probatur, quia omnis conscius alicuius rei est sciens illam rem: ergo a coniugatis, omnis conscientia est scientia.
 
-                 ' Libr. IV. de Fitle orthod. c. 22 , iibi secundiim Alex.                  ^ Complures codd., ut I K T X Z bb ee , pro quo. Mo.x
-          Hiil., S. p. 11. q. 74. m. 3. sic legitur: Conscienlia esl lex noslri       pro sicut scientia codd. li X Y Z ee et alii nec non edd. 1 , 2
-          intellectus ; sed immissio perniciosi , hoc est lex peccali , sii-          sicut conscientia , cod. bb et ed. 3 sic C07iscientia ; H submtie
-          perveniens membris carnis, per eam se nobis immittit... Con-                pro scilicet cognoscentis, quod habenl plures codd., ut 1 W et bb
-          scientia congratulatur legi Dei, scil. mandato... lex autem pec-            (a secunda manu), codd. C K L 0 P li S ee etc. sicut cogno-
-          cali , scil. immissio per legem , quae est in membris , scil. per           scentis , cod. D sic cognoscentis. In cod. F sic legitur: sicut
-          corporis surrectionem et motum et irrationalem parleni animae,              conscientia accipitur, ut cum dicitur: haec est conscientia mea,
-          repugnat legi intellectus nostri elc. — In Val. pro Damascenus              pro habitii sicut cognoscentis ; in cod. T textus sic abbrevia-
-          legitur Apostolus et ad marginem habetur Rom. 7.                            tus exhibetur : scilicet pro habitu sicut cognoscentis. Edd. scien-
-                 ' Vers. 4. — Glossa habetur apud Petr. Lombardum in                  tiae cognoscentis. Paulo inferius pro potentia consciente Val.
-          hunc locum; Lyranus eani exhibet ut inleiiinearem.                          cum edd. 3 , 4 potentia conscientiae.
-                 -' Cfr. Aristot. , 111. de Anima, text. 29. et 36. (c. 7. et II.);         « Cfr. Rom. 2, 14. seq. , ad queni locum Glossa ordina-
-          cfr. etiam supra pag. 174, nota 2. et pag. 714, nota I. —                   ria apud Strabum et Lyranum annotat: Elsi [gentilis] non
-          Quod in minori dicilur, id Glossa ordinaria apud Strabum super              habeat scriptam legeni , hubet lamen naturalem , qua inlelligil
-          illud II. Cor. 1,12: Nam gloria nostra haec est, testimonium                et sibi conscius est , quid sit bonum et quid sit malum. Vitium
-          conscientiae nostrae etc. , sic exprimit: Sicut impiis est mugna            quippu contra naturam est. Vide infrn a. 2. q. l.adS. — Ali-
-          poena conscientia , ila piis gaudium. — Post pauca pro unde                 quanto inferius post Si crgo quaeratur Val. cl ed. 3, 4 adiun-
-          vermis cod. 1 vermis enim , cod. 0 et vermis , codd. F H K T
-           U Y Z ee vermis tantum.                                                    gunt conscientia.
-                                                                                           ' Vide supra pag. 5SS, nota 2. — De explicatione, quar
-                 * Vide supra pag. 601 , nota 5. — Cod. cc et ed. I in-               dicto Philosophi adnectitur, cfr. supra d. 24. p. I. a. 2. q. 1.
-           lellectivo.                                                                ad 2.
-         900                                                    SENTENTIARUM LIB. II.
-                                                                                 tum ad potentiam motivam et inclinativam, sed etiam
-            immo nominare potest et polentiain et habitum. Et
-NotaQduin. gum noinlnat poientiam, non nominat universaliter                     quantum ad sensilivam; et ideo, quamvis lex carnis
-                                                                                 principaliler consistat in concupiscentia ad malum
-           potenliam cognitivam, sed prout se exteridit ad co-                   inclinanle, nihilominus tamen praesupponit phanta-
-           gnoscenda ea quae sunt moiHs sive ad moralia. Cuin
-           autem nominat habilum, non solum nominat haiii-                       sticam et cognitivam sibi carnalia inordinate reprae-
-                                                                                 sentantem. Et similiter in kge mentis est ista duo
-           tum naturalem, imrao etiam potest nominare habi-
-                                                                                 considerare. Conscientia autem , quantum est de se,
-           tum acquisitumK Et quia habitus ac(/Mm<».4- potest
-           puriflcare et foedare animam, hinc est, quod con-                     magis directe opponitur legi carnis ratione cognitio-
-           scientia dicitur munda et immunda, recta et non                       nis praeambulae quam ratione concupiscentiae.
-           recta. Verumtamen istae differentiae plus respiciunt                        4. Ad illud quod obiicitur de remorsu, dicen-
-           conscientiam, secundum quod stat pro nomine polen-                    duin , quod conscientia dicitur remordere , propter
-           tiae, quam secunduni quod stat pro nomine Imbitus.                    hoc quod, dum ipsa monslrat aliquod malum ipsi
-                 2. Ad illud quod obiicitur, quod conscienlia di-                affectui habenti rectitudinem, superinducit remorsum, NotaQdamj
-           citur esse bona et mala; dicendum, quod bonitas                       pro eo quod ille affectus recalcitrat. Unde remor-
-           et malitia non lanlummodo respiciiint affectum ,                      sus non est a conscientia principaliter movente, sed
-           immo etiam intellectum practicum et eius habitum,                     sicul a dictante ; a scintilla autem conscientiae, quae
-           pro eo quod inteilectus practicus non lantum con-                     quidem est synderesis, est sicut a movente, ut me-
-           sistit in vero, sed etiam se extendit ad bonum. Et                    lius iam patebit^
-           propterea iudicatorium illud, quod quidem est con-                          3. Ad illud quod obiicitur, quod poenale et de-
-                                                                                 lectabile est ex parte conscientiae ; dicendum, quod
-           scientia, bonum est, quando bonuin dictat et ad bo-
-           num inclinat et a malo retrahit et ipsum refugit;                     non est a conscientia , nec in conscientia nisi sicut
-           et ideo non sequitur, quod conscientia sit in potentia                in disponente et dictante. Gaudere enim et dolere
-           affectiva. Ad hoc enim , quod dicatur bona, non opnr-                 proprie affectionis est. Sed cum conscientia, quae est
-           tet, quod sit affeclio per essentiam, sed suflicit ,                  rectus testis, testificatur de bono faclo, quod est
-           quod cum ipsa voluntate el affectione liabeat quan-                   bonum, el de malo facto, quod est malura, generat
-           dara concomitantiam.                                                  ex hoc dolorera , vel gaudiura in affectu. Unde et
-                 3. Ad illnd quod obiicitur, quod lex carnis op-                 Apostolus * dicit:* Gloria nostra haec est, testimo-
-           ponitur legi mentis; dicendum, quod sicut dicit ma-                   7iium conscientiae nostrae; non attribuendo ipsi
-           gister Hugo de sancto Victore^ in sensualitate sive                   conscientiae principaliter passionem laetandi, sed
-           in homine exteriori non tantum esl corruptio quan-                    actum testificandi.
+4. Item, conscientia dividitur per rectam et erroneam; sed erroneum respicit habitum, vel actum intellectivum[^4]: si ergo divisum et dividentia spectant ad eandem potentiam animae, videtur, quod conscientia teneat se ex parte potentiae cognitivae.
 
-                                                                     SOHOLIOK
-             I. Pro hac et seqq. quaestionibus inlelligendis supponenda est      ila dislinguit, ut liaec sit in voluntate sicut a quidam univer-
-        frequenter usitata distinctio inler potenliam, habitum ci actam.         salis molor, stimulans ad opus secundum regulas universales
-        Depotentiis animae cfr. I. Sent. d. 3. p. II. a. I. q. 3, et 11. Sent.   legis naturae »; conscientia autem ut « quidam particularis mo-
-        d. 24. p. I. a. 2. q. I. — De multis niodis, quibus dicitur habi-        tor, stimulans ad opus secundum dictamcn rectae rationis », et
-        tus, 111. Sent. d. 6. dub. 3. et a. I. q. 3. De rclatione, quae          quidem voluntate deliberaliva. (jOntra ipsum pluribus arguit
-        est inter habitum et dispositionem II. Sent. d. 2i. p. 11. a. 3.         Scot. , hic q. 2. n. 2. Durandus autem (hic q. 4.) vult probare,
-        q. 2. ad 2, et IV. Sent. d. 6. p. I. q. 1, q. 3. ad 2. i. De             quod conscientia spectet et ad intellectum et ad voluntatem.
-        habilu acquisito, infuso et innato II. Sent. d. 28. dub. 1 ; IV.         Communiter autem Scholastici cum S. Thoma et Bonav. do-
-        Sent. d. 4. p. H. a. 2. q. 2, d. 6. p. I. q. I. et 5; III. Sent.         cent, conscienliam perlinere ad inlelleclum practicum. — Attamen
-        d. 33. q. .5. ad 4. De triplici nalurali habitu, scilicet, qui est       hi ilo^rum inter se dissident quoad quaestionem , utrum con-
-        ab acqumtione , ab innata disposilione , ab animae origine ctr.          scientia proprie significet habitum , vel actum intellectivae po-
-        I. Sent. d. 3. p. II. a. 2. q. I. ad I. De habitu in sensu largo         tentiae. Di.ximus proprie, quia onines cum noslro Doctore con-
-        et slricto vide supra d. 2.3. p. I. q. 4. 5, et schol.                   cedunt, in usu loquendi vocem conscientiae usui-pari el pro po-
-              II. Henr. Gand. (Quodl. I. q. 18.) docet, quod i conscientia       lentia et pro habitu et pro actu et pro ipso obiecto conscito (cfr.
-        ad parleni animae cognitivam non pertinet, sed ad affeclivam y>.         Alex. Hal., S. p. II. q. 74. m. 1 , et S. Thom., de Verit. q. 17.
-        Rationem principalem ipse affert hanc , k quoniam videmus sae-           a. 1.). — S. Thom. (S. I. q. 70. a. 13.) cum aliis vult, con-
-        pius habentes maiorem operandorum notitiam , minorem habere              scientiam proprie signiflcaro actum, non habilum, cum sit iudi-
-        operandi conscientiam ; unde econtra ratio erronea non est idem          cium intellectus, quo quis applicat scienliam praclicam sive di-
-        cum erronea conscientia ». Ilinc idem conscientiam el svnderesim         clamen ralionis ad aliquid agendum ; talem actum aulem infor-
+5. Item, hoc ipsum ostenditur per actum. Legere enim et iudicare et dirigere et testificari et arguere, omnes sunt actus spectantes ad cognitionem; sed omnes hi actus attribuuntur conscientiae; nam conscientia est liber, in quo *legimus,* conscientia etiam interius *iudicat,* conscientia *testificatur,* conscientia *arguit,* conscientia etiam *regit et dirigit*[^5]. Ergo videtur, quod conscientia totaliter se teneat ex parte cognitivae, cum actus et habitus sint eiusdem potentiae.
 
+**Sed contra:** 1. Si conscientia tenet se ex parte cognitivae, aut ergo sicut *potentia,* aut sicut *passio,* aut sicut *habitus*[^6]. Non sicut passio, quia passiones maxime respiciunt affectivam; non sicut habitus, quia conscientia modo est munda, modo immunda, et nullus habitus transmutatur a munditia in immunditiam, et e converso. Restat igitur, quod si conscientia tenet se ex parte cognitivae, non erit aliud quam potentia cognitiva: ergo si potentia cognitiva est de omnibus, non solum de operabilibus, sed etiam de speculabilibus[^7]; videtur, quod conscientia non tantum attendatur circa ea quae sunt morum, sed etiam circa ea quae sunt disciplinarum; quod manifeste falsum est.
 
+2. Item, sicut intellectus se habet ad verum, ita affectus se habet ad bonum: ergo si quid est, cuius perfectio consistit in bonitate, illud magis spectat ad bonum affectum quam ad intellectum; sed conscientia est huiusmodi — dicit enim Apostolus primae ad Timotheum primo[^8]: *Caritas est de corde*
 
-             ' Quod in seq. quaest. explicatur. — Alex. Hal. , S. p. II.               - Cfr. I. de Sacram. p. VII. c. 34, ubi inter alia : In carne
-        q. 74. m. 2. ail : Prout ergo [ conscientia ] accipitur secundum         igitur mortali ex sensualitate corrupta nascitur vilium concupi-
-        habitum , bene concedimus , quod est habilus naluralis , sed             scentiae , ex sensu corrupto vitium ignorantiae : ibi , quia ap-
-        prout secundum actum , acquisitus. Unde bene concedimus ,                |ietitus quaerendae necessitalis ultra mensuram se extendil, hic
-        quod huiusmodi differentiae mundum et immundum , et sic                  autem, quia .instrumentum concipiendae verilatis ab integrilatis
-        de aliis differenliis, non sunt diflerentiae conscientiae , prout        vigore deficiU Cfr. supra d^ 30. a. 2. q. 2.
-        est habiius naluralis, sed prout dicit acceptionem iuxla habitum               3 Art.seq. — Supra pro superinducit cod. T seniper inducit.
-        naturalem , el hoc prout se tenct ex parte rationis. Paulo su-              ' ' Epist. II. Ciu'. 1 , 12. — Cod. T anle Apostotus inleriicil
-        perius pro ad moralia cod. T moralia.
-                                                                                 Augustinus et.
-                                                        DIST. XXXIX. ART. I. QUAEST. II.                                                      901
-       mari posse multis liabilibus, qui tamen efficacinm iiatiriu ab              Quoad solut. ad 2. cfr. S. Thom., de Verit. q. 17. a. 1. ad
-       uno primo principio, quod sit synderesis (ibid. ad 3.). Synde-         2. .3, et Sum. loc. cit. ad 2. — Nomen naturale iudicatorium ,
-       resis igitur, secundum eundem, est ille liabitus intellcctus pra-      quod conscientiae tribuitur, idem S. Thom. (hic q. 3. a. 2. ad 2 ,
-       ctici , qui proponit principia prima practiua. — Aliter accipit        cfr. ctiam de Verit. loc. cit. 5.) sibi constans ila e.i!plicat, quod
-       S. Bonav. et conscientiam et synderesim (de qua agil a. 2. q.          dicatur « non per se, sed in quantum virtus synderesis in ipsa
-        I.), el conseientiam quidem dicit esse habitmn perflcientcm in-       manet, sicut virtus principiorum salvatur in conclusionibus, et
-       tellectum practicum ; quod inagis determinat hic ad I , q. 2, a. 2.    ex parte illa non errat ».
-       q. 2. ad 4. Eundem moduni loquendi adhibent Alex. Hal., Petr.                iil. Praeter locos citatos: Alex. Hal., loc. dl. m. 3. — Scot.,
-       a Tar. , .Egid. li. et cum quadani reslrictione Richard. a Med. et     de hac et seq. q. loc. cit. et Repoit. hic q. 2. — B. Albert.,
-       Scotus. — Observat autem Durand. (loc. cit.), hanc quaestionem         S. p. II. tr. 16. q. 99. m. 3. q. incid. 2. — Petr. a Tar., hic
-       esse « de signiflcato , in quo non esset magna vis facienda ,          q. 3. a. I. — Richard. a Med., hic a. 2. q. I. — ,-Egid. R. ,
-       dummodo constaret de re... Tamen circa eam invenitur diver-            hic q. 3. a. 1 . — Dionys. Carth. , II. Sent. d. 24. q. 7. — Biel,
-       silas opinionum » etc.                                                 de hac et seq. q. hic q. unica.
+<!-- page 899 -->
+
+*puro et conscientia bona;* et iterum in eadem Epistola: *Milites in illis bonam militiam, habens fidem et bonam conscientiam* — ergo etc.
+
+3. Item, «lex carnis repugnat legi mentis», secundum quod Damascenus[^9] dicit; sed lex carnis se tenet ex parte motivae: ergo et lex mentis tenet se ex eadem parte. Sed «conscientia est lex mentis», sicut supra dixit Damascenus: ergo conscientia tenet se ex parte *affectivae.*
+
+4. Item, remorsus est actio potentiae affectivae, ubicumque enim est remorsio, ibi est quidam dolor et passio; sed conscientiae est remordere, sicut dicitur super illud primae ad Corinthios quarto[^10]: *Nihil mihi conscius sum;* Glossa: «In nullo me remordet conscientia mea»: ergo videtur, quod conscientia ex parte *affectivae* se teneat.
+
+5. Item, delectabile et poenale se tenet ex parte potentiae affectivae[^11]; sed in nobis est poena et laetitia ex parte conscientiae — unde vermis conscientiae erit magna poena in damnatis — ergo videtur, quod conscientia teneat se ex parte potentiae *affectivae,* non ex parte cognitivae.
+
+### Conclusio
+
+> Conscientia est habitus potentiae cognitivae, prout est practica, non prout est speculativa.
+
+**Respondeo:** Ad praedictorum intelligentiam notandum est, quod sicut nomen *intellectus* aliquando accipitur pro potentia intelligendi, aliquando pro habitu, aliquando pro ipso principio intellecto[^12]; sic nomen *conscientiae* tripliciter consuevit accipi a doctoribus sacrae Scripturae. Aliquando enim accipitur conscientia pro ipso conscito; et sic dicit Ioannes Damascenus, quod «conscientia est lex intellectus nostri»; lex enim est illud quod per conscientiam novimus. Aliquando vero accipitur conscientia pro eo quo[^13] conscii sumus, scilicet pro habitu, sicut scientia accipitur pro habitu, scilicet cognoscentis. Aliquando autem accipitur conscientia pro ipsa potentia consciente, ut ita dicam, secundum quod dicitur, quod lex naturalis scripta est in conscientiis nostris[^14]. Cum igitur tribus modis accipi soleat conscientiae nomen, *usitatiori* tamen modo nomen conscientiae pro *habitu* accipitur, sicut et nomen scientiae, a quo componitur.
+
+Si ergo quaeratur, cuius potentiae sit habitus; dicendum, quod est habitus potentiae *cognitivae,* aliter tamen, quam sit ipsa speculativa scientia: quia scientia speculativa est perfectio intellectus nostri, in quantum est speculativus; conscientia vero est habitus perficiens intellectum nostrum, in quantum est *practicus,* sive in quantum dirigit in opere. Et sic intellectus habet quodam modo rationem *motivi,* non quia efficiat motum, sed quia dictat et inclinat ad motum. — Et propterea talis habitus non simpliciter nominatur *scientia,* sed *conscientia,* ut in hoc significetur, quod habitus iste non perficit ipsam potentiam speculativam *in se,* sed prout est quodam modo *iuncta affectioni et operationi.* Propter quod nos non dicimus, quod dictamen conscientiae sit ad hoc principium: omne totum est maius sua parte, et ad consimilia; sed bene dicimus, quod conscientia dictat, Deum esse honorandum, et consimilia principia, quae sunt sicut regulae agendorum. — Concedendum est igitur, sicut rationes ostendunt, quod conscientia se tenet ex parte potentiae *cognitivae,* licet non se teneat, secundum quod est *speculativa,* sed secundum quod est *practica.* «Intellectus enim speculativus et practicus eandem potentiam dicunt, sola extensione differentem», sicut dicit Philosophus[^15]: nec est aliquo modo intelligendum, quod intellectus practicus sit appetitus vel voluntas; hoc enim negat ipse Philosophus.
+
+1. Ad illud ergo quod obiicitur in contrarium, quod conscientia non potest esse potentia nec passio nec habitus ex parte cognitivae; dicendum, quod
+
+<!-- page 900 -->
+
+immo nominare potest et *potentiam* et *habitum.* Et cum nominat *potentiam,* non nominat universaliter potentiam cognitivam, sed prout se extendit ad cognoscenda ea quae sunt *moris* sive ad moralia. Cum autem nominat *habitum,* non solum nominat habitum naturalem, immo etiam potest nominare habitum *acquisitum*[^16]. Et quia habitus *acquisitus* potest purificare et foedare animam, hinc est, quod conscientia dicitur munda et immunda, recta et non recta. Verumtamen istae differentiae plus respiciunt conscientiam, secundum quod stat pro nomine *potentiae,* quam secundum quod stat pro nomine *habitus.*
+
+2. Ad illud quod obiicitur, quod conscientia dicitur esse bona et mala; dicendum, quod bonitas et malitia non tantummodo respiciunt affectum, immo etiam intellectum practicum et eius habitum, pro eo quod intellectus practicus non tantum consistit in vero, sed etiam se extendit ad bonum. Et propterea iudicatorium illud, quod quidem est conscientia, bonum est, quando bonum dictat et ad bonum inclinat et a malo retrahit et ipsum refugit; et ideo non sequitur, quod conscientia sit in potentia affectiva. Ad hoc enim, quod dicatur bona, non oportet, quod sit affectio per essentiam, sed sufficit, quod cum ipsa voluntate et affectione habeat quandam concomitantiam.
+
+3. Ad illud quod obiicitur, quod lex carnis opponitur legi mentis; dicendum, quod sicut dicit magister Hugo de sancto Victore[^17] in sensualitate sive in homine exteriori non tantum est corruptio quantum ad potentiam motivam et inclinativam, sed etiam quantum ad sensitivam; et ideo, quamvis lex carnis principaliter consistat in concupiscentia ad malum inclinante, nihilominus tamen praesupponit phantasticam et cognitivam sibi carnalia inordinate repraesentantem. Et similiter in lege mentis est ista duo considerare. Conscientia autem, quantum est de se, magis directe opponitur legi carnis ratione cognitionis praeambulae quam ratione concupiscentiae.
+
+4. Ad illud quod obiicitur de remorsu, dicendum, quod conscientia dicitur remordere, propter hoc quod, dum ipsa monstrat aliquod malum ipsi affectui habenti rectitudinem, superinducit remorsum, pro eo quod ille affectus recalcitrat. Unde remorsus non est a conscientia principaliter movente, sed sicut a dictante; a scintilla autem conscientiae, quae quidem est synderesis, est sicut a movente, ut melius iam patebit[^18].
+
+5. Ad illud quod obiicitur, quod poenale et delectabile est ex parte conscientiae; dicendum, quod non est a conscientia, nec in conscientia nisi sicut in disponente et dictante. Gaudere enim et dolere proprie affectionis est. Sed cum conscientia, quae est rectus testis, testificatur de bono facto, quod est bonum, et de malo facto, quod est malum, generat ex hoc dolorem, vel gaudium in affectu. Unde et Apostolus[^19] dicit: *Gloria nostra haec est, testimonium conscientiae nostrae;* non attribuendo ipsi conscientiae principaliter passionem laetandi, sed actum testificandi.
+
+### Scholion
+**I.** Pro hac et seqq. quaestionibus intelligendis supponenda est frequenter usitata distinctio inter potentiam, habitum et actum. De potentiis animae cfr. I. Sent. d. 3. p. II. a. I. q. 3, et II. Sent. d. 24. p. I. a. 2. q. I. — De multis modis, quibus dicitur habitus, III. Sent. d. 6. dub. 3. et a. I. q. 3. De relatione, quae est inter habitum et dispositionem II. Sent. d. 24. p. II. a. 3. q. 2. ad 2, et IV. Sent. d. 6. p. I. q. 1, q. 3. ad 2. i. De habitu acquisito, infuso et innato II. Sent. d. 28. dub. 1; IV. Sent. d. 4. p. II. a. 2. q. 2, d. 6. p. I. q. I. et 5; III. Sent. d. 33. q. 5. ad 4. De triplici naturali habitu, scilicet, qui est ab acquisitione, ab innata dispositione, ab animae origine cfr. I. Sent. d. 3. p. II. a. 2. q. I. ad I. De habitu in sensu largo et stricto vide supra d. 23. p. I. q. 4. 5, et schol.
+
+**II.** Henr. Gand. (Quodl. I. q. 18.) docet, quod «conscientia ad partem animae cognitivam non pertinet, sed ad affectivam». Rationem principalem ipse affert hanc, «quoniam videmus saepius habentes maiorem operandorum notitiam, minorem habere operandi conscientiam; unde econtra ratio erronea non est idem cum erronea conscientia». Hinc idem conscientiam et synderesim ita distinguit, ut haec sit in voluntate sicut «quidam universalis motor, stimulans ad opus secundum regulas universales legis naturae»; conscientia autem ut «quidam particularis motor, stimulans ad opus secundum dictamen rectae rationis», et quidem voluntate deliberativa. Contra ipsum pluribus arguit Scot., hic q. 2. n. 2. Durandus autem (hic q. 4.) vult probare, quod conscientia spectet et ad intellectum et ad voluntatem. Communiter autem Scholastici cum S. Thoma et Bonav. docent, conscientiam pertinere ad intellectum practicum. — Attamen hi iterum inter se dissident quoad quaestionem, utrum conscientia proprie significet habitum, vel actum intellectivae potentiae. Diximus proprie, quia omnes cum nostro Doctore concedunt, in usu loquendi vocem conscientiae usurpari et pro potentia et pro habitu et pro actu et pro ipso obiecto conscito (cfr. Alex. Hal., S. p. II. q. 74. m. 1, et S. Thom., de Verit. q. 17. a. 1.). — S. Thom. (S. I. q. 79. a. 13.) cum aliis vult, conscientiam proprie significare actum, non habitum, cum sit iudicium intellectus, quo quis applicat scientiam practicam sive dictamen rationis ad aliquid agendum; talem actum autem informari posse multis habilibus, qui tamen efficaciam habent ab uno primo principio, quod sit synderesis (ibid. ad 3.). Synderesis igitur, secundum eundem, est ille habitus intellectus practici, qui proponit principia prima practica. — Aliter accipit S. Bonav. et conscientiam et synderesim (de qua agit a. 2. q. I.), et conscientiam quidem dicit esse habitum perficientem intellectum practicum; quod magis determinat hic ad I, q. 2, a. 2. q. 2. ad 4. Eundem modum loquendi adhibent Alex. Hal., Petr. a Tar., Aegid. R. et cum quadam restrictione Richard. a Med. et Scotus. — Observat autem Durand. (loc. cit.), hanc quaestionem esse «de significato, in quo non esset magna vis facienda, dummodo constaret de re... Tamen circa eam invenitur diversitas opinionum» etc.
+
+**III.** Praeter locos citatos: Alex. Hal., loc. cit. m. 3. — Scot., de hac et seq. q. loc. cit. et Report. hic q. 2. — B. Albert., S. p. II. tr. 16. q. 99. m. 3. q. incid. 2. — Petr. a Tar., hic q. 3. a. I. — Richard. a Med., hic a. 2. q. I. — Aegid. R., hic q. 3. a. 1. — Dionys. Carth., II. Sent. d. 24. q. 7. — Biel, de hac et seq. q. hic q. unica.
+
+---
 
 ## English
 
-[Translation pending]
+### Article I. *On conscience.*
+### Question I. *Whether conscience belongs to the intellect or to the affective power.*
+
+Concerning the first point one proceeds thus, and it is asked whether conscience belongs to the intellect or to the affective power. And that it belongs to the intellect, it seems:
+
+1. *First*, through that text of Ecclesiastes 7[^1]: *Thy conscience knoweth that thou also hast often spoken evil of others;* but *to know* is the act proper to the cognitive power: if therefore it belongs to conscience to know, conscience belongs to the cognitive power.
+
+2. Likewise, Damascene[^2] says that «conscience is the law of our intellect»; but only Scripture is called the law of the intellect, which directly regards the intellect: therefore conscience belongs to the intellective power.
+
+3. Likewise, all knowledge is on the side of the intellect; all conscience is knowledge: therefore all conscience is on the side of the intellect. The major proposition is manifest of itself[^3]; the minor is proved, because everyone conscious of some thing is one knowing that thing: therefore, by conjugates, all conscience is knowledge.
+
+4. Likewise, conscience is divided into right and erroneous; but the erroneous regards an intellective habit or act[^4]: if therefore the thing divided and the dividing members pertain to the same power of the soul, it seems that conscience belongs to the cognitive power.
+
+5. Likewise, this same thing is shown through the act. For to read and to judge and to direct and to testify and to accuse are all acts pertaining to cognition; but all these acts are attributed to conscience; for conscience is a book in which we *read,* conscience also inwardly *judges,* conscience *testifies,* conscience *accuses,* conscience also *rules and directs*[^5]. Therefore it seems that conscience belongs wholly to the cognitive power, since act and habit are of the same power.
+
+**On the contrary:** 1. If conscience belongs to the cognitive power, then either as a *power,* or as a *passion,* or as a *habit*[^6]. Not as a passion, because passions most of all regard the affective power; not as a habit, because conscience is now clean, now unclean, and no habit is changed from cleanness into uncleanness, and conversely. It remains therefore that, if conscience belongs to the cognitive power, it will be nothing other than the cognitive power: therefore if the cognitive power is about all things, not only about things to be done, but also about things to be speculated[^7]; it seems that conscience would attend not only to things of morals, but also to things of the disciplines; which is manifestly false.
+
+2. Likewise, as the intellect is related to the true, so the affective power is related to the good: therefore if there is something whose perfection consists in goodness, that pertains more to the good of the affection than to the intellect; but conscience is of this kind — for the Apostle says in 1 Timothy 1[^8]: *Charity is from a pure*
+
+*heart and a good conscience;* and again in the same Epistle: *Maintaining the good warfare among them, having faith and a good conscience* — therefore etc.
+
+3. Likewise, «the law of the flesh fights against the law of the mind», according to what Damascene[^9] says; but the law of the flesh belongs to the motive power: therefore also the law of the mind belongs to the same part. But «conscience is the law of the mind», as Damascene said above: therefore conscience belongs to the *affective* power.
+
+4. Likewise, remorse is an action of the affective power, for wherever there is remorse, there is a certain pain and passion; but it belongs to conscience to bite back, as is said upon that text of 1 Corinthians 4[^10]: *I am not conscious to myself of anything;* Gloss: «In nothing does my conscience bite me»: therefore it seems that conscience belongs to the *affective* power.
+
+5. Likewise, the delightful and the painful belong to the affective power[^11]; but in us there is pain and gladness on the side of conscience — whence the worm of conscience will be a great pain in the damned — therefore it seems that conscience belongs to the *affective* power, not to the cognitive.
+
+### Conclusion
+
+> Conscience is a habit of the cognitive power, insofar as it is practical, not insofar as it is speculative.
+
+**I respond:** For the understanding of what has been said, it must be noted that, just as the name *intellect* is taken sometimes for the power of understanding, sometimes for a habit, sometimes for the very principle understood[^12]; so the name *conscience* is wont to be taken in three ways by the doctors of sacred Scripture. For sometimes conscience is taken for the very thing of which we are conscious; and thus John Damascene says that «conscience is the law of our intellect»; for the law is that which we know through conscience. But sometimes conscience is taken for that by which[^13] we are conscious, namely for a habit, as knowledge is taken for a habit, namely of the one knowing. But sometimes conscience is taken for the very power that is conscious, so to speak, according to which it is said that the natural law is written in our consciences[^14]. Since therefore the name of conscience is wont to be taken in three ways, yet in the *more usual* way the name of conscience is taken for a *habit,* as also the name of knowledge, from which it is compounded.
+
+If therefore it be asked, of which power it is the habit; it must be said that it is a habit of the *cognitive* power, yet otherwise than speculative knowledge itself is: because speculative knowledge is the perfection of our intellect, insofar as it is speculative; but conscience is a habit perfecting our intellect, insofar as it is *practical,* or insofar as it directs in action. And thus the intellect has in a certain way the character of a *mover,* not because it effects motion, but because it dictates and inclines to motion. — And therefore such a habit is not simply named *knowledge,* but *conscience,* so that by this it may be signified that this habit does not perfect the speculative power *in itself,* but insofar as it is in a certain way *joined to affection and operation.* On account of which we do not say that the dictate of conscience is directed to this principle: every whole is greater than its part, and to such like; but we do well say that conscience dictates that God is to be honored, and like principles, which are as rules of things to be done. — It must therefore be granted, as the reasons show, that conscience belongs to the *cognitive* power, although it does not belong to it insofar as it is *speculative,* but insofar as it is *practical.* «For the speculative and practical intellect name the same power, differing only by extension», as the Philosopher says[^15]: nor is it in any way to be understood that the practical intellect is appetite or will; for the Philosopher himself denies this.
+
+1. To that therefore which is objected on the contrary, that conscience cannot be a power nor a passion nor a habit on the side of the cognitive power; it must be said that
+
+on the contrary it can name both a *power* and a *habit.* And when it names a *power,* it does not name the cognitive power universally, but insofar as it extends to knowing the things that are of *morals* or to moral matters. But when it names a *habit,* it names not only a natural habit, but rather it can also name an *acquired*[^16] habit. And because an *acquired* habit can purify and defile the soul, hence it is that conscience is called clean and unclean, right and not right. Yet these differences regard conscience more insofar as it stands for the name of the *power,* than insofar as it stands for the name of the *habit.*
+
+2. To that which is objected, that conscience is called good and bad; it must be said that goodness and malice regard not only the affection, but rather also the practical intellect and its habit, for the reason that the practical intellect does not consist only in the true, but also extends itself to the good. And therefore that judicatory faculty, which indeed is conscience, is good when it dictates the good and inclines to the good and draws back from evil and shuns it; and therefore it does not follow that conscience is in the affective power. For for it to be called good, it is not required that it be an affection by its essence, but it suffices that with the will and affection itself it have a certain concomitance.
+
+3. To that which is objected, that the law of the flesh is opposed to the law of the mind; it must be said that, as master Hugh of St. Victor[^17] says, in sensuality or in the exterior man there is corruption not only as to the motive and inclinative power, but also as to the sensitive; and therefore, although the law of the flesh consists principally in the concupiscence inclining to evil, nevertheless it presupposes the imaginative and cognitive power representing carnal things to it inordinately. And likewise in the law of the mind these two things are to be considered. But conscience, as far as concerns itself, is more directly opposed to the law of the flesh by reason of the preceding cognition than by reason of concupiscence.
+
+4. To that which is objected about remorse, it must be said that conscience is said to bite back, for this reason: that, while it itself shows some evil to the affection having rectitude, it brings on remorse, for the reason that that affection kicks back. Whence remorse is not from conscience as principally moving, but as from one dictating; but from the spark of conscience, which indeed is synderesis, it is as from one moving, as will better appear hereafter[^18].
+
+5. To that which is objected, that the painful and the delightful are on the side of conscience; it must be said that it is not from conscience, nor in conscience except as in one disposing and dictating. For to rejoice and to grieve belongs properly to the affection. But when conscience, which is a right witness, testifies concerning a good deed, that it is good, and concerning an evil deed, that it is evil, it generates from this grief, or gladness in the affection. Whence also the Apostle[^19] says: *Our glory is this, the testimony of our conscience;* not attributing to conscience itself principally the passion of rejoicing, but the act of testifying.
+
+### Scholion
+**I.** For the understanding of this and the following questions, the frequently used distinction among power, habit, and act must be presupposed. On the powers of the soul cf. I Sent. d. 3, p. II, a. 1, q. 3, and II Sent. d. 24, p. I, a. 2, q. 1. — On the many ways in which habit is said, III Sent. d. 6, dub. 3, and a. 1, q. 3. On the relation between habit and disposition, II Sent. d. 24, p. II, a. 3, q. 2, ad 2, and IV Sent. d. 6, p. I, q. 1, q. 3, ad 2, i. On acquired, infused, and innate habit, II Sent. d. 28, dub. 1; IV Sent. d. 4, p. II, a. 2, q. 2, d. 6, p. I, q. 1 and 5; III Sent. d. 33, q. 5, ad 4. On the threefold natural habit, namely that which is from acquisition, from innate disposition, from the soul's origin, cf. I Sent. d. 3, p. II, a. 2, q. 1, ad 1. On habit in the broad and strict sense see above d. 23, p. I, q. 4, 5, and the scholion.
+
+**II.** Henry of Ghent (Quodl. I, q. 18) teaches that «conscience does not pertain to the cognitive part of the soul, but to the affective». He brings forward this as his principal reason: «because we often see those having a greater knowledge of things to be done having a lesser conscience for doing them; whence, conversely, an erroneous reason is not the same as an erroneous conscience». Hence the same author so distinguishes conscience and synderesis that the latter is in the will as «a certain universal mover, stimulating to work according to the universal rules of natural law»; but conscience as «a certain particular mover, stimulating to work according to the dictate of right reason», and indeed of the deliberative will. Against him Scotus argues at length, here q. 2, n. 2. But Durandus (here q. 4) wishes to prove that conscience pertains both to the intellect and to the will. But commonly the Scholastics with St. Thomas and Bonaventure teach that conscience pertains to the practical intellect. — Yet these in turn disagree among themselves on the question whether conscience properly signifies a habit, or an act of the intellective power. We said *properly,* because all with our Doctor grant that, in the usage of speaking, the word conscience is used both for a power and for a habit and for an act and for the very object of which one is conscious (cf. Alex. of Hales, S. p. II, q. 74, m. 1, and St. Thomas, de Verit. q. 17, a. 1). — St. Thomas (S. I, q. 79, a. 13) with others wishes conscience properly to signify an act, not a habit, since it is a judgment of the intellect, by which one applies practical knowledge or the dictate of reason to something to be done; but that such an act can be informed by many habits, which nevertheless have their efficacy from one first principle, which is synderesis (ibid. ad 3). Synderesis therefore, according to the same author, is that habit of the practical intellect which proposes the first practical principles. — Otherwise St. Bonaventure takes both conscience and synderesis (of which he treats a. 2, q. 1), and conscience indeed he says to be a habit perfecting the practical intellect; which he determines more here at I, q. 2, a. 2, q. 2, ad 4. The same manner of speaking is used by Alex. of Hales, Peter of Tarentaise, Giles of Rome, and with a certain restriction Richard of Mediavilla and Scotus. — But Durandus (loc. cit.) observes that this question is «about the thing signified, in which there would be no great force to be exerted, provided the matter were settled... Yet about it there is found a diversity of opinions» etc.
+
+**III.** Besides the places cited: Alex. of Hales, loc. cit. m. 3. — Scotus, on this and the following q. loc. cit. and Report. here q. 2. — B. Albert, S. p. II, tr. 16, q. 99, m. 3, q. incid. 2. — Peter of Tarentaise, here q. 3, a. 1. — Richard of Mediavilla, here a. 2, q. 1. — Giles of Rome, here q. 3, a. 1. — Dionysius the Carthusian, II Sent. d. 24, q. 7. — Biel, on this and the following q. here q. unica.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' Latin note; **En.** gives its English rendering. Quaracchi restarts footnote numbering on each printed page (here pp. 898, 899, 900).
+
+[^1]: **La.** Vers. 23.
+    **En.** Verse 23.
+
+[^2]: **La.** Libr. IV. de Fide orthod. c. 22.
+    **En.** Book IV, On the Orthodox Faith, c. 22.
+
+[^3]: **La.** Cfr. Aristot., VI. Ethic. c. 3. — In minori respicitur illud 1. Cor. 8, 1: *Nihil enim mihi conscius sum.* — Quid sibi velit locutio a *coniugatis,* intelligitur ex illo Aristot., II. Topic. c. 3. (c. 9.): *Videntur autem et quae sunt secundum casus coniugata esse, ut iuste iustitiae et fortiter fortitudini.* Coniugata autem dicuntur secundum eandem coniugationem omnia, ut iustitia, iustus, iustum, iuste. Cfr. supra pag. 472, nota 6.
+    **En.** Cf. Aristotle, VI Ethics c. 3. — In the minor there is regarded that text of 1 Cor. 8:1: *For I am not conscious to myself of anything.* — What the expression *from conjugates* means is understood from that text of Aristotle, II Topics c. 3 (c. 9): *Things that are according to grammatical cases also seem to be conjugates, as "justly" to "justice" and "bravely" to "bravery."* But all those are called conjugates according to the same conjugation, as justice, just (person), just (thing), justly. Cf. above p. 472, note 6.
+
+[^4]: **La.** Aristot., de Longitud. et brev. vitae, c. 2. dicit, oblivionem et errorem sive deceptionem (ἀπάτη) corruptionem esse scientiae. Cfr. supra d. 23. a. 2. q. 2.
+    **En.** Aristotle, On Length and Shortness of Life, c. 2, says that forgetting and error or deception (*apatē*) is a corruption of knowledge. Cf. above d. 23, a. 2, q. 2.
+
+[^5]: **La.** Cfr. Rom. 2, 15. et 14, 23. — De ratione conclusioni addita dicit Aristot., de Somno et vigilia, c. 1: Cuius enim est potentia, huius est et actus.
+    **En.** Cf. Rom. 2:15 and 14:23. — On the reason added to the conclusion Aristotle says, On Sleep and Waking, c. 1: For whose the power is, his is also the act.
+
+[^6]: **La.** De hac distinctione vide supra pag. 893, nota 6. — Quod habitus non transmutetur, expositum est supra pag. 815, nota 4.
+    **En.** On this distinction see above p. 893, note 6. — That a habit is not changed, has been expounded above p. 815, note 4.
+
+[^7]: **La.** Cfr. supra pag. 558, nota 2. et pag. 563, nota 9.
+    **En.** Cf. above p. 558, note 2, and p. 563, note 9.
+
+[^8]: **La.** Vers. 5. — Seq. Script. locus est ibid. v. 18. seq., quem locum non pauci codd., ut H I K T W Y ee, et edd. 1, 2 sic exhibent: *Milites in bona militia habent* [nonnulli codd. *habens*] *fidem et* [aliqui *bonam*] *conscientiam.* — Paulo superius pro *ad bonum affectum* Val. et edd. 3, 4 *ad bonum tantum,* codd. A I L O K X Y bb et ed. 1 *ad effectum,* omisso apposito *bonum.*
+    **En.** Verse 5. — The following Scripture passage is ibid. v. 18 ff., which passage not a few codices, as H I K T W Y ee, and edd. 1, 2 give thus: *Soldiers in good warfare have* [some codd. *having*] *faith and a* [some *good*] *conscience.* — A little above, for *toward the good affection* the Vatican edition and edd. 3, 4 read *toward the good only,* codices A I L O K X Y bb and ed. 1 *toward the effect,* the apposition *good* being omitted.
+
+[^9]: **La.** Libr. IV. de Fide orthod. c. 22, ubi secundum Alex. Hal., S. p. II. q. 74. m. 3. sic legitur: Conscientia est lex nostri intellectus; sed immissio perniciosi, hoc est lex peccati, superveniens membris carnis, per eam se nobis immittit... Conscientia congratulatur legi Dei, scil. mandato... lex autem peccati, scil. immissio per legem, quae est in membris, scil. per corporis surrectionem et motum et irrationalem partem animae, repugnat legi intellectus nostri etc. — In Val. pro *Damascenus* legitur *Apostolus* et ad marginem habetur Rom. 7.
+    **En.** Book IV, On the Orthodox Faith, c. 22, where according to Alex. of Hales, S. p. II, q. 74, m. 3, it reads thus: Conscience is the law of our intellect; but the introduction of the destructive, that is the law of sin, supervening on the members of the flesh, introduces itself to us through it... Conscience congratulates the law of God, namely the commandment... but the law of sin, namely the introduction through the law which is in the members, namely through the uprising and motion of the body and the irrational part of the soul, fights against the law of our intellect, etc. — In the Vatican edition, for *Damascene* is read *the Apostle,* and in the margin is noted Rom. 7.
+
+[^10]: **La.** Vers. 4. — Glossa habetur apud Petr. Lombardum in hunc locum; Lyranus eam exhibet ut interlinearem.
+    **En.** Verse 4. — The Gloss is found in Peter Lombard on this place; Lyranus presents it as interlinear.
+
+[^11]: **La.** Cfr. Aristot., III. de Anima, text. 29. et 36. (c. 7. et 11.); cfr. etiam supra pag. 174, nota 2. et pag. 714, nota 1. — Quod in minori dicitur, id Glossa ordinaria apud Strabum super illud II. Cor. 1, 12: *Nam gloria nostra haec est, testimonium conscientiae nostrae* etc., sic exprimit: *Sicut impiis est magna poena conscientia, ita piis gaudium.* — Post pauca pro *unde vermis* cod. 1 *vermis enim,* cod. O *et vermis,* codd. F H K T U Y Z ee *vermis* tantum.
+    **En.** Cf. Aristotle, III On the Soul, text. 29 and 36 (c. 7 and 11); cf. also above p. 174, note 2, and p. 714, note 1. — What is said in the minor, the Ordinary Gloss in Strabus upon that text of 2 Cor. 1:12: *For our glory is this, the testimony of our conscience* etc., expresses thus: *As to the impious conscience is a great punishment, so to the pious it is joy.* — A little after, for *whence the worm* cod. 1 has *for the worm,* cod. O *and the worm,* codd. F H K T U Y Z ee *the worm* only.
+
+[^12]: **La.** Cfr. Aristot., III. de Anima, text. 29. et 36. (c. 7. et 11.); cfr. etiam supra pag. 174, nota 2. et pag. 714, nota 1.
+    **En.** Cf. Aristotle, III On the Soul, text. 29 and 36 (c. 7 and 11); cf. also above p. 174, note 2, and p. 714, note 1.
+
+[^13]: **La.** Complures codd., ut I K T X Z bb ee, *pro quo.* Mox pro *sicut scientia* codd. K X Y Z ee et alii nec non edd. 1, 2 *sicut conscientia,* cod. bb et ed. 3 sic *conscientia;* H *scilicet* pro *scilicet cognoscentis,* quod habent plures codd., ut 1 W et bb (a secunda manu), codd. C K L O P R S ee etc. *sicut cognoscentis,* cod. D sic *cognoscentis.* In cod. F sic legitur: *sicut conscientia accipitur, ut cum dicitur: haec est conscientia mea, pro habitu sicut cognoscentis;* in cod. T textus sic abbreviatus exhibetur: *scilicet pro habitu sicut cognoscentis.* Edd. *scientiae cognoscentis.* Paulo inferius pro *potentia consciente* Val. cum edd. 3, 4 *potentia conscientiae.*
+    **En.** Several codices, as I K T X Z bb ee, read *for which.* Soon, for *as knowledge* codices K X Y Z ee and others as well as edd. 1, 2 read *as conscience,* cod. bb and ed. 3 thus *conscience;* H reads *namely* for *namely of the one knowing,* which several codices have, as 1 W and bb (in a second hand), codices C K L O P R S ee etc. *as of the one knowing,* cod. D thus *of the one knowing.* In cod. F it reads thus: *as conscience is taken, as when it is said: this is my conscience, for a habit as of the one knowing;* in cod. T the text is given thus abbreviated: *namely for a habit as of the one knowing.* The editions read *of the one knowing the knowledge.* A little below, for *the conscious power* the Vatican edition with edd. 3, 4 reads *the power of conscience.*
+
+[^14]: **La.** Cfr. Rom. 2, 14. seq., ad quem locum Glossa ordinaria apud Strabum et Lyranum annotat: *Etsi* [gentilis] *non habeat scriptam legem, habet tamen naturalem, qua intelligit et sibi conscius est, quid sit bonum et quid sit malum. Vitium quippe contra naturam est.* Vide infra a. 2. q. 1. ad 3. — Aliquanto inferius post *Si ergo quaeratur* Val. et ed. 3, 4 adiungunt *conscientia.*
+    **En.** Cf. Rom. 2:14 ff., on which place the Ordinary Gloss in Strabus and Lyranus notes: *Even if the gentile have no written law, he yet has the natural one, by which he understands and is conscious to himself what is good and what is evil. For vice is against nature.* See below a. 2, q. 1, ad 3. — Somewhat below, after *If therefore it be asked,* the Vatican edition and edd. 3, 4 add *conscience.*
+
+[^15]: **La.** Vide supra pag. 588, nota 2. — De explicatione, quae dicto Philosophi adnectitur, cfr. supra d. 24. p. I. a. 2. q. 1. ad 2.
+    **En.** See above p. 588, note 2. — On the explanation which is attached to the saying of the Philosopher, cf. above d. 24, p. I, a. 2, q. 1, ad 2.
+
+[^16]: **La.** Quod in seq. quaest. explicatur. — Alex. Hal., S. p. II. q. 74. m. 2. ait: *Prout ergo* [conscientia] *accipitur secundum habitum, bene concedimus, quod est habitus naturalis, sed prout secundum actum, acquisitus. Unde bene concedimus, quod huiusmodi differentiae mundum et immundum, et sic de aliis differentiis, non sunt differentiae conscientiae, prout est habitus naturalis, sed prout dicit acceptionem iuxta habitum naturalem, et hoc prout se tenet ex parte rationis.* Paulo superius pro *ad moralia* cod. T *moralia.*
+    **En.** Which is explained in the following question. — Alex. of Hales, S. p. II, q. 74, m. 2, says: *Insofar therefore as* [conscience] *is taken according to a habit, we well grant that it is a natural habit, but insofar as according to an act, an acquired one. Whence we well grant that differences of this kind, clean and unclean, and so of the other differences, are not differences of conscience insofar as it is a natural habit, but insofar as it expresses a taking-up alongside a natural habit, and this insofar as it belongs to reason.* A little above, for *to moral matters* cod. T reads *moral matters.*
+
+[^17]: **La.** Cfr. I. de Sacram. p. VII. c. 34, ubi inter alia: *In carne igitur mortali ex sensualitate corrupta nascitur vitium concupiscentiae, ex sensu corrupto vitium ignorantiae: ibi, quia appetitus quaerendae necessitatis ultra mensuram se extendit, hic autem, quia instrumentum concipiendae veritatis ab integritatis vigore deficit.* Cfr. supra d. 30. a. 2. q. 2.
+    **En.** Cf. I On the Sacraments, p. VII, c. 34, where among other things: *In mortal flesh, therefore, from corrupted sensuality is born the vice of concupiscence, from corrupted sense the vice of ignorance: there, because the appetite of seeking what is necessary extends itself beyond measure, here, because the instrument of conceiving truth fails from the vigor of its integrity.* Cf. above d. 30, a. 2, q. 2.
+
+[^18]: **La.** Art. seq. — Supra pro *superinducit* cod. T *semper inducit.*
+    **En.** The following article. — Above, for *brings on* cod. T reads *always brings in.*
+
+[^19]: **La.** Epist. II. Cor. 1, 12. — Cod. T ante *Apostolus* interiicit *Augustinus et.*
+    **En.** 2 Cor. 1:12. — Cod. T before *the Apostle* inserts *Augustine and.*
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set verbatim from the IA djvu OCR, raw lines 62456–62654 (`ARTICULUS I.` at 62456, `QUAESTIO I.` at 62460, scholion `SOHOLIOK` at 62617, ending at `silas opinionum » etc.` line 62654 immediately before `QU.\ESTIO II.` at 62657). Cross-checked column-by-column against the 450 dpi PDF (printed pp. 898–900 = pdf pp. 920–922; offset +22). OCR for this chunk is unusually clean (PDF-confirmed throughout the body, Respondeo, and replies); no `[?]` flags.
+
+**Page-split map.** p.898 carries the ARTICULUS I opener (`De conscientia`), QUAESTIO I title, the 5 fundamenta pro intellectu, and the first 2 sed-contra arguments through `Caritas est de corde`; its footer has 8 numbered notes (markers [^1]–[^8]). p.899 carries the remaining sed-contra (3–5), the CONCLUSIO, and the Respondeo through `Ad illud ergo quod obiicitur in contrarium... dicendum, quod`; its footer has 7 notes ([^9]–[^15]). p.900 carries the 5 numbered replies and the start of the article-level SCHOLION (which continues onto p.901); its footer has 4 body notes ([^16]–[^19]). The p.900 body footnotes are printed alongside the scholion in the shared page-bottom; the scholion itself carries no numbered apparatus on these pages.
+
+**Scholion disposition.** This q1 holds the **article-level** SCHOLION (§§ I–III) covering this and all following questions of Art. I (`Pro hac et seqq. quaestionibus intelligendis`). Sibling chunks `d39-a1-q2` and `d39-a1-q3` therefore have `has_scholion: false` — vide scholion ad primam huius art. quaest.
+
+**Hand-offs.** Picked up: NONE (d39-divisio's p.897 footers were the COMMENTARIUS notes + NOTAE AD COMMENTARIUM; q1's footers start fresh at p.898 note 1). Forwarded to q2: NONE — QUAESTIO II opens cleanly at the top of a fresh footer sequence (p.901 onward, raw 62657); q1's scholion ends fully within p.900–901 shared with q2's apparatus, but the q1/q2 body boundary at line 62654/62657 is a clean header break, not a mid-page splice.
+
+**Apparatus count:** 19 entries (p.898 ×8, p.899 ×7, p.900 ×4). No scholion-internal footnotes.
