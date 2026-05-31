@@ -6,384 +6,206 @@ distinctio: 35
 articulus: 2
 quaestio: 2
 type: quaestio
+title_la: "Utrum modus, species et ordo corrumpantur per peccatum aequaliter"
+title_en: "Whether mode, species, and order are corrupted by sin equally"
+printed_pages: [830, 831, 832]
+pdf_pages: [852, 853, 854]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 830–832"
 line_start: 57820
-line_end: 58178
-word_count_latin: 4941
-transcription_status: "auto-chunked 2026-05-30"
+line_end: 57929
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR + 450dpi PDF column bands (raw 57820–57929), literal English, full apparatus from raw OCR (12 entries: p.830 footer 5 received from a2-q1 + p.831 footers 1–10 + p.832 footer 1), no own scholion (article-level scholion held in a2-q1 per Override §5) (2026-05-30)"
 format_version: 1
 ---
 
 # bon-sent-II-d35-a2-q2
+## *Articulus II, Quaestio II — Utrum modus, species et ordo corrumpantur per peccatum aequaliter*
+
+---
 
 ## Latin
+<!-- page 830 -->
 
-QUAESTIO II.
-                                   Utrum modus, species et ordo corrumpanf.ur per peccatum aequaliter.
+### QUAESTIO II.
+### *Utrum modus, species et ordo corrumpantur per peccatum aequaliter.*
 
-                Secundo quaeritur, utruiu haec tria per quod-                          1. Priino per Augustinum in libro de NaturaiunJsioeD:
-          libet peccatura corruiupantur aequaliter. Et quod sic,                  honi ^ « Ubi haec inagna sunt, inagnum est bonum; ;
-          videtur :                                                               ubi parva, parvum»: ergo secundum haec Iria at-
+Secundo quaeritur, utrum haec tria per quodlibet peccatum corrumpantur aequaliter. Et quod sic, videtur:
 
-               ' Vat. volunlati.                                                  salvat in esse, vel bene el beaie esse. — Aliquanto superius pro
-               ' Ita plures codd., ul l' H W cc etc, cum ed. I ; alii non         prout atlenduntur codd. K T V bb cc ee et alii cum edd. 1, 2,
-          pauci, inter quos C R L 0 S Z bb ee, cum edd. 2, 3 aliquid,             3 proul attenditur.
-          Vat. se pro tanquam.                                                         * Codd. C L R S W bb etc. mmierus.
-               ■* Abbas Vercellensis, in Extractione super Div. Nom. Dio-              ^ Cap. 3. — Paulo inferius pro maius edd., excepta I, cum
-          nysii, c. 4. § 19. ait: Naturaliter bonum producit ad esse, vel         pluribus codd., inter quos codd. K. T, magis.
-                                                    DIST. XXXV. ART. II. QUAEST. II.                                                    831
+*Fundamenta.*
 
-        tenditur intensio et diminutio in omni bono : ergo si               ergo speciei: igitur culpa non privat baec Lria ae-
-        idem bonum non potest esse maius et minus se ipso,                  qualiter, sed principalius privat speciem.
-        necesse est, quod rum ista tria privantnr, quod ae-                       5. Item, malum aliquo modo bene potest ordi-
-        qualiter priventur.                                                 nari, sicut dicit Augustinus in Eiichiridio '; sed nnllo
-              2. Item, ista tria sunt vestigium Trinitatis sum-             modo potest speciem habere, cum sit privatio: ergo
-        mae, ubi est perfenta aequalitas et consnbstantiali-                videtur, quod in malo magis flat privatio speciei
-        tas: ergo sicut baec Iria sunt consubstantialia, quod '             quam ordinis: non ergo fit privalio illorum trium
-        unum sine altero esse non potest, sic etinm sunt ae-                aequaliter.
-        qualia: ergo quantum diminuitur de uno, necesse                           6. Item, non fit privatio in aliquo respectivo
-        est, tantum diminui de reliquo.                                     nisi per privationem prius factain in aliquo abso-
-              3. Item, haec tria privari non est nisi bonnm                 luto; « in ad aliquid enim per se et proprie nec
-        privari, sicut prius- ostensum est;sed in eodeni et                 est motus nec mutatio'»: ergo si ordo dicit rela-
-        secundum idem non est magis et minus reperire:                      tionem ad alterum, non potest fleri corruptio in
-        ergo si per idem malum ista tria privantur. necesse                 ordine nisi per corruptionem faclam in specie; vi-
-        est privari aequaliter.                                             detur igitur, quod corrnptio facta per malum non
-              4. Item, quanto voluntas plus recipit a Deo,                  respiciat illa tria aequaliter.
-        tanto est Deo similior, et quanto Deo similior est,
-        tanto magis ad Deum tendit: ergo necesse est, quod                                         CONCLUSIO.
-        quantum habet de modo, tantum habeat de specie
-        et ordine; et si hoc, necesse est, illa tria bona per                Modus , species et ordo per quodlibet peccatum
-        malum privari aequaliter.                                                       aequaliter corrumpuntur.
-               Sed contra : 1. Videtur, quod malum princi-
-ovposi- paliter privet ordinem , quoniam malitia in opere                         Respondeo : Dicendum, qnod cnm ista tria ,
-        principaliler attenditur penes intentionis deordinntio-             videlicet modus, species et ordo, prout privantur per
-        nem^: ergo si penes hanc principaliter consistit ordo,              malnm culpae, sint conditiones eiusdem bonae vo-
-        videtur, quod malum plus habeat privare ordinem                     luntalis, non solum ab invicem inseparabiles", ve-
-        quam modnm vel speciem.                                             rum etiain aequales, aeqnaliter privantur per qnod- conciusio.
-               2. Item , modus, species et ordo correspondent               cumque malum culpae. — Quodlibet enim maluni cul-Baiio.
-        illis Iribus, videlicet unitati , veritati et bonitati^;            pae in tantum deordinat, in quantum facit Deo dis-
-        sed malum principaliter et plus aufert de bonitate,                 similem , et in quantum facit Deo dissimilem , in
-        quam anferat de unitate et veritate: ergo si haec                   tantum elongat a Deo, ita quod, qnemadmodnm gra-
-        tria correspondent illis tribus, videtur, quod non                  tia aequaliter reddit animam ordinatam et specio-
-        adimanlnr ista tria aequaliter.                                     sam et potentem in bonurn tantum vel maius"; et
-               3. Item, his tribus, in qnibus attenditur ratio              quemadmodum in gloria similiter est adaequatio do-
-        vestigii, videlicet modus, species et ordo. corre-                  tum: sic etiam in culpa aequaliter flt privatio hornm
-        spondent illa tria, in quibus attenditur ratio imagi-               trium. Et ideo, sicut dicitur « visio in gloria esse
-        nis , videlicet memoria, intelligentia et voluntas. Sed             tota merces"'», propter connexionem et aequalitem
-        peccatum , cum deformat imaginem . non deformat                     in dotibus gloriosis; sic etiam, ut dicit Angnstinus
-        omnes polentias aequaliter, immo principalius et ma-                in libro Octoginta trium Quaestioiium. qnod « totuin
-         gis deformat voluntatem ° : ergo pari ratione , non                nomen mali de speciei privalione repertnm est»,
-         corrumpit aequaliter modum, speciem et ordinem,                    non qiiia per malum solum species privetnr vel prin-
-         sed principalius aufert ordinem quam modum vel                     cipalius, sed quia in privatione speciei intelligitur
-         speciem.                                                           privatio aliorum. — Concedendae sunt igitur ratio-
-               4. Item, peccatnm. loquendo essentialiter et pro-            nes, quae ad primam partem inducuntur.
-         prie. deformitas est; sed omnis deformitas principa-                     \. Ad illud ergo
-                                                                                               . . qnod .  obiicitur, quod
-                                                                                                                         ,. malitia
-                                                                                                                              ,     soimio  op-
-                                                                                                                                    positorum.
-         liter dicit privationem formae sive pnlcritndinis,                 principaliter consistit penes intentionem; dicendum.
+1. Primo per Augustinum in libro de Natura boni[^1]: « Ubi haec magna sunt, magnum est bonum; ubi parva, parvum »: ergo secundum haec tria at-
 
+<!-- page 831 -->
 
-           1 Sive quia; Vat. ct edd. 3, i post tria addunt ita.             ipso non moto. iNon igitur per se , sod tantum per accidens,
-           * Quaest. praeced.                                               i. e. moto alio, acquiritur nova relatio.
-           3 Cfr. infra d. 40. a. I. q. I. seqq.                                  8 l\IuUi codd., ul CFKLRSXYZ          etc, separabiles; per-
-           ■• Vide I. Sent. d. 3. p. 1. dub. 3. et ibid. q. 2. in fine,     peram. Paulo ante Vat, post noti solim adiicit sunt, et mox
-      ubi etiam maior arg. seq. insinuatur.                                 post aequales interserit et, quibus factis addilamentis, sententia
-            5 Ut expliealur infra d. 41. a. 2. q. 2. — Circa initium        proposilionis aliquantulum mutatur.
-      arg. Vai. et edd. 3. 4 videlicel modo, speciei et orilini pro               " In codd. T et W secunda manus addidit malum reddit
-      videlicel modus, species et ordo.                                     impotentcm. In Vat., quae etiam plura adiunxit, legitur sic: m
-            5 Cap. II. n. 3. Cfr. 1. Sent. d. 46. q. -5.                    honum, sic tantum vel magis culpa deordinat ipsam et deiicit
-            ' Arislot., V. Phys. text. 10. (c. 2.). Ratio, quam Aristot.    in malum. Eadem lectio liabetur in edd. 3, 4. quae tantum sic
-      alTert, est, quia ad aliquid sive relatio in aliquo acqniralur,       omittunt.
-      ip.so quiescente; ut, si Socrates nunc sit dexter Platoni, et Plato        '" Verba .^ugustini vide supra pag. .543, nota 6. Seq. textus
-      moveatur, quiescente Socrate, tunc Socrales efficialur sinisler,      est loc. cit. q. 6.
-         832                                                 SENTENTIARUM LIB. II.
+tenditur intensio et diminutio in omni bono: ergo si idem bonum non potest esse maius et minus se ipso, necesse est, quod cum ista tria privantur, quod aequaliter priventur.
 
-          quod verum est; sed quod ipse obiicit, quod ordo                   deformitas opposita pulcritudini, sed etiam est cur- Noiandi!:,
-          altenditur penes intentioneui; dicendum, quod illud                ii«toi- ' opposita rectitudini. Ideo non sequitur, quod
-          inteliigitur penes quandara appropriationem. Nam                   magis privet speciem quam ordinem; non enim di-
-          circa ipsam inlentionem consistit modus, species et                cilur deformitas per solius pulcritudinis privationem, 1
-          ordo , ex quibus et bona est intentio , et bona est                sed etiam in hoc intelligitur privatio aliorum; ma-
-          actio, quae ex intentione procedit.                                gis taraen denominatur a privatione speciei et formae i,
-                2. Ad illud vero quod obiicitur, quod modo,                  propter hoc , quod species est ratio cognoscendi. |
-          speciei et ordini respondent unitas, veritas et bonitas;                   5. Ad illud quod obiicitur, quod malum est or- I
-          dicendum, quod verum est, prout in illis tribus                    dinabile; dicendura, quod duplex est ordo. Est enimoapiexo
-Noiandum. cousideratur generalis ratio vestigii; prout aulem                 ordo anle faclum esse, qui est ex intentione fa-
-          in ipsis attenditur corruplio mali culpae, quae con-               cientis. Et est ordo post factum esse, qui quidem
-          sistit circa voiuntatem, haec tria habent considerari              attenditur secundum iustitiam retribuentis. Primus
-          in l3ono, secundum quod Imnum est, sicut in prae-                  ordo est ille, qui privatur a'^ malo per malum; et
-          cedenti probleniate patuit. Et ideo aequaliter per raa-            hunc ordinem malum non potest habere, sicut nec                     '
-          lum habent privari, quoniam directe opponitur illis.               speciera. Secundus vero ordo non privatur per raa-
-                3. Ad illud quod obiicitur, quod malum non                   lum, imnio malum est ordinabile in poenis secundum
-          aequaliter deformat omnes potentias iraaginis; di-                 illura ordineni.
-          cendum, quod non est simile; quia illae potentiae                        6. Ad illud quod obiicitur, quod non fit priva-
-          sunt diversae et ad diversos actus ordinatae, ita quod             tio in respectivo nisi per aliquid absolutura; dicen-
-          ahqui illorum actuum respiciunt culpam et iustitiam                dum , quod tam species quam ordo, ut hic accipitur,
-          secundum plus et minus. Non sic autem est in pro-                  utiaunque est respectivura; ideo non magis privatur
-          posito; nam haec tria sola comparatione differunt, et              unura per alterura quam e converso. Nihilorainus
-          cum habeant idem fundamentum, necesse est, quod                    tamen haec tria tolluntur per mutationem factam
-          quantuni dirainnitur unura, dirainuatur et alterum.                circa aliquid absolutum; tunc enim privantur, cum
-                4. Ad illud quod obiicitur, quod malum cul-                  liberum arbitrium peccat inordinate movendo se
-          pae est deformitas; dicendum, quod non tantum est
+2. Item, ista tria sunt vestigium Trinitatis summae, ubi est perfecta aequalitas et consubstantialitas: ergo sicut haec tria sunt consubstantialia, quod[^2] unum sine altero esse non potest, sic etiam sunt aequalia: ergo quantum diminuitur de uno, necesse est, tantum diminui de reliquo.
 
-                                                                                      ^.
-                                                                    QUAESTIO ipsum
-                                                                               111.
-                               Utrum modus, species et ordo per malum possint totaliter corrumpi.
+3. Item, haec tria privari non est nisi bonum privari, sicut prius[^3] ostensum est; sed in eodem et secundum idem non est *magis* et *minus* reperire: ergo si per idem malum ista tria privantur, necesse est privari aequaliter.
 
-                  Tertio quaeritur, utrura per raalura contingat             culpa aliquod bonum, quod possit adimere. Sed hoc
-            haec tria corrurapi totaliter. Et quod non, videtur:             bonum consistit in modo, specie et ordine: ergo etc.
-                                                                                   4. Itera, de nemine desperandum est, dum est
-                   1. Per Augustinum in Enchiridio*: «Bonum
-Fund.imcnia.];ninui malum est, quamvis, quanturacuraque minua-               in via ' : ergo quanturacumque peccet, adhuc habi-
-            tur, aliquid remaneat»: ergo per culpara nunquara                litatem habet bene faciendi ; sed quaradiu habet ha-
-            aufertur totuni bonura, quod per raalum corrumpi-                bilitatem bene faciendi , adhuc habet aliquod bonuni,
-            tur; sed lale bonum attenditur in raodo, specie el               quod raalum potest coi-rumpere; et si hoc, habet
-            ordine: ergo etc.                                                modum, speciem et ordinem: ergo nunquam ista
-             2. Iteni, Augustinus in libro de Natura boni ",                 corrurapuntur totaliter per raalura culpae.
-        loquens de his tribus: «Ubi haec magna sunt, nia-                          0. Item, demus, quod in aliquo corrurapantur
-        gnum bonura est; ubi parva, parvura; ubi nulla                       totaliter; tunc quaeritur : aut ille desinit esse , aut
-        nullum » : ergo si per culpam totaliter fieret horura                non. Si sic : ergo per peccatum contingit corrum-
-        trium ademptio, fieret peccantis annihilatio; sed hoc                pere subslantiam iramortalera et incorruptibilem ,
-        est impossibile , quod aniuia peccando annihiletur:                  animam scilicet rationaleni ; quod est impossibile. Si
-        ergo impossibile est, quod ista tria totaliter cor-                  autem non desinit esse : aut ergo potest peccare ,
-        rumpantur.                                                           aut non potest. Si potest peccare : ergo aliquod bo-
-              3. Itera, malum, si raalum est, aliquid adimit ° ;             num potest perdere ; et si hoc , adhuc habet aliquid
-         sed impossibile est, quod ahquis tot mala faciat et                 de habilitate et modo et specie et ordine, quae cor-
-         tantum peccet, quin adhuc possit peccare: ergo                      rumpuntur per malum culpae. Si non potest, et sub-
-         nunquara tantum peccat, quin adhuc inveniat in eo                   stantia rationalis, quae non potest peccare, habens
+4. Item, quanto voluntas plus recipit a Deo, tanto est Deo similior, et quanto Deo similior est, tanto magis ad Deum tendit: ergo necesse est, quod quantum habet de modo, tantum habeat de specie et ordine; et si hoc, necesse est, illa tria bona per malum privari aequaliter.
 
+**Sed contra:**
 
-              ' Edd. 2, 3 deformitas, Vul. dcformilas vel curvitas.          sc  ipsum perdit [ ajtoXXuot ], et si integrum sit, intolerabile
-                                                                             evadit.
-              ^ In Vat. desideratur a.
-              ^ Vide scholion ad praecedentem qiiaosl.                            ^ Ut oslensum est supra a. I. q. I.
-              * Cap. 12. n. 4, ubi texliis originalis in riiie addit 1IC-         ' Aug-ust., I. Retract. c. 19. n. 7: De (|UOCuinc|ue pessimo
-         cesse est.                                                          in hac vita constituto non est ulique despcrandum, nec pro illo
-               5 Cap. 3. — Aristot. , IV. Etliic. c. 3. ait: Jlaluni etiam   imprudenter oratur, de quo non desperatur.
-                                                                                                                                                    833
-                                                          DIST. XXXV. ART. II. QUAEST.
+*Ad oppositum.*
 
-         liberam voluiitalem, melior est illa qtiae potest pec-                  vare habilitatera voluntatis ad bonura, nec modum,
-         care ', quia Deo similior est: ergo per multitudinera                   speciem et ordinem , quae secundura illam attendun-
-         peccalorum perveniret honio ad statum meliorem.                         tur. Et hoc raanifeste apparet, quia nunquarn volun-
-         Sed hoc est falsum et impossibile : ergo et illud, ex                   tas potest esse sine naturali habilitate et aptitudine
-         quo sequilur, videlicet quod modus, species et ordo                     ad bonura. Sicut ergo non potest voluntas peccando
-         lotaliter adimantur per peccatum.                                       desinere esse, sic non potest totam habilitatem illam
-               Sed coNTnA: 1. Omne illud, a qno fit ademptio                     perdere et modura et specieni et ordineni , quae se-
-idopposi-el ablatio, si non est innnitum. alifinando totaliler                   cundum illani attenduntiir, totaliter ainittere. Et hoc
-  'nra.                               ,             .     ■    ■
-         est ademptum ; sed omne bonum, qnod est m am-                           quidein dicit .\ugustinus ' expresse, et communiter
-         ma, sive sit habilitas sive potentia, finitum est: ergo                 consentiunt in hoc omnes doctores. — Sed qualiter Qnaesiio de
-         si per malum culpae tollitur et adimitur, necesse                       per peccatum 1habilUas
-                                                                                                    1 'i'. ■!!continue
-                                                                                                           illa   .• adimatur
-                                                                                                                          .■ et nun- 'nodo
-                                                                                                                                        nmionis.dirai-
-       est, quod aliquando totaliter adimatur ".                                 quam flniatur sive consumatnr, difflcile estassignare;
-             ± Itera, si tantuni malum adimit tantum de                          et super hoc diversi senserunt diversimode.
-       bono : ergo niaius malum maius adimit, et duplo                                 Quidam enim dicere voluerunt, quod illa ha-opiuioi.
-       malura duplo adimit; sed nullum est peccatum ita                          bilitas nunquam totaliter tollitur, pro eo quod, etsi
-       magnum , quin adhuc possit esse maius : ergo si                           sit flnita in se , est taraen ordinabilis ad infinitum
-       unum parvnm peccatum adimit aliquid de bono ,                             bonum et ad infinitos aclus; el ideo nunquara po-
-       possibile est, quod anima committat ita magnura                           test tolli. nec per peccati magnitudinem nec per pec-
-       peccatum, quod totaliter amittat^ bonum , quod per                        cati miiltitudinera. — Sed iste modiis dicendi non ^fon sntisfa-
-       peccatuni privatur.                                                       satisfacit. Nain habilitas, quantumcuraqne diininua-
-            3. item, quantacumque corporali quantitate data,                     tur per peccatum, adhiic est ad infinitum bonnm ,
-       quantumcumque modicum inde auferatur , utpote si                          adhuc etiam est ad infinitos actus: ergo ex illa parte
-       a mari auferatur gutta aquae, contingit intelligere,                      ila magna est, sicut prius erat: ergo in nulio- est
-       quod aliquando totum auferatur : ergo pari ratione                        diminuta: ergo ordinatio ad boni infinitatera, vel ad
-       videtur in quantitate virtutis, quod quantumcumque                        actuura inultitudinera nihil facit ad illius habilitatis
-       parum aufertur per malum, si homo peccet conti-                           diminutionein ; immo potius ex hoc possel argui ,
-       nue, aliquando totura erit consuratum.                                    quod nullo modo ininuitnr, cum infinitum non sit
-            4. Item . sicut se habet gratia ad pronitatem ,                      minus infinito ex ea parte, qua infinitum °.
-       sic se habet culpa ad bnnam habilitatera ; sed gratia                           Et propterea alii dixerunt aliter, ipiod illa ba- "pini" -2.
-       adeo potest crescere, quod omnino aufert^ pronita-                        bilitas, etsi seraper diniinuatur, nunquam totaliter
-       tera , sicut patet in Christo et beata Virgine, in qui-                   tollitur, quia divinbilis est in infinilum. Siciit en'm
-       bus fuit tanta gratia, quod nuUa fuit in eis ad ma-                       in corporalibus quantitas niolis divisibilis est in in-
-       lura pronitas: ergo pari ratione videtur, quod adeo                       flnitum et nnnquara potesl adeo per divisionera di-
-       potest crescere culpa, quod totaliter perdatur ad bo-                     minui, quin adhuc possit minor effici ; sic in spi-
-       num habilitas.                                                            ritnalibns liabilitas potentiae , quae est qnantitas
-             0. Item , sicut status gloriae confirraat in bono,                  virlutis, nnnquara potest per peccatura adeo parva
-       ita status damnationis confirmat in malo : ergo sicut                     efflci, qiiin adbuc possit niinor fieri ; et hoc ' nihil
-       per gloriam redditur homo impossibilis ad nialura. ita                    prohibet, quod aliqnid sit flnitum aclii et infinitnm
-       per daranationera aeternam redditur impossibilis ad                       divisione. et ita, qnod sit seinper diminnibile et nun-
-       bonum; sed ubicumque est ad bonum impossibilitas,                         quara totaliter consuintibile. — Sed nec iste modus xon snusia-
-       ibi nulla est ad bonum habilitas : si ergo habilitas                      dicendi salisfacit. Nam quamvis continuuin sit divi-
-       ad bonura est illud quod adimitur per peccatum , et                       sibile in infinitura, tamen nunquam est continuum
-       cuius modus, species et ordo (ollitur per culpaui ;                       aliquod ita niagnum , quodsi diminnatur dirainu-
-       vfdetur , quod haec aliqaando totahter sint adempta.                      tione quantuincnraqne parva, et postinodura conse-
-                                                                                 qiienter fiat ablatio partis ita parvae siciit prius, et
-                                 CONCLUSIO.
-                                                                                 sic consequenter pror',edendo, quin aliqnando totnm
-       Habilitas voluntatis ad bonum, et in ea moclus ,                          consumatiir — sicut patet, si a raonte auferi-etur ita
-            species et ordo per culpam semper minui, sed                         raodicum, sicut est nnus atomus — ergo si maliim
-            7iunquam lolaliter tolli possunt.                                    aliquid tollit de illa habilitate, cum non sint ibi in-
-                                                                                 flnita tanla-'', aliquando erit totaliter consurata. Si tu
-               Respondeo: Dicendum, quod absque dubio per                        dicas, qiiod boc verum esset, si in seqnenti culpa
-nciasio I. malum culpae non contingit omnino reniovere et pri-                   tantura adimeretur, sicut in priraa ; nunc autem non
+1. Videtur, quod malum principaliter privet *ordinem*, quoniam malitia in opere principaliter attenditur penes intentionis deordinationem[^4]: ergo si penes hanc principaliter consistit ordo, videtur, quod malum plus habeat privare ordinem quam modum vel speciem.
 
-            ' Vide August., III. du Lib. Aib. c. 5. x\. 14, et Enchirid.               5 Vide hic fundam. I. H 2. — Mox pro consentiunl in
-       c. lOS. n. 28. Sententia haec liabetur etiam supi-a lit. Magistri,        lioc omnes codd. X Z sentimit omnes, ed. I sentiwnt lioc
-       d. XXV. -c. i.                                                            otnnes, ed. 2 et plures codd., ut F K T, sentiunt in lioc omnes.
-           2 Cfr. Aristot^, I. Phys. tpxt. .37. seq. (c. i.), ubi intei' alia:         ^ li;dd., excepta I , et nonnulli codfl. adiiciunt est. Mox posl
-       Omne autem coi'pus flnitum consumilur a corpore flnito.                   nunquam Vat. cum edd. 3, 4 addit tameu. — Do divisibilitato
-           3 Vat. adimat, ed. 3 adimit.                                          quantitalis clr. supra pag. 732, nota 2.         ' Vat. adiuiigit quia.
-           * Cod. bb auferat, Vat. potest auferre.                                     8 Cod. T. .sit ibi infinitas tanta.                105
-                S. Bonav. — Tom. II.
-          834                                                     SENTENTIARUM LIB. [[.
-                                                                                                                                                   :
-             est sic, quia semper niinus et minus adimitur, et                     est curvilas , et intensio in malo est per recessum
-                                                                                   a bono; habilitas illa nunquam adeo diminuitur, quin
-             ita nunquam fmitur — si quis enim in diminuendo
-                                                                                   adhuc possit magis diminui, quia nunquam adeo
-             acciperet millesimam partem diminuibiiis, et post-
-             modum millesimam partem residui, et sic proce-                        elongatur, quin magis possit elongari, et nunquam
-                                                                                   adeo curvatur , quin possit magis curvari ; et ideo
-             dendo nunquam totaliter tolleret ' — si , inquaui ,
-             hoc modo dixeris, non satisfacis, pro eo quod ma-                     semper potest per malum diminui et nunquam tota-
-             ior culpa plus tollit de bono; et minorem culpam                      liter tolli. — Hic autem modus dicendi inter ceteros Masis aj
-             praecedentem polest subsequi maior culpa , et sic                     praedictos raagis videtur esse rationabilis , pro eo
-             consequenter procedendo : ergo semper potest fleri                    quod fundatur super modum adimendi ipsius raali. probatQr.
-             maior et maior ademptio , et ita necessario aliquando                 Corrumpit enim, sicut dictum esl, per elongationem
-             poterit fieri ilUus totius boni consumtio.                            a bono , sicut Augustinus dicit , et Magister in flne
-                    Et ideo dixerunt aliqui aliler, videlicet quia,                distinctionis recitat in littera ^
-  opmio 3. quod illa habilitas semper minuitur et nunquam flni-                          Ad huius igitur modi intelligentiam ampliorem conarmat
-             tur, hoc venit ex hnc, quod est durabilis et con-                     habendam notandum est, quod culpa sic corrumpit
-             tinuabilis in infinitim, quamvis sit actu finita. Unde                et diminuit habilitatem illam , sicut ei opponitur.
-   Exempia. sicut aqua . quae est in fonte scaturiente, actu flnita                Sed non opponitur illi habilitati secundum id quod sotandnr
-             est ; nunquam tamen potest tantum exhauriri, quin                     est, ut praedictum estsupra*, sive prout fundatur
-             semper remaneat, propter hoc quod est ibi virtus                      in natura, sed secundum id, ad quod, esl, id est,
-             continue influendi : sic et in proposito dicunt se ha-                prout ordinatur ad gratiara; et ideo nunquam cor-
-             bere, quod ipsa habilitas ad bonum ortum habet a                      rumpit eam nec minuit ita, quod aliquam partem
-             libertate voluntatis; et quantumcumque voluntas se                    sui auferat secundum id. quod est, sed quia deor-
-             actu dehabilitet, quia tamen semper remanet libera,                   dinat ab eo ad quod est; ac per hoc sic minuit,
-             semper potest se ad bonunl habilitare. Et ideo, sicut                 quod relinquit ; et ideo sic corrumpit, quod nunquam !
-             si aliquis sublraheret radios soli illuminanti, sol posset            totaliter tollit. Unde, sicut dicit Magister * , quod con-
-                                                                                   cupiscenlia es usu caritatis continue minuitur et nun-
-             continue radios suos resfaurare, quamvis habeant "'
-             actualiter flnilatem ; sic et in proposito dicunt se                  quam finitur, quia caritas non opponitur ipsi con-
-             habere. Et ideo, cum peccalum non possit ipsam vo-                    cupiscentiae secundum radicem suam et secundum
-             luntatem. quae est radix et principium illius habi-                    id in quo radicatur, sed secundum id ad quodin-
-             litatis perimere , et voluntas semper possit illam ha-                 clinat; sic intelligenduni est esse in proposito. — Et Exempiu
-             bilitatem continuare ; malum culpae nunquam polesl                     illud melius manifestatnr, si suraatur exemplum in
-             eam totaliter consumere, quamvis aliquo modo possit                    terminis. Habilitas enira illa, quam dicimus diminui,
-Non saiisfa- dimiuuere. — Sed nec iste modus dicendi satisfacit.                    non est aliud quam idoneitas animae ad suscipien-
-     °"' Nam si ideo habilitas non flniretur, propter hoc                           dum gratiam et ad cooperandum gratiae iam su-
-             quod continue restauratur ; sic duo sequerentur in-                    sceptae. In hoc igitur dicitur cnlpa illam habilitatera
-             convenientia , quorum unum esset, quod nec habi-                       rainuere, quod reddit aniraam minus idoneam ad
-             litas minueretur nisi ad terapus, sicut nec aqua                      utrumque. Duni enim homo peccat, Deum offendit, f^^v^e-a
-             fontis; aliud esset, quod homo posset resurgere a                     et ex hoc efiicitur indignus et ineptus ad suscipien-
-             peccato per se ipsum , si illam habilitatem posset vo-                dum gratiam Dei. In hoc etiam, quod peccat, pronus
-             luntas sine gratia restaurare et restaurando conti-                   ad maiuni redditur , et in hoc efQcitur ineptus ad
-             nuare.                                                                opera virtutum ''. — Sed planum est illud, quod nun-
-                    Et propterea est quartus raodus dicendi, vide-                 quam est aiiquis adeo indignus gralia Dei , quin
-   opiuio 4. licet quod habilitas seraper potest minui et nunquam                  adhuc possit esse indignior, quia nunquam lantum '
-             totaliter consumi, et hoc, quia esl elongabilis a re-                 ojfendit, quin adhuc possit oflendere; nunquam est
-             ctitudine in infinilum. Sicut enim linea curva po-                    adeo indignus , quin, quaradiu est in slatu viae, sit
- Exempiom. test infiuities elongari a rectitudine, id est, nunquam                 susceptibilis gratiae ; et ita nunquam ex illa parte
-             tantum elongari, quin adhuc possit magis ; sic cum                    efficitur inhabiiis in summo ad susceptionera gratiae.
-              malum corrumpat habilitatera elongando ipsam a re-                   — Similiter ex parte pronitatis nullus est adeo
-              ctitudine, pro eo quod ipsum malum sive malitia                      pronus, quin possit adluic raagis pronus efflci, pro
+2. Item, modus, species et ordo correspondent illis tribus, videlicet unitati, veritati et bonitati[^5]; sed malum principaliter et plus aufert de bonitate, quam auferat de unitate et veritate: ergo si haec tria correspondent illis tribus, videtur, quod non adimantur ista tria aequaliter.
 
+3. Item, his tribus, in quibus attenditur ratio vestigii, videlicet modus, species et ordo, correspondent illa tria, in quibus attenditur ratio imaginis, videlicet memoria, intelligentia et voluntas. Sed peccatum, cum deformat imaginem, non deformat omnes potentias aequaliter, immo principalius et magis deformat voluntatem[^6]: ergo pari ratione, non corrumpit aequaliter modum, speciem et ordinem, sed principalius aufert *ordinem* quam modum vel speciem.
 
-                 ' Aristol., III. Pliys. lext. 59. (c. 6.): In magnitudine eriim       5 Supra d. XXX. c. 9. et d. XXXII. c. I. — Postea pro
-          finitii, si accipiens quis determinatam, assumat eadem falione,          non opponitur codd. C K S falso omnino opponitur, cod. 0
-          non eandem aliquam totius magnitudinem ratione accipiens , non           omnino non opponitur, Vat. cum edd. 3, 4 nunquam op-
-          pertransibil nnilum.
-                 ' Edd., excepta 1, habeat.                                              s Hugo a S. Vict., Sum. Sent. tr. 3. c. 14: Quanto quis
-                                                                                   ponittir.
-                 ^ llic c. S, ubi etiam verba Augustini exhibentur. — Paulo        magis diligit iniusliliam, tanto magis privatur iuslitia, non amit-
-          superius cod. M probabilis, cod. H nobis probaUlior pro ra-              tendo iustiliam, quam non habet, sed habiliiatcm recuperandi
-          tionabilis.
-                                                                                   eam, quae utique bonum est.
-               * Ari. 1. q. I. — Mo.x pro ordinatiir ad gratiam non pauci                ' Cod. cc et ed. I subiiciunt Deum. Mox Vat. verbo offen-
-          codd., utCFKLORS(Ta prima manu) W bb etc, cum                            dere praemittit niagis.
-          edd. 2, 3, 4 orclinatur a gratia.
-                                                      DIST. XXXV. ART. II. QUAEST. III.                                                    83b
+4. Item, peccatum, loquendo essentialiter et proprie, deformitas est; sed omnis deformitas principaliter dicit privationem *formae* sive *pulcritudinis*, ergo speciei: igitur culpa non privat haec tria aequaliter, sed principalius privat *speciem*.
 
-             eo quod volnntas semper esl libera ; et ideo niin-              secandnm id quod est ; quaedam vero, quae oppo-
-             quam pronitas in voluntate potest fieri necessitas;             nitur ipsi soluin secunduin id ad quod est. Et prima
-             et ita potest honio semper fleri magis ac magis                 est qnaedam gratia gratis data, et totaliter potest
-             pronus et magis ineptus ad cooperandum gratiae.                 tollere concnpiscentiam , dnm sanat et reintegrat na-
-             Et per hoc ex neutra parte totaliter dehabilitatur.             tnram vitiatam. Aha vero est gratia gratuin faciens ;
-onciiisio 3 — Et sic patet, qnod habilitas illa per culpam sem-              et de hac dicit Augnstinus \ quod quaravis dirainnat
-             per potest minni et nnnquam totaliter tolli. Et ratio           concnpiscentiam , nunquam tainen flnit eam ; et huic
-             huins est, qnia non minuitur alicuins partis abla-              gratiae assirailatnr culpa respectu habilitatis, non al-
-             tione, sed elongatione, non secnndura id quod est,              teri. Nara sicut dictum est, non opponitur illi ha-
-                                                                             bilitati secundum se sive secundnm id in quo est,
-             sed secnndum id ad quod est. Hoc enim modo ' illi
-             habilitati opponitnr, et ideo per hunc niodnm ab                sed secnnduin id ad quod est.
-             ea diminnitnr. — Concedendae snnt igitur rationes,                    0. Ad illud quod obiicitur, qnod gloria reddit
-             quae hoc ostendunt. Ad rationes ad opposituui satis             impossibilem ad raalum;dicendum, quod etiam poena
-             plana est responsio.                                            reddit impossihilem adbonum; sed tamen aliter et
-                    1. 2. 3. Nam qnod obiicit prinio et secundo et           aliter , quia gloria reddit irapossibilem ad inalnin in
-ioiniio  op-
-lositorum. ^ tertio   per hoc solvitur, quia
-                                         ^    illae tres rationes ex         hoc , qnod in ea ° aufertur radix mali , scilicet ipsa
-             malo intellectu diminulionis procednnt. Arguunt                 concupiscentia, et datur plenitudo boni. Daranatio
-             enim , ac si habilitas niinneretnr secundum id quod             veroaeterna reddit impossibilem ad bonum non quia
-          est, et eius pars aliquota ' lolleretnr ; hoc autem                ibi sit plenitudo oinnis inali, nec etiam, qnia aufe-
-          non est sic, sed per elongationem , ut dictum est.                 ratur naturalis aptitudo ad bonura , sed quia aufer-
-          Et ideo nunqnam potest tol peccatis dehabilitari, quin             tur merendi spatinm, et Dens amplins non offerl
-          adhuc possit magis pluribns, nec etiain tanto pec-                 gratiara iuvantera ad bonnm ^ Et ideo illa impossibi- Noiaodnm.
-(oiandom. cato , quiu adhuc maiori. Et ideo dicit Dionysius ' ,              litas non dicitur per priuationem habilitatis omnimo-
-          quod « malum est infinitnm »; non quia aliquod sit                 dam, sed potins propter bene faciendi impedimenta.
-          malnm summum , quo nihil possit esse peius ; sed                   Unde si aliquis damnatns ad statura viae reducere-
-          quia non est aliquod ita malum , quin adhuc possit                 tnr, nnlla sibi habilitate collata, de novo habilita-
-          esse peins. Et ideo per qnantumcnmque malura nnn-                  tem haberet ad susceptionem gratiae. Et propterea,
-          quam adimitnr habilitas secundura totura ; quamvis                 quamvis ordinatio habilitatis irapediatur, tainen
-          enira sit finita, inodus tainen adimendi ipsam pro-                habililas nnnquam totaliter tollitur. — Esto autem , Ainer.
-          tendit se usqne in infinituin, non infinitate actuali,             quod concederetur , qnod tolleretnr in inferno, adhuc
-          sed poientiali, qua scilicet diciinus, qnod cnrvnm                 tamen non seqneretur, qnod totaliter tolleretur per
-          a recto in infinituin potest recedere.                             peccatum. Nnlla eniin culpa ponit hominem extra
-                4. Ad illnd vero qnod obiicitur, quod gratia to-             statuni viae ; et ideo nec aufert horaini habilitatem
-          taliter tollil concnpiscentiam ; dicenduni , quod quae-            ad susceptionera gratiae.
-[oiandam. dara est gratia , quae opponitur ipsi concupiscentiae
+5. Item, malum aliquo modo bene potest ordinari, sicut dicit Augustinus in Enchiridio[^7]; sed nullo modo potest *speciem* habere, cum sit privatio: ergo videtur, quod in malo magis fiat privatio *speciei* quam ordinis: non ergo fit privatio illorum trium aequaliter.
 
-                                                                  SCHOLION.
-             1. Alii commentatores de eadem re quaerunt sub titulo,          primo in hoc, quod ista diminutio debeat intelligi non ex parte
-       utrum malum possit corrumpere tolum bonum luimanae nalurae,           radicis sive secundum id quod est, sed ex parte termini sive
-       quod intelligunt de aptitudine sive inclinatione naturali ad bonum,   secundum id ad quod esl vel sccundum ordinem in finem. Se-
-       non de ipsa natura sive voluntate; unde Richard. a Med. bene          cundo conveniunt etiam in hoc, quod eadem non lit per subtra-
-       in ipso litnlo praecise hoc exprimit, quaerendo, ulrum aptitudo       ctionem. — Sed quomodo igitur fit ista diminutio? S. Bonav.
-       naturalis in anima per peccalum totaliter possit tolli. Concordi-     vult eam fieri « per elongalionem a bono j> vel obliquationem et
-       ter omnes antiqui respondent, istam aplitudinem semper posse          incurvationem rectitudinis in ordine ad actum, quod expiicatur
-       diminui, non tamen penitus auferri. — Sed dc modo, quo fiat           exemplo lineae, quae potest in infinitum curvari. iisdem fere
-       haec diminutio, multae exortae sunt opiniones. Praeter quatuor        verbis utitur S. Thom. in Comment., II. Sent. d. 24. a. S. et
-       hic relatas, Petr. a Tar. (hic q. 4. a. 2.) recenset tres alias,      d. 2S. a. 5. Sed in Sum. (loc. cit.) dicil, hanc diminutionem per
-       quarum illam ceteris praefert, quae tenet, praefatam aptitudi-        peccatum fleri , « in quantum ponitur impedimentum perlingendi
-       nem non minui secundum essentiam, quae finita est, sed secun-         ad terminum ». Hanc ullimam sententiam veriorem cssc, cum aliis
-       dum efficientiam , quae quodam modo infinita est , quatenus           multis po.stcrioribus dicit Guliel. Marra (in Comment. hic) et
-       ex ipsa sine fine generari possunt actus et dispo.sitiones. —         eam exponit dc impedimentis extrinsecus advenientibus, ut
-       S. Tliom. in Sum. (1. II. q. SS. a. 2.) convcnit cum S. Bonav.        sunt disposiliones maiaeac maligni habitus. Paulo aliter et magis
+6. Item, non fit privatio in aliquo respectivo nisi per privationem prius factam in aliquo absoluto; « in *ad aliquid* enim per se et proprie nec est motus nec mutatio[^8] »: ergo si *ordo* dicit relationem ad alterum, non potest fieri corruptio in *ordine* nisi per corruptionem factam in *specie*; videtur igitur, quod corruptio facta per malum non respiciat illa tria aequaliter.
 
+### Conclusio.
 
+> Modus, species et ordo per quodlibet peccatum aequaliter corrumpuntur.
 
-            ' Vat. addit Clilpa.                                             a Magistro in littera allata sunt supra d. XXX. c. 9. et d.
-            ° Id est, quae aiiquoties replicata mensurat totum.              XXXII.
-                                                                             49. seq. c. I.). Cfr. etiam VI. Conlra hilian. Pelagian. c. 16. n.
-            3 De Div. Nom. c. 4. § 32. Cfr. supra pag. 63S, nota 3.
-        — Aliquanto inferius pro quantumcumque codd. F K et ed. 1                 ^ Edd. praeter \ cum non paucis codd. in eo , cod. cc
-        quodcumque.                                                          et ed. I : et lioc, qiiia in ea.
-            ' Serm. 151. (alias 4.3. de Tempore) c. S. n. 3. et I.                ^ Vide supra d. 7. p. 1. a. I. q. I.
-        de Nuptiis et concupisc. c. 2-5. n. 28. (quae duo lestimonia
-836                                                   SENTENTI.\RUM LIB. II.
+**Respondeo:** Dicendum, quod cum ista tria, videlicet modus, species et ordo, prout privantur per malum culpae, sint conditiones eiusdem bonae voluntatis, non solum ab invicem inseparabiles[^9], verum etiam aequales, aequaliter privantur per quodcumque malum culpae. *(Conclusio.)* — Quodlibet enim malum culpae in tantum deordinat, in quantum facit Deo dissimilem, et in quantum facit Deo dissimilem, in tantum elongat a Deo, *(Ratio.)* ita quod, quemadmodum gratia aequaliter reddit animam ordinatam et speciosam et potentem in bonum tantum vel maius[^10]; et quemadmodum in gloria similiter est adaequatio dotum: sic etiam in culpa aequaliter fit privatio horum trium. Et ideo, sicut dicitur « visio in gloria esse tota merces[^11] », propter connexionem et aequalitatem in dotibus gloriosis; sic etiam, ut dicit Augustinus in libro Octoginta trium Quaestionum, quod « totum nomen mali de speciei privatione repertum est », non quia per malum solum species privetur vel principalius, sed quia in privatione speciei intelligitur privatio aliorum. — Concedendae sunt igitur rationes, quae ad primam partem inducuntur.
 
-ad menlLMii S. Bon;ivenl,urae Richard. a Med., hic a. 2. q. 2. Sed     Ueport. hic q. unica n. 3. seqq. — S. Thom., S. c. gent. III.
-cfr. eliam quod dicit S. Bonav., hic ad 3. et supia a. 1. q. 1.        c. 12; de Malo, q. 2, a. 12. — B. Albert., hic a. S; S. p. 1. ti-.
-scliol.                                                                6. q. 27. m. 3. — .Egid. R., hic q. 2. a. 3. — Durand., II.
-                                                                       Senl. d. 24. q. 4.
-        II. Praeler locos in praeced. scholio et hic citatos: Scot.,
+*Solutio oppositorum.*
+
+1. Ad illud ergo quod obiicitur, quod malitia principaliter consistit penes intentionem; dicendum,
+
+<!-- page 832 -->
+
+quod verum est; sed quod ipse obiicit, quod ordo attenditur penes intentionem; dicendum, quod illud intelligitur penes quandam *appropriationem*. Nam circa *ipsam intentionem* consistit modus, species et ordo, ex quibus et bona est intentio, et bona est actio, quae ex intentione procedit.
+
+2. Ad illud vero quod obiicitur, quod modo, speciei et ordini respondent unitas, veritas et bonitas; dicendum, quod verum est, prout in illis tribus consideratur *generalis ratio vestigii*; *(Notandum.)* prout autem in ipsis attenditur *corruptio mali culpae*, quae consistit circa voluntatem, haec tria habent considerari in bono, secundum quod bonum est, sicut in praecedenti problemate patuit. Et ideo aequaliter per malum habent privari, quoniam directe opponitur illis.
+
+3. Ad illud quod obiicitur, quod malum non aequaliter deformat omnes potentias imaginis; dicendum, quod non est simile; quia illae potentiae sunt diversae et ad diversos actus ordinatae, ita quod aliqui illorum actuum respiciunt culpam et iustitiam secundum plus et minus. Non sic autem est in proposito; nam haec tria sola comparatione differunt, et cum habeant idem fundamentum, necesse est, quod quantum diminuitur unum, diminuatur et alterum.
+
+4. Ad illud quod obiicitur, quod malum culpae est deformitas; dicendum, quod non tantum est *deformitas* opposita pulcritudini, sed etiam est *curvitas*[^12] opposita rectitudini. Ideo non sequitur, quod magis privet speciem quam ordinem; non enim dicitur *deformitas* per solius pulcritudinis privationem, sed etiam in hoc intelligitur privatio aliorum; magis tamen denominatur a privatione speciei et formae propter hoc, quod species est ratio cognoscendi.
+
+5. Ad illud quod obiicitur, quod malum est ordinabile; dicendum, quod duplex est ordo. *(Duplex ordo.)* Est enim ordo *ante factum esse*, qui est ex intentione facientis. Et est ordo *post factum esse*, qui quidem attenditur secundum iustitiam retribuentis. Primus ordo est ille, qui privatur a malo per malum; et hunc ordinem malum non potest habere, sicut nec speciem. Secundus vero ordo non privatur per malum, immo malum est ordinabile in poenis secundum illum ordinem.
+
+6. Ad illud quod obiicitur, quod non fit privatio in respectivo nisi per aliquid absolutum; dicendum, quod tam *species* quam *ordo*, ut hic accipitur, utrumque est respectivum; ideo non magis privatur unum per alterum quam e converso. Nihilominus tamen haec tria tolluntur per mutationem factam circa aliquid absolutum; tunc enim privantur, cum liberum arbitrium peccat inordinate movendo se ipsum.
+
+---
 
 ## English
 
-[Translation pending]
+### QUESTION II.
+### *Whether mode, species, and order are corrupted by sin equally.*
+
+Secondly it is asked, whether these three are corrupted equally by every sin. And that they are, it seems:
+
+*Fundamenta.*
+
+1. First, by Augustine in the book *On the Nature of the Good*[^1]: « Where these are great, the good is great; where small, [it is] small »: therefore according to these three is reckoned the intensity and diminution in every good: therefore if the same good cannot be greater and lesser than itself, it is necessary that, when these three are deprived, they be deprived equally.
+
+2. Likewise, these three are a vestige of the supreme Trinity, where there is perfect equality and consubstantiality: therefore just as these three are consubstantial, so that[^2] one cannot exist without the other, so also they are equal: therefore as much as is diminished from one, it is necessary that as much be diminished from the rest.
+
+3. Likewise, for these three to be deprived is nothing other than for the good to be deprived, as was shown before[^3]; but in the same [thing] and according to the same there is no *more* and *less* to be found: therefore if by the same evil these three are deprived, it is necessary that they be deprived equally.
+
+4. Likewise, the more the will receives from God, the more it is like God, and the more it is like God, the more it tends toward God: therefore it is necessary that, as much as it has of mode, it have as much of species and order; and if this, it is necessary that those three goods be deprived equally by evil.
+
+**On the contrary:**
+
+*To the opposite.*
+
+1. It seems that evil principally deprives [it] of *order*, since the malice in a work is principally reckoned according to the disorder of the intention[^4]: therefore if order consists principally in this, it seems that evil has [the power] to deprive [it] of order more than of mode or species.
+
+2. Likewise, mode, species, and order correspond to those three, namely to unity, truth, and goodness[^5]; but evil principally and more takes away from goodness than it takes away from unity and truth: therefore if these three correspond to those three, it seems that these three are not taken away equally.
+
+3. Likewise, to those three in which the character of the vestige is reckoned, namely mode, species, and order, there correspond those three in which the character of the image is reckoned, namely memory, understanding, and will. But sin, when it deforms the image, does not deform all the powers equally, but rather principally and more deforms the will[^6]: therefore by parity of reasoning, it does not corrupt mode, species, and order equally, but principally takes away *order* more than mode or species.
+
+4. Likewise, sin, speaking essentially and properly, is a deformity; but every deformity principally signifies a privation of *form* or of *beauty*, therefore of species: therefore guilt does not deprive [it of] these three equally, but principally deprives [it] of *species*.
+
+5. Likewise, evil can in some manner be well ordered, as Augustine says in the *Enchiridion*[^7]; but it can in no way have *species*, since it is a privation: therefore it seems that in evil there is rather made a privation of *species* than of order: therefore the privation of those three is not made equally.
+
+6. Likewise, no privation is made in something relative except through a privation previously made in something absolute; « for in *the relative* there is properly and per se neither motion nor change[^8] »: therefore if *order* signifies a relation to another, corruption cannot be made in *order* except through a corruption made in *species*; it seems therefore that the corruption made by evil does not regard those three equally.
+
+### Conclusion.
+
+> Mode, species, and order are corrupted equally by every sin.
+
+**I respond:** It must be said that since these three, namely mode, species, and order, insofar as they are deprived through the evil of guilt, are conditions of the same good will, not only inseparable from one another[^9], but also equal, they are deprived equally by every evil of guilt. *(Conclusion.)* — For every evil of guilt disorders insofar as it makes [one] unlike God, and insofar as it makes [one] unlike God, to that extent it removes [one] far from God, *(Reason.)* so that, just as grace equally renders the soul ordered and beautiful and powerful toward a good [that is] as great or greater[^10]; and just as in glory there is likewise an equalization of the endowments: so also in guilt the privation of these three is made equally. And therefore, just as it is said that « the vision in glory is the whole reward[^11] », on account of the connection and equality in the glorious endowments; so also, as Augustine says in the book *Of the Eighty-three Questions*, that « the whole name of evil is found from the privation of species », not because by evil species alone is deprived, or principally, but because in the privation of species is understood the privation of the others. — The reasons therefore which are adduced for the first part are to be granted.
+
+*Solution of the opposing [arguments].*
+
+1. To that therefore which is objected, that malice consists principally in the intention; it must be said
+
+<!-- page 832 -->
+
+that it is true; but as for what he himself objects, that order is reckoned according to the intention; it must be said that this is understood according to a certain *appropriation*. For mode, species, and order consist about the *intention itself*, from which both the intention is good and the action is good which proceeds from the intention.
+
+2. But to that which is objected, that to mode, species, and order there correspond unity, truth, and goodness; it must be said that it is true, insofar as in those three the *general character of the vestige* is considered; *(To be noted.)* but insofar as the *corruption of the evil of guilt* is reckoned in them, which consists about the will, these three are to be considered in the good, according as it is good, as appeared in the preceding problem. And therefore they are deprived equally by evil, since [evil] is opposed directly to them.
+
+3. To that which is objected, that evil does not deform all the powers of the image equally; it must be said that it is not similar; because those powers are diverse and ordered to diverse acts, in such a way that some of those acts regard guilt and justice according to more and less. But it is not so in the case at hand; for these three differ only by comparison, and since they have the same foundation, it is necessary that, as much as one is diminished, the other also be diminished.
+
+4. To that which is objected, that the evil of guilt is a deformity; it must be said that it is not only a *deformity* opposed to beauty, but is also a *crookedness*[^12] opposed to rectitude. Therefore it does not follow that it deprives [it] of species more than of order; for it is not called a *deformity* through the privation of beauty alone, but in this is also understood the privation of the others; nevertheless it is more denominated from the privation of species and form on account of this, that species is the character of knowing.
+
+5. To that which is objected, that evil is capable of being ordered; it must be said that order is twofold. *(Twofold order.)* For there is an order *prior to the thing's being made*, which is from the intention of the maker. And there is an order *after the thing's being made*, which indeed is reckoned according to the justice of the one requiting. The first order is that which is deprived by evil through evil; and this order evil cannot have, just as neither [can it have] species. But the second order is not deprived through evil, but rather evil is capable of being ordered in punishments according to that order.
+
+6. To that which is objected, that no privation is made in the relative except through something absolute; it must be said that both *species* and *order*, as taken here, are each relative; therefore one is not deprived through the other any more than conversely. Nevertheless these three are taken away through a change made about something absolute; for then they are deprived, when the free will sins by moving itself inordinately.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi apparatus note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the entries are renumbered here in continuous body order. [^1] is p.830 footer 5 (received from d35-a2-q1); [^2]–[^11] are p.831 footers 1–10; [^12] is p.832 footer 1.
+
+[^1]: **La.** Cap. 3. — Paulo inferius pro *maius* edd., excepta 1, cum pluribus codd., inter quos codd. K T, *magis.*
+    **En.** Chapter 3. — A little below, for *maius* ("greater") the editions, except the first, with several codices, among them codd. K T, [read] *magis* ("more").
+
+[^2]: **La.** Sive *quia*; Vat. et edd. 3, 4 post *tria* addunt *ita.*
+    **En.** Or *quia* ("because"); the Vatican [edition] and edd. 3, 4 add *ita* ("so") after *tria.*
+
+[^3]: **La.** Quaest. praeced.
+    **En.** The preceding question.
+
+[^4]: **La.** Cfr. infra d. 40. a. 1. q. 1. seqq.
+    **En.** Cfr. below d. 40. a. 1. q. 1. and following.
+
+[^5]: **La.** Vide I. Sent. d. 3. p. 1. dub. 3. et ibid. q. 2. in fine, ubi etiam maior arg. seq. insinuatur.
+    **En.** See I Sent. d. 3. p. 1. dub. 3. and there q. 2. at the end, where also the major [premise] of the following argument is intimated.
+
+[^6]: **La.** Ut explicatur infra d. 41. a. 2. q. 2. — Circa initium arg. Vat. et edd. 3, 4 *videlicet modo, speciei et ordini* pro *videlicet modus, species et ordo.*
+    **En.** As is explained below d. 41. a. 2. q. 2. — Near the beginning of the argument the Vatican [edition] and edd. 3, 4 [read] *videlicet modo, speciei et ordini* for *videlicet modus, species et ordo.*
+
+[^7]: **La.** Cap. 11. n. 3. Cfr. I. Sent. d. 46. q. 5.
+    **En.** Chapter 11. n. 3. Cfr. I Sent. d. 46. q. 5.
+
+[^8]: **La.** Aristot., V. Phys. text. 10. (c. 2.). Ratio, quam Aristot. affert, est, quia *ad aliquid* sive relatio in aliquo acquiritur, ipso quiescente; ut, si Socrates nunc sit dexter Platoni, et Plato moveatur, quiescente Socrate, tunc Socrates efficiatur sinister, ipso non moto. Non igitur per se, sed tantum per accidens, i. e. moto alio, acquiritur nova relatio.
+    **En.** Aristotle, V. *Physics* text 10 (c. 2). The reason which Aristotle gives is that *the relative*, or a relation, is acquired in something while that thing is at rest; as, if Socrates is now on the right of Plato, and Plato is moved, while Socrates is at rest, then Socrates is made to be on the left, he himself not being moved. Therefore a new relation is acquired not per se, but only per accidens, i.e. by another's being moved.
+
+[^9]: **La.** Multi codd., ut C F K L R S X Y Z etc., *separabiles*; perperam. Paulo ante Vat. post *non solum* adiicit *sunt*, et mox post *aequales* interserit *et*, quibus factis additamentis, sententia propositionis aliquantulum mutatur.
+    **En.** Many codices, as C F K L R S X Y Z etc., [read] *separabiles*; wrongly. A little before, the Vatican [edition] after *non solum* adds *sunt*, and soon after *aequales* inserts *et*, by which additions, once made, the sense of the proposition is somewhat changed.
+
+[^10]: **La.** In codd. T et W secunda manus addidit *malum reddit impotentem.* In Vat., quae etiam plura adiunxit, legitur sic: *in bonum, sic tantum vel magis culpa deordinat ipsam et deiicit in malum.* Eadem lectio habetur in edd. 3, 4, quae tantum *sic* omittunt.
+    **En.** In codd. T and W a second hand added *malum reddit impotentem* ("evil renders [it] powerless"). In the Vatican [edition], which also added several things, it reads thus: *in bonum, sic tantum vel magis culpa deordinat ipsam et deiicit in malum* ("toward the good, so guilt as much or more disorders it and casts [it] down into evil"). The same reading is had in edd. 3, 4, which only omit *sic.*
+
+[^11]: **La.** Verba Augustini vide supra pag. 543, nota 6. Seq. textus est loc. cit. q. 6.
+    **En.** For the words of Augustine see above p. 543, note 6. The following text is in the place cited, q. 6.
+
+[^12]: **La.** Edd. 2, 3 *deformitas*, Vat. *deformitas vel curvitas.*
+    **En.** Edd. 2, 3 [read] *deformitas*, the Vatican [edition] *deformitas vel curvitas.*
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from IA djvu OCR (raw 57820–57929), with the cascade-fragmented two-column body (Respondeo, Solutio ad 1–6) and all page-footers verified against 450 dpi PDF column bands (printed pp. 830–832, offset pdf = printed + 22 → pdf pp. 852–854). Read Left column top→bottom then Right column for each page; body bands then footer bands.
+
+**Alignment (coordinator-verified, PASSED).** This chunk = ARTICULUS II, QUAESTIO II, topic (2) of the three-question article (*utrum haec tria per malum corrumpantur aequaliter sive aeque principaliter*). Opener verbatim (raw 57820–57822, p.830 R col bottom): `QUAESTIO II. / Utrum modus, species et ordo corrumpantur per peccatum aequaliter. / Secundo quaeritur, utrum haec tria per quodlibet peccatum corrumpantur aequaliter.` Matches the article's question-list item (2). Ends at raw ~57929, immediately before `QUAESTIO III.` (raw 57930, *Utrum modus, species et ordo per malum possint totaliter corrumpi* — topic (3)).
+
+**Boundary.** Opens at the QUAESTIO II header at the bottom of p.830 R column (below a2-q1's scholion); the fundamentum 1 (de Natura boni) sits at p.830 bottom, continuing onto p.831. The chunk ENDS at the close of Solutio ad-6 (*…peccat inordinate movendo se ipsum*) at the bottom of p.832 R column, immediately before the full-width `QUAESTIO III.` header. Everything from QUAESTIO III onward is d35-a2-q3.
+
+**Page-split / footer map.** Spans printed pp. 830–832 (running heads: p.830 verso `830 SENTENTIARUM LIB. II.`; p.831 recto `DIST. XXXV. ART. II. QUAEST. II. 831`; p.832 verso `832 SENTENTIARUM LIB. II.`).
+- p.830 (R col bottom): QUAESTIO II opener + fundamentum 1 (de Natura boni). Only **footer 5** anchors here → [^1] (Cap. 3, the *maius/magis* variant on fund 1) — RECEIVED from a2-q1. p.830 footers 1–4 belong to a2-q1 (its [^11]–[^14]; footer 3 = Abbas Vercellensis/*salvat in esse* = a2-q1's [^13] Solutio ad-2, footer 4 = *numerus* = a2-q1's [^14] Solutio ad-4 — the resume's footer-3-anchors-at-q2 caution is RESOLVED: a2-q1 correctly claimed it).
+- p.831: fund 1 tail + fund 2–4 + Sed contra 1–4 + fund 5–6 (printed on the R col after Sed contra) + Conclusio + Respondeo + Solutio ad-1 opener. Footers 1–10 → continuous [^2]–[^11]: [^2] fund 2 *quod¹* (Sive quia); [^3] fund 3 *prius² ostensum* (Quaest. praeced.); [^4] SC1 *deordinationem³* (infra d.40); [^5] SC2 *bonitati⁴* (I Sent. d.3 p.1 dub.3); [^6] SC3 *voluntatem⁵* (infra d.41 a.2 q.2); [^7] fund 5 *in Enchiridio⁶* (Cap. 11 n.3); [^8] fund 6 *nec mutatio⁷* (Aristot. V. Phys.); [^9] Respondeo *inseparabiles⁸* (Multi codd. separabiles); [^10] Respondeo *tantum vel maius⁹* (codd. T/W secunda manus); [^11] Respondeo *tota merces¹⁰* (Verba Augustini supra pag. 543). (NB: the body marker order on p.831 follows the printed flow — fund 2,3 then Sed contra 1–3 then fund 5,6 then Respondeo — matching Quaracchi's footer sequence 1–10.)
+- p.832: Solutio ad-1 tail + ad-2 through ad-6 (+ QUAESTIO III opener at col bottom, NOT this chunk). Only **footer 1** anchors here → [^12] (Ad 4 *curvitas¹*, the *deformitas vel curvitas* variant). p.832 footers 2–7 belong to QUAESTIO III (footer 2 *In Vat. desideratur a* = q3 fund 3; footer 3 *Vide scholion ad praecedentem quaest.* = q3 fund 2; footers 4–7 = q3 body) and are forwarded to d35-a2-q3.
+
+**Hand-off received.** From d35-a2-q1: p.830 footer 5 (`Cap. 3. — Paulo inferius pro maius edd., excepta 1, cum pluribus codd., inter quos codd. K T, magis.`) → [^1], anchoring at QUAESTIO II's fundamentum 1 (*in libro de Natura boni — Cap. 3*).
+
+**Hand-off forwarded to d35-a2-q3.** QUAESTIO III (`Utrum modus, species et ordo per malum possint totaliter corrumpi`, body `Tertio quaeritur, utrum per malum contingat haec tria corrumpi totaliter. Et quod non, videtur:`) begins at the bottom of p.832 immediately after this q2's Solutio ad-6. The p.832 footers that serve q3 body are forwarded: footer 2 (`In Vat. desideratur a`, q3 fund 3 *aliquid adimit a*); footer 3 (`Vide scholion ad praecedentem quaest.`, q3 fund 2 cross-ref); footer 4 (`Cap. 12. n. 4, ubi textus originalis in fine addit necesse est.`, q3 fund 1 Enchiridio); footer 5 (`Cap. 3. — Aristot., IV. Ethic. c. 5. ait: Malum etiam … se ipsum perdit [ἀπόλλυσι], et si integrum sit, intolerabile evadit.`, q3 fund 2 de Natura boni); footer 6 (`Ut ostensum est supra a. 1. q. 1.`, q3 fund 3); footer 7 (`August., I. Retract. c. 19. n. 7: De quocumque pessimo in hac vita constituto non est utique desperandum, nec pro illo imprudenter oratur, de quo non desperatur.`, q3 fund 4 *dum est in via*).
+
+**Scholion disposition.** NONE of its own (`has_scholion: false`). The article-level scholion (items I–II) is held in d35-a2-q1 and covers all three quaestiones of ARTICULUS II per Override §5 (the q3 chunk has its own scholion at p.834 bottom on the corruptibility question; q2 falls between, with no scholion in the printed text after q2's Solutio ad-6 — q3's opener follows directly).
+
+**Cascade-dropout check.** PASSED. Both column bands of each of pp. 830–832 read top→bottom. The p.830/831 seam (inside fundamentum 1, `…secundum haec tria at-/tenditur intensio et diminutio` — continuous) and the p.831/832 seam (inside Solutio ad-1, `…penes intentionem; dicendum, / quod verum est` — continuous) are each grammatically continuous. No mid-paragraph splice signature found. The p.830 footer block is fully accounted for (footers 1–4 = a2-q1, footer 5 received here); the p.832 footer block splits cleanly between q2 (footer 1 → [^12]) and q3 (footers 2–7, forwarded).
+
+**[?] flags.** None.
