@@ -1,12 +1,12 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-05-31 (d41-a2-q2 promoted -> Tier 2, commit 76408f3)
+**Last updated:** 2026-05-31 (d42-littera promoted -> Tier 2, commit 40e550d)
 
 **Branch:** master
 
-## NEXT ACTION -> `bon-sent-II-d42-littera` (d.41 is now COMPLETE)
+## NEXT ACTION -> `bon-sent-II-d42-divisio` (d.42 littera now Tier 2)
 
-**d.41 is fully Tier 2.** `bon-sent-II-d41-a2-q2` was the last skeleton and shipped 2026-05-31 (commit 76408f3): printed **pp. 951-953** (PDF 973-975), 17-entry apparatus (per-page restart 951:1-6 / 952:1-6 / 953:1-5), `has_scholion: false` (Art. II article scholion is held by a.2-q.1, whose §II forward-references this quaestio), marker pairing 1-17 clean, build (875 q / 848 translated) + all three `--volume 2` audits clean.
+**`bon-sent-II-d42-littera` shipped 2026-05-31 (commit 40e550d):** Lombard littera Caps. I-VIII (De differentiis peccatorum in communi), printed **pp.957-959** (PDF 979-981), 16-entry apparatus (per-page restart 957:1-6 / 958:1-10), `has_scholion: false`, marker pairing 1-16 clean, build 875 q / 849 translated. Seam with d.41-a2-q3 verified: p.957 L-col top (`et tunc tollit... obiecta`) is the d.41 tail and its two footers stay with the d.41 dubium; littera footers begin at the `NOTAE AD LIBR. SENTENTIARUM.` divider. No hand-off forwarded.
 
 > **PAGE-NUMBER LESSON (q2, 2026-05-31):** the OCR running-head digits near d.41 a.2 are garbled -- `981 / 9S2 / 953` were really **951 / 952 / 953**. **Printed pp. 980-983 are DIST. XLIII (de peccato in Spiritum sanctum), NOT d.41.** The auto-chunker's stale `line_start: 66064` did not point at the true quaestio title either (the raw file has a corrupted/duplicated d.40<->d.41 concordance region ~66900-66930). **Always confirm printed_pages via a low-dpi PDF render of the running head before committing.**
 
@@ -21,11 +21,18 @@
 | `d41-a2-q3` | Tier 2 complete |
 | `d41-dubia` | Tier 2 complete (commit c81c137) |
 
-### Next: d.42
+### d.42 progress
 
-`bon-sent-II-d42-littera`:
-- d.42 starts at `DISTINCTIO XLII` at raw **66472/66481** (printed p.957 R-col, Cap. I `An voluntas et actio mala in eodem et circa idem sint unum peccatum, vel plura`). The Lombard littera (Caps. I-VIII: *unum/plura peccatum*, *reatus*, *septem vitia principalia*, *superbia*) runs through ~p.959 where `DIST. XLII. DIVISIO TEXTUS.` / `COMMENTARIUS IN DISTINCTIONEM XLII.` begins (raw ~66594/66628). Grep raw for those headers to fix the littera's exact end.
-- **Offset:** `pdf = printed + 22`; OCR running-head digits in the p.955-959 band are mangled -- trust running-head *text* + offset, not OCR digits, AND confirm with a low-dpi PDF render per the q2 lesson above.
+| Unit | Status |
+|---|---|
+| `d42-littera` | Tier 2 complete (commit 40e550d, pp.957-959) |
+| `d42-divisio` / articles / `d42-dubia` | auto-chunked skeleton (NEXT: divisio) |
+
+### Next: d.42 divisio/commentarius
+
+`bon-sent-II-d42-divisio`:
+- The `COMMENTARIUS IN DISTINCTIONEM XLII.` / `DIST. XLII. DIVISIO TEXTUS.` block begins at raw **~66619/66628** (printed **p.959**, top R-col after `…radix omnis mali.` which closes the littera). Subtitle: *De differentiis peccatorum in communi.* Lemma: *Cum autem voluntas mala et operatio etc.* The DIVISIO TEXTUS lays out the three-part division (actus / reatus / peccandi modus) and the TRACTATIO QUAESTIONUM. After d42-divisio come the article quaestiones (a1-q1/q2, a2-q1/q2, a3-q1/q2) and d42-dubia -- all still auto-chunked skeletons (apparatus audit shows them all diff +7 to +52).
+- **Offset:** `pdf = printed + 22`; OCR running-head digits in the p.957-960 band are mangled -- trust running-head *text* + offset and confirm with a low-dpi PDF render before committing (q2 lesson above; verified for d42-littera).
 
 **Polish gate:** d.41 is NOT a decade boundary. The d.31-d.40 polish gate already closed; next gate fires at d.50. No polish blocker now.
 
