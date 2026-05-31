@@ -86,3 +86,62 @@ After: every `[^N]:` def in d39-divisio has ≥1 La and ≥1 En body anchor.
 - **Smoke build** `node site/scripts/build-content.mjs`: `2 book(s), 875 questions, 839 translated` — parses cleanly.
 
 Chunks edited this pass: `d39-divisio`, `d39-a2-q1`, `d39-a2-q2`, `d35-a2-q3`, `d33-a2-q1` (+ `content.json`).
+
+---
+
+## Pass 3 (cross-chunk boundary integrity sweep) — d.31–d.33 (2026-05-31)
+
+Verified all 24 mid-page seams (prior chunk's last printed page == next chunk's first printed page) for d.31–d.33 against the 450 dpi PDF column bands (offset pdf = printed + 22). For each seam: (a) grammatical continuity across the seam, (b) full footer accounting across the two chunks (every numbered Quaracchi footer on the shared page present in one chunk or the other), (c) no mid-paragraph body dropout (the d9-divisio cascade-merge class).
+
+**Result: 22 CLEAN, 2 FIXED.** No body-text dropout was found at any seam (every chunk's body was complete and grammatically continuous at the seam). The 2 defects were both **dropped footnotes** at a header-break seam where the prior chunk's solutio/excursus tail shares the page with the next chunk's opener.
+
+### Seam-by-seam
+
+| Seam (shared printed p.) | Prior → next | Status |
+|---|---|---|
+| p.739 | d31-littera → d31-divisio | CLEAN (COMMENTARIUS header break; littera ends complete) |
+| p.743 | d31-a1-q1 → d31-a1-q2 | CLEAN (6 footers → q2; q1 solutio complete) |
+| p.745 | d31-a1-q2 → d31-a1-q3 | CLEAN (6 footers → q3) |
+| p.747 | d31-a1-q3 → d31-a2-q1 | CLEAN (6 footers → a2-q1) |
+| p.751 | d31-a2-q1 → d31-a2-q2 | CLEAN (footers 1–2 → q2) |
+| p.753 | d31-a2-q2 → d31-a2-q3 | CLEAN (footers 1–6 → q2 scholion, 7 → q3) |
+| p.755 | d31-a2-q3 → d31-dubia | CLEAN (footer 1 → q3 [^13]; footers 2–9 → dubia) |
+| p.756 | d31-dubia → d32-littera | CLEAN (dubia DUB.IV ends at footer 10; littera NOTAE restart) |
+| p.759 | d32-divisio → d32-a1-q1 | CLEAN (divisio holds DIVISIO+TRACTATIO; a1-q1 restarts) |
+| **p.762** | **d32-a1-q1 → d32-a1-q2** | **FIXED** — see below |
+| p.765 | d32-a1-q2 → d32-a2-q1 | CLEAN (footers 1–2 → a1-q2 tail; 3 + → a2-q1) |
+| p.767 | d32-a2-q1 → d32-a2-q2 | CLEAN (7 footers → a2-q2) |
+| p.769 | d32-a2-q2 → d32-a3-q1 | CLEAN (footer 1 → a2-q2 [^16]; 2–7 → a3-q1) |
+| p.771 | d32-a3-q1 → d32-a3-q2 | CLEAN (footers 1–3 → a3-q1 tail; 4–5 → a3-q2) |
+| **p.774** | **d32-a3-q2 → d32-dubia** | **FIXED** — see below |
+| p.778 | d32-dubia → d33-littera | CLEAN (dubia scholion ends; littera NOTAE) |
+| p.781 | d33-littera → d33-divisio | CLEAN (littera ends "…in mysterio dictum est" [^19]; divisio holds DIVISIO+TRACTATIO + NOTAE AD COMMENTARIUM [^1]/[^2]) |
+| p.784 | d33-a1-q1 → d33-a1-q2 | CLEAN (footers 1–2 → a1-q1 [^18]/[^19]; 3–6 → a1-q2) |
+| p.787 | d33-a1-q2 → d33-a2-q1 | CLEAN (6 footers → a2-q1) |
+| p.790 | d33-a2-q1 → d33-a2-q2 | CLEAN (footers split a2-q1 [^27]/[^28] + a2-q2 [^1]–[^4]) |
+| p.792 | d33-a2-q2 → d33-a3-q1 | CLEAN (footers 1–7 → a2-q2 [^12]–[^18]; footer 8 → a3-q1 [^1]) |
+| p.795 | d33-a3-q1 → d33-a3-q2 | CLEAN (footer 1 → a3-q1 [^19]; 2–4 → a3-q2 [^1]–[^3]) |
+| p.798 | d33-a3-q2 → d33-dubia | CLEAN (footer 1 → a3-q2 [^17]; 2–8 → dubia [^1]–[^7]) |
+| p.800 | d33-dubia → d34-littera (d.33 side) | CLEAN (dubia ends "…inferri supplicium" [^23]; footers 1–6 → dubia [^18]–[^23]; d34-littera NOTAE restart) |
+
+### FIXED #1 — p.762, `bon-sent-II-d32-a1-q1`
+
+The chunk's Notes had **mis-forwarded all five p.762 footers to a1-q2**, but footers 1–2 anchor in **this q1's** Ad-obiectum-4 reply ("…adhuc quaerit emendam¹… ad quartum librum²…"), whose body text was already present and complete in q1. Because q1 had no markers for them and q2 has no matching body, the two footnotes had been **dropped entirely**. Restored:
+- `[^19]` at *emendam* / *amends*: `Cfr. IV. Sent. d. 15. p. II. a. 1. q. 2. seqq. — Vat. adhuc tamen quaerit emendationem.`
+- `[^20]` at *quartum librum* / *the fourth book*: `Dist. 4. p. I. a. 1. q. 2.`
+Both anchored in La + En bodies; apparatus entries added with English; Notes footer-map corrected. (Footers 3–5 correctly remain in a1-q2.) No body text was missing.
+
+### FIXED #2 — p.774, `bon-sent-II-d32-a3-q2`
+
+The chunk's Notes recorded "p.774 footers 1–5 → [^19]–[^23]" but **omitted printed footer 6**, which anchors at *una syllaba* in the closing "pulcritudo metri" sentence of the *Et si tu quaeras* excursus (body present and complete). The footnote had been **dropped**. Restored:
+- `[^24]` at *una syllaba* / *one syllable*: `Cfr. August., VI. Music. c. 11. n. 30; de Vera Relig. c. 22. n. 42. — Paulo superius cod. H verbis una syllaba praefigit in.`
+Anchored in La + En bodies; apparatus entry added with English; Notes footer-map corrected. No body text was missing.
+
+### Verification
+- **Marker pairing**, both fixed chunks: every `[^N]:` def has matching La and En body anchors; 0 orphans. (`d32-a1-q1`: 1–20 all paired; `d32-a3-q2`: 1–24 all paired.)
+- **`audit-paraphrase --volume 2 --min-d 31 --max-d 33`:** 0 critical, 0 high.
+- **`audit-apparatus-count --volume 2 --min-d 31 --max-d 33`:** 0 flagged.
+- **`audit-headers --volume 2 --min-d 31 --max-d 33`:** only the pre-existing, known-coarse `d.33 DUB-LOSS` triage artifact (d33-dubia's DUB headers are OCR-garbled / not visible to the audit; the chunk is intact — DUB.I/DUB.II and all 23 footers verified eyes-on during the p.798/p.800 seam reads). Not a regression; consistent with the CLAUDE.md Vol II header-audit calibration note.
+- **Smoke build** `node site/scripts/build-content.mjs`: `2 book(s), 875 questions, 839 translated` — parses cleanly.
+
+Chunks edited this pass: `d32-a1-q1`, `d32-a3-q2` (+ `content.json`). Backups: `_backup-d32-a1-q1-pass3-20260531/`, `_backup-d32-a3-q2-pass3-20260531/`.
