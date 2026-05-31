@@ -11,7 +11,7 @@ pdf_pages: [919, 920]
 source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 897–898"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 62410–62455) cross-checked against 450 dpi PDF column bands, fresh literal English translation, full apparatus from raw OCR (8 entries: 5 Commentarius footers + 3 Notae ad Commentarium), no scholion (divisio) (2026-05-31)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 62410–62455) cross-checked against 450 dpi PDF column bands, fresh literal English translation, full apparatus from raw OCR (7 entries: 4 Commentarius footers + 3 Notae ad Commentarium), all anchored in La+En body (polish pass 2026-05-31 placed the 4 formerly apparatus-only defs [^4]–[^7]), no scholion (divisio) (2026-05-31)"
 format_version: 1
 ---
 
@@ -31,11 +31,11 @@ format_version: 1
 
 ### DIVISIO TEXTUS.
 
-Supra ostendit Magister, unde voluntas habeat rectificari et depravari. In hac parte inquirit, quare voluntas magis depravetur in suo actu quam aliqua alia potentia. Dividitur autem pars ista in duas partes, in quarum prima inquirit de causa depravationis[^1] voluntatis deliberativae. In secunda vero inquirit de rectitudine voluntatis humanae, secundum quod movetur per modum naturae, ibi: *Praeterea quaeri solet, quomodo intelligendum sit* etc.
+Supra ostendit Magister, unde voluntas habeat rectificari et depravari. In hac parte inquirit, quare voluntas magis depravetur in suo actu quam aliqua alia potentia. Dividitur autem pars ista in duas partes, in quarum prima inquirit de causa depravationis[^1][^5] voluntatis deliberativae. In secunda vero inquirit de rectitudine voluntatis humanae, secundum quod movetur per modum naturae, ibi: *Praeterea quaeri solet, quomodo intelligendum sit* etc.
 
-Prima pars dividitur in partes duas, in quarum prima movet quaestionem et determinat; in secunda vero opponit contra praedictam solutionem ad maiorem veritatis[^2] explanationem, ibi: *Sed adhuc quaeritur, quare huiusmodi naturalis* etc.
+Prima pars dividitur in partes duas, in quarum prima movet quaestionem et determinat; in secunda vero opponit contra praedictam solutionem ad maiorem veritatis[^2][^6] explanationem, ibi: *Sed adhuc quaeritur, quare huiusmodi naturalis* etc.
 
-Similiter secunda pars principalis dividitur in duas partes; in quarum prima movet dubitationem et opponit; in secunda parte eam dissolvit secundum diversorum opiniones, ibi: *Proposita est quaestio profunda* etc. — Et sic principaliter duo determinat Magister in parte ista, qualiter videlicet voluntas depravari possit, cum sit naturalis animae potentia, et qualiter homo naturaliter bonum velit et appetat, videlicet ratione naturalis iudicatorii, quod quidem est conscientia, quae semper bonum dictat, et ratione scintillae rationis vel conscientiae[^3], quae quidem est synderesis, quae semper ad bonum inclinat et contra malum recalcitrat.
+Similiter secunda pars principalis dividitur in duas partes; in quarum prima movet dubitationem et opponit; in secunda parte eam dissolvit secundum diversorum opiniones, ibi: *Proposita est quaestio profunda* etc. — Et sic principaliter duo determinat Magister in parte ista, qualiter videlicet voluntas depravari possit, cum sit naturalis animae potentia, et qualiter homo naturaliter bonum velit et appetat, videlicet ratione naturalis iudicatorii, quod quidem est conscientia, quae semper bonum dictat, et ratione scintillae rationis vel conscientiae[^3][^7], quae quidem est synderesis, quae semper ad bonum inclinat et contra malum recalcitrat[^4].
 
 <!-- page 898 -->
 
@@ -67,11 +67,11 @@ Tertio quaeritur in comparatione ad effectum, videlicet utrum omnis conscientia 
 
 ### DIVISION OF THE TEXT.
 
-Above, the Master showed whence the will has it to be set right and to be depraved. In this part he inquires why the will is more depraved in its act than any other power. Now this part is divided into two parts: in the first of which he inquires about the cause of the depravation[^1] of the deliberative will; but in the second he inquires about the rectitude of the human will, insofar as it is moved after the manner of nature, there: *Furthermore, it is wont to be asked how it is to be understood*, etc.
+Above, the Master showed whence the will has it to be set right and to be depraved. In this part he inquires why the will is more depraved in its act than any other power. Now this part is divided into two parts: in the first of which he inquires about the cause of the depravation[^1][^5] of the deliberative will; but in the second he inquires about the rectitude of the human will, insofar as it is moved after the manner of nature, there: *Furthermore, it is wont to be asked how it is to be understood*, etc.
 
-The first part is divided into two parts, in the first of which he raises the question and determines it; but in the second he raises objections against the aforesaid solution, for the fuller explanation of the truth[^2], there: *But still it is asked, why a natural [appetite] of this kind*, etc.
+The first part is divided into two parts, in the first of which he raises the question and determines it; but in the second he raises objections against the aforesaid solution, for the fuller explanation of the truth[^2][^6], there: *But still it is asked, why a natural [appetite] of this kind*, etc.
 
-Likewise the second principal part is divided into two parts; in the first of which he raises a doubt and objects; in the second part he resolves it according to the opinions of various [authorities], there: *A profound question is proposed*, etc. — And so the Master principally determines two things in this part: namely, in what way the will can be depraved, since it is a natural power of the soul, and how a human being naturally wills and desires the good, namely by reason of a natural faculty of judgment, which indeed is conscience, which always dictates the good, and by reason of the spark of reason or conscience[^3], which indeed is synderesis, which always inclines toward the good and kicks back against evil.
+Likewise the second principal part is divided into two parts; in the first of which he raises a doubt and objects; in the second part he resolves it according to the opinions of various [authorities], there: *A profound question is proposed*, etc. — And so the Master principally determines two things in this part: namely, in what way the will can be depraved, since it is a natural power of the soul, and how a human being naturally wills and desires the good, namely by reason of a natural faculty of judgment, which indeed is conscience, which always dictates the good, and by reason of the spark of reason or conscience[^3][^7], which indeed is synderesis, which always inclines toward the good and kicks back against evil[^4].
 
 ### TREATMENT OF THE QUESTIONS.
 
@@ -124,7 +124,7 @@ Thirdly it is asked in comparison to its effect, namely whether every conscience
 
 **Page-split map.** p.897 carries the COMMENTARIUS header + DIVISIO TEXTUS body + the printed-page footer (Commentarius notes 1–5 and the NOTAE AD COMMENTARIUM block). p.898 carries the TRACTATIO QUAESTIONUM. ARTICULUS I begins on p.898 (raw line 62456) and is **not** in this chunk — it opens the sibling `bon-sent-II-d39-a1-q1`.
 
-**Hand-off picked up.** The p.897 "NOTAE AD COMMENTARIUM" footer block (3 notes: *privationis*, *voluntatis*, *scientiae*) was flagged in `d39-littera` as belonging here; it is captured as apparatus entries [^5]–[^7]. The Commentarius footnotes proper ([^1]–[^4]: Rom. 7:19 Gloss; Dist. XXV c.7; Dist. XXVI c.1; Super Ezech.) are the per-page footer for the DIVISIO body and are placed at OCR-marker positions (note 4 has no in-body anchor in this short divisio — its lemma *contra malum recalcitrat* is the closing clause; rendered as an apparatus-only entry).
+**Hand-off picked up.** The p.897 "NOTAE AD COMMENTARIUM" footer block (3 notes: *privationis*, *voluntatis*, *scientiae*) was flagged in `d39-littera` as belonging here; it is captured as apparatus entries [^5]–[^7]. The Commentarius footnotes proper ([^1]–[^4]: Rom. 7:19 Gloss; Dist. XXV c.7; Dist. XXVI c.1; Super Ezech.) are the per-page footer for the DIVISIO body and are placed at OCR-marker positions. [^4] (Super Ezech., the Glossa source for the synderesis clause) is anchored at its closing-clause lemma *contra malum recalcitrat* / *kicks back against evil* in both languages. The three NOTAE textual-variant notes [^5]–[^7] are anchored at their lemma words: [^5] (*privationis* var.) at *depravationis* (co-located with [^1]); [^6] (*voluntatis* var.) at *veritatis* (co-located with [^2]); [^7] (*scientiae* var.) at *conscientiae* (co-located with [^3]). **Polish pass 2026-05-31: all 4 formerly-unanchored defs ([^4]–[^7]) now carry matching La+En body anchors.**
 
 **Apparatus note.** The first footnote group restarts numbering at the NOTAE block (raw shows `1 privationis / 2 voluntatis / 3 scientiae` as a distinct series). They are renumbered here as [^5]–[^7] for unique in-file markers; the original Quaracchi page-footer numbering is preserved verbatim inside each entry text.
 
