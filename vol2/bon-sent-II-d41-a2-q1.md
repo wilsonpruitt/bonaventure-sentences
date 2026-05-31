@@ -6,244 +6,214 @@ distinctio: 41
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 65844
-line_end: 66063
-word_count_latin: 3109
-transcription_status: "auto-chunked 2026-05-30"
+title_la: "Utrum omne peccatum actuale sit voluntarium"
+title_en: "Whether every actual sin is voluntary"
+printed_pages: [947, 948, 949, 950]
+pdf_pages: [969, 970, 971, 972]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 947–950"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 65832–66063) with PDF column-band verification at 450 dpi (printed pp.947–950 = PDF 969–972, offset +22), fresh literal English translation, full apparatus from raw OCR footers (16 entries, per-page restart 947/948/949/950), ARTICULUS II opener folded in, article-level scholion (I–II) included (2026-05-31)"
 format_version: 1
 ---
 
-# bon-sent-II-d41-a2-q1
+# I Sent. II, d. 41, a. 2, q. 1
+## *Utrum omne peccatum actuale sit voluntarium*
+
+---
 
 ## Latin
+<!-- page 947 -->
 
-QUAESTIO I.
-                                              Utrum omne peccatum actuale sit voluntarium.
+### Articulus II. *De comparatione actionis malae ad voluntatem.*
 
-                   Circa primum sic proceditur et quaeritur, utrum             voluntarium vohintate Adae; cum illud peccatum,
-             omne peccatum actuale sit voluntarium ; et cum
-                                                                               quod Adam transfudit, in nobis" sit peccatum ori-
-             certum sit de mortali, quod sic, quaeritur de ve-                 ginale, veniale peccatum esset originale. Quodsi hoc
-             niali. Et quod omne peccatum veniale sit volunta-                 est falsum, restat, quod et primum.
-             rium, videtur.                                                         2. Item, motus inordinati et ad illicita, qui di-
-                   1. Sicut dicit Augustinus, et habetur in httera':           cuntur esse in nobis peccata, non sunt peccata nec
-Fundameni.i. « UsquB adco pcccatum est voluntarium , ut niillo                 in parvulis nec in furiosis; hoc autem non esl, nisi
-             modo sit peccatum., nisi sil voluntariuniw: ergo si                quia non moventur usu rationis et voluntatis': ergo
-             peccatum veniale peccatum est, ergo necesse est,                   videtur, quod huiusmodi peccata sint in nobis vo-
-             ipsum esse volantarium. Si tu dicas , quod omne                    luntaria voluntate propria.
-             peccatum est voluntarium, aut voluntate propria,                         3. Item, quando stomachus exinanitus ante ho-
-             aut voluntate Adae , et veniale est peccatum , quia                ram comestionis appetit comedere, nulla est ibi culpa,
-             voluntarium volunlate .\dae: obiicitur contra hoc:                 quamvis sit ille appetitus immoderatus et ad illud
-             quia, si ad rationem peccati venialis sufOcit, quod sit            quod non licet tali tempore; boc autem non est,
+Consequenter quaeritur circa secundum principale, scilicet de comparatione actionis malae ad voluntatem. Et circa hoc quaeruntur tria. Primo quaeritur, utrum omne peccatum actuale, tam mortale quam veniale, sit voluntarium. Secundo quaeritur, utrum omne peccatum mortale sit circa voluntatem sicut circa subiectum. Tertio quaeritur, utrum puniri, sicut etiam peccare, sit ipsius voluntatis proprium.
 
+### Quaestio I. *Utrum omne peccatum actuale sit voluntarium.*
 
-               ' Hic c. 3. — In codd. T W et nonnullis aliis deest con-         nos , sit etc. Pro transfudit codd. F II T et alii plures trans-
-         clusio : ergo si peccatum veniale... esse voluntarium.
-               2 In Vat. et edd. 3, 4, ubi cum inlerpunctionc etiam                   3 Cfr. supra pag. 52-5, nota 6. — De motibus inordinatis
-         sententia mutata est, legitur sic: quod Adam        transfudit in      cfr. supra d. 21. a. 2. q. 3. schol. et ibid. dub. 4.
-                                                                                fundit.
-        948                                                  SENTENTIARUM         LIB. [1.
+Circa primum sic proceditur et quaeritur, utrum omne peccatum actuale sit voluntarium; et cum certum sit de mortali, quod sic, quaeritur de veniali. Et quod omne peccatum veniale sit voluntarium, videtur.
 
-                                                                               nolimus, esl in nobis repugnantia sensualitatis , et
-        nisi qnia motiis ille inest de necessitate: ergo vide-                 multi etiam motus inordinati ex surreptione surgunt.
-        tur, cjuod ad hoc, quod aliquis motns ad illicitnm
-                                                                               Si igitur voluntas non potest sensualitatem domare,
-        sit veniale peccatum , necesse sit , ipsum esse volun-
-        tarium.                                                                et quod est ex surreptione praevenit voluntatem;
-              4. Ilem, omne quod quis facit, aut facit natu-                   videtur, quod peccata venialia, quae sunt primi mo-
-        raliier, aut facit vohmtarie, aut violenter : si igilur                tus, non sunt voluntaria '.
-        venialia commiltimus, aut ergo im' violentiam , aut                          0. Item, aut aliquod peccatum veniale est in-
-                                                                               voluntarium, aut non. Si sic; habeo propositum;
-        per naturam, aut per voluntatem. Si per violen-
-        tiam: ergo nulla est ibi culpa. Si per naluram:                        si non: igitur omne peccatum veniale est volunta-
-        similiter, quia in iiis qnae naturaliter fiunt \ non                   rium. Sed omne voluntarium per voluntatem vitari
-        est calpa: ergo si peccatum veniale culpa esl, ne-                     potest: ergo per volunlatem potest quis vilare omne
-        cesse est, quod sit a voluntate.                                       veniale peccatum : igitur potest quis cavere, ut nun-
-              5. Item , demonstrato aliquo veniali, aut potest                 qnam peccet venialiter. Si igitur hoc est impossi-
-        aliquis vitare lioc peccatum, aut nonpotest. Si non                    bile, quod aliquis diu vivat in hac carne, quin com-
-        potest, et «nullus peccat in eo quod vitare non                        mitlat aliquod veniale'; videtur, quod necessarium
-        potest»': ergo committendo hoc peccatum, non pec-                      sit ponere, abquod veniale peccatum non esse vo-
-        cat. Si potest vitare; et quod committimus, potentes                   luntarium.
-        vitare, committimus voiuntarie: ergo etc.
-                                                                                                      c 0 N c L u s 1 0.
-                Sed contra: 1. Proverbiorum vigesimo quarto':
-M ovjiosi- Sevties in die etc. : Glossa: «Singulis diebus per
-           necessitatem vel Iragilitatem carnis , vel volentes ,               Omne peccatum actuale est voluntarium vel sim-
-           vel inviti peccamus». Si ergo peccamus venialiter,                      pliciter, vel secundum quid, ut aliqua venia-
-           velimus nolimus; videtur, quod non omne peccalum                        lia.
-           veniale voluntarium sit.
-                                                                                    Respondeo: Dicendum, quod voluntarium potest TripieiTO-;
-              2. Ilem, Augustinus in libro Retractationum "^ :
-        «Sunt, inqiiil, quaedam necessitate facta impro-                       aliquid dici tripliciter: aut voluntate aliena, aut vo-
-        banda. ut qui vult recle facere, et non potest. Unde                   luntate propria, aut partim voluntate aliena, partim        '
-        est illud Apostoli : Non quocl volo, hoc facio honum,                  volimlate propria. Et secundnm hunc triplicem mo-
-        sed quod odi nialum»; sed lalia sunt peccata ve-                       dum dicendi voluntarium, triplex est differentia
-        nialia: ergo aliqua venialia sunt de necessitate, non                  peccati.                                                    ji
-        ergo a voluntate.                                                            Peccatum namque originale voluntarium est, TriiJiex diji
-              3. Item, Augustinus decimo nono de Civitate
-                                                                               sed
-                                                                               eius non
-                                                                                    a quo,voluntate   eius Adam
-                                                                                            scilicet Adae. in quoenim
-                                                                                                                   est,voluntaria
-                                                                                                                         sed voluntateMir"''"';!
-                                                                                                                                  trans- couciusio 'ii
-        Dei ^: «Nonnullum vitium est, cum caro concupi-
-        scit adversus spiritum»; sed caro concupi.scit ad-                     gressione corrupit se et totam posteritalem '. — Vo-                  i
-        versus spiritum frequenter, ipso nolente, sicut in                     luntarium autem voluntate propria est peccatum                        l
-        littera habetur: ergo velit nolit, liomo peccat ve-                    actuale mortale; boc quidem genere peccati nullus coDcii.sio'.ii
-        nialiter: non ergo omne peccatum veniale est volun-                    peccat nisi consentiens. — Volunlarium autem medio             :
-        tarium. Minor probatur in littera: «Ille qui, con-                     modo, scilicet partim voluntate proprza , partim vo-           il
-        cupiscente adversus spiritum carne, non ea quae
-                                                                               luntate aliena, est veniale peccatum , illud maxime,           ;
-        vult, facit, concupiscit quidem nolens, et in eo facit                 quod consurgit ex i-epugnantia carnis ad spiritum,
-                                                                                                                                    SenteQtia
-        quod non vnlt».                                                        vel ex corruptione ' virium animae. Hoc inqnara
-                                                                                                                                  .\ugustini.
-             4. Item, peecala venialia sunt in nobis ex re-                    peccatum, quia partim est a voluntate aliena, par-
-        pugnantia sensualitatls ad ralionem, et etiam ex sur-                  tim a voluntate propria, ideo quodam modo secun-
-        reptione , sicut sunt primi raotus ; sed velimus                       dum Augustinum     tenet rationem poenae, quodam
+1. Sicut dicit Augustinus, et habetur in littera[^1]: « Usque adeo peccatum est voluntarium, ut nullo modo sit peccatum, nisi sit voluntarium »: ergo si peccatum veniale peccatum est, ergo necesse est, ipsum esse voluntarium. Si tu dicas, quod omne peccatum est voluntarium, aut voluntate propria, aut voluntate Adae, et veniale est peccatum, quia voluntarium voluntate Adae: obiicitur contra hoc: quia, si ad rationem peccati venialis sufficit, quod sit voluntarium voluntate Adae; cum illud peccatum, quod Adam transfudit, in nobis[^2] sit peccatum originale, veniale peccatum esset originale. Quodsi hoc est falsum, restat, quod et primum.
 
+2. Item, motus inordinati et ad illicita, qui dicuntur esse in nobis peccata, non sunt peccata nec in parvulis nec in furiosis; hoc autem non est, nisi quia non moventur usu rationis et voluntatis[^3]: ergo videtur, quod huiusmodi peccata sint in nobis voluntaria voluntate propria.
 
-              1 Cod. T SWlt                                                    )jm etc. — De minori eiusque probatione, quae delibata est
-             ^ .■\ugusl., lli. de Lilj. Arb. c. 18. n. SO. Cfr. supra d.       ex August., L Retract. c. 13. n. 5, vide hic lit. Magistri, c. 3.
-        XXVIIi. IH. Magislri, c. 3. et ibid. dub. 3.                               ^ Cfr. supra lit. Magistri, d. XXIV. c. 9. et 12. atque ibid.
-              ^ Vers. 16. Vulgala omiltit in die. — Glossri di'|)rompta        Comment. p. II. a. 3. q. I.                         •■
-        est cx Beda super liunc loc. et liabetui- apud Strobum et Lyra-             ' August., in EjMst. loan. tr. 1. n. 6: Non potest homo,
-        num. — Mox pro velimus nolimus, quod habent plurimi codd.              quamdiu carnem portat, nisi habere vel levia peccata. Cfr. su-
-        et ed. 1, in Val. aliisque edd. et codd. vel velirmis, vel nolimus.    pra pag. 68S, nota 3. — Paulo superius pro ut mmquam
-              * Libr. 1. c. 9. n. S, et III. de Lib. Arb. c. 18. n. 51. Cfr.   codd. 0 S ne unquam. Dein pro venialiter codd. V X Z vo-
-        supra d. XX.XVI, lit. Magislri, c. 5, et ibid. dub. 4. — Verba         luntaric.
-        Apostoli habenttir Rom. 7, 19.                                               * De quo vidc supra d. 30. a. I. q. 2. — .\liquanto supe-
-              ^ Cap. i. n. 3, ubi ostendens, ipsam ^'irtutem in hac vita       rius pro modum dicendi Vat. modum distinguendi, et paulo
-         propter conHictum cum viliis imperrectam esse, ait: Neque enim        inferius eadem Vat. verbis hoc quidem genere praeflgit et.
-         nullum est vitinm, cum sicut dicit Apostolus (Gal. S, n.):Caro              ^ Quainvis plerique codd. primaeque edd. exhibeant vel
-         concupiscil adversus spiritum, cui vitio contraria virtiis est,       corruptionis , tamen lectio Vat. nobis facilior visa est eamque
-         cum , sicul idem dicit : Spiritus concupiscit adoersus car-           relinnimus.
-                                                                                                                                                    949
-                                                                DIST. XLI. ART. II. QUAEST. I.
+3. Item, quando stomachus exinanitus ante horam comestionis appetit comedere, nulla est ibi culpa, quamvis sit ille appetitus immoderatus et ad illud quod non licet tali tempore; hoc autem non est, nisi quia motus ille inest de necessitate: ergo videtur, quod ad hoc, quod aliquis motus ad illicitum sit veniale peccatum, necesse sit, ipsum esse voluntarium.
 
-             modo rationem culpae. Propterea dicit Augustinus ':                      hunc actum vel illum non incidissemus, licet non
-             « Quia liomo non voluit vitare peccalum , dum va-                        sic possimus praecavere, quin in aliquod cadamus;
-             luit, inflictum est, ut non possit, dum velit». Vo-                      sicut exemplum ponitur in nauta, qui^ potest prae-
-             luntarium, inqu:im, dicitur per comparationem ad                         cavere et cuslodire, ne aqua per aliquod foramen
-             volunlatem Adae , quia Adam deliberative voluit;                         determinatum ingrediatur ; non tamen potest facere,
-             unde et corruptio subsecuta est, ex qua orinntur                         quod per nulluiu habeat ingressnm.
-             in nobis motus inordinati, qui dicuntur esse peccata                            2. Ad illud quod obiicitur, quod quaedam ne-
-             venialia. Voiuntarium autem voluntate proprm^ sive                       cessitate facta sunt improbanda; dicendum, quod
-coDciasio 3. peccantis , non est omne peccatum veniale simplici-                      Augustinus loquitur de necessitate venialium, non
-             ter , sed secundum quid. Illud enim est volunta-                         quantum ad hoc veniale vel illud determinate, sed
-             rium simpliciler, quod est a volnntale praeambula                        generaliter quantum ad peccata venialia, vel etiam
-             et movente. Ulud autem, quod oritur volnntate con-                       quantum ad aliquod genus venialis peccati; sicut
-             comitante et non prohibenle vel praecavente, dum                         videmus in iuvene et forti , quod nunquam potest ■
-                                                                                      omnino vitare motus carnis, licet possit hac hora
-             possit /)roA«'6ere vel praecavere , dicitur volunta-
-             rinm quodam modo sive interprelative , pro eo quod                       vel illa, vel hunc motum vel illum vitare. Et quia NotaDdnm.
-             talis deordinatio voluntati imputatur. Et lioc niodo                     nihil impedit, quod sit necessitas quaedam in uni-
-             saltem omne peccatum veniale dicitur voluntarium,                        versali, et voluntas quodam modo in particulari;
-             quia nemo peccat venialiter, nisi cum habet volun-                       ideo auctoritas illa non obviat his quae dicta sunt.
-             tatis usum; nemo etiam venialiter peccat in eo                                  3. Ad illud quod obiicitur, quod nonnullum
-             quod nuUo modo potest prohibere nec etiam potuit                         vitium esf, cum caro concupiscit adversus spiritum;
-conciusio 4. praecavere. Venialia enim peccata etsi omnia non                         dicendum , quod verum est. — Sed quod subiiragit ,
-             possint praecaveri nec prohiheri, nullum tamen est                       qund necessariura est concupiscere: dicendum, quod
-             singulare peccatum, quod non possH prohiberi , vel                       verum est de concupiscentia, loquendo generaliter;
-             quod saltem non potuerit praecaveri. Licet enim                          de concupiscentia vero huius vel illius, hoc tem-
-             aliquis sit statns, in quo necesse est, aliquem cadere                   pore vel illo, non est vei'um. Et quod dicit Augu-
-             in aliquod peccatum determinatum . illum tamen                           stinus, quod concupiscit nolens; et Apostolus*: Quod
-             statum potuit qms praecavere ; et ideo, si non prae-                     nolo malum , hoc ago; nnn privat oiunimode vo-
-             cavit, voluntati eius imputatur, quamvis tunc illud                       luntatem, sed hoc privat, quod voluntas non est ibi
-                                                                                      movens principale.
-   Epiiogus.prohibere non possit 'K — Concedendae sunt igilur ra-
-           tiones ostendentes, quod omne peccatum actuale est                                4. Ad illud quod obiicitur, quod primi raotus
-           Yoluutarium. Nam mortale est voluntarium simpli-                            sunt ex surreptione et ex rebellione ; iam patet re-
-           citer, veniale autem vel est voluntarium simpliciter,                       sponsio per ea quae dicta sunt. Verum est enira,
-           sicut illud quod fit ex deliberatione, ut mendacium                         quod prohiberi, ve! praecaveri non possunt genera-
-           iocosum; vel secundum. quid sive quodam modo,                               liter , ita quod nullus insurgat; quilibet tamen per
-           sicut illud quod fit ex surreptione, sicut sunt primi
-           molus.                                                                     se praecaveri potest. Unde et huius signura ^* est . NoiandDm.
-                                                                                      quia nos non ponimus, peccatum esse circa primos
-                      1. Ad illud ergo quod primo obiicitur in con-                   raotus nutritivae, sicut generativae; actus enim nu-
- Solulio orj-
- posiloium.     trarium, quod singulis diebus inviti peccamus; di-                    tritivae necessarius est ad saluteni nutriti, non au-
-                cendum, quod in Glossa illa dicilur aliquis invitus                   teni actus generativae; licet et alia ratio possit as- a"» ""'>■
-                peccare non per privationem voluntatis oranimodara,                   signari: quia nutritiva est corriipta tantum, genera-
-                sed per privationem voluntatis plenae sive com-                       tiva corrupta et infecla ^ Priraa tamen ratio raelius
-                placentiae. Et hoc quidem verura est, quod frequen-                   valet. Nara, sicut vult Augustinus in prirao de Civi-
-                ter inviti peccamus, el nobis displicet, quod sic inor-               tate Dei ', si aliqua raulier corrumpatur violenter,
-                dinale mnvemur; si tamen bene praecavissemus, in                      si oranino repugnat, absque orani culpa est; et tam.en
+<!-- page 948 -->
+4. Item, omne quod quis facit, aut facit naturaliter, aut facit voluntarie, aut violenter: si igitur venialia committimus, aut ergo per violentiam, aut per naturam, aut per voluntatem. Si per violentiam: ergo nulla est ibi culpa. Si per naturam: similiter, quia in iis quae naturaliter fiunt[^4] non est culpa: ergo si peccatum veniale culpa est, necesse est, quod sit a voluntate.
 
+5. Item, demonstrato aliquo veniali, aut potest aliquis vitare hoc peccatum, aut non potest. Si non potest, et « nullus peccat in eo quod vitare non potest »: ergo committendo hoc peccatum, non peccat. Si potest vitare; et quod committimus, potentes vitare, committimus voluntarie: ergo etc.
 
-                      1 Libr. 111- de Lib. Arb. c. 18. n. 52: Illa est cnim pec-      solut. ante iionmillum vitium Vat. cum ])luribus codd. perpe-
-                cati poena iustissima, ut omittat quiscjue quo bene uti noluit,       ram inserit non.
-                cum sine nlla pnsset difflcultale , si vellet. Id est autem, ut qui         5 Complures codd., inter quos L 0 R \V, rulio. In Vat. et edd.
-                sciens recte non facit, amittat scire, quid rectum sit ; et qui       2, 3, 4 legitur : Et ratio huius est , in codd. C li 3 T ee : Unde et
-                recte facere, cum posset, noluit, amittat posse, cum velit. — Pro     huius est (omissa voce signum). Paulo superius post insurgat
-                Quia homo codd. II V Y ee et nonnulli alii quod liomo, et su-         cod. Iv supplet motus. ^ Vide supra d. 31. a. 1. q. 3.
-                binde pro non voliiit codd. F V alque ed. I noluil.                         ' Cap. 23 : Quodsi illa concupiscentialis inubedientia, quae
-                      2 Cfr. hic lit. Magistri , c. .3. — Paulo ante pro imputatur    adhuc in membris moribundis habitat, jiraeter nostrae volun-
-                cod. T imputabitur. Paulo inlerius pro ostendentes , quod ver-        tatis legem quasi lege sua movetur, quanto magis absque culpa
-                bum mulli codd. nec non primae edd. omittunt, cod. V quae             est in corpore non consentientis , si absque culpa est in corpore
-                oslendunt.                                                            dormientis ? — Codd. F X bb in testimonio Auguslini anle ultima
-                      3 Codd. T bb et alii quod. Paulo inferius Val. cuni edd.        verba non consentientis inierserunt dormientis , quanto magis
-                 2, 3 omittit per ante nullum.                                        est absque culpa in corpore. Vat. hoc teslimonium sic reddit :
-                      * Roni. 7, 19. — Diclum Auguslini vide supra in ipsa 3.         Si illa... inobedientia , quod adhuc... voluntatis legem , quia lege
-                 obiectione, ad quam liic respondetur. — In jjrincipio huius          sua movetur, ab omni culpa immunis est in etc.
-          9bO                                                    SENTENTIARUM LIB. II.
-              a delectatione omnino immiinis non esl. Ait enim                    versa suppositione huius quod dico veniale , sive
-             sic : « Si illa concupiscentialis inobedientia, quae adliuc          potius, quia proceditur a pluribus delerminatis sup-
-             in membris liabitat, praeter voluntatis legem quasi                  positionibus huius verbi potest ad unam; sicut si
-             lege sua movetur, et absque culpa est in corpore                     argueretur: iste potest ferre hunc lapidem et illum
-             non consentientis » . Ex hoc patet , quod si venialia                et illum, et sic usque ad decem lapides: ergo po-
-             rationem culpae habent, hoc est, quia a voluntate in                 test ferre hos decem lapides; et sicut si diceretur:
-             particulatH et divisini vitari et praecaveri possunt.                homo est Socrates, homo est Plato: ergo homo est
-                    5. Ad illud quod obiicitur, quod si potest vitari             Socrates et Plato. Praemissae sunl verae, et con-
-             hoc et illud, et sic de singulis, ergo omne; dicen-                  clusio falsa, et proceditur a pluribus suppositioni-
- Distinctio. dum, quod haec est duplex : iste potest vitare omne                  bus delerminatis ad unani. Suppositio aulem deter- 'lan suppo-
-             peccalum veniale, sicut haec: iste potest vincere                    minata dicitur, quando termmus non confunditur, miuaia.
-             omnem hominem : aut quia potentia vitandi, vel vin-                  sed debet reddere locutionem veram pro uno, sicut
-             cendi comparatur ad obiectum coniunctim, vel di-                     est, cum dicitur: homo currit. Sic et in proposito
-             visim. Si divisim; sic vera est ista; iste potest vi-                intelligendum est, quia hoc verbum potest, prout
-             tare vel praecavere omne veniale peccatum, quia                      accipitur respectu omnis venialis coniunctim, respi-
-                                                                                  cit omne veniale tanquam obiectum unum, et dicit
-           non est dare aliquod , quod non posset ' vitari. Si
-           autem eoniunclim; tunc est falsa; est enim sensus,                     unam perfectam potentiam excedentem et vincentem
-           quod possit facere, ut omnino sit absque veniali                       omnem impulsum ad veniale peccatuni; sicut si di-
-           peccato; et in hoc sensu dicitur, quod non possu-                      ceretur: iste potest vincere decem homines, vel ferre
- Notandum. mus omoia peccata venialia vitare. — Nec valet ratio                   decem lapides. — Et sic patet, quod ille processus
-           illa: possum vitare hoc et illud et illud, ergo omnia                  noQ tenet , quia non servatui' ibi lex illationis rectae.
-         simul; imnio est ibi figura dictionis', sive ex di-
-                                                                      SGHOLION.
-               I. Extra contioversiam est, quod peccattim , qualenus habet        voluntalis, non vero aliarum potentiarum. S. Doctor hic apte
-         rationem culpae, non potest esse nisi circa ea quae in do-               utitur distinctione inter peccatum ut ci(//)am, et peccatum nlvi-
-         minio voluntatis sunt. Hoc autem variis modis intelligi potest,          tium, et quoad vitium iterum subdistinctione, ut patet in lit-
-         unde S. Doctor (liic dub. 3.) distinguit novem gradus volunta-           tera (cfr. supra d. 24. p. II. a. 3. q. 1. 2, d. 3i. a. 2. q. 3.
-         rii. Quo sensu peccatum originale dici possit voluntariuni, sci-         ad. 2.). Hinc infert, peccatum in ratione culpae in sola esse
-         licet voluntate alterim personae, quae fuit caput generis liu-           voluntale ut subiecto (cfr. supra d. 32. dub. 1. 2, a. 2. q. 2, et
-         mani, explicatum est supra d. 30. a. 1. 2. et d. 31. a. I. 2. —          d. 36. a. I. q. 2.). — Aliis distinctionibus ulitur S. Thom., scilicet
-                                                                                  quod aliquid possit inesse in aliqua polentia vel ut in caum ,
-         De peccatis mortalibus et illis venialibus, quorum proxima e't
-         immcdiata causa et dimsim et coniunctim est libera volunlas,             vel ut in subiecto, quod iterum possit esse vel primum (vo-
-         nulla est difficultas, sed tantum de peccatis vetiialibus, quae qui-     lunlcis), \-e[ proximum (potentia, quae elicit actum). Secundum
-         dem divisim et in particulari possunt praecaveri, non autem nni-         hanc distinclioncm concludilur: « Non solum voluntas potest
-         versaliter et coniunctim. Haec difficultas egregie hie explicatur,       esse subiectum peccali, sed omnes illae potentiae, quae pos-
-         consentientibus aliis magistris (cfr. Conc. Trident. Sess. VI. c. H.).   sunt moveri ad suos actus, vel ab eis reprimi per voluntatem »
-              Alex Hal., S. p. II. q. 108. m. 1. a. 2. — S. Thom., hic q.         (S. Thom., S. 1. II. q. 7i. a. 2.).
-         2. a. I ; S. 1. II. q. 109. a. S, q. 77. a. I. seqq. — B. Albert.,             De hac (2.) quaestione: Alex. Hal., S. p. II. q. 94. m. S. a.
-         hic a. 9; S. p. II. tr. 18. q. 11-5. a. 2. parlic. 1. — Petr. a          2, q. 108. m. (i. — Scot., in utroque Scripto, d. 42. q. \-3. —
-         Tar., hic q. 2. a. i. — Richard. a Med., hic a. 2. q. \. —               S. Thom., hic q. 2. a. 2; S. I. II. q. 74. a. I. 2. — B. Albert.,
-         /Egid. R., hic q. 2. a. I. — Durand., hic q. 2. — Dionys.                II. Sent. d. 39. a. I ; S. p. II. tr. 22. q. 136. — Petr. a Tar.,
-         Carth., hic q. 2.                                                        hic q. 2. a. 2. — Itichard. a iMed., hic a. 2. q. 2. — £g\d.
-              II. Quoad sequentem quaest. vide supra d. 39. dub. 1 , ubi          R., hic q. 2. a. 2. — Durand., II. Sent. d. 39. q. I. — Dionys.
-         duplex ratio affertur, quare malitia (culpa) spectet ad actus            Carth., II. Sent. d. 39. q. 2.
+**Sed contra:**
+1. Proverbiorum vigesimo quarto[^5]: *Septies in die* etc.: Glossa: « Singulis diebus per necessitatem vel fragilitatem carnis, vel volentes, vel inviti peccamus ». Si ergo peccamus venialiter, velimus nolimus; videtur, quod non omne peccatum veniale voluntarium sit.
+
+2. Item, Augustinus in libro Retractationum[^6]: « Sunt, inquit, quaedam necessitate facta improbanda, ut qui vult recte facere, et non potest. Unde est illud Apostoli: Non quod volo, hoc facio bonum, sed quod odi malum »; sed talia sunt peccata venialia: ergo aliqua venialia sunt de necessitate, non ergo a voluntate.
+
+3. Item, Augustinus decimo nono de Civitate Dei[^7]: « Nonnullum vitium est, cum caro concupiscit adversus spiritum »; sed caro concupiscit adversus spiritum frequenter, ipso nolente, sicut in littera habetur: ergo velit nolit, homo peccat venialiter: non ergo omne peccatum veniale est voluntarium. Minor probatur in littera: « Ille qui, concupiscente adversus spiritum carne, non ea quae vult, facit, concupiscit quidem nolens, et in eo facit quod non vult ».
+
+4. Item, peccata venialia sunt in nobis ex repugnantia sensualitatis ad rationem, et etiam ex surreptione, sicut sunt primi motus; sed velimus nolimus, est in nobis repugnantia sensualitatis, et multi etiam motus inordinati ex surreptione surgunt. Si igitur voluntas non potest sensualitatem domare, et quod est ex surreptione praevenit voluntatem; videtur, quod peccata venialia, quae sunt primi motus, non sunt voluntaria[^8].
+
+5. Item, aut aliquod peccatum veniale est involuntarium, aut non. Si sic; habeo propositum; si non: igitur omne peccatum veniale est voluntarium. Sed omne voluntarium per voluntatem vitari potest: ergo per voluntatem potest quis vitare omne veniale peccatum: igitur potest quis cavere, ut nunquam peccet venialiter. Si igitur hoc est impossibile, quod aliquis diu vivat in hac carne, quin committat aliquod veniale; videtur, quod necessarium sit ponere, aliquod veniale peccatum non esse voluntarium.
+
+### Conclusio
+
+> Omne peccatum actuale est voluntarium vel simpliciter, vel secundum quid, ut aliqua venialia.
+
+**Respondeo:** Dicendum, quod voluntarium potest aliquid dici tripliciter: aut voluntate aliena, aut voluntate propria, aut partim voluntate aliena, partim voluntate propria. Et secundum hunc triplicem modum dicendi voluntarium, triplex est differentia peccati.
+
+Peccatum namque originale voluntarium est, sed non voluntate eius in quo est, voluntaria scilicet Adae, a quo enim est, sed voluntate eius, scilicet Adae, qui in transgressione corrupit se et totam posteritatem[^9]. — Voluntarium autem voluntate propria est peccatum actuale mortale; hoc quidem genere peccati nullus peccat nisi consentiens. — Voluntarium autem medio modo, scilicet partim voluntate propria, partim voluntate aliena, est veniale peccatum, illud maxime, quod consurgit ex repugnantia carnis ad spiritum, vel ex corruptione[^10] virium animae. Hoc inquam peccatum, quia partim est a voluntate aliena, partim a voluntate propria, ideo quodam modo secundum Augustinum tenet rationem poenae, quodam <!-- page 949 --> modo rationem culpae. Propterea dicit Augustinus[^11]: « Quia homo non voluit vitare peccatum, dum valuit, inflictum est, ut non possit, dum velit ». Voluntarium, inquam, dicitur per comparationem ad voluntatem Adae, quia Adam deliberative voluit; unde et corruptio subsecuta est, ex qua oriuntur in nobis motus inordinati, qui dicuntur esse peccata venialia. Voluntarium autem voluntate propria sive peccantis, non est omne peccatum veniale simpliciter, sed secundum quid. Illud enim est voluntarium simpliciter, quod est a voluntate praeambula et movente. Illud autem, quod oritur voluntate concomitante et non prohibente vel praecavente, dum possit prohibere vel praecavere, dicitur voluntarium quodam modo sive interpretative, pro eo quod talis deordinatio voluntati imputatur. Et hoc modo saltem omne peccatum veniale dicitur voluntarium, quia nemo peccat venialiter, nisi cum habet voluntatis usum; nemo etiam venialiter peccat in eo quod nullo modo potest prohibere nec etiam potuit praecavere. Venialia enim peccata etsi omnia non possint praecaveri nec prohiberi, nullum tamen est singulare peccatum, quod non possit prohiberi, vel quod saltem non potuerit praecaveri. Licet enim aliquis sit status, in quo necesse est, aliquem cadere in aliquod peccatum determinatum, illum tamen statum potuit quis praecavere; et ideo, si non praecavit, voluntati eius imputatur, quamvis tunc illud prohibere non possit[^12]. — Concedendae sunt igitur rationes ostendentes, quod omne peccatum actuale est voluntarium. Nam mortale est voluntarium simpliciter, veniale autem vel est voluntarium simpliciter, sicut illud quod fit ex deliberatione, ut mendacium iocosum; vel secundum quid sive quodam modo, sicut illud quod fit ex surreptione, sicut sunt primi motus.
+
+**Ad obiecta:**
+*Ad 1.* Ad illud ergo quod primo obiicitur in contrarium, quod singulis diebus inviti peccamus; dicendum, quod in Glossa illa dicitur aliquis invitus peccare non per privationem voluntatis omnimodam, sed per privationem voluntatis plenae sive complacentiae. Et hoc quidem verum est, quod frequenter inviti peccamus, et nobis displicet, quod sic inordinate movemur; si tamen bene praecavissemus, in hunc actum vel illum non incidissemus, licet non sic possimus praecavere, quin in aliquod cadamus; sicut exemplum ponitur in nauta, qui potest praecavere et custodire, ne aqua per aliquod foramen determinatum ingrediatur; non tamen potest facere, quod per nullum habeat ingressum.
+
+*Ad 2.* Ad illud quod obiicitur, quod quaedam necessitate facta sunt improbanda; dicendum, quod Augustinus loquitur de necessitate venialium, non quantum ad hoc veniale vel illud determinate, sed generaliter quantum ad peccata venialia, vel etiam quantum ad aliquod genus venialis peccati; sicut videmus in iuvene et forti, quod nunquam potest omnino vitare motus carnis, licet possit hac hora vel illa, vel hunc motum vel illum vitare. Et quia nihil impedit, quod sit necessitas quaedam in universali, et voluntas quodam modo in particulari; ideo auctoritas illa non obviat his quae dicta sunt.
+
+*Ad 3.* Ad illud quod obiicitur, quod nonnullum vitium est, cum caro concupiscit adversus spiritum; dicendum, quod verum est. — Sed quod subiungit, quod necessarium est concupiscere: dicendum, quod verum est de concupiscentia, loquendo generaliter; de concupiscentia vero huius vel illius, hoc tempore vel illo, non est verum. Et quod dicit Augustinus, quod concupiscit nolens; et Apostolus[^13]: Quod nolo malum, hoc ago; non privat omnimode voluntatem, sed hoc privat, quod voluntas non est ibi movens principale.
+
+*Ad 4.* Ad illud quod obiicitur, quod primi motus sunt ex surreptione et ex rebellione; iam patet responsio per ea quae dicta sunt. Verum est enim, quod prohiberi, vel praecaveri non possunt generaliter, ita quod nullus insurgat; quilibet tamen per se praecaveri potest. Unde et huius signum[^14] est, quia nos non ponimus, peccatum esse circa primos motus nutritivae, sicut generativae; actus enim nutritivae necessarius est ad salutem nutriti, non autem actus generativae; licet et alia ratio possit assignari: quia nutritiva est corrupta tantum, generativa corrupta et infecta. Prima tamen ratio melius valet. Nam, sicut vult Augustinus in primo de Civitate Dei[^15], si aliqua mulier corrumpatur violenter, si omnino repugnat, absque omni culpa est; et tamen <!-- page 950 --> a delectatione omnino immunis non est. Ait enim sic: « Si illa concupiscentialis inobedientia, quae adhuc in membris habitat, praeter voluntatis legem quasi lege sua movetur, et absque culpa est in corpore non consentientis ». Ex hoc patet, quod si venialia rationem culpae habent, hoc est, quia a voluntate in particulari et divisim vitari et praecaveri possunt.
+
+*Ad 5.* Ad illud quod obiicitur, quod si potest vitari hoc et illud, et sic de singulis, ergo omne; dicendum, quod haec est duplex: iste potest vitare omne peccatum veniale, sicut haec: iste potest vincere omnem hominem: aut quia potentia vitandi, vel vincendi comparatur ad obiectum coniunctim, vel divisim. Si divisim; sic vera est ista; iste potest vitare vel praecavere omne veniale peccatum, quia non est dare aliquod, quod non posset vitari. Si autem coniunctim; tunc est falsa; est enim sensus, quod possit facere, ut omnino sit absque veniali peccato; et in hoc sensu dicitur, quod non possumus omnia peccata venialia vitare. — Nec valet ratio illa: possum vitare hoc et illud et illud, ergo omnia simul; immo est ibi figura dictionis[^16], sive ex diversa suppositione huius quod dico veniale, sive potius, quia proceditur a pluribus determinatis suppositionibus huius verbi potest ad unam; sicut si argueretur: iste potest ferre hunc lapidem et illum et illum, et sic usque ad decem lapides: ergo potest ferre hos decem lapides; et sicut si diceretur: homo est Socrates, homo est Plato: ergo homo est Socrates et Plato. Praemissae sunt verae, et conclusio falsa, et proceditur a pluribus suppositionibus determinatis ad unam. Suppositio autem determinata dicitur, quando terminus non confunditur, sed debet reddere locutionem veram pro uno, sicut est, cum dicitur: homo currit. Sic et in proposito intelligendum est, quia hoc verbum potest, prout accipitur respectu omnis venialis coniunctim, respicit omne veniale tanquam obiectum unum, et dicit unam perfectam potentiam excedentem et vincentem omnem impulsum ad veniale peccatum; sicut si diceretur: iste potest vincere decem homines, vel ferre decem lapides. — Et sic patet, quod ille processus non tenet, quia non servatur ibi lex illationis rectae.
+
+### Scholion
+**I.** Extra controversiam est, quod peccatum, quatenus habet rationem culpae, non potest esse nisi circa ea quae in dominio voluntatis sunt. Hoc autem variis modis intelligi potest, unde S. Doctor (hic dub. 3.) distinguit novem gradus voluntarii. Quo sensu peccatum originale dici possit voluntarium, scilicet voluntate alterius personae, quae fuit caput generis humani, explicatum est supra d. 30. a. 1. 2. et d. 31. a. 1. 2. — De peccatis mortalibus et illis venialibus, quorum proxima et immediata causa et divisim et coniunctim est libera voluntas, nulla est difficultas, sed tantum de peccatis venialibus, quae quidem divisim et in particulari possunt praecaveri, non autem universaliter et coniunctim. Haec difficultas egregie hic explicatur, consentientibus aliis magistris (cfr. Conc. Trident. Sess. VI. c. 11.).
+Alex. Hal., S. p. II. q. 108. m. 1. a. 2. — S. Thom., hic q. 2. a. 1; S. I. II. q. 109. a. 8, q. 77. a. 1. seqq. — B. Albert., hic a. 9; S. p. II. tr. 18. q. 115. a. 2. partic. 1. — Petr. a Tar., hic q. 2. a. 1. — Richard. a Med., hic a. 2. q. 1. — Aegid. R., hic q. 2. a. 1. — Durand., hic q. 2. — Dionys. Carth., hic q. 2.
+
+**II.** Quoad sequentem quaest. vide supra d. 39. dub. 1, ubi duplex ratio affertur, quare malitia (culpa) spectet ad actus voluntatis, non vero aliarum potentiarum. S. Doctor hic apte utitur distinctione inter peccatum ut *culpam*, et peccatum ut *vitium*, et quoad vitium iterum subdistinctione, ut patet in littera (cfr. supra d. 24. p. II. a. 3. q. 1. 2, d. 31. a. 2. q. 3. ad 2.). Hinc infert, peccatum in ratione culpae in sola esse voluntate ut subiecto (cfr. supra d. 32. dub. 1. 2, a. 2. q. 2, et d. 36. a. 1. q. 2.). — Aliis distinctionibus utitur S. Thom., scilicet quod aliquid possit inesse in aliqua potentia vel ut in causa, vel ut in subiecto, quod iterum possit esse vel primum (voluntas), vel proximum (potentia, quae elicit actum). Secundum hanc distinctionem concluditur: « Non solum voluntas potest esse subiectum peccati, sed omnes illae potentiae, quae possunt moveri ad suos actus, vel ab eis reprimi per voluntatem » (S. Thom., S. 1. II. q. 74. a. 2.).
+De hac (2.) quaestione: Alex. Hal., S. p. II. q. 94. m. 5. a. 2, q. 108. m. 6. — Scot., in utroque Scripto, d. 42. q. 1-3. — S. Thom., hic q. 2. a. 2; S. I. II. q. 74. a. 1. 2. — B. Albert., II. Sent. d. 39. a. 1; S. p. II. tr. 22. q. 136. — Petr. a Tar., hic q. 2. a. 2. — Richard. a Med., hic a. 2. q. 2. — Aegid. R., hic q. 2. a. 2. — Durand., II. Sent. d. 39. q. 1. — Dionys. Carth., II. Sent. d. 39. q. 2.
+
+---
 
 ## English
 
-[Translation pending]
+### Article II. *On the comparison of the evil action to the will.*
+
+Next there is inquiry concerning the second principal point, namely concerning the comparison of the evil action to the will. And concerning this three things are asked. First it is asked whether every actual sin, both mortal and venial, is voluntary. Second it is asked whether every mortal sin is in the will as in a subject. Third it is asked whether to be punished, just as also to sin, is proper to the will itself.
+
+### Question I. *Whether every actual sin is voluntary.*
+
+As to the first, the procedure is thus, and it is asked whether every actual sin is voluntary; and since it is certain concerning mortal sin that it is, the inquiry concerns venial sin. And that every venial sin is voluntary, it seems.
+
+1. As Augustine says, and as is had in the text (*littera*)[^1]: « So far is sin voluntary that in no way is it sin unless it is voluntary »: therefore if venial sin is a sin, then it is necessary that it be voluntary. If you should say that every sin is voluntary, either by one's own will or by the will of Adam, and a venial sin is a sin because it is voluntary by the will of Adam: against this it is objected: because, if it suffices for the character of venial sin that it be voluntary by the will of Adam; since that sin which Adam transmitted into us[^2] is original sin, a venial sin would be original sin. But if this is false, it remains that the first too is false.
+
+2. Likewise, the inordinate movements toward illicit things, which are said to be sins in us, are sins neither in little children nor in the insane; but this is only because they are not moved by the use of reason and will[^3]: therefore it seems that sins of this kind are in us voluntary by our own will.
+
+3. Likewise, when the emptied stomach before the hour of eating craves to eat, there is no fault there, although that appetite is immoderate and toward that which is not licit at such a time; but this is only because that movement is present of necessity: therefore it seems that, for some movement toward the illicit to be a venial sin, it is necessary that it be voluntary.
+
+4. Likewise, everything that one does, one does either naturally, or voluntarily, or by violence: if therefore we commit venial sins, then we do so either through violence, or through nature, or through the will. If through violence: then there is no fault there. If through nature: likewise, because in those things which are done naturally[^4] there is no fault: therefore if a venial sin is a fault, it is necessary that it be from the will.
+
+5. Likewise, given some venial sin, either one can avoid this sin, or one cannot. If one cannot, and « no one sins in that which he cannot avoid »: then in committing this sin, he does not sin. If he can avoid it; and what we commit, being able to avoid it, we commit voluntarily: therefore, etc.
+
+**On the contrary:**
+1. Proverbs, chapter twenty-four[^5]: *Seven times in a day* etc.: the Gloss: « Each day, through necessity or the frailty of the flesh, whether willing or unwilling, we sin ». If therefore we sin venially, whether we will or not; it seems that not every venial sin is voluntary.
+
+2. Likewise, Augustine in the book of *Retractations*[^6]: « There are, he says, certain things done of necessity which are to be disapproved, as when one wishes to do rightly and cannot. Whence is that saying of the Apostle: Not what I will, this good I do, but what I hate, the evil »; but such are venial sins: therefore some venial sins are of necessity, and so not from the will.
+
+3. Likewise, Augustine in the nineteenth book of *On the City of God*[^7]: « It is no small vice, when the flesh lusts against the spirit »; but the flesh lusts against the spirit frequently, the man himself being unwilling, as is had in the text: therefore, willing or not, a man sins venially: therefore not every venial sin is voluntary. The minor is proved in the text: « He who, when the flesh lusts against the spirit, does not do the things which he wills, indeed lusts unwillingly, and does in this what he does not will ».
+
+4. Likewise, venial sins are in us from the resistance of sensuality to reason, and also from sudden onset (*surreptio*), as are the first movements; but, willing or not, there is in us the resistance of sensuality, and many inordinate movements also arise from sudden onset. If therefore the will cannot subdue sensuality, and what is from sudden onset forestalls the will; it seems that venial sins, which are first movements, are not voluntary[^8].
+
+5. Likewise, either some venial sin is involuntary, or not. If so, I have my point; if not, then every venial sin is voluntary. But everything voluntary can be avoided through the will: therefore through the will one can avoid every venial sin: therefore one can take care never to sin venially. If therefore this is impossible, that anyone should live long in this flesh without committing some venial sin; it seems that it is necessary to hold that some venial sin is not voluntary.
+
+### Conclusion
+
+> Every actual sin is voluntary either simply, or in a certain respect, as are some venial sins.
+
+**I respond:** It must be said that something can be called voluntary in three ways: either by another's will, or by one's own will, or partly by another's will and partly by one's own will. And according to this threefold mode of speaking of the voluntary, there is a threefold distinction of sin.
+
+For original sin is voluntary, but not by the will of him in whom it is, namely the will of Adam from whom it is, but by the will of him, namely of Adam, who in the transgression corrupted himself and all his posterity[^9]. — But voluntary by one's own will is actual mortal sin; in this kind of sin no one sins except by consenting. — But voluntary in the middle way, namely partly by one's own will and partly by another's will, is venial sin, especially that which arises from the resistance of the flesh to the spirit, or from the corruption[^10] of the powers of the soul. This sin, I say, because it is partly from another's will and partly from one's own will, therefore in a certain way, according to Augustine, holds the character of a penalty, and in a certain <!-- page 949 --> way the character of a fault. Therefore Augustine says[^11]: « Because man did not will to avoid sin while he was able, it has been inflicted that he cannot, when he wills ». Voluntary, I say, it is called by comparison to the will of Adam, because Adam willed deliberately; whence also corruption followed, from which arise in us inordinate movements, which are said to be venial sins. But voluntary by one's own will or by the will of the one sinning, not every venial sin is voluntary simply, but in a certain respect. For that is voluntary simply which is from a will going before and moving. But that which arises from a will accompanying and not prohibiting or forestalling, while it could prohibit or forestall, is called voluntary in a certain way or interpretatively, for this reason, that such disorder is imputed to the will. And in this way at least every venial sin is called voluntary, because no one sins venially except when he has the use of the will; nor does anyone sin venially in that which he can in no way prohibit, nor was even able to forestall. For although all venial sins cannot be forestalled nor prohibited, yet there is no single sin which cannot be prohibited, or which at least could not have been forestalled. For although there may be a state in which it is necessary that someone fall into some determinate sin, yet one could have forestalled that state; and therefore, if he did not forestall it, it is imputed to his will, although then he cannot prohibit it[^12]. — Therefore the reasons showing that every actual sin is voluntary are to be granted. For mortal sin is voluntary simply, while venial sin is either voluntary simply, like that which comes about from deliberation, as a jesting lie; or in a certain respect or in a certain way, like that which comes about from sudden onset, as are the first movements.
+
+**To the objections:**
+*To 1.* As to that which is first objected to the contrary, that each day we sin unwillingly; it must be said that in that Gloss someone is said to sin unwillingly not through a complete privation of will, but through the privation of full will or of complacency. And this indeed is true, that we frequently sin unwillingly, and it displeases us that we are thus moved inordinately; yet if we had taken good care beforehand, we would not have fallen into this act or that, although we cannot so take care that we do not fall into some; just as the example is given of the sailor, who can take care and watch lest water enter through some determinate opening; yet he cannot bring it about that it has entry through none.
+
+*To 2.* As to that which is objected, that certain things done of necessity are to be disapproved; it must be said that Augustine speaks of the necessity of venial sins, not as to this venial sin or that determinately, but generally as to venial sins, or even as to some kind of venial sin; just as we see in a young and strong man, that he can never altogether avoid the movements of the flesh, although he can avoid this hour or that, or this movement or that. And because nothing prevents there being a certain necessity in the universal, and the will being in a certain way in the particular; therefore that authority does not stand against the things which have been said.
+
+*To 3.* As to that which is objected, that it is no small vice when the flesh lusts against the spirit; it must be said that it is true. — But as to what is subjoined, that it is necessary to lust: it must be said that it is true of concupiscence, speaking generally; but of the concupiscence of this thing or that, at this time or that, it is not true. And as to what Augustine says, that one lusts unwillingly; and the Apostle[^13]: The evil that I will not, this I do; it does not deprive the will in every way, but it deprives it of this, that the will is not there the principal mover.
+
+*To 4.* As to that which is objected, that the first movements are from sudden onset and from rebellion; the response is already clear from the things which have been said. For it is true that they cannot be prohibited or forestalled generally, so that none should arise; yet each one taken by itself can be forestalled. Whence also a sign of this[^14] is that we do not hold there to be sin concerning the first movements of the nutritive power, as of the generative; for the act of the nutritive power is necessary for the health of the one nourished, but not the act of the generative; although another reason too can be assigned: because the nutritive power is only corrupted, while the generative is corrupted and infected. Yet the first reason holds better. For, as Augustine holds in the first book of *On the City of God*[^15], if some woman is violated by force, if she altogether resists, she is without any fault; and yet <!-- page 950 --> she is not altogether immune from delight. For he says thus: « If that concupiscential disobedience, which still dwells in the members, is moved beyond the law of the will as if by its own law, it is also without fault in the body of one not consenting ». From this it is clear that, if venial sins have the character of fault, this is because they can be avoided and forestalled by the will in particular and divisively (*divisim*).
+
+*To 5.* As to that which is objected, that if this and that can be avoided, and so of the individual ones, then all; it must be said that this is twofold: "this man can avoid every venial sin," like this: "this man can conquer every man": either because the power of avoiding or of conquering is compared to its object conjointly, or divisively. If divisively; thus this is true; this man can avoid or forestall every venial sin, because there is none to be given which could not be avoided. But if conjointly; then it is false; for the sense is that he could bring it about that he be altogether without venial sin; and in this sense it is said that we cannot avoid all venial sins. — Nor is that reasoning valid: "I can avoid this and that and that, therefore all together"; rather there is there a figure of speech (*figura dictionis*), either from the diverse supposition of this term which I call "venial," or rather because the argument proceeds from several determinate suppositions of this verb "can" to one; just as if it were argued: "this man can carry this stone and that and that, and so on up to ten stones: therefore he can carry these ten stones"; and just as if it were said: "man is Socrates, man is Plato: therefore man is Socrates and Plato." The premises are true, and the conclusion false, and the argument proceeds from several determinate suppositions to one[^16]. But supposition is called determinate when the term is not confused, but ought to render the statement true for one, as it is when it is said: "man runs." So too in the present case it must be understood, because this verb "can," insofar as it is taken with respect to every venial sin conjointly, regards every venial sin as one object, and asserts one perfect power exceeding and conquering every impulse toward venial sin; just as if it were said: "this man can conquer ten men, or carry ten stones." — And thus it is clear that that process does not hold, because the law of right inference is not preserved in it.
+
+### Scholion
+**I.** It is beyond controversy that sin, insofar as it has the character of fault, cannot be except concerning those things which are in the dominion of the will. But this can be understood in various ways, whence the holy Doctor (here, dub. 3) distinguishes nine grades of the voluntary. In what sense original sin can be called voluntary, namely by the will of another person, who was the head of the human race, has been explained above, d. 30, a. 1, 2 and d. 31, a. 1, 2. — Concerning mortal sins and those venial sins whose proximate and immediate cause, both divisively and conjointly, is the free will, there is no difficulty, but only concerning those venial sins which indeed can be forestalled divisively and in particular, but not universally and conjointly. This difficulty is admirably explained here, the other masters agreeing (cf. Council of Trent, Session VI, c. 11).
+Alex. of Hales, S. p. II, q. 108, m. 1, a. 2. — St. Thomas, here q. 2, a. 1; S. I-II, q. 109, a. 8, q. 77, a. 1 sqq. — B. Albert, here a. 9; S. p. II, tr. 18, q. 115, a. 2, partic. 1. — Peter of Tarentaise, here q. 2, a. 1. — Richard of Mediavilla, here a. 2, q. 1. — Giles of Rome, here q. 2, a. 1. — Durandus, here q. 2. — Dionysius the Carthusian, here q. 2.
+
+**II.** As to the following question, see above d. 39, dub. 1, where a twofold reason is brought forward why malice (fault) pertains to the acts of the will, but not of the other powers. The holy Doctor here aptly uses the distinction between sin as *fault* (*culpa*) and sin as *vice* (*vitium*), and, with regard to vice, again a subdistinction, as is clear in the text (cf. above d. 24, p. II, a. 3, q. 1, 2; d. 31, a. 2, q. 3, ad 2). Hence he infers that sin in the character of fault is in the will alone as in a subject (cf. above d. 32, dub. 1, 2, a. 2, q. 2; and d. 36, a. 1, q. 2). — St. Thomas uses other distinctions, namely that something can be in some power either as in a cause or as in a subject, which again can be either primary (the will), or proximate (the power which elicits the act). According to this distinction it is concluded: « Not only the will can be the subject of sin, but all those powers which can be moved to their acts, or be restrained from them, by the will » (St. Thomas, S. I-II, q. 74, a. 2).
+On this (second) question: Alex. of Hales, S. p. II, q. 94, m. 5, a. 2, q. 108, m. 6. — Scotus, in both Scripts, d. 42, q. 1-3. — St. Thomas, here q. 2, a. 2; S. I-II, q. 74, a. 1, 2. — B. Albert, II Sent., d. 39, a. 1; S. p. II, tr. 22, q. 136. — Peter of Tarentaise, here q. 2, a. 2. — Richard of Mediavilla, here a. 2, q. 2. — Giles of Rome, here q. 2, a. 2. — Durandus, II Sent., d. 39, q. 1. — Dionysius the Carthusian, II Sent., d. 39, q. 2.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; the page-by-page mapping is given in the Notes.
+
+[^1]: **La.** Hic c. 3. — In codd. T W et nonnullis aliis deest conclusio: *ergo si peccatum veniale... esse voluntarium.*
+    **En.** Here, c. 3. — In codices T W and certain others the conclusion is lacking: *therefore if venial sin... that it is voluntary.*
+
+[^2]: **La.** In Vat. et edd. 3, 4, ubi cum interpunctione etiam sententia mutata est, legitur sic: *quod Adam transfudit in nos, sit* etc. Pro *transfudit* codd. F H T et alii plures *transfundit.*
+    **En.** In the Vatican edition and edd. 3, 4, where along with the punctuation the sense too is changed, it reads thus: *which Adam transmitted into us, is* etc. For *transmitted* codices F H T and several others read *transmits.*
+
+[^3]: **La.** Cfr. supra pag. 525, nota 6. — De motibus inordinatis cfr. supra d. 21. a. 2. q. 3. schol. et ibid. dub. 4.
+    **En.** Cf. above, p. 525, note 6. — On the inordinate movements cf. above, d. 21, a. 2, q. 3, schol., and ibid., dub. 4.
+
+[^4]: **La.** Cod. T *solet.* — De minori eiusque probatione, quae delibata est ex August., I. Retract. c. 13. n. 5, vide hic lit. Magistri, c. 3.
+    **En.** Codex T reads *is wont.* — On the minor premise and its proof, which is drawn from Augustine, *Retractations* I, c. 13, n. 5, see here the text of the Master (*lit. Magistri*), c. 3.
+
+[^5]: **La.** Vers. 16. Vulgata omittit *in die.* — Glossa deprompta est ex Beda super hunc loc. et habetur apud Strabum et Lyranum. — Mox pro *velimus nolimus,* quod habent plurimi codd. et ed. 1, in Vat. aliisque edd. et codd. *vel velimus, vel nolimus.*
+    **En.** Verse 16. The Vulgate omits *in a day.* — The Gloss is drawn from Bede on this passage and is found in Strabo and Lyranus. — Presently, for *whether we will or not,* which very many codices and ed. 1 have, the Vatican edition and other editions and codices read *either we will, or we will not.*
+
+[^6]: **La.** August., III. de Lib. Arb. c. 18. n. 50. Cfr. supra d. XXVIII. lit. Magistri, c. 3. et ibid. dub. 3.
+    **En.** Augustine, *On Free Choice of the Will* III, c. 18, n. 50. Cf. above, d. XXVIII, text of the Master, c. 3, and ibid., dub. 3.
+
+[^7]: **La.** Libr. 1. c. 9. n. 5, et III. de Lib. Arb. c. 18. n. 51. Cfr. supra d. XXXVI, lit. Magistri, c. 5, et ibid. dub. 4. — Verba Apostoli habentur Rom. 7, 19.
+    **En.** Book I, c. 9, n. 5, and *On Free Choice of the Will* III, c. 18, n. 51. Cf. above, d. XXXVI, text of the Master, c. 5, and ibid., dub. 4. — The words of the Apostle are had in Rom. 7:19.
+
+[^8]: **La.** Cap. 1. n. 3, ubi ostendens, ipsam virtutem in hac vita propter conflictum cum vitiis imperfectam esse, ait: *Neque enim nullum est vitium, cum sicut dicit Apostolus (Gal. 5, n.): Caro concupiscit adversus spiritum, cui vitio contraria virtus est, cum, sicut idem dicit: Spiritus concupiscit adversus carnem* etc.
+    **En.** Chapter 1, n. 3, where, showing that virtue itself in this life is imperfect on account of the conflict with the vices, he says: *For neither is there no vice, since, as the Apostle says (Gal. 5): The flesh lusts against the spirit, to which vice the contrary virtue is, when, as the same says: The spirit lusts against the flesh* etc.
+
+[^9]: **La.** Cfr. supra lit. Magistri, d. XXIV. c. 9. et 12. atque ibid. Comment. p. II. a. 3. q. 1.
+    **En.** Cf. above, the text of the Master, d. XXIV, c. 9 and 12, and there the Commentary, p. II, a. 3, q. 1.
+
+[^10]: **La.** Quamvis plerique codd. primaeque edd. exhibeant *vel corruptionis,* tamen lectio Vat. nobis facilior visa est eamque relinquimus.
+    **En.** Although most codices and the first editions exhibit *or of the corruption,* yet the reading of the Vatican edition seemed to us easier, and we retain it.
+
+[^11]: **La.** Libr. III. de Lib. Arb. c. 18. n. 52: *Illa est enim peccati poena iustissima, ut omittat quisque quo bene uti noluit, cum sine ulla posset difficultate, si vellet. Id est autem, ut qui sciens recte non facit, amittat scire, quid rectum sit; et qui recte facere, cum posset, noluit, amittat posse, cum velit.* — Pro *Quia homo* codd. H V Y ee et nonnulli alii *quod homo,* et subinde pro *non voluit* codd. F V atque ed. 1 *noluit.*
+    **En.** Book III, *On Free Choice of the Will*, c. 18, n. 52: *For this is the most just penalty of sin, that each one should lose that which he was unwilling to use well, when he could without any difficulty, if he wished. And that is, that he who knowingly does not act rightly should lose the knowledge of what is right; and he who, when he was able, was unwilling to act rightly, should lose the ability, when he wishes.* — For *Because man* codices H V Y ee and certain others read *that man,* and thereupon for *did not will* codices F V and ed. 1 read *was unwilling.*
+
+[^12]: **La.** Cfr. hic lit. Magistri, c. 3. — Paulo ante pro *imputatur* cod. T *imputabitur.* Paulo inferius pro *ostendentes, quod* verbum *quod* multi codd. nec non primae edd. omittunt, cod. V *quae ostendunt.*
+    **En.** Cf. here the text of the Master, c. 3. — A little before, for *is imputed* codex T reads *will be imputed.* A little below, for *showing that,* the word *that* many codices as well as the first editions omit; codex V reads *which show.*
+
+[^13]: **La.** Rom. 7, 19. — Dictum Augustini vide supra in ipsa 3. obiectione, ad quam hic respondetur. — In principio huius solut. ante *nonnullum vitium* Vat. cum pluribus codd. perperam inserit *non.*
+    **En.** Rom. 7:19. — For the saying of Augustine see above in the third objection itself, to which reply is here made. — At the beginning of this solution, before *no small vice,* the Vatican edition with several codices wrongly inserts *not.*
+
+[^14]: **La.** Complures codd., inter quos L O R W, *ratio.* In Vat. et edd. 2, 3, 4 legitur: *Et ratio huius est,* in codd. C H 3 T ee: *Unde et huius est* (omissa voce *signum*). Paulo superius post *insurgat* cod. K supplet *motus.* — Vide supra d. 31. a. 1. q. 3.
+    **En.** Very many codices, among them L O R W, read *reason.* In the Vatican edition and edd. 2, 3, 4 it reads: *And the reason of this is,* in codices C H 3 T ee: *Whence also of this there is* (the word *sign* being omitted). A little above, after *should arise,* codex K supplies *movement.* — See above, d. 31, a. 1, q. 3.
+
+[^15]: **La.** Cap. 23: *Quodsi illa concupiscentialis inobedientia, quae adhuc in membris moribundis habitat, praeter nostrae voluntatis legem quasi lege sua movetur, quanto magis absque culpa est in corpore non consentientis, si absque culpa est in corpore dormientis?* — Codd. F X bb in testimonio Augustini ante ultima verba *non consentientis* interserunt *dormientis, quanto magis est absque culpa in corpore.* Vat. hoc testimonium sic reddit: *Si illa... inobedientia, quod adhuc... voluntatis legem, quia lege sua movetur, ab omni culpa immunis est in* etc.
+    **En.** Chapter 23: *But if that concupiscential disobedience, which still dwells in the dying members, is moved beyond the law of our will as if by its own law, how much more is it without fault in the body of one not consenting, if it is without fault in the body of one sleeping?* — Codices F X bb in the testimony of Augustine, before the last words *not consenting,* insert *sleeping, how much more is it without fault in the body.* The Vatican edition renders this testimony thus: *If that... disobedience, which still... the law of the will, because it is moved by its own law, is immune from all fault in* etc.
+
+[^16]: **La.** Cfr. hic lit. Magistri, c. 3. — Paulo ante pro *non posset* codd. O S *ne unquam.* Dein pro *venialiter* codd. V X Z *voluntarie.* — Aliquanto superius pro *modum dicendi* Vat. *modum distinguendi,* et paulo inferius eadem Vat. verbis *hoc quidem genere* praefigit *et.*
+    **En.** Cf. here the text of the Master, c. 3. — A little before, for *could not* codices O S read *never.* Then for *venially* codices V X Z read *voluntarily.* — Somewhat above, for *mode of speaking* the Vatican edition reads *mode of distinguishing,* and a little below the same Vatican edition prefixes *and* to the words *this indeed in kind.*
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from IA djvu OCR (`raw/bonaventure_vol2_raw.txt` lines 65832–66063) with PDF column-band verification at 450 dpi (printed pp.947–950 = PDF 969–972, offset +22). The OCR body for this quaestio was clean (single-column running prose usable as base); the PDF L/R body and footer bands were read to confirm anchors and apparatus and to resolve a few OCR garbles (`Cod. T solet`, the Respondeo's *peccatum originale voluntarium est, sed...voluntate eius...Adae* clause heavily fragmented in OCR, reflowed from PDF).
+
+**Folded ARTICULUS II opener.** Per Vol II convention (Override §5), the short ARTICULUS II opener (`Consequenter quaeritur circa secundum principale...Et circa hoc quaeruntur tria...`) + the article subtitle *De comparatione actionis malae ad voluntatem* are folded into this q1; there is no standalone `d41-a2-divisio` chunk. The three sub-questions of Art. II are: q1 = utrum omne peccatum actuale sit voluntarium (this chunk); q2 = utrum omne peccatum mortale sit circa voluntatem sicut circa subiectum; q3 = utrum puniri, sicut etiam peccare, sit ipsius voluntatis proprium.
+
+**Alignment check (passed).** Opener `Primo quaeritur, utrum omne peccatum actuale, tam mortale quam veniale, sit voluntarium` = QUAESTIO I title `Utrum omne peccatum actuale sit voluntarium` (the FIRST of the "quaeruntur tria"). No q-swap. Note: the article subtitle in print reads *actionis malae* (not *peccati*) — verified at 450 dpi against the coordinator's *de comparatione peccati* gloss; the printed text is *De comparatione actionis malae ad voluntatem.*
+
+**Scholion disposition.** `has_scholion: true`. This q1 holds the **article-level** SCHOLION (items I–II) printed at the foot of p.949 onto p.950. Item II explicitly forward-references "the following question" (*Quoad sequentem quaest....*, i.e. q2, on sin being in the will as in a subject) and gives the q2 parallel-place register, so **q2 and q3 have NO own scholion** — confirm independently before setting has_scholion=false there.
+
+**Apparatus page-split map** (per-page footer restart; 16 raw footers → 16 sequential `[^N]` markers, 1:1):
+- **p.947** footer nn.1–3 → [^1]–[^3]. n.1 (`Hic c. 3`) anchors Fund. 1 (*in littera*); n.2 (*transfudit* var.) anchors arg. 1 (*in nobis*); n.3 (*Cfr. supra pag. 525...d.21*) anchors arg. 2 (*usu...voluntatis*).
+- **p.948** footer nn.1–5 → [^4]–[^8]. n.1 (`Cod. T solet` + *De minori...Retract.*) → [^4] (arg. 4, *naturaliter fiunt*); n.2 (August. III de Lib. Arb. c.18 n.50) → [^6] (Sed contra 2, Retractationum); n.3 (Prov. *Vers. 16*) → [^5] (Sed contra 1, *vigesimo quarto*); n.4 (Libr. I c.9 + Rom 7,19) → [^7] (Sed contra 3, *de Civitate Dei*); n.5 (Cap. 1 n.3, Gal. 5) → [^8] (Sed contra 4, *non sunt voluntaria*). Footnote ORDER on the page follows print column flow; markers reordered to body anchor.
+- **p.949** footer nn.1–4 → [^9]–[^12]. n.1 (*Cfr...lit. Magistri d.XXIV*) → [^9] (Respondeo, *totam posteritatem*); the *vel corruptionis* var. → [^10] (Respondeo, *ex corruptione*); n. (Libr. III de Lib. Arb. c.18 n.52, *Illa est...peccati poena*) → [^11] (Respondeo, Augustine *Quia homo non voluit*); n. (*Cfr. hic lit. Magistri c.3* + *imputatur* var.) → [^12] (Respondeo tail, *prohibere non possit*). The R-col footers (Rom 7,19 / *ratio* var. / Cap. 23 de Civ. Dei) → [^13], [^14], [^15] (replies *Ad 3*, *Ad 4*, *Ad 4* Augustine Civ. Dei I).
+- **p.950** footer → [^16] (*Cfr. hic lit. Magistri c.3* + *non posset*/*ne unquam* + *figura dictionis* region var.), anchors *Ad 5* (*figura dictionis*). The scholion (items I–II) carries no inline footnote markers.
+
+**Hand-offs IN (from d41-a1-q3):** NONE — Article I (incl. its closing scholion §I–III) fully consumed by a1-q3; a2-q1 opened cleanly at top of p.947 L-col with its own fresh p.947 footer block.
+
+**Hand-off forwarded to a2-q2:** NONE. q1 ends with its article-level scholion (I–II) at foot of p.950; QUAESTIO II (raw 66064, *Utrum peccatum sit in sola voluntate sicut in subiecto*) begins on p.950 R-col / p.951 with its own fresh per-page footer sequence. q2 `has_scholion`: likely FALSE per Scholion item II above (which already treats the *sequens quaestio* and gives its parallel-place register) — confirm independently. a2-q3 at raw 66237.
+
+**[?] flags:** none. (The OCR garble `Cod. T SWlt` resolved to `Cod. T solet` from the p.948 footer band at 450 dpi; the cascade-fragmented Respondeo *peccatum originale...voluntate eius...Adae* clause reflowed from the p.948 R-col PDF body band.)
