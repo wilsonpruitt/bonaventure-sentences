@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-05-31 (d41-dubia promoted → Tier 2, commit 4d75432)
+**Last updated:** 2026-05-31 (d41-dubia promoted → Tier 2, commit c81c137)
 
 **Branch:** master
 
@@ -19,7 +19,7 @@
 | `d41-a2-q1` | Tier 2 complete |
 | **`d41-a2-q2`** | **auto-chunked skeleton — NEXT ACTION** |
 | `d41-a2-q3` | Tier 2 complete |
-| `d41-dubia` | Tier 2 complete (commit 4d75432) |
+| `d41-dubia` | Tier 2 complete (commit c81c137) |
 
 ### d41-a2-q2 facts (for the dispatch)
 
