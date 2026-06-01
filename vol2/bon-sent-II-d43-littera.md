@@ -4,156 +4,117 @@ volume: 2
 book: 2
 distinctio: 43
 type: littera
-line_start: 68026
-line_end: 68156
-word_count_latin: 1833
-transcription_status: "auto-chunked 2026-05-30"
+title_la: "De peccato in Spiritum sanctum (Littera Magistri)"
+title_en: "On the sin against the Holy Spirit (the text of the Master)"
+printed_pages: [979, 980, 981]
+pdf_pages: [1001, 1002, 1003]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 979–981 (Petri Lombardi Sententiae, Lib. II, Dist. XLIII, Cap. unicum)"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF (printed pp. 979–981), fresh literal English translation, full apparatus from raw OCR + PDF footers (13 entries: p.979 NOTAE AD LIBR. SENTENTIARUM 3 + p.980 10), scholion n/a (littera), [?] flag on p.981 orphaned littera markers (2026-05-31)"
 format_version: 1
 ---
 
-# bon-sent-II-d43-littera
+# I Sent. (Lombard) — Liber II, Distinctio XLIII, Cap. unicum
+## *De peccato in Spiritum sanctum*
+
+---
 
 ## Latin
+<!-- page 979 -->
 
-DISTINCTIO XLIII.
+### DISTINCTIO XLIII.
+### *Cap. unicum. De peccato in Spiritum sanctum.*
 
-                                        C.\P.   UNICU.M.
-                                                                                       et quipeccat in Filium, remitletur ei; qui aulem blas- nuLinm 2.
-                                                                                       phemaverit in Spirilum sanctiim, non remiuelur ei ,
-                          De peccato in Spirilum sanclum.                              neque hic neque in futuro. — Sed quaeritur, qnid slt Quid siihoc
-                                                                                                             in Spiritum
-                                                                                                 ijeccatumdiciint,           saiiclum vel ad morlem. ''"'"^ °"'
-                   Est praeterea quoddam peccatl genus celeris gra-                    —illiid« Quidam             illnd esse peccatnm dcsperatiofiis , .\ssiemiioi.
-              vius el abominabiliiis, quod dicitur peccatimi in Spiri-                  vel oljslinalionis. Obstinatio est induratac in maiitia
-              tum sanctum, de qiio in Evangelio ' Verilas ail: Qui                     mentis perlinacia , per qnam homo fit impoenilens.
-              peccaveril in Spiritum sanclum, non remilletur ei,                       Desperatio est, qua quis penilus diffidit de Dei boni- Ouijium 3.
-              neque hic neque in futuro. El loannes in Epistola ca-                     lale, aeslimans, suam malitiam divinae boiiit;itis niagni-
-              nonica: Est peccatum admortem; non pro eo dico, ut                        tudinem excedere^ », siciil Caiii, qni dixit': Maior est
- iini.iiim 1. qiiis orel. Qui enim peccat in Patrem, remiltetur el;                    iniquitas mea , quam ut veniam merear. Ulrurnque
+Est praeterea quoddam peccati genus ceteris gravius et abominabilius, quod dicitur peccatum in Spiritum sanctum, de quo in Evangelio[^1] Veritas ait: *Qui peccaverit in Spiritum sanctum, non remittetur ei, neque hic neque in futuro.* Et Ioannes in Epistola canonica: *Est peccatum ad mortem; non pro eo dico, ut quis oret. Qui enim peccat in Patrem, remittetur ei; et qui peccat in Filium, remittetur ei; qui autem blasphemaverit in Spiritum sanctum, non remittetur ei, neque hic neque in futuro.* — Sed quaeritur, quid sit illud peccatum in Spiritum sanctum vel ad mortem. — « Quidam dicunt, illud esse peccatum *desperationis*, vel *obstinationis*. Obstinatio est induratae in malitia mentis pertinacia, per quam homo fit impoenitens. Desperatio est, qua quis penitus diffidit de Dei bonitate, aestimans, suam malitiam divinae bonitatis magnitudinem excedere[^2] », sicut Cain, qui dixit[^3]: *Maior est iniquitas mea, quam ut veniam merear.* Utrumque
 
+<!-- page 980 -->
 
-                   ' Hic c. 7. — Locus ex I. ad Timolh. ultim. allatus est                  5 Vat. et edd. 2 , 3 , i omittinit et radicis. — Cfr. de hoc
-             V. 10.                                                                    dabio .\lex. Ilal., S. p. II. q. 136. m. I ; B. Albert., hic a. 8;
-                   - Vat. cum edd. 3, 4 trahitur. Paulo superius pro inchoat           S. p. II. tr. 18. q. IIS. m. 3; S. Thom., hic q. 2. a. I. ad 7 ;
-             cod. bb subslituit inchoatur ; paulo inferius post trahat cod. T          Petr. a Tar. et Richard. a Med., liic circa lit. ; .Egid. R., hic
-             subiicit nutrimentum el.                                                  q. 2. a. I. cl diib. lit. 7.
-                   ■' Edd. liic et paulo post ex ratione.
-                   * Cfr. .\rislot. , II. de Parlib. animal. c. 10. — Aliquanlo                     NOTAE AD LIBR. SENTENTIARUM.
-             superius pro aliquando cod. T habet quandoque, et deinde
-             cum codd. F V \V etc. Capitale aulem initium pro Capitale                      ' Mallh. 12, 32; deinde I. loan. .5, 16; Marc. 3. 29, ct
-             avlem vitium. lidem codd. eliani paulo inferius pro vilium exhi-          Luc. 12, 10, scd verba aliquotenus inter se commixta sunl.
-             bent initium.                                                                  ' Glossa in Rom. 2, -5, ex qua etiani multa, quae sequun-
-                   5 Cod. T est. Mox post duplex est radix cod. 0 adiicit              tur, excerpla sunl, intcrdum verbotenus.
-                                                                                            3 Gen. i, 13.
-             peccati, De hac duplici radice peccali -vide hic lil. i\Iagislri, c. 4.
-           980                                                     SENTENTIARUM        Lllj. II.
+vero dicitur peccatum in Spiritum sanctum, quia Spiritus sanctus amor est Patris et Filii, et benignitas, qua se invicem et nos diligunt, quae tanta est, cuius finis non est. Recte ergo in Spiritum sanctum delinquere dicuntur, qui sua malitia Dei bonitatem superare putant, et ideo poenitentiam non assumunt, et qui iniquitati tam pertinaci mente inhaerent, ut eam nunquam relinquere proponant et ad bonitatem Spiritus sancti nunquam redire, patientia Dei abutentes et de misericordia Dei nimis praesumentes; quibus placet malitia propter se, sicut piis bonitas. *Isti* nimia *pertinacia* et *praesumptione* peccant, autumantes, Deum non esse iustum; *illi desperatione* Deum non bonum existimant, tollentes in hoc turbulentissimo iniquitatum mari portum divinae indulgentiae, quo se recipiant fluctuantes. Atque ipsa desperatione addunt peccata peccatis dicentes: Misericordia nulla est, et super peccatores necessaria damnatio debetur.
 
-              vero iliciliir peccalum in Spirilum sancliiin, qiiia Spi-                 Est etiam alia buius peccati assignatio. Hoc enim.\ssignatio2,
-              riins snncUis amoi" csl Palris el Filii, el, benii^nilas, qiia       peccatum Augustinus denniens in libro de Sermone Do-
-              se invicem ct nos dilignnt, qnae lanta est, cuins finis              mini in nionle ' ait: « Peccatum ad mortem est, cum
-              non esl. Recte ergo in Spirilum sanctiim delinquere di-              post agnitionem Dei per gratiam Christi oppugnal ali-
-              cuntur, qui siia maiilia Dei bonilatem superare putant,             quis fraternitatem , et adversus ipsam gratiam , qua
-              et ideo poenitentiam non assuniunt, et qui iniquilati               reconciliatus est Deo, invidentiae facibus agitalur »;
-              tam perlinaci menle inhaerent, ut eam nunquam re-                    « (|uod fortasse est peccare in Spiritum sanctuni ,
-              linqiiere proponant el ad bonitatcm S))iritus sancii nun-           quod peccatnm dicitur non remitti » , « non quia uon
-              quam redire, patienlia Dei abulentes et de inisericor-              sit ignoscendum peccanti, si poenileat, sed quia tanla
-              dia Dei nimis praesumentes ; quibus placet malitia                  labes est peccati illius , ut deprecandi huniilitalem sub-
-              propter se, sicut piis boiiitas. hli iiimia per/.inacia et          ire non possit, etiamsi peccalum suuin niala conscien-
-             praesiantione peccanl , autuinantes , Deum non esse                  lia agnoscere el eniintiare cogalur; ut ludas, cum dixit
-              iustum; illi desperationc Deum nou bonum existimanl',               peccavi, facilius desperans cucurril ad laqueum, quam
-              tolleiiles in hoc turbulentissimo iniquilalum niari por-            humilitate veniam peteret; quod propter magnitudinem
-              lum divinac indulgentiae, quo se recipiant llucluautes.             peccati iam ex damnatione peccati tales habere cre-
-              AUiue ipsa desperalione addunt peccata pcccatis dicen-              dendum est». — Ecce , quaedam assignatio peccati in
-              tes: Misericordia nulla est, et super peccatores neces-             Spiritu.m sanctum vel ad mortem hic posila est, qua
-              saria dainnalio debetur.                                            illud peccalum esse traditur oppugnalio fraternitatis
-                    Sed (iiiaeritur, utrum omnis obstinatio mentis in             post agnitionem , et mvidentia gratiae post reconcilia-
-Dobiiaiioin-malitia obduratae, omnis(|ne f/es^jerofto sit peccatum in             tioneni ; quod species quaedam obstinationis intelligi
- cidens.      Spiritum sanctum. — Quidam dicunt, onmem obslina-                   potest. — Illam tainen definitionein Augustiuus iu libro Espianatur.
-  Soiuiio I. tionem et omneni desperationeni esse peccatuni in Spi-               Retractalionum " rememorans, aliquid adiiciendum ibi
-              ritum saiiclum. Quod si esl, aIi(|uando illud peccatum              fore , nec asserendo se dixisse aperit , ita dicens :
-             remillitur, qnia multi etiam obstinatissimi et despera-              « Ouod qiiideni non confirmavi , quoniam hoc putare
-             tissimi convertuntur, ut Auguslinus ail super ilium lo-              me dixi. Sed tamen addendum fuit : si in hac scele-
-             cuin Psalmi": Converiam in profimdummaris, id est,                   rata menlis perversitate fmieril hanc vitam, quoniam
-             eos « qui erant desperatissimi », ct ibi : Mitlit crystal-           de quocuinque pessimo, in hac vita constituto, non est
-             lum smm sicut bucceUus^ id est, « obstinatos facit alio-             desperaiidum; ncc pro illo imprudcnter oratur, de quo
-             ruin doctores ». Talinin conversio ibi eliam evidenter               uon desperatur ». — His verbis insiniialur, peccalum
-             ostenditur, ubi ait: Qid educit vinctos in fortiludine ;             praemissa deflnilione deseriptum tunc solum debere
-             similiter eos qui exasperant ^ qui habilcmt in sepul-                dici ad morlem , vel in Spiritum Sanctum, cum non
-             cris. Secundum istos illud peccatum dicitur irremis-                 habet comitem poeniteniiam, ncc de aliquo peccatore
-             sitril.e, non quin aliquando remitlalur, sed quia vix et             in hac vita desperandum esse, el ideo pro omni esse
-             raro et diflicnUer dimillitur. Non cnim solvitiir cry-               orandum. Unde illiid loannis: I\'on pro eo dico, iit quis
-  soiuiio 5. stallus, nisi vebenienli spirilus impelu. — Alii vero tra-           oret, sic accipiendiim videtur, ut pro aliquo peccante
-             dunt, non quamlibet obstinationem vel desperationem                  ad mortem vel in S|)iritum sanctum, postquam finie-
-             appellari peccatiim in Spiriluni sancluni, sed illam                 rit hanc vitam, non orenius. Dum auleni in hac vita
-             tanlum, quam comilalur impoeiiiienlia; qiii etiam im-                est, nec peccatum illius iudicare nec de illo desperare,
- De iiiipoe- mienilentia.m dicunt peccatiiin in Spiritum sanclum.                 sed pro illo orare dehemus. Unde Augustinus, de Ver-AususUnas.
-             Sed quia Auguslmus dicit, vmpoemtentiam esse pecca-                  bis Domini^de impoeniteulia, quae est blasphemia in
-             lum in Spirilum sanctum, cum sic obstinatus est ali-                 Spiritiim sanctum,sic ait: « Ista impoenilentia vel cor
-             quis, ut nnn poenilcat; disculi oportet. aii aliud * obsti-          impoenitcns, quamdiu quisque in bac carne vivit, non
-             nalio, aliud iuipoenitentia sit in eo peccalum, an idem,             ])oiesl iudicari. De nullo enim desperandum est, quam-
-             sed diversis modis commissum. Sccundum islos pecca-                  diu patienlia Dci cul poenitentiam adducit. Paganus est
-             tum illud dicitur irremissibile , eo qiiod nunquam di-               hodie, ludaeus, infidelis est hodie, baereticus csl hodie,
-             miltatur. Unde Augiistinus* ctiam dicit, quod Iioc soluni            schismaticus est hodie, quid si cras anipleelatur catbo-
-             peccatum veiiiam mereri non potest ; et Hieronymus                   licam pacem et seqnatur catholicam verilalem? Quid
-             superMarcum, quod taliler peccans digne poenitere                    si isti , (pios in quoeunique genere erroris nolas et
-             non potest. Et ideo recle loaniies dicit, ut non pro eo              tanquam desperalissinios damnas, antequam flniant
-             oret (]uis ; quia qni sic peccat oralionibiis Ecclesiae              islam vitam, agaiit poenitciitiam et inveniant veram
-             hic, vel in futuro iiivari noii potesl, liabcns cor iiidii-          i'e(|uiem et vitam in luturo ? ^olite ergo anle tempus
-             ratnin tanquani lapis, sieut dc di:ibolo legitur ". Post             iudicare quidquam" ». — Ex his oslenditur, pro sin-
-             banc vilam (lui valde mali sunt mcritis Ecclesiae iuvari             gulis peceatoribus in hac vita esse orandum, nec de
-             non possunl.                                                         aliquo esse diflidendum, quia converti polest, dum in
+Sed quaeritur, utrum omnis *obstinatio* mentis in malitia obduratae, omnisque *desperatio* sit peccatum in Spiritum sanctum. — Quidam dicunt, *omnem* obstinationem et omnem desperationem esse peccatum in Spiritum sanctum. Quod si est, aliquando illud peccatum remittitur, quia multi etiam obstinatissimi et desperatissimi convertuntur, ut Augustinus ait super illum locum Psalmi[^4]: *Convertam in profundum maris,* id est, eos « qui erant desperatissimi », et ibi: *Mittit crystallum suam sicut buccellas,* id est, « obstinatos facit aliorum doctores ». Talium conversio ibi etiam evidenter ostenditur, ubi ait: *Qui educit vinctos in fortitudine; similiter eos qui exasperant, qui habitant in sepulcris.* Secundum istos illud peccatum dicitur irremissibile, non quin aliquando remittatur, sed quia vix et raro et difficulter dimittitur. Non enim solvitur crystallus, nisi vehementi spiritus impetu. — Alii vero tradunt, non quamlibet obstinationem vel desperationem appellari peccatum in Spiritum sanctum, sed illam tantum, quam comitatur impoenitentia; qui etiam *impoenitentiam* dicunt peccatum in Spiritum sanctum. Sed quia Augustinus dicit, *impoenitentiam* esse peccatum in Spiritum sanctum, cum sic obstinatus est aliquis, ut non poeniteat; discuti oportet, an aliud[^5] obstinatio, aliud impoenitentia sit in eo peccatum, an idem, sed diversis modis commissum. Secundum istos peccatum illud dicitur irremissibile, eo quod nunquam dimittatur. Unde Augustinus[^6] etiam dicit, quod hoc solum peccatum veniam mereri non potest; et Hieronymus super Marcum, quod taliter peccans digne poenitere non potest. Et ideo recte Ioannes dicit, *ut non pro eo oret quis;* quia qui sic peccat orationibus Ecclesiae hic, vel in futuro iuvari non potest, habens cor induratum tanquam lapis, sicut de diabolo legitur[^7]. Post hanc vitam qui valde mali sunt meritis Ecclesiae iuvari non possunt.
 
+Est etiam alia huius peccati assignatio. Hoc enim peccatum Augustinus definiens in libro de Sermone Domini in monte[^8] ait: « *Peccatum ad mortem* est, cum post agnitionem Dei per gratiam Christi oppugnat aliquis fraternitatem, et adversus ipsam gratiam, qua reconciliatus est Deo, invidentiae facibus agitatur »; « quod fortasse est peccare in Spiritum sanctum, quod peccatum dicitur *non remitti* », « non quia non sit ignoscendum peccanti, si poeniteat, sed quia tanta labes est peccati illius, ut deprecandi humilitatem subire non possit, etiamsi peccatum suum mala conscientia agnoscere et enuntiare cogatur; ut Iudas, cum dixit *peccavi,* facilius desperans cucurrit ad laqueum, quam humilitate veniam peteret; quod propter magnitudinem peccati iam ex damnatione peccati tales habere credendum est ». — Ecce, quaedam assignatio peccati in *Spiritum sanctum* vel *ad mortem* hic posita est, qua illud peccatum esse traditur oppugnatio fraternitatis post agnitionem, et *invidentia gratiae* post reconciliationem; quod species quaedam *obstinationis* intelligi potest. — Illam tamen definitionem Augustinus in libro Retractationum[^9] rememorans, aliquid adiiciendum ibi fore, nec asserendo se dixisse aperit, ita dicens: « *Quod quidem non confirmavi, quoniam hoc putare me dixi. Sed tamen addendum fuit: si in hac scelerata mentis perversitate finierit hanc vitam,* quoniam de quocumque pessimo, in hac vita constituto, non est desperandum; nec pro illo imprudenter oratur, de quo non desperatur ». — His verbis insinuatur, peccatum praemissa definitione descriptum tunc solum debere dici ad mortem, vel in Spiritum sanctum, cum non habet comitem poenitentiam, nec de aliquo peccatore in hac vita desperandum esse, et ideo pro omni esse orandum. Unde illud Ioannis: *Non pro eo dico, ut quis oret,* sic accipiendum videtur, ut pro aliquo peccante ad mortem vel in Spiritum sanctum, postquam finierit hanc vitam, non oremus. Dum autem in hac vita est, nec peccatum illius iudicare nec de illo desperare, sed pro illo orare debemus. Unde Augustinus, de Verbis Domini[^10] de impoenitentia, quae est blasphemia in Spiritum sanctum, sic ait: « Ista impoenitentia vel cor impoenitens, quamdiu quisque in hac carne vivit, non potest iudicari. De nullo enim desperandum est, quamdiu patientia Dei ad poenitentiam adducit. Paganus est hodie, Iudaeus, infidelis est hodie, haereticus est hodie, schismaticus est hodie, quid si cras amplectatur catholicam pacem et sequatur catholicam veritatem? Quid si isti, quos in quocumque genere erroris notas et tanquam desperatissimos damnas, antequam finiant istam vitam, agant poenitentiam et inveniant veram requiem et vitam in futuro? *Nolite ergo ante tempus iudicare quidquam* ». — Ex his ostenditur, pro singulis peccatoribus in hac vita esse orandum, nec de aliquo esse diffidendum, quia converti potest, dum in
 
-               ' tcld. I , S aestimant, et pLitilo su)ici'uis di'ri'lin(jinmt     sensum iii Marc. 3, 29. et Matlli. 27, 4, sed verbolenus est
-          flvo rcHmimmt.                                                          in Glossa interlineari.
-               ■ linuiTal. iii Ps. 67, 23. n. 31. Deinile Glossa inlerlinea-           « lub 41, l-5,ubiS. Giegor., XXXIV. .Moral. c. 7. n. IS.
-          ris in l>s. I.i7, 17, ex Enarrat. n. 23. in liunc Ps. Terlius lo-       ad nonien Leviatlian ista dicit.
-          cus est Ps. ()7 , 7.                                                         ' Libr. I. c. 22. n. 73 ; seq. locus ibid. n. 75 ; lerlius
-               ^ Serm. 71. (alias de Vcrbis Dom. II.) c. 12. n. 20.               ibid. n. 74.
-                ■• Viit. aliacque edd. addtinl sit , relVaganlibus codd. B C ti        8 Libr. I. c. 19. n. 7.
-          et (Hld. I, 8.                                                              s Serm. 71. (ut supra) c. 13. n. 21.
-               5 Loc. cil. , scd ciuod seiiuittir dicil lliei-onymus secundiim        '» Episl. 1. Cor. 4, 3.
-                                                            DIST. XLlll. DIVISIO TEXTUS.                                                 981
+<!-- page 981 -->
 
-               liac vila esl; quia nou potesl sciri cle aliqiio, utrum          gnitatem, maiestatem et potestatem abneget sempiter-
-               peccaverit ad morteni vel iu Spiritura sanctum, nisi             nam et putet, no7i in spiritu Dei eiici daemonia, sed
-              cum al) liac vita cliscesserit, nisi forte alicui per Spl-        in Beelzebub , non polest ihi exhortatio esse veniae, ubi
-              rituni sanctum mirabiliter revelatum fueril. Ex prae-             sacrilegii pleuiludo est». — Satls aperte hic explica-
-              cliclis aliqunlcnus capi polest, quomodo accipialur pec-          tur, quid sit peccatum in Spiritum sanctnm. Onod illi
-              catum iii Siiirituni sanctum, scilicet invideniia graliae         Auguslini descriptioni congruere videtur , (|ua illud
-              fraternitatem impoenitenler oppugnans, qnae utique                peccatum dicitur esse invidentia gratiae oppugnans
-              obstinatio csse videtur, et omnis impoenilentis obsli-            jraternitatem. Qui enim post cognitionem veritatis san-
-              nalio alque desperatio. Nolandum vero est, quod non               cti Spirilus veritaiem negat, eiusque opera dicit esse
-              omnis qui non poenitet, impoenilens dici polest, quia             Beelzebub , potestati , honitati et gratiae Dei invidere
-              impoenitentia proprie obstinati est, et, iit quidam vo-           non ....
-                                                                                     dubilatiir. — Non .itaqne
-                                                                                                          , .
-                                                                                                               disliiiclio illa verborum
-                                                                                                                                  ...
-                                                                                                                                         sic  Dubiiaiio
-                                                                                                                                         . , solvilur.
-              lunt, etiam desperati.                                            aecipienda est, quasi Irium personarum clivisae smt
-                     Dc hoc qnoque peccato in Spii'itum sanctuin Am-            ofiensae , sed ihi genera peccatorum distincta snnt.
-  Assifinatio                                                                   Peccalum eniin in Palrem id iiitelligitur, quod fit per Dobium 4.
-3, Ambrosii. brosius in libro de Spirilu sancto ' disserens, definilam
-              assignationem Iradit dicens: « Cur Dominus dixerit:               infirmitatem, quia Patri Scriplura freqneiiter attribuil
-              Qui blaspliemaverit in Filium hominis ^ remitletur ei ;           polentiam ; peccatuin in Filium, quod fit per ignoian-
-              qui autem. blasphemaverit in Spiriticm sanctum, neque             tiam, quia sapienlia Filio atlrihuitur ; torlium exposi-
-              hic neque in futuro remitletur ei , diligenter advcrte.           tum est. Qui ergo peccat per infirmitatem, vel per
-              Nunquid alia est olTensio Filii, alia Spiritus sancti?            ignorantiam , facile veniam adipiscilur , sed non ille
-              Sicut una digiiilas, sic una iniuria. Sed si quis, corpo-         qui peccat ■ in Spiritum sanetum. Cum autem una sit
-              ris specie decepUis, humani remissius aliqnid sentil de           polentia, sapienlia, bonitas triuni, quare Patri polen-
-              Cbristi carne, quam dignum est, habel culpain, iion est           tia, Filio sapientia, Spiritui sanclo houitas saepius as
-              tamen exclusus a venia. Si quis vero sancti Spirilus di-          signelur , superius ' dictum cst.
+hac vita est; quia non potest sciri de aliquo, utrum peccaverit ad mortem vel in Spiritum sanctum, nisi cum ab hac vita discesserit, nisi forte alicui per Spiritum sanctum mirabiliter revelatum fuerit. Ex praedictis aliquatenus capi potest, quomodo accipiatur peccatum in Spiritum sanctum, scilicet *invidentia* gratiae fraternitatem impoenitenter oppugnans, quae utique obstinatio esse videtur, et omnis impoenitentis *obstinatio* atque *desperatio.* Notandum vero est, quod non omnis qui non poenitet, *impoenitens* dici potest, quia *impoenitentia* proprie obstinati est, et, ut quidam volunt, etiam desperati.
+
+De hoc quoque peccato in Spiritum sanctum Ambrosius in libro de Spiritu sancto disserens, definitam assignationem tradit dicens: « Cur Dominus dixerit: *Qui blasphemaverit in Filium hominis, remittetur ei; qui autem blasphemaverit in Spiritum sanctum, neque hic neque in futuro remittetur ei,* diligenter adverte. Nunquid alia est offensio Filii, alia Spiritus sancti? Sicut una dignitas, sic una iniuria. Sed si quis, corporis specie deceptus, humani remissius aliquid sentit de Christi carne, quam dignum est, habet culpam, non est tamen exclusus a venia. Si quis vero sancti Spiritus dignitatem, maiestatem et potestatem abneget sempiternam et putet, *non in spiritu Dei eici daemonia, sed in Beelzebub,* non potest ibi exhortatio esse veniae, ubi sacrilegii plenitudo est ». — Satis aperte hic explicatur, quid sit peccatum in Spiritum sanctum. Quod illi Augustini descriptioni congruere videtur, qua illud peccatum dicitur esse *invidentia gratiae* oppugnans *fraternitatem.* Qui enim post cognitionem veritatis sancti Spiritus veritatem negat, eiusque opera dicit esse Beelzebub, potestati, bonitati et gratiae Dei invidere non dubitatur. — Non itaque distinctio illa verborum sic accipienda est, quasi trium personarum divisae sint offensae, sed ibi genera peccatorum distincta sunt. Peccatum enim in Patrem id intelligitur, quod fit per infirmitatem, quia Patri Scriptura frequenter attribuit potentiam; peccatum in Filium, quod fit per ignorantiam, quia sapientia Filio attribuitur; tertium expositum est. Qui ergo peccat per infirmitatem, vel per ignorantiam, facile veniam adipiscitur, sed non ille qui peccat in Spiritum sanctum. Cum autem una sit potentia, sapientia, bonitas trium, quare Patri potentia, Filio sapientia, Spiritui sancto bonitas saepius assignetur, superius dictum est.
+
+---
 
 ## English
+<!-- page 979 -->
 
-[Translation pending]
+### Distinction XLIII.
+### *Single chapter. On the sin against the Holy Spirit.*
+
+There is, besides, a certain kind of sin graver and more abominable than the rest, which is called the sin against the Holy Spirit, of which the Truth says in the Gospel[^1]: *Whoever shall sin against the Holy Spirit, it shall not be forgiven him, neither here nor in the world to come.* And John in his Canonical Epistle: *There is a sin unto death; I do not say that for it one should pray. For he who sins against the Father, it shall be forgiven him; and he who sins against the Son, it shall be forgiven him; but he who shall blaspheme against the Holy Spirit, it shall not be forgiven him, neither here nor in the world to come.* — But it is asked what that sin against the Holy Spirit or unto death is. — « Some say it is the sin of *despair* or of *obstinacy.* Obstinacy is the stubbornness of a mind hardened in wickedness, by which a man becomes impenitent. Despair is that by which someone utterly distrusts the goodness of God, judging that his own wickedness exceeds[^2] the greatness of the divine goodness », like Cain, who said[^3]: *My iniquity is greater than that I should deserve pardon.* But each
+
+<!-- page 980 -->
+
+is said to be a sin against the Holy Spirit, because the Holy Spirit is the love of the Father and the Son, and the benignity by which they love each other and us, which is so great that it has no end. Rightly, therefore, are those said to offend against the Holy Spirit who by their own wickedness think to overcome the goodness of God, and therefore do not take up penance, and who cling to iniquity with a mind so stubborn that they purpose never to abandon it and never to return to the goodness of the Holy Spirit, abusing the patience of God and presuming too much upon the mercy of God; to whom wickedness is pleasing for its own sake, as goodness is to the pious. *These* sin by excessive *stubbornness* and *presumption,* supposing that God is not just; *those,* by *despair,* deem God not good, removing in this most turbulent sea of iniquities the harbor of the divine indulgence to which, tossed about, they might betake themselves. And by that very despair they add sins to sins, saying: There is no mercy, and condemnation is owed to sinners as a necessity.
+
+But it is asked whether every *obstinacy* of a mind hardened in wickedness, and every *despair,* is a sin against the Holy Spirit. — Some say that *every* obstinacy and every despair is a sin against the Holy Spirit. But if this be so, that sin is sometimes forgiven, since many even of the most obstinate and most despairing are converted, as Augustine says upon that passage of the Psalm[^4]: *I will turn into the depth of the sea,* that is, those « who were most despairing », and there: *He sends his crystal like morsels,* that is, « he makes the obstinate teachers of others ». The conversion of such is also evidently shown there where he says: *He who leads out the bound in strength; likewise those who provoke, who dwell in tombs.* According to these, that sin is called irremissible, not because it is never remitted, but because it is remitted scarcely and rarely and with difficulty. For the crystal is not dissolved except by a vehement onset of the spirit. — But others hand down that not just any obstinacy or despair is called a sin against the Holy Spirit, but only that which impenitence accompanies; and these also call *impenitence* the sin against the Holy Spirit. But since Augustine says that *impenitence* is the sin against the Holy Spirit, when someone is so obstinate that he does not repent, it must be examined whether obstinacy is one[^5] sin in him and impenitence another, or whether it is the same sin committed in different ways. According to these, that sin is called irremissible because it is never remitted. Hence Augustine[^6] also says that this sin alone cannot merit pardon; and Jerome on Mark, that one who sins in such a way cannot worthily repent. And therefore John rightly says, *that no one should pray for it;* because he who sins thus cannot be helped here or in the world to come by the prayers of the Church, having a heart hardened like a stone, as is read of the devil[^7]. After this life, those who are gravely wicked cannot be helped by the merits of the Church.
+
+There is also another assignation of this sin. For Augustine, defining this sin in the book *On the Lord's Sermon on the Mount*[^8], says: « The *sin unto death* is when, after the acknowledgment of God through the grace of Christ, someone assails brotherhood, and against that very grace, by which he was reconciled to God, is driven by the firebrands of envy »; « which perhaps is to sin against the Holy Spirit, which sin is said *not to be remitted* », « not because it ought not to be forgiven to the sinner, if he should repent, but because so great is the stain of that sin that it cannot submit to the humility of entreating, even if it should be compelled by an evil conscience to acknowledge and confess its sin; as Judas, when he said *I have sinned,* despairing, ran more readily to the noose than ask pardon in humility; which, on account of the magnitude of the sin, it must be believed that such ones have already from the condemnation of the sin ». — Behold, a certain assignation of the sin against the *Holy Spirit* or *unto death* is here set down, by which that sin is handed down to be the assailing of brotherhood after acknowledgment, and *envy of grace* after reconciliation; which can be understood as a certain species of *obstinacy.* — Yet Augustine, recalling that definition in the book of the *Retractations*[^9], discloses, not by asserting that he had said it, that something is to be added there, saying thus: « *This indeed I did not affirm, since I said that I supposed this. But yet it had to be added: if he should end this life in this wicked perversity of mind,* since one must not despair of anyone, however utterly wicked, while he is constituted in this life; nor is prayer imprudently made for one of whom there is no despair ». — By these words it is intimated that the sin described by the foregoing definition ought to be called unto death, or against the Holy Spirit, only then when it has impenitence as its companion, and that one must not despair of any sinner in this life, and therefore one must pray for everyone. Hence that saying of John: *I do not say that one should pray for it,* seems to be taken thus, that we should not pray for someone sinning unto death or against the Holy Spirit after he has ended this life. But while he is in this life, we must neither judge his sin nor despair of him, but pray for him. Hence Augustine, *On the Words of the Lord*[^10], concerning impenitence, which is blasphemy against the Holy Spirit, speaks thus: « This impenitence, or impenitent heart, so long as anyone lives in this flesh, cannot be judged. For one must despair of no one, so long as the patience of God leads to penance. He is a pagan today, a Jew, an unbeliever today, a heretic today, a schismatic today — what if tomorrow he should embrace catholic peace and follow catholic truth? What if those whom in any kind of error you brand and condemn as utterly desperate should, before they end this life, do penance and find true rest and life in the world to come? *Do not, therefore, judge anything before the time* ». — From these things it is shown that one must pray for each of the sinners in this life, and one must not distrust of anyone, because he can be converted, while in
+
+<!-- page 981 -->
+
+this life he is; because it cannot be known of anyone whether he has sinned unto death or against the Holy Spirit, except when he has departed from this life, unless perchance it be revealed to someone marvelously through the Holy Spirit. From the foregoing it can be grasped in some measure how the sin against the Holy Spirit is to be understood, namely, *envy* impenitently assailing the brotherhood of grace, which surely seems to be obstinacy, and the *obstinacy* and *despair* of every impenitent person. But it must be noted that not everyone who does not repent can be called *impenitent,* because *impenitence* properly belongs to the obstinate, and, as some hold, also to the despairing.
+
+Concerning this sin against the Holy Spirit Ambrose also, discoursing in the book *On the Holy Spirit,* hands down a definite assignation, saying: « Why the Lord said: *Whoever shall blaspheme against the Son of man, it shall be forgiven him; but whoever shall blaspheme against the Holy Spirit, neither here nor in the world to come shall it be forgiven him,* attend diligently. Is the offense against the Son one thing, and against the Holy Spirit another? As there is one dignity, so there is one injury. But if anyone, deceived by the appearance of the body, feels somewhat too remissly about the flesh of Christ, less than is fitting, he has fault, yet is not excluded from pardon. But if anyone should deny the eternal dignity, majesty, and power of the Holy Spirit, and suppose that *demons are cast out not in the Spirit of God, but in Beelzebub,* there can be no exhortation to pardon, where there is the fullness of sacrilege ». — Quite plainly it is here explained what the sin against the Holy Spirit is. And this seems to agree with that description of Augustine, by which that sin is said to be *envy of grace* assailing *brotherhood.* For he who, after the knowledge of the truth of the Holy Spirit, denies the truth, and says his works are of Beelzebub, is not doubted to envy the power, goodness, and grace of God. — Therefore that distinction of words is not to be taken as though the offenses of the three persons were divided, but there the kinds of sins are distinguished. For sin against the Father is understood to be that which is done through weakness, because Scripture frequently attributes power to the Father; sin against the Son, that which is done through ignorance, because wisdom is attributed to the Son; the third has been expounded. He, therefore, who sins through weakness or through ignorance easily obtains pardon, but not he who sins against the Holy Spirit. But since the power, wisdom, and goodness of the three is one, why power is more often assigned to the Father, wisdom to the Son, and goodness to the Holy Spirit, has been said above.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi note; **En.** the English rendering. Quaracchi restarts footnote numbering on each printed page; entries here run page 979 (after the *Notae ad Libr. Sententiarum* divider) then page 980.
+
+[^1]: **La.** Matth. 12, 32; deinde I. Ioan. 5, 16; Marc. 3, 29, et Luc. 12, 10, sed verba aliquatenus inter se commixta sunt.
+    **En.** Matthew 12:32; then 1 John 5:16; Mark 3:29, and Luke 12:10, but the words are to some extent intermixed with one another.
+
+[^2]: **La.** Glossa in Rom. 2, 5, ex qua etiam multa, quae sequuntur, excerpta sunt, interdum verbotenus.
+    **En.** Gloss on Romans 2:5, from which also many of the things that follow are excerpted, sometimes word for word.
+
+[^3]: **La.** Gen. 4, 13.
+    **En.** Genesis 4:13.
+
+[^4]: **La.** Edd. 1, 2 *aestimant,* et paulo superius *derelinquunt* pro *relinquunt.* — Enarrat. in Ps. 67, 23, n. 31. Deinde Glossa interlinearis in Ps. 147, 17, ex Enarrat. n. 23 in hunc Ps. Tertius locus est Ps. 67, 7.
+    **En.** Editions 1, 2 read *aestimant,* and a little above *derelinquunt* for *relinquunt.* — *Commentary on Psalm 67* [68]:23, n. 31. Then the interlinear Gloss on Psalm 147:17, from the *Commentary* n. 23 on this Psalm. The third passage is Psalm 67 [68]:7.
+
+[^5]: **La.** Serm. 71 (alias *de Verbis Dom.* 11) c. 12, n. 20.
+    **En.** Augustine, *Sermon* 71 (otherwise *On the Words of the Lord* 11) c. 12, n. 20.
+
+[^6]: **La.** Vat. aliaeque edd. addunt *sit,* refragantibus codd. B C et edd. 1, 8.
+    **En.** The Vatican and other editions add *sit,* against codices B, C and editions 1, 8.
+
+[^7]: **La.** Loc. cit., sed quod sequitur dicit Hieronymus secundum sensum in Marc. 3, 29 et Matth. 27, 4, sed verbotenus est in Glossa interlineari.
+    **En.** At the place cited; but what follows Jerome says according to the sense on Mark 3:29 and Matthew 27:4, though word for word it is in the interlinear Gloss.
+
+[^8]: **La.** Iob 41, 1-5, ubi S. Gregor., XXXIV. Moral. c. 7, n. 15, ad nomen Leviathan ista dicit.
+    **En.** Job 41:1–5, where St. Gregory, *Morals* book XXXIV, c. 7, n. 15, says these things on the name Leviathan.
+
+[^9]: **La.** Libr. I. c. 22, n. 73; seq. locus ibid. n. 75; tertius ibid. n. 74.
+    **En.** [*On the Sermon on the Mount,*] book I, c. 22, n. 73; the following passage ibid. n. 75; the third ibid. n. 74.
+
+[^10]: **La.** Libr. I. c. 19, n. 7.
+    **En.** [*On the Sermon on the Mount,*] book I, c. 19, n. 7.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF of printed pp. 979–981 (PDF 1001–1003, offset `pdf = printed + 22`), cross-checked against the IA djvu OCR (`raw/bonaventure_vol2_raw.txt`, raw lines ~68026–68155). The IA OCR cascade-shattered the two-column body and footers; the PDF column bands are authoritative per the Vol II override. Running heads confirm the page numbers (`…TIO XLIII. 979` on p.979 R; `980 SENTENTIARUM LIB. II` on p.980; `DIST. XLIII. DIVISIO TEXTUS. 981` on p.981).
+
+**Page span / structure.** d.43 has a single Lombard chapter (CAP. UNICUM, *De peccato in Spiritum sanctum*). The littera runs from the lower-left column of p.979 (immediately after the d.42-dubia tail `…dicta sufficiant.`) through both columns of p.980 and the top of both columns of p.981, ending at `…superius dictum est.` immediately before `COMMENTARIUS IN DISTINCTIONEM XLIII` / `DIVISIO TEXTUS` (raw 68158). No commentary leaked into the littera.
+
+**Page-split / footer map.**
+- **p.979 (shared with d.42-dubia):** the p.979 LEFT-column footer block (footers 1–5: *radix omnium malorum* / *trahitur* / *ex ratione* / Aristot. *de Partib. animal.* / *duplex est radix*) and RIGHT-column footer 6 (*Vat. et edd. 2, 3, 4 omittunt et radicis…* with the cross-references to Alex. Hal., Albert, Thomas, etc.) ALL belong to **d.42-dubia (DUB. IV)** and were already consumed there — **not re-claimed here.** The d.43 littera footers begin only **after the `NOTAE AD LIBR. SENTENTIARUM.` divider**: footer 1 = Matth. 12:32 cluster (`[^1]`), footer 2 = Glossa in Rom. 2:5 (`[^2]`), footer 3 = Gen. 4:13 (`[^3]`).
+- **p.980:** full littera page; *Notae ad Libr. Sententiarum* footers 1–10 (1–5 in the left column foot, 6–10 in the right column foot), all littera notes → rendered `[^4]`–`[^10]`. (`[^4]`=Ps. 67/147 cluster, `[^5]`=Serm. 71, `[^6]`=*sit* variant, `[^7]`=Jerome on Mark, `[^8]`=Iob 41/Gregory Leviathan, `[^9]`=Retract. book I, `[^10]`=Serm. 71 c.19.)
+- **p.981:** the littera ends near the top; the ONLY footer block on p.981 is `NOTAE AD COMMENTARIUM` (commentary footers 1–3 left + 1–3 right) — these belong to **d.43-divisio**, NOT to the littera, and are NOT rendered here.
+
+**[?] flag — p.981 orphaned littera markers.** The p.981 littera fragment carries three superscript markers in the printed text (¹ after *de Spiritu sancto,* ² after *qui peccat in Spiritum sanctum* / *Filium hominis,* ³ after *superius … dictum est*), but Quaracchi printed **no `Notae ad Libr. Sententiarum` block on p.981** (the page foot holds only the commentary's `Notae ad Commentarium`). These three littera notes are therefore not present in the source on this page. They have been rendered as plain text without `[^N]` anchors (no apparatus entry fabricated). `[?]` — if a later 600 dpi decade-polish pass over p.981 (or the facing recto) locates a stray littera-note block, add entries `[^11]`–`[^13]` (Ambrose *de Spir. sancto*; codd. variant on *peccat*; the `superius` cross-reference, likely `cf. d. XXXIV`).
+
+**Hand-off forwarded → d43-divisio.** The `COMMENTARIUS IN DISTINCTIONEM XLIII` / `De peccato in Spiritum sanctum` lemma + `DIVISIO TEXTUS` + `TRACTATIO QUAESTIONUM` begin at raw 68158, in the lower half of printed **p.981** (PDF 1003), immediately after the littera tail `…superius dictum est.` The seam is grammatically clean (littera ends a complete sentence; commentary opens `Supra egit Magister de distinctione peccatorum in generali…`). **The p.981 `NOTAE AD COMMENTARIUM` footers (left: ¹ `Libr. I. c. 3. n. 54. Locus Scripturae est Matth. 12, 32. Inferius respicitur ibid. v. 24, 28. — Pro definitam Bonav. legit definitivam`; ² `Codd., excepto D, peccant`; ³ `Libr. I. d. XXXIV. c. 4`; right: ¹ `Vat. cum edd. 3, 4 sic: quid sit secundum aliorum assignationem et etiam secundum propriam`; ² `Edd. ipsius`; ³ `Cod. T declarationem`) all belong to d43-divisio** — the divisio agent should claim these as its first p.981 footer sequence. The TRACTATIO QUAESTIONUM lists: ARTICULUS I (de comparatione ad alia peccatorum genera) with q1 (`utrum peccatum in Spiritum sanctum dicat genus peccati distinctum`) + q2 (`utrum … semper habeat aliud peccatum actuale praeambulum`); ARTICULUS II/III follow on p.982 (de conditionibus propriis; de speciebus et differentiis).
