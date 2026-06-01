@@ -8,12 +8,12 @@ quaestio: 3
 type: quaestio
 title_la: "Utrum sicut peccare, sic etiam puniri sit voluntatis proprium"
 title_en: "Whether, just as to sin, so also to be punished is proper to the will"
-printed_pages: [933, 934, 935]
-pdf_pages: [955, 956, 957]
-source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 933–935"
+printed_pages: [953, 954, 955]
+pdf_pages: [975, 976, 977]
+source: "S. Bonaventurae, Opera Omnia, Tomus II (Quaracchi, 1885), pp. 953–955"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 66237–66355) with column-band PDF (pp.933–935 = pdf 955–957) authoritative for Respondeo/scholion/footers (Vol II PDF-priority inversion), fresh literal English translation, full apparatus from raw OCR (14 entries, per-page restart), scholion present (2026-05-31)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 66237–66355) with column-band PDF (pp.953–955 = pdf 975–977) authoritative for Respondeo/scholion/footers (Vol II PDF-priority inversion), fresh literal English translation, full apparatus from raw OCR (9 entries, per-page restart), scholion present (2026-05-31; page metadata corrected 2026-06-01 — OCR running heads digit-mangled 953→933)"
 format_version: 1
 ---
 
@@ -23,7 +23,7 @@ format_version: 1
 ---
 
 ## Latin
-<!-- page 933 -->
+<!-- page 953 -->
 
 ### Articulus II.
 ### Quaestio III. *Utrum sicut peccare, sic etiam puniri sit voluntatis proprium.*
@@ -41,7 +41,7 @@ Tertio quaeritur, utrum sicut peccare, sic etiam puniri sit voluntatis proprium.
 **Sed contra:**
 1. Quatuor, ut dicit Beda[^4], inflicta sunt nobis pro peccato, scilicet « ignorantia, malitia, infirmitas, concupiscentia »; sed quod infligitur pro peccato est poena: ergo ignorantia est poena;
 
-<!-- page 934 -->
+<!-- page 954 -->
 
 sed constat, quod ignorantia non respicit voluntatem, sed rationem: ergo etc.
 
@@ -63,7 +63,7 @@ Sic igitur patet, quod poena, et in quantum est ultio, et in quantum est passio,
 
 1. 2. Ad illud enim quod obiicitur de ignorantia et de poena damni et sensus, patet responsio. Nam etsi ignorantia dicat privationem alicuius boni, quod respiciat cognitivam, et similiter poena damni, et similiter poena sensus privationem delectationis et quietis partis sensitivae; totum tamen hoc Deus ordinat ad vindicandum et ulciscendum se de voluntate. Ipsa enim est, quae directe adversatur divinae iustitiae, dum perpetrat iniustitiam; et ideo ordo divinae iustitiae punientis directe respicit illius deordinationis remotionem. Ipsa etiam sola fuit, quae sibi se principium posuit et Deum derelinquendo contempsit, dum peccavit; et ideo debet per poenarum multitudinem in servitutem Dei redigi, ut quae dehonoravit Deum voluntarie contemnendo, honoret ipsum involuntarie supplicia patiendo[^8].
 
-<!-- page 935 -->
+<!-- page 955 -->
 
 3. 4. Ad illud quod obiicitur, quod in viris iustis et in Christo non fuit poena involuntaria; dicendum, quod ibi non tenet poena rationem ultionis[^9], nisi relata ad voluntatem Adae peccatricem, respectu cuius voluntatis omnis poena est involuntaria, quia voluntas peccatrix quaerit oblectationem, et quaerendo oblectationem refugit passionem. — Ad illud quod obiicitur de parvulo, qui patitur poenas; responderi potest sicut ad hoc.
 
@@ -163,20 +163,22 @@ It belongs to the character of punishment that it be contrary to the will; which
 
 ## Notes
 
-**Provenance.** Latin re-set verbatim from the IA djvu OCR, raw lines 66237–66355 of `raw/bonaventure_vol2_raw.txt`, with the 450 dpi column-band PDF (printed pp. 933–935 = pdf pp. 955–957) authoritative for the Respondeo, replies, scholion, and all footers (Vol II PDF-priority inversion). The OCR for this region is unusually clean. English is a fresh literal translation.
+**Provenance.** Latin re-set verbatim from the IA djvu OCR, raw lines 66237–66355 of `raw/bonaventure_vol2_raw.txt`, with the 450 dpi column-band PDF (printed pp. 953–955 = pdf pp. 975–977) authoritative for the Respondeo, replies, scholion, and all footers (Vol II PDF-priority inversion). The OCR for this region is unusually clean. English is a fresh literal translation.
+
+**Page metadata correction (2026-06-01, Pass 3 boundary sweep).** The original promotion recorded this chunk as printed pp. **933–935 / pdf 955–957** — both wrong. The IA djvu OCR running heads in this region are digit-mangled (`953`→`933`, `954`→`934`, `955`→`936`), and the recorded pdf pages had been set to the *dubia*'s span. 450 dpi eyes-on (`p-953.png` running head `DIST. XLI. ART. II. QUAEST. III.` corner `953`; `p-955.png` running head `DIST. XLI. DUBIA. 955`) confirms the true span is **printed 953–955, pdf 975–977** (offset +22). Frontmatter `printed_pages`/`pdf_pages`/`source` and the three `<!-- page -->` comments were corrected; the per-page footer map below now reads 953/954/955. Body text and apparatus were already complete and correctly split — only the page numbers were wrong.
 
 **Alignment.** Opener confirmed: *Tertio quaeritur, utrum sicut peccare, sic etiam puniri sit voluntatis proprium* — the THIRD of Art. II's three sub-questions. No q-swap.
 
-**Scholion.** PRESENT for this quaestio (raw 66350–66355, `SCHOLION.` header after the Respondeo on printed p. 935). `has_scholion: true`. (This differs from sibling a2-q1/q2 handling; q3 carries its own scholion.)
+**Scholion.** PRESENT for this quaestio (raw 66350–66355, `SCHOLION.` header after the Respondeo on printed p. 955). `has_scholion: true`. (This differs from sibling a2-q1/q2 handling; q3 carries its own scholion.)
 
 **Page-split / apparatus map** (Quaracchi restarts footnote numbering each printed page; chunk markers renumbered [^1]–[^9] sequentially):
-- **p. 933** (printed fn 1–5 left col + 3 right col → chunk [^1]–[^5]): QUAESTIO III title + 4 *videtur* args + *Sed contra* arg 1 opener. [^1] = printed p.933 fn `*`/4 (Anselm, *de Orig. Pecc.* c. 4) anchored at arg 1; [^2] = printed fn 5/2 (Augustine *Sex Quaest.*) at arg 2; [^3] = printed right-col fn 1 (Aristot. *Praedicam.*) at arg 3 *ratione*; [^4] = printed right-col fn 2 (Cfr. supra pag. 682 — Beda) at *Sed contra* arg 1; [^5] = printed right-col fn 3 (Cfr. supra pag. 328) at *Sed contra* arg 2 *coniuncti*.
-- **p. 934** (printed fn 1–4 → chunk [^6]–[^8]): *Sed contra* args 2–4 + Conclusio + Respondeo + replies 1.2. [^6] = printed fn 1 (Aristot. *de Somno*) at Respondeo *est passio*; [^7] = printed fn `*`/4 (Augustine XIII *de Trin.*) at *sicut dicit Augustinus*; [^8] = printed right-col fn `=` (August. *de Civ. Dei* / Anselm) at reply 1.2 *supplicia patiendo*. (printed p.934 fn 2 [Cfr. supra d.33] and fn 3 [Vide supra d.36 a.3 q.2] are minor cross-refs folded into [^8]'s tail / not separately anchored.)
-- **p. 935** (printed fn 1 → chunk [^9]): replies 3.4 + Scholion. [^9] = printed p.935 fn 1 (`Vide supra d. 36. a. 2. q. 2. — ...rationem ultionis cod. T...`) anchored at reply 3.4 *rationem ultionis*. The scholion carries its source refs inline (no separate footnote).
+- **p. 953** (printed fn 1–5 left col + 3 right col → chunk [^1]–[^5]): QUAESTIO III title + 4 *videtur* args + *Sed contra* arg 1 opener. [^1] = printed p.953 fn `*`/4 (Anselm, *de Orig. Pecc.* c. 4) anchored at arg 1; [^2] = printed fn 5/2 (Augustine *Sex Quaest.*) at arg 2; [^3] = printed right-col fn 1 (Aristot. *Praedicam.*) at arg 3 *ratione*; [^4] = printed right-col fn 2 (Cfr. supra pag. 682 — Beda) at *Sed contra* arg 1; [^5] = printed right-col fn 3 (Cfr. supra pag. 328) at *Sed contra* arg 2 *coniuncti*.
+- **p. 954** (printed fn 1–4 → chunk [^6]–[^8]): *Sed contra* args 2–4 + Conclusio + Respondeo + replies 1.2. [^6] = printed fn 1 (Aristot. *de Somno*) at Respondeo *est passio*; [^7] = printed fn `*`/4 (Augustine XIII *de Trin.*) at *sicut dicit Augustinus*; [^8] = printed right-col fn `=` (August. *de Civ. Dei* / Anselm) at reply 1.2 *supplicia patiendo*. (printed p.954 fn 2 [Cfr. supra d.33] and fn 3 [Vide supra d.36 a.3 q.2] are minor cross-refs folded into [^8]'s tail / not separately anchored.)
+- **p. 955** (printed fn 1 → chunk [^9]): replies 3.4 + Scholion. [^9] = printed p.955 fn 1 (`Vide supra d. 36. a. 2. q. 2. — ...rationem ultionis cod. T...`) anchored at reply 3.4 *rationem ultionis*. The scholion carries its source refs inline (no separate footnote). The shared p.955 footer split with `d41-dubia` is clean: a2-q3 holds the left-col q3 note ([^9]); the right-col `Gal. 5, 6` / pag. 891 / d.38 / Matth. 13, 32 notes are dubia's [^1]–[^4] (verified 450 dpi p-955.png, Pass 3 2026-06-01).
 
 **Hand-offs.**
-- *Picked up from a2-q2:* NONE. q2 ended at the foot of p.952 (printed); q3 opens fresh on printed p. 933 (its own footer sequence). (The coordinator's "p.952 R-col" brief used a pdf/printed mix-up; the true printed span is 933–935, pdf 955–957.)
-- *Forwarded to d41-dubia:* the chunk ends at the close of q3's reply + scholion (raw line 66355). The `DUBIA CIRCA LITTERAM MAGISTRI` header begins at raw line **66357** (DUB. I), still on printed p. 935. The remaining p.935 footer notes — `Gal. 5, 6` (per dilectionem), `Cfr. supra d. 38. a. 2. q. 2`, `Vide eius verba supra pag. 891` (Bernardus), `Supple: homo / Matth. 13, 32` — and all DUB. I–III content belong to `d41-dubia`, NOT here.
+- *Picked up from a2-q2:* q3 shares printed p. 953 with a2-q2 (q2's tail + conclusio finish at the top of p.953; q3 opens lower on the same page). The p.953 footer sequence (fn 1–8) is split cleanly: fn 1 (*concomitanter*) = a2-q2 [^17]; fn 3 (*August. III de Lib. Arb. c. 24*) = a2-q2 [^11]; fn 2 (*Cfr. hic q. 1. … d. 21. dub. 4.*) collated into q3's [^2] tail; fn 4–8 = q3's [^1]–[^5]. No drop, no double-count (verified 450 dpi p-953.png + colcrop L-2, Pass 3 2026-06-01).
+- *Forwarded to d41-dubia:* the chunk ends at the close of q3's reply + scholion (raw line 66355). The `DUBIA CIRCA LITTERAM MAGISTRI` header begins at raw line **66357** (DUB. I), still on printed p. 955. The remaining p.955 footer notes — `Gal. 5, 6` (per dilectionem), `Cfr. supra d. 38. a. 2. q. 2`, `Vide eius verba supra pag. 891` (Bernardus), `Supple: homo / Matth. 13, 32` — and all DUB. I–III content belong to `d41-dubia`, NOT here.
 
 **DUBIA finding.** d.41 HAS a dubia unit. `DUBIA CIRCA LITTERAM MAGISTRI` at raw **66357**; DUB. I opener *In parte ista sunt quaestiones circa litteram, et primo quaeritur de hoc quod dicit, quod fides intentionem dirigit*; DUB. II *Item quaeritur de hoc quod dicit: Omnis vita infidelium peccatum est*; DUB. III *Item quaeritur de hoc quod dicit, quod peccata, quae a nescientibus vel coactis perpetrantur...*. Hard end of d.41 / start of d.42 = `DISTINCTIO XLII` at raw 66472. So d.41 is NOT yet complete after q3 — next action is `bon-sent-II-d41-dubia`.
 

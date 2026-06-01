@@ -115,3 +115,69 @@ Programmatic scan over **every Tier-2 chunk** (`transcription_status` starts wit
 **Build after fix:** `node site/scripts/build-content.mjs` → `2 book(s), 875 questions, 875 translated` — clean.
 
 **Files changed this pass:** `vol2/bon-sent-II-d9-littera.md`, `site/src/data/content.json`, this log.
+
+---
+
+## Pass 3 — cross-chunk boundary integrity sweep (2026-06-01)
+
+Last-decade-only (d.41–d.44) check of every chunk boundary that falls **inside a printed page** (quaestio / divisio / scholion / dubia split mid-page). For each shared-page seam: (a) receiving chunk's opening sentence grammatically continuous with prior chunk's closing sentence; (b) shared printed page's footer notes fully accounted across the two chunks (no drop / no double-count); (c) prior chunk's tail not a grammatically broken splice (the IA djvu cascade-merge signature). The failure mode hunted (a mid-paragraph splice silently dropping text + footnotes) is NOT caught by the paraphrase/header/apparatus audits.
+
+**Method.** Seam page-overlap map computed from chunk `printed_pages` frontmatter; Latin tail/head of every adjacent pair read from the chunk files; ambiguous seams + every called-out R-col seam taken to 450 dpi PDF column bands. Clean unit-start boundaries (receiving chunk opens `## COMMENTARIUS` / `## DUBIA` / `### Articulus` / `### Quaestio`) confirmed by reading the prior tail (complete sentence) + the fresh-header opening.
+
+### Boundaries
+
+| Seam | Shared page | Verdict | How verified |
+|---|---|---|---|
+| d41 littera→divisio | 936 | CLEAN | tail/head read (littera ends *qua peccatur et qua recte vivitur*; divisio opens COMMENTARIUS XLI) |
+| d41 a1-q1→a1-q2 | 939 | CLEAN | tail/head read (a1-q1 ends scholion bibliography; a1-q2 opens Quaestio II) |
+| d41 a2-q2→a2-q3 | **953** | **FIXED (metadata)** | 450 dpi `p-953.png` + colcrop L-2 — see finding below |
+| d41 a2-q3→dubia | **955** | **FIXED (metadata) / footer split CLEAN** | 450 dpi `p-955.png` — see finding below |
+| d42 littera→divisio | 959 | CLEAN | tail/head read (littera ends *radix omnis mali*; divisio opens COMMENTARIUS XLII) |
+| d42 a1-q1→a1-q2 | 962 | CLEAN | tail/head read (a1-q1 ends scholion II bibliography; a1-q2 opens Quaestio II) |
+| d42 a1-q2→a2-q1 | 964 | CLEAN | tail/head read (a1-q2 ends *Ad 5* reply; a2-q1 opens Articulus II) |
+| d42 a2-q2→a3-q1 | 970 | CLEAN | tail/head read (a2-q2 ends reply 6 *temporaliter affligentem*; a3-q1 opens Articulus III) |
+| d42 a3-q1→a3-q2 | 973 | CLEAN | tail/head read + page-break/apparatus check (a3-q1 ends scholion II; a3-q2 opens Art. III Quaest. II; independent per-page footer restarts, no collision) |
+| d42 a3-q2→dubia | 974 | CLEAN | tail/head read (a3-q2 ends *Ad 5* reply; dubia opens DUBIA CIRCA LITTERAM) |
+| d43 littera→divisio | 981 | CLEAN | tail/head read; footer ownership resolved in Pass 1 (item 1, 600 dpi) |
+| d43 divisio→a1-q1 | 982 | CLEAN | tail/head read (divisio ends TRACTATIO listing; a1-q1 opens Art. I Quaest. I) |
+| d43 a1-q1→a1-q2 | 984 | CLEAN | tail/head read (a1-q1 ends scholion III bibliography; a1-q2 opens Quaestio II) |
+| d43 a1-q2→a2-q1 | 986 | CLEAN | tail/head read (a1-q2 ends reply 4 *in profundum*; a2-q1 opens Articulus II) |
+| d43 a2-q1→a2-q2 | 988 | CLEAN | tail/head read (a2-q1 ends scholion III bibliography; a2-q2 opens Art. II Quaest. II) |
+| d43 a2-q2→a3-q1 | 991 | CLEAN | tail/head read (a2-q2 ends *Ad 5* reply; a3-q1 opens Articulus III) |
+| d43 a3-q2→dubia | 996 | CLEAN | tail/head read + apparatus check; page-break 996 sits inside a3-q2's Master-Prologue quote (grammatical, complete); dubia opens DUB. I; p.996 footer split by body anchor (Pass 1 confirmed [^16] region) |
+| d44 littera→divisio | 999 | CLEAN | tail/head read (littera ends *Explicit liber secundus.*; divisio opens COMMENTARIUS XLIV) |
+| d44 divisio→a1-q1 | 1000 | CLEAN | tail/head read (divisio ends TRACTATIO listing; a1-q1 opens Art. I Quaest. I) |
+| d44 a1-q1→a1-q2 | 1002 | CLEAN | tail/head read (a1-q1 ends scholion II bibliography; a1-q2 opens Art. I Quaest. II) |
+| d44 a2-q1→a2-q2 | 1007 | CLEAN | tail/head read (a2-q1 ends scholion II bibliography; a2-q2 opens Quaest. II) |
+| d44 a2-q2→a3-q1 | 1009 | CLEAN | tail/head read (a2-q2 ends reply 4 *per dominium conservari*; a3-q1 opens Articulus III; footer ownership of p.1009 fn 4 = a3-q1 [^1] resolved in Pass 1 item 4) |
+| d44 a3-q1→a3-q2 | 1012 | CLEAN | tail/head read (a3-q1 ends scholion II bibliography; a3-q2 opens Quaest. II; p.1012 footer split resolved in Pass 1 item 3) |
+| **Clean page-break seams (no shared page — quick confirm)** | — | CLEAN | d41 divisio→a1-q1 (936/937), a1-q2→a1-q3 (941/942), a1-q3→a2-q1 (946/947), a2-q1→a2-q2 (950/951); d42 divisio→a1-q1 (959/960), a2-q1→a2-q2 (966/967); d43 a3-q1→a3-q2 (993/994), dubia→d44-littera (998/999); d44 a1-q2→a2-q1 (1004/1005), a3-q2→dubia (1014/1015) — each receiving chunk opens a fresh structural unit; prior tails complete |
+
+**Cascade-merge / dropout found:** none. No grammatically broken tail-splice anywhere in d.41–d.44; no body text or footnote lost at any seam.
+
+### FIXED — d41-a2-q3 page metadata (the one defect found)
+
+The d41 a2-q2→a2-q3 and a2-q3→dubia seam audit surfaced that **`d41-a2-q3` carried wrong page numbers**: `printed_pages: [933, 934, 935]`, `pdf_pages: [955, 956, 957]`, `source: pp. 933–935`, and three `<!-- page 933/934/935 -->` comments. Both were wrong:
+- The IA djvu OCR running heads in this region are **digit-mangled** (`953`→`933`, `954`→`934`, `955`→`936`); the promoting agent trusted the OCR digits.
+- The recorded `pdf_pages` had been set to the **dubia's** span (977-979 → mis-set to 955-957).
+
+**450 dpi eyes-on** (freshly re-extracted, bypassing stale cached crops): `p-953.png` shows running head `DIST. XLI. ART. II. QUAEST. III.` corner `953` (the QUAESTIO III start); `p-955.png` shows `DIST. XLI. DUBIA. 955`. True span = **printed 953–955, pdf 975–977** (offset +22, consistent with the rest of d.41: a2-q2 = 951–953, dubia = 955–957; a2-q3 sits between, sharing p.953 with q2 and p.955 with dubia).
+
+**Body + apparatus were already complete and correctly split** — only the page numbers were wrong. Footer-split integrity at both shared pages verified:
+- **p.953** (a2-q2 ∥ a2-q3): footnotes 1–8 split cleanly — fn 1 (*concomitanter*) = a2-q2 [^17]; fn 2 (*Cfr. hic q. 1. … d. 21. dub. 4.*) collated into a2-q3 [^2] tail; fn 3 (*August. III de Lib. Arb. c. 24*) = a2-q2 [^11]; fn 4–8 = a2-q3 [^1]–[^5]. No drop, no double-count (colcrop L-2 read).
+- **p.955** (a2-q3 ∥ dubia): a2-q3 [^9] (*Vide supra d. 36. a. 2. q. 2.*) is the q3-region note; the right-col `Gal. 5, 6` / pag. 891 / d.38 / Matth. 13, 32 notes are dubia's [^1]–[^4]. No drop, no double-count.
+
+**Fix.** Corrected `printed_pages`/`pdf_pages`/`source`, the three `<!-- page -->` comments (953/954/955), the stale "14 entries" in `transcription_status` (→ 9, the true def count), and every 933/934/935 reference in the `## Notes` page-split map; added a "Page metadata correction" Notes block documenting the OCR digit-mangle + the 450 dpi confirmation. No body or apparatus text changed.
+
+A repo-wide scan of all d.41–d.44 chunks afterward confirmed every chunk now has offset +22, in-sequence `printed_pages`, and in-range values — the mangle was isolated to this one chunk.
+
+### Final verification
+
+- **Smoke build** `node site/scripts/build-content.mjs`: `2 book(s), 875 questions, 875 translated` — clean.
+- **`audit-paraphrase.py --volume 2 --min-d 41 --max-d 44`:** 36 chunks, 0 critical / 0 high.
+- **`audit-headers.py --volume 2 --min-d 41 --max-d 44`:** no LOSS flags (positive diffs — known-coarse Vol II header audit).
+- **`audit-apparatus-count.py --volume 2 --min-d 41 --max-d 44`:** 0 flagged.
+
+**Chunks edited this pass:** `vol2/bon-sent-II-d41-a2-q3.md` (page metadata + Notes only) (+ `content.json`).
+
+**Decade polish-blocker for d.41–d.44 (Vol II's final decade) is COMPLETE** — Passes 1, 2, 3 all closed. Vol II ends at d.44; there is no further decade gate. When Vol II ships, update landing/About copy per MEMORY.md `update-about-copy-after-vol2`.
