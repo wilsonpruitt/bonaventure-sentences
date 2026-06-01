@@ -31,11 +31,12 @@ export default function AboutPage() {
           S. Bonaventurae.
         </p>
         <p style={{ marginBottom: "1.25rem" }}>
-          We begin with Volume I, the <em>Commentary on Book I of the Sentences of Peter Lombard</em>,
-          and intend over time to publish all ten volumes — the remaining commentaries on the
-          Sentences (Books II&ndash;IV), the <em>Breviloquium</em>, the <em>Itinerarium mentis in
-          Deum</em>, the <em>Collationes in Hexaemeron</em>, and the rest of the opuscula and sermons.
-          No complete English edition of the Opera Omnia has ever been published.
+          Volumes I and II — the <em>Commentaries on Books I and II of the Sentences of Peter
+          Lombard</em> — are now published, and we intend over time to complete all ten volumes: the
+          remaining commentaries on the Sentences (Books III&ndash;IV), the <em>Breviloquium</em>, the{" "}
+          <em>Itinerarium mentis in Deum</em>, the <em>Collationes in Hexaemeron</em>, and the rest of
+          the opuscula and sermons. No complete English edition of the Opera Omnia has ever been
+          published.
         </p>
 
         <FleuronDivider />
