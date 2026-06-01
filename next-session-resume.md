@@ -1,10 +1,16 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-05-31 (d43-a2-q2 promoted -> Tier 2, commit e534935)
+**Last updated:** 2026-05-31 (d43-a3-q1 promoted -> Tier 2, commit 95c14c2)
 
 **Branch:** master
 
-## NEXT ACTION -> `bon-sent-II-d43-a3-q1`
+## NEXT ACTION -> `bon-sent-II-d43-a3-q2`
+
+**`bon-sent-II-d43-a3-q1` shipped 2026-05-31 (commit 95c14c2):** ARTICULUS III opener folded in + QUAESTIO I *De numero et sufficientia specierum huius peccati*, printed **pp.991-993** (PDF 1013-1015), **17-entry apparatus** (per-page restart, continuous slugs: p.991 footers **4-8 picked up** from a2-q2 = `[^1]`-`[^5]`; p.992 footers 1-7 = `[^6]`-`[^12]`; p.993 footers 1-7 = `[^13]`-`[^17]`, the three p.993 tail variant-notes footers 5-7 grouped under `[^17]`). `has_scholion: true` — **Scholion I-III held here; Scholion II ("Circa sequentem quaest.") + III ("De utraque quaestione") cover a3-q2.** Marker pairing 17/17 clean. Alignment PASS (`Circa primum sic proceditur et quaeritur de numero et sufficientia` = q1; ARTICULUS III opener lists q1 = quantum ad numerum et sufficientiam). Running heads confirmed via 450 dpi crops (p.992 `992`; p.993 `DIST. XLIII. ART. III. QUAEST. I. 993`). Build 875 q / 864 translated. Audits: a3-q1 lands OK on paraphrase (2 HIGH = remaining d.43 skeletons a3-q2/dubia); header no flag (+3/+4 positive = benign); apparatus-count flags only the 2 skeletons (a3-q2 +28, dubia +22). No `[?]` flags (OCR unusually clean for this region, line-by-line confirmed against crops).
+
+> **HAND-OFF TO d43-a3-q2 (forwarded):** QUAESTIO II (`De his quantum ad uniuscuiusque propriam rationem`) opens on printed **p.994** (PDF 1016), raw line **69015**, immediately after a3-q1's Scholion block; continues onto p.995+. **a3-q2 has NO scholion of its own** — Scholion II-III (held in a3-q1) cover it; set `has_scholion: false`. **a3-q1 consumed ALL p.993 footers (1-7); a3-q2's first body-footer is the fresh p.994 footer sequence — no q1 footer migrates forward.** After a3-q2 comes d43-dubia (still skeleton, apparatus diff +22) — then d.43 is COMPLETE (last distinction before d.50 polish gate, far off). Offset `pdf = printed + 22`; OCR running-head digits mangled — confirm printed_pages via low-dpi render.
+
+## NEXT ACTION (superseded) -> `bon-sent-II-d43-a3-q1`
 
 **`bon-sent-II-d43-a2-q2` shipped 2026-05-31 (commit e534935):** QUAESTIO II *Utrum peccatum in Spiritum sanctum sit irremissibile*, printed **pp.988-991** (PDF 1010-1013), **21-entry apparatus** (per-page restart, continuous slugs: p.988 footers **1,4,5** [`[^1]` Matth.26:41 **migrated forward** from a2-q1 — a2-q1 consumed only p.988 footers 2-3 / `[^2]` Vers.31 Alex.Hal. on fund.1 blasphemy clause / `[^3]` Quae hic ut verba Glossae on fund.2]; p.989 footers **1-8** [`[^4]`-`[^11]`, footer 8 = `[^11]` = the Respondeo *Hic circa medium / Magister in littera* note]; p.990 footers 1-7 [`[^12]`-`[^18]`]; p.991 footers 1-3 [`[^19]`-`[^21]`]). `has_scholion: false` — Scholion II (held in a2-q1) covers this q. Marker pairing 21/21 clean. Alignment PASS (`Secundo quaeritur de istius peccati irremissibilitate` = q2). Running heads confirmed via low-dpi render (p.989 `DIST. XLIII. ART. II. QUAEST. II. 989`; p.991 `DIST. XLIII. ART. III. QUAEST. I. 991`). Build 875 q / 863 translated. Audits: a2-q2 lands OK on paraphrase (3 HIGH = the 3 remaining d.43 skeletons a3-q1/a3-q2/dubia); header DUB -1 benign (lives in still-skeleton dubia); apparatus-count flags only the 3 skeletons. No `[?]` flags (footer-1 anchor ambiguity documented in `## Notes`, not flagged).
 
