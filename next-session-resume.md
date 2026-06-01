@@ -1,10 +1,16 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-05-31 (d42-dubia promoted -> Tier 2, commit f28d767; **d.42 COMPLETE**)
+**Last updated:** 2026-05-31 (d43-littera promoted -> Tier 2, commit 945a42c)
 
 **Branch:** master
 
-## NEXT ACTION -> `bon-sent-II-d43-littera` (d.42 is now COMPLETE)
+## NEXT ACTION -> `bon-sent-II-d43-divisio`
+
+**`bon-sent-II-d43-littera` shipped 2026-05-31 (commit 945a42c):** Lombard CAP. UNICUM *De peccato in Spiritum sanctum*, printed **pp.979-981** (PDF 1001-1003), **10-entry apparatus** (per-page restart: p.979 littera footers **1-3** rendered `[^1]`-`[^3]`, beginning AFTER the `NOTAE AD LIBR. SENTENTIARUM.` divider — the p.979 footers 1-6 stayed with d42-dubia DUB. IV, NOT re-claimed; p.980 footers **1-10** rendered `[^4]`-`[^10]`). `has_scholion: false` (littera). Marker pairing 10/10 clean. Build 875 q / 858 translated. Audits: littera lands OK on paraphrase (8 HIGH = remaining d.43 skeletons); header Q-LOSS/A-LOSS is benign (ART/QUAEST/DUB headers live in the still-skeleton commentary chunks, not the littera); apparatus-count flags only the 8 d.43 skeletons. **[?] flag:** p.981 littera carries 3 superscript markers but Quaracchi printed NO `Notae ad Libr. Sententiarum` block on p.981 (only `Notae ad Commentarium`, which belongs to d43-divisio) — rendered as plain text, no apparatus fabricated; resolve in the d.50 decade polish.
+
+> **HAND-OFF TO d43-divisio (forwarded):** `COMMENTARIUS IN DISTINCTIONEM XLIII` / lemma *De peccato in Spiritum sanctum* / `DIVISIO TEXTUS` / `TRACTATIO QUAESTIONUM` begin at raw **68158**, in the lower half of printed **p.981** (PDF 1003), immediately after the littera tail `…superius dictum est.` Seam grammatically clean (commentary opens `Supra egit Magister de distinctione peccatorum in generali…`). **The p.981 `NOTAE AD COMMENTARIUM` footers all belong to d43-divisio** — left col: ¹ `Libr. I. c. 3. n. 54. Locus Scripturae est Matth. 12, 32. Inferius respicitur ibid. v. 24, 28. — Pro definitam Bonav. legit definitivam`; ² `Codd., excepto D, peccant`; ³ `Libr. I. d. XXXIV. c. 4`; right col: ¹ `Vat. cum edd. 3, 4 sic: quid sit secundum aliorum assignationem et etiam secundum propriam`; ² `Edd. ipsius`; ³ `Cod. T declarationem`. TRACTATIO QUAESTIONUM: ARTICULUS I (de comparatione ad alia peccatorum genera) q1 (`utrum peccatum in Spiritum sanctum dicat genus peccati distinctum`) + q2 (`utrum … semper habeat aliud peccatum actuale praeambulum`); ARTICULUS II (de conditionibus propriis) + ARTICULUS III (de speciebus et differentiis) continue on p.982+. Offset `pdf = printed + 22`; OCR running-head digits mangled — confirm printed_pages via low-dpi render. d.50 is the next decade polish gate.
+
+## NEXT ACTION (superseded) -> `bon-sent-II-d43-littera` (d.42 is now COMPLETE)
 
 **`bon-sent-II-d42-dubia` shipped 2026-05-31 (commit f28d767):** *Dubia circa litteram Magistri* — 4 doubts (DUB. I reatus foundation / DUB. II the 7 divisions of sin / DUB. III the 7 capital vices / DUB. IV initium vs radix), printed **pp.974-979** (PDF 996-1001), **48-entry apparatus** (per-page restart: p.974 footers **7-8 picked up** from a3-q2 [`[^7]`,`[^8]`]; p.975 1-12; p.976 1-11; p.977 1-10; p.978 1-7; p.979 1-6, the p.979 LEFT-col footer block all belonging to DUB. IV). `has_scholion: false` (dubia block). Marker pairing 48/48 clean. Build 875 q / 857 translated. Audits all clean (paraphrase 0 crit/0 high; headers no flag; apparatus 0 flagged). No `[?]` flags. **d.42 COMPLETE.**
 
