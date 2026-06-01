@@ -1,10 +1,16 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-05-31 (d42-a3-q2 promoted -> Tier 2, commit 1713aee)
+**Last updated:** 2026-05-31 (d42-dubia promoted -> Tier 2, commit f28d767; **d.42 COMPLETE**)
 
 **Branch:** master
 
-## NEXT ACTION -> `bon-sent-II-d42-dubia` (d.42 a3-q2 now Tier 2; a3-q2 was the LAST article chunk of d.42)
+## NEXT ACTION -> `bon-sent-II-d43-littera` (d.42 is now COMPLETE)
+
+**`bon-sent-II-d42-dubia` shipped 2026-05-31 (commit f28d767):** *Dubia circa litteram Magistri* — 4 doubts (DUB. I reatus foundation / DUB. II the 7 divisions of sin / DUB. III the 7 capital vices / DUB. IV initium vs radix), printed **pp.974-979** (PDF 996-1001), **48-entry apparatus** (per-page restart: p.974 footers **7-8 picked up** from a3-q2 [`[^7]`,`[^8]`]; p.975 1-12; p.976 1-11; p.977 1-10; p.978 1-7; p.979 1-6, the p.979 LEFT-col footer block all belonging to DUB. IV). `has_scholion: false` (dubia block). Marker pairing 48/48 clean. Build 875 q / 857 translated. Audits all clean (paraphrase 0 crit/0 high; headers no flag; apparatus 0 flagged). No `[?]` flags. **d.42 COMPLETE.**
+
+> **HAND-OFF TO d43-littera (forwarded):** DISTINCTIO XLIII (`CAP. UNICUM. De peccato in Spiritum sanctum.`) begins in the **LEFT column of printed p.979** (PDF 1001), immediately after the dubia tail `…dicta sufficiant.` — raw line **68026**. The dubia and d.43 share printed page 979: the **p.979 left-column footer block (footers 1-6) all belong to the d42-dubia DUB. IV** (rendered there as `[^1e]`-`[^6e]`) — do NOT re-claim them for d.43. The d.43 footers begin at the `NOTAE AD LIBR. SENTENTIARUM.` divider (footer 1 = Matth. 12:32 / 1 Ioan. 5:16 / Marc. 3:29 / Luc. 12:10; footer 2 = Glossa in Rom. 2:5; footer 3 = Gen. 4:13). Seam is grammatically clean. Offset `pdf = printed + 22`; OCR running-head digits mangled — confirm printed_pages via low-dpi render. d.43 is the LAST distinction before the **d.50 decade polish gate** is still far off; d.43 has only CAP. UNICUM (de peccato in Spiritum sanctum) — likely littera + divisio + a small number of quaestiones.
+
+## NEXT ACTION (superseded) -> `bon-sent-II-d42-dubia` (d.42 a3-q2 now Tier 2; a3-q2 was the LAST article chunk of d.42)
 
 **`bon-sent-II-d42-a3-q2` shipped 2026-05-31 (commit 1713aee):** QUAESTIO II *Utrum peccatum habeat dividi per aversionem et conversionem tanquam per diversas peccatorum differentias*, printed **pp.973-974** (PDF 995-996), 15-entry apparatus (per-page restart: p.973 1-9, p.974 1-6), `has_scholion: false` (a3-q1 Scholion II covers it). Marker pairing 15/15 clean. Alignment PASS (`Secundo quaeritur… per diversas peccatorum differentias` = q2). Build 875 q / 856 translated. Audits: a3-q2 paraphrase HIGH flag is benign (no line_start/line_end on Tier-2 frontmatter -> content audit skipped, not a paraphrase issue); header audit clean; apparatus-count flags only the remaining d42-dubia skeleton (+52).
 
@@ -57,7 +63,7 @@
 | `d42-a2-q2` | Tier 2 complete (commit 86c8201, pp.967-970, 27-entry apparatus) |
 | `d42-a3-q1` | Tier 2 complete (commit 63ccdff, pp.970-973, 20-entry apparatus, Scholion I-II) |
 | `d42-a3-q2` | Tier 2 complete (commit 1713aee, pp.973-974, 15-entry apparatus) |
-| `d42-dubia` | auto-chunked skeleton (NEXT) |
+| `d42-dubia` | Tier 2 complete (commit f28d767, pp.974-979, 48-entry apparatus, 4 dubia) |
 
 ### Next: d.42 dubia
 
