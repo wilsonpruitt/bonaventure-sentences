@@ -1,10 +1,16 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-05-31 (d42-a3-q1 promoted -> Tier 2, commit 63ccdff)
+**Last updated:** 2026-05-31 (d42-a3-q2 promoted -> Tier 2, commit 1713aee)
 
 **Branch:** master
 
-## NEXT ACTION -> `bon-sent-II-d42-a3-q2` (d.42 a3-q1 now Tier 2)
+## NEXT ACTION -> `bon-sent-II-d42-dubia` (d.42 a3-q2 now Tier 2; a3-q2 was the LAST article chunk of d.42)
+
+**`bon-sent-II-d42-a3-q2` shipped 2026-05-31 (commit 1713aee):** QUAESTIO II *Utrum peccatum habeat dividi per aversionem et conversionem tanquam per diversas peccatorum differentias*, printed **pp.973-974** (PDF 995-996), 15-entry apparatus (per-page restart: p.973 1-9, p.974 1-6), `has_scholion: false` (a3-q1 Scholion II covers it). Marker pairing 15/15 clean. Alignment PASS (`Secundo quaeritur… per diversas peccatorum differentias` = q2). Build 875 q / 856 translated. Audits: a3-q2 paraphrase HIGH flag is benign (no line_start/line_end on Tier-2 frontmatter -> content audit skipped, not a paraphrase issue); header audit clean; apparatus-count flags only the remaining d42-dubia skeleton (+52).
+
+> **HAND-OFF TO d42-dubia (forwarded):** The DUBIA block (`DUBIA CIRCA LITTERAM MAGISTRI` / `DUB. I.`) begins at raw **67682**, opening on the bottom of printed **p.974** (PDF 996) and continuing onto p.975+. **p.974 footers 7 and 8 belong to the dubia, NOT to a3-q2** — a3-q2 consumed p.974 footers 1-6 (rendered `[^10]`-`[^15]`); do NOT re-claim them. The dubia's first two body-footers (the SHARED p.974 footer split) are: footer 7 = `Vide scholion ad praecedentem quaest.` (anchored on the DUB. I opener `…postquam transit actu`); footer 8 = `Quod insinuatur hic in lit. Magistri, c. 2. — Omnes edd. et Magistri et Comment. cum codd. habent postquam transit pro postquam transiit. Unde nihil immutavimus.` The dubia then continues with its own fresh p.975 footer sequence. DUB. I = *utrum peccatum interdum est in aliquo reatu postquam transit actu* (super quid fundetur reatus sive obligatio ad poenam; opinio 1 reatus super actum, etc.). d.42 dubia apparatus audit diff +52 (whole-distinction dubia block — expect multiple DUB. with per-page footer sequences across pp.974-97x).
+
+## NEXT ACTION (superseded) -> `bon-sent-II-d42-a3-q2` (d.42 a3-q1 now Tier 2)
 
 **`bon-sent-II-d42-a3-q1` shipped 2026-05-31 (commit 63ccdff):** ARTICULUS III opener (`De modis dividendi peccata.`) folded in + QUAESTIO I *Utrum peccatum habeat dividi per differentias materiales tantum, an etiam per formales*, printed **pp.970-973** (PDF 992-995), 20-entry apparatus (per-page restart rendered as running slugs `[^1]`-`[^20]`: p.970 footers **6-10 picked up** [1-5 were a2-q2's], p.971 1-9, p.972 1-6; p.973 has no q1 body-footer — body there is Scholion + q2 opener). `has_scholion: true` — **Article-III Scholion I-II held here; Scholion II ("De seq. (2.) quaestione…") covers a3-q2.** Marker pairing 20/20 clean. Alignment PASS (`Primo quaeritur… an per differentias formales et specificas` = q1). Build 875 q / 855 translated. Audits: a3-q1 does NOT flag; the 2 flagged d.42 chunks are the remaining skeletons (a3-q2 +19, dubia +52).
 
@@ -50,17 +56,17 @@
 | `d42-a2-q1` | Tier 2 complete (commit f604e20, pp.964-966, scholion I-II) |
 | `d42-a2-q2` | Tier 2 complete (commit 86c8201, pp.967-970, 27-entry apparatus) |
 | `d42-a3-q1` | Tier 2 complete (commit 63ccdff, pp.970-973, 20-entry apparatus, Scholion I-II) |
-| `a3-q2`, `d42-dubia` | auto-chunked skeleton (NEXT: a3-q2) |
+| `d42-a3-q2` | Tier 2 complete (commit 1713aee, pp.973-974, 15-entry apparatus) |
+| `d42-dubia` | auto-chunked skeleton (NEXT) |
 
-### Next: d.42 a3-q2
+### Next: d.42 dubia
 
-`bon-sent-II-d42-a3-q2` (*Utrum peccatum habeat dividi per aversionem et conversionem tanquam per diversas peccatorum differentias*):
-- `Secundo quaeritur` body opener at raw **67587**, opening in the **R-column of printed p.973** (PDF 995); continues onto p.974+.
-- Alignment = q2 (`per aversionem et conversionem tanquam per diversas peccatorum differentias`).
-- **a3-q2 has NO scholion of its own** — Article-III Scholion II (held in a3-q1) covers it; set `has_scholion: false`.
-- **a3-q2's footer sequence is the fresh p.973 sequence** (Jeremiah 2 / Ecclesiasticus 10 references); no a3-q1 footer migrates forward.
-- After a3-q2 comes d42-dubia -- still an auto-chunked skeleton (apparatus audit diff +52).
+`bon-sent-II-d42-dubia` (*DUBIA CIRCA LITTERAM MAGISTRI*) — the LAST unit of d.42:
+- `DUBIA CIRCA LITTERAM MAGISTRI` / `DUB. I.` at raw **67682**, opening at the bottom of printed **p.974** (PDF 996); continues onto p.975+.
+- DUB. I = *utrum peccatum interdum est in aliquo reatu postquam transit actu* (Quaeritur: super quid fundetur reatus sive obligatio ad poenam; opinio 1 = reatus super actum; non probat possibilitas absolutionis; opinio auctoris = duplex obligatio respectu poenae aeternae / temporalis).
+- **SHARED p.974 footer split:** p.974 footers 7 (`Vide scholion ad praecedentem quaest.`) and 8 (`Quod insinuatur hic in lit. Magistri c.2 — …postquam transit pro postquam transiit…`) belong to the dubia and are its first two body-footers. a3-q2 consumed p.974 footers 1-6; do NOT re-claim. Then fresh p.975+ footer sequences.
 - **Offset:** `pdf = printed + 22`; OCR running-head digits in this band are mangled -- trust running-head *text* + offset and confirm with a low-dpi PDF render before committing.
+- After d42-dubia, d.42 is COMPLETE -> advance to d.43-littera. (d.50 is the next decade polish gate.)
 
 **Polish gate:** d.41 is NOT a decade boundary. The d.31-d.40 polish gate already closed; next gate fires at d.50. No polish blocker now.
 
