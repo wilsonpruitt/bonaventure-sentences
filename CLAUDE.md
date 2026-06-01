@@ -1,6 +1,6 @@
 # Bonaventure Sentences — Project Guide for Claude
 
-You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Current scope: Volume I (*Commentarius in I Sententiarum*). The live site is https://bonaventure.wrootpress.com.
+You are working on an English translation of **St. Bonaventure's *Opera Omnia*** (Quaracchi edition, 1882–1902). Status (2026-06-01): **Vol I (Book I, 48 dist.) and Vol II (Book II, 44 dist.) are fully Tier-2 and published.** The active front is **Vol III** (Book III, 40 dist.); Book IV has 50 dist. The live site is https://bonaventure.wrootpress.com. Always defer to `next-session-resume.md` for the exact current position.
 
 This file is loaded into every Claude Code session in this repo. Read it before making changes to translation files or the build pipeline.
 
