@@ -81,3 +81,37 @@ No duplicate remains; both chunks agree the note lives in d43-dubia.
 **New `[?]` left:** none. (Item 2's `[^2]` Luc. 10:16 tail is formally ACCEPT-ILLEGIBLE — the `[?]` token was removed and replaced with an explanatory ellipsis + Notes disposition.)
 
 **Note:** d.44 is the last distinction of Vol II; there is no d.50 polish gate beyond this. When Vol II ships, update landing/About copy per MEMORY.md `update-about-copy-after-vol2`.
+
+---
+
+## Pass 2 — full-corpus style/formatting audit (2026-06-01)
+
+Programmatic scan over **every Tier-2 chunk** (`transcription_status` starts with `Phase C Tier 2 complete —`) in both `vol1/` and `vol2/`. This is the corpus-wide drift check (not last-decade-only): its purpose is to keep formatting drift from compounding as new chunks are added. Script: `/tmp/pass2_audit.py`.
+
+**Scanned: 874 Tier-2 chunks (vol1 = 410, vol2 = 464).**
+
+### Per-check results
+
+| Check | Result |
+|---|---|
+| 1. Required frontmatter (`title_la`/`title_en`/`printed_pages`/`pdf_pages`/`source`/`has_apparatus`/`transcription_status`/`id`/`type`) | **0 violations** |
+| 2. Structure (`## Latin`, `## English`, `## Apparatus` when `has_apparatus`) | **0 violations** |
+| 3. Apparatus marker pairing | 14 entries flagged — all FALSE POSITIVE (per-page footnote-number restart; see below) |
+| 4. Page-break presence (`<!-- page N -->` in Latin) | **0 violations** |
+| 5. `transcription_status` exact prefix `Phase C Tier 2 complete —` | **0 violations** |
+| 6. `title_en` not bloated (no `I/II Sent.,` / `d. N` breadcrumb prefix) | **0 violations** |
+| 7. `**En.**` 4-vs-5(vs-6)-space intra-file indent mixing | 1 violation — **FIXED** |
+| 8. Legacy auto-chunked `dN-divisio` superseded by `dN-p1/p2-divisio` | **0 violations** |
+
+### FIXED
+
+- **`d9-littera` (vol2) — check 7, mixed `**En.**` continuation indents.** Apparatus entries `[^1]`–`[^9]` used a 5-space continuation indent; `[^10]`–`[^18]` used 6 spaces. Per CLAUDE.md the corpus convention is 5 spaces (4 also accepted; 6 is non-standard). Normalized the 18→ the nine 6-space lines down to 5 spaces (mechanical, `perl -i -pe`), so the whole file is uniform 5-space. The `[^N]:` defs themselves were already at column 0; only the `**En.**` line indents changed. Build re-parses cleanly (parser is indent-tolerant; this is hygiene, not a parse fix).
+
+### FLAGGED / ACCEPTED (no change)
+
+- **Check 3 — 14 "duplicate def" flags across `d38-a1-q1` (`[^1]`–`[^7]` ×2) and `d42-a2-q1` (`[^2]`–`[^8]` ×2): ACCEPTED, false positive.** Quaracchi restarts footnote numbering on each printed page, so a multi-page chunk legitimately carries two `[^1]…[^N]` sequences. Both chunks span 3 printed pages (`d38-a1-q1` = pp.881–883; `d42-a2-q1` = pp.964–966) and the build parser maps the repeated markers positionally. This is the documented per-page-restart convention, not drift. No change.
+- **No marker-pairing orphans found** — every `[^N]:` definition has a matching anchor in BOTH the Latin and English bodies, and every body anchor has a definition, across all 874 chunks. (The initial audit run reported a large spurious count from a regex bug: body anchors that legitimately precede a `:` introducing a quotation, e.g. `*de Trinitate*[^3]: «Uti…»`, were mis-excluded by a `(?!:)` lookahead. Corrected to distinguish line-start `^\s*[\^N]:` definitions from in-text anchors; re-run gave the clean result above.)
+
+**Build after fix:** `node site/scripts/build-content.mjs` → `2 book(s), 875 questions, 875 translated` — clean.
+
+**Files changed this pass:** `vol2/bon-sent-II-d9-littera.md`, `site/src/data/content.json`, this log.

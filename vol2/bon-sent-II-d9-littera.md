@@ -180,39 +180,39 @@ For it is not according to the number of those who fell, but of those who remain
 
 [^10]: **La.** Ezech. 28, 12. seqq. Cfr. Gregor., loc. cit. n. 7. in fine. Locus Apostoli est Eph. 6, 12.
 
-      **En.** Ezekiel 28:12ff. Cf. Gregory, loc. cit. n. 7, at the end. The Apostle's passage is Ephesians 6:12.
+     **En.** Ezekiel 28:12ff. Cf. Gregory, loc. cit. n. 7, at the end. The Apostle's passage is Ephesians 6:12.
 
 [^11]: **La.** Sola Vat. *quod fuerint*. Paulo superius pro *quia ante* codd. D E *quod ante*. Aliquanto inferius pro *amplius perspicaces* Vat. cum nonnullis aliis edd. *magis perspicaces*.
 
-      **En.** Only the Vatican edition reads *quod fuerint*. A little above, in place of *quia ante* codices D and E read *quod ante*. Somewhat further below, in place of *amplius perspicaces* the Vatican edition with some other editions reads *magis perspicaces*.
+     **En.** Only the Vatican edition reads *quod fuerint*. A little above, in place of *quia ante* codices D and E read *quod ante*. Somewhat further below, in place of *amplius perspicaces* the Vatican edition with some other editions reads *magis perspicaces*.
 
 [^12]: **La.** August., IV. *de Gen. ad lit.* c. 3. n. 7. Locus s. Scripturae praecedens est Sap. 11, 21.
 
-      **En.** Augustine, *On Genesis according to the Letter* book IV, c. 3, n. 7. The preceding passage of Sacred Scripture is Wisdom 11:21.
+     **En.** Augustine, *On Genesis according to the Letter* book IV, c. 3, n. 7. The preceding passage of Sacred Scripture is Wisdom 11:21.
 
 [^13]: **La.** Luc. 15, 8-10, quem locum Gregorius (loc. cit. n. 6.) exponens intelligit decimam drachmam perditam hominem lapsum, asserens: *ut compleretur electorum numerus, homo decimus est creatus, qui a Conditore suo nec post culpam periit, quia hunc aeterna Sapientia, per carnem miraculis coruscans ex lumine testae, reparavit*. Cfr. ibid. n. 11.
 
-      **En.** Luke 15:8–10, which passage Gregory (loc. cit. n. 6), in expounding, understands the lost tenth drachma to be fallen man, asserting: *that the number of the elect might be filled up, a tenth man was created, who did not perish from his Maker even after his fault, because the eternal Wisdom, shining with miracles through the flesh from the light of the potsherd, restored him*. Cf. ibid. n. 11.
+     **En.** Luke 15:8–10, which passage Gregory (loc. cit. n. 6), in expounding, understands the lost tenth drachma to be fallen man, asserting: *that the number of the elect might be filled up, a tenth man was created, who did not perish from his Maker even after his fault, because the eternal Wisdom, shining with miracles through the flesh from the light of the potsherd, restored him*. Cf. ibid. n. 11.
 
 [^14]: **La.** Vat. cum edd., exc. 1, *ut possit*, contradicentibus omnibus codd., etiam cod. Erf., qui hic annotat: *haec est sententia Gandolphi, lib. II. c. 35*.
 
-      **En.** The Vatican edition with the editions, except edition 1, reads *ut possit*; all the codices contradict, including codex Erf., which here notes: *this is the opinion of Gandulphus, book II, c. 35*.
+     **En.** The Vatican edition with the editions, except edition 1, reads *ut possit*; all the codices contradict, including codex Erf., which here notes: *this is the opinion of Gandulphus, book II, c. 35*.
 
 [^15]: **La.** Eph. 1, 10. (Vulg. *instaurare*). Deinde respicitur I. Petr. 1, 18.
 
-      **En.** Ephesians 1:10 (the Vulgate has *instaurare*). Then 1 Peter 1:18 is referred to.
+     **En.** Ephesians 1:10 (the Vulgate has *instaurare*). Then 1 Peter 1:18 is referred to.
 
 [^16]: **La.** Loc. cit. n. 11. In textu cit. ed. 4 *tantum humani generis ascendere, quantos*; originale *tantum credimus humanum genus ascendere, quantos*. Locus Deut. est 32, 8. Vulgata: *Constituit terminos populorum iuxta numerum filiorum Israel*. Lectio Gregorii est iuxta Septuag.
 
-      **En.** Loc. cit. n. 11. In the cited text, edition 4 reads *tantum humani generis ascendere, quantos*; the original reads *tantum credimus humanum genus ascendere, quantos*. The Deuteronomy passage is 32:8. The Vulgate has: *He fixed the bounds of the peoples according to the number of the sons of Israel*. Gregory's reading is according to the Septuagint.
+     **En.** Loc. cit. n. 11. In the cited text, edition 4 reads *tantum humani generis ascendere, quantos*; the original reads *tantum credimus humanum genus ascendere, quantos*. The Deuteronomy passage is 32:8. The Vulgate has: *He fixed the bounds of the peoples according to the number of the sons of Israel*. Gregory's reading is according to the Septuagint.
 
 [^17]: **La.** Cap. 29. n. 9, et XXII. *de Civ. Dei*, c. 1. Verba *quae sterilis apparebat* alludunt ad Isai. 54, 1: *Lauda sterilis, quae non paris; decanta laudem et hinni, quae non pariebas: quoniam multi filii desertae* etc.
 
-      **En.** Augustine, *Enchiridion* c. 29, n. 9, and *de Civitate Dei* book XXII, c. 1. The words *who appeared barren* allude to Isaiah 54:1: *Praise, O barren one, who do not bear; break forth into praise and neigh, you who did not bring forth: for many are the children of the forsaken one*, etc.
+     **En.** Augustine, *Enchiridion* c. 29, n. 9, and *de Civitate Dei* book XXII, c. 1. The words *who appeared barren* allude to Isaiah 54:1: *Praise, O barren one, who do not bear; break forth into praise and neigh, you who did not bring forth: for many are the children of the forsaken one*, etc.
 
 [^18]: **La.** Rom. 4, 17.
 
-      **En.** Romans 4:17.
+     **En.** Romans 4:17.
 
 ---
 
