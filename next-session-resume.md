@@ -1,14 +1,14 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-05-31 (d42-a1-q1 promoted -> Tier 2, commit 93e7ad2)
+**Last updated:** 2026-05-31 (d42-a1-q2 promoted -> Tier 2, commit b302dc0)
 
 **Branch:** master
 
-## NEXT ACTION -> `bon-sent-II-d42-a1-q2` (d.42 a1-q1 now Tier 2)
+## NEXT ACTION -> `bon-sent-II-d42-a2-q1` (d.42 a1-q2 now Tier 2)
 
-**`bon-sent-II-d42-a1-q1` shipped 2026-05-31 (commit 93e7ad2):** ARTICULUS I opener (folded in) + QUAESTIO I *Utrum peccatum voluntatis et operis sint duo peccata, vel unum*, printed **pp.960-962** (PDF 982-984), 15-entry apparatus (per-page restart 960:1-8 / 961:1-7 / 962:1), `has_scholion: true` (I-II), marker pairing 15/15 clean (per-page numeral collisions slugged `[^4-2]`/`[^6-2]`/`[^7-2]`). Alignment PASS (`Circa primum… utrum… duo peccata vel unum` = q1; `Secundo quaeritur` = q2 at raw 66848). Build 875 q / 851 translated.
+**`bon-sent-II-d42-a1-q2` shipped 2026-05-31 (commit b302dc0):** QUAESTIO II *Utrum peccatum operis addat aliquid supra peccatum voluntatis*, printed **pp.962-964** (PDF 984-986), 13-entry apparatus (running slugs `[^1]`–`[^13]`; picked up the 3 migrated p.962 footers from q1 — Psalm 68:28 gloss `[^2]`, Augustine *de Trin.* `[^3]`, *de Lib. Arb.* I c.6 n.15 `[^4]` — plus p.962R 5-7, p.963 8-13, p.964 footer 1 `[^1]` *Vide scholion ad praecedentem quaest.*), `has_scholion: false` (q1 Scholion II covers q2). Marker pairing 13/13 clean. Alignment PASS (`Secundo quaeritur` = q2). Build 875 q / 852 translated. Audits: apparatus-count does NOT flag q2; the 5 flagged d.42 chunks are the remaining skeletons (a2-q1/q2, a3-q1/q2, dubia).
 
-> **HAND-OFF TO a1-q2 (forwarded):** q2 (`Utrum peccatum operis addat aliquid supra peccatum voluntatis`, `Secundo quaeritur…`) opens in the RIGHT column of printed **p.962** (PDF 984), raw **66848**. The shared p.962 footer block (L-2 band, read in printed order) splits by anchor: **footer 1 stayed with q1** (`[^12]`, Edd. addunt *peccata* / iunctum~coniunctum); **footers 2, 3, 4 migrate to q2** — (2) Psalm 68:28 interlinear gloss *Appone iniquitatem super iniquitatem*; (3) Augustine *de Trin.* (Mala enim voluntate… miser efficitur, miserior potestate); (4) Augustine *de Lib. Arb.* I, c.6 n.15. Lead q2's apparatus with these three. Also: q1's Scholion II covers q2's solution principles (treated supra d.40 a.2 q.1), so a missing q2 scholion is normal. q2 ends before ARTICULUS II (raw 66981) / a2-q1 (66990).
+> **HAND-OFF TO a2-q1 (forwarded):** ARTICULUS II (`De comparatione peccati venialis ad mortale`, short opener `Consequenter quaeritur circa secundum… quaeruntur duo`, raw **66981**) folds into a2-q1 per the Vol II chunking convention. **a2-q1** (`Utrum peccatum veniale et mortale conveniant in aversione`, `Circa primum sic proceditur… Primo quaeritur`, raw **66990**) opens in printed **p.964** (PDF 986) — fund. 1 (Augustinus, *peccatum non est appetitus rerum malarum*), fund. 2 (Ad Romanos 7, *Non concupisces* gloss), fund. 3 (sexto Musicae, *Amor inferioris pulcritudinis*). Alignment = q1 (`Primo quaeritur` / `conveniant in aversione`); q2 = `Secundo quaeritur, utrum conveniant in reatu sive obligatione ad aeternitatem poenae`. **p.964 footers 2, 3, 4 belong to a2-q1** (footer 2 = *De Natura boni* c. 34, 36 / *appetitus rerum* / Cfr. p. 838 n. 8; footer 3 = Plurima codd. + edd. 1, 2 *communicat*; footer 4 = Apoc.-numbering note, Ipsa verba Glossae vide supra p. 528 n. 4 et p. 721 n. 2). **p.964 footer 1 (`Vide scholion ad praecedentem quaest.`) was already consumed as q2's `[^1]`** — a2-q1's first fresh footer is the *De Natura boni* note; do NOT re-claim footer 1.
 
 **`bon-sent-II-d42-divisio` shipped 2026-05-31 (commit 4a689ee):** COMMENTARIUS IN DISTINCTIONEM XLII opener + subtitle *De differentiis peccatorum in communi* + lemma *Cum autem voluntas mala et operatio etc.* + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM, printed **p.959** (PDF 981), 3-entry apparatus (single p.959 footer sequence), `has_scholion: false`, marker pairing 1-3 clean, build 875 q / 850 translated. Seam with d42-littera verified clean (littera closes `…radix omnis mali.` immediately before the COMMENTARIUS opener; no leakage). TRACTATIO listing matches actual structure (3 articles actus/reatus/modus; a1 q1+q2, a2 q1+q2, a3 q1+q2). **Hand-off forwarded:** printed p.960 (PDF 982) is entirely a1-q1 (`ARTICULUS I. De comparatione peccati operis ad peccatum voluntatis. / QUAESTIO I. Utrum peccatum voluntatis et operis sint duo peccata, vel unum.`, raw 66682/66687) with its own fresh per-page footer sequence; no divisio footer belongs to a1-q1.
 
@@ -34,14 +34,15 @@
 | `d42-littera` | Tier 2 complete (commit 40e550d, pp.957-959) |
 | `d42-divisio` | Tier 2 complete (commit 4a689ee, p.959) |
 | `d42-a1-q1` | Tier 2 complete (commit 93e7ad2, pp.960-962) |
-| `d42-a1-q2`, `a2-q1` / `q2`, `a3-q1` / `q2`, `d42-dubia` | auto-chunked skeleton (NEXT: a1-q2) |
+| `d42-a1-q2` | Tier 2 complete (commit b302dc0, pp.962-964) |
+| `a2-q1` / `q2`, `a3-q1` / `q2`, `d42-dubia` | auto-chunked skeleton (NEXT: a2-q1) |
 
-### Next: d.42 a1-q2
+### Next: d.42 a2-q1
 
-`bon-sent-II-d42-a1-q2` (*Utrum peccatum operis addat aliquid supra peccatum voluntatis*):
-- `QUAESTIO II.` begins raw **66848**, opening in the RIGHT column of printed **p.962** (PDF 984). Opener `Secundo quaeritur, utrum peccatum operis addat supra peccatum voluntatis. Et quod sic, videtur.` — alignment = q2 (confirm Secundo). Body runs to `ARTICULUS II.` at raw **66981** / a2-q1 at **66990**.
-- **Pick up the 3 migrated p.962 footers from q1** (see hand-off above: Psalm 68:28 gloss; Augustine de Trin.; Augustine de Lib. Arb. I c.6 n.15) — these are q2's first fundamenta footers.
-- After a1-q2 come a2-q1 (66990, after ARTICULUS II at 66981), a2-q2 (67196), a3-q1/q2, and d42-dubia -- all still auto-chunked skeletons (apparatus audit diffs +15 to +52).
+`bon-sent-II-d42-a2-q1` (*Utrum peccatum veniale et mortale conveniant in aversione*):
+- ARTICULUS II opener `Consequenter quaeritur circa secundum… quaeruntur duo` (raw **66981**) folds into a2-q1. `QUAESTIO I.` opener `Circa primum sic proceditur et quaeritur, utrum veniale et mortale conveniant in aversione` at raw **66990**, opening in printed **p.964** (PDF 986). Alignment = q1 (`Primo quaeritur`); q2 = `Secundo quaeritur… conveniant in reatu sive obligatione`. Body runs to a2-q2 at raw **67196**.
+- **Pick up p.964 footers 2, 3, 4** (see hand-off above: De Natura boni c.34/36 + appetitus rerum; Plurima codd. communicat; Apoc.-numbering / Ipsa verba Glossae vide supra p.528 n.4 et p.721 n.2). **Do NOT re-claim p.964 footer 1** (`Vide scholion ad praecedentem quaest.`) — already consumed as q2's `[^1]`.
+- After a2-q1 come a2-q2 (67196), a3-q1/q2, and d42-dubia -- all still auto-chunked skeletons (apparatus audit diffs +19 to +52).
 - **Offset:** `pdf = printed + 22`; OCR running-head digits in the p.957-960 band are mangled -- trust running-head *text* + offset and confirm with a low-dpi PDF render before committing (verified for d42-littera + d42-divisio).
 
 **Polish gate:** d.41 is NOT a decade boundary. The d.31-d.40 polish gate already closed; next gate fires at d.50. No polish blocker now.
