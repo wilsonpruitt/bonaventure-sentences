@@ -1,10 +1,28 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-05-31 (d44-a3-q2 promoted -> Tier 2, commit fce620f)
+**Last updated:** 2026-05-31 (d44-dubia promoted -> Tier 2, commit e6ebf72 — **VOL II COMPLETE**)
 
 **Branch:** master
 
-## NEXT ACTION -> `bon-sent-II-d44-dubia` (LAST unit of Vol II -> Vol II COMPLETE on promotion)
+## ✅ VOL II COMPLETE — d.1 through d.44 all Tier 2 (875 questions, 875 translated)
+
+**`bon-sent-II-d44-dubia` shipped 2026-05-31 (commit e6ebf72):** *Dubia circa litteram Magistri* (Distinctio XLIV) — 3 doubts + the EPILOGUE to Liber Secundus, printed **pp.1015-1016** (PDF 1037-1038), **25-entry apparatus** (per-page restart: p.1015 footers 1-10 = `[^1]`-`[^10]` [L-col 1-5, R-col 6-10]; p.1016 footers 1-15 = `[^11]`-`[^25]` [L-col 1-7, R-col 8-15]). `has_scholion: false`. Dub. I (devil's power IS to be resisted — the Apostle's "non resistendum" = human not diabolical power); Dub. II (higher vs lower power in conflict — twofold: when lower flows totally from higher, obey higher; Pope's plenary power binds over any mediate prelate); Dub. III (Master adduced *dominandi* authorities for a *peccandi* question — apt by consequence, though less aptly; + the eight places the Master departs from common opinion + EPILOGUE). Body ends `Explicit liber secundus.`; OCR back-matter `INDEX QUAESTIONUM` follows immediately — confirms no further commentary. **CLEAN PAGE BREAK at the a3-q2 seam — no shared-footer split** (a3-q2 consumed all p.1014 footers; dubia get a fresh p.1015 sequence). Running heads confirmed via 450 dpi crops (p.1015 `DIST. XLIV. DUBIA. 1015`; p.1016 `1016 SENTENTIARUM LIB. II.`). Marker pairing 25/25 clean. Build **875 q / 875 translated** (previously 874). Audits: paraphrase 0 crit / 0 high (all 9 d.44 chunks OK — last skeleton cleared); header + apparatus audits empty tables (Tier-2 chunks have no line_start/line_end — expected). **No `[?]` flags.**
+
+## NEXT ACTION -> Vol II closing polish pass
+
+Vol II is fully Tier 2. The next work unit is a **Vol II closing polish pass** (NOT a d.50 decade gate — Vol II ends at d.44, so the standard every-10 polish-blocker does not apply; this is a one-time end-of-volume sweep). Known follow-ups to carry forward:
+
+1. **d44-littera `[^1]` possible duplicate** of d43-dubia `[^16]` — the *infra-d.44 / infirmus esse* footer was rendered in BOTH places (true home is d44-littera; d43-dubia rendered it earlier as its `[^16]`). Decide which to keep / cross-reference.
+2. **d44-a3-q1 cross-chunk anchor** for the *August. de Civ. Dei XIX c.15* footer (`Vide scholion ad praecedentem quaest.`) — verify the anchor home (rendered as a3-q1's `[^1]` per the forwarded hand-off; textually annotates a2-q2's Ad-4 tail).
+3. **d44-a3-q1 MISSING 3 footnote definitions** for p.1012 footers 1-3 (the reply-5 block: Matth.23:2 / Rom.8:21-22 / Vers.24) — a3-q1 has the reply-5 body but never rendered those 3 footers (documented in d44-a3-q2 `## Notes`).
+4. **d44-a3-q2 `[?]` flag** on `[^2]` — Luc.10:16 footer tail (`In fine arg. non pauci codd. cum edd. […]`) runs off the foot of the p.1012 L-col, illegible in crop + OCR. Resolve via 600 dpi hires render.
+5. **Landing/About copy still says "Volume I"** — `site/src/app/page.tsx:47,57` hardcode "Volume I" (per MEMORY.md `update-about-copy-after-vol2`). Update to reflect Vol I + Vol II both complete.
+
+Also consider: a full-corpus style/formatting audit across both volumes; production deploy (owner only).
+
+---
+
+## (Archived) NEXT ACTION -> `bon-sent-II-d44-dubia` (LAST unit of Vol II -> Vol II COMPLETE on promotion)
 
 **`bon-sent-II-d44-a3-q2` shipped 2026-05-31 (commit fce620f):** QUAESTIO II *Utrum religiosi teneantur praelatis suis obedire in omnibus, quae non sunt contra Deum* (LAST article-chunk of Vol II), printed **pp.1012-1014** (PDF 1034-1036), **20-entry apparatus** (per-page restart, continuous slugs: p.1012 footers **4-8** = `[^1]`-`[^5]` [footers 1-3 anchor a3-q1's reply 5 — see correction]; p.1013 footers 1-8 = `[^6]`-`[^13]` [L-col 1-2, R-col 3-8]; p.1014 footers 1-7 = `[^14]`-`[^20]`). Marker pairing 20/20 clean. Alignment PASS (`Secundo quaeritur, utrum religiosi teneantur praelatis suis obedire in omnibus, quae non sunt contra Deum` = q2). Running heads confirmed via 450 dpi crops (p.1012 `1012 SENTENTIARUM LIB. II.`; p.1013 `DIST. XLIV. ART. III. QUAEST. II. 1013`; p.1014 `1014 SENTENTIARUM LIB. II.`). Respondeo (duplex gradus obedientiae: secundum perfectionem / secundum necessitatis obligationem; 2 conclusiones) + 6 replies + Scholion I-II re-set from column-band crops. **TWO briefing errors corrected via PDF eyes-on:** (1) `has_scholion` is **true** — a3-q2 HAS its own scholion (I-II ending `Dionys. Carth., hic q. 5.`) printing on p.1014 after reply 6; the a3-q1 hand-off wrongly said a3-q2 had none (a3-q1's scholion ends `…hic q. 4.`). (2) **p.1012 footers 1-3 (Matth.23:2 / Rom.8:21-22 / Vers.24) belong to a3-q1's reply 5**, which prints atop p.1012's L-col — NOT to q2; q2's apparatus begins at p.1012 footer 4. (a3-q1's committed chunk has the reply-5 body but never rendered those 3 footers — residual gap, documented in a3-q2 `## Notes`; not patched here since Vol II ends at d.44 and d.50 polish gate does not apply.) Build 875 q / 874 translated. Audits: a3-q2 OK on paraphrase (1 HIGH = the remaining d44-dubia skeleton); header no flag (+3/+5 benign — a3-q2 holds the ART III + QUAEST + its own scholion headers); apparatus-count flags only d44-dubia (+23). **One `[?]` flag:** `[^2]` (Luc.10:16 footer tail `In fine arg. non pauci codd. cum edd. […]` runs off the foot of the L-col, illegible in crop + OCR).
 
