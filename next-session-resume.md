@@ -1,8 +1,14 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d1-littera DONE, commit bf1ec0e; apparatus 12→11 entries [orphan dropped], amend commit c24ef5d; NEXT = bon-sent-III-d1-divisio)
+**Last updated:** 2026-06-02 (Vol III d1-divisio DONE, commit 273e221; 6-entry apparatus; NEXT = bon-sent-III-d1-a1-q1)
 
 **Branch:** master
+
+## ✅ VOL III d1-divisio DONE 2026-06-02 (commit 273e221)
+
+`COMMENTARIUS IN DISTINCTIONEM I.` (subtitle *De unione naturarum in Christo ex parte personae assumentis*, incipit *Cum venit igitur plenitudo temporis etc.*) + `DIVISIO TEXTUS` (first divisio "in quatuor partes" on p.7 L-col; alternate "Vel aliter … in duas" p.7 R-col → p.8 L-col; subdivision "Prima pars, quae continet praesentem distinctionem" p.8 R-col) + `TRACTATIO QUAESTIONUM` (two-article frame + four-question list), printed **pp.7–8** (PDF 29–30), Latin re-set from 450 dpi column bands (raw 1141–1199), literal English, **6-entry apparatus**. `has_scholion: false`. **Per-page footer split:** p.7 `NOTAE AD COMMENTARIUM` 1–4 → `[^1]`–`[^4]` (anchors *quae praedicta sunt* / *impartiendo* / *assumtione* / *inserit*); p.8 footers **1–2** → `[^5]`–`[^6]` (anchors *capitulo* / *quantum*). **p.8 footers 3–5 FORWARDED to a1-q1** (Damascene 12-modes note + 2× `Cfr. I Sent. d.8`). Marker pairing 6/6/6 La=En, **0 anchorless defs**. Build **1272 q / 877 translated**. Audits: divisio cleared (paraphrase content-audit skipped = Tier-2 no line_start; the 9 HIGH + apparatus SKELETON-SUSPECT flags are the 9 remaining d.1 skeletons a1-q1..q4/a2-q1..q4/dubia; header Q-LOSS/A-LOSS = those skeletons, divisio correctly carries no ART/QUAEST body headers, only the TRACTATIO list). **No `[?]` flags.** Running heads: p.7 `DIST. I. DIVISIO TEXTUS. 7` (OCR `DLVISIO`); p.8 `8 … SENTENTIARUM LIB. III.`
+
+**Boundary lock:** divisio ends grammatically complete at the four `Primo/Secundo/Tertio/Quarto quaeritur …` lines (`…incarnari per se ipsam.`, raw ~1199). `ARTICULUS I.` (raw ~1200) + `QUAESTIO I.` (raw ~1204) belong to d1-a1-q1, NOT included.
 
 ## ✅ VOL III d1-littera DONE 2026-06-02 (commit bf1ec0e; apparatus 12→11 entries, orphan dropped, commit c24ef5d)
 
@@ -22,16 +28,15 @@ DISTINCTIO I littera Magistri (Cap. I *Quare Filius carnem assumsit, non Pater v
 - **Chunker fix:** d.33's header is OCR-mangled `DISTMCTIO XXXIII.` (uppercase IN→M, raw 49306); `RE_DISTINCTIO` was extended to `[ImM]` — without it all of d.33 silently folded into `d32-*-dup2`. Verified d.33 now has its own littera/divisio/a1-q1..q6/dubia.
 - **17 dup-ID files** (pars-relabel / rechunk-review backlog, resolve per-distinction at translation time): d3 (p2: divisio, a1-q1/q2, a2-q1/q2, dubia), d24 (a1-q1/q2/q3), d25 (a1-q1/q3), d34 (p1: a1-q1/q2/q3), d39 (a2-q1/q2/q3). **Pars splits detected: d.3 and d.34** (p1/p2).
 
-## NEXT ACTION → `bon-sent-III-d1-divisio` (COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM)
+## NEXT ACTION → `bon-sent-III-d1-a1-q1` (ARTICULUS I opener folds in + QUAESTIO I)
 
-**Raw 1141–~1199+, printed p.7 (R-col)→p.8.** Content = `COMMENTARIUS IN DISTINCTIONEM I.` (subtitle *De unione naturarum in Christo ex parte personae assumentis*) + `DIVISIO TEXTUS` + `TRACTATIO QUAESTIONUM` (Art. I has 4 questions: divina natura potuerit uniri / una persona sine alia / una persona simul cum alia / quaelibet trium personarum per se). Begins immediately after the littera tail at raw 1141.
+**Raw ~1200–~1461, printed p.8 (R-col)→onward.** Content = `ARTICULUS I.` (subtitle *De incarnatione quantum ad unionis possibilitatem*) — folds into a1-q1 per Vol II/III convention — + `QUAESTIO I. Utrum divina natura potuerit uniri cum humana natura.` Opener (raw ~1204): `Circa primum sic proceditur et quaeritur, utrum divina natura potuerit uniri cum humana natura. Et quod non, videtur.` Fund. 1: `Uniri est pati, sicut unire est agere³, ergo…`; fund. 2: `…cum sit simplicissima et perfectissima⁴: ergo etc.`; fund. 3: `…sed in Deo nulla potest esse mutatio, nulla imperfectio⁵: ergo nulla temporalis unio.`; fund. 4: `…quaecumque sunt unibilia, sunt ad invicem proportionabilia…`
 
-**HAND-OFF picked up from d1-littera (commit bf1ec0e):**
-1. The COMMENTARIUS/DIVISIO/TRACTATIO body itself (raw 1141+).
-2. **p.7 has its OWN `NOTAE AD COMMENTARIUM.` footer block** (fresh sequence 1–4): `1 In Prooemio pag. 2.`; `2 Edd. participando.`; `3 Cod. K addit sive de unione naturarum.`; `4 Codd. HMQS quaerit, edd. ostendit.` — these are the DIVISIO's footers (anchors `quae praedicta sunt`, `impartiendo`, `assumtione`, `inserit`). **The unnumbered variant fragment above NOTAE (`codd. BCD pro quoniam habent quando, ed.5 quando quidem.`) completes the LITTERA's [^11] (post-renumber; was [^12]) and was already rendered there — do NOT re-render it in the divisio.**
-3. The p.7 littera footers 1–3 are fully consumed by d1-littera ([^9]–[^11] post-renumber; was [^10]–[^12]); the divisio starts its footer numbering fresh from the `NOTAE AD COMMENTARIUM` block.
+**HAND-OFF picked up from d1-divisio (commit 273e221):**
+1. **a1-q1's FIRST footers are p.8 footers 3–5** (divisio consumed p.8 footers 1–2 as its `[^5]`–`[^6]`): footer **3** = `A Damasceno (ed. Migne, Patrol. Graec. tom. 95 col. 231, inter Fragmenta)…` — the LONG note enumerating Damascene's 12 modes of union (μῖξις/temperationem, κρᾶσιν, σωρείαν, φύσιν, ἀνάμιξιν, σύγχυσιν, ἁρμονίαν, παράθεσιν, συναλοιφήν, συνάφειαν, ὑπόστασιν, περιχώρησιν…), with the source shelf I Sent. d.19 p.II q.3; anchors fund. 1's `agere³`. Footer **4** = `Cfr. I Sent. d.8 p.II q.1 seq. … « Pars enim, ut ait Aristot., I Polit. c.3 (c.2), non solum alterius est pars, sed omnino alterius » … Pro ergo quod codd. AFU sed quod.`; anchors fund. 2's `perfectissima⁴`. Footer **5** = `Cfr. I Sent. d.8 p.I a.2 q.1 seq.`; anchors fund. 3's `imperfectio⁵`. Then fresh p.9+ footer sequences.
+2. **4-question alignment (CHECK):** the divisio's TRACTATIO lists Art. I's four questions in order — (1) *utrum divina natura potuerit uniri cum humana natura*; (2) *utrum una persona potuerit uniri sine alia*; (3) *utrum una persona potuerit uniri simul cum alia*; (4) *utrum quaelibet trium personarum potuerit incarnari per se ipsam.* The QUAESTIO I opener (`Circa primum … utrum divina natura potuerit uniri…`) aligns with question 1 — **no q-swap detected at the divisio level**; still verify a1-q1's opener against this when promoting (and that a1-q2/q3/q4 openers say *Secundo/Tertio/Quarto*).
 
-Apply the **Vol II PDF-priority workflow** (column-band PDF read authoritative in damaged regions; CLAUDE.md "VOL II OVERRIDE" carries to Vol III). Per-chunk recipe: re-chunk-verify boundaries from raw → `extract-pages.py --volume vol3 --pages 7-8 --dpi 450` + `colcrop.py vol3 7/8` → re-set Latin column-by-column → literal English → apparatus from raw OCR footers (per-page restart) → frontmatter Tier-2 + `## Notes` → audits (`--volume 3 --min-d 1 --max-d 1`) → smoke build → two commits. **Decade polish gate at d.10/d.20/d.30/d.40.** Audit scripts confirmed accepting `--volume 3` (verified on d1-littera 2026-06-02).
+Apply the **Vol II PDF-priority workflow** (column-band PDF read authoritative in damaged regions; CLAUDE.md "VOL II OVERRIDE" carries to Vol III). Per-chunk recipe: re-chunk-verify boundaries from raw → `extract-pages.py --volume vol3 --pages 8-N --dpi 450` + `colcrop.py vol3 8/…` → re-set Latin column-by-column → literal English → apparatus from raw OCR footers (per-page restart; lead with p.8 footers 3–5) → frontmatter Tier-2 + `## Notes` → audits (`--volume 3 --min-d 1 --max-d 1`) → smoke build → two commits. **Decade polish gate at d.10/d.20/d.30/d.40.** Audit scripts confirmed accepting `--volume 3`.
 
 ---
 
