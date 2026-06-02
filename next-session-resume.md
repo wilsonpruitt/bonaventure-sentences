@@ -1,8 +1,26 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d3-p1-littera DONE, commit 806d692 — shared Distinctio III littera; NEXT = bon-sent-III-d3-p1-divisio)
+**Last updated:** 2026-06-02 (Vol III d3-p1-divisio DONE, commit ff3e5f3 — Pars I divisio + tractatio; NEXT = bon-sent-III-d3-p1-a1-q1)
 
 **Branch:** master
+
+## ✅ VOL III d3-p1-divisio DONE 2026-06-02 (commit ff3e5f3) — Pars I DIVISIO TEXTUS + TRACTATIO QUAESTIONUM
+
+`COMMENTARIUS IN DISTINCTIONEM III. / Pars I. / De sanctificatione beatae Virginis` + `DIVISIO TEXTUS` + `TRACTATIO QUAESTIONUM`. Latin re-set from 450 dpi column bands (raw **4758–4807**), literal English, **2-entry apparatus**, **`has_scholion: false`**. Printed **p.60** (PDF 82) — whole divisio fits on one page; DIVISIO/TRACTATIO two columns reflowed L→R. DIVISIO TEXTUS: Pars I has two parts (sanctificatio / decimatio, latter infra d.4); prima pars → two parts (sanctificatio preceding Christ's conception / whether Christ's flesh could be tithed in Abraham) → three parts (exigentia / causa / efficacia). TRACTATIO: question circa sanctificationem Virginis quantum ad duo (congruentia temporis / efficacia virtutis); Circa primum tria — q1 ante animationem, q2 ante originalis contractionem, q3 ante nativitatis originem.
+
+**Apparatus split (2 entries, `[^1]`–`[^2]`):** the p.60 footers form TWO sequences. The **upper `NOTAE AD LIBR. SENTENTIARUM` L-col footers** (Tract. 10 / Vat. perperam *quia* / Libr. III de Fide orthod. c. 7) are the **littera's `[^14]`–`[^16]`** (commit 806d692) — OMITTED, not anchorless. This chunk takes the **lower `NOTAE AD COMMENTARIUM` R-col footers**: `[^1]` = *Haec ultima propositio… desideratur in edd.* (anchors DIVISIO-TEXTUS tail `considerationem¹`); `[^2]` = *Codd. A R T V W Y Z dd adiiciunt tota…* (anchors TRACTATIO `sanctificata fuerit²` in the Tertio-quaeritur line). **Marker pairing: 2 La = 2 En = 2 defs, continuous 1–2, 0 anchorless / 0 defless** (verified programmatically). Build **1272 q / 900 translated**. Audits: paraphrase 0 crit / 15 high (= 15 remaining d.3 skeletons; divisio CLEARED, littera SKIPPED-by-design); apparatus divisio NOT flagged (2 entries; the 15 skeletons flag chunk=0); header d.3 DUB/Q/A-LOSS = coarse Vol III artifact (raw counts whole-distinction ART/QUAEST/DUB headers from still-skeleton commentary chunks vs the divisio's prose TRACTATIO question-list — EXPECTED). **No `[?]` flags.** Running heads: p.60 L `60 SENTENTIARU[M]`, R `[SENTEN]TIARUM LIB. III.`.
+
+**Boundary lock:** divisio ends with the TRACTATIO question list (Tertio quaeritur… nativitatis originem, raw ~4788) + its two NOTAE AD COMMENTARIUM footers. `ARTiCULUS 1.` opener (raw 4804, subtitle *De sanctificatione Virginis quoad congruentiam temporis*) + `QUAESTIO I.` (raw 4808) begin d3-p1-a1-q1 on printed p.61 (running head `DIST. … P. I. ART. I. QUAEST. I. 61` at raw 4801) — NOT included. Continuous, no cascade-merge splice.
+
+## NEXT ACTION → `bon-sent-III-d3-p1-a1-q1` (ARTICULUS I opener folds in + QUAESTIO I)
+
+**Raw 4808–~5124, printed p.61+.** `ARTiCULUS 1.` (raw 4804, subtitle *De sanctificatione Virginis quoad congruentiam temporis*) folds into `QUAESTIO I. Utrum caro Virginis sanctificata fuerit ante animationem.` Per the chunking convention the short ART. I opener folds into a1-q1 (no standalone d3-p1-a1-divisio). **q1 body opener (raw 4811):** `Circa primum sic proceditur et quaeritur, utrum caro Virginis sanctificata fuerit ante animationem. Et probatur primo, quod sic: 1. Ieremiae primo¹: Antequam formarem te…`. **VERIFY alignment** (q1 opener should be `utrum caro Virginis sanctificata fuerit ante animationem` = TRACTATIO q1; STOP and report if it's q2/q3 wording — auto-chunker q-swap guard). PARS I structure: ART. I (q1,q2,q3) + ART. II (q1,q2,q3) + dubia. **Check for an ART. I scholion** on the PDF (per the d.1/d.2 per-question pattern).
+
+**HAND-OFF picked up from d3-p1-divisio (commit ff3e5f3):**
+1. **NO shared-page footer carries forward.** Both of p.60's footer sequences are consumed (littera's three `NOTAE AD LIBR.` `[^14]`–`[^16]`; this divisio's two `NOTAE AD COMMENTARIUM` `[^1]`–`[^2]`). a1-q1 opens p.61 with a **fresh per-page footer sequence** — verify on the p.61 bands (already cropped `/tmp/colcrop/vol3-p061-{L,R}-{0..2}.png`).
+2. **Crops ready:** `/tmp/colcrop/vol3-p061-{L,R}-{0..2}.png` (450 dpi) generated this session. q1 spills past p.61; generate p.62+ crops as needed.
+3. **Page span:** ART. I + q1 start on p.61 (running head `DIST. … P. I. ART. I. QUAEST. I. 61`) and spill onward. Confirm each page via running heads.
+4. **SCHOLION:** check the page after q1's replies for q1's OWN scholion; `has_scholion` per the PDF finding.
 
 ## ✅ VOL III d3-p1-littera DONE 2026-06-02 (commit 806d692) — shared littera Magistri for whole DISTINCTIO III
 
