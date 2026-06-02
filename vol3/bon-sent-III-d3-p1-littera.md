@@ -3,6 +3,7 @@ id: "bon-sent-III-d3-p1-littera"
 volume: 3
 book: 3
 distinctio: 3
+pars: 1
 type: littera
 line_start: 4619
 line_end: 4757

@@ -3,6 +3,7 @@ id: "bon-sent-III-d3-p2-a3-q2"
 volume: 3
 book: 3
 distinctio: 3
+pars: 2
 articulus: 3
 quaestio: 2
 type: quaestio

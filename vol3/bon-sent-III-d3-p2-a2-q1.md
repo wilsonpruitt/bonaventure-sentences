@@ -3,166 +3,181 @@ id: "bon-sent-III-d3-p2-a2-q1"
 volume: 3
 book: 3
 distinctio: 3
+pars: 2
 articulus: 2
 quaestio: 1
 type: quaestio
-line_start: 5603
-line_end: 5750
-word_count_latin: 1919
+line_start: 6467
+line_end: 6628
+word_count_latin: 2395
 transcription_status: "auto-chunked 2026-06-02"
 format_version: 1
 ---
 
-# bon-sent-III-d3-p2-a2-q1
+# bon-sent-III-d3-p2-a2-q1-dup2
 
 ## Latin
 
 QUAESTIO I.
-                  Utrum beata Virgo per sanctifi.calionis gratiam immunis fuerit ab omni acluali peccato.
+                 Utrum caro Christi in Abraham el aliis Patribus distincla fuerit secundum qualitatem
+                                             a carne aliorum hominum.
 
-                  Circa primum sic proceditur et ostenditur, quod                  3. Item, sanctificatio Virginis merito eminentior
-            per sanctificationis gratiam munda fuerit ab omni                 fuit quam sanctificatio beati loannis; sed de beato
-            actuali culpa. Et quod sic, probatur:                             loanne Baptista legitur9:
-                   1. Primo per Augustinum de Natura et gratia':                          Ne levi saltem maculare vitam
-Fundamenta. « L>e sancta Maria Virgine nullam prorsus, cum de                                    Famine posset.
-            peccatis agitur, habere volo quaestionem. lnde enim
-            scimus , quod ei plus gratiae sit collalum ad vincen-             Si igitur beatus Ioannes vitavit venialia, videtur,
-            dum ex omni parte peccatum, quod meruit parere                    quod beata virgo Maria omnia vitaverit peccata per
-            quem constat nullum habuisse peccatum ». Si ergo                  gratiam sibi datam.
-            vicil ex omni parte peccatum, videtur, quod immu-                      h. Item, de nulla anima potest dici: Tota pul-
-            nis fuerit ab omni culpa.                                         cra es, amica mea, et macula non est in tew, con-
-                  2. Item, Bernardus ad Lugdunenses 8 : « Pulo,               gruentius quam de Virgine Maria; ubi autem est ma-
-            quod copiosius munus gratiae in eam descenderit,                  cula vel culpa actualis, vel venialis vel mortalis,
-            quae eius non solum sanctificaret ortum, sed eam                  de eo non potest recte dici: ergo videtur, quod in
-            deinceps ab omni peccato custodiret immunem » :                   Virgine Maria nulla fuerit culpa per gratiam sibi
-            ergo videtur , quod nunquam peccavit actualiter.                  datam.
+                 Circa primum sic proceditur et ostenditur, quod              tum vulneris » : ergo si medicamenlum vulneris
+           caro Chrisli in Abraham et aliis Patribus dislincta                spectat ad Christum, vulnus praevaricationis spectat
+           fuerit secundum qualitatem a carne aliorum fdiorum.                ad alios, eadem igitnr fuit caro Christi in primis
+                  1. Septimo Sapientiae 2: Nihil coinquinatum in              parentibus cum carne aliorum: ergo non fuit distin-
+m lam.
+   opposi- illam incurrit: ergo     si caro Christi unita est Filio           cta ab aliis.
+                                °
+           Dei, qui est Dei virtus et Dei sapientia , videtnr,                      2. Item, Magister in principio huius distinctio-
+           quod nunquam fuerit inquinata; sed caro aliorum in                 nis7 loquens de carne Christi: «Credi oportet iuxta
+           parentibus inquinata fuit: ergo videtur, quod aliter               sanctorum Doctorum convenientiain , ipsam prius
+           fuerit caro Christi in Abraham quam aliorum.                       fuisse peccato obnoxiam, sicut fnit reliqua Virginis
+                 2. Item. in Christo debuit esse maxima puri-                 caro »: restat igitur idem quod prius, quod non fue-
+           tas; sed magis purum est quod nunquam fuit inqui-                  rit distincta ab aliis.
+           natum, quam illud quod aliquando inquinalum fuit:                        3. Item, quidquid lege corruptionis traducitur,
+           ergo videtur. quod caro Christi nec in se nec in pa-               corruptum est; sed tota caro Isaac, quae fuit tradu-
+           rentibus subiacuerit foeditati rorruptionis3: igitur a             cta ab Abraham, fuit corrupta: aut igitur 8 caro
+           carne aliorum hominum dislincta fuit qualitative.                  Christi non fuit traducta ab Abraham in Isaac, aut
+                 3. Ilem, allerius qualitatis est medicina et illud           si traducta fuit, ab aliis hominibus distincta non fuit.
+           quod curatur per medicinam; sed caro Christi fuit                        4. Item , aut caro Christi fuit similis carni
+           in Iumbis Patrum sicut medicina, sicut dicit Augu-                 Abrahae reliquae, aut non. Si similis, habeo propo-
+           stinus decimo super Genesim ad litteram ', caro                    situm; si dissimilis: ergo non videtur, quod talis
+           vero aliorum hoininum sicut indigens medicina: ergo                caro competerel ad redemptionem humani generis ".
+           videtur. quod habuerit qualitatem aliam et aliam.                  Si ergo hoc est falsum et inconveniens, restat ergo,
+                 4. Item, quod totaliter corruptum est non est                quod caro Christi a carne aliorum hominum non
+           possibile ad curationem: si ergo Adarn fuit possibilis             fuerit distincta.
+           ad curationem, aliqua particula remansit in eo in-                       5. Item, distinctio secundum oppositas qualila-
+           corrupta. Sed de illa particula, quae 5 sine corru-                les praesupponit dislinctionem secundum substan-
+           ptione erat, maxime decebat generari carnem, quae                  tiam, quia oppositae qualitates non possunt esse in
+           esset sine originali macula: ergo videtur etc.                     eodem et secundum idem 10; sed caro fdiorum in
+                 Sed contra: I. Augustinus decimo super Gene-                 primis parentibus non potuit habere distinctionein
+'ondaiMnia.sim ad litteram ": « Eadem namque caro non Abra-                   secundum substantiam, quia non esset tot alomos
+           hae tantum, sed ipsius prirni terrenique hominis si-               invenire in corpore Adae, quot inde filii procreati
+           inul habuit vulnus praevaricationis et medicamen-                  sunt : ergo si caro Christi in primis parenlibus non
 
+                                                                                  7 Cap. I.
+              1 Vat. habet impuritatis, et pnulo inferius post qiiam atldit
+        caro aliorum kominum , quod adUltamentum et infra in ipsa se-               8 Pro aut igitur cod. V et edd. I , 2 erijo simititer , Vat.
+        cunda quaestione reperilur.                                           ergo simul. Immediate ante pro quae fuit traducta ab Abra-
+              8 Vers. 25, ubi Vulgala cum edd. inquinalum pro coin-           ham eod. T qttia fuit tradiicla in Abraham. Leclionem in
+        qiiinitliim. Verba deinde Dri virtus et Dei sapientia inveniun-       Abraham habenl eliam codd. G H L N U V aa cc. Edd. I, 2 ls-
+        lur I. Cor. 1 , 2i. — Paulo superius posl utiorvm filiorum Vat.       gunt tota caro Ahraham , quae fuit traducta in Isaai:
+        cum cod. A snbiungit lil qnod sic videlur [Val. aelhuc addil                9 Vide infia d. 12. a. I. q. 1.
+        secnndiim itluW]. Pro unila codd. I! \V X iuncta.                           10 Aristot, de Praedicam. c. de Oppositis, et II. Periherm.
+              3 Codd. I! X carnis , Vat. corruptionis vel camis.              c. i. (c. 14.): Simul aulem non conlingit eidem inesse con-
+              * Cap. 20. n. 36. Verba ipsa videsis supra a. I. q. I. in       traria. — De propos. seq. cfr. II. Senl. d. XXX. lit. Magistri,
+        corp. circa finem et q. 2. funclam. I.                                c. 13. — Mox pro filiorum cod. X subsliluil aliorum, in edd.
+              5 Edd. loco erat, quod cmiitlunt, hic e.xhibent remansit.       legilur iiliorum filiorum.
+             o Cap. 20. n. 36.
+         86                                                   SENTENTIARUM LIB. III.
 
-               1 Cfr. August., Epist. 187. (alias 57.) c. 10. n. 33. — Edd.        7 Cap. 36. n. i2. Cfr. hic lit. Magistri, c. 2. In verbis ex
-         est egressus prolis de ventre.                                       August. citt. pro Inde enim edilio origin. exhibet Unde hoc
-               2 Part. II. a. I. q. I.                                        (interrogando) , cod. A In hoc. Deinde pro quod meruit pa-
-               3 Exemplum affert August., VIII. de Gen. ad lit. c. 12. n.     rere cotl. K quae parere mcruit, textus origin. quae concipere
-         26: Sicut aer praesente lumine non faclus est Iucidus, sedflt;       ac parere meruil, cod. F quod prolem meruit parere.
-         quia , si factus esset, non autem fieret, etiam absente lumine            8 Epist. 174. n. S: Ego puto, quod et copiosior sanctifi-
-         lticidus maneret. — Cod. K in, sua causa. Paulo superius pro         cationis benedictio in eam descenderit, quae ipsius non solum...
-         cum sua origine cod. Z cum sua causa. Paulo inferius pro             sed et vitam ab omni deinceps peccato custodiret immunem.
-         habet esse Vat. potest esse.                                              9 In hymno ad Matutinum festi S. Ioan., in quo hymno
-               4 Cod. T omittit corporeis , pro quo cod. K corporis,          rocentiora Breviaria pro Famine posset [Vat. posses] habent Gri-
-         codd. W X carms.
-                                                                              mine linguae. Hymnus iste altribuilur Paulo Diacono. In origi-
-              5 Cod. T Ad duo ultima patet responsio ex iam dictis. —         nali legitur posses pro posset. — Cfr. de hoc arg. Bernard. ,
-         Vide scholion ad praecedenlem quaest.                                Serm.10 2.Cant.
-                                                                                           in 4,
-                                                                                              assumt.
-                                                                                                  7. B. M. V. n. 8.
-              6 Cod. H adiicit artkulum. Paulo inferius pro immunis
-         codd. L aa mnnda.
-                                                                                                                                                             73
+         poluit distingui a carne aliorum secundum substan-                     rum clicta veridica, sed eliam contra verae
+         tiam, videtur etc.                                                     documenta. Sanctorum aucloritatibus repugnat : Raiio *-•
+               6. Item, si transfundebatur caro munda, aut                      quia Damascenus, doctor Graecus, et Auguslinus,
+         corruptibilis , aut incorruptibilis. Si incorruplibi-                  praecipuus doctor Latinus, in hoc consentiunt, quod
+         lis : ergo corpus Christi debuit esse impassibile ;                    caro Christi ante unionem cum Verbo indistincta erat
+         quod falsum est. Si corruptibilis: ergo videtur, quod                  a reliqua Virginis carne. Damascenus 5 dicit, quod
+         poterat transmutari in carnem reliquam et augeri                       « de purissimis Virginis sanguinibus fuerit formata » ;
+         ab alia: ergo et alia poterat pari ratione transmu-                    Augustinus dicit, quod « assumserit primitiam nostrae
+         tari in aliis ': igitur aut caro illa fuit consumta, an-               massae». — Et hoc quidem necessarium est ponere, liatio 2-"'i
+         tequam perveniret ad Christum, aut fuit adeo mul-                      quia non fuisset necessaria Virginis sanctificalio ad
+         tiplicata, ut possent inde mille corpora formari. Sed                  hoc, quod formaretur caro Christi sine omni pec-
+         hoc est falsum: ergo etc.                                              cato. — Non esset etiam Christus vere de semine Da-
+                                                                                vid et Abrahae, sed solum Adae; quoniam, si prae-
+                                  CONCLUSIO.                                    dicto modo illa 6 particula descendisset, ad nullum
+                                                                                aliorum perlineret nisi sicut deferens, quemadmo-
+         Caro Chrisli in lumbis parentum, in quibus fuit                        dum aqua comparatur ad canalem. — Non eliam
+             materialiter , a carne aliorum hominum non                         esset in tali carne verae passibilitatis assumtio nec
+             fuit distincta qualitalive vel formaliter.                         nostrae infirmitatis vera reparatio, quia non de na-
+                                                                                tura lapsa fabricasset sibi carnem.sed potius de in-
+                    Respondeo: Ad praedictorum intelligentiam est               stituta. — Quae omnia inconvenientia sunt et fidei
+              notandum, quod circa hanc quaeslionem fuit quae-                  sanae adversantia. Et ideo praedicta positio tanquam
+opioio i, er- dam posilio erronea quorundam dicentium, quod                     erronea est respuenda, sicut Magister bene innuit
+ ronea'       caro Chrisli non tantum distinctionem habuil a carne              in littera ', et Magister Hugo in libro de Sacra-
+              aliorum hominum, cum fuit unita animae Christi 2,                 mentis.
+              sed etiam cum fuit in lumbis hominis primi. Dice-                                    °
+                                                                                      Planum est igitur                               coodusio.3 c :
+                                                                                                          secundum doctrinam catho- °i>in,i0
+              bant enim, quod quia Adam reparabililer peccavit,                 licam, carnem Christi in lumbis parentum, in qui-
+              in peccato non pennisit Deus totum corrumpi; el                   bus fuit materialiter, a carne aliorum hominum non
+              ideo remansit in eius semine aliqua portio incorru-               fuisse distinctam qualilative, vel formaliter, quam-
+              pta, ut per illam fierel medicamentum carni reli-                 vis, postquam unita est Verbo, distinctionem habeat,
+              quae; et ex illa portiuncula 3 dicunt carnem Christi              pro eo quod non est caro peccati, sed similis pec-
+              formatam, quam dicunt esse generis humani medi-                   catrici. Et pro tanto dicit Augustinus *, quod « caro
+              cinam. Hanc aulem particulam transmisit Adam ad                   Christi veneril de altitudine humanae naturae», non
+              Noe, et Noe ad Abraham, et Abraham ad David, et                   quod in primis parentibus sine pollutione fuerit, sed
+              David usque ad Virginem, de qua natus est Chri-                   quia sic purificata cst et mundata in sua assum-
+              stus. — Haec autem positio, etsi habere videatur                  tione, quod similis fuit carni in statu innocentiae.
+                                                                                Propter quod dicitur a Boethio 9 « de omni statu
+ improbatnr probabilitatem in superficie, intrinsecns errorem 4
+dapticiter.                                                                     aliquid accepisse », sicut infra melius manifestabi-
+            contjnet; pro e0 qU0(j non soium est contra Sancto-
 
+              1 Hnnc ullimam conclusionem , quae in Vat. desideratur,           doctrinam castigans dicit: Manichaeus haereticus carnem negat
+         ex codd. CDGLNPQSUWXY bb et edd. 1 , 2 restituimus ,                   Christi ; Pelagianus haereticus carnem peccati carni coaequare
+         memoralis codd. aliquantulum tantum inter se dissentieniibus.          vult Chrisli; Christianus catholicus similitudinem carnis peccali
+         Etenim pro et alia codd. NU habent et illa, cod. C alii, cod.          discernil a carne peccati, ne blasphemet carnem Christi (IV.
+         S in aliam; pro poterat plures codd. poterant; pro in aliis            oper. imperf. contra lulian. c. 81.). Similia dicit Enarral. in
+         cod. C in ipsam, cod. S in carnem. Paulo ante pro augeri               Ps. 64. n. 5: « Tulit inde primitias ex utero virginali »; et ex-
+         codd. C D G L W X. substituunt assumi , edd. verbo augeri              pressissime in Ps. 70. serm. 2. n. 10: « Caro factus: unde caro?
+         praefigunt assumi vel. Circa finem arg. pro corpora cod. N             Ex Maria Virgine. Unde Maria Virgo? Ex Adam. Ergo ex illo
+         exhibet homines.                                                       primo captivo et caro in Christo de massa captivitatis ». Damasc,
+              z Cod. F cum fuit Verbo unita anima Christi.                      III. de Fide orthod. c. 2, carnem ex purissimis Virginis san-
+              3 Cod. A particula. Mox pro parliculam Vat. portiun-              guinibus formalam et anima ralionali animatam vocat ptimitias
+         culam.                                                                 nostrae conspersionis , cuius locutionis explicalionem infra ha-
+              4 Edd. voci errorem praemittunt tamen fatsum et , ac              bebis, dub. 2. — Pro primitiam edd. substituunt ptimitiva,
+         deinde post dicta omittunt veridica. Mox pro verae (idei codd.         et paulo inferius post quia bene inleriiciunt alias.
+         M 0 substituunt verbi Dei, cod. Y nostrae fidei.                             6 Edd. ab illa , et mox verbo deferens praefigunt ad.
+              5 Libr. III. de Fide orthod. c. 2. et IV. c. 1 4. Cfr. hic lit.         7 Hic c. 3. seq. Hugo II. de Sacram. p. I. c. S.' Cfr. eius
+         Magistri, c. 1. Eodem loco, c. 3, habetur etiam dictum Au-             Quaest. in Epist. ad Hebr. q. 69. — Pro resptienda codd.
+         gustini et asseritur, Christum primitias nostrae massae assum-         H N U V reputanda.
+         sisse, « quia non carnem peccati, sed similitudinem peccati                  8 In Glossa ordiriaria super illud loan. 3: Qui desursum
+         accepit». Quod August. etiam X. de Gen. ad lit. c. 18. n. 32.          est super omnes est haec verba habenlur, et infra in lit. Magi-
+         docet , et Serm. 27. (alias 20. de Verbis Apostoli) c. 2. n. 2 ,       stri, d. XVI. in fine, Augustino attribuuntur. — Pro venerit
+         nec non Serm. 134. (alias 28. de Verbis Domini) c. 3. n. i,            codd. N U venit.
+         ac Serm. 155. (alias 6. de Verbis Aposloli) c. 7. n. 7. etc. ;               9 De Una Persona el duabus naturis, c. 8. Cfr. infra d. IS.
+         sicut et in libris, quos scripsit contra Iulianum Pelagian., cuius     et 16, et praesertim dub. 4. huius ultimae dist.
+                                                      DIST. III. P. II. ART. II. QUAEST. II.
 
+          tur. — Unde rationes. quae ad hnnc partem indu-                      est medicina; dicendum, quod verum est pro tem-
+          cuntur , sunt concedendae.                                           pore, quo medicina est; medicina autem est pro eo
+                 1. Ad illud vero quod prirno obiicitur in con-                tempore, quo a Verbo 3 assumta est; et sic alterius
+oimio oP- trariutu de Sapientiae septimo, quod nihil inquinatum                qualitatis est quam aliorum hominum. Pro eo au-
+          in illam incurrit; dicendum, quod verum esl; hoc                     lem tempore, quo fuit ante assumlionem, non erat
+          enim intelligilur de Sapientia divina ' secundum di-                 medicina, nisi materialiter loquendo. Secundum il-
+          rinam naturam, quae nullo modo foedatur ex ali-                      lud tempus non oporlet formaliter distingui ab alia
+          qua creatura; verumtamen, si etiam intelligatur se-                  carne, pro eo quod ex eodem principio materiali
+          cundum kumanam naturam, adhuc non habet in-                          potest formari sanum et aegrnm. Cibus enim eius-
+          stantiam, quia caro Christi, ex quo fuit unita Verbo                 dem generis in sano convertitur in carnem sanam
+          Dei, sancta fuit et immaculala. Sed ex hoc non se-                   el in leproso in carnem corruptam.
+          quitur, quod immaculata fuisset in primis pareuti-                         4. Ad illud quod obiicitur, quod si totus esset
+          bus, pro eo quod, quamvis in lumbis parentum                         corruplus , iam non esset medicabilis eius morbus :
+          esset unibilis, erat tamen in dispositione remota.                   dicendum, qnod illud argumentum dupliciter deficit.
+                2. Ad illud quod obiicitur, quod maxima pu-                    Primo, quia, etsi homo totus corruptus esset, non Rat.o i.
+          ritas debet esse in carne Christi ; dicendum, quod                   sequitur, quod incurabilis esset, nisi illa corruptio
+          verum est, secundum quod competit ad reparatio-                      ei inseparabiliter adhaereret. Praeterea, etsi totus Ratio 2.
+          nem humani generis. Sic autem intelligendo, non po-                  homo corruptus esset quantum ad ea quae erant in
+          test maior puritas cogitari , quam quod de massa                     se, non tamen corruptum esset totum genus huma-
+          peccatrice formetur caro omnino immunis a peccato;                   num , quod fabricatum est ex illa hominis carne ;
+          el sic factum est in carne unita Verbo, operante Spt                 sed illud solum, quod processit secundum legem
+          ritu sancto. Quodsi intelligatur caro illa nunquam in                concupiscentiae. El quoniam caro Christi in Virgine
+          se, vel in parentibus fuisse obnoxia2; non sic cogi-                 fabricata est praeter legem concupiscentiae a Spiritu
+          tatur, qualiter nostrae reparationi fnerit apta; et ideo             sancto sanctificante 4 , hinc est, quod caruit corru-
+          non cogitatur, qualiter et sicut debet, sed potius as-               ptione et rationem lenuit medicinae a sua primaria
+          signalur, qualiter non debet.                                        fornmlione.
+                3. Ad illud quod obiicitur. quod caro Christi
 
-
-                                                                DIST. III. P. I. ART. II. QCAEST. I.
-
-                    Sed contiia: \. Super illud Lucae prinio ': Spi-                      tuum. Si igilur suggestio est caput diaboli, nulla
-Ad Iopposi'
-    n iu.     rilus sanclus superveniet in te; Glossa: « Superve-                         suggeslio ingressum habuit in mentem Virginis, et
-              niens Spiritns sanctus in Virginem, eam ab omni                             ita tam a mortali immunis fuit quam a veniali. —
-              sortle vitiorum castificavit » ; sed hoc fuit in conce-                     Congruum etiam fuit, ut illa, quae placuit Aitis- Ratio 3.
-              ptione Filii: ergo non erat immunis ali omni culpa.                         siino adeo, ut (ieret eius sponsa et mater Filii Dei
-                    "2. Item, Augustinus in libro tle Perlectione iu-                     unigenili, sic esset immaculata mente, sicut inteme-
-              stitiae hominis2: « Esse sine peceato in hac vita de                        rata carne.
-              solo Unigenito dictumest»: ergo non videtur, quod                                Quoniam igitur beata virgo Maria advocata est Epiiogos.
-              hoc conveniat beatae Virgini.                                               peccatorum, gloria et corona iustorum, sponsa Dei
-                    3. Item, Magister in littera3: « Mariam totam                         et totius Trinitatis triclinium et specialissimum Filii
-              Spirilus sanctus praeveniens a peccato prorsus pur-                         reclinatorium 7 ; hinc est, quod speciali gratia Dei
-              gavit » , et hoc intelligitur pro tempore conceptionis                      nullum in ea peccatum habuit locum. — Unde con-
-              Filii Dei ; sed nullus purgatur a peccato, nisi qui                         cedendae sunt rationes, quae hoc ostendunt.
-              habet peccatum: ergo etc.                                                         1. Ad illud ergo quod primo obiicitur in con- soiuiio oP-
-                    k. Item, beata Virgo bona conscientia dicere po-
-                                                                                          trarium,  quod Virgo Maria castificata fuit ab omni p05"0™'"'
-              teral: Dimitte nobis debita nostra* etc, cum sit com-                       sortle vitiorum; dicendum, quod differt dicere pec- Diiiertpec-
-              munis forma orandi, omnibus Sanctis collata: ergo
-              non fuil sine culpa, ergo etc.                                              catum et vilium. Nam peccatnm dicit culpam, vi- ut™ el "'
-                                                                                          lium dicit culpae sequelam. Glossa igitur illa non
-                                                                                          vult dicere, quod in secunda sanctificatione indigue-
-                                        c o n c l u s i o.                                rit gratia ad culpam delendam, sed ad culpae se-
-                                                                                          quelam ex originali relictam8.
-              Beata Virgo per sanctificalionis gratiam copiosam                                 2. Ad illud quod obiicitur de Auguslino, quod
-                   immunis fuil ab omni culpa actuali , lam                               esse sine peccato in hac vita pertinet ad solum Uni-
-                   mortali quam veniali.                                                  genitum; dicendum, quod dupliciter est loqui de hac Disiinctio.
-                                                                                          vila: aul secundum omne tempus et statum, aut
-                  Respondeo: Dicendum, quod beata Virgo Maria                             posl usum liberi arbitrii. Si secundum tcmpus
- :onciosio. per sanctificationis gratiam copiosam immunis fnit                            omne; hoc convenit soli Filio Dei, quia iste solus
-            ab omni culpa actuali, tam mortali quam veniali,                              caruit originali peccato. Si post usum liberi arbi-
-            sicut aperte dicit auctoritas Augnstini. — Et hoc con-                        trii; sic convenit gloriosae Virgini gratia speciali,
-  Raiio i. gruebat advocatanr' generis humani, ul nullum ha-                              per quam immunis fuit non solum a mortali, verum
-            beret peccatum, quod eius conscientiam remorderet.                            etiam a veniali n.
-            Unde audivi narrari, quod ipsa cuidam personae                                      3. Ad illud quotl obiicitur de auctoritate Magi-
-            revelavit, quod non reprehendebat eam cor suum in                             stri, quod Spiritus sanctus Virginem purgavit; di-
-  Baiio 2. omni vita sua. — Congruum etiam erat, ut beata                                 cendum, quod peccatum dicitur tripliciter: aliquando peccaiom
-            Virgo Maria, per quam aufcrtur nobis opprobrium ,
-                                                                                          dicitur culpa, sicut communiter consuevit accipi; ali- *£'.'""
-            vinceret diabolum, ut nec ei succumberet ad modi-                             quando poena peccati, sicul ad Romanos octavo10: De
-            cum. Unde de ipsa exponit tam Bernardus quam Au-                              peccato damnavit peccatum ; aliquando dicitur causa
-              gustinus illud Genesis lertio": Ipsa conterel caput                         peccali, sicut ad Romanos septimo: Si autem, quod
-
-
-                     1 Vors. 35. — Glossa esl ordinaria et habetur apud Ly-               de Gen. contra Manich. c. 18. n. 28. Idem s. Doctor in Enarrat.
-              ranum. Cfr. hio lit. Magislri, c. I.                                        in Ps. 142. n. 3. et Serm. ult. (alias 4.) de Symb., ad Cathec. c. 1.
-                    2 Cap. II. n. 2i. — Edd. perperam : ile Perferlione iu-               n. I, cl ad Mariam et ad Ecclesiam refert illiid Apoc. 12, I.
-              sliliae : Ilominem esse sine elc.                                           sc(|q. : Signum magnum apparuil in caelo, Mulier amicta sole etc,
-                    3 Hic c. I. — I.oco pro lempore. comeplionis cod. T poat.             qiiem locum cod. Y respicerc vidctur, cum pro Ipsa conterel
-              conceptionem.                                                               caput luum exhibeat Ipsa amleret capila draconi.i. Etiam Isi-
-                    * Matth. 6, 12. — In finc arg. pro sine culpa Vat. im-                dor. , Quaestiones super Gcn. c. 3. mcmorata verba Genesis
-              munis ab omni culpa.                                                        applicat Inni ad Ecclesiam , liim ad li. Mariani Virg.
-                    5 Corrige advocatae , rjuod autem in cbdd. ct edd. non                      7 Clr. Tract. de conccpt. 13. M. V. (intcr opera Anselmi).
-              repcritur. Aliquanto inferius pro re.prekendehal. codd. K Z re-                   8 Cfr. quacst. seq. — Alcx. Hal., S. p. III. q. 9. m. 3. a. 2.
-              prehenderat.                                                                § 1. practer liane siiliitioncni aliam qiioque proponit; docel
-                    6 Vers. 18, el antea respicitur Ps. 118, 22. — Quoad Ber-             cnim, vcrbum Glossae ciisliftcacit idem signilican^ ac castuni
-              narduni cfr. Ilouiil. 2. super Mis.stis Mt, n. i. AugUSt. haec              ostendit. El S. Thom., qui hic q. I. a. 2. quaestiunc, 2. ad 2.
-              Scripturae verha proprie refirt ad Ecclesiam , cuius typus se-              dc iisilcm verhis Glossac agit, tcrliam adhuc soliilioiiem adiiui-
-              cundum Ss. Palres et i|isum Auguslinum cst Maria, unde ab                   gil dicens: Vel iliccndum, quod caslillcatio a snrdibus vitiorum
-              eisdem saepe idem locus Scripturae ad utramqua applicalur. De               non intclligilur remotio existentium, sed impedimentiwi) futura-
-              Ecclesia el ddelibus dicil Augusl., Enarrat. in Ps. 11)3. serm. i.          rum sordium. — Codd. K Z bh ex originali peccate reUclam.
-              n. 6: Quid crgo diclum est ICcclcsiac? lam modo amlile, inlcl-                    9 Edd. I, 1 cum ( i iclil. GL S Vaa bbccdd itrltiii/i ; pcr-
-              ligilc, cavetc! Ipsa liiuni observabil capul, el lu eius calc.inriiiii.     peram. lu eod. T desunl verba per '/»'(»»... veniali,
-              OEcclesia, caput serpcrltlsobserval Quod est cnputeerpeulia!                      10 Vcrs. 3. — Seq. icslinionium ibid. 7, 20. — Paula su-
-              Prinia perc.iti siiggcsliu... Iloc ipiod vcnil iu mentem, caput             periun post aliqmnda dicitur culpa cod. K addil ui iacobi
-              scrpcntis esl ; caput calca et evadcs cctcros moliis clc. Clr.              iilhmn (8, lli.;: Cnnftleiuini ulterulriuii peCCata veitra t'l ttnitt'
-              cliam Enarrat. iO Ps. %'■>. n. IS; ill Ps.     iS. scrin.   I. n. Ij; II.
-                                                                                          pro iiti iffiu.
-                       S. Bonav. — Tom. III.
-
-
-
-
-                                                                                                                                                   10   •
-        74                                                      SENTENTIARUM LIB. III.
-
-        nolo, malum facio, non ego operor illud, secl quod                       brorum Christi, quibus poterat petere, ut debita di-
-        habilat in me peccatum. Dico ergo, quod Virgo Maria                      mitterentur, et bona conscientia illam orationem
-        post secundam sanctiflcationem non dicitur munda                         formare; unde non pro se, quia. sicut dicit Augusti-
-        a peccato ratione alicuius maculae, sed solum ra-                        nus2, illa non continetur sub illa generalitate, qua
-        tione alicuius poenae, sicut melius infra ' manife-                      dicitur: Si dixerimus , quia peccatum non habe-
-        stabitur.                                                                mus, nos ipsos seducimus, et veritas in nobis non
-              4. Ad illud quod obiicitur de petitione illa:                      est. Unde Augustinus vult, quod ad alios Sanctos per-
-        Dimitle nobis etc; dicendum, quod in petitione isla                      tineat illa oratio pro se, ad beatam Virginem non
-        Virgo Maria poterat petere remissionem debiti, quod                      pro se; el ideo non comprehenditur sub generalitate
-        debebat, non ratione sui, sed ratione aliorum mem-
-                                                                                 praedicta.
-                                                                     SCHOLION.
-              I. Conclusio communis Scholasticorum a Concilio Tridenl.           praesertim Graccorum, quae conclusioni non favent, vide hic
-        (Sess. VI. can. 23.) irrefragabiliter confirmata est his verbis : « Si   q. 3. ad 2, et S. Thom., S. III. q. 27. a. 4. nec non recentiores
-                                                                                 theologos.
-        quis hominem semel iustiflcatum dixerit amplius peccare non pos-
-        se... aut conlra, posse in tola vita peccata omnia, etiam venialia ,           II. Alex. Hal., S. p. III. q. 9. m. 2. a. 5, m. 3. a. I. 2.
-        vitare, nisi ex speciali Dei privilegio, quemadmodum de B.               — Scol. , in utroque Scripto hic q. 1. tangit quaestionem. —
-        Virgine tenet Ecclesia , a. s. ». — In solut. ad 3. ambigua              S. Thom., hic q. I. a. 2. quaestiunc. 2; S. loc. cit. — B. Al-
-        quaedam verba Magistri (hic c. 2.) explicantur, adhibita nola-           bert. , hic a. 6. seqq. — Petr. a Tar. , hic q. I. a. 2. quaestiunc.
-        bili distinctione triplicis sensus vocabuli peccatum. — Maiorcm          2. — Richard. a Med., hic a. I. q. 3. — ,Egid. R., hic q. I.
-        confirmationem et extensionem conclusionis exhibet infra q. 3.           a. 3. et dub. lal. — Durand. , hic q. 4. — Dionys. Carlh. , hic
-        — De quibusdam verbis nonnullorum antiquorum Patrum ,                    q. I. — Biel, hic q. I. in fine.
+                                                                   SCHOLION.
+             I. Hnec el seq. quaeslio eliam a S. Thoma (S. III. q. 31.         trailucla, quod iiic in cOrp. magis declaralur. Plura de bac opi-
+       a. 6. 7 ; cfr. Comment. hic q. i. a. 1 . 2.) duabus quaestionibtis ,    nione tradit Hugo a S. Vict., II. de Sacram. p. I. c. S.
+       setl paulo aliler posiiis, Iractatur, quaruni prima est, utrum cor-           II. Exceplis S. Thoma (locc. eilt.), B. Alberlo et .Egidio R.,
+       pus Chrisli in anliquis Palribus fuerit secundum aliquid signa-         alii mox cilati hanr et seq. q. unica quaeslione absolvunt: Alex.
+       lum ; secunda , utrum caro Chrisli in Palribus fuerit peccato           Hal., S. p. III. q. 9. m. 3. a. 4. — Scol., hic q. 2; II. Reporl. d.
+       obnoxia. Communiter Scholastici ut erroneum reprobanl ligmen-           33. q. unica n. II. — li. Albcrl., hic a. I. 27. — Petr. a Tar.,
+       ttimillud.a nonnullis anliquis et etiam recentioribus spaisum,          hic q. 2. a. I. — Richard. a Med., hic a. 3. q. I. — ,£gid. R.,
+       quod in Adam in peccatum lapso aliqua pars carnis a peccalo             hic q. i. a. I. dub. lat. 2. — Dionys. Carth., hic q. 5. — Biel,
+       non sil infecta et per stibsequcntes generationes incorrupte            hic q. 2.
 
 ## English
 

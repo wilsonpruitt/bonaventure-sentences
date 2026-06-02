@@ -3,172 +3,214 @@ id: "bon-sent-III-d3-p2-a2-q2"
 volume: 3
 book: 3
 distinctio: 3
+pars: 2
 articulus: 2
 quaestio: 2
 type: quaestio
-line_start: 5751
-line_end: 5902
-word_count_latin: 2108
+line_start: 6629
+line_end: 6822
+word_count_latin: 2653
 transcription_status: "auto-chunked 2026-06-02"
 format_version: 1
 ---
 
-# bon-sent-III-d3-p2-a2-q2
+# bon-sent-III-d3-p2-a2-q2-dup2
 
 ## Latin
 
 QUAESTIO II.
-                      Utrum in prima sanctificatione in Virgine fuerit exslincta fomitis concupiscentia.
+                        Utrum Chrisli caro fuerit in parentibus aliler quam caro aliorum hominnm
+                                              secundum legem propagationis.
 
-                 Secundo quaeritur, utrum in prima sanctiilca-                        4. Item, si tanla gratia fomitem minuit, et
-           tione in Virgine fuerit fomilis concupiscentia exstin-                maior gratia magis minuit, et perfecta simpliciter 5
-           cta. Et quod sic, videtur:                                            exstinguit; sed gloriosae Virgini in ipsa sua sancti-
-                 1. Lucae prinio3 dicitur ab Angelo ei: Ave Ma-                  licatione primo collata fuit gratia perfecla : ergo
-Ad opposi- ria, gratiaplena; igitur anle adventum Filii Dei fuit                 omnino fuit in ea exstincta concupiscentia.
-           repleta gratia et plena amore divino; sed ubi est                           Sed contra: 1. Damascenus dicit, et habeturFundameat
-           aliquo modo concupiscentia, ibi non potest esse gra-                  in littera6: «Post consensum Virginis praevenit Spi-
-           tia Dei plena: videtur igitur, quod in prima Virgi-                   ritus sanctus in ipsam secundum verbum , quod di-
-           nis sanctificatione fomitis concupiscentia omnino fue-                xerat Angelus ad eam, purgans eam»; sed non
-           rit exstincta.                                                        purgavit a culpa: ergo purgavit ab originalis se-
-                 2. Item, ubicumque est fomes, est necessitas ad                 quela; haec autem est fomitis concupiscentia : er-
-           aliquod peccatum veniale4: ergo cum in ea nnlla
-           fuerit peccandi necessitas, quia in ea nulla culpa;
-                                                                                 go etc.2. Item, Magister in littera7: «Mariam quo-
-           ergo videtur, quod fomitis concupiscentia omnino                      que totam Spiritus sanctus praeveniens purgavit
-           fuerit in ea exstincta.                                               et a fomite peccati liberavit, vel fomitem ipsum
-                 3. Item, fomes reddit illum difflcilem ad bo-                   penitus exstinguendo, vel extenuando»; hoc dicit de
-           num, in quo est; sed in beata Virgine nulla fuit                      sanctiflcatione secunda: ergo ante ipsam non fuit
-           difficultas ad bonum: ergo videtur, quod post pri-                    fomes exstinctus.
-           mam sanctificationem non remanseril in ea concu-                           3. Item, Bernardus in quadam homilia s: «In
-           piscentiae vitium.                                                    proposito Virginis erat omnium hominum frequen-
+             Secundo quaeritur. ulrum caro Chrisli fuerit                      ad litleram5 Iractantis illud Apostoli ad HebraeosFundamenta.
+       in parentibus aliter quam caro aliorum hominum                          seplimo: « Adhuc erat in lumbis patris. Secundum
+       secundum legem propagationis. Et quod aliler, illud                     aliquem modiim erat ibi Christus, quo non erat ilii
+       videtur:                                                                Levi. Secundum rationem quippe seminalem fuit ilii
+             1. Auctoritate Augustini, decimo super C-enesim                   Levi, qua ratione non fuit ibi caro Christi ».
 
 
-             1 Qunest. seqq. —       Paulo ante pro munda codd. U Z                    5 Edd. tolaliter , complures codd. similiter. Paulo inferius
-        mundata.                                                                 pro primo edd. cum cod. bb prima.
-              5 De Natura et gratia , c. 36. n. 42. Verba habentur hic                 6 Hic c. I. — Post habetur codd. UKLQVZaa subne-
-        in lil. Magislri, c. 2. — Locus Scripturae est I. Ioan. 1,8. —           ctunt 1 Hic
-                                                                                        etiam.c. I.
-        Paulo superius edd. omittunl unde.
-             3 Vcrs. 28. — Fomes (concupiscentia) deflnitur a Magistro                8 Homil. 3. supcr Missus est, n. 1, ubi textus originalis:
-        quidam morbidus affectus , qui commovet ad desiderium illi-              In proposito Virginis erat hominum fugere frequeniias, vitare
-        citum (cfr. II. Sent. lil. Magistri , d. XXX. c. 8. et d. XXXI.          colloquia, ne... conlinentis castitas tentaretur. — Pro omnium,
-        c. 3.). — ln fine arg. post fueril cod. Q addit in ea.                   quod deest in text. origin. et in cod. bb, codd. G H K L T V Z aa
-              4 Vide II. Sent. lit. Magistri d. XXI. c. 6. el Comment. a.        omnem. Paulo inferius verbo concupiscentia edd. praefigunt
-        2. q. 3. nec non dub. 4. — Paulo superius anle est necessitas            fomilis. In leclione codd., quam recepimus, supple in fine arg.
-        codd. N U interiiciunl ibi.
+             1 Codd. A F II N T L' V Z et eilil. I , 2 omillunt dicina.             3 Codd. FGHLNaa        omiitunt a Verbo.
+             2 Supple cum codd. M 0 peccato. Paulo superius pro ope-                * Pro sanctificante , quod abesl ab edd., codd. W X Y coo-
+        rante codil. U aa cooperante, ac subinde pro Quodsi codd.              peranle tel sanctiftcanle.
+        D V et edd. I , 2 quia si. Hox pro reparalioni miilli codd.                 5 Cap. 20. n. 35. Cfr. hic lil. Magistri , c. 3. Verba ista ex
+        reparalionis , eild. redemplioni; noslrnm lectionem defendunl          longiori discursu Auguslini contracla sunt, et addilur: Cum
+        codd. AKKPQUX (bb a scciinda manu). In fine solul. pro                 enim sil in semine et visihilis corjmlentia el invisibilis ratio ,
+                                                                               Utrumque cuctirril ex Abrahain, vel eliam ex ipso Adam usqiie
+        tissifjitatur mdd. \ III ' W ^iilisliliiunl /irjuraliir, COdd. I I \
+        bb et edil. I , 2 siijiti/icatur (vel sifjmilur) cod. Z cotjita/tir;   ad corpus Mariae etc. — Verbum Apostoli habelur llebr. 7,
+        cod. K omiuit assitjimtur , voculae potius praemisso ita.              25. — Prn trartantis plurimi codd. erronee tracttms.
+        88                                                     SENTENTIARUM LIB. III.                                                 /
 
-                                                                                 fomes.
-                                                                                                                                                   75
-
-                                                       DIST. IIL P. I. ART. II. QUAEST. II.
-
-        tiam fugere , ne perturbaretur oranti silentium , aut                   difficilem ad bonum. — Sed illud difficile est in- Non prot>a-
-        virginalis castitas tentaretur » : ergo videtur, quud                   telligere , quia hoc ipso , quod proni sumus ad ma-
-        occasione accepta ab extrinseco, excitari poterat in                    lum , diffwiles sumus ad bonum. Quomodo igitur
-        ea concupiscentia prava : ergo non fuit omnino                          exslingui potest quantum ad pronitatem ad malum,
-        exstinctiis.                                                            ipso remanente quantum ad difficullalem ad bo-
-              4. Item, si omnino fuisset in ea exstinctus fomes
-                                                                                num? — Rursus , qualiter potest intelligi, quod'Aiia ratio.
-        concupiscentiae, igitur secunda sanetilieatio non fuis-                 fomes possit exstingui , in quantum respicit perso-
-        set opportuna: si igitur opportuna fuit, videtur, quod                  nam; et non sit exstinctus, in quantum respicit
-        aliquid remanserit in ea fomitis coneupiscentiae.                       naturam, cum ibi sit unus fomes, sic 5 diversi-
-                                                                                mode comparatus, et exstinclio dicat ipsius fomitis
-                                 CONCLUSIO.
-                                                                                eradicationem ? Non videtur usquequaque intelligi-
-        Jn prima sanctificatione beatae Virgmis foines                          bile, quomodo fomes exstingualur in priina sancti-
-           fuit consopilus, in secunda vero exstinctus.                         ficatione, et tamen nihilominus remaneat respectu
-                                                                                prolis propagandae. Si enim exstinguitur, ergo non
-                 Respondeo: Dicendum, quod circa hanc quae-                     manet aliquo modo, nisi forte quis accipial exstin-
-           stionein est triplex modus diceudi.                                  ctionem largo modo pro ablatione inclinationis ad
-                 Quidani enim dicere voluerunt, quod nec in                     iiialum respeclu personae, in qua est. Et ita for- Noiandom.
- opinio i. prima nec in secunda sanetificatione exsliuctus erat in              tassis intelligitur praedicta positio, quam satis pro-
-           ea fomes concupiscenliae , sed solum consopitus se-                  babilem et ratioiiabilein credo.
-           cundum plus et minus: quia fomes causam habet                             Tertius autem est modus dicendi, videlicet quod <>i>inio3. et
-                                                                                                           .                         conclusio.
-           in carne; unde non directam habet oppositionem ad                    m prima sanclificalione fuit fomes m Yirgme con-
-           gratiam secundum essentiam, sed secundum inclina-                    sopilns; in secunda exslinctus et eradicatus. Fomes
-           tionem: ideo si gratia magna est, fomes minus in-                    enim radicatur in carne et ascendit usque ad men-
-           clinat, quamvis per gratiam illam non deleatur eius                  lem. In prima sanctifieatione Virginis 6 collata est
-           essentia '. Qnoniam igilur in Virgine magna fuit gra-                tanta gratia perfectionis, quod rednndaret in eius
-           lia in prima sanctificatione et valde magna in se-                   sensualitatem in tanta redundantia , ut fomitem adeo
-           eunda; hinc esl, quod in prima fuit consopitus,                      reprimeret, quod nullum effectum ad incitanduin
-           et in secunda magis consopitus, quamvis non om-                      aliquando haberet. In secunda autem sanctificatione
-mprobaiur. nino fuerit exstinctus vel evacuatus. — Sed 2 quo-                   — in qua Spiritus sanctus non lantum desceiulil in
-           niarn caro Christi sumta est de carne Virginis , in                  mentem, sed eliam in carnem, et de carne ope-
-           Christo etiam nulla fuit concupiscentia fomitis;cum                  ratus est, de ea mirabiliter earnein sine maeula
-           caro Christi debeat carni Virginis assimilari post                   fabrieando — reliquit ipsius carnein imiiiaculatam,
-           Virginis sanctificationem, sicut caro aliorum assimi-                exstirpando ex ea et fomitem et omnem concupiscen-
-           latur carni aliorum parentnm ; videlur , quod Spiri-                 tiam. Et hoc sonant verba Rernardi, Magistri et Da-
-           tus sanctus secundo super eam adveniens prorsus                      masceni, sicut patet in auctoritatibus in opponendo7
-           exstinxerit fomitem. Et ita praedicta opinio non vi-                 habilis. — Unde rationes probantes, quod in priraa
-           detur habere probabilitatem.                                         sanclificatione non fuit fomes omnino exslinctus,
-                 Secnndus modus dicendi est, quod tam in prima                  concedendae sunt.
- Opinio -2. quam in secunda sanctificatione fuerit in ea exslin-                      1. ,\d illud quod
-                                                                                                    1 oliiicitur, *quod VirgoP Maria Sol"lio    °p-
-                                                                                                                                      |iositoruni.
-            ctus fomes, sed aliter et aliter. In prima namque                   fuit gralia plena in prima sanctificalione; dicendum,
-            exstinctus fuit , in quantum respicit personam ;                    quod aliter liiil plena in prima sanctilicatione, aliter l?1"4" di-
-            in secunda , in quantum respicil naturam. In                        in secunda. In prima fuit plena, secundum quod
-        prima igitur sanctilieatione mundata fuit 3, ut nun-                    expediebat ad meritum; iu secunda , secundiini
-        quam peccaret; in secunda vero mundala fuit, ut                         quod expediebat ad concipiendum Filium Dei. Et
-        germen piae prolis emitteret sine peocalo, nnn so-                      ideo prima sanc.tillcatio respiciebat Virginem scciin-
-        lum aetuali1, sed etiam veniali. In prima etiam san-                    dum animam; secunda aulein respiciebat Virginein
-        clificatione exslinctus fuit fomes, in quantum red-                     totam, secundum quod drcit Magisler: «Matiam to-
-        d\l pronum ad malum; in secunda, in quanlum                             tam Spiriiiis saiiclns praeveniens » etc.
+             2. ltem , hoc ipsum ostenditur ratione. Media-                     parte carnis Virginis : ergo secundum legem propa-
+        tum principium reducitur ad immediatum J ; sed                          gationis sic fuit in lumbis parentum , sicut caro to-
+        Christus secundum alium modum propagandi exivit                         tius humani generis.
+        de utero Virginis, quam alii filii de ventre matrum
+        suarum , pro eo quod non de virili semine : si ergo                                           CONCLUSIO.
+        mediante beata Virgine dicitur fuisse in parentibus
+        praecedentibus , videtur, quod alio modo fuerit caro                    Caro Christi secundum legem propagationis aliter
+        eius in parentibus secundum legem propagationis                             fuit
+        quam aliorum hominum.                                                       minum.in parentibus , quam caro aliorum ho-
+             3. Item, si eodem modo fuisset caro Christi in
+        parentibus sicut reliqui homines*, ita peccasset, Adam                        Respondeo : Dicendum , quod dupliciter est lo- putinctio
+        peccante, sicul alii homines; sed hoc falsum est:                       qui de carne Christi: aut quantum ad materiam , uem.
+        ergo etc.                                                               unde 7 sumta est , aut quantum ad formam , secun-
+             4. Item, eo modo habet res educi in esse,                          dum quam animae Christi coniuncta est et a Verbo
+            per quem modum habet in suo principio existere";                    in unitatem personae assumta. Si loquamur de carne
+            sed Chrislus non fuit genitus vel conceptus secun-                  Christi secundum maleriam, hoc est de eo, unde
+            dum legem naturae, sed potius mirabiliter, alii ho-                 facta est caro Christi ; sic conceditur , quod peccato conciosio i
+            mines educuntur naturaliter : aliter igitur fuit caro               fuerit obnoxia, quia ante conceptionem Christi tota
+            eius quantum ad legem propagationis in lumbis pa-                   massa humani generis corrupta erat, sicut in prae-
+            rentum quam aliorum hominum.                                        cedenti problemate monstratum est. — Si autem lo-
+                  Sed contra: 1. Magister dicit in littera * : «Caro            quamur de carne Christi secundum formam, sic
+a<i opposi- nia , antequam Verbo fuisset unita, peccato fuit ob-                dicendum est8, nunquam peccato fuisse obnoxiam, conciusios
+            noxia in Maria, sicut reliqua Virginis caro»; sed                   quia nunquam habuit illam formam, quin esset
+            caro, quae consimilis est secundum traductionem ori-                munda et immaculata.
+            ginalis, consimilis est secundum legem propagatio-                        Secundum autem quod caro dicitur dupliciter,
+            nis : ergo si caro Christi in lumbis parentum fuit                  sic et de propagatione dupliciter contingit loqui : aut
+            obnoxia peccato, ergo et eadem lege a primis pa-                    ratione sui materialis , aut ratione formalis. Si ra-
+            rentibus est traducta.                                              tione materialis , sic propagata fuit ab Adam usque conciusio 3
+                  2. Item, omne quod descendit ab Adam in Seth,                 ad Virginem in tota illa genealogia, et tola illa pro-
+            descendit secundum corpulentam substantiam et se-                   pagatio fuit secundum legem naturae et concupiscen-
+            cundum seminalem rationem : ergo si caro Christi                    tiae. Si quantum ad esse actuale et formale , sic conciusio ;
+            descendit ab Adam in Seth, et a Seth in alios paren-                concepta fuit a Virgine praeter legem communem9
+            tes, videtur, quod secundum legem propagationis                     nalurae et concupiscentiae.
+            fuerit in lumbis parentum eodem modo, sicut caro                          Et sic patet, quod uno modo dicendi concedi
+            aliorum hominum 5.                                                  polest , quod caro Christi , materialiter loquendo ,
+                  3. Ilem, semen, unde formatum est corpus                      sic fuit in lumbis parentum secundum propagatio-
+            Seth, in totis parentibus habebat rationem semina-                  nem , sicut caro aliorum hominum. Sed quoniam Noiandum.
+            lem : ergo nihil inde futurum erat , quod non esset                 caro , quantum est de ratione sui nominis , non no-
+            ibi et secundum corpulentam substantiam et 6 ratio-                 minat materiam ipsam tantum , sed materiam sub
+            nem seminalem ; sed si caro Chrisli exinde facta                    tali forma ; et 10 propagalio et lex propagationis ,
+            est, videtur, quod ibi fuerit ad modum alterius car-                additum ei quod est caro Christi, respicit eius edu-
+            nis humanae.                                                        ctionem secundum esse acluale : hinc est , quod propositio-
+                  4. Item, tota caro Virginis fuit in lumbis pa-                haec est impropria : caro Christi fuit peccato obno- propriac.
+            rentum secundum legem propagationis , sicut caro                    xia; et haec: caro Christi fuit ex parentibus semi-
+            aliorum hominum ; sed caro Christi fuit ex aliqua                   naliter traducla ; et haec similiter : caro Christi fuit
 
 
+              1 Cfr. Aristot., I. Poster. c. 2. — Paulo superius verbo          ad corpus
+         ostenditur codd. GLNS aa cc praefigunt esse, et subinde post           tum est. Mariae, quia et ip«um eo modo conceptum et exor-
+         Mediatum cod. U interiicit propagandi.                                      6 Cod. K hic repetit secundum. Mox pro sed cod. U ergo.
+              5 Vat. verbo homines praemitlit alii, et dein addit vel caro      Pro corpulentam codd. E H L N TU aa nec non edd. 1 , 2 hic,
+         aliorum hominum. Cod. K post homines inserit ergo.                     et alii codd. pluries infra , corruptam.
+              3 Quia raodus educendi supponit modum essendi sive mo-                 7 Pro unde codd. K Z de qua. Mox pro in unitalem codd.
+         dum, quo res in aliquo inest, vel actualiter, vel potentialiter,       HZ bb m unitate. — De distinctione carnis, in quantum con-
+         et hoc quidem aut secundum potentiam naturalem, aut secun-             sideratur ut materia et in quantum ut forma, vide Aristot. ,
+         dum poleniiam obedienlialem.                                           I. Generat. et corrupt. text. 35. seqq. (c. 5.).
+              4 Hic c. I . et 3. — Circa finem arg. post eadem lege edd.             89 Vat.
+                                                                                        Vat. supplet
+                                                                                             omnem. ipsam carnem.
+         cum nonnullis codd. interiiciunt cum aliis.
+              5 August., X. de Gen. ad lit. c. 20. n. 35: Cum enim sit               10 Vat. addit hoc lolum quod dicilur. Mox pro addilum ei
+         in semine et visibilis corpulenlia et invisibilis ralio [seminalis],   codd. N U bb (K Z a secunda manu) et edd. I , 2 addita ei.
+         utrumque cucurrit ex Abraham, vel eliam ex ipso Adam , usque
+                                                        DIST. III. P. II. ART. II. QUAEST. II.                                                    89
 
-              1 Cfr. II. Si-ih. d. 32. b. I. i|. l. seq. el ilub. 2. — Sub-     remiss. elC. c. 2i). n. 37, ulii legitur: Sola noslro viilncri medici-
-        Inde i" >si in Virgfne eodd. AE adiicium Maria, et dein posl            num parcre potuit, quae non ex peccali vulncre germen piac
-        ih prima fuit cod. X supplel fotnes hic.                                prolis emlslt. Cfr. ibid. II. ••. 21. n. 3R.
-              1 Coil. K aililit contra illu.il mdetur, <■< cod. Z illud non            * Ita codd. i't edd. Intellige : mortale.
-        ciildur. Mox pro in Christo etiam codd. i; K Z an IiIj et in                  5 ln cndil. (1 (K ;i secunda manu) NXZbb deest sic. Ali
-        Christo. Deinde pro i»/« caro, codd. KZ ergo eutn oaro,                 quanto Inferius pro propatfandae cod. s propagatae.
-        cod. N et caro.                                                               6 Edd. virtjiiii ei mox c          pluribus codd. sensualilate
-              3 Cod. U Babnngil periona, eod. v perperam miiiiii ««•            pro sensnalitatem. Deln pro ad mcitandum cbdd. T r ad iu-
-        lufti. Mox prii minitliilu fldd. stiiittt/iculit. *- Verba deirrde ut   tihiiiifiiiiiin , codd. k (/. ii prtma manuj Idi sel incitttmentum.
-        ijennni elfe sumtii rfdentur ex rVugost., I. de Peccnl. nniii. el            1 ld esl in fundamcntis.
-         76                                                      SENTENTIARUM         LIB. III.
+         in parentibus decimata; pro eo quod in omnibus,                          delicet quod peccato fuerit obnoxia , et intelligen-
+         quantum est de vi sermonis, praedieatum attribui-                        dum est malerialiter ; et hoc Magister insinuat, cum
+         tur subiecto non ratione materiae lant.uin, sed ra-                      dicit, quod peccato fuerit obnoxia, non simpliciter,
+         tione materiae sub tali forma. Caro enim est ter-                        sed in Maria4, in qua materialiter erat. Unde non
+         minus substantialis ; et ideo, quamvis supponat pro                      est simpliciter concedenda , sed exponenda tanquam
+         verbo de praelerito, oportet ad idem tempus referri                      impropria ; et ex impropriis secundum earum im-
+          lbrmam praedicati cum subiecto'. F.t ideo omnes prae-                   proprietatem acceptis non licet arguere, sicut ma-
+          dictae locutiones tanquam falsae et impropriae sunt                     nifestum est; et ideo ratio non valet.
+          negandae , nisi proferantur cum determinatione , sci-                         2. Ad illud quod obiicitur, quod quidquid de-
+          licet ratione malerialis principii. Si autem alicubi                    scendit ab Adam in Seth, descendit secundum se-
+    xota. absolute proferantur , sunt exponendae. — Nota ta-                      minalem rationem ; dicendum, quod seminalis ralio Qrid s;t ra-
+                                                                                        ...      -,i,
+          men, quod haec est impropria: caro Christi fuit                         non dicit   quid  absolulum, sed...quid respcctivum ; h».l'° seinioa-
 
-               2. 3. Ad illud quod obiicitur, quod fomes im-                            4. Ad illud quod obiicitur de perfeclione gra-.
-         pellit ad necessitatem ad peccandnm venialiter, et                        tiae, dicendum, quod gratia, quae directe respicit
-         ad difflcultatem ad bonum; dicendum. quod illud                           animam, minuit fomitem quantum ad inclinationem, Notandnm.
-         verum est . ubi est fomes in vigore suo , ubi < non                       sed non oportet, ut minuat quantum ad radicem,;
-         reprimitur a gratia movente ad contrariura; et ideo                       et ideo non sequilur, quod per2 perfectionem illius
-         non habet locum in Virgine, ubi fuit gratia perfe-                        gratiae fomitis concupiscentia evellatur, sed solum
-         cta, tranquillans eius animam et potentias. Et sic                        ut eius inclinatio consopiatur. Et hoc quidem con-
-         patet responsio ad illa duo.                                              cedendum est tanquam verum.
+          peccato obnoxia ; sed haec magis impropria : caro                       dicit enim respectum eius quod propagatur ad il-
+          Christi fuit seminaliter traducta; haec autem adhuc                     lud, de quo producitur. Cum ergo dicit, quod quid-
+           magis impropriaet falsa: caro Christi ftiit decimata —                 quid descendit ab Adam in Seth, descendit secuii-
+           secundum quod magis ac magis in praedictis locu-                       dum seminalem ralionem ; dicendum , quod verum Notandnm.
+           tionibus caro accipitur ratione formae.                                est per comparationem ad Seth et ad hos qui pro-
+                 Concedendnm est igilur, quod aliter fuit caro                    ducendi erant secundum propagationem naturae , re-
+ conciusio Christi secundtim legem propagationis in parentibus                    spectu quorum omnium semen decisum a Iumbis
+principalis.
+           quam ahorum hommum.   °        .,
+                                       — Nam          ,.
+                                               caro ahorum    .
+                                                              homi-               Adae habuit virtulem sufficientem ad rationem se-
+ Raiio du- num ortum habuit a parentibus
+                                  '
+                                             socundum   seminalem                 minalem. Respectu autem Christi non habet verita-
+   plex.        .
+           rattonem el secundum tegem concupiscentiae. Illud                      tem, pro eo quod totum illud, quod seeundum le-
+           autem dicitur procedere secundum rationem semi-                        gem naturae ex illo semine producendum erat, re-
+           nalem, quod quidem exit in esse secundum virtu-                        spectu carnis Christi se habebat in ralione possibilis 5
+           tem et operationem naturae ; sicut sunt illa, in quo-                  et materialis , quia non poterat reduci ad actum
+           rum productione natura non solum se habet per                          completum nisi per virtutem Spiritus sancti. Cum
+           modum obedientis et suscipientis, immo etiam per                       ergo dicit, quod quidquid fuit in Seth, fuit secun-
+           modum naturae agentis et dantis speciem sive com-                      dum seminalem rationem, verum est, si comparetur
+           pletionem ; et hoc imporlat hoc quod dico seminalis                    ad Adam ; sed si comparetur ad Christum, non ha-
+           ratio , proprie loquendo, sicut oslensum fuit in se-                   bet veritatem.
+           cundo libro2, qnamvis conlingat extensiori modo                              3. Ad illud quod obiicitur, quod lotum semen
+           uli praedicto vocabulo. — Illud autem intelligitflr                    decisum ab Adam habuit seminalem rationem ; di-
+           traduci secundum legem concupiscentiae , in cuitis                     cendum , qnod verum est respectu eorum qui pro-
+           procreatione concurrit foeditas delectationis carnis ex                ducendi erant secundum legem naturae ; respectu
+           parle viri generanlis et mulieris concipientis. — ■ Neu-               Christi non habet verilatem. Quamvis enim iu ali-
+           trum horum fuit in generatione Christi. Nam con-                       quo semine sit ratio seminaiis secundum quamlibet
+           ceptio eius mirabili.s fuit et supra virtutem naturae ;                eius partem, saltem formalem, ut ex eo aliquid
+           non enim fuit ex virili semine, pro eo quod caro                       possit fieri ; tamen, si Deus aliquid faciat ex illo se- Jtotandnm.
+           eius concepta fuit ex sola muliere. Fuit etiain prae-                  mine, ad qitod non habebal ordinationem secundum
+           ter legem concupisrentiae , qnia non intervenit de-                    naturam, dicitur fuisse iu illo semine secundnm
+           lectatio ex commixtione sexus: conceptus enim fuil                     corpulenlam subslanliam , non secundum ralionem
+         ex castissimis Virginis visceribus 3. — Ideo conce-                      seminalem, quia semen illud respectu illitts quod
+         dendae sunt rationes, quae ad hanc parlem indu-                          Deus educit, non habet vim sufficienter activam ,
+         cuntur.                                                                  sed passivam, secundum quam subministrat corpo-
+                   I. Ad illud quod obiicilur de atictoritate Magi-               ralem suhslantiam, esto etiam , quod illa seminalis
+soioiio op- stri , dicendum, quod locutio ista esl impropria, vi-                 ratio cooperaretur 6 ad subministralionem materiae
 
-                                                                       SCHOLIOK
 
-               I. Quid silfomes, bxplicatur a S. Bonav., II. Serit. d. 30. a. 2.   ligatus (consopitus), quin tamcn unquam processerit in actum.
-         q. I. in fine corp. et dnb. unic, d. 32. dub. 2, d. 39. a. 2. q. 2.       Ilanc autem ligalionem quidam sic explicant, ut parum a quarta
-         ad 4. — Supponitur bic antiqua et conjmunis dislinctio inter pri-         opinione recedant. — ltespectu specialis cuiusdam obiectionis
-         mam sanctificationem B. Virginis, quae secundum omnes anti-               cfr. hic dub. I.
-         quos facta est saltem ante nalivitatem ex ulei'o, et secundam ,                 III. Alex. Ilal. , S. p. 111. q. 9. m. 2. a. S. — S. Thom. ,
-         quae fuit in ipsa Verbi lncarrialiorie. Antequam doctrina, quae           hic q. I. a. 2; S. III. q. 27. a. 3; Compend. Iheol. c. 224.—
-         defendit immaculalam Virginis conceptionem, invaluit, secundae            B. Albert., hic a. 6. — Pelr. a Tar., hic q. I. a. I. quaestiunc.
-         sanctificationi aliqui speciales effeclus communiter attribueban-         3. — Bichard. a Med., de hae et seq. q. hic a. I. q. 4. — /Egid.
-         tur , ita ut inter utramque formalis quaedam difterentia statue-          H. , de hac et seq. q. hic q. I. a. 4. — Durand., hic q. 3.
-         retur; nunc autem communius docetur, easdem non nisi sccun-                     IV. ln seq. (3.) quaestione id quod supra in I. quaest. de
-         dum gradus efficaciae inter se dilferrc.                                  sanctificatione illa dictum est respectu actus, completur respe-
-               II. Prima opinio a S. Bonav. aliisque communiter repro-             clu kabitus peccandi, qui per conftrmationem in gratia a B.
-         balur. Secunda opinio est Alexandri Hal., quae pariler poste-             Virgine penitus removetur, saltem post secundam sanclificatio-
-         rioribus magistris non placuil. Tribus aulem opinionibus hic              nem , ut volunt qui in prima sanclificalione fomilem tantum li-
-         rclatis iam B. Albert. et S. Thom. adiunxerunt quartam , quae             gatum esse putant. Omnes autem in duobus conveniunt: tum
-         scil. suslinet, « quod in sanctificatione B. Virginis, qua fuit           quod B. Virgo, cum remanserit viatrix, non eodem modo fue-
-         sanctilicata in utero, iotaliter fuit ei fomes subtractus » (ita          rit confirmata in gratia, quo confirmantur Sancti, scil. per vi-
-         S. Thom. in Sum. III. q. 27. a. 3.). Haec autem quarta sen-               sionem bealificam, tum quod ipsa erninentissimum prae omni-
-         tentin, quae est nunc communis, ex dogmate immaculalae Con-               bus aliis in gratia confirmatis donum confirmationis hobuerit, ita
-         ceptionis sponle fluit, cum B. Virgini non denegari possint illi          ut in sensu composito exclusa sit potentia peccandi (cfr. S.
-         effeclus iuslitiae originalis, qui respiciunt subiectionem , qua in       Thom. , hic q. I. a. 2. quaestiunc. 3. ad 2.). Tantum Durand.
-         proloparentibus sensualilas rationi, ratio Deo obsequebatur (cfr.         nimis restringit hanc confirmationem, ut sit non ex dono inhae-
-         Scot., II. Senl. d. 29. q. unica n. 4 ; d. 32. n. 4. seqq.). —            renti , sed ex adiutorio ei assistenti.
-         Terlia opinio, quam sequuntur S. Bonav. , S. Thom., B. Al-                      V. Alex. Ilal. , loc. cit. m. 3. a. 2. § 2. — S. Thom. , hic
-         bert. , Petr. a Tar., Richard. a Med., ;Egid. R., Durand. aliique,        q. cit. ; S. loc. cit. a. 4. — B. Albert., hic a. 7. 9. — Pelr. a
-         non primae, scd seeundae sanclificationi cxstinctionem fomitis            Tar. , hic q. I. a. 2. quacstiunc. 3. — Durand. , hic q. 4.
-         altribuil, ita ut ille in prima secundum eosdem tanlum fuerit
-              \
+
+               ' Sentenlia liuius csl : et itleo curo, quamvis in diclis lo-      visibiletn carnis substanliam de carne Virginis stimsit; ralio vero
+         ciiiinnihus proptci- verbum fuit supponat pro tempore concc-             conccptionis cius non a semine virili , sed longc; aliter ac de-
+         plioni Chrisli antecedente, lamcn propter adiunctum subiectum            supcr venit. — Paulo superius pro ex sola muliere. Fuit el/inn.
+         Christi iviriMiui' oportel ad tempus sonceptionis Cbrisli, respc-        praeter lei/em eild. ex Sola niiilre, neque sniiiiiliini legem.
+         Ctu cuios caro nec fuil peccato obnoxia ncc scminalitcr tradti-               4 Pro Maria , quod exigcnte conlextu cum Uagislro posui-
+         Cta ncc in parenlihus decimata. — Aliquanto siipcrius pro in             mus, Vat. matre ; codd. hic abbreviationem exhibeot, qua com-
+         omnibiu cod. U in hit omnibus. Deinde pro dictione verbo ile             muniter materia significatur. Paulo ante pro intelligendum
+         praeterito codd. T V X exhibenl verbo praeterito , et posl               cod. K intelligenda ; edd. verbo intelligendum praefigunt hoc.
+         oportel cdd. subiiciunl tamen.                                                5 Kiid. cuiii pluribus codd. passibiUs. Mox i" edd. desi-
+             5 Dist. 18. a.   I. i|. 2. sei[. —   De   propos.   scq.,   in qua   deretur completum.
+         cod. <j propagatione pro procreatione, cfr. Ibid. d. 31. a. 2. q. 3.          6 Edd. ct Donnulli iiniil. comparelvir. Paulo superius pro
+             3 August., X. dc (icn. ad lit. c. 20. n. 35: Christus autem          estO limiii cinlil. I. a;i Esto enim.
+
+                   .S'. llonav. —   Tom. III.
+
+
+                                                                                                                                         12
+         90                                                  SENTENTIARUM LIB. III.
+
+          illius rei faciendae ; ut si plantaretur unum semen                sli , quod fabricatum fuit per virtutem supernam ,
+          parvum, ita quod de illo produceretur arbor ma-                    sicut melius manifestabitur infra \ — Et sic patet, pro
+          gna, cuius magnitudo maleria esset ad productio-                   quanto Christus dicitur fuisse in Adam secundum
+          nem magni corporis alterius speciei. Sic et in pro-                corpulentam substantiam ; et quod non sequilur .
+          posito inteiligendurn est, cum dicilur, Christum *                 si fuit in semine Adae, quod fuerit in illo secun-
+          fuisse in lumbis parentum secundum corpulentam                     dum seminalem rationem. Ad haec autem intelli-
+          subslantiam, non secundum seminakm rationem ;                      genda valent illa quae determinata sunt secundo li-
+Noiandom. non quia subslantia Christi corporis ibi tota fuerit,              bro, dislinctione trigesima3.
+          sed quia erat aliquanla materia, quae per vim se-                        4. Ad illud quod obiicitur, quod tota caro bea-
+          minalem poterat augmentari et crescerq,, apposito sibi             tae Virginis fuit ibi secundum seminalem rationem ,
+          alimento , ita ut corpora omnium hominum inde pos-                 sicut caro aliorum hominum ; dicendum , quod in
+          sent fabricari ; et per illam vim sunt corpora om-                 illo argumento est sophisma secundum accidens ,
+          nium hominum fabricata, excepto solo corpore Chri-                 sicut dictum fuit supra * de decimatione.
+                                                                 SCH0LI0N.
+              I. Ex principio in praecedenti quaest. probalo, quod tota      licet dici possit, carnem Christi fuisse in Patribus peccato obno-
+         caro antiquorum Pairum fuit obnoxia peccato originali, sequi        xiam. S. Thomas videtur hanc locutionem simpliciter concedere;
+         videtur, etiam carnem Christi ante assumtionem obnoxiam fuisse      sed eam intclligit in hoc sensu : nempe eo modo, quo fuit in Pa-
+         peccato; quod eliam vcrba Magistri (cfr. hic arg. I. ad oppos.)     tribus. In Patribus autem eadem fuit tantum secundum materiaie
+         simpliciter concedere vidontur. Quam conclusionem ut evertat,       principium. S. Bonaventura vero cautius loqui vult, nec prae-
+         S. Doctor in hac quaestione accuratius discutit illud principium    dictam locutionem admitlit ut proprie dictam, nisi explicite ad-
+         ab omnibus concessum , quod Chrislus non eadem lege propa-          datur: ratione materialis principii. — In dub. I. huius partis
+         gationis descenderit ab Adam , sicut alii homines, cum scilicet     auctor noster explicat sensum huius locutionis, quod in Maria et
+         caro eius non secundum seminalem ralionrm fuerit ab Adam            Patribus caro Christi sit peccato obnoxia, scilicet non ratione
+         traducta, sed tantum materialiter (de his cfr. hic ad 2. 3, et      culpae, sed ratione causae et seqnelae peccali.
+         praecipue II. Sent. d. 30. a. 3. q. 2. et scholion). Unde hac            II. Praeler laudatos in scholio ad I. quaest.: S. Thora., hic
+         ratione aliter fuitin Adam caro Christi, aliler caro aliorum        q. 4. a. I ; S. 111. q. 31. a. 7. — B. Albert., hic a. 26. — /Egid.
+         hominum. De his et de ipsa re nulla est inler Scholasticos dif-     R., hic q. 4. a. 1. et dub. lal. I.
+         lerentia opinionum, sed tantum de modo loquendi, utrum sci-
 
 ## English
 

@@ -1,8 +1,9 @@
 ---
-id: "bon-sent-III-d3-p2-a2-q3"
+id: "bon-sent-III-d3-p1-a2-q3"
 volume: 3
 book: 3
 distinctio: 3
+pars: 1
 articulus: 2
 quaestio: 3
 type: quaestio
