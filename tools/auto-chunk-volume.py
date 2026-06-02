@@ -36,13 +36,14 @@ RE_DISTINCTIO = re.compile(
     #   DISTING(TIO)   — C→G (d.17 line 51999: 'DISTINGTIO XVII.')
     #   DiSTINCTIO     — case mangle (d.23 line 69303 running head)
     #   DISTmCTIO      — IN→m ligature mangle (vol2 d.II line 4264: 'DISTmCTIO 11.')
+    #   DISTMCTIO      — IN→M uppercase ligature mangle (vol3 d.XXXIII line 49306)
     # Roman numeral allows U-for-I substitution (XVIU=XVIII at d.18 line 56737)
     # and digit substitution (vol2 d.II: '11.' = II).
     # Leading whitespace must also accept \f (form feed) — pdftotext emits \f as
     # the page-break sentinel at the start of a fresh page, and clean DISTINCTIO
     # headers in vol2 frequently sit on the first line of a new page
     # (vol2 d.17 line 28812, d.20 line 33403, d.34 line 55782).
-    r"^[ \t\f]*D[Ii]ST[Im]N?[CG]?TIO\S*\s+([IVXLCUivxlcu0-9]+(?:\s*[IVXLCUivxlcu0-9])*)\b",
+    r"^[ \t\f]*D[Ii]ST[ImM]N?[CG]?TIO\S*\s+([IVXLCUivxlcu0-9]+(?:\s*[IVXLCUivxlcu0-9])*)\b",
     re.MULTILINE,
 )
 RE_COMMENTARIUS = re.compile(

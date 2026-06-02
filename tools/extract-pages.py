@@ -106,7 +106,15 @@ VOLUMES: dict[str, VolumeConfig] = {
         printed_max=1030,
         description="Opera Omnia, Tomus II — Commentarius in II Librum Sententiarum",
     ),
-    # Pending: vol3, vol4 (PDFs local; offsets TBD on first use)
+    "vol3": VolumeConfig(
+        name="vol3",
+        pdf_path=REPO_ROOT / "raw" / "doctorisseraphic03bona.pdf",
+        pdf_offset=22,           # PDF page = printed page + 22 (verified 2026-06-02: printed p.13/167/223 → PDF 35/189/245; PDF=936pp, 936 formfeeds)
+        printed_min=1,
+        printed_max=914,
+        description="Opera Omnia, Tomus III — Commentarius in III Librum Sententiarum (40 dist., body pp.~6–905)",
+    ),
+    # Pending: vol4 (PDF local; offset TBD on first use)
 }
 
 
