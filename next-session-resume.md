@@ -1,8 +1,14 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III bootstrapped, commit f776e50 — 397 skeletons; NEXT = translate d.1-littera)
+**Last updated:** 2026-06-02 (Vol III d1-littera DONE, commit bf1ec0e; NEXT = bon-sent-III-d1-divisio)
 
 **Branch:** master
+
+## ✅ VOL III d1-littera DONE 2026-06-02 (commit bf1ec0e)
+
+DISTINCTIO I littera Magistri (Cap. I *Quare Filius carnem assumsit, non Pater vel Spiritus sanctus*; Cap. II *Utrum Pater vel Spiritus sanctus potuerit incarnari*; Cap. III *An Filius … aliquid fecerit quod non Pater vel Spiritus sanctus*), printed **pp.6–7** (PDF 28–29), Latin re-set from 450 dpi column bands (raw 1059–1136), literal English, **12-entry apparatus** (per-page restart: **p.6 footers 1–9 → [^1]–[^9]** [L-col 1–6, R-col 6cont.–9]; **p.7 littera footers 1–3 → [^10]–[^12]** [L-col, footer 3 wraps to R-col foot]). `has_scholion: false`. Body anchors: [^1]=`Evangelium` (capitulum VI front-matter, intentional orphan — no in-body anchor); [^2]`Apostolus` … [^9]`responderi potest`; [^10]`indissimilis`, [^11]`de Fide ad Petrum` (Fulgentius), [^12]`de Trinitate` (Augustinus). Build **1272 q / 876 translated**. Audits: apparatus-count CLEARED for littera (only the 10 sibling skeletons flag SKELETON-SUSPECT); paraphrase littera skipped/OK (siblings = the 10 HIGH); header Q-LOSS/A-LOSS is the still-skeleton a*/divisio chunks. **No `[?]` flags.** Running heads verified: p.6 `6 … SENTENTIARUM LIB. III.`; p.7 `DIST. I. DIVISIO TEXTUS. 7` (OCR garbled `DLVISIO`).
+
+**Boundary lock:** littera ends grammatically complete at `…ipsam tamen incarnationem cum Patre et Spiritu sancto operatus est.` (p.7 R-col). `COMMENTARIUS IN DISTINCTIONEM I.` begins raw 1141 — belongs to d1-divisio, NOT included.
 
 ## ✅ VOL I + VOL II COMPLETE. Vol II closing polish DONE. → ACTIVE FRONT: VOL III (Book III, 40 dist.)
 
@@ -16,9 +22,16 @@
 - **Chunker fix:** d.33's header is OCR-mangled `DISTMCTIO XXXIII.` (uppercase IN→M, raw 49306); `RE_DISTINCTIO` was extended to `[ImM]` — without it all of d.33 silently folded into `d32-*-dup2`. Verified d.33 now has its own littera/divisio/a1-q1..q6/dubia.
 - **17 dup-ID files** (pars-relabel / rechunk-review backlog, resolve per-distinction at translation time): d3 (p2: divisio, a1-q1/q2, a2-q1/q2, dubia), d24 (a1-q1/q2/q3), d25 (a1-q1/q3), d34 (p1: a1-q1/q2/q3), d39 (a2-q1/q2/q3). **Pars splits detected: d.3 and d.34** (p1/p2).
 
-## NEXT ACTION → translate `bon-sent-III-d1-littera` (first Vol III chunk)
+## NEXT ACTION → `bon-sent-III-d1-divisio` (COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM)
 
-Apply the **Vol II PDF-priority workflow** (two-column IA djvu OCR cascade-shatters Respondeo/Solutio/footers → column-band PDF read is authoritative in damaged regions; see CLAUDE.md "VOL II OVERRIDE" — it carries to Vol III). Per-chunk recipe: re-chunk-verify boundaries from raw → `extract-pages.py --volume vol3 --pages <printed> --dpi 450` + `colcrop.py vol3 <page>` → re-set Latin column-by-column → literal English → apparatus from raw OCR footers (per-page restart) → frontmatter Tier-2 + `## Notes` → audits (`--volume 3 --min-d 1 --max-d 1`) → smoke build → two commits. **Decade polish gate at d.10/d.20/d.30/d.40.** Confirm the audit scripts accept `--volume 3` before relying on them (extended for vol2; verify vol3 path).
+**Raw 1141–~1199+, printed p.7 (R-col)→p.8.** Content = `COMMENTARIUS IN DISTINCTIONEM I.` (subtitle *De unione naturarum in Christo ex parte personae assumentis*) + `DIVISIO TEXTUS` + `TRACTATIO QUAESTIONUM` (Art. I has 4 questions: divina natura potuerit uniri / una persona sine alia / una persona simul cum alia / quaelibet trium personarum per se). Begins immediately after the littera tail at raw 1141.
+
+**HAND-OFF picked up from d1-littera (commit bf1ec0e):**
+1. The COMMENTARIUS/DIVISIO/TRACTATIO body itself (raw 1141+).
+2. **p.7 has its OWN `NOTAE AD COMMENTARIUM.` footer block** (fresh sequence 1–4): `1 In Prooemio pag. 2.`; `2 Edd. participando.`; `3 Cod. K addit sive de unione naturarum.`; `4 Codd. HMQS quaerit, edd. ostendit.` — these are the DIVISIO's footers (anchors `quae praedicta sunt`, `impartiendo`, `assumtione`, `inserit`). **The unnumbered variant fragment above NOTAE (`codd. BCD pro quoniam habent quando, ed.5 quando quidem.`) completes the LITTERA's [^12] and was already rendered there — do NOT re-render it in the divisio.**
+3. The p.7 littera footers 1–3 are fully consumed by d1-littera ([^10]–[^12]); the divisio starts its footer numbering fresh from the `NOTAE AD COMMENTARIUM` block.
+
+Apply the **Vol II PDF-priority workflow** (column-band PDF read authoritative in damaged regions; CLAUDE.md "VOL II OVERRIDE" carries to Vol III). Per-chunk recipe: re-chunk-verify boundaries from raw → `extract-pages.py --volume vol3 --pages 7-8 --dpi 450` + `colcrop.py vol3 7/8` → re-set Latin column-by-column → literal English → apparatus from raw OCR footers (per-page restart) → frontmatter Tier-2 + `## Notes` → audits (`--volume 3 --min-d 1 --max-d 1`) → smoke build → two commits. **Decade polish gate at d.10/d.20/d.30/d.40.** Audit scripts confirmed accepting `--volume 3` (verified on d1-littera 2026-06-02).
 
 ---
 
