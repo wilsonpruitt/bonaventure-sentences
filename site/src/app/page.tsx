@@ -72,7 +72,7 @@ export default function HomePage() {
         </p>
         <CrossDivider />
         <p className="body-text" style={{ maxWidth: "700px", margin: "0 auto", textAlign: "center" }}>
-          An English translation of the <em>Opera Omnia</em> of St. Bonaventure of Bagnoregio
+          An English translation of the <em>Opera Omnia</em>&thinsp; of St. Bonaventure of Bagnoregio
           (1221&ndash;1274), the Seraphic Doctor, from the Quaracchi critical edition (1882&ndash;1902).
           The project will eventually present all ten volumes; currently published are Volumes I and II,
           the <em>Commentaries on Books I and II of the Sentences of Peter Lombard</em>. Future volumes
@@ -114,9 +114,9 @@ export default function HomePage() {
 
       <div className="section-title">The Full Opera Omnia &mdash; Project Scope</div>
       <p className="body-text" style={{ marginBottom: "1.5rem" }}>
-        The Quaracchi <em>Opera Omnia</em> runs to ten volumes (1882&ndash;1902). Two are now
+        The Quaracchi <em>Opera Omnia</em>&thinsp; runs to ten volumes (1882&ndash;1902). Two are now
         complete &mdash; the commentaries on the first two books of the <em>Sentences</em>. The
-        remaining eight, including Books III&ndash;IV of the <em>Sentences</em> and Bonaventure&rsquo;s
+        remaining eight, including Books III&ndash;IV of the <em>Sentences</em>&thinsp; and Bonaventure&rsquo;s
         opuscula, Scripture commentaries, and sermons, are still to come.
       </p>
       {OPERA_OMNIA.map((t) => {
@@ -147,7 +147,7 @@ export default function HomePage() {
         <div className="section-title">About this Project</div>
         <p className="body-text">
           Bonaventure of Bagnoregio (1221&ndash;1274), the Seraphic Doctor, composed his{" "}
-          <em>Commentary on the Sentences</em> while teaching at the University of Paris. It remains
+          <em>Commentary on the Sentences</em>&thinsp; while teaching at the University of Paris. It remains
           one of the most important works of medieval theology, yet no complete English translation
           has ever been published. This project seeks to remedy that gap.
         </p>
