@@ -1,10 +1,28 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-05-31 (d44-dubia promoted -> Tier 2, commit e6ebf72 — **VOL II COMPLETE**)
+**Last updated:** 2026-06-02 (Vol III bootstrapped, commit f776e50 — 397 skeletons; NEXT = translate d.1-littera)
 
 **Branch:** master
 
-## ✅ VOL II COMPLETE — d.1 through d.44 all Tier 2 (875 questions, 875 translated)
+## ✅ VOL I + VOL II COMPLETE. Vol II closing polish DONE. → ACTIVE FRONT: VOL III (Book III, 40 dist.)
+
+**Vol II closing polish pass DONE 2026-05-31** (commits 97cc805 Pass 1 [?]-resolution + b9e323b Pass 2 full-corpus style/format + 4a94bbc Pass 3 boundary-integrity sweep). Site copy updated for Vol II published (cc74893); CLAUDE.md status line → Vols I & II complete, Vol III active (7a95d0e).
+
+## ✅ VOL III BOOTSTRAPPED 2026-06-02 (commit f776e50)
+
+- **Offset: `pdf = printed + 22`** (same as Vol II; verified at printed p.13/167/223 → PDF 35/189/245; PDF=936pp, 936 formfeeds; body printed pp.~6–905). Wired into `tools/extract-pages.py` (vol3 config).
+- **Raw:** `raw/bonaventure_vol3_raw.txt` (62,847 lines). **PDF:** `raw/doctorisseraphic03bona.pdf` (100 MB, gitignored). Body = DISTINCTIO I (raw 1059) → DISTINCTIO XL (raw 61234); INDEX QUAESTIONUM begins raw ~62650.
+- **397 auto-chunked skeletons** in `vol3/` (all 40 distinctions present). Build: **3 books / 1272 questions / 875 translated** (Vol III all skeleton).
+- **Chunker fix:** d.33's header is OCR-mangled `DISTMCTIO XXXIII.` (uppercase IN→M, raw 49306); `RE_DISTINCTIO` was extended to `[ImM]` — without it all of d.33 silently folded into `d32-*-dup2`. Verified d.33 now has its own littera/divisio/a1-q1..q6/dubia.
+- **17 dup-ID files** (pars-relabel / rechunk-review backlog, resolve per-distinction at translation time): d3 (p2: divisio, a1-q1/q2, a2-q1/q2, dubia), d24 (a1-q1/q2/q3), d25 (a1-q1/q3), d34 (p1: a1-q1/q2/q3), d39 (a2-q1/q2/q3). **Pars splits detected: d.3 and d.34** (p1/p2).
+
+## NEXT ACTION → translate `bon-sent-III-d1-littera` (first Vol III chunk)
+
+Apply the **Vol II PDF-priority workflow** (two-column IA djvu OCR cascade-shatters Respondeo/Solutio/footers → column-band PDF read is authoritative in damaged regions; see CLAUDE.md "VOL II OVERRIDE" — it carries to Vol III). Per-chunk recipe: re-chunk-verify boundaries from raw → `extract-pages.py --volume vol3 --pages <printed> --dpi 450` + `colcrop.py vol3 <page>` → re-set Latin column-by-column → literal English → apparatus from raw OCR footers (per-page restart) → frontmatter Tier-2 + `## Notes` → audits (`--volume 3 --min-d 1 --max-d 1`) → smoke build → two commits. **Decade polish gate at d.10/d.20/d.30/d.40.** Confirm the audit scripts accept `--volume 3` before relying on them (extended for vol2; verify vol3 path).
+
+---
+
+## (Archived) VOL II — d.1 through d.44 all Tier 2 (875 questions, 875 translated)
 
 **`bon-sent-II-d44-dubia` shipped 2026-05-31 (commit e6ebf72):** *Dubia circa litteram Magistri* (Distinctio XLIV) — 3 doubts + the EPILOGUE to Liber Secundus, printed **pp.1015-1016** (PDF 1037-1038), **25-entry apparatus** (per-page restart: p.1015 footers 1-10 = `[^1]`-`[^10]` [L-col 1-5, R-col 6-10]; p.1016 footers 1-15 = `[^11]`-`[^25]` [L-col 1-7, R-col 8-15]). `has_scholion: false`. Dub. I (devil's power IS to be resisted — the Apostle's "non resistendum" = human not diabolical power); Dub. II (higher vs lower power in conflict — twofold: when lower flows totally from higher, obey higher; Pope's plenary power binds over any mediate prelate); Dub. III (Master adduced *dominandi* authorities for a *peccandi* question — apt by consequence, though less aptly; + the eight places the Master departs from common opinion + EPILOGUE). Body ends `Explicit liber secundus.`; OCR back-matter `INDEX QUAESTIONUM` follows immediately — confirms no further commentary. **CLEAN PAGE BREAK at the a3-q2 seam — no shared-footer split** (a3-q2 consumed all p.1014 footers; dubia get a fresh p.1015 sequence). Running heads confirmed via 450 dpi crops (p.1015 `DIST. XLIV. DUBIA. 1015`; p.1016 `1016 SENTENTIARUM LIB. II.`). Marker pairing 25/25 clean. Build **875 q / 875 translated** (previously 874). Audits: paraphrase 0 crit / 0 high (all 9 d.44 chunks OK — last skeleton cleared); header + apparatus audits empty tables (Tier-2 chunks have no line_start/line_end — expected). **No `[?]` flags.**
 

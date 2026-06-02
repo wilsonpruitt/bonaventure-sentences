@@ -33,6 +33,18 @@ def vol_cfg(volume: int) -> dict:
     """Per-volume paths/globs. Default (volume=1) preserves the original Vol I
     behavior exactly (two raw files, pt1 d<24 / pt2 d>=24). Vol II = a single
     raw file, no pt split."""
+    if volume == 3:
+        return dict(
+            cdir=REPO / "vol3",
+            cglob="bon-sent-III-d*.md",
+            fn_re=re.compile(r"bon-sent-III-d(\d+)-"),
+            chunk_glob="bon-sent-III-{}.md",
+            chunk_glob_fuzzy="bon-sent-III-*{}*.md",
+            raws=[REPO / "raw" / "bonaventure_vol3_raw.txt"],
+            split24=False,
+            default_out="manual-review/vol3-paraphrase-audit.md",
+            vlabel="III",
+        )
     if volume == 2:
         return dict(
             cdir=REPO / "vol2",
@@ -345,7 +357,7 @@ def main():
     ap.add_argument("--max-d", type=int, default=40)
     ap.add_argument("--min-d", type=int, default=1)
     ap.add_argument("--chunk", help="single-chunk diff dump (e.g. d3-littera)")
-    ap.add_argument("--volume", type=int, default=1, choices=(1, 2),
+    ap.add_argument("--volume", type=int, default=1, choices=(1, 2, 3),
                     help="1 = Vol I (default, pt1/pt2); 2 = Vol II (single raw)")
     ap.add_argument("--out", default=None,
                     help="report path (default: per-volume manual-review path)")

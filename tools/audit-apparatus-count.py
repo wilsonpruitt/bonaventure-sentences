@@ -30,6 +30,14 @@ def vol_cfg(volume: int) -> dict:
     """Per-volume paths/globs. Vol I = two raw files (pt1 d<24, pt2 d>=24);
     Vol II = a single raw file, no pt split. Default (volume=1) preserves the
     original Vol I behavior exactly."""
+    if volume == 3:
+        return dict(
+            cdir=REPO / "vol3",
+            cglob="bon-sent-III-d*.md",
+            fn_re=re.compile(r"bon-sent-III-d(\d+)-"),
+            raws=[REPO / "raw" / "bonaventure_vol3_raw.txt"],
+            split24=False,
+        )
     if volume == 2:
         return dict(
             cdir=REPO / "vol2",
@@ -112,7 +120,7 @@ def main():
     ap.add_argument("--max-d", type=int, default=48)
     ap.add_argument("--min-diff", type=int, default=5,
                     help="flag chunks where (footer_notes - apparatus_defs) >= this (default 5)")
-    ap.add_argument("--volume", type=int, default=1, choices=(1, 2),
+    ap.add_argument("--volume", type=int, default=1, choices=(1, 2, 3),
                     help="1 = Vol I (default, pt1/pt2); 2 = Vol II (single raw)")
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
@@ -164,7 +172,7 @@ def main():
     rows.sort(key=lambda r: -r["diff"])
     flagged = [r for r in rows if r["flag"]]
 
-    lines = [f"# Apparatus-Count Audit — Vol {'II' if args.volume == 2 else 'I'}", ""]
+    lines = [f"# Apparatus-Count Audit — Vol {({1:'I',2:'II',3:'III'}).get(args.volume,'I')}", ""]
     lines.append(f"Heuristic comparison of raw-OCR footer-note openers vs chunk `[^N]:` defs. Flag threshold: diff ≥ {args.min_diff}.")
     lines.append("")
     lines.append(f"**Flagged: {len(flagged)} chunks** (out of {len(rows)} audited).")
