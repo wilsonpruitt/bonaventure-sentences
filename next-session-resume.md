@@ -1,8 +1,26 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d2-a3-q3 DONE, commit 27c0aa1 — **QUAESTIO III; ART. III COMPLETE** — only the d.2 dubia remain; NEXT = bon-sent-III-d2-dubia → on promotion **DISTINCTIO II COMPLETE**)
+**Last updated:** 2026-06-02 (Vol III d2-dubia DONE, commit 82c3525 — **DISTINCTIO II COMPLETE**; NEXT = bon-sent-III-d3-p1-littera)
 
 **Branch:** master
+
+## ✅ VOL III d2-dubia DONE 2026-06-02 (commit 82c3525) — **DISTINCTIO II COMPLETE**
+
+`DUBIA CIRCA LITTERAM MAGISTRI` — **four doubts (Dub. I, II, III, IV)**. Latin re-set from 450 dpi column bands (raw **4478–4618**), literal English, **23-entry apparatus**, **`has_scholion: false`** (dubia block, no articulus/quaestio frontmatter). Printed **pp.56–58** (PDF 78–80). `title_la: "Dubia circa litteram Magistri"`. Dub. I = *Omnia quae in nostra natura plantavit, Dei Verbum assumsit* (immortality/sex objections → constitution vs accidental disposition; predicate-shift sophism); Dub. II = *Si visibilia munda... quanto magis immutabilis veritas* (Truth not contaminable; communicatio idiomatum); Dub. III = caro not prius concepta et postmodum assumta (order of time vs order of nature); Dub. IV = *Angelo annuntiante et Spiritu adveniente* (why angelic annunciation preceded conception + of what order the Angel was — threefold congruity: reparation of man / angelic ministry / angelic fall; Gabriel = Archangel as name of *nuntius* not *natura*).
+
+**Dub. column-reflow (two-column, interleaved — reflowed from crops not raw line order):** p.56 L = q3-tail → DUBIA header (left half) → Dub. I → Dub. II opener; p.56 R = header (right half) → q3-tail (already in q3) → Dub. II body+Respondeo → Dub. III opener; p.57 L = Dub. III cont.+Respondeo → Dub. IV opener; p.57 R = Dub. IV cont.+Respondeo (Ratio 1/2/3); p.58 L = Dub. IV resolution → DISTINCTIO III/Pars I/Cap. I begins (NOT this chunk); p.58 R = Dub. IV 2nd reply (de quo ordine) → DISTINCTIO III cont. Marginal labels (*Notandum, Distinctio, Duplex quaestio, Solvuntur duo obiecta, Ad 1./2. quaest., Ratio 1/2/3, Aliter*) rendered inline, NOT footnote anchors.
+
+**Apparatus split (23 entries, continuous slugs `[^1]`–`[^23]`, per-page restart):** **`[^1]`–`[^6]` = p.56 footers 4–9 (INHERITED — q3 consumed p.56 f.1–3 only):** f.4→Dub.I `dicitur`; f.5→Dub.I `instat`; f.6→Dub.II `coniunctione carnis`; f.7→Dub.II `exemplum illud`; f.8→`idiomatum`; f.9→`vitiositatem`. **`[^7]`–`[^17]` = p.57 footers 1–11:** `ante`/`naturae`/`oportet`/`circumdare`/`Bernardus`/`Dionysius`/`tertio`(Isaias 63:1)/`Spiritum sanctum`/`aenigmate`/`nuntiare`/`angelicae`. **`[^18]`–`[^23]` = p.58 footers 1–6:** `triplicem ordinem`/`Angelum`/`electionis`/`Ecclesia`/`progreditur`/`sapientia`. **Marker pairing: 23 La = 23 En = 23 defs, continuous 1–23, 0 anchorless / 0 defless** (verified programmatically). Build **1272 q / 898 translated**. Audits: paraphrase **0 crit / 0 high** for d.2 (DISTINCTIO II now FULLY Tier-2 — no skeletons remain); apparatus 0 flagged; header no LOSS (coarse Vol III). **No `[?]` flags.** Running heads: p.56 `56 SENTENTIAR[UM]` / `DUBIA CIRCA LITTERAM MAGISTRI.`; p.57 `DIST. II. DUBIA` / `DUBIA. 57`; p.58 `58 SENTENTIAR[UM]`.
+
+**Boundary lock:** Dub. IV resolution ends grammatically complete at `...multiformis Dei sapientia.` (raw ~4612, p.58 R-col); `DISTINCTIO III. / Pars I. / Cap. I. De carne assumta...` (raw 4619) begins d3-p1-littera on p.58 L-col bottom — NOT included, continuous (no cascade-merge splice).
+
+**DISTINCTIO II COMPLETE** (littera + divisio + a1 q1-3 + a2 q1-3 + a3 q1-3 + dubia = **11 chunks Tier-2**).
+
+## NEXT ACTION → `bon-sent-III-d3-p1-littera` (DISTINCTIO III, Pars I — littera Magistri)
+
+**Raw ~4619+, printed p.58/59+.** `DISTINCTIO III. / Pars I. / Cap. I. De carne assumta, qualis ante fuerit.` Opener `Quaeritur etiam de carne Verbi, an, priusquam conciperetur, obligata fuerit peccato, et an talis assumta fuerit a Verbo. — Sane dici potest et credi oportet...` The DISTINCTIO III body begins in **p.58 L-col bottom** and continues R-col + p.59+. **NOTE: d.3 is PARS-SPLIT (p1/p2)** and has **dup-ID skeletons `d3-p2-*` flagged for rechunk-review** — **re-verify d.3's full structure from raw before translating** (grep DISTINCTIO III / Pars I / Pars II / Cap. / QUAESTIO / ARTICULUS headers, cross-check running heads `DIST. III. P. I/II.`). Littera Magistri (Lombard's text, the Cap. I–N chapters) should be its own big chunk (template = `bon-sent-I-d8-littera.md`), separate from the Bonaventure commentary. DISTINCTIO III's own footers (e.g. `Cod. N ordinationem`, `Codd. M O comprehensionis` for the littera) begin on p.58/59 and were OMITTED from d2-dubia.
+
+**Decade-polish gate:** the next decade polish-blocker fires at **d.10** (when `bon-sent-III-d10-*` closes → three passes over Vol III d.1–d.10 before d.11).
 
 ## ✅ VOL III d2-a3-q3 DONE 2026-06-02 (commit 27c0aa1) — ARTICULUS III COMPLETE
 
