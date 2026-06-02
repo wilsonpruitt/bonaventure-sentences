@@ -1,8 +1,28 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d2-a1-q1 DONE, commit cdb32ec; NEXT = bon-sent-III-d2-a1-q2)
+**Last updated:** 2026-06-02 (Vol III d2-a1-q2 DONE, commit 1991e4b; NEXT = bon-sent-III-d2-a1-q3)
 
 **Branch:** master
+
+## ✅ VOL III d2-a1-q2 DONE 2026-06-02 (commit 1991e4b)
+
+`QUAESTIO II. Utrum maior sit congruitas ad unionem in humana natura quam in Angelo, an e converso.` Opener `Secundo quaeritur, utrum maior sit congruitas ad unionem in humana natura quam in Angelo, an e converso. Et quod maior sit in Angelo, videtur.` Latin re-set from 450 dpi column bands (raw **3347–3511**), literal English, **20-entry apparatus**, **`has_scholion: true`**. Printed **pp.39–41** (PDF 61–63). **Alignment PASS** (q2 = ART. I TRACTATIO q2; no swap). Structure: 4 fundamenta (marginal *Ad oppositum*) + Sed contra (4 objections, marginal *Fundamenta*) + Conclusio blockquote + Respondeo (duplex ratio: institution [triplex] + reparation [triplex]) + replies *Ad 1–4* + scholion I–III. Marginal labels (*Ad oppositum, Fundamenta, Duplex ratio principalis, Ratio 1/2/3, Notandum ×3, Solutio oppositorum, Distinctio, Alia ratio*) rendered inline, NOT footnote anchors.
+
+**has_scholion: true — VERIFIED on PDF p.41:** SCHOLION prints after reply 4, before QUAESTIO III. **§I** = assumeability-of-angelic-nature excursus (Albert hic a.2, Petrus a Tar., S.Thom. S.III q.4 a.1 ad 3). **§II** = q2 parallel-treatments list (ends `Dionys. Carth., hic q. 1.`). **§III** = `De sequenti (3.) quaestione…` — the parallel-treatments list for q3 (ends `Dionys. Carth., hic q. 3.`). §III forward-*references* q3 but does NOT cover/translate it (per-question d.1 pattern). → **d2-a1-q3 must verify its OWN scholion on the PDF.**
+
+**Per-page footer split (20 entries, continuous slugs `[^1]`–`[^20]`):** **p.39 footers 2–4 = `[^1]`–`[^3]`** (²Vers.24/Gregor.XXXII Moral `Ioannis quarto`; ³Richard IV de Trin c.25 `Richardus de sancto Victore`; ⁴Edd. convenit `cum`). **p.39 footer 1 OMITTED** — `Cod. K et ideo… omittunt in ante omnibus… per se… parte` is a textual-variant on q1's SCHOLION §I phrase `…in omnibus simul quam in aliqua earum per se…` (out-of-chunk, q1 left it markerless); omitted per marker-pairing rule, NOT anchorless. This refines q1's forward hand-off (which assumed all 4 p.39 footers forward). **p.40 footers 1–10 = `[^4]`–`[^13]`** (¹Vat.ministerium `mysterium`; ²Vide verba/cuiusmodi `non`; ³Phil 2,6 `commendationem`; ⁴Dist.7 `in secundo`; ⁵Vers.16 `Hebraeos secundo`; ⁶AFKN natura/discretionem `in humana`; ⁷de Spiritu et anima `Augustinus`; ⁸VI Moral `Gregorius`; ⁹De hac prima ratione `totus lapsus fuerat`; ¹⁰Eph 2,4 `dilexit nos`). **p.41 footers 1–7 = `[^14]`–`[^20]`** (¹Dist.1.a.2.q.2 `supra`; ²II Sent d.16/maior fit `exemplaritatis divinae`; ³XIII de Trin `gratia divina`; ⁴Tim 1,17 `gloria`; ⁵Serm.51 Bernard `Canticum`; ⁶magis debet homo assumi `assumi`; ⁷Gen 3,1/Luc 1,28 `Mariam`). **Marker pairing: 20 La = 20 En = 20 defs, continuous 1–20, 0 anchorless / 0 defless** (verified programmatically). Build **1272 q / 890 translated**. Audits: paraphrase 0 crit / 8 high (= the 8 remaining d.2 skeletons; q2 CLEARED — no smell flag); apparatus only the 8 skeletons flag SKELETON-SUSPECT (q2 CLEARED); header diff −1/−1 = coarse aggregate-skeleton noise, no LOSS. **No `[?]` flags.** Running heads: p.39 R `QUAEST. II. 39`; p.40 L `40 SENTENTIARUM LIB. III.`; p.41 L `DIST. II. ART. I. QUA[EST. II.]`, R `QUAEST. II. 41`.
+
+**Boundary lock:** q2's scholion §III ends grammatically complete at `…Dionys. Carth., hic q. 3.` (p.41 R-col, raw 3511). `QUAESTIO III.` (raw 3512) / `Tertio quaeritur` (raw 3515) begin d2-a1-q3 at the top of p.42 — NOT included. Scholion tail + q3 opener continuous (no cascade-merge splice).
+
+## NEXT ACTION → `bon-sent-III-d2-a1-q3` (QUAESTIO III — LAST question of ART. I)
+
+**Raw 3515–~3614, printed p.42 → onward.** `QUAESTIO III. Utrum maior sit congruitas ad unionem in tota specie quam in uno individuo.` **Opener:** `Tertio quaeritur, utrum maior sit congruitas in tota specie quam in uno individuo. Et quod maior sit in tota humana specie, videtur.` (marginal *Ad oppositum* on p.42 L-col; fund-1 `Quia tota indigebat curatione. Et Damascenus dicit: quod erat inassumtibile erat incurabile`; fund-1 marker on `in tota specie¹`). **VERIFY alignment** (opener should be `Tertio quaeritur, utrum maior sit congruitas … in tota specie quam in uno individuo` = ART. I TRACTATIO q3; STOP and report if it's q1/q2 wording — auto-chunker q-swap guard). After q3, ART. II opener (raw ~3615, p.43, `Consequenter quaeritur de natura assumta… ad hoc quaeruntur tria`) folds into d2-a2-q1.
+
+**HAND-OFF picked up from d2-a1-q2 (commit 1991e4b):**
+1. **NO shared-page footer carries from q2 into q3.** q2's scholion + all p.41 footers are fully consumed on p.41. q3 opens at the TOP of p.42 (QUAESTIO III at the column head), so **p.42's footers all begin a fresh per-page sequence belonging to q3** — verify on the p.42 bands when building. (p.42 was already cropped this session: `/tmp/colcrop/vol3-p042-{L,R}-{0..2}.png`.)
+2. **SCHOLION: q3 has NONE forward-covered by q2** — q2's scholion §III only *references* q3's parallel treatments (`De sequenti (3.) quaestione…`), it does not translate/cover q3. Check the page after q3's replies for q3's OWN scholion (the d.1 per-question pattern); `has_scholion` per the PDF finding.
+3. **Page span:** confirm each page via running heads (`DIST. II. ART. I. QUAEST. III.`); q3's tail/scholion may spill a page past the naive estimate (the q1/q2 final-page-spill pattern — q1 was [37,38]→[37,38,39], q2 settled at [39,40,41]).
+
 
 ## ✅ VOL III d2-a1-q1 DONE 2026-06-02 (commit cdb32ec)
 
