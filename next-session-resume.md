@@ -1,8 +1,26 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d1-a2-q4 DONE, commit 2adbc4a; 16-entry apparatus; NO scholion; pp.31–33; **ART. II COMPLETE — only d.1 dubia remain**; NEXT = bon-sent-III-d1-dubia)
+**Last updated:** 2026-06-02 (Vol III d1-dubia DONE, commit 3303f2a; **DISTINCTIO I COMPLETE** — littera + divisio + a1 q1–q4 + a2 q1–q4 + dubia = 11 chunks Tier-2; NEXT = bon-sent-III-d2-littera)
 
 **Branch:** master
+
+## ✅ VOL III d1-dubia DONE 2026-06-02 (commit 3303f2a) — **DISTINCTIO I COMPLETE**
+
+`DUBIA CIRCA LITTERAM MAGISTRI.` — **four doubts Dub. I–IV.** Latin re-set from 450 dpi column bands (raw **2900–3037**), literal English, **22-entry apparatus**, **`has_scholion: false`** (dubia carry their own resolutions). Printed **pp.33–34** (PDF 55–56) — **NOT 33–35**: the four dubia occupy only pp.33–34; **p.35 (`DISTINCTIO II.` / `Cap. I. Quare totam humanam naturam accepit…`) is d2-littera, NOT this chunk** (verified on PDF p.35 L-col: running head `DISTINCTIO II.`). DISTINCTIO II **NOT leaked**.
+
+**Four-Dub. column-reflow (raw line order ≠ reading order):** the four Dub. interleave across the two columns — reflowed printed order I → II → III → IV from the column bands. In raw OCR the `Dub. IV.` header sits in the R-col **before** `Dub. III.` (raw 2994 vs 3007), a two-column-bleed artifact, disregarded. **Dub. I** L-col p.33 → R-col p.33 → top of L-col p.34 (six rationes for *tempus plenitudinis* + plenitudo naturae/gratiae/gloriae distinction). **Dub. II** (`Factum de muliere`) L-col p.34. **Dub. III** (`Factum sub Lege`) L-col p.34 → top R-col p.34 (*esse sub Lege tribus modis*). **Dub. IV** (`In specie columbae descendisse Spiritum sanctum`) R-col p.34, ends `…distinctione decima sexta.`
+
+**Per-page footer split (22 entries, continuous unique slugs `[^1]`–`[^22]`):** **p.33 = `[^1]`–`[^11]`** (printed footers 4–14; printed f.1–2 were q4's `[^15]`/`[^16]`; printed f.3 `Vide scholion ad praecedentem quaest.` annotates q4 tail `manifestatum` — OMITTED here, not anchorless). **p.34 = `[^12]`–`[^22]`** (printed footers 1–11, per-page restart; all dubia). **Marker pairing: 22 La = 22 En = 22 defs, 0 anchorless / 0 defless** (verified programmatically). Build **1272 q / 886 translated**. Audits: paraphrase **0 crit / 0 high** (= d.1 FULLY Tier-2, no skeletons left); apparatus 0 flagged; header no LOSS. **No `[?]` flags.** Running heads: p.33 `DIST. I. DUBIA. 33`; p.34 `34 SENTENTIARUM LIB. III.`.
+
+**Incoming hand-off picked up (from a2-q4):** a2-q4 consumed p.33 printed footers 1–2. Of the forwarded p.33 footers 3–7, footer 3 (`Vide scholion ad praecedentem quaest.`) annotates q4's tail `manifestatum` → omitted (q4 territory, not anchorless); footers 4–7 anchor Dub. I body → rendered `[^1]`–`[^4]`.
+
+**Boundary lock:** Dub. IV ends grammatically complete at `…distinctione decima sexta.` (p.34 R-col, raw ~3032). `DISTINCTIO II.` (raw ~3040) / `Cap. I.` begin d2-littera on p.35 — NOT included. Dubia tail + Dist. II opener continuous (no cascade-merge splice).
+
+## NEXT ACTION → `bon-sent-III-d2-littera` (DISTINCTIO II littera — Lombard's text, Cap. I+)
+
+**Raw ~3040 → end TBD, printed p.35 → onward.** `DISTINCTIO II.` then `Cap. I. Quare totam humanam naturam accepit, et quid nomine humanitatis vel humanae naturae intelligendum sit.` Opener `Et quia in homine tota humana natura vitio corrupta erat, totam assumsit, id est animam et carnem, ut totam curaret et sanctificaret…` Multiple Cap. — count via raw grep `Cap\.` + running heads (`DISTINCTIO II.` on p.35+). Use the d8-littera-style big-Tier-2-chunk template for the Lombard littera. PDF p.35 = PDF 57 (offset +22).
+
+**NOTE — next decade-polish gate is at d.10:** when `bon-sent-III-d10-*` closes, run the three-pass polish-blocker over Vol III d.1–d.10 (Vol III PDF `raw/doctorisseraphic03bona.pdf`, vision `raw/vision/vol3/`, offset +22) BEFORE dispatching d.11.
 
 ## ✅ VOL III d1-a2-q4 DONE 2026-06-02 (commit 2adbc4a) — ARTICULUS II COMPLETE
 
