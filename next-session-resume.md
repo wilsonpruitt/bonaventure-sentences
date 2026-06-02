@@ -1,6 +1,32 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d3-p1-dubia DONE, commit 2db7df7 — *Dubia circa litteram Magistri* Dub. I–V, has_scholion: false; **DISTINCTIO III PARS I COMPLETE** (littera + divisio + a1 q1–3 + a2 q1–3 + dubia); NEXT = bon-sent-III-d3-p2-divisio, the PARS II COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO)
+**Last updated:** 2026-06-02 (Vol III d3-p2-divisio DONE, commit e0f3e32 — PARS II COMMENTARIUS + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM, has_scholion: false, has_apparatus: false; NEXT = bon-sent-III-d3-p2-a1-q1, ARTICULUS I opener folds in + QUAESTIO I)
+
+## ✅ VOL III d3-p2-divisio DONE 2026-06-02 (commit e0f3e32) — PARS II DIVISIO TEXTUS + TRACTATIO QUAESTIONUM
+
+`COMMENTARIUS IN DISTINCTIONEM III. Pars II.` (the SECOND one) — lemma *Cum autem illa caro, cuius excellentia etc.* + `DIVISIO TEXTUS` (raw 6165) + `TRACTATIO QUAESTIONUM` (raw 6195). PARS II treats *de Christi decimatione* + *de carnis Christi traductione*. Latin re-set from 450 dpi column bands (raw **6158–6206**), literal English. Printed **pp.80–81** (PDF 102–103; offset +22). **`has_scholion: false`, `has_apparatus: false`** — the divisio/tractatio body carries ZERO footnote markers; this is correct (a divisio with no apparatus of its own).
+
+**DIVISIO TEXTUS** divides PARS II into three parts: (1) *utrum caro Christi potuerit decimari, vel debuerit in Abraham*; (2) the conclusion *caro Christi non fuit caro peccati* (ibi *Quocirca primitiam nostrae massae recte assumsisse dicitur*); (3) the doubt *de formatione corporis dominici* (ibi *Illi autem sententiae*). **TRACTATIO QUAESTIONUM:** *Primo de Christi decimatione; Secundo de carnis Christi traductione; Tertio de dominici corporis formatione* — and the ART. I sub-list *Circa primum quaeruntur duo: Primo utrum aliquis possit decimari in parentibus; Secundo utrum Christus in Abraham fuerit decimatus.*
+
+**Page-split map:** full-width `COMMENTARIUS IN DISTINCTIONEM III. Pars II.` header + lemma + `DIVISIO TEXTUS` on **p.80 R-col** (after PARS I Dub. V tail `…permanserunt⁷`), reflowing L→R. `TRACTATIO QUAESTIONUM` + `ARTICULUS I.` + `QUAESTIO I.` on **p.81**. Running heads: p.80 `80 SENTENTIARUM LIB. III.`; p.81 `DIST. III. P. II. ART. I. QUAEST. I. 81`.
+
+**Apparatus/footer split (NO apparatus rendered, documented in Notes):** **p.80 footers 1–7** = the PARS I dubia's (already consumed by d3-p1-dubia as `[^12]`–`[^17]`, last = `permanserunt⁷`). **p.81 footers 1–8** (`Vers. 9`; *Super Hebr. 7,9 Glossa secundum August.*; *Cfr. Aristot. I. Polit. … Iustinian.*; *Cfr. hic corp. circa finem*; *Cap. 20 n. 36*; …) → belong to **d3-p2-a1-q1** (anchor ART. I/QUAEST. I body args). Carry forward.
+
+**Incoming hand-off (from d3-p1-dubia 2db7df7) RESOLVED:** as forecast, no p.80 footer carries into this chunk (all 7 are the dubia's, verified on crop). Dub. V → COMMENTARIUS seam continuous, no cascade-merge. Build **1272 q / 908 translated**. Audits: paraphrase 0 crit / 7 high (= 7 remaining d.3 PARS II skeletons; divisio CLEARED, was 8); apparatus divisio NOT flagged (correctly has 0); header d.3 +diffs = coarse Vol III artifact (no LOSS). **0 anchorless / 0 defless** (body has no markers). **No `[?]` flags.**
+
+**Boundary lock:** the divisio ends with the TRACTATIO question list (raw 6201). `ARTICULUS I.` (raw 6203) + `De Christi decimatione.` (6205) + `QUAESTIO I.` (6207) + `Utrum aliquis possit decimari in parentibus.` (6208) begin **d3-p2-a1-q1** — NOT included. Continuous, no splice.
+
+## NEXT ACTION → `bon-sent-III-d3-p2-a1-q1` (ARTICULUS I opener folds in + QUAESTIO I — utrum aliquis possit decimari in parentibus)
+
+**Raw 6203–~6327, printed p.81+.** `ARTICULUS I. De Christi decimatione.` + `QUAESTIO I. Utrum aliquis possit decimari in parentibus.` **ART. I opener (raw 6203+, folds into q1 per the Vol II/III chunking convention — no standalone a1-divisio).** **q1 body opener (raw 6210):** `Circa primum sic proceditur et quaeritur, utrum aliquis decimari habeat in parentibus. Et quod sic, probatur: 1. Per illud Apostoli ad Hebraeos septimo¹: « In lumbis Abrahae illud decimabatur quod curabatur »; sed filii Abrahae non sunt curati ab originali, immo nati sunt cum peccato originali: ergo non videtur, quod in Abraham fuerint decimati. 2. Item, cum datur decima de frumento, non propter hoc datur decima de illo frumento, quod debet nasci⁶… 3. Item, sicut circumcisio remedium est contra…`. **VERIFY alignment** (q1 opener should be `utrum aliquis possit/habeat decimari in parentibus` = PARS II ART. I TRACTATIO q1; STOP and report if it reads a1-q2 *Christus in Abraham decimatus* wording — auto-chunker q-swap guard). PARS II ART. I structure: q1 (*decimari in parentibus*, DONE-target) + q2 (*Christus in Abraham decimatus*). **Check the PDF after q1's replies for an ART. I `SCHOLION` block** — set `has_scholion` per the finding.
+
+**HAND-OFF picked up from d3-p2-divisio (commit e0f3e32):**
+1. **p.81 footers 1–8 carry into this chunk's apparatus** (per-page restart, starting `[^1]`): f.1 `Vers. 9`; f.2 *Super Hebr. 7,9, quae Glossa est secundum August., X. de Gen. ad lit. c.19 seq. n.34 seqq. Vide hic lit. Magistri c.3* (anchors arg 1 `septimo¹`); f.3 *Cfr. Aristot. I. Polit. c.3 seq. (c.2.), et Iustinian. I. Institut. Iuris civ. c.3 et 4. Vide II Sent. d.44 a.2 q.1 seq.*; f.4 *Cfr. hic corp. circa finem. — Paulo inferius ex codd. A K Z resarsimus cum est, quod ab edd. abest…*; f.5 *Cap. 20 n. 36* + `S. Bonav. — Tom. III.` (signature/catchword, NOT a footnote); f.6–8 spill to next column/page. Read the p.81 R-col footer band + p.82 crop to fix f.6–8 anchors. Render starting `[^1]` (f.1) on the q1 args.
+2. **Crops:** `/tmp/colcrop/vol3-p081-{L,R}-{0..2}.png` (450 dpi) already generated. q1 spills past p.81 (to ~p.82–83); generate p.82+ crops.
+3. **Page span:** ART. I + q1 start p.81 L-col (running head `DIST. III. P. II. ART. I. QUAEST. I. 81`) and spill onward. Confirm via running heads.
+4. **Boundary:** the TRACTATIO (raw 6201) precedes ARTICULUS I (raw 6203); seam continuous, verified.
+
+
 
 **Branch:** master
 
