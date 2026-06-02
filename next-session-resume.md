@@ -1,8 +1,27 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d1-dubia DONE, commit 3303f2a; **DISTINCTIO I COMPLETE** — littera + divisio + a1 q1–q4 + a2 q1–q4 + dubia = 11 chunks Tier-2; NEXT = bon-sent-III-d2-littera)
+**Last updated:** 2026-06-02 (Vol III d2-littera DONE, commit 791a961; NEXT = bon-sent-III-d2-divisio)
 
 **Branch:** master
+
+## ✅ VOL III d2-littera DONE 2026-06-02 (commit 791a961)
+
+`DISTINCTIO II.` Lombard's **littera** in three chapters — **Cap. I** (`Quare totam humanam naturam accepit, et quid nomine humanitatis…`, ends `…idem et homo perfectus`), **Cap. II** (`De unione Verbi et carnis mediante anima`), **Cap. III** (`Quod simul assumsit animam et carnem Verbum…`, ends `…mox intra uterum Verbum caro ».`). Latin re-set from 450 dpi column bands (raw **3043–3126**), literal English, **14-entry apparatus**, **`has_scholion: false`**. Printed **pp.35–36** (PDF 57–58). No pars split for d.2.
+
+**Per-page footer split (14 entries, continuous unique slugs `[^1]`–`[^14]`):** **p.35 `NOTAE AD LIBR. SENTENTIARUM` footers 1–11** = `[^1]`–`[^11]` (Cap. I + Cap. II; L-col footers 1–5, R-col 6–11, confirmed on bands). **p.36 `NOTAE AD LIBR. SENTENTIARUM` footers 1–3** = `[^12]`–`[^14]` (Cap. III markers `1`/`2`/`3`: Fide ad Petrum, de Trinitate, Moralibus). The p.36 littera notes print physically ABOVE the `NOTAE AD COMMENTARIUM.` divider. **Marker pairing: 14 La = 14 En = 14 defs, 0 anchorless / 0 defless** (verified programmatically). Build **1272 q / 887 translated**. Audits: paraphrase 0 crit / 11 high (= the 11 remaining d.2 skeletons); apparatus only the 11 skeletons flag SKELETON-SUSPECT (littera CLEARED); header Q-LOSS/A-LOSS is the expected aggregate-skeleton signal (littera has Cap. I–III, no ARTICULUS/QUAESTIO). **No `[?]` flags.** Running heads: p.35 L `DISTINCTIO II.` / R `35`; p.36 L `36` / R `…IARUM LIB. III.`.
+
+**COMMENTARIUS NOT included — forwarded to d2-divisio.** Cap. III ends grammatically complete at `…mox intra uterum Verbum caro ».` (raw 3126). `COMMENTARIUS IN DISTINCTIONEM II.` (OCR `IN BISTINCTIONEM II`) begins raw **3127** on p.36, continuous with the littera tail (no cascade-merge splice). The COMMENTARIUS opener/lemma is `Et quia in homine tota humana natura vitio corrupta erat etc.`
+
+## NEXT ACTION → `bon-sent-III-d2-divisio` (COMMENTARIUS IN DISTINCTIONEM II + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM)
+
+**Raw 3127–~3172, printed p.36 → onward.** Headers (verified via raw grep + crops): `COMMENTARIUS IN DISTINCTIONEM II.` (raw 3127, subtitle `De incarnatione ex parte naturae assumtae.`, lemma `Et quia in homine tota humana natura vitio corrupta erat etc.`) → `DIVISIO TEXTUS.` (raw 3133) → `TRACTATIO QUAESTIONUM.` (raw 3144). Use the d.1 divisio chunk as template. PDF p.36 = PDF 58 (offset +22). On the divisio's later pages the running head turns to `DiST. II. ART. I. QUAEST. I. 37` (raw 3170, printed p.37).
+
+**HAND-OFF picked up from d2-littera (commit 791a961):**
+1. **`NOTAE AD COMMENTARIUM.` footers (p.36) FORWARDED to d2-divisio.** These print BELOW the `NOTAE AD COMMENTARIUM.` divider (raw 3160) and annotate the commentary body, NOT the littera: (1) `Cum edd. supplevimus de eadem, quae verba in codd. desunt.` → anchors DIVISIO `de eadem¹`; (2) `In cod. bb legitur sic: Prima pars dividitur in tres partes. In quarum prima… natura assumta quantum ad congruitatem. Secundo quantum ad suarum partium integritatem, ibi: Totam igitur naturam hominis. Tertio quantum ad ordinem etc. Quae lectio respondet rubricae infra art. 1. praemissae.`; (3) `Edd. congruitas ad unionem in humana natura.` → anchors TRACTATIO `in homine³`. ALSO note the two footers that print ABOVE the divider (`1 Cap. 18. n. 61…`, `2 Scilicet variis in locis…`, `3 Libr. XVIII. c. 52. n. 85.`) are the **littera's** p.36 notes — ALREADY CONSUMED by d2-littera as `[^12]`–`[^14]`; do NOT re-render them in the divisio.
+2. **Lemma continuity:** the COMMENTARIUS opener `Et quia in homine tota humana natura vitio corrupta erat etc.` is the divisio's first lemma, continuous with the littera tail.
+3. **d.2 structure (FYI, for the full d.2 plan):** d.2 = littera (DONE) + divisio (NEXT) + 3 articles × 3 questions + dubia = 11 chunks. ART. I q1 raw **3178** (`Primo quaeritur, utrum maior sit congruitas ad unionem in rationali natura quam in toto universo`); ART. I q2 `Secundo quaeritur, utrum maior sit congruitas…` raw **3350** / p.39; ART. I q3 `Tertio quaeritur…` raw **3515** / p.42; ART. II opener raw **3615** / p.43 (`Consequenter quaeritur de natura assumta… ad hoc quaeruntur tria`).
+
+**NOTE — next decade-polish gate is at d.10:** when `bon-sent-III-d10-*` closes, run the three-pass polish-blocker over Vol III d.1–d.10 (PDF `raw/doctorisseraphic03bona.pdf`, vision `raw/vision/vol3/`, offset +22) BEFORE dispatching d.11.
 
 ## ✅ VOL III d1-dubia DONE 2026-06-02 (commit 3303f2a) — **DISTINCTIO I COMPLETE**
 
@@ -16,7 +35,7 @@
 
 **Boundary lock:** Dub. IV ends grammatically complete at `…distinctione decima sexta.` (p.34 R-col, raw ~3032). `DISTINCTIO II.` (raw ~3040) / `Cap. I.` begin d2-littera on p.35 — NOT included. Dubia tail + Dist. II opener continuous (no cascade-merge splice).
 
-## NEXT ACTION → `bon-sent-III-d2-littera` (DISTINCTIO II littera — Lombard's text, Cap. I+)
+## ~~NEXT ACTION → `bon-sent-III-d2-littera`~~ (SUPERSEDED — d2-littera DONE 2026-06-02 commit 791a961; current NEXT is at the TOP of this file → `bon-sent-III-d2-divisio`)
 
 **Raw ~3040 → end TBD, printed p.35 → onward.** `DISTINCTIO II.` then `Cap. I. Quare totam humanam naturam accepit, et quid nomine humanitatis vel humanae naturae intelligendum sit.` Opener `Et quia in homine tota humana natura vitio corrupta erat, totam assumsit, id est animam et carnem, ut totam curaret et sanctificaret…` Multiple Cap. — count via raw grep `Cap\.` + running heads (`DISTINCTIO II.` on p.35+). Use the d8-littera-style big-Tier-2-chunk template for the Lombard littera. PDF p.35 = PDF 57 (offset +22).
 
