@@ -6,505 +6,429 @@ distinctio: 1
 articulus: 2
 quaestio: 2
 type: quaestio
-line_start: 2115
-line_end: 2595
-word_count_latin: 7067
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Quae fuerit incarnationis ratio praecipua"
+title_en: "What was the principal reason for the incarnation"
+printed_pages: [21, 22, 23, 24, 25, 26, 27, 28]
+pdf_pages: [43, 44, 45, 46, 47, 48, 49, 50]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 21–28"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from PDF column bands (raw lines 2115–2595), literal English, full apparatus from raw OCR footers (50 entries), scholion present and verified on PDF p.28 (2026-06-02)"
 format_version: 1
 ---
 
 # bon-sent-III-d1-a2-q2
 
+## *Quae fuerit incarnationis ratio praecipua.*
+
+---
+
 ## Latin
+<!-- page 21 -->
 
-QUAESTIO II.
-                                                Quae fuerit incarnationis ralio praecipua.
+### Quaestio II. *Quae fuerit incarnationis ratio praecipua.*
 
-             Secundo quaerilur, quae fuerit incarnationis                     cipalem assignat rationem missionis Filii Dei in car-
-        ratio praecipua. Et quod humani generis redemptio,                    nem, videtur, quod nostra redemptio sit eius ratio
-        ostenditur :                                                          praecipua. Si tu dicas, quod hoc non dicit Aposto-
-                  I. Ad Galatas quarto 9, cum dicitur: Cum venit              lus tanquam causam principalem ; obiicitur conlra
-KuDdamenia. igitur pleniludo temporis , misit Deus Filium suum                hoc illud quod idem dicit Apostolus ad Hebraeos
-            faclum ex muliere, factum sub Lege, ut eos, qui                   secundq10, ubi loquens de Chrislo : Ipse simili-
-            sub Lege erant, redimeret. Si igitur Apostolus prin-              ter participavit eisdem, ut per mortem destrueret
+Secundo quaeritur, quae fuerit incarnationis ratio praecipua. Et quod humani generis redemptio, ostenditur:
 
+**Fundamenta.**
 
-             1 Cod. F bene maiestatis. Paulo superius pro El ideo etsi        Christus est, qui est honw, codd. F H lv P Q bb Unus enim
-        multi codd. et edd. 1 , 2 Et ideo, si. Paulo inferlus pro conside-    iihinqiic [cod. F et idem] est Christus elc. ; codd. G L N T U V
-        ralur ad iil Val. consideratur illud. Post pauca pro dicentilnis      aa Unus enim idem , qui est Christus.
-        bene multi codd., ul A E F G H I, N T U V, cum edd. 1 , 2 dicentes.        6 Edd. huiuiinam ejjiijicm. Mox pro quando credit cod. A
-        In flne solut. cod. Z voci gloriam praefigit eius.
-             2 Pro in alio edd. in illa rntione.                              qwndo7 Cod.
-                                                                                       dicii.A quod.
-             3 Codd. F M adiiciunt et elalionis. Pro ex excessu cod. E             8 Cod. F eius exaltationis.
-        habet in excessu.                                                          ? Vers. 4. 5: At ubi venit pleniludo etc.
-               4 Eplies. 2, 4 ; cfr. supra Prooemium.                              10 Vers. 14. Cod. K cliam vcrba dat, cum quibus hic ver-
-               5 Dist. 9. per (otam. — Immediate ante cudd. L V vocu-         sus incipiti Qula pueri communicavecunt carni et sanguini, el
-         l;n- sirut pracmlllunt liic. Pauln suprrius prn 1'niis cnini cl      ipse simililer elc. Seq. locus Scripl. ist ibid. v. 16. — GIOS38,
-         idem, qui est Christns, esl homo coil. A fnus enini quidem           quac est ordinaria, habetur apud Slrobum et Lyranum.
-22                                                  SENTENTIARUM LIB. III:
+1. Ad Galatas quarto[^1], cum dicitur: *Cum venit igitur plenitudo temporis, misit Deus Filium suum factum ex muliere, factum sub Lege, ut eos, qui sub Lege erant, redimeret.* Si igitur Apostolus principalem assignat rationem missionis Filii Dei in carnem, videtur, quod nostra redemptio sit eius ratio praecipua. Si tu dicas, quod hoc non dicit Apostolus tanquam causam principalem; obiicitur contra hoc illud quod idem dicit Apostolus ad Hebraeos secundo[^2], ubi loquens de Christo: *Ipse similiter participavit eisdem, ut per mortem destrueret* eum etc.; et post: *Nusquam enim Angelos apprehendit;* Glossa: « Participavit, ut homines sanctificaret et liberaret; et recte haec causa ponitur, quia, si non esset eos liberaturus, non eis participaret, quod in Angelis apparet, quia nusquam Angelos apprehendit ». Sed illud, quo posito ponitur[^3] et quo remoto removetur, assignatur tanquam causa principalis et praecipua: ergo videtur, quod principaliter incarnatio facta fuit propter reparationem generis humani.
 
-eum etc; et post : Nusquam enim Angelos appre-                       esset incarnatus, et nec huiusmodi beneficium esset
-hendit; Glossa: « Participavil, ut homines sanctifica-               sibi praestitum.
-ret et liberaret; et recte haec causa ponitur, quia,                       Praecipua ergo ratio incarnationis videtur esse
-si non esset eos liberaturus , non eis participaret,                 redemptio generis humani.
-quod in Angelis apparet, quia nusquam Angelos                              Sed contra: 1. Augustinus de Spiritu et anima 6: ^ °pposi-
-                                                                     « Tolum hominem assumsit, ut lotum beatificaret » ;
-apprehendit ». Sed illud, quo posito ponitur ' et
-quo remolo removetur, assignatur tanquam causa                       sed homo debebat totus beatificari, et ila plene bea-
-principalis et praecipua: ergo videtur, quod princi-                 tificari, si non esset lapsus, sicut si essel lapsus:
-paliter incarnatio facta fuit propter reparalionem ge-               ergo si homo non essel lapsus, Deus esset incarna-
-neris humani.                                                        tus : ergo non videtur , quod praecipua ratio incar-
-      2. Ilem, in Psalmo 2 : Infixus sum in limo pro-                nationis sit liberatio generis humani.
-fundi; Glossa Augustini: « Utinam maneret homo in                          2. Item, super illud ad Ilebraeos secundo': Nus-
-eo quod Deus fecit ; si enim maneret in eo quod                      quam Angelos apprehendit; Glossa: « Non angelicae
-Deus fecit, non in limo inflxus esset quem Deus                      naturae data est haec dignitas, ut ei persona divina
-genuit»: igitur si homo stetisset, incarnatio facta                  uniretur ». Si igitur haec dignitas data fuit naturae
-non fuisset: igitur incarnationis ratio praecipua vi-                humanae, et humanae naturae nihil datutn est fru-
-detur esse hominis reparatio.                                        stra : ergo si non peccasset, talis dignitas non rema-
-      3. Item, Augustinus super Ioannem , tractans                   neret vacua: ergo adhuc uniretur cum divina na-
-illud loannis undecimo3: Ecce, quem amas infir-                      tura : ergo liberatio generis humani non est ratio
-matur: « Si peccatores Dominus non amarel, ad ter-
-ram de caelo non descenderet » : ergo videtur, quod                  praecipua.
-                                                                          3. Item, ita decebat Deum manifestare suam
-praecipua ratio incarnationis fuerit liberatio pec-                  inflnitatem 8 et perfectionem et liberalitatem, si homo
-catoris.                                                             stetisset, sicut si lapsus esset: ergo si omnia ista
-      4. Item, si Deus assumsil humanam naturam,                     facit in opere incarnationis, videlur, quod incarnatio
-aut hoc fuit propter humanam dignilatem, aut ne-                     fuisset, etiam si homo lapsus non fuisset; et ita idem
-cessitatem. Si propter dignitatem, cum dignior sit
-                                                                     quod prius.
-natura angelica quam humana 4, magis debuit as-                            4. Item, tanlae nobilitatis et diffkultatis 9 est
-sumsisse angelicam. Si propter necessilatem , et                     vindicare sive acquirere sibi infinitum bonum, sicut
-necessitas indigentiae non sit nisi propter pecca-                   satisfacere pro offensa , quae est contra bonum infi-
-tum; videtur, quod praecipua ratio fuit, quod ho-                    nitum: si ergo homo non poterat satisfacere pro se de
-minem assumsit, redemptio generis humani.                            offensa, qua offenderat Deum, sic nec per se potest
-       b. ltem, opus incarnationis fuit maximae gra-                 mereri habere Deum. Ergo sicut opportunum fuit ,
-tiae, de qua homo maxime tenetur ad gratiarum                        Filiurn Dei incarnari, homine cadente, ut pro homine
-actionem; sed magis tenetur homo esse gratus Deo,                    satisfaceret , sic videtur, quod opportunum fuit, Fi-
-et maior fit ei gratia, quando aliquod beneficium                    lium Dei incarnari, homine stante, ut homo per
-praestatur sibi, quo indignus est, in statu, in quo                  eum mereri posset.
-indignus est, et pro eius liberatione, quam si alias                       b. Item, quae solummodo propter occasionem
-esset ei praestandum5: ergo si homo lapsus pro                       peccati introducta sunt exierunt a Deo, non princi-
-beneficio incarnationis est maxime Deo obnoxius.                     paliter, sed occasionaliter 10: ergo si incarnatio facta
-videtur, quod si ipse non esset lapsus, ipse non                     est principaliter propler peccati expiationem, anima
+<!-- page 22 -->
 
+2. Item, in Psalmo[^4]: *Infixus sum in limo profundi;* Glossa Augustini: « Utinam maneret homo in eo quod Deus fecit; si enim maneret in eo quod Deus fecit, non in limo infixus esset quem Deus genuit »: igitur si homo stetisset, incarnatio facta non fuisset: igitur incarnationis ratio praecipua videtur esse hominis reparatio.
 
-     1 Supple eum Vat. aliud. — De deflnitione causae hic                 5 Cfr. August., VII. de Civ. Dei, c. 31. — Paulo ante pro
-proposila agit Avicenna, IV. Melaph. c. I. — Vat., pro Sed           eius liberatione cod. T substiluit casus liberatione, et circa
-illud substituto Si ergo, mox post removetw addit est causa,         initium arg. post maximae gratiae codd. P Q V subiiciunt et.
-et dein cum edd. I, 2 prosequitur et redemptio assignatur...              6 Cap. 9. Verba ipsa August. vide supra pag. 19, nota 5.
-et praecipua incarmtionis, videtur quod etc. Codd. A E in con-       Paulo inferius post Deus esset cod. I7 inserit nihilominus.
-clusione omituint facta.                                                  7 Vers. 16. Glossa, quae est ordinaria et secundum Alcui-
-     - Psalm. 68. 3. — Verba Augustini inveniuntur in eius           num in liunc loc, apud Strabum et Lyranum sic sonat: Non
-Enarrat. in hunc Ps., serm. I. n. 5, ubi tamen ed. Maurina pro       angelicae, sed humanae nalurae data est haec dignitas, ut Deus
-in limo exhibet m illo, quae leclio in eodem sensu videtur           ei in unam personam iungeretur.
-intelligenda. Sequitur enim: Porro autem, quia per iniquilatem            8 Codd. M 0 bonitatem.
-homo lapsus est a substantia, in qua factus est... venit Filius            9 Cod. N dignitatis. Subinde pro vindicare codd. M 0 unire,
-Dei ad limum profundi et inflxus est. — Post in Psalmo cod.          et post pauca pro si ergo iidem codd. sicut ergo. Mox pro pro
-K addit loquitur Ckristus. Paulo inferius pro facta non fuisset      se Vat. per se, et paulo inferius pro potest mereri eadem Vat.
-codd. H Ii bb facta non esset.                                       poterat mereri. Deinde pro homine cadente, ut pro homine
-     3 Vers. 3. — Dictum Augustini habetur loc. cit. tr. 49. n. 5.   satisfaccrel, sic videtur, quod codd. M 0 hornine lapso, ut komo
-     * Quod probatum est II. Sent. d. I. p. II. a. 2. q. 2. —        posset sntisfacere pro offensa, sic opportunum etc.
-Vocem natura ante angelica restiluimus ex codd. P Q bb. Mox                10 Cfr. I. Sent. d. 46. q. 3. in corp. Pro conflrmatione etiam
-post angelicam codd. K bb supplent quam humanam. Circa               allegari solet iliud Iren., III. cnntra Haereses, c. 22 (alias c. 32.)
-initium arg. cod. X post secundum aut repetit hoc fuit pro-          n. 3 : Quoniam futuram circa Filium Dei humani generis disposi-
-pter kumanam.                                                        tionem in semetipsum Fabricator omnium Verbum praeformave-
-                                                                                                                                    23
+3. Item, Augustinus super Ioannem, tractans illud Ioannis undecimo[^5]: *Ecce, quem amas infirmatur:* « Si peccatores Dominus non amaret, ad terram de caelo non descenderet »: ergo videtur, quod praecipua ratio incarnationis fuerit liberatio peccatoris.
 
-                                                  DIST. I. ART. II. QUAEST. II.
+4. Item, si Deus assumsit humanam naturam, aut hoc fuit propter humanam dignitatem, aut necessitatem. Si propter dignitatem, cum dignior sit natura angelica quam humana[^6], magis debuit assumsisse angelicam. Si propter necessitatem, et necessitas indigentiae non sit nisi propter peccatum; videtur, quod praecipua ratio fuit, quod hominem assumsit, redemptio generis humani.
 
-Christi facta est dod principali intentione, sed quasi                 nire nec rationabiliter aliquid addere. sicut et ipse
-quadam occasione. Si ergo inconveniens est. nobilis-                   dicit in libro de l.ibero Arbitrio 5, quod nihil potest
-sioiam creaturam occasionaliter esse introductam,                      intellectus noster intelligere, quod subterfugeret il-
-cum agens principaliter intendat opera nobiliora.                      lam supernam artem.
-videtur, quod inconveniens sit dicere, incarnationem
-factam esse propter hominis reparalionem.                                                     c o n c l u s i o.
-      6. Item, in incarnatione Filii Dei humana na-
-tura plurimum est exallata ': si ergo Dens incarna-                    Praecipua ratio incarnationis videtur fuisse re-
-tur ex hoc, quod humana natura peccavit ; videtur,                         demptio humani generis, quamvis multae ra-
-quod homo reportel commodum de malitia. Ergo si                            tiones aliae congruentiae huic rationi sint
-hoc non decet divinum retributorem, patet etc.                             annexae.
-      7. Item, Christus est caput Ecclesiae non solum
-secundum divinam naturam, sed etiam humanam,                               Rkspondeo: Ad praedictorum intelligentiam est
-sicut oslendit Augustinus super loannem 2: sed si                      notandum, quod circa hoc duplex est magistrorum
-homo non peccasset, adhuc esset corpus Ecclesiae:
-igitur vel Dei Filius incarnaretur , aut corpus Ec-                    opinio.Quidam enim dicere voluerunt, quod de incar- opinio i.
-clesiae remaneret acephalum. Igitur si illud est itn-                  natione est loqui dupliciter. Est enim incarnatio car-
-possibile, restat, quod Deus incarnarelur, si homo                     nis assumtio: de carne autem assumta est loqui du-
-non peccasset: ergo idem qnod prius.                                   pliciter: aut quantum ad substanliam, aut quantum rastincHo.
-      8. Item, si homo lapsus non esset, nihilominus                   ad defectum passibilitatis 6. Si fiat sermo de ipsa
-fuisset Sacramentum matrimonii : si igitur Sacra-                      quantum ad defectum passibililatis et mortalilatis ,
-mentum matrimonii in coniunctione sexuum dicit
-                                                                       dicunt. quod incarnationis praecipua ratio fuit hn-
-sive significat coniunctionem Christi et Ecclesiae                     mani generis redemptio. Nisi enim homo peccasset
-quantum ad naturarum unionem , propler insepara-                       et lapsus et redimendus esset ', Christns carnem
-bilitatem, ut dicilur ad Ephesios quinto 3: Hoc Sa-                    mortalem non assumsisset. — Si aulem loquamur de
-cramentum magnum est; ego autem dico in Chri-                          incarnatione, secundum quod dicit assumtionem hu-
-sto et in Ecclesia: ergo si homo stetisset, aut Sa-                    manae naturae, loquendo simpliciter ; sic dixerunt ,
-cramentum matrimonii esset falsum , aut Dei Filius                     quod praecipua ratio incarnationis non est liberatio
-esset incarnatus. Sed primum est impossibile: ergo                     generis humani , quia, etiam si homo non peccas-
-restat etc.                                                            set, Cbristus incarnatus esset; sed huius ratio est natio.
-      9. Item , quadruplex est modus educendi homi-                    perfectio multiplex surgens ex dignitate illius operis.
-nem in esse. « Contingit enim, hominem educi de                        lncarnatio enim facit ad perfectionem hominis — et
-viro et muliere; contingit educi sine viro et mu-                      per consequens ad perfectionem totius universi — in
-liere; contingit educi de viro sine muliere; et de                     hoc riuod complet et completionem dat humano ge- incamaiio
-                                                                          .           ,.,,,,                       • •                     perficit tri-
-muliere sine viro 4 » ; sed tres istorum modorum fuis-                 neri, secundum illud quod respicit naturam, et piiciter.
-sent, si homo stetisset, sicut planum est: ergo vi-                    secundum illud quod respicit gratiam, et secun-
-detur, quod et quartus fuisset, quo eductus est de                     dum illud quod respicit qloriam. Secundum illud Primo quoad
-                                                                                                 ...         .         „ naturam.
-sola muliere. Sed hic quarlus est in incarnatione :                    quod respicit naturam, quia m mcarnatione est
-ergo si homo sletisset, incarnalio fuisset; aut si non,                consummatio modorum educendi hominem in esse.
-tunc unus modus productionis hominum deficeret,                        Est etiam consummatio in comparatione ad perfe-
-et sic universum perfectum non esset; et hoc est                       ctionem agentis in hoc, quod in incarnatione homo,
-maximum iuconveniens. Dicit enim Augustinus, quod                      qui est ultimus , coniungitur cum suo principio
-universum habet tantam perfeclionem, quod nemo                         unione, qua sub Deo nulla est maior. — Facit etiam    secuodo
-potest in eo imperfectum rationabiliter aliquid inve-                  ad perfectionem hominis, quantum ad illud quod re- tum.
-                                                                                                                                           qaoad gra-
+5. Item, opus incarnationis fuit maximae gratiae, de qua homo maxime tenetur ad gratiarum actionem; sed magis tenetur homo esse gratus Deo, et maior fit ei gratia, quando aliquod beneficium praestatur sibi, quo indignus est, in statu, in quo indignus est, et pro eius liberatione, quam si alias esset ei praestandum[^7]: ergo si homo lapsus pro beneficio incarnationis est maxime Deo obnoxius, videtur, quod si ipse non esset lapsus, ipse non esset incarnatus, et nec huiusmodi beneficium esset sibi praestitum.
 
+Praecipua ergo ratio incarnationis videtur esse redemptio generis humani.
 
+**Sed contra:**
 
-rat, praelormante Deo primum animalem liominem, videlicet ut                 3 Vers. 32. — Infra post esset falsum Vat. adiicit sianum;
-a spirituali salvaretur. Cum enim praeexisteret salvans, oportobat     deinde pro Sed cod. E substiluit Si ergo , cod. P Sed si.
-el (juotl salvarclur fieri, ut non vacuum sit sulvuns. — Simili arg.         * Quadruplex modus educendi hominem in esse , de quo
-usus esl Cyrill. Alex., Thesaur. assert. 13. (alias lib. V. c. 3.)     in hoc arg. sermo est, momoralur in opusculo, cui timlus:
-contra Arianos, divinilalem Filii Dei negantes.                        Sermones ad fratres in eremo (inter opera August.), serm. 28,
-      1 Vide August. , XIII. de Trin. c. 17. n. 22; Ansetm., I.        nec non in Anselmi libro Cur Deus homo, II. c. 8, ubi eliam
-Cur Deus homo, c. 8.                                                   pro secundo modo in exemplum subiicitur creatio Adae, pro
-      2 Tract. 6fi. n. 2: c Per quid aulem caput est Ecclesiae         tertio productio Evae.
-nisi per hominem, quod Verbum caro factum esl? id est, Dei                   5 Libr. III. c. 5. n. 13: Potest ergo esse aliquid in rerum
-1'atris Unigenilus Deus homo faclus cst». In Episl. I. loan. Ir. I.    natura, quod lua ralionc non cogilas. Non essc auteni quod
-n. 2. dicit: Verbum caro factum esl et habitavit in nobis. Illi        vern ratione cogitas, non potest. Neque enim tu potes nliquid
- carni udiungitur Ecclcsiu, el flt Chrislus (otus, capul ct corpus.    melius in creatura cogilare, quod crealurae artilicem ftigerit.
-Cfr. de Catech. rudib. c. 3. n. 6. et c. 19. n. 33, nee non infru            " Nonnulli codd. el Val. addunt et mortalitntis.
- d. 13. a. 2. q. I. — ChristUS caput Ecclesiae vocntur Epb.                  ' Cod. N Itomo peccasset et non rcdimendus esset.
- I, 22; 5, 23; Coloss. I, 18.                                                8 Pro quia in incarnalione est cod. F incarnalio enim est.
-         24                                                   SENTENTJAMM LIB. III.
+1. Augustinus *de Spiritu et anima*[^8]: « Totum hominem assumsit, ut totum beatificaret »; sed homo debebat totus beatificari, et ita plene beatificari, si non esset lapsus, sicut si esset lapsus: ergo si homo non esset lapsus, Deus esset incarnatus: ergo non videtur, quod praecipua ratio incarnationis sit liberatio generis humani.
 
-           spicit gratiam, quia in incarnatione assumit Christus               genus humanum fuisset lapsum, Verbum Dei non
-           humanam naturam, ratione cuius plene habet esse                     fuisset incarnatum. — Et ratio huius est , quia in- Ratio.
-           caput totius Ecclesiae, cuius corporis membra uniri                 carnatio Dei est superexcedentis dignationis; et ideo,
-           habent ratione caritatis et gratiae. Et simul cum hoc               cum sit ibi quidam excessus, non fuisset introdu-
-           facit ad perfectionem meriti, quia omnia merita pen-                clum incarnationis mysterium, nisi praecessisset ex-
-           dent et meliorantur merito Christi. — Facit etiam                   cessus oppositus per ipsum corrigendus et restau-
-Tenio qaoadad perfectionem gloriae in eo, quod homo in Deo                     randus. Unde nisi Deus ovem suam perdidissel , non
-           suo invenit pascua quantum ad partem corporalem                     de caelo ad terram descendisset 6.
-           et quantum ad partem spiritualem, sive ingredia-                           Quis autem horum modorum dicendi verior sit, iudicium i
-           tur, sive egrediatur, quod ' non faceret, si Deus                   novit ule qui pro nobis mcarnan chgnatus est. Quis
- Adduur i. non esset incarnatus. — Completus etiam est totius                  eliam horum alteri praeponendus sit, difflcile est vi-
-           humanae naturae appetitus, dum per opus incarna-                    dere, pro eo qnod uterque modus catholicus est et
-           tionis nobilissima idoneitas, quae erat in humana                   a viris catholicis sustinetur. Uterque etiam modus
-           natura, secundum quam unibilis erat drvinae, ad                     excitat animam ad devotionem secundum diversas
-           actum perfectum reducitur. — Et ratione huius mul-                  considerationes.
-           tiplicis perfectionis, quae surgit ex opere incarna-                       Videtur autem primus modus magis   * lconsonare
-                                                                                                                                  *   piuione r,
-           tionis, congruum fuit Deum incarnari. Et quia haec                  iudicio rationis; secundus tamen, ut apparet, plus p™ 2. .
-           multiplex perfectio non tantum respicit statum natu-                consonat pietati fidei: pnmo, quia auctoritatibus San- uo *•
-           rae lapsae, immo etiam respicit slatum naturae be-                  clorum et sacrae Scripturae magis concordat. Nam
-           ne" institutae; ideo, si homo lapsus non fuisset, nihi-             tam novum quam vetus Testamentum', ubi de Filii
-           lominus Deus incarnatus esset, quia ita competebat,                 Dei descensu loquuntur, humani generis liberationem
-           hominem perfectum esse et secundum naturam et                       ralionem reddunt, quod patet per singula discurrendo.
-           secundum gratiam et secundum gloriam, sicut si                      Sancti etiam hoc dicunt, sicut patet in auctoritatibus
-           esset in statu lapso, et quodam modo amplius, et 3                  supra positis. Et ideo, si divina eloquia nobilissimam
-           secundum istam opinionem. — Et qui hanc opinio-                     et praecipuam incarnalionis rationem assignant, et
-           nem sequuntur concedunt rationes, quae ad hanc                      nihil etiam a nobis dicendum est praeter ea quae
-           partem adducuntur. Rationes vero ad oppositum et                    nobis ex sacris Eloquiis claruerunt8; magis videtur
-           auctoritates per hoc effugiunt, quia dicunt, eas in-                pietali fidei consonum, quod praecipua incarnationis
-           telligi, secundum quod incarnatio dicilur carnis mor-                ratio sit liberatio humani generis, quam aliter sen-
-            talis et passibilis assumtio. Loquitur enim Scriplura,              tire. Et hoc aperte dicit Augustinus in libro de Ver-
-           et Sancli * de incarnalione secundum eum modum ,                     bis Apostoli , sermone septuagesimo 9, tractans illud
-                                                                                Malthaei decimo octavo: Venit enim Filius hominis
-            qui fuit post lapsum, non per eum modum, qui fuis-
-            set, homine persistente in statu innocenliae.                      salvum facere quod perierat : « Si homo non periis-
-                  Aliorum vero opinio fuit, quod praecipua ratio               set, Filius hominis non venisset». Et expressius
- opinio 2. incarnationis esl reparatio humani generis,. quamvis                ibidem, tractans illud primae ad Timotheum primo 10:
-           aliae multae sint rationes congruentiae huic annexae5-              Venit in hunc mundum peccatores salvos facere:
-           Ista enim est praecipua respectu omnium, quia, nisi                  « Nullam aliam ob causam nisi peccatores salvos
+2. Item, super illud ad Hebraeos secundo[^9]: *Nusquam Angelos apprehendit;* Glossa: « Non angelicae naturae data est haec dignitas, ut ei persona divina uniretur ». Si igitur haec dignitas data fuit naturae humanae, et humanae naturae nihil datum est frustra: ergo si non peccasset, talis dignitas non remaneret vacua: ergo adhuc uniretur cum divina natura: ergo liberatio generis humani non est ratio praecipua.
 
+3. Item, ita decebat Deum manifestare suam infinitatem[^10] et perfectionem et liberalitatem, si homo stetisset, sicut si lapsus esset: ergo si omnia ista facit in opere incarnationis, videtur, quod incarnatio fuisset, etiam si homo lapsus non fuisset; et ita idem quod prius.
 
+4. Item, tantae nobilitatis et difficultatis[^11] est vindicare sive acquirere sibi infinitum bonum, sicut satisfacere pro offensa, quae est contra bonum infinitum: si ergo homo non poterat satisfacere pro se de offensa, qua offenderat Deum, sic nec per se potest mereri habere Deum. Ergo sicut opportunum fuit, Filium Dei incarnari, homine cadente, ut pro homine satisfaceret, sic videtur, quod opportunum fuit, Filium Dei incarnari, homine stante, ut homo per eum mereri posset.
 
+5. Item, quae solummodo propter occasionem peccati introducta sunt exierunt a Deo, non principaliter, sed occasionaliter[^12]: ergo si incarnatio facta est principaliter propter peccati expiationem, anima
 
-               1 Cod. bb anncctit quidem.                                      divinitus sunt expressa (versio abbatis Vercellensis). — Paulo
-              - In edd. deest bene, cuius loco cod. bb exliibet condi-         superius post assignant edd. I, 2 supplent generis humani
-         tae et.                                                               liberationem.
-              3 ln cod. Q deest et; Vat. voculae et, pro qua a cod. S                9 Nunc Serm. 174. (alias 18. de Verbis Apostoli) c. 2. n. 2.
-         ponilur etiam, adiungit liaec. Paulo superius post secundum           — Locus Script. est loc. cit. v. II, ubi Vulg. pro salvum fa-
-         gtoriam cod. Z stipplet in statu ante lapsum. Paulo inferius          cere exhibet salvare. Cfr. Luc. 19, 10.
-         pro Et qui codd. P bb habent Illi qui.                                      10 Vers. 15. — Verba August. haec sunt (loc. cit. c. 7. n.
-               4 Pro Sancli in edd. legilur .littera. Cod. A Loqauntur         8.) : « Quare venit in mundum ? Peccatores salvos facere. Alia
-         enim Scripturae et Sancti.                                            causa non fuit, quare veniret in mundum. Non eum de caelo
-              5 Ut exaltatio naturae humanae , exemplum pro nobis re-          ad terram merita nostra bona, sed peccata duxerunt. Haec est
-         cte vivendi, quoddam complementum universi etc. — Paulo               causa, cur veniret, peccatores salvos facere ». Idem elicit ibicl.
-         inferius pro superexcedentis cod. A superexcellentis.                 ex significalione nominis Iesu (ipse enim salvum faciet populum
-               6 Respicilur Matth. 15, 24; 18. 12, seqq. ; Luc. 15, 4. seqq.   suum a peccatis eorum, Matth. I, 21.). Similiter in Serm. 175.
-         — Mox pro verior edd. melior.                                         (alias 9. de Verbis Apostoli) c. I. n. 1. ait: « Nulla causa fuit ve-
-              7 Cfr. praeter Iocc. in nota praeced. et in I. fundam. citt.     niendi Christo Domino , nisi peccatores salvos facere »; quae
-         Ps. 39, 7. seqq. (respective Hebr. 10, 5.); Matth. I, 21; 9, 13;      verba edd. hic afferunt loco eprum quae nos cum codd. ex-
-         Luc. 19, 10; Ioan. 10, 10; I. Tim. I, 15. — Paulo superius            hibemus. Libr. I. de Peccat. meritis et remiss. etc, c. 26. n.
-         cod. X verbo concordat praemittit consonat seu.                       39. dicit, Chrislum non aliam ob causam in carne venisse...
-              8 Dionys., de Div. Nom. c. I . '| I : Non est autem auden-       nisi ut... omnes... vivificaret, salvos faceret, liberaret, redime-
-         dum aliquid dicere vel cogilare de supersubstantiali et occulta       ret etc. — Pro ibidem , tractans et paulo inferius pro ibidem
-         Divinilale praeter ea quae nobis per sacras Scripturas de Deo         plura edd. substituunt idem tractans et idem plura.
-                                                                                                                                            25
+<!-- page 23 -->
 
-                                                         DIST. 1. ART. II. QUAEST. II.
+Christi facta est non principali intentione, sed quasi quadam occasione. Si ergo inconveniens est, nobilissimam creaturam occasionaliter esse introductam, cum agens principaliter intendat opera nobiliora, videtur, quod inconveniens sit dicere, incarnationem factam esse propter hominis reparationem.
 
-        facere». Et ibidera plura dicil ad hoc perlinentia.                        Quoniam igitur hic modus dicendi, etsi non vi- Epiiogus.
-        Et in illa oratione, quae ineipil: 0 eella ' aronia-                 deatur esse ita subtilis, sicut praeeedens, plus con-
-        tica, quae dicitur esse Augustini, hoc ipsum habe-                   sonat pietati fidei, in hoc quod auctoritatibus San-
-        tur expressissime. Ad hoc etiam eoncordant verba                     ctorum magis concordat, et Deum magis honorifi-
-        Bernardi 3 et Glossa super dictum locum Epistolae                    cat, etiam incarnationis mysterium magis commen-
-        ad Timotheum.                                                        dat, et affectum nostrum ardentius inflammat: ideo
-                Secundo vero praedictus modus magis concor-                  concedendum est , ut praedictae auctoritates et ra-
-  Raiio 2. dat pietati fldei, quia Deum magis honoriflcat quam               tiones ostendunt , quod praecipua ratio incarnatio- conciusio.
-           praecedens. Nam praecedens dicit , quod Deura con-                nis fuit redemplio humani generis, quaravis multae
-           veniebat incarnari ad perfectionem universitatis; et              rationes aliae congruenliae huic rationi sint annexae.
-           ideo quodam modo Deum intra perfectionera universi                      1. Ad illud quod primo obiicitur
-                                                                                  ...                       .
-                                                                                                                     in contrarium , sointio op-
-                                                                                                                                     positorum.
-Notandmu. concludit et quandam necessitatem incarnationis po-                quoil hominem totum assumsit, ut totum beatifica-
-           nit ei, cum dicit, opera eius aliter 3 ad perfectionem            ret; dicendum, quod ista non est ratio praecipua,
-           non perduci. Hic autem modus dicendi, cum dicit,                  sed annexa principali, pro eo quod, etsi nunquam
-           quod incarnationis mysterium est supra omnem per-                 Deus incarnatus esset, homo gloriflcatione corporis Notandum.
-           fectionem, ponit, Chrislum esse supra omnem perfe-                sui et visione Dei perfecte et lotaliter beatus esset.
-           etionem universitatis, sive quantum ad naturarn,                  Visio enim Christi corporalis spectat non ad essen-
-           sive quantum ad gratiam, sive quantum ad gloriam.                 tialem completionem bealitudinis, sed ad quoddam
-           Et in hoc recte facit; quia, sicut dicit Philosophus              accidenlale gaudium. Et hoc patet, quia alii sensus naito i.
-         in undeeimo 4 Primae Philosophiae . Deus supra                      beatiflcantur ut visus, et tamen obiecta sibi corre-
-         omnem universi ordinem ponendus est, sicut non                      spondentia non habebunt, ut tactus, gustus '. — Prae- Ratio 2.
-         dicitur esse dux de exercitu, sed supra exercitum.                  terea, aspeclus Christi non minus erit beatus con-
-               Tertio, modus iste dicendi incarnatiouis myste-               versus ad alia corpora videnda, quam' aspectus alio-
- Rnio 3. rium magis commendal, duin dicit, hoc mysterium                     rum conversi ad videndum corpus ipsius. Gloria
-         tantnm esse, quod non debuit fleri nisi ex maxiina                  enim sensuum exleriorura erit per redundantiam
-         causa, ntpote propter placandam divinam iram et re-                 delectationis venientis a parle superiori ex visione
-         stauramla oninia, sioe i/uae in caelis sunt, sive quae              Dei, cuius visio adeo reficit, cum perfecte apparel.
-           mterra*. Et ideo dicunt, quod tantum mysterium                    ut nihil ultra necessarium sit animae ad eius beati-
-           non fuisset introductum , nisi praecessisset lapsns               tudinem; quoniam omne aliud bonum et pulcrum,
-           nobilissimae creaturae et offensio maiestatis divinae.            ad illud comparatum, quasi nihil est nec intendere
-                Quarto, etiam fidelem affectum magis inflammat.              potest essenliale gaudium. — ■ Unde multum derogare
-  Ratio i. pius enim excitat devotionem animae fidelis, quod                 videtur summo Bono qui dicit, ipsum non sufflcere
-        Deus sit incarnatus ad delenda scelera sua 6 quam                    absque bono creato sibi adiuncto ad hominem per-
-        propter consunimanda opera inchoata.                                 fecte beatiflcandum, nisi hoc dicat venire propter
+6. Item, in incarnatione Filii Dei humana natura plurimum est exaltata: si ergo Deus incarnatur ex hoc, quod humana natura peccavit; videtur, quod homo reportet commodum de malitia. Ergo si hoc non decet divinum retributorem, patet etc.
 
+7. Item, Christus est caput Ecclesiae non solum secundum divinam naturam, sed etiam humanam, sicut ostendit Augustinus super Ioannem[^13]: sed si homo non peccasset, adhuc esset corpus Ecclesiae: igitur vel Dei Filius incarnaretur, aut corpus Ecclesiae remaneret acephalum. Igitur si illud est impossibile, restat, quod Deus incarnaretur, si homo non peccasset: ergo idem quod prius.
 
-              1 Edd. A cella, contradicentibus plurimis codd. — Haec         hic memorata (supcr I. Tim. I, 15.), quae est ordinaria cl ha-
-        oratio non invenitur in editione Angustini. Videltir autem deno-     bctur apud Strabum el Lyranum, exhibet verba Auguslini allatn
-        tari quaedam longior oratio ad sanctissimam Yirginem Mariam,         supra pag. 2i, nota 10.
-        quae Monachii in bibl. regia exstat in Cod. Lal. Man. 3974 f. 99,          3 In codd. A E F G II (K L Z a prima manu) S T U V et
-        B. Augustino inscripta, quae quidem incipit, non ut dicit auctor     aliis desideratur aliter.
-        nosler, sed verbis : « Titii, 0 piissima Virgo virginum». Tamen            * Alias XII. Metaph. text. 32. Ab Averroe, qui, sicut et
-        in decursu ipsius quaedam pars incipit: « Tu enim, Domina ,          Albert. Magnus, librum praecedentem (sibi fortasse ignotum ?)
-        cella e-i aromatica . e.\ qua vulnerum nostrorum medicina ad         non est commentatus, hic liber ut XI. nnmeralus esl. Pariter
-        vulnera nostra detluxit ». Reapse praedicta doclrina in eadem        in reeentioribus edd., Berolinensi (Bekker) scilicet cl Parisiensi
-        «habelor cxprcssissime», cum ibi legatur: «Si enim non praeces-      (Firmin-Didot), numernni XI. habet, sed alia ex causa , quia
-        sissel mea transgressio , non fuisset subsecuta nostra redemptio;    nempc in his edd. libri I. et II. Metaph. (iuxta antiquiorem di-
-        el si necessarium non fuissel redimi , non fuisset necessarium       visionem) in unum contracli sunl. Dicttim Philosophi, quod hic
-        parere redemptorem. L'l quid enim neseium peccati pareres            memoratur, babetur ibi XI. c. 10, quo loco Philosophus agens
-        pro peccatoribus, si deesset qui peccassel? L'l quid mater fieres    de bono univcrsi ostendit, duplicem csse bonum universi: unum
-        Salvatoris, si nulla indigentia esset snlulis?... I'er te, inquam,   separatum, scil. primum movcns sive Detim ; altcrum inlrinsc-
-        Domina, per te caeleslis medici medicina affluxa... Iluxa nostra     ctim, scil. ordinem partium universi, sicut duplex sit bontim
-        defluxit; et si non inveniret in liomine idem medicns qtiod          in exercitu ; « etenim bene esse eius in ordine et dux ipsc est,
-        curarct, matrem te habere non curaret. Gausa igitur necessila-       ac magis ipse ; non enim ipse proptcr ordinem, vcrum ordo
-        tis nostrae nccessitas exsiitit piofeciionis luae».
-                                                                             propier  ipsum1 , cst
-                                                                                  5 Eph.        10. ».
-              ■ In Tract. de erroribus Abaelardi, c. 5. n. II. seqq. et
-        c. 9. n. 23 seqq., ubi Abaelardum refutat ponentem, quod « nec             e Vat. noitra , quae et mox cum edd. I , 2 pro apera in-
-        Filius Dei, ut homincm liberarct, carnem assiimsii ». El in Serm.    ihiuii'1 exhibel inchoata npera sua. Paulo superius pro Plus
-        I. de Advontu Domini, n. 7. dicit: Nec sane laboraodum est           enim codil. ABCDENTr X perperam subsiituont Phts etiam
-        in hac parte [ad qtiid scil. venerit], cum manifeste ndventus              7 Cfr. IV. Scnl. d. 19. p. II. art. princip. I. n. 3. q. I .
-        eius ciusam et vcrba ipsius el opera clamenl. Ad qunerendam          ubi ct dc scq. ratione videsis. — Paulo inferius pro corpus
-        quippe ovem centesimam, quae erraverat, demonlibus prope-            ipsius cod. T corpui Christi. Post pauca pro delectationis cod. A
-        ravit elc. Cfr. Libcr ad mllltes templi, c. II. n 27. — Glossa       dulcedinis, codd. EGHLM UZ dilectianis.
-                   S. Bnnav. — Tom. III.                                                                                            i
-         26                                                SENTENTIARUM LIB. III.
+8. Item, si homo lapsus non esset, nihilominus fuisset Sacramentum matrimonii: si igitur Sacramentum matrimonii in coniunctione sexuum dicit sive significat coniunctionem Christi et Ecclesiae quantum ad naturarum unionem, propter inseparabilitatem, ut dicitur ad Ephesios quinto: *Hoc Sacramentum magnum est; ego autem dico in Christo et in Ecclesia:* ergo si homo stetisset, aut Sacramentum matrimonii esset falsum, aut Dei Filius esset incarnatus. Sed primum est impossibile: ergo restat etc.
 
-           mperfectionera sensus, qui ad ipsum non polest                   etiam in proposito intelligendum est, sicut dicunt
-          pertingere \ Sed tunc plura obviabunt, sive ratione               Sancti , quod quia homo per peccatum interius lu- Notandum.
-          sensuum aliorura, qui non habent obiecta sua, sicut               men obfuscatum habebat et conversus fuerat ad sen-
-          visus, et laraen perfecte beatificati snnt; sive ratione          sibilia et illa amabat; ideo Deus invisibilis factus
-          aspectus Christi, qui ad alios Sanctos aspicit; sive              est visibilis secundum carnem, ut per visibilia re-
-          etiam ratione perfectionis beatitudinis, quae non fa-             duceret ad invisibilia cognoscenda et amanda. Et
-          cit hominem aliquid extrinsecus mendicare; sive                   hoc est quod dicit Gregorius in quadam Praefa-
-          eliam, quia oppositum non posset intelligi, quod                  tione6: « Ut dum visibiliter Deum cognoscimus, per
-          gloriosus horao posset a Christi praesentia absentari             hunc invisibilium amore rapiamur ».
-          absqne gloriae suae detrimento.                                         k. Ad illud quod obiicitur, quod ita difficile est
-                2. Ad illud quod obiicitur, quod in humana na-              promereri vitam-aeternam, sicut satisfacere pro of-
-          lura 2 data est congruitas vel idoneilas ad incarna-              fensa; dicendum, quod
-                                                                                                ^falsum est, quia^    ad meritum menti
-                                                                                                                                     conditiones
-                                                                                                                                           et sa-
-          tionem; dicendum, quod illa idoneitas attenditur ex               vitae aeternae sufficit complacentia ex parte meren- tisfactionis.
-          parte reparabilitatis hominis principaliter, quamvis              tis, ad hanc autem complacentiam sufficit divina
-          ratione dignitatis et aliarum conditionura aliquo modo            gratia. Et quia gratiam divinam poterat homo ha-
-          attenditur; et ideo, sicut homo non fuisset repara-               bere per missionem Spiritus sancti et Filii in men-
-          tus, si non cecidisset, quamvis esset reparabilis; sic            tem absque Filii missione in carnem1; hinc est,
-          Divinitati non esset unitus, quaravis esset unibilis.             quod ad perfectionera meriti vitae aeternae non
-Notandam. Non tamen frustra fuisset illa potentia3, quia mul-               oportuit incarnationem intervenire. — Ad satisfacien-
-          tae sunt potentiae et idoneitates, quae ad actum non              dum autem non solum requiritur, quod satisfaciens
-          perducuntur; nec tamen frustra sunt, quia nobililati              placeat, sed qnod damnum recompensare valeal et
-          et dignitati naturae attestantur. Nec dicitur potentia            honorem Deo sublatum restituat, sicut melius vi-
-          frustra, si non reducitur ad actum; sed tunc fru-                 debitur infra 8 ; et ideo non tanta fuit necessitas
-          slra est, cum ad actum non reducitur, et tamen ad                 incarnationis propter necessitatem merendi, sicut
-          aclum exigit eam reduci terapus et locus.                         propter necessitatem satisfaciendi. Et quod illud sit
-                3. Ad illud quod obiicitur, quod decet Dei po-              verum, planum est in Angelis, quorum natura non
-          tentiam et sapienliam in statu innocentiae manife-                est unila Verbo, et tamen raeruerunt vitam aeter-
-          stari; dicendum, quod satis sufflcienler se manifesta-            nam9. — Praeterea, esto quod tantae difficultatis sit, AUa soimio.
-          bat per opus crealionis et distinctionis et ornatus:              tamen non oportet, quod propter hoc necessaria sit
-          et ideo si illa perstitissent, cum valde bona essent 4,           incarnatio, pro eo quod Spiritus sanctus ipse, qui
-          non oportuisset novum modum agendi superaddere                    per caritatem movet animam, dignam eam facit glo-
-\otandum. ad manifestationeui ; quemadmodum opera miracu-                   ria sempiterna. Unde neulrum fit sine missione ali-
-          losa facta sunt post hominis lapsum, quae non                     cuius personae; sed ad satisfaciendum necessaria est
-          oportuit fieri ante, quia Dei potentia, sapientia et              missio in carnem, quia, sicut infra 10 palebit, con-
-          bonitas nota esset et satis in suis effectibus relu-              gruentissimus modus fuit satisfaciendi per mortem et
-          ceret. Nunc autem congruum est et decens, Deum                    passionem, sicut congruentissimus modus est ad me-
-          multa opera facere miraculose ad manifestationem                  rendum per caritatem et dilectionem.
-          suae potentiae et confirmationem s fidei nostrae. Sic                    5. Ad illud quod obiicitur, quod anima Christi
+9. Item, quadruplex est modus educendi hominem in esse. « Contingit enim, hominem educi de viro et muliere; contingit educi sine viro et muliere; contingit educi de viro sine muliere; et de muliere sine viro[^14] »; sed tres istorum modorum fuissent, si homo stetisset, sicut planum est: ergo videtur, quod et quartus fuisset, quo eductus est de sola muliere. Sed hic quartus est in incarnatione: ergo si homo stetisset, incarnatio fuisset; aut si non, tunc unus modus productionis hominum deficeret, et sic universum perfectum non esset; et hoc est maximum inconveniens. Dicit enim Augustinus, quod universum habet tantam perfectionem, quod nemo potest in eo imperfectum rationabiliter aliquid invenire nec rationabiliter aliquid addere, sicut et ipse dicit in libro *de Libero Arbitrio*: quod nihil potest intellectus noster intelligere, quod subterfugeret illam supernam artem.
 
+### Conclusio.
 
-              1 Vide August., XXII. de Civ. Dei, c. 29. n. 2. seqq. et           6 Pro et confirmationem, quam lectionem codd. F P Q R S bb
-        IV. Sent. d. 49. p. I. q. 3.                                        confirmant, cod. K propter confirmationem , multi alii codd.
-              2 Cod. K quod humanae naturae. Paulo inferius pro ali-        per confirmationem , edd. pro 'confirmatione. Mox pro quod
-        quo modo attenditur codd. H K bb aliquo modo attendatur.            quia codd. P bb et quia, codd. AEHLUVXZaa et edd. 1, 2
-              3 Cfr. tom. I.-pag. 771, nota I. — S.Thom., hic q. 1.         quia quod, Vat. quia ergo. Deinde post ad sensibilia codd.
-        a. 3. ad 4, eandem solvens obieclionem, communem adhibet di-        M 0 subiungunt cognoscenda.
-        stinclionem potentiae sive capacitatis in creatura, scil. secun-          6 Missa in Nativ. Domini (apud Gregor. in 3. Missa). Nostra
-        dum potenliam naturalem (quam Deus vacuam non dimitiit in           lectio convenit cum originali huius Praefationis (in libro Sacra-
-        genere, quamvis respectu alicuius particularis creaturae non        mentorum), dum in Vat. et aliquibus codd. nec non in edd. I, 2
-        impleatur propter aliquod impedimentum) et secundum poten-          legitur, sicut et nunc in Missali Romano-, in invisibilium amo-
-        tiam obedientiae , cuiusmodi est capacitas humanae naturae ad       rem rapiamur. Cfr. August., I. de Doctr. christ. c. II. n. II.
-        dignitatem incarnationis ; nec oportet, quod Deus omnem talem       seqq. nec non Epist. 1 40. (alias i 20.) c. 3. n. 7. et c. 6. n. 1 8.
-        impleat, sicut non oportet, quod Deus faciat quodcumque po-               7 Cfr. I. Sent. d. 15. p. II. q. I. seqq. ; II. Sent. d. 27. a.
-        test, sed quod congruit ordini sapientiae eius. — Mox pro non       2. q. 3 ; d. 29. a. I. q. 1. seq. et a. 2. q. I.
-        perducuntur cod. K nunquam ducuntur.                                      8 Dist. 20. q. 2. seqq.
-              4 Gen. 1 , 31 : Viditque Deus cuncta quae fecerat, et erant        9 Cfr. II. Sent. d. 4. a. 1. q. I. seq. et d. S. a. 3. q. 1.
-        valde bona. — In principio solut. post sapientiam codd. QZ          seq. — Subinde pro Praeierea Vat. Propterea.
-        addunt et bonitatem ; edd. , ordine verborum inverso et addito           10 Dist. 20. q. 2. — Paulo superius post sine missione codd.
-        prudentiam , siclegunt: decet Dei sapientiam, prudentiam et         G H L N V aa interserunt Spiritus sancti, cod. E subiicit scili-
-        potentiam. Post pauca cod. Q pro superaddere exhibet super-         cet. In fine solut. pro ad merendum cod. V (K a secunda manu)
-        inducere et addere, et dein pro opera miraculosa cod. F             substituit merendi.
-        opera mirabilia.
-                                                                                                                                             27
+> Praecipua ratio incarnationis videtur fuisse redemptio humani generis, quamvis multae rationes aliae congruentiae huic rationi sint annexae.
 
-                                                          DIST. I. ART. II. QUAEST. II.
-             educi debuit principali intentioue; dicendum, quod              put est in quantnm homo; ratione secundae Chri-
-             Deus — quia ab aeterno praescivit lapsum huinani                stus caput est in quantum Deus, et ratione huius
-             generis — ideo fecit, quiase recuperaturuin cognovit^           principaliter tenet rationem capitis 5. Et ideo, esto
-             et ideo principalius in intentione fuit reparatio lapsi         quod incarnatus non esset, adhuc Ecclesia capite non
-             quam conditio eius ad lapsum possibilis \ Et propter            careret; quia caput viri esset Deus, et ita Ecclesia
-             hoc non sequitur, quod Deus non praedestinaverit                hominum caput haberet Deum, sicut habet Ecclesia
-             Christum principaliter, sicut et alios, immo multo              Angelorum. Et ideo non sequitur, quod corpus Ec-
-             principalius. Hoc enim teneret , si Deus in condi-              clesiae esset acephalum, quamvis non haberet ca-
-             lione generis humani non praecognovisset eorum                  put secundum omnem proprietatem , quam habet
-             lapsum ; tunc enim quasi praeter intentionem subse-             modo; haberet enim tunc caput Deum, sicut nunc
-             cutum fuisset.                                                  habet Ecclesia Angelorum.
-                   6. Ad illud quod obiicitur, quod humana na-                     8. Ad illud quod obiicitur, quod matrimonium
-            tura est exallata propter incarnationem ; dicendum,              significat coniunctionem naturarum; dicendum, quod
-             quod absque dubio verum est; sed ex hoc non se-                 matrimonium duplicem habet signiQcationem. Signi- . d"p1m
-                                                                                       ...                     u                °   signihcatio
-             quitur, quod reportaveril ex malitia commodum,                  ficat emm coniunctionem Dei ad Ecclesiam secun- matrimonh.
-             quia hoc non fuit ex sua malitia, sed ex summa                  dum caritatem, et significat etiam coniunctionem se-
-             benignitale divina et sapientia. Quia enim sapientia            cundum unionem inpersonae unitate"; et utramque
-NoiaDdnm. Dei vincit malitiam 2, hinc est, quod non patitur esse             harum significationum habet secundum statum la-
-             malum aliquod, de quo non eliciat bonum, et etiam               psus, alteram autem habuisset, si stetisset; et ideo
-             maius bonum; alioquin non perfecte malitiam vin-                non esset falsum signum. Sicut enim matrimonium
-            ceret. Et propterea contra praevaricationem Adae,                nunc est in o/ficium et remedium, tunc autem so-
-             qui totum genus humauum interfecit, statuit recti-              lum in o/ftcium ; sic matrimonium nunc duplex
-             tudinem secundi Adae, qui pro toto genere humano                habet significatum, tunc autem unum.
-            possel satisfacere, el cuius obedientia multo plus                     9. Ad illud quod obiicitur, quod quadruplex
-             sibi placeret, quam inobedientia primi Adae potuit              est modus produclionis horninum; dicendum, quod
-             displicere 3. — Similiter hoc fuit ex bonitate divina,          ille quarlus modus producendi hominem non est de
-            ex qua Deus plenns esl dilectione et misericordia.               perfectione universi, sed supra perfectionem universi. ^otandnm.
-             Et ideo diligenlibus se, quos Sanctos vocavit secun-            Et ideo Ieremias ' vocat illud novum, cum ait: No-
-             dum propositum suum, omnia facit eis operari in                 vum faciet Dominus super terram; hoc autem no-
-             bonum4; unde Filium Dei incarnari non fecit nostra              vum Dominus non fecisset, nisi aliqua veteratio
-            malitia, sed Dei caritas nimia et misericordia, secun-           praecessisset. Et ideo non sequitur, quod, si homo
-             dum quod dictum est in auctoritate prius posita:                stetisset, et8 talis modus producendi hominem esset.
-             Deus autem , qui dives esl in misericordia, pro-                Nec ex hoc sequitur, quod universum sua perfe-
-            pler nimiam caritatem etc.                                       ctione careret; sicut etiam non potest argui imperfe-
-                   7. Ad illud quod obiicitur, quod Christus est             ctio universi quantum ad suscilationem morlui, quam
-            caput Ecclesiae secundum humanam naturam ; dicen-                Deus non fecisset, si homo perstitisset. — Posset Aiiter.
-Dopiex
- pitis pro
-          ca-dum, quod duplex est capitis proprietas: una, quae              etiam dici, quod de illo modo productionis non po-
- prietas.    attenditur secundum conformitatem ad membra; alia,              test argui veritas incarnationis, quia Deus posset
-             quae attenditur secundum donorum gratuitorum in-                producere hominem de muliere absqne viro , qui
-            fluentiam. Ratione primae proprietatis Christus ca-              tamen non esset Deus.
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod circa hoc duplex est magistrorum opinio.
 
+Quidam enim dicere voluerunt, quod de incarnatione est loqui dupliciter. Est enim incarnatio carnis assumtio: de carne autem assumta est loqui dupliciter: aut quantum ad substantiam, aut quantum ad defectum passibilitatis[^15]. Si fiat sermo de ipsa quantum ad defectum passibilitatis et mortalitatis, dicunt, quod incarnationis praecipua ratio fuit humani generis redemptio. Nisi enim homo peccasset et lapsus et redimendus esset[^16], Christus carnem mortalem non assumsisset. — Si autem loquamur de incarnatione, secundum quod dicit assumtionem humanae naturae, loquendo simpliciter; sic dixerunt, quod praecipua ratio incarnationis non est liberatio generis humani, quia, etiam si homo non peccasset, Christus incarnatus esset; sed huius ratio est perfectio multiplex surgens ex dignitate illius operis. Incarnatio enim facit ad perfectionem hominis — et per consequens ad perfectionem totius universi — in hoc quod complet et completionem dat humano generi, secundum illud quod respicit naturam, et secundum illud quod respicit gratiam, et secundum illud quod respicit gloriam. Secundum illud quod respicit naturam, quia in incarnatione est consummatio modorum educendi hominem in esse. Est etiam consummatio in comparatione ad perfectionem agentis in hoc, quod in incarnatione homo, qui est ultimus, coniungitur cum suo principio unione, qua sub Deo nulla est maior. — Facit etiam ad perfectionem hominis, quantum ad illud quod re-
 
+<!-- page 24 -->
 
-              1 Vel aliis verbis: quia Deus, pracviso peccato, quod primi    omnia cooperanlur in bonum, iis qui secundum proposilum
-        parentes vitare polerant , libere et posilive voluit incarnalionem   vocali sunt sancti. — Seq. locus Scripl. est Eph. 2, 4. — Ex
-        Filii sui , ideo ex parle Dei incarnatio non fnit per accidens nec   diciis apparcl, quid verba illa sibi velint : « 0 felix culpa, quae
-        minus principaliler inlenta, immo multo principalius. — Pro          lalem ac tantum meruil haberc mlemplurcm ». Sentenlia eorum
-        quia se codd. F H (K a secunda manu) M 0 V habenl quia per           est , quod culpa , per quam homo mortem aetcrnam comme-
-        se, edd. I, 2 qui se ; cod. bb : ideo fecit per se recuperalu-       ruerat, ex summa Dei in homines dilectione ei feliciter cesserit.
-        rum, quia cognovit. In cod. K secunda nianus recuperaturum                 5 Cfr. infra d. 13. a. 2. q. I. in corp. — In subncxis re-
-        coninnilavit in reparalurum ; et deinde pro principalius cod.        spicitur illud I. Cor. 11,3: Omnis vh-i caput Christus est.
-        E subsliluit principaliter. Paulo inferius codd. T U V umillunl            6 Eph. 5, 32: Sacramcnlum hoc magnum esl, ego au-
-        non anle praedestinaverit.                                           lem dico in Christo et in Ecclesia. — Pro secundum unionem
-              8 Sap. 7, 30: Sapientiam autem non vincil malitia. Cfr. I.     (quibus verbis in cod. L a secunda manu additum est natura-
-        Senl. d. 16. q. 3. 6. et d. 47. q. 3. — Pro oincil codd. E           rum) cod. G et unioiiem. Paulo inferius posl si stetisset se-
-        G II K L T U V X et edd. 1 , 2 vicil. Paulo superius pro ex          cunda manus in cod. V supplevit homo, el in line solul. codd. II
-        summa (cod. R polius ex , cod. P etiam ex) codd. AGIIL               (K a secunda manu) M 0 Q Z post sic matrimonium bcne sub-
-        i.N a prima manu) TU ex sua.                                         iiciunl nunc, a nobis receplum.
-                                                                                   ' Cap. 31, 22.
-              3 Respiciiur Rom. S, 14. geqq. et I. Cor. 15, 22. — Pro
-        potuit displicere codd. E II K N poluerit displicere. Patilo su-          8 Particula el, quam codd. FIIKbb omitlunt, hic idcm
-        perius pro interfecit cdd. exhibent infecit.                         valet ac etiam , quod codd. EZ re vcra hic exhtbent. Pro et
-                                                                             cdd. subslituunl quod.
-              4 Rom. 8, 28: Scimus auiem, quoniam dillgentibus Deum
-                                                              SENTENTIaRUM LIB. III.
+spicit gratiam, quia in incarnatione assumit Christus humanam naturam, ratione cuius plene habet esse caput totius Ecclesiae, cuius corporis membra uniri habent ratione caritatis et gratiae. Et simul cum hoc facit ad perfectionem meriti, quia omnia merita pendent et meliorantur merito Christi. — Facit etiam ad perfectionem gloriae in eo, quod homo in Deo suo invenit pascua quantum ad partem corporalem et quantum ad partem spiritualem, sive ingrediatur, sive egrediatur, quod[^17] non faceret, si Deus non esset incarnatus. — Completus etiam est totius humanae naturae appetitus, dum per opus incarnationis nobilissima idoneitas, quae erat in humana natura, secundum quam unibilis erat divinae, ad actum perfectum reducitur. — Et ratione huius multiplicis perfectionis, quae surgit ex opere incarnationis, congruum fuit Deum incarnari. Et quia haec multiplex perfectio non tantum respicit statum naturae lapsae, immo etiam respicit statum naturae bene[^18] institutae; ideo, si homo lapsus non fuisset, nihilominus Deus incarnatus esset, quia ita competebat, hominem perfectum esse et secundum naturam et secundum gratiam et secundum gloriam, sicut si esset in statu lapso, et quodam modo amplius, et[^19] secundum istam opinionem. — Et qui hanc opinionem sequuntur concedunt rationes, quae ad hanc partem adducuntur. Rationes vero ad oppositum et auctoritates per hoc effugiunt, quia dicunt, eas intelligi, secundum quod incarnatio dicitur carnis mortalis et passibilis assumtio. Loquitur enim Scriptura, et Sancti[^20] de incarnatione secundum eum modum, qui fuit post lapsum, non per eum modum, qui fuisset, homine persistente in statu innocentiae.
 
-                 Haec aulem omnia absque praeiudicio dicta                     commendare1, ut affectus nostri escitentur ad aman-
-Notaiidam. sunt; non enim volo bonitalem Dei coarctare, sed                    dum ipsum, dum attendimus nimiae dilectionis eius
-           nimietatem caritatis suae erga hominem lapsum                       excessum.
+Aliorum vero opinio fuit, quod praecipua ratio incarnationis est reparatio humani generis, quamvis aliae multae sint rationes congruentiae huic annexae[^21]. Ista enim est praecipua respectu omnium, quia, nisi genus humanum fuisset lapsum, Verbum Dei non fuisset incarnatum. — Et ratio huius est, quia incarnatio Dei est superexcedentis dignationis; et ideo, cum sit ibi quidam excessus, non fuisset introductum incarnationis mysterium, nisi praecessisset excessus oppositus per ipsum corrigendus et restaurandus. Unde nisi Deus ovem suam perdidisset, non de caelo ad terram descendisset[^22].
 
-                                                                   SCHOLION.
-             1. Sicut omnium divinorum operum, sic et incarnotionis            quaestionis veritatem solus ille scire pdtest, qui natus et
-       finis principalis et ultimus ex parte Dei operantis est gloria          oblatus est, quia voluit»; unde ibidem etiam alteram opinio-
-       ipsius manifcstanda (cfr. II. Senl. d. I. p. II. a. 2. q. I.). Intel-   nem probabiliter sustineri posse affirmat; idemque in sua Sum-
-       ligenda est igitur quaestio haec de ratione praecipua ex parte          ma theol. (III. q. I. a. 3.) de sententia, quam ipse praefert,
-       rerum, sive de fine op«ris, scilicet ulrum adaequata ratio fue-         lantum dicit: «Huic assertioni magis assentiendum videtur » , et
-       rit remedium peccati (quin lamen alia bona intenta excludan-            paulo inferius, « convenientius dici » etc. Similiter loquuntur
-       tur), an ipsa huius mysterii excellentia cum plurimis bonis pro         qui sentenliae Scoti favent, uf B. Albertus et vel ipse Scolus,
-       humano genefe totoque univcrso inde resultantibus. ldem pro-            qui (Comment. Oxon. III. Sent. d. 7. q. 3. n. 3.) suam senten-
-       blema in scholis vulgo sic proponitur : utrum, si homo non              tiam explanandam incipit sic : Sine praeiudicio dici potest etc.
-       peccasset, Verbum incarnatum fuisset. Nam responsio ad hanc             Kichard. a Med. autem utramque opinionem cum suis argu-
-       alteram formulam sequitur ut corollarium ex solutione prioris           mentis affert et in neutram inclinat. Pro eadem sententia vulgo
-       quaeslionis. — Incidimus hic iit celeberrimam controversiam ,           citatur etiam Alex. Hal., sed , ut iam observavit. cl. Dr. Scheeben
-       praecipue inter scholam Thomistarum et Scotistarum a saeculis           (Handb. der liathol. Dogmatik , t. III. pag. 884), sine satis
-       agitatam et nondum determinatam, in qua multa subtilia de               firmo fundamento, cum ipse ad alium statum quaestionis re-
-       praedestinatione Chrisfi et de ordine decretorum divinorum af-          spondeat. Quaerit enim tantum de convenientia incarnationis,
-       ferri solebant. De ipsa consulantur rccentiores auctores, quorum        homine non peccante, et resolvit sic: « Sine praeiudicio conce-
-       alii cum Scoto, S. Bernardino, S. Francisco Salesio et eximio           dendum est, quod etsi non fuisset natura lapsa , adhuc esset
-       theologo Suarez negant, praecipuam et adaequatam rationem               convenienlia ad incarnationem ». Nec aliud in illa responsione
-       incarnafionis esse redemplionem generis humani ; alii vero cum          determinat, nec in ipsis argumentis aliquid aliud nisi conve-
-       Thomistis hoc affirmant. Attamen in explicatione et confirma-           nienUam concludit, excepto primo, ubi revera ex congruentia
-       tione utriusque sententiae auctores varias ingrediuntur vias.           arguit, quod « posiio, quod ipsa non esset lapsa, adhuc unire-
-             Observamus hic tantum primo, conlroversiam non esse,              tur summum bonum ». Conslat autem etiam secundum Alexan-
-       utrum, homine non peccante, incarnalio esset possibilis, vel            drum , quod ex sola congruentia alicuius boni et etiam optimi
-       eliam remaneret satis congrua divinis altributis (quod nemo             non potest recte argui , a Deo hoc esse faciendum. Ex allera parte
-        negat), sed quaeritur defacto, vel potius faciendo, et quidem          nemo negavit, Adam non peccante, adhuc fuisse incarnationem
-       stante praesente providenfia et vi decreti divini iam conditi,          et possibilem et etiam convenientem et congruam, si Deo pla-
-       non autem vi alterius decreli, quod Deus potuisset facere, Adam         cuisset eam velle. — Quam sapienter pieque totam hanc quae-
-       non peccante. Quis enim determinare velit, quid in alia pro-            stionem tractet S. Bonav. et ad mentem Angelici resolvat, patet
-       videntia Deus facturus sit?                                             ex liltera.
-             Secundo observamus, antiquos Scholasticos omnesque gra-                 II. Alex. Hal., S. p. III. q. 2. m. 13. — Scot., loc. cit. et
-        viores auctores S. Bonaventurae in hoc consenlire , quod etiam         d. '19. q. unic. n. 6; Beport. III. Sent. d. 7. q. 4. n. 4. —
-        ad quaestionem sic intellectam non potest responderi nisi secun-       S. Thom., locc. citt. — B. Alberl., III. Sent. d. 20. a. 4. — Pelr.
-        dum maiorem probabilitatem. Hinc S. Thom. (hic d. I. q. 1.             a Tar., hic q. I. a. 2. — Richard. a Med., hic a. 2. q. 4. —
-        a. 3.) eisdem fere -verbis ac S. Bonav. monet, «. quod huius           Dionys. Carlh., hic q. 2. — Biel , III. Sent. d. 2. q. unica in fine.
+Quis autem horum modorum dicendi verior sit, novit ille qui pro nobis incarnari dignatus est. Quis etiam horum alteri praeponendus sit, difficile est videre, pro eo quod uterque modus catholicus est et a viris catholicis sustinetur. Uterque etiam modus excitat animam ad devotionem secundum diversas considerationes.
+
+Videtur autem primus modus magis consonare iudicio rationis; secundus tamen, ut apparet, plus consonat pietati fidei: primo, quia auctoritatibus Sanctorum et sacrae Scripturae magis concordat. Nam tam novum quam vetus Testamentum[^23], ubi de Filii Dei descensu loquuntur, humani generis liberationem rationem reddunt, quod patet per singula discurrendo. Sancti etiam hoc dicunt, sicut patet in auctoritatibus supra positis. Et ideo, si divina eloquia nobilissimam et praecipuam incarnationis rationem assignant, et nihil etiam a nobis dicendum est praeter ea quae nobis ex sacris Eloquiis claruerunt[^24]; magis videtur pietati fidei consonum, quod praecipua incarnationis ratio sit liberatio humani generis, quam aliter sentire. Et hoc aperte dicit Augustinus in libro *de Verbis Apostoli*, sermone septuagesimo[^25], tractans illud Matthaei decimo octavo: *Venit enim Filius hominis salvum facere quod perierat:* « Si homo non periisset, Filius hominis non venisset ». Et expressius ibidem, tractans illud primae ad Timotheum primo[^26]: *Venit in hunc mundum peccatores salvos facere:* « Nullam aliam ob causam nisi peccatores salvos
+
+<!-- page 25 -->
+
+facere ». Et ibidem plura dicit ad hoc pertinentia. Et in illa oratione, quae incipit: *O cella[^27] aromatica,* quae dicitur esse Augustini, hoc ipsum habetur expressissime. Ad hoc etiam concordant verba Bernardi[^28] et Glossa super dictum locum Epistolae ad Timotheum.
+
+Secundo vero praedictus modus magis concordat pietati fidei, quia Deum magis honorificat quam praecedens. Nam praecedens dicit, quod Deum conveniebat incarnari ad perfectionem universitatis; et ideo quodam modo Deum intra perfectionem universi concludit et quandam necessitatem incarnationis ponit ei, cum dicit, opera eius aliter[^29] ad perfectionem non perduci. Hic autem modus dicendi, cum dicit, quod incarnationis mysterium est supra omnem perfectionem, ponit, Christum esse supra omnem perfectionem universitatis, sive quantum ad naturam, sive quantum ad gratiam, sive quantum ad gloriam. Et in hoc recte facit; quia, sicut dicit Philosophus in undecimo[^30] *Primae Philosophiae,* Deus supra omnem universi ordinem ponendus est, sicut non dicitur esse dux de exercitu, sed supra exercitum.
+
+Tertio, modus iste dicendi incarnationis mysterium magis commendat, dum dicit, hoc mysterium tantum esse, quod non debuit fieri nisi ex maxima causa, utpote propter placandam divinam iram et restauranda omnia, *sive quae in caelis sunt, sive quae in terra*[^31]. Et ideo dicunt, quod tantum mysterium non fuisset introductum, nisi praecessisset lapsus nobilissimae creaturae et offensio maiestatis divinae.
+
+Quarto, etiam fidelem affectum magis inflammat. Plus enim excitat devotionem animae fidelis, quod Deus sit incarnatus ad delenda scelera sua[^32] quam propter consummanda opera inchoata.
+
+<!-- page 26 -->
+
+Quoniam igitur hic modus dicendi, etsi non videatur esse ita subtilis, sicut praecedens, plus consonat pietati fidei, in hoc quod auctoritatibus Sanctorum magis concordat, et Deum magis honorificat, etiam incarnationis mysterium magis commendat, et affectum nostrum ardentius inflammat: ideo concedendum est, ut praedictae auctoritates et rationes ostendunt, quod praecipua ratio incarnationis fuit redemptio humani generis, quamvis multae rationes aliae congruentiae huic rationi sint annexae.
+
+1. Ad illud quod primo obiicitur in contrarium, quod hominem totum assumsit, ut totum beatificaret; dicendum, quod ista non est ratio praecipua, sed annexa principali, pro eo quod, etsi nunquam Deus incarnatus esset, homo glorificatione corporis sui et visione Dei perfecte et totaliter beatus esset. Visio enim Christi corporalis spectat non ad essentialem completionem beatitudinis, sed ad quoddam accidentale gaudium. Et hoc patet, quia alii sensus beatificantur ut visus, et tamen obiecta sibi correspondentia non habebunt, ut tactus, gustus[^33]. — Praeterea, aspectus Christi non minus erit beatus conversus ad alia corpora videnda, quam aspectus aliorum conversi ad videndum corpus ipsius. Gloria enim sensuum exteriorum erit per redundantiam delectationis venientis a parte superiori ex visione Dei, cuius visio adeo reficit, cum perfecte apparet, ut nihil ultra necessarium sit animae ad eius beatitudinem; quoniam omne aliud bonum et pulcrum, ad illud comparatum, quasi nihil est nec intendere potest essentiale gaudium. — Unde multum derogare videtur summo Bono qui dicit, ipsum non sufficere absque bono creato sibi adiuncto ad hominem perfecte beatificandum, nisi hoc dicat venire propter imperfectionem sensus, qui ad ipsum non potest pertingere[^34]. Sed tunc plura obviabunt, sive ratione sensuum aliorum, qui non habent obiecta sua, sicut visus, et tamen perfecte beatificati sunt; sive ratione aspectus Christi, qui ad alios Sanctos aspicit; sive etiam ratione perfectionis beatitudinis, quae non facit hominem aliquid extrinsecus mendicare; sive etiam, quia oppositum non posset intelligi, quod gloriosus homo posset a Christi praesentia absentari absque gloriae suae detrimento.
+
+2. Ad illud quod obiicitur, quod in humana natura[^35] data est congruitas vel idoneitas ad incarnationem; dicendum, quod illa idoneitas attenditur ex parte reparabilitatis hominis principaliter, quamvis ratione dignitatis et aliarum conditionum aliquo modo attenditur; et ideo, sicut homo non fuisset reparatus, si non cecidisset, quamvis esset reparabilis; sic Divinitati non esset unitus, quamvis esset unibilis. Non tamen frustra fuisset illa potentia[^36], quia multae sunt potentiae et idoneitates, quae ad actum non perducuntur; nec tamen frustra sunt, quia nobilitati et dignitati naturae attestantur. Nec dicitur potentia frustra, si non reducitur ad actum; sed tunc frustra est, cum ad actum non reducitur, et tamen ad actum exigit eam reduci tempus et locus.
+
+3. Ad illud quod obiicitur, quod decet Dei potentiam et sapientiam in statu innocentiae manifestari; dicendum, quod satis sufficienter se manifestabat per opus creationis et distinctionis et ornatus: et ideo si illa perstitissent, cum valde bona essent[^37], non oportuisset novum modum agendi superaddere ad manifestationem; quemadmodum opera miraculosa facta sunt post hominis lapsum, quae non oportuit fieri ante, quia Dei potentia, sapientia et bonitas nota esset et satis in suis effectibus reluceret. Nunc autem congruum est et decens, Deum multa opera facere miraculose ad manifestationem suae potentiae et confirmationem[^38] fidei nostrae. Sic
+
+<!-- page 27 -->
+
+etiam in proposito intelligendum est, sicut dicunt Sancti, quod quia homo per peccatum interius lumen obfuscatum habebat et conversus fuerat ad sensibilia et illa amabat; ideo Deus invisibilis factus est visibilis secundum carnem, ut per visibilia reduceret ad invisibilia cognoscenda et amanda. Et hoc est quod dicit Gregorius in quadam Praefatione[^39]: « Ut dum visibiliter Deum cognoscimus, per hunc invisibilium amore rapiamur ».
+
+4. Ad illud quod obiicitur, quod ita difficile est promereri vitam aeternam, sicut satisfacere pro offensa; dicendum, quod falsum est, quia ad meritum vitae aeternae sufficit complacentia ex parte merentis, ad hanc autem complacentiam sufficit divina gratia. Et quia gratiam divinam poterat homo habere per missionem Spiritus sancti et Filii in mentem absque Filii missione in carnem[^40]; hinc est, quod ad perfectionem meriti vitae aeternae non oportuit incarnationem intervenire. — Ad satisfaciendum autem non solum requiritur, quod satisfaciens placeat, sed quod damnum recompensare valeat et honorem Deo sublatum restituat, sicut melius videbitur infra[^41]; et ideo non tanta fuit necessitas incarnationis propter necessitatem merendi, sicut propter necessitatem satisfaciendi. Et quod illud sit verum, planum est in Angelis, quorum natura non est unita Verbo, et tamen meruerunt vitam aeternam. — Praeterea, esto quod tantae difficultatis sit, tamen non oportet, quod propter hoc necessaria sit incarnatio, pro eo quod Spiritus sanctus ipse, qui per caritatem movet animam, dignam eam facit gloria sempiterna. Unde neutrum fit sine missione alicuius personae; sed ad satisfaciendum necessaria est missio in carnem, quia, sicut infra patebit, congruentissimus modus fuit satisfaciendi per mortem et passionem, sicut congruentissimus modus est ad merendum per caritatem et dilectionem.
+
+5. Ad illud quod obiicitur, quod anima Christi educi debuit principali intentione; dicendum, quod Deus — quia ab aeterno praescivit lapsum humani generis — ideo fecit, quia se recuperaturum cognovit[^42], et ideo principalius in intentione fuit reparatio lapsi quam conditio eius ad lapsum possibilis. Et propter hoc non sequitur, quod Deus non praedestinaverit Christum principaliter, sicut et alios, immo multo principalius. Hoc enim teneret, si Deus in conditione generis humani non praecognovisset eorum lapsum; tunc enim quasi praeter intentionem subsecutum fuisset.
+
+6. Ad illud quod obiicitur, quod humana natura est exaltata propter incarnationem; dicendum, quod absque dubio verum est; sed ex hoc non sequitur, quod reportaverit ex malitia commodum, quia hoc non fuit ex sua malitia, sed ex summa benignitate divina et sapientia. Quia enim sapientia Dei vincit malitiam[^43], hinc est, quod non patitur esse malum aliquod, de quo non eliciat bonum, et etiam maius bonum; alioquin non perfecte malitiam vinceret. Et propterea contra praevaricationem Adae, qui totum genus humanum interfecit, statuit rectitudinem secundi Adae, qui pro toto genere humano posset satisfacere, et cuius obedientia multo plus sibi placeret, quam inobedientia primi Adae potuit displicere[^44]. — Similiter hoc fuit ex bonitate divina, ex qua Deus plenus est dilectione et misericordia. Et ideo diligentibus se, quos Sanctos vocavit secundum propositum suum, omnia facit eis operari in bonum[^45]; unde Filium Dei incarnari non fecit nostra malitia, sed Dei caritas nimia et misericordia, secundum quod dictum est in auctoritate prius posita: *Deus autem, qui dives est in misericordia, propter nimiam caritatem* etc.
+
+7. Ad illud quod obiicitur, quod Christus est caput Ecclesiae secundum humanam naturam; dicendum, quod duplex est capitis proprietas: una, quae attenditur secundum conformitatem ad membra; alia, quae attenditur secundum donorum gratuitorum influentiam. Ratione primae proprietatis Christus caput est in quantum homo; ratione secundae Christus caput est in quantum Deus, et ratione huius principaliter tenet rationem capitis[^46]. Et ideo, esto quod incarnatus non esset, adhuc Ecclesia capite non careret; quia caput viri esset Deus, et ita Ecclesia hominum caput haberet Deum, sicut habet Ecclesia Angelorum. Et ideo non sequitur, quod corpus Ecclesiae esset acephalum, quamvis non haberet caput secundum omnem proprietatem, quam habet modo; haberet enim tunc caput Deum, sicut nunc habet Ecclesia Angelorum.
+
+8. Ad illud quod obiicitur, quod matrimonium significat coniunctionem naturarum; dicendum, quod matrimonium duplicem habet significationem. Significat enim coniunctionem Dei ad Ecclesiam secundum caritatem, et significat etiam coniunctionem secundum unionem in personae unitate[^47]; et utramque harum significationum habet secundum statum lapsus, alteram autem habuisset, si stetisset; et ideo non esset falsum signum. Sicut enim matrimonium nunc est in *officium* et *remedium,* tunc autem solum in *officium;* sic matrimonium nunc duplex habet significatum, tunc autem unum.
+
+9. Ad illud quod obiicitur, quod quadruplex est modus productionis hominum; dicendum, quod ille quartus modus producendi hominem non est *de* perfectione universi, sed *supra* perfectionem universi. Et ideo Ieremias[^48] vocat illud novum, cum ait: *Novum faciet Dominus super terram;* hoc autem novum Dominus non fecisset, nisi aliqua veteratio praecessisset. Et ideo non sequitur, quod, si homo stetisset, et[^49] talis modus producendi hominem esset. Nec ex hoc sequitur, quod universum sua perfectione careret; sicut etiam non potest argui imperfectio universi quantum ad suscitationem mortui, quam Deus non fecisset, si homo perstitisset. — Posset etiam dici, quod de illo modo productionis non potest argui veritas incarnationis, quia Deus posset producere hominem de muliere absque viro, qui tamen non esset Deus.
+
+<!-- page 28 -->
+
+Haec autem omnia absque praeiudicio dicta sunt; non enim volo bonitatem Dei coarctare, sed nimietatem caritatis suae erga hominem lapsum commendare[^50], ut affectus nostri excitentur ad amandum ipsum, dum attendimus nimiae dilectionis eius excessum.
+
+### Scholion
+
+**I.** Sicut omnium divinorum operum, sic et incarnationis finis principalis et ultimus ex parte Dei operantis est gloria ipsius manifestanda (cfr. II. Sent. d. I. p. II. a. 2. q. I.). Intelligenda est igitur quaestio haec de ratione praecipua ex parte rerum, sive de fine *operis,* scilicet utrum adaequata ratio fuerit remedium peccati (quin tamen alia bona intenta excludantur), an ipsa huius mysterii excellentia cum plurimis bonis pro humano genere totoque universo inde resultantibus. Idem problema in scholis vulgo sic proponitur: utrum, si homo non peccasset, Verbum incarnatum fuisset. Nam responsio ad hanc alteram formulam sequitur ut corollarium ex solutione prioris quaestionis. — Incidimus hic in celeberrimam controversiam, praecipue inter scholam Thomistarum et Scotistarum a saeculis agitatam et nondum determinatam, in qua multa subtilia de praedestinatione Christi et de ordine decretorum divinorum afferri solebant. De ipsa consulantur recentiores auctores, quorum alii cum Scoto, S. Bernardino, S. Francisco Salesio et eximio theologo Suarez negant, praecipuam et adaequatam rationem incarnationis esse redemptionem generis humani; alii vero cum Thomistis hoc affirmant. Attamen in explicatione et confirmatione utriusque sententiae auctores varias ingrediuntur vias.
+
+Observamus hic tantum primo, controversiam non esse, utrum, homine non peccante, incarnatio esset possibilis, vel etiam remaneret satis congrua divinis attributis (quod nemo negat), sed quaeritur *de facto,* vel potius *faciendo,* et quidem stante praesente providentia et vi decreti divini iam conditi, non autem vi alterius decreti, quod Deus potuisset facere, Adam non peccante. Quis enim determinare velit, quid in alia providentia Deus facturus sit?
+
+Secundo observamus, antiquos Scholasticos omnesque graviores auctores S. Bonaventurae in hoc consentire, quod etiam ad quaestionem sic intellectam non potest responderi nisi secundum maiorem probabilitatem. Hinc S. Thom. (hic d. I. q. 1. a. 3.) eisdem fere verbis ac S. Bonav. monet, « quod huius quaestionis veritatem solus ille scire potest, qui natus et oblatus est, quia voluit »; unde ibidem etiam alteram opinionem probabiliter sustineri posse affirmat; idemque in sua Summa theol. (III. q. I. a. 3.) de sententia, quam ipse praefert, tantum dicit: « Huic assertioni magis assentiendum videtur », et paulo inferius, « convenientius dici » etc. Similiter loquuntur qui sententiae Scoti favent, ut B. Albertus et vel ipse Scotus, qui (Comment. Oxon. III. Sent. d. 7. q. 3. n. 3.) suam sententiam explanandam incipit sic: *Sine praeiudicio dici potest* etc. Richard. a Med. autem utramque opinionem cum suis argumentis affert et in neutram inclinat. Pro eadem sententia vulgo citatur etiam Alex. Hal., sed, ut iam observavit cl. Dr. Scheeben (Handb. der Kathol. Dogmatik, t. III. pag. 884), sine satis firmo fundamento, cum ipse ad alium statum quaestionis respondeat. Quaerit enim tantum de convenientia incarnationis, homine non peccante, et resolvit sic: « Sine praeiudicio concedendum est, quod etsi non fuisset natura lapsa, adhuc esset convenientia ad incarnationem ». Nec aliud in illa responsione determinat, nec in ipsis argumentis aliquid aliud nisi convenientiam concludit, excepto primo, ubi revera ex congruentia arguit, quod « posito, quod ipsa non esset lapsa, adhuc uniretur summum bonum ». Constat autem etiam secundum Alexandrum, quod ex sola congruentia alicuius boni et etiam optimi non potest recte argui, a Deo hoc esse faciendum. Ex altera parte nemo negavit, Adam non peccante, adhuc fuisse incarnationem et possibilem et etiam convenientem et congruam, si Deo placuisset eam velle. — Quam sapienter pieque totam hanc quaestionem tractet S. Bonav. et ad mentem Angelici resolvat, patet ex littera.
+
+**II.** Alex. Hal., S. p. III. q. 2. m. 13. — Scot., loc. cit. et d. 19. q. unic. n. 6; Report. III. Sent. d. 7. q. 4. n. 4. — S. Thom., locc. citt. — B. Albert., III. Sent. d. 20. a. 4. — Petr. a Tar., hic q. I. a. 2. — Richard. a Med., hic a. 2. q. 4. — Dionys. Carth., hic q. 2. — Biel, III. Sent. d. 2. q. unica in fine.
+
+---
 
 ## English
 
-[Translation pending]
+### Question II. *What was the principal reason for the incarnation.*
+
+Secondly it is asked, what was the principal reason for the incarnation. And that it was the redemption of the human race is shown as follows:
+
+**Arguments.**
+
+1. To the Galatians, fourth chapter[^1], where it is said: *But when the fullness of time came, God sent his Son, made of a woman, made under the Law, that he might redeem those who were under the Law.* If, therefore, the Apostle assigns the principal reason for the mission of the Son of God into the flesh, it seems that our redemption is its principal reason. If you say that the Apostle does not say this as the principal cause; against this is objected what the same Apostle says to the Hebrews, second chapter[^2], where, speaking of Christ: *He likewise partook of the same, that through death he might destroy* him, etc.; and afterward: *For nowhere does he take hold of the angels;* the Gloss: « He partook, that he might sanctify and free men; and this cause is rightly assigned, because, if he were not going to free them, he would not have partaken with them, which appears in the angels, since nowhere does he take hold of the angels ». But that, with the positing of which something is posited[^3], and with the removal of which it is removed, is assigned as the principal and chief cause: therefore it seems that the incarnation was principally brought about for the reparation of the human race.
+
+2. Likewise, in the Psalm[^4]: *I am stuck fast in the mire of the deep;* the Gloss of Augustine: « Would that man had remained in that which God made; for if he had remained in that which God made, he would not have been stuck fast in the mire which God begot »: therefore, if man had stood firm, the incarnation would not have been brought about: therefore the principal reason for the incarnation seems to be man's reparation.
+
+3. Likewise, Augustine on John, treating that passage of John, eleventh chapter[^5]: *Behold, he whom you love is sick:* « If the Lord did not love sinners, he would not have descended from heaven to earth »: therefore it seems that the principal reason for the incarnation was the freeing of the sinner.
+
+4. Likewise, if God assumed human nature, either this was on account of human dignity, or on account of necessity. If on account of dignity, since the angelic nature is more worthy than the human[^6], he ought rather to have assumed the angelic. If on account of necessity, and the necessity of need exists only on account of sin; it seems that the principal reason was that he assumed man, the redemption of the human race.
+
+5. Likewise, the work of the incarnation was of the greatest grace, for which man is most bound to thanksgiving; but man is more bound to be grateful to God, and the grace becomes greater for him, when some benefit is bestowed upon him of which he is unworthy, in the state in which he is unworthy, and for his liberation, than if it were to be bestowed upon him otherwise[^7]: therefore if fallen man is most indebted to God for the benefit of the incarnation, it seems that if he had not fallen, he would not have been incarnated, nor would such a benefit have been bestowed upon him.
+
+Therefore the principal reason for the incarnation seems to be the redemption of the human race.
+
+**On the contrary:**
+
+1. Augustine, *On the Spirit and the Soul*[^8]: « He assumed the whole man, that he might beatify the whole »; but man was to be wholly beatified, and so fully beatified, had he not fallen, just as if he had fallen: therefore if man had not fallen, God would have been incarnated: therefore it does not seem that the principal reason for the incarnation is the freeing of the human race.
+
+2. Likewise, on that passage to the Hebrews, second chapter[^9]: *Nowhere does he take hold of the angels;* the Gloss: « It was not given to the angelic nature that a divine person should be united to it ». If, therefore, this dignity was given to human nature, and to human nature nothing is given in vain: therefore if it had not sinned, such a dignity would not have remained void: therefore it would still be united with the divine nature: therefore the freeing of the human race is not the principal reason.
+
+3. Likewise, it was as fitting for God to manifest his infinity[^10] and perfection and liberality, had man stood firm, as if he had fallen: therefore if he does all these things in the work of the incarnation, it seems that the incarnation would have been, even if man had not fallen; and so the same as before.
+
+4. Likewise, it is of as great nobility and difficulty[^11] to vindicate or to acquire for oneself an infinite good, as to make satisfaction for an offense which is against an infinite good: if, therefore, man could not make satisfaction for himself for the offense by which he had offended God, so neither can he of himself merit to have God. Therefore, just as it was fitting that the Son of God be incarnated, when man had fallen, that he might make satisfaction for man, so it seems that it was fitting that the Son of God be incarnated, with man standing firm, that man might be able to merit through him.
+
+5. Likewise, the things which were introduced only on the occasion of sin proceeded from God not principally, but occasionally[^12]: therefore if the incarnation was brought about principally for the expiation of sin, the soul
+
+of Christ was made not by a principal intention, but as it were by a certain occasion. If, therefore, it is unfitting that the noblest creature be introduced occasionally, since an agent principally intends the nobler works, it seems that it is unfitting to say that the incarnation was brought about on account of man's reparation.
+
+6. Likewise, in the incarnation of the Son of God human nature is greatly exalted: if, therefore, God is incarnated from this, that human nature sinned; it seems that man derives advantage from wickedness. Therefore if this does not befit the divine rewarder, it is plain, etc.
+
+7. Likewise, Christ is the head of the Church not only according to his divine nature, but also the human, as Augustine shows on John[^13]: but if man had not sinned, there would still be the body of the Church: therefore either the Son of God would be incarnated, or the body of the Church would remain headless. Therefore if that is impossible, it remains that God would be incarnated, had man not sinned: therefore the same as before.
+
+8. Likewise, if man had not fallen, there would nonetheless have been the Sacrament of matrimony: if, therefore, the Sacrament of matrimony in the joining of the sexes states or signifies the joining of Christ and the Church as to the union of the natures, on account of the inseparability, as is said to the Ephesians, fifth chapter: *This is a great Sacrament; but I speak in Christ and in the Church:* therefore if man had stood firm, either the Sacrament of matrimony would be false, or the Son of God would be incarnated. But the first is impossible: therefore it remains, etc.
+
+9. Likewise, there is a fourfold mode of bringing man into being. « For it happens that man is brought forth from a man and a woman; it happens that he is brought forth without a man and a woman; it happens that he is brought forth from a man without a woman; and from a woman without a man[^14] »; but three of these modes would have been, had man stood firm, as is plain: therefore it seems that the fourth too would have been, by which he was brought forth from a woman alone. But this fourth is in the incarnation: therefore if man had stood firm, the incarnation would have been; or if not, then one mode of the production of men would be lacking, and so the universe would not be perfect; and this is a very great absurdity. For Augustine says that the universe has such perfection that no one can reasonably find anything imperfect in it nor reasonably add anything, just as he himself says in the book *On Free Will:* that our intellect can understand nothing which would escape that supreme art.
+
+### Conclusion.
+
+> The principal reason for the incarnation seems to have been the redemption of the human race, although many other reasons of fittingness are annexed to this reason.
+
+**I respond:** For the understanding of what has been said, it must be noted that concerning this there is a twofold opinion of the masters.
+
+For some have wished to say that one may speak of the incarnation in two ways. For the incarnation is the assumption of flesh: but concerning the assumed flesh one may speak in two ways: either as to its substance, or as to the defect of passibility[^15]. If discourse is made of it as to the defect of passibility and mortality, they say that the principal reason for the incarnation was the redemption of the human race. For unless man had sinned and fallen and were to be redeemed[^16], Christ would not have assumed mortal flesh. — But if we speak of the incarnation, according as it states the assumption of human nature, speaking absolutely; thus they have said that the principal reason for the incarnation is not the freeing of the human race, because, even if man had not sinned, Christ would have been incarnated; but the reason for this is the manifold perfection arising from the dignity of that work. For the incarnation contributes to the perfection of man — and consequently to the perfection of the whole universe — in this, that it completes and gives completion to the human race, according to that which regards nature, and according to that which regards grace, and according to that which regards glory. According to that which regards nature, because in the incarnation there is the consummation of the modes of bringing man into being. There is also a consummation in comparison to the perfection of the agent in this, that in the incarnation man, who is the last, is joined to his principle by a union than which there is none greater under God. — It also contributes to the perfection of man, as to that which re-
+
+gards grace, because in the incarnation Christ assumes human nature, by reason of which he fully has being as the head of the whole Church, the members of whose body are to be united by reason of charity and grace. And together with this it contributes to the perfection of merit, because all merits depend upon and are bettered by the merit of Christ. — It also contributes to the perfection of glory in this, that man in his God finds pastures both as to the bodily part and as to the spiritual part, whether he goes in or goes out, which[^17] he would not do, were God not incarnated. — Also the appetite of the whole human nature is completed, when through the work of the incarnation the noblest aptitude, which was in human nature, according to which it was unitable to the divine, is brought to perfect act. — And by reason of this manifold perfection, which arises from the work of the incarnation, it was fitting that God be incarnated. And because this manifold perfection does not only regard the state of fallen nature, but rather also regards the state of nature well[^18] instituted; therefore, if man had not fallen, God would nonetheless have been incarnated, because it was thus fitting that man be perfect both according to nature and according to grace and according to glory, just as if he were in the fallen state, and in a certain way more so, even[^19] according to this opinion. — And those who follow this opinion concede the reasons which are adduced for this part. But the reasons to the contrary and the authorities they evade by this, that they say these are to be understood according as the incarnation is called the assumption of mortal and passible flesh. For Scripture, and the Saints[^20], speak of the incarnation according to that mode which was after the fall, not according to that mode which would have been, with man persisting in the state of innocence.
+
+But the opinion of others was that the principal reason for the incarnation is the reparation of the human race, although there are many other reasons of fittingness annexed to this[^21]. For this is the principal one with respect to all, because, unless the human race had fallen, the Word of God would not have been incarnated. — And the reason for this is that the incarnation of God is of a surpassing condescension; and therefore, since there is therein a certain excess, the mystery of the incarnation would not have been introduced, unless an opposite excess, to be corrected and restored through it, had preceded. Hence, unless God had lost his sheep, he would not have descended from heaven to earth[^22].
+
+But which of these modes of speaking is truer, he knows who deigned to be incarnated for us. And which of them is to be preferred to the other is difficult to see, for the reason that each mode is catholic and is upheld by catholic men. Each mode too rouses the soul to devotion according to diverse considerations.
+
+But the first mode seems to accord more with the judgment of reason; the second, however, as it appears, accords more with the piety of faith: first, because it agrees more with the authorities of the Saints and of Sacred Scripture. For both the New and the Old Testament[^23], where they speak of the descent of the Son of God, render the freeing of the human race as the reason, which is plain by going through them one by one. The Saints too say this, as is plain in the authorities set down above. And therefore, if the divine words assign the noblest and principal reason for the incarnation, and nothing is even to be said by us beyond those things which have become clear to us from the Sacred Words[^24]; it seems more consonant with the piety of faith that the principal reason for the incarnation be the freeing of the human race, than to think otherwise. And this Augustine openly says in the book *On the Words of the Apostle,* in the seventieth sermon[^25], treating that passage of Matthew, eighteenth chapter: *For the Son of Man came to save that which had perished:* « If man had not perished, the Son of Man would not have come ». And more expressly in the same place, treating that passage of the first to Timothy, first chapter[^26]: *He came into this world to save sinners:* « For no other cause than to save sin-
+
+ners ». And in the same place he says much pertaining to this. And in that prayer which begins: *O aromatic cell*[^27], which is said to be Augustine's, this very thing is held most expressly. To this also agree the words of Bernard[^28] and the Gloss on the said passage of the Epistle to Timothy.
+
+Secondly, the aforesaid mode agrees more with the piety of faith, because it honors God more than the preceding. For the preceding says that it befitted God to be incarnated for the perfection of the universe; and therefore in a certain way it encloses God within the perfection of the universe and posits a certain necessity of the incarnation upon him, when it says that his works are not otherwise[^29] brought to perfection. But this mode of speaking, when it says that the mystery of the incarnation is above all perfection, posits that Christ is above all perfection of the universe, whether as to nature, or as to grace, or as to glory. And in this it does rightly; because, as the Philosopher says in the eleventh book[^30] of the *First Philosophy,* God is to be placed above the whole order of the universe, just as a general is said to be not of the army, but above the army.
+
+Thirdly, this mode of speaking commends the mystery of the incarnation more, when it says that this mystery is so great that it ought not to have been done except from the greatest cause, namely on account of appeasing the divine wrath and restoring all things, *whether those which are in the heavens, or those which are on earth*[^31]. And therefore they say that so great a mystery would not have been introduced, unless the fall of the noblest creature and the offense against the divine majesty had preceded.
+
+Fourthly, it also more inflames faithful affection. For it more rouses the devotion of the faithful soul that God was incarnated to blot out one's sins[^32] than on account of consummating works already begun.
+
+Since, therefore, this mode of speaking, even if it does not seem to be so subtle as the preceding, accords more with the piety of faith, in this that it agrees more with the authorities of the Saints, and honors God more, also commends the mystery of the incarnation more, and more ardently inflames our affection: therefore it must be conceded, as the aforesaid authorities and reasons show, that the principal reason for the incarnation was the redemption of the human race, although many other reasons of fittingness are annexed to this reason.
+
+1. To that which is first objected to the contrary, that he assumed the whole man, that he might beatify the whole; it must be said that this is not the principal reason, but one annexed to the principal, for the reason that, even if God had never been incarnated, man, by the glorification of his body and the vision of God, would be perfectly and totally beatified. For the corporeal vision of Christ pertains not to the essential completion of beatitude, but to a certain accidental joy. And this is plain, because the other senses are beatified, like sight, and yet will not have objects corresponding to them, like touch, taste[^33]. — Moreover, the gaze of Christ will be no less blessed turned toward beholding other bodies, than the gaze of others turned toward beholding his body. For the glory of the exterior senses will be by a redundance of the delight coming from the higher part, from the vision of God, whose vision so refreshes, when it perfectly appears, that nothing further is necessary to the soul for its beatitude; since every other good and beautiful thing, compared to that, is as it were nothing, nor can it intend the essential joy. — Hence he seems greatly to derogate from the highest Good who says that it does not suffice, without a created good joined to it, to beatify man perfectly, unless he says this comes about on account of an imperfection of the sense, which cannot reach to it[^34]. But then many things will stand in the way, whether by reason of the other senses, which do not have their objects, like sight, and yet are perfectly beatified; or by reason of the gaze of Christ, who looks upon the other Saints; or also by reason of the perfection of beatitude, which does not make man beg anything extrinsically; or also, because the opposite could not be understood, that a glorified man could be absent from the presence of Christ without detriment to his glory.
+
+2. To that which is objected, that in human nature[^35] there is given a fittingness or aptitude for the incarnation; it must be said that that aptitude is regarded principally on the part of man's reparability, although by reason of dignity and the other conditions it is regarded in some way; and therefore, just as man would not have been repaired, had he not fallen, although he was reparable; so he would not have been united to the Divinity, although he was unitable. Yet that potency[^36] would not have been in vain, because there are many potencies and aptitudes which are not brought to act; nor yet are they in vain, because they attest to the nobility and dignity of the nature. Nor is a potency called in vain if it is not reduced to act; but then it is in vain, when it is not reduced to act, and yet time and place demand that it be reduced to act.
+
+3. To that which is objected, that it befits God's power and wisdom to be manifested in the state of innocence; it must be said that he manifested himself sufficiently enough through the work of creation and distinction and adornment: and therefore if those had persisted, since they were very good[^37], it would not have been necessary to add a new mode of acting for the manifestation; just as miraculous works were done after man's fall, which it was not necessary to do before, because God's power, wisdom and goodness was known and shone forth sufficiently in his effects. But now it is fitting and becoming that God do many works miraculously for the manifestation of his power and the confirmation[^38] of our faith. So
+
+too in the matter at hand it must be understood, as the Saints say, that because man through sin had his interior light darkened and had been turned toward sensible things and loved them; therefore the invisible God was made visible according to the flesh, that through visible things he might lead back to the knowing and loving of invisible things. And this is what Gregory says in a certain Preface[^39]: « That while we visibly know God, we may through him be caught up into love of invisible things ».
+
+4. To that which is objected, that it is as difficult to merit eternal life as to make satisfaction for an offense; it must be said that this is false, because for the merit of eternal life the complacency on the part of the one meriting suffices, and for this complacency the divine grace suffices. And because man could have divine grace through the mission of the Holy Spirit and of the Son into the mind without the mission of the Son into the flesh[^40]; hence it is that for the perfection of the merit of eternal life it was not necessary that the incarnation intervene. — But for making satisfaction it is required not only that the one satisfying be pleasing, but that he be able to recompense the harm and restore to God the honor taken away, as will be seen better below[^41]; and therefore there was not so great a necessity of the incarnation on account of the necessity of meriting, as on account of the necessity of making satisfaction. And that this is true is plain in the angels, whose nature is not united to the Word, and yet they merited eternal life. — Moreover, granted that it be of such great difficulty, yet it is not necessary that on account of this an incarnation be necessary, for the reason that the Holy Spirit himself, who through charity moves the soul, makes it worthy of everlasting glory. Hence neither comes about without the mission of some person; but for making satisfaction the mission into the flesh is necessary, because, as will be plain below, the most fitting mode of making satisfaction was through death and passion, just as the most fitting mode is for meriting through charity and love.
+
+5. To that which is objected, that the soul of Christ ought to have been brought forth by a principal intention; it must be said that God — because from eternity he foreknew the fall of the human race — therefore did it, because he knew he would recover it[^42], and therefore the reparation of the fallen was more principally in his intention than its condition possible-to-fall. And on account of this it does not follow that God did not predestine Christ principally, just as also the others, indeed much more principally. For this would hold, if God in the condition of the human race had not foreknown their fall; for then it would have followed as it were beside intention.
+
+6. To that which is objected, that human nature is exalted on account of the incarnation; it must be said that it is without doubt true; but from this it does not follow that it derived advantage from wickedness, because this came about not from its wickedness, but from the highest divine benignity and wisdom. For because God's wisdom overcomes wickedness[^43], hence it is that he does not allow any evil to exist from which he does not draw forth a good, and even a greater good; otherwise he would not perfectly overcome wickedness. And therefore against the transgression of Adam, who slew the whole human race, he established the rectitude of the second Adam, who could make satisfaction for the whole human race, and whose obedience would please him much more than the disobedience of the first Adam could displease[^44]. — Likewise this came about from the divine goodness, by which God is full of love and mercy. And therefore for those who love him, whom he called Saints according to his purpose, he makes all things work unto good for them[^45]; hence our wickedness did not cause the Son of God to be incarnated, but God's exceeding charity and mercy, according to what was said in the authority set down before: *But God, who is rich in mercy, on account of his exceeding charity* etc.
+
+7. To that which is objected, that Christ is the head of the Church according to his human nature; it must be said that there is a twofold property of the head: one, which is regarded according to conformity to the members; the other, which is regarded according to the inflowing of gratuitous gifts. By reason of the first property Christ is the head insofar as he is man; by reason of the second Christ is the head insofar as he is God, and by reason of this he principally holds the account of head[^46]. And therefore, granted that he were not incarnated, the Church would still not lack a head; because the head of the man would be God, and so the Church of men would have God as head, just as the Church of the angels has. And therefore it does not follow that the body of the Church would be headless, although it would not have a head according to every property which it has now; for it would then have God as head, just as now the Church of the angels has.
+
+8. To that which is objected, that matrimony signifies the joining of the natures; it must be said that matrimony has a twofold signification. For it signifies the joining of God to the Church according to charity, and it also signifies the joining according to the union in the unity of the person[^47]; and it has both of these significations according to the state of the fall, but it would have had the other, had man stood firm; and therefore it would not be a false sign. For just as matrimony is now for *duty* and *remedy,* but then would have been only for *duty;* so matrimony now has a twofold signification, but then would have had one.
+
+9. To that which is objected, that there is a fourfold mode of the production of men; it must be said that that fourth mode of producing man is not *of* the perfection of the universe, but *above* the perfection of the universe. And therefore Jeremiah[^48] calls it new, when he says: *The Lord will make a new thing upon the earth;* but this new thing the Lord would not have done, unless some oldness had preceded. And therefore it does not follow that, if man had stood firm, such a mode of producing man would even[^49] be. Nor from this does it follow that the universe would lack its perfection; just as also no imperfection of the universe can be argued as to the raising of the dead, which God would not have done, had man persisted. — It could also be said that from that mode of production the truth of the incarnation cannot be argued, because God could produce a man from a woman without a man, who nonetheless would not be God.
+
+Now all these things are said without prejudice; for I do not wish to constrain the goodness of God, but to commend[^50] the excess of his charity toward fallen man, that our affections may be roused to loving him, while we attend to the excess of his exceeding love.
+
+### Scholion
+
+**I.** As of all the divine works, so also of the incarnation the principal and ultimate end on the part of God who works is the manifesting of his own glory (cf. II Sent. d. I. p. II. a. 2. q. I.). This question, therefore, is to be understood concerning the principal reason on the part of things, or concerning the end of the *work,* namely whether the adequate reason was the remedy of sin (yet without the other goods intended being excluded), or the very excellence of this mystery with the very many goods for the human race and the whole universe resulting from it. The same problem is commonly proposed in the schools thus: whether, if man had not sinned, the Word would have been incarnated. For the response to this other formula follows as a corollary from the solution of the prior question. — We fall here upon a most celebrated controversy, agitated for centuries especially between the school of the Thomists and the Scotists and not yet determined, in which many subtle things concerning the predestination of Christ and the order of the divine decrees used to be brought forward. Concerning it let the more recent authors be consulted, of whom some, with Scotus, St. Bernardino, St. Francis de Sales, and the eminent theologian Suárez, deny that the principal and adequate reason for the incarnation is the redemption of the human race; but others, with the Thomists, affirm this. Nevertheless, in the explanation and confirmation of each opinion the authors enter upon various paths.
+
+We observe here only, first, that the controversy is not whether, with man not sinning, the incarnation would be possible, or even would remain sufficiently congruous to the divine attributes (which no one denies), but it is asked *as a matter of fact,* or rather *of what would be done,* and indeed with the present providence standing and by the force of the divine decree already established, not by the force of another decree which God could have made, had Adam not sinned. For who would wish to determine what God would do under another providence?
+
+Secondly, we observe that the ancient Scholastics and all the weightier authors agree with St. Bonaventure in this, that even to the question thus understood one cannot respond except according to greater probability. Hence St. Thomas (here d. I. q. 1. a. 3.) warns in nearly the same words as St. Bonaventure, « that the truth of this question can be known only by him who was born and offered up because he willed »; whence in the same place he affirms also that the other opinion can be probably sustained; and likewise in his Summa theol. (III. q. I. a. 3.) of the opinion which he himself prefers he says only: « To this assertion it seems one should rather assent », and a little below, « it is more fittingly said » etc. Similarly speak those who favor the opinion of Scotus, such as Blessed Albert and Scotus himself, who (Comment. Oxon. III Sent. d. 7. q. 3. n. 3.) begins to set forth his opinion thus: *Without prejudice it can be said* etc. Richard of Middleton, however, brings forward each opinion with its arguments and inclines to neither. For the same opinion Alexander of Hales is also commonly cited, but, as the distinguished Dr. Scheeben has already observed (Handb. der Kathol. Dogmatik, t. III. p. 884), without a sufficiently firm foundation, since he himself responds to another state of the question. For he asks only concerning the fittingness of the incarnation, with man not sinning, and resolves thus: « Without prejudice it must be conceded that even if the nature had not fallen, there would still be a fittingness for the incarnation ». Nor in that response does he determine anything else, nor in the arguments themselves does he conclude anything other than fittingness, except in the first, where he truly argues from congruity, that « granted that it itself were not fallen, the highest good would still be united ». But it is established, even according to Alexander, that from the mere congruity of some good, and even of an optimal good, one cannot rightly argue that this is to be done by God. On the other hand, no one has denied that, with Adam not sinning, the incarnation would still have been both possible and even fitting and congruous, had it pleased God to will it. — How wisely and piously St. Bonaventure treats this whole question and resolves it according to the mind of the Angelic Doctor is plain from the text.
+
+**II.** Alex. Hal., S. p. III. q. 2. m. 13. — Scot., loc. cit. and d. 19. q. unic. n. 6; Report. III Sent. d. 7. q. 4. n. 4. — St. Thom., loc. cit. — Bl. Albert, III Sent. d. 20. a. 4. — Petr. a Tar., here q. I. a. 2. — Richard of Middleton, here a. 2. q. 4. — Dionysius the Carthusian, here q. 2. — Biel, III Sent. d. 2. q. unica, at the end.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note in Latin (**La.**) followed by an English rendering (**En.**).
+
+[^1]: **La.** Vers. 4. 5: At ubi venit plenitudo etc.
+    **En.** Verses 4–5: But when the fullness came, etc.
+
+[^2]: **La.** Vers. 14. Cod. K etiam verba dat, cum quibus hic versus incipit: Quia pueri communicaverunt carni et sanguini, et ipse similiter etc. Seq. locus Script. est ibid. v. 16. — Glossa, quae est ordinaria, habetur apud Strabum et Lyranum.
+    **En.** Verse 14. Codex K also gives the words with which this verse begins: Because the children have shared in flesh and blood, and he likewise, etc. The following Scripture passage is in the same place, v. 16. — The Gloss, which is the ordinary one, is found in Strabo and Lyranus.
+
+[^3]: **La.** Supple eum Vat. aliud. — De definitione causae hic proposita agit Avicenna, IV. Metaph. c. I. — Vat., pro Sed illud substituto Si ergo, mox post removetur addit est causa, et dein cum edd. 1, 2 prosequitur et redemptio assignatur... et praecipua incarnationis, videtur quod etc. Codd. A E in conclusione omittunt facta.
+    **En.** Supply: it; the Vatican edition otherwise. — Of the definition of cause proposed here Avicenna treats, IV Metaph. c. 1. — The Vatican edition, for *Sed illud* substituting *Si ergo,* soon after *removetur* adds *est causa,* and then with editions 1, 2 continues *et redemptio assignatur... et praecipua incarnationis, videtur quod* etc. Codices A E omit *facta* in the conclusion.
+
+[^4]: **La.** Psalm. 68. 3. — Verba Augustini inveniuntur in eius Enarrat. in hunc Ps., serm. I. n. 5, ubi tamen ed. Maurina pro in limo exhibet in illo, quae lectio in eodem sensu videtur intelligenda. Sequitur enim: Porro autem, quia per iniquitatem homo lapsus est a substantia, in qua factus est... venit Filius Dei ad limum profundi et infixus est. — Post in Psalmo cod. K addit loquitur Christus. Paulo inferius pro facta non fuisset codd. H Ii bb facta non esset.
+    **En.** Psalm 68:3. — Augustine's words are found in his Enarration on this Psalm, serm. 1, n. 5, where however the Maurist edition for *in limo* gives *in illo,* a reading which seems to be understood in the same sense. For it follows: Moreover, because through iniquity man has fallen from the substance in which he was made... the Son of God came to the mire of the deep and was stuck fast. — After *in Psalmo* cod. K adds *loquitur Christus.* A little below, for *facta non fuisset* codd. H Ii bb read *facta non esset.*
+
+[^5]: **La.** Vers. 3. — Dictum Augustini habetur loc. cit. tr. 49. n. 5.
+    **En.** Verse 3. — The saying of Augustine is in the cited place, tract. 49, n. 5.
+
+[^6]: **La.** Quod probatum est II. Sent. d. I. p. II. a. 2. q. 2. — Vocem natura ante angelica restituimus ex codd. P Q bb. Mox post angelicam codd. K bb supplent quam humanam. Circa initium arg. cod. X post secundum aut repetit hoc fuit propter humanam.
+    **En.** Which was proved in II Sent. d. I. p. II. a. 2. q. 2. — We have restored the word *natura* before *angelica* from codd. P Q bb. Soon after *angelicam* codd. K bb supply *quam humanam.* Near the beginning of the argument cod. X after *secundum aut* repeats *hoc fuit propter humanam.*
+
+[^7]: **La.** Cfr. August., VII. de Civ. Dei, c. 31. — Paulo ante pro eius liberatione cod. T substituit casus liberatione, et circa initium arg. post maximae gratiae codd. P Q V subiiciunt et.
+    **En.** Cf. Augustine, VII *On the City of God,* c. 31. — A little before, for *eius liberatione* cod. T substitutes *casus liberatione,* and near the beginning of the argument after *maximae gratiae* codd. P Q V add *et.*
+
+[^8]: **La.** Cap. 9. Verba ipsa August. vide supra pag. 19, nota 5. Paulo inferius post Deus esset cod. I7 inserit nihilominus.
+    **En.** Chapter 9. See Augustine's very words above on p. 19, note 5. A little below, after *Deus esset* cod. I7 inserts *nihilominus.*
+
+[^9]: **La.** Vers. 16. Glossa, quae est ordinaria et secundum Alcuinum in hunc loc., apud Strabum et Lyranum sic sonat: Non angelicae, sed humanae naturae data est haec dignitas, ut Deus ei in unam personam iungeretur.
+    **En.** Verse 16. The Gloss, which is the ordinary one and, according to Alcuin on this passage, is found in Strabo and Lyranus, reads thus: It was given not to the angelic, but to the human nature, that this dignity be, that God be joined to it in one person.
+
+[^10]: **La.** Codd. M 0 bonitatem.
+    **En.** Codd. M O: *bonitatem* (goodness).
+
+[^11]: **La.** Cod. N dignitatis. Subinde pro vindicare codd. M 0 unire, et post pauca pro si ergo iidem codd. sicut ergo. Mox pro pro se Vat. per se, et paulo inferius pro potest mereri eadem Vat. poterat mereri. Deinde pro homine cadente, ut pro homine satisfaceret, sic videtur, quod codd. M 0 homine lapso, ut homo posset satisfacere pro offensa, sic opportunum etc.
+    **En.** Cod. N: *dignitatis.* Then for *vindicare* codd. M O read *unire,* and a little after for *si ergo* the same codd. read *sicut ergo.* Soon for *pro se* the Vat. reads *per se,* and a little below for *potest mereri* the same Vat. reads *poterat mereri.* Then for *homine cadente, ut pro homine satisfaceret, sic videtur, quod* codd. M O read *homine lapso, ut homo posset satisfacere pro offensa, sic opportunum* etc.
+
+[^12]: **La.** Cfr. I. Sent. d. 46. q. 3. in corp. Pro confirmatione etiam allegari solet illud Iren., III. contra Haereses, c. 22 (alias c. 32.) n. 3: Quoniam futuram circa Filium Dei humani generis dispositionem in semetipsum Fabricator omnium Verbum praeformaverat, praeformante Deo primum animalem hominem, videlicet ut a spirituali salvaretur. Cum enim praeexisteret salvans, oportebat et quod salvaretur fieri, ut non vacuum sit salvans. — Simili arg. usus est Cyrill. Alex., Thesaur. assert. 13. (alias lib. V. c. 3.) contra Arianos, divinitatem Filii Dei negantes.
+    **En.** Cf. I Sent. d. 46. q. 3. in the body. For confirmation there is also wont to be alleged that of Irenaeus, III *Against Heresies,* c. 22 (otherwise c. 32) n. 3: Since the Maker of all, the Word, had preformed in himself the future disposition of the human race concerning the Son of God, God preforming the first animal man, namely that he might be saved by the spiritual one. For since the one who saves preexisted, it was necessary also that the one to be saved come to be, that the savior not be void. — A similar argument Cyril of Alexandria used, Thesaur. assert. 13 (otherwise bk. V c. 3) against the Arians who denied the divinity of the Son of God.
+
+[^13]: **La.** Tract. 66. n. 2: « Per quid autem caput est Ecclesiae nisi per hominem, quod Verbum caro factum est? id est, Dei Patris Unigenitus Deus homo factus est ». In Epist. I. Ioan. tr. I. n. 2. dicit: Verbum caro factum est et habitavit in nobis. Illi carni adiungitur Ecclesia, et fit Christus totus, caput et corpus. Cfr. de Catech. rudib. c. 3. n. 6. et c. 19. n. 33, nec non infra d. 13. a. 2. q. I. — Christus caput Ecclesiae vocatur Eph. I, 22; 5, 23; Coloss. I, 18.
+    **En.** Tract. 66, n. 2: « But through what is he the head of the Church except through man, in that the Word was made flesh? that is, the Only-begotten God of God the Father was made man ». In Epist. I John, tr. 1, n. 2, he says: The Word was made flesh and dwelt among us. To that flesh the Church is joined, and the whole Christ comes to be, head and body. Cf. *On Catechizing the Uninstructed* c. 3. n. 6. and c. 19. n. 33, and also below d. 13. a. 2. q. I. — Christ is called the head of the Church at Eph. 1:22; 5:23; Col. 1:18.
+
+[^14]: **La.** Quadruplex modus educendi hominem in esse, de quo in hoc arg. sermo est, memoratur in opusculo, cui titulus: Sermones ad fratres in eremo (inter opera August.), serm. 28, nec non in Anselmi libro Cur Deus homo, II. c. 8, ubi etiam pro secundo modo in exemplum subiicitur creatio Adae, pro tertio productio Evae.
+    **En.** The fourfold mode of bringing man into being, of which there is discourse in this argument, is mentioned in the little work entitled *Sermons to the Brothers in the Hermitage* (among the works of Augustine), serm. 28, and also in Anselm's book *Cur Deus homo,* II. c. 8, where also for the second mode the creation of Adam is adduced as an example, for the third the production of Eve.
+
+[^15]: **La.** Nonnulli codd. et Vat. addunt et mortalitatis.
+    **En.** Some codd. and the Vat. add *et mortalitatis* (and of mortality).
+
+[^16]: **La.** Cod. N homo peccasset et non redimendus esset.
+    **En.** Cod. N: *homo peccasset et non redimendus esset.*
+
+[^17]: **La.** Supple eum. — Cod. bb annectit quidem.
+    **En.** Supply: it. — Cod. bb appends *quidem.*
+
+[^18]: **La.** In edd. deest bene, cuius loco cod. bb exhibet conditae et.
+    **En.** In the editions *bene* is lacking, in whose place cod. bb gives *conditae et.*
+
+[^19]: **La.** In cod. Q deest et; Vat. voculae et, pro qua a cod. S ponitur etiam, adiungit haec. Paulo superius post secundum gloriam cod. Z supplet in statu ante lapsum. Paulo inferius pro Et qui codd. P bb habent Illi qui.
+    **En.** In cod. Q *et* is lacking; the Vat. adds *haec* to the particle *et,* in place of which cod. S puts *etiam.* A little above, after *secundum gloriam* cod. Z supplies *in statu ante lapsum.* A little below, for *Et qui* codd. P bb read *Illi qui.*
+
+[^20]: **La.** Pro Sancti in edd. legitur littera. Cod. A Loquuntur enim Scripturae et Sancti.
+    **En.** For *Sancti* the editions read *littera.* Cod. A: *Loquuntur enim Scripturae et Sancti.*
+
+[^21]: **La.** Ut exaltatio naturae humanae, exemplum pro nobis recte vivendi, quoddam complementum universi etc. — Paulo inferius pro superexcedentis cod. A superexcellentis.
+    **En.** As the exaltation of human nature, an example for us of living rightly, a certain complement of the universe, etc. — A little below, for *superexcedentis* cod. A reads *superexcellentis.*
+
+[^22]: **La.** Respicitur Matth. 15, 24; 18. 12, seqq.; Luc. 15, 4. seqq. — Mox pro verior edd. melior.
+    **En.** Reference is made to Matt. 15:24; 18:12 ff.; Luke 15:4 ff. — Soon for *verior* the editions read *melior.*
+
+[^23]: **La.** Cfr. praeter locc. in nota praeced. et in I. fundam. citt. Ps. 39, 7. seqq. (respective Hebr. 10, 5.); Matth. I, 21; 9, 13; Luc. 19, 10; Ioan. 10, 10; I. Tim. I, 15. — Paulo superius cod. X verbo concordat praemittit consonat seu.
+    **En.** Cf., besides the places cited in the preceding note and in the first argument, Ps. 39:7 ff. (respectively Heb. 10:5); Matt. 1:21; 9:13; Luke 19:10; John 10:10; 1 Tim. 1:15. — A little above, cod. X prefixes *consonat seu* to the word *concordat.*
+
+[^24]: **La.** Dionys., de Div. Nom. c. I. § I: Non est autem audendum aliquid dicere vel cogitare de supersubstantiali et occulta Divinitate praeter ea quae nobis per sacras Scripturas de Deo divinitus sunt expressa (versio abbatis Vercellensis). — Paulo superius post assignant edd. 1, 2 supplent generis humani liberationem.
+    **En.** Dionysius, *On the Divine Names* c. 1, § 1: But nothing is to be dared to be said or thought about the supersubstantial and hidden Divinity beyond those things which have been divinely expressed to us about God through the Sacred Scriptures (the version of the abbot of Vercelli). — A little above, after *assignant* editions 1, 2 supply *generis humani liberationem.*
+
+[^25]: **La.** Nunc Serm. 174. (alias 18. de Verbis Apostoli) c. 2. n. 2. — Locus Script. est loc. cit. v. II, ubi Vulg. pro salvum facere exhibet salvare. Cfr. Luc. 19, 10.
+    **En.** Now Sermon 174 (otherwise 18, *On the Words of the Apostle*) c. 2. n. 2. — The Scripture passage is in the cited place, v. 11, where the Vulgate for *salvum facere* gives *salvare.* Cf. Luke 19:10.
+
+[^26]: **La.** Vers. 15. — Verba August. haec sunt (loc. cit. c. 7. n. 8.): « Quare venit in mundum? Peccatores salvos facere. Alia causa non fuit, quare veniret in mundum. Non eum de caelo ad terram merita nostra bona, sed peccata duxerunt. Haec est causa, cur veniret, peccatores salvos facere ». Idem elicit ibid. ex significatione nominis Iesu (ipse enim salvum faciet populum suum a peccatis eorum, Matth. I, 21.). Similiter in Serm. 175. (alias 9. de Verbis Apostoli) c. I. n. 1. ait: « Nulla causa fuit veniendi Christo Domino, nisi peccatores salvos facere »; quae verba edd. hic afferunt loco eorum quae nos cum codd. exhibemus. Libr. I. de Peccat. meritis et remiss. etc., c. 26. n. 39. dicit, Christum non aliam ob causam in carne venisse... nisi ut... omnes... vivificaret, salvos faceret, liberaret, redimeret etc. — Pro ibidem, tractans et paulo inferius pro ibidem plura edd. substituunt idem tractans et idem plura.
+    **En.** Verse 15. — Augustine's words are these (cited place, c. 7. n. 8): « Why did he come into the world? To save sinners. There was no other cause why he came into the world. It was not our good merits, but sins, that drew him from heaven to earth. This is the cause why he came, to save sinners ». The same he draws out in the same place from the meaning of the name Jesus (for he himself will save his people from their sins, Matt. 1:21). Similarly in Serm. 175 (otherwise 9, *On the Words of the Apostle*) c. 1. n. 1, he says: « There was no cause of the coming of Christ the Lord, except to save sinners »; which words the editions adduce here in place of those which we, with the codices, give. In bk. I *On the Merits and Remission of Sins* etc., c. 26. n. 39, he says that Christ came in the flesh for no other cause... except that... he might... vivify, save, free, redeem all etc. — For *ibidem, tractans* and a little below for *ibidem plura* the editions substitute *idem tractans* and *idem plura.*
+
+[^27]: **La.** Edd. A cella, contradicentibus plurimis codd. — Haec oratio non invenitur in editione Augustini. Videtur autem denotari quaedam longior oratio ad sanctissimam Virginem Mariam, quae Monachii in bibl. regia exstat in Cod. Lat. Man. 3974 f. 99, B. Augustino inscripta, quae quidem incipit, non ut dicit auctor noster, sed verbis: « Tibi, O piissima Virgo virginum ». Tamen in decursu ipsius quaedam pars incipit: « Tu enim, Domina, cella es aromatica, ex qua vulnerum nostrorum medicina ad vulnera nostra defluxit ». Reapse praedicta doctrina in eadem « habetur expressissime », cum ibi legatur: « Si enim non praecessisset mea transgressio, non fuisset subsecuta nostra redemptio; et si necessarium non fuisset redimi, non fuisset necessarium parere redemptorem. Ut quid enim nescium peccati pareres pro peccatoribus, si deesset qui peccasset? Ut quid mater fieres Salvatoris, si nulla indigentia esset salutis?... Per te, inquam, Domina, per te caelestis medici medicina affluxa... fluxa nostra defluxit; et si non inveniret in homine idem medicus quod curaret, matrem te habere non curaret. Causa igitur necessitatis nostrae necessitas exstitit profectionis tuae ».
+    **En.** Editions A: *cella,* against very many codd. — This prayer is not found in the edition of Augustine. There seems, however, to be denoted a certain longer prayer to the most holy Virgin Mary, which exists at Munich in the royal library in Cod. Lat. Man. 3974 f. 99, inscribed to Blessed Augustine, which indeed begins not as our author says, but with the words: « To you, O most pious Virgin of virgins ». Yet in its course a certain part begins: « For you, Lady, are an aromatic cell, from which the medicine of our wounds flowed down to our wounds ». And in fact the aforesaid doctrine « is held most expressly » in it, since there it reads: « For if my transgression had not preceded, our redemption would not have followed; and if it had not been necessary to be redeemed, it would not have been necessary to bear the redeemer. For why would you, knowing nothing of sin, bear for sinners, if there were no one who had sinned? Why would you become the mother of the Savior, if there were no need of salvation?... Through you, I say, Lady, through you the medicine of the heavenly physician flowed... our flowing flowed down; and if the same physician did not find in man that which he might cure, he would not care to have you as mother. The cause, therefore, of our necessity was the necessity of your coming forth ».
+
+[^28]: **La.** In Tract. de erroribus Abaelardi, c. 5. n. 11. seqq. et c. 9. n. 23 seqq., ubi Abaelardum refutat ponentem, quod « nec Filius Dei, ut hominem liberaret, carnem assumsit ». Et in Serm. I. de Adventu Domini, n. 7. dicit: Nec sane laborandum est in hac parte [ad quid scil. venerit], cum manifeste adventus eius causam et verba ipsius et opera clament. Ad quaerendam quippe ovem centesimam, quae erraverat, de montibus properavit etc. Cfr. Liber ad milites templi, c. 11. n. 27. — Glossa hic memorata (super I. Tim. I, 15.), quae est ordinaria et habetur apud Strabum et Lyranum, exhibet verba Augustini allata supra pag. 24, nota 10.
+    **En.** In the *Tract on the errors of Abaelard,* c. 5. n. 11 ff. and c. 9. n. 23 ff., where he refutes Abaelard who held that « neither did the Son of God assume flesh in order to free man ». And in Serm. 1 *On the Advent of the Lord,* n. 7, he says: Nor indeed must one labor in this matter [namely, for what he came], since the cause of his advent both his own words and his works manifestly proclaim. For he hastened from the mountains to seek the hundredth sheep, which had strayed, etc. Cf. *Book to the Knights of the Temple,* c. 11. n. 27. — The Gloss mentioned here (on 1 Tim. 1:15), which is the ordinary one and is found in Strabo and Lyranus, gives the words of Augustine adduced above on p. 24, note 10.
+
+[^29]: **La.** In codd. A E F G H (K L Z a prima manu) S T U V et aliis desideratur aliter.
+    **En.** In codd. A E F G H (K L Z by the first hand) S T U V and others *aliter* is lacking.
+
+[^30]: **La.** Alias XII. Metaph. text. 32. Ab Averroe, qui, sicut et Albert. Magnus, librum praecedentem (sibi fortasse ignotum?) non est commentatus, hic liber ut XI. numeratus est. Pariter in recentioribus edd., Berolinensi (Bekker) scilicet et Parisiensi (Firmin-Didot), numerum XI. habet, sed alia ex causa, quia nempe in his edd. libri I. et II. Metaph. (iuxta antiquiorem divisionem) in unum contracti sunt. Dictum Philosophi, quod hic memoratur, habetur ibi XI. c. 10, quo loco Philosophus agens de bono universi ostendit, duplicem esse bonum universi: unum separatum, scil. primum movens sive Deum; alterum intrinsecum, scil. ordinem partium universi, sicut duplex sit bonum in exercitu; « etenim bene esse eius in ordine et dux ipse est, ac magis ipse; non enim ipse propter ordinem, verum ordo propter ipsum ».
+    **En.** Otherwise XII Metaph. text. 32. By Averroes, who, like Albert the Great too, did not comment on the preceding book (perhaps unknown to him?), this book is numbered as the eleventh. Likewise in the more recent editions, namely the Berlin (Bekker) and the Paris (Firmin-Didot), it has the number XI, but for another cause, namely because in these editions books I and II of the Metaphysics (according to the older division) have been contracted into one. The saying of the Philosopher mentioned here is found there at XI c. 10, in which place the Philosopher, treating of the good of the universe, shows that the good of the universe is twofold: one separated, namely the first mover or God; the other intrinsic, namely the order of the parts of the universe, just as the good in an army is twofold; « for indeed its well-being is in the order, and the general himself is too, and rather he himself; for he is not on account of the order, but the order on account of him ».
+
+[^31]: **La.** Eph. 1, 10.
+    **En.** Eph. 1:10.
+
+[^32]: **La.** Vat. nostra, quae et mox cum edd. 1, 2 pro opera inchoata exhibet inchoata opera sua. Paulo superius pro Plus enim codd. A B C D E N T r X perperam substituunt Plus etiam.
+    **En.** The Vat. reads *nostra,* which also soon, with editions 1, 2, for *opera inchoata* gives *inchoata opera sua.* A little above, for *Plus enim* codd. A B C D E N T r X wrongly substitute *Plus etiam.*
+
+[^33]: **La.** Cfr. IV. Sent. d. 19. p. II. art. princip. I. n. 3. q. I., ubi et de seq. ratione videsis. — Paulo inferius pro corpus ipsius cod. T corpus Christi. Post pauca pro delectationis cod. A dulcedinis, codd. E G H L M U Z dilectionis.
+    **En.** Cf. IV Sent. d. 19. p. II. art. princip. 1. n. 3. q. I., where you may also see concerning the following reason. — A little below, for *corpus ipsius* cod. T reads *corpus Christi.* Shortly after, for *delectationis* cod. A reads *dulcedinis,* codd. E G H L M U Z *dilectionis.*
+
+[^34]: **La.** Vide August., XXII. de Civ. Dei, c. 29. n. 2. seqq. et IV. Sent. d. 49. p. I. q. 3.
+    **En.** See Augustine, XXII *On the City of God,* c. 29. n. 2 ff. and IV Sent. d. 49. p. I. q. 3.
+
+[^35]: **La.** Cod. K quod humanae naturae. Paulo inferius pro aliquo modo attenditur codd. H K bb aliquo modo attendatur.
+    **En.** Cod. K: *quod humanae naturae.* A little below, for *aliquo modo attenditur* codd. H K bb read *aliquo modo attendatur.*
+
+[^36]: **La.** Cfr. tom. I. pag. 771, nota 1. — S. Thom., hic q. 1. a. 3. ad 4, eandem solvens obiectionem, communem adhibet distinctionem potentiae sive capacitatis in creatura, scil. secundum potentiam naturalem (quam Deus vacuam non dimittit in genere, quamvis respectu alicuius particularis creaturae non impleatur propter aliquod impedimentum) et secundum potentiam obedientiae, cuiusmodi est capacitas humanae naturae ad dignitatem incarnationis; nec oportet, quod Deus omnem talem impleat, sicut non oportet, quod Deus faciat quodcumque potest, sed quod congruit ordini sapientiae eius. — Mox pro non perducuntur cod. K nunquam ducuntur.
+    **En.** Cf. tom. I. p. 771, note 1. — St. Thomas, here q. 1. a. 3. ad 4, solving the same objection, applies the common distinction of potency or capacity in the creature, namely according to natural potency (which God does not leave void in general, although with respect to some particular creature it is not fulfilled on account of some impediment) and according to obediential potency, of which kind is the capacity of human nature for the dignity of the incarnation; nor is it necessary that God fulfill every such potency, just as it is not necessary that God do whatever he can, but what befits the order of his wisdom. — Soon for *non perducuntur* cod. K reads *nunquam ducuntur.*
+
+[^37]: **La.** Gen. 1, 31: Viditque Deus cuncta quae fecerat, et erant valde bona. — In principio solut. post sapientiam codd. Q Z addunt et bonitatem; edd., ordine verborum inverso et addito prudentiam, sic legunt: decet Dei sapientiam, prudentiam et potentiam. Post pauca cod. Q pro superaddere exhibet superinducere et addere, et dein pro opera miraculosa cod. F opera mirabilia.
+    **En.** Gen. 1:31: And God saw all the things that he had made, and they were very good. — At the beginning of the solution, after *sapientiam* codd. Q Z add *et bonitatem;* the editions, with the order of words inverted and *prudentiam* added, read thus: *decet Dei sapientiam, prudentiam et potentiam.* Shortly after, cod. Q for *superaddere* gives *superinducere et addere,* and then for *opera miraculosa* cod. F reads *opera mirabilia.*
+
+[^38]: **La.** Pro et confirmationem, quam lectionem codd. F P Q R S bb confirmant, cod. K propter confirmationem, multi alii codd. per confirmationem, edd. pro confirmatione. Mox pro quod quia codd. P bb et quia, codd. A E H L U V X Z aa et edd. 1, 2 quia quod, Vat. quia ergo. Deinde post ad sensibilia codd. M 0 subiungunt cognoscenda.
+    **En.** For *et confirmationem,* which reading codd. F P Q R S bb confirm, cod. K reads *propter confirmationem,* many other codd. *per confirmationem,* the editions *pro confirmatione.* Soon for *quod quia* codd. P bb read *et quia,* codd. A E H L U V X Z aa and editions 1, 2 *quia quod,* the Vat. *quia ergo.* Then after *ad sensibilia* codd. M O add *cognoscenda.*
+
+[^39]: **La.** Missa in Nativ. Domini (apud Gregor. in 3. Missa). Nostra lectio convenit cum originali huius Praefationis (in libro Sacramentorum), dum in Vat. et aliquibus codd. nec non in edd. 1, 2 legitur, sicut et nunc in Missali Romano, in invisibilium amorem rapiamur. Cfr. August., I. de Doctr. christ. c. 11. n. 11. seqq. nec non Epist. 140. (alias 120.) c. 3. n. 7. et c. 6. n. 18.
+    **En.** Mass on the Nativity of the Lord (in Gregory, at the 3rd Mass). Our reading agrees with the original of this Preface (in the book of the Sacraments), whereas in the Vat. and some codd., as well as in editions 1, 2, it reads, as also now in the Roman Missal, *in invisibilium amorem rapiamur.* Cf. Augustine, I *On Christian Doctrine* c. 11. n. 11 ff. and also Epist. 140 (otherwise 120) c. 3. n. 7. and c. 6. n. 18.
+
+[^40]: **La.** Cfr. I. Sent. d. 15. p. II. q. I. seqq.; II. Sent. d. 27. a. 2. q. 3; d. 29. a. I. q. 1. seq. et a. 2. q. I.
+    **En.** Cf. I Sent. d. 15. p. II. q. I. ff.; II Sent. d. 27. a. 2. q. 3; d. 29. a. I. q. 1. f. and a. 2. q. I.
+
+[^41]: **La.** Dist. 20. q. 2. seqq.
+    **En.** Dist. 20. q. 2. ff.
+
+[^42]: **La.** Vel aliis verbis: quia Deus, praeviso peccato, quod primi parentes vitare poterant, libere et positive voluit incarnationem Filii sui, ideo ex parte Dei incarnatio non fuit per accidens nec minus principaliter intenta, immo multo principalius. — Pro quia se codd. F H (K a secunda manu) M 0 V habent quia per se, edd. 1, 2 qui se; cod. bb: ideo fecit per se recuperaturum, quia cognovit. In cod. K secunda manus recuperaturum commutavit in reparaturum; et deinde pro principalius cod. E substituit principaliter. Paulo inferius codd. T U V omittunt non ante praedestinaverit.
+    **En.** Or in other words: because God, the sin foreseen which the first parents could have avoided, freely and positively willed the incarnation of his Son, therefore on the part of God the incarnation was not by accident nor less principally intended, but rather much more principally. — For *quia se* codd. F H (K by a second hand) M O V have *quia per se,* editions 1, 2 *qui se;* cod. bb: *ideo fecit per se recuperaturum, quia cognovit.* In cod. K a second hand changed *recuperaturum* into *reparaturum;* and then for *principalius* cod. E substituted *principaliter.* A little below, codd. T U V omit *non* before *praedestinaverit.*
+
+[^43]: **La.** Sap. 7, 30: Sapientiam autem non vincit malitia. Cfr. I. Sent. d. 16. q. 3. 6. et d. 47. q. 3. — Pro vincit codd. E G H K L T U V X et edd. 1, 2 vicit. Paulo superius pro ex summa (cod. R potius ex, cod. P etiam ex) codd. A G H L (N a prima manu) T U ex sua.
+    **En.** Wisd. 7:30: But wickedness does not overcome wisdom. Cf. I Sent. d. 16. q. 3. 6. and d. 47. q. 3. — For *vincit* codd. E G H K L T U V X and editions 1, 2 read *vicit.* A little above, for *ex summa* (cod. R rather *ex,* cod. P also *ex*) codd. A G H L (N by the first hand) T U read *ex sua.*
+
+[^44]: **La.** Respicitur Rom. 5, 14. seqq. et I. Cor. 15, 22. — Pro potuit displicere codd. E H K N potuerit displicere. Paulo superius pro interfecit edd. exhibent infecit.
+    **En.** Reference is made to Rom. 5:14 ff. and 1 Cor. 15:22. — For *potuit displicere* codd. E H K N read *potuerit displicere.* A little above, for *interfecit* the editions give *infecit.*
+
+[^45]: **La.** Rom. 8, 28: Scimus autem, quoniam diligentibus Deum omnia cooperantur in bonum, iis qui secundum propositum vocati sunt sancti. — Seq. locus Script. est Eph. 2, 4. — Ex dictis apparet, quid verba illa sibi velint: « O felix culpa, quae talem ac tantum meruit habere redemptorem ». Sententia eorum est, quod culpa, per quam homo mortem aeternam commeruerat, ex summa Dei in homines dilectione ei feliciter cesserit.
+    **En.** Rom. 8:28: But we know that to those who love God all things work together unto good, to those who according to his purpose are called holy. — The following Scripture passage is Eph. 2:4. — From what has been said it appears what those words mean: « O happy fault, which merited to have so great a redeemer ». Their meaning is that the fault, through which man had merited eternal death, turned out happily for him from God's highest love toward men.
+
+[^46]: **La.** Cfr. infra d. 13. a. 2. q. I. in corp. — In subnexis respicitur illud I. Cor. 11, 3: Omnis viri caput Christus est.
+    **En.** Cf. below d. 13. a. 2. q. I. in the body. — In what follows reference is made to that of 1 Cor. 11:3: Christ is the head of every man.
+
+[^47]: **La.** Eph. 5, 32: Sacramentum hoc magnum est, ego autem dico in Christo et in Ecclesia. — Pro secundum unionem (quibus verbis in cod. L a secunda manu additum est naturarum) cod. G et unionem. Paulo inferius post si stetisset secunda manus in cod. V supplevit homo, et in fine solut. codd. H (K a secunda manu) M 0 Q Z post sic matrimonium bene subiiciunt nunc, a nobis receptum.
+    **En.** Eph. 5:32: This is a great Sacrament, but I speak in Christ and in the Church. — For *secundum unionem* (to which words in cod. L by a second hand *naturarum* is added) cod. G reads *et unionem.* A little below, after *si stetisset* a second hand in cod. V supplied *homo,* and at the end of the solution codd. H (K by a second hand) M O Q Z after *sic matrimonium* rightly add *nunc,* which we have received.
+
+[^48]: **La.** Cap. 31, 22.
+    **En.** Chapter 31:22.
+
+[^49]: **La.** Particula et, quam codd. F H K bb omittunt, hic idem valet ac etiam, quod codd. E Z re vera hic exhibent. Pro et edd. substituunt quod.
+    **En.** The particle *et,* which codd. F H K bb omit, here means the same as *etiam,* which codd. E Z in fact give here. For *et* the editions substitute *quod.*
+
+[^50]: **La.** Rom. 5, 8: Commendat autem caritatem suam Deus in nobis, quoniam cum adhuc peccatores essemus, secundum tempus Christus pro nobis mortuus est etc.
+    **En.** Rom. 5:8: But God commends his charity toward us, because when we were yet sinners, in due time Christ died for us, etc.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Tier-2 promotion 2026-06-02. Latin re-set following the Vol III OVERRIDE (450 dpi column bands authoritative for cascade-shattered Respondeo + footers + scholion; raw IA OCR `bonaventure_vol3_raw.txt` lines 2115–2595 as base for clean videtur/contra prose and exact `[^N]` marker spacing). Source: *S. Bonaventurae, Opera Omnia, Tomus III* (Quaracchi, 1887), pp. 21–28. PDF offset `pdf = printed + 22` (PDF 43–50). Crops read column-by-column (L top→bottom, then R), body bands then footer bands, for pp. 21–28.
+
+**Alignment (MANDATORY check): PASS.** Opener `Secundo quaeritur, quae fuerit incarnationis ratio praecipua. Et quod humani generis redemptio, ostenditur:` = ART. II's TRACTATIO q2 (`Secundo, quae sit incarnationis ratio praecipua`). No auto-chunker q-swap. Running heads confirm: p.22 `22 SENTENTIARUM LIB. III.`; p.23 `DIST. I. ART. II. QUAEST. II.`; p.24 `24 SENTENTIARUM LIB. III.`; p.25 `DIST. I. ART. II. QUAEST. II.`; p.26 `26 SENTENTIARUM LIB. III.`; p.27 `DIST. I. ART. II. QUAEST. II.`; p.28 `28 SENTENTIARUM LIB. III.`
+
+**Page-split map (8 pages — briefing's [21–27] UNDERCOUNTED by one; the closing epilogue + Scholion print on p.28 before QUAESTIO III):**
+- **p.21** (raw 2115–2139): Quaestio II heading + opener + fund-1 (Galatas) + fund-2 opener (Hebr); footers 9–10 inherited.
+- **p.22** (raw 2140–2208): fund-2 (Psalmo)..fund-5; Sed contra opp-1..opp-5 opener; 10 footers.
+- **p.23** (raw 2209–2276): opp-5 tail, opp-6..opp-9; Conclusio blockquote; Respondeo opener + opinio 1 begins; 2 footers.
+- **p.24** (raw 2277–2344): opinio 1 (multiplex perfectio) + opinio 2 + "Quis autem horum modorum…"; 10 footers.
+- **p.25** (raw 2345–2415): the four "primo/secundo/tertio/quarto" honor-God reasons; 7 footers.
+- **p.26** (raw 2416–2484): Epilogus + Conclusio + replies 1–3 (Ad 1 long beatitude excursus, Ad 2 idoneitas, Ad 3 manifestatio); 10 footers.
+- **p.27** (raw 2485–2556): replies 3 tail, 4–9; 8 footers.
+- **p.28** (raw 2557–2595): "Haec autem omnia…commendare" epilogue + SCHOLION (sections I–II); 1 q2 footer (`commendare¹` = Rom 5,8) — p.28 footers 2–4 belong to QUAESTIO III and are NOT rendered here.
+
+**Apparatus = 50 entries.** Per-page footer sequences (Quaracchi restarts numbering each printed page; rendered with continuous unique slugs):
+- p.21 f.9–10 (INHERITED from a2-q1) → `[^1]`–`[^2]`.
+- p.22 f.1–10 → `[^3]`–`[^12]`.
+- p.23 f.1–2 → `[^13]`–`[^14]`.
+- p.24 f.1–10 → `[^15]`–`[^24]`.
+- p.25 f.1–7 → `[^25]`–`[^31]`.
+- p.26 f.1–10 → `[^32]`–`[^41]`.
+- p.27 f.1–8 → `[^42]`–`[^49]`.
+- p.28 f.1 (`commendare¹`) → `[^50]`.
+Marker pairing verified programmatically: 50 La anchors = 50 En anchors = 50 defs; 0 anchorless, 0 defless.
+
+**Incoming hand-off (PICKED UP from d1-a2-q1, commit 710e917).** p.21 footers 9 & 10 were forwarded by a2-q1 and are rendered here as `[^1]` (footer 9 = `Vers. 4.5: At ubi venit plenitudo etc.`, anchors fund-1 `Ad Galatas quarto`) and `[^2]` (footer 10 = the Hebr. 2 Cod.K/Glossa note, anchors fund-2 `ad Hebraeos secundo`). Both VERIFIED on the p.21-R footer crop. a2-q1 had consumed p.21 footers 1–8.
+
+**Scholion disposition (PDF eyes-on): has_scholion: true.** VERIFIED on PDF p.28: a SCHOLION block prints on p.28 after q2's `Haec autem omnia` epilogue and before QUAESTIO III. It has its own two sections — **I.** a long prose excursus (the Thomist/Scotist "si homo non peccasset" controversy, Scheeben citation, Alexander of Hales discussion) ending `…patet ex littera.`; **II.** the parallel-treatments citation list (Alex. Hal. — Scot. — S. Thom. — B. Albert. — Petr. a Tar. — Richard. a Med. — Dionys. Carth. — Biel) ending `…q. unica in fine.` This scholion treats q2 only; it does NOT forward-cover q3. (Consistent with the d.1 pattern: each quaestio carries its own scholion.)
+
+**Forward hand-off → d1-a2-q3 (`bon-sent-III-d1-a2-q3`).** QUAESTIO III (`Tertio quaeritur, quae trium personarum fuerit ad incarnationem magis idonea. Et ostenditur primo, quod persona Patris.`) begins raw 2596 at the FOOT/R-col of p.28, immediately after this scholion's section II. **SHARED-PAGE FOOTERS on p.28:** q2 consumed p.28 footer 1 (`commendare¹` = Rom 5,8). **a2-q3 INHERITS p.28 footers 2, 3, 4** = (2) `August., de Verbis Apostoli serm. 176 (alias 20.) c.5 n.5: Nemo recreat, nisi qui creat; nemo reficit, nisi qui fecit. Cfr. tom. II. pag. 633, nota… — Quod in minori proponitur, Symbol. Apost. exprimit verbis: Credo in Deum, Patrem omnipotentem, Creatorem etc. — Proxime post pro sed creatio cod. Z sed creare` (anchors q3 fund-1 `creare²`); (3) `Vers. 5: Ut eos… redimeret, ut adoptionem filiorum reciperemus` (anchors q3 `ad Galatas quarto³` re *filios adoptare*); (4) `Cfr. Ioan. 5, 19. seqq. — Paulo inferius post quam Filium edd. supplent habere` (anchors q3 fund-3 `a Patre⁴`). These are NOT rendered here (omitted, not anchorless). VERIFY q3 alignment (`Tertio quaeritur, quae trium personarum…` = ART. II TRACTATIO q3). Check q3 for its OWN scholion independently.
+
+**Boundary lock.** q2's scholion section II ends grammatically complete at `…Biel, III. Sent. d. 2. q. unica in fine.` (p.28, raw 2595). `QUAESTIO III` begins raw 2596 — NOT included. The chunk tail and the a2-q3 opener are continuous (no cascade-merge splice).
+
+**`[?]` flags:** none. Latin and footers all read cleanly off the 450 dpi column bands cross-checked against the IA OCR.
