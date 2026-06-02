@@ -1,8 +1,25 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d2-littera DONE, commit 791a961; NEXT = bon-sent-III-d2-divisio)
+**Last updated:** 2026-06-02 (Vol III d2-divisio DONE, commit 084613a; NEXT = bon-sent-III-d2-a1-q1)
 
 **Branch:** master
+
+## ✅ VOL III d2-divisio DONE 2026-06-02 (commit 084613a)
+
+`COMMENTARIUS IN DISTINCTIONEM II.` (OCR `IN BISTINCTIONEM II`, subtitle *De incarnatione ex parte naturae assumtae*, lemma *Et quia in homine tota humana natura vitio corrupta erat etc.*) + `DIVISIO TEXTUS` + `TRACTATIO QUAESTIONUM` (the d.2 question listing). Latin re-set from 450 dpi column bands (raw **3127–3172**), literal English (divisio translated; question list rendered as printed), **3-entry apparatus**, **`has_scholion: false`**. Printed **p.36** (PDF 58) — ALL divisio body + ALL 3 footers on p.36; the briefing's `[36,37]`/`[58,59]` was based on the running head `DiST. II. ART. I. QUAEST. I. 37` (raw 3170) appearing inside the naive raw range — verified on the bands that NO divisio body/footer falls on p.37 (p.37 = ARTICULUS I/QUAESTIO I opener + its own footers). Corrected to `[36]`/`[58]`.
+
+**Incoming hand-off resolved (from d2-littera 791a961):** the 3 `NOTAE AD COMMENTARIUM` footers (beneath the divider, R-col p.36) are this chunk's → `[^1]` *de eadem* (DIVISIO opener) / `[^2]` *bb-codex tres partes* (DIVISIO `integritatem²`) / `[^3]` *Edd. congruitas* (TRACTATIO `in homine³`). The 3 footers ABOVE the divider (`1 Cap. 18 n. 61…`, `2 Scilicet variis in locis…`, `3 Libr. XVIII c. 52 n. 85`) are the littera's `[^12]`–`[^14]` — NOT re-rendered. **Marker pairing: 3 La = 3 En = 3 defs, 0 anchorless / 0 defless** (verified programmatically). Build **1272 q / 888 translated**. Audits: paraphrase 0 crit / 10 high (= the 10 remaining d.2 skeletons); apparatus only the 10 skeletons flag SKELETON-SUSPECT (divisio CLEARED); header Q-LOSS/A-LOSS = expected aggregate-skeleton signal (divisio has no ART/QUAEST headers of its own). **No `[?]` flags.** Running heads: p.36 L `36 SENTENTIARU[M]` / R `[SENTEN]TIARUM LIB. III.`
+
+**Boundary lock:** the divisio/TRACTATIO tail ends grammatically complete at *…in tota specie quam in uno individuo.* (raw 3172). `ARTICULUS I.` (raw 3173) / `QUAESTIO I.` (raw 3178) begin d2-a1-q1 on p.37 — NOT included. Tail + ART. I/QUAEST. I opener continuous (no cascade-merge splice).
+
+## NEXT ACTION → `bon-sent-III-d2-a1-q1` (ARTICULUS I opener folds in + QUAESTIO I)
+
+**Raw 3173–~3346, printed p.37 → onward.** `ARTICULUS I.` (raw 3173, subtitle *De natura assumta quantum ad unionis congruitatem*) folds into `QUAESTIO I.` (raw 3178, title *Utrum maior sit congruitas ad unionem in rationali creatura quam in toto universo*; body opener uses *rationali natura*). **Opener:** *Circa primum sic proceditur et quaeritur, utrum maior sit congruitas in rationali natura quam in toto universo, an e contrario. Et quod maior sit con[gruitas]…* **Sed contra opener:** *Augustinus ad Volusianum: « In rebus mirabilibus tota ratio facti est potentia facientis »: ergo cum incarnatio sit assumtio creaturae…* (marginal label *Ad oppositum* on p.37 L-col). **VERIFY alignment** (opener should be `Primo quaeritur, utrum maior sit congruitas… in rationali natura quam in toto universo` = ART. I TRACTATIO q1; STOP and report if it's q2/q3 wording — auto-chunker q-swap guard). q2 raw **3350** / p.39, q3 raw **3515** / p.42 (per d2-littera hand-off). **Check for an ART. I scholion** when building (d.1's pattern: each q carries its own; verify on PDF).
+
+**HAND-OFF picked up from d2-divisio (commit 084613a):**
+1. **NO shared-page footer split into d2-a1-q1.** All 3 of the divisio's footers are on p.36 and fully consumed. **p.37's footers all belong to d2-a1-q1** (per-page restart, fresh sequence): on the p.37 L-col band: `1 Persona enim est, ut Boeth., de Una Persona et duabus naturis, c. 3…rationalis individua substantia. Cfr. infra d. 5 a. 2 q. 3; d. 10 a. 1 q. 2, et I. Sent. d. 23 a. 1 q. 1. — Cod. Q in natura rationali.`; `2 Vide infra d. 6 a. 2 q. 2 seq. — De minori cfr. I. Sent. d. 1 a. 2 et 3.`; `3 Cfr. II. Sent. d. 15 a. 2 q. 1.`; `4 Cfr. II. Sent. d. 16 a. 1 q. 1.`; `5 Epist. 137 (alias 3.) c. 2 n. 8.`; `6 Gregor. Nyssen., Orat. catechet. c. 27, contra eos qui turpitudini et dedecori ducunt, Deum carnem et corpus terrestre assumsisse…` (long, wraps L→R). These anchor q1's body — walk the p.37+ bands yourself; the apparatus BEGINS fresh on p.37 (no inheritance from divisio).
+2. **ART. I opener folds into q1** — no standalone `d2-a1-divisio` chunk (chunking convention; the article's DIVISIO/TRACTATIO already lives in d2-divisio).
+3. **Page span:** confirm each page via running heads (`DiST. II. ART. I. QUAEST. I. 37`); briefing-style undercounts likely — q1's tail/scholion may spill a page past the naive estimate (the d.1 q1/q2/q3 final-page-spill pattern).
 
 ## ✅ VOL III d2-littera DONE 2026-06-02 (commit 791a961)
 
