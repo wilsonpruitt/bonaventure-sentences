@@ -7,341 +7,286 @@ pars: 1
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 4808
-line_end: 5124
-word_count_latin: 4446
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Utrum caro Virginis sanctificata fuerit ante animationem"
+title_en: "Whether the Virgin's flesh was sanctified before animation"
+printed_pages: [61, 62, 63, 64, 65]
+pdf_pages: [83, 84, 85, 86, 87]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 61–65"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from PDF column bands (raw lines 4808–5124), literal English, full apparatus from raw OCR footers (28 entries), ART. I opener folded in, scholion (§I–III, forward-covers q2/q3) held in q1 — verified (2026-06-02)"
 format_version: 1
 ---
 
-# bon-sent-III-d3-p2-a1-q1
+# bon-sent-III-d3-p1-a1-q1
+
+## *Utrum caro Virginis sanctificata fuerit ante animationem*
+
+---
 
 ## Latin
+<!-- page 61 -->
 
-QUAESTIO I.
-                                       Utrum caro Virginis sanctificata fuerit ante animationem.
+### Articulus I. *De sanctificatione Virginis quoad congruentiam temporis.*
+### Quaestio I. *Utrum caro Virginis sanctificata fuerit ante animationem.*
 
-               Circa primum sic proceclitar et quaerilur. utrum                  dictum propter peccatum, quod esset in parentibus .
-         caro Virginis sanctificata fuerit ante animationem. Et                  quia potuissent eam concipere sine peccato : ergo
-         probatur primo, quod sic :                                              dicit propter causam peccati , quae erat in carne :
-               1. Ieremiae primo ' : Antequam formarem te                        ergo non videtur, quod sanctificatio fnerit ante in-
-                                                                                 fusionem animae.
- Ad30ii' 'n ulero> novite; constat, quod beata Virgo excel-
-         lentior fuit quam Ieremias : ergo prius fuit appro-                           2. Item. sanctificatio est per aliquod munus
-         bata et purificala eius caro, quam esset formata.                       gratiae Spiritus sancti ; sed gratia non habet esse in
-         Sed ante fnit formata quam animata : ergo ante fuit                     carne . sed in anima : ergo non videtur , quod ante
-         carnis sanctificatio quam animatio.                                     fuerit carni gralia infusa quam animae.
-               2. Item, super illud Lucae primo ■ : Exsullavit                         3. Item , esse gratiae praesupponit esse naturae,
-         in gaudio infans in utero meo ; Glossa : « Nondum                       et perfectio gratiae perfectionem naturae : si ergo
-         erat in eo spiritus vitae, et iam erat spiritus gra-                    sanctiflcatio dicit effeclum gratiae viviflcantis , impos-
-         tiae»: ergo multo fortius hoc fuil m Domini matre,                      sibile videlur, quod caro sanctificetur , antequam ab
-         quae dignior fuit quam Ioannes : ergo sanclificata                      anima vivificetur 6.
-         fuit ante spiritum vitae. et ita ante animalionem.                            4. Item , nihil pertinet ad sancliflcationem , quod
-               3. Item , non est minus potens virtus sanctifi-                   non perlinet ad gloriflcationem ; sed caro ante ani-
-         cans , quam sit virtus inficiens et foedans ; sed caro                  mationem non pertinet ad glorificationem nec resur-
-         infici potest et foedari ante animationem : ergo pari                   rectionem — unde foetus abortivi ante animationem
-         ratione ante animae infusionem , immo fortiori po-                      non resurgunt. ut dicit Augustinus ' — igitur caro
-         tesl sanctiflcari, cum « opposita nata sint fieri circa                 ante animationem non erat idonea ad sanctificatio-
-         idem3». Si ergo beatae Virgini boc concessum est,                       nem : ergo non fuil caro Virginis ante sanctificata
-         quantumcumque congruum est concedi purae crea-                          quam animata.
-         turae; videtur, quod caro eius ante animationem
-         sanctificata fuerit.                                                                              CONCLUSIO.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts the footnote numbering on each printed page; the apparatus here is grouped page by page.
 
-               4. Item, conceplio gloriosae Virginis fuit de le-
-         gitimo matrimonio et de parentibus sanctis et de                               Beatae Virginis caro ante animationem
-         matre sterili , secundum quod narrat quaedam lii-                                       non fuit sanctificata.
-         storia* : videtur ergo, quod ipsa concepla fuerit vii-
-         tute Spiritus sancti: si ergo illa conceptio , quae est                       Respondeo : Dicendum, quod caro bealae Vir- conctusio.
-         secundum legitimum matrimonium et secundum Spi-                         ginis ante animationem non fuit sanclificala ; non
-         ritus sancti adiutorium , est sancta et immaculata ;                    quia Deus non potuerit carnem Virginis purificare
-         videtur , quod caro Virginis Mariae in ipsa sua con-                    ante quam animare, sed quia sanctificalio habet esse
-         ceptione fuerit sanctificata. Sed ante fuit conceptio                   per aliquod donum gratuitum superadditum , quod
-         quam animatio: ergo fuit ante sanctificata quam                         quidem non habet esse in carne, sed in anima. Ideo
-         animala.                                                                si caro beatae Virginis dicitur sanclificari , aut hoc oistinctio.
-                 Sedcoxtra: 1. Bernardus ad Lugdunenses 5 :                      intelligitur mediante gratia existente in eius anima,
-Fnndamenia. « Ante conceptionem sanctificari minime poterat, quia                vel mediante gratia existente in animabus parenr
-            non erat ; sed nec in ipso conceptu propter pecca-                   tum. Constat, quod non mediante gratia existente in
-            tum. quod inerat »: sed constat, quod illud non est                  eius anima , quia tunc essel oppositio in adiecto,
+Circa primum sic proceditur et quaeritur, utrum caro Virginis sanctificata fuerit ante animationem. Et probatur primo, quod sic:
 
+1. Ieremiae primo[^1]: *Antequam formarem te in utero, novi te;* constat, quod beata Virgo excellentior fuit quam Ieremias: ergo prius fuit approbata et purificata eius caro, quam esset formata. Sed ante fuit formata quam animata: ergo ante fuit carnis sanctificatio quam animatio.
 
-              1 Yers. S. — Cfr. Ailgusi., VI. ile Gen. ad lil. c. 8. n.               6 Epist. 174. n. 7. in fine, quae epislola directa fuit ad Cano-
-         13. seq.                                                                nicos Lugdunenses, quorum aliqui festum Conceplionis B. M. V.
-              2 Vers. H. — Glossa, quae ordinaria est el sumla ex                celebrabant, licentia a Romano Pontiflce non pelita. — Paulo
-         Ambros. Exposll. Evang. Luc. I , IS, (libr. I. n. 33.), habetur         inferius pro quod esset cod. V guod erat , el deinde pro eryo
-         apud Slrabum el Lyrantim in dielum loeum.                               dicit cod. N erejo dicitur.
-              8 Secundum Arislot., de Praedicam. c. de Oppositis, et II.               c Cod. T antequam animetur.
-         Topic. c. 3. (e. 7.). — De infectione carnis ante animationem                ' Enchirid. c. 85. n. 23; XXII. de Civ. Dei, c. 13. —
-         vlde M. Sem. (i. 3i. cinii. i. — Pro forHori edd. n forHori,            Edd. perpernm supplenl in lilirn <le Baptumb pnriiilnriim. —
-         eod. V /»»//(i fnrtiori.                                                in maiori posl glorificaMonem codd. 110 subiunguni vel re-
-                                                                                 lurrectionem.
-              * Cfr. Episl. 5(1. iiiier npera llieronymi, quae agll de naiivi-
-         tate sanctae Mariae, c. 2, et Damasc., IV. de Flde orlhod. e. I i.
-        62                                                   SENTENTIARUM LIB. III.
+2. Item, super illud Lucae primo[^2]: *Exsultavit in gaudio infans in utero meo;* Glossa: « Nondum erat in eo spiritus vitae, et iam erat spiritus gratiae »: ergo multo fortius hoc fuit in Domini matre, quae dignior fuit quam Ioannes: ergo sanctificata fuit ante spiritum vitae, et ita ante animationem.
 
-           videlicet quod caro sanctificetur ante animae crea-                hoc Virginem honorare, sed eius honori detrahere».
-           tionem, et tamen sanctiflcetur per virtutem gratiae                — Et ideo simpliciter concedendum , quod caro eius
-           illius animae[; sequitur enim ', quod idem sit prius et            ante animationem non fuit sanctificata. Et conceden-
-           posterius in uno et eodem. — Si autem intelligatur                 dae sunt rationes. quae hoc probant.
-Ratio trf- hoc fieri per gratiam , quae collata fuerit animabus                    1. Ad illud ergo quod obiicitur in contrarium soiutio oP.
-           parentum , hoc non potest esse , triplici ratione.
-                                                                               de
-                                                                               dum,leremia:  Ante cognovit,
-                                                                                      quod nolitia             quam
-                                                                                                   illa non ponit     formavit;
-                                                                                                                  aliquid        dicen-P°sl
-                                                                                                                          circa ipsum,
-                 Prima : quia gratia ! sanctificationis non habet
-  Ratio i. transfundi a parente in prolem , pro eo quod proles                sed circa propositum Dei praedestinantis, sicul ele-
-           non est in parente secundum animam ; ideo nec in                   ctio et dilectio et praedeslinatio aeterna non ponit
-           parente habet sanctificationis gratiam. Et hoc est                 aliquid circa praedestinatum 6 ; et ideo non sequitur
-           quod dicit Bernardus ad Lugdunenses : « Ante -eon-                 ex hoc , quod caro leremiae vel Virginis ante fuerit
-           ceptionem minime sanctificari potuit, quianon erat»;               sanctificata quam formata.
-           exponendum est secundum animam ; erat enim in                            2. Ad illud quod obiicitur de Ioanne , quod
-           eis secundum carnem causaliter, sed illud esse non                 nondum erat in ipso spiritus vitae ; dicendum , quod Notandum.
-           sufficiebat ad sanctificationis gratiam, quae respicit             in Scriptura aliquid dicitur fieri, quando innotescit;
-           animam.                                                            et non esse, quando non apparet. Et ideo dicitur
-                Secunda ratio est: quia, etsi hoc esset possi-                spiritus non fuisse in loanne, quia non apparebat;
- Ratio -2. bile, quod sanctificatio derivaretur a parente in pro-             adhuc enim in utero erat7; spiritus gratiae in eo
-           lem3, sicut originalis iustitia; nunquam tamen de-                 dicitur fuisse, quando in occursum Domini exsulta-
-           rivatur mediante coitu libidinoso, quia tunc duo                   vit in ventre.
-           opposita essent simul et semel in eodem. Et ideo                         3. Ad illud quod obiicitur, quod caro potest
-          dicit Bernardus'1: « Forte inter amplexus maritales                 infici ante animationen, ergo et sanctificari ; dicen-
-          sanctitas ipsi conceptioni se immiscuit, ut simul san-              dum, quod non esl simile, quia generatio carnis ex
-          ctificata fuerit et concepta. Sed hoc ratio non ad-                 carne est carnalis, non spiritualis; ideo magis habel
-          mittit. Quomodo namque sanctitas absque Spiritu                     transfundi caro vitiosa ex carne vitiosa, quam san-
-         sanctificante, aut Spirilui sancto societas cum pec-                 cta ex parenlibus sanctificatis per gratiam \
-         cato fuit? Aut quomodo peccatum non fuit. ubi li-                          4. Ad illud quod obiicitnr, quod conceptio Vir-
-         bido non defuit»?                                                    ginis fuit ex legitimo matrimonio, ergo etc. ; dicen-
-                Tertia ralio est : quia esto quod sanctificatio               dum, quod totum illud est probabile, videlicet quod Noiandum.
-Ratio 3. adesset, et libido defuerit virtute divina; non tamen                concepta fuerit ex sterili et ex coitu coniugali abs-
-         decuit, ut deesset, propter hoc quod haec est so-                    que omni culpa aciuali; non tamen sequitur, quod
-         lius beatae Virginis praerogativa ; sola enim ipsa,                  concepta fuerit absque causa peccati, quia ita trans-
-         ut Sancti dicunt, sine peccato concepil et sine do-                  funditur originale ex illis qui generant ex coitu le-
-         lore peperit ; et ideo hoc parentibus concedi non                    gitimo, sicut qui generant ex coitu adulterino , sicut
-         debuit beatae Virginis, sed soli Virgini reservari.                  ostensum fuit in seeundo libro \ — Et si obiiciat,
-         Unde Bernardus5: «Dico, Virginem gloriosam de                        quod non debuit ibi esse causa originalis, quia fa-
-         Spiritu sancto concepisse, non autem conceptam                       cta est mediante virtule Spiritus sancti fecundante,
-         fuisse ; dico, peperisse virginem , non tamen parlam                 et propter fecundationem sterilitatis maternae, quae
-         a virgine. Alioquin ubi erit praerogativa Matris , de                non fuit ab homine, sed a Deo ; dicendum, quod
-         qua singulariter creditur exsultare et munere prolis                 illud non valet, quia hoc similiter posset obiici de
-         et carnis integritate, si eam dederis matri ? Non est                loanne et Isaac 10, qui de sterilibus sunt concepti.
+3. Item, non est minus potens virtus sanctificans, quam sit virtus inficiens et foedans; sed caro infici potest et foedari ante animationem: ergo pari ratione ante animae infusionem, immo fortiori potest sanctificari, cum « opposita nata sint fieri circa idem[^3] ». Si ergo beatae Virgini hoc concessum est, quantumcumque congruum est concedi purae creaturae; videtur, quod caro eius ante animationem sanctificata fuerit.
 
-             1 Cod. N. etiam. — Cfr. Bernard., Epist. 174. n. 6.              5; August., Epist. 187. (alias 57.) c. 12. n. 37; Bernard.,
-             2 Non pauci codd., inter quos A T V, cum edd. ratio.             Epist. 174. n. 3. seq. — Post de leremia cdd. proprio marte
-             3 Codd. A T V prole.                                             adiiciunt de notitia approbationis , quod, et ante praedestina-
-             4 Epist. 174. n. 7. — Pro Aut quomodo peccatum textus ori-       tum cod. Y interiicit ipsum. In fine solut. cod Q verbo formata
-       ginalis habet aut certe peccatum quomodo , et pro Spiritui             praemitlit animata vel.
-       sanclo , quae lectio concordat curn textu originali , codd. A T             7 S. Bonav. in suo Comment. super Luc. I, 16. ait: Unde
-       et alii exhibent Spiritum Sanctum, dum in aliis codd. exstant          Ambrosius: « Nondum erat in eo spiritus vitae, et iam erat spi-
-       tantum Iitterae S. S. — Cfr. August., V. contra Iulian. Pe-            ritus gratiae», non, inquam, erat secundum apparentiam, erat
-       lagian. c. 15. n. 52, et VI. Op. imperf. contra Iulian. c. 28.         tamen spiritus vitalis secundum existentiam. Cfr. Glossa in Phil.
-            5 Loc. cit., ubi lextus originalis sic: Alioquin ubi erit prae-   2, 8. apud Lyranum. — Paulo superius pos^t dicitur spiritus
-       rogativa Matris Domini, qua singulariter... si tantundem de-           edd. I , 2 perperam adiungtint sanctus, Vat. addit vitae.
-       deris et malri eius ? Non est etc. — Pi-o partam codd. A T U V              8 Cfr. II. Sent. d. 32. a. I. q. 2.
-       partum. Subinde pro Alioquin ubi codd. 0 V Alioquin non ,                   ? Dist. 31. a. 2. q. 3. — Paulo sttperius pro absque omni
-       pro Matiis cod. 0 Mariae et pro exsultare idem cod. 0 exal-            culpa edd. cum codd. A V substituunt absque tamen culpa ,
-       tata , codd. A T V X exsultari. — Aliquantulum superius pro            cod. T habet simpliciter absque culpa.
-       concedi non debuit cod. M concedi non decuit, edd. concedi               ,- 10 De Isaac vide Gen. 18, II; de Ioanne Luc. 1,7. — Sub-
-       non potuit.                                                            inde pro qui codd. A F 0 V quod, cod. M quia. Paulo inferius
-             6 Cfr. I. Sent. d. 40. per totam. — Eodem modo haec Ie-          pro aliquando ut sanctus Val. aliquando ut Spiritus sanclus.
-       remiae vcrba exponnnt Hieronym., Comment.           super Ierem. I,
-                                                         DIST. III. P. I. ART. I. QUAEST. I.                                                       63
+4. Item, conceptio gloriosae Virginis fuit de legitimo matrimonio et de parentibus sanctis et de matre sterili, secundum quod narrat quaedam historia[^4]: videtur ergo, quod ipsa concepta fuerit virtute Spiritus sancti: si ergo illa conceptio, quae est secundum legitimum matrimonium et secundum Spiritus sancti adiutorium, est sancta et immaculata; videtur, quod caro Virginis Mariae in ipsa sua conceptione fuerit sanctificata. Sed ante fuit conceptio quam animatio: ergo fuit ante sanctificata quam animata.
 
-                     Propter quod nota, quod Spiritns sanctus ali-               hoc authenticum non est, non compellimur credere;
-tfounda
-  stinctio
-           di- quando
-               _
-                         operatur
-                         . .
-                                  ul ..-.■■
-                                     Spirilus , aliquando ut,sanctus.
-                                                                    ,.
-                                                                                 quia etiam contra fidem rectam non est, non com-
-               Tunc quidem operatur ut Spirilus, quando opus fa-                 pellimur negare.
-               cit supra naturam ; tunc ut Spiritus sanctus ope-                   P .
-                                                                                      Potest i etiam
-                                                                                               . ,.
-                                                                                                     esse,,.,, quod
-                                                                                                                 ...
-                                                                                                                    illa solemnitas potius
-                                                                                                                                     .  .
-                                                                                                                                            aho modo
-                                                                                                                                           defenditur
-               ratur . cum non facit solum opus supra naturam ,                  refertur ad diem sanctihcationis quam conceptioms. i»c testu.u.
-               sed etiam sanctificat illud , supra quod operatur. —              Et quoniam dies conceptionis fuil cerla, et dies san-
-               Dico igitur, quod in conceptione solius Filii Dei, qui            ctificatiomVincerta, ut patebit infra5, ideo non ir-
-               est Sanctus Sanctorum, noii solum operatus est ut                 rationabiliter solemnitas diei sanctificatipnis statui
-               Spiiitus, sed ut Spiritns sanctus. In conceptione                potuit in die conceptionis; nec immerito, quia quam-
-               vero, qua Ioannes est conceptus. sive beata Virgo,               vis conceptionis diem non oporteat celebrari, pro eo
-          operatus est ul Spiritus tantum ' ; ideo sola Virgo                   quod non fuit sanctilas in concepto , possunt tamen Distinctio.
-          .\laria dicitur concepisse de Spiritu sancto. Propterea               irreprehensibiliter gaudere sanctae animae, pro eo
-          nullius conceptionis solemnitatem celebrat Ecclesia                   scilicet quod tunc inchoalum est. Quis enim audiens
-          nisi solius Filii Dei in Aununtiatione beatae Virginis                Virginem, de qua salus lotius mundi processit , con- Notandum.
-          Mariae.                                                               ceptam, gratias Deo exsolvere negligat et omittat
-                   Sunt tamen aliqui, qui ex speciali devotione                 exsultare in Deo sahitari suo6, nisi qui erga glo-
-    De fesio celebrant conceplione  m  beatae.Virginis, quos ,nec , om-         riosam Virginem minus devote afficilur et magis
-conceptioms                   l          ,.        ,
-b. ji. v. njn0 2 laudare nec simplietler audeo reprehendere.                    considerat praesentia quam futura, magis etiam
-Son omnino Xon omniiio apnrobare audeo, pro eo quod sancti                      considerat boni defectum quam fundamentum ? Ete-
-approbat.                    'l        .      «,...„...,
-              Palres, qui alias solemnitates Virguns, Spintu sancto             nim si fllius regis claudus nascatur, qui sit a clau-
-             dictante , statuerunt, qui eliam magni amalores el                 dicatione processu temporis liberandus ; non est de
-             veneratores beatae Virginis fuerunt, conceptionem                  claudicatione dolendum , sed potius de nativitate
-              Virginis solemnizare non decreverunl. Beatus etiam                gaudendum. Per hunc modum si quis in die con-
-             Bernardus3, praecipuus Virginis amator et honoris                  ceptionis eius solemnizet, attendens magis sanctifi-
-             eius zelator, illos reprehendit. qui eoiiceptionem                 cationem futuram quam conceptionem praesentem ,
-             Virginis celebrant. Statula etiam universalis Eccle-               non videtur dignus redargui ; et ideo dixi , quod
-             siae de Sanctorum eelebritatibus omnia fundata sunt                tales nec vituperare audeo nec laudare.
-             super sanctitatem, ut nullo die pro aliquo Sancto                        Credo tamen et confido de Virgine gloriosa , Epiiogus m>-
-                                                                                     ...               .   .         . ,             tabilis.
-             solemnizet, in quo vel pro quo persona sancta non                  quod si quis hanc solemnitatem celebrat non ex
-             fuerit, cui honor ille defertur. Si ergo sanctitas non             amore novitatis7, sed polius ex devolione Virginis,
-             fuit in Virgine ante animae infusionem , non videtur               non credens eliam contra illud quod elici potest
-             usquequaque securum conceptionis illius etiam solem-               ex sacra Scriptura; quod benedicta Virgo devotio-
-Nechendil.
-      repre- nitatem celebrare. — Non etiam audeo omnino re-                    nem eius acceptat; et si aliquid est reprehensibile,
-             prehendere, quia. ut quidam dicunt, haec solem-                    spero, quod apud iustum ludicem dignabitur excu-
-             nitas celebrari non coepit humana inventione, sed                  sare. Nec huic obviant dicta Bernardi. Potius enim
-         divina revelatione * ; quod si verum est , sine dubio                  intendit excludere errorem, ne quis credat Virgi-
-         bonum est solemnizare in eius conceptione. Sed quia                    nem sanctilicatam in conceptione, quam erga Virgi-
+**Sed contra:** 1. Bernardus ad Lugdunenses[^5]: « Ante conceptionem sanctificari minime poterat, quia non erat; sed nec in ipso conceptu propter peccatum, quod inerat »: sed constat, quod illud non est dictum propter peccatum, quod esset in parentibus, quia potuissent eam concipere sine peccato: ergo dicit propter causam peccati, quae erat in carne: ergo non videtur, quod sanctificatio fuerit ante infusionem animae.
 
+2. Item, sanctificatio est per aliquod munus gratiae Spiritus sancti; sed gratia non habet esse in carne, sed in anima: ergo non videtur, quod ante fuerit carni gratia infusa quam animae.
 
-               1 Pro tanium cockl. A T V perperam sanclus, quod sphalma         ut ex epistola ab abbate Osbcrt de Clare a. 1128 ad ipsum
-         cod. F corrigere nitilur ponendo non ut Spiritus sanctus. Sub-         data apparet , strenuus propugnalor et fautor fuit memorati
-         inde pro Proplerea edd. Praeterea.                                     festi (cfr. Epislolae Norberti de Losinga ctc. edit. a Rob, Ans-
-               2 Cod. G simpliciter. Aliquantulo infet-ius pro (lictante edd.   trutter, Lond. 1816.). In duobus prioribus istorum opusculorum
-         docente el mox docuerunt pro decreverunt.                              narratur, cuidam abbati, Elsino (Helsuino) nomine, in mari pe-
-               3 Episl. 174. n. I: Unde miramur salis, quitl visum fuerit       riclitanti , quendam pontiflcalibus vestibus ornatum apparuisse
-         hoc tempore quibusdam veslrnm voluisse mtitare colorem                 eumque salvasse ea conditione, ut celebrarel Malris Chrisli
-         optimum, novani inducendo lelebritatem, quam rilus Ecclesiae           Conceplionis feslum sexlo Idus Decembris. — Bernard., Epist.
-         nescit, non probal ralio, non rommendat anliqua traditio.              174. n. 6, hanc relationem respiciens ait: Sed proferlur scri-
-         Numquid Pairibus doctiores aui devotiores sumus? Pcriculose            plum supernae, ut aiunt, revelationis; quasi et quivis non
-         praesumimus quidquiil ipsorum in talibus prudentia praete-             queat scriptum aeque producerc, in quo Virgo videatur id ipsum
-         rii! etc. — Paulo inferius pro celebrant codd. E F V W X Y             mandare et de parentibus suis, iuxta Domtni mandatum dicen-
-         celebrabant.                                                           tis: Honora patrem tuum et matrem tuam (lixod. 20, 12.).
-              1 Inler opera Anseliui trio inveniuntur opuscula de festo         Ipse mihi fncile persttadeo scriplis talibus non moveri, quibus
-         immaculatae Conceptionis tractantia, qnae inscribuntur: de Con-        nec ralio suppeditare, nec certa invenitur fa\ere auctoritas elc.
-         ceptione B. Mariae Virg.; Miraeulum de Conceptione 1). Mariae          — Paulo superius pro securum codd. A T U V X securam, et
-         Virg.; Tractatus de Conceplione U. Mariae Virg. Duo priora             subinde pro coiiccplionis illitis etiam solemnilalem eodd. E U W
-         agunl de historia introductionis huius festi ; terlii auctor celc-     i-onieptinnem iltius soleniniliile. Paulo inferitis pro neijare codd.
-         bralionem huius fesli, quae tunc tomporis in non paueis locis          M 0 negligere.
-         diminui vel cessare inceperat, fovere et augere intendit. Isla               5 Hic q. 3. — Aliqiianlulu inferius pro in conceplo codd.
-         opuscula, iam diu ut spuria agnita, nostris temporibus cognato         M 0 in conccplinne.
-         Anselmi, eiusdem nominia, addicuntur; qul alter Anselmus                     6 Respicitur Luc. I, 47.
-         (iii'j abbaa in conventu Romano S. Sabae, 1121-11 49 abbaa                   7 lla cod. K, alii codd. nativitatis, edd. vanilnlis. Mox
-         in S. Edmundsbury , interlm 1136-1138 episcopus Londlnensis),          pro non credens etiam Val. non credens esse.
-          64                                                  SENTENTIARUM LIB. III.
+3. Item, esse gratiae praesupponit esse naturae, et perfectio gratiae perfectionem naturae: si ergo sanctificatio dicit effectum gratiae vivificantis, impossibile videtur, quod caro sanctificetur, antequam ab anima vivificetur[^6].
 
-             nem devotionem nostram minuere, cni nullus nimis                  bitans in cordibus fidelium, devotionem ipsorum
-             potest esse devotus; ita tamen, quod nihil credat                 magis erga Virginem inflammat quam erga alios
-             de ea, quod sit contra veritatem et sacrae Scriptu-               Sanctos et Sanctas. Hac etiam de causa quotidie de
-             rae et fidei christianae, quae omnem devotionem                   Virgine gloriosa facimus officium speciale iuxta or-
-             nostram, tam erga Deum quam erga Matrem eius,                     dinem Romanae Ecclesiae, licet pro beato Petro, Apo-
-             debet praecedere.                                                 stolorura principe, solummodo ter • in anno faciamus
-                  Quod si aliquis obiiciat, aliorum Sanctorum                  officium. — Quacumque igitur hora, quacumque Notandom.
-owectio soi- conceptiones non esse cele.bres propter subsequen-                die aliquis fidelium cum totis praecordiis et visce-
-             tes sanctificationes ; poterit ei ' dici, quod alii San-          ribus honoret Virginem, increpandus non est perti-
-             cti pro malo non habebunt, si aliquis specialis ho-               naciter, ne ipsius Virginis animadversio incurratur,
-             nor Matri Domini tribuatur , quoniam san.ctificationis            quae auxiliatrix et amatrix est omnium fidelium suo-
-             ipsius magniludo el acceleratio ceteras antecellit.               rum kuulatorum , sicul illi qui tales sunt, experi-
-             Et ideo mirandum non est, si Spiritus sanctus inha-               mento multiplici cognoverunt 3.
-                                                                    SCHOLIOK
+4. Item, nihil pertinet ad sanctificationem, quod non pertinet ad glorificationem; sed caro ante animationem non pertinet ad glorificationem nec resurrectionem — unde foetus abortivi ante animationem non resurgunt, ut dicit Augustinus[^7] — igitur caro ante animationem non erat idonea ad sanctificationem: ergo non fuit caro Virginis ante sanctificata quam animata.
 
-               I. Celeberrima est dogmatica definilio, an. ISoi a Papa         patcbit. Unde S. Bonaventurae ( q. 2.) opinio opposita visa est
-         Pio IX. promulgata , quae quoad conti ovcrsiam de conceplione          (ccommunior, rationabilior et securior ». Nee defuerunt qui cum
-         immaculata Dei Genitricis Mariae sancivit: « Doclrinam, quae          B. Alberto (hic a. 4.) assererent, eandem esse tenendam tan-
-         tenet, beatissimam Virginem Mariam in primo instanti suae con-        quam fide certam. Quidam insuper generaliter docuerunt, hanc
-         ceplionis fuisse singulari omnipotentis Dei gratia et privilegio,     praeservationem in ipsa conceptione esse omnino impossibilem ;
-         intuitu meritorum Christi lesu, Salvatoris humani generis, ab         sed haec asserlio a S. Bonav. (ihfra q. 2. ad 6.) aliisque mul-
-         omni originalis culpae labe praeservatam immunem, esse a Deo          tis magislris reprobatur; nec ab his discrepat Alex. Hal., licet
-         revelatam, atque idcirco ab omnibus fidelibus firmiter constan-       dicat, B. Virginem in sua conceptione sanctificari non poiuisse,
-         terque credendam ». De distincta huius decreti explicatione nec       cum tantum loqtiatur de conceptione seminali et sanctificatione
-         non de hisloria controversiae, circa hanc rem a tempore S. Ber-       proprie dicla. Attamen B. V. Mariam contraxisse actnaliter pecca-
-         nardi agilatae, consulanlur recentiorum theologorum opera. Suf-       tum originale, sed sanclificalam essc in utero post infusionem
-         flciat hic breviter notare, vocabulum conceptio intelligi non de      animae (sive in secundo instanti lemporis, ut vult .-Egid. R. et
-         conceptione activa sive generativa, (quae est ex parte paren-         Henr. Gand., sive saltem post breve tempus), hoc quasi uno ore
-         tum), sed de passiva (ex parle fructus geniti); et iterum non         cum Ss. Bernardo, Thoma, Bonav. docent Alex. Hal., B. Albert.,
-         de conreptione scminali sive carnis non animatae, sed de              Petr. a Tar., Richard. a Med., /Egid. R., Henr. Gand., Durand.
-         conceptione passiva adaequala, sive quae consummatur infu-            aliique multi, el ante Scolum comrnuniler. — Quod autem eliam
-         sione animae rationalis, et qua conslituitur persona humana.          S. Thom., saltem in locis, ubi ex professo hanc quaeslionem
-         Haec vocatur etiam conceptio personalis et a nostro Doctore           traclat (liic q. I. a. I; S. 111. q. 27. a. I. 2; Quodl. 6. q. 5.
-         aliisque antiquis nativitas in utero, quae distinguitur a nativi-     a. 7; Compend. theol. c. 224.), a sentenlia tunc communi non
-         tate ex utero (cfr. intra q. 2. arg. 5. ad opposit. et q. 3. ad       recesserit, ipsa eius verba, praesertim si conferuntur cum ver-
-         1 . 2.). Hinc verba : « in primo instanti suae conceptionis » in-     bis coaevorum, satis manifestant. Hoc etiam confirmatur cer-
-         telligenda sunt de momento crealionis et infusionis animae; ipsa-     tissimo hoc faclo, quod discipuli eius, eidem Ordini adscripli,
-         que sanctiflcalio refertur ad personam sive terminum adaequa-         usque ad saeculum XVI. ita magistrum intelligebant , immo illa
-         tum generationis, non ad principia naluralia generalionis, vel        aetate plerumque eandem sententiam cum praestantibus theolo-
-         ad modum eiusdem. Causa autem efficiens huius sanetiflcatio-.         gis S. Anlonino, loan. a Turre-cremala, Caietano lanquam in se
-         nis indicatur verbis: « singulari omnipotentis Dei gratia etpri-      veram defendebant. In subsequentibus saeculis, cum mens Eccle-
-         vilegio », quo simul notatur exemtio singularis a lege com-           siae paulatim in favorem verae sententiae se manifeslaret, nu-
-         muni, qua generaliter illi qui secundum ordinem naturalem             merus defensorum huius privilegii in schola S. Thomae crevit.
-         a primis parenlibtts descendunt, originali culpae obnoxii sunt;       Tunc autem inceptum est de vera sententia S. Doctoris disputari.
-         unde aliquod debitum, saltem remotum, incurrendi hanc labem           Nonnulli enim, innixi quibusdam aliis locis, duce Seraphino Cap-
-         etiam in B. V. Maria supponitur. Causa autem meritoria huius          poni de Porrecta (in Elucidat. ad S. III. q. 27. a. 2.), S. Thomam
-         eminentissimae redemptionis notalur verbis: « intuitu merito-         potius illi privilegio favere, vel saltem non contradicere volunt
-         rum Christi Iesu, Salvatoris humani generis».                         contrariosque locos ita interpretantur , ut peccatum originale
-               II. Secundum tenorem huius decreti corrigenda vel determi-      eliam pro debilo incurrendi eam intelligant. Hinc ipsum locum
-         nanda est doctrina, quae in 3 quaestionibus huius articuli a S.       in Comment. (loc. cit. quaestiunc. 2.), ubi dicilur, quod san-
-         Bonav. secundum sententiam tunc in scholis fere communem              ctificatio Virginis non potuerit esse decenter nec ante infusio-
-         proponitur. Ne autem sinislre iudicetur de nostro auctore aliisque    nem animae, nec etiam in ipso instanti infusionis etc, non se-
-         coaevis, haec observamus.                                             cundum materialem verborum sensum intelligi debere , iidem
-                I. Concedendum est, ea aetate ipsos Ss. Doctores Bernar-       aftirmant. Altamen praedictus Seraphinus ibidem confitetur, S.
-         dum, Thomam, Bonaventuram aliosque ignorasse, praedictum              Thomam etiam in Summa docuisse, magis tenendam esse opi-
-         privilegium, nunc deflnitum, esse revelalum , scilicet implicite in   nionem, quod B. V. actualiter peccatum originale contraxerit.
-         deposilo fldei tradilum; immo eosdem usque ad Scotum ne sta-          — De senlentia S. Bonaventurae el Scoli in seq. scholio men-
-         tum quidem quaestionis praecise cognovisse, ut ex sequentibus         tio fiet.
+### Conclusio
 
+> Beatae Virginis caro ante animationem non fuit sanctificata.
 
+**Respondeo:** Dicendum, quod caro beatae Virginis ante animationem non fuit sanctificata; non quia Deus non potuerit carnem Virginis purificare ante quam animare, sed quia sanctificatio habet esse per aliquod donum gratuitum superadditum, quod quidem non habet esse in carne, sed in anima. Ideo si caro beatae Virginis dicitur sanctificari, aut hoc intelligitur mediante gratia existente in eius anima, vel mediante gratia existente in animabus parentum. Constat, quod non mediante gratia existente in eius anima, quia tunc esset oppositio in adiecto,
+<!-- page 62 -->
+videlicet quod caro sanctificetur ante animae creationem, et tamen sanctificetur per virtutem gratiae illius animae; sequitur enim[^8], quod idem sit prius et posterius in uno et eodem. — Si autem intelligatur hoc fieri per gratiam, quae collata fuerit animabus parentum, hoc non potest esse, triplici ratione.
 
-              1 Codd. T Z omittunt ei, pro quo codd. A H N U V X aa            quippe rusticilas est eam aliis Sanctis in hoc comparare, quam
-         enim. — Auctor opusc. de Conceptione B. Mariae Virg. (inler           etiam super omnes Angelos et Archangelos in caelis sublima-
-         opera Anselmi) iure ait: Ertibescant iterum insani, qui hunc          vit etc.
-         diem colere non volunt idcirco, quia aliorum Sanclorum con-               - Scilicet, 18 lan., 23 Febr., 29 Iunii.
-         ceptiones minime colere sancta consuevit Ecclesia. Maxima                 3 Cod. T sicut qui experti sunt cognoverunt.
-                                                                                                                                                       65
+*Prima:* quia gratia[^9] sanctificationis non habet transfundi a parente in prolem, pro eo quod proles non est in parente secundum animam; ideo nec in parente habet sanctificationis gratiam. Et hoc est quod dicit Bernardus ad Lugdunenses: « Ante conceptionem minime sanctificari potuit, quia non erat »; exponendum est secundum animam; erat enim in eis secundum carnem causaliter, sed illud esse non sufficiebat ad sanctificationis gratiam, quae respicit animam.
 
+*Secunda ratio* est: quia, etsi hoc esset possibile, quod sanctificatio derivaretur a parente in prolem[^10], sicut originalis iustitia; nunquam tamen derivatur mediante coitu libidinoso, quia tunc duo opposita essent simul et semel in eodem. Et ideo dicit Bernardus[^11]: « Forte inter amplexus maritales sanctitas ipsi conceptioni se immiscuit, ut simul sanctificata fuerit et concepta. Sed hoc ratio non admittit. Quomodo namque sanctitas absque Spiritu sanctificante, aut Spiritui sancto societas cum peccato fuit? Aut quomodo peccatum non fuit, ubi libido non defuit »?
 
+*Tertia ratio* est: quia esto quod sanctificatio adesset, et libido defuerit virtute divina; non tamen decuit, ut deesset, propter hoc quod haec est solius beatae Virginis praerogativa; sola enim ipsa, ut Sancti dicunt, sine peccato concepit et sine dolore peperit; et ideo hoc parentibus concedi non debuit beatae Virginis, sed soli Virgini reservari. Unde Bernardus[^12]: « Dico, Virginem gloriosam de Spiritu sancto concepisse, non autem conceptam fuisse; dico, peperisse virginem, non tamen partam a virgine. Alioquin ubi erit praerogativa Matris, de qua singulariter creditur exsultare et munere prolis et carnis integritate, si eam dederis matri? Non est hoc Virginem honorare, sed eius honori detrahere ». — Et ideo simpliciter concedendum, quod caro eius ante animationem non fuit sanctificata. Et concedendae sunt rationes, quae hoc probant.
 
-                                                        DIST. III. P. I. ART. I. QUAEST. II.
-               2. Absit tamen , ut quis prnedictos snecnli 1 2. et 1 3. docto-    nem n culpa originali omnino exempiam. — Contra hanc posi-
-        res reimtet aliqua reprehensinne tlignos, vel ut minus bene clc           tionem liacc I. quaeslio militat et communis rcsponsio ncgativa
-        eorum pietote, doclrina et devotione crg.i B. Virginem exisli-            magislrorum, etiam Scoli (hic q. I. n. 14.), recle suslinetur, iam
-        met. Exploratum enim esl, el ex ipsis verbis in hne disputa-              ob hanc rationem , quia illa positione ne remntum quidem
-        lione ab eis ndhibitis constat, illns non dcfertu alic|iir) pjc-          clcbiliim contrahendi peccatum originalc ailmilti videtur. Alii
-        latis, vel clcvotionis. vel sanorum prineipiorum a veritate penitus       auicm defensores eiusdcm sententiae alicram, itidem non plene
-        perspicicnda impedilos esse, sed plurimis difliculiatibus. illa iie-      salisfacicnlcm explicalioncm allcrcbanl, contra quam S. lionav.
-        tate hanc quaestionem adhuc obscurantibus. Concorditer quidem             arguit in 2. quacslione.
-        omnes proclamabant principium S. Ansclmi, qunil Malri Dei                       III. ciuod primi defensores praedicti privilegii cl festi sancli-
-        tribucnda sil « puritas, qua maior sub Dcn (Christo) ncquil               ficationem cnrnis in ipsa conceptione seminis et nnle infusionem
-        intelligi » (q. 2. arg. I.); sed haesilabant in applicatione huius        animae docuerint, ex eorum scriptis ei communi doctorum hu-
-        principii ad specialcm casum, scilicel rcspeclu peccati origi-            ius posilionis reprobatione satis cnnstat. l't auicm eorum opinio
-        nalis. Etrevera, habiia raiionc omnium circurjistanliarum , hacc          facilius intclligatur, servire possunt verba Alexnndri Hal. (S.
-        haesitatio lunc eral laude digna el quasi necessaria. Asserlio            p. III. q. 9. m. I. a. I.): c Sanctificatio nihil aliud cst quam
-        enim hiiius privilegii in occidcntalibus terris videbatur nova; Ec-       motus ad sanctitatem. Sed sanctitas dicitur quatuor modis: est
-        Clesia nnndum aliquid dclcrminavcral de hac quaestione; eadcm             enim sanctitas per dedicationem ad cullum Dci [qtiae potest
-        festum conccptionis II. Virginis poiius videbatur tolerare in ali-        etiam convenire rei pure materiali]; et cst sanclilas per emun-
-        quibus locis quam approbare; praxis Ecelesiae Graecae et plu-             dationem a peccalo; tertio modo dicitur sanctitas in Scriplura
-        res Palrum Grnecorum sententiae in Occidenle tunc non iiinn-              ipsa abslractio a carmtli actu [cfr. E.xod. Ifl, 10.]; quarlo di-
-        tuerant; nondimi cliquatae crant gravcs difficultates, quae cx            citur sancliias pcr confirmalionrm in liono ». Idem in seqq,
-        universalilate lum peccati originalis tum redemptionis petilae            hanc quadrtipiicem sanctiflcationem pluribus Scripiurae locis ex-
-        obiiciehanlur; denique (el hoc summopcrc dignum est obser-
-        vatione) primi f.iiiioivs fcsli conccptionis ct defensores huius                III. Practer inm citatos: Alex. Hal., loc. cil. m. 2. a. I. —
-                                                                                  plicat.
-        privilegii ita male hoc mysterium explkalianl , veris falsa im-           B. Alberl., hic a. 3. 4. — Pclr. a Tar., hic q. I. a. I. — Richard.
-        miscebant ct invalidis vcl falsis ralionibus cnnlirmabant, nt eo-         a Mccl., luc a. I. q. I.. — .Egid. ii., hic q. I. a. I. dub. lat.
-        rum positionibus et piae scntentiae sic intellectae iure contra-          1-3. — llcnr. Gand., dc liac et scqq. qq. Quodl. 15. q. 13. —
-        diccndum essel. Plerumque cnim voluerunt, cafnem Virginis                 Durand., dc hac et seqq. qq. hic q. I. 2. — Dionys. Carth., de
-        fuissc sanciificalam ante anintationem , et h:ic ralione I!. Virgi-       hac et seqq. qq. hic q. I. — Biel, de hac et seqq. qq. hic q. I.
+1. Ad illud ergo quod obiicitur in contrarium de Ieremia: *Ante cognovit, quam formavit;* dicendum, quod notitia illa non ponit aliquid circa ipsum, sed circa propositum Dei praedestinantis, sicut electio et dilectio et praedestinatio aeterna non ponit aliquid circa praedestinatum[^13]; et ideo non sequitur ex hoc, quod caro Ieremiae vel Virginis ante fuerit sanctificata quam formata.
+
+2. Ad illud quod obiicitur de Ioanne, quod nondum erat in ipso spiritus vitae; dicendum, quod in Scriptura aliquid dicitur fieri, quando innotescit; et non esse, quando non apparet. Et ideo dicitur spiritus non fuisse in Ioanne, quia non apparebat; adhuc enim in utero erat[^14]; spiritus gratiae in eo dicitur fuisse, quando in occursum Domini exsultavit in ventre.
+
+3. Ad illud quod obiicitur, quod caro potest infici ante animationem, ergo et sanctificari; dicendum, quod non est simile, quia generatio carnis ex carne est carnalis, non spiritualis; ideo magis habet transfundi caro vitiosa ex carne vitiosa, quam sancta ex parentibus sanctificatis per gratiam[^15].
+
+4. Ad illud quod obiicitur, quod conceptio Virginis fuit ex legitimo matrimonio, ergo etc.; dicendum, quod totum illud est probabile, videlicet quod concepta fuerit ex sterili et ex coitu coniugali absque omni *culpa actuali;* non tamen sequitur, quod concepta fuerit absque *causa peccati,* quia ita transfunditur originale ex illis qui generant ex coitu legitimo, sicut qui generant ex coitu adulterino, sicut ostensum fuit in secundo libro[^16]. — Et *si obiiciat,* quod non debuit ibi esse *causa* originalis, quia facta est mediante virtute Spiritus sancti fecundante, et propter fecundationem sterilitatis maternae, quae non fuit ab homine, sed a Deo; dicendum, quod illud non valet, quia hoc similiter posset obiici de Ioanne et Isaac[^17], qui de sterilibus sunt concepti.
+<!-- page 63 -->
+Propter quod nota, quod Spiritus sanctus aliquando operatur ut *Spiritus,* aliquando ut *sanctus.* Tunc quidem operatur ut *Spiritus,* quando opus facit supra naturam; tunc ut Spiritus *sanctus* operatur, cum non facit solum opus supra naturam, sed etiam sanctificat illud, supra quod operatur. — Dico igitur, quod in conceptione solius Filii Dei, qui est Sanctus Sanctorum, non solum operatus est ut *Spiritus,* sed ut Spiritus *sanctus.* In conceptione vero, qua Ioannes est conceptus, sive beata Virgo, operatus est ut *Spiritus* tantum[^18]; ideo sola Virgo Maria dicitur concepisse de Spiritu sancto. Propterea nullius conceptionis solemnitatem celebrat Ecclesia nisi solius Filii Dei in Annuntiatione beatae Virginis Mariae.
+
+Sunt tamen aliqui, qui ex speciali devotione celebrant conceptionem beatae Virginis, quos nec omnino[^19] *laudare* nec *simpliciter* audeo *reprehendere.* Non omnino *approbare* audeo, pro eo quod sancti Patres, qui alias solemnitates Virginis, Spiritu sancto dictante, statuerunt, qui etiam magni amatores et veneratores beatae Virginis fuerunt, conceptionem Virginis solemnizare non decreverunt. Beatus etiam Bernardus[^20], praecipuus Virginis amator et honoris eius zelator, illos reprehendit, qui conceptionem Virginis celebrant. Statuta etiam universalis Ecclesiae de Sanctorum celebritatibus omnia fundata sunt super sanctitatem, ut nullo die pro aliquo Sancto solemnizet, in quo vel pro quo persona sancta non fuerit, cui honor ille defertur. Si ergo sanctitas non fuit in Virgine ante animae infusionem, non videtur usquequaque securum conceptionis illius etiam solemnitatem celebrare. — Non etiam audeo omnino *reprehendere,* quia, ut quidam dicunt, haec solemnitas celebrari non coepit humana inventione, sed divina revelatione[^21]; quod si verum est, sine dubio bonum est solemnizare in eius conceptione. Sed quia hoc authenticum non est, non compellimur credere; quia etiam contra fidem rectam non est, non compellimur negare.
+
+*Potest etiam esse,* quod illa solemnitas potius refertur ad diem sanctificationis quam conceptionis. Et quoniam dies conceptionis fuit certa, et dies sanctificationis incerta, ut patebit infra[^22], ideo non irrationabiliter solemnitas diei sanctificationis statui potuit in die conceptionis; nec immerito, quia quamvis conceptionis diem non oporteat celebrari, pro eo quod non fuit *sanctitas in concepto,* possunt tamen irreprehensibiliter gaudere sanctae animae, pro eo scilicet quod tunc *inchoatum est.* Quis enim audiens Virginem, de qua salus totius mundi processit, conceptam, gratias Deo exsolvere negligat et omittat *exsultare in Deo salutari suo[^23],* nisi qui erga gloriosam Virginem minus devote afficitur et magis considerat *praesentia* quam *futura,* magis etiam considerat *boni defectum* quam *fundamentum?* Etenim si filius regis claudus nascatur, qui sit a claudicatione processu temporis liberandus; non est de claudicatione dolendum, sed potius de nativitate gaudendum. Per hunc modum si quis in die conceptionis eius solemnizet, attendens magis *sanctificationem futuram* quam *conceptionem praesentem,* non videtur dignus redargui; et ideo dixi, quod tales nec *vituperare* audeo nec *laudare.*
+
+Credo tamen et confido de Virgine gloriosa, quod si quis hanc solemnitatem celebrat non ex *amore novitatis[^24],* sed potius ex devotione Virginis, non credens etiam contra illud quod elici potest ex sacra Scriptura; quod benedicta Virgo devotionem eius acceptat; et si aliquid est reprehensibile, spero, quod apud iustum Iudicem dignabitur excusare. Nec huic obviant dicta Bernardi. Potius enim intendit excludere errorem, ne quis credat Virginem sanctificatam in conceptione, quam erga Virginem
+<!-- page 64 -->
+devotionem nostram minuere, cui nullus nimis potest esse devotus; ita tamen, quod nihil credat de ea, quod sit contra veritatem et sacrae Scripturae et fidei christianae, quae omnem devotionem nostram, tam erga Deum quam erga Matrem eius, debet praecedere.
+
+Quod si aliquis obiiciat, aliorum Sanctorum conceptiones non esse celebres propter subsequentes sanctificationes; poterit ei[^25] dici, quod alii Sancti pro malo non habebunt, si aliquis specialis honor Matri Domini tribuatur, quoniam sanctificationis ipsius *magnitudo* et *acceleratio* ceteras antecellit. Et ideo mirandum non est, si Spiritus sanctus inhabitans in cordibus fidelium, devotionem ipsorum magis erga Virginem inflammat quam erga alios Sanctos et Sanctas. Hac etiam de causa quotidie de Virgine gloriosa facimus officium speciale iuxta ordinem Romanae Ecclesiae, licet pro beato Petro, Apostolorum principe, solummodo ter[^26] in anno faciamus officium. — Quacumque igitur hora, quacumque die aliquis fidelium cum totis praecordiis et visceribus honoret Virginem, increpandus non est pertinaciter, ne ipsius Virginis animadversio incurratur, quae auxiliatrix et amatrix est omnium fidelium suorum laudatorum, sicut illi qui tales sunt, experimento multiplici cognoverunt[^27].
+
+### Scholion
+
+**I.** Celeberrima est dogmatica definitio, an. 1854 a Papa Pio IX. promulgata, quae quoad controversiam de conceptione immaculata Dei Genitricis Mariae sancivit: « Doctrinam, quae tenet, beatissimam Virginem Mariam in primo instanti suae conceptionis fuisse singulari omnipotentis Dei gratia et privilegio, intuitu meritorum Christi Iesu, Salvatoris humani generis, ab omni originalis culpae labe praeservatam immunem, esse a Deo revelatam, atque idcirco ab omnibus fidelibus firmiter constanterque credendam ». De distincta huius decreti explicatione nec non de historia controversiae, circa hanc rem a tempore S. Bernardi agitatae, consulantur recentiorum theologorum opera. Sufficiat hic breviter notare, vocabulum *conceptio* intelligi non de conceptione *activa* sive *generativa,* (quae est ex parte parentum), sed de *passiva* (ex parte fructus geniti); et iterum non de conceptione *seminali* sive carnis non animatae, sed de conceptione *passiva adaequata,* sive quae consummatur infusione animae rationalis, et qua constituitur persona humana. Haec vocatur etiam conceptio *personalis* et a nostro Doctore aliisque antiquis *nativitas in utero,* quae distinguitur a *nativitate ex utero* (cfr. infra q. 2. arg. 5. ad opposit. et q. 3. ad 1. 2.). Hinc verba: « in primo instanti suae conceptionis » intelligenda sunt de momento creationis et infusionis animae; ipsaque sanctificatio refertur ad *personam* sive terminum adaequatum generationis, non ad principia naturalia generationis, vel ad modum eiusdem. *Causa* autem *efficiens* huius sanctificationis indicatur verbis: « singulari omnipotentis Dei *gratia* et *privilegio* », quo simul notatur *exemtio singularis a lege communi,* qua generaliter illi qui secundum ordinem *naturalem* a primis parentibus descendunt, originali culpae obnoxii sunt; unde aliquod *debitum, saltem remotum,* incurrendi hanc labem etiam in B. V. Maria supponitur. *Causa* autem *meritoria* huius eminentissimae redemptionis notatur verbis: « intuitu meritorum Christi Iesu, Salvatoris humani generis ».
+
+**II.** Secundum tenorem huius decreti corrigenda vel determinanda est doctrina, quae in 3 quaestionibus huius articuli a S. Bonav. secundum sententiam tunc in scholis fere communem proponitur. Ne autem sinistre iudicetur de nostro auctore aliisque coaevis, haec observamus. *1.* Concedendum est, ea aetate ipsos Ss. Doctores Bernardum, Thomam, Bonaventuram aliosque ignorasse, praedictum privilegium, nunc definitum, esse revelatum, scilicet implicite in deposito fidei traditum; immo eosdem usque ad Scotum ne *statum quidem quaestionis* praecise cognovisse, ut ex sequentibus
+<!-- page 65 -->
+patebit. Unde S. Bonaventurae (q. 2.) opinio opposita visa est « communior, rationabilior et securior ». Nec defuerunt qui cum B. Alberto (hic a. 4.) assererent, eandem esse tenendam tanquam fide certam. Quidam insuper generaliter docuerunt, hanc praeservationem in ipsa conceptione esse omnino *impossibilem;* sed haec assertio a S. Bonav. (infra q. 2. ad 6.) aliisque multis magistris reprobatur; nec ab his discrepat Alex. Hal., licet dicat, B. Virginem in sua conceptione sanctificari *non potuisse,* cum tantum loquatur de conceptione *seminali* et sanctificatione *proprie dicta.* Attamen B. V. Mariam contraxisse *actualiter* peccatum originale, sed sanctificatam esse in utero *post* infusionem animae (sive in secundo instanti temporis, ut vult Aegid. R. et Henr. Gand., sive saltem post breve tempus), hoc quasi uno ore cum Ss. Bernardo, Thoma, Bonav. docent Alex. Hal., B. Albert., Petr. a Tar., Richard. a Med., Aegid. R., Henr. Gand., Durand. aliique multi, et ante Scotum communiter. — Quod autem etiam S. Thom., saltem in locis, ubi ex professo hanc quaestionem tractat (hic q. 1. a. 1; S. III. q. 27. a. 1. 2; Quodl. 6. q. 5. a. 7; Compend. theol. c. 224.), a sententia tunc communi non recesserit, ipsa eius verba, praesertim si conferuntur cum verbis coaevorum, satis manifestant. Hoc etiam confirmatur certissimo hoc facto, quod discipuli eius, eidem Ordini adscripti, usque ad saeculum XVI. ita magistrum intelligebant, immo illa aetate plerumque eandem sententiam cum praestantibus theologis S. Antonino, Ioan. a Turre-cremata, Caietano tanquam in se veram defendebant. In subsequentibus saeculis, cum mens Ecclesiae paulatim in favorem verae sententiae se manifestaret, numerus defensorum huius privilegii in schola S. Thomae crevit. Tunc autem inceptum est de vera sententia S. Doctoris disputari. Nonnulli enim, innixi quibusdam aliis locis, duce Seraphino Capponi de Porrecta (in Elucidat. ad S. III. q. 27. a. 2.), S. Thomam potius illi privilegio favere, vel saltem non contradicere volunt contrariosque locos ita interpretantur, ut *peccatum originale* etiam pro *debito* incurrendi eam intelligant. Hinc ipsum locum in Comment. (loc. cit. quaestiunc. 2.), ubi dicitur, quod sanctificatio Virginis non potuerit esse decenter nec *ante* infusionem animae, nec etiam *in ipso instanti* infusionis etc., non secundum materialem verborum sensum intelligi debere, iidem affirmant. Attamen praedictus Seraphinus ibidem confitetur, S. Thomam etiam in Summa docuisse, magis tenendam esse opinionem, quod B. V. *actualiter* peccatum originale contraxerit. — De sententia S. Bonaventurae et Scoti in seq. scholio mentio fiet.
+
+*2.* Absit tamen, ut quis praedictos saeculi 12. et 13. doctores reputet aliqua reprehensione dignos, vel ut minus bene de eorum pietate, doctrina et devotione erga B. Virginem existimet. Exploratum enim est, et ex ipsis verbis in hac disputatione ab eis adhibitis constat, illos non defectu alicuius pietatis, vel devotionis, vel sanorum principiorum a veritate penitus perspicienda impeditos esse, sed plurimis difficultatibus, illa aetate hanc quaestionem adhuc obscurantibus. Concorditer quidem omnes proclamabant principium S. Anselmi, quod Matri Dei tribuenda sit « *puritas, qua maior sub Deo* (Christo) *nequit intelligi* » (q. 2. arg. 1.); sed haesitabant in applicatione huius principii ad specialem casum, scilicet respectu peccati originalis. Et revera, habita ratione omnium circumstantiarum, haec haesitatio tunc erat laude digna et quasi necessaria. Assertio enim huius privilegii in occidentalibus terris videbatur nova; Ecclesia nondum aliquid determinaverat de hac *quaestione;* eadem *festum* conceptionis B. Virginis potius videbatur tolerare in aliquibus locis quam approbare; praxis Ecclesiae Graecae et plures Patrum Graecorum sententiae in Occidente tunc non innotuerant; nondum eliquatae erant graves difficultates, quae ex universalitate tum peccati originalis tum redemptionis petitae obiiciebantur; denique (et hoc summopere dignum est observatione) primi fautores festi conceptionis et defensores huius privilegii *ita male hoc mysterium explicabant,* veris falsa immiscebant et invalidis vel falsis rationibus confirmabant, ut eorum positionibus et piae sententiae *sic intellectae* iure contradicendum esset. Plerumque enim voluerunt, *carnem* Virginis fuisse sanctificatam *ante animationem,* et hac ratione B. Virginem a culpa originali omnino exemptam. — Contra hanc positionem haec 1. quaestio militat et communis responsio negativa magistrorum, etiam Scoti (hic q. 1. n. 14.), recte sustinetur, iam ob hanc rationem, quia illa positione ne *remotum* quidem *debitum* contrahendi peccatum originale admitti videtur. Alii autem defensores eiusdem sententiae alteram, itidem non plene satisfacientem explicationem afferebant, contra quam S. Bonav. arguit in 2. quaestione.
+
+**III.** Quod primi defensores praedicti privilegii et festi sanctificationem *carnis* in ipsa conceptione seminis et ante infusionem animae docuerint, ex eorum scriptis et communi doctorum huius positionis reprobatione satis constat. Ut autem eorum opinio facilius intelligatur, servire possunt verba Alexandri Hal. (S. p. III. q. 9. m. 1. a. 1.): « *Sanctificatio* nihil aliud est quam *motus ad sanctitatem.* Sed *sanctitas* dicitur quatuor modis: est enim sanctitas per *dedicationem* ad cultum Dei [quae potest etiam convenire rei pure materiali]; et est sanctitas per *emundationem* a peccato; tertio modo dicitur sanctitas in Scriptura ipsa *abstractio a carnali actu* [cfr. Exod. 19, 10.]; quarto dicitur sanctitas per *confirmationem in bono* ». Idem in seqq. hanc quadruplicem sanctificationem pluribus Scripturae locis explicat.[^28]
+
+---
 
 ## English
 
-[Translation pending]
+### Article I. *On the sanctification of the Virgin as regards the fitting time.*
+### Question I. *Whether the Virgin's flesh was sanctified before animation.*
+
+Concerning the first point one proceeds thus, and it is asked whether the Virgin's flesh was sanctified before animation. And it is proved first that it was, thus:
+
+1. Jeremiah, chapter one[^1]: *Before I formed thee in the womb, I knew thee;* it is established that the blessed Virgin was more excellent than Jeremiah: therefore her flesh was approved and purified before it was formed. But it was formed before it was animated: therefore the sanctification of the flesh was before the animation.
+
+2. Likewise, on that passage of Luke, chapter one[^2]: *The infant leaped for joy in my womb;* the Gloss: « There was not yet in him the spirit of life, and already there was the spirit of grace »: therefore much more strongly was this so in the Lord's mother, who was more worthy than John: therefore she was sanctified before the spirit of life, and so before animation.
+
+3. Likewise, the sanctifying power is not less powerful than the infecting and defiling power; but the flesh can be infected and defiled before animation: therefore by parity of reasoning, before the infusion of the soul — indeed by a stronger reason — it can be sanctified, since « opposites are by nature apt to come to be about the same thing[^3] ». If, then, this was granted to the blessed Virgin, however far it is fitting that it be granted to a pure creature; it seems that her flesh was sanctified before animation.
+
+4. Likewise, the conception of the glorious Virgin was from lawful matrimony and from holy parents and from a barren mother, according to what a certain history[^4] narrates: it seems therefore that she was conceived by the power of the Holy Spirit: if then that conception, which is according to lawful matrimony and according to the help of the Holy Spirit, is holy and immaculate; it seems that the flesh of the Virgin Mary was sanctified in her very conception. But the conception was before the animation: therefore she was sanctified before she was animated.
+
+**On the contrary:** 1. Bernard, to the men of Lyons[^5]: « Before conception she could in no way be sanctified, because she did not exist; but neither in the conception itself, on account of the sin which was present »: but it is established that this was not said on account of a sin that was in the parents, since they could have conceived her without sin: therefore he says it on account of the *cause* of sin, which was in the flesh: therefore it does not seem that the sanctification was before the infusion of the soul.
+
+2. Likewise, sanctification is through some gift of the grace of the Holy Spirit; but grace does not have being in the flesh, but in the soul: therefore it does not seem that grace was infused into the flesh before the soul.
+
+3. Likewise, the being of grace presupposes the being of nature, and the perfection of grace presupposes the perfection of nature: if then sanctification denotes the effect of vivifying grace, it seems impossible that the flesh be sanctified before it is vivified by the soul[^6].
+
+4. Likewise, nothing pertains to sanctification which does not pertain to glorification; but the flesh before animation does not pertain to glorification nor to resurrection — whence aborted foetuses before animation do not rise again, as Augustine says[^7] — therefore the flesh before animation was not fit for sanctification: therefore the Virgin's flesh was not sanctified before it was animated.
+
+### Conclusion
+
+> The blessed Virgin's flesh was not sanctified before animation.
+
+**I respond:** It must be said that the flesh of the blessed Virgin was not sanctified before animation; not because God could not purify the Virgin's flesh before animating it, but because sanctification has its being through some superadded gratuitous gift, which indeed does not have being in the flesh, but in the soul. Therefore if the flesh of the blessed Virgin is said to be sanctified, this is understood either by means of grace existing in her soul, or by means of grace existing in the souls of her parents. It is established that it was not by means of grace existing in her soul, because then there would be an opposition in the subject,
+videlicet that the flesh be sanctified before the creation of the soul, and yet be sanctified by the power of the grace of that soul; for it would follow[^8] that the same thing be prior and posterior in one and the same. — But if it be understood that this happens through grace conferred on the souls of the parents, this cannot be, for three reasons.
+
+*The first:* because the grace[^9] of sanctification is not transfused from parent into offspring, inasmuch as the offspring is not in the parent according to the soul; therefore neither does it have the grace of sanctification in the parent. And this is what Bernard says to the men of Lyons: « Before conception she could in no way be sanctified, because she did not exist »; this must be expounded according to the soul; for she was in them according to the flesh causally, but that being did not suffice for the grace of sanctification, which regards the soul.
+
+*The second reason* is: because, even if it were possible that sanctification be derived from parent into offspring[^10], like original justice; nevertheless it is never derived by means of libidinous intercourse, because then two opposites would be at once and at the same time in the same thing. And therefore Bernard says[^11]: « Perhaps amid marital embraces holiness mingled itself with the very conception, so that she was at once sanctified and conceived. But reason does not admit this. For how was there holiness without a sanctifying Spirit, or fellowship of the Holy Spirit with sin? Or how was there no sin, where lust was not lacking »?
+
+*The third reason* is: because granted that sanctification were present, and lust were lacking by divine power; nevertheless it was not fitting that it be lacking, on account of this, that this is the prerogative of the blessed Virgin alone; for she alone, as the Saints say, conceived without sin and brought forth without pain; and therefore this ought not to have been granted to the parents of the blessed Virgin, but reserved to the Virgin alone. Whence Bernard[^12]: « I say that the glorious Virgin conceived of the Holy Spirit, but was not herself conceived [thus]; I say that she brought forth a virgin, yet was not herself brought forth by a virgin. Otherwise where will be the prerogative of the Mother, in which she is singularly believed to rejoice both in the gift of her offspring and in the integrity of her flesh, if thou shouldst grant it to her mother? This is not to honor the Virgin, but to detract from her honor ». — And therefore it must simply be conceded that her flesh was not sanctified before animation. And the reasons which prove this are to be conceded.
+
+1. To that, then, which is objected on the contrary side concerning Jeremiah: *He knew before he formed;* it must be said that that knowing does not posit anything about him, but about the purpose of God predestining, just as election and love and eternal predestination do not posit anything about the predestined[^13]; and therefore it does not follow from this that the flesh of Jeremiah or of the Virgin was sanctified before it was formed.
+
+2. To that which is objected concerning John, that there was not yet in him the spirit of life; it must be said that in Scripture a thing is said to come to be when it becomes known; and not to be, when it does not appear. And therefore the spirit is said not to have been in John, because it did not appear; for he was still in the womb[^14]; the spirit of grace is said to have been in him when he leaped in the womb at the coming of the Lord.
+
+3. To that which is objected, that the flesh can be infected before animation, therefore also sanctified; it must be said that it is not alike, because the generation of flesh from flesh is carnal, not spiritual; therefore vitiated flesh is more apt to be transfused from vitiated flesh, than holy flesh from parents sanctified by grace[^15].
+
+4. To that which is objected, that the Virgin's conception was from lawful matrimony, therefore etc.; it must be said that all that is probable, namely that she was conceived from a barren woman and from conjugal intercourse without any *actual fault;* nevertheless it does not follow that she was conceived without the *cause of sin,* because the original [fault] is transfused from those who generate by lawful intercourse just as from those who generate by adulterous intercourse, as was shown in the second book[^16]. — And *if one objects* that there ought not to have been there a *cause* of the original [fault], because she was made by means of the power of the fecundating Holy Spirit, and on account of the fecundation of the maternal barrenness, which was not from man, but from God; it must be said that this does not hold, because this could likewise be objected concerning John and Isaac[^17], who were conceived of barren women.
+
+Concerning which note that the Holy Spirit sometimes operates as *Spirit,* sometimes as *holy.* He operates as *Spirit* when he does a work above nature; he operates as the *holy* Spirit when he does not only a work above nature, but also sanctifies that upon which he operates. — I say therefore that in the conception of the Son of God alone, who is the Holy of Holies, he operated not only as *Spirit,* but as the *holy* Spirit. But in the conception by which John was conceived, or the blessed Virgin, he operated as *Spirit* only[^18]; therefore the Virgin Mary alone is said to have conceived of the Holy Spirit. Therefore the Church celebrates the solemnity of no conception except of the Son of God alone, in the Annunciation of the blessed Virgin Mary.
+
+There are, however, some who out of special devotion celebrate the conception of the blessed Virgin, whom I dare neither altogether[^19] *praise* nor *simply reprehend.* I dare not altogether *approve,* inasmuch as the holy Fathers, who established the other solemnities of the Virgin at the dictation of the Holy Spirit, who were also great lovers and venerators of the blessed Virgin, did not decree the solemnizing of the Virgin's conception. Blessed Bernard too[^20], a chief lover of the Virgin and zealot for her honor, reprehends those who celebrate the Virgin's conception. The statutes too of the universal Church concerning the celebrations of the Saints are all founded upon holiness, so that on no day does it solemnize for any Saint, on which or for which the holy person did not exist, to whom that honor is rendered. If then there was no holiness in the Virgin before the infusion of the soul, it does not seem altogether safe to celebrate even the solemnity of that conception. — Neither do I dare altogether to *reprehend,* because, as some say, this solemnity began to be celebrated not by human invention, but by divine revelation[^21]; and if this is true, without doubt it is good to solemnize in her conception. But because this is not authentic, we are not compelled to believe it; and because it is also not against right faith, we are not compelled to deny it.
+
+*It can also be* that that solemnity refers rather to the day of sanctification than of conception. And since the day of conception was certain, and the day of sanctification uncertain, as will appear below[^22], therefore not irrationally could the solemnity of the day of sanctification be established on the day of conception; nor without reason, because although the day of conception need not be celebrated, inasmuch as there was no *holiness in the thing conceived,* yet holy souls can irreprehensibly rejoice, namely inasmuch as then it *was begun.* For who, hearing that the Virgin, from whom the salvation of the whole world proceeded, was conceived, would neglect to render thanks to God and omit to *rejoice in God his savior[^23],* except one who is less devoutly affected toward the glorious Virgin and considers more the *present things* than the *future,* and considers more the *defect of the good* than the *foundation?* For if the son of a king be born lame, who is in process of time to be freed from his lameness; the lameness is not to be grieved over, but rather the birth is to be rejoiced in. In this way, if anyone solemnize on the day of her conception, attending more to the *future sanctification* than to the *present conception,* he does not seem worthy to be reproved; and therefore I said that such persons I dare neither *vituperate* nor *praise.*
+
+Yet I believe and trust concerning the glorious Virgin, that if anyone celebrate this solemnity not out of *love of novelty[^24],* but rather out of devotion to the Virgin, not believing also against that which can be elicited from sacred Scripture; that the blessed Virgin accepts the devotion to her; and if anything is reprehensible, I hope that before the just Judge she will deign to excuse it. Nor do the sayings of Bernard stand against this. For he rather intends to exclude the error, lest anyone believe the Virgin to have been sanctified in the conception, than to diminish our devotion toward the Virgin,
+toward whom no one can be too devout; yet so that one believe nothing of her that is against the truth both of sacred Scripture and of the Christian faith, which ought to precede all our devotion, both toward God and toward his Mother.
+
+But if anyone objects that the conceptions of the other Saints are not celebrated on account of subsequent sanctifications; it can be said to him[^25] that the other Saints will not take it ill if some special honor be rendered to the Mother of the Lord, since the *magnitude* and *acceleration* of her sanctification surpasses the rest. And therefore it is not to be wondered at if the Holy Spirit, dwelling in the hearts of the faithful, inflames their devotion more toward the Virgin than toward the other male and female Saints. For this cause too we daily perform a special office concerning the glorious Virgin according to the order of the Roman Church, although for blessed Peter, the prince of the Apostles, we perform an office only thrice[^26] in the year. — At whatever hour, therefore, on whatever day any of the faithful with his whole heart and bowels honors the Virgin, he is not to be obstinately rebuked, lest the censure of the Virgin herself be incurred, who is the helper and lover of all her faithful praisers, as those who are such have come to know by manifold experience[^27].
+
+### Scholion
+
+**I.** Most renowned is the dogmatic definition, promulgated in the year 1854 by Pope Pius IX, which concerning the controversy over the immaculate conception of the Mother of God Mary sanctioned: « The doctrine which holds that the most blessed Virgin Mary, in the first instant of her conception, was by a singular grace and privilege of almighty God, in view of the merits of Christ Jesus, the Savior of the human race, preserved immune from all stain of original guilt, is revealed by God, and therefore is to be firmly and constantly believed by all the faithful ». For the distinct exposition of this decree, as also for the history of the controversy stirred up about this matter from the time of St. Bernard, let the works of more recent theologians be consulted. Let it suffice here briefly to note that the word *conception* is understood not of the *active* or *generative* conception (which is on the part of the parents), but of the *passive* (on the part of the offspring generated); and again not of the *seminal* conception or of unanimated flesh, but of the *adequate passive* conception, that is, the conception which is consummated by the infusion of the rational soul, and by which the human person is constituted. This is also called the *personal* conception, and by our Doctor and other ancients the *nativity in the womb,* which is distinguished from the *nativity from the womb* (cf. below q. 2, arg. 5 ad opposit. and q. 3 ad 1, 2). Hence the words « in the first instant of her conception » must be understood of the moment of the creation and infusion of the soul; and the sanctification itself refers to the *person* or the adequate term of generation, not to the natural principles of generation, nor to the manner of the same. The *efficient cause* of this sanctification is indicated by the words « by a singular *grace* and *privilege* of almighty God », by which there is at the same time noted the *singular exemption from the common law,* by which generally those who according to the *natural* order descend from the first parents are subject to original guilt; whence some *debt, at least remote,* of incurring this stain is supposed even in the Blessed Virgin Mary. The *meritorious cause* of this most eminent redemption is noted by the words « in view of the merits of Christ Jesus, the Savior of the human race ».
+
+**II.** According to the tenor of this decree, the doctrine which in the 3 questions of this article is proposed by St. Bonav. according to the opinion then almost common in the schools is to be corrected or determined. But lest our author and the others of his age be judged amiss, we observe these things. *1.* It must be conceded that in that age the holy Doctors themselves, Bernard, Thomas, Bonaventure and others, were ignorant that the aforesaid privilege, now defined, was revealed, that is, handed down implicitly in the deposit of faith; indeed that the same, down to Scotus, did not even precisely know the *state of the question,* as will appear from what follows.
+Whence the opinion opposed [to that of St. Bonav.] (q. 2) seemed « more common, more reasonable, and safer ». Nor were there lacking those who with Bl. Albert (here a. 4) asserted that the same was to be held as certain by faith. Some moreover taught generally that this preservation in the very conception was altogether *impossible;* but this assertion is reprobated by St. Bonav. (below q. 2 ad 6) and by many other masters; nor does Alex. Hal. disagree with these, although he says that the Blessed Virgin in her conception *could not* be sanctified, since he is speaking only of the *seminal* conception and of sanctification *properly so called.* Yet that the Blessed Virgin Mary contracted original sin *actually,* but was sanctified in the womb *after* the infusion of the soul (whether in the second instant of time, as Aegid. R. and Henr. Gand. hold, or at least after a brief time), this with one voice as it were with Sts. Bernard, Thomas, Bonav. is taught by Alex. Hal., Bl. Albert, Petr. a Tar., Richard. a Med., Aegid. R., Henr. Gand., Durand. and many others, and before Scotus commonly. — And that St. Thomas too, at least in the places where he treats this question expressly (here q. 1 a. 1; Summa III q. 27 a. 1, 2; Quodl. 6 q. 5 a. 7; Compend. theol. c. 224), did not depart from the then common opinion, his very words, especially if they are compared with the words of his contemporaries, sufficiently manifest. This too is confirmed by this most certain fact, that his disciples, enrolled in the same Order, down to the sixteenth century so understood their master; indeed in that age for the most part defended the same opinion, with eminent theologians St. Antoninus, John of Torquemada, Cajetan, as true in itself. In the subsequent centuries, when the mind of the Church gradually manifested itself in favor of the true opinion, the number of defenders of this privilege in the school of St. Thomas grew. Then, however, it began to be disputed about the true opinion of the holy Doctor. For some, leaning on certain other places, led by Seraphinus Capponi de Porrecta (in his Elucidation on Summa III q. 27 a. 2), wish that St. Thomas rather favored that privilege, or at least did not contradict it, and so interpret the contrary places that they understand *original sin* even as the *debt* of incurring it. Hence they affirm that the very place in the Commentary (loc. cit. little-question 2), where it is said that the sanctification of the Virgin could not fittingly be either *before* the infusion of the soul, nor even *in the very instant* of infusion, etc., must not be understood according to the material sense of the words. Yet the aforesaid Seraphinus there confesses that St. Thomas also taught in the Summa that the opinion more to be held is that the Blessed Virgin *actually* contracted original sin. — Of the opinion of St. Bonaventure and Scotus mention will be made in the following scholion.
+
+*2.* Far be it, however, that anyone should reckon the aforesaid doctors of the 12th and 13th centuries worthy of any reproof, or that he should think less well of their piety, doctrine, and devotion toward the Blessed Virgin. For it is well established, and from the very words used by them in this disputation it is clear, that they were hindered from perceiving the truth utterly not by any defect of piety, or of devotion, or of sound principles, but by very many difficulties which in that age still obscured this question. Concordantly indeed all proclaimed the principle of St. Anselm, that there must be attributed to the Mother of God « a *purity than which a greater under God* (Christ) *cannot be conceived* » (q. 2 arg. 1); but they hesitated in the application of this principle to the special case, namely with respect to original sin. And in truth, having regard to all the circumstances, this hesitation was then worthy of praise and as it were necessary. For the assertion of this privilege in the western lands seemed new; the Church had not yet determined anything about this *question;* the same rather seemed to tolerate the *feast* of the conception of the B. Virgin in certain places than to approve it; the practice of the Greek Church and several opinions of the Greek Fathers had not then become known in the West; the grave difficulties which were objected from the universality both of original sin and of the redemption sought had not yet been clarified; finally (and this is exceedingly worthy of observation) the first promoters of the feast of the conception and the defenders of this privilege so badly explained this mystery, mixed false things with true, and confirmed it by invalid or false reasons, that their positions and the pious opinion *so understood* had rightly to be contradicted. For they mostly wished that the *flesh* of the Virgin had been sanctified *before animation,* and by this reasoning that the B. Virgin was altogether exempt from original guilt. — Against this position this 1st question militates, and the common negative response of the masters, even of Scotus (here q. 1 n. 14), is rightly sustained, for this very reason, that by that position not even the *remote debt* of contracting original sin seems to be admitted. But other defenders of the same opinion brought forward another explanation, likewise not fully satisfying, against which St. Bonav. argues in the 2nd question.
+
+**III.** That the first defenders of the aforesaid privilege and feast taught the sanctification of the *flesh* in the very conception of the seed and before the infusion of the soul, is sufficiently established from their writings and from the common reprobation of the doctors of this position. But that their opinion may be more easily understood, the words of Alexander of Hales can serve (Summa p. III q. 9 m. 1 a. 1): « *Sanctification* is nothing else than a *movement toward holiness.* But *holiness* is said in four ways: for there is holiness through *dedication* to the worship of God [which can also belong to a purely material thing]; and there is holiness through *cleansing* from sin; in a third way holiness is said in Scripture itself to be the *abstraction from the carnal act* [cf. Exod. 19, 10]; in a fourth way holiness is said to be through *confirmation in good* ». The same in what follows explains this fourfold sanctification by several passages of Scripture.[^28]
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body and the English translation above. Quaracchi restarts the footnote numbering on each printed page; the apparatus is grouped page by page.
+
+**Page 61.**
+
+[^1]: **La.** Vers. 5. — Cfr. August., VI. de Gen. ad lit. c. 8. n. 13. seq.
+    **En.** Verse 5. — Cf. Augustine, *On Genesis according to the Letter* VI, c. 8, n. 13 ff.
+
+[^2]: **La.** Vers. 44. — Glossa, quae *ordinaria* est et sumta ex Ambros. Exposit. Evang. Luc. I, 15, (libr. I. n. 33.), habetur apud Strabum et Lyranum in dictum locum.
+    **En.** Verse 44. — The Gloss, which is the *Ordinary* [Gloss] and is taken from Ambrose, *Exposition of the Gospel of Luke* I, 15 (book I, n. 33), is found in Strabo and Lyra at the said place.
+
+[^3]: **La.** Secundum Aristot., de Praedicam. c. de Oppositis, et II. Topic. c. 3. (c. 7.). — De infectione carnis ante animationem vide M. Sent. d. 31. circa lit. — Pro *fortiori* edd. *a fortiori,* cod. V *multo fortiori.*
+    **En.** According to Aristotle, *Categories,* chapter on Opposites, and *Topics* II, c. 3 (c. 7). — On the infection of the flesh before animation see the Master's *Sentences* d. 31, around the text. — For *fortiori* the editions read *a fortiori,* cod. V *multo fortiori.*
+
+[^4]: **La.** Cfr. Epist. 50. inter opera Hieronymi, quae agit de nativitate sanctae Mariae, c. 2, et Damasc., IV. de Fide orthod. c. 14.
+    **En.** Cf. Letter 50 among the works of Jerome, which treats of the nativity of holy Mary, c. 2, and Damascene, *On the Orthodox Faith* IV, c. 14.
+
+[^5]: **La.** Epist. 174. n. 7. in fine, quae epistola directa fuit ad Canonicos Lugdunenses, quorum aliqui festum Conceptionis B. M. V. celebrabant, licentia a Romano Pontifice non petita. — Paulo inferius pro *quod esset* cod. V *quod erat,* et deinde pro *ergo dicit* cod. N *ergo dicitur.*
+    **En.** Letter 174, n. 7, at the end, which letter was directed to the Canons of Lyons, some of whom celebrated the feast of the Conception of the B. V. M., the license not having been sought from the Roman Pontiff. — A little below, for *quod esset* cod. V reads *quod erat,* and then for *ergo dicit* cod. N reads *ergo dicitur.*
+
+[^6]: **La.** Cod. T *antequam animetur.*
+    **En.** Cod. T [reads] *antequam animetur* ["before it is animated"].
+
+[^7]: **La.** Enchirid. c. 85. n. 23; XXII. de Civ. Dei, c. 13. — Edd. perperam supplent *in libro de Baptismo parvulorum.* — In maiori post *glorificationem* codd. M O subiungunt *vel resurrectionem.*
+    **En.** *Enchiridion* c. 85, n. 23; *On the City of God* XXII, c. 13. — The editions wrongly supply *in the book On the Baptism of Little Ones.* — In the larger [number of codices], after *glorificationem* codd. M O add *vel resurrectionem* ["or resurrection"].
+
+**Page 62.**
+
+[^8]: **La.** Cod. N *etiam.* — Cfr. Bernard., Epist. 174. n. 6.
+    **En.** Cod. N [reads] *etiam.* — Cf. Bernard, Letter 174, n. 6.
+
+[^9]: **La.** Non pauci codd., inter quos A T V, cum edd. *ratio.*
+    **En.** Not a few codices, among them A T V, with the editions [read] *ratio.*
+
+[^10]: **La.** Codd. A T V *prole.*
+    **En.** Codd. A T V [read] *prole.*
+
+[^11]: **La.** Epist. 174. n. 7. — Pro *Aut quomodo peccatum* textus originalis habet *aut certe peccatum quomodo,* et pro *Spiritui sancto,* quae lectio concordat cum textu originali, codd. A T et alii exhibent *Spiritum Sanctum,* dum in aliis codd. exstant tantum litterae S. S. — Cfr. August., V. contra Iulian. Pelagian. c. 15. n. 52, et VI. Op. imperf. contra Iulian. c. 28.
+    **En.** Letter 174, n. 7. — For *Aut quomodo peccatum* the original text has *aut certe peccatum quomodo,* and for *Spiritui sancto,* which reading agrees with the original text, codd. A T and others exhibit *Spiritum Sanctum,* while in other codices there exist only the letters S. S. — Cf. Augustine, *Against Julian the Pelagian* V, c. 15, n. 52, and *Unfinished Work against Julian* VI, c. 28.
+
+[^12]: **La.** Loc. cit., ubi textus originalis sic: *Alioquin ubi erit praerogativa Matris Domini, qua singulariter... si tantundem dederis et matri eius? Non est* etc. — Pro *partam* codd. A T U V *partum.* Subinde pro *Alioquin ubi* codd. O V *Alioquin non,* pro *Matris* cod. O *Mariae* et pro *exsultare* idem cod. O *exaltata,* codd. A T V X *exsultari.* — Aliquantulum superius pro *concedi non debuit* cod. M *concedi non decuit,* edd. *concedi non potuit.*
+    **En.** Loc. cit., where the original text runs thus: *Otherwise where will be the prerogative of the Mother of the Lord, in which she singularly... if thou shouldst grant as much also to her mother? It is not* etc. — For *partam* codd. A T U V [read] *partum.* Then for *Alioquin ubi* codd. O V [read] *Alioquin non,* for *Matris* cod. O *Mariae,* and for *exsultare* the same cod. O *exaltata,* codd. A T V X *exsultari.* — Somewhat above, for *concedi non debuit* cod. M [reads] *concedi non decuit,* the editions *concedi non potuit.*
+
+[^13]: **La.** Cfr. I. Sent. d. 40. per totam. — Eodem modo haec Ieremiae verba exponunt Hieronym., Comment. super Ierem. I, 5; August., Epist. 187. (alias 57.) c. 12. n. 37; Bernard., Epist. 174. n. 3. seq. — Post *de Ieremia* codd. proprio marte adiiciunt *de notitia approbationis, quod,* et ante *praedestinatum* cod. Y interiicit *ipsum.* In fine solut. cod Q verbo *formata* praemittit *animata vel.*
+    **En.** Cf. *I Sent.* d. 40, throughout. — In the same way these words of Jeremiah are expounded by Jerome, *Commentary on Jeremiah* I, 5; Augustine, Letter 187 (otherwise 57), c. 12, n. 37; Bernard, Letter 174, n. 3 ff. — After *de Ieremia* the codices on their own initiative add *de notitia approbationis, quod,* and before *praedestinatum* cod. Y inserts *ipsum.* At the end of the solution, cod. Q prefixes to the word *formata* the words *animata vel.*
+
+[^14]: **La.** S. Bonav. in suo Comment. super Luc. I, 16. ait: Unde Ambrosius: « Nondum erat in eo spiritus vitae, et iam erat spiritus gratiae », non, inquam, erat secundum apparentiam, erat tamen spiritus vitalis secundum existentiam. Cfr. Glossa in Phil. 2, 8. apud Lyranum. — Paulo superius post *dicitur spiritus* edd. 1, 2 perperam adiungunt *sanctus,* Vat. addit *vitae.*
+    **En.** St. Bonav. in his *Commentary on Luke* I, 16, says: Whence Ambrose: « There was not yet in him the spirit of life, and already there was the spirit of grace », it was not, I say, [there] according to appearance, yet the vital spirit was [there] according to existence. Cf. the Gloss on Phil. 2, 8 in Lyra. — A little above, after *dicitur spiritus* edd. 1, 2 wrongly add *sanctus,* the Vatican [edition] adds *vitae.*
+
+[^15]: **La.** Cfr. II. Sent. d. 32. a. 1. q. 2.
+    **En.** Cf. *II Sent.* d. 32, a. 1, q. 2.
+
+[^16]: **La.** Dist. 31. a. 2. q. 3. — Paulo superius pro *absque omni culpa* edd. cum codd. A V substituunt *absque tamen culpa,* cod. T habet simpliciter *absque culpa.*
+    **En.** Dist. 31, a. 2, q. 3. — A little above, for *absque omni culpa* the editions with codd. A V substitute *absque tamen culpa,* cod. T has simply *absque culpa.*
+
+[^17]: **La.** De Isaac vide Gen. 18, 11; de Ioanne Luc. 1, 7. — Subinde pro *qui* codd. A F O V *quod,* cod. M *quia.* Paulo inferius pro *aliquando ut sanctus* Vat. *aliquando ut Spiritus sanctus.*
+    **En.** On Isaac see Gen. 18, 11; on John Luke 1, 7. — Then for *qui* codd. A F O V [read] *quod,* cod. M *quia.* A little below, for *aliquando ut sanctus* the Vatican [edition reads] *aliquando ut Spiritus sanctus.*
+
+**Page 63.**
+
+[^18]: **La.** Pro *tantum* codd. A T V perperam *sanctus,* quod sphalma cod. F corrigere nititur ponendo *non ut Spiritus sanctus.* Subinde pro *Propterea* edd. *Praeterea.*
+    **En.** For *tantum* codd. A T V wrongly [read] *sanctus,* which slip cod. F tries to correct by putting *non ut Spiritus sanctus.* Then for *Propterea* the editions [read] *Praeterea.*
+
+[^19]: **La.** Cod. G *simpliciter.* Aliquantulo inferius pro *dictante* edd. *docente* et mox *docuerunt* pro *decreverunt.*
+    **En.** Cod. G [reads] *simpliciter.* Somewhat below, for *dictante* the editions [read] *docente,* and presently *docuerunt* for *decreverunt.*
+
+[^20]: **La.** Epist. 174. n. 1: Unde miramur satis, quid visum fuerit hoc tempore quibusdam vestrum voluisse mutare colorem optimum, novam inducendo celebritatem, quam ritus Ecclesiae nescit, non probat ratio, non commendat antiqua traditio. Numquid Patribus doctiores aut devotiores sumus? Periculose praesumimus quidquid ipsorum in talibus prudentia praeteriit etc. — Paulo inferius pro *celebrant* codd. E F V W X Y *celebrabant.*
+    **En.** Letter 174, n. 1: Whence we wonder much what it seemed good to certain of you to wish to change the best color, by introducing a new celebration which the rite of the Church does not know, reason does not approve, ancient tradition does not commend. Are we more learned or more devout than the Fathers? Dangerously do we presume whatever the prudence of those men in such matters passed over, etc. — A little below, for *celebrant* codd. E F V W X Y [read] *celebrabant.*
+
+[^21]: **La.** Inter opera Anselmi tria inveniuntur opuscula de festo immaculatae Conceptionis tractantia, quae inscribuntur: de Conceptione B. Mariae Virg.; Miraculum de Conceptione B. Mariae Virg.; Tractatus de Conceptione B. Mariae Virg. Duo priora agunt de historia introductionis huius festi; tertii auctor celebrationem huius festi, quae tunc temporis in non paucis locis diminui vel cessare inceperat, fovere et augere intendit. Ista opuscula, iam diu ut spuria agnita, nostris temporibus cognato Anselmi, eiusdem nominis, addicuntur; qui alter Anselmus (1115 abbas in conventu Romano S. Sabae, 1121-1149 abbas in S. Edmundsbury, interim 1136-1138 episcopus Londinensis), ut ex epistola ab abbate Osbert de Clare a. 1128 ad ipsum data apparet, strenuus propugnator et fautor fuit memorati festi (cfr. Epistolae Norberti de Losinga etc. edit. a Rob. Anstrutter, Lond. 1846.). In duobus prioribus istorum opusculorum narratur, cuidam abbati, Elsino (Helsuino) nomine, in mari periclitanti, quendam pontificalibus vestibus ornatum apparuisse eumque salvasse ea conditione, ut celebraret Matris Christi Conceptionis festum sexto Idus Decembris. — Bernard., Epist. 174. n. 6, hanc relationem respiciens ait: Sed profertur scriptum supernae, ut aiunt, revelationis; quasi et quivis non queat scriptum aeque producere, in quo Virgo videatur id ipsum mandare et de parentibus suis, iuxta Domini mandatum dicentis: Honora patrem tuum et matrem tuam (Exod. 20, 12.). Ipse mihi facile persuadeo scriptis talibus non moveri, quibus nec ratio suppeditare, nec certa invenitur favere auctoritas etc. — Paulo superius pro *securum* codd. A T U V X *securam,* et subinde pro *conceptionis illius etiam solemnitatem* codd. E U W *conceptionem illius solemnitate.* Paulo inferius pro *negare* codd. M O *negligere.*
+    **En.** Among the works of Anselm three little works are found treating of the feast of the immaculate Conception, entitled: *On the Conception of the B. Mary Virgin;* *Miracle of the Conception of the B. Mary Virgin;* *Treatise on the Conception of the B. Mary Virgin.* The first two treat of the history of the introduction of this feast; the author of the third intends to foster and increase the celebration of this feast, which at that time in not a few places had begun to diminish or to cease. These little works, long ago recognized as spurious, in our times are assigned to a kinsman of Anselm, of the same name; this other Anselm (in 1115 abbot in the Roman convent of St. Saba, from 1121-1149 abbot at St. Edmundsbury, meanwhile from 1136-1138 bishop of London), as appears from a letter given to him by abbot Osbert de Clare in the year 1128, was a strenuous champion and promoter of the said feast (cf. *Letters of Norbert of Losinga* etc., edited by Rob. Anstrutter, London 1846). In the first two of those little works it is related that to a certain abbot, Elsinus (Helsuinus) by name, in peril at sea, someone adorned in pontifical vestments appeared and saved him on this condition, that he should celebrate the feast of the Conception of the Mother of Christ on the sixth of the Ides of December. — Bernard, Letter 174, n. 6, looking back on this account, says: But there is brought forward a writing of a heavenly revelation, as they say; as though anyone too could not equally produce a writing in which the Virgin would seem to enjoin this same thing also concerning her parents, according to the command of the Lord saying: Honor thy father and thy mother (Exod. 20, 12). I easily persuade myself not to be moved by such writings, which neither reason is found to support, nor sure authority to favor, etc. — A little above, for *securum* codd. A T U V X [read] *securam,* and then for *conceptionis illius etiam solemnitatem* codd. E U W *conceptionem illius solemnitate.* A little below, for *negare* codd. M O [read] *negligere.*
+
+[^22]: **La.** Hic q. 3. — Aliquantulum inferius pro *in concepto* codd. M O *in conceptione.*
+    **En.** Here, q. 3. — Somewhat below, for *in concepto* codd. M O [read] *in conceptione.*
+
+[^23]: **La.** Respicitur Luc. 1, 47.
+    **En.** [The text] looks to Luke 1, 47.
+
+[^24]: **La.** Ita cod. K, alii codd. *nativitatis,* edd. *vanitatis.* Mox pro *non credens etiam* Vat. *non credens esse.*
+    **En.** Thus cod. K; other codices [read] *nativitatis,* the editions *vanitatis.* Presently for *non credens etiam* the Vatican [edition reads] *non credens esse.*
+
+**Page 64.**
+
+[^25]: **La.** Codd. T Z omittunt *ei,* pro quo codd. A H N U V X aa *enim.* — Auctor opusc. de Conceptione B. Mariae Virg. (inter opera Anselmi) iure ait: Erubescant iterum insani, qui hunc diem colere non volunt idcirco, quia aliorum Sanctorum conceptiones minime colere sancta consuevit Ecclesia. Maxima quippe rusticitas est eam aliis Sanctis in hoc comparare, quam etiam super omnes Angelos et Archangelos in caelis sublimavit etc.
+    **En.** Codd. T Z omit *ei,* in place of which codd. A H N U V X aa [read] *enim.* — The author of the little work *On the Conception of the B. Mary Virgin* (among the works of Anselm) rightly says: Let the madmen again blush who refuse to honor this day for this reason, that holy Church is not wont to honor the conceptions of the other Saints. For it is the greatest boorishness to compare to the other Saints in this regard her whom [God] has also exalted in the heavens above all Angels and Archangels, etc.
+
+[^26]: **La.** Scilicet, 18 Ian., 23 Febr., 29 Iunii.
+    **En.** Namely, January 18, February 23, June 29.
+
+[^27]: **La.** Cod. T *sicut qui experti sunt cognoverunt.*
+    **En.** Cod. T [reads] *sicut qui experti sunt cognoverunt* ["as those who have experienced have come to know"].
+
+**Page 65** (scholion §III footnote).
+
+[^28]: **La.** Praeter iam citatos: Alex. Hal., loc. cit. m. 2. a. 1. — B. Albert., hic a. 3. 4. — Petr. a Tar., hic q. 1. a. 1. — Richard. a Med., hic a. 1. q. 1. — Aegid. R., hic q. 1. a. 1. dub. lit. 1-3. — Henr. Gand., de hac et seqq. qq. Quodl. 15. q. 13. — Durand., de hac et seqq. qq. hic q. 1. 2. — Dionys. Carth., de hac et seqq. qq. hic q. 1. — Biel, de hac et seqq. qq. hic q. 1.
+    **En.** Besides those already cited: Alex. Hal., loc. cit. m. 2, a. 1. — Bl. Albert, here a. 3, 4. — Petr. a Tar., here q. 1, a. 1. — Richard. a Med., here a. 1, q. 1. — Aegid. R., here q. 1, a. 1, dub. lit. 1-3. — Henr. Gand., on this and the following questions, Quodl. 15, q. 13. — Durand., on this and the following questions, here q. 1, 2. — Dionysius the Carthusian, on this and the following questions, here q. 1. — Biel, on this and the following questions, here q. 1.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from 450 dpi PDF column bands (`/tmp/colcrop/vol3-p06{1,2,3,4,5}-{L,R}-{0..2}.png`), per the VOL III override (PDF authoritative for cascade-shattered Respondeo + footers), cross-checked against IA djvu OCR raw lines **4808–5124**. Literal English per the CLAUDE.md formula/terminology tables. Source: *S. Bonaventurae, Opera Omnia, Tomus III* (Quaracchi, 1887), pp. 61–65 (PDF 83–87, offset +22).
+
+**Alignment.** PASS. Opener reads `…utrum caro Virginis sanctificata fuerit ante animationem` = PARS I, ART. I, TRACTATIO q1. No auto-chunker q-swap. ART. I opener (`ARTICULUS I. De sanctificatione Virginis quoad congruentiam temporis`, raw 4804) folded into this chunk per the chunking convention (no standalone d3-p1-a1-divisio).
+
+**Page-split map.**
+- p.61 (running head `DIST. III. P. I. ART. I. QUAEST. I. 61`): ART. I opener + QUAESTIO I title + args 1–4 (pro) + Sed contra 1–4 + Conclusio + Respondeo opener, ending mid-sentence `…oppositio in adiecto,`. Footers 1–7.
+- p.62 (`62 SENTENTIARUM LIB. III.`): Respondeo continues (triplici ratione: Ratio 1/2/3) + replies *Ad 1–4*, the last ending `…qui de sterilibus sunt concepti.`. Footers 1–10.
+- p.63 (`DIST. III. P. I. ART. I. QUAEST. I. 63`): the *Spiritus sanctus operatur ut Spiritus / ut sanctus* note + the festum-conceptionis discussion + the Epilogus notabilis opener. Footers 1–7.
+- p.64 (`64 SENTENTIARUM LIB. III.`): Epilogus tail (*Obiectio solvitur*) ending `…experimento multiplici cognoverunt`, then SCHOLION §I (full) + §II opener. Body footers 1–3.
+- p.65 (`DIST. III. P. I. ART. I. QUAEST. II. 65`): SCHOLION §II tail + §III (full), ending `…pluribus Scripturae locis explicat.`. The §III citation-list footnote `[^28]` (`Praeter iam citatos…`) closes the chunk. **QUAESTIO II proper (`Secundo quaeritur, utrum anima beatae Virginis…`, raw 5129) begins on p.65 L-col bottom and belongs to d3-p1-a1-q2, NOT here.**
+
+**Scholion disposition.** `has_scholion: true`. ART. I holds its scholion in q1 (§I–III). It expressly **forward-covers q2 and q3**: §I cites `infra q. 2. arg. 5. ad opposit. et q. 3. ad 1. 2.`; §II discusses the 3 questions of the whole article and St. Bonav.'s opinion `(q. 2.)` / `(infra q. 2. ad 6.)`, and closes `De sententia S. Bonaventurae et Scoti in seq. scholio mentio fiet` (i.e. the *following* scholion, on q2). So q2/q3 may carry their own scholia; this q1 scholion is the article-level dogmatic note keyed primarily to q1's negative conclusion. (Confirms the 2026-04-12 literal-vs-paraphrase pilot, which was run on this very scholion.)
+
+**Apparatus split (28 entries, continuous slugs `[^1]`–`[^28]`, per-page restart):** p.61 → `[^1]`–`[^7]` (7); p.62 → `[^8]`–`[^17]` (10); p.63 → `[^18]`–`[^24]` (7); p.64 → `[^25]`–`[^27]` (3 body Epilogus footers); p.65 → `[^28]` (the single scholion §III citation footnote). Marker pairing verified programmatically: 28 La anchors = 28 En anchors = 28 defs, continuous 1–28, **0 anchorless / 0 defless**.
+
+**Footer handling.** On p.61 the footer Quaracchi marks with a lettered `c` (`Cod. T antequam animetur`) sits in the numbered sequence between notes 6 and 7; it anchors the Sed-contra-3 body marker `vivificetur⁶` region and is rendered as `[^6]`, the body `Augustinus⁷` then taking `[^7]`. (The PDF prints the *Bernardus ad Lugdunenses* note as `5` and the *Enchiridion/de Civ. Dei* note as `7`, with the lettered `c` between — all three rendered here in sequence.) No out-of-chunk footers; nothing omitted, nothing anchorless.
+
+**Hand-off picked up from d3-p1-divisio (commit ff3e5f3):** NO shared-page footer carried forward — p.60's two footer sequences were fully consumed (littera `[^14]`–`[^16]`; divisio `[^1]`–`[^2]`). q1 opened p.61 with a fresh per-page footer sequence whose first footer is the `Ieremiae primo` ref (`[^1]`) — confirmed.
+
+**Forward hand-off to d3-p1-a1-q2:** QUAESTIO II `Utrum anima beatae Virginis sanctificata fuerit ante originalis peccati contractionem` — opener `Secundo quaeritur, utrum anima beatae Virginis sanctificata fuerit ante originalis peccati contractionem. Et quod sic, videtur. 1. Anselmus de Conceptu virginali…` (raw 5129, printed p.65 L-col bottom; q2 spans ~p.65–69, large). q2 args begin on p.65: arg 1 Anselmus *de Conceptu virginali*, arg 2 Augustinus *de Natura et gratia*, arg 3 *ratione… Honor Matris*, arg 4 *si est ponere extrema… medium*, arg 5 *sanctificatio beatae Virginis excellit*. **Footer split:** q1 consumed ALL of p.65's scholion-tail apparatus that belongs to q1 (only `[^28]`, the §III citation list, sits above the column break); q2 opens with a fresh p.65 footer sequence for its own body anchors (`de Conceptu virginali¹`, `de Natura et gratia²`, `Damascenus³`, `medium⁴`, `caro⁶`…) — verify on the p.65 bands which q1 already cropped. **Scholion:** per §II's `in seq. scholio` cross-reference, q2 likely carries its own scholion on St. Bonav./Scotus — check the page after q2's replies.
+
+**Cascade-merge check.** q1 tail (scholion §III `…pluribus Scripturae locis explicat.`) is grammatically complete; QUAESTIO II opener is continuous and self-standing. No splice.
+
+**[?] flags:** none.
