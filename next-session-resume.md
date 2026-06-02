@@ -1,8 +1,27 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d1-a2-q3 DONE, commit 4a71a0c; 23-entry apparatus; scholion I–II; pp.28–31; NEXT = bon-sent-III-d1-a2-q4 — LAST question of ART. II)
+**Last updated:** 2026-06-02 (Vol III d1-a2-q4 DONE, commit 2adbc4a; 16-entry apparatus; NO scholion; pp.31–33; **ART. II COMPLETE — only d.1 dubia remain**; NEXT = bon-sent-III-d1-dubia)
 
 **Branch:** master
+
+## ✅ VOL III d1-a2-q4 DONE 2026-06-02 (commit 2adbc4a) — ARTICULUS II COMPLETE
+
+`QUAESTIO IV. Quo tempore fuerit magis congruum, Filium Dei incarnari.` Opener `Quarto et ultimo quaeritur, quo tempore fuerit magis congruum, Filium Dei incarnari. Et videtur, quod in primordio temporum.` LAST question of ART. II. Latin re-set from 450 dpi column bands (raw **2786–2897**), literal English, **16-entry apparatus**, **`has_scholion: false`**. Printed **pp.31–33** (PDF 53–55) — **briefing's [31,32] UNDERCOUNTED by one**: q4's Solutio (Ad-3 tail + the whole of Ad-4) runs onto **p.33** before the DUBIA header (same final-page-spill pattern as q1/q2/q3). Corrected to [31,32,33]. **Alignment PASS** (q4 = TRACTATIO `Quarto … quo tempore…`; no swap). Structure: 4 fundamenta "Ad oppositum" (in primordio temporum) + Sed contra 4 args (in fine temporum) + Conclusio blockquote + Respondeo (quadruplex ratio: peccatum puniendum / morbum curandum / ordinem universi / beneficium commendandum) + Solutio oppositorum Ad 1–4. Marginal labels (`Ad oppositum`, `Fundamenta`, `Conclusio`, `Ratio 1–4`, `Solutio oppositorum`, `Alia ratio`) rendered inline, NOT footnote anchors.
+
+**has_scholion: false — VERIFIED on PDF p.31–33:** after q4's Ad-4 (`…in quarto libro expressius habetur manifestatum.`) the very next printed block is `DUBIA CIRCA LITTERAM MAGISTRI.` / `Dub. I.` — NO scholion prints for q4. q4's parallel treatments were already forward-listed in q3's Scholion §II (`De 4. quaestione: … Dionys. Carth., hic q. 8.`).
+
+**Per-page footer split (16 entries, continuous unique slugs 1–16).** **p.31 (8 footers; q3 consumed footer 2 = its `[^23]`):** q4 takes footers 1, 3, 4, 5, 6, 7, 8 = `[^1]`–`[^6]` (¹Genesis2 *Vers.4*; ²Matthaei/`Vers.2`→ actually footer3 `Vers.2`=`[^2]`; ³`Eph 2,4/Rom 8,3`=`[^3]`; then R-col footers ⁵Matthaei-Tyre `Vers.21`=`[^3]`… renumbered: f.5→`[^3]` no — see chunk Notes for exact map; net = `[^1]` Genesis, `[^2]` Vers.2, `[^3]` Eph, `[^4]` Marc-aegro, `[^5]` Ecclesiastis Vers.1, `[^6]` IV.Sent d.40). **p.32 (8 footers) = `[^7]`–`[^14]`** (⁷prudentia/Iob12,12, ⁸in-initio/Cod.K, ⁹acceptionem/Gregor, ¹⁰tantum/tamdiu, ¹¹incarnaretur/curaretur, ¹²ad-Galatas-quarto/Vers.4-Tertull, ¹³sit/bb-est, ¹⁴dilatum/`Cfr. infra dub.1`). **p.33 (2 q4 footers) = `[^15]`–`[^16]`** (¹⁵statim-debet/Edd.adiungunt-ei, ¹⁶in-quarto-libro/`Dist.2.a.1.q.2`). **p.33 footers 3–7** (`Vide scholion ad praecedentem quaest.`, Gal 4,4, Vers.9, Vers.47, Vers.4) annotate the **Dub. I** text → FORWARDED to d1-dubia, OMITTED here (not anchorless). **Marker pairing: 16 La = 16 En = 16 defs, 0 anchorless / 0 defless** (verified programmatically). Build **1272 q / 885 translated**. Audits: paraphrase 0 crit / 1 high (= the ONE remaining d.1 skeleton, d1-dubia); header ART +2 / QUAEST +8 (benign positive, no LOSS); apparatus only d1-dubia flags SKELETON-SUSPECT (raw=35). **No `[?]` flags.** Running heads: p.31 `DIST. I. ART. II. QUAEST. IV. 31`; p.32 `32 SENTENTIARUM LIB. III.`; p.33 `DIST. I. DUBIA.`.
+
+**Boundary lock:** q4's Ad-4 ends grammatically complete at `…in quarto libro expressius habetur manifestatum.` (p.33 L-col, raw 2897). `DUBIA CIRCA LITTERAM MAGISTRI.` (raw 2898) / `Dub. I.` (raw 2900) begin d1-dubia — NOT included. Tail + Dub. I opener continuous (no cascade-merge splice).
+
+## NEXT ACTION → `bon-sent-III-d1-dubia` (Dubia circa litteram Magistri — **on promotion, DISTINCTIO I is COMPLETE**)
+
+**Raw 2898 → end TBD, printed p.33 → onward.** `DUBIA CIRCA LITTERAM MAGISTRI.` then `Dub. I.` **Dub. I opener:** `In parte ista sunt dubitationes circa litteram, et primo quaeritur de verbo Apostoli, quod dicitur: At ubi venit plenitudo temporis etc. Contra: Videtur, quod non fuerit plenitudo temporis in adventu Filii Dei, primae ad Corinthios decimo tertio: Ex parte cognoscimus et ex parte prophetamus…` Multiple Dub. (`Dub. I`, `Dub. II`, …) — count via raw grep `Dub\.` + running heads. Apparatus audit shows raw=35 footer openers (multi-page). **VERIFY** how many Dub. and the page span via running heads (`DIST. I. DUBIA.` on p.33+).
+
+**HAND-OFF picked up from d1-a2-q4 (commit 2adbc4a):**
+1. **SHARED-PAGE FOOTERS on p.33.** q4 consumed p.33 footers 1–2 (`[^15]`/`[^16]`, Ad-4 *statim debet* + *in quarto libro*). **d1-dubia INHERITS p.33 footers 3–7**: (3) `Vide scholion ad praecedentem quaest.`; (4) `Gal. 4, 4.`; (5) `Vers. 9. — In *minori* respicitur eiusdem cap. v. 10: Cum autem venerit quod perfectum est…`; (6) `Vers. 47. seq. — Glossa interlinearis secundum Lyranum: In fine saeculi.`; (7) `Vers. 4. — Glossa allegata sumta est ex Commentario, Ambrosio tributo, in hunc loc.…` → anchor Dub. I body markers. So d1-dubia's apparatus BEGINS with p.33 footers 3–7, THEN fresh p.34+ sequences (per-page restart, continuous unique slugs).
+2. **No scholion involvement** — dubia carry their own resolutions, not scholia.
+3. **Page span:** confirm each page via running heads; expect dubia to run several pages (raw=35 footers ⇒ ~4–5 printed pages).
 
 ## ✅ VOL III d1-a2-q3 DONE 2026-06-02 (commit 4a71a0c)
 
