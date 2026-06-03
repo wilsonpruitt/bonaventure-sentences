@@ -1,6 +1,24 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III **d4-dubia DONE, commit 6d0c7ea** — *Dubia circa litteram Magistri* (Dist. IV); printed pp.116–118 (PDF 138–140; raw 8588–8726); **6 dubia (Dub. I–VI)** verified against PDF column bands; **has_apparatus: true (19 entries: p.116 n.6–8 → [^1]–[^3]; p.117 n.1–11 → [^4]–[^14]; p.118 n.1–5 → [^15]–[^19]) / has_scholion: false** (dubia carry none); footer hand-off from a3-q3 received (leads p.116 note 6 / *persona⁶*); **boundary locked at DISTINCTIO V raw 8727 — no footer leaks into d.5**; build 1273 q / 927 translated; no [?] flags; **DISTINCTIO IV is now COMPLETE. NEXT = bon-sent-III-d5-littera, DISTINCTIO V raw 8727, printed p.117+**)
+**Last updated:** 2026-06-03 (Vol III **d5-littera DONE, commit 8a5250b** — *Littera Magistri* (Dist. V), the Lombard text Cap. I–III kept as ONE Tier-2 chunk separate from Bonaventure's commentary; printed pp.118–120 (PDF 140–142; raw 8727–8914); **3 chapters (Cap. I, II, III)**, NO pars; Latin re-set from 450 dpi PDF column bands (L→R per page), fresh literal English; **has_apparatus: true (29 NOTAE AD LIBR. SENTENTIARUM entries: p.118 n.1–4 → [^1]–[^4]; p.119 n.1–14 → [^5]–[^18]; p.120 n.1–11 → [^19]–[^29]) / has_scholion: false**; **footer FORWARDED to d5-divisio: the p.118 LEFT-column Bonaventure apparatus notes 1–5 are NOT the littera's — they key the COMMENTARIUS that begins on p.121**; build 1273 q / 928 translated; no [?] flags; **NEXT = bon-sent-III-d5-divisio, COMMENTARIUS IN DISTINCTIONEM V, raw 8915, printed p.121+**)
+
+## ✅ VOL III d5-littera DONE 2026-06-03 (commit 8a5250b) — Dist. V LITTERA MAGISTRI
+
+`DISTINCTIO V.` Cap. I (*Si persona vel natura personam [vel naturam] assumserit, et si natura Dei incarnata sit*), Cap. II (*An divina natura debeat dici caro facta*), Cap. III (*Quare non accepit personam hominis…*). Latin re-set from 450 dpi PDF column bands pp.118–120, read L-col top→bottom then R-col. Fresh literal English, **29-entry apparatus** keyed to the *NOTAE AD LIBR. SENTENTIARUM* footer blocks (littera's own critical notes, restart per page). Marginal labels (*Quaestiones 4 principales*, *Dubium 1–4*, *Fulgentius*, etc.) rendered inline in parens, not anchored. **`has_scholion: false`** (littera carries none). **No [?] flags.**
+
+**STRUCTURE VERIFIED FROM RAW (before translating):** Dist. V littera = **3 chapters (Cap. I, II, III), NO pars division** (raw 8727–8914). Bonaventure's **COMMENTARIUS IN DISTINCTIONEM V begins at raw 8915 (printed p.121)**, then `DIVISIO TEXTUS` (raw ~8919) + `TRACTATIO QUAESTIONUM` (raw ~8945). Commentary = **2 articles of 5 quaestiones each**: **ARTICULUS I raw 8956** (q.I raw 8959, q.II raw 9136, q.III raw 9217, q.IV raw 9275, q.V raw 9394 — approx, re-verify per chunk); **ARTICULUS II raw 9483** (q.I raw 9508, q.II raw 9659, q.III raw 9917, q.IV raw 10087, q.V raw 10245 — approx). **DISTINCTIO VI begins at raw 10421.** Scaffold (a1-q1..q5, a2-q1..q5, no pars files) matches — NO mismatch.
+
+**PAGE-SPLIT (littera):** p.118 = Dist. V title + Cap. I opener (foot of page, below Dist. IV Dub. VI); p.119 = Cap. I body continues; p.120 = Cap. I close + Cap. II + Cap. III to littera end `…si de hominis natura, dico: est.` p.121 starts the COMMENTARIUS (d5-divisio).
+
+**FOOTER HAND-OFF FORWARDED to d5-divisio:** the **p.118 LEFT-column footer notes 1–5** (`Codd. UX sibi…`, `Cfr. hic lit. Magistri…`, `Vers. 9…`, `Lit. Magistri c.3…`, `Cfr. B. Albert.…`) are **Bonaventure's COMMENTARIUS apparatus, NOT the littera's** — the littera anchors only the right-column `NOTAE AD LIBR. SENTENTIARUM` block. d5-divisio picks these up; its COMMENTARIUS proper starts on p.121 with its own fresh page-footer sequence.
+
+## NEXT ACTION → `bon-sent-III-d5-divisio` (COMMENTARIUS IN DISTINCTIONEM V) — RE-CHUNK FROM RAW FIRST
+
+**COMMENTARIUS begins raw 8915, printed p.121** (PDF 143; offset pdf = printed + 22). The divisio chunk holds `COMMENTARIUS IN DISTINCTIONEM V` + `DIVISIO TEXTUS` + `TRACTATIO QUAESTIONUM` (the listing of the 2 articles / 10 quaestiones). Per the Vol II convention, a short ARTICULUS I opener (`Consequenter quaeruntur…`) folds into a1-q1, not a standalone chunk. **Pick up the p.118 left-column Bonaventure apparatus notes 1–5 forwarded above.** No pars division — chunk id `bon-sent-III-d5-divisio` (already exists as skeleton).
+
+---
+
+## ✅ VOL III d4-dubia DONE 2026-06-02 (commit 6d0c7ea — *Dubia circa litteram Magistri* (Dist. IV); printed pp.116–118 (PDF 138–140; raw 8588–8726); **6 dubia (Dub. I–VI)** verified against PDF column bands; **has_apparatus: true (19 entries: p.116 n.6–8 → [^1]–[^3]; p.117 n.1–11 → [^4]–[^14]; p.118 n.1–5 → [^15]–[^19]) / has_scholion: false** (dubia carry none); footer hand-off from a3-q3 received (leads p.116 note 6 / *persona⁶*); **boundary locked at DISTINCTIO V raw 8727 — no footer leaks into d.5**; build 1273 q / 927 translated; no [?] flags; **DISTINCTIO IV is now COMPLETE. NEXT = bon-sent-III-d5-littera, DISTINCTIO V raw 8727, printed p.117+**)
 
 ## ✅ VOL III d4-dubia DONE 2026-06-02 (commit 6d0c7ea) — DISTINCTIO IV COMPLETE
 
@@ -12,7 +30,7 @@
 
 **BOUNDARY LOCK:** dubia ends at `…non sunt extendendae⁵` (Dub. VI reply, R-col p.118); `DISTINCTIO V. Cap. I.` opens immediately after at **raw 8727**. Confirmed NO footer leaks into d.5.
 
-## NEXT ACTION → `bon-sent-III-d5-littera` (DISTINCTIO V) — RE-CHUNK FROM RAW FIRST
+## (DONE 8a5250b) was: NEXT → `bon-sent-III-d5-littera` — DISTINCTIO V littera, now COMPLETE
 
 **DISTINCTIO IV is COMPLETE** (littera + divisio + a.1 q.1–q.4 + a.2 + a.3 q.1–q.3 + dubia, all Tier-2).
 
