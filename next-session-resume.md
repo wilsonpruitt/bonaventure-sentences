@@ -1,6 +1,20 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d4-littera DONE, commit 2134551 — Lombard's littera for DISTINCTIO IV, **THREE chapters Cap. I–III**, 13-entry apparatus pp.96–97, **has_scholion: false**; commentary begins at COMMENTARIUS raw 7295, NOT leaked; NEXT = bon-sent-III-d4-divisio, raw 7295+, printed p.97+)
+**Last updated:** 2026-06-02 (Vol III d4-divisio DONE, commit 77d2039 — COMMENTARIUS IN DISTINCTIONEM IV + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM, single printed p.97, **has_apparatus: false / has_scholion: false** (the 3 p.97 footers belong to the Cap. III littera, captured there as [^11]–[^13]; the divisio + tractatio carry no markers); TRACTATIO lists 3 articles, Art. I has 3 quaestiones; ARTICULUS I begins raw 7346 on printed p.98, NOT leaked; NEXT = bon-sent-III-d4-a1-q1, raw 7346+, printed p.98+)
+
+## ✅ VOL III d4-divisio DONE 2026-06-02 (commit 77d2039) — COMMENTARIUS IN DIST. IV + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM
+
+`COMMENTARIUS IN DISTINCTIONEM IV. / De ipsa conceptione Christi. / Cum vero incarnatio Verbi etc. / DIVISIO TEXTUS.` built as one Tier-2 `type: divisio` chunk. Latin re-set from 450 dpi column bands of **single printed p.97** (PDF 119; offset +22; raw 7295–7344), read L top→bottom then R; fresh literal English. **`has_apparatus: false`** + **`has_scholion: false`**. Running head `DIST. IV. DIVISIO TEXTUS. 97`.
+
+**Boundary lock.** Opens at `COMMENTARIUS IN DISTINCTIONEM IV` (raw 7295), right after the Cap. III littera tail (`…quia factus est³.`, raw ~7294, p.97 L-col top). **No apparatus**: the 3 footer notes at the bottom of p.97 (markers 1/2/3 — Rom 1,3·Gal 4,4 *concreta/concepta/congregata*; codd. ABCD *homines* + *viri/virili semine*; Glossa ad Rom ex August.) anchor to the Cap. III **littera** (`factum ex muliere¹`, `generare filios²`, `factus est³`) and are already in `bon-sent-III-d4-littera` as `[^11]`–`[^13]`. The DIVISIO + TRACTATIO themselves carry **zero footnote markers**. Build **1272q / 917 translated** (+1). Audits: paraphrase 9 HIGH = the OTHER d.4 skeletons (divisio = OK); apparatus 0 flag on divisio (the 9 flagged are the skeletons, expected); header d.4 Q-LOSS/A-LOSS = coarse Vol III artifact (raw range counts the not-yet-promoted commentary's 3 ART/4 QUAEST/1 DUB; divisio correctly has 0). **No `[?]` flags.**
+
+**d.4 structure (NO pars division — single undivided distinction):** commentary has **3 articles**. Art. I = *De conceptione Christi in comparatione ad Spiritum sanctum efficientem*, **3 quaestiones**. Art. II = *quantum ad gratiam intervenientem*. Art. III = *quantum ad Virginem concipientem*.
+
+## NEXT ACTION → `bon-sent-III-d4-a1-q1` (ARTICULUS I, QUAESTIO I)
+
+**Raw 7346+, printed p.98+ (PDF 120+).** `ARTICULUS I.` *De conceptione Christi in comparatione ad Spiritum sanctum efficientem.* → `QUAESTIO I.` **Utrum Filii Dei incarnatio debeat appropriari Patri, an Spiritui sancto** (raw 7346–7355; note the title_la phrasing differs slightly from the TRACTATIO's `utrum … appropriari debeat personae Spiritus sancti` — the QUAESTIO header form is authoritative). Art. I has **3 quaestiones** per the TRACTATIO: q1 above; q2 *utrum Spiritus sancti filius debeat Christus appellari*; q3 *utrum Christus possit dici filius Trinitatis*. **NO inherited footer** — ARTICULUS I opens on a fresh printed p.98 (its own footer sequence). Verify the `videtur quod / Primo… Secundo…` opener alignment from raw before translating (auto-chunker q-swap risk). Build per the standard quaestio recipe.
+
+---
 
 ## ✅ VOL III d4-littera DONE 2026-06-02 (commit 2134551) — LITTERA MAGISTRI DIST. IV (Cap. I–III)
 
