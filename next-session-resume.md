@@ -1,6 +1,27 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-03 (Vol III **d5-littera DONE, commit 8a5250b** — *Littera Magistri* (Dist. V), the Lombard text Cap. I–III kept as ONE Tier-2 chunk separate from Bonaventure's commentary; printed pp.118–120 (PDF 140–142; raw 8727–8914); **3 chapters (Cap. I, II, III)**, NO pars; Latin re-set from 450 dpi PDF column bands (L→R per page), fresh literal English; **has_apparatus: true (29 NOTAE AD LIBR. SENTENTIARUM entries: p.118 n.1–4 → [^1]–[^4]; p.119 n.1–14 → [^5]–[^18]; p.120 n.1–11 → [^19]–[^29]) / has_scholion: false**; **footer FORWARDED to d5-divisio: the p.118 LEFT-column Bonaventure apparatus notes 1–5 are NOT the littera's — they key the COMMENTARIUS that begins on p.121**; build 1273 q / 928 translated; no [?] flags; **NEXT = bon-sent-III-d5-divisio, COMMENTARIUS IN DISTINCTIONEM V, raw 8915, printed p.121+**)
+**Last updated:** 2026-06-03 (Vol III **d5-divisio DONE, commit ea5b684** — *Commentarius in Distinctionem V*: `COMMENTARIUS IN DISTINCTIONEM V` header + thema *De modo unionis duarum naturarum…* + lemma *Praeterea inquiri oportet…* + `DIVISIO TEXTUS` + `TRACTATIO QUAESTIONUM`; printed **p.121 only** (PDF 143; raw 8915–8954); NO pars; Latin re-set from 450 dpi PDF column bands (L→R); fresh literal English; **has_apparatus: true (4 entries = p.121 footer notes 1–4, divisio markers ¹infra ²determinat ³quartum ⁴primam) / has_scholion: false**; **CORRECTED d5-littera's confused hand-off: there is NO p.118-notes migration — the COMMENTARIUS carries its own p.121 footer sequence**; **footer note 5 (`Cap. 2, n. 14. Cfr. hic lit. Magistri c.1`) FORWARDED to d5-a1-q1, keys `ad Petrum⁵` in QUAESTIO I body**; build 1273 q / 929 translated; no [?] flags; **NEXT = bon-sent-III-d5-a1-q1, ARTICULUS I QUAESTIO I, raw 8956/8959, printed p.121 foot→p.122+**)
+
+## ✅ VOL III d5-divisio DONE 2026-06-03 (commit ea5b684) — Commentarius in Dist. V divisio
+
+`COMMENTARIUS IN DISTINCTIONEM V` (thema *De modo unionis duarum naturarum secundum fidei assertionem*) → `DIVISIO TEXTUS` → `TRACTATIO QUAESTIONUM`. Entirely on printed **p.121** (running head `DIST. V. ART. I. QUAEST. I.`). Latin re-set from 450 dpi column bands L→R. **4-entry apparatus** from p.121 footer (notes 1–4). DIST. V has **NO pars**; commentary = **2 articles × 5 quaestiones**. Per locked convention, the short `ARTICULUS I` opener (*De ipsa assumtione ex parte assumentis*) + `QUAESTIO I` title **fold into d5-a1-q1** (not standalone). **No [?] flags.**
+
+**TRACTATIO QUAESTIONUM — Article I's 5 quaestiones (ex parte assumentis):**
+- q.I — *utrum assumere sit actus conveniens divinae naturae* (whether to assume is an act befitting the divine nature)
+- q.II — *utrum sit actus conveniens divinae personae* (…befitting the divine person)
+- q.III — *utrum conveniat personae per se, an ratione naturae* (…befits the person in itself, or by reason of the nature)
+- q.IV — *utrum conveniat naturae, abstracta omni persona* (…befits the nature, with every person abstracted)
+- q.V — *utrum haec sit concedenda: divina natura est caro facta* (whether "the divine nature is made flesh" is to be conceded)
+
+(Article II — *ex parte assumti* — is announced in the TRACTATIO but its own 5-question sub-list appears later, in Article II's territory.)
+
+## NEXT ACTION → `bon-sent-III-d5-a1-q1` (ARTICULUS I, QUAESTIO I) — verify opener alignment
+
+**ARTICULUS I raw 8956** (*De ipsa assumtione ex parte assumentis*); **QUAESTIO I raw 8959** (*Utrum assumere sit actus conveniens divinae naturae*); body opens raw 8962 (`Circa primum sic proceditur et quaeritur…`). Fold the short ARTICULUS I opener + QUAESTIO I title into this chunk (no standalone a1-divisio). **Page span:** opens at the foot of printed **p.121** (raw 8956–8964) and continues onto **p.122** (raw 8970+, `SENTENTIARUM LIB. III.`); read q.I's full extent (ARTICULUS II = raw 9483; QUAESTIO II of art. I ≈ raw 9136 — q.I ends just before). **FOOTER HAND-OFF PICKED UP from d5-divisio:** lead the apparatus with **p.121 footer note 5** (`Cap. 2, n. 14. Cfr. hic lit. Magistri, c. 1. In textu origin.`) → keys `Auctoritate Augustini in libro de Fide ad Petrum⁵`. **Scholion forecast:** verify whether q.I carries a `### Scholion`; if its scholion reads `pro quaest. seq.`, a missing scholion on a sibling is normal — check before flagging. Marginal label *Fundamenta* (raw 8962) renders inline in parens, not anchored.
+
+---
+
+## (DONE ea5b684) was: NEXT → `bon-sent-III-d5-divisio` — now COMPLETE
 
 ## ✅ VOL III d5-littera DONE 2026-06-03 (commit 8a5250b) — Dist. V LITTERA MAGISTRI
 
