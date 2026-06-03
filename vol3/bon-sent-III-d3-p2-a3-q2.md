@@ -145,37 +145,37 @@ And thus the words of Augustine in the fourth book *On the Trinity* and in the b
      **En.** Codex K [reads] *from a power*. A little below, for *ought* [debeat] the editions [read] *was owing* [debebat].
 
 [^10]: **La.** Vide hic in fundam. 1. et 2.
-      **En.** See here in the [arguments to the contrary] 1 and 2.
+     **En.** See here in the [arguments to the contrary] 1 and 2.
 
 [^11]: **La.** Dist. 2. a. 3. q. 1. — In seq. propos. respicitur illa ab Aristot., II. de Anima, text. 6 data definitio animae: *Anima est primus actus corporis physici, organici potentia vitam habentis*. — Pro *cum natura divina* cod. F *cum Verbo humana natura*, codd. E H T *cum divina humana natura*, codd. X V W X Y et edd. 1, 2 *cum divina et humana natura*. Paulo superius pro *ut esset homo* Vat. *et esse hominem*. Paulo inferius pro *ad perfectionem organizationis* cod. N *ad perfectum organizationem*, edd. cum nonnullis codd. *ad perfectionis organizationem*.
-      **En.** Dist. 2, a. 3, q. 1. — In the following proposition reference is made to the definition of the soul given by Aristotle, *On the Soul* II, text 6: *The soul is the first act of a physical, organic body having life in potency*. — For *with the divine nature* codex F [reads] *with the Word, human nature*, codices E H T *with the divine human nature*, codices X V W X Y and editions 1, 2 *with the divine and human nature*. A little above, for *so as to be a man* the Vatican [reads] *and to be a man*. A little below, for *to the perfection of organization* codex N [reads] *to a perfect organization*, the editions with some codices *to the organization of perfection*.
+     **En.** Dist. 2, a. 3, q. 1. — In the following proposition reference is made to the definition of the soul given by Aristotle, *On the Soul* II, text 6: *The soul is the first act of a physical, organic body having life in potency*. — For *with the divine nature* codex F [reads] *with the Word, human nature*, codices E H T *with the divine human nature*, codices X V W X Y and editions 1, 2 *with the divine and human nature*. A little above, for *so as to be a man* the Vatican [reads] *and to be a man*. A little below, for *to the perfection of organization* codex N [reads] *to a perfect organization*, the editions with some codices *to the organization of perfection*.
 
 [^12]: **La.** Luc. 1, 26. seqq. — Paulo inferius Vat. omittit *uniri*. Pro *nisi Deus unitus* etc. edd. 1, 2 *nisi Deus, quem conceperat, unitus esset carni, et caro... congrueret, congrueret uniri, ut haberet* etc.
-      **En.** Luke 1:26 ff. — A little below the Vatican omits *to be united*. For *unless God united* etc. editions 1, 2 [read] *unless God, whom she had conceived, were united to the flesh, and the flesh... would be fitting, would be fitting to be united, so as to have* etc.
+     **En.** Luke 1:26 ff. — A little below the Vatican omits *to be united*. For *unless God united* etc. editions 1, 2 [read] *unless God, whom she had conceived, were united to the flesh, and the flesh... would be fitting, would be fitting to be united, so as to have* etc.
 
 [^13]: **La.** Cfr. supra pag. 62, nota 7.
-      **En.** Cf. above p. 62, note 7.
+     **En.** Cf. above p. 62, note 7.
 
 [^14]: **La.** Cod. U addit *molis*. Pro *perfectionem quantitatis* edd. exhibent *quantitatem perfectionis*.
-      **En.** Codex U adds *of bulk*. For *perfection of quantity* the editions exhibit *quantity of perfection*.
+     **En.** Codex U adds *of bulk*. For *perfection of quantity* the editions exhibit *quantity of perfection*.
 
 [^15]: **La.** Quaest. 56, ubi S. Doctor de 46 diebus idem profert ac hic in arg. 1. ad oppos. — Codd. N H *miraculose* pro *mirabiliter*.
-      **En.** Question 56, where the holy Doctor brings forward the same concerning the 46 days as here in the first argument to the contrary. — Codices N H [read] *miraculously* [miraculose] for *miraculously* [mirabiliter].
+     **En.** Question 56, where the holy Doctor brings forward the same concerning the 46 days as here in the first argument to the contrary. — Codices N H [read] *miraculously* [miraculose] for *miraculously* [mirabiliter].
 
 [^16]: **La.** Vat. *homini*. In principio solut. pro *assimilari* codd. G K *similari*.
-      **En.** The Vatican [reads] *to the man*. At the beginning of the solution, for *to be made like* [assimilari] codices G K [read] *to be made like* [similari].
+     **En.** The Vatican [reads] *to the man*. At the beginning of the solution, for *to be made like* [assimilari] codices G K [read] *to be made like* [similari].
 
 [^17]: **La.** Edd. *augmentatum*, cui codd. K S, quasi explicantes nostram lectionem, addunt *ergo et formatum*.
-      **En.** The editions [read] *increased*, to which codices K S, as if explaining our reading, add *therefore also formed*.
+     **En.** The editions [read] *increased*, to which codices K S, as if explaining our reading, add *therefore also formed*.
 
 [^18]: **La.** Cfr. Aristot., de Praedicam. c. de Priori et c. de Simul. — Circa initium solut. post *formationem* edd. adiiciunt *veri corporis* et subinde cum cod. Z pro *praecessit* exhibent *praecedit*.
-      **En.** Cf. Aristotle, *Categories*, the chapter *On the Prior* and the chapter *On the Simultaneous*. — Near the beginning of the solution, after *formation* the editions add *of the true body*, and thereupon, with codex Z, for *preceded* [praecessit] exhibit *precedes* [praecedit].
+     **En.** Cf. Aristotle, *Categories*, the chapter *On the Prior* and the chapter *On the Simultaneous*. — Near the beginning of the solution, after *formation* the editions add *of the true body*, and thereupon, with codex Z, for *preceded* [praecessit] exhibit *precedes* [praecedit].
 
 [^19]: **La.** Intellige cum cod. H *simul esse*. Circa finem solut. codd. K Q U X Z voculae *istorum* adnectunt *praedictorum*.
-      **En.** Understand, with codex H, *to exist together*. Near the end of the solution, codices K Q U X Z to the little word *of these* append *aforesaid*.
+     **En.** Understand, with codex H, *to exist together*. Near the end of the solution, codices K Q U X Z to the little word *of these* append *aforesaid*.
 
 [^20]: **La.** Vide scholion ad praecedentem quaest.
-      **En.** See the scholion to the preceding question.
+     **En.** See the scholion to the preceding question.
 
 ## Notes
 

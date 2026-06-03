@@ -13,7 +13,7 @@ pdf_pages: [238, 239, 240, 241]
 source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 216–219"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from raw OCR cross-checked against 450 dpi PDF column bands (raw lines 15382–15585; printed pp. 216–219), fresh literal English translation, full apparatus from raw OCR footers (15 entries across pp. 216–218), no distinct q3 scholion (the p.216 SCHOLION belongs to q2), no [?] flags (2026-06-03)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from raw OCR cross-checked against 450 dpi PDF column bands (raw lines 15382–15585; printed pp. 216–219), fresh literal English translation, full apparatus from OCR + PDF footers (25 entries across pp. 216–219; p.219 q3-closing footers 1–4 verified eyes-on at 600 dpi 2026-06-03 and corrected — [^1c]/[^2c]/[^3c] rewritten to printed text, [^4c] added on terminal *accipiendi*), no distinct q3 scholion (the p.216 SCHOLION belongs to q2), q3/q4 boundary clean, no [?] flags (2026-06-03)"
 format_version: 1
 ---
 
@@ -83,7 +83,7 @@ Et hoc est quod innuit Augustinus *de Civitate* (*Confirmatur*)
 
 quidem sunt summa bonitas et summa veritas[^1c]. Hoc autem non est reperire in proposito; et ideo non tenet ratio illa.
 
-Haec autem dicta sunt de latria, secundum quod proprie accipitur pro habitu dirigente ad cultum exteriorem, qui proprie dicitur servitus Dei et adoratio. (*De latria non proprie dicta.*) Et hoc modo non est idem latria et theosebia, ut a principio dictum est. Si autem latria dicatur cultus interior, cum ille consistat in credendo et diligendo et sperando Deum, sicut dicit Augustinus in *Enchiridio*[^2c]; sic non ponitur esse virtus cardinalis, sed theologica, non, inquam, ab aliis distincta, sed consequens ad omnes illas. Sed hoc modo non accipitur ita proprie, sicut modo praedicto, cum latria, proprie loquendo, sit species religionis, sicut dulia; et nomen eius impositum fuit a servitute, sicut dictum fuit a principio. (*Notandum.*) Utroque tamen modo contingit reperiri eam dici, et secundum hoc doctorum positiones diversificari, ut quidam ponunt[^3c] eam speciem virtutis cardinalis, scilicet iustitiae, quidam vero tres theologicas circumplecti. Et utrumque vere potest dici sine contrarietate propter diversum modum accipiendi.
+Haec autem dicta sunt de latria, secundum quod proprie accipitur pro habitu dirigente ad cultum exteriorem, qui proprie dicitur servitus Dei et adoratio. (*De latria non proprie dicta.*) Et hoc modo non est idem latria et theosebia, ut a principio dictum est. Si autem latria dicatur cultus interior, cum ille consistat in credendo et diligendo et sperando Deum, sicut dicit Augustinus in *Enchiridio*[^2c]; sic non ponitur esse virtus cardinalis, sed theologica, non, inquam, ab aliis distincta, sed consequens ad omnes illas. Sed hoc modo non accipitur ita proprie, sicut modo praedicto, cum latria, proprie loquendo, sit species religionis, sicut dulia; et nomen eius impositum fuit a servitute, sicut dictum fuit a principio. (*Notandum.*) Utroque tamen modo contingit reperiri eam dici, et secundum hoc doctorum positiones diversificari, ut quidam ponunt[^3c] eam speciem virtutis cardinalis, scilicet iustitiae, quidam vero tres theologicas circumplecti. Et utrumque vere potest dici sine contrarietate propter diversum modum accipiendi[^4c].
 
 ---
 
@@ -137,13 +137,13 @@ And this is what Augustine intimates *On the City of* (*Confirmed*)
 
 indeed are the highest goodness and the highest truth[^1c]. But this is not to be found in the matter at hand; and therefore that argument does not hold.
 
-Now these things have been said of latria according as it is properly taken for the habit directing toward exterior worship, which is properly called the service of God and adoration. (*On latria not properly so called.*) And in this way latria and theosebia are not the same, as was said from the beginning. But if latria is said [to be] interior worship, since that consists in believing and loving and hoping in God, as Augustine says in the *Enchiridion*[^2c]; so it is not held to be a cardinal virtue, but a theological one — not, I say, distinct from the others, but consequent upon all of them. But in this way it is not taken so properly as in the aforesaid way, since latria, properly speaking, is a species of religion, like dulia; and its name was imposed from service, as was said from the beginning. (*Note.*) Yet in both ways it happens that it is found to be spoken of, and according to this the positions of the doctors are diversified, so that some place[^3c] it [as] a species of cardinal virtue, namely of justice, while others [hold it to] embrace the three theological [virtues]. And both can truly be said without contradiction on account of the different manner of taking [the term].
+Now these things have been said of latria according as it is properly taken for the habit directing toward exterior worship, which is properly called the service of God and adoration. (*On latria not properly so called.*) And in this way latria and theosebia are not the same, as was said from the beginning. But if latria is said [to be] interior worship, since that consists in believing and loving and hoping in God, as Augustine says in the *Enchiridion*[^2c]; so it is not held to be a cardinal virtue, but a theological one — not, I say, distinct from the others, but consequent upon all of them. But in this way it is not taken so properly as in the aforesaid way, since latria, properly speaking, is a species of religion, like dulia; and its name was imposed from service, as was said from the beginning. (*Note.*) Yet in both ways it happens that it is found to be spoken of, and according to this the positions of the doctors are diversified, so that some place[^3c] it [as] a species of cardinal virtue, namely of justice, while others [hold it to] embrace the three theological [virtues]. And both can truly be said without contradiction on account of the different manner of taking [the term][^4c].
 
 ---
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note in Latin; **En.** gives the English rendering. Quaracchi restarts footnote numbering on each printed page, so the page-216 sequence (notes 3–5, the page's notes 1–2 having been consumed by q2) is followed by the page-217 sequence (1–9) and the page-218 sequence (1–10); per-page markers are disambiguated here with letter suffixes (`b` = p.217, `c` = p.218).
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note in Latin; **En.** gives the English rendering. Quaracchi restarts footnote numbering on each printed page, so the page-216 sequence (notes 3–5, the page's notes 1–2 having been consumed by q2) runs into the page-217 sequence (1–9) — these nine do not collide, so they render unsuffixed [^1]–[^15] — followed by the page-218 sequence (1–10, suffix `b`) and the page-219 q3-closing sequence (notes 1–4, suffix `c`); per-page markers are disambiguated here with letter suffixes (`b` = p.218, `c` = p.219).
 
 [^1]: **La.** *Num. 2.* (alias c. 4.) [X. de Civ. Dei]. — Vat. addit *ibi ab Augustino*; cfr. supra pag. 99, nota 7.
     **En.** [On the City of God, bk. X] no. 2 (otherwise c. 4). — The Vatican edition adds *there, by Augustine*; cf. above, p. 99, note 7.
@@ -208,14 +208,17 @@ Now these things have been said of latria according as it is properly taken for 
 [^10b]: **La.** A Vat. abest *quod*; plurimi codd. habent *et quod*. Proxime ante cod. K omittit *et* ante *motivi*.
     **En.** From the Vatican edition *that* (quod) is absent; very many codices have *and that* (et quod). Just before, codex K omits *and* before *motive*.
 
-[^1c]: **La.** [Vide supra; cfr.] de bonitate et veritate increata.
-    **En.** [See above;] concerning the uncreated goodness and truth.
+[^1c]: **La.** Cfr. infra d. 24. a. 1. q. 2; d. 26. a. 1. q. 3; d. 27. a. 1. q. 1. — Subinde pro *Hoc autem* cod. T *Hoc modo*, cod. A *Hoc* tantum.
+    **En.** Cf. below, d. 24, a. 1, q. 2; d. 26, a. 1, q. 3; d. 27, a. 1, q. 1. — Then for *Hoc autem* (but this) codex T [reads] *Hoc modo* (in this way), codex A *Hoc* only.
 
-[^2c]: **La.** [Augusl.,] Enchirid. c. I. — Vide supra pag. 213, nota 9.
-    **En.** [Augustine,] *Enchiridion* c. 1. — See above, p. 213, note 9.
+[^2c]: **La.** Cap. 2. n. 1. seq. Vide q. praeced. arg. 1. ad oppos. — Paulo ante codd. F K U *sperando in Deum*. Paulo inferius pro *inquam* codd. A G H K N Z *in quantum*, et pro *omnes illas* codd. K M O *omnes alias*.
+    **En.** [Enchiridion] c. 2, n. 1 and following. See the preceding question, argument 1 to the opposite. — A little before, the codices F K U [read] *hoping in God*. A little below, for *I say* (inquam) the codices A G H K N Z [read] *insofar as* (in quantum), and for *all those* (omnes illas) the codices K M O [read] *all others* (omnes alias).
 
-[^3c]: **La.** Vide infra d. 27. a. 2. q. 5. — Paulo superius pro *in colendo Deum* non pauci codd. *in colendo Dno*.
-    **En.** See below, d. 27, a. 2, q. 5. — A little above, for *in worshipping God* not a few codices [read] *in worshipping the Lord*.
+[^3c]: **La.** Edd. *ponant*. Cod. bb *unde* [cod. Z *inde*] *quidam ponunt*.
+    **En.** The editions [read] *ponant*. Codex bb [reads] *whence* (unde) [codex Z *thence* (inde)] *quidam ponunt*.
+
+[^4c]: **La.** Vide scholion ad praecedentem quaest.
+    **En.** See the scholion to the preceding question.
 
 ## Notes
 
@@ -227,7 +230,7 @@ Now these things have been said of latria according as it is properly taken for 
 - **p.216** — q3 opener + title + args 1–4 (args 1–4 begin here; arg 4 breaks mid-sentence at the foot). Page-216 footer notes 3–5 (received from q2 per hand-off) key args 1 (note 3 = *Num. 2.*), 2 (note 4 = *Cap. I. n. I.*), 3 (note 5 = Rabanus/Origen). Page-216 notes 1–2 were consumed by q2 (its scholion + replies, confirmed on the L-0/R-0/R-1 bands: q2's SCHOLION I–II occupies the lower half of p.216).
 - **p.217** — arg 4 continues; args 5–6; Sed contra 1–4; Conclusio; Respondeo through *Conclusio 3, generalis* + *Confirmatur*. Page-217 footers 1–9 → apparatus [^4],[^5],[^6],[^7],[^8],[^9],[^10],[^11],[^12].
 - **p.218** — Respondeo continues (Augustine *de Civ. Dei* corollaries) through replies *Ad 1,2 / Ad 3 / Ad 4 / Ad 5 / Ad 6* (Ad 6 breaks mid-sentence at the foot). Page-218 footers 1–10 → apparatus [^13],[^14],[^15],[^1b],[^5b],[^6b],[^8b],[^9b],[^10b] (footer 2 = sive-variant [^14] is the p.218 left-column note; per-page markers suffixed `b`).
-- **p.219** — Ad 6 concludes; closing *De latria non proprie dicta* paragraph. q3 ends at *...propter diversum modum accipiendi* (raw 15585). QUAESTIO IV (*Utrum latria sit virtus distincta a dulia*) begins immediately after on p.219 L. Page-219 footers [^1c],[^2c],[^3c] key the p.219 closing (these were lightly reconstructed from the running references; see [?] note below).
+- **p.219** — Ad 6 concludes; closing *De latria non proprie dicta* paragraph. q3 ends at *...propter diversum modum accipiendi⁴* (raw 15585). QUAESTIO IV (*Utrum latria sit virtus distincta a dulia*) begins immediately after on p.219 R-col (clean boundary, verified eyes-on 600 dpi). Page-219 **left-column** footer notes 1–4 are the q3-closing sequence → [^1c] (superscript ¹ on *summa veritas*), [^2c] (² on *Enchiridio*), [^3c] (³ on *quidam ponunt*), [^4c] (⁴ on *propter diversum modum accipiendi*, the q3 terminal word). Page-219 footer notes 5+ ("Psalm. 7, 1. — Glossa…", and the R-column notes 7–9) belong to q4's footer sequence and are NOT consumed here.
 
 **Per-page footnote numbering.** Quaracchi restarts numbering each page. Markers are disambiguated by suffix: no suffix = p.216–217 sequence, `b` = p.218 sequence, `c` = p.219 sequence. (p.216's 3–5 and p.217's 1–9 do not collide, so the first nine markers run unsuffixed [^1]–[^15]; the p.218 page footers reuse small numbers, hence `b`.)
 
@@ -237,4 +240,10 @@ Now these things have been said of latria according as it is properly taken for 
 
 **Scholion disposition.** `has_scholion: false`. There is NO distinct q3 SCHOLION. The SCHOLION printed on p.216 (§I–II, "In conclusione omnes consentiunt..." / "In conclusionibus sequentis (3.) quaestionis antiqui magistri consentiunt...") belongs to **q2** — confirmed on the p.216 R-0/R-1 column bands (it follows q2's replies and explicitly forecasts "the following (3rd) question"). q3 itself ends with its Respondeo + replies and no scholion block. (Consistent with the article pattern: q1 had its scholion, q2 had its own; q3 carries none.)
 
-**[?] flags.** Apparatus entries [^1c] and [^2c] (and the cross-reference content of [^3c]) on p.219 were lightly reconstructed: the p.219 footer block in the OCR is dominated by q4-keying notes, and the q3-closing references (the *summa bonitas/veritas* note, the *Enchiridion* c. 1 back-reference to p.213 n.9, and the *infra d. 27. a. 2. q. 5.* cross-reference) were assembled from the running citation pattern + the visible p.219 L-0 band rather than a fully legible standalone footer line. Content is faithful to the cited loci but the exact Quaracchi wording of [^1c]/[^2c] is editorially normalized — flag for the d.10 decade-polish 600 dpi pass. No body-text `[?]` flags: the Latin body reads coherently and was confirmed against the column bands.
+**[?] flags — RESOLVED 2026-06-03 (decade-polish 600 dpi pass).** The p.219 q3-closing footers were verified eyes-on at 600 dpi (PDF 241, left-column footer notes 1–4). The Pass-1 reconstruction was WRONG and has been corrected to the printed text verbatim:
+- **[^1c]** (was "[Vide supra; cfr.] de bonitate et veritate increata") → actual printed note 1: *Cfr. infra d. 24. a. 1. q. 2; d. 26. a. 1. q. 3; d. 27. a. 1. q. 1. — Subinde pro Hoc autem cod. T Hoc modo, cod. A Hoc tantum.* (cross-refs + a *Hoc autem* variant, NOT a *summa bonitas/veritas* gloss). Superscript ¹ sits on *summa veritas*.
+- **[^2c]** (was "[Augusl.,] Enchirid. c. I. — Vide supra pag. 213, nota 9") → actual printed note 2: *Cap. 2. n. 1. seq. Vide q. praeced. arg. 1. ad oppos. — Paulo ante codd. F K U sperando in Deum. Paulo inferius pro inquam codd. A G H K N Z in quantum, et pro omnes illas codd. K M O omnes alias.* (Enchiridion c. 2 n. 1 + codd. variants; NOT the c. 1 / p.213 n.9 back-reference). Superscript ² sits on *Enchiridio*.
+- **[^3c]** (was "Vide infra d. 27. a. 2. q. 5. — …in colendo Deum/Dno") → actual printed note 3: *Edd. ponant. Cod. bb unde [cod. Z inde] quidam ponunt.* (a *ponant/ponunt* variant on the *quidam ponunt* lemma; NOT a d.27 cross-reference). Superscript ³ sits on *quidam ponunt*.
+- **[^4c]** (NEW — was MISSING) → printed note 4: *Vide scholion ad praecedentem quaest.* Superscript ⁴ sits on the q3 terminal word *accipiendi*; anchor added to both bodies.
+
+No body-text `[?]` flags remain. **q3/q4 boundary CLEAN**: q3 ends at *…propter diversum modum accipiendi⁴* and QUAESTIO IV (*Utrum latria sit virtus distincta a dulia*) opens immediately after (*Quarto quaeritur, utrum latria sit virtus distincta…*) — verified on the p.219 600 dpi body bands.

@@ -101,7 +101,7 @@ Secondly it is asked whether latria is a general virtue or a special one. And th
 
 **Replies to the arguments for the negative part:**
 
-*To 2.* To that which is objected to the contrary, that a sacrifice is offered to God in every good work (*Solution of the opposing arguments*); it must be said that just as the worship of God is said in many ways, so also is sacrifice. For there is a sacrifice of good action, and a sacrifice of devout prayer, and a sacrifice of immolation (*Threefold sacrifice*). The first belongs to all the virtues; the second to the theological virtues; the third pertains to latria itself. For it belongs to latria to offer sacrifice to God;
+*To 2.* To[^10] that which is objected to the contrary, that a sacrifice is offered to God in every good work (*Solution of the opposing arguments*); it must be said that just as the worship of God is said in many ways, so also is sacrifice. For there is a sacrifice of good action, and a sacrifice of devout prayer, and a sacrifice of immolation (*Threefold sacrifice*). The first belongs to all the virtues; the second to the theological virtues; the third pertains to latria itself. For it belongs to latria to offer sacrifice to God;
 
 and this sacrifice is owed to God alone, as Augustine says, and latria signifies the worship owed to God alone.
 
