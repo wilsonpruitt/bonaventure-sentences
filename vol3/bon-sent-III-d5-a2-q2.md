@@ -6,283 +6,243 @@ distinctio: 5
 articulus: 2
 quaestio: 2
 type: quaestio
-line_start: 9659
-line_end: 9916
-word_count_latin: 3712
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Utrum Deus assumserit humanam personam"
+title_en: "Whether God assumed a human person"
+printed_pages: [132, 133, 134, 135]
+pdf_pages: [154, 155, 156, 157]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 132–135"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from 450 dpi PDF column bands (raw lines 9659–9916), fresh literal English, full apparatus from raw OCR (19 entries: p.132 notes 1–7 + p.133 notes 1b–9b + p.134 notes 1c–3c), scholion (I–IV) from OCR, no [?] flags (2026-06-03)"
 format_version: 1
 ---
 
 # bon-sent-III-d5-a2-q2
 
+## *Utrum Deus assumserit humanam personam*
+
+---
+
 ## Latin
+<!-- page 132 -->
 
-QUAESTIO II.
-                                               Utrum Deus assumserit humanam personam.
+### Quaestio II. *Utrum Deus assumserit humanam personam.*
 
-                Secundo quaeritur, ulrum Deus assumserit hu-                 sitionem sic, scilicet quod Christus situnus in per-
-          manam personam. Et quod sic , videtur.                             sona: omne quod est, ideo est, quia unum est:
-                1. Boethius1 definiens personam. dicit, quod est             si ergo Christus est, necesse est unum esse; sed
-Adopposi-
-   luin.   «individua substantia rationalis naturae»; sed Chri-              non est unum in natura : ergo necesse est esse unum
-          stus assumsit individuam substantiam ralionalis na-                in persona.
-          turae — ut clicit Damascenus: «Assumsit enim natu-                      3. Item , hoc ipsum ostenditur per nominis ra-
-          ram in atorao » — ergo assumsit personam.                          tionem. Persona enim dicit quid completum et di-
-                2. Item, ad dignitatem singularis spectat, ut                stinctum ultima completione; sed quod assumitur,
-          illud singulare sit persona, persona enim nomen                    eo ipso quod assumitur, ad completius ordinatur:
-          est dignitatis 2; sed natura assumta in Christo aeque              ergo videtur, quod in se non habeat rationem per-
-          vel magis nobilis est, quam sit in aliquo alio ho-
-          mine: si igitur in aliis non amittit rationem perso-               sonae 4.e. Item, si assumsit, aut consumsit, aut con-
-          nae, videtur, quod in Christo habeat potissime:                    servavit. Constat, quod non consumsit, quia divina
-          ergo etc.                                                          natura humanae nihil nobilitatis abstulit. Si conser-
-                3. Item, anima rationalis unita carni facit per-             vavii: ergo cum assumens non sit assumtum, restat,
-          sonam; sed cum Deus humanam carnem3 assumsit,                      quod in Christo sint duae naturae et duae personae,
-          animam rationalem carni coniunxit: ergo si assum-                  scilicet humana et divina: ergo nec Deus est homo,
-          sit animam carni coniunctam, videtur, quod assum-                  nec homo est Deus: igitur non est ibi aliqua unio,
-          serit personam.                                                    ac per hoc nec assumtio. Si igitur est ibi assumtio
-                4. Item, persona non gignil nisi personam; sed               vera, manifestum esl, quod persona non est as-
-          Dei Filius assumsit quod Virgo genuit: ergo si Virgo
-          persona fuit, videtur, quod Deus ex ea personam                    sumta '.                  CONCLUSIO.
-          assumserit.
-                  Sed contra: 1. Augustinus de Fide ad Petrum4:                   Falsum omnino est, quod persona divina
-Fundamenta. « rjeus naturam hominis assumsit, non personam » .                        assumserit personam humanam.
-                  2. ltem, hoc ipsum ostendit Boethius5 tali ra-
-            tione: in Christo non est nisi una persona: ergo si                    Kespondeo: Dicendum, quod omni modo falsum conciusio i.
-            Dei Filius assumsit personam, idem assumsit se                   est, quod persona personam assumserit. — Hoc
-            ipsum; sed hoc est falsum et non intelligibile: ergo             enim tripliciter potest intelligi: aut quod ipsum as- Tripiex sen-
-            et ilhid , ex quo sequiiur , scilicet quod persona fue-          sumtum fuerit persona ante assumtionem, aut quod
-            rit a Verbo assumta. Probat autem primam propo-                  fuerit persona in assumtione, aut quod fuerit per-
+Secundo quaeritur, utrum Deus assumserit humanam personam. Et quod sic, videtur.
 
+1. Boethius[^1] definiens personam, dicit, quod est «individua substantia rationalis naturae»; sed Christus assumsit individuam substantiam rationalis naturae — ut dicit Damascenus: «Assumsit enim naturam in atomo» — ergo assumsit personam.
 
-              1 In libro de Una Persona et duabus naluris, c. 3. — Di-       manitasque discreta est, si mansere personae. Homines quippe
-         ctum Damasceni habetur III. de Fide orlhod. c. Il/Cfr. q.           ac boves una animalis communitate iunguntur... Deo vero atque
-         praeced. et supra pag. 15, nota 4. — Pro sed Christus cod. K        homini quid non erit diversa ralione disiunclum, si sub diver-
-         sed Deus.                                                           sitate naturae personarum quoque credatur mansisse discretio?
-               "- Cfr. I. Sent. d. 23. a. I. q. 2. et d. 25. a. I. q. 2.     Non est igitur salvatum genus humanum, nulla in nos salus
-               3 Codd. K Z bb naturam.
-                                                                             Christi generatione processit etc. — In "primo arg. membro ver-
-               4 Cap. 17. n. 60. Cfr. liic iit. Magistri, c. I.              bum consumere, ut infra ex corp. quaest. apparet, proprie su-
-               5 In libro de Una Persona et duabus naturis , c. 4. — Ver-    mitur et significat destructionem eius quod prius erat; quo sensu
-         sus finem arg. post quia wnum Val. adiicit numero.                  acceptum supponeret, personam humanam reapse anle unionem
-               6 Hoc arg. eliam a Boeth. insinualur loc. cit. , ubi de Ne-   exslilisse. Respicitur hic arg., ab aiiis Scholasticis (cfr. S. Thom.,
-         slorio animadvertit, ipsum, qui in errorem inciderit, cum « pu-     S. III. q. 4. a. 2. arg. 3.) ex quadam Decretali lnnocentii III.
-         taverit, in omnibus naluris posse dici personam », vera deflni-     sumtum, ubi dicilur, quod persona Dei consumsit personam ho-
-         tione personae convinci.                                            minis. Guliel. Antissiodorensis i\utem Concilio Nicaeno (polius
-               7 Boeth. loc. cil. ait: Iam vero sequitur, ut, personis ma-   Francofordiensi) atlribuit hoc effalum : In incarnatione Filii
-         nentibus, nullo modo a divinitate humanilas credatur assumta;       persona consumsit personam, non natura naturam. Communiler
-         omnino enim disiuncta sunt quae aeque personis naturisque se-       respondent Scholaslici , quod ibi consumere accipitur impro-
-         parantur; prorsus, inquam, disiuncta sunt; nec magis inter se       prie pro impedire, ne humana natura propriam personalilatem
-                                                                             habeat.
-         homines bovesque disiuncti sunt, quam divinitas in Christo hu-
-                                                                                                                                              133
-                                                          DIST. V. ART. II. QUAEST. II.
+2. Item, ad dignitatem singularis spectat, ut illud singulare sit persona, persona enim nomen est dignitatis[^2]; sed natura assumta in Christo aeque vel magis nobilis est, quam sit in aliquo alio homine: si igitur in aliis non amittit rationem personae, videtur, quod in Christo habeat potissime: ergo etc.
 
-nciusio 2. sona post assumtionem. Quolibet istorum trium mo-                   1. Ad illud
-                                                                                         ,.
-                                                                                            quod
-                                                                                              ,.
-                                                                                                 obiicitur.....
-                                                                                                           in conlrarium,
-                                                                                                                       ,
-                                                                                                                          quod
-                                                                                                                            .
-                                                                                                                                soiutio op-
-                                                                                                                                positorum.
-           dorum sumta, sententia praedicti sermonis est falsa.         persona est rationahs naturae individ.ua substantia ;
-             — Nam priuius repugnat veritati conceptionis , seeun-      dicendum, quod individuum in notificatione perso-
-             dus veritati assumtionis , et tertius veritati unionis.    nae triplicem imporlat dislinctionem , videlicet sin- Notandum.
-                   Primus namque, qui hoc ponit, quod anle as-          gularilalis, incommunicabililatis et supereminen-
-    Profcimr sumtionem fuerit persona,       verilati conceptionis re-  lis dignilatis. Individuum enim dicitur quod est
-     . oad 3                     '    „ .                  r
-    men.b,a. pugnat. si emm ante fuit persona , quam esset Deus,
-                                                                 _
-                                                                        in se indivisum et ab aliis distinctum. Dislinctionem
-             Virgo Maria non concepit Deum , sed hominem pu- singularitalis voco, quod aliquid non sit commune
-             rum; quod est contra Evangelium et conceptionis            ad plura, sed dicatur de uno solo; propter quod So-
-             articulum '. — Secundus vero modus, qui ponit,             crales dicit individuum, homo vero non dicit in-
-             hominem illtim tempore assumlionis fuisse personam,        dividuum \ — Distinctionem incommunicabililatis
-             veritati assumlionis repugnat. Si enim in assumtione       dico, quod aliquid non sit alicuius pars sive veniens
-             fuit persona, et post assumtionem desiit esse per-         in compositionem tertii; unde pes vel manus homi-
-             sona; potius in ipsa assumtione persona consume-           nis, proprie loquendo, non dicitur individuum. -—
-             batur quam assumebatur ; non igitur fuit illa vera         Distinctionem supereminentis dignitalis inlelligo il-
-             assumtio, secl magis consumtio. — Tertius vero             lam , quae accipitur a proprietate digniori. Hoc enim
-                                                                        nomen persona sumtum est a dignioribus; unde
-             modus inlelligendi, quod persona fuerit posl assum- '
-             tionem illud quotl assumtum est, veritati unionis          non reperitur nisi in individuo nobilissimae creatu-
-foundnm. repugnat. Si enim assumens differt ab assumto; et rae, ulpote rationalis, et ralione suae nobilissimae
-             illud quod assumtum est, est persona; et qui as- proprietatis 6. Quoniam igitur natura humana , as-
-             sumsit similiter est persona: ergo in Christo sunt         sumla a Christo , ordinata est ad nobiliorem pro-
-             duae personae; et duae sunt in eodem naturae, hoc          prietatem eiusdem personae secundum alteram na-
-             constat: ac per hoc nulla est ibi unio; ac si hoc,         turam; hinc est, quod non tenet ibi proprietatem
-             nulla est incarnatio nec humani generis reparatio;         personalitatis. Cadit enim ab una proprietate , quae
-             quod adeo est absurdum , ut lotius fidei christianae       quidem est supereminentis dignitatis, a qua quidem
-             perimal fundamentum.                                       non cadit persona Verbi secundum divinam natu-
-                   In hunc autem errorem pessimum decidit Ne-           ram. Et sic patet, quod distinctio ' personae et ratio
-    Nesiorio storius, 'ut  dicit   Boelhius 2,  pro
-                                                l    eo quod
-                                                        1      nescivit illa non valet, quia notificatio personae, recte intel-
-   Eulychte.
-             distinguere inter personam et naturam. Pro eo enim,        lecta, non convenit humanitati assumtae.
-             quod vidit, in Christo duplicem esse naturam, in-                2. Ad illud quod secundo obiicilur, iam patet
-             tellexit, duplicem esse personam. Eutyches vero ex         responsio ex hoc quod iam dictum est, quia nalura
-             eadem causa erravit, sed non eodem modo. Quia              assumta in Christo eo ipso est nobilior, quod in
-             enim nescivit discernere inter personam et naluram,        nobiliori persona stabilitur, quia non in persona
-             et vidit, quod in Christo non poterat esse nisi una        creata, sed in persona increata. Unde ordinatio acl Jfotanua.u.
-             persona, ex hoc compulsus est ponere, quod in dignius , quamvis auferat rationem superpositionis ,
-             Christo non est 3 nisi una natura. El ideo sicut duo       non aufert dignitatis proprietalem. Melius enim est
-i«abellio.
-    i.uio et fuerttnt errores in divinis , scilicet Arii et Sabellii,   subesse   superiori , quam superesse alicui inferiori:
-             pro eo quod nesciverunt dislinguere inter naluram          Sicut perfectior est anima, cum possidetur a Deo,
-             et personam; sic duo fuerunt errores circa incar-          quam cum possidel res creatas; et melius nubit Ejemptum.
-             nationem Cltristi, videlicet Eutychis et Nestorii. —       virgo nobilis , cum contrahit matrimonium cum
-Meiia via Catholica
-ivlesiae.               vero Ecclesia rper medium islorum erro-         rege, cui subsit , quam cum contrahit cum rustico,
-             rum pertransiit dicens, in deitate plures esse per-        cui praesil. Unde esto, quod Deus aliquem assumeret,
-             sonas et unam naturam, et in Christo plures natu-          qui iam est persona, vel ens actu; ille, cum desi-
-             ras et unam personam. Et ideo simpliciter concedit,        neret esse persona, nihil tamen dignitatis amitteret;
-             personam assumsisse naturam, et negat, personam            esset enim persona ' secundum naturam assumen-
-             assumsisse personam, sicut Magister dicit in lit- tem, quamvis non secundum naturam assumtam.
-             tera". — Unde rationes sunt concedendae inductae                 3. Ad illiul qnod obiicitur, quod .tiiima ratio-
-             pro ista parte.                                            nalis unita carni facit personam ; dicendum, qttod
+3. Item, anima rationalis unita carni facit personam; sed cum Deus humanam carnem[^3] assumsit, animam rationalem carni coniunxit: ergo si assumsit animam carni coniunctam, videtur, quod assumserit personam.
 
-              1 Vide supra .1. 1. a. 3. q. 3.                                       6 Codd. K aa l.l) adilunt sortitur aliquis nomen personae.
-              * Loc. paulo superius cil. c. i. i>. et 7, abi, errore Ne-      Paulo supcrius pro a dignioribus codd. II 1\ /. Iili n dignitalibus.
-        storii comparolo cum errore liulychetis, catholicam doclrinam               7 Val. dcfmitio. Cfr. quaest. sc^q. arg. 2. ad oppos.
-        inter duos Islos errores mcdia via incedere pnicdical. — i'io               8 Val. el ed. I SUppOSitionis , et dein tinnrn nun etc. Mox
-        tfestorius codd. et edd. I, 2 perperam cxiiibnit Eutyches, et         pro .s»/M'/rssf , qu.ie ieclin habeltir eliam in cndd. AKUZbb,
-        dcin pro Eutyches pariter erronee Ifestorius.                         alii codd. el edd. 1 , 2 falso subesse , Vat. praeesse.
-              3 Cod. lih essel. Superius cVd. a dislinguere pro discernere.         5 Multi codd. hic subiiciunt vel. Paulo superius pro qui
-              * HiC c. I. et 3.                                               iam est Vat. qui iinii esset, el deinde prn ens actu codd. II
-             '■• Arislol. , I. Periherm. c. 5. (c. 7.): Uico antem nniver-    K X bb ens in aclu. Proxlme post pro ille, cum non puuci codd.
-        salc quod de pluribtis pracdicari nalum est ; singularc vero          ille lnmen.
-        quod non etc.
-        134                                                  SENTENTIARUM LIB. III.
+4. Item, persona non gignit nisi personam; sed Dei Filius assumsit quod Virgo genuit: ergo si Virgo persona fuit, videtur, quod Deus ex ea personam assumserit.
 
-          verum est , quando anima et caro non coniungitur                         4. Ad illud quod obiicitur, quod beata Virgo
-          dignori; tunc enim non solum ex anima et carne                      genuit personam; dicendum, quod verum est.quia
-Notandum. constiluitur ipsa natura, sed ex ipsa natura hypo-                  genuit Filium Dei; sed quoniam persona generatur
-          stasis et persona. Non sic autem est in proposilo;                  ratione naturae, et duplex est natura in illa per-
-          quia anima et caro fuerunt sibi invicem unita ipsi                  sona, scilicet creata et iucreala; ideo ratione dupli-
-          Verbo, nec in aliquo instanti fuit anima illa, quin                 cis naturae duplex convenit ei generatio, scilicet
-          esset unita Verbo; et ipsa hypostasis aeterna erat,                 temporalis et aelerna: temporalis, in qua assimi-
-          in qua couniebantur corpus et anima: et ideo non                    latur Matri ; aelerna secundum naturam , in qua
-          constituebant personam , sed solum naturam. Etideo                  assimilatur Patri 2. Ideo non cogit ratio illa. Quamvis Noumaum. ■
-          non sequitur, quodsi Dei Filius assumsit animam                     enim generatio conveniat personae, convenit tamen
-          carni unitam, quod assumserit personam; quia non                    ei ratione naturae; hoc maxime verum est in ge-
-          prius1 fuit ipsi carni unita, quam esset assumla,                   neratione creata, in qua est non tantum personalis
-          quidquid sit de ordine secundum naturam.                            distinctio , sed naturalis multiplicatio 3.
+**Sed contra:** 1. Augustinus *de Fide ad Petrum*[^4]: «Deus naturam hominis assumsit, non personam». (*Fundamenta.*)
 
-                                                                  SCHOLION.
-              I. Recte dicitur a S. Bonav. , quod Nestorius iuxta hic         De hac disfinclione aliisque cfr. I. Senl. d. 8. p. II. q. 2, et II. Sent.
-        relalum tertium intelligendi modum haeresim suam docuerit.            d. 3. p. I. a. 1. q. I , ubi S. Bonav. etiam quoad esse actuale
-        Nam quidquid non pauci in conlrarium dixerint, constat ex             re.alem dislinctionem entis et esse insinuat. c) Ralio personae
-        ipsius Nestorii verbis (in suo 9. anathematismo) , eum disertis       vel supposili importat omnino negationem communicabilitatis
-        verbis condemnasse errorem , qui a noslro auctore primo loco          (vel dependenliae) respectu alterius subslanliae, ita ut in illa
-        recensetur. — Mullis decretis ecclesiasticis error Neslorii dam-      terminationem vel completionem habeat. Hinc eadem positive
-        natus est, quorum unum transeribere libet, scilicet 2. analhe-        dicit quandam completionem et terminttm in genere sub-
-                                                                              sfantiae.
-        matismum S. Cyrilli Alex. , a Concilio Ephesino (an. 431) cum
-        aliis analhemalismis approbalum : <t Si quis non confitetur,                2. Di/ferunl autem opiniones in solulione quaesfionum,
-        carni secundum subslantiam [ita antiqua versio Latina reddit          quid proprie sit illud quo distinguuntur natura singnlaris et
-        Graeca verba zaO' unoaTaoiv] unilum Dei Palris Verbum, unum-          persona; quid haec superaddat illi; et praesertim, utrum ad-
-        que esse Chrislum cum propria carne, eundem scilicet Deum             dat aliquid positicum , et quale , an polius aliquid negativum.
-        et hominem, a. s. ».                                         \        Praescindendo a nonnullis obsoletis opinionibus, quatuor cele-
-              II. Constat igilur lido, dislinctionem inter personam etna-     bres sententiae circumferuntur, quarum duae primae conveniunt
-                                                                              in hoc, quod illud superadditum revera sit aliquid positivum.
-        iuram tum quoad diviua tum quoad hominem omnino ad-                         Prima sententia cum Caietano et Philippo a S. Trinitate
-        mittendam esse, ut salventur dogmata Trinitatis et incarnationis,
-        pia. ut bene obscrvatur hic in eorp. quaestionis, eadem ne-           aliisque ex schola S. Thomae affirmat, quod dictttm superad-
-                                                                              ditum sit aliquid positivum et ullimum complementum sub-
-        glecta, pullulaverunt tot haereses, inter se oppositae, quae Eccle-
-        siam per priora saecula perturbabant. Rationem autem personae,        slantiae, disfinctum a nalura non solum tanquam modus a re
-        licet secundum analogiam do divina persona el humana dico-            modifwata, sed tanquam res a re. Alii tamen eiusdem scholae
-        tur (cfr. I. Sent. d. 25. a. 2. q. 2.), tamen multipliciter in        volunt, distinclionem esse quidem realem, sed modalem lonlum.
-        utroque casu differre, exploratum est. Quid persona sit in di-              Secunda senlentia cum Suarez, Lugo aliisqtte plurimis
-        vinis, dilTuse tractatum est I. Sent. d. 23. a. 1 , d. 25. per        tenet, illud complementum esse aliquid posUivum, ast tantum
-        totam et d. 34. q. 1.2. Quaeslio autem , quid sit persona vel         modum substantialem per se existendi, a re modificata vir-
-                                                                              tualiter dislinctum et naturaliter ex substanlia individua resul-
-        suppositttm, personalilas et subsistentia in creaturis, et in pri-
-        mis, quid ratio suppositi sive personae superaddat naturae            tantcm, qui reddit ipsam substantiam incommunicabilem et
-        singulari, occasionem dodit, ut scholae catholicae post Ss.           independenlem. Dicilur aulem modus substanlialis , ut dislin-
-        Thomam et Bonavcnturam diversas opiniones docuerint et                guatur a modo accidentali existendi in subieclo, el partiali
-                                                                              existendi in toto.
-        quasi infinitis et subtilibus disputationibus defcnderint. Ea quae
-        de his controversiis in I. tomo d. 25. a. I. q. I. in scholio               Terlia senlentia cum Scoto eittsque schola docet, subsi-
-        breviter notavimus, hic paulo distinctius explicare iuvat.            stentiam vel personalitatem esse quidem ultimam actuolilolcm,
-               I. Conveniunt auctores catholici, praelerquam quod vul-        consliluentem subslontiom in esse omnino incommunicabile et
-        gares definiliones Boothii et Richardi a S. Vicl. admittunt,          non ordinabile ad ulteriorem actum, sed non addere natu-
-        praccipue in tribtis: a) Ratio personae, dignitntem quandam           rae singulari nisi duplicem negafionem communicalionis ttt quo,
-        prae se ferens, non convenit nisi naturis intellectualihus ; sup-     tum actualis, lum aplitttdinnlis; (cfr. Scotus, III. Sent. d. I. q.
-        positum aulem de quacumque substantia subsistente dicilur,            I. n. 5. seqq., d. 5. q. 2. n. 4. 5. (cum dilTuso commentario
-        unde ad personam se habet ut conceplus superior ad inferio-           Pontii); Quodl. 19; I. Senl. d. 13. q. unica n. 9. 10, d. 23.
-        rem. b) Persona ita distinguitttr a natura singulari, ut haec         q. unica n. 7, ubi asserit, quod persona non aliquam dignita-
-        assumi possii, quin assumatur illa. Hinc communissime doce-           tem ex formali signi/icato , sed ex natura intellectuali conno-
-        lur, personalitatem sive subsistentiam dicere aliquid realiter        tata importet. Huic sententiae favent etiam Henr. Uand. (Quodl.
-        disiinctumet separabi'.e a natura singulari, sirriulque impro-        5. q. 8.) aliique.
-        batui- opinio paucorum, scilicet Durandi et Nominalium, qui                 Quarta vero sentenlia reapse a sentenlia Scoti vix nisi in
-         distinclionem illam ad diversum modum concipiendi reducunt.          modo explicandi ct probandi discedil, cum doceat, quamli-
+2. Item, hoc ipsum ostendit Boethius[^5] tali ratione: in Christo non est nisi una persona: ergo si Dei Filius assumsit personam, idem assumsit se ipsum; sed hoc est falsum et non intelligibile: ergo et illud, ex quo sequitur, scilicet quod persona fuerit a Verbo assumta. Probat autem primam propositionem sic, scilicet quod Christus sit unus in persona: omne quod est, ideo est, quia unum est: si ergo Christus est, necesse est unum esse; sed non est unum in natura: ergo necesse est esse unum in persona.
 
+3. Item, hoc ipsum ostenditur per *nominis rationem.* Persona enim dicit quid completum et distinctum ultima completione; sed quod assumitur, eo ipso quod assumitur, ad completius ordinatur: ergo videtur, quod in se non habeat rationem personae[^6].
 
+4. Item, si assumsit, aut *consumsit,* aut *conservavit.* Constat, quod *non consumsit,* quia divina natura humanae nihil nobilitatis abstulit. Si *conservavit:* ergo cum assumens non sit assumtum, restat, quod in Christo sint duae naturae et duae personae, scilicet humana et divina: ergo nec Deus est homo, nec homo est Deus: igitur non est ibi aliqua unio, ac per hoc nec assumtio. Si igitur est ibi assumtio vera, manifestum est, quod persona non est assumta[^7].
 
-             1 Supple cum codd. K bb et Val. tempore. Cfr. supra d.                2 De. duplici genoratione videsis infro tit. Jlagistri, d. VIII.
-        3. p. II. a. 3. q. 2. — Aliquanlo superius pro in qua fere            c. 2, et Comment. a. 2. q. I.
-        omnes codd. et edd. 1 , 2 in quo , et subinde pro counieban-               3 Cfr. I. Se.nl. d. 9. q. I. — Paulo superius post Quamvis
-        tur Vat. coaequabanliir , cdd. I, 2 uniebatur , codd. PQ con-         pcrmnlti codd. et edd. I , 2 omittnnt enim.
-        iungebatur , codd. H U continebattir.
-                                                       DIST. V. ART. II. QUAEST. III.                                                         133
+### Conclusio.
 
-      bet creatnm substantiam singularem per propriam essentiam              esse rei, et proprielalem supereniinentis dignitatis ; insuper
-      habere potentiam per se et in se subsistendi , quin oliqua ad-         quod in hypostosi divina subslantificalur totttm esse Christi.
-      dilione ad iioc indigeat, ast eiiam quin exeludatur possibilitas ,     Deinde od 5. docetur, quod nalura humano Christi, si separa-
-      quod a Deo ita unialur alii substantiae , ut non subsistal nisi        relur, eo ipso alium modum existendi [scilicet substantialem]
-      dependenter ab illa, cui communicatur. Hinc quaclibet sub-             haberet el (ieret persona. Ibid. q. 3. suppositum nominatur ftin-
-      stanlia subsistenliam etiam actualem in se habet eo ipso , quod        damenlttm totitts exislcntiae natttrulis , « in quo toittin esse rei
-      non unialur olii substanliae subsislenli. Quodsi ?. Thom. aliique      slabilitur et fnndatur. Insuper clr. ibi seqq. qq., et d. 6. a. 1.
-      anliqiii dicunt, quod suppositum addat aliquid naturae , lunc          q. 1. praeserlim ad 6. et q. 3 , a. 2. q. I. 2, d. I. a. I. q. 2,
-      hoc intelligendum esse volunt de natura , quatenus signilicot          d. 2. a. 3. q. 4. in fine (de gratia unionis) et hic q. praeced. ad
-      essentiam speciei. Ila non pauci nec spernendi recentiores, duce       2. 3. 4.
-      Claudio Tipliano S. I. (Declaratio ac defensio scholastica doctri-            In his aliisque locis passim occurrit phrasis, quod in hy-
-      nae Ss. Palrum Doctorisqtie angelici de. hypostasi ac persona,         poslosi sive in supposito sive in persono tolitm essc rei subslan-
-      Mussiponli 1634) ; qui eliam Ss. Thomam et Bonaventuram sibi           tificatur. Vcrbum stibstantificari sumtum est ex Latina versione
-      suffragari volunt.                                                     Dionysii de Div. Nom. (c. 4. § 20.) ac Epist. 4. ad Caium ,
-            III. S. Bonav. hic et alibi de ralione unionis hypostaticae      et exprimit Graecum verbum ouatouaOat, ut iom notovimus tom.
-      nihil dicit, quod non optime con-veniat cum doctrina S. Thomae.        II. pag. 812, nota 6,et supra pag. 10, nota 4. S. Bonav. ver-
-      Praedicta autem quacslio pliilosophica , quid persona addal su-        bum substantificare inlelligit de eo fundamenlo, quod ligpostasis
-      pra naturam singularem humanam (quae sane conneclitur cum              dat naturae. Eodem verbo utitur etiam S. Thom. (Quaest.
-      profundissimis problemalibus melaphysicis), a nostro Doctore           disput. de Unione Verbi incarn. a. 4.) , sed non in eodem sensu,
-      explicile non Iraclatur. Hinc ei a diversis auctoribus diversae        cum dicat de persona Filii, quod c simpliciler substantificatur
-      sententiae de hac re atlribuuntur. P. Barlhol. a Barberiis (Curs.      pernaturam divinam ». — Alii loci S. Bonav. ad hanc quae-
-      theologic. I. 11. disp. 2. q. I . ) cum aliis eum exponit iuxla se-    slionem spectantes videri possunt in citato scholio, I. Senl. d.
-      cundam opinionem, afferendo illos locos, qui aliquod positivum         2S. a. I. q. I , ubi eliam expressa auctoris verba afferuntur,
-      ralioni personae atlribuunt. P. Matthias Hauzeur (Collalio totius      quod privolio communitatis in persona magis sit positio quam
-      theol. t. II. col. 267 seqq.) non sine ocumine Bonaventuram et         privolio. Cfr. etiam II. Senl. d. 3. p. I. o. I. q. 2. in corp.,
-      Scolum sic exponit, ut non sibi contradicant, sed polius invicem       ubi nuclor diversos gradas subsistenlioe distinguit olque sub-
-      suppleant. Siniililer defensores quarlae sentenliae asserunt, ea       stantiis spiritualibus, ut formis subsistenlibus, altiorem gradum
-       quae in hac quaest. et alibi in hoc libro III. Sent. occurrunt,        in genere substantiae et subsistentiao vindicat. De personali
-       suam causam aperte sustinere. — ludicium de his sapienti lectori       discretione in Angelis agilur ibid. a. 2. q. 2.
-       remitlenles, nolamus tanlum praecipuos locos et modos loquen-                Quidquid aulem sit de hac quaeslione philosophica , quid
-       di ad hanc rem speclantes, qui eliam in aliis huius libri quoe-        nv.ia personae hamanae addat humanae nolurae; exlra conlrover-
-       slionibus inveniunlur. Hic in solul. od 1.2. 3. tria od ralionem       siam est, quod unio hypostatiea in Christo fit per « additionem
-       personae requiruntur, scilicet singularilas , incommunicabili-         alicuius, quod est supra humanam naturam, quod est unio ad
-       tas, dignitus (cfr. Alex. Hal., S. p. III. q. 4. m. 6, ubi ea-         divinam personam » (S. Thom., S. III. q. 4. a. 2. atl 2.), quo
-       dem ponunlur), quin tamen ratio formalis personae indicelur,           humanae in Christo naturae confertur modus cxistendi et subsi-
-       sicut nec infra d. 10. o. I. q. 3, praesertim in fine, ubi de          stcndi prorsus unicus et dignitas infinita.
-       indiiidtio et supposilo agitur. Ibid. q. 2. ad 2. docetur, quod              IV. De ipsa quaeslione: Alex. Hal., S. p. III. q. 4. m. 6. —
-       Chrislus ut homo est res complcta omni completione absoluta ,          Scot., in ulroque Scripto hic q. 2. — S. Thom., hic q. 1. a. 3,
-       non autem respectiva, quae est dignitas superexcellenliae. Ibid.       q. 3. a. 3, S. III. q. 2. a. 2. q. 4. a. 2; S. c. Gent. IV. c. 34. 38;
-       ad 3. dicilur , quod natura hyposlalice unila digniori non po-         Quaesl. disp. de Unione Verbi etc. a. 2. — B. Albert., hic a. 1 4.
-       lest habere suam propriam personalitatem, sed bene natura              — Petr. a Tar., hic q. 4. a. 2. — Richord. a Med., hic a. 2. q. 2,
-       dignior unila minus dignae. Item ad 4. legilur, quod persona           a. 4. q. 2. — /Egid. R., hic q. 2. a. 3, q. 3. a. 2. — Durand.,
-       duo dicit, scilicet hypostasim, in qua esl subsistentia totius         hic q. 2. — Dionys. Carlh., hic q. 2. — Biel , hic q. unica.
+> Falsum omnino est, quod persona divina assumserit personam humanam.
+
+**Respondeo:** Dicendum, quod omni modo falsum est, quod persona personam assumserit. (*Conclusio 1.*) — Hoc enim tripliciter potest intelligi: aut quod ipsum assumtum fuerit persona ante assumtionem, aut quod fuerit persona in assumtione, aut quod fuerit persona post assumtionem. (*Triplex sensus.*)
+
+<!-- page 133 -->
+
+(*Conclusio 2.*) Quolibet istorum trium modorum sumta, sententia praedicti sermonis est falsa. — Nam primus repugnat *veritati conceptionis,* secundus *veritati assumtionis,* et tertius *veritati unionis.*
+
+(*Probatur quoad 3 membra.*) Primus namque, qui hoc ponit, quod ante assumtionem fuerit persona, veritati conceptionis repugnat. Si enim ante fuit persona, quam esset Deus, Virgo Maria non concepit Deum, sed hominem purum; quod est contra Evangelium et conceptionis articulum[^1b]. — Secundus vero modus, qui ponit, hominem illum tempore assumtionis fuisse personam, veritati assumtionis repugnat. Si enim in assumtione fuit persona, et post assumtionem desiit esse persona; potius in ipsa assumtione persona consumebatur quam assumebatur; non igitur fuit illa vera assumtio, sed magis consumtio. — Tertius vero modus intelligendi, quod persona fuerit post assumtionem illud quod assumtum est, veritati unionis repugnat. (*Notandum.*) Si enim assumens differt ab assumto; et illud quod assumtum est, est persona; et qui assumsit similiter est persona: ergo in Christo sunt duae personae; et duae sunt in eodem naturae, hoc constat: ac per hoc nulla est ibi unio; ac si hoc, nulla est incarnatio nec humani generis reparatio; quod adeo est absurdum, ut totius fidei christianae perimat fundamentum.
+
+In hunc autem errorem pessimum decidit Nestorius, ut dicit Boethius[^2b], pro eo quod nescivit distinguere inter personam et naturam. (*Nestorio. Eutyche.*) Pro eo enim, quod vidit, in Christo duplicem esse naturam, intellexit, duplicem esse personam. Eutyches vero ex eadem causa erravit, sed non eodem modo. Quia enim nescivit discernere inter personam et naturam[^3b], et vidit, quod in Christo non poterat esse nisi una persona, ex hoc compulsus est ponere, quod in Christo non est nisi una natura. (*Ario et Sabellio.*) Et ideo sicut duo fuerunt errores in divinis, scilicet Arii et Sabellii, pro eo quod nesciverunt distinguere inter naturam et personam; sic duo fuerunt errores circa incarnationem Christi, videlicet Eutychis et Nestorii. — (*Media via Ecclesiae.*) Catholica vero Ecclesia per medium istorum errorum pertransiit dicens, in deitate plures esse personas et unam naturam, et in Christo plures naturas et unam personam. Et ideo simpliciter concedit, personam assumsisse naturam, et negat, personam assumsisse personam, sicut Magister dicit in littera[^4b]. — Unde rationes sunt concedendae inductae pro ista parte.
+
+(*Solutio oppositorum.*) 1. Ad illud quod obiicitur in contrarium, quod persona est rationalis naturae individua substantia; dicendum, quod individuum in notificatione personae triplicem importat distinctionem, videlicet singularitatis, incommunicabilitatis et supereminentis dignitatis. (*Notandum.*) Individuum enim dicitur quod est in se indivisum et ab aliis distinctum. Distinctionem singularitatis voco, quod aliquid non sit commune ad plura, sed dicatur de uno solo; propter quod Socrates dicit individuum, homo vero non dicit individuum[^5b]. — Distinctionem incommunicabilitatis dico, quod aliquid non sit alicuius pars sive veniens in compositionem tertii; unde pes vel manus hominis, proprie loquendo, non dicitur individuum. — Distinctionem supereminentis dignitatis intelligo illam, quae accipitur a proprietate digniori. Hoc enim nomen *persona* sumtum est a dignioribus; unde non reperitur nisi in individuo nobilissimae creaturae, utpote rationalis, et ratione suae nobilissimae proprietatis[^6b]. Quoniam igitur natura humana, assumta a Christo, ordinata est ad nobiliorem proprietatem eiusdem personae secundum alteram naturam; hinc est, quod non tenet ibi proprietatem personalitatis. Cadit enim ab una proprietate, quae quidem est supereminentis dignitatis, a qua quidem non cadit persona Verbi secundum divinam naturam. Et sic patet, quod distinctio[^7b] personae et ratio illa non valet, quia notificatio personae, recte intellecta, non convenit humanitati assumtae.
+
+2. Ad illud quod secundo obiicitur, iam patet responsio ex hoc quod iam dictum est, quia natura assumta in Christo eo ipso est nobilior, quod in nobiliori persona stabilitur, quia non in persona creata, sed in persona increata. (*Notandum.*) Unde ordinatio ad dignius, quamvis auferat rationem superpositionis[^8b], non aufert dignitatis proprietatem. Melius enim est subesse superiori, quam superesse alicui inferiori: Sicut perfectior est anima, cum possidetur a Deo, quam cum possidet res creatas; et melius nubit virgo nobilis, cum contrahit matrimonium cum rege, cui subsit, quam cum contrahit cum rustico, cui praesit. (*Exemplum.*) Unde esto, quod Deus aliquem assumeret, qui iam est persona, vel ens actu; ille, cum desineret esse persona, nihil tamen dignitatis amitteret; esset enim persona[^9b] secundum naturam assumentem, quamvis non secundum naturam assumtam.
+
+3. Ad illud quod obiicitur, quod anima rationalis unita carni facit personam; dicendum, quod
+
+<!-- page 134 -->
+
+verum est, quando anima et caro non coniungitur digniori; tunc enim non solum ex anima et carne constituitur ipsa *natura,* sed ex ipsa natura *hypostasis et persona.* (*Notandum.*) Non sic autem est in proposito; quia anima et caro fuerunt sibi invicem unita ipsi Verbo, nec in aliquo instanti fuit anima illa, quin esset unita Verbo; et ipsa hypostasis aeterna erat, in qua couniebantur corpus et anima: et ideo non constituebant personam, sed solum naturam. Et ideo non sequitur, quodsi Dei Filius assumsit animam carni unitam, quod assumserit personam; quia non prius[^1c] fuit ipsi carni unita, quam esset assumta, quidquid sit de ordine secundum naturam.
+
+4. Ad illud quod obiicitur, quod beata Virgo genuit personam; dicendum, quod verum est, quia genuit Filium Dei; sed quoniam persona generatur ratione naturae, et duplex est natura in illa persona, scilicet creata et increata; ideo ratione duplicis naturae duplex convenit ei generatio, scilicet temporalis et aeterna: temporalis, in qua assimilatur Matri; aeterna secundum naturam, in qua assimilatur Patri[^2c]. Ideo non cogit ratio illa. (*Notandum.*) Quamvis enim generatio conveniat personae, convenit tamen ei ratione naturae; hoc maxime verum est in generatione creata, in qua est non tantum personalis distinctio, sed naturalis multiplicatio[^3c].
+
+### Scholion
+
+**I.** Recte dicitur a S. Bonav., quod Nestorius iuxta hic relatum tertium intelligendi modum haeresim suam docuerit. Nam quidquid non pauci in contrarium dixerint, constat ex ipsius Nestorii verbis (in suo 9. anathematismo), eum disertis verbis condemnasse errorem, qui a nostro auctore primo loco recensetur. — Multis decretis ecclesiasticis error Nestorii damnatus est, quorum unum transcribere libet, scilicet 2. anathematismum S. Cyrilli Alex., a Concilio Ephesino (an. 431) cum aliis anathematismis approbatum: «Si quis non confitetur, carni secundum substantiam [ita antiqua versio Latina reddit Graeca verba καθ' ὑπόστασιν] unitum Dei Patris Verbum, unumque esse Christum cum propria carne, eundem scilicet Deum et hominem, a. s.».
+
+**II.** Constat igitur fide, distinctionem inter *personam* et *naturam* tum quoad divina tum quoad hominem omnino admittendam esse, ut salventur dogmata Trinitatis et incarnationis, pia, ut bene observatur hic in corp. quaestionis, eadem neglecta, pullulaverunt tot haereses, inter se oppositae, quae Ecclesiam per priora saecula perturbabant. Rationem autem *personae,* licet secundum analogiam de divina persona et humana dicatur (cfr. I. Sent. d. 25. a. 2. q. 2.), tamen multipliciter in utroque casu differre, exploratum est. Quid persona sit in divinis, diffuse tractatum est I. Sent. d. 23. a. 1, d. 25. per totam et d. 34. q. 1.2. Quaestio autem, quid sit persona vel *suppositum, personalitas* et *subsistentia* in creaturis, et in primis, quid ratio suppositi sive personae superaddat naturae singulari, occasionem dedit, ut scholae catholicae post Ss. Thomam et Bonaventuram diversas opiniones docuerint et quasi infinitis et subtilibus disputationibus defenderint. Ea quae de his controversiis in I. tomo d. 25. a. 1. q. 1. in scholio breviter notavimus, hic paulo distinctius explicare iuvat.
+
+I. Conveniunt auctores catholici, praeterquam quod vulgares definitiones Boethii et Richardi a S. Vict. admittunt, praecipue in tribus: a) Ratio personae, dignitatem quandam prae se ferens, non convenit nisi naturis intellectualibus; suppositum autem de quacumque substantia subsistente dicitur, unde ad personam se habet ut conceptus superior ad inferiorem. b) Persona ita distinguitur a natura singulari, ut haec assumi possit, quin assumatur illa. Hinc communissime docetur, personalitatem sive subsistentiam dicere aliquid realiter distinctum et separabile a natura singulari, simulque improbatur opinio paucorum, scilicet Durandi et Nominalium, qui distinctionem illam ad diversum modum concipiendi reducunt. c) Ratio personae vel suppositi importat omnino negationem communicabilitatis (vel dependentiae) respectu alterius substantiae, ita ut in illa terminationem vel completionem habeat. Hinc eadem positive dicit quandam completionem et terminum in genere substantiae.
+
+2. *Differunt* autem opiniones in solutione quaestionum, quid proprie sit illud quo distinguuntur natura singularis et persona; quid haec superaddat illi; et praesertim, utrum addat aliquid *positivum,* et quale, an potius aliquid *negativum.* Praescindendo a nonnullis obsoletis opinionibus, quatuor celebres sententiae circumferuntur, quarum duae primae conveniunt in hoc, quod illud superadditum revera sit aliquid positivum.
+
+*Prima* sententia cum Caietano et Philippo a S. Trinitate aliisque ex schola S. Thomae affirmat, quod dictum superadditum sit aliquid positivum et ultimum complementum substantiae, distinctum a natura non solum tanquam *modus a re modificata,* sed tanquam *res a re.* Alii tamen eiusdem scholae volunt, distinctionem esse quidem realem, sed modalem tantum.
+
+*Secunda* sententia cum Suarez, Lugo aliisque plurimis tenet, illud complementum esse aliquid positivum, ast tantum modum substantialem per se existendi, a re modificata virtualiter distinctum et naturaliter ex substantia individua resultantem, qui reddit ipsam substantiam incommunicabilem et independentem. Dicitur autem modus substantialis, ut distinguatur a modo accidentali existendi in subiecto, et partiali existendi in toto.
+
+*Tertia* sententia cum Scoto eiusque schola docet, subsistentiam vel personalitatem esse quidem ultimam actualitatem, constituentem substantiam in esse omnino incommunicabile et non ordinabile ad ulteriorem actum, sed non addere naturae singulari nisi duplicem negationem communicationis *ut quo,* tum actualis, tum aptitudinalis; (cfr. Scotus, III. Sent. d. 1. q. 1. n. 5. seqq., d. 5. q. 2. n. 4. 5. (cum diffuso commentario Pontii); Quodl. 19; I. Sent. d. 13. q. unica n. 9. 10, d. 23. q. unica n. 7, ubi asserit, quod persona non aliquam dignitatem ex formali significato, sed ex natura intellectuali connotata importet. Huic sententiae favent etiam Henr. Gand. (Quodl. 5. q. 8.) aliique.
+
+*Quarta* vero sententia reapse a sententia Scoti vix nisi in modo explicandi et probandi discedit, cum doceat, quamlibet creatam substantiam singularem per propriam essentiam habere potentiam per se et in se subsistendi, quin aliqua additione ad hoc indigeat, ast etiam quin excludatur possibilitas, quod a Deo ita uniatur alii substantiae, ut non subsistat nisi dependenter ab illa, cui communicatur. Hinc quaelibet substantia subsistentiam etiam actualem in se habet eo ipso, quod non uniatur alii substantiae subsistenti. Quodsi S. Thom. aliique antiqui dicunt, quod suppositum addat aliquid naturae, tunc hoc intelligendum esse volunt de natura, quatenus significat essentiam speciei. Ita non pauci nec spernendi recentiores, duce Claudio Tipliano S. I. (Declaratio ac defensio scholastica doctrinae Ss. Patrum Doctorisque angelici de hypostasi ac persona, Mussiponti 1634); qui etiam Ss. Thomam et Bonaventuram sibi suffragari volunt.
+
+**III.** S. Bonav. hic et alibi de ratione unionis hypostaticae nihil dicit, quod non optime conveniat cum doctrina S. Thomae. Praedicta autem quaestio philosophica, quid persona addat supra naturam singularem humanam (quae sane conneetitur cum profundissimis problematibus metaphysicis), a nostro Doctore explicite non tractatur. Hinc ei a diversis auctoribus diversae sententiae de hac re attribuuntur. P. Barthol. a Barberiis (Curs. theologic. l. 11. disp. 2. q. 1.) cum aliis eum exponit iuxta secundam opinionem, afferendo illos locos, qui aliquod positivum rationi personae attribuunt. P. Matthias Hauzeur (Collatio totius theol. t. II. col. 267 seqq.) non sine acumine Bonaventuram et Scotum sic exponit, ut non sibi contradicant, sed potius invicem suppleant. Similiter defensores quartae sententiae asserunt, ea quae in hac quaest. et alibi in hoc libro III. Sent. occurrunt, suam causam aperte sustinere. — Iudicium de his sapienti lectori remittentes, notamus tantum praecipuos locos et modos loquendi ad hanc rem spectantes, qui etiam in aliis huius libri quaestionibus inveniuntur. Hic in solut. ad 1. 2. 3. tria ad rationem personae requiruntur, scilicet *singularitas, incommunicabilitas, dignitas* (cfr. Alex. Hal., S. p. III. q. 4. m. 6, ubi eadem ponuntur), quin tamen ratio formalis personae indicetur, sicut nec infra d. 10. a. 1. q. 3, praesertim in fine, ubi de *individuo et supposito* agitur. Ibid. q. 2. ad 2. docetur, quod Christus ut homo est res completa omni completione absoluta, non autem respectiva, quae est dignitas superexcellentiae. Ibid. ad 3. dicitur, quod natura hypostatice unita digniori non potest habere suam propriam personalitatem, sed bene natura dignior unita minus dignae. Item ad 4. legitur, quod persona duo dicit, scilicet hypostasim, in qua est subsistentia totius esse rei, et proprietatem supereminentis dignitatis; insuper quod in hypostasi divina substantificatur totum esse Christi. Deinde ad 5. docetur, quod natura humana Christi, si separaretur, eo ipso alium modum existendi [scilicet substantialem] haberet et fieret persona. Ibid. q. 3. suppositum nominatur fundamentum totius existentiae naturalis, «in quo totum esse rei stabilitur et fundatur». Insuper cfr. ibi seqq. qq., et d. 6. a. 1. q. 1. praesertim ad 6. et q. 3, a. 2. q. 1. 2, d. 1. a. 1. q. 2, d. 2. a. 3. q. 4. in fine (de gratia unionis) et hic q. praeced. ad 2. 3. 4. In his aliisque locis passim occurrit phrasis, quod in hypostasi sive in supposito sive in persona totum esse rei substantificatur. Verbum *substantificari* sumtum est ex Latina versione Dionysii de Div. Nom. (c. 4. § 20.) ac Epist. 4. ad Caium, et exprimit Graecum verbum οὐσιοῦσθαι, ut iam notavimus tom. II. pag. 812, nota 6, et supra pag. 10, nota 4. S. Bonav. verbum substantificare intelligit de eo fundamento, quod hypostasis dat naturae. Eodem verbo utitur etiam S. Thom. (Quaest. disput. de Unione Verbi incarn. a. 4.), sed non in eodem sensu, cum dicat de persona Filii, quod «simpliciter substantificatur per naturam divinam». — Alii loci S. Bonav. ad hanc quaestionem spectantes videri possunt in citato scholio, I. Sent. d. 25. a. 1. q. 1, ubi etiam expressa auctoris verba afferuntur, quod privatio communitatis in persona magis sit positio quam privatio. Cfr. etiam II. Sent. d. 3. p. I. a. 1. q. 2. in corp., ubi auctor diversos gradus subsistentiae distinguit atque substantiis spiritualibus, ut formis subsistentibus, altiorem gradum in genere substantiae et subsistentiae vindicat. De personali discretione in Angelis agitur ibid. a. 2. q. 2. Quidquid autem sit de hac quaestione philosophica, quid ratio personae humanae addat humanae naturae; extra controversiam est, quod unio hypostatica in Christo fit per «additionem alicuius, quod est supra humanam naturam, quod est unio ad divinam personam» (S. Thom., S. III. q. 4. a. 2. ad 2.), quo humanae in Christo naturae confertur modus existendi et subsistendi prorsus unicus et dignitas infinita.
+
+**IV.** De ipsa quaestione: Alex. Hal., S. p. III. q. 4. m. 6. — Scot., in utroque Scripto hic q. 2. — S. Thom., hic q. 1. a. 3, q. 3. a. 3, S. III. q. 2. a. 2. q. 4. a. 2; S. c. Gent. IV. c. 34. 38; Quaest. disp. de Unione Verbi etc. a. 2. — B. Albert., hic a. 14. — Petr. a Tar., hic q. 4. a. 2. — Richard. a Med., hic a. 2. q. 2, a. 4. q. 2. — Aegid. R., hic q. 2. a. 3, q. 3. a. 2. — Durand., hic q. 2. — Dionys. Carth., hic q. 2. — Biel, hic q. unica.
+
+---
 
 ## English
 
-[Translation pending]
+### Question II. *Whether God assumed a human person.*
+
+Secondly it is asked whether God assumed a human person. And that he did, it seems.
+
+1. Boethius[^1], defining person, says that it is "an individual substance of a rational nature"; but Christ assumed an individual substance of a rational nature — as Damascene says: "For he assumed a nature in an atom [an individual]" — therefore he assumed a person.
+
+2. Likewise, it belongs to the dignity of a singular that that singular be a person, for "person" is a name of dignity[^2]; but the nature assumed in Christ is equally or more noble than it is in any other man: if therefore in others it does not lose the account of person, it seems that in Christ it has it most of all: therefore etc.
+
+3. Likewise, a rational soul united to flesh makes a person; but when God assumed human flesh[^3], he joined a rational soul to the flesh: therefore if he assumed a soul joined to flesh, it seems that he assumed a person.
+
+4. Likewise, a person begets nothing but a person; but the Son of God assumed what the Virgin bore: therefore if the Virgin was a person, it seems that God assumed a person from her.
+
+**On the contrary:** 1. Augustine, *On the Faith, to Peter*[^4]: "God assumed the nature of man, not the person." (*Fundamenta.*)
+
+2. Likewise, Boethius[^5] shows this same thing by such a reasoning: in Christ there is but one person: therefore if the Son of God assumed a person, he assumed the very same as himself; but this is false and unintelligible: therefore also that from which it follows, namely that a person was assumed by the Word. And he proves the first proposition thus, namely that Christ is one in person: everything that is, is for this reason, because it is one: if therefore Christ is, it is necessary that he be one; but he is not one in nature: therefore it is necessary that he be one in person.
+
+3. Likewise, this same thing is shown through *the account of the name.* For "person" signifies something complete and distinct with an ultimate completion; but what is assumed, by the very fact that it is assumed, is ordered to something more complete: therefore it seems that in itself it does not have the account of person[^6].
+
+4. Likewise, if he assumed, either he *consumed* or he *conserved.* It is established that he *did not consume,* because the divine nature took away nothing of nobility from the human. If he *conserved:* therefore, since the one assuming is not the thing assumed, it remains that in Christ there are two natures and two persons, namely human and divine: therefore neither is God man, nor is man God: therefore there is not there any union, and through this neither an assumption. If therefore there is there a true assumption, it is manifest that a person is not assumed[^7].
+
+### Conclusion.
+
+> It is altogether false that a divine person assumed a human person.
+
+**I respond:** It must be said that it is in every way false that a person assumed a person. (*Conclusion 1.*) — For this can be understood in three ways: either that the very thing assumed was a person before the assumption, or that it was a person in the assumption, or that it was a person after the assumption. (*Threefold sense.*)
+
+(*Conclusion 2.*) Taken in any of these three ways, the meaning of the aforesaid statement is false. — For the first is repugnant to *the truth of the conception,* the second to *the truth of the assumption,* and the third to *the truth of the union.*
+
+(*It is proved with respect to the three members.*) For the first, which posits this, that before the assumption there was a person, is repugnant to the truth of the conception. For if there was a person before he was God, the Virgin Mary did not conceive God, but a mere man; which is against the Gospel and the article of the conception[^1b]. — But the second mode, which posits that that man at the time of the assumption was a person, is repugnant to the truth of the assumption. For if in the assumption there was a person, and after the assumption he ceased to be a person; rather in the assumption itself the person was consumed than assumed; therefore that was not a true assumption, but rather a consumption. — But the third mode of understanding, that the person was, after the assumption, that which was assumed, is repugnant to the truth of the union. (*Notandum.*) For if the one assuming differs from the thing assumed; and that which is assumed is a person; and the one who assumed is likewise a person: therefore in Christ there are two persons; and there are two natures in the same, this is established: and through this there is no union there; and if this, there is no incarnation nor reparation of the human race; which is so absurd that it destroys the foundation of the whole Christian faith.
+
+But into this most evil error Nestorius fell, as Boethius says[^2b], because he did not know how to distinguish between person and nature. (*Nestorius. Eutyches.*) For because he saw that in Christ there is a twofold nature, he understood that there was a twofold person. But Eutyches erred from the same cause, yet not in the same way. For because he did not know how to discern between person and nature[^3b], and saw that in Christ there could be but one person, from this he was compelled to posit that in Christ there is but one nature. (*Arius and Sabellius.*) And therefore, just as there were two errors in things divine, namely those of Arius and of Sabellius, because they did not know how to distinguish between nature and person; so there were two errors concerning the incarnation of Christ, namely those of Eutyches and of Nestorius. — (*The middle way of the Church.*) But the Catholic Church passed through the midst of these errors, saying that in the deity there are several persons and one nature, and in Christ several natures and one person. And therefore it simply concedes that a person assumed a nature, and denies that a person assumed a person, as the Master says in the text[^4b]. — Hence the reasons adduced for that side are to be conceded.
+
+(*Solution of the opposing arguments.*) 1. To that which is objected to the contrary, that a person is an individual substance of a rational nature; it must be said that "individual" in the description of person carries a threefold distinction, namely of singularity, of incommunicability, and of supereminent dignity. (*Notandum.*) For "individual" is said to be that which is in itself undivided and distinct from others. I call distinction of singularity that something be not common to many, but be said of one alone; on account of which "Socrates" signifies an individual, but "man" does not signify an individual[^5b]. — I call distinction of incommunicability that something be not a part of something else or coming into the composition of a third; whence a foot or a hand of a man, properly speaking, is not called an individual. — By distinction of supereminent dignity I understand that which is taken from a more worthy property. For this name *person* is taken from the more worthy things; whence it is not found except in the individual of the most noble creature, namely the rational one, and by reason of its most noble property[^6b]. Since therefore the human nature, assumed by Christ, is ordered to a nobler property of the same person according to the other nature; hence it is that it does not hold there the property of personality. For it falls away from one property, which indeed is of supereminent dignity, from which property the person of the Word does not fall according to the divine nature. And so it is clear that the distinction[^7b] of person and that reasoning have no force, because the description of person, rightly understood, does not belong to the assumed humanity.
+
+2. To that which is objected secondly, the response is already clear from what has already been said, because the nature assumed in Christ is by that very fact more noble, because it is established in a more noble person, since it is not in a created person, but in an uncreated person. (*Notandum.*) Hence ordination to something more worthy, although it takes away the account of superposition[^8b], does not take away the property of dignity. For it is better to be under a superior than to be over some inferior: just as the soul is more perfect when it is possessed by God than when it possesses created things; and a noble virgin marries better when she contracts marriage with a king, to whom she is subject, than when she contracts with a peasant, over whom she presides. (*Example.*) Hence let it be granted that God assumed someone who is already a person, or a being in act; that one, when he would cease to be a person, would nevertheless lose nothing of dignity; for he would be a person[^9b] according to the assuming nature, although not according to the assumed nature.
+
+3. To that which is objected, that a rational soul united to flesh makes a person; it must be said that
+
+it is true when the soul and flesh are not joined to something more worthy; for then not only is the *nature* itself constituted from soul and flesh, but from the nature itself the *hypostasis and person.* (*Notandum.*) But it is not so in the present case; because the soul and flesh were united to each other in the Word himself, nor in any instant was that soul not united to the Word; and the hypostasis itself was eternal, in which the body and soul were brought together: and therefore they did not constitute a person, but only a nature. And therefore it does not follow that, if the Son of God assumed a soul united to flesh, he assumed a person; because it was not united to that flesh before[^1c] it was assumed, whatever may be the case concerning the order according to nature.
+
+4. To that which is objected, that the blessed Virgin bore a person; it must be said that it is true, because she bore the Son of God; but since a person is generated by reason of nature, and the nature in that person is twofold, namely created and uncreated; therefore by reason of the twofold nature a twofold generation belongs to him, namely temporal and eternal: temporal, in which he is made like to his Mother; eternal according to nature, in which he is made like to his Father[^2c]. Therefore that reasoning does not constrain. (*Notandum.*) For although generation belongs to a person, it belongs to him nevertheless by reason of nature; this is most true in created generation, in which there is not only a personal distinction, but a natural multiplication[^3c].
+
+### Scholion
+
+**I.** It is rightly said by St. Bonaventure that Nestorius, according to the third mode of understanding here related, taught his heresy. For whatever not a few have said to the contrary, it is established from the very words of Nestorius (in his 9th anathematism) that he in express words condemned the error which is recounted in the first place by our author. — By many ecclesiastical decrees the error of Nestorius has been condemned, one of which it is pleasing to transcribe, namely the 2nd anathematism of St. Cyril of Alexandria, approved by the Council of Ephesus (a.d. 431) with the other anathematisms: "If anyone does not confess that the Word of God the Father is united to flesh according to substance [thus the ancient Latin version renders the Greek words καθ' ὑπόστασιν], and that Christ is one with his own flesh, that is, the same one who is God and man, let him be anathema."
+
+**II.** It is established therefore by faith that the distinction between *person* and *nature,* both as regards the divine and as regards man, is altogether to be admitted, in order that the dogmas of the Trinity and of the incarnation be preserved; for, as is well observed here in the body of the question, when it was neglected, so many heresies, opposed to one another, sprang up, which troubled the Church through earlier ages. But that the account of *person,* although it is said by analogy of a divine person and a human one (cfr. I. Sent. d. 25. a. 2. q. 2.), nevertheless differs in many ways in either case, is well explored. What person is in things divine has been treated at length in I. Sent. d. 23. a. 1, d. 25. throughout, and d. 34. q. 1.2. But the question, what person or *suppositum, personality,* and *subsistence* is in creatures, and chiefly, what the account of suppositum or person superadds to a singular nature, gave occasion for the Catholic schools after Sts. Thomas and Bonaventure to teach diverse opinions and defend them with almost infinite and subtle disputations. The things which we noted briefly concerning these controversies in the first volume, d. 25. a. 1. q. 1, in the scholion, it is helpful to explain here a little more distinctly.
+
+I. Catholic authors agree, besides that they admit the common definitions of Boethius and Richard of St. Victor, chiefly in three things: a) The account of person, bearing a certain dignity before it, does not belong except to intellectual natures; but suppositum is said of any subsisting substance whatsoever, whence it stands to person as a higher concept to a lower. b) Person is so distinguished from a singular nature that the latter can be assumed without the former being assumed. Hence it is most commonly taught that personality or subsistence signifies something really distinct and separable from a singular nature, and at the same time the opinion of a few is reproved, namely of Durandus and of the Nominalists, who reduce that distinction to a diverse mode of conceiving. c) The account of person or of suppositum implies altogether a negation of communicability (or of dependence) with respect to another substance, in such a way that in it there is a termination or completion. Hence the same thing positively signifies a certain completion and term in the genus of substance.
+
+2. *They differ,* however, the opinions, in the solution of the questions, what properly is that by which a singular nature and a person are distinguished; what the latter superadds to the former; and especially, whether it adds something *positive,* and of what sort, or rather something *negative.* Setting aside some obsolete opinions, four celebrated views are in circulation, of which the first two agree in this, that that superadded thing is really something positive.
+
+The *first* view, with Cajetan and Philip of the Holy Trinity and others of the school of St. Thomas, affirms that the said superadded thing is something positive and an ultimate complement of the substance, distinct from the nature not only as a *mode from the thing modified,* but as a *thing from a thing.* Others nevertheless of the same school hold that the distinction is indeed real, but only modal.
+
+The *second* view, with Suárez, Lugo, and very many others, holds that that complement is something positive, but only a substantial mode of existing per se, virtually distinct from the thing modified and naturally resulting from the individual substance, which renders the substance itself incommunicable and independent. And it is called a substantial mode, that it may be distinguished from the accidental mode of existing in a subject, and the partial mode of existing in a whole.
+
+The *third* view, with Scotus and his school, teaches that subsistence or personality is indeed an ultimate actuality, constituting the substance in a being altogether incommunicable and not orderable to a further act, but adds to a singular nature nothing but a twofold negation of communication *as that by which,* both actual and aptitudinal; (cfr. Scotus, III. Sent. d. 1. q. 1. n. 5. seqq., d. 5. q. 2. n. 4. 5. (with the diffuse commentary of Pontius); Quodl. 19; I. Sent. d. 13. q. unica n. 9. 10, d. 23. q. unica n. 7, where he asserts that person implies not some dignity from its formal signification, but from a connoted intellectual nature. To this view are favorable also Henry of Ghent (Quodl. 5. q. 8.) and others.
+
+But the *fourth* view in fact departs from the view of Scotus scarcely except in the mode of explaining and proving, since it teaches that any created singular substance whatsoever has through its own essence the power of subsisting per se and in itself, without needing any addition to this, but also without excluding the possibility that it be so united by God to another substance that it subsist only dependently on that to which it is communicated. Hence any substance has subsistence, even actual, in itself by the very fact that it is not united to another subsisting substance. But if St. Thomas and the other ancients say that the suppositum adds something to the nature, then they wish this to be understood of nature insofar as it signifies the essence of the species. So not a few, and not to be despised, of the more recent authors, with Claude Tiphaine, S.J., as their leader (Declaration and Scholastic Defense of the Doctrine of the Holy Fathers and of the Angelic Doctor on Hypostasis and Person, Mussiponti 1634), who also wish Sts. Thomas and Bonaventure to support them.
+
+**III.** St. Bonaventure here and elsewhere says nothing concerning the account of the hypostatic union that does not most fittingly agree with the doctrine of St. Thomas. But the aforesaid philosophical question, what a person adds above a singular human nature (which is surely connected with the most profound metaphysical problems), is not explicitly treated by our Doctor. Hence diverse views about this matter are attributed to him by diverse authors. Fr. Bartholomew a Barberiis (Theological Course, l. 11. disp. 2. q. 1.) with others expounds him according to the second opinion, adducing those passages which attribute something positive to the account of person. Fr. Matthias Hauzeur (Collation of the Whole Theology, t. II. col. 267 seqq.) not without acumen so expounds Bonaventure and Scotus that they do not contradict one another, but rather mutually supplement one another. Likewise the defenders of the fourth view assert that those things which occur in this question and elsewhere in this book III of the Sentences openly support their cause. — Leaving the judgment about these things to the wise reader, we note only the chief passages and ways of speaking pertaining to this matter, which are found also in other questions of this book. Here in the solution to 1. 2. 3. three things are required for the account of person, namely *singularity, incommunicability, dignity* (cfr. Alex. Hal., S. p. III. q. 4. m. 6, where the same are posited), without however the formal account of person being indicated, just as neither below in d. 10. a. 1. q. 3, especially at the end, where *the individual and the suppositum* are treated. There q. 2. ad 2. it is taught that Christ as man is a thing complete with every absolute completion, but not with a respective one, which is the dignity of superexcellence. There ad 3. it is said that a nature hypostatically united to a more worthy one cannot have its own personality, but well a more worthy nature united to a less worthy one. Likewise ad 4. it is read that person signifies two things, namely the hypostasis, in which is the subsistence of the whole being of the thing, and the property of supereminent dignity; and moreover that in the divine hypostasis the whole being of Christ is substantified. Then ad 5. it is taught that the human nature of Christ, if it were separated, by that very fact would have another mode of existing [namely a substantial one] and would become a person. There q. 3. the suppositum is named the foundation of the whole natural existence, "in which the whole being of the thing is established and founded." And further cfr. there the following questions, and d. 6. a. 1. q. 1. especially ad 6. and q. 3, a. 2. q. 1. 2, d. 1. a. 1. q. 2, d. 2. a. 3. q. 4. at the end (on the grace of union) and here the preceding question ad 2. 3. 4. In these and other passages there occurs everywhere the phrase that in the hypostasis or in the suppositum or in the person the whole being of the thing is substantified. The word *substantificari* is taken from the Latin version of Dionysius On the Divine Names (c. 4. § 20.) and Epistle 4 to Caius, and it expresses the Greek word οὐσιοῦσθαι, as we have already noted in volume II, p. 812, note 6, and above p. 10, note 4. St. Bonaventure understands the word substantificare of that foundation which the hypostasis gives to the nature. The same word is used also by St. Thomas (Disputed Question on the Union of the Incarnate Word, a. 4.), but not in the same sense, since he says of the person of the Son that "it is simply substantified through the divine nature." — Other passages of St. Bonaventure pertaining to this question can be seen in the cited scholion, I. Sent. d. 25. a. 1. q. 1, where also the express words of the author are adduced, that the privation of commonness in a person is rather a position than a privation. Cfr. also II. Sent. d. 3. p. I. a. 1. q. 2. in the body, where the author distinguishes diverse grades of subsistence and to spiritual substances, as to subsisting forms, vindicates a higher grade in the genus of substance and of subsistence. Concerning personal discreteness in the Angels it is treated ibid. a. 2. q. 2. But whatever may be the case concerning this philosophical question, what the account of a human person adds to a human nature; it is beyond controversy that the hypostatic union in Christ comes about through "the addition of something which is above the human nature, which is union to a divine person" (S. Thom., S. III. q. 4. a. 2. ad 2.), by which to the human nature in Christ is conferred a mode of existing and subsisting altogether unique and an infinite dignity.
+
+**IV.** On the question itself: Alex. of Hales, S. p. III. q. 4. m. 6. — Scotus, in each Writing here q. 2. — St. Thomas, here q. 1. a. 3, q. 3. a. 3, S. III. q. 2. a. 2. q. 4. a. 2; S. against the Gentiles IV. c. 34. 38; Disputed Question on the Union of the Word etc. a. 2. — Bl. Albert, here a. 14. — Peter of Tarantasia, here q. 4. a. 2. — Richard of Middleton, here a. 2. q. 2, a. 4. q. 2. — Giles of Rome, here q. 2. a. 3, q. 3. a. 2. — Durandus, here q. 2. — Dionysius the Carthusian, here q. 2. — Biel, here q. unica.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page sequences here are p. 132 (notes 1–7), p. 133 (suffixed 1b–9b), and p. 134 (suffixed 1c–3c). The scholion carries no footnote markers.
+
+[^1]: **La.** In libro de Una Persona et duabus naturis, c. 3. — Dictum Damasceni habetur III. de Fide orthod. c. 11. Cfr. q. praeced. et supra pag. 15, nota 4. — Pro *sed Christus* cod. K *sed Deus.*
+    **En.** In the book *On the One Person and the Two Natures,* c. 3. — The saying of Damascene is found in III. *On the Orthodox Faith,* c. 11. Cfr. the preceding question and above p. 15, note 4. — For *but Christ* codex K reads *but God.*
+
+[^2]: **La.** Cfr. I. Sent. d. 23. a. 1. q. 2. et d. 25. a. 1. q. 2.
+    **En.** Cfr. I. Sent. d. 23. a. 1. q. 2. and d. 25. a. 1. q. 2.
+
+[^3]: **La.** Codd. K Z bb *naturam.*
+    **En.** Codices K Z bb read *nature.*
+
+[^4]: **La.** Cap. 17. n. 60. Cfr. hic tit. Magistri, c. 1.
+    **En.** Ch. 17, n. 60. Cfr. here the text of the Master, c. 1.
+
+[^5]: **La.** In libro de Una Persona et duabus naturis, c. 4. — Versus finem arg. post *quia unum* Vat. adiicit *numero.*
+    **En.** In the book *On the One Person and the Two Natures,* c. 4. — Toward the end of the argument, after *because it is one,* the Vatican edition adds *in number.*
+
+[^6]: **La.** Hoc arg. etiam a Boeth. insinuatur loc. cit., ubi de Nestorio animadvertit, ipsum, qui in errorem inciderit, cum «putaverit, in omnibus naturis posse dici personam», vera definitione personae convinci.
+    **En.** This argument too is intimated by Boethius at the cited place, where he remarks concerning Nestorius that he, who fell into error, since he "supposed that in all natures a person can be spoken of," is convicted by the true definition of person.
+
+[^7]: **La.** Boeth. loc. cit. ait: *Iam vero sequitur, ut, personis manentibus, nullo modo a divinitate humanitas credatur assumta; omnino enim disiuncta sunt quae aeque personis naturisque separantur; prorsus, inquam, disiuncta sunt; nec magis inter se homines bovesque disiuncti sunt, quam divinitas in Christo humanitasque discreta est, si mansere personae. Homines quippe ac boves una animalis communitate iunguntur... Deo vero atque homini quid non erit diversa ratione disiunctum, si sub diversitate naturae personarum quoque credatur mansisse discretio? Non est igitur salvatum genus humanum, nulla in nos salus Christi generatione processit etc.* — In primo arg. membro verbum *consumere,* ut infra ex corp. quaest. apparet, proprie sumitur et significat destructionem eius quod prius erat; quo sensu acceptum supponeret, personam humanam reapse ante unionem exstitisse. Respicitur hic arg., ab aliis Scholasticis (cfr. S. Thom., S. III. q. 4. a. 2. arg. 3.) ex quadam Decretali Innocentii III. sumtum, ubi dicitur, quod persona Dei consumsit personam hominis. Guliel. Antissiodorensis autem Concilio Nicaeno (potius Francofordiensi) attribuit hoc effatum: *In incarnatione Filii persona consumsit personam, non natura naturam.* Communiter respondent Scholastici, quod ibi *consumere* accipitur improprie pro *impedire,* ne humana natura propriam personalitatem habeat.
+    **En.** Boethius at the cited place says: *But now it follows that, the persons remaining, the humanity is in no way to be believed assumed by the divinity; for those things are altogether disjoined which are equally separated as to persons and natures; utterly, I say, are they disjoined; nor are men and oxen more disjoined among themselves than the divinity in Christ and the humanity are kept apart, if the persons remained. For men and oxen are indeed joined by one community of animal... but what will not be disjoined by a diverse account between God and man, if under a diversity of nature a discreteness of persons too is believed to have remained? Therefore the human race is not saved, no salvation has come to us by the generation of Christ, etc.* — In the first member of the argument the word *to consume,* as appears below from the body of the question, is taken properly and signifies the destruction of that which was before; taken in which sense it would suppose that the human person really existed before the union. There is regarded here an argument, taken by other Scholastics (cfr. St. Thomas, S. III. q. 4. a. 2. arg. 3.) from a certain Decretal of Innocent III, where it is said that the person of God consumed the person of the man. But William of Auxerre attributes to the Council of Nicaea (rather of Frankfurt) this dictum: *In the incarnation of the Son a person consumed a person, not a nature a nature.* The Scholastics commonly respond that there *to consume* is taken improperly for *to impede,* lest the human nature have its own personality.
+
+[^1b]: **La.** Vide supra a. 1. a. 3. q. 3.
+    **En.** See above a. 1, a. 3, q. 3.
+
+[^2b]: **La.** Loc. paulo superius cit. c. 4. 5. et 7, ubi, errore Nestorii comparato cum errore Eutychetis, catholicam doctrinam inter duos istos errores media via incedere praedicat. — Pro *Nestorius* codd. et edd. 1, 2 perperam exhibent *Eutyches,* et dein pro *Eutyches* pariter erronee *Nestorius.*
+    **En.** At the place cited a little above, c. 4, 5, and 7, where, the error of Nestorius being compared with the error of Eutyches, he proclaims that Catholic doctrine advances by a middle way between those two errors. — For *Nestorius* the codices and editions 1, 2 wrongly exhibit *Eutyches,* and then for *Eutyches* likewise erroneously *Nestorius.*
+
+[^3b]: **La.** Cod. bb *esset.* Superius cod. A *distinguere* pro *discernere.*
+    **En.** Codex bb reads *would be.* Above, codex A reads *to distinguish* for *to discern.*
+
+[^4b]: **La.** Hic c. 1. et 3.
+    **En.** Here c. 1 and 3.
+
+[^5b]: **La.** Aristot., I. Periherm. c. 5. (c. 7.): *Dico autem universale quod de pluribus praedicari natum est; singulare vero quod non* etc.
+    **En.** Aristotle, *On Interpretation* I, c. 5 (c. 7): *But I call universal that which is born to be predicated of many; the singular, however, that which is not* etc.
+
+[^6b]: **La.** Codd. K aa bb addunt *sortitur aliquis nomen personae.* Paulo superius pro *a dignioribus* codd. H P Z bb *a dignitatibus.*
+    **En.** Codices K aa bb add *someone obtains the name of person.* A little above, for *from the more worthy things* codices H P Z bb read *from dignities.*
+
+[^7b]: **La.** Vat. *definitio.* Cfr. quaest. seq. arg. 2. ad oppos.
+    **En.** The Vatican edition reads *definition.* Cfr. the following question, arg. 2, ad oppos.
+
+[^8b]: **La.** Vat. et ed. 1 *suppositionis,* et dein *unum non* etc. Mox pro *subesse,* quae lectio habetur etiam in codd. A K U Z bb, alii codd. et edd. 1, 2 falso *subesse,* Vat. *praeesse.*
+    **En.** The Vatican edition and edition 1 read *of supposition,* and then *not one* etc. Soon, for *to be under,* which reading is found also in codices A K U Z bb, the other codices and editions 1, 2 falsely read *to be under,* the Vatican edition *to be over.*
+
+[^9b]: **La.** Multi codd. hic subiiciunt *vel.* Paulo superius pro *qui iam est* Vat. *qui iam esset,* et deinde pro *ens actu* codd. H K X bb *ens in actu.* Proxime post pro *ille, cum* non pauci codd. *ille tamen.*
+    **En.** Many codices here subjoin *or.* A little above, for *who already is* the Vatican edition reads *who already would be,* and then for *a being in act* codices H K X bb read *a being in act* [*ens in actu*]. Immediately after, for *that one, when* not a few codices read *that one, however.*
+
+[^1c]: **La.** Supple cum codd. K bb et Vat. *tempore.* Cfr. supra d. 3. p. II. a. 3. q. 2. — Aliquanto superius pro *in qua* fere omnes codd. et edd. 1, 2 *in quo,* et subinde pro *couniebantur* Vat. *coaequabantur,* edd. 1, 2 *uniebatur,* codd. PQ *coniungebatur,* codd. H U *continebatur.*
+    **En.** Supply with codices K bb and the Vatican edition *in time.* Cfr. above d. 3. p. II. a. 3. q. 2. — Somewhat above, for *in which* (fem.) nearly all codices and editions 1, 2 read *in which* (neut.), and thereupon for *were brought together* the Vatican edition reads *were made equal,* editions 1, 2 *was united,* codices PQ *was joined,* codices H U *was contained.*
+
+[^2c]: **La.** De duplici generatione videsis infra tit. Magistri, d. VIII. c. 2, et Comment. a. 2. q. 1.
+    **En.** On the twofold generation see below the text of the Master, d. VIII, c. 2, and the Commentary, a. 2. q. 1.
+
+[^3c]: **La.** Cfr. I. Sent. d. 9. q. 1. — Paulo superius post *Quamvis* permulti codd. et edd. 1, 2 omittunt *enim.*
+    **En.** Cfr. I. Sent. d. 9. q. 1. — A little above, after *although,* very many codices and editions 1, 2 omit *for.*
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from 450 dpi PDF column bands (`/tmp/colcrop/vol3-p13{2,3,4,5}-{L,R}-*.png`), reading each page Left column top→bottom then Right column. Raw OCR lines 9659–9916 (`raw/bonaventure_vol3_raw.txt`) used as base for clean running prose and footnote-marker spacing; the Respondeo, Solutio oppositorum, scholion, and footer blocks were PDF-priority (cascade-shattered in OCR, e.g. the diagonal-fragmented "1. Ad illud quod obiicitur" reply opener). Offset pdf = printed + 22 (printed pp. 132–135 = PDF 154–157). Running heads: `DIST. V. ART. II. QUAEST. II.` (pp. 133–134) and `DIST. V. ART. II. QUAEST. III.` (p. 135, where q2's scholion still runs).
+
+**Alignment verified.** Raw 9659–9663 reads QUAESTIO II / *Utrum Deus assumserit humanam personam* / *Secundo quaeritur, utrum Deus assumserit humanam personam. Et quod sic, videtur.* Matches the target (whether God assumed a human *person*); not q1 (naturam humanam), q3 (personalitas in anima separata), q4 (Deus assumserit hominem), q5 (assumserit humanitatem).
+
+**Page-split map.**
+- **p. 132** (PDF 154): top-L holds the tail of q1's scholion (*Natura enim respicit rem in fieri…* through *Aegidius Romanus, here q.1 a.1* on R-top) — NOT part of this chunk. QUAESTIO II title + opener + pro args 1–4 + *Sed contra* 1–3 + contra arg 4 (*si assumsit, aut consumsit, aut conservavit*) + CONCLUSIO heading + start of Respondeo (triplex sensus). Footer sequence = notes **1–7** (this chunk's `[^1]`–`[^7]`; note 7 is the long Boethius/*consumere* note spanning both columns' footers).
+- **p. 133** (PDF 155): Respondeo continues (three modes refuted; Nestorius/Eutyches/Arius/Sabellius; Catholic *media via*); *Solutio oppositorum* replies ad 1 and ad 2. Footer sequence = notes **1–9**, suffixed `[^1b]`–`[^9b]` (1–5 in L footer, 6–9 in R footer).
+- **p. 134** (PDF 156): replies ad 3 and ad 4; SCHOLION begins (I, II, and the start of the four-*sententiae* section). Footer sequence = notes **1–3**, suffixed `[^1c]`–`[^3c]` (note 1 in L footer, notes 2–3 in R footer).
+- **p. 135** (PDF 157): SCHOLION continues (tail of the *Quarta sententia*; III; IV citation list), ending at "Biel, here q. unica." just before QUAESTIO III. p.135's footer block belongs to **q3** (body markers *pertinente²*, *ethius³* are q3's), NOT to this chunk.
+
+**Footer hand-off picked up from d5-a2-q1:** NONE migrated as forwarded; but per q1's hand-off, q2 OWNS the entire p.132 footer sequence from note 1 (`In libro de Una Persona…` keying Boethius¹) — q1's scholion sits on p.132 but carries no footnote markers.
+
+**Footer hand-off forwarded to d5-a2-q3:** NONE. q2's scholion ends mid-p.135-L before QUAESTIO III and carries no markers; the entire p.135 footer sequence belongs to q3's body. q3 picks up p.135 footers from note 1.
+
+**Scholion disposition.** `has_scholion: true`. A standalone SCHOLION (parts **I, II, III, IV**) prints at q2's tail, spanning p.134-L bottom → p.135-R, ending with the citation list "Biel, here q. unica." The scholion text carries **no footnote markers** (consistent with the Vol III pattern). Part I confirms Nestorius taught the third mode + transcribes Cyril's 2nd anathematism (Greek καθ' ὑπόστασιν preserved); Part II reviews person/nature distinction and the question of what *suppositum/personalitas/subsistentia* superadds (the four *sententiae*: Cajetan/Philip; Suárez/Lugo; Scotus/Henry of Ghent; the fourth quasi-Scotist with Tiphaine); Part III collates Bonaventure's loci (incl. the *substantificari* phrase from Dionysius, Greek οὐσιοῦσθαι); Part IV is the cross-author citation list. This is the scholion that q1's note `[^4b]` (*vide scholion ad sequentem quaest.*) cross-referenced for the hypostasis-vs-natura difference.
+
+**Marginal labels** rendered inline in parens, not anchored: *Fundamenta*, *Conclusio 1*, *Triplex sensus*, *Conclusio 2*, *Probatur quoad 3 membra*, *Notandum* (×4), *Nestorio/Eutyche*, *Ario et Sabellio*, *Media via Ecclesiae*, *Solutio oppositorum*, *Exemplum*.
+
+**[?] flags:** none.
