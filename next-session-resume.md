@@ -1,6 +1,26 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d4-a3-q3 DONE, commit a76129d — ARTICULUS III, QUAESTIO III *Utrum beata Virgo sit Dei genitrix appellanda*; **FILE CREATED FROM SCRATCH** to fill auto-chunker gap; printed pp.115–116 (PDF 137–138; raw 8494–8587); **has_apparatus: true (14 entries: p.115 n.4–12 → [^1]–[^9]; p.116 n.1–5 → [^10]–[^14]) / has_scholion: true** (article-closing SCHOLION §I–II, raw 8578–8587, OCR header `SGHOLIOK`); alignment PASS (*Dei genitrix appellanda*); build 1273 q / 926 translated; no [?] flags; **d.4 ART. III is now COMPLETE. NEXT = bon-sent-III-d4-dubia, raw 8588, printed p.116+ — SCAFFOLD EXISTS**)
+**Last updated:** 2026-06-02 (Vol III **d4-dubia DONE, commit 6d0c7ea** — *Dubia circa litteram Magistri* (Dist. IV); printed pp.116–118 (PDF 138–140; raw 8588–8726); **6 dubia (Dub. I–VI)** verified against PDF column bands; **has_apparatus: true (19 entries: p.116 n.6–8 → [^1]–[^3]; p.117 n.1–11 → [^4]–[^14]; p.118 n.1–5 → [^15]–[^19]) / has_scholion: false** (dubia carry none); footer hand-off from a3-q3 received (leads p.116 note 6 / *persona⁶*); **boundary locked at DISTINCTIO V raw 8727 — no footer leaks into d.5**; build 1273 q / 927 translated; no [?] flags; **DISTINCTIO IV is now COMPLETE. NEXT = bon-sent-III-d5-littera, DISTINCTIO V raw 8727, printed p.117+**)
+
+## ✅ VOL III d4-dubia DONE 2026-06-02 (commit 6d0c7ea) — DISTINCTIO IV COMPLETE
+
+`DUBIA CIRCA LITTERAM MAGISTRI.` (Dist. IV) — **6 dubia (Dub. I–VI)** verified against the 450 dpi PDF column bands. Latin re-set from PDF bands pp.116–118 (raw 8588–8726), read L-col top→bottom then R-col (column interleave: p.117 reads L-col [Dub. II, III] then R-col [tail of Dub. III, Dub. IV, Dub. V opener]). Fresh literal English, **19-entry apparatus**, **`has_scholion: false`** (dubia carry none). Marginal labels inline in parens, not anchors. Build **1273 q / 927 translated** (+1). **No [?] flags.**
+
+**Dubia count VERIFIED 6:** Dub. I raw 8590; Dub. II raw 8621; Dub. III raw 8660; Dub. IV raw 8628 (R-col band); Dub. V raw 8664; Dub. VI raw 8720.
+
+**FOOTER HAND-OFF PICKED UP (from a3-q3):** led with p.116 footer note 6 (`Quod ex eo elucet…`, Dub. I *persona⁶*) → `[^1]`; notes 7–8 → `[^2]`–`[^3]`. **No footer forwarded** — Dub. VI's last note (`extendendae⁵`, p.118 note 5) is the final dubia footer; the `NOTAE AD LIBR. SENTENTIARUM` block on p.118 R-col belongs to DISTINCTIO V (NOT pulled in).
+
+**BOUNDARY LOCK:** dubia ends at `…non sunt extendendae⁵` (Dub. VI reply, R-col p.118); `DISTINCTIO V. Cap. I.` opens immediately after at **raw 8727**. Confirmed NO footer leaks into d.5.
+
+## NEXT ACTION → `bon-sent-III-d5-littera` (DISTINCTIO V) — RE-CHUNK FROM RAW FIRST
+
+**DISTINCTIO IV is COMPLETE** (littera + divisio + a.1 q.1–q.4 + a.2 + a.3 q.1–q.3 + dubia, all Tier-2).
+
+**DISTINCTIO V begins at raw 8727, printed p.117** (PDF 139+; offset pdf = printed + 22). DIST. V Cap. I opener (raw 8729+): `Si persona vel natura personam [vel naturam] assumserit, et si natura Dei incarnata sit.` Per the prior scaffold scan **d.5 has 5+5 quaestiones across 2 articles** — **re-verify d.5 structure from raw before translating** (per CLAUDE.md "Re-chunking before translating": the auto-chunker splits by line count, not semantic boundary). Begin with the **littera Magistri** chunk for d.5 (Lombard's text, printed at the top of the distinction's opening pages), then divisio, then articles. **No footer leaks into d.5** from d.4 — d.5 footer pickup starts fresh at the p.118 R-col `NOTAE AD LIBR. SENTENTIARUM` block (notes 1–4) and the p.119 sequence.
+
+---
+
+## ✅ VOL III d4-a3-q3 DONE 2026-06-02 (commit a76129d — ARTICULUS III, QUAESTIO III *Utrum beata Virgo sit Dei genitrix appellanda*; **FILE CREATED FROM SCRATCH** to fill auto-chunker gap; printed pp.115–116 (PDF 137–138; raw 8494–8587); **has_apparatus: true (14 entries: p.115 n.4–12 → [^1]–[^9]; p.116 n.1–5 → [^10]–[^14]) / has_scholion: true** (article-closing SCHOLION §I–II, raw 8578–8587, OCR header `SGHOLIOK`); alignment PASS (*Dei genitrix appellanda*); build 1273 q / 926 translated; no [?] flags; **d.4 ART. III is now COMPLETE. NEXT = bon-sent-III-d4-dubia, raw 8588, printed p.116+ — SCAFFOLD EXISTS**)
 
 ## ✅ VOL III d4-a3-q3 DONE 2026-06-02 (commit a76129d) — ARTICULUS III, QUAESTIO III — NEW FILE
 
