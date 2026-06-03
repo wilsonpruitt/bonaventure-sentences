@@ -1,6 +1,26 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d4-a3-q2 DONE, commit 9d2af6e — ARTICULUS III, QUAESTIO II *Utrum cooperatio illa beatae Virginis fuerit naturalis, an miraculosa*; printed pp.113–115 (PDF 135–137; raw 8388–8493); **has_apparatus: true (16 entries: p.113 n.2–5 → [^1]–[^4]; p.114 n.1–9 → [^5]–[^13]; p.115 n.1–3 → [^14]–[^16]) / has_scholion: false** (q1 §III forward-covers; [^16] = *Vide scholion ad praecedentem quaest.*); alignment PASS; build 1272 q / 925 translated; no [?] flags; **NEXT = bon-sent-III-d4-a3-q3, raw 8494+, printed p.115 R-col+ — FILE MUST BE CREATED FROM SCRATCH**)
+**Last updated:** 2026-06-02 (Vol III d4-a3-q3 DONE, commit a76129d — ARTICULUS III, QUAESTIO III *Utrum beata Virgo sit Dei genitrix appellanda*; **FILE CREATED FROM SCRATCH** to fill auto-chunker gap; printed pp.115–116 (PDF 137–138; raw 8494–8587); **has_apparatus: true (14 entries: p.115 n.4–12 → [^1]–[^9]; p.116 n.1–5 → [^10]–[^14]) / has_scholion: true** (article-closing SCHOLION §I–II, raw 8578–8587, OCR header `SGHOLIOK`); alignment PASS (*Dei genitrix appellanda*); build 1273 q / 926 translated; no [?] flags; **d.4 ART. III is now COMPLETE. NEXT = bon-sent-III-d4-dubia, raw 8588, printed p.116+ — SCAFFOLD EXISTS**)
+
+## ✅ VOL III d4-a3-q3 DONE 2026-06-02 (commit a76129d) — ARTICULUS III, QUAESTIO III — NEW FILE
+
+`QUAESTIO III.` *Utrum beata Virgo sit Dei genitrix appellanda.* **Created from scratch** (auto-chunker stopped at q2). Latin re-set from 450 dpi column bands pp.115–116 (raw 8494–8587), fresh literal English, **14-entry apparatus**, **`has_scholion: true`** (article-closing SCHOLION §I–II on Nestorius/Cyril's 12 anathematisms/Ephesus 431 + parallel-loci). q3 opens at foot of p.115 L-col (after q2's *Duplex hic miraculum* tail), title + opener + args 1–4 (*Fundamenta*) + Sed contra 1–2 (*Ad oppositum*); Sed contra 3–4 + CONCLUSIO + start of Respondeo (*Notabile principium*) on p.115 R-col; continues p.116 (Respondeo *Conclusio*/*Probatur ex Damasceno*, replies *Ad 1–4* *Solutio oppositorum*, then SCHOLION). Running heads: p.115 `DIST. IV. ART. III. QUAEST. III.`; p.116 `116 SENTENTIARUM LIB. III.`. Marker pairing 14 La = 14 En = 14 defs. Build **1273 q / 926 translated** (+1). **No [?] flags.**
+
+**Alignment PASS:** opener `Tertio quaeritur, utrum Virgo Maria sit Dei genitrix appellanda. Et quod sic, ostenditur.` (raw 8499). q3 (*Dei genitrix*), NOT q1 (*cooperata*) and NOT q2 (*naturalis/miraculosa*).
+
+**FOOTER HAND-OFF PICKED UP (from a3-q2):** q2 took p.115 footer notes 1–3 ([^14]–[^16]). q3 led with **p.115 note 4** (`De Fide orthod.`, arg 1 *duodecimo⁴*) → `[^1]`, through p.115 note 12 (*Ita in I. antiph…*, Respondeo *mundo¹²*) → `[^9]`.
+
+**FOOTER HAND-OFF FORWARDED to d4-dubia:** clean q3→dubia boundary inside **p.116**. q3 took p.116 footer notes 1–5 ([^10]–[^14]). **p.116 footer note 6 ff. (beginning `Quod ex eo elucet…`) belong to d4-dubia** (keying DUBIA body anchors *persona⁶*, *persona⁷*, *personis⁸*). d4-dubia begins its footer pickup at **p.116 note 6**.
+
+## NEXT ACTION → `bon-sent-III-d4-dubia` (DUBIA CIRCA LITTERAM MAGISTRI) — SCAFFOLD EXISTS
+
+**Scaffold file `vol3/bon-sent-III-d4-dubia.md` is on disk** (re-chunk/verify boundaries before promoting per CLAUDE.md). This is the **last chunk of d.4**; after it, d.4 closes and DISTINCTIO V begins.
+
+**Raw 8588 → DISTINCTIO V at raw 8727 (= end of d.4); printed p.116+ (PDF 138+).** `DUBIA CIRCA LITTERAM MAGISTRI.` opener at raw 8588: `In parte ista sunt quaestiones circa litteram, et primo quaeritur de hoc quod dicitur: Uno nominato, tres intelliguntur; quia, nominata essentia, non de necessitate intelligitur persona⁶…`. **SIX dubia (Dub. I–VI)**: Dub. I raw 8590 (*Uno nominato, tres intelliguntur*); Dub. II raw 8621; Dub. III raw 8660; Dub. IV raw 8628 (Dub. IV header prints in the R-col band, OCR-interleaved with Dub. II/III — verify ordering from p.117–118 column bands); Dub. V raw 8664; Dub. VI raw 8720. Confirm the exact per-dubium page spans from the 450 dpi column bands (pp.116–118+).
+
+**FOOTER HAND-OFF PICKED UP (from a3-q3):** d4-dubia LEADS with **p.116 footer note 6** (`Quod ex eo elucet, quod multi, qui Deum confitentur, nesciunt, immo negant Trinitatem.`, keying Dub. I *persona⁶*); p.116 notes 7 (*Edd. Pater* → *persona⁷*) and 8 (*Cfr. I. Sent. d. 3…* → *personis⁸*) follow, then the p.117+ footer sequences for the remaining dubia.
+
+**After d4-dubia: d.4 is COMPLETE.** Next is d.5 littera (DISTINCTIO V at raw 8727, printed p.117+). Re-chunk d.5 from raw before translating (verify semantic boundaries per CLAUDE.md "Re-chunking before translating").
 
 ## ✅ VOL III d4-a3-q2 DONE 2026-06-02 (commit 9d2af6e) — ARTICULUS III, QUAESTIO II
 
