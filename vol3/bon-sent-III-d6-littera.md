@@ -4,256 +4,236 @@ volume: 3
 book: 3
 distinctio: 6
 type: littera
+title_la: "Distinctio VI — textus Magistri Sententiarum"
+title_en: "Distinction VI — text of the Master of the Sentences"
+printed_pages: [143, 144, 145, 146]
+pdf_pages: [165, 166, 167, 168]
+source: "Petri Lombardi Sententiarum Libri IV, Liber III, Dist. VI (as printed in S. Bonaventurae, Opera Omnia, Tomus III, Quaracchi 1887, pp. 143–146)"
 line_start: 10440
 line_end: 10670
-word_count_latin: 3494
-transcription_status: "auto-chunked 2026-06-02"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 10440–10670) cross-checked against 450 dpi PDF column bands (pp.143–146 L→R), fresh literal English translation, full apparatus from raw OCR + PDF footer bands (31 entries: p.143 NOTAE AD LIBR. SENTENTIARUM 1–3, p.144 1–11, p.145 1–10, p.146 1–7); marginal labels rendered inline in parentheses (2026-06-03)"
 format_version: 1
 ---
 
-# bon-sent-III-d6-littera
+# III Sent., d. 6 — Littera Magistri
+## *Distinctio VI — text of the Master of the Sentences*
+
+---
 
 ## Latin
 
-DISTINCTIO VI.
-                                     Cap. I.                                slituilur; et ille homo coepit esse Deus , non quidem
-                                                                            nalura Dei , sed persona Verbi ; et Deus coepit esse
-        I)e intelligenlia harurn loculionum : Deus esl homo ,               homo ille. Concedunt etiam, honiinem illuin assumlum
-             Deus faclus est homo, tres senlentias ponil.                   a Verbo et unitiim Verbo, et lanien esse Verbum ; et
-                                                                            ea ralione (radnnl diclum esse, Deum facluni bomi-
-                 Ex praemissis autem emergit quaestio plurinium             nem, vel esse hominem, quia Deus factus est, id est,
-           conlinens utilitatis, sed nimiiim difTicultatis alqne per-       coepit esse quaedam subslantia ex anima ralionali et
-           plexilalis. Cum enim conslct ex praedictis et aliis plu-         hiiinana carne subsistens; et illa substantia facta est,
-           ribus testimoniis, omnesque catholici unanimiter fale-           id est, coepit esse Deus. Non tamen demigralione na-
-           antnr, Deum esse factum hominem, et Chrislum verum               lurae in naturam , sed ulriusque natnrae servala pro-
-           Deum esse et verum hominem; quaeritur, an his lo-                prietate, factum est, ut Deus esset illa sulislantia , et
-Locoiiones cutionibus: Deus factus esl homo, Filius Dei factus est          illa substaniia esset Dens. Unde vere dicilur: Deus fa-
-           filius hominis; Deus esl homo, et honio est Deus,di              clus est homo , et homo factus est Deus ; et Deus est
-           catur Deus factus esse aliquid, vel esse aliquid , vcl           hoino, et homo Deus ; el Filius Dei filius hominis, et
-           aliquid dicalur esse Deus ; et an ila eonveniat dici :           e converso. Ciimque dicant, illum hominem ex anima
-           homo factus est Deus, et filius hominis factus esl Fi-           ralionali et humana carne subsistere, non tamen fa-
-           lius Dei , sicut e converso dieilur; et si ex ' his lo-          tenlur, ex duabus naturis esse composilum , divina
-           cutionibus non dicilur: Deus faclus esse aliquid, vel            scilicet et hiimana ; nec illius parles esse duas nalu-
-           esse aliquid, quae sit intelligentia hariim loculionum et        ras , sed animam tanltim et carnem.
-           similium. — In huiiis prolundilalis reseralione et scru-               El ne de suo sensu tantum loqui piitentur, hanc confiraator.
-           pulosae quaestionis exposilione plurimiini dilferre in-          senlentiani plurihus inuniiint testimoniis. Ait enim Au- Aogosiious.
-           veiiiuntnr sapienles.                                            guslinus in libro de Trinilate2: « Cum legitur: Ver-
-                                                                            bum caro faclum est, in Verbo intelligo verum Dei
-                                    Cap. II.                                Filiiim, in carne agnosco verum bominis filiiun , et
-                                                                            ulrumque simul unam personam, Deum et hominem
-        Prima est eorum qui dicunt, in incarnalione hominem                 ineffabilis graliae largitate coniuncltim ». Idem in En-
-            quendam ex anima el carne conslilutum , et itlum                cbiridio3: « Chrislus Iesus Deus de Deo est, bomo
-            hominem faclum esse Deum , el Deum illum homi-                  aulem natus est de Spiritu sanclo ex Maria Virgine.
-            nem; et auctoritales, quibus ita esse asserunl, ponil.          Utraque subslanlia, divina scilicet et humana, Filitts
-                                                                            est unicus Dei Patris omnipolenlis, de quo procedit
-               Alii eniin dicunt, in ipsa Verbi incarnatione ho-            Spirilus sanclus », « ulrtiinqtie untis, sed aliud propter
-Opioio i. mineni quendain ex anima rationali et hiimana carne               Verbum, et aliud propter hominem , non duo lilii ,
-          constilutum, ex quibus duobus omnis verus hoino con-              Deus ct homo, sed uniis Dei Filius , Deus sine initio,
+<!-- page 143 -->
 
+### DISTINCTIO VI.
 
-             1 Mic c. I. in fine, ubi dicilur: l!ni[nm osse humnnne nnfu-        4 Vide rie hoc dub S. Thoni. , hic eirca lil., et /Egid. R.,
-        rae, et non partem partl etc. — Paulo superius cod. Z verbo         hic dub. i. lif.
-                                                                                         NOTAE AD LIBR. SENTENTIARTTM.
-        complelionem pracmiilit veram. — Cfr. de lioc dub.~ B. Alberl.,
-        hic a. 13; S. Thom., bie oirca lil. ; .Egid. R.. hic dub. 3. lil.         1 Cod. I) /n , codd. A C et ed. 6 omittunt praepositionem.
-             * Edri. de quo.                                                      5 l.ibr. XIII. c. 19. n. 24. Hcspicilur Ioan. 1, U. — Pro
-             3 Dist. 5. a. I. q. I , nbi etiam specios praedicalionis cx-   ineffnliilis cod. A cl ed. 8 inefftiliili.
-        ponuntur. — Pro Filias Dei geiiertilur mulli eodd. et erid. 1,            3 Cap. 38. n. 12; seoj. locus ibid. c. 35. n. 10; tertius c. 36.
-        2 vitiose Filius Dei generat , et pro ilkinitns esl generrittn      n. 11. — In lerlio loeo pro et lioc nnicus , quod codd. A II C t),
-        cod. K ileitas est generatn.                                        ed. 6 el originale habenl, alii codd. et edd. et hic unicus.
-      144                                                  SENTENTIARUM         LIB. 111.
+### Cap. I. *De intelligentia harum locutionum: Deus est homo[^1], Deus factus est homo, tres sententias ponit.*
 
-      homo a cerlo init.ro » . Idem in eodem: « Quicl nnturn                                            Cap. III.   .
-      humnna iu Christo homine meruit, ut in unitatem per-
-      sonae unici Filii Dei singulariter assumta esset? Quae                 Secunda est eor.it/rn qui dicunt , hominem illum e.v tri-
-      bona volunlas, quae bona opera praecesserunt, quibus                       bus substantiis, vel ex duabus naturis conslare ;
-      mereretur iste homo una fieri persona cum Deo? Nun-                         el hunc fatenlur unam esse personam , ante incar-
-      quid antea ftiit homo, et hoc ei singulare benelicium                       nationem simplicem tanlum, sed in incarnatione
-      praestitum est, ut singulariler promereretur Deum ?                         composilam ; el aucloritates , quibus se muniunl,
-      Nempe ex quo homo esse coepit, non aliud coepit esse
-      homo quam Dei Filius, et hoc unicus, et propter * Dei                       proponit.
-      Verbum, quocl illo suscepto caro factum esl , utique                        Sunt autem el alii, qui istis in parle consentiunt, Opinio
-                                                                             sed dicunt, hominem illtim non ex anima rationali et
-      Deus; ut, quemadmodum est una persona quilihet ho-
-      mo, anima scilicel rationalis et caro , ila sit Christus               carne tnntum, sed ex humnnn et tlivina natura, id est
-      una persona, Verbum et homo ». Idem super Ioannem2:                    ex tribus subsianiiis, divinitale, carne et anima, con-
-      « Agnoscamus geminam substanliam Christi, divinam                      stare, et hunc Cbristum fatentur. Et unam personam
-      scilicet, qua aequalis est Palri, et humanam, qua mi-                  tanlum esse, ante incarnationem solummodo simplicem,
-      nor est Patre; utrumque autem simul, non duo, sed                      sed in incnrnatione faclam7 compositam ex divinilate
-      uniis est Christus , ne sit quaternitas , non trinitas                 et humanitate. Nec est ideo alia persona quam prius,
-      Deus. Ac per hoc Christus est Deus, anima rationnlis                   sed cum prius esset Dei tantum persona, in incarna-
-      et caro». Iclem quoqne in libro cle Praedestinatione                   lione facta est etiam bominis persona ; non ut duae
-      Sanctorum3: « Ille homo, ut, a Verbo Pnfri coaelerno                   essent personae, sed ut una et eadem esset persona
-      in unilatem personae. assumtus, Filius Dei unigenitus                  Dei et hominis. Persona ergo, qune prius erat simplex
-      esset, uiide hoc meruit? Quod bonum eius prnecessit,                   et in una tantum natura existens, in duabus et ex dua-
-      ut ad hanc ineffabilem excellentiam perveniret? Fa-                    bus subsislit naturis; et personn, quae tanttim Deus
-      ciente ac suscipienle Deo Verbo, ipse homo, ex quo                     erat, facta est etiam vertis homo, subsislens non tan-
-      esse coepit, Filius Dei unicus esse coepit». Item :                    lum ex anima ct carne, sed etiam ex divinilate; nec
-       « Homo quicumque ita gratia fll Christianus, sicut                    tamen persona illn debet dici facta persotia, quamvis
-      gratia homo ille ab initio faclus est Christus». Idem                  dicatur facla persona hominis. Facta esl igitur illa per-
-      in libro decimo tertio de Trinitate4: « Gralin Dei no-                 sona, ut quibusdam placet, quiddam subsistens ex
-      bis in homine Christo commendatur; qtiia nec ipse, ut                  animn et carne, sed non est facla persona , vel sub-
-      tanta unitate Deo vero coniunctus, una cum illo per-                   slantia , vel natura. Et in quantum est illud B subsistens,
-      sona Filius Dei flerel, ullis esl praecedentibus mcritis               composita est ; in quantum autem Verbum est , sim-
-      assecutus, sed ex quo homo esse coepit, ex illo est
-      et Deus. Unde clictum est: Verbum caro factum, est».                   plex Dest.hoc Augustinus in libro Sentenliarum Prosperi 9 conQrmator.
-miarias. Hilarius quoque in libro decimo de Trinitate 5 ail:                 ait: « Modis omnibus approbare conlendimus , Sacrifl- Dubiom i
-         « Christum non ambigimus esse Deum Verbum, neque                    cium Ecclesiae duobus constare, duobus conflci, visi-
-         rursus Filium hominis ex anima et corpore constitisse               bili elemenlorum specie et invisibili Domini noslri Iesu
-      ignoramus ». — His aliisque auctoritatibus uluntur                     Chrisli carne ct sanguine : Sacramenlo et re Sacra-
-      qni hominem quendam ex anima rationali et carne                        menti, id est corpore Christi, sicut Christi persona
-      composilum Deum factum dicunt, sed gralia, non na-                     constat el conflcitur ex Deo el homine, cum ipse Chri-
-      tura. Sola enim gralia habuil ille homo, non meiitis,                  slus verus sit Deus et verus homo ; quia omnis res il-
-      vel natura, ut essel Deus, sive Dei Filius, ut haberet                 larum rerum naluram et veritalem in se continet , ex
-      omnem scienliam et potenliam6, quam habet Verbum ,                     quibus conflcitur ». De hoc eoclem loannes Damasce-Damasceoas.
-      cum quo est una persona. Nec tantum in superioribus                    nus 10 : « In Domino noslro lesu Christo duas quidem na-
-      legitur, quod homo ille sit una persona cum Verbo                      turas cognoscimus, unam autem hypostasim ex utrius-
-      et sit ipsum Verbum, secl etiam, quocl anima ralionalis                que composilam ». « Incnrnaliis est igitur Chrislus, ex
-      et caro eadem persona sit et Christus sil et Deus.                     Virgine assumens primiliam " nostrae massae, ut ipsa
+Ex praemissis autem emergit quaestio plurimum continens utilitatis, sed nimium difficultatis atque perplexitatis. Cum enim constet ex praedictis et aliis pluribus testimoniis, omnesque catholici unanimiter fateantur, Deum esse factum hominem, et Christum verum Deum esse et verum hominem; quaeritur, an his locutionibus: *Deus factus est homo*, *Filius Dei factus est filius hominis*; *Deus est homo*, et *homo est Deus*, dicatur Deus factus esse aliquid, vel esse aliquid, vel aliquid dicatur esse Deus; et an ita conveniat dici: *homo factus est Deus*, et *filius hominis factus est Filius Dei*, sicut e converso dicitur; et si ex his locutionibus non dicitur: Deus factus esse aliquid, vel esse aliquid, quae sit intelligentia harum locutionum et similium. — In huius profunditatis reseratione et scrupulosae quaestionis expositione plurimum differre inveniuntur sapientes.
 
+### Cap. II. *Prima est eorum qui dicunt, in incarnatione hominem quendam ex anima et carne constitutum, et illum hominem factum esse Deum, et Deum illum hominem; et auctoritates, quibus ita esse asserunt, ponit.*
 
+(*Opinio 1.*) Alii enim dicunt, in ipsa Verbi incarnatione hominem quendam ex anima rationali et humana carne constitutum, ex quibus duobus omnis verus homo constituitur; et ille homo coepit esse Deus, non quidem natura Dei, sed persona Verbi; et Deus coepit esse homo ille. Concedunt etiam, hominem illum assumtum a Verbo et unitum Verbo, et tamen esse Verbum; et ea ratione tradunt dictum esse, Deum factum hominem, vel esse hominem, quia Deus factus est, id est, coepit esse quaedam substantia ex anima rationali et humana carne subsistens; et illa substantia facta est, id est, coepit esse Deus. Non tamen demigratione naturae in naturam, sed utriusque naturae servata proprietate, factum est, ut Deus esset illa substantia, et illa substantia esset Deus. Unde vere dicitur: *Deus factus est homo*, et *homo factus est Deus*; et *Deus est homo*, et *homo Deus*; et *Filius Dei filius hominis*, et e converso. Cumque dicant, illum hominem ex anima rationali et humana carne subsistere, non tamen fatentur, ex duabus naturis esse compositum, divina scilicet et humana; nec illius partes esse duas naturas, sed animam tantum et carnem.
 
+Et ne de suo sensu tantum loqui putentur, hanc sententiam pluribus muniunt testimoniis. (*Confirmator.*) Ait enim (*Augustinus.*) Augustinus in libro *de Trinitate*[^2]: «Cum legitur: *Verbum caro factum est*, in Verbo intelligo verum Dei Filium, in carne agnosco verum hominis filium, et utrumque simul unam personam, Deum et hominem ineffabilis gratiae largitate coniunctum». Idem in *Enchiridio*[^3]: «Christus Iesus Deus de Deo est, homo autem natus est de Spiritu sancto ex Maria Virgine. Utraque substantia, divina scilicet et humana, Filius est unicus Dei Patris omnipotentis, de quo procedit Spiritus sanctus», «utrumque unus, sed aliud propter *Verbum*, et aliud propter *hominem*, non duo filii, Deus et homo, sed unus Dei Filius, Deus sine initio,
 
-            1 ln omnibus codd. et edd., exceptis 6, 8, propterea ;           edd. ; paulo superius ante sohimmodo eadem cum codd. D E et
-      deinde Vat. cum edd. 2, 3, i, S, 6, 7, 9 quia est ab illo              edd., exceptis I, 3, 8, adiicit vero.
-      suscepta caro facta est pro quod illo suscepto caro factum est,             8 Codd. ACDE ille, et cod. B cum edd. 2, 3, i, 7,
-      cod. A D Verbum, quod ab illo suscepta caro facta; cod. B et           9 illa.
-      ed. I verbum, quodiilo stiscepta... Cum ed. 8 maluimiis recipere             9 Sumtum est ex Deeret. Graliani, 48. de Consecrat. d. 2.
-      textum oiiginalis, cum omnes aliae lectiones corrupiae sint; to-       Hoc esl quod dicimus, ubi etiam legitur : Augustinus in libro
-      lerari aulem poterit leetio ex diversis sic conflala: et hic unicus,   Sentenliarum Prosperi, (in quo tamen haec verba non inve-
-      et proplerea Dei (Augustinus Deum) Verbum ; quia ab illo               niuntur), et in notis citantur Lanfrancus et Algerus.
-      suscepta caro facta est utique Deus.                                         10 Libr. III. de Fide orlliod. c. 4; seq. locus ibid. c. 7;
-            - Tract. 78. n. 3.                                               tertius c. 3.
-            3 Cap. 15. n. 30. Seq. locus ibid. n. 31.                              11 Cod. D assumendo primitiam, eliam codd. A B E et edd.
-            * Cap. 17. n. 22.                                                 1, 2, 3, i, 7, 9 habent primitiam (ampfjp), cod.C, Vat. ei
-            5 Num. 57.                                                       ed. 8 primitias; deinde pro cami, quod habent Vat. et edd.
-            6 Edtl. 1, 8 potestatem. In fino capiiuli cod. G et ed. t        2, 3 cum codd. AE, cod. D varnis; in aliis in carne. Paulo
-       omitiunt et aute Deus.                                                inferius ante composila cod. B et edd. 2, 3, i, 7 omittuut
-            7 Vat. sed, incarnatione facta, refragoniibus codd. et aliis     et; VaL legit etiam composila et facta fuerit.
-                                                                                                                                               145
-                                                                    DISTINCTK)      VI.
+<!-- page 144 -->
 
-            exstiterit cnrui hypostasis, quae Dei Verbi hyposla-                titentur; sed sic illa duo, scilicet auimam et carnem,
-            sis composila facta fuerit, quae prius simplex erat                 Vcrbi personae vel naluiae unita esse aiunt, ul non
-            Verbi hypostasis, composila vero ex diiabus perfectis               ex illis duobus, vel ex his tribus aliqua substantia*
-            naturis, deitate et humanilate; et ferat ipsa divinae               vel persona fieret sive componeretur ; sed ilhs duobus
-            Verbi Dei filiationis characterislicum et determinativum            velut indumenlo Verbum Dei vestiretur, ut morlalium
-            idioma , secundum quod divisa est a Palre et Spirilu                oculis congruenter appareret. Qui ideo dicitur factus
-            sancto, et carnis characteristica et determinativa idio-            verus homo, quia veritatem carnis et animae accepit.
-            mata, secundum quae differat a Matre et reliquis ho-                Quae duo etiam in singularilatem vel unilatem suae
-            minibus». Item : « Unam hypostasim Filii Dei confile-               personae accepisse legitur, non quia illa duo , vel ali-
-                                                   habentibus, et dei-          qua res ex illis composita sit una persona cimi Verbo,
-rmur in duabus naturis perfecte se                                              vel sit Verbum ; sed quia , illis duobus accedentibus
-            tatis et humanitatis, eandem hypostasim incarnatam ' ;
-            et has duas naluras custodiri et manere in ipso post                Verbo, non est personaruin numerus auctus, ul fieret
-            unionem , non seorsum et secundum partes ponentes                   quaternilas in Trinilate ; et quia ipsa persona Verbi ,
-            singulam, sed unitas invicem in unam composilam                     quae erat prius sine indumento, assumlione indumenti
-            hypostasim. Subslantialem enim inquimus unionem ,                   non est divisa vel mutata, sed una eademque ininiti-
-            scilicet veram et non secundum phanlasiam, subslan-                 tata permansit. Qui seamdum habilum Deiim hominem
-            lialem autem , non duabus naturis perficientibus alle-              factum dicunl5. Accipiendo enim hominem, dictus est
-            ram, scilicet unam compositam naturam, sed unitas                   Deus factus homo ; et propter acceptum hominem di-
-            invicem in unam hypostasim compositam Filii Dei, et                 ciltir Deus verus 6 esse homo ; et propler assumentem
-            manere eandem subslantialem differenliam determina-                 Deum dicitur homo esse Deus. Nam si essentialiter ,
-            mus : quod creabile mansit creabile , et quod increa-               inquiunt illi, Deus esse homo, vel homo esse Deus in-
-            bile increabile, et mortale morlale, et immorlale im-               telligeretur; tunc, si Deus hominem assumsisset in sexu
-            mortale, et circumscriptibile circumscriplihile, et in-             muliebri, et mulier essenlialiler Deus esset, et e con-
-            circumscriptibile incircumscriplibile ; et hoc quidem               verso ; at poluit Deus assumsisse hominem in sexu mu-
-Augusiinus. refulget miraculis». De hoc eliam Augustinus in libro               liebri : potuit igilur mtilier esse Deus, et e converso.
-            tle Trinitate2 ait : « Quemadmodum secundiim deilatem                                            Cap. V.
-            una est Patris et Filii nalura, ita etiam iuxia humani-
-            tatem eadem est Matris et Filii una natura. Ex utraque                        Deinde aucloritales inducit, quibus haec
-            autem suhstanlia, et divinilatis et humanilatis, unus                                   sententia roboralur.
-            atque idem est Deus , Dei et bominis Filius, lesus Chri-
-            stus, ut Deus verus, ita eliam homo verus ». Idem in                     Ne autem et isti de suo ' infJuere videantur, te-
-         libro decinio lertio de Triuitate s : « Sic Deo coniungi               stimoniis in medium produclis quod dictint conlirmant.
-         potuit humana natura , ut ex duabus substantiis fieret                 Ait enim Augtistinus in libro dc Gratia novi Testa- Augustinus.
-         una persona ; ac per hoc iam est ex tribus: Deo, ani-                  menli 8: « Sicul non augetur numerus personarum, cum
-         ma et carne ». — His aliisque pluribus auctorilatibus se               caro accedit animae, ut sit unus homo; sic non au-
-         muniunt qui dicunt, personam Chrisli compositam esse,                  getur numerus personarum, cum homo accedit Verbo,
-         vel factam sive conslantem ex duabus naluris, sive                     ul sit tinus Christus. Legilur itaque Deus homo, til in-
-         ex tribus substantiis.                                                 telligamus huius personae singularitatem , non ut su-
-                                      Cap. IV.                                  spicemur in carnem mulatam divinitatem ». Idem quo-
-                                                                                que traetans illud verbtim Aposloli : Habitu invenlus
-                                                                                esl ul homo, manifeste ostendit, Deum dici faclum esse
-          Terlia est eorum qui non solum personam ex naluris
-               composilam negant, sed, etiam aliquem hominem                    hominem, vel esse hominem secundum habitum , in
-               vel aliquam subslanliam ibi ex anima el carne                    libro Oetoginla trium Quaestionum ° ita inquiens :
-               compositam diffitenlur ; et sic illa duo , scilicet              « Mullis modis habilum dicimus : vel habilum animi , uubium 3.
-               animam el carnem, Verbo unila dicunt , ut non ex                 sicut disciplinae perceptionem usti lirmatam ; vel ha-
-               illis aliqua substanlia vel persona componerctur ,               bitum corporis , sicut dicimus alium alio validiorem ;
-               sed illis duobus velul indumenlo Deas vestirelur ,               vel habilum eorum, quae membris accominodantur ex-
-               ut mortalibus oculis apparerel ; qui ralionem in-                trinsecus, ut cum dicimus aliquem vestilum, calcea-
-               carnalionis secundum habilum accipiunt.                          tum et huiusmodi. In omnibus generibtis manifcstum
-                                                                                est, in ea re dici habilum , quae accidit alicui, ita ut
-               Sunt eliam alii, qui in incarnatione Verbi non so-               eam possit eliam non habere. Hoc autem nomen du-
-Dubium 2. luin personam ex naluris composilam      negant, verum                ctum est ab illo verbo, quod est habere. llabitus ergo
-          etiam hominem aliquem, sive eliam aliquam substan-                    in ea re dicitur, quae nobis, ut habcatur, aecidit vel
-          liam ibi ex anima et carne compositam vel factam dif-
-                                                                                accedit» '".
-              1 VoL, ci fere etiam ed. 6,lta leglt: habentibus, eandem              6 Vat. cum plerisque edd. reic.
-         hypostasim deilnlis et hiimunitatis dicfnte.i incarnatam esse.             ' Cod. I^ et cdd. 2, 3, i, !i, 6, 7, 9 addimt sriisu.
-         Vocem nlUmam esse adiungunt eliani edd. 3, 4, S, 7, 9.                     8 l-pisl. (,-ilias 1211.) liO. c. '.. n. II. 12.
-              ■ Potius Serm. 23«. (in append. n. 3.).                               9 Quacsi. 73. n. I ; conlinuatur hic locus eliam ln seq.
-              3 Cap. 17. n. 22.                                                 cap. ; locus Scripturae esl 1'liil. 2, 7.
-              4 Val. et plcracque    edd. nalura , refragantibus   codd.   et          10 Val. cum orlgiuali oniillit vt-l accetlil ; cod. K lanlum
-          edd. 1 , 8.                                                           accedit, e\ infra pluries idem dicendum de aecidunt vel acce-
-               s Cfr. Gregor., I. super Bzechlel. Hom. s. n, 24. 25, et de      iiiiui ; deinde onte mutant Vot. ct cdd. ii, s odiiclunt nos.
-          scqq. Augusi. , h:i Qq. q. ||,
-                   S. flnnav. —     Tom. III.
-          146                                                SENTENTIARUM        LIB. III.
+homo a certo initio». Idem in eodem[^1b]: «Quid natura humana in Christo homine meruit, ut in unitatem personae unici Filii Dei singulariter assumta esset? Quae bona voluntas, quae bona opera praecesserunt, quibus mereretur iste homo una fieri persona cum Deo? Nunquid antea fuit homo, et hoc ei singulare beneficium praestitum est, ut singulariter promereretur Deum? Nempe ex quo homo esse coepit, non aliud coepit esse homo quam Dei Filius, et hoc unicus, et propter[^2b] Dei Verbum, quod illo suscepto caro factum est, utique Deus; ut, quemadmodum est una persona quilibet homo, anima scilicet rationalis et caro, ita sit Christus una persona, Verbum et homo». Idem *super Ioannem*[^3b]: «Agnoscamus geminam substantiam Christi, divinam scilicet, qua aequalis est Patri, et humanam, qua minor est Patre; utrumque autem simul, non duo, sed unus est Christus, ne sit quaternitas, non trinitas Deus. Ac per hoc Christus est Deus, anima rationalis et caro». Idem quoque in libro *de Praedestinatione Sanctorum*[^4b]: «Ille homo, ut, a Verbo Patri coaeterno in unitatem personae assumtus, Filius Dei unigenitus esset, unde hoc meruit? Quod bonum eius praecessit, ut ad hanc ineffabilem excellentiam perveniret? Faciente ac suscipiente Deo Verbo, ipse homo, ex quo esse coepit, Filius Dei unicus esse coepit». Item: «Homo quicumque ita gratia fit Christianus, sicut gratia homo ille ab initio factus est Christus». Idem in libro decimo tertio *de Trinitate*[^5b]: «Gratia Dei nobis in homine Christo commendatur; quia nec ipse, ut tanta unitate Deo vero coniunctus, una cum illo persona Filius Dei fieret, ullis est praecedentibus meritis assecutus, sed ex quo homo esse coepit, ex illo est et Deus. Unde dictum est: *Verbum caro factum est*». Hilarius quoque in libro decimo *de Trinitate*[^6b] ait: «Christum non ambigimus esse Deum Verbum, neque rursus Filium hominis ex anima et corpore constitisse ignoramus». — His aliisque auctoritatibus utuntur qui hominem quendam ex anima rationali et carne compositum Deum factum dicunt, sed gratia, non natura. Sola enim gratia habuit ille homo, non meritis, vel natura, ut esset Deus, sive Dei Filius, ut haberet omnem scientiam et potentiam[^7b], quam habet Verbum, cum quo est una persona. Nec tantum in superioribus legitur, quod homo ille sit una persona cum Verbo et sit ipsum Verbum, sed etiam, quod anima rationalis et caro eadem persona sit et Christus sit et Deus.
 
-                                    Cap. VI.                                  incarnationis modum volens exprimere,         quaerenlibus
-                                                                               in quarto libro de Trinitale4 ail : « Si qtiaeritur, ipsa Augustinus.
-                  Qualuor species habitus distinguuntur.                       incarnatio quo modo facta sit, ipsum Verbum Dei dico
-                                                                              carnem faclum, id est hominem faclum,non lanien in
-                   « Verumtamen hoc interest, quia quaedam eorum              hoc, quod faclum est, conversum atque mulatum »,
-Augustinus.
- Species 1.
-             quae accidunt vel accedunt, ut habiium faciant, non              sed carne, ut ciirnalibus congruenter appareret indu-
-             niulantur, sed ipsa mutant, in se inlegra ct mconcussa           tum. « Ita sane factum, ut ibi sit non tantum Verbum
-             manentia; sicut sapientia, accedens homini, non ipsa             Dei et hominis caro, sed etiam rationalis hominis
-            mulatur, sed hominem mulat, quem de stulto sapien-                anima; alqtie hoc lotum et Deus dicatur propler Deum,
- speeies 2. tem facit. — Quaedam vero sic accedunt vel accidunt,              et homo propter hominem. Quod si difficile intelligi-
-            ut mutent et mutcntur, ut abus, qui, amittens spe-                tur, mens flde purgelur a peccatis abslinendo et bona
-            ciem suam, in corpus vertitur, et nos cibo refecti ab             operando ; dilTicilia enim sunt haec ». Idem in libro de Fnigentius.
-            exilitate1 atque languore in robur alque valentiam mu-            Fide ad Petrnm 5 : « Dei Filius, cum sit Deus aeter-
- species 3. tamur. — Tertium genus est, cum ea quae accidunl                  nus et verus, pro nohis faclus est homo verus et ple-
-            vel accedunt, nec nuilant ea quibus accidunt, nec ab              nus : in eo verus, quia veram habet Deus ille huma-
-            eis ipsa mulantur, sicut anulus positus iii digito; quod          nam naturam ; in eo vero plenus, quia et carnem hu-
-Species 4. genus rarissime reperitur. — Quartum genus est, cum                manam suscepit et aniniam rationalem ». Item : <■ Non
-            ea.quae accidunt, mulantur non a sua natura , sed                 aliud fuit illa Dei summi exinanilio nisi formae servi-
-            aliam speciem et formam accipiunt, ut est vestis, quae            lis, id est naturae humanae, susceptio. Utraque igitur
-            deiecta atque deposita non habet eam formam, quam                 est in Christo forma, quia utraque vera et plena est
-            sumit induta; induta enim membris accipit formam ,                in Chrislo substantia », divina scilicet et humana. Idem
-            quam non habebat exuta. Quod genus congruit huic                  in libro contra Maximinum 6 : « Cum esset per se ipsum
-            comparalioni. Deus enim Filius semelipsum exinanivit,             invisibilis, visibilis in homine apparuit, quem de fe-
-            non formam suam mutans, sed formam servi accipiens,               mina suscipere dignatus est ». Item in eodem : « Nos
-            neque conversus aut transmutatus in hominem 2, amissa             Christum Domiiium verum liominem suscepisse credi-
-            incommutabili stabilitate, sed in simililudinem homi-             mus, et in ipso visibiliter invisibilem hominibus appa-
-            num factus est ipse susceptor, verum hominem susci-               ruisse, in ipso inter homines conversatum fuisse, in
-            piendo habilu invenlus est ut homo , id est, habendo              ipso ab hominibus humana perlulisse, in ipso homines
-            hominem invenlus est ul homo, non sibi , sed eis qui-             docuisse». Hilarius quoque in decimo libro de Trini- nnarius. I
-            bus in homine apparuit ». Qtiod aulem dicit ut homo               nitate' ait: « Quomodo Dei Filius nalus est ex Maria,
-            verilatem exprimit. « Nomine ergo habitus satis signi-            nisi quod Verbum caro factum est, scilicet quod Fi-
-            flcavit Aposlolus, qualiter dixerit in simililudinem ho-          lius Dei, cum in forma Dei essel , formam servi ac-
-            minum factus, quia non transtiguralione in hominem ,              cepit? Unum     lamen eundemque non Dei defeclione,
-            sed habitu factus est, cum indulus est hominem, quein             sed hominis assumtione profitenmr, et in forma Dei
-            sibi uniens quodam modo atque conformans immorta-                 per naturam divinam, et in forma servi ex conce-
-           .litati aeternitatique sociaret. Non ergo oporlet intelligi,       ptione Spiritus sancli secundum hominis habitum re-
-            mutatum esse Verbum susceptione hominis, sicut nec                pertum fuisse». « Non fuit habitus ille tantum homi-
-            membra veste induta mutanlur, quamvis illa susceplio              nis, sed ut hominis ; neque caro illa caro peccati , sed
-            ineffabiliter susceplum suscipienti copularet3». — His            iii similitudine carnis peccati » . — Audistis tres se-
-            verbis aperte innuere videtur Augustinus, Deum dici               cundum diversos positas senlentias et pro singulis iu-
-            faclum hominem secundum habitum. Qui etiam ipsius                 ducta testimonia.
+### Cap. III. *Secunda est eorum qui dicunt, hominem illum ex tribus substantiis, vel ex duabus naturis constare; et hunc fatentur unam esse personam, ante incarnationem simplicem tantum, sed in incarnatione compositam; et auctoritates, quibus se muniunt, proponit.*
+
+(*Opinio 2.*) Sunt autem et alii, qui istis in parte consentiunt, sed dicunt, hominem illum non ex anima rationali et carne tantum, sed ex humana et divina natura, id est ex tribus substantiis, divinitate, carne et anima, constare, et hunc Christum fatentur. Et unam personam tantum esse, ante incarnationem solummodo simplicem, sed in incarnatione factam[^8b] compositam ex divinitate et humanitate. Nec est ideo alia persona quam prius, sed cum prius esset Dei tantum persona, in incarnatione facta est etiam hominis persona; non ut duae essent personae, sed ut una et eadem esset persona Dei et hominis. Persona ergo, quae prius erat simplex et in una tantum natura existens, *in* duabus et *ex* duabus subsistit naturis; et persona, quae tantum Deus erat, facta est etiam verus homo, subsistens non tantum ex anima et carne, sed etiam ex divinitate; nec tamen persona illa debet dici *facta persona*, quamvis dicatur *facta persona hominis*. Facta est igitur illa persona, ut quibusdam placet, quiddam subsistens ex anima et carne, sed non est facta *persona*, vel *substantia*, vel *natura*. Et in quantum est illud[^9b] subsistens, composita est; in quantum autem Verbum est, simplex est.
+
+(*Confirmator.*) De hoc Augustinus in libro Sententiarum Prosperi[^10b] ait: (*Dubium 4.*) «Modis omnibus approbare contendimus, Sacrificium Ecclesiae duobus constare, duobus confici, visibili elementorum specie et invisibili Domini nostri Iesu Christi carne et sanguine: Sacramento et re Sacramenti, id est corpore Christi, sicut Christi persona constat et conficitur ex Deo et homine, cum ipse Christus verus sit Deus et verus homo; quia omnis res illarum rerum naturam et veritatem in se continet, ex quibus conficitur». De hoc eodem (*Damascenus.*) Ioannes Damascenus[^11b]: «In Domino nostro Iesu Christo duas quidem naturas cognoscimus, unam autem hypostasim ex utriusque compositam». «Incarnatus est igitur Christus, ex Virgine assumens primitiam[^1c] nostrae massae, ut ipsa
+
+<!-- page 145 -->
+
+exstiterit carni hypostasis, quae Dei Verbi hypostasis composita facta fuerit, quae prius simplex erat Verbi hypostasis, composita vero ex duabus perfectis naturis, deitate et humanitate; et ferat ipsa divinae Verbi Dei filiationis characteristicum et determinativum idioma, secundum quod divisa est a Patre et Spiritu sancto, et carnis characteristica et determinativa idiomata, secundum quae differat a Matre et reliquis hominibus». Item: «Unam hypostasim Filii Dei confitemur in duabus naturis perfecte se habentibus, et deitatis et humanitatis, eandem hypostasim incarnatam[^2c]; et has duas naturas custodiri et manere in ipso post unionem, non seorsum et secundum partes ponentes singulam, sed unitas invicem in unam compositam hypostasim. Substantialem enim inquimus unionem, scilicet veram et non secundum phantasiam, substantialem autem, non duabus naturis perficientibus alteram, scilicet unam compositam naturam, sed unitas invicem in unam hypostasim compositam Filii Dei, et manere eandem substantialem differentiam determinamus: quod creabile mansit creabile, et quod increabile increabile, et mortale mortale, et immortale immortale, et circumscriptibile circumscriptibile, et incircumscriptibile incircumscriptibile; et hoc quidem refulget miraculis». (*Augustinus.*) De hoc etiam Augustinus in libro *de Trinitate*[^3c] ait: «Quemadmodum secundum deitatem una est Patris et Filii natura, ita etiam iuxta humanitatem eadem est Matris et Filii una natura. Ex utraque autem substantia, et divinitatis et humanitatis, unus atque idem est Deus, Dei et hominis Filius, Iesus Christus, ut Deus verus, ita etiam homo verus». Idem in libro decimo tertio *de Trinitate*[^4c]: «Sic Deo coniungi potuit humana natura, ut ex duabus substantiis fieret una persona; ac per hoc iam est ex tribus: Deo, anima et carne». — His aliisque pluribus auctoritatibus se muniunt qui dicunt, personam Christi compositam esse, vel factam sive constantem ex duabus naturis, sive ex tribus substantiis.
+
+### Cap. IV. *Tertia est eorum qui non solum personam ex naturis compositam negant, sed etiam aliquem hominem vel aliquam substantiam ibi ex anima et carne compositam diffitentur; et sic illa duo, scilicet animam et carnem, Verbo unita dicunt, ut non ex illis aliqua substantia vel persona componeretur, sed illis duobus velut indumento Deus vestiretur, ut mortalibus oculis appareret; qui rationem incarnationis secundum habitum accipiunt.*
+
+(*Dubium 2.*) Sunt etiam alii, qui in incarnatione Verbi non solum personam ex naturis compositam negant, verum etiam hominem aliquem, sive etiam aliquam substantiam ibi ex anima et carne compositam vel factam diffitentur; sed sic illa duo, scilicet animam et carnem, Verbi personae vel naturae unita esse aiunt, ut non ex illis duobus, vel ex his tribus aliqua substantia[^5c] vel persona fieret sive componeretur; sed illis duobus velut indumento Verbum Dei vestiretur, ut mortalium oculis congruenter appareret. Qui ideo dicitur factus verus homo, quia veritatem carnis et animae accepit. Quae duo etiam in singularitatem vel unitatem suae personae accepisse legitur, non quia illa duo, vel aliqua res ex illis composita sit una persona cum Verbo, vel sit Verbum; sed quia, illis duobus accedentibus Verbo, non est personarum numerus auctus, ut fieret quaternitas in Trinitate; et quia ipsa persona Verbi, quae erat prius sine indumento, assumtione indumenti non est divisa vel mutata, sed una eademque inimmutata permansit. Qui secundum habitum Deum hominem factum dicunt[^6c]. Accipiendo enim hominem, dictus est Deus factus homo; et propter acceptum hominem dicitur Deus verus[^7c1] esse homo; et propter assumentem Deum dicitur homo esse Deus. Nam si essentialiter, inquiunt illi, Deus esse homo, vel homo esse Deus intelligeretur; tunc, si Deus hominem assumsisset in sexu muliebri, et mulier essentialiter Deus esset, et e converso; at potuit Deus assumsisse hominem in sexu muliebri: potuit igitur mulier esse Deus, et e converso.
+
+### Cap. V. *Deinde auctoritates inducit, quibus haec sententia roboratur.*
+
+Ne autem et isti de suo[^7c2] influere videantur, testimoniis in medium productis quod dicunt confirmant. (*Augustinus.*) Ait enim Augustinus in libro *de Gratia novi Testamenti*[^8c]: «Sicut non augetur numerus personarum, cum caro accedit animae, ut sit unus homo; sic non augetur numerus personarum, cum homo accedit Verbo, ut sit unus Christus. Legitur itaque Deus homo, ut intelligamus huius personae singularitatem, non ut suspicemur in carnem mutatam divinitatem». Idem quoque tractans illud verbum Apostoli: *Habitu inventus est ut homo*, manifeste ostendit, Deum dici factum esse hominem, vel esse hominem secundum habitum, in libro *Octoginta trium Quaestionum*[^9c] ita inquiens: (*Dubium 3.*) «Multis modis habitum dicimus: vel habitum animi, sicut disciplinae perceptionem usu firmatam; vel habitum corporis, sicut dicimus alium alio validiorem; vel habitum eorum, quae membris accommodantur extrinsecus, ut cum dicimus aliquem vestitum, calceatum et huiusmodi. In omnibus generibus manifestum est, in ea re dici habitum, quae accidit alicui, ita ut eam possit etiam non habere. Hoc autem nomen ductum est ab illo verbo, quod est *habere*. Habitus ergo in ea re dicitur, quae nobis, ut habeatur, accidit vel accedit»[^10c].
+
+<!-- page 146 -->
+
+### Cap. VI. *Quatuor species habitus distinguuntur.*
+
+(*Augustinus. Species 1.*) «Verumtamen hoc interest, quia quaedam eorum quae accidunt vel accedunt, ut habitum faciant, non mutantur, sed ipsa mutant, in se integra et inconcussa manentia; sicut sapientia, accedens homini, non ipsa mutatur, sed hominem mutat, quem de stulto sapientem facit. — (*Species 2.*) Quaedam vero sic accedunt vel accidunt, ut mutent et mutentur, ut abus, qui, amittens speciem suam, in corpus vertitur, et nos cibo refecti ab exilitate[^1d] atque languore in robur atque valentiam mutamur. — (*Species 3.*) Tertium genus est, cum ea quae accidunt vel accedunt, nec mutant ea quibus accidunt, nec ab eis ipsa mutantur, sicut anulus positus in digito; quod genus rarissime reperitur. — (*Species 4.*) Quartum genus est, cum ea quae accidunt, mutantur non a sua natura, sed aliam speciem et formam accipiunt, ut est vestis, quae deiecta atque deposita non habet eam formam, quam sumit induta; induta enim membris accipit formam, quam non habebat exuta. Quod genus congruit huic comparationi. Deus enim Filius semetipsum exinanivit, non formam suam mutans, sed formam servi accipiens, neque conversus aut transmutatus in hominem[^2d], amissa incommutabili stabilitate, sed in similitudinem hominum factus est ipse susceptor, verum hominem suscipiendo habitu inventus est ut homo, id est, habendo hominem inventus est ut homo, non sibi, sed eis quibus in homine apparuit». Quod autem dicit *ut homo* veritatem exprimit. «Nomine ergo habitus satis significavit Apostolus, qualiter dixerit in similitudinem hominum factus, quia non transfiguratione in hominem, sed habitu factus est, cum indutus est hominem, quem sibi uniens quodam modo atque conformans immortalitati aeternitatique sociaret. Non ergo oportet intelligi, mutatum esse Verbum susceptione hominis, sicut nec membra veste induta mutantur, quamvis illa susceptio ineffabiliter susceptum suscipienti copularet[^3d]». — His verbis aperte innuere videtur Augustinus, Deum dici factum hominem secundum habitum. Qui etiam ipsius incarnationis modum volens exprimere, (*Augustinus.*) in quarto libro *de Trinitate*[^4d] ait: «Si quaeritur, ipsa incarnatio quo modo facta sit, ipsum Verbum Dei dico carnem factum, id est hominem factum, non tamen in hoc, quod factum est, conversum atque mutatum», sed carne, ut carnalibus congruenter appareret indutum. «Ita sane factum, ut ibi sit non tantum Verbum Dei et hominis caro, sed etiam rationalis hominis anima; atque hoc totum et Deus dicatur propter Deum, et homo propter hominem. Quod si difficile intelligitur, mens fide purgetur a peccatis abstinendo et bona operando; difficilia enim sunt haec». (*Fulgentius.*) Idem in libro *de Fide ad Petrum*[^5d]: «Dei Filius, cum sit Deus aeternus et verus, pro nobis factus est homo verus et plenus: in eo verus, quia veram habet Deus ille humanam naturam; in eo vero plenus, quia et carnem humanam suscepit et animam rationalem». Item: «Non aliud fuit illa Dei summi exinanitio nisi formae servilis, id est naturae humanae, susceptio. Utraque igitur est in Christo forma, quia utraque vera et plena est in Christo substantia», divina scilicet et humana. Idem in libro *contra Maximinum*[^6d]: «Cum esset per se ipsum invisibilis, visibilis in homine apparuit, quem de femina suscipere dignatus est». Item in eodem: «Nos Christum Dominum verum hominem suscepisse credimus, et in ipso visibiliter invisibilem hominibus apparuisse, in ipso inter homines conversatum fuisse, in ipso ab hominibus humana pertulisse, in ipso homines docuisse». (*Hilarius.*) Hilarius quoque in decimo libro *de Trinitate*[^7d] ait: «Quomodo Dei Filius natus est ex Maria, nisi quod *Verbum caro factum est*, scilicet quod Filius Dei, cum in forma Dei esset, formam servi accepit? Unum tamen eundemque non Dei defectione, sed hominis assumtione profitemur, et in forma Dei per naturam divinam, et in forma servi ex conceptione Spiritus sancti secundum hominis habitum repertum fuisse». «Non fuit habitus ille tantum hominis, sed ut hominis; neque caro illa caro peccati, sed in similitudine carnis peccati». — Audistis tres secundum diversos positas sententias et pro singulis inducta testimonia.
+
+---
 
 ## English
 
-[Translation pending]
+<!-- page 143 -->
+
+### DISTINCTION VI.
+
+### Chap. I. *On the understanding of these expressions: "God is man"[^1], "God was made man"; he sets out three opinions.*
+
+From the foregoing, however, there arises a question containing very much of usefulness, but too much of difficulty and perplexity. For since it is established from what has been said before and from many other testimonies, and since all Catholics unanimously confess, that God was made man, and that Christ is true God and true man, it is asked whether by these expressions — *God was made man*, *the Son of God was made the son of man*; *God is man*, and *man is God* — God is said to have been made something, or to be something, or whether something is said to be God; and whether it is fitting to say: *man was made God*, and *the son of man was made the Son of God*, just as conversely it is said; and if by these expressions it is not said that God was made something, or is something, what is the understanding of these expressions and the like. — In the unlocking of this depth and in the exposition of this scrupulous question, the wise are found to differ very greatly.
+
+### Chap. II. *The first is the opinion of those who say that in the incarnation a certain man was constituted out of soul and flesh, and that that man was made God, and God that man; and he sets out the authorities by which they assert that it is so.*
+
+(*Opinion 1.*) Now some say that in the very incarnation of the Word a certain man was constituted out of a rational soul and human flesh — out of which two every true man is constituted — and that that man began to be God, not indeed by the nature of God, but by the person of the Word; and God began to be that man. They also concede that that man was assumed by the Word and united to the Word, and yet is the Word; and on that account they teach that it is said that God was made man, or is man, because God was made, that is, began to be a certain substance subsisting out of a rational soul and human flesh; and that substance was made, that is, began to be God. Yet not by a migration of nature into nature, but, the property of each nature being preserved, it came about that God was that substance, and that substance was God. Whence it is truly said: *God was made man*, and *man was made God*; and *God is man*, and *man God*; and *the Son of God the son of man*, and conversely. And although they say that that man subsists out of a rational soul and human flesh, yet they do not confess that he is composed out of two natures, namely divine and human; nor that his parts are two natures, but only soul and flesh.
+
+And lest they be thought to speak only from their own opinion, they fortify this opinion with many testimonies. (*It is confirmed.*) For (*Augustine.*) Augustine says in the book *On the Trinity*[^2]: «When it is read: *The Word was made flesh*, in the Word I understand the true Son of God, in the flesh I recognize the true son of man, and both together one person, God and man, joined together by the largess of ineffable grace». The same in the *Enchiridion*[^3]: «Christ Jesus is God of God, but he was born man of the Holy Spirit from the Virgin Mary. Each substance, namely the divine and the human, is the one Son of God the Father almighty, from whom the Holy Spirit proceeds», «both one, but one thing on account of the *Word*, and another on account of the *man*, not two sons, God and man, but one Son of God, God without beginning,
+
+<!-- page 144 -->
+
+man from a certain beginning». The same in the same work[^1b]: «What did human nature merit in Christ the man, that it should be singularly assumed into the unity of the person of the only Son of God? What good will, what good works preceded, by which that man might merit to be made one person with God? Was he formerly a man, and was this singular benefit conferred upon him, that he should singularly merit God? Indeed, from the time he began to be man, the man began to be nothing other than the Son of God, and this the only one, and on account of[^2b] the Word of God, which, that being assumed, was made flesh, namely God; so that, just as any man is one person, namely a rational soul and flesh, so Christ is one person, the Word and man». The same *on John*[^3b]: «Let us acknowledge the twofold substance of Christ, the divine, namely, by which he is equal to the Father, and the human, by which he is less than the Father; yet both together, not two, but one is Christ, lest there be a quaternity, not a trinity, God. And by this Christ is God, a rational soul, and flesh». The same also in the book *On the Predestination of the Saints*[^4b]: «That man — that, being assumed by the Word coeternal with the Father into the unity of person, he might be the only-begotten Son of God — whence did he merit this? What good of his preceded, that he might attain to this ineffable excellence? By God the Word effecting and receiving, that man himself, from the time he began to be, began to be the only Son of God». Likewise: «Whoever a man is made a Christian by grace, just so by grace that man was from the beginning made Christ». The same in the thirteenth book *On the Trinity*[^5b]: «The grace of God is commended to us in the man Christ; for not even he himself, that he might, joined by so great a unity to the true God, be the Son of God one person with him, attained this by any preceding merits, but from the time he began to be man, from that time he is also God. Whence it is said: *The Word was made flesh*». Hilary also in the tenth book *On the Trinity*[^6b] says: «We do not doubt that Christ is God the Word, nor again are we ignorant that the Son of man consisted of soul and body». — These and other authorities are used by those who say that a certain man composed out of a rational soul and flesh was made God, but by grace, not by nature. For that man had it by grace alone, not by merits or by nature, that he should be God, or the Son of God, that he should have all knowledge and power[^7b], which the Word has, with whom he is one person. Nor is it only read in the foregoing that that man is one person with the Word and is the Word himself, but also that the rational soul and flesh are the same person, and that he is Christ and is God.
+
+### Chap. III. *The second is the opinion of those who say that that man consists of three substances, or of two natures; and they confess that he is one person, before the incarnation simple only, but in the incarnation composite; and he sets forth the authorities by which they fortify themselves.*
+
+(*Opinion 2.*) Now there are also others who in part agree with these, but say that that man consists not out of a rational soul and flesh only, but out of human and divine nature, that is, out of three substances — divinity, flesh, and soul — and this one they confess to be Christ. And that there is one person only, before the incarnation simply simple, but in the incarnation made[^8b] composite out of divinity and humanity. Nor is the person therefore other than before, but, whereas before it was the person of God only, in the incarnation it was made also the person of man; not that there might be two persons, but that one and the same might be the person of God and man. The person, therefore, which before was simple and existing in one nature only, subsists *in* two and *out of* two natures; and the person which was God only was made also true man, subsisting not only out of soul and flesh, but also out of divinity; yet that person ought not to be called a *made person*, although it is called a *made person of man*. That person, therefore, was made, as it pleases some, something subsisting out of soul and flesh, but it was not made a *person*, or a *substance*, or a *nature*. And insofar as it is that[^9b] subsisting thing, it is composite; but insofar as it is the Word, it is simple.
+
+(*It is confirmed.*) On this Augustine in the book of the Sentences of Prosper[^10b] says: (*Doubt 4.*) «In all ways we strive to prove that the Sacrifice of the Church consists of two things, is confected of two things, the visible species of the elements and the invisible flesh and blood of our Lord Jesus Christ: the Sacrament and the reality of the Sacrament, that is, the body of Christ, just as the person of Christ consists and is confected of God and man, since Christ himself is true God and true man; because every thing contains in itself the nature and truth of those things out of which it is confected». On this same matter (*Damascene.*) John Damascene[^11b]: «In our Lord Jesus Christ we recognize indeed two natures, but one hypostasis composed out of each». «Christ, therefore, was incarnate, assuming from the Virgin the first-fruit[^1c] of our mass, so that it itself
+
+<!-- page 145 -->
+
+might exist as the hypostasis of the flesh, which became the composite hypostasis of the Word of God, which before was the simple hypostasis of the Word, but composite out of two perfect natures, deity and humanity; and that it might bear the characteristic and determinative idiom of the divine filiation of the Word of God, according to which it is divided from the Father and the Holy Spirit, and the characteristic and determinative idioms of the flesh, according to which it differs from the Mother and the rest of men». Likewise: «We confess one hypostasis of the Son of God in two natures perfectly subsisting, both of deity and of humanity, the same hypostasis incarnate[^2c]; and that these two natures are guarded and remain in him after the union, not setting them down separately and according to parts, each singly, but united with each other into one composite hypostasis. For we say a substantial union, namely true and not according to phantasy, and substantial, moreover, not with two natures perfecting another, namely one composite nature, but united with each other into one hypostasis of the Son of God composite, and we determine that the same substantial difference remains: that the creatable remained creatable, and the uncreatable uncreatable, and the mortal mortal, and the immortal immortal, and the circumscriptible circumscriptible, and the incircumscriptible incircumscriptible; and this indeed shines forth in miracles». (*Augustine.*) On this also Augustine in the book *On the Trinity*[^3c] says: «Just as according to deity the nature of the Father and of the Son is one, so also according to humanity the nature of the Mother and of the Son is one. And out of each substance, both of divinity and of humanity, one and the same is God, the Son of God and of man, Jesus Christ, as true God, so also true man». The same in the thirteenth book *On the Trinity*[^4c]: «Thus human nature could be joined to God, so that out of two substances there might be made one person; and by this it is now out of three: God, soul, and flesh». — These and many other authorities are used to fortify themselves by those who say that the person of Christ is composite, or made or consisting out of two natures, or out of three substances.
+
+### Chap. IV. *The third is the opinion of those who not only deny a person composed out of natures, but also disavow any man or any substance there composed out of soul and flesh; and so they say that those two, namely soul and flesh, are united to the Word in such a way that no substance or person is composed out of them, but that God was clothed by those two as by a garment, that he might appear to mortal eyes; who take the account of the incarnation according to habit.*
+
+(*Doubt 2.*) There are also others who in the incarnation of the Word not only deny a person composed out of natures, but also disavow any man, or even any substance, there composed or made out of soul and flesh; but they say that those two, namely soul and flesh, are so united to the person or nature of the Word, that no substance[^5c] or person is made or composed out of those two, or out of these three; but that the Word of God was clothed by those two as by a garment, that he might fittingly appear to the eyes of mortals. He is therefore said to have been made true man, because he received the truth of flesh and soul. And these two he is read to have received also into the singularity or unity of his person, not because those two, or any thing composed out of them, is one person with the Word, or is the Word; but because, those two acceding to the Word, the number of persons was not increased, so that a quaternity might be made in the Trinity; and because the very person of the Word, which was before without a garment, was not divided or changed by the assumption of the garment, but remained one and the same unchanged. They say that according to habit God was made man[^6c]. For by taking man, God was said to have been made man; and on account of the man taken, God is said[^7c1] to be truly man; and on account of the God assuming, man is said to be God. For if essentially, they say, it were understood that God is man, or man is God, then, if God had assumed a man in the female sex, the woman too would essentially be God, and conversely; but God could have assumed a man in the female sex: therefore a woman could be God, and conversely.
+
+### Chap. V. *Then he adduces the authorities by which this opinion is strengthened.*
+
+But lest these too be thought to bring it forth from their own[^7c2], they confirm what they say by testimonies brought into the midst. (*Augustine.*) For Augustine says in the book *On the Grace of the New Testament*[^8c]: «Just as the number of persons is not increased when flesh accedes to a soul, so that there is one man; so the number of persons is not increased when man accedes to the Word, so that there is one Christ. Thus God-man is read, that we may understand the singularity of this person, not that we may suspect the divinity changed into flesh». The same also, treating that word of the Apostle: *In habit found as a man*, manifestly shows that God is said to have been made man, or to be man, according to habit, in the book *Of Eighty-three Questions*[^9c], speaking thus: (*Doubt 3.*) «In many ways we speak of habit: either the habit of the mind, like the perception of a discipline firmed by use; or the habit of the body, as we say one stronger than another; or the habit of those things which are accommodated externally to the members, as when we say someone clothed, shod, and the like. In all the kinds it is manifest that habit is said in that thing which befalls someone, in such a way that he can also not have it. But this name is drawn from that verb which is *to have*. Habit, therefore, is said in that thing which, that it may be had, befalls or accedes to us»[^10c].
+
+<!-- page 146 -->
+
+### Chap. VI. *Four species of habit are distinguished.*
+
+(*Augustine. Species 1.*) «Nevertheless this much is of interest, that certain of those things which befall or accede, so as to make a habit, are not changed, but themselves change, remaining in themselves whole and unshaken; as wisdom, acceding to a man, is not itself changed, but changes the man, whom it makes wise from foolish. — (*Species 2.*) But certain things accede or befall in such a way that they both change and are changed, like food, which, losing its own species, is turned into the body, and we, refreshed by food, are changed from leanness[^1d] and languor into strength and vigor. — (*Species 3.*) The third kind is when those things which befall or accede neither change those to which they befall, nor are themselves changed by them, like a ring placed on the finger; which kind is very rarely found. — (*Species 4.*) The fourth kind is when those things which befall are changed not from their own nature, but receive another species and form, as is a garment, which, cast off and laid aside, does not have that form which it takes when put on; for when put on it receives from the members the form which it did not have when taken off. Which kind suits this comparison. For God the Son emptied himself, not changing his own form, but taking the form of a servant, neither converted nor transmuted into man[^2d], the unchangeable stability being lost, but in the likeness of men he himself became the receiver, by receiving true man was found in habit as a man, that is, by having a man was found as a man, not for himself, but for those to whom he appeared in the man». But that he says *as a man* expresses the truth. «By the name of habit, therefore, the Apostle sufficiently signified in what manner he said *made in the likeness of men*, because not by transfiguration into man, but by habit he was made, when he was clothed with man, whom, uniting to himself in a certain way and conforming, he might associate with immortality and eternity. It is not necessary, therefore, to understand that the Word was changed by the reception of man, just as neither are the members changed by a garment put on, although that reception ineffably joined the received to the receiver[^3d]». — By these words Augustine seems openly to intimate that God is said to have been made man according to habit. He also, wishing to express the manner of the incarnation itself, (*Augustine.*) in the fourth book *On the Trinity*[^4d] says: «If it is asked how the incarnation itself was done, I say that the Word of God itself was made flesh, that is, made man, yet not in this, that what was made was converted and changed», but by flesh, that it might fittingly appear to carnal beings, clothed. «So indeed it was done, that there is there not only the Word of God and the flesh of man, but also the rational soul of man; and that this whole both is called God on account of God, and man on account of man. But if this is difficult to understand, let the mind be purged by faith, by abstaining from sins and doing good; for these things are difficult». (*Fulgentius.*) The same in the book *On the Faith to Peter*[^5d]: «The Son of God, since he is eternal and true God, was for us made true and full man: in him true, because that God has true human nature; in him truly full, because he both took up human flesh and a rational soul». Likewise: «That emptying of the most high God was nothing other than the taking up of the servile form, that is, of human nature. Each form, therefore, is in Christ, because each is true and full substance in Christ», namely the divine and the human. The same in the book *against Maximinus*[^6d]: «Although he was through himself invisible, he appeared visible in the man, whom he deigned to take up from a woman». Likewise in the same work: «We believe that Christ the Lord took up a true man, and that in him the invisible appeared visibly to men, that in him he conversed among men, that in him he endured human things from men, that in him he taught men». (*Hilary.*) Hilary also in the tenth book *On the Trinity*[^7d] says: «How was the Son of God born of Mary, except that *the Word was made flesh*, namely that the Son of God, when he was in the form of God, took the form of a servant? Yet we profess one and the same, not by a defection of God, but by an assumption of man, both to have been in the form of God by the divine nature, and in the form of a servant by the conception of the Holy Spirit found according to the habit of man». «That habit was not only of a man, but as of a man; nor was that flesh the flesh of sin, but in the likeness of the flesh of sin». — You have heard three opinions set down according to diverse authors, and the testimonies adduced for each.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. The Quaracchi edition restarts footnote numbering on each printed page; markers are suffixed (e.g. `1b`, `1c`, `1d`) to keep them unique within this chunk. The Distinction VI littera footers print under the running heading **NOTAE AD LIBR. SENTENTIARUM** ("Notes on the Book of the Sentences"), separately from the commentary notes.
+
+[^1]: **La.** Cod. D *in*, codd. A C et ed. 6 omittunt praepositionem.
+    **En.** Codex D reads *in*; codices A, C, and edition 6 omit the preposition.
+
+[^2]: **La.** Libr. XIII. c. 19. n. 24. Respicitur Ioan. 1, 14. — Pro *ineffabilis* cod. A et ed. 8 *ineffabili*.
+    **En.** Book XIII, c. 19, n. 24 [Augustine, *On the Trinity*]. Reference is to John 1:14. — For *ineffabilis* codex A and edition 8 read *ineffabili*.
+
+[^3]: **La.** Cap. 38. n. 12; seq. locus ibid. c. 35. n. 10; tertius c. 36. n. 11. — In tertio loco pro *et hoc unicus*, quod codd. A B C D, ed. 6 et originale habent, alii codd. et edd. *et hic unicus*.
+    **En.** C. 38, n. 12 [Augustine, *Enchiridion*]; the following passage ibid., c. 35, n. 10; the third c. 36, n. 11. — In the third place, for *et hoc unicus* ("and this the one"), which codices A, B, C, D, edition 6, and the original have, other codices and editions read *et hic unicus* ("and here the one").
+
+[^1b]: **La.** In omnibus codd. et edd., exceptis 6, 8, *propterea*; deinde Vat. cum edd. 2, 3, 4, 5, 6, 7, 9 *quia est ab illo suscepta caro facta est* pro *quod illo suscepto caro factum est*, cod. A D *Verbum, quod ab illo suscepta caro facta*; cod. B et ed. 1 *verbum, quod illo suscepta...* Cum ed. 8 maluimus recipere textum originalis, cum omnes aliae lectiones corruptae sint; tolerari autem poterit lectio ex diversis sic conflata: *et hic unicus, et propterea Dei (Augustinus Deum) Verbum; quia ab illo suscepta caro facta est utique Deus*.
+    **En.** In all codices and editions, except 6 and 8, *propterea*; then the Vatican edition with editions 2, 3, 4, 5, 6, 7, 9 reads *quia est ab illo suscepta caro facta est* for *quod illo suscepto caro factum est*; codices A and D *Verbum, quod ab illo suscepta caro facta*; codex B and edition 1 *verbum, quod illo suscepta...* With edition 8 we preferred to receive the text of the original, since all the other readings are corrupt; the reading thus conflated from the various ones may, however, be tolerated: *and here the one, and therefore the Word of God (Augustine: God), because the flesh assumed by him was made God indeed*.
+
+[^2b]: **La.** Tract. 78. n. 3.
+    **En.** Tractate 78, n. 3 [Augustine, *On John*].
+
+[^3b]: **La.** Cap. 15. n. 30. Seq. locus ibid. n. 31.
+    **En.** C. 15, n. 30 [Augustine, *On John*]. The following passage ibid., n. 31.
+
+[^4b]: **La.** Cap. 17. n. 22.
+    **En.** C. 17, n. 22 [Augustine, *On the Predestination of the Saints*].
+
+[^5b]: **La.** Num. 57.
+    **En.** N. 57 [Augustine, *On the Trinity*, bk. XIII].
+
+[^6b]: **La.** Edd. 1, 8 *potestatem*. In fine capituli cod. G et ed. 1 omittunt *et* ante *Deus*.
+    **En.** Editions 1 and 8 read *potestatem* ("power"). At the end of the chapter codex G and edition 1 omit the *et* before *Deus*.
+
+[^7b]: **La.** Vat. *sed, incarnatione facta*, refragantibus codd. et aliis edd.; paulo superius ante *solummodo* eadem cum codd. D E et edd., exceptis 1, 3, 8, adiicit *vero*.
+    **En.** The Vatican edition reads *sed, incarnatione facta*, the codices and the other editions resisting; a little above, before *solummodo*, the same edition with codices D, E and the editions, except 1, 3, 8, adds *vero*.
+
+[^8b]: **La.** Codd. A C D E *ille*, et cod. B cum edd. 2, 3, 4, 7, 9 *illa*.
+    **En.** Codices A, C, D, E read *ille*, and codex B with editions 2, 3, 4, 7, 9 *illa*.
+
+[^9b]: **La.** Sumtum est ex Decret. Gratiani, 48. de Consecrat. d. 2. *Hoc est quod dicimus*, ubi etiam legitur: *Augustinus in libro Sententiarum Prosperi*, (in quo tamen haec verba non inveniuntur), et in notis citantur Lanfrancus et Algerus.
+    **En.** It is taken from Gratian's *Decretum*, 48, *On the Consecration*, d. 2, *Hoc est quod dicimus*, where it is also read: *Augustine in the book of the Sentences of Prosper* (in which, however, these words are not found), and in the notes Lanfranc and Alger are cited.
+
+[^10b]: **La.** Libr. III. de Fide orthod. c. 4; seq. locus ibid. c. 7; tertius c. 3.
+    **En.** Book III, *On the Orthodox Faith*, c. 4 [John Damascene]; the following passage ibid., c. 7; the third c. 3.
+
+[^11b]: **La.** Cod. D *assumendo primitiam*, etiam codd. A B E et edd. 1, 2, 3, 4, 7, 9 habent *primitiam* (ἀπαρχήν), cod. C, Vat. et ed. 8 *primitias*; deinde pro *carni*, quod habent Vat. et edd. 2, 3 cum codd. A E, cod. D *carnis*; in aliis *in carne*. Paulo inferius ante *composita* cod. B et edd. 2, 3, 4, 7 omittunt *et*; Vat. legit *etiam composita et facta fuerit*.
+    **En.** Codex D reads *assumendo primitiam*; codices A, B, E and editions 1, 2, 3, 4, 7, 9 also have *primitiam* (*aparchēn*); codex C, the Vatican edition, and edition 8 *primitias*; then for *carni*, which the Vatican edition and editions 2, 3 with codices A, E have, codex D *carnis*; in others *in carne*. A little below, before *composita*, codex B and editions 2, 3, 4, 7 omit *et*; the Vatican edition reads *etiam composita et facta fuerit*.
+
+[^1c]: **La.** Vat., et fere etiam ed. 6, ita legit: *habentibus, eandem hypostasim deitatis et humanitatis dicentes incarnatam esse*. Vocem ultimam *esse* adiungunt etiam edd. 3, 4, 5, 7, 9.
+    **En.** The Vatican edition, and almost also edition 6, reads thus: *habentibus, eandem hypostasim deitatis et humanitatis dicentes incarnatam esse*. The final word *esse* is added also by editions 3, 4, 5, 7, 9.
+
+[^2c]: **La.** Potius Serm. 238. (in append. n. 3.).
+    **En.** Rather Sermon 238 (in the appendix, n. 3).
+
+[^3c]: **La.** Cap. 17. n. 22.
+    **En.** C. 17, n. 22 [Augustine, *On the Trinity*].
+
+[^4c]: **La.** Vat. et pleraeque edd. *natura*, refragantibus codd. et edd. 1, 8.
+    **En.** The Vatican edition and most editions read *natura*, the codices and editions 1, 8 resisting.
+
+[^5c]: **La.** Cfr. Gregor., I. super Ezechiel. Hom. 8. n. 24. 25, et de seqq. August., 83 Qq. q. 11.
+    **En.** Cf. Gregory, *On Ezekiel* I, Homily 8, nn. 24, 25, and on what follows Augustine, *Eighty-three Questions*, q. 11.
+
+[^6c]: **La.** Vat. cum plerisque edd. *vere*.
+    **En.** The Vatican edition with most editions reads *vere*.
+
+[^7c1]: **La.** Cod. E et edd. 2, 3, 4, 5, 6, 7, 9 addunt *sensu*.
+    **En.** Codex E and editions 2, 3, 4, 5, 6, 7, 9 add *sensu* ("from their own sense"). — This footer (Quaracchi p.145 right-col note 7) attaches to *de suo* in Cap. V; the identical note also covers the p.145 right-col note 6 anchor below.
+
+[^7c2]: **La.** Cod. E et edd. 2, 3, 4, 5, 6, 7, 9 addunt *sensu*.
+    **En.** Codex E and editions 2, 3, 4, 5, 6, 7, 9 add *sensu* ("from their own sense").
+
+[^8c]: **La.** Epist. (alias 120.) 140. c. 4. n. 11. 12.
+    **En.** Letter (otherwise 120) 140, c. 4, nn. 11, 12 [Augustine].
+
+[^9c]: **La.** Quaest. 73. n. 1; continuatur hic locus etiam in seq. cap.; locus Scripturae est Phil. 2, 7.
+    **En.** Question 73, n. 1 [Augustine, *Of Eighty-three Questions*]; this passage is continued also in the following chapter; the Scripture passage is Philippians 2:7.
+
+[^10c]: **La.** Vat. cum originali omittit *vel accedit*; cod. K tantum *accedit*, et infra pluries idem dicendum de *accidunt vel accedunt*; deinde ante *mutant* Vat. et edd. 6, 8 adiiciunt *nos*.
+    **En.** The Vatican edition with the original omits *vel accedit*; codex K reads only *accedit*, and below the same is to be said several times of *accidunt vel accedunt*; then, before *mutant*, the Vatican edition and editions 6, 8 add *nos*.
+
+[^1d]: **La.** Cod. D *imbecillitate*, et paulo inferius pro *cum ea* habet *in his*.
+    **En.** Codex D reads *imbecillitate*, and a little below, for *cum ea*, has *in his*.
+
+[^2d]: **La.** Codd. A D et ed. 1 *homine*, et deinde codd. A B C E et edd. 3, 5, 6, 7, 9 pluries *similitudine* pro *similitudinem*; denique post *suscipiendo* codd. omnes et edd. 1, 5 addunt *et*.
+    **En.** Codices A, D and edition 1 read *homine*, and then codices A, B, C, E and editions 3, 5, 6, 7, 9 several times read *similitudine* for *similitudinem*; finally, after *suscipiendo*, all the codices and editions 1, 5 add *et*.
+
+[^3d]: **La.** Ibid. n. 2.
+    **En.** Ibid., n. 2.
+
+[^4d]: **La.** Cap. 21. n. 31, ubi et seq. locus.
+    **En.** C. 21, n. 31 [Augustine, *On the Trinity* IV], where also the following passage.
+
+[^5d]: **La.** Cap. 2. n. 10. — Pro *Dei Filius* codd. A D E et edd. 4, 5, 8 *Deus Filius*, refragante etiam originali. Seq. locus ibid. n. 20. 21, in quo Vat. et plurimae edd., exceptis 1, 8, ante *exinanitio* praefigunt *susceptio vel*.
+    **En.** C. 2, n. 10 [Fulgentius, *On the Faith to Peter*]. — For *Dei Filius* codices A, D, E and editions 4, 5, 8 read *Deus Filius*, the original also resisting. The following passage ibid., nn. 20, 21, in which the Vatican edition and most editions, except 1, 8, prefix before *exinanitio* the words *susceptio vel*.
+
+[^6d]: **La.** Est potius liber *de Fide contra Manichaeos* c. 22 (inter opera Augustini); seq. locus ibid. c. 26, ubi edd. 1, 5, 8 *Christum Deum* pro *Christum Dominum* et cum cod. E *in Christo* pro *in ipso*. — Respicitur ibi Bar. 3, 38.
+    **En.** It is rather the book *On the Faith against the Manichaeans* c. 22 (among Augustine's works); the following passage ibid., c. 26, where editions 1, 5, 8 read *Christum Deum* for *Christum Dominum*, and with codex E *in Christo* for *in ipso*. — Reference is there to Baruch 3:38.
+
+[^7d]: **La.** Num. 22. — Pro *per naturam* Vat. cum pluribus edd. *propter naturam*. Seq. locus est ibid. n. 25.
+    **En.** N. 22 [Hilary, *On the Trinity* X]. — For *per naturam* the Vatican edition with several editions reads *propter naturam*. The following passage is ibid., n. 25.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Distinction VI littera Magistri (Peter Lombard, *Sentences* III, d. 6), as printed at the head of d.6 in S. Bonaventurae *Opera Omnia* III (Quaracchi 1887), pp. 143–146, immediately before the COMMENTARIUS IN DISTINCTIONEM VI. Latin re-set from the IA djvu OCR (raw lines 10440–10670) cross-checked against the 450 dpi PDF column bands (`/tmp/colcrop/vol3-p14{3,4,5,6}-{L,R}-*.png`), read Left column top→bottom then Right per page. The Vol III body OCR is clean for running prose; the page footers cascade-fragment and were re-set from the PDF footer bands.
+
+**Structure.** Six chapters, Cap. I–VI. Cap. I states the question; Cap. II–VI lay out the *three opinions* on the locution "God was made man" (Opinion 1 = the *homo assumptus* / gratia view, Caps. I–II; Opinion 2 = the *compositum ex tribus substantiis* view, Cap. III; Opinion 3 = the *habitus* view, Caps. IV–VI). This is the classic three-opinions distinction of Lombard. The d.6 structure was re-verified from raw before promotion: littera = Cap. I–VI (raw 10440–10670); **COMMENTARIUS IN DISTINCTIONEM VI begins at raw 10671**, with DIVISIO TEXTUS at raw 10675 (→ goes in `bon-sent-III-d6-divisio`). No pars division. ARTICULUS I (raw 10760: q1 raw 10764, q2 raw 11044, q3 raw 11166); ARTICULUS II (raw 11359: q1 raw 11369, q2 raw 11522, q3 raw 11725); DUBIA CIRCA LITTERAM MAGISTRI at raw 11836; **DISTINCTIO VII begins at raw 11982**. This matches the auto-chunk scaffold (a1-q1/q2/q3, a2-q1/q2/q3, littera, divisio, dubia = 9 chunks).
+
+**Page-split map.**
+- **p.143** (PDF 165): the littera opens at the bottom of the *right* column (the d.5 dubia commentary fills the rest of p.143). Cap. I title-summary + body; Cap. II title-summary + opening of Opinion 1. Footers: **NOTAE AD LIBR. SENTENTIARUM** notes 1–3 (`[^1]`–`[^3]` = Cod. D omits prep. / *de Trin.* XIII c.19 / *Enchiridion* c.38).
+- **p.144** (PDF 166): Cap. II body (Augustine/Hilary testimonies) + Cap. III title + Opinion 2 opening. Footers 1–11 (`[^1b]`–`[^11b]`; left col 1–7, right col 8–11).
+- **p.145** (PDF 167): Cap. III tail (Damascene) + Cap. IV title + Opinion 3 + Cap. V title + Augustine *de Gratia* + Cap.-VI-bound *Octoginta trium Quaestionum* opening. Footers 1–10 (`[^1c]`–`[^10c]`; left col 1–5, right col 6–10).
+- **p.146** (PDF 168): Cap. VI (four species of habit) + Augustine/Fulgentius/Hilary testimonies; littera ends just before COMMENTARIUS. Footers 1–7 (`[^1d]`–`[^7d]`).
+
+**Apparatus count: 31 entries** (p.143: 3; p.144: 11; p.145: 10; p.146: 7). Per-page numbering restarts; markers suffixed b/c/d to stay unique. Note: p.145 right-col footers 6 and 7 share the same lemma source (Cod. E + edd. add *sensu*) but attach to two distinct body markers (*Deus verus⁶* in Cap. IV and *de suo⁷* in Cap. V); rendered as `[^7c1]` and `[^7c2]` to preserve both anchors.
+
+**Footer hand-off.**
+- *Received from `d5-dubia`:* NONE. The d.5 dubia p.143 footers (notes 1b–4b) were exhausted in Dub. IV; the DIST VI littera footers print separately under NOTAE AD LIBR. SENTENTIARUM.
+- *Forwarded to `d6-divisio`:* NONE. The littera's p.146 footers 1–7 are fully exhausted within Cap. VI. The COMMENTARIUS footer block (**NOTAE AD COMMENTARIUM**, beginning "1 Cod. G *expositionem*" at the foot of p.146-R) belongs to `bon-sent-III-d6-divisio`, not to the littera.
+
+**Marginal labels.** Quaracchi's marginal labels are rendered inline in parentheses at their anchor points: *Opinio 1/2*, *Confirmator.* ("It is confirmed"), *Augustinus.*, *Hilarius.*, *Damascenus.*, *Fulgentius.*, *Dubium 2/3/4*, *Species 1/2/3/4*. (The "Dubium" marginalia here are the editor's cross-references to the d.6 dubia, not part of Lombard's text.)
+
+**`[?]` flags:** none. One editorial point worth recording: `[^1]` (note 1 = "Cod. D *in*… omittunt praepositionem") is anchored to the locution *Deus est homo* in the Cap. I heading, the nearest preposition-bearing lemma; the Quaracchi note does not quote its lemma verbatim, so the exact in-line anchor is editorial. The text reading itself is unambiguous.
