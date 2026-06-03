@@ -1,6 +1,18 @@
 # Bonaventure Sentences — Next Session Resume
 
-**Last updated:** 2026-06-02 (Vol III d4-divisio DONE, commit 77d2039 — COMMENTARIUS IN DISTINCTIONEM IV + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM, single printed p.97, **has_apparatus: false / has_scholion: false** (the 3 p.97 footers belong to the Cap. III littera, captured there as [^11]–[^13]; the divisio + tractatio carry no markers); TRACTATIO lists 3 articles, Art. I has 3 quaestiones; ARTICULUS I begins raw 7346 on printed p.98, NOT leaked; NEXT = bon-sent-III-d4-a1-q1, raw 7346+, printed p.98+)
+**Last updated:** 2026-06-02 (Vol III d4-a1-q1 DONE, commit 7ca8524 — ARTICULUS I, QUAESTIO I *Utrum Filii Dei incarnatio debeat appropriari Patri, an Spiritui sancto*; printed pp.98–100 (PDF 120–122; raw 7346–7498); **has_apparatus: true (20 entries: p.98 [^1]–[^11], p.99 [^12]–[^20]; p.100 = scholion only, no footers) / has_scholion: true (I–II, q1-specific, NO forward-cover)**; alignment PASS; NEXT = bon-sent-III-d4-a1-q2, raw 7499+, printed p.100+)
+
+## ✅ VOL III d4-a1-q1 DONE 2026-06-02 (commit 7ca8524) — ARTICULUS I, QUAESTIO I
+
+`ARTICULUS I.` *De conceptione Christi in comparatione ad Spiritum sanctum efficientem.* → `QUAESTIO I.` *Utrum Filii Dei incarnatio debeat appropriari Patri, an Spiritui sancto.* (ART. I opener folded into q1, no standalone divisio chunk). Latin re-set from 450 dpi column bands pp.98–100 (raw 7346–7498), fresh literal English, **20-entry apparatus** (p.98 1–11 → `[^1]`–`[^11]`; p.99 1–9 → `[^12]`–`[^20]`; **p.100 carries NO footer notes — only the scholion**). **`has_scholion: true`** (§I–II; §II = parallel-authorities list). Running heads: p.98 `98 SENTENTIARUM LIB. III.`; p.99 `DIST. IV. ART. I. QUAEST. I.` / `QUAEST. I. 99`; p.100 `100 SENTENTIARUM LIB. III.`. Marker pairing 20 La = 20 En = 20 defs. Build **1272 q / 918 translated** (+1). **No `[?]` flags.**
+
+**Alignment PASS:** QUAESTIO header `…appropriari Patri, an Spiritui sancto` = TRACTATIO q1; no q-swap. Siblings in raw: q2 (7499) *Utrum Christus possit dici filius Spiritus sancti*; q3 (7618) *Utrum Christus possit dici filius Trinitatis*.
+
+## NEXT ACTION → `bon-sent-III-d4-a1-q2` (ARTICULUS I, QUAESTIO II)
+
+**Raw 7499+, printed p.100+ (PDF 122+).** `QUAESTIO II.` *Utrum Christus possit dici filius Spiritus sancti.* Opener `Secundo quaeritur, utrum Christus possit dici filius Spiritus sancti. Et quod sic, videtur:` (raw 7499). Verify the `Secundo quaeritur…` alignment from raw before translating (auto-chunker q-swap risk; the TRACTATIO phrases this q2 as *utrum Spiritus sancti filius debeat Christus appellari* — the QUAESTIO-header form is authoritative). **Page-share / footer hand-off:** q2 begins on **printed p.100 R-col**, SHARING p.100 with q1's scholion. **NO footer forwarded** — q1's scholion carries no footers; p.100's first footer sequence belongs to q2's own body (args 1–2 `Fundamenta` already visible in the `vol3-p100-R-0.png` band: arg 1 Damascene *Descendit in Virginem Verbum tanquam σπόρος*, arg 2 *pater dicitur qui deducit rem ad naturam*, arg 3 *filiatio respicit hypostasim*). So q2 opens a FRESH p.100 footer sequence. **Scholion forecast:** q1's scholion is q1-specific (no forward-cover), so q2 likely carries its OWN scholion — check the page after q2's replies. q3 (`QUAESTIO III`, raw 7618) follows. Build per the standard quaestio recipe.
+
+---
 
 ## ✅ VOL III d4-divisio DONE 2026-06-02 (commit 77d2039) — COMMENTARIUS IN DIST. IV + DIVISIO TEXTUS + TRACTATIO QUAESTIONUM
 
@@ -10,7 +22,7 @@
 
 **d.4 structure (NO pars division — single undivided distinction):** commentary has **3 articles**. Art. I = *De conceptione Christi in comparatione ad Spiritum sanctum efficientem*, **3 quaestiones**. Art. II = *quantum ad gratiam intervenientem*. Art. III = *quantum ad Virginem concipientem*.
 
-## NEXT ACTION → `bon-sent-III-d4-a1-q1` (ARTICULUS I, QUAESTIO I)
+## ✅ d4-a1-q1 DONE (was NEXT ACTION) — see top-of-file entry (commit 7ca8524)
 
 **Raw 7346+, printed p.98+ (PDF 120+).** `ARTICULUS I.` *De conceptione Christi in comparatione ad Spiritum sanctum efficientem.* → `QUAESTIO I.` **Utrum Filii Dei incarnatio debeat appropriari Patri, an Spiritui sancto** (raw 7346–7355; note the title_la phrasing differs slightly from the TRACTATIO's `utrum … appropriari debeat personae Spiritus sancti` — the QUAESTIO header form is authoritative). Art. I has **3 quaestiones** per the TRACTATIO: q1 above; q2 *utrum Spiritus sancti filius debeat Christus appellari*; q3 *utrum Christus possit dici filius Trinitatis*. **NO inherited footer** — ARTICULUS I opens on a fresh printed p.98 (its own footer sequence). Verify the `videtur quod / Primo… Secundo…` opener alignment from raw before translating (auto-chunker q-swap risk). Build per the standard quaestio recipe.
 
