@@ -6,313 +6,251 @@ distinctio: 11
 articulus: 2
 quaestio: 2
 type: quaestio
-line_start: 17785
-line_end: 18073
-word_count_latin: 4284
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Utrum haec sit concedenda: iste homo incepit esse, Christo demonstrato"
+title_en: "Whether this is to be conceded: this man began to be, Christ being pointed out"
+printed_pages: [251, 252, 253, 254, 255]
+pdf_pages: [273, 274, 275, 276, 277]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 251–255"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from 450 dpi PDF column bands pp.251–255 (raw lines 17785–18073), fresh literal English, 25-entry apparatus (p.251 nn.4–8 inbound + p.252 nn.1–9 + p.253 nn.1–5 + p.254 nn.1–6), scholion (I–III) translated and forward-covering q3 (2026-06-03)"
 format_version: 1
 ---
 
 # bon-sent-III-d11-a2-q2
 
+## *Whether this is to be conceded: this man began to be, Christ being pointed out*
+
+---
+
 ## Latin
 
-QUAESTIO II.
-                           Utrum haec sit concedenda : iste homo incepit esse , Christo demonstrato.
+<!-- page 251 -->
 
-             Secundo quaeritur, utrum haec sit concedenda:                   praedicatiim modo convenit subiecto ; et prius non
-        iste homo incepit esse , Christo demonstrato. Et quod                conveniebat : ergo incipit convenire: ergo haec est
-        sic, videtur.                                                        vera : isle homo incipit esse.
-                1. Augustinus super Ioannem 4 : « Antequam                         4. Item, bene sequitur: iste homo est, ergo
- Argg. pro mundus fieret, nec nos eramus, nec mediator Dei                   iste est homo, pro eo quod ex propositione, in qua
-aarte allir-      .                .
-mati?a.    et hominuin, homo Chnstus lesus »: si ergo non erat               clauditur implicatio, licel ipsam implicationem in-
-           anle mundi constitutionem, ergo incepit esse.                     ferre — sequitur enim: homo albus currit,ergo homo
-                2. Item, nasci et generari esl mutari secundum               est albus ' — ergo sequitur: iste homo est vel fuit
-       substantiam el produci de non-esse in esses ; sed                     ab aeterno, ergo iste fuit ab aeterno homo. Sed haec
-       idem esl omnino produci in esse et incipere esse :                    est falsa: iste, demonstrato Christo, ab aeterno fuit
-       cum ergo haec sit vera : iste homo nascitur, et haec:                 homo : ergo el baec : isle homo est vel fuit ab ae-
-       iste homo in esse producitur; haec erit vera : iste                   terno ; et modo est vera: restat igitur, quod incipiat
-       homo incipit esse.                                                    esse vera : ergo haec est vera : iste homo incipit esse.
-            3. Item, ante mnndi constitutionem haec est                          Sed  contra : 1. Ioannis oclavo8:    Antequam negaliva.
-                                                                                                                                p™ parte
-                                                                               ■  ,     f,                    .    .
-       vera: nullus homo est, et haec est falsa : aliquis                    Abraham fieret, ego sum, pari ralione et, ante-
-       homo est: ergo et haec falsa: iste homo est, de-                      quam caelum fieret : ergo si idem demonstratur per
-       monstrato Christo ; et haec modo est vera 6 : ergo                    boc pronomen ego et per hoc pronomen iste , vide-
+### Quaestio II. *Utrum haec sit concedenda: iste homo incepit esse, Christo demonstrato.*
 
+Secundo quaeritur, utrum haec sit concedenda: iste homo incepit esse, Christo demonstrato. Et quod sic, videtur.
 
-            1 Cfr. supra pag. U, nola 3. — Paulo infetitts pro nec                e Cod. K sic: Item, anle mundi... nullus Iwmo est; ergo
-       praesupponit codd. G bb niliil praesupponit.                          haec est falsa: aliquis homo esl; et si haec csl falsa : aliquis
-            * Scil. aclus creandi.                                           homo est, demonstrato Cliristo , et haec modo est vera elc.
-            3 Hic c. I. in inilio et c. 2. in (Ine.                          Deinde addil: Item nullo homine existente , liaec est fulsa:
-            ' Tract. 105. n. 7: Priusqiiam niundus esset, nec nos ele.       iste homo est, demonstialo Christo, el modoestvera, quibus
-            5 Cfr. supra pag. III, nola II. — In minori Vat. post            verbis adieclis prosequilur: ergo praedicalum etc.
-       prodnci in esse addit post non-esse. In (ine arg. eadem Val.               7 Cfr. Aristol., II. Topic. c. I. e( II. Periherm. c. 2. (c.
-       cum edd. 1 , 2 ante eril vera inserit etiam (cod. K ergo) et          II.). Cfr. e(iam Pelr. Ilispan., Siimmul. (r. de locis topic. loc.
-       dein cum compluribus eodd. pro incipit e.ise substituit incepil       de To(o in modo.
-       esse. Etlam in seqq. Vat., f.ivenlibus compluribus codcl., pluries          8 Vers. -SS. Cfr. bic li(. Magistri , c. 3. — In (Ine huius et
-       exhibel incepit esse pro incipit esse, sed nostra lectio in prae-     diiorum seqq. argg. codd. A F V bb, refragantibus plerisque
-       sidium habet maiorem partem codd.                                     aliis codd., pro incepil esse babent incipit esse.
-282                                                SENTENTIARUM LIB. III.
+1. Augustinus *super Ioannem* 4[^1]: « Antequam mundus fieret, nec nos eramus, nec mediator Dei et hominum, homo Christus Iesus »: si ergo non erat ante mundi constitutionem, ergo incepit esse.
 
-tur, quod haec sit vera: iste homo fuit ante mundi                       4. Item, sicut supra5 habilum fuit, isle termi-
-constitutionem : ergo haec est falsa: iste homo in-                 nus homo, dictus de Christo, quodam modo habet
-cepit esse.                                                         naturam termini accidentalis , quia in termino ac-
-      2. Item , Magister ' concedit hanc : « Iste puer              cidentali suppositum praeexistere polest formae ; sic
-creavit stellas »; sed cui vere attribuitur creare cae-             et in proposito est reperire. Sed regula dalur , quod
-lum , vere altribuitur semper esse: ergo iste puer                  terminus accidentalis , supponens verbo de praete-
-semper fuit : ergo haec est falsa : iste puer incepit               rito6, potest supponere pro praesentibus, vel pro
-esse. Consimiliter haec negatur a Magistro : « Isle                 praeteritis, ila quod indifferenter potest reddere lo-
-homo sive Christus est creatura»; sed hoc non est                   cutionem veram pro his, vel illis. Nec propter hoc
-ob aliud , nisi quia per nomen creaturae importatur                 distinguitur locutio multiplex , quia non comparatur
-exitus de non-esse in esse: ergo pari ratione, vel                  ad illa tanquam ad significata, sed tanquarn ad
-raulto forliori haec est falsa : iste homo incepit esse.            supposita; sed talis locutio dicitur habere plures
-      3. Item, proprium est pronominis pro proprio                  causas veritatis '. Cum ergo dicitur : iste homo fuit ,
-nomine poni et certam designare personam ! : ergo                   sensus est: iste qui est homo, fuit, vel: iste qui
-cum dicitur: iste homo, hoc pronomen iste deraon-                   fuit homo, fuit. Sed haec simpliciter est vera : iste
-strat personam. Sed persona Christi semper fuit et                  qui est homo, ab aeterno fuit, ergo et haec: iste
-nunquam incepit esse: ergo haec est falsa: iste homo                homo ab aeterno fuit, ergo haec est falsa simplici-
-incepit esse. Si tu dicas , quod persona ibi large                  ter : iste homo incipit esse, et nullalenus distin-
-accipitur ; adhuc obiicitur, quia quidquid demon-
-strat, sive supposilum, sive personam proprie; vi-                  guenda.
-detur, quod adhuc falsa est locutio: quia expositio                                          CONCLUSIO.
-huius verbi incipit est haec : hoc incipit esse, ergo
-hoc raodo est , sed prius non fuit a. Si ergo haec est              Locutio : isle homo , Christo demonstrato , incepit
-vera : iste horao incipit esse , haec est vera : iste                    esse , polest cum distinctione admitti, scilicet
-horno modo est et prius non fuit. Sed quocumque                          quatenus iste demonslrat singulare hominis ,
-modo accipiatur , falsa est haec loculio : iste homo                     non personam Verbi.
-prius non fuit. Si enim pro persona, eius opposila
-est vera : iste homo prius fuit. Similiter si pro sup-                     Respondeo: Ad intelligentiam huius locutionis
-posiio, vera esl: iste homo prius fuit, propter com-                consideranda est responsio Magistri 8. Magister enim
-municalionem idiomatum. Sed non licet negare de                     respondet dicens, quod ad hanc locutionem « non est R»sp- Magi
-                                                                    „ferenda
-                                                                        , ,responsio. sme. distmctione
-                                                                                             .... »; lpse .    tamen non stri.
-aliquo quod vere affirinatur sive per proprietalem
-naturae, sive per unionem. Haec enim simpliciter                     dislinguit, sed determinat, quod incepit esse quan-
-esl falsa: homo non est Dens, quia eius opposita                    tum ad naturam, licet non quantum ad personam;
-est vera per unionem *. Cum ergo omni modo ista                      incepit esse secundum naturam humanam , sed non
-sit vera : iste homo semper fuit, haec omni modo                     incepit esse in quantum Verbum. — Sed certe iste <*<>n piene
-est falsa: iste homo incepit esse.                                   modus dicendi non sufucit opponenti lmportuno9.
+2. Item, nasci et generari est mutari secundum substantiam et produci de non-esse in esse[^2]; sed idem est omnino produci in esse et incipere esse: cum ergo haec sit vera: iste homo nascitur, et haec: iste homo in esse producitur; haec erit vera: iste homo incipit esse.
 
-      1 Hic c. 3. — lbid. c. I. habelur eliam allera senlenlia,            6 Verbi gr. illud : scutum fuit album, veriflcari potest tam
-paulo inferius ajlala. — Pro creare caelum edd. creare stellas.     de scuto, quod existere desiit, quam de sculo, quod adhuc
-      2 Cfr. supra pag. 227, nota 2.                                existit.
-      3 ln Tract. de exponibilibus proposilionibus (inler opera            7 Aristol., II. Topic. c. 2: «Rursum, quaecumque non se-
-Petri Hispani) capitulum invenilur, quod inscriptum est de tii-     cundum aequivocationem dicuntur multipliciler, sed alio modo,
-cipit et desinit; in quo cap., exposito prius, quomodo res esse     ut disciplina una pturium, ut flnis, aut ut eius quod ad finem,
-suum acquirant , vel in instanli et simul , vel successive et non   ut medicina eius quod sanitatem facit, ut quod cibat... aut ut
-simul, quatuor ponunlur regulae, quarum duae respiciunt re-         eius quod per se est , et eius quod per accidens » etc. Quae
-rum incipit, duae rerum desinit. « Prima esl, quod proposi-         verba B. Albert., II. Topic. tr. I. c. 5. commentans ail: Exem-
-tiones de incipit rerum, quarum esse tolum simul acquirilur,        plum proposilionis propositae, proprie loquendo, non est multi-
-exponunlur per unam copulativam [proposilionem], cuius prima        plex [acquivoca], sed, nomine multiplicis extenso, multiplex
-pars est aflirmativa de praesenti , secunda negativa de prae-       dicitur propositio, quae plures causas habet veritalis, cuius ve-
-terito, ut homo incipit esse i. e. bomo nunc est et immediate       rilas non destruilur, nisi omnibus modis et causis veritatis de-
-ante hoc non fuit. Secunda regula est, quod propositiones de        slructis; con struitur autem veritas, causa una constructa veri-
-incipit rerum, quarum esse acquiritur successive, exponunlur        tatis 8ciusdem.
-                                                                             Hic c. 3.— Paulo superius pro distinguitur edd. dicitur.
-per unam copulativam, cuius prima pars est negativa de prae-
-senti et secunda affirmativa de futuro, ut hic: Socrates incipit          9 B. Albert., hic d. 12. a. I: Dicendum meo iudicio, quod
-esse albus i. e. Socrates nunc non est albus et immediate post      nulla solulio modernorum hic tantum valet, sicut auctoris [Ma-
-hoc erit albus» elc. — Paulo antc edd. quidquid demonstrat ,        gistri] solutio, quam ponit hic, quia cautissima est, quod sine
-demonstrat sive suppositum... proprie: ergo ridetur elc, et pro     distinclione inlellecta vel posita in sermone non reddatur re-
-hoc incipit esse: ergo hoc modo est codd. T bb incipit esse         sponsio... sunt tamen qui subtilitates hic rimati sunt, minus
-hoc, id est modo est.                                               tamen caulas simplicibus, licet verum dicant. Et auclor istarum
-      4 Cfr. supra d. 7. a. I. q. I. — Mox pro omni modo            solulionum est magister Wilhelmus Antissiodorensis » (cfr. eius
-est falsa codd. A G U omnino esl falsa.                             Sum. p. III. tr. 1. c. I. et 2.). Deinde, memorato duplici modo
-       5 Dist. 6. a. I. q. 3.                                       distinguendi loculioncm incipil, de quo hic inferius pluribus
-                                                                                                                                      233
-                                                      DIST. XI. ART. II. QUAEST. II.
-             Quaereret enim rationem multiplicitatis, et quem             bus, vel praeteritis per indijferentiam , non per mul-
-             sensum faciat dicta locutio, quantum est de vi ver-          liplicilatem. Praeterea, si dicatur : homo albus in-
-             borum ; et hoc non potest haberi ex verbis Magistri          cipit currere, incipit non ponit, quantum est de vi
-'Qouriiur
-  mododi-    ad Hliquidum.
-                       . — Et *   propterea
-                                      v  .   tentandum esl dislin-        vocabnli, inceptionem circa albedinem, sed ci rca cur-
- ugoendi. guere , si quo modo possimus aptare ' praedictae                sum. Et ideo adhuc iste modus dicendi esl calumnia-
-             locutioni convenientem distinguendi modum.                   bilis non modicum.
-                   Videtur aulem praedicta locutio posse distingui              Est etiam 2 tertius modus dicendi, quod hoc
-  opiDio i. ex eo , quod verbum incipiendi potest notare ince-            pronomen iste potest demonstrare personam Verbi, slicctiooe.
-                                                                                                                                 Opinio 3.
-                                                                                                                               cnra alia di-
-             ptionem respeclu veritalis lotius dicti, vel potest          vel singulare hominis. El si demonstret singidare
-             importare inceptionem rei praedicatae respeclu sub-          hominis , sic oportet concedere hanc : iste homo in-
-             iecti. Si primo modo, tunc est sensus : iste homo            cipit esse ; et hanc: iste homo est abaeterno: sicut
-             incepil esse, hoc est, locutio ista, scilicet iste homo      conceditur, quod iste homo est mortuus et immor-
-             est, incepit esse vera; et hoc absque dubio ve-              talis ; sed unum dicitur per communicationem idio-
-             rum est. Si autem dicat, inceptionem esse respe-             matum, alterum vero per proprietatem nalurae. Si
-             ctu eius quod demonstratur per hoc pronomen                  enim, cum Christus nascitur, aliquis homo mutatur
-             iste, cum illud habeat esse aeternum vel per pro-            de non-esse in esse ; necesse est, quod aliquis homo
-             priam naturam, vel idiomatum communicationem ;               incipiat esse ; sed non est verum pro alio homine
-on »r.proia. videtur tunc locutio falsa. — Sed hic modus dicendi          quam pro isto hornine. Iste ergo incipit esse per
-             calumniabilis est, tum quia non videtur, quod ver-           proprietatem nalurae; sed tamen ab aeterno dicitur
-             bum incipiendi habeat ferri super totum, cum nihil           esse, quia est Deus, qui est ab aeterno3. Si ergo
-             sit, quod reddat sibi suppositum; tum etiam , quia           iste homo demonstret singulare hominis , absque
-             non est quaestio, utrum oratio illa incipiat esse vera;      dubio vera est praedicta locutio. — Si autem de-
-             sed est quaestio, utrum res importata per hoc quod           monstret personam Verbi, falsa esl, falsa, inquam, Conclusio 2.
-             dicitur: isle homo incepit esse. Et sic iste modus           quantum ad proprietatem naturae, quia persona
-             dicendi non videtur in se valere nec etiam quaestio-         Verbi de sui natura est aeterna. Quantum etiam ad
-             nem terminare.                                               communicationem idiomatum non admittitur, quia
-                 Et propterea alius potest esse modus distin-             tale idioma non communicatur, propter hoc quod
- opiDio i guendi , et hoc semper supposito, quod incipit dicat            claudit repngnantiam intellecluum 4. — Et hic modus
-            inceptionem ra atlributae sive aclus in praedicato            dicendi rationabilis est et minus calumniabilis quam
-                                                                                                                                    Hic modus
-oisiinciio. respectu snbiecti. Sed hoc potest esse dupliciler: vel        praedicti et plus faeit ad propositum et magis consonat
-            quia potest notare inceplionem respectu rei impor-            verbis Magislri , qui dat sensum praedictae distinctio- dicendi    ma-
-                                                                                                                                  gis consonat
-            tatae per pronomen secundum se, vel sub ralione               nis, quamvis verba non ponat, ne desereret modum Magislro.
-            implicationis. Implicatur enim forma humanitatis,             theologicum. Moderniores vero oportet amplius ex-
-            cum dicilur: iste homo, id est, iste qui est homo.            plicare propter importunitatem quaerenlium. Deter-
-            Et si dicat inceptionem respectu subiecti sive per-           minat enim Magister, quod iste homo incepit esse,
-            sonae importatae per pronomen ; falsus esl sermo ,            secundnm quod homo, non autem secundum quod
-            quia persona illa non habet esse post non-esse. Si            Verbum. Quid autem est aliud dicere, nisi qnod per
-            vero respectu implicationis , vera est locutio ; est          illud pronomen potest demonstrari singulare homi-
-                                                                                                                                     Conclusio
-            enim sensus, quod isle inceperit esse, non quia isle,         nis5, vel persona Filii Dei? — Secundum hanc igitur
-            sed quia homo sive secundum naturam humanam.                  distinctionem non omnino concedenda est praedicta generalis.
-            Et potest poni exemplum. Si scutum prius fuerit et            loculio nec omnino neganda ; concedi enim potest
-            postmodum dealbetur, haec est duplex: scuturn al-             secundum unum sensum et negari secundum alium.
-            bum incipit esse, iuxta praediclum modum distin-              — Et ideo rationes , quae probant, praedictam locutio- Ad
-                                                                                                                                  menla.argn-
-            guendi. — Sed adhnc iste modus dicendi non minus              nem in aliquo sensu esse veram, et aliae, quae pro-
-                                                                          bant, in aliquo sensu esse falsam, pertransiri possunt,
-son proiu- "est calumniabilis quam praecedens, pro eo quod
-           haec locutio : scutnm album incipit esse, habet ex-            quia per istam distinctionem solvuntur. Secundum
-           poni per has duas : scutum album esl, et haec non              enim diversa membra utraeque verum concludunt,
-                                                                                                                                   De argg. 1.
-           est duplex ; et aliam, quae est: scutuin album prius           sicut sunt duae primae rationes ad primam partem
-           non fuit; et haec est falsa, quia eius opposita est            et primae duae ad partem secundam. Ad illas vero ettraipie
-                                                                                                                                  te.
-                                                                                                                                      2. propar-u-
+3. Item, ante mundi constitutionem haec est vera: nullus homo est, et haec est falsa: aliquis homo est: ergo et haec falsa: iste homo est, demonstrato Christo; et haec modo est vera[^3]: ergo praedicatum modo convenit subiecto; et prius non conveniebat: ergo incipit convenire: ergo haec est vera: iste homo incipit esse.
 
-           vera: scutum album fuit. Album euitri , cuhl sil ter-          quae ostendunt, locutionem esse veram simpliciler ,
- Nouodom minus accidentalis, potest supponere pro praesenti-              vel falsam simpliciler , respondendum est.
+4. Item, bene sequitur: iste homo est, ergo iste est homo, pro eo quod ex propositione, in qua clauditur implicatio, licet ipsam implicationem inferre — sequitur enim: homo albus currit, ergo homo est albus[^4] — ergo sequitur: iste homo est vel fuit ab aeterno, ergo iste fuit ab aeterno homo. Sed haec est falsa: iste, demonstrato Christo, ab aeterno fuit homo: ergo et haec: iste homo est vel fuit ab aeterno; et modo est vera: restat igitur, quod incipiat esse vera: ergo haec est vera: iste homo incipit esse.
 
-        verbis agitur, I). Alherl, dicii: Ecce, in qu.mtum potui inve-          3 Cfr. supra d. 10. a. I. q. 3. — In prlncip. huitis cntin-
-        sligare, haec est senlenlia Antissiodorensis. — Pro modus ili-    liali pro Isle ergo edd. Ille ergo homo.
-        OtluH edd. cum nonnullis codd. hic et pluries infra modus               4 Ul ostcnsum est supra q. I. — Inferius pro ne desere-
-        distinijuendi. Mox pro sensum fatiat benc mulli codd. minus       ret non pauci codd. nec deseret , cod. U vel deseral. Posl pau-
-        accuratc sensum faciet.                                           ca pro nporlet amplius explicare cod. 0 maijis explicare co-
-             1 Cod. Z adaptare.                                           nati sunl.
-             5 Pru etiam codd. A II I lv L T Z aa bb etiam adhuc , edd.        5 Cod. 0 hic (ex solut. ad 3.) addit id est atomum naturae
-        ndhuc , cod. (j autem.                                            humantie assumtum a Verbo. Cfr. SUpra pag. IS, nota i.
-          2o4                                                SENTENTIARUM LIB. III.
+**Sed contra:** 1. Ioannis octavo[^5]: *Antequam Abraham fieret, ego sum*, pari ratione et, antequam caelum fieret: ergo si idem demonstratur per hoc pronomen *ego* et per hoc pronomen *iste*, videtur,
 
-                  3. Ad illud vero quod obiicitur, quod ante mundi           sona aecipitur large pro omni quod reddit determi-
-r>e argg. 3. constitutionem haec est vera: nullus homo est; di-              natum suppositum verbo — potest enim dici : haec
- teaiiirmpar cendum , quod verum est; sed tamen non oportet ,                albedo — et sic polest bene demonstrare singulare
-              quod isla nunc ' sit vera : nullus homo fuit. Et ratio         suppositum hominis, id est atomum naturae huma-
-  Noiandum. huius est propter variationem supposilionis termini ;            nae, quod assumtum est a Verbo, vel ipsam hypo-
-             nam, sicut tactum est, iste terminus komo in Chri-              stasim, facta demonstratione non ad sensum, sed
-             sto habet modum supponendi termini accidentalis.                ad intellectum *. — Et si obiiciat, quod ih utroque
-             Sed illud argumentum non valet: haec fuit falsa :               sensu est falsa , quia haec in utroque sensu est
-             album disputat, ergo haec est falsa: album dispu-               vera: iste homo semper fuit; dicendum, quod in Notandum.
-             tavit 2 ; variatur enim modus supponendi ipsius ter-            talibus plus tolllt negatio , quam ponat affirmatio
-             mini. In prima enim habebal unicam suppositionem,               opposita. Haec enim simul stant, scilicet Christum
-             in secunda duplicem. Unde quamvis ista sit falsa :              esse mortalem et immortalem; sed istae duae lo-
-             iste homo est ante mundi constitutionem , nunc ta-              cutiones non simul stant : Christus est mortalis ,
-             men est vera : iste homo fuit ; quia sensus potest              Christus non est mortalis ; quia negatio magis negat
-             esse talis : iste qui nunc est homo , ante mundi con-            et removet significationem eius quod est mortale '- ,
-             stitutionem fuit ; ideo non valet ratio illa.                    quam immortale sibi oppositum. Per hunc etiam mo-
-                    4. Ad illud quod obiicitur, quod implicalio se-           dum intelligendum , qnod amplius negatur in hac :
-             quilur ad propositionem, in qua implicatur; dicen-               isle homo non fuit, quam in hac: iste homo incipit
-             dum, quod verum est secundum eam differentiam                    esse, quae est affirmativa, licet claudat negationem.
-             temporis, secundum quam implicatur. Unde bene                    Hae enim simul possunt esse verae : iste homo est
-             sequitur: si homo albus currit, homo est albus. Sed             "aeternus, et: iste homo incipit esse ; sed islae duae
-             cum haec implicatio est respectu verbi de praete-                nunquam : iste homo est aeternus , iste homo non
-             rito , tnnc habet duplicem suppositionem, quia sup-              est aeternus, ea ratione, qua diclum est. El ideo
-             ponit pro praesentibus et pro praeteritis. Et ideo non           non potest concludi, quod locutio praedicta sit falsa
-             sequitur : iste homo ab aelerno fuit, ergo ab aeterno           simpliciler.
-             fuit homo ; sicut non sequitur: hoc albumfuit, ergo                   4. Ad illud quod obiicitur, quod homo in Chri-
-  Noiandum. hoc fuit album ; quia regula est , quod terminus ap-              sto habet modum supponendi termini accidentalis ;
-             ponens verbo restringitur secundum consignificatum              dicendum, quod hoc potesl concedi in comparatione Nolaodam-
-             verbi, cuiuslibet temporis verbo apponat3; non au-              ad personam Christi, quae est supposilum huma-
-             tem sic est de termino ex parte subiecli. Et propte-            nitatis, in infinitum praecedens formam humanitatis;
-             rea ratio illa peccat ex mutatione suppositionis.               sed in comparatione ad singulare hominis verilatem
-                    Ad duas autem rationes ad oppositum non opor-            non habet 6. Unde quando iste homo demonstrat sin-
-Adargg.pro tet respondere , quia procedunt secundum allerum                  gulare hominis, necessario ad idem tempus refertur
-parte negat.
-             sensum, scilicet prout iste demonstrat personam.                suppositum importatum per pronomen et forma
-             Praelerea, non concludunt, quod praedicta locutio               importata per nomen. Et ideo haec est falsa : iste
-             sit falsa ; quia possunt hae simul stare, quod semper           homo fnit ab aeterno, nisi intelligatur per idioma-
-             fuerit et quod inceperit esse secundum diversas na-             lum communicalionem. Nam per proprietatem na-
-             turas.                                                          turae verum est dicere, quod iste homo exivit de
-             3. Sed ad illud quod obiicit tertio, quod pro-                  non-esse in esse per generationem. — Et sic palet re-
-         nomen demonstrat personam ; dicendum , quod per-                    sponsio ad tolum.
+<!-- page 252 -->
 
+quod haec sit vera: iste homo fuit ante mundi constitutionem: ergo haec est falsa: iste homo incepit esse.
 
-              1 Pro nunc plurimi codd. non; sed leeiionem nunc non           gregat... disgregavil [scil. visum]. Deinde inferius post isle
-         solum tuentur edd. cum pluribus codd., sed eliam subnexa            homo fuit Vat. repelit ante mundi constilutionem.
-         nec non responsum illud, quod S. Thom. dat, liic d. 12. q.                3 Huius dictionis senlentia est: terminus, qui verbo appo-
-         I. a. I. ad 3: Dicendum, quod ab aeterno verum fuisset di-          silus est (praedicatum), reslringitur ad illam temporis differen-
-         cere: Nullus homo est, quia suppositum aeternum nondum              tiam, quam verbum exprimit, scil. vel ad praeterilum, si est
-         erat suppositum humanue naturae; unde non poterat sumi sub          verbo praeteritum significariti appositus, vel ad praesens elc.
-         dicta distribulione, sicut nunc potest propter unionem. Unde '      Katio est, quia, cum nemo dare possit quod non habeat, ver-
-         quamvis ab aelerno non erat verum dicere: Aliquis homo est          bum, quod cum subiecto copulat praedicalum, in ipsum praedi-
-         aeternus, modo lamen est verum dicere: Aliquis vel iste homo        calum transit idque non copulare potest nisi sub ea temporis
-         esl ab aeterno.                                                     differenlia , quam in se continet. Cfr. Scot., super I. Periherm. q.
-               2 Similia exempla, ut album currit, album est musicum,        9. seqq. — I Mox pro Et propterea edd. el complures codd.
-         album aediticat etc, frequenlantur a Scholasticis, agentibus de     contra contextum Et praelerea. Subinde pro ex mutatione cod.
-         proposilionibus accidentalibus ; vide e. gr. eorum exposit. in      U ex commutatione.
-         II. Periherm. c. 2. Etiam Aristot., II. Phys. text. 33. (c. 3.),         4 Cfr. supra pag. 137, nota 6. et d. 10. a. I. q. 3.
-         dicit, quod o albus et musicus causa [accidenlaliter] dicantur             5 Siquidem in proposilione negaliva negatio explicite ha-
-         statuae», id est, si artifex etiam albus est et musicus. Propo-     betur, el afliciendo ipsam propositionis copulam, propositionem
-         sitionis: album disputavit, modus supponendi duplex est, quia,      negalivam reddit contradictoriam alteri propositioni. Cfr. etiom
-         ut in ultimo arg. et in corp. quaest. habetur, proposilio illa
-         verificari potest tam de praesenti quam de praeterilo. Cfr. infra   aliiseq.
-                                                                             q.    Hae in enim.
-                                                                                           fine. — Paulo superius pro Haec enim codd. G T et
+2. Item, Magister[^6] concedit hanc: « Iste puer creavit stellas »; sed cui vere attribuitur creare caelum, vere attribuitur semper esse: ergo iste puer semper fuit: ergo haec est falsa: iste puer incepit esse. Consimiliter haec negatur a Magistro: « Iste homo sive Christus est creatura »; sed hoc non est ob aliud, nisi quia per nomen *creaturae* importatur exitus de non-esse in esse: ergo pari ratione, vel multo fortiori haec est falsa: iste homo incepit esse.
 
-         solut. seq. — Pro album disputat... disputavit edd. album dis-          6 Cfr. supra d. 6. a. I. q. 3. et d. 10. a. I. q. 3.
-                                                           DIST. XI. ART. II. QUAEST. III.                                                     2SS
+3. Item, proprium est pronominis pro proprio nomine poni et certam designare personam[^7]: ergo cum dicitur: iste homo, hoc pronomen *iste* demonstrat personam. Sed persona Christi semper fuit et nunquam incepit esse: ergo haec est falsa: iste homo incepit esse. Si tu dicas, quod persona ibi large accipitur; adhuc obiicitur, quia quidquid demonstrat, sive suppositum, sive personam proprie; videtur, quod adhuc falsa est locutio: quia expositio huius verbi *incipit* est haec: hoc incipit esse, ergo hoc modo est, sed prius non fuit[^8]. Si ergo haec est vera: iste homo incipit esse, haec est vera: iste homo modo est et prius non fuit. Sed quocumque modo accipiatur, falsa est haec locutio: iste homo prius non fuit. Si enim pro persona, eius opposita est vera: iste homo prius fuit. Similiter si pro supposito, vera est: iste homo prius fuit, propter communicationem idiomatum. Sed non licet negare de aliquo quod vere affirmatur sive per proprietatem naturae, sive per unionem. Haec enim simpliciter est falsa: homo non est Deus, quia eius opposita est vera per unionem[^9]. Cum ergo omni modo ista sit vera: iste homo semper fuit, haec omni modo est falsa: iste homo incepit esse.
 
-                 Huius igitur responsionis tota summa in his                    cati non sit differentia. — Intelligatur etiam , quod
- amma re- (ribus consistit. ut intelligalur , qualiter pronomen                 possibile est, duo opposita affirmari de eodem in
- sponsionis                          ,. ' .
- est in in demonstrare   potest dnpliciter , scihcet personam                   Cbristo, ita quod unum dicilur per unionem, alte-
- dpiis.     Verbi, vel sinqulare hominis. — Intelligatur nihi-                  rum per proprietatem nalurae, sive de Deo, sive
-           lominus, quomodo ' differenlem supponendi modum                      de homine ; neutruin tamen istorum vere potest ne-
-           habet terminus accidenlalis et substanlialis respe-                  gari. Plus enim tollit negatio, quam ponat affirma-
-           ctu verbi de praelerito, quamvis ex parte praedi-                    tio, sicut dicilur alibi - et facililer posset ostendi.
+4. Item, sicut supra[^10] habitum fuit, iste terminus *homo*, dictus de Christo, quodam modo habet naturam termini *accidentalis*, quia in termino accidentali suppositum praeexistere potest formae; sic et in proposito est reperire. Sed regula datur, quod terminus accidentalis, supponens verbo de praeterito[^11], potest supponere pro praesentibus, vel pro praeteritis, ita quod indifferenter potest reddere locutionem veram pro his, vel illis. Nec propter hoc distinguitur locutio multiplex, quia non comparatur ad illa tanquam ad significata, sed tanquam ad supposita; sed talis locutio dicitur habere plures causas veritatis[^12]. Cum ergo dicitur: iste homo fuit, sensus est: iste qui est homo, fuit, vel: iste qui fuit homo, fuit. Sed haec simpliciter est vera: iste qui est homo, ab aeterno fuit, ergo et haec: iste homo ab aeterno fuit, ergo haec est falsa simpliciter: iste homo incipit esse, et nullatenus distinguenda.
 
-                                                                     SCHOLION.
+> ### Conclusio
+> *Locutio: iste homo, Christo demonstrato, incepit esse, potest cum distinctione admitti, scilicet quatenus iste demonstrat singulare hominis, non personam Verbi.*
 
-              I. Haec et sequens (3.) quaeslio esl de usu et signilica-         lias Lombardi in media hac distinclione explicil. A Fulgenlio
-        tione verborum. Hinc dissensus doctorum non consislit in ipsa           Gulluciu, cuius edilione (Romae 1623) in tertio libro senten-
-        re, cum omnes confueanlur, personam Christi esse aeternam, at           tiarum usi sumus, adilitum est quoddam supplemenlum ad
-        naturam humanam eius in lempore crealam; omnesque cum S.                nonnullas sequentes quaesliones, colleclum ex aliis .Egidii libris.
-        Fulgentio (Epist. 17. c. 10. n. 18.) fateanlur, quod Verbum incepit     Cum aulem hoc supplementum non magni sit momenti, dein-
-        esse Chrislus. Verbuin lamen mansit aeternumjet caro in ipso            ceps ,-Egidius inter auctores citatos omillilur. — Alex. Hal., de
-        sumsit inilium. De origine sublilium harum disceplalionum               hac et seq. q. S. p. III. q. 6. m. I. § 1. 2. — Scol., hic q. 3.
-        cfr. supra pag. 252, nola 9. Tres exorlae sunt de proprielale           — S. Thom., loc. cit.; S. III. q. 16. a. 9. — B. Albert., de
-        huius locutionis senlenliae. S. Thoni. enim cum Petro a Tar.,           hac el seq. q. hic a. I. — Petr. a Tar., III. Sent. d. 12. q.
-        ltichardo a Med. et plurimis aliis docet , eam simpliciter              unica a. I. — Richard. a Med., hic a. 3. q. I. — Durand.,
-        esse falsam; Scolus autem, eam in rigore verborum esse ve-              III. Sent. d. 12. q. I. — Dionys. Carth., III. Scnt. d. 12. q. I.
-        ram; S. Bonaventura cum Alexandro Hal. et B. Alberto di-                      III. Etiam seq. (3.) quaestio versalur circa loculionem am-
-        slinclionem adhibel et respondet, quod vera sit, si iste homo           biguam et fere coincidit cum quaestione (supra d. 7. a. I. q. 3.),
-        demonslret singulare hominis, ast falsa, si demonstret personam         quae est de locutione: homo factus est Deus; quae nun admilli
-        Verbi. Ipse autem supponil, quod pronomen iste praedicto                potest nisi cum quadam distinctione et tanlum in uno sensu. Si
-        duplici modo demonstrare possil (cfr. supra d. 10. a. I. q. 2.          concedilur assertio supra memorata, quod homo possit suppo-
-        ad I.). Sed S. Thom. (III. Senl. d. 12. q. I. a. I. in corp.)           nere pro singulari hominis per se; tunc haec locutio in uno
-        hanc dislinrlionem reprobat asserens, quocl quamvis in Christo          sensu est simpliciter vera , in allero vero simpliciter falsa. Atta-
-        sit « aliquid singnlare praeter personam Verbi; tamen illud             men a S. Thoma (S. III. q. 16. a. 7.) vix loleratur. De simili
-        singulare non supponilur per hoc nomen Iwmo , nec praedi-               diclione: homo assumtus csl Deus, quam insignis magisler
-        catur de Chrislo... El ideo palet, quorl ista dislinclio est se-        Uualferus de Yuuritania defenderat , circa an. 1140 Parisiis in
-        cundum primam [cfr. supra d. 6. post divisionem lextus] opi-            ulramque partem disputatum est; eandem Richardus a S. Viclore
-        nionem bona ». — Duiand. eliam vult, dislinctionem hic esse             defendit. Hoc refert D'Argenlre, Collectio iudiciorum t. 1. pag. 29.
-        adhibendanii cum locutio sit aequivoca.                                       S. Thom., Comment. loc. cit. a. 2. — Petr. a Tar., loc.
-             II. Notamus hic, quod commenlarius .'Fgidii R. in Senten-          cit. a. 2. — Richard. a Med., loc. cil. q. 2.
+**Respondeo:** Ad intelligentiam huius locutionis consideranda est responsio Magistri[^13]. Magister enim respondet dicens, quod ad hanc locutionem « non est ferenda responsio sine distinctione »; ipse tamen non distinguit, sed determinat, quod incepit esse quantum ad naturam, licet non quantum ad personam; incepit esse secundum naturam humanam, sed non incepit esse in quantum Verbum. — Sed certe iste modus dicendi non sufficit opponenti importuno[^14].
+
+<!-- page 253 -->
+
+Quaereret enim rationem multiplicitatis, et quem sensum faciat dicta locutio, quantum est de vi verborum; et hoc non potest haberi ex verbis Magistri ad liquidum. — Et propterea tentandum est distinguere, si quo modo possimus aptare[^15] praedictae locutioni convenientem distinguendi modum.
+
+Videtur autem praedicta locutio posse distingui ex eo, quod verbum incipiendi potest notare inceptionem respectu *veritatis totius dicti*, vel potest importare inceptionem rei praedicatae respectu *subiecti*. Si primo modo, tunc est sensus: iste homo incepit esse, hoc est, locutio ista, scilicet iste homo est, incepit esse vera; et hoc absque dubio verum est. Si autem dicat, inceptionem esse respectu eius quod demonstratur per hoc pronomen *iste*, cum illud habeat esse aeternum vel per propriam naturam, vel idiomatum communicationem; videtur tunc locutio falsa. — Sed hic modus dicendi calumniabilis est, tum quia non videtur, quod verbum incipiendi habeat ferri super totum, cum nihil sit, quod reddat sibi suppositum; tum etiam, quia non est quaestio, utrum oratio illa incipiat esse vera; sed est quaestio, utrum res importata per hoc quod dicitur: iste homo incepit esse. Et sic iste modus dicendi non videtur in se valere nec etiam quaestionem terminare.
+
+Et propterea alius potest esse modus distinguendi, et hoc semper supposito, quod *incipit* dicat inceptionem rei attributae sive actus in praedicato respectu subiecti. Sed hoc potest esse dupliciter: vel quia potest notare inceptionem respectu rei importatae per pronomen secundum se, vel sub ratione implicationis. Implicatur enim forma humanitatis, cum dicitur: iste homo, id est, iste qui est homo. Et si dicat inceptionem respectu subiecti sive personae importatae per pronomen; falsus est sermo, quia persona illa non habet esse post non-esse. Si vero respectu implicationis, vera est locutio; est enim sensus, quod iste inceperit esse, non quia iste, sed quia homo sive secundum naturam humanam. Et potest poni exemplum. Si scutum prius fuerit et postmodum dealbetur, haec est duplex: scutum album incipit esse, iuxta praedictum modum distinguendi. — Sed adhuc iste modus dicendi non minus est calumniabilis quam praecedens, pro eo quod haec locutio: scutum album incipit esse, habet exponi per has duas: scutum album est, et haec non est duplex; et aliam, quae est: scutum album prius non fuit; et haec est falsa, quia eius opposita est vera: scutum album fuit. *Album* enim, cum sit terminus accidentalis, potest supponere pro praesentibus, vel praeteritis per *indifferentiam*, non per *multiplicitatem*. *Praeterea*, si dicatur: homo albus incipit currere, *incipit* non ponit, quantum est de vi vocabuli, inceptionem circa albedinem, sed circa cursum. Et ideo adhuc iste modus dicendi est calumniabilis non modicum.
+
+Est etiam[^16] tertius modus dicendi, quod hoc pronomen *iste* potest demonstrare personam Verbi, vel singulare hominis. Et si demonstret singulare hominis, sic oportet concedere hanc: iste homo incipit esse; et hanc: iste homo est ab aeterno: sicut conceditur, quod iste homo est mortuus et immortalis; sed unum dicitur per communicationem idiomatum, alterum vero per proprietatem naturae. Si enim, cum Christus nascitur, aliquis homo mutatur de non-esse in esse; necesse est, quod aliquis homo incipiat esse; sed non est verum pro alio homine quam pro isto homine. Iste ergo incipit esse per proprietatem naturae; sed tamen ab aeterno dicitur esse, quia est Deus, qui est ab aeterno[^17]. Si ergo iste homo demonstret singulare hominis, absque dubio vera est praedicta locutio. — Si autem demonstret personam Verbi, falsa est, falsa, inquam, quantum ad proprietatem naturae, quia persona Verbi de sui natura est aeterna. Quantum etiam ad communicationem idiomatum non admittitur, quia tale idioma non communicatur, propter hoc quod claudit repugnantiam intellectuum[^18]. — Et hic modus dicendi rationabilis est et minus calumniabilis quam praedicti et plus facit ad propositum et magis consonat verbis Magistri, qui dat *sensum* praedictae distinctionis, quamvis *verba* non ponat, ne desereret modum theologicum. Moderniores vero oportet amplius explicare propter importunitatem quaerentium. Determinat enim Magister, quod iste homo incepit esse, *secundum quod homo*, non autem *secundum quod Verbum*. Quid autem est aliud dicere, nisi quod per illud pronomen potest demonstrari *singulare hominis*[^19], vel *persona Filii Dei*? — Secundum hanc igitur distinctionem non omnino concedenda est praedicta locutio nec omnino neganda; concedi enim potest secundum unum sensum et negari secundum alium. — Et ideo rationes, quae probant, praedictam locutionem in aliquo sensu esse veram, et aliae, quae probant, in aliquo sensu esse falsam, pertransiri possunt, quia per istam distinctionem solvuntur. Secundum enim diversa membra utraeque verum concludunt, sicut sunt duae primae rationes ad primam partem et primae duae ad partem secundam. Ad illas vero quae ostendunt, locutionem esse veram *simpliciter*, vel falsam *simpliciter*, respondendum est.
+
+<!-- page 254 -->
+
+3. Ad illud vero quod obiicitur, quod ante mundi constitutionem haec est vera: nullus homo est; dicendum, quod verum est; sed tamen non oportet, quod ista nunc[^1] sit vera: nullus homo fuit. Et ratio huius est propter variationem *suppositionis* termini; nam, sicut tactum est, iste terminus *homo* in Christo habet modum supponendi termini accidentalis. Sed illud argumentum non valet: haec fuit falsa: album disputat, ergo haec est falsa: album disputavit[^2]; variatur enim *modus supponendi* ipsius termini. In prima enim habebat unicam suppositionem, in secunda duplicem. Unde quamvis ista sit falsa: iste homo est ante mundi constitutionem, nunc tamen est vera: iste homo fuit; quia sensus potest esse talis: iste qui nunc est homo, ante mundi constitutionem fuit; ideo non valet ratio illa.
+
+4. Ad illud quod obiicitur, quod implicatio sequitur ad propositionem, in qua implicatur; dicendum, quod verum est secundum eam differentiam temporis, secundum quam implicatur. Unde bene sequitur: si homo albus currit, homo est albus. Sed cum haec implicatio est respectu verbi de praeterito, tunc habet duplicem suppositionem, quia supponit pro praesentibus et pro praeteritis. Et ideo non sequitur: iste homo ab aeterno fuit, ergo ab aeterno fuit homo; sicut non sequitur: hoc album fuit, ergo hoc fuit album; quia regula est, quod terminus apponens verbo restringitur secundum consignificatum verbi, cuiuslibet temporis verbo apponat[^3]; non autem sic est de termino ex parte subiecti. Et propterea ratio illa peccat ex *mutatione suppositionis*.
+
+Ad duas autem rationes ad oppositum non oportet respondere, quia procedunt secundum alterum sensum, scilicet prout *iste* demonstrat personam. *Praeterea*, non concludunt, quod praedicta locutio sit falsa; quia possunt hae simul stare, quod semper fuerit et quod inceperit esse secundum diversas naturas.
+
+3. Sed ad illud quod obiicit tertio, quod pronomen demonstrat personam; dicendum, quod *persona* accipitur *large* pro omni quod reddit determinatum suppositum verbo — potest enim dici: haec albedo — et sic potest bene demonstrare singulare suppositum hominis, id est atomum naturae humanae, quod assumtum est a Verbo, vel ipsam hypostasim, facta demonstratione non ad sensum, sed ad intellectum[^4]. — Et si obiiciat, quod in utroque sensu est falsa, quia haec in utroque sensu est vera: iste homo semper fuit; dicendum, quod in talibus plus tollit negatio, quam ponat affirmatio opposita. Haec enim simul stant, scilicet Christum esse mortalem et immortalem; sed istae duae locutiones non simul stant: Christus est mortalis, Christus non est mortalis; quia negatio magis negat et removet significationem eius quod est *mortale*[^5], quam *immortale* sibi oppositum. Per hunc etiam modum intelligendum, quod amplius negatur in hac: iste homo non fuit, quam in hac: iste homo incipit esse, quae est affirmativa, licet claudat negationem. Hae enim simul possunt esse verae: iste homo est aeternus, et: iste homo incipit esse; sed istae duae nunquam: iste homo est aeternus, iste homo non est aeternus, ea ratione, qua dictum est. Et ideo non potest concludi, quod locutio praedicta sit falsa *simpliciter*.
+
+4. Ad illud quod obiicitur, quod *homo* in Christo habet modum supponendi termini accidentalis; dicendum, quod hoc potest concedi in comparatione ad *personam* Christi, quae est suppositum humanitatis, in infinitum praecedens formam humanitatis; sed in comparatione ad *singulare hominis* veritatem non habet[^6]. Unde quando *iste homo* demonstrat singulare hominis, necessario ad idem tempus refertur suppositum importatum per pronomen et forma importata per nomen. Et ideo haec est falsa: iste homo fuit ab aeterno, nisi intelligatur per idiomatum communicationem. Nam per proprietatem naturae verum est dicere, quod iste homo exivit de non-esse in esse per generationem. — Et sic patet responsio ad totum.
+
+<!-- page 255 -->
+
+Huius igitur responsionis tota summa in his tribus consistit, ut intelligatur, qualiter pronomen *iste* demonstrare potest dupliciter, scilicet *personam Verbi*, vel *singulare hominis*. — Intelligatur nihilominus, quomodo differentem *supponendi modum* habet terminus *accidentalis* et *substantialis* respectu verbi de praeterito, quamvis ex parte praedicati non sit differentia. — Intelligatur etiam, quod possibile est, duo opposita *affirmari* de eodem in Christo, ita quod unum dicitur per *unionem*, alterum per *proprietatem naturae*, sive de Deo, sive de homine; neutrum tamen istorum vere potest *negari*. Plus enim tollit negatio, quam ponat affirmatio, sicut dicitur alibi et faciliter posset ostendi.
+
+### Scholion
+
+**I.** Haec et sequens (3.) quaestio est de usu et significatione verborum. Hinc dissensus doctorum non consistit in ipsa re, cum omnes confiteantur, personam Christi esse aeternam, at naturam humanam eius in tempore creatam; omnesque cum S. Fulgentio (Epist. 17. c. 10. n. 18.) fateantur, quod Verbum incepit esse Christus. Verbum tamen mansit aeternum, et caro in ipso sumsit initium. De origine subtilium harum disceptationum cfr. supra pag. 252, nota 9. Tres exortae sunt de proprietate huius locutionis sententiae. S. Thom. enim cum Petro a Tar., Richardo a Med. et plurimis aliis docet, eam simpliciter esse falsam; Scotus autem, eam in rigore verborum esse veram; S. Bonaventura cum Alexandro Hal. et B. Alberto distinctionem adhibet et respondet, quod vera sit, si *iste homo* demonstret singulare hominis, ast falsa, si demonstret personam Verbi. Ipse autem supponit, quod pronomen *iste* praedicto duplici modo demonstrare possit (cfr. supra d. 10. a. 1. q. 2. ad 1.). Sed S. Thom. (III. Sent. d. 12. q. 1. a. 1. in corp.) hanc distinctionem reprobat asserens, quod quamvis in Christo sit « aliquid singulare praeter personam Verbi; tamen illud singulare non supponitur per hoc nomen *homo*, nec praedicatur de Christo... Et ideo patet, quod ista distinctio est secundum primam [cfr. supra d. 6. post divisionem textus] opinionem bona ». — Durand. etiam vult, distinctionem hic esse adhibendam, cum locutio sit aequivoca.
+
+**II.** Notamus hic, quod commentarius Aegidii R. in Sententias Lombardi in media hac distinctione explicit. A Fulgentio Gallucio, cuius editione (Romae 1623) in tertio libro sententiarum usi sumus, additum est quoddam supplementum ad nonnullas sequentes quaestiones, collectum ex aliis Aegidii libris. Cum autem hoc supplementum non magni sit momenti, deinceps Aegidius inter auctores citatos omittitur. — Alex. Hal., de hac et seq. q. S. p. III. q. 6. m. 1. § 1. 2. — Scot., hic q. 3. — S. Thom., loc. cit.; S. III. q. 16. a. 9. — B. Albert., de hac et seq. q. hic a. 1. — Petr. a Tar., III. Sent. d. 12. q. unica a. 1. — Richard. a Med., hic a. 3. q. 1. — Durand., III. Sent. d. 12. q. 1. — Dionys. Carth., III. Sent. d. 12. q. 1.
+
+**III.** Etiam seq. (3.) quaestio versatur circa locutionem ambiguam et fere coincidit cum quaestione (supra d. 7. a. 1. q. 3.), quae est de locutione: homo factus est Deus; quae non admitti potest nisi cum quadam distinctione et tantum in uno sensu. Si conceditur assertio supra memorata, quod homo possit supponere pro singulari hominis per se; tunc haec locutio in uno sensu est simpliciter vera, in altero vero simpliciter falsa. Attamen a S. Thoma (S. III. q. 16. a. 7.) vix toleratur. De simili dictione: homo assumtus est Deus, quam insignis magister Gualterus de Mauritania defenderat, circa an. 1140 Parisiis in utramque partem disputatum est; eandem Richardus a S. Victore defendit. Hoc refert D'Argentré, Collectio iudiciorum t. 1. pag. 29. — S. Thom., Comment. loc. cit. a. 2. — Petr. a Tar., loc. cit. a. 2. — Richard. a Med., loc. cit. q. 2.
+
+---
 
 ## English
 
-[Translation pending]
+### Question II. *Whether this is to be conceded: this man began to be, Christ being pointed out.*
+
+Second it is asked whether this is to be conceded: this man began to be, Christ being pointed out. And that it is so seems [the case].
+
+1. Augustine *on John*, [Tractate] 4[^1]: "Before the world was made, neither were we, nor the mediator of God and men, the man Christ Jesus": if therefore he was not before the foundation of the world, therefore he began to be.
+
+2. Likewise, to be born and to be begotten is to be changed according to substance and to be produced from non-being into being[^2]; but to be produced into being and to begin to be are wholly the same: since therefore this is true: this man is born, and this: this man is produced into being; this will be true: this man begins to be.
+
+3. Likewise, before the foundation of the world this is true: no man is, and this is false: some man is: therefore this also is false: this man is, Christ being pointed out; and this is now true[^3]: therefore the predicate now belongs to the subject; and before it did not belong: therefore it begins to belong: therefore this is true: this man begins to be.
+
+4. Likewise, it follows well: this man is, therefore this is a man, on the ground that from a proposition in which an implication is enclosed it is permitted to infer that very implication — for it follows: a white man runs, therefore a man is white[^4] — therefore it follows: this man is or was from eternity, therefore this was a man from eternity. But this is false: this one, Christ being pointed out, was a man from eternity: therefore this also: this man is or was from eternity; and [yet] now it is true: it remains therefore that it begins to be true: therefore this is true: this man begins to be.
+
+**On the contrary:** 1. In John, chapter eight[^5]: *Before Abraham was made, I am*, and by parity of reason also, before heaven was made: therefore if the same thing is pointed out by this pronoun *I* and by this pronoun *this*, it seems
+
+that this is true: this man was before the foundation of the world: therefore this is false: this man began to be.
+
+2. Likewise, the Master[^6] concedes this: "This boy created the stars"; but to him to whom it is truly attributed to create heaven, it is truly attributed always to be: therefore this boy always was: therefore this is false: this boy began to be. In like manner this is denied by the Master: "This man, or Christ, is a creature"; but this is for no other reason than that by the name *creature* a going-forth from non-being into being is imported: therefore by parity of reason, or by a much stronger one, this is false: this man began to be.
+
+3. Likewise, it is proper to a pronoun to be put in place of a proper noun and to designate a determinate person[^7]: therefore when it is said: this man, this pronoun *this* points out a person. But the person of Christ always was and never began to be: therefore this is false: this man began to be. If you say that *person* is there taken broadly; it is still objected, that whatever it points out, whether a supposit or a person properly; it seems that the locution is still false: because the exposition of this verb *begins* is this: this begins to be, therefore this now is, but before was not[^8]. If therefore this is true: this man begins to be, this is true: this man now is and before was not. But in whatever way it be taken, this locution is false: this man before was not. For if [it be taken] for the person, its opposite is true: this man before was. Likewise if for the supposit, it is true: this man before was, on account of the communication of idioms. But it is not permitted to deny of anything that which is truly affirmed either through the propriety of nature, or through the union. For this is simply false: man is not God, because its opposite is true through the union[^9]. Since therefore in every way this is true: this man always was, this in every way is false: this man began to be.
+
+4. Likewise, as was held above[^10], this term *man*, said of Christ, in a certain manner has the nature of an *accidental* term, because in an accidental term the supposit can pre-exist the form; and so it is to be found in the matter proposed. But a rule is given, that an accidental term, standing for a verb in the past tense[^11], can stand for present things, or for past, so that indifferently it can render the locution true for these or for those. Nor on this account is the locution distinguished as manifold, because it is not compared to those as to things signified, but as to supposits; but such a locution is said to have several causes of truth[^12]. Since therefore it is said: this man was, the sense is: this one who is a man, was, or: this one who was a man, was. But this is simply true: this one who is a man, was from eternity, therefore this also: this man was from eternity, therefore this is simply false: this man begins to be, and in no way to be distinguished.
+
+> ### Conclusion
+> *The locution "this man, Christ being pointed out, began to be" can be admitted with a distinction, namely insofar as "this" points out the singular of the man, not the person of the Word.*
+
+**I respond:** For the understanding of this locution the response of the Master[^13] is to be considered. For the Master responds, saying that to this locution "no response is to be given without a distinction"; he himself, however, does not distinguish, but determines that it began to be as to the nature, although not as to the person; it began to be according to the human nature, but it did not begin to be insofar as Word. — But certainly this manner of speaking does not suffice against an importunate objector[^14].
+
+For he would seek the ground of the manifoldness, and what sense the said locution makes, so far as concerns the force of the words; and this cannot be had clearly from the words of the Master. — And therefore one must attempt to distinguish, [to see] whether in some way we can fit to the aforesaid locution a fitting mode of distinguishing.
+
+Now the aforesaid locution seems able to be distinguished from this, that the verb of beginning can note a beginning in respect of the *truth of the whole statement*, or can import a beginning of the thing predicated in respect of the *subject*. If in the first way, then the sense is: this man began to be, that is, that locution, namely "this man is," began to be true; and this without doubt is true. But if he should say that the beginning is in respect of that which is pointed out by this pronoun *this*, since that has eternal being either through its proper nature, or through the communication of idioms; then the locution seems false. — But this manner of speaking is open to caviling, both because it does not seem that the verb of beginning should be borne upon the whole, since there is nothing that renders a supposit to it; and also because the question is not whether that statement begins to be true; but the question is whether the thing imported by what is said: this man began to be. And so this manner of speaking does not seem to be valid in itself nor even to settle the question.
+
+And therefore there can be another mode of distinguishing, and this always on the supposition that *begins* expresses the beginning of the thing attributed or of the act in the predicate in respect of the subject. But this can be in two ways: either because it can note a beginning in respect of the thing imported by the pronoun in itself, or under the account of an implication. For the form of humanity is implied when it is said: this man, that is, this one who is a man. And if it expresses a beginning in respect of the subject or person imported by the pronoun; the speech is false, because that person does not have being after non-being. But if [it expresses a beginning] in respect of the implication, the locution is true; for the sense is that this one began to be, not because this one, but because [he is] a man, or according to the human nature. And an example can be given. If a shield first existed and afterward is whitened, this is twofold: a white shield begins to be, according to the aforesaid mode of distinguishing. — But this manner of speaking is still no less open to caviling than the preceding, on the ground that this locution: a white shield begins to be, must be expounded by these two: a white shield is, and this is not twofold; and another, which is: a white shield before was not; and this is false, because its opposite is true: a white shield was. For *white*, since it is an accidental term, can stand for present or past things by *indifference*, not by *manifoldness*. *Moreover*, if it be said: a white man begins to run, *begins* does not posit, so far as concerns the force of the word, a beginning concerning the whiteness, but concerning the running. And therefore this manner of speaking too is open to caviling not a little.
+
+There is also[^16] a third manner of speaking, that this pronoun *this* can point out the person of the Word, or the singular of the man. And if it points out the singular of the man, then one must concede this: this man begins to be; and this: this man is from eternity: just as it is conceded that this man is dead and immortal; but the one is said through the communication of idioms, the other through the propriety of nature. For if, when Christ is born, some man is changed from non-being into being; it is necessary that some man begin to be; but it is not true of any other man than of this man. This one therefore begins to be through the propriety of nature; but yet he is said to be from eternity, because he is God, who is from eternity[^17]. If therefore this man points out the singular of the man, without doubt the aforesaid locution is true. — But if it points out the person of the Word, it is false, false, I say, as to the propriety of nature, because the person of the Word is of its nature eternal. As to the communication of idioms also it is not admitted, because such an idiom is not communicated, on account of this, that it encloses a repugnance of the [two] understandings[^18]. — And this manner of speaking is reasonable and less open to caviling than the aforesaid, and contributes more to the matter proposed and is more consonant with the words of the Master, who gives the *sense* of the aforesaid distinction, although he does not posit the *words*, lest he should desert the theological manner. But the more modern [doctors] must explain it more fully, on account of the importunity of those who inquire. For the Master determines that this man began to be, *insofar as he is man*, but not *insofar as he is Word*. But what else is this to say, except that by that pronoun there can be pointed out the *singular of the man*[^19], or the *person of the Son of God*? — According to this distinction, therefore, the aforesaid locution is neither wholly to be conceded nor wholly to be denied; for it can be conceded according to one sense and denied according to another. — And therefore the arguments which prove that the aforesaid locution is true in some sense, and the others which prove that it is false in some sense, can be passed over, because they are resolved by this distinction. For according to the diverse members both conclude what is true, as are the first two arguments for the first part and the first two for the second part. But to those which show that the locution is true *simply*, or false *simply*, a response must be made.
+
+3. To that which is objected, that before the foundation of the world this is true: no man is; it must be said that it is true; but nevertheless it is not necessary that this now[^1] be true: no man was. And the reason for this is on account of the variation of the *supposition* of the term; for, as was touched on, this term *man* in Christ has the mode of standing of an accidental term. But that argument is not valid: this was false: "white disputes," therefore this is false: "white disputed"[^2]; for the *mode of standing* of the term itself is varied. For in the first it had a single supposition, in the second a twofold one. Hence although this be false: this man is before the foundation of the world, nevertheless it is now true: this man was; because the sense can be such: this one who now is a man, was before the foundation of the world; therefore that argument is not valid.
+
+4. To that which is objected, that the implication follows upon the proposition in which it is implied; it must be said that it is true according to that difference of time according to which it is implied. Hence it follows well: if a white man runs, a man is white. But when this implication is in respect of a verb in the past tense, then it has a twofold supposition, because it stands for present and for past things. And therefore it does not follow: this man was from eternity, therefore from eternity there was a man; just as it does not follow: this white thing was, therefore this was white; because the rule is, that a term added to a verb is restricted according to the consignificate of the verb, to whatever time it be added to the verb[^3]; but it is not so with a term on the side of the subject. And therefore that argument errs from a *change of supposition*.
+
+But to the two arguments to the contrary there is no need to respond, because they proceed according to the other sense, namely as *this* points out the person. *Moreover*, they do not conclude that the aforesaid locution is false; because these can stand together, that he always was and that he began to be according to diverse natures.
+
+3. But to that which objects in the third place, that the pronoun points out the person; it must be said that *person* is taken *broadly* for everything that renders a determinate supposit to the verb — for one can say: this whiteness — and so it can well point out the singular supposit of the man, that is, the atom of human nature, which is assumed by the Word, or the hypostasis itself, the pointing-out being made not to the sense, but to the understanding[^4]. — And if he should object that in either sense it is false, because in either sense this is true: this man always was; it must be said that in such cases negation removes more than the opposite affirmation posits. For these stand together, namely that Christ is mortal and immortal; but these two locutions do not stand together: Christ is mortal, Christ is not mortal; because negation negates and removes the signification of that which is *mortal*[^5] more than [it does that of] *immortal* opposed to it. By this mode also it is to be understood, that more is denied in this: this man was not, than in this: this man begins to be, which is affirmative, although it encloses a negation. For these can be true together: this man is eternal, and: this man begins to be; but these two never: this man is eternal, this man is not eternal, for the reason that has been stated. And therefore it cannot be concluded that the aforesaid locution is false *simply*.
+
+4. To that which is objected, that *man* in Christ has the mode of standing of an accidental term; it must be said that this can be conceded in comparison to the *person* of Christ, which is the supposit of the humanity, infinitely preceding the form of the humanity; but in comparison to the *singular of the man* it has no truth[^6]. Hence when *this man* points out the singular of the man, the supposit imported by the pronoun and the form imported by the noun are necessarily referred to the same time. And therefore this is false: this man was from eternity, unless it be understood through the communication of idioms. For through the propriety of nature it is true to say that this man went forth from non-being into being through generation. — And so the response to the whole is clear.
+
+The whole sum of this response, therefore, consists in these three things: that it be understood how the pronoun *this* can point out in two ways, namely the *person of the Word*, or the *singular of the man*. — Let it nonetheless be understood how an *accidental* and a *substantial* term have a different *mode of standing* in respect of a verb in the past tense, although on the side of the predicate there is no difference. — Let it also be understood that it is possible for two opposites to be *affirmed* of the same [subject] in Christ, in such a way that the one is said through the *union*, the other through the *propriety of nature*, whether of God or of the man; yet neither of these can truly be *denied*. For negation removes more than affirmation posits, as is said elsewhere, and could easily be shown.
+
+### Scholion
+
+**I.** This and the following (3rd) question are about the use and signification of words. Hence the disagreement of the doctors does not consist in the matter itself, since all confess that the person of Christ is eternal, but that his human nature was created in time; and all confess, with St. Fulgentius (Letter 17, c. 10, n. 18), that the Word began to be Christ. The Word, however, remained eternal, and the flesh in him took a beginning. On the origin of these subtle disputations, cf. above, page 252, note 9. Three opinions have arisen concerning the propriety of this locution. For St. Thomas, with Peter of Tarentaise, Richard of Mediavilla, and very many others, teaches that it is simply false; Scotus, however, [teaches] that it is true in the rigor of the words; St. Bonaventure, with Alexander of Hales and Blessed Albert, employs a distinction and responds that it is true, if *this man* points out the singular of the man, but false, if it points out the person of the Word. He himself, moreover, supposes that the pronoun *this* can point out in the aforesaid twofold way (cf. above d. 10, a. 1, q. 2, ad 1). But St. Thomas (III Sent. d. 12, q. 1, a. 1, in the body) rejects this distinction, asserting that, although in Christ there be "something singular besides the person of the Word; nevertheless that singular is not stood for by this noun *man*, nor predicated of Christ... And therefore it is clear that this distinction is, according to the first [cf. above d. 6, after the division of the text] opinion, a good one." — Durandus also holds that a distinction is here to be employed, since the locution is equivocal.
+
+**II.** We note here that the commentary of Giles of Rome on the Sentences of Lombard breaks off in the middle of this distinction. By Fulgentius Gallucius, whose edition (Rome, 1623) in the third book of the Sentences we have used, there was added a certain supplement to some of the following questions, collected from other books of Giles. But since this supplement is of no great moment, henceforth Giles is omitted among the authors cited. — Alexander of Hales, on this and the following q., Summa p. III, q. 6, m. 1, § 1, 2. — Scotus, here q. 3. — St. Thomas, loc. cit.; Summa III, q. 16, a. 9. — Blessed Albert, on this and the following q., here a. 1. — Peter of Tarentaise, III Sent. d. 12, the single q., a. 1. — Richard of Mediavilla, here a. 3, q. 1. — Durandus, III Sent. d. 12, q. 1. — Dionysius the Carthusian, III Sent. d. 12, q. 1.
+
+**III.** The following (3rd) question also turns upon an ambiguous locution and nearly coincides with the question (above d. 7, a. 1, q. 3) which is about the locution: man was made God; which cannot be admitted except with a certain distinction and only in one sense. If the assertion mentioned above be conceded, that *man* can stand for the singular of the man per se; then this locution in one sense is simply true, in the other simply false. Nevertheless by St. Thomas (Summa III, q. 16, a. 7) it is scarcely tolerated. Concerning the similar saying: the assumed man is God, which the distinguished master Walter of Mortagne had defended, around the year 1140 it was disputed at Paris on both sides; Richard of Saint Victor defended the same. D'Argentré reports this, Collection of Judgments, vol. 1, page 29. — St. Thomas, Commentary, loc. cit., a. 2. — Peter of Tarentaise, loc. cit., a. 2. — Richard of Mediavilla, loc. cit., q. 2.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' Latin note; **En.** gives its English rendering.
+
+[^1]: **La.** Tract. 105. n. 7: *Priusquam mundus esset, nec nos* etc.
+    **En.** Tractate 105, n. 7: *Before the world was, neither were we*, etc.
+
+[^2]: **La.** Cfr. supra pag. 111, nota 11. — In minori Vat. post *produci in esse* addit *post non-esse.* In fine arg. eadem Vat. cum edd. 1, 2 ante *erit vera* inserit *etiam* (cod. K *ergo*) et dein cum compluribus codd. pro *incipit esse* substituit *incepit esse.* Etiam in seqq. Vat., faventibus compluribus codd., pluries exhibet *incepit esse* pro *incipit esse*, sed nostra lectio in praesidium habet maiorem partem codd.
+    **En.** Cf. above, page 111, note 11. — In the lesser Vatican [edition], after *to be produced into being* it adds *after non-being.* At the end of the argument the same Vatican [edition], with editions 1, 2, before *will be true* inserts *also* (codex K *therefore*), and then, with several codices, substitutes for *begins to be* the reading *began to be.* Also in what follows the Vatican [edition], with several codices favoring, several times exhibits *began to be* for *begins to be*; but our reading has in its support the greater part of the codices.
+
+[^3]: **La.** Cod. K sic: *Item, ante mundi... nullus homo est; ergo haec est falsa: aliquis homo est; et si haec est falsa: aliquis homo est, demonstrato Christo, et haec modo est vera* etc. Deinde addit: *Item nullo homine existente, haec est falsa: iste homo est, demonstrato Christo, et modo est vera*, quibus verbis adiectis prosequitur: *ergo praedicatum* etc.
+    **En.** Codex K thus: *Likewise, before [the foundation of] the world... no man is; therefore this is false: some man is; and if this is false: some man is, Christ being pointed out, and this is now true*, etc. Then it adds: *Likewise, no man existing, this is false: this man is, Christ being pointed out, and now it is true*, to which words being added it continues: *therefore the predicate*, etc.
+
+[^4]: **La.** Cfr. Aristot., II. Topic. c. 1. et II. Periherm. c. 2. (c. 11.). Cfr. etiam Petr. Hispan., Summul. (tr. de locis topic. loc. de Toto in modo).
+    **En.** Cf. Aristotle, *Topics* II, c. 1, and *On Interpretation* II, c. 2 (c. 11). Cf. also Peter of Spain, *Summulae* (the tract on the topical places, the place "On the Whole in the manner").
+
+[^5]: **La.** Vers. 58. Cfr. hic lit. Magistri, c. 3. — In fine huius et duorum seqq. argg. codd. A F V bb, refragantibus plerisque aliis codd., pro *incepit esse* habent *incipit esse.*
+    **En.** Verse 58. Cf. here the text of the Master, c. 3. — At the end of this and the two following arguments, codices A, F, V, bb, most other codices opposing, read *begins to be* for *began to be.*
+
+[^6]: **La.** Hic c. 3. — Ibid. c. 1. habetur etiam altera sententia, paulo inferius allata. — Pro *creare caelum* edd. *creare stellas.*
+    **En.** Here c. 3. — In the same place, c. 1, there is also another statement, adduced a little below. — For *to create heaven*, the editions [read] *to create the stars.*
+
+[^7]: **La.** Cfr. supra pag. 227, nota 2.
+    **En.** Cf. above, page 227, note 2.
+
+[^8]: **La.** In Tract. de exponibilibus propositionibus (inter opera Petri Hispani) capitulum invenitur, quod inscriptum est *de incipit et desinit*; in quo cap., exposito prius, quomodo res esse suum acquirant, vel in instanti et simul, vel successive et non simul, quatuor ponuntur regulae, quarum duae respiciunt rerum *incipit*, duae rerum *desinit*. « Prima est, quod propositiones de *incipit* rerum, quarum esse totum simul acquiritur, exponuntur per unam copulativam [propositionem], cuius prima pars est affirmativa de praesenti, secunda negativa de praeterito, ut *homo incipit esse* i. e. homo nunc est et immediate ante hoc non fuit. Secunda regula est, quod propositiones de *incipit* rerum, quarum esse acquiritur successive, exponuntur per unam copulativam, cuius prima pars est negativa de praesenti et secunda affirmativa de futuro, ut hic: *Socrates incipit esse albus* i. e. Socrates nunc non est albus et immediate post hoc erit albus » etc. — Paulo ante edd. *quidquid demonstrat, demonstrat sive suppositum... proprie: ergo videtur* etc., et pro *hoc incipit esse: ergo hoc modo est* codd. T bb *incipit esse hoc, id est modo est.*
+    **En.** In the Tract on exponible propositions (among the works of Peter of Spain) there is found a chapter entitled *On "begins" and "ceases"*; in which chapter, having first set forth how things acquire their being, either in an instant and all at once, or successively and not all at once, four rules are laid down, of which two regard the *begins* of things, two the *ceases.* "The first is, that propositions about the *begins* of things whose being is acquired all at once are expounded by one copulative [proposition], of which the first part is affirmative of the present, the second negative of the past, as *man begins to be*, i.e., man now is and immediately before this was not. The second rule is, that propositions about the *begins* of things whose being is acquired successively are expounded by one copulative, of which the first part is negative of the present and the second affirmative of the future, as here: *Socrates begins to be white*, i.e., Socrates now is not white and immediately after this will be white," etc. — A little before, the editions [read] *whatever it points out, it points out either a supposit... properly: therefore it seems*, etc., and for *this begins to be: therefore this now is*, codices T, bb [read] *this begins to be, that is, now is.*
+
+[^9]: **La.** Cfr. supra d. 7. a. 1. q. 1. — Mox pro *omni modo est falsa* codd. A G U *omnino est falsa.*
+    **En.** Cf. above d. 7, a. 1, q. 1. — Soon, for *in every way is false*, codices A, G, U [read] *is altogether false.*
+
+[^10]: **La.** Dist. 6. a. 1. q. 3.
+    **En.** Distinction 6, a. 1, q. 3.
+
+[^11]: **La.** Verbi gr. illud: *scutum fuit album*, verificari potest tam de scuto, quod existere desiit, quam de scuto, quod adhuc existit.
+    **En.** For example, that [statement]: *the shield was white*, can be verified both of a shield that has ceased to exist and of a shield that still exists.
+
+[^12]: **La.** Aristot., II. Topic. c. 2: « Rursum, quaecumque non secundum aequivocationem dicuntur multipliciter, sed alio modo, ut disciplina una plurium, ut finis, aut ut eius quod ad finem, ut medicina eius quod sanitatem facit, ut quod cibat... aut ut eius quod per se est, et eius quod per accidens » etc. Quae verba B. Albert., II. Topic. tr. 1. c. 5. commentans ait: Exemplum propositionis propositae, proprie loquendo, non est multiplex [aequivoca], sed, nomine multiplicis extenso, multiplex dicitur propositio, quae plures causas habet veritatis, cuius veritas non destruitur, nisi omnibus modis et causis veritatis destructis; con struitur autem veritas, causa una constructa veritatis eiusdem.
+    **En.** Aristotle, *Topics* II, c. 2: "Again, whatever things are said manifoldly not according to equivocation, but in another way, as one discipline of several things, as an end, or as that which is toward an end, as the medicine of that which makes health, as that which feeds... or as that which is per se and that which is per accidens," etc. Commenting on which words, Blessed Albert, *Topics* II, tr. 1, c. 5, says: The example of the proposition proposed, properly speaking, is not manifold [equivocal]; but, the name of "manifold" being extended, that proposition is called manifold which has several causes of truth, whose truth is not destroyed unless all the modes and causes of truth be destroyed; but the truth is constructed when one cause of the truth of the same is constructed.
+
+[^13]: **La.** Hic c. 3. — Paulo superius pro *distinguitur* edd. *dicitur.*
+    **En.** Here c. 3. — A little above, for *is distinguished*, the editions [read] *is said.*
+
+[^14]: **La.** B. Albert., hic d. 12. a. 1: Dicendum meo iudicio, quod nulla solutio modernorum hic tantum valet, sicut auctoris [Magistri] solutio, quam ponit hic, quia cautissima est, quod sine distinctione intellecta vel posita in sermone non reddatur responsio... sunt tamen qui subtilitates hic rimati sunt, minus tamen cautas simplicibus, licet verum dicant. Et auctor istarum solutionum est magister Wilhelmus Antissiodorensis » (cfr. eius Sum. p. III. tr. 1. c. 1. et 2.). Deinde, memorato duplici modo distinguendi locutionem *incipit*, de quo hic inferius pluribus verbis agitur, B. Albert. dicit: Ecce, in quantum potui investigare, haec est sententia Antissiodorensis. — Pro *modus dicendi* edd. cum nonnullis codd. hic et pluries infra *modus distinguendi.* Mox pro *sensum faciat* bene multi codd. minus accurate *sensum faciet.*
+    **En.** Blessed Albert, here d. 12, a. 1: "It must be said, in my judgment, that no solution of the moderns avails here as much as the author's [the Master's] solution, which he puts here, because it is most cautious, namely that without a distinction understood or posited in the speech no response should be given... there are nevertheless those who have here searched out subtleties, less safe, however, for the simple, although they speak the truth. And the author of these solutions is master William of Auxerre" (cf. his Summa p. III, tr. 1, c. 1 and 2). Then, having mentioned the twofold mode of distinguishing the locution *begins*, of which there is treatment here below at greater length, Blessed Albert says: Behold, so far as I have been able to investigate, this is the opinion of [William of] Auxerre. — For *manner of speaking*, the editions, with some codices, here and several times below [read] *manner of distinguishing.* Soon, for *makes [its] sense*, very many codices less accurately [read] *will make [its] sense.*
+
+[^15]: **La.** Cod. Z *adaptare.*
+    **En.** Codex Z [reads] *to adapt.*
+
+[^16]: **La.** Pro *etiam* codd. A H I K L T Z aa bb *etiam adhuc*, edd. *adhuc*, cod. G *autem.*
+    **En.** For *also*, codices A, H, I, K, L, T, Z, aa, bb [read] *also still*, the editions *still*, codex G *however.*
+
+[^17]: **La.** Cfr. supra d. 10. a. 1. q. 3. — In princip. huius enuntiati pro *Iste ergo* edd. *Ille ergo homo.*
+    **En.** Cf. above d. 10, a. 1, q. 3. — At the beginning of this statement, for *This one therefore*, the editions [read] *That man therefore.*
+
+[^18]: **La.** Ut ostensum est supra q. 1. — Inferius pro *ne desereret* non pauci codd. *nec deseret*, cod. U *vel deserat.* Post pauca pro *oportet amplius explicare* cod. O *magis explicare conati sunt.*
+    **En.** As was shown above, q. 1. — Below, for *lest he should desert*, not a few codices [read] *nor will he desert*, codex U *or let him desert.* A little after, for *must explain more fully*, codex O [reads] *they have endeavored to explain more.*
+
+[^19]: **La.** Cod. O hic (ex solut. ad 3.) addit *id est atomum naturae humanae assumtum a Verbo.* Cfr. supra pag. 18, nota 1.
+    **En.** Codex O here (from the solution to argument 3) adds *that is, the atom of human nature assumed by the Word.* Cf. above, page 18, note 1.
+
+[^1]: **La.** Pro *nunc* plurimi codd. *non*; sed lectionem *nunc* non solum tuentur edd. cum pluribus codd., sed etiam subnexa nec non responsum illud, quod S. Thom. dat, hic d. 12. q. 1. a. 1. ad 3: Dicendum, quod ab aeterno verum fuisset dicere: Nullus homo est, quia suppositum aeternum nondum erat suppositum humanae naturae; unde non poterat sumi sub dicta distributione, sicut nunc potest propter unionem. Unde quamvis ab aeterno non erat verum dicere: Aliquis homo est aeternus, modo tamen est verum dicere: Aliquis vel iste homo est ab aeterno.
+    **En.** For *now*, very many codices [read] *not*; but the reading *now* is upheld not only by the editions with many codices, but also by what is subjoined, and likewise by that response which St. Thomas gives, here d. 12, q. 1, a. 1, ad 3: It must be said that from eternity it would have been true to say: No man is, because the eternal supposit was not yet the supposit of human nature; whence it could not be taken under the said distribution, as it can now on account of the union. Hence although from eternity it was not true to say: Some man is eternal, now nevertheless it is true to say: Some, or this, man is from eternity.
+
+[^2]: **La.** Similia exempla, ut *album currit*, *album est musicum*, *album aedificat* etc., frequentantur a Scholasticis, agentibus de propositionibus accidentalibus; vide e. gr. eorum exposit. in II. Periherm. c. 2. Etiam Aristot., II. Phys. text. 33. (c. 3.), dicit, quod « albus et musicus causa [accidentaliter] dicantur statuae », id est, si artifex etiam albus est et musicus. Propositionis: *album disputavit*, modus supponendi duplex est, quia, ut in ultimo arg. et in corp. quaest. habetur, propositio illa verificari potest tam de praesenti quam de praeterito. Cfr. infra solut. seq. — Pro *album disputat... disputavit* edd. *album disgregat... disgregavit* [scil. visum]. Deinde inferius post *iste homo fuit* Vat. repetit *ante mundi constitutionem.*
+    **En.** Similar examples, as *white runs*, *white is musical*, *white builds*, etc., are frequent among the Scholastics in treating of accidental propositions; see, e.g., their exposition on *On Interpretation* II, c. 2. Aristotle too, *Physics* II, text 33 (c. 3), says that "the white and the musical are said [accidentally] to be the cause of the statue," that is, if the craftsman is also white and musical. Of the proposition *white disputed*, the mode of standing is twofold, because, as is held in the last argument and in the body of the question, that proposition can be verified both of the present and of the past. Cf. below, the following solution. — For *white disputes... disputed*, the editions [read] *white separates... separated* [namely, the sight]. Then below, after *this man was*, the Vatican [edition] repeats *before the foundation of the world.*
+
+[^3]: **La.** Huius dictionis sententia est: terminus, qui verbo appositus est (praedicatum), restringitur ad illam temporis differentiam, quam verbum exprimit, scil. vel ad praeteritum, si est verbo praeteritum significanti appositus, vel ad praesens etc. Ratio est, quia, cum nemo dare possit quod non habeat, verbum, quod cum subiecto copulat praedicatum, in ipsum praedicatum transit idque non copulare potest nisi sub ea temporis differentia, quam in se continet. Cfr. Scot., super I. Periherm. q. 9. seqq. — Mox pro *Et propterea* edd. et complures codd. contra contextum *Et praeterea.* Subinde pro *ex mutatione* cod. U *ex commutatione.*
+    **En.** The meaning of this saying is: a term which is added to a verb (the predicate) is restricted to that difference of time which the verb expresses, namely either to the past, if it is added to a verb signifying the past, or to the present, etc. The reason is that, since no one can give what he does not have, the verb which couples the predicate with the subject passes into that very predicate, and can couple it only under that difference of time which it contains in itself. Cf. Scotus, on *On Interpretation* I, q. 9 ff. — Soon, for *And therefore*, the editions and several codices, against the context, [read] *And moreover.* Thereupon, for *from a change*, codex U [reads] *from an exchange.*
+
+[^4]: **La.** Cfr. supra pag. 137, nota 6. et d. 10. a. 1. q. 3.
+    **En.** Cf. above, page 137, note 6, and d. 10, a. 1, q. 3.
+
+[^5]: **La.** Siquidem in propositione negativa negatio explicite habetur, et afficiendo ipsam propositionis copulam, propositionem negativam reddit contradictoriam alteri propositioni. Cfr. etiam q. seq. in fine. — Paulo superius pro *Haec enim* codd. G T et alii *Hae enim.*
+    **En.** Since in a negative proposition the negation is had explicitly, and by affecting the very copula of the proposition, it renders the negative proposition contradictory to the other proposition. Cf. also the following question, at the end. — A little above, for *For this* (sing.), codices G, T and others [read] *For these* (plur.).
+
+[^6]: **La.** Cfr. supra d. 6. a. 1. q. 3. et d. 10. a. 1. q. 3.
+    **En.** Cf. above d. 6, a. 1, q. 3, and d. 10, a. 1, q. 3.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set verbatim from the 450 dpi PDF column bands of printed pp.251–255 (PDF pp.273–277; raw OCR lines 17785–18073), reading each page left column top→bottom then right column, body bands then footer bands (Vol III PDF-priority inversion per the Vol II/III Override). Fresh literal English. Offset pdf = printed + 22.
+
+**Alignment.** Verified: this is the SECOND of Article II's three *vocabula* questions. The incipit reads *Secundo quaeritur, utrum haec sit concedenda: iste homo incepit esse, Christo demonstrato* — matching the a2 TRACTATIO's second listed question (*Secundo, utrum concedendum sit, quod ille homo coeperit esse*) and the a2-q2 skeleton title. q1 = *Christus est creatura*; q3 = *homo incipit esse Deus*. No q-swap.
+
+**Page-split map.**
+- **p.251** (right column, lower): QUAESTIO II header + title + opener (*Secundo quaeritur…*) + args 1–4 *pro*; *Sed contra* 1 down through *…videtur,*. Footer: q2's share of p.251 = **nn.4–8** (n.4 *Tract. 105* = arg 1; n.5 *Cfr. supra pag. 111* = arg 2; n.6 *Cod. K sic* = arg 3; n.7 *Cfr. Aristot. II. Topic.* = arg 4; n.8 *Vers. 58* = *Sed contra* 1). → `[^1]`…`[^5]`. (p.251 nn.1–3 belong to q1, already rendered as q1's `[^20]`–`[^22]`.)
+- **p.252**: *Sed contra* 1 (cont.)–4; CONCLUSIO; *Respondeo* down through *…non sufficit opponenti importuno.* Footer: **9 entries** — nn.1–5 (left) + nn.6–9 (right). → `[^6]`…`[^14]`.
+- **p.253**: *Respondeo* cont. — first/second/third *modus distinguendi*; CONCLUSIO 1 + 2; *conclusio generalis*; *Ad argumenta.* Footer: **5 entries** — nn.1–2 (left) + nn.3–5 (right). → `[^15]`…`[^19]`.
+- **p.254**: replies to the affirmative args (3, 4) and to the negative args (3, 4); ends *…patet responsio ad totum.* Footer: **6 entries** — nn.1–2 (left) + nn.3–6 (right). → `[^1]`…`[^6]` (second per-page sequence).
+- **p.255** (right column top + scholion band): the *Huius igitur responsionis tota summa…* summary (q2 body close); then the SCHOLION (I–III). q3's body begins in p.255's left column below the scholion band (raw line 18074 onward) — STOP boundary for this chunk.
+
+**Apparatus count.** 25 entries = 5 (p.251 nn.4–8) + 9 (p.252) + 5 (p.253) + 6 (p.254). Quaracchi restarts footnote numbering on each printed page; the chunk renumbers sequentially in body order. The build pairs `[^N]` by first occurrence, so the duplicate `[^1]`–`[^6]` (p.254 sequence) pair to their second-occurrence body anchors. The p.255 summary's *sicut dicitur alibi* is Bonaventure's own cross-reference with no Quaracchi footer on q2's pages — rendered as plain body text, no marker.
+
+**Scholion.** `has_scholion: true`. q2 prints a three-section SCHOLION (I–III) on p.255. It **forward-covers q3**: section I opens *Haec et sequens (3.) quaestio…*, and section III is explicitly *Etiam seq. (3.) quaestio versatur…* Confirmed against the q3 raw range (line ~18074+), where q3 has **no SCHOLION header** of its own and instead carries *Vide scholion ad praecedentem quaest.* — so this scholion is the locus for both questions. Rendered as prose (no `[^N]` markers), per the corpus convention for Vol III scholia.
+
+**Hand-offs.**
+- *Inbound (consumed):* from d11-a2-q1 (05e4e6e) — printed **p.251 footer nn.4, 5 and following** (the q2 share of the shared p.251 page footer): n.4 = Augustine *super Ioannem* Tract. 105 (q2 arg 1) → `[^1]`; n.5 = *Cfr. supra pag. 111, nota 11… In minori Vat. post produci in esse addit post non-esse* (q2 arg 2) → `[^2]`; plus nn.6–8 (q2 args 3–4 + *Sed contra* 1) → `[^3]`–`[^5]`. Confirmed eyes-on at 450 dpi: p.251 left footer = nn.1–5, right footer = nn.6–8; q1 retained only nn.1–3.
+- *Forwarded to d11-a2-q3:* q3 begins at **raw line 18074 / p.255 left column** (*Tertio quaeritur de hac: homo incipit esse Deus…*). q3 relies on **this chunk's SCHOLION** (it has none of its own; raw carries *Vide scholion ad praecedentem quaest.*). No q2 footers spill onto q3's pages.
+
+**[?] flags.** None. Body, all 25 footers, and the three scholion sections read cleanly at 450 dpi.
