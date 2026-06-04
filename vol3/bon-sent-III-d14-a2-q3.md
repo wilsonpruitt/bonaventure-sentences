@@ -6,439 +6,380 @@ distinctio: 14
 articulus: 2
 quaestio: 3
 type: quaestio
-line_start: 21942
-line_end: 22355
-word_count_latin: 5903
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Utrum anima Christi cognoscat omnia in Verbo, quae cognoscit Verbum"
+title_en: "Whether the soul of Christ knows in the Word all things that the Word knows"
+printed_pages: [312, 313, 314, 315, 316, 317, 318]
+pdf_pages: [334, 335, 336, 337, 338, 339, 340]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 312–318"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from 450 dpi PDF column bands (Respondeo/Solutio + all footers) over IA djvu OCR base (raw lines 21942–22355), fresh literal English, full apparatus from printed footers (44 entries, per-page restart pp.312–317), scholion I–IV (2026-06-04)"
 format_version: 1
 ---
 
 # bon-sent-III-d14-a2-q3
+## *Utrum anima Christi cognoscat omnia in Verbo, quae cognoscit Verbum.*
+
+---
 
 ## Latin
+<!-- page 312 -->
 
-QUAESTIO III.
+### Quaestio III. *Utrum anima Christi cognoscat omnia in Verbo, quae cognoscit Verbum.*
 
-                           Utrum anima Christi cognoscat ornnia in Verbo, quae coc/noscit Verbum.
+Tertio quaeritur, utrum anima Christi cognoscat omnia in Verbo, quae cognoscit Verbum. Et quod sic[^p312-1], videtur.
 
-             Tertio quaeritur, utrum anima Christi cognoscat                  sed spiritus est ad cognoscendum et diligendum :
-        omnia in Verbo, quae cognoscit Verbum. Et quod                        ergo habuit spiritum ad cognoscendum sine men-
-        sic, videtur.                                                         sura; et si hoc, ergo Deus illi animae nihil celat:
-              1. Anima Christi beata habuit spiritum nonad                    cognoscit ergo omnia illa anima in Verbo, quae co-
-vnDiime^mensuram , secundum quod dicitur Ioannis tertio2;                     gnoscit ipse Deus.
+1. Anima Christi beata habuit spiritum non ad mensuram, secundum quod dicitur Ioannis tertio[^p312-2]; sed spiritus est ad cognoscendum et diligendum: ergo habuit spiritum ad cognoscendum sine mensura; et si hoc, ergo Deus illi animae nihil celat: cognoscit ergo omnia illa anima in Verbo, quae cognoscit ipse Deus.
 
+<!-- page 313 -->
 
-             1 Edd. cum mtiltis codd. perperam et ideo non sic opor-          nonnullis codd. legitur sed solnm habitualiter. Subinde pro es-
-        tet, quod si alia etc. ; nostram leclionem accepimus a cod. M.        senlialiorem cod. K naturaiiorem , codd. FGLNTVZ incon-
-        Etiam codd. B II W bb habent qnod sic alia, nec non cod. C,           grtie essentialem.
-        qui deinde pro secundum quod substiluit sicut. Paulo inferius              2 Vers. 34. Cfr. hic lit. Magistri, c. I.
-        pro sed habitualiter , quod codd. A H omittunt , in edd. et
-                                                DIST. XIV. ART. II. QUAEST. III.                                                      313
-       2. Item, illi animae cognoscenti res in Verbo                 ratione novit omnia: ergo videtur, quod omnia co-
-ipsum Verbum est ratio cognoscendi ' : sed Verbum                    gnoscat, quae cognoscit aeteroa sapientia 5.
-est ratio cognoscendi voluntarie se offerens pro hac                      7. Itern, multo potentior est anima Christi ad
-re, vel pro illa , vel pro quacumque alia : si ergo                  cognoscendum res per ipsum Verbum sibi unitum,
-Verbum aeternum animae unitae sibi offert se plena                   quam sit aliqua anima ad cognoscendum res per ha-
-oblatione, cum ipsum sit ratio cognoscendi omnia;                    bitum creatum; sed anima habens habitum crealum
-videtur, quod anima Christi omnia cognoscebat in                     cognoscit omnia, ad quae se extendit ille habi-
-Verbo sibi unito.                                                    tus": ergo anima Christi, habens Verbum increatum
-      3. Item, Verbum aeternum perfectissime unitum                  sibi unitum , cognoscit omnia quae cognoscit ipsum
-erat ipsi animae Christi, secundum quod Verbum,                      Verbum.
-ergo pari ratione perfectissime erat ei unitum, se-                       Sed contra: 1. Augustinus, in dundecimo de Ci- Ad opposi-
-cundum quod exemplar2; sed secundum quod exem-                       vitate Dei': « Quidquid scitur, scientis comprehen-
-plar, faciebat, animam Christi cognoscere alia a se:                 sione linitur »; sed anima Chrisli, cum sit finita,
-ergo si perfectissima unione uniebatur sibi , qua                    non polest comprehendere infinita, ita quod illa in-
-nulla potest esse perfectior; videtur, quod ei com-                  finita sint sibi finita, qnia impossibile est, infinitum
-municabat cognitionem omnium , quam habebat.                         esse finitum finito; sed Verbum aeternum cognoscit
-     4. Item, anima Christi cognoscebat aliqua in                    infinita: ergo impossibile est, quod anima Chrisli
-Verbo et cognoscit: aut ergo potest cognoscere plura,                omnia cognoscat in Verbo, quae cognoscit ipsum
-aut non. Si polest cognoscere plura: ergo possibili-                 Verbum.
-tas eius non est omnino completa, quia potesl ad-                          2. Item, cognitio debet adaequari rei cognitae,
-discere de die in diem. Si non potest cognoscere                     secundum quod cognita est, sive sit cognitio in ha-
-plura, quam cognoscat; sed omnis sciens res in nu-                   bitu, sive sit cognitio in actu"; similiter necesse est,
-mero determinato potest scire plura, quia scibilia se                quod adaequetur potentiae, et potentiam necesse est
-non coangustant in anima cognoscente 3, unde si                      adaequari substantiae, ita quod earn non excedat
-scit aliqua , potest adhuc scire reliqua : si ergo                   improportionabiliter; infmitum autem improportiona-
-anima Christi non potest plura scire, videtur, quod                  biliter excedit finitum: si ergo substantia animae
-cognoscat infinila et omnia quae cognoscit ipsa sum-                 Christi finita est, necesse est, et potentiam cogno-
-ma Dei sapientia.                                                    scendi in ipsa esse finitam et cognitionem sirniliter:
-     5. Item, anima Christi multo familiarior est ipsi               ergo necesse est, cognoscibilia esse finita. Si ergo
-Verbo aeterno et maiori amicitia iuncta, quam es-                    aeterna Dei sapientia cognoscit infinita, videtur etc.
-sent Apostoli ipsi Christo, immo adeo familiaris est                       3. Item , cognitio animae Christi , quam habet in
-ei, quod non potesl esse familiarior: ergo omnium                    Verbo, est creala — si enim substantia animae Chri-
-rerum dat ei notitiam, quam ipsa4 potest accipere;                   sti estcreata, pari ratione et cognitio — sed omnia
-sed anima nunquam scit tot, quin possit adhuc plura                  creata sunt in certo pondere, numero et mensura",
-scire: ergo videtur, quod Verbum increatum animam                    et omnia talia sunt finita: ergo necesse est, cogni-
-sibi unitam faceret nosse infinita.                                  tionein.quam habet anima Christi, esse finitam. Sed
-      6. Item, aut anima Christi novil illa solum,                   cognitio finita non est nisi finitorum: ergo anima
-quae sunt, fuerunt et erunt, aut plura his. Si so-                   Christi non cognoscil nisi finita; et Verbum cognoscit
-lum illa novit: igitur si Deus aliquid faceret praeter               infinita: ergo etc.
-ea quae facere disposuit, anima Christi illud igno-                        4. Itein, nihil creatum excedit in infinitum aliud
-raret. Si novit plura his ; sed qua ratione novit                    creatum eiusdem generis; sed anima Chrisli et eius
-aliqua ex his quae Deus facturus non est, eadem                      scientia est creata et eiusdem generis cum qualibet
+2. Item, illi animae cognoscenti res in Verbo ipsum Verbum est ratio cognoscendi[^p313-1]: sed Verbum est ratio cognoscendi voluntarie se offerens pro hac re, vel pro illa, vel pro quacumque alia: si ergo Verbum aeternum animae unitae sibi offert se plena oblatione, cum ipsum sit ratio cognoscendi omnia; videtur, quod anima Christi omnia cognoscebat in Verbo sibi unito.
 
-     1 Cfr. su|>ra q. I. In flne arg. pro cognoscebat Vat. co-       cognoscat omnia quae sunt Deo possibilia, ergo inflnita. Cfr.
-gnoscat.                                                             hic lit. Magislri, e. I.
-     » Cfr. !. Sent. d. 6 q. 3. el d. 27. p. II. q. 2. — In flne          6 Sic Aristot., 1. Metaph. e. 2, de habitu sapientiae ait:
-arg. pro omnium cod. Z omnem.                                        Primo igitur opiriamur, sapientem maxime omnia, ut possibile
-     3 Quia spintuali niodo animae insunt. Cfr. Aristot.. III. de    esl, scire, non habentem singulariter eorum scientiam.
-Anima text. 3. seqq. et 37. seq. (c. i. et 8.), nec non I. Sent.          7 Cap. 18. Vidc supra pag. 299, nota 8. — Vat. allegat 83
-d. 36. q. 2. in corp. — Mox pro reliqua Val. aliqua.
-     * Cod. cc et edd. ipse. Aliquanlo superius pro Verbo ae-        Qq. 8q. II.
-                                                                              Secus res non cognoscerelur , sive cognitio non esset
-terno cod. U Verbo increato.
-                                                                     vera. Cfr. tom. I. pag. 707 , nota '■>. De propos. seq. vide ibid.
-      5 Hoc arg. a S. Bonav. in Quaest. anecdola de Sapientia        pag. 8i, nola 7. — De improporlione inflnili acl llnitum cfr.
-animae Christi (ad oppos.) sic exprimilur: Item anima Clnisti aut    supra pag. 213, nola 10. — Pro hoe arg. Scholastici vulgo ad-
-cognoscit aliqua eorum quae Deus polest faeere et non laciel ,       dueunt (jlossam ordinnriam super illud Psalm. 138, (i: Mira-
-aut nihil. Si nihil cognoscil eorum, quaero, quid impedial; aul      bilis factn est identia tua ex me elc, quae (ilos<;i est secun-
-cnim hoc csl, quia ipsa non potest ad illa se extendere, et illucl   dum Cassiodor. in huiic loc. (ab aliis Isidoro tribuilur; cfr. eius
-esl manifesle falsum; aut quia Deus non vult sihi rovelare, el       lih. I. Sent. c. 3.) et sic sonat: llomo assumliis divtnae siibst.ni-
-hoc est manifestum inconveniens, quia auferl illi Bfllmae Bum-       liae non potest aequari in substantia nec in aliquo alio. Cfr. hic
-mam fumiliarilaicm ad Verbum sihi uniuini. Si eognosdl all-          lit. Magislri, e. I.
-qua eorum quae potcst facere el noii faclet; sed non est maior             " Sap. II, 21: Omnia in mensura <i numero et pondere
-ratio, quare magts cognoscat hoc quam lllud: ergo rldetur, c|uod     disposuisli.
-           S. Bonav. — Tom. III.                                                                                             iO
-314                                                   SENTENTIARUM LIB. III.
+3. Item, Verbum aeternum perfectissime unitum erat ipsi animae Christi, secundum quod *Verbum*, ergo pari ratione perfectissime erat ei unitum, secundum quod *exemplar*[^p313-2]; sed secundum quod exemplar, faciebat animam Christi cognoscere alia a se: ergo si perfectissima unione uniebatur sibi, qua nulla potest esse perfectior; videtur, quod ei communicabat cognitionem omnium, quam habebat.
 
-alia anima beata et eius scientia: ergo anima Chri-                   sibile est, quod anima Christi cognoscat infinita, sive
-sti non excedit in inflnitum scientiam cuiuslibet al-                 omnia quae Verbum cognoscit.
-terius animae creatae. Sed scientia Verbi in infinilum                      9. Item , ad cognitionem rei duo requiruntur,
-excedit scienliam' cuiuslibet ' animae beatae: ergo                   scilicet receptio et iudicium6, ergo ad hoc, quod ali-
-videtur, quod anima Christi nunquam tot cognoscat,                    quis cognoscat aliqua, necesse est, quod habeatpo,Me
-quot cognoscit ipsum Verbum.                                          iudicandi super illa; sed iudicium animae Chrisli est
-      o. Item, sicut cognitio Verbi est immensa inten-                fmitum: ergo nec per se nec per coniunctionem suam
-sive, ita est etiam extensive, quia, sicut habet lim-                 cum Verbo iudicat de infinitis, quia nulla virtus
-piditatem infinitam, ita etiam cognoscit infinita; sed                flnita exit in operationem inflnitam, nec per se nec
-impossibile est, quod anima Christi comprehendat                      cum alia — non enim potest in aliqua infinita ope-
-infinitatem ipsius Verbi intensive et quod ita limpide                ratione ei continuari — ergo impossibile est, animam
-cognoscat, sicut ipsum Verbum2: ergo impossibile                      Christi iudicare de tot, de quot iudicat Verbum ae-
-est pari ratione, quod cognoscat omnia quae cogno-                    ternum; et si hoc, non potest omnia cognoscere,
-scit ipsum Verbum, cum Verbum cognoscat infinita.                     quae Verbum cognoscit.
-      6. Item, sicut intellectus animae Christi ex unione
-                                                                                               C0NCLUSI0.
-sui ad lucem aeternam habet cognoscere multa, sic
-et ipsa substantia animae ex unione ipsius ad Ver-
-bum est nata esse in multis locis ; sed impossibile                   Anima Christi cognitione habituali, quae est sicut
-est, quod anima Christi unquam sit, ubicumque est                         scientia, cognoscit omnia quae cognoscit Ver-
-                                                                          bum , non autem cognitione actuali, quae est
-Verbum, quamvis ei uniatur3: ergo impossibile est,                        sieut consideralio.
-quod intellectus eius cognoscat omnia quae cognoscit
-Verbum, quamvis ei uniatur.
-      7. Item , quanto substantia est simplicior , tanto                    Respondeo: Ad praedictorum intelligentiam est
-plurium est cognoscitiva*; sed substantia Verbi in-                   notandum, quod ad istam quaestionem propter sui
-creata in infinitum excedit quantum ad simplicitatem                  difficultatem a diversis diversimode respondetur; et
-animam Christi: ergo impossibile est, quod anima                      quidam respondent simpliciler concedendo, quidam Duae viae
-Christi unquam tanlum sublimetur , quod cognoscat
-                                                                      triplicemdistinguendo.
-                                                                      autem                  — Primi variantur secundum solo"oms-
-                                                                                  modum dicendi.
-tot, quot cognoscit ipsum Verbum.
-      8. Item, si anima Christi cognoscit omnia quae                       Quidam enim dicunt, quod anima Christi co-viai. etrf
-Verbum cognoscit, aut hoc est per ipsum Verbum
-                                                                      gnoscit
-                                                                      Verbum omnia     quaenonVerbum
-                                                                                aeternum               cognoscit,
-                                                                                                cognoscit           pro Non
-                                                                                                           nisi finita.  eo quod
-                                                                                                                            enim pm'°
-immediate, aut per aliquid aliud creatum sibi su-
-peraddilum. Per ipsum Verbum immediate non                            est exemplar nisi eorum quae sunt, vel fuerunt, vel
-potest, sicut in praecedentibus 6 fuit ostensum . quia                erunt; et haec omnia finita sunt. — Sed iste modus Reprobatur.
-necesse est, ipsum intellectum informari a ratione                    dicendi slare non potest, quia, sicut ipse Augustinus
-cognoscendi. Si per aliquid creatum sibi superad-                     dicit, et in primo libro7 ostensum est, aeterna Dei
-ditum, aut hoc est lumen procedens a Verbo, aut                       sapientia cognoscit infinila, sicut planum est, quia
-species aliqua rei cognitae. Si est lumen procedens                   cognoscit omnes numeri species , cognoscit etiam
-a Verbo; cum illud non excedat in infmitum lumen,                     omnia quae potest facere.
-quod confertur aliis animabus, si aliae animae non                          Alius modus dicendi est, quod anima Christi opiuio %
-cognoscunt nisi finita, necesse est, quod anima Chri-                 cognoscit omnia quae cognoscit Verbum, et cogno-
-sti non cognoscat nisi finita: ergo non cognoscit                     scit infinita, quia uno et eodem8 cognoscit omnia,
-omnia, quae Verbum cognoseit. Si per species sibi                     id est Verbo. Et hinc est, quod non solum anima
-dalas, ergo tot species habebit, quot sunt cognosci-                  Christi actu cognoscit inflnita , sed etiam quaelibet
-bilia; et si hoc, cum cognoscibilia sint infinita, erunt              anima beata, quae intuetur ipsam lucem aeternam,
-in anima Christi infinitae species in actu: ergo si                   secundum quod asserunt. — Sed illud nec ralioni Reprobatur.
-impossibile est, infinita actu esse in creatura, impos-               consonat nec auctoritatibus Sanctorum 9, quia omni-
+4. Item, anima Christi cognoscebat aliqua in Verbo et cognoscit: aut ergo *potest* cognoscere plura, aut *non*. Si *potest* cognoscere plura: ergo possibilitas eius non est omnino completa, quia potest addiscere de die in diem. Si *non potest* cognoscere plura, quam cognoscat; sed omnis sciens res in numero determinato potest scire plura, quia scibilia se non coangustant in anima cognoscente[^p313-3], unde si scit aliqua, potest adhuc scire reliqua: si ergo anima Christi non potest plura scire, videtur, quod cognoscat infinita et omnia quae cognoscit ipsa summa Dei sapientia.
 
-      1 Cod. K subiicit alterius.                                     Cfr. etiam XII. de Civ. Dei, c. 18. — Paulo inferius pro omnes
-      2 Vide supra a. 1. q. 2, et lit. Magistri, hic c. 1.            numeri species cod. K omnes numeros et species.
-      3 Ut probatum est I. Sent. d. 37. p. I. a. 2. q. I. — Pro            8 Cod. N addit aspectu, codd. F U modo (fortasse legen-
-unquam non pauci codd. falso nunquam.                                 dum est medio).
-      * Cfr. Liber de Causis, prop. 10. et 17, nec non Aristot.,           9 Cfr. hic lit. Magistri, c. I, ubi Fulgentius allegatur. Hie-
-III. de Anima, text. 3. seqq. (c. i.). — De minori vide. I. Sent.     ronym., Epist. 36. (alias 125.) ad Damas. n. 15. ait, nullum
-d. 8. p. II. q. 2. — Non pauci cod. cognoscitura. Mox pro in-         hominem, excepto eo qui ob nostram salutem carnem est di-
-creata cod. H increati.
-                                                                      gnatus induere, plenam habuisse scientiam et certissimam ve-
-      5 Art. I. q. 1. •— Paulo inferius pro cum illud codd. K T       ritatem. Et Damasc. , III. de Fide orthod. c. 21 : Nos... dici-
-U X cum igilur illud.                                                 mus... eundem simul Deum et hominem et qui sciat omnia ; in
-      6 Cfr. supra pag. 30S, nota 6. — Mox pro iudicandi cod.         ipso enim sunl omnes thesauri sapientiae et scienliae absconditi
-Z iudicare.                                                           (Coloss. 2, 3.). — Cod. S sic prosequitur: quia omnis sapientia
-      7 Dist. 35. q. 5, ubi plura Augustini teslimonia allata sunt.   creata finita esl et limilata. Et praeterea etc.
-                                                                                                                                            313
-                                                         DIST. XIV. ART. II. QUAEST. III.
+5. Item, anima Christi multo familiarior est ipsi Verbo aeterno et maiori amicitia iuncta, quam essent Apostoli ipsi Christo, immo adeo familiaris est ei, quod non potest esse familiarior: ergo omnium rerum dat ei notitiam, quam ipsa[^p313-4] potest accipere; sed anima nunquam scit tot, quin possit adhuc plura scire: ergo videtur, quod Verbum increatum animam sibi unitam faceret nosse infinita.
 
-           scientia non attribuitur alii animae quam animae                    tiam unionis, cognoscit omnia quae cognoscit ipsum
-           Christi. Et praelerea, virtus finita non videtur posse              Verbum , quoniam gratia unionis ratione extremi ,
-           continuari virtuti infinitae in comprehensione infmi-               cui unitur, est gratia sine mensura et gratia infi-
-           torum , quae quidem est operatio infinita.                          nita; et ideo non est mirum, si cognoscit4 secundum
-                 Tertius modus dicendi est, quod anima Christi                 illam infinita et omnia quae Verbum cognoscit. —
- opinio 3. cognoscit infmita in Verho , quia per Verbum cogno-                 Sed iste modus dicendi non videtur esse intelligi- "»" pr°ba.
-           scit alia, non, inquam, participando sapientiam ,                   bilis de facili. Primum quidem, quia, si anima Chri- Ratio i.
-           sicut aliae animae, sed possidendo ipsam sapientiam.                sti cognoscit, quidquid cognoscit, per habitum crea-
-           Et illud videtur sensisse magister Hugo de sancto                   tum ; nec est habitus alius creatus in anima Chri-
-        Victore in libello de Sapientia Christi '. Ait enim sic:               sti, quo omnia cognosc.it per 5 ipsum Verbum vel
-        « Plenam ac perfectam ac totam Dei sapientiam in                       in ipso Verbo nisi habitus gloriae comprehensoris ,
-        anima Christi fuisse credimus; et ipsa sapientia ean-                  quia illo circumscripto, iam nihil cognosceret in
-        dem animam plene ac perfecte sapientem , non ex                        Verbo — unio enim non facit, divinam naturam
-           ipsa participando, sed totam possidendo, quam sin-                  cognosci ab humana, in quantum unio, sed gloria
-           gulariter possedit et comprehendit ineffabiliter ». Et              comprehejnsoris ; nam caro est nnita Verbo, quam-
-           paulo post: « Hoc unum indubitanter afiirmo, quod                   vis non cognoscat ipsum Verbum 8 — si ergo aliquo
-           aut alia sapienlia in Christo praeter divinam non                    habitu cognoscit omnia quae cognoscit Verbum, ne-
-           fuit, aut si fuit, aequalis illi non fuit ». Et ita di-             cesse est, quod cognoscat per illam cognitionem,
-           cit, quod anima Christi omnia cognoscit 2, quia sa-                 quae quidem est habitus comprehensionis. — Prae- Ratio 2.
-           pientia Christi non fuit alia quam illa sapientia, qua              terea, quidquid sit gratia unionis, sive creatum,
-           Deus est sapiens. In hoc tamen est differentia, quod                sive increalum, anima Christi semper est intra7 ter-
-           Deus est illa sapientia . anima autem Christi non est               minos creaturae: igitur eius virtus cognoscitiva sem-
-           illa sapientia, sed illi sapientiae personaliter unita.             per finita est, igitur nunquam cognoscit infinila. Et
-           Item, Deus est sapiens illa sapientia per naluram,                  sic redit quaestio prius proposita.
-,on proba- anima autem Christi per gratiam unionis. — Sed                            Alius vero modus dicendi est, quod in Deo po-opinios.
-           qualiter verbum illud Hugonis quaerenti satisfaciat,                nitur duplex modus cognoscendi, non propter diver-
-           diCQcile est aperire. Quoniam, sicul in praecedenti-                sitatem a parte virtutis cognoscentis , sed a parte
-           bus3fuit ostensum, ad hoc, quod anima Christi co-                   connotati. Dicitur enim in eo esse scientia visionis
-           gnoscat Verbum, necesse est intervenire sapientiam                  et scientia intelligenliae : et scientia visionis est re-
-           creatam, quae quidem est disponens et habililans                    spectu omnium eorum quae facere disposuit, scientia
-           ipsam animam ad cognitionem Verbi , nec est ipsa                    intelligentiae respectu omnium eorum quae facere
-           summa sapientia , sed influentia ab ea procedens. —                 potest. Et utraque dicitur omniscienlia , quamvis
-           Et ideo tentandum est , si quo modo potest alius                    scientia visionis sit finitorum, scientia intelligentiae
-           modus rationabiliter inveniri quam aliquis trium                    infmitorum. Disposuit enim facere finita, sed potesl
-           praedictorum.                                                       facere infinita R. Quando ergo quaeritur , utrum Chri-
-                 Attendendum est igitur, quod alii tentaverunt                 stus sciat omnia quae novit Verbum; si intelliga-
-   via -2. praedictam quaestionem terminare dislinguendo; et                   tur de scientia visionis, concedunt utique, quod
-           hi diversificantur secundum triplicem modum distin-                 anima Christi omnium illorum capax fuit, et eidem
-           guendi.                                                             communicavit * scientiam omnium illorum quae fa-
-                Quidam enim dicere voluerunl, quod in Chri-                    cere disposuit, propter magnam sui liberalitatem et
-opioio i. sto duplex est modus cognoscendi, quem habet in                      ipsius animae capacitatem. Si autem intelligatur de
-           Verbo: unus per gratiam unionis, alter, qui est per                 scientia intelligentiae , sic dicunt, quod non omnia
-          gratiam compreliensionis. Et illo quidem modo, qui                   cognoscit, quae cognoscit ipsum Verbum, quia illa
-           est per gratiam comprehensionis , non cognoscit om-                 se extendit ad infinita, et anima Christi in cogno-
-           nia quae cognoscit Verbum, sed illa quae spectant                   scendo non potest nisi super finita ; Deus autem non
-           ad gloriam suam. Alio vero modo, qui est per gra-                   communicavit illi animae, nisi quantum potuit ca-
+6. Item, aut anima Christi novit illa solum, quae sunt, fuerunt et erunt, aut plura his. Si solum illa novit: igitur si Deus aliquid faceret praeter ea quae facere disposuit, anima Christi illud ignoraret. Si novit plura his; sed qua ratione novit aliqua ex his quae Deus facturus non est, eadem ratione novit omnia: ergo videtur, quod omnia cognoscat, quae cognoscit aeterna sapientia[^p313-5].
 
+7. Item, multo potentior est anima Christi ad cognoscendum res per ipsum Verbum sibi unitum, quam sit aliqua anima ad cognoscendum res per habitum creatum; sed anima habens habitum creatum cognoscit omnia, ad quae se extendit ille habitus[^p313-6]: ergo anima Christi, habens Verbum increatum sibi unitum, cognoscit omnia quae cognoscit ipsum Verbum.
 
-              1 Circa flnem. In leslimon. allato texlus origin. ante ipsa          * Cod. U cognoscat.
-        sapientia exhibet praepositionem ex , deinde concepit pro pos-               5 Pro per, quod reperitur in codd. CK MOS, edd. I, 2
-        sedit (Vat. possitlet). Alterius lestimonii verba originalia vide-     secundum, Vat. scilicet; a plurimis codd. abest per. Pro quo
-        sis supra pag. 297, nola i. In inilio htiius secundi teslimonii edd.   omnia codd. C G 1 K L Q V aa quae omnid , et pro cognoscit
-        pro unum substituunl ipsum, et deinde omitlunt praeter di-             codd. A H L Z aa cognoscat. Subinde pro comprchensom Vat.
-        cinam.                                                                 cum paucis codd. bis comprehensionis.
-              * Codd. G I K L T V cognovit; pro omnia in codd. II Z bb              87 Cfr.
-                                                                                       Edd. supra
-                                                                                             inter. pag. 296, nota 5.
-        scriptum reperitur omnin alia. Pauln inferius post non est illa
-        sapientia cod. U subnectit per naluram.                                    8 Cfr. I. Sent. d. 39. a. I . q. 3. in corp. — Pro Disposuil
-              3 Art. I. q. I. — Inferius pro ad cognitionem edd. ad nnio-      non pauci codd. Disponit. Aliquanto superius pro connotati cod.
-        nem. Mox pro ab ea procedens bene multi eodd. 06 eo [scil.             K cogniti, cod. II rerum.
-        a Verbo] procedens , i:l dcinde pro rationahiliter edd. ratia-             9 Edd. supplem Deus.
-        nahilior.
-         316                                                   SENTENTIARUM LIB. 111.
+**Sed contra:** 1. Augustinus, in duodecimo de Civitate Dei[^p313-7]: « Quidquid scitur, scientis comprehensione finitur »; sed anima Christi, cum sit finita, non potest comprehendere infinita, ita quod illa infinita sint sibi finita, quia impossibile est, infinitum esse finitum finito; sed Verbum aeternum cognoscit infinita: ergo impossibile est, quod anima Christi omnia cognoscat in Verbo, quae cognoscit ipsum Verbum.
 
-               pere. Et secundum istam viam dissolvi possunt ra-                ex voluntate     speculi   sibi unili,     quod voluntatem
-               tiones ad utramque partem. Et hic quidem modus f                 promptam habet omnia propalandi7, quae relucent
-               satis facilis est et rationabilis. — Verumtamen adhuc            in se; hoc autem non facit alicui alii animae. Et
-  Non plene non quiescit mens dubitantis, quoniam, esto quod
- sufllcit.                                                                      ideo de sola anima Christi concedi potest et debet, Notandum.
-               Deus modo aliquod novum faceret, quod tamen fa-                  quod sit omnisciens quantum ad cognitionem habi-
-               cere non disposuit, sicul novum mundum, iam lateret              lualem. — Et concedendae sunt rationes, quae sunt
-               Christum. — Sequeretur etiam , qnod Christus aliquid             ad istam partem.
-               de novo posset addiscere, et ita non haberet pleni-                   1. Ad illud quod
-                                                                                   .....             .
-                                                                                                        obiicitur
-                                                                                                        .
-                                                                                                                  in contrarium, quod soiutio  op.
-                                                                                                                                      positorura.
-               tudinem scientiae. — El iterum, cum scibilia non se              quidqmd scitur, scientis comprehensione finitur; di-
-               coangustenl2 in anima sciente, nunquam videtur,                  cendum, quod illud inlelligiiur de notitia actuali, Notandom.
-               quod tot sciat anima, quin possit adhuc plura scire;             quae quidem consistit in acluali comprehensione ;
-               quomodo ergo erit status ex parte capacitatis crea-              quod innuitur in ipsa auctoritate. De habituali au-
-               turae ?                                                          tem non oportet , quod habeat veritatem ; nec opor-
-                     Et propterea est tertius modus distinguendi ,              tet adhuc , quod habeat veritatem de omni actuali,
-Opinio 6. et quod contingit aliquid cognosci cognitione habituali
-  auctoris.
-                                                                                sed de ea quae est per comprehensionem. Quamvis
-               et cognitione acluali, sive cognitione, quae est sicut           enim Deus cognoscatur ab anima, non tamen opor-
-               scientia, et cognilione, quae est sicut considerare 3.           tet, quod sit finitus ipsi animae cognoscenti, immo
-               Si igitur loquamur de cognitione quantum ad aclum
-                                                                                simpliciter
-                                                                                     2. Ad est
-                                                                                            illudinfinitus 8.
-                                                                                                   quod obiicitur,  quod cognitio debet
-               considerationis, sic dicendum est, quod anima Chri-
-               sti nunquam tot cognoscit, quot cognoscit ipsum                  adaequari cognoscibili : patet responsio per illud
-               Verbum. Per nullam enim gloriam potest adeo sub-                 quod dictum est, quod hoc verum esfrde cognitione
-               levari creatura, ul simid et in actu iudicet de                  comprehensionis et de ea cognitione, quae aclu
-               infmilis, cum hoc sit infmitae virtutis. Si vero lo-             iudicat de toto cognoscibili ; tali autem modo cogno-
-               quamur de cognitione habituali, sic concedi potest,              scendi non cognoscit anima Christi omnia quae Ver-
-               quod scit omnia quae cognoscit ipsum Verbum sibi                 bum cognoscil.
-         Ratio
-               unilum. — Et hoc1 patet sic: quia, cum anima                           3. Ad illud quod obiicitur, quod cognitio, quam
-               Christi cognoscat ipsum Verbnm habitu glorioso ita               habet anima Christi, esl finita, ergo non potest esse
-               perfecie, quod non potest ipsum perfectius cogno-                infinitorum; dicendum, quod in cognitione animae Tna in c
-               scere; et ipsum Verbum aeternum promptam habeat                  Christi est tria considerare , videlicet,ipsam .  ralio- ciu-isti hu-
-               voluntatem ad aperiendum 111 i animae omnia quae                 nem cognoscendi , quae est ipsum Verbum, et ipsum mana.
-               in ipso relucent, nec aliquid in ipso reluceat, quod             habitum secundum ipsam substantiam habitus, et
-               non sit natum cognosci ab anima Christi: anima Chri-             respectum illius habitus ad cognoscibile. Dico ergo,
-               sti habet aliquid, quo facilis est ad cognoscendum 5             quod quamvis habitus ille sil finitus, tamen ratio
-               omnia quae Verbum cognoscit. Et huius signum esl,                cognoscendi* infinila esl, et per illam habet ille Notaodum.
-               quia ad hoc, quod cognoscat aliquid, quod Verbum                 habitus respectum ad infinita, non in actu , sed in
-               cognoscit, quidquid illud sit, non oportet, quod                 aptitudine. Et hoc modo nihil prohibet, cognitionem
-                detur ei novus habitus cognoscendi, sed omne quod               finitam esse respectu infinitoruin. Ex hoc enim non
-                vult, in eo polest legere.                                      ponitur aliqua infinitas esse in creatura in actu,
-                      Si ergo tu quaeras de illo habitu. utrum sil              sed ponitur actualis infinitas solum in ratione co-
- Quaeslio in habitus fiuitus , vel infinitus; respondeo, quod est
- cidensl.sol
- vilur.
-                finitus, habel tamen respectus 6 ad infinita; nec est           gnoscendi.
-                                                                                     k. Ad illud quod obiicilur, quod creatum non
-                hoc impossibile ponere in creatura. Infinitas enim              excedit aliud creatum eiusdem generis in infinitum;
-                respectuum non ponit infinitatem actualem, sicut                dicendum , quod illud verum est de illo excessu ,
- Ilera qaaesl non ponit comparationem realem. — Si iterum quae-
-   incid. 2.                                                                    qui est in ipso creato secundum se et absolute;
-                ras, unde veniat illa infinitas respectuum circa ha-            de illo vero excessu, qui est ratione crealricis es-
-                bitum cognitipnis animae Christi ; dico, quod venit             senliae, non habet -veritatem. Et isto modo dicitur10
+2. Item, cognitio debet adaequari rei cognitae, secundum quod cognita est, sive sit cognitio in habitu, sive sit cognitio in actu; similiter necesse est, quod adaequetur potentiae, et potentiam necesse est adaequari substantiae, ita quod eam non excedat improportionabiliter; infinitum autem improportionabiliter excedit finitum: si ergo substantia animae Christi finita est, necesse est, et potentiam cognoscendi in ipsa esse finitam et cognitionem similiter: ergo necesse est, cognoscibilia esse finita. Si ergo aeterna Dei sapientia cognoscit infinita, videtur etc.
 
-                1 Codd. A H P S bb subneclunt dicendi. Paulo inferius pro            5 Codd. G 1 L T Z aa cognoscenda.
-          aiiquod novum codd. A G aliquid novum.                                     5 Edd. et complures codd. respectum. -Paulo inferius pro
-                ■ Codd. I L T V Z aa angustent. Vat. post coangustenl           comparationem realem [ i. e. actualem] codd. A E I K. M 0 T U
-          adiicit adhuc. Snbinde pro sciente cod. S scientis.                   V aa bb compositionem realem. Cfr. infra solut. ad 3.
-                3 Arislol., II. de Anima, texl. 2. (c. I.): « Forma aulem            7 Codd. D N bb supplent ei, nonnulli alii codd. et Vat. ipsi
-          acLus; et hoc dupliciter: hoc quidem sicul scientia, illud au-        animae Christi.
-          tcm sicut speculari ». Ibid. texl. 5: Hic [aclus] auLem dicilur du-        8 Cfr. I. Sent. d. 35. q. 5. ad I. — Pro de omni actuali
-          pliciter: alius quidem sicul scientia, alius autem sicut specula-     edd. I, 2 et pl.ures codd. perperam de omni habituali.
-          tin. — Pro considerare edd. consideralio. Paulo superius pro               0 Edd. adiungunl in se.
-          aliquid cognosci cod. V aliquem cognoscere , codd. G I H L T Z             10 Multi codd. non dicitur; perperam, etiamsi cum cod. K.
-          et edd. 1, 2 aliquem cognosci. Pro habituatt plures codd. hic         subsiituatur Et primo modo pro El isto modo; subnexa enim
-          et in seqq. minus recte habiludinali.                                 repugnant huic lectioni. Pro scientia Christi cod. K scientia
-                * Cod. F subdit quidem.                                         animae Christi. Mox posl non quia codd. B D N Y inserunt in se.
-                                                         DIST. XIV. ART. II. QUAEST. III.                                                          317
-           scieniia Christi in infiuitum excedere scientias alia-              tione actuali; et quantum ad hoc verum est, quod
-«fotaDdom. rum animarum, non quia lumen Christi in infinitum                   nunquam anima ascendit ad tot consideranda, quot
-           sit maius in actu quam lumen aliarum animarum,                      ipsum Verlmm considerat. Et si lu obiicias , quod
-           sed quia ipsum Verbum aeternum in infinitum prom-                   nec habitu nec aclu videtur posse pertingere ad
-           ptius se exhibel ad manifestandum ea quae in se                     omnia quae Verbum cognoscit, cum in onmibus
-           habet, ipsi animae Chrisli quam alicui alii animae.                 Creator excedat creaturam; dicendum, quod sicul
-                 o. Ad illud quod obiicilur, quod anima Chrisli                dictum fuit, habitualis cognitio infinilorum non po-
-           non potest cognoscere immensitatem limpiditatis '                   nit infinitatem in habitu cognoscendi; et ideo nec
-           cognitionis divinae, ergo nec immensitatem respectu                 ponit adaequationem ipsius cognitionis animae Christi
-           cognoscibilium; dicendum, quod non est simile du-                   respectu cognitionis ipsius Verbi.
-  naiio i. plici ex causa : una quidem , quia anima Christi ,                        8. Ad illud quod quaeritur, per quid anima
-           quidquid cognoscit in habitu de ipso Verbo aeterno,                 Christi cognoscat 4 omnia quae cognoscit Verbum;
-           cognoscit in actu, cum cognitio ipsius Verbi in se                  dicendum, quod per lumen aliquod sibi datum ; hoc Nou-mdum.
-           sit de essentia gloriae; non sic autem est de cogni-                autem non est, quia lumen illud sit inpnitum, sed
-                                                                               quia est ad infinita scibilia comparatum propter
-           lione aliarum rerum , quae relucent in Verbo ". —
-  Ratio i. Praeterea , ipsum Verbum est infinitum, et quid-                    promptitudinem exemplaris sibi uniti.
-           quid de Verbo intelligilur, totum est infinitum: non                      9. Ad illud vero quod ultimo obiicitur, quod
-           sic autem est de cognoscibilibus infmitis, quia quod-               in cognitione est receptio et iudicium; dicendum,
-           libet ipsorum in se finitum est et cognosci potesl                  quod illud intelligitur de actuali consideratione; de Kotandnm.
-           a substantia et virtute finita et mediante habitu fi-               habiluali autem non est verum, quod quis iudicet
-           nito. Unde quamvis anima Christi cognoscat omnia                    in actu de omnibus quae novit in habitu, sed quod
-           quae Verbum cognoscit; nunquain tamen aequalur                      potest et habet facultatem iudicandi per aliquas ra-
-           ei in cognitione, quia nunquam illa omnia couipre-                  liones. quae sibi insitae sunt ad hoc, quod possit
-           hendit aclualiler , secundum quod ipsum Verbum                      iudicare de illis cognitionibus 5.
-           aeternum pro uno aspectu de omnibus indical et                           Ut igilnr summa praedictorum , quae prolixius Epiiogus.
-           omnia intuetur.                                                     dictasunt, brevius perstringatur, tenendum est, quod
-                 6. Ad illud quod obiicitur, quod anima Christi,               anima Christi habilualem cognitionem habet infini-
-           quamvis sit unita Verbo, non tamen est, ubicumque                   torum et omnium eorum quae cognoscit ipsum
-           est Verbum, ergo nec cognilio ad omnia3 quae co-                    Verbum sibi unituin, licet non habeat aclualem;
-tfoiaodum. gnoscit Verbuiu; dicendum, quod non esl simile,                     et illa quidem habitualis cognitio non ponit infini-
-           quoniam esse hic vel ibi dicit actum existendi; et                  tatem actualem in ipso habitu vel in potenlia co-
-           ideo, si anima Christi esset, ubicumque est Verbum,                 gnoscente , sed solum in ratione cognoscendi , vel
-           iam esset immensa, et existentia eius adaequarelur                  in comparatione habitus cognoscendi ad ipsa cogno-
-           existenliae Verbi. Non sic autem est de cognitione,                 scibilia. — Hunc autem sextum         modum dicendi R»«o. q»are
-           quoniam mulla cognoscit anima Christi in habitu,                    magis conatus sum tenere quam quintum — licet «fa         m,.dus
-                                                                                                                                    praefertur
-                                                                                  .            .,                                   dicendi.
-           quae nunquam considerabit in aclu; ideo nec per                     quintus sit facihor ad sustmendum — tum propter
-           hoc ponitur adaequatio, nec ponitur immensitas circa                auctoritates Sanctorum 6, quibus est in arduis quae-
-           potentiam eius cognoscitivain.                                      stionibus praecipue innilendum , lum etiam pro re-
-                7. Ad illud quod obiicitur, quod simplicitas ani-              verentia lesu Christi, cuius animae, quantumcumque
-           mae nunquam elevatur ad simplicitalem Verbi ; di-                   sapientiae et gratiae possumus, debemus altribuere,
-           cendum, quod illud verbum intelligitur non tantum                   et supra etiam quam intelligimus, ad ipsius reveren-
-           de cognitione habituali, verum etiani de considera-                 tiam et honorem.
+3. Item, cognitio animae Christi, quam habet in Verbo, est creata — si enim substantia animae Christi est creata, pari ratione et cognitio — sed omnia creata sunt in certo pondere, numero et mensura[^p313-8], et omnia talia sunt finita: ergo necesse est, cognitionem, quam habet anima Christi, esse finitam. Sed cognitio finita non est nisi finitorum: ergo anima Christi non cognoscit nisi finita; et Verbum cognoscit infinita: ergo etc.
 
-                                                                   SCHOLION.
-              I. Anliquiores Scliolnslici , ut Magister (hic c. I.), Hugo a    esse necessarium , quod videns Verbum videal omnia , sallem
-        S. Victore (loco in corp. cit.) , Gulielm. Anlissiodorensis (Sum.      actu, quae in ipso sunt, immo lenendum, quod reapse omnis
-        aurea p. III. tr. 1. c. 5.) ef B. Alberl. (hin a. I.), solebanl sine   intellectus crealus non se exlendat ad obiecta omnia, quae com-
-        clislinctione asserere, animam Chrisii cognoscere tot, quot ipsum      plectilur inlellectus divinus, el hoc ob rationes hic ad oppos.
-        Verbum cognoscit ; tamen Mngistcr eliam observat, conlrariam           reiatas. Ilinc a tempore Alexandri Hal. dislinclionem hic adhi-
-        aliorum fuisse opinionem. Nullus aulem trium modorum, quo              bendam esse communiter censuerunt. Primn aulem huiusmodi
-        hane viam diversi explicare voluerunt, probabilis esse censelur.       distinctio (hlc opinio 4.), quae supponit, scientias unionis et
-        — Tres aliae opiniones hie recensitae concordiler slaluunt, non        comprehensionis esse specillee diversas, in se ipsa inanis vel
+<!-- page 314 -->
 
+4. Item, nihil creatum excedit in infinitum aliud creatum eiusdem generis; sed anima Christi et eius scientia est creata et eiusdem generis cum qualibet[^p314-1] alia anima beata et eius scientia: ergo anima Christi non excedit in infinitum scientiam cuiuslibet alterius animae creatae. Sed scientia Verbi in infinitum excedit scientiam cuiuslibet animae beatae: ergo videtur, quod anima Christi nunquam tot cognoscat, quot cognoscit ipsum Verbum.
 
-             1 Codd. N W bb subiiciunl scilicel.                               A II Iv M 0 U V bb cognoscibitibus. Paulo inferius posl prrstrin-
-             1 C,fr. quaesl. praeccd.                                          ijuliir cnd. I-' adclii i/c cnijnitione iiiiiniiir Vliristi , et proxime
-             3 Supple : esi. — Edd. rrgo nec coijnoscil omnin. Circa           |ins| |H" leneuiliiin eclcl. ccini aliquilius eodd. exhibenl con-
-        llnem solut. codd. FtillLNT voculae ideo praeligunt rt.                ceiieniium.
-             ' Codd. (j I K I. T Z aa bb coijnoscit.                                 e Cfr. supra pag. 3 11, nola 9. — Paulo inferius pro ijralnte
-             6 Cfr. supra a. I. q. a. aii fi. — pro cognitionibus codd.        edd. gtorine , et pro possumus codd. I L aa cc possimus.
-318                                                    SENTENTIARUM LIB. III.
- falsa a posterioribus magistris reputatur, nec ab ipso Alexan-               II. Sextus modus solvendi a S. Bonav., si non est primo
- dro Hal. (qui, ut iam diximus in scholio , supra a. I. q. I ,          ab ipso inventus, saltem subliliter et ingeniose est explicalus,
- hanc duplicem scientiam distinguit) eadem ad solvendam hanc            ut iam insinuant verba : « magis conatus sum tenere » (in fine
- difficultatem adhibelur. Nam ipse distinguit (S. p. III. q. 13. m.     quaest.). NuHam huius modi invenimus fieri mentionem in prae-
- 7.) scientiam Dei secundum obiecla scila, sicut opinio 5, sci-         cedentibus auctoribus nec in operibus S. Thomae; tantum quae-
- licet « respectu divinae essentiae et virtulis infinitae et respectu   dam verba B. Alberti (hic a. 2. ad I.) candcm distinctionem
-crealurarum »,• porro (ibid. m. 2.) scientiae unionis atlribuit         insinuare videntur, cum ipse dicat de visione in Verbo, quod
-ea « quae pertinebant ad mysterium incarnationis, passionis et           «scilicet quoad obieclum est unus aspectus, quo sunt omnia, sed
-redemplionis », scienliae vero comprehensionis ea quae « perli-         quoad intellectum discernentem non polest esse actus unus ,
-nent ad suam gloriam et suorum, id esl, illorum quae ordi-              quia alia conversio est secundum actum ad hoc, et alia ad il-
-nantur ad illam ».                                                      lud »; et paulo post vult, quod non « semper simus in eodem
-      Opinio 5 , quac distinguit in Deo obiecta scienliae visionis      actu conversionis ». Insuper nec ipse S. Bonav. in anecdota de
-et simplicis intelligentiae , est S. Thomae et inter theologos          eodem argumenlo quaestione iam citata commemorat hanc so-
-communior. Tamen ne haec quidem caret difficultalibus tum               Iutionem vel argumenta pro eadem hic relata , sed polius ea-
-quoad extensionem eiusdem ad omnia quae Dei scientia visionis           dem utilur distinclione, qua Alex. Hal. et alii 5. opinioni ad-
-comprehendit, tum quoad limitationem , qua excluduntur obie-            haerentes, mulatis tantum verbis. Distinguit enim ibi in Deo tum
-cta simplicis scienliae. Respectu enim scientiae visionis primi         exemplar factivum et dispositivum , in quo relucent obiecta
-huius opinionis defensores putabant, Deum per scientiam visio-          numero finila, scilicet quae sunt, fuerunt et erunt, et quod com-
-nis nullatenus cognoscere infinita. , sed simpliciter finita , quam     prehenditur ab anima Christi, tum exemplar expressivum , in
-positionem S. Thom. iam in Comment. (hic a. 2. quaestiunc. 2.           quo relucent infinita , quae Deus potest facere et intelligere. De
-ad 2.) restringit addens : « sciret tamen (scilicet infinila), si ge-   hoc autem secundo dicit, quod anima Christi illud non com-
-neratio in futunim nunquam cessaret, quod Deo est possibile».           prehendit, sed tamen in illud fertur per modum excessus, « ex-
-Sed idem poslea in Quaest. disp. de Verit. (q. 20. a. i. ad I .)        cessivo quodam modo eiigendo se supra se ipsam », secundum
-et in Sum. (III. q. 10. a. 3.) recte asserit, quod Dei scientia         doclrinam Dionysii (de Myslica Theol. c. 1 ; cfr. II. Sent. d. 23.
-visionis eliam in hac providenlia se extendat aliquo modo ad            a. 2. q. 3. ad 6; Breviloq. p. V. c. 6; lliner. menlis in Deum c. 7.).
-infinita , si considerantur ea quae in potentia creaturarum sunt,       Videtur igilur, quod S. Bonav. hunc sextum modum solvendi am-
-et volubiles cogitaliones daemonum per totam aeternitatem suc-          plexus sit, poslquam memoralas quaestiones dispulatas iam scri-
-cessive continuatae et uno aclu a Deo iam visae. Quomodo au-            psiL Tamen eliam in Breviloq. (p. IV. c. 6.) ulrumque modum
-tem potentia animae Christi simpliciter finita actu cognoseit           ut probabilem insinuat dicens, infinita cognosci « cognitione ha-
-obiecta numero inflnita ? Huic obiectioni variis responsionibus         bituali, vel excessiva ». Eundem modum tanquam probabilein re-
-occurrunl theologi, qui sequuntur hanc viam, in primis S. Thom.         fert Richard. a Med., loc. cit. q. i, et praefert Scot. (hic q. 2. n. 20.),
-in Sum. et de VeriU locc. citt. Atlnmen adeo gravis haec diffi-         ita tamen, ut quintum modum reputet esse non improbabilem.
-cultas visa est Richardo a Med. (hic a. 2. q. 3.) , ut ipse eliam              III. Tota haec solulio innitur principiis in praecedenti quaest.
-quoad scientiam visionis limitationem quandam statuat dicens:           explicalis, et clavis ad aperiendam genuinam inlelligentiam hu-
- «Credo, quod (anima Christi) actu videt in Verbo simul om-             ius doctrinae hic in corp. et praecipue in solut. ad 3. et 8.
-nia praesentia , praeterita et futura , loquendo de illis rebus fu-     proponilur. Observandum autem est, S. Doctorem, dum hanc
-turis, quarum una alii non succedet sine fine, quod dico pro-           vinm praefert, minime intendere, actualem animae Christi co-
-pter cogniliones hominum et Angelorum in proprio genere ,               gnilionem sive considerationem restringere, quam supponit com-
-quarum una alii poterit succedere sine flne ». — Etiam limitalio        prehendere quam plurima scita, sed potius, admiltendo etiam
-scientiae Christi per exclusionem obiectorum simplicis scienliae        quasi habitualem , vult probare, sciemiam Chrisli esse illimita-
-propter quaedam verba Scripturae et Patrum non videtur posse            tam , et hoc modo et auctoritates Scripturae Patrumque salvare,
-concipi ut exclusio totalis ; et si non est totalis , ubi sunt ter-     et theologorum senlentias sibi contrarias pro more suo in con-
-mini ponendi (cfr. supra pag. 313, nota 5)? Huius difficultatis         cordiam redigere. — Ceterum in re ab intelleclu humano ila re-
-ponderatio praecipue movit S. Bonav. ad aliam solutionem quae-          mota et propter opinionum varietatem ambigua non evidenliam,
-rendam, ut in fine quaestiouis ipse affirmat. Altamen ipse opi-         sed probabilitalem tantum assequi possumus.
-nionem 5. non reprobat, quae ipsi videtur esse « satis facilis                IV. Praeter auclores cilatos : Petr. a Tar., hic a. 4. quae-
-et rationabilis ».                                                      stiunc. 2. — Durand., hic q. I. — Diony. Carlh., hic q. 2.
+5. Item, sicut cognitio Verbi est immensa intensive, ita est etiam extensive, quia, sicut habet limpiditatem infinitam, ita etiam cognoscit infinita; sed impossibile est, quod anima Christi comprehendat infinitatem ipsius Verbi intensive et quod ita limpide cognoscat, sicut ipsum Verbum[^p314-2]: ergo impossibile est pari ratione, quod cognoscat omnia quae cognoscit ipsum Verbum, cum Verbum cognoscat infinita.
+
+6. Item, sicut intellectus animae Christi ex unione sui ad lucem aeternam habet cognoscere multa, sic et ipsa substantia animae ex unione ipsius ad Verbum est nata esse in multis locis; sed impossibile est, quod anima Christi unquam sit, ubicumque est Verbum, quamvis ei uniatur[^p314-3]: ergo impossibile est, quod intellectus eius cognoscat omnia quae cognoscit Verbum, quamvis ei uniatur.
+
+7. Item, quanto substantia est simplicior, tanto plurium est cognoscitiva[^p314-4]; sed substantia Verbi increata in infinitum excedit quantum ad simplicitatem animam Christi: ergo impossibile est, quod anima Christi unquam tantum sublimetur, quod cognoscat tot, quot cognoscit ipsum Verbum.
+
+8. Item, si anima Christi cognoscit omnia quae Verbum cognoscit, aut hoc est per ipsum Verbum immediate, aut per aliquid aliud creatum sibi superadditum. Per ipsum Verbum immediate non potest, sicut in praecedentibus[^p314-5] fuit ostensum, quia necesse est, ipsum intellectum informari a ratione cognoscendi. Si per aliquid creatum sibi superadditum, aut hoc est lumen procedens a Verbo, aut species aliqua rei cognitae. Si est lumen procedens a Verbo; cum illud non excedat in infinitum lumen, quod confertur aliis animabus, si aliae animae non cognoscunt nisi finita, necesse est, quod anima Christi non cognoscat nisi finita: ergo non cognoscit omnia, quae Verbum cognoscit. Si per species sibi datas, ergo tot species habebit, quot sunt cognoscibilia; et si hoc, cum cognoscibilia sint infinita, erunt in anima Christi infinitae species in actu: ergo si impossibile est, infinita actu esse in creatura, impossibile est, quod anima Christi cognoscat infinita, sive omnia quae Verbum cognoscit.
+
+9. Item, ad cognitionem rei duo requiruntur, scilicet receptio et iudicium[^p314-6], ergo ad hoc, quod aliquis cognoscat aliqua, necesse est, quod habeat potestatem iudicandi super illa; sed iudicium animae Christi est finitum: ergo nec per se nec per coniunctionem suam cum Verbo iudicat de infinitis, quia nulla virtus finita exit in operationem infinitam, nec per se nec cum alia — non enim potest in aliqua infinita operatione ei continuari — ergo impossibile est, animam Christi iudicare de tot, de quot iudicat Verbum aeternum; et si hoc, non potest omnia cognoscere, quae Verbum cognoscit.
+
+> **Conclusio.** Anima Christi cognitione habituali, quae est sicut scientia, cognoscit omnia quae cognoscit Verbum, non autem cognitione actuali, quae est sicut consideratio.
+
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod ad istam quaestionem propter sui difficultatem a diversis diversimode respondetur; et quidam respondent *simpliciter concedendo*, quidam autem *distinguendo*. — Primi variantur secundum triplicem modum dicendi.
+
+Quidam enim dicunt, quod anima Christi cognoscit omnia quae Verbum cognoscit, pro eo quod Verbum aeternum non cognoscit nisi finita. Non enim est exemplar nisi eorum quae sunt, vel fuerunt, vel erunt; et haec omnia finita sunt. — Sed iste modus dicendi stare non potest, quia, sicut ipse Augustinus dicit, et in primo libro[^p314-7] ostensum est, aeterna Dei sapientia cognoscit infinita, sicut planum est, quia cognoscit omnes numeri species, cognoscit etiam omnia quae potest facere.
+
+Alius modus dicendi est, quod anima Christi cognoscit omnia quae cognoscit Verbum, et cognoscit infinita, quia uno et eodem[^p314-8] cognoscit omnia, id est Verbo. Et hinc est, quod non solum anima Christi *actu* cognoscit infinita, sed etiam quaelibet anima beata, quae intuetur ipsam lucem aeternam, secundum quod asserunt. — Sed illud nec rationi consonat nec auctoritatibus Sanctorum[^p314-9], quia omni-
+
+<!-- page 315 -->
+
+scientia non attribuitur alii animae quam animae Christi. Et praeterea, virtus finita non videtur posse continuari virtuti infinitae in comprehensione infinitorum, quae quidem est operatio infinita.
+
+Tertius modus dicendi est, quod anima Christi cognoscit infinita in Verbo, quia per Verbum cognoscit alia, non, inquam, participando sapientiam, sicut aliae animae, sed possidendo ipsam sapientiam. Et illud videtur sensisse magister Hugo de sancto Victore in libello de Sapientia Christi[^p315-1]. Ait enim sic: « Plenam ac perfectam ac totam Dei sapientiam in anima Christi fuisse credimus; et ipsa sapientia eandem animam plene ac perfecte sapientem, non ex ipsa participando, sed totam possidendo, quam singulariter possedit et comprehendit ineffabiliter ». Et paulo post: « Hoc unum indubitanter affirmo, quod aut alia sapientia in Christo praeter divinam non fuit, aut si fuit, aequalis illi non fuit ». Et ita dicit, quod anima Christi omnia cognoscit[^p315-2], quia sapientia Christi non fuit alia quam illa sapientia, qua Deus est sapiens. In hoc tamen est differentia, quod Deus *est* illa sapientia, anima autem Christi non est illa sapientia, sed illi sapientiae personaliter *unita*. Item, Deus est sapiens illa sapientia per *naturam*, anima autem Christi per *gratiam unionis*. — Sed qualiter verbum illud Hugonis quaerenti satisfaciat, difficile est aperire. Quoniam, sicut in praecedentibus[^p315-3] fuit ostensum, ad hoc, quod anima Christi cognoscat Verbum, necesse est intervenire sapientiam *creatam*, quae quidem est *disponens* et habilitans ipsam animam ad cognitionem Verbi, nec est ipsa summa sapientia, sed influentia ab ea procedens. — Et ideo tentandum est, si quo modo potest alius modus rationabiliter inveniri quam aliquis trium praedictorum.
+
+Attendendum est igitur, quod alii tentaverunt praedictam quaestionem terminare *distinguendo*; et hi diversificantur secundum triplicem modum distinguendi.
+
+Quidam enim dicere voluerunt, quod in Christo duplex est modus cognoscendi, quem habet in Verbo: unus per *gratiam unionis*, alter, qui est per *gratiam comprehensionis*. Et illo quidem modo, qui est per gratiam comprehensionis, non cognoscit omnia quae cognoscit Verbum, sed illa quae spectant ad gloriam suam. Alio vero modo, qui est per gratiam unionis, cognoscit omnia quae cognoscit ipsum Verbum, quoniam gratia unionis ratione extremi, cui unitur, est gratia sine mensura et gratia infinita; et ideo non est mirum, si cognoscit[^p315-4] secundum illam infinita et omnia quae Verbum cognoscit. — Sed iste modus dicendi non videtur esse intelligibilis de facili. Primum quidem, quia, si anima Christi cognoscit, quidquid cognoscit, per habitum creatum; nec est habitus alius creatus in anima Christi, quo omnia cognoscit per[^p315-5] ipsum Verbum vel in ipso Verbo nisi habitus gloriae comprehensoris, quia illo circumscripto, iam nihil cognosceret in Verbo — unio enim non facit, divinam naturam cognosci ab humana, in quantum unio, sed gloria comprehensoris; nam caro est unita Verbo, quamvis non cognoscat ipsum Verbum — si ergo aliquo habitu cognoscit omnia quae cognoscit Verbum, necesse est, quod cognoscat per illam cognitionem, quae quidem est habitus comprehensionis. — Praeterea, quidquid sit gratia unionis, sive creatum, sive increatum, anima Christi semper est intra[^p315-6] terminos creaturae: igitur eius virtus cognoscitiva semper finita est, igitur nunquam cognoscit infinita. Et sic redit quaestio prius proposita.
+
+Alius vero modus dicendi est, quod in Deo ponitur duplex modus cognoscendi, non propter diversitatem a parte *virtutis cognoscentis*, sed a parte *connotati*[^p315-7]. Dicitur enim in eo esse scientia *visionis* et scientia *intelligentiae*: et scientia visionis est respectu omnium eorum quae facere *disposuit*, scientia intelligentiae respectu omnium eorum quae facere *potest*. Et utraque dicitur *omniscientia*, quamvis scientia visionis sit finitorum, scientia intelligentiae infinitorum. Disposuit enim facere finita, sed potest facere infinita[^p315-8][^p315-9]. Quando ergo quaeritur, utrum Christus sciat omnia quae novit Verbum; si intelligatur de scientia *visionis*, concedunt utique, quod anima Christi omnium illorum *capax* fuit, et eidem communicavit scientiam omnium illorum quae facere disposuit, propter magnam sui liberalitatem et ipsius animae capacitatem. Si autem intelligatur de scientia *intelligentiae*, sic dicunt, quod non omnia cognoscit, quae cognoscit ipsum Verbum, quia illa se extendit ad infinita, et anima Christi in cognoscendo non potest nisi super finita; Deus autem non communicavit illi animae, nisi quantum potuit ca-
+
+<!-- page 316 -->
+
+pere. Et secundum istam viam dissolvi possunt rationes ad utramque partem. Et hic quidem modus satis facilis est et rationabilis. — Verumtamen adhuc non quiescit mens dubitantis, quoniam, esto quod Deus modo aliquod novum[^p316-1] faceret, quod tamen facere non disposuit, sicut novum mundum, iam lateret Christum. — Sequeretur etiam, quod Christus aliquid de novo posset addiscere, et ita non haberet plenitudinem scientiae. — Et iterum, cum scibilia non se coangustent[^p316-2] in anima sciente, nunquam videtur, quod tot sciat anima, quin possit adhuc plura scire; quomodo ergo erit status ex parte capacitatis creaturae?
+
+Et propterea est tertius modus distinguendi, quod contingit aliquid cognosci cognitione *habituali* et cognitione *actuali*, sive cognitione, quae est sicut *scientia*, et cognitione, quae est sicut *considerare*[^p316-3]. Si igitur loquamur de cognitione quantum ad *actum considerationis*, sic dicendum est, quod anima Christi nunquam tot cognoscit, quot cognoscit ipsum Verbum. Per nullam enim gloriam potest adeo sublevari creatura, ut *simul* et *in actu* iudicet de infinitis, cum hoc sit infinitae virtutis. Si vero loquamur de cognitione *habituali*, sic concedi potest, quod scit omnia quae cognoscit ipsum Verbum sibi unitum. — Et hoc[^p316-4] patet sic: quia, cum anima Christi cognoscat ipsum Verbum habitu glorioso ita perfecte, quod non potest ipsum perfectius cognoscere; et ipsum Verbum aeternum promptam habeat voluntatem ad aperiendum illi animae omnia quae in ipso relucent, nec aliquid in ipso reluceat, quod non sit natum cognosci ab anima Christi: anima Christi habet aliquid, quo facilis est ad cognoscendum[^p316-5] omnia quae Verbum cognoscit. Et huius signum est, quia ad hoc, quod cognoscat aliquid, quod Verbum cognoscit, quidquid illud sit, non oportet, quod detur ei novus *habitus* cognoscendi, sed omne quod vult, in eo potest legere.
+
+Si ergo tu quaeras de illo habitu, utrum sit habitus *finitus*, vel *infinitus*; respondeo, quod est *finitus*, habet tamen respectus[^p316-6] ad infinita; nec est hoc impossibile ponere in creatura. Infinitas enim respectuum non ponit infinitatem actualem, sicut non ponit comparationem realem. — Si iterum quaeras, unde veniat illa infinitas respectuum circa habitum cognitionis animae Christi; dico, quod venit ex voluntate speculi sibi uniti, quod voluntatem promptam habet omnia propalandi[^p316-7], quae relucent in se; hoc autem non facit alicui alii animae. Et ideo de sola anima Christi concedi potest et debet, quod sit omnisciens quantum ad cognitionem habitualem. — Et concedendae sunt rationes, quae sunt ad istam partem.
+
+1. Ad illud quod obiicitur in contrarium, quod quidquid scitur, scientis comprehensione finitur; dicendum, quod illud intelligitur de notitia actuali, quae quidem consistit in actuali comprehensione; quod innuitur in ipsa auctoritate. De habituali autem non oportet, quod habeat veritatem; nec oportet adhuc, quod habeat veritatem de omni actuali[^p316-8], sed de ea quae est per comprehensionem. Quamvis enim Deus cognoscatur ab anima, non tamen oportet, quod sit finitus ipsi animae cognoscenti, immo simpliciter est infinitus[^p316-9].
+
+2. Ad illud quod obiicitur, quod cognitio debet adaequari cognoscibili: patet responsio per illud quod dictum est, quod hoc verum est de cognitione comprehensionis et de ea cognitione, quae actu iudicat de toto cognoscibili; tali autem modo cognoscendi non cognoscit anima Christi omnia quae Verbum cognoscit.
+
+3. Ad illud quod obiicitur, quod cognitio, quam habet anima Christi, est finita, ergo non potest esse infinitorum; dicendum, quod in cognitione animae Christi est tria considerare, videlicet ipsam *rationem cognoscendi*, quae est ipsum Verbum, et ipsum *habitum* secundum ipsam substantiam habitus, et *respectum* illius habitus ad cognoscibile. Dico ergo, quod quamvis habitus ille sit finitus, tamen ratio cognoscendi infinita est, et per illam habet ille habitus respectum ad infinita, non *in actu*, sed *in aptitudine*. Et hoc modo nihil prohibet, cognitionem finitam esse respectu infinitorum. Ex hoc enim non ponitur aliqua infinitas esse in creatura in actu, sed ponitur actualis infinitas solum in ratione cognoscendi.
+
+4. Ad illud quod obiicitur, quod creatum non excedit aliud creatum eiusdem generis in infinitum; dicendum, quod illud verum est de illo excessu, qui est in ipso creato *secundum se* et *absolute*; de illo vero excessu, qui est ratione *creatricis essentiae*, non habet veritatem. Et isto modo dicitur[^p316-10] scientia Christi in infinitum excedere scientias aliarum animarum, non quia lumen Christi in infinitum sit maius *in actu* quam lumen aliarum animarum, sed quia ipsum Verbum aeternum in infinitum promptius se exhibet ad manifestandum ea quae in se habet, ipsi animae Christi quam alicui alii animae.
+
+<!-- page 317 -->
+
+5. Ad illud quod obiicitur, quod anima Christi non potest cognoscere immensitatem limpiditatis[^p317-1] cognitionis divinae, ergo nec immensitatem respectu cognoscibilium; dicendum, quod non est simile duplici ex causa: una quidem, quia anima Christi, quidquid cognoscit *in habitu* de ipso Verbo aeterno, cognoscit *in actu*, cum cognitio ipsius Verbi in se sit de essentia gloriae; non sic autem est de cognitione aliarum rerum, quae relucent in Verbo[^p317-2]. — Praeterea, ipsum Verbum est infinitum, et quidquid de Verbo intelligitur, totum est infinitum: non sic autem est de cognoscibilibus infinitis, quia quodlibet ipsorum in se finitum est et cognosci potest a substantia et virtute finita et mediante habitu finito. Unde quamvis anima Christi cognoscat omnia quae Verbum cognoscit; nunquam tamen aequatur ei in cognitione, quia nunquam illa omnia comprehendit actualiter, secundum quod ipsum Verbum aeternum pro uno aspectu de omnibus iudicat et omnia intuetur.
+
+6. Ad illud quod obiicitur, quod anima Christi, quamvis sit unita Verbo, non tamen est, ubicumque est Verbum, ergo nec cognitio ad omnia[^p317-3] quae cognoscit Verbum; dicendum, quod non est simile, quoniam esse hic vel ibi dicit actum *existendi*; et ideo, si anima Christi esset, ubicumque est Verbum, iam esset immensa, et existentia eius adaequaretur existentiae Verbi. Non sic autem est de cognitione, quoniam multa cognoscit anima Christi in habitu, quae nunquam considerabit in actu; ideo nec per hoc ponitur adaequatio, nec ponitur immensitas circa potentiam eius cognoscitivam.
+
+7. Ad illud quod obiicitur, quod simplicitas animae nunquam elevatur ad simplicitatem Verbi; dicendum, quod illud verbum intelligitur non tantum de cognitione habituali, verum etiam de consideratione actuali; et quantum ad hoc verum est, quod nunquam anima ascendit ad tot consideranda, quot ipsum Verbum considerat. Et si tu obiicias, quod nec habitu nec actu videtur posse pertingere ad omnia quae Verbum cognoscit, cum in omnibus Creator excedat creaturam; dicendum, quod sicut dictum fuit, habitualis cognitio infinitorum non ponit infinitatem in habitu cognoscendi; et ideo nec ponit adaequationem ipsius cognitionis animae Christi respectu cognitionis ipsius Verbi.
+
+8. Ad illud quod quaeritur, per quid anima Christi cognoscat[^p317-4] omnia quae cognoscit Verbum; dicendum, quod per lumen aliquod sibi datum; hoc autem non est, quia lumen illud sit infinitum, sed quia est ad infinita scibilia comparatum propter promptitudinem exemplaris sibi uniti.
+
+9. Ad illud vero quod ultimo obiicitur, quod in cognitione est receptio et iudicium; dicendum, quod illud intelligitur de actuali consideratione; de habituali autem non est verum, quod quis iudicet in actu de omnibus quae novit in habitu, sed quod potest et habet facultatem iudicandi per aliquas rationes, quae sibi insitae sunt ad hoc, quod possit iudicare de illis cognitionibus[^p317-5].
+
+Ut igitur summa praedictorum, quae prolixius dicta sunt, brevius perstringatur, tenendum est, quod anima Christi habitualem cognitionem habet infinitorum et omnium eorum quae cognoscit ipsum Verbum sibi unitum, licet non habeat actualem; et illa quidem habitualis cognitio non ponit infinitatem actualem in ipso habitu vel in potentia cognoscente, sed solum in ratione cognoscendi, vel in comparatione habitus cognoscendi ad ipsa cognoscibilia. — Hunc autem sextum modum dicendi magis conatus sum tenere quam quintum — licet quintus sit facilior ad sustinendum — tum propter auctoritates Sanctorum[^p317-6], quibus est in arduis quaestionibus praecipue innitendum, tum etiam pro reverentia Iesu Christi, cuius animae, quantumcumque sapientiae et gratiae possumus, debemus attribuere, et supra etiam quam intelligimus, ad ipsius reverentiam et honorem.
+
+### Scholion
+
+**I.** Antiquiores Scholastici, ut Magister (hic c. I.), Hugo a S. Victore (loco in corp. cit.), Gulielm. Antissiodorensis (Sum. aurea p. III. tr. 1. c. 5.) et B. Albert. (hic a. I.), solebant sine distinctione asserere, animam Christi cognoscere tot, quot ipsum Verbum cognoscit; tamen Magister etiam observat, contrariam aliorum fuisse opinionem. Nullus autem trium modorum, quo hanc viam diversi explicare voluerunt, probabilis esse censetur. — Tres aliae opiniones hic recensitae concorditer statuunt, non esse necessarium, quod videns Verbum videat omnia, saltem actu, quae in ipso sunt, immo tenendum, quod reapse omnis intellectus creatus non se extendat ad obiecta omnia, quae complectitur intellectus divinus, et hoc ob rationes hic ad oppos. relatas. Hinc a tempore Alexandri Hal. distinctionem hic adhibendam esse communiter censuerunt. Prima autem huiusmodi distinctio (hic opinio 4.), quae supponit, scientias unionis et comprehensionis esse specifice diversas, in se ipsa inanis vel falsa a posterioribus magistris reputatur, nec ab ipso Alexandro Hal. (qui, ut iam diximus in scholio, supra a. I. q. I, hanc duplicem scientiam distinguit) eadem ad solvendam hanc difficultatem adhibetur. Nam ipse distinguit (S. p. III. q. 13. m. 7.) scientiam Dei secundum *obiecta scita*, sicut opinio 5, scilicet « respectu divinae essentiae et virtutis infinitae et respectu creaturarum »; porro (ibid. m. 2.) scientiae *unionis* attribuit ea « quae pertinebant ad mysterium incarnationis, passionis et redemptionis », scientiae vero *comprehensionis* ea quae « pertinent ad suam gloriam et suorum, id est, illorum quae ordinantur ad illam ».
+
+<!-- page 318 -->
+
+Opinio 5, quae distinguit in Deo obiecta scientiae *visionis* et *simplicis intelligentiae*, est S. Thomae et inter theologos communior. Tamen ne haec quidem caret difficultatibus tum quoad *extensionem* eiusdem ad omnia quae Dei scientia visionis comprehendit, tum quoad *limitationem*, qua excluduntur obiecta *simplicis scientiae*. Respectu enim scientiae visionis primi huius opinionis defensores putabant, Deum per scientiam visionis nullatenus cognoscere *infinita*, sed simpliciter *finita*, quam positionem S. Thom. iam in Comment. (hic a. 2. quaestiunc. 2. ad 2.) restringit addens: « sciret tamen (scilicet infinita), si generatio in futurum nunquam cessaret, quod Deo est possibile ». Sed idem postea in Quaest. disp. de Verit. (q. 20. a. 4. ad 1.) et in Sum. (III. q. 10. a. 3.) recte asserit, quod Dei scientia visionis etiam in hac providentia se extendat aliquo modo ad infinita, si considerantur ea quae in potentia creaturarum sunt, et volubiles cogitationes daemonum per totam aeternitatem successive continuatae et uno actu a Deo iam visae. Quomodo autem potentia animae Christi simpliciter finita actu cognoscit obiecta numero infinita? Huic obiectioni variis responsionibus occurrunt theologi, qui sequuntur hanc viam, in primis S. Thom. in Sum. et de Verit. locc. citt. Attamen adeo gravis haec difficultas visa est Richardo a Med. (hic a. 2. q. 3.), ut ipse etiam quoad scientiam visionis limitationem quandam statuat dicens: « Credo, quod (anima Christi) actu videt in Verbo simul omnia praesentia, praeterita et futura, loquendo de illis rebus futuris, quarum una alii non succedet sine fine, quod dico propter cognitiones hominum et Angelorum in proprio genere, quarum una alii poterit succedere sine fine ». — Etiam limitatio scientiae Christi per *exclusionem* obiectorum simplicis scientiae propter quaedam verba Scripturae et Patrum non videtur posse concipi ut exclusio totalis; et si non est totalis, ubi sunt termini ponendi (cfr. supra pag. 313, nota 5)? Huius difficultatis ponderatio praecipue movit S. Bonav. ad aliam solutionem quaerendam, ut in fine quaestionis ipse affirmat. Attamen ipse opinionem 5. non reprobat, quae ipsi videtur esse « satis facilis et rationabilis ».
+
+**II.** Sextus modus solvendi a S. Bonav., si non est primo ab ipso inventus, saltem subtiliter et ingeniose est explicatus, ut iam insinuant verba: « magis conatus sum tenere » (in fine quaest.). Nullam huius modi invenimus fieri mentionem in praecedentibus auctoribus nec in operibus S. Thomae; tantum quaedam verba B. Alberti (hic a. 2. ad 1.) eandem distinctionem insinuare videntur, cum ipse dicat de visione in Verbo, quod « scilicet quoad *obiectum* est unus aspectus, quo sunt omnia, sed quoad *intellectum discernentem* non potest esse actus unus, quia alia conversio est secundum *actum* ad hoc, et alia ad illud »; et paulo post vult, quod non « semper simus in eodem actu conversionis ». Insuper nec ipse S. Bonav. in anecdota de eodem argumento quaestione iam citata commemorat hanc solutionem vel argumenta pro eadem hic relata, sed potius eadem utitur distinctione, qua Alex. Hal. et alii 5. opinioni adhaerentes, mutatis tantum verbis. Distinguit enim ibi in Deo tum exemplar *factivum et dispositivum*, in quo relucent obiecta numero finita, scilicet quae sunt, fuerunt et erunt, et quod comprehenditur ab anima Christi, tum exemplar *expressivum*, in quo relucent infinita, quae Deus potest facere et intelligere. De hoc autem secundo dicit, quod anima Christi illud non comprehendit, sed tamen in illud fertur per modum excessus, « excessivo quodam modo erigendo se supra se ipsam », secundum doctrinam Dionysii (de Mystica Theol. c. 1; cfr. II. Sent. d. 23. a. 2. q. 3. ad 6; Breviloq. p. V. c. 6; Itiner. mentis in Deum c. 7.). Videtur igitur, quod S. Bonav. hunc sextum modum solvendi amplexus sit, postquam memoratas quaestiones disputatas iam scripsit. Tamen etiam in Breviloq. (p. IV. c. 6.) utrumque modum ut probabilem insinuat dicens, infinita cognosci « cognitione habituali, vel excessiva ». Eundem modum tanquam probabilem refert Richard. a Med., loc. cit. q. 4, et praefert Scot. (hic q. 2. n. 20.), ita tamen, ut quintum modum reputet esse non improbabilem.
+
+**III.** Tota haec solutio innitur principiis in praecedenti quaest. explicatis, et clavis ad aperiendam genuinam intelligentiam huius doctrinae hic in corp. et praecipue in solut. ad 3. et 8. proponitur. Observandum autem est, S. Doctorem, dum hanc viam praefert, minime intendere, actualem animae Christi cognitionem sive considerationem restringere, quam supponit comprehendere quam plurima scita, sed potius, admittendo etiam quasi habitualem, vult probare, scientiam Christi esse illimitatam, et hoc modo et auctoritates Scripturae Patrumque salvare, et theologorum sententias sibi contrarias pro more suo in concordiam redigere. — Ceterum in re ab intellectu humano ita remota et propter opinionum varietatem ambigua non evidentiam, sed probabilitatem tantum assequi possumus.
+
+**IV.** Praeter auctores citatos: Petr. a Tar., hic a. 4. quaestiunc. 2. — Durand., hic q. I. — Diony. Carth., hic q. 2.
+
+---
 
 ## English
 
-[Translation pending]
+### Question III. *Whether the soul of Christ knows in the Word all things that the Word knows.*
+
+Thirdly it is asked, whether the soul of Christ knows in the Word all things that the Word knows. And that it does so[^p312-1] seems to be the case.
+
+1. The blessed soul of Christ had the Spirit not by measure, according to what is said in John, chapter three[^p312-2]; but the Spirit is for knowing and loving: therefore it had the Spirit for knowing without measure; and if this is so, then God conceals nothing from that soul: therefore that soul knows in the Word all those things that God himself knows.
+
+2. Likewise, for that soul knowing things in the Word, the Word itself is the ground of knowing[^p313-1]: but the Word is the ground of knowing that voluntarily offers itself for this thing, or for that, or for any other whatsoever: if therefore the eternal Word offers itself with full self-giving to the soul united to it, since it is itself the ground of knowing all things, it seems that the soul of Christ knew all things in the Word united to it.
+
+3. Likewise, the eternal Word was most perfectly united to the very soul of Christ, insofar as it is the *Word*; therefore by parity of reasoning it was most perfectly united to it insofar as it is the *exemplar*[^p313-2]; but insofar as it is the exemplar, it caused the soul of Christ to know things other than itself: therefore if it was united to it by the most perfect union, than which none can be more perfect, it seems that it communicated to it the knowledge of all things, which it had.
+
+4. Likewise, the soul of Christ knew certain things in the Word and knows them: either therefore it *can* know more, or it *cannot*. If it *can* know more: then its possibility is not wholly complete, because it can learn more day by day. If it *cannot* know more than it knows; but everyone who knows things in a determinate number can know more, because the knowable things do not crowd one another in the knowing soul[^p313-3], whence if it knows certain things, it can still know the rest: if therefore the soul of Christ cannot know more, it seems that it knows infinite things and all that the supreme wisdom of God itself knows.
+
+5. Likewise, the soul of Christ is much more familiar with the eternal Word itself and joined to it by a greater friendship than the Apostles were to Christ himself, indeed it is so familiar with it that it cannot be more familiar: therefore it gives it the knowledge of all things which it[^p313-4] can receive; but the soul never knows so much that it cannot still know more: therefore it seems that the uncreated Word would cause the soul united to it to know infinite things.
+
+6. Likewise, either the soul of Christ knows only those things which are, have been, and will be, or more than these. If it knows only those: then if God should do anything beyond those things which he has disposed to do, the soul of Christ would be ignorant of it. If it knows more than these; but by whatever reason it knows some of those things which God is not going to do, by the same reason it knows all things: therefore it seems that it knows all things that the eternal wisdom knows[^p313-5].
+
+7. Likewise, the soul of Christ is far more powerful for knowing things through the very Word united to it than any soul is for knowing things through a created habit; but a soul having a created habit knows all things to which that habit extends[^p313-6]: therefore the soul of Christ, having the uncreated Word united to it, knows all things that the Word itself knows.
+
+**On the contrary:** 1. Augustine, in the twelfth book of *The City of God*[^p313-7]: « Whatever is known is bounded by the comprehension of the one knowing »; but the soul of Christ, since it is finite, cannot comprehend infinite things in such a way that those infinite things are finite to it, because it is impossible that the infinite be made finite by a finite thing; but the eternal Word knows infinite things: therefore it is impossible that the soul of Christ should know in the Word all things that the Word itself knows.
+
+2. Likewise, knowledge ought to be made equal to the thing known, according as it is known, whether it be knowledge in habit or knowledge in act; likewise it is necessary that it be made equal to the power, and the power must be made equal to the substance, in such a way that it does not exceed it disproportionately; but the infinite exceeds the finite disproportionately: if therefore the substance of the soul of Christ is finite, it is necessary that the power of knowing in it also be finite, and the knowledge likewise: therefore it is necessary that the knowable things be finite. If therefore the eternal wisdom of God knows infinite things, it seems, etc.
+
+3. Likewise, the knowledge of the soul of Christ, which it has in the Word, is created — for if the substance of the soul of Christ is created, by parity of reasoning so is the knowledge — but all created things are in a certain weight, number, and measure[^p313-8], and all such things are finite: therefore it is necessary that the knowledge which the soul of Christ has be finite. But finite knowledge is only of finite things: therefore the soul of Christ knows only finite things; and the Word knows infinite things: therefore, etc.
+
+4. Likewise, nothing created exceeds another created thing of the same genus by infinity; but the soul of Christ and its knowledge is created and of the same genus as any[^p314-1] other blessed soul and its knowledge: therefore the soul of Christ does not exceed by infinity the knowledge of any other created soul. But the knowledge of the Word exceeds by infinity the knowledge of any blessed soul: therefore it seems that the soul of Christ never knows as much as the Word itself knows.
+
+5. Likewise, just as the knowledge of the Word is immeasurable *intensively*, so it is also *extensively*, because, just as it has infinite clarity, so also it knows infinite things; but it is impossible that the soul of Christ comprehend the infinity of the Word itself intensively and that it know as clearly as the Word itself[^p314-2]: therefore it is impossible by parity of reasoning that it know all things that the Word itself knows, since the Word knows infinite things.
+
+6. Likewise, just as the intellect of the soul of Christ from its union to the eternal light has it to know many things, so too the very substance of the soul, from its union to the Word, is born to be in many places; but it is impossible that the soul of Christ ever be wherever the Word is, although it is united to it[^p314-3]: therefore it is impossible that its intellect know all things that the Word knows, although it is united to it.
+
+7. Likewise, the simpler a substance is, the more things it is able to know[^p314-4]; but the uncreated substance of the Word exceeds the soul of Christ by infinity as regards simplicity: therefore it is impossible that the soul of Christ ever be so exalted that it know as much as the Word itself knows.
+
+8. Likewise, if the soul of Christ knows all things that the Word knows, either this is through the Word itself immediately, or through some other created thing superadded to it. Through the Word itself immediately it cannot be, as was shown in the preceding[^p314-5], because it is necessary that the intellect itself be informed by the ground of knowing. If through some created thing superadded to it, either this is a light proceeding from the Word, or some species of the thing known. If it is a light proceeding from the Word; since that does not exceed by infinity the light which is conferred on other souls, if the other souls know only finite things, it is necessary that the soul of Christ know only finite things: therefore it does not know all things that the Word knows. If through species given to it, then it will have as many species as there are knowable things; and if this is so, since the knowable things are infinite, there will be in the soul of Christ infinite species in act: therefore if it is impossible that infinite things be in act in a creature, it is impossible that the soul of Christ know infinite things, or all things that the Word knows.
+
+9. Likewise, for the knowledge of a thing two things are required, namely reception and judgment[^p314-6], therefore in order that anyone know certain things, it is necessary that he have the power of judging concerning them; but the judgment of the soul of Christ is finite: therefore neither through itself nor through its conjunction with the Word does it judge concerning infinite things, because no finite power issues into an infinite operation, neither through itself nor with another — for it cannot be joined to it in any infinite operation — therefore it is impossible that the soul of Christ judge concerning as many things as the eternal Word judges; and if this is so, it cannot know all things that the Word knows.
+
+> **Conclusion.** The soul of Christ, by habitual knowledge, which is like a science, knows all things that the Word knows; but not by actual knowledge, which is like consideration.
+
+**I respond:** For the understanding of what has been said, it must be noted that, on account of its difficulty, this question is answered by various men in various ways; and some answer *by simply conceding*, others *by distinguishing*. — The first vary according to a threefold mode of speaking.
+
+For some say that the soul of Christ knows all things that the Word knows, for the reason that the eternal Word knows only finite things. For it is the exemplar only of those things which are, or have been, or will be; and all these are finite. — But this mode of speaking cannot stand, because, as Augustine himself says, and as was shown in the first book[^p314-7], the eternal wisdom of God knows infinite things, as is plain, because it knows all the species of number, and it also knows all the things it can do.
+
+Another mode of speaking is that the soul of Christ knows all things that the Word knows, and knows infinite things, because by one and the same thing[^p314-8] it knows all things, that is, by the Word. And hence it is that not only the soul of Christ *in act* knows infinite things, but also any blessed soul that beholds the eternal light itself, according to what they assert. — But that neither agrees with reason nor with the authorities of the Saints[^p314-9], because omni-
+
+science is not attributed to any soul other than the soul of Christ. And besides, a finite power does not seem able to be joined to an infinite power in the comprehension of infinite things, which indeed is an infinite operation.
+
+A third mode of speaking is that the soul of Christ knows infinite things in the Word, because through the Word it knows other things, not, I say, by participating wisdom, as other souls do, but by possessing wisdom itself. And this Master Hugh of Saint Victor seems to have held, in his little book on the Wisdom of Christ[^p315-1]. For he speaks thus: « We believe that the full and perfect and whole wisdom of God was in the soul of Christ; and that this wisdom made that same soul fully and perfectly wise, not by participating from it, but by possessing it wholly, which it singularly possessed and comprehended ineffably ». And a little later: « This one thing I affirm without doubt, that either there was no other wisdom in Christ besides the divine, or, if there was, it was not equal to it ». And thus he says that the soul of Christ knows all things[^p315-2], because the wisdom of Christ was no other than that wisdom by which God is wise. Yet in this there is a difference, that God *is* that wisdom, whereas the soul of Christ is not that wisdom, but personally *united* to that wisdom. Likewise, God is wise by that wisdom by *nature*, whereas the soul of Christ is so by the *grace of union*. — But how that word of Hugh's may satisfy one who inquires, is difficult to make clear. For, as was shown in the preceding[^p315-3], in order that the soul of Christ know the Word, it is necessary that a *created* wisdom intervene, which indeed is *disposing* and enabling the soul itself for the knowledge of the Word, and is not the supreme wisdom itself, but an influence proceeding from it. — And therefore it must be attempted whether in some way another mode can be reasonably found than any of the three aforesaid.
+
+It must therefore be considered that others have attempted to settle the aforesaid question *by distinguishing*; and these are diversified according to a threefold mode of distinguishing.
+
+For some have wished to say that in Christ there is a twofold mode of knowing, which he has in the Word: one through the *grace of union*, the other, which is through the *grace of comprehension*. And by that mode indeed which is through the grace of comprehension, it does not know all things that the Word knows, but those things which pertain to its glory. But by the other mode, which is through the gra-
+
+ce of union, it knows all things that the Word itself knows, since the grace of union, by reason of the extreme to which it is united, is grace without measure and infinite grace; and therefore it is no wonder if it knows[^p315-4] according to it infinite things and all things that the Word knows. — But this mode of speaking does not seem to be easily intelligible. First indeed, because, if the soul of Christ knows whatever it knows through a created habit; nor is there any other created habit in the soul of Christ by which it knows all things through[^p315-5] the Word itself or in the Word itself except the habit of the glory of the comprehensor, because, that being set aside, it would now know nothing in the Word — for the union does not cause the divine nature to be known by the human, insofar as it is union, but the glory of the comprehensor; for the flesh is united to the Word, although it does not know the Word itself — if therefore by some habit it knows all things that the Word knows, it is necessary that it know through that knowledge which indeed is the habit of comprehension. — Besides, whatever the grace of union may be, whether created or uncreated, the soul of Christ is always within[^p315-6] the bounds of a creature: therefore its knowing power is always finite, therefore it never knows infinite things. And thus the question previously proposed returns.
+
+But another mode of speaking is that in God a twofold mode of knowing is posited, not on account of a diversity on the part of the *knowing power*, but on the part of the *connotation*[^p315-7]. For there is said to be in him a knowledge of *vision* and a knowledge of *intelligence*: and the knowledge of vision is with respect to all those things which he has *disposed* to do, the knowledge of intelligence with respect to all those things which he *can* do. And each is called *omniscience*, although the knowledge of vision is of finite things, the knowledge of intelligence of infinite things. For he has disposed to make finite things, but he can make infinite things[^p315-8][^p315-9]. When therefore it is asked whether Christ knows all things that the Word knows; if it be understood of the knowledge of *vision*, they grant certainly that the soul of Christ was *capable* of all those things, and that he communicated to it the knowledge of all those things which he disposed to make, on account of his great liberality and the capacity of the soul itself. But if it be understood of the knowledge of *intelligence*, then they say that it does not know all things which the Word itself knows, because that extends to infinite things, and the soul of Christ in knowing is capable only of finite things; but God did not communicate to that soul except as much as it could re-
+
+ceive. And according to this way the reasons for both parts can be resolved. And this mode indeed is sufficiently easy and reasonable. — Nevertheless the mind of one in doubt does not yet rest, because, supposing that God should now do some new thing[^p316-1], which however he has not disposed to do, such as a new world, it would already be hidden from Christ. — It would also follow that Christ could learn something anew, and thus would not have the fullness of knowledge. — And again, since the knowable things do not crowd one another[^p316-2] in the knowing soul, it never seems that the soul knows so much that it cannot still know more; how then will there be a limit on the part of the capacity of the creature?
+
+And therefore there is a third mode of distinguishing, that a thing happens to be known by *habitual* knowledge and by *actual* knowledge, that is, by a knowledge which is like *science*, and a knowledge which is like *consideration*[^p316-3]. If therefore we speak of knowledge as regards the *act of consideration*, then it must be said that the soul of Christ never knows as much as the Word itself knows. For by no glory can a creature be so elevated that it judge *simultaneously* and *in act* concerning infinite things, since this belongs to an infinite power. But if we speak of *habitual* knowledge, then it can be conceded that it knows all things that the Word itself, united to it, knows. — And this[^p316-4] is shown thus: that, since the soul of Christ knows the Word itself by a glorious habit so perfectly that it cannot know it more perfectly; and the eternal Word itself has a ready will to open to that soul all things that shine forth in it, nor does anything shine forth in it which is not born to be known by the soul of Christ: the soul of Christ has something whereby it is ready to know[^p316-5] all things that the Word knows. And the sign of this is that, in order that it know something which the Word knows, whatever it be, it is not necessary that a new *habit* of knowing be given to it, but everything that it wills it can read in it.
+
+If therefore you ask concerning that habit, whether it is a *finite* or an *infinite* habit; I respond that it is *finite*, yet it has relations[^p316-6] to infinite things; nor is it impossible to posit this in a creature. For the infinity of relations does not posit an actual infinity, just as it does not posit a real comparison. — If you ask again whence comes that infinity of relations concerning the habit of knowledge of the soul of Christ; I say that it comes from the will of the mirror united to it, which has a ready will to disclose all things[^p316-7] that shine forth in it; but this it does not do for any other soul. And therefore concerning the soul of Christ alone it can and ought to be conceded that it is omniscient as regards habitual knowledge. — And the reasons which are for this part are to be conceded.
+
+1. To that which is objected on the contrary, that whatever is known is bounded by the comprehension of the one knowing; it must be said that this is understood of actual knowledge, which indeed consists in actual comprehension; which is intimated in the authority itself. But of habitual knowledge it is not necessary that it have truth; nor is it necessary further that it have truth concerning every actual thing[^p316-8], but concerning that which is through comprehension. For although God is known by the soul, yet it is not necessary that he be finite to the soul knowing him, but rather he is simply infinite[^p316-9].
+
+2. To that which is objected, that knowledge ought to be made equal to the knowable; the response is plain through what has been said, that this is true of the knowledge of comprehension and of that knowledge which actually judges concerning the whole knowable; but in such a mode of knowing the soul of Christ does not know all things that the Word knows.
+
+3. To that which is objected, that the knowledge which the soul of Christ has is finite, therefore it cannot be of infinite things; it must be said that in the knowledge of the soul of Christ there are three things to consider, namely the *ground of knowing* itself, which is the Word itself, and the *habit* itself according to the very substance of the habit, and the *relation* of that habit to the knowable. I say therefore that although that habit is finite, nevertheless the ground of knowing is infinite, and through it that habit has a relation to infinite things, not *in act*, but *in aptitude*. And in this way nothing prevents finite knowledge from being with respect to infinite things. For from this no infinity is posited to be in the creature in act, but actual infinity is posited only in the ground of knowing.
+
+4. To that which is objected, that a created thing does not exceed another created thing of the same genus by infinity; it must be said that this is true of that excess which is in the created thing itself *in itself* and *absolutely*; but of that excess which is by reason of the *creating essence*, it does not hold. And in this way the knowledge of Christ is said[^p316-10] to exceed the knowledge of other souls by infinity, not because the light of Christ is by infinity greater *in act* than the light of other souls, but because the eternal Word itself shows itself by infinity more readily to manifest the things it has in itself to the soul of Christ than to any other soul.
+
+<!-- page 317 -->
+
+5. To that which is objected, that the soul of Christ cannot know the immensity of the clarity[^p317-1] of the divine knowledge, therefore neither its immensity with respect to the knowable things; it must be said that it is not alike, for a twofold reason: one indeed, because the soul of Christ, whatever it knows *in habit* concerning the eternal Word itself, it knows *in act*, since the knowledge of the Word itself in itself is of the essence of glory; but it is not so concerning the knowledge of other things, which shine forth in the Word[^p317-2]. — Besides, the Word itself is infinite, and whatever is understood concerning the Word is wholly infinite: but it is not so concerning the infinite knowable things, because each of them in itself is finite and can be known by a finite substance and power and by the mediation of a finite habit. Whence, although the soul of Christ knows all things that the Word knows; nevertheless it is never made equal to it in knowledge, because it never comprehends all those things *actually*, according as the eternal Word itself by one glance judges concerning all things and beholds all things.
+
+6. To that which is objected, that the soul of Christ, although it is united to the Word, is nevertheless not wherever the Word is, therefore neither its knowledge with respect to all things[^p317-3] that the Word knows; it must be said that it is not alike, because to be here or there expresses an act of *existing*; and therefore, if the soul of Christ were wherever the Word is, it would already be immense, and its existence would be made equal to the existence of the Word. But it is not so concerning knowledge, because the soul of Christ knows many things in habit which it will never consider in act; therefore neither through this is equality posited, nor is immensity posited concerning its knowing power.
+
+7. To that which is objected, that the simplicity of the soul is never elevated to the simplicity of the Word; it must be said that this word is understood not only of habitual knowledge, but also of actual consideration; and as regards this it is true that the soul never ascends to as many things to be considered as the Word itself considers. And if you object that neither by habit nor by act does it seem able to reach all things that the Word knows, since in all things the Creator exceeds the creature; it must be said that, as has been said, the habitual knowledge of infinite things does not posit an infinity in the habit of knowing; and therefore neither does it posit an equality of the very knowledge of the soul of Christ with respect to the knowledge of the Word itself.
+
+8. To that which is asked, by what the soul of Christ knows[^p317-4] all things that the Word knows; it must be said, by some light given to it; but this is not because that light is infinite, but because it is compared to the infinite knowable things on account of the readiness of the exemplar united to it.
+
+9. To that which is finally objected, that in knowledge there is reception and judgment; it must be said that this is understood of actual consideration; but of habitual knowledge it is not true that one judges in act concerning all things that one knows in habit, but that one can and has the faculty of judging through certain grounds which are implanted in it for this, that it may be able to judge concerning those things known[^p317-5].
+
+In order therefore that the sum of what has been said, which has been treated at greater length, may be more briefly summarized, it must be held that the soul of Christ has habitual knowledge of infinite things and of all those things that the Word itself, united to it, knows, although it does not have actual knowledge; and that habitual knowledge indeed does not posit an actual infinity in the habit itself or in the knowing power, but only in the ground of knowing, or in the comparison of the habit of knowing to the knowable things themselves. — Now this sixth mode of speaking I have rather striven to hold than the fifth — although the fifth is easier to maintain — both on account of the authorities of the Saints[^p317-6], on which in arduous questions one must especially rely, and also for reverence of Jesus Christ, to whose soul we ought to attribute as much of wisdom and grace as we can, and even above what we understand, for his reverence and honor.
+
+### Scholion
+
+**I.** The older Scholastics, such as the Master (here ch. I), Hugh of Saint Victor (in the place cited in the body), William of Auxerre (*Summa aurea* p. III. tr. 1. c. 5.) and Blessed Albert (here a. I), were accustomed to assert without distinction that the soul of Christ knows as much as the Word itself knows; yet the Master also observes that the contrary was the opinion of others. But none of the three modes by which various men wished to explain this way is judged probable. — The three other opinions here recounted concordantly establish that it is not necessary that one seeing the Word see all things, at least in act, that are in it, but rather it must be held that in reality every created intellect does not extend itself to all the objects which the divine intellect embraces, and this for the reasons here related on the opposite side. Hence from the time of Alexander of Hales they have commonly judged that a distinction must here be applied. But the first distinction of this kind (here opinion 4), which supposes that the knowledge of union and of comprehension are specifically diverse, is reputed by later masters to be in itself empty or false, nor is it applied by Alexander of Hales himself (who, as we have already said in the scholion, above a. I. q. I, distinguishes this twofold knowledge) for the solving of this difficulty. For he distinguishes (S. p. III. q. 13. m. 7.) the knowledge of God according to the *objects known*, like opinion 5, namely « with respect to the divine essence and infinite power and with respect to creatures »; further (ibid. m. 2.) he attributes to the knowledge of *union* those things « which pertained to the mystery of the incarnation, passion, and redemption », and to the knowledge of *comprehension* those things which « pertain to his glory and that of his own, that is, of those things which are ordained to it ».
+
+Opinion 5, which distinguishes in God the objects of the knowledge of *vision* and of *simple intelligence*, is St. Thomas's and the more common among theologians. Yet not even this is free of difficulties, both as to the *extension* of it to all things that God's knowledge of vision comprehends, and as to the *limitation* by which the objects of *simple knowledge* are excluded. For with respect to the knowledge of vision, the first defenders of this opinion thought that God by the knowledge of vision in no way knows *infinite* things, but simply *finite* things, which position St. Thomas already in the Commentary (here a. 2. quaestiunc. 2. ad 2.) restricts, adding: « yet he would know them (namely the infinite things), if generation in the future were never to cease, which is possible for God ». But the same author afterward in the *Disputed Questions on Truth* (q. 20. a. 4. ad 1.) and in the *Summa* (III. q. 10. a. 3.) rightly asserts that God's knowledge of vision even in this providence extends in some way to infinite things, if one considers those things which are in the power of creatures, and the changeable thoughts of demons continued successively through the whole of eternity and already seen by God in one act. But how does the power of the soul of Christ, simply finite, know in act objects infinite in number? To this objection the theologians who follow this way meet with various responses, foremost St. Thomas in the *Summa* and *On Truth*, in the places cited. Nevertheless this difficulty seemed so grave to Richard of Mediavilla (here a. 2. q. 3.) that he too, even as regards the knowledge of vision, establishes a certain limitation, saying: « I believe that (the soul of Christ) in act sees in the Word simultaneously all present, past, and future things, speaking of those future things of which one will not succeed another without end, which I say on account of the cognitions of men and Angels in their proper genus, of which one will be able to succeed another without end ». — Also the limitation of the knowledge of Christ by the *exclusion* of the objects of simple knowledge, on account of certain words of Scripture and the Fathers, does not seem able to be conceived as a total exclusion; and if it is not total, where are the bounds to be set (cfr. above p. 313, note 5)? The weighing of this difficulty especially moved St. Bonaventure to seek another solution, as he himself affirms at the end of the question. Nevertheless he does not reject opinion 5, which seems to him to be « sufficiently easy and reasonable ».
+
+**II.** The sixth mode of solving by St. Bonaventure, if it was not first invented by him, was at least subtly and ingeniously explained, as the words already intimate: « I have rather striven to hold » (at the end of the question). We find no mention made of this mode in the preceding authors nor in the works of St. Thomas; only certain words of Blessed Albert (here a. 2. ad 1.) seem to intimate the same distinction, since he says concerning vision in the Word that « namely as to the *object* there is one glance, by which all things are, but as to the *discerning intellect* there cannot be one act, because there is one turning according to *act* to this, and another to that »; and a little later he holds that we are not « always in the same act of turning ». Moreover, not even St. Bonaventure himself in the *anecdota* on the same argument, in the question already cited, mentions this solution or the arguments for it here related, but rather uses the same distinction as Alexander of Hales and others adhering to the fifth opinion, with only the words changed. For he distinguishes there in God both the *factive and dispositive* exemplar, in which shine forth the objects finite in number, namely those which are, have been, and will be, and which is comprehended by the soul of Christ, and the *expressive* exemplar, in which shine forth infinite things, which God can make and understand. But concerning this second he says that the soul of Christ does not comprehend it, yet is nevertheless borne into it by way of excess, « by a certain excessive mode raising itself above itself », according to the doctrine of Dionysius (*On Mystical Theology* c. 1; cfr. II *Sent.* d. 23. a. 2. q. 3. ad 6; *Breviloquium* p. V. c. 6; *Itinerary of the Mind into God* c. 7.). It seems therefore that St. Bonaventure embraced this sixth mode of solving after he had already written the aforesaid disputed questions. Yet even in the *Breviloquium* (p. IV. c. 6.) he intimates both modes as probable, saying that infinite things are known « by habitual, or excessive, knowledge ». Richard of Mediavilla, in the place cited q. 4, reports the same mode as probable, and Scotus prefers it (here q. 2. n. 20), yet in such a way that he reckons the fifth mode to be not improbable.
+
+**III.** This whole solution rests on the principles explained in the preceding question, and the key to opening the genuine understanding of this doctrine is here proposed in the body and especially in the solution to 3 and 8. But it must be observed that the holy Doctor, in preferring this way, by no means intends to restrict the actual knowledge or consideration of the soul of Christ, which he supposes to comprehend very many things known, but rather, by admitting also a quasi-habitual knowledge, he wishes to prove that the knowledge of Christ is unlimited, and in this way both to safeguard the authorities of Scripture and the Fathers, and to bring the theologians' opinions contrary to himself into concord, after his manner. — Moreover, in a matter so remote from the human intellect and, on account of the variety of opinions, ambiguous, we can attain not evidence, but only probability.
+
+**IV.** Besides the authors cited: Peter of Tarentaise, here a. 4. quaestiunc. 2. — Durandus, here q. I. — Denis the Carthusian, here q. 2.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are page-suffixed (`[^p312-N]`, `[^p313-N]`, …). **La.** gives the Quaracchi note verbatim; **En.** gives the English.
+
+[^p312-1]: **La.** Edd. cum multis codd. perperam *et ideo non sic oportet, quod si alia* etc.; nostram lectionem accepimus a cod. M. Etiam codd. B H W bb habent *quod sic alia*, nec non cod. C, qui deinde pro *secundum quod* substituit *sicut*. Paulo inferius pro *sed habitualiter*, quod codd. A H omittunt, in edd. et nonnullis codd. legitur *sed solum habitualiter*. Subinde pro *essentialiorem* cod. K *naturaliorem*, codd. F G L N T V Z incongrue *essentialem*.
+
+     **En.** The editions, with many codices, read wrongly *et ideo non sic oportet, quod si alia*, etc.; we have taken our reading from cod. M. Codices B H W bb also have *quod sic alia*, as does cod. C, which then for *secundum quod* substitutes *sicut*. A little below, for *sed habitualiter*, which codd. A H omit, in the editions and some codices is read *sed solum habitualiter*. Then for *essentialiorem* cod. K reads *naturaliorem*, codd. F G L N T V Z incongruously *essentialem*.
+
+[^p312-2]: **La.** Vers. 34. Cfr. hic lit. Magistri, c. I.
+     **En.** Verse 34. Cfr. here the Master's text, c. I.
+
+[^p313-1]: **La.** Cfr. supra q. I. In fine arg. pro *cognoscebat* Vat. *cognoscat*.
+     **En.** Cfr. above q. I. At the end of the argument, for *cognoscebat* the Vatican edition has *cognoscat*.
+
+[^p313-2]: **La.** Cfr. I. Sent. d. 6 q. 3. et d. 27. p. II. q. 2. — In fine arg. pro *omnium* cod. Z *omnem*.
+     **En.** Cfr. I *Sent.* d. 6 q. 3. and d. 27. p. II. q. 2. — At the end of the argument, for *omnium* cod. Z reads *omnem*.
+
+[^p313-3]: **La.** Quia spirituali modo animae insunt. Cfr. Aristot., III. de Anima text. 3. seqq. et 37. seq. (c. 4. et 8.), nec non I. Sent. d. 36. q. 2. in corp. — Mox pro *reliqua* Vat. *aliqua*.
+     **En.** Because they are present in the soul in a spiritual mode. Cfr. Aristotle, III *On the Soul* text 3 ff. and 37 f. (c. 4 and 8), as well as I *Sent.* d. 36. q. 2. in the body. — Presently, for *reliqua* the Vatican edition reads *aliqua*.
+
+[^p313-4]: **La.** Cod. cc et edd. *ipse*. Aliquanto superius pro *Verbo aeterno* cod. U *Verbo increato*.
+     **En.** Cod. cc and the editions read *ipse*. Somewhat above, for *Verbo aeterno* cod. U reads *Verbo increato*.
+
+[^p313-5]: **La.** Hoc arg. a S. Bonav. in Quaest. anecdota de Sapientia animae Christi (ad oppos.) sic exprimitur: *Item anima Christi aut cognoscit aliqua eorum quae Deus potest facere et non faciet, aut nihil. Si nihil cognoscit eorum, quaero, quid impediat; aut enim hoc est, quia ipsa non potest ad illa se extendere, et illud est manifeste falsum; aut quia Deus non vult sibi revelare, et hoc est manifestum inconveniens, quia aufert illi animae summam familiaritatem ad Verbum sibi unitum. Si cognoscit aliqua eorum quae potest facere et non faciet; sed non est maior ratio, quare magis cognoscat hoc quam illud: ergo videtur, quod cognoscat omnia quae sunt Deo possibilia, ergo infinita.* Cfr. hic lit. Magistri, c. I.
+     **En.** This argument is expressed thus by St. Bonaventure in the unpublished *Question on the Wisdom of the soul of Christ* (on the opposite side): *Likewise, the soul of Christ either knows some of those things which God can make and will not make, or none. If it knows none of them, I ask what impedes it; for either this is because it cannot extend itself to them, and that is manifestly false; or because God is unwilling to reveal them to it, and this is a manifest unfitting thing, because it takes away from that soul the supreme familiarity with the Word united to it. If it knows some of those things which he can make and will not make; but there is no greater reason why it should know this rather than that: therefore it seems that it knows all things that are possible to God, therefore infinite things.* Cfr. here the Master's text, c. I.
+
+[^p313-6]: **La.** Sic Aristot., I. Metaph. c. 2, de habitu sapientiae ait: *Primo igitur opinamur, sapientem maxime omnia, ut possibile est, scire, non habentem singulariter eorum scientiam.*
+     **En.** Thus Aristotle, I *Metaphysics* c. 2, says concerning the habit of wisdom: *First therefore we judge that the wise man knows all things in the highest degree, as far as is possible, without having knowledge of them singly.*
+
+[^p313-7]: **La.** Cap. 18. Vide supra pag. 299, nota 8. — Vat. allegat 83 Qq. q. 14.
+     **En.** Chapter 18. See above p. 299, note 8. — The Vatican edition cites the *83 Questions* q. 14.
+
+[^p313-8]: **La.** Sap. 11, 21: *Omnia in mensura et numero et pondere disposuisti.*
+     **En.** Wisdom 11:21: *Thou hast ordered all things in measure and number and weight.*
+
+[^p314-1]: **La.** Cod. K subiicit *alterius*.
+     **En.** Cod. K subjoins *alterius*.
+
+[^p314-2]: **La.** Vide supra a. 1. q. 2, et lit. Magistri, hic c. 1.
+     **En.** See above a. 1. q. 2, and the Master's text, here c. 1.
+
+[^p314-3]: **La.** Ut probatum est I. Sent. d. 37. p. I. a. 2. q. I. — Pro *unquam* non pauci codd. falso *nunquam*.
+     **En.** As was proved in I *Sent.* d. 37. p. I. a. 2. q. I. — For *unquam* not a few codices wrongly read *nunquam*.
+
+[^p314-4]: **La.** Cfr. Liber de Causis, prop. 10. et 17, nec non Aristot., III. de Anima, text. 3. seqq. (c. 4.). — De minori vide I. Sent. d. 8. p. II. q. 2. — Non pauci cod. *cognoscitura*. Mox pro *increata* cod. H *increati*.
+     **En.** Cfr. the *Book of Causes*, prop. 10 and 17, as well as Aristotle, III *On the Soul*, text 3 ff. (c. 4). — On the minor premise see I *Sent.* d. 8. p. II. q. 2. — Not a few codices read *cognoscitura*. Presently, for *increata* cod. H reads *increati*.
+
+[^p314-5]: **La.** Art. I. q. 1. — Paulo inferius pro *cum illud* codd. K T U X *cum igitur illud*.
+     **En.** Art. I. q. 1. — A little below, for *cum illud* codd. K T U X read *cum igitur illud*.
+
+[^p314-6]: **La.** Cfr. supra pag. 308, nota 6. — Mox pro *iudicandi* cod. Z *iudicare*.
+     **En.** Cfr. above p. 308, note 6. — Presently, for *iudicandi* cod. Z reads *iudicare*.
+
+[^p314-7]: **La.** Dist. 35. q. 5, ubi plura Augustini testimonia allata sunt.
+     **En.** Dist. 35. q. 5, where several testimonies of Augustine have been adduced.
+
+[^p314-8]: **La.** Cfr. etiam XII. de Civ. Dei, c. 18. — Paulo inferius pro *omnes numeri species* cod. K *omnes numeros et species*.
+     **En.** Cfr. also XII *On the City of God*, c. 18. — A little below, for *omnes numeri species* cod. K reads *omnes numeros et species*.
+
+[^p314-9]: **La.** Cod. N addit *aspectu*, codd. F U *modo* (fortasse legendum est *medio*).
+     **En.** Cod. N adds *aspectu*, codd. F U read *modo* (perhaps it should be read *medio*).
+
+[^p315-1]: **La.** Circa finem. In testimon. allato textus origin. ante *ipsa sapientia* exhibet praepositionem *ex*, deinde *concepit* pro *possedit* (Vat. *possidet*). Alterius testimonii verba originalia videsis supra pag. 297, nota 4. In initio huius secundi testimonii edd. pro *unum* substituunt *ipsum*, et deinde omittunt *praeter divinam*.
+     **En.** Near the end. In the testimony adduced, the original text presents before *ipsa sapientia* the preposition *ex*, then *concepit* for *possedit* (Vat. *possidet*). The original words of the other testimony you may see above p. 297, note 4. At the beginning of this second testimony the editions substitute *ipsum* for *unum*, and then omit *praeter divinam*.
+
+[^p315-2]: **La.** Codd. G I K L T V *cognovit*; pro *omnia* in codd. H Z bb scriptum reperitur *omnia alia*. Paulo inferius post *non est illa sapientia* cod. U subnectit *per naturam*.
+     **En.** Codd. G I K L T V read *cognovit*; for *omnia* in codd. H Z bb is found written *omnia alia*. A little below, after *non est illa sapientia* cod. U subjoins *per naturam*.
+
+[^p315-3]: **La.** Art. I. q. I. — Inferius pro *ad cognitionem* edd. *ad unionem*. Mox pro *ab ea procedens* bene multi codd. *ab eo* [scil. a Verbo] *procedens*, et deinde pro *rationabiliter* edd. *rationabilior*.
+     **En.** Art. I. q. I. — Below, for *ad cognitionem* the editions read *ad unionem*. Presently, for *ab ea procedens* very many codices read *ab eo* [namely, from the Word] *procedens*, and then for *rationabiliter* the editions read *rationabilior*.
+
+[^p315-4]: **La.** Cod. U *cognoscat*.
+     **En.** Cod. U reads *cognoscat*.
+
+[^p315-5]: **La.** Pro *per*, quod reperitur in codd. C K M O S, edd. 1, 2 *secundum*, Vat. *scilicet*; a plurimis codd. abest *per*. Pro quo *omnia* codd. C G I K L Q V aa *quae omnia*, et pro *cognoscit* codd. A H L Z aa *cognoscat*. Subinde pro *comprehensoris* Vat. cum paucis codd. bis *comprehensionis*.
+     **En.** For *per*, which is found in codd. C K M O S, the editions 1, 2 read *secundum*, the Vatican edition *scilicet*; in very many codices *per* is absent. For which *omnia* codd. C G I K L Q V aa read *quae omnia*, and for *cognoscit* codd. A H L Z aa read *cognoscat*. Then for *comprehensoris* the Vatican edition with a few codices reads twice *comprehensionis*.
+
+[^p315-6]: **La.** Edd. *inter*.
+     **En.** The editions read *inter*.
+
+[^p315-7]: **La.** Cfr. supra pag. 296, nota 5.
+     **En.** Cfr. above p. 296, note 5.
+
+[^p315-8]: **La.** Cfr. I. Sent. d. 39. a. I. q. 3. in corp. — Pro *Disposuit* non pauci codd. *Disponit*. Aliquanto superius pro *connotati* cod. K *cogniti*, cod. H *rerum*.
+     **En.** Cfr. I *Sent.* d. 39. a. I. q. 3. in the body. — For *Disposuit* not a few codices read *Disponit*. Somewhat above, for *connotati* cod. K reads *cogniti*, cod. H *rerum*.
+
+[^p315-9]: **La.** Edd. supplent *Deus*.
+     **En.** The editions supply *Deus*.
+
+[^p316-1]: **La.** Codd. A H P S bb subnectunt *dicendi*. Paulo inferius pro *aliquod novum* codd. A G *aliquid novum*.
+     **En.** Codd. A H P S bb subjoin *dicendi*. A little below, for *aliquod novum* codd. A G read *aliquid novum*.
+
+[^p316-2]: **La.** Codd. I L T V Z aa *angustent*. Vat. post *coangustent* adiicit *adhuc*. Subinde pro *sciente* cod. S *scientis*.
+     **En.** Codd. I L T V Z aa read *angustent*. The Vatican edition after *coangustent* adds *adhuc*. Then for *sciente* cod. S reads *scientis*.
+
+[^p316-3]: **La.** Aristot., II. de Anima, text. 2. (c. I.): « Forma autem actus; et hoc dupliciter: hoc quidem sicut *scientia*, illud autem sicut *speculari* ». Ibid. text. 5: *Hic* [actus] *autem dicitur dupliciter: alius quidem sicut scientia, alius autem sicut speculari*. — Pro *considerare* edd. *consideratio*. Paulo superius pro *aliquid cognosci* cod. V *aliquem cognoscere*, codd. G I H L T Z et edd. 1, 2 *aliquem cognosci*. Pro *habituali* plures codd. hic et in seqq. minus recte *habitudinali*.
+     **En.** Aristotle, II *On the Soul*, text 2 (c. I): « But the form is act; and this in two ways: this one indeed as *science*, the other as *to contemplate* ». Ibid. text 5: *This* [act] *is said in two ways: one indeed as science, the other as to contemplate*. — For *considerare* the editions read *consideratio*. A little above, for *aliquid cognosci* cod. V reads *aliquem cognoscere*, codd. G I H L T Z and edd. 1, 2 *aliquem cognosci*. For *habituali* several codices here and in what follows less correctly read *habitudinali*.
+
+[^p316-4]: **La.** Cod. F subdit *quidem*.
+     **En.** Cod. F adds *quidem*.
+
+[^p316-5]: **La.** Codd. G I L T Z aa *cognoscenda*.
+     **En.** Codd. G I L T Z aa read *cognoscenda*.
+
+[^p316-6]: **La.** Edd. et complures codd. *respectum*. — Paulo inferius pro *comparationem realem* [i. e. *actualem*] codd. A E I K M O T U V aa bb *compositionem realem*. Cfr. infra solut. ad 3.
+     **En.** The editions and very many codices read *respectum*. — A little below, for *comparationem realem* [i. e. *actualem*] codd. A E I K M O T U V aa bb read *compositionem realem*. Cfr. below, the solution to 3.
+
+[^p316-7]: **La.** Codd. D N bb supplent *ei*, nonnulli alii codd. et Vat. *ipsi animae Christi*.
+     **En.** Codd. D N bb supply *ei*, some other codices and the Vatican edition *ipsi animae Christi*.
+
+[^p316-8]: **La.** Cfr. I. Sent. d. 35. q. 5. ad I. — Pro *de omni actuali* edd. 1, 2 et plures codd. perperam *de omni habituali*.
+     **En.** Cfr. I *Sent.* d. 35. q. 5. ad I. — For *de omni actuali* edd. 1, 2 and several codices wrongly read *de omni habituali*.
+
+[^p316-9]: **La.** Edd. adiungunt *in se*.
+     **En.** The editions add *in se*.
+
+[^p316-10]: **La.** Multi codd. *non dicitur*; perperam, etiamsi cum cod. K substituatur *Et primo modo* pro *Et isto modo*; subnexa enim repugnant huic lectioni. Pro *scientia Christi* cod. K *scientia animae Christi*. Mox post *non quia* codd. B D N Y inserunt *in se*.
+     **En.** Many codices read *non dicitur*; wrongly, even if with cod. K *Et primo modo* be substituted for *Et isto modo*; for what follows is repugnant to this reading. For *scientia Christi* cod. K reads *scientia animae Christi*. Presently, after *non quia* codd. B D N Y insert *in se*.
+
+[^p317-1]: **La.** Codd. N W bb subiiciunt *scilicet*.
+     **En.** Codd. N W bb subjoin *scilicet*.
+
+[^p317-2]: **La.** Cfr. quaest. praeced.
+     **En.** Cfr. the preceding question.
+
+[^p317-3]: **La.** Supple: *est*. — Edd. *ergo nec cognoscit omnia*. Circa finem solut. codd. F G H L N T voculae *ideo* praefigunt *et*.
+     **En.** Supply: *est*. — The editions read *ergo nec cognoscit omnia*. Near the end of the solution, codd. F G H L N T prefix *et* to the word *ideo*.
+
+[^p317-4]: **La.** Codd. G I K L T Z aa bb *cognoscit*.
+     **En.** Codd. G I K L T Z aa bb read *cognoscit*.
+
+[^p317-5]: **La.** Cfr. supra a. I. q. 3. ad 6. — Pro *cognitionibus* codd. A H K M O U V bb *cognoscibilibus*. Paulo inferius post *perstringatur* cod. F addit *de cognitione animae Christi*, et proxime post *tenendum* edd. cum aliquibus codd. exhibent *concedendum*.
+     **En.** Cfr. above a. I. q. 3. ad 6. — For *cognitionibus* codd. A H K M O U V bb read *cognoscibilibus*. A little below, after *perstringatur* cod. F adds *de cognitione animae Christi*, and immediately after *tenendum* the editions with some codices present *concedendum*.
+
+[^p317-6]: **La.** Cfr. supra pag. 314, nota 9. — Paulo inferius pro *gratiae* edd. *gloriae*, et pro *possumus* codd. I L aa cc *possimus*.
+     **En.** Cfr. above p. 314, note 9. — A little below, for *gratiae* the editions read *gloriae*, and for *possumus* codd. I L aa cc read *possimus*.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from the 450 dpi PDF column bands (`/tmp/colcrop/vol3-p31{2..8}-{L,R}-{0..2}.png`) over the IA djvu OCR base (raw lines **21942–22355** of `raw/bonaventure_vol3_raw.txt`), per the Vol II/III override: the PDF is authoritative for the cascade-fragmented Respondeo/Solutiones (with their marginal labels *Duae viae solutionis / Via 1–2 / Opinio 1–6 / Reprobatur / Conclusio 1–2 / Ratio 1–2 / Epilogus*) and for **every** footer; OCR is the base for the clean *fundamenta* + *Sed contra* prose. Offset `pdf = printed + 22`.
+
+**Alignment.** PASS. Opener: `QUAESTIO III. / Utrum anima Christi cognoscat omnia in Verbo, quae cognoscit Verbum / Tertio quaeritur, utrum anima Christi cognoscat omnia in Verbo, quae cognoscit Verbum` — this is ART. II q3 (*in Verbo noscat omnia quaecumque novit Verbum*, per the ART. II opener at raw 21525), NOT q1 (*eadem cognitione… cognoscat alias res in Verbo*, raw 21536) nor q2 (*actu… omnia quae habitu cognoscit*, raw 21757). Raw span 21942 → 22355; ARTICULUS III opener at raw 22356, its q1 at raw 22366.
+
+**Page-split map.** q3 spans printed **pp.312–318** (PDF 334–340). Running heads confirmed eyes-on at 450 dpi (OCR digit-mangled — never trusted): p.312 foot opener `QUAESTIO III.` + `SENTENTIARUM LIB. III.`; p.313 `DIST. XIV. ART. II. QUAEST. III. 313`; p.314 `314 SENTENTIARUM LIB. III.`; **p.315** (OCR mis-rendered its running-head digit as `313`) `DIST. XIV. ART. II. QUAEST. III.`; p.316 `316 SENTENTIARUM LIB. III.`; p.317 `DIST. XIV. ART. II. QUAEST. III. 317` (`SCHOLION.` begins at foot of p.317 L-col); p.318 `318 SENTENTIARUM LIB. III.` (scholion §II–IV complete here; ARTICULUS III opener begins at foot of p.318 = next chunk).
+
+**Apparatus.** 44 entries, per-page restart: p.312 → 2 (`[^p312-1..2]`); p.313 → 8; p.314 → 9; p.315 → 9 (footers anchor the opinio-3 Hugo + opinio-4 union + opinio-5 *scientia visionis/intelligentiae* region); p.316 → 10 (the "Verumtamen adhuc non quiescit… → solut. ad 1–4" region, incl. `[^p316-8]`/`[^p316-9]` in solut. ad 1 and `[^p316-10]` *dicitur* in solut. ad 4); p.317 → 6 (solut. ad 5–9 + epilogue + scholion §I). p.318 has **no** numbered footer belonging to q3 (the scholion §II–IV carries inline citations only; the single p.318 footer `Libr. III. de Fide orthod. c. 21` anchors the ART. III q1 opener → forwarded to the next chunk). Every `[^N]` def is anchored in BOTH the Latin and English bodies at matching positions (44/44).
+
+**Scholion coverage.** `has_scholion: true`. q3 prints its OWN four-section Scholion (§I–IV, pp.317–318): §I = history of the question (older Scholastics → Alexander of Hales → opinion 4 critique); §II = the sixth (author's) mode, its novelty, Albert/anecdota parallels, Scotus/Richard reception; §III = the solution rests on the preceding quaestio, the key is solut. ad 3 & 8, probability not evidence; §IV = further authors (Peter of Tarentaise, Durandus, Denis the Carthusian). No numbered apparatus inside the scholion beyond the p.317 footer sequence already counted.
+
+**Hand-offs.** *Picked up* (from d14-a2-q2, commit 248b0d6): **p.312 footers 1 & 2** = `[^p312-1]` (`Edd. cum multis codd. perperam et ideo non sic oportet…`, anchors q3 fund-prelude `sic¹`) and `[^p312-2]` (`Vers. 34. Cfr. hic lit. Magistri, c. I.`, anchors `Ioannis tertio²`). q2 held no p.312 footer. *Forwarded* (to d14-a3-q1): the **p.318 footer** `Libr. III. de Fide orthod. c. 21. — In conclus. arg. pro non potest… non cognoscet edd. non posset… non cognosceret.` is the ART. III q1 opener footer (Damascenus, `1. Primo per illud quod dicit Damascenus¹`), NOT q3's. q3 consumed pp.312–317 footers and no p.318 footer.
+
+**`[?]` flags.** None. The entire range was legible at 450 dpi; the Respondeo, all six opiniones, the nine solutiones, the epilogue, and the four-section scholion were re-set column-by-column from the PDF, and every footer was read from the printed band in page order.
