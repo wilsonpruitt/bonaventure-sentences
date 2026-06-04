@@ -4,131 +4,118 @@ volume: 3
 book: 3
 distinctio: 13
 type: littera
+title_la: "Littera Magistri — Distinctio XIII (Cap. Unicum)"
+title_en: "The Master's Text — Distinction XIII (Sole Chapter)"
+printed_pages: [274, 275]
+pdf_pages: [296, 297]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 274–275"
+has_scholion: false
+has_apparatus: true
 line_start: 19311
-line_end: 19417
-word_count_latin: 1491
-transcription_status: "auto-chunked 2026-06-02"
+line_end: 19416
+transcription_status: "Phase C Tier 2 complete — Latin re-set from 450 dpi PDF column bands (raw lines 19311–19416), fresh literal English, full apparatus from raw OCR + PDF footer bands (12 entries: p.274 NOTAE AD LIBR. SENTENTIARUM nn.1–9, p.275 nn.1–3; per-page restart disambiguated p274-/p275-; the p.275 NOTAE AD COMMENTARIUM footers forwarded to d13-divisio), no [?] flags (2026-06-04)"
 format_version: 1
 ---
 
 # bon-sent-III-d13-littera
 
+## *The Master's Text — Distinction XIII*
+
+---
+
 ## Latin
+<!-- page 274 -->
 
-DISTINCTIO             XIII.
+# DISTINCTIO XIII.
 
-                                    Cap. Unicum.                                non habebat per accessum temporis accipiendo, sed
-                                                                                pandendo donum graliae, quod habehat. Apud Deum
-                 De sapienlia et gratia Christi hominis , an                    el homines s, quia quanlum, profleiente aetale, patefacie-
-                          in eis profwere potuerit.                             hal hominihus dona graliae, quae sihi inerant, el sa-
-                                                                                pientiae, lanliim eos ad laudem Dei excitahat; et sic
-                                                                                Deo Palri ad landem et hominibus ad salutem profl-
-                   Praelerea sciendum est, 'Christum secundtim ho-
-             minem ab ipsa conceptione gratiae pleniludinem rece-               ciehal». ln aliis ergo, non in se, proliciehat sapien-
-             pisse. Cui spiritus datus esl non ad mensuram, et in               tia el gralia. Unde in eotlem Evangelio 6 puer ille ple-
-                                                                                nus sapienlia el gralia perhibelur. Sic ergo dicitur
-             quo plenitudo divinilalis habitat corporaliter ' ; « ila
-Augostinus. vero habilat, ul ait Augustinus ad Dardanum, quod                   profeeisse sapientia et gralia, ut aliquis reclor eccle-
-             omni gralia plenus est; non ila habitat in Sanclis. Ut             siasliciis dicitur proficere in cura sibi credita, cum
-             in nostro corpore inest sensus singulis memhris, sed               per eius induslriam alii proficiunl.
-oobium i. non quanlum in capite; ihi enim et visus est el audi-                       Alibi tamen scriptum reperilur, quod secundiim obiectioei
-                                                                                                       .   ".   '
-             tus et olfactus el gustus et tactus, in ceteris aulem so-          sensum hoininis prolecenl,     sicut aelate i    ■ .
-                                                                                                                             hominis   pro- Ambrosio.
-             lus est tactus »: ita el in Christo habitat omnis plenitudo        fecit. Ait enim Ambrosius in libro de Inearnalionis do-
-             divinitatis, quia ille est caput, in quo sunt omnes                minicae sacramento ' sic: « Deus perfectionem nalurae
-             sensus. In Sanctis vero quasi solus tactus est, quibus             assumsit humanae. Suscepit sensum hominis, sed non
-                                                                                scnsu carnis fuit infialus. Sensu hominis aniniam dixit
-oubium 2. spirilus datus est ad mensuram, cum de illius pleni-
-                                                                                esse conlurhalam; sensu hominis esurivil et rogavit;
-             ludine acceperunt2. Acceperunt autem de illius ple-
-Dubium 3. niiudine non secundiim essentiam, sed secundum si-                    sensu hominis profeeit, sicut scripium est: lesus profi-
-             militudinem, quia nunquam illam eanclcm essentiali-                ciebat aelale el sapienlia et gratia. Quomodo proficiebat
-             ter, sed similem acceperunt graliam. Puer ergo ille                sapienlia Dei ? Profectus aetalis et profeclus sapienliae
-             plenus sapienlia et qratia fuit ab ipsa conceptione.               non divinae, sed humanae esl. Ideo aetalem comme-
-             Unde Ieremias recle dicit: Novum faciet Dominus su-                moravil, ul secuiidiim hoiniiiem crederes diclum. Aetas
-             per terram: mulier circumdabit virum ; <\n\\\ in utero             enim non divinitalis, sed corporis esl. Ergo si profl-
-             Virginis perfectus vir exstitit, non solum propler ani-            ciebat aetate hominis, proflciehal sapienlia hominis.
-             mam et carncm.sed eliam propler sapientiam et gra-                 Sensus autem profecit, el quia sensus, ideo sapienlia.
-             liam, qua plenus eral,                                             Quis sensus proficiebal? Si humanus, ergo ipse susce-
-                   Huic aulem sententiae videtur ohviare quod in                plns est; si divinus, ergo inulabilis per profectum.
-Obiectio ex
-             Evangelio    Lucae s legitur: ; le.sus proficiebat sa.pientia et   Quod enim proficit mulatiir in nielius, sed quod divi-
-Evangeiio.
-             aelale et gratia apud Deum et homines. Si enim profi-              niim est non mutatur. Quod ergo niulaliir non cst di-
-             ciebal sapienlia el gratia, non videtur a conceplione ha-          vinum. Sensus igitur proficiebal humaiuis. Sensum ergo
-             buisse pleniludinem graliae sine mensura. — Ad quod                suscepit luimanum». «Non |>olerat confortari vlrlus Dei,
-  Solulio et sane dici potest, ipstim secundum hominem tantam a                 nec crescere Deus, nec alliludo sapienliae Dei implcri.
- dubium 4.
-             coneeptione accepisse sapientiae et gratiae pleniludi-             Quae igitur implebatur erai non Dei, sed noslra sapien-
-             nem, ut Deus ei plenius conferre non potuerit; el ta-              tia. Nam quomodo iinplehatur, qui, ut omnia impkrel,
-             men vere dieitur profecisse sapientia et gratia , non              descendit? Per qiicin autem sensum dixil lsaias 8, quod
-             quidem in se, sed in aliis, qui de eius sapienlia et               palrem puer nesciebat aut malrem? Scriptum est euim:
-             gratia profieiebaut, dum eis sapientiae et graliae mu-             Priusquam sciat puer vocare palrem aul malrem, acci-
-              nera secundum processum aetatis magis ac magis pa-                piel spolia Samariae. Sapientiam enim Dei fulura et
-  Gregorius. tefaciehat. Unde Gregorius in quadam homilia4 ait:                 occulla non falluni. Expers aiitem agnilionis infantia,
-              « luxla hominis naturam proficiebat sapientia, non                per humanam iilique impruclenliani , quod adhuc non
-             quod ipse sapientior ex tempore esset, qui a prinia                didicil ignorat. Sed verendum est, inquam, ne, si duos
-             conceptionis hora spiritu sapientiae plenus permanebat;            piincipales sensus, aut geminam sapienliam Chrislo
-              sed eandem qua plenus erat sapientiam ceteris ex                  iribiiiinus, Chrislum dividamus. Nunquid, cum et divi-
-              tempore paulalim demonslrabat. luxta hominis natu-                uilatem eius et carnem adoramus, Chrisluni dividimus?
-              ram proficiebat aetate de infantia ad iuventutem. luxta           Nunquid, cum in eo imaginem Dei crucemque venera-
-              hominis naturam proficiebal gralia, non ipse quod                 mur, dividiinus eum? Aposlolus9 cerle, qui de eo di-
+### Cap. Unicum. *De sapientia et gratia Christi hominis, an in eis proficere potuerit.*
 
+Praeterea sciendum est, Christum secundum hominem ab ipsa conceptione gratiae plenitudinem recepisse. Cui *spiritus datus est non ad mensuram*, et in quo *plenitudo divinitatis habitat corporaliter*[^p274-1]; « ita vero habitat, ut ait Augustinus ad Dardanum, quod omni gratia plenus est; non ita habitat in Sanctis. Ut in nostro corpore inest sensus singulis membris, sed non quantum in capite; ibi enim et visus est et auditus et olfactus et gustus et tactus, in ceteris autem solus est tactus »: ita et in Christo habitat omnis plenitudo divinitatis, quia ille est caput, in quo sunt omnes sensus. In Sanctis vero quasi solus tactus est, quibus spiritus datus est ad mensuram, cum de *illius plenitudine acceperunt*[^p274-2]. Acceperunt autem de illius plenitudine non secundum essentiam, sed secundum similitudinem, quia nunquam illam eandem essentialiter, sed similem acceperunt gratiam. *Puer* ergo ille *plenus sapientia et gratia* fuit ab ipsa conceptione. Unde Ieremias recte dicit: *Novum faciet Dominus super terram: mulier circumdabit virum*; quia in utero Virginis perfectus vir exstitit, non solum propter animam et carnem, sed etiam propter sapientiam et gratiam, qua plenus erat.
 
-                1 Ioan. 3, 34 , et Coloss. 2,9. — Locus August. est Epist.           7 Cap. 7. n. 71. 72, ubi respicitur Luc. 2, 52; seq. locus
-          187. (alias 37.) c. 13. n. 40.                                        est ibid. usque ad n. 76. — In codd. et edd., exceplis 8 et
-               2 Ioan. I, 16. — Infra respicitur Luc. 2, 40; denique            Vut., cilatur Ambrosii libnr sic: in libro III. de Spiritu S. ,
-          locus Scriplurae est Ier. 3 1 , 22.                                   sed sic anliquilus liber cilabatur. Plura in utroque textu a Ma-
-                3 Cap. 2, -52.                                                  gislro sunt oniissa et mutala, plura etiam verba in Val. et
-               4 Glossa ad cit. locum aitribuitur Gregorio, sed est polius      pluribus edd. gratuito addita.
-          apud Bedam, Ilom. in Dominicam I. post Epiph.                              8 Cap. 8, i, in quo textu codd. et edd. I , 2, 3, 4 cum
-                5 Edd. , excepta I, addunt proficiehat, refragantibus codd.,    originali omittunt vocare. Vulgata : vocare patrem suum et ma-
-          et similiter infra anle el hnminibus non bene repetunt Dei.           trem suam. Paulo superius respicilur Eph. 4, 10.
-               6 Luc. 2, 40. Vulgata : plenus sapientia, et gralia Dei erat          9 Epist. II. ad Cor. 13, 4; deinde I. Cor. I , 13, ubi Vul-
-          in illo. — Pro credita edd., exceptis 1,8, iradita.                   gata : Divisus est Christus ?
-                                                          DIST. XIII: DIVISIO TEXTUS.                                                       275
+Huic autem sententiae videtur obviare quod in Evangelio Lucae[^p274-3] legitur: *Iesus proficiebat sapientia et aetate et gratia apud Deum et homines.* Si enim proficiebat sapientia et gratia, non videtur a conceptione habuisse plenitudinem gratiae sine mensura. — Ad quod sane dici potest, ipsum secundum hominem tantam a conceptione accepisse sapientiae et gratiae plenitudinem, ut Deus ei plenius conferre non potuerit; et tamen vere dicitur profecisse sapientia et gratia, non quidem in se, sed in aliis, qui de eius sapientia et gratia proficiebant, dum eis sapientiae et gratiae munera secundum processum aetatis magis ac magis patefaciebat. Unde Gregorius in quadam homilia[^p274-4] ait: « Iuxta hominis naturam proficiebat sapientia, non quod ipse sapientior ex tempore esset, qui a prima conceptionis hora spiritu sapientiae plenus permanebat; sed eandem qua plenus erat sapientiam ceteris ex tempore paulatim demonstrabat. Iuxta hominis naturam proficiebat aetate de infantia ad iuventutem. Iuxta hominis naturam proficiebat gratia, non ipse quod non habebat per accessum temporis accipiendo, sed pandendo donum gratiae, quod habebat. Apud Deum et homines[^p274-5], quia quantum, proficiente aetate, patefaciebat hominibus dona gratiae, quae sibi inerant, et sapientiae, tantum eos ad laudem Dei excitabat; et sic Deo Patri ad laudem et hominibus ad salutem proficiebat ». In aliis ergo, non in se, proficiebat sapientia et gratia. Unde in eodem Evangelio[^p274-6] *puer* ille *plenus sapientia et gratia* perhibetur. Sic ergo dicitur profecisse *sapientia et gratia*, ut aliquis rector ecclesiasticus dicitur proficere in cura sibi credita, cum per eius industriam alii proficiunt.
 
-        xit, quoniam, etsi crucifixus esl ex infirmilale noslra,              vero eius, sictil bona est et iusta boniiale vel iustilia
-        vivil tamen ex virlute Dei, ipse dixil , quia non di-                 gratis dala, quae ipse vel ipsa non esl; ita sapiens
-        visus esl Chrislus. Nuuquid eliam. ciim dicimus, quia                 est sapientia gratis dala, quae ipsa non est. Et licet
-        animam rationalem et inielleelns noslri suscepit capa-                gemina in Christo sil sapientia . tina tamen eademque
-        cem, dividimns eiim? Non enim ipse Deus Verhum                        persona esl, quae, in quanlum Deus est, vel in qtian-
-        pro anima ralionali et inielleclus capaci in earne sua                Uim divina nalura est, sapiens est sapientia aelerna 3,
-        fuit; sed animam ralionalem et intelleelus capacem ,                  scilicet sapienlia genila, id est se ipsa, et sapientia ,
-        et ipsam humanam et eiusdcm subslantiae , cuius no-                   qttae non esl genita , quae communis est tribus per-
-        strae sunt animae, el carnem nostrae similem eitis-                   sonis; non tamen gemina sapienlia, quia non est alia
-        denique cuius caro esl nostra substanliae suscipiens .                et alia sapientia sapienlia genita, quae tanttim Filius
-        perfectus eliam lionio fuit».                                         est , et sapienlia, quae communiter Paler est et Fi-
-              Haec verba Ambrosii pia diligentia inspicienda                  lius el Spiritus sanctus. In quaniuin vero eadem per-
-Soimio. sunt, quae ex parie bominis ignorantiam instruunt ei                  sona homo est, id est secundum bomiiiein accepltim ,
-        illuminanl, ex parte errandi fomilem male iniellecta                  vel in quantum esl subsistens ex anima et carne, sa-
-        ministranl. His etenim evidenler Iraditur, duos in Chri-              piens est sapienlia gratuita. Sapiens igilur est huuiano
-        sto esse principales sensus sive geminam sapientiam.                  sensu et divino.
-        Neque ideo unitas et singularitas personae dividitur,                       Sed ex „qua   causa illius dicti inlelligentia, scilicet Auibrosii
-                                                                                                                                               Alia »«■'»
-                                                                                              . ,                           ,                          es-
-        sed iuxta duas naturas dtias habet sapienlias: iinam                  « senstis proliciebal numanus», assumenda est ? Aperte piicaniur.
-        non crealam, sed genitam, quae ipsn est; alteram                      enim videlur Ambrosius innuere, quod Christus se-
-        non genitam, sed ereatam el per gratiam ei collalam.                  ctindum humaimm senstim profecerit, et quod infantia
-      Nam Isaias * de eo proteslatur: Requiescet super eum                    eius expers cognilionis fuerit et patrem et malrem
-      spiritus sapientiae el intellectus etc. Spiritu ergo sa-                ignoraveril; quod nec Ecclesia recipit, nec praemissae
-      pienliae el inlellectus, id est sapienlia et inlelligen-                auclorilates patiunttir sic intelligi. — Sed ita sane po-
-      tia, per Spirilum sanctum gratis data , Christus erat                   test accipi , ut quanttim ad visum hominum et sui
-      sapiens sccunduni animam. Secnndum lieum vero sa-                       sensus oslensionem Christus profecisse dicatttr. Profi- oubium 5.
-      piens erat sapientia genila \ quae ipse esl. Et sicut,                  ciebat crgo humanus sensus in eo secundum ostensio-
-      in quanlum Deus est, bonus est bonitate naturali ,                      nem et aliorum hominum opinionem. Ila etiam pa-
-      quae ipse est, et iustus itislitia nalurali, quae ipse est;             Irem et matrem dicitur ignorasse in infanlia, quia ila
-      ita sapiens sapientia naturali , quae ipse est. Anima                   se babebat et gerebal, ac si agnilionis esset expers.
+Alibi tamen scriptum reperitur, quod secundum sensum hominis profecerit, sicut *aetate* hominis profecit. Ait enim Ambrosius in libro de Incarnationis dominicae sacramento[^p274-7] sic: « Deus perfectionem naturae assumsit humanae. Suscepit sensum hominis, sed non sensu carnis fuit inflatus. Sensu hominis animam dixit esse conturbatam; sensu hominis esurivit et rogavit; sensu hominis profecit, sicut scriptum est: *Iesus proficiebat aetate et sapientia et gratia.* Quomodo proficiebat sapientia Dei? Profectus aetatis et profectus sapientiae non divinae, sed humanae est. Ideo aetatem commemoravit, ut secundum hominem crederes dictum. Aetas enim non divinitatis, sed corporis est. Ergo si proficiebat aetate hominis, proficiebat sapientia hominis. Sensus autem profecit, et quia sensus, ideo sapientia. Quis sensus proficiebat? Si humanus, ergo ipse susceptus est; si divinus, ergo mutabilis per profectum. Quod enim proficit mutatur in melius, sed quod divinum est non mutatur. Quod ergo mutatur non est divinum. Sensus igitur proficiebat humanus. Sensum ergo suscepit humanum ». « Non poterat confortari virtus Dei, nec crescere Deus, nec altitudo sapientiae Dei impleri. Quae igitur implebatur erat non Dei, sed nostra sapientia. Nam quomodo implebatur, qui, ut *omnia impleret*, descendit? Per quem autem sensum dixit Isaias[^p274-8], quod patrem puer nesciebat aut matrem? Scriptum est enim: *Priusquam sciat puer vocare patrem aut matrem, accipiet spolia Samariae.* Sapientiam enim Dei futura et occulta non fallunt. Expers autem agnitionis infantia, per humanam utique imprudentiam, quod adhuc non didicit ignorat. Sed verendum est, inquam, ne, si duos principales sensus, aut geminam sapientiam Christo tribuimus, Christum dividamus. Nunquid, cum et divinitatem eius et carnem adoramus, Christum dividimus? Nunquid, cum in eo imaginem Dei crucemque veneramur, dividimus eum? Apostolus[^p274-9] certe, qui de eo di-<!-- page 275 -->xit, quoniam, etsi crucifixus est ex infirmitate nostra, vivit tamen ex virtute Dei, ipse dixit, quia non divisus est Christus. Nunquid etiam, cum dicimus, quia animam rationalem et intellectus nostri suscepit capacem, dividimus eum? Non enim ipse Deus Verbum pro anima rationali et intellectus capaci in carne sua fuit; sed animam rationalem et intellectus capacem, et ipsam humanam et eiusdem substantiae, cuius nostrae sunt animae, et carnem nostrae similem eiusdemque cuius caro est nostra substantiae suscipiens, perfectus etiam homo fuit ».
+
+Haec verba Ambrosii pia diligentia inspicienda sunt, quae ex parte hominis ignorantiam instruunt et illuminant, ex parte errandi fomitem male intellecta ministrant. His etenim evidenter traditur, duos in Christo esse principales sensus sive geminam sapientiam. Neque ideo unitas et singularitas personae dividitur, sed iuxta duas naturas duas habet sapientias: unam non creatam, sed genitam, quae ipse est; alteram non genitam, sed creatam et per gratiam ei collatam. Nam Isaias[^p275-1] de eo protestatur: *Requiescet super eum spiritus sapientiae et intellectus* etc. Spiritu ergo sapientiae et intellectus, id est sapientia et intelligentia, per Spiritum sanctum gratis data, Christus erat sapiens secundum animam. Secundum Deum vero sapiens erat sapientia genita[^p275-2], quae ipse est. Et sicut, in quantum Deus est, bonus est bonitate naturali, quae ipse est, et iustus iustitia naturali, quae ipse est; ita sapiens sapientia naturali, quae ipse est. Anima vero eius, sicut bona est et iusta bonitate vel iustitia gratis data, quae ipse vel ipsa non est; ita sapiens est sapientia gratis data, quae ipsa non est. Et licet gemina in Christo sit sapientia, una tamen eademque persona est, quae, in quantum Deus est, vel in quantum divina natura est, sapiens est sapientia aeterna[^p275-3], scilicet sapientia genita, id est se ipsa, et sapientia, quae non est genita, quae communis est tribus personis; non tamen gemina sapientia, quia non est alia et alia sapientia sapientia genita, quae tantum Filius est, et sapientia, quae communiter Pater est et Filius et Spiritus sanctus. In quantum vero eadem persona homo est, id est secundum hominem acceptum, vel in quantum est subsistens ex anima et carne, sapiens est sapientia gratuita. Sapiens igitur est humano sensu et divino.
+
+Sed ex qua causa illius dicti intelligentia, scilicet Ambrosii « sensus proficiebat humanus », assumenda est? Aperte enim videtur Ambrosius innuere, quod Christus secundum humanum sensum profecerit, et quod infantia eius expers cognitionis fuerit et patrem et matrem ignoraverit; quod nec Ecclesia recipit, nec praemissae auctoritates patiuntur sic intelligi. — Sed ita sane potest accipi, ut quantum ad visum hominum et sui sensus ostensionem Christus profecisse dicatur. Proficiebat ergo humanus sensus in eo secundum ostensionem et aliorum hominum opinionem. Ita etiam patrem et matrem dicitur ignorasse in infantia, quia ita se habebat et gerebat, ac si agnitionis esset expers.
+
+---
 
 ## English
 
-[Translation pending]
+# DISTINCTION XIII.
+
+### Sole Chapter. *On the wisdom and grace of Christ as man, whether he could advance in them.*
+
+Moreover it must be known that Christ, according to the man, received from the very conception the fullness of grace. To whom *the Spirit was given not by measure*, and in whom *the fullness of the Godhead dwells bodily*[^p274-1]; "and it dwells in such wise, as Augustine says to Dardanus, that he is full of all grace; it does not so dwell in the Saints. As in our body sense is present in the several members, but not as much as in the head; for there both sight and hearing and smell and taste and touch are present, but in the rest there is touch alone": so also in Christ all the fullness of the Godhead dwells, because he is the head, in whom are all the senses. But in the Saints there is, as it were, touch alone, to whom the Spirit was given by measure, since *of his fullness they received*[^p274-2]. But they received of his fullness not according to essence, but according to likeness, because they never received that same grace essentially, but a like grace. That *boy*, therefore, was *full of wisdom and grace* from the very conception. Whence Jeremiah rightly says: *The Lord will create a new thing upon the earth: a woman shall compass a man*; because in the womb of the Virgin he existed as a perfect man, not only on account of soul and flesh, but also on account of the wisdom and grace wherewith he was full.
+
+But to this opinion there seems to stand in the way what is read in the Gospel of Luke[^p274-3]: *Jesus advanced in wisdom and age and grace before God and men.* For if he advanced in wisdom and grace, he does not seem to have had from the conception the fullness of grace without measure. — To which it can soundly be said that he himself, according to the man, received from the conception so great a fullness of wisdom and grace that God could not confer it on him more fully; and yet he is truly said to have advanced in wisdom and grace, not indeed in himself, but in others, who advanced from his wisdom and grace, while he disclosed to them the gifts of wisdom and grace, according to the progress of age, more and more. Whence Gregory says in a certain homily[^p274-4]: "According to the nature of the man he advanced in wisdom, not that he himself was wiser with time, who from the first hour of his conception remained full of the spirit of wisdom; but the same wisdom wherewith he was full he gradually displayed to others with time. According to the nature of the man he advanced in age from infancy to youth. According to the nature of the man he advanced in grace, not by receiving through the access of time that which he did not have, but by opening forth the gift of grace which he had. *Before God and men*[^p274-5], because, as much as, with advancing age, he disclosed to men the gifts of grace which were within him, and of wisdom, so much did he stir them up to the praise of God; and thus he advanced unto the praise of God the Father and unto the salvation of men." In others, therefore, not in himself, he advanced in wisdom and grace. Whence in the same Gospel[^p274-6] that *boy* is declared *full of wisdom and grace*. So therefore he is said to have advanced *in wisdom and grace*, as some ecclesiastical ruler is said to advance in the care committed to him, when by his industry others advance.
+
+Yet elsewhere it is found written that he advanced according to the sense of the man, just as he advanced in the *age* of the man. For Ambrose says in the book *On the Sacrament of the Lord's Incarnation*[^p274-7] thus: "God assumed the perfection of human nature. He took up the sense of a man, but he was not puffed up by the sense of the flesh. By the sense of a man he said his soul was troubled; by the sense of a man he hungered and prayed; by the sense of a man he advanced, as it is written: *Jesus advanced in age and wisdom and grace.* How did the wisdom of God advance? The advance of age and the advance of wisdom is not of the divine, but of the human. Therefore he made mention of age, so that you might believe it said according to the man. For age is not of the divinity, but of the body. Therefore if he advanced in the age of the man, he advanced in the wisdom of the man. But the sense advanced, and because the sense, therefore the wisdom. Which sense was advancing? If the human, then it was assumed; if the divine, then it is mutable through advance. For what advances is changed into something better, but what is divine is not changed. What therefore is changed is not divine. Therefore the human sense was advancing. Therefore he took up a human sense." "The power of God could not be strengthened, nor could God grow, nor could the height of the wisdom of God be filled. That, therefore, which was being filled was not the wisdom of God, but our wisdom. For how was he being filled who, that he might *fill all things*, descended? But by what sense did Isaiah[^p274-8] say that the boy knew not father or mother? For it is written: *Before the boy knows to call father or mother, he shall receive the spoils of Samaria.* For things future and hidden do not deceive the wisdom of God. But infancy, devoid of recognition, through human imprudence indeed, is ignorant of what it has not yet learned. But it is to be feared, I say, lest, if we attribute to Christ two principal senses, or a twofold wisdom, we divide Christ. Surely, when we adore both his divinity and his flesh, do we divide Christ? Surely, when in him we venerate the image of God and the cross, do we divide him? The Apostle[^p274-9] certainly, who said of him<!-- page 275 -->that, although he was crucified from our weakness, yet he lives by the power of God, himself said that Christ is not divided. Surely also, when we say that he took up a rational soul and one capable of our understanding, do we divide him? For God the Word himself was not in his flesh in place of a rational soul and one capable of understanding; but, taking up a rational soul and one capable of understanding, both itself human and of the same substance whereof are our souls, and a flesh like to ours and of the same substance whereof is our flesh, he was also a perfect man."
+
+These words of Ambrose are to be examined with pious diligence; for on the one hand they instruct and illuminate concerning the ignorance of the man, on the other, when ill understood, they furnish kindling for error. For by these it is evidently handed down that there are in Christ two principal senses, or a twofold wisdom. Nor is the unity and singularity of the person thereby divided, but according to the two natures he has two wisdoms: one not created, but begotten, which he himself is; the other not begotten, but created and conferred upon him by grace. For Isaiah[^p275-1] testifies of him: *The spirit of wisdom and understanding shall rest upon him* etc. By the spirit therefore of wisdom and understanding, that is, by wisdom and intelligence, given freely through the Holy Spirit, Christ was wise according to the soul. But according to God he was wise with begotten wisdom[^p275-2], which he himself is. And just as, insofar as he is God, he is good by natural goodness, which he himself is, and just by natural justice, which he himself is; so he is wise by natural wisdom, which he himself is. But his soul, just as it is good and just by goodness or justice freely given, which he or it is not; so it is wise by wisdom freely given, which it is not. And although there is in Christ a twofold wisdom, yet it is one and the same person who, insofar as he is God, or insofar as he is the divine nature, is wise with eternal wisdom[^p275-3], namely begotten wisdom, that is, by himself, and the wisdom which is not begotten, which is common to the three persons; yet not a twofold wisdom, because the begotten wisdom, which is the Son alone, and the wisdom which the Father and the Son and the Holy Spirit are in common, are not one and another wisdom. But insofar as the same person is man, that is, according to the man assumed, or insofar as he is subsisting from soul and flesh, he is wise with gratuitous wisdom. He is wise, therefore, by a human sense and by a divine.
+
+But for what cause is the understanding of that saying, namely of Ambrose's "the human sense was advancing," to be taken? For Ambrose seems openly to suggest that Christ advanced according to the human sense, and that his infancy was devoid of knowledge and that he was ignorant of father and mother; which neither the Church receives, nor do the foregoing authorities suffer to be so understood. — But it can soundly be taken thus, that as to the sight of men and the manifestation of his own sense Christ is said to have advanced. The human sense therefore was advancing in him according to the manifestation and the opinion of other men. So too he is said to have been ignorant of father and mother in infancy, because he so bore and conducted himself as if he were devoid of recognition.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the per-page sequences are disambiguated here with `p274-`/`p275-` prefixes.
+
+[^p274-1]: **La.** Ioan. 3, 34, et Coloss. 2, 9. — Locus August. est Epist. 187. (alias 57.) c. 13. n. 40.
+    **En.** John 3:34, and Colossians 2:9. — The passage of Augustine is *Epistle* 187 (alias 57), c. 13, n. 40.
+
+[^p274-2]: **La.** Ioan. 1, 16. — Infra respicitur Luc. 2, 40; denique locus Scripturae est Ier. 31, 22.
+    **En.** John 1:16. — Below, reference is made to Luke 2:40; finally the Scripture passage is Jeremiah 31:22.
+
+[^p274-3]: **La.** Cap. 2, 52.
+    **En.** Chapter 2, 52.
+
+[^p274-4]: **La.** Glossa ad cit. locum attribuitur Gregorio, sed est potius apud Bedam, Hom. in Dominicam I. post Epiph.
+    **En.** The Gloss on the cited passage is attributed to Gregory, but is rather found in Bede, *Homily on the First Sunday after Epiphany*.
+
+[^p274-5]: **La.** Edd., excepta I, addunt *proficiebat*, refragantibus codd., et similiter infra ante *et hominibus* non bene repetunt *Dei*.
+    **En.** The editions, except I, add *proficiebat*, against the codices, and likewise below, before *et hominibus*, they wrongly repeat *Dei*.
+
+[^p274-6]: **La.** Luc. 2, 40. Vulgata: *plenus sapientia, et gratia Dei erat in illo.* — Pro *credita* edd., exceptis 1, 8, *tradita*.
+    **En.** Luke 2:40. The Vulgate: *full of wisdom, and the grace of God was in him.* — For *credita* ("committed"), the editions, except 1, 8, read *tradita* ("handed over").
+
+[^p274-7]: **La.** Cap. 7. n. 71. 72, ubi respicitur Luc. 2, 52; seq. locus est ibid. usque ad n. 76. — In codd. et edd., exceptis 8 et Vat., citatur Ambrosii liber sic: *in libro III. de Spiritu S.*, sed sic antiquitus liber citabatur. Plura in utroque textu a Magistro sunt omissa et mutata, plura etiam verba in Vat. et pluribus edd. gratuito addita.
+    **En.** Chapter 7, nn. 71–72, where Luke 2:52 is referred to; the following passage is ibid. up to n. 76. — In the codices and editions, except 8 and the Vatican, the book of Ambrose is cited thus: *in the third book On the Holy Spirit*, but the book was anciently cited so. Much in both texts has been omitted and altered by the Master, and many words have been gratuitously added in the Vatican and in several editions.
+
+[^p274-8]: **La.** Cap. 8, 1, in quo textu codd. et edd. 1, 2, 3, 4 cum originali omittunt *vocare*. Vulgata: *vocare patrem suum et matrem suam.* Paulo superius respicitur Eph. 4, 10.
+    **En.** Chapter 8, 1, in which text the codices and editions 1, 2, 3, 4, with the original, omit *vocare* ("to call"). The Vulgate: *to call his father and his mother.* A little above, reference is made to Ephesians 4:10.
+
+[^p274-9]: **La.** Epist. II. ad Cor. 13, 4; deinde I. Cor. 1, 13, ubi Vulgata: *Divisus est Christus?*
+    **En.** Second Epistle to the Corinthians 13:4; then 1 Corinthians 1:13, where the Vulgate reads: *Is Christ divided?*
+
+[^p275-1]: **La.** Cap. 11, 2.
+    **En.** Chapter 11, 2.
+
+[^p275-2]: **La.** Ita codd. A C D E; cod. B et edd. *aeterna*; pro *ipse est*, quod habent iidem codd. et edd. 1, 8, in aliis *Deus est*.
+    **En.** Thus codices A C D E; codex B and the editions read *aeterna* ("eternal"); for *ipse est* ("he himself is"), which the same codices and editions 1, 8 have, in the others *Deus est* ("it is God").
+
+[^p275-3]: **La.** Sequimur hic bonam lectionem codd. A C D E (B plura omittit). Vat. et edd. 2, 3, 4, 5, 6, 7, 9 ita: *sapientia ingenita, scilicet sapientia aeterna, quae est Pater; et sapientia, quae non est ingenita*; a qua lectione etiam edd. 1, 8 non recedunt, nisi quod in principio legant: *sapientia aeterna, scilicet sapientia ingenita*... Deinde inferius prosequuntur: *sapientia, sapientia ingenita* (ed. 6 *genita*), *quae tantum Filius* (edd. 8 *Pater*), contradicentibus eisdem codd. Manifestum est, lectiones editionum non esse aptas.
+    **En.** Here we follow the good reading of codices A C D E (B omits much). The Vatican and editions 2, 3, 4, 5, 6, 7, 9 read thus: *uncreated wisdom, namely eternal wisdom, which is the Father; and wisdom which is not uncreated*; from which reading editions 1, 8 also do not depart, except that at the beginning they read: *eternal wisdom, namely uncreated wisdom*... Then below they continue: *wisdom, uncreated wisdom* (ed. 6 *begotten*), *which is the Son alone* (edd. 8 *the Father*), the same codices contradicting. It is manifest that the readings of the editions are not apt.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set verbatim from the 450 dpi PDF column bands of printed pp.274–275 (PDF 296–297; offset `pdf = printed + 22`; raw OCR lines 19311–19416 of `raw/bonaventure_vol3_raw.txt`), reading each page Left column top→bottom then Right column, body bands then footer bands. The IA djvu OCR served only as the base for clean running prose and for footnote-marker spacing; the column-band PDF read is authoritative for the Quaracchi italics, punctuation, and all footers (per the VOL II/III OVERRIDE in `CLAUDE.md`). Running heads confirmed via the low-dpi bands: `274 SENTENTIARUM LIB. III.` (p.274) and `DIST. XIII: DIVISIO TEXTUS. 275` (p.275) — printed pages **274–275** confirmed from running-head TEXT, not OCR'd digits.
+
+This is the Lombard *littera* opening **DISTINCTIO XIII** (*Cap. Unicum*), on the wisdom and grace of Christ as man, and whether he could advance in them (*De sapientia et gratia Christi hominis, an in eis proficere potuerit*). The marginal labels in the printed text (`Augustinus`, `Dubium 1/2/3`, `Obiectio ex Evangelio`, `Solutio et dubium 4`, `Gregorius`, `Obiectio ex Ambrosio`, `Solutio`, `Dubium 5`, `Alia verba Ambrosii explicantur`) are Quaracchi editorial marginalia, not part of the Master's text, and are omitted from the body.
+
+**Boundary.** `DISTINCTIO XIII.` opens at raw **19311** (printed p.274). The littera body runs raw 19311→**19416**, ending `…ac si agnitionis esset expers.` The Bonaventure commentary opener `COMMENTARIUS IN DISTINCTIONEM XIII.` begins at raw **19419**, and `DIVISIO TEXTUS.` at raw **19423** — both belong to the **d13-divisio** chunk and are excluded here.
+
+**Page-split map.**
+- **p.274** (raw 19311–19383): littera body opening through `…Apostolus[^p274-9] certe, qui de eo di-`; footer block = NOTAE AD LIBRUM SENTENTIARUM **nn.1–9** → `[^p274-1]`–`[^p274-9]` (all littera; no NOTAE AD COMMENTARIUM on p.274, since the COMMENTARIUS does not begin until p.275).
+- **p.275** (raw 19385–19416): littera body `-xit, quoniam…` through `…ac si agnitionis esset expers.`; the littera's footers are NOTAE AD LIBRUM SENTENTIARUM **nn.1–3** → `[^p275-1]`–`[^p275-3]` (markers: `Isaias[^p275-1]` = *Requiescet super eum*; `sapientia genita[^p275-2]`; `sapientia aeterna[^p275-3]`).
+
+**Apparatus count:** 12 entries (p.274 nn.1–9; p.275 nn.1–3). Marker pairing 12/12 clean in both Latin and English bodies.
+
+**Hand-offs.**
+- *Picked up:* NONE from d.12 — the d.12 dubium closed cleanly at printed p.273 with no footer leak into d.13 (confirmed by the prior subagent, eyes-on p.274).
+- *Forwarded to `bon-sent-III-d13-divisio`:* the p.275 **NOTAE AD COMMENTARIUM** footer block (`1 Codd. P R U bb contrariare.` and `2 Pro satis possunt trahi ex littera cod. U manifestae sunt in littera.`) belongs to the DIVISIO TEXTUS, not the littera — confirmed eyes-on at the bottom of the p.275 column band (the NOTAE AD COMMENTARIUM heading sits below the NOTAE AD LIBRUM SENTENTIARUM block). These two footers are the divisio's, keyed to the divisio's `contraire[^1]` and `satis possunt trahi ex littera[^2]` markers. No additional p.275 littera footers remain unclaimed.
+
+**`[?]` flags:** none. The text was fully legible at 450 dpi across both pages.
