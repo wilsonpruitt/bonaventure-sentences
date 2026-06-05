@@ -4,176 +4,148 @@ volume: 3
 book: 3
 distinctio: 17
 type: littera
+title_la: "Distinctio XVII — textus Magistri Sententiarum"
+title_en: "Distinction XVII — text of the Master of the Sentences"
+printed_pages: [361, 362, 363]
+pdf_pages: [383, 384, 385]
 line_start: 25210
 line_end: 25361
-word_count_latin: 2205
-transcription_status: "auto-chunked 2026-06-02"
+source: "Petri Lombardi Sententiarum Libri IV, Liber III, Dist. XVII (as printed in S. Bonaventurae, Opera Omnia, Tomus III, Quaracchi 1887, pp. 361–363)"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (/tmp/colcrop/vol3-p{361,362,363}-{L,R}-*.png), fresh literal English translation, full apparatus from PDF footers (16 entries: p.361 → 7, p.362 → 8, p.363 → 1); 0 inline ambiguity flags (450 dpi legible) (2026-06-05)"
 format_version: 1
 ---
 
-# bon-sent-III-d17-littera
+# III Sent., d. 17 — Littera Magistri
+## *Distinctio XVII — text of the Master of the Sentences*
+
+---
 
 ## Latin
+<!-- page 361 -->
 
-DISTINCTIO XVII.
+### DISTINCTIO XVII.
 
-                                       Cap. I.                                  ram suscepit quae ipsius sunt suhiie debuil. Ideoque
-                                                                                sicul in nobis duple.x est allectus, mentis scilicet et
-          Si omnis Christi oratio , vel volunlas impleta sit.                   sensualitaiis , ila et in eo debuit esse geminus affectus,
-                                                                                ut mentis affectii vellet mori , et sensualitalis affectu
-             Posl praedicta considerari oporlel, ulruni Christus                nollet, sicut in viris sanclis fil. Pelro enim ipsa Veri-
-        aliquid voluerit vel oraverii, quocl factum non sjl. Hoc                las dicit': Cum senueris, exlendes manus tuas, et alius
-        euim aesliinari polesl per id quod ipse ait ' : Paler ,                 cini/et le el ducet, quo non lu vis, scilicet ad morlem.
-        si possibile est , Iranseat a me calix isle. Verumtamen                 Quod exponens Augustiims dicil, quod Pelrus « ad il- Aogustinus.
-        non sicul ego volo, sed sicut lu vis. Hic namqiie vo-                   lam molestiam nolens est ductus, nolens ad eam venit,
-        lunlntem suam a Palris voluuiaie diseernere videtur.                    sed volens eam vicit; et reliquil affectum infirmitatis, Dobium i.
-                                                                                quo nemo vult mori , qui adeo esl naluralis, ut eum
-                                      Cap. II.                                  Pelro nec senectus abslulerit. Unde etiam Domintis
-                                                                                ait: Transeal a me calix isle; sed vicit etim vis amo-
-           De volunlatiLiis Christi secundum duas naluras.                      ris». Ergo et in Christo secuiidiim humanilatem          et
-                                                                                in membris eius geminus est affecius : unus ratio-
-             Quocirca ambigendum non est, diversas iu Christo                   nis, caritate informalus, qno propter Deum quis mori
-  etermina- fuisse vohiutates iuxla duas naturas, divinam scilicet               vult ; aller sensualitatis , carnis infirmitati propin-
-lo praeJi- voluntalem et humanam. Et humana vohmtas esl af-
-  3>"'mis - 1■1 :
-            inxta r -■-                                                         quiis et ei 4 coniunclus, quo mors refugiliir. Ut enim
-1 am com- fectus rationis, vel affectus sensualitalis , et alius est            ail Atiguslinus5: «Pitis menlis ralione cupit dissolvi et DuWom 2.
-        affectus animae seciindum rationem , alius seciiiidum                   esse cum Chrislo, sensu autem carnis refugit et recu-
-        sensualilatem ; ulerque lanien ilicitur humana volunlas.                sat. Hoc habct humanus alfectus, quoniam diligit vi-
-        Affectu atilem ralionis id volchat, quod volunlale di-                   lam, odit mortem». Seciindum islum allectum Chri-
-        vina , scilicet pali et mori , sed alleclu sensualilatis                stus mori noluit, nec ohlinuit tpiotl secundiim isltim af-
-        iioii volebat, iinmo refugiebat. Nec tamen in eo caro                   fectum peliil.
-        contra spirilum, vel conlra Deuin conciipiscebal, quia,                       Ex affeclu igiltir htimano, quem de Virgine Ira- confirmatur
-        ut ait Aiigustinus2, « nonnullum est viliuni, eum caro                  xil, volebat non mori et calicem transire orabal. Unde vwbis.™"1
-        concupiscit adversus spirilum». « Caro aulem diela est                  Beda0: «Orat, Iransire calicem, quia homo erat, di- Beda.
-        concupiscere, quia hoc secundum ipsam agit anima, si-                   cens : Pater , si fieri potesl , transnat a me calix iste.
-        eut anima per atirem audit et per ociilum videl. Caro                   Ecce, habes voluntatem humanam expressam. Vitlc iam
-        enim nihil nisi per animam concupiscit ; sed concupi-                   recliim cor: Sed non quod eqo volo, sed quod lu vis.
-        scere dicilur, ctim anima carnali concupiscenlia spiritui               Unde alihi : Non veni facere volunlalem meam , quam,
-        leluctatur, hahens earnalem deleelationem de carne et                   scilieet lemporaliier, sumsi de Virgine ,, sed voluntatem
-        ii carne adversus delcclationem, quam spiriliis hahet.                  eius qui misil me, qtiam scilicel aelernus hahui cum
-        Ipsius aulein carnalis coucupiscenliae causa nou est in                 Palre». — Hic aperte dicil, duas in Christo fuisse
-        anima sola nec in carne sola; ex ulroque enim fit ,                     voluntates, secundum quas diversa voltiit. Hieronymus ' Hicronymus.
-        quia sine uiroque delectatio lalis non sentitur». Talis                 qtioque super illum locum: Spiritus promplus esl, caro
-        igilur rixa talisque concerlatio in anima Chrisli nulla-                aulem infirma, tlans inleiligi, hic duas volunlatcs ex-
-        lenus esse poiuit, quia carnalis concupiscenlia ihi                     primi, ait ila: « Hoc contra Eutychianos, qui dicunt
-        esse nequivit. Dei etiam vohinlas eral el ralioni place-                in Chrislo unain lanttnn volunlalem. Hic aiilem osten-
-        hat, ut id secundum c.irnem vellet, quatenus veritas                    dit humanam, quae propler infiriniiatein carnis recusat
-        humanitalis in eo probaretur Nam qui hominis natu-                      passionem , et divinam , quac pronipia est perficere
+### Cap. I. *Si omnis Christi oratio, vel voluntas impleta sit.*
 
+Post praedicta considerari oportet, utrum Christus aliquid voluerit vel oraverit, quod factum non sit. Hoc enim aestimari potest per id quod ipse ait[^p361-1]: *Pater, si possibile est, transeat a me calix iste. Verumtamen non sicut ego volo, sed sicut tu vis.* Hic namque voluntatem suam a Patris voluntate discernere videtur.
 
+### Cap. II. *De voluntatibus Christi secundum duas naturas.*
 
-             1 Cfr. de hoc dubin U. Altjnrt. , hic a. 5; S. Thom., Petr.        tr. 123. n. S, ct esl etiam in Cilossa ibid. Locus Scriplurae est
-        a Tar. et Bichard. a Hed., hic CJrea lit.                               Mallh. 2C, 39.
-                      NOTAE AD LIBR. SENTENTIARUM.                                   * Codd. DG el edd. I, 8 ideo ei.
-             1 Matlh. 26, 39. — C'v. de hac (lisl. Huga de S. Vict.,                  5 Epist. UO. (alias 120.) c. (i. n. 10. Locus Scriplurac nst
-        Sum. Senl. ir. I. c. 17. — l'ro uestimaii solummoclo Vat. et            Phil. I, 23. Pro Pius , quod habent codd. liCbcl ed. I cum
-        ed. 8 bene existimnri.                                                  originali (Iwmo pitis), in aliis Pntiltts. Deinda posl i/tiitiiitiiii Vat
-                                                                                ciiin codd. A li addit t/ui.
-             ' l.ibr. XIX. de Ci\ . Dei, 0. i. n. 3, ubi locus ScriptU-
-        rae esl Gal. '■>, 17. Seoji locus ex locia Biusdcm, X. de Genosi             6 Comnient. in Marc. li, 36, cl in Glossa ibid. Locus al-
-        ad lil. c. 12. n.20. 21, cl de Continemia , c. 8. 11. 19, colleetiis,   tcr Scripturae est loan. 6, 38. — Pro homoerat, iticcns edd.
-        legitur sic in lilussa oiiliimrin ad Gal. ■), 17. — Immediate           I, li lunno rsl , ilirens, ed. 8 homo est Drtts.
-        ante coil. I) posl conlrii sijiiitum addil uel siitrilits mitlrti            ' Apnd llicroiiymum non invcnitnr, scd hacc verba sunt
-        carnem.                                                                 cx llcda, ad Imnc locum (Marc. I i , 38.), collccta cl praccise in-
-             3 loan. 21, 18, (|iiem lnriim COlUitUU) i.xponit S. AugUSt.,       vcniiinlur in Cilossa ibid.
+Quocirca ambigendum non est, diversas in Christo fuisse voluntates iuxta duas naturas, divinam scilicet voluntatem et humanam. Et humana voluntas est affectus rationis, vel affectus sensualitatis, et alius est affectus animae secundum rationem, alius secundum sensualitatem; uterque tamen dicitur humana voluntas. Affectu autem rationis id volebat, quod voluntate divina, scilicet pati et mori, sed affectu sensualitatis non volebat, immo refugiebat. Nec tamen in eo caro contra spiritum, vel contra Deum concupiscebat, quia, ut ait Augustinus[^p361-2], «nonnullum est vitium, cum caro concupiscit adversus spiritum». «Caro autem dicta est concupiscere, quia hoc secundum ipsam agit anima, sicut anima per aurem audit et per oculum videt. Caro enim nihil nisi per animam concupiscit; sed concupiscere dicitur, cum anima carnali concupiscentia spiritui reluctatur, habens carnalem delectationem de carne et a carne adversus delectationem, quam spiritus habet. Ipsius autem carnalis concupiscentiae causa non est in anima sola nec in carne sola; ex utroque enim fit, quia sine utroque delectatio talis non sentitur». Talis igitur rixa talisque concertatio in anima Christi nullatenus esse potuit, quia carnalis concupiscentia ibi esse nequivit. Dei etiam voluntas erat et rationi placebat, ut id secundum carnem vellet, quatenus veritas humanitatis in eo probaretur. Nam qui hominis naturam suscepit quae ipsius sunt subire debuit. Ideoque sicut in nobis duplex est affectus, mentis scilicet et sensualitatis, ita et in eo debuit esse geminus affectus, ut mentis affectu vellet mori, et sensualitatis affectu nollet, sicut in viris sanctis fit. Petro enim ipsa Veritas dicit[^p361-3]: *Cum senueris, extendes manus tuas, et alius cinget te et ducet, quo non tu vis,* scilicet ad mortem. Quod exponens Augustinus dicit, quod Petrus «ad illam molestiam nolens est ductus, nolens ad eam venit, sed volens eam vicit; et reliquit affectum infirmitatis, quo nemo vult mori, qui adeo est naturalis, ut eum Petro nec senectus abstulerit. Unde etiam Dominus ait: *Transeat a me calix iste*; sed vicit eum vis amoris». Ergo et in Christo secundum humanitatem et in membris eius geminus est affectus: unus rationis, caritate informatus, quo propter Deum quis mori vult; alter sensualitatis, carnis infirmitati propinquus et ei[^p361-4] coniunctus, quo mors refugitur. Ut enim ait Augustinus[^p361-5]: «Pius mentis ratione cupit dissolvi et esse cum Christo, sensu autem carnis refugit et recusat. Hoc habet humanus affectus, quoniam diligit vitam, odit mortem». Secundum istum affectum Christus mori noluit, nec obtinuit quod secundum istum affectum petiit.
 
-                  S'. Boiuw. —    Tom. III.                                                                                                iG
-         362                                                  SENTENTIARUM        LIB. III.
+Ex affectu igitur humano, quem de Virgine traxit, volebat non mori et calicem transire orabat. Unde Beda[^p361-6]: «Orat, transire calicem, quia homo erat, dicens: *Pater, si fieri potest, transeat a me calix iste.* Ecce, habes voluntatem humanam expressam. Vide iam rectum cor: *Sed non quod ego volo, sed quod tu vis.* Unde alibi: *Non veni facere voluntatem meam,* quam, scilicet temporaliter, sumsi de Virgine, *sed voluntatem eius qui misit me,* quam scilicet aeternus habui cum Patre». — Hic aperte dicit, duas in Christo fuisse voluntates, secundum quas diversa voluit. Hieronymus[^p361-7] quoque super illum locum: *Spiritus promptus est, caro autem infirma,* dans intelligi, hic duas voluntates exprimi, ait ita: «Hoc contra Eutychianos, qui dicunt in Christo unam tantum voluntatem. Hic autem ostendit humanam, quae propter infirmitatem carnis recusat passionem, et divinam, quae prompta est perficere
 
-                                                                               audilur ad salutem corpqralem. Bonum quidem peliil,
-             dispensationem ». Augtistinus ' etiam duas in Christo
-Augostinus. asserit voluntates , dice.ns: « Quantum distat Deus ab             scilicel ut non moreretur, sed melius erat, ut morere-
-             homine, tantum volunlas Dei a voluntale hominis. Unde             tur; quod et factum est.
-             liominem gerens Christus ostendit privatam quandam
-             hominis voluntatem, in qua et suam et nostram flgu-                                          Cap. III.
-             ravit, qui caput nostrum est, et ad eum sicut mem-
-             bra pertinemus. Paler, inquit, si fieri polest , transeal          De capilulis quibusdam Ambrosii et Hilarii, ubi de
-             a me calix iste. Haec humana voluntas eral, proprium                       dubilatione et limore Christi agitur.
-             aliquid et lanquam privatum voleus. Sed quia reclum
-             vult esse homiuem et ad Deum dirigi, subdit: Non                       Celerum non parum nos movent verba Ambrosii, veriu Am-
-             quod ego volo , sed quod lu vis ; ac si diceret: Vide             quibus significare videtur, Chrislum secundum huma- bitauone "'
-             te in me, quia potes aliquid proprium velle, ul Deus              num affectum de polenlia Patris dubilasse, sic dicens Chrl
-             alind velit. Concedilur hoc humanae fragilitati». Idem            in libro secundo de Fide7: «De quo dubitat? de se,
-             alibi 2 : Christus in passione duas expressit voluntates          an de Patre ? De eo ulique, cui dicit: Transfer, du-
-             in se secundum duas naluras; ait enim: Pater, si fieri            bitat hominis affectu. Nam Deus de Patre non dubitat
-             polest, transeat a me calix iste. Ecce , habes hominis            nec de morle formidat. Propheta etiam non dubilat,
-             voluntatem, quam ad divinam continuo dirigens, ait:               qui nihil Deo esse impossibile asseril. Num infra ho-
-              Verumtamen, non sicut ego volo , sed sicul tu. Ambro-            mines constitues Deum? Propheta non dubitat, et Fi-
- Anihrosins. sius etiam iii libro secundo de Fide3: «Scriptum est:             lium dubitare lu credis? Ut homo ergo dubitat, ul Dubinm ;
-             Pater, si fieri potesl , transfer a me calicem hunc. Verba        homo locutus est». — His verbis innui videlur, quod
-             Christi sunt, sed quo modo el in qua forma dicantur, ad-          Chrislus, non in quantum Deus est vel Dei Filins, sed
-             verle: hominis stibstantiam geril, hominis assumsit affe-         in quanluiri homo, dubitaverit affectu humano. Quod
-             ctum. Non ergo quasi Deus, sed quasi homo loquilur».              ea ratione dictum accipi potest, non quia ipse dubi-
-              « Suscepit quidem voliintatem meam. Mea est volunlas,            taverit, sed quia modum gessit dubitantis et homini-
-                                                                               bus dubitare videbalur.
-             quam suam dixit, cum ait: Non sicut ego volo , sed si-
-             cut tu vis». «Cum autem dixit: Omnia quae habet Pa-                    Illud eliam ignorandum non est, quod Hilariusspeciaiises
-             ler, mea sunt, quia nihil excipilur, sine dubio, quam             asserere videtiir, Christum non sibi , sed suis orasse, quaesiis
-             Patcr habet, eandem el Filius habet voluntatem 4».                cum dixil:
-              «Eadem est Christi voluntas, quae paterna». «Una                 sibi, sed suisTransfer
-                                                                                                limuit; anecme eum
-                                                                                                                 calicem  hunc,ut sicut
-                                                                                                                    voluisse,           nec rkmi.H' a"
-                                                                                                                                   sibi non
-             ergo voluntas esl Patris et Filii». « Sed alia voluntas           essel passio, sed ut a suis transiret ealix passionis,
-              hominis, alia Dei, ut scias, vitam in voluntale hominis          ita inquiens8: « Si passio honorificalura eum erat,
-              esse, passionem autem Christi in voluntate divina, ut            sicut, Iuda exeunte, ait: Nunc honorificalus est Filius
-              pateretur pro nobis». — His teslimoniis evidenter do-            hominis; quomodo tristcm eum melus passionis effece-
-              celur, in Christo duas fuisse voluntates; quod quia              rat? Nisi fortc lam irrationabilis fueril, ut pati mortem
- Nacarius. negavit Macarius archiepiscopus, in Metropolilana6 Sy-              tinmerit, quae palientem se glorificatura essel? Sed
-           nodo condemnalus est. Et ex affeclu humano sensua-                  forte timuisse usque eo existimabiliir, ut transferri a
-           litalis quidem, non rationis, illud voluit et peliit, quod          se calicem deprecalus sit dicens: Paler, Iransfer cali-
-           non impelravit. Nec ideo petiil, ul impetraret, quia                cem hunc a me. Quomodo enim per patieudi metiim
-           sciebat, Deum non esse facturum illud; nec illud lieri              transferri deprecaretur a se quod per dispensationis
-           volebat affectu rationis, vel voluntate Divinilatis. Ad             studium fesiinaret implere? Non enim convenit, ut
-           quid ergo peliil? Ul membris formam praeberet, im-                  pati nolit quod pali velit; et cum pati eum velle co-
-           minente turbatione, clamandi ad Dominum et subii-                   gnosceres, religiosius fuerat hoc confileri, quam ad id
-           ciendi voluntatem suam divinae volunlati, ut, si pul-               impiae stulliiiae prorumpere, ut cum assereres, ne
-           sante molestia Iristantiir 6, pro eiusdem amolione orent;           paterelur, orasse , quem pali velle eognosceres ». « Non
-           sed si nequeunt vilare, dicant quod ipse Chrislns. Non              ergo sibi tristis, neque sibi orat transire calicem, sed Dubium 4.
-           ergo ad insipientiam fuit, quod Christus clamans non                discipulis, ne in eos calix passionis incumbat, quem
+<!-- page 362 -->
 
+dispensationem». Augustinus[^p362-1] etiam duas in Christo asserit voluntates, dicens: «Quantum distat Deus ab homine, tantum voluntas Dei a voluntate hominis. Unde hominem gerens Christus ostendit privatam quandam hominis voluntatem, in qua et suam et nostram figuravit, qui caput nostrum est, et ad eum sicut membra pertinemus. *Pater,* inquit, *si fieri potest, transeat a me calix iste.* Haec humana voluntas erat, proprium aliquid et tanquam privatum volens. Sed quia rectum vult esse hominem et ad Deum dirigi, subdit: *Non quod ego volo, sed quod tu* vis; ac si diceret: Vide te in me, quia potes aliquid proprium velle, ut Deus aliud velit. Conceditur hoc humanae fragilitati». Idem alibi[^p362-2]: Christus in passione duas expressit voluntates in se secundum duas naturas; ait enim: *Pater, si fieri potest, transeat a me calix iste.* Ecce, habes hominis voluntatem, quam ad divinam continuo dirigens, ait: *Verumtamen, non sicut ego volo, sed sicut tu.* Ambrosius etiam in libro secundo de Fide[^p362-3]: «Scriptum est: *Pater, si fieri potest, transfer a me calicem hunc.* Verba Christi sunt, sed quo modo et in qua forma dicantur, adverte: hominis substantiam gerit, hominis assumsit affectum. Non ergo quasi Deus, sed quasi homo loquitur». «Suscepit quidem voluntatem meam. *Mea* est voluntas, quam suam dixit, cum ait: *Non sicut ego volo, sed sicut tu* vis». «Cum autem dixit: *Omnia quae habet Pater, mea sunt,* quia nihil excipitur, sine dubio, quam Pater habet, eandem et Filius habet voluntatem[^p362-4]». «Eadem est Christi voluntas, quae paterna». «Una ergo voluntas est Patris et Filii». «Sed alia voluntas hominis, alia Dei, ut scias, vitam in voluntate hominis esse, passionem autem Christi in voluntate divina, ut pateretur pro nobis». — His testimoniis evidenter docetur, in Christo duas fuisse voluntates; quod quia negavit Macarius archiepiscopus, in Metropolitana[^p362-5] Synodo condemnatus est. Et ex affectu humano sensualitatis quidem, non rationis, illud voluit et petiit, quod non impetravit. Nec ideo petiit, ut impetraret, quia sciebat, Deum non esse facturum illud; nec illud fieri volebat affectu rationis, vel voluntate Divinitatis. Ad quid ergo petiit? Ut membris formam praeberet, imminente turbatione, clamandi ad Dominum et subiiciendi voluntatem suam divinae voluntati, ut, si pulsante molestia tristantur[^p362-6], pro eiusdem amotione orent; sed si nequeunt vitare, dicant quod ipse Christus. Non ergo ad insipientiam fuit, quod Christus clamans non auditur ad salutem corporalem. Bonum quidem petiit, scilicet ut non moreretur, sed melius erat, ut moreretur; quod et factum est.
 
+### Cap. III. *De capitulis quibusdam Ambrosii et Hilarii, ubi de dubitatione et timore Christi agitur.*
 
-                i Enarrat. II. serm. I. in Ps. 32. (v. I.) n. 2, in quo        Pontif. n. 81 (S. Agalhonis). Quod sequilur convenit cum Cum-
-          textu pro qui caput cod. E et ed. 8 cum originali quia caput.        ment. Pelri Lombardi in Ps. 21, 6.
-          — Locus Scripturae esl Matth. 26, 39. Cfr. I. Sent. d. XLVIU.              6 Cod. E et edd. I, 8 lurbantur, cod. C conlristantur.
-          c. I, et ibi Comment. S. Bonaventurae.                                     i Cap. 5. n. 43. 42. Codd. et ed. I cilant ///. libr. de
-                2 Verbolenus apud Petrum Lomb. in Glossa ad Ps. 93, 15,        Trinilale. Post asscrit Vat. cum aliis edd., exceptis 2, 3, 7,
-          excerpta ex August. Enarrat. in illum locum n. 19. — In (ine         addit Omnia quaecumque voluil, fecit [Ps. 113, 3.]. Sed falso;
-          loci Scripturae iam cilati post sicut tu codd. AD et edd. I, 8       nam Ambrosius respicit ad Iob 22, 17, qui locus apud ipsum
-          nddunt vis.                                                          legilur: Impossibile enim libi nihil est. Vulgata: Quasi nihil
-                3 Cap. 5. n. II. 42. Seq. locus est ibid. c. 7. n. 33 cum      posset faccre Omnipotens, aestimnbant eiim.
-          locis Scriplurae iam cilatis.                                              8 Libr. X. de Trin. n. 29. 30, ubi respicitur loan. 13, 31.
-                ' Ibid. c. 6. n. 51. Locus Scriplurae est loan. 16, 15. Seq.   In quo lexlu post ut pati originale et codd., exceplis B E et Erf.,
-          locus ibid. parum supcrius; tertius ibid. n. 50; ultimus ibid.       omitmnl mortem, insuper edd. I, 8 omiltunl pati, refragante
-          c. 7. n. 52.                                                         etiam originali. Infra pro ut pati nolit quod pati velit originale
-                5 Ha codd. et edd. I, 3, 7; in Vat. et aliis Archiepiscnpus    in ed. Maurina : ut pati nollet qui pati vellet ; scd ibi addilur:
-          Antiochiae. in Constantinopolilana Synodn. Leclio codd. con-          « In prius vulgatis : ut pali nolit quod pati velit, quod immu-
-           firmatur ab Hugone, Siiiin. Senl. Ir. I., c. 17. De Macario, pa-    tamus poliorum mss. aucloritate » . Nos autem secmi sumus
-           Iriarcha Antiocheno , cfr. Anastasius Bibliolh., de Vilis lioman.   nostros codd. Vat. ciim pluribus edd. notit qui pati venit.
-                                                                                                                                       363
-                                                  DIST. XVII. ART. I. QUAEST. I.
+Ceterum non parum nos movent verba Ambrosii, quibus significare videtur, Christum secundum humanum affectum de potentia Patris dubitasse, sic dicens in libro secundo de Fide[^p362-7]: «De quo dubitat? de se, an de Patre? De eo utique, cui dicit: *Transfer,* dubitat hominis affectu. Nam Deus de Patre non dubitat nec de morte formidat. Propheta etiam non dubitat, qui nihil Deo esse impossibile asserit. Num infra homines constitues Deum? Propheta non dubitat, et Filium dubitare tu credis? Ut homo ergo dubitat, ut homo locutus est». — His verbis innui videtur, quod Christus, non in quantum Deus est vel Dei Filius, sed in quantum homo, dubitaverit affectu humano. Quod ea ratione dictum accipi potest, non quia ipse dubitaverit, sed quia modum gessit dubitantis et hominibus dubitare videbatur.
 
-a se transire orat, ne. in his scilicet maneat'». «Non                  Iristis est, et scit, hunc calicem non posse transire,
-enim rogat, ne secum sil, sed nt a se transeat. Deiude                  nisi biberit; ideo ait: Pater rni, si non potest transire
-ait: Non sicut ego volo, sed sicul tu vis. Humanae in                   calix iste, nisi bibam illum, fial volimtas tua , sciens,
-se sollieitudinis significans consortium, sed non discer-               consummata in se passione, metum calicis transilurum,
-nens senlentiam sibi communis cum Patre voluntalis ».                   qui , nisi eum bibisset , Iransire non posset, nec finis
-« Pro hominibus ergo vult Iransire calicem, per quem                    terroris, nisi consummata passione, lerrori succedcret,
-omnes tentandi discipuli erant; ct ideo pro Petro ro-                   quia post mortem eius per virtutum gloriam aposloli-
-gatur, ne deficiat fides eius». «Sciens igilur, baec                    cae infirmitatis scandalum pelleretur ». — Inlende, le-
-omnia post mortem suam desilura, usque ad inorlein                      clor , his verbis pia diligenlia, ne sint tibi vasa mortis.
+Illud etiam ignorandum non est, quod Hilarius asserere videtur, Christum non sibi, sed suis orasse, cum dixit: *Transfer a me calicem hunc,* sicut nec sibi, sed suis timuit; nec eum voluisse, ut sibi non esset passio, sed ut a suis transiret calix passionis, ita inquiens[^p362-8]: «Si passio honorificatura eum erat, sicut, Iuda exeunte, ait: *Nunc honorificatus est Filius hominis;* quomodo tristem eum metus passionis effecerat? Nisi forte tam irrationabilis fuerit, ut pati mortem timuerit, quae patientem se glorificatura esset? Sed forte timuisse usque eo existimabitur, ut transferri a se calicem deprecatus sit dicens: *Pater, transfer calicem hunc a me.* Quomodo enim per patiendi metum transferri deprecaretur a se quod per dispensationis studium festinaret implere? Non enim convenit, ut pati nolit quod pati velit; et cum pati eum velle cognosceres, religiosius fuerat hoc confiteri, quam ad id impiae stultitiae prorumpere, ut cum assereres, ne pateretur, orasse, quem pati velle cognosceres». «Non ergo sibi tristis, neque sibi orat transire calicem, sed discipulis, ne in eos calix passionis incumbat, quem
+
+<!-- page 363 -->
+
+a se transire orat, ne in his scilicet maneat[^p363-1]». «Non enim rogat, ne secum sit, sed ut a se transeat. Deinde ait: *Non sicut ego volo, sed sicut tu vis.* Humanae in se sollicitudinis significans consortium, sed non discernens sententiam sibi communis cum Patre voluntatis». «Pro hominibus ergo vult transire calicem, per quem omnes tentandi discipuli erant; et ideo pro Petro rogatur, ne deficiat fides eius». «Sciens igitur, haec omnia post mortem suam desitura, usque ad mortem tristis est, et scit, hunc calicem non posse transire, nisi biberit; ideo ait: *Pater mi, si non potest transire calix iste, nisi bibam illum, fiat voluntas tua,* sciens, consummata in se passione, metum calicis transiturum, qui, nisi eum bibisset, transire non posset, nec finis terroris, nisi consummata passione, terrori succederet, quia post mortem eius per virtutum gloriam apostolicae infirmitatis scandalum pelleretur». — Intende, lector, his verbis pia diligentia, ne sint tibi vasa mortis.
+
+---
 
 ## English
+<!-- page 361 -->
 
-[Translation pending]
+### DISTINCTION XVII.
+
+### Chap. I. *Whether every prayer or will of Christ was fulfilled.*
+
+After the foregoing it must be considered whether Christ willed or prayed for anything which was not done. For this can be estimated from what he himself says[^p361-1]: *Father, if it is possible, let this chalice pass from me. Yet not as I will, but as thou wilt.* For here he seems to distinguish his own will from the will of the Father.
+
+### Chap. II. *On the wills of Christ according to the two natures.*
+
+Wherefore it must not be doubted that there were diverse wills in Christ according to the two natures, namely the divine will and the human. And the human will is an affect of reason, or an affect of sensuality, and one is an affect of the soul according to reason, another according to sensuality; yet each is called the human will. Now by the affect of reason he willed that which [he willed] by the divine will, namely to suffer and to die, but by the affect of sensuality he did not will it, nay he shrank from it. Yet there was not in him flesh against spirit, or [lust] against God, because, as Augustine says[^p361-2], «there is some vice when the flesh lusts against the spirit». «But the flesh is said to lust, because according to it the soul does this, just as the soul hears through the ear and sees through the eye. For the flesh lusts nothing except through the soul; but it is said to lust, when the soul by carnal concupiscence struggles against the spirit, having a carnal delight from the flesh and from the flesh against the delight which the spirit has. But the cause of this carnal concupiscence is not in the soul alone nor in the flesh alone; for it arises from both, since without both such delight is not felt». Such strife, therefore, and such conflict could in no way be in the soul of Christ, because carnal concupiscence could not be there. The will of God also it was, and it was pleasing to reason, that he should will this according to the flesh, so that the truth of [his] humanity might be proved in him. For he who took up the nature of man had to undergo what belongs to it. And therefore, just as in us there is a twofold affect, namely of the mind and of sensuality, so also in him there had to be a twin affect, that by the affect of the mind he should will to die, and by the affect of sensuality should not will it, as happens in holy men. For to Peter the Truth itself says[^p361-3]: *When thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee and lead thee whither thou wilt not,* namely to death. Expounding which, Augustine says, that Peter «was led to that trouble unwilling, came to it unwilling, but willing he overcame it; and he left behind the affect of weakness, by which no one wishes to die, which is so natural that not even old age took it away from Peter. Whence the Lord also says: *Let this chalice pass from me*; but the force of love overcame it». Therefore also in Christ according to [his] humanity and in his members there is a twin affect: one of reason, informed by charity, by which one wishes to die for the sake of God; the other of sensuality, near to[^p361-4] and conjoined with the weakness of the flesh, by which death is shunned. For as Augustine says[^p361-5]: «The pious man by the reason of the mind desires to be dissolved and to be with Christ, but by the sense of the flesh shrinks back and refuses. This the human affect has, because it loves life, hates death». According to this affect Christ did not will to die, nor did he obtain what according to this affect he sought.
+
+Therefore from the human affect, which he drew from the Virgin, he willed not to die and prayed that the chalice might pass. Whence Bede[^p361-6]: «He prays that the chalice pass, because he was man, saying: *Father, if it be possible, let this chalice pass from me.* Behold, you have the human will expressed. See now the upright heart: *But not what I will, but what thou wilt.* Whence elsewhere: *I came not to do my own will,* which, namely temporally, I took from the Virgin, *but the will of him who sent me,* which namely as eternal I had with the Father». — Here he plainly says that there were two wills in Christ, according to which he willed diverse things. Jerome[^p361-7] also, on that passage: *The spirit is willing, but the flesh weak,* giving to understand that here two wills are expressed, says thus: «This is against the Eutychians, who say that in Christ there is only one will. But here he shows the human [will], which on account of the weakness of the flesh refuses the passion, and the divine, which is ready to fulfill
+
+<!-- page 362 -->
+
+the dispensation». Augustine[^p362-1] also asserts that there were two wills in Christ, saying: «As far as God is distant from man, so far is the will of God from the will of man. Whence bearing [the person of] man, Christ showed a certain private will of man, in which he figured both his own and ours, who is our head, and to whom we belong as members. *Father,* he says, *if it be possible, let this chalice pass from me.* This was the human will, willing something proper and as it were private. But because he wills man to be upright and to be directed toward God, he adds: *Not what I will, but what thou* wilt; as if he were to say: See yourself in me, for you can will something proper, while God wills another thing. This is conceded to human frailty». The same elsewhere[^p362-2]: Christ in the passion expressed two wills in himself according to the two natures; for he says: *Father, if it be possible, let this chalice pass from me.* Behold, you have the will of the man, which, directing it at once to the divine, he says: *Yet, not as I will, but as thou.* Ambrose also in the second book On Faith[^p362-3]: «It is written: *Father, if it be possible, transfer this chalice from me.* They are the words of Christ, but in what manner and in what form they are said, attend: he bears the substance of man, he took up the affect of man. Therefore he speaks not as God, but as man». «He took up indeed my will. *Mine* is the will, which he called his own, when he said: *Not as I will, but as thou* wilt». «But when he said: *All things that the Father has are mine,* since nothing is excepted, without doubt, the same will which the Father has the Son also has[^p362-4]». «The will of Christ is the same as the Father's». «There is therefore one will of the Father and of the Son». «But one will is the man's, another God's, that you may know that life is in the will of the man, but the passion of Christ in the divine will, that he might suffer for us». — By these testimonies it is evidently taught that there were two wills in Christ; and because Macarius the archbishop denied this, he was condemned in the Metropolitan[^p362-5] Synod. And from the human affect of sensuality indeed, not of reason, he willed and sought that which he did not obtain. Nor did he seek it in order to obtain it, because he knew that God would not do it; nor did he will it to be done by the affect of reason, or by the will of the Divinity. For what, then, did he seek it? That he might offer a form to [his] members, that, with trouble pressing on, of crying to the Lord and of subjecting their will to the divine will, so that, if when trouble strikes they are saddened[^p362-6], they may pray for its removal; but if they cannot avoid it, they may say what Christ himself [said]. It was not, therefore, for foolishness that Christ crying out is not heard unto bodily safety. He sought indeed a good thing, namely that he might not die, but it was better that he should die; which also was done.
+
+### Chap. III. *On certain chapters of Ambrose and Hilary, where there is treatment of the doubting and fear of Christ.*
+
+But the words of Ambrose move us not a little, by which he seems to signify that Christ according to the human affect doubted of the power of the Father, saying thus in the second book On Faith[^p362-7]: «Of whom does he doubt? of himself, or of the Father? Of him surely, to whom he says: *Transfer,* he doubts by the affect of man. For God does not doubt of the Father nor fear death. The Prophet also does not doubt, who asserts that nothing is impossible to God. Will you set God below men? The Prophet does not doubt, and do you believe the Son to doubt? As man therefore he doubts, as man he spoke». — By these words it seems to be intimated that Christ, not insofar as he is God or the Son of God, but insofar as he is man, doubted by a human affect. Which can be understood as said for this reason, not because he himself doubted, but because he bore the manner of one doubting and seemed to men to doubt.
+
+This too must not be ignored, that Hilary seems to assert that Christ prayed not for himself, but for his own, when he said: *Transfer this chalice from me,* just as neither for himself, but for his own did he fear; nor did he wish that for himself there should be no passion, but that the chalice of passion might pass from his own, saying thus[^p362-8]: «If the passion was going to honor him, as, when Judas went out, he says: *Now is the Son of man glorified;* how had the fear of the passion made him sad? Unless perhaps he was so irrational as to fear to suffer death, which was going to glorify him who suffered? But perhaps it will be supposed that he so far feared, that he prayed that the chalice might be transferred from him, saying: *Father, transfer this chalice from me.* For how through fear of suffering would he pray that there be transferred from him what through zeal for the dispensation he was hastening to fulfill? For it is not fitting that he should be unwilling to suffer what he wills to suffer; and when you knew that he willed to suffer, it had been more religious to confess this than to break out into that impious folly, so that, when you would assert that he prayed not to suffer, [you assert it of him] whom you knew to will to suffer». «Not for himself therefore is he sad, nor for himself does he pray that the chalice pass, but for the disciples, that the chalice of passion may not fall upon them, which
+
+<!-- page 363 -->
+
+he prays may pass from him, that is, that it may not remain in these[^p363-1]». «For he does not pray that it be not with him, but that it pass from him. Then he says: *Not as I will, but as thou wilt.* Signifying a fellowship of human solicitude in himself, but not distinguishing a judgment of the will common to himself with the Father». «For men, therefore, he wills the chalice to pass, by which all the disciples were to be tempted; and therefore for Peter he is prayed for, that his faith may not fail». «Knowing, therefore, that all these things were to cease after his death, he is sad even unto death, and knows that this chalice cannot pass unless he drink it; therefore he says: *My Father, if this chalice cannot pass unless I drink it, thy will be done,* knowing that, the passion being consummated in himself, the fear of the chalice would pass, which, unless he had drunk it, could not pass, nor would the end of terror succeed the terror, unless the passion were consummated, because after his death, through the glory of [his] virtues, the scandal of the apostolic weakness would be driven away». — Attend, reader, to these words with pious diligence, lest they be to you vessels of death.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** gives a literal translation. The apparatus restarts numbering on each printed page.
+
+[^p361-1]: **La.** Matth. 26, 39. — Cfr. de hac dist. Hugo de S. Vict., Sum. Sent. tr. I. c. 17. — Pro *aestimari* solummodo Vat. et ed. 8 bene *existimari*.
+    **En.** Matthew 26:39. — Compare on this distinction Hugh of St. Victor, *Summa Sententiarum* tr. I, c. 17. — For *aestimari* only the Vatican edition and edition 8 [read], well, *existimari*.
+
+[^p361-2]: **La.** Libr. XIX. de Civ. Dei, c. 4. n. 3, ubi locus Scripturae est Gal. 5, 17. Seq. locus ex locis eiusdem, X. de Genesi ad lit. c. 12. n. 20. 21, et de Continentia, c. 8. n. 19, collectus, legitur sic in Glossa *ordinaria* ad Gal. 5, 17. — Immediate ante cod. D post *contra spiritum* addit *vel spiritus contra carnem*.
+    **En.** Book XIX *On the City of God*, c. 4, n. 3, where the Scripture passage is Galatians 5:17. The following passage, collected from passages of the same [author], *On Genesis according to the Letter* X, c. 12, nn. 20, 21, and *On Continence*, c. 8, n. 19, is read thus in the *ordinary* Gloss on Galatians 5:17. — Immediately before, codex D after *contra spiritum* adds *vel spiritus contra carnem*.
+
+[^p361-3]: **La.** Ioan. 21, 18, quem locum continuo exponit S. August., tr. 123. n. 5, et est etiam in Glossa ibid. Locus Scripturae est Matth. 26, 39.
+    **En.** John 21:18, which passage Saint Augustine expounds at length, *Tractate* 123, n. 5, and it is also in the Gloss there. The Scripture passage is Matthew 26:39.
+
+[^p361-4]: **La.** Codd. DG et edd. 1, 8 *ideo ei*.
+    **En.** Codices DG and editions 1, 8 [read] *ideo ei*.
+
+[^p361-5]: **La.** Epist. 140. (alias 120.) c. 6. n. 16. Locus Scripturae est Phil. 1, 23. Pro *Pius*, quod habent codd. BCD et ed. 1 cum originali (*homo pius*), in aliis *Paulus*. Deinde post *quoniam* Vat. cum codd. AE addit *qui*.
+    **En.** Letter 140 (alias 120), c. 6, n. 16. The Scripture passage is Philippians 1:23. For *Pius*, which codices BCD and edition 1 have with the original (*homo pius*), in others *Paulus*. Then after *quoniam* the Vatican edition with codices AE adds *qui*.
+
+[^p361-6]: **La.** Comment. in Marc. 14, 36, et in Glossa ibid. Locus alter Scripturae est Ioan. 6, 38. — Pro *homo erat, dicens* edd. 1, 6 *homo est, dicens*, ed. 8 *homo est Deus*.
+    **En.** *Commentary on Mark* 14, 36, and in the Gloss there. The other Scripture passage is John 6:38. — For *homo erat, dicens* editions 1, 6 [read] *homo est, dicens*, edition 8 *homo est Deus*.
+
+[^p361-7]: **La.** Apud Hieronymum non invenitur, sed haec verba sunt ex Beda, ad hunc locum (Marc. 14, 38.), collecta et praecise inveniuntur in Glossa ibid.
+    **En.** It is not found in Jerome, but these words are from Bede, on this passage (Mark 14:38), collected, and are found precisely in the Gloss there.
+
+[^p362-1]: **La.** Enarrat. II. serm. 1. in Ps. 32. (v. 1.) n. 2, in quo textu pro *qui caput* cod. E et ed. 8 cum originali *quia caput*. — Locus Scripturae est Matth. 26, 39. Cfr. I. Sent. d. XLVIII. c. 1, et ibi Comment. S. Bonaventurae.
+    **En.** *Enarration* II, sermon 1, on Psalm 32 (v. 1), n. 2, in which text for *qui caput* codex E and edition 8 with the original [read] *quia caput*. — The Scripture passage is Matthew 26:39. Compare I Sent., d. XLVIII, c. 1, and there the Commentary of St. Bonaventure.
+
+[^p362-2]: **La.** Verbotenus apud Petrum Lomb. in Glossa ad Ps. 93, 15, excerpta ex August. Enarrat. in illum locum n. 19. — In fine loci Scripturae iam citati post *sicut tu* codd. AD et edd. 1, 8 addunt *vis*.
+    **En.** Word for word in Peter Lombard in the Gloss on Psalm 93:15, excerpted from Augustine's *Enarration* on that passage, n. 19. — At the end of the Scripture passage already cited, after *sicut tu* codices AD and editions 1, 8 add *vis*.
+
+[^p362-3]: **La.** Cap. 5. n. 41. 42. Seq. locus est ibid. c. 7. n. 53 cum locis Scripturae iam citatis.
+    **En.** Chapter 5, nn. 41, 42. The following passage is there, c. 7, n. 53, with the Scripture passages already cited.
+
+[^p362-4]: **La.** Ibid. c. 6. n. 51. Locus Scripturae est Ioan. 16, 15. Seq. locus ibid. parum superius; tertius ibid. n. 50; ultimus ibid. c. 7. n. 52.
+    **En.** Ibid., c. 6, n. 51. The Scripture passage is John 16:15. The following passage is there a little above; the third there, n. 50; the last there, c. 7, n. 52.
+
+[^p362-5]: **La.** Ita codd. et edd. 1, 3, 7; in Vat. et aliis *Archiepiscopus Antiochiae in Constantinopolitana Synodo*. Lectio codd. confirmatur ab Hugone, Sum. Sent. tr. I., c. 17. De Macario, patriarcha Antiocheno, cfr. Anastasius Biblioth., de Vitis Roman. Pontif. n. 81 (S. Agathonis). Quod sequitur convenit cum Comment. Petri Lombardi in Ps. 21, 6.
+    **En.** So the codices and editions 1, 3, 7; in the Vatican edition and others *Archbishop of Antioch in the Synod of Constantinople*. The reading of the codices is confirmed by Hugh, *Summa Sententiarum* tr. I, c. 17. On Macarius, patriarch of Antioch, compare Anastasius the Librarian, *On the Lives of the Roman Pontiffs* n. 81 (of St. Agatho). What follows agrees with the Commentary of Peter Lombard on Psalm 21:6.
+
+[^p362-6]: **La.** Cod. E et edd. 1, 8 *turbantur*, cod. C *contristantur*.
+    **En.** Codex E and editions 1, 8 [read] *turbantur*, codex C *contristantur*.
+
+[^p362-7]: **La.** Cap. 5. n. 43. 42. Codd. et ed. 1 citant III. libr. de Trinitate. Post *asserit* Vat. cum aliis edd., exceptis 2, 3, 7, addit *Omnia quaecumque voluit, fecit* [Ps. 113, 3.]. Sed falso; nam Ambrosius respicit ad Iob 22, 17, qui locus apud ipsum legitur: *Impossibile enim tibi nihil est.* Vulgata: *Quasi nihil posset facere Omnipotens, aestimabant eum*.
+    **En.** Chapter 5, nn. 43, 42. The codices and edition 1 cite the third book *On the Trinity*. After *asserit* the Vatican edition with the other editions, except 2, 3, 7, adds *All things whatsoever he willed, he did* [Ps. 113:3]. But falsely; for Ambrose refers to Job 22:17, which passage in him is read: *For nothing is impossible to thee.* The Vulgate: *They esteemed him as though the Almighty could do nothing*.
+
+[^p362-8]: **La.** Libr. X. de Trin. n. 29. 30, ubi respicitur Ioan. 13, 31. In quo textu post *ut pati* originale et codd., exceptis B E et Erf., omittunt *mortem*, insuper edd. 1, 8 omittunt *pati*, refragante etiam originali. Infra pro *ut pati nolit quod pati velit* originale in ed. Maurina: *ut pati nollet qui pati vellet*; sed ibi additur: «In prius vulgatis: *ut pati nolit quod pati velit*, quod immutamus potiorum mss. auctoritate». Nos autem secuti sumus nostros codd. Vat. cum pluribus edd. *nolit qui pati venit*.
+    **En.** Book X *On the Trinity* nn. 29, 30, where John 13:31 is referred to. In which text after *ut pati* the original and the codices, except B, E, and Erfurt, omit *mortem*, moreover editions 1, 8 omit *pati*, the original also resisting. Below, for *ut pati nolit quod pati velit* the original in the Maurine edition [reads]: *ut pati nollet qui pati vellet*; but there is added: «In the earlier vulgate [editions]: *ut pati nolit quod pati velit*, which we change on the authority of the better manuscripts». But we have followed our codices [and] the Vatican edition with several editions [reading] *nolit qui pati venit*.
+
+[^p363-1]: **La.** Ibid. n. 37. Seq. locus ibid. paulo superius; tertius ibid. n. 38; ultimus ibid. n. 39. — Pro *ideo pro Petro rogatur,* cod. E cum pluribus edd. *rogat*, refragante etiam originali; respicitur ibi Luc. 22, 32. In fine pro *vasa mortis* edd. 1, 8 *causa mortis*.
+    **En.** Ibid., n. 37. The following passage is there a little above; the third there, n. 38; the last there, n. 39. — For *ideo pro Petro rogatur,* codex E with several editions [reads] *rogat*, the original also resisting; Luke 22:32 is referred to there. At the end, for *vasa mortis* editions 1, 8 [read] *causa mortis*.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF column bands (`/tmp/colcrop/vol3-p{361,362,363}-{L,R}-*.png`), cross-checked against the IA djvu OCR (raw lines 25210–25361). This is the *littera Magistri* — Peter Lombard's text for Distinction XVII (Cap. I–III), the opening of which is printed at the head of the distinction; it is a distinct Tier-2 unit from Bonaventure's commentary (the COMMENTARIUS IN DISTINCTIONEM XVII / DIVISIO TEXTUS chunk, `bon-sent-III-d17-divisio`, which begins at raw 25362 on printed p.363).
+
+**Caps.** Cap. I (*Si omnis Christi oratio…*) → Cap. II (*De voluntatibus Christi secundum duas naturas*) → Cap. III (*De capitulis quibusdam Ambrosii et Hilarii…*). The marginal references in the printed text (`Determinatio…`, `Augustinus`, `Ambrosius`, `Macarius`, `Beda`, `Hieronymus`, `Confirmatur Sanctorum verbis`, `Specialis explanatio quaestionis sec. Hilarium`, and the `Dubium 1–4` keys that signpost the dubia Bonaventure raises in his commentary) are editorial running marginalia and have been trimmed from the body per project convention.
+
+**Page-split map.** Cap. I + Cap. II open on **p.361 L** (below the d.16 dubia tail and the `DISTINCTIO XVII.` header) and run through both columns; Cap. II concludes and Cap. III opens on **p.362 R**; Cap. III concludes on **p.363** top (L + R) immediately before `COMMENTARIUS IN DISTINCTIONEM XVII.`. Page breaks placed at the running-head transitions. Apparatus per-page restart: **p.361 → [^p361-1..7]** (the `NOTAE AD LIBR. SENTENTIARUM` sequence, notes 1–3 in the L footer, 3-continuation + 4–7 in the R footer); **p.362 → [^p362-1..8]** (notes 1–5 in the L footer, 5-continuation + 6–8 in the R footer); **p.363 → [^p363-1]** (the single `NOTAE AD LIBR. SENTENTIARUM` note 1 in the L footer, above the `NOTAE AD COMMENTARIUM` block which belongs to the divisio chunk).
+
+**Hand-offs picked up: NONE.** The d.16→d.17 seam is clean — the d.16 dubia owned its share of the p.361 footer (`Cfr. de hoc dubio B. Albert., hic a. 5…`, under `NOTAE AD SENTENTIARUM`); this littera's apparatus starts fresh under the `NOTAE AD LIBR. SENTENTIARUM` header on the same page. No forwarded footer was carried in.
+
+**Hand-off forwarded to `bon-sent-III-d17-divisio`:** the COMMENTARIUS IN DISTINCTIONEM XVII (DIVISIO TEXTUS → TRACTATIO QUAESTIONUM → ART. I QUAEST. I) begins at **raw line 25362** on printed **p.363** (running head `DIST. XVII. ART. I. QUAEST. I.`). The COMMENTARIUS apparatus is keyed under `NOTAE AD COMMENTARIUM` in the p.363 footer (note 1: `Codd. Z bb (K a secunda manu) et edd. 1, 2 adiungunt dist. 18…`) — that block is the divisio chunk's, not the littera's. The seam is clean: the littera ends at `…ne sint tibi vasa mortis.` (Cap. III) and `[^p363-1]` is the littera's last footer; everything from `COMMENTARIUS` onward migrates to the divisio.
+
+**[?] flags: NONE.** The 450 dpi column bands were fully legible across all three pages.
