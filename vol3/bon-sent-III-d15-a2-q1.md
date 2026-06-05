@@ -134,7 +134,7 @@ Concerning the first one proceeds thus, and it is asked, whether Christ had igno
 
 **On the contrary:**
 
-1. The assumption of flesh was the work of divine wisdom; but wisdom, as such, is not the principle of ignorance: therefore Christ did not assume that defect which is ignorance.
+1. The assumption of flesh was the work of divine wisdom; but wisdom, as such, is not the principle of ignorance: therefore Christ did not assume that defect which is ignorance[^p337-1].
 
 2. Likewise, Christ had come to teach us; but it does not belong to one who is ignorant to teach: therefore he ought not to assume ignorance.
 
