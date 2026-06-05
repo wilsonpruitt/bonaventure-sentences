@@ -6,206 +6,201 @@ distinctio: 18
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 26691
-line_end: 26872
-word_count_latin: 2573
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Utrum Christus meruerit aliquid post conceptionem"
+title_en: "Whether Christ merited anything after his conception"
+printed_pages: [382, 383, 384]
+pdf_pages: [404, 405, 406]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 382–384"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (pp.382–384), fresh literal English translation, full apparatus per-page restart (18 entries: p.382 fn 5 picked-up; p.383 fn 1–10; p.384 fn 1–7), no scholion (q1's Scholion I–III forward-covers the article), no [?] flags (2026-06-05)"
 format_version: 1
 ---
 
-# bon-sent-III-d18-a1-q2
+# bon-sent-III-d18-a1-q2 — Whether Christ merited anything after his conception
+
+## *Utrum Christus meruerit aliquid post conceptionem.*
+
+---
 
 ## Latin
+<!-- page 382 -->
 
-QUAESTIO II.
-                                            Utrum Christus meruerit aliquid posl conceptionem.
+### Quaestio II. *Utrum Christus meruerit aliquid post conceptionem.*
 
-             Secundo quaeritur , utrum Christus aliquid me-                      ipsum usque ad morlem; et post: Propter quod Fandamenu
-        ruerit post conceplionem. Et quod sic, videtur.                          et Deus exallavit illum etc. Sed humilitas non est
-              1. Ad Philippenses secundo5: Humiliavit semet-                     causa exaltationis nisi per modnm meriti: si ergo
+Secundo quaeritur, utrum Christus aliquid meruerit post conceptionem. Et quod sic, videtur.
 
+1. Ad Philippenses secundo[^p382-5]: *Humiliavit semetipsum usque ad mortem; et post: Propter quod et Deus exaltavit illum* etc. Sed humilitas non est causa exaltationis nisi per modum meriti: si ergo
 
-              1 Exempla vide in solut. ad I. — Paulo ante pro de alia            6.). — Subinde pro Et sic non pauei codd. Et sicut, codd. A I
-         autem non pauci codd. perperam de illa autem.                           Sicut , cod. D El sicut palet. Paulo superius pro processum
-              2 Aristot., de Memoria el reminisc. c. I. docet, quod pro-         naturae deliberatio indigeat cod. A processum naturae delibe-
-         pter dependentiam intelleclus noslri in cognoscendo a phantas-          ranlem [deliberativae?] indigeat ratio.
-         matibus, quae respiciunt sensibilia singularia , » non contingit             3 Cfr. II. Sent. d. 3. p. II. a. I. q. 2. fundam. 3. et 4.
-         intelligere aliquid sine conlinuo neque sine tempore , quae non              * Mulli codd. et edd. I, 2 habuil.
-         in tempore sunt ». — De propos. seq. cfr. supra d. 14. a. 2.                 5 Vers. 8. — Seq. Script. !oc. ibid. v. 9.
-         q. I , et q. 2. fundam. I. et in fine corp. (resp. ad fundam.
-                                                                                                                                                383
-                                                         DIST. XVUI. AKT. I. QUAEST. II.
+<!-- page 383 -->
 
-        hoc fuit posl conceplionoin, ergo Christus post con-                    non-suo suuin — oumia enim sua erant per graliain
-        ceptionem aliquid meriiit.                                              conceptionis, sicut ipse testatur: Omnia lua mea
-             2. ltem, Augustinus ' , Iractans illud verbuin                     sunt1 — ergo non videlur, qnod post conceptionem
-        praemissum: « lluniilitas claritalis est meritum, cla-                  aliquid meruerit.
-        ritas huniilitatis est praemium»: si ergo humiliatio                         5. Item, quod eodem inodo se habet nunc et
-        in Cbristd subseeuta fuit ipsain conceptioneni , ne-                    prius natum est consiiniles operaliones ellicere8; sed
-        cessario etiam seqnitur , quod meruerit , postquam                      liberum arbitrium in Christo eodem modo se habet
-        conceptus fucrit.                                                       post conceplionem et post resurrectionem , et gralia
-                 3. Item, in libro de Regulis fidei * mereri ita                siiniliter, et haec duo sunt principia merendi: si
-           definitur: «Mereri apud Deuin dicitur qui nulla                      igitur post resurreetioneni non ineruit, ergo nee
-           necessitate compulsus hoc facit quod facere debet»;                  post eoneeptionem. Si lu dicas , quod aliter el aliter
-           sed hoc fecit Chrislns post suam conceplionem : ergo                 se habet, quantiim est ex parte earnis; hoe non sol-
-           apud Deuin inernit.                                                  vit, quia meritum non respieit slatuin carnis , sed
-                 4. Ilem, opera Christi fuerunt multo nobiliora,                statiim caritulis: ergo si Christus post conceptionein
-           quam sunt mcrita aliorum Sanctorum: si ergo opera                    halmit caritatem patriae aeque nobilein et perfeclam,
-           aliorum Sanctorum sunt digna relributione, videlur,                  sieut modo habet, nec est eius caritas variata; si
-           quod mullo fortius opera Christi: ergo videtur,                      modo non habet usum merendi, videlur, quod nee
-           quod Christus apud Deum meruerit.                                    tunc habuerit.
-                 !>. Item, si non mertiit apnd Deum, postquam                                            CONCLUSIO.
-           conceptus fuit: ergo videtur, quod frustra Deo ser-
-           vivit et quod frustra fecit", quidquid fecil post con-               Christus post conceptionem actu meruit, nobis qui-
-           ceptionem. Si ergo hoc est impiuin dicere, necesse                        dem meruit gratiae infusionem , graliac pro-
-           est, Chrislum post conceptionem aliquid meruisse.
-                                                                                     veclionem el bouorum operum muliiplicatio-
-                 Skd contoa: 1. Mereri est facere opus de ge-                        nem; sibi autem id quod iam sibi debebatur ,
-Ad opposi- nere   laudabilium; sed 'potentia determioala ad uniiin
-   lum.                                                                              fecit debilum alio modo.
-           tantuin non habet laudem in actu illius, sicut patet
-        in oninibus potenliis naturalibus4; sed liberum ar-                           Rkspondeo: Ad praedictorum fntelligentiam est
-        bitrium Christi ab ipsa conceplione deleriniualiiin                     nolandum, ...quod mereri    contingit Irinliciter: uno ■Mere|'i dici-
-                                                                                                        .                              t"r taplici-
-        fuit ad bonum: ergo non potuit exire iu opus de                         modo simpliciler abusive , aho modo partini pro- ler-
-        genere laudabilium, ergo nec in opus nierilorium.                       prie et parlim improprie, tertio modo simpliciter
-             2. Iteni, mereri est facere5 opus remuneratione                    proprie. — Simpliciter abusive mereri dicitur qui
-        dignum ; sed liberum arbitrium, iam existens in statu                   facit aliquod opus de genere bonorum , tamen faeit
-        remunerationis, iam non facit opus ulteriori remu-                      illud inalo modo, id est mala intentione, sicut ille
-        neratione dignum, sicnt patet in Beatis; sed tale                       qui dat eleemosynam cum murmure; talia eniin
-        fnit liberum arbilriuin Christi, cuni esset in statu                    opera aliquando remunerantur a Deo ex immensa
-        comprehensoris: ergo videtur, quod post conceptio-                      sua largilate, sieut innuitur de Xabuehodonosor in
-        nem suam nihil omnino mereri potueril.                                  leremia ". — Ille vero meretur partim proprie, parlim
-              3. Uem, quicumque ' meretur, proficit in bonis                    abusive, qni facit opus de genere bonorum et bona
-        animae, scilicet in gratia et gloria; sed Christus non                  intentione, verumtamen non ex caritale; sicut ali-
-        potuit proficere supra id quod accepit a conceptione:                   quis peceator facit opera de genere bonoruin et
-        ergo non videtur, quod post conceptionem mereri                         propler Deum, in qnibus de eongruo se disponil ad
-        potuerit.                                                               graliam. — Ille vero meretur simpliciter proprie ,
-              4. Ilem , quicumque meretur aliquid , de non-                     qni facit bonum opus et bona intentione et ex cari-
-        suo facit suum per opus et obsequiuin , et de eo                        tate. Et primuni quidem meritum dicitur meritum n»i»-
-        quod est sibi indebilum, facit debitum; sed Chri-                       mterprelalivum'"; secundum dicitur merituni con-
-        stus non potuit facere de indebito debituin , vel de                    grui; tertium dicitur meritum condigni.
+hoc fuit post conceptionem, ergo Christus post conceptionem aliquid meruit.
 
+2. Item, Augustinus[^p383-1], tractans illud verbum praemissum: « Humilitas claritatis est meritum, claritas humilitatis est praemium »: si ergo humiliatio in Christo subsecuta fuit ipsam conceptionem, necessario etiam sequitur, quod meruerit, postquam conceptus fuerit.
 
+3. Item, in libro de Regulis fidei[^p383-2] mereri ita definitur: « Mereri apud Deum dicitur qui nulla necessitate compulsus hoc facit quod facere debet »; sed hoc fecit Christus post suam conceptionem: ergo apud Deum meruit.
 
-             1 ln Ioan. Evang. tr. 104. n. i. Cfr. hic lil. Magislii, c. I.     codd. A K bb, cod. Z quisquis, alii codd. et edd. quidquid. Post
-        — Posi praemissum Val. supplet ait.                                     pauca1 loan.
-                                                                                       pro a 17,
-                                                                                              concepttone
-                                                                                                 10.      edd. in conceplione.
-             ! Sive de Arlieulis calhol. fidei, lib. II. in explicat. theore-
-        malis sive propos. 8, ubi textus origin. pro ttereri exhibet                 8 Aristot., II. de Generat. ct corrupt. text. 36. (c. 10.): ldem
-        Bene mereri et deinde compulsus libens facil Deo quod debet             enim el similiter se habens semper idem notum est facere. — ■
-        pro compulsus hoc facil quod facere debel. C.fr. ibid. theo-            In fine arg. pro habuerit multi codd. habuit.
-        rema 16.                                                                     9 Cap. 27 , 6. seqq. — B. Alberl., hic a. I , exempli causa
-             3 Bene mulli codd. feceril. Mox pro Christum edd. incon-           proponit quod in vila B. Ioannis eleemosynarii de quodam mi-
-         grue Deum , cod. bb ipsum.                                             lile, Petro nomine, narralur, qui scilicet « iratus pane, quo
-             4 Cfr. Arislol., II. Elhic. c. S. — Pro laudem cod. K laudari.     proieceral pauperem , meruit in iudicio Domini , ad quod raptus
-             5 tta codd. A II K Q ; in aliis deest facere.                      fuit, prolongationem vitae in poenitentiom ».
-             6 Pro quicumque , quod et in solut. hobelur nec non in                   10 Quam oppellationem Alex. Hal., S. p. III. q. 17. m. I, sic
-         384                                                SENTENTIARUM LIB. III.
+4. Item, opera Christi fuerunt multo nobiliora, quam sunt merita aliorum Sanctorum: si ergo opera aliorum Sanctorum sunt digna retributione, videtur, quod multo fortius opera Christi: ergo videtur, quod Christus apud Deum meruerit.
 
-                     Cum igitur quaeritur, utrum Chrislus meruerit,          nus gloriae non facit opus remunerabile; dicendum,
-              non quaeritur de primo et secundo modo, sed quae-              quod illud verum est, quando aliquis est simplici-
-   snbdistin- ritur de tertio. Ad hoc igitur respondendum , quod             ter in statu patriae; cum autem non tantum esl
-              mereri ex condigno tribus uiodis contingit. Uno                in slatu comprehensoris , verum etiam in statu via-
-              modo mereri est ex indebito facere debilum , sicut             loris , tunc opus eius esse potest remunerabile pro-
-              meretur quis in gratiae infusione et motu liberi ar-           pter statum viae; et sic est reperire in Christo se-
-              bitrii. Alio modo mereri est de debilo facere magis            cundum divinam dispensationem. Nam sicut anima tfotandum,
-              debitum, sicut contingit de profectu in profectum,             Christi propter coniunctionem sui cum Divinitate ha-
-              de virtule in virtutem. Tertio modo mereri est de              bet statum patriae, sic propter coniunctionem sui
-              debito uno modo facere debitum alio modo , ul de               cum carne habet statum viae et miseriae pro illo
-              debilo per habitum facere debitum per usum , et                tempore. Et ideo, sicut poluit esse in statu vialoris
-              de debito per alium actum facere debitum per unum              simul et comprehensoris , sic habuit gloriam ad
-              aeque bonum.                                                   comprehendendum et graliam ad merendum. — Et est simiie.
-                     Omnibus his modis Christus meruit nobis. Me-            simile de Angelis, in quibus ponimus vim admini- /
-conciusio i. ruit enim nobis gratiae infusionem, meruit et gra-              strativam et contemplativam , secnndum quarum
-              tiae provectionem ' , meruil et bonorum operum                 unam merentur, et secundum alteram fruunlnr et
-              multiplicationem. Sibi autem non meruit nisi tertio
-              modo tantum post conceptionem. Ipse enim non po-                     3. Ad illud
-                                                                             praemiantur   5. quod obiicitur, quod quicumque
-              tuit facere sibi de indebito debiium , cum omni bono           meretur, merendo proficit; dicendum, quod profi- i*»pi« ™-
-              esset dignus. Non potuit facere de debito magis de-            cere est duobus modis: vel incremenlo 6 habitus, vel °>e>>di-
-              bitum, cum omni gratia ab ipsa conceptione esset               in multitudine actuum; vel per alia verba: est pro-
-conciusio a. plenus z, sed quod erat debitum uno modo fecit                  flcere quantum ad virtulem merendi et quantum ad
-              debitum pluribus modis; et ita meruit secundum                 numerum meritorum. Primo modo accipiendo pro-
-              terlium modum dicendi meritum solum, non pro-                  fectum, non compelit tertio modo dicendi meritum,
-              pter imperfectionem a parle meriti, sed propter per-           secundum quem tertium modum dicitur meruisse
-coniirmaiur. fectionem a parte merentis. Et hoc est quod dicitur             Christus. Alio modo accipiendo profeclum, competit
-              in littera3: «Non profecit Christus secundum me-               sibi, sicut patet per supra habitam distinctionem.
-              ritum quantum ad virtutem meriti, profecit tamen                     4. Ad illud quod obiicitur, quod mereri esj fa-
-              quantum ad numerum meritorum. Plura enim habuit                cere de indebito debitum; dicendum, quod illud
-              merita in passione quam in conceptione » . — Con-              verum est qnantum ad aliquem modum merendi,
-              cedendae sunt igitur rationes ostendentes, Christum            sed non quantum ad omnes, sicut prius dictum est;
-              post conceptionem usum et exercitium meriti habuisse.          et ideo non habet locuin in proposito.
-                     1. Ad illnd quod obiicitur, quod potentia de-                 b. Ad illud quod obiicitur, quod liberum arbi-
- soiutio oP- terminata ad unum non facit opus de genere lau-                 trium eodem modo se habet nunc et prius; dicen-
-       >n™' dabilium; dicendum, quod determinatio polentiae                  dum , quod verum est per comparationem ad su- Notandu.n
- Dupiex   de- ad unum potest esse duplicitern , videlicet per ne-
-terrainalio. .
-                                                                             perius , scilicet ad Deum; non tamen est verum
-              cessilatem nalurae et per con/irmationem gratiae.              per comparationem ad inferius, scilicet ad carnem
-              Si sit per necessitatem natwrae , tunc tollit arbiLrii         passibilem, ex cuius coniunctione tam liberum ar-
-              libertatem, ac per hoc tollit dignitatem meriti. Si            bitrinm quam gratia ipsum perficiens habet perti-
- Notandum. autem sit determinatio per confirmalionem gra-                    nere ad statum viae. Unde non valet illud quod
-              tiae, cum talis confirmatio simul stet cum li-                 obiicit de carne, quod non est principium merendi;
-              bera voluntate, sic non tollit ab ipso opere bonita-           hoc enim verum est, per se loquendo, facit tamen
-              tem moris, cum sit voluntarium, ac per hoc nec                 ad meritum, dum facit ad statum meriti, sicut
-              qualitatem meriti. In Chnsto autem fuit liberum ar-            patet in coniunctione animae ad carnem et eius se-
-              bitrium determinatum ad unum non per necessita-                paralione '. Anima enim nostra statim , dum a carne
-              tem naturae , sed per confirmationem gratiae 4.                separatur, amplius non habet merendi vel deme-
-                     2. Ad illud quod obiicitur, quod habens mu-             rendi statum.
+5. Item, si non meruit apud Deum, postquam conceptus fuit: ergo videtur, quod frustra Deo servivit et quod frustra fecit[^p383-3], quidquid fecit post conceptionem. Si ergo hoc est impium dicere, necesse est, Christum post conceptionem aliquid meruisse.
 
+**Sed contra:** 1. Mereri est facere opus de genere laudabilium; sed potentia determinata ad unum tantum non habet laudem in actu illius, sicut patet in omnibus potentiis naturalibus[^p383-4]; sed liberum arbitrium Christi ab ipsa conceptione determinatum fuit ad bonum: ergo non potuit exire in opus de genere laudabilium, ergo nec in opus meritorium.
 
-                                                                                 3 Hic c. 2.
-         explicat: « Quia Deus retribuit ei maius, quam faciat [peccator];
-         et ideo interprelatur Deus remunerando, ac si ille meruisset».            1 Cfr. II. Sent. d. 7. p. I. a. 2. q. I. — Aliquanto su-
-         — De merilo congrui et condigni vide supra d. i. a. 2. q. 2.        perius pro confirmationem (primo loco) codd. G H L T V aa
-         in^corp. — Paulo inferius pro et secundo modo cod. U nec dc         consummationem ; cod. K in hac solut. constanler exliibet vo-
-         secundo modo.                                                       cem conformationis. Post sit determinalio edd. male adiieiunt
-              1 Edd. cum paucis codd. promotionem.                           meriti.
-              2 Alan. ab Insul., Theolog. Regul., in exponenda regula              5 Vide II. Sent. (1. II. a. 2. q. 2.
-         106. ait: Cum mereri sit de non-debilo faeere debitum , Christo           6 Pro incremento edd. et nonnulli codd. substituunt in
-         autem a tempore incarnationis deberetur quidquid postea est         merito , et /paulo inferius post tertium modum subiiciunt tan-
-         consecutus, ipse de indebito debitum non fecit et ita sibi non      tummodo.
-         meruit. Aeque enim dignus fuil ab incarnatione omnibus his etc.         7 Vat. cum paucis codd. separalionim ; perperam.
-                                                                                                                                                385
-                                                        DIST. XVIII. ART. I. QUAEST. III.
+2. Item, mereri est facere[^p383-5] opus remuneratione dignum; sed liberum arbitrium, iam existens in statu remunerationis, iam non facit opus ulteriori remuneratione dignum, sicut patet in Beatis; sed tale fuit liberum arbitrium Christi, cum esset in statu comprehensoris: ergo videtur, quod post conceptionem suam nihil omnino mereri potuerit.
 
+3. Item, quicumque[^p383-6] meretur, proficit in bonis animae, scilicet in gratia et gloria; sed Christus non potuit proficere supra id quod accepit a conceptione: ergo non videtur, quod post conceptionem mereri potuerit.
 
-                                                                    SOHOLION.
-              I. Cum secundum aotionem divinae nalurae non possit esse          Ilnl., S. p. III. q. 17. m. I, qui ibi quinque specics merili in
-        quacstio de merito, liic praesupponllur, in Cluisio fuissecliam         genere dislinguil. — Notandum, quod in solutione ad I. S. tan-
-        actionem humanam, vel potius divino-humanam , de qua in                 gitur quncstio, in qun solvcndn posteriores theologi mullum In-
-        Concilio Lnleronensi, an. 649 sub Martino I. celebrato (can. IS.),      boraverunt, scilicct quomodo in Christo fuerit sufflciens liber-
-        docetur : i Si quis secundum scclerosos hncrcticos deivirilem           tas ad merendnm (cfr. hic n. 2. q. 2. et supra d. 12. a. 2. q.
-        operaiioncm, quam Graeci dlcunt Oeavipuurjv, unam operatio-             1. 2; II. Scnt. d. 7. p. I. a. 2. q. I.). — Item in solul. ad 2.
-        nem insipienter suscipit, non autcin dupliccm esse conlltctur           docctur, quod Cluistus singulaiissimo niodo fueril in slatu viae,
-        secunduin Ss. Patres, hoc esl divinam el humanam ; aut ipsam            exlra quem non polcst essc mrriluni (cfr. II. Senl. d. 7. p. I.
-        deiviiilis, quae posita est, novam vocabuli diclionem unius             a. I. q. I.), ct quod non ralionc gloriac et amoiis liuic slalui
-        essc designativam , sed non ulriusque mlriflcae et gloriosae uni-       anncxi mcrucrit (cfr. a. 2. q. I. fundam. S. et ad 2.), scd ratione
-        tionis demonstrntivnm , condemnntus sit». Haec autem actlo hu-          amoris, qiieui hnbuil ul viator cx gralia infusa. Conscntiunl Alrx.
-        mana in Chrislo dicitur ctiain dicina , « non quin divinn sit per       Hal. el S. Thom. allique multl. Scotus aotem cum aonnullis \uli,
-        rssentiam, sed per participationciu , et hoc triplici ratlone,:         Christuin clinm per nmorem bentillcum meruisse. — Deniqup ob-
-        primo propler associationem in una persona agente; secundo              scrvandum csl, quod in COrp, snlis clnrc docclur, Chrislum nobis
-        propter assoclationem aliquam in modo agendi, quia perfectius           elinm applicationein sui mcrili respectu piimnc infusionis gra-
-        operabatur ceteris operantibus propler unionem, sicut sensuali-         tiae snncliflcanlis mcruisse, quod plures antiqui thcologi ncga-
-        tas in hominc pCrfectius quam in brulis ; (cilio propter asso-          runt (cfr. Rlchard. a Med., hic a. 2. q. 4, et Suarez iu III. p.
-        ciationem in uno ejfectu, seu opere operato, ul in uno el eo-           Sum. disp. 41. scct. 2.).
-        dem mireculo, in quo Divinitns operabalur iuterius , slcut lc-                 III. Alex. Hal. , loc. cil. — Scot. , in Utroque Scriplo hic q.
-        prosum sannndo, huinnnilns cxteriiis , sicul leprosum tangendo »        unica. — S. Thom., hic a. 2; S. III. q. 19. a. .!. 4. — B. Al-
-        (iln Petr. n Tnr. , hic q. I. a. I ; cfr. S. Thom., S. III. <|. llJ.    bert., hic a. I. 7. — Pelr. a Tai. , hic q. I. a. 2, q. 3. a. I.
-        a. 2; Bonav., supra d. 17. a. I. q. I. 2.).                             2. — ltichard. a Med. , hic a. I. q. I. — Durand. , hic q. 2. —
-              II. Dislinclio triplicis meriti ex condigno snnita est ex Alex.   Dionys. Cailh. , dc hac ct scq. q. hic q. I.
+4. Item, quicumque meretur aliquid, de non-suo facit suum per opus et obsequium, et de eo quod est sibi indebitum, facit debitum; sed Christus non potuit facere de indebito debitum, vel de non-suo suum — omnia enim sua erant per gratiam conceptionis, sicut ipse testatur: *Omnia tua mea sunt*[^p383-7] — ergo non videtur, quod post conceptionem aliquid meruerit.
+
+5. Item, quod eodem modo se habet nunc et prius natum est consimiles operationes efficere[^p383-8]; sed liberum arbitrium in Christo eodem modo se habet post conceptionem et post resurrectionem, et gratia similiter, et haec duo sunt principia merendi: si igitur post resurrectionem non meruit, ergo nec post conceptionem. Si tu dicas, quod aliter et aliter se habet, quantum est ex parte carnis; hoc non solvit, quia meritum non respicit statum carnis, sed statum caritatis: ergo si Christus post conceptionem habuit caritatem patriae aeque nobilem et perfectam, sicut modo habet, nec est eius caritas variata; si modo non habet usum merendi, videtur, quod nec tunc habuerit.
+
+### Conclusio.
+
+> Christus post conceptionem actu meruit, nobis quidem meruit gratiae infusionem, gratiae provectionem et bonorum operum multiplicationem; sibi autem id quod iam sibi debebatur, fecit debitum alio modo.
+
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod mereri contingit tripliciter: uno modo *simpliciter abusive*, alio modo *partim proprie et partim improprie*, tertio modo *simpliciter proprie*. — *Simpliciter abusive* mereri dicitur qui facit aliquod opus de genere bonorum, tamen facit illud malo modo, id est mala intentione, sicut ille qui dat eleemosynam cum murmure; talia enim opera aliquando remunerantur a Deo ex immensa sua largitate, sicut innuitur de Nabuchodonosor in Ieremia[^p383-9]. — Ille vero meretur *partim proprie, partim abusive*, qui facit opus de genere bonorum et bona intentione, verumtamen non ex caritate; sicut aliquis peccator facit opera de genere bonorum et propter Deum, in quibus de congruo se disponit ad gratiam. — Ille vero meretur *simpliciter proprie*, qui facit bonum opus et bona intentione et ex caritate. Et primum quidem meritum dicitur meritum *interpretativum*[^p383-10]; secundum dicitur meritum *congrui*; tertium dicitur meritum *condigni*.
+
+<!-- page 384 -->
+
+Cum igitur quaeritur, utrum Christus meruerit, non quaeritur de primo et secundo modo, sed quaeritur de tertio. Ad hoc igitur respondendum, quod mereri ex condigno tribus modis contingit. Uno modo *mereri* est ex *indebito* facere *debitum*, sicut meretur quis in gratiae infusione et motu liberi arbitrii. Alio modo *mereri* est de *debito* facere *magis debitum*, sicut contingit de profectu in profectum, de virtute in virtutem. Tertio modo *mereri* est de *debito uno modo* facere *debitum alio modo*, ut de debito per *habitum* facere debitum per *usum*, et de debito per *alium* actum facere debitum per *unum* aeque bonum.
+
+Omnibus his modis Christus meruit *nobis*. Meruit enim *nobis* gratiae *infusionem*, meruit et gratiae *provectionem*[^p384-1], meruit et *bonorum operum multiplicationem*. *Sibi* autem non meruit nisi tertio modo tantum post conceptionem. Ipse enim non potuit facere sibi de indebito debitum, cum omni bono esset dignus. Non potuit facere de debito magis debitum, cum omni gratia ab ipsa conceptione esset plenus[^p384-2], sed quod erat debitum *uno modo* fecit debitum *pluribus modis*; et ita meruit secundum tertium modum dicendi meritum solum, non propter imperfectionem a parte meriti, sed propter perfectionem a parte merentis. Et hoc est quod dicitur in littera[^p384-3]: « Non profecit Christus secundum *meritum quantum ad virtutem meriti*, profecit tamen quantum ad *numerum meritorum*. Plura enim habuit merita in passione quam in conceptione ». — Concedendae sunt igitur rationes ostendentes, Christum post conceptionem usum et exercitium meriti habuisse.
+
+*Ad 1.* Ad illud quod obiicitur, quod potentia determinata ad unum non facit opus de genere laudabilium; dicendum, quod determinatio potentiae ad unum potest esse dupliciter, videlicet per *necessitatem naturae* et per *confirmationem gratiae*. Si sit per *necessitatem naturae*, tunc tollit arbitrii libertatem, ac per hoc tollit dignitatem meriti. Si autem sit determinatio per *confirmationem gratiae*, cum talis confirmatio simul stet cum libera voluntate, sic non tollit ab ipso opere bonitatem moris, cum sit voluntarium, ac per hoc nec qualitatem meriti. In Christo autem fuit liberum arbitrium determinatum ad unum non per *necessitatem naturae*, sed per *confirmationem gratiae*[^p384-4].
+
+*Ad 2.* Ad illud quod obiicitur, quod habens munus gloriae non facit opus remunerabile; dicendum, quod illud verum est, quando aliquis est simpliciter in statu *patriae*; cum autem non tantum est in statu *comprehensoris*, verum etiam in statu *viatoris*, tunc opus eius esse potest remunerabile propter statum *viae*; et sic est reperire in Christo secundum divinam dispensationem. Nam sicut anima Christi propter coniunctionem sui cum Divinitate habet statum *patriae*, sic propter coniunctionem sui cum carne habet statum *viae* et miseriae pro illo tempore. Et ideo, sicut potuit esse in statu *viatoris* simul et *comprehensoris*, sic habuit gloriam ad comprehendendum et gratiam ad merendum. — Et est simile de Angelis, in quibus ponimus vim administrativam et contemplativam, secundum quarum unam merentur, et secundum alteram fruuntur et praemiantur[^p384-5].
+
+*Ad 3.* Ad illud quod obiicitur, quod quicumque meretur, merendo proficit; dicendum, quod proficere est duobus modis: vel *incremento*[^p384-6] *habitus*, vel in *multitudine actuum*; vel per alia verba: est proficere quantum ad virtutem merendi et quantum ad numerum meritorum. Primo modo accipiendo profectum, non competit tertio modo dicendi meritum, secundum quem tertium modum dicitur meruisse Christus. Alio modo accipiendo profectum, competit sibi, sicut patet per supra habitam distinctionem.
+
+*Ad 4.* Ad illud quod obiicitur, quod mereri est facere de indebito debitum; dicendum, quod illud verum est quantum ad aliquem modum merendi, sed non quantum ad omnes, sicut prius dictum est; et ideo non habet locum in proposito.
+
+*Ad 5.* Ad illud quod obiicitur, quod liberum arbitrium eodem modo se habet nunc et prius; dicendum, quod verum est per comparationem ad *superius*, scilicet ad Deum; non tamen est verum per comparationem ad *inferius*, scilicet ad carnem passibilem, ex cuius coniunctione tam liberum arbitrium quam gratia ipsum perficiens habet pertinere ad statum viae. Unde non valet illud quod obiicit de carne, quod non est principium merendi; hoc enim verum est, per se loquendo, facit tamen ad meritum, dum facit ad statum meriti, sicut patet in coniunctione animae ad carnem et eius separatione[^p384-7]. Anima enim nostra statim, dum a carne separatur, amplius non habet merendi vel demerendi statum.
+
+---
 
 ## English
 
-[Translation pending]
+### Question II. *Whether Christ merited anything after his conception.*
+
+Secondly it is asked whether Christ merited anything after his conception. And that he did, it seems thus.
+
+1. To the Philippians, chapter two[^p382-5]: *He humbled himself unto death; and afterward: Wherefore God also hath exalted him* etc. But humility is not a cause of exaltation except by way of merit: if therefore
+
+this came about after the conception, therefore Christ after his conception merited something.
+
+2. Likewise, Augustine[^p383-1], treating the aforesaid word: « The humility of brightness is the merit, the brightness of humility is the reward »: if therefore humiliation in Christ followed his conception itself, it necessarily also follows that he merited after he had been conceived.
+
+3. Likewise, in the book *On the Rules of Faith*[^p383-2] meriting is defined thus: « He is said to merit before God who, compelled by no necessity, does that which he ought to do »; but Christ did this after his conception: therefore he merited before God.
+
+4. Likewise, Christ's works were far nobler than are the merits of the other Saints: if therefore the works of the other Saints are worthy of recompense, it seems that much more are Christ's works: therefore it seems that Christ merited before God.
+
+5. Likewise, if he did not merit before God after he had been conceived: therefore it seems that he served God in vain and that he did in vain[^p383-3] whatever he did after his conception. If therefore it is impious to say this, it is necessary that Christ merited something after his conception.
+
+**On the contrary:** 1. To merit is to do a work of the kind that is praiseworthy; but a power determined to one thing only has no praise in the act of it, as is plain in all natural powers[^p383-4]; but the free choice of Christ was from his very conception determined to the good: therefore it could not go forth into a work of the praiseworthy kind, therefore neither into a meritorious work.
+
+2. Likewise, to merit is to do[^p383-5] a work worthy of recompense; but free choice, already existing in the state of recompense, no longer does a work worthy of further recompense, as is plain in the Blessed; but such was the free choice of Christ, since he was in the state of a comprehensor: therefore it seems that after his conception he could merit nothing at all.
+
+3. Likewise, whoever[^p383-6] merits advances in the goods of the soul, namely in grace and glory; but Christ could not advance beyond what he received from the conception: therefore it does not seem that he could merit after his conception.
+
+4. Likewise, whoever merits anything makes his own out of what is not his own through work and service, and out of what is not owed to him makes what is owed; but Christ could not make out of the not-owed the owed, or out of the not-his-own his own — for all things were his own through the grace of the conception, as he himself testifies: *All thine are mine*[^p383-7] — therefore it does not seem that he merited anything after his conception.
+
+5. Likewise, that which is in the same condition now and before is apt to produce like operations[^p383-8]; but free choice in Christ is in the same condition after his conception and after his resurrection, and grace likewise, and these two are the principles of meriting: if therefore after the resurrection he did not merit, therefore neither after the conception. If you say that it is in one condition and another, as far as concerns the flesh; this does not solve it, because merit does not regard the state of the flesh, but the state of charity: therefore if Christ after his conception had the charity of the homeland as noble and perfect as he now has, nor is his charity varied; if he now does not have the use of meriting, it seems that neither then did he have it.
+
+### Conclusion.
+
+> Christ after his conception merited in act: for us indeed he merited the infusion of grace, the advancement of grace, and the multiplication of good works; but for himself, what was already owed to him he made owed in another manner.
+
+**I respond:** For the understanding of the foregoing it must be noted that meriting comes about in three ways: in one way *simply improperly*, in another way *partly properly and partly improperly*, in a third way *simply properly*. — He is said to merit *simply improperly* who does some work of the good kind, yet does it in a bad manner, that is with a bad intention, like one who gives alms with grumbling; for such works are sometimes recompensed by God out of his immense bounty, as is intimated of Nabuchodonosor in Jeremiah[^p383-9]. — But he merits *partly properly, partly improperly* who does a work of the good kind and with good intention, yet not out of charity; as some sinner does works of the good kind and for God's sake, in which he disposes himself by congruity for grace. — But he merits *simply properly* who does a good work and with good intention and out of charity. And the first kind of merit is called *interpretative*[^p383-10] merit; the second is called merit of *congruity*; the third is called merit of *condignity*.
+
+Therefore when it is asked whether Christ merited, the question is not about the first and second mode, but about the third. To this then it must be answered that meriting by condignity comes about in three ways. In one way *to merit* is from the *not-owed* to make the *owed*, as one merits in the infusion of grace and the motion of free choice. In another way *to merit* is out of the *owed* to make *more owed*, as happens in advancing from progress to progress, from virtue to virtue. In a third way *to merit* is out of the *owed in one manner* to make it *owed in another manner*, as out of the owed by *habit* to make it owed by *use*, and out of the owed by *another* act to make it owed by *one* equally good.
+
+In all these ways Christ merited *for us*. For he merited *for us* the *infusion* of grace, and he merited the *advancement*[^p384-1] of grace, and he merited the *multiplication of good works*. But *for himself* he merited only in the third way after his conception. For he could not make for himself the owed out of the not-owed, since he was worthy of every good. He could not make of the owed the more-owed, since he was full[^p384-2] of every grace from the very conception, but what was owed *in one manner* he made owed *in several manners*; and so he merited only according to the third manner of speaking of merit, not on account of imperfection on the part of the merit, but on account of perfection on the part of the one meriting. And this is what is said in the text[^p384-3]: « Christ did not advance according to *merit as regards the virtue of the merit*, yet he advanced as regards the *number of merits*. For he had more merits in his passion than in his conception ». — Therefore the reasonings must be granted which show that Christ after his conception had the use and exercise of merit.
+
+*To 1.* As to the objection that a power determined to one thing does not do a work of the praiseworthy kind; it must be said that the determination of a power to one thing can be in two ways, namely by *necessity of nature* and by *confirmation of grace*. If it is by *necessity of nature*, then it takes away the liberty of choice, and thereby takes away the dignity of merit. But if the determination is by *confirmation of grace*, since such confirmation stands together with a free will, then it does not take away from the work itself the goodness of morals, since it is voluntary, and thereby neither the quality of merit. In Christ, however, the free choice was determined to one thing not by *necessity of nature*, but by *confirmation of grace*[^p384-4].
+
+*To 2.* As to the objection that one having the gift of glory does not do a remunerable work; it must be said that this is true when someone is simply in the state of the *homeland*; but when he is not only in the state of a *comprehensor*, but also in the state of a *wayfarer*, then his work can be remunerable on account of the state of *the way*; and so it is to be found in Christ according to the divine dispensation. For just as the soul of Christ, on account of its conjunction with the Divinity, has the state of the *homeland*, so on account of its conjunction with the flesh it has the state of *the way* and of misery for that time. And therefore, just as he could be in the state of a *wayfarer* and a *comprehensor* at once, so he had glory for comprehending and grace for meriting. — And there is a likeness in the case of the Angels, in whom we posit an administrative and a contemplative power, according to one of which they merit, and according to the other they enjoy and are rewarded[^p384-5].
+
+*To 3.* As to the objection that whoever merits advances by meriting; it must be said that to advance is in two ways: either by the *increase*[^p384-6] of a *habit*, or in the *multitude of acts*; or in other words: to advance is as regards the virtue of meriting and as regards the number of merits. Taking advancement in the first way, it does not belong to the third manner of speaking of merit, according to which third manner Christ is said to have merited. Taking advancement in the other way, it belongs to him, as is plain through the distinction set forth above.
+
+*To 4.* As to the objection that to merit is to make of the not-owed the owed; it must be said that this is true as regards some mode of meriting, but not as regards all, as was said before; and therefore it has no place in the matter at hand.
+
+*To 5.* As to the objection that free choice is in the same condition now and before; it must be said that this is true by comparison to what is *above*, namely to God; yet it is not true by comparison to what is *below*, namely to the passible flesh, from whose conjunction both the free choice and the grace perfecting it belong to the state of the way. Hence the objection about the flesh, that it is not a principle of meriting, does not hold; for this is true, speaking per se, yet it contributes to merit, while it contributes to the state of merit, as is plain in the conjunction of the soul to the flesh and in their separation[^p384-7]. For our soul, as soon as it is separated from the flesh, no longer has the state of meriting or demeriting.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page. This chunk carries page 382's footnote 5 (its share of a page footer shared with q. 1, which held footnotes 1–4), then the full footers of pages 383 and 384.
+
+[^p382-5]: **La.** Vers. 8. — Seq. Script. loc. ibid. v. 9.
+    **En.** Verse 8. — The following Scripture passage [is] from the same place, verse 9.
+
+[^p383-1]: **La.** In Ioan. Evang. tr. 104. n. 3. Cfr. hic lit. Magistri, c. 1. — Post *praemissum* Vat. supplet *ait*.
+    **En.** *On the Gospel of John*, treatise 104, n. 3. Cf. here the text of the Master, c. 1. — After *praemissum* the Vatican edition supplies *ait*.
+
+[^p383-2]: **La.** Sive de Articulis cathol. fidei, lib. II. in explicat. theorematis sive propos. 8, ubi textus origin. pro *Mereri* exhibet *Bene mereri* et deinde *compulsus libens facit Deo quod debet* pro *compulsus hoc facit quod facere debet*. Cfr. ibid. theorema 16.
+    **En.** Or *On the Articles of the Catholic Faith*, book II, in the explanation of theorem or proposition 8, where the original text for *Mereri* gives *Bene mereri* and then *compulsus libens facit Deo quod debet* for *compulsus hoc facit quod facere debet*. Cf. ibid. theorem 16.
+
+[^p383-3]: **La.** Bene multi codd. *fecerit*. Mox pro *Christum* edd. incongrue *Deum*, cod. bb *ipsum*.
+    **En.** Many codices well [read] *fecerit*. Presently, for *Christum* the editions incongruously [read] *Deum*, codex bb *ipsum*.
+
+[^p383-4]: **La.** Cfr. Aristot., II. Ethic. c. 5. — Pro *laudem* cod. K *laudari*.
+    **En.** Cf. Aristotle, *Nicomachean Ethics* II, c. 5. — For *laudem* codex K [reads] *laudari*.
+
+[^p383-5]: **La.** Ita codd. A H K Q; in aliis deest *facere*.
+    **En.** Thus codices A H K Q; in the others *facere* is lacking.
+
+[^p383-6]: **La.** Pro *quicumque*, quod et in solut. habetur nec non in codd. A K bb, cod. Z *quisquis*, alii codd. et edd. *quidquid*. Post pauca pro *a conceptione* edd. *in conceptione*.
+    **En.** For *quicumque*, which is also held in the solution as well as in codices A K bb, codex Z [reads] *quisquis*, other codices and editions *quidquid*. A little after, for *a conceptione* the editions [read] *in conceptione*.
+
+[^p383-7]: **La.** Ioan. 17, 10.
+    **En.** John 17, 10.
+
+[^p383-8]: **La.** Aristot., II. de Generat. et corrupt. text. 56. (c. 10.): Idem enim et similiter se habens semper idem natum est facere. — In fine arg. pro *habuerit* multi codd. *habuit*.
+    **En.** Aristotle, *On Generation and Corruption* II, text 56 (c. 10): For the same thing and that which is in the same condition is always apt to do the same. — At the end of the argument, for *habuerit* many codices [read] *habuit*.
+
+[^p383-9]: **La.** Cap. 27, 6. seqq. — B. Albert., hic a. 1, exempli causa proponit quod in vita B. Ioannis eleemosynarii de quodam milite, Petro nomine, narratur, qui scilicet « iratus pane, quo proiecerat pauperem, meruit in iudicio Domini, ad quod raptus fuit, prolongationem vitae in poenitentiam ».
+    **En.** Chapter 27, 6 ff. — Blessed Albert, here a. 1, proposes by way of example what is related in the life of Blessed John the Almsgiver about a certain soldier, Peter by name, who indeed « angered by the bread which he had thrown at a poor man, merited in the judgment of the Lord, to which he was rapt, a prolongation of life unto penance ».
+
+[^p383-10]: **La.** Quam appellationem Alex. Hal., S. p. III. q. 17. m. 1, sic explicat: « Quia Deus retribuit ei maius, quam faciat [peccator]; et ideo interpretatur Deus remunerando, ac si ille meruisset ». — De merito congrui et condigni vide supra d. 4. a. 2. q. 2. in corp. — Paulo inferius pro *et secundo modo* cod. U *nec de secundo modo*.
+    **En.** Which appellation Alexander of Hales, *Summa* part III, q. 17, m. 1, explains thus: « Because God repays him more than [the sinner] does; and therefore God interprets [it] by remunerating, as if he had merited ». — On the merit of congruity and condignity see above d. 4, a. 2, q. 2, in the body. — A little below, for *et secundo modo* codex U [reads] *nec de secundo modo*.
+
+[^p384-1]: **La.** Edd. cum paucis codd. *promotionem*.
+    **En.** The editions with a few codices [read] *promotionem*.
+
+[^p384-2]: **La.** Alan. ab Insul., Theolog. Regul., in exponenda regula 106. ait: Cum mereri sit de non-debito facere debitum, Christo autem a tempore incarnationis deberetur quidquid postea est consecutus, ipse de indebito debitum non fecit et ita sibi non meruit. Aeque enim dignus fuit ab incarnatione omnibus his etc.
+    **En.** Alan of Lille, *Theological Rules*, in expounding rule 106, says: Since to merit is to make of the not-owed the owed, but to Christ from the time of the incarnation was owed whatever he afterward attained, he himself did not make the owed out of the not-owed and so did not merit for himself. For he was equally worthy from the incarnation of all these things, etc.
+
+[^p384-3]: **La.** Hic c. 2.
+    **En.** Here, c. 2.
+
+[^p384-4]: **La.** Cfr. II. Sent. d. 7. p. I. a. 2. q. 1. — Aliquanto superius pro *confirmationem* (primo loco) codd. G H L T V aa *consummationem*; cod. K in hac solut. constanter exhibet vocem *conformationis*. Post *sit determinatio* edd. male adiiciunt *meriti*.
+    **En.** Cf. II *Sentences*, d. 7, p. I, a. 2, q. 1. — Somewhat above, for *confirmationem* (in the first place) codices G H L T V aa [read] *consummationem*; codex K in this solution consistently exhibits the word *conformationis*. After *sit determinatio* the editions wrongly add *meriti*.
+
+[^p384-5]: **La.** Vide II. Sent. d. 11. a. 2. q. 2.
+    **En.** See II *Sentences*, d. 11, a. 2, q. 2.
+
+[^p384-6]: **La.** Pro *incremento* edd. et nonnulli codd. substituunt *in merito*, et paulo inferius post *tertium modum* subiiciunt *tantummodo*.
+    **En.** For *incremento* the editions and some codices substitute *in merito*, and a little below, after *tertium modum*, they add *tantummodo*.
+
+[^p384-7]: **La.** Vat. cum paucis codd. *separationem*; perperam.
+    **En.** The Vatican edition with a few codices [reads] *separationem*; wrongly.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF column bands of printed pp.382–384 (PDF 404–406; offset pdf = printed + 22), cross-checked against the IA djvu OCR (`raw/bonaventure_vol3_raw.txt`, raw span 26691→26872). The PDF column-band read is authoritative per the Vol II/III override; the OCR served only as base for clean running prose and footnote-marker spacing. The body opens at the bottom of p.382-L with the **QUAESTIO II** header and argument 1, which finishes on p.383.
+
+**Page-split map.**
+- **p.382** (lower portion): QUAESTIO II header + title + opener (*Secundo quaeritur…*) + fundamentum 1 (*Ad Philippenses secundo… Sed humilitas non est causa exaltationis nisi per modum meriti: si ergo —*). Footer: **fn 5 only** (this q's share; q1 held fn 1–4 of the shared p.382 footer).
+- **p.383**: fundamenta 2–5; **Sed contra** 1–5; CONCLUSIO; RESPONDEO (the triple distinction of *abusive / partim proprie / simpliciter proprie*). Footers fn 1–10.
+- **p.384**: RESPONDEO continues (the three modes of merit by condignity; *Conclusio 1*, *Conclusio 2*, *Confirmatur*); replies *Ad 1–Ad 5*; the chunk closes with *Ad 5* (*…amplius non habet merendi vel demerendi statum.*). Footers fn 1–7.
+
+**Hand-offs.**
+- **Picked up (from d18-a1-q1):** the shared printed **p.382 footnote 5** (`Vers. 8. — Seq. Script. loc. ibid. v. 9.`, on *Ad Philippenses secundo*) — q1 captured p.382 fn 1–4; fn 5 is q2's, rendered here as `[^p382-5]`.
+- **Forwarded (to d18-a1-q3):** **ART. I QUAESTIO III** (*Utrum Christus aliquid meruerit in passione*) begins at **raw 26873**, printed **p.385** (PDF 407). The **SCHOLION (I–III)** printed at the top of **p.385** under the running head `DIST. XVIII. ART. I. QUAEST. III.` is **q3's** (it discusses the article's solutions broadly but is printed before q3's body) — it does NOT migrate back to q2. q3 opens with no footer carry-over from q2 (p.384's footers fn 1–7 are all q2's; p.385's footer numbering restarts for q3). Offset reminder: **pdf = printed + 22**.
+
+**Scholion.** `has_scholion: false`. q2 carries no scholion of its own: q1's Scholion I–III (printed on p.382 under the QUAEST. I/II region) forward-covers the whole article, and the next printed scholion (p.385) belongs to q3.
+
+**[?] flags.** None — the 450 dpi bands were fully legible across pp.382–384.
