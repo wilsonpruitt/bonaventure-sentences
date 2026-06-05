@@ -1,6 +1,21 @@
 # Bonaventure Sentences — Next Session Resume
 
-## NEXT ACTION -> `bon-sent-III-d16-divisio`
+## NEXT ACTION -> `bon-sent-III-d16-a1-q1`
+
+**Last updated:** 2026-06-04 — **Vol III d16-divisio DONE** (commit 1596088 [chunk + content.json + vol3-paraphrase-audit] + this resume). **COMMENTARIUS IN DISTINCTIONEM XVI** (subtitle *De passione doloris et passibilitate specialiter.*; epigraph *Verumtamen magis movent ac difficiliorem afferunt quaestionem etc.*) + **DIVISIO TEXTUS** + **TRACTATIO QUAESTIONUM** + ART. I subtitle, `type: divisio`, `has_scholion: false`, `has_apparatus: true`. Latin re-set column-by-column from 450 dpi bands (`/tmp/colcrop/vol3-p345-{L,R}-*.png`), entirely on **printed p.345** (PDF 367). Running head OCR-mangled `34c` = 345. **2-entry apparatus** (`[^p345-1]`, `[^p345-2]` — the two DIVISIO TEXTUS markers). Raw span **24116→24148**. **No scholion** (divisio). **No [?] flags** (450 dpi legible). Build 1274 q / **1039 translated**.
+
+> ### ⚠⚠ CHUNKER QUESTION SETTLED — ART. I HAS 3 QUESTIONS (a1-q2 MISSING)
+> The d.16 TRACTATIO QUAESTIONUM explicitly lists **two articles**, and for ART. I **three questions** ("Circa primum quaeruntur **tria**"):
+> - **ART. I** (*prout respicit animam et carnem communiter*): **q1 = de doloris veritate** (truth of the pain); **q2 = de doloris acerbitate** (bitterness of the pain); **q3 = de dolendi sive patiendi necessitate** (necessity of grieving/suffering).
+> - **ART. II** (*prout respicit animam specialiter*): **3 questions** (running heads `DIST. XVI. ART. II. QUAEST. I/II/III.` at raw 24675/24807/24940).
+>
+> **THE SKELETON SET (a1-q1, a1-q3, NO a1-q2) IS WRONG: the missing `a1-q2` (acerbitate) MUST BE CREATED.** Existing a1-q1 (veritate) and a1-q3 (necessitate) names are CORRECT — do NOT renumber them. Page map for ART. I: q1 starts p.345; running heads show ART. I content runs p.345→347→349→351 (raw 24249=347, 24378=349, 24526=351), with ART. I QUAEST. III still at 351 — so a1-q1/q2/q3 share these pages; verify q2/q3 raw boundaries before dispatch.
+
+> **HAND-OFF TO d16-a1-q1 (forwarded):** QUAESTIO I body begins at **raw 24150** (`Circa primum sic proceditur et quaeritur, utrum in Christo fuerit vera passio doloris...`), printed **p.345**. The ART. I opener + `QUAESTIO I. Utrum in Christo fuerit vera passio doloris.` title FOLDS into a1-q1 (multi-chapter convention). **Migrating footers:** p.345 footer notes **3 and following** (`3 Vers. 2. seq...`, 4,5,6,7,8...) belong to a1-q1 → set as `[^p345-3]`+; a1-q1 continues onto p.347. Seam CLEAN, no [?]. Offset reminder: **pdf = printed + 22**; confirm printed_pages via running-head TEXT. **(d.20 is the next Vol III decade-polish gate — NOT YET.)** **resume: d.16 divisio DONE → next d.16 a1-q1 (raw 24150); NOTE: a1-q2 acerbitate skeleton missing, create it in the a1 sweep.**
+
+---
+
+## (prior) NEXT ACTION -> `bon-sent-III-d16-divisio`
 
 **Last updated:** 2026-06-04 — **Vol III d16-littera DONE** (commit e0e1cfd [chunk + content.json + vol3-paraphrase-audit] + this resume). **Littera Magistri for DISTINCTIO XVI** — Lombard's text, Cap. I–IV (Hilary on the passion: Cap. I obscure chapters of Hilary, Cap. II tristitia Christi *usque ad mortem*, Cap. III necessitas patiendi/moriendi = defectus generalis, Cap. IV the four states of man + what Christ took of each), `type: littera`, `has_scholion: false`, `has_apparatus: true`. Latin re-set column-by-column from 450 dpi bands (`/tmp/colcrop/vol3-p34{3,4}-{L,R}-*.png`), **printed pp.343–344** (PDF 365–366). **13-entry apparatus, per-page restart:** p.343 → `[^p343-1..7]`; p.344 → `[^p344-1..6]`. Raw span **23991→24119**. **NO scholion** (littera). **No [?] flags** (450 dpi legible). Cap. II quote splits mid-word at the page seam (`…propter mor-` / `-tem`), page break placed there. Audits (`--volume 3 --min-d 16 --max-d 16`): littera apparatus-count **no flag** (13 entries, diff +9 in Vol III noise band); paraphrase high:7 + header Q-LOSS + apparatus skeleton-flags all belong to the **un-built d.16 siblings** (a1-q1/q3, a2-q1/q2/q3, dubia, divisio), not the littera. Build 1274 q / **1038 translated**.
 
