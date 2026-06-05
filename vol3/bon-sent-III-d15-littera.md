@@ -4,197 +4,162 @@ volume: 3
 book: 3
 distinctio: 15
 type: littera
-line_start: 22917
-line_end: 23087
-word_count_latin: 2521
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Distinctio XV — textus Magistri Sententiarum"
+title_en: "Distinction XV — text of the Master of the Sentences"
+printed_pages: [327, 328, 329]
+pdf_pages: [349, 350, 351]
+source: "Petri Lombardi Sententiarum Libri IV, Liber III, Dist. XV (as printed in S. Bonaventurae, Opera Omnia, Tomus III, Quaracchi 1887, pp. 327–329)"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (printed pp.327–329, raw lines 22917–23082), fresh literal English translation, full apparatus from printed footer blocks (19 entries: p.327 nn.1–7, p.328 nn.1–11, p.329 n.4), no scholion (littera carries none) (2026-06-04)"
 format_version: 1
 ---
 
-# bon-sent-III-d15-littera
+# III Sent., d. 15 — Littera Magistri
+## *Distinctio XV — text of the Master of the Sentences*
+
+---
 
 ## Latin
+<!-- page 327 -->
 
-DISTINCTIO XV.
-                                        Cap. I.                                   num, quae ad niiseriam noslram pertinent. Unde Au- Augustinus.
-                                                                                  gustinus in libro tertio de Libero Arbitrio5: « Appro-
-              De /tominis defeclibus, quos assumsit Chrislus.                     bare, inquit, falsa pro veris, ut errel invitus, et resi-
-                                                                                  stente atque torquente dolore carualis vinculi , non
-                   Illud quoque praetennitlendum non esl, quod Dei                posse a lihidinosis operibus temperare non est natura
-             Filius naluram homiuis accepit passibilem , auimam                   instituli hominis, sed poena damnati ». « Ex qua mi-
- e con^nu passibilem, carnem passibilem et mortalem. Ut enim                      seria peccantibus iuslissime infiicla liberat Dei gratia ,
- ate horum ]
-jiefeclaum. probaretur verum corpus habere, suscepit defectus cor-                quia sponte homo libero arbitrio cadere potuit, non
-             poris, famem, silim et huiusmodi; et ul veram animam                 etiam surgere. Ad quain miseriam pcrtinet ignorantia
-             probaretur habere, suscepit defectus animae, scilicet                et diflicullas, qnam patitur omnis homo ab exordio
-             tristiiiam, timorem, dolorem et huiusmodi. Omnis au-                 nativitatis suae, nec ab isto malo quisquam nisi gra-
-             tem sensus animae esl. Non enim caro sentit, sed anima               lia Dei liberatur». — Ecce evidenler dicit hic Augu-
-             utens corpore veluti instrumento. Unde Augustinus, sq-               slinus, ignorantiam, qna quis invitus falsa pro veris
-             per Genesim in libro duodecimo1: « Non corpus sen-                   approbat, et diflicullatem, qua non potest se tempe-
-             tit, sed anima per corpus, quo velut nunlio utilur ad                rare a malo, ad miseriam nostram pertinere et poenam
-             confirmandiiin in se ipsa quod extrinsecus nuntiatur ».              esse hominis. Haec aulem Chrislus non habuit. Non
-             Sicut ergo aniina quod foris est per corpus tanquam                  igitur accepit omnes defeelus nostrae infirmitatis prae-
-             inslruinenlum videt vel audit; ila etiam per corpus                  ler peccatum.
-             quaedam senlit mala, quae sine eorpore non sentiret,                       Sed forte aliquis dicet, illa esse peccatum. — Cui obieciiosoi-
-             ut famem et silim et huiusmodi ; unde non immerito
-             defectus corporis dicunlur. Quaedam aulem non per                    obviat quod Auguslinus tradere videtur, haec scilicet v""r'
-                                                                                  Deum inculpabiliter ante peccatum in exordio coudi-
-             corpus, imino etiam sine corpore sentit, ut est timor                tionis homini potuisse inclere, ut esseut ei naturalia ,
-             et huiusmodi. Sentit igilur aniina dolores, sed quosdam              ita in libro Relraclalionum " inquiens: « Ignorantia et Angustinus.
-             per inslrumentum corporis, quosdam vero non. Susce-                  difficultas ctiam si essent homiuis primordia naturalia,
-             pit autem Chrislus sicut veram naturam hominis, ita                  nec sic culpandus Deus, scd laudandus esset».Sedsi
-             et veros defeclus hominis, sed non omnes. Assumsit                   haec homo in primordio naluraliter habuissel, nunquid
-             enim defeclns poenae , sed non culpae , nec lamen                    essent in eo defectus et poenae ? Si defectus vel poena
-             omues defectus poenae, sed eos omnes, quos homini                    ei indila fuisset ante peccalum, iniusle cum eo agi vi-
-             eum assumere expediebat et stiae dignitati non dero-                 deretur, si ante culpam senliret poenam. — Ob hoc
-             gabat. Sicut enim propler hominem homo factus est,                   sane dicimus, illa non fuisse defeclus vel poenas, si
-             ita propter eum hominis defeclus suscepit. Suscepit                  naturaliler homini infuissent, sicut non fuit homini aute
-             enim de nostro, ut de stio uobis tribueret et 2 ut no-               peccalum nondtim gratiam adepto defectus sive poena
-             strum tolleret. Suscepit enim nostram vetustatem, ut                 non posse proficere. Sed postquam graliam recepil, per
-          i. suam nobis infunderet novitatem. «Simplam accepit ille               quam proficere potuit et ad tempus etiam ' profecit ,
-             vetustalem, id est poenae, ul noslram duplam consu-                  eamque culpa sua post amisit, simulque proficiendi fa-
-             meret » , id est poenae et culpae.                                   cultatem perdidit; defectus fuit ei et poena non posse
-                   Tradit auctoritas 3, quod Dominus noster in se su-             proficcre, scilicet malum declinare et bonum facere.
-Oeseneraii- scepit omnia infirmilatis noslrae praeler peccatum; qnod              Omnes igitur defeclus noslros suscepit Christus praeler
-  ctiam.efe nisi accipiatur de illis tantum , quae eum sumere pro                 peccatum , quos ei conveniebal suscipere et nobis ex-
-             nobis oportuit nec dedecuit, falsum esse probahitur.                 pediebat. Sunt enim plura aegritiidinum genera et cor-
-             Non enim assumsit ignorantiam aliquam, cuin sil igno-                poris vitia, a quibus omnino immunis exslitit. Quos enim Dubium 2.
-             rantia quaedam, quae defecltis esl uec peccatuin esl,                defeclus habuil, vel ad ostensiouem verae humanilalis,
-             scilicet ignoranlia invincibilis 4. Nam vincibilis pecca-            ut timorein et tristiliam, vel ad impletionem operis,
-             tum est, si lamen de his est, quae nobis expedit scire.              ad quod venerat, ut passibilitatem et morlalitatem, vel
-             Sunt enim quaedam, quorum scientia non afferl, vel                   ab iminorialilatis desperatione spem noslram erigen-
-             ignorantia non impedit salutem; et forle talium rerum                dam,....ut morlem, suscepit.  — Hos   aulem defectus non De    causaii-
-                                                                                                           ..
-             ignorantia defeclus non esl. Conslat atilem, in nobis esse           condilionis suae necessitate,  sed.....                    tate eorun-
-                                                                                                                      nuserationis volunlate dem.
-             ignorantiam atque difficullatem volendi vel faciendi bo-             suscepit. Veros quidem habuit defectus, sicut et nos,
+### DISTINCTIO XV.
 
+### Cap. I. *De hominis defectibus, quos assumsit Christus.*
 
+Illud quoque praetermittendum non est, quod Dei Filius naturam hominis accepit passibilem, animam passibilem, carnem passibilem et mortalem. Ut enim probaretur verum *corpus* habere, suscepit defectus corporis, famem, sitim et huiusmodi; et ut veram *animam* probaretur habere, suscepit defectus animae, scilicet tristitiam, timorem, dolorem et huiusmodi. Omnis autem sensus animae est. Non enim caro sentit, sed anima utens corpore veluti instrumento. Unde Augustinus, super Genesim in libro duodecimo[^p327-1]: «Non corpus sentit, sed anima per corpus, quo velut nuntio utitur ad confirmandum in se ipsa quod extrinsecus nuntiatur». Sicut ergo anima quod foris est per corpus tanquam instrumentum videt vel audit; ita etiam per corpus quaedam sentit mala, quae sine corpore non sentiret, ut famem et sitim et huiusmodi; unde non immerito defectus corporis dicuntur. Quaedam autem non per corpus, immo etiam sine corpore sentit, ut est timor et huiusmodi. Sentit igitur anima dolores, sed quosdam per instrumentum corporis, quosdam vero non. Suscepit autem Christus sicut veram naturam hominis, ita et veros defectus hominis, sed non omnes. Assumsit enim defectus *poenae*, sed non *culpae*, nec tamen omnes defectus poenae, sed eos omnes, quos homini eum assumere expediebat et suae dignitati non derogabat. Sicut enim propter hominem homo factus est, ita propter eum hominis defectus suscepit. Suscepit enim de nostro, ut de suo nobis tribueret et[^p327-2] ut nostrum tolleret. Suscepit enim nostram vetustatem, ut suam nobis infunderet novitatem. «*Simplam* accepit ille vetustatem, id est poenae, ut nostram *duplam* consumeret», id est poenae et culpae.
 
-                1 Cap. 24. 11. Sl. — Cff. Hugo, Sum. Senl. Ir. I. c. 17,          edd. non citatur, sed pro eo diversa testimonia Ss. Palrum ,
-          ex quo MagisRT hic mulla excerpsit. — Intra post corpus tan-            praes;Ttim (ut in llugone) I.eonis Kpisl. 24. (alias 10.) c. 3; et ad
-          quam edd., exceplis I, 8, addunt pcr.                                   marginem habetur: Qualiter accipiendum sit quod ait Leo Papa.
-                * Edd. , exceptis 1,8, omiltunt et, nec non posl toUerel ad-           * Cfr. II. Sent. d. XXII. c. 5.
-          dimt defectum, qunm vocem edd. 1 , 8,et omnes codices primi-                 5 Cap. 18. n. S2; cfr. I. Retract. c. 9. n. 5, et de Natura
-          tus oniiscrunt (in codd. A C D secunda manus additlit defeclum).        et gratia c. 67. n. 81. — Seq. locus cst I. Uetracl. c. 9. n. 6,
-          Sed primiliva lectio nohis visa esl magis gentiina. — De sequcn-        et de Dono persev. c. 1 1 . n. 27.
-          tiljus cfr. August., IV. de Trin. c. 3. n. 5. 6; Serm. de Symb. c. 5.        0 l.ihr. I. c. 9. n. 6, et dc Dono persev. c. II. n. 27. —
-                3 llebr. 4, 15: Non cnim habemua ponllOoem, qui non               Caulo superius post videtur edd. pro hnec habent hoc ; deinde
-          possit OompaU infirmitntibus noslris, tenlaliim aulem per omnia         pro indere cdd. 1 , 8 tradere.
-          pro similitudine ahsquc peccalo. Ilic locus Scripturae in aliis              7 Edd. , exceplis 1,8, omiitunt etiam.
-         328                                                 SENTENTIARUM         LIB. III.
+Tradit auctoritas[^p327-3], quod Dominus noster in se suscepit omnia infirmitatis nostrae praeter peccatum; quod nisi accipiatur de illis tantum, quae eum sumere pro nobis oportuit nec dedecuit, falsum esse probabitur. Non enim assumsit ignorantiam aliquam, cum sit ignorantia quaedam, quae defectus est nec peccatum est, scilicet ignorantia invincibilis[^p327-4]. Nam vincibilis peccatum est, si tamen de his est, quae nobis expedit scire. Sunt enim quaedam, quorum scientia non affert, vel ignorantia non impedit salutem; et forte talium rerum ignorantia defectus non est. Constat autem, in nobis esse ignorantiam atque difficultatem volendi vel faciendi bonum, quae ad miseriam nostram pertinent. Unde Augustinus in libro tertio de Libero Arbitrio[^p327-5]: «Approbare, inquit, falsa pro veris, ut erret invitus, et resistente atque torquente dolore carnalis vinculi, non posse a libidinosis operibus temperare non est natura instituti hominis, sed poena damnati». «Ex qua miseria peccantibus iustissime inflicta liberat Dei gratia, quia sponte homo libero arbitrio cadere potuit, non etiam surgere. Ad quam miseriam pertinet ignorantia et difficultas, quam patitur omnis homo ab exordio nativitatis suae, nec ab isto malo quisquam nisi gratia Dei liberatur». — Ecce evidenter dicit hic Augustinus, ignorantiam, qua quis invitus falsa pro veris approbat, et difficultatem, qua non potest se temperare a malo, ad miseriam nostram pertinere et poenam esse hominis. Haec autem Christus non habuit. Non igitur accepit omnes defectus nostrae infirmitatis praeter peccatum.
 
-             sed non ex eadem causa. Nos enim ex peccalo origi-                tua, quia lu non pro te, sed promedoles». Hierony- iiieronymm
-             nali hos defectus Irahimus, sicut Apostolus ' insinuat            mus quoque in Explanalione fidei ' ait : « Nos ita di-
-             dicens : Corpus quidem propler peccalum morluum est,              cimus hominem passibilem a Dei Filio susceptum, ut
-             id est, necessitatem moriendi habet in se. Christus au-           Deitas impassibilis permaneret. Passus est enim Dei Fi-
-             tem non ex peccato huiusmodi habuit defeclus, quia                lius non putative, sed vere omnia quae Scriptura te-
-             sine peccato est conceptus et natus et in terris conver-          statur, secundum illud qrrod pati polerat, scilicet se-
-             satus. Sed ex sola miserationis voluntate de noslro in            crrndum substanliam assumtam. Licel ergo persona Filii
-             se transtulit veram infirmitalem, sicut accepit veram             susceperit passibilem hominem , ita tamen eius habita-
-             carnem , quam sine omni infirmitate assumere potuit ,             tione secundrrm suam substantiam nil passa est, ul tota
-             sicut absque culpa eandem suscepit.                               Trinitas, quam impassibilem necesse est confiteri ». —
-                                                                               His aliisque auctoritatibus perspicrurm fit, Christum
-                   Sed quia nonnulli* de sensu in passione humani-
-condrmatur tatis Chrisli male sensisse inveniuntur, asserentes, si-            vere passibilem assumsisse hominem atque in eo tle-
-                                                                               feclus et affectus nostrae infirmitatis suscepisse , sed
- auctoniati- mj|jtu(|inera alcme jmaginem passionis et doloris Chri-
-             sturn hominem pertulisse, sed nullum omnino dolorem               vohmtate, non necessilatis conditione.
-             vel passionem sensisse, auctoritatum testimoniis eos                    Quaedam tameu reperiunlur in Sanclorum tracta- Dubmm 3.
-             convincentes, indubilabile faciamus quod supra dixi-              tibrrs, quae praemissis adversari videntur. Nam super Diffioaiiafl
-             mus. Propheta Isaias3 dicit: Vere lancjuores noslros              illrrm locum Psalmi : Clamabo, et non exaudies, Au-
-             ipse tuiit el dolores nostros ipse porlavit. Et Veritas           gustinus8 tradere videtur, Christum nec vere timuisse
-             ipsa in Evangelio ait: Tristis est anima mea usque ad             nec vere trislalum esse, sic dicens : « Quomodo hoc Augustinus.
-             mortem ; ubi etiam legitnr : Coepit Iesus pavere et               dicit qui pe.cca.lum non fecit , nec inventtis est dolus
-             iaedere. Prophela eliam ex persona Christi ait : Repleta          in ore eius? Sed de nobis , corpore suo, hoc dicit ;
-                                                                                corporis enim sui, id est Ecclesiae, gerebat personam,
-Augustinus. est malis anima mea; quod exponens Augtistinus 4 ait :              sicut et alibi, cum dixit: Transeal a me calix isle ,
-              « Non vitiis et peccatis, sed humanis malis, id est
-             doloribus, repleta fuit anima Christi, quibus ipsa com-           pro nobis loquitur, nisi forte putelur timuisse mori ;
-             patitur carni. Non enim dolor corporis potest esse sine            sed non vere timebat Dominus pati , tertia die resurre-
-             anima; dolere autem anima, eliam non dolente corpore,              cturrrs, cum arderet Paulus dissolvi el esse cum Chri-
-             polest. Hos aulem humanae infirmitaiis affectus, sicut             sto. Non enim forlior est miles quam imperator. Miles
-             ipsam carnem ac mortem, non conditionis necessitate,               ergo 9 coronandus gaudet mori , et Dominus coronatu-
- Ambrosius. sed miserationis voluntale suscepit ». Ambrosius etiam              rus timet mortem ? Sed infirmilatem noslram reprae-
-             in libro de Trinitale6 ait: « Scriptum est: Paler , si             sentans, pro suis infirmis, qui liment mori , haec di-
-             possibile est , transeat a me calix isle. Timet ergo Chri-         xit. Vox illorum erat». Hieronymrrs 10 etiam ail: « Eru- iiieronymu!
-             stus, et durn Petrus non limet, Christus timet. Pelrus             bescant qui putant, Salvatorem limuisse mortem et
-             dixit: Animam meam pono pro te; Christus dicit : A n               passionis pavore dixisse : Transeat a me calix isle».
-             ma mea turbatur. Utrumqne verum est et ralionis ple-
-             aum, quod et ille qui est inferior, non timet; et ille                                        Cap. II.
-             qui superior est, gerit timentis affectum ». Idem in eo-
-              dem6: « Ut homo turbatur, ut homo flet, ut homo                     De propassione et passione limoris, vel trislitiae.
-              crucifigitur »; « per naturam hominis et taediavit et
-              resurrexit Christus ». « Non turbatur eitis virtus, non               Ne autem in sacris litteris aliqua adversa diversi- soimntu
-              turbatur eius divinitas, sed turbatur anima, seciindum           tas esse putetur, harrrm aucloritatum verba in hunc
-              humanae fragilitatis assumtionem lurbalur. Nam qui               modum aecipienda dicimus, ut non veritatem timoris
-              suscepit animam suscepil eliam aniniae passionem. Non            et tristitiae vel propassionem ", sed timoris et tristitiae
-              enim eo, quod Deus erat, aut turbari, aut mori pos-              necessitatem et passionem a Christo removisse intelli-
-              set». Idem in eodem: « Suscepit trislitiam meam ,                gantur. Habuit enim Christus verum timorem et trisli-
-              confidenter tristitiam nomino, qui crrrcem praedico. Ut          tiam in natura hominis, sed non sicut nos, qui sumus
-              homo habrril trislitiam , quam meo suscepit affectu (            membra eius. Nos enim catisa peccati nostri his defe-
-              mihi compatitur, mihi tristis est, mihi dolet. Ergo pro          clibus necessario subiacemus, et in nobis srrnt isti de-
-              me et in m'e doluil, qrri pro se uihil habuit, quod do-          fectus secundnm propassionem et passionem , sed in
-              eret». «Doles igitur, Domine iesu, mea vulnera, non              Chrislo non nisi secundum propassionem. Sicut enim
+Sed forte aliquis dicet, illa esse peccatum. — Cui obviat quod Augustinus tradere videtur, haec scilicet Deum inculpabiliter ante peccatum in exordio conditionis homini potuisse indere, ut essent ei naturalia, ita in libro Retractationum[^p327-6] inquiens: «Ignorantia et difficultas etiam si essent hominis primordia naturalia, nec sic culpandus Deus, sed laudandus esset». Sed si haec homo in primordio naturaliter habuisset, nunquid essent in eo defectus et poenae? Si defectus vel poena ei indita fuisset ante peccatum, iniuste cum eo agi videretur, si ante culpam sentiret poenam. — Ob hoc sane dicimus, illa non fuisse defectus vel poenas, si naturaliter homini infuissent, sicut non fuit homini ante peccatum nondum gratiam adepto defectus sive poena *non posse proficere*. Sed postquam gratiam recepit, per quam proficere potuit et ad tempus etiam[^p327-7] profecit, eamque culpa sua post amisit, simulque proficiendi facultatem perdidit; defectus fuit ei et poena *non posse proficere*, scilicet malum declinare et bonum facere. Omnes igitur defectus nostros suscepit Christus praeter peccatum, quos *ei conveniebat* suscipere et *nobis expediebat*. Sunt enim plura aegritudinum genera et corporis vitia, a quibus omnino immunis exstitit. Quos enim defectus habuit, vel ad ostensionem verae humanitatis, ut timorem et tristitiam, vel ad impletionem operis, ad quod venerat, ut passibilitatem et mortalitatem, vel ab immortalitatis desperatione spem nostram erigendam, ut mortem, suscepit. — Hos autem defectus non conditionis suae necessitate, sed miserationis voluntate suscepit. Veros quidem habuit defectus, sicut et nos,
 
+<!-- page 328 -->
 
+sed non ex eadem causa. Nos enim ex peccato originali hos defectus trahimus, sicut Apostolus[^p328-1] insinuat dicens: *Corpus quidem propter peccatum mortuum est*, id est, necessitatem moriendi habet in se. Christus autem non ex peccato huiusmodi habuit defectus, quia sine peccato est conceptus et natus *et in terris conversatus*. Sed ex sola miserationis voluntate de nostro in se transtulit veram infirmitatem, sicut accepit veram carnem, quam sine omni infirmitate assumere potuit, sicut absque culpa eandem suscepit.
 
-                1 Rom. 8 , 10, et inferius respicitur Barttch 3 , 38. — Su-    omiltunt turbatur); quartus c. 7. n. 53 ; quintus c. 7. n. 54.
-          perius pro ex eadem causa codd. A BC D eadem causa ; deinde          Eadem habet Ambros. in Exposit. in Evang. Luc. (c. 22.) X. n. 56.
-          pro trahimus edd., exceplis I , 3, 8, contrahimus.                        7 Explanat. Symboli ad Damas. (inter opera S. Hieronymi),      28,
-                2 Cfr. August., de Hoeresib. n. 21, loquens de Cerdonin-       ubi Vat. cum paucis edd. post omnia quae addit de illo, et sed
-          nis, et n. 46, de Manichaeis , n. I i. de Marcione.                  post testatur.
-               3 Cap. 53, 4; seq. locus est Matth. 26, 38; tertius Marc.            8 Enarral. 2. in Ps. (21, 3.) n. 4, secundum sensum. Scri-
-          14, 33; quartus Ps. 87, 4.                                           plurae loci sunt I. Petr. 2, 22; Isai. 53, 9; Matth. 26, 39;
-               4 Enarrat. in cit. Ps. 87, n. 3, ubi ed. I habet: sine ani-     Phil. I , 23.
-          mae dolore. Anima autem, etiam... polest dolere. Deinde pro               9 Ita codd. B C D E et edd. I , 8 cod. A vero , ed. 6 etiam,
-          infirmitatis affectus edd. 1 , 8 infirmitatis defectus.                                                      et ed. 6 bene addunt non
-                                                                               Vat. cuni reliquis enim. In fine Vat.
-               5 Sive II. de Fide, c. 5. n. 43. 44, ubi respiciuritur Matth.
-          26, 39; loan. 13, 37; 12, 21 ; Luc. 22, 42.                                10 Comment. in Malth. 26, I.
-                                                                               capitis.
-               6 lbid. c. 7. n. 56; locus secundus c. 8. n. 59; tertius              11 De passione et propassione cfr. Glossa ad Matth. 5
-          iterum c. 7. n. 56 (ubi post assumlionem Vat. et plures edd.
-                                                                               apud Lyranum.
-                                                         DIST. XV. DIVISIO TEXTUS.                                                     329
+Sed quia nonnulli[^p328-2] de sensu in passione humanitatis Christi male sensisse inveniuntur, asserentes, similitudinem atque imaginem passionis et doloris Christum hominem pertulisse, sed nullum omnino dolorem vel passionem sensisse, auctoritatum testimoniis eos convincentes, indubitabile faciamus quod supra diximus. Propheta Isaias[^p328-3] dicit: *Vere languores nostros ipse tulit et dolores nostros ipse portavit*. Et Veritas ipsa in Evangelio ait: *Tristis est anima mea usque ad mortem*; ubi etiam legitur: *Coepit Iesus pavere et taedere*. Propheta etiam ex persona Christi ait: *Repleta est malis anima mea*; quod exponens Augustinus[^p328-4] ait: «Non vitiis et peccatis, sed humanis malis, id est doloribus, repleta fuit anima Christi, quibus ipsa compatitur carni. Non enim dolor corporis potest esse sine anima; dolere autem anima, etiam non dolente corpore, potest. Hos autem humanae infirmitatis affectus, sicut ipsam carnem ac mortem, non conditionis necessitate, sed miserationis voluntate suscepit». Ambrosius etiam in libro de Trinitate[^p328-5] ait: «Scriptum est: *Pater, si possibile est, transeat a me calix iste*. Timet ergo Christus, et dum Petrus non timet, Christus timet. Petrus dixit: *Animam meam pono pro te*; Christus dicit: *Anima mea turbatur*. Utrumque verum est et rationis plenum, quod et ille qui est inferior, non timet; et ille qui superior est, gerit timentis affectum». Idem in eodem[^p328-6]: «Ut homo turbatur, ut homo flet, ut homo crucifigitur»; «per naturam hominis et taediavit et resurrexit Christus». «Non turbatur eius virtus, non turbatur eius divinitas, sed turbatur anima, secundum humanae fragilitatis assumtionem turbatur. Nam qui suscepit animam suscepit etiam animae passionem. Non enim eo, quod Deus erat, aut turbari, aut mori posset». Idem in eodem: «Suscepit tristitiam meam, confidenter tristitiam nomino, qui crucem praedico. Ut homo habui tristitiam, quam meo suscepit affectu; mihi compatitur, mihi tristis est, mihi dolet. Ergo pro me et in me doluit, qui pro se nihil habuit, quod doleret». «Doles igitur, Domine Iesu, mea vulnera, non tua, quia tu non pro te, sed pro me doles». Hieronymus quoque in Explanatione fidei[^p328-7] ait: «Nos ita dicimus hominem passibilem a Dei Filio susceptum, ut Deitas impassibilis permaneret. Passus est enim Dei Filius non putative, sed vere omnia quae Scriptura testatur, secundum illud quod pati poterat, scilicet secundum substantiam assumtam. Licet ergo persona Filii susceperit passibilem hominem, ita tamen eius habitatione secundum suam substantiam nil passa est, ut tota Trinitas, quam impassibilem necesse est confiteri». — His aliisque auctoritatibus perspicuum fit, Christum vere passibilem assumsisse hominem atque in eo defectus et affectus nostrae infirmitatis suscepisse, sed voluntate, non necessitatis conditione.
 
-            io peccatis gradus quidam notantur propassio et passio,         continenti, veram tristitiam habuisse, hisverbis: «In-
-            ita et iu his poenalibus effectibus. Afficilur enim quis        firmos in se praesignans, Dominus ait : Pater , si fieri
-            interdum timore vel trislilia, ita ut mentis intellectus        potest, transeat a me calix isle. Non enim vere time-
-            non inde moveatur a rectitudine vel Dei contempla-              bat Dominus pali, tertia die resurrecturus, cum arde-
-            tione, et tunc propassio est; aliquando vero movetur et         ret Paulus dissolui et esse cum Chrislo. Iste gaudet
-            turbatur, et tunc passio est. Cliristus vero nou ita fuit       coronaudus, et trislis est Dominus coronalurus »? Ecce
-            turbatus in anima timore vel tristitia, ut a rectiludine        hic videtur tristiliam et timorem a Christo removere.
-            vel Dei contemplatione aliquatenus declinaret; secun-           Continuo autem subiunxit : « Sed tristitiam sic assum-
-            dum quem modum intelligitur, cum dicitur non ti-                sit, quo modo caruem. Fuit enim tristis, sicut Evange-
-    mymus. muisse vel Iristis fuisse. Unde Hieronymus super Mat-            lium dicit. Si enim non tristis fuit, cum Evangelium
-            thaeum ' , ubi legitur : Coepit conlristari et moestus          dicat: Tristis est anima mea usque ad mortem etc. ,
-            esse ; " ul verilatem, inquit, probaret assumti hominis,        ergo et quando dicil: Dormivil lesus, non dormivit;
-    iiam s. vere contristatus est, sed non passio eius dominatur            vel quando dicit manducasse, non manducavit; et ita
-            animo, veruni propassio est. Unde ait: Coepit contri-           nihi) sanuni relinqiietur, ut dicatur etiam, quia 3 corpus
-            slari. Aliud est enim contristari, aliud incipere contri-       eius non erat verum. Quidquid ergo de illo scriptum
-            slari», quod est, aliter contristalur quis per propas-          est, verum est et factum esl. Ergo et (ristis fuit, sed
-            sionern, aliter per passionem. Ideoque secundum hanc            voluntate tristitinm suscepit veram, quo modo volunlate
-            distinctionem aliquando dicitur Christus non vere ti-           caruem veram ». — Ecce aperte noscis, eundem sibi
-            muisse, aliquando vere timuisse, quia verum timorem             in his verbis contradicere, nisi varias dictorum discer-
-            habuit el trislitiam , sed non secundum passionem ne-           neret causas, ex quibus inlelligentia verborum assu-
-Augosiious. que ex necessitate conditionis. Unde Augustinus2, ex            menda est. Si enini discernatur intelligentiae causa
-            his causis volens assumi dictorum intelligentiam , dicit,       praedictorum verborum, nihil occurrit contradictionis4.
-            Christum non vere limuisse vel tristatum esse, et in
+Quaedam tamen reperiuntur in Sanctorum tractatibus, quae praemissis adversari videntur. Nam super illum locum Psalmi: *Clamabo, et non exaudies*, Augustinus[^p328-8] tradere videtur, Christum nec vere timuisse nec vere tristatum esse, sic dicens: «Quomodo hoc dicit qui *peccatum non fecit, nec inventus est dolus in ore eius*? Sed *de nobis*, corpore suo, hoc dicit; corporis enim sui, id est Ecclesiae, gerebat personam, sicut et alibi, cum dixit: *Transeat a me calix iste*, pro nobis loquitur, nisi forte putetur timuisse mori; sed non vere timebat Dominus pati, tertia die resurrecturus, cum arderet Paulus dissolvi et esse cum Christo. Non enim fortior est miles quam imperator. Miles ergo[^p328-9] coronandus gaudet mori, et Dominus coronaturus timet mortem? Sed infirmitatem nostram repraesentans, pro suis infirmis, qui timent mori, haec dixit. Vox illorum erat». Hieronymus[^p328-10] etiam ait: «Erubescant qui putant, Salvatorem timuisse mortem et passionis pavore dixisse: *Transeat a me calix iste*».
 
-                                COMMENTAMUS                         IN DISTINCTIONEM XV.
-                                   De passibilitate et defectibus a Christo assumtis in generali.
+### Cap. II. *De propassione et passione timoris, vel tristitiae.*
 
-                                               Illud quoque praelermitteiidum non est etc.
+Ne autem in sacris litteris aliqua adversa diversitas esse putetur, harum auctoritatum verba in hunc modum accipienda dicimus, ut non *veritatem* timoris et tristitiae vel propassionem[^p328-11], sed timoris et tristitiae *necessitatem* et *passionem* a Christo removisse intelligantur. Habuit enim Christus verum timorem et tristitiam in natura hominis, sed non sicut nos, qui sumus membra eius. Nos enim causa peccati nostri his defectibus necessario subiacemus, et in nobis sunt isti defectus secundum propassionem et passionem, sed in Christo non nisi secundum propassionem. Sicut enim
+
+<!-- page 329 -->
+
+in peccatis gradus quidam notantur propassio et passio, ita et in his poenalibus effectibus. Afficitur enim quis interdum timore vel tristitia, ita ut mentis intellectus non inde moveatur a rectitudine vel Dei contemplatione, et tunc propassio est; aliquando vero movetur et turbatur, et tunc passio est. Christus vero non ita fuit turbatus in anima timore vel tristitia, ut a rectitudine vel Dei contemplatione aliquatenus declinaret; secundum quem modum intelligitur, cum dicitur *non timuisse* vel *tristis fuisse*. Unde Hieronymus super Matthaeum, ubi legitur: *Coepit contristari et moestus esse*; «ut veritatem, inquit, probaret assumti hominis, vere contristatus est, sed non *passio* eius dominatur animo, verum *propassio* est. Unde ait: *Coepit contristari*. Aliud est enim *contristari*, aliud *incipere contristari*», quod est, aliter contristatur quis per propassionem, aliter per passionem. Ideoque secundum hanc distinctionem aliquando dicitur Christus non vere timuisse, aliquando vere timuisse, quia verum timorem habuit et tristitiam, sed non secundum passionem neque ex necessitate conditionis. Unde Augustinus, ex his causis volens assumi dictorum intelligentiam, dicit, Christum non vere timuisse vel tristatum esse, et in continenti, veram tristitiam habuisse, his verbis: «*Infirmos* in se praesignans, Dominus ait: *Pater, si fieri potest, transeat a me calix iste*. Non enim vere timebat Dominus pati, tertia die resurrecturus, cum arderet Paulus dissolvi et esse cum Christo. Iste gaudet coronandus, et tristis est Dominus coronaturus»? Ecce hic videtur tristitiam et timorem a Christo removere. Continuo autem subiunxit: «Sed tristitiam sic assumsit, quo modo carnem. Fuit enim tristis, sicut Evangelium dicit. Si enim non tristis fuit, cum Evangelium dicat: *Tristis est anima mea usque ad mortem* etc., ergo et quando dicit: *Dormivit Iesus*, non dormivit; vel quando dicit manducasse, non manducavit; et ita nihil sanum relinquetur, ut dicatur etiam, quia corpus eius non erat verum. Quidquid ergo de illo scriptum est, verum est et factum est. Ergo et tristis fuit, sed voluntate tristitiam suscepit veram, quo modo voluntate carnem veram». — Ecce aperte noscis, eundem sibi in his verbis contradicere, nisi varias dictorum discerneret causas, ex quibus intelligentia verborum assumenda est. Si enim discernatur intelligentiae causa praedictorum verborum, nihil occurrit contradictionis[^p329-4].
+
+---
 
 ## English
+<!-- page 327 -->
 
-[Translation pending]
+### DISTINCTION XV.
+
+### Chap. I. *On the defects of man which Christ assumed.*
+
+This too must not be passed over, that the Son of God took the nature of man as passible, the soul passible, the flesh passible and mortal. For that he might be proved to have a true *body*, he assumed the defects of the body, hunger, thirst and the like; and that he might be proved to have a true *soul*, he assumed the defects of the soul, namely sadness, fear, grief and the like. Now all sense belongs to the soul. For the flesh does not perceive, but the soul using the body as an instrument. Hence Augustine, on Genesis in the twelfth book[^p327-1]: «It is not the body that perceives, but the soul through the body, which it uses as a messenger to confirm in itself what is announced from without». Therefore just as the soul sees or hears through the body as an instrument that which is outside; so also through the body it perceives certain evils, which it would not perceive without the body, such as hunger and thirst and the like; whence not undeservedly are they called defects of the body. But some it perceives not through the body, indeed even without the body, as is fear and the like. Therefore the soul perceives pains, but some through the instrument of the body, some indeed not. But Christ assumed, just as the true nature of man, so also the true defects of man, but not all. For he assumed the defects of *penalty*, but not of *fault*, nor yet all the defects of penalty, but all those which it was expedient for him to assume for man and which did not derogate from his dignity. For as he was made man for man's sake, so for man's sake he assumed the defects of man. For he assumed of what is ours, that he might bestow on us of what is his and[^p327-2] take away what is ours. For he assumed our oldness, that he might pour into us his newness. «He took the *single* oldness, that is of penalty, that he might consume our *double*», that is of penalty and of fault.
+
+Authority hands down[^p327-3] that our Lord took upon himself all that belongs to our infirmity except sin; which, unless it be understood only of those things which it behooved him and was not unseemly for him to take for us, will be proved false. For he did not assume any ignorance, since there is a certain ignorance which is a defect and is not sin, namely invincible ignorance[^p327-4]. For vincible ignorance is sin, if however it is concerning those things which it is expedient for us to know. For there are certain things, the knowledge of which does not bring, nor the ignorance of which hinders, salvation; and perhaps the ignorance of such things is not a defect. But it is established that in us there is ignorance and difficulty of willing or doing good, which belong to our misery. Hence Augustine in the third book On Free Will[^p327-5]: «To approve, he says, false things for true, so that one errs unwillingly, and, the pain of the carnal bond resisting and tormenting, not to be able to refrain from lustful works, is not the nature of man's institution, but the penalty of one condemned». «From which misery, most justly inflicted on sinners, the grace of God delivers, because man could of his own accord fall by free will, but not also rise. To which misery belong the ignorance and difficulty which every man suffers from the beginning of his birth, nor is anyone delivered from this evil except by the grace of God». — Behold, here Augustine plainly says that the ignorance by which one unwillingly approves false things for true, and the difficulty by which one cannot keep himself from evil, belong to our misery and are a penalty of man. But these Christ did not have. Therefore he did not take all the defects of our infirmity apart from sin.
+
+But perhaps someone will say that those things are sin. — To which is opposed what Augustine seems to hand down, namely that God could blamelessly, before sin, in the beginning of [man's] condition, have implanted these in man, so that they were natural to him, thus saying in the book of Retractations[^p327-6]: «Ignorance and difficulty, even if they were the natural first-beginnings of man, not even thus should God be blamed, but praised». But if man had had these naturally in the first beginning, would there be defects and penalties in him? If a defect or penalty had been implanted in him before sin, it would seem that he was treated unjustly, if before fault he felt penalty. — For this reason indeed we say that those things would not have been defects or penalties, if they had been in man naturally, just as it was not for man before sin, not yet having attained grace, a defect or penalty *not to be able to advance*. But after he received grace, by which he was able to advance and for a time even[^p327-7] advanced, and lost it afterwards by his own fault, and at the same time lost the faculty of advancing; it was a defect and penalty for him *not to be able to advance*, namely to turn from evil and to do good. Therefore Christ assumed all our defects except sin, those which *it was fitting for him* to assume and *was expedient for us*. For there are many kinds of sicknesses and vices of the body, from which he remained wholly immune. For the defects which he had, he assumed either for the showing of true humanity, as fear and sadness, or for the fulfillment of the work for which he had come, as passibility and mortality, or for raising up our hope from the despair of immortality, as death. — But these defects he assumed not by the necessity of his condition, but by the will of mercy. He had indeed true defects, just as we also,
+
+<!-- page 328 -->
+
+but not from the same cause. For we draw these defects from original sin, as the Apostle[^p328-1] suggests, saying: *The body indeed is dead because of sin*, that is, it has in itself the necessity of dying. But Christ did not have such defects from sin, because he was conceived and born without sin *and lived among men*. But from the will of mercy alone he transferred true infirmity from what is ours into himself, just as he took true flesh, which he could have assumed without any infirmity, just as he assumed the same without fault.
+
+But because some[^p328-2] are found to have thought wrongly concerning the sense in the passion of Christ's humanity, asserting that Christ the man underwent a likeness and image of passion and grief, but felt no grief or passion at all, convincing them by the testimonies of the authorities, let us make indubitable what we said above. The prophet Isaiah[^p328-3] says: *Truly he himself bore our weaknesses and himself carried our griefs*. And Truth itself in the Gospel says: *My soul is sorrowful even unto death*; where also it is read: *Jesus began to fear and to be heavy*. The prophet also in the person of Christ says: *My soul is filled with evils*; which, expounding, Augustine[^p328-4] says: «Not with vices and sins, but with human evils, that is griefs, was the soul of Christ filled, by which it suffers with the flesh. For the grief of the body cannot be without the soul; but the soul can grieve, even when the body is not grieving. But these affections of human infirmity, just as the very flesh and death, he assumed not by the necessity of his condition, but by the will of mercy». Ambrose also in the book On the Trinity[^p328-5] says: «It is written: *Father, if it be possible, let this cup pass from me*. Therefore Christ fears, and while Peter does not fear, Christ fears. Peter said: *I will lay down my soul for thee*; Christ says: *My soul is troubled*. Both are true and full of reason, that he who is the inferior does not fear; and he who is the superior bears the affection of one fearing». The same in the same place[^p328-6]: «As man he is troubled, as man he weeps, as man he is crucified»; «through the nature of man Christ both was wearied and rose again». «His power is not troubled, his divinity is not troubled, but the soul is troubled; according to the assumption of human frailty he is troubled. For he who assumed the soul assumed also the passion of the soul. For not in that he was God could he either be troubled or die». The same in the same place: «He assumed my sadness; confidently do I name sadness, who preach the cross. As man I had sadness, which he assumed with my affection; he suffers with me, he is sad for me, he grieves for me. Therefore for me and in me he grieved, who for himself had nothing for which he should grieve». «You grieve, therefore, Lord Jesus, my wounds, not your own, because you grieve not for yourself, but for me». Jerome too in the Explanation of the Faith[^p328-7] says: «We thus say that a passible man was assumed by the Son of God, in such a way that the Deity remained impassible. For the Son of God suffered, not in appearance, but truly, all that Scripture attests, according to that which was able to suffer, namely according to the assumed substance. Although therefore the person of the Son assumed a passible man, yet by his indwelling, according to his own substance, it suffered nothing, so that the whole Trinity, which must be confessed impassible». — From these and other authorities it becomes clear that Christ truly assumed a passible man and in him took the defects and affections of our infirmity, but by will, not by the condition of necessity.
+
+Yet certain things are found in the treatises of the Saints which seem to be at variance with the foresaid. For upon that place of the Psalm: *I shall cry, and thou wilt not hear*, Augustine[^p328-8] seems to hand down that Christ neither truly feared nor was truly saddened, saying thus: «How does he say this, who *did no sin, nor was guile found in his mouth*? But he says this *of us*, his body; for he bore the person of his body, that is of the Church, just as also elsewhere, when he said: *Let this cup pass from me*, he speaks for us, unless perhaps he be thought to have feared to die; but the Lord did not truly fear to suffer, being about to rise on the third day, when Paul was burning to be dissolved and to be with Christ. For the soldier is not braver than the commander. Does the soldier therefore[^p328-9] who is to be crowned rejoice to die, and the Lord who is to be crowned fear death? But representing our infirmity, for his own weak ones who fear to die, he said these things. It was the voice of them». Jerome[^p328-10] also says: «Let them be ashamed who think that the Savior feared death and out of dread of the passion said: *Let this cup pass from me*».
+
+### Chap. II. *On the pro-passion and passion of fear, or of sadness.*
+
+But that no adverse divergence may be thought to exist in the sacred letters, we say that the words of these authorities are to be taken in this manner, that they be understood to have removed from Christ not the *truth* of fear and sadness or the pro-passion[^p328-11], but the *necessity* and the *passion* of fear and sadness. For Christ had true fear and sadness in the nature of man, but not as we, who are his members. For we, by reason of our sin, are necessarily subject to these defects, and in us these defects are according to pro-passion and passion, but in Christ only according to pro-passion. For just as
+
+<!-- page 329 -->
+
+in sins certain degrees are noted, pro-passion and passion, so also in these penal effects. For one is at times affected by fear or sadness, so that the intellect of the mind is not thereby moved from rectitude or from the contemplation of God, and then it is pro-passion; but sometimes it is moved and troubled, and then it is passion. But Christ was not so troubled in soul by fear or sadness as to decline in any way from rectitude or from the contemplation of God; according to which mode it is understood, when he is said *not to have feared* or *to have been sad*. Hence Jerome on Matthew, where it is read: *He began to be sorrowful and to be heavy*; «that he might prove, he says, the truth of the assumed manhood, he was truly saddened, but *passion* does not dominate his mind, rather it is *pro-passion*. Whence he says: *He began to be sorrowful*. For it is one thing to be sorrowful, another to begin to be sorrowful», which is, one is sorrowful in one way through pro-passion, in another through passion. And therefore according to this distinction Christ is sometimes said not truly to have feared, sometimes truly to have feared, because he had true fear and sadness, but not according to passion nor by the necessity of his condition. Hence Augustine, from these causes wishing the understanding of the sayings to be taken, says that Christ did not truly fear or was not truly saddened, and immediately after, that he had true sadness, in these words: «Praesignifying the *weak* in himself, the Lord says: *Father, if it can be done, let this cup pass from me*. For the Lord did not truly fear to suffer, being about to rise on the third day, when Paul was burning to be dissolved and to be with Christ. This one rejoices being about to be crowned, and is the Lord sad who is about to be crowned»? Behold, here he seems to remove sadness and fear from Christ. But immediately he added: «But he assumed sadness in the same way as the flesh. For he was sad, as the Gospel says. For if he was not sad, since the Gospel says: *My soul is sorrowful even unto death* etc., then also when it says: *Jesus slept*, he did not sleep; or when it says that he ate, he did not eat; and thus nothing sound will be left, so that it may even be said that his body was not true. Whatever therefore is written of him is true and was done. Therefore he was also sad, but by will he assumed true sadness, in the same way as by will he assumed true flesh». — Behold, you plainly know that he contradicts himself in these words, unless he were to distinguish the various causes of the sayings, from which the understanding of the words must be taken. For if the cause of the understanding of the foresaid words be distinguished, no contradiction occurs[^p329-4].
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' note verbatim; **En.** gives a literal translation. The Quaracchi apparatus restarts its numbering on each printed page; the slugs are page-suffixed accordingly.
+
+[^p327-1]: **La.** Cap. 24. n. 51. — Cfr. Hugo, *Sum. Sent.* tr. I. c. 17, ex quo Magister hic multa excerpsit. — Infra post *corpus tanquam* edd., exceptis 1, 8, addunt *per*.
+    **En.** Chapter 24, n. 51. — Compare Hugh, *Summa Sententiarum* tr. I, c. 17, from which the Master here excerpted much. — Below, after *corpus tanquam*, the editions, except 1 and 8, add *per*.
+
+[^p327-2]: **La.** Edd., exceptis 1, 8, omittunt *et*, nec non post *tolleret* addunt *defectum*, quam vocem edd. 1, 8, et omnes codices primitus omiserunt (in codd. A C D secunda manus addidit *defectum*). Sed primitiva lectio nobis visa est magis genuina. — De sequentibus cfr. August., IV. *de Trin.* c. 3. n. 5. 6; *Serm. de Symb.* c. 5.
+    **En.** The editions, except 1 and 8, omit *et*, and also after *tolleret* add *defectum*, which word editions 1, 8, and all the codices originally omitted (in codices A C D a second hand added *defectum*). But the original reading seemed to us more genuine. — On what follows compare Augustine, *On the Trinity* IV, c. 3, nn. 5, 6; *Sermon on the Creed* c. 5.
+
+[^p327-3]: **La.** Hebr. 4, 15: *Non enim habemus pontificem, qui non possit compati infirmitatibus nostris, tentatum autem per omnia pro similitudine absque peccato*. Hic locus Scripturae in aliis edd. non citatur, sed pro eo diversa testimonia Ss. Patrum, praesertim (ut in Hugone) Leonis *Epist.* 24. (alias 10.) c. 3; et ad marginem habetur: *Qualiter accipiendum sit quod ait Leo Papa*.
+    **En.** Hebrews 4:15: *For we do not have a high priest who cannot have compassion on our infirmities, but tempted in all things in our likeness, without sin*. This place of Scripture is not cited in the other editions, but in its place [are placed] various testimonies of the holy Fathers, especially (as in Hugh) Leo, *Letter* 24 (otherwise 10), c. 3; and in the margin there is: *In what manner what Pope Leo says is to be understood*.
+
+[^p327-4]: **La.** Cfr. II. Sent. d. XXII. c. 5.
+    **En.** Compare II Sentences, d. XXII, c. 5.
+
+[^p327-5]: **La.** Cap. 18. n. 52; cfr. I. *Retract.* c. 9. n. 5, et *de Natura et gratia* c. 67. n. 81. — Seq. locus est I. *Retract.* c. 9. n. 6, et *de Dono persev.* c. 11. n. 27.
+    **En.** Chapter 18, n. 52; compare I *Retractations* c. 9, n. 5, and *On Nature and Grace* c. 67, n. 81. — The following passage is I *Retractations* c. 9, n. 6, and *On the Gift of Perseverance* c. 11, n. 27.
+
+[^p327-6]: **La.** Libr. I. c. 9. n. 6, et *de Dono persev.* c. 11. n. 27. — Paulo superius post *videtur* edd. pro *haec* habent *hoc*; deinde pro *indere* edd. 1, 8 *tradere*.
+    **En.** Book I, c. 9, n. 6, and *On the Gift of Perseverance* c. 11, n. 27. — A little above, after *videtur*, the editions for *haec* have *hoc*; then for *indere* editions 1, 8 [read] *tradere*.
+
+[^p327-7]: **La.** Edd., exceptis 1, 8, omittunt *etiam*.
+    **En.** The editions, except 1 and 8, omit *etiam*.
+
+[^p328-1]: **La.** Rom. 8, 10, et inferius respicitur Baruch 3, 38. — Superius pro *ex eadem causa* codd. A B C D *eadem causa*; deinde pro *trahimus* edd., exceptis 1, 3, 8, *contrahimus*.
+    **En.** Romans 8:10, and below there is a reference to Baruch 3:38. — Above, for *ex eadem causa* codices A B C D [read] *eadem causa*; then for *trahimus* the editions, except 1, 3, 8, [read] *contrahimus*.
+
+[^p328-2]: **La.** Cfr. August., *de Haeresib.* n. 21, loquens de Cerdonianis, et n. 46, de Manichaeis, n. 14, de Marcione.
+    **En.** Compare Augustine, *On Heresies* n. 21, speaking of the Cerdonians, and n. 46, of the Manichaeans, n. 14, of Marcion.
+
+[^p328-3]: **La.** Cap. 53, 4; seq. locus est Matth. 26, 38; tertius Marc. 14, 33; quartus Ps. 87, 4.
+    **En.** Chapter 53:4; the following passage is Matthew 26:38; the third Mark 14:33; the fourth Psalm 87:4.
+
+[^p328-4]: **La.** *Enarrat.* in cit. Ps. 87, n. 3, ubi ed. 1 habet: *sine animae dolore. Anima autem, etiam... potest dolere*. Deinde pro *infirmitatis affectus* edd. 1, 8 *infirmitatis defectus*.
+    **En.** *Enarration* on the cited Psalm 87, n. 3, where edition 1 has: *without grief of the soul. But the soul, even... can grieve*. Then for *affections of infirmity* editions 1, 8 [read] *defects of infirmity*.
+
+[^p328-5]: **La.** Sive II. *de Fide*, c. 5. n. 43. 44, ubi respiciuntur Matth. 26, 39; Ioan. 13, 37; 12, 21; Luc. 22, 42.
+    **En.** Or rather II *On the Faith*, c. 5, nn. 43, 44, where reference is made to Matthew 26:39; John 13:37; 12:21; Luke 22:42.
+
+[^p328-6]: **La.** Ibid. c. 7. n. 56; locus secundus c. 8. n. 59; tertius iterum c. 7. n. 56 (ubi post *assumtionem* Vat. et plures edd. omittunt *turbatur*); quartus c. 7. n. 53; quintus c. 7. n. 54. Eadem habet Ambros. in *Exposit. in Evang. Luc.* (c. 22.) X. n. 56.
+    **En.** Ibid. c. 7, n. 56; the second passage c. 8, n. 59; the third again c. 7, n. 56 (where, after *assumtionem*, the Vatican edition and several editions omit *turbatur*); the fourth c. 7, n. 53; the fifth c. 7, n. 54. Ambrose has the same in the *Exposition on the Gospel of Luke* (c. 22), X, n. 56.
+
+[^p328-7]: **La.** *Explanat. Symboli ad Damas.* (inter opera S. Hieronymi), ubi Vat. cum paucis edd. post *omnia quae* addit *de illo, et sed* post *testatur*.
+    **En.** *Explanation of the Creed to Damasus* (among the works of St. Jerome), where the Vatican edition with a few editions, after *omnia quae*, adds *de illo*, and *sed* after *testatur*.
+
+[^p328-8]: **La.** *Enarrat.* 2. in Ps. (21, 3.) n. 4, secundum sensum. Scripturae loci sunt I. Petr. 2, 22; Isai. 53, 9; Matth. 26, 39; Phil. 1, 23.
+    **En.** Second *Enarration* on Psalm (21:3), n. 4, according to the sense. The places of Scripture are 1 Peter 2:22; Isaiah 53:9; Matthew 26:39; Philippians 1:23.
+
+[^p328-9]: **La.** Ita codd. B C D E et edd. 1, 8; cod. A vero, ed. 6 *etiam*, et ed. 6 bene addunt *non*; Vat. cum reliquis *enim*. In fine Vat. *capitis*.
+    **En.** Thus codices B C D E and editions 1, 8; but codex A, edition 6 [read] *etiam*, and edition 6 rightly adds *non*; the Vatican edition with the rest [reads] *enim*. At the end the Vatican edition [has] *capitis*.
+
+[^p328-10]: **La.** *Comment. in Matth.* 26, 1.
+    **En.** *Commentary on Matthew* 26:1.
+
+[^p328-11]: **La.** *De passione et propassione* cfr. Glossa ad Matth. 5, 28, apud Lyranum.
+    **En.** *On passion and pro-passion* compare the Gloss on Matthew 5:28, in Lyra.
+
+[^p329-4]: **La.** In codd. et edd., excepta 2, haec distinctio continuatur usque ad c. 3. sequentis dist.: *Hic oritur*.
+    **En.** In the codices and editions, except edition 2, this distinction is continued as far as c. 3 of the following distinction: *Hic oritur*.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF column bands `/tmp/colcrop/vol3-p32{7,8,9}-{L,R}-{0..2}.png` (offset pdf = printed + 22; PDF pp.349–351), each page read Left column top→bottom then Right column, body then footers. Raw OCR span = `raw/bonaventure_vol3_raw.txt` lines **22917–23082** (`DISTINCTIO XV.` / `Cap. I.` through `…nihil occurrit contradictionis⁴.`). This is the **littera Magistri** (Lombard's text) for Distinction XV — two chapters: Cap. I *De hominis defectibus, quos assumsit Christus* and Cap. II *De propassione et passione timoris, vel tristitiae*. Verified it is the littera, NOT a quaestio: it carries no *Utrum…/videtur* dialectical structure; the Bonaventure COMMENTARIUS / DIVISIO TEXTUS that begins at raw 23084 (`COMMENTARIUS IN DISTINCTIONEM XV`) is the separate divisio chunk.
+
+**Running heads (confirmed eyes-on at low dpi, never OCR'd digits):** p.327 `DISTINCTIO XV. … 327`; p.328 `328 … SENTENTIARUM LIB. III.`; p.329 `DIST. XV. DIVISIO TEXTUS. … 329` (the littera body ends partway down p.329 L-col; the divisio/COMMENTARIUS then opens on the same page).
+
+**Page-split map.** Cap. I opens p.327 and runs through p.328 (`…Salvatorem timuisse mortem… Transeat a me calix iste` at p.328 R, end of Cap. I). Cap. II opens at the foot of p.328 R (`Ne autem in sacris litteris…`) and runs to the foot of p.329 R-col text where the littera ends at `…nihil occurrit contradictionis⁴`.
+
+**Apparatus (19 entries, per-page footnote restart, page-suffixed slugs).**
+- p.327 → footers **1–7** (all littera, Cap. I): `[^p327-1..7]`.
+- p.328 → footers **1–11** (Cap. I tail + Cap. II opener; the printed page numbers its footers 1→11 in a single sequence across both columns): `[^p328-1..11]`.
+- p.329 → only footer **4** belongs to the littera, anchoring Cap. II's `contradictionis⁴` (`In codd. et edd., excepta 2, haec distinctio continuatur usque ad c. 3. sequentis dist.: Hic oritur.`): `[^p329-4]`. **p.329 footers 1–3 + the NOTAE AD COMMENTARIUM block belong to the Bonaventure COMMENTARIUS / DIVISIO TEXTUS (the d15-divisio chunk), NOT the littera — forwarded, see below.**
+
+Total markers in body = **19** (p.327 ×7 = `[^p327-1..7]`; p.328 ×11 = `[^p328-1..11]`; p.329 ×1 = `[^p329-4]`). The p.329 littera body carries only ONE numbered footnote anchor, `contradictionis⁴` = `[^p329-4]`; the *Coepit contristari* / *Unde Augustinus* / *quia corpus* positions in the printed text are not footnote-marked (they fall inside running quotation, not footer-anchored). Marker pairing is clean (verified programmatically + build parse): 19 La anchors = 19 En anchors = 19 defs, identical order, every numbered apparatus def referenced exactly once in each language.
+
+**Hand-offs.**
+- *Picked up:* **NONE.** The d.14 dubia hand-off confirmed the d.14↔d.15 seam is grammatically clean — all p.326 footers belonged to the d.14 dubia; the littera opens fresh on p.327 with footer 1.
+- *Forwarded to `bon-sent-III-d15-divisio`:* the Bonaventure **COMMENTARIUS IN DISTINCTIONEM XV** / **DIVISIO TEXTUS** / **TRACTATIO QUAESTIONUM** begins at raw **23084** (printed p.329, immediately after the littera's `contradictionis⁴`). Its first body-footers are **p.329 footers 1–3** (`Cap. 26, 37.` / `Enarrat. in Ps. 93. n. 19, sed multis a Magistro mutatis…` / `Ita codd. et edd., Vat. quod. Infra ante tristis…`) plus the **NOTAE AD COMMENTARIUM** sub-block (`1 Intellige cum edd. 1, 2 infra dist. 16.` / `2 Codd. U V W Z adiiciunt hic.`). Do NOT re-claim p.329 footer 4 (it is the littera's).
+
+**[?] flags:** NONE — the region pp.327–329 is fully legible at 450 dpi.
