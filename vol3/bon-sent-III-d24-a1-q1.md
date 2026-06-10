@@ -6,295 +6,285 @@ distinctio: 24
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 35318
-line_end: 35588
-word_count_latin: 4022
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Utrum fidei obiectum sit ita verum, quod ei non possit subesse falsum"
+title_en: "Whether the object of faith is so true that no falsity can underlie it"
+printed_pages: [508, 509, 510, 511, 512]
+pdf_pages: [530, 531, 532, 533, 534]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 508–512"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (vol3 p.508–512 L/R) over IA djvu OCR base (raw lines 35314–35588), fresh literal English translation, full apparatus from raw OCR (NOTAE AD COMMENTARIUM, 32 body footers, p.508 ×5 + p.509 ×11 + p.510 ×8 + p.511 ×8), scholion I–II from OCR with no [?] flags (2026-06-10)"
 format_version: 1
 ---
 
 # bon-sent-III-d24-a1-q1
 
+## *Utrum fidei obiectum sit ita verum, quod ei non possit subesse falsum*
+
+---
+
 ## Latin
+<!-- page 508 -->
 
-QUAESTIO I.
-                           Utrum fidei obiectum sit ita vcrum, quod ei non possit subesse falsum.
+### Articulus I. *De obiecto fidei secundum rem.*
+### Quaestio I. *Utrum fidei obiectum sit ita verum, quod ei non possit subesse falsum.*
 
-                 Circa primnm sic proceditur et quaeritur, utrum           et quod Christus non esset passurus ; et si hoc ,
-           fidei obiectum sit ita vernm, quod ei non possit sub-           tunc fidei subesset falsum : si ergo possibile fuit, fidei
-           esse falsum. Et quod fldei possit subesse falsum,               snbesse falsum tunc, videtur pari ratione, quod et
-           ■videtur.                                                       nunc. — Quod autem pro illo tempore possibile es-
-                  1. Cuicumque subest contingens, polest subesse           set, Christum non pati, manifestum est, quia con-
-Ad oppo3i- falsum , quia omne conlingens potest esse falsum ' ;            tingens erat, eum pati, cum penderet ex volunlate
-           sed fidei subest verum contingens: ergo fldei potest            inlerficientium; et regula est, quod oppositum con-
-           subesse falsum. Maior propositio per se manifesta               tingentis est contingens. Quod iterum necessarium
-           est; minor probalur: quia fides fuit de passione                essel, quod Abraham credidisset, manifestum est,
-           Christi et incarnatione; et utrumque fuit contingens            quia omne dictum affirmativum de praeterito est
-           — non enim eral necessarium, Christum interfici, nec            necessarium. Si tu dicas, quod hoc verum est,
-           Dei Filium incarnari , cum alio modo posset genus               quando non pendet ex futuro ; ostenditur , sic esse
-           humanum liberari — reslat igilur, quod conclusio                in proposito : quia « credere non est aliud quam
-           est vera.                                                       cogitare cum assensione 4 » ; et postquam Abraham
-                 2. Item, habilus conformalur obiecto suo, circa           cogitavit de hoc dicto : Christum esse incarnandum ,
-        quod versatur2: si ergo habitus fidei versatur circa               necessarium fuit de eo cogitasse ; et postquam as-
-        credibile, habet illi conformari ; sed aliquod credi-              sensit, necessarium fuit, ipsum assensisse; et post-
-        bile, utpote Christum esse passurum, potuit falsifi-               quam exivit in actum fidei, necessarium fuit, ipsum
-        cari, cum esset conlingens: ergo habitus fidei, quo                exisse: ergo videlur, quod simpliciler necessarium
-        illud credebatur, falsificari poluit: potest igitur fidei          fuit, ipsum credidisse: necessarium igitur videtur,
-        subesse falsum.                                                    quod fidei Abrahae poluit subesse falsum.
-              3. ltem , simus in medio tempore posl mortem                       k. Item , omne quod subest spei , subest etiam
-        Abrahae et ante incarnationern Christi ; in illo lem-              fidei 5 ; sed spei potest subesse falsum, ut patet, cum
-        pore necessariam est, Abraham credidisse, Christum                 aliquis praescitus in gratia existens sperat, se ha-
-        esse passurum, possibile etiam erat, Christum non                  biturum vilam aeternam : ergo necessario sequilur,
-        pali ; sed possibile compatitur se cum omni neces-                 quod fidei aliquando subest falsum.
-        sario 3 : ergo ista duo poterant simul stare, videlicet                  o. Item, actus caritatis praesupponit actum fidei;
-        quod Abraham credidisset, Christum esse passurum,                  sed actui caritatis potest subesse falsum : ergo et
+Circa primum sic proceditur et quaeritur, utrum fidei obiectum sit ita verum, quod ei non possit subesse falsum. Et quod fidei possit subesse falsum, videtur.
 
-              1 Aristot., I. Prior. c. 12: Dico autcm contingere el con-   ante videtur inlerserit ergoj ; edd., eliam omisso si, sic: ergo
-        tingens, quo non exislente necessario, posito autein in esse,      cum possibile erat tunc, fidei elc. Vocula tunc invcnilur eliam
-        nihil erit propler hoc impossibile. — De minori cfr. supra d.      in nonnullis aliis codd.
-        20. q. 6.                                                               * August., de Praedest. Sanct. c. 2. n. 5. — Subinde pro
-              - Cfr. supra pag. 214, nola 3. — Pro obiecto svo edd.        cogitavit plurimi codd. cognovit, et pro cogitasse non pauci
-        cum mullis codd. subiecto suo. Paulo inferius pro esse passu-      codd. cognovisse; quae leclio varians eliam infra reeurrit in
-        rum codd. A K. fuisse pnssurum.                                    solui. Iinius obieel., ubi edd. expresse exhibent cognovisse ,
-              3 Vide tom. I. pag. 677, nota 6. et pag. 678, nota I,        dum mulli codd. verbum cognovisse habere saltem videntur
-        ubi et illa logica regulu tangitur, cuius menlio fit aliquanlo     (sunt dubiae lect.); codd. FYXpro cogilasse substituerunt
-        inferius. — Post pauca pro si ergo possibile fait, fidei etc. ,    cognoscere.
-        quam leclioncm vere concinnam cod. F nobis tradidit, alii               5 Cfr. supra d. 23. a. 1. q. I. circa finem corp. , ubi et
-        codcl. mimis congrue ergo possibile fuil, fidei etc, omisso si     maior scq. arg. insinualur. — ln fine arg. cod. I addil ergo
-        (solus cod. Z ad corrigendam propositionis slrucluram postea       ci actui fidei.
-                                                         DIST. XXIV. AKT. I. QUAEST. I.                                                    «09
+1. Cuicumque subest contingens, potest subesse falsum, quia omne contingens potest esse falsum[^p508-1]; sed fidei subest verum contingens: ergo fidei potest subesse falsum. Maior propositio per se manifesta est; minor probatur: quia fides fuit de passione Christi et incarnatione; et utrumque fuit contingens — non enim erat necessarium, Christum interfici, nec Dei Filium incarnari, cum alio modo posset genus humanum liberari — restat igitur, quod conclusio est vera.
 
-          actui lidei. Maior manifesla est, minor probatur per                tiae ; el divinae praescientiae non possit subesse fal-
-         hoc, quod Apostolus ' ex carilate voluit ire ad lli-                 sum , quia ipsa non potest falsilicari : necesse est conciuBio i.
-         spanos, qui non ivit ; et ego ex caritate volo, pro-                 ponere, quod ipsi habilui lidei nec falsuin subsit nec
-         xinium ineuin esse bonum, qui tamen non est bo-                      subesse possit. — Quemadmoduin enim divina prae- itatio.
-         nns : et sic actui caritalis potest subesse falsitm.                 scieniia, quia ex rebus non pendet, certissiine co-
-                   (i. Ilein , actns adorationis est ab actu fidei 2 ,        gnoscit non solum ea quae ventura sunt necessario,
-            ergo quod subslernilur adorationi siibsternitur ipsi              sed eliam conlingentia, ita quod circa ea decipi non
-            (iilei ; sed conlingil aliquando, adorationi alicuius fi-         polest, sicut in primo libro ' oslensum liiit ; sic et
-            delis subesse falsuin, sicut quando adorat bostiam                fidcs , quae cognitioni divinae pracsrientiae innititur,
-            non consecratam pro consecrata, adbibila debita di-               a qua etiam illuininatur ct dirigilur, certam cre-
-            ligentia, et talis adoralio meritoria est, et ila ortuin          diilitalem el illuminationem habet de futiiris eliam
-            habet a fide et caritate : ergo si ei subest falsuin ,            coutingentibus, ila quod, licet8 illa, qnanluin est de
-            videlur, quod et lidei.                                           se, possint non evenire, fides tainen nec potest decipi
-                   Sed contiia : 1. Illius solius est fides in via,           nec potest errare. Sicut enim de eo quod praescilum Noiandum.
-Fundaraonia cuius erit visio in patria ; sed visioni in patria non            est evenire a Deo, concedi potesl, quod ipsuni pos-
-            potest subesse falsnin : ergo nec lidei in via.                   sibile sil nnn evenire per sc ' et absolute, non est
-                   2. Itein, sicut se habet caritas ad bonum, ita             tamen coiupossibile cum praevisione sni, oppositi. —
-         se babet fides ad verum ; sed carilas nunquam ap-                    quia haec duo non possunt simul stare, quod Deus
-         petit nisi bonnni a : ergo fidos nunquani fac.it credere             praeviderit uniim, ct quod eveniat opposilum; tunc
-         nisi verum : ergo fidei non subest falsuin.                          enim falleretnr divina praescienlia — per hunc mo-
-               3. Item, fides assentit primac Veritati propter                duin intelligendum est in assensu fidei, qui l0 inniti-
-         se et super omnia iu credendo ; sed prinia Veritas                   tur divinae praevisioni. Unde qiiaiiivis crcditiun con-
-         non potest ei diclare nisi verum : ergo ipsa non po-                 tinycns in se possit non evenire, haec tamen duo non
-         test assentire nisi vero : ergo ei non potest subesse                possunt siinul slare, quod non eveniat , et qtiod sit
-         nisi veruin.                                                         creditum. Et propterea concedendum est, qnod fidei
-               k. Item , euicumque cogniUoni subest falsum ,                  non potest subesse falstim, qnia non possunt simul coociusio 2.
-         illa cognilio polius est principium deceptionis quain                stare falsilas in credito et veritas in credenle sive
-         illuminationis ; sed lidcs est illuininatio mentis, si-              iu fide. — Et concedendae sunt raliones, quae sunl
-                                                                              ad islam partem.
-         cut dicit Augustinus ' : ergo fulei falstim non potest
-         subesse.                                                                   1. Ad illud ergo quod obiicilur in coDtrarinm,SoinUoop-
-               ii. Item , « virtus est certior omni arte 5 » atque
-         scienlia ; sed scientiae non polest subesse falsum : si              quoil          omnesubest
-                                                                                    ctiicuniqne
-                                                                              falsum , quia                      potestpolest
-                                                                                                        contingens,
-                                                                                                    contingens                subesse ; I">s"ornra'
-                                                                                                                         esse falsum
-         ergo fides virtus est, videlnr etc.                                  respondendum est per inleremptionem " , quia divi- Notaodum.
-               6. Item, fides, quae innititur principiis scien-               nae praevisioni subesse potest verum contingens ,
-         tiarum , non potest lalsilicari : ergo multo magis illa,             falsum tamen subesse non potest; praevidet enim
-         quae innititur Principio principiorum ; et haec est                  Deus vera conlingentia, sed lamen illa quae prae-
-         fides catboliea : ergo nullo niodo potesl ei subesse                 videt , nunquam sunt falsa. Et sicut hoc habet in-
-         falsuin.                                                             stantiam in divina praecognitione, sic et in illumi-
-                                                                              natione, quae ab ea procedit, qualis est habitus fidei,
-                                 CONCLUSIO.
-                                                                              sicnt praedictum est.
-         Fidei non potest subesse falsum, quia non possunt                          ± Ad illud quod obiicitur, quod habitus co-
-              simnl stare falsitas in credito et verilas in                   gnoscendi debet conformari ipsi cognoscibili ; dicen-
-              credente sive in fi.de.                                         dum, quod istud habet verilatem, quando habilus Notanda di-
-                                                                              cognoscendi pcndet ab ipso cognoscibili secundum
-              Respondeo : Dicendum , quod cum habitus fidei                   existentiam in proprio genere, sicut est scientia ac-
-         ipsam mentem illuminet ad assentiendum veritali cre-                 qttisita secundum causas et rationes inferiores; sed
-         ditae secundum   illustrationem 6 divinae praescien-                 de eo genere cognitionis, quod non pendet ab ipsa
+2. Item, habitus conformatur obiecto suo, circa quod versatur[^p508-2]: si ergo habitus fidei versatur circa credibile, habet illi conformari; sed aliquod credibile, utpote Christum esse passurum, potuit falsificari, cum esset contingens: ergo habitus fidei, quo illud credebatur, falsificari potuit: potest igitur fidei subesse falsum.
 
-               1 ltom. 15, 24. et 28. — Mnx pro qui non icit edd. el.              6 Ooddt F N U illuminationein. Inferius pro qitia cx rebus
-         patici eodd. quo tamen non ivit.                                     edd. quae ex rebus.
-               8 Vide supra d. 9. a. 2. q. 3. — Pro est ab actu fidei,             7 Dist. 38. a. 2. q. 2; d^ 39. a. I. q. 2. ad 3; ibid. a. 2.
-         quam leclionem tuentur codd. AKPQ bb, alii codd. et edd.             q. 2. el d. 40. a. 2. q. I.
-         est actus fidei. Inferius pro adhibita debila edd. 1 , 2 adhibila         8 In edd. et plerisque codd. omillilur licet (codd. I K Z bb
-         vera, Val. adliibita vera et debila.                                 et N a sccunda manu quamvis).
-               3 Vide infra d. 27. a. I. q. 4. August., in Epist. loan. tr.        9 Pro per se edd. in se codd. M Obb simpliciter. Superius
-         7. n. 8: Dilige , et quod vis fac... radix sit intus dilectionis,    cod. T omitlit evenire a Deo. Paulo inferius pro praeviderit cod.
-         non polest de isla radice nisi bonum existere.                       U (,N a secunda manu) praevidetil.
-              4 Episl. 120. ad Consenlium. Cfr. supra pag. SOI, nota 5.            10 lla codd. AflNZ, codd. K U bb quae, sed in allis et
-               5 Aristol., II. Ethie. c. 6. Vide supra pag. 482, nota 5. —    edd. minus bcne qtiod.
-         De minori cfr. Arislot., I. Posler. c. 2. (ubi el maior seq. arg.         11 Sive ncgiilionem. Cfr. tom. I. pag. 87, nota 4. — Infe-
-         tangitur) el c. 26. (c. 33.); VI. Ethic. c. 2. seq.                  rius pro Et sicut cod. U Unde sicut.
-         310                                                   SENTENTIARUM LIB. III.
+3. Item, simus in medio tempore post mortem Abrahae et ante incarnationem Christi; in illo tempore necessarium est, Abraham credidisse, Christum esse passurum, possibile etiam erat, Christum non pati; sed possibile compatitur se cum omni necessario[^p508-3]: ergo ista duo poterant simul stare, videlicet quod Abraham credidisset, Christum esse passurum, et quod Christus non esset passurus; et si hoc, tunc fidei subesset falsum: si ergo possibile fuit, fidei subesse falsum tunc, videtur pari ratione, quod et nunc. — Quod autem pro illo tempore possibile esset, Christum non pati, manifestum est, quia contingens erat, eum pati, cum penderet ex voluntate interficientium; et regula est, quod oppositum contingentis est contingens. Quod iterum necessarium esset, quod Abraham credidisset, manifestum est, quia omne dictum affirmativum de praeterito est necessarium. Si tu dicas, quod hoc verum est, quando non pendet ex futuro; ostenditur, sic esse in proposito: quia «credere non est aliud quam cogitare cum assensione[^p508-4]»; et postquam Abraham cogitavit de hoc dicto: Christum esse incarnandum, necessarium fuit de eo cogitasse; et postquam assensit, necessarium fuit, ipsum assensisse; et postquam exivit in actum fidei, necessarium fuit, ipsum exisse: ergo videtur, quod simpliciter necessarium fuit, ipsum credidisse: necessarium igitur videtur, quod fidei Abrahae potuit subesse falsum.
 
-             re cognila , non est necesse , quod conformetur ipsi               quolibet necessario possit stare. Si enim non posset
-             cognoscibili secundum existentiam sui in se, sed                   stare cum necessario, impossibile esset, ipsum evenire.
-             secundum exislentiam sui in causa '. Et talis est                        Et propterea est adhuc tertius modus dicendi, Soimio3.ei
-                                                                                                          .                             ' auctoris.
-             cognilio lidei et prophetiae et cuiuslibet revelationis            qui concedit, qrrod conttngens potest stare cum ne-
-             divinae, quae non pendet ab eo quod creditur vel                   cessario , et quod oppositum alicuius articuli est vel
-             quod revelatur, sed ab illo lumine, per quod ad                    fuit conlingens. Sed illud quod opponilur tertio loco"',
-             hoc cognoscendum illuminatur. Et quia illud lumen                  negat, videlicet quod necessarium fuit, Abraham cre-
-             certum est etiam de re conlingente ; hine esl, quod                didisse, Chiistum esse passurum. Et si tu obiicias ,
-             cum habitus fidei conformetur ei , a quo dependet,                 quod omne dictum de praelerito est necessarium ;
-             quod non potest falsificari nec vacillare propter con-             respondendum est ad hoc, quod verum est de eo tvotandum.
-             tingentiam crediti.                                                dicto, quod transit omnino in praeterilum ; sed il-
-                                                                                lud dictum connotat futuriCm contingens ; et quia
-                   3. Ad illud quod obiicitur, quod contingens2
-             potest stare cum quolibet necessario; dicendum,                    omne dictum, quod claudil in se conlingens, con-
-             quod verum est. Attamen ad illud quod subiungit,                   tingens est : ideo illud tolale dictum , Abraham cre-
-             quod oppositum alicuius articuli esl contingens, si-               didisse Christum passurum, contingens est. Licet
-             cut anle incarnalionem contingens eral, Chrislum                   enim principalw compositio6 sit de praeterito, con-
-  soiutio i. non incarnari et non pali ; respondent aliqui per in-              notalum tamen est de futuro.
-             teremplionem , pro eo quod de incarnalione et pas-                       Et hoc patet sic : quia credere dicit actum li- Expiicatur.
-             sione non est articulus quantum ad evenlum, quod                   beri arbitrii secundum directionem luminis confor-
-             ita eveniat, sed quantum ad ordinem, quod ila con-                 mantis inlellectum nostrum divinae praescienliae —
-             gruat. Unde Abraham non credidit, Christum incar-                  rrnde sensus est: Abraham credidit, Christum esse
-             nari, sed Christum esse incamandum , ut fiat vis                   passurum, hoc est: Abraham illuminatus fuit, ut
-             in verbo ; quia incarnari dicit eventum, sed esse                  assentiret7 et videret hoc quod Deus praeviderat
-             incarnandwm dicit ordinem congruum. Et quamvis                     evenire — et quia in praevisione eventus conlingen-
-             Christum incarnari sil contingens quantum ad even-                 tis clauditur sive connotatur futurum contingens :
-             tum, tamen quantum ad congruenliam necessarium                     hinc est, quod in illo dicto de praeterito clauditur
-             est; impossibile esl enim, hoc non esse decens et                  eventus futuri contingenlis, et ideo totum dictum
-improbamr. congruum. — Sed hic modus dicendi stare non po-                      iudicandum est esse conlingens. Et si tu obiicias ,
-             test, quia sic fideles crediderunt, sicut Prophetae                quod necessarium esl simpliciter, Abraham cogilasse
-             praedixerunt ; et Prophetae praedixerunt, non solum                de hoc et assensisse huic, ergo necessarium est sim-
-             esse congruum3 incarnari, sed etiam eventum fu-                    pliciter, Abraham credidisse; dicendum, quod ve-
-             turum. Et rursus , sicut, nos credimus Christum                    rum est, quod necessarium est, Abraham cogitasse
-             incarnatum de praeterito, ita ipsi crediderunt Chri-               de hoc ; sed non est necessarium , ipsum assensisse
-             stum incarnandum de futuro.                                        huic credito contingenti, et hoc assensu fidei. Fides
-                   Et ideo aliler dicunt alii, quod licet ipsum cre-            enim sic in eo assentiebal, sicut Deus praevidebat ;
-  soiuiio 2. ditum possit esse conlingens iri se, tamen habito                  sed divina praevisio sic praevidet, quod quamvis Notaodnm,
-             respeclu ad divinam praescientiam , quae immutabi-                 actus divinae praecognilionis sit in se necessarius,
-             liter praevidit, necesse est.ipsum evenire ; et ideo               tamen comparatio ipsius ad futurum contingens non
-             oppositum eius non potest stare nec cum aclu divi-                 est necessaria, sed contingens. Per hunc etiam mo-
-son sufiic». nae praescientiae nec cum actu fidei nostrae'1. — Sed              dum intelligendum est, qrrod licet necessarium sit,
-             nec illud solvit, quia non est aliquod conlingens,                 postquam Abraham credidit, liberum arbitrium fuisse
-             quod Deus non praeviderit, si eventurum est; nec                   motum secundum regulam ets dictamen fidei; et ne-
-             per praevisionem suam aufertur sibi aliquid de con-                cessarium sit, illum motum fuisse meritorium ; or-
-             tingentia sua : ergo quantumcumque Deus praevide-                  dinatio tainen ipsirrs ad futurum contingens contin-
-             rit aliquid, necesse est ponere, quod conlingens cum               gens fuit, sicut est ordinatio divinae praescienliae ,
+4. Item, omne quod subest spei, subest etiam fidei[^p508-5]; sed spei potest subesse falsum, ut patet, cum aliquis praescitus in gratia existens sperat, se habiturum vitam aeternam: ergo necessario sequitur, quod fidei aliquando subest falsum.
 
+5. Item, actus caritatis praesupponit actum fidei; sed actui caritatis potest subesse falsum: ergo et
 
-               1 Libr. de Causis, propos. 12: Causatum ergo in causa osl              3 Cod. U supplet Christum.
-         per modum causae, ct causa in causatp per modum causati.                     * Anselm., II. Cur Deus liomo, c. 17. (alias 18.), necessi-
-         Crr. supra <l. 14. a. 2. q. I; I. Sent. d. 30. a. 2. q. 2. el d. 39.   tate. dislincta in praecedentem (absolutam, conseqnentis) et in
-         a. 2. q. 3; ex quibus locc. eliam apparet, nos recte fecisse sub-      sequentem (relativam, consequentiae), ait: Hac sequenti ct ni-
-         stituentcs ler existentiam pro exigcntiam, qiiam vocem edd.            hil cflicienli nccessitale, quoniam vera fuit fides vel proplietia
-         exhibent cum non pmicis codd., dum alii cotlil. sunt dubiae            de Chrislo, quia ex voluntate, non ex necessitate morilurus erat,
-         leclionis. Pariter infra in solut. ad 5. lectionem correximus. —       necesse fuil, ut sic esset elc. — Paulo ante pro praecidit cotld.
-         Paulo inferius pro quod creditur codd. G II 1L N T U V aa bb           A aa praevidel.
-         quotl [cod. aa a secunda manu qui^ crcdit, coil. A quod credit               6 In ipsa obiectione.
-         quod revelalur elc. Subindc pro sed ab illo cod. G sed ab ipso.              6 Scil. verbnm credidisse. — Pro principalis cdd. princi-
-         Demum verbis a quo dependet codd. A K praemillunt tanquam.
-               ■ Edd. possibile. Aliquanlo inferius pro ad cventum codd.              ' Codd. A K bb adiungunt et crederet.
-         A K aa ad adcentinn , ct subinde pro ad ordinem cod. Z ad                    8 Pro el cod. 0 iuxla.
-                                                                                palior.
-         rationem.
-                                                                                                                                             !>11
-                                                        DIST. XXIV. ART. I. QUAE8T. L
+<!-- page 509 -->
 
-       eui cst conformis. Et quia vocabulum credendi et                         pertinens ad fidein el spem , sed ad falsain aesti-
-       asscntiendi claudit in se illam ordinationem secun-                      mationem.
-       dum conformitatera ad divinam praevisionem ; hine                              !). \d illiul qnod obiicitur, quod aclus carilatis
-       est, quod sicul contingens est, Deiim praevidisse                        praesnpponit actum fidei ; dicendum , quod verum
-    aliquoil futuruin eontiugeiis, sic ' contingens est,                        est, quod praesupponit actum fidei utregukbntw el Notandom.
-*Abraham crcilidisse futurum contingens ; contingens                            dirigentis eius acluin, sed non oporlet, qnod prae-
-    est etiam , ipsum assensisse ; conlingens est etiam,                        supponat actun) fnloi ut concurrcnlis super illud
-    aliqnem Prophetam prophelasse. In omnibus enim                              obiectinn. Oinne enim, quod caritas appelit , fides di-
-    his nna est responsio, quae fundatur super hoc,                             clat appetendiun esse, et ita dirigit eius actum. Non
-    quod licet aclus transeant in praeleriluin , (licunl                        lainen onuie quod caritas uppHit , fidcs credil , quia
-    lameu ordinationem ad conlingens fuiurum; et ila                            de plnribns contingil dicere, quod sint bona ; fal-
-    connotant eventmn futuri contingenlis, el ex illa                           suin tamen esl dicere, quod1    sint vera. Ilonum eniin et
-                                                                                                                                         gmdnonnm
-                                                                                                                                           verum.
-    connolatione necesse est dictum totum iudicare                              dicit aptitiiilinem et urdinationem     habilualera, sed
-                                                                                verum dieit inliaerenliain el exislentiain artualein.
-        conlingens, sicut in primo libro ! ostensum fnit
-        per tres regulas infallibiles in quaeslione de prae-                    llndo bonuin erat, Aposloliiin ire ad llispanos, i|iiain-
-        scientia.                                                               vis non esset verum ; et ideo erat appetibile , quain-
-              4. Ad illud quod ohiicitur, quod spei Sllbest                     vis nou esset eredibile. Quamvis enim falsitas pos-
-        falsuni ; dicendum, quod spei, seciindum quod vir-                      sit stare cum obiccto caritatis , quia aliquid potest
-        tus est et virtuose movetur, falsnm non Subest. Gum                     esse falsum et bontiin ; non tamen polest slare cum
-soiandam. enim spes sit certitudo « proveniens ex gralia et me-                 obiecto fidei, qnia non polest idem simul esse fal-
-          ritis3», nullus sperat, se hahilurum vitam actcrnam,                  snm el verum '.
-          nisi cum praesuppositiona meritoniiii ; et qtiia efli-                     (i. Ad illud (piod obiirilur. quod adorationi DO-
-          cacia inerili includit linalein perseveranliain : hinc                lest subesse falsum ; dicenduni, quod adorationi fa-
-        est, quod in actu spei implicalur comlilio perseve-                     ctae secundum directionem et regiilam fidei nun-
-        rantiae linalis. Omnis enim,qui recle sperat , sic vi-                  quain ' subest falsum, pro eo quod liiles dicit.nihil
-        tam aeternain exspeetat, si usque in finem perse-                       ailoraiidum esse pro certo, nisi de quo babelur certa
-        veraverit in gratia; et hoc quidem verum est. et                        cognitio; de eo autem, de qno non babetur cerli-
-        lides noslra dictat*. Et ila respondeiitliim est ad il-                 Indo, dicit adorandum esse, praesupposita conditionc.
-        lam ralionem per inleremplioncm minoris, quia                           Unile omnis fidelis recte adorans hostiam consecra-
-        praescilus non exspectal vilam aeternam simplici-                       tain. adorat suh ea condilione, si perfecta sunt cirea
-        ter , sed sub comlitione. Quodsi aliquis praeter di-                    ipsam ea quae ad coiisecrationein sunt necessaria
-        vinam revelalionem absque omni conditione speret,                       seciiiidum inslittitionem divinani ; et sic nunquam
-        se habiliirum vitam aelernam; bic non est motus
-                                                                                decipitur nec erral8.
-                                                                    SCHOLION.
+actui fidei. Maior manifesta est, minor probatur per hoc, quod Apostolus[^p509-1] ex caritate voluit ire ad Hispanos, qui non ivit; et ego ex caritate volo, proximum meum esse bonum, qui tamen non est bonus: et sic actui caritatis potest subesse falsum.
 
-              I. Principia principalia ad solvendam lianc quaestionem iani      ralione contingentid plurium ad lidem spectanlium oblcctorum
-        supra il. 23. a. I. q. i. lacta sunt. In rundam. et in respon-          componalur Cum certitudine ciusdem. Solulio aulem inniiur
-        sione. insiniialur duplex ralio conclusionis prineipalis, aitcra sci-   dislinclioni inler obieclum lidei in se considernlum et idcni,
-        licet cx parle obiecti formutis , quac esl prima Veritas, quae          qualenus est creilitum sive relatum ad lidem, |)iout siilicet
-        i cognoscit contingenlia iniallibililer, mutabilia immutabiliter,       slat sub obiecto formali fldci. Primo modo obiectum conlingens
-        fulura praescnlialiter , lemporalia aelcrnaliter, dependenlio inde-     polest esse, vel non essr, et asserlio de eo polrst l.ilsilir.ni;
-        pendenler, creata incrcale, alia a se, in se et per se» (Breviloq.      srd non sccundo modo. Aiiamen liilrs, sicut ipsa divina prae-
-        p. I. c. S.). Allera cst ex paitc ipsius habitiis iiifusi, qui est      sricnlia, non inimiiial rerum naluras nrc auferl eis conlin-
-        virtus iiiletlcctiiulis et lumen nb ipso Deo immectintc iiifusiim.      genliam nec iinponil necessilalem absolulani, quac diciiur con-
-        — Tota fere quaeslio versatur in diluenda hac difliruHalc , qua         sequentis, scd tanlum relaticnm (condilionatam) et consequen-
+6. Item, actus adorationis est ab actu fidei[^p509-2], ergo quod substernitur adorationi substernitur ipsi fidei; sed contingit aliquando, adorationi alicuius fidelis subesse falsum, sicut quando adorat hostiam non consecratam pro consecrata, adhibita debita diligentia, et talis adoratio meritoria est, et ita ortum habet a fide et caritate: ergo si ei subest falsum, videtur, quod et fidei.
 
+**Sed contra:** 1. Illius solius est fides in via, cuius erit visio in patria; sed visioni in patria non potest subesse falsum: ergo nec fidei in via.
 
-               1 Cod. II sic eiiam. Mox anle conlingens est etiam codd.         est, volendo illud. Cum cnim dicilur: bonum esl, Apostolum
-        A K repetunt sic.                                                       irc ad Uispanos, non sequitur: quia si bonum esl, el verum
-              2 Disl. 38. a. 2. q. 2, ubi (in fundam.) tres rcgulae pro-        est; quia hoc verbum esl non est ibi copula praesenlialilatis,
-        ponuntui'. — Pro iudicate cod. M iitdicari.                             sed tanwm cnunlialionis, lioc est dicere, non copulat aclu et
-              3 Ut dicilur infra in lit. Magistri, d. XXVI. c. I. (cfr. ibid.   simpliciter, sed liabitit ct condilionaliter, ut cum dieiiur: Pa-
-        Comment. dub. 2.), ubi spcs dcscribitur. — Paulo inferius pro           scha cst piilclienimum tcmpus; omnis liomo limet in mari,ct
-        efjicacia cod. U sufficientia.                                          huiusmodi. Ch\ IV. Sent. d. 21. p. II. a. I. q. 2, ubi differentia,
-               * Matlli. 10, 22: Qui aiilem perscveraverit usque in finrni,     quae est intrr menliii el falsum dicere, his vcrbis tangilur:
-         bic salvus cril. — De seqq. cfr. I. Sent. d. 40. a. 2. q. 2. ad        Palsum vcro dici potest frequenter meritorie, cum mens deci-
-         I. et 6. — Cirea fincm solut. pro motus cod. Q modus.                  piiur, el ila credil esse, ut loquitur, sicut dixil Aposlolus, se
-               5 Codd. A G II T ordinem.                                        in llispaniam profccturum.
-               6 Alev. Ilal., S. p. III. q. 68. m. 7. a. I. ad eandem obie-          i Codd. ACIIILTV (aa primilus) bb nunquam tatnen.
-        ctionem sic rcspondet: Dicendum, quod non cst simile de ca-             Post pauca pro dicit cod. F diclat.
-         rilale et fidc , quia caritas non respicit rationem vcri el falsi ,         8 Cfr. supra d. 9. a. I. q. 6. in corp.
-         scd boni et mali, et polest csse carilos cirea bonum, quod non
-          312                                                  SENTENTl.\RUM LtB. III.
-         tiae, ul explicatum est 1. Senl. d. 38. o. 2. q. I. et 2. (ubi        necesse esl, Abraham credidisse Christum incarnandum. flacc sen-
-         in scholio quaedam controversia nolatur) nec non d. 40. a. 2.         teniia concedit qtiidem, quod omne dictum de praelerilo est
-         q. I. ad 4. Eadem differen.lia opinionum , quae in scholio citato     necessarium, dummodo totum dictum sit de praeterilo; sed'
-         indicata est, reverlitur liic in solut. ad 3, videlicet inter pa-     hoc negat, quando sic est de praeterito, ut simul connolet
-         tronos secundae et tertiae solutionis, qui tamen concorditer          aliquid tle futuro , a quo dependet, quia, si tlictum complecti-
-         primam solutionem tanquam falsam respuunt. Secunda enim               tur simul necessarium et contingens, totum iudicatur contin-
-         opinio concedit maiorem, nempe hoc diclum : necesse est (post         gens , ut hic et I. Sent. locc. cilt. magis declaralur. — Alia
-         factum), Abraham credidisse Christum incarnandum; sed eadem,          difficullas, quae hic solet opponi, et quae sumilur ex diffcren-
-         dislinguens minorem : possibile fuit, Christum non incarnari, quia    tia lemporis et falsa eius determinatione, dum quis credidit
-         scilicet futurum erat e( contingens, dicil, quod incarnari con-       Chrislum incarnandum, qui eo momento iam erat incarnatus,
-         tingens erat, si sermo cst de re secundum suam naturam sive           solviiur infra q. 2. ad 3. et q. 3. in fine corp. et ad I. et 5;
-         in sensu diviso, sed idem necessarium erat necessitate conse-         cfr. d. 25. a. I. q. 2, et S. Thoni:, S. III. q. I. a. 3. ad 2.
-         quenliae (id est conditionate , non absolule), si consideratur              II. Alex. Hal., S. p. III. q. 68. m. 7. a. I. — Scot., III. SenU
-         ipsum dicluin , vel incarnatio ut relata ad fidem, sive in sensu      d. 23. q. unica n. 9. seqq. n. 14. seq., et Quodl. 14. n. 3. seqq.
-         composito et coniunclim; quia non potuit simul esse, ut Abra-         — S. Thom., hic a. I. quaestiunc. 3 ; S. art. cit. — Petr. a
-         liam lioc crediderit, et tamen non eveniat. ffaec solutio respon-     Tar., hic a. I. — Richard. a Med. , hic q. 3. — Durantl. ,
-         det motlo loqueridi S. Thomae et est probabilis. — Sed tertia         hic q. 2.
-         solutio, quam lenet S. Bonav., negat maiorem, scilicet quod
+2. Item, sicut se habet caritas ad bonum, ita se habet fides ad verum; sed caritas nunquam appetit nisi bonum[^p509-3]: ergo fides nunquam facit credere nisi verum: ergo fidei non subest falsum.
+
+3. Item, fides assentit primae Veritati propter se et super omnia in credendo; sed prima Veritas non potest ei dictare nisi verum: ergo ipsa non potest assentire nisi vero: ergo ei non potest subesse nisi verum.
+
+4. Item, cuicumque cognitioni subest falsum, illa cognitio potius est principium deceptionis quam illuminationis; sed fides est illuminatio mentis, sicut dicit Augustinus[^p509-4]: ergo fidei falsum non potest subesse.
+
+5. Item, «virtus est certior omni arte[^p509-5]» atque scientia; sed scientiae non potest subesse falsum: si ergo fides virtus est, videtur etc.
+
+6. Item, fides, quae innititur principiis scientiarum, non potest falsificari: ergo multo magis illa, quae innititur Principio principiorum; et haec est fides catholica: ergo nullo modo potest ei subesse falsum.
+
+### Conclusio.
+
+> Fidei non potest subesse falsum, quia non possunt simul stare falsitas in credito et veritas in credente sive in fide.
+
+**Respondeo:** Dicendum, quod cum habitus fidei ipsam mentem illuminet ad assentiendum veritati creditae secundum illustrationem[^p509-6] divinae praescientiae; et divinae praescientiae non possit subesse falsum, quia ipsa non potest falsificari: necesse est ponere, quod ipsi habitui fidei nec falsum subsit nec subesse possit. — Quemadmodum enim divina praescientia, quia ex rebus non pendet, certissime cognoscit non solum ea quae ventura sunt necessario, sed etiam contingentia, ita quod circa ea decipi non potest, sicut in primo libro[^p509-7] ostensum fuit; sic et fides, quae cognitioni divinae praescientiae innititur, a qua etiam illuminatur et dirigitur, certam credulitatem et illuminationem habet de futuris etiam contingentibus, ita quod, licet[^p509-8] illa, quantum est de se, possint non evenire, fides tamen nec potest decipi nec potest errare. Sicut enim de eo quod praescitum est evenire a Deo, concedi potest, quod ipsum possibile sit non evenire per se[^p509-9] et absolute, non est tamen compossibile cum praevisione sui, oppositi. — quia haec duo non possunt simul stare, quod Deus praeviderit unum, et quod eveniat oppositum; tunc enim falleretur divina praescientia — per hunc modum intelligendum est in assensu fidei, qui[^p509-10] innititur divinae praevisioni. Unde quamvis creditum contingens in se possit non evenire, haec tamen duo non possunt simul stare, quod non eveniat, et quod sit creditum. Et propterea concedendum est, quod fidei non potest subesse falsum, quia non possunt simul stare falsitas in credito et veritas in credente sive in fide. — Et concedendae sunt rationes, quae sunt ad istam partem.
+
+1. Ad illud ergo quod obiicitur in contrarium, quod cuicumque subest contingens, potest subesse falsum, quia omne contingens potest esse falsum; respondendum est per interemptionem[^p509-11], quia divinae praevisioni subesse potest verum contingens, falsum tamen subesse non potest; praevidet enim Deus vera contingentia, sed tamen illa quae praevidet, nunquam sunt falsa. Et sicut hoc habet instantiam in divina praecognitione, sic et in illuminatione, quae ab ea procedit, qualis est habitus fidei, sicut praedictum est.
+
+2. Ad illud quod obiicitur, quod habitus cognoscendi debet conformari ipsi cognoscibili; dicendum, quod istud habet veritatem, quando habitus cognoscendi pendet ab ipso cognoscibili secundum existentiam in proprio genere, sicut est scientia acquisita secundum causas et rationes inferiores; sed de eo genere cognitionis, quod non pendet ab ipsa
+
+<!-- page 510 -->
+
+re cognita, non est necesse, quod conformetur ipsi cognoscibili secundum existentiam sui in se, sed secundum existentiam sui in causa[^p510-1]. Et talis est cognitio fidei et prophetiae et cuiuslibet revelationis divinae, quae non pendet ab eo quod creditur vel quod revelatur, sed ab illo lumine, per quod ad hoc cognoscendum illuminatur. Et quia illud lumen certum est etiam de re contingente; hinc est, quod cum habitus fidei conformetur ei, a quo dependet, quod non potest falsificari nec vacillare propter contingentiam crediti.
+
+3. Ad illud quod obiicitur, quod contingens[^p510-2] potest stare cum quolibet necessario; dicendum, quod verum est. Attamen ad illud quod subiungit, quod oppositum alicuius articuli est contingens, sicut ante incarnationem contingens erat, Christum non incarnari et non pati; respondent aliqui per interemptionem, pro eo quod de incarnatione et passione non est articulus quantum ad eventum, quod ita eveniat, sed quantum ad ordinem, quod ita congruat. Unde Abraham non credidit, Christum incarnari, sed Christum esse incarnandum, ut fiat vis in verbo; quia incarnari dicit eventum, sed esse incarnandum dicit ordinem congruum. Et quamvis Christum incarnari sit contingens quantum ad eventum, tamen quantum ad congruentiam necessarium est; impossibile est enim, hoc non esse decens et congruum. — Sed hic modus dicendi stare non potest, quia sic fideles crediderunt, sicut Prophetae praedixerunt; et Prophetae praedixerunt, non solum esse congruum[^p510-3] incarnari, sed etiam eventum futurum. Et rursus, sicut nos credimus Christum incarnatum de praeterito, ita ipsi crediderunt Christum incarnandum de futuro.
+
+Et ideo aliter dicunt alii, quod licet ipsum creditum possit esse contingens in se, tamen habito respectu ad divinam praescientiam, quae immutabiliter praevidit, necesse est ipsum evenire; et ideo oppositum eius non potest stare nec cum actu divinae praescientiae nec cum actu fidei nostrae[^p510-4]. — Sed nec illud solvit, quia non est aliquod contingens, quod Deus non praeviderit, si eventurum est; nec per praevisionem suam aufertur sibi aliquid de contingentia sua: ergo quantumcumque Deus praeviderit aliquid, necesse est ponere, quod contingens cum quolibet necessario possit stare. Si enim non posset stare cum necessario, impossibile esset, ipsum evenire.
+
+Et propterea est adhuc tertius modus dicendi, qui concedit, quod contingens potest stare cum necessario, et quod oppositum alicuius articuli est vel fuit contingens. Sed illud quod opponitur tertio loco[^p510-5], negat, videlicet quod necessarium fuit, Abraham credidisse, Christum esse passurum. Et si tu obiicias, quod omne dictum de praeterito est necessarium; respondendum est ad hoc, quod verum est de eo dicto, quod transit omnino in praeteritum; sed illud dictum connotat futurum contingens; et quia omne dictum, quod claudit in se contingens, contingens est: ideo illud totale dictum, Abraham credidisse Christum passurum, contingens est. Licet enim principalis compositio[^p510-6] sit de praeterito, connotatum tamen est de futuro.
+
+Et hoc patet sic: quia credere dicit actum liberi arbitrii secundum directionem luminis conformantis intellectum nostrum divinae praescientiae — unde sensus est: Abraham credidit, Christum esse passurum, hoc est: Abraham illuminatus fuit, ut assentiret[^p510-7] et videret hoc quod Deus praeviderat evenire — et quia in praevisione eventus contingentis clauditur sive connotatur futurum contingens: hinc est, quod in illo dicto de praeterito clauditur eventus futuri contingentis, et ideo totum dictum iudicandum est esse contingens. Et si tu obiicias, quod necessarium est simpliciter, Abraham cogitasse de hoc et assensisse huic, ergo necessarium est simpliciter, Abraham credidisse; dicendum, quod verum est, quod necessarium est, Abraham cogitasse de hoc; sed non est necessarium, ipsum assensisse huic credito contingenti, et hoc assensu fidei. Fides enim sic in eo assentiebat, sicut Deus praevidebat; sed divina praevisio sic praevidet, quod quamvis actus divinae praecognitionis sit in se necessarius, tamen comparatio ipsius ad futurum contingens non est necessaria, sed contingens. Per hunc etiam modum intelligendum est, quod licet necessarium sit, postquam Abraham credidit, liberum arbitrium fuisse motum secundum regulam et[^p510-8] dictamen fidei; et necessarium sit, illum motum fuisse meritorium; ordinatio tamen ipsius ad futurum contingens contingens fuit, sicut est ordinatio divinae praescientiae,
+
+<!-- page 511 -->
+
+cui est conformis. Et quia vocabulum credendi et assentiendi claudit in se illam ordinationem secundum conformitatem ad divinam praevisionem; hinc est, quod sicut contingens est, Deum praevidisse aliquod futurum contingens, sic[^p511-1] contingens est, Abraham credidisse futurum contingens; contingens est etiam, ipsum assensisse; contingens est etiam, aliquem Prophetam prophetasse. In omnibus enim his una est responsio, quae fundatur super hoc, quod licet actus transeant in praeteritum, dicunt tamen ordinationem ad contingens futurum; et ita connotant eventum futuri contingentis, et ex illa connotatione necesse est dictum totum iudicare contingens, sicut in primo libro[^p511-2] ostensum fuit per tres regulas infallibiles in quaestione de praescientia.
+
+4. Ad illud quod obiicitur, quod spei subest falsum; dicendum, quod spei, secundum quod virtus est et virtuose movetur, falsum non subest. Cum enim spes sit certitudo «proveniens ex gratia et meritis[^p511-3]», nullus sperat, se habiturum vitam aeternam, nisi cum praesuppositione meritorum; et quia efficacia meriti includit finalem perseverantiam: hinc est, quod in actu spei implicatur conditio perseverantiae finalis. Omnis enim, qui recte sperat, sic vitam aeternam exspectat, si usque in finem perseveraverit in gratia; et hoc quidem verum est, et fides nostra dictat[^p511-4]. Et ita respondendum est ad illam rationem per interemptionem minoris, quia praescitus non exspectat vitam aeternam simpliciter, sed sub conditione. Quodsi aliquis praeter divinam revelationem absque omni conditione speret, se habiturum vitam aeternam; hic non est motus pertinens ad fidem et spem, sed ad falsam aestimationem.
+
+5. Ad illud quod obiicitur, quod actus caritatis praesupponit actum fidei; dicendum, quod verum est, quod praesupponit actum fidei ut regulantis et[^p511-5] dirigentis eius actum, sed non oportet, quod praesupponat actum fidei ut concurrentis super illud obiectum. Omne enim, quod caritas appetit, fides dictat appetendum esse, et ita dirigit eius actum. Non tamen omne quod caritas appetit, fides credit, quia de pluribus contingit dicere, quod sint bona; falsum tamen est dicere, quod[^p511-6] sint vera. Bonum enim dicit aptitudinem et ordinationem habitualem, sed verum dicit inhaerentiam et existentiam actualem. Unde bonum erat, Apostolum ire ad Hispanos, quamvis non esset verum; et ideo erat appetibile, quamvis non esset credibile. Quamvis enim falsitas possit stare cum obiecto caritatis, quia aliquid potest esse falsum et bonum; non tamen potest stare cum obiecto fidei, quia non potest idem simul esse falsum et verum[^p511-7].
+
+6. Ad illud quod obiicitur, quod adorationi potest subesse falsum; dicendum, quod adorationi factae secundum directionem et regulam fidei nunquam[^p511-8] subest falsum, pro eo quod fides dicit nihil adorandum esse pro certo, nisi de quo habetur certa cognitio; de eo autem, de quo non habetur certitudo, dicit adorandum esse, praesupposita conditione. Unde omnis fidelis recte adorans hostiam consecratam, adorat sub ea conditione, si perfecta sunt circa ipsam ea quae ad consecrationem sunt necessaria secundum institutionem divinam; et sic nunquam decipitur nec errat.
+
+### Scholion
+**I.** Principia principalia ad solvendam hanc quaestionem iam supra d. 23. a. I. q. 4. facta sunt. In fundam. et in responsione insinuatur duplex ratio conclusionis principalis, altera scilicet ex parte obiecti formalis, quae est prima Veritas, quae «cognoscit contingentia infallibiliter, mutabilia immutabiliter, futura praesentialiter, temporalia aeternaliter, dependentia independenter, creata increate, alia a se, in se et per se» (Breviloq. p. I. c. 8.). Altera est ex parte ipsius habitus infusi, qui est virtus intellectualis et lumen ab ipso Deo immediate infusum. — Tota fere quaestio versatur in diluenda hac difficultate, qua ratione contingentia plurium ad fidem spectantium obiectorum componatur cum certitudine eiusdem. Solutio autem innititur distinctioni inter obiectum fidei in se consideratum et idem, qualenus est creditum sive relatum ad fidem, prout scilicet stat sub obiecto formali fidei. Primo modo obiectum contingens potest esse, vel non esse, et assertio de eo potest falsificari; sed non secundo modo. Attamen fides, sicut ipsa divina praescientia, non immutat rerum naturas nec aufert eis contingentiam nec imponit necessitatem absolutam, quae dicitur consequentis, sed tantum relativam (conditionatam) et consequentiae, ut explicatum est I. Sent. d. 38. a. 2. q. 1. et 2. (ubi in scholio quaedam controversia notatur) nec non d. 40. a. 2. q. 1. ad 4. Eadem differentia opinionum, quae in scholio citato indicata est, revertitur hic in solut. ad 3, videlicet inter patronos secundae et tertiae solutionis, qui tamen concorditer primam solutionem tanquam falsam respuunt. Secunda enim opinio concedit maiorem, nempe hoc dictum: necesse est (post factum), Abraham credidisse Christum incarnandum; sed eadem, distinguens minorem: possibile fuit, Christum non incarnari, quia scilicet futurum erat et contingens, dicit, quod incarnari contingens erat, si sermo est de re secundum suam naturam sive in sensu diviso, sed idem necessarium erat necessitate consequentiae (id est conditionate, non absolute), si consideratur ipsum dictum, vel incarnatio ut relata ad fidem, sive in sensu composito et coniunctim; quia non potuit simul esse, ut Abraham hoc crediderit, et tamen non eveniat. Haec solutio respondet modo loquendi S. Thomae et est probabilis. — Sed tertia solutio, quam tenet S. Bonav., negat maiorem, scilicet quod necesse est, Abraham credidisse Christum incarnandum. Haec sententia concedit quidem, quod omne dictum de praeterito est necessarium, dummodo totum dictum sit de praeterito; sed hoc negat, quando sic est de praeterito, ut simul connotet aliquid de futuro, a quo dependet, quia, si dictum complectitur simul necessarium et contingens, totum iudicatur contingens, ut hic et I. Sent. locc. citt. magis declaratur. — Alia difficultas, quae hic solet opponi, et quae sumitur ex differentia temporis et falsa eius determinatione, dum quis credidit Christum incarnandum, qui eo momento iam erat incarnatus, solvitur infra q. 2. ad 3. et q. 3. in fine corp. et ad 1. et 5; cfr. d. 25. a. 1. q. 2, et S. Thom., S. III. q. 1. a. 3. ad 2.
+
+**II.** Alex. Hal., S. p. III. q. 68. m. 7. a. 1. — Scot., III. Sent. d. 23. q. unica n. 9. seqq. n. 14. seq., et Quodl. 14. n. 3. seqq. — S. Thom., hic a. 1. quaestiunc. 3; S. art. cit. — Petr. a Tar., hic a. 1. — Richard. a Med., hic q. 3. — Durand., hic q. 2.
+
+---
 
 ## English
 
-[Translation pending]
+### Article I. *On the object of faith according to the thing.*
+### Question I. *Whether the object of faith is so true that no falsity can underlie it.*
+
+Concerning the first point one proceeds thus, and it is asked whether the object of faith is so true that no falsity can underlie it. And that falsity can underlie faith, seems [to be the case].
+
+1. Whatever has a contingent thing underlying it can have falsity underlying it, because every contingent thing can be false[^p508-1]; but a true contingent thing underlies faith: therefore falsity can underlie faith. The major proposition is manifest of itself; the minor is proved: because faith was about the passion of Christ and the incarnation; and both were contingent — for it was not necessary that Christ be slain, nor that the Son of God be incarnate, since the human race could have been freed in another way — it remains therefore that the conclusion is true.
+
+2. Likewise, a habit is conformed to its object, about which it is occupied[^p508-2]: if therefore the habit of faith is occupied about the credible, it must be conformed to it; but some credible thing, such as that Christ would suffer, could be falsified, since it was contingent: therefore the habit of faith, by which that was believed, could be falsified: therefore falsity can underlie faith.
+
+3. Likewise, let us be in the middle time after the death of Abraham and before the incarnation of Christ; in that time it is necessary that Abraham believed that Christ would suffer, yet it was also possible that Christ not suffer; but the possible is compatible with everything necessary[^p508-3]: therefore these two could stand together, namely that Abraham had believed that Christ would suffer, and that Christ was not going to suffer; and if so, then falsity would underlie faith: if therefore it was possible for falsity to underlie faith then, it seems by parity of reasoning [that it is so] now too. — That for that time it was possible that Christ not suffer is manifest, because it was contingent that he suffer, since it depended on the will of those who killed him; and the rule is that the opposite of a contingent thing is contingent. That again it was necessary that Abraham had believed is manifest, because every affirmative statement about the past is necessary. If you say that this is true when it does not depend on the future; it is shown that it is so in the present case: because «to believe is nothing other than to think with assent[^p508-4]»; and after Abraham thought about this statement: that Christ was to be incarnate, it was necessary that he had thought about it; and after he assented, it was necessary that he had assented; and after he went forth into the act of faith, it was necessary that he had gone forth: therefore it seems that it was simply necessary that he had believed: it seems therefore necessary that falsity could underlie Abraham's faith.
+
+4. Likewise, everything which underlies hope also underlies faith[^p508-5]; but falsity can underlie hope, as is clear when someone foreknown [to damnation], existing in grace, hopes that he will have eternal life: therefore it necessarily follows that falsity sometimes underlies faith.
+
+5. Likewise, the act of charity presupposes the act of faith; but falsity can underlie the act of charity: therefore [it can underlie] also
+
+the act of faith. The major is manifest, the minor is proved by this, that the Apostle[^p509-1] out of charity wished to go to the Spaniards, [yet] he did not go; and I out of charity wish my neighbor to be good, who nevertheless is not good: and so falsity can underlie the act of charity.
+
+6. Likewise, the act of adoration is from the act of faith[^p509-2], therefore what is laid under adoration is laid under faith itself; but it sometimes happens that falsity underlies the adoration of some faithful person, as when he adores an unconsecrated host as consecrated, due diligence having been applied, and such adoration is meritorious, and so takes its origin from faith and charity: therefore if falsity underlies it, it seems that [it underlies] faith too.
+
+**On the contrary:** 1. Faith on the way belongs only to him whose will be the vision in the fatherland; but falsity cannot underlie the vision in the fatherland: therefore neither [can it underlie] faith on the way.
+
+2. Likewise, as charity is related to the good, so faith is related to the true; but charity never desires anything but the good[^p509-3]: therefore faith never makes [one] believe anything but the true: therefore falsity does not underlie faith.
+
+3. Likewise, faith assents to the First Truth on its own account and above all things in believing; but the First Truth cannot dictate to it anything but the true: therefore it cannot assent to anything but the true: therefore nothing can underlie it but the true.
+
+4. Likewise, whatever cognition has falsity underlying it, that cognition is rather a principle of deception than of illumination; but faith is the illumination of the mind, as Augustine says[^p509-4]: therefore falsity cannot underlie faith.
+
+5. Likewise, «virtue is more certain than every art[^p509-5]» and science; but falsity cannot underlie science: if therefore faith is a virtue, it seems [it cannot underlie faith] etc.
+
+6. Likewise, faith which rests on the principles of the sciences cannot be falsified: therefore much more that which rests on the Principle of principles; and this is the catholic faith: therefore in no way can falsity underlie it.
+
+### Conclusion.
+
+> Falsity cannot underlie faith, because falsity in the thing believed and truth in the believer or in the faith cannot stand together at the same time.
+
+**I respond:** It must be said that since the habit of faith illuminates the mind itself to assent to the believed truth according to the illustration[^p509-6] of the divine prescience; and since falsity cannot underlie the divine prescience, because it cannot be falsified: it is necessary to hold that neither does falsity underlie the habit of faith itself, nor can it underlie it. — For just as the divine prescience, because it does not depend on things, most certainly knows not only those things which are to come necessarily, but also contingent things, in such a way that it cannot be deceived concerning them, as was shown in the first book[^p509-7]; so also faith, which rests on the cognition of the divine prescience, by which it is also illuminated and directed, has a sure belief and illumination concerning future contingent things too, in such a way that, although[^p509-8] those things, as far as is from themselves, may not come about, faith nevertheless can neither be deceived nor err. For just as concerning that which is foreknown by God to come about, it can be granted that it is possible for it not to come about of itself[^p509-9] and absolutely, yet it is not compossible with the foresight of its opposite. — because these two cannot stand together at the same time, that God foresaw one thing and that the opposite come about; for then the divine prescience would be deceived — in this manner it must be understood in the assent of faith, which[^p509-10] rests on the divine foresight. Hence although the contingent thing believed can in itself not come about, yet these two cannot stand together at the same time, that it not come about and that it be believed. And therefore it must be granted that falsity cannot underlie faith, because falsity in the thing believed and truth in the believer or in the faith cannot stand together at the same time. — And the reasons which are for this side are to be granted.
+
+1. To that therefore which is objected on the contrary, that whatever has a contingent thing underlying it can have falsity underlying it, because every contingent thing can be false; the answer is by elimination [of the minor][^p509-11], because a true contingent thing can underlie the divine foresight, yet falsity cannot underlie it; for God foresees true contingent things, but nevertheless those things which he foresees are never false. And just as this has its instance in the divine foreknowledge, so also in the illumination which proceeds from it, such as is the habit of faith, as has been said.
+
+2. To that which is objected, that the habit of knowing must be conformed to the knowable itself; it must be said that this holds true when the habit of knowing depends on the knowable itself according to existence in its proper genus, as is acquired science according to lower causes and grounds; but concerning that genus of cognition which does not depend on the
+
+thing known itself, it is not necessary that it be conformed to the knowable itself according to its existence in itself, but according to its existence in its cause[^p510-1]. And such is the cognition of faith and of prophecy and of any divine revelation, which does not depend on that which is believed or on that which is revealed, but on that light by which it is illuminated for the knowing of this. And because that light is certain even concerning a contingent thing; hence it is that, since the habit of faith is conformed to that on which it depends, it cannot be falsified nor waver on account of the contingency of the thing believed.
+
+3. To that which is objected, that the contingent[^p510-2] can stand with any necessary thing; it must be said that it is true. Yet to that which it adds, that the opposite of some article is contingent, as before the incarnation it was contingent that Christ not be incarnate and not suffer; some answer by elimination, for the reason that concerning the incarnation and the passion there is no article as to the event, that it so come about, but as to the order, that it so befit. Hence Abraham did not believe that Christ be incarnate, but that Christ was to be incarnate, that there be force in the word; because "to be incarnate" denotes the event, but "to be about to be incarnate" denotes the befitting order. And although it is contingent that Christ be incarnate as to the event, yet as to fittingness it is necessary; for it is impossible that this not be becoming and fitting. — But this manner of speaking cannot stand, because the faithful believed just as the Prophets foretold; and the Prophets foretold not only that it was fitting[^p510-3] [for Christ] to be incarnate, but also the future event. And again, just as we believe Christ to be incarnate in the past, so they believed Christ to be about to be incarnate in the future.
+
+And therefore others speak otherwise, [saying] that although the thing believed can be contingent in itself, yet, regard being had to the divine prescience, which immutably foresaw, it is necessary that it come about; and therefore the opposite of it cannot stand either with the act of the divine prescience or with the act of our faith[^p510-4]. — But neither does that resolve [the difficulty], because there is no contingent thing which God has not foreseen, if it is going to come about; nor by his foresight is anything of its contingency taken away from it: therefore however much God has foreseen something, it is necessary to hold that the contingent can stand with any necessary thing. For if it could not stand with the necessary, it would be impossible for it to come about.
+
+And therefore there is yet a third manner of speaking, which grants that the contingent can stand with the necessary, and that the opposite of some article is or was contingent. But it denies that which is objected in the third place[^p510-5], namely that it was necessary that Abraham had believed that Christ would suffer. And if you object that every statement about the past is necessary; the answer to this is that it is true of that statement which passes wholly into the past; but that statement connotes a future contingent; and because every statement which encloses within itself a contingent thing is contingent: therefore that whole statement, "Abraham believed that Christ would suffer," is contingent. For although the principal composition[^p510-6] is about the past, what is connoted is nevertheless about the future.
+
+And this is clear thus: because "to believe" denotes an act of free will according to the direction of the light conforming our intellect to the divine prescience — whence the sense is: Abraham believed that Christ would suffer, that is: Abraham was illuminated so that he assented[^p510-7] and saw this which God had foreseen would come about — and because in the foresight of a contingent event there is enclosed or connoted a future contingent: hence it is that in that statement about the past there is enclosed the event of a future contingent, and therefore the whole statement is to be judged to be contingent. And if you object that it is simply necessary that Abraham had thought about this and assented to this, therefore it is simply necessary that Abraham had believed; it must be said that it is true that it is necessary that Abraham had thought about this; but it is not necessary that he assented to this contingent thing believed, and [assented] by this assent of faith. For faith assented in him just as God foresaw; but the divine foresight foresees in such a way that, although the act of divine foreknowledge is in itself necessary, yet its comparison to the future contingent is not necessary, but contingent. In this manner too it must be understood, that although it is necessary, after Abraham believed, that free will was moved according to the rule and[^p510-8] dictate of faith; and necessary that that movement was meritorious; yet its ordering to the future contingent was contingent, just as is the ordering of the divine prescience,
+
+to which it is conformed. And because the word "believing" and "assenting" encloses within itself that ordering according to conformity to the divine foresight; hence it is that, just as it is contingent that God foresaw some future contingent, so[^p511-1] it is contingent that Abraham believed a future contingent; it is also contingent that he assented; it is also contingent that some Prophet prophesied. For in all these there is one answer, which is founded on this, that although the acts pass into the past, yet they state an ordering to a future contingent; and so they connote the event of a future contingent, and from that connotation it is necessary to judge the whole statement contingent, as was shown in the first book[^p511-2] by three infallible rules in the question concerning prescience.
+
+4. To that which is objected, that falsity underlies hope; it must be said that, according as hope is a virtue and is moved virtuously, falsity does not underlie it. For since hope is a certitude «coming forth from grace and merits[^p511-3]», no one hopes that he will have eternal life except with the presupposition of merits; and because the efficacy of merit includes final perseverance: hence it is that in the act of hope the condition of final perseverance is implied. For everyone who rightly hopes expects eternal life in this way, if he will have persevered in grace unto the end; and this indeed is true, and our faith dictates it[^p511-4]. And so the answer to that argument is by elimination of the minor, because the foreknown [to damnation] does not expect eternal life simply, but under a condition. But if anyone, apart from divine revelation, without any condition hopes that he will have eternal life; this is not a movement pertaining to faith and hope, but to a false estimation.
+
+5. To that which is objected, that the act of charity presupposes the act of faith; it must be said that it is true that it presupposes the act of faith as regulating and[^p511-5] directing its act, but it is not necessary that it presuppose the act of faith as concurring upon that object. For everything which charity desires, faith dictates is to be desired, and so directs its act. Yet not everything which charity desires does faith believe, because of many things it happens to say that they are good; but it is false to say that they[^p511-6] are true. For "good" denotes a habitual aptitude and ordering, but "true" denotes actual inherence and existence. Hence it was good for the Apostle to go to Spain, although it was not true; and therefore it was desirable, although it was not believable. For although falsity can stand with the object of charity, because something can be false and good; nevertheless it cannot stand with the object of faith, because the same thing cannot at once be false and true[^p511-7].
+
+6. To that which is objected, that falsity can underlie adoration; it must be said that falsity never underlies the adoration made according to the direction and rule of faith[^p511-8], for the reason that faith says that nothing is to be adored for certain except that of which a certain cognition is had; but concerning that of which certitude is not had, it says it is to be adored on a presupposed condition. Hence every faithful person rightly adoring a consecrated host adores under this condition, if those things which are necessary for consecration according to the divine institution have been duly carried out around it; and so he is never deceived nor errs.
+
+### Scholion
+**I.** The principal principles for solving this question were already laid down above in d. 23, a. 1, q. 4. In the arguments-for and in the response there is intimated a twofold ground of the principal conclusion, the one namely on the side of the formal object, which is the First Truth, which «knows contingent things infallibly, mutable things immutably, future things presentially, temporal things eternally, dependent things independently, created things uncreatedly, things other than itself in itself and through itself» (Breviloq. p. I, c. 8). The other is on the side of the infused habit itself, which is an intellectual virtue and a light infused immediately by God himself. — Almost the whole question turns on dissolving this difficulty, by what reasoning the contingency of several objects pertaining to faith is composed with the certitude of the same [faith]. The solution rests on the distinction between the object of faith considered in itself and the same, insofar as it is believed or related to faith, namely as it stands under the formal object of faith. In the first way a contingent object can be, or not be, and an assertion about it can be falsified; but not in the second way. Yet faith, like the divine prescience itself, does not change the natures of things nor take away their contingency nor impose absolute necessity, which is called [the necessity] of the consequent, but only relative (conditioned) necessity and [the necessity] of the consequence, as is explained in I Sent., d. 38, a. 2, q. 1 and 2 (where in the scholion a certain controversy is noted) and also d. 40, a. 2, q. 1, ad 4. The same difference of opinions, which is indicated in the cited scholion, returns here in the solution to [objection] 3, namely between the patrons of the second and third solution, who nevertheless concordantly reject the first solution as false. For the second opinion grants the major, namely this statement: it is necessary (after the fact) that Abraham believed Christ to be about to be incarnate; but the same [opinion], distinguishing the minor: it was possible that Christ not be incarnate, namely because it was future and contingent, says that "to be incarnate" was contingent, if the discourse is about the thing according to its own nature or in the divided sense, but the same was necessary by the necessity of the consequence (that is, conditionally, not absolutely), if the statement itself is considered, or the incarnation as related to faith, or in the composite sense and conjointly; because it could not be at once that Abraham believed this and yet it did not come about. This solution corresponds to the manner of speaking of St. Thomas and is probable. — But the third solution, which St. Bonaventure holds, denies the major, namely that it is necessary that Abraham believed Christ to be about to be incarnate. This view grants indeed that every statement about the past is necessary, provided the whole statement is about the past; but it denies this when it is so about the past that it at the same time connotes something about the future, on which it depends, because, if a statement embraces at once the necessary and the contingent, the whole is judged contingent, as is more fully declared here and in I Sent., at the cited places. — Another difficulty, which is wont to be objected here, and which is taken from the difference of time and a false determination of it, when someone believed Christ to be about to be incarnate, who at that moment was already incarnate, is solved below in q. 2, ad 3, and q. 3, at the end of the body and ad 1 and 5; cf. d. 25, a. 1, q. 2, and St. Thomas, S. III, q. 1, a. 3, ad 2.
+
+**II.** Alex. of Hales, S. p. III, q. 68, m. 7, a. 1. — Scotus, III Sent., d. 23, q. unica, n. 9 ff., n. 14 f., and Quodl. 14, n. 3 ff. — St. Thomas, here a. 1, sub-question 3; S. art. cit. — Peter of Tarentaise, here a. 1. — Richard of Mediavilla, here q. 3. — Durandus, here q. 2.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the page-prefix in each anchor (`p508`, `p509`, …) preserves that per-page sequence.
+
+[^p508-1]: **La.** Aristot., I. Prior. c. 12: Dico autem contingere et contingens, quo non existente necessario, posito autem in esse, nihil erit propter hoc impossibile. — De minori cfr. supra d. 20. q. 6.
+    **En.** Aristotle, *Prior [Analytics]* I, c. 12: But I call "to be contingent" and "the contingent" that which, not existing necessarily, but being posited in being, nothing will on this account be impossible. — On the minor cf. above d. 20, q. 6.
+
+[^p508-2]: **La.** Cfr. supra pag. 214, nota 3. — Pro obiecto suo edd. cum multis codd. subiecto suo. Paulo inferius pro esse passurum codd. A K fuisse passurum.
+    **En.** Cf. above p. 214, note 3. — For *obiecto suo* the editions with many codices [read] *subiecto suo*. A little below, for *esse passurum* codices A K [read] *fuisse passurum*.
+
+[^p508-3]: **La.** Vide tom. I. pag. 677, nota 6. et pag. 678, nota 1, ubi et illa logica regula tangitur, cuius mentio fit aliquanto inferius. — Post pauca pro si ergo possibile fuit, fidei etc., quam lectionem vere concinnam cod. F nobis tradidit, alii codd. minus congrue ergo possibile fuit, fidei etc., omisso si (solus cod. Z ad corrigendam propositionis structuram postea ante videtur interserit ergo); edd., etiam omisso si, sic: ergo cum possibile erat tunc, fidei etc. Vocula tunc invenitur etiam in nonnullis aliis codd.
+    **En.** See tom. I, p. 677, note 6, and p. 678, note 1, where also that logical rule is touched on, mention of which is made somewhat below. — After a few [words], for *si ergo possibile fuit, fidei* etc., which truly elegant reading cod. F has handed down to us, other codices [read] less fittingly *ergo possibile fuit, fidei* etc., omitting *si* (cod. Z alone, to correct the structure of the proposition, afterwards inserts *ergo* before *videtur*); the editions, also omitting *si*, [read] thus: *ergo cum possibile erat tunc, fidei* etc. The little word *tunc* is found also in some other codices.
+
+[^p508-4]: **La.** August., de Praedest. Sanct. c. 2. n. 5. — Subinde pro cogitavit plurimi codd. cognovit, et pro cogitasse non pauci codd. cognovisse; quae lectio varians etiam infra recurrit in solut. unius obiect., ubi edd. expresse exhibent cognovisse, dum multi codd. verbum cognovisse habere saltem videntur (sunt dubiae lect.); codd. F Y X pro cogitasse substituerunt cognoscere.
+    **En.** Augustine, *On the Predestination of the Saints*, c. 2, n. 5. — Thereupon for *cogitavit* most codices [read] *cognovit*, and for *cogitasse* not a few codices [read] *cognovisse*; which variant reading recurs also below in the solution of one objection, where the editions expressly present *cognovisse*, while many codices at least seem to have the word *cognovisse* (they are of doubtful reading); codices F Y X for *cogitasse* substituted *cognoscere*.
+
+[^p508-5]: **La.** Cfr. supra d. 23. a. 1. q. 1. circa finem corp., ubi et maior seq. arg. insinuatur. — In fine arg. cod. I addit ergo et actui fidei.
+    **En.** Cf. above d. 23, a. 1, q. 1, near the end of the body, where also the major of the following argument is intimated. — At the end of the argument cod. I adds *ergo et actui fidei* [therefore also to the act of faith].
+
+[^p509-1]: **La.** Rom. 15, 24. et 28. — Mox pro qui non ivit edd. et pauci codd. quo tamen non ivit.
+    **En.** Rom. 15:24 and 28. — Presently for *qui non ivit* the editions and a few codices [read] *quo tamen non ivit*.
+
+[^p509-2]: **La.** Vide supra d. 9. a. 2. q. 3. — Pro est ab actu fidei, quam lectionem tuentur codd. A K P Q bb, alii codd. et edd. est actus fidei. Inferius pro adhibita debita edd. 1, 2 adhibita vera, Vat. adhibita vera et debita.
+    **En.** See above d. 9, a. 2, q. 3. — For *est ab actu fidei*, which reading codices A K P Q bb maintain, other codices and the editions [read] *est actus fidei*. Below, for *adhibita debita* editions 1, 2 [read] *adhibita vera*, the Vatican [edition] *adhibita vera et debita*.
+
+[^p509-3]: **La.** Vide infra d. 27. a. 1. q. 4. August., in Epist. Ioan. tr. 7. n. 8: Dilige, et quod vis fac... radix sit intus dilectionis, non potest de ista radice nisi bonum existere.
+    **En.** See below d. 27, a. 1, q. 4. Augustine, *On the [First] Epistle of John*, tr. 7, n. 8: Love, and do what you will... let the root of love be within; from this root nothing but good can come forth.
+
+[^p509-4]: **La.** Epist. 120. ad Consentium. Cfr. supra pag. 501, nota 5.
+    **En.** *Letter* 120, to Consentius. Cf. above p. 501, note 5.
+
+[^p509-5]: **La.** Aristot., II. Ethic. c. 6. Vide supra pag. 482, nota 5. — De minori cfr. Aristot., I. Poster. c. 2. (ubi et maior seq. arg. tangitur) et c. 26. (c. 33.); VI. Ethic. c. 2. seq.
+    **En.** Aristotle, *Ethics* II, c. 6. See above p. 482, note 5. — On the minor cf. Aristotle, *Posterior [Analytics]* I, c. 2 (where also the major of the following argument is touched on) and c. 26 (c. 33); *Ethics* VI, c. 2 f.
+
+[^p509-6]: **La.** Codd. F N U illuminationem. Inferius pro quia ex rebus edd. quae ex rebus.
+    **En.** Codices F N U [read] *illuminationem*. Below, for *quia ex rebus* the editions [read] *quae ex rebus*.
+
+[^p509-7]: **La.** Dist. 38. a. 2. q. 2; d. 39. a. 1. q. 2. ad 3; ibid. a. 2. q. 2. et d. 40. a. 2. q. 1.
+    **En.** Dist. 38, a. 2, q. 2; d. 39, a. 1, q. 2, ad 3; ibid. a. 2, q. 2; and d. 40, a. 2, q. 1.
+
+[^p509-8]: **La.** In edd. et plerisque codd. omittitur licet (codd. I K Z bb et N a secunda manu quamvis).
+    **En.** In the editions and most codices *licet* is omitted (codices I K Z bb, and N by a second hand, [read] *quamvis*).
+
+[^p509-9]: **La.** Pro per se edd. in se codd. M O bb simpliciter. Superius cod. T omittit evenire a Deo. Paulo inferius pro praeviderit cod. U (N a secunda manu) praevidetit.
+    **En.** For *per se* the editions [read] *in se*, codices M O bb *simpliciter*. Above, cod. T omits *evenire a Deo*. A little below, for *praeviderit* cod. U (N by a second hand) [reads] *praevidetit*.
+
+[^p509-10]: **La.** Ita codd. A fl N Z, codd. K U bb quae, sed in aliis et edd. minus bene quod.
+    **En.** Thus codices A fl N Z; codices K U bb [read] *quae*, but in others and in the editions, less well, *quod*.
+
+[^p509-11]: **La.** Sive negationem. Cfr. tom. I. pag. 87, nota 4. — Inferius pro Et sicut cod. U Unde sicut.
+    **En.** Or [by] negation. Cf. tom. I, p. 87, note 4. — Below, for *Et sicut* cod. U [reads] *Unde sicut*.
+
+[^p510-1]: **La.** Libr. de Causis, propos. 12: Causatum ergo in causa est per modum causae, et causa in causato per modum causati. Cfr. supra d. 14. a. 2. q. 1; I. Sent. d. 30. a. 2. q. 2. et d. 39. a. 2. q. 3; ex quibus locc. etiam apparet, nos recte fecisse substituentes ter existentiam pro exigentiam, quam vocem edd. exhibent cum non paucis codd., dum alii codd. sunt dubiae lectionis. Pariter infra in solut. ad 5. lectionem correximus. — Paulo inferius pro quod creditur codd. G H I L N T U V aa bb quod [cod. aa a secunda manu qui] credit, cod. A quod credit quod revelatur etc. Subinde pro sed ab illo cod. G sed ab ipso. Demum verbis a quo dependet codd. A K praemittunt tanquam.
+    **En.** *Book on Causes*, prop. 12: The caused therefore is in the cause after the manner of the cause, and the cause in the caused after the manner of the caused. Cf. above d. 14, a. 2, q. 1; I Sent. d. 30, a. 2, q. 2, and d. 39, a. 2, q. 3; from which places it also appears that we did rightly in substituting three times *existentiam* for *exigentiam*, which word the editions present with not a few codices, while other codices are of doubtful reading. Likewise below in the solution to [objection] 5 we corrected the reading. — A little below, for *quod creditur* codices G H I L N T U V aa bb [read] *quod* [cod. aa by a second hand *qui*] *credit*, cod. A *quod credit quod revelatur* etc. Thereupon for *sed ab illo* cod. G [reads] *sed ab ipso*. Lastly, to the words *a quo dependet* codices A K prefix *tanquam*.
+
+[^p510-2]: **La.** Edd. possibile. Aliquanto inferius pro ad eventum codd. A K aa ad assensum, et subinde pro ad ordinem cod. Z ad rationem.
+    **En.** The editions [read] *possibile*. Somewhat below, for *ad eventum* codices A K aa [read] *ad assensum*, and thereupon for *ad ordinem* cod. Z [reads] *ad rationem*.
+
+[^p510-3]: **La.** Cod. U supplet Christum.
+    **En.** Cod. U supplies *Christum*.
+
+[^p510-4]: **La.** Anselm., II. Cur Deus homo, c. 17. (alias 18.), necessitate distincta in praecedentem (absolutam, consequentis) et in sequentem (relativam, consequentiae), ait: Hac sequenti et nihil efficienti necessitate, quoniam vera fuit fides vel prophetia de Christo, quia ex voluntate, non ex necessitate moriturus erat, necesse fuit, ut sic esset etc. — Paulo ante pro praevidit codd. A aa praevidet.
+    **En.** Anselm, *Cur Deus homo* II, c. 17 (alias 18), the necessity being distinguished into the antecedent (absolute, [the necessity] of the consequent) and the consequent (relative, [the necessity] of the consequence), says: By this consequent necessity, effecting nothing, since the faith or prophecy concerning Christ was true, because he was to die from will, not from necessity, it was necessary that it be so, etc. — A little before, for *praevidit* codices A aa [read] *praevidet*.
+
+[^p510-5]: **La.** In ipsa obiectione.
+    **En.** In the objection itself.
+
+[^p510-6]: **La.** Scil. verbum credidisse. — Pro principalis edd. principalior.
+    **En.** Namely the word *credidisse*. — For *principalis* the editions [read] *principalior*.
+
+[^p510-7]: **La.** Codd. A K bb adiungunt et crederet.
+    **En.** Codices A K bb add *et crederet* [and believed].
+
+[^p510-8]: **La.** Pro et cod. O iuxta.
+    **En.** For *et* cod. O [reads] *iuxta*.
+
+[^p511-1]: **La.** Cod. H sic etiam. Mox ante contingens est etiam codd. A K repetunt sic.
+    **En.** Cod. H [reads] *sic etiam*. Presently before *contingens est etiam* codices A K repeat *sic*.
+
+[^p511-2]: **La.** Dist. 38. a. 2. q. 2, ubi (in fundam.) tres regulae proponuntur. — Pro iudicare cod. M iudicari.
+    **En.** Dist. 38, a. 2, q. 2, where (in the arguments) the three rules are proposed. — For *iudicare* cod. M [reads] *iudicari*.
+
+[^p511-3]: **La.** Ut dicitur infra in lit. Magistri, d. XXVI. c. 1. (cfr. ibid. Comment. dub. 2.), ubi spes describitur. — Paulo inferius pro efficacia cod. U sufficientia.
+    **En.** As is said below in the text of the Master, d. XXVI, c. 1 (cf. ibid. the Commentary, dub. 2), where hope is described. — A little below, for *efficacia* cod. U [reads] *sufficientia*.
+
+[^p511-4]: **La.** Matth. 10, 22: Qui autem perseveraverit usque in finem, hic salvus erit. — De seqq. cfr. I. Sent. d. 40. a. 2. q. 2. ad 1. et 6. — Circa finem solut. pro motus cod. Q modus.
+    **En.** Matt. 10:22: But he who will have persevered unto the end, this one will be saved. — On what follows cf. I Sent. d. 40, a. 2, q. 2, ad 1 and 6. — Near the end of the solution, for *motus* cod. Q [reads] *modus*.
+
+[^p511-5]: **La.** Codd. A G H T ordinem.
+    **En.** Codices A G H T [read] *ordinem*.
+
+[^p511-6]: **La.** Alex. Hal., S. p. III. q. 68. m. 7. a. 1. ad eandem obiectionem sic respondet: Dicendum, quod non est simile de caritate et fide, quia caritas non respicit rationem veri et falsi, sed boni et mali, et potest esse caritas circa bonum, quod non est, volendo illud. Cum enim dicitur: bonum est, Apostolum ire ad Hispanos, non sequitur: quia si bonum est, et verum est; quia hoc verbum est non est ibi copula praesentialitatis, sed tantum enuntiationis, hoc est dicere, non copulat actu et simpliciter, sed habitu et conditionaliter, ut cum dicitur: Pascha est pulcherrimum tempus; omnis homo timet in mari, et huiusmodi. Cfr. IV. Sent. d. 21. p. II. a. 1. q. 2, ubi differentia, quae est inter mentiri et falsum dicere, his verbis tangitur: Falsum vero dici potest frequenter meritorie, cum mens decipitur, et ita credit esse, ut loquitur, sicut dixit Apostolus, se in Hispaniam profecturum.
+    **En.** Alex. of Hales, S. p. III, q. 68, m. 7, a. 1, answers thus to the same objection: It must be said that the case of charity and faith is not alike, because charity does not regard the account of the true and the false, but of the good and the evil, and there can be charity about a good which is not, by willing it. For when it is said, "it is good for the Apostle to go to the Spaniards," it does not follow: because if it is good, it is also true; because this word *est* is not there the copula of presentiality, but only of enunciation, that is to say, it does not couple actually and simply, but habitually and conditionally, as when it is said: "Easter is the most beautiful time"; "every man fears at sea," and the like. Cf. IV Sent. d. 21, p. II, a. 1, q. 2, where the difference between "to lie" and "to speak falsely" is touched on in these words: But the false can frequently be spoken meritoriously, when the mind is deceived, and so believes a thing to be, as it speaks, just as the Apostle said that he would set out for Spain.
+
+[^p511-7]: **La.** Codd. A C H I L T V (aa primitus) bb nunquam tamen. Post pauca pro dicit cod. F dictat.
+    **En.** Codices A C H I L T V (aa originally) bb [read] *nunquam tamen*. After a few [words], for *dicit* cod. F [reads] *dictat*.
+
+[^p511-8]: **La.** Cfr. supra d. 9. a. 1. q. 6. in corp.
+    **En.** Cf. above d. 9, a. 1, q. 6, in the body.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol3-p{508,509,510,511,512}-{L,R}-*.png`) over the IA djvu OCR base (`raw/bonaventure_vol3_raw.txt`, raw lines 35314–35588), per the Vol III PDF-priority inversion. The OCR here is high-quality ABBYY-grade for the running prose; the PDF crops were authoritative for the cascade-fragmented Solutio op. 1 band on p.509 (raw OCR jumbled *ctiicuniqne / falsum, quia / contingens, contingens subesse* — resolved on PDF to *quod cuicumque subest contingens, potest subesse falsum, quia omne contingens potest esse falsum*) and for the scholion openers.
+
+**ARTICULUS I opener folded.** Per the Vol II/III chunking convention (CLAUDE.md Vol II Override step 5), the short ARTICULUS I header + subtitle *De obiecto fidei secundum rem* (raw 35314–35316) folds into this q1; there is no standalone `d24-a1-divisio` chunk. The article's three sub-questions (*Primo, utrum fides sit circa verum tantum…; Secundo… verum creatum an increatum; Tertio… complexum an incomplexum*) are listed in the d24-divisio chunk's TRACTATIO QUAESTIONUM, not repeated here.
+
+**Page-split map (printed → content).**
+- **p.508** (PDF 530): QUAESTIO I header + subtitle, body opener *Circa primum…*, args pro 1–5 (arg. 5 breaks mid-sentence at *ergo et* / foot of page). Footer NOTAE AD COMMENTARIUM nn.1–5 → `[^p508-1..5]`.
+- **p.509** (PDF 531): arg. 5 completes (*actui fidei…*), arg. 6, Sed contra 1–6, CONCLUSIO, Respondeo opens and runs, Solutio op. 1–2 (op. 2 breaks mid-sentence at *non pendet ab ipsa* / foot). Footer NOTAE nn.1–11 → `[^p509-1..11]` (per-page restart; left-column band nn.1–5 = the Sed-contra source/Aristotle/Augustine citations, right-column band nn.6–11 = the Respondeo source citations + variant readings).
+- **p.510** (PDF 532): Solutio op. 2 completes (*re cognita…*), Solutio op. 3 (three modes of speaking re: contingency + prescience). Footer NOTAE nn.1–8 → `[^p510-1..8]`.
+- **p.511** (PDF 533): Solutio op. 3 completes (*cui est conformis…*), Solutio ad 4 (spes), ad 5 (caritas), ad 6 (adoratio); SCHOLION I opens at foot. Footer NOTAE nn.1–8 → `[^p511-1..8]`.
+- **p.512** (PDF 534): SCHOLION I continues (LEFT column only) + SCHOLION II (parallel-author citations); the RIGHT column of p.512 already belongs to QUAESTIO II (q2). No q1 body footers fall on p.512 (its footer band serves the q1 scholion + q2); the scholion-internal references are inline, so no `[^p512-N]` entries.
+
+**Footer ownership.** All NOTAE AD COMMENTARIUM on pp.508–511 are q1's (the d24-divisio took only p.507 n.1, per its hand-off). **32 entries total: p.508 ×5 + p.509 ×11 + p.510 ×8 + p.511 ×8.** Quaracchi restarts footer numbering per printed page; p.509 carries the longest run (nn.1–11), all of which q1 owns since the QUAESTIO I body fills that page's footer band. No footer is shared with a neighboring chunk: q1 opens cleanly at the foot of p.508 (after the divisio's TRACTATIO closes at p.508 top) and closes cleanly into QUAESTIO II on p.512-L.
+
+**Scholion.** Present and verified on PDF (p.511 foot → p.512-L). TWO sections: **I** = the doctrinal scholion (twofold ground of the conclusion; Breviloquium citation; the distinction in-itself vs. as-believed; the three solutions to obj. 3, S. Bonaventure holding the third); **II** = parallel-author citations (Alex. Hal., Scotus, Aquinas, Peter of Tarentaise, Richard of Mediavilla, Durandus). Scholion placed LAST in both language blocks per the parser requirement.
+
+**Seam.** Opens raw 35321 (*Circa primum…*, continuous from the divisio's TRACTATIO close at raw 35317). Closes raw 35588 (scholion II *…hic q. 2.*) immediately before the QUAESTIO II header (raw 35589, *Utrum fides sit circa verum creatum…*).
+
+**[?] flags.** None. The 450 dpi bands were legible throughout; OCR garbles (e.g. *vcrum→verum*, *snbesse→subesse*, *fldei→fidei*, *ctiicuniqne→cuicumque*) were corrected silently where context was unambiguous, per CLAUDE.md OCR cleanup rules.
+
+**Hand-off forwarded:** → **bon-sent-III-d24-a1-q2** (QUAESTIO II — *Utrum fides sit circa verum creatum et increatum, an circa increatum tantum tanquam obiectum proprium*; ARTICULUS I sub-question 2). See `next-session-resume.md`.
