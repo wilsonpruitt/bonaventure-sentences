@@ -4,98 +4,144 @@ volume: 3
 book: 3
 distinctio: 21
 type: littera
-line_start: 30250
-line_end: 30323
-word_count_latin: 1031
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "DISTINCTIO XXI — textus Magistri (littera, Cap. I–II)"
+title_en: "Distinction XXI — the Master's text (Cap. I–II)"
+printed_pages: [434, 435]
+pdf_pages: [456, 457]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 434–435"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (pp.434–435) + IA djvu OCR cross-check (raw lines 30177–30323), fresh literal English translation, full apparatus from the per-page NOTAE AD LIBR. SENTENTIARUM footers (p.434 nn.1–8, p.435 nn.1–9), no [?] flags (2026-06-09)"
 format_version: 1
 ---
 
 # bon-sent-III-d21-littera
 
+## *Distinction XXI — the Master's text (Cap. I–II)*
+
+---
+
 ## Latin
+<!-- page 434 -->
 
-DISTINCTIO XXI.
+# DISTINCTIO XXI.
 
-                minein vixisse, sicnt anle morteoi. Nam in morle sc-          eniin inortuiis tlicitnr Deus, quando mortuus esl homo; iiugo.
-                parala est anima a carne — unde vere ilicilnr Chri-           ila mortuiis dicitur liomo , quando mortua esl paro.
-                sins morltuis — sed ncutrum separatum est a Vcrbo             Separalio animae mors carnis fnit ». — Propter carnem
-^onnrinatnr                                                                   ergo iinitam Verbo, quae inorlua est, tlieitur Deus
-.■era sonlen- Dei;s\ml       Atigiisliiius super loannem ' docet, traclans
-                illutl Domini verbum: Ego ptno unimam meam, ul                mortuus, et propter earncm et aniinam, quae utraque
- HllllHIIH   i.
-                ilerum sumam eam. Nemo toliil eam a me , sed ego              dolorem sensit, dicitur Deus passus, cum Divinitas
-                pono cam a me ipso , et polestulcm habeo ponendi eam          omnis tloloris exors cxisterct. Unde Atigitstinus0: « Ver- Augustinus.
-                el iterum sumendi eam. Hic animam tlicit emissam.             buin caro fnctiim esl, ut pcr carnem panis caelestis
-                A quo emissa est? A sc ipsa non est emissa, qnia se           atl infantes Iransiret; et seciindtun hoc ipsum Verbum
-                ipsam iioii posuit; nec Verbum animam posuit , vel.           crucifixum esl, sed non est miitatum in bomincm;
-                carnein. Caro ergo animam posuit, setl potestale in           homo in illo mutatus est, ut melior fieret, tpiam eral.
-                se manenlis Dcilalis. Potentia ergo Deitatis anima tli-       Per id ergo qnod homo eral, morluus est Deus, et per
-                visa est a earnc, sctl neutrum a Verbo Dei. llntle Au-        itl quod Deus erat, homo excitatus est et resurrexit.
-Aii-n-hiiii
-                gustiiuis": «Vcrbnm,ex quo suscepit hominem, itl              Quidquid passus esl Itomo, non polest tlici non passus
-                cst carncm cl animam. ntiin |uuiti tleposuil anitnam,         Detis, quia Deus eral bomo. Quoinodo potcs dicere, te
- Diiliiiiin 2.
-                ut esset anima a Verbo separata, sed caro posuit ani-         non csse passiim iniuriam , si veslis tua conscinda-
-                inam, quando exspiravit, qua redeunte surrexit. Mors          tur, quamvis vestis tna non sis tti ? Multo inagis crgo,
-                crgo ad lempus carnein et animam separavit, sed neu-          quidqiiid paiitnr caro unita Verbo, tlebet dici pati
-                Iriun a Verbo Dei. Caro igiinr ponit et stiniit animam,       Deus, licct Verbitm nec. mori nec corruinpi nec mutari
-                non potcstatc stta , sed poteslalc inliabitantis carnem       polucrit. Setl tpiidquid hoium passusesl, in carne pas-
-                Deilalis». — Hic evidenler Iraditur, nec aniinam ncc          sns csl ». De boc eliani Ainbrositis in libro lerlio de Ambrosiua.
-                carnem a Verbo Dei in inorte esse divisam, ut aliquo          Spiritu sancto ° ait : « Qtiotl Verbi caro paliebatnr,
-Auguslinus modo soluta fueril uiiio. Undc Augitsliniis conlra Feli-           inanens in carne Vcrbiim in se, pro corporis assiim-
-                cianiim3: « Absil , ut Chrislus sic senserit mortem, ut,      lionc refcrcbai, ui pati ilieerelur, quia caro patieba-
-                quantum in se est, vita vitam perdiderit. Si enim hoc         tur, sicut scriptum esl: Christo in came passo ». —
-                ita essel, vitae fons aruisset. Sensit igitur mortcin p;ir-   Hic docetur, qua ratione Deus vel Dei Filius passus
-                ticipatione linmani affectus, qiicni sponle susceperat;       vel mortuus tliciuir, non qnia morlent senserit, in quan-
-                non nalurae suae perdidii polentiam, pcr qtiam cuncta         tnni Deus est, sed quia caro ei unita morltia est. Se-
-                vivifical. Sic in sepulcro carnem suam commoricntlo           ciindimi tpiam rationcm dicit Aii^iislitms 7 : « Si qtiis di- Angustinus.
-                non descrtiil, sictil in utcro Virginis connascciido for-     xerit atque credideiit, Filium Dei Deum passum, ana-
-                mavit. Mortuus cst ergo , non discedente vila; sicut          tliema sit». Cuiiis tlicti causam, e.x qua intelligentia
-                passus cst, non pereunte polenlia. Nemo tollil animain        sunienda sit, aperiens in codem snbdit: « Si quis
-                eius ab eo, quia potestatcm babct poneodi et suineiuli ».     tlixerit, quod in passione dolorem senliebat Filius Dei
-                — Ecce ct bic habes, Christum non deseruisse car-             Deus, et non caro lantiim cum anima, quam sibi ac-
-                nein in morle, et vitam non tlisccssisse a mortuo, et         ceperat, analhcma sil ». — Sane igiturdici potesl, quod
-                quod sponte tradidit spiritum, non alius extorsil. Unde       mortuus est Deus et non mortuus, passus est Dei Fi-
-Aiubrosius.
-                Ambrosius1: « Emisit Chrislus spiritum, et tamen quasi        lins et non passus, passa est lertia " persona et non
-                arbiter exuendi suscipiendique corporis emisit spiri-         passa, crucifixum est Verbtim et non criieilixum: se-
-                tum, non amisit; pendebat in eriice et omnia commo-           cundum alteram naturam passus est, secundtiin altcram
-         HugO vebat». « Sed unde emisit? Ex carne. Quo einisit?Ad
-                                                                              impassibilis. Unde Ambrosius9: «Generalis isla est (itles, Ambronius
-                Patrem».                                                      quia Christus est Dei Filius et natus ex Virgine, quem
-                                                                              quasi giganlem Prophcta describit, co qttotl biformis
-                                      Cap. II.                                geininaeque nattirae unus sit, consors Divinitatis et cor-
-                                                                              poris ». « ldem ergo patiebatur et non patiebatur, mo- Dubium 3.
-            Qua ratione dicilur Cliristus morluus vel passus.                 riebator et non moriebatur, sepeliebatur ct non sepelie-
-                                                                              batur, resurgebat et non resurgebal ; resurgebal se-
-                    « Recedente vero anima, morltia est caro Christi;         cundiim carnem, quae mortua fuerat, non secundum
- pe  separa-ic et quia cat'o mortun cst, morluus est Christus. Sicut
-tioue niiin                                                                   Verbum , quod apud Deum seinper mauebat » .
+### Cap. I.
 
+*Si in Christi morte separata fuit anima, vel caro a Verbo.*
 
+Post praedicta considerandum est, utrum in morte[^p434-1] a Verbo sit separata anima, vel caro. — Quidam putaverunt, carnem, sicut ab anima, ita a Divinitate in morte fuisse divisam. Si enim, inquiunt, anima media Divinitas carnem sibi univit, sicut superius[^p434-2] praetaxatum est: ergo quando divisa est caro ab anima, divisa est etiam a Divinitate, quia non potuit ab anima seiungi, per quam Verbo erat unita, quin a Verbo divideretur. Fuit autem divisa ab anima in morte, alioquin vera mors ibi non fuisset, quia, ut ait Augustinus[^p434-3], «mors, quam timent homines, separatio est animae a carne; mors autem, quam non timent, separatio est animae a Deo. Utraque vero diaboli suasu homini propinata est». Si ergo in Christo homine vera mors fuit, divisa est ibi anima ac per hoc Divinitas a carne. Huic suae probabilitati addunt auctoritatis testimonium. Ambrosius[^p434-4] enim, tractans de Christi derelictione, qui in cruce, voce magna clamans, dixit: *Deus, Deus meus! ut quid me dereliquisti?* ait: «Clamat homo separatione Divinitatis moriturus. Nam cum Divinitas mortis libera sit, utique mors ibi esse non poterat, nisi vita discederet, quia Divinitas est». — Hic videtur tradi, quod Divinitas separata sit in morte ab homine, quae nisi discessisset, homo ille mori non posset. Quod illi ad *carnem* referunt, quam dicunt a Deo separatam. — Quibus respondemus, illam *separationem* sic esse accipiendam, sicut intelligitur *derelictio*, quae illis verbis significatur: *Ut quid me dereliquisti?* Quomodo igitur Christus *derelictus* erat a Patre, cum in cruce se derelictum clamabat? Non recesserat Deus ab homine, ita quod esset soluta unio Dei et hominis. Alioquin fuit quoddam tempus, quando Christus, adhuc vivus, *homo* erat et non *Deus*; quia, adhuc vivus, se *derelictum* clamabat, non *derelinquendum*. Si ergo illa derelictio unionis intelligatur *solutio*, ante facta fuit solutio Dei et hominis, quam Christus mortuus esset; sed quis hoc dicat? Fateamur igitur, Deum quodam modo illum hominem in morte deseruisse, quia potestati persequentium eum exposuit ad tempus, non suam potentiam exercendo illum defendit, ut non moreretur. Separavit se Divinitas, quia subtraxit protectionem, sed non solvit unionem; separavit se foris, ut non adesset ad defensionem, sed non intus defuit ad unionem. Si non ibi cohibuisset potentiam, sed exercuisset; non moreretur Christus. Mortuus est Christus, Divinitate recedente, id est effectum potentiae in defendendo non exhibente. Hic est hircus apopompaeus, qui, altero hirco immolato, in solitudinem mittebatur, ut legitur in Levitico[^p434-5]. «Duo enim hirci humanitas et Divinitas Christi intelliguntur. Humanitate igitur immolata, Divinitas in solitudinem abiit, id est in caelum. Unde Hesychius super Leviticum: In solitudinem, id est in caelum, tempore passionis Divinitas abiisse dicitur, non locum mutans, sed quodam modo virtutem cohibens, ut possent impii consummare passionem. Abiit ergo, id est, virtutem cohibuit, et portavit iniquitates nostras, non ut haberet, sed ut consumeret. Deus enim ignis consumens est». — Ex his satis ostenditur, praemissa verba Ambrosii sic esse accipienda, ut praediximus.
 
+Alii quoque auctoritati innituntur, qui asserunt, Divinitatem in morte recessisse ab homine secundum carnem. Ait enim Athanasius[^p434-6]: «Maledictus, qui totum hominem, quem assumsit Dei Filius, denuo assumtum vel liberatum, tertia die a mortuis resurrexisse non confitetur. Fiat, fiat». Si, inquiunt, denuo assumtus est homo in resurrectione, quem assumserat in incarnatione; deposuit ergo eum in morte: separata ergo fuit Divinitas in morte ab humanitate. — Quibus respondemus, quod si his verbis assumtio talis intelligatur, quae sit[^p434-7] secundum *unionem*; non carnem tantum, sed totum hominem, id est animam et carnem, denuo sibi univit in resurrectione, quia non simpliciter *hominem*, sed *totum hominem assumtum* dicit. Totum igitur hominem in morte deposuit, id est animam et carnem. Sed quod, nisi hostis veritatis, dicat *animam* a Verbo *depositam*? Et tamen, nisi hoc fateantur, quod *totus* homo sit assumtus, non pro eis facit illa auctoritas, quae *totum* dicit assumtum. Sciendum est igitur, Athanasium id dixisse contra illorum perfidiam, qui resurrectionem Christi negabant putantes, morte detineri qui solus *inter mortuos liber*[^p434-8] est. Ideo illum maledicit, qui non confitetur, *totum* hominem, denuo assumtum, resurrexisse, id est, Christum animam denuo corpori coniunxisse et in illis duobus, denuo coniunctis in resurrectione, vere secundum ho-
 
-              1 Tract. 47. n. 1 1 , sententialiter , sed magis ad verbum           5 Enarrat. in Ps. 130. n. 10. In quo tevtu post resurrexit
-         apud Hugonem , II. de Sacram. p. I. c. 1 1 . Verba Scriplurae        sola Vat. cum originali adiicit el ascendit in caelum.
-         sunt Ioan. 10, 17. 18.                                                    6 Nunc inscripto de Incamat. dominicae sacram. c. 5. n.
-              5 Ibid., sed ad verbum apud Lyranum loan. 10, 17.               ii, ubi respicitur I. Petr. 4, I.
-              3 De Unitate Trin. c. 14. (inter opera August.).                     7 Serm. 233. (alias 129. de Temp.) n. 2, nunc invenitur
-              * De Incarnat. dominicae sacram. c. 5. n. 39. In quo loco       in appendice. — Pro sumenda sit, codd. BCDE et edd. 1, 7,
-         codd. ABCD et edd., exceptis 4, 8 et Vat., perperam habenl           8 sumenda esl. — Seq. locus ibid. n. 3.
-         eruendi suspendendique pro exuendi suscipiendique , quod lia-             8 Cfr. pag. 299, nola 2.
-         bet originale. — Seq. locus est Httgonis a S. Vict., II. de Sa-           9 De Incarnat. dominicae sacram. c. 5. n. 35, ubi respici-
-         cram. p. I. c. II, qui excurrit in sequens capitulum.                tur Ps. 18, 6. Seq. locus est ibid. n. 36.
-        436                                               SENTENTIARUM LIB. III.
+<!-- page 435 -->
+
+-minem vixisse, sicut ante mortem. Nam in morte separata est anima a carne — unde vere dicitur Christus mortuus — sed neutrum separatum est a *Verbo Dei*; sicut Augustinus super Ioannem[^p435-1] docet, tractans illud Domini verbum: *Ego pono animam meam, ut iterum sumam eam. Nemo tollit eam a me, sed ego pono eam a me ipso, et potestatem habeo ponendi eam et iterum sumendi eam.* Hic animam dicit *emissam*. A quo emissa est? A *se ipsa* non est emissa, quia se ipsam non posuit; nec *Verbum* animam posuit, vel carnem. *Caro* ergo animam posuit, sed potestate in se manentis Deitatis. Potentia ergo Deitatis anima divisa est a carne, sed neutrum a Verbo Dei. Unde Augustinus[^p435-2]: «Verbum, ex quo suscepit hominem, id est carnem et animam, nunquam deposuit animam, ut esset anima a Verbo separata, sed caro posuit animam, quando exspiravit, qua redeunte surrexit. Mors ergo ad tempus carnem et animam separavit, sed neutrum a Verbo Dei. *Caro* igitur ponit et sumit animam, non potestate sua, sed potestate inhabitantis carnem Deitatis». — Hic evidenter traditur, nec animam nec carnem a Verbo Dei in morte esse divisam, ut aliquo modo soluta fuerit unio. Unde Augustinus contra Felicianum[^p435-3]: «Absit, ut Christus sic senserit mortem, ut, quantum in se est, vita vitam perdiderit. Si enim hoc ita esset, vitae fons aruisset. Sensit igitur mortem participatione humani affectus, quem sponte susceperat; non naturae suae perdidit potentiam, per quam cuncta vivificat. Sic in sepulcro carnem suam commoriendo non deseruit, sicut in utero Virginis connascendo formavit. Mortuus est ergo, non discedente vita; sicut passus est, non pereunte potentia. Nemo tollit animam eius ab eo, quia potestatem habet ponendi et sumendi». — Ecce et hic habes, Christum non deseruisse carnem in morte, et vitam non discessisse a mortuo, et quod sponte tradidit spiritum, non alius extorsit. Unde Ambrosius[^p435-4]: «Emisit Christus spiritum, et tamen quasi arbiter exuendi suscipiendique corporis emisit spiritum, non amisit; pendebat in cruce et omnia commovebat». «Sed unde emisit? Ex carne. Quo emisit? Ad Patrem».
+
+### Cap. II.
+
+*Qua ratione dicitur Christus mortuus vel passus.*
+
+«Recedente vero anima, mortua est caro Christi; et quia caro mortua est, mortuus est Christus. Sicut enim mortuus dicitur Deus, quando mortuus est homo; ita mortuus dicitur homo, quando mortua est caro. Separatio animae mors carnis fuit». — Propter carnem ergo unitam Verbo, quae mortua est, dicitur Deus mortuus, et propter carnem et animam, quae utraque dolorem sensit, dicitur Deus *passus*, cum Divinitas omnis doloris exors existeret. Unde Augustinus[^p435-5]: «Verbum caro factum est, ut per carnem panis caelestis ad infantes transiret; et secundum hoc ipsum Verbum crucifixum est, sed non est mutatum in hominem; homo in illo mutatus est, ut melior fieret, quam erat. Per id ergo quod *homo* erat, mortuus est Deus, et per id quod Deus erat, homo excitatus est et resurrexit. Quidquid passus est homo, non potest dici non passus Deus, quia *Deus* erat homo. Quomodo potes dicere, te non esse passum iniuriam, si vestis tua conscindatur, quamvis vestis tua non sis tu? Multo magis ergo, quidquid patitur caro unita Verbo, debet dici pati Deus, licet Verbum nec mori nec corrumpi nec mutari potuerit. Sed quidquid horum passus est, in carne passus est». De hoc etiam Ambrosius in libro tertio de Spiritu sancto[^p435-6] ait: «Quod Verbi caro patiebatur, manens in carne Verbum in se, pro corporis assumptione referebat, ut pati diceretur, quia caro patiebatur, sicut scriptum est: *Christo in carne passo*». — Hic docetur, qua ratione Deus vel Dei Filius *passus* vel *mortuus* dicitur, non quia mortem senserit, in quantum Deus est, sed quia caro ei unita mortua est. Secundum quam rationem dicit Augustinus[^p435-7]: «Si quis dixerit atque crediderit, Filium Dei Deum passum, anathema sit». Cuius dicti causam, ex qua intelligentia sumenda sit, aperiens in eodem subdit: «Si quis dixerit, quod in passione dolorem sentiebat Filius Dei Deus, et non caro tantum cum anima, quam sibi acceperat, anathema sit». — Sane igitur dici potest, quod mortuus est Deus et non mortuus, passus est Dei Filius et non passus, passa est tertia[^p435-8] persona et non passa, crucifixum est Verbum et non crucifixum: secundum alteram naturam passus est, secundum alteram impassibilis. Unde Ambrosius[^p435-9]: «Generalis ista est fides, quia Christus est Dei Filius et natus ex Virgine, quem quasi gigantem Propheta describit, eo quod biformis geminaeque naturae unus sit, consors Divinitatis et corporis». «Idem ergo patiebatur et non patiebatur, moriebatur et non moriebatur, sepeliebatur et non sepeliebatur, resurgebat et non resurgebat; resurgebat secundum carnem, quae mortua fuerat, non secundum Verbum, quod apud Deum semper manebat».
+
+---
 
 ## English
+<!-- page 434 -->
 
-[Translation pending]
+# DISTINCTION XXI.
+
+### Chapter I.
+
+*Whether in Christ's death the soul, or the flesh, was separated from the Word.*
+
+After the foregoing, it must be considered whether in death[^p434-1] the soul, or the flesh, was separated from the Word. — Some have supposed that the flesh was divided in death from the Divinity just as it was from the soul. For if, they say, the Divinity united the flesh to itself with the soul as intermediary, as was set forth above[^p434-2]: then when the flesh was divided from the soul, it was also divided from the Divinity, since it could not be sundered from the soul — through which it was united to the Word — without being divided from the Word. But it was divided from the soul in death, otherwise there would not have been a true death there, because, as Augustine says[^p434-3], «the death which men fear is the separation of the soul from the flesh; but the death which they do not fear is the separation of the soul from God. And both were brought near to man by the devil's persuasion». If, then, there was a true death in Christ the man, the soul, and through this the Divinity, was there divided from the flesh. To this their plausible view they add the testimony of an authority. For Ambrose[^p434-4], treating of Christ's forsakenness — he who on the cross, crying out with a loud voice, said: *My God, my God! why hast thou forsaken me?* — declares: «The man cries out as about to die by the separation of the Divinity. For since the Divinity is free of death, assuredly death could not be there unless life withdrew, because the Divinity is life». — Here it seems to be handed down that the Divinity was separated in death from the man, and that unless it had departed, that man could not die. This they refer to the *flesh*, which they say was separated from God. — To them we reply that that *separation* must be understood just as the *forsaking* is understood, which is signified by those words: *Why hast thou forsaken me?* In what way, then, was Christ *forsaken* by the Father, when on the cross he cried out that he was forsaken? God had not withdrawn from the man in such a way that the union of God and man was dissolved. Otherwise there would have been some time when Christ, while still alive, was *man* and not *God*; because, while still alive, he cried out that he was *forsaken*, not *to be forsaken*. If, then, that forsaking is understood as a *dissolution* of the union, the dissolution of God and man would have taken place before Christ had died; but who would say this? Let us therefore confess that God in a certain manner abandoned that man in death, because he exposed him for a time to the power of his persecutors, not exercising his own power to defend him so that he might not die. The Divinity separated itself, because it withdrew protection, but it did not dissolve the union; it separated itself outwardly, so as not to be present for defense, but it was not inwardly absent from the union. If it had not there restrained its power, but had exercised it, Christ would not have died. Christ died with the Divinity withdrawing, that is, not exhibiting the effect of its power in defending. This is the scapegoat (hircus apopompaeus), which, when the other goat had been immolated, was sent into the wilderness, as we read in Leviticus[^p434-5]. «For by the two goats the humanity and the Divinity of Christ are understood. When therefore the humanity had been immolated, the Divinity went off into the wilderness, that is, into heaven. Whence Hesychius on Leviticus: Into the wilderness, that is into heaven, the Divinity is said to have gone off at the time of the passion, not changing place, but in a certain manner restraining its power, that the wicked might be able to consummate the passion. It went off, then, that is, it restrained its power, and *bore our iniquities*, not that it might have them, but that it might consume them. For our God is a consuming fire». — From these things it is sufficiently shown that the aforesaid words of Ambrose are to be understood as we have said.
+
+Others too rely on an authority, who assert that the Divinity withdrew in death from the man according to the flesh. For Athanasius says[^p434-6]: «Cursed be he who does not confess that the whole man, whom the Son of God assumed, was assumed anew, or set free, and rose again from the dead on the third day. Be it, be it». If, they say, the man was assumed anew in the resurrection whom he had assumed in the incarnation, then he laid him down in death: therefore the Divinity was separated in death from the humanity. — To them we reply that, if by these words an assumption be understood which is[^p434-7] according to *union*; he united to himself anew in the resurrection not the flesh only, but the whole man, that is, the soul and the flesh, since he says not simply *the man*, but *the whole man assumed*. He laid down, therefore, the whole man in death, that is, the soul and the flesh. But who, save an enemy of the truth, would say that the *soul* was *laid down* by the Word? And yet, unless they confess that the *whole* man was assumed, that authority does not serve them which says that the *whole* was assumed. It must therefore be known that Athanasius said this against the perfidy of those who denied the resurrection of Christ, supposing that he was held by death who alone is *free among the dead*[^p434-8]. Therefore he curses him who does not confess that the *whole* man, assumed anew, rose again — that is, that Christ rejoined the soul to the body anew, and in those two, joined anew in the resurrection, truly lived as a man, as before death.
+
+<!-- page 435 -->
+
+For in death the soul was separated from the flesh — whence Christ is truly said to have died — but neither was separated from the *Word of God*; as Augustine teaches on John[^p435-1], treating that word of the Lord: *I lay down my soul, that I may take it up again. No one takes it from me, but I lay it down of my own self, and I have power to lay it down and to take it up again.* Here he calls the soul *sent forth*. By whom was it sent forth? It was not sent forth *by itself*, because it did not lay down itself; nor did the *Word* lay down the soul, or the flesh. The *flesh*, therefore, laid down the soul, but by the power of the Deity remaining in it. By the power of the Deity, therefore, the soul was divided from the flesh, but neither from the Word of God. Whence Augustine[^p435-2]: «The Word, from when it took up the man — that is, flesh and soul — never laid down the soul, so that the soul should be separated from the Word, but the flesh laid down the soul when it expired, and on its return rose again. Death, then, separated flesh and soul for a time, but neither from the Word of God. The *flesh*, therefore, lays down and takes up the soul, not by its own power, but by the power of the Deity dwelling in the flesh». — Here it is plainly handed down that neither the soul nor the flesh was divided from the Word of God in death, so that the union was in any way dissolved. Whence Augustine against Felician[^p435-3]: «Far be it that Christ should so have undergone death that, so far as in him lay, life should have lost life. For if it were so, the fount of life would have dried up. He felt death, therefore, by the participation of human affection, which he had taken on willingly; he did not lose the power of his own nature, by which he gives life to all things. Thus in the sepulchre, by dying together with it, he did not desert his own flesh, just as in the Virgin's womb, by being born together with it, he formed it. He died, therefore, with life not departing; just as he suffered, with power not perishing. No one takes his soul from him, because he has power to lay it down and to take it up». — Behold, here too you have it that Christ did not desert the flesh in death, and that life did not depart from the dead one, and that he willingly handed over the spirit, and no other forced it from him. Whence Ambrose[^p435-4]: «Christ sent forth the spirit, and yet, as one who is master of putting off and taking up the body, he sent forth the spirit, he did not lose it; he hung upon the cross and moved all things». «But whence did he send it forth? From the flesh. Whither did he send it? To the Father».
+
+### Chapter II.
+
+*By what account Christ is said to have died or suffered.*
+
+«But when the soul withdrew, the flesh of Christ died; and because the flesh died, Christ died. For just as God is said to have died, when the man died; so the man is said to have died, when the flesh died. The separation of the soul was the death of the flesh». — On account, then, of the flesh united to the Word, which died, God is said to have died; and on account of the flesh and the soul, which both felt pain, God is said to have *suffered*, although the Divinity was free of all pain. Whence Augustine[^p435-5]: «The Word was made flesh, that through the flesh the bread of heaven might pass to little ones; and according to this very thing the Word was crucified, but it was not changed into the man; the man was changed in him, that he might become better than he was. By that, then, which was *man*, God died, and by that which was God, the man was raised up and rose again. Whatever the man suffered cannot be said not to be suffered by God, because *God* was man. How can you say that you have not suffered an injury, if your garment is torn, although your garment is not you? Much more, then, whatever the flesh united to the Word suffers, God must be said to suffer, although the Word could neither die nor be corrupted nor be changed. But whatever of these he suffered, he suffered in the flesh». Of this also Ambrose in the third book *On the Holy Spirit*[^p435-6] says: «What the flesh of the Word suffered, the Word, remaining in the flesh, referred to itself, on account of the assumption of the body, so that it was said to suffer, because the flesh was suffering, as it is written: *Christ having suffered in the flesh*». — Here it is taught by what account God, or the Son of God, is said to have *suffered* or *died*: not because he felt death insofar as he is God, but because the flesh united to him died. According to which account Augustine says[^p435-7]: «If anyone shall say and believe that the Son of God, God, suffered, let him be anathema». And, opening up the reason of this saying, from what understanding it is to be taken, he adds in the same place: «If anyone shall say that in the passion the Son of God, God, felt pain, and not the flesh only with the soul which he had taken to himself, let him be anathema». — Rightly, therefore, it can be said that God both died and did not die, that the Son of God both suffered and did not suffer, that the third[^p435-8] Person both suffered and did not suffer, that the Word was both crucified and not crucified: according to the one nature he suffered, according to the other he is impassible. Whence Ambrose[^p435-9]: «This is the general faith, that Christ is the Son of God and born of the Virgin, whom the Prophet describes as it were a giant, in that he is one of twofold and twin nature, a partaker of Divinity and of body». «The same, therefore, both suffered and did not suffer, both died and did not die, was both buried and not buried, both rose again and did not rise again; he rose again according to the flesh, which had died, not according to the Word, which abode ever with God».
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page, so the markers are namespaced by printed page (`p434-N`, `p435-N`). They render the *NOTAE AD LIBR. SENTENTIARUM* footers at the foot of each page.
+
+[^p434-1]: **La.** Vat. cum aliquibus edd. hic addit *Christi*, et infra post *putaverunt* adiicit *tunc*. — Cfr. de hac dist. Hugo de S. Vict., Sum. Sent. tr. I. c. 19.
+    **En.** The Vatican edition, with some editions, here adds *of Christ*, and further on, after *putaverunt* (have supposed), adds *tunc* (then). — Cf. on this distinction Hugh of St. Victor, *Summa Sententiarum*, tr. I, c. 19.
+
+[^p434-2]: **La.** Dist. II. c. 2. — Pro *praetaxatum* edd. 1, 8 *praetactum*.
+    **En.** Dist. II, c. 2. — For *praetaxatum* (set forth) editions 1, 8 read *praetactum* (touched on before).
+
+[^p434-3]: **La.** Enarrat. in Ps. 48. serm. 2. n. 2. — In quo textu edd. 1, 8 pro *suasu* habent *suasionibus*, originale vero *persuasione*. — Infra post *ibi anima* Vat. et edd. 2, 6, 7 addunt *a carne*.
+    **En.** *Enarration on Psalm 48*, sermon 2, n. 2. — In which text editions 1, 8 for *suasu* (persuasion) have *suasionibus*, but the original *persuasione*. — Below, after *ibi anima* (the soul there), the Vatican edition and editions 2, 6, 7 add *a carne* (from the flesh).
+
+[^p434-4]: **La.** In Evang. Lucae X. n. 127, ubi respicitur Matth. 27, 46.
+    **En.** *On the Gospel of Luke* X, n. 127, where Matt. 27:46 is referred to.
+
+[^p434-5]: **La.** Cap. 16, 6-10. Apopompaeus (ἀποπομπαῖος) est *emissarius*. Quae sequuntur sunt in Glossa ad praetactum locum apud Lyranum et apud Hesychium ad eundem locum, sed mutato propositionum ordine. Ibi respicitur Isai. 53, 11; Deuter. 4, 24.
+    **En.** [Leviticus] c. 16:6-10. *Apopompaeus* (ἀποπομπαῖος, Greek) means *emissary* [the goat sent away]. What follows is found in the Gloss on the aforesaid passage in Lyra and in Hesychius on the same passage, but with the order of the clauses altered. There Isa. 53:11 and Deut. 4:24 are referred to.
+
+[^p434-6]: **La.** Apud Vigilium Taps. VI. de Trin., cuius VI. libri titulus est *de Beatitudine fidei et de proscriptione sectae pessimae*. Exhibetur ibi haeretico respondens Athanasius, in cuius tamen operibus excusis haec verba non inveniuntur. Magister ista transcripsit ex Hugone loc. cit., qui tamen cum Alexandro Hal. falso nominat *Anastasium* pro *Athanasio*.
+    **En.** In Vigilius of Thapsus, *On the Trinity* VI, whose sixth book has the title *On the Blessedness of Faith and on the Proscription of a Most Wicked Sect*. There Athanasius is presented answering a heretic, though in his printed works these words are not found. The Master transcribed these things from Hugh, at the place cited, who however, together with Alexander of Hales, wrongly names *Anastasius* in place of *Athanasius*.
+
+[^p434-7]: **La.** Vat. et edd., exceptis 4, 8, cum cod. E *fit*.
+    **En.** The Vatican edition and the editions, except 4, 8, with codex E read *fit* [for *sit*].
+
+[^p434-8]: **La.** Psalm. 87, 6.
+    **En.** Psalm 87 [88]:6.
+
+[^p435-1]: **La.** Tract. 47. n. 11, sententialiter, sed magis ad verbum apud Hugonem, II. de Sacram. p. I. c. 11. Verba Scripturae sunt Ioan. 10, 17. 18.
+    **En.** [Augustine, *Tractates on John*] tract. 47, n. 11, according to the sense, but more verbatim in Hugh, *On the Sacraments* II, p. I, c. 11. The words of Scripture are John 10:17-18.
+
+[^p435-2]: **La.** Ibid., sed ad verbum apud Lyranum Ioan. 10, 17.
+    **En.** Ibid. [tract. 47], but verbatim in Lyra on John 10:17.
+
+[^p435-3]: **La.** De Unitate Trin. c. 14. (inter opera August.).
+    **En.** *On the Unity of the Trinity* c. 14 (among the works of Augustine).
+
+[^p435-4]: **La.** De Incarnat. dominicae sacram. c. 5. n. 39. In quo loco codd. ABCD et edd., exceptis 4, 8 et Vat., perperam habent *eruendi suspendendique* pro *exuendi suscipiendique*, quod habet originale. — Seq. locus est Hugonis a S. Vict., II. de Sacram. p. I. c. 11, qui excurrit in sequens capitulum.
+    **En.** *On the Sacrament of the Lord's Incarnation* c. 5, n. 39. In which place codices ABCD and the editions, except 4, 8 and the Vatican, wrongly have *eruendi suspendendique* for *exuendi suscipiendique* (of putting off and taking up), which the original has. — The following passage is from Hugh of St. Victor, *On the Sacraments* II, p. I, c. 11, which runs over into the next chapter.
+
+[^p435-5]: **La.** Enarrat. in Ps. 130. n. 10. In quo textu post *resurrexit* sola Vat. cum originali adiicit *et ascendit in caelum*.
+    **En.** *Enarration on Psalm 130* [131], n. 10. In which text, after *resurrexit* (rose again), the Vatican edition alone, with the original, adds *and ascended into heaven*.
+
+[^p435-6]: **La.** Nunc inscripto *de Incarnat. dominicae sacram.* c. 5. n. 44, ubi respicitur I. Petr. 4, 1.
+    **En.** Now entitled *On the Sacrament of the Lord's Incarnation* c. 5, n. 44, where 1 Pet. 4:1 is referred to.
+
+[^p435-7]: **La.** Serm. 233. (alias 129. de Temp.) n. 2, nunc invenitur in appendice. — Pro *sumenda sit*, codd. BCDE et edd. 1, 7, 8 *sumenda est*. — Seq. locus ibid. n. 3.
+    **En.** Sermon 233 (otherwise 129, *de Tempore*) n. 2, now found in the appendix [to Augustine's works]. — For *sumenda sit*, codices BCDE and editions 1, 7, 8 read *sumenda est*. — The following passage is ibid., n. 3.
+
+[^p435-8]: **La.** Cfr. pag. 299, nota 2.
+    **En.** Cf. p. 299, note 2.
+
+[^p435-9]: **La.** De Incarnat. dominicae sacram. c. 5. n. 35, ubi respicitur Ps. 18, 6. Seq. locus est ibid. n. 36.
+    **En.** *On the Sacrament of the Lord's Incarnation* c. 5, n. 35, where Ps. 18 [19]:6 is referred to. The following passage is ibid., n. 36.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from 450 dpi PDF column bands of printed pp.434–435 (PDF 456–457), cross-checked against the IA djvu OCR (`bonaventure_vol3_raw.txt` raw lines 30177–30323). Per the Vol II/III PDF-priority override, the heavily two-column-shattered OCR was treated as secondary; the PDF column bands are authoritative for the running prose, and the OCR was used for cross-checking footnote-marker spacing.
+
+**Type.** `littera` (the Master's / Lombard's text for DISTINCTIO XXI), Cap. I–II. `has_scholion: false` (littera carries no scholion). `has_apparatus: true` — the per-page *NOTAE AD LIBR. SENTENTIARUM* footers.
+
+**Page-split map.**
+- **p.434** (PDF 456): DISTINCTIO XXI opens at the top of this page (in the R column, immediately after the d.20-dubia tail *…saluberrimum toti mundo¹* — that note belongs to d.20, NOT here). **Cap. I.** *Si in Christi morte separata fuit anima, vel caro a Verbo* runs the full L column (*Post praedicta…* → *Determinatio vera*) and the full R column (*…protectionem… → …vere secundum ho-*). Footer = *NOTAE AD LIBR. SENTENTIARUM* **nn.1–8** (`[^p434-1..8]`).
+- **p.435** (PDF 457): Cap. I continues (*-minem vixisse…* → *…Ad Patrem*), then **Cap. II.** *Qua ratione dicitur Christus mortuus vel passus* runs to the littera's close *…apud Deum semper manebat ».*. Footer = *NOTAE AD LIBR. SENTENTIARUM* **nn.1–9** (`[^p435-1..9]`). Page-break placed at the mid-word seam *vere secundum ho-* / *-minem vixisse* (raw 30248→30252).
+
+**Apparatus count.** 17 entries total (p.434 nn.1–8; p.435 nn.1–9). Numbering restarts per printed page.
+
+**Hand-off picked up.** From d.20 dubia (commit 2d8e02c): the d.20 dubia close at *…saluberrimum toti mundo* sits in p.434's R-column top; DISTINCTIO XXI opens fresh below it with its own *NOTAE AD LIBR. SENTENTIARUM*. Seam confirmed CLEAN — no grammatical splice, no migrating footer (the p.434 note ¹ above the littera NOTAE header, *Cfr. de hoc dubio B. Albert…*, is the d.20-dubia footer, already held by the d.20-dubia chunk).
+
+**Hand-off forwarded.** See `next-session-resume.md`: next chunk is **d21-divisio** (COMMENTARIUS IN DISTINCTIONEM XXI + DIVISIO TEXTUS) at raw line **30324**, printed **p.436** (PDF 458).
+
+**[?] flags.** None — pp.434–435 fully legible at 450 dpi.
