@@ -6,291 +6,269 @@ distinctio: 23
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 32685
-line_end: 32952
-word_count_latin: 4405
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Utrum fides sit virtus"
+title_en: "Whether faith is a virtue"
+printed_pages: [470, 471, 472, 473, 474]
+pdf_pages: [492, 493, 494, 495, 496]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 470–474"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (vol3 p.470–474 L/R) over IA djvu OCR base (raw lines 32685–32952), fresh literal English translation, full apparatus from raw OCR (25 body footers, p.470 ×8 + p.471 ×9 + p.472 ×8), scholion I–IV (sub-points 1–8) from OCR with no [?] flags (2026-06-10)"
 format_version: 1
 ---
 
 # bon-sent-III-d23-a1-q1
 
+## *Utrum fides sit virtus*
+
+---
+
 ## Latin
+<!-- page 470 -->
 
-QUAESTIO I.
-                                                                Utrum fides sit virtus.
+### Articulus I. *De fide simpliciter dicta sive formata.*
+### Quaestio I. *Utrum fides sit virtus.*
 
-                Circa primum sic proceditur et quaeritur, utrum                       4. Item, quod directam habet contrarietatem
-          fides sit virtus; et loquimur hic de fide, qua quis                   ad vitium et peccatum virtus est; sed fides est hu-
-          credit in Deum. Et quod sic, ostenditur.                              iusmodi, quoniam directe opponitur haeresi et infi-
-                1. Quod est principium nostrae salutis habet                    delitati , quae sunt vitia et peccata: ergo fides est
-F.mnamenia.rationem virtutis ; sed fides est huiusmodi , secun-                 virtus proprie dicta; et hoc ipsum potest probari
-          dum quod saepe dicitur in Evangelio 3 : Fides tua                     expresse per auctoritatem Augustini in littera6.
-          te salvum fecit: ergo fides est virtus.                                     Sed contra: 1. «In eodem genere sunt ex,- Ad t°pp°si-
-                2. Item, quod est principium purificationis cor-                trema et medium», pro eo quod medium participat
-          dis habet rationem virtutis — sicut enim cor non                      naturam extremorum; sed fides est media inter
-          inquinalur nisi per vitium, sic non purificatur nisi                  opinionem et scientiam, sicut dicit magister Hugo
-          per virtutem — sed fides est principium purificatio-                  in libro de Sa.cramentis7, ubi dicit, quod «fidesest
-         nis cordis, secundum quod dicitur Actuum decimo                        certitudo de rebus absentibus, supra opinionem et
-          quinto ' : Fide purificans corda eorum : ergo etc.                    infra scientiam constituta»: si igitur nec opinio nec
-                3. Item, omnis habilus, qui est principium di-                  scientia esl in genere virtutis, necessario sequi vi-
-          vinae acceptionis, habet rationem virtutis, maxime                    detur, quod nec fides in genere virtulis contineatur.
-          cum respicit determinatum genus operis; sed fides                           2. Item, «habitus distinguuntur per aclus, et
-          est huiusmodi , secundum quod dicitur ad Hebraeos                     actus per obiecta»; in hoc autem distinguilur virtus
-         undecimo5: Sine fide impossibile est placere Deo:                      et scientia secundum Philosophum s, quod « virtus
-         ergo fides plenam et perfectam in se continet ratio-                   est in bonum, et scientia est in verum»; sed fides
-          nem virtutis.                                                         est in verum sub ratione veri: ergo fides non est
+Circa primum sic proceditur et quaeritur, utrum fides sit virtus; et loquimur hic de fide, qua quis credit *in Deum*. Et quod sic, ostenditur.
 
+1. Quod est principium nostrae salutis habet rationem virtutis; sed fides est huiusmodi, secundum quod saepe dicitur in Evangelio[^p470-3]: *Fides tua te salvum fecit:* ergo fides est virtus.
 
-               1 Codd. L aa quae. Paulo inferius pro de illa cod. A de          pag. 170, nota 2. In dicta proposit. pro naluram codd. GIL
-         prima, et subinde pro convenienter cod. Z congruenter.                 V aa exhibent rationem. Paulo inferius pro sequi videtur codd.
-               2 Pro vel codd. A K Z an in.                                     A K sequitur.
-               3 Marc. 10, 52; Luc. 17, 19; 18,42. Cfr. Matth. 9,22;                  s Qui II. Ethic. c. 6. docet, virtutem esse habitum, «ex
-         Marc. 5, 34; Luc. 7, 30; 8, 48. — De maiori huius nec non              quo et bonus homo ipse efficietur et bene opus suum reddet ».
-         seqq. argg. vide infra corp. quaesl.                                   lbid. VI. c. 2: Contemplativae autem cogitationis , et non acli-
-               4 Vers. 9. — In maiori codd. I L V aa voci cordis adiun-         vae neque effectivae, bene et male esse est verum et falsum.
-         gunt nostri.                                                           Et II. Metaph. text. 3. (I. brevior, c. I.): Speculativae elenim
-                6 Vers. 6. — In maiori pro acceplionis cod. bb accepta-         finis veritas, practicae autem opus. — In maiori post et actus
-         tionis.                                                                codd. A F H K N T U Z bb repetunt distinguuntur ; propositio ipsa
-              6 Hic c. 2. seq. — Cod. X Magistri in littera.                    insinuatur ab Aristol. , II. Ethic. c. 1. et II. de Arilma, text. 33.
-              7 Libr. I. p. X. c. 2. — De maiori, cuius sententia sumta         (c. 4.). Cfr. tom. II. pag. S6 1 , nola 3. et pag. 633 , nota 6.
-         est ex Aristot. , X. Melaph. text. 22. seq. (IX. c. 7.) , cfr. supra
-                                                                                                                                             /|71
+2. Item, quod est principium purificationis cordis habet rationem virtutis — sicut enim cor non inquinatur nisi per vitium, sic non purificatur nisi per virtutem — sed fides est principium purificationis cordis, secundum quod dicitur Actuum decimo quinto[^p470-4]: *Fide purificans corda eorum:* ergo etc.
 
-                                                         DIST. XXIII. ART. I. QUAEST. I.
+3. Item, omnis habitus, qui est principium divinae acceptionis, habet rationem virtutis, maxime cum respicit determinatum genus operis; sed fides est huiusmodi, secundum quod dicitur ad Hebraeos undecimo[^p470-5]: *Sine fide impossibile est placere Deo:* ergo fides plenam et perfectam in se continet rationem virtutis.
 
-         in genere virtutis, sed magis in genere scientiae.                   obsequium suinmae Veritatis spectat ad rectitudi-
-         Quod autem iides sit in verum sub ratione veri,                      nem vitae, voluntas, qua quis vull sic se capliva.c
-         patet, quoniain lidei est assentire primae Veritati                  est voluntas recta, et habitus, quo mediante ad hoc
-         propter se et super ornnia.                                          expeditur et adiuvatur, facit ad voluntatis rectitudi-
-               3. ltein, viluperabile est homini habenti usum                 nem. — Si igitur iustilia non est aliud quam « volun-
-         rationis veUe aliquid sine ratione , ergo pari ratione               tatis rectitudo ■ »; et fidea non est aliud nisi habitus,
-         vituperabile erit ei credere sine ralione; sed Qdes,                 quo inlellectus noster voliintarie captivatur in obse-
-        qua credimus in Deum, non inquirit rationem l: ergo                   quium Christi: restat, quod habitus fidei spectat
-        talis lides vituperabilis est. Sed nihil, quod est vitu-              ad rectitudinein vilae secundum regulam iustitiae;
-        perabile, babet ralionem virtutis: ergo ubi est lides,                et ideo habet in se ralionem virtutis vere et proprie.
-        non potest esse virlus in nobis.                                           Nec solum habet in se rationem virlutis vere °, Est auriga.
-              4. Item, quanto actus aliquis est rationabilior,                sed etiam aurigae virtulum quarumlibet, tam theo-
-        tanto est virtuli proximioi2, ergo credere per ra-                    logicarum videlicet quain cardinaliiim. Sine lide R««o i.
-        tionem eogentein plus spectat ad virtutem quam                        enim non est cognitio suiiiini et veri Boni; sine co-
-        credere absque ratione: si igitur credulitas, quam                    gnitione autem suniini et veri Boni non (jotesl esse
-        quis babet per violentiam ralionis, nec est virtus                    veri Iloni exapectatio el dileclio. Cognitio eniin prae-
-        nec actus virtutis, multo fortius videtur, quod ipsa                  ambula est et dirigit alfectum ad exspectandum et
-        fides, quae rationem non sequitur nec rationi inni-                   ad desiderandiim; et ita necessario lides spem et
-        titur. careat perfectione virtutis.                                   caritatem praecedil tanquam regula et auriga ipsa-
+4. Item, quod directam habet contrarietatem ad vitium et peccatum virtus est; sed fides est huiusmodi, quoniam directe opponitur haeresi et infidelitati, quae sunt vitia et peccata: ergo fides est virtus proprie dicta; et hoc ipsum potest probari expresse per auctoritatem Augustini in littera[^p470-6].
 
-                                 c o n c lu s i o.                            rum7. liursus, sine cognitione summi Boni non po-Ratui.
-                                                                              lest esse recla intentio — boc solum lit recta in-
-                                                                              tentione, quod lit ad gloriam et honorem Dei —
-          Fides , qua in Deum credimus, non tanlum est                        sme vero recta inlenlione imllus actus virtutis recte
-               virtus , verum etiam auriga virtulum.                          incedit. Quoniam igitur habitus fidei est , quo me-
-                                                                              dianle summum Bonum a mentibus nostris agnosci-
-                 Respondeo: Dicendum, quod absque dubio ipsa                  lur; hinc est, quod « fides dirigit nostram intentio-
-ionciusio. fides , qua in Deum credimus, non tantiim est vir-                 nem8», et per hoc regula est onmis operationis bo-
-           tus, verum etiam auriga virtutum, sicut de pru-                    nae et omnis virtutis meritoriae. Et ideo non tantum
-bt virtu». dentia dicit Bernardus ad Eugenium3. — Virlus                      debel dici virtus graluila, sed etiam virtalum gra-
-           quidem est, quoniam in ea consistit rectitudo vitae                luilarum regula et auriga. — Et concedendae sunt
-Hoiaoduia. secundum     regulam iusliliae. Iiistuin eniin est, ut             auctoritales et rationes, quae sunt ad istam partein.
-           intellectus noster ila captivetur et subiaceat summae                    1. Ad illud vero quod. primo  obiicitur in con- soiuiio oP-
-                                                                                             , ., ,           ..    .       .   .   positorum.
-           Veritati, sicul affectus noster debel subiacere sum-               tranum . quod fldes tenet medium mter scientiam
-           mae Bonilati ; nec potest esse anima recta , nisi in-              et opinionem; dicendum, quod fldes assignatur quasi
-           tellectus summae Veritati propter se et super omnia                medium inter scientiam et opinionem ab Hugone,
-           assentiat, et affectus suminae Bonitali adbaereat. Ilanc           non quia cunficiatur ex illis duobus, sicut niedium
-           autem rectitudinem non babet quis nolens, sed co-                  conficitur ab extremis, sed quia medium locum te- Noundnm.
-           lens. Nemo enim plus credit Deo quam sibi, nisi                    net quanlum ad g radum ceriitudinis ; est enim ma-
-           per hoc, quod vult iiUellectum suum captivare m                    gis certa quam opinio, et minus quam scientia, si-
-        obsequium C/trisli '. Si ergo captivatio intellectus in               cut videbitur infra " : de hoc autem medio non esl
+**Sed contra:** 1. «In eodem genere sunt extrema et medium», pro eo quod medium participat naturam[^p470-1] extremorum; sed fides est media inter opinionem et scientiam, sicut dicit magister Hugo in libro *de Sacramentis*[^p470-7], ubi dicit, quod «fides est certitudo de rebus absentibus, supra opinionem et infra scientiam constituta»: si igitur nec[^p470-2] opinio nec scientia est in genere virtutis, necessario sequi videtur, quod nec fides in genere virtutis contineatur.
 
-              1 Bernard. , Epist. 338. (alios 369.) n. I: Fides piorum        substituunt seil niagis, el paulo inferius ante veri Boni exspecta-
-        credil , non discutit. Sed iste [Abaelardus] , Dcum habens su-        tio repetunt summi et.
-        spectum, credere non vult, nisi quoil prius ralione discusserit.            7 Cfr. hic lil. Magislri, c. 8. seq. Cicero, V. de Finib. bo-
-        — Edd. substiluunt requirit pro inquirit ct paulo superius,           nor. et malor. c. 6. oit: Summum autem bonum si ignorelur,
-        pro homini posito omni , omiitunt ergo pari ratione... sine           vivendi rationem ignorari necesse est. — De altera ratione ,
-        ratione.                                                              pelila ex necessitate agendi cum recta intentione, ad quod Apo-
-              5 Vide supra pag. 3S6, nola 2.                                  stolus exhortalur illis verbis I. Cor. 10,31: Omnia in gloriam
-              3 Sive 1. de Considcr. e. 8. n. 9. et II, sententialiter. In    Dei facite, cfr. II. Sent. lit. Magistri , d. XXXVIII, d. XL. et
-        Serm. 49. in Canlic. n. ii. ait : Est ergo discrelio non tam vir-     d. XLI. nec non Comment. ibid. — Paulo inferius post hoc
-        tus, quam quacdam moderalrix et auriga virttilum, ordinatrix-         edd. subiiciunt enim.
-        que arTectuum et morum doctrix. Tolle hanc, et virlus vilium                8 Augttsl., Enarrat. in Ps. 31. enarrat. 2. n. 4: Bonum
-        erit, ipsaque affectio naturalis in perturbationem magis conver-      enim opus intenlio facit, intentionem fldes dirigil. — Subinde
-        tetur exlcrminiumque nalurae. — Deflnilionem virlutis habcs           ante regula est cod. A inserit recla. Paulo superius idem cod.
-        II. Sent. d. 27. dub. 3.                                              A pro Itabitns fidei substituit acius fidei, et pro agnoscilur cum
-              4 Epist. II. Cor. 10, S: In captivilatem redigenles omnem       cod. K. cognoscitur.
-        inlelleclum in obsequium Christi. Cfr. supra pag. 217, nota                 9 Quaest. i. Cfr. etiam d. 24. a. 2. q. 2. seq. — Paulo
-        3. et 5.                                                              anle pro ex illis duobus codd. A K Z ab illis duobtts, Vat. illis
-             5 Anselm. , de Concept. virg. et orig. pecc. c. 3. et Dia-       dttobiis tanlum ; et pro conficitur ab extremis cod. X contpo-
-        log. de Ycritate , c. 12: luslitia est rectitudo voluntatis propler   nitttr ex extreniis. Deinde post et mimts codd. U I L V aa cc
-        se servata.                                                           repetunt certa.
-             6 Cod. 0 addit et proprie.    Subinde   pro sed etiam edd.
-          472                                                   SENTENTIARUM        LIB. III.
+2. Item, «habitus distinguuntur per actus, et actus per obiecta»; in hoc autem distinguitur virtus et scientia secundum Philosophum[^p470-8], quod «virtus est in bonum, et scientia est in verum»; sed fides est in verum sub ratione veri: ergo fides non est in genere virtutis, sed magis in genere scientiae. Quod autem fides sit in verum sub ratione veri, patet, quoniam fidei est assentire primae Veritati propter se et super omnia.
 
-            necesse, quod sit in eodem genere proximo cum extre-                      3. Ad illud quod obiicitur, quod credere sine
-    iuiter. mis. — Posset etiam dici , quod hoc non habet necessi-              ratione est vituperabile ; dicendum,     quod illud ve-
-            tatem in moribus, pro eo quod medium reperitur in                   rum est, ubi auctoritas non supplet locum rationis. Notand™,
-          genere virtutis, et extrema sunt in genere vitiorum *.                Ubi vero auctoritas locum supplel rationis, non
-               2. Ad illud quod obiicitur, quod scientia di-                    est vituperabile, sed valde commendabile. Sic autem
-          stinguitur in hoc a virtute, quod ipsa esl in verum,                  est in fide , quoniam , etsi non adsit intellectui ipsius
-               et virtus in bonum; dici potest, quod Philosophus2               credentis ratio, propter quam debeat veritati assen-
-   soiutio 1. loquitur ibi de virtule consuetudinali , quae consi-              tirepadest tamen summae Veritatis auctoritas, quae
-               stit circa actiones et passiones, de qua dicit, quod             cordi suo suadet; quam etiam summam Veritatem
-                «virtus est in passionibus et operationibus optimo-             scimus mentiri non posse, el ideo impium est ei
-               rum operativa»; et huiusmodi virtus ordinat in his               non credere. Propterea hoc nontollit, immo potius
-               quae sunt acl finem. De virtute aulem intellectuali,             confert fidei esse virtutem.
-               cuiusmodi est sapientia et intelligentia, quae ordi-                   4. Ad illud quod obiicitur , quod quanto ali-
-                nanl in ipsum finem , non habet verilatern ; et hoc             quid magis est ralionabile, tanto magis consonat
-               modo fldes est virtus, non modo praemisso. — Sed                 virtuti perfectae ; dicendum , quod rationabile di- Duplex
-                                                                                                                                     tionabile.
-Non lur.proba- hic modus dicendi videtur esse calumniabilis in hoc,             citur aliquid dupliciter: aut quia consonum est ra-
-               quod non tantum de virtute consuetudinali , verum                tioni elevatae et illustratae a lumine Veritatis su-
-               etiam de omni alia virlute sub ralione virtutis videtur          pernae, aut quia consonum est rationi conversae
-               posse haec differentia assignari respectu scientiae.             ad cognitionem sensibilem5. Si primo modo dicatur
-                     Et propterea dicendum est, quod aliter verum               rationabile , non hahet instantiam. Si secundo modo
- soiotionotan-
-ctons      au- est obiectum fidei, aliter obiectum scienliae: scien-            dicatur rationabile, falsitatem habet, quoniam fre-
-aa- iiae, inquam, obiectum est, quia est verum visum;                           quenter ratio ad sensibilia conversa iudicat esse vera
-               fidei autem est obiectura, quia est verum3, verum                quae sunt falsa, et esse bona quae sunt mala, et
-               inquam, non visum, sed salutiferum. Quia enim                    e converso. Unde multa 6 videntur sibi irrationabilia,
-               est non visum , requiritur ad ipsum cognoscendum                 quae sunt valde rationabilia, sicut patet: quia multa
-               alius habitus, quam sit habitus scientiae; quia sa-              videntur irrationabilia philosophis, quae tamen vi-
-               lutiferum, ideo habitus ille ad salutem ordinat et               dentur valde rationabilia Christianis, ut omnino con-
-               ad vitam beatam, et ideo habet ralionem virtutis                 tinere et omnino mendicare et similia. Et quantum
-               completam. Et sic patet, quod nihil impedit, quin                praecellit iudicium viri iudicium pueri, lantum prae-
-               fldes possit esse in verum, et tamen nihilominus                 cellit iudicium viri christiani iudicium unius philo-
-               esse virlus, pro eo quod alio modo est in verum                  sophi, et iudicium rationis sursum conversae iudi-
-               quam scientia, secundum duplicem conditionem prae-               ciura rationis ad inferiora depressae. Et ideo hoc
-               assignatam. Est enim in veritatem non visam et                   non impedit, fidem esse virtutem, quia credit ali-
-               veritatem salutiferam. Quia enim non visa est, cre-              qua, qnae videntur esse irrationabilia homini ani-
-               ditur voluntarie; quia autem non solum non visa,                 mali — sunt enim rationabilia homini spirituali7 —
-               sed etiam salutifera, creditur voluntarie et meri-               iramo hoc facit ad rationem virtutis , ut credat sine
-               torie, quae duo aliena sunt a speculatione scientiae.            ratione. Si enim crederet per rationem cogentem,
-               Unde et veritas, in quam est fides, est veritas se-              illa credulitas non esset voluntaria, sed necessaria,
-               cundum pietalem 4, quae quidem nota est Catholicis,              et sic non esset virtuosa nec meritoria; sicut melius
-               sed ignota fuit philosophis.                                     manifestabitur infra s.
+<!-- page 471 -->
 
+3. Item, vituperabile est homini habenti usum rationis *velle* aliquid sine ratione, ergo pari ratione vituperabile erit ei *credere* sine ratione; sed fides, qua credimus in Deum, non inquirit rationem[^p471-1]: ergo talis fides vituperabilis est. Sed nihil, quod est vituperabile, habet rationem virtutis: ergo ubi est fides, non potest esse virtus in nobis.
 
+4. Item, quanto actus aliquis est rationabilior, tanto est virtuti proximior[^p471-2], ergo credere per rationem cogentem plus spectat ad virtutem quam credere absque ratione: si igitur credulitas, quam quis habet per violentiam rationis, nec est virtus nec actus virtutis, multo fortius videtur, quod ipsa fides, quae rationem non sequitur nec rationi innititur, careat perfectione virtutis.
 
+### Conclusio.
 
-              1 Cfr. Aristot., II. Elhic. e. 6. seqq. — Pro necessitatem        dum est codd. E F G I L iN T V aa bb addendum est, cod. H at-
-         codd. G 1 L V aa bb veritatem.                                         tendendum est. Paulo inferius pro et ad viiam codd. A K id
-              2 Aristot., II. Ethic. c. I. duplicem dislinguit virlutem , in-   est ad vitam.
-         lellectivam et moralem : « Intellectiva ut plurimum ex doctrina             * Epist. ad Tit. I , I : Et [secundum] agnilionem veritalis,
-         habet et generalionem et incrementum... moralis vero ex more ,         quae secnndum pietalem est. Cfr. quaest. seq. — Aliquanto su-
-         id est, assuetudine acquiritur, unde eliam nomen habuit » etc.         perius pro et veritalem edd. male sed veritatem , et post pauca
-         Ibid. c. 6. ait : De morali [virtute] loquor ; haec enim circa         pro in quam est fides cod. 0 in quantum est fidei, edd. in
-         affectus [-ctSrj] et actiones versatur, in quibus excessus et de-      qua est fides.
-         fectus et tnedium est, ut et timeat et confidat aliquis... ac de-           5 Cfr. II. Sent. d. 24. p. II. a. 1. q. I. in corp.
-         mum laetelur et doleat magis et minus , atque utraque liaec                 6 Pro mulla edd. hic et paulo inferius nonnulla.
-         non bene ; nam quando oportet, et ob quae, et erga quos ,                   7 Episl. I. Cor. 2, 14: Animalis aulem homo non percipit
-         et cuius causa, et ut oportet haec facere, medium est atque            ea quae sunt Spiritus Dei etc. — Pro sunt enim codd. M 0
-         optimum ; id quod est ipsius virtulis. Simili modo circa actio-        sunttamen, V at. sunt autem ; edd. 1,2, omtsso proxime ante
-         nes est excessus et defectus et medium etc. — De virtutibus            animali, sic prosequunlur : aliquando enim sunt rationabi-
-         inteltectualibus agitur ibid. VI. c. 2. seq. — Paulo inferius pro      lia etc. Mox pro immo hoc facit edd. el lioc facit.
-         optimorum Vat. suppositorum.                                                8 Quaest. 2. et 4. nec non d. 24. dub. I. Cfr. ibid. a. 2. q. 3.
-               3 Cod. 0 adiicit creditum. Non ita multo ante-pro clicen-
-                                                 DIST. XXIII. AKT. I. QUAEST. I.                                                         473
+> Fides, qua in Deum credimus, non tantum est virtus, verum etiam auriga virtutum.
 
+**Respondeo:** Dicendum, quod absque dubio ipsa fides, qua in Deum credimus, non tantum est virtus, verum etiam auriga virtutum, sicut de prudentia dicit Bernardus ad Eugenium[^p471-3]. — Virtus quidem est, quoniam in ea consistit rectitudo vitae secundum regulam iustitiae. Iustum enim est, ut intellectus noster ita captivetur et subiaceat summae Veritati, sicut affectus noster debet subiacere summae Bonitati; nec potest esse anima recta, nisi intellectus summae Veritati propter se et super omnia assentiat, et affectus summae Bonitati adhaereat. Hanc autem rectitudinem non habet quis nolens, sed *volens*. Nemo enim plus credit Deo quam sibi, nisi per hoc, quod vult intellectum suum captivare *in obsequium Christi*[^p471-4]. Si ergo captivatio intellectus in obsequium summae Veritatis spectat ad rectitudinem vitae, voluntas, qua quis vult sic se captivare est voluntas recta, et habitus, quo mediante ad hoc expeditur et adiuvatur, facit ad voluntatis rectitudinem. — Si igitur *iustitia* non est aliud quam «voluntatis rectitudo[^p471-5]»; et fides non est aliud nisi habitus, quo intellectus noster voluntarie captivatur in obsequium Christi: restat, quod habitus fidei spectat ad rectitudinem vitae secundum regulam iustitiae; et ideo habet in se rationem virtutis vere et proprie.
 
-                                                            SCHOLION.
-       I. in liac el duabus seqq. distinclionibus S. Bonnv. agit de     aliis vcrbis; « Fides est de invisibilibus, secundum qnod sunt
-flde, cl quidem omnioo od mentem Concilii Vaticani [c. 3. de            invisibilia » (infra d. 26. dub. 3.); est enim « argumcntum non
-Videl, iniuiu hanc calholicam doctrinam optime explicat et illtt-       apparentium » (Hebr. II, 1; cfr. infra q. S.). « Lumen fidci
-strat; eadem eliam ac S. Thomas principia scicntiflca tcnet, nec        habet aenigma annexum; el n lioc oritur, quod inlellectus
-ab ipso nisi in paucis minoris momenti rebus aliquatenus dis-           inclinaiur ab affectu et riirigit hominem ad cognoscendum
-crepat, praesartim in quadam proposltione infra d. 24. a. 2. q.         non finc).
-                                                                        in    visuni » (iufra d. 31. n. 2. q. I. ad 6; cfr. ibid. corp.
-3. traclala. — Dc variis sensibus vocabuli fulcs vide hic dulj.
-2. — Plures definitiones fldel exhibentur hic dub. i, et ea quam              3. ilinc « auvtoritas supplet locum rationis... elsi non adsit
-S. Paulus (llebr. II, I.) dat, praeclare explicatur infra q. 5.         intellcctui ipsius credenlis ratio, proptcr qitam debeat veritati
-Brcviler hae nolifiealiones iu hac et seq. quaestione sic expri-        assentire, adest lamen summae Veritatis uitctoritas , quaeconit
-muntiir: Fidos esl hnbilus (sivc virlus), per quem intellectus          sun siutilcl; quam e.tiam siinunani Veritatcm scimus mcnliri non
-voluntarie captivatur in obsequiutn Christi et innititur primae         |insse; et iilen impiiim cst ci iiini credcrc » (liir ad 3.). — Ilaec
-Vcritati propter ipsam et super ooinia. Aliis verbis idom dicit         liiiclniilas non est qualiscumque , setl suprema; infallibilis in
-deliniiio Concilii Vatie. (loc. cit.); « Hane vero fidem, quae hu-      leslificaiulo , quia prima Vcritas cst snnimc obslringens ad obe-
-manac salutis iniiinin est, Ecclesia catholica profitetur virlutem      dicnliitm fiilei , quia Deus solus Dominus. Ilinc Verilas dictat
-csse siiperuaturalcni, qua , Dri aspirantc el adiuvante gratia,         (infra i|. 3. el d. 23. a. 2. q. 3), quod « inlellcclus nosler plos
-ab eo revclala vcra esse credimus, non prnptcr inlrinsccam re-          creilal summae Verilali quam sibi,etquod se redigat in obse-
-riim veritatem naturall rationis luniine perspectam , sed propter       quiiim Clirisli; ac per hoc, quod non soltim credal quae stint
-auctorilatem ipsius Dei reniitnlis, qui ncc falli nec fallere po-       seoundum ralionem, verum etiam quae sunt tvipra rationem
-tesl. Est enim liclcs, lcslanlc Apostolo (Hebr. II, I.), speran-        et contra sensuum e.iperientiam. Quod si recusat, non exhibet
-darum substantia rerum, argumentum non apparentium ». Ea-               summac Verilali debitam recerentiam , dum iudicium intlustriae
-dem Synodus quasi tillimum fundamentum fldei assignal liis              propriae praeferi dictatnini lucis aetcrnac; quod esse non po-
-verbis : « Cum homo a Deo lanqiiani Creatore ct Domino suo              test absque lumorc superbiac et elationis improliandae » ( Brevi-
-tolus dependeat, et ratio creata increatae Veritati penitus sub-        loq. p. V. c. 7.). Confirmaltir liaec doctrina a Concilio Vat. can. I.
-iecla sil, plcnum rcvclanli llco iiilellectus el eoluntatis obse-       de Fide : « Si quis dixeril, ralioncm liumanani ita iiulependen-
-iliiiinii flde praestare tenemur •. Idem iam hic in corp. dicitur:      lem esse, ut fides ei a Deo imperari non possit, a. s. ».
- dustum enim est, ui intellectus noster ita captivetur et subia-              4. Quamquam fides dicil « cerlitutlinem in intelleclu » ( II.
-ceat summae Verilati , slcut affectus nosler debet subiacere            Senl. d. 43. dub. 3.) el « essenlialiter respicit actum ralionis »
-summae Bonitati ; ncc polesl cssr anima recla, nisi inlellectus         (q. 2. in corp.), tamen etiam respicit actum voluntalis ul sibi es-
-stimmae Veritati propter sc et stiper omnia assentiat, et affectus      senlialeiu ; ergo etcirca ipsam habet ■ essentiahler consistere»;
-sumninc [ionitali ailhaereal ».                                         « et ipsum velle credere esl essenliule ipsi fldei (ibid.), quod
-       II. Ut facilius perspicialtir lota tanli momenli doclrina de     inngis expliiainr infra d. 2 i. dub. I. ct d. 31. a. 2. q. I. in fine
-fide, iuvat breviter praemittere principaliora principia, quibus        corp. Consenlil S. Thomas (de Verit. q. 14. a. 3. ad 10.) : « Fides
-innililur theoria auctoris nostri, quae in summa est communis           non cst in inlellectu, nisi secundum quod imperaltir a voluntate...
-antiquorum doctorum sentenlia.                                          Unde quamvis illud quod esl cx parle volunlalis, possit dici acci-
-       1. Duplex est cerlitudo. « Est enim cerlitudo speculalionis ,    ilcnliilc inlellectui, est tamen essentiale fidein. Ibid. in corp.:
-et est cerliludo adliaesionis ; el prima quidem respicit intelle-        « Credere... non habel assensum nisi ex imperio voluntalis; unde
-clum, secunda vero respicil ipsum allcctum » (infra q. 4; cfr.          secitiiiltim id quod est, a volitnlale dependet ». Hinc fides potest
-q. S. ad 6, d. 26. a. 1. q. 5.). Consenlit cum aliis antiquis           csse virlus et recte vocatur veritas secundum pielatem (hic ad
-S. Thom., hic q. 2. a. 2. quaestiunc I. et 3, nbi exponit iriplicem     2.) 'et « doctrina secundum pietatem » (infra q. 5. in corp. ;
-modom, quo intelleclus delerminatur ad assensum, scilicet aut           cfr. d. 24. dub. I.), el « non [proprie] probatur, sed probal »
-ex ipsa praescnlia intelligibilis et evidentia obiecti mocentis, ut     (hic dub. 5.). Confirmatur haec rioctrina communis reprobalione
-in inlellectu primorum prlncipiorum; aut virtule medii mocen-           facta ab Innocenlio XI. (an. 1749) sequentis propos. (19.): « Vo-
-tis , ut in scientia conclusionum ; atit imperio volunlatis mo-         luntns non potest efficere, ut assensus lidei in se ipso sit ma-
-venlis (cum voluntas moveat omnes vires ad actus suos), ut              gis firmus, quam mereatur pondus rationum ad assensum im-
-in fide. Deinde prosequitur (loc. cit. quaestiunc. I.): « Et haec       pellentium ».
-quidem voluntas determinat inlelleetum ad aliquid , quod neque                5. Ultima ratio obiectiva ! et intrinseca, quae movet ad as-
-per se ipsum videlur, neque ad ea qtiae per se videntur, re-            sensum fldei , est « ipsa summa Veritas [sive auctoritas Dei
-solvi posse determinat, ex hoc quod dignum reputat, illi esse           revelantis], cui ipsa fides innitilur propter se et sttper omnia »
-adhaerendum , propter aliquam rationem, qua bonum videtur               (q. 3. in corp.). «Fides autem unicam intuetur ralionem, secun-
-ei illi rei adhaerere, quamvis illa ratio ad intellectum termi-         dum qttam omnia credibilia credit » (ibid. ad 2.), el « tam circa
-nandum non sulficiat propter iinbecillilalem inlellectus , qui non      creata ct increata versatur secundum diclamen Veritatis aeter-
-videt per se hoc cui assenliendum ralio iudicat ». Ibidem (quae-        nae » (ibid. ad 3.). — Hoc principium constat inter Catholicos
-stiunc. 3.) asserilur: « Cerlitudo, quae est in scientia et in intel-   et probatur leslimonio Concilii Vat. supra n. I. allegato. Sed de
- lectu, est ex ipsa evidenlia eorum quae certa esse dicuntur;           via ac modo, quo huic formali obiecto fidei ex parte hominis
- certitudo aulem jidei est ex firma adhaesione ad id quod cre-          assentitttr, sublilissimae in scholis calholicis aetate subsequenti
- ditur » (cfr. de Verit. q. \i. a. I. ad 7.). — Constat autem ,         exortae sunl controversiae , de quibus nonnulla dicentur infra
- quod haec certiludo adhaesionis per fidem naturalem in vita            q. S, in scholio.
- sociali immensum campum neeessario occupat. Cum enim in                      6. F'itle divina sive infusa , qua quis innitilur primae Veri-
- cognoscendis pluribus rebus, praesertim particularibus, unicui-        tali super omnia, credi non potest, nisi « ratio super se elevelurv
- que deficiat proprii inlellectus scientia, adhaerendum est me-         per illuslrationem et inspiralionem divinam (infra a. 2. q. 2.
- diante fide naturali intelleclui alieno rem scienti , ut sic , dum     in corp. et q. I. fund. 3.); unde ipsa donum Dei est superna-
- quis alienam scienliam suam facit, quasi per sttbstitutionem           turale, ut bene explicatur -II. Sent. d. 3. p. II. a. 3. q. I. ad 3;
- suppleat defectum et indigenliam. Ab hac aulem fide naturali           cfr. infra d. 24. dub. 2. — Hoc fide conslat, cum definitum sit
- fides theologica specie differt (supra d. 9. a. 2. q. 4. ad 2.).       a Concilio Vat. (cfr. infra a. 2. q. 2, scholion). Ab hac fide di-
-        2. .Obiectum scientiae esl verum visum, obiecttim fidei est     vina differt omnino fides naluraliter acquisita, quae inlerdum
- verum non visum, sed saluliferum , ut explicatur hic ad 2; vel         nullius virtutis est (a. 2. q. 2. et 3.).
-          S. Bonav. — Tom. III.                                                                                                  60
-         474                                                   SENTENTIARUM LIB. III.
-              7. Eadem igitur Verilas prima, ut est ratio obiectiva assensus,   et lamen hoc velamen potius est illuminans quam obscurans »
-         irradiat super mentem et in visione beatifica et mednnte fide,         (IV. Sent. d. 3. p. I. a. I. q. 3.).
-         sed alio modo; videlicet in patria plene et omni ex parte im-                 8. Nihilominus, ut fides sit rationabile obsequium, multi-
-         mediate, in fide semiplene et ila, ut maneat speculum et aeni-         plex aclus rationis praecedit fidem, quibus testimonium Dei
-         gma (infra q. 4. ad 3; cfr. infra d. 35. a. 1. q. 3. et dub. 2.).      cognoscitur credibile et credendum; de quibus molivis credibi-
-         Unde id quod est materiale in fide, communicatur per verbum            litatis multa docet Concilium Vat. c. 2. 3. 4; et vide infra scho-
-         exterius revelalum et exterius per auditum , sed « quantum             lion ad 5. quaeslionem.
-         ad suum forrnale est per infusionem , non per auditum » ; « ita               III. ln hac I. quaestionc agitur de fide ut caritate formata,
-         unum per auditum cordis, et aliud per auditum corporis » (d.           uli dicunt theologi, quae certe completam rationem virtulis
-         24. dub. 2.). Adhaeret enim fldes alicui teslimonio , in quo est       perfectae, supernaturalis et meritoriae habet. Sed infra a. 2. q.
-         prima Veritas, et ita adhaeret ipsi primae Verilati, transcen-         1. 2. eadem quaestio recurrit respectu fidei informis. — Praeter
-         dendo proprii intellectus veritalem. Ad rem S. Thom. (de Verit.        plura alia notanda observatu dignum est quod in solut. ad 4.
-         q. 14. a. 8. ad 3.): « Prima Verilas est obiectum visionis patriae     docetur de duplici ralionabili, scilicet secundum rationem vel
-         ut in sua specie apparens , fldei autem ut non apparens ; unde         elevatam superno lumine, vel ad sensibilia conversam et ad in-
-         etsi idem re sit utriusque actus obiectum , non tamen est idem         feriora depressam.
-         ralione; et sic formaliter differens obiectum diversam speciem                IV. Alex. Hal., S. p. III. q. 68. m. 3. — S. Thom., hic
-         actus facit d. — « Fides est perfectio potentiae non qualiscumque,     q. 2. a. 4; S. II. II. q. i. a. 5; de Verit. q. 14. a. 3. — B.
-         sed secundum stalum imperfectionis, in quo intellectus potest          Albert. , hic a. 2. — Petr. a Tar., hic q. 3. a. 4. quaestiunc.
-         aberrare a veritate et in via captivari» (infra d. 31. a. 2. q. 1.     I. — Richard. a Med., hic a. 4. q. 2. — Durand., hic q. 6.
-         ad 1.). « Fides velamen dicit futurae contemplalionis et visionis ;    — Dionys. Carth., hic q. 2. — Biel, hic q. 2.
+Nec solum habet in se rationem virtutis vere[^p471-6], sed etiam aurigae virtutum quarumlibet, tam theologicarum videlicet quam cardinalium. Sine fide enim non est cognitio summi et veri Boni; sine cognitione autem summi et veri Boni non potest esse veri Boni *exspectatio et dilectio*. Cognitio enim praeambula est et dirigit affectum ad exspectandum et ad desiderandum; et ita necessario fides spem et caritatem praecedit tanquam regula et auriga ipsarum[^p471-7]. *Rursus*, sine cognitione summi Boni non potest esse recta intentio — hoc solum fit recta intentione, quod fit ad gloriam et honorem Dei — sine vero recta intentione nullus actus virtutis recte incedit. Quoniam igitur habitus fidei est, quo mediante summum Bonum a mentibus nostris agnoscitur; hinc est, quod «fides dirigit nostram intentionem[^p471-8]», et per hoc regula est omnis operationis bonae et omnis virtutis meritoriae. Et ideo non tantum debet dici virtus gratuita, sed etiam virtutum gratuitarum regula et auriga. — Et concedendae sunt auctoritates et rationes, quae sunt ad istam partem.
+
+1. Ad illud vero quod primo obiicitur in contrarium, quod fides tenet medium inter scientiam et opinionem; dicendum, quod fides assignatur quasi medium inter scientiam et opinionem ab Hugone, non quia conficiatur ex illis duobus, sicut medium conficitur ab extremis, sed quia medium locum tenet quantum ad gradum certitudinis; est enim magis certa quam opinio, et minus quam scientia, sicut videbitur infra[^p471-9]: de hoc autem medio non est
+
+<!-- page 472 -->
+
+necesse, quod sit in eodem genere proximo cum extremis. — Posset etiam dici, quod hoc non habet necessitatem in moribus, pro eo quod medium reperitur in genere virtutis, et extrema sunt in genere vitiorum[^p472-1].
+
+2. Ad illud quod obiicitur, quod scientia distinguitur in hoc a virtute, quod ipsa est in verum, et virtus in bonum; dici potest, quod Philosophus[^p472-2] loquitur ibi de virtute *consuetudinali*, quae consistit circa actiones et passiones, de qua dicit, quod «virtus est in passionibus et operationibus optimorum operativa»; et huiusmodi virtus ordinat in his quae sunt ad finem. De virtute autem intellectuali, cuiusmodi est sapientia et intelligentia, quae ordinant in ipsum finem, non habet veritatem; et hoc modo fides est virtus, non modo praemisso. — Sed hic modus dicendi videtur esse calumniabilis in hoc, quod non tantum de virtute consuetudinali, verum etiam de omni alia virtute sub ratione virtutis videtur posse haec differentia assignari respectu scientiae.
+
+Et propterea dicendum est, quod aliter verum est obiectum fidei, aliter obiectum scientiae: scientiae, inquam, obiectum est, quia est verum visum; fidei autem est obiectum, quia est verum[^p472-3], verum inquam, non visum, sed salutiferum. Quia enim est non visum, requiritur ad ipsum cognoscendum alius habitus, quam sit habitus scientiae; quia salutiferum, ideo habitus ille ad salutem ordinat et ad vitam beatam, et ideo habet rationem virtutis completam. Et sic patet, quod nihil impedit, quin fides possit esse in verum, et tamen nihilominus esse virtus, pro eo quod alio modo est in verum quam scientia, secundum duplicem conditionem praeassignatam. Est enim in veritatem non visam et veritatem salutiferam. Quia enim non visa est, creditur voluntarie; quia autem non solum non visa, sed etiam salutifera, creditur voluntarie et meritorie, quae duo aliena sunt a speculatione scientiae. Unde et veritas, in quam est fides, est veritas *secundum pietatem*[^p472-4], quae quidem nota est Catholicis, sed ignota fuit philosophis.
+
+3. Ad illud quod obiicitur, quod credere sine ratione est vituperabile; dicendum, quod illud verum est, ubi auctoritas non supplet locum rationis. Ubi vero auctoritas locum supplet rationis, non est vituperabile, sed valde commendabile. Sic autem est in fide, quoniam, etsi non adsit intellectui ipsius credentis ratio, propter quam debeat veritati assentire, adest tamen summae Veritatis auctoritas, quae cordi suo suadet; quam etiam summam Veritatem scimus mentiri non posse, et ideo impium est ei non credere. Propterea hoc non tollit, immo potius confert fidei esse virtutem.
+
+4. Ad illud quod obiicitur, quod quanto aliquid magis est rationabile, tanto magis consonat virtuti perfectae; dicendum, quod rationabile dicitur aliquid dupliciter: aut quia consonum est rationi elevatae et illustratae a lumine Veritatis supernae, aut quia consonum est rationi conversae ad cognitionem sensibilem[^p472-5]. Si primo modo dicatur rationabile, non habet instantiam. Si secundo modo dicatur rationabile, falsitatem habet, quoniam frequenter ratio ad sensibilia conversa iudicat esse vera quae sunt falsa, et esse bona quae sunt mala, et e converso. Unde multa[^p472-6] videntur sibi irrationabilia, quae sunt valde rationabilia, sicut patet: quia multa videntur irrationabilia philosophis, quae tamen videntur valde rationabilia Christianis, ut omnino continere et omnino mendicare et similia. Et quantum praecellit iudicium viri iudicium pueri, tantum praecellit iudicium viri christiani iudicium unius philosophi, et iudicium rationis sursum conversae iudicium rationis ad inferiora depressae. Et ideo hoc non impedit, fidem esse virtutem, quia credit aliqua, quae videntur esse irrationabilia homini animali — sunt enim rationabilia homini spirituali[^p472-7] — immo hoc facit ad rationem virtutis, ut credat sine ratione. Si enim crederet per rationem cogentem, illa credulitas non esset voluntaria, sed necessaria, et sic non esset virtuosa nec meritoria; sicut melius manifestabitur infra[^p472-8].
+
+### Scholion
+<!-- page 473 -->
+
+**I.** In hac et duabus seqq. distinctionibus S. Bonav. agit de fide, et quidem omnino ad mentem Concilii Vaticani (c. 3. *de Fide*), immo hanc catholicam doctrinam optime explicat et illustrat; eadem etiam ac S. Thomas principia scientifica tenet, nec ab ipso nisi in paucis minoris momenti rebus aliquatenus discrepat, praesertim in quadam propositione infra d. 24. a. 2. q. 3. tractata. — De variis *sensibus* vocabuli *fides* vide hic dub. 2. — Plures *definitiones* fidei exhibentur hic dub. 1, et ea quam S. Paulus (Hebr. 11, 1.) dat, praeclare explicatur infra q. 5. Breviter hae notificationes in hac et seq. quaestione sic exprimuntur: Fides est habitus (sive virtus), per quem intellectus voluntarie captivatur in obsequium Christi et innititur primae Veritati propter ipsam et super omnia. Aliis verbis idem dicit definitio Concilii Vatic. (loc. cit.); «Hanc vero fidem, quae humanae salutis initium est, Ecclesia catholica profitetur virtutem esse supernaturalem, qua, Dei aspirante et adiuvante gratia, ab eo revelata vera esse credimus, non propter intrinsecam rerum veritatem naturali rationis lumine perspectam, sed propter auctoritatem ipsius Dei revelantis, qui nec falli nec fallere potest. Est enim fides, testante Apostolo (Hebr. 11, 1.), sperandarum substantia rerum, argumentum non apparentium». Eadem Synodus quasi ultimum fundamentum fidei assignat his verbis: «Cum homo a Deo tanquam Creatore et Domino suo totus dependeat, et ratio creata increatae Veritati penitus subiecta sit, plenum revelanti Deo intellectus et voluntatis obsequium fide praestare tenemur». Idem iam hic in corp. dicitur: *Iustum enim est, ut intellectus noster ita captivetur et subiaceat summae Veritati, sicut affectus noster debet subiacere summae Bonitati; nec potest esse anima recta, nisi intellectus summae Veritati propter se et super omnia assentiat, et affectus summae Bonitati adhaereat*.
+
+**II.** Ut facilius perspiciatur tota tanti momenti doctrina de fide, iuvat breviter praemittere principaliora principia, quibus innititur theoria auctoris nostri, quae in summa est communis antiquorum doctorum sententia.
+
+1. Duplex est certitudo. «Est enim certitudo *speculationis*, et est certitudo *adhaesionis*; et prima quidem respicit intellectum, secunda vero respicit ipsum affectum» (infra q. 4; cfr. q. 5. ad 6, d. 26. a. 1. q. 5.). Consentit cum aliis antiquis S. Thom., hic q. 2. a. 2. quaestiunc. 1. et 3, ubi exponit triplicem modum, quo intellectus determinatur ad assensum, scilicet aut ex ipsa praesentia intelligibilis et evidentia obiecti moventis, ut in intellectu primorum principiorum; aut virtute medii moventis, ut in scientia conclusionum; aut imperio voluntatis moventis (cum voluntas moveat omnes vires ad actus suos), ut in fide. Deinde prosequitur (loc. cit. quaestiunc. 1.): «Et haec quidem voluntas determinat intellectum ad aliquid, quod neque per se ipsum videtur, neque ad ea quae per se videntur, resolvi posse determinat, ex hoc quod dignum reputat, illi esse adhaerendum, propter aliquam rationem, qua bonum videtur ei illi rei adhaerere, quamvis illa ratio ad intellectum terminandum non sufficiat propter imbecillitatem intellectus, qui non videt per se hoc cui assentiendum ratio iudicat». Ibidem (quaestiunc. 3.) asseritur: «Certitudo, quae est in scientia et in intellectu, est ex ipsa evidentia eorum quae certa esse dicuntur; certitudo autem *fidei* est ex firma adhaesione ad id quod creditur» (cfr. de Verit. q. 14. a. 1. ad 7.). — Constat autem, quod haec certitudo adhaesionis per fidem naturalem in vita sociali immensum campum necessario occupat. Cum enim in cognoscendis pluribus rebus, praesertim particularibus, unicuique deficiat proprii intellectus scientia, adhaerendum est mediante fide naturali intellectui alieno rem scienti, ut sic, dum quis alienam scientiam suam facit, quasi per substitutionem suppleat defectum et indigentiam. Ab hac autem fide naturali fides theologica specie differt (supra d. 9. a. 2. q. 4. ad 2.).
+
+2. Obiectum scientiae est verum visum, obiectum fidei est verum non visum, sed salutiferum, ut explicatur hic ad 2; vel aliis verbis: «Fides est de invisibilibus, secundum quod sunt invisibilia» (infra d. 26. dub. 3.); est enim «argumentum non apparentium» (Hebr. 11, 1; cfr. infra q. 5.). «Lumen fidei habet aenigma annexum; et ex hoc oritur, quod intellectus inclinatur ab affectu et dirigit hominem ad cognoscendum non visum» (infra d. 31. a. 2. q. 1. ad 6; cfr. ibid. corp. in fine).
+
+3. Hinc «*auctoritas* supplet locum *rationis*... etsi non adsit intellectui ipsius credentis ratio, propter quam debeat veritati assentire, adest tamen summae Veritatis *auctoritas*, quae *cordi suadet*; quam etiam summam Veritatem *scimus* mentiri non posse; et ideo *impium* est ei non credere» (hic ad 3.). — Haec *auctoritas* non est qualiscumque, sed *suprema*; infallibilis in *testificando*, quia prima Veritas est summe obstringens ad *obedientiam fidei*, quia Deus solus Dominus. Hinc Veritas *dictat* (infra q. 3. et d. 23. a. 2. q. 3), quod «intellectus noster plus credat summae Veritati quam sibi, et quod se redigat in obsequium Christi; ac per hoc, quod non solum credat quae sunt *secundum rationem*, verum etiam quae sunt *supra rationem et contra* sensuum experientiam. Quod si recusat, non exhibet summae Veritati *debitam reverentiam*, dum iudicium industriae propriae praefert *dictamini* lucis aeternae; quod esse non potest absque tumore superbiae et elationis improbandae» (Brevíloq. p. V. c. 7.). Confirmatur haec doctrina a Concilio Vat. can. 1. de Fide: «Si quis dixerit, rationem humanam ita independentem esse, ut fides ei a Deo imperari non possit, a. s.».
+
+4. Quamquam fides dicit «certitudinem in intellectu» (II. Sent. d. 43. dub. 3.) et «essentialiter respicit actum rationis» (q. 2. in corp.), tamen etiam respicit actum voluntatis ut sibi essentialem; ergo et circa ipsam habet «essentialiter consistere»; «et ipsum velle credere est essentiale ipsi fidei (ibid.), quod magis explicatur infra d. 24. dub. 1. et d. 31. a. 2. q. 1. in fine corp. Consentit S. Thomas (de Verit. q. 14. a. 3. ad 10.): «Fides non est in intellectu, nisi secundum quod imperatur a voluntate... Unde quamvis illud quod est ex parte voluntatis, possit dici accidentale intellectui, est tamen essentiale fidei. Ibid. in corp.: «Credere... non habet assensum nisi ex imperio voluntatis; unde secundum id quod est, a voluntate dependet». Hinc fides potest esse virtus et recte vocatur veritas secundum pietatem (hic ad 2.) et «doctrina secundum pietatem» (infra q. 5. in corp.; cfr. d. 24. dub. 1.), et «non [proprie] probatur, sed probat» (hic dub. 5.). Confirmatur haec doctrina communis reprobatione facta ab Innocentio XI. (an. 1749) sequentis propos. (19.): «Voluntas non potest efficere, ut assensus fidei in se ipso sit magis firmus, quam mereatur pondus rationum ad assensum impellentium».
+
+5. Ultima ratio obiectiva et intrinseca, quae movet ad assensum fidei, est «ipsa summa Veritas [sive auctoritas Dei revelantis], cui ipsa fides innititur propter se et super omnia» (q. 3. in corp.). «Fides autem unicam intuetur rationem, secundum quam omnia credibilia credit» (ibid. ad 2.), et «tam circa creata et increata versatur secundum dictamen Veritatis aeternae» (ibid. ad 3.). — Hoc principium constat inter Catholicos et probatur testimonio Concilii Vat. supra n. 1. allegato. Sed de via ac modo, quo huic formali obiecto fidei ex parte hominis assentitur, subtilissimae in scholis catholicis aetate subsequenti exortae sunt controversiae, de quibus nonnulla dicentur infra q. 5, in scholio.
+
+6. Fide divina sive infusa, qua quis innititur primae Veritati super omnia, credi non potest, nisi «ratio super se elevetur» per illustrationem et inspirationem divinam (infra a. 2. q. 2. in corp. et q. 1. fund. 3.); unde ipsa donum Dei est supernaturale, ut bene explicatur II. Sent. d. 3. p. II. a. 3. q. 1. ad 3; cfr. infra d. 24. dub. 2. — Hoc fide constat, cum definitum sit a Concilio Vat. (cfr. infra a. 2. q. 2, scholion). Ab hac fide divina differt omnino fides naturaliter acquisita, quae interdum nullius virtutis est (a. 2. q. 2. et 3.).
+
+<!-- page 474 -->
+
+7. Eadem igitur Veritas prima, ut est ratio obiectiva assensus, irradiat super mentem et in visione beatifica et mediante fide, sed alio modo; videlicet in patria *plene* et omni ex parte *immediate*, in fide *semiplene* et ita, ut maneat *speculum et aenigma* (infra q. 4. ad 3; cfr. infra d. 35. a. 1. q. 3. et dub. 2.). Unde id quod est *materiale* in fide, communicatur *per verbum exterius revelatum* et exterius per auditum, sed «quantum ad suum formale est per infusionem, non per auditum»; «ita unum per auditum cordis, et aliud per auditum corporis» (d. 24. dub. 2.). Adhaeret enim fides alicui testimonio, in quo est prima Veritas, et ita adhaeret ipsi primae Veritati, *transcendendo* proprii intellectus veritatem. Ad rem S. Thom. (de Verit. q. 14. a. 8. ad 3.): «Prima Veritas est obiectum visionis patriae ut in sua *specie apparens*, fidei autem ut *non apparens*; unde etsi idem *re* sit utriusque actus obiectum, non tamen est idem *ratione*; et sic formaliter differens obiectum diversam speciem actus facit». — «Fides est perfectio potentiae non qualiscumque, sed secundum statum imperfectionis, in quo intellectus *potest aberrare* a veritate et *in via captivari*» (infra d. 31. a. 2. q. 1. ad 1.). «Fides velamen dicit futurae contemplationis et visionis; et tamen hoc velamen potius est illuminans quam obscurans» (IV. Sent. d. 3. p. I. a. 1. q. 3.).
+
+8. Nihilominus, ut fides sit rationabile obsequium, multiplex actus rationis praecedit fidem, quibus testimonium Dei cognoscitur credibile et credendum; de quibus motivis credibilitatis multa docet Concilium Vat. c. 2. 3. 4; et vide infra scholion ad 5. quaestionem.
+
+**III.** In hac I. quaestione agitur de fide ut caritate formata, uti dicunt theologi, quae certe completam rationem virtutis perfectae, supernaturalis et meritoriae habet. Sed infra a. 2. q. 1. 2. eadem quaestio recurrit respectu fidei informis. — Praeter plura alia notanda observatu dignum est quod in solut. ad 4. docetur de duplici rationabili, scilicet secundum rationem vel elevatam superno lumine, vel ad sensibilia conversam et ad inferiora depressam.
+
+**IV.** Alex. Hal., S. p. III. q. 68. m. 3. — S. Thom., hic q. 2. a. 4; S. II. II. q. 4. a. 5; de Verit. q. 14. a. 3. — B. Albert., hic a. 2. — Petr. a Tar., hic q. 3. a. 4. quaestiunc. 1. — Richard. a Med., hic a. 4. q. 2. — Durand., hic q. 6. — Dionys. Carth., hic q. 2. — Biel, hic q. 2.
+
+---
 
 ## English
 
-[Translation pending]
+### Article I. *On faith taken simply, or formed faith.*
+### Question I. *Whether faith is a virtue.*
+
+Concerning the first the procedure is thus, and it is asked whether faith is a virtue; and we are speaking here of the faith by which one believes *in God*. And that it is, is shown.
+
+1. That which is the principle of our salvation has the character of a virtue; but faith is of this kind, according to what is often said in the Gospel[^p470-3]: *Thy faith hath made thee whole:* therefore faith is a virtue.
+
+2. Likewise, that which is the principle of the purification of the heart has the character of a virtue — for just as the heart is defiled only through vice, so it is purified only through virtue — but faith is the principle of the purification of the heart, according to what is said in the fifteenth of Acts[^p470-4]: *Purifying their hearts by faith:* therefore etc.
+
+3. Likewise, every habit which is the principle of divine acceptance has the character of a virtue, especially when it regards a determinate kind of work; but faith is of this kind, according to what is said to the Hebrews, the eleventh[^p470-5]: *Without faith it is impossible to please God:* therefore faith contains in itself the full and perfect character of a virtue.
+
+4. Likewise, that which has a direct contrariety to vice and sin is a virtue; but faith is of this kind, since it is directly opposed to heresy and infidelity, which are vices and sins: therefore faith is a virtue properly so called; and this very thing can be proved expressly by the authority of Augustine in the text[^p470-6].
+
+**On the contrary:** 1. «In the same genus are the extremes and the mean», inasmuch as the mean participates in the nature[^p470-1] of the extremes; but faith is a mean between opinion and knowledge, as master Hugh says in the book *On the Sacraments*[^p470-7], where he says that «faith is a certitude concerning absent things, set above opinion and below knowledge»: if therefore neither[^p470-2] opinion nor knowledge is in the genus of virtue, it necessarily seems to follow that faith too is not contained in the genus of virtue.
+
+2. Likewise, «habits are distinguished by acts, and acts by objects»; but in this is virtue distinguished from knowledge according to the Philosopher[^p470-8], that «virtue is directed to the good, and knowledge to the true»; but faith is directed to the true under the character of the true: therefore faith is not in the genus of virtue, but rather in the genus of knowledge. And that faith is directed to the true under the character of the true is plain, since it belongs to faith to assent to the first Truth for its own sake and above all things.
+
+3. Likewise, it is blameworthy for a man having the use of reason *to will* something without reason; therefore, by parity of reasoning, it will be blameworthy for him *to believe* without reason; but the faith by which we believe in God does not inquire after reason[^p471-1]: therefore such faith is blameworthy. But nothing that is blameworthy has the character of a virtue: therefore where there is faith, there cannot be virtue in us.
+
+4. Likewise, the more rational an act is, the nearer it is to virtue[^p471-2]; therefore to believe by a compelling reason pertains more to virtue than to believe without reason: if therefore the credulity which one has by the force of reason is neither a virtue nor an act of virtue, much more does it seem that faith itself, which does not follow reason nor rest upon reason, lacks the perfection of virtue.
+
+### Conclusion.
+
+> Faith, by which we believe in God, is not only a virtue, but also the charioteer of the virtues.
+
+**I respond:** It must be said that without doubt faith itself, by which we believe in God, is not only a virtue, but also the charioteer of the virtues, as Bernard says of prudence to Eugenius[^p471-3]. — It is indeed a virtue, since in it consists the rectitude of life according to the rule of justice. For it is just that our intellect should be thus held captive and subjected to the highest Truth, just as our affect ought to be subjected to the highest Goodness; nor can the soul be right unless the intellect assents to the highest Truth for its own sake and above all things, and the affect cleaves to the highest Goodness. But one does not have this rectitude unwillingly, but *willingly*. For no one believes God more than himself, except through this, that he wills to hold his intellect captive *in obedience to Christ*[^p471-4]. If therefore the captivity of the intellect in obedience to the highest Truth pertains to the rectitude of life, the will, by which one wills thus to hold himself captive, is a right will, and the habit by means of which one is made ready and helped to this makes for the rectitude of the will. — If therefore *justice* is nothing other than «rectitude of will[^p471-5]»; and faith is nothing other than a habit by which our intellect is voluntarily held captive in obedience to Christ: it remains that the habit of faith pertains to the rectitude of life according to the rule of justice; and therefore it has in itself the character of a virtue truly and properly.
+
+Nor does it only have in itself the character of a virtue truly[^p471-6], but also of the charioteer of all the virtues whatsoever, both the theological, namely, and the cardinal. For without faith there is no knowledge of the highest and true Good; and without the knowledge of the highest and true Good there can be no *expectation and love* of the true Good. For knowledge is the forerunner and directs the affect to expecting and desiring; and so faith necessarily precedes hope and charity as their rule and charioteer[^p471-7]. *Again*, without the knowledge of the highest Good there can be no right intention — this alone is done with a right intention, which is done for the glory and honor of God — and without a right intention no act of virtue proceeds rightly. Since therefore the habit of faith is that by means of which the highest Good is acknowledged by our minds; hence it is that «faith directs our intention[^p471-8]», and through this it is the rule of every good operation and of every meritorious virtue. And therefore it ought to be called not only a gratuitous virtue, but also the rule and charioteer of the gratuitous virtues. — And the authorities and reasons which are on this side are to be granted.
+
+1. To that, however, which is first objected on the contrary, that faith holds the mean between knowledge and opinion; it must be said that faith is assigned as a kind of mean between knowledge and opinion by Hugh, not because it is composed of those two, as a mean is composed of extremes, but because it holds the middle place as to the degree of certitude; for it is more certain than opinion, and less than knowledge, as will be seen below[^p471-9]: but concerning this mean it is not
+
+necessary that it be in the same proximate genus with the extremes. — It could also be said that this has no necessity in matters of conduct, inasmuch as the mean is found in the genus of virtue, and the extremes are in the genus of vices[^p472-1].
+
+2. To that which is objected, that knowledge is distinguished in this from virtue, that it is directed to the true, and virtue to the good; it can be said that the Philosopher[^p472-2] is speaking there of *habitual* virtue, which is concerned with actions and passions, of which he says that «virtue is operative in the passions and operations of the best men»; and virtue of this kind orders us in those things which are for the end. But of intellectual virtue, of which kind are wisdom and understanding, which order us to the end itself, it does not hold true; and in this way faith is a virtue, not in the way set forth before. — But this manner of speaking seems to be open to challenge in this, that not only of habitual virtue, but also of every other virtue under the character of virtue, this difference seems able to be assigned with respect to knowledge.
+
+And therefore it must be said that the object of faith is true in one way, the object of knowledge in another: the object of knowledge, I say, is such because it is the true seen; but the object of faith is such because it is the true[^p472-3] — the true, I say, not seen, but salvific. For because it is not seen, another habit is required for knowing it than is the habit of knowledge; because it is salvific, therefore that habit orders us to salvation and to the blessed life, and therefore it has the complete character of a virtue. And thus it is plain that nothing prevents faith from being able to be directed to the true, and yet nonetheless to be a virtue, inasmuch as it is directed to the true in another way than knowledge, according to the twofold condition assigned beforehand. For it is directed to the truth not seen and the salvific truth. For because it is not seen, it is believed voluntarily; but because it is not only not seen, but also salvific, it is believed voluntarily and meritoriously, which two things are foreign to the speculation of knowledge. Hence the truth to which faith is directed is a truth *according to godliness*[^p472-4], which indeed is known to Catholics, but was unknown to the philosophers.
+
+3. To that which is objected, that to believe without reason is blameworthy; it must be said that this is true where authority does not supply the place of reason. But where authority supplies the place of reason, it is not blameworthy, but highly commendable. And so it is in faith, since, even if there is not present to the intellect of the believer himself the reason on account of which he ought to assent to the truth, there is nevertheless present the authority of the highest Truth, which persuades his heart; and we know that this highest Truth cannot lie, and therefore it is impious not to believe it. Therefore this does not take away, but rather confers upon faith that it is a virtue.
+
+4. To that which is objected, that the more rational something is, the more it agrees with perfect virtue; it must be said that a thing is called rational in two ways: either because it is consonant with reason elevated and illumined by the light of the supernal Truth, or because it is consonant with reason turned toward sensible knowledge[^p472-5]. If it be called rational in the first way, there is no counter-instance. If it be called rational in the second way, it is false, since frequently reason turned toward sensible things judges to be true things which are false, and to be good things which are evil, and conversely. Hence many things[^p472-6] seem to it irrational which are highly rational, as is plain: for many things seem irrational to philosophers which nonetheless seem highly rational to Christians, such as to be entirely continent and to beg entirely and the like. And as much as the judgment of a man surpasses the judgment of a boy, so much does the judgment of a Christian man surpass the judgment of a single philosopher, and the judgment of reason turned upward the judgment of reason pressed down to lower things. And therefore this does not prevent faith from being a virtue, because it believes certain things which seem to be irrational to the animal man — for they are rational to the spiritual man[^p472-7] — nay, this makes for the character of virtue, that it believes without reason. For if it believed by a compelling reason, that credulity would not be voluntary, but necessary, and so would not be virtuous nor meritorious; as will be better made clear below[^p472-8].
+
+### Scholion
+
+**I.** In this and the two following distinctions St. Bonaventure treats of faith, and indeed altogether according to the mind of the Vatican Council (c. 3, *On Faith*); nay, he explains and illustrates this catholic doctrine excellently; he holds the same scientific principles as St. Thomas, nor does he differ from him except in a few matters of lesser moment, especially in a certain proposition treated below at d. 24, a. 2, q. 3. — On the various *senses* of the word *faith* see here dub. 2. — Several *definitions* of faith are set forth here in dub. 1, and the one which St. Paul (Heb. 11:1) gives is splendidly explained below at q. 5. Briefly, these descriptions are expressed in this and the following question thus: Faith is a habit (or virtue) by which the intellect is voluntarily held captive in obedience to Christ and rests upon the first Truth for its own sake and above all things. In other words the definition of the Vatican Council says the same (loc. cit.): «This faith, which is the beginning of human salvation, the catholic Church professes to be a supernatural virtue, by which, with the inspiring and assisting grace of God, we believe to be true the things revealed by Him, not on account of the intrinsic truth of things perceived by the natural light of reason, but on account of the authority of God Himself revealing, who can neither be deceived nor deceive. For faith, as the Apostle testifies (Heb. 11:1), is the substance of things to be hoped for, the evidence of things not appearing». The same Synod assigns as it were the ultimate foundation of faith in these words: «Since man depends wholly upon God as his Creator and Lord, and created reason is entirely subject to the uncreated Truth, we are bound to render to God who reveals the full obedience of intellect and will by faith». The same is already said here in the body: *For it is just that our intellect should be thus held captive and subjected to the highest Truth, just as our affect ought to be subjected to the highest Goodness; nor can the soul be right unless the intellect assents to the highest Truth for its own sake and above all things, and the affect cleaves to the highest Goodness*.
+
+**II.** That this whole doctrine concerning faith, of such great moment, may be more easily perceived, it helps briefly to set forth beforehand the more principal principles upon which the theory of our author rests, which in sum is the common opinion of the ancient doctors.
+
+1. Certitude is twofold. «For there is a certitude of *speculation*, and there is a certitude of *adhesion*; and the first indeed regards the intellect, the second regards the affect itself» (below, q. 4; cfr. q. 5, ad 6, d. 26, a. 1, q. 5). St. Thomas agrees with the other ancients, here q. 2, a. 2, little-questions 1 and 3, where he sets forth the threefold mode by which the intellect is determined to assent, namely either from the very presence of the intelligible and the evidence of the moving object, as in the intellect of first principles; or by the power of a moving means, as in the knowledge of conclusions; or by the command of the moving will (since the will moves all the powers to their acts), as in faith. Then he continues (loc. cit., little-question 1): «And this will determines the intellect to something which is neither seen through itself, nor determined to be able to be resolved into those things which are seen through themselves, from this, that it deems it worthy to be adhered to, on account of some reason by which it seems good to it to adhere to that thing, although that reason does not suffice to terminate the intellect on account of the weakness of the intellect, which does not see through itself this to which reason judges assent must be given». In the same place (little-question 3) it is asserted: «The certitude which is in knowledge and in the intellect is from the very evidence of those things which are said to be certain; but the certitude *of faith* is from the firm adhesion to that which is believed» (cfr. de Verit. q. 14, a. 1, ad 7). — But it is established that this certitude of adhesion through natural faith necessarily occupies an immense field in social life. For since, in knowing many things, especially particulars, each one is lacking the knowledge of his own intellect, one must adhere, by means of natural faith, to another's intellect which knows the thing, so that thus, while one makes another's knowledge his own, he supplies as it were by substitution his defect and want. But from this natural faith theological faith differs in species (above, d. 9, a. 2, q. 4, ad 2).
+
+2. The object of knowledge is the true seen, the object of faith is the true not seen, but salvific, as is explained here in the reply to 2; or in other words: «Faith is concerned with invisible things, insofar as they are invisible» (below, d. 26, dub. 3); for it is «the evidence of things not appearing» (Heb. 11:1; cfr. below, q. 5). «The light of faith has an enigma annexed; and from this it arises that the intellect is inclined by the affect and directs man to knowing the not-seen» (below, d. 31, a. 2, q. 1, ad 6; cfr. ibid. in the body at the end).
+
+3. Hence «*authority* supplies the place of *reason*... even if there is not present to the intellect of the believer himself the reason on account of which he ought to assent to the truth, there is nevertheless present the *authority* of the highest Truth, which *persuades the heart*; and we *know* that this highest Truth cannot lie; and therefore it is *impious* not to believe it» (here, ad 3). — This *authority* is not just any kind, but *supreme*; infallible in *testifying*, because the first Truth is most strongly binding to the *obedience of faith*, because God alone is Lord. Hence the Truth *dictates* (below, q. 3, and d. 23, a. 2, q. 3) that «our intellect should believe the highest Truth more than itself, and should reduce itself into the obedience of Christ; and through this, that it should believe not only the things which are *according to reason*, but also the things which are *above reason and contrary to* the experience of the senses. But if it refuses, it does not render to the highest Truth the *due reverence*, while it prefers the judgment of its own industry to the *dictate* of the eternal light; which cannot be without the swelling of pride and reprehensible exaltation» (Breviloquium, p. V, c. 7). This doctrine is confirmed by the Vatican Council, can. 1, On Faith: «If anyone shall say that human reason is so independent that faith cannot be commanded of it by God, let him be anathema».
+
+4. Although faith says «a certitude in the intellect» (II. Sent. d. 43, dub. 3) and «essentially regards an act of reason» (q. 2, in the body), nevertheless it also regards an act of the will as essential to itself; therefore concerning it also it holds «essentially to consist»; «and the very willing to believe is essential to faith itself (ibid.), which is more fully explained below at d. 24, dub. 1, and d. 31, a. 2, q. 1, at the end of the body. St. Thomas agrees (de Verit. q. 14, a. 3, ad 10): «Faith is not in the intellect except insofar as it is commanded by the will... Hence although that which is on the part of the will may be called accidental to the intellect, it is nevertheless essential to faith. Ibid. in the body: «To believe... has no assent except from the command of the will; whence according to that which it is, it depends on the will». Hence faith can be a virtue and is rightly called the truth according to godliness (here, ad 2) and «the doctrine according to godliness» (below, q. 5, in the body; cfr. d. 24, dub. 1), and «is not [properly] proved, but proves» (here, dub. 5). This common doctrine is confirmed by the reprobation made by Innocent XI (in the year 1749) of the following proposition (19): «The will cannot bring it about that the assent of faith be in itself more firm than the weight of the reasons impelling to assent warrants».
+
+5. The ultimate objective and intrinsic reason which moves to the assent of faith is «the highest Truth itself [or the authority of the revealing God], upon which faith itself rests for its own sake and above all things» (q. 3, in the body). «But faith looks to the one ground, according to which it believes all credible things» (ibid. ad 2), and «is concerned both with created and uncreated things according to the dictate of the eternal Truth» (ibid. ad 3). — This principle is established among Catholics and is proved by the testimony of the Vatican Council adduced above at n. 1. But concerning the way and manner in which this formal object of faith is assented to on the part of man, most subtle controversies arose in the catholic schools in the following age, concerning which some things will be said below at q. 5, in the scholion.
+
+6. By divine or infused faith, by which one rests upon the first Truth above all things, one cannot believe unless «reason is elevated above itself» through divine illumination and inspiration (below, a. 2, q. 2, in the body, and q. 1, fund. 3); whence it itself is a supernatural gift of God, as is well explained at II. Sent. d. 3, p. II, a. 3, q. 1, ad 3; cfr. below, d. 24, dub. 2. — This is established by faith, since it was defined by the Vatican Council (cfr. below, a. 2, q. 2, scholion). From this divine faith differs entirely the faith naturally acquired, which is sometimes of no virtue (a. 2, q. 2 and 3).
+
+7. The same first Truth, therefore, as it is the objective reason of assent, irradiates the mind both in the beatific vision and by means of faith, but in another way; namely, in the fatherland *fully* and from every part *immediately*, in faith *half-fully* and so that there remains a *mirror and enigma* (below, q. 4, ad 3; cfr. below, d. 35, a. 1, q. 3, and dub. 2). Hence that which is *material* in faith is communicated *through the externally revealed word* and outwardly through hearing, but «as to its formal aspect it is by infusion, not by hearing»; «thus one through the hearing of the heart, and the other through the hearing of the body» (d. 24, dub. 2). For faith adheres to a certain testimony, in which is the first Truth, and so it adheres to the first Truth itself, *transcending* the truth of its own intellect. To the point St. Thomas (de Verit. q. 14, a. 8, ad 3): «The first Truth is the object of the vision of the fatherland as *appearing in its own species*, but of faith as *not appearing*; whence although the object of each act be the same in *reality*, it is nevertheless not the same in *ratio*; and thus a formally differing object makes a different species of act». — «Faith is a perfection of the power, not of just any kind, but according to a state of imperfection, in which the intellect *can err* from the truth and *be held captive on the way*» (below, d. 31, a. 2, q. 1, ad 1). «Faith says a veil of future contemplation and vision; and yet this veil is illuminating rather than obscuring» (IV. Sent. d. 3, p. I, a. 1, q. 3).
+
+8. Nevertheless, that faith may be a rational obedience, a manifold act of reason precedes faith, by which the testimony of God is known to be credible and to be believed; concerning which motives of credibility the Vatican Council teaches many things, c. 2, 3, 4; and see below the scholion to the 5th question.
+
+**III.** In this first question faith is treated of as formed by charity, as the theologians say, which certainly has the complete character of a perfect, supernatural, and meritorious virtue. But below at a. 2, q. 1 and 2, the same question recurs with respect to unformed faith. — Besides many other things to be noted, it is worthy of observation that in the solution to 4 there is taught the twofold rational, namely according to reason either elevated by supernal light, or turned toward sensible things and pressed down to lower things.
+
+**IV.** Alex. of Hales, Summa p. III, q. 68, m. 3. — St. Thomas, here q. 2, a. 4; Summa II–II, q. 4, a. 5; de Verit. q. 14, a. 3. — Bl. Albert, here a. 2. — Peter of Tarentaise, here q. 3, a. 4, little-question 1. — Richard of Middleton, here a. 4, q. 2. — Durandus, here q. 6. — Dionysius the Carthusian, here q. 2. — Biel, here q. 2.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are grouped per page (`p470`, `p471`, `p472`).
+
+[^p470-1]: **La.** Codd. L aa *quae*. Paulo inferius pro *de illa* cod. A *de prima*, et subinde pro *convenienter* cod. Z *congruenter*.
+    **En.** Codices L, aa read *quae* ["which"]. A little further on, for *de illa* ["of that"], codex A reads *de prima*; and then for *convenienter* ["fittingly"], codex Z reads *congruenter*.
+
+[^p470-2]: **La.** Pro *vel* codd. A K Z *an in*.
+    **En.** For *vel* ["or"], codices A, K, Z read *an in*.
+
+[^p470-3]: **La.** Marc. 10, 52; Luc. 17, 19; 18, 42. Cfr. Matth. 9, 22; Marc. 5, 34; Luc. 7, 30; 8, 48. — De maiori huius nec non seqq. argg. vide infra corp. quaest.
+    **En.** Mark 10:52; Luke 17:19; 18:42. Cfr. Matt. 9:22; Mark 5:34; Luke 7:30; 8:48. — On the major of this and the following arguments, see below in the body of the question.
+
+[^p470-4]: **La.** Vers. 9. — In maiori codd. I L V aa voci *cordis* adiungunt *nostri*.
+    **En.** Verse 9. — In the major, codices I, L, V, aa join *nostri* ["our"] to the word *cordis* ["of the heart"].
+
+[^p470-5]: **La.** Vers. 6. — In maiori pro *acceptionis* cod. bb *acceptationis*.
+    **En.** Verse 6. — In the major, for *acceptionis* ["of acceptance"], codex bb reads *acceptationis*.
+
+[^p470-6]: **La.** Hic c. 2. seq. — Cod. X *Magistri in littera*.
+    **En.** Here c. 2 and following. — Codex X reads *Magistri in littera* ["of the Master in the text"].
+
+[^p470-7]: **La.** Libr. I. p. X. c. 2. — De maiori, cuius sententia sumta est ex Aristot., X. Metaph. text. 22. seq. (IX. c. 7.), cfr. supra pag. 170, nota 2. In dicta proposit. pro *naturam* codd. G I L V aa exhibent *rationem*. Paulo inferius pro *sequi videtur* codd. A K *sequitur*.
+    **En.** Hugh of St. Victor, *On the Sacraments*, Bk. I, p. X, c. 2. — On the major, whose sentence is taken from Aristotle, *Metaphysics* X, text 22 f. (IX, c. 7), cfr. above p. 170, note 2. In the said proposition, for *naturam* ["nature"], codices G, I, L, V, aa exhibit *rationem* ["ground"]. A little further on, for *sequi videtur* ["it seems to follow"], codices A, K read *sequitur* ["it follows"].
+
+[^p470-8]: **La.** Qui II. Ethic. c. 6. docet, virtutem esse habitum, «ex quo et bonus homo ipse efficietur et bene opus suum reddet». Ibid. VI. c. 2: *Contemplativae autem cogitationis, et non activae neque effectivae, bene et male esse est verum et falsum.* Et II. Metaph. text. 3. (I. brevior, c. 1.): *Speculativae etenim finis veritas, practicae autem opus.* — In maiori post *et actus* codd. A F H K N T U Z bb repetunt *distinguuntur*; propositio ipsa insinuatur ab Aristot., II. Ethic. c. 1. et II. de Anima, text. 33. (c. 4.). Cfr. tom. II. pag. 561, nota 3. et pag. 633, nota 6.
+    **En.** Aristotle, who in *Ethics* II, c. 6, teaches that virtue is a habit «from which both the good man himself will be made and will render his work well». Ibid. VI, c. 2: *But the being good and bad of contemplative thought, and not of practical or productive, is the true and the false.* And *Metaphysics* II, text 3 (the shorter Bk. I, c. 1): *For the end of speculative knowledge is truth, but of practical, the work.* — In the major, after *et actus*, codices A, F, H, K, N, T, U, Z, bb repeat *distinguuntur*; the proposition itself is intimated by Aristotle, *Ethics* II, c. 1, and *On the Soul* II, text 33 (c. 4). Cfr. tom. II, p. 561, note 3, and p. 633, note 6.
+
+[^p471-1]: **La.** Bernard., Epist. 338. (alios 369.) n. 1: *Fides piorum credit, non discutit.* Sed iste [Abaelardus], Deum habens suspectum, credere non vult, nisi quod prius ratione discusserit. — Edd. substituunt *requirit* pro *inquirit* et paulo superius, pro *homini* posito *omni*, omittunt *ergo pari ratione... sine ratione*.
+    **En.** Bernard, Letter 338 (in others 369), n. 1: *The faith of the godly believes, it does not dispute.* But that man [Abelard], holding God under suspicion, is unwilling to believe except what he has first examined by reason. — The editions substitute *requirit* ["requires"] for *inquirit* ["inquires"]; and a little above, for *homini* placing *omni*, they omit *ergo pari ratione... sine ratione*.
+
+[^p471-2]: **La.** Vide supra pag. 386, nota 2.
+    **En.** See above p. 386, note 2.
+
+[^p471-3]: **La.** Sive 1. de Consider. c. 8. n. 9. et 11, sententialiter. In Serm. 49. in Cantic. n. 5. ait: *Est ergo discretio non tam virtus, quam quaedam moderatrix et auriga virtutum, ordinatrixque affectuum et morum doctrix. Tolle hanc, et virtus vitium erit, ipsaque affectio naturalis in perturbationem magis convertetur exterminiumque naturae.* — Definitionem virtutis habes II. Sent. d. 27. dub. 3.
+    **En.** Or rather, *On Consideration* I, c. 8, n. 9, and II, in substance. In *Sermon 49 on the Canticle*, n. 5, he says: *Discretion, then, is not so much a virtue, as a certain moderatrix and charioteer of the virtues, and the orderer of the affections and teacher of morals. Take this away, and virtue will be vice, and natural affection itself will be turned rather into disturbance and the ruin of nature.* — You have the definition of virtue at II. Sent. d. 27, dub. 3.
+
+[^p471-4]: **La.** Epist. II. Cor. 10, 5: *In captivitatem redigentes omnem intellectum in obsequium Christi.* Cfr. supra pag. 217, nota 3. et 5.
+    **En.** Letter, II Cor. 10:5: *Bringing into captivity every understanding unto the obedience of Christ.* Cfr. above p. 217, notes 3 and 5.
+
+[^p471-5]: **La.** Anselm., de Concept. virg. et orig. pecc. c. 3. et Dialog. de Veritate, c. 12: *Iustitia est rectitudo voluntatis propter se servata.*
+    **En.** Anselm, *On the Conception of the Virgin and Original Sin*, c. 3, and *Dialogue on Truth*, c. 12: *Justice is rectitude of will preserved for its own sake.*
+
+[^p471-6]: **La.** Cod. 0 addit *et proprie*. Subinde pro *sed etiam* edd. substituunt *sed magis*, et paulo inferius ante *veri Boni exspectatio* repetunt *summi et*.
+    **En.** Codex 0 adds *et proprie* ["and properly"]. Then for *sed etiam* ["but also"] the editions substitute *sed magis* ["but rather"], and a little further on, before *veri Boni exspectatio*, they repeat *summi et*.
+
+[^p471-7]: **La.** Cfr. hic lit. Magistri, c. 8. seq. Cicero, V. de Finib. bonor. et malor. c. 6. ait: *Summum autem bonum si ignoretur, vivendi rationem ignorari necesse est.* — De altera ratione, petita ex necessitate agendi cum recta intentione, ad quod Apostolus exhortatur illis verbis I. Cor. 10, 31: *Omnia in gloriam Dei facite,* cfr. II. Sent. lit. Magistri, d. XXXVIII, d. XL. et d. XLI. nec non Comment. ibid. — Paulo inferius post *hoc* edd. subiiciunt *enim*.
+    **En.** Cfr. here the text of the Master, c. 8 f. Cicero, *On the Ends of Goods and Evils* V, c. 6, says: *But if the highest good is unknown, the rule of living must necessarily be unknown.* — On the other reason, drawn from the necessity of acting with a right intention, to which the Apostle exhorts in those words I Cor. 10:31: *Do all to the glory of God,* cfr. II. Sent. text of the Master, d. XXXVIII, d. XL, and d. XLI, as well as the Commentary there. — A little further on, after *hoc*, the editions subjoin *enim*.
+
+[^p471-8]: **La.** August., Enarrat. in Ps. 31. enarrat. 2. n. 4: *Bonum enim opus intentio facit, intentionem fides dirigit.* — Subinde ante *regula est* cod. A inserit *recta*. Paulo superius idem cod. A pro *habitus fidei* substituit *actus fidei*, et pro *agnoscitur* cum cod. K *cognoscitur*.
+    **En.** Augustine, *Exposition on Psalm 31*, exposition 2, n. 4: *For intention makes a work good, and faith directs the intention.* — Then before *regula est*, codex A inserts *recta*. A little above, the same codex A substitutes *actus fidei* for *habitus fidei*, and for *agnoscitur* reads, with codex K, *cognoscitur*.
+
+[^p471-9]: **La.** Quaest. 4. Cfr. etiam d. 24. a. 2. q. 2. seq. — Paulo ante pro *ex illis duobus* codd. A K Z *ab illis duobus*, Vat. *illis duobus tantum*; et pro *conficitur ab extremis* cod. X *componitur ex extremis*. Deinde post *et minus* codd. U I L V aa cc repetunt *certa*.
+    **En.** Question 4. Cfr. also d. 24, a. 2, q. 2 f. — A little before, for *ex illis duobus*, codices A, K, Z read *ab illis duobus*, the Vatican edition *illis duobus tantum*; and for *conficitur ab extremis*, codex X reads *componitur ex extremis*. Then after *et minus*, codices U, I, L, V, aa, cc repeat *certa*.
+
+[^p472-1]: **La.** Cfr. Aristot., II. Ethic. c. 6. seqq. — Pro *necessitatem* codd. G I L V aa bb *veritatem*.
+    **En.** Cfr. Aristotle, *Ethics* II, c. 6 ff. — For *necessitatem* ["necessity"], codices G, I, L, V, aa, bb read *veritatem* ["truth"].
+
+[^p472-2]: **La.** Aristot., II. Ethic. c. 1. duplicem distinguit virtutem, intellectivam et moralem: «Intellectiva ut plurimum ex doctrina habet et generationem et incrementum... moralis vero ex more, id est, assuetudine acquiritur, unde etiam nomen habuit» etc. Ibid. c. 6. ait: *De morali [virtute] loquor; haec enim circa affectus [πάθη] et actiones versatur, in quibus excessus et defectus et medium est, ut et timeat et confidat aliquis... ac demum laetetur et doleat magis et minus, atque utraque haec non bene; nam quando oportet, et ob quae, et erga quos, et cuius causa, et ut oportet haec facere, medium est atque optimum; id quod est ipsius virtutis. Simili modo circa actiones est excessus et defectus et medium* etc. — De virtutibus intellectualibus agitur ibid. VI. c. 2. seq. — Paulo inferius pro *optimorum* Vat. *suppositorum*.
+    **En.** Aristotle, *Ethics* II, c. 1, distinguishes a twofold virtue, intellectual and moral: «The intellectual for the most part has both its generation and its increase from teaching... but the moral is acquired from custom, that is, from habituation, whence also it took its name» etc. Ibid. c. 6 he says: *I speak of moral [virtue]; for this is concerned with the affections [πάθη] and actions, in which there is excess and defect and a mean, so that one both fears and is confident... and finally rejoices and grieves more and less, and both of these not well; for to do these things when one ought, and on account of what, and toward whom, and for whose cause, and as one ought, is the mean and the best; which is what belongs to virtue itself. In like manner there is excess and defect and a mean concerning actions* etc. — Intellectual virtues are treated of ibid. VI, c. 2 f. — A little further on, for *optimorum* ["of the best"], the Vatican edition reads *suppositorum*.
+
+[^p472-3]: **La.** Cod. 0 adiicit *creditum*. Non ita multo ante pro *dicendum est* codd. E F G I L N T V aa bb *addendum est*, cod. H *attendendum est*. Paulo inferius pro *et ad vitam* codd. A K *id est ad vitam*.
+    **En.** Codex 0 adds *creditum* ["believed"]. Not much before, for *dicendum est*, codices E, F, G, I, L, N, T, V, aa, bb read *addendum est*, codex H *attendendum est*. A little further on, for *et ad vitam*, codices A, K read *id est ad vitam*.
+
+[^p472-4]: **La.** Epist. ad Tit. 1, 1: *Et [secundum] agnitionem veritatis, quae secundum pietatem est.* Cfr. quaest. seq. — Aliquanto superius pro *et veritatem* edd. male *sed veritatem*, et post pauca pro *in quam est fides* cod. 0 *in quantum est fidei*, edd. *in qua est fides*.
+    **En.** Letter to Titus 1:1: *And [according to] the acknowledging of the truth, which is according to godliness.* Cfr. the following question. — Somewhat above, for *et veritatem*, the editions wrongly read *sed veritatem*; and a little after, for *in quam est fides*, codex 0 reads *in quantum est fidei*, the editions *in qua est fides*.
+
+[^p472-5]: **La.** Cfr. II. Sent. d. 24. p. II. a. 1. q. 1. in corp.
+    **En.** Cfr. II. Sent. d. 24, p. II, a. 1, q. 1, in the body.
+
+[^p472-6]: **La.** Pro *multa* edd. hic et paulo inferius *nonnulla*.
+    **En.** For *multa* ["many"], the editions read here and a little further on *nonnulla* ["some"].
+
+[^p472-7]: **La.** Epist. I. Cor. 2, 14: *Animalis autem homo non percipit ea quae sunt Spiritus Dei* etc. — Pro *sunt enim* codd. M 0 *sunt tamen*, Vat. *sunt autem*; edd. 1, 2, omisso proxime ante *animali*, sic prosequuntur: *aliquando enim sunt rationabilia* etc. Mox pro *immo hoc facit* edd. *et hoc facit*.
+    **En.** Letter, I Cor. 2:14: *But the natural man perceiveth not those things which are of the Spirit of God* etc. — For *sunt enim*, codices M, 0 read *sunt tamen*, the Vatican edition *sunt autem*; editions 1, 2, omitting the immediately preceding *animali*, continue thus: *for sometimes they are rational* etc. Soon, for *immo hoc facit*, the editions read *et hoc facit*.
+
+[^p472-8]: **La.** Quaest. 2. et 4. nec non d. 24. dub. 1. Cfr. ibid. a. 2. q. 3.
+    **En.** Questions 2 and 4, as well as d. 24, dub. 1. Cfr. ibid. a. 2, q. 3.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF column bands (`/tmp/colcrop/vol3-p{470..474}-{L,R}-*.png`) over the IA djvu OCR base (raw lines 32685–32952, `raw/bonaventure_vol3_raw.txt`). English is a fresh literal translation. The ARTICULUS I header (`De fide simpliciter dicta sive formata`) + QUAESTIO I header (`Utrum fides sit virtus`) were rendered at d23-divisio's tail (p.470-L); per the Vol II/III convention the short article opener folds into q1, so the headers are re-rendered here at the top of q1's body. **Opener alignment VERIFIED on PDF (p.470-R-1): "Circa primum sic proceditur et quaeritur, utrum fides sit virtus" — this is q1.**
+
+**Page-split map** (pdf = printed + 22):
+- p.470 (PDF 492): ARTICULUS I + QUAESTIO I headers, body opener, fundamenta 1–4, *Sed contra* 1–2 (begins). **8 footers** (`[^p470-1..8]`).
+- p.471 (PDF 493): *Sed contra* 3–4, Conclusio, Respondeo (auriga doctrine), Solutio *Ad 1* (begins). **9 footers** (`[^p471-1..9]`).
+- p.472 (PDF 494): Solutio *Ad 1* (ends), *Ad 2*, *Ad 3*, *Ad 4*; body ends; SCHOLION begins at page foot. **8 footers** (`[^p472-1..8]`).
+- p.473 (PDF 495): Scholion I, II (sub-points 1–6 begin). **No page footers** (scholion runs continuously).
+- p.474 (PDF 496): Scholion sub-points 7, 8, III, IV; then QUAESTIO II begins. **No page footers.**
+
+**Apparatus total: 25 body footers** (p.470 ×8 + p.471 ×9 + p.472 ×8), per-page restart. The scholion has no separate footnote apparatus — it is a continuous editorial note across pp.473–474. The OCR `pag.170` in `[^p470-7]` is correctly `pag.170` (a cross-reference to Tom. II–style pagination as printed; the same footer's self-reference reads "pag. 470, nota 2" on the PDF for the *naturam/rationem* variant — both retained as printed).
+
+**Footers migrating IN (per d23-divisio hand-off):** the **p.470 NOTAE AD COMMENTARIUM block** (8 entries, keyed to the QUAESTIO I body opener + *Sed contra*, incl. `[^p470-7]` re *naturam*/*rationem* and `[^p470-8]` re Aristotle II *Ethic.* c.6 / *virtus in bonum, scientia in verum*) is captured here in a1-q1, as predicted. **Footers OUT:** none — q1 closes cleanly at the QUAESTIO II header (raw 32953); p.472's footers are wholly q1's; the scholion ends right before QUAESTIO II.
+
+**Scholion finding:** a1-q1 **HAS its own scholion** (I–IV, with sub-points 1–8 under II) — the prediction "LIKELY HAS one" is **CONFIRMED**; it is NOT *pro quaest. seq.* Scholion III explicitly states "In hac I. quaestione agitur de fide ut caritate formata," confirming this scholion belongs to q1.
+
+**Seam integrity:** opens at the ARTICULUS I/QUAESTIO I header + *Circa primum…* body (raw 32685–32688), continuous from d23-divisio's TRACTATIO QUAESTIONUM tail (p.470-L). Closes at the QUAESTIO II header *Utrum fides sit in parte animae cognitiva, an affectiva* (raw 32953) → forwards to **d23-a1-q2**.
+
+**`[?]` flags:** none. All five PDF pages legible at 450 dpi; the OCR base was already near-ABBYY quality and corroborated band-by-band.
