@@ -6,310 +6,294 @@ distinctio: 23
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 32953
-line_end: 33238
-word_count_latin: 4192
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Utrum fides sit in parte animae cognitiva, an affectiva"
+title_en: "Whether faith is in the cognitive or the affective part of the soul"
+printed_pages: [474, 475, 476, 477, 478]
+pdf_pages: [496, 497, 498, 499, 500]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 474–478"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (vol3 p.474–478 L/R) over IA djvu OCR base (raw lines 32953–33238), fresh literal English translation, full apparatus from raw OCR (37 body footers, p.474 ×6 + p.475 ×10 + p.476 ×10 + p.477 ×11), scholion I–II from OCR with no [?] flags (2026-06-10)"
 format_version: 1
 ---
 
 # bon-sent-III-d23-a1-q2
 
+## *Utrum fides sit in parte animae cognitiva, an affectiva*
+
+---
+
 ## Latin
+<!-- page 474 -->
 
-QUAESTIO II.
-                                        Vtrum fides sit in parte animae cognitiva, an affectiva.
+### Quaestio II. *Utrum fides sit in parte animae cognitiva, an affectiva.*
 
-                   Secundo quaeritur, utrum fldes sit in parte                  tiva3: ergo necesse est, quod aliqua virtus theolo-
-             animae cognitiva, an affectiva. Et quod sit in parle               gica reformet potentiam cognitivam. Non est autem
-             cognitiva, videtur :                                               aliam dare nisi fidem; si ergo virtus est iu ea po-
-                   1. Primo per Augustinura , qui sic definit cre-              tentia, quam reformat; videtur, quod fides sit in
-1. Argg. pro dere m libro de Praedestinatione
-    parte.                                  . Sanctorum    ' : « Cre-
-                                                      ......                    potentia cognitiva.
-             dere est cogitare cum assensione», ad ulam igitur                        4. Item, in eadem vi est virtus gratuita et dos
-             vim pertinet credere, ad quam pertinet cogilare;                   illi succedens in gloria; sed visio, quae succedit
-             sed cogitare est potentiae cognitivae: ergo et credere.            fidei \ est in potentia cognitiva, sicut manifestum
-             Si igitur in illa potentia est fides, cuius actus est              esl: ergo etc.
-             credere; videtur, quod fides sit in parte animae                         5. Item, in illa potentia animae est virtus tan-
-             cognitiva.                                                         quam in subiecto, circa cuius actum explical diffi-
-                   2. Item , ad Romanos decimo ' : Fides est ex                 cultatem — habitus enim in ea potentia collocatur,
-             auditu; ibi Gregorius: «Dat intellectum, dum de                    ad cuius opus habilitat — si ergo per fidem ca-
-             auditis mentem illustrat»: si ergo fides est per au-               ptivatur intelkclus in obsequium Christi b, ergo fides
-             ditum, et fides Uluminat mentem, et tam audire                     expedit actum ipsius potentiae intellectivae: est igi-
-             quam illuminari spectat ad partem animae cogniti-                  tur in ipsa tanquam in subiecto. .
-             vam; videtur, quod fides sit in in parte animae co-                      Sed contra: 1. Tullius6 definiens virtutem di-Pro2. par-
-                                                                                cit, quod «virtus est habitus voluntarius » : ergo si
-         gnitiva.                                                               fides est virtus, est habitus voluntarius; sed habi-
-               3. Item, reformatio imaginis fit per tres vir-
-         tutes theologicas ; sed imago non tantum consislit in                  tus voluntarius est in voluntate tanquam in subie-
-         potentia affectiva, verum etiam in potentia cogni-                     cto : ergo et fides.
+Secundo quaeritur, utrum fides sit in parte animae cognitiva, an affectiva. Et quod sit in parte cognitiva, videtur:
 
+1. *Primo* per Augustinum, qui sic definit credere in libro *de Praedestinatione Sanctorum*[^p474-1]: «Credere est cogitare cum assensione», ad illam igitur vim pertinet credere, ad quam pertinet cogitare; sed cogitare est potentiae cognitivae: ergo et credere. Si igitur in illa potentia est fides, cuius actus est credere; videtur, quod fides sit in parte animae cognitiva.
 
-               1 Cap. 2. n. S. In testimonio allalo pro assensione, quod        venitur. — Paulo inferius pro ad partem animae cognitivam
-         et in textu origin. habetur, edd. 1, 2 cum multis codd. asser-         [codd. T Z cognitivae] codd. G I L V aa ad cognitionem animae.
-         tione. ldem mendum in hac et seqq. distinctionibus pluries apud              3 Cfr. de his duab. proposit. II. Sent. d. 16. a. 2. q. 3.
-         eosdem redit. In fine arg. pro cognitiva complures codd. co-                 * Cfr. infra d. 31. a. 2. q. I.
-         gnitivae.                                                                    5 Epist. II. Cor. 10, 5. — Respectu maioris dicit Aristot.,
-               2 Vers. 17. — Senlentia Gregorii, quam etiam supplemen-          II. Ethic. c. 3: Signum autem habituum sit vel voluptas, vel
-         tum ad Sum. Alex. Hal., coll. 34. a. 1. affert, addito tamen Deus      aegritudo [molestia], quae facta [opera] consequitur.
-         post dat, sumta videtur ex II. Homil. in Evang. homil. 30. n.                6 Libr. V. de Finib. bonor. et malor. c. 13, ubi duo ge-
-         3 , ad quem locum etiam infra d. 24. dub. 2. in fine respi-            nera virlutum distinguit: « unum earum quae ingenerantur
-         citur. Vide etiam XI. Moral. c. 9. n. 12, ubi sic legitur: Mu-         suapte natura appellanturque non voluntariae, alterum earum
-         tum est os omne... si ille [Deus] interius in corde non clamet,        quae in volunlate positae magis proprio nomine virlutes ap-
-         qui aspirat verba , quae audiuntur. Cfr. ibid. XXIX. c. 24.            pellari solent ». Cfr. II. Sent. d. 27. dub. 3, ubi aliae defini-
-         n. 49. Pro Gregorius edd. auctoritate nonnullorum codd.                tiones virtutis afferuntur, etiam illa Aristot. , II. Ethic. c. 6:
-         substituerunt Glossa ; sed neque apud Slrabum neque apud               Virtus est habitus voluntarius [electivus] in medio consistens, re-
-         Lombardum neque apud Lyranum talis Glossa in loc. cit. in-             cta ralione determinatus, prout sapiens determinabit.
-                                                                                                                                 /i7!i
+2. Item, ad Romanos decimo[^p474-2]: *Fides est ex auditu;* ibi Gregorius: «Dat intellectum, dum de auditis mentem illustrat»: si ergo fides est per auditum, et fides illuminat mentem, et tam audire quam illuminari spectat ad partem animae cognitivam; videtur, quod fides sit in parte animae cognitiva.
 
-                                                DIST. XXIII. ART. I. QUAEST. II.
+3. Item, reformatio imaginis fit per tres virtutes theologicas; sed imago non tantum consistit in potentia affectiva, verum etiam in potentia cognitiva[^p474-3]: ergo necesse est, quod aliqua virtus theologica reformet potentiam cognitivam. Non est autem aliam dare nisi fidem; si ergo virtus est in ea potentia, quam reformat; videtur, quod fides sit in potentia cognitiva.
 
-     2. Iteni, Augustinus de Moribus Ecclesiae ', vir-                     Quidam enim dicere voluerunt, quod fides estopmioi.
-tutein deliniens dicit , quod « virtus non est aliud                  in potentia cognitiva et iu intellectu speculativo, se-
-quani anioi' ordinatus »: ergo si oninis virtus est                   cundum quod speculativus. — Et ratio eorum est ista, h»u».
-amor, essentialiter loquendo, oinnis virtus est in                    quia inlellectus speculalivus dicitur esse ille qui
-ea potentia, cuius est amare; sed hoc est potentiae                   lendil in verum sub ratione veri6; fides autem fa-
-afferlivae, non cognitivae: ergo omnis virtus est in                  cit intellectum credere articulos, non quia bonos,
-potentia affectiva.                                                   sed quia veros; ita enim quis credit damnationem
-      3. Itein, Magister llugo in libro de Saeramen-                  inalorum, sicut glorilicationem bonorum. Et iterum,
-tis a dicil, quod «in alTectu fidei substantia reperi-                caritas et fides distinguuntur in obiecto quantum
-tur»; sed in ea potenlia est virtus tanquam in sub-                   ad rationem motivi; et quoniam caritas tendit in
-iecto proprio, in quo reperitur eius substanlia: si                   Deum sub ratione boni, necesse est, quod fides ten-
-ergo haec est potentia affecliva, videtur etc.                        dat in Deum sub ratione veri; unde assentit sum-
-      4. Item, in nulla potentia esl virlus fidei, quae               mae Veritati, uon quia bonitas, sed quia veritas.
-possit cogi, quia, sicut dicit Augustinus3, «cum ce-                  Quoniam igitur intellectus specuhitivus respicit ve-
-tera possit homo nolens, credere non potest nisi                      rum sub ratione veri; hinc est, quod dixerunt, fi-
-volens»; sed potentia cognitiva potest cogi: ergo                     dem esse in intellectu speculativo , in quanluin est
-fides non potest esse in potentia cognitiva ; et est                  speculativus. — Nec obviant his verba philosopho-
-in potentia cognitiva, vei aflectiva: ergo etc.                       rum7, quia ipsi de virtute ftdei nihil intellexerunt.
-      5. Item, iu illa potentia est virtus sicut in sub-                    Aliis atitem aliter videtur esse dicendum , vide- °Pini0 2-
-iecto, quae est principium aclus et operationis illi                  licet quod fides est in intelleclti practico. Intellectus
-virluti debitae4; sed nullus assentit veritali non vi-                enim praclicus dicitur esse intellectus exlensus, se-
-sae, nisi quia vult: ergo si priucipium actus cre-                    cundum quod vult Philosophus 8, quod « intellectus
-dendi habet ortum a volunlate, necesse est, lidem                     speculalivus extensioue fit praeticus». Contingit au-
-esse in ea tanquain in subiecto proprio. Si tu dicas ,                leni, intellectum extendi tripliciler: vel per coniun-
-quod siinul est in intellectu et affectu; contra hoc                  ctionem sui cum affectione, a qua inciinatur; vel
-est , quia unus habitus simplex non potest esse in                    per coniuuctioneni sui cum affectione , ad quam in-
-duabus potentiis; sed cognitiva ct affecliva sunt di-                 clinat; vel per coniunctionem sui cum operatione,
-versae potentiae, sicut ostensum est supra in secundo                 quam dirigit et regulat. — Omnibus autein his mo-
-libro5: ergo si fides est habitus unus, non potest                    dis contingit fidem poni in intellectu extenso sive
-esse simul et semel in illis potentiis duabus. El ite-                practico secundum varios ipsius fidei stalus. Nam fi-
-rum, per lioc non solvitur, quia adbuc restat quae-                   des simpliciter dicta, sive sit informis sive formata9,
-stio, in qua illarum potentiaruin sit primo et prin-                  quae facit, honiinem credere Deo in his quae non
-cipaliter, quia quodcumque horuin detur, videntur                     videt, est in ipso intellectu, in quantum inclinatur
-obviare rationes, quae sunt ad oppositam partem.                      ab ipsa voluntale; non enim crederet, nisi vellet.
-                                                                      — Fides autem formala, qua quis credit in Dettm,
-                        CONCLUSIO.                                    est in ipso inlellectu , in quantum inclinat affectum.
-                                                                      Ad hoc enim, quod aliquis credat in Deum per fi-
-Fides , ut est virtus el principium meriti , est in                   dem formatam, oporlet, ut in ipsum amando tendat,
-     libero arbitrio ut subieclo; ut est habitus, re-                 seciindum quod habelur in litlera 10. — Fides autem
-     spicit quodam modo inteUectum speculativum,                      perfecta, de qua dicit Apostolus, quod est operans
-     quodam vero modo intellectum extensum sive                       per dilectionem, illa quidem est in ipso intellectu,
-     practicum, et ipsum affectum eiusque actum.                      in quantum mediante affectu dirigit opus. Et sic pa-
-                                                                      tet , quod secundum istos lides est in intellectu pra-
-     Respondeo: Ad praedictorum intelligentiam est                    ctico sive extenso secundum diversos ipsius fidei sta-
-notandum, quod circa hoc diversi diversa senserunt.                   tus, sive intellectus practicus dicatur communiter ,
+4. Item, in eadem vi est virtus gratuita et dos illi succedens in gloria; sed visio, quae succedit fidei[^p474-4], est in potentia cognitiva, sicut manifestum est: ergo etc.
 
+5. Item, in illa potentia animae est virtus tanquam in subiecto, circa cuius actum explicat difficultatem — habitus enim in ea potentia collocatur, ad cuius opus habilitat — si ergo per fidem captivatur *intellectus in obsequium Christi*[^p474-5], ergo fides expedit actum ipsius potentiae intellectivae: est igitur in ipsa tanquam in subiecto.
 
-      1 Libr. I. c. 15. n. 23, ubi non quidem virtulem generatim      cod. A ratio eius ; paulo inferius pro bonorum Vat. cum ali-
-sic definit, ut hic in Commenl. asserilur, attamen docel , quatuor    quot codd. beatorum.
-virlutes cardinales « ex ipsius amoris vario quodam arTeclu »              7 Quippe qui virtutem in intellectu practico ponunt, ut in
-dici. Melius fuisset lectorem delegare ad Civ. Dei, ubi XV. c.        seqq. tangitur. — Subinde pro de virtute fidei edd. de veri-
-22. S. Doctor sic dicit: Unde mihi videlur, quod definilio bre-       tale fidei.
-vis et vera virtutis : ordo est amoris. — In fine arg. cod. K              8 Libr. III. de Anima, text. 34. et 49. (c. 7. et 9.). Cfr.
-addit iion cognitiva.                        2 Libr. I. p. X. c. 3.   tom. II. pag. 538 , nota 2. — Post pauca pro a qua indinatur
-      3 In loan. Evang. tr. 26. n. 2 : Intrare quisquam ecclesiam     codd. A (i (H 1 a prima manu) L T V aa bb perperani ad quam
-potest nolens, accedere ad altare potest nolens, accipere Sacra-      inclinatur.
-menlum potest nolens, credere non potest nisi volens. Cfr. su-              9 Cfr. infra a. 2. q. I. seqq. — De differentia inter cre-
-pra pag. 217, nota 5.                                                 dere Deo et credere in Deum vide hic lit. Magistri , c. 4. et
-      * Vide supra pag. 388, nota 2.                                  inlra dub. 3. — Mox pro in his cod. F de his, et deinde codd.
-      5 Dist. 24. p. I. a. 2. q. 1 . — Paulo anle pro habitus sim-    G I L aa cc voci intellectu addunt practico.
-plex cod. bb habitus simul.                                                 10 Hic c. 4. — Verba Apostoli, quae hic respiciuntur, sunt
-      6 Cfr. supra pag. 470, nota 8. — Superius pro ralio eorum       illa Gal. S, 6: Fides, quae per carilatem operatur.
-         476                                                  SENTENTIARUM LIB. III.
+**Sed contra:** 1. Tullius[^p474-6] definiens virtutem dicit, quod «virtus est habitus *voluntarius*»: ergo si fides est virtus, est habitus voluntarius; sed habitus voluntarius est in voluntate tanquam in subiecto: ergo et fides.
 
-             sive proprie , sive magis proprie , secundum quod                cundum quam consistit laus et meritum , sicut culpa,                  tQS
+<!-- page 475 -->
 
-      Ratio. magis et magis habet extendi. — ■ Ratio autem, quae              secundum quam attenditur 6 vituperium et demeri-
-             movet istos hoc ponere , non solum est verbum Phi-               tum. Virtus etiam est habitus reddens potentiam fa- Qmd sit vir-
-             losophi , qui dicit ' , quod virtutes sunt in intelligen-        cilem respectu alicuius aclus. Si ergo virtus est prin-
-             tia practica, sed etiam ipsa ralio recta, quae dicit,            cipium laudis et meriti, necessarium est, eam poni
-             quod virtus non potest esse nisi habitus voluntarius,            in illa potentia animae, quae est principium primum
-             cum circa ipsam consistat laus et meritum; et ideo               operis laudabilis et meritorii. Nam si poneretur in po-
-             impossibile est, quod virtus fidei sit in intellectu,            tentia inferiori, tunc virtus potentiae naturalis im-
-             nisi in quantum intellectus iungitur affectui. Intelle-          peraret virtuti gratuitae. Si ergo liberum arbitrium
-             ctus autem affectui iunctus et ipsi permixtus dicitur            principium est meriti et demeriti6, necesse est, om-
-             esse intellectus extensus vel intellectus practicus;             nem virtutem in libero arbitrio poni. Rursus, cum
-             et ideo dixerunt isti, fldem esse in practico intel-             habitus sit in ea potentia, circa cuius actum expli-
-             lectu.                                                           cat difficultatem , et virtus sit habitus ; necesse est ,
-                    Restat adhuc tertius modus dicendi, videlicet             eam reperiri in ea potentia sicut in subiecto , quam
-  opinio 3. quod fldes nec est omnino in potentia cognitiva nec               ad opus habilitat. Quoniam igitur quaedam virtutes
-             omnino in potentia affectiva, sed quodam modo in                 explicant aclus rationalis , quaedam actus concupi-
-             hac, quodam modo in illa. Et hoc est quod dicit ma-              scibilis , quaedam actus irascibilis; ideo quasdam
-             gister Hugo de sancto Victore in libro de Sacramen-              necesse est poni in rationali, quasdam in concupi-
-             tise: «Duo, inquit, sunt, in quibus fldes consistit ,            scibili, quasdam in irascibili '.
-             cognitio videlicel et affectio. In affectu quidem sub-                 His praesuppositis, facile est videre , quod est8
-             stantia fldei reperitur, in cognitione vero materia».            subiectum fidei. Si enim fides virtus est, circa quam suiiectum
-      Ratio. — Ratio autem, quae movet ad hoc ponendum, est,                  consistit laus et meritum , necesse est , quod ipsa in conciusio i.
-             quod actus voluntatis est essentialis ipsi fldei ; nun-          libero arbitrio ponatur. Rursus, si fldes habitus est ,
-             quam enim esset virtuosum credere, nisi esset vo-                per quem intellectus captivatur in obsequium Chri-
-             luntarium. Unde et Augustinus dicit, quod «virtus                sti et innititur primae Veritati propter se; et hoc
-             non est aliud quam amor ordinatus » . Si ergo fides              modo dicitur intellectus quodam modo speculativus :
-             est virtus, respicit actum voluntatis ut sibi essen-             necesse esl, quod habitus fidei quodam modo sit in conciusioa.
-             tialem: ergo et circa illam habet essentialiter consi-           intellectu, secundum quod habet rationem specula-
-             stere. Rursus , quia ipsi fldei cognilio essentialis est         tivi. — Et quoniam intellectus non habilitatur ad
-                                                                              assentiendum ipsi Veritati primae secundum suum
-             et illuminatio , per quam intellectus dirigitur3 in
-             summam Veritatem et ei subiicitur; ideo ipsa fides               iudicium, sed secundum voluntatis imperium; ideo conciusio 3.
-             essentialiter respicit actum rationis. Et propterea di-          fldes non respicit intellectum tanquam pure specu-
-             cunt illi, qui sunt huius positionis, fidem esse non             lalivum , sed necessarium est , quod ipsa sit in ipso
-             tantuiiL in ratione, sed etiam in voluntate, cum                 intellectu, secundum quod est quodam modo exten-
-             utrumque actum respiciat essentialiter. Quia vero                sus et ab affectu inclinatus. — Rxirsus , quoniam
-             actus rationis respectu actus voluntatis est materia-            ipsum velle credere est essentiale ipsi fldei , hinc conciusio 4.
-             lis, cum ratio inclinetur a voluntate; ideo etiam di-            est , quod habitus ille 9 non tantum respicit intelle-
-             xerunt, quod in ralione materia fidei reperitur, in              clum, ut speculalur summam Veritatem, nec etiam
-             affectione vero substantia.                                      ut inclinatur ab affectu , sed etiam ipsum affectum.
-                    Omnes autem hi modi dicendi a magnis cleri-                     Ex his patet, quod non est repugnantia inter
-             cis sumserunt principium, et quilibet eorum habet                praedictas positiones, si quis recte inlelligat, immo
-conciiiatio
-trium opi-
-             satis rationabile
-                          .    .
-                                fundamentum. Et si quis recte   ..
-                                                                    in-
-                                                                     .,
-                                                                              ex omnibus quasi colligitur una veritas integra: quo-
-nionum. telligal4, mveniet , quemhbet eorum habere ahquid                     niam fldes, ut virtus est et principium meriti, re-
-             veritatis. Ut autem hoc planius fiat, ascendendum                spicit liberum arbitrium ut subiectum; in quantum
-subiectum est
- virtutis in      altius ad .videndum subiectum
-                                          .        virtuiis .in ,gene-        vero habitus est, quodam modo respicit intellectum
- genere. rali ; quod quidem mtueri possumus satis plane,                      speculativum et eius actum , qui est credere verum ,
-             quibusdam praesuppositis. — Virtus enim est, se-                 quia verum 10 ; quodam modo intellectum extensum
+2. Item, Augustinus *de Moribus Ecclesiae*[^p475-1], virtutem definiens dicit, quod «virtus non est aliud quam amor ordinatus»: ergo si omnis virtus est amor, essentialiter loquendo, omnis virtus est in ea potentia, cuius est amare; sed hoc est potentiae affectivae, non cognitivae: ergo omnis virtus est in potentia affectiva.
 
-               1 Fusius II. Elhic. c. 1-7. et VI. c. 1-4. — lbid. I. c. 12.        4 Codd. A K inspiciat.
-                                                                                   5 Pro attenditur codd. G I L V aa consistit. Infra post tunc
-        seq. et II. c. 5' nec non III. c. 1. insinuatur etiam ratio , sub-
-        inde allata et petita ex merito atque laude. — Superius pro           virtus codd. G I L (aa primitus) omittunt polentiae.
-        intellectus practicus codd. I L V aa intellectus extensus; deinde         6 Cfr. supra pag. 381, nota I.
-        plurimi codd. et edd. primo loco ponunt minus bene proprie,               ' Vide Aristot., I. Ethic. c. 13.
-        secundo loco communitei; refragantibus codd. A K , et paulo                8 Edd. et nonnulli codd. quid esl , et mox pro circa quam
-        posl pro magis et magis cod. A magis el mimis. Aliquanto in-          codd. G I L V aa secundum quam.
-        feritis pro cum circa ipsam codd. N 0 cum circa ipsum.                     9 Codd. G I L V aa habitus fidei.
-              2 Libr. 1. p. X. e. 3.                                               10 Cod. F adiicit dicil (i. e. respicit). Vat. deinde sola sic
-              3 Codd. G I L V aa quae dirigit intellectum. Mox post ideo      prosequitur : Quia vero est liabitus operans per dilectionem et
-        memorati codd. omittunt ipsa fides, et post essentialiter codd.       dirigens opus mediante affectu, respicit quodam modo intelle-
-        A K Z subiiciunt etiam.                                               ctum etc.
-                                                                                                                                           477
-                                                        DIST. XXIII. ART. I. QUAEST. II.
+3. Item, Magister Hugo in libro *de Sacramentis*[^p475-2] dicit, quod «in affectu fidei substantia reperitur»; sed in ea potentia est virtus tanquam in subiecto proprio, in quo reperitur eius substantia: si ergo haec est potentia affectiva, videtur etc.
 
-             et eius aetum, qui esl credere yoluntarie sive cre-              quid sit snbieclum fidei. Nam licet in quantum vir-
-             dendo tendere in Denm ; quodara raodo ipsum affe-                tus meritoria dicenda sit esse in libero arbitrio ,
-             ctum et eius actuin , qui est velle assentire ei , ad            in quantuin tainen habitus reddens potentiam faci-
-             quod ratio ex se non potest attingere.                           lem ponenda est quodam modo in potentia cogni-
-                   Si tu obiiceres ' , quod ista non possunt simul            liva, sicut ostendunt rationes ad primam parteiu : Ad argg. pro
-  obiiciiur. stare, quia, cum fides sit habitus simplex, et unus              quoniam ad fidem pertinet cogitare, ad fyJem 7 per-
-             habitus simplex sit ic una potentia tanquam in sub-              tinet illuminare et ralionem reformare et intelle-
-             iecto, non videtur, quod possit omnes illas polen-               clum caplivare, ipsi etiam fidei succedit videre;
-             lias tanquam unum subiectum respicere ; ad hoc di-               quae omnia respiciunt cognitionem. Ideo rationes ad
-             cendum, quod niliil iinpcdil dicere, unain et ean-               partem illam inductae sunt concedendae.
- Rosp.   no- (Jem virtutem esse simul in
-   tanda de                              ...
-                                               Ubero arbitrio et ra--               Nec eis obviant rationes ad oppositum: quoniam.Adargg. pro
-   vinute. tione et voluntale: quia, sicut in secuudn libro                   licet fides respiciat actum potentiae cognitivae, non
-             ostensuni fuit, liberum a.rbitrium non dicit poten-              tamen ipsum respicit onmino pure, sed in quantum
-             liam distinctain a ralione et voluntate secundum rem              habet uffevlionem concomitantem et quodam modo
-             et essenliam , immo, secimduiu quod vult beatus                  praesidenleni". Et ideo etiam necesse est ponere,
-             Augustinus, liberum arbitrium compleclilur tres po-              quod fides quodam modo sit in affectione , sicul di-
-             tentias, scilicet irascibilem, concupiscibilem et rationa-       cit magister Hugo de sancto Victore; et hoc. quia
-             lem. Et ideo nullum inconveniens est, quod unaquae-              est habitus voluntarius et amor ordinatus , et ta-
-             que virtus, quae reponitur in unaquaque illarum3                 lis naturae est actus eius, quod ad ipsum nenio po-
-             polentiarum secundum quod habitus , in libero ar-                test cogi invilus. Et ideo concedi possunt rationes,
-             bitrio reponatur secundum quod virtus et ineriti                 quae sunt ad partem sequenlem.
-iem de ha- principium. — Similiter nullum est inconveniens po-                      Quod aulem rationes sibi invicem non obvient, NonsiMob-
-             nere, unum habitum esse in ratione et voluntate ,                sed. utraeque verum eoncludant,
-                                                                                                           , ,
-                                                                                                                    salis
-                                                                                                                       .
-                                                                                                                          clare potest Mantargg.
-             ita quod unam illarum potentiarum respiciat quan-                videre', si quis polest capere, quod ad esse fidei
-             tum ad actum materialem, alteram quantum ad                      virtulis concurrit actus rationis simul et voluntatis,
-             actum formalem; sicut patet, quod habitus scien-                 quod bene innuit Apostolus'" in ipsa notificatione fidei,
-             tiae quoad quid respicit memoriam, soilicet quoad                cum dicit, fidem esse substanliam rerum speran-
-             retentionem speciei, et qnoad quid J intelligentiam ,            darum, argumentum non apparenlium, tangens
-             scilicet quoad facilitatem conversionis; et tamen di-            quod est in ea cognilionis , et quod est a/fectionis.
-             citur unus habilus simplex. Quamvis enim poten-                  Nunquam enim fldes esset virtus, quanlumcumque
-             tiae dislinctae sint, niliiloininus tamen continuari             intellectum illuminaret, nisi etiam voluntatem quo-
-             habent in uno subiecto , ratione cuius potest esse in            dam modo rectificaret " ; sicut r patet in dono *pronhe-
-                                                                                                                                   J    nonPropbeua
-                                                                                                                                             est vir-
+4. Item, in nulla potentia est virtus fidei, quae possit cogi, quia, sicut dicit Augustinus[^p475-3], «cum cetera possit homo nolens, credere non potest nisi volens»; sed potentia cognitiva potest cogi: ergo fides non potest esse in potentia cognitiva; et est in potentia cognitiva, vel affectiva: ergo etc.
 
-             eis unitas proprietatis, sicut una sanitas ponitur               tiae: quia illuminat intellectum ad eadem , ad quae los-
-             esse in multis membris corporis interius5, et una                illuminat fides, et tamen non ponitur esse virlus ,
-             honeslas in multis exterius.                                     quoniam in illa illuminatione non cooperatur volun-
-                   Ex his potest elici et baberi generaliter, quid            tas, secundum quod cooperatur in fldei assensu et
-  Epiiogus. gjt subiectum cuiuslibet virtutis , et quid sit etiam             actu. — Ex his patere possunt ea quae obiecta sunt
-             subiectum cuiuslibel vitii sive peccati 6. Potest etiam          et consimilia, quae circa hoc obiici possunl.
-             haberi delerminatio propositae quaestionis , videlicet
+5. Item, in illa potentia est virtus sicut in subiecto, quae est principium actus et operationis illi virtuti debitae[^p475-4]; sed nullus assentit veritati non visae, nisi quia vult: ergo si principium actus credendi habet ortum a voluntate, necesse est, fidem esse in ea tanquam in subiecto proprio. Si tu dicas, quod simul est in intellectu et affectu; contra hoc est, quia unus habitus simplex non potest esse in duabus potentiis; sed cognitiva et affectiva sunt diversae potentiae, sicut ostensum est supra in secundo libro[^p475-5]: ergo si fides est habitus unus, non potest esse simul et semel in illis potentiis duabus. Et iterum, per hoc non solvitur, quia adhuc restat quaestio, in qua illarum potentiarum sit primo et principaliter, quia quodcumque horum detur, videntur obviare rationes, quae sunt ad oppositam partem.
 
-                                                                  SCHOLION.
-              I. S. Thom. (de Veril. q. 14. a. 4.) arguit contra cos qui      lativo , quamvis sit ut occasio remota aliquid operandi; unde sibi
-         docebant, vel fidem esse in voluntate et intelleclu simul et ex      non altribuitur operatio nisi mediante dileclione. Sciendum la-
-         aequo, vel in vohmtate principatiler (ut Hugo), vel in inlellectu    men, quod non est in intellectu speculativo absolute, sed se-
-         practico ; econtra asserit , quod eadcm « est in intelkctu specu-    ciindum quod subditur imperio voluntatis ». Eandem sententiam
+### Conclusio.
 
+> Fides, ut est virtus et principium meriti, est in libero arbitrio ut subiecto; ut est habitus, respicit quodam modo intellectum speculativum, quodam vero modo intellectum extensum sive practicum, et ipsum affectum eiusque actum.
 
-               1 Codd. FGLPQVZaa obiicias , cod. I obiicis. Paulo in-              6 In hac nec non in seq. propositione fere omnes codd.
-         ferius pro dkendum, cui verbo codd. HNPQTU addunt est ,              pro quid sit minus recte exhibent quod sit.
-         cod. A dicimus.                                                           7 Pro ad fidem edd. ad fidei proprklales; in pluribus codd.
-               * Dist. 25. p. I. q. 2. seqq. — Ibid. q. 3. fundam. I : Cum    desunt verba cogitare , ad fidem pertinet. Subinde pro refor-
-         de libero arbitrio loquimur, non de parte animae loquimur ,          mare codd. G 1 L V aa informare.
-         sed de tota (ex III. Hypognost. [inler opera Augusl.] c. 5.).             8 Vocabulum praesidentem restiluimus e codd. A K M N 0
-               3 Edd. in una istarvm.                                         U Z bb ; eius loco codd. F L T Y aa et edd. 1 , 2 habent pos-
-               * Codd. G 1 L V Z aa hic rcpetunt respicil. Mox post dici-     sidentem , alii codd. possibilitalem , Vat. post sequentem; in
-         tur codd. A K N inserunl esse.                                       codd. G V legilnr affeclionem concordantem et possidentem.
-               5 Hoc exemplum invenitur etiam in August. Epist. 187.               9 Cod. V patet pro potesl videre.
-         (alias 57.) c. 4. n. 13. Vide tom. 1. pag. 171, nota 10; II. Sent.        io Hebr. II, I. Cfr. infra q. 5.
-         d. 26. q. 5. et d. 27. a. I. q. 2. idem dicitur de graMa.                 11 Codd. T bb regularet, codd. I L V aa recuperaret. Post
-         — Pro unitas proprietalis codd. A Z verilas proprietatis , et        pauca pro quia illuminat codd. A lv U Z quod illuminal.
-         deinde pro ponitur esse codd. G I L V Z aa potest esse.
-         478                                                     SENTENTIARUM LIB. III.
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod circa hoc diversi diversa senserunt. Quidam enim dicere voluerunt, quod fides est in potentia cognitiva et in intellectu speculativo, secundum quod speculativus. — Et ratio eorum est ista, quia intellectus speculativus dicitur esse ille qui tendit in verum sub ratione veri[^p475-6]; fides autem facit intellectum credere articulos, non quia bonos, sed quia veros; ita enim quis credit damnationem malorum, sicut glorificationem bonorum. Et iterum, caritas et fides distinguuntur in obiecto quantum ad rationem motivi; et quoniam caritas tendit in Deum sub ratione boni, necesse est, quod fides tendat in Deum sub ratione veri; unde assentit summae Veritati, non quia bonitas, sed quia veritas. Quoniam igitur intellectus speculativus respicit verum sub ratione veri; hinc est, quod dixerunt, fidem esse in intellectu speculativo, in quantum est speculativus. — Nec obviant his verba philosophorum[^p475-7], quia ipsi de virtute fidei nihil intellexerunt.
 
-         tenet hic q. 2. a. 3, el S. I. II. q. 56. a. 3, et consentit Gu-          tantum respicit intelleclum , « ut inclinatur ab aflectu , sed etiam
-         lielm. Antissiod. (Sum. p. III. tr. 3. c. 1. q. 2.). Quod autem fides     ipsum affeclum», quia includit aclum obedienliae, plenum in-
-         sit in iniellectu practico, tenet B. Albert. (hic a. 6. quaestiunc.       tellectus et voluntalis obsequium Deo libere praestantis. — Verba
-         2.), Pelr. a Tar. ( hic q. 3. a. 3. quaestiunc. 2.) et favet etiam        autem (circa finem corp., secundum lectionem a nobis reforma-
-         Richard. a Med., hic a. 6. q. 2. Sed Alex. Hal. (S. p. III. q. 68.        tam) : habet affectionem concomitantem et quodam modo prae-
-         m. 3.) vult, fldem materialiter consideratam esse in intellectu           sidentem, approbantur a S. Thoma (S. c. Gent. 111. c. 40.):
-         speculativo , sed formaliter consideratam in intellectu practico.         « In cognitione fidei principalitatem habet voluntas; intellectus
-         — S. Bonav. hic pro more suo sapienter tres sententias in con-            enim assenlil per fidem his quae sibj proponuntur, quia vult,
-         cordiam redigere conatur. Ut autem eius doctrina recte intelli-           non autem ex ipsa veritatis evidentia necessurio tractus».
-         gatur, respiciendum est ad ipsius modum loquendi de libero                      II. Praeter locos citatos: Alex. Hal. loc. cit. m. 8. a. 1. —
-         arbitrio, qui aliqualenus recedit a via S. Thomae, ut dictum              Durand., hic q. 8. — Dionys. Carth., hic q. 2. — Hoc loco iuvat
-         est II. Sent. d. 25. p. I. q. 2. in scholio. Insuper notandum,            notare, quod eadem quaestio traclatur etiam in Supplemento
-         quod S. Thom. intellectum practicum in sensu arctiore accipit             ad Summam Alexandri Hal., de quo famoso libro diffuse egi-
-         ac S. Bonav. aliique. Dicit enim (de Verit. loc. cit.) : « Sola           mus in 1. lom. Prolegomena pag. LlX-LXll. lbi enim (collatio
-         extensio ad opus facit, aliquem intellectum esse practicum. Re-           34. a. 1.) primo loco verbotenus referuntur fere omnia, quae
-         lalio autem ad affectionem vel antecedentem , vel consequen-              habentur in Summa Alexandri loc. cil. m. 8. a. 1. Deinde se-
-         tem non trahit ipsum extra genus speculativi intellectus ». —             quitur: « Ad maiorem declarationem adhuc obiicitur sic» etc. ;
-         Sententia autem S. Bonaventurae (loquendo de ipsa fide in se              et tune transcribuntur argg. a S. Bonav. hic posita, uno alte-
-         considerata) a discipulo eiusdem, Fr. Matlhaeo de Aquasparta              rove omisso, et deinde eliam tota responsio usque ad verba :
-         (in anecdota quaest. disputata de fide) , sic exponitur : « Fides         Ut autem hoc planius fiat etc. (ubi in corp. concilianlur opi-
-         est in intellectu formaliter, sed in voluntate causaliler; in in-         niones). Omittens quae sequunlur, compilator sic concludit: « Et
-         tellectu sicut in subiecto, in voluntate sicut in causa; in inlel-        forte in hoc conveniunt omnes, quod fides non est in intellectu
-         lectu sicut in potentia , a qua eius actus elicitur, sed in volun-        antecedenter se habente ad volunlatem, sed consequenler, sicut
-         tate tanquam in potenlia, a qua eius actus imperatur*. —                  tactum est supra in illo problemate, ulrum fides sit virlus ».
-         Bene notanda sunt verba (in corp.), quod habitus fidei non
+Aliis autem aliter videtur esse dicendum, videlicet quod fides est in intellectu practico. Intellectus enim practicus dicitur esse intellectus extensus, secundum quod vult Philosophus[^p475-8], quod «intellectus speculativus extensione fit practicus». Contingit autem, intellectum extendi tripliciter: vel per coniunctionem sui cum affectione, a qua inclinatur; vel per coniunctionem sui cum affectione, ad quam inclinat; vel per coniunctionem sui cum operatione, quam dirigit et regulat. — Omnibus autem his modis contingit fidem poni in intellectu extenso sive practico secundum varios ipsius fidei status. Nam fides simpliciter dicta, sive sit informis sive formata[^p475-9], quae facit, hominem credere Deo in his quae non videt, est in ipso intellectu, in quantum inclinatur ab ipsa voluntate; non enim crederet, nisi vellet. — Fides autem formata, qua quis credit in Deum, est in ipso intellectu, in quantum inclinat affectum. Ad hoc enim, quod aliquis credat in Deum per fidem formatam, oportet, ut in ipsum amando tendat, secundum quod habetur in littera[^p475-10]. — Fides autem perfecta, de qua dicit Apostolus, quod est operans per dilectionem, illa quidem est in ipso intellectu, in quantum mediante affectu dirigit opus. Et sic patet, quod secundum istos fides est in intellectu practico sive extenso secundum diversos ipsius fidei status, sive intellectus practicus dicatur communiter,
+
+<!-- page 476 -->
+
+sive proprie, sive magis proprie, secundum quod magis et magis habet extendi. — Ratio autem, quae movet istos hoc ponere, non solum est verbum Philosophi, qui dicit[^p476-1], quod virtutes sunt in intelligentia practica, sed etiam ipsa ratio recta, quae dicit, quod virtus non potest esse nisi habitus voluntarius, cum circa ipsam consistat laus et meritum; et ideo impossibile est, quod virtus fidei sit in intellectu, nisi in quantum intellectus iungitur affectui. Intellectus autem affectui iunctus et ipsi permixtus dicitur esse intellectus extensus vel intellectus practicus; et ideo dixerunt isti, fidem esse in practico intellectu.
+
+Restat adhuc tertius modus dicendi, videlicet quod fides nec est omnino in potentia cognitiva nec omnino in potentia affectiva, sed quodam modo in hac, quodam modo in illa. Et hoc est quod dicit magister Hugo de sancto Victore in libro *de Sacramentis*[^p476-2]: «Duo, inquit, sunt, in quibus fides consistit, cognitio videlicet et affectio. In affectu quidem substantia fidei reperitur, in cognitione vero materia». — Ratio autem, quae movet ad hoc ponendum, est, quod actus voluntatis est essentialis ipsi fidei; nunquam enim esset virtuosum credere, nisi esset voluntarium. Unde et Augustinus dicit, quod «virtus non est aliud quam amor ordinatus». Si ergo fides est virtus, respicit actum voluntatis ut sibi essentialem: ergo et circa illam habet essentialiter consistere. Rursus, quia ipsi fidei cognitio essentialis est et illuminatio, per quam intellectus dirigitur[^p476-3] in summam Veritatem et ei subiicitur; ideo ipsa fides essentialiter respicit actum rationis. Et propterea dicunt illi, qui sunt huius positionis, fidem esse non tantum in ratione, sed etiam in voluntate, cum utrumque actum respiciat essentialiter. Quia vero actus rationis respectu actus voluntatis est materialis, cum ratio inclinetur a voluntate; ideo etiam dixerunt, quod in ratione materia fidei reperitur, in affectione vero substantia.
+
+Omnes autem hi modi dicendi a magnis clericis sumserunt principium, et quilibet eorum habet satis rationabile fundamentum. Et si quis recte intelligat[^p476-4], inveniet, quemlibet eorum habere aliquid veritatis. Ut autem hoc planius fiat, ascendendum est altius ad videndum subiectum *virtutis in generali;* quod quidem intueri possumus satis plane, quibusdam praesuppositis. — Virtus enim est, secundum quam consistit laus et meritum, sicut culpa, secundum quam attenditur[^p476-5] vituperium et demeritum. Virtus etiam est habitus reddens potentiam facilem respectu alicuius actus. Si ergo virtus est principium laudis et meriti, necessarium est, eam poni in illa potentia animae, quae est principium primum operis laudabilis et meritorii. Nam si poneretur in potentia inferiori, tunc virtus potentiae naturalis imperaret virtuti gratuitae. Si ergo liberum arbitrium principium est meriti et demeriti[^p476-6], necesse est, omnem virtutem in libero arbitrio poni. Rursus, cum habitus sit in ea potentia, circa cuius actum explicat difficultatem, et virtus sit habitus; necesse est, eam reperiri in ea potentia sicut in subiecto, quam ad opus habilitat. Quoniam igitur quaedam virtutes explicant actus rationalis, quaedam actus concupiscibilis, quaedam actus irascibilis; ideo quasdam necesse est poni in rationali, quasdam in concupiscibili, quasdam in irascibili[^p476-7].
+
+His praesuppositis, facile est videre, quod est[^p476-8] subiectum fidei. Si enim fides virtus est, circa quam consistit laus et meritum, necesse est, quod ipsa in libero arbitrio ponatur. Rursus, si fides habitus est, per quem intellectus captivatur in obsequium Christi et innititur primae Veritati propter se; et hoc modo dicitur intellectus quodam modo speculativus: necesse est, quod habitus fidei quodam modo sit in intellectu, secundum quod habet rationem speculativi. — Et quoniam intellectus non habilitatur ad assentiendum ipsi Veritati primae secundum suum iudicium, sed secundum voluntatis imperium; ideo fides non respicit intellectum tanquam pure speculativum, sed necessarium est, quod ipsa sit in ipso intellectu, secundum quod est quodam modo extensus et ab affectu inclinatus. — Rursus, quoniam ipsum velle credere est essentiale ipsi fidei, hinc est, quod habitus ille[^p476-9] non tantum respicit intellectum, ut speculatur summam Veritatem, nec etiam ut inclinatur ab affectu, sed etiam ipsum affectum.
+
+Ex his patet, quod non est repugnantia inter praedictas positiones, si quis recte intelligat, immo ex omnibus quasi colligitur una veritas integra: quoniam fides, ut virtus est et principium meriti, respicit liberum arbitrium ut subiectum; in quantum vero habitus est, quodam modo respicit intellectum speculativum et eius actum, qui est credere verum, quia verum[^p476-10]; quodam modo intellectum extensum
+
+<!-- page 477 -->
+
+et eius actum, qui est credere voluntarie sive credendo tendere in Deum; quodam modo ipsum affectum et eius actum, qui est velle assentire ei, ad quod ratio ex se non potest attingere.
+
+Si tu obiiceres[^p477-1], quod ista non possunt simul stare, quia, cum fides sit habitus simplex, et unus habitus simplex sit in una potentia tanquam in subiecto, non videtur, quod possit omnes illas potentias tanquam unum subiectum respicere; ad hoc dicendum, quod nihil impedit dicere, unam et eandem virtutem esse simul in libero arbitrio et ratione et voluntate: quia, sicut in secundo libro[^p477-2] ostensum fuit, liberum arbitrium non dicit potentiam distinctam a ratione et voluntate secundum rem et essentiam, immo, secundum quod vult beatus Augustinus, liberum arbitrium complectitur tres potentias, scilicet irascibilem, concupiscibilem et rationalem. Et ideo nullum inconveniens est, quod unaquaeque virtus, quae reponitur in unaquaque illarum[^p477-3] potentiarum secundum quod habitus, in libero arbitrio reponatur secundum quod virtus et meriti principium. — Similiter nullum est inconveniens ponere, unum habitum esse in ratione et voluntate, ita quod unam illarum potentiarum respiciat quantum ad actum materialem, alteram quantum ad actum formalem; sicut patet, quod habitus scientiae quoad quid respicit memoriam, scilicet quoad retentionem speciei, et quoad quid[^p477-4] intelligentiam, scilicet quoad facilitatem conversionis; et tamen dicitur unus habitus simplex. Quamvis enim potentiae distinctae sint, nihilominus tamen continuari habent in uno subiecto, ratione cuius potest esse in eis unitas proprietatis, sicut una sanitas ponitur esse in multis membris corporis interius[^p477-5], et una honestas in multis exterius.
+
+Ex his potest elici et haberi generaliter, quid sit subiectum cuiuslibet virtutis, et quid sit etiam subiectum cuiuslibet vitii sive peccati[^p477-6]. Potest etiam haberi determinatio propositae quaestionis, videlicet quid sit subiectum fidei. Nam licet in quantum virtus meritoria dicenda sit esse in libero arbitrio, in quantum tamen habitus reddens potentiam facilem ponenda est quodam modo in potentia cognitiva, sicut ostendunt rationes ad primam partem: quoniam ad fidem pertinet cogitare, ad fidem[^p477-7] pertinet illuminare et rationem reformare et intellectum captivare, ipsi etiam fidei succedit videre; quae omnia respiciunt cognitionem. Ideo rationes ad partem illam inductae sunt concedendae.
+
+Nec eis obviant rationes ad oppositum: quoniam licet fides respiciat actum potentiae cognitivae, non tamen ipsum respicit omnino pure, sed in quantum habet affectionem concomitantem et quodam modo praesidentem[^p477-8]. Et ideo etiam necesse est ponere, quod fides quodam modo sit in affectione, sicut dicit magister Hugo de sancto Victore; et hoc, quia est habitus voluntarius et amor ordinatus, et talis naturae est actus eius, quod ad ipsum nemo potest cogi invitus. Et ideo concedi possunt rationes, quae sunt ad partem sequentem.
+
+Quod autem rationes sibi invicem non obvient, sed utraeque verum concludant, satis clare potest videre[^p477-9], si quis potest capere, quod ad esse fidei virtutis concurrit actus rationis simul et voluntatis, quod bene innuit Apostolus[^p477-10] in ipsa notificatione fidei, cum dicit, fidem esse *substantiam rerum sperandarum, argumentum non apparentium,* tangens quod est in ea cognitionis, et quod est affectionis. Nunquam enim fides esset virtus, quantumcumque intellectum illuminaret, nisi etiam voluntatem quodam modo rectificaret[^p477-11]; sicut patet in dono prophetiae: quia illuminat intellectum ad eadem, ad quae illuminat fides, et tamen non ponitur esse virtus, quoniam in illa illuminatione non cooperatur voluntas, secundum quod cooperatur in fidei assensu et actu. — Ex his patere possunt ea quae obiecta sunt et consimilia, quae circa hoc obiici possunt.
+
+### Scholion
+
+**I.** S. Thom. (*de Verit.* q. 14. a. 4.) arguit contra eos qui docebant, vel fidem esse in voluntate et intellectu simul et ex aequo, vel in voluntate principaliter (ut Hugo), vel in intellectu practico; econtra asserit, quod eadem «est in intellectu speculativo, quamvis sit ut occasio remota aliquid operandi; unde sibi non attribuitur operatio nisi mediante dilectione. Sciendum tamen, quod non est in intellectu speculativo absolute, sed secundum quod subditur imperio voluntatis». Eandem sententiam tenet hic q. 2. a. 3, et S. *I. II.* q. 56. a. 3, et consentit Gulielm. Antissiod. (Sum. p. III. tr. 3. c. 1. q. 2.). Quod autem fides sit in intellectu practico, tenet B. Albert. (hic a. 6. quaestiunc. 2.), Petr. a Tar. (hic q. 3. a. 3. quaestiunc. 2.) et favet etiam Richard. a Med., hic a. 6. q. 2. Sed Alex. Hal. (S. p. III. q. 68. m. 3.) vult, fidem materialiter consideratam esse in intellectu speculativo, sed formaliter consideratam in intellectu practico. — S. Bonav. hic pro more suo sapienter tres sententias in concordiam redigere conatur. Ut autem eius doctrina recte intelligatur, respiciendum est ad ipsius modum loquendi de libero arbitrio, qui aliqualenus recedit a via S. Thomae, ut dictum est II. Sent. d. 25. p. I. q. 2. in scholio. Insuper notandum, quod S. Thom. intellectum practicum in sensu arctiore accipit ac S. Bonav. aliique. Dicit enim (*de Verit.* loc. cit.): «Sola extensio ad opus facit, aliquem intellectum esse practicum. Relatio autem ad affectionem vel antecedentem, vel consequentem non trahit ipsum extra genus speculativi intellectus». — Sententia autem S. Bonaventurae (loquendo de ipsa fide in se considerata) a discipulo eiusdem, Fr. Matthaeo de Aquasparta (in anecdota quaest. disputata de fide), sic exponitur: «Fides est in intellectu formaliter, sed in voluntate causaliter; in intellectu sicut in subiecto, in voluntate sicut in causa; in intellectu sicut in potentia, a qua eius actus elicitur, sed in voluntate tanquam in potentia, a qua eius actus imperatur». — Bene notanda sunt verba (in corp.), quod habitus fidei non tantum respicit intellectum, «ut inclinatur ab affectu, sed etiam ipsum affectum», quia includit actum obedientiae, plenum intellectus et voluntatis obsequium Deo libere praestantis. — Verba autem (circa finem corp., secundum lectionem a nobis reformatam): *habet affectionem concomitantem et quodam modo praesidentem,* approbantur a S. Thoma (*S. c. Gent.* III. c. 40.): «In cognitione fidei principalitatem habet voluntas; intellectus enim assentit per fidem his quae sibi proponuntur, quia vult, non autem ex ipsa veritatis evidentia necessario tractus».
+
+**II.** Praeter locos citatos: Alex. Hal. loc. cit. m. 8. a. 1. — Durand., hic q. 8. — Dionys. Carth., hic q. 2. — Hoc loco iuvat notare, quod eadem quaestio tractatur etiam in Supplemento ad Summam Alexandri Hal., de quo famoso libro diffuse egimus in I. tom. Prolegomena pag. LIX–LXII. Ibi enim (collatio 34. a. 1.) primo loco verbotenus referuntur fere omnia, quae habentur in Summa Alexandri loc. cit. m. 8. a. 1. Deinde sequitur: «Ad maiorem declarationem adhuc obiicitur sic» etc.; et tunc transcribuntur argg. a S. Bonav. hic posita, uno alterove omisso, et deinde etiam tota responsio usque ad verba: *Ut autem hoc planius fiat* etc. (ubi in corp. conciliantur opiniones). Omittens quae sequuntur, compilator sic concludit: «Et forte in hoc conveniunt omnes, quod fides non est in intellectu antecedenter se habente ad voluntatem, sed consequenter, sicut tactum est supra in illo problemate, utrum fides sit virtus».
+
+---
 
 ## English
 
-[Translation pending]
+### Question II. *Whether faith is in the cognitive or the affective part of the soul.*
+
+Secondly it is asked whether faith is in the cognitive or the affective part of the soul. And that it is in the cognitive part is shown thus:
+
+1. *First*, through Augustine, who defines belief thus in the book *On the Predestination of the Saints*[^p474-1]: "To believe is to think with assent." To that power, therefore, belief pertains, to which thinking pertains; but thinking belongs to the cognitive power: therefore so too believing. If, then, faith—whose act is believing—is in that power, it seems that faith is in the cognitive part of the soul.
+
+2. Likewise, to the Romans, chapter ten[^p474-2]: *Faith comes from hearing;* and there Gregory says: "It gives understanding, while it illumines the mind from the things heard." If, then, faith comes through hearing, and faith illumines the mind, and both hearing and being illumined pertain to the cognitive part of the soul, it seems that faith is in the cognitive part of the soul.
+
+3. Likewise, the reformation of the image takes place through the three theological virtues; but the image consists not only in the affective power, but also in the cognitive power[^p474-3]: therefore it is necessary that some theological virtue reform the cognitive power. But there is no other to assign except faith; if, then, the virtue is in that power which it reforms, it seems that faith is in the cognitive power.
+
+4. Likewise, in the same power are the gratuitous virtue and the gift succeeding it in glory; but vision, which succeeds faith[^p474-4], is in the cognitive power, as is manifest: therefore etc.
+
+5. Likewise, virtue is, as in its subject, in that power about whose act it unfolds difficulty—for a habit is placed in that power for whose work it makes apt—if, then, through faith the *intellect is taken captive into the obedience of Christ*[^p474-5], then faith forwards the act of the intellective power itself: it is therefore in it as in its subject.
+
+**On the contrary:** 1. Tullius[^p474-6], in defining virtue, says that "virtue is a *voluntary* habit": therefore if faith is a virtue, it is a voluntary habit; but a voluntary habit is in the will as in its subject: therefore so too faith.
+
+<!-- page 475 -->
+
+2. Likewise, Augustine, *On the Morals of the Church*[^p475-1], in defining virtue says that "virtue is nothing other than ordered love": therefore if every virtue is love, speaking essentially, every virtue is in that power whose office is to love; but this belongs to the affective, not the cognitive, power: therefore every virtue is in the affective power.
+
+3. Likewise, Master Hugh in the book *On the Sacraments*[^p475-2] says that "in the affection of faith its substance is found"; but the virtue is in that power as in its proper subject, in which its substance is found: if, then, this is the affective power, it seems etc.
+
+4. Likewise, in no power is there the virtue of faith that can be compelled, because, as Augustine says[^p475-3], "while a man can do other things unwilling, he cannot believe except willing"; but the cognitive power can be compelled: therefore faith cannot be in the cognitive power; and it is either in the cognitive or in the affective power: therefore etc.
+
+5. Likewise, virtue is, as in its subject, in that power which is the principle of the act and operation owed to that virtue[^p475-4]; but no one assents to an unseen truth except because he wills it: therefore if the principle of the act of believing takes its origin from the will, it is necessary that faith be in it as in its proper subject. If you say that it is at once in intellect and in affection, against this is that one simple habit cannot be in two powers; but the cognitive and the affective are diverse powers, as was shown above in the second book[^p475-5]: therefore if faith is one habit, it cannot be at once and at the same time in those two powers. And again, by this the question is not resolved, because there still remains the question in which of those powers it is first and principally, since whichever of these be granted, the reasons that are for the opposite part seem to stand in the way.
+
+### Conclusion.
+
+> Faith, as it is a virtue and a principle of merit, is in free choice as its subject; as it is a habit, it regards in one way the speculative intellect, in another way the extended or practical intellect, and the affection itself and its act.
+
+**I respond:** For the understanding of the foregoing it must be noted that on this point different men have thought differently. For some wished to say that faith is in the cognitive power and in the speculative intellect, insofar as it is speculative. — And their reason is this: that the speculative intellect is said to be that which tends toward the true under the aspect of the true[^p475-6]; but faith makes the intellect believe the articles, not because they are good, but because they are true; for thus one believes the damnation of the wicked just as the glorification of the good. And again, charity and faith are distinguished in their object as regards the aspect of the motive; and since charity tends toward God under the aspect of the good, it is necessary that faith tend toward God under the aspect of the true; whence it assents to the highest Truth, not because of its goodness, but because of its truth. Since, then, the speculative intellect regards the true under the aspect of the true, hence it is that they said faith is in the speculative intellect, insofar as it is speculative. — Nor do the words of the philosophers[^p475-7] stand against this, since they understood nothing about the virtue of faith.
+
+To others, however, it seems it must be said otherwise, namely that faith is in the practical intellect. For the practical intellect is said to be the extended intellect, according to what the Philosopher holds[^p475-8], that "the speculative intellect becomes practical by extension." But it happens that the intellect is extended in three ways: either by the conjunction of itself with an affection by which it is inclined; or by the conjunction of itself with an affection toward which it inclines; or by the conjunction of itself with an operation which it directs and regulates. — But in all these ways it happens that faith is placed in the extended or practical intellect according to the various states of faith itself. For faith simply so called, whether it be unformed or formed[^p475-9], which makes a man believe God in those things which he does not see, is in the intellect itself, insofar as it is inclined by the will itself; for he would not believe unless he willed. — But formed faith, by which one believes in God, is in the intellect itself, insofar as it inclines the affection. For in order that someone believe in God through formed faith, it is necessary that he tend toward Him by loving, according to what is held in the text[^p475-10]. — But perfect faith, of which the Apostle says that it is one working through love, is indeed in the intellect itself, insofar as, by the mediation of the affection, it directs the work. And thus it is plain that, according to these, faith is in the practical or extended intellect according to the diverse states of faith itself, whether the practical intellect be spoken of commonly,
+
+<!-- page 476 -->
+
+or properly, or more properly, according as it has to be extended more and more. — But the reason which moves them to posit this is not only the word of the Philosopher, who says[^p476-1] that the virtues are in the practical intelligence, but also right reason itself, which says that virtue cannot be anything but a voluntary habit, since praise and merit consist about it; and therefore it is impossible that the virtue of faith be in the intellect, except insofar as the intellect is joined to the affection. But the intellect joined to and intermingled with the affection is said to be the extended intellect or the practical intellect; and therefore these men said that faith is in the practical intellect.
+
+There still remains a third manner of speaking, namely that faith is neither wholly in the cognitive power nor wholly in the affective power, but in one way in this, in another way in that. And this is what Master Hugh of Saint Victor says in the book *On the Sacraments*[^p476-2]: "There are two things," he says, "in which faith consists, namely cognition and affection. In the affection indeed the substance of faith is found, but in the cognition its matter." — But the reason which moves toward positing this is that the act of the will is essential to faith itself; for it would never be virtuous to believe, unless it were voluntary. Whence Augustine too says that "virtue is nothing other than ordered love." If, then, faith is a virtue, it regards the act of the will as essential to it: therefore it must also essentially consist about it. Again, since cognition and illumination are essential to faith, by which the intellect is directed[^p476-3] into the highest Truth and subjected to it, therefore faith essentially regards the act of reason. And for that reason those who are of this position say that faith is not only in the reason, but also in the will, since it regards both acts essentially. But because the act of reason in respect of the act of the will is material, since reason is inclined by the will, therefore they also said that in the reason the matter of faith is found, but in the affection its substance.
+
+But all these manners of speaking took their principle from great clerics, and each of them has a sufficiently reasonable foundation. And if one understands rightly[^p476-4], he will find that each of them has something of the truth. But that this may become plainer, we must ascend higher to see the subject of *virtue in general;* which indeed we can behold quite plainly, certain things being presupposed. — For virtue is that according to which praise and merit consist, just as fault is that according to which[^p476-5] blame and demerit are reckoned. Virtue is also a habit rendering a power apt in respect of some act. If, then, virtue is the principle of praise and merit, it is necessary that it be placed in that power of the soul which is the first principle of a praiseworthy and meritorious work. For if it were placed in a lower power, then the virtue of a natural power would command the gratuitous virtue. If, then, free choice is the principle of merit and demerit[^p476-6], it is necessary that every virtue be placed in free choice. Again, since a habit is in that power about whose act it unfolds difficulty, and virtue is a habit, it is necessary that it be found in that power as in its subject, which it makes apt for the work. Since, then, certain virtues unfold acts of the rational, certain acts of the concupiscible, certain acts of the irascible, therefore some must be placed in the rational, some in the concupiscible, some in the irascible[^p476-7].
+
+These things presupposed, it is easy to see what is[^p476-8] the subject of faith. For if faith is a virtue, about which praise and merit consist, it is necessary that it be placed in free choice. Again, if faith is a habit, by which the intellect is taken captive into the obedience of Christ and leans upon the first Truth for its own sake; and in this way the intellect is said to be in a certain way speculative: it is necessary that the habit of faith be in a certain way in the intellect, insofar as it has the character of the speculative. — And since the intellect is not made apt to assent to that first Truth according to its own judgment, but according to the command of the will, therefore faith does not regard the intellect as purely speculative, but it is necessary that it be in the intellect itself, insofar as it is in a certain way extended and inclined by the affection. — Again, since the very willing to believe is essential to faith itself, hence it is that that habit[^p476-9] regards not only the intellect, as it contemplates the highest Truth, nor only as it is inclined by the affection, but also the affection itself.
+
+From these things it is plain that there is no contradiction among the aforesaid positions, if one understands rightly, but rather from them all there is gathered, as it were, one integral truth: namely that faith, as it is a virtue and a principle of merit, regards free choice as its subject; insofar as it is a habit, it regards in one way the speculative intellect and its act, which is to believe the true because it is true[^p476-10]; in one way the extended intellect
+
+<!-- page 477 -->
+
+and its act, which is to believe voluntarily, or by believing to tend toward God; in one way the affection itself and its act, which is to will to assent to that which reason of itself cannot attain.
+
+If you should object[^p477-1] that these cannot stand together, because, since faith is a simple habit, and one simple habit is in one power as in its subject, it does not seem that it can regard all those powers as one subject; to this it must be said that nothing prevents saying that one and the same virtue is at once in free choice and in reason and in will: because, as was shown in the second book[^p477-2], free choice does not denote a power distinct from reason and will in reality and essence, but rather, according to what blessed Augustine holds, free choice embraces three powers, namely the irascible, the concupiscible, and the rational. And therefore it is no impropriety that each virtue, which is placed in each of those[^p477-3] powers as a habit, be placed in free choice as a virtue and a principle of merit. — Similarly there is no impropriety in positing that one habit is in reason and will, in such a way that it regards one of those powers as regards the material act, the other as regards the formal act; just as it is plain that the habit of knowledge in one respect regards memory, namely as regards the retention of the species, and in one respect[^p477-4] the understanding, namely as regards the ease of turning; and yet it is called one simple habit. For although the powers are distinct, nevertheless they have to be continued in one subject, by reason of which there can be in them a unity of property, just as one health is posited to be in the many members of the body interiorly[^p477-5], and one comeliness in the many exteriorly.
+
+From these things can be elicited and held generally what is the subject of any virtue, and what is also the subject of any vice or sin[^p477-6]. There can also be had the determination of the proposed question, namely what is the subject of faith. For although, insofar as it is a meritorious virtue, it must be said to be in free choice, yet insofar as it is a habit rendering the power apt, it must be placed in a certain way in the cognitive power, as the reasons for the first part show: since to faith it pertains to think, to faith[^p477-7] it pertains to illumine and to reform the reason and to take the intellect captive, and to faith too there succeeds vision; all of which regard cognition. Therefore the reasons brought forward for that part are to be conceded.
+
+Nor do the reasons for the opposite stand against them: since although faith regards the act of the cognitive power, yet it does not regard it altogether purely, but insofar as it has an accompanying and in a certain way presiding affection[^p477-8]. And therefore it is also necessary to posit that faith is in a certain way in the affection, as Master Hugh of Saint Victor says; and this because it is a voluntary habit and ordered love, and such is the nature of its act that to it no one can be compelled unwilling. And therefore the reasons which are for the following part can be conceded.
+
+But that the reasons do not stand against one another, but both conclude the truth, can be seen quite clearly[^p477-9], if one can grasp that to the being of the virtue of faith there concur at once the act of reason and of the will, which the Apostle[^p477-10] well intimates in the very description of faith, when he says that faith is *the substance of things hoped for, the argument of things not appearing,* touching what is in it of cognition, and what is of affection. For faith would never be a virtue, however much it illumined the intellect, unless it also in a certain way rectified the will[^p477-11]; as is plain in the gift of prophecy: for it illumines the intellect toward the same things toward which faith illumines, and yet it is not posited to be a virtue, since in that illumination the will does not cooperate, in the way it cooperates in the assent and act of faith. — From these things can become plain the things that were objected and the like, which can be objected concerning this.
+
+### Scholion
+
+**I.** St. Thomas (*On Truth* q. 14, a. 4) argues against those who taught either that faith is in the will and the intellect at once and equally, or in the will principally (as Hugh), or in the practical intellect; against them he asserts that it "is in the speculative intellect, although it be as a remote occasion of doing something; whence no operation is attributed to it except by the mediation of love. It must be known, however, that it is not in the speculative intellect absolutely, but according as it is subjected to the command of the will." The same opinion he holds here in q. 2, a. 3, and in the *Summa I–II*, q. 56, a. 3, and William of Auxerre agrees (*Summa*, p. III, tr. 3, c. 1, q. 2). But that faith is in the practical intellect, Blessed Albert holds (here a. 6, quaestiuncula 2), Peter of Tarentaise (here q. 3, a. 3, quaestiuncula 2), and Richard of Mediavilla also favors it, here a. 6, q. 2. But Alexander of Hales (*Summa*, p. III, q. 68, m. 3) holds that faith considered materially is in the speculative intellect, but considered formally in the practical intellect. — St. Bonaventure here, after his usual manner, wisely strives to bring the three opinions into accord. But that his teaching may be rightly understood, regard must be had to his manner of speaking about free choice, which departs somewhat from the way of St. Thomas, as was said in *II Sent.*, d. 25, p. I, q. 2, in the scholion. It must moreover be noted that St. Thomas takes the practical intellect in a stricter sense than St. Bonaventure and others. For he says (*On Truth*, loc. cit.): "Extension to a work alone makes some intellect to be practical. But the relation to an affection, whether antecedent or consequent, does not draw it outside the genus of the speculative intellect." — But the opinion of St. Bonaventure (speaking of faith itself considered in itself) is expounded by his disciple, Friar Matthew of Aquasparta (in an unpublished disputed question on faith), thus: "Faith is in the intellect formally, but in the will causally; in the intellect as in a subject, in the will as in a cause; in the intellect as in a power from which its act is elicited, but in the will as in a power from which its act is commanded." — Well to be noted are the words (in the body) that the habit of faith regards not only the intellect, "as it is inclined by the affection, but also the affection itself," because it includes the act of obedience, the full submission of intellect and will rendering itself freely to God. — But the words (toward the end of the body, according to the reading reformed by us): *it has an accompanying and in a certain way presiding affection,* are approved by St. Thomas (*Summa contra Gentiles*, III, c. 40): "In the cognition of faith the will has the principal place; for the intellect assents through faith to the things proposed to it, because it wills, not however drawn by the very evidence of the truth necessarily."
+
+**II.** Besides the passages cited: Alexander of Hales, loc. cit., m. 8, a. 1. — Durandus, here q. 8. — Dionysius the Carthusian, here q. 2. — Here it is worth noting that the same question is treated also in the Supplement to the Summa of Alexander of Hales, about which famous book we have written at length in the Prolegomena of vol. I, pp. LIX–LXII. For there (collation 34, a. 1) in the first place are recounted word for word nearly all the things which are had in the Summa of Alexander, loc. cit., m. 8, a. 1. Then there follows: "For greater explanation it is yet objected thus" etc.; and then are transcribed the arguments posited by St. Bonaventure here, with one or another omitted, and then also the whole response up to the words: *But that this may become plainer* etc. (where in the body the opinions are reconciled). Omitting what follows, the compiler concludes thus: "And perhaps in this all agree, that faith is not in the intellect as related antecedently to the will, but consequently, as was touched above in that problem, whether faith is a virtue."
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are grouped per page (`p474`, `p475`, `p476`, `p477`).
+
+[^p474-1]: **La.** Cap. 2. n. 5. In testimonio allato pro *assensione*, quod et in textu origin. habetur, edd. 1, 2 cum multis codd. *assertione*. Idem mendum in hac et seqq. distinctionibus pluries apud eosdem redit. In fine arg. pro *cognitiva* complures codd. *cognitivae*.
+    **En.** Chapter 2, n. 5. In the testimony adduced, for *assensione* ["with assent"], which is also had in the original text, editions 1 and 2 with many codices read *assertione*. The same error returns several times in this and the following distinctions among the same. At the end of the argument, for *cognitiva* ["cognitive"], several codices read *cognitivae*.
+
+[^p474-2]: **La.** Vers. 17. — Sententia Gregorii, quam etiam supplementum ad Sum. Alex. Hal., coll. 34. a. 1. affert, addito tamen *Deus* post *dat*, sumta videtur ex II. Homil. in Evang. homil. 30. n. 3, ad quem locum etiam infra d. 24. dub. 2. in fine respicitur. Vide etiam XI. Moral. c. 9. n. 12, ubi sic legitur: *Mutum est os omne... si ille [Deus] interius in corde non clamet, qui aspirat verba, quae audiuntur.* Cfr. ibid. XXIX. c. 24. n. 49. Pro *Gregorius* edd. auctoritate nonnullorum codd. substituerunt *Glossa;* sed neque apud Strabum neque apud Lombardum neque apud Lyranum talis Glossa in loc. cit. invenitur. — Paulo inferius pro *ad partem animae cognitivam* [codd. T Z *cognitivae*] codd. G I L V aa *ad cognitionem animae*.
+    **En.** Verse 17. — The sentence of Gregory, which the Supplement to the Summa of Alexander of Hales, coll. 34, a. 1, also adduces (with *Deus* added after *dat*), seems to be taken from the second Homily on the Gospel, hom. 30, n. 3, to which place reference is also made below at d. 24, dub. 2, at the end. See also XI *Moralia*, c. 9, n. 12, where it reads thus: *Every mouth is mute... if He [God] does not cry within in the heart, who inspires the words that are heard.* Cf. ibid. XXIX, c. 24, n. 49. For *Gregorius* the editions, on the authority of some codices, substituted *Glossa;* but no such Gloss is found in the cited place either in Strabo or in Lombard or in Lyra. — A little further on, for *ad partem animae cognitivam* [codices T, Z *cognitivae*] codices G, I, L, V, aa read *ad cognitionem animae*.
+
+[^p474-3]: **La.** Cfr. de his duab. proposit. II. Sent. d. 16. a. 2. q. 3.
+    **En.** Cf. concerning these two propositions, *II Sent.*, d. 16, a. 2, q. 3.
+
+[^p474-4]: **La.** Cfr. infra d. 31. a. 2. q. 1.
+    **En.** Cf. below, d. 31, a. 2, q. 1.
+
+[^p474-5]: **La.** Epist. II. Cor. 10, 5. — Respectu *maioris* dicit Aristot., II. *Ethic.* c. 3: *Signum autem habituum sit vel voluptas, vel aegritudo [molestia], quae facta [opera] consequitur.*
+    **En.** Epistle, 2 Corinthians 10:5. — In respect of the *major*, Aristotle says, II *Ethics*, c. 3: *Let the sign of habits be either pleasure or pain [distress], which follows upon the deeds [works].*
+
+[^p474-6]: **La.** Libr. V. *de Finib. bonor. et malor.* c. 13, ubi duo genera virtutum distinguit: «unum earum quae ingenerantur suapte natura appellanturque non voluntariae, alterum earum quae in voluntate positae magis proprio nomine virtutes appellari solent». Cfr. II. Sent. d. 27. dub. 3, ubi aliae definitiones virtutis afferuntur, etiam illa Aristot., II. *Ethic.* c. 6: *Virtus est habitus voluntarius [electivus] in medio consistens, recta ratione determinatus, prout sapiens determinabit.*
+    **En.** Book V, *On the Ends of Goods and Evils*, c. 13, where he distinguishes two kinds of virtues: "one of those which are engendered by their own nature and are called non-voluntary, the other of those which, being placed in the will, are by a more proper name usually called virtues." Cf. *II Sent.*, d. 27, dub. 3, where other definitions of virtue are adduced, including that of Aristotle, II *Ethics*, c. 6: *Virtue is a voluntary [elective] habit consisting in a mean, determined by right reason, as the wise man will determine.*
+
+[^p475-1]: **La.** Libr. I. c. 15. n. 23, ubi non quidem virtutem generatim sic definit, ut hic in Comment. asseritur, attamen docet, quatuor virtutes cardinales «ex ipsius amoris vario quodam affectu» dici. Melius fuisset lectorem delegare ad *Civ. Dei*, ubi XV. c. 22. S. Doctor sic dicit: *Unde mihi videtur, quod definitio brevis et vera virtutis: ordo est amoris.* — In fine arg. cod. K addit *non cognitiva*.
+    **En.** Book I, c. 15, n. 23, where he does not indeed define virtue in general thus, as is asserted here in the Commentary, yet he teaches that the four cardinal virtues are so called "from a certain varied affection of love itself." It would have been better to refer the reader to the *City of God*, where, XV, c. 22, the holy Doctor says thus: *Whence it seems to me that the brief and true definition of virtue is: it is the order of love.* — At the end of the argument codex K adds *non cognitiva*.
+
+[^p475-2]: **La.** Libr. I. p. X. c. 3.
+    **En.** Book I, p. X, c. 3.
+
+[^p475-3]: **La.** *In Ioan. Evang.* tr. 26. n. 2: *Intrare quisquam ecclesiam potest nolens, accedere ad altare potest nolens, accipere Sacramentum potest nolens, credere non potest nisi volens.* Cfr. supra pag. 217, nota 5.
+    **En.** *On the Gospel of John*, tr. 26, n. 2: *Anyone can enter a church unwilling, can approach the altar unwilling, can receive the Sacrament unwilling, but he cannot believe except willing.* Cf. above, p. 217, note 5.
+
+[^p475-4]: **La.** Vide supra pag. 388, nota 2.
+    **En.** See above, p. 388, note 2.
+
+[^p475-5]: **La.** Dist. 24. p. I. a. 2. q. 1. — Paulo ante pro *habitus simplex* cod. bb *habitus simul*.
+    **En.** Distinction 24, p. I, a. 2, q. 1. — A little before, for *habitus simplex* ["simple habit"], codex bb reads *habitus simul* ["habit at once"].
+
+[^p475-6]: **La.** Cfr. supra pag. 470, nota 8. — Superius pro *ratio eorum* cod. A *ratio eius;* paulo inferius pro *bonorum* Vat. cum aliquot codd. *beatorum*.
+    **En.** Cf. above, p. 470, note 8. — Earlier, for *ratio eorum* ["their reason"], codex A reads *ratio eius* ["its reason"]; a little further on, for *bonorum* ["of the good"], the Vatican edition with some codices reads *beatorum* ["of the blessed"].
+
+[^p475-7]: **La.** Quippe qui virtutem in intellectu practico ponunt, ut in seqq. tangitur. — Subinde pro *de virtute fidei* edd. *de veritate fidei*.
+    **En.** Namely those who place virtue in the practical intellect, as is touched upon in what follows. — Then, for *de virtute fidei* ["of the virtue of faith"], the editions read *de veritate fidei* ["of the truth of faith"].
+
+[^p475-8]: **La.** Libr. III. *de Anima*, text. 34. et 49. (c. 7. et 9.). Cfr. tom. II. pag. 538, nota 2. — Post pauca pro *a qua inclinatur* codd. A G (H I a prima manu) L T V aa bb perperam *ad quam inclinatur*.
+    **En.** Book III, *On the Soul*, texts 34 and 49 (c. 7 and 9). Cf. vol. II, p. 538, note 2. — A little after, for *a qua inclinatur* ["by which it is inclined"], codices A, G (H, I by the first hand), L, T, V, aa, bb wrongly read *ad quam inclinatur* ["toward which it inclines"].
+
+[^p475-9]: **La.** Cfr. infra a. 2. q. I. seqq. — De differentia inter *credere Deo* et *credere in Deum* vide hic lit. Magistri, c. 4. et infra dub. 3. — Mox pro *in his* cod. F *de his*, et deinde codd. G I L aa cc voci *intellectu* addunt *practico*.
+    **En.** Cf. below, a. 2, q. 1 ff. — On the difference between *to believe God* and *to believe in God*, see here the text of the Master, c. 4, and below, dub. 3. — Soon, for *in his* ["in these"], codex F reads *de his* ["concerning these"], and then codices G, I, L, aa, cc add *practico* ["practical"] to the word *intellectu* ["intellect"].
+
+[^p475-10]: **La.** Hic c. 4. — Verba Apostoli, quae hic respiciuntur, sunt illa Gal. 5, 6: *Fides, quae per caritatem operatur.*
+    **En.** Here, c. 4. — The words of the Apostle which are regarded here are those of Galatians 5:6: *Faith, which works through charity.*
+
+[^p476-1]: **La.** Fusius II. *Ethic.* c. 1-7. et VI. c. 1-4. — Ibid. I. c. 12. seq. et II. c. 5. nec non III. c. 1. insinuatur etiam ratio, subinde allata et petita ex merito atque laude. — Superius pro *intellectus practicus* codd. I L V aa *intellectus extensus;* deinde plurimi codd. et edd. primo loco ponunt minus bene *proprie*, secundo loco *communiter;* refragantibus codd. A K, et paulo post pro *magis et magis* cod. A *magis et minus*. Aliquanto inferius pro *cum circa ipsam* codd. N O *cum circa ipsum*.
+    **En.** More fully, II *Ethics*, c. 1-7 and VI, c. 1-4. — Ibid., I, c. 12 f. and II, c. 5, as well as III, c. 1, the reason is also insinuated, subsequently adduced and drawn from merit and praise. — Earlier, for *intellectus practicus* ["practical intellect"], codices I, L, V, aa read *intellectus extensus* ["extended intellect"]; then most codices and editions place *proprie* ["properly"] less well in the first place, *communiter* ["commonly"] in the second; codices A, K disagreeing; and a little after, for *magis et magis* ["more and more"], codex A reads *magis et minus* ["more and less"]. Somewhat further on, for *cum circa ipsam* ["since about it (fem.)"], codices N, O read *cum circa ipsum* ["since about it (masc.)"].
+
+[^p476-2]: **La.** Libr. I. p. X. c. 3.
+    **En.** Book I, p. X, c. 3.
+
+[^p476-3]: **La.** Codd. G I L V aa *quae dirigit intellectum*. Mox post *ideo* memorati codd. omittunt *ipsa fides*, et post *essentialiter* codd. A K Z subiiciunt *etiam*.
+    **En.** Codices G, I, L, V, aa read *which directs the intellect*. Soon after *ideo* ["therefore"] the said codices omit *ipsa fides* ["faith itself"], and after *essentialiter* ["essentially"] codices A, K, Z add *etiam* ["also"].
+
+[^p476-4]: **La.** Codd. A K *inspiciat*.
+    **En.** Codices A, K read *inspiciat* ["may examine"].
+
+[^p476-5]: **La.** Pro *attenditur* codd. G I L V aa *consistit*. Infra post *tunc virtus* codd. G I L (aa primitus) omittunt *potentiae*.
+    **En.** For *attenditur* ["is reckoned"], codices G, I, L, V, aa read *consistit* ["consists"]. Below, after *tunc virtus* ["then the virtue"], codices G, I, L (aa originally) omit *potentiae* ["of the power"].
+
+[^p476-6]: **La.** Cfr. supra pag. 381, nota 1.
+    **En.** Cf. above, p. 381, note 1.
+
+[^p476-7]: **La.** Vide Aristot., I. *Ethic.* c. 13.
+    **En.** See Aristotle, I *Ethics*, c. 13.
+
+[^p476-8]: **La.** Edd. et nonnulli codd. *quid est*, et mox pro *circa quam* codd. G I L V aa *secundum quam*.
+    **En.** The editions and some codices read *quid est* ["what is"], and soon, for *circa quam* ["about which"], codices G, I, L, V, aa read *secundum quam* ["according to which"].
+
+[^p476-9]: **La.** Codd. G I L V aa *habitus fidei*.
+    **En.** Codices G, I, L, V, aa read *habitus fidei* ["the habit of faith"].
+
+[^p476-10]: **La.** Cod. F adiicit *dicit* (i. e. respicit). Vat. deinde sola sic prosequitur: *Quia vero est habitus operans per dilectionem et dirigens opus mediante affectu, respicit quodam modo intellectum* etc.
+    **En.** Codex F adds *dicit* (i.e., regards). The Vatican edition alone then continues thus: *But because it is a habit working through love and directing the work by the mediation of the affection, it regards in a certain way the intellect* etc.
+
+[^p477-1]: **La.** Codd. F G L P Q V Z aa *obiicias*, cod. I *obiicis*. Paulo inferius pro *dicendum*, cui verbo codd. H N P Q T U addunt *est*, cod. A *dicimus*.
+    **En.** Codices F, G, L, P, Q, V, Z, aa read *obiicias*, codex I *obiicis* ["you object"]. A little further on, for *dicendum* ["it must be said"], to which word codices H, N, P, Q, T, U add *est*, codex A reads *dicimus* ["we say"].
+
+[^p477-2]: **La.** Dist. 25. p. I. q. 2. seqq. — Ibid. q. 3. fundam. I: *Cum de libero arbitrio loquimur, non de parte animae loquimur, sed de tota* (ex III. *Hypognost.* [inter opera Augusl.] c. 5.).
+    **En.** Distinction 25, p. I, q. 2 ff. — Ibid., q. 3, fundamentum 1: *When we speak of free choice, we do not speak of a part of the soul, but of the whole* (from the third *Hypognosticon* [among the works of Augustine], c. 5).
+
+[^p477-3]: **La.** Edd. *in una istarum*.
+    **En.** The editions read *in una istarum* ["in one of these"].
+
+[^p477-4]: **La.** Codd. G I L V Z aa hic repetunt *respicit*. Mox post *dicitur* codd. A K N inserunt *esse*.
+    **En.** Codices G, I, L, V, Z, aa here repeat *respicit* ["regards"]. Soon after *dicitur* ["is said"], codices A, K, N insert *esse* ["to be"].
+
+[^p477-5]: **La.** Hoc exemplum invenitur etiam in August. *Epist.* 187. (alias 57.) c. 4. n. 13. Vide tom. I. pag. 171, nota 10; II. Sent. d. 26. q. 5. et d. 27. a. I. q. 2. idem dicitur de gratia. — Pro *unitas proprietatis* codd. A Z *veritas proprietatis*, et deinde pro *ponitur esse* codd. G I L V Z aa *potest esse*.
+    **En.** This example is found also in Augustine, *Epistle* 187 (otherwise 57), c. 4, n. 13. See vol. I, p. 171, note 10; in *II Sent.*, d. 26, q. 5, and d. 27, a. 1, q. 2, the same is said of grace. — For *unitas proprietatis* ["unity of property"], codices A, Z read *veritas proprietatis* ["truth of property"], and then, for *ponitur esse* ["is posited to be"], codices G, I, L, V, Z, aa read *potest esse* ["can be"].
+
+[^p477-6]: **La.** In hac nec non in seq. propositione fere omnes codd. pro *quid sit* minus recte exhibent *quod sit*.
+    **En.** In this and also in the following proposition nearly all codices, for *quid sit* ["what it is"], less correctly exhibit *quod sit* ["that it is"].
+
+[^p477-7]: **La.** Pro *ad fidem* edd. *ad fidei proprietates;* in pluribus codd. desunt verba *cogitare, ad fidem pertinet*. Subinde pro *reformare* codd. G I L V aa *informare*.
+    **En.** For *ad fidem* ["to faith"], the editions read *ad fidei proprietates* ["to the properties of faith"]; in several codices the words *cogitare, ad fidem pertinet* ["to think, it pertains to faith"] are lacking. Then, for *reformare* ["to reform"], codices G, I, L, V, aa read *informare* ["to inform"].
+
+[^p477-8]: **La.** Vocabulum *praesidentem* restituimus e codd. A K M N O U Z bb; eius loco codd. F L T Y aa et edd. 1, 2 habent *possidentem*, alii codd. *possibilitatem*, Vat. *post sequentem;* in codd. G V legitur *affectionem concordantem et possidentem*.
+    **En.** The word *praesidentem* ["presiding"] we have restored from codices A, K, M, N, O, U, Z, bb; in its place codices F, L, T, Y, aa and editions 1, 2 have *possidentem* ["possessing"], other codices *possibilitatem* ["possibility"], the Vatican edition *post sequentem* ["after following"]; in codices G, V is read *affectionem concordantem et possidentem* ["a concordant and possessing affection"].
+
+[^p477-9]: **La.** Cod. V *patet* pro *potest videre*.
+    **En.** Codex V reads *patet* ["it is plain"] for *potest videre* ["one can see"].
+
+[^p477-10]: **La.** Hebr. 11, 1. Cfr. infra q. 5.
+    **En.** Hebrews 11:1. Cf. below, q. 5.
+
+[^p477-11]: **La.** Codd. T bb *regularet*, codd. I L V aa *recuperaret*. Post pauca pro *quia illuminat* codd. A K U Z *quod illuminat*.
+    **En.** Codices T, bb read *regularet* ["should regulate"], codices I, L, V, aa *recuperaret* ["should recover"]. A little after, for *quia illuminat* ["because it illumines"], codices A, K, U, Z read *quod illuminat* ["that it illumines"].
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF column bands (`/tmp/colcrop/vol3-p{474..478}-{L,R}-*.png`) over the IA djvu OCR base (raw lines 32953–33238, `raw/bonaventure_vol3_raw.txt`). English is a fresh literal translation. The QUAESTIO II header (`Utrum fides sit in parte animae cognitiva, an affectiva`) is rendered at the top of q2's body. **Opener alignment VERIFIED on PDF (p.474-L-1): "Secundo quaeritur, utrum fides sit in parte animae cognitiva, an affectiva. Et quod sit in parte cognitiva, videtur:" — this IS q2, matching the TRACTATIO QUAESTIONUM listing (q2 = cognitiva vel affectiva).**
+
+**Page-split map** (pdf = printed + 22):
+- p.474 (PDF 496): q1's scholion tail closes at page top; QUAESTIO II header, body opener, cognitive args 1–5, *Sed contra* 1 (Tullius). **6 footers** (`[^p474-1..6]`).
+- p.475 (PDF 497): *Sed contra* 2–5 (mid-arg-1 break), Conclusio, Respondeo opinio 1 (speculative) + opinio 2 (practical, three modes of extension). **10 footers** (`[^p475-1..10]`).
+- p.476 (PDF 498): Respondeo opinio 2 cont., opinio 3 (Hugh — neither/both), *Ratio*, *subiectum virtutis in generali*, four Conclusiones on the subject of faith, beginning of the reconciliation. **10 footers** (`[^p476-1..10]`).
+- p.477 (PDF 499): reconciliation cont., the *Si tu obiiceres* objection + reply, *Epilogus*, Solutiones (*Ad argg. pro* both parts + *Non sibi obviant argg.* with the *Prophetia non est virtus* note); body ends; SCHOLION I begins at page foot. **11 footers** (`[^p477-1..11]`).
+- p.478 (PDF 500): Scholion I (full-width band) cont. + Scholion II; then QUAESTIO III begins. **No q2 footers** — the p.478 footers (nn.1–4: Eph 4:5 / 1 Cor 13:13 etc.) all key to q3's body.
+
+**Apparatus total: 37 body footers** (p.474 ×6 + p.475 ×10 + p.476 ×10 + p.477 ×11), per-page restart. The scholion (§§I–II) has no separate footnote apparatus — it is a continuous editorial note spanning the bottom two-column band of p.477 and the full-width band at the top of p.478, carrying no Quaracchi note-markers.
+
+**Footers migrating IN (per d23-a1-q1 hand-off):** **none.** The shared printed page 474 was verified by body-anchor on the 450 dpi bands: q1's scholion tail occupies only the top of p.474-L and carries no footers, so the entire p.474 footer block (nn.1–6) belongs to q2 (keyed to q2's opener + cognitive args + Tullius/*Sed contra* 1). q1 closed clean at the QUAESTIO II header (raw 32953). **Footers migrating OUT:** none — q2's scholion ends at the top of p.478 before the QUAESTIO III header (raw 33239); p.478's footer notes are wholly q3's.
+
+**Scholion finding:** q2 **HAS its own scholion** (§§I–II), as predicted by the hand-off (`SCHOLION.` at raw 33189). §I is the long S. Thomas / Albert / Peter of Tarentaise / Richard of Mediavilla / Alexander of Hales discussion of where faith resides, plus the Matthew of Aquasparta exposition of Bonaventure's *formaliter/causaliter* doctrine and the *praesidentem* textual restoration approved from *S.c.Gent.* III c.40; §II is the author-list (Alex. Hal. / Durandus / Dionysius Carthusianus) plus the note on the Supplement to Alexander's Summa (Prolegomena pp. LIX–LXII). The scholion is placed LAST in both language blocks (parser requirement).
+
+**Seam integrity:** opens at the QUAESTIO II header + *Secundo quaeritur…* body (raw 32953–32956), continuous from q1's scholion close at the top of p.474-L. Closes at the end of scholion §II (*…utrum fides sit virtus».* raw 33238), immediately before the QUAESTIO III header *Utrum fides sit virtus una* (raw 33239) → forwards to **d23-a1-q3**.
+
+**`[?]` flags:** none. All five PDF pages legible at 450 dpi; the OCR base was near-ABBYY quality and corroborated band-by-band. The OCR running-head digit `470` early in the q2 range is a mangled `475` (genuine running-heads 476, 477, 478 confirm the span runs pp.474–478, as predicted by the hand-off).
