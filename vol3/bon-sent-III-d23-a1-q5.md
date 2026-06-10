@@ -6,350 +6,254 @@ distinctio: 23
 articulus: 1
 quaestio: 5
 type: quaestio
-line_start: 33577
-line_end: 33901
-word_count_latin: 4437
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "De definitione fidei ab Apostolo assignata"
+title_en: "On the definition of faith assigned by the Apostle"
+printed_pages: [483, 484, 485, 486, 487]
+pdf_pages: [505, 506, 507, 508, 509]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 483–487"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (vol3 p.483–487 L/R) over IA djvu OCR base (raw lines 33577–33901), fresh literal English translation, full apparatus from raw OCR (18 body footers, p.483 ×3 + p.484 ×7 + p.485 ×4 + p.486 ×4), scholion I–III from OCR with no [?] flags (2026-06-10)"
 format_version: 1
 ---
 
 # bon-sent-III-d23-a1-q5
 
+## *On the definition of faith assigned by the Apostle*
+
+---
+
 ## Latin
+<!-- page 483 -->
 
-QUAESTIO V.
-                                                  De definitione fidei ab Aposlolo assignala.
+### Quaestio V. *De definitione fidei ab Apostolo assignata.*
 
-                   Quinto quaeritur de descriptione fidei ab Apo-               substantia ibi accipitur communiter pro essentia, et
-             stolo assignata, quoniam ipsa inter ceteras est ma-                essentia uniuscuiusqtie non differt ab eo, cuius est
-Defioiuo fl- gis authentica. Definit autem Apostolus lidem sic, ad              essentia , iides aulem differt a rebus sperandis ; im-
-             Hebraeos undecimo ~: Fides esl subslantia rerum                    possibile est, fidem esse substantiam rerum spe-
-                                                                                randarnm.
-             sperandarum , argumentum non apparentmm. 0-
-             stendilur autem ista descriptio inconvenienter assi-                     2. Item, videtur falsa esse in hoc, quod dicit,
-    Notator snata propter rruadruplicem defectum, qui videtur                   fidem non tanlum esse substantiam, sed etiam ar-
-aefectus. esse
-quadruplex   p      m" ea,
-                        r videlicet
-                             ! , ,. r propter defectum
-                                               , . . 'vemtatis.    ,            gumenlum, quoniam nulla virlus est argumenlum,
-Ppropter defectum convertibilitatis, propter defectum                           nec e converso: si ergo fides est virtus , non ergo
-             evidentiae el propter defectum sufficienliae. — Quod               potest esse argumentum. Si lu dicas , quod argu-
-Defectus i. auteui sit in ea defeclus veritatis , ostenditur :                  mentum sumitur ibi transsumtive ; videtur, quod
-                   1. Priino in hoc, quod dicit, fidem esse sub-                nec transsumlive , nec proprie debeat dici fides ar-
-             stanliam ; aut enim ibi accipilur substantia proprie,              gumentum non apparenlium. Si enim proprietas ar-
-             aut communiler. Si accipitur \bi proprie, cum sub-                 gumenti est, quod arguit ipsam mentem et convincit
-             stantia dividatur contra accidens3, et fides sit ac-               eam de eo ad quod est, faciens illud esse clarum
-             cidens , falsum est, fidem esse substantiam. Si autem              et apertum*; videtur, quod sit ibi implicatio dupli-
+Quinto quaeritur de descriptione fidei ab Apostolo assignata, quoniam ipsa inter ceteras est magis authentica. Definit autem Apostolus fidem sic, ad Hebraeos undecimo[^p483-2]: *Fides est substantia rerum sperandarum, argumentum non apparentium.* Ostenditur autem ista descriptio inconvenienter assignata propter quadruplicem defectum, qui videtur esse in ea, videlicet propter defectum *veritatis,* propter defectum *convertibilitatis,* propter defectum *evidentiae* et propter defectum *sufficientiae.* — Quod autem sit in ea defectus *veritatis,* ostenditur:
 
-         posse scienliaiii certissimam. — Nomine scientiae divinae ab                 3 Cfr. Arislot., VII. Metaph. text. 2. (VI. c. I.). Ibid. text.
-         Aristol., I. Mclaph. c. 3, intelligitur metaphysica : « Nam el          I i. (c. i.) docetur , quod essenlia « uno quidem modo substan-
-         illa, quam maximc Deus habeat, divina scientiarum est, ct si           liam .et quod quid significat, alio vcro singula eorum, quae
-         qua est, quae divinorum sit». lbid. et III. text. 3. nec non XI.       praedicantur, quantitatem, qtialitatem et quaecumque cetera
-         c. 6. (II. c. 2. et X. c. 7.). metaphysica dicitur scienlia « prin-    talia sunt », i. e. uno modo essentia idem est ac substantia ,
-         cipalissima et honorabilissima , et cui celeras scienlias lanquam      alio modo etiam accidentibus convenit. Hoc secundo modo
-         ancillas non contradicere decet». — Edd. I, 2 in hac solut.            paulo inferius accipitur, ut secundi membri arg. suppositio sit:
-         pro vocabulo mathematicae perperam substituerunt vocem me-             fides est accidens, ctiius essenlia consistit in rebus sperandis.
-         taphysicae.                                                                  1 Boeth., I. Comment. in Topic. Cicer. ait: Argumentum
-               1 I.ibr. II. Melaph. text. I. (I. brevior, c. I.). — Paulo in-   namque est, quod rem arguil, id est probat (ed. Migne, Patr.
-         ferius pro dubie codd. G 1 1. V dubitative, et post pauca pro          lat. tom. 64. col. 1048). Isidor., VI. Etymolog. c. 8. n. 16:
-         nolitiam habere iidem codd. cognitionem habere. Ultima pro-            Argumentum vero dictum quasi argutum vel quasi argute in-
-         posilio: Rationes vero etc. deest in dictis codd.                      venlum ad comprobandas res. — Mox pro contradictionis cod.
-               2 Vers. I. — Puiilo infcrius pro ista descriptio inconve-        F opposilionis. In fine arg. pro de defectu Vat. ob defeclum.
-         nienter codd. G I L V -ista definitio non bene.
-        484                                                  SENTENTIARUM LIR. IH.
+1. Primo in hoc, quod dicit, fidem esse *substantiam;* aut enim ibi accipitur substantia *proprie,* aut *communiter.* Si accipitur ibi *proprie,* cum substantia dividatur contra *accidens*[^p483-3], et fides sit accidens, falsum est, fidem esse substantiam. Si autem substantia ibi accipitur *communiter* pro essentia, et essentia uniuscuiusque non differt ab eo, cuius est essentia, fides autem differt a rebus sperandis; impossibile est, fidem esse substantiam rerum sperandarum.
 
-        cis contradictionis , cum dicit, fidem esse argumen-                  modo sunt fulura, videtur, quod insufficienter defi-
-        tum non apparentium. Quae enim habenl argu-                           niatur, cum deflnitur solummodo per res sperandas.
-        mentum, hoc ipso quod habent argumentum, ap-                                8. ltem, fides non tantummodo est fundamen-
-        parent esse vera ; quae etiam habent argumentum ,                     tum spei , immo eliam caritatis et totius aedificii
-        hoc ipso quod habent argumentum, convincuntur                         spiritualis : ergo ita est subslaniia vel fundamentum
-        esse vera : igitur ratio argumenli repugnat tam rei                   caritatis et rerum diligendarum, sicut spei et spe-
-        non apparenti quam ipsi habitui fidei: ergo est                       randarum : videtur ergo insufficienter dixisse, cum
-        ibi implicatio opposilorum in praedicta descriptione:                 dixit, eam esse fundamentum rerum sperandarum.
-        videtur igilur , quod praedicta definitio redargui pos-               Cum enim nobilior sit caritas quam spes4, magis
-        sit de defectu veritatis.                                             deberet definiri fides per res diligendas quam per
-                  3. Item, videtur, quod possil reprehendi ob de-             res sperandas. — Et ita propter quatuor dictos de-
-Defectus 3. fectum convertibiliialis '. Nam haec descriptio potest            fectus praedicta descriptio videtur esse penitus abii-
-            convenire ipsi spei. Spes enim est subslantia rerum               cienda et repudianda.
-            sperandarum , et etiam argumentum non apparen-
-                                                                                                       CONCLUSIO.
-            tium, quia per spem certificamur, nos esse habitu-
-            ros res, quas non videmus : ergo videtur, quodsi
-            tota ista descriptio convenit spei , quod non conver-               Fidei definitio data ab Aposlolo esl convenienter
-            tatur cum ipsa fide.                                                         et secundum artem assignata.
-                  4. Item, credere, poenam aeternam esse fulu-
-            ram, hoc pertinet ad ipsam fidem, ergo credulitas                      Respondeo : Ad praedictorum inteliigentiam est
-            poenae aeternae fides est ; sed credulitas poenae ae-             notandum, quod tunc definitio sive notificatio est
-            ternae non est substantia rerum sperandarum , sed                 recte assignata, quando nihil continel superfluum,
-            potius timendarum: ergo videtur, quod ista descri-                nihil etiam .~.
-                                                                                           diminutum*.
-                                                                                                    ..
-                                                                                                          Et,„..
-                                                                                                             hoc est, quando
-                                                                                                                         .   ,
-                                                                                                                                 per
-                                                                                                                                  .
-                                                                                                                                     ia    requi-
-                                                                                                                                     sita ad de-
-            ptio generaliter non conveniat ipsi fidei : ergo nec              ipsam notificationem lpsius defimti essentia plene m- onmonem.
-            omni nec soli : videtur ergo posse reprehendi propter             dicalur et aperte manifestatur et ab omnibus aliis
-            defectum converlibilitatis.                                       separatur ; hoc autem est reperire in proposito , si
-                   5. Item , videtur posse reprehendi ob defectum
-                                                                              quis attendat.
-Dniecias s. evidenliae , quia non debet prius definiri per posle-                  Nam ipsa fides secundum
-                                                                                                    .
-                                                                                                               essentiam
-                                                                                                                    ,.
-                                                                                                                          suam ali- indicator
-                                                                                                                                      senlia.
-                                                                                                                                              e
-            rius, nec ignotum per ignotius2; sed fides prior est              qmd respicit ex parte inlellectus et aliquid ex parte
-            quam spes, fides etiam, quae est in corde, notior                 affectus 6. Habet enim affectum stabilire et intelle-
-                                                                              ctum illumiuare. Et in quantum a/fectum stabilit,
-            est, quam ea quae non apparent : ergo male defini-
-            tur fides per res sperandas, et per res non ap-                   dicitur substantia sive fundamentum ; in quanlum
-            parentes.                                                         autem inlellectum illuminat, dicitur argumentum.
-                   6. Item , ad evidentiam definitionis spectal, quod         Ut ergo plene fidei essentia explicaretur, oportuit
-            priora praemittantur posterioribus : si ergo cognitio             eam defmiri sive notificari, ut diceretur esse sub-
-            praecedit affectionem, et fides, in quantum argu-                 stantia simul et argumenlum ; debet enim deQnitio
-            mentum, respicit cognitionem, in quantum vero sub-                totam essentiam definiti in se claudere.
-            stantia rerum sperandarum , respicit affectionem ;                      Debet etiam nihilominus aperte noiificare ; et xotincatur
-            videtur, quod praedicta definitio assignata sU sicut              quoniam habilus virtulis dupliciter notificari habet, eadem.
-            per posterius et confuse : et ita redargui posse vi-              videlicet per finem ullimum et per suum obiectum1 ;
-            detur propter defectum evidentiae.                                finis autem ipsius fidei consistit in aelema beatilu-
-                   7. Item, reprehensibilis videlur propter defe-             dine , quam speramus, et ita in rebus sperandis ;
-Defeotus 4. clum sufficientiae , quia fides non tantummodo est                obiectum autem consistit in verilale non visa, et
-            de fuluris, verum etiam de praesentibus et praete-                ita in rebus non apparenlibus : ideo opportunum
-            ritis , ut dicit Augustinus 3 : si ergo speranda solum-           fuit, fidem definiri per res sperandas et non appa-
+2. Item, videtur *falsa* esse in hoc, quod dicit, fidem non tantum esse *substantiam,* sed etiam *argumentum,* quoniam nulla *virtus* est *argumentum,* nec e converso: si ergo fides est *virtus,* non ergo potest esse *argumentum.* Si tu dicas, quod argumentum sumitur ibi *transsumtive;* videtur, quod nec *transsumtive,* nec *proprie* debeat dici fides *argumentum non apparentium.* Si enim proprietas argumenti est, quod arguit ipsam mentem et convincit eam de eo ad quod est, faciens illud esse clarum et apertum[^p483-1]; videtur, quod sit ibi implicatio dupli<!-- page 484 -->cis contradictionis, cum dicit, fidem esse *argumentum non apparentium.* Quae enim habent argumentum, hoc ipso quod habent argumentum, *apparent* esse vera; quae etiam habent argumentum, hoc ipso quod habent argumentum, *convincuntur* esse vera: igitur ratio *argumenti* repugnat tam rei *non apparenti* quam ipsi *habitui fidei:* ergo est ibi implicatio oppositorum in praedicta descriptione: videtur igitur, quod praedicta definitio redargui possit de defectu *veritatis.*
 
+3. Item, videtur, quod possit reprehendi ob defectum *convertibilitatis*[^p484-1]. Nam haec descriptio potest convenire ipsi *spei.* Spes enim est *substantia rerum sperandarum,* et etiam *argumentum non apparentium,* quia per spem certificamur, nos esse habituros res, quas non videmus: ergo videtur, quod si tota ista descriptio convenit *spei,* quod non convertatur cum ipsa *fide.*
 
-              1 Boeth., I. Dialog. in Porphyr. c. de Genere circa finem:           * Epist. I. Cor. 13, 13: Fides , spes , caritas , tria haec ,
-         Quascumque definitiones convertere potes, illae verae atque          maior autem horum est caritas. — Quomodo fides fundamen-
-         pares sunt; quascumque convertere non potes, aut maiores aut         lum sit fabricae spiritualis, exponit Gregor., XXVIII. Moral.
-         minores sunt, pares inveniri non possunt. — De minori cfr.           c. 9. n. 20. — Superius post sicul spei et codd. F U supplent
-         hic lit. Magistri , c. S. — Codd. A K Z verbo reprehendi prae-       rerum.
-         mittunt eliam.                                                            5 Cfr. Aristot., VI Topic. c. I . seq., et VII. Metaph. lext. 43.
-               2 Aristot., VI. Topic. c. 3. (c. 4.) ostendit, definitionem    (VI. c. 12.), ubi etiam aliae proprietates definitionis infra oc-
-         faciendam esse per noliora, et adiungit, quod unus locus pro-        currentes tanguntur.
-         bandi, definilionem non factam esse per notiora, sit, a quod [si          c Cfr. supra q. 2. — Paulo inferius pro stabilii [Hebr.
-         definitio] per posleriora, priora indicat j>. De minori vide supra   13, 9: Optimum est enim gratia stabilire cor] plurimi codd.
-         q. I. in corp. et q. 4. ad I. — Mox anle spes codd. AK in-           et edd. 1, 2 slabilitat.
-         serunt sit.                                                               7 Vide Aristot., I. Etliic. c. I. et 7. seqq.; II. c. I, et II.
-             3 Enchirid. c. 8. n. 2: Est etiam fides et praeteritarum         de Anima , text. 33. (c. 4.). Cfr. tom. II. pag. 56 1 , nota 3. et
-         rerum et praesenlium et futurarum.                                   pag. 6S3, nota 6. — Pro et quoniam edd. quoniam ergo.
-                                                                                                                                                 ',*:,
+4. Item, credere, poenam aeternam esse futuram, hoc pertinet ad ipsam fidem, ergo credulitas poenae aeternae fides est; sed credulitas poenae aeternae non est substantia rerum sperandarum, sed potius timendarum: ergo videtur, quod ista descriptio generaliter non conveniat ipsi fidei: ergo nec omni nec soli: videtur ergo posse reprehendi propter defectum *convertibilitatis.*
 
+5. Item, videtur posse reprehendi ob defectum *evidentiae,* quia non debet prius definiri per posterius, nec ignotum per ignotius[^p484-2]; sed fides prior est quam spes, fides etiam, quae est in corde, notior est, quam ea quae non apparent: ergo male definitur fides per *res sperandas,* et per *res non apparentes.*
 
-                                                             DIST. XXIII. AHT. I. QUAEST. V.
+6. Item, ad *evidentiam* definitionis spectat, quod priora praemittantur posterioribus: si ergo cognitio praecedit affectionem, et fides, in quantum *argumentum,* respicit cognitionem, in quantum vero *substantia rerum sperandarum,* respicit affectionem; videtur, quod praedicta definitio assignata sit sicut per posterius et confuse: et ita redargui posse videtur propter defectum *evidentiae.*
 
-            rentes , ut sic DOtiflcatio Bdai noD solum essentiam                  tur, /ii/poslasis , et redargutio eaiuin rerum, quae
-            deliniti explicaret plene per intellcctum et ajfectum,                non videiilur »:
-            sed etiam manifeslaret aperle per finem et obieclum.                        a. Ad illud ipiod obiicitur, quod falso etiam
-                  Debet etiani defioitio dclluituui ab omnibus aliis              dicilur esse aiguinentum ; diceiiduin similiter, quoil
- Beparatur separarc. El quoniam            liiles fnrnuttu     dislingui ha-      argumentum dicitnr dupliciter, videlicet proprie et
- eadom ab     *            .   '    ....
- aiiis. bet a /ide tnformi, distmgui etiam habet ab liabitu                       transsunitive.   Proprie  qiiitlein arijumentum accipi- lumAreumeu-
-                                                                                  .          .          ii-              .■     ,,             propne
-        Cuiuslibet allerius virtulis ; a fide, inquain, informi                   lur secuiiduin quailruplicem acceptioneni. Nam uiio -t 'luaa.u-
-        distinguitur, in quantuin sustenlal fotain fabricain                     modo dicifur argiiiiiculimi riUincinalio , secuiidiiiu p *
-        spiritualem, ab aliis aulem virtulibus , in quantum                      quod dividitur in quatuor species, videlicet in si/l-
-        verilati non vistw facil adliaerere : ideo quanlum                       logismuut, inductionem , enthynientu el iremplum\
-        ad haec duo dicitur subslanlia rerum sperantlarum,                       Alio modo dicitur argiiiiienluin prolixae seutenliae
-        ut dislingualur a fide informi , et argumentum non                       brevis collectio. Tertio modo dicitur arguinenlum
-        apparentium , ut distinguatur ab habilibus alinnim                       ipsuin ntedium, in quo consislit tota vis argumen-
-        virtulum.                                                                tationis. Quarto modo dicitur argumenlum ipsa ma-
-                    Et sic palet, quod praedicta nolificatio nihil con-          xima propositio, in qua consistil firmitas totius il-
-            tinet super/luum, nihil dimitttttum ; nec est in ea                  Ialionis. In oinnibiis aiilem his acceplionibus an/u-
-            clausula oec dictio, iinmo etiain nec syllaba oliosa.                menlum dicitur, quia mentem arguit et illiiiiiiual
- conciusio. Fatenduni esl igitur, ipsam esse convenienter et se-                 ad aliquid inluenduiii et ei firmiler adhaerenduiii.
-            cunduin artem assignafam , ila quod in se liahet ve-                 — Et secuiidiim banc [iroprielalem potest transsum- Argumen-
-                                                                                   ....                     ■ i  - , -ii i -              tum traos-
-            ritatem, conuertibililatein . evideiiliain et suff/cien-             twe dici argumentotm quidquid illud sit, quod tnen- «mar».
-            liam adeo perfecle et complete. ul nec pcrilissimi                   lem arguit et illuiiiinai ad videndam aliquid occul-
-            philosophorum possent eam arlilicialius et comple-                   lum. Et lioc modo fides dicitur esse argumenlum re-
-            tius assignare.                                                      ruin iinii apparenlium , quoDiam ita facit inteUectum
-                    1. Ad illud ergo quod primo obiicilur in con-                eis assentire, sicut argiunenlum verum facit assentire
-soimio op- trarium
- positoruro.
-                       . quod falso dicitur     lides esse
-                                             ....       .
-                                                             suhstantia ;
-                                                             ., .                conclusioni probatae. — El per hoc patel responsio ad
-            diceudum , quod substanlta ihcitur dupliciter, sci-                  illa quae arguebant praediclam definilionem ob de-
-            licet proprie et transsumtive. 1'roprie quidem dici-                 fectum veritalis.
- subsiautia tur quatuor
-proprie est       .    ,
-                             modis, scilicet
-                                          .
-                                             substanlia-materia,
-                                                    .
-                                                                     suh-
-                                                                      .
-                                                                                       3. Ad illud vero quod obiicitur , quod in praeas-
-paitrupiei. stantia-forma , substautia-compositum , substanlia .                 signata definitione est defeclus convertibililalis ; di-
-            quae est essentia uniuscuiiisque '. Transsumtive di-                 cenibim, quod praedicta notificatio 11011 couvenit spei,
- substautia
-  transsum-
-            citur substanlia.
-                                  illud quod hahel
-                                              .
-                                                    aliqiiam_ proprieta-         quoniam , etsi ipsa spes aliqno niodo possit dici *(//;-
-  Uvo. tem substaiiliae diclae aliquo istoruin iiiodoruin. t.um                  stnniia rerum sperandarum , non tamen potesl dici
-            autem dicitur: fides est substantia, hoc dod dicitur,                fiiudamentutn , sirul lides, qnia non est prima vir-
-            secnndum quod hoc nomen substantia sumitur in                        tulnm. Licet autem hoc aliquo modo possit ei atlri-
-            significatione propria, sed secundum quod sumitur                    bui, tamen sequens pars defiriilionis, quae est ar-
-            in significatione transsumtiva. Dieitur eniin subslan-               gumenlum non apparentium, convenit soli fidei ,
-            tia, quia est fundamenliiin fabricae spiritualis ad                  quae intellectum facit assentire ipsi Veritati ; hoc au-
-            similitudinem materiae, quae praebet fulcimentum                     tem nec spei competit nec caritati , licet eis com-
-            formis et accidenlibus. Et quod ita accipiatur, palet                petal quoddam genus certitudinis experimenlalis ,
-            per notificalionem Damasceni5, qui loco eius quod                    maxime ipsi spei 4.
-            dicit Apostolus : Fides est substantia, dicil hi/posta-                   4. Ad illud quod obiicilur, quod credulitas sup-
-            sis. Ait enim sic : « Fides est eorum    quae speran-                pliciorum non est snbstanlia rerum sperandarum,
+7. Item, reprehensibilis videtur propter defectum *sufficientiae,* quia fides non tantummodo est de futuris, verum etiam de praesentibus et praeteritis, ut dicit Augustinus[^p484-3]: si ergo speranda solummodo sunt futura, videtur, quod insufficienter definiatur, cum definitur solummodo per res sperandas.
 
+8. Item, fides non tantummodo est fundamentum *spei,* immo etiam *caritatis* et totius aedificii spiritualis: ergo ita est substantia vel fundamentum *caritatis* et rerum diligendarum, sicut *spei* et sperandarum: videtur ergo insufficienter dixisse, cum dixit, eam esse fundamentum rerum sperandarum. Cum enim nobilior sit caritas quam spes[^p484-4], magis deberet definiri fides per res *diligendas* quam per res *sperandas.* — Et ita propter quatuor dictos defectus praedicta descriptio videtur esse penitus abiicienda et repudianda.
 
+### Conclusio
 
+> **Conclusio.** Fidei definitio data ab Apostolo est convenienter et secundum artem assignata.
 
-                  1 Ul docel AristoL, VII. Melaph. text. 7. (VI. c. 3.). Cfr.    solvitur dubitatio, nihil est aliud argumentum quam medietatis
-            ibid. V. texl. 15. (IV. c. 8.) et II. de Anima , text. 2. (c. I.).   inventio ; haec enim vel coniungere, si allirmatio defendatur ,
-                  ■ I.ibr. IV. de Fide orlhod. c. 10. Vide infra dub. I. —       vel disiungere, si negatio vindicetur, polerit exlremos. — Ibid.
-            Paulo ante pro praebet codd. G I L T V aa plwibus, n"ae lectio       etiam quarla acceptio argttmenti proferlur. Definitis enim ma-
-            nuilila integrari posset addilo verbo praeslat , qtiod cod. F posl   ximis propositionibus, scil. « quae et universales sunt et ila notae
-            accidetilibus exhibet.                                               alque manifestae, ul probatione non egeant eaque polius quae
-                 3 De his agit Aristot., I. Prior. c. I. et II. c. 23. seqq.     in dubilatione stint probent», auctor, diversas argumentationis
-            (c. 23. seqq.) nec non Boeth., II. de Different. topic. — Quod       et argumenti acceptationes recensens ait: Aut arijnmentntio
-            ad secundum niodum allinet, quo argumentitm sumitur, dicit           quidem vocabitur tota contexlio syllogismi cum sententia, sed
-            Quintilian., V. Institut. orat. c. 10: Sed argumentum quoque         argumentttm maxima proposilio etc. (col. 1053). Cfr. II. de
-            plura significat. Nam... et oralionum Ciceronis velut Ihenia ipse    Differenl. topic. — Paulo superius pro accipilitr cod. A sumi-
-            exponens Pedianus, » argumentum, inquit, tale est». — Quoad          tur, cod. U dicitur. In flne solut. cod. O plura addit, quae
-            tertium modum nota illud Boeth., I. Comment. in Topic. Cicer.        propter varias lacunas etc. non digna sunt commemoratu.
-            (ed. Migne, Patrol. Lat. lom. 64. col. 1050.): Quoniam igitur              * Vide hic lit. Magislri, c. 8. seq. — In prima solutionis
-            extremi termini medii interpositione copulantur, eoque modo          propos. pro aliquo modo possit codd. AHK aliquo modo
-            quaeslionis inler se menibra conveniunl , adhibitaque probatione
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod tunc definitio sive notificatio est recte assignata, quando nihil continet superfluum, nihil etiam diminutum[^p484-5]. Et hoc est, quando per ipsam notificationem ipsius definiti essentia plene indicatur et aperte manifestatur et ab omnibus aliis separatur; hoc autem est reperire in proposito, si quis attendat.
 
-                                                                                 posset.
-        486                                                   SENTENTIARUM LIB. III.
+Nam ipsa fides secundum essentiam suam aliquid respicit ex parte intellectus et aliquid ex parte affectus[^p484-6]. Habet enim affectum stabilire et intellectum illuminare. Et in quantum affectum stabilit, dicitur *substantia* sive *fundamentum;* in quantum autem intellectum illuminat, dicitur *argumentum.* Ut ergo plene fidei essentia explicaretur, oportuit eam definiri sive notificari, ut diceretur esse *substantia* simul et *argumentum;* debet enim definitio totam essentiam definiti in se claudere.
 
-          sed raagis timendarum ; dicendum , quod fides dici-                 quin intellectus aliquando sequatur affectum , utpote
-NotandDm. tur esse substantia rerum sperandarum non tanquam                   quando inclinatur ad assentiendum alicui rei secun-
-          svMecti ' , sed tanquam finis , sicut praedictum est.               dum imperium voluntatis. Et hoc modo dictum est
-          Quamvis autem credulitas suppliciorum sit rerum                     superius3 se habere in actu fidei, quae ideo habet
-          timendarum per modum obiecti, est tamen rerum                       rationem virtutis, quia assensus ille est a principio
-          sperandarum per modum finis. Ideo enim quis cre-                    voluntatis; et ideo Apostolus rectissime ordinavit,
-          dit aeterna supplicia, ut assequatur bona speranda.                 quando illud fidei, quod respicit affectivam, prae-
-                o. Ad illud quod obiicitur, quod est ibi defe-                misit ei quod respicit cognitivam.
-          ctus evidentiae, quia fides definitur per posteriora                      7. 8. Ad illud quod obiicitur de defectu suffi-
-          et ignota ; dicendum , quod falsum est ; definitur                  cientiae, quia deberet definiri per diligenda, sicut
-          enim per finem et obiectum , sicut prius visum est.                 per speranda, ita per praeterita, sicut per futura;
-Noiandam. Licet autem finis ipsius Jidei , qui consistit in rebus             iam patet responsio: quia, quamvis 4 fides sit de prae-
-          sperandis, sit posterior ipsa fide quantum ad asse-                 teritis et futuris, sive etiam de sperandis et aman-
-          cutionem , est tamen prior quantum ad intentionem 2.                dis, de solis sperandis est lanquam de fine, ad
-          Licet eliam obieclum ipsius fidei , quod consistit in               quem tendit ; et per hoc , quod definitur hic fides
-          veritate non apparente, sit homini infideli incogni-                per comparationem ad finem et complementum to-
-          lum, nihilominus cognitum est homini fidem habenti;                 tius aedificii spiritualis, datur per consequens intel-
-          quamvis etiam sit incognitum , quale sit , notum la-                ligi eiusdem aedificii tota fabrica. Et per hoc patent
-          men est, ipsum non apparere. Et sic patens est,                     illa duo obiecta. Patet etiam , quare magis dicitur
-          quod praedicta notificatio non est per posterius et                 esse fundamentum rerum sperandarum quam cre-
-          incognitum, immo per prius et notius.                               dendarum, vel timendarum. Per hoc enim , quod
-                6. Ad illud quod obiicitur , quod in ea est prae-             dicitur sperandarum , magis datur intelligi finis vir-
-          posteratio , quia prius deberet dici argumentum                     tutis, qui est ipsa beatitudo exspectata, quam per
-          quam fundamentum ob hoc, quod intellectus prae-                     hoc, quod dicilur credendum, vel amandum , vel ti-
-Notandum. cedit affectum ; dicendum , quod etsi actus intelle-                mendum. Nam isti actus non tantummodo sunt in
-          ctus praecedit actum affectus, nihil tamen impedit,                 finem, sed etiam in ea quae sunl ad finem.
+Debet etiam nihilominus aperte notificare; et quoniam habitus virtutis dupliciter notificari habet, videlicet per finem ultimum et per suum obiectum[^p484-7]; finis autem ipsius fidei consistit in aeterna beatitudine, quam speramus, et ita in *rebus sperandis;* obiectum autem consistit in veritate non visa, et ita in *rebus non apparentibus:* ideo opportunum fuit, fidem definiri per *res sperandas* et non appa<!-- page 485 -->rentes, ut sic notificatio fidei non solum essentiam definiti explicaret plene per *intellectum* et *affectum,* sed etiam manifestaret aperte per *finem* et *obiectum.*
 
-                                                                   SCHOLION.
-              I. Ut notat S. Thom. (locc. infra cilt.), quidam asserebant,    quod voluntas in fide quodam modo <t praesidet » (S. Bonav.)v
-        S. Paulum in verbis propositis intendere tantum oslendere ,           vel, ut verbis S. Thomae ulamur, « principalilatem habet»,.
-        quid fides carilate formata faciat, non quid sit. Sed commu-          quod iam supra in scholio ad 2. quaest. notavimus.
-        niter antiqui doclores docent, « quod haec fidei notificatio sit             luvat autem hic in fine I. articuli pauca commemofare ,.
-        completissima eius definitio , non ita quod sit secundum debitam      quae in scholis tractantur de analysi aclus fidei et de ralione ,.
-        formam definilionis tradila , sed quia in ea sufficienter tangun-     qua obieclum formale eius a mente altingitur, ut credendo
-        tur omnia quae exiguntur ad fidei definitionem » (S. Thom., de        assentiamur ipsi primae Veritati in se et super omnia. In qua
-        Verit. q. 14. a. 2.), ut ibi et brevius in Sum. et in Comment.        subtili quaestione plura sunt certa , alia cadunt in controversiam.
-        exponitur. Quae omnia dieta sunt ad mentem S. Bonaventurae,                  1. Certum est, quod ratio obiectiva assensus fidei divi-
-        in hac quaestione ingeniose el copiose exposilam, licet hic dicat,    nae est auctoritas I)ei revelantis ; quod expresse docet ConciL
-        hanc definitionem etiam secundum artem convenientissime esse          Vatican. (c. 3. de Fide) dicens, nos credere vera esse , quae
-        assignatam, id est, si spectatur substantia, non autem vulgo          divinitus revelantur propter auctoritatem Dei revelantis.
-        tradita forma. Unde S. Thom. (de Verit. loc. cit.) sensum ver-               2. Communiter eliam distinguitur prima Veritas tripliciler :
-        borum Apostoli hac formula exprimit : « Fides esl habilus mcntis,     in essendo (quasi ultima ratio omnium), in cognoscendo et in
-        quo inchoatur vita aeterna in nobis, faciens intellectum non          dicendo (veracitas), quae tria, quatenus sunt aliquid Deo intrin-
-        apparentibus assentire».                                              secum et tn re unum idemque, ad obiectivam fidei rationem
-              II. De obiecto fidei, quod hic tangitur, plura vide infra       speetant, licet veritas in cognoscendo primario et formalis-
-        d. 24. a. I . per tolam ; passim autem repetitur, hoc obiectum        sime sit ratio assensus in fide theologica. Revelatio autem ex-
-        esse primam Veritatem non visam, non apparentem ; quod                lerne et in tempore facla , qua inlerna Veritas divina manife-
-        intelligendum est non tantum de obiecto materiali, sed etiam          stalur (per se considerata ), item moliva credibilitatis et ipsa
-        de formali; et recte hic subiungitur, quod in hoc (fides) «distin-    Eccksiae auctoritas (sive in se consideratur, sive quatenus divi-
-        guitur ab aliis virtutibus, in quantum veritati non visae facit       nam loculionem integrat), haec omnia non sunt ipsa ratio mo-
-        adhaerere », quod etiam S. Thom. passim docet. Sed veritas            tiva, sed potius conditio quaedam, dispositio, vel etiam me-
-        non visa non determinat vel <t movel intellectum ex propria           dium, quo obiectum formale applicatur sive cum obiecto ma-
-        virlute, sed ex inclinatione voluntatis» (S. Thom. de Verit.          teriali conneclitur. Attamen nonnulli cum celeberrimo theologo
-        q. 14. a. 2, ad 13.). Unde primae Veritati sive obiecto formali       cardinali Lugo actum externum revelalionis et motiva credibi-
-        fidei adhaeremus expao voluntatis affecln. Hinc recte dicilur,        litatis volunt esse partiale et secundarium motivum fidei. S._
+Debet etiam definitio definitum ab omnibus aliis *separare.* Et quoniam *fides formata* distingui habet a *fide informi,* distingui etiam habet ab habitu cuiuslibet alterius virtutis; a fide, inquam, *informi* distinguitur, in quantum sustentat totam fabricam spiritualem, ab aliis autem virtutibus, in quantum *veritati non visae* facit adhaerere: ideo quantum ad haec duo dicitur *substantia rerum sperandarum,* ut distinguatur a fide informi, et *argumentum non apparentium,* ut distinguatur ab habitibus aliarum virtutum.
 
+Et sic patet, quod praedicta notificatio nihil continet *superfluum,* nihil *diminutum;* nec est in ea clausula nec dictio, immo etiam nec syllaba otiosa. Fatendum est igitur, ipsam esse convenienter et secundum artem assignatam, ita quod in se habet *veritatem, convertibilitatem, evidentiam* et *sufficientiam* adeo perfecte et complete, ut nec peritissimi philosophorum possent eam artificialius et completius assignare.
 
+**Ad argumenta:**
 
-             1 Sive, quod in idem redil , obiecti, quam leclionem exhi-       c. 8.) et III. Ethic. c. 3. nec non VI. c. 9. — Pro assecutionem-
-        bent codd. BCD(K primitus) M 0 P R ce. In edd. legitur: dicen-        codd. A H K L Z exsecutionem. Mox codd. M 0 voci veritate
-        dum, quod verum est, quod non est subslantia rerum speran-            praefigunt ipsa.
-        darum tanquam subiecli etc.                                                3 Quaest. 2. — Paulo superius pro impedil, quin multi
-             2 Finem priorem esse seeundum inlenlionem, docet Aristot.,       codd. et edd. impedit, quod.
-        11. de Generat. animal. c. 4. (c. 6.); IX. Melaph. text. 15. (VIII.        * Cod. U quamvis enim.
-                                                DIST. XXIII. AKT. II. QUAEST. 1.                                                        487
- Bonav. (infra d. 24. dub. 2.) dicit, verbum externum, per au-         modo, quo obieclum maleriale , revelalum in actu signato,
-dittim reccptum, tantum nd materiale fldei spectare.                   credilur ob obiectum formale. — Terlia senlentia, quam mi-
-      3. iteni concorditer docetur, in aclu fldei implicari multos     pcrrinie propugnal cl. Professor C. Mazzella S. I. in turlia sua
- actns el inlellectus et voluntatis: impriniis ipsiini velle crcdere   edilionc (raclalus de Virtutibus infusis, reformnns praeceden-
-sive voluntatem imperanlemassensum; hunu autem actum volun-            tium editfonum doctrinam, non parum restrlnglt praedictam
- taitsiterum praecedere moticttm, Ideslaliquod bonum cotjnilum         Suaruzii doulrinain, ul progressus in inflnilum ,vel circulus vi-
- ui appetendum, et iudicium, quod omnia revelata sint credibilia       liosus manifusle evitetur; ipse aulum, allalis mullis louis, S.
-et credenda. In hoc iudicio iam aupponitur vel implicatur, lum         Thomae doctriuam (§ VI.) ita explicat : « Supposilo iudicio
- quod Detts sit el sit primii Veritas el suprema Auctoritas, tum       certo de uxistenlia et urudibililate ruvelationis , quo tolum obie-
- quod de faclo revelaverit credenda et fidei obedientiam impe-         ctum credendum III munti prausens , immerito quaeri, arbilra-
-raveril. Motiva autem credibilitatis aliquo niodo sciri possunt        mur, novam ex partu intelleclus obieelivam rationum , ob quam
-et debent, nntfiquam voluntas possit ralionabiliter impernro li-       Dei revelanlis auutoritati assentiamur : cum assensus in verita-
-dem. Denique lii autus inlelleutus et volunlalis non possunt esse      tes revelalas unicc in eius obsequium praestltua, « quem con-
-dispositio proxima ad lldum supernaluralum, nisi, Deo illumi-          comitatur, sud cuius non est causa cognitio (S. Thom., Qq.
-nante el inspirantu, uliuianlur. — Ilaec omnia praecedunt aclum        disp. q. 14. de Eide a. I. ad C), a volunlale deturminalur (S. II.
-fldei eumquu comitanlttr, sud ut conditio , vel dispositio, non        II. q. 2. a. I. ad 3.); ul illud uui assentilur intellectus, non
-ut causa proprie diuta , saltum principalis (cfr. infra d. 24. dub.    moveat inlulluutum ex propria virtute, sed ex inulinatione vo-
- 3.). Nihil autum obslat , quin praudiuta moliva urcdibilitatis el     luntalis o (Qq. disp. 9. 14. de Fide a. 2. ad 13.) utu. — Eandem
-ipsa Dui auuloritas el revulatio sub alia ralionu etiain sinl          fere sententiam dilTuse ut sublilitur propugnat cl. Prof. Dr. I.
-obiectum materiale fldei (cfr. supra q. 3. ad l.;.                     Scheubun (Handbuuh dur Kalholisuhun Dogmntik. Friburgi lom.
-      4. Assensus in materiale obiectum fldei, v. g. quod Deus         I. 1873, libr. I., prausurtim n. 633-652, 684-700). — Quid-
-est trinus, totam suam rationum habut in obiecto formali, sui-         quid aulem sil de verilatu vel probabililale harum suntenlia-
-licet in nuutoritale Dui revulantis; unde recle dicilur: credo ,       rum , exploratum est , nec S. Thomam nec Bonaventuram nec
-Deum esse trinum, t/ttia prima Verilas hoc revelavit. In tali          alios antiquos Scholasliuos primam ul suuiindani opinionum ,
-igitur aclu simul attingimr ul aucloritas Dei el eius revelatio        saltem uxplicite, docere. — Quoad analysim lldui S. Bonav.
-(ufr. supra q. 3. in line uorp.).                                      haec satis clare docet: si loquimur de fldei causa formali,
-      III. Sud si ulterius qunerimus, quae sit ratio, propter quam     fldes resolvilur ullimo in primam Verilnlem reveiantem et di-
-in flde theologiua assenlimur ipsi divinau auitorilati ruvulanli ;     ctanlom; si vero de causa efficiente , haec ux parte Dei est
-iam ab autate Sooti inter doclissimos theologos usl dissensus ;         « per inftisionem vel divinaiit illttstratitmem » (infra a. 2. q. 2.),
-et praecipue notandae sunt duae oppositae opiniones cardinalis         sive « per doctrinam Spiritus sancti loquenlis per aureiu cor-
-Lugo S. I. el oximii Suarcz. liemiltuntus leelorem ad recenlio-        dis » (infra d. 24. dub. 2.), ex parte credenlis est per impe-
-res auctores, obilur tanliim notamus quasdnni prinuipales corum        riuni ct adhaesionem voluntatis ; si de causa maleriali et dis-
-asserlionus. Gardinalis I.ugo pulal, nos assunliri formali obiuuto     ponente agilur, haec esl per aitditum locutionis exterioris ,
-fldei , prout post uognita praeambula flilui auctoritas Dei ct re-     suiliuut pur verbum Dei in s. Scriplura et tradilione cum ma-
-velatio Dei ux lerminorum iipprehensione sitnt intinediate no-         gislurio Ecclesiae (cfr. locc. citl.), per motiva credibilitatis , ct
-tae ; moliva autum cxtrinsocn esse parlini rtilionem formalem          praecipue per Ecclesiam pi oponentem , a quae per se ipsam...
-fidei saltem pnrlialem , parlim vcro csse tanlum conditionem ; as-     magnum quoddam et purpeluum est molivum urcdibililalis et
-sensuni autem in obieclum malcriale non lantum in jirtieparatione      divinae suae legalionis teslimonium irrefragabile » (Concil. Vati-
-ad autum fidei , scd uliam in ipso aclu fundari in discursu logico     can. c. 3. de Fide), quau etiam credenda infallibiliter discernit
-(sive formali sive virluali) ex auutoritale Dui et ux faulo ruvela-    a non credendis eaque proponil (cfr. infra d. 25. a. I. q. I; IV.
-tionis, quo discursu obiectum materiale cum formali neutilur, ila      Sent. d. 8. p. II. a. I. q. 2. in corp., d. 40. p. II. q. 3. ad
-tamun, ut bonilas illalionis, supernaluraliter et immudiate in ipso    ult.; Ilexaem. Serm. I. et 9.).
-formali assunsu fidei cognila , sit tantum pnrliale motivuni assen-          III. De ipsa deflnitione Apostoli: Alex. Hal., S. p. III. q. 68.
-liendi obiecto revulalo. — Econtra Suarez uum plurimis aliis vnll,     m. 5. a. 2. — S. Thom., hic q. 2. a. I ; S. III. q. 4. a. I ;
-auctorilatem Dei revelanlis ealenus esse obieclum formale, qua-        de Verit. loc. cil. — B. Alberl., hic a. 18. — Petr. a Tar., hic
-tenus per se ipsam creditur ut revelala ii> actu exercito, eodem       q. 3. a. I. quaestiunc. I. — Bichard. a Med., hic a. 4. q. I.
+*Ad 1.* Ad illud ergo quod primo obiicitur in contrarium, quod falso dicitur fides esse *substantia;* dicendum, quod *substantia* dicitur dupliciter, scilicet *proprie* et *transsumtive.* Proprie quidem dicitur quatuor modis, scilicet *substantia-materia, substantia-forma, substantia-compositum, substantia* quae est essentia uniuscuiusque[^p485-1]. *Transsumtive* dicitur *substantia* illud quod habet aliquam proprietatem substantiae dictae aliquo istorum modorum. Cum autem dicitur: fides est *substantia,* hoc non dicitur, secundum quod hoc nomen *substantia* sumitur in significatione propria, sed secundum quod sumitur in significatione *transsumtiva.* Dicitur enim *substantia,* quia est fundamentum fabricae spiritualis ad similitudinem materiae, quae praebet fulcimentum formis et accidentibus. Et quod ita accipiatur, patet per notificationem Damasceni[^p485-2], qui loco eius quod dicit Apostolus: *Fides est substantia,* dicit *hypostasis.* Ait enim sic: « Fides est eorum quae sperantur, *hypostasis,* et redargutio earum rerum, quae non videntur »:
+
+*Ad 2.* Ad illud quod obiicitur, quod falso etiam dicitur esse *argumentum;* dicendum similiter, quod *argumentum* dicitur dupliciter, videlicet *proprie* et *transsumtive.* Proprie quidem *argumentum* accipitur secundum quadruplicem acceptionem[^p485-3]. Nam uno modo dicitur *argumentum ratiocinatio,* secundum quod dividitur in quatuor species, videlicet in *syllogismum, inductionem, enthymema* et *exemplum.* Alio modo dicitur *argumentum* prolixae sententiae brevis collectio. Tertio modo dicitur *argumentum* ipsum *medium,* in quo consistit tota vis argumentationis. Quarto modo dicitur *argumentum* ipsa *maxima propositio,* in qua consistit firmitas totius illationis. In omnibus autem his acceptionibus *argumentum* dicitur, quia mentem *arguit* et *illuminat* ad aliquid intuendum et ei firmiter adhaerendum. — Et secundum hanc proprietatem potest *transsumtive* dici *argumentum* quidquid illud sit, quod mentem arguit et illuminat ad videndum aliquid occultum. Et hoc modo fides dicitur esse *argumentum rerum non apparentium,* quoniam ita facit intellectum eis assentire, sicut argumentum verum facit assentire conclusioni probatae. — Et per hoc patet responsio ad illa quae arguebant praedictam definitionem ob defectum *veritatis.*
+
+*Ad 3.* Ad illud vero quod obiicitur, quod in praeassignata definitione est defectus *convertibilitatis;* dicendum, quod praedicta notificatio non convenit *spei,* quoniam, etsi ipsa spes aliquo modo possit dici *substantia rerum sperandarum,* non tamen potest dici *fundamentum,* sicut fides, quia non est prima virtutum. Licet autem hoc aliquo modo possit ei attribui, tamen sequens pars definitionis, quae est *argumentum non apparentium,* convenit soli *fidei,* quae intellectum facit assentire ipsi Veritati; hoc autem nec *spei* competit nec *caritati,* licet eis competat quoddam genus certitudinis experimentalis, maxime ipsi *spei*[^p485-4].
+
+*Ad 4.* Ad illud quod obiicitur, quod credulitas suppliciorum non est substantia rerum sperandarum, sed magis ti<!-- page 486 -->mendarum; dicendum, quod fides dicitur esse substantia rerum sperandarum non tanquam *subiecti*[^p486-1], sed tanquam *finis,* sicut praedictum est. Quamvis autem credulitas suppliciorum sit rerum *timendarum* per modum *obiecti,* est tamen rerum *sperandarum* per modum *finis.* Ideo enim quis credit aeterna supplicia, ut assequatur bona speranda.
+
+*Ad 5.* Ad illud quod obiicitur, quod est ibi defectus *evidentiae,* quia fides definitur per posteriora et ignota; dicendum, quod falsum est; definitur enim per *finem* et *obiectum,* sicut prius visum est. Licet autem finis ipsius fidei, qui consistit in rebus sperandis, sit posterior ipsa fide quantum ad *assecutionem,* est tamen prior quantum ad *intentionem*[^p486-2]. Licet etiam obiectum ipsius fidei, quod consistit in veritate non apparente, sit homini infideli incognitum, nihilominus cognitum est homini fidem habenti; quamvis etiam sit incognitum, quale sit, notum tamen est, ipsum *non apparere.* Et sic patens est, quod praedicta notificatio non est per posterius et incognitum, immo per prius et notius.
+
+*Ad 6.* Ad illud quod obiicitur, quod in ea est praeposteratio, quia prius deberet dici *argumentum* quam *fundamentum* ob hoc, quod intellectus praecedit affectum; dicendum, quod etsi actus intellectus *praecedit* actum affectus, nihil tamen impedit, quin intellectus aliquando *sequatur* affectum, utpote quando inclinatur ad assentiendum alicui rei secundum imperium voluntatis. Et hoc modo dictum est superius[^p486-3] se habere in actu fidei, quae ideo habet rationem virtutis, quia assensus ille est a principio voluntatis; et ideo Apostolus rectissime ordinavit, quando illud fidei, quod respicit affectivam, praemisit ei quod respicit cognitivam.
+
+*Ad 7. 8.* Ad illud quod obiicitur de defectu *sufficientiae,* quia deberet definiri per *diligenda,* sicut per *speranda,* ita per *praeterita,* sicut per *futura;* iam patet responsio: quia, quamvis[^p486-4] fides sit de praeteritis et futuris, sive etiam de sperandis et amandis, de solis sperandis est tanquam de *fine,* ad quem tendit; et per hoc, quod definitur hic fides per comparationem ad finem et complementum totius aedificii spiritualis, datur per consequens intelligi eiusdem aedificii tota fabrica. Et per hoc patent illa duo obiecta. Patet etiam, quare magis dicitur esse *fundamentum rerum sperandarum* quam *credendarum,* vel *timendarum.* Per hoc enim, quod dicitur *sperandarum,* magis datur intelligi *finis* virtutis, qui est ipsa beatitudo exspectata, quam per hoc, quod dicitur *credendum,* vel *amandum,* vel *timendum.* Nam isti actus non tantummodo sunt in finem, sed etiam in ea quae sunt ad finem.
+
+### Scholion
+
+**I.** Ut notat S. Thom. (locc. infra citt.), quidam asserebant, S. Paulum in verbis propositis intendere tantum ostendere, quid fides caritate formata *faciat,* non quid *sit.* Sed communiter antiqui doctores docent, « quod haec fidei notificatio sit completissima eius definitio, non ita quod sit secundum debitam formam definitionis tradita, sed quia in ea sufficienter tanguntur omnia quae exiguntur ad fidei definitionem » (S. Thom., *de Verit.* q. 14. a. 2.), ut ibi et brevius in *Sum.* et in *Comment.* exponitur. Quae omnia dicta sunt ad mentem S. Bonaventurae, in hac quaestione ingeniose et copiose expositam, licet hic dicat, hanc definitionem etiam secundum artem convenientissime esse assignatam, id est, si spectatur substantia, non autem vulgo tradita forma. Unde S. Thom. (de Verit. loc. cit.) sensum verborum Apostoli hac formula exprimit: « Fides est habitus mentis, quo inchoatur vita aeterna in nobis, faciens intellectum non apparentibus assentire ».
+
+**II.** De obiecto fidei, quod hic tangitur, plura vide infra d. 24. a. 1. per totam; passim autem repetitur, hoc obiectum esse primam Veritatem non visam, non apparentem; quod intelligendum est non tantum de obiecto materiali, sed etiam de formali; et recte hic subiungitur, quod in hoc (fides) « distinguitur ab aliis virtutibus, in quantum veritati non visae facit adhaerere », quod etiam S. Thom. passim docet. Sed veritas non visa non determinat vel « movet intellectum ex propria virtute, sed ex inclinatione voluntatis » (S. Thom. de Verit. q. 14. a. 2, ad 13.). Unde primae Veritati sive obiecto formali fidei adhaeremus ex pio voluntatis affectu. Hinc recte dicitur, quod voluntas in fide quodam modo « praesidet » (S. Bonav.), vel, ut verbis S. Thomae utamur, « principalitatem habet », quod iam supra in scholio ad 2. quaest. notavimus.
+
+Iuvat autem hic in fine I. articuli pauca commemorare, quae in scholis tractantur de analysi actus fidei et de ratione, qua obiectum formale eius a mente attingitur, ut credendo assentiamur ipsi primae Veritati in se et super omnia. In qua subtili quaestione plura sunt certa, alia cadunt in controversiam.
+
+1. Certum est, quod ratio obiectiva assensus fidei divinae est *auctoritas Dei revelantis;* quod expresse docet Concil. Vatican. (c. 3. de Fide) dicens, nos credere vera esse, quae divinitus revelantur propter auctoritatem Dei revelantis.
+
+2. Communiter etiam distinguitur prima Veritas tripliciter: in *essendo* (quasi ultima ratio omnium), in *cognoscendo* et in *dicendo* (veracitas), quae tria, quatenus sunt aliquid Deo intrinsecum et in re unum idemque, ad obiectivam fidei rationem spectant, licet veritas in cognoscendo primario et formalissime sit ratio assensus in fide theologica. Revelatio autem externe et in tempore facta, qua interna Veritas divina manifestatur (per se considerata), item motiva credibilitatis et ipsa Ecclesiae auctoritas (sive in se consideratur, sive quatenus divinam locutionem integrat), haec omnia non sunt ipsa ratio motiva, sed potius conditio quaedam, dispositio, vel etiam medium, quo obiectum formale applicatur sive cum obiecto materiali connectitur. Attamen nonnulli cum celeberrimo theologo cardinali Lugo actum externum revelationis et motiva credibilitatis volunt esse partiale et secundarium motivum fidei. S. Bonav. (infra d. 24. dub. 2.) dicit, verbum externum, per auditum receptum, tantum ad materiale fidei spectare.
+
+3. Item concorditer docetur, in actu fidei implicari multos actus et intellectus et voluntatis: imprimis ipsum *velle credere* sive voluntatem imperantem assensum; hunc autem actum voluntatis iterum praecedere *motivum,* id est aliquod bonum cognitum ut appetendum, et *iudicium,* quod omnia revelata sint credibilia et credenda. In hoc iudicio iam supponitur vel implicatur, tum quod Deus sit et sit prima Veritas et suprema Auctoritas, tum quod de facto revelaverit credenda et fidei obedientiam imperaverit. Motiva autem credibilitatis aliquo modo sciri possunt et debent, antequam voluntas possit rationabiliter imperare fidem. Denique hi actus intellectus et voluntatis non possunt esse dispositio proxima ad fidem supernaturalem, nisi, Deo illuminante et inspirante, eliciantur. — Haec omnia praecedunt actum fidei eumque comitantur, sed ut conditio, vel dispositio, non ut causa proprie dicta, saltem principalis (cfr. infra d. 24. dub. 3.). Nihil autem obstat, quin praedicta motiva credibilitatis et ipsa Dei auctoritas et revelatio sub alia ratione etiam sint obiectum materiale fidei (cfr. supra q. 3. ad 1.).
+
+4. Assensus in materiale obiectum fidei, v. g. quod Deus est trinus, totam suam rationem habet in obiecto formali, scilicet in auctoritate Dei revelantis; unde recte dicitur: credo, Deum esse trinum, *quia prima Veritas hoc revelavit.* In tali igitur actu simul attingitur et auctoritas Dei et eius revelatio (cfr. supra q. 3. in fine corp.).
+
+**III.** Sed si ulterius quaerimus, quae sit ratio, propter quam in fide theologica assentimur ipsi divinae auctoritati revelanti; iam ab aetate Scoti inter doctissimos theologos est dissensus; et praecipue notandae sunt duae oppositae opiniones cardinalis Lugo S. I. et eximii Suarez. Remittentes lectorem ad recentiores auctores, obiter tantum notamus quasdam principales eorum assertiones. Cardinalis Lugo putat, nos assentiri formali obiecto fidei, prout post cognita praeambula fidei auctoritas Dei et revelatio Dei ex terminorum apprehensione sunt immediate notae; motiva autem extrinseca esse partim rationem formalem fidei saltem partialem, partim vero esse tantum conditionem; assensum autem in obiectum materiale non tantum in praeparatione ad actum fidei, sed etiam in ipso actu fundari in discursu logico (sive formali sive virtuali) ex auctoritate Dei et ex facto revelationis, quo discursu obiectum materiale cum formali nectitur, ita tamen, ut bonitas illationis, supernaturaliter et immediate in ipso formali assensu fidei cognita, sit tantum partiale motivum assentiendi obiecto revelato. — Econtra Suarez cum plurimis aliis vult, auctoritatem Dei revelantis eatenus esse obiectum formale, quatenus per se ipsam creditur ut revelata in actu exercito, eodem modo, quo obiectum materiale, revelatum in actu signato, creditur ob obiectum formale. — Tertia sententia, quam nuperrime propugnat cl. Professor C. Mazzella S. I. in tertia sua editione tractatus de Virtutibus infusis, reformans praecedentium editionum doctrinam, non parum restringit praedictam Suarezii doctrinam, ut progressus in infinitum vel circulus vitiosus manifeste evitetur; ipse autem, allatis multis locis, S. Thomae doctrinam (§ VI.) ita explicat: « Supposito iudicio certo de existentia et credibilitate revelationis, quo totum obiectum credendum fit menti praesens, immerito quaeri, arbitramur, novam ex parte intellectus obiectivam rationem, ob quam Dei revelantis auctoritati assentiamur: cum assensus in veritates revelatas unice in eius obsequium praestitus, « quem comitatur, sed cuius non est causa cognitio » (S. Thom., Qq. disp. q. 14. de Fide a. 1. ad 6.), a voluntate determinatur (S. II. II. q. 2. a. 1. ad 3.); ut illud cui assentitur intellectus, non moveat intellectum ex propria virtute, sed ex inclinatione voluntatis » (Qq. disp. q. 14. de Fide a. 2. ad 13.) etc. — Eandem fere sententiam diffuse et subtiliter propugnat cl. Prof. Dr. I. Scheeben (Handbuch der Katholischen Dogmatik. Friburgi tom. I. 1873, libr. I., praesertim n. 633-652, 684-700). — Quidquid autem sit de veritate vel probabilitate harum sententiarum, exploratum est, nec S. Thomam nec Bonaventuram nec alios antiquos Scholasticos primam ut secundam opinionem, saltem explicite, docere. — Quoad analysim fidei S. Bonav. haec satis clare docet: si loquimur de fidei causa formali, fides resolvitur ultimo in primam Veritatem revelantem et dictantem; si vero de causa efficiente, haec ex parte Dei est « per infusionem vel divinam illustrationem » (infra a. 2. q. 2.), sive « per doctrinam Spiritus sancti loquentis per aurem cordis » (infra d. 24. dub. 2.), ex parte credentis est per imperium et adhaesionem voluntatis; si de causa materiali et disponente agitur, haec est per auditum locutionis exterioris, scilicet per verbum Dei in s. Scriptura et traditione cum magisterio Ecclesiae (cfr. locc. citt.), per motiva credibilitatis, et praecipue per Ecclesiam proponentem, « quae per se ipsam... magnum quoddam et perpetuum est motivum credibilitatis et divinae suae legationis testimonium irrefragabile » (Concil. Vatican. c. 3. de Fide), quae etiam credenda infallibiliter discernit a non credendis eaque proponit (cfr. infra d. 25. a. 1. q. 1; IV. Sent. d. 8. p. II. a. 1. q. 2. in corp., d. 40. p. II. q. 3. ad ult.; Hexaem. Serm. 1. et 9.). De ipsa definitione Apostoli: Alex. Hal., S. p. III. q. 68. m. 5. a. 2. — S. Thom., hic q. 2. a. 1; S. III. q. 4. a. 1; de Verit. loc. cit. — B. Albert., hic a. 18. — Petr. a Tar., hic q. 3. a. 1. quaestiunc. 1. — Richard. a Med., hic a. 4. q. 1.
+
+---
 
 ## English
 
-[Translation pending]
+### Question V. *On the definition of faith assigned by the Apostle.*
+
+Fifth, inquiry is made concerning the description of faith assigned by the Apostle, since it is the most authentic among the rest. Now the Apostle defines faith thus, to the Hebrews, chapter eleven[^p483-2]: *Faith is the substance of things to be hoped for, the argument of things not appearing.* But it is shown that this description is inconveniently assigned on account of a fourfold defect, which seems to be in it, namely on account of a defect of *truth,* on account of a defect of *convertibility,* on account of a defect of *evidence,* and on account of a defect of *sufficiency.* — That there is in it a defect of *truth* is shown:
+
+1. First, in this, that it says faith is a *substance;* for either *substance* is taken there *properly,* or *commonly.* If it is taken there *properly,* since substance is divided against *accident*[^p483-3], and faith is an accident, it is false that faith is a substance. But if substance is taken there *commonly* for essence, and the essence of each thing does not differ from that of which it is the essence, but faith differs from the things to be hoped for, it is impossible that faith be the substance of the things to be hoped for.
+
+2. Likewise, it seems to be *false* in this, that it says faith is not only a *substance,* but also an *argument,* since no *virtue* is an *argument,* nor conversely: if therefore faith is a *virtue,* it cannot then be an *argument.* If you say that argument is taken there *transumptively;* it seems that faith ought to be called *argument of things not appearing* neither *transumptively* nor *properly.* For if it is the property of an argument that it argues the mind itself and convinces it of that to which it is directed, making that thing to be clear and open[^p483-1]; it seems that there is in it an implication of a twofold<!-- page 484 -->contradiction, when it says faith is the *argument of things not appearing.* For things which have an argument, by this very fact that they have an argument, *appear* to be true; things also which have an argument, by this very fact that they have an argument, *are convinced* to be true: therefore the account of *argument* is repugnant both to a thing *not appearing* and to the very *habit of faith:* therefore there is in the aforesaid description an implication of opposites: it seems therefore that the aforesaid definition can be refuted for a defect of *truth.*
+
+3. Likewise, it seems that it can be censured for a defect of *convertibility*[^p484-1]. For this description can fit *hope* itself. For hope is the *substance of things to be hoped for,* and also the *argument of things not appearing,* since by hope we are made certain that we shall have the things which we do not see: therefore it seems that, if this whole description fits *hope,* then it is not convertible with *faith* itself.
+
+4. Likewise, to believe that eternal punishment is to come pertains to faith itself, therefore the believing of eternal punishment is faith; but the believing of eternal punishment is not the substance of things to be hoped for, but rather of things to be feared: therefore it seems that this description does not fit faith itself generally: therefore it fits neither all nor it alone: therefore it seems able to be censured on account of a defect of *convertibility.*
+
+5. Likewise, it seems able to be censured for a defect of *evidence,* because that which is prior ought not to be defined through that which is posterior, nor the unknown through the more unknown[^p484-2]; but faith is prior to hope, faith too, which is in the heart, is better known than those things which do not appear: therefore faith is badly defined through *things to be hoped for,* and through *things not appearing.*
+
+6. Likewise, it pertains to the *evidence* of a definition that what is prior be set before what is posterior: if therefore cognition precedes affection, and faith, insofar as it is *argument,* regards cognition, but insofar as it is *substance of things to be hoped for,* regards affection; it seems that the aforesaid definition is assigned as it were through what is posterior and confusedly: and so it seems able to be refuted on account of a defect of *evidence.*
+
+7. Likewise, it seems reprehensible on account of a defect of *sufficiency,* because faith is not only of things future, but also of things present and past, as Augustine says[^p484-3]: if therefore the things to be hoped for are only future, it seems that it is insufficiently defined, since it is defined only through things to be hoped for.
+
+8. Likewise, faith is not only the foundation of *hope,* but even of *charity* and of the whole spiritual edifice: therefore it is the substance or foundation of *charity* and of the things to be loved, just as of *hope* and of the things to be hoped for: it seems therefore that he spoke insufficiently, when he said it is the foundation of the things to be hoped for. For since charity is nobler than hope[^p484-4], faith ought rather to be defined through the things *to be loved* than through the things *to be hoped for.* — And so on account of the four said defects the aforesaid description seems to be utterly cast off and repudiated.
+
+### Conclusion
+
+> **Conclusion.** The definition of faith given by the Apostle is conveniently and according to art assigned.
+
+**I respond:** For the understanding of the aforesaid it must be noted that a definition or notification is then rightly assigned, when it contains nothing superfluous, nothing also diminished[^p484-5]. And this is, when through that notification the essence of the thing defined is fully indicated and openly manifested and separated from all others; but this is found in the matter proposed, if one attends.
+
+For faith itself according to its essence regards something on the part of the intellect and something on the part of the affect[^p484-6]. For it has to stabilize the affect and to illuminate the intellect. And insofar as it stabilizes the affect, it is called *substance* or *foundation;* but insofar as it illuminates the intellect, it is called *argument.* In order, therefore, that the essence of faith might be fully explicated, it was necessary that it be defined or notified so that it be said to be *substance* and *argument* together; for a definition ought to enclose in itself the whole essence of the thing defined.
+
+It ought also nonetheless to notify openly; and since the habit of a virtue is to be notified in two ways, namely through its ultimate end and through its object[^p484-7]; now the end of faith itself consists in the eternal beatitude which we hope for, and so in the *things to be hoped for;* but its object consists in truth not seen, and so in the *things not appearing:* therefore it was fitting that faith be defined through the *things to be hoped for* and not appea<!-- page 485 -->ring, so that thus the notification of faith might not only explicate fully the essence of the thing defined through the *intellect* and the *affect,* but might also manifest it openly through the *end* and the *object.*
+
+A definition ought also to *separate* the thing defined from all others. And since *formed faith* is to be distinguished from *unformed faith,* it is also to be distinguished from the habit of any other virtue; from *unformed* faith, I say, it is distinguished insofar as it sustains the whole spiritual fabric, but from the other virtues insofar as it makes one adhere to *truth not seen:* therefore with respect to these two it is called *substance of things to be hoped for,* that it may be distinguished from unformed faith, and *argument of things not appearing,* that it may be distinguished from the habits of the other virtues.
+
+And so it is clear that the aforesaid notification contains nothing *superfluous,* nothing *diminished;* nor is there in it a clause nor a word, indeed not even a syllable idle. It must therefore be confessed that it is conveniently and according to art assigned, so that it has in itself *truth, convertibility, evidence,* and *sufficiency* so perfectly and completely that not even the most skilled of the philosophers could assign it more artfully and more completely.
+
+**To the arguments:**
+
+*To 1.* To that therefore which is first objected to the contrary, that faith is falsely said to be a *substance;* it must be said that *substance* is said in two ways, namely *properly* and *transumptively.* Properly indeed it is said in four ways, namely *substance-matter, substance-form, substance-composite, substance* which is the essence of each thing[^p485-1]. *Transumptively* that is called *substance* which has some property of substance said in one of those ways. But when it is said: faith is a *substance,* this is not said insofar as this noun *substance* is taken in its proper signification, but insofar as it is taken in its *transumptive* signification. For it is called *substance* because it is the foundation of the spiritual fabric after the likeness of matter, which provides support for forms and accidents. And that it is so taken is clear through the notification of Damascene[^p485-2], who, in place of that which the Apostle says: *Faith is a substance,* says *hypostasis.* For he says thus: « Faith is the *hypostasis* of the things which are hoped for, and the refutation of those things which are not seen »:
+
+*To 2.* To that which is objected, that it is also falsely said to be an *argument;* it must be said similarly that *argument* is said in two ways, namely *properly* and *transumptively.* Properly indeed *argument* is taken according to a fourfold acceptation[^p485-3]. For in one way *argument* is called a *ratiocination,* according as it is divided into four species, namely into the *syllogism, induction, enthymeme,* and *example.* In another way *argument* is called the brief collection of a lengthy discourse. In a third way *argument* is called the *middle* itself, in which consists the whole force of the argumentation. In a fourth way *argument* is called the *maximal proposition* itself, in which consists the firmness of the whole inference. But in all these acceptations it is called *argument,* because it *argues* and *illuminates* the mind to intuit something and firmly to adhere to it. — And according to this property whatever it be that argues and illuminates the mind to see something hidden can *transumptively* be called *argument.* And in this way faith is said to be the *argument of things not appearing,* since it so makes the intellect assent to them as a true argument makes one assent to a proved conclusion. — And through this is clear the response to those things which argued against the aforesaid definition for a defect of *truth.*
+
+*To 3.* To that which is objected, that in the aforesaid definition there is a defect of *convertibility;* it must be said that the aforesaid notification does not fit *hope,* since, although hope itself can in some way be called *substance of things to be hoped for,* it cannot nevertheless be called *foundation,* like faith, because it is not the first of the virtues. But although this can in some way be attributed to it, nevertheless the following part of the definition, which is *argument of things not appearing,* fits faith *alone,* which makes the intellect assent to Truth itself; but this belongs neither to *hope* nor to *charity,* although there belongs to them a certain kind of experiential certitude, most of all to *hope* itself[^p485-4].
+
+*To 4.* To that which is objected, that the believing of punishments is not the substance of things to be hoped for, but rather of things to be fea<!-- page 486 -->red; it must be said that faith is called the substance of things to be hoped for not as of a *subject*[^p486-1], but as of an *end,* as has been said before. But although the believing of punishments is of things *to be feared* by way of *object,* it is nevertheless of things *to be hoped for* by way of *end.* For one believes in eternal punishments in order that he may attain the goods to be hoped for.
+
+*To 5.* To that which is objected, that there is there a defect of *evidence,* because faith is defined through things posterior and unknown; it must be said that this is false; for it is defined through the *end* and the *object,* as was seen before. But although the end of faith itself, which consists in the things to be hoped for, is posterior to faith itself with respect to *attainment,* it is nevertheless prior with respect to *intention*[^p486-2]. And although the object of faith itself, which consists in truth not appearing, is unknown to the unbelieving man, it is nonetheless known to the man having faith; and although it be unknown what it is, it is nevertheless known that it itself *does not appear.* And so it is plain that the aforesaid notification is not through what is posterior and unknown, but rather through what is prior and better known.
+
+*To 6.* To that which is objected, that in it there is a preposterous order, because *argument* ought to be said before *foundation* on the ground that the intellect precedes the affect; it must be said that, although the act of the intellect *precedes* the act of the affect, nothing nevertheless prevents the intellect from sometimes *following* the affect, as for instance when it is inclined to assent to something according to the command of the will. And in this way it was said above[^p486-3] to be the case in the act of faith, which therefore has the account of a virtue, because that assent is from the principle of the will; and therefore the Apostle most rightly ordered [it], when he set that of faith which regards the affective before that which regards the cognitive.
+
+*To 7 and 8.* To that which is objected concerning a defect of *sufficiency,* that it ought to be defined through things *to be loved,* just as through things *to be hoped for,* so through things *past,* just as through things *future;* the response is already clear: because, although faith is of things past and future, or even of things to be hoped for and to be loved, it is of the things to be hoped for alone as of an *end,* toward which it tends; and through this, that faith is here defined by comparison to the end and the completion of the whole spiritual edifice, there is given consequently to understand the whole fabric of that same edifice. And through this those two objections are clear. It is clear also why it is rather said to be the *foundation of things to be hoped for* than of things *to be believed,* or *to be feared.* For through this, that it is said *of things to be hoped for,* there is rather given to understand the *end* of the virtue, which is the very beatitude awaited, than through this, that it is said *to be believed,* or *to be loved,* or *to be feared.* For those acts are not only toward the end, but also toward the things which are toward the end.
+
+### Scholion
+
+**I.** As S. Thomas notes (in the passages cited below), some asserted that S. Paul in the words proposed intended only to show what faith formed by charity *does,* not what it *is.* But the ancient doctors commonly teach « that this notification of faith is its most complete definition, not in such a way that it is handed down according to the due form of a definition, but because in it are sufficiently touched all the things that are required for the definition of faith » (S. Thom., *de Verit.* q. 14. a. 2.), as is there and more briefly in the *Summa* and in the *Commentary* expounded. All these things have been said according to the mind of S. Bonaventure, expounded in this question ingeniously and copiously, although he here says that this definition is even according to art most conveniently assigned, that is, if substance is regarded, but not the form commonly handed down. Whence S. Thomas (de Verit. loc. cit.) expresses the sense of the words of the Apostle by this formula: « Faith is a habit of the mind, by which eternal life is begun in us, making the intellect assent to things not appearing ».
+
+**II.** Concerning the object of faith, which is here touched upon, see more below at d. 24. a. 1. throughout; but it is repeated here and there that this object is the first Truth not seen, not appearing; which is to be understood not only of the material object, but also of the formal; and it is rightly added here that in this (faith) « is distinguished from the other virtues, insofar as it makes one adhere to truth not seen », which S. Thomas also teaches here and there. But truth not seen does not determine or « move the intellect by its own power, but by the inclination of the will » (S. Thom. de Verit. q. 14. a. 2, ad 13.). Whence we adhere to the first Truth or to the formal object of faith by a pious affect of the will. Hence it is rightly said that the will in faith in a certain way « presides » (S. Bonav.), or, to use the words of S. Thomas, « has the principality », which we have already noted above in the scholion to the 2nd question.
+
+It is helpful here at the end of the first article to recall a few things which are treated in the schools concerning the analysis of the act of faith and concerning the account by which its formal object is attained by the mind, so that by believing we may assent to the first Truth itself in itself and above all things. In which subtle question many things are certain, others fall into controversy.
+
+1. It is certain that the objective ground of the assent of divine faith is the *authority of God revealing;* which the Vatican Council expressly teaches (c. 3. de Fide), saying that we believe to be true those things which are divinely revealed on account of the authority of God revealing.
+
+2. It is also commonly distinguished that the first Truth is threefold: in *being* (as it were the ultimate ground of all), in *knowing,* and in *speaking* (veracity), which three, inasmuch as they are something intrinsic to God and in reality one and the same, pertain to the objective ground of faith, although truth in knowing is primarily and most formally the ground of assent in theological faith. But the revelation made externally and in time, by which the internal divine Truth is manifested (considered in itself), likewise the motives of credibility and the very authority of the Church (whether considered in itself, or insofar as it integrates the divine locution), all these are not the motive ground itself, but rather a certain condition, disposition, or even medium, by which the formal object is applied or connected with the material object. Nevertheless some, with the most celebrated theologian cardinal Lugo, hold the external act of revelation and the motives of credibility to be a partial and secondary motive of faith. S. Bonaventure (below d. 24. dub. 2.) says that the external word, received through hearing, pertains only to the material of faith.
+
+3. Likewise it is harmoniously taught that in the act of faith many acts both of intellect and of will are implicated: first of all the very *willing to believe* or the will commanding the assent; and that this act of the will is again preceded by a *motive,* that is, some good known as to be sought, and by a *judgment,* that all revealed things are credible and to be believed. In this judgment it is already supposed or implicated, both that God exists and is the first Truth and supreme Authority, and that he has in fact revealed things to be believed and commanded the obedience of faith. But the motives of credibility can and ought in some way to be known, before the will can reasonably command faith. Finally these acts of intellect and will cannot be the proximate disposition to supernatural faith, unless, with God illuminating and inspiring, they be elicited. — All these precede the act of faith and accompany it, but as a condition, or disposition, not as a cause properly so called, at least a principal one (cf. below d. 24. dub. 3.). But nothing prevents the aforesaid motives of credibility and the very authority and revelation of God, under another aspect, from being also the material object of faith (cf. above q. 3. ad 1.).
+
+4. The assent to the material object of faith, e.g. that God is triune, has its whole ground in the formal object, namely in the authority of God revealing; whence it is rightly said: I believe that God is triune, *because the first Truth has revealed this.* In such an act, therefore, both the authority of God and his revelation are simultaneously attained (cf. above q. 3. at the end of the body).
+
+**III.** But if we ask further what is the ground on account of which in theological faith we assent to the divine authority itself revealing; from the age of Scotus there has been disagreement among the most learned theologians; and to be noted especially are the two opposed opinions of cardinal Lugo S. I. and the eminent Suarez. Referring the reader to more recent authors, we note only in passing some of their principal assertions. Cardinal Lugo holds that we assent to the formal object of faith, inasmuch as, after the preambles of faith have been known, the authority of God and the revelation of God are immediately known from the apprehension of the terms; but that the extrinsic motives are partly the formal ground of faith, at least a partial one, and partly are only a condition; and that the assent to the material object is founded, not only in the preparation for the act of faith, but also in the act itself, in a logical discourse (whether formal or virtual) from the authority of God and from the fact of revelation, by which discourse the material object is joined with the formal, yet in such a way that the goodness of the inference, supernaturally and immediately known in the very formal assent of faith, is only a partial motive of assenting to the revealed object. — On the contrary, Suarez with very many others holds that the authority of God revealing is the formal object, inasmuch as it is believed through itself as revealed in the exercised act, in the same way in which the material object, revealed in the signified act, is believed on account of the formal object. — A third opinion, which most recently the distinguished Professor C. Mazzella S. I. defends in the third edition of his treatise on the Infused Virtues, reforming the doctrine of the preceding editions, not a little restricts the aforesaid doctrine of Suarez, that progress to infinity or a vicious circle may be manifestly avoided; he himself, however, with many passages adduced, thus explains the doctrine of S. Thomas (§ VI.): « Supposing a certain judgment concerning the existence and credibility of revelation, by which the whole object to be believed is made present to the mind, we judge that it is wrongly sought to find a new objective ground on the part of the intellect on account of which we assent to the authority of God revealing: since the assent to revealed truths, given solely in his obedience, « which cognition accompanies but of which it is not the cause » (S. Thom., Qq. disp. q. 14. de Fide a. 1. ad 6.), is determined by the will (S. II. II. q. 2. a. 1. ad 3.); so that that to which the intellect assents does not move the intellect by its own power, but by the inclination of the will » (Qq. disp. q. 14. de Fide a. 2. ad 13.) etc. — Nearly the same opinion is defended diffusely and subtly by the distinguished Prof. Dr. I. Scheeben (Handbuch der Katholischen Dogmatik. Freiburg, tom. I. 1873, libr. I., especially nn. 633-652, 684-700). — But whatever may be of the truth or probability of these opinions, it is established that neither S. Thomas nor Bonaventure nor the other ancient Scholastics taught either the first or the second opinion, at least explicitly. — As to the analysis of faith, S. Bonaventure teaches this clearly enough: if we speak of the formal cause of faith, faith is resolved ultimately into the first Truth revealing and dictating; but if of the efficient cause, this on the part of God is « through infusion or divine illustration » (below a. 2. q. 2.), or « through the teaching of the Holy Spirit speaking through the ear of the heart » (below d. 24. dub. 2.), on the part of the believer it is through the command and adhesion of the will; if it is a question of the material and disposing cause, this is through the hearing of the external locution, namely through the word of God in sacred Scripture and tradition with the magisterium of the Church (cf. the passages cited), through the motives of credibility, and especially through the Church proposing, « which by itself... is a certain great and perpetual motive of credibility and an irrefragable testimony of its divine legation » (Vatican Council c. 3. de Fide), which also infallibly discerns the things to be believed from those not to be believed and proposes them (cf. below d. 25. a. 1. q. 1; IV. Sent. d. 8. p. II. a. 1. q. 2. in the body, d. 40. p. II. q. 3. at the end; Hexaem. Serm. 1. and 9.). Concerning the very definition of the Apostle: Alex. Hal., S. p. III. q. 68. m. 5. a. 2. — S. Thom., here q. 2. a. 1; S. III. q. 4. a. 1; de Verit. loc. cit. — B. Albert., here a. 18. — Petr. a Tar., here q. 3. a. 1. quaestiunc. 1. — Richard. a Med., here a. 4. q. 1.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; markers are grouped per page (`p483`, `p484`, `p485`, `p486`). On p.483 the three footers key the opening argument (n.1 = Boethius/Isidore on *argumentum*, n.2 = Heb. 11:1, n.3 = Aristotle on *substantia*/*accidens*). The scholion (§§ I–III) carries no footers.
+
+[^p483-1]: **La.** Boeth., I. *Comment. in Topic. Cicer.* ait: *Argumentum namque est, quod rem arguit, id est probat* (ed. Migne, Patr. lat. tom. 64. col. 1048). Isidor., VI. *Etymolog.* c. 8. n. 16: *Argumentum vero dictum quasi argutum vel quasi argute inventum ad comprobandas res.* — Mox pro *contradictionis* cod. F *oppositionis.* In fine arg. pro *de defectu* Vat. *ob defectum.*
+    **En.** Boethius, I *Commentary on Cicero's Topics* says: *For an argument is that which argues a matter, that is, proves it* (ed. Migne, Patr. lat. tom. 64. col. 1048). Isidore, VI *Etymologies* c. 8. n. 16: *But "argument" is so called as it were "argute" [clever] or as it were cleverly found out for the proving of matters.* — Then for *of contradiction* cod. F [reads] *of opposition.* At the end of the argument, for *concerning a defect* the Vatican [edition reads] *on account of a defect.*
+
+[^p483-2]: **La.** Vers. 1. — Paulo inferius pro *ista descriptio inconvenienter* codd. G I L V *ista definitio non bene.*
+    **En.** Verse 1. — A little below, for *this description inconveniently* codd. G I L V [read] *this definition not well.*
+
+[^p483-3]: **La.** Cfr. Aristot., VII. *Metaph.* text. 2. (VI. c. 1.). Ibid. text. 11. (c. 1.) docetur, quod essentia *« uno quidem modo substantiam et quod quid significat, alio vero singula eorum, quae praedicantur, quantitatem, qualitatem et quaecumque cetera talia sunt »,* i. e. uno modo essentia idem est ac substantia, alio modo etiam accidentibus convenit. Hoc secundo modo paulo inferius accipitur, ut secundi membri arg. suppositio sit: fides est accidens, cuius essentia consistit in rebus sperandis.
+    **En.** Cf. Aristotle, VII *Metaphysics* text 2. (VI. c. 1.). Ibid. text 11. (c. 1.) it is taught that essence *« in one way signifies substance and the what-it-is, but in another the individual things which are predicated, quantity, quality, and whatever other such things there are »,* i.e. in one way essence is the same as substance, in another way it also belongs to accidents. In this second way it is taken a little below, so that the supposition of the second member of the argument is: faith is an accident, whose essence consists in the things to be hoped for.
+
+[^p484-1]: **La.** Boeth., I. *Dialog. in Porphyr.* c. de Genere circa finem: *Quascumque definitiones convertere potes, illae verae atque pares sunt; quascumque convertere non potes, aut maiores aut minores sunt, pares inveniri non possunt.* — De minori cfr. hic lit. Magistri, c. 8. — Codd. A K Z verbo *reprehendi* praemittunt *etiam.*
+    **En.** Boethius, I *Dialogue on Porphyry,* c. on Genus, near the end: *Whatever definitions you can convert, those are true and equal; whatever you cannot convert, are either greater or lesser, they cannot be found equal.* — On the minor cf. here the text of the Master, c. 8. — Codd. A K Z prefix to the word *censured* [the word] *also.*
+
+[^p484-2]: **La.** Aristot., VI. *Topic.* c. 3. (c. 4.) ostendit, definitionem faciendam esse per *notiora,* et adiungit, quod unus locus probandi, definitionem non factam esse per notiora, sit, « quod [si definitio] per posteriora, priora indicat ». De minori vide supra q. 1. in corp. et q. 4. ad 1. — Mox ante *spes* codd. A K inserunt *sit.*
+    **En.** Aristotle, VI *Topics* c. 3. (c. 4.) shows that a definition is to be made through things *better known,* and adds that one place for proving that a definition has not been made through things better known is, « that [if the definition is] through what is posterior, it indicates what is prior ». On the minor see above q. 1. in the body and q. 4. ad 1. — Then before *hope* codd. A K insert *be.*
+
+[^p484-3]: **La.** *Enchirid.* c. 8. n. 2: *Est etiam fides et praeteritarum rerum et praesentium et futurarum.*
+    **En.** *Enchiridion* c. 8. n. 2: *Faith is also of things past and present and future.*
+
+[^p484-4]: **La.** Epist. I. Cor. 13, 13: *Fides, spes, caritas, tria haec, maior autem horum est caritas.* — Quomodo fides *fundamentum* sit fabricae spiritualis, exponit Gregor., XXVIII. *Moral.* c. 9. n. 20. — Superius post *sicut spei et* codd. F U supplent *rerum.*
+    **En.** Epistle, I Cor. 13, 13: *Faith, hope, charity, these three, but the greater of these is charity.* — How faith is the *foundation* of the spiritual fabric, Gregory expounds, XXVIII *Morals* c. 9. n. 20. — Above, after *just as of hope and* codd. F U supply *of the things.*
+
+[^p484-5]: **La.** Cfr. Aristot., VI Topic. c. 1. seq., et VII. *Metaph.* text. 43. (VI. c. 12.), ubi etiam aliae proprietates definitionis infra occurrentes tanguntur.
+    **En.** Cf. Aristotle, VI Topics c. 1. ff., and VII *Metaphysics* text 43. (VI. c. 12.), where also the other properties of a definition occurring below are touched upon.
+
+[^p484-6]: **La.** Cfr. supra q. 2. — Paulo inferius pro *stabilit* [Hebr. 13, 9: *Optimum est enim gratia stabilire cor*] plurimi codd. et edd. 1, 2 *stabilitat.*
+    **En.** Cf. above q. 2. — A little below, for *stabilizes* [Heb. 13, 9: *For it is best that the heart be stabilized by grace*] very many codd. and edd. 1, 2 [read] *establishes.*
+
+[^p484-7]: **La.** Vide Aristot., I. *Ethic.* c. 1. et 7. seqq.; II. c. 1, et II. *de Anima,* text. 33. (c. 4.). Cfr. tom. II. pag. 561, nota 3. et pag. 683, nota 6. — Pro *et quoniam* edd. *quoniam ergo.*
+    **En.** See Aristotle, I *Ethics* c. 1. and 7. ff.; II. c. 1, and II *On the Soul,* text 33. (c. 4.). Cf. tom. II. p. 561, note 3. and p. 683, note 6. — For *and since* the editions [read] *since therefore.*
+
+[^p485-1]: **La.** Ut docet Aristot., VII. *Metaph.* text. 7. (VI. c. 3.). Cfr. ibid. V. text. 15. (IV. c. 8.) et II. *de Anima,* text. 2. (c. 1.).
+    **En.** As Aristotle teaches, VII *Metaphysics* text 7. (VI. c. 3.). Cf. ibid. V. text 15. (IV. c. 8.) and II *On the Soul,* text 2. (c. 1.).
+
+[^p485-2]: **La.** Libr. IV. *de Fide orthod.* c. 10. Vide infra dub. 1. — Paulo ante pro *praebet* codd. G I L T V aa *pluribus,* quae lectio mutila integrari posset addito verbo *praestat,* quod cod. F post *accidentibus* exhibet.
+    **En.** Book IV *On the Orthodox Faith* c. 10. See below dub. 1. — A little before, for *provides* codd. G I L T V aa [read] *to many,* which mutilated reading could be made whole by adding the verb *furnishes,* which cod. F exhibits after *accidents.*
+
+[^p485-3]: **La.** De his agit Aristot., I. *Prior.* c. 1. et II. c. 23. seqq. (c. 23. seqq.) nec non Boeth., II. *de Different. topic.* — Quod ad secundum modum attinet, quo *argumentum* sumitur, dicit Quintilian., V. *Institut. orat.* c. 10: *Sed argumentum quoque plura significat. Nam... et orationum Ciceronis velut thema ipse exponens Pedianus, « argumentum, inquit, tale est ».* — Quoad tertium modum nota illud Boeth., I. *Comment. in Topic. Cicer.* (ed. Migne, Patrol. Lat. tom. 64. col. 1050.): *Quoniam igitur extremi termini medii interpositione copulantur, eoque modo quaestionis inter se membra conveniunt, adhibitaque probatione solvitur dubitatio, nihil est aliud argumentum quam medietatis inventio; haec enim vel coniungere, si affirmatio defendatur, vel disiungere, si negatio vindicetur, poterit extremos.* — Ibid. etiam quarta acceptio *argumenti* profertur. Definitis enim maximis propositionibus, scil. *« quae et universales sunt et ita notae atque manifestae, ut probatione non egeant eaque potius quae in dubitatione sunt probent »,* auctor, diversas argumentationis et argumenti acceptationes recensens ait: *Aut argumentatio quidem vocabitur tota contextio syllogismi cum sententia, sed argumentum maxima propositio etc.* (col. 1053). Cfr. II. *de Different. topic.* — Paulo superius pro *accipitur* cod. A *sumitur,* cod. U *dicitur.* In fine solut. cod. O plura addit, quae propter varias lacunas etc. non digna sunt commemoratu.
+    **En.** Aristotle treats of these, I *Prior [Analytics]* c. 1. and II. c. 23. ff. (c. 23. ff.), and also Boethius, II *On Topical Differences.* — As to the second way in which *argument* is taken, Quintilian says, V *Institutes of Oratory* c. 10: *But "argument" too signifies several things. For... Pedianus, expounding the very theme as it were of Cicero's orations, says, « the argument is such-and-such ».* — As to the third way note that of Boethius, I *Commentary on Cicero's Topics* (ed. Migne, Patrol. Lat. tom. 64. col. 1050.): *Since therefore the extreme terms are coupled by the interposition of a middle, and in that way the members of the question agree among themselves, and, proof being applied, the doubt is resolved, an argument is nothing other than the finding of the middle; for this will be able either to join, if an affirmation is defended, or to disjoin, if a negation is vindicated, the extremes.* — There also a fourth acceptation of *argument* is brought forward. For, the maximal propositions being defined, namely *« which are both universal and so known and manifest that they need no proof and rather prove those things which are in doubt »,* the author, reviewing the diverse acceptations of argumentation and of argument, says: *Either the whole texture of the syllogism with the sentence will be called argumentation, but the maximal proposition [will be called] argument etc.* (col. 1053). Cf. II *On Topical Differences.* — A little above, for *is taken* cod. A [reads] *is assumed,* cod. U *is called.* At the end of the solution cod. O adds more, which on account of various lacunae etc. are not worthy of mention.
+
+[^p485-4]: **La.** Vide hic lit. Magistri, c. 8. seq. — In prima solutionis propos. pro *aliquo modo possit* codd. A H K *aliquo modo posset.*
+    **En.** See here the text of the Master, c. 8. f. — In the first proposition of the solution, for *can in some way* codd. A H K [read] *could in some way.*
+
+[^p486-1]: **La.** Sive, quod in idem redit, *obiecti,* quam lectionem exhibent codd. B C D (K primitus) M O P R cc. In edd. legitur: *dicendum, quod verum est, quod non est substantia rerum sperandarum tanquam subiecti* etc.
+    **En.** Or, what comes to the same, *of an object,* which reading codd. B C D (K originally) M O P R cc exhibit. In the editions one reads: *it must be said that it is true that it is not the substance of things to be hoped for as of a subject* etc.
+
+[^p486-2]: **La.** Finem priorem esse secundum *intentionem,* docet Aristot., II. *de Generat. animal.* c. 4. (c. 6.); IX. *Metaph.* text. 15. (VIII. c. 8.) et III. *Ethic.* c. 3. nec non VI. c. 9. — Pro *assecutionem* codd. A H K L Z *exsecutionem.* Mox codd. M O voci *veritate* praefigunt *ipsa.*
+    **En.** That the end is prior according to *intention,* Aristotle teaches, II *On the Generation of Animals* c. 4. (c. 6.); IX *Metaphysics* text 15. (VIII. c. 8.) and III *Ethics* c. 3. and also VI. c. 9. — For *attainment* codd. A H K L Z [read] *execution.* Then codd. M O prefix to the word *truth* [the word] *the very.*
+
+[^p486-3]: **La.** Quaest. 2. — Paulo superius pro *impedit, quin* multi codd. et edd. *impedit, quod.*
+    **En.** Question 2. — A little above, for *prevents... from* many codd. and edd. [read] *prevents... that.*
+
+[^p486-4]: **La.** Cod. U *quamvis enim.*
+    **En.** Cod. U [reads] *for although.*
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol3-p{483,484,485,486,487}-{L,R}-*.png`) over the IA djvu OCR base (raw lines 33577–33901). Fresh literal English. Vol III PDF-priority inversion applied: the Respondeo (esp. p.484-R and p.485-L) is heavily OCR-cascade-shattered with bleeding marginal glosses (`indicator essentiae`, `requisita ad definitionem`, `notificatur eadem`, `Separatur eadem ab aliis`), so the body there was set from the PDF columns, not from the OCR raster.
+
+**Opener alignment VERIFIED** on PDF p.483-L (band 1) and p.483-R (band 1): *Quinto quaeritur de descriptione fidei ab Apostolo assignata, quoniam ipsa inter ceteras est magis authentica. Definit autem Apostolus fidem sic, ad Hebraeos undecimo: Fides est substantia rerum sperandarum, argumentum non apparentium.* — confirmed q5 (the description-of-faith question; TRACTATIO a.1 q5 = *de notificatione/descriptione fidei ab Apostolo assignata,* Heb 11:1). The four defects (*veritatis / convertibilitatis / evidentiae / sufficientiae*) and their replies are all present.
+
+**Printed pp.483–487** (PDF 505–509; pdf = printed + 22). q5 opens at the foot of **p.483-L**, immediately after q4's scholion §I–II close at the top of p.483 (q4's body+scholion held the upper portion of p.483). q5 runs through pp.484–485 (body) and pp.486–487 (the close of the Solutiones at the foot of p.486-R, then the SCHOLION §§ I–III, which spills onto p.487 and closes at the foot of **p.487-L**). The p.483 running head reads `DIST. XXIII. ART. I. QUAEST. V.` and p.487's reads `DIST. XXIII. ART. II. QUAEST. I.` (the latter because Art. II begins lower on p.487); both upper portions belong to q5.
+
+**Page-split map:**
+- p.483→484 at *implicatio dupli|cis contradictionis* (mid-arg 2).
+- p.484→485 at *non appa|rentes* (mid-Respondeo).
+- p.485→486 at *credulitas suppliciorum non est substantia rerum sperandarum, sed magis ti|mendarum* (mid-Solutio ad 4).
+
+**Apparatus 18 entries**, per-page restart:
+- **p.483 ×3** — `[^p483-1]` (Boeth./Isidor. on *argumentum*, keying *apertum*), `[^p483-2]` (Heb. 11:1 *Vers. 1,* keying *undecimo*), `[^p483-3]` (Aristot. VII *Metaph.,* keying *accidens*). These start the per-page sequence at n.1 because q4's scholion is unfooted, so **nothing migrated in** from p.483's q4 portion.
+- **p.484 ×7** — `[^p484-1..7]` (Boeth. *Dialog. in Porphyr.* / Aristot. VI *Topic.* / Augustine *Enchirid.* / I Cor. 13:13+Gregor. / Aristot. VI *Topic.*+VII *Metaph.* / supra q.2+Heb. 13:9 / Aristot. I *Ethic.*+II *de Anima*).
+- **p.485 ×4** — `[^p485-1..4]` (Aristot. VII *Metaph.* / Damascene *de Fide orthod.* / Aristot.+Boeth.+Quintilian on *argumentum* [long note 3, footer text spans both columns] / lit. Magistri c.8).
+- **p.486 ×4** — `[^p486-1..4]` (Sive *obiecti* / Aristot. on *intentio* / Quaest. 2 / Cod. U *quamvis enim*).
+- The **scholion (§§ I–III) carries NO footers** (consistent with q4's unfooted scholion).
+
+**Footer ownership / migration:**
+- **IN: NONE.** q4's scholion is unfooted; p.483's q5 footers begin fresh at n.1.
+- **OUT: NONE.** q5's scholion is unfooted and the scholion §III closes at the foot of p.487-L, immediately before ARTICULUS II. No footer carries past the seam; the next chunk (a2-q1) opens its own per-page sequence on p.487.
+
+**SCHOLION FINDING: q5 HAS its own scholion** (`SCHOLION.` on PDF p.486-R; OCR header clean at raw 33817). It is unusually long: **§ I** (S. Thom. *de Verit.* — definition vs. due form, *« faith is a habit of the mind »*); **§ II** (object of faith = first Truth not seen, will « presides »; then four numbered points on the analysis of the act of faith: objective ground = authority of God revealing; first Truth threefold *in essendo/cognoscendo/dicendo*; the implicated acts of intellect & will; assent to the material object grounded in the formal); **§ III** (the post-Scotus dispute Lugo vs. Suarez vs. Mazzella vs. Scheeben on the formal ground of faith, then the author-list *De ipsa definitione Apostoli:* Alex. Hal. / S. Thom. / B. Albert. / Petr. a Tar. / Richard. a Med.).
+
+**Seam CLEAN both ends:** opens at the QUAESTIO V header (raw 33577) / body opener (raw 33580), continuous from q4's scholion close; closes at the end of scholion §III (raw ~33901) immediately before **ARTICULUS II** (header raw 33902, *De fide informi* raw 33904).
+
+**No [?] flags** (450 dpi legible throughout, including the cascade-shattered Respondeo, recovered cleanly from the PDF columns).
+
+**HAND-OFF TO d23-a2-q1 (forwarded):** **ARTICULUS II, QUAESTIO I** — *Utrum fides informis sit in genere virtutis, an non* ("Whether unformed faith is in the genus of virtue, or not"), `type: quaestio`, `articulus: 2`, `quaestio: 1`. **ARTICULUS II header at raw 33902** (`ARTICULUS II.`), article title *De fide informi* at raw 33904, and the **short article opener at raw 33906:** *"Consequenter quaeritur de fide informi, circa quam quaeruntur quinque."* followed by the TRACTATIO listing the five questions (*Primo quaeritur de eius genere... Tertio quaeritur de eius subiecto... Quarto quaeritur de eius duratione... Quinto et ultima quaeritur de eius forma...*). Per the Vol II/III convention (a short ARTICULUS opener folds into its q1), **fold the ARTICULUS II opener + the 5-question TRACTATIO into a2-q1**, no standalone divisio chunk. **QUAESTIO I header at raw 33912** (`QUAESTIO 1.`); **q1 title** *Utrum fides informis sit in genere virtutis, an non* (raw 33913); **q1 body opener** *Circa primum quaeritur de fide informi quantum ad genus suum, utrum videatur...* (raw 33916). **Verify the opener alignment on PDF — STOP and report if misaligned.** **Printed p.487 onward** (PDF 509+; pdf = printed + 22) — Art. II + q1 open at the foot of **p.487-L**, right after q5's scholion §III. q1 has a scholion (`SCHOLION.` at raw 34035). Upper boundary: **QUAESTIO II at raw 34083** (`An fides informis sit infusa, an acquisita`). Grep for it to fix q1's end. **FOOTERS MIGRATING IN: NONE** — q5's scholion is unfooted; p.487's a2-q1 footer sequence starts its own per-page restart. **d23-a1-q5 is COMPLETE.**
