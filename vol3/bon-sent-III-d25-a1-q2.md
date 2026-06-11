@@ -6,251 +6,250 @@ distinctio: 25
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 37486
-line_end: 37712
-word_count_latin: 3280
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Utrum eis qui praecesserunt adventum Christi, suffecerit ad salutem credere ea tantum, quae spectant ad Divinitatem"
+title_en: "Whether for those who came before the advent of Christ it sufficed for salvation to believe only those things which pertain to the Divinity"
+printed_pages: [539, 540, 541, 542]
+pdf_pages: [561, 562, 563, 564]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 539–542"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (vol3 p.539–542 L/R) over IA djvu OCR base (raw lines 37486–37712), fresh literal English translation, full apparatus from raw OCR (NOTAE AD COMMENTARIUM, 21 footers: p.539 ×5 + p.540 ×9 + p.541 ×7), scholion I–III from OCR/PDF with no [?] flags (2026-06-10)"
 format_version: 1
 ---
 
 # bon-sent-III-d25-a1-q2
 
+## *Utrum eis qui praecesserunt adventum Christi, suffecerit ad salutem credere ea tantum, quae spectant ad Divinitatem*
+
+---
+
 ## Latin
+<!-- page 539 -->
 
-QUAESTIO II.
-                           Ulrum eis qui praecesserunl advenlum Christi, suffeceril ad salutem credere
-                                           ea tantum , quae speclanl ad Divinilalem.
+### Quaestio II. *Utrum eis qui praecesserunt adventum Christi, suffecerit ad salutem credere ea tantum, quae spectant ad Divinitatem.*
 
-              Seeitndo qtineritur tle iidei suflicientia quantnm                             /i. Item, nullus homo leaetur nosse quod igno-
-        ncl eos qui praecesserunt advenlutn Ghristi , et quae-                         rant Angeli; sed ante Chrisli advenlutn ignoialianl
-        ritur, atrum eis snflecerit ad salutem credere ea                              Angeli Christi incarnntionein : ergo homines non le-
-        tantum , quae speclnnf ad Divinitntem. Et quod sic ,                           nehnntur illnm crcdere. Maior proposilio in se ma-
-        videtur.                                                                       nifesln est; minor probntur per illud quod dicitur
-                 1. Ad Hebraeos undecimo ' : Oporlet accedenlem                        Isaiae sexagesiino tertio4: Quis est isle qui venil de
-Ad opposi- credere , quia est , el quia remuncralor esl: si ergo                       Edom? ibi Glossa : « Aperte declaratur, quod qui-
-           Apostolus determinat suflicienler illud quod erat                           datn Angeli, donec impleretur, mystcriitin incarna-
-           ftdei opportunum, videtur, quod illud sutficiebat eis                       tionis non cognoverunt ». Et ad Ephesios tertio di-
-           credere. Sed totum illud credi poterat nihil credendo                       citur: VI innotescat Principatibus et Potestalibus in
-        de humanitnte Christi : ergo videtur. quod tunc tem-                           cuelcslibus ; et ex ahis plnrihus locis polest haberi.
-        poris ad salutem sufficiebat sola fides Divinitalis.                           Unde Chrvsostoiuus in Humilia prima super loan-
-             ± Ilem. fides, quae suflicienter dirigit ad spe-                          nein : « Miiltum honornti suinus. quod nobiscum
-        randum et amandum, sufficit ad salutem8; sed fi-                               Angeli per vocem Ioannis didicerunt »; et idem ha-
-                                                                                       betur in Glossa super illud ad Ephesios lertio: Quae
-        des, qua quis credit Deum crentorem et remunern-
-        torem suum, suflicienler dirigit ipsnm ad sperandnm                            ■sil dispensalio mysterii abscondili a saeculis in Deo.
-        et amnndum : ergo videtur, quod omni lide huma-                                      ;i. llem, qui im[)let in Lege evangelica quod
-        nitatis exclusa, fides solius Divinitatis ad salutem                           est de dictamine eius, pervenit ad salutem, et si-
-        sufliciehnt.                                                                   mililer de Lege Mosaica : ergo pari ratione qui im-
-              3. Item, multi salvali sunt sine fide passionis                          plebat, quae erant de dictamine Legis oaturne, nd
-        Chrisli — paucissirai enim praecesserunt in veteri                             snlutem perveniebat, secundum quod innuit Aposto-
-        Testamento, qui crederent % Filium Dei esse cruci-                             lus ad Romanos secundo '- : ergo tempore Legis na-
-        figendum pro salute generis humani — si ergo sal-                              turae non oportebat credere ad salutem , nisi quod
-        vari potuerunt sine fide passionis, eadem ratione                              erat de dictamine naturae. Sed Deum incarnari et
-        sine fide incarnationis : ergo et sine fide Mediatoris.                        Mediatorem futurum esse non erat de dictainine Le-
+Secundo quaeritur de fidei sufficientia quantum ad eos qui praecesserunt adventum Christi, et quaeritur, utrum eis suffecerit ad salutem credere ea tantum, quae spectant ad Divinitatem. Et quod sic, videtur.
 
+1. Ad Hebraeos undecimo[^p539-1]: *Oportet accedentem credere, quia est, et quia remunerator est*: si ergo Apostolus determinat sufficienter illud quod erat fidei opportunum, videtur, quod illud sufficiebat eis credere. Sed totum illud credi poterat nihil credendo de humanitate Christi: ergo videtur, quod tunc temporis ad salutem sufficiebat sola fides Divinitatis.
 
-             1 Vcrs. 6: Credere enim oportet accedentem ad Deum ,                      inde alTcrlur super Eph. 3, 9, npud Pctr. Lombard. sic sonat :
-        quia cst el inifiirentibus se rcmumcralor sit. — In finc nrg.                  Et videte, quanlum hoc cst, quia per hoc aliquid accrcvil An-
-        pro lemporis ad salntem codd. A K ipsis.                                       gelis, qui multa secreta in his didicerunl. Sirabus hanc Glos-
-             ■ Cfr. sopra lit. Magislri, d. XXIII. c. 3. seq., et Commcnt.             sam exhibel ad vcrs. 10. — Pro mysterii Val. el nonnulli oodd.
-        a. I. q. I. ac dub. 3. — Post amandum cdd. supplcnl Deuin.                     minislerii, Vulgata sacramenli.
-             3 Edd. crediderunt.                                                            5 Vers. 14. seq. — In inilio arg. edd. pro in Lege posue-
-             4 Vers. I. — Dc Glossa, quae esl ordinaria et sumln ex                    runt de Lege, et infra nisi quod erat de diclamine Leijis nalurae
-        Hieronymo, vide supra pag. 57, nota 7. — Seq. Scripturae                       pro nisi quod erat de diclamine nalurae. Dcinde circa (inem
-        locus est Eph. 3, 10. — Verba Chrysostomi hnbenliir in homil.                  arg. edd. post quod oporlebat inscruerunt lioc.
-        allegata (codd. et edd. homilia 5.) n. 2. — Glossa, quae dc-
-         840                                                 SENTENTIARUM LIB. III.
+2. Item, fides, quae sufficienter dirigit ad sperandum et amandum, sufficit ad salutem[^p539-2]; sed fides, qua quis credit Deum creatorem et remuneratorem suum, sufficienter dirigit ipsum ad sperandum et amandum: ergo videtur, quod omni fide humanitatis exclusa, fides solius Divinitatis ad salutem sufficiebat.
 
-         gis naturae: ergo non videtur, quod oportebat iilo                   s; credebant, se alienis meritis indigere : ergo ha-
-         tempore credere.                                                     bebant fidem de Mediatore : ergo nullus salvari po-
-              6. Item, nullus tenetur operari illud, ad quod                  tuit post lapsum absque fide Redemptoris.
-         non polest se erigere virtus sua operativa : ergo
-         nullus tenebatur credere illud cuius notitiam non                                            CONCLUSIO.
-          poterat acquirere nec per inventionem nec per do-
-          cirinam *. Si ergo tempore legis naturae cognitionem                     Nullus post lapsum salvari poluit absque
-          de Mediatore non poterant per se invenire, nec eral                           Mediatoris fide saltem implicita.
-          qui exterius doceret, nec adhuc eranl revelationes
-          propbeticae ; videtur , quod lunc temporis nihil le-                      Respondeo: Dicendum, quod , sicut mnltis au-
-          nebantur credere de Mediatore : ergo sine fide Me-                  ctoritatibus probat Magister in littera 6, post lapsum conciusio.
-          diatoris pervenire poterant ad salutem.                             Adae nullus salvari poluit absque fide Mediatoris.
-                Contra hoc sunt auctqrilates multae, quas Ma-                 Nullus enim ab illo peccato poterat liberari , nisi in
-Fandamenta.gister adducit in littera2, et hoc ipsuin ostenditur               illum Mediatorem crederet, vel ipse pro se , si esset
-          ratione.                                                            adultus, vel alius pro ipso, si esset parvulus.
-                1. Cbrislus est capul tolius Ecclesiae, ergo nullus                 Et ratio huius est: quia, cum gratia et veri- a«uo.
-          potest salvari, nisi fiat membrum Christi; sed mem-                 tas per lesum Chrislum facta sit7, et liberatio ab
-          brum Christi non potest fieri, nisi credal in Christum:             illo peccato sit per merita Christi, et merita Christi
-          ergo sine fide Mediatoris nullus unquam salvari potuit.             non se extendant nisi ad illos qui efficiuntur eius
-                2. Item , nullus potnit ingredi in caelum, nisi               membra et ei copulantur per fidem ; sicut impossi-
-          aperta ianua; sed ianua non potuit aperiri nisi per                 bile est, nunc aliquem salvari , nisi eidem copuletur
-          passionem Christi : ergo nnllus potuit salvari nisi                 vel per Odem, vel per fidei Sacramentum : sic et
-          merito passionis Christi. Sed merilum passionis Cbri-               impossibile fuit , post lapsum aliquem pervenire ad
-          sti non valet nisi eis, in quibus habitat Christus:                 salutem , qui aliquo mod.o in Christum mediatorem
-          si ergo Christus habitat per fulem et caritatem, quae               non crederet. Ideo autem dico aliquo modo, quia
-          habetur ad ipsum 3 ; impossibile fuit, aliquem sal-                 fides Mediatoris polest baberi dupliciter, videlicet Distinctio.
-          vari sine fide Medialoris.                                          implicite , vel explicite : explicite , ut si quis cre-
-                3. ltem , nullus potesl salvari sine remissione               deret, Filium Dei assumlurnm nostram humanita-
-          peccali originalis ; sed originale peccatum non potest              tem, nasciturum de Virgine, passurum in Cruce,
-          remitti nisi per fidem , vel per aliquod fidei Sacra-               resurrecturum tertia die etc. Et hoc modo explicite
-          mentum , quod sit ipsius Mediatoris signum A : ergo                 credere non erat omnibus opportunum, sed his so-
-          nullus potuit pervenire ad salutem ante adventum                    lum, quibus a Deo erat revelatum, sicut sanctissi-
-          Christi , qui nou crederet Medialorem.                              mis Patribus8. — Implicite , vero credere est exspe-
-                4. Ilem, nullns potest pervenire ad salutem,                  clare redemplorem futurum , qualiter aulem et quo-
-          nisi qui sperat ; nullus recte sperat, nisi qui credit,             modo hoc debeat esse, credere secundum quod illi
-          ad salutem se perventurum per merita, quia spes                     credebant, quibus a Dotnino est revelatum ; et hoc
-          procedil « ex gratia el merilis5»: si ergo illi qui                 quidem erat omnibus opportunum.
-          praecesserunt Christi adventum, salvabantur, cre-                         Et boc esl uuod dicit magister Hugo de sancto conarmatur
-          debant, se per merita salvari : aut ergo credebant,                 Viclore m hbro de Sacramentis : « Haec sunl, m- ncm.
-          merita propria sibi suflicere, aul meritis alienis                  quit, quibus ab initio nihil minus recla fides un-
-          indigere. Si credebant, propria sibi sufficere: ergo                quam babere potuit, credere videlicet, unum esse
-          efferebantur et decipiebanlur, ergo non salvabantur;                Deum , creatorem omnium et rectorem universorum ;
+3. Item, multi salvati sunt sine fide passionis Christi — paucissimi enim praecesserunt in veteri Testamento, qui crederent[^p539-3] Filium Dei esse crucifigendum pro salute generis humani — si ergo salvari potuerunt sine fide passionis, eadem ratione sine fide incarnationis: ergo et sine fide Mediatoris.
 
+4. Item, nullus homo tenetur nosse quod ignorant Angeli; sed ante Christi adventum ignorabant Angeli Christi incarnationem: ergo homines non tenebantur illam credere. Maior propositio in se manifesta est; minor probatur per illud quod dicitur Isaiae sexagesimo tertio[^p539-4]: *Quis est iste qui venit de Edom?* ibi Glossa: «Aperte declaratur, quod quidam Angeli, donec impleretur, mysterium incarnationis non cognoverunt». Et ad Ephesios tertio dicitur: *Ut innotescat Principatibus et Potestatibus in caelestibus*; et ex aliis pluribus locis potest haberi. Unde Chrysostomus in Homilia prima super Ioannem: «Multum honorati sumus, quod nobiscum Angeli per vocem Ioannis didicerunt»; et idem habetur in Glossa super illud ad Ephesios tertio: *Quae sit dispensatio mysterii absconditi a saeculis in Deo.*
 
-               1 Vitie suprn pag. 329, nota 10. — Maior innititur regulae           8 Cfr. hic lit. Magislri, c. 2, nbi etiam seq. propos. expli-
-         6. iuris (libr. V. Sexti Decrel. in fine): Nemo potest ad impos-     calur, quam Vat., a codd. recedens, sic immutavit: Implicite
-         sibile obligari.                                                     vero credere, est credere Redempiorem venturum talitcr et eo
-               2 Hic c. 1. Cfr. etian) supra pag. 236, nota 10. — De arg.     modo, qualiter et quo modo illi credebant elc. Etiam edd.
-         seq., in cuius minori edd. posl non potest subdunt quis, vide        I, 2 hanc propos. aliquantulum mularunt. Etenim post Iiedem-
-         supra d. 13. a. 2. q. 3.                                             ptorem fulurum posilo punclo, sic proseqtiunlur: Quaeritur
-               3 Vide supra lit. Magislri , d. XXIII. c. 3. De praecedenti-   aulem, qualiier et quomodo debeat esse hoc credere; dico, quod
-         bus cfr. supra d. IS. a. 2. p. 3; d. 19. a. I. q. 1. seqq. nec       hoc credere esse debet, secundum quod ilti credebant elc. l'ost
-         non ibid. dub. 2.                                                    hoc debeat [codd. A K debebat] esse cod. C interiicit sufjicie-
-               4 Cfr. supra d. 20. q. 4.                                      bal, cod. bb est. Subinde pro secundum quod codd. A Q ( N
-              5 Ut Magisler ait infra d. XXVI. c. I. Cfr. 5(bid. dub. 2.      a secunda manu) scilicel quod , et post paucn pro esl revela-
-              6 Hic c. I. — Ulrum lides parentum sufficiat ad delendum        lum cod. A K erat revelalum. In lectione codd. exspectare etc.
-         originale peccatum in parvulis, an non; haec quaestio fusius         ot credere secundum etc. sunt membra coordinaln.
-         tractatur IV. Sent. d. I. p. II. a. I. q. I. seq. — Inferius Val.         9 Lihr. I. p. X. c. 7. In tcxlu origin. post suffecisse crc-
-         bis voci peccato adiungit originali.                                 dimus plura inveniuntur, quae hic desunt; simulque ibi pro
-              7 loan. I, 17. — Paulo inferius prn nunc aliquem plurimi        ascensionis suae hnbetur ascensionis eius, H locus sic lermina-
-         codd. et edd. I, 2 nunc aliter (cod. lv a secunda manu nunc          tur: et scienlibus haec fide et devotione sub spe et exspecta-
-         atiquem). Deinde post sic et impossibile fu.it edd. inserunt tunc.   tione eiusdem redemptionis adhaeserunt.
-                                                         DIST. XXV. ART. I. QUAEST. II.                                                   541
-         ipsnm (]iiiilem non csse mali auctorem , eorum l;i-                  tebat inraniationem explicite credere, sed sufficiebat
-         men , qui in nialis snis miserieordiam eius quaere-                  credere, quod aliquis veniret, qui genus humaniun
-         rent et exspectarent futurum redemplorem. IIoc sim-                  redimere posset, sciret et vellet.
-         plicium lidei in initio suflecisse credimus ; et tamen                    4. Ad illud quod obiicitnr, quod bomines non
-         fidem nativitatis eius, passionis et resurreclionis et               tenentur nosse quod ignorant Angeli ; dicendum, qnod
-         ascensionis suae in hoc eos verissiine habuisse dici-                etsi Angeli mysterium incarnationis non cognovernnt
-           mns, quia credcntihus el scienlihus lioc fide et de-               ad pleniim, taineu niillus fiiit Beatormn ', qui ne-
- Epiiogui. volinne adliaesernnt ». — Sic igitur conceilenduin                 sciret, genus liuinanum esse redimendum; et ideo
-           est, quod nullns post lapsum salvari potnit absque                 ex hoc non concluditur, quod non oportuil fidem
-           fide Medialoris; qua qnia pbilosophi caruernnt , snis              babere de Mediatore, sed quia non oportuit credere
-           meritis et virtulihus inbaerentes, ideo lanqnain sn-               explicile, sed suHiciebat credere iinplicite.
-           perbi et a Christi membris et meritis separati, ex-                      .'j. Ad illud quod obiicitnr, quod omni tempore
-           clusi smit a gaudiis paradisi '. — Concedendae sunt                sulfecit iiuplere ipiod fnit de dictamine Legis illius,
-           igilur raliones ad istain parlem adductae.                         qnae eral in illo statu ; dicendum, quod hoc est ve-
-                 1. Ad illnd ergo qnod primo obiicitur de aucto-              rnm, secundnm quod boc intelligitur de Lege na-
-                                                                              liirae vel de Lege Scripturar , secundmn quoil est
-poliioram" r'l;lle Apostoli, cJiceiidiim , quod Apostolus praecise
-           non intendit determinare totnm, qnod est ad salutem                adiuta a dono gratiae. Sine enim dono gratiae in Notandum.
-           necessarium . sed illnd, sine ipio non potest esse                 nulla Lege contingit ad salulein pervenire °. Quani-
-Noiandum. sa|,ls Djcji enjm ; qUOd boc est opportunum , sed                   vis autem Lex nalurae, destituta auxilio gratiae,
-           non dicit, qnod boc sit sufficiens. Tangit autem illa              non possii aliquid dictare de ipso Mediatore; prout
-           duo potissime, quia uecessaria erant omni stalui na-               tamen est adiuta per gratiam, duin senliebat inlir-
-           turae, non solnm statui natnrae lapsae, sed etiam                  mitatem suain et miseriam et advertebat Dei iusti-
-           statui innocentiae'.                                               tiam et misericordiam, satis dictare poterat, qnod
-                 "2. Ad illud quod obiicilur, ipiod lides Creatoris           boino reparalore indigebat, et quod divina bonilas
-           et Remuneratoris snllieienter dirigit ad sperandum                 dare disponebat. Unde seinper fuerunt aliqui famosi
-           et amandum ; dicenduin, qnod falsum est sernndiim                  Dei cultores ab initio mundi, qui baec proliterenlur
-Noiandum. stalum najl]rae lapsac , quia , cum spes procedat ex                suis ohlalionibns, ad quorum aspectum et exemplum
-           meritis, sicnt in opponendo3 lactum est, si quis                   alii poterant erudiri.
-           speraret salvari ex meritis propriis, sine meritis                       6. Ad illud quod ultimo obiicitur, ipiod non
-           Mediatoris, non recte sperarel, sed potins praesu-                 poterant illud scire per inventionem et doctrinam ;
-           meret. Ideo spes non sufficienter dirigitur per lidem              iam patet responsio: quia divina gratia onmibus prae-
-           Creatoris et Remuneratoris ; similiter nec carilas ,               sto erat, et natura ad hoc manuducere poterat ex
-           quia non tantum debenms ainare, quia Creator et                    consideralione suae miseriae et curvitalis et ex eru-
-           Remnnerator, sed inagis quia Redemptor.                            ditione quadam generab, quam accipere poterant a
-                 3. Ad ilbul quoil obiieitur, quod mulli salvati              viris, qui erant in ciillu Dei fainosi. Unde cum non
-           sunt sine tide passionis ; dicendiim, quod si loqua-               esset lunc prophetia oec revelatio aperta; non te-
-           nmr de fide explicita , vermn est ; si de lide impli-              nebanlur omnino ad fideni explicitam. Indubitanler Noumdmn.
-           cita, non est verum. Onmes enim salvandi exspe-                    lamen verum est, quod eis praesto erat notitia Me-
-Notandnm. eiavernnt Redemptorem fnturum , et etiam in suis                    dialoris, qnanta opportuna erat secunduin exigen-
-           sacrificiis et oblationibus boc praefigurabant, in qui-            tiam teniporis, lum ex dictamine naturae tum ex
-           bus omnibus signitiealur Cbristus offerendus. Unde                 aliena instructione tum etiam ex Dei inspiratione,
-           quodam modo profitebantur factQ occulte, qnamvis                   qui se offert omnibus qui eum requirnnt bumiliter \
-           verbo non proferrent manifeste \ Simililer non opor-
+5. Item, qui implet in Lege evangelica quod est de dictamine eius, pervenit ad salutem, et similiter de Lege Mosaica: ergo pari ratione qui implebat, quae erant de dictamine Legis naturae, ad salutem perveniebat, secundum quod innuit Apostolus ad Romanos secundo[^p539-5]: ergo tempore Legis naturae non oportebat credere ad salutem, nisi quod erat de dictamine naturae. Sed Deum incarnari et Mediatorem futurum esse non erat de dictamine Le-
 
+<!-- page 540 -->
 
+gis naturae: ergo non videtur, quod oportebat illo tempore credere.
 
-              1 AugusL, Kpisl. lli-i. (alias 99.) c. 2. n. i : Quae quidem    confercnli singulos. Ilinc ergo est, quod Apostolus ponit hos
-        omnia [parcimonia, continentia etc.], quanclo non referuntur          principnliter quia est, id est principium conditionis, et quia
-        ad linem rectae veraoque pietatis, sed ad fastum inaneni hu-          est remunerator , hoc est finis beatitudinis.
-        manne laudis el gloiiae, elinm ipsi inanescunt quodani modo                3 lii fundamenlo {. Cfr. supra d. 24. a. I. q. I. ad 4. —
-        steriliaque redduntur; venimlamen quadam indole animi ita             Paulo infcrius pro et P.emitueratoris edd. I, 2 cnm mullis codd.
-        delectant, ul eos, in quibus haec fuerunt, vellemus vel praeci-       perperam et Mcdiaioris.
-        pue vel cum ceteris ab inferni cruciatibus liberari, nisi alitcr           * Cfr. IV. Sent. d. I. p. II. a. I. q. 3. — Aliquanlo su-
-        se hauerct sensus liumanus, aliter iustitia Creatoris.                perius pro si de fide codd. A F H I K. L T V aa bb sed de fide ,
-              2 Alex. II.iI., S. p. III. q. 69. m. 3. a. I. ad eandcm obie-   el deinde pro sitjnificatur codd. ANU significabalur , edd. fi-
-        ctionem respondet sic: Dicendum, quod Aposiolus isla duo
-        ponit sicut principia ad omnes articulos, scil. oportet credere,           5 Codd. H I L Z bonorum.
-                                                                              guratur.
-        ijuiti est el quin remuiierator esl; omnes enim articuli rodu-             6 Cfr. II. Scni. d. 29. a. I. q. I. seq. — Mox pro possit
-        cuntur ad fidem, qua creditur i ri u, principittm et fims             codd. A lv U posset. — Aliquanlo inferius pro famosi cod. Z
-        (Apoe. I, 8.J. Et liaec duo sunt, quae propinquiora sunt nobis
-                                                                              famosissimi.
-        quantum ad cognitionem , et per quorum cogniiionem manu-                   1 1'salm. '144, 18: 1'rope est Dominus omnibus invocanti-
-        ducimur et elevamur ad cognitionem aelernorum, sieut palet            bus eum ele.
-          342                                                  SENTENTIARUM        LIB. [II.
+6. Item, nullus tenetur operari illud, ad quod non potest se erigere virtus sua operativa: ergo nullus tenebatur credere illud cuius notitiam non poterat acquirere nec per inventionem nec per doctrinam[^p540-1]. Si ergo tempore legis naturae cognitionem de Mediatore non poterant per se invenire, nec erat qui exterius doceret, nec adhuc erant revelationes propheticae; videtur, quod tunc temporis nihil tenebantur credere de Mediatore: ergo sine fide Mediatoris pervenire poterant ad salutem.
 
+**Contra hoc** sunt auctoritates multae, quas Magister adducit in littera[^p540-2], et hoc ipsum ostenditur ratione.
 
+1. Christus est caput totius Ecclesiae, ergo nullus potest salvari, nisi fiat membrum Christi; sed membrum Christi non potest fieri, nisi credat in Christum: ergo sine fide Mediatoris nullus unquam salvari potuit.
 
-                                                                    SCHOLION.
-                I. ln hac et seq. quaestione nec non in toto 2. arliculo        ergo ex tunc, unum esse de Medialore vel Rcdemptore articu-
-          multa dicuntur de explkatione fidei; quae. ut facilius inlelligan-    lum » (Pet. a Tar., hic q. 3. a. I.). — Idem docet S. Thom.,
-                                                                                in Comment. (hic q. 2. a. 2. quaestiunc. 2.). Sed in Sum. (II. II.
-          tur, opportunum videtur commemorare quasdam communiter
-                                                                                q. 2. a. 7. 8.) ipse cum Scoto tenet, Adam ante peccatum
-          receptas dislinctiones. Sicut xoccultum aliquid dicitur duplici-      habuisse fidem explicitam incarnationis, quatenus ordinabatur
-          ter: vel a parte cognoscentis , vel a parte rei cognitae » (infra
-          a. 2. q. 2. ad 2.); ita etiam explicatio fidei considerari potest     ad consummationem        gloriae, non ad liberalionem a peccato.
-                                                                                — Observatione dignae sunt graves rationes, a nostro Doctore
-          vel ex parte credentis, vel ex parle obiecti crediti sive articu-     hic contra Naluralismum et Bationalismum allatae.
-          lorum. De explicatione fidei sumta in sensu secundo quaeritur
-                                                                                       Praeter laudatos: Alex. Hal., dc hac et seq. q. S. p. III.
-          infra a. 2. q. I , utrum scilicet fides creverit quoad credendo-
-          rum multiludinem ; de eadem in primo sensu agitur infra a. 2.         q. 69. m. 3. a. I. 2. — Scot. hic q. I. — B. Alberl., hic a. 2.
-          q. 2. 3. et eliam, iicet alia ralione, in hac et seq. quaestione.     — Richard. a Med., hic a. 3. q. I. 2. — Durand., de hac et
-          Porro duplici modo aliquis potesl fidem habere implkite: vel          seq. q. hic q. I. — Dionys. Carlh , de hac et seq. q. hic q.
-                                                                                unica. — Biel, de hac et seq. q. hic q. unica.
-          ita , ut implicefur cognitio alicuius articuli in alio articulo ex-
-                                                                                       III. Rcspectu seq. (3.) quaestionis notandum, quod recen-
-          plicite cognito, quemadmodum in principiis universalibus scien-
-                                                                                tiores theologi coinmuniter distinguunt credenda necessihle me-
-          tiae implicantur conclusiones; vel ita, ut habeat scientiam im-       dii et necessitate praecepti; sed inter se controvertunt, ulrum
-          plicatam in cognitione alterius scientis, ut discipulus respectu
-          magistri, a quo pcr docirinam polest scientiam accipere. Et           etiam neccssitate medii post promulgatum Evangolium requira-
-          bene observat S. Thom. (hic q. I. a. I. quaestiunc. 4. ad I.),        tur fidcs explicita myslerii Trinitalis et incarnationis. De sen-
-          quod in hoc « non est simile de scientia et fide, quia non sunt        tentia afflrmativa dicit S. Alplionsus (Theolog. Moral. libr. II.
-          nobis innata aliqua principia naturalia, ad quae possint re-           n. 2.): « Est eommunior et videtur probabilior » ; sed salis pro-
-          duci articuli fidei, sed lota determinatio fidei est in nobis          babilem censet eliam negativam sententiam mullorum et insi-
-          per doclrinam; et ideo oporlet in cognitione hominis habere            gnitim theologorum, qui doccnt, fldem de hoc non nisi impli-
-                                                                                 citam necessilale medii requiri. Ss. Bonav. et Thom. cum aliis
-           fldem implicitam». Hoc principio respectu fidei simplicium uti-       antiquis sustinent quidem necessitatem explicite credendi sallem
-           tur S. Bonav., hic in corp., et q. 3. praescrlim ad 6.
-                II. In hac 2. quaeslione S. Bonav. dislinguil statum ante        qualuor principales artieulos de redemptione, quos Magister
-                                                                                 (hic c. 3. et cfr. hic dub. 2.) commemorat; sed non loquuntur
-           lapsum a statu naturae lapsae; et cum anliqui doctores com-
-           munius principalem incarnationis ralionem a pecealo Adami             praecise de necessitate medii; insuper polius respiciunt sim-
-                                                                                 plices Christianos, non eos quibus Evangelium non est prae-
-           sumerent, multi etiam docebant, quod ante peccatum « sine Me-         dicatum; respectu quorum verba eorum inlerpretari licct de
-           diatore esset devenire in finem, scilicet Deum; iileo sufficiebat
-                                                                                 fide implicita, ut insinuare videtur S. Thom., S., II. II. q. 2. a.
-           regula dirigens in finem, non in Mediatorem. Ad dirigendum
-           vero in finem duo erant necessaria: scire, quod essemus ab            7. ad 3.
-                                                                                        De hac (3.) quaestione praeter supra laudatos cfr. S. Thom.,
-           ipso, et quod ad ipsum; ideo sufficiebat de Crealore omnium
-           bonorum cum articulo de Bemuneratore omnium bonorum.                  hic loc. cit. quaestiune. 3. 4; S. III. q. 69. a. 4. ad 2. — B.
-                                                                                 Albert., hic a. 6. — Petr. a Tar., hic q. 3. a. 2. — Bichard.
-          Sed post peccatum non est devenire in finem nisi per Media-
-          torem; ideo requirebatur rcgula dirigens in ipsum: oportuit             a Med., hic a. 4. q. I. 2.
+2. Item, nullus potuit ingredi in caelum, nisi aperta ianua; sed ianua non potuit aperiri nisi per passionem Christi: ergo nullus potuit salvari nisi merito passionis Christi. Sed meritum passionis Christi non valet nisi eis, in quibus habitat Christus: si ergo Christus habitat per fidem et caritatem, quae habetur ad ipsum[^p540-3]; impossibile fuit, aliquem salvari sine fide Mediatoris.
+
+3. Item, nullus potest salvari sine remissione peccati originalis; sed originale peccatum non potest remitti nisi per fidem, vel per aliquod fidei Sacramentum, quod sit ipsius Mediatoris signum[^p540-4]: ergo nullus potuit pervenire ad salutem ante adventum Christi, qui non crederet Mediatorem.
+
+4. Item, nullus potest pervenire ad salutem, nisi qui sperat; nullus recte sperat, nisi qui credit, ad salutem se perventurum per merita, quia spes procedit «ex gratia et meritis[^p540-5]»: si ergo illi qui praecesserunt Christi adventum, salvabantur, credebant, se per merita salvari: aut ergo credebant, merita *propria* sibi sufficere, aut meritis *alienis* indigere. Si credebant, *propria* sibi sufficere: ergo efferebantur et decipiebantur, ergo non salvabantur; si credebant, se alienis meritis indigere: ergo habebant fidem de Mediatore: ergo nullus salvari potuit post lapsum absque fide Redemptoris.
+
+### Conclusio.
+
+> Nullus post lapsum salvari potuit absque Mediatoris fide saltem implicita.
+
+**Respondeo:** Dicendum, quod, sicut multis auctoritatibus probat Magister in littera[^p540-6], post lapsum Adae nullus salvari potuit absque fide Mediatoris. Nullus enim ab illo peccato poterat liberari, nisi in illum Mediatorem crederet, vel ipse pro se, si esset adultus, vel alius pro ipso, si esset parvulus.
+
+Et ratio huius est: quia, cum *gratia et veritas per Iesum Christum facta sit*[^p540-7], et liberatio ab illo peccato sit per merita Christi, et merita Christi non se extendant nisi ad illos qui efficiuntur eius membra et ei copulantur per fidem; sicut impossibile est, nunc aliquem salvari, nisi eidem copuletur vel per fidem, vel per fidei Sacramentum: sic et impossibile fuit, post lapsum aliquem pervenire ad salutem, qui aliquo modo in Christum mediatorem non crederet. Ideo autem dico *aliquo modo*, quia fides Mediatoris potest haberi dupliciter, videlicet *implicite*, vel *explicite*: *explicite*, ut si quis crederet, Filium Dei assumpturum nostram humanitatem, nasciturum de Virgine, passurum in Cruce, resurrecturum tertia die etc. Et hoc modo *explicite credere* non erat omnibus opportunum, sed his solum, quibus a Deo erat revelatum, sicut sanctissimis Patribus[^p540-8]. — *Implicite* vero *credere* est exspectare redemptorem futurum, qualiter autem et quomodo hoc debeat esse, *credere* secundum quod illi credebant, quibus a Domino est revelatum; et hoc quidem erat omnibus opportunum.
+
+Et hoc est quod dicit magister Hugo de sancto Victore in libro de Sacramentis[^p540-9]: «Haec sunt, inquit, quibus ab initio nihil minus recta fides unquam habere potuit, credere videlicet, unum esse Deum, creatorem omnium et rectorem universorum;
+
+<!-- page 541 -->
+
+ipsum quidem non esse mali auctorem, eorum tamen, qui in malis suis misericordiam eius quaererent et exspectarent futurum redemptorem. Hoc simplicium fidei in initio suffecisse credimus; et tamen fidem nativitatis eius, passionis et resurrectionis et ascensionis suae in hoc eos verissime habuisse dicimus, quia credentibus et scientibus hoc fide et devotione adhaeserunt». — Sic igitur concedendum est, quod nullus post lapsum salvari potuit absque fide Mediatoris; qua quia philosophi caruerunt, suis meritis et virtutibus inhaerentes, ideo tanquam superbi et a Christi membris et meritis separati, exclusi sunt a gaudiis paradisi[^p541-1]. — Concedendae sunt igitur rationes ad istam partem adductae.
+
+1. Ad illud ergo quod primo obiicitur de auctoritate Apostoli, dicendum, quod Apostolus praecise non intendit determinare totum, quod est ad salutem necessarium, sed illud, sine quo non potest esse salus. Dicit enim, quod hoc est *opportunum*, sed non dicit, quod hoc sit *sufficiens*. Tangit autem illa duo potissime, quia necessaria erant omni statui naturae, non solum statui naturae lapsae, sed etiam statui innocentiae[^p541-2].
+
+2. Ad illud quod obiicitur, quod fides Creatoris et Remuneratoris sufficienter dirigit ad sperandum et amandum; dicendum, quod falsum est secundum statum naturae *lapsae*, quia, cum spes procedat ex meritis, sicut in opponendo[^p541-3] tactum est, si quis speraret salvari ex meritis propriis, sine meritis Mediatoris, non recte speraret, sed potius praesumeret. Ideo spes non sufficienter dirigitur per fidem Creatoris et Remuneratoris; similiter nec caritas, quia non tantum debemus amare, quia Creator et Remunerator, sed magis quia Redemptor.
+
+3. Ad illud quod obiicitur, quod multi salvati sunt sine fide passionis; dicendum, quod si loquamur de fide *explicita*, verum est; si de fide *implicita*, non est verum. Omnes enim salvandi exspectaverunt Redemptorem futurum, et etiam in suis sacrificiis et oblationibus hoc praefigurabant, in quibus omnibus significatur Christus offerendus. Unde quodam modo profitebantur *facto* occulte, quamvis *verbo* non proferrent manifeste[^p541-4]. Similiter non oportebat incarnationem *explicite* credere, sed sufficiebat credere, quod aliquis veniret, qui genus humanum redimere posset, sciret et vellet.
+
+4. Ad illud quod obiicitur, quod homines non tenentur nosse quod ignorant Angeli; dicendum, quod etsi Angeli mysterium incarnationis non cognoverunt ad plenum, tamen nullus fuit Beatorum[^p541-5], qui nesciret, genus humanum esse redimendum; et ideo ex hoc non concluditur, quod non oportuit fidem habere de Mediatore, sed quia non oportuit credere *explicite*, sed sufficiebat credere *implicite*.
+
+5. Ad illud quod obiicitur, quod omni tempore suffecit implere quod fuit de dictamine Legis illius, quae erat in illo statu; dicendum, quod hoc est verum, secundum quod hoc intelligitur de Lege *naturae* vel de Lege *Scripturae*, secundum quod est adiuta a dono gratiae. Sine enim dono gratiae in nulla Lege contingit ad salutem pervenire[^p541-6]. Quamvis autem Lex naturae, destituta auxilio gratiae, non possit aliquid dictare de ipso Mediatore; prout tamen est adiuta per gratiam, dum sentiebat infirmitatem suam et miseriam et advertebat Dei iustitiam et misericordiam, satis dictare poterat, quod homo reparatore indigebat, et quod divina bonitas dare disponebat. Unde semper fuerunt aliqui famosi Dei cultores ab initio mundi, qui haec profiterentur suis oblationibus, ad quorum aspectum et exemplum alii poterant erudiri.
+
+6. Ad illud quod ultimo obiicitur, quod non poterant illud scire per inventionem et doctrinam; iam patet responsio: quia divina gratia omnibus praesto erat, et natura ad hoc manuducere poterat ex consideratione suae miseriae et curvitatis et ex eruditione quadam generali, quam accipere poterant a viris, qui erant in cultu Dei famosi. Unde cum non esset tunc prophetia nec revelatio aperta; non tenebantur omnino ad fidem explicitam. Indubitanter tamen verum est, quod eis praesto erat notitia Mediatoris, quanta opportuna erat secundum exigentiam temporis, tum ex dictamine naturae tum ex aliena instructione tum etiam ex Dei inspiratione, qui se offert omnibus qui eum requirunt humiliter[^p541-7].
+
+### Scholion
+**I.** In hac et seq. quaestione nec non in toto 2. articulo multa dicuntur de explicatione fidei; quae, ut facilius intelligantur, opportunum videtur commemorare quasdam communiter receptas distinctiones. Sicut «occultum aliquid dicitur dupliciter: vel a parte cognoscentis, vel a parte rei cognitae» (infra a. 2. q. 2. ad 2.); ita etiam explicatio fidei considerari potest vel ex parte credentis, vel ex parte obiecti crediti sive articulorum. De explicatione fidei sumta in sensu secundo quaeritur infra a. 2. q. 1, utrum scilicet fides creverit quoad credendorum multitudinem; de eadem in primo sensu agitur infra a. 2. q. 2. 3. et etiam, licet alia ratione, in hac et seq. quaestione. Porro duplici modo aliquis potest fidem habere implicite: vel ita, ut implicetur cognitio alicuius articuli in alio articulo explicite cognito, quemadmodum in principiis universalibus scientiae implicantur conclusiones; vel ita, ut habeat scientiam implicatam in cognitione alterius scientis, ut discipulus respectu magistri, a quo per doctrinam potest scientiam accipere. Et bene observat S. Thom. (hic q. 1. a. 1. quaestiunc. 4. ad 1.), quod in hoc «non est simile de scientia et fide, quia non sunt nobis innata aliqua principia naturalia, ad quae possint reduci articuli fidei, sed tota determinatio fidei est in nobis per doctrinam; et ideo oportet in cognitione hominis habere fidem implicitam». Hoc principio respectu fidei simplicium utitur S. Bonav., hic in corp., et q. 3. praesertim ad 6.
+
+**II.** In hac 2. quaestione S. Bonav. distinguit statum ante lapsum a statu naturae lapsae; et cum antiqui doctores communius principalem incarnationis rationem a peccato Adami sumerent, multi etiam docebant, quod ante peccatum «sine Mediatore esset devenire in finem, scilicet Deum; ideo sufficiebat regula dirigens in finem, non in Mediatorem. Ad dirigendum vero in finem duo erant necessaria: scire, quod essemus ab ipso, et quod ad ipsum; ideo sufficiebat de Creatore omnium bonorum cum articulo de Remuneratore omnium bonorum. Sed post peccatum non est devenire in finem nisi per Mediatorem; ideo requirebatur regula dirigens in ipsum: oportuit ergo ex tunc, unum esse de Mediatore vel Redemptore articulum» (Pet. a Tar., hic q. 3. a. 1.). — Idem docet S. Thom., in Comment. (hic q. 2. a. 2. quaestiunc. 2.). Sed in Sum. (II. II. q. 2. a. 7. 8.) ipse cum Scoto tenet, Adam ante peccatum habuisse fidem explicitam incarnationis, quatenus ordinabatur ad consummationem gloriae, non ad liberationem a peccato. — Observatione dignae sunt graves rationes, a nostro Doctore hic contra Naturalismum et Rationalismum allatae. Praeter laudatos: Alex. Hal., de hac et seq. q. S. p. III. q. 69. m. 3. a. 1. 2. — Scot. hic q. 1. — B. Albert., hic a. 2. — Richard. a Med., hic a. 3. q. 1. 2. — Durand., de hac et seq. q. hic q. 1. — Dionys. Carth., de hac et seq. q. hic q. unica. — Biel, de hac et seq. q. hic q. unica.
+
+**III.** Respectu seq. (3.) quaestionis notandum, quod recentiores theologi communiter distinguunt credenda necessitate medii et necessitate praecepti; sed inter se controvertunt, utrum etiam necessitate medii post promulgatum Evangelium requiratur fides explicita mysterii Trinitatis et incarnationis. De sententia affirmativa dicit S. Alphonsus (Theolog. Moral. libr. II. n. 2.): «Est communior et videtur probabilior»; sed satis probabilem censet etiam negativam sententiam multorum et insignium theologorum, qui docent, fidem de hoc non nisi implicitam necessitate medii requiri. Ss. Bonav. et Thom. cum aliis antiquis sustinent quidem necessitatem explicite credendi saltem quatuor principales articulos de redemptione, quos Magister (hic c. 3. et cfr. hic dub. 2.) commemorat; sed non loquuntur praecise de necessitate medii; insuper potius respiciunt simplices Christianos, non eos quibus Evangelium non est praedicatum; respectu quorum verba eorum interpretari licet de fide implicita, ut insinuare videtur S. Thom., S., II. II. q. 2. a. 7. ad 3. — De hac (3.) quaestione praeter supra laudatos cfr. S. Thom., hic loc. cit. quaestiunc. 3. 4; S. III. q. 69. a. 4. ad 2. — B. Albert., hic a. 6. — Petr. a Tar., hic q. 3. a. 2. — Richard. a Med., hic a. 4. q. 1. 2.
+
+---
 
 ## English
 
-[Translation pending]
+### Question II. *Whether for those who came before the advent of Christ it sufficed for salvation to believe only those things which pertain to the Divinity.*
+
+Secondly there is inquiry concerning the sufficiency of faith as to those who came before the advent of Christ, and the question is whether for them it sufficed for salvation to believe only those things which pertain to the Divinity. And that it is so, it seems.
+
+1. To the Hebrews, chapter eleven[^p539-1]: *It is necessary that one approaching believe that he is, and that he is a rewarder*: if therefore the Apostle determines sufficiently that which was fitting for faith, it seems that it sufficed for them to believe that. But all that could be believed while believing nothing concerning the humanity of Christ: therefore it seems that at that time for salvation faith in the Divinity alone sufficed.
+
+2. Likewise, faith which sufficiently directs to hoping and loving suffices for salvation[^p539-2]; but the faith by which one believes God to be his creator and rewarder sufficiently directs him to hoping and loving: therefore it seems that, with all faith of the humanity excluded, faith in the Divinity alone sufficed for salvation.
+
+3. Likewise, many were saved without faith in the passion of Christ — for very few came before in the Old Testament who believed[^p539-3] that the Son of God was to be crucified for the salvation of the human race — if therefore they could be saved without faith in the passion, by the same reasoning [also] without faith in the incarnation: therefore also without faith in the Mediator.
+
+4. Likewise, no man is bound to know what the Angels are ignorant of; but before the advent of Christ the Angels were ignorant of the incarnation of Christ: therefore men were not bound to believe it. The major proposition is manifest in itself; the minor is proved through that which is said in Isaiah, chapter sixty-three[^p539-4]: *Who is this who comes from Edom?* there the Gloss: «It is openly declared that certain Angels, until it was fulfilled, did not know the mystery of the incarnation». And to the Ephesians, chapter three, it is said: *That it may be made known to the Principalities and Powers in the heavenly places*; and it can be had from several other passages. Hence Chrysostom in the first Homily on John: «We are greatly honored, in that together with us the Angels learned through the voice of John»; and the same is had in the Gloss on that passage to the Ephesians, chapter three: *What is the dispensation of the mystery hidden from the ages in God.*
+
+5. Likewise, he who fulfills in the evangelical Law that which is of its dictate attains to salvation, and likewise of the Mosaic Law: therefore by parity of reasoning he who fulfilled those things which were of the dictate of the Law of nature attained to salvation, according as the Apostle intimates to the Romans, chapter two[^p539-5]: therefore in the time of the Law of nature it was not necessary to believe for salvation, except what was of the dictate of nature. But that God should become incarnate and that there should be a future Mediator was not of the dictate of the Law
+
+of nature: therefore it does not seem that it was necessary to believe at that time.
+
+6. Likewise, no one is bound to do that to which his operative power cannot raise itself: therefore no one was bound to believe that whose knowledge he could not acquire either through discovery or through teaching[^p540-1]. If therefore in the time of the law of nature they could not by themselves discover knowledge of the Mediator, nor was there one who might teach externally, nor were there as yet prophetic revelations; it seems that at that time they were bound to believe nothing concerning the Mediator: therefore without faith in the Mediator they could attain to salvation.
+
+**Against this** there are many authorities, which the Master adduces in the text[^p540-2], and this same thing is shown by reason.
+
+1. Christ is the head of the whole Church, therefore no one can be saved unless he be made a member of Christ; but one cannot be made a member of Christ unless he believe in Christ: therefore without faith in the Mediator no one could ever be saved.
+
+2. Likewise, no one could enter heaven unless the gate were open; but the gate could not be opened except through the passion of Christ: therefore no one could be saved except by the merit of the passion of Christ. But the merit of the passion of Christ does not avail except for those in whom Christ dwells: if therefore Christ dwells through faith and charity, which is had toward him[^p540-3]; it was impossible for anyone to be saved without faith in the Mediator.
+
+3. Likewise, no one can be saved without the remission of original sin; but original sin cannot be remitted except through faith, or through some Sacrament of faith, which is a sign of the Mediator himself[^p540-4]: therefore no one could attain to salvation before the advent of Christ who did not believe in the Mediator.
+
+4. Likewise, no one can attain to salvation except one who hopes; no one rightly hopes except one who believes that he will attain to salvation through merits, because hope proceeds «from grace and merits[^p540-5]»: if therefore those who came before the advent of Christ were saved, they believed that they were saved through merits: either therefore they believed their *own* merits to suffice for themselves, or [believed themselves] to need the merits of *another*. If they believed their *own* [merits] to suffice for themselves: therefore they were puffed up and deceived, therefore they were not saved; if they believed themselves to need the merits of another: therefore they had faith concerning the Mediator: therefore no one could be saved after the fall without faith in the Redeemer.
+
+### Conclusion.
+
+> No one after the fall could be saved without faith in the Mediator, at least implicit.
+
+**I respond:** It must be said that, as the Master proves by many authorities in the text[^p540-6], after the fall of Adam no one could be saved without faith in the Mediator. For no one could be freed from that sin unless he believed in that Mediator, either he himself for himself, if he were an adult, or another for him, if he were a little child.
+
+And the reason of this is: that, since *grace and truth were made through Jesus Christ*[^p540-7], and the liberation from that sin is through the merits of Christ, and the merits of Christ do not extend except to those who are made his members and are joined to him through faith; just as it is impossible that anyone now be saved, unless he be joined to him either through faith, or through the Sacrament of faith: so also it was impossible, after the fall, for anyone to attain to salvation who in no way believed in Christ the mediator. But I say *in some way*, because faith in the Mediator can be had in two ways, namely *implicitly*, or *explicitly*: *explicitly*, as if someone believed that the Son of God would assume our humanity, would be born of the Virgin, would suffer on the Cross, would rise again on the third day, etc. And to believe in this manner *explicitly* was not fitting for all, but only for those to whom it had been revealed by God, as for the most holy Fathers[^p540-8]. — But to believe *implicitly* is to await a future redeemer, but in what manner and how this ought to be, to *believe* according as those believed to whom it has been revealed by the Lord; and this indeed was fitting for all.
+
+And this is what master Hugh of St. Victor says in the book *On the Sacraments*[^p540-9]: «These are, he says, the things which right faith from the beginning could never have any less of, namely to believe that there is one God, the creator of all things and the ruler of the universe;
+
+that he indeed is not the author of evil, yet [is the author of good things] of those who in their evils sought his mercy and awaited a future redeemer. This we believe to have sufficed for the faith of the simple in the beginning; and yet we say that they most truly had in this [implicit faith] faith in his nativity, passion, resurrection, and ascension, because they clung [to it] with faith and devotion, believing and knowing this». — Thus therefore it must be granted that no one after the fall could be saved without faith in the Mediator; of which, because the philosophers lacked it, clinging to their own merits and virtues, therefore as proud and separated from the members and merits of Christ, they were excluded from the joys of paradise[^p541-1]. — The reasons adduced for this side are therefore to be granted.
+
+1. To that, then, which is objected first concerning the authority of the Apostle, it must be said that the Apostle does not precisely intend to determine the whole that is necessary for salvation, but that without which there can be no salvation. For he says that this is *fitting*, but he does not say that this is *sufficient*. And he touches upon those two especially, because they were necessary for every state of nature, not only for the state of fallen nature, but also for the state of innocence[^p541-2].
+
+2. To that which is objected, that faith in the Creator and Rewarder sufficiently directs to hoping and loving; it must be said that this is false according to the state of *fallen* nature, because, since hope proceeds from merits, as was touched upon in the [arguments] opposing[^p541-3], if someone were to hope to be saved by his own merits, without the merits of the Mediator, he would not rightly hope, but rather presume. Therefore hope is not sufficiently directed through faith in the Creator and Rewarder; likewise neither is charity, because we ought to love not only because [he is] Creator and Rewarder, but more because [he is] Redeemer.
+
+3. To that which is objected, that many were saved without faith in the passion; it must be said that if we speak of *explicit* faith, it is true; if of *implicit* faith, it is not true. For all who were to be saved awaited a future Redeemer, and also in their sacrifices and oblations prefigured this, in all of which Christ to be offered is signified. Hence in a certain way they professed it *by deed* secretly, although *by word* they did not utter it openly[^p541-4]. Likewise it was not necessary to believe the incarnation *explicitly*, but it sufficed to believe that someone would come who could, would know how, and would will to redeem the human race.
+
+4. To that which is objected, that men are not bound to know what the Angels are ignorant of; it must be said that even if the Angels did not know the mystery of the incarnation fully, yet there was none of the Blessed[^p541-5] who did not know that the human race was to be redeemed; and therefore from this it is not concluded that it was not necessary to have faith concerning the Mediator, but that it was not necessary to believe *explicitly*, but it sufficed to believe *implicitly*.
+
+5. To that which is objected, that in every time it sufficed to fulfill what was of the dictate of that Law which was in that state; it must be said that this is true, according as this is understood of the Law of *nature* or of the Law of *Scripture*, according as it is aided by the gift of grace. For without the gift of grace it does not befall [anyone] in any Law to attain to salvation[^p541-6]. But although the Law of nature, destitute of the help of grace, cannot dictate anything concerning the Mediator himself; yet insofar as it is aided through grace, when it perceived its own infirmity and misery and noticed the justice and mercy of God, it could sufficiently dictate that man needed a repairer, and that the divine goodness was disposed to give [it]. Hence there were always certain renowned worshippers of God from the beginning of the world, who professed these things by their oblations, at whose sight and example others could be instructed.
+
+6. To that which is objected last, that they could not know that through discovery and teaching; the response is already evident: because divine grace was at hand for all, and nature could lead them to this by the consideration of its own misery and crookedness and by a certain general instruction, which they could receive from the men who were renowned in the worship of God. Hence since there was not then prophecy nor open revelation; they were not bound altogether to explicit faith. Yet it is undoubtedly true that knowledge of the Mediator was at hand for them, as much as was fitting according to the exigency of the time, both from the dictate of nature and from instruction by another and also from the inspiration of God, who offers himself to all who seek him humbly[^p541-7].
+
+### Scholion
+**I.** In this and the following question, as also in the whole second article, many things are said concerning the explication of faith; which, that they may be more easily understood, it seems fitting to recall certain commonly received distinctions. Just as «something is said to be hidden in two ways: either on the side of the knower, or on the side of the thing known» (below a. 2. q. 2. ad 2.); so also the explication of faith can be considered either on the side of the believer, or on the side of the object believed, that is, of the articles. Concerning the explication of faith taken in the second sense there is inquiry below a. 2. q. 1, namely whether faith grew as to the multitude of things to be believed; concerning the same in the first sense it is treated below a. 2. q. 2. 3. and also, though by another reasoning, in this and the following question. Furthermore, in two ways can someone have faith implicitly: either so that the knowledge of one article is implied in another article explicitly known, just as in universal principles the conclusions of a science are implied; or so that he have a knowledge implied in the knowledge of another who knows, as a disciple with respect to a master, from whom through teaching he can receive knowledge. And St. Thomas well observes (here q. 1. a. 1. quaestiunc. 4. ad 1.) that in this «it is not the same with science and faith, because there are not innate in us any natural principles to which the articles of faith can be reduced, but the whole determination of faith is in us through teaching; and therefore it is necessary in the knowledge of man to have implicit faith». St. Bonaventure uses this principle with respect to the faith of the simple, here in the body, and q. 3, especially ad 6.
+
+**II.** In this second question St. Bonaventure distinguishes the state before the fall from the state of fallen nature; and since the ancient doctors more commonly took the principal reason of the incarnation from the sin of Adam, many also taught that before sin «there was the attaining of the end, namely God, without a Mediator; therefore a rule directing to the end, not to the Mediator, sufficed. But for directing to the end two things were necessary: to know that we were from him, and that [we were ordered] to him; therefore [the article] concerning the Creator of all good things together with the article concerning the Rewarder of all good things sufficed. But after sin there is no attaining to the end except through the Mediator; therefore a rule directing to him was required: it was necessary therefore from then on that there be an article concerning the Mediator or Redeemer» (Pet. a Tar., here q. 3. a. 1.). — The same St. Thomas teaches in the *Commentary* (here q. 2. a. 2. quaestiunc. 2.). But in the *Summa* (II–II q. 2. a. 7. 8.) he himself with Scotus holds that Adam before sin had explicit faith of the incarnation, insofar as it was ordered to the consummation of glory, not to the liberation from sin. — Worthy of note are the weighty arguments brought forward here by our Doctor against Naturalism and Rationalism. Besides those already cited: Alex. of Hales, on this and the following q., *Summa* p. III. q. 69. m. 3. a. 1. 2. — Scotus here q. 1. — B. Albert here a. 2. — Richard of Middleton here a. 3. q. 1. 2. — Durand., on this and the following q., here q. 1. — Dionysius the Carthusian, on this and the following q., here q. unica. — Biel, on this and the following q., here q. unica.
+
+**III.** With respect to the following (third) question it must be noted that more recent theologians commonly distinguish things to be believed by necessity of means and by necessity of precept; but they dispute among themselves whether even by necessity of means, after the Gospel has been promulgated, explicit faith of the mystery of the Trinity and of the incarnation is required. Of the affirmative opinion St. Alphonsus says (*Theologia Moralis* libr. II. n. 2.): «It is more common and seems more probable»; but he judges sufficiently probable also the negative opinion of many and distinguished theologians, who teach that faith of this is required by necessity of means only as implicit. Sts. Bonaventure and Thomas with the other ancients indeed maintain the necessity of explicitly believing at least the four principal articles concerning the redemption, which the Master (here c. 3 and cf. here dub. 2) recalls; but they do not speak precisely of the necessity of means; moreover they rather regard simple Christians, not those to whom the Gospel has not been preached; with respect to whom it is permitted to interpret their words of implicit faith, as St. Thomas seems to insinuate, *Summa* II–II q. 2. a. 7. ad 3. — On this (third) question, besides those cited above, cf. St. Thomas, here loc. cit. quaestiunc. 3. 4; *Summa* III. q. 69. a. 4. ad 2. — B. Albert, here a. 6. — Petr. a Tar., here q. 3. a. 2. — Richard of Middleton, here a. 4. q. 1. 2.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. **La.** gives the Quaracchi editors' Latin note; **En.** gives its English rendering. The footnote numbering restarts on each printed page (`p539`, `p540`, `p541`), per the Quaracchi convention. The Scholion (I–III) uses inline cross-references only and carries no numbered footers; p.542's footer band belongs to QUAESTIO III (d25-a1-q3).
+
+[^p539-1]: **La.** Vers. 6: *Credere enim oportet accedentem ad Deum, quia est et inquirentibus se remunerator sit.* — In fine arg. pro *temporis ad salutem* codd. A K *ipsis*.
+    **En.** Verse 6: *For it is necessary that one approaching God believe that he is, and that he is a rewarder to those who seek him.* — At the end of the argument, for *temporis ad salutem* codices A K read *ipsis*.
+
+[^p539-2]: **La.** Cfr. supra lit. Magistri, d. XXIII. c. 3. seq., et Comment. a. 1. q. 1. ac dub. 3. — Post *amandum* edd. supplent *Deum*.
+    **En.** Cf. above, the text of the Master, d. XXIII. c. 3. seq., and the Commentary a. 1. q. 1. and dub. 3. — After *amandum* the editions supply *Deum*.
+
+[^p539-3]: **La.** Edd. *crediderunt*.
+    **En.** The editions read *crediderunt* ("believed").
+
+[^p539-4]: **La.** Vers. 1. — De Glossa, quae est ordinaria et sumta ex Hieronymo, vide supra pag. 57, nota 7. — Seq. Scripturae locus est Eph. 3, 10. — Verba Chrysostomi habentur in homil. allegata (codd. et edd. *homilia 5.*) n. 2. — Glossa, quae deinde affertur super Eph. 3, 9, apud Petr. Lombard. sic sonat: *Et videte, quantum hoc est, quia per hoc aliquid accrevit Angelis, qui multa secreta in his didicerunt.* Strabus hanc Glossam exhibet ad vers. 10. — Pro *mysterii* Vat. et nonnulli codd. *ministerii*, Vulgata *sacramenti*.
+    **En.** Verse 1. — Concerning the Gloss, which is the ordinary [Gloss] and taken from Jerome, see above, page 57, note 7. — The following Scripture passage is Eph. 3, 10. — The words of Chrysostom are had in the homily cited (codices and editions: *homily 5*) n. 2. — The Gloss, which is then adduced on Eph. 3, 9, in Peter Lombard reads thus: *And see how great this is, because through this something accrued to the Angels, who learned many secrets in these things.* Strabo presents this Gloss at verse 10. — For *mysterii* the Vatican edition and some codices [read] *ministerii*, the Vulgate *sacramenti*.
+
+[^p539-5]: **La.** Vers. 14. seq. — In initio arg. edd. pro *in Lege* posuerunt *de Lege*, et infra *nisi quod erat de dictamine Legis naturae* pro *nisi quod erat de dictamine naturae*. Deinde circa finem arg. edd. post *quod oportebat* inseruerunt *hoc*.
+    **En.** Verse 14. seq. — At the beginning of the argument the editions, for *in Lege*, put *de Lege*, and below *nisi quod erat de dictamine Legis naturae* for *nisi quod erat de dictamine naturae*. Then near the end of the argument the editions, after *quod oportebat*, inserted *hoc*.
+
+[^p540-1]: **La.** Vide supra pag. 329, nota 10. — Maior innititur regulae 6. iuris (libr. V. Sexti Decret. in fine): *Nemo potest ad impossibile obligari.*
+    **En.** See above, page 329, note 10. — The major [premise] rests on the 6th rule of law (book V of the Sext, at the end): *No one can be obligated to the impossible.*
+
+[^p540-2]: **La.** Hic c. 1. Cfr. etiam supra pag. 236, nota 10. — De arg. seq., in cuius minori edd. post *non potest* subdunt *quis*, vide supra d. 13. a. 2. q. 3.
+    **En.** Here c. 1. Cf. also above, page 236, note 10. — Concerning the following argument, in whose minor [premise] the editions add *quis* after *non potest*, see above, d. 13. a. 2. q. 3.
+
+[^p540-3]: **La.** Vide supra lit. Magistri, d. XXIII. c. 3. De praecedentibus cfr. supra d. 18. a. 2. p. 3; d. 19. a. 1. q. 1. seqq. nec non ibid. dub. 2.
+    **En.** See above, the text of the Master, d. XXIII. c. 3. Concerning the preceding [arguments] cf. above, d. 18. a. 2. p. 3; d. 19. a. 1. q. 1. seqq. and also there, dub. 2.
+
+[^p540-4]: **La.** Cfr. supra d. 20. q. 4.
+    **En.** Cf. above, d. 20. q. 4.
+
+[^p540-5]: **La.** Ut Magister ait infra d. XXVI. c. 1. Cfr. ibid. dub. 2.
+    **En.** As the Master says below, d. XXVI. c. 1. Cf. there, dub. 2.
+
+[^p540-6]: **La.** Hic c. 1. — *Utrum fides parentum sufficiat ad delendum originale peccatum in parvulis, an non*; haec quaestio fusius tractatur IV. Sent. d. 1. p. II. a. 1. q. 1. seq. — Inferius Vat. bis voci *peccato* adiungit *originali*.
+    **En.** Here c. 1. — *Whether the faith of the parents suffices for blotting out original sin in little children, or not*; this question is treated more fully IV. Sent. d. 1. p. II. a. 1. q. 1. seq. — Below the Vatican edition twice adds *originali* to the word *peccato*.
+
+[^p540-7]: **La.** Ioan. 1, 17. — Paulo inferius pro *nunc aliquem* plurimi codd. et edd. 1, 2 *nunc aliter* (cod. lv a secunda manu *nunc aliquem*). Deinde post *sic et impossibile fuit* edd. inserunt *tunc*.
+    **En.** John 1, 17. — A little below, for *nunc aliquem* very many codices and editions 1, 2 [read] *nunc aliter* (codex lv, by a second hand, *nunc aliquem*). Then after *sic et impossibile fuit* the editions insert *tunc*.
+
+[^p540-8]: **La.** Cfr. hic lit. Magistri, c. 2, ubi etiam seq. propos. explicatur, quam Vat., a codd. recedens, sic immutavit: *Implicite vero credere, est credere Redemptorem venturum taliter et eo modo, qualiter et quo modo illi credebant* etc. Etiam edd. 1, 2 hanc propos. aliquantulum mutarunt. Etenim post *Redemptorem futurum* posito puncto, sic prosequuntur: *Quaeritur autem, qualiter et quomodo debeat esse hoc credere; dico, quod hoc credere esse debet, secundum quod illi credebant* etc. Post *hoc debeat* [codd. A K *debebat*] *esse* cod. C interiicit *sufficiebat*, cod. bb *est*. Subinde pro *secundum quod* codd. A Q (N a secunda manu) *scilicet quod*, et post pauca pro *est revelatum* cod. A K *erat revelatum*. In lectione codd. *exspectare* etc. et *credere secundum* etc. sunt membra coordinata.
+    **En.** Cf. here the text of the Master, c. 2, where the following proposition is also explained, which the Vatican edition, departing from the codices, thus altered: *But to believe implicitly is to believe that the Redeemer will come in such a way and in that manner, in which way and in what manner those believed*, etc. The editions 1, 2 also altered this proposition somewhat. For after *Redemptorem futurum*, having placed a period, they continue thus: *But it is asked in what way and how this believing ought to be; I say that this believing ought to be according as those believed*, etc. After *hoc debeat* [codices A K *debebat*] *esse* codex C interjects *sufficiebat*, codex bb *est*. Then for *secundum quod* codices A Q (N by a second hand) [read] *scilicet quod*, and after a little, for *est revelatum* codices A K [read] *erat revelatum*. In the reading of the codices, *exspectare* etc. and *credere secundum* etc. are coordinate members.
+
+[^p540-9]: **La.** Libr. I. p. X. c. 7. In textu origin. post *suffecisse credimus* plura inveniuntur, quae hic desunt; simulque ibi pro *ascensionis suae* habetur *ascensionis eius*, et locus sic terminatur: *et scientibus haec fide et devotione sub spe et exspectatione eiusdem redemptionis adhaeserunt.*
+    **En.** Book I. p. X. c. 7. In the original text after *suffecisse credimus* several things are found which are lacking here; and at the same time there for *ascensionis suae* there is *ascensionis eius*, and the passage ends thus: *and they clung [to it], knowing these things with faith and devotion, under the hope and expectation of the same redemption.*
+
+[^p541-1]: **La.** August., Epist. 164. (alias 99.) c. 2. n. 4: *Quae quidem omnia [parcimonia, continentia etc.], quando non referuntur ad finem rectae veraeque pietatis, sed ad fastum inanem humanae laudis et gloriae, etiam ipsi inanescunt quodam modo steriliaque redduntur; verumtamen quadam indole animi ita delectant, ut eos, in quibus haec fuerunt, vellemus vel praecipue vel cum ceteris ab inferni cruciatibus liberari, nisi aliter se haberet sensus humanus, aliter iustitia Creatoris.*
+    **En.** Augustine, Epist. 164 (alias 99) c. 2. n. 4: *All which things indeed [frugality, continence, etc.], when they are not referred to the end of right and true piety, but to the empty pride of human praise and glory, even themselves become empty in a certain way and are rendered sterile; yet by a certain quality of mind they so delight that we would wish those in whom these things were, either especially or along with the rest, to be freed from the torments of hell, were not the human sense disposed one way, the justice of the Creator another.*
+
+[^p541-2]: **La.** Alex. Hal., S. p. III. q. 69. m. 3. a. 1. ad eandem obiectionem respondet sic: *Dicendum, quod Apostolus ista duo ponit sicut principia ad omnes articulos, scil. oportet credere, quia est et quia remunerator est; omnes enim articuli reducuntur ad fidem, qua creditur ἀ et ω, principium et finis* (Apoc. 1, 8.). *Et haec duo sunt, quae propinquiora sunt nobis quantum ad cognitionem, et per quorum cognitionem manuducimur et elevamur ad cognitionem aeternorum, sicut patet conferenti singulos.* Hinc ergo est, quod Apostolus ponit hos principaliter *quia est*, id est principium conditionis, et *quia est remunerator*, hoc est finis beatitudinis.
+    **En.** Alex. of Hales, *Summa* p. III. q. 69. m. 3. a. 1, responds to the same objection thus: *It must be said that the Apostle sets down those two as principles for all the articles, namely it is necessary to believe that he is and that he is a rewarder; for all the articles are reduced to faith, by which is believed the Alpha and Omega, the beginning and the end* (Apoc. 1, 8). *And these are the two things which are nearer to us as to knowledge, and through the knowledge of which we are led and elevated to the knowledge of eternal things, as is evident to one comparing them individually.* Hence therefore it is that the Apostle sets these down principally [as] *that he is*, that is, the beginning of [our] making, and *that he is a rewarder*, that is, the end of [our] beatitude.
+
+[^p541-3]: **La.** In fundamento 4. Cfr. supra d. 24. a. 1. q. 1. ad 4. — Paulo inferius pro *et Remuneratoris* edd. 1, 2 cum multis codd. perperam *et Mediatoris*.
+    **En.** In fundamentum 4. Cf. above, d. 24. a. 1. q. 1. ad 4. — A little below, for *et Remuneratoris* the editions 1, 2 with many codices wrongly [read] *et Mediatoris*.
+
+[^p541-4]: **La.** Cfr. IV. Sent. d. 1. p. II. a. 1. q. 3. — Aliquanto superius pro *si de fide* codd. A F H I K L T V aa bb *sed de fide*, et deinde pro *significatur* codd. A N U *significabatur*, edd. *figuratur*.
+    **En.** Cf. IV. Sent. d. 1. p. II. a. 1. q. 3. — Somewhat above, for *si de fide* codices A F H I K L T V aa bb [read] *sed de fide*, and then for *significatur* codices A N U [read] *significabatur*, the editions *figuratur*.
+
+[^p541-5]: **La.** Codd. H I L Z *bonorum*.
+    **En.** Codices H I L Z read *bonorum* ("of the good").
+
+[^p541-6]: **La.** Cfr. II. Sent. d. 29. a. 1. q. 1. seq. — Mox pro *possit* codd. A K U *posset*. — Aliquanto inferius pro *famosi* cod. Z *famosissimi*.
+    **En.** Cf. II. Sent. d. 29. a. 1. q. 1. seq. — Soon, for *possit* codices A K U read *posset*. — Somewhat below, for *famosi* codex Z reads *famosissimi* ("most renowned").
+
+[^p541-7]: **La.** Psalm. 144, 18: *Prope est Dominus omnibus invocantibus eum* etc.
+    **En.** Psalm 144, 18: *The Lord is near to all who call upon him*, etc.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol3-p{539,540,541}-{L,R}-*.png`) over the IA djvu OCR base (raw lines 37486–37712). Vol III PDF-priority inversion applied to the cascade-fragmented Respondeo / Solutio bands (pp.540–541) and the SCHOLION (pp.541–542). PDF = printed + 22 (printed p.539 = PDF 561; running head `DIST. XXV. ART. I. QUAEST. II. 541` confirmed eyes-on at p.541-R top).
+
+**Alignment check — PASS.** q2's opener reads *Secundo quaeritur de fidei sufficientia quantum ad eos qui praecesserunt adventum Christi, et quaeritur, utrum eis suffecerit ad salutem credere ea tantum, quae spectant ad Divinitatem* — the pre-Christ-believers / Divinity-alone question, matching the title. No q-swap.
+
+**Title verified eyes-on** on p.539 below the QUAESTIO II header: *Utrum eis qui praecesserunt adventum Christi, suffecerit ad salutem credere ea tantum, quae spectant ad Divinitatem.*
+
+**Scholion (3 sections, I–III).** The printed SCHOLION (atop p.542 — running head `[5]42 SENTENTIARUM LIB. III` confirms a fresh page after p.541) has three sections: §I (the antecedent distinctions on the *explicatio fidei* — the two senses of "hidden," the two modes of implicit faith, with S. Thomas on science-vs-faith); §II (St. Bonaventure's pre-lapsum / fallen-nature distinction, the ancient doctors' Mediator-article from the sin of Adam, Pet. a Tar. + S. Thomas Comment.-vs-Summa + the anti-Naturalism/Rationalism note + parallel authors); §III (concerns the *following* third question — the necessity-of-means vs necessity-of-precept distinction, S. Alphonsus, and q.3 parallel authors). The scholion uses **inline cross-references only — no superscript footnote markers**. Placed LAST in both language blocks (parser requirement, body-then-scholion). §I–II gloss this q2; §III previews q3.
+
+**Page-split map (pp.539–542):**
+- **p.539** = top of both columns finishes q1's scholion §III–IV; QUAESTIO II header (spanning) + title + body opener + args pro 1–3 (L col) / args pro 4–5 (R col; arg 5 breaks at *…non erat de dictamine Le-* / foot).
+- **p.540** = arg 5 completes (*…gis naturae*) + arg 6 (L col) + *Contra hoc* + Fundamenta 1–4 (L col); CONCLUSIO + Respondeo (R col; opens *Dicendum, quod… post lapsum Adae nullus salvari potuit* + the implicite/explicite distinction + Hugo de S. Victore quote opener *Haec sunt… unum esse Deum, creatorem omnium et rectorem universorum;* / foot).
+- **p.541** = Hugo quote completes + Epilogus (*Sic igitur concedendum est… exclusi sunt a gaudiis paradisi*) + Solutio ad 1 + ad 2 + ad 3 (L col, breaks *…Similiter non opor-*); ad 3 tail + ad 4 + ad 5 + ad 6 (R col; ends *…qui se offert omnibus qui eum requirunt humiliter*).
+- **p.542** = SCHOLION §I–III (fresh page; q2 body closed at the foot of p.541-R). p.542's footer band = QUAESTIO III's argument footers (q3 args begin lower p.542) → forwarded to d25-a1-q3.
+
+**Apparatus 21 entries**, NOTAE AD COMMENTARIUM, per-page restart (verified eyes-on, both columns each page):
+- **p.539 ×5** (`[^p539-1..5]`): n.1 Hebr. 11,6 + *ipsis* variant (arg pro 1) / n.2 supra lit. Magistri d.XXIII + *Deum* supplement (arg pro 2) / n.3 edd. *crediderunt* (arg pro 3) / n.4 Isaiah 63 Gloss + Eph. 3,10/3,9 + Chrysostom homily + *ministerii/sacramenti* variants (arg pro 4) / n.5 Rom. 2,14 + *in Lege/de Lege* edition variants (arg pro 5).
+- **p.540 ×9** (`[^p540-1..9]`): n.1 *Nemo potest ad impossibile obligari* rule of law (arg pro 6) / n.2 hic c.1 + supra d.13 (Contra opener) / n.3 supra lit. Magistri d.XXIII + d.18/d.19 (Fundamentum 2) / n.4 supra d.20 (Fundamentum 3) / n.5 Magister d.XXVI on *ex gratia et meritis* (Fundamentum 4) / n.6 hic c.1 + IV.Sent. parent-faith question + *originali* (Respondeo opener) / n.7 John 1,17 + *nunc aliter* + *tunc* variants (*gratia et veritas*) / n.8 the long lit.-Magistri c.2 note on the Vatican/edition recensions of *Implicite credere* (sanctissimis Patribus clause) / n.9 Hugo *de Sacramentis* I. p. X. c. 7 textual note (Hugo quote).
+- **p.541 ×7** (`[^p541-1..7]`): n.1 Augustine Epist. 164 on works not referred to true piety (paradise-exclusion clause) / n.2 Alex. Hal. on the *quia est / quia remunerator* principles (ad 1) / n.3 *In fundamento 4* + supra d.24 + *et Mediatoris* error (ad 2) / n.4 IV.Sent. + *sed de fide / significabatur / figuratur* variants (ad 3) / n.5 codd. *bonorum* (ad 4, Beatorum clause) / n.6 II.Sent. d.29 + *posset / famosissimi* variants (ad 5) / n.7 Psalm 144,18 (ad 6 close).
+
+**Footer ownership / hand-offs.**
+- IN: **p.539's FULL NOTAE band (nn.1–5) migrated IN from q1** — q1's scholion §I–IV carries no numbered footers (inline cross-refs only), and the d25-a1-q1 hand-off documented that p.539's footer notes are q2's argument footers. Confirmed eyes-on: p.539 L-col nn.1–4 + R-col n.5 all gloss q2's args pro 1–5. Plus all p.540 (nn.1–9) + p.541 (nn.1–7) NOTAE.
+- OUT: **p.542's footer band belongs to d25-a1-q3 (QUAESTIO III).** The scholion §I–III carries NO numbered footers; q2 places no `[^p542-N]`. p.542's notes 1–2+ are QUAESTIO III's argument footnotes (*Deuteronomii vigesimo septimo¹*, *Levitici decimo quarto²*, etc.). q2 takes none of p.542's footers.
+
+**Seam.**
+- *Open:* QUAESTIO II raw 37486, continuous after q1's scholion §IV close at raw 37485 (*…Durand., hic q. 2. — Biel, hic q. unica*).
+- *Close:* scholion §III ends at raw 37712 (*…Richard. a Med., hic a. 4. q. 1. 2.*), immediately before QUAESTIO III header raw 37713.
+
+**No [?] flags.** 450 dpi legible throughout. Running heads OCR digit-mangled (`840`=540 in the L-2 footer band region of p.540, `342`=542 atop the scholion page; `DIST. XXV. ART. I. QUAEST. II. 541` clean on p.541) — trusted via the +22 offset and running-head text, not the OCR'd digits.
+
+**HAND-OFF TO d25-a1-q3.** **bon-sent-III-d25-a1-q3** = DISTINCTIO XXV, ARTICULUS I, QUAESTIO III — *Utrum omnes teneantur credere omnes articulos explicite post adventum Christi* ("Whether all are bound to believe all the articles explicitly after the advent of Christ"; title verified eyes-on at the QUAESTIO III header). This is the **LAST question of ARTICULUS I** (*De fidei sufficientia*); after it comes **ARTICULUS II QUAEST. I** at raw ~**37873** (running head `DIST. XXV. ART. II. QUAEST. I.`). `type: quaestio`, `articulus: 1`, `quaestio: 3`, `has_apparatus: true`, apparatus = `NOTAE AD COMMENTARIUM`, **VERIFY `has_scholion` eyes-on** — q2's scholion §III already previews q3 (the necessity-of-means/precept distinction), so q3 may carry NO standalone scholion (check for a *Vide scholion ad praecedentem quaest.* footer redirect, or a printed SCHOLION between q3's solutio and ARTICULUS II raw ~37873). **Raw anchors:** QUAESTIO III header raw **37713**; title raw 37714; body opener *Tertio quaeritur de sufficientia fidei quantum ad eos qui adventum Christi sunt subsecuti, et est quaestio, utrum omnes teneantur credere omnes articulos explicite post adventum Christi. Et quod sic, videtur.* raw ~37716; args pro open *1. Deuteronomii vigesimo septimo: praecipitur, quod Lex lucide et aperte scribatur super lapides…* **Body range:** raw 37713 → up to ARTICULUS II QUAEST. I header raw ~**37873** (verify by grep `ARTICULUS`/`QUAESTIO` from 37713). **Page span:** QUAESTIO III args begin lower **p.542** (after the scholion §I–III); runs onto p.543+. pdf = printed + 22. **Footer migration: IN** = p.542's FULL NOTAE band (q2 placed no `[^p542-N]` — the scholion has no footers; p.542's nn.1–2+ gloss q3's args *Et scribes super lapides¹* Deut. 27,8 / *Glossa ex Hesychio²* Levit. 14,10) + all p.543+ NOTAE through the ARTICULUS II boundary, per-page restart. **Footers OUT from q2:** none beyond p.541. Generate `extract-pages.py --volume vol3 --pages 542-5NN --dpi 450` (542 not yet cropped) + `colcrop.py vol3 542…`. Template = `vol3/bon-sent-III-d25-a1-q1.md` (sibling) or `vol3/bon-sent-III-d24-a1-q3.md` (the no-scholion redirect pattern).
