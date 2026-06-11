@@ -4,225 +4,178 @@ volume: 3
 book: 3
 distinctio: 29
 type: littera
-line_start: 44141
-line_end: 44341
-word_count_latin: 2588
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Distinctio XXIX — textus Magistri Sententiarum"
+title_en: "Distinction XXIX — text of the Master of the Sentences"
+printed_pages: [635, 636, 637]
+pdf_pages: [657, 658, 659]
+source: "Petri Lombardi Sententiarum Libri IV, Liber III, Dist. XXIX (as printed in S. Bonaventurae, Opera Omnia, Tomus III, Quaracchi 1887, pp. 635–637)"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (/tmp/colcrop/vol3-p{635,636,637}-{L,R}-*.png), IA djvu OCR base (raw 44141–44287) for clean running prose, fresh literal English translation, full NOTAE AD LIBR. SENTENTIARUM apparatus from PDF footers (14 entries: p.635 → 2, p.636 → 10, p.637 → 2); Cap. I–III confirmed eyes-on (three chapters); no inline ambiguity flags (2026-06-11)"
 format_version: 1
 ---
 
-# bon-sent-III-d29-littera
+# III Sent., d. 29 — Littera Magistri
+## *Distinctio XXIX — text of the Master of the Sentences*
+
+---
 
 ## Latin
+<!-- page 635 -->
 
-DISTINCTIO XXIX.
+### DISTINCTIO XXIX.
 
-                                        Cap. I.                                                                   Cap. II.
+### Cap. I. *De ordine diligendi, quid prius, quid posterius.*
 
-               De ordine diligendi, quid prius, quid posL                                 An omnes homines pariter diligendi sunt.
+Post praedicta de *ordine* caritatis agendum est, quia dicit sponsa[^p635-1]: *Introduxit me rex in cellam vinariam et ordinavit in me caritatem.* Videamus igitur ordinem, quid prius, quid posterius esse debeat. Peccat enim qui praepostere agit. Nam scire, quid facias, et nescire ordinem faciendi non est perfectae cognitionis. Ordinis namque ignorantia conturbat meritorum formam. Ordinem autem diligendi Augustinus[^p635-2] insinuat dicens: «Ipse est qui ordinatam habet dilectionem, ne aut *diligat* quod non est diligendum, aut *non diligat* quod diligendum est, aut *aeque diligat* quod minus vel amplius diligendum est, aut *minus vel amplius* quod aeque diligendum est. Omnis *peccator,* in quantum peccator est, non est diligendus; et omnis *homo,* in quantum homo est, diligendus est propter Deum; *Deus* vero propter se ipsum. Et Deus omni *homine amplius* diligendus est; et *amplius* quisque Deum debet diligere quam *se ipsum.* Item, *amplius* alius *homo* diligendus est quam *corpus* nostrum, quia propter Deum omnia ista diligenda sunt, et potest nobiscum Deo perfrui, quod non potest *corpus,* quia corpus per animam vivit, qua fruimur Deo». — Audisti aliqua de ordine caritatis, ubi expressum est, nos amplius debere diligere Deum quam omnes homines, vel nos ipsos, et amplius animam alicuius hominis quam corpus nostrum. In enumeratione etiam quatuor diligendorum, superius[^p635-3] posita, prius ponitur quod *supra nos* est; secundo, quod *nos* sumus; tertio, quod *iuxta nos* est; quarto, quod *infra nos* est. Ubi ordo diligendi insinuari videtur ex ratione enumerationis. Non est autem apertum, utrum omnes homines *pariter* debeamus diligere et tantum, quantum nos, vel minus.
 
-               Post praedicta de urdine cariiatis agendum est,                          Unde super boc saepe movelur quaeslio, quam
-            quia dicit sponsa ' : Introduxil me rex in cellam vi-                 perplexam faciunt Sanctorum verba varie prolata. — opimo i.
-            nariam ei ordinacit in nie caritatem. Yideamus igilur                 Quidam enim Iradere videntur, quod pari affecfu onnies
-            ocdineni, (|iiid prius, quid posterius esse debeal. Pec-              diligeudi sint; sed iu effeclu, id est in exbibitione
-Dubiam I.
-            cat enim qui praepostere agil. Nain scire, quid facias,               obsequii, distinctio obscrvanda sit. Unde Augiistinus 4: Aognstinos.
-            el neseire nrdinem faciondi non csl perfectae eognitio-                « Omnes bomines aeque diligendi sunt. Sed cum omni-
-            nis. Ordinis namque ignoranlia conturbat incriiorum                   bus prodesse nou possis, bis polissiinum consulendum
-AogasiiDus. formam. Ordinem aulem diligendi Aiiguslinus • insinuat                csl, qui pro locorum ct lemporum vel quarumlibet
-            dicens: «Ipse est qui ordinatam habet dilectionem,                    rerum opporlunilalibus constrictius tibi quasi quadam
-            no aut dilit/al (piod non cst diligcnduin , aut non di-               sorte iunguntiir. Pro sorte enini habendum est, quo
-            ligal quod diligendum esl, aut aeijue diligat quod                    quisque libi teinporaliter colligatius adhaeret, ex quo
-            minus vel amplius diligenduni esl, aut minus velam-                   cligis polius illi danduni esse ». Idem super Epistolam
-            plius quod aequc diligendum est. Omnis peccalur, in                   ad Galatas": Operemur bonum ad omnes, maxime
-            quantum peccatOr est, non est diligendus; ct omnis                    aulem ad domeslicos fidei, id est ad Cbrislianos :
-            homo . in i|uantum homo esl , diligendus esl proplcr                   «Omnibus enim pari dilectionc vila aelerna optanda
-            Deum; Deus vero propter se ipsum. Et Deus omiii                       est, etsi non omnibns eadem possunt exhiberi dile-
-            /lomini' amplius diligendus est; et amplius quisquc                   etionis ollicia, quae fratribus niaximc sunt exhibenda,
-            Deum debct diligere quam se ipsurn. Itein, amplius                    quia sunl invieem meinbra, qui liabent cundem Pa-
-            alius homo diligendus est quam corpus nostrum, quia                   trem». — His aliisque leslimoniis innituntur qui di-
-            propler Deum oinnia isla diligenda sunt, et potest nobis-             cuut, omncs liomines pariler diligendos esse caritalis
-            cum Deo perfrui, qnod non potest corpus, quia eorpus                  affectu, sed in operis exhibilione differentiam faciunt6.
-            per animam vivii, qua fruiinur Deo». — Audisti aliqna de                   Quibus obviat illud praeceptum Legis ? de dili- opinio i.
-            ordine carkatis, ubi expressum est, nos amplius debere                gendis parentibus: Honura palrem tuurn et matrem
-            diligere Deum quam omnes liomines, vel nos ipsos,                     tuam, ut sis longaevus super terram. Ut quid enim
-            el amplius animam alicuius liominis quam corpus no-                   specialiler illud praeciperetur de parentibus, nisi ma-
-            strum. In enumeralinne etiam quatuor diligeudorum,                    iori dileclione forent diligendi? — Sed boe. illi refcren- ltepiiratur.
-         superius 3 posita, prius ponitur quod supra nos est;                     ilinn dicunt ad cxieriorum " exliibitionem, in qua prae-
-         secondo, quod nos sumos; tertio, quod iuxia nos est;                     ponendi sunt parcnles. Unde honora, dixit, non dilige.
-         quarlo, quod infra nos est. Ubi ordo diligendi insi-                     — Obviat ctiam illis quod llieronymus super Ezechie-iiisronyraos.
-         nuari videtur ex ratione cnumeratioiiis. Non est autem                   lem ° ail, scilicct « ut ordine caritalis, sicut scriptum
-         apertum, utrum omncs lioinines pariler debcamus di-                      est: Ordinavil in me carilalem, post oninium patrem,
-         ligere et lantuin, qiianlum nos, vcl minus.                              Deuni, carnis quoque pater diligatur et mater, lilius
+### Cap. II. *An omnes homines pariter diligendi sunt.*
 
+Unde super hoc saepe movetur quaestio, quam perplexam faciunt Sanctorum verba varie prolata. — Quidam enim tradere videntur, quod *pari affectu* omnes diligendi sint; sed in *effectu,* id est in exhibitione obsequii, distinctio observanda sit. Unde Augustinus[^p635-4]: «Omnes homines *aeque* diligendi sunt. Sed cum omnibus *prodesse* non possis, his potissimum consulendum est, qui pro locorum et temporum vel quarumlibet rerum opportunitatibus constrictius tibi quasi quadam sorte iunguntur. Pro sorte enim habendum est, quo quisque tibi temporaliter colligatius adhaeret, ex quo eligis potius illi dandum esse». Idem super Epistolam ad Galatas[^p635-5]: *Operemur bonum ad omnes, maxime autem ad domesticos fidei,* id est ad Christianos: «Omnibus enim pari dilectione vita aeterna optanda est, etsi non omnibus eadem possunt exhiberi dilectionis officia, quae fratribus maxime sunt exhibenda, quia sunt invicem membra, qui habent eundem Patrem». — His aliisque testimoniis innituntur qui dicunt, omnes homines *pariter* diligendos esse caritatis affectu, sed in *operis exhibitione* differentiam faciunt[^p635-6].
 
+Quibus obviat illud praeceptum Legis[^p636-7] de diligendis parentibus: *Honora patrem tuum et matrem tuam, ut sis longaevus super terram.* Ut quid enim specialiter illud praeciperetur de parentibus, nisi maiori dilectione forent diligendi? — Sed hoc illi referendum dicunt ad *exteriorum*[^p636-8] exhibitionem, in qua praeponendi sunt parentes. Unde *honora,* dixit, non *dilige.* — Obviat etiam illis quod Hieronymus super Ezechielem[^p636-9] ait, scilicet «ut ordine caritatis, sicut scriptum est: *Ordinavit in me caritatem,* post omnium patrem, Deum, carnis quoque pater diligatur et mater, filius
 
-                1 ArL 2. i|. I. ser|i|. ei praeserUm d. lu, lam in lit. Magi-            3 Disi. XXVIII. c. I. — Paulo superius pro alicuius cod. C
-         siri, r. i, riiiain in Commeni. a. I. q. I. seqq. — Superius             ei eilil. 1 , 8 alterius. In flne edd. 1 , 8 transponunt parliculam
-         eilil. uiiiiliiiiil qunntum nus, vel , inferius posl i/uiii StC oddunl   el pcisi quantum.
-         supro tms.                                                                      ' Loc. cit. c. 28. ii. 29, sed inullis a Magistro innissis.
-               5 <'.(\: snpra il. 9. a. I. q, I. — Mos pro ratio edd. cum                "• Super c. ii, 10. et n. 61; sed verba magis conveniunt
-         paucla inilil. nnmen.                                                    Cum lilnssa (ilii), ipiae condata esl ex verliis Aiiguslini ei llie-
-               ' Hoc dobium solvtint eUam B. AiberL, bfc. a. 7;S, Thom.           ronymi. In Hne leslimunii Vat. el eild. f, li aililiinl sdlicet
-                                                                                  l)l'IIVI.
-         81 liieliani. 8 Meil., hic ClrCH lil.
-                           NOTAE AD LIBR. SENTENTIARUM.                                 ,; idl. i; esse, sed in .iiiis edd., exceptis I, x, elin codd.
-                                                                                  rsi i ii 1 1 1 1 1 1 r1 1 verbum. Fortasse primitus legebatur di/ferenter.
-              ' Cant. 2,4.                                                               7 LxiiiI. 20, 12. nTr. Ivnlrr. 8, 16; Mallh. IS, i.): in
-              2 l.ilrr. I. de Doctr. christ. >■. 27. n. 2S. Paulo superius pusi   quo loco inilii. \ ii ei eiiii., exceplls I, 8, omltluni tuatn,
-         ignorantia cod. I) addil taepe. In i|isu leslimonlo Augustlnl                   8 Edd., exceptls I, 8, exteriorem, refragantlbus codd,
-         pro Et Detu omni sola Val. cum origlnall Et a Deut "uuu .                Paulo inieriiis pro illis ijntni iiuiii. BC cum plurimis edd. //-
-         el dejnde ante asnpHus omlltll et. Denique In Ifsdem ante per-           hui i/i/iii/. edd, I, 8 vero illit illml quod,
-         frui addltor homo.                                                              :' l.il.r. XIII. (in L/ivh. ii, tS.).
-              636                                                  SENTENTIARUM         LIB. III.
+<!-- page 636 -->
 
-Aninrosius,
-             et filia, fraler el soror». Ambrosius ■' quoque, cliligendi            cit: Volo, omnes vos esse sicut me. Oplanda est enim
- vel potins
- Origeues.   exprimens ordinem, snper illucl Canlicoriiin : Ordina-                 minoribus pcrfeclio maiorum, ul ipsi fianl perfecli et
-             vit in me carilaiem , capitulo secundo ait: « Mullo-                   sic parem mereanlur beatiludinem; vel pari dileclione,
-             rum caritas inor.dinata esl: quod in primo est pommt                   id est eadem dilectione , omnes diligendi sunl. Item,
-             tertium vel quarlum. Primo Deus cliligendus est, sc-                   quod ail: Ut tanlum diligamus fratrcs, quantum nos,
-             cundo parenles, inde filii, post domcslici, qui si boni                ita intelligi potest, id est ad lanlum bouum diligamus
-             sunt, malis filiis praeponendi sunt. Secundum hoc in                   fratres, acl quantum nos, ut lanlum bonum eis opte-
-             Evangelio ad cuiusque dileclionem proprium ponil: Di-                  mus in aeternitale , quaiitum nobis, elsi non lanto affe-
-             liges Dommum Deum ticum ex lolo corde lico, el ex                      clu ; vel ibi quanlum similitudinis est, non quantitatis.
-             omnibus viribus luis et proximum luum sicut le                               Solet etiam quaeri : si parentes uostri inali suul , Duniuni |
-             ipsum, et inimicos non ex lota virtute, non sicut te                   vel filii, vel fratres, an magis vel minus diligencli sint
-             ipsum, sed simpliciler. Sufficit enim, quod diligimus                  aliis bonis, hac ralione nobis non copulatis. — Videlur , DifncojtasH
-             el non odio habemus». — Ecce2 ex praemissis aperte                     quod magis sinl diligendi boni, qui nobis came nou
-             insiniiatur, quae in affectu caritatis dislinclio sil ha-              sunt coniuncti, quam mali carne coniuncli; quia nobis
-             benda, ul differenti affeclu, non pari, homines diliga-                sunt coniuncli corclc glulino caritatis. Sanclior est enim
-             mus, et ante omnia Deum, secundo nos ipsos, tertio                     copula cordium quam corporum. Unde Beda 5 de illis
-             parenles, indc filios el fralres, posl domesticos, cleinum             verbis Domini: Mater mea el fratres mei hi sunl, qui
-             inimicos diligamus.                                                    verbum Dei faciunl; ail: « Non iniuriose negligit ma-
-                   Sed inquiunt illi, qiiae de ordine dileclionis supra             Irem, nec maler negatur, quae etiam de cruce agnosci-
-             dicuutur esse referenda ad operiim exhibitionem, quae                  lur, se.d religiosiores monstraiHur copulae mentium quam
-   Replicant
- fautores i. differenter proximis exhibenda sunl : primo parenti-                   corporum ». — Verumtamen latebrosa quaestio est haec
- opinionis. bus, inde filiis, posl domesticis, demum inimicis, Deuni                nec a nobis plene absolvenda, properantibus ad alia.
-             vero lam affectu quam obscquii exhibilione anle onmia                  Movemur enim super verbis illis6: « Iuimicos non ex item aiia.J
-Opinio  non- diligendum. — Quorum etiam nonnulli tradunt, alleetu
- nullorum.                                                                          lota virtute, non sicul le ipsum iubet diligere, setl sim-
-             caritalis tanlum proximos essc diligendos, qiiantuin nos               plieiter. Sufficit enim, quod diligimus et non odio ha-
-Auguslinus.
-            ipsos diligimus. Quod confirmanl aucloritale Augustini 3,               bemus ». Quocl non ita aecipiendum est, quasi sufli-
-            qui ait: « Nec illa iam quaeslio movcat, quanlum ca-                    ciat tibi diligcre inimicum et non sicul le ipsum, quia
-            ritatis fratri debeamns impendere, quantum Deo. In-                     omnes, amicos el inimicos sicut te ipsum diligere cle-
-            comparabiliter plus Deo quarri nobis; fratri vero, quan-                bcs. Sed ad ostcndendum gradus diligendi Deum et
-            tum nobis. Nos aulem lanlo magis diligimus, quanlo                      proximum et inimicum, qui lamen proximus est , pro-
-            magis diligimus Deum ». — Ex hoc ct praemissis lcsti-                   pria Dominus ponit, cum ait': Diiiges Deum ex tola
-            moniis Augustini asserunt, omnes homines parifer dili-                  virtule et proximum sicut te ipsum, non ait, ex lola
-            gendos a nobis et lanttim, quanlum nos, Deum autem                      virlute, ut ostendat, proximum diligendum minus quain
-            plus qiiam nos, corpus vero noslrum miiius quam nos,                    Deuin. Dicil eliam: Diligile inimicos, nec addit ex tota
-            vel proximos. Nec in enumeratione praemissa quatuor                     virtute nec sicut le ipsum , secl simpliciter. SufTicil
-            diligeridorum ordinem diligendi assignari dicunl, sed                   enim, tjuod diligimus el non oclio habemus, id esl,
-            tantum quae suul diligencla.                                            sufficit dicere, ut diligamus et non oclio habeamus, non
-                  Verum quia praemissa verba Ambrosii ordinem                       quin eos diligere debeamus sicut nos, quia proximi sunl;
-  Sententia
-Magistri.   diligendi secimdum affectum magis quam secundum                         secl suflicil, si eos minus ciiligimus quam alios proxi-
-            effectum cliligenter inluenlibus explicare videntur, non                mos; quod dilectionis genus * innuit,
-            indocte alii dicunt, non modo in exhibilione operis,                         Quaeri eliam solet, « cur Dominus praeceperit di- itemtertia.
-            sed eliam in affeclu carilatis ordinem differenlem esse                 ligere inimicos, cum alibi praecipiat odio habere pa-
-            slalutum, ut ante omnia diligamus Deum, secundo nos,                    rentes el fllios9 ». — Ad quod dicenclum est, duo esse
-            terlio parentes, quarto filios vel fratres et huiusmodi,                diligenda in homine: naturam elvirlutem, vilium vero
-            postea domesticos, dcmurn inimicos. Quocl vero Augu-                    et peccatum odicndum. Et parcntes crgo , in quaulum
-            stinus dicit, pariler omnes essc diligendos, el pari di-                mali sunl, odiendi sunl, et inimici diligendi, in quau-
-            lectione omnibus vitam optandam, ita accipi potest,                     tum homines. Diligamus ergo inimicos lucrandos regno
-              ut paritas non adaffectum1 referatur, sed ad bonum,                   Dei, cl odiamus in propinquis 10, si impcdiunt a reguo
-              quod eis oplatur, quia caritatem oinnibus oplare cle-                 Dei, et in omnibus communiler naluram diligamus,
-              bemus, ul paria bona mereantur; sicut Apostolus di-                   quam Deus fecil.
+et filia, frater et soror». Ambrosius[^p636-1] quoque, diligendi exprimens ordinem, super illud Canticorum: *Ordinavit in me caritatem,* capitulo secundo ait: «Multorum caritas inordinata est: quod in primo est ponunt tertium vel quartum. Primo Deus diligendus est, secundo parentes, inde filii, post domestici, qui si boni sunt, malis filiis praeponendi sunt. Secundum hoc in Evangelio ad cuiusque dilectionem proprium ponit: *Diliges Dominum Deum tuum ex toto corde tuo, et ex omnibus viribus tuis et proximum tuum sicut te ipsum,* et inimicos non ex tota virtute, non sicut te ipsum, sed simpliciter. Sufficit enim, quod diligimus et non odio habemus». — Ecce[^p636-2] ex praemissis aperte insinuatur, quae in affectu caritatis distinctio sit habenda, ut differenti affectu, non pari, homines diligamus, et ante omnia Deum, secundo nos ipsos, tertio parentes, inde filios et fratres, post domesticos, demum inimicos diligamus.
 
-                    1 Ex Origene (hom. II. n. 8.) sumta , verba haee inveniun-      Vat. et cdd. b, 8, 9 ex verbis illis pro super verbis illis, el
-              tur in Glossa ordinaria in hunc loeum (v. i.). A Scholaslicis erro-    deinde ante inimicos addunt quibas.
-              nee tribuitur hic locus Ambrosio. — Edd. , excepta I, transpo-              7 Matth. 22 , 37 ; scj. locus est Luc. 6 , 27.
-              sitione et additione usae, post Canticorum ponunt capitulo se-              8 Vat. et ed. I locidionis, codd. A (a prima manu) B di-
-              cundo, id cst. Pro inde filii cod. D et edd. I , S terlio filii. —    ctionis, cod. C dictionis vel loculionis gradus; edd. dilectionis.
-              Locus Scriplurae est Matlh. 22, 37.                                   Ulraque leclio explicari potesl, cum revera in isto leslimonio
-                    2 Edd. I , 8 adiiciunt hic.                                     gradus dilcclionis insinucntur. Cfr. de eodem loco Origenis infra
-                    3 Libr. VIII. de Trin. e. 8 n. 12.                              q. 6. et quoad dilectioncm inimiCorum d. 30. q. i.
-                    * Edd. , cxceptis 1 , 8 , perperam ejfectum. — Seq. locus             p Ex August. I. Rctract. c. 19. n. 5, et 1. dc Sermone Do-
-              Scriplurae est I. Cor. 7, 7.                                          mini in monte, c. 15. n. 41, ex quibus locis sumtae sunt sen-
-                    5 Exposilio in Evang. Lucae 8, 19 (cfr. Malth. 12, 59;          tenliae sequentes.
-              Marc. 3, 31; ioan. 19, 23.). Verba sumla stint ex Ambrosio                  10 lla codd. et August., I. Ketract. loc. cit. Sed Val. cum
-              in eundem locum Iibr. VI. n. 38.                                      plurimis edd. suprimit in ante propinquos, edd. 1, 8 vitia in pro-
-                    6 Scil. Ambrosii, vel potius Origenis: cfr. supra nola !. —     pinquis, qnac.
-                                                 DIST. XXIX. DIYISIO TEXTCS.                                                           G37
+Sed inquiunt illi, quae de ordine dilectionis supra dicuntur esse referenda ad operum exhibitionem, quae differenter proximis exhibenda sunt: primo parentibus, inde filiis, post domesticis, demum inimicis, Deum vero tam affectu quam obsequii exhibitione ante omnia diligendum. — Quorum etiam nonnulli tradunt, affectu caritatis tantum proximos esse diligendos, quantum nos ipsos diligimus. Quod confirmant auctoritate Augustini[^p636-3], qui ait: «Nec illa iam quaestio moveat, quantum caritatis fratri debeamus impendere, quantum Deo. Incomparabiliter plus Deo quam nobis; fratri vero, quantum nobis. Nos autem tanto magis diligimus, quanto magis diligimus Deum». — Ex hoc et praemissis testimoniis Augustini asserunt, omnes homines pariter diligendos a nobis et tantum, quantum nos, Deum autem plus quam nos, corpus vero nostrum minus quam nos, vel proximos. Nec in enumeratione praemissa quatuor diligendorum ordinem diligendi assignari dicunt, sed tantum quae sunt diligenda.
 
-                            Cap. III.                                rata, perficitur; cum ad perfectionem venerit, dicit: Dubium g.
-                                                                     Cupio dissolvi » etc. — Hic aperle progressus et perfe-
-                   De gradibus carUatis.                             ctio caritalis insinualur, quam perfectionem etiam Ye-
-                                                                     rilas commendat dicens: Maiorem hac dileclionem nemo
-      Scieodum quoque esl, diversos esse gradus carita-              hifbetj quam ul animam suam ponat quis pro amicis
-lis. Esi enim caritas incipiens, proficiens, perfecta, per-          suis. Quod ulique dictum est de opere dilectionis, quia
-feclissima. Unde Augustinus ': « Perfecta caritas liaec              maior dilectionis effectus non esi quam ponerc animam
-est, ul quis paratus sil pro fratrihus etiain inori. Sed             pro aliis. Nec te moveat quod ait pro amicis; qui
-mimjuid iuon , ut uascitur, iain prorsus perfecta est?               enim ponit animain pro amicis , ponit et pro inimicis,
-Imino ul perficiatur, nascitur; cum fuerit nata, nulri-              ad boc ul ipsi 2 fiant nmici.
-tur; cuin fuerit nutrita, roboralur; cum fuerit robo-
+Verum quia praemissa verba Ambrosii ordinem diligendi secundum *affectum* magis quam secundum *effectum* diligenter intuentibus explicare videntur, non indocte alii dicunt, non modo in exhibitione operis, sed etiam in affectu caritatis ordinem differentem esse statutum, ut ante omnia diligamus Deum, secundo nos, tertio parentes, quarto filios vel fratres et huiusmodi, postea domesticos, demum inimicos. Quod vero Augustinus dicit, pariter omnes esse diligendos, et pari dilectione omnibus vitam optandam, ita accipi potest, ut paritas non ad *affectum*[^p636-4] referatur, sed ad *bonum,* quod eis optatur, quia caritatem omnibus optare debemus, ut paria bona mereantur; sicut Apostolus dicit: *Volo, omnes vos esse sicut me.* Optanda est enim minoribus perfectio maiorum, ut ipsi fiant perfecti et sic parem mereantur beatitudinem; vel *pari dilectione,* id est *eadem dilectione,* omnes diligendi sunt. Item, quod ait: *Ut tantum diligamus fratres, quantum nos,* ita intelligi potest, id est *ad tantum bonum* diligamus fratres, ad quantum nos, ut *tantum bonum* eis optemus in aeternitate, quantum nobis, etsi non *tanto affectu;* vel ibi *quantum* similitudinis est, non quantitatis.
 
+Solet etiam quaeri: si parentes nostri mali sunt, vel filii, vel fratres, an magis vel minus diligendi sint aliis bonis, hac ratione nobis non copulatis. — Videtur, quod magis sint diligendi boni, qui nobis carne non sunt coniuncti, quam mali carne coniuncti; quia nobis sunt coniuncti corde glutino caritatis. Sanctior est enim copula cordium quam corporum. Unde Beda[^p636-5] de illis verbis Domini: *Mater mea et fratres mei hi sunt, qui verbum Dei faciunt;* ait: «Non iniuriose negligit matrem, nec mater negatur, quae etiam de cruce agnoscitur, sed religiosiores monstrantur copulae mentium quam corporum». — Verumtamen latebrosa quaestio est haec nec a nobis plene absolvenda, properantibus ad alia. Movemur enim super verbis illis[^p636-6]: «*Inimicos non ex tota virtute, non sicut te ipsum* iubet diligere, sed simpliciter. Sufficit enim, quod diligimus et non odio habemus». Quod non ita accipiendum est, quasi sufficiat tibi diligere inimicum et non sicut te ipsum, quia omnes, amicos et inimicos sicut te ipsum diligere debes. Sed ad ostendendum *gradus* diligendi Deum et proximum et inimicum, qui tamen proximus est, propria Dominus ponit, cum ait[^p636-7b]: *Diliges Deum ex tota virtute et proximum sicut te ipsum,* non ait, *ex tota virtute,* ut ostendat, proximum diligendum minus quam Deum. Dicit etiam: *Diligite inimicos,* nec addit *ex tota virtute* nec *sicut te ipsum,* sed simpliciter. Sufficit enim, quod diligimus et non odio habemus, id est, sufficit dicere, ut diligamus et non odio habeamus, non quin eos diligere debeamus sicut nos, quia proximi sunt; sed sufficit, si eos minus diligimus quam alios proximos; quod dilectionis *genus*[^p636-8b] innuit.
 
-                     COMMENTABIUS                         IN DISTINCTIONEM XXIX.
-                                        De caritate quantuni ad diligendi ordinem.
+Quaeri etiam solet, «cur Dominus praeceperit diligere inimicos, cum alibi praecipiat odio habere parentes et filios[^p636-9b]». — Ad quod dicendum est, duo esse diligenda in homine: *naturam* et *virtutem,* *vitium* vero et peccatum odiendum. Et parentes ergo, in quantum mali sunt, odiendi sunt, et inimici diligendi, in quantum homines. Diligamus ergo inimicos lucrandos regno Dei, et odiamus in propinquis[^p636-10], si impediunt a regno Dei, et in omnibus communiter naturam diligamus, quam Deus fecit.
 
-                                  Post praedicta        de ordine curitati.s agendum              est.
+<!-- page 637 -->
 
-                                                         DIYISIO TEXTUS.
+### Cap. III. *De gradibus caritatis.*
 
+Sciendum quoque est, diversos esse gradus caritatis. Est enim caritas incipiens, proficiens, perfecta, perfectissima. Unde Augustinus[^p637-1]: «Perfecta caritas haec est, ut quis paratus sit pro fratribus etiam mori. Sed numquid mox, ut nascitur, iam prorsus perfecta est? Immo ut perficiatur, nascitur; cum fuerit nata, nutritur; cum fuerit nutrita, roboratur; cum fuerit roborata, perficitur; cum ad perfectionem venerit, dicit: *Cupio dissolvi*» etc. — Hic aperte progressus et perfectio caritatis insinuatur, quam perfectionem etiam Veritas commendat dicens: *Maiorem hac dilectionem nemo habet, quam ut animam suam ponat quis pro amicis suis.* Quod utique dictum est de *opere* dilectionis, quia maior dilectionis effectus non est quam ponere animam pro aliis. Nec te moveat quod ait *pro amicis;* qui enim ponit animam pro amicis, ponit et pro inimicis, ad hoc ut ipsi[^p637-2] fiant amici.
 
-      Supra delerminavit Magister de carilale quan-                  dubitaliones. ibi : Solet eliam quaeri, si parentes
-                                                                     nostri etc.
-tum ad essentiam et ' definilionein et quantum ad
-diligibilium numeruiii et dislinctioiiein. Hic sequilur                    Prima pars dividilur in partes tres. In quarum
-tertia pars, in qua determinat de ipsa quantum ad                    prima opponit ad partem unam2. In secunda vero
-diligendi ordinem. Dividilur autem pars isla in par-                 opponit ad partem alteram , ibi : Quibus obviat il-
-tes tres. In quarum prima delerminat de ordine ca-                   lud praeceplum Legis. ln tertia vero subiungit opi-
-ritalis per comparationem ad ea quae per caritatem                   nionem siiain, ibi: Verum quia pruemissa verba
-                                                                     Ambrosii etc.
-diliguntur. In seeunda per comparationem ad ea be-
-neficia, quae per caritatem impenduntur, ibi: Unde                         Similiter alia pars, in qua removet dubilationes
-et super hoc saepe movetur quueslio. Tertio per                      incidentes, tres babet partes secundum tres dubita-
-comparationem ad gradus, qui in caritate reperiup-                   tiones, quas dissolvit, quarum una oritur ex alia.
-tur. ibi: Sciendum quoque esl, diversos esse gra-                    Primam dissolvit, ibi: Solel quaeri: siparenles. Se-
-dus caritatis.                                                       cundam ibi: Verumtamen latebrosa quaestio haec
-     Prima et ultima parlibus reinanentibus indivi-                  esl. Tertiam ibi : Solel quaeri, cur Deus pruecepe-
-sis. media pars dividitur in partes duas. In qua-                    rit inimicos diligere etc. Summa autem barum par-
-rum prima ponit Magister circa banc materiam di-                     tium satis est manifesla ex his quae dicuntur iu
-versorum opiniones. In secunda dissolvit incidentes
-                                                                     littera 3.
-                                                   TfUCT.VriO QUAESTIONUM.
-
-
-     Ad inlelligentiam aulem liuius partis quaerilur                 tionem noslri ad proximum.
-hic de ordine caritatis. Circa hoc auteni incidimt                        Quartum est de ordine ipsius per comparatio-
-sex dubilabilia.                                                     nem patris ad filiuni.
-     1'riinuin est de ordine carilatis coinmuniter re-                    Quintum est de ordine caritatis per compara-
-spectu diligendorum.                                                 tionem domestici ad extraneum.
-     Secundum est de ordine ipsius per compara-                           Sextum et ultimum est, utrum ordo caiilalis
-lionein noslii ad Ueum.
-                                                                     atteodatur quantam ad efTecluin 5 lantiun. an sinml
-      Tertium est de ordine eiusdem 4 per compara-                   quantum ad affectum et cflectum.
-
-
-    1 ln l. lC|iisu Iujiii. ir, 5. n. i. — Locua Scrlplurae primus   1,'in...3 in
-                                                                               ln cdd.
-                                                                                  Uttera deslderatur haec ultlma proposlUo: Swmma av.
-Ml 1'iiil. I, 2.1; secundua loan. \->, 13.
-    ! Codd. III-; et edd. 1 , 8 praeflgunl eU                              ' Pro eiusdm codd. A K U X qiriut, el paulo Inferlus pro
-                  NOTAE AD COMMENTARIUM.                             ipshu iiniiii codd, eiusdem.
-    1 Codd. ii M) ni, codd. ak et qwntum ad.                               ■'' Edd. I, -' <u i ii iiiiiiimis oadd. adafftctum, scit cfr. hic
-    2 Edd. blc adduni avctorUate luguslim <■< paulo Inferius         ni. Maglsirl, c. 2, nec iion Inn-a quaestfo Ipsa. De ordlne enlm
-posi n,i partem aUeram sublungunl avctoritate Legis.                 carliatls non ruii dubltatum nlsl ijuoad affeclvm.
-         638                                                 SENTENTIARUM LIB. III.
+---
 
 ## English
 
-[Translation pending]
+### Cap. I. *On the order of loving, what is prior, what posterior.*
+
+After the foregoing the *order* of charity is to be treated, for the bride says[^p635-1]: *The king brought me into the wine-cellar and set charity in order in me.* Let us therefore see the order, what ought to be prior, what posterior. For he sins who acts in a preposterous order. For to know what thou doest and not to know the order of doing is not of perfect knowledge. For ignorance of order disturbs the form of merits. And Augustine[^p635-2] intimates the order of loving, saying: «He is the one who has love set in order, that he neither *love* what is not to be loved, nor *not love* what is to be loved, nor *love equally* what is to be loved less or more, nor *love less or more* what is to be loved equally. Every *sinner,* in so far as he is a sinner, is not to be loved; and every *man,* in so far as he is man, is to be loved for the sake of God; but *God* for his own sake. And God is to be loved *more than every man;* and each one ought to love God *more* than *himself.* Likewise, another *man* is to be loved *more* than our *body,* because for the sake of God all these are to be loved, and he can enjoy God together with us, which the *body* cannot, because the body lives by the soul, by which we enjoy God». — Thou hast heard some things concerning the order of charity, where it was expressed that we ought to love God more than all men, or than ourselves, and the soul of any man more than our body. In the enumeration also of the four things to be loved, set down above[^p635-3], that which is *above us* is placed first; secondly, that which *we* are; thirdly, that which is *beside us;* fourthly, that which is *beneath us.* Where the order of loving seems to be intimated by the rationale of the enumeration. But it is not clear whether we ought to love all men *equally* and as much as ourselves, or less.
+
+### Cap. II. *Whether all men are to be loved equally.*
+
+Whence concerning this a question is often raised, which the words of the Saints, variously brought forward, make perplexing. — For some seem to hand down that all are to be loved with *equal affection;* but in *effect,* that is in the showing of service, a distinction is to be observed. Whence Augustine[^p635-4]: «All men are to be loved *equally.* But since thou canst not *be of profit* to all, those especially are to be cared for who, by occasions of places and times or of any things whatever, are more closely bound to thee as by a certain lot. For that is to be held as a lot whereby anyone temporally cleaves more closely to thee, from which thou choosest that it be given rather to him». The same on the Epistle to the Galatians[^p635-5]: *Let us work good toward all, but most of all toward those of the household of faith,* that is, toward Christians: «For to all eternal life is to be wished with equal love, even if the same offices of love cannot be shown to all, which are to be shown most of all to the brethren, because they are members one of another, who have the same Father». — On these and other testimonies they rely who say that all men are to be loved *equally* by the affection of charity, but in the *showing of work* they make a difference[^p635-6].
+
+Against them stands that precept of the Law[^p636-7] concerning the loving of parents: *Honor thy father and thy mother, that thou mayest be long-lived upon the earth.* For to what end would that be specially commanded concerning parents, unless they were to be loved with a greater love? — But they say this is to be referred to the showing of *outward things*[^p636-8], in which parents are to be set first. Whence he said *honor,* not *love.* — There stands against them also what Jerome on Ezekiel[^p636-9] says, namely «that by the order of charity, as it is written: *He set charity in order in me,* after the Father of all, God, the father of the flesh also be loved and the mother, the son
+
+and the daughter, brother and sister». Ambrose[^p636-1] also, expressing the order of loving, on that text of the Canticle: *He set charity in order in me,* in the second chapter says: «The charity of many is disordered: what is in the first place they put third or fourth. First God is to be loved, secondly parents, then children, after them members of the household, who if they are good are to be set before bad children. According to this in the Gospel he sets down for the love of each one its proper measure: *Thou shalt love the Lord thy God with thy whole heart, and with all thy strength, and thy neighbor as thyself,* and enemies not with the whole power, not as thyself, but simply. For it suffices that we love and do not hold in hatred». — Behold[^p636-2], from the foregoing it is plainly intimated what distinction is to be had in the affection of charity, that with differing affection, not equal, we love men, and before all things God, secondly ourselves, thirdly parents, then children and brothers, after them members of the household, lastly enemies.
+
+But those others say that what is said above concerning the order of love is to be referred to the showing of works, which are to be shown differently to neighbors: first to parents, then to children, after them to the household, lastly to enemies, but God is to be loved before all things both in affection and in the showing of service. — Of whom some also hand down that by the affection of charity neighbors are to be loved only as much as we love ourselves. Which they confirm by the authority of Augustine[^p636-3], who says: «Let not that question now be moved, how much of charity we ought to bestow on a brother, how much on God. Incomparably more on God than on ourselves; but on a brother, as much as on ourselves. But we love ourselves so much the more, the more we love God». — From this and the foregoing testimonies of Augustine they assert that all men are to be loved equally by us and as much as ourselves, but God more than ourselves, and our body less than ourselves, or than neighbors. Nor in the foregoing enumeration of the four things to be loved do they say that an order of loving is assigned, but only what things are to be loved.
+
+But because the foregoing words of Ambrose seem to set forth the order of loving according to *affection* rather than according to *effect* to those who attend diligently, others not unlearnedly say that not only in the showing of work, but also in the affection of charity a differing order has been established, that before all things we love God, secondly ourselves, thirdly parents, fourthly children or brothers and the like, afterward members of the household, lastly enemies. But as for what Augustine says, that all are to be loved equally, and that life is to be wished to all with equal love, it can be so understood, that the equality be referred not to *affection*[^p636-4], but to the *good* which is wished them, because we ought to wish charity to all, that they may merit equal goods; as the Apostle says: *I wish all of you to be as I am.* For the perfection of the greater is to be wished for the lesser, that they may become perfect and so merit equal blessedness; or *with equal love,* that is *with the same love,* all are to be loved. Likewise, as to what he says: *That we love brothers as much as ourselves,* it can be so understood, that is, let us love brothers *unto so great a good* as ourselves, so that we wish them *so great a good* in eternity as to ourselves, even if not with *so great an affection;* or there the *as much* is of likeness, not of quantity.
+
+It is also wont to be asked: if our parents are bad, or children, or brothers, whether they are to be loved more or less than other good men not joined to us by this bond. — It seems that the good who are not joined to us in the flesh are to be loved more than the bad joined to us in the flesh; because to us they are joined in heart by the glue of charity. For the bond of hearts is holier than that of bodies. Whence Bede[^p636-5] on those words of the Lord: *My mother and my brethren are they who do the word of God;* says: «He does not injuriously neglect his mother, nor is the mother denied, who is even acknowledged from the cross, but bonds of minds are shown to be more religious than those of bodies». — Yet this is a hidden question and not to be fully settled by us, hastening to other matters. For we are moved by those words[^p636-6]: «He bids enemies to be loved *not with the whole power, not as thyself,* but simply. For it suffices that we love and do not hold in hatred». Which is not so to be taken as if it sufficed thee to love an enemy and not as thyself, since all, friends and enemies, thou oughtest to love as thyself. But to show the *degrees* of loving God and neighbor and enemy, who is nonetheless a neighbor, the Lord sets down their proper measures, when he says[^p636-7b]: *Thou shalt love God with the whole power and the neighbor as thyself,* he does not say *with the whole power,* to show that the neighbor is to be loved less than God. He says also: *Love enemies,* and he adds neither *with the whole power* nor *as thyself,* but simply. For it suffices that we love and do not hold in hatred, that is, it suffices to say that we love and do not hold in hatred, not but that we ought to love them as ourselves, because they are neighbors; but it suffices if we love them less than other neighbors; which *kind*[^p636-8b] of love he intimates.
+
+It is also wont to be asked, «why the Lord commanded enemies to be loved, since elsewhere he commands parents and children to be held in hatred[^p636-9b]». — To which it must be said that two things are to be loved in man: *nature* and *virtue,* but *vice* and sin are to be held in hatred. And therefore parents, in so far as they are bad, are to be held in hatred, and enemies to be loved, in so far as they are men. Let us therefore love enemies as to be won for the kingdom of God, and let us hate in kinsfolk[^p636-10], if they hinder from the kingdom of God, and in all things let us love in common the nature which God made.
+
+### Cap. III. *On the degrees of charity.*
+
+It is also to be known that there are diverse degrees of charity. For there is charity beginning, advancing, perfect, most perfect. Whence Augustine[^p637-1]: «This is perfect charity, that one be ready to die even for the brethren. But is it at once, as soon as it is born, already wholly perfect? Nay rather, it is born that it may be perfected; when it has been born, it is nourished; when it has been nourished, it is strengthened; when it has been strengthened, it is perfected; when it has come to perfection, it says: *I desire to be dissolved*» etc. — Here the progress and perfection of charity is plainly intimated, which perfection Truth also commends, saying: *Greater love hath no one than this, that one lay down his life for his friends.* Which indeed was said of the *work* of love, because there is no greater effect of love than to lay down one's life for others. Nor let it move thee that he says *for friends;* for he who lays down his life for friends lays it down also for enemies, to the end that they themselves[^p637-2] may become friends.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Latin (**La.**) of the Quaracchi *NOTAE AD LIBR. SENTENTIARUM* followed by an English rendering (**En.**). Numbering restarts on each printed page (p.635 → 2, p.636 → 10, p.637 → 2); markers are page-prefixed (`p635-`, `p636-`, `p637-`). On p.636 two notes share footer number 7, 8 and 9 with notes also on p.635; the page-prefixed markers disambiguate, and the `b`-suffixed markers (`p636-7b`, `p636-8b`, `p636-9b`) carry the p.636 footer numbers 7–9 that fall in Cap. II's lower half.
+
+[^p635-1]: **La.** Cant. 2, 4.
+     **En.** Cant. 2:4.
+
+[^p635-2]: **La.** Libr. I. de Doctr. christ. c. 27. n. 28. Paulo superius post *ignorantia* cod. D addit *saepe.* In ipso testimonio Augustini pro *Et Deus omni* sola Vat. cum originali *Et a Deo omni,* et deinde ante *amplius* omittit *et.* Denique in iisdem ante *perfrui* additur *homo.*
+     **En.** Book I, *On Christian Doctrine* c. 27, n. 28. A little above, after *ignorantia* (ignorance) codex D adds *saepe* (often). In the testimony of Augustine itself, for *Et Deus omni* (and God than every) the Vatican edition alone with the original has *Et a Deo omni* (and by God than every), and then before *amplius* (more) omits *et* (and). Finally, in the same, before *perfrui* (to enjoy) *homo* (man) is added.
+
+[^p635-3]: **La.** Dist. XXVIII. c. I. — Paulo superius pro *alicuius* cod. C et edd. 1, 8 *alterius.* In fine edd. 1, 8 transponunt particulam *et* post *quantum.*
+     **En.** Dist. XXVIII, c. I. — A little above, for *alicuius* (of any) codex C and editions 1, 8 have *alterius* (of another). At the end editions 1, 8 transpose the particle *et* (and) after *quantum* (as much).
+
+[^p635-4]: **La.** Loc. cit. c. 28. n. 29, sed multis a Magistro omissis.
+     **En.** In the place cited, c. 28, n. 29, but with many things omitted by the Master.
+
+[^p635-5]: **La.** Super c. 6, 10. et n. 61; sed verba magis conveniunt cum Glossa (ibi), quae conflata est ex verbis Augustini et Hieronymi. In fine testimonii Vat. et edd. 1, 6 addunt *scilicet Deum.*
+     **En.** On c. 6, 10, and n. 61; but the words agree more with the Gloss (there), which is compounded from the words of Augustine and Jerome. At the end of the testimony the Vatican edition and editions 1, 6 add *scilicet Deum* (namely God).
+
+[^p635-6]: **La.** Ed. 6 *esse,* sed in aliis edd., exceptis 1, 8, et in codd. *est* neutrum verbum. Fortasse primitus legebatur *differenter.*
+     **En.** Edition 6 has *esse* (to be), but in the other editions, except 1, 8, and in the codices *est* (is) — neither verb. Perhaps originally it read *differenter* (differently).
+
+[^p636-7]: **La.** Exod. 20, 12. Cfr. Deuter. 5, 16; Matth. 15, 4.: in quo loco codd. Vat. et edd., exceptis 1, 8, omittunt *tuam.*
+     **En.** Exod. 20:12. Cf. Deut. 5:16; Matt. 15:4: in which passage the Vatican codices and editions, except 1, 8, omit *tuam* (thy).
+
+[^p636-8]: **La.** Edd., exceptis 1, 8, *exteriorem,* refragantibus codd. Paulo inferius pro *illis quod* codd. BC cum plurimis edd. *illud quod,* edd. 1, 8 vero *illis illud quod.*
+     **En.** The editions, except 1, 8, have *exteriorem* (outward), the codices opposing. A little below, for *illis quod* codices BC with most editions have *illud quod,* but editions 1, 8 *illis illud quod.*
+
+[^p636-9]: **La.** Libr. XIII. (in Ezech. 44, 25.).
+     **En.** Book XIII (on Ezek. 44:25).
+
+[^p636-1]: **La.** Ex Origene (hom. II. n. 8.) sumta, verba haec inveniuntur in Glossa *ordinaria* in hunc locum (v. l.). A Scholasticis erronee tribuitur hic locus Ambrosio. — Edd., excepta 1, transpositione et additione usae, post *Canticorum* ponunt *capitulo secundo, id est.* Pro *inde filii* cod. D et edd. 1, 8 *tertio filii.* — Locus Scripturae est Matth. 22, 37.
+     **En.** Taken from Origen (hom. II, n. 8), these words are found in the *Ordinary* Gloss on this passage (variant reading). By the Scholastics this passage is erroneously attributed to Ambrose. — The editions, except 1, using transposition and addition, after *Canticorum* (of the Canticle) place *capitulo secundo, id est* (in the second chapter, that is). For *inde filii* (then children) codex D and editions 1, 8 have *tertio filii* (children third). — The passage of Scripture is Matt. 22:37.
+
+[^p636-2]: **La.** Edd. 1, 8 adiiciunt *hic.*
+     **En.** Editions 1, 8 add *hic* (here).
+
+[^p636-3]: **La.** Libr. VIII. de Trin. c. 8 n. 12.
+     **En.** Book VIII, *On the Trinity* c. 8, n. 12.
+
+[^p636-4]: **La.** Edd., exceptis 1, 8, perperam *effectum.* — Seq. locus Scripturae est I. Cor. 7, 7.
+     **En.** The editions, except 1, 8, wrongly have *effectum* (effect). — The following passage of Scripture is 1 Cor. 7:7.
+
+[^p636-5]: **La.** Expositio in Evang. Lucae 8, 19 (cfr. Matth. 12, 49; Marc. 3, 34; Ioan. 19, 25.). Verba sumta sunt ex Ambrosio in eundem locum libr. VI. n. 38.
+     **En.** Exposition on the Gospel of Luke 8:19 (cf. Matt. 12:49; Mark 3:34; John 19:25). The words are taken from Ambrose on the same passage, book VI, n. 38.
+
+[^p636-6]: **La.** Scil. Ambrosii, vel potius Origenis; cfr. supra nota 1. — Vat. et edd. 5, 8, 9 *ex verbis illis* pro *super verbis illis,* et deinde ante *inimicos* addunt *quibus.*
+     **En.** Namely of Ambrose, or rather of Origen; cf. note 1 above. — The Vatican edition and editions 5, 8, 9 have *ex verbis illis* (from those words) for *super verbis illis* (upon those words), and then before *inimicos* (enemies) add *quibus* (by which).
+
+[^p636-7b]: **La.** Matth. 22, 37; seq. locus est Luc. 6, 27.
+     **En.** Matt. 22:37; the following passage is Luke 6:27.
+
+[^p636-8b]: **La.** Vat. et ed. 1 *locutionis,* codd. A (a prima manu) B *dictionis,* cod. C *dictionis vel locutionis gradus;* edd. *dilectionis.* Utraque lectio explicari potest, cum revera in isto testimonio *gradus dilectionis* insinuentur. Cfr. de eodem loco Origenis infra q. 6. et quoad dilectionem inimicorum d. 30. q. 4.
+     **En.** The Vatican edition and edition 1 have *locutionis* (of speech), codices A (by the first hand) B *dictionis* (of expression), codex C *dictionis vel locutionis gradus* (a degree of expression or of speech); the editions *dilectionis* (of love). Either reading can be explained, since in truth in that testimony *degrees of love* are intimated. Cf. concerning the same passage of Origen below, q. 6, and as to the love of enemies, d. 30, q. 4.
+
+[^p636-9b]: **La.** Ex August. I. Retract. c. 19. n. 5, et l. de Sermone Domini in monte, c. 15. n. 41, ex quibus locis sumtae sunt sententiae sequentes.
+     **En.** From Augustine, *Retractations* I, c. 19, n. 5, and the book *On the Lord's Sermon on the Mount,* c. 15, n. 41, from which passages the following sentences are taken.
+
+[^p636-10]: **La.** Ita codd. et August., I. Retract. loc. cit. Sed Vat. cum plurimis edd. suprimit *in* ante *propinquos,* edd. 1, 8 *vitia in propinquis, quae.*
+     **En.** So the codices and Augustine, *Retractations* I, in the place cited. But the Vatican edition with most editions suppresses *in* (in) before *propinquos* (kinsfolk); editions 1, 8 have *vitia in propinquis, quae* (vices in kinsfolk, which).
+
+[^p637-1]: **La.** In I. Epist. Ioan. tr. 5. n. 4. — Locus Scripturae primus est Phil. 1, 23; secundus Ioan. 15, 13.
+     **En.** On the First Epistle of John, tract 5, n. 4. — The first passage of Scripture is Phil. 1:23; the second John 15:13.
+
+[^p637-2]: **La.** Codd. BE et edd. 1, 8 praefigunt *et.*
+     **En.** Codices BE and editions 1, 8 prefix *et* (and).
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Lombard's text (*littera Magistri*) for Distinctio XXIX (*De ordine caritatis* — the order of charity: what is to be loved prior and posterior, whether all men are loved equally, and the degrees of charity). Re-set column-by-column from the 450 dpi PDF column bands (`/tmp/colcrop/vol3-p{635,636,637}-{L,R}-*.png`), with the IA djvu OCR (raw lines 44141–44287) as the base for clean running prose and footnote-marker spacing. The OCR for this distinction is two-column interleaved and the footers cascade; the column-band PDF read is authoritative throughout, per the Vol II/III override (offset pdf = printed + 22). `type: littera`, **`has_scholion: false`** — the littera carries no scholion; its apparatus is the editorial *NOTAE AD LIBR. SENTENTIARUM*. The outer-margin tags (`Augustinus.`, `Dubium 1.`–`Dubium 6.`, `Opinio 1.`, `Opinio 2.`, `Replicatur.`, `Hieronymus.`, `Ambrosius vel potius Origenes.`, `Opinio nonnullorum.`, `Replicant fautores 1. opinionis.`, `Sententia Magistri.`, `Difficultas 1.`, `Item alia.`, `Item tertia.`) printed beside the body are editorial cross-reference marginalia keyed to the Bonaventure commentary, not Lombard's text, and are omitted from the body.
+
+**Cap. count + incipits (THREE chapters, confirmed eyes-on):**
+- **Cap. I** (p.635-L) — *De ordine diligendi, quid prius, quid posterius.* (opener *Post praedicta de ordine caritatis agendum est, quia dicit sponsa…*)
+- **Cap. II** (p.635-R → p.636-L → R, continues to p.637-L top) — *An omnes homines pariter diligendi sunt.* (opener *Unde super hoc saepe movetur quaestio…*)
+- **Cap. III** (p.637-L → R) — *De gradibus caritatis.* (opener *Sciendum quoque est, diversos esse gradus caritatis…*, ending *…ad hoc ut ipsi fiant amici.*)
+
+**Reading-order note (two-column interleave).** On p.635 the d.28 commentary tail (*…patet responsio ad obiecta³.*) fills the R-column top; the DISTINCTIO XXIX head spans both columns beneath it. Cap. I opens in the L-column and runs its whole length there; Cap. II opens at the top of the R-column (*Unde super hoc saepe movetur quaestio…*). On p.636 Cap. II runs L→R; the page break p.635→636 falls inside Cap. II at *…carnis quoque pater diligatur et mater, filius* (p.635-R close) → *et filia, frater et soror…* (p.636-L open). On p.637 Cap. II's tail (*…quam Deus fecit.*) closes the p.636-R column; Cap. III opens p.637-L (*Sciendum quoque est…*) and continues at the top of p.637-R (*rata, perficitur…*), ending *…ad hoc ut ipsi fiant amici.*; the COMMENTARIUS IN DISTINCTIONEM XXIX then begins, spanning both columns at the foot of p.637 (the next chunk, d29-divisio). True reading order was reconstructed from the column bands, not raw-line order (the raw OCR splices the two columns line-for-line and is badly fragmented).
+
+**Page-split map.** Littera spans **printed pp.635–637** (PDF 657–659). The littera begins lower on **p.635** (the DISTINCTIO XXIX head + Cap. I in L-column, Cap. II opening R-column), immediately after the d.28 commentary tail closes (*…patet responsio ad obiecta³.* in the p.635 R-column). **Page break p.635→636** falls inside Cap. II. **Page break p.636→637** falls between Cap. II's close (*…quam Deus fecit.* p.636-R) and Cap. III's opener (*Sciendum quoque est…* p.637-L). Cap. III ends *…ad hoc ut ipsi fiant amici.* (raw 44287); the `COMMENTARIUS IN DISTINCTIONEM XXIX` begins at raw 44288 (the next chunk, d29-divisio). Running heads: p.635 OCR `635`, p.636 OCR `636`, p.637 OCR `637` (the p.637 running head is the `DIST. XXIX. DIVISIO TEXTUS` form because the COMMENTARIUS/DIVISIO begins at the foot of that page); trusted via the +22 offset + running-head text `SENTENTIARUM LIB. III`.
+
+**Apparatus (14 entries), NOTAE AD LIBR. SENTENTIARUM, per-page restart:**
+- **p.635** → nn. 1–2 (the *NOTAE AD LIBR. SENTENTIARUM* header appears in the p.635 L-column footer, **beneath** the d.28 commentary's own numbered source-notes ¹Art.2 q.1 / ²Cfr supra d.9 / ³Hoc dubium solvunt — those upper notes belong to the d.28 commentary tail atop p.635-L and are NOT mine): n.1 (Cap. I, *sponsa* — Cant. 2:4), n.2 (Cap. I, *Augustinus* — Aug. de Doctr. christ. I c.27 + variant note).
+- **p.636** → nn. 1–10 (NOTAE AD LIBR. SENTENTIARUM, restarting at n.1; the p.635 nn.7,8,9 carrying Cap. II's lower half are physically printed in the p.636 L-column footer, so the body markers for them are the page-635-prefixed `p636-7/8/9` and the page-636-prefixed `p636-7b/8b/9b`): n.1 (*Ambrosius* — Origen/Gloss + Matth. 22:37), n.2 (*Ecce* — Edd. add *hic*), n.3 (*Augustini* — Aug. de Trin. VIII c.8), n.4 (*affectum* — *effectum* variant + 1 Cor. 7:7), n.5 (*Beda* — Expos. in Luc. 8:19), n.6 (*verbis illis* — Ambros./Origen variant), n.7 (Cap. II, *Legis* — Exod. 20:12), n.8 (Cap. II, *exteriorum* — *exteriorem* variant), n.9 (Cap. II, *Ezechielem* — Hieron. libr. XIII), n.10 (Cap. II, *propinquis* — Aug. Retract. variant); plus the b-suffixed body markers (*cum ait* = Matth. 22:37, *genus* = *locutionis/dictionis* variant, *parentes et filios* = Aug. Retract./de Serm. Dom.) carry footer nn.7b/8b/9b.
+- **p.637** → nn. 1–2 (NOTAE AD LIBR. SENTENTIARUM, restarting at n.1, in the p.637 L-column footer **above** the COMMENTARIUS's own *NOTAE AD COMMENTARIUM* block): n.1 (Cap. III, *Augustinus* — Aug. in I Epist. Ioan. tr.5 + Phil. 1:23 / Ioan. 15:13), n.2 (Cap. III, *ipsi* — Codd. BE prefix *et*).
+
+**Footer ownership.**
+- **Footers IN:** the p.635 *NOTAE AD LIBR. SENTENTIARUM* nn.1–2 + the p.636 *NOTAE AD LIBR. SENTENTIARUM* nn.1–10 + the p.637 *NOTAE AD LIBR. SENTENTIARUM* nn.1–2 migrate IN to this littera chunk (14 total). Per the hand-off, the p.635 *NOTAE AD LIBR. SENTENTIARUM* nn.1–2 were confirmed to belong to THIS chunk (they begin below the d.28 commentary footers).
+- **Footers OUT / NOT MINE:** the p.635 L-column upper numbered source-notes (¹Art.2 q.1 seqq. et praesertim d.10; ²Cfr supra d.9 a.1 q.1; ³Hoc dubium solvunt etiam B. Albert. + S. Thom. + Richard.) belong to the **d.28 commentary tail** printed atop the p.635 L-column (already Tier-2, d28-a1-q6). On p.637 the *NOTAE AD COMMENTARIUM* block (DIVISIO TEXTUS notes ¹In I.Epist.Ioan + ²Codd.BE praefigunt et, then `NOTAE AD COMMENTARIUM` header n.1 *Codd…quantum ad* / n.2 *Edd. hic addunt auctoritate Augustini…*, then the TRACTATIO notes nn.3,4,5 in the R-column footer) is a SEPARATE block for the COMMENTARIUS IN DISTINCTIONEM XXIX (the next chunk, d29-divisio); do not touch it.
+
+**Seam status.** CLEAN at both ends.
+- **Open seam:** continuous after the d.28 commentary close (*…patet responsio ad obiecta³.* p.635 R-col) → DISTINCTIO XXIX / Cap. I opens at raw 44141.
+- **Close seam:** Cap. III ends *…ad hoc ut ipsi fiant amici.* (raw 44287); the `COMMENTARIUS IN DISTINCTIONEM XXIX` (subtitle *De caritate quantum ad diligendi ordinem*; incipit echo *Post praedicta de ordine caritatis agendum est;* raw 44288) is a fresh COMMENTARIUS head, not a continuation of Cap. III — seam clean.
+
+**`[?]` flags:** none. All three chapter rubrics, all incipits, and all 14 footers were read eyes-on from the 450 dpi bands without ambiguity.
+
+**HAND-OFF TO d29-divisio (CREATE NEW — separate divisio block confirmed):** the next chunk is **bon-sent-III-d29-divisio** (does NOT yet exist) — `COMMENTARIUS IN DISTINCTIONEM XXIX` (subtitle *De caritate quantum ad diligendi ordinem*; incipit echo *Post praedicta de ordine caritatis agendum est.*) + `DIVISIO TEXTUS` + `TRACTATIO QUAESTIONUM`. `type: divisio`, OMIT `articulus`/`quaestio`, **`has_scholion: false`**, apparatus = `NOTAE AD COMMENTARIUM`. **Raw anchors:** COMMENTARIUS IN DISTINCTIONEM XXIX header at raw **44288**; DIVISIO TEXTUS at raw **44293** (*Supra determinavit Magister de caritate quantum ad essentiam et definitionem et quantum ad diligibilium numerum et distinctionem. Hic sequitur tertia pars, in qua determinat de ipsa quantum ad diligendi ordinem. Dividitur autem pars ista in partes tres…*); TRACTATIO QUAESTIONUM at raw **44316**; ARTICULUS UNICUS at raw **44342** + QUAESTIO I at raw **44347** (*Utrum ordo sit in caritate respectu diligibilium*) — these belong in the **d29-a1-q1** chunk, NOT the divisio. **Page span:** the COMMENTARIUS begins at the FOOT of printed **p.637** (PDF 659, spanning both columns beneath Cap. III) and the DIVISIO TEXTUS + TRACTATIO QUAESTIONUM run onto **p.638** (PDF 660), with ARTICULUS UNICUS / QUAESTIO I body opening at the foot of p.638 onto p.639. pdf = printed + 22. So the divisio chunk = **printed pp.637–638**. **NOTAE AD COMMENTARIUM** footer block: the DIVISIO TEXTUS notes (¹*In I.Epist.Ioan.*-style + ²*Codd. BE et edd. 1,8 praefigunt et*) sit at the foot of p.637-L, then the `NOTAE AD COMMENTARIUM` header with **n.1** = *Codd…quantum ad* and **n.2** = *Edd. hic addunt auctoritate Augustini et paulo inferius post ad partem alteram subiungunt auctoritate Legis.*; the TRACTATIO notes **nn.3,4,5** (n.3 *In edd. desideratur haec ultima propositio: Summa autem… in littera;* n.4 *Pro eiusdem codd. AKUX ipsius;* n.5 *Edd. 1,2 cum plurimis codd. adaffectum…*) are in the p.637-R footer; more NOTAE AD COMMENTARIUM on p.638. **d.29 ARTICLE/QUESTION STRUCTURE (read eyes-on from TRACTATIO QUAESTIONUM, raw 44316–44340):** the part has **ONE article only — ARTICULUS UNICUS, *De ordine caritatis*** — with **SIX questions** (the TRACTATIO heads them as *circa hoc autem incidunt sex dubitabilia*): **I.** *de ordine caritatis communiter respectu diligendorum* (body QUAESTIO I = *Utrum ordo sit in caritate respectu diligibilium,* raw 44347); **II.** *de ordine ipsius per comparationem nostri ad Deum;* **III.** *de ordine eiusdem per comparationem nostri ad proximum;* **IV.** *de ordine ipsius per comparationem patris ad filium;* **V.** *de ordine caritatis per comparationem domestici ad extraneum;* **VI. (et ultimo)** *utrum ordo caritatis attendatur quantum ad effectum tantum, an simul quantum ad affectum et effectum.* Like d.28, d.29 has **ONE article (ARTICULUS UNICUS), SIX questions, and a separate dubia file** (d29-dubia already scaffolded). The body QUAESTIO I opens directly at *Utrum ordo sit in caritate respectu diligibilium* (raw 44347, p.638→639) — the TRACTATIO list and the body q-order align 1:1, no q-swap offset (the auto-chunker alignment check should pass; QUAESTIO II confirmed at raw 44571). Use `vol3/bon-sent-III-d28-divisio.md` as the structural template for the divisio chunk. So the full d.29 chunk slate is: **littera (DONE) · divisio (CREATE NEW) · a1-q1 · q2 · q3 · q4 · q5 · q6 · dubia** = 9 chunks (the existing d29-a1-q1..q6 + d29-dubia scaffolds remain; only d29-divisio must be created).
