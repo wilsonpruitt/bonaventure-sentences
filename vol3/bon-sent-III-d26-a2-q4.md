@@ -6,256 +6,246 @@ distinctio: 26
 articulus: 2
 quaestio: 4
 type: quaestio
-line_start: 39973
-line_end: 40204
-word_count_latin: 3632
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Utrum spes sit in bonum sub ratione boni"
+title_en: "Whether hope is toward the good under the formal character of the good"
+printed_pages: [575, 576, 577, 578]
+pdf_pages: [597, 598, 599, 600]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 575–578"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 39974–40204) with column-band PDF (vol3 pp.575–578, pdf 597–600, offset +22) authoritative for Conclusio/Respondeo/Ad-replies/footers, fresh literal English translation, full apparatus from raw OCR per-page (continuous [^1]–[^20] with per-page (P. NNN, n. N.) tags: p.575 nn.3,5–8 / p.576 nn.1,2,4–6 / p.577 nn.1–10), scholion I–III from OCR+PDF (2026-06-11)"
 format_version: 1
 ---
 
 # bon-sent-III-d26-a2-q4
+## *Utrum spes sit in bonum sub ratione boni.*
+
+---
 
 ## Latin
+<!-- page 575 -->
 
-QUAESTIO IV.
-                                              Utrum spes sit in bonum sub ratione boni.
+### Quaestio IV. *Utrum spes sit in bonum sub ratione boni.*
 
-             Quarto quaeritur de ipsa spe per comparalio-                       3. Ilein, hoc ipsum ostenrlitur adhuc ratioue
-        nem arl obiectum, el est quaeslio. ulrum spes sit                  magis speciali per comparalionem ad alia genera
-        in bouum sub ratione boni. Et quorl sic, videtur:                  ajfectionum : quia, sicut se babet gaurlium respectu
-             1. Primo per rationem virtntis in communi:                    praesentis. sic spes respectu fuluri ; sed gaudium
-Adt°pp°si- quia , sicut scienlia est respectu veri, sic virlus re-         esl de hono praesenti sub ratione boni : ergo spes
-           spectu boni 6 ; sed omnis scientia est in verum sub             est de futuro bono sub ratione boni ".
-           ratione veri : ergo omnis virtus est in bonum suh                     4. Item, hoc ipsum ostenditur adhuc specialiori
-           ratione boni : si ergo spes est virtus , ergo est in            ralione per comparationem ad aliam speciem virtu-
-           bonum sub ratione boni.
-                                                                           lis : quia, sicut dicit Augustinus 8. in hoc dinert
-             2. Item , boc ipsum videlur ratione magis pro-                firles a spe, quia fnles esl respectu boni et mali,
-        pria, quae sumitur ex proprietate virtutis theologi-               spes est respectu boni taritum. Si enim fides simul
-        cac : virtus enim theologica idem hahet pro obieclo                poterat esse boni et mali , pro eo quod non respi-
-        et pro fine; sed « bonum el finis irlem sunt ° »: ergo             ciebat bonum sub ratione boni, sed magis sub ra-
-        cum spes sit virtus theologica , et bonum sub ratione              tione veri ; spes autem determinat. sibi bonum, ita
-        boni sit eius finis, ergo bonum sub ratione boni erit              quorl nullo modo est in eius oppositnm : videtur
-        eius obiectum.                                                     ergo, quod ipsa spes sit in bonum sub ratione boni.
+Quarto quaeritur de ipsa spe per comparationem ad obiectum, et est quaestio, utrum spes sit in bonum sub ratione boni. Et quod sic, videtur:
 
-              1 Arislot., de Praedicam. c. de Priori: Secundo autem             4 Vide scbolion ad I. huius arliculi quaestionem.
-        [prius alterum altero dicitur], quod non convertitur secundum            5 Cfr. supra pag. 470 , nolo 3. — Quod spes sil virlus ,
-        sttbsistendi consequentiam , til unum duobus prius est; duobus     ostensum est supra a. I. q. I.
-        enim existentibus, mox unum esse consequens est; uno vero                6 Secundum Aristot., III. Metaph. text. 3. (II. c. 2.j. Cfr.
-        exislenle, duo esse non necessarium esl. Quare non converlilur     ibid. II. lext. 8. (I. brevior, c. 2.): Qui faciunt infinitum, latet
-        ab uno consequentia, ut reliquum sil; prius antem illud esse       eos, quod boni naturam auferunt. — De obiecto et fine vir-
-        videtur, a quo non convertitur eius quod est esse consequentia.    lutis theologicae cfr. infra d. 33. q. I. praecipue ad 3. —
-              ! Cfr. supra a. I. q. 4.                                     Quod spes sit virtus theologica, vide supra n. I. q. 3. — Mtilti
-              3 Episl. I. Cor. 13, 13: Nunc aulem manent fides, spes       codd. omillunt sunt.
-        caritas, tria haec; maior aulem horum est caritas. — De ae-             7 Cfr. supra pag. 569, nota 4. — Paulo superius pro sic
-        qualitute virlutum cfr. infra d. 27. a. 2. q. I. et d. 36. q. 5.   spes, cod. T sic et spes, edd. sic se habet spes.
-        — De vi irascibili infra q. S; et de dotibus I. Sent. d. 3. p.          8 Enchirid. c. S. n. 2. Vide hic lit. Magislri , c. 3.
-        II. a. I. q. I. ad i, nec non IV. Sent. d. 49. p. I. q. 3.
-         376                                                   SENTENTIARUM LIB. III.
+1. *Primo* per rationem virtutis in communi: quia, sicut scientia est respectu veri, sic virtus respectu boni[^1]; sed omnis scientia est in verum sub ratione veri: ergo omnis virtus est in bonum sub ratione boni: si ergo spes est virtus, ergo est in bonum sub ratione boni.
 
-                  o. ltem, hoc ipsum ostendilur ratione magis                    movendi teneat ralionem ardui : non ergo obiectum
-            propria per definitionem ipsius spei1: « Spes enim                   spei est bonum sub ratione boni.
-            est exspectatio futurae beatitudinis »: si ergo beati-
-            tudo nominat bonum sub ratione boni, videtur ergo,                                          C0NCLUSI0.
-            qtiod bonum sub ratione boni sit obiectum ipsius spei.
-                  Sed contra: 1. Virtutes theologicae distinguun-                Obiectum spei est bonum sub ratione magni et
-Fandamcnta. tur per obiecta , secundum quod habent propriam                          ardui, vel eliam bonum sub ratione gloriosi
-            rationem ; sed caritas est in bonum sub ratione                          et aelerni.
-            boni • : ergo si spes distinguitur a caritale , bonum
-            sub ratione boni non erit obiectum spei.                                   Respondeo : Ad praedictorum intelligentiam est
-                   2. Item , circumscripta ratione boni et mali ,                notandum, quod quidam dicere voluerunt, obiectum °Pmi0 '■
-            adhuc conlingit timere, sicut in patria Deum time-                   spei esse bonum sub ratione futuri. Dixerunt enim,
-            bimus3, non quidem sub ratione mali nec sub ra-                      quod omnes affectiones animae vel sunt respectu
-                                                                                 boni, vel sunt respectu mali; et sicut gaudium
-            tione boni, quia sub illa ratione amabimus — bo-
-            num enim sub ratione boni magis generat amorem                       est respectu boni praesentis , dolor vero, qui est
-                                                                                 affectio sibi opposita, est respectu praesentis mali;
-            quam timorem — si ergo contingit timere , circum-
-            scripta ratione boni et mali , igitur et contingit spe-              sic spes est respectu futuri boni, limor vero re-
-            rare: ergo obiectum spei non est bonum sub ra-                       speclu fuluri mali. Quod autem movit eos hoc po-
-            tione boni, neque malum sub ralione mali.                            nere fuit, quia posuerunt, quod duplex sit tantum
-                   3. Item, nullus timet malum, quod est subie-                  obiectum , in quod tendit anima : unum scilicet ve-
-            ctum suae potestati ; sed quicumque timet malum ,                    rum, in quod tendit intellectus , alterum scilicet bo-
-             timet sub ratione excellentis 4 : si ergo spes sic est              num, in quod tendit affectus ; et ideo cum spes non
-            in bonum, sicut timor in malum; videlur, quod                        sil in verum sub ratione veri, volnerunt dicere,
-            spes non sit in bonum sub ratione boni , sed magis                   quod sit in bonum sub ratione boni. In hoc tamen
-             sub ratione ardui.                                                  differt a caritate : quia caritas est in bonum sub
-                   4. Item, sicut homo naturaliter appetit illumi-               ratione boni simpliciler , non considerando praesens
-             nari et delectari, ita etiam naturaliter appetit glo-               nec futurum ; et quia bonum sub ratione boni est
-            riari, et hoc dico secundum ipsius animae supre-                     amandum , ideo actus ipsius caritatis est amare. Spes
-             mum 5 : ergo sicut in nobis est reperire aliquas vir-               autem est in bonum non tantum sub ratione boni,
-             tutes perficientes et dirigentes ipsam animam respe-                sed etiam sub ratione futuri ; et quia bonum fulu-
-             ctu veri illuminantis et respectu boni deleclantis,                 rum, in quantum futurum, est exspectandum, ideo
-            utpote fidem et caritatem ; ila erit respectu ardui et               actus ipsius spei est exspectare; et quia exspectare
-             excellentis ; hanc autem non est dare nisi spem :                   et amare sunt actus diversi: hinc est, quod spes
-             ergo etc.                                                           et caritas diversae sunt virtutes, non principaliter
-                   5. Item , licet omnes virtutes gratuitae quodam               ratione diversitatis obiectorum, sed ratione diversi-
-             modo elevent mentem, et hoc maxime faciant vir-                     tatis actuum propriorum.
-             tutes theologicae ; elevatio tamen et erectio ipsius                      Licet autem hic modus dicendi videatur aliquid N°"M>n>t>a
-             animi propriissime competit ipsi spei: ergo si virtus               probabilitatis habere, interius tamen consideranti non
-             spei maxime consistit in erigendo et elevando ipsum                 satisfacit dubitationi nec consonat veritati. Nam quod Rali0 '•
-             animum , cum animus noster magnus sit nec sit na-                   dicitur, quod non est aliud obiectum motivum po-
-                                                                                 tentiarum animae nisi verum sub ratione veri et
-             tus erigere se nisi ad magna et ardua 6 ; videtur
-             ergo, quod obiectum spei quantum ad efficaciam                      bonum sub ralione boni, simpliciter non habet ve-
+2. *Item*, hoc ipsum videtur ratione magis propria, quae sumitur ex proprietate virtutis theologicae: virtus enim theologica idem habet pro obiecto et pro fine; sed « bonum et finis idem sunt[^2] »: ergo cum spes sit virtus theologica, et bonum sub ratione boni sit eius finis, ergo bonum sub ratione boni erit eius obiectum.
 
-                1 Vide hio lit. Magistri, c. I. Cfr. infra dub. 2.               pesci desiderio possit, quippe quae ad imaginem facta est
-                2 Cfr. infra d. 27. a. I. q. I. ad 5.                            Creatoris [in qua imagine consistit supremum animae]; pro-
-                3 Vide infra d. 34. p. II. a. 2. q. 3.                  t        pterea secundum datam sibi a Deo sapienliam, saluberrimum
-                4 Aristot., III. Ethic. c. 6 : Timemus autem ea scilicet, quae   adinvenit consilium, dicens: Quando quidem persuaderi nobis
-          terribilia sunt; ea vero sunt, ut simpliciter dicamus, mala;           non potest non gloriari, saltem qui gloriatur in Domino glo-
-          unde etiam timorem exspectalionem mali esse deflniunt. Ac ti-          rietur. Cfr. de hoc arg. lib. de Spiritu et anima (inter opera
-          memus quidem mala omnia, ut infamiam, paupertatem , mor-               Augusl.) c. 3. et i.
-          bum, solitudinem amicorum, mortem. Non circa omnia tamen                     6 Bernard. , Serm. 80. in Cantic. n. 3 : Si enim, ut supra
-          esse vir fortis videtur elc. Ibid. c. 7 : Id autem quod terrorem       docui, eo anima magna est, quo capax aeternorum, eo recta,
-          incutit, non omnibus est idem, dicimusque aliquid supra ho-            quo appetens supernorum ; quae non quaerit nec sapit quae
-          minem esse , quod quidem unicuique sanae menlis homini                 sursum sunt, sed quae super terram, non plane est recta, sed
-          terribile est etc. — In flne arg. pro ardui codd. G W Y aa             curva , cum tamen pro huiusmodi magna esse non desinat ,
-          et edd. I , 2 mati, Vat. magni et excellenlis.                         manens ulique etiam sic aeternitatis capax... si desinal magna
-                5 Bernard., Serm. 7. de Diversis n. I, disserens de illo         esse, et capax, quippe de capacitate, ut dixi, aestimatur ani-
-          Aposloli (II. Cor. 10, 17. seq.): Qui gloriatur, in Domino glorie-     mae magnitudo. Quid vero sperare posset, cuius capax non
-          tur , ait: Sed consideravit [Apostolus], rationalem creaturam          foret? Cfr. Serm. 108. in append. sermon. August. (alias 53. de
-                                                                                 Tempore) n. 2.
-          adeo affeclare gloriam, ut aut vix aut nunquam        ab hoc com-"
-                                                             DIST. XXVI. ART. II. QUAEST. IV.
-                                                                                                                                                     577
-                                                                                          Qoncedendum est igitur, quod obiectum spei
-            ritaiem , pro eo quod, sicut in opponeodo ' tactum
-            est, quemadmodum rationatis tendil io verum, et                         est bonum sub ratione magni vel anlui. — Et quia
-            ooncupiscibilis in bonum, sic etiaui itrascibilis no-                   gloriosum nominat uiagnum subliinitale, aeternum
-    Ratioi. stra tendit in arduum et magnum. — Rwsus, quod                          iioininat magnum diuturnitate, illud intensive, istud
-            dicit, liiiiiuin suli ratione boui futuri esse motivum                  extensive-; ideo concedi potest eliam, quod obiectum conciusioa.
-            alterius aifectiouis quam bonum sub rationi boni ;                      spei sit lioniiin suh ratione gloriosi el sub ratione
-            non hahet veritatein. pro 60 quod bonum suli ra-                        acterni, hoc est snh ratione excellentis et indefi-
-            tione futuri desideratur, el desiderium non est spes,                   cientis, quia baec duo eoncurrunt ad perfectam ra-
-            seil magis qnaeilani ilillereiilia ainoi'is, et ail ipsain              tionem magnitudinis ipsius boni7. — Concedendae
-    Rauo 3. caritatera pertinet desiderare3. — Amplius, qnod                        siinl ergo rationes, quae sunl ail partem istain.
-            dicit, tiinorem esse respectu mali sub ratione mali;                          1. Ad illinl quoil obiicitur, quod sicul se babet so""i° °p-
-                                                                                                   ,           .     .                                      po&iloram.
-            iiiiii hahet ventalein : contingil eniin timere . sicul                 scientia. ad    vrruni.    lla virlns ail lioinini ; ilirniiliun .
-            in opponendo8 ostensum est, abstracta ratione mali;                     quod hoc non est omnino simile : quia cognitiva Notandum.
-   uatio4. sicut tiinebitur Drus in patria. — Praeterea, si                         non habet obiectum nisi unius rationis, scilicet ve-
-            quando lnaliun timelur, non timetur. nisi quia ex-                      rum ; sed affecliva, cum duplicelur in duas vires,
-            cellens ; si ergo affertio, quae est timor , in suo                     viilelicet in concupiscibilem el irascibilem, obiectum
-            obiecto magis concernit excellenliam quam mali-                         habrl iluplicis rationis, viilelirrl bonum, quod con-
-            tiam snb ralione motivi : reslat siiuililer. quod el                    cupiscit, ri arduutn, ad quod se erigit8.
-            affectio sibi correspondens , videlicet spes.                                  ± Ail illilil quoil ohiicitur, quoil virlns tbeologica
-                  Est igitur obiectum spei bonuin quidem, sed                       iilnn habet pro obieclo et pro flne ; dicendum , quod
-opioio  .™-
-ctonsetcon- iion  suli ratione boni, seil inasis
-                                             w   snli ralione arttni                si hoc •   intelligalur de   identitate quantum r.ad•substan-   Nouodadi-
-                                                                                    .•                              •  •    t\                  > .  slinctio.
-ciosio i.   sive magni. — El boc qniilnn sic haliel inanifcslari.                   //((///. sir veriim est. quia qisr Deus rsl linis rt olue-
-Dopien anns spei enini duplex est actus. quorum unusestprin-                        cl       .iriiiii. Si aulrni loqiiainur qnaiitinn ail raiionem
-            cipium et origo allerius ; spes enim facit confidere,                   movendi, sic non babet veritatem nisi in sola virtute,
-            et faciendo confidere facit exspectare*. Nullus aulem                   quae est caritas; ipsa enim babel bonum sub ratione
-            recte confidens confidil et innititur nisi in eo qui                    boni et pro obiecto et pro fine; ideo principatum tenet
-            nec possit nec velit sibi deficere ; talis autera non                   inter ceteras virtutes , sicul infra" manifestabitur. In
-            est nisi ille qui est potentissimus in virtute el mu-                   fide a.ntein et spe non babet veritatein; et qnoniam
-            nificentissimns in liberalitate ; et boc non babet,                     in illa ratione procedit ab iilentitate secunilum suli-
-            nisi habeat excellentiam virtutis et largitatis. Cum                    slantiain ail iilentitatem seciiniluin ralionem : ideo
-            autem quis totam fiduciam suam in eiun posuit, qui                      in processu illo est peccatum secundum accidens.
-            excellentissimae virtutis est et liberalitatis ; magna                        3. Ad illud quod oliiicilur. quod sic se habet
-             ab eo exspectat se assecuturum r'. Quoniam ergo s|ies                  spes respectu fuluri, sicul gaudium respectu prae-
-             habet obiectiiin magnnm et arduum in confidendo ,•                     srnlis : ilirrnilniii, quod similituilo hona est quan- Noumdnm.
-             hinc est, quod habet pro obiecto magnum et arduum                      lum ad differentiam fuluritionis "' et praesentialitalis ,
-             in exspectandn. Et hine est, quoil ipse Doininus, in                   sed quantum ad rationem boni motivi non est simi-
-  proraissio quo speranius . magna promittit nobis in consolatio-                   liimlo. Iloiiuin enim sub ratione boni, quando prae-
-             nem spei noslrae, iuxta quod dicil Abrahae, Genesis                    sens est. delectat el reficit ipsam concupiscibilem ;
-            decimo quinto 6 : Nolitimere, Abraham, ego prote-                       sed sub hac ratione non hahei elevare et erigere.
-            ctor tuus sum el merces tua matjna nimis; qnasi                         iiuino polius sub ralione excellentis. Delectdtio enini.
-            dicat ; Ego proleclor , in quo debes confidere,et                       quae est in gaudio, respirii convenienliam ; sed ere-
-            merces tua magna, quam ilebes exspectare.                               clio , quae est in spe, respicit excellentiam.
+3. *Item*, hoc ipsum ostenditur adhuc ratione magis speciali per comparationem ad alia genera affectionum: quia, sicut se habet gaudium respectu praesentis, sic spes respectu futuri; sed gaudium est de bono praesenti sub ratione boni: ergo spes est de futuro bono sub ratione boni[^3].
 
-                  1 Seil. in fumlnni. 3. seqq. — Pnulo inferius edil. iiiin un.i    (|iiod omnipotentes faeil omnes, qui in sl' sin-rant. — Paulo nnle
-            alteroque cod. omiltunt nostra.                                         pro i?l consolatiouem edd. cum paucis codd. in consnlatione.
-                  5 Cfr. infra ii. 21. ilob. I. delinitio cnrilnlis, qunm August.         7 Respicitur praecipuum obiectum spei , scil. bentitudo (cfr.
-            dnt I. Soliloq. e. 7. n. II. Avicennn, de Animn , p. IV. e. 3. nil:     iufra .kI 5.), ad quam secundum August. , de Moribus Eecles.
-            Spes aulem aliud est qunm deshlerium. Spes enim est imnginntio          cath. c. 3. n. 3, reqnirilur oplimuni et inamissibile bonum.
-            nlieuius rei cum nffirmnlione nul opinione, quia erit; desitlerium      Idem S. Doclor ail in Enarrnl. in Ps. 102. n. S: Erige spem
-            vero est inmginntio rei et eoneupiscentia eius et iudicnre, quod        tuam nd bonum bonorum omnium. Ipse elil bonum luum, n
-            delectnbilur in ill , si ndluerit ; timor nutem est opposilus spei      quo (ii in luo genere faclus es bonus etc. Cfr. Arislot. , I. Etliic.
-            nd modiim eonlrnrietatis ; sed di/fidentia vel desperalio esl eius      e. 2, et Boeth., III. de Consol. prosa 2. — Paulo anle Vat. legil
-            privatio. — Paulo superius pro sub ratione futuri desideralur           qitae duo, sed codd. et edd. I, 2 quia dno , nos recepimus
-            codd. A Iv Z sub ratioue futuri boni desideralur.                       meliorem lectionem cod. Z quia haec duo.
-                 3 Scil. in fundam. 2.                                                    8 Cfr. quaest. seq.
-                  * Cfr. supra pag. S6I , nola 7.                                        9 Dist. 27. a. I. q. I. ad 5, a. 2. q. I, dub. I ; d. 31.
-                  5 Codd. W X Y magnam ab eo exspectat [cod. X habef]               a. 3. q. I , et d. 36. q. 6. Cfr. supra a. I. q. 2. — De pec-
-            securitatem [codd. X V securalionem].                                   cato secundum accidens (cod. Z fallacia accidentis) vide supra
-                  6 Vers. I. Hernard. , Serm. 83. in Cnnlic n. 5: Quidni            pag. 179, nola I.
-            omnia possibilia sinl innilenli super eum qui oninia potest?                 10 Cod. Z fuluri temporis. Subinde pro praesentialitatis
-            Quantae fiducine vox : Omnia possuin in eo qui me confortat             cod. W praesenliae.
-            (Phil. t, 13.)! Nil omnipotenlinm Verbi clariorem reddit, quam
-                      S. Bonav. — Tom. III.                                                                                                73
-378                                                  SENTENTIARUM LIB. III.
+4. *Item*, hoc ipsum ostenditur adhuc specialiori ratione per comparationem ad aliam speciem virtutis: quia, sicut dicit Augustinus[^4], in hoc differt fides a spe, quia fides est respectu boni et mali, spes est respectu boni tantum. Si enim fides simul poterat esse boni et mali, pro eo quod non respiciebat bonum sub ratione boni, sed magis sub ratione veri; spes autem determinat sibi bonum, ita quod nullo modo est in eius oppositum: videtur ergo, quod ipsa spes sit in bonum sub ratione boni.
 
-     4. Ad illud quod obiicitur, quod spes est re-                            5. Ad illud quod obiicitur, quod spes est exspe-
-spectu boni tantum, ergo habet obiectum bonum                           ctatio futurae beatitudinis; dicendum, quod spes non
-sub ratione boni; dicendum, quod illud non sequi-                       exspectat beatitudinem , nisi in quanlum tenet ratio-
-tur, pro eo quod ista non est sola ratio, propter                       nem magni et ardui, hoc est rationem excellentis et
-quam aliquid tendat solummodo in bonum, quia                            indeflcientis. Et quia ista duo importat beatitudo de Noiandam.
-motivum eius est bonum sub ratione boni , sed etiam                     sua prima ' ratione ; hinc est , quod spes magis habet
-propler hoc, quod illud quod est motivum eius,                          defmiri per beatitudinem quam alia virtus: unde in
-habet semper bonum sibi substratum. Et hoc modo                         ratione illa est peccatum secundum accidens. Quam-
-                                                                        vis enim beatitudo habeat rationem boni , tamen non
-intelligendum est se habere in spe. Illud enim ar-
-duum et excellens, ad quod assequendum erigitur                         cadit principaliter sub exspectatione spei sub illa ra-
-anima, non potest esse nisi bonum.                                      tione, sed in quantum habet rationem ardui.
+<!-- page 576 -->
 
-                                                           SCHOLIOK
-      I. Spes, ut est passio, imporlat motum appetitus in ali-          chardum a Med. consentit etiam S. Thom. (hic q. 2. a. 3. quae-
-quod bonum, commensuratum quidem appetenti, sed arduum                  sliunc. 1.). Postquam enim (ibid. in corp.) dixit: « Oportet,
-(S. Thom., hic q. I. a. 2.). Terminus arduum « addit quan-              quod volunlas ad hoc, quod operari incipiat, lendat in illud
-dam specialem rationem bonitalis, scilicet pretiositatis » (ibid.       [appetibile] sicut in possibilc; et haec inclinatio voluntalis ten-
-                                                                        dentis in bonum aeternum quasi possibile sibi per gratiam
-ad I.). Hinc S. Bonav. docel, bonum sub ralione ardui fma-
-                                                                        est actus spei »; deinde (ad 1.) addit: « ldem secundnm
-gni, excellentis, vel etiam gloriosi et aeterni) esse spei obie-
-ctum formaleel rationem motivam : bonum quidem, quia in spe             rem est obiectum omnium virtulum theologicarum, sed dif-
-est protensio appelitus, qui non est nisi ad bonum (ad 4.),             fert secundum raiionem, quia, in quantum est summum ve-
-                                                                        rum, est obiectum fidei; in quanlum est summum bonum , est
-quod exspeclal; ardui autem et excellenlis, quia erigit ani-
-mum confidentem et innitcntcm summae et immensae largitali              obieclum caritalis; in quantum est altissimum arduum, est obie-
-(supra a. 1. q. 1.) ; nam bonum sub ratione excellenlis erigil (hic     clum spei. Et quia bealitudo nominat maxime arduum... ideo
-ad 3.). Duo enim actus implicantur in spe , quorum primus est           in definitione spei praeciptie ponitur beatitudo » (cfr. S. II. II.
-exspectare ; et « qui exspectat advenlum desiderat exspectati »          q. 17. a. 6, et Bonav. hic ad 5. et infra dub. 2, ubi ralio exhi-
-(infra dub. 2.), nempe boni convenienlis. Sed hoc desiderium             betur, quare beatitudo approprietur spei). Ibid. ad 4: « Tendere
- « se habet ad spem sicut commune ad proprium , in quantum               in appetibilc est tam irascibilis quam concupiscibilis, sed diffe-
-spes addit certitudinem circa exspectationem » (S. Thom. , loc.          renter: quia tendere in aliquod bonum, ut est bonum simpliciter,
-cit. a. 3. ad I.). « Motus appetilus incipit in desiderio... Desi-       est concupiscibilis, sed tendere in aliquod, ut cst arduum et dif-
- derium est quaedam inchoatio amoris » (Ibid. q. 2. a. 3. quae-          ficilc, esl irascibilis». In Sum. autem (II. II. q. 17. a. 2.) idem
-stiunc. 2.). — Secundus actus est confidere, quod esl princi-           dicil, quod spes « attingit Deum, innitens eius auxilio ad con-'
-pium et origo exspectationis , quia spes « faciendo confidere           sequendum bonum speratum... Hoc autem bonum est vita ae-
-facit exspectare » (hic in corp.). Sed haec ipsa confidentia ra-        terna, quac in fruitione ipsius Dei consistit... Et ideo proprium
-tionem motivom habet « in eo qui nec potest nec vutt sibi de-           et principale obiectum spei est beatitudo aeterna ». — Ibid. a.
-ficere; talis autem non est nisi ille, qui est potenlissimus in         6. ad 3: « Spes facit tendere in Deum sicut in quoddam bonum
-virtute et munificentissimus in liberalitate ; et hoe non habet,        finaliter adipiscendum et sicut in quoddam adiutorium, eflicax
- nisi habeat excellentiam virtutis et largilatis » (ibid.). — Atta-     ad subveniendum ».
- men hi duo actus, scilicet confidere et exspectare, licet in se              II. Posteriores theologi in assignando spei obiecto formali
- sintactus formaliter difTerentes, unum tantum requirunt habitum,       quo (sive ratione moliva) valde dissident. Nam praeter opinio-
-                                                                        nem in corp. primo relatam et opinionem auctoris (contra quam
-quia inler se habent « ordinem et eonnexionem et consequen-
-tiam naturalem... Ideo enim spcs exspectat magna bona pro-              arguit Scotus, hic n. 7.), nonnulli cum Gotti mullisque aliis di-
-missa , quia confidit de immensa largilafe promittentis ; unde          scipulis S. Thomae dicunt, illud esse omnipolentiam Dei ut auxi-
-quia unus istorum actuum est ratio alterius, hinc est, quod             liantem; amorem autem concupiscentiae , quo amatur beatitudo
-non perlinent ad diversos habitus, sed ad unum » (supra a. 1.           ut bonum noslrum, se habere ad spein ut anlecedens; alii vero
-q. 2. ad f .). — Concluditur (hic in corp.): « Quoniam spes habet       volunt, esse Dei bonilalem ut nobis convenientem et amabilem
-obiectum magnum et arduum in confidendo » [scilicet excellen-           amore concupiscentiae (quae opinio a multis tribuHur Scoto);
-tiam virtutis et largitatis divinae] ; hinc esl, quod habet pro obie-   alii, esse divinam promissionem ; denique (secundum Scotum,
-cto magnum et arduum in exspectando, scilicet bonum aeternum,           ut eius sententiam interpretantur Frassenius et Henno), esse boni-
-quod est ipsa immensa Bonitas, divina, et bonum perpetuum,              tatem Dei respectivam , nobis infallibiliter promissam , ila ut boni-
-quod est beatitudo creala, ut egregie explicatur infra dub. 1.           tas et promissio infallibilis ingrediantur ralionem obiccli; motivi.
-Cfr. scholion ad q. S.                                                        III. Praeler locos citatos: B. Albert., hic a. 8. — Petr. a
-      In substamia huius doctrinae praeter Petrum a Tar. et Ri-         Tar., hic a. 5. — Richard. a Med. hic a. 4. q. 1.
+5. *Item*, hoc ipsum ostenditur ratione magis propria per definitionem ipsius spei[^5]: « Spes enim est exspectatio futurae beatitudinis »: si ergo beatitudo nominat bonum sub ratione boni, videtur ergo, quod bonum sub ratione boni sit obiectum ipsius spei.
+
+**Sed contra:** 1. Virtutes theologicae distinguuntur per obiecta, secundum quod habent propriam rationem; sed caritas est in bonum sub ratione boni[^6]: ergo si spes distinguitur a caritate, bonum sub ratione boni non erit obiectum spei.
+
+2. *Item*, circumscripta ratione boni et mali, adhuc contingit timere, sicut in patria Deum timebimus[^7], non quidem sub ratione mali nec sub ratione boni, quia sub illa ratione amabimus — bonum enim sub ratione boni magis generat amorem quam timorem — si ergo contingit timere, circumscripta ratione boni et mali, igitur et contingit sperare: ergo obiectum spei non est bonum sub ratione boni, neque malum sub ratione mali.
+
+3. *Item*, nullus timet malum, quod est subiectum suae potestati; sed quicumque timet malum, timet sub ratione excellentis[^8]: si ergo spes sic est in bonum, sicut timor in malum; videtur, quod spes non sit in bonum sub ratione boni, sed magis sub ratione ardui.
+
+4. *Item*, sicut homo naturaliter appetit illuminari et delectari, ita etiam naturaliter appetit gloriari, et hoc dico secundum ipsius animae supremum[^9]: ergo sicut in nobis est reperire aliquas virtutes perficientes et dirigentes ipsam animam respectu veri illuminantis et respectu boni delectantis, utpote fidem et caritatem; ita erit respectu ardui et excellentis; hanc autem non est dare nisi spem: ergo etc.
+
+5. *Item*, licet omnes virtutes gratuitae quodam modo elevent mentem, et hoc maxime faciant virtutes theologicae; elevatio tamen et erectio ipsius animi propriissime competit ipsi spei: ergo si virtus spei maxime consistit in erigendo et elevando ipsum animum, cum animus noster magnus sit nec sit natus erigere se nisi ad magna et ardua[^10]; videtur ergo, quod obiectum spei quantum ad efficaciam movendi teneat rationem ardui: non ergo obiectum spei est bonum sub ratione boni.
+
+> ### Conclusio.
+> Obiectum spei est bonum sub ratione magni et ardui, vel etiam bonum sub ratione gloriosi et aeterni.
+
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod quidam dicere voluerunt, obiectum spei esse bonum sub ratione futuri. Dixerunt enim, quod omnes affectiones animae vel sunt respectu boni, vel sunt respectu mali; et sicut gaudium est respectu boni praesentis, dolor vero, qui est affectio sibi opposita, est respectu praesentis mali; sic spes est respectu futuri boni, timor vero respectu futuri mali. Quod autem movit eos hoc ponere fuit, quia posuerunt, quod duplex sit tantum obiectum, in quod tendit anima: unum scilicet verum, in quod tendit intellectus, alterum scilicet bonum, in quod tendit affectus; et ideo cum spes non sit in verum sub ratione veri, voluerunt dicere, quod sit in bonum sub ratione boni. In hoc tamen differt a caritate: quia caritas est in bonum sub ratione boni simpliciter, non considerando praesens nec futurum; et quia bonum sub ratione boni est amandum, ideo actus ipsius caritatis est amare. Spes autem est in bonum non tantum sub ratione boni, sed etiam sub ratione futuri; et quia bonum futurum, in quantum futurum, est exspectandum, ideo actus ipsius spei est exspectare; et quia exspectare et amare sunt actus diversi: hinc est, quod spes et caritas diversae sunt virtutes, non principaliter ratione diversitatis obiectorum, sed ratione diversitatis actuum propriorum.
+
+Licet autem hic modus dicendi videatur aliquid probabilitatis habere, interius tamen consideranti non satisfacit dubitationi nec consonat veritati. Nam quod dicitur, quod non est aliud obiectum motivum potentiarum animae nisi verum sub ratione veri et bonum sub ratione boni, simpliciter non habet veritatem,
+
+<!-- page 577 -->
+
+pro eo quod, sicut in opponendo[^11] tactum est, quemadmodum rationalis tendit in verum, et concupiscibilis in bonum, sic etiam irascibilis nostra tendit in arduum et magnum. — *Rursus*, quod dicit, bonum sub ratione boni futuri esse motivum alterius affectionis quam bonum sub ratione boni; non habet veritatem, pro eo quod bonum sub ratione futuri desideratur, et desiderium non est spes, sed magis quaedam differentia amoris, et ad ipsam caritatem pertinet desiderare[^12]. — *Amplius*, quod dicit, timorem esse respectu mali sub ratione mali; non habet veritatem; contingit enim timere, sicut in opponendo[^13] ostensum est, abstracta ratione mali; sicut timebitur Deus in patria. — *Praeterea*, si quando malum timetur, non timetur, nisi quia excellens; si ergo affectio, quae est timor, in suo obiecto magis concernit excellentiam quam malitiam sub ratione motivi: restat similiter, quod et affectio sibi correspondens, videlicet spes.
+
+Est igitur obiectum spei bonum quidem, sed non sub ratione boni, sed magis sub ratione ardui sive magni. — Et hoc quidem sic habet manifestari. Spei enim duplex est actus, quorum unus est principium et origo alterius; spes enim facit confidere, et faciendo confidere facit exspectare[^14]. Nullus autem recte confidens confidit et innititur nisi in eo qui nec possit nec velit sibi deficere; talis autem non est nisi ille qui est potentissimus in virtute et munificentissimus in liberalitate; et hoc non habet, nisi habeat excellentiam virtutis et largitatis. Cum autem quis totam fiduciam suam in eum posuit, qui excellentissimae virtutis est et liberalitatis; magna ab eo exspectat se assecuturum[^15]. Quoniam ergo spes habet obiectum magnum et arduum in confidendo; hinc est, quod habet pro obiecto magnum et arduum in exspectando. Et hinc est, quod ipse Dominus, in quo speramus, magna promittit nobis in consolationem spei nostrae, iuxta quod dicit Abrahae, Genesis decimo quinto[^16]: *Noli timere, Abraham, ego protector tuus sum et merces tua magna nimis*; quasi dicat: Ego protector, in quo debes confidere, et merces tua magna, quam debes exspectare.
+
+Concedendum est igitur, quod obiectum spei est bonum sub ratione magni vel ardui. — Et quia gloriosum nominat magnum sublimitate, aeternum nominat magnum diuturnitate, illud intensive, istud extensive[^17]; ideo concedi potest etiam, quod obiectum spei sit bonum sub ratione gloriosi et sub ratione aeterni, hoc est sub ratione excellentis et indeficientis, quia haec duo concurrunt ad perfectam rationem magnitudinis ipsius boni. — Concedendae sunt ergo rationes, quae sunt ad partem istam.
+
+*Ad 1.* Ad illud quod obiicitur, quod sicut se habet scientia ad verum, ita virtus ad bonum: dicendum, quod hoc non est omnino simile: quia cognitiva non habet obiectum nisi unius rationis, scilicet verum; sed affectiva, cum duplicetur in duas vires, videlicet in concupiscibilem et irascibilem, obiectum habet duplicis rationis, videlicet bonum, quod concupiscit, et arduum, ad quod se erigit[^18].
+
+*Ad 2.* Ad illud quod obiicitur, quod virtus theologica idem habet pro obiecto et pro fine; dicendum, quod si hoc intelligatur de identitate quantum ad substantiam, sic verum est, quia ipse Deus est finis et obiectum earum. Si autem loquamur quantum ad rationem movendi, sic non habet veritatem nisi in sola virtute, quae est caritas; ipsa enim habet bonum sub ratione boni et pro obiecto et pro fine; ideo principatum tenet inter ceteras virtutes, sicut infra[^19] manifestabitur. In fide autem et spe non habet veritatem; et quoniam in illa ratione procedit ab identitate secundum substantiam ad identitatem secundum rationem: ideo in processu illo est peccatum secundum accidens.
+
+*Ad 3.* Ad illud quod obiicitur, quod sic se habet spes respectu futuri, sicut gaudium respectu praesentis: dicendum, quod similitudo bona est quantum ad differentiam futuritionis[^20] et praesentialitatis, sed quantum ad rationem boni motivi non est similitudo. Bonum enim sub ratione boni, quando praesens est, delectat et reficit ipsam concupiscibilem; sed sub hac ratione non habet elevare et erigere, immo potius sub ratione excellentis. Delectatio enim, quae est in gaudio, respicit convenientiam; sed erectio, quae est in spe, respicit excellentiam.
+
+<!-- page 578 -->
+
+*Ad 4.* Ad illud quod obiicitur, quod spes est respectu boni tantum, ergo habet obiectum bonum sub ratione boni; dicendum, quod illud non sequitur, pro eo quod ista non est sola ratio, propter quam aliquid tendat solummodo in bonum, quia motivum eius est bonum sub ratione boni, sed etiam propter hoc, quod illud quod est motivum eius, habet semper bonum sibi substratum. Et hoc modo intelligendum est se habere in spe. Illud enim arduum et excellens, ad quod assequendum erigitur anima, non potest esse nisi bonum.
+
+*Ad 5.* Ad illud quod obiicitur, quod spes est exspectatio futurae beatitudinis; dicendum, quod spes non exspectat beatitudinem, nisi in quantum tenet rationem magni et ardui, hoc est rationem excellentis et indeficientis. Et quia ista duo importat beatitudo de sua prima ratione; hinc est, quod spes magis habet definiri per beatitudinem quam alia virtus: unde in ratione illa est peccatum secundum accidens. Quamvis enim beatitudo habeat rationem boni, tamen non cadit principaliter sub exspectatione spei sub illa ratione, sed in quantum habet rationem ardui.
+
+### Scholion
+**I.** Spes, ut est passio, importat motum appetitus in aliquod bonum, commensuratum quidem appetenti, sed arduum (S. Thom., hic q. 1. a. 2.). Terminus *arduum* « addit quandam specialem rationem bonitatis, scilicet pretiositatis » (ibid. ad 1.). Hinc S. Bonav. docet, bonum sub ratione *ardui* (*magni*, *excellentis*, vel etiam *gloriosi* et *aeterni*) esse spei obiectum formale et rationem motivam: bonum quidem, quia in spe est protensio appetitus, qui non est nisi ad bonum (ad 4.), quod exspectat; ardui autem et excellentis, quia erigit animum confidentem et innitentem summae et immensae largitati (supra a. 1. q. 1.); nam bonum sub ratione excellentis erigit (hic ad 3.). Duo enim actus implicantur in spe, quorum primus est *exspectare*; et « qui exspectat adventum desiderat exspectati » (infra dub. 2.), nempe boni convenientis. Sed hoc desiderium « se habet ad spem sicut commune ad proprium, in quantum spes addit certitudinem circa exspectationem » (S. Thom., loc. cit. a. 3. ad 1.). « Motus appetitus incipit in desiderio... Desiderium est quaedam inchoatio amoris » (Ibid. q. 2. a. 3. quaestiunc. 2.). — Secundus actus est *confidere*, quod est principium et origo *exspectationis*, quia spes « faciendo confidere facit exspectare » (hic in corp.). Sed haec ipsa confidentia rationem motivam habet « in eo qui nec potest nec vult sibi deficere; talis autem non est nisi ille, qui est potentissimus in virtute et munificentissimus in liberalitate; et hoc non habet, nisi habeat excellentiam virtutis et largitatis » (ibid.). — Attamen hi duo actus, scilicet confidere et exspectare, licet in se sint actus formaliter differentes, unum tantum requirunt habitum, quia inter se habent « ordinem et connexionem et consequentiam naturalem... Ideo enim spes exspectat magna bona promissa, quia confidit de immensa largitate promittentis; unde quia unus istorum actuum est ratio alterius, hinc est, quod non pertinent ad diversos habitus, sed ad unum » (supra a. 1. q. 2. ad 1.). — Concluditur (hic in corp.): « Quoniam spes habet obiectum magnum et arduum in confidendo » [scilicet excellentiam virtutis et largitatis divinae]; hinc est, quod habet pro obiecto magnum et arduum in exspectando, scilicet bonum aeternum, quod est ipsa immensa Bonitas, divina, et bonum perpetuum, quod est beatitudo creata, ut egregie explicatur infra dub. 1. Cfr. scholion ad q. 5.
+
+In substantia huius doctrinae praeter Petrum a Tar. et Richardum a Med. consentit etiam S. Thom. (hic q. 2. a. 3. quaestiunc. 1.). Postquam enim (ibid. in corp.) dixit: « Oportet, quod voluntas ad hoc, quod operari incipiat, tendat in illud [appetibile] sicut in possibile; et haec inclinatio voluntatis tendentis in bonum aeternum quasi possibile sibi per gratiam est actus spei »; deinde (ad 1.) addit: « Idem secundum rem est obiectum omnium virtutum theologicarum, sed differt secundum rationem, quia, in quantum est summum verum, est obiectum fidei; in quantum est summum bonum, est obiectum caritatis; in quantum est altissimum arduum, est obiectum spei. Et quia beatitudo nominat maxime arduum... ideo in definitione spei praecipue ponitur beatitudo » (cfr. S. II. II. q. 17. a. 6, et Bonav. hic ad 5. et infra dub. 2, ubi ratio exhibetur, quare beatitudo approprietur spei). Ibid. ad 4: « Tendere in appetibile est tam irascibilis quam concupiscibilis, sed differenter: quia tendere in aliquod bonum, ut est bonum simpliciter, est concupiscibilis, sed tendere in aliquod, ut est arduum et difficile, est irascibilis ». In Sum. autem (II. II. q. 17. a. 2.) idem dicit, quod spes « attingit Deum, innitens eius auxilio ad consequendum bonum speratum... Hoc autem bonum est vita aeterna, quae in fruitione ipsius Dei consistit... Et ideo proprium et principale obiectum spei est beatitudo aeterna ». — Ibid. a. 6. ad 3: « Spes facit tendere in Deum sicut in quoddam bonum finaliter adipiscendum et sicut in quoddam adiutorium efficax ad subveniendum ».
+
+**II.** Posteriores theologi in assignando spei obiecto formali *quo* (sive *ratione motiva*) valde dissident. Nam praeter opinionem in corp. primo relatam et opinionem auctoris (contra quam arguit Scotus, hic n. 7.), nonnulli cum Gotti multisque aliis discipulis S. Thomae dicunt, illud esse omnipotentiam Dei ut auxiliantem; amorem autem concupiscentiae, quo amatur beatitudo ut bonum nostrum, se habere ad spem ut antecedens; alii vero volunt, esse Dei bonitatem ut nobis convenientem et amabilem amore concupiscentiae (quae opinio a multis tribuitur Scoto); alii, esse divinam promissionem; denique (secundum Scotum, ut eius sententiam interpretantur Frassenius et Henno), esse bonitatem Dei respectivam, nobis infallibiliter promissam, ita ut bonitas et promissio infallibilis ingrediantur rationem obiecti motivi.
+
+**III.** Praeter locos citatos: B. Albert., hic a. 8. — Petr. a Tar., hic a. 5. — Richard. a Med. hic a. 4. q. 1.
+
+---
 
 ## English
 
-[Translation pending]
+### Question IV. *Whether hope is toward the good under the formal character of the good.*
+
+Fourth, there is inquiry concerning hope itself by comparison to its object, and the question is whether hope is toward the good under the formal character of the good. And that it is so seems to be the case:
+
+1. *First*, by reason of virtue in general: because, just as knowledge is with respect to the true, so virtue is with respect to the good[^1]; but all knowledge is toward the true under the formal character of the true: therefore all virtue is toward the good under the formal character of the good: if then hope is a virtue, therefore it is toward the good under the formal character of the good.
+
+2. *Likewise*, this same thing seems to follow by a more proper reason, which is taken from the property of a theological virtue: for a theological virtue has the same thing for its object and for its end; but « the good and the end are the same[^2] »: therefore since hope is a theological virtue, and the good under the formal character of the good is its end, therefore the good under the formal character of the good will be its object.
+
+3. *Likewise*, this same thing is shown further by a more special reason, by comparison to the other kinds of affections: because, as joy stands with respect to the present, so hope stands with respect to the future; but joy is concerning the present good under the formal character of the good: therefore hope is concerning the future good under the formal character of the good[^3].
+
+4. *Likewise*, this same thing is shown by a yet more special reason, by comparison to another species of virtue: because, as Augustine says[^4], faith differs from hope in this, that faith is with respect to good and evil, hope is with respect to good alone. For if faith could be at once of good and of evil, on the ground that it did not regard the good under the formal character of the good, but rather under the formal character of the true; hope, however, determines the good for itself, in such a way that it is in no way toward its opposite: it seems therefore that hope itself is toward the good under the formal character of the good.
+
+5. *Likewise*, this same thing is shown by a more proper reason, through the definition of hope itself[^5]: « For hope is the expectation of future beatitude »: if then beatitude names the good under the formal character of the good, it seems therefore that the good under the formal character of the good is the object of hope itself.
+
+**On the contrary:** 1. The theological virtues are distinguished through their objects, insofar as they have a proper formal character; but charity is toward the good under the formal character of the good[^6]: therefore if hope is distinguished from charity, the good under the formal character of the good will not be the object of hope.
+
+2. *Likewise*, with the formal character of good and evil set aside, it still happens that one fears, just as in the fatherland we shall fear God[^7], not indeed under the formal character of evil nor under the formal character of the good, since under that formal character we shall love — for the good under the formal character of the good generates love rather than fear — if then it happens that one fears with the formal character of good and evil set aside, therefore it also happens that one hopes: therefore the object of hope is not the good under the formal character of the good, nor evil under the formal character of evil.
+
+3. *Likewise*, no one fears an evil that is subject to his own power; but whoever fears an evil, fears it under the formal character of what is surpassing[^8]: if then hope is toward the good in the way that fear is toward evil; it seems that hope is not toward the good under the formal character of the good, but rather under the formal character of the arduous.
+
+4. *Likewise*, just as a man naturally desires to be illumined and to be delighted, so also he naturally desires to be glorified, and I say this according to the highest part of the soul itself[^9]: therefore just as there is to be found in us certain virtues perfecting and directing the soul itself with respect to the illuminating true and with respect to the delighting good, namely faith and charity; so there will be one with respect to the arduous and the surpassing; but this is not to be assigned to anything except hope: therefore etc.
+
+5. *Likewise*, although all gratuitous virtues in a certain manner elevate the mind, and the theological virtues do this most of all; nevertheless the elevation and erecting of the spirit itself most properly belongs to hope itself: therefore if the virtue of hope consists most of all in erecting and elevating the spirit itself, since our spirit is great and is not born to raise itself except to great and arduous things[^10]; it seems therefore that the object of hope, as to the efficacy of moving, holds the formal character of the arduous: therefore the object of hope is not the good under the formal character of the good.
+
+> ### Conclusion.
+> The object of hope is the good under the formal character of the great and the arduous, or also the good under the formal character of the glorious and the eternal.
+
+**I respond:** For the understanding of what has been said it must be noted that some have wished to say that the object of hope is the good under the formal character of the future. For they said that all the affections of the soul are either with respect to the good, or with respect to evil; and just as joy is with respect to the present good, while sorrow, which is the affection opposed to it, is with respect to present evil; so hope is with respect to the future good, and fear with respect to future evil. Now what moved them to posit this was that they held there to be only a twofold object toward which the soul tends: one, namely, the true, toward which the intellect tends, the other, namely, the good, toward which the affect tends; and therefore, since hope is not toward the true under the formal character of the true, they wished to say that it is toward the good under the formal character of the good. In this, however, it differs from charity: because charity is toward the good under the formal character of the good simply, without considering the present or the future; and because the good under the formal character of the good is to be loved, therefore the act of charity itself is to love. Hope, however, is toward the good not only under the formal character of the good, but also under the formal character of the future; and because the future good, insofar as it is future, is to be expected, therefore the act of hope itself is to expect; and because to expect and to love are diverse acts: hence it is that hope and charity are diverse virtues, not principally by reason of a diversity of objects, but by reason of the diversity of their proper acts.
+
+But although this manner of speaking may seem to have something of probability, nevertheless to one considering it more inwardly it does not satisfy the difficulty nor accord with the truth. For what is said, that there is no other moving object of the powers of the soul than the true under the formal character of the true and the good under the formal character of the good, simply does not hold true,
+
+because, as was touched upon in the opposing arguments[^11], just as the rational tends toward the true, and the concupiscible toward the good, so also our irascible tends toward the arduous and the great. — *Again*, what it says, that the good under the formal character of the future good is the motive of a different affection than the good under the formal character of the good; does not hold true, on the ground that the good under the formal character of the future is desired, and desire is not hope, but rather a certain differentiation of love, and to desire belongs to charity itself[^12]. — *Furthermore*, what it says, that fear is with respect to evil under the formal character of evil; does not hold true; for it happens that one fears, as was shown in the opposing arguments[^13], with the formal character of evil abstracted; just as God will be feared in the fatherland. — *Moreover*, if at any time an evil is feared, it is not feared except because it is surpassing; if then the affection which is fear regards in its object the surpassing more than the malice under the formal character of the motive: it remains likewise that the affection corresponding to it, namely hope, does too.
+
+The object of hope is therefore the good indeed, but not under the formal character of the good, but rather under the formal character of the arduous or the great. — And this can be made manifest thus. For hope has a twofold act, of which one is the principle and origin of the other; for hope makes one confident, and by making one confident it makes one expect[^14]. But no one who is rightly confident is confident and relies except on him who can neither fail him nor wishes to; and such a one is none but he who is most powerful in might and most munificent in liberality; and one does not have this unless he have excellence of might and of bounty. But when someone has placed his whole trust in him who is of most excellent might and liberality; he expects to obtain great things from him[^15]. Since therefore hope has a great and arduous object in being confident; hence it is that it has for its object the great and arduous in expecting. And hence it is that the Lord himself, in whom we hope, promises us great things for the consolation of our hope, according to what he says to Abraham, Genesis the fifteenth[^16]: *Fear not, Abraham, I am thy protector and thy reward exceeding great*; as if to say: I am the protector, in whom thou oughtest to be confident, and thy reward is great, which thou oughtest to expect.
+
+It must therefore be granted that the object of hope is the good under the formal character of the great or the arduous. — And because the glorious names the great by loftiness, the eternal names the great by lastingness, the former intensively, the latter extensively[^17]; therefore it can also be granted that the object of hope is the good under the formal character of the glorious and under the formal character of the eternal, that is, under the formal character of the surpassing and the unfailing, since these two concur toward the perfect formal character of the magnitude of the good itself. — Therefore the arguments which are for this side are to be granted.
+
+*To 1.* To that which is objected, that as knowledge stands to the true, so virtue stands to the good: it must be said that this is not entirely similar: because the cognitive power has an object of only one formal character, namely the true; but the affective power, since it is doubled into two forces, namely the concupiscible and the irascible, has an object of a twofold formal character, namely the good, which it desires, and the arduous, toward which it raises itself[^18].
+
+*To 2.* To that which is objected, that a theological virtue has the same thing for its object and for its end; it must be said that if this be understood of identity as to substance, thus it is true, because God himself is the end and object of them. But if we speak as to the formal character of moving, thus it does not hold true except in the one virtue which is charity; for it alone has the good under the formal character of the good both for object and for end; therefore it holds the primacy among the other virtues, as will be made manifest below[^19]. In faith, however, and in hope it does not hold true; and since in that formal character it proceeds from identity according to substance to identity according to formal character: therefore in that process there is sin according to accident.
+
+*To 3.* To that which is objected, that hope stands with respect to the future as joy stands with respect to the present: it must be said that the likeness is good as to the difference of futurity[^20] and presentness, but as to the formal character of the moving good there is no likeness. For the good under the formal character of the good, when it is present, delights and refreshes the concupiscible itself; but under this formal character it does not elevate and erect, but rather under the formal character of the surpassing. For the delight which is in joy regards fittingness; but the erecting which is in hope regards excellence.
+
+*To 4.* To that which is objected, that hope is with respect to the good alone, therefore it has the good for its object under the formal character of the good; it must be said that this does not follow, on the ground that this is not the only formal character on account of which something tends solely toward the good, because its motive is the good under the formal character of the good, but also on account of this, that that which is its motive always has a good underlying it. And in this way it must be understood to hold in hope. For that arduous and surpassing thing, for the attaining of which the soul is raised up, cannot be other than a good.
+
+*To 5.* To that which is objected, that hope is the expectation of future beatitude; it must be said that hope does not expect beatitude except insofar as it holds the formal character of the great and the arduous, that is, the formal character of the surpassing and the unfailing. And because beatitude implies these two from its first formal character; hence it is that hope is more to be defined by beatitude than another virtue: whence in that formal character there is sin according to accident. For although beatitude has the formal character of the good, nevertheless it does not fall principally under the expectation of hope under that formal character, but insofar as it has the formal character of the arduous.
+
+### Scholion
+**I.** Hope, as it is a passion, implies a motion of the appetite toward some good, commensurate indeed to the one desiring, but arduous (St. Thomas, here q. 1, a. 2). The term *arduous* « adds a certain special formal character of goodness, namely of preciousness » (ibid. ad 1). Hence St. Bonaventure teaches that the good under the formal character of the *arduous* (*great*, *surpassing*, or also *glorious* and *eternal*) is the formal object of hope and its motive character: a good indeed, since in hope there is a stretching forth of the appetite, which is only toward the good (ad 4), which it expects; but of the arduous and surpassing, since it erects the spirit that is confident and that relies on the supreme and immense bounty (above a. 1, q. 1); for the good under the formal character of the surpassing erects (here ad 3). For two acts are implied in hope, of which the first is *to expect*; and « he who expects an arrival desires the thing expected » (below dub. 2), namely a fitting good. But this desire « stands to hope as the common to the proper, insofar as hope adds certitude regarding the expectation » (St. Thomas, loc. cit. a. 3, ad 1). « The motion of the appetite begins in desire... Desire is a certain inchoation of love » (Ibid. q. 2, a. 3, quaestiunc. 2). — The second act is *to be confident*, which is the principle and origin of *expectation*, because hope « by making one confident makes one expect » (here in the body). But this confidence itself has its motive character « in him who can neither fail nor wishes to fail; and such a one is none but he who is most powerful in might and most munificent in liberality; and one does not have this unless he have excellence of might and of bounty » (ibid.). — Yet these two acts, namely to be confident and to expect, although in themselves they are acts formally differing, require only one habit, because they have among themselves « order and connection and natural consequence... For hope expects the great goods promised precisely because it is confident of the immense bounty of the one promising; whence because one of these acts is the ground of the other, hence it is that they do not pertain to diverse habits, but to one » (above a. 1, q. 2, ad 1). — It is concluded (here in the body): « Since hope has a great and arduous object in being confident » [namely the excellence of the divine might and bounty]; hence it is that it has for its object the great and arduous in expecting, namely the eternal good, which is the immense divine Goodness itself, and the perpetual good, which is created beatitude, as is excellently set forth below in dub. 1. Cf. the scholion on q. 5.
+
+In the substance of this doctrine, besides Peter of Tarentaise and Richard of Mediavilla, St. Thomas also agrees (here q. 2, a. 3, quaestiunc. 1). For after he has said (ibid. in the body): « It is necessary that the will, in order that it may begin to operate, should tend toward that [appetible] as toward something possible; and this inclination of the will tending toward the eternal good as possible for itself through grace is the act of hope »; he then (ad 1) adds: « The same thing according to the reality is the object of all the theological virtues, but it differs according to formal character, because, insofar as it is the highest true, it is the object of faith; insofar as it is the highest good, it is the object of charity; insofar as it is the loftiest arduous, it is the object of hope. And because beatitude names what is most of all arduous... therefore in the definition of hope beatitude is principally posited » (cf. Summa II-II, q. 17, a. 6, and Bonaventure here ad 5 and below dub. 2, where the reason is given why beatitude is appropriated to hope). Ibid. ad 4: « To tend toward an appetible belongs both to the irascible and to the concupiscible, but differently: because to tend toward some good, as it is good simply, belongs to the concupiscible, but to tend toward something, as it is arduous and difficult, belongs to the irascible ». In the Summa, however (II-II, q. 17, a. 2), the same one says that hope « attains God, relying on his help for obtaining the hoped-for good... Now this good is eternal life, which consists in the fruition of God himself... And therefore the proper and principal object of hope is eternal beatitude ». — Ibid. a. 6, ad 3: « Hope makes one tend toward God as toward a certain good to be finally obtained and as toward a certain efficacious help for coming to one's aid ».
+
+**II.** Later theologians disagree greatly in assigning the formal object *whereby* (or the *motive formal character*) of hope. For besides the opinion first related in the body and the opinion of the author (against which Scotus argues, here n. 7), some, with Gotti and many other disciples of St. Thomas, say that it is the omnipotence of God as helping; and that the love of concupiscence, by which beatitude is loved as our good, stands to hope as antecedent; while others hold it to be God's goodness as fitting and lovable to us with the love of concupiscence (which opinion is by many ascribed to Scotus); others, the divine promise; finally (according to Scotus, as Frassen and Henno interpret his view), the relative goodness of God, infallibly promised to us, so that the goodness and the infallible promise enter into the formal character of the motive object.
+
+**III.** Besides the places cited: Blessed Albert, here a. 8. — Peter of Tarentaise, here a. 5. — Richard of Mediavilla, here a. 4, q. 1.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts the footnote numbering on each printed page; the markers below run continuously [^1]–[^20], with the true per-page Quaracchi number given in the trailing `(P. NNN, n. N.)` tag — p.575 (nn.3, 5–8), p.576 (nn.1, 2, 4–6), p.577 (nn.1–10). This quaestio shares printed p.575 with q3, which owns that page's nn.1, 2, and 4.
+
+[^1]: **La.** Cfr. supra pag. 470, nota 3. — Quod spes sit virtus, ostensum est supra a. 1. q. 1. *(P. 575, n. 5.)*
+
+    **En.** Cf. above p. 470, note 3. — That hope is a virtue was shown above a. 1, q. 1.
+
+[^2]: **La.** Secundum Aristot., III. Metaph. text. 3. (II. c. 2.). Cfr. ibid. II. text. 8. (I. brevior, c. 2.): Qui faciunt infinitum, latet eos, quod boni naturam auferunt. — De obiecto et fine virtutis theologicae cfr. infra d. 33. q. 1. praecipue ad 3. — Quod spes sit virtus theologica, vide supra a. 1. q. 3. — Multi codd. omittunt *sunt*. *(P. 575, n. 6.)*
+
+    **En.** According to Aristotle, Metaphysics III, text 3 (II, c. 2). Cf. ibid. II, text 8 (I, shorter, c. 2): Those who make the infinite fail to notice that they take away the nature of the good. — On the object and end of a theological virtue cf. below d. 33, q. 1, especially ad 3. — That hope is a theological virtue, see above a. 1, q. 3. — Many codices omit *sunt* ["are"].
+
+[^3]: **La.** Epist. I. Cor. 13, 13: Nunc autem manent fides, spes, caritas, tria haec; maior autem horum est caritas. — De aequalitate virtutum cfr. infra d. 27. a. 2. q. 1. et d. 36. q. 5. — De vi irascibili infra q. 5; et de dotibus I. Sent. d. 3. p. II. a. 1. q. 1. ad 1, nec non IV. Sent. d. 49. p. I. q. 3. *(P. 575, n. 3.)*
+
+    **En.** First Epistle to the Corinthians 13:13: But now there remain faith, hope, charity, these three; but the greatest of these is charity. — On the equality of the virtues cf. below d. 27, a. 2, q. 1 and d. 36, q. 5. — On the irascible power below q. 5; and on the dowries Book I of the Sentences d. 3, p. II, a. 1, q. 1, ad 1, and also Book IV of the Sentences d. 49, p. I, q. 3.
+
+[^4]: **La.** Enchirid. c. 8. n. 2. Vide hic lit. Magistri, c. 3. *(P. 575, n. 8.)*
+
+    **En.** Enchiridion c. 8, n. 2. See here the text of the Master, c. 3.
+
+[^5]: **La.** Vide hic lit. Magistri, c. 1. Cfr. infra dub. 2. *(P. 576, n. 1.)*
+
+    **En.** See here the text of the Master, c. 1. Cf. below dub. 2.
+
+[^6]: **La.** Cfr. infra d. 27. a. 1. q. 1. ad 5. *(P. 576, n. 2.)*
+
+    **En.** Cf. below d. 27, a. 1, q. 1, ad 5.
+
+[^7]: **La.** Vide infra d. 34. p. II. a. 2. q. 3. *(P. 576, n. 3.)*
+
+    **En.** See below d. 34, p. II, a. 2, q. 3.
+
+[^8]: **La.** Aristot., III. Ethic. c. 6: Timemus autem ea scilicet, quae terribilia sunt; ea vero sunt, ut simpliciter dicamus, mala; unde etiam timorem exspectationem mali esse definiunt. Ac timemus quidem mala omnia, ut infamiam, paupertatem, morbum, solitudinem amicorum, mortem. Non circa omnia tamen esse vir fortis videtur etc. Ibid. c. 7: Id autem quod terrorem incutit, non omnibus est idem, dicimusque aliquid supra hominem esse, quod quidem unicuique sanae mentis homini terribile est etc. — In fine arg. pro *ardui* codd. G W Y aa et edd. 1, 2 *mali*, Vat. *magni et excellentis*. *(P. 576, n. 4.)*
+
+    **En.** Aristotle, Nicomachean Ethics III, c. 6: Now we fear those things which are terrible; and these are, to put it simply, evils; whence they also define fear as the expectation of evil. And we fear indeed all evils, such as disgrace, poverty, disease, lack of friends, death. The brave man, however, does not seem to be concerned with all of these, etc. Ibid. c. 7: But that which strikes terror is not the same for all, and we say that something is above man, which indeed is terrible to anyone of sound mind, etc. — At the end of the argument, for *ardui* ["of the arduous"] codices G W Y aa and editions 1, 2 read *mali* ["of evil"], the Vatican edition *magni et excellentis* ["of the great and surpassing"].
+
+[^9]: **La.** Bernard., Serm. 7. de Diversis n. 1, disserens de illo Apostoli (II. Cor. 10, 17. seq.): Qui gloriatur, in Domino glorietur, ait: Sed consideravit [Apostolus], rationalem creaturam adeo affectare gloriam, ut aut vix aut nunquam ab hoc compesci desiderio possit, quippe quae ad imaginem facta est Creatoris [in qua imagine consistit supremum animae]; propterea secundum datam sibi a Deo sapientiam, saluberrimum adinvenit consilium, dicens: Quando quidem persuaderi nobis non potest non gloriari, saltem qui gloriatur in Domino glorietur. Cfr. de hoc arg. lib. de Spiritu et anima (inter opera Augustini) c. 3. et 4. *(P. 576, n. 5.)*
+
+    **En.** Bernard, Sermon 7 on Diverse Topics n. 1, discoursing on that text of the Apostle (2 Cor 10:17 ff.): He that glorieth, let him glory in the Lord, says: But [the Apostle] considered that the rational creature so craves glory that it can scarcely or never be restrained from this desire, since indeed it was made to the image of the Creator [in which image the highest part of the soul consists]; therefore, according to the wisdom given to him by God, he found out a most salutary counsel, saying: Since indeed we cannot be persuaded not to glory, at least let him who glories glory in the Lord. Cf. on this topic the book On the Spirit and the Soul (among the works of Augustine) c. 3 and 4.
+
+[^10]: **La.** Bernard., Serm. 80. in Cantic. n. 3: Si enim, ut supra docui, eo anima magna est, quo capax aeternorum, eo recta, quo appetens supernorum; quae non quaerit nec sapit quae sursum sunt, sed quae super terram, non plane est recta, sed curva, cum tamen pro huiusmodi magna esse non desinat, manens utique etiam sic aeternitatis capax... si desinat magna esse, et capax, quippe de capacitate, ut dixi, aestimatur animae magnitudo. Quid vero sperare posset, cuius capax non foret? Cfr. Serm. 108. in append. sermon. August. (alias 53. de Tempore) n. 2. *(P. 576, n. 6.)*
+
+    **En.** Bernard, Sermon 80 on the Canticle n. 3: For if, as I taught above, the soul is great by that whereby it is capable of eternal things, upright by that whereby it desires things above; whereas the soul that seeks not nor savors the things that are above, but the things that are upon the earth, is plainly not upright, but bent, though even so it does not cease to be great for things of this kind, remaining indeed capable even thus of eternity... if it should cease to be great, it would also cease to be capable, since, as I said, the magnitude of the soul is estimated by its capacity. But what could it hope for, if it were not capable of it? Cf. Sermon 108 in the appendix of Augustine's sermons (otherwise 53 On the Season) n. 2.
+
+[^11]: **La.** Scil. in fundam. 3. seqq. — Paulo inferius edd. cum uno alteroque cod. omittunt *nostra*. *(P. 577, n. 1.)*
+
+    **En.** Namely in the third and following fundamental arguments. — A little below, the editions with one or another codex omit *nostra* ["our"].
+
+[^12]: **La.** Cfr. infra d. 27. dub. 1. definitio caritatis, quam August. dat I. Soliloq. c. 7. n. 14. Avicenna, de Anima, p. IV. c. 3. ait: Spes autem aliud est quam desiderium. Spes enim est imaginatio alicuius rei cum affirmatione aut opinione, quia erit; desiderium vero est imaginatio rei et concupiscentia eius et iudicare, quod delectabitur in illa, si adfuerit; timor autem est oppositus spei ad modum contrarietatis; sed diffidentia vel desperatio est eius privatio. — Paulo superius pro *sub ratione futuri desideratur* codd. A K Z *sub ratione futuri boni desideratur*. *(P. 577, n. 2.)*
+
+    **En.** Cf. below d. 27, dub. 1, the definition of charity which Augustine gives in Soliloquies I, c. 7, n. 14. Avicenna, On the Soul, p. IV, c. 3, says: But hope is something other than desire. For hope is the imagination of some thing with affirmation or opinion that it will be; but desire is the imagination of a thing and the longing for it and the judging that one will be delighted in it, if it be present; but fear is opposed to hope in the manner of contrariety; while diffidence or despair is its privation. — A little above, for *sub ratione futuri desideratur* ["is desired under the formal character of the future"] codices A K Z read *sub ratione futuri boni desideratur* ["is desired under the formal character of the future good"].
+
+[^13]: **La.** Scil. in fundam. 2. *(P. 577, n. 3.)*
+
+    **En.** Namely in the second fundamental argument.
+
+[^14]: **La.** Cfr. supra pag. 561, nota 7. *(P. 577, n. 4.)*
+
+    **En.** Cf. above p. 561, note 7.
+
+[^15]: **La.** Codd. W X Y *magnam ab eo exspectat* [cod. X *habet*] *securitatem* [codd. X V *securationem*]. *(P. 577, n. 5.)*
+
+    **En.** Codices W X Y read *magnam ab eo exspectat* ["he expects great"] [cod. X *habet*, "has"] *securitatem* ["security"] [codices X V *securationem*].
+
+[^16]: **La.** Vers. 1. Bernard., Serm. 83. in Cantic. n. 5: Quidni omnia possibilia sint innitenti super eum qui omnia potest? Quantae fiduciae vox: Omnia possum in eo qui me confortat (Phil. 4, 13.)! Nil omnipotentiam Verbi clariorem reddit, quam quod omnipotentes facit omnes, qui in se sperant. — Paulo ante pro *in consolationem* edd. cum paucis codd. *in consolatione*. *(P. 577, n. 6.)*
+
+    **En.** Verse 1. Bernard, Sermon 83 on the Canticle n. 5: Why should not all things be possible to one who relies upon him who can do all things? What a voice of confidence: I can do all things in him who strengthens me (Phil 4:13)! Nothing renders the omnipotence of the Word more manifest than that it makes all-powerful all who hope in it. — A little before, for *in consolationem* the editions with a few codices read *in consolatione*.
+
+[^17]: **La.** Respicitur praecipuum obiectum spei, scil. beatitudo (cfr. infra ad 5.), ad quam secundum August., de Moribus Eccles. cath. c. 3. n. 3, requiritur optimum et inamissibile bonum. Idem S. Doctor ait in Enarrat. in Ps. 102. n. 8: Erige spem tuam ad bonum bonorum omnium. Ipse erit bonum tuum, a quo (tu) in tuo genere factus es bonus etc. Cfr. Aristot., I. Ethic. c. 2, et Boeth., III. de Consol. prosa 2. — Paulo ante Vat. legit *quae duo*, sed codd. et edd. 1, 2 *quia duo*, nos recepimus meliorem lectionem cod. Z *quia haec duo*. *(P. 577, n. 7.)*
+
+    **En.** Reference is made to the principal object of hope, namely beatitude (cf. below ad 5), for which, according to Augustine, On the Morals of the Catholic Church c. 3, n. 3, the best and inamissible good is required. The same holy Doctor says in his Exposition on Psalm 102, n. 8: Lift up thy hope to the good of all goods. He himself will be thy good, by whom thou hast been made good in thy own kind, etc. Cf. Aristotle, Ethics I, c. 2, and Boethius, On Consolation III, prose 2. — A little before, the Vatican edition reads *quae duo* ["which two"], but the codices and editions 1, 2 read *quia duo* ["because two"]; we have received the better reading of codex Z, *quia haec duo* ["because these two"].
+
+[^18]: **La.** Cfr. quaest. seq. *(P. 577, n. 8.)*
+
+    **En.** Cf. the following question.
+
+[^19]: **La.** Dist. 27. a. 1. q. 1. ad 5, a. 2. q. 1, dub. 1; d. 31. a. 3. q. 1, et d. 36. q. 6. Cfr. supra a. 1. q. 2. — De peccato secundum accidens (cod. Z *fallacia accidentis*) vide supra pag. 179, nota 1. *(P. 577, n. 9.)*
+
+    **En.** Dist. 27, a. 1, q. 1, ad 5; a. 2, q. 1, dub. 1; d. 31, a. 3, q. 1, and d. 36, q. 6. Cf. above a. 1, q. 2. — On sin according to accident (cod. Z *fallacia accidentis*, "the fallacy of accident") see above p. 179, note 1.
+
+[^20]: **La.** Cod. Z *futuri temporis*. Subinde pro *praesentialitatis* cod. W *praesentiae*. *(P. 577, n. 10.)*
+
+    **En.** Cod. Z reads *futuri temporis* ["of future time"]. Then for *praesentialitatis* ["of presentness"] cod. W reads *praesentiae* ["of presence"].
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from IA djvu OCR (`bonaventure_vol3_raw.txt`, raw lines 39974–40204), with the vol3 PDF column-bands (printed pp.575–578 = PDF 597–600, offset +22) authoritative for the Conclusio, Respondeo, the eight *Ad*-replies, and every page footer per the Vol III two-column PDF-priority override. Body OCR for this chunk was relatively clean (single per-line fragments, not full cascade-shatter), but the PDF confirmed the Conclusio/Respondeo wording and the marginal tags (*Opinio 1.*, *Non probatur.*, *Ratio 1–4*, *Opinio auctoris et conclusio 1.*, *Conclusio 2.*, *Solutio oppositorum*, *Notandum*) column-by-column.
+
+**Page span.** Opens on p.575 (PDF 597) at the head of the right-hand reading, immediately below q3's *Ad 6 / dotes* tail; runs pp.576–577 (Sed-contra, Conclusio, Respondeo, *Ad 1–3*); closes on p.578 (PDF 600) with *Ad 4*, *Ad 5*, and the full SCHOLION §I–III. QUAESTIO V (*ad suum subiectum*) begins immediately after the scholion on p.578 R.
+
+**Cross-chunk footer split (p.575).** This printed page is shared with q3 (already Tier 2). By body anchor: q3 owns p.575 **nn.1, 2, 4** (Aristot. de Praedicam.; *Cfr. supra a. 1. q. 4.*; *Vide scholion ad I. huius articuli quaestionem*), while q4 owns **n.3** (1 Cor 13:13, rendered here as [^3]) and **nn.5–8** ([^1], [^2], [^4]). Verified the hand-off held: q3's tail (*Ad 6*) ends grammatically with footnote 4 (*…distinctionem ipsarum dotum⁴*) and q4 opens fresh with QUAESTIO IV — no splice, no orphaned footer.
+
+**Apparatus (20 entries), continuous [^1]–[^20], per-page restart carried in the `(P. NNN, n. N.)` tag:** p.575 → nn.3, 5, 6, 8 ([^3], [^1], [^2], [^4] — 4 entries); p.576 → nn.1, 2, 3, 4, 5, 6 ([^5], [^6], [^7], [^8], [^9], [^10] — 6 entries); p.577 → nn.1–10 ([^11]–[^20] — 10 entries). (Body reading-order numbering differs from the printed per-page numbering because p.575's q4 share starts at printed n.5 and n.3, read after the obj.1–obj.2 markers.)
+
+**Scholion** present and full (§I St. Thomas/Bonaventure on the twofold act of hope; §II *posteriores theologi* dispute over the formal *quo*; §III parallel-place citations). §I closes with an internal cross-reference *« Cfr. scholion ad q. 5. »* — this is Bonaventure-editorial, not a sibling-redirect that empties this chunk's scholion; the scholion is rendered in full here and placed LAST in each language block per the `extractLanguageBlock` parser gotcha.
+
+**Alignment check (PASS):** raw line 39974 title = *Utrum spes sit in bonum sub ratione boni.*; opener (39976) = *Quarto quaeritur de ipsa spe per comparationem ad obiectum… utrum spes sit in bonum sub ratione boni.* — matches the d26-a2-q3 hand-off exactly. End boundary = q5 opener *Quinto quaeritur de spe per comparationem ad subiectum…* (raw ~40208), title *Utrum spes sit in parte animae cognitiva, an affectiva.*
+
+**`[?]` flags:**
+- `[?]` p.576 footer **n.3** ([^7], *Vide infra d. 34. p. II. a. 2. q. 3.*): the body marker (Sed-contra obj.2, *in patria Deum timebimus³*) is unambiguous in OCR, but the printed p.576 footer-3 text was read in the faint L-2 band; verify the exact target reference (`d. 34. p. II. a. 2. q. 3.`) at 600 dpi in the d.21–d.30 decade-polish pass.
