@@ -184,8 +184,8 @@ according to that to the Ephesians chapter two: *On account of his exceeding cha
 [^14]: **La.** Nimirum in *minori* argumentorum. — Mox pro *quod est* edd. *qui est.* Paulo inferius pro *quam ille sit* cod. K *quam erga inimicos*, cod. Y (a secunda manu) *quam ille qui sit erga inimicos.*
     **En.** Namely in the *minor* of the arguments. — Soon, for *quod est* the editions [read] *qui est.* A little below, for *quam ille sit* codex K [reads] *quam erga inimicos*, codex Y (by a second hand) *quam ille qui sit erga inimicos.*
 
-[^15]: **La.** Ille in lit. Magistri. — Mox post *potest* cod. Z inserit *sic*. [?]
-    **En.** That one [is] in the Master's text. — Soon, after *potest* codex Z inserts *sic*. [?]
+[^15]: **La.** Ille in lit. Magistri. — Mox post *potest* cod. Z inserit *sic*.
+    **En.** That one [is] in the Master's text. — Soon, after *potest* codex Z inserts *sic*.
 
 [^16]: **La.** Cfr. supra d. 29. q. 6. et dub. 3. — Codd. A F bis *gradus.*
     **En.** Cf. above, d. 29, q. 6, and dub. 3. — Codices A, F twice [read] *gradus.*
@@ -218,4 +218,4 @@ according to that to the Ephesians chapter two: *On account of his exceeding cha
 - *Picked up from q5:* **p.668 nn.4–6** (Matt 5:46 Glossa interlinearis; Matt 5:43; Aristot. II Ethic.) — forwarded by q5, which owned p.668 only through its tail nn.1–3. Now claimed here as the leading apparatus entries.
 - *Forwarded to d30-dubia:* **p.670 nn.3–6** — n.3 (Aristot. II de Anima text. 33), n.4 (Cfr. supra p.311 nota 1; *amicum et* omission), n.5 (Edd. *esse*; cod. F *circa Deum et hominem*), n.6 (Hic in principio lit.; cod. K *unus et idem*). These cite the Dub. 1 body (obiecta / convertit / diligendum / Magister markers), which opens on p.670 immediately after the scholion. q6 keeps only p.670 nn.1–2.
 
-**`[?]` flags.** One: app. `[^7]` (p.669) — the p.669-R footer 7 OCR/print read `Ille in lit. Magistri. — Mox post *potest* cod. Z…` is partly illegible in the band (the variant after *potest* read as *sic*); rendered *inserit sic* with a flag pending the d.21–d.30 decade-polish 600 dpi pass. No other flags.
+**`[?]` flags.** None remaining. App. `[^15]` (p.669 n.7) **RESOLVED at 600 dpi** (d.21–d.30 polish gate, 2026-06-11; `/tmp/hires/p669-foot-R.png`): the p.669-R footer 7 prints `⁷ Ille in lit. Magistri. — Mox post *potest* cod. Z inserit *sic*.` exactly. The provisional reading *inserit sic* is confirmed; `[?]` removed. No other flags.

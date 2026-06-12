@@ -167,13 +167,13 @@ it is ordered to grace and glory, to which charity orders. And because in this w
 
     **En.** See the preceding question. (P. 625, n. 6.)
 
-[^12]: **La.** Cfr. Aristot., VIII. Ethic. c. 1. — Paulo superius pro *culpae, qua* edd. cum compluribus codd. *culpae, in qua.* Paulo inferius post *hinc est, quod caritas* edd. 1, 2 addunt *affectum*[?] *naturalis.* (P. 625, n. 7.)
+[^12]: **La.** Cfr. Aristot., VIII. Ethic. c. 1. — Paulo superius pro *culpae, qua* edd. cum compluribus codd. *culpae, in qua.* Paulo inferius post *hinc est, quod caritas* edd. 1, 2 addunt *nihil,* Vat. *naturalis.* (P. 625, n. 7.)
 
-    **En.** Cf. Aristotle, *Ethics* VIII, c. 1. — A little above, for *culpae, qua* the editions with several codices read *culpae, in qua.* A little below, after *hinc est, quod caritas* edd. 1, 2 add *affectum*[?] *naturalis.* (P. 625, n. 7.)
+    **En.** Cf. Aristotle, *Ethics* VIII, c. 1. — A little above, for *culpae, qua* the editions with several codices read *culpae, in qua.* A little below, after *hinc est, quod caritas* editions 1, 2 add *nihil,* the Vatican [edition] *naturalis.* (P. 625, n. 7.)
 
-[^13]: **La.** Edd. cum aliquot codd. *ordinationem.* Superius post *diligendi* pauci codd. omittunt *esse.* Mox pro *sub nomine* edd.[?] (P. 625, n. 8.)
+[^13]: **La.** Edd. cum aliquot codd. *ordinationem.* Superius post *diligendi* non pauci codd. omittunt *esse.* Mox pro *sub nomine* edd. *sub ratione.* (P. 625, n. 8.)
 
-    **En.** The editions with some codices read *ordinationem.* Above, after *diligendi* a few codices omit *esse.* Soon, for *sub nomine* the editions [read otherwise — OCR-illegible].[?] (P. 625, n. 8.)
+    **En.** The editions with some codices read *ordinationem.* Above, after *diligendi* not a few codices omit *esse.* Soon, for *sub nomine* the editions [read] *sub ratione.* (P. 625, n. 8.)
 
 [^1]: **La.** Cod. A *ad diligendi ex caritate.* (P. 625, n. 9.) [Marker on *gratiam* in obj.-reply 2; OCR fragments the entry.]
 
@@ -217,4 +217,7 @@ it is ordered to grace and glory, to which charity orders. And because in this w
 
 **Alignment:** verified — q2 title and opener both read *daemones*; opener *Secundo quaeritur, utrum ex caritate diligendi sint daemones* (raw line 43413, foot of p. 624-L). No q-swap.
 
-**[?] flags:** two, both on OCR-illegible footer tails (the p. 625 R-column footer band cascade-fragmented at the page foot, below the API-readable region): (1) `[^12]` (p. 625 n. 7) tail — the word edd. 1, 2 add after *hinc est, quod caritas*; raw shows `affectum ... naturalis` but the middle is garbled. (2) `[^13]` (p. 625 n. 8) tail — the *sub nomine* variant reading is OCR-illegible. Both deferred to the d.21–d.30 decade-polish 600 dpi pass. (p. 625 n. 9 / `[^1]` is also OCR-fragmented but the printed footer reads `Cod. A ad diligendi ex caritate`; rendered as such.)
+**[?] flags:** none remaining — both RESOLVED at 600 dpi (d.21–d.30 polish gate, 2026-06-11; `/tmp/hires/p625-foot-R.png`, `/tmp/hires/p625-n78-zoom.png`).
+- `[^12]` (p. 625 n. 7) tail: the word edd. 1, 2 add after *hinc est, quod caritas* reads **`nihil`** (NOT *affectum*), followed by `Vat. *naturalis*` — i.e. `edd. 1, 2 addunt *nihil,* Vat. *naturalis.*` Corrected.
+- `[^13]` (p. 625 n. 8) tail: the *sub nomine* variant reads `Mox pro *sub nomine* edd. *sub ratione.*` Corrected. (Also corrected `pauci`→`non pauci codd. omittunt esse`.)
+- (p. 625 n. 9 / `[^1]` confirmed `Cod. A ad diligendi ex caritate`; rendered as such — no flag.)

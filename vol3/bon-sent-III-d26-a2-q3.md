@@ -147,8 +147,8 @@ precedes that one, yet this *habit* in comparison to its act does not precede it
 [^6]: **La.** Cap. 7. n. 2. De propos. seq. cfr. infra q. 5; d. 27. a. 1. praeit. — (P. 573, n. 9.)
     **En.** Chapter 7, n. 2. On the following proposition cf. below, q. 5; d. 27, a. 1, it precedes. — (P. 573, n. 9.)
 
-[^7]: **La.** Cfr. August., I. Soliloq. c. 6. n. 12. seq. Vide etiam supra q. 1. et supra a. 1. q. 1. ad 1. — Mox pro *dirigat* non pauci codd. *dirigit*. — (P. 573, n. ad 9.)
-    **En.** Cf. Augustine, *Soliloquies* I, c. 6, n. 12 ff. See also above, q. 1, and above, a. 1, q. 1, ad 1. — Soon, for *dirigat* not a few codd. read *dirigit*. — (P. 573, n. ad 9.)
+[^7]: **La.** Cap. 7. n. 2. De propos. seq. cfr. infra q. 5; d. 27. a. 1. q. 1. et supra a. 1. q. 1. ad 1. — Mox pro *dirigat* non pauci codd. *dirigit*. — (P. 573, n. 9.)
+    **En.** Chapter 7, n. 2. On the following proposition, cf. below q. 5; d. 27, a. 1, q. 1, and above, a. 1, q. 1, ad 1. — Soon, for *dirigat* not a few codd. read *dirigit*. — (P. 573, n. 9.)
 
 [^8]: **La.** Edd. supplent *est*. — (P. 573, n. 10.)
     **En.** The editions supply *est*. — (P. 573, n. 10.)
@@ -192,7 +192,7 @@ precedes that one, yet this *habit* in comparison to its act does not precede it
 - **p.575 nn.1–4** (4): n.1 Aristot. *Categories* c. de Priori (the priority-by-consequence text) / n.2 *Cfr. supra a.1 q.4* / **n.3 not anchored in q3's body** (Epist. I Cor. 13:13 — its marker `³` belongs to q4's objection 2, which opens lower on the same printed page; left to q4) / n.4 *Vide scholion ad 1. huius articuli quaestionem* (the article-scholion cross-reference).
 
 **`[?]` flags.**
-- **`[^7]` tag** rendered `(P. 573, n. ad 9.)`: the p.573-R footer band lists, between n.9 and n.10, a continuation block (*Cfr. August., I. Soliloq.... q. 1. et supra a. 1. q. I. ad 1. — Mox pro dirigat non pauci codd. dirigit.*) that pertains to the body marker on objection 3 (`caritas` ante spem). Quaracchi prints it as part of the n.9 cluster; numbered it as `ad 9` rather than inventing a number. **[?]** — verify the exact Quaracchi numbering of this sub-note at 600 dpi in the decade-polish pass (it may be an unnumbered addendum to n.9 or a mis-set n.9-bis).
+- **`[^7]` (P. 573, n. 9) — RESOLVED at 600 dpi (d.21–d.30 polish gate, 2026-06-11; `/tmp/hires/p573-foot-R.png`).** The p.573-R footer column prints a single contiguous numbered sequence; the *Mox pro dirigat … dirigit* clause is the **tail of a regular numbered note n.9** — `⁹ Cap. 7. n. 2. De propos. seq. cfr. infra q. 5; d. 27. a. 1. q. 1. et supra a. 1. q. 1. ad 1. — Mox pro dirigat non pauci codd. dirigit.` — NOT an unnumbered addendum, an "n. ad 9", or an n.9-bis. The prior `[^7]` def text wrongly duplicated n.7's Augustine *Soliloquia* Latin and tagged it `(P. 573, n. ad 9.)`; both are corrected. The body anchor stays on *caritas* in obj. 3 (the *dirigat/dirigit* variant lemma). Tag now `(P. 573, n. 9.)`.
 - p.575 **n.3** (I Cor. 13:13) is intentionally NOT included here: its `³` marker falls on q4's objection 2 (*« bonum et finis idem sunt »*), not within q3. Confirmed by reading p.575-L: q4's QUAESTIO IV header sits above the n.3-bearing line.
 
 **Scholion (ABSENT — sibling redirect).** No scholion for this quaestio: the QUAESTIO IV header follows immediately after Ad-6. q3's own footer **n.4** (`Vide scholion ad 1. huius articuli quaestionem`) cross-references the **article scholion**, which is printed in q1's physical region (top of p.571, before the QUAESTIO II header — see d26-a2-q2's Notes redirect and the open follow-up to add it to **q1**). `has_scholion: false`.

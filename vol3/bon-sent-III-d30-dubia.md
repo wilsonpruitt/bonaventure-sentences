@@ -11,7 +11,7 @@ pdf_pages: [692, 693]
 source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 670–671"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from 450dpi column-band PDF (Vol III PDF-priority inversion; raw lines 46600–46672 cascade-shattered), fresh literal English translation, full apparatus from PDF footers (13 entries: p.670 nn.3–6 hand-off from q6 + p.671 nn.1–9), no scholion (dubia), [?] flags in Notes (2026-06-11)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from 450dpi column-band PDF (Vol III PDF-priority inversion; raw lines 46600–46672 cascade-shattered), fresh literal English translation, full apparatus from PDF footers (13 entries: p.670 nn.3–6 hand-off from q6 + p.671 nn.1–9), no scholion (dubia); [?] flags ([^2] p.670 'pag. 311', [^10] p.671 'Codd. Z aa') RESOLVED at 600 dpi in the d.21–d.30 polish gate, both confirmed as printed (2026-06-11)"
 format_version: 1
 ---
 
@@ -148,6 +148,6 @@ Likewise it is asked about this which he says: *Whoever does not forgive one who
 
 **Dubia have no scholion** (`has_scholion: false`) — the SCHOLION at the top of p.670 L belongs to d30-a1-q6.
 
-**`[?]` flags:**
-- `[?-1]` Dub. I [^2]: OCR/PDF "Cfr. supra pag. 311" — the cross-reference page number "311" is faint at 450 dpi; reading retained as printed but flag for 600 dpi confirmation in the d.21–d.30 decade-polish gate.
-- `[?-2]` Dub. III [^10]: siglum "Codd. Z aa" — the second siglum ("aa") is a doubled minuscule that could read "ad"; retained "aa" (a known Quaracchi codex siglum). Confirm at 600 dpi.
+**`[?]` flags:** none remaining — both RESOLVED at 600 dpi (d.21–d.30 polish gate, 2026-06-11).
+- Dub. I [^2] (p.670 n.4; `/tmp/hires/p670-foot-L.png`): the p.670-L footer prints `⁴ Cfr. supra pag. **311**, nota 1. — In fine arg. multi codd. et edd. 1, 2 omittunt *amicum et.*` — the cross-reference page number **311** is confirmed. Reading correct as printed.
+- Dub. III [^10] (p.671 n.6; `/tmp/hires/p671-foot-R.png`, `/tmp/hires/p671-n6b-zoom.png`): the p.671-R footer prints `⁶ Codd. **Z aa** adiungunt *sibi*.` — the second siglum is clearly **aa** (the doubled minuscule codex siglum cited elsewhere on this page), NOT "ad". Reading correct as printed.

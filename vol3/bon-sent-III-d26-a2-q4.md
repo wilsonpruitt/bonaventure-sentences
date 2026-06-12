@@ -247,5 +247,5 @@ In the substance of this doctrine, besides Peter of Tarentaise and Richard of Me
 
 **Alignment check (PASS):** raw line 39974 title = *Utrum spes sit in bonum sub ratione boni.*; opener (39976) = *Quarto quaeritur de ipsa spe per comparationem ad obiectum… utrum spes sit in bonum sub ratione boni.* — matches the d26-a2-q3 hand-off exactly. End boundary = q5 opener *Quinto quaeritur de spe per comparationem ad subiectum…* (raw ~40208), title *Utrum spes sit in parte animae cognitiva, an affectiva.*
 
-**`[?]` flags:**
-- `[?]` p.576 footer **n.3** ([^7], *Vide infra d. 34. p. II. a. 2. q. 3.*): the body marker (Sed-contra obj.2, *in patria Deum timebimus³*) is unambiguous in OCR, but the printed p.576 footer-3 text was read in the faint L-2 band; verify the exact target reference (`d. 34. p. II. a. 2. q. 3.`) at 600 dpi in the d.21–d.30 decade-polish pass.
+**`[?]` flags:** none remaining.
+- **p.576 footer n.3 ([^7]) — RESOLVED at 600 dpi (d.21–d.30 polish gate, 2026-06-11; `/tmp/hires/p576-foot-L.png`).** The p.576-L footer prints `³ Vide infra d. 34. p. II. a. 2. q. 3.` exactly; the cross-ref target digits (d. 34, p. II, a. 2, q. 3) are confirmed correct. Body anchor stays on Sed-contra obj.2 (*in patria Deum timebimus³*). No change to the def text.
