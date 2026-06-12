@@ -1,6 +1,18 @@
 # Bonaventure Sentences — Next Session Resume
 
-## ★ NEXT ACTION — bon-sent-III-d32-a1-q5 (skeleton present — PROMOTE) — ARTICULUS UNICUS, QUAESTIO V
+## ★ NEXT ACTION — bon-sent-III-d32-a1-q6 (skeleton present — PROMOTE) — ARTICULUS UNICUS, QUAESTIO VI (LAST question of d.32)
+
+**d32-a1-q5 is Tier 2 (commit `cb121db`, 2026-06-12).** *Utrum Deus magis dilexerit genus humanum quam Christum* (= TRACTATIO Quintum; *Quinto quaeritur… genus humanum quam Christum* = 1:1, no q-swap). **Printed pp.705–706** (PDF 727–728). **14-entry NOTAE apparatus** (per-page restart, continuous `[^1]`–`[^14]`): **p.705 nn.1–8 → [^1]–[^8]** (own fresh band); **p.706 nn.1–6 → [^9]–[^14]** (own; n.6=`[^14]`=*Vide scholion ad praecedentem quaest.*). **`has_scholion: false` — REDIRECT to q4 article-master scholion §II.** No `[?]` flags. translated 1204→1205. Audits as-expected (the still-skeleton a1-q6 + dubia carry the SKELETON-SUSPECT/paraphrase-HIGH flags; q5 itself clean). NOTE: the resume-advance commit was lost to a subagent socket drop; coordinator wrote this advance by hand from q5's `## Notes` (chunk commit cb121db is intact + content.json rebuilt clean at 1205). Do NOT deploy. d.31–d.40 decade gate fires only when d.40 closes (NOT NOW).
+
+> **⚡ SCHOLION HAND-OFF — d32-a1-q5 → d32-a1-q6: q6 has NO own scholion. REDIRECT to q4 article-master scholion §III** (`Vide scholion ad IV. huius articuli quaest.`). §III (per q4's scholion) forward-covers q6 (the Ioannes-vs-Petrus question). q6 = `has_scholion: false`, carried mechanically by a `Vide scholion ad…` apparatus marker.
+
+> **⚡ FOOTER HAND-OFF — d32-a1-q5 → d32-a1-q6: q6 starts its NOTAE pickup at p.706 nn.7–9** (the R-band footers that anchor to QUAESTIO VI body markers — *nono⁷* `Hic est discipulus ille`; *Ioannis⁹* Gloss/Beda), then per-page restart on p.707+. QUAESTIO VI opens immediately after q5's reply-4 (`…valor generis humani`) on **p.706**: *Sexto et ultimo quaeritur, utrum Deus magis dilexerit Ioannem quam Petrum* (TRACTATIO Sextum). After q6 comes **`bon-sent-III-d32-dubia`** (closes DISTINCTIO XXXII).
+
+**NEXT ACTION → `bon-sent-III-d32-a1-q6` (skeleton present — PROMOTE).** `type: quaestio`, distinctio:32, articulus:1, quaestio:6, `book: 3`. Title *Utrum Deus magis dilexerit Ioannem quam Petrum* (confirm vs raw). Pick up p.706 nn.7–9 as leading apparatus; redirect scholion to q4 §III. Expected translated → 1206. Two commits (chunk+content.json; resume → `bon-sent-III-d32-dubia`).
+
+---
+
+## d32-a1-q5 (DONE 2026-06-12, commit cb121db; kept for trace) — ARTICULUS UNICUS, QUAESTIO V
 
 **d32-a1-q4 is Tier 2 (commit `e15caa1`, 2026-06-12).** *Utrum Deus magis diligat hominem quam Angelum* (title = TRACTATIO Quartum; *Quarto quaeritur… hominem quam Angelum, an e converso* = 1:1, no q-swap). **Printed pp.703–705** (PDF 725–727). **14-entry NOTAE apparatus** (per-page restart, renumbered continuous `[^1]`–`[^14]`): **p.703 nn.4–11 → [^1]–[^8]** (PICKED-UP hand-off from q3; all q4 body markers ⁴–¹¹ sit on p.703); **p.704 nn.1–6 → [^9]–[^14]** (own; Respondeo/excursus/replies markers ¹–⁶). **`has_scholion: true` — q4 begins a FRESH ARTICLE-MASTER scholion §I–III on p.704–705** (the q1 scholion §I–IV covered q1–q3 ONLY): §I treats q4, **§II FORWARDS to q5**, **§III FORWARDS to q6**. So **d32-a1-q5 and a1-q6 carry NO own scholion** — they REDIRECT to THIS q4 scholion (§II for q5, §III for q6). No `[?]` flags. translated 1203→1204. Audits as-expected (d.32 paraphrase-HIGH:3 / SKELETON-SUSPECT flags are the still-skeleton a1-q5/q6 + dubia; q4 itself shows NO apparatus flag). Do NOT deploy. d.31–d.40 decade gate fires only when d.40 closes (NOT NOW).
 
