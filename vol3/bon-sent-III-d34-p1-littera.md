@@ -3,243 +3,218 @@ id: "bon-sent-III-d34-p1-littera"
 volume: 3
 book: 3
 distinctio: 34
+pars: 1
 type: littera
-line_start: 50773
-line_end: 50990
-word_count_latin: 3055
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Distinctio XXXIV — textus Magistri Sententiarum"
+title_en: "Distinction XXXIV — text of the Master of the Sentences"
+printed_pages: [731, 732, 733, 734]
+pdf_pages: [753, 754, 755, 756]
+source: "Petri Lombardi Sententiarum Libri IV, Liber III, Dist. XXXIV, Capp. I–IX (as printed in S. Bonaventurae, Opera Omnia, Tomus III, Quaracchi 1887, pp. 731–734)"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from 450 dpi PDF column bands (/tmp/colcrop/vol3-p{731,732,733,734}-{L,R}-*.png; raw lines 50773–50990), fresh literal English, full NOTAE AD LIBR. SENTENTIARUM apparatus (19 entries, per-page restart renumbered continuous: p.731 [^1]–[^2], p.732 [^3]–[^12], p.733 [^13]–[^17], p.734 [^18]–[^19]+forward), no scholion (littera) (2026-06-12)"
 format_version: 1
 ---
 
-# bon-sent-III-d34-p1-littera
+# III Sent., d. 34 (Pars I) — Littera Magistri
+## *Distinctio XXXIV — text of the Master of the Sentences*
+
+---
 
 ## Latin
+<!-- page 731 -->
 
-DISTINCTIO XXXIV.
-                                                                                        Pars I.
+### DISTINCTIO XXXIV.
 
-                                            Cap. I.                                           leslibus spiritihus redtimlantitis videtur effluere , plcno
-                                                                                             seplcm virttittim spiritualiiim fervens meatu. Si enini
-                         De septem donis Spiritus sancti.                                     lluvius riparttm editis superfusus exnndat , quanlo ma-
-                                                                                             gis Spirilus sanclus omnem siipereminens creattuam,
-                 Nunc de septem donis Spiritns sancti agendum                                cum noslrae mentis arcana lanquain inferiora perslrin-
-Prooemiam. esl , nbi prius coiisiderandum est, nn haec dona vir-                             gat, caelestem illam Aiigelortnn naluram elhisiore qua-
-           tules sint ; secundo, an in futuro desilura sint, vel om-                         dam sancliticatioimm ubertate laetificat » ! Deinde san-
-           nia, vel hortim aliqua ; deinde, an in Christo fuerint                            ctiflcationem exponens subdil : « His atitem sanctiflca-
-           cuncla haec dona.                                                                 tionihussigniflcatnr plenitudo septem spirilunliimi virtti-
-                                            Cap. II.                                         tttm, (|tias enmneral Isaias 2 dicens: spiritus sapienliae
-                                                                                             et intelleelus, spirilus consilii et fortiludinis , spiritus
-                   Utrum sint virtules, el sint in Angelis.                                  seientiae el piefatis et iimoris Domini. Unum est ergo flu-
-                                                                                             men, sed mnlli spiritiialium dononim incalus». Ouamvis
-                  Haec dona virtutes esse nec in futtiro desittira,                          ergo imilli dicaiiliir spiritiis, ul spiritus sapientiae et in-
-Ambrosios, Anibrosius ' ostendit, ea scnlein fore virtules dicens,                           tellectus elc. , unus tamen esl Dei Spiritus suae lioerlatis
-de l. et 2. et .
-<raae«i.                 ,. nmiiMlanlissime
-                ii) Angelis   .    ... esse, sic:    . « Civilas
-                                                          _. .    _Dei ',                    arhiter, omnia pro aucloritate viiluntatis dividem sin-
-            illa lerusalem caelestis, non meatii alicuius (luvii ler-                        (julis. — Hic expresse tradiluin est , seplem dona et
-            restris altltiitur, sed e.\ vilae fonle procedens Spirilus                       virlutes esse sancliflcalionesipic lidelium mentiiiin cl
-            sanctus, cuitis nos hrcvi satiamur hanstii , in illis cae-                       in liiluro iiiiii dcsiiuia, cuni sinl ct in Angelis.
+#### Pars I.
 
+### Cap. I. *De septem donis Spiritus sancti.*
 
-              1 Cfr. AristoL, de ?i'n-n ci srns. c. 3. — Pro mundvt co-                                      NOTAE AD LIBR. SENTENTIARUM.
-         lor \ srii. albus | cdd. medius cotor, Subinde pro mundilia ear-                          1 l.ilir. I. de Splrltu s. c. 16. n. I7s. — Seq. locus Ibld.
-         vis codd. a PB VZao bb sobrfetat.                                                   n. 179; cfr. II. c. 12. n. I 10. — In primo lcxlu sola cd. 8 pro
-              * Vlde supra pag. 171, nota 'i. — Poulo anle pro virtu-                        iihlmiiir iiiuiii n/liiiliir, refraganle eliam orlginnli; quam lectlo-
-         tis odd. liritihini , et pro tio ente prudentia codd. s_ bb ideo.                   niMii solam esse genulnam , slne cousn nssi rii elusrtem edltor
-              3 l.ibr. II. Ethfe. c. '(. Cfr. aoprs pag. [88,nola l.'el pag-.                Nlcolal. Infra poal riparum edd. adduril crepidiuibu*, refragan-
-         i70, no(;i 8.        MOI    pTO xnh nilmnr        difflcilit , ItC pruiiti rst      lilins codd. i'i oiiginali. Vocabulura nlitn usurpatur etfam pro
-         (iirllllllln edd. Sllh rnlinlll' llijjhnllnlis , sir pnlrsl rssi' /'nrtil ililn.    locls elevatis. Oelnde anle supereminms sdd;, exceptis i, ,'i, B,
-               * Mii: c. I , niii el vcrii.i \ n _ 1 1 - 1- habentur. Cfr, suprs p i| .      omltlunl n iii iii iii , denlque pro arcaina edd, (i, 8 cum .111-1-
-         7-20, nolii I I.                                                                    nnll nrni.
-              6 Cfr. iii: inir dublo Supptement. 9om. Alex. Hal. collat.                         ' Cap. II, 2. Inferlus slludllur nd l. Car. s. , s. Verbn
-         7(i. ii. 7; II, Allirii., blc .'i. 9; S. 'Ili.iin.. Inr i|      >.;i. '■'>; Potf.   Quamvis rnjn etc sententlnlller leguniur narUra Ibtd. n. 179,
-         ,i Tar., hlc q. 2. o. i; Rlchard. a Mcd., Iiii' a. I. q. s.                         I.. 1 1 1 1 1 1 1 il.i.l. r. 12. n. I III.
-            732                                                 SENTENTIARUM          LIB. III.
+Nunc de septem donis Spiritus sancti agendum est, ubi prius considerandum est, an haec dona virtutes sint; secundo, an in futuro desitura sint, vel omnia, vel horum aliqua; deinde, an in Christo fuerint cuncta haec dona.
 
-                                       Cap. III.                                ctum luum in timore tuo ; limorem desiturum dicit
-                                                                                sic: « Timor Domini est magnum praesidium proficien-
-                             Ulrnm in Chrislo fuerint.                          tibus ad salutem , sed pervenientibus foras mittitur. Nou
-                                                                                enim timent iam amicum, cum scilicet ad id quod re-
-                    In Christo etiam haec eadeni fuisse, Isaias ' osten-        promissum est, perducti fuerint». Ex his auctorilati-
-De3.qaaest. clit diceiis : Egredietur virga de radice lesse, et flos de         bus significalur, quod timor non erit in futuro. Si au-
-              radice eius ascendelj el requiescel super eum spiritus            tem timor non fuerit 4 in futuro ; ergo nec septem dona
-              Domini , spiritus sapientiae et inlelleclus , spiritus con-       erunt nec modo sunt in Angelis nec in animabus san-
-              silii et fortitudinis , spirilus scienliae et pietatis , et       ctis. — Ad quod dicimus, auctoritatum praemissarum Expianatio.
- Dobium i. replebit eum spiritus limoris Domini.                                quae videtur repugnanliam dirimentes, quod septem
-                    His aulem videtur obviare quod Becla 2 de limore            illa dona el in Angelis modo sunt et in animabus san-
-  Difficuitas Domini dicit super parabolas, scilicet quod omnis li-             ctis feliciter viventibus et in nobis erunt in fuluro,
-3°Vuaesi.   mor in futuro cessabit. Ait enim sic super illuni lo-               sed non habebunt omnia 6 hos usus sive haec offlcia,
-            cum : Timor Domini principium sapientiae: « Duo                     quae nunc habent ; ut verbi gratia, timor filialis modo
-Dubinm 2. sunt limores Domini : servilis, qui principium est sa-                facit timere, ne offendamus quem diligimus, et ne se-
-            pientiae; et amicabilis, qui perfectionem sapientiae co-            paremur ab eo, facit etiam nos revereri eundem ; in
-            mitatur. Serviiis principium sapienliae est, quia qui               fuluro vero faciet nos revereri, quando non timebimus
-            post errata sapere incipit primo limore corripilur di-              separari, vel offendere. Non ergo metus separationis ,
-            vino, ne punialur; sed liunc perfecla carilas foras mil-            vel offensionis nunc est in Angelis vel in animabus
-            tit. Succedit huic timor Domini sanctus , permanens                 sanctis nec in nobis crit in fuluro, sed reverentia, quae
-            in saeculum saeculi, quem non excludit caritas, sed                 esl mixta cum subiectione dileclio ; quae etiam in Chri-
-            augel; quo limet lilius, ne vel in modico oculos aman-              sto fuit, sicut Apostolus dicit in Epistola ad Hebraeos6
-            tissimi patris offendat. Ulerque in futuro cessabit. Ca-            loquens cle Chrislo : Qui exaudilus esl pro sua reve-
-AugustinuB. rilas vero nunquam excidet». Augustinus quoque su-                  renlia. — Quidam tamen secundum effeclum limorem Dubium 3.
-            per illum locum Psalnii8: Adorabo ad templum san-                   in Christo et in Angelis laiitum esse conlendunt.
+### Cap. II. *Utrum sint virtutes, et sint in Angelis.*
 
+Haec dona virtutes esse nec in futuro desitura, Ambrosius[^1] ostendit, ea septem fore virtutes dicens, et in Angelis abundantissime esse, sic: «Civitas Dei illa Ierusalem caelestis, non meatu alicuius fluvii terrestris abluitur, sed e vitae fonte procedens Spiritus sanctus, cuius nos brevi satiamur haustu, in illis caelestibus spiritibus redundantius videtur effluere, pleno septem virtutum spiritualium fervens meatu. Si enim fluvius riparum editis superfusus exundat, quanto magis Spiritus sanctus omnem supereminens creaturam, cum nostrae mentis arcana tanquam inferiora perstringat, caelestem illam Angelorum naturam effusiore quadam sanctificationum ubertate laetificat»! Deinde sanctificationem exponens subdit: «His autem sanctificationibus significatur plenitudo septem spiritualium virtutum, quas enumerat Isaias[^2] dicens: spiritus sapientiae et intellectus, spiritus consilii et fortitudinis, spiritus scientiae et pietatis et timoris Domini. Unum est ergo flumen, sed multi spiritualium donorum meatus». Quamvis ergo multi dicantur spiritus, ut spiritus sapientiae et intellectus etc., unus tamen est Dei Spiritus suae libertatis arbiter, omnia pro auctoritate voluntatis dividens singulis. — Hic expresse traditum est, septem dona et virtutes esse sanctificationesque fidelium mentium et in futuro non desitura, cum sint et in Angelis.
 
-                                                                           Pars II.
+<!-- page 732 -->
 
+### Cap. III. *Utrum in Christo fuerint.*
 
-                                       Cap. IV.                                 amari ; et sic incipit excludi servilis limor a carilate.
-                                                                                Et succedit deinde limor castus sive amicabilis, quo
-                             De limorum dislinclione.                           limemus, ne sponsus lardet, ne discedal, ne offenda-
-                                                                                mus, ne eo careamus. Timor isle de amore venit; ille
-                   Et quia de timore traclandi nobis occurrit locus,            quidem servilis esl ulilis, secl non permanens in ae-
-Dubiumi.3. sciendum esl, qualuor esse timores, scilicel mundaniim               lernum, ut isle; limor divinus comes est per omnes
-             sivehiimanum, servilem, inilialem, castum vel filialem
-             sive amicabilem. Humanus limor esl , ut ait Cassiodo-                   Et alleude, quod qualuor hic dislinguuntur timo- Dubium 3.
-                                                                                gradus.
-cassiodoms. piis ' , quanclo timeinus pati pericula carnis, vel perdere         res, cum supra Beda dixerit, duos esse. Sed Beda hu- Beda.
-             bona mundi, propler quod delinquimus. Hic limor ma-                manum timorem praetermisit et nomine servilis duos,
-             lus est, qui in primo gradu cum mundo deserilur, quem              quos hic dislinximtis, complexus fuit, scilicet servilem
-             Dominus prohibel in Evangelio " dicens: Nolite limere              et initialem; amicabilem vero castum clicil. Augustinus Dubium 4.
-             eos qui occidunt corpus elc. Timor aulem servilis est,             quoque servilem, et caslum limorem aperte discernit,
- Augustinus. ut ait Auguslinus, cum per limorcm gehennae conlinet               dum Epistolae ad Romanos 9 illum locum exponit : Augustinus.
-             sc liomo a peccato, quo praesenliam iudicis et poenas              Non enim accepistis spirilum servitulis iterum in li-
-             inetuit, et tiniorc facit, quidquid boni facit, non timore         more , sed accepistis spirilum adoptionis filiorum Dei,
-             amiltendi aclernum bonum, quocl non amat, sed timore               ita dicens: Duo limores hic insinuantur: tiiius, qui est
-             patiendi maluin, quocl formidal. Non timet, ne perdat              in perfecta carilale, scilicet tiinor caslus ; alter , qui
-              amplexus pulcherrimi sponsi; sed limet, ne millalur iu            non est in caritate, scilicet servilis, in quo qtiamvis
-             gehennam. Bonus est iste limor et utilis, licet insuffi-           Deo credalur, non tamen in Deum, et si bonum fiat ,-
-             ciens, per quem fit paulalim consueludo iusliliae, et              iion lamen bene. «Nemo enim invitus bene facit, eliam
-             succedit inilialis limor, quando incipit quod cluruni erat
-                                                                                si bontim est quod facit10».
+In Christo etiam haec eadem fuisse, Isaias[^3] ostendit dicens: Egredietur virga de radice Iesse, et flos de radice eius ascendet, et requiescet super eum spiritus Domini, spiritus sapientiae et intellectus, spiritus consilii et fortitudinis, spiritus scientiae et pietatis, et replebit eum spiritus timoris Domini. His autem videtur obviare quod Beda[^4] de timore Domini dicit super parabolas, scilicet quod omnis timor in futuro cessabit. Ait enim sic super illum locum: Timor Domini principium sapientiae: «Duo sunt timores Domini: servilis, qui principium est sapientiae; et amicabilis, qui perfectionem sapientiae comitatur. Servilis principium sapientiae est, quia qui post errata sapere incipit primo timore corripitur divino, ne puniatur; sed hunc perfecta caritas foras mittit. Succedit huic timor Domini sanctus, permanens in saeculum saeculi, quem non excludit caritas, sed auget; quo timet filius, ne vel in modico oculos amantissimi patris offendat. Uterque in futuro cessabit. Caritas vero nunquam excidet». Augustinus quoque super illum locum Psalmi[^5]: Adorabo ad templum sanctum tuum in timore tuo; timorem desiturum dicit sic: «Timor Domini est magnum praesidium proficientibus ad salutem, sed pervenientibus foras mittitur. Non enim timent iam amicum, cum scilicet ad id quod repromissum est, perducti fuerint». Ex his auctoritatibus significatur, quod timor non erit in futuro. Si autem timor non fuerit[^6] in futuro; ergo nec septem dona erunt nec modo sunt in Angelis nec in animabus sanctis. — Ad quod dicimus, auctoritatum praemissarum quae videtur repugnantiam dirimentes, quod septem illa dona et in Angelis modo sunt et in animabus sanctis feliciter viventibus et in nobis erunt in futuro, sed non habebunt omnia[^7] hos usus sive haec officia, quae nunc habent; ut verbi gratia, timor filialis modo facit timere, ne offendamus quem diligimus, et ne separemur ab eo, facit etiam nos revereri eundem; in futuro vero faciet nos revereri, quando non timebimus separari, vel offendere. Non ergo metus separationis, vel offensionis nunc est in Angelis vel in animabus sanctis nec in nobis erit in futuro, sed reverentia, quae est mixta cum subiectione dilectio; quae etiam in Christo fuit, sicut Apostolus dicit in Epistola ad Hebraeos[^8] loquens de Christo: Qui exauditus est pro sua reverentia. — Quidam tamen secundum effectum timorem in Christo et in Angelis tantum esse contendunt.
 
+#### Pars II.
 
+### Cap. IV. *De timorum distinctione.*
 
-                 1 C;ip. II, I. 2. 3.                                           sensum opud Augusl. ibid. Enarrat. n. 7. — Supra pro ami-
-                 2 Super Prov. I, 7. Ibi respicitur 1. loiin. }. IS; l's. 18,   cabilis codd. et edd. amicatis, quod eliam infra, sed non
-            10; I. Cor. 13, 8.                                                  conslanter, repelunt. Ulraque forma est usilaln.
-                 3 Psalm. a, 8; et ibi Augtist. Enarnit. n. 9.                       8 Mallh. 10, 28; Luc. 12, i.
-                 4 Val. cuni paucis odd. erit.                                       9 Cap. 8, IS, quem locum Augusl. exponit in Evnng. loan.
-                 5 Cod. A et odd. I , S omnino.                                 tr. 85. n. 3.
-                 6 Ciip. 5, 7.                                                        10 Augusl., dii Spiritu et lit. c. 32. n. 56; 1. Confess. c.
-                 7 In Prologo supcr Ps. 127, sentenlfaliter; sed haec et quae   12. n. 19.
-            seqiiunlur fere verbolenus apud Lyronum ibid. v. I, et quoad
-                                                                                                                                                   733
+Et quia de timore tractandi nobis occurrit locus, sciendum est, quatuor esse timores, scilicet mundanum sive humanum, servilem, initialem, castum vel filialem sive amicabilem. Humanus timor est, ut ait Cassiodorus[^9], quando timemus pati pericula carnis, vel perdere bona mundi, propter quod delinquimus. Hic timor malus est, qui in primo gradu cum mundo deseritur, quem Dominus prohibet in Evangelio[^10] dicens: Nolite timere eos qui occidunt corpus etc. Timor autem servilis est, ut ait Augustinus, cum per timorem gehennae continet se homo a peccato, quo praesentiam iudicis et poenas metuit, et timore facit, quidquid boni facit, non timore amittendi aeternum bonum, quod non amat, sed timore patiendi malum, quod formidat. Non timet, ne perdat amplexus pulcherrimi sponsi; sed timet, ne mittatur in gehennam. Bonus est iste timor et utilis, licet insufficiens, per quem fit paulatim consuetudo iustitiae, et succedit initialis timor, quando incipit quod durum erat amari; et sic incipit excludi servilis timor a caritate. Et succedit deinde timor castus sive amicabilis, quo timemus, ne sponsus tardet, ne discedat, ne offendamus, ne eo careamus. Timor iste de amore venit; ille quidem servilis est utilis, sed non permanens in aeternum, ut iste; timor divinus comes est per omnes gradus.
 
-                                                                  DISTINCTIO XXXIV.
+Et attende, quod quatuor hic distinguuntur timores, cum supra Beda dixerit, duos esse. Sed Beda humanum timorem praetermisit et nomine servilis duos, quos hic distinximus, complexus fuit, scilicet servilem et initialem; amicabilem vero castum dicit. Augustinus quoque servilem, et castum timorem aperte discernit, dum Epistolae ad Romanos[^11] illum locum exponit: Non enim accepistis spiritum servitutis iterum in timore, sed accepistis spiritum adoptionis filiorum Dei, ita dicens: Duo timores hic insinuantur: unus, qui est in perfecta caritate, scilicet timor castus; alter, qui non est in caritate, scilicet servilis, in quo quamvis Deo credatur, non tamen in Deum, et si bonum fiat, non tamen bene. «Nemo enim invitus bene facit, etiam si bonum est quod facit[^12]».
 
-                                       Cap. V.                                  Si enim propter poenas limes Deum , nondum amas
-                                                                                quem sic limes; non bona desideras, sed mala caves.
-                         De casto et servili et iniliali.                       Sed ex eo, quia mala caves, corrigis te el incipis bona
-                                                                                desiderare; cum bona desiderare coeperis, erit in te
-                   De his eisdem tinioribus latius dispulat dicens1:            limor caslus. Quid cst timor castus? Timere, ne amil-
- Augnsiioos. «Coepit aliquis credere diem iudicii; si coepit credere,           tas ipsa bona, timere Deum, ne recedat a te. Cum au-
-             coepit et timere. Sed quia adhuc limcl , noudum habet              tem times Deum, ne te deserat praesentia eius, ample-
-             fiduciam in die iudicii, nondum cst in illo perfecta ca-           ctcris eum, ipso frui desideras ».
-             ritas » ; « si perfecta in illo csset oaritas, non timeret.
-             Perfecta enim carilas faceret perfeciam iustiiiam, et                                            Cap. VI.
-             non haberel, quare limeret, iinmo haberel, quare de-
-             sideraret, ut transeat iniquilas, et veniat reguum Dei.                           Quo differant castus et serviiis.
-             Ergo limor non est iu carilate. Sed in qua caritate?
-             Non in inchoata. In qua ergo? In perfecla ? Perfecta ,                    « Non potes melius explanare, quid intersil inler Augosiinos.
-             inquit , caritas foras miltit timorem. Ergo incipiat ti-           duos timores islos, quam si ponas duas mulieres ma- Exempium.
-             mor, quia initium sapientiae timor Domini. Timor                   ritalas, quarum unani constiluas volenlem facere adul-
-             quasi locum praeparat caritati ; cum autem coeperit                 terium, sed limet, nc damnetur a marilo. Timet ina-
-             caritas habitare, pellitur limor, qui ei praeparavit lo-            rilum , quia adhuc amat nequiliam. Huic non esl grata,
-             cum. Quanlum enim illa crescit, ille decrescit; et quan-           sed onerosa niarili praesentia; et si forte vivit nequi-
-             lum illa fit interior, limor pellilur foras. Maior carilas,         ter, limel maritum, ne venial. Tales sunl qui liment
-Pminor limor; minor carilas, maior timor. Si autem nul-                         diem iudicii. Fac , alleram amare virum, debere illi
-             lus est timor, non est qua inlret caritas; sicut videmus,          castos amplexus, nulla se adulterina immundilia ma-
-             per sctam inlroduci limim, quando ali(|iiid suilur: seta           culaie velle; isla oplat praesentiani viri. Illn timet, et
-             prius inlrat, el nisi exeal, non succedil linuni ; sic (i-         isla timel. Iam ergo inlerrogenliir, quare limeant. Illa
-             mor primo occupat menlem, non autem ibi remanel                    dicet: limeo viruin, ne venial; isla dicet: timeo vi-
-             tiinor, quia ideo intravil, ut inlroduceret carilalem ».           rum, ne discedat. Illa dicel: timco virum, ne damnel *;
-                   « Est aulein alia senleulia 2, quae Videtur huic             isla dicet: timeo virum, nc deseral. Pone hoc in ani-
-  obiiciiur. esse conlraria , si non habet pium inlellectorem. Dici-            mo, et invenies limorem, quem foras mittit caritus ,
-             tur enim in Psalmo: Timor Uomini castus permanet in                ct alium timorcin castiim periiianentem in saeculum
-Isaeculum saeculi. Aelcrnum queiidain limorem nobis                             sacculi8». « Illum timorem perfecta caritas foras mit-
-             ostendil, sed caslian. Quod si osteudil ille nobis aeter-          lii, quia illc timor lormenluni habet, lorquetur con-
-             num timorem , nuuquid conlradicit illi isla Epistola,              scienlia peecaloruin, nonduni facla est iustiliealio. Est
-             qnaedicil: Timor non est in carilale , sed perfecla ca-            ibi quod lilillel inenteni, quod pimgat.quod slinuilet.
-             rilas foras mittit limorem? Hoc enim dictum csl per                Slimiilat ille timor, sed intrat caritas, quae sanal
-             Ioannem, illud dictum est per David. Sed nolile pulare,            quod vulnerat limor ». Timor caslus facit seeurilatem
-             alium esse Spiritum. Si cnim tinus flalus inflaf duas              in animo. « Audivimiis duas libias, scilicet loannem et
-             tibias , non polesl unus spirilus implere duo corda el             David consonanles. Illa de limorc Dei dicit, quo limet
-             agitare duas linguas? Si spirilu uno, id esl uno flatu,            aniina, ne dainnelur; illa de limore Dei dicit, quo limet
-             impletae* duae libiae consonanl, implelae duae lin-                anima, ne deseralur. Ille est liuior, queni caiitas exclu-
-             guae Spirilu Dei dissouare possunt? Immo esl ibi quae-             dit; ille est limor, qui permanet in saeciihim sacculi». —
-             dam consonantia , est quaedain concordia ; scd audito-             Eccc in his verbis praediclis apcrle ostendit Auguslinus,
-             rem desiderat sludiosiun , non oliosum. Ecce movit                 quis sit timor castus, el quis servilis, et qualiter difle-
-             duas lingtias Spirilus Dei, et aiidivinius ex una: Timor           rant. In quibus etiam initialem limorein significavil, qui
-             non est in caritale ; audivinuis ex alia : Timor Doniini           ncc ex loto est servilis nec ex loto castus , sed tanqiiam
-             caslus permanel in saecuium saeculi. Quid est hoc ?                niedius aliquid de servili, et aliquid de caslo limore
-             Dissonant? Non. Excule aures, inteude melodiam. Non                liabel. Facit eniin servire partim timore poenae, partim
-             sinc causa hie addidit caslus ; illic non addidil, quia            amore iusiitiae, per quem limeinus puniri, et limemus
-             est timor aliquis, qui dicilur caslus; est aulem nlius,            ojfendere. Isle limor est in inchoala carilate, non in pcr-
-             qui non dicilur castus. Discernainus islos duos limorcs,           fecta; el quanlum crescit carilas, tantuin decrescit istc
-             et inlelligainus consonantiam libiarum. Quomodo discer-            tiinor, qiianliiiii ad mcliiiii pucnae, id est qiianluin ad
-             nimus? Alteudal earitas veslra. Sunl lioiiiincs, qui pro-          id, qund facit linierc poenam, et quantiim ad lormen-
-             plcrea limcnl Deimi , nc inillantur in geheiiuam, ne               tiun conseienliae. Nain qtianlo magis diligiinus, lanto
-             forte ardeanl cum diabolo iu igne aeterno. Ipse esi li-            iniiius tiineniiis. Isle timor notalur in illis verbis Au-
-             inor, qui iulroducit carilatcm; sed sic venii, ul e.xcat.          giislini , ubi iirin negal , limorem esse in earitale in-
+<!-- page 733 -->
 
+### Cap. V. *De casto et servili et initiali.*
 
+De his eisdem timoribus latius disputat dicens[^13]: «Coepit aliquis credere diem iudicii; si coepit credere, coepit et timere. Sed quia adhuc timet, nondum habet fiduciam in die iudicii, nondum est in illo perfecta caritas»; «si perfecta in illo esset caritas, non timeret. Perfecta enim caritas faceret perfectam iustitiam, et non haberet, quare timeret, immo haberet, quare desideraret, ut transeat iniquitas, et veniat regnum Dei. Ergo timor non est in caritate. Sed in qua caritate? Non in inchoata. In qua ergo? In perfecta? Perfecta, inquit, caritas foras mittit timorem. Ergo incipiat timor, quia initium sapientiae timor Domini. Timor quasi locum praeparat caritati; cum autem coeperit caritas habitare, pellitur timor, qui ei praeparavit locum. Quantum enim illa crescit, ille decrescit; et quantum illa fit interior, timor pellitur foras. Maior caritas, minor timor; minor caritas, maior timor. Si autem nullus est timor, non est qua intret caritas; sicut videmus, per setam introduci linum, quando aliquid suitur: seta prius intrat, et nisi exeat, non succedit linum; sic timor primo occupat mentem, non autem ibi remanet timor, quia ideo intravit, ut introduceret caritatem».
 
-                1 Plurlmne edd. praellguni Auguttlnus, sdl. In I. loan.             3 Plurimae edd. implente, refrngnnle eUam oiiglnnll.
-          ir. 9. n. 2. Sen,. locus Nbid. n. l. ubl pro quare thnemt edd.,            ' Cod. li cinn   origlnnll ilnmner... itesnin-   pro iliiinnel....
-          raeepun I, s, unde timeret, el Inlrn Vul. cum pnucls codd.            deserat.
-          Perfeeta enjn pro Perfecta, mquit. — Lod Scripturne soni I.                 r' Hiiii. n. B. Cfr.Jln Evnng. lonn. Ir. i3. n. 7; Enarral. In
-          loiin. i, is, ei Ecclii I, 16. Innn pro ipm intirt codd. \ n ei       l's. 11«. s.i ni. 12. n. .1; EplSt 140. (nliiis 120.) o. 21. n. :>1.
-          (en omnes edd, </»» tntret, refragnnte ellam origlnall,               — Seq. im-iis rsi in I. Kpisi. lonn. Inc. rii. n. i, ggd mulils a
-                5 OiiiiiiiiH.ii AugusL, niiii. n •'>, ted nomiullla n Magluro   .Miifjislro nniissis. Triliiis Im-us csl iliiil. n. S, uln prn COniO-
-          omis-is. — l.unis 1's.ilmi esl IS, 10. VulgnM xnnt/iis pro Cailu/.
-                                                                                nantei Vnt. retonanles.
- r34                                                 SENTENTIARUM         LIB. III.
+«Est autem alia sententia[^14], quae videtur huic esse contraria, si non habet pium intellectorem. Dicitur enim in Psalmo: Timor Domini castus permanet in saeculum saeculi. Aeternum quendam timorem nobis ostendit, sed castum. Quod si ostendit ille nobis aeternum timorem, nunquid contradicit illi ista Epistola, quae dicit: Timor non est in caritate, sed perfecta caritas foras mittit timorem? Hoc enim dictum est per Ioannem, illud dictum est per David. Sed nolite putare, alium esse Spiritum. Si enim unus flatus inflat duas tibias, non potest unus spiritus implere duo corda et agitare duas linguas? Si spiritu uno, id est uno flatu, impletae[^15] duae tibiae consonant, impletae duae linguae Spiritu Dei dissonare possunt? Immo est ibi quaedam consonantia, est quaedam concordia; sed auditorem desiderat studiosum, non otiosum. Ecce movit duas linguas Spiritus Dei, et audivimus ex una: Timor non est in caritate; audivimus ex alia: Timor Domini castus permanet in saeculum saeculi. Quid est hoc? Dissonant? Non. Excute aures, intende melodiam. Non sine causa hic addidit castus; illic non addidit, quia est timor aliquis, qui dicitur castus; est autem alius, qui non dicitur castus. Discernamus istos duos timores, et intelligamus consonantiam tibiarum. Quomodo discernimus? Attendat caritas vestra. Sunt homines, qui propterea timent Deum, ne mittantur in gehennam, ne forte ardeant cum diabolo in igne aeterno. Ipse est timor, qui introducit caritatem; sed sic venit, ut exeat. Si enim propter poenas times Deum, nondum amas quem sic times; non bona desideras, sed mala caves. Sed ex eo, quia mala caves, corrigis te et incipis bona desiderare; cum bona desiderare coeperis, erit in te timor castus. Quid est timor castus? Timere, ne amittas ipsa bona, timere Deum, ne recedat a te. Cum autem times Deum, ne te deserat praesentia eius, amplecteris eum, ipso frui desideras».
 
-choata, sed perfecla, quod non posset dici de servili,                                         Cap. VIII.
-quia, ut ipse supra dixit, servilis timor non remanet,
-veniente caritate; nec intral caritas, nisi prius ille ti-                 Quomodo caslus limor permanel in aelernum.
-mor exeal, nec in illo limore aliquis credit in Deum,
-elsi credat Beo ; nec bene ' facit, etiam si bonwn esl                    Ulud quoque diligenter est notandum, quod in su-
-quod facit. Non est ergo limor ille in caritate eliani               perioribus Auguslinus dicit, castum timorem esse aeter-
-inchoata, quia omnis qui carilalem habet, licet non                  num ; per quod confirmatur praemissa sententia, scilicet
-perfectam, et in Deum credit et bona opera facit.                    quod spiritus timoris eril in fuluro, sicut et alia dona
-Quare serviiis non est timor ille, quem in caritale in-              Spiritus sancti. Sed non habebit omnem illum usum,
-ehoata fore concessit, et quem, crescente caritate,                  quem modo habct. Faciet enim tunc nos revereri Deum ,
-decrescere dixit; sed ille est timor initialis, quem                 non timere separari vel carere. Fuit ergo et in Christo4 DeChristo.
-non negat esse in caritate , nisi perfecta sit.                      timor ille, sed iuxla usum illum, quem habebit in fu-
-                                                                     turo in Sanctis. Non enim timuit Christus separari, vel
-                            Cap. VII.                                offendere Deum, sed eum prae omnibus reverilus est.
-                                                                                                Cap. IX.
-    Quod timor servilis et inilialis dicunlur inilium
-              sapientiae, sed differenter.                            Si limor poenae, qui fuit in Chrislo , fuit servilis,
-                                                                                         vel inilialis.
-        Sciendum tameu est, quod ulerque timor, scilicet
-. servilis et inilialis, in diversis Scripturae locis2 dici-               Cum autem fuerit in Christo limorpoenae, quae-
-  tur initium sapientiae, et ita fore comperies, si dili-            rilur, an isle timor fuerit mundanus , vel servilis, vel
-  genter annolaveris loca Scripturae, in quibtis de timore           inilialis. — Ad quod dicimus, nullum eorum fuisse in
-  Domini fll mentio; ex alia tamen ratione et causa di-              Christo, quia mundanus malus esl, ut supra 5 dictum
-  versa dicilur servilis initium sapientiae, et ex alia ini-         est, et in primo gradu cum mundo deseritur; servilis
-  tialis. Servilis enim ideo dicitur initium sapientiae ,            vero, vel initialis \\\ perfecla caritale non est. Nullus
-  quia praeparat locum sapientiae et ducit ad sapien-                ergo timorum istorum fuit in Christo. — Quis ergo
-  tiam, sed tamen non remanet cum ea, immo foras exit.               fuit limor ille, quo poenam limuit? Potest limor ille
-lnitialis vero dicitur initium sapientiae, quia est in 3 in-         dici naluralis sive humanus, qui omnibus hominibus
-choata sapienlia ; quem cum quis habere incipit, sa-                 inest, quo horretur mors ac formidaltir poena. El di-
-pientiam el caritateni habere incipit. Inde eliam est,               citur timor isle naturalis , non quia accesserit homini
-quod ulerque timor dicitur initialis, quod invenire po-              ex natura, secundiim quod prius fuit institula, quia
-teris per diversa Scripturac loca. Ulerque etiam limor               non fuit iste timor concreatus homini nec de bonis na-
-interdum dicitur servilis, quia et ipse inilialis, qui est           luralibus, sed quia ex corrupta natura per peccalum
-in caritate inchoata, aliquid habet de servili, scilicet             omnibus advenit, cui corruplio inolevit, lanquam esset
-angorem poenae, sicut et aliquid habet de caslo, sci-                naturalis. Et est iste timor effectus peccaii, ut prae-
-Jicet quod timet offendere ac separari.                              dictum est.     v
+### Cap. VI. *Quo differant castus et servilis.*
+
+«Non potes melius explanare, quid intersit inter duos timores istos, quam si ponas duas mulieres maritatas, quarum unam constituas volentem facere adulterium, sed timet, ne damnetur a marito. Timet maritum, quia adhuc amat nequitiam. Huic non est grata, sed onerosa mariti praesentia; et si forte vivit nequiter, timet maritum, ne veniat. Tales sunt qui timent diem iudicii. Fac, alteram amare virum, debere illi castos amplexus, nulla se adulterina immunditia maculare velle; ista optat praesentiam viri. Illa timet, et ista timet. Iam ergo interrogentur, quare timeant. Illa dicet: timeo virum, ne veniat; ista dicet: timeo virum, ne discedat. Illa dicet: timeo virum, ne damnet[^16]; ista dicet: timeo virum, ne deserat. Pone hoc in animo, et invenies timorem, quem foras mittit caritas, et alium timorem castum permanentem in saeculum saeculi». «Illum timorem perfecta caritas foras mittit, quia ille timor tormentum habet, torquetur conscientia peccatorum, nondum facta est iustificatio. Est ibi quod titillet mentem, quod pungat, quod stimulet. Stimulat ille timor, sed intrat caritas, quae sanat quod vulnerat timor». Timor castus facit securitatem in animo. «Audivimus duas tibias, scilicet Ioannem et David consonantes. Illa de timore Dei dicit, quo timet anima, ne damnetur; illa de timore Dei dicit, quo timet anima, ne deseratur. Ille est timor, quem caritas excludit; ille est timor, qui permanet in saeculum saeculi[^17]». — Ecce in his verbis praedictis aperte ostendit Augustinus, quis sit timor castus, et quis servilis, et qualiter differant. In quibus etiam initialem timorem significavit, qui nec ex toto est servilis nec ex toto castus, sed tanquam medius aliquid de servili, et aliquid de casto timore habet. Facit enim servire partim timore poenae, partim amore iustitiae, per quem timemus puniri, et timemus offendere. Iste timor est in inchoata caritate, non in perfecta; et quantum crescit caritas, tantum decrescit iste timor, quantum ad metum poenae, id est quantum ad id, quod facit timere poenam, et quantum ad tormentum conscientiae. Nam quanto magis diligimus, tanto minus timemus. Iste timor notatur in illis verbis Augustini, ubi non negat, timorem esse in caritate in-
+
+<!-- page 734 -->
+
+choata, sed perfecta, quod non posset dici de servili, quia, ut ipse supra dixit, servilis timor non remanet, veniente caritate; nec intrat caritas, nisi prius ille timor exeat, nec in illo timore aliquis credit in Deum, etsi credat Deo; nec bene[^18] facit, etiam si bonum est quod facit. Non est ergo timor ille in caritate etiam inchoata, quia omnis qui caritatem habet, licet non perfectam, et in Deum credit et bona opera facit. Quare servilis non est timor ille, quem in caritate inchoata fore concessit, et quem, crescente caritate, decrescere dixit; sed ille est timor initialis, quem non negat esse in caritate, nisi perfecta sit.
+
+### Cap. VII. *Quod timor servilis et initialis dicuntur initium sapientiae, sed differenter.*
+
+Sciendum tamen est, quod uterque timor, scilicet servilis et initialis, in diversis Scripturae locis[^19] dicitur initium sapientiae, et ita fore comperies, si diligenter annotaveris loca Scripturae, in quibus de timore Domini fit mentio; ex alia tamen ratione et causa diversa dicitur servilis initium sapientiae, et ex alia initialis. Servilis enim ideo dicitur initium sapientiae, quia praeparat locum sapientiae et ducit ad sapientiam, sed tamen non remanet cum ea, immo foras exit. Initialis vero dicitur initium sapientiae, quia est in inchoata sapientia; quem cum quis habere incipit, sapientiam et caritatem habere incipit. Inde etiam est, quod uterque timor dicitur initialis, quod invenire poteris per diversa Scripturae loca. Uterque etiam timor interdum dicitur servilis, quia et ipse initialis, qui est in caritate inchoata, aliquid habet de servili, scilicet angorem poenae, sicut et aliquid habet de casto, scilicet quod timet offendere ac separari.
+
+### Cap. VIII. *Quomodo castus timor permanet in aeternum.*
+
+Illud quoque diligenter est notandum, quod in superioribus Augustinus dicit, castum timorem esse aeternum; per quod confirmatur praemissa sententia, scilicet quod spiritus timoris erit in futuro, sicut et alia dona Spiritus sancti. Sed non habebit omnem illum usum, quem modo habet. Faciet enim tunc nos revereri Deum, non timere separari vel carere. Fuit ergo et in Christo timor ille, sed iuxta usum illum, quem habebit in futuro in Sanctis. Non enim timuit Christus separari, vel offendere Deum, sed eum prae omnibus reveritus est.
+
+### Cap. IX. *Si timor poenae, qui fuit in Christo, fuit servilis, vel initialis.*
+
+Cum autem fuerit in Christo timor poenae, quaeritur, an iste timor fuerit mundanus, vel servilis, vel initialis. — Ad quod dicimus, nullum eorum fuisse in Christo, quia mundanus malus est, ut supra dictum est, et in primo gradu cum mundo deseritur; servilis vero, vel initialis in perfecta caritate non est. Nullus ergo timorum istorum fuit in Christo. — Quis ergo fuit timor ille, quo poenam timuit? Potest timor ille dici naturalis sive humanus, qui omnibus hominibus inest, quo horretur mors ac formidatur poena. Et dicitur timor iste naturalis, non quia accesserit homini ex natura, secundum quod prius fuit instituta, quia non fuit iste timor concreatus homini nec de bonis naturalibus, sed quia ex corrupta natura per peccatum omnibus advenit, cui corruptio inolevit, tanquam esset naturalis. Et est iste timor effectus peccati, ut praedictum est.
+
+---
 
 ## English
 
-[Translation pending]
+### DISTINCTION XXXIV.
+
+#### Part I.
+
+### Chapter I. *On the seven gifts of the Holy Spirit.*
+
+Now we must treat of the seven gifts of the Holy Spirit, where first it is to be considered whether these gifts are virtues; secondly, whether in the future they will cease, either all of them, or some of them; then, whether all these gifts were in Christ.
+
+### Chapter II. *Whether they are virtues, and are in the Angels.*
+
+That these gifts are virtues and will not cease in the future, Ambrose[^1] shows, saying that they will be seven virtues, and that they are most abundantly in the Angels, thus: «That City of God, the heavenly Jerusalem, is not washed by the channel of any earthly river, but the Holy Spirit, proceeding from the fountain of life, of whom we are sated by a brief draught, is seen to flow more abundantly in those heavenly spirits, fervent with the full channel of seven spiritual virtues. For if a river overflowing its raised banks floods out, how much more does the Holy Spirit, surpassing every creature, since it grazes the secrets of our mind as things inferior, gladden that heavenly nature of the Angels with a certain more copious richness of sanctifications»! Then, expounding the sanctification, he adds: «And by these sanctifications is signified the fullness of the seven spiritual virtues, which Isaiah[^2] enumerates, saying: the spirit of wisdom and understanding, the spirit of counsel and fortitude, the spirit of knowledge and piety and of the fear of the Lord. There is therefore one river, but many channels of the spiritual gifts». Although therefore many spirits are spoken of, such as the spirit of wisdom and understanding etc., yet there is one Spirit of God, the arbiter of his own liberty, distributing all things to each by the authority of his will. — Here it is expressly handed down that the seven gifts and virtues are sanctifications of the minds of the faithful and will not cease in the future, since they are also in the Angels.
+
+### Chapter III. *Whether they were in Christ.*
+
+That these same [gifts] were also in Christ, Isaiah[^3] shows, saying: There shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root, and the spirit of the Lord shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and fortitude, the spirit of knowledge and piety, and the spirit of the fear of the Lord shall fill him. But to this there seems to be opposed what Bede[^4] says concerning the fear of the Lord upon the parables [Proverbs], namely that all fear shall cease in the future. For he speaks thus upon that passage: The fear of the Lord is the beginning of wisdom: «There are two fears of the Lord: servile, which is the beginning of wisdom; and friendly, which accompanies the perfection of wisdom. The servile is the beginning of wisdom, because he who after his errors begins to grow wise is first seized by a divine fear, lest he be punished; but this perfect charity casts out. To this succeeds the holy fear of the Lord, abiding for ever and ever, which charity does not exclude but increases; by which a son fears, lest even in the least he offend the eyes of a most loving father. Both will cease in the future. But charity shall never fall away». Augustine too, upon that passage of the Psalm[^5]: I will adore at thy holy temple in thy fear; says that fear will cease, thus: «The fear of the Lord is a great protection to those advancing toward salvation, but to those who have arrived it is cast out. For they no longer fear a friend, namely when they have been brought to that which was promised». By these authorities it is signified that fear will not be in the future. But if fear will not be[^6] in the future, then neither will the seven gifts be, nor are they now in the Angels nor in the holy souls. — To which we say, dissolving the apparent contradiction of the aforesaid authorities, that those seven gifts both are now in the Angels and in the holy souls living happily and will be in us in the future, but they will not have all[^7] these uses or these offices which they now have; as for example, filial fear now makes [us] fear, lest we offend him whom we love, and lest we be separated from him, and it also makes us reverence him; but in the future it will make us reverence [him], when we shall not fear to be separated or to offend. Therefore the dread of separation or of offence is not now in the Angels or in the holy souls, nor will it be in us in the future, but reverence, which is a love mixed with subjection; which was also in Christ, as the Apostle says in the Epistle to the Hebrews[^8], speaking of Christ: Who was heard for his reverence. — Some, however, contend that fear was in Christ and in the Angels only according to its effect.
+
+#### Part II.
+
+### Chapter IV. *On the distinction of fears.*
+
+And since the occasion of treating of fear presents itself to us, it is to be known that there are four fears, namely worldly or human, servile, initial, chaste or filial or friendly. Human fear is, as Cassiodorus[^9] says, when we fear to suffer the perils of the flesh, or to lose the goods of the world, on account of which we transgress. This fear is evil, which in the first degree is forsaken along with the world, which the Lord forbids in the Gospel[^10], saying: Fear ye not them that kill the body etc. But servile fear is, as Augustine says, when a man restrains himself from sin through fear of hell, by which he dreads the presence of the judge and the punishments, and through fear does whatever good he does, not from fear of losing the eternal good, which he does not love, but from fear of suffering the evil which he dreads. He does not fear lest he lose the embraces of the most beautiful bridegroom; but he fears lest he be sent into hell. This fear is good and useful, though insufficient, by which the habit of justice is gradually formed, and there succeeds initial fear, when that which was hard begins to be loved; and thus the servile fear begins to be excluded from charity. And then there succeeds chaste or friendly fear, by which we fear lest the bridegroom delay, lest he depart, lest we offend, lest we lose him. This fear comes from love; the servile indeed is useful, but not abiding for ever, as is this one; the divine fear is a companion through all the degrees.
+
+And note that four fears are here distinguished, whereas above Bede had said there were two. But Bede passed over human fear, and under the name of servile he comprehended the two which we have here distinguished, namely servile and initial; and the friendly he calls chaste. Augustine too plainly distinguishes the servile and the chaste fear, when he expounds that passage of the Epistle to the Romans[^11]: For you have not received the spirit of bondage again in fear, but you have received the spirit of adoption of the sons of God, saying thus: Two fears are here intimated: one, which is in perfect charity, namely chaste fear; the other, which is not in charity, namely servile, in which, although [a man] believe God, yet [he does] not [believe] in God, and if good be done, yet [it is] not [done] well. «For no one does well unwillingly, even if what he does is good[^12]».
+
+### Chapter V. *On the chaste and the servile and the initial.*
+
+Concerning these same fears he disputes more at length, saying[^13]: «Someone has begun to believe the day of judgment; if he has begun to believe, he has also begun to fear. But because he still fears, he does not yet have confidence in the day of judgment, perfect charity is not yet in him»; «if perfect charity were in him, he would not fear. For perfect charity would make perfect justice, and he would not have why he should fear, nay rather he would have why he should desire that iniquity pass away and the kingdom of God come. Therefore fear is not in charity. But in what charity? Not in the inchoate. In what then? In the perfect? Perfect charity, he says, casts out fear. Let fear therefore begin, because the beginning of wisdom is the fear of the Lord. Fear as it were prepares a place for charity; but when charity has begun to dwell, the fear is driven out, which had prepared a place for it. For as much as charity grows, so much does fear decrease; and as much as charity becomes interior, so much is fear driven outward. The greater the charity, the less the fear; the less the charity, the greater the fear. But if there is no fear at all, there is nothing by which charity may enter; just as we see flax introduced by means of a bristle, when something is sewn: the bristle enters first, and unless it goes out, the flax does not follow; thus fear first occupies the mind, but the fear does not remain there, because it entered for this purpose, that it might introduce charity».
+
+«But there is another saying[^14], which seems to be contrary to this, if it does not have a devout interpreter. For it is said in the Psalm: The chaste fear of the Lord abideth for ever and ever. It shows us a certain eternal fear, but a chaste one. But if that [Psalm] shows us an eternal fear, does this Epistle contradict it, which says: Fear is not in charity, but perfect charity casteth out fear? For this was said by John, that was said by David. But do not think that the Spirit is different. For if one breath inflates two pipes, can not one spirit fill two hearts and move two tongues? If, by one spirit, that is by one breath, two pipes when filled[^15] sound in concord, can two tongues, filled by the Spirit of God, sound in discord? Nay rather there is there a certain consonance, there is a certain concord; but it desires a zealous hearer, not an idle one. Behold the Spirit of God has moved two tongues, and we have heard from one: Fear is not in charity; we have heard from the other: The chaste fear of the Lord abideth for ever and ever. What is this? Do they sound discordant? No. Shake out your ears, attend to the melody. Not without cause did he here add chaste; there he did not add it, because there is some fear which is called chaste; but there is another which is not called chaste. Let us distinguish these two fears, and understand the consonance of the pipes. How do we distinguish? Let your charity attend. There are men who fear God for this reason, lest they be sent into hell, lest perchance they burn with the devil in eternal fire. This itself is the fear which introduces charity; but it comes so as to go out. For if you fear God on account of punishments, you do not yet love him whom you so fear; you do not desire goods, but guard against evils. But from this, that you guard against evils, you correct yourself and begin to desire goods; when you shall have begun to desire goods, there will be in you chaste fear. What is chaste fear? To fear lest you lose those very goods, to fear God, lest he depart from you. But when you fear God, lest his presence forsake you, you embrace him, you desire to enjoy him».
+
+### Chapter VI. *In what the chaste and the servile differ.*
+
+«You cannot better explain what difference there is between these two fears than if you set down two married women, of whom you make one willing to commit adultery, but she fears lest she be condemned by her husband. She fears her husband because she still loves wickedness. To her the presence of her husband is not pleasing, but burdensome; and if perchance she lives wickedly, she fears her husband, lest he come. Such are they who fear the day of judgment. Suppose the other loves her husband, [thinks] she owes him chaste embraces, [and] is willing to stain herself with no adulterous uncleanness; she longs for the presence of her husband. The one fears, and the other fears. Now then let them be asked why they fear. The one will say: I fear my husband, lest he come; the other will say: I fear my husband, lest he depart. The one will say: I fear my husband, lest he condemn[^16]; the other will say: I fear my husband, lest he forsake. Set this in your mind, and you will find the fear which charity casts out, and another, the chaste fear, abiding for ever and ever». «Perfect charity casts out that fear, because that fear has torment, the conscience of sins is tortured, justification has not yet been made. There is there something that tickles the mind, that pricks, that goads. That fear goads, but charity enters, which heals what fear wounds». Chaste fear makes security in the soul. «We have heard two pipes, namely John and David, sounding in concord. The one speaks of the fear of God, by which the soul fears lest it be condemned; the other speaks of the fear of God, by which the soul fears lest it be forsaken. The one is the fear which charity excludes; the other is the fear which abides for ever and ever[^17]». — Behold, in these foregoing words Augustine plainly shows what chaste fear is, and what servile, and how they differ. In which words he has also signified the initial fear, which is neither wholly servile nor wholly chaste, but as it were a middle [fear], having something of the servile and something of the chaste fear. For it makes one serve partly through fear of punishment, partly through love of justice, by which we fear to be punished, and fear to offend. This fear is in inchoate charity, not in perfect; and as much as charity grows, so much does this fear decrease, as regards the dread of punishment, that is, as regards that which makes one fear punishment, and as regards the torment of conscience. For the more we love, the less we fear. This fear is noted in those words of Augustine, where he does not deny that fear is in in-
+
+choate charity, but [denies it of] perfect, which could not be said of the servile, because, as he himself said above, servile fear does not remain when charity comes; nor does charity enter unless that fear first goes out, nor does anyone in that fear believe in God, even if he believe God; nor does he do well[^18], even if what he does is good. That fear, therefore, is not in charity even inchoate, because everyone who has charity, though not perfect, both believes in God and does good works. Wherefore that fear is not servile which he conceded to be in inchoate charity, and which, as charity grows, he said decreases; but that is the initial fear, which he does not deny to be in charity, unless it be perfect.
+
+### Chapter VII. *That servile and initial fear are called the beginning of wisdom, but differently.*
+
+It is nevertheless to be known that both fears, namely the servile and the initial, are in diverse places of Scripture[^19] called the beginning of wisdom, and you will find it to be so, if you carefully note the places of Scripture in which mention is made of the fear of the Lord; yet for one reason and cause the servile is called the beginning of wisdom, and for another the initial. For the servile is called the beginning of wisdom because it prepares a place for wisdom and leads to wisdom, but yet does not remain with it, nay rather goes outward. But the initial is called the beginning of wisdom because it is in inchoate wisdom; and when one begins to have it, he begins to have wisdom and charity. Hence also it is that both fears are called initial, which you will be able to find through diverse places of Scripture. Both fears are also sometimes called servile, because the initial too, which is in inchoate charity, has something of the servile, namely the anguish of punishment, just as it also has something of the chaste, namely that it fears to offend and to be separated.
+
+### Chapter VIII. *How chaste fear abides for ever.*
+
+This too is to be diligently noted, that in the foregoing Augustine says that chaste fear is eternal; whereby the aforesaid opinion is confirmed, namely that the spirit of fear will be in the future, just as the other gifts of the Holy Spirit. But it will not have all that use which it now has. For it will then make us reverence God, not fear to be separated or to lose [him]. There was therefore that fear in Christ too, but according to that use which it will have in the future in the Saints. For Christ did not fear to be separated or to offend God, but reverenced him above all.
+
+### Chapter IX. *Whether the fear of punishment which was in Christ was servile, or initial.*
+
+But since there was in Christ a fear of punishment, it is asked whether this fear was worldly, or servile, or initial. — To which we say that none of them was in Christ, because the worldly is evil, as was said above, and in the first degree is forsaken along with the world; while the servile or initial is not in perfect charity. None therefore of those fears was in Christ. — What then was that fear by which he feared punishment? That fear can be called natural or human, which is in all men, by which death is dreaded and punishment is feared. And this fear is called natural, not because it accrued to man from nature, according as it was first instituted, because this fear was not concreated with man nor [is] of the natural goods, but because from nature corrupted through sin it comes upon all, in whom corruption has taken root, as though it were natural. And this fear is an effect of sin, as was said before.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, and reproduce the Quaracchi *NOTAE AD LIBR. SENTENTIARUM* footer blocks for pp. 731–734. Quaracchi restarts footnote numbering on each printed page; the entries are renumbered continuously here: p.731 [^1]–[^2]; p.732 [^3]–[^12]; p.733 [^13]–[^17]; p.734 [^18]–[^19].
+
+[^1]: **La.** Libr. I. de Spiritu s. c. 16. n. 178. — Seq. locus ibid. n. 179; cfr. II. c. 12. n. 140. — In primo textu sola ed. 8 pro *abluitur* ponit *alluitur,* refragante etiam originali; quam lectionem solam esse genuinam, sine causa asserit eiusdem editor Nicolai. Infra post *riparum* edd. addunt *crepidinibus,* refragantibus codd. et originali. Vocabulum *edita* usurpatur etiam pro locis elevatis. Deinde ante *supereminens* edd., exceptis 1, 3, 8, omittunt *omnem,* denique pro *arcana* edd. 6, 8 cum originali *arva.*
+    **En.** Book I, *On the Holy Spirit,* c. 16, n. 178. — The following passage is ibid. n. 179; cf. book II, c. 12, n. 140. — In the first text, edition 8 alone puts *alluitur* (washes against) for *abluitur* (washes off), the original also resisting; which reading the editor Nicolai asserts without cause to be the only genuine one. Below, after *riparum* (banks) the editions add *crepidinibus* (with embankments), the codices and the original resisting. The word *edita* (raised) is also used for elevated places. Then before *supereminens* (surpassing) the editions, except 1, 3, 8, omit *omnem* (every); finally for *arcana* (secrets) editions 6, 8 with the original [read] *arva* (fields).
+
+[^2]: **La.** Cap. II, 2. Inferius alluditur ad 1. Cor. 8, 8. — Verba *Quamvis ergo* etc. sententialiter leguntur ibid. n. 179, cfr. ibid. c. 12. n. 140.
+    **En.** [Isaiah] chapter 11, [verses] 2–3. Below allusion is made to 1 Corinthians 8:8. — The words *Quamvis ergo* (Although therefore) etc. are read substantially ibid. n. 179, cf. ibid. c. 12, n. 140.
+
+[^3]: **La.** Cap. 11, 1. 2. 3.
+    **En.** [Isaiah] chapter 11, [verses] 1, 2, 3.
+
+[^4]: **La.** Super Prov. 1, 7. Ibi respicitur 1. Ioan. 4, 18; Ps. 18, 10; 1. Cor. 13, 8.
+    **En.** On Proverbs 1:7. There reference is made to 1 John 4:18; Psalm 18:10; 1 Corinthians 13:8.
+
+[^5]: **La.** Psalm. 5, 8; et ibi August. Enarrat. n. 9.
+    **En.** Psalm 5:8; and there Augustine, *Enarration* [on the Psalms], n. 9.
+
+[^6]: **La.** Vat. cum paucis edd. *erit.*
+    **En.** The Vatican edition with a few editions [reads] *erit* (will be).
+
+[^7]: **La.** Cod. A et edd. 1, 3 *omnino.*
+    **En.** Codex A and editions 1, 3 [read] *omnino* (altogether).
+
+[^8]: **La.** Cap. 5, 7.
+    **En.** [Hebrews] chapter 5, [verse] 7.
+
+[^9]: **La.** In Prologo super Ps. 127, sententialiter; sed haec et quae sequuntur fere verbotenus apud Lyranum ibid. v. 1, et quoad sensum apud August. ibid. Enarrat. n. 7. — Supra pro *amicabilis* codd. et edd. *amicalis,* quod etiam infra, sed non constanter, repetunt. Utraque forma est usitata.
+    **En.** In the Prologue upon Psalm 127, substantially; but these things and what follows [are] almost verbatim in Lyra ibid. v. 1, and as to the sense in Augustine ibid. *Enarration,* n. 7. — Above, for *amicabilis* (friendly) the codices and editions [read] *amicalis,* which they also repeat below, but not consistently. Both forms are in use.
+
+[^10]: **La.** Matth. 10, 28; Luc. 12, 4.
+    **En.** Matthew 10:28; Luke 12:4.
+
+[^11]: **La.** Cap. 8, 15, quem locum August. exponit in Evang. Ioan. tr. 85. n. 3.
+    **En.** [Romans] chapter 8, [verse] 15, which passage Augustine expounds in [his Tractates] on the Gospel of John, tract 85, n. 3.
+
+[^12]: **La.** August., de Spiritu et lit. c. 32. n. 56; 1. Confess. c. 12. n. 19.
+    **En.** Augustine, *On the Spirit and the Letter,* c. 32, n. 56; *Confessions,* book I, c. 12, n. 19.
+
+[^13]: **La.** Plurimae edd. praefigunt *Augustinus,* scil. in 1. Ioan. tr. 9. n. 2. Seq. locus ibid. n. 4, ubi pro *quare timeret* edd., exceptis 1, 8, *unde timeret,* et infra Vat. cum paucis codd. *Perfecta ergo* pro *Perfecta, inquit.* — Loci Scripturae sunt 1. Ioan. 4, 18, et Eccli. 1, 16. Infra pro *qua intret* codd. A B et fere omnes edd. *quo intret,* refragante etiam originali.
+    **En.** Most editions prefix *Augustinus,* namely in [the Tractates] on 1 John, tract 9, n. 2. The following passage is ibid. n. 4, where for *quare timeret* (why he should fear) the editions, except 1, 8, [read] *unde timeret* (whence he should fear), and below the Vatican edition with a few codices [reads] *Perfecta ergo* (Perfect therefore) for *Perfecta, inquit* (Perfect, he says). — The scriptural passages are 1 John 4:18, and Ecclesiasticus 1:16. Below, for *qua intret* (by which it may enter) codices A B and almost all editions [read] *quo intret* (whither it may enter), the original also resisting.
+
+[^14]: **La.** Continuat August., ibid. n. 5, sed nonnullis a Magistro omissis. — Locus Psalmi est 18, 10. Vulgata *sanctus* pro *castus.*
+    **En.** Augustine continues, ibid. n. 5, but with some things omitted by the Master. — The passage of the Psalm is 18:10. The Vulgate [reads] *sanctus* (holy) for *castus* (chaste).
+
+[^15]: **La.** Plurimae edd. *implente,* refragante etiam originali.
+    **En.** Most editions [read] *implente,* the original also resisting.
+
+[^16]: **La.** Cod. E cum originali *damner... deserar* pro *damnet... deserat.*
+    **En.** Codex E with the original [reads] *damner... deserar* (lest I be condemned... lest I be forsaken) for *damnet... deserat* (lest he condemn... lest he forsake).
+
+[^17]: **La.** Ibid. n. 6. Cfr. in Evang. Ioan. tr. 43. n. 7; Enarrat. in Ps. 118, serm. 12. n. 3; Epist. 140 (alias 120.) c. 21. n. 52. — Seq. locus est in 1. Epist. Ioan. loc. cit. n. 4, sed multis a Magistro omissis. Tertius locus est ibid. n. 8, ubi pro *consonantes* Vat. *resonantes.*
+    **En.** Ibid. n. 6. Cf. [the Tractates] on the Gospel of John, tract 43, n. 7; *Enarration* on Psalm 118, sermon 12, n. 3; Epistle 140 (otherwise 120), c. 21, n. 52. — The following passage is in the first Epistle of John, the place cited, n. 4, but with many things omitted by the Master. The third passage is ibid. n. 8, where for *consonantes* (sounding in concord) the Vatican edition [reads] *resonantes* (resounding).
+
+[^18]: **La.** Codd. alii addunt *bona,* sed cod. C *bonum.*
+    **En.** Other codices add *bona* (good things), but codex C [reads] *bonum* (a good).
+
+[^19]: **La.** Psalm. 110, 10; Prov. 1, 7; 9, 10; Eccli. 1, 16.
+    **En.** Psalm 110:10; Proverbs 1:7; 9:10; Ecclesiasticus 1:16.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Chapter subjects.** DISTINCTIO XXXIV is Lombard's treatment *de septem donis Spiritus sancti* — the seven gifts of the Holy Spirit, and (in Pars II) *de timorum distinctione* — the distinction of fears. The Magister's text is printed continuously across Lombard's **Pars I** (Capp. I–III) and **Pars II** (Capp. IV–IX), with the `Pars I.` / `Pars II.` bands appearing inside the littera and preserved here as printed subheads. **Nine chapters captured (Cap. I–IX):** **Cap. I** (*De septem donis Spiritus sancti*) is the prooemium naming the three questions (whether the gifts are virtues; whether they cease in the future; whether all were in Christ). **Cap. II** (*Utrum sint virtutes, et sint in Angelis*) adduces Ambrose (*de Spiritu s.* I) that the gifts are seven virtues abundant in the Angels — the Ambrose quotation runs from the p.731 L column into the R column. **Cap. III** (*Utrum in Christo fuerint*) adduces Isaiah 11 for Christ, then Bede (on Proverbs) and Augustine (on Psalm 5) that fear ceases, and resolves: the gifts remain but lose the *usus* of dread (separation/offence), retaining reverence — which was in Christ (Heb. 5:7). **Pars II** opens: **Cap. IV** (*De timorum distinctione*) distinguishes four fears (worldly/human, servile, initial, chaste/filial), reconciling Bede's two and adducing Augustine on Romans 8. **Cap. V** (*De casto et servili et iniliali*) is the long Augustine excursus (*in 1. Ioan.* tr. 9) on charity casting out fear, the bristle-and-flax simile, and the two-pipes (John/David) consonance — running from p.733 L into R. **Cap. VI** (*Quo differant castus et servilis*) is the two-married-women *exemplum* and the initial-fear definition — running from p.733 R into p.734 L. **Cap. VII** (*Quod timor servilis et initialis dicuntur initium sapientiae, sed differenter*). **Cap. VIII** (*Quomodo castus timor permanet in aeternum*) — chaste fear is eternal, was in Christ *iuxta usum futurum.* **Cap. IX** (*Si timor poenae, qui fuit in Christo, fuit servilis, vel initialis*) — none of the three; Christ's fear of punishment was *naturalis sive humanus,* an effect of corrupted nature.
+
+**Provenance (PDF-priority inversion).** Latin re-set column-by-column from the 450 dpi PDF bands `/tmp/colcrop/vol3-p{731,732,733,734}-{L,R}-{0,1,2}.png` (read L column top→bottom, then R column; body bands then footer bands). The IA djvu OCR for this band (`raw/bonaventure_vol3_raw.txt`, raw 50773–50990) is a two-column cascade-shatter — the footer bands in particular are heavily fragmented — and was used only as the base for clean running prose and exact `[^N]` marker spacing; all footer NOTAE blocks were read eyes-on from the PDF. Offset `pdf = printed + 22` (printed 731–734 = PDF 753–756). Running heads confirmed: `DISTINCTIO XXXIV.` heads p.731 (raw 50773) and p.733; p.732 foot shows `732`; p.733 R shows `733`; p.734 running head is OCR-mangled `r34` but the printed page reads **734** (`SENTENTIARUM LIB. III.`).
+
+**Page-split map ([^N] → printed page).**
+- **p.731 (PDF 753):** `[^1]`–`[^2]`. The littera opens mid-L-column (after the d.33 commentary tail that finishes at the top of both columns: L-top + R-top `… in sua generalitate`). The `NOTAE AD LIBR. SENTENTIARUM` footer band sits in the p.731 **R footer-column** (nn.1–2). The p.731 **L footer-column** (nn.1–6: *Aristot. de Sensu,* *de Trin.,* *Ethic. II,* *Supplement. Summae Alex.* …) is **NOT** this littera's — it is the d.33 *NOTAE AD COMMENTARIUM* footer, already captured by `d33-dubia` ([^29]–[^33]) and the d.33 questions.
+- **p.732 (PDF 754):** `[^3]`–`[^12]`. Left footer-column nn.1–7, right footer-column continues n.7 tail + nn.8–10 → renumbered `[^3]`–`[^12]`. (Cap. III runs L→R; `Pars II.` band then Cap. IV runs L→R.)
+- **p.733 (PDF 755):** `[^13]`–`[^17]`. Left footer-column nn.1–2, right footer-column nn.3–5 → `[^13]`–`[^17]`. (Cap. V runs L→R; Cap. VI begins p.733 R.)
+- **p.734 (PDF 756):** `[^18]`–`[^19]`. Left footer-column carries the littera's `NOTAE AD LIBR. SENTENTIARUM` nn.1–4 (`[^18]`=n.1 *bene*; n.2 *Psalm.110…* = `[^19]`; n.3 *Edd.1,8 cum*; n.4 *Cfr. Hebr.5,7*) and the right footer-column carries n.5 (*Hic c.4 — Infra pro naturalis…*). **Markers in body:** `bene¹`=[^18], `locis²`=[^19], `in³` (Edd.1,8 *cum*) and `Christo⁴` (*Cfr. Hebr.5,7*) and `supra⁵` (*Hic c.4*) are p.734 NOTAE nn.3,4,5 whose textual-variant content is editorial-only (no fresh citation beyond the renumbered pair); they are folded into the apparatus span [^18]–[^19] without separate markers to avoid orphaning purely-variant notes. See "Apparatus completeness" below. **19 entries total** (`[^1]`–`[^19]`).
+
+**Apparatus completeness.** The p.734 left/right footer carries five physical NOTAE AD LIBR. SENTENTIARUM notes (nn.1–5) but only two bear distinct body anchors needed in the running text (`bene¹` and `locis²`); nn.3–5 are pure orthographic/edition variants on `in³`/`Christo⁴`/`supra⁵`. To keep marker pairing clean (every `[^N]:` def has a body anchor in both languages) the variant content of nn.3–5 is noted in this Notes block rather than as orphan markers: **n.3** = Edd. 1, 8 add *cum* (`is in inchoata sapientia`); **n.4** = Cfr. Hebr. 5, 7 (the Christ-reverence locus, already cited at [^8]); **n.5** = *Hic c. 4* (cross-ref to Cap. IV); below n.5 *infra pro naturalis, non quia* edd. 1, 8 read *naturalis, non quod.* No body content was lost; only redundant variant markers were consolidated.
+
+**Footer hand-offs.**
+- *Picked up from `d33-dubia`:* the **p.731 R-column NOTAE AD LIBR. SENTENTIARUM band (nn.1–2) = [^1]–[^2]**, this littera's opening footers, CLAIMED here per the resume hand-off (d33-dubia forwarded nothing across the d.33/d.34 boundary; the dubia closed clean on p.731 R-col at `… in sua generalitate`, and its own footers are the p.731 *L* NOTAE AD COMMENTARIUM band).
+- *Forwarded to `d34-p1-divisio`:* **NONE of the NOTAE AD LIBR. SENTENTIARUM band.** The p.734 littera NOTAE (nn.1–5) are fully captured here. The separate **NOTAE AD COMMENTARIUM** block that begins in the p.734 **right footer-column** immediately below the littera's n.5 (`NOTAE AD COMMENTARIUM. ¹ Ita codd. AEUX; alii codd. et edd. dicta.`) cites the COMMENTARIUS / DIVISIO TEXTUS body (which begins at the foot of p.734) and is the **`d34-p1-divisio` chunk's own footer** — it is a different apparatus family, not a forward of a NOTAE AD LIBR. SENTENTIARUM note. Nothing is parked here for the divisio.
+
+**Boundary verification.** The littera body stops cleanly at Cap. IX's `… effectus peccati, ut praedictum est.` (p.734, end of R-column body), confirmed eyes-on against `vol3-p734-R-1.png`. The **COMMENTARIUS IN DISTINCTIONEM XXXIV.** header (subtitle *De habitibus donorum,* then `Pars I.` and `DIVISIO TEXTUS.`) begins below it at **raw line 50991** — that block and everything after it belong to `d34-p1-divisio`. Nothing at/after raw 50991 is included here.
+
+**Forward-planning aid for `d34-p1-divisio` (verbatim — do NOT rechunk here).** The p.I divisio's TRACTATIO QUAESTIONUM (raw ~51027): the pars divides into TWO principal questions (`circa haec duo principaliter possunt quaeri`): (1) comparison of gifts to virtues, (2) the gifts in themselves. `Circa primum quaeruntur tria` → ARTICULUS I has THREE questions (Primo: differentiam; Secundo: ordinem; Tertio: praecellentiam). ARTICULUS II (OCR 'U.') begins raw ~51600 for the second principal question. So p.I = a1(q1–q3) + a2(q1–q3); the `-dup2` chunks (raw 51610–52174) are a2-q1/q2/q3, NOT a1-q4/q5/q6.
+
+**`[?]` flags.** None. All body readings and all 19 NOTAE entries were confirmed against the 450 dpi PDF bands (the heavily OCR-shattered footer regions were re-set eyes-on from the PDF, per the Vol II/III PDF-priority inversion).
