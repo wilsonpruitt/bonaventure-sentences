@@ -1,6 +1,22 @@
 # Bonaventure Sentences — Next Session Resume
 
-## ★ NEXT ACTION — bon-sent-III-d31-dubia (skeleton exists; PROMOTE to Tier 2) — CLOSES DISTINCTIO XXXI
+## ★ NEXT ACTION — bon-sent-III-d32-littera (skeleton exists; PROMOTE to Tier 2) — STARTS DISTINCTIO XXXII
+
+**★★ DISTINCTIO XXXI COMPLETE (12 chunks — littera, divisio, a1-q1/q2/q3, a2-q1/q2/q3, a3-q1/q2/q3, dubia — all Tier 2). ★★**
+
+**d31-dubia is Tier 2 (commit `c8eec22`, 2026-06-12) — CLOSES DISTINCTIO XXXI.** *Dubia circa litteram Magistri*, **THREE dubia** (Dub. I *Caritas, quae deseri potest, nunquam vera fuit* — immutability vs truth of charity; Dub. II *liber vitae* / blotting-out — quid sit liber vitae + duplex scriptio; Dub. III *Christus tantum electos dilexit* — voluntas antecedens vs consequens). **Printed pp.694–695** (PDF 716–717) — CORRECTED from the pre-brief's [694,695,696]: the dubia opens full-width at the foot of p.694 (below a3-q3's L-col tail) and closes mid-p.695 R-col; **p.696 is already the d.32 littera opener** (`DISTINCTIO XXXII. Cap. I. De caritate Dei`), the dubia does NOT reach it. **14-entry NOTAE AD COMMENTARIUM apparatus** (per-page restart, renumbered continuous `[^1]`–`[^14]`): **p.694 nn.7–10 → [^1]–[^4]** (the PICKED-UP hand-off from a3-q3, all anchored in Dub. I); **p.695 nn.1–10 → [^5]–[^14]** (L-col nn.1–6, R-col nn.7–10; across all three dubia). `has_scholion: false` (DUBIA blocks carry no scholion). **Footer hand-offs:** picked-up = p.694 nn.7–10 from a3-q3 (consumed); **forwarded to d32-littera = NONE** (DISTINCTIO XXXII opens on a fresh page p.696). No `[?]` flags. translated 1197→1198. Audits clean. Do NOT deploy. d.21–d.30 polish gate stays CLOSED; **d.31–d.40 decade gate fires only when d.40 closes (NOT NOW).**
+
+**NEXT ACTION → `bon-sent-III-d32-littera` (skeleton present — PROMOTE; STARTS d.32).** `type: littera`, distinctio:32, `book: 3`. Lombard's *Littera Magistri* for DISTINCTIO XXXII. **Opener:** `DISTINCTIO XXXII. Cap. I. De caritate Dei` at raw **48337**, on **p.696** (PDF 718). Grep raw forward from 48337 to the d.32 `COMMENTARIUS`/`DISTINCTIO XXXIII` to bound + count Cap. chapters; cross-check running heads + +22 offset. Apparatus = NOTAE AD LIBR. SENTENTIARUM (per-page restart). `has_scholion: false` (littera carries no scholion). Vol III two-column + PDF-priority inversion (offset pdf = printed + 22; trust running-head TEXT over OCR'd digits). Template = `vol3/bon-sent-III-d31-littera.md` or `vol3/bon-sent-III-d29-littera.md`.
+
+> **⚠ d.32 SKELETON INVENTORY (2026-06-12):** present = `d32-littera, d32-a1-q1..q6, d32-dubia` (8 skeletons). **NO `d32-divisio` skeleton exists — it must be CREATED**, exactly as for d.29/d.30/d.31 (the auto-chunker consistently skipped the divisio in this stretch). After d32-littera, diagnose the COMMENTARIUS / DIVISIO TEXTUS / TRACTATIO QUAESTIONUM block and CREATE `d32-divisio` before a1-q1. Also verify whether d.32 is one ARTICULUS UNICUS (q1..q6) or multi-article, and whether any a1-q2 type question is genuinely missing (re-check the TRACTATIO against the skeleton inventory, as d.31's a2-q2 was).
+
+---
+### (trace) d31-dubia — Tier 2, commit `c8eec22` (see star block above) — CLOSES d.31
+### (trace) d31-a3-q3 — Tier 2, commit `1e9f88d`
+
+---
+
+## (DEMOTED, kept for trace) prior NEXT ACTION — bon-sent-III-d31-dubia — CLOSES DISTINCTIO XXXI
 
 **d31-a3-q3 is Tier 2 (commit `1e9f88d`, 2026-06-12) — LAST quaestio of ARTICULUS III.** *Utrum contingat caritatis ordinem in patria immutari* (printed quaestio-title *Utrum ordo caritatis in patria habeat immutari*); printed **pp.692–694** (PDF 714–716), opens on p.692 below q2's 2-line spill. **25-entry NOTAE apparatus** [^1]–[^25] (per-page restart, renumbered continuous): **p.692 nn.1–10 → [^1]–[^10]**; **p.693 nn.1–9 → [^11]–[^19]**; **p.694 nn.1–6 → [^20]–[^25]**. **`has_scholion: false`** — forward-covered by ART-III article-master scholion **§III (q3 doxography) + §IV (q3 citation register)** under a3-q1; redirect anchored in q3's [^25] (`Vide scholion ad 1. huius articuli quaest.`). Alignment OK (no q-swap): TRACTATIO 3rd member = q3 opener 1:1 (`Tertio quaeritur, utrum ordo caritatis in patria habeat immutari, an is sit ordo patriae…`). No `[?]` flags. translated 1196→1197. Do NOT deploy. d.21–d.30 polish gate stays CLOSED.
 
