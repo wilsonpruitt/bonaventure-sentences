@@ -49,10 +49,18 @@ def sortkey(name):
 
 TERMINAL = ('.', '»', ':', '?', '!', '"')
 
+VOL = {1: ("vol1", "I"), 2: ("vol2", "II"), 3: ("vol3", "III")}
+
 def main():
-    min_d, max_d = int(sys.argv[1]), int(sys.argv[2])
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    vol = 2
+    for a in sys.argv[1:]:
+        if a.startswith("--volume"):
+            vol = int(a.split("=")[-1]) if "=" in a else int(sys.argv[sys.argv.index(a)+1])
+    min_d, max_d = int(args[0]), int(args[1])
+    vdir, vrom = VOL[vol]
     files = []
-    for f in glob.glob("vol2/bon-sent-II-d*.md"):
+    for f in glob.glob(f"{vdir}/bon-sent-{vrom}-d*.md"):
         m = re.search(r"-d(\d+)", f)
         if m and min_d <= int(m.group(1)) <= max_d:
             files.append(f)

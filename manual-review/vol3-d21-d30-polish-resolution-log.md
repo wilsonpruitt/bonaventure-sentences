@@ -47,3 +47,80 @@ The backfill is **correct**. The now-stale open-flag bullet in `d27-dubia` (`[?]
 - Three guard-rail audits `--volume 3 --min-d 21 --max-d 30` (paraphrase / headers / apparatus-count): **no NEW flags**.
 
 **Pass 1 status: CLOSED.** No unresolved `[?]` flags remain in Vol III d.21–d.30. Passes 2 and 3 still pending — d.31+ dispatch remains blocked until all three close.
+
+---
+
+# PASS 2 — Style/formatting audit (full corpus)
+
+**Date:** 2026-06-12.
+**Tool:** `tools/audit-style-formatting.py` (extended this session — see below), report at `manual-review/vol3-d21-d30-pass2-style-audit.md`. Streams all Tier-2 chunks across Vol I + Vol II + Vol III (Vol I=406, Vol II=448, Vol III=309 Tier-2; 125 skeletons skipped at the start).
+
+## Tool extensions made this session
+- **`-dup2` detection added** to `find_legacy_duplicates` — flags any `<chunk>-dup2.md` whose canonical `<chunk>.md` exists (the auto-chunker class the d.21–d.30 audit surfaced).
+- **Scholion-ordering check added** (`scholion_not_last`): for each `## Latin` / `## English`, if a `### Scholion` is followed by any further non-Scholion `### ` subsection, the chunk is flagged — this is the parser-emptying class (`extractLanguageBlock` reads everything after `### Scholion` as scholion).
+- Report path/title moved to the Vol III d.21–d.30 convention.
+
+## Checks run (per CLAUDE.md §2)
+Required Tier-2 frontmatter (`title_la`, `title_en`, `printed_pages`, `pdf_pages`, `source`, `has_apparatus`, `transcription_status`); `## Latin`/`## English`/`## Apparatus` structure; **apparatus marker pairing** (every `[^N]:` def anchored in BOTH bodies, no orphan body anchors); `### Scholion`-last ordering; page-break `<!-- page N -->` presence; `transcription_status` prefix; legacy/`-dup2`/pars-split duplicates; `**En.**` 4-vs-5 indent mix within a chunk.
+
+## Findings + dispositions
+
+### `-dup2` skeletons (the headline item)
+All five in-scope `-dup2` files carried `transcription_status: "auto-chunked 2026-06-02"` with a raw-OCR Latin body, `[Translation pending]` English, and **no apparatus** — i.e. vestigial auto-chunker duplicates. Their canonical siblings are all fully Tier-2 (verified status strings). **Disposition: DELETE (vestigial).** Backed up to `_backup-d21-d30-dup2-pre-delete-20260612/` first, then removed:
+- `bon-sent-III-d24-a1-q1-dup2.md`, `…-q2-dup2.md`, `…-q3-dup2.md`
+- `bon-sent-III-d25-a1-q1-dup2.md`, `…-q3-dup2.md`
+
+**NOT deleted — out of scope + NOT yet superseded:** the d.34 (`d34-p1-a1-q1/q2/q3-dup2`) and d.39 (`d39-a2-q1/q2/q3-dup2`) dup2 files. For these, BOTH the dup2 AND the canonical are still `auto-chunked` skeletons (d.34/d.39 not yet translated), so they are future-work scaffolds, not vestigial duplicates. Left in place.
+
+### `scholion_not_last` — 1 flag, Vol I, ACCEPT
+- `bon-sent-I-d27-p1-a1-q2.md` (Latin + English): carries a `### Anecdota` subsection AFTER `### Scholion` in both bodies. This is the corpus-wide pass earning its keep, but on inspection it is **not a body-emptying defect**: the quaestio body (objections → Respondeo → Epilogus) all precedes the scholion; `### Anecdota` is scholion-adjacent editorial matter (two anecdota fragments + variant readings, with its own `[^25]` anchor) that the parser folds INTO the scholion render — it is displayed, not dropped. Build confirms `hasTranslation: true` for this chunk. It is a **published Vol I** chunk that already passed its own gate; per the "do not bulk-rewrite" rule it is **ACCEPTED as-is** (Anecdota renders within the scholion block). No Vol III chunk has this issue. Flagged here for the record; no edit made.
+
+### `orphan_app_defs` — 2 flags, both ACCEPT (documented no-anchor source-refs)
+- `bon-sent-III-d26-a2-q5.md` `[^9]` (in d.21–d.30 scope): the chunk `## Notes` documents this as the genuine **p.579 n.9** footer (Augustine *de Spiritu et anima* + Damascenus tail); it is a footer whose printed superscript anchors the body but whose def the audit reads as orphan because of where the anchor sits — eyes-on confirms the anchor IS present in both bodies (the audit's orphan call is a regex artifact of the very long def). Legitimate; ACCEPT.
+- `bon-sent-I-d5-a2-q4.md` `[^11]` (out of scope, Vol I): explicitly documented in its `## Notes` as a **standalone scholion source-reference list** (`Alex. Hal. … Biel`) printed with a marginal Roman-numeral sigil and **carrying no body marker by design**; appended as `[^11]` with an explicit "no body marker" note. Intentional; ACCEPT.
+
+### Everything else: CLEAN
+Zero `missing_frontmatter`, zero `missing_section`, zero `status_prefix`, zero `no_page_breaks`, zero `en_indent_mix`, zero `body_anchor_no_def`, zero La↔En anchor mismatches across all 309 Vol III Tier-2 chunks (and Vol I/II). **No mechanical fixes were required** in Vol III beyond the dup2 deletion — the d.21–d.30 chunks are formatting-clean.
+
+**Pass 2 status: CLOSED.** Mechanical action taken: 5 vestigial `-dup2` skeletons deleted (backed up). All other flags dispositioned ACCEPT-with-reason (2 documented no-anchor source-refs; 1 Vol I Anecdota-after-scholion that renders correctly). No substantive guess-fixes.
+
+---
+
+# PASS 3 — Cross-chunk boundary integrity sweep (d.21–d.30, 450 dpi)
+
+**Date:** 2026-06-12.
+**Tool:** `tools/seam-screen.py` (extended this session to accept `--volume 3`), `python3.11 tools/seam-screen.py 21 30 --volume 3`. Offset `pdf = printed + 22`; 450 dpi column bands via `extract-pages.py --volume vol3 --dpi 450` + `colcrop.py vol3 <printed>` where eyes-on was warranted.
+
+## Method
+The screen walks every adjacent chunk pair in canonical order (littera→divisio→a1-q1→…→dubia), detects shared-page (mid-printed-page) boundaries via `printed_pages` frontmatter, and surfaces the prior chunk's Latin tail + receiving chunk's Latin head, flagging any prior tail that does NOT end on terminal punctuation — **the cascade-merge signature** (the d9-divisio class: a grammatically broken splice in the prior chunk's tail). **88 mid-page boundaries** in d.21–d.30; **2 tail-not-terminal suspects** surfaced.
+
+## Per-boundary verdict
+All 88 mid-page seams checked via the screen (continuity of `Secundo/Tertio/… quaeritur` / `Consequenter quaeritur` openers against the prior chunk's TRACTATIO listing + tail closure). **86 CLEAN outright** (prior tail closes on a complete sentence — typically a scholion citation-list section III/IV, an `Et per hoc patent quaesita[^N]` closure, or an `[^N]`-anchored sentence — and the receiving head opens on the expected numbered-quaestio formula).
+
+### The 2 tail-not-terminal suspects — both CLEAN (heuristic false-positive)
+- **p.555** `d26-divisio → d26-a1-q1`: the screen sampled `*De spe secundum considerationem absolutam.*` because the divisio's true tail is a `### ARTICULUS` header + its italic title (the screen strips `#` lines). The actual divisio content ends on a complete TRACTATIO listing (`…Quinto quaeritur, utrum in actu suo sit certitudinalis, an dubia.`) matching q1's `…utrum spes sit virtus gratuita`. No content lost. **CLEAN.**
+- **p.589** `d27-divisio → d27-a1-q1`: identical pattern — tail sampled as `*De ipsa caritate quantum ad habitum.*` (the `### ARTICULUS I.` title). Divisio's real tail is a complete prose sentence (`…ideo nunc restat determinare alia quatuor sequentia.`) + the full six-fold question listing matching q1's `…utrum caritas sit habitus…`. **CLEAN.**
+
+Both are the expected divisio→a1-q1 artifact (divisio bodies end on an ARTICULUS title), **not** cascade-merge signatures.
+
+### Footer-accounting spot-check at 450 dpi (representative riskier seam)
+- **p.492** `d23-a2-q2 → d23-a2-q3` (prior tail ends on argument prose `…habetur sufficientius[^p492-5]`, a footnote-anchored sentence — the riskier non-scholion-list class). Read `colcrop.py vol3 492` R-column footer band: the page's footer sequence runs nn.1–9. **Split verified by body anchor:** q2 owns `[^p492-1..5]` (n.5 = `Vide scholion ad praecedentem quaest.`, matches band); q3 owns `[^p492-6..9]` (n.6 `Vers. 19. — …infra d. 34.`, n.7 `Vers. 17. — Glossa apud Petr. Lombard.`, n.8 `Vers. 24. Cfr. ibid.`, n.9 `Dist. 3. p. I. q. 4.` — all match the band). **All 9 footers fully accounted, no drop or double-count.** Latin continuous (q2 closes `…habetur sufficientius`, q3 opens fresh `Tertio quaeritur de subiecto fidei informis`). **CLEAN.**
+
+Pass 1 had already done 600 dpi footer work on the d.24/d.26/d.27 shared pages (pp.508–517, 573–582, 589–615) and the d.27→d.27-dubia / d.30 footers; that footer discipline is corroborated by this independent p.492 read.
+
+## Cascade-merge dropouts found
+**NONE.** No grammatically broken prior-chunk tail anywhere in d.21–d.30. The 2 heuristic suspects were divisio-title artifacts. No `~170-word`-class silent dropout was found; no seam required repair.
+
+**Pass 3 status: CLOSED.** 88/88 mid-page seams verdicted (86 CLEAN, 2 CLEAN-after-inspection); footer-split discipline confirmed at the representative p.492 shared page; zero cascade-merge dropouts.
+
+---
+
+# d.21–d.30 DECADE-POLISH GATE — CLOSED (all 3 passes)
+
+- **Pass 1** (`[?]`-flag resolution): CLOSED (commit `f712e2f`) — 9 flags cleared (6 resolved, 2 accept-as-printed, 1 backfill).
+- **Pass 2** (style/formatting, full corpus): CLOSED — 5 vestigial `-dup2` skeletons deleted; all other flags ACCEPT-with-reason; Vol III formatting-clean.
+- **Pass 3** (seam integrity, d.21–d.30 @ 450 dpi): CLOSED — 88 mid-page seams clean; zero cascade-merge dropouts.
+
+**Build:** `node scripts/build-content.mjs` → 3 books, **1283 questions, 1186 translated** (question count fell 1288→1283 as the 5 phantom dup2 skeletons were removed; translated count held at 1186). **Audits** `--volume 3 --min-d 21 --max-d 30`: paraphrase 0 critical/0 high; apparatus-count diffs are the standard divisio/littera undercount noise (pre-existing, triage-only); headers `d.25 A-LOSS` is the pre-existing coarse-ARTICULUS-count artifact (present before AND after dup2 deletion; deletion improved the diff −7→−2; d.25 structure a1/a2 × 3 q each is correct and Tier-2). **No NEW flags.**
+
+**d.31 is UNBLOCKED.**
