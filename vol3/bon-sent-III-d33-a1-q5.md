@@ -6,361 +6,312 @@ distinctio: 33
 articulus: 1
 quaestio: 5
 type: quaestio
-line_start: 50086
-line_end: 50423
-word_count_latin: 5013
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Utrum virtutes cardinales sint a Dei dono, vel ab assuetudine"
+title_en: "Whether the cardinal virtues are from God's gift or from habituation"
+printed_pages: [721, 722, 723, 724, 725, 726]
+pdf_pages: [743, 744, 745, 746, 747, 748]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 721–726"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (Vol III PDF-priority inversion, printed pp.721–726, raw lines 50086–50429), fresh literal English, full NOTAE AD COMMENTARIUM apparatus per-page restart (27 entries, p.721 nn.5–7 picked up from a1-q4), scholion §I–VI (§VI forwards to a1-q6 duratio finalis) (2026-06-12)"
 format_version: 1
 ---
 
 # bon-sent-III-d33-a1-q5
+## *Utrum virtutes cardinales sint a Dei dono, vel ab assuetudine*
+
+---
 
 ## Latin
+<!-- page 721 -->
 
-QUAESTIO V.
-                                     Utrum virtutes cardinales sint a Dei dono, vel ab assuetudine.
+### Quaestio V. *Utrum virtutes cardinales sint a Dei dono, vel ab assuetudine.*
 
+Quinto quaeritur de virtutibus cardinalibus quantum ad originem, et est quaestio, utrum huiusmodi virtutes sint a Dei dono, vel ab assuetudine. Et quod sint ab assuetudine, videtur.
 
-                 Quinto qnaeritur de virtutibus cardinalibus quan-                        2. Uem, secundum quod vnll Philosophus ' et
-           tum ad originem . et est quaestio, utrum huiusmodi                       ostendit: « Ex eisdem ipsis unaquaeque res genera-
-           virtutes sint a Dei dono, vel ab assuetndine. Et quod                    tur, per quae in es.se salvatur et promovelur » ; sed
-           sint ab assuetudine, videlur.                                            per bonorum operum muliplicationem cardinales vir-
-                 I. Eadein est virlns cardinalis et consuetudina-                   tutes habent in nobis conservari et ad mclius pro-
-Fnndamenia.lis secunduin rem et essentiain j sed virlus consue-                     moveri : ergo per bona opera habent in nobis ge-
-           tudinalis completum esse habet ab assuefactione, se-                     nerari.
-           cundnm quod dicit Philosophus in principio Veteris                             3. Item, hoc ipsum videtur experimenlo. Vide-
-         Ethicae e : « Innatis nobis a nalura, perfectis vero ah                    inus enim, quod malus homo, diiin in bono exer-
-         assuefactione » : ergo etc.                                                cetur et assuescit , semper plus et plus ad bouuiu
+1. Eadem est virtus cardinalis et consuetudinalis secundum rem et essentiam; sed virtus consuetudinalis completum *esse* habet ab assuefactione, secundum quod dicit Philosophus in principio Veteris Ethicae[^2]: « Innatis nobis a natura, perfectis vero ab assuefactione »[^1]: ergo etc.
 
+2. Item, secundum quod vult Philosophus[^3] et ostendit: « Ex eisdem ipsis unaquaeque res generatur, per quae in *esse* salvatur et promovetur »; sed per bonorum operum multiplicationem cardinales virtutes habent in nobis conservari et ad melius promoveri: ergo per bona opera habent in nobis generari.
 
-              1 v.ii. aubdii iantum. Panlo inEerius posl ordinatur etiam                 « Scil. lili. II. c. I. (clV. lom. I. |ing. 10, nota 2.)', nl)i sic
-         non pauci codd. ndlidanl <•/. Delnde pro Mt ad allerwn ordi-               legilur (secandum antiquam translationem, quae i:i s. Thomae
-         miiiin cod. K adaltenm ordmatur.                                           Comnicni. supcr Elhlc. habetur): Neque igltur naturi                 |ue
-              5 Cod. V inris.                                                       praeler naturam insuni virtates, aed innniK quidem nobis nuscl-
-               3 Cfr. aupra pag. B6I, nota7. Ofl proposiL seq. vldelnfro            pcrc Clis, |icil'cclis .ilililn l p i - 1- iissilcliiilincill | a/./.i R(f Ux6ot U.8V
-         iluli. 1.
-                                                                                    /,'j.Tv Si^abOetl ccjTi: . TActou(A£voi< H *a'x to>j :0'jjc |. ln no^-n
-              4 llir el paulo Inferiua pro patuntia, quam leclionem cmn-            vcrsionc uiiiiii.i verba slc redduntur: Bed cum Idonel ad i|isns
-         pl      codd. '-I edd. I, i tiobcnt, alll codd. poenitenlia, Vat.          suscipiendas natura sinms, assuetudihe perdclmur. De wo-
-         obedienlia.                                                                inri vide iniin iinii. 8. — in niinnri edd. pluraltler dicunt uir-
-                5 Portia I. ii. 2. i|. i.  Paulo ante pro etpoenilentia bene        tnirs rniisiirliiiiiiiiilrs. . littlirnt. Pro ttssiirfilrlitiiir in ninllis COdd.
-         iniilli COdd. Ct cilil. I, -2 fnl^rp rt imiititrnliinii iVml. k jiittien   (considerata abbrevlatlono verblj aeque bene legi iinsvri nsstir-
-                                                                                    tudine
-         iiiim, cod. /. muericordiam). superiui pro aUqui habitus cod.
-         k atiqui aclui. — Vide acnolion ad praecedentem quaest.                          7 i.ilir. II. Elhlc. c 2: Ai \cio i               Bolum generatlones el
-                     S. Ilunav. — Tom. III.
+3. Item, hoc ipsum videtur experimento. Videmus enim, quod malus homo, dum in bono exercetur et assuescit, semper plus et plus ad bonum
+<!-- page 722 -->
+habet disponi et habilitari et facilior reddi; sed hoc non esset, nisi per assuefactionem in bono acquireretur habitus, qui ad bonum habilitaret: cum igitur tales sint virtutes cardinales, videtur, quod originem trahant ex frequenti bene agere.
 
+4. Item, multi habent et habuerunt huiusmodi virtutes cardinales et consuetudinales, qui nunquam crediderunt in Christum nec sunt membra eius: si ergo vera gratia per Christum habet derivari in eius membra, videtur ergo, quod cardinales virtutes acquiri possint per humanam industriam[^11].
 
+5. Item, sicut intellectus perficitur et dirigitur et rectificatur per habitum scientiae, sic et affectus per habitum virtutis; sed quamvis intellectus noster propria virtute non possit venire in cognitionem aeternorum[^12], tamen per ea quae naturaliter habet, potest venire in cognitionem istorum inferiorum: ergo pari ratione, quamvis affectus non possit habere virtutes, quae elevent ipsum ad superna, videtur tamen, quod possit habere virtutes dirigentes ipsum et rectificantes circa ista inferiora. Sed cardinales virtutes sunt huiusmodi[^13]: ergo etc. — Si tu dicas, quod non est simile, quia perfectio affectus multo nobilior est quam perfectio intellectus: obiicitur contra hoc, quod talis perfectio non videtur esse excellentior quam perfectio cognitionis. Videmus enim, quasdam creaturas irrationales huiusmodi virtutes quasi naturaliter possidere. Quoddam enim animal est, quod viget in liberalitate; quoddam, quod in prudentia; quoddam, quod in mansuetudine; quoddam, quod in virtutis strenuitate; quoddam, quod in castitate, sicut per exempla patet[^4]: ergo si natura hominis dignior est quam natura bestiarum, multo fortius videtur, quod homo istas virtutes cardinales aut habeat simpliciter sibi innatas, aut per illud quod est innatum, cum rationis industria possit acquirere.
 
-                                                                                                                                                         91
-        722                                                   SENTENTIARUM LIR. III.
+**Sed contra:** 1. Iacobi primo[^5]: *Omne datum optimum et omne donum perfectum desursum est*; sed dona virtutum sunt dona optima, secundum quod innuit ipsa Glossa: ergo non videtur, quod huiusmodi virtutes sint a nostra assuefactione, sed potius ex divino munere. *(Ad oppositum.)*
 
-        habel disponi et habilitari et facilior reddi \; sed hoc                      2. Item, Sapientiae octa vo 7 : Scio , quod aliler
-        non esset, nisi per assuefactionera in bono acqui-                      non possum esse conlinens , nisi Deus d.et: ergo con-
-        reretur habitus, qui ad bonum habihtaret: cum igi-                      tinenlia non potest obtineri nisi per divinum munus,
-        tur tales sint virtutes cardinales , videtur, quod origi-               pari ratione nec alia cardinalis virtus : redit ergo
-        nera trahant ex frequenti bene agere.                                   idem quod prius.
-              4. Item, multi habent et habuerunt huiusmodi                            3. Item, hoc ipsum videtur ralione: « Agens
-        virtutes cardinales et consueludinales, qui nunquam                     nobilius esl patiente, et principium effectu8» ; sed vir-
-        crediderunt in Christum nec sunt membra eius: si                        tus interior animi nobilior est quam operatio exte-
-        ergo vera gratia per Christum habet derivari in eius                    rior: ergo ex frequenti bona operatione non videtur
-        membra, videtur ergo, quod cardinales virtules                          quod contingat acquirere aliquam virtutem cardi-
-          acquiri possint per humanam industriam2.                              nalem.
-                 5. Item, sicut intellectus perflcitur et dirigitur                   4. Itera, si virtus acquiritur per operationes, aut
-          et rectificatur per habitum scientiae, sic et affectus                per unicam operationem , aut per plures ; constat ,
-          per habitura virtulis; sed quamvis intellectus noster                 quod per unicam non 9: ergo per plures. Sed contra:
-          propria virtute non possit venire in cognitionem ae-                  quando una illarum operationum incipit esse, alia
-           ternorum3, tamen per ea quae naturaliter habet, po-                  desinit: ergo si nunquara operationes sunl simul;
-          test venire in cognitionem istorum inferiorum : ergo                  si una non potest facere, ergo nec plures, cum, no-
-          pari ratione , quamvis affectus non possit habere vir-                vis operationibus supervenientibus, aliae transeant
-           tutes, quae elevent ipsum ad superna, videtur ta-                    in praeteritum.
-          men, quod possit habere virtutes dirigentes ipsum                           b. Item, si virtus cardinalis generari habet ex
-           et rectificantes circa ista inferiora. Sed cardinales vir-           operibus, aut ergo ex operibus virluosis , aut non
-           tutes sunt huiusmodi 4 : ergo etc. — Si tu dicas , quod              virluosis. Ex operibus virtuosis nori, quia opera
-           non est simile , quia perfectio affectus multo nobilior              virtuosa sive sludiosa a virtute habent originera10:
-           est quam perfeclio intellectus: obiicitur contra hoc,                ergo non sunt virtulis principium. Si ex operibus
-           quod talis perfectio non videtur esse excellentior                   non virluosis; sed contra: quales sunt aclus, tales
-           quam perfeclio cognitionis. Videmus enim , quasdam                   snnt habitus: ergo si opera illa non sunt virtuosa,
-           creaturas irrationales huiusmodi virtutes quasi natu-                non generabunt habitum virtuosum: ergo videtur,
-           raliler possidere. Qnoddam enim animal est, quod                     quod nulla virlus possit ex operibus generari.
-           viget in liberalitale; quoddam, quod in prudenlia ;
-           quoddam, quod in raansuetudine; quoddam, quod in                                              CONCLUSIO.
-           virlutis strenuitate; quoddam,quod in caslitate, si-
-           cut per exempla patet5: ergo si natura hominis di-                   Virtules cardinales , prout sunl politicae, tum a
-           gnior est quam nalura bestiarum, multo fortius vide-                      nalura lum ab assuefactione orlum habent; sed
-           tur, quod homo istas virtutes cardinales aut habeat                       prout sunt infusae et gratia informatae, sunt
-           simpliciter sibi innatas, aut per illud quod est inna-                    a divino munere.
-           tum, cum ralionis industria possit acquirere.
-                  Sed contra : 1. lacobi primo6: Omne dalum                           Respondeo : Ad praedictorum intelligenliam est
-Ad opposi- optimum el omne donwn perfectum desursum est;                        notandum, quod^                                      harum species
-                                                                                                    virtutes cardinales uno modo di- Duae    virto-
-            sed dona virtutum sunt dona optima, secundum                        cunlur virtules. quia habililant ad opera moralia; tum.
-            quod innuit ipsa Glossa: ergo non videtur, quod hu-                 alio raodo dicuntur virtutes non solum, quia habi-
-            iusmodi virtutes sint a nostra assuefactione, sed po-               litant ad huinsmodi opera, sed etiam , quia eleuant
-            tius ex divino munere.                                              ad opera meritoria. Secundum autem quod virtu-
-         incremcnla ct corrupliones ex iisdem et ub cisdem efficiuntur,              * Cfr. supra q. I. — Paulo inferius pro quod lalis non
-         verum eliam opcrationes in iisdem quoque erunl; nam in aliis,          pauci codd. quia talis.
-         quae manifestiora sunt, res ila se habet, ut in viribus; nam                5 Vide Arislol. , IX. de Hislor. animal. c. I. — Pro inpru-
-         et illae tum ex multi cibi sumlione tum ex mullis laboribus            dentia complurcs codd. m proindenlia.
-         sustinendis comparantur, et ulraque haec praestare maxime                   6 Vers. 17. — Glossa ordinaria apud Strabum ct Lyra-
-         omnium robustus potest. Idem in virlutibus conlingit; ex eo cnim       num dicil, omne bonum, quod agamus, omne datum, quod ad
-         quod abstincmus a volupltitibits, efficimur temperantcs, ct ef-        naturam releralur, et omne donum, quod referatur ad gratiam,
-         fecli temperanles maxime abslinerc a voluplatibus possumus clc.        csse » Deo.
-         Cfr. II. de General. et corrupl. text. 50. (c. 8.), ubi idem Philo-         7 Vers. 21 : Et ut scivi quoniam aliler non possem csse
-         sophus inter alia dicit: Omnia enim nutriuniur ex eisdem, ex           coniinens clc.
-         quibus sunl. Cfr. etiam Boeth., III. dc Consol. prosa II. — In               8 Aristot. III. de Anima , text. 19. (c. 5.): Semper enim ho-
-         rainoii pro muttiplicationem codd. A bb multitudinem.                   norabilius esl agens paliente , et principium materia. Cfr. XII.
-               1 C.fr. Aristol. , dc Pr.icdiiam. c. de Oppositis , ubi simile    Mctaph. lext. 40. (XI. c. 7.), et supra pag. 210, nola 7.
-         cxemplum proponilur. — Cirea fincm arg. pro igitur tales multi               0 Cfr. Aristol., II. Efhic. c. I.
-         codd. perperam exhibent igilur trcs, el subinde post virlutes                10 Cfr. suprti pag. 388, nota 2. — De axioniatc : quales
-          cardinales edd. subiungnnt et consuetudinates.                         sunt actus, lales sunt habitus, cfr. tom. II. pag. 760, nola 6.
-               2 Cod. V assuefactionem.                                          — Paulo supcrius pro a virtute cod. A a virlulibus , et mox
-               3 Intellige: immediate. De cogniiionu Iici per eius cfiectus      pro Si ex operibus cdd. Videtur ergo , quod ex operibus.
-          in crejluris cfr. I. Scnt. ci. 3. p. I. q. I. 2.
-                                                                                                                                                                     723
+2. Item, Sapientiae octavo[^6]: *Scio, quod aliter non possum esse continens, nisi Deus det*: ergo continentia non potest obtineri nisi per divinum munus, pari ratione nec alia cardinalis virtus: redit ergo idem quod prius.
 
-                                                      DIST. XXXIII. ART. UNICUS QUAEST. V.
+3. Item, hoc ipsum videtur ratione: « Agens nobilius est patiente, et principium effectu[^7] »; sed virtus interior animi nobilior est quam operatio exterior: ergo ex frequenti bona operatione non videtur quod contingat acquirere aliquam virtutem cardinalem.
 
-             tes cardinales dicuntnr virtutes, quia potentiam ele-               equo, et gratia assimilatur sessori, et bona operatio
-conciusio t. vant l ; sic non habent orluin alj assuefactione , sed              rectae ambulationi.
-             a divino nmnere; non a nalura, sed a gratia. Quia                         Sic igilur palet, quod loquendo de virtute car- Epiiogus.
-             enim elevant potentiam supra se, sunt supra natu-                   dinali. secundum quoil esl polilica, et secundum
-             rain et actum ipsius potentiae, qui inest ei per se;                quod est intenlionis pbilosophicae determinare de
-             et ideo necesse est, quod ab aliquo superiori et po-                ipsa . eoncedi potest, quod a nalura et assuefa-
-             tenlia et actu ipsius polentiae trahant originem. Et                ctionc trahit originem, secundum quod ipse Philo-
-             hoc modo cardinales virtutes sunt virtutes gva-                     sophus dicil, et rationes ostendunt ad primam par-
-             tuitae °.                                                           tem inductae. Si aulem loquamur de virlutibns car-
-                   Alio modo esl loqui de cardinalibus virtulibus,               dinalibus, secundum quod sanl gratuitae, et secun-
-             secundum quod habililant ad opera moralia ; et sic                  dum quod de eis intendit theologus, sic sunt a
-conciasio 2. huiusmodi virlutes cardinales sunt virlutes poiiticae               divino munere.   — Sed contra. boc non sunt .
-                                                                                                                             rationes , Adraenta.
-                                                                                                                                             !aaia-
-                                                                                          ,    .                 .
-             et radiealiler sunl a natura, sed complelive sunt                   quae ad prunani partem lnducimlur, quia solum
-             vel ab operum frequentia et perseveranlia , vel a                   procedunt de virtute, secundum quod dicit quen-
-             i/ruliiie influentia et praesidentia , vel ex utraque               dam habitum facilitantem ' polentiam animae. Et ideo
- Eipiicatur. causa. A natura , inquam, sunt radicaliter , quia                   rationes illae sunl concedendae.
-             plantalam hahemus in noslra natura rectiludinem,                          1. Ad illud vero quod obiicitnr in conlrarium, soiutio op-
-                                                                                      .        ,        .                             positorum.
-             per quam apli siunus, licet imperfecle, ad opera                    quod oinne daluin optimum et omne donum perfe-
-         virtutis el honestatis 3; sed dum assuescimus , paula-                  ctum etc, et virtutes sunl dona optima; responderi
-         tim efficitur nobis facile quod prius eral difficile,                   potest dupliciter. Primo, quia Glossa intelligit de r«p- t.
-          secundum quod dicit Bernardus ad Eugenium4,                            virtutibus non quibuscumque et per omnem modum,
-          quod nihil est adeo difficile, quod consueludo non                     sed in quantnm sunt gratuitae et meritoriae , per
-          reddat facile. — Nec solnm ex assuefaclione duci-                      quem modum diclum est, cardinales virtutes esse a
-          lur illa habilitas semiplena ad complementum, sed                      solo muiiere gratiae. — Alilereliam potest dici, quod ResP. 2.
-          etiam per gratiae adiutorium. Nam cum ipsa gra-                        per illamaucloritatem non probatur, quod tales vir-
-          tia sit animae rectificativa, reclitudo superveniens                   tutes non sint a nobis, quia tam naluralia quam gra-
-          naturae rectiludinem qualemeumque prius existentem                     tuila dicuntur esse a Deo, sicut Glossa exponit ibi T.
-          amplificut et amplificando confirmat. — ■ Ex utraque                   Et propterea ex hoc haberi non potest, quod non sint
-          etiam causa virtus politica potest suscipere comple-                   ab operatione nostra. Opus enim nostrum non exclu-
-          mentum, videlicet quando concurrit divinae graliae                     dit opus et munus divinum. immo praesupponit et ne-
-          adiutorium et bonae consueludinis exercitium, per                      cessario exigit , secundum quod in secundo libro s
-          quae duo virtus cardinalis radicala in natura dnci-                    fuit ostensum, ubi quaesitum fuit, ulrum omnis
-          tur ad complementum perfectum. — Et sic virlus                         actio sit a Deo.
-          cardinalis, in qunntum est polilica, ortum babens a                          2. Ad illud quod obiicitur de auctoritate Sa-
-          nalura, ducitur ad quoddam conipleineiitum ex                          pientiae, iam patet responsio: quia vel infelligitur
-          assuefactione subsequente, ad maius complementum                       de continentia, secundum quod est Deo accepta el
-          ducitur ex gralia supervenienle , sed ad perfectum                     meritoria; vel intelligitur de aclione Dei, qua Deus
-          complementum ducitur ex utraque causa concur-                          diciliir dare aliquid cooperando et adiuvando, non notandnm.
-          rente. videlicet gratia et assuefactione.                              de illa speciali , qua dicilur dare ipsum habitum
-                Etpotest huiusmodi exemplum inveniri satis ma-                   infundendo\     Pbilosophi enim continenles fuerunt,
-Eiempinm. nifestuui. Videmus enim, quod aliquis equus ex sua                     et hoc Deo dante, non per ipsius conlinentiae infu-
-          naturali compositione aptiludiueiu hahel ad bene                       sionem, sed per liberalem et bcnevolam coopera-
-          portandum el ambnlanduin; sed illa aplitudo ad                         tionem.
-          complementuni putest reduci per ipsius cqui assue-                           3. Ad illud quod oliiicilur, quod agens nobi-
-          faclionem , vel per ipsius sessoris industriam, qui                    lius est patiente, ct principiuin effectu; dicenduni.
-          scit freno equum circumducere, vel per ulra.mque.                      qnod illuii
-                                                                                        ■'• Serm habet veritatem , quando agens et movens
-          Sic et in proposilo intelligendum est, quia secun-                     subslantialiter differt a patiente; sed quando sic est,
-        dum     Aiigiislinuiii ' liberum        arbilrium      assimilalur       quoil idein movet ipsum, non oportet, quod ve-
-                                                                                                                                                               i'. s. II.
+4. Item, si virtus acquiritur per operationes, aut per unicam operationem, aut per plures; constat, quod per unicam non[^8]: ergo per plures. Sed contra: quando una illarum operationum incipit esse, alia desinit: ergo si nunquam operationes sunt simul; si una non potest facere, ergo nec plures, cum, novis operationibus supervenientibus, aliae transeant in praeteritum.
 
-                1 Cod. V iiililit nii opera mcritoria.                                                30. (tili.is de Verbis Apostoli, serm. 12.)
-                                                                                                                                                            tniii. ex  11.
-                8 Vide supni i. 11 a. 2. q. •';. ot d. 27. a. I. q. :i. ad l.    10, ei III. Ilyypognost. (intrt- opera August) c. 11. Civ iiiinus
-        — Paulo anle pro polentia w actu cod. A (cod. N a secunde                                    la ii. el   iliiii. il. 2ii. i|. :;. — Paulo ante pos
-        roanu) noh lla bene polentia et actm, Vat potentiae et actui.
-                                                                                 pag . 60a\0,T1 nouti eaymn
-                                                                                  iiitn.
-                                                                                 eodd.                            circumducere pi
-                                                                                                      equum circumduccre
-                                                                                                      eqmim       circ                  pro eguum suum
-                                                                                   unil  i'st iti nllfo
-                                                                                                     alils ..Iet ...1.1
-                                                                                                                 edd.                                      iiiii'1'i'i' ,
-                :i Cfr. ^ii|ii;t pag. 800 , nota *i.                             q
-                                                                                                                          Proxime
-                4 i.ilir. I. de Conslderal. c. 2. n. 2: Quld non Invertat con-          ■ Edd. Iinliililiiiilriii. Proxime post pro potentiam cod. I1I1
-        suetudo? i|niil non aasidullale duretur?... Prlmum Hbl linpor-
-        lablle vldebltur nliqufd; processu lemporls, si assaescns, ludl-                                    22, nota 5.
-                                                                                       7 Cfr, supra pog. '
-                                                                                 polentic
-        caljis non adeo grave; paulo post ei leve senlles; paulo post                  " Dlst. 37. .1. I. q. I.
-                                                                                       " Cod. z influendo.
-        ncc sendes; paulo posi etlam deiectablt. — Paulo sujici ius pro
-        ji.i, iLiinii codd. \ 11 'r i! v iiii paulath 1.
-        724                                                    SENTENTIARUM LIB. III.
+5. Item, si virtus cardinalis generari habet ex operibus, aut ergo ex operibus virtuosis, aut non virtuosis. Ex operibus virtuosis non, quia opera virtuosa sive studiosa a virtute habent originem[^9]: ergo non sunt virtutis principium. Si ex operibus non virtuosis; sed contra: quales sunt actus, tales sunt habitus: ergo si opera illa non sunt virtuosa, non generabunt habitum virtuosum: ergo videtur, quod nulla virtus possit ex operibus generari.[^10]
 
-          ritatem habeat nisi secundum quid, ut idem ipsum                      effectus per se ipsum non est tantus, ut mereatur
-          sit magis nobile et minus secundum diversas com-                      dici disposilio vel habitus; sed prout ab actibus
-          parationes. Dnde liberum arbitrium, se ipsum assue-                   sequentibus adiuvatur et promovetur, crescit in
-          faciens ad bonum per actum suum, magis nobile                         dispositionem , et de dispositione crescit in habi-
-          est, in quantum se movet et assuefacit, et mi-                        tum; sicut videmus, quod una gutta non sufficit ad
-          nus nobile, in quantum assuescit *.. Et hoc modo re-                  cavandum, frequens tamen stillatio guttae facit fo-
-          spondendum est in omnibus habitibus acquisitis. —                     veam, secundum illud poeticum3:
-          Et si ulterius insislat, quod actus exterior non est                         Gulta cavat lapidem non vi, sed saepe cadendo.
-Notendam. nobilior habitu interius generato; dicendum, quod
-          virtus politica non perducitur ad complementum                        Sic etiam intelligendum est in proposito.
-          per actum exferiorem, sed per actum voluntatis                              S. Ad illud quod obiicitur, quod virtus cardi-
-          interiorem; sicut patet, cum aliquis largitur elee-                   nalis non potest generari ex operibus virtuosis*; di-
-          mosynam, est ibi operatio manus exterius exse-                        cendum, quod generari habet ex operibus virluosis;
-          quenlis, et ista non est principium virtutis, sed si-                 sed opus virtuosum sive studiosum, ul proprius
-          gnum ; et est operatio voluntatis interioris moventis                 loquamur, quoddam esl virtuosum plene, quoddam Distinctio
-          et dirigentis, qua vult largiri alii; et ex ista ope-                 semiplene. Illud est virtuosum plene, quod procedit
-          ratione frequentata cum perseverantia ad comple-                      ab habitu virtutis iam completo; illud est virtuo-
-          mentum habet duci virtus consuetudinalis sive po-                     sum semiplene, quod disponit ad habitum virtutis.
-          litica.                                                               Et hoc quidem opus non necesse est esse a virtule, Notandum.
-               4. Ad illud quod quaeritur, utrum una opera-                     sed potest esse ab aliquo, quod est virtuti conso-
-          tio, an plures perducant ad virtutis completionem ;                   num, utpote a voluntate deliberativa consonante
-          dicendum, quod plures, quia non ex una opera-                         naturali rectitudini, videlicet iudicio conscientiae et
-          tione generatur habitus, sed ex multis 2. — Et si                     inclinationi synderesis, quibus virtus conformalur,
-          obiiciat, quod una superveniente, reliqua transit,                    sicut patet. Definitur enim virtus, quod est «habi-
-Notandam. et nunquam erunt simul plures; dicendum, quod                         tus mentis in modum naturae rationi consentiens 5 » .
-          etsi prima operatio transeat quantum ad aclum,                        Et sic patet, quod ratio illa non cogit, quia procedit
-          manet tamen quantum ad effectum , qui quidem                          ex suppositione falsi.
+> **Conclusio.**
+> Virtutes cardinales, prout sunt politicae, tum a natura tum ab assuefactione ortum habent; sed prout sunt infusae et gratia informatae, sunt a divino munere.
 
-                                                                    SCHOLION.
+**Respondeo:** Ad praedictorum intelligentiam est notandum, quod virtutes cardinales uno modo dicuntur virtutes, quia habilitant ad opera moralia; alio modo dicuntur virtutes non solum, quia habilitant ad huiusmodi opera, sed etiam, quia elevant ad opera meritoria. *(Duae species harum virtutum.)* Secundum autem quod virtu-
+<!-- page 723 -->
+tes cardinales dicuntur virtutes, quia potentiam elevant[^14]; *(Conclusio 1.)* sic non habent ortum ab assuefactione, sed a divino munere; non a natura, sed a gratia. Quia enim elevant potentiam supra se, sunt supra naturam et actum ipsius potentiae, qui inest ei per se; et ideo necesse est, quod ab aliquo superiori et potentia et actu ipsius potentiae trahant originem. Et hoc modo cardinales virtutes sunt virtutes gratuitae[^15].
 
-              1. De li-iplici habilu, scilicet innalo, acquisito, infuso cfr.   auclor significat sic: a gratiac influenlia et praesidentia ; qtto-
-        IV. Senl. d. i. p. II. a. 2. q. 2, d. 6. p. I. q. I. 5; 1. Senl.        rum verborum intellectus palebit e.x infra dicendis.
-        d. 3. p. II. a. 2. q. I. ad I; II. Sent. d. 39. a. 1. q. 2, el alibi.         II. De habilibus infusis per se controversia fuit inter theolo-
-        Habilus infusi, qui non babent orlum a libero arbilrio, sed im-         gos, dum Scot. (III. Sent. d. 36. q. unica n. 28.) cum sua schola,
-        mediate a Deo (II. Sent. d. 28. dub. I.), a posterioribus tbeo-         Ilenrico Gand. (Quodl. 6. q. 12.), Durando (hic q. 6.) et Nomi-
-        logis ilerum dislinguunlur in habitus infusos per se et infusos         nalibus pulat, quod <t non vidctur necessilas ponendi virlutes
-        per accidens ; illi ex natura propria habent, ut non nisi a Deo         morales infusas, sed acquisilas tanlum in his qui habent eas
-        in anima possint produci, ut est v. g. habilus iidei; hi vero,          acquisitas, vel habere possunt; nec cliam in aliis, qui scilicet
-        licet per actus naturales possint aequiri, tamen interdum alicui        non possunl eas acquirere propter defectum usus liberi arbitrii,
-        ex speciali Dei dispensalione supernaturaliler infundunlur. — in        quia non esl maior ralio, quore isti debeant habere et non illi ».
-        hnc quaestione auctor praecipue agil dc habitibus acquisitis, de        Putat enim idem, quod omnis fvnis, quem acquisilae « non
-        quibus clr. S. Thom., S. I. II. q. Sl. a. 1-3; Q. disp. de Vir-         possunt hnbere ex specie sua, determinatur sufiicienter ex in-
-        tulibus in rommuni a. 8. 9. — Pro doclrina auctoris nostri              clinatione caritatis; modus autem ef medium determinontur per
-        recte intelligenda servit dislinclio (in corp.) triplicis modi, quo     fidem infusam ». Quae senlentia a nonnullis antiquis docloribus
-        hae virtules in anima oriri possunt, scilicel per frequentationem       censuris nimis gravibus impugnata est; de quo conferalur disser-
-        actuum, per infiisionem et ulroque modD. Secundum niodum                talio Commentntoris Scoti ad loc. cit. (ed. Waddingi) cl Mnstrii,
+Alio modo est loqui de cardinalibus virtutibus, secundum quod habilitant ad opera moralia; et sic huiusmodi virtutes cardinales sunt virtutes politicae *(Conclusio 2.)* et radicaliter sunt a natura, sed completive sunt vel ab operum frequentia et perseverantia, vel a gratiae influentia et praesidentia, vel ex utraque causa. *(Explicatur.)* A natura, inquam, sunt radicaliter, quia plantatam habemus in nostra natura rectitudinem, per quam apti sumus, licet imperfecte, ad opera virtutis et honestatis[^16]; sed dum assuescimus, paulatim efficitur nobis facile quod prius erat difficile, secundum quod dicit Bernardus ad Eugenium[^17], quod nihil est adeo difficile, quod consuetudo non reddat facile. — Nec solum ex assuefactione ducitur illa habilitas semiplena ad complementum, sed etiam per gratiae adiutorium. Nam cum ipsa gratia sit animae rectificativa, rectitudo superveniens naturae rectitudinem qualemcumque prius existentem amplificat et amplificando confirmat. — Ex utraque etiam causa virtus politica potest suscipere complementum, videlicet quando concurrit divinae gratiae adiutorium et bonae consuetudinis exercitium, per quae duo virtus cardinalis radicata in natura ducitur ad complementum perfectum. — Et sic virtus cardinalis, in quantum est politica, ortum habens a natura, ducitur ad quoddam complementum ex assuefactione subsequente, ad maius complementum ducitur ex gratia superveniente, sed ad perfectum complementum ducitur ex utraque causa concurrente, videlicet gratia et assuefactione.
 
+Et potest huiusmodi exemplum inveniri satis manifestum. *(Exemplum.)* Videmus enim, quod aliquis equus ex sua naturali compositione aptitudinem habet ad bene portandum et ambulandum; sed illa aptitudo ad complementum potest reduci per ipsius equi assuefactionem, vel per ipsius sessoris industriam, qui scit freno equum circumducere, vel per utramque. Sic et in proposito intelligendum est, quia secundum Augustinum[^18] liberum arbitrium assimilatur equo, et gratia assimilatur sessori, et bona operatio rectae ambulationi.
 
+Sic igitur patet, quod loquendo de virtute cardinali, secundum quod est politica, et secundum quod est intentionis philosophicae determinare de ipsa, concedi potest, quod a natura et assuefactione trahit originem, secundum quod ipse Philosophus dicit, et rationes ostendunt ad primam partem inductae. *(Epilogus.)* Si autem loquamur de virtutibus cardinalibus, secundum quod sunt gratuitae, et secundum quod de eis intendit theologus, sic sunt a divino munere. — Sed contra hoc non sunt rationes, quae ad primam partem inducuntur, quia solum procedunt de virtute, secundum quod dicit quendam habitum facilitantem[^19] potentiam animae. Et ideo rationes illae sunt concedendae. *(Ad fundamenta.)*
 
+1. Ad illud vero quod obiicitur in contrarium, *(Solutio oppositorum.)* quod omne datum optimum et omne donum perfectum etc., et virtutes sunt dona optima; responderi potest dupliciter. Primo, quia Glossa intelligit de virtutibus non quibuscumque et per omnem modum, sed in quantum sunt gratuitae et meritoriae, per quem modum dictum est, cardinales virtutes esse a solo munere gratiae. *(Resp. 1.)* — Aliter etiam potest dici, quod *(Resp. 2.)* per illam auctoritatem non probatur, quod tales virtutes non sint a nobis, quia tam naturalia quam gratuita dicuntur esse a Deo, sicut Glossa exponit ibi[^20]. Et propterea ex hoc haberi non potest, quod non sint ab operatione nostra. Opus enim nostrum non excludit opus et munus divinum, immo praesupponit et necessario exigit, secundum quod in secundo libro[^21] fuit ostensum, ubi quaesitum fuit, utrum omnis actio sit a Deo.
 
-             1 Cfr. II. Sent. d. 28. p. I. q. 2. ad S. — Cod. A et Suppie-      Ovid., IV. Epist. ex Ponlo, epist. 10. v. 5:
-        menl. Sum. Alex. Hal. assuefil; edd. ve.rbo assuescit praeinittunt
-        minus. Superius pro comparationes codd. A II L na bb operationes.                 Gutla cavat lapidem, consumilur unulus usu.
-             - Cfr. Aristol., II. Elhic. c. I. — De dispositione et liabitu     Pro non vi in laudato hexnmelro codd. H I L T V V bb non bis.
-        deque discrimine utriusque vide Arislol., de Praedicam. c. de           Voci poeticum cod. Z ndiicit diclum.
-        Quali. — Pro completionem codd. NU comptemenlum , edd.                       4 Edd. cum nonnullis codd. non virluosis; codd. S U Z et
-        perfectionem.                                                           Supplement. Sum. Alex. Hal. post virtuosis nddunt nec etiam
-             3 I.ucrel., IV. de Rerum nalurn, v. 1278-82:                       ex operibus non rirluosis.
-                                                                                     5 Cicero, II. Rhetor. c. 54: Virtus est nnimi habilus, nulu-
-               Nnm leviter quamvis, quod crebro tunditur ictu,                  rae modo, rationi consentaneus. Cfr. II. Sent. d. 27. club. 3. —
-                 Vincilur in longo spatio tamen, atque labnscit:                De consvientia et synderesi vide ibid. d. 39. per totam. — Infra
-                 Nonne vides, etiam gulla= in saxn cadenleis                    in codd. F G I L N T ( V primitus) aa desunt verba quia pro-
-                 llumoris longo in spnlio perlundere snxa? —                    cedit ex suppositione falsi (cod. Z falsa).
-                                                 DIST. XXXIII. ART. UNLCUS QUAEST. V.
-                                                                               ctio graliac ralione suae dignilalis et eminentiae Iribuit homini
-in III. Sent disp. 6. q. 2. — Allamen S. Thom.' censet, cum
-earilale semper a Deo dari virlutes per se infusas (S. I. II. u.               omnes habiius facienles ad inlegrilatem iusiiiiae secundum com-
-63. a. 3.), easque specie differre ab acquisilis; quae senlen-                 paralionem variam ad aclus et obiecla el secundum slatiis et
-lia nunc communius repulalur esse securior et probabilior.                     opporiunitalcs, quae reperiuntur in slatu viae ». Relali aulem
-      Haec quaeslio, quae iam tempore lnnocenlii III. quoad in-                termini cuusandi ci Iribtteudi minime exprimunt causam proprie
-fanles baptizatos in scholis agiiabalur, ab eodem relicla est in-              elficicntem (cum conslcl, solum Dcum                  essc causam        efficientem
-decisa. Nam       idem (c. Maiores, de Baptismo) dicil hoc tantum:             talis infusionis), sed dicunt quandam              exigentiam, ut illi habilus
-« Aliis asserenlibus, parvulis quidem culpam remilii, sed gra-                 connaluraliler, Deo           operanle, e.x gralia rcsultcnl, sive, ut au-
-liam non conferri: nonnullis dicentibus, dimitli peccalum et                   clor dicit, lit « pcr quandam          concomilantiam         ct signilicanliam »,
-virlutes inftmdi, habentibus illas quoad habitum, non quoad                    ila u( isla relalio « aliquo modo              reduci |iossit ad praedicotio-
-usum, donec perveniant ad aetatem adultam ». Sed in Concilio                   nem per causam » (II. Sent. d. 27. a. I. q. 2. ad I.). — Sub
-Viennensi (an. 1311) Clemens           V. docet: « Opinionem        secun-     hoc autcm respectu habilus isii infusi propriam habcnt « for-
-dam, quae dicit, lam parvulis quam adullis conferri in bapl-                   mam, pcr quam sunl ad spcciales actuum dillcrenlias ordinali...
-ismo informaniem graliam et virtutes, et diclis Sanctorum et                   et essentialiter ei formalitcr dislinguunlur » (supra q. 2.), sci-
-doctorum       modernorum      theologiae magis    consonam     ct concor-     lieet tum intcr sc, lum a carilale, tum a gratia (cfr. supra d.
-dem, sacro approbante Concilio, duximus eligendam ». Poslea                    27. a. I. q. I. in corp. et ad ii, q. 3. ad i; II. Sent. d. 26.
-vero quoad illos habilus (saltem trium virtutum theologicarum)                 q. S, scholion, d. 27. a. I. q. 2, et passim).
-Concilium Tridenl. (Sess. VI. c. 7.) delerminate docet, eos in iu-                     Quoad secundum          docet, quod iidem habilus substrnti pos-
-stificalione infundi. Calechismus autem Rom. (p. II. c. 2. § 51.)              sunt inforniari dupliciter: tum a ijratia , cl sic proprie fluni ijra-
-docet, quod in baplismo « addilur nobilissimus omnium virtutum                 tuiti, tum n caritate, ut fiant meritorii (supra q. 2.). IIoc brevi-
-comilalus, quae in animam cum gratia divinilus infundunlur ».                  ler expliratur supra d. 27. a. I. q. 3. ad I, ubi virlutes distin-
-       III. S. Bonav. (IV. Senl. d. 4. p. II. a. 2. q. 2.) cum           S.    guuntur triplicitcr, scilicet tum quoad esse , ct sic « quaclibel
-Thoma docel, quod baplizatus i parvulus habet virlules Ihco-                   virius habet in se propriam formnm , per quam dislinguilur ab
-logicas et alias per consequens » (ibid. fundam. 4.); et (in corp.)            alia, ut fides a spe »; tum           quoad beneesse,          « sic informanlur
-addit: « Quia (h.ibitus infusus) non habet ortnm a libero arbi-                a ijratia, quae facit ipsas graluilas el Deo acceplas »; lum quoad
-trio, poiest esse in parvulis anie usum         liberi arbiirii ; quia vero    bcne operari , sic « informaniur a carilaie, quoe esl pondus in-
-non habet ortum a naliira, potest esse perfeclus, naiura cxi-                  clinans cl faeicns lcndere opcralioncs omnium viriulum ad bo-
-stente imperfecia ». Si auiem auclor noster dpcet, in parvulis                 num      finem ». —      L)e hac ullima informalione elorissime agitur
-baplizatis csse virliiles per se infusas (licet hoc lermino non                infra d. 36. a. 6. —              Iluic duplici informalioni eonscnlit S.
-ulatttr); easdem        eliam quoad    adullos concedcre    dcbel; quod        Thom.       (II. Senl. d. 26. q. I. a. 4. ad 5.) diceris: « Aliter iu-
-etiam diserlis verbis docet de habilu inftiso continentine, quem               fonnat gratia virtutes, aliler carilas ». —              Ipsc tamcn iri modo,
-nominai spcciulcm , el dislinguit a conlinentia ucquisitn. Unde                quo gralia informat habitus, aliquatenus leccdil a noslro au-
-sinc suiTiciente rationc Dionys. Carlh. ( hin q. 3.) suspicalur,               clorc ; nec inutile erit detcrminarc, in i|uo isti Ss. Doctores con-
-S. Bonavenluram         cum    Scolo docere, quod virlus cardinalis cl         ceniiint, ct in quo dissentiunt.
-moralis acquisita perficiatur ct formetur gratio , quin oporleat,                      Conceniunt      iidem in hoc, quod yrntia tribuat ipsi animae
-virtutcm infusnm superveniro. Huic falsae interpretationi occa-                quoddain esse spirituale ; nam              « confcri animac perfectionem in
-sionem dedil niodiis loquendi aliqnalenus ambiguus,            qui in hac      quodam         dicino esse , cl non solum respectu opcris » (S. Thom.,
-quaeslione et etiam supra q. 2. occurrit.                                      II. Senl. d. 26. a. i. ail 3.) ; hac ralione ipsum subiectum                        ope-
-                                                                               runs lil Deo acceplum (de Vcril. q. 27. a. 5. ad S).
-    IV. l't autcm genuinus sensus Bonaventurianae doctrinne,
-quae a quibusdam perperam, uii opinamur, inlcllecla cst, per-                          Sed uhra progrediendo             duo Doctores dissentiuni in hnc,
-Cipiatur; opporiuniim crit, nonnulla dicere tum de inodo lo-                   quod S. Bonav. graliae. tribuat immediatum quenilam inllii.citiii
-ijiiemli luni de ipsn iloclrina nostri aueloris.                               in ipsas polentins ct in hnhitus ; sed S. Thom. secundum suam
-       1. Quond     inodiim loqucndi ipse uno termino cjrutuilne vir-          doclrinam de primo ct immedialo subiecto graliac (cfr. II. Sent.
-tules passim signiflcat ium ipsam substanliam             habiuis infusi,      d. 26. q. S, d. 29. a. I. q. I , scholion) reslringil immcdiiilum
-quatenus dislinguitur formaliter ab aliis habilibus infusis, lum               ofleeliim graliac .id inlormalionem subslantine , confercndo «esse
-infornialionem eiusdem , qu.ie lii lum         per iinam graliam habi-         spinhtnle ; quod pcrlinct ad informalioncm subiccli » (de Ve-
-tualeni, tum alio modo          per rarilalim. Tcrminus    autem ijrnluili     rit. loe. cit. ad 17.), ut aninia « sil susccpliva virlulum » (Q.
-eo aptius de virtulibus moralibns infusis in hoc sensu adhibetur,              disp. de Cariialc o. 3. ad 19.). Perficit quidem gratia ciiani po-
-si cum       S. Thnma    (S. I. II. q. 65. a. 2.1 lcncnius, quod ipsae         tcntias cl habitiis, scd « non ilo, quod sit in omnibtis sicul in
-non possunl esse per se infusnc, quin simul sint formalae a                    subiecto , scd in quantum informat omnium potenharum nclus »
-gratia, duni habiius fulei et spci possunt essc pcr se infusi ,                (de Vcrilalc loc. eit. ad 9.), el « medittnlilnis cirliitilius cl tltmis
-e| tamen informes (supra d. 23. o. 2. pracscrlim q. 2; d. 26.                  elicil oclus merilorios, quod pcrlinct ad graliam eonperanlcni »
-a. I. q. t.), Aiianicn S. Bonav. dicii, virlutum hahilus posse                 (iliid. ad 17.). Ilinc virtutes [infusae] sunl « Dco ijiutne sine hoc
-csse inrormes, « soln carilatc excepta » (Brcviloq. p. V. c, 4.),              quod aliquid addatur o Dco inrusum » (II. Scnt. d. 26. n. I.).
-nlsi fortc hoc inlelligal de virlullbus cardinalibus acquisitis.               Hine sequiiur, quod suni realiter disllnclae, etiom m gratuitae,
-     2. Quod aulem ad itnctrinniii allinel, uotandiini csl , quinl             inlcr sc et a gralio, in qua l.unen « coniunclSe sunt sicul in
-siTiindiim      ipsum gralia    h ibilualis duplieem liabct relationem ad      sua niiijinc, per moihim , quo diversi rodii ob eodem corpore
-babitus virtulum Infusos, scillcel aliquo modo          eos causando      ct   lucente proccdum » (ibid. et cfr. S. I. II, q. iio. a, 3. <i.j.
-causatos informando.                                                                Alii r S. Bnnav., seciinilum queui « grolio nnn reddll ae-
-       iu      I primiiin ronvcnil S. Ilonav. eiim S. Tl       a cliam    iu   qualiler aiiimam acceptam            DeO et eilis potcnliain ct habilus                ct
-modo        loquendi. Dlcll enim, quod Istl hnbitus « orlum        habeanl     opera » (inlra d. 34. p. I. a, I. q. 3. In corp.), el inilnii in ipsns
-a gralia », « quae est eorum radlx » liniia d. 34. p. I. a. I. q. ■>.          infiisns hahitus, a gralia dislinelos. Ili enim   « quamvls forina-
-iu corp.; IV. Si-ni. d. is. p. II. dub. 3.), ei quoc non lainum                liter    divldantur     quantum      ad     hobilus   substratos,        tanien,       in
-eosdem informat, sed etlnm quodam modo cautat (Infra d. 36.                    qnauliim tjrulmli sunl,     e    iiunii-ani in IpSll gralia, qui 91
-q. 5. in princ. eorp.), iia iii gralia i ramiflcelur In habllusvlr-            i   iiinii virtutum giaiiiiianiin perfectlva In tm gratulto » (in-
-iiiiiimi • (Breviloq. p. V. e. i.j. Ibdem vel ncqiilvalentlhus ver-            fra d. 31',.     q.   I. ad   i. cl efr. q. 6. ail i.) el faeil eus              « tcsti-
-liis ulilnr S. Tl      (S. I. <|. III). ,i. 3, ili iiirp. el ail .1, II, 1.    los » (llexoem. Scrm.             7.). « Cum superfunditur grotln, tunc
-                                                                               finniaiiliir    Ct ileenianllir    el Dcu    aecepl.lllilis   lllllll ; sielll    el eo-
-od l ; Qq. «I«- Vcrltale q. 27. n. •">. od 17 ; efr. Gottl, Thcolog.
-inin. II. tr. ii. q. 3. iiuh. 5. 5 :)-). Ratlonem hulus ofleri s.              I       i absqne lucc siinl in\ i-.il nii-s , supervenlentc autem Inmlne
-Donav, (Infra d. 34. p. I. a. 2. q, 3. iu corp.) ; • Qnla pcrfe-               lliinl lueiili, pulcri el aspeilui          eoioplaernlis.     Iinlc quemadmO-
-                                                               SENTENTIARUM LIB. III.
-          dum ex luce et coloribus flt unuin in ratione molivi, et una               V. De hac quaestione praeter locos cit : Petr. a Tar. , hic
-          lux suftieit ad mullos colores illuminandos ; sic ex gratia et ha-    q. I. a. 2. — Richard. a Med. , hic a. I. q. 2. — Biel, hic
-          bilibus informibus, eum formanlur, flt unum secundum ratio-
-          nem merilorii et gratuili » (lireviloq. p. V. c. i.). Huius do-             VI. Quoad ultimam quaestionem communiter doeetur, quod
-                                                                                q. unica.
-          ctrinae explicalionem vide supra d. 23. a. 2. q. 5, et scholion, et   habitus infusi remaneant in patria secundum quosdam actus
-          II. Senl. d. 27. a. I. q. 2 et scholion, ubi tamen omissum est        excellenliores.
-          dicere, quod verba Seraphici ibi n. 2. relata (gratia non dillert a         De hac (6.) quaestione : Scot. , hic q. unica n. 1 1. — S.
-          gratuila <i nisi sola comparalione ») inlelligenda sunt de virlute    Thom., hic q. I. a. i ; S. I. II. q. 67. a. I ; Q. disp. de Virt.
-          gratuita praecise, quatenus est gratuita, id est gratia infor-        card. a. i. — B. Albcrt. , hic a. i. — Petr. a Tar., hie q. I.
-          mata, non vero de substantia habitus, ut hic melius explica-          a. i. — Richard. a Med. , hic a. I . q. 6. — Durand. , hic q.
-          tum est.                                                              i. — Dionys. Carth. , hic q. I.
+2. Ad illud quod obiicitur de auctoritate Sapientiae, iam patet responsio: quia vel intelligitur de continentia, secundum quod est Deo accepta et meritoria; vel intelligitur de actione Dei, qua Deus dicitur dare aliquid cooperando et adiuvando, non de illa speciali, qua dicitur dare ipsum habitum infundendo[^22]. *(Notandum.)* Philosophi enim continentes fuerunt, et hoc Deo dante, non per ipsius continentiae infusionem, sed per liberalem et benevolam cooperationem.
+
+3. Ad illud quod obiicitur, quod agens nobilius est patiente, et principium effectu; dicendum,
+<!-- page 724 -->
+quod illud[^23] habet veritatem, quando agens et movens substantialiter differt a patiente; sed quando sic est, quod idem movet ipsum, non oportet, quod veritatem habeat nisi *secundum quid*, ut idem ipsum sit magis nobile et minus secundum diversas comparationes. Unde liberum arbitrium, se ipsum assuefaciens ad bonum per actum suum, magis nobile est, in quantum se movet et assuefacit, et minus nobile, in quantum assuescit[^14b]. Et hoc modo respondendum est in omnibus habitibus acquisitis. — Et si ulterius *insistat*, quod actus exterior non est nobilior habitu interius generato; dicendum, quod *(Notandum.)* virtus politica non perducitur ad complementum per actum exteriorem, sed per actum voluntatis interiorem; sicut patet, cum aliquis largitur eleemosynam, est ibi operatio manus exterius exsequentis, et ista non est principium virtutis, sed signum; et est operatio voluntatis interioris moventis et dirigentis, qua vult largiri alii; et ex ista operatione frequentata cum perseverantia ad complementum habet duci virtus consuetudinalis sive politica.
+
+4. Ad illud quod quaeritur, utrum una operatio, an plures perducant ad virtutis completionem; dicendum, quod plures, quia non ex una operatione generatur habitus, sed ex multis[^24]. — Et si *(Notandum.)* obiiciat, quod una superveniente, reliqua transit, et nunquam erunt simul plures; dicendum, quod etsi prima operatio transeat quantum ad *actum*, manet tamen quantum ad *effectum*, qui quidem effectus per se ipsum non est tantus, ut mereatur dici dispositio vel habitus; sed prout ab actibus sequentibus adiuvatur et promovetur, crescit in dispositionem, et de dispositione crescit in habitum; sicut videmus, quod una gutta non sufficit ad cavandum, frequens tamen stillatio guttae facit foveam, secundum illud poeticum[^25]:
+
+> Gutta cavat lapidem non vi, sed saepe cadendo.
+
+Sic etiam intelligendum est in proposito.
+
+5. Ad illud quod obiicitur, quod virtus cardinalis non potest generari ex operibus virtuosis[^26]; dicendum, quod generari habet ex operibus virtuosis; sed opus virtuosum sive studiosum, ut proprius loquamur, quoddam est virtuosum *plene*, quoddam *semiplene*. *(Distinctio.)* Illud est virtuosum plene, quod procedit ab habitu virtutis iam completo; illud est virtuosum semiplene, quod disponit ad habitum virtutis. Et hoc quidem opus non necesse est esse a *virtute*, sed potest esse ab aliquo, quod est virtuti consonum, *(Notandum.)* utpote a voluntate deliberativa consonante naturali rectitudini, videlicet iudicio conscientiae et inclinationi synderesis, quibus virtus conformatur, sicut patet. Definitur enim virtus, quod est « habitus mentis in modum naturae rationi consentiens[^27] ». Et sic patet, quod ratio illa non cogit, quia procedit ex suppositione falsi.
+
+### Scholion
+
+**I.** De triplici habitu, scilicet innato, acquisito, infuso cfr. IV. Sent. d. 4. p. II. a. 2. q. 2, d. 6. p. I. q. I. 5; I. Sent. d. 3. p. II. a. 2. q. I. ad I; II. Sent. d. 39. a. 1. q. 2, et alibi. Habitus *infusi*, qui non habent ortum a libero arbitrio, sed immediate a Deo (II. Sent. d. 28. dub. I.), a posterioribus theologis iterum distinguuntur in habitus *infusos per se* et *infusos per accidens*; illi ex natura propria habent, ut non nisi a Deo in anima possint produci, ut est v. g. habitus fidei; hi vero, licet per actus naturales possint acquiri, tamen interdum alicui ex speciali Dei dispensatione supernaturaliter infunduntur. — In hac quaestione auctor praecipue agit de habitibus *acquisitis*, de quibus cfr. S. Thom., S. I. II. q. 51. a. 1-3; Q. disp. de Virtutibus in communi a. 8. 9. — Pro doctrina auctoris nostri recte intelligenda servit distinctio (in corp.) triplicis modi, quo hae virtutes in anima oriri possunt, scilicet per *frequentationem actuum*, per *infusionem* et *utroque modo*. Secundum modum auctor significat sic: a gratiae *influentia* et *praesidentia*; quorum verborum intellectus patebit ex infra dicendis.
+
+**II.** De habilibus infusis per se controversia fuit inter theologos, dum Scot. (III. Sent. d. 36. q. unica n. 28.) cum sua schola, Henrico Gand. (Quodl. 6. q. 12.), Durando (hic q. 6.) et Nominalibus putat, quod « non videtur necessitas ponendi virtutes morales infusas, sed acquisitas tantum in his qui habent eas acquisitas, vel habere possunt; nec etiam in aliis, qui scilicet non possunt eas acquirere propter defectum usus liberi arbitrii, quia non est maior ratio, quare isti debeant habere et non illi ». Putat enim idem, quod omnis *finis*, quem acquisitae « non possunt habere ex specie sua, determinatur sufficienter ex inclinatione caritatis; *modus* autem et *medium* determinantur per fidem infusam ». Quae sententia a nonnullis antiquis doctoribus censuris nimis gravibus impugnata est; de quo conferatur dissertatio Commentatoris Scoti ad loc. cit. (ed. Waddingi) et Mastrii, in III. Sent. disp. 6. q. 2. — Attamen S. Thom. censet, cum caritate semper a Deo dari virtutes per se infusas (S. I. II. q. 63. a. 3.), easque specie differre ab acquisitis; quae sententia nunc communius reputatur esse securior et probabilior.
+<!-- page 725 -->
+Haec quaestio, quae iam tempore Innocentii III. quoad infantes baptizatos in scholis agitabatur, ab eodem relicta est indecisa. Nam idem (c. *Maiores*, de Baptismo) dicit hoc tantum: « Aliis asserentibus, parvulis quidem culpam remitti, sed gratiam non conferri: nonnullis dicentibus, dimitti peccatum et virtutes infundi, habentibus illas quoad habitum, non quoad usum, donec perveniant ad aetatem adultam ». Sed in Concilio Viennensi (an. 1311) Clemens V. docet: « Opinionem secundam, quae dicit, tam parvulis quam adultis conferri in baptismo informantem gratiam et virtutes, et dictis Sanctorum et doctorum modernorum theologiae magis consonam et concordem, sacro approbante Concilio, duximus eligendam ». Postea vero quoad illos habitus (saltem trium virtutum theologicarum) Concilium Trident. (Sess. VI. c. 7.) determinate docet, eos in iustificatione infundi. Catechismus autem Rom. (p. II. c. 2. § 51.) docet, quod in baptismo « additur nobilissimus omnium virtutum comitatus, quae in animam cum gratia divinitus infunduntur ».
+
+**III.** S. Bonav. (IV. Sent. d. 4. p. II. a. 2. q. 2.) cum S. Thoma docet, quod baptizatus « parvulus habet virtutes theologicas et alias per consequens » (ibid. fundam. 4.); et (in corp.) addit: « Quia (habitus infusus) non habet ortum a *libero arbitrio*, potest esse in parvulis ante usum liberi arbitrii; quia vero non habet ortum a *natura*, potest esse perfectus, natura existente imperfecta ». Si autem auctor noster docet, in parvulis baptizatis esse virtutes per se infusas (licet hoc termino non utatur); easdem etiam quoad adultos concedere debet; quod etiam disertis verbis docet de habitu infuso continentiae, quem nominat *specialem*, et distinguit a continentia *acquisita*. Unde sine sufficiente ratione Dionys. Carth. (hic q. 3.) suspicatur, S. Bonaventuram cum Scoto docere, quod virtus cardinalis et moralis acquisita perficiatur et formetur gratia, quin oporteat, virtutem infusam supervenire. Huic falsae interpretationi occasionem dedit modus loquendi aliquatenus ambiguus, qui in hac quaestione et etiam supra q. 2. occurrit.
+
+**IV.** Ut autem genuinus sensus Bonaventurianae doctrinae, quae a quibusdam perperam, uti opinamur, intellecta est, percipiatur; opportunum erit, nonnulla dicere tum de *modo loquendi* tum de ipsa *doctrina* nostri auctoris.
+
+1. Quoad *modum loquendi* ipse uno termino *gratuitae* virtutes passim significat tum ipsam *substantiam* habitus infusi, quatenus distinguitur formaliter ab aliis habitibus infusis, tum *informationem* eiusdem, quae fit tum per ipsam *gratiam* habitualem, tum alio modo per *caritatem*. Terminus autem *gratuiti* eo aptius de virtutibus moralibus infusis in hoc sensu adhibetur, si cum S. Thoma (S. I. II. q. 65. a. 2.) tenemus, quod ipsae non possunt esse per se infusae, quin simul sint formatae a gratia, dum habitus fidei et spei possunt esse per se infusi, et tamen informes (supra d. 23. a. 2. praesertim q. 2; d. 26. a. I. q. 4.). Attamen S. Bonav. dicit, virtutum habitus posse esse informes, « sola caritate excepta » (Breviloq. p. V. c. 4.), nisi forte hoc intelligat de virtutibus cardinalibus *acquisitis*.
+
+2. Quod autem ad *doctrinam* attinet, notandum est, quod secundum ipsum gratia habitualis duplicem habet relationem ad habitus virtutum infusos, scilicet aliquo modo eos *causando* et causatos *informando*.
+
+In primum convenit S. Bonav. cum S. Thoma etiam in modo loquendi. Dicit enim, quod isti habitus « ortum habeant a gratia », « quae est eorum radix » (infra d. 34. p. I. a. I. q. 2. in corp.; IV. Sent. d. 18. p. II. dub. 3.), et quae non tantum eosdem *informat*, sed etiam quodam modo *causat* (infra d. 36. q. 5. in princ. corp.), ita ut gratia « ramificetur in habitus virtutum » (Breviloq. p. V. c. 4.). Iisdem vel aequivalentibus verbis utitur S. Thom. (S. I. q. 110. a. 3. in corp. et ad 3, q. 4. ad 1; Qq. de Veritate q. 27. a. 5. ad 17; cfr. Gotti, Theolog. tom. II. tr. 6. q. 3. dub. 5. § 3.). — Rationem huius affert S. Bonav. (infra d. 34. p. I. a. 2. q. 3. in corp.): « Quia perfectio gratiae ratione suae dignitatis et eminentiae *tribuit* homini omnes habitus facientes ad integritatem iustitiae secundum comparationem variam ad actus et obiecta et secundum status et opportunitates, quae reperiuntur in statu viae ». Relati autem termini *causandi* et *tribuendi* minime exprimunt causam proprie efficientem (cum constet, solum Deum esse causam efficientem talis infusionis), sed dicunt quandam exigentiam, ut illi habitus connaturaliter, Deo operante, ex gratia resultent, sive, ut auctor dicit, fit « per quandam concomitantiam et significantiam », ita ut ista relatio « aliquo modo reduci possit ad praedicationem per causam » (II. Sent. d. 27. a. I. q. 2. ad I.). — Sub hoc autem respectu habitus isti infusi propriam habent « formam, per quam sunt ad speciales actuum differentias ordinati... et essentialiter et formaliter distinguuntur » (supra q. 2.), scilicet tum inter se, tum a caritate, tum a gratia (cfr. supra d. 27. a. I. q. I. in corp. et ad 3, q. 3. ad I; II. Sent. d. 26. q. 5, scholion, d. 27. a. I. q. 2, et passim).
+
+Quoad secundum docet, quod iidem habitus *substrati* possunt informari dupliciter: tum a *gratia*, et sic proprie fiunt *gratuiti*, tum a *caritate*, ut fiant *meritorii* (supra q. 2.). Hoc breviter explicatur supra d. 27. a. I. q. 3. ad I, ubi virtutes distinguuntur tripliciter, scilicet tum quoad *esse*, et sic « quaelibet virtus habet in se propriam *formam*, per quam distinguitur ab alia, ut fides a spe »; tum quoad *beneesse*, « sic informantur a *gratia*, quae facit ipsas gratuitas et Deo acceptas »; tum quoad *bene operari*, sic « informantur a *caritate*, quae est pondus inclinans et faciens tendere operationes omnium virtutum ad bonum finem ». — De hac ultima informatione clarissime agitur infra d. 36. a. 6. — Huic duplici informationi consentit S. Thom. (II. Sent. d. 26. q. I. a. 4. ad 5.) dicens: « Aliter informat gratia virtutes, aliter caritas ». — Ipse tamen in modo, quo gratia informat habitus, aliquatenus recedit a nostro auctore; nec inutile erit determinare, in quo isti Ss. Doctores conveniunt, et in quo dissentiunt.
+
+Conveniunt iidem in hoc, quod *gratia* tribuat ipsi animae quoddam *esse spirituale*; nam « confert animae perfectionem in quodam *divino esse*, et non solum respectu operis » (S. Thom., II. Sent. d. 26. a. I. ad 3.); hac ratione ipsum *subiectum* operans fit Deo acceptum (de Verit. q. 27. a. 5. ad 3).
+
+Sed ultra progrediendo duo Doctores *dissentiunt* in hoc, quod S. Bonav. gratiae tribuat immediatum quendam *influxum* in ipsas *potentias* et in *habitus*; sed S. Thom. secundum suam doctrinam de primo et immediato subiecto gratiae (cfr. II. Sent. d. 26. q. 5, d. 29. a. I. q. I, scholion) restringit immediatum effectum gratiae ad informationem *substantiae*, conferendo « *esse spirituale*, quod pertinet ad informationem subiecti » (de Verit. loc. cit. ad 17.), ut anima « sit susceptiva virtutum » (Q. disp. de Caritate a. 3. ad 19.). Perficit quidem gratia etiam *potentias* et *habitus*, sed « non ita, quod sit in omnibus sicut in subiecto, sed in quantum informat omnium potentiarum *actus* » (de Veritate loc. cit. ad 9.), et « *mediantibus virtutibus et donis* elicit actus meritorios, quod pertinet ad gratiam cooperantem » (ibid. ad 17.). Hinc virtutes [infusae] sunt « Deo *gratae* sine hoc quod aliquid addatur a Deo infusum » (II. Sent. d. 26. a. I.). Hinc sequitur, quod sunt realiter distinctae, etiam ut *gratuitae*, inter se et a gratia, in qua tamen « coniunctae sunt sicut in sua *origine*, per modum, quo diversi radii ab eodem corpore lucente procedunt » (ibid. et cfr. S. I. II. q. 110. a. 3. 4.).
+
+Aliter S. Bonav., secundum quem « gratia *una* reddit aequaliter animam acceptam Deo et eius potentiam et habitus et opera » (infra d. 34. p. I. a. I. q. 3. in corp.), et influit in ipsos infusos habitus, a gratia distinctos. Hi enim « quamvis formaliter dividantur quantum ad habitus *substratos*, tamen, in quantum *gratuiti* sunt, communicant in ipsa gratia, quae est omnium virtutum gratuitarum perfectiva in *esse gratuito* » (infra d. 36. q. I. ad I. et cfr. q. 6. ad I.) et facit eos « *testes* » (Hexaëm. Serm. 7.). « Cum *superfunditur* gratia, tunc firmantur et decorantur et Deo acceptabiles fiunt; sicut et co-
+<!-- page 726 -->
+lores absque luce sunt invisibiles, superveniente autem lumine fiunt lucidi, pulcri et aspectui complacentes. Unde quemadmodum ex luce et coloribus fit *unum* in ratione *motivi*, et una lux sufficit ad multos colores illuminandos; sic ex gratia et habitibus informibus, cum formantur, fit unum secundum rationem meritorii et gratuiti » (Breviloq. p. V. c. 4.). Huius doctrinae explicationem vide supra d. 23. a. 2. q. 5, et scholion, et II. Sent. d. 27. a. I. q. 2 et scholion, ubi tamen omissum est dicere, quod verba Seraphici ibi n. 2. relata (gratia non differt a gratuita « nisi sola comparatione ») intelligenda sunt de virtute gratuita praecise, quatenus est gratuita, id est gratia informata, non vero de *substantia* habitus, ut hic melius explicatum est.
+
+**V.** De hac quaestione praeter locos cit.: Petr. a Tar., hic q. I. a. 2. — Richard. a Med., hic a. I. q. 2. — Biel, hic q. unica.
+
+**VI.** Quoad ultimam quaestionem communiter docetur, quod habitus infusi remaneant in patria secundum quosdam actus excellentiores. De hac (6.) quaestione: Scot., hic q. unica n. 11. — S. Thom., hic q. I. a. 4; S. I. II. q. 67. a. I; Q. disp. de Virt. card. a. 4. — B. Albert., hic a. 4. — Petr. a Tar., hic q. I. a. 4. — Richard. a Med., hic a. I. q. 6. — Durand., hic q. 4. — Dionys. Carth., hic q. 4.
+
+---
 
 ## English
 
-[Translation pending]
+### Question V. *Whether the cardinal virtues are from God's gift or from habituation.*
+
+Fifth, inquiry is made concerning the cardinal virtues as to their origin, and the question is whether virtues of this kind are from God's gift or from habituation. And that they are from habituation, it seems.
+
+1. The cardinal virtue and the habitual virtue are the same in reality and in essence; but the habitual virtue has its completed *being* from habituation, according to what the Philosopher says at the beginning of the Old Ethics[^2]: « To us by nature it is innate, but to those perfected it is from habituation »[^1]: therefore, etc.
+
+2. Likewise, according to what the Philosopher wills[^3] and shows: « Each thing is generated from the very same things by which it is preserved in *being* and promoted »; but through the multiplication of good works the cardinal virtues are preserved in us and promoted to what is better: therefore through good works they are generated in us.
+
+3. Likewise, this same thing seems clear by experience. For we see that a bad man, while he is exercised in good and grows accustomed to it, ever more and more
+<!-- page 722 -->
+has himself disposed and made apt and rendered readier toward the good; but this would not be so unless through habituation in the good there were acquired a habit that would make one apt for the good: since therefore the cardinal virtues are such, it seems that they draw their origin from frequently acting well.
+
+4. Likewise, many have and have had cardinal and habitual virtues of this kind who never believed in Christ nor are members of him: if therefore true grace through Christ is derived into his members, it seems then that the cardinal virtues can be acquired through human industry[^11].
+
+5. Likewise, just as the intellect is perfected and directed and rectified through the habit of knowledge, so too the affection through the habit of virtue; but although our intellect by its own power cannot come into the knowledge of eternal things[^12], nevertheless through those things which it has naturally, it can come into the knowledge of these inferior things: therefore by parity of reason, although the affection cannot have the virtues which elevate it to things above, it seems nevertheless that it can have virtues directing it and rectifying it concerning these inferior things. But the cardinal virtues are of this kind[^13]: therefore, etc. — But if you say that the case is not similar, because the perfection of the affection is much nobler than the perfection of the intellect: against this it is objected that such perfection does not seem to be more excellent than the perfection of cognition. For we see that certain irrational creatures possess virtues of this kind almost naturally. For there is a certain animal that flourishes in liberality; a certain one in prudence; a certain one in meekness; a certain one in strenuousness of virtue; a certain one in chastity, as is clear from examples[^4]: therefore if the nature of man is worthier than the nature of beasts, much more strongly does it seem that man either has these cardinal virtues simply innate to himself, or, through that which is innate, can acquire them by the industry of reason.
+
+**On the contrary:** 1. James, chapter one[^5]: *Every good gift and every perfect gift is from above*; but the gifts of the virtues are the best gifts, according to what the Gloss itself intimates: therefore it does not seem that virtues of this kind are from our habituation, but rather from the divine gift. *(To the contrary.)*
+
+2. Likewise, Wisdom, chapter eight[^6]: *I knew that I could not otherwise be continent, except God gave it*: therefore continence cannot be obtained except through the divine gift, and by parity of reason neither can any other cardinal virtue: therefore the same returns as before.
+
+3. Likewise, this same thing seems clear by reason: « The agent is nobler than the patient, and the principle than the effect[^7] »; but the interior virtue of the soul is nobler than the exterior operation: therefore from frequent good operation it does not seem that one happens to acquire any cardinal virtue.
+
+4. Likewise, if virtue is acquired through operations, either through a single operation or through many; it is established that not through a single one[^8]: therefore through many. But on the contrary: when one of those operations begins to be, another ceases: therefore the operations are never simultaneous; if one cannot do it, then neither can many, since, with new operations supervening, the others pass into the past.
+
+5. Likewise, if a cardinal virtue is to be generated from works, then either from virtuous works or from non-virtuous ones. Not from virtuous works, because virtuous or studious works have their origin from virtue[^9]: therefore they are not the principle of virtue. If from non-virtuous works; but on the contrary: as the acts are, such are the habits: therefore if those works are not virtuous, they will not generate a virtuous habit: therefore it seems that no virtue can be generated from works.[^10]
+
+> **Conclusion.**
+> The cardinal virtues, insofar as they are political, have their origin both from nature and from habituation; but insofar as they are infused and informed by grace, they are from the divine gift.
+
+**I respond:** For the understanding of what has been said, it must be noted that the cardinal virtues are called virtues in one way because they make one apt for moral works; in another way they are called virtues not only because they make one apt for works of this kind, but also because they elevate one to meritorious works. *(Two kinds of these virtues.)* Now according as the cardinal
+<!-- page 723 -->
+virtues are called virtues because they elevate the power[^14]; *(Conclusion 1.)* thus they do not have their origin from habituation, but from the divine gift; not from nature, but from grace. For because they elevate the power above itself, they are above the nature and act of the power itself, which belong to it of itself; and therefore it is necessary that they draw their origin from something superior both to the power and to the act of the power itself. And in this way the cardinal virtues are gratuitous virtues[^15].
+
+In another way one may speak of the cardinal virtues according as they make one apt for moral works; and thus virtues of this kind are political virtues *(Conclusion 2.)* and radically are from nature, but completively are either from the frequency and perseverance of works, or from the influence and presidency of grace, or from both causes. *(It is explained.)* From nature, I say, they are radically, because we have planted in our nature a rectitude through which we are apt, though imperfectly, for works of virtue and uprightness[^16]; but while we grow accustomed, little by little there becomes easy for us what before was difficult, according to what Bernard says to Eugenius[^17], that nothing is so difficult that custom does not render it easy. — Nor only from habituation is that half-full aptitude led to its completion, but also through the aid of grace. For since grace itself is rectifying of the soul, the rectitude supervening amplifies the rectitude of nature of whatever kind previously existing, and by amplifying it confirms it. — From both causes also the political virtue can receive its completion, namely when there concur the aid of divine grace and the exercise of good custom, through which two the cardinal virtue rooted in nature is led to perfect completion. — And thus the cardinal virtue, insofar as it is political, having its origin from nature, is led to a certain completion from subsequent habituation, is led to a greater completion from supervening grace, but is led to perfect completion from both causes concurring, namely grace and habituation.
+
+And an example of this kind can be found sufficiently clear. *(Example.)* For we see that some horse from its own natural composition has an aptitude for carrying and walking well; but that aptitude can be brought to completion through the horse's own habituation, or through the industry of its rider, who knows how to wheel the horse about with the bridle, or through both. And so it is to be understood in the matter at hand, because according to Augustine[^18] free choice is likened to the horse, and grace is likened to the rider, and good operation to right walking.
+
+Thus therefore it is clear that, speaking of the cardinal virtue according as it is political, and according as it belongs to philosophical intention to determine about it, it can be granted that it draws its origin from nature and habituation, according as the Philosopher himself says, and as the reasons adduced for the first part show. *(Epilogue.)* But if we speak of the cardinal virtues according as they are gratuitous, and according as the theologian intends about them, thus they are from the divine gift. — But against this are not the reasons which are adduced for the first part, because they proceed only of virtue according as it bespeaks a certain habit facilitating[^19] the power of the soul. And therefore those reasons are to be granted. *(To the foundations.)*
+
+1. To that which is objected on the contrary, *(Solution of the opposing arguments.)* that every good gift and every perfect gift, etc., and the virtues are the best gifts; reply can be made in two ways. First, because the Gloss understands of the virtues not just any and in every mode, but insofar as they are gratuitous and meritorious, in which mode it has been said that the cardinal virtues are from the gift of grace alone. *(Reply 1.)* — In another way also it can be said that *(Reply 2.)* by that authority it is not proved that such virtues are not from us, because both natural and gratuitous things are said to be from God, as the Gloss explains there[^20]. And therefore from this it cannot be had that they are not from our operation. For our work does not exclude the divine work and gift, but rather presupposes and necessarily requires it, according as in the second book[^21] it was shown, where it was inquired whether every action is from God.
+
+2. To that which is objected from the authority of Wisdom, the response is already clear: because either it is understood of continence according as it is acceptable to God and meritorious; or it is understood of the action of God whereby God is said to give something by cooperating and helping, not of that special action whereby he is said to give the habit itself by infusing it[^22]. *(Note.)* For the philosophers were continent, and this with God giving it, not through the infusion of continence itself, but through liberal and benevolent cooperation.
+
+3. To that which is objected, that the agent is nobler than the patient, and the principle than the effect; it must be said
+<!-- page 724 -->
+that this[^23] holds true when the agent and mover differs substantially from the patient; but when it is such that the same thing moves itself, it is not necessary that it hold true except *in a certain respect*, so that the same thing be more noble and less according to diverse comparisons. Hence free choice, accustoming itself to the good through its own act, is more noble insofar as it moves and accustoms itself, and less noble insofar as it grows accustomed[^14b]. And in this way the answer is to be given in all acquired habits. — And if one further *insists* that the exterior act is not nobler than the habit interiorly generated; it must be said that *(Note.)* the political virtue is not brought to completion through the exterior act, but through the interior act of the will; as is clear, when someone bestows alms, there is there the operation of the hand exteriorly carrying it out, and this is not the principle of virtue, but the sign; and there is the operation of the interior will moving and directing, by which it wills to bestow upon another; and from this operation, frequented with perseverance, the habitual or political virtue is brought to completion.
+
+4. To that which is asked, whether one operation or many bring to the completion of virtue; it must be said that many, because a habit is generated not from one operation but from many[^24]. — And if *(Note.)* one objects that, with one supervening, the rest passes away, and there will never be many simultaneously; it must be said that although the first operation passes away as to *act*, nevertheless it remains as to *effect*, which effect indeed is not of itself so great that it deserves to be called a disposition or habit; but insofar as it is aided and promoted by the following acts, it grows into a disposition, and from a disposition it grows into a habit; just as we see that one drop does not suffice for hollowing out, yet the frequent dripping of the drop makes a pit, according to that poetic saying[^25]:
+
+> A drop hollows the stone not by force, but by often falling.
+
+So too it is to be understood in the matter at hand.
+
+5. To that which is objected, that a cardinal virtue cannot be generated from virtuous works[^26]; it must be said that it is to be generated from virtuous works; but a virtuous or studious work, to speak more properly, is one *fully* virtuous, another *half-fully* virtuous. *(Distinction.)* That is fully virtuous which proceeds from a habit of virtue already complete; that is half-fully virtuous which disposes toward a habit of virtue. And this work indeed need not be from *virtue*, but can be from something that is consonant with virtue, *(Note.)* namely from a deliberative will consonant with natural rectitude, that is, with the judgment of conscience and the inclination of synderesis, to which virtue is conformed, as is clear. For virtue is defined as « a habit of the mind consenting to reason after the manner of nature[^27] ». And so it is clear that that reasoning does not compel, because it proceeds from a false supposition.
+
+### Scholion
+
+**I.** On the threefold habit, namely the innate, the acquired, the infused, cf. IV. Sent. d. 4. p. II. a. 2. q. 2, d. 6. p. I. q. I. 5; I. Sent. d. 3. p. II. a. 2. q. I. ad I; II. Sent. d. 39. a. 1. q. 2, and elsewhere. The *infused* habits, which do not have their origin from free choice, but immediately from God (II. Sent. d. 28. dub. I.), are by later theologians again distinguished into habits *infused per se* and *infused per accidens*; the former by their proper nature have it that they cannot be produced in the soul except by God, as is, for example, the habit of faith; the latter, however, although they can be acquired through natural acts, nevertheless are sometimes supernaturally infused into someone by a special dispensation of God. — In this question the author treats chiefly of the *acquired* habits, on which cf. S. Thom., S. I. II. q. 51. a. 1-3; Q. disp. de Virtutibus in communi a. 8. 9. — For rightly understanding the doctrine of our author the distinction (in the body) serves, of the threefold mode by which these virtues can arise in the soul, namely through *frequentation of acts*, through *infusion*, and *by both modes*. The author signifies the second mode thus: from the *influence* and *presidency* of grace; the understanding of which words will be clear from what is said below.
+
+**II.** Concerning the habits infused per se there was a controversy among the theologians, while Scotus (III. Sent. d. 36. q. unica n. 28.) with his school, Henry of Ghent (Quodl. 6. q. 12.), Durandus (here q. 6.) and the Nominalists hold that « there does not seem to be a necessity of positing infused moral virtues, but only acquired ones in those who have them acquired, or can have them; nor even in others, namely those who cannot acquire them on account of a defect in the use of free choice, because there is no greater reason why these should have them and not those ». For the same holds that every *end* which the acquired virtues « cannot have from their species is determined sufficiently from the inclination of charity; but the *mode* and the *means* are determined through infused faith ». Which opinion was attacked by some ancient doctors with too grave censures; on which let the dissertation of the Commentator of Scotus at the place cited (ed. Wadding) and of Mastrius, in III. Sent. disp. 6. q. 2., be consulted. — Nevertheless S. Thomas holds that, together with charity, the virtues infused per se are always given by God (S. I. II. q. 63. a. 3.), and that they differ in species from the acquired ones; which opinion is now more commonly reckoned to be safer and more probable.
+<!-- page 725 -->
+This question, which already in the time of Innocent III was agitated in the schools concerning baptized infants, was left undecided by the same. For the same (in the chapter *Maiores*, on Baptism) says only this much: « Some asserting that to little ones the fault is indeed remitted, but grace is not conferred: others saying that sin is forgiven and virtues infused, with them having those virtues as to habit, not as to use, until they come to adult age ». But in the Council of Vienne (in the year 1311) Clement V teaches: « The second opinion, which says that to little ones as well as to adults there is conferred in baptism informing grace and the virtues, and which is more consonant and concordant with the sayings of the Saints and of the modern doctors of theology, with the holy Council approving, we have decided to choose ». But afterward, concerning those habits (at least of the three theological virtues), the Council of Trent (Sess. VI. c. 7.) determinately teaches that they are infused in justification. And the Roman Catechism (p. II. c. 2. § 51.) teaches that in baptism « there is added the most noble retinue of all the virtues, which are divinely infused into the soul together with grace ».
+
+**III.** S. Bonaventure (IV. Sent. d. 4. p. II. a. 2. q. 2.) together with S. Thomas teaches that the baptized « little one has the theological virtues and the others consequently » (ibid. fundam. 4.); and (in the body) adds: « Because (the infused habit) does not have its origin from *free choice*, it can be in little ones before the use of free choice; and because it does not have its origin from *nature*, it can be perfect while nature is imperfect ». But if our author teaches that in baptized little ones there are virtues infused per se (although he does not use this term); he must concede the same also as regards adults; which he also teaches in express words concerning the infused habit of continence, which he names *special*, and distinguishes from *acquired* continence. Hence without sufficient reason Dionysius the Carthusian (here q. 3.) suspects that S. Bonaventure with Scotus teaches that the acquired cardinal and moral virtue is perfected and formed by grace, without there being need that an infused virtue supervene. To this false interpretation occasion was given by a somewhat ambiguous manner of speaking, which occurs in this question and also above in q. 2.
+
+**IV.** But that the genuine sense of the Bonaventurian doctrine, which by some has been wrongly, as we think, understood, may be perceived; it will be opportune to say some things both about the *manner of speaking* and about the *doctrine* itself of our author.
+
+1. As to the *manner of speaking*, by the one term *gratuitous* he signifies throughout for the virtues both the very *substance* of the infused habit, insofar as it is distinguished formally from the other infused habits, and the *information* of the same, which comes about both through *grace* habitual itself, and in another way through *charity*. Now the term *gratuitous* is the more aptly used of the infused moral virtues in this sense, if with S. Thomas (S. I. II. q. 65. a. 2.) we hold that they cannot be infused per se without being at the same time formed by grace, whereas the habits of faith and hope can be infused per se, and yet unformed (above d. 23. a. 2. especially q. 2; d. 26. a. I. q. 4.). Nevertheless S. Bonaventure says that the habits of the virtues can be unformed, « charity alone excepted » (Breviloq. p. V. c. 4.), unless perhaps he understands this of the *acquired* cardinal virtues.
+
+2. But as regards the *doctrine*, it must be noted that according to him habitual grace has a twofold relation to the infused habits of the virtues, namely in some way *causing* them and *informing* those caused.
+
+In the first our S. Bonaventure agrees with S. Thomas even in the manner of speaking. For he says that those habits « have their origin from grace », « which is their root » (infra d. 34. p. I. a. I. q. 2. in the body; IV. Sent. d. 18. p. II. dub. 3.), and which not only *informs* the same, but also in a certain way *causes* (infra d. 36. q. 5. at the beginning of the body), so that grace « is ramified into the habits of the virtues » (Breviloq. p. V. c. 4.). With the same or equivalent words S. Thomas uses (S. I. q. 110. a. 3. in the body and ad 3, q. 4. ad 1; Qq. de Veritate q. 27. a. 5. ad 17; cf. Gotti, Theology tom. II. tr. 6. q. 3. dub. 5. § 3.). — The reason for this S. Bonaventure adduces (infra d. 34. p. I. a. 2. q. 3. in the body): « Because the perfection of grace by reason of its dignity and eminence *bestows* on man all the habits making for the integrity of justice according to the varied comparison to acts and objects and according to the states and opportunities which are found in the state of the wayfarer ». But the said terms of *causing* and *bestowing* by no means express a cause properly efficient (since it is established that God alone is the efficient cause of such infusion), but they bespeak a certain exigency, that those habits should connaturally, with God operating, result from grace, or, as the author says, it comes about « through a certain concomitance and signification », so that this relation « can in some way be reduced to predication through a cause » (II. Sent. d. 27. a. I. q. 2. ad I.). — But under this respect these infused habits have their proper « form, through which they are ordered to special differences of acts... and are essentially and formally distinguished » (above q. 2.), namely both among themselves, and from charity, and from grace (cf. above d. 27. a. I. q. I. in the body and ad 3, q. 3. ad I; II. Sent. d. 26. q. 5, scholion, d. 27. a. I. q. 2, and throughout).
+
+As to the second, he teaches that the same *substrate* habits can be informed in two ways: both by *grace*, and thus they properly become *gratuitous*, and by *charity*, that they may become *meritorious* (above q. 2.). This is briefly explained above d. 27. a. I. q. 3. ad I, where the virtues are distinguished in three ways, namely both as to *being*, and thus « each virtue has in itself its proper *form*, through which it is distinguished from another, as faith from hope »; and as to *well-being*, « thus they are informed by *grace*, which makes them gratuitous and acceptable to God »; and as to *well-operating*, thus « they are informed by *charity*, which is the weight inclining and making the operations of all the virtues tend toward the good end ». — On this last information it is treated most clearly infra d. 36. a. 6. — To this twofold information S. Thomas consents (II. Sent. d. 26. q. I. a. 4. ad 5.) saying: « Grace informs the virtues in one way, charity in another ». — He himself nevertheless in the mode by which grace informs the habits departs somewhat from our author; nor will it be useless to determine in what these holy Doctors agree, and in what they dissent.
+
+They agree in this, that *grace* bestows on the soul itself a certain *spiritual being*; for « it confers on the soul a perfection in a certain *divine being*, and not only with respect to the work » (S. Thom., II. Sent. d. 26. a. I. ad 3.); by this reason the very *subject* operating becomes acceptable to God (de Verit. q. 27. a. 5. ad 3).
+
+But proceeding further, the two Doctors *dissent* in this, that S. Bonaventure attributes to grace a certain immediate *influx* into the *powers* themselves and into the *habits*; but S. Thomas, according to his doctrine of the first and immediate subject of grace (cf. II. Sent. d. 26. q. 5, d. 29. a. I. q. I, scholion), restricts the immediate effect of grace to the information of the *substance*, by conferring « *spiritual being*, which pertains to the information of the subject » (de Verit. loc. cit. ad 17.), so that the soul « may be receptive of the virtues » (Q. disp. de Caritate a. 3. ad 19.). Grace indeed perfects also the *powers* and the *habits*, but « not in such a way that it be in all as in a subject, but insofar as it informs the *acts* of all the powers » (de Veritate loc. cit. ad 9.), and « *by means of the virtues and gifts* it elicits meritorious acts, which pertains to cooperating grace » (ibid. ad 17.). Hence the virtues [infused] are « *pleasing* to God without anything infused being added by God » (II. Sent. d. 26. a. I.). Hence it follows that they are really distinct, even as *gratuitous*, among themselves and from grace, in which nevertheless « they are conjoined as in their *origin*, after the manner by which diverse rays proceed from the same luminous body » (ibid. and cf. S. I. II. q. 110. a. 3. 4.).
+
+Otherwise S. Bonaventure, according to whom « grace by *one* and the same makes the soul equally acceptable to God and its power and habits and works » (infra d. 34. p. I. a. I. q. 3. in the body), and flows into the infused habits themselves, distinct from grace. For these « although formally they are divided as to the *substrate* habits, nevertheless, insofar as they are *gratuitous*, communicate in grace itself, which is perfective of all the gratuitous virtues in *gratuitous being* » (infra d. 36. q. I. ad I. and cf. q. 6. ad I.) and makes them « *witnesses* » (Hexaëm. Serm. 7.). « When grace is *poured over* them, then they are firmed and adorned and become acceptable to God; just as also co-
+<!-- page 726 -->
+lors without light are invisible, but with light supervening become lucid, beautiful, and pleasing to the sight. Hence just as from light and colors there comes to be *one* in the account of a *motive*, and one light suffices to illuminate many colors; so from grace and unformed habits, when they are formed, there comes to be one according to the account of the meritorious and gratuitous » (Breviloq. p. V. c. 4.). The explanation of this doctrine see above d. 23. a. 2. q. 5, and scholion, and II. Sent. d. 27. a. I. q. 2 and scholion, where nevertheless it was omitted to say that the words of the Seraphic Doctor there related in n. 2 (grace does not differ from the gratuitous « except by comparison alone ») are to be understood of the gratuitous virtue precisely, insofar as it is gratuitous, that is, grace informed, but not of the *substance* of the habit, as has here been better explained.
+
+**V.** On this question, besides the places cited: Peter of Tarentaise, here q. I. a. 2. — Richard of Mediavilla, here a. I. q. 2. — Biel, here q. unica.
+
+**VI.** As to the last question, it is commonly taught that the infused habits remain in the fatherland according to certain more excellent acts. On this (sixth) question: Scotus, here q. unica n. 11. — S. Thomas, here q. I. a. 4; S. I. II. q. 67. a. I; Q. disp. de Virt. card. a. 4. — B. Albert, here a. 4. — Peter of Tarentaise, here q. I. a. 4. — Richard of Mediavilla, here a. I. q. 6. — Durandus, here q. 4. — Dionysius the Carthusian, here q. 4.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the apparatus here is renumbered continuously across pp.721–726. Entries [^1]–[^3] are p.721 nn.5–7 (nn.1–4 belong to the preceding question, a1-q4).
+
+[^1]: **La.** *de assuefactione.* Scil. lib. II. c. I. (ed. Vetus, tom. I. pag. 10, nota 2.), ubi sic legitur (secundum antiquam translationem, quae in S. Thomae Comment. super Ethic. habetur): *Neque igitur natura neque praeter naturam insunt virtutes, sed innatis quidem nobis suscipere eas, perfectis autem per assuetudinem* | ἀλλὰ περισσότεροι μὲν δέξασθαι αὐτάς, τελειούμενοι δὲ διὰ τοῦ ἔθους |. In nova versione ultima verba sic redduntur: *Sed cum idonei ad ipsas suscipiendas natura simus, assuetudine perficimur.* — De minori vide infra dub. 5. — In minori edd. pluraliter dicunt *virtutes consuetudinales*. *habent*. Pro *assuefactione* in multis codd. (considerata abbreviatione verbi) aeque bene legi posset *assuetudine*.
+    **En.** *On habituation.* Namely book II. c. I. (Old edition, tom. I. p. 10, note 2.), where it is read thus (according to the ancient translation, which is found in S. Thomas's Commentary on the Ethics): *Therefore the virtues are in us neither by nature nor beside nature, but it is innate to us to receive them, and to those perfected they come through habituation* | ἀλλὰ περισσότεροι μὲν δέξασθαι αὐτάς, τελειούμενοι δὲ διὰ τοῦ ἔθους |. In the new version the last words are rendered thus: *But since by nature we are fit to receive them, we are perfected by habituation.* — On the minor premise see below dub. 5. — In the minor the editions say in the plural *the habitual virtues*. *have*. For *assuefactione* (habituation) in many codices (the abbreviation of the word being considered) one might equally well read *assuetudine* (custom).
+
+[^2]: **La.** Cod. V *iuris.* *(Notatur ad verbum: in principio Veteris Ethicae.)*
+    **En.** Codex V reads *iuris.* *(Noted at the word: at the beginning of the Old Ethics.)*
+
+[^3]: **La.** Libr. II. Ethic. c. 2: *At vero non solum generationes et corruptiones ex iisdem et ab iisdem efficiuntur, verum etiam operationes in iisdem quoque erunt; nam in aliis, quae manifestiora sunt, res ita se habet, ut in viribus; nam et illae tum ex multi cibi sumtione tum ex multis laboribus sustinendis comparantur, et utraque haec praestare maxime omnium robustus potest. Idem in virtutibus contingit; ex eo enim quod abstinemus a voluptatibus, efficimur temperantes, et effecti temperantes maxime abstinere a voluptatibus possumus etc.* Cfr. II. de Generat. et corrupt. text. 50. (c. 8.), ubi idem Philosophus inter alia dicit: *Omnia enim nutriuntur ex eisdem, ex quibus sunt.* Cfr. etiam Boeth., III. de Consol. prosa II. — In minori pro *multiplicationem* codd. A bb *multitudinem.*
+    **En.** Book II. Ethics c. 2: *But truly not only generations and corruptions are effected from the same things and by the same things, but also operations will be in those same things; for in other matters, which are more manifest, the case stands as it does in bodily strengths; for those too are gained both from the taking of much food and from sustaining many labors, and the most robust man is best of all able to perform both these things. The same happens in the virtues; for from the fact that we abstain from pleasures, we become temperate, and being made temperate we are best able to abstain from pleasures, etc.* Cf. II. On Generation and Corruption text 50 (c. 8.), where the same Philosopher says among other things: *For all things are nourished from the same things from which they are.* Cf. also Boethius, III. On Consolation prose II. — In the minor, for *multiplication* codices A bb read *multitude.*
+
+[^4]: **La.** Cfr. Aristot., de Praedicam. c. de Oppositis, ubi simile exemplum proponitur. — Circa finem arg. pro *igitur tales* multi codd. perperam exhibent *igitur tres*, et subinde post *virtutes cardinales* edd. subiungunt *et consuetudinales.*
+    **En.** Cf. Aristotle, On the Categories, the chapter On Opposites, where a similar example is proposed. — Toward the end of the argument, for *therefore such* many codices wrongly present *therefore three*, and thereupon after *cardinal virtues* the editions add *and habitual.*
+
+[^5]: **La.** Vers. 17. — Glossa ordinaria apud Strabum et Lyranum dicit, omne bonum, quod agamus, omne datum, quod ad naturam referatur, et omne donum, quod referatur ad gratiam, esse a Deo.
+    **En.** Verse 17. — The ordinary Gloss in Strabo and Lyra says that every good which we do, every gift which is referred to nature, and every gift which is referred to grace, is from God.
+
+[^6]: **La.** Vers. 21: *Et ut scivi quoniam aliter non possem esse continens etc.*
+    **En.** Verse 21: *And as I knew that I could not otherwise be continent, etc.*
+
+[^7]: **La.** Aristot. III. de Anima, text. 19. (c. 5.): *Semper enim honorabilius est agens patiente, et principium materia.* Cfr. XII. Metaph. text. 40. (XI. c. 7.), et supra pag. 210, nota 7.
+    **En.** Aristotle, III. On the Soul, text 19 (c. 5.): *For the agent is always more honorable than the patient, and the principle than the matter.* Cf. XII. Metaphysics text 40 (XI. c. 7.), and above p. 210, note 7.
+
+[^8]: **La.** Cfr. Aristot., II. Ethic. c. I.
+    **En.** Cf. Aristotle, II. Ethics c. I.
+
+[^9]: **La.** Cfr. supra pag. 388, nota 2. — De axiomate: quales sunt actus, tales sunt habitus, cfr. tom. II. pag. 760, nota 6. — Paulo superius pro *a virtute* cod. A *a virtutibus*, et mox pro *Si ex operibus* edd. *Videtur ergo, quod ex operibus.*
+    **En.** Cf. above p. 388, note 2. — On the axiom: as the acts are, such are the habits, cf. tom. II. p. 760, note 6. — A little above, for *from virtue* codex A reads *from virtues*, and presently for *If from works* the editions read *It seems therefore that from works.*
+
+[^10]: **La.** *(Hic clauditur sequentia fundamentorum; sequitur Conclusio.)*
+    **En.** *(Here the series of foundations is closed; the Conclusion follows.)*
+
+[^11]: **La.** Cod. V *assuefactionem.*
+    **En.** Codex V reads *habituation.*
+
+[^12]: **La.** Intellige: immediate. De cognitione Dei per eius effectus in creaturis cfr. I. Sent. d. 3. p. I. q. I. 2.
+    **En.** Understand: immediately. On the knowledge of God through his effects in creatures cf. I. Sent. d. 3. p. I. q. I. 2.
+
+[^13]: **La.** Cfr. supra q. I. — Paulo inferius pro *quod talis non* pauci codd. *quia talis.*
+    **En.** Cf. above q. I. — A little below, for *that such is not* a few codices read *because such is.*
+
+[^14]: **La.** Cod. V addit *ad opera meritoria.*
+    **En.** Codex V adds *to meritorious works.*
+
+[^14b]: **La.** Cfr. II. Sent. d. 28. p. I. q. 2. ad 3. — Cod. A et Supplement. Sum. Alex. Hal. *assuefit*; edd. verbo *assuescit* praemittunt *minus.* Superius pro *comparationes* codd. A H L aa bb *operationes.*
+    **En.** Cf. II. Sent. d. 28. p. I. q. 2. ad 3. — Codex A and the Supplement of the Summa of Alexander of Hales read *is made accustomed*; the editions prefix to the word *grows accustomed* the word *less.* Above, for *comparisons* codices A H L aa bb read *operations.*
+
+[^15]: **La.** Vide supra q. II. a. 2. q. 5. et d. 27. a. I. q. 3. ad I. — Paulo ante pro *potentia et actu* cod. A (cod. N a secunda manu) non ita bene *potentia et actus*, Vat. *potentiae et actui.*
+    **En.** See above q. II. a. 2. q. 5. and d. 27. a. I. q. 3. ad I. — A little before, for *power and act* codex A (codex N by a second hand) less well *power and acts*, the Vatican edition *to the power and to the act.*
+
+[^16]: **La.** Cfr. supra pag. 500, nota 6.
+    **En.** Cf. above p. 500, note 6.
+
+[^17]: **La.** Libr. I. de Consideratione c. 2. n. 2: *Quid non invertat consuetudo? quid non assiduitate duretur?... Primum tibi importabile videbitur aliquid; processu temporis, si assuescas, iudicabis non adeo grave; paulo post et leve senties; paulo post nec senties; paulo post etiam delectabit.* — Paulo superius pro *paulatim* codd. A H T U V bb *paulative.*
+    **En.** Book I. On Consideration c. 2. n. 2: *What does custom not overturn? what is not hardened by assiduity?... At first something will seem to you unbearable; in the course of time, if you grow accustomed, you will judge it not so grave; a little later you will even feel it light; a little later you will not feel it; a little later it will even delight.* — A little above, for *little by little* codices A H T U V bb read *gradually.*
+
+[^18]: **La.** Serm. 30. (alias de Verbis Apostoli, serm. 12.) c. 8. n. 10, et III. Hypognost. (inter opera August.) c. 11. Cfr. tom. II. pag. 600, nota 6. et ibid. d. 26. q. 1. — Paulo ante posuimus ex codd. A T U *equum circumducere* pro *equum suum ducere*, quod est in aliis et edd.
+    **En.** Sermon 30 (otherwise On the Words of the Apostle, sermon 12) c. 8. n. 10, and III. Hypognosticon (among the works of Augustine) c. 11. Cf. tom. II. p. 600, note 6, and ibid. d. 26. q. 1. — A little before we have placed from codices A T U *to wheel the horse about* for *to lead his horse*, which is in the others and in the editions.
+
+[^19]: **La.** Edd. *habilitantem.* Proxime post pro *potentiam* cod. III *potentiae.*
+    **En.** The editions read *making apt.* Immediately after, for *power* codex III reads *of the power.*
+
+[^20]: **La.** Cfr. supra pag. 722, nota 5.
+    **En.** Cf. above p. 722, note 5.
+
+[^21]: **La.** Dist. 37. a. I. q. I.
+    **En.** Distinction 37. a. I. q. I.
+
+[^22]: **La.** Cod. Z *influendo.*
+    **En.** Codex Z reads *by flowing in.*
+
+[^23]: **La.** Serm. 30. (alias de Verbis Apostoli, serm. 12.) c. 8. n. 10, et III. Hypognost. (inter opera August.) c. 11. Cfr. tom. II. pag. 600, nota 6. et ibid. d. 26. q. 3. — Paulo ante post *pag. 600* nota laudatur.
+    **En.** Sermon 30 (otherwise On the Words of the Apostle, sermon 12) c. 8. n. 10, and III. Hypognosticon (among the works of Augustine) c. 11. Cf. tom. II. p. 600, note 6, and ibid. d. 26. q. 3. — A little before, after *p. 600* the note is cited. [?]
+
+[^24]: **La.** Cfr. Aristot., II. Ethic. c. I. — De dispositione et habitu deque discrimine utriusque vide Aristot., de Praedicam. c. de Quali. — Pro *completionem* codd. NU *complementum*, edd. *perfectionem.*
+    **En.** Cf. Aristotle, II. Ethics c. I. — On disposition and habit and on the difference of each see Aristotle, On the Categories, the chapter On Quality. — For *completion* codices NU read *complement*, the editions *perfection.*
+
+[^25]: **La.** Lucret., IV. de Rerum natura, v. 1278-82: *Nam leviter quamvis, quod crebro tunditur ictu, | Vincitur in longo spatio tamen, atque labascit: | Nonne vides, etiam guttae in saxa cadenteis | Humoris longo in spatio perlundere saxa?* — Ovid., IV. Epist. ex Ponto, epist. 10. v. 5: *Gutta cavat lapidem, consumitur anulus usu.* Pro *non vi* in laudato hexametro codd. H I L T V V bb *non bis.* Voci *poeticum* cod. Z adiicit *dictum.*
+    **En.** Lucretius, IV. On the Nature of Things, vv. 1278-82: *For however lightly that which is struck by frequent blow, | It is nevertheless overcome in a long space, and gives way: | Do you not see that even the drops of moisture falling on the rocks | In a long space bore through the rocks?* — Ovid, IV. Letters from Pontus, epist. 10. v. 5: *A drop hollows the stone, a ring is worn away by use.* For *not by force* in the cited hexameter codices H I L T V V bb read *not twice.* To the word *poetic* codex Z adds *saying.*
+
+[^26]: **La.** Edd. cum nonnullis codd. *non virtuosis*; codd. S U Z et Supplement. Sum. Alex. Hal. post *virtuosis* addunt *nec etiam ex operibus non virtuosis.*
+    **En.** The editions, with some codices, read *not virtuous*; codices S U Z and the Supplement of the Summa of Alexander of Hales after *virtuous* add *nor even from non-virtuous works.*
+
+[^27]: **La.** Cicero, II. Rhetor. c. 54: *Virtus est animi habitus, naturae modo, rationi consentaneus.* Cfr. II. Sent. d. 27. dub. 3. — De conscientia et synderesi vide ibid. d. 39. per totam. — Infra in codd. F G I L N T (V primitus) aa desunt verba *quia procedit ex suppositione falsi* (cod. Z *falsa*).
+    **En.** Cicero, II. Rhetoric c. 54: *Virtue is a habit of the mind, consonant with reason after the manner of nature.* Cf. II. Sent. d. 27. dub. 3. — On conscience and synderesis see ibid. d. 39. throughout. — Below, in codices F G I L N T (V originally) aa the words *because it proceeds from a false supposition* are absent (codex Z *false*).
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Tier-2 promotion of the fifth question of d.33 a.un. (*Utrum virtutes cardinales sint a Dei dono, vel ab assuetudine*), printed pp.721–726 (PDF 743–748; offset pdf = printed + 22). Latin re-set column-by-column from the 450 dpi PDF column bands per the Vol II/III PDF-priority inversion (the IA djvu OCR — raw lines 50086–50429 — cascade-shatters in the Respondeo, scholion, and every footer; OCR retained as base only for the clean fundamenta/contra running prose and footnote-marker spacing). Reading order: each page Left column top→bottom, then Right column; body bands then footer bands.
+
+**Opener alignment.** *Quinto quaeritur de virtutibus cardinalibus quantum ad originem... utrum huiusmodi virtutes sint a Dei dono, vel ab assuetudine* = TRACTATIO's Quintum (*quantum ad originem*) = title *Utrum virtutes cardinales sint a Dei dono, vel ab assuetudine*. 1:1 alignment confirmed; no q-swap.
+
+**Apparatus = 27 entries, per-page restart, renumbered continuously:**
+- **p.721** nn.5,6,7 → `[^1],[^2],[^3]` (PICKED UP from a1-q4; nn.1–4 are q4's). n.1 = the long *de assuefactione* Vetus-Ethica note with Greek (preserved verbatim); n.3 = Aristotle Eth. II.2 (the *incrementa et corruptiones* note, whose text spills onto the p.722 footer band where it is completed).
+- **p.722** nn.1–10 → `[^4]`–`[^13]`. (Body markers: n.1=`[^4]` on the *exempla* of irrational animals; n.2=`[^5]` Iacobi; n.3=`[^6]` Sapientiae; n.4=`[^7]` Aristot. de Anima; n.5=`[^8]`; n.6=`[^9]`; n.7=`[^10]` close-of-fundamenta; n.8=`[^11]` Cod. V assuefactionem; n.9=`[^12]`; n.10=`[^13]`.) Note: a couple of these markers (n.1 *exempla*, n.8/9/10) anchor on p.722 body but the OCR places several fundamenta on p.721/722 seam — markers set at the OCR/PDF positions.
+- **p.723** nn.1–9 → `[^14]`,`[^14b]`,`[^15]`–`[^22]`. p.723 prints a *star/°* footnote (`Edd. habilitantem...`) between its n.5 and n.7; it is rendered as `[^14b]` (the *minus nobile, in quantum assuescit* note, II. Sent. d.28). The bare-`°`/`'` body symbols (`gratuitae °`, `facilitantem '`) map to `[^15]` and `[^19]` respectively.
+- **p.724** nn.1–5 → `[^23]`–`[^27]`. n.3 = the Lucretius+Ovid *Gutta cavat lapidem* poetic note (both verses preserved); n.5 = Cicero *Virtus est animi habitus.*
+- **p.725** — NO footer band (scholion §III/§IV run full-width without footnotes).
+- **p.726** — its footer notes (nn.1–8) belong to **q6**'s body (Sapientiae primo¹, Bedae³, Macrobium⁴, *scientia destruetur*⁸…), NOT to q5. q5's scholion §V/§VI on p.726 carry no footnote markers (pure cross-reference prose). q5 therefore owns NO p.726 apparatus.
+
+**Scholion disposition.** q5 carries its OWN `### Scholion` with sections **§I–§VI**, placed LAST in both the Latin and English blocks (body-then-scholion, parser requirement). §I (triplex habitus); §II (infusi-per-se controversy: Scotus/Henry of Ghent/Durandus/Nominalists vs Aquinas; Innocent III, Council of Vienne 1311, Trent Sess. VI, Roman Catechism); §III (Bonaventure on baptized infants; Dionysius Carthusian's mistaken reading rebutted); §IV (the long modus-loquendi-vs-doctrina exposition: gratia's twofold relation, Bonaventure-vs-Aquinas convergence/divergence on grace's immediate influx, with the Breviloquium light/colors simile); §V (further loci: Peter of Tarentaise, Richard of Mediavilla, Biel); §VI (forward-redirect to q6 — *"Quoad ultimam quaestionem communiter docetur, quod habitus infusi remaneant in patria secundum quosdam actus excellentiores. De hac (6.) quaestione: Scot.... Dionys. Carth., hic q. 4."* — captured verbatim; pre-states q6's common doctrine on *duratio finalis*).
+
+**Footer hand-offs.** PICKED UP: p.721 nn.5–7 from a1-q4 (= `[^1]`–`[^3]`). FORWARDED to a1-q6: NONE of q5's apparatus forwards — all p.726 footer notes anchor to q6's fresh body (QUAESTIO VI opens *Sexto et ultimo quaeritur... utrum in patria maneant, an evacuentur* on p.726 L col, continuing onto p.727). Stated explicitly: q5 leaves no parked footer for q6 to pick up; q6 opens its own p.726 footer sequence.
+
+**`[?]` flags (parked for the 600 dpi decade pass):**
+- `[^23]` (p.724 n.3, the Augustine Serm. 30 / Hypognosticon cross-ref): the tail of the note after *pag. 600* is OCR/PDF-degraded in the p.723 R-2 / p.724 footer bleed; the trailing *d. 26. q. 3* and a cited-note clause are reconstructed and may need the 600 dpi pass. Flagged inline.
+- Greek string in `[^1]` (*ἀλλὰ περισσότεροι μὲν δέξασθαι αὐτάς, τελειούμενοι δὲ διὰ τοῦ ἔθους*) read at 450 dpi; accents/breathings are low-confidence and should be re-verified at 600 dpi.
+- p.724 footer band (`[^14b]`/star and `[^19]` marginal `'`/`°` symbol resolution) and the p.723 R-2 band were the most heavily degraded; marker-to-note pairing is confident but a few variant-codex sigla (e.g. the `III` in `[^19]`) are low-confidence.
