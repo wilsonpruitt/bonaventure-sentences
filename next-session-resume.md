@@ -1,6 +1,24 @@
 # Bonaventure Sentences — Next Session Resume
 
-## ★ NEXT ACTION — bon-sent-III-d32-dubia (skeleton present — PROMOTE) — DUBIA CIRCA LITTERAM MAGISTRI (closes DISTINCTIO XXXII)
+## ★ NEXT ACTION — bon-sent-III-d33-littera (skeleton present — PROMOTE) — Littera Magistri, DISTINCTIO XXXIII (De virtutibus cardinalibus)
+
+**★ DISTINCTIO XXXII IS NOW FULLY TIER 2 (d32-dubia done, commit `556054f`, 2026-06-12).** All nine d.32 chunks (divisio + a1-q1..q6 + dubia) are Tier 2; the d.32 paraphrase-HIGH / SKELETON-SUSPECT / DUB-header flags are now GONE. translated 1206→1207.
+
+**d32-dubia is Tier 2 (commit `556054f`, 2026-06-12).** *Dubia circa litteram Magistri* — **closes DISTINCTIO XXXII.** **Printed pp.708–709** (PDF 730–731). **FOUR Dubia (I–IV);** Dub. IV carries an embedded incident question (*Iuxta hoc quaeritur, utrum Deus magis diligat peccatorem praedestinatum quam iustum praescitum* — marginal `Quaestio incidens`), NOT a fifth dubium. **16-entry NOTAE apparatus** (per-page restart, continuous `[^1]`–`[^16]`): **p.708 nn.4–11 → [^1]–[^8]** (n.4=`[^1]` PICKED-UP hand-off from a1-q6); **p.709 nn.1–8 → [^9]–[^16]**. Marker pairing 16/16 clean. `has_scholion: false` (dubia). Page-split: Dub. I+II on p.708, Dub. II resp spills + Dub. III+IV on p.709, ending `gloriae`; **p.710 begins DIST. XXXIII** (Littera Cap. I–III) so dubia do NOT reach p.710. **No footers forwarded to d33-littera** (p.710 footers all anchor to the DIST. XXXIII body). No `[?]` flags. Audits clean (paraphrase 0/0, headers no flag, apparatus 0 flagged). Do NOT deploy. **d.31–d.40 decade gate fires only when d.40 closes (NOT NOW).**
+
+> **⚡ NO FOOTER HAND-OFF into d33-littera.** d32-dubia owns nothing on p.710. The DIST. XXXIII Littera Magistri (Cap. I *De quatuor virtutibus principalibus*, Cap. II, Cap. III *De usibus earum*) opens at the TOP of **p.710** (raw `DISTMCTIO XXXIII.` ~49306, with Augustine/Beda/Jerome auctoritates) and its first footer band (p.710 nn.1–6: *Sap. 8,7* variant, *XII de Trin*, *Ioan. 1,16*, etc.) belongs entirely to d33-littera. The COMMENTARIUS IN DISTINCTIONEM XXXIII + DIVISIO TEXTUS follow at raw ~49356.
+
+> **⚡ d.33 SKELETON INVENTORY (checked at d32-dubia close):** d.33 = **ARTICULUS UNICUS, FIVE questions (QUAESTIO I–V), De virtutibus cardinalibus.** All skeletons present: `d33-littera`, `d33-divisio` (auto-chunker DID create it this time — UNLIKE d.29/d.30/d.31/d.32, so NO new divisio chunk needs creating), `d33-a1-q1..q6`, `d33-dubia`. **`d33-a1-q6` is likely VESTIGIAL/spurious** — the TRACTATIO lists only 5 questions (QUAESTIO I raw 49395, II 49523, III 49685, IV 49924, V 50086; next is DIST. XXXIV raw 50745). Verify q6 at promotion; if it leaks past-dubia content delete it, else confirm it maps to a real 6th movement. No question genuinely missing (q1–q5 all have skeletons).
+
+**NEXT ACTION → `bon-sent-III-d33-littera` (skeleton present — PROMOTE).** `type: littera`, distinctio:33, `book: 3`. **Raw anchor:** `DISTMCTIO XXXIII.` ~49306; Littera (Cap. I–III) opens at top of **p.710** (PDF 732). **Page span:** p.710 onward; grep raw forward to `COMMENTARIUS IN DISTINCTIONEM XXXIII` (~49356, the divisio boundary) to bound the littera. Vol III two-column + PDF-priority inversion (offset pdf = printed + 22; trust running-head TEXT over OCR'd digits). Template = `vol3/bon-sent-III-d31-littera.md` or any prior `*-littera.md`. After littera → d33-divisio (already a skeleton) → a1-q1..q5 → dubia.
+
+---
+
+### (trace) d32-dubia — Tier 2, commit `556054f` — DUBIA CIRCA LITTERAM MAGISTRI, four Dubia (Dub. IV embeds incident question), 16-entry apparatus (p.708 nn.4–11 incl. picked-up n.4 from a1-q6; p.709 nn.1–8), CLOSES DISTINCTIO XXXII.
+
+---
+
+## (DEMOTED, kept for trace) prior NEXT ACTION — bon-sent-III-d32-dubia (skeleton present — PROMOTE) — DUBIA CIRCA LITTERAM MAGISTRI (closes DISTINCTIO XXXII)
 
 **d32-a1-q6 is Tier 2 (commit `4282057`, 2026-06-12).** *Utrum Christus magis dilexerit Ioannem quam Petrum* — **LAST question of d.32's ARTICULUS UNICUS.** **Printed pp.706–708** (PDF 728–730). **15-entry NOTAE apparatus** (per-page restart, continuous `[^1]`–`[^15]`, clean 1:1): **p.706 nn.7–9 → [^1]–[^3]** (PICKED-UP hand-off from q5 — q5 owned p.706 nn.1–6); **p.707 nn.1–9 → [^4]–[^12]**; **p.708 nn.1–3 → [^13]–[^15]** (n.3=`[^15]`=*Vide scholion ad 4. quaest.*). **`has_scholion: false` — REDIRECT to q4 article-master scholion §III** (the *Ultima (6.) quaestio* movement). Marker pairing 15/15 clean. Alignment PASS (*Sexto et ultimo quaeritur, utrum magis dilexerit Ioannem quam Petrum* = TRACTATIO Sextum, 1:1). **TITLE DECISION:** printed header reads *Christus* (used), not the TRACTATIO-subjectless / q5-conjectured *Deus* — body uses *Christus* throughout; documented in q6 `## Notes`. No `[?]` flags. translated 1205→1206. Audits as-expected (the still-skeleton dubia carries the SKELETON-SUSPECT [apparatus +16] + paraphrase-HIGH + DUB header -1 flags; q6 itself clean). Do NOT deploy. d.31–d.40 decade gate fires only when d.40 closes (NOT NOW).
 
