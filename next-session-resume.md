@@ -1,6 +1,21 @@
 # Bonaventure Sentences — Next Session Resume
 
-## ★ NEXT ACTION — bon-sent-III-d32-littera (skeleton exists; PROMOTE to Tier 2) — STARTS DISTINCTIO XXXII
+## ★ NEXT ACTION — bon-sent-III-d32-divisio (NO skeleton — CREATE) — DISTINCTIO XXXII commentary opener
+
+**d32-littera is Tier 2 (commit `3395f7a`, 2026-06-12) — STARTS DISTINCTIO XXXII.** *Littera Magistri* for d.32 (*De caritate per comparationem ad divinam dilectionem*), **FIVE chapters Cap. I–V**: Cap. I *De caritate Dei*; Cap. II *Quomodo Deus dicitur magis diligere…*; Cap. III *Quod dupliciter inspicienda est dilectio Dei* (the governing *essentia/efficientia* distinction); Cap. IV *Si quis magis vel minus diligitur a Deo uno tempore quam alio*; Cap. V *Si Deus ab aeterno dilexit reprobos* (Jacob/Esau). **Printed pp.696–697** (PDF 718–719). **9-entry NOTAE AD LIBR. SENTENTIARUM apparatus** (per-page restart, renumbered continuous `[^1]`–`[^9]`): **p.696 nn.1–8 → [^1]–[^8]** (L nn.1–3, R nn.4–8); **p.697 n.1 → [^9]** (the only LIBR. SENTENTIARUM note on p.697; on Cap. V's `legitur⁹`). `has_scholion: false`. **Footer hand-offs:** picked-up = NONE (d.32 opens fresh on p.696); **forwarded to d32-divisio = the p.697 NOTAE AD COMMENTARIUM block nn.1–4** (n.1 *Cod. Z ad eius durationem;* n.2 *Edd. quos…;* n.3 *Vers. 4 — Quoad minorem… tom. II pag. 599 nota 5;* n.4 *Cap. 16 n. 17, cfr. hic lit. Magistri c. 3…*) — these are the divisio/commentary chunk's OWN footer (not a LIBR. SENTENTIARUM forward), flagged so the next dispatch captures them. No `[?]` flags. translated 1198→1199. Audits as-expected. Do NOT deploy. d.31–d.40 decade gate fires only when d.40 closes (NOT NOW).
+
+**NEXT ACTION → `bon-sent-III-d32-divisio` (NO skeleton exists — CREATE, exactly as for d.29/d.30/d.31).** `type: divisio`, distinctio:32, `book: 3`. **COMMENTARIUS IN DISTINCTIONEM XXXII** (subtitle *De caritate per comparationem ad divinam dilectionem;* incipit *Praemissis adiiciendum est de dilectione Dei etc.*) + **DIVISIO TEXTUS** + **TRACTATIO QUAESTIONUM**. **COMMENTARIUS header raw line = `48412`** (OCR garble `COMMENTAMUS IN DISTINCTIONEM XXXII.`). Grep raw forward from 48412 to the `ARTICULUS UNICUS` / `QUAESTIO I` opener (and bound at `DISTINCTIO XXXIII`) to size the divisio. **Page span:** COMMENTARIUS opens on **p.697** (PDF 719, full-width below the littera's Cap. V tail); the DIVISIO TEXTUS + TRACTATIO QUAESTIONUM fill p.697 R column and likely run onto p.698 — verify the page break vs the ARTICULUS UNICUS / QUAESTIO I opener. **Apparatus = NOTAE AD COMMENTARIUM (per-page restart); PICK UP the p.697 NOTAE AD COMMENTARIUM nn.1–4** forwarded from the littera (see hand-off above). `has_scholion: false`. Vol III two-column + PDF-priority inversion (offset pdf = printed + 22; trust running-head TEXT over OCR'd digits). Template = `vol3/bon-sent-III-d31-divisio.md` or `vol3/bon-sent-III-d29-divisio.md` (recent CREATED-divisio siblings).
+
+> **★ d.32 STRUCTURE (from the TRACTATIO QUAESTIONUM, raw ~48414–48442, eyes-on p.697):** **ONE article (ARTICULUS UNICUS, *De dilectione ipsius Dei*), SIX questions** = matches the skeleton inventory a1-q1..q6. The TRACTATIO lists **six dubitabilia de dilectione divina**: (1) *utrum Deus dilexerit creaturas aeternaliter;* (2) *utrum diligat omnes creaturas universaliter;* (3) *utrum omnes diligat aequaliter;* (4) *utrum magis diligat hominem quam Angelum;* (5) *utrum magis dilexerit genus humanum quam Christum;* (6) *utrum magis Ioannem dilexerit quam Petrum.* No genuinely-missing question (unlike d.31-a2-q2): a1-q1..q6 skeletons all present.
+
+> **⚠ d.32 SKELETON INVENTORY (verified 2026-06-12):** present = `d32-littera (DONE), d32-a1-q1..q6, d32-dubia` (8 chunks). **NO `d32-divisio` skeleton — must be CREATED** (next action). Then a1-q1..q6 (ARTICULUS UNICUS, 6 questions), then dubia. Slate after divisio created = littera+divisio (DONE/next) · a1-q1..q6 · dubia = 9 chunks.
+
+---
+### (trace) d32-littera — Tier 2, commit `3395f7a` (see star block above) — STARTS d.32
+
+---
+
+## (DEMOTED, kept for trace) prior NEXT ACTION — bon-sent-III-d32-littera — STARTS DISTINCTIO XXXII
 
 **★★ DISTINCTIO XXXI COMPLETE (12 chunks — littera, divisio, a1-q1/q2/q3, a2-q1/q2/q3, a3-q1/q2/q3, dubia — all Tier 2). ★★**
 
