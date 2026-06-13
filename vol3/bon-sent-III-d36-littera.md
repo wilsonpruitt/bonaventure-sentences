@@ -4,130 +4,134 @@ volume: 3
 book: 3
 distinctio: 36
 type: littera
-line_start: 54769
-line_end: 54873
-word_count_latin: 1534
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Distinctio XXXVI — textus Magistri Sententiarum"
+title_en: "Distinction XXXVI — text of the Master of the Sentences"
+printed_pages: [789, 790]
+pdf_pages: [811, 812]
+source: "Petri Lombardi Sententiarum Libri IV, Liber III, Dist. XXXVI, Capp. I–III (as printed in S. Bonaventurae, Opera Omnia, Tomus III, Quaracchi 1887, pp. 789–790)"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from 450 dpi PDF column bands (/tmp/colcrop/vol3-p{789,790}-{L,R}-*.png; raw lines 54769–54865), fresh literal English, full NOTAE AD LIBR. SENTENTIARUM apparatus (15 entries, per-page restart renumbered continuous: p.789 [^1]–[^9], p.790 [^10]–[^15]), no scholion (littera) (2026-06-13)"
 format_version: 1
 ---
 
-# bon-sent-III-d36-littera
+# III Sent., d. 36 — Littera Magistri
+## *Distinctio XXXVI — text of the Master of the Sentences*
+
+---
 
 ## Latin
+<!-- page 789 -->
 
-DISTINCTIO XXXVI.
-                                          Cap. I.                                     prudentia el iuslitia et temperantia. Si enim dixeris,
-                                                                                      aequales esse islos in forliiudine, sed illitm praestare
-               De eonnexione virtutum, quae non separanlur.                           prudeiilia; sequitur, ul liuiiis forlitudo iniiius prudens
-                                                                                      sit; ac per hoc nec fortilttdine aequales suiil, qttia est
-                 Solet etiam quaeri , ulrum virtutes ita siul sibi con-               illius fortitudo prudentior. Atque ita de ceteris virtuti-
-            iunclae, ut separatim non possint possideri ab aliquo,                    bus invenies, si onuies eadeni consideralione percur-
-            sed qui nnam babet omnes habeat. De boc Hierony-                          ras». — Ex his clarescit, omnes virtutes non modo
-            111 u s ' ait: « Omnes virlules sibi baerent, nt qui una                  esse connexas, sed eliam pares in animo hominis. Cnm
-            caruerit oninibus careat. Qui ergo unam babet omnes ha-                   ergo dicilur aliquis aliqua praeemineie virtute, ut Abra-
-     Raiio. bet ». — Quod quidem probabile est. Cum enim caritas                      ham lide0, lob patientia; secuiiduin usus exteriores ac-
-            mater sit oninium virtutiun, in quocumque maler ipsa                      cipiendum esl, vel in comparalione aliorum liominiiin .
-            est, scilicet carilas, et cttncli filii eius, id est virtutes,            quia vel huiiiilitatis habilum niaxinie praefert, vel opus
-Dobiam i. recle fore creduntur. Unde Augiisliniis 2: «Ubi carilas                     lidei, vel alicnius ceterarum virlutnm praecipue exse-
-          est , quid esl quod possit deesse ? Ubi aiitem non est,                     quilur. Unde et ea prae aliis polleie, vel inter alios
-            quid est quod possit prodesse » ? ■ Cur ergo non dici-                    bomines singulariter excellere dicilur secundtim hunc
-            mus, qui lianc virtiilem habet habere omnes, ciim                         modtiin, scilicet secundnni rationeni acluuni exlerio-
-            /i/enitudo Legis sit carilas ? quae quanto magis esl in                   rum. — Alibi 7 Augustinus tlicit, in aliquo aliam magis
-            homine, tanto magis est virlute praedilus; quanto vero                    esse virlulem, aliani mituis, et uiiaiii esse, et non al-
-            minus, tanto niinus inest virlus; et quanlo minus incst                   teram. Ail cnim sic: « Clarissima disptitalione lua sa- Augustinus.
-            virtus, tanlo magis inesl vitiuiii ».                                     tis apparuil, non placuisse aucloribtis nostris, immo Dubium -i.
-                                                                                      ipsi Yerilali, omnia paria esse peccala, eliam si hoc
-                                          Cap. II.                                    de virtulibus veium sil » : «qnia, eisi venim est, eum
-                                                                                      qui habet unani , omnes habere virlules, et etini qui
-             An cunctae virlutes pares sinl, in quocumque sunt.                       iinam non habet , niillam babere, nec sic peccala sunl
-                                                                                      paria, quia ubi nulla virlus esl, nibil recluin csl; nec
-                Ulrum vero pariler quis omnes possideat virlutes ,                    lanien ideo non est pravo pravius disloiloqtie distor-
-           31) aliae magis, aliae minus in aliquo ferveant; quae-                     lius. Si aiilem, quod pulo esse verius sacrisque Lit-
- Opinio i. stio est. — Quibusdam enim videtur, quod aliae magis,                      leris coiigriicnliiis, ila sunl aiiiniae inlenliones, ul cor-
-           aliae minus liabeantiir ab aliquo, sicut in Iob s palien-                  poris meinbra — non tpiod viileanlur loeis ', sed quod
-           lia emicttit, in David liumilitas, in Moyse inansucliido.                  sentiantur affeclibus — el alius illuminaiiir amplius.
-           Qui eliain concedunt, magis aliqiiem mereri per ali-                       alius minns, alius omnino care.t lumiue; profecto ut
-           ipiam iinani virtutem qtiam per aliam, sicnl eani ple-                     (|iiisque illttslratione piae carilatis afleclus csl, in alio
-           nius habet qiiam aliani. Non tainen magis per aliquam                      aclu magis, in alio miiiits, in aliquo nibil , sic dici po-
-           mereri dicunt quam per carilalem, nec Tdiqiiam ple-                        test habere aliam et aliam non habere, el aliam ina-
-           nitis a quoquam baberi quam caritatem. Alias igilur                        gis, aliam miniis. Nain el maior est in islo carilas
-           magis, et alias ininus in aliquo esse dicunt, sed nul-                     quam in illo, recle ° possumus dicere; el alitpia in
-           lam plenios carilale, quae ceteras gignit; liasque dicunt                  isto, iiulla in illn, quantum periinei ad carilatem, quae
-             esse inultas facies, quas niemoiat Apostolus4 dicens:                    pielas esl ; et in uno homine, tpiod maiorem haheat
-             Ex personis multarum facierum elc,                                       pudiciliam quam palientiam, ei maiorem hodie quaro
-                  Alii verins dicunl, omiies virtutes et simul el pa-                 hcri , si proficit; el adbiic non babeal eoiilinenliam .
-Opinio 2. ei res esse in quociiinquc siinl, ul qui in una alleri par                  et habeal non parvam misericordiam. Cl ul generaliler
-Magistri.
-            cxtiterit, in omnibus eidem aequalis sil. Unde Augusti-                   brevilerque compleciar qiiam de virmte baheo notio-
-AogoBiinas. nus 6 : «Yirlutcs, quae stinl iu aiiimo luiinaiin, qiiain-                nem: virlus est caritas, qua itl qiiixl tliligenilum esl .
-            vis alio el alio modo singulae intelligantur, millo modo                  diligilur; hacc in aliis maior, itt aliis minor, in aliis
-            lamen separantur ab invicem , ul quicumqne fuerint                        uulla esl; plenissima vero, qnae iam non possit au-
-            aequales, verbi gralia iu fortiludine, aequales siul et                   gcri, (piaindiu hic liomo vivil , in nemine ». — Hic insi-
+### DISTINCTIO XXXVI.
 
-                   1 Llbr. VI. Comment. in ls;ii. IB, 12. et XV. 5(1, I. IV                  r' l.ihr. VI. de Trin. o. I. n. 6. — ln quo icxlti pro ae-
-            carltate ul malre virlulun cfr. supra pag. 603, nota 7.                   iiuttlr.s sttui , t/itiit edd. I, s aeguatcs siu/. ijvia, refrflgante
-                   - In Evang. loan. tr. 83. n. 3. Seq. luc esi lipiat. 167. (alias   ctiiitn originali, deinde eaedem pro non motto hobeni non solum
-            29.) c. 3. ii. II. quae est eliam Epist. 1.12. n. II. Inter Eplsl. Ble-        o Cir. Ilchr. II, 8-12,    17-20; Rom. t, a. seqq.
-            ronymi. Locus Scripiuriic esi Bom. 13, 10. -- Pro magisinest                       7 Edd.', exceptis I . B, pcrperam praeOgunt ut el conne-
-            i ,iniiii codd. \ci: magiteti vitium; orlginale maius (ita et             i -(11111. quae sequuntur cum antecedente proposlllone, Locus An-
-            Cod. D) tll riliimi.                                                      gust. esl in clt. Eplsl. 167. (allas -'<■) c. 2. n. t , scti mullls
-                 » crr. lac. 5, II; ii. Reg. 6". 22; de Moyse cfr. Nom. 12,           hlc omfssls. Seq. locns Ibld. c. i. n. li. rS,
-            3. Hulc ri|iiniiini favel locus Hleronymi, I. Dinlogus ndv. Pela-                   » c.niil. CE el edd. i , B cum Vat. ocuUi, refragnnte ctlam
-            gian. n. 1«. 19, ubi etiam ail, virlulvs esse connexas participd-         orlglnnll, quod delnde pro alhts ler habel aliud (scll. mem-
-                                                                                      liruiti). Inlra posl itiutui minus edd. I, B, n, ** cum orlglnali
-            ttone,    non proprietate. Pro emicuit rodd. \ li t'- eminuit,
-            cti(l'l. H C enitiiit.                                                    Miliicinni liubrrr inliilrui.
+### Cap. I. *De connexione virtutum, quae non separantur.*
 
-                 ' Bplst. II. Cnr. 1,11; cfr. Lyranus ln hunc locum. — Su-                  " Vol. '-i i-iid.. excepta I, praeflgunt et ideo, refragantlbus
-            perlua pro memorat eodd. ,\ D et Erf. commemorat Pro itmui                cnilii. cl origlnall, Delnde solae edd. posi uno homine adduni
-            etparei edd., exceptis 1,8, timiles et parei.
-                                                                                      quidem,
-         790                                                   SENTENTIARUM         LIB. III.
+Solet etiam quaeri, utrum virtutes ita sint sibi coniunctae, ut separatim non possint possideri ab aliquo, sed qui unam habet omnes habeat. De hoc Hieronymus[^1] ait: «Omnes virtutes sibi haerent, ut qui una caruerit omnibus careat. Qui ergo unam habet omnes habet». — Quod quidem probabile est. Cum enim caritas mater sit omnium virtutum, in quocumque mater ipsa est, scilicet caritas, et cuncti filii eius, id est virtutes, recte fore creduntur. Unde Augustinus[^2]: «Ubi caritas est, quid est quod possit deesse? Ubi autem non est, quid est quod possit prodesse»? — Cur ergo non dicimus, qui hanc virtutem habet habere omnes, cum *plenitudo Legis sit caritas*? quae quanto magis est in homine, tanto magis est virtute praeditus; quanto vero minus, tanto minus inest virtus; et quanto minus inest virtus, tanto magis inest vitium».
 
-            liuari videtur, quod aliquis ea ratione possit dici habere            cessaverunt velut umbra. Verumtamen et ipsa caere-
-            unam virtutem magis quam aliam , quia per caritatem                   monialia secundum spirituaiem intellectum, quem con-
-            magis afficitur in actu unius virtutis quam alterius, et              tinent, et omnia moralia ad caritatem referunlur. Per-
-            propter differentiam actuum ipsas virtutes magis vel                  tinent enim omnia ad decem mandata in tabulis scripta,
-            minus habere dici potest ' , et aliquam non habere ;                  ubi omnium summa perslringitur, ex quibus cetera
-            cum tamen simul omnes et pariter habeat quanium ad                    emanant, sicut in sermone Domini octo virtutes prae-
-            mentis habitum vel essentiam cuiusque. In actu vero                   mittuntur, ad quas cetera referuntur4; et sicut ad
-            aliam magis, aliam minus habet, aliam eliam non ha-                   decem mandata decalogi cetera referuntur, ita et ipsa
-            bet, ut vir iustus, utens coniugio, non habet continen-               decem ad duo mandata caritatis. Omnia ergo ad duo DoMum 3.
-Aogosiiims. tiam in actic, quam lamen habet in Iwbilu. — « Cur ergo               mandata caritalis pertinent, quia per carilatem implen-
-            non dicantur paria peccata? Forte quia magis facit con-               tur et ad cariiatem tanquam ad finem referri debent.
-            tra caritalem qui gravius peccat, minus qui levius.                   Uude Augustinus5: «Totam magnitudinem et amplitudi- Augostinos.
-            Nemo euim peccat, nisi adversus illam faciendo, quae                  nem divinorum Eloquiorum possidet caritas, qua Deum
-            est pleniludo Legis; ideo recte dicilur: Qui offenderil               proximtimque diligimus, quae radix est omnium bono-
-            in uno , factus est omnium reus, id est, contra ca-                   rum. Unde Veritas ait: In his duobus mandatis universa
-            ritatem facit, in qua pendent omnia2».                                Lex pendel el Prophetae. Si ergo non vaeat omnes Pa-
-                                                                                  ginas sanctas perscrutari, omnia involucra sermonum
-                                      Cap. III.                                   evolvere; tene carilatem, ubi pendent omnia», quia
-                                                                                  perfectio est et finis oninium. Tunc enim et praecepta
-                   Quomodo in caritale tota Lex pendet.                           et consilia recte fiunt, cum referuntur ad diligendum
-                                                                                  Deum et proximum propter Deum. « Quod vero timore Augusiinus.
-               Cum sint duo praecepta caritalis, in quibus, ut                    poenae , vel aliqua intentione carnali fit, ut non re-
-         praetaxatum es! 3, tola Lex pendet et Prophetae; adver-                  feratur ad caritalem, nondum fit, sicut fieri oportet,
-         tendum est, quomodo hoc sit, cum in Lege et Pro-                         quamvis fieri videatur8». «Inimicus enim iustitiae Dobinm 4.
-         phetis multa fuerint caeremonialia mandata , quae , si                   est qui poenae timore non peccat; amicus vero , qui
-         ad caritatis sanctificalionem pertinuissent, videreutur                  eius amore non peccat». — «Omnium igitur haec
-         nondum debere cessare. Quia vero non iustificationis                     summa est, ut-inlelligatur Legis et omnium divinarum Dubium 5.
-         gratia, quam facit caritas, inslituta sunt, sed 'mfigura                 Scripturarum plenitudo esse dilectio Dei et proximi».
-         futuri et in onus imposita; ideo clarescente veritate,
+### Cap. II. *An cunctae virtutes pares sint, in quocumque sunt.*
 
+Utrum vero *pariter* quis omnes possideat virtutes, an aliae magis, aliae minus in aliquo ferveant; quaestio est. — Quibusdam enim videtur, quod aliae magis, aliae minus habeantur ab aliquo, sicut in Iob[^3] patientia emicuit, in David humilitas, in Moyse mansuetudo. Qui etiam concedunt, magis aliquem mereri per aliquam unam virtutem quam per aliam, sicut eam plenius habet quam aliam. Non tamen magis per aliquam mereri dicunt quam per caritatem, nec aliquam plenius a quoquam haberi quam caritatem. Alias igitur magis, et alias minus in aliquo esse dicunt, sed nullam plenius caritate, quae ceteras gignit; hasque dicunt esse multas facies, quas memorat Apostolus[^4] dicens: *Ex personis multarum facierum* etc.
 
-                             COMMENTABIUS                           IN DISTINCTIONEM XXXVI.
-                                                     De connexione habituum gratuitorum.
+Alii verius dicunt, omnes virtutes et simul et pares esse in quocumque sunt, ut qui in una alteri par extiterit, in omnibus eidem aequalis sit. Unde Augustinus[^5]: «Virtutes, quae sunt in animo humano, quamvis alio et alio modo singulae intelligantur, nullo modo tamen separantur ab invicem, ut quicumque fuerint aequales, verbi gratia in fortitudine, aequales sint et prudentia et iustitia et temperantia. Si enim dixeris, aequales esse istos in fortitudine, sed illum praestare prudentia; sequitur, ut huius fortitudo minus prudens sit; ac per hoc nec fortitudine aequales sunt, quia est illius fortitudo prudentior. Atque ita de ceteris virtutibus invenies, si omnes eadem consideratione percurras». — Ex his clarescit, omnes virtutes non modo esse connexas, sed etiam pares in animo hominis. Cum ergo dicitur aliquis aliqua praeeminere virtute, ut Abraham fide[^6], Iob patientia; secundum usus exteriores accipiendum est, vel in comparatione aliorum hominum, quia vel humilitatis habitum maxime praefert, vel opus fidei, vel alicuius ceterarum virtutum praecipue exsequitur. Unde et ea prae aliis pollere, vel inter alios homines singulariter excellere dicitur secundum hunc modum, scilicet secundum rationem actuum exteriorum. — Alibi[^7] Augustinus dicit, in aliquo aliam magis esse virtutem, aliam minus, et unam esse, et non alteram. Ait enim sic: «Clarissima disputatione tua satis apparuit, non placuisse auctoribus nostris, immo ipsi Veritati, omnia paria esse peccata, etiam si hoc de virtutibus verum sit»: «quia, etsi verum est, eum qui habet unam, omnes habere virtutes, et eum qui unam non habet, nullam habere, nec sic peccata sunt paria, quia ubi nulla virtus est, nihil rectum est; nec tamen ideo non est pravo pravius distortoque distortius. Si autem, quod puto esse verius sacrisque Litteris congruentius, ita sunt animae intentiones, ut corporis membra — non quod videantur locis[^8], sed quod sentiantur affectibus — et alius illuminatur amplius, alius minus, alius omnino caret lumine; profecto ut quisque illustratione piae caritatis affectus est, in alio actu magis, in alio minus, in aliquo nihil, sic dici potest habere aliam et aliam non habere, et aliam magis, aliam minus. Nam et maior est in isto caritas quam in illo, recte[^9] possumus dicere; et aliqua in isto, nulla in illo, quantum pertinet ad caritatem, quae pietas est; et in uno homine, quod maiorem habeat pudicitiam quam patientiam, et maiorem hodie quam heri, si proficit; et adhuc non habeat continentiam, et habeat non parvam misericordiam. Et ut generaliter breviterque complectar quam de virtute habeo notionem: virtus est caritas, qua id quod diligendum est, diligitur; haec in aliis maior, in aliis minor, in aliis nulla est; plenissima vero, quae iam non possit augeri, quamdiu hic homo vivit, in nemine». — Hic insi-
 
-                                                   Solel etiam       quaeri , utrum virtutes etc.
+<!-- page 790 -->
+
+nuari videtur, quod aliquis ea ratione possit dici habere unam virtutem magis quam aliam, quia per caritatem magis afficitur in actu unius virtutis quam alterius, et propter differentiam actuum ipsas virtutes magis vel minus habere dici potest[^10], et aliquam non habere; cum tamen simul omnes et pariter habeat quantum ad mentis habitum vel essentiam cuiusque. In actu vero aliam magis, aliam minus habet, aliam etiam non habet, ut vir iustus, utens coniugio, non habet continentiam in *actu*, quam tamen habet in *habitu*. — «Cur ergo non dicantur paria peccata? Forte quia magis facit contra caritatem qui gravius peccat, minus qui levius. Nemo enim peccat, nisi adversus illam faciendo, quae est *plenitudo Legis*; ideo recte dicitur: *Qui offenderit in uno, factus est omnium reus*, id est, contra caritatem facit, in qua pendent omnia[^11]».
+
+### Cap. III. *Quomodo in caritate tota Lex pendet.*
+
+Cum sint duo praecepta caritatis, in quibus, ut praetaxatum est[^12], *tota Lex pendet et Prophetae*; advertendum est, quomodo hoc sit, cum in Lege et Prophetis multa fuerint caeremonialia mandata, quae, si ad caritatis sanctificationem pertinuissent, viderentur nondum *debere* cessare. Quia vero non iustificationis gratia, quam facit caritas, instituta sunt, sed in *figura futuri* et in *onus imposita*; ideo clarescente veritate, cessaverunt velut *umbra*. Verumtamen et ipsa *caeremonialia* secundum spiritualem intellectum, quem continent, et omnia *moralia* ad caritatem referuntur. Pertinent enim omnia ad decem mandata in tabulis scripta, ubi omnium summa perstringitur, ex quibus cetera emanant, sicut in sermone Domini octo virtutes praemittuntur, ad quas cetera referuntur[^13]; et sicut ad decem mandata decalogi cetera referuntur, ita et ipsa decem ad duo mandata caritatis. Omnia ergo ad duo mandata caritatis pertinent, quia per caritatem implentur et ad caritatem tanquam ad finem referri debent. Unde Augustinus[^14]: «Totam magnitudinem et amplitudinem divinorum Eloquiorum possidet caritas, qua Deum proximumque diligimus, quae radix est omnium bonorum. Unde Veritas ait: *In his duobus mandatis universa Lex pendet et Prophetae*. Si ergo non vacat omnes Paginas sanctas perscrutari, omnia involucra sermonum evolvere; tene caritatem, ubi pendent omnia», quia perfectio est et finis omnium. Tunc enim et praecepta et consilia recte fiunt, cum referuntur ad diligendum Deum et proximum propter Deum. «Quod vero timore poenae, vel aliqua intentione carnali fit, ut non referatur ad caritatem, nondum fit, sicut fieri oportet, quamvis fieri videatur[^15]». «Inimicus enim iustitiae est qui poenae timore non peccat; amicus vero, qui eius amore non peccat». — «Omnium igitur haec summa est, ut intelligatur Legis et omnium divinarum Scripturarum plenitudo esse dilectio Dei et proximi».
+
+---
 
 ## English
 
-[Translation pending]
+### DISTINCTION XXXVI.
+
+### Chapter I. *On the connection of the virtues, which are not separated.*
+
+It is also wont to be asked whether the virtues are so joined together among themselves that they cannot be possessed separately by anyone, but he who has one has all. Concerning this Jerome[^1] says: «All the virtues cohere among themselves, so that he who has lacked one lacks all. He therefore who has one has all». — And this indeed is probable. For since charity is the mother of all the virtues, in whomever the mother herself, namely charity, is, all her children also, that is, the virtues, are rightly believed to be. Hence Augustine[^2]: «Where charity is, what is there that can be lacking? But where it is not, what is there that can profit»? — Why therefore do we not say that he who has this virtue has all, since *the fullness of the Law is charity*? which, the more it is in a man, the more he is endowed with virtue; but the less, the less virtue is in him; and the less virtue is in him, the more vice is in him».
+
+### Chapter II. *Whether all the virtues are equal, in whomever they are.*
+
+But whether one possesses all the virtues *equally*, or some glow more, some less in a person; is a question. — For to some it seems that some are had more, some less by a person, as in Job[^3] patience shone forth, in David humility, in Moses meekness. These also concede that one merits more through some one virtue than through another, inasmuch as he has it more fully than another. Yet they do not say that one merits more through any [virtue] than through charity, nor that any is had by anyone more fully than charity. They say therefore that some are more, and some less in a person, but none more fully than charity, which begets the rest; and these they say are the many faces which the Apostle[^4] mentions, saying: *From the persons of many faces* etc.
+
+Others say more truly that all the virtues are both together and equal in whomever they are, so that he who in one has stood equal to another, is in all equal to the same. Hence Augustine[^5]: «The virtues which are in the human soul, although each is understood in one mode and another, are nevertheless in no way separated from one another, so that whoever shall be equal, for example in fortitude, are equal also in prudence and justice and temperance. For if you shall say that these are equal in fortitude, but that one excels in prudence; it follows that the fortitude of this one is less prudent; and through this they are not equal even in fortitude, because the fortitude of that one is more prudent. And thus you will find concerning the rest of the virtues, if you run through them all with the same consideration». — From these things it becomes clear that all the virtues are not only connected, but also equal in the soul of man. When therefore someone is said to preeminent in some virtue, as Abraham in faith[^6], Job in patience; it is to be understood according to outward uses, or in comparison with other men, because he either most displays the habit of humility, or the work of faith, or chiefly carries out [the work] of some one of the rest of the virtues. Hence he is also said to be strong above others, or to excel singularly among other men, according to this mode, namely according to the account of outward acts. — Elsewhere[^7] Augustine says that in someone one virtue is more, another less, and that one is, and not the other. For he says thus: «By your most lucid disputation it has sufficiently appeared that it did not please our authors, nay, Truth itself, that all sins are equal, even if this be true of the virtues»: «because, although it is true that he who has one has all the virtues, and he who has not one has none, yet not even thus are sins equal, because where there is no virtue, nothing is right; nor yet on that account is the more crooked not more crooked, the more distorted not more distorted. But if, as I think to be more true and more agreeable to the sacred Letters, the intentions of the soul are so [related], as the members of the body — not that they should be seen by their places[^8], but that they should be felt by the affections — and one is illumined more, another less, another wholly lacks light; assuredly as each one is affected by the illumination of pious charity, in one act more, in another less, in some nothing, so it can be said that he has one [virtue] and has not another, and one more, another less. For we can rightly say that charity is greater in this man than in that[^9]; and some [charity] in this man, none in that, as far as pertains to the charity which is piety; and that in one man there is greater chastity than patience, and greater today than yesterday, if he advances; and that he does not yet have continence, and has no small mercy. And that I may generally and briefly comprehend the notion which I have concerning virtue: virtue is the charity by which that which is to be loved is loved; this is in some greater, in some lesser, in some none; but it is fullest, so that it can no longer be increased, so long as this man lives, in no one». — Here it seems to be in-
+
+<!-- page 790 -->
+
+sinuated that someone can for this reason be said to have one virtue more than another, because through charity he is more affected in the act of one virtue than of another, and on account of the difference of acts the virtues themselves can be said to be had more or less[^10], and one not to be had; while nevertheless he has all of them at once and equally as regards the habit or essence of each in the mind. But in act he has one more, another less, and also has not another, as a just man, using marriage, does not have continence in *act*, which nevertheless he has in *habit*. — «Why therefore are sins not said to be equal? Perhaps because he acts more against charity who sins more grievously, less who sins more lightly. For no one sins except by acting against that which is *the fullness of the Law*; therefore it is rightly said: *Whoever shall offend in one, is made guilty of all*, that is, he acts against charity, on which all things depend[^11]».
+
+### Chapter III. *How the whole Law depends on charity.*
+
+Since there are two precepts of charity, on which, as was set forth before[^12], *the whole Law depends and the Prophets*; it is to be noted how this may be, since in the Law and the Prophets there were many ceremonial commandments, which, if they had pertained to the sanctification of charity, would seem not yet to *have to* cease. But because they were instituted not by the grace of justification, which charity makes, but as a *figure of what was to come* and *imposed as a burden*; therefore, the truth shining forth, they ceased like a *shadow*. Nevertheless the *ceremonial* [precepts] themselves too, according to the spiritual understanding which they contain, and all the *moral* [precepts] are referred to charity. For all things pertain to the ten commandments written on the tablets, where the sum of all is summarized, from which the rest emanate, just as in the sermon of the Lord eight virtues are set forth, to which the rest are referred[^13]; and as the rest are referred to the ten commandments of the decalogue, so those ten themselves [are referred] to the two commandments of charity. All things therefore pertain to the two commandments of charity, because they are fulfilled through charity and ought to be referred to charity as to their end. Hence Augustine[^14]: «Charity possesses the whole greatness and breadth of the divine Eloquences, the charity by which we love God and our neighbor, which is the root of all good things. Hence Truth says: *On these two commandments the whole Law depends and the Prophets*. If therefore you have not leisure to search through all the sacred Pages, to unroll all the wrappings of discourses; hold charity, on which all things depend», because it is the perfection and end of all. For then both the precepts and the counsels are rightly done, when they are referred to loving God and the neighbor for the sake of God. «But what is done from fear of punishment, or from some carnal intention, so that it is not referred to charity, is not yet done as it ought to be done, although it may seem to be done[^15]». «For he is an enemy of justice who does not sin from fear of punishment; but a friend, who does not sin from love of it». — «The sum of all therefore is this, that it be understood that the fullness of the Law and of all the divine Scriptures is the love of God and of the neighbor».
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, and reproduce the Quaracchi *NOTAE AD LIBR. SENTENTIARUM* footer blocks for pp. 789–790. Quaracchi restarts footnote numbering on each printed page; the entries are renumbered continuously here: p.789 [^1]–[^9]; p.790 [^10]–[^15].
+
+[^1]: **La.** Libr. VI. Comment. in Isai. 16, 12. et XV. 56, 1. — De caritate ut matre virtutum cfr. supra pag. 603, nota 7.
+    **En.** Book VI, *Commentary on Isaiah* 16:12, and book XV [on Isaiah] 56:1. — On charity as the mother of the virtues, cf. above page 603, note 7.
+
+[^2]: **La.** In Evang. Ioan. tr. 83. n. 3. Seq. loc. est Epist. 167. (alias 29.) c. 3. n. 11. quae est etiam Epist. 1. 12. n. 11. inter Epist. Hieronymi. Locus Scripturae est Rom. 13, 10. — Pro *magis inest vitium* codd. ACE *magis est vitium*; originale *maius* (ita et cod. D) *ut vitium.*
+    **En.** *On the Gospel of John,* tract 83, n. 3. The following passage is *Epistle* 167 (otherwise 29), c. 3, n. 11, which is also *Epistle* 1, 12, n. 11 among the Epistles of Jerome. The scriptural passage is Romans 13:10. — For *magis inest vitium* (the more is vice in [him]) codices ACE [read] *magis est vitium*; the original *maius* (so also codex D) *ut vitium.*
+
+[^3]: **La.** Cfr. Iac. 5, 11; II. Reg. 6, 22; de Moyse cfr. Num. 12, 3. Huic opinioni favet locus Hieronymi, I. Dialogus adv. Pelagian. n. 18. 19, ubi etiam ait, virtutes esse connexas *participatione,* non *proprietate.* Pro *emicuit* codd. ABE *eminuit,* codd. DC *enituit.*
+    **En.** Cf. James 5:11; 2 Kings 6:22; on Moses cf. Numbers 12:3. This opinion is favored by a passage of Jerome, book I, *Dialogue against the Pelagians,* nn. 18–19, where he also says that the virtues are connected *by participation,* not *by property.* For *emicuit* (shone forth) codices ABE [read] *eminuit,* codices DC *enituit.*
+
+[^4]: **La.** Epist. II. Cor. 1, 11; cfr. Lyranus in hunc locum. — Superius pro *memorat* codd. AD et Erf. *commemorat.* Pro *simul et pares* edd., exceptis 1, 8, *similes et pares.*
+    **En.** The Epistle 2 Corinthians 1:11; cf. Lyra on this passage. — Above, for *memorat* (mentions) codices AD and Erf. [read] *commemorat.* For *simul et pares* (together and equal) the editions, except 1, 8, [read] *similes et pares* (alike and equal).
+
+[^5]: **La.** Libr. VI. de Trin. c. 4. n. 6. — In quo textu pro *aequales sunt, quia* edd. 1, 8 *aequales sint, quia,* refragante etiam originali, deinde eaedem pro *non modo* habent *non solum.*
+    **En.** Book VI, *On the Trinity,* c. 4, n. 6. — In which text, for *aequales sunt, quia* (are equal, because) editions 1, 8 [read] *aequales sint, quia* (be equal, because), the original also resisting; then the same [editions], for *non modo* (not only) have *non solum* (not only).
+
+[^6]: **La.** Cfr. Hebr. 11, 8-12, 17-20; Rom. 4, 3. seqq.
+    **En.** Cf. Hebrews 11:8–12, 17–20; Romans 4:3 ff.
+
+[^7]: **La.** Edd., exceptis 1, 8, perperam praefigunt *ut* et connectunt quae sequuntur cum antecedente propositione. Locus Augusti. est in cit. Epist. 167. (alias 29.) c. 2. n. 7, sed multis hic omissis. Seq. locus ibid. c. 4. n. 14. 15.
+    **En.** The editions, except 1, 8, wrongly prefix *ut* and connect what follows with the preceding proposition. The passage of Augustine is in the cited *Epistle* 167 (otherwise 29), c. 2, n. 7, but with many things here omitted. The following passage [is] in the same place, c. 4, nn. 14–15.
+
+[^8]: **La.** Codd. CE et edd. 1, 8 cum Vat. *oculis,* refragante etiam originali, quod deinde pro *alius* ter habet *aliud* (scil. membrum). Infra post *aliam minus* edd. 1, 3, 6, 8 cum originali addidunt *habere virtutem.*
+    **En.** Codices CE and editions 1, 8 with the Vatican [edition read] *oculis* (by their eyes), the original also resisting, which then for *alius* (one) three times has *aliud* (another thing — namely, member). Below, after *aliam minus* (another less) editions 1, 3, 6, 8 with the original added *habere virtutem* (to have the virtue).
+
+[^9]: **La.** Vat. et edd., excepta 1, praefigunt *et ideo,* refragantibus codd. et originali. Deinde solae edd. post *uno homine* addunt *quidem.*
+    **En.** The Vatican [edition] and the editions, except 1, prefix *et ideo* (and therefore), the codices and the original resisting. Then the editions alone, after *uno homine* (in one man), add *quidem* (indeed).
+
+[^10]: **La.** Edd., exceptis 1, 8, *dicitur. Potest et,* refragantibus codd.
+    **En.** The editions, except 1, 8, [read] *dicitur. Potest et* (is said. And it can), the codices resisting.
+
+[^11]: **La.** Loc. cit. c. 5. n. 17, ubi respicitur Iac. 2, 10. Vulgata: *offendat;* codd. BE et edd. 1, 8 *offendit.*
+    **En.** The cited place, c. 5, n. 17, where reference is made to James 2:10. The Vulgate: *offendat;* codices BE and editions 1, 8 [read] *offendit.*
+
+[^12]: **La.** Dist. XXVII. c. 3. — Pro *praetaxatum* edd. 1, 8 *praetactum.* Deinde Vat. cum pluribus edd. *debuisse cessare* pro *debere cessare.* Respiciuntur loci Scripturae, Matth. 22, 40; deinde I. Cor. 10, 11; Colos. 2, 17; Act. 15, 28; Hebr. 10, 1.
+    **En.** Distinction XXVII, c. 3. — For *praetaxatum* (set forth before) editions 1, 8 [read] *praetactum* (touched before). Then the Vatican [edition] with most editions [reads] *debuisse cessare* (ought to have ceased) for *debere cessare* (have to cease). Scriptural passages are referred to: Matthew 22:40; then 1 Corinthians 10:11; Colossians 2:17; Acts 15:28; Hebrews 10:1.
+
+[^13]: **La.** Hic respiciuntur Exod. 20, 1; Matth. 5, 3. seqq. Cfr. Glossa Lyrani ad I. Tim. 1, 5. — Inferius ante *Omnia ergo* edd., excepta 2, propositionem claudunt adiiciendo *pertinent,* refragantibus codd., qui etiam omittunt *ad* ante *finem.*
+    **En.** Here reference is made to Exodus 20:1; Matthew 5:3 ff. Cf. the Gloss of Lyra on 1 Timothy 1:5. — Below, before *Omnia ergo* (All things therefore) the editions, except 2, close the proposition by adding *pertinent* (pertain), the codices resisting, which also omit *ad* before *finem* (the end).
+
+[^14]: **La.** Serm. 350. (alias 39. de Tempore) n. 2. Locus Scripturae est Matth. 22, 40.
+    **En.** *Sermon* 350 (otherwise 39, on the Season), n. 2. The scriptural passage is Matthew 22:40.
+
+[^15]: **La.** August., Enchirid. c. 121. n. 32. Seq. locus est eiusdem Epist. 145. (alias 144.) n. 4. Tertius I. de Doctr. christ. c. 35. n. 39.
+    **En.** Augustine, *Enchiridion* c. 121, n. 32. The following passage is the same author's *Epistle* 145 (otherwise 144), n. 4. The third [is] book I, *On Christian Doctrine,* c. 35, n. 39.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Chapter subjects.** DISTINCTIO XXXVI is Lombard's treatment *de connexione virtutum* — the connection and equality of the virtues, and how the whole Law depends on charity. Three chapters captured (**Cap. I–III**): **Cap. I** (*De connexione virtutum, quae non separantur*) asks whether the virtues are so joined that he who has one has all — affirmed via Jerome (*all virtues cohere*) and Augustine (*Ubi caritas est*), since charity is the mother of all virtues and *the fullness of the Law is charity*. **Cap. II** (*An cunctae virtutes pares sint, in quocumque sunt*) sets the question whether one possesses all the virtues equally: *Opinio 1* (some had more, some less — Job's patience, David's humility, Moses' meekness; the *multae facies* of 2 Cor. 1:11) vs. *Opinio 2 Magistri* (Augustine, *de Trin.* VI: all virtues are at once and equal; preeminence in one virtue is reckoned only *secundum usus exteriores*); a second Augustine passage (*Epist.* 167) is then reconciled by distinguishing *habitus/essentia* (all equal at once) from *actus* (one more, another less — the just man has continence *in habitu* not *in actu*). **Cap. III** (*Quomodo in caritate tota Lex pendet*) explains how the whole Law depends on the two precepts of charity: ceremonial precepts ceased *velut umbra* once the truth shone forth, but moral precepts and the spiritual sense of the ceremonial are all referred to charity (the decalogue → the two commandments; Augustine *Serm.* 350, *Enchirid.* — charity is the root and end of all; what is done from fear of punishment, not referred to charity, *nondum fit sicut fieri oportet*).
+
+**Provenance (PDF-priority inversion).** Latin re-set column-by-column from the 450 dpi PDF bands `/tmp/colcrop/vol3-p{789,790}-{L,R}-{0,1,2}.png` (read L column top→bottom, then R column; body bands then footer bands). The IA djvu OCR for this band (`raw/bonaventure_vol3_raw.txt`, raw 54769–54865) is a two-column cascade-shatter — the footer NOTAE in particular are heavily fragmented — and was used only as the base for clean running prose and exact `[^N]` marker spacing; all footer NOTAE blocks were read eyes-on from the PDF. Offset `pdf = printed + 22` (printed 789–790 = PDF 811–812). Running heads confirmed eyes-on: `789` (p.789 R-0) and `790 … SENTENTIARUM LIB. III.` (p.790 L-0/R-0). Editorial side-marginalia (*Ratio*, *Dubium 1–5*, *Opinio 1/2 Magistri*, *Augustinus*) are trimmed as editorial glosses, not Lombard's text.
+
+**Page-split map ([^N] → printed page).**
+- **p.789 (PDF 811):** `[^1]`–`[^9]`. Two-column body; Cap. I and the start of Cap. II in the L column, the bulk of Cap. II (the long Augustine *Epist.* 167 citation) spanning into the R column, ending mid-sentence `… in nemine». — Hic insi-`. Footer band split by column: **L footer-column nn.1–4 → [^1]–[^4]** (Hieron. in Isai. / In Ioan. tr. 83 + Epist. 167 / Iac. 5,11 + Hieron. Dial. / II Cor. 1,11 + Lyra); **R footer-column nn.5–9 → [^5]–[^9]** (de Trin. VI / Hebr. 11 / Epist. 167 c.2 *ut*-praefix variant / *oculis* variant / *et ideo* variant). Body markers: `Hieronymus¹`, `Augustinus²`, `Iob³`, `Apostolus⁴`, `Augustinus⁵` (L→R col); `Abraham fide⁶`, `Alibi⁷`, `locis⁸`, `recte⁹` (R col).
+- **p.790 (PDF 812):** `[^10]`–`[^15]`. Body opens L column `nuari videtur …` (continuing p.789-R `Hic insi-`), runs Cap. II tail + all of Cap. III, the littera ending in the R column at `… esse dilectio Dei et proximi».` Footer band: **L footer-column nn.1–4 → [^10]–[^13]** (*dicitur. Potest et* variant / Iac. 2,10 *offendat* / Dist. XXVII c.3 + Matth. 22,40 / Exod. 20,1 + Matth. 5,3); **R footer-column nn.5–6 → [^14]–[^15]** (Serm. 350 / Enchirid. c.121 + Epist. 145 + de Doctr. christ.). Body markers `potest¹⁰`, `omnia¹¹` (L col, Cap. II tail); `praetaxatum est¹²`, `referuntur¹³`, `Augustinus¹⁴`, `videatur¹⁵` (Cap. III, L→R col).
+
+**Boundary / footer hand-off.** The littera body stops cleanly on p.790 R-col at `… esse dilectio Dei et proximi».`, confirmed eyes-on against `vol3-p790-R-1.png`. The **COMMENTARIUS IN DISTINCTIONEM XXXVI.** header (subtitle *De connexione habituum gratuitorum*, incipit *Solet etiam quaeri, utrum virtutes etc.*, then `DIVISIO TEXTUS.`) begins below it at **raw line 54870** — that block and everything after it belong to **`d36-divisio`**. A **separate NOTAE AD COMMENTARIUM** footer family begins in the p.790 **R footer-column** immediately below the littera's NOTAE AD LIBR. SENTENTIARUM n.6 (`NOTAE AD COMMENTARIUM. ¹ Supra d. 23, divis. textus. ² Plurimi codd. perperam reducantur.`) — this COMMENTARIUM family cites the COMMENTARIUS / DIVISIO TEXTUS body and is the **`d36-divisio` chunk's own footer**, NOT a forward of a NOTAE AD LIBR. SENTENTIARUM note. **Nothing is parked here for the divisio** from this littera's apparatus family; **FORWARD the p.790 NOTAE AD COMMENTARIUM nn.1–2 ff. to `d36-divisio`** (claim them as the divisio's opening footer sequence).
+
+**`d36-divisio` forward aid (verbatim — do NOT rechunk here).** p.790 R-col already shows the divisio opening: `COMMENTARIUS IN DISTINCTIONEM XXXVI. — De connexione habituum gratuitorum. — Solet etiam quaeri, utrum virtutes etc. — DIVISIO TEXTUS. Pars ista, in qua Magister agit de habitibus gratuitis, secundum quos habemus conformari Christo, divisa fuit in partes duas. In quarum prima agit de his quantum ad distinctionem. In secunda quantum ad connexionem. … In qua prima determinat Magister de virtutum connexione. In secunda vero de aequalitate, ibi: Utrum vero pariter quis omnes possideat virtutes etc. In tertia vero omnia opera praeceptorum et virtutum docet reducere ad caritatem, ibi: Cum duo sint praecepta caritatis etc.` Per the resume slate, d.36 = single articulus, 6 questions: `littera(✅) · divisio · a1-q1..q6 · dubia`. The divisio's own footer is the **NOTAE AD COMMENTARIUM** band beginning p.790 (claim p.790 COMMENTARIUM nn.1 ff.); bound the divisio forward at the first `QUAESTIO I.` (the six-question TRACTATIO + the ARTICULUS opener fold into the divisio per convention).
+
+**`[?]` flags.** None. All body readings and all 15 NOTAE entries were confirmed against the 450 dpi PDF bands (pp.789–790 legible; the OCR-shattered footer regions were re-set eyes-on from the PDF, per the Vol II/III PDF-priority inversion).
