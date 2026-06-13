@@ -4,494 +4,474 @@ volume: 3
 book: 3
 distinctio: 37
 type: dubia
-line_start: 57563
-line_end: 58032
-word_count_latin: 6648
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Dubia circa litteram Magistri"
+title_en: "Doubts concerning the text of the Master"
+printed_pages: [829, 830, 831, 832, 833, 834, 835, 836]
+pdf_pages: [851, 852, 853, 854, 855, 856, 857, 858]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 829–836"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (pp.829–836, raw lines 57563–58032) with IA djvu OCR base for clean prose, fresh literal English translation, full apparatus from PDF footer bands (62 entries: p.829 n.9 → [^1]; p.830 nn.1–10 → [^2]–[^11]; p.831 nn.1–9 → [^12]–[^20]; p.832 nn.1–8 → [^21]–[^28]; p.833 nn.1–10 → [^29]–[^38]; p.834 nn.1–5 → [^39]–[^43]; p.835 nn.1–11 → [^44]–[^54]; p.836 nn.1–8 → [^55]–[^62]) (2026-06-13)"
 format_version: 1
 ---
 
 # bon-sent-III-d37-dubia
 
+## *Dubia circa litteram Magistri (Dist. XXXVII)*
+
+---
+
 ## Latin
+<!-- page 829 -->
 
-DUBIA CIRCA UTTERAM               MAOISTRI.
-                                                                                                                         ■
-                                         Dub.                                     dinem , quam habet in anima; sed « nihil est in in-
-                                                                                  telleclu, quod [irius non fnerit in sensu 9 » : nihi!
-                 In parte isla sunt qnaestiones circa litteram, et                autem est in sensn, quod non fuerit in re extra :
-           primo qii.ierilur de bis quae dicuntur in explicalione                 ergo videlur, quod idolum nullum sit, quod noti
-           primi mandati. Dicil enim Origenes, quod idolum                        habeat similitudinem in rebus exterioribus. — Iteni .
-           est quod nihil h.abel simile sui. Hoc enim videlur                     videtur falsum dicere in hoc quod subdit, quod ido-
-           esse falsum. quia idoluni est fabricatum ab arlifice.                  Inm nihil est, quia nihil hhb&t similr: quoniam, si
-           artifex autem non fabricat nisi secundnm similitu-                     aliquis artifex faril ;i lii jikxI iioviim. riiius. noii i\-i
+# DUBIA CIRCA LITTERAM MAGISTRI.
 
+### Dub. I.
 
-                1 Quaesl. I.                                                            6 Vidc supra         lil. MagiSlri , d. XXVII.     c. 4. seqq. el d.
-                    ■ Quaeet. 74. n. 2, ubl icxms originalis, poaito cnnyruen-    X.wiii. e. I. —           Paulo inferius pro ideo non oportuit cod. A
-                                                                                  iilm nini njiiiiitliil.
-           Uus pra aonvemmttw ao I innnuara BiOiproaeqoliar: diligen-
-           liu^ hituentlbue. Bt n vci.i quod dlGtum csi... curn prohibeaM               ' Cfr. ijiuicsi. praeoedi -- • Cod.       K   proaequitur mslttkem
-           i:iili'iiil;i ilgmenla.                                                milrni i/icn, i/iiiic ml iillrriliu rlr.
-                   3 Poii . Comestor. loc. elt.: Porte rjuia Auguatirma velolt,         " Vide sciiniiuii ini i. iiuiiis BiHculi quaest.
-           trJa pertinere ad dilaclloneni Det, el nptera ad dilectionem pro-            ' De hoc axlomate cfr, i             II. pagt 'Mi, nota 2. — In
-           ximi, |ii" dignitaU potlns rjuam pro scriptwa dlxlt, ea esse           praposlt. praecedsnll ratlo haberl vldetur niius defl         ij
-           iimii.ii el ecundae labulae, sicutdicere aontncvimua nopiinei          pluris stve mIcii.i. < p i.i. ■ occurrli in 9enecae Eplst. 6$, ubi di-
-           i        i' cln i el secundae. Quocumque vero modo iiisiinguan-        ciinr. esempJare esai «ad quod nwpidlena artifexM quod de-
-           (iir , i<l          nsus.                                              -nM.iioi, ciiccii... Cfr, i,,iii. i. paa> 600, aola ~i. — Hox pro
-                  4 Cfr. supra in. M.i^-i-iri, ii. wxvi. a '). — Aliquanto In-    iii ir r.iiril COd. \ iii rr r.rislrnlr  cl |i;mli, llll.Tliis pro llillliill.
-                                                                                  quod cst in cmiii. ai,k/. hii ci ciii. i, >. in aliig Imlici.
-           fei lus pro mtmvabantur i odd. 0 HK i. T v '/. m h\< mtmuabanA
-                5 Bdd, tpeoulcmU.
-         830                                                SENTENTIARUM LIB. III.
+In parte ista sunt quaestiones circa litteram, et primo quaeritur de his quae dicuntur in explicatione primi mandati. Dicit enim Origenes, quod *idolum est quod nihil habet simile sui.* Hoc enim videtur esse falsum, quia idolum est fabricatum ab artifice, artifex autem non fabricat nisi secundum similitudinem, quam habet in anima; sed « nihil est in intellectu, quod prius non fuerit in sensu[^1] »: nihil autem est in sensu, quod non fuerit in re extra: ergo videtur, quod idolum nullum sit, quod non habeat similitudinem in rebus exterioribus. — Item, videtur falsum dicere in hoc quod subdit, quod idolum nihil est, quia *nihil habet simile:* quoniam, si aliquis artifex facit aliquod novum, cuius non est reperire similitudinem extra, non propter hoc non est aliquid. — Item, omne artificiatum est aliquid; sed idolum est artificiatum: ergo est aliquid. Quomodo ergo dicitur, quod idolum nihil est? — Item, facere idola et sculptilia, hoc est solum artificum: ergo videtur, quod mandatum illud non se extendat nisi ad artifices.
 
-              reperire sirailitudinem extra, non propter hoe non                  Ad illud quod obiicitur, quod illud praeceptum
-              est aliquid. — ltem , omne artificiatum est aliquid ;         videtur solum pertinere ad arlifices; dicendum, quod
-              sed idolum est arlificiatura : ergo est aliquid. Quo-         in verbo illo Dominus non solum intendit prohibere
-              modo ergo dicitur, quod idolum nihil est? — ltem,             idoli fabricationem , sed omnem idoli venerationem ;
-              facere idola et sculptilia , hoc est solum artificum :        et in hoc etiam includit, quod vult, omnem latriae
-              ergo videtur, quod mandatum illud non se extendat             cultum sibi soli deferri, et ideo praemiltitur 5: Deus
-              nisi ad artifices.                                            tuus Deus unus est; unus enim solus Deus et verus
-                    Respondeo: Dicendum, quod Dominus in man-               est adorandus. Unde praeceptum illud plus habet KoumdQm.
-              dato primo praecipit, se adorari et se solum ado-             affirmationis quam negationis. Nec implet illud raan-
-              rari; ideo praecipit latriam et prohibet idololatriam.        datum quis, si soluramodo desistat ab idololalria ,
-Dapiei ido- Et quoniam idololatria dupliciter consuevit apud an-            quia ibi praecipitur adoratio, quae soli Deo est
-              tiquos commilti : vel in hoc, quod fingebant novam            exhibenda. — Quid sit autem illa adoratio, et qua-
-              sculpturam , cuius non erat reperire omnino simile            liter et cui sit exhibenda ; hoc haberi potest ex his
-              exCra, ut ostenderetur, quod specialis et singularis          quae supra detenninala sunt distinctione nona 6, ubi
-              cultus esset ei exbibendus; vel quando fiebat aliqua          quaesitum est de latria. Et ex his quae hic tangun-
-              imago, quae esset repraesentatio alicuius rei extra ,         tur et ibi dicta sunt, aliqualiter potesl haberi primi
-              quam quis crederet in illa imagine esse venerandam:           mandati recta intelligentia.
-              ideo, ut haec duo prohibeat, tangit illa duo in pro-
-              hibitione idololatriae , secundum quod Magister dicit                                     Dub. II.
-              in liltera1.
-                   Ad illud vero quod obiicitur, quod nihil est in                Item quaeritur de his quae dicuntur in expo-
-             jmiina, quod prius non fuerit susceptum a sensu;               sitione secundi mandati , quod sic exponit Magister:
-              dicendum, quod illud verbum intelligendura est,               Non assumes nomen Dei tui in vanum ; quod est
-              quod anima non habet aliquam simililudinem, quam              dicere secundum litleram: non iurabis pro nihilo
- Noumdom. non susceperit ab extra vel secundum totum, vel                   nomen Dei. Sed contra hoc obiicitur: quia illud vide-
-              secundura parlem-. Cum ergodicitur, quod forma                tur pertinere ad quinlum niandatum secundae tabu-
-              idoli non habet similitudinem extra; hoc intelligitur         lae,ubi prohibetur perinrium7: ergo videtur.quod
-              secundum totum, habel tamen seeundum partem,                  vel illud mandatuni, vel istud sit superfluum. —
-              sicut patet de chimaera et hircocervo et monte au-            Item, «vanumest, ut dicit Philosophus 8, quod non
-              reo. Anima enira facit novas compositiones , licet            includit finem, ad quem est »; talis aulem est sermo
-              non faciat novas res 3; et secundum quod fingit               otiosus, ex quo nullus sequitur fructus: ergo vide-
-              interius, sic etiam depingit et sculpit exterius.             tur, quod quicumque nominat Dominum in verbis
-                    Ad illud quod obiicitur, quod idolum non de-            otiosis. cum assumat nonien Dei in vanum, faciat
-              bel dici nib.il, immo aliquid, cum sit artificiatum ;         contra illud mandatum: ergo peccat mortaliter. Si
-  Distinctio. dicendum , quod dupliciter est loqui de idolo: aut            tu dicas , quod non intelligitur de quacumque as-
-              quantum ad materiam et figuram, quam sibi arti-               sumtione, sed de assumtione in iuramento; obiicilur
-              fex imprimit, aut quantum ad divinitatis excellen-            contra hoc , quod ' si quis iurat in communi ser-
-              tiam, quam ipsi idolo idololatra credendo attribuit.          mone . ubi non est necessitas vel ulilitas , facit
-              Primo modo dicitur, nihil esse in mundo, ab Ori-              conlra illud mandatran : ergo peccabit mortaliter
-              gene, non quia nihil oninino sit in se ipso, sed quia         scienter iurando; quod videtur valde absurdum. —
-              nihil habet sibi simile correspondens in universo.            Iteni, obiicitur contra secundara expositionem , quam
-              Quantum autem ad excellenliam divinitalis , quam              ponit Magister, cum subdit: « Allegorice praecipitur,
-              ei idololatra assignat , oranino nihil est nisi in sola       ut non putes, esse crealuram Dei Filium»; quia.
-              fictione et falsa aestimatione idololatrantis, quae o-        cum multipliciter contingat errare circa Filium, non
-              mnino super vanum et nihil fundala est. quia idolum           solum sicut erravit Arius, sed etiam sicut erravit
-              nihil omnino habet divinitatis4.                              Sabellius "': videlur, quod non solum illa haeresis,
+<!-- page 830 -->
 
+**Respondeo:** Dicendum, quod Dominus in mandato primo praecipit, se adorari et se solum adorari; ideo praecipit latriam et prohibet idololatriam. Et quoniam idololatria dupliciter consuevit apud antiquos committi: vel in hoc, quod fingebant novam sculpturam, cuius non erat reperire omnino simile *extra,* ut ostenderetur, quod specialis et singularis cultus esset ei exhibendus; vel quando fiebat aliqua imago, quae esset repraesentatio alicuius rei *extra,* quam quis crederet in illa imagine esse venerandam: ideo, ut haec duo prohibeat, tangit illa duo in prohibitione idololatriae, secundum quod Magister dicit in littera[^2].
 
+Ad illud vero quod obiicitur, quod nihil est in anima, quod prius non fuerit susceptum a sensu; dicendum, quod illud verbum intelligendum est, quod anima non habet aliquam similitudinem, quam non susceperit ab extra vel secundum totum, vel secundum partem. Cum ergo dicitur, quod forma idoli non habet similitudinem extra; hoc intelligitur secundum totum, habet tamen secundum partem, sicut patet de chimaera et hircocervo et monte aureo. Anima enim facit novas compositiones, licet non faciat novas res[^3]; et secundum quod fingit interius, sic etiam depingit et sculpit exterius.
 
-               1 Hic c. I. — Pro dicit eod. bb tangit. Paulo superius       30. per lotam; B. Alberl., hie a. o: S. Thom. et Richard.         a
-          verbo venerandum cod. A prnemiuil primo.                          Med., hic circa lit.; Petr. a Tar., hic q. 2. a. I.
-                                                                                 ' Cfr. infni dub. 8.
-               2 Cfr. II. Sent. d. 39. a. I. q. 2. in fine.
-               3 Edd. falso Anima enim facit novas res-.                          8 Libr. II. Phys. text. 62. (c. 6.), quem locum Averroes
-               4 Cfr. hic lit. Magistri, c. I. seq.                         sic exponit: Oliosa est illa causa, a qua non invenilur eius finis.
-               5 Exod. 20, 2: Ego sum Domimis Deus luus. Eadem verba        — Gregor., VII. Jloral. c. 17. n. 38: Otiosum quippe verbum
-          habentur Deut. S, 6; sed Deut. 6, i: Dominus Deus noster,         est, quod aut ratione iustae necessitatis aut intentione piae
-          Dominus unus est. — De proposit. seq. cfr. supra a. 2. q. 2.      utililatis caret.
-          ad 5. — Paulo ante pro omnem lalriae cullum codd. A G H                 9 Itn codd. A G K N T na, in aliis et edd. quia.
-          I K T V aa honorem latriae.                                             10 Cfr. supra d. 10. dub. •{. nec non d. 3. a. 2. q. 2. in
-               6 Arl. I. et 2. — Superius pru Quid sit cod. K Quae sit.     fine corp. — Mox pro deberent cod. F debeant.
-          — De hoc dubio cfr. Alex. Hal., S. p. II. q. 160. el p. III. q.
-                                                                                 DIST. XXXVII. DDBIA.                                                                       831
+Ad illud quod obiicitur, quod idolum non debet dici nihil, immo aliquid, cum sit artificiatum; dicendum, quod dupliciter est loqui de idolo: aut quantum ad materiam et figuram, quam sibi artifex imprimit, aut quantum ad divinitatis excellentiam, quam ipsi idolo idololatra credendo attribuit. Primo modo dicitur nihil esse in mundo, ab Origene, non quia nihil omnino sit in se ipso, sed quia nihil habet sibi simile correspondens in universo. Quantum autem ad excellentiam divinitatis, quam ei idololatra assignat, omnino nihil est nisi in sola fictione et falsa aestimatione idololatrantis, quae omnino super vanum et nihil fundata est, quia idolum nihil omnino habet divinitatis[^4].
 
-            sed etiam aliae deberent prohiberi. — Item, fides                                     nominis Dei, ubi nulla est necessitas vel ntilitas ex-
-            Trinitatis non erat tempore Legis omnibus explicita ' :                               pressa, non omnino caret culpa, immo valde est
-            si ergo omnes tenebantur ad omnia mandata Deca-                                       reprehensibilis, maxime in viris perfectis, sicut me-
-            logi, videtur, quod nihil praecipiebatur, quod specta-                                lius patebit infra 5, cum agetur de iuramento et per-
-            ret ad aliquam personam determinate.                                                  iurio , ubi clarius manifestatur intelligenlia huius
-                  Respondeo: Dieendum , quod sicut per primum                                     secundi mandati.
-            mandatum ordinatur homo respectu summae Maiesta-                                            Ad illud quod obiicitur contra secundam expo-
-            tis, quae appropriatur Patri, sic etiam per secundum                                  sitionem, dicendum, quod, secundum quod ipse Ma-
-            ordinatur homo respectu summae Veritatis, quae ap-                                    gister dicit, expositio illa data est per allegoriam et
-            propriatur Filio. Ordinatio autem ista attenditur in                                  expositionem quandam. Unde et in exclusione illius
-            ipsius Veritatis confessione sine alicuius falsitatis                                 erroris per consequens intelliguntur alii excludi; nec
-            admixtione, ita quod nec de ipsa falsum credatur,                                     respicit omnem statum, sed statum fidei manifesta-
-            nec ipsa ad conGrmandum falsum assumalur. Unde                                        tae et propalatae \
-            prohibetur in mandato illo secundum litteralem sen-                                                                     Dub. III.
-            sum falsitas iurationis per nomen Dei, secundum
-            spiritualem vero prohibetur falsitas erroris circa
-            Gdem Veritatis. Et his duobus modis Magister in lit-                                        Item quaeritur de hoc quod dicit in expositio-
-            tera 3 exponit secundum litleram et secundum al-                                      ne tertii mandati: Memento , ut diem Sabbati san-
-            legoriam.                                                                             ctifices ; ubi secundum litteram praecipitur Sab-
-                  Ad illud ergo quod obiicitur, quod periurium                                    bati observanlia. Sed contra hoc obiieitnr: quia Sab-
-            est contra qnintum mandatum secundae tabnlae ;                                        bati observanlia est caerimonialis, secundum quod
-            dicendum , quod duo est eonsiderare in falso testi-                                   dicitur in Ezechiele': Dedi eis Sabbata mea, ut sint
-            monio, unum videlicet, quod fll iniuria summae Ve-                                    in signum inter me et eos : ergo videtur , quod
-            ritati,.quae in falsum testimonium advoeatur; aliud,                                  inter moralia non deberet praecipi Sabbati observan-
-            quod flt iniuria proximo, qui ex falso testimonio                                     lia. — Item, moralia praecepta semper manent; sed
-            damniflcatur3. Et ratione primi prohibetur periurium                                  Sabbati observanlia est evacuata: ergo videtur, quod
-            in secundo mandato primae labulae; ratione secundi                                    Sabbati observantia non debuit praecipi inler man-
-            in quinlo mandato secundae.                                                           data moralia \ Si dicas , quod observantia Sabbati
-                  Ad illud quod obiicitur. quod vanum est illud                                   commutata fuit in diem dominieum: quaeritur: quare Qoaestioi.
-Dopiei v.i- quod frustra fit; dicendum, quod aliquando est quid                                   in aliam diem mutata fuit ? — Item , si mutata est
-            vanum, quantum est <le se et de propria intentione,                                   Sabbati observanlia in Dominicam ; cum Iudaei tene-
-            aliquando est aliquid vanum ex accidenti \ Tunc                                       rentur in Sabbato non ambulare \ videtur, quod pec-
-            aulem nomen Dei assumitur in vanum, quando as-                                        cant qui in diebns dominicis ilinerantur.
-wotandom. sumilur ad confirmationem alicuius sernionis, qni,                                             Iuxta hoc etiam quaeritur, a quibus cessandum ooaestio».
-            quantum est de se, non est ordinatus ad aliquam                                       sit in diebus dominicis et solemnibus. — Quaeritur Quaestio 3.
-            utilitatem, sicut ad confirmationeni sermonis falsi :                                 etiam : propter quid in isto mandato mutatur modus
-            et qui hoc modo assumit peccat conlra illud man-                                      loquendi , et dicitur memento magis quam in alio
-            datum. Quando vero assumitur ad conflrmationem                                        mandalo, cum illa mandata ita bene debeant haberi
-            alicuius veri, quamvis sermo ille sit otiosus; lamen                                  in memoria, sicut et illnd ?
-            assumtio illa non est usquequaque in vanum , quia                                            Respondeo: Dicendum, quod in mandalo Sahbali
-            ordinatur ad hoe. ut quis adhibeat fidem verbo lo-                                    erat duo considerare, videlicet cessationem ab opere naam hoc
-            quenlis, quam etsi quis non assequatur in altero,                                     servili, ut homo Deo libere vacaret et intenderet;
-            non tamen omnino operalur frustra , sicut nec rhe-                                    aliud erat ibi eonsiderare. videlicet significationem
-            tor, si per compositos et ordinatos sermones non                                      diei et delerminalionem operum exterioi-um, a qui-
-            semper persuadeat. — ■ Verumtamen frequens iuratio                                    bus erat cessandum. Quanluin ad primum, tnanda- d9 primo.
+Ad illud quod obiicitur, quod illud praeceptum videtur solum pertinere ad artifices; dicendum, quod in verbo illo Dominus non solum intendit prohibere idoli fabricationem, sed omnem idoli venerationem; et in hoc etiam includit, quod vult, omnem latriae cultum sibi soli deferri, et ideo praemittitur[^5]: *Deus tuus Deus unus est;* unus enim solus Deus et verus est adorandus. Unde praeceptum illud plus habet affirmationis quam negationis. Nec implet illud mandatum quis, si solummodo desistat ab idololatria, quia ibi praecipitur adoratio, quae soli Deo est exhibenda. — Quid sit autem illa adoratio, et qualiter et cui sit exhibenda; hoc haberi potest ex his quae supra determinata sunt distinctione nona[^6], ubi quaesitum est de latria. Et ex his quae hic tanguntur et ibi dicta sunt, aliqualiter potest haberi primi mandati recta intelligentia.
 
+### Dub. II.
 
+Item quaeritur de his quae dicuntur in expositione secundi mandati, quod sic exponit Magister: *Non assumes nomen Dei tui in vanum;* quod est dicere secundum litteram: *non iurabis pro nihilo nomen Dei.* Sed contra hoc obiicitur: quia illud videtur pertinere ad quintum mandatum secundae tabulae, ubi prohibetur periurium[^7]: ergo videtur, quod vel illud mandatum, vel istud sit superfluum. — Item, « vanum est, ut dicit Philosophus[^8], quod non includit finem, ad quem est »; talis autem est sermo otiosus, ex quo nullus sequitur fructus: ergo videtur, quod quicumque nominat Dominum in verbis otiosis, cum assumat nomen Dei in vanum, faciat contra illud mandatum: ergo peccat mortaliter. Si tu dicas, quod non intelligitur de quacumque assumtione, sed de assumtione in iuramento; obiicitur contra hoc, quod[^9] si quis iurat in communi sermone, ubi non est necessitas vel utilitas, facit contra illud mandatum: ergo peccabit mortaliter scienter iurando; quod videtur valde absurdum. — Item, obiicitur contra secundam expositionem, quam ponit Magister, cum subdit: « *Allegorice praecipitur, ut non putes, esse creaturam Dei Filium* »; quia, cum multipliciter contingat errare circa Filium, non solum sicut erravit Arius, sed etiam sicut erravit Sabellius[^10]: videtur, quod non solum illa haeresis,
 
-               1 Vide supra d. 25. a, I. q. 2. in corp. — Qunail conctB-                          Albert., hic. o. 6; S. Thuni.,          hic circa lil.; PetP. a Tai\, hlc
-         -i    iii i ir. quae Btipn •!■ 3. q. I. El 2. in corp. diein snnt de                     i|. S. a. 2.
-         relauone Irium primnriun Dccnlngi                   pracceptorum        ad trea pcr-           7 Cap. 20, 12, ubi VUtgBta ut essmt siiiniiin pro nl sitil
-         ;iin.i< ilivmns,    i|u.ir n-lnlii. eliaui        infr.i in sulut.    rcspiciiur.        in siijnitiu. Pro Hzrrliiflr edd. ciun plurimis coilil. pcrprian
-              2 llic ,-. 1. —       l'i'i jiilfut   Yrriliilis      Val. fiilfi rrriltilrm.       Osee.
-               3 Cfr. infra tl. 39. a. I. i|. 2. in COTp. —                   Pauln Buperros              • Scciuiiliini llesychiinn, iu Lcvil. -20, 96. Ctr. supra sclin-
-         pro advoeatur codd. UZ inwcatur, d paulo Inferiua pro m-                                 linn ail n. 2. q. 3. — Infcrius pru tilintn COd. K illtini, ctW.
-         linni' xftuiitli nnl.     \ rfsfirtln sftnnili.                                          niiuiu, qtwe at Bublnde verbo fUt praeSgunl non.
-               * Vel commulalla »orbto: vanum est aliquld aliqaando for-                                  ■' Cfr. Matlh. 21, 20. Sabhatn cnim, ul licila in iilml
-         imilttrr , ;iliiiii;iiirlii itiiilrriiililrr. —      Mnx     cild.   uiiiilliuil verbn   Vd       1,43: Snlitiu/i linlirns ilrr, aniniailvcriil , iuxla Legem |>l 1 1 -~
-         'im quantum        est. . sermonis.                                                      ipiain niillr pmnu        inrrilrrr nnn Ifoebat —        Hox prO itnirnni
-               '- Dist. V.l. — Supcriiis prn pri mtiilrnt cml. \ prrsuwlet.                       lur nlil. tiniliiilttnl , ri ilriu pro siilriiiniliits ™tl,      ,\ K I' /. sn-
-               • De hoc rlulii.i cfr. Atex. iiai., S. p. III. q. Bl. m. I; B.                     lemnitntilins.
-         832                                                    SENTENTIARUM LIB. III.
+<!-- page 831 -->
 
- Noiandnm. tum de Sabbato erat morale; hoc enim omni tem-                         terrena negotia, quae animam distrahunt, ne Deo
-            pore Dominus ' requisivit, ut homo sibi habitaculum                   intendat. Unde illa opera praecipue inhibentur abAda.qoaesu
-            cordis praepararet et eidem aliquando vacaret, ut                     ipsa Ecclesia; et talia dicuntur opera servilia, illa
-            per dilectionem eidem adhaereret; et quantum ad                       maxime, in quibus homo inhiat terrenis lucris, et
-            hoc non tantum erat morale , sed etiam quodam                         quae sunt praeter necessaria 5, per quae anima ma-
-            modo faciebat ad aliorum moralium integram im-                        xime detinetur circa haec inferiora, ne se nec Deum
-                                                                                  suum recolat.
-            pletionem, quia, dum homo vacat sibi et Deo, me-
-            lius cognoscit, quid agendum, et quid fugiendum \ Et                        Nec tantum huiusmodi opera servilia prohiben-
-Ad3.quaest. propterea isti mandato specialiter praemittitur memen-                tur, immo magis et diligenlius opera carnalia, sicut
-            lo, quia in eius memoratione cetera memorantur.                       ebrietates, lites et iurgia, quae maxime libertati spi-
-                  Aliud vero est ibi diei significatio et delermi-                ritus repugnant. Et hoc est quod dicit Augustinus in
-De secumio. natio operis ; et quantum ad hoc caerimoniale est                     libro de Decem Chordis6: « Dicitur tibi, ut spiritua- sotandom.
-            et figurale significans, a quo cessandum est: quo-                    liter observes Sabbatum , non quomodo ludaei obser-
-            niam ab opere peccati3; et quid credendum et exspe-                   vant carnali otio ; vacare enim volunt ad nngas
-            c.tandum videlicel quies passionis Christi in sepul-                  atque luxurias suas. Melius enim faceret Iudaeus in
-            cro. Et quantum ad hoc reponi habet inter caeri-                      agro suo aliquid ulile, quam in theatris seditionibus
-            monialia. Et haec esl ratio, quare mandatum illud                     insisteret. Et melius feminae eorum in die Sabbati
-            frequentius in Lege exprimitur quam aliquod alio-                     lanam facerent, quam tota die in neomeniis suis
-            rum, quia secundum diversas sui conditiones spectat                   impudice saltarent ». Hoc autem dicit Augustinus,
-            ad diversa genera mandatorum. Uode aliquando                          non quia non sit cessandum in diebus solemnibus a
-            nominatur inter caerimonialia et aliquando inter                      negotiis actuum exteriorum , sed quia ipsi sacerdotes
-            moralia; et in quantum morale est, manet in Lege                      et praelati Ecclesiae, quorum est huiusmodi festa in-
-            nova ; in quantum caerimoniale , evacuatum est,                       dicere et determinare, quomodo et qualiter sit ces-
-            verilate adveniente. Unde observantia Sabbati eva-                    sandum ab exteriori opere, magis debent revocare '
-            cuata est in Lege nova.                                               ab his quae maiorem peccandi praebent occasionem.
-                  Observantia vero diei dominicae et aliarum so-                   Unde propter vitandum otium vel ineptum solatium ,
-Adi.qnaest.  lenmitatum alia causa     est introducta,   videlicet in              dicit Augustinus, quod exercere magis se debent in
-ralionestres. .                   .             .
-            memoriam beneficn redemptionis et in praefigura-                       operibus pietatis et misericordiae, quam negotiis
-             tionem fulurae resurrectionis * et in amotionem er-                   inordinatis et lascivis intendere. Propter quod in die-
-            roris: quia secundum gentiles dies dominicus pri-                      bus illis debent ecclesias frequentare, Missas audire,
-            mus est, cum in principio illius diei incipiat domi-                   beneficia Dei recolere, verba praedicationis audire
-            nari principalis planeta, utdicunt, scilicet sol; pro-                 et spiritualibus documentis se ipsos imbuere; et hoc
-             pter quod vocabant eum diem solis et exhibebant                       est Deo sabbatizare. — Per hoc potest ad obiecta
-            ei venerationem. Ut igitur ille error excluderetur ,                   responderi, et aliqualis intelligentia haberi de prae-
-             et reverentia cultus soli Deo exhiberetur, praefixa                   diclo mandato. De cessatione vero Sabbati et aliorum
-             fuit dies dominica , in qua populus christianus spe-                  caerimonialium aliquid habetur in quarto libro, di-
-             cialiter vacaret ad cultum Dei et praetermitteret                    stinctione tertia s.
+sed etiam aliae deberent prohiberi. — Item, fides Trinitatis non erat tempore Legis omnibus explicita[^11]: si ergo omnes tenebantur ad omnia mandata Decalogi, videtur, quod nihil praecipiebatur, quod spectaret ad aliquam personam determinate.
 
+**Respondeo:** Dicendum, quod sicut per primum mandatum ordinatur homo respectu summae Maiestatis, quae appropriatur Patri, sic etiam per secundum ordinatur homo respectu summae Veritatis, quae appropriatur Filio. Ordinatio autem ista attenditur in ipsius Veritatis confessione sine alicuius falsitatis admixtione, ita quod nec de ipsa falsum credatur, nec ipsa ad confirmandum falsum assumatur. Unde prohibetur in mandato illo secundum litteralem sensum falsitas iurationis per nomen Dei, secundum spiritualem vero prohibetur falsitas erroris circa fidem Veritatis. Et his duobus modis Magister in littera[^12] exponit secundum litteram et secundum allegoriam.
 
+Ad illud ergo quod obiicitur, quod periurium est contra quintum mandatum secundae tabulae; dicendum, quod duo est considerare in falso testimonio, unum videlicet, quod fit iniuria summae Veritati, quae in falsum testimonium advocatur; aliud, quod fit iniuria proximo, qui ex falso testimonio damnificatur[^13]. Et ratione primi prohibetur periurium in secundo mandato primae tabulae; ratione secundi in quinto mandato secundae.
 
-                1 Plurimi codd. inserunl ab homine, superflue.                    Etymolog. c. 30. n. 5. seqq. Nicephor., VII. Eccles. hislor. c.
-                - Pro fugicndum, quam lectionem cod. A custodivit, alii           46, ait: Diem eum, quem ludaei primum numerarunt, et Graeci
-          codd. el edd. faciendum, cod. K nm faciendum. Paulo ante                soli dicarunt, dominicum appellavit [Constanlinus] elc; cfr. ta-
-          pro implelionem cod. F perfectionem.                                    men Apoc. I, 10.
-                3 Opus peccati servile dicitur, quia, ut Ioan. 8, 34. dicit,            5 Edd. praeler necessitatem. Superius pro specialiter va-
-          omnis qui facit peccalum, servus est peccali. Cfr. August. ,            caret ad cultum edd. vacaret cultui.
-          Serm. 33. (alias 18. de Diversis) c. 3. n. 3. — August., IV. de               6 Sive Serm. 9. (alias 96. de Tempore) c. 3. n. 3 , in quo
-          Gen. ad lit. c. II. n. 21. ait: Et dici quidem probabiliter po-         dicto pro quam in theatris [plures codd. theatricis] seditionibus
-          test, observandum Sabbatum ludaeis fuisse praeceptum in um-             insisterel lextus origin. exhibet quam in theatro sediliosus exi-
-          bra futuri, quae spiritualem requiem figuraret, quam Deus               steret, et pro in neomeniis [codd. W Y choreis} suis profert
-          exemplo huius quielis suae [scil. post creationem] fldelibus            in menianis suis; quod vocabulum August. etiam usurpavit in
-          bona opera facientibus arcana signiflcatione pollicebatur. Cuius        exposit. in Evang. loan. tr. 3. n. 19, ubi de eadem re fere
-          quietis et ipse Dominus Chrislus, qui rion, nisi quando voluit, pas-    iisdem verbis loquitur uti hic; in quem loc. Maurini annotant:
-          sus est, eliam sepultura sua mysterium confirmavit. Ipso quippe         Edili neomeniis, corrupte pro menianis, quod nostri omnes mss.
-          die Sabbati requievil in sepulcro eumque totum diem habuit              praeferunt. Meniana veteres vocant podiolos seu domorum so-
-          sanctae cuiusdam vacalionis etc.                                        laria (cfr. Ducange, Glossarium etc).
-                                                                                        7 Cod. W removere.
-                1 Praeter locc. supra pag. 486 , nota 5. citt. cfr. Iuslin., I.
-          Apolog. pro Christian. n. 67, et Damasc. , IV. de Fide orthod.               8 Partis II. a. 3. q. I. seq. — Paulo superius pro praedi-
-          c. 23. — De tertia causa subinde adducta, quare observantia             cto codd. IKL tertio, et pro sabbatizare edd. subiacere. —
-          Dominicae etc. inlroducla sit, scil. in amolionem erroris, cfr.         Ch'. de hoc dubio Alex. Hal., S. p. III. q. 32; B. Albert., hic
-          Terlull., Apolog. c. 16. et I. ad Nafiones, n. 13. Cfr. eliam Au-       a. 7; S. Thom., hic q. I. a. 5; Petr. a Tar., hic q. 2. a. 3;
-           gust., Epist. 55. (alias 119.) e. 6. n. II. seqq., et fsidor., V.      Richard. a Med., hic a. 2. q. 3.
-                                                                   DIST. XXXVII. DUBIA.                                                                833
-                                           Dub. IV.                                      Kt per hoc patet responsio ad illud qnod obii-
-                                                                                   citur de liliis. Illnd enim non oportnit expresse ex-
-                Item quaeritur de hoc quod dicit in expositione                    plieari, quia homines per naturam sunt satis proni.
-         primi praeeepti seeundae tabnlae. Dicit enim, quod                        — Et similiter ad aliud patet responsio de aliis pro-
-         illud est primum praeceptum tabulae secundae: Ho-                         ximis. — Et ad illud similiter, quod obiicitur deAdi.qoaest.
-         nora patrem tuum et matrem tuam , ut sis long-                            verbo honorandi.
-         aevus super terram , scilicet viventium; et subiun-                             Ad illud vero quod quaeritur: quare huic man-Ada.qnaesi.
-         git modum: Parentes sic sunl honorandi , ut eis                           dato specialiter promittitur longaevitas vitae? dicen-
-         debita reverenlia exhibeatur, et necessaria mini-                         dum, quod in isto mandato praecipitur opus pieta-
-         strentur. Contra boc obiicitur : primo, quia magis                        tis, de qua dicit Apostolus primae ad Timotheum
-         debent sollicitari parentes circa fdios quam e con-                       quarto 6 , quod promissionem habet vilae , quae
-         verso1: ergo magis deberet patribus imponi, quod                          nunc esl el fulurae. Unde populo carnali promitte-
-         filiis ministrarent , quam quod filii ministrarent pa-                    batur vita praesens, spirituali vero non tantum prae-
-         renlibus. — Item. cum non tantum obligemur ad mi-                         sens, sed eliam futura. — Et si quaeras: quareAd3.quaest.
-         nislrandum et benefaciendum parentibus , sed etiam                        rnagis pietati proraittitur quam alii? dicendum, quod
-              aliis hominibus; videtur, praedictnm mandatum '' in-                 hoc est propter commendationem ipsius misericor-
-              sufficienter esse datum, cum mentionem faciat de                     diae, in cuius actu maxime meretur homo Dei mi-
-Quaestio
-  cid. 1. in- solis parentibus. — Item , cum parentibus debeamus                   sericordiam et gratiam '. — Et magis promittitur
-              honorem et beneficia , propter quid magis praecipitur                vita quam aliud donum, propter hoc quod illa est,
-Quaestio
-  cid. 2. iQ- honorare quam benefacere? — Item, cum omnihus                        quae maxime amatur; et ut homo, exspectans long-
-              mandatis respondeat beatitudo aeterna, quaeritur:                    aevitatem vitae, non abhorreat longam vitam pa-
-              quare huic raandato promittilur longacvilas vilae;                   rentiim.
-              et magis isti mandato quam alii ?                                          Alia etiam ratio potest reddi de ista promis- Ratio 2.
-                    Respondeo : Dicendum , quod in hoc mandato                     sione: quia ludaei maxime proni erant ad idolola-
-              praecipitur ordinatio hominis ad proximum suum                       triam el avariliam , quae est quaedam idololatria 8;
-           i. secundum beneficentiam. Et quoniam exhibitio be-                     ideo praeceplo illi, quod est de idololatria, subiungi-
-              neficentiae attenditur secundum ordinem carilalis; et                tur comminatio ; el praecepto illi , quod est de be-
-           in ordine caritatis priores sunt parentes s : hinc est,                 neficentia, quae est contra avaritiam, subiungitur
-           quod Dominus, simul volens insinuare obligationem                       promissio , ut per comminutionem retraherenlnr a
-           et caritatis ordinem, potius expressit de parentibus                    malo , et per promissionem traherenlur ad bonum.
-           quam de aliis proximis, nomine parentum alios                           — Posset etiam dici, quod comminatio posita circa Ratio 3.
-  Ratio
-        2. etiam proximos volens intelligi. — Alia etiam est ra-                   primum praeceptum primae tabulae refertur ad alia;
-           tio: quia, cum aliis personis debeamus beneficen-                       simililer et promissio circa prinnim praeceptum se-
-           tiam , p:irentibus nostris non tantum debemus bene-                     cundae, et ideo non oportuit iterare0.
-           jircntiam, sed etiam honoris reverentiam; ideo, ut
-           simul ulrumque in unnm clauderet \ maluil Legisla-                                                     Dbb. V.
-        3. tor parentes quam alios homines exprimere. — Ter-
-           tia etiam ratioest: quia parentes post generationem                          Item quaeritur de hoc quod dicit in expositione
-           filiorum frequenter perveniunt ad senium et ad ae-                      secundi mandati secundae tabulae, quod in hoc
-           talem decrepitam; et maxime pro illo tempore indi-                      praecepto: Non occides, prohibctur '" actus homici-
-           gent foveri et sustentari et aliis sunt graves et one-                  dii, secundwm spiritum voluntus occidendi; et obii-
-           rosi: ideo propter servandum caritatis ordiuem et                       cilur contra hoc: quia peior est voluntas occidendi,
-           insinuandam iitris oliligalionem et propter necessi-                    quam sit volnntas moechandi ; sed voluntas moe-
-           latis et indigenliae relevationem maluit parentes                       chandi nou solummodo protaibetur sceundiim spiri-
-           exprimere quam alios lioinines \                                        tum, immo etiam seeundutn litteram: ergo pari ra-
+Ad illud quod obiicitur, quod vanum est illud quod frustra fit; dicendum, quod aliquando est quid vanum, quantum est *de se* et de propria intentione, aliquando est aliquid vanum *ex accidenti*[^14]. Tunc autem nomen Dei assumitur in vanum, quando assumitur ad confirmationem alicuius sermonis, qui, quantum est de se, non est ordinatus ad aliquam utilitatem, sicut ad confirmationem sermonis falsi: et qui hoc modo assumit peccat contra illud mandatum. Quando vero assumitur ad confirmationem alicuius veri, quamvis sermo ille sit otiosus; tamen assumtio illa non est usquequaque in vanum, quia ordinatur ad hoc, ut quis adhibeat fidem verbo loquentis, quam etsi quis non assequatur in altero, non tamen omnino operatur frustra, sicut nec rhetor, si per compositos et ordinatos sermones non semper persuadeat. — Verumtamen frequens iuratio nominis Dei, ubi nulla est necessitas vel utilitas expressa, non omnino caret culpa, immo valde est reprehensibilis, maxime in viris perfectis, sicut melius patebit infra[^15], cum agetur de iuramento et periurio, ubi clarius manifestatur intelligentia huius secundi mandati.
 
+Ad illud quod obiicitur contra secundam expositionem, dicendum, quod, secundum quod ipse Magister dicit, expositio illa data est per allegoriam et expositionem quandam. Unde et in exclusione illius erroris per consequens intelliguntur alii excludi; nec respicit omnem statum, sed statum fidei manifestatae et propalatae.
 
-               1 Cfr. supra il. 211. ([. I. srg. I. nd n|i|«><.                          0 Vers. 8: Pietag autem ad omnia ulilis esl, priiniissinunii
-              8 Cod. F sniiciit riinm. Inferius pro honorare edd. eoi Itn-         habens vitne etc. Cfr. August., Enarrat. In i's. 143, n, 18.
-         norari. Delnde post respondeat cod. a Insertl /»/>/»/»                          7 M.iiih. .'i, 7: Beatl mlsertcordes, quoninm ipsl misericor-
-              3 Vidi' supi.i d. i9. i|. i. — .M 1 1\ Vni. cniiiiiii ri caritatis   iliinu consequentur.
-         ordinem . el paulo infiTius cnm edd. 1 , 2 pro tntelligi sniisii-              8 ICpli. -'i, '■'• : \\ariis, quod i'st iilolnrum servitUS. Cfr.
-         iuii aitelligere.                                                         Matih. 16, i. seqq. — Paulo imte pro natcimt codd. \ K ma-
-              1 Codd. \ i' cUtuderetur. Sopeiius pro .1/"' etiam (in Vat.          gis, 61 paulo posl pro ///■ idolotatriu cod. \ contra idolola-
-               ,i,fi,it, «»d. Q i'<" autem,                                        iriiiin. IiIimii cod. \ in lini' snini. ins iiituiii:iiiiiii pni praece-
-              5 Cfr. Eptstolo de honorandis parenMbus epfst. II. Inler
-         npera Rleronyml).       - Superiua pro et aliis .»»/ f/rnw - 1d                    " Cfr, Mex, Hai., S. p. 111. q. 83; 1:. Vlberl., hic ,1 8; Pelr.
-         exhlbenl ■»/» aliis *>„i gravet, •■< omiuunl delnde et po ( ne            oriri-.i
-                                                                                        iir..llt. hlc q. 3. a. 1 ; Rlchard. n Hod., hlc 0. :i. q. 1. el
-                      Inferlua posi tfuia hominet (Vai. tmnts) edd. uup-           piiim
-         plenl adhoc, •■< mox pro Et ad illud codd. K V sui/siin          1             10 Cod. Uetedd. subnectunl secundum Ktteram, t\                 1 'i
-          /:/   n,l   tllnul.                                                      in textu Magistrl hobetur.
-                                :.t,n . — Tom.   III.                                                                            I0S
-         834                                               SENTENTIARUM LIB. III.
+### Dub. III.
 
-             tione et voluntas occidendi. — Item, Exodi vigesimo            tem homicidii consummationem. — Et per hoc patet
-             secundo ' : Maleficos non patieris vivere ; in quo             responsio ad primum obiectum.
-             mandalo praecipitur interfeclio: ergo videtur, quod                 Ad illud vero quod obiicitur, quod in iudicia-
-             repugnantia sit inter mandatum morale et iudiciale.            libus praecipitur inlerScere maleficos ; dicendum ,
-             — Item, cum prohibetur occisio, aut intelligitur ge-           quod nulla est ibi contradictio , quia in uno prohi-
-             neraliter de quolibet vivo, aut intelligitur specialiter       betur homicidium innocentis et iusti, in alio prae-
-             de proximo. Si generaliler de quolibet vivo: ergo              cipitur occisio malefici. In uno etiam prohibetur
-             peccat qui occidit muscain et pediculum; quod ab-              homicidium ex propria auctoritale, in alio iniungi-
-             surdum est et erroneum. Si specialiter de proximo:             tur ex auctoritate Legis; et ista duo non habent
-             ergo non videtur peccare qui occidit semelipsum,               oppositionem nec repugnantiam.
-             vel qui occidit bovem alienum.                                      Ad illud quod quaeritur: cuius occisio prohibe-
-                     Est igitur quaestio , quid in hoc mandato prohi-       tur ibi ? dicendum, quod prohibetur ibi occisio vi-
-Quaestio da- beatur ; et quid etiam huic mandato in Evangelio               ventis vita rationali, sive sui, sive alterius; unde
-   P "'      superaddatur.                                                  qui semetipsum interficit facit contra praedictum
-                   . Respondeo : Dicendum , quod dupliciler est lo-         mandatum. Unde nimis exlendunt haeretici praedi- Notandom.
- Ad primam qui de intelligentia huius mandati , videlicet secun-            ctum mandatum ad vitam cuiuscumque animalis
-                                                                            bruti. Illa enim licet occidere, pro eo quod data
-arcBnVuo™ dum intellectum Legislatoris , vel secundum intelle-
-             clum populi carnalis. Si secundum intellectum Le-              sunt homini in escam et subsidium temporale, se-
-             gislatoris; sic utique prohibetur homicidium exte-             cundum quod dicilur nono Genesis 4.
-             rius et voluntas deliberativa ordinata ad laedendum
-                                                                                                  Dub. VI.
-              proximum ex iracundia. Unde prohibelur ira cum
-              consensu deliberativo in animo et cum expressione
-              exterius in verbo et signo et cum perpetralione in                  Item quaeritur de hoc quod dicit in expositione
-              facto. — Si vero intelligalur secundum intellectum            tertii mandali , "ibi : Non moechaberis, id esl, ne
-              carnalis populi, qui solum reputabat illud prohi-             cuilibet miscearis , exceplo foedere matrimonii. Vi-
-              beri , pro quo inferebatur poena ab ipsa Lege ; sic           detur enim, quod non sit recta expositio Magistri. Si
-              inlelligebatur prohiberi ira progrediens2 ad opus             enim ex prohibitione gravioris non intelligitur pro-
-              homicidii.                                                    hibitio minus gravis ; cum adulterium sive moechia
-                      Et hunc intellectum dicit Magisler litteralem,        gravius peccatum sit quam fornicatio, videtur, quod
-              non quia intellectus alius non esset de principali            in hoc non intelligatur prohibilio fornicationis. —
-              intentione ferentis Legem , sed quia claudebatur ibi          Item , cum graviora sint peccata contra naturam
-              implicite. Et quoniam illius explicatio facla est in          quam peccatum adullerii, videtur, quod potius de-
-   Ad secan- lege Evangelii, icleo dicit Magister, superadditionem          beret illa prohibere inter praecepta Decalogi quam
-              illi mandato esse factam, non quia novum aliquid              poccatum adnlterii. — Item, super illud Matthaei
-              praecipiatur, sed qnia intellectus praedicli mandati          quinto 5 : Qui viderit mulierem ad concupiscendam
-              explicatur, dum non lantura datur inlelligi, in prae-         eam ; dicit Glossa, quod ibi omnis libido carnalis,
-  Noiandum. dicto mandalo prohiberi perpetrationem homicidii in             qua fornicatur anima, a Deo intelligitur prohiberi.
-               opere, sed etiam consensum in corde, ostensionem             Cum igitur hoc fiat per omne peccatum, videtur,
-               in signo et expressionem in ve.rbo; propter quod             quod omne peccatum ibi prohibeatur : videlur ergo,
-               tria dicit3: Qui irascitur fratri suo, reus eril iu-         quod isto mandato habito, cetera superfluant.
-               dicio. Qui autem dixeril raca, reus erit consi-                    Respondeo : Dicendum, quod in mandatis De-
-               lio. Qui autem dixerit fatue — ubi est expressio             calogi prohibentur peccata, maxime in mandalis se-
-               verbi — reus erit gehennae ignis; ubi dat intelli-           cundae tabulae, secundiim quod sunt ad nocendum
-               gere triplicem gradum peccati iracundiae praeceden-          proximo ordinala; et quoniam quantum ad peccatum
+Item quaeritur de hoc quod dicit in expositione tertii mandati: *Memento, ut diem Sabbati sanctifices;* ubi secundum litteram praecipitur Sabbati observantia. Sed contra hoc obiicitur: quia Sabbati observantia est caerimonialis, secundum quod dicitur in Ezechiele[^16]: *Dedi eis Sabbata mea, ut sint in signum inter me et eos:* ergo videtur, quod inter moralia non deberet praecipi Sabbati observantia. — Item, moralia praecepta semper manent; sed Sabbati observantia est evacuata: ergo videtur, quod Sabbati observantia non debuit praecipi inter mandata moralia[^17]. Si dicas, quod observantia Sabbati commutata fuit in diem dominicum: quaeritur, quare in aliam diem mutata fuit? — Item, si mutata est Sabbati observantia in Dominicam; cum Iudaei tenerentur in Sabbato non ambulare[^18], videtur, quod peccant qui in diebus dominicis itinerantur.
 
+Iuxta hoc etiam quaeritur, a quibus cessandum sit in diebus dominicis et solemnibus. — Quaeritur etiam: propter quid in isto mandato mutatur modus loquendi, et dicitur *memento* magis quam in alio mandato, cum illa mandata ita bene debeant haberi in memoria, sicut et illud?
 
-               1 Vers. 18. Cfr. supra d. 30. q. 5. arg. I. ad oppos.         errori insanissime acquiescimus?... restat, ut de homine inlelli-
-               2 Pro ira progrediens edd. progressus , et paulo inferius     gamus quod dictum est: Non occides , nec alterum ergo nec te.
-          ratione pro intentione.                                            Neque enim qui se occidil aliud quam hominem occidit. — De
-               3 Walth. 5, 22. — Paulo ante pro consensum edd. offen-        hoc dubio cfr. Alex. Hal., S. p. 111. q. 34; II. Albert., hic a. 9;
-          sam, et superius pro praedicli cod. Qprimi. Aliquanlo inferius     Pelr. a Tar., hic q. 3. a. 2 ; Kichard. a Med., hic a. 3. q. 2.
-          pro praecedentem edd. praecedentis.                                      5 Vers. 28. — Glossa est Rabani, qui in hunc loc. ait:
-                * Vers. 3. — Augusl., I. de Civ. Dei, c. 20, postquam        Quapropter nomine moechantium , qui hoc capitulo commemo-
-          demonstravit, suicidium quoque hoc praecepto prohiberi, sic        rantur, omnem carnalem et libidinosom concupiscentiam opor-
-          pergit: Unde quidam hoc praeceplum eliam in beslias ac pe-         tet intelligi. Cum enim tam assidue idololatriam fornicalionem
-          cora conanlur extendere, ut ex hoc nullum etiam iliorum liceat     Scriplura dicat, Paulus autem aposlolus avaritiam idololatriae
-          occidere. Cur non crgo et herbos , et quidquid humo radieitus      nomine appellet; quis dubitet, omnem maJam concupiscenliam
-          alitur ac flgitur? Nam et hoc genus rerum, quamvis non sen-        recte fornicationem vocari, quando anima, neglecla superiore
-          tiat, dicitur vivere, ae per hoc potest et mori, proinde eliam,    lege, qua regilur, inferiorum nalurarum turpi voluntate quasi
-          cum vis adhibetur, occidi... Num igitur ob hoc, cum audimus:       mercede proslituta corrumpitur?
-           Non occ ides, virgultum vellere nefas ducimus et Manichaeorum
-                                                                                                                                                               835
-                                                                              DIST. XXXVII. DUBIA.
+**Respondeo:** Dicendum, quod in mandato Sabbati erat duo considerare, videlicet *cessationem ab opere servili,* ut homo Deo libere vacaret et intenderet; aliud erat ibi considerare, videlicet *significationem diei* et *determinationem operum exteriorum,* a quibus erat cessandum. Quantum ad primum, mandatum
 
-         carnis maxime offendilur proximus per adulterium:                                        Propter hoc est quaestio : quare magis commit- incideos.
-         hinc est, quod iltad praecipue prohibetur. In illo ta-                             litur usura in accommodatione denariorum quam in
-         men intelligitur prohiberi omnis illicilus coilus et                               locatione domorum et aliarum rerum ?                        Qnaestio
+<!-- page 832 -->
 
-         membrorum illorum abusus, secundum quod dicit                                            Rrspondeo: Dicendum, quod in praecepto illo
-         Magister', sive per peccatum fornicalionis, sive per                               intelligitur prohiberi omnis illicita usurpatio rei alie-
-         peccatum contra naturam. — Et per hoc patet re-                                    nae ; et illa potest fieri per violentiam , vel per frau- Distinclio
-         sponsio ad duo prima obiecta.                                                      dulenliam, et hoc vel simpliciter , vel ubi adiacet stioctione.
-                                                                                                                                                      coiu sobdi-
+de Sabbato erat *morale;* hoc enim omni tempore Dominus[^19] requisivit, ut homo sibi habitaculum cordis praepararet et eidem aliquando vacaret, ut per dilectionem eidem adhaereret; et quantum ad hoc non tantum erat *morale,* sed etiam quodam modo faciebat ad aliorum moralium integram impletionem, quia, dum homo vacat sibi et Deo, melius cognoscit, quid agendum, et quid fugiendum[^20]. Et propterea isti mandato specialiter praemittitur *memento,* quia in eius memoratione cetera memorantur.
 
-               Ad illud vero quod obiicitur de illa Glossa, di-                             consecratio aliqua. Unde prohibetur hic furlum sim-
-         cendum, quod Glossa illa intelligitur moraliter de                                 plex et sacrilegium, quod est furtum perpetratum
-         fornicatione spirituali; sed secundum litteralem intel-                            circa rem sacram, vel locum sacrum ; et rapina,
-         lectum in mandato illo prohibelur illicitus usus mem-                              quae ftt per violentiam ; el etiam usura, pro eo quod
-         brorum genitalium extra legem matrimonii. Omnis                                    in usura est quaedam violentia et quaedam frau-
-         autem seminis effusio deliberativa praeter legem                                   dulentia: fraudulentia in boc, quod vendit hoinini
-         matrimonii est illicita et intelligitur hic esse prohibita                         rem suam. Tenetur enim unusquisque subvenire pro-
-         per adultermm , quod directe matrimonio repugnat.                                  ximo in mutuo ex divino mandato ° ; dum ergo ven-
-         — Utrum vero fornicatio simplex sit peccatum mor-                                  dit ei illud quod tenetur ei facere, ipsum fraudal
-         tale, et ex qua causa; invenitur quaesitum in Iractatu                             et decipit. — Rursus , dum ex pactione aliquid ab
-         de matrimonio 2 ; ex quo cum his quae hic dicuntur,                                eo exigit, quodam modo ad id, ad quod non debet,
-         potest aliquatenus haberi inlellectus huius mandati.                               ipsum compellit. Unde omni tempore usura fuit pro-
-                                                                                            hibita, sicut et furtum, secundum quod innuit Ma-
-                                           Dub. VII.
-                                                                                            gisterAdin illud
-                                                                                                        littera7.
-                                                                                                              vero quod primo obiicitur de sacrile-
-                   Item quaeritur de quarto mandato, quod est:                              gio, dicendum, quod circumstantia loci et personae
-             Non furtum facies, ubi dicit Magister, quod prohi-                             bene polest transferre in aliud genus peccati; sicut
-             betur sacrilegium , rapina et usura. El est quae-                              corruptio sanctimonialis ratione consecralionis trans-
-             stio, quae sit differentia inter illa tria. Et videtur,                        fert in novum genus peccati. Similiter et in propo- Notandnro.
-sacriiegiom. quod sacrilegium non sit specialis differentia furti ,                         sito intelligendum est. Quod enim esl accidens actioni
-             quoniam sacrilegium dicitur esse, cum quis aufert                              in genere nalurae, potest esse complementum in
-             non sacrum de loco sacro: videtur ergo, quod cum
-                                                                                                                                                   De nsora
-             circumstantia loci sit accidens, quod non faciat spe-                          genereAd moris
-                                                                                                      illud 8.vero quod obiicitur de usura, quod ralio t.
-      usnra. ciem peccati diversam. — Item, obiicitur de usura:                             usurarius non contrectat rem alienam, invito domino;
-             quia furtum est contrectatio rei alienae, invito do-                           dicendum, quod est voluntas absolula et conditiona- Volootas du-
-             mino"; sed usura est contrectatio rei, domino vo-                              lis". Et cum dicitur, quod usurarius contrectat res,
-             lente: ergo non videtur, quod usura contineatur                                quas recipit ultra sortem, volente domino; dicendum,
-             sub furto. — Item , qui adiuvat furem ad furandum                              quod hoc est verum de volunlate conditionali 10,
-             currit cum fure ' et peccat mortaliter : ergo si usura                         sed lamen invito quantum ad voluntatem absolutam.
-                                                                                                                                                                     plex.
-             furtum est, quicumque dat nsuram, peccal moilali-                              Magis enim vult pecunia carere quam beneficium
-             ter; quod quideni videtur valde inconveniens. —                                mutui perdere, licet volunlate absolula vellet, quod
-             Item, si quis daret alicui alii pecuniam pro accom-                            impenderetur sibi mutni gratia sine mercimonia.
-             modatione domus, vel etiam sine aliquo obsequio                                      Ad illud quod obiicilur, quod tunc nsurarius
-             sibi facto; ille qui acciperet, non commilteret fur-                           currit cum fure, si usura continetur sub furto; di-
-             tum nec aliquod peccatum : ergo multo forlius vi-                              cendum, quod si quis dat usuras praeter necessita-
-             detur, quod qui accommodal alii pecuniam, de qua                               tem, non est immunis a culpa; cuin vero ex neces-
-             lucratur , et facit ei servitium, quodsi recompensa-                           sitate usuras dat, non peccat, quia licilum est uni-
-             tionem recipit, non committat a aliquod peccatiun.                             cuique redimere iuris sui vexationem ". Unde sicut
+Aliud vero est ibi *diei significatio* et *determinatio operis;* et quantum ad hoc *caerimoniale* est et *figurale* significans, a quo *cessandum* est: quoniam ab opere peccati[^21]; et quid *credendum* et *exspectandum,* videlicet quies passionis Christi in sepulcro. Et quantum ad hoc reponi habet inter *caerimonialia.* Et haec est ratio, quare mandatum illud frequentius in Lege exprimitur quam aliquod aliorum, quia secundum diversas sui conditiones spectat ad diversa genera mandatorum. Unde aliquando nominatur inter caerimonialia et aliquando inter moralia; et in quantum morale est, manet in Lege nova; in quantum caerimoniale, evacuatum est, veritate adveniente. Unde observantia Sabbati evacuata est in Lege nova.
 
-                1 llic c i. — Paulo snpciiua pro ma.ximc edd. magis.                             5 Codd. A.G K /. iniiiiiiiiiii.
-              .! Libr. IV. Sent. d. 39. dub. 3. ct d. 41. dub. 3. seq.                           c l.nc. (i, 35: Mutuum
-                                                                                                 ' llic C. i.
-                                                                                                                                dalc , nihil indc speranles.
-         Codd. UZ allcganl d. 33. — De noc duliio cfr. Alcx. Hal., S.
-         ji. III. i|. :i.i; II. Alliert., liic u. 10; S. Thum., Iiic clrea lil. ;                 a Cfr. II. Scni. d. :)(i. dub. .'i. — Aliqoanlo superius pre
-         PetT. .i Tnc, liic q. 3. a. 3.                                                     tratuferre cod. A tratuferri, e| paulo posl pro transfert codd.
-                3 lusUnian., IV. instit. iurls civ. c i j Furlum cst eonlre-                (i K aa trantfertur.
-         cuitio fraudulosa, lucrl faciendl graUa, vel ipsius rei vel etlom                       9 Vidc I. Senl. d.    17. q.     I. in corp.
-         usus eius possesslonisve ; i| I lcgc nalurali (>r< >lii liiiu n i cst                   '" Sciliccl domini, qtii ilnl iisuins.
-         admillere. Ei Ibld. c 2. rapinam deacrlbens ail : Qul vl res                              " n. Allicii., hlc s. 18: Qula dans usuras gratls postulat
-          alicn.is r.ipil tenetur   quldem      cliam     lurU. Quis enim     maglS alle-   i|iiiid llle r\ praeceplo Domlnl lonetur Impendere, sclllceimu-
-          nam rcm, Invlio domino, conlreclol, quam rjul \i rapll? —                         IUo; sed qula llle non fucll quod de lure Domlnl facere ic
-          Paulo superiue pro tpeciem cod. k differentiam. Paulo Inferlus                    lui', Ideo dai usurum , quasl redlmens vexalionem suam el quasl
-          POSI   'nnhrihilm    iri ruiM.     I*' K   ri-|H'lllllt nlirnui'.                 emens iii        I hoc, ul faclnl quod da lure gralls faccre >\<--
-              ' Resplciuir lllud i1^. 49, ix: Sl videbas furcm, eurrebas                    berei elc.      Mos pro (nttrflei cod. i occidi.
-          cum co. — Mos edd. omlllunt trgo "i... mortaliter.
-         836                                                  SENTENTIARUM          LIB. III.
+Observantia vero diei dominicae et aliarum solemnitatum alia causa est introducta, videlicet in memoriam beneficii redemptionis et in praefigurationem futurae resurrectionis[^22] et in amotionem erroris: quia secundum gentiles dies dominicus primus est, cum in principio illius diei incipiat dominari principalis planeta, ut dicunt, scilicet sol; propter quod vocabant eum diem solis et exhibebant ei venerationem. Ut igitur ille error excluderetur, et reverentia cultus soli Deo exhiberetur, praefixa fuit dies dominica, in qua populus christianus specialiter vacaret ad cultum Dei et praetermitteret terrena negotia, quae animam distrahunt, ne Deo intendat. Unde illa opera praecipue inhibentur ab ipsa Ecclesia; et talia dicuntur opera servilia, illa maxime, in quibus homo inhiat terrenis lucris, et quae sunt praeter necessaria[^23], per quae anima maxime detinetur circa haec inferiora, ne se nec Deum suum recolat.
 
-         ille qui dat.vestes suas latroni, antequam permittat, se                 Contra hoc obiicitur : quia non solum peccat qui fal-
-         interfici, non dicitur currere cum latrone; sic qui sol-                 sum testimonium fert contra proximum, sed etiam
-         vit usuram in necessitale non dicitur currere cum                        contra se ipsum : ergo non solum illud deberet pro-
-        fure. Quanlam autem necessitatem quis debeat exspe-                       hiberi, sed etiam istud. — Item, si quis falsum te-
-                                                                                  stimonium fert ad utililatem proximi , constat, quod
-        ctare , hoc est unctionis ' et rationis reclae determi-
-        nare, pro eo quod secundum diversas conditiones                           absque dubio peccat; et non peccat contra proxi-
-        personarum diversimode necessitales debent pensari.                       mum , immo contra Deum : ergo videtur , quod pro-
-              Ad illud vero quod obiicitur, quod licet dare                       hibitio falsi testimonii non spectet 4 ad secundam ta-
-           pecuniam pro accommodatione domus et etiam gra-                        bulam, immo ad primam. — Item quaeritur, cnm ^g» >»•
-  Ratio 3. lis; dicendum , quod non est simile. Primum, quia,                     periurium sit in iniuriam Dei et in iniuriam pro-
-         ubi pecunia datur liberaliter extra omnem pactio-                        ximi, propter quid Magister 5 dicit, periurium magis
-         nem, est ibi liberalis donatio ; et ideo non est 2 il-                   prohiberi in isto mandato quam in secundo man-
-         licila contrectatio. Non sic autem est, ubi intervenit                   dato ? Et quare magis agit de periurio in exposi-
-              illicita pactio. — Similiter non est simile de aliis                tione istius mandati quam in expositione secundi ?
-                                                                                        RiisPONDEO : Dicendum, quod in hoc praecepto
-CoraAaiS- possessionibus et de pecunia; et hoc ex triplici
-  Desp3r'ima. causa. Prima quidem est : quia in mutuatione pe-                    prohibetur falsitas oris, praecipue prout ordinatur
-              cuniae transfertor pecunia in dominium alienum. Et                  in nocumentum proximi, et per consequens nihilo-
-              huius signum est, quia non tenetur illam eandem                     minus, in quantum ordinatur ad nocumentum sui.
-              numero reddere, sed illi consimilem ; in accommo-                   Verbum enim ad alterum est, et qui falsurn alteri
-              datione aulem domus vel equi dominium non trans-                    loquitur, quodam modo, etsi non noceat aliquid au-
-    seconda. ferlur. — A lia vero ralio esl , quia pecunia , dum                  ferendo , fallit tamen decipiendo 6. — Et per hoc po-
-              in usum verlitur, non consumitur nec deterioratur ;                 test responderi ad illud quod primo obiicitur.
-              non sic aulem est de aliis rebus, quae secundum                          Ad illud vero quod obiicilur, quod quis menti-
-              quod magis et diutius eis utimur, magis tendunt ad                  tur conlra Ueum ; dicendum, quod mendacium, quod
-      Tenia. defectum. — Tertia vero ratio est, quia pecunia,                     est in doclrina fidei et religionis et est contra ve-
-               quantum est de se, per se ipsam non fructificat,                   ritalem divinam el ordinatur ad nocumentum pro-
-              sed fruclus venit aliunde; non sic aulem est circa                  ximi, ex diversis causis potest prohiberi, et in man-
-         res alias, quae de se ipsis afferunt fructum et uti-                     dalis primae tabulae et in mandatis secundae, sicut
-         litatem : et ideo non est simile 3. — Possent autem                      diclum est de periurio1. Et quia cognitio pcriurii m quaest.
-         hic plura quaeri de usura et furto et rapina et                          pendet ex cognitione mendacii — periurium enim
-         sacrilegio, sed pro causa brevitatis ista sufficiant.                    includit mendacium — hinc est, quod quamvis pro-
-                                                                                  hibealur et in secundo mandato primae tabulae et
-                                    Dub. VHI.                                     in quinlo secundae , Magister reservat determinare
-                                                                                  de periurio in explicatione quinti mandati. — Et per
-               ltem quaeritur de hoc quod dicit : Non loque-                      hoc potest ad obiecla responderi s.
-          ris conlra proximum luum falsum testimonium.
+Nec tantum huiusmodi opera servilia prohibentur, immo magis et diligentius opera carnalia, sicut ebrietates, lites et iurgia, quae maxime libertati spiritus repugnant. Et hoc est quod dicit Augustinus in libro de Decem Chordis[^24]: « Dicitur tibi, ut spiritualiter observes Sabbatum, non quomodo Iudaei observant carnali otio: vacare enim volunt ad nugas atque luxurias suas. Melius enim faceret Iudaeus in agro suo aliquid utile, quam in theatris seditionibus insisteret. Et melius feminae eorum in die Sabbati lanam facerent, quam tota die in neomeniis suis impudice saltarent ». Hoc autem dicit Augustinus, non quia non sit cessandum in diebus solemnibus a negotiis actuum exteriorum, sed quia ipsi sacerdotes et praelati Ecclesiae, quorum est huiusmodi festa indicere et determinare, quomodo et qualiter sit cessandum ab exteriori opere, magis debent revocare[^25] ab his quae maiorem peccandi praebent occasionem. Unde propter vitandum otium vel ineptum solatium, dicit Augustinus, quod exercere magis se debent in operibus pietatis et misericordiae, quam negotiis inordinatis et lascivis intendere. Propter quod in diebus illis debent ecclesias frequentare, Missas audire, beneficia Dei recolere, verba praedicationis audire et spiritualibus documentis se ipsos imbuere; et hoc est Deo sabbatizare. — Per hoc potest ad obiecta responderi, et aliqualis intelligentia haberi de praedicto mandato. De cessatione vero Sabbati et aliorum caerimonialium aliquid habetur in quarto libro, distinctione tertia[^26].
+
+<!-- page 833 -->
+
+### Dub. IV.
+
+Item quaeritur de hoc quod dicit in expositione primi praecepti secundae tabulae. Dicit enim, quod illud est primum praeceptum tabulae secundae: *Honora patrem tuum et matrem tuam, ut sis longaevus super terram,* scilicet viventium; et subiungit modum: *Parentes sic sunt honorandi, ut eis debita reverentia exhibeatur, et necessaria ministrentur.* Contra hoc obiicitur: primo, quia magis debent sollicitari parentes circa filios quam e converso[^27]: ergo magis deberet patribus imponi, quod filiis ministrarent, quam quod filii ministrarent parentibus. — Item, cum non tantum obligemur ad ministrandum et benefaciendum parentibus, sed etiam aliis hominibus; videtur praedictum mandatum insufficienter esse datum, cum mentionem faciat de solis parentibus. — Item, cum parentibus debeamus honorem et beneficia, propter quid magis praecipitur honorare quam benefacere? — Item, cum omnibus mandatis respondeat beatitudo aeterna, quaeritur: quare huic mandato promittitur longaevitas vitae; et magis isti mandato quam alii?
+
+**Respondeo:** Dicendum, quod in hoc mandato praecipitur ordinatio hominis ad proximum suum secundum beneficentiam. Et quoniam exhibitio beneficentiae attenditur secundum ordinem caritatis; et in ordine caritatis priores sunt parentes[^28]: hinc est, quod Dominus, simul volens insinuare obligationem et caritatis ordinem, potius expressit de parentibus quam de aliis proximis, nomine parentum alios etiam proximos volens intelligi. — Alia etiam est ratio: quia, cum aliis personis debeamus beneficentiam, parentibus nostris non tantum debemus beneficentiam, sed etiam honoris reverentiam; ideo, ut simul utrumque in unum clauderet[^29], maluit Legislator parentes quam alios homines exprimere. — Tertia etiam ratio est: quia parentes post generationem filiorum frequenter perveniunt ad senium et ad aetatem decrepitam; et maxime pro illo tempore indigent foveri et sustentari et aliis sunt graves et onerosi: ideo propter servandum caritatis ordinem et insinuandam iuris obligationem et propter necessitatis et indigentiae relevationem maluit parentes exprimere quam alios homines[^30].
+
+Et per hoc patet responsio ad illud quod obiicitur de filiis. Illud enim non oportuit expresse explicari, quia homines per naturam sunt satis proni. — Et similiter ad aliud patet responsio de aliis proximis. — Et ad illud similiter, quod obiicitur de verbo *honorandi.*
+
+Ad illud vero quod quaeritur: quare huic mandato specialiter promittitur longaevitas vitae? dicendum, quod in isto mandato praecipitur opus pietatis, de qua dicit Apostolus primae ad Timotheum quarto[^31], quod *promissionem habet vitae, quae nunc est et futurae.* Unde populo carnali promittebatur vita praesens, spirituali vero non tantum praesens, sed etiam futura. — Et si quaeras: quare magis pietati promittitur quam alii? dicendum, quod hoc est propter commendationem ipsius misericordiae, in cuius actu maxime meretur homo Dei misericordiam et gratiam[^32]. — Et magis promittitur vita quam aliud donum, propter hoc quod illa est, quae maxime amatur; et ut homo, exspectans longaevitatem vitae, non abhorreat longam vitam parentum.
+
+Alia etiam ratio potest reddi de ista promissione: quia Iudaei maxime proni erant ad idololatriam et avaritiam, quae est quaedam idololatria[^33]; ideo praecepto illi, quod est de idololatria, subiungitur comminatio; et praecepto illi, quod est de beneficentia, quae est contra avaritiam, subiungitur promissio, ut per comminationem retraherentur a malo, et per promissionem traherentur ad bonum. — Posset etiam dici, quod comminatio posita circa primum praeceptum primae tabulae refertur ad alia; similiter et promissio circa primum praeceptum secundae, et ideo non oportuit iterare[^34].
+
+### Dub. V.
+
+Item quaeritur de hoc quod dicit in expositione secundi mandati secundae tabulae, quod in hoc praecepto: *Non occides,* prohibetur[^35] actus homicidii, secundum spiritum voluntas occidendi; et obiicitur contra hoc: quia peior est voluntas occidendi, quam sit voluntas moechandi; sed voluntas moechandi non solummodo prohibetur secundum spiritum, immo etiam secundum litteram: ergo pari ra-
+
+<!-- page 834 -->
+
+tione et voluntas occidendi. — Item, Exodi vigesimo secundo[^36]: *Maleficos non patieris vivere;* in quo mandato praecipitur interfectio: ergo videtur, quod repugnantia sit inter mandatum *morale* et *iudiciale.* — Item, cum prohibetur occisio, aut intelligitur generaliter de *quolibet vivo,* aut intelligitur specialiter de *proximo.* Si generaliter de *quolibet vivo:* ergo peccat qui occidit muscam et pediculum; quod absurdum est et erroneum. Si specialiter de *proximo:* ergo non videtur peccare qui occidit semetipsum, vel qui occidit bovem alienum.
+
+Est igitur quaestio, quid in hoc mandato prohibeatur; et quid etiam huic mandato in Evangelio superaddatur.
+
+**Respondeo:** Dicendum, quod dupliciter est loqui de intelligentia huius mandati, videlicet secundum intellectum *Legislatoris,* vel secundum intellectum *populi carnalis.* Si secundum intellectum Legislatoris; sic utique prohibetur *homicidium exterius* et *voluntas* deliberativa ordinata ad laedendum proximum ex iracundia. Unde prohibetur ira cum consensu deliberativo in animo et cum expressione exterius in verbo et signo et cum perpetratione in facto. — Si vero intelligatur secundum intellectum carnalis populi, qui solum reputabat illud prohiberi, pro quo inferebatur poena ab ipsa Lege; sic intelligebatur prohiberi ira progrediens[^37] ad opus homicidii.
+
+Et hunc intellectum dicit Magister litteralem, non quia intellectus alius non esset de principali intentione ferentis Legem, sed quia claudebatur ibi implicite. Et quoniam illius explicatio facta est in lege Evangelii, ideo dicit Magister, superadditionem illi mandato esse factam, non quia novum aliquid praecipiatur, sed quia intellectus praedicti mandati explicatur, dum non tantum datur intelligi, in praedicto mandato prohiberi perpetrationem homicidii in opere, sed etiam consensum in corde, ostensionem in signo et expressionem in verbo; propter quod tria dicit[^38]: *Qui irascitur fratri suo, reus erit iudicio. Qui autem dixerit raca, reus erit consilio. Qui autem dixerit fatue* — ubi est expressio verbi — *reus erit gehennae ignis;* ubi dat intelligere triplicem gradum peccati iracundiae praecedentem homicidii consummationem. — Et per hoc patet responsio ad primum obiectum.
+
+Ad illud vero quod obiicitur, quod in iudicialibus praecipitur interficere maleficos; dicendum, quod nulla est ibi contradictio, quia in uno prohibetur homicidium *innocentis* et iusti, in alio praecipitur occisio *malefici.* In uno etiam prohibetur homicidium ex *propria* auctoritate, in alio iniungitur ex auctoritate *Legis;* et ista duo non habent oppositionem nec repugnantiam.
+
+Ad illud quod quaeritur: cuius occisio prohibetur ibi? dicendum, quod prohibetur ibi occisio viventis vita rationali, sive sui, sive alterius; unde qui semetipsum interficit facit contra praedictum mandatum. Unde nimis extendunt haeretici praedictum mandatum ad vitam cuiuscumque animalis bruti. Illa enim licet occidere, pro eo quod data sunt homini in escam et subsidium temporale, secundum quod dicitur nono Genesis[^39].
+
+### Dub. VI.
+
+Item quaeritur de hoc quod dicit in expositione tertii mandati, ibi: *Non moechaberis,* id est, *ne cuilibet miscearis, excepto foedere matrimonii.* Videtur enim, quod non sit recta expositio Magistri. Si enim ex prohibitione gravioris non intelligitur prohibitio minus gravis; cum adulterium sive moechia gravius peccatum sit quam fornicatio, videtur, quod in hoc non intelligatur prohibitio fornicationis. — Item, cum graviora sint peccata contra naturam quam peccatum adulterii, videtur, quod potius deberet illa prohibere inter praecepta Decalogi quam peccatum adulterii. — Item, super illud Matthaei quinto[^40]: *Qui viderit mulierem ad concupiscendam eam;* dicit Glossa, quod ibi omnis libido carnalis, qua fornicatur anima, a Deo intelligitur prohiberi. Cum igitur hoc fiat per omne peccatum, videtur, quod omne peccatum ibi prohibeatur: videtur ergo, quod isto mandato habito, cetera superfluant.
+
+**Respondeo:** Dicendum, quod in mandatis Decalogi prohibentur peccata, maxime in mandatis secundae tabulae, secundum quod sunt ad nocendum proximo ordinata; et quoniam quantum ad peccatum
+
+<!-- page 835 -->
+
+carnis maxime offenditur proximus per adulterium: hinc est, quod illud praecipue prohibetur. In illo tamen intelligitur prohiberi omnis illicitus coitus et membrorum illorum abusus, secundum quod dicit Magister[^41], sive per peccatum fornicationis, sive per peccatum contra naturam. — Et per hoc patet responsio ad duo prima obiecta.
+
+Ad illud vero quod obiicitur de illa Glossa, dicendum, quod Glossa illa intelligitur moraliter de fornicatione spirituali; sed secundum litteralem intellectum in mandato illo prohibetur illicitus usus membrorum genitalium extra legem matrimonii. Omnis autem seminis effusio deliberativa praeter legem matrimonii est illicita et intelligitur hic esse prohibita per adulterium, quod directe matrimonio repugnat. — Utrum vero fornicatio simplex sit peccatum mortale, et ex qua causa; invenitur quaesitum in tractatu de matrimonio[^42]; ex quo cum his quae hic dicuntur, potest aliquatenus haberi intellectus huius mandati.
+
+### Dub. VII.
+
+Item quaeritur de quarto mandato, quod est: *Non furtum facies,* ubi dicit Magister, quod prohibetur sacrilegium, rapina et usura. Et est quaestio, quae sit differentia inter illa tria. Et videtur, quod sacrilegium non sit specialis differentia furti, quoniam sacrilegium dicitur esse, cum quis aufert non sacrum de loco sacro: videtur ergo, quod cum circumstantia loci sit accidens, quod non faciat speciem peccati diversam. — Item, obiicitur de usura: quia furtum est contrectatio rei alienae, invito domino[^43]; sed usura est contrectatio rei, domino volente: ergo non videtur, quod usura contineatur sub furto. — Item, qui adiuvat furem ad furandum currit cum fure[^44] et peccat mortaliter: ergo si usura furtum est, quicumque dat usuram, peccat mortaliter; quod quidem videtur valde inconveniens. — Item, si quis daret alicui alii pecuniam pro accommodatione domus, vel etiam sine aliquo obsequio sibi facto; ille qui acciperet, non committeret furtum nec aliquod peccatum: ergo multo fortius videtur, quod qui accommodat alii pecuniam, de qua lucratur, et facit ei servitium, quodsi recompensationem recipit, non committat[^45] aliquod peccatum.
+
+Propter hoc est quaestio: quare magis committitur usura in accommodatione denariorum quam in locatione domorum et aliarum rerum?
+
+**Respondeo:** Dicendum, quod in praecepto illo intelligitur prohiberi omnis illicita usurpatio rei alienae; et illa potest fieri per violentiam, vel per fraudulentiam, et hoc vel simpliciter, vel ubi adiacet consecratio aliqua. Unde prohibetur hic furtum simplex et sacrilegium, quod est furtum perpetratum circa rem sacram, vel locum sacrum; et rapina, quae fit per violentiam; et etiam usura, pro eo quod in usura est quaedam violentia et quaedam fraudulentia: fraudulentia in hoc, quod vendit homini rem suam. Tenetur enim unusquisque subvenire proximo in mutuo ex divino mandato[^46]; dum ergo vendit ei illud quod tenetur ei facere, ipsum fraudat et decipit. — Rursus, dum ex pactione aliquid ab eo exigit, quodam modo ad id, ad quod non debet, ipsum compellit. Unde omni tempore usura fuit prohibita, sicut et furtum, secundum quod innuit Magister in littera[^47].
+
+Ad illud vero quod primo obiicitur de sacrilegio, dicendum, quod circumstantia loci et personae bene potest transferre in aliud genus peccati; sicut corruptio sanctimonialis ratione consecrationis transfert in novum genus peccati. Similiter et in proposito intelligendum est. Quod enim est accidens actioni in genere naturae, potest esse complementum in genere moris[^48].
+
+Ad illud vero quod obiicitur de usura, quod usurarius non contrectat rem alienam, invito domino; dicendum, quod est voluntas absoluta et conditionalis[^49]. Et cum dicitur, quod usurarius contrectat res, quas recipit ultra sortem, volente domino; dicendum, quod hoc est verum de voluntate conditionali[^50], sed tamen invito quantum ad voluntatem absolutam. Magis enim vult pecunia carere quam beneficium mutui perdere, licet voluntate absoluta vellet, quod impenderetur sibi mutui gratia sine mercimonio.
+
+Ad illud quod obiicitur, quod tunc usurarius currit cum fure, si usura continetur sub furto; dicendum, quod si quis dat usuras praeter necessitatem, non est immunis a culpa; cum vero ex necessitate usuras dat, non peccat, quia licitum est unicuique redimere iuris sui vexationem[^51]. Unde sicut
+
+<!-- page 836 -->
+
+ille qui dat vestes suas latroni, antequam permittat, se interfici, non dicitur *currere cum latrone;* sic qui solvit usuram in necessitate non dicitur *currere cum fure.* Quantam autem necessitatem quis debeat exspectare, hoc est unctionis[^52] et rationis rectae determinare, pro eo quod secundum diversas conditiones personarum diversimode necessitates debent pensari.
+
+Ad illud vero quod obiicitur, quod licet dare pecuniam pro accommodatione domus et etiam gratis; dicendum, quod non est simile. Primum, quia, ubi pecunia datur *liberaliter* extra omnem pactionem, est ibi *liberalis donatio;* et ideo non est[^53] illicita contrectatio. Non sic autem est, ubi intervenit *illicita pactio.* — Similiter non est simile de aliis possessionibus et de pecunia; et hoc ex triplici causa. Prima quidem est: quia in mutuatione pecuniae transfertur pecunia in dominium alienum. Et huius signum est, quia non tenetur illam eandem numero reddere, sed illi consimilem; in accommodatione autem domus vel equi dominium non transfertur. — Alia vero ratio est, quia pecunia, dum in usum vertitur, non consumitur nec deterioratur; non sic autem est de aliis rebus, quae secundum quod magis et diutius eis utimur, magis tendunt ad defectum. — Tertia vero ratio est, quia pecunia, quantum est de se, per se ipsam non fructificat, sed fructus venit aliunde; non sic autem est circa res alias, quae de se ipsis afferunt fructum et utilitatem: et ideo non est simile[^54]. — Possent autem hic plura quaeri de usura et furto et rapina et sacrilegio, sed pro causa brevitatis ista sufficiant.
+
+### Dub. VIII.
+
+Item quaeritur de hoc quod dicit: *Non loqueris contra proximum tuum falsum testimonium.* Contra hoc obiicitur: quia non solum peccat qui falsum testimonium fert contra proximum, sed etiam contra se ipsum: ergo non solum illud deberet prohiberi, sed etiam istud. — Item, si quis falsum testimonium fert ad utilitatem proximi, constat, quod absque dubio peccat; et non peccat contra proximum, immo contra Deum: ergo videtur, quod prohibitio falsi testimonii non spectet[^55] ad secundam tabulam, immo ad primam. — Item quaeritur, cum periurium sit in iniuriam Dei et in iniuriam proximi, propter quid Magister[^56] dicit, periurium magis prohiberi in isto mandato quam in secundo mandato? Et quare magis agit de periurio in expositione istius mandati quam in expositione secundi?
+
+**Respondeo:** Dicendum, quod in hoc praecepto prohibetur falsitas oris, praecipue prout ordinatur in nocumentum proximi, et per consequens nihilominus, in quantum ordinatur ad nocumentum sui. Verbum enim ad alterum est, et qui falsum alteri loquitur, quodam modo, etsi non noceat aliquid auferendo, fallit tamen decipiendo[^57]. — Et per hoc potest responderi ad illud quod primo obiicitur.
+
+Ad illud vero quod obiicitur, quod quis mentitur contra Deum; dicendum, quod mendacium, quod est in doctrina fidei et religionis et est contra veritatem divinam et ordinatur ad nocumentum proximi, ex diversis causis potest prohiberi, et in mandatis primae tabulae et in mandatis secundae, sicut dictum est de periurio[^58]. Et quia cognitio periurii pendet ex cognitione mendacii — periurium enim includit mendacium — hinc est, quod quamvis prohibeatur et in secundo mandato primae tabulae et in quinto secundae, Magister reservat determinare de periurio in explicatione quinti mandati. — Et per hoc potest ad obiecta responderi[^59].
 
 ## English
+<!-- page 829 -->
 
-[Translation pending]
+# DOUBTS CONCERNING THE TEXT OF THE MASTER.
+
+### Doubt I.
+
+In this section there are questions concerning the letter, and first it is asked about those things which are said in the explanation of the first commandment. For Origen says that *an idol is something that has nothing like itself.* For this seems to be false, because an idol is fabricated by a craftsman, and the craftsman fabricates only according to a likeness which he has in the soul; but « there is nothing in the intellect which was not first in the senses[^1] »: and there is nothing in the senses which was not in a thing outside: therefore it seems that there is no idol which does not have a likeness in exterior things. — Likewise, it seems that he speaks falsely in this which he adds, that an idol is nothing because it *has nothing like itself:* since, if some craftsman makes something new, the likeness of which is not to be found outside, it is not on that account a nothing. — Likewise, every artifact is something; but an idol is an artifact: therefore it is something. How then is it said that an idol is nothing? — Likewise, to make idols and graven images is a thing belonging only to craftsmen: therefore it seems that that commandment does not extend except to craftsmen.
+
+<!-- page 830 -->
+
+**I respond:** It must be said that the Lord, in the first commandment, enjoins that he be adored and that he alone be adored; therefore he enjoins worship (*latria*) and forbids idolatry. And since idolatry was wont to be committed among the ancients in two ways: either in this, that they fashioned a new sculpture, the likeness of which was not to be found at all *outside,* so that it might be shown that a special and singular worship was to be exhibited to it; or when some image was made which was a representation of some thing *outside,* which someone might believe was to be venerated in that image: therefore, in order to forbid these two, he touches upon those two in the prohibition of idolatry, according to what the Master says in the letter[^2].
+
+But to that which is objected, that there is nothing in the soul which was not first received from the senses; it must be said that that statement is to be understood thus, that the soul has no likeness which it has not received from outside either as a whole, or in part. When therefore it is said that the form of an idol does not have a likeness outside; this is understood as a whole, yet it has [one] in part, as is plain in the case of the chimera and the goat-stag and the golden mountain. For the soul makes new compositions, although it does not make new things[^3]; and as it imagines interiorly, so also it paints and sculpts exteriorly.
+
+To that which is objected, that an idol ought not to be called nothing, but rather something, since it is an artifact; it must be said that there is a twofold way of speaking about an idol: either as regards the matter and figure which the craftsman impresses upon it, or as regards the excellence of divinity which the idolater, by believing, attributes to the idol itself. In the first way it is said to be nothing in the world, by Origen, not because it is nothing at all in itself, but because it has nothing like itself corresponding to it in the universe. But as regards the excellence of divinity which the idolater assigns to it, it is altogether nothing except in the mere fiction and false estimation of the idolater, which is founded altogether upon the vain and the nothing, because an idol has nothing at all of divinity[^4].
+
+To that which is objected, that that precept seems to pertain only to craftsmen; it must be said that in that word the Lord intends not only to forbid the fabrication of an idol, but every veneration of an idol; and in this he also includes that he wills all the worship of *latria* to be rendered to himself alone, and therefore there is prefixed[^5]: *The Lord your God is one God;* for one God alone and true is to be adored. Hence that precept has more of affirmation than of negation. Nor does anyone fulfill that commandment, if he only desists from idolatry, because there adoration is enjoined, which is to be exhibited to God alone. — But what that adoration is, and in what manner and to whom it is to be exhibited; this can be had from those things which were determined above in the ninth distinction[^6], where the question was asked about *latria.* And from these things which are touched upon here and which were said there, the right understanding of the first commandment can in some manner be had.
+
+### Doubt II.
+
+Likewise it is asked about those things which are said in the exposition of the second commandment, which the Master expounds thus: *You shall not take the name of your God in vain;* which is to say according to the letter: *you shall not swear by the name of God for nothing.* But against this it is objected: because that seems to pertain to the fifth commandment of the second table, where perjury is forbidden[^7]: therefore it seems that either that commandment, or this one, is superfluous. — Likewise, « a thing is vain, as the Philosopher says[^8], which does not include the end for which it exists »; but such is idle speech, from which no fruit follows: therefore it seems that whoever names the Lord in idle words, since he takes the name of God in vain, acts against that commandment: therefore he sins mortally. If you say that it is not understood of any taking whatever, but of taking in an oath; it is objected against this, that[^9] if anyone swears in common speech, where there is no necessity or utility, he acts against that commandment: therefore he will sin mortally by knowingly swearing; which seems very absurd. — Likewise, it is objected against the second exposition which the Master sets down, when he adds: « *Allegorically it is enjoined, that you should not think the Son to be a creature of God* »; because, since one may err about the Son in many ways, not only as Arius erred, but also as Sabellius erred[^10]: it seems that not only that heresy,
+
+<!-- page 831 -->
+
+but also others ought to be forbidden. — Likewise, faith in the Trinity was not explicit to all in the time of the Law[^11]: if therefore all were bound to all the commandments of the Decalogue, it seems that nothing was enjoined which would pertain determinately to any [particular] person.
+
+**I respond:** It must be said that, just as through the first commandment man is ordered with respect to the highest Majesty, which is appropriated to the Father, so also through the second man is ordered with respect to the highest Truth, which is appropriated to the Son. Now this ordering is attended to in the confession of Truth itself without the admixture of any falsity, such that neither is anything false believed about it, nor is it taken up to confirm a falsehood. Hence in that commandment there is forbidden, according to the literal sense, the falsity of swearing by the name of God, and according to the spiritual sense there is forbidden the falsity of error concerning faith in the Truth. And in these two ways the Master in the letter[^12] expounds [it] according to the letter and according to allegory.
+
+To that, therefore, which is objected, that perjury is against the fifth commandment of the second table; it must be said that two things are to be considered in false testimony, namely one, that an injury is done to the highest Truth, which is invoked into false testimony; the other, that an injury is done to the neighbor, who is damaged by the false testimony[^13]. And by reason of the first, perjury is forbidden in the second commandment of the first table; by reason of the second, in the fifth commandment of the second.
+
+To that which is objected, that a thing is vain which is done to no purpose; it must be said that sometimes a thing is vain, as far as concerns *itself* and its own intention, sometimes a thing is vain *by accident*[^14]. But the name of God is then taken in vain when it is taken up for the confirmation of some speech which, as far as concerns itself, is not ordered to any utility, as for the confirmation of a false speech: and he who takes it up in this way sins against that commandment. But when it is taken up for the confirmation of something true, although that speech be idle; yet that taking-up is not altogether in vain, because it is ordered to this, that one may give credence to the word of the speaker, which even if one does not attain in another, yet it does not work altogether to no purpose, just as neither does the orator, if by composed and ordered speeches he does not always persuade. — Nevertheless, frequent swearing by the name of God, where there is no expressed necessity or utility, is not altogether without fault, but rather is very reprehensible, especially in perfect men, as will better appear below[^15], when oath and perjury are treated, where the understanding of this second commandment is made clearer.
+
+To that which is objected against the second exposition, it must be said that, according to what the Master himself says, that exposition was given by way of allegory and a certain exposition. Hence also in the exclusion of that error the others are by consequence understood to be excluded; nor does it regard every state, but the state of manifested and divulged faith.
+
+### Doubt III.
+
+Likewise it is asked about this which he says in the exposition of the third commandment: *Remember that you sanctify the day of the Sabbath;* where according to the letter the observance of the Sabbath is enjoined. But against this it is objected: because the observance of the Sabbath is ceremonial, according to what is said in Ezekiel[^16]: *I gave them my Sabbaths, that they might be a sign between me and them:* therefore it seems that the observance of the Sabbath ought not to be enjoined among the moral [precepts]. — Likewise, the moral precepts always remain; but the observance of the Sabbath has been done away with: therefore it seems that the observance of the Sabbath ought not to have been enjoined among the moral commandments[^17]. If you say that the observance of the Sabbath was changed into the Lord's day: it is asked, why was it changed into another day? — Likewise, if the observance of the Sabbath has been changed into the Lord's day; since the Jews were bound not to walk on the Sabbath[^18], it seems that those sin who travel on the Lord's days.
+
+Alongside this it is also asked, from what things one must cease on the Lord's days and on solemn days. — It is also asked: why in this commandment the manner of speaking is changed, and *remember* is said rather than in another commandment, since those commandments ought to be held in memory just as well as that one?
+
+**I respond:** It must be said that in the commandment of the Sabbath there were two things to consider, namely the *cessation from servile work,* so that man might be free for God and attend to him; the other thing to consider there was the *signification of the day* and the *determination of the exterior works* from which one was to cease. As regards the first, the commandment
+
+<!-- page 832 -->
+
+concerning the Sabbath was *moral;* for the Lord[^19] required at all times that man should prepare for himself a dwelling-place of the heart and be free for it from time to time, so that through love he might cleave to it; and as regards this it was not only *moral,* but also in a certain manner contributed to the integral fulfillment of the other moral [precepts], because, while man is free for himself and for God, he better knows what is to be done and what is to be shunned[^20]. And on this account *remember* is specially prefixed to this commandment, because in its remembrance the rest are remembered.
+
+But another thing there is the *signification of the day* and the *determination of the work;* and as regards this it is *ceremonial* and *figural,* signifying that from which one is to *cease:* namely, from the work of sin[^21]; and what is to be *believed* and *awaited,* namely the rest of the Passion of Christ in the tomb. And as regards this it has to be placed among the *ceremonial* [precepts]. And this is the reason why that commandment is expressed more frequently in the Law than any of the others, because according to its diverse conditions it pertains to diverse genera of commandments. Hence it is sometimes named among the ceremonial and sometimes among the moral; and inasmuch as it is moral, it remains in the new Law; inasmuch as it is ceremonial, it has been done away with, the truth having come. Hence the observance of the Sabbath has been done away with in the new Law.
+
+But the observance of the Lord's day and of the other solemnities was introduced for another cause, namely in memory of the benefit of redemption and in prefiguration of the future resurrection[^22] and for the removal of error: because according to the gentiles the Lord's day is the first, since at the beginning of that day the principal planet begins to dominate, as they say, namely the sun; on account of which they called it the day of the sun and exhibited veneration to it. In order, therefore, that that error might be excluded, and that the reverence of worship might be exhibited to God alone, the Lord's day was appointed, on which the Christian people might be specially free for the worship of God and might set aside earthly affairs, which distract the soul, lest it attend to God. Hence those works are especially prohibited by the Church herself; and such are called servile works, those especially in which man gapes after earthly gains, and which are beyond the necessary[^23], through which the soul is most of all detained about these lower things, so that it recollects neither itself nor its God.
+
+Nor are only servile works of this kind prohibited, but rather more and more diligently carnal works, such as drunkenness, quarrels, and brawls, which most of all are repugnant to the liberty of the spirit. And this is what Augustine says in the book *On the Ten Strings*[^24]: « It is said to you, that you should observe the Sabbath spiritually, not as the Jews observe [it] in carnal leisure: for they wish to be free for their trifles and luxuries. For a Jew would do better doing something useful in his field than persisting in seditions at the theaters. And their women would do better making wool on the Sabbath day than dancing shamelessly all day at their new-moon feasts ». But Augustine says this, not because one ought not to cease on solemn days from the business of exterior actions, but because the priests and prelates of the Church themselves, whose office it is to announce and determine such feasts, how and in what manner one is to cease from exterior work, ought rather to recall [people][^25] from those things which afford a greater occasion of sinning. Hence in order to avoid leisure or unfitting entertainment, Augustine says that they ought rather to exercise themselves in works of piety and mercy than to attend to disordered and lascivious dealings. On account of which on those days they ought to frequent the churches, hear Masses, recall the benefits of God, hear the words of preaching, and imbue themselves with spiritual teachings; and this is to keep Sabbath unto God. — Through this the objections can be answered, and some understanding can be had concerning the aforesaid commandment. But concerning the cessation of the Sabbath and of the other ceremonial [precepts], something is treated in the fourth book, in the third distinction[^26].
+
+<!-- page 833 -->
+
+### Doubt IV.
+
+Likewise it is asked about this which he says in the exposition of the first precept of the second table. For he says that this is the first precept of the second table: *Honor your father and your mother, that you may be long-lived upon the earth,* namely of the living; and he adds the manner: *Parents are to be honored thus, that due reverence be shown to them, and the necessities be ministered.* Against this it is objected: first, because parents ought to be more solicitous about their children than vice versa[^27]: therefore it ought rather to be imposed on fathers that they minister to their children, than that the children minister to their parents. — Likewise, since we are bound not only to minister and do good to our parents, but also to other men; it seems that the aforesaid commandment was insufficiently given, since it makes mention only of parents. — Likewise, since we owe honor and benefits to parents, why is it enjoined to honor rather than to do good? — Likewise, since eternal beatitude corresponds to all the commandments, it is asked: why is length of life promised to this commandment; and to this commandment rather than to another?
+
+**I respond:** It must be said that in this commandment is enjoined the ordering of man toward his neighbor according to beneficence. And since the showing of beneficence is attended to according to the order of charity; and in the order of charity parents come first[^28]: hence it is that the Lord, wishing at the same time to intimate the obligation and the order of charity, expressed [it] of parents rather than of the other neighbors, wishing the other neighbors also to be understood under the name of parents. — There is also another reason: because, while we owe beneficence to other persons, to our parents we owe not only beneficence, but also the reverence of honor; therefore, in order to enclose both at once in one[^29], the Lawgiver preferred to express parents rather than other men. — There is also a third reason: because parents, after the begetting of their children, frequently arrive at old age and at a decrepit age; and especially for that time they need to be cherished and sustained, and are burdensome and onerous to others: therefore, for the sake of preserving the order of charity and of intimating the obligation of right and on account of the relief of necessity and need, he preferred to express parents rather than other men[^30].
+
+And by this is made plain the response to that which is objected concerning children. For that did not need to be expressly explained, because men are by nature sufficiently inclined [to it]. — And likewise the response to the other [objection] concerning the other neighbors is plain. — And likewise to that which is objected concerning the word *to honor.*
+
+But to that which is asked: why is length of life specially promised to this commandment? it must be said that in this commandment is enjoined a work of piety, of which the Apostle says in the first [letter] to Timothy, the fourth [chapter][^31], that *it has the promise of the life that now is and of that which is to come.* Hence to the carnal people the present life was promised, but to the spiritual not only the present, but also the future. — And if you ask: why is it promised to piety rather than to another [virtue]? it must be said that this is for the sake of the commendation of mercy itself, in whose act man most of all merits the mercy and grace of God[^32]. — And life is promised rather than another gift, on account of this, that it is that which is most of all loved; and so that man, awaiting length of life, may not abhor the long life of his parents.
+
+There can also be given another reason for this promise: because the Jews were most of all prone to idolatry and to avarice, which is a kind of idolatry[^33]; therefore to that precept which is about idolatry a threat is added; and to that precept which is about beneficence, which is against avarice, a promise is added, so that by the threat they might be drawn back from evil, and by the promise drawn toward good. — It could also be said that the threat set down concerning the first precept of the first table refers to the others; likewise also the promise concerning the first precept of the second, and therefore it did not need to be repeated[^34].
+
+### Doubt V.
+
+Likewise it is asked about this which he says in the exposition of the second commandment of the second table, that in this precept: *You shall not kill,* there is forbidden[^35] the act of homicide, according to the spirit [also] the will of killing; and it is objected against this: because the will of killing is worse than the will of committing adultery; but the will of committing adultery is not only forbidden according to the spirit, but rather also according to the letter: therefore by parity of rea-
+
+<!-- page 834 -->
+
+soning also the will of killing [should be]. — Likewise, in the twenty-second [chapter] of Exodus[^36]: *You shall not suffer evildoers to live;* in which commandment killing is enjoined: therefore it seems that there is a repugnance between the *moral* commandment and the *judicial.* — Likewise, when killing is forbidden, it is understood either generally of *any living thing,* or specially of the *neighbor.* If generally of *any living thing:* then he sins who kills a fly and a louse; which is absurd and erroneous. If specially of the *neighbor:* then he does not seem to sin who kills himself, or who kills another's ox.
+
+There is therefore a question, what is forbidden in this commandment; and also what is superadded to this commandment in the Gospel.
+
+**I respond:** It must be said that there is a twofold way of speaking about the understanding of this commandment, namely according to the understanding of the *Lawgiver,* or according to the understanding of the *carnal people.* If according to the understanding of the Lawgiver; thus indeed there is forbidden *exterior homicide* and the deliberative *will* ordered to harming the neighbor out of anger. Hence anger is forbidden, with deliberative consent in the soul and with exterior expression in word and sign and with perpetration in deed. — But if it is understood according to the understanding of the carnal people, who reckoned that only to be forbidden for which a penalty was inflicted by the Law itself; thus anger was understood to be forbidden [only] when it proceeded[^37] to the work of homicide.
+
+And this understanding the Master calls literal, not because the other understanding was not part of the principal intention of the one bearing the Law, but because it was there enclosed implicitly. And since the explication of it was made in the law of the Gospel, therefore the Master says that a superaddition was made to that commandment, not because something new is enjoined, but because the understanding of the aforesaid commandment is explicated, while it is given to be understood that in the aforesaid commandment there is forbidden not only the perpetration of homicide in deed, but also the consent in the heart, the manifestation in a sign, and the expression in a word; on account of which he says three things[^38]: *He who is angry with his brother shall be liable to judgment. And he who says raca shall be liable to the council. And he who says fool* — where there is the expression of a word — *shall be liable to the fire of Gehenna;* where he gives to understand a threefold degree of the sin of anger preceding the consummation of homicide. — And by this is made plain the response to the first objection.
+
+But to that which is objected, that in judicial [matters] it is enjoined to kill evildoers; it must be said that there is no contradiction there, because in the one is forbidden the homicide of an *innocent* and just [person], in the other the killing of an *evildoer* is enjoined. In the one also there is forbidden homicide by *one's own* authority, in the other it is enjoined by the authority of the *Law;* and these two do not have opposition or repugnance.
+
+To that which is asked: whose killing is forbidden there? it must be said that there is forbidden there the killing of a living thing with rational life, whether one's own or another's; whence he who kills himself acts against the aforesaid commandment. Hence the heretics extend the aforesaid commandment too far, to the life of any brute animal whatever. For these it is lawful to kill, for the reason that they have been given to man for food and temporal support, according to what is said in the ninth [chapter] of Genesis[^39].
+
+### Doubt VI.
+
+Likewise it is asked about this which he says in the exposition of the third commandment, there: *You shall not commit adultery,* that is, *that you should not mingle with anyone, except by the covenant of marriage.* For it seems that the exposition of the Master is not correct. For if from the prohibition of the graver [sin] the prohibition of the less grave is not understood; since adultery or fornication-with-another is a graver sin than fornication, it seems that the prohibition of fornication is not understood in this. — Likewise, since the sins against nature are graver than the sin of adultery, it seems that he ought rather to forbid those among the precepts of the Decalogue than the sin of adultery. — Likewise, upon that text of Matthew, the fifth [chapter][^40]: *Whoever shall look upon a woman to lust after her;* the Gloss says that there every carnal lust, by which the soul commits fornication, is understood to be forbidden by God. Since therefore this happens through every sin, it seems that every sin is forbidden there: it seems, therefore, that, this commandment being had, the rest are superfluous.
+
+**I respond:** It must be said that in the commandments of the Decalogue sins are forbidden, most of all in the commandments of the second table, according as they are ordered to the harming of the neighbor; and since as regards the sin
+
+<!-- page 835 -->
+
+of the flesh the neighbor is most of all offended through adultery: hence it is that this is especially forbidden. Yet in it there is understood to be forbidden every illicit intercourse and abuse of those members, according to what the Master says[^41], whether through the sin of fornication, or through the sin against nature. — And by this is made plain the response to the first two objections.
+
+But to that which is objected concerning that Gloss, it must be said that that Gloss is understood morally of spiritual fornication; but according to the literal understanding, in that commandment there is forbidden the illicit use of the genital members outside the law of marriage. Now every deliberate effusion of seed apart from the law of marriage is illicit and is understood to be forbidden here through adultery, which is directly repugnant to marriage. — But whether simple fornication is a mortal sin, and from what cause; is found inquired into in the treatise on marriage[^42]; from which, together with the things that are said here, the understanding of this commandment can to some extent be had.
+
+### Doubt VII.
+
+Likewise it is asked about the fourth commandment, which is: *You shall not steal,* where the Master says that sacrilege, robbery, and usury are forbidden. And there is a question, what is the difference among those three. And it seems that sacrilege is not a special difference of theft, since sacrilege is said to be [committed] when someone carries off something not-sacred from a sacred place: it seems therefore that, since the circumstance of place is an accident, it does not make a diverse species of sin. — Likewise, an objection is raised concerning usury: because theft is the handling of another's thing against the will of the owner[^43]; but usury is the handling of a thing with the owner willing: therefore it does not seem that usury is contained under theft. — Likewise, he who helps a thief to steal runs with the thief[^44] and sins mortally: therefore if usury is theft, whoever gives usury sins mortally; which indeed seems very unfitting. — Likewise, if someone were to give another money for the loan of a house, or even without any service done to himself; he who would receive [it] would not commit theft nor any sin: therefore much more strongly it seems that he who lends another money, from which he profits, and does him a service, if he receives a recompense, does not commit[^45] any sin.
+
+On account of this there is a question: why is usury committed rather in the lending of money than in the renting of houses and of other things?
+
+**I respond:** It must be said that in that precept there is understood to be forbidden every illicit usurpation of another's thing; and that can be done through violence, or through fraud, and this either simply, or where some consecration adjoins. Hence here there is forbidden simple theft, and sacrilege, which is theft perpetrated about a sacred thing or a sacred place; and robbery, which is done through violence; and also usury, for the reason that in usury there is a certain violence and a certain fraud: fraud in this, that he sells a man his own thing. For everyone is bound to assist his neighbor in a loan by divine commandment[^46]; while therefore he sells him that which he is bound to do for him, he defrauds and deceives him. — Again, while by agreement he exacts something from him, in a certain manner he compels him to that which he ought not. Hence at all times usury has been forbidden, just as theft also, according to what the Master intimates in the letter[^47].
+
+But to that which is first objected concerning sacrilege, it must be said that the circumstance of place and of person can well transfer [an act] into another genus of sin; just as the corruption of a consecrated woman by reason of consecration transfers [the act] into a new genus of sin. Likewise it is to be understood in the matter proposed. For what is an accident to an action in the genus of nature can be a completion in the genus of morals[^48].
+
+But to that which is objected concerning usury, that the usurer does not handle another's thing against the owner's will; it must be said that there is an *absolute* will and a *conditional* one[^49]. And when it is said that the usurer handles the things which he receives beyond the principal, with the owner willing; it must be said that this is true of the *conditional* will[^50], but nevertheless [it is] against the will as regards the *absolute* will. For he prefers to lack the money rather than lose the benefit of the loan, although by absolute will he would wish that the favor of the loan be advanced to him without payment.
+
+To that which is objected, that then the usurer runs with the thief, if usury is contained under theft; it must be said that if anyone gives usury beyond necessity, he is not immune from fault; but when he gives usury out of necessity, he does not sin, because it is lawful for everyone to ransom the harassment of his own right[^51]. Hence just as
+
+<!-- page 836 -->
+
+he who gives his garments to a robber, before he allows himself to be killed, is not said to *run with the robber;* so he who pays usury in necessity is not said to *run with the thief.* But how great a necessity one ought to await, this is for unction[^52] and right reason to determine, for the reason that according to the diverse conditions of persons necessities ought to be weighed in diverse ways.
+
+But to that which is objected, that it is lawful to give money for the loan of a house and even gratis; it must be said that it is not alike. First, because where money is given *liberally* apart from every agreement, there is there a *liberal donation;* and therefore the handling is not[^53] illicit. But it is not so where an *illicit agreement* intervenes. — Likewise, it is not alike concerning other possessions and concerning money; and this for a threefold cause. The first indeed is: because in the lending of money, the money is transferred into another's ownership. And the sign of this is that he is not bound to return that same [money] numerically, but one like it; but in the loan of a house or of a horse the ownership is not transferred. — But another reason is, because money, while it is turned to use, is not consumed nor deteriorated; but it is not so concerning other things, which, according as we use them more and longer, tend more to defect. — But the third reason is, because money, as far as concerns itself, does not by itself bear fruit, but the fruit comes from elsewhere; but it is not so concerning other things, which of themselves bring forth fruit and utility: and therefore it is not alike[^54]. — But many things could here be asked concerning usury and theft and robbery and sacrilege, but for the sake of brevity let these suffice.
+
+### Doubt VIII.
+
+Likewise it is asked about this which he says: *You shall not speak false testimony against your neighbor.* Against this it is objected: because not only does he sin who bears false testimony against his neighbor, but also against himself: therefore not only that ought to be forbidden, but also this. — Likewise, if someone bears false testimony for the utility of his neighbor, it is certain that without doubt he sins; and he does not sin against the neighbor, but rather against God: therefore it seems that the prohibition of false testimony does not pertain[^55] to the second table, but rather to the first. — Likewise it is asked, since perjury is unto the injury of God and unto the injury of the neighbor, why does the Master[^56] say that perjury is forbidden rather in this commandment than in the second commandment? And why does he treat of perjury rather in the exposition of this commandment than in the exposition of the second?
+
+**I respond:** It must be said that in this precept there is forbidden the falsity of the mouth, especially as it is ordered to the harm of the neighbor, and consequently nonetheless, inasmuch as it is ordered to the harm of oneself. For a word is [directed] toward another, and he who speaks a falsehood to another, in a certain manner, even if he does not harm [him] by taking anything away, yet deceives [him] by misleading[^57]. — And through this a response can be made to that which is first objected.
+
+But to that which is objected, that one lies against God; it must be said that a lie which is in the doctrine of faith and religion and is against divine truth and is ordered to the harm of the neighbor, can be forbidden from diverse causes, both in the commandments of the first table and in the commandments of the second, as was said concerning perjury[^58]. And because the knowledge of perjury depends upon the knowledge of lying — for perjury includes lying — hence it is that, although it is forbidden both in the second commandment of the first table and in the fifth of the second, the Master reserves the determination concerning perjury to the explication of the fifth commandment. — And through this a response can be made to the objections[^59].
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each renders the Quaracchi critical apparatus entry: **La.** the Latin note, **En.** a literal English rendering. Per Quaracchi's per-page footnote restart, this chunk picks up p.829's footer note 9 (→ [^1]; notes 1–8 belong to the preceding chunk d37-a2-q3, whose band closed on p.829 n.8), then continues page by page through p.836 (the dubia closes mid-p.836; its footers nn.1–8 → [^55]–[^62], while p.836's L-col nn.1–5 of the *next* distinction's NOTAE block are not part of this chunk — but note the dubia's own nn.1–8 are on this page).
+
+[^1]: **La.** De hoc axiomate cfr. tom. II. pag. 904, nota 2. — In proposit. praecedenti ratio haberi videtur illius definitionis *exemplaris* sive *ideae,* quae occurrit in Senecae Epist. 65, ubi dicitur, exemplare esse « ad quod respiciens artifex id quod destinabat, efficit ». Cfr. tom. I. pag. 600, nota 7. — Mox pro *in re extra* cod. A *in re existente,* et paulo interius pro *habeat,* quod est in codd. A G K Z bb et edd. 1, 2, in aliis *habet.*
+     **En.** On this axiom cf. vol. 2, p. 904, note 2. — In the preceding proposition the reasoning seems to be drawn from that definition of the *exemplar* or *idea* which occurs in Seneca's *Letter* 65, where it is said that an exemplar is that « looking to which the craftsman effects that which he had purposed ». Cf. vol. 1, p. 600, note 7. — Soon, for *in a thing outside* codex A [reads] *in an existing thing,* and a little within, for *has* (*habeat*), which is in codices A G K Z bb and editions 1, 2, the others [read] *has* (*habet*).
+
+[^2]: **La.** Hic c. 1. — Pro *dicit* cod. bb *tangit.* Paulo superius verbo *venerandum* cod. A praemittit *primo.*
+     **En.** Here, ch. 1. — For *says* codex bb [reads] *touches upon.* A little above, before the word *to be venerated* codex A prefixes *first.*
+
+[^3]: **La.** Cfr. II. Sent. d. 39. a. 1. q. 2. in fine.
+     **En.** Cf. *Sentences* bk. 2, d. 39, art. 1, q. 2, at the end.
+
+[^4]: **La.** Edd. falso *Anima enim facit novas res.*
+     **En.** The editions falsely [read] *for the soul makes new things.*
+
+[^5]: **La.** Cfr. hic lit. Magistri, c. 1. seq.
+     **En.** Cf. here, the letter of the Master, ch. 1 ff.
+
+[^6]: **La.** Exod. 20, 2: *Ego sum Dominus Deus tuus.* Eadem verba habentur Deut. 5, 6; sed Deut. 6, 4: *Dominus Deus noster, Dominus unus est.* — De proposit. seq. cfr. supra a. 2. q. 2. ad 5. — Paulo ante pro *omnem latriae cultum* codd. A G H I K T V aa *honorem latriae.*
+     **En.** Exod. 20:2: *I am the Lord your God.* The same words are had at Deut. 5:6; but Deut. 6:4: *The Lord our God is one Lord.* — On the proposition that follows cf. above, art. 2, q. 2, reply to 5. — A little before, for *all the worship of latria* codices A G H I K T V aa [read] *the honor of latria.*
+
+[^7]: **La.** Art. 1. et 2. — Superius pro *Quid sit* cod. K *Quae sit.* — De hoc dubio cfr. Alex. Hal., S. p. II. q. 160. et p. III. q. 30. per totam; B. Albert., hic a. 5; S. Thom. et Richard. a Med., hic circa lit.; Petr. a Tar., hic q. 2. a. 1.
+     **En.** Art. 1 and 2. — Above, for *What it is* codex K [reads] *Which it is.* — On this doubt cf. Alexander of Hales, *Summa,* pt. 2, q. 160, and pt. 3, q. 30 throughout; Bl. Albert, here, art. 5; St. Thomas and Richard of Mediavilla, here, on the letter; Peter of Tarentaise, here, q. 2, art. 1.
+
+[^8]: **La.** Cfr. infra dub. 8.
+     **En.** Cf. below, doubt 8.
+
+[^9]: **La.** Libr. II. Phys. text. 62. (c. 6.), quem locum Averroes sic exponit: *Otiosa est illa causa, a qua non invenitur eius finis.* — Gregor., VII. Moral. c. 17. n. 38: *Otiosum quippe verbum est, quod aut ratione iustae necessitatis aut intentione piae utilitatis caret.*
+     **En.** Bk. 2 of the *Physics,* text 62 (ch. 6), which passage Averroes expounds thus: *That cause is idle from which its end is not found.* — Gregory, *Morals* bk. 7, ch. 17, n. 38: *For an idle word is that which lacks either the reason of just necessity or the intention of pious utility.*
+
+[^10]: **La.** Ita codd. A G K N T aa, in aliis et edd. *quia.*
+     **En.** Thus codices A G K N T aa, in the others and the editions [read] *because.*
+
+[^11]: **La.** Cfr. supra d. 10. dub. 4. nec non d. 3. a. 2. q. 2. in fine corp. — Mox pro *deberent* cod. F *debeant.*
+     **En.** Cf. above, d. 10, doubt 4, as well as d. 3, art. 2, q. 2, at the end of the body. — Soon, for *ought* (*deberent*) codex F [reads] *ought* (*debeant*).
+
+[^12]: **La.** Vide supra d. 25. a. 1. q. 2. in corp. — Quoad conclusionem cfr. quae supra a. 2. q. 1. et 2. in corp. dicta sunt de relatione trium primorum Decalogi praeceptorum ad tres personas divinas, quae relatio etiam infra in solut. respicitur.
+     **En.** See above, d. 25, art. 1, q. 2, in the body. — As to the conclusion cf. what was said above, art. 2, q. 1 and 2, in the body, concerning the relation of the first three precepts of the Decalogue to the three divine persons, which relation is also regarded below in the solution.
+
+[^13]: **La.** Hic c. 2. — Pro *fidem Veritatis* Vat. *fidei veritatem.*
+     **En.** Here, ch. 2. — For *faith in the Truth* the Vatican [reads] *the truth of faith.*
+
+[^14]: **La.** Cfr. infra d. 39. a. 1. q. 2. in corp. — Paulo superius pro *advocatur* codd. UZ *invocatur,* et paulo inferius pro *ratione secundi* cod. A *respectu secundi.*
+     **En.** Cf. below, d. 39, art. 1, q. 2, in the body. — A little above, for *is invoked* (*advocatur*) codices U Z [read] *is invoked* (*invocatur*), and a little below, for *by reason of the second* codex A [reads] *with respect to the second.*
+
+[^15]: **La.** Vel commutatis verbis: *vanum est aliquid aliquando formaliter, aliquando materialiter.* — Mox edd. omittunt verba *qui quantum est… sermonis.*
+     **En.** Or with the words transposed: *a thing is sometimes vain formally, sometimes materially.* — Soon the editions omit the words *which, as far as concerns… of speech.*
+
+[^16]: **La.** Dist. 39. — Superius pro *persuadeat* cod. A *persuadet.*
+     **En.** Distinction 39. — Above, for *he may persuade* codex A [reads] *he persuades.*
+
+[^17]: **La.** De hoc dubio cfr. Alex. Hal., S. p. III. q. 31. m. 1; B. Albert., hic a. 6; S. Thom., hic circa lit.; Petr. a Tar., hic q. 2. a. 2.
+     **En.** On this doubt cf. Alexander of Hales, *Summa,* pt. 3, q. 31, m. 1; Bl. Albert, here, art. 6; St. Thomas, here, on the letter; Peter of Tarentaise, here, q. 2, art. 2.
+
+[^18]: **La.** Cap. 20, 12, ubi Vulgata *ut essent signum* pro *ut sint in signum.* Pro *Ezechiele* edd. cum plurimis codd. perperam *Osee.*
+     **En.** Ch. 20:12, where the Vulgate [reads] *that they might be a sign* for *that they might be for a sign.* For *Ezekiel* the editions, with very many codices, wrongly [read] *Hosea.*
+
+[^19]: **La.** Secundum Hesychium, in Levit. 26, 26. Cfr. supra scholion ad a. 2. q. 3. — Inferius pro *aliam* cod. K *illum,* edd. *alium,* quae et subinde verbo *fuit* praefigunt *non.*
+     **En.** According to Hesychius, on Lev. 26:26. Cf. above, the scholion on art. 2, q. 3. — Below, for *another* (*aliam*) codex K [reads] *that one,* the editions *another* (*alium*), which also thereupon prefix *not* to the word *was.*
+
+[^20]: **La.** Cfr. Matth. 24, 20. *Sabbato* enim, ut Beda in illud Act. 1, 12: *Sabbati habens iter,* animadvertit, iuxta Legem plus quam mille passus incedere non licebat. — Mox pro *itinerantur* edd. *ambulant,* et dein pro *solemnibus* codd. A K U Z *solemnitatibus.*
+     **En.** Cf. Matt. 24:20. For on the *Sabbath,* as Bede notes on that text of Acts 1:12, *having a Sabbath's journey,* it was not lawful by the Law to walk more than a thousand paces. — Soon, for *they travel* the editions [read] *they walk,* and then for *solemn [days]* codices A K U Z [read] *solemnities.*
+
+[^21]: **La.** Plurimi codd. inserunt *ab homine,* superflue.
+     **En.** Very many codices insert *by man,* superfluously.
+
+[^22]: **La.** Pro *fugiendum,* quam lectionem cod. A custodivit, alii codd. et edd. *faciendum,* cod. K *non faciendum.* Paulo ante pro *impletionem* cod. F *perfectionem.*
+     **En.** For *to be shunned,* which reading codex A has preserved, the other codices and editions [read] *to be done,* codex K *not to be done.* A little before, for *fulfillment* (*impletionem*) codex F [reads] *perfection.*
+
+[^23]: **La.** *Opus peccati* servile dicitur, quia, ut Ioan. 8, 34. dicit, *omnis qui facit peccatum, servus est peccati.* Cfr. August., Serm. 33. (alias 18. de Diversis) c. 3. n. 3. — August., IV. de Gen. ad lit. c. 11. n. 21. ait: *Et dici quidem probabiliter potest, observandum Sabbatum Iudaeis fuisse praeceptum in umbra futuri, quae spiritualem requiem figuraret, quam Deus exemplo huius quietis suae* [scil. post creationem] *fidelibus bona opera facientibus arcana significatione pollicebatur. Cuius quietis et ipse Dominus Christus, qui non, nisi quando voluit, passus est, etiam sepultura sua mysterium confirmavit. Ipso quippe die Sabbati requievit in sepulcro eumque totum diem habuit sanctae cuiusdam vacationis* etc.
+     **En.** The *work of sin* is called servile, because, as John 8:34 says, *everyone who commits sin is the slave of sin.* Cf. Augustine, *Sermon* 33 (otherwise 18, *On Various Subjects*), ch. 3, n. 3. — Augustine, *On Genesis to the Letter* bk. 4, ch. 11, n. 21, says: *And it can indeed probably be said that the observance of the Sabbath was enjoined upon the Jews in a shadow of the future, which would figure the spiritual rest which God, by the example of this rest of his own* [namely, after creation] *promised by a hidden signification to the faithful who do good works. And the Lord Christ himself, who suffered only when he willed, confirmed by his very burial the mystery of this rest. For on the very day of the Sabbath he rested in the tomb and held that whole day as one of a certain holy repose,* etc.
+
+[^24]: **La.** Praeter locc. supra pag. 486, nota 5. citt. cfr. Iustin., I. Apolog. pro Christian. n. 67, et Damasc., IV. de Fide orthod. c. 23. — De tertia causa subinde adducta, quare observantia Dominicae etc. introducta sit, scil. in amotionem erroris, cfr. Tertull., Apolog. c. 16. et I. ad Nationes, n. 13. Cfr. etiam August., Epist. 55. (alias 119.) c. 6. n. 11. seqq., et Isidor., V. Etymolog. c. 30. n. 5. seqq. Nicephor., VII. Eccles. histor. c. 46, ait: *Diem eum, quem Iudaei primum numerarunt, et Graeci soli dicarunt, dominicum appellavit* [Constantinus] etc.; cfr. tamen Apoc. 1, 10.
+     **En.** Besides the passages cited above, p. 486, note 5, cf. Justin, *First Apology for the Christians,* n. 67, and Damascene, *On the Orthodox Faith* bk. 4, ch. 23. — On the third cause thereupon adduced, why the observance of the Lord's day, etc., was introduced, namely for the removal of error, cf. Tertullian, *Apology* ch. 16 and *To the Nations* bk. 1, n. 13. Cf. also Augustine, *Letter* 55 (otherwise 119), ch. 6, n. 11 ff., and Isidore, *Etymologies* bk. 5, ch. 30, n. 5 ff. Nicephorus, *Ecclesiastical History* bk. 7, ch. 46, says: *The day which the Jews numbered first, and the Greeks dedicated to the sun, he* [Constantine] *called the Lord's [day],* etc.; cf. nevertheless Apoc. 1:10.
+
+[^25]: **La.** Edd. *praeter necessitatem.* Superius pro *specialiter vacaret ad cultum* edd. *vacaret cultui.*
+     **En.** The editions [read] *beyond necessity.* Above, for *might be specially free for the worship* the editions [read] *might be free for the worship.*
+
+[^26]: **La.** Sive Serm. 9. (alias 96. de Tempore) c. 3. n. 3, in quo dicto pro *quam in theatris* [plures codd. *theatricis*] *seditionibus insisteret* textus origin. exhibet *quam in theatro seditiosus existeret,* et pro *in neomeniis* [codd. W Y *choreis*] *suis* profert *in menianis suis;* quod vocabulum August. etiam usurpavit in exposit. in Evang. Ioan. tr. 3. n. 19, ubi de eadem re fere iisdem verbis loquitur uti hic; in quem loc. Maurini annotant: *Editi neomeniis, corrupte pro menianis, quod nostri omnes mss. praeferunt. Meniana veteres vocant podiolos seu domorum solaria* (cfr. Ducange, Glossarium etc.).
+     **En.** Or *Sermon* 9 (otherwise 96, *On the Season*), ch. 3, n. 3, in which saying, for *than persist in seditions at the theaters* [several codices, *theatrical*] the original text presents *than be seditious in the theater,* and for *at their new-moon feasts* [codices W Y, *dances*] it offers *on their balconies;* which word Augustine also used in the *Exposition on the Gospel of John,* tract 3, n. 19, where he speaks of the same matter in almost the same words as here; on which passage the Maurists note: *The printed [editions read] new-moon feasts, corruptly for balconies, which all our manuscripts prefer. The ancients call balconies the small porches or sun-decks of houses* (cf. Ducange, *Glossary,* etc.).
+
+[^27]: **La.** Cod. W *removere.*
+     **En.** Codex W [reads] *to remove.*
+
+[^28]: **La.** Partis II. a. 3. q. 1. seq. — Paulo superius pro *praedicto* codd. I K L *tertio,* et pro *sabbatizare* edd. *subiacere.* — Cfr. de hoc dubio Alex. Hal., S. p. III. q. 32; B. Albert., hic a. 7; S. Thom., hic q. 1. a. 5; Petr. a Tar., hic q. 2. a. 3; Richard. a Med., hic a. 2. q. 3.
+     **En.** Pt. 2, art. 3, q. 1 ff. — A little above, for *aforesaid* codices I K L [read] *third,* and for *to keep Sabbath* the editions [read] *to be subject.* — Cf. on this doubt Alexander of Hales, *Summa,* pt. 3, q. 32; Bl. Albert, here, art. 7; St. Thomas, here, q. 1, art. 5; Peter of Tarentaise, here, q. 2, art. 3; Richard of Mediavilla, here, art. 2, q. 3.
+
+[^29]: **La.** Cfr. supra d. 29. q. 1. arg. 1. ad oppos.
+     **En.** Cf. above, d. 29, q. 1, argument 1 *to the contrary.*
+
+[^30]: **La.** Cod. F *subdit etiam.* Inferius pro *honorare* edd. *honorari.* Deinde post *respondeat* cod. A inserit *tantum.*
+     **En.** Codex F [reads] *also adds.* Below, for *to honor* (*honorare*) the editions [read] *to be honored* (*honorari*). Then after *corresponds* codex A inserts *only.*
+
+[^31]: **La.** Vide supra d. 29. q. 1. arg. 4. — Mox Vat. omittit *et caritatis ordinem,* et paulo inferius cum edd. 1, 2 pro *intelligi* substituit *intelligere.*
+     **En.** See above, d. 29, q. 1, argument 4. — Soon the Vatican omits *and the order of charity,* and a little below, with editions 1, 2, for *to be understood* it substitutes *to understand.*
+
+[^32]: **La.** Codd. A I cluderetur. Superius pro *Alia etiam* (in Vat. deest *etiam*) cod. Q *Alia autem.*
+     **En.** Codices A I [read] *might be enclosed.* Above, for *also another* (*Alia etiam*) (in the Vatican *also* is absent) codex Q [reads] *but another.*
+
+[^33]: **La.** Cfr. *Epistola de honorandis parentibus* (epist. 11. inter opera Hieronymi). — Superius pro *et aliis sunt graves* codd. exhibent *cum aliis sunt graves,* et omittunt deinde *et;* post *necessitatis,* inferius post *quia homines* (Vat. *omnes*) edd. supplent *ad hoc,* et mox pro *Et ad illud* codd. A V substituunt *Et ad aliud.*
+     **En.** Cf. the *Letter on Honoring Parents* (Letter 11 among the works of Jerome). — Above, for *and are burdensome to others* the codices present *are burdensome along with others,* and then omit *and;* after *of necessity,* below after *because men* (the Vatican: *all*) the editions supply *for this,* and soon for *And to that* codices A V substitute *And to the other.*
+
+[^34]: **La.** Vers. 8: *Pietas autem ad omnia utilis est, promissionem habens vitae* etc. Cfr. August., Enarrat. in Ps. 143, n. 18.
+     **En.** Verse 8: *But piety is useful for all things, having the promise of life,* etc. Cf. Augustine, *Expositions on the Psalms,* on Ps. 143, n. 18.
+
+[^35]: **La.** Matth. 5, 7: *Beati misericordes, quoniam ipsi misericordiam consequentur.*
+     **En.** Matt. 5:7: *Blessed are the merciful, for they shall obtain mercy.*
+
+[^36]: **La.** Eph. 5, 5: *Avarus, quod est idolorum servitus.* Cfr. Matth. 16, 1. seqq. — Paulo ante pro *natcimt* [recte *nascuntur*] codd. A K *magis,* et paulo post pro *de idololatria* cod. A *contra idololatriam.* Idem cod. A in fine subiungit pro *praecepto.*
+     **En.** Eph. 5:5: *The covetous, which is the service of idols.* Cf. Matt. 16:1 ff. — A little before, for *are born* codices A K [read] *more,* and a little after, for *concerning idolatry* codex A [reads] *against idolatry.* The same codex A at the end adds [a phrase] for *precept.*
+
+[^37]: **La.** Cfr. Alex. Hal., S. p. III. q. 33; B. Albert., hic a. 8; Petr. a Tar., hic q. 3. a. 1; Richard. a Med., hic a. 3. q. 1, et circa lit.
+     **En.** Cf. Alexander of Hales, *Summa,* pt. 3, q. 33; Bl. Albert, here, art. 8; Peter of Tarentaise, here, q. 3, art. 1; Richard of Mediavilla, here, art. 3, q. 1, and on the letter.
+
+[^38]: **La.** Cod. F et edd. subnectunt *secundum litteram,* quod et in textu Magistri habetur.
+     **En.** Codex F and the editions append *according to the letter,* which is also had in the text of the Master.
+
+[^39]: **La.** Vers. 18. Cfr. supra d. 30. q. 5. arg. 1. ad oppos.
+     **En.** Verse 18. Cf. above, d. 30, q. 5, argument 1 *to the contrary.*
+
+[^40]: **La.** Pro *ira progrediens* edd. *progressus,* et paulo inferius *ratione* pro *intentione.*
+     **En.** For *anger proceeding* the editions [read] *advance,* and a little below, *by reason* for *intention.*
+
+[^41]: **La.** Matth. 5, 22. — Paulo ante pro *consensum* edd. *offensam,* et superius pro *praedicti* cod. Q *primi.* Aliquanto inferius pro *praecedentem* edd. *praecedentis.*
+     **En.** Matt. 5:22. — A little before, for *consent* the editions [read] *offense,* and above, for *aforesaid* codex Q [reads] *first.* Somewhat below, for *preceding* (*praecedentem*) the editions [read] *of the preceding* (*praecedentis*).
+
+[^42]: **La.** Vers. 3. — August., I. de Civ. Dei, c. 20, postquam demonstravit, suicidium quoque hoc praecepto prohiberi, sic pergit: *Unde quidam hoc praeceptum etiam in bestias ac pecora conantur extendere, ut ex hoc nullum etiam illorum liceat occidere. Cur non ergo et herbas, et quidquid humo radicitus alitur ac figitur? Nam et hoc genus rerum, quamvis non sentiat, dicitur vivere, ac per hoc potest et mori, proinde etiam, cum vis adhibetur, occidi… Num igitur ob hoc, cum audimus: Non occides, virgultum vellere nefas ducimus et Manichaeorum errori insanissime acquiescimus?… restat, ut de homine intelligamus quod dictum est: Non occides, nec alterum ergo nec te. Neque enim qui se occidit aliud quam hominem occidit.* — De hoc dubio cfr. Alex. Hal., S. p. III. q. 34; B. Albert., hic a. 9; Petr. a Tar., hic q. 3. a. 2; Richard. a Med., hic a. 3. q. 2.
+     **En.** Verse 3. — Augustine, *City of God* bk. 1, ch. 20, after he has shown that suicide also is forbidden by this precept, continues thus: *Hence some try to extend this precept even to beasts and cattle, so that from this it should be lawful to kill none of them either. Why not then also the plants, and whatever is nourished and fixed by its roots in the soil? For this kind of thing too, although it does not perceive, is said to live, and through this can also die, and accordingly, when force is applied, be killed… Shall we therefore on this account, when we hear: You shall not kill, deem it a crime to pull up a shrub and most insanely acquiesce in the error of the Manichees?… it remains that we should understand of man what was said: You shall not kill, therefore neither another nor yourself. For neither does he who kills himself kill anything other than a man.* — On this doubt cf. Alexander of Hales, *Summa,* pt. 3, q. 34; Bl. Albert, here, art. 9; Peter of Tarentaise, here, q. 3, art. 2; Richard of Mediavilla, here, art. 3, q. 2.
+
+[^43]: **La.** Hic c. 4. — Paulo superius pro *maxime* edd. *magis.*
+     **En.** Here, ch. 4. — A little above, for *most of all* the editions [read] *more.*
+
+[^44]: **La.** Libr. IV. Sent. d. 39. dub. 3. et d. 41. dub. 3. seq. Codd. U Z allegant d. 33. — De hoc dubio cfr. Alex. Hal., S. p. III. q. 35; B. Albert., hic a. 10; S. Thom., hic circa lit.; Petr. a Tar., hic q. 3. a. 3.
+     **En.** *Sentences* bk. 4, d. 39, doubt 3, and d. 41, doubt 3 ff. Codices U Z allege d. 33. — On this doubt cf. Alexander of Hales, *Summa,* pt. 3, q. 35; Bl. Albert, here, art. 10; St. Thomas, here, on the letter; Peter of Tarentaise, here, q. 3, art. 3.
+
+[^45]: **La.** Iustinian., IV. Instit. iuris civ. c. 1: *Furtum est contrectatio fraudulosa, lucri faciendi gratia, vel ipsius rei vel etiam usus eius possessionisve;* quod lege naturali prohibitum est admittere. Et ibid. c. 2. rapinam describens ait: *Qui vi res alienas rapit tenetur quidem etiam furti. Quis enim magis alienam rem, invito domino, contrectat, quam qui vi rapit?* — Paulo superius pro *speciem* cod. K *differentiam.* Paulo inferius post *contrectatio rei* codd. F K repetunt *alienae.*
+     **En.** Justinian, *Institutes of Civil Law* bk. 4, ch. 1: *Theft is a fraudulent handling, for the sake of making gain, either of the thing itself or even of the use or possession of it;* which by natural law it is forbidden to commit. And in the same place, ch. 2, describing robbery, he says: *He who carries off another's goods by force is held liable indeed also for theft. For who handles another's thing more, against the owner's will, than he who carries it off by force?* — A little above, for *species* codex K [reads] *difference.* A little below, after *handling of a thing* codices F K repeat *another's.*
+
+[^46]: **La.** Respicitur illud Ps. 49, 18: *Si videbas furem, currebas cum eo.* — Mox edd. omittunt *ergo si… mortaliter.*
+     **En.** That text of Ps. 49:18 is regarded: *If you saw a thief, you ran with him.* — Soon the editions omit *therefore if… mortally.*
+
+[^47]: **La.** Codd. A G K Z *committit.*
+     **En.** Codices A G K Z [read] *he commits.*
+
+[^48]: **La.** Luc. 6, 35: *Mutuum date, nihil inde sperantes.*
+     **En.** Luke 6:35: *Lend, hoping for nothing thereby.*
+
+[^49]: **La.** Hic c. 4.
+     **En.** Here, ch. 4.
+
+[^50]: **La.** Cfr. II. Sent. d. 36. dub. 5. — Aliquanto superius pro *transferre* cod. A *transferri,* et paulo post pro *transfert* codd. G K aa *transfertur.*
+     **En.** Cf. *Sentences* bk. 2, d. 36, doubt 5. — Somewhat above, for *to transfer* (*transferre*) codex A [reads] *to be transferred* (*transferri*), and a little after, for *transfers* codices G K aa [read] *is transferred.*
+
+[^51]: **La.** Vide I. Sent. d. 47. q. 1. in corp.
+     **En.** See *Sentences* bk. 1, d. 47, q. 1, in the body.
+
+[^52]: **La.** Scilicet domini, qui dat usuras.
+     **En.** Namely of the owner, who gives the usury.
+
+[^53]: **La.** B. Albert., hic a. 15: *Quia dans usuras gratis postulat quod ille ex praecepto Domini tenetur impendere, scilicet mutuo; sed quia ille non facit quod de iure Domini facere tenetur, ideo dat usuram, quasi redimens vexationem suam et quasi emens illud ad hoc, ut faciat quod de iure gratis facere deberet* etc. — Mox pro *interfici* cod. U *occidi.*
+     **En.** Bl. Albert, here, art. 15: *Because he who gives usury gratis demands that which the other is bound by the Lord's precept to bestow, namely the loan; but because the other does not do what by right he is bound to do for the Lord, therefore he gives usury, as if ransoming his harassment and as if buying that, to this end, that [the other] may do what he ought by right to do gratis,* etc. — Soon, for *to be killed* (*interfici*) codex U [reads] *to be slain* (*occidi*).
+
+[^54]: **La.** Respicitur illud 1. Ioan. 2, 27: *Unctio eius docet vos de omnibus.* — In edd. deest *unctionis et;* pro *unctionis* codd. K O substituunt *intentionis.*
+     **En.** That text of 1 John 2:27 is regarded: *His unction teaches you about all things.* — In the editions *of unction and* is lacking; for *of unction* codices K O substitute *of intention.*
+
+[^55]: **La.** Cod. U et edd. 1, 2 *est ibi,* Vat. *ibi.* Inferius post *et hoc* codd. K U subdunt *est,* cod. Z supplet *patet.* Paulo post pro *Prima quidem* edd. *Prima ratio.*
+     **En.** Codex U and editions 1, 2 [read] *is there,* the Vatican *there.* Below, after *and this* codices K U add *is,* codex Z supplies *is plain.* A little after, for *the first indeed* the editions [read] *the first reason.*
+
+[^56]: **La.** De his rationibus cfr. Aristot., IV. Ethic. c. 1, et praecipue I. Polit. c. 6. seq. (c. 3.).
+     **En.** On these reasons cf. Aristotle, *Ethics* bk. 4, ch. 1, and especially *Politics* bk. 1, ch. 6 ff. (ch. 3).
+
+[^57]: **La.** Permulti codd. *spectat.*
+     **En.** Very many codices [read] *pertains* (*spectat*).
+
+[^58]: **La.** Hic c. 5. in fine. — Codd. A K bb bis *iniuria* pro *in iniuriam.*
+     **En.** Here, ch. 5, at the end. — Codices A K bb [read] twice *injury* (*iniuria*) for *unto injury* (*in iniuriam*).
+
+[^59]: **La.** Quapropter Aristot., de Virtut. et vitiis, c. 7, mendacium recenset inter vitia contra iustitiam, quae ad alterum est. Cfr. IV. Ethic. c. 7. — Supra dub. 2. — Superius pro *mendacium* plurimi codd. perperam exhibent *mandatum,* et deinde non ita multo post permulti codd. ante *ex diversis causis* interiiciunt *et* (i. e. etiam). — Cod. G *patet solutio ad obiecta.* — Cfr. Alex. Hal., S. p. III. q. 37. m. 1.
+     **En.** Wherefore Aristotle, *On the Virtues and Vices,* ch. 7, reckons lying among the vices against justice, which is [directed] toward another. Cf. *Ethics* bk. 4, ch. 7. — Above, doubt 2. — Above, for *lie* (*mendacium*) very many codices wrongly present *commandment* (*mandatum*), and then not long after very many codices insert before *from diverse causes* the word *and* (i.e. also). — Codex G [reads] *the solution to the objections is plain.* — Cf. Alexander of Hales, *Summa,* pt. 3, q. 37, m. 1.
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from 450 dpi PDF column bands of printed pp.829–836 (PDF 851–858; offset pdf = printed + 22), with the IA djvu OCR (`raw/bonaventure_vol3_raw.txt`, lines 57563–58032) as the base for clean running prose. Running heads confirmed: p.829/831/833/835 `DIST. XXXVII. DUBIA.` (odd); p.830/832/834/836 `SENTENTIARUM LIB. III.` (even). Opener `DUBIA CIRCA LITTERAM MAGISTRI` (OCR garble `DUBIA CIRCA UTTERAM MAOISTRI`) sits in p.829 R-col after a2-q3 fully closes (`…ordinatio hominis ad propriam personam`). Closes DISTINCTIO XXXVII in full. Chunk ends mid-p.836 R-col at Dub. VIII `…Et per hoc potest ad obiecta responderi`; the next column-content is DISTINCTIO XXXVIII (Lombard's `Cap. I. De triplici genere mendacii`, raw 58033 / forward boundary, verified).
+
+**Dubia list (I–VIII).** Eight doubts on the letter (Lombard's exposition of the Decalogue):
+- **Dub. I** (pp.829–830) — Origen's *idolum est quod nihil habet simile sui:* objected via "nihil in intellectu quod prius non in sensu." Resolved: the soul makes new *compositions* (chimera, goat-stag, golden mountain) not new things; an idol is "nothing" only as having no correspondent in the universe / as the false divinity the idolater attributes.
+- **Dub. II** (pp.830–831) — *Non assumes nomen Dei tui in vanum:* is this not redundant with the fifth precept (perjury)? Resolved: first table = injury to Truth invoked; second-table fifth = injury to neighbor damaged; *vanum de se* vs *ex accidenti.*
+- **Dub. III** (pp.831–832) — *Memento ut diem Sabbati sanctifices:* why a ceremonial precept among the moral? Resolved: the Sabbath is *morale* (cessation for God) and *caerimoniale/figurale* (rest of Christ in the tomb); cites Augustine, *De Decem Chordis;* dominical observance introduced for redemption-memory and against sun-worship.
+- **Dub. IV** (pp.832–833) — *Honora patrem… ut sis longaevus:* why only parents, why honor over benefit, why length of life promised? Resolved via *ordo caritatis,* piety's promise (1 Tim. 4:8), and the Jewish proneness to avarice/idolatry.
+- **Dub. V** (pp.833–834) — *Non occides:* will-of-killing forbidden only *secundum spiritum* vs adultery's will forbidden also *secundum litteram.* Resolved: *intellectus Legislatoris* (interior will + exterior act) vs *populi carnalis* (only what bore a legal penalty); Matt. 5:22's threefold degree; self-killing and rational-life killing forbidden, brute animals not. **Found on p.833 R-col (`Dub. V.`); the audit grep missed it because the OCR garbles the header (`Dbb. V.`).**
+- **Dub. VI** (pp.834–835) — *Non moechaberis:* does adultery's prohibition include fornication / all carnal lust? Resolved: the Decalogue forbids sins as harming the neighbor; adultery here covers every illicit *coitus*/misuse, fornication and against-nature alike; the Gloss read morally of spiritual fornication.
+- **Dub. VII** (pp.835–836) — *Non furtum facies* (sacrilege/robbery/usury): differences; how usury is theft when the owner consents. Resolved: all = illicit *usurpatio rei alienae;* usury has violence + fraud; *voluntas absoluta* vs *conditionalis;* the threefold reason money differs from other goods (transferred ownership, non-consumption, non-fruition).
+- **Dub. VIII** (p.836) — *Non loqueris falsum testimonium:* why second-table, not first; why the Master reserves perjury here. Resolved: forbids *falsitas oris* primarily as harm to neighbor; lying against God belongs to both tables; perjury includes lying, reserved to the fifth-precept explication. **Closes the dubia.**
+
+**Page-split map (body).** Dub. I → p.829 R-col → p.830; Dub. II → p.830 R-col → p.831; Dub. III → p.831 R-col → p.832; Dub. IV → p.833 → R-col; Dub. V → p.833 R-col → p.834; Dub. VI → p.834 R-col → p.835; Dub. VII → p.835 → p.836; Dub. VIII opens at p.836 L-col foot, body + Respondeo in p.836 R-col (read after the L-col, which at its foot already starts DISTINCTIO XXXVIII).
+
+**Apparatus (62, per-page restart, continuous renumber).** p.829 n.9 → [^1] (notes 1–8 are a2-q3's, closed prior); p.830 nn.1–10 → [^2]–[^11]; p.831 nn.1–9 → [^12]–[^20]; p.832 nn.1–8 → [^21]–[^28]; p.833 nn.1–10 → [^29]–[^38]; p.834 nn.1–5 → [^39]–[^43]; p.835 nn.1–11 → [^44]–[^54]; p.836 nn.1–8 → [^55]–[^62]. (Footnote ordering on each page = L-col band notes then R-col band notes, as the columns print them.) Marker pairing 62/62, both bodies.
+
+**Footer hand-offs.** PICKED UP: p.829 n.9 (the *De hoc axiomate / Seneca Epist. 65 exemplar* note keying the Dub. I axiom body) — a2-q3's band closed on p.829 n.8. FORWARDED: nothing — the dubia footer band closes on p.836 with its own nn.1–8 (→ [^55]–[^62]); p.836's `NOTAE AD LIBR. SENTENTIARUM` block and the next distinction's footnote sequence belong to DISTINCTIO XXXVIII.
+
+**Scholion.** `has_scholion: false` — no `SCHOLION` header anywhere in the dubia range (grep-verified over raw 57563–58032; the only `scholion` token, at [^19], is a cross-reference inside a footnote to the a2-q3 scholion).
+
+**`[?]` flags.** None — pp.829–836 are legible at 450 dpi and the OCR base is clean; the only header garbles (`Dbb. V.` / `Dub. VHI.`) were resolved against the PDF bands.
