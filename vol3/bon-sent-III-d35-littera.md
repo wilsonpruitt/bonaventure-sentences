@@ -4,107 +4,109 @@ volume: 3
 book: 3
 distinctio: 35
 type: littera
-line_start: 53518
-line_end: 53598
-word_count_latin: 1113
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Distinctio XXXV — textus Magistri Sententiarum"
+title_en: "Distinction XXXV — text of the Master of the Sentences"
+printed_pages: [771, 772]
+pdf_pages: [793, 794]
+source: "Petri Lombardi Sententiarum Libri IV, Liber III, Dist. XXXV, Capp. I–III (as printed in S. Bonaventurae, Opera Omnia, Tomus III, Quaracchi 1887, pp. 771–772)"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from 450 dpi PDF column bands (/tmp/colcrop/vol3-p{771,772}-{L,R}-*.png; raw lines 53515–53596), fresh literal English, full NOTAE AD LIBR. SENTENTIARUM apparatus (8 entries, per-page restart renumbered continuous: p.771 [^1]–[^6], p.772 [^7]–[^8]), no scholion (littera) (2026-06-12)"
 format_version: 1
 ---
 
-# bon-sent-III-d35-littera
+# III Sent., d. 35 — Littera Magistri
+## *Distinctio XXXV — text of the Master of the Sentences*
+
+---
 
 ## Latin
+<!-- page 771 -->
 
-DISTINCTIO XXXV.
+### DISTINCTIO XXXV.
 
-                                      Cap. I.                                  nam et rem humanam , et ideo de ipso habemus sa-
-                                                                               pientiam et scientiam. « Cum enim legilur: Verbnm Aagostioas.
-                    De sapienlia el scientia , quo differanl.                  caro faclum est; in Verbo intelligitur verus Dei Filius,
-                                                                               in came agnoscitur verus hominis filius». Item , cum
-                    Post praemissa (liligcnter considerandum cst, in           dicitur: Vidimus plenum gratiae el veritatis; graliam
- Aogastinus. quo differat sapientia a scientia. De hoc Aiiguslinus '           referamns ad scientiam, et verilatem ad sapienliam ,
-              ita ait: «Philosophi disputanles de sapienlia definieiunt        quia in Cbrislo scienlia et sapicnlia fuit plenarie , et
- Dobiam 1. eam dicentes: Sapientia est rerum humanarum divi-                   nos scienliam et sapienliam de eo babemiis , qui Deus
-             narumque scientia. Ego quoqne ulrarumque reriim co-               est et homo.
-             gnitionem, id est divinarum ethumanarum, et sapien-                                             Cap. II.
-             tiatn et scienliam dici posse , non nego. Verum iuxta
-             distinelionem Apostoli , qua dixil: Alii datur sermo
-             sapienliae, alii sermo scientiae, illa definitio dividenda                  In quo di/fcral sapientia ab inlelleclu.
-             esl, ul rerum divinarum eognitio sapientia proprie
-             nuncupetur, humanarum vero cognilio proprie scien-                      Ostensa differentia inter scientiam et sapientiam ,
-             tiae nomen oblineat. Neque vero quidquid sciri ab ho-             quid dislet inter sapientiam et inlelleclum , videamus.
-             mine potesl in rebus hunianis, uhi plurimum superva-              — In hoc differuni illa duo, quia sapientia proprie est
- Dabiam i. cuae vanitatis el noxiae curiosilatis est, liuic scientiae          de aeternis, quae Verilati aeternae contemplandae in-
-             tribuo, sed illud tantum, quo (ides saluberrima, quae             lendit; intelligentia vero non modo de aeternis est,
-             ad veram beatiludineni ducit, gignitur, nutritur, riefen-         sed eliam de rebus invisibilibus et spiritualibus tem-
-             ditur, roboralur; qua scientia non pollent fideles plu-           poraliler exoriis. Per eam enim et naliira summa, quae
-             rimi, quamvis polleant ipsa lide plurimuni. Aliud est             fecit omnes naturas, id est divina , consideralur, et quae
-             enim scire tanlummodo, quid homo eredere debeal                   post ipsam sunt spirituales et invisibiles naturae , ut
-             propter adipiseendam vilam beatam; aliud est scire,               Angeli et omnes animae bonae affecliones conspiciun-
-             quomodo hoc ipsum et piis opiluletur et contra iinpios            tur. In hoc ergo dilTerenlia est, quia sapientia Crea- '
-             defendalur, quae proprio vocabulo appellatur scien-               tor tantnm conspicitur G, intell.ectu vero el Creator et
-Augustions. tia » . De his quoque duabus virtulibus idem Augusti-              creatura quaedam. Item, intelleclu intelligibilia capimus
-             nus2, differenliam inter eas assignans , super Psalmum            tantum, sapientia vero non modo capimus superiora,
-             ait: « Distat sapienlia a scientia , lestante sancto lob ,        sed etiam in cognitis deleelamur. Sic ergo distingui
-             qui quodam modo singula definiens ail : Sapienlia est             potest inter illa tria , scilicet scientiam, inlellectum.
-Dobiom 3. pielas, scientia vero est abstinere a malis. Vielatem vero           et sapienliam: scientia valet ad rectam adminislralio-
-             hoc loco posuit Dei cultum,quae Graece dicilur theo-              nem rerum temporaliuni el ad honain inler malos con-
-             sebia , quae est in cognitione et dileclione eius quod            versationem, inlelligentia ad Crealoris et crealurarum
-             semper est et incomnnitabiliter manel , quod Deus                 invisibilium speculalionem, sapientia vero ad solius
-             est. A bstincre vero a malis est in medio pravae nalio-           aeternae Veritalis contemplalioncm et delectaiionem.
-             nis prudenler versari». Idem quoque , inler huec duo
-                                                                                                             Cap. III.
-Aogustioos. aperle distinguens, ail in lihro duodecimo de Trinitale ':
-              « Dislai ab aeternorum contemplatione aclio, qua bene
-             ulimur teinporalibus rebus , et illa sapientiae, haec                 Ulrnm intelleclus el scienlia, quae inter dona
-             scientiae depiilalur; quamvis el illa. quae sapienlia              numeranlur, sint i/la quae naluraliler habel homo.
-             est, possit niinciipari scientia, nl Apostolus4 loquilur,
-             ubi dieit : Nunc scio ex parte; qtiam scientiam profe-                 Et notandum , qund inlclleclus et scientia, quae di-
-             c.to contemplationis Dei vnlt intelligi. In hoc ergo dif-         cnntur dona Spiritus sancti, alia sunt ab intellectu el
-             ferentia esl , quia ad cnntemplntioncm sapientiu , ad             scientia, quae naturaliler sunl in anima hominis. Hae
-             actionem vero scientia perlinel». — Eece aperte denion-           enim virlutes sunt, quae per graliam iiifundiiiitur ani-
-Dowom i. slratum est, in quo differant spirilus sapientiae et spi-             mis fldelium, ut per eas recte vivant; illa vero nalu-
-             rilus scienlioe , scilieei ui sapientia divinis, scientia         raliler habet hoino ex beneflcio crealionis, a Deo ta-
-             biiiuanis allributa sit rebus. Et ut docel Ailgustinus \          men. Per has atitetn virlules, quae dicunlnr Spiritus
-             iilriimquc agnosciiniis iu Cbristo, seilieel el rem divi-         sancti dona, illa naturalia reformanlur atque adiuvau-
+### Cap. I. *De sapientia et scientia, quo differant.*
 
+Post praemissa diligenter considerandum est, in quo differat sapientia a scientia. De hoc Augustinus[^1] ita ait: «Philosophi disputantes de sapientia definierunt eam dicentes: Sapientia est rerum humanarum divinarumque scientia. Ego quoque utrarumque rerum cognitionem, id est divinarum et humanarum, et sapientiam et scientiam dici posse, non nego. Verum iuxta distinctionem Apostoli, qua dixit: Alii datur sermo sapientiae, alii sermo scientiae, illa definitio dividenda est, ut rerum divinarum cognitio sapientia proprie nuncupetur, humanarum vero cognitio proprie scientiae nomen obtineat. Neque vero quidquid sciri ab homine potest in rebus humanis, ubi plurimum supervacuae vanitatis et noxiae curiositatis est, huic scientiae tribuo, sed illud tantum, quo fides saluberrima, quae ad veram beatitudinem ducit, gignitur, nutritur, defenditur, roboratur; qua scientia non pollent fideles plurimi, quamvis polleant ipsa fide plurimum. Aliud est enim scire tantummodo, quid homo credere debeat propter adipiscendam vitam beatam; aliud est scire, quomodo hoc ipsum et piis opituletur et contra impios defendatur, quae proprio vocabulo appellatur scientia». De his quoque duabus virtutibus idem Augustinus[^2], differentiam inter eas assignans, super Psalmum ait: «Distat sapientia a scientia, testante sancto Iob, qui quodam modo singula definiens ait: Sapientia est pietas, scientia vero est abstinere a malis. Pietatem vero hoc loco posuit Dei cultum, quae Graece dicitur theosebia, quae est in cognitione et dilectione eius quod semper est et incommutabiliter manet, quod Deus est. Abstinere vero a malis est in medio pravae nationis prudenter versari». Idem quoque, inter haec duo aperte distinguens, ait in libro duodecimo de Trinitate[^3]: «Distat ab aeternorum contemplatione actio, qua bene utimur temporalibus rebus, et illa sapientiae, haec scientiae deputatur; quamvis et illa, quae sapientia est, possit nuncupari scientia, ut Apostolus[^4] loquitur, ubi dicit: Nunc scio ex parte; quam scientiam profecto contemplationis Dei vult intelligi. In hoc ergo differentia est, quia ad contemplationem sapientia, ad actionem vero scientia pertinet». — Ecce aperte demonstratum est, in quo differant spiritus sapientiae et spiritus scientiae, scilicet ut sapientia divinis, scientia humanis attributa sit rebus. Et ut docet Augustinus[^5], utrumque agnoscimus in Christo, scilicet et rem divinam et rem humanam, et ideo de ipso habemus sapientiam et scientiam. «Cum enim legitur: Verbum caro factum est; in Verbo intelligitur verus Dei Filius, in carne agnoscitur verus hominis filius». Item, cum dicitur: Vidimus plenum gratiae et veritatis; gratiam referamus ad scientiam, et veritatem ad sapientiam, quia in Christo scientia et sapientia fuit plenarie, et nos scientiam et sapientiam de eo habemus, qui Deus est et homo.
 
-              I l.il.r.
-                        \l\'. de Trlnj ■■. i. n. :i. Locus Scripturne esl I.          * Episi. I. Cor. 1.1, 12. — Pro loauitur edd., exceptls
-         Cor. 12, 8. - Posi humanarum pero plurlmae edd. adileiunl              I, 8, asserit, refragante eliam originall. Infra pro di/ferant spi-
-         rerum.                                                                ritns codd. .\ BCE et edd. I, s tU/ferai spiritns.
-               4 Enarrai. in Ps. 135, n. s, nonnallla mutalis; cfr. Enclii-           •'• Llbr. Xlil. de Trln. c. 19. n, 24 . nonnullla mutatls. Loci
-         li.i. r. ■>. n. i. Locob Scriptorae eai i"li 28, 28. (Vulgala: Ecce   duo Scriplurae Btinl loan. I, l i. Etlam quae saquunlur excerpto
-         llmor Domlni, ipso esl sapieniin , ci iriciiiTr a maiu Intelll-       siiih i'\ eodem loco Augusilnl.
-         genUa) ei rcsplcltur Phil. 2, 16. — Pro versari, quod linbenl                0 Edd. I, 8 mspuHtur. — Qttaehlc rilcuniur de obieclo
-         nniii. BCDE el edd. I, s cum originali, ln aliis convcnari.           'i inteltectus excerpta ease vldentur ei Augrat., XII. dc Genes.
-               1 Cap. II. n. 22. — Pro tapientiaest edd., exceplls l. s,       ad in c. H. n. BO, ulii Idem docetur de « inteltigentiae Umtut »,
-         lapienliae esl, refragantibua codd. el orlginall.                     ■ iuii Deus, apirltnsel ■ omnla anlmae affectlo bona » Inlelligalur.
-772                                                SENTENTIARUM LIB. III.
+### Cap. II. *In quo differat sapientia ab intellectu.*
 
-tur, ul verbi gralia, inlellectus naturalis, peccato oble-           praecipuus cultus eius est. Si ergo colal mens hominis
-nebratus, per virtutem quandam et graliam, quae dici-                Deum, cuius ab eo capax facta est et cuius esse par-
-tur spiritus intelligenliae , reformatur atque adiuvalur1            ticeps potest, sapiens ipsa flt, el non sua luce, sed
-acl intelligendum; ita et per illam virtutem, quae dicilur           summae illius lucis participatione sapiens fll. Ista ergo
-spiritus sapientiae , iuvatur alque erigitur menlis ralio            hominis sapientia etiam Dei est; verum non ita Dei
-ad contemplationem et delectationem aeternae Veritatis.              est, ut ea sapiens sil Deus ; non enim parlicipatione
-      Illud etiam sciendum est, quod sapientia, de qua               sui sapiens est, sicut mens participatione Dei. Sic
-nunc disserimus, uon illa est Dei sapienlia, ut ait                  etiam dicilur iuslilia Dei non solum illa qua ipse iu-
-Augustinus 2, quae Deus est, sed hominis sapientia ,                 stus est, sed etiam illa quam dat homini, cum iusli-
-verumtamen quae secundum Deum est ac verus et                        ficat impium.
+Ostensa differentia inter scientiam et sapientiam, quid distet inter sapientiam et intellectum, videamus. — In hoc differunt illa duo, quia sapientia proprie est de aeternis, quae Veritati aeternae contemplandae intendit; intelligentia vero non modo de aeternis est, sed etiam de rebus invisibilibus et spiritualibus temporaliter exortis. Per eam enim et natura summa, quae fecit omnes naturas, id est divina, consideratur, et quae post ipsam sunt spirituales et invisibiles naturae, ut Angeli et omnes animae bonae affectiones conspiciuntur. In hoc ergo differentia est, quia sapientia Creator tantum conspicitur[^6], intellectu vero et Creator et creatura quaedam. Item, intellectu intelligibilia capimus tantum, sapientia vero non modo capimus superiora, sed etiam in cognitis delectamur. Sic ergo distingui potest inter illa tria, scilicet scientiam, intellectum et sapientiam: scientia valet ad rectam administrationem rerum temporalium et ad bonam inter malos conversationem, intelligentia ad Creatoris et creaturarum invisibilium speculationem, sapientia vero ad solius aeternae Veritatis contemplationem et delectationem.
 
-                    COMMENTARIUS                         IN MSTINCTIONEM                            XXXV.
-                                      De dono sapientiae, intellectus et scientiae.
-                                  Post praernissa diligenter considerandum est etc.
+### Cap. III. *Utrum intellectus et scientia, quae inter dona numerantur, sint illa quae naturaliter habet homo.*
+
+Et notandum, quod intellectus et scientia, quae dicuntur dona Spiritus sancti, alia sunt ab intellectu et scientia, quae naturaliter sunt in anima hominis. Hae enim virtutes sunt, quae per gratiam infunduntur animis fidelium, ut per eas recte vivant; illa vero naturaliter habet homo ex beneficio creationis, a Deo tamen. Per has autem virtutes, quae dicuntur Spiritus sancti dona, illa naturalia reformantur atque adiuvan-
+
+<!-- page 772 -->
+
+tur, ut verbi gratia, intellectus naturalis, peccato obtenebratus, per virtutem quandam et gratiam, quae dicitur spiritus intelligentiae, reformatur atque adiuvatur[^7] ad intelligendum; ita et per illam virtutem, quae dicitur spiritus sapientiae, iuvatur atque erigitur mentis ratio ad contemplationem et delectationem aeternae Veritatis. Illud etiam sciendum est, quod sapientia, de qua nunc disserimus, non illa est Dei sapientia, ut ait Augustinus[^8], quae Deus est, sed hominis sapientia, verumtamen quae secundum Deum est ac verus et praecipuus cultus eius est. Si ergo colat mens hominis Deum, cuius ab eo capax facta est et cuius esse particeps potest, sapiens ipsa fit, et non sua luce, sed summae illius lucis participatione sapiens fit. Ista ergo hominis sapientia etiam Dei est; verum non ita Dei est, ut ea sapiens sit Deus; non enim participatione sui sapiens est, sicut mens participatione Dei. Sic etiam dicitur iustitia Dei non solum illa qua ipse iustus est, sed etiam illa quam dat homini, cum iustificat impium.
+
+---
 
 ## English
 
-[Translation pending]
+### DISTINCTION XXXV.
+
+### Chapter I. *On wisdom and knowledge, in what they differ.*
+
+After the foregoing, it must be diligently considered in what wisdom differs from knowledge. Concerning this Augustine[^1] speaks thus: «The philosophers, disputing about wisdom, defined it, saying: Wisdom is the knowledge of things human and divine. I too do not deny that the cognition of both kinds of things, that is, of things divine and human, can be called both wisdom and knowledge. But according to the distinction of the Apostle, by which he said: To one is given the word of wisdom, to another the word of knowledge, that definition must be divided, so that the cognition of things divine be properly named wisdom, but the cognition of things human properly obtain the name of knowledge. Nor indeed do I assign to this knowledge whatever can be known by man in human affairs, where there is very much superfluous vanity and harmful curiosity, but only that by which the most wholesome faith, which leads to true beatitude, is begotten, nourished, defended, strengthened; with which knowledge very many of the faithful are not endowed, although they are endowed in a high degree with the faith itself. For it is one thing to know merely what a man ought to believe for the sake of attaining the blessed life; it is another thing to know how this very thing may both help the pious and be defended against the impious, which is called by its proper word knowledge». Concerning these two virtues also the same Augustine[^2], assigning the difference between them, says upon the Psalm: «Wisdom differs from knowledge, holy Job bearing witness, who in a certain manner, defining each, says: Wisdom is piety, but knowledge is to abstain from evils. And by piety in this place he set down the worship of God, which in Greek is called theosebia, which consists in the cognition and love of that which always is and abides unchangeably, which is God. But to abstain from evils is to live prudently in the midst of a depraved nation». The same [Augustine] too, plainly distinguishing between these two, says in the twelfth book On the Trinity[^3]: «Action, by which we use temporal things well, differs from the contemplation of eternal things, and the latter is assigned to wisdom, the former to knowledge; although even that which is wisdom can be called knowledge, as the Apostle[^4] speaks, where he says: Now I know in part; which knowledge he assuredly wishes to be understood of the contemplation of God. In this therefore is the difference, that wisdom pertains to contemplation, but knowledge to action». — Behold, it has been plainly shown in what the spirit of wisdom and the spirit of knowledge differ, namely that wisdom is attributed to things divine, knowledge to things human. And as Augustine[^5] teaches, we acknowledge both in Christ, namely both a divine thing and a human thing, and therefore concerning him we have wisdom and knowledge. «For when it is read: The Word was made flesh; in the Word is understood the true Son of God, in the flesh is recognized the true son of man». Likewise, when it is said: We saw [him] full of grace and truth; let us refer grace to knowledge, and truth to wisdom, because in Christ knowledge and wisdom were fully, and we have knowledge and wisdom concerning him, who is God and man.
+
+### Chapter II. *In what wisdom differs from understanding.*
+
+The difference between knowledge and wisdom having been shown, let us see what distinguishes wisdom from understanding. — In this those two differ, that wisdom is properly of eternal things, which is intent upon contemplating the eternal Truth; but understanding is not only of eternal things, but also of things invisible and spiritual that have arisen temporally. For by it both the supreme nature, which made all natures, that is the divine, is considered, and the spiritual and invisible natures which are after it, such as the Angels and all the good affections of the soul, are beheld. In this therefore is the difference, that by wisdom the Creator alone is beheld[^6], but by understanding both the Creator and a certain creature. Likewise, by understanding we grasp intelligible things only, but by wisdom we not only grasp higher things, but also delight in the things known. Thus therefore one can distinguish among those three, namely knowledge, understanding, and wisdom: knowledge avails for the right administration of temporal things and for good conduct among the wicked, understanding for the speculation of the Creator and of the invisible creatures, but wisdom for the contemplation and delight of the eternal Truth alone.
+
+### Chapter III. *Whether the understanding and knowledge which are numbered among the gifts are those which man has naturally.*
+
+And it is to be noted that the understanding and knowledge which are called gifts of the Holy Spirit are other than the understanding and knowledge which are naturally in the soul of man. For these are virtues which are infused by grace into the minds of the faithful, that by them they may live rightly; but the former man has naturally by the benefit of creation, yet from God. But by these virtues, which are called gifts of the Holy Spirit, those natural things are reformed and aided
+
+<!-- page 772 -->
+
+— as for example, the natural understanding, darkened by sin, is reformed and aided[^7] for understanding by a certain virtue and grace which is called the spirit of understanding; so too by that virtue which is called the spirit of wisdom, the reason of the mind is helped and raised up to the contemplation and delight of the eternal Truth. This too is to be known, that the wisdom of which we now treat is not that wisdom of God, as Augustine[^8] says, which is God, but the wisdom of man, yet such as is according to God and is the true and chief worship of him. If therefore the mind of man worship God, of whom it has been made capable and of whom it can be a partaker, it itself becomes wise, and is wise not by its own light, but by participation in that supreme light. This wisdom of man therefore is also of God; yet it is not so of God that by it God is wise; for he is not wise by participation of himself, as the mind is by participation of God. Thus too the justice of God is said [to be] not only that by which he himself is just, but also that which he gives to man, when he justifies the ungodly.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation, and reproduce the Quaracchi *NOTAE AD LIBR. SENTENTIARUM* footer blocks for pp. 771–772. Quaracchi restarts footnote numbering on each printed page; the entries are renumbered continuously here: p.771 [^1]–[^6]; p.772 [^7]–[^8].
+
+[^1]: **La.** Libr. XIV. de Trin. c. 1. n. 3. Locus Scripturae est I. Cor. 12, 8. — Post *humanarum vero* plurimae edd. adiciunt *rerum.*
+    **En.** Book XIV, *On the Trinity,* c. 1, n. 3. The scriptural passage is 1 Corinthians 12:8. — After *humanarum vero* (but of human things) most editions add *rerum* (of things).
+
+[^2]: **La.** Enarrat. in Ps. 135, n. 8, nonnullis mutatis; cfr. Enchirid. c. 2. n. 1. Locus Scripturae est Iob 28, 28. (Vulgata: *Ecce timor Domini, ipsa est sapientia, et recedere a malo intelligentia*) et respicitur Phil. 2, 15. — Pro *versari,* quod habent codd. BCDE et edd. 1, 8 cum originali, in aliis *conversari.*
+    **En.** *Enarration* on Psalm 135, n. 8, with some things altered; cf. *Enchiridion* c. 2, n. 1. The scriptural passage is Job 28:28. (Vulgate: *Behold, the fear of the Lord, that is wisdom, and to depart from evil is understanding*) and reference is made to Philippians 2:15. — For *versari* (to live), which codices BCDE and editions 1, 8 have with the original, in others *conversari.*
+
+[^3]: **La.** Cap. 14. n. 22. — Pro *sapientia est* edd., exceptis 1, 8, *sapientiae est,* refragantibus codd. et originali.
+    **En.** Chapter 14, n. 22. — For *sapientia est* (is wisdom) the editions, except 1, 8, [read] *sapientiae est,* the codices and the original resisting.
+
+[^4]: **La.** Epist. I. Cor. 13, 12. — Pro *loquitur* edd., exceptis 1, 8, *asserit,* refragante etiam originali. Infra pro *differant spiritus* codd. A BCE et edd. 1, 8 *differat spiritus.*
+    **En.** The Epistle 1 Corinthians 13:12. — For *loquitur* (speaks) the editions, except 1, 8, [read] *asserit* (asserts), the original also resisting. Below, for *differant spiritus* (the spirits differ) codices A BCE and editions 1, 8 [read] *differat spiritus* (the spirit differs).
+
+[^5]: **La.** Libr. XIII. de Trin. c. 19. n. 24, nonnullis mutatis. Loci duo Scripturae sunt Ioan. 1, 14. Etiam quae sequuntur excerpta sunt ex eodem loco Augustini.
+    **En.** Book XIII, *On the Trinity,* c. 19, n. 24, with some things altered. The two scriptural passages are John 1:14. The things which follow also are excerpted from the same place of Augustine.
+
+[^6]: **La.** Edd. 1, 8 *inspicitur.* — Quae hic dicuntur de obiecto intellectus excerpta esse videntur ex August., XII. de Genes. ad lit. c. 24. n. 50, ubi idem docetur de «intelligentiae lumine», quo Deus, spiritus et «omnis animae affectio bona» intelligatur.
+    **En.** Editions 1, 8 [read] *inspicitur* (is looked into). — The things which are here said concerning the object of the understanding seem to be excerpted from Augustine, *On Genesis according to the Letter,* book XII, c. 24, n. 50, where the same is taught concerning «the light of understanding», by which God, spirit, and «every good affection of the soul» may be understood.
+
+[^7]: **La.** Codd. A B C D *iuvatur.*
+    **En.** Codices A B C D [read] *iuvatur* (is helped).
+
+[^8]: **La.** Libr. XIV. de Trin. c. 1. n. 1; cfr. ibid. c. 12. n. 15. — Infra pro *verum non ita Dei est, ut* edd. 1, 8 *Verumtamen ita Dei est, ut non.* Deinde plurimae edd. repetunt *Deus* ante *sicut mens.*
+    **En.** Book XIV, *On the Trinity,* c. 1, n. 1; cf. ibid. c. 12, n. 15. — Below, for *verum non ita Dei est, ut* (yet it is not so of God, that) editions 1, 8 [read] *Verumtamen ita Dei est, ut non* (nevertheless it is so of God, that not). Then most editions repeat *Deus* (God) before *sicut mens* (as the mind).
+
+---
 
 ## Notes
 
-[Notes pending]
+**Chapter subjects.** DISTINCTIO XXXV is Lombard's treatment *de sapientia et scientia* — wisdom and knowledge among the gifts of the Holy Spirit. Three chapters captured (**Cap. I–III**): **Cap. I** (*De sapientia et scientia, quo differant*) gathers Augustine (*de Trin.* XIV; *Enarrat. in Ps.* 135 on Job 28:28; *de Trin.* XII) that wisdom is the cognition of things divine, knowledge of things human (per 1 Cor. 12:8 and the *contemplatio/actio* division of *de Trin.* XII), and that both were in Christ (Word/flesh, grace/truth). **Cap. II** (*In quo differat sapientia ab intellectu*) distinguishes wisdom (of the eternal, contemplating eternal Truth) from understanding (of the eternal *and* of invisible/spiritual things temporally arisen) — wisdom beholds the Creator alone, understanding both Creator and creature — yielding the threefold distinction *scientia / intellectus / sapientia* (administration of temporals / speculation of Creator and invisible creatures / contemplation of eternal Truth alone). **Cap. III** (*Utrum intellectus et scientia, quae inter dona numerantur, sint illa quae naturaliter habet homo*) distinguishes the gift-virtues (infused by grace) from the natural understanding/knowledge (had by the benefit of creation); the gifts reform and aid the natural powers, and the wisdom here treated is the wisdom *of man* (according to God, by participation in the supreme light), not the wisdom which is God.
+
+**Provenance (PDF-priority inversion).** Latin re-set column-by-column from the 450 dpi PDF bands `/tmp/colcrop/vol3-p{771,772}-{L,R}-{0,1,2}.png` (read L column top→bottom, then R column; body bands then footer bands). The IA djvu OCR for this band (`raw/bonaventure_vol3_raw.txt`, raw 53515–53596) is a two-column cascade-shatter — the footer NOTAE in particular are heavily fragmented — and was used only as the base for clean running prose and exact `[^N]` marker spacing; all footer NOTAE blocks were read eyes-on from the PDF. Offset `pdf = printed + 22` (printed 771–772 = PDF 793–794). Running heads confirmed eyes-on: `771` (p.771 R-0) and `772 … SENTENTIARUM LIB. III.` (p.772 L-0/R-0). Editorial side-marginalia (*Augustinus*, *Dubium 1/2/3*) are trimmed as editorial glosses, not Lombard's text.
+
+**Page-split map ([^N] → printed page).**
+- **p.771 (PDF 793):** `[^1]`–`[^6]`. Two-column body, the littera flowing L→R within Cap. I, and Cap. II / Cap. III each spanning L→R. Footer band split by column: **L footer-column nn.1–3 → [^1]–[^3]** (de Trin. XIV / Enarrat. in Ps. 135 / Cap. 14); **R footer-column nn.4–6 → [^4]–[^6]** (1 Cor. 13:12 / de Trin. XIII / obiecto intellectus). Body markers: `Augustinus¹`, `idem Augustinus² super Psalmum`, `de Trinitate³` (L col); `Apostolus⁴`, `docet Augustinus⁵`, `Creator tantum conspicitur⁶` (R col + L-col tail).
+- **p.772 (PDF 794):** `[^7]`–`[^8]`. Littera body is short here: L-col top (`tur, ut verbi gratia …`, continuing p.771-R `adiuvan-`) through R-col `… cum iustificat impium.` Body markers `adiuvatur⁷` and `ait Augustinus⁸` (both L col). The p.772 **L footer-column** carries the littera's two `NOTAE AD LIBR. SENTENTIARUM` notes (n.1 *Codd. A B C D iuvatur* → [^7]; n.2 *Libr. XIV. de Trin. … Verumtamen ita Dei est* → [^8]) **above** the start of the separate **NOTAE AD COMMENTARIUM** block.
+
+**Boundary / footer hand-off.** The littera body stops cleanly on p.772 R-col at `… cum iustificat impium.`, confirmed eyes-on against `vol3-p772-R-0.png`. The **COMMENTARIUS IN DISTINCTIONEM XXXV.** header (subtitle *De dono sapientiae, intellectus et scientiae*, incipit *Post praemissa diligenter considerandum est etc.*, then `DIVISIO TEXTUS.`) begins below it at **raw line ~53597** — that block and everything after it (incl. `ARTICULUS UNICUS / QUAESTIO I.`) belong to **`d35-divisio`**. The **NOTAE AD COMMENTARIUM** footer family — beginning in the p.772 **L footer-column** immediately below the littera's n.2 (`NOTAE AD COMMENTARIUM. ¹ Cod. U addit eorum. Subinde ante alia codd. H K Z omittunt ad.`) and continuing in the p.772 **R footer-column** (nn.2–4: *Verba prout sunt dona …*; *Hic c. 1 seqq. … agit de dono sapientiae …*; *Edd. omittunt … quod pro quo … quid*) — cites the COMMENTARIUS / DIVISIO TEXTUS body and is the **`d35-divisio` chunk's own footer**, NOT a forward of a NOTAE AD LIBR. SENTENTIARUM note. **Nothing is parked here for the divisio** from this littera's apparatus family.
+
+**`d35-divisio` forward aid (verbatim — do NOT rechunk here).** p.772 R-col already shows the divisio opening: `COMMENTARIUS IN DISTINCTIONEM XXXV. — De dono sapientiae, intellectus et scientiae. — Post praemissa diligenter considerandum est etc. — DIVISIO TEXTUS. Supra egit Magister de donis generaliter et de timore specialiter. In hac vero parte de aliis donis determinat satis breviter, maxime de donis, quae sunt ex parte cognitivae, scilicet de sapientia, scientia et intellectu. … In secunda vero assignat differentiam intellectus ad duo praedicta, ibi: Ostensa differentia inter sapientiam et scientiam. …` Then `ARTICULUS UNICUS. — De ceteris sex donis Spiritus sancti in specie. — QUAESTIO I. — Utrum actus doni sapientiae attendatur penes cognitionem veri, an penes affectionem boni.` (the ARTICULUS UNICUS opener + the six-question TRACTATIO fold into `d35-divisio`/the first question per convention). Per the resume slate, d.35 = single articulus, 6 questions: `littera(✅) · divisio · a1-q1..q6 · dubia`. The divisio's own footer is the **NOTAE AD COMMENTARIUM** band beginning p.772 (claim p.772 COMMENTARIUM nn.1 ff.).
+
+**`[?]` flags.** None. All body readings and all 8 NOTAE entries were confirmed against the 450 dpi PDF bands (pp.771–772 legible; the OCR-shattered footer regions were re-set eyes-on from the PDF, per the Vol II/III PDF-priority inversion).
