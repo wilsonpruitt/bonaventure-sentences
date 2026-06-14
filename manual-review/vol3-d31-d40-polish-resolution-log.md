@@ -36,3 +36,16 @@ Grepped every `## Notes` block in `bon-sent-III-d31-*` (12 chunks) and `bon-sent
 - Three guard-rail audits `--volume 3` for the affected distinctions (`--min-d 33 --max-d 33`, `--min-d 38 --max-d 38`) + headers + apparatus-count: **no NEW flags** (the d38-dubia apparatus-count diff *improved* — the heuristic's ~31-opener flag is now matched by the corrected 32-entry truth).
 
 **Pass 1 status: CLOSED.** No unresolved `[?]` flags remain in Vol III d.31–d.40. Passes 2 (full-corpus style/formatting) and Pass 3 (cross-chunk boundary integrity, d.31–d.40) still pending — any further work (Vol IV) remains blocked until all three close.
+
+---
+
+## PASS 2 of 3 — Style/Formatting Audit (full corpus) — CLOSED 2026-06-14
+
+Full report: `manual-review/vol3-d31-d40-pass2-style-audit.md`. Programmatic scan of **1287 chunks** (1260 Tier-2; 27 skeletons) via `tools/audit-style-formatting.py` + supplemental `/tmp/pass2_scan.py` (item-8 suffix scheme + git-tracked-backup checks).
+
+- **FIXED — known fix (item 8):** `d39-a3-q3` apparatus renumbered from per-page suffix scheme `[^1b]–[^9b]` to continuous integers `[^13]–[^21]` (full sequence now `[^1]`–`[^21]`, **pairs 21/21** La/En/defs). Content verbatim; only numbers + the descriptive prose (status string, blockquote, Notes) changed; stale `27/27` Notes count corrected to `21/21`.
+- **CLEAN:** frontmatter fields, `Phase C Tier 2 complete —` prefix, standard sections, page-breaks — 0 flags corpus-wide.
+- **LOGGED (no fix):** `orphan_app_defs` (10 chunks) = benign unanchored editorial/cross-ref notes + a blockquote-literal false positive (`d33-dubia [^33]`) — accepted; `d27-p1-a1-q2` scholion-order = likely false positive (Vol I, out of scope, build clean); `d33-dubia` `**En.**` 5/6-space indent mix (parser-tolerant, "don't bulk-edit"); 2 git-tracked backup artifacts (`git rm --cached` candidate); the **corpus-wide `[^Nx]` suffix convention (39 chunks** incl. two in-scope d.33 single-interpolation cases `d33-a1-q3 [^6b]`, `d33-a1-q5 [^14b]`) — deferred to a single owner decision (normalize all vs accept the per-page-restart convention); piecemeal fixes would *increase* inconsistency.
+- **Build:** clean, 1287/1287 translated. **Audit:** `audit-apparatus-count --volume 3 --min-d 39 --max-d 39` → 0 flags.
+
+**NEXT ACTION on the polish blocker:** Pass 3 (cross-chunk boundary-integrity sweep, d.31–d.40) — still a blocker for Vol IV / Book IV.
