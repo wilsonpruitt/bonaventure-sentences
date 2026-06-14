@@ -11,7 +11,7 @@ pdf_pages: [860, 861]
 source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 838–839"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set from 450 dpi PDF column bands (raw 58170–58216), fresh literal English translation, 3-entry NOTAE AD COMMENTARIUM apparatus (p.838 nn.1–3), has_scholion false, verbatim TRACTATIO six-question framing (ARTICULUS UNICUS) in Notes, QUAESTIO I body bounded forward to a1-q1 (raw 58217) (2026-06-13)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from 450 dpi PDF column bands (raw 58170–58216), fresh literal English translation, 4-entry NOTAE AD COMMENTARIUM apparatus (p.838 nn.1–3 + p.839 L-col n.1 the *omni* note, the last backfilled at the d.31–d.40 decade polish), has_scholion false, verbatim TRACTATIO six-question framing (ARTICULUS UNICUS) in Notes, QUAESTIO I body bounded forward to a1-q1 (raw 58217) (2026-06-14)"
 format_version: 1
 ---
 
@@ -49,7 +49,7 @@ Similiter tertia pars dividitur in duas. In quarum prima ostendit, quod non omni
 
 Ad intelligentiam autem huius partis possunt sex breviter quaeri.
 
-*Primo* quaeritur, utrum essentiale sit omni mendacio esse falsum.
+*Primo* quaeritur, utrum essentiale sit omni[^4] mendacio esse falsum.
 
 *Secundo* quaeritur, utrum essentiale sit mendacio esse peccatum.
 
@@ -92,7 +92,7 @@ Likewise the third part is divided into two. In the first of these he shows that
 
 Now for the understanding of this part six things can be briefly asked.
 
-*First*, it is asked whether it is essential to every lie to be false.
+*First*, it is asked whether it is essential to every[^4] lie to be false.
 
 *Second*, it is asked whether it is essential to a lie to be a sin.
 
@@ -118,19 +118,22 @@ Now for the understanding of this part six things can be briefly asked.
 [^3]: **La.** Vat. *peccati.*
     **En.** The Vatican edition reads *of sin* (i.e., "not every deception is of equal sin," for *periculi*, "of peril").
 
+[^4]: **La.** Cod. K omittit *omni,* quod econtra Vat. paulo inferius adiungit.
+    **En.** Codex K omits *omni* (« every »), which on the contrary the Vatican edition adds a little lower down.
+
 ## Notes
 
 **Provenance.** Latin re-set from the 450 dpi PDF column bands of printed **pp.838–839** (PDF 860–861; offset pdf = printed + 22), cross-checked against the IA djvu OCR (raw `bonaventure_vol3_raw.txt` 58170–58216). Running head `DIST. XXXVIII. ART. UNICUS QUAEST. I. 839` confirmed at the p.838→839 break (raw 58195 area; trust running-head TEXT over OCR'd digits). Vol III two-column; PDF-priority inversion applies, but the COMMENTARIUS/DIVISIO/TRACTATIO band is clean in OCR and the PDF read confirmed it 1:1.
 
 **Page-split map.** The divisio opens at the **bottom of p.838** beneath the d38-littera Cap. VI Jacob/Esau tail (both columns), spanning both columns: `COMMENTARIUS IN DISTINCTIONEM XXXVIII` header (raw 58170) → DIVISIO TEXTUS (raw 58175) → its NOTAE AD COMMENTARIUM band (p.838, nn.1–3). The break to **p.839** falls between the DIVISIO TEXTUS and the TRACTATIO QUAESTIONUM (running head `DIST. XXXVIII. ART. UNICUS QUAEST. I. 839`). On p.839: TRACTATIO QUAESTIONUM (raw 58204, six questions) → ARTICULUS UNICUS *De mendacio* opener (raw 58213). Bounded forward at `QUAESTIO I.` (raw 58217), whose body (`Circa primum sic proceditur et quaeritur…`, raw 58218) is **a1-q1**. The QUAESTIO I header/title (*Utrum essentiale sit mendacio esse falsum*) and body fold into a1-q1 per the divisio-chunk convention.
 
-**Apparatus = p.838 NOTAE AD COMMENTARIUM band, per-page restart (3 notes).** The COMMENTARIUS opens its OWN fresh *NOTAE AD COMMENTARIUM* band on p.838 (R-col footer, nn.1–3), distinct from d38-littera's *NOTAE AD LIBR. SENTENTIARUM* band (which closed at p.838 n.3 = the littera's [^11] in the L-col footer). The 3 notes key to the DIVISIO TEXTUS markers `de periurio, ibi ¹` (n.1 *Scilicet infra d. XXXIX.*), `quid sit mendacium ²` (n.2 *Edd. ibi: Mentiri vero est.*), `aequalis periculi ³` (n.3 *Vat. peccati.*). Marker pairing 3/3. The TRACTATIO QUAESTIONUM + ARTICULUS UNICUS opener (p.839) carry NO footer markers.
+**Apparatus = p.838 NOTAE AD COMMENTARIUM band (3 notes) + p.839 L-col n.1 (1 note), per-page restart, 4 notes total → [^1]–[^4].** The COMMENTARIUS opens its OWN fresh *NOTAE AD COMMENTARIUM* band on p.838 (R-col footer, nn.1–3), distinct from d38-littera's *NOTAE AD LIBR. SENTENTIARUM* band (which closed at p.838 n.3 = the littera's [^11] in the L-col footer). The 3 p.838 notes key to the DIVISIO TEXTUS markers `de periurio, ibi ¹` (n.1 *Scilicet infra d. XXXIX.*), `quid sit mendacium ²` (n.2 *Edd. ibi: Mentiri vero est.*), `aequalis periculi ³` (n.3 *Vat. peccati.*). **[^4] = p.839 L-col n.1** (`Cod. K omittit omni, quod econtra Vat. paulo inferius adiungit`), anchored on *omni* in the TRACTATIO's first question (`utrum essentiale sit omni¹ mendacio esse falsum`) — **backfilled at the d.31–d.40 decade polish** (600 dpi p.839 L-col, PDF 861). The earlier note here that "p.839 carries NO footer markers" was wrong: p.839 L-col n.1 is divisio's (the *omni* note); p.839 nn.2–8 are a1-q1's (a1-q1's [^1] = p.839 n.2). Marker pairing 4/4.
 
-**Footer hand-off.** Picked up NOTHING from d38-littera (its *NOTAE AD LIBR. SENTENTIARUM* band closed at p.838 n.3 = [^11]; the COMMENTARIUS opens its own separate *NOTAE AD COMMENTARIUM* band on the same page). Forwarded NOTHING — the p.838 NOTAE AD COMMENTARIUM band closes at n.3 ([^3]); p.839 carries no markers in this chunk's material; the QUAESTIO I body (a1-q1) opens at the bottom of p.839 with its own fresh footer band.
+**Footer hand-off.** Picked up NOTHING from d38-littera (its *NOTAE AD LIBR. SENTENTIARUM* band closed at p.838 n.3 = [^11]; the COMMENTARIUS opens its own separate *NOTAE AD COMMENTARIUM* band on the same page). **Forwarded → a1-q1: p.839 nn.2–8** (a1-q1 begins its band at p.839 n.2 = its [^1]). This chunk owns p.838 nn.1–3 ([^1]–[^3]) AND **p.839 L-col n.1** ([^4], the *omni* note) — the latter keys to the TRACTATIO line at the top of p.839, above the QUAESTIO I body.
 
 **`has_scholion: false`** — no SCHOLION header in the divisio range (grep-verified raw 58170–58216; no SCHOLI/SOHOLI variant).
 
-**No `[?]` flags** — pp.838–839 legible at 450 dpi.
+**`[?]` flags.** None. The one parked retro-fix — p.839 L-col n.1 (*omni*) under-capture — was **RESOLVED** at the d.31–d.40 decade polish (600 dpi p.839, PDF 861): added as [^4] anchored on *omni* in the TRACTATIO. See `manual-review/vol3-d31-d40-polish-resolution-log.md`. pp.838–839 otherwise legible at 450 dpi.
 
 ---
 

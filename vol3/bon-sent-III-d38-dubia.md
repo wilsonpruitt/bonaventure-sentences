@@ -11,7 +11,7 @@ pdf_pages: [876, 877, 878, 879]
 source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 854–857"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (pp.854–857, raw lines 59276–59450) with IA djvu OCR base for clean prose, fresh literal English translation, full apparatus from PDF footer bands (29 entries: p.854 nn.5–8 → [^1]–[^4] PICKED UP from a1-q6; p.855 nn.1–12 → [^5]–[^16]; p.856 nn.1–11 → [^17]–[^27]; p.857 nn.1–2 → [^28]–[^29]) (2026-06-13)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (pp.854–857, raw lines 59276–59450) with IA djvu OCR base for clean prose, fresh literal English translation, full apparatus from PDF footer bands (32 entries: p.854 nn.5–8 → [^1]–[^4] PICKED UP from a1-q6; p.855 nn.1–12 → [^5]–[^16]; p.856 nn.1–11 → [^17]–[^27]; p.857 L-col nn.1–5 → [^28]–[^32], the last three [nn.3–5] backfilled at the d.31–d.40 decade polish) (2026-06-14)"
 format_version: 1
 ---
 
@@ -72,7 +72,7 @@ Item quaeritur de hoc quod dicit, quod Iacob *matre auctore fecit, ut falleret p
 
 <!-- page 857 -->
 
-plex a mendacio excusatur et quantum ad id quod dixit *verbo,* et quantum ad id quod fecit in *facto;* *verbo* enim dixit et *facto* simulavit, se esse Esau. Quantum ad id quod dixit *verbo,* excusatur, quia non intendebat patrem *fallere,* sed *dirigere;* non intendebat etiam[^28] dicere, se esse Esau quantum ad *personam,* sed quantum ad *dignitatem* primogeniturae et benedictionis, quam sibi a Deo vindicaverat. Et hoc, inquam, non propria auctoritate, sed matris imperio et Spiritus sancti consilio dicebat; qui quidem Spiritus sanctus in uno et eodem vocabulo multiplicem habet intelligentiam. — Quantum etiam ad id quod fecit *facto,* simulando, se esse Esau, non peccavit, quia secundum Ambrosium *factum* illud figuram praetendebat futurorum. Unde propter praefigurationem et rectam intentionem, quae dirigebatur secundum Spiritus sancti inspirationem, dicit Augustinus, Iacob non commisisse mendacium, sed implesse mysterium iuxta Scripturae testimonium[^29], quae dicit eum *virum simplicem,* non dolosum.
+plex a mendacio excusatur et quantum ad id quod dixit *verbo,* et quantum ad id quod fecit in *facto;* *verbo* enim dixit et *facto* simulavit, se esse Esau. Quantum ad id quod dixit *verbo,* excusatur, quia non intendebat patrem *fallere,* sed *dirigere;* non intendebat etiam[^28] dicere, se esse Esau quantum ad *personam,* sed quantum ad *dignitatem* primogeniturae et benedictionis, quam sibi a Deo vindicaverat. Et hoc, inquam, non propria auctoritate, sed matris imperio et Spiritus sancti consilio dicebat; qui quidem Spiritus sanctus in uno et eodem vocabulo multiplicem habet intelligentiam. — Quantum etiam ad id quod fecit *facto,* simulando, se esse Esau, non peccavit, quia secundum Ambrosium *factum* illud figuram praetendebat futurorum. Unde propter praefigurationem et rectam intentionem, quae dirigebatur secundum Spiritus sancti inspirationem, dicit Augustinus, Iacob non commisisse mendacium[^31], sed implesse mysterium iuxta Scripturae testimonium[^29], quae dicit eum *virum simplicem,* non dolosum.[^30][^32]
 
 ## English
 <!-- page 854 -->
@@ -125,7 +125,7 @@ Likewise it is asked about this which he says, that Jacob, *with his mother as t
 
 <!-- page 857 -->
 
-man, is excused from a lie both as regards that which he said by *word,* and as regards that which he did in *deed;* for by *word* he said and by *deed* he simulated that he was Esau. As regards that which he said by *word,* he is excused, because he did not intend to *deceive* his father, but to *direct* [him]; nor did he intend even[^28] to say that he was Esau as regards the *person,* but as regards the *dignity* of the birthright and of the blessing, which he had claimed for himself from God. And this, I say, he said not by his own authority, but by the command of his mother and the counsel of the Holy Spirit; which Holy Spirit indeed in one and the same word has a manifold understanding. — Also as regards that which he did in *deed,* by simulating that he was Esau, he did not sin, because according to Ambrose that *deed* held forth a figure of things to come. Hence on account of the prefiguration and the right intention, which was directed according to the inspiration of the Holy Spirit, Augustine says that Jacob did not commit a lie, but fulfilled a mystery, according to the testimony of Scripture[^29], which calls him *a simple man,* not crafty.
+man, is excused from a lie both as regards that which he said by *word,* and as regards that which he did in *deed;* for by *word* he said and by *deed* he simulated that he was Esau. As regards that which he said by *word,* he is excused, because he did not intend to *deceive* his father, but to *direct* [him]; nor did he intend even[^28] to say that he was Esau as regards the *person,* but as regards the *dignity* of the birthright and of the blessing, which he had claimed for himself from God. And this, I say, he said not by his own authority, but by the command of his mother and the counsel of the Holy Spirit; which Holy Spirit indeed in one and the same word has a manifold understanding. — Also as regards that which he did in *deed,* by simulating that he was Esau, he did not sin, because according to Ambrose that *deed* held forth a figure of things to come. Hence on account of the prefiguration and the right intention, which was directed according to the inspiration of the Holy Spirit, Augustine says that Jacob did not commit a lie[^31], but fulfilled a mystery, according to the testimony of Scripture[^29], which calls him *a simple man,* not crafty.[^30][^32]
 
 ## Apparatus
 
@@ -247,6 +247,18 @@ man, is excused from a lie both as regards that which he said by *word,* and as 
 
     **En.** *Genesis* 25, 27: « But Jacob, a simple man, dwelt in tents. » — Somewhat above, for *held forth* (*praetendebat*) the editions [read] *displayed* (*praeferebat*).
 
+[^30]: **La.** Cfr. supra pag. 570, nota 6.
+
+    **En.** Cf. above p. 570, note 6.
+
+[^31]: **La.** In edd. additur *in Spiritum sanctum.* Paulo inferius pro *hoc modo,* quod cod. K omittit, codd. A Z bb *sermo,* codd. G H L T *primo.* Subinde post *aliud* edd. supplent *tamen.*
+
+    **En.** In the editions there is added *into the Holy Spirit (in Spiritum sanctum).* A little lower, for *hoc modo* (« in this manner »), which codex K omits, codices A Z bb [read] *sermo* (« discourse »), codices G H L T *primo* (« first »). Then, after *aliud* (« another »), the editions supply *tamen* (« nevertheless »).
+
+[^32]: **La.** *Gen.* 27, 27. seqq. et 28. 3. seq. — Idem dub. solvit Alex. Hal., *S.* p. II. q. 123. m. 6; B. Albert., hic a. 9; S. Thom., hic a. 3. ad 1; Petr. a Tar., hic a. 5; Richard. a Med., hic q. 2. ad 2.
+
+    **En.** *Genesis* 27, 27 ff. and 28, 3 f. — The same dubium is solved by Alexander of Hales, *Summa* p. II, q. 123, m. 6; B. Albert, here a. 9; S. Thomas, here a. 3 ad 1; Peter of Tarentaise, here a. 5; Richard of Mediavilla, here q. 2 ad 2.
+
 ## Notes
 
 **Provenance.** Latin re-set column-by-column from 450 dpi PDF bands (`/tmp/colcrop/vol3-p85{4,5,6,7}-{L,R}-*.png`) under the Vol III two-column PDF-priority inversion, with the IA djvu OCR (`raw/bonaventure_vol3_raw.txt` lines **59276–59450**) as the base for clean running prose and footnote-marker spacing. Fresh literal English. Bounded forward by `DISTINCTIO XXXIX.` (raw 59451; Cap. I *De periurio* begins on p.857 R-col — that is d39-littera, not this chunk).
@@ -257,9 +269,9 @@ man, is excused from a lie both as regards that which he said by *word,* and as 
 
 **Footer hand-offs.**
 - **PICKED UP ← a1-q6: p.854 footer nn.5–8** (= [^1]–[^4]). a1-q6's own band closed at p.854 n.4 (*Vide scholion ad 4. quaest.* redirect). n.5 (Vers. 21 Glossa/Gregor.) keys to Dub. I *super primum⁵ Exodi*; nn.6–8 likewise key to Dub. I args/Respondeo.
-- **FORWARDED → d39-littera: NOTHING.** This chunk's band closes at **p.857 n.2** ([^29], Gen. 25,27, keyed to Dub. IV *virum simplicem² … non dolosum*). p.857 footer nn.3–5 (*Cfr. supra pag. 570…* etc.) key to DISTINCTIO XXXIX Cap. I/II (De periurio) — they are **d39-littera's**, NOT this chunk's. d39-littera starts a fresh per-page band.
+- **FORWARDED → d39-littera: NOTHING.** This chunk owns the ENTIRE p.857 **L-col** *NOTAE AD LIBR. SENTENTIARUM* block (nn.1–5 = [^28]–[^32]), all keyed to the Dub. IV Jacob/Esau body that runs down the p.857 L-col and ends at *…virum simplicem, non dolosum.* **CORRECTION (d.31–d.40 decade polish, 600 dpi p.857 PDF 879):** a prior note here wrongly claimed p.857 nn.3–5 were d39-littera's — they are NOT. p.857 prints **two** *NOTAE AD LIBR. SENTENTIARUM* blocks: the **L-col** block (nn.1–5) is this Jacob dubium's (n.3 `Cfr. supra pag. 570, nota 6`; n.4 the *in Spiritum sanctum / hoc modo* variant; n.5 `Gen. 27,27. seqq.… Idem dub. solvit Alex. Hal.…`), and the **R-col** block (nn.1–3, Hieronymus/Apostolus/Augustinus) is d39-littera's. d38-dubia had stopped at L-col n.2; nn.3–5 were backfilled here ([^30]–[^32]). d39-littera correctly owns only its R-col block.
 
-**Apparatus.** 29 markers, NOTAE AD COMMENTARIUM, per-page restart renumbered continuous: **p.854 nn.5–8 → [^1]–[^4]** (picked up), **p.855 nn.1–12 → [^5]–[^16]**, **p.856 nn.1–11 → [^17]–[^27]**, **p.857 nn.1–2 → [^28]–[^29]**. Marker pairing 29/29 (Latin + English bodies). The apparatus-count audit heuristic had flagged raw≈31 footer openers for this range; the true dubia count is **29** — the heuristic over-counted by ~2 (it swept p.857 nn.3–5, which are d39's). Walked every page footer band by eye.
+**Apparatus.** 32 markers, NOTAE AD LIBR. SENTENTIARUM, per-page restart renumbered continuous: **p.854 nn.5–8 → [^1]–[^4]** (picked up), **p.855 nn.1–12 → [^5]–[^16]**, **p.856 nn.1–11 → [^17]–[^27]**, **p.857 L-col nn.1–5 → [^28]–[^32]**. Marker pairing 32/32 (Latin + English bodies). nn.3–5 ([^30]–[^32]) were **backfilled at the d.31–d.40 decade polish** (600 dpi p.857 L-col, PDF 879) — they are the Jacob/Esau dubium's editorial cross-ref (n.3), the *in Spiritum sanctum / hoc modo* variant (n.4), and the Gen. 27 parallel-loci `Idem dub. solvit` note (n.5), all anchored at the Dub. IV close (n.3/n.5 unanchored editorial notes per Quaracchi convention, clustered at the dubium end; n.4 the variant on *mendacium*). The apparatus-count heuristic's ~31-opener flag for this range was therefore an **undercount-corrected** truth: 32 is right. Walked every page footer band by eye at 600 dpi.
 
 **`has_scholion`: false** — grep-verified NO SCHOLI/SOHOLI/SOHOLIO header in raw 59276–59450; the dubia carry no scholion (scholia are article/question-level in d.38). No `## Scholion` block.
 
