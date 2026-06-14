@@ -4,802 +4,310 @@ volume: 3
 book: 3
 distinctio: 40
 type: dubia
-line_start: 61874
-line_end: 62649
-word_count_latin: 8084
-transcription_status: "auto-chunked 2026-06-02"
+title_la: "Dubia circa litteram Magistri (de sexto et septimo praecepto concupiscentiae, et de diversitate Sacramentorum utriusque Legis)"
+title_en: "Doubts concerning the text of the Master (on the sixth and seventh precepts forbidding concupiscence, and on the diversity of the Sacraments of the two Laws)"
+printed_pages: [892, 893, 894, 895, 896]
+pdf_pages: [914, 915, 916, 917, 918]
+source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 892–896"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from 450 dpi PDF bands (Vol III PDF-priority inversion), fresh literal English translation, full apparatus from raw OCR (41 entries, per-page Quaracchi numbering preserved as the single sequence [^1]–[^44] with natural gaps at 13/25/30), has_scholion false (2026-06-13; verified/finalized 2026-06-14)"
 format_version: 1
 ---
 
 # bon-sent-III-d40-dubia
 
+## *Dubia circa litteram Magistri*
+
+---
+
 ## Latin
 
-Dub. I.                                  quia prohibilio dicit negationem utriusque; et nega- Notandum.
-                                                                      tiones se habent e contrario affirmalionibus6: ideo
-      In parte ista sunt quaestiones circa litteram, et               prohibitio concupiscentiae addit supra prohibitionem
-primo quaeritur de hoc quod dicit, quod sextum                        moechiae; et generaliter prohibitio peccatt cordis
-praeceplum est: Non concupisces uxorem proximi                        addit supra prohibitionem peccali operis. Plus epim
-tui. Si enim prius est concupiscere quam moechari,                    est prohibere peccatum cordis quam peccatum ope-
-videtur, quod illud mandatum non deberet sexto                        ris , quia peccatum operis praesupponit peccatum
-loco, immo terlio loeo poni inter praecepla secun-                    cordis. Et ideo ista duo mandata, in quibus prohi-
-dae tabitlae. — Itera, nihil debetpraecipi, nisi quod                 beturconcupiscentia, ultimo loco sunt ordinala7. —
-est in nostra potestate8; sed natura, quamdiu cor-                    Et per hoc patet responsio ad illud quod primo
-                                                                      obiicitur.                ..
-rupla est, habet pronitalem concupiscendi: ergo vi-
-detur, quod concupiscentia non debeat in Decalogo                          Ad illud quod obiicitur, quod nihil debet prae-
-prohiberi. — Item, sicut contmgit concupiscere uxo-                   cipi, quod non est in .nostra potestale; dicendum,
-rem hominis, ita etiam contingit toncupiscere filiam                  quod est concupiscentia, quae consistit in sensuali- Dupiex con-
-et concubinanl : ergo non videtur, quod in man-
-dato illo sufficienter prohibealur carnis fioncupi-                   rationis
-                                                                      .to^j.et.est;                                      consensu capisi:en"a-
-                                                                                                                      in peccatujn
-                                                                                                      opus. Primaest est
-                                                                                         concupiscentia,.quae
-                                                                                   progressivq.ad
-scentia.                              ' '■■■-"                        veniale- nec prohibetur, se.d cohibetur 8. .Secunda
-      Respondeo: Dicendum, quod; moechia seihabet                     vei'0; est '■..peccalura. mortale, et pyohibetur, in .quan-
-ex addiliohe ad concupiscentiam, quia moechari <esl                   tura est pmgressiva ad. op.us. Unde ist\us mandati
-in corde et- opere, cmicupiscere est in corde. Et                     explicatio ct intellectus insinuatur decirao octavo 9
+<!-- page 892 -->
 
-   1 Cfr. 11. Sent. d. ,28. a. 1. q. 3. — Pro refrenandum ani-        rilum cod. U virtulem. In fine edd. 1 , 2 addunt ex Eccle. 1 ,
-mum cod. U retrahendum manum et animum. In inilio solut.              8: Cunclac namque rcs difflcileS, nort potest eas homo expli-
-pro cohibere ■ multi .cod.d: pr.ohib.ere.                             care sermone. — Edd. hic subiungnnt conclusionem , quam nos
-     2 Augusl.,.Enarrat. in Ps. S9. n. S : l.ugum enim mcum           cum codd. ultimo' dubio annecfimus, quae ihcipit a verbis :
-lene est et sarcina; mea levis est. ,Alia sarcina premit et aggra-    Sufflcil eriim scire efc.
-val te, Clirisli autem sarcina si|t)Ievat te; aJia sarcina pondus            4 Vide scholion ad I . quaeslionem.
-habet, Chrisli sarcina pennas habet. Nam et avi, si pen.nas. de-            "s Cfr. supra pag. 815, nola 6. — Minor insinuatur Gen.
-trahas, quasi nnus lollis, et quomagis.onus abstulisti, eo magis      8, 21 : Sensus enim et cogitatio humani cordis in malum prona
-in lerra remnnebil. Qtiam exonerare yoluisti, . iacet; non vd-        sunt ab adolescentia sua. Cfr. Rom. 7, 18. scqq. , et Gal. 5, 17.
-lat, quia lulisti onus ; redeat onus, et volat. Talis esl Christi     — Irifrrius pro debeat codd. debel.
-sarcina etc. Idem docet Bernard. , EpisL 72. n. 2, ubi eliam                 6'Vide supra pag. 853, nola •{. — Pro et negationes cdd.
-exemplum de quadriga affert: Quid et de quadriga dicam ?
-Haec nimirum, admola iumento, sarcinam, quae ,ab ipso moveri          quia 7negaliones.
-                                                                             Cfr. supra d. 37. a. 2. q. 2.
-non potcrut, auget quidem, sed por.tabiliorem facil. Onus oneri            8 Vide supi'a d. 38. q. i. ad 2. — Paulo ante pro quae
-additur, et minus onerat. Sic et oneri gravissimo Legis accc-         est cod. K. quae consislit.
-dens quadriga Evangelii et auxif perfectionem el difficulialem              5 Vers. 30. — Augusl., Serm. 151. (alias 5. de Verbis
-minuit etc. Cfr. Epist. 385. (alias 341.) n. 3, et de Nalura et       Apostoli) c. 6. n. 8: Aliud est enim non concupiscere , aliud
-dignitate amoris (inter opera Cernardi), c. S. n. 12. — Paulo         post concupiscentias suas non ire. Non concupiscere omnino
-superiiis verbis addilion.es illae cod. A addit quae sunt in Lecje.   perfecti est; post concupiscentias suas non ire pugnantis est ,
-      3 Eccle. I, 18. ubi Vulgata, quam Val. cum edd. I, 2 sequi-     luclanlis est, laborantis est. Cfr. Serm. 151. (alias 45. de Tem-
- tur: Qui addit scicntiam addit et laborem. — Inferius pro me-        pore) c. 3. n. 3.
-                                                                            DIST. XL. DUBIA.                                                                893
+DUBIA CIRCA LITTERAM MAGISTRI.
 
-           Ecclesiastici , ubi dicitur: Fili, post concupiscenlias                             Ad illud ergo quod primo obiicitur ; quod licet
-           luas non eas ; ubi simpliciter non prohibelur con-                            pretio acqtiirere licel concupiscere; dicendum, quod
-           cupiscere , sed post concupiscenlias ambulare con-                            concupiscere dicit ibi appetitum immoderatum ha-
-           sentiendo et in actum progrediendo.                                           bendi cum damno proximi, et in hoc ipso b etiam
-                 Ad illud quod obiicitur de concupiscentia liliae                        clauditur appetilus immoderatus, prohibitio eliam
-           et concubinae, dicendum, quod filia et concubina                              respectu rei propriae, penes quam consistit pecca-
-DistincUo. dnpliciter potest concupisci: aut in possessionem ,                           tum cupiditatis et avaritiae.
-           ut redigatur in servitutem et famulatum. aut ad                                     Ad illud quod obiicitur de amhitione dignitalis
-           operis carnalis consummationem. Et primnm pro-                                et honoris, dicendum, quod si dignitas et honor
-           hibetur per septimum praeceptum: Non concupisces                              appelalur in ratione sufficientiae
-                                                                                                                   "          , sic spectat
-                                                                                                                                      '       ad notanda.
-                                                                                                                                                   Distinctio
-           rem ' ; secundum vero prohibetur per mandatum                                 crimen avantiae et m isto mandato prohiberi hahet.
-           illud, quia prohibetur concupiscentia carnis contra                           Si autem in ratione excellentiae, sic potest dici, quod
-           legitimum torum. Unde desiderare filiam alicuius                              prohibetur per primum mandatum, in quo praeci-
-           in uxorem non est prohibitum, sed desiderare eam                              pilur reverentia Dei. — Posset tamen dici, quod Alia s°loli°-
-           in fornicationem et meretricem; et hoc clauditur in                           utroque modo claudilur in prohibilione septimi .
-        sexla prohibitione 2.                                                            quia utrobique est amor boni proprii, et una est
-                                                                                         ratio deordinandi respectu proximi, licet mulliplex
-                                         Dub. II.                                        sit ratio deordinandi respectu sui. Ideo sub una pro-
-                                                                                         hibitione habet claudi utraque concupiscenlia; et
-               Item quaeritur de hoc quod dicit: Seplimum                                magis prohibetur concupiscentia domus quam con-
-       praeceplum est .•* Non concupisces domum proximi                                  cupiscentia dignitatis, quia manifestior erat 6 et
-       tui: quia quod licitum est acquirere pretio licitum                               sensibilior, et etiam ludaei magis proni eranl ad
-                                                                                         avariliam.
-       esl affectu 3 desiderare; sed domum proximi licitum
-       est pretio emere: ergo licitum est eam desiderare et
-       concupiscere. Si tu dicas, quod ibi accipitur con-                                                              Dcb. III.
-       cupiseenlia pro inordinalo desiderio ; sic simililer
-       non licet concupiscere rem propriam. — Item, sicut                                      Itein quaeritnr de hoc quod dicit, quod diversa
-       contingit inordinate desiderare domum proximi ,                                   Sacramenta sunt Legis novae el veteris , quia illa
-       ita contingit inordinate desiderare dignilatem pro-                               lanlum signi/ieabant, hae.c confenuit gratiam. Con-
-       ximi : ergo sicut illud prohibetur , ila et illnd tfe-                            tra hoc obiicilur, quod nullus salvari potest sine
-       buit prohiberi. Si lu, dicas , quod illud -clauditur in                           gralia: ergo si Sacramenta. veteris Legis gratiam non
-       hac prohibitione ; contra hoc esl: quia concupiscen-                              conferebant, videtur, quod nnllus in Lege illa sal-
-       lia dignitatis spectat ad superbiam et vanam glo-                                 vatns fuerit; quod, est impium dicere. §i lu dicas ,
-       riam , concupiscentia domus ad avaritiam: ergo cum                                qnod; in Sacramentis illis dabatur gratia, sed lamen
-       ista sint diversorum genernm , videtur, quod in una                               non vtrtute Sacramenlorutn illoruin; in Sacramentis
-       prohibitione non claudantur.                                                      autem novae Legis datur gratia virtute ipsorum ,
-             Respondeo: Dicendum, quod in verbo isto pro-                                quia sunt « ex sanctificatione sanctificantia «, sicut
-       hibetur concupiscentia rei ' alienae, secundum quod                               dicit Hugo'; obiicitur contra hoc: qtiia gratia est
-       aliquis concupiscit aliquid in possessirinem, quaereus                            per creationem:.ergo solus Deus habet virtutem.con-
-       in illo su/ficientiam. Unde non tantiim prohibetur                                ferendi gratiam8: ergo si ,in istis et illis confere|3at,
-       concupiscenlia bonornm temporalium, ut domus et                                   videtur, qnod inter haec Sacramenta et illa nulla
-       pecudis, sed eliam cuinscumque alterins re.i,quam                                 sit differentia-
-       quis vellet alii praeripere. Et lioc qnidem- prohibe-                                   Hkspondeo: Intelligendum est ad hoc, quod du-
-       tur, intelligendo per se, ut quis non roncu|)iscat                                                                      1 cel.ebris et Dio
-                                                                                         nlcx estcirca (iiiaestionem istam opinio                      celebris.
-                                                                                                                                                   Dupiex   oPi-
-       alienum manens alieniun ; vel eliain intelligitur eon-                            tamosa.
-       tra iuris ordinem , hoc est , qnando quis vellet,                                       Quidam namqne voluerunt dicere, quod in utris- oninio i.
-       proximum damnilicari in re propter suam utilita-                                  que sacramentis datur gratia, sed differenter: quia
-       tem ; tunc enim non diligit proximum sicut se. Unde                               in tllis dabatiir ratione lidei el devotionis ipsius
-       in verbo islo prohibetur omnis avaritia et cnpidilas.                             suscipienlis , ita quod nullo modn ralione Sacra-
-                                               —
-                                                         ■
-                                                                          sn
+### Dub. I.
 
-             1 De quo In cliihiu seq. — Inferlus pno nim e$t prohibitum                       4 Cocl. A niclius ci/«»« rri.
-        eodd. GKLV n.i nnn iiroliilirlur.                                                     5 Cnilil. <i K I. V ;i;i oniillunl ipso. Infcrhw pro cupiditillis
-              * CflP. ili; hoc ilnliici Alcx. Ilal., S. n. III. ,|. :iS; [!. Allirrl.,   codd. NUV concupiscrntiur.
-        hic a. I. scq.: S. Thom., hlc ;i. I. el circa lit.; Pclr. ;i Tnr.,                    * Cni). N beVie est. Paolo BnperJilg pro ulnuiur v \i\. utro-
-        Iiic o. I.; Rlclurd. a Med., Iiic a. I. (|. I. seqq., omnls lii aucto-           bique.
-        rcs ibid. etiam seq. dubium jolvunl.                                                  i Lihr. 1. de S;ii'r;mi. p. XI, c. 2.
-              3 Edd. cuiiiiiiini a/fectu. Mox posi iroximi codd. A K v                        * Psnlin. s:i, 12: (ii.ili.iin el glorinm   dnliil lliuniiiiis. —
-        adnectunl lui. Allquanto Inferlus anle similiter pluiiml codd.                   Mux pro rnnfrrrluil cilil. riiiifrrrhulur.
-        oniittunt sir.
-          894                                                SENTENTIARUM LIB. 111.
+In parte ista sunt quaestiones circa litteram, et primo quaeritur de hoc quod dicit, quod sextum praeceptum est: *Non concupisces uxorem proximi tui.* Si enim prius est concupiscere quam moechari, videtur, quod illud mandatum non deberet sexto loco, immo tertio loco poni inter praecepta secundae tabulae. — Item, nihil debet praecipi, nisi quod est in nostra potestate[^1]; sed natura, quamdiu corrupta est, habet pronitatem concupiscendi: ergo videtur, quod concupiscentia non debeat in Decalogo prohiberi. — Item, sicut contingit concupiscere uxorem hominis, ita etiam contingit concupiscere filiam et concubinam: ergo non videtur, quod in mandato illo sufficienter prohibeatur carnis concupiscentia.
 
-               menti sive operis operati. In Sacramenlis autem no-          quem Deus non perver.tit per miraculum, substantia
-               vae Legis secns est, quia constant ex verbo et ele-          sit nobilior sua proprietate? — Aut si ponitur illa
-               mento; et' cum Dominus instituit verbum , dedit illi         virtus spiritualis7 ut in subiecto in verbo et ele-
-  Tripiex in- virtutem, per quam influit et agit in animam vel              mcnto, quare non similiter ipsa^ra/«'a, quae debet
-               disponendo ad gratiae susceptionem, vel imprimendo           infundi animae ? quod nescio si aliquis recte intelli-
-               characteris consignificationem , vel adminiculando           gens dicat. — Autsi est in subiecto corporali, quo-
-               ipsi gratiae ad animae curalionem et fomitis debili-         modo una virtus et qualitas absoluta simul poterit
-               tationem. Et hoc videtur dicere Augustinus 2: « Quae         esse in duobus subieclis, verbo videlicet et ele-
-               est virtus aquae, ut corpus tangat et cor abluat,            mento, ex quibus, etsi fiat unum Sacramentum,
-               nisi faciente verbo»? Et magister Hugo de sancto             non tamen fit unum per naturam et essentiam?
-               Victore videlur id idem sentire, qui dicit3, quod            Unitas autem virtutis, secundum quod vult Dama-
-                « Sacramenta novae Legis prins sancti/icantur per           scenuss, correspondet unilali substanliae et naturae.
-               verbum et postmodum sanctiftcant , ut sic sint ex            Aut ergo in uno Sacramento non est una virtus ,
-               sanclificatione sanctificantia ». Et hunc modum di-          sed plures; aut illa virlus composita esl; aut unum
-               cendi sustinent viri periti et fide digni:                   accidens simplex et spiritnale et impartibile simul
-                     Sed difficile videtur mihi intelligere, virtutem       erit in diversis subiectis ; quod totum valde difficile
-   Difficuiia- illam simul esse verbo et elemenlo collatam, quan-           est inlelligere de illa virtute.
-               tum ad essenliam et naluram , quantum ad eius                      Nec solum ista duo difficile est intelligere de DiiBcaitas 3.
-               exislentiam , quantum ad durationis mensuram et              illa virtute, sed etiam durationis mensuram. Du-
-               eliam quantum ad operationis efftcaciam ; quae               bium enim videtur, utrum Deus dederit virtutem
-               omnia necesse est ponere et explicare ' cirea virtu-         illam, quando primo insliluit, an de novo det.
-               tem illam, si quis dicat, quod aliqua qualilas detur         Sed quomodo a principio dedil his quae nondum
-               verbo et elemenlo, per quam agat et influat in ipsam         erant, sicul verbis, quae quotidie de novo forman-
-               animam.                                                      tur ? Si de novo dat, tunc quotidie in Sacramentis
-                     Difficile namque est intelligere illius virtutis       non solum gratiam, sed etiam alia accidentia creat;
-Difiicuiias i. essenliam. Cum enim non sit substantia, sed acci-            et tamen non consuevit dici, quod creationis opus
-               dens quoddam et in genere boni; dubium est,                  currat nunc nisi 9 circa exitum animae in esse et
-               utrum debeat reponi inter bona maxima , vel me-              circa infusionem graliae. — Et si desinat esse sta-
-               dia, vel minima h, Et si inter bona maxima repo-             tim, prolato verbo, quomodo creavit Deus tam no-
-               natur, iam gralia erit; gratia autem existens in uno         bilem virtutem, ut ita cito deficeret? — Et rursus,
-               subiecto, non habet virtutem agendi in aliud. Si             si datur verbo, cum non 10 detur verbo in scripto
-               vero gratia non est nec virtus, quomodo ergo dici-           nec in mente, datur in pronuntiatione; et tunc dif-
-               tur secundum veritatem sanctificare ipsum Sacramen-          ficile erit explicare, utrum detur in principio, vel
-               tum et eum qui suscipit Sacramentum? — In quo                in medio, vel in fine: quia nec in principio verbi
-               etiam genere sil et cuius speciei sit, utrum videlicet       nec in medio est actio illius virtutis. Si vero in
-               in diversis Sacramentis diversificetur formaliter illa       ftne, tunc, cum verbum desinat esse, et deficiente
-               virtus, homini parum intelligenti difficile est capere.      verbo, desinat virtus verbi, simul incipiet virtus el
-               — Et si inler bona media, vel minima reponilur,              desinet. Aut si ante ftnem daretur; quando ante11
-               quomodo talis virtus facit rectitudinem " et sanatio-        detur et quantum duret, difficile est insinuare.
-               nem ipsius animae, quae inter bona maxima com-                     Nec tantum illud, sed etiam multo difflcilius DimcDiias 4.
-               putantur ?                                                   est explicare operalionis illius virtutis efftcaciam ,
-                    Non solum autem difficile est intelligere huius         utrum scilicet agal generatione aequivoca, vel _uni-
-Dinacuitas 2. virtutis essentiam, sed etiam subsistentiam. Quali-           voca, generando sibi simile, vel dissimile. — Difficile
-               ter enim accidens spirituale substantificabitur in sub-      etiam esl ia, utrum influal omnino aliquid ab extrin-
-               ieclo corporali, cum secundum naturae ordinem,               seco, an educat aliquid de potentia in aclum. Pri-
+**Respondeo:** Dicendum, quod moechia se habet ex additione ad concupiscentiam, quia moechari est in corde et opere, concupiscere est in corde. Et quia prohibitio dicit negationem utriusque; et negationes se habent e contrario affirmationibus[^2]: ideo prohibitio concupiscentiae addit supra prohibitionem moechiae; et generaliter prohibitio peccati cordis addit supra prohibitionem peccati operis. Plus enim est prohibere peccatum cordis quam peccatum operis, quia peccatum operis praesupponit peccatum cordis. Et ideo ista duo mandata, in quibus prohibetur concupiscentia, ultimo loco sunt ordinata[^3]. — Et per hoc patet responsio ad illud quod primo obiicitur.
 
+Ad illud quod obiicitur, quod nihil debet praecipi, quod non est in nostra potestate; dicendum, quod est concupiscentia, quae consistit in sensualitate, et est concupiscentia, quae est in consensu rationis progressivo ad opus. Prima est veniale nec prohibetur, sed cohibetur[^4]. Secunda vero est peccatum mortale, et prohibetur, in quantum est progressiva ad opus. Unde istius mandati explicatio et intellectus insinuatur decimo octavo[^5] Ecclesiastici, ubi dicitur: *Fili, post concupiscentias tuas non eas;* ubi simpliciter non prohibetur concupiscere, sed post concupiscentias ambulare consentiendo et in actum progrediendo.
 
-               1 Edd. sed. Paulo ante pro constant cod. F consistunt, In-        7 Edd. specialis.
-         ferius pro in animam cod. U in anima.                                   8 Libr. III. de Fide orthod. c. 14. 15. et 19.
-              2 In loan. Evang. Ir. 80. n. 3. — Pro faciente cod. A              9 Pro nunc, nisi codd. U H L N V aa non nisi; edd., omisso
-         facilitante, non pauci alii codd. cum edd. faciendo , sed con-     non post et tamen, subinde legunt creationis opus non cur-
-         Ira lextum originalem.                                             rat nisi. Pro currat cod. K existal.
-              3 Libr. I. de Sacram. p. XI. c. 2. — Pro sentire codd. et          10 Non pouci codd. perperam omillunt non. Inferius pro
-         edd. I, 2 dicere. Aliquanlo inferius pro sustinent cod. A su-      eril codd. GKLNUV aa est.
-         stinuerunt.                                                             11 lla cod. A , codd. E F Z (alii mulli sunl dubiae leclionis)
-              { Codd. K aa exponere, cod. Z exprimere. Mox cum ver-         quanlum ante , alii quanlum autem , edd., retento quanlum,
-         bis Si quis dicat edd. perperam incipiunt novam propositionem      omittunt autem, et deindc eiiam et quantum duret. Paulo supe-
-         et subinde post difjieile omiltunl namque.                         rius pro deftciente codd. A G 11 K L V aa desinente. Subinde pro
-              5 Cfr. II. Sent. lit. Magistri, d. XX VII. c. 3. seqq., ubi   daretur cod. A detur, edd. dalur.
-         haec bonorum divisio verbis August. explicatur.                         12 Cod. K supplel explicare; codd. UZ inleliigere; cod.
-              6 Codd. A U rectiftcationem.                                  A omiltit est.
-                                                                      DIST. XL. DUBIA.                                                           893
+Ad illud quod obiicitur de concupiscentia filiae et concubinae, dicendum, quod filia et concubina dupliciter potest concupisci: aut in possessionem, ut redigatur in servitutem et famulatum, aut ad operis carnalis consummationem. Et primum prohibetur per septimum praeceptum: *Non concupisces rem;* secundum vero prohibetur per mandatum illud, quia prohibetur concupiscentia carnis contra legitimum torum. Unde desiderare filiam alicuius in uxorem non est prohibitum, sed desiderare eam in fornicationem et meretricem; et hoc clauditur in sexta prohibitione[^6].
 
-            mum est soli Deo possibile, secundum anlem diffi-                    mentum suscipientis ; virtutem denique efficaciter
-            cile est explicare. — Difficile est etiam inlelligere,               ordinantem ratione divinae pactionis instituentis. Sic
-            quomodo characteris impressio possit esse ab illa                    enim inslituit Dominus, ut ad talis verbi prolatio-
-            virtute , cum characler videatur esse in superiori                   nem et Sacramenti susceplionem mirabilis in susci-
-            parte , in qua solus Dens potest influere. Unde snb-                 pientibus fieret operatio et suscipientium sanatio et
-            stanlia intelligibilis beata, quantumcumque magnae                   iuslilicatio; et pro tanto dicuntur Sacramenta novae Cai*ram ftn*
-            sit excellentiae, secundum quod dicit Auguslinus ',                  Legis habere virtutem. — Et differunt in hoc a Sacra- Difreremia
-            non polest facere ad nostram iustificationem , vel                   mentis Legis veleris, praeripue quantum ad ipsam tomm.
-            illuniinalionem aliquid interius formando, sed so-                   efficacem ordinationem , quia non interveniebat ibi
-            lum exlerius excitando. Quomodo ergo hoc poterit                     paclio in illis Sacramentis, per quam eflicax et in-
-            virlus dala elemento vel verbo, cum non videatur                     fallibilis fieret ordinatio ad gratiam, secundum quod
-            esse capax tantae virtutis ? — Postremo, in Sacra-                   in Sacramentis novae Legis; ut patet in institutione
-            mento altaris, in quo fit subito iranssubstantiatio                  baptismi, ubi dixit': Qui crediderit et baplizalus
-            panis secundum se tolum in corpus Christi — quod                     fuerit salvus erit. — In aliis etiam tribus modis ha-
-            quidem non potest esse nisi ab infinita virtute —                    bendi virlutem differentia est peries magis comple-
-            quomodo verbiim prolatum ab homine, cum sit fini-                    tum et minus completum , quia in Sacramentis no-
-            tae virlutis, poterit ad istam transsubstantiationem                 vae Legis Spiritus sanctus influens iustitiam plenius
-            aliquid operari ? Et certe, si illud verbum virtutem                 assistit, el passio Christi meritoria eflicacius concur-
-            non habel agentem , multo minus verba aliornm                        rit. In cuius signum de latere Chrisli profluxerunt
-            Sacramenlorum.                                                       sanguis et aqua s, et per consequens Sacramenta, de
-                  Haec omnia et multa alia circa hoc valde dif-                  quibus fundatur Ecclesia. — Abundantior etiam est
-iudicinmaa- ficile est intelligere et explicare. Qtiae non idcirco               devolio suscipientis tum propter incrementum fidei
-            narro, quia credam esse insolubilia, vel ut per ipsa*                propriae, quod factum est in nova Lege, tum etiam
-            islam improbem positionem, sed ut oslendam, me                       propter subsidium fidei totius Ecclesiae, quia in fide
-            ipsam non plene intelligere, et ideo nec affirmare                   Ecclesiae suscipiuntur ecclesiaslica Sacramenla8. — Et coroiuiiom.
-            nec negare velle; quia, etsi ipsam non clare intelli-                propter istum quadruplicem modum habendi virtu-
- Noumdiim. gam , hoc tamen scio et inlelligo, quod plnra pnlest                  lem dicuntur Sacramenta Legis novae iustificare et
-            Deus facere et etiam in ipsis Sacramenlis facit, quam                esse causa gratiae. — Nec volunt qui hanc posilio-
-            nos possumus intelligere 3. Unde confugiendo ad mi-                  nem suslinent in Sacramentis novae Legis amplius
-            rabilem Dei potentiam, omnia isla possumus facile                    ponere, tum qnia isla satis videntur suflicere ad no-
-            declinare. Et secundum istum modnm dicendi satis                     stram sanationem el iustificationem ; tum etiam, quia
-            plana esset responsio ad qnaeslionem proposilam, si                  ex isto quadruplici modo habendi virtutem satis
-            ipsius modi plana esset intelligentia. El haec positio               manifestatur nobilitas Sacramentorum novae Legis
-             in quarto lilno'1 diffusius est explicata, ubi respon-              in se ipsis; tum etiam , quia secundnm hoc satis
-             detur ad praemissa.                                                 apparet differeniia Sacramentorum novae Legis et
-                   Alius est hic modus dicendi. Supposito, quod                  veteris10; tum etiam, quia nec expressa auctoritas
-   opinio i. in Sacramentis novae Legis «divina virtns secretius                 nec ratio videlur cogere amplins illis dare, et hu-
-             operatnr5», quia hnc est ipsius fidei et sententiae                 militas fidei non tanlum debet refugere diminutio-
-             commnnis: dixerunt aliqui, Sacramenta novae Legis                   nem , verum etiam superfluitatem , et landabilius
-virtos  qna-
- droplex.
-             habere respectu iuslificationis virlulem influenlem,                quodam modo videtur diminute dicere quam am-
-             promerentem , disponentem et efficaciler ordinan-
-             tem : virtutem influenlem ratione Spiritus sancti                   pliare.Hunc modum dicendi et huius quaeslionis de-
-             assislentis ; virtutem promerenlem ratione meriti                   terminalionem plures sustinent " bene intelligentes.
-             passinnis ad Sacramentum concurrentis c; virtntem                   Et dominus Gulielmus, Parisiensis episcopus, in de- Nola
-             dtuponentetn ratione devotionis ipsius fidelis Sacra-               terminando in scholis Fratrum Minorum approbavit
+### Dub. II.
 
-               1 F.nafraL in Ps. Iis. serm. IS. n. i: Dous ilaque per se         tur, quia sub tegimienlo corporalium rcrum virlus divina se-
-         ipsum, quia lux esl, illuminat pias incntes, ut ea quae divinn          crclius saliilem [vi?] eorundem Sacramenlorum opcralur; unde
-         dicunlur vel oslendunlur, inicllignnt. Sed si ad hoc ministro           el a secrelis virlulibus, vel a sacris Sacramenla dicuniur. — Mox
-         utiiiir Angelo, potesl quidem aliquid agcre Angelus in niente           pro Aoi; permutli codd. huec. Paulo inferius post habere. non paud
-         liominis, ut caplal lueem Dei et per hnne intolligal; sed ila           codd. adnectunl virtutem.
-         diciUir intelleelum dare homini el quasf, ul ita dicam , intelle-            6 Vidc supr.i il. 19. B. I. q. I.ot d. 20. q. i. i ■irca lincni
-         tluare honiinein. quemadmoduoi quisquam dicllnr lncem dare              corp. — Inferius pro pactianis Vat. passionis.
-         iiniiiiii vel illumlnare domum, cui feneslram racil elc. — Supe-             ' M;irc. H), 10. — Cod, F ubi ilicitnr. iabrtus eodd. II K
-         rius |>■ i > in ijim Cita cndd. cl cilil ) mallemus in i/unm.           I. V aa niniltuiit virtnlem.
-              2 Plures nniii. perperam ut per ipsatn, edd. ul ipse.                  8 loan. I<), :ii. Cfr. lom. I. pag. 2, iuila 10.
-              3 Cfr. tniii. I. pag. 760 , nola 7. — Inbrius pro factte               9 Vide supra d. 28. a. 2. q. 2. iu cuip. — Paulo anlc
-         cod. L' facililer.                                                      pru siiscipiitnliir cdd. cum aliquot codd. snscipiiiiil.
-              4 DisL i. p. I. q. i. — Mn.v pro rcspondetur cod, U est                10 Ihicc lcilia ralin ilcsiilcialiir in edd.
-         respansio.                                                                     11 Cod. A lliinc iiiuiliini ilicauli in huius qunestionis lcr-
-                                                                                 iiiiiuiliiuic plurcs Mtstinuerunt.
-              '- Isldor., VI, Elymolog; a   10. n.   40: Sacramenta     dicun-
-          896                                                    SENTENTIARUM LIB. 111.
+Item quaeritur de hoc quod dicit: *Septimum praeceptum est: Non concupisces domum proximi tui:* quia quod licitum est acquirere pretio licitum est affectu[^7] desiderare; sed domum proximi licitum est pretio emere: ergo licitum est eam desiderare et concupiscere. Si tu dicas, quod ibi accipitur concupiscentia pro inordinato desiderio; sic similiter non licet concupiscere rem propriam. — Item, sicut contingit inordinate desiderare domum proximi, ita contingit inordinate desiderare dignitatem proximi: ergo sicut illud prohibetur, ita et illud debuit prohiberi. Si tu dicas, quod illud clauditur in hac prohibitione; contra hoc est: quia concupiscentia dignitatis spectat ad superbiam et vanam gloriam, concupiscentia domus ad avaritiam: ergo cum ista sint diversorum generum, videtur, quod in una prohibitione non claudantur.
 
-             istum rnodum dicendi coram fratre Alexandro bonae                    dum quod dicitur « invisibilis graliae visibilis for-
-naec opmio memoriae. — El istum modum dicendi dupliciter po-                      ma 4, ita quod simililudinem eius gerat et causa
-                                                                                  existat», habeat virtutem aliquam, yer quam influat
-fnteiTeHm-!r test quis sustinere et intelligere: vel ita, quod omnino
-             affirmet, nullo alio modo esse virtutem in Sacra-                    in animam. Non videlur ergo hoc facere ad propo-
-             mentis novae Legis quam modis praedictis ; • vel                     situm. — Postremo, Spiritus sanctus sanctificans et Quarto.
-             quod hoc modo affirmet, virtutem in eis esse,' ita                   meritum passionis et elementum exterius non so-
-             tamen, quod non neget, alium modum praeter hos                       lummodo reperiuntur in Sacramentis Legis novae,
-             existendi virtutem in Sacramenlis esse possibilem.                   sed etiam in Sacramentis veteris Legis. Hoc ergo
- xoumdum. Et primus modus repugnat priori modo dicendi ;                          non sufficil dicere ad assignandum differentiam isto-
-             secundus autem modus dicendi priori opinioni non                     rum Sacramentorum et illorum. — -Aut ergo modus
-             repugnat, quia nihil dicit, quod illa non dicat, immo                iste dicendi nihil aliud dicit, aut si dicit, parum
-             etiam nihil dicit, quod communis opinio non teneat                   dicit et modicum ad propositum facit.
-             — nullus enim recte sentiens negat, quin ommbus                                                  1      *
-                                                                                        Et ideo sustineatur, quicumque   L
-                                                                                                                         praedictorum    dicmm au-
-                                                                                                                                        uitimum iu-
-             dictis modis Sacramenta novae Legis virtutem ha-                     modorum magis placet, quia primus satis pius est, d°™.
-             beant — sed si quis plus dicit, huic posilioni non                   secundus vero satis sobrius est, si sustineatur illo
-             conlradicit , sed addit.                                             modo, quo dictum est; et hoc modo in quarto li-
-                   Sed forle videbitur aliCui calhmniabile, quod                  bro5 sustinetur, sicut patet consideranti. Et idcirco
-   owicitur. dictum est , virtutem Spiritus sancti Sacramento                     hic repetii, non propter hoc, ut nova superadderen- ^•Jf^"
-             assistere, quin potius in nomine Sacramenti claudi                   tur, sed ut ostenderetur, quod a communi positione
-             deberet intelligi tanquam '"de eius integritate, pro-                non dissonat, cui 1 pro viribus meis in omnibus prae-
-                                                                                                                                  L      Auctorviamse-
-                                                                                                                                        quilur
+**Respondeo:** Dicendum, quod in verbo isto prohibetur concupiscentia rei[^8] alienae, secundum quod aliquis concupiscit aliquid in possessionem, quaerens in illo sufficientiam. Unde non tantum prohibetur concupiscentia bonorum temporalium, ut domus et pecudis, sed etiam cuiuscumque alterius rei, quam quis vellet alii praeripere. Et hoc quidem prohibetur, intelligendo per se, ut quis non concupiscat alienum manens alienum; vel etiam intelligitur contra iuris ordinem, hoc est, quando quis vellet proximum damnificari in re propter suam utilitatem; tunc enim non diligit proximum sicut se. Unde in verbo isto prohibetur omnis avaritia et cupiditas.
 
+<!-- page 893 -->
 
-             pter illud quod dicitur primae loannis quinto':                      cedentibus libris adhaesi tanquam viae securiori, et communem.
-             Tres sunt, qui iestimonium dant in lerra: spiritus,                  sicut scio et posaum, mihi et aliis consimilibus pa-
-             aqua et sanguis , et hi tres unum sunt ; et in libro                 rum intelligentibus persuadeo adhaerendum ; et
-             de Unitate et uno' dicitur, quod' suntunum Sacra-                    quoniam per totum librum hoc diligentius obser-
-          • menlo: et ideo non debet dici , quod Spiritus' san-'                  vavi — sicut adverlenti clarius apparebit — ut in
-             ctus assistat Sacramenlo, tanquam cum eo connu-                      his quaestionibus dubiis et difficilibus, in quibus
-             meretur; sed propter ipsam unitatem, quae prae-                      non potui deprehendere, quae esset via communis,
-             dicta est, quam efficit Spiritus sanctus in Sacra-                   quia sapientes opinantur contrarie sapientibus , sic
-             mento, ipsi Sacrametito debei attribui:                              unam partem tanquam magis probabilem sustinerem,
-                  Sed certe, elsi hic modus dicendi videatur dif-                 ut tamen aliam minime improbarem.
-Resp. aucto- ferre a praedicto, lamen secuhdum rem idem est,                           Sufficit enim in dubiis scire, quid sapientes ^"s™??"
-rjs. Pnmo. j.^i vocaDuja sjnt diversa. qu0(i enjm dictintur ista,                 senserunt, nec est utile contentionibus deservire. libri-
-             tria unum Sacramento, hoc nbn est, quod ex ipsis                     Multa dicimus ct deficimus in verbis, consummator
-             fiat unum per essenliam, sed quod fiat unlim per                     autem sermonum ipse est° Dominus noster lesus
-             ordinem, quia scilicet' brdinantur ad unum effe.ctum;                Christus, de quo factus esl sermo in hoc terlio li-
-             et hoc nihil aliud est dicere; quam uriu!m alteri                    bro, cui immensas gratias ago , quia adiuvit perve-
-   secundo. assistere. — Ilem, omne quod est de integritate                       nire ad consummationem istius opusculi, miseratus
-             Sacramenli, aut est res lantum, aut significatio tan-                paujDertatem scientiae et ingenii; in quo tertius iste
-             tum, aut res el signumK Si' ergo Spirilus influens                   liber ultimo est notatus7. Quem rogo, ut faciat pro-
-             iustitiam ponitur de unitate Sacramenti, cum non                     venire mihi ad obedientiae meritum et ad fratrum
-             sit signum nec res el signum, erit lantummodo sicut                  profeclum, propter quae duo labor iste a principio
-             res, et ita non habebit rationem causdntis, sed                      fuil assumtns. Ipsi ergo, de quo factus est sermo,
-             potins rationem effeclus; et ita Spiritus non staret                 Domino nostro Iesu Christo, regi saeculorum im-
-             pro ipsa virtute influente , sed potlus pro ipsa gra-                mortali et invisibili, qui pro nobis factus est homo
-             tia Spiritus sancti infiisa ipsi animae in Sacramenti                et crucem subiit et gratiam multiplicem contulit
-      Tenio. susceptione. — Item , non est quaestio, utrum Spi-                   et mandata dedit, secundum quod in hoc libro ex-
-             ritus sanclus in Sacramento infundat gratiam , sed                   planatum est, sit omnis honor et gloriaper infinila
-             de hoc est quaestio, utrum Sacramenlum, secun-        saecula saeculorum. Amen ".
-                              EXPLICIT LIBER TERTIUS FBATRISS BONAVENTURAE SUPER SENTENTIAS.
+Ad illud ergo quod primo obiicitur: quod licet pretio acquirere licet concupiscere; dicendum, quod *concupiscere* dicit ibi appetitum immoderatum habendi cum damno proximi, et in hoc ipso[^9] etiam clauditur appetitus immoderatus, prohibitio etiam respectu rei propriae, penes quam consistit peccatum cupiditatis et avaritiae.
 
-                 1 Vers. 8. ,                                                            4 De hac Sacramonti definilione vide IV. Senl. lit. Magi-
-                - Quem coni|50Suil.l3oethius et iti quo inter divisiones uni-      slri, d. I. — Superius pro infundat codd. GLV aa effundat.
-          tatis recenset etiam hanc: Alio dictitilur unum ralione, sed lioc              s Dist. I. p. 1. q. i.
-          duobus modis: quiu ratione consortii, ul ens, intellectus et                   6 Eccli. 43, 29: Mulla dicemus et deficiemus in verbis ;
-          res,' aliquid et vocahulum unum genus; vel ralione unius Sa-             consummalio oulem sermonum ipse est in omnibus.
-          cramenti, ut spirilus. aqua et sanguis dicuntur unum. — Paulo                  7 Ullima verba, quae in edd. I, 2 desiderantur , Vat. sic
-          inferius pro assistat plures codd. assistit el pro unilatem cod.         exhibet in quo lertius isle liber est annotatus; pro notatus
-          U virtutem.                                                              codd. G LU V cc vocatus. Superius posl quia adiuvit edd. sup-
-                  3 O. IV. Senl. lit. Magistri , d. I. — - Infeiius pro nec res
-                signum Vat. et res nec signum tantum.                              plent s me.
-                                                                                            Epist. I. Tim. I, 17.
-                                             INDBX QUAESTIONUM
-                        COMMENTARII                                                  S. BONAVENTURAE
+Ad illud quod obiicitur de ambitione dignitatis et honoris, dicendum, quod si dignitas et honor appetatur in ratione *sufficientiae*, sic spectat ad crimen avaritiae et in isto mandato prohiberi habet. Si autem in ratione *excellentiae*, sic potest dici, quod prohibetur per primum mandatum, in quo praecipitur reverentia Dei. — Posset tamen dici, quod utroque modo clauditur in prohibitione septimi, quia utrobique est amor boni proprii, et una est ratio deordinandi respectu proximi, licet multiplex sit ratio deordinandi respectu sui. Ideo sub una prohibitione habet claudi utraque concupiscentia; et magis prohibetur concupiscentia domus quam concupiscentia dignitatis, quia manifestior erat[^10] et sensibilior, et etiam Iudaei magis proni erant ad avaritiam.
 
-                                 m TERTIUM LIBRUM SENTENTIAKUM
+### Dub. III.
 
-                                                         PETRI LOMBARDI.
+Item quaeritur de hoc quod dicit, quod *diversa Sacramenta sunt Legis novae et veteris, quia illa tantum significabant, haec conferunt gratiam.* Contra hoc obiicitur, quod nullus salvari potest sine gratia: ergo si Sacramenta veteris Legis gratiam non conferebant, videtur, quod nullus in Lege illa salvatus fuerit; quod est impium dicere. Si tu dicas, quod in Sacramentis illis dabatur gratia, sed tamen non virtute Sacramentorum illorum; in Sacramentis autem novae Legis datur gratia virtute ipsorum, quia sunt «ex sanctificatione sanctificantia», sicut dicit Hugo[^11]; obiicitur contra hoc: quia gratia est per creationem: ergo solus Deus habet virtutem conferendi gratiam[^12]: ergo si in istis et illis conferebat, videtur, quod inter haec Sacramenta et illa nulla sit differentia.
 
+**Respondeo:** Intelligendum est ad hoc, quod duplex est circa quaestionem istam opinio celebris et famosa.
 
-Litterae Ss. Domini noslri Papae Leonis XIII. .          .   .                                 § 3. De relulione huius Commcnlarii ad Supplemen-
-                                                                                                 lum Summae Alexandri Ilalensis quoad traclatum de
-Prolegomena ad III. librum Senlentiarum          .   .   .       .
-                                                                         pag. ib.I.              virtutibus                                                       pag.       IV.
-§ 1. Commentarius hic magni semper aestimatus est
-                                                                                     IV.       § 4. De melhodo in emendando            et illustrando textu
-§ 2. Antiquus index locorum, in quibus dissentiunl Ss.
-                                                                                                 huius libri observala, cum indice codicum            ...            »       V.
-  Thomas et Bonaventura in Commentariis ad ler-
-  tium librum Sententiarum                        • •                                          Tabula collutorum codicum                                             »       X.
+Quidam namque voluerunt dicere, quod in utrisque Sacramentis datur gratia, sed differenter: quia in illis dabatur ratione fidei et devotionis ipsius suscipientis, ita quod nullo modo ratione Sacramenti sive operis operati. In Sacramentis autem
 
+<!-- page 894 -->
 
+novae Legis secus est, quia constant ex verbo et elemento; et cum Dominus instituit verbum, dedit illi virtutem, per quam influit et agit in animam vel disponendo ad gratiae susceptionem, vel imprimendo characteris consignificationem, vel adminiculando ipsi gratiae ad animae curationem et fomitis debilitationem. Et hoc videtur dicere Augustinus[^14]: «Quae est virtus aquae, ut corpus tangat et cor abluat, nisi faciente verbo»? Et magister Hugo de sancto Victore videtur id idem sentire, qui dicit[^15], quod «Sacramenta novae Legis prius sanctificantur per verbum et postmodum sanctificant, ut sic sint ex sanctificatione sanctificantia». Et hunc modum dicendi sustinent viri periti et fide digni:
 
-                                                 Liber Tebtius Sententiaeum.
+Sed difficile videtur mihi intelligere, virtutem illam simul esse verbo et elemento collatam, quantum ad essentiam et naturam, quantum ad eius existentiam, quantum ad durationis mensuram et etiam quantum ad operationis efficaciam; quae omnia necesse est ponere et explicare[^16] circa virtutem illam, si quis dicat, quod aliqua qualitas detur verbo et elemento, per quam agat et influat in ipsam animam.
 
-             DE INCARNATIONE                         VERBI ET HUMANI                                          GENERIS REPARATIONE.
-                                                                                                                              DISTINCTIO II.
-Prooemium S. Bonaventurae                                • .             pag.              I
-Capitula terlii libri Sentenliarum Petri Lombardi.           .       .       »          3
-                                                                                               Textus Magislri                                                    pag.        35
-                           DISTINCTIO I.                                                       Divisio textus                                                        »        36
-                                                                                                           Articulus I. De natura assumta quantum ad
+Difficile namque est intelligere illius virtutis essentiam. Cum enim non sit substantia, sed accidens quoddam et in genere boni; dubium est, utrum debeat reponi inter bona maxima, vel media, vel minima[^17]. Et si inter bona maxima reponatur, iam gratia erit; gratia autem existens in uno subiecto, non habet virtutem agendi in aliud. Si vero gratia non est nec virtus, quomodo ergo dicitur secundum veritatem sanctificare ipsum Sacramentum et eum qui suscipit Sacramentum? — In quo etiam genere sit et cuius speciei sit, utrum videlicet in diversis Sacramentis diversificetur formaliter illa virtus, homini parum intelligenti difficile est capere. — Et si inter bona media, vel minima reponitur, quomodo talis virtus facit rectitudinem[^18] et sanationem ipsius animae, quae inter bona maxima computantur?
 
-Textus Magistri                                                              »         6                                unionis congruitatem.
-Divisio lexlus                                                               »         7       Quaest.      I. Utrum maior sit congruilas ad unionem in
-       Articchis I. De incarnatione quantum ad unionis                                                          ralionali creatura quam in toto universo.                »    37
-                                                                                                           II. Utrum maior sit congruitas ad unionem in
-                           possibililatem.
-                                                                                                                humana     nalura   quam    in   Angelo, an e
-Quaest.     I. Utrum divina natura potuerit uniri cum hu-
-                 mana natura                                                 »          8                         converso                 .'                            »39
-           II. Ulrum una    persona     possit uniri humanae                                               III. Ulrum maior sil congruilas ad unionem in
-                nalurae sine altera                                          »        12                         lota specie quam in uno individuo . .                   »    42
-           III. Ulrum persona una possit simul uniri cum                                                  ArmcuLus II. De nalura assumla quoad suarum
-                alia, assumendo unam et eandem numero                                                                   partium integritatem.
-                 naturam                                                     »         ' '»    Quaest.      I. Ulrum Christtis assumscrit veram carnem .                 »    (t
-                                                                                                           II. Ulrum Christus assumscrit animam ralionalcm.              »    46
-           IV. Utrum quaelibet   trium personarum possit
-                 incarnari per se ipsam                                      »         IG                  III. Utrum Chrislus habueril cum aliis homini-
-           Articulus II. De incarnatione Verbi quantum                                                           bus comniuiicm speciem                                  »48
-                           ad congruitatem.                                                                   Articulus III. Dc natura assnmta quoad
-                                                                                                                        medii necessitalem.
- Quaest.    I. Utrum in opcrc incarnntionis servetur de-
-                 bita congrucntia e.x parle Dei . . . .                      »         19       Quaest.     I. Utrum corpus unituni fucrit Vorbo mediantc
-           II. Quac fuerit incarnationis ralio praccipua                 .   »        21                          spiiilu humano she anima                               »    49
-                                                                                                            II. IHriim aninia Clnisti assumla fupiil a VerbO
-           III. Quac trium personarum fucrit ad incarnalio-
-                  nem magis idonca                                               »     28                        niediantc atlquo hahilii graluflO.       ...»                82
-                                                                                                           III. Utrum YitIiiiiii iiniluui sil liiunanar     natu-
-           IV. Quo tcmporc fucrit magis       congruum , l'i-
-                 lium Del Incarnarl                                              »31                          rae medionle Splrllu sancto                                 > 8t
- Dubia 1-1 V. circn lillcram Magistri                                            »     33       Dubla i-iv. clrca Utteram Magistrl                                       » 86
-                                                                                                                                                            113
-            S. Bonav. —     Tom. III.
-898                                                       1NDEX QUAESTIONUM.
-                               DISTINCTIO III.                                           II. Ulrum beala Virgo Maria meruerH Christum
-                                                                                              concipere, an conceplio illa fuerit solum
-Textus Magislri                                             pag.        58                    ex munere graliae divinae ....            pag. 106
-                                   Pars I.                                             III. Utrum gratia in conceptione teneat ralio-
-Divisio textus                                                  »60                           nem proprielatis naturalis, vel gratuilae . » 1 08
-         Articulus I. De sanctificatione Virginis quoad                            Articulus III. De conceptione Christi in comparalione
-                    congruenliam temporis.                                                       ad Virginem concipientem.
-Quaest. I. Ulrum caro Virginis snncliflcata fuerit ante                       Quaest.     I. Utrum Virgo Maria in illa conceptione fue-
-               animationem                     . ...»                   61                     rit aliquid Spirifui sanclo in aliquo coo-
-           II. Utrum anima beatae Virginis sanclificala fue-                                   perata                              ...»110
-                 rit anle originalis peccati contractionem.     »       65               II. Utrum cooperalio illa beatae- Virginis fuerit
-                                                                                               naturalis, an miraculosa                      »113
-           III. Utrum beata Virgo sanctiflcala fuerit ante"
-                  nativifalem                               »70                          III. Utrum beala Virgo sit Dei genitrix appel-
-   Ahticulus II. De efficacia virtutis m hac sanctificatione.                                   landa                                        »115
-Quaest.     I. Utrum beala Virgo per sancliflcationis gra-                    Dubia I-VI. circa litieram Magislri                            »116
-                 tiam immunis fuerit ab omni actuali
-                 peccalo                                    »72                                          DISTINCTIO V.
-           II. Utrum in prima sanctificalione in Virgine
-                 fuerit exslincla fomilis concupiscentia. . » 74
-                                                                              Textus Magistri                                                »118
-         III. Ulrum in secunda sanctificatione a beata Vir-                   Divisio textus                                                 »121
-                                                                        76
-                gine ablala fuerit peccandi polentia . . »                                Articulus 1. De ipsa assumtione ex parte
-                                                                        78
-Dubia I-V. circa lilferam Magislri                          »                                             assumenlis.
-                              PaT3 II.
-                                                                              Quaest.      1. Utrum assumere sit actus conveniens divi-
-Divisio texlus                                              "
-                                                                                                nae naturae                                   » ib.
-               Articulus I. De Christi decimalione.                     80
-                                                                        81                II. Utrum assumere conveniat divinae personae.     » 124
-Quaest.     I. Utrum aliquis possit decimari in parentibus.     »                        III. Utrum ossumere conveniat personae ratione
-           II. Ulrum Christus in Abraham       fuerit deci-
-                                                                        83                     naturae, an e converso                        »125
-                 matus                                          *
-                                                                                         IV. Ulrum assumere possit convenire divinae
-            Articulus II. De carnis Chrisli traductione.
-                                                                                               naturae, abstracla omni persona . . . »126
-Quaest.     I. Utrum caro Christi in Abraham et aliis Pa-                                 V. Ulrum haec sit concedenda: divina natura
-                 tribus disfincta fuerit secundum qualita-
-                                                                                                est caro facla          ■                    »128
-                 tem a carne aliorum hominum . . . . »
-                                                                                         Articulus 11. De assumtione ex parte assumti.
-           II. Utrum Christi caro fuerit in parentibus aliler
-                                                                              Quaest.      I. Ulrum concedendum sit, naturam         huma-
-                 quam caro aliorum           hominum secundum                                   nam assumlam esse a Deo                      »130
-               legem propagalionis                       »
-                                                                                          II. Utrum Deus assumserit humanam           per-
-        AivncULUS III. De perfectione corporis dominici.
-                                                                                                sonam                                        »132
-Quaest.   I. Ulrum corpus Christi productum fuerit ad
-                                                                                         III. Utrum ponenda sit intentio personaliialis in
-               perfectam molem subito , an successive . »
-                                                                        90                     anima separata, omni unione circum-
-         II. Utrum in corpore dominico formatio et di-
-               stincfio mcmbrorum facfa sit subito, an                                         scripta                                       »135
-                                                                                         IV. Ulrum concedendum   sit, quod Deus as-
-                  successive                                       »
-                                                                        94                     sumserit hominem                              »138
-Dubia I-IV. circa litteram Magislri                                »    92
-                                                                                          V. Utrum concedenda sit haec: Filius Dei as-
-                                                                                               sumsil humanilatem                            »140
-                               DISTINCTIO IV.
-                                                                              Dubia I-lV. circa lilteram Magistri                            »142
+Non solum autem difficile est intelligere huius virtutis essentiam, sed etiam subsistentiam. Qualiter enim accidens spirituale substantificabitur in subiecto corporali, cum secundum naturae ordinem, quem Deus non pervertit per miraculum, substantia sit nobilior sua proprietate? — Aut si ponitur illa virtus spiritualis[^19] ut in subiecto in verbo et elemento, quare non similiter ipsa *gratia*, quae debet infundi animae? quod nescio si aliquis recte intelligens dicat. — Aut si est in subiecto corporali, quomodo una virtus et qualitas absoluta simul poterit esse in duobus subiectis, verbo videlicet et elemento, ex quibus, etsi fiat unum Sacramentum, non tamen fit unum per naturam et essentiam? Unitas autem virtutis, secundum quod vult Damascenus[^20], correspondet unitati substantiae et naturae. Aut ergo in uno Sacramento non est una virtus, sed plures; aut illa virtus composita est; aut unum accidens simplex et spirituale et impartibile simul erit in diversis subiectis; quod totum valde difficile est intelligere de illa virtute.
 
-Texfus Magistri                                                     *
-Divisio texlus                                                      "                                    DISTINCTIO VI.
-                                                                        96
-      Abticulus 1. De conceplione Christi in comparatione               97
-                ad Spiritum sanclum e/ficientem.                              Textus Magistri                                                »143
-                                                                              Divisio textus                                                 » 1 46 .
-Quaest.      I. Ulrum Filii Dei incarnatio debeat appro-
-                  priari Patri, an Spirifui snnclo . . . . »                  Praenotata de tribus opjnionibus .                    »147
-            II. Utrum Chrislus possit dici filius Spiritus    98
-                                                             100                   Articulus 1. De varietate harum opinionum, in qua
-                  sancti                                   »                                     videlicet sit maior probabilitas.
-                                                                        102
-          III. Ulrum Christus possit dici filius Trinilatis. »                 Quaest.      1. Utrum Christus sit duo                        »148
-                                                                                                                                               152
-      Articulus II. De conceptione Chrisii in comparatione                                 II. Ulrum persona Christi sit una unitate sim-
-                      ad gratiam inlervenientem.                                                 plici , an composita                        »
- Quaest.     1. Utrum Christi incarnalio fuerit ex mera gra-                              III. Utrum Chrislus, secundum quod homo, sit
-                  tia, an eam impetrarunl merita sancto-                                       substantia, an homo praedicetur per mo-           164
-                  rum Palrum                                        »404                       clum habitus ct accidenlis                    »
-                                                            IXDEX QU.VESTIONUM.                                                              899
-       Articulus II. De qualilate et nobititats illiiis unionis.                       II. Utruni cultus   Intriae oxhiberi debeat ima-
- Quaest.    I. Ulruni unio duarum nalurarum sit termiiinla                                   gini Chrisli                                pag. 202
-                 ad unitaiem personae               ptg. 157                          III. Ulrum eullus lalriae   .Matri Chrisli exhiberi
-           II. Ulrum modus unionis duarum naturarum                                          debeat
+Nec solum ista duo difficile est intelligere de illa virtute, sed etiam durationis mensuram. Dubium enim videtur, utrum Deus dederit virtutem illam, quando primo instituit, an de novo det. Sed quomodo a principio dedit his quae nondum erant, sicut verbis, quae quotidie de novo formantur? Si de novo dat, tunc quotidie in Sacramentis non solum gratiam, sed etiam alia accidentia creat; et tamen non consuevit dici, quod creationis opus currat nunc nisi[^21] circa exitum animae in esse et circa infusionem gratiae. — Et si desinat esse statim, prolato verbo, quomodo creavit Deus tam nobilem virtutem, ut ita cito deficeret? — Et rursus, si datur verbo, cum non[^22] detur verbo in scripto nec in mente, datur in pronuntiatione; et tunc difficile erit explicare, utrum detur in principio, vel in medio, vel in fine: quia nec in principio verbi nec in medio est actio illius virtutis. Si vero in fine, tunc, cum verbum desinat esse, et deficiente verbo, desinat virtus verbi, simul incipiet virtus et desinet. Aut si ante finem daretur; quando ante[^23] detur et quantum duret, difficile est insinuare.
 
-                sii singularis, an repcriatur aliquis unio-                           IV. Utrum cullus latriae cruci Christi exhiben-         205
-                nis modus ei eonsimilis                            »139                     dus sit
-                                                                                                                                              207
-                                                                                       V. Utrum latria exhibenda sil membris Cluisli.         209
-          III. 1'lrum illa unitas quantum ad giaduni e>
-                 cellal omnes unilales crealas                     »162               VI. Ulrum cultus latriae possit cxhibcri adver-
-Dubia I-lll. circa littcram Magistri                               »164                     sario Christi absque peccalo
-                                                                                 Articulus II. De ipsa lulriu, secunilum illuil quod est. 211
-                              DISTIXCTIO VII.
-                                                                            Quaest. 1. Ulrum latiia sit in genere virlutis . . .          213
-Texlus Magistri                                                    »166              II. Utrum lalria sit virtus generalis, vel spe-
-                                                                                           cialis
-Divisio icxtus                                                     » 168                                                                      213
-Praenotata                                                         »169               III. Ulrum latria sit virlus cardinalis, vel theo-
-            Articulus 1. De locutionibus exprimentibus                                       logica                                           216
-                                                                                      IV. Ulrum lalrin sit virtus dislincta a dulin. .        219
-                          ipsam unionem.
-Quaest.     I. Ulrum vera sit loculio: Deus est homo.    . » ib.            Dubia l-IV. circa litternm Magislri                               221
-           II. Utrum bacc sit admittenda: Deus faclus est
-                 homo                                      »173                                        DISTINCTIO X.
-          III. Uirum liaec sit concedenda: homo factus
-                 est Deus                                  »173             Textus Magistri                                                » 223
-           Articulus II. De locutionibus exprimentibus                      Divisio textus                                                 „ 224
-                    unionis praedestinationem.                                       Articulus I. De comparatione Chrisli hominis
-Quaest.    I. Ulrum Filius Dei sil praedeslinatiis . . . »177                                 ad conditionem personalilalis.
-           II. Utrum haec sit vera : Filius Dei praedesti-                  Quaest.     I. Utrum haec sit admilienda : Chrislus, secun-
-                 nalus est esse homo                               »179                      dum quod homo, est Deus                       » 223
-          III. Ulrum haec sil concedenda: homo praede-                                 II. Utrum haec sit vera: Christus, secundum
-                 stinatus est esse Filius Dei ....                   181                     quod homo , est persona                       » 227
-                                                                     182
-                                                                                      III. Utrum haec sit vera: Christus, secundimi
-                                                                                             quod liomo, esl individuum                    » 229
-                             DISTIXCTIO VIII.                                               Articulus II. De /iliatione adoplionis.
-                                                                     184
-                                                                            Quaest.     I. Ulrum filiatio adoptionis sit in Christo . .    » 2.32
-Texlus Magislri                                          »
-                                                                                       II. Ulrum filinlio adoptionis convenint nobis per
-Divisio texlus. . . -                                    »
-                                                                                              Chrislum                                     » 233
-     Articulus I. De natioilate lemporali in comparatione 18.3
-                     ad dicinnm naturam.                                              III. Iltrum filinlio ndoplionis sit in nobis per
-                                                                                              comparationem ad Christum                    » 237
-Quaest.    I. Utrum haec sit concedenda: divina nalura                ib.
-                                                                            Dubin I-V. circa lilteram Magistri                             » 238
-                est de Virginc nata                            »
-           II. Utrum nasci de Virginc vere dicatur de na-                                             DISTIXCTIO XI.
-                 lura assumta                                  »
-                                                                    188
-          III. Ulrum homo veraciler dicatur de divina
-                                                                            Textus Magislri                                            »211
-                 natura                                        »
-                                                                     IS!I   Divisio texlus                                             » 242
-              Articulus II. De naticitate iemporali in
-                                                                                         Articulus I. De Chrisli praedestinatione.
-                    comparatione ad aelernam.
-                                                                            Quaest.   I. Utrum pracdeslinntio Chrisli sit noslrae
-Quaest.    I. Utrum concedcndum sit, Chrislum bis esse
-                                                                     191                    praedeslinationi conformis                 » 243
-                iKiluni                                        »
+Nec tantum illud, sed etiam multo difficilius est explicare operationis illius virtutis efficaciam, utrum scilicet agat generatione aequivoca, vel univoca, generando sibi simile, vel dissimile. — Difficile etiam est[^24], utrum influat omnino aliquid ab extrinseco, an educat aliquid de potentia in actum. Pri-
 
-           II. Ulrum in Cluislo sinl duae filiationes . .      » 1 93                II. Ulrum praedcstinatio Cluisli respeclu no-
-          III. Ulriiiu Chrisms sii filius naturalis ratione                                 stvae praedestinationis sit forma oxem-
-                                                                     1 98                   plaris                                     »2*3
-                ulriusque nativitatis, videlicef iemporalis
-                                                                                    III. Iliiiun in praedestinatione Gbrlslii respectu
-                el a iiernae                                   » 197
-                                                                                            nostrae sii vna cnusnlilalis rnlio . . . » 2 {7
-Dubia l-lll. circa litlerain Magistri                          »
-                                                                                       Abticulus II. De vocabulis , quae videntur
-                             DISTINCTIO IX.                                                        impartare mcepttoium ■
-                                                                            Quaest. 1. Dtrum haec sii concedenda : Christus esl
-Textus Mngistii                                         »                                   creatura                                   »218
-Divisio textus ....         -                             I9S                         II. Utrum haec sil concedenda: iste homo in-
-                                                          199
-      Articulus i. De ipta adoratione per comparationem                                      cepll esse, Chrlslo domonstrato. ...»           231
-                    ii, I ntiii   rni   rsl rrliiliriulil                             III. linmi h mt slc BOncedenda: homo Incipit
-Quaest.    I. Utrum cultus ialiiae sit exblbendus huma-                                      esse Deus                        ...»           233
-                nilati Blve r.-irni Chrisli                    i            Dubla I-IV. clrca lltteram Maglstrl                            » 23;
-900                                                      1NDEX QUAESTIONDM.
-                            DISTINCTTO XII.                                               cognoscit Verbum, cognoscat alias res in
-                                                                                          Verbo                                  pag. 306
-Textus Magistri                                      pag. 260                         II. Ulrum anima Chrisli actu cognoscat in Ver-
-Divisio textus                                          » 26 1                              bo omnia quae habitu cognoscit . . . »310
-        Articulus I. De congruitate nalurae assumtae                                 III. Utrum anima Chrisli cognoscat omnia in
-                            quoad genus.                                                 Verbo, quae cognoscit Verbum.   . . . »312
-Quaest.     I. Utrum decuerit Filium Dei assumere huma-                           Articulus III. De scientia, quam anima Chrisii
-                 nam naturam de massa perditionis . . » ib.                                       habuit a Verbo.
-           II. Utrum fuisset congruum assumere Adam . » 264                Quaest. I. Utrum Christus habuerit aliam scientiam
-           Articulus II. De conditione naturae assumtae                                    praeter illam quam habuil in Verbo . . »318
-                       quoad liberum arbitrium.                                      II. Utrum Chrislus profecerit secundum illud
-Quaest.     1. Utrum Christus potuerit peccare . . . . » 265                                genus cognitionis                 • . . » 321
-           II. Utrum Chrislus potenliam peccandi habue-                              III. Ulrum Deus communicaverit animae Chri-
-                 rit vel assumserit                     » 268                               sti omnipotentiam , sicut communicavit
-           Articulus III. De condilione naturae quantum                                     omniscientiam                           » 323
-                             ad sexum.                                     Dubia I-IV. circa litteram Magistri                          » 325
-Quaest.     1. Utrum decuerit Deum assumerc sexum mu-
-                 licbrem                                        » 270                                DISTINCTIO XV.
-       II. Ulrum magis debuerit carnem assumcre de
-             viro simul etmuliere quam desola muliere.   » 271
-Dubium unicum circa litleram Magistri                  . » 273             Textus Magislri                                              » 327
-                                                                           Divisio textus                                               » 329
-                            DISTLNCTIO XIII.                                        Articulus 1. De defectibus assumtis a Christo
+<!-- page 895 -->
 
-Textus Magistri                                            274                                            in generali.
-                                                                           Quaest.    I. Utrum congruum fuerit, tales defectus in
-Divisio textus                                         - » 273
-                                                                                           Christo reperiri                             » 330
-    Articulus I. De graiia Chrisli ul singularis personae.                           II. Ulrum Christus assumseril omnes defectus
-Quaest. I. Utrum in Christo gratia singularis personae
-                                                                                            noslros praeter peccatum                    » 332
-               sil creala, vel increala                    276
-                                                                                     III. Utrum defectus in Christo fuerint a natura,
-           II. Ulrum in Chrislo    sit gralia (inita, vel im-                               an a voluntaie                              » 334
-                 mensa
-                                                                    278              Articulus II. De defeclibus a Christo assumtis
-        III. Utrum gralia singularis personae in Christo
-                                                                    281                                in speciali.
-               fuerit plena gralia alque perfecta . . .
-                                                                           Quaest.    I. Utrum Chrislus habuerit ignorantiam in ra-
-                 Articulus II. De gratia capitis.                                          tionali                                      »336
-Quaest.   I. Ulrum gralia capitis sit quid creatum , vel
-                                                                                      II. Ulrum in Chrislo fuerit passio trisliliae . . » 338
-                increalum                                           283
-                                                                                     III. Ulrum in Chrislo fuerit passio vel affectio
-            II. Ulrum gralia capitis sil alia quam gralia                                   irae                                        »339
-                  singularis personae et unionis ....               2SS
-                                                                           Dubia I-IV. circa lilteram Magistri                          » 340
-           III. Utrum Deus medianle gratia capitis influat
-                  sensum in omnem      creaturam habentem
-              graliam, sive angelicam, sive humanam.            » 288                                DISTI.NCTIO XVI.
-Dubia I-V. circa lilteram Magistri                              »291
+mum est soli Deo possibile, secundum autem difficile est explicare. — Difficile est etiam intelligere, quomodo characteris impressio possit esse ab illa virtute, cum character videatur esse in superiori parte, in qua solus Deus potest influere. Unde substantia intelligibilis beata, quantumcumque magnae sit excellentiae, secundum quod dicit Augustinus[^26], non potest facere ad nostram iustificationem, vel illuminationem aliquid interius formando, sed solum exterius excitando. Quomodo ergo hoc poterit virtus data elemento vel verbo, cum non videatur esse capax tantae virtutis? — Postremo, in Sacramento altaris, in quo fit subito transsubstantiatio panis secundum se totum in corpus Christi — quod quidem non potest esse nisi ab infinita virtute — quomodo verbum prolatum ab homine, cum sit finitae virtutis, poterit ad istam transsubstantiationem aliquid operari? Et certe, si illud verbum virtutem non habet agentem, multo minus verba aliorum Sacramentorum.
 
-                            DISTLNCTIO XIV.                                Textus Magistri                  '........»                343
-                                                                           Divisio textus                                           » 343
-Textus Magistri                                                 »293               Articulus I. De passione doloris, prout respicit
-Divisio textus                                                  » 29S                      animam et carnem communiter.
-           Articulus 1. De scienlia, quam anima Christi                    Quaest.    I. Utrum in Christo fuerit vera passio doloris.   » ib.
-                          liabuil de Verbo.                                          II. Utrum in Chrislo fuerit acerbissimus dolor.     » 348
-Quaest.     I. Utrum anima Chrisli coguoscal Verbum alia                             III. Ulrum Christus assumserit necessitatem pa-
-                 cognilione,   quam   illa quae est ipsum            ib.                    tiendi                                      »349
-                 Verbum                                         »                    Articulus II. De passibililate el dolore animae
-            II. Uirum anima Chrisli in cognoscendo com-                                            Christi specialiter.
-                  prehendat ipsum Vcrbum sibi unitum . »                   Quaest.     I. Utrum Christus passus fuerit secundum ra-
-                                                         29S
-           III. Ulrum anima Chrisli in cognoscendo Deum                                     tionem, an secundum scnsualitatem . . » 353
-                 deligat aspectum in ipsum lumen aeter-                               II. Ulrum anima Christi passa fueril secundum
-                                                                » 302
-                 num, an in aliquid infra ipsum . . .                                       superiorem portionem rationis . . . . » 355
-             Ahticulus II. De cognitione, quam auima                                 III. Ulrum dolor fuerit inlensior in parte ratio-
-                       Christi habuit in Verbo.                                             nali animae Christi, an in parle sensuali. » 357
- Quaest.     I. Utrum anima Chrisli eadem cognitione, qua                  Dubia I-IV. circa litleram Magistri                          » 339
-                                                                                                                                               901
-                                                          1NDEX QUAESTIONUM.
-                         DISTIXCTIO XVII.                                                             DISTIXCTIO XX.
+Haec omnia et multa alia circa hoc valde difficile est intelligere et explicare. Quae non idcirco narro, quia credam esse insolubilia, vel ut per ipsam istam improbem positionem, sed ut ostendam, me ipsam non plene intelligere, et ideo nec affirmare nec negare velle; quia, etsi ipsam non clare intelligam, hoc tamen scio et intelligo, quod plura potest Deus facere et etiam in ipsis Sacramentis facit, quam nos possumus intelligere[^27]. Unde confugiendo ad mirabilem Dei potentiam, omnia ista possumus facile declinare. Et secundum istum modum dicendi satis plana esset responsio ad quaestionem propositam, si ipsius modi plana esset intelligentia. Et haec positio in quarto libro[^28] diffusius est explicata, ubi respondetur ad praemissa.
 
+Alius est hic modus dicendi. Supposito, quod in Sacramentis novae Legis «divina virtus secretius operatur»[^29], quia hoc est ipsius fidei et sententiae communis: dixerunt aliqui, Sacramenta novae Legis habere respectu iustificationis virtutem influentem, promerentem, disponentem et efficaciter ordinantem: virtutem influentem ratione Spiritus sancti assistentis; virtutem promerentem ratione meriti passionis ad Sacramentum concurrentis[^31]; virtutem disponentem ratione devotionis ipsius fidelis Sacramentum suscipientis; virtutem denique efficaciter ordinantem ratione divinae pactionis instituentis. Sic enim instituit Dominus, ut ad talis verbi prolationem et Sacramenti susceptionem mirabilis in suscipientibus fieret operatio et suscipientium sanatio et iustificatio; et pro tanto dicuntur Sacramenta novae Legis habere virtutem. — Et differunt in hoc a Sacramentis Legis veteris, praecipue quantum ad ipsam efficacem ordinationem, quia non interveniebat ibi pactio in illis Sacramentis, per quam efficax et infallibilis fieret ordinatio ad gratiam, secundum quod in Sacramentis novae Legis; ut patet in institutione baptismi, ubi dixit[^32]: *Qui crediderit et baptizatus fuerit salvus erit.* — In aliis etiam tribus modis habendi virtutem differentia est penes magis completum et minus completum, quia in Sacramentis novae Legis Spiritus sanctus influens iustitiam plenius assistit, et passio Christi meritoria efficacius concurrit. In cuius signum de latere Christi profluxerunt sanguis et aqua[^33], et per consequens Sacramenta, de quibus fundatur Ecclesia. — Abundantior etiam est devotio suscipientis tum propter incrementum fidei propriae, quod factum est in nova Lege, tum etiam propter subsidium fidei totius Ecclesiae, quia in fide Ecclesiae suscipiuntur ecclesiastica Sacramenta[^34]. — Et propter istum quadruplicem modum habendi virtutem dicuntur Sacramenta Legis novae iustificare et esse causa gratiae. — Nec volunt qui hanc positionem sustinent in Sacramentis novae Legis amplius ponere, tum quia ista satis videntur sufficere ad nostram sanationem et iustificationem; tum etiam, quia ex isto quadruplici modo habendi virtutem satis manifestatur nobilitas Sacramentorum novae Legis in se ipsis; tum etiam, quia secundum hoc satis apparet differentia Sacramentorum novae Legis et veteris[^35]; tum etiam, quia nec expressa auctoritas nec ratio videtur cogere amplius illis dare, et humilitas fidei non tantum debet refugere diminutionem, verum etiam superfluitatem, et laudabilius quodam modo videtur diminute dicere quam ampliare.
 
-Textus Magistri                                               pag. 361      Textus Magislri                                              pag. 114
-Divisio texlus                                                   » 3G3      Divisio texlus                                                  »416
-                  Articulus I. De voluntate Chrisli.                            Articulus unicus. De congrueniia nostrae redemptionis
-Quaest.     I. Ulrum in Christo fuerinl plures voluntates.       »    ib.                     factae per passioncm Christi.
-           II. De numero et sufficienlia volunlalum in                      Quaest.    I. Ulrum congruum fueril, humanam naluram
-                 Chrislo                                         »363                       a Den reparari                                 »    ib.
-          III. Ulrum istae voluntales in Christo fuerint con-                         II. Ulrum magis congrueril, genus humanum re-
-                 formes, vel repugnanles                         » 367                      parari per salisfactionem quam per aliam
-                  Articulus II. De oratione Chrisii.                                        viam                                            »119
-Quaest.     I. Ulrum decuerit Christum orare . . . . » 370                            III. Ulrum aliqua crealura pura potuerit salisfa-
-           II. Ulrum Christus in omni oralione sua fuerit                                    cere pro loto genere humano     . . . . » 122
-                 exaudilus                                » 373                       IV. Ulrum aliquis, adiulus gralia , potuisset sa-
-        III. Utrum oratio, qua Christus oravil in pas-                                       tisfacere pro se ipso                      »421
-               sione, ut calix iransferrelur, fuerit a ra-                             V. Ulrum Deus debueril modum salisfaciendi
-               tione, an a sensualilale                          » 371                      per passionem Chrisli acceplare ...»    127
-Dubia 1-IV. circa lilleram Magislri                              » 375                VI. Utrum alio modo poluerit Deus genus hu-
-                                                                                            manum salvare                         » 130
+Hunc modum dicendi et huius quaestionis determinationem plures sustinent[^36] bene intelligentes. Et dominus Gulielmus, Parisiensis episcopus, in determinando in scholis Fratrum Minorum approbavit
 
-                         DISTIXCTIO XVlll.                                  Dubia I-IV. circa lilteram Magislri.    ■                       » 132
+<!-- page 896 -->
 
-                                                                                                      DISTIXCTIO XXI.
-Textus Magistri                                                  »377
-Divisio textus                                                   » 379
-     Articulus I. De merito quoad iisum sive exercitium.                    Texlus Magistri                                          »134
-                                                                            Divisio textus                                           » 436
-Quaest.    I. Utrum Chrislus merueril ab inslanti conce-
-                                                                                   Articulus I. De separatione , facta in morte, per
-                plionis                                          »380
-                                                                                           comparaliunem ad unionis vinculum.
-            II. Utrum Christus meruerit aliquid posl.conce-
-                                                                            Quaest.    1. Utrum in morte anima Christi separala fueril
-                  plionem                                        » 382
-                                                                                            a Deilale                                      »    ib.
-           III. Ulrum Chrislus aliquid merueril in passione.     » 38S
-          Articulus II. De merito Christi quoad fructum                               II. Ulrum in morle Chrisli Divinilas sit separa-
-                                                                                            ta a carne                                      » 438
-                          vel praemium.
-                                                                                      III. Ulrum Vcrbum uniium fueril carni el ani-
-Quaest.    I. Utrum Christus sibi meruerit Dei fruilionem
-                                                                                             mae duplici unione                             » 110
-                sive praemium subslanliale                       » 387
-                                                                                         Articulus II. De effectu illius separationis.
-           II. Ulrum Chrislus merueril sui corporis glori-
-                 (icationem                                      » 389      Quaest.   I. Utrum posl inslansseparalionis anima Christi
-                                                                                            impassibilis effecla sil                       » 112
-          III. Ulrum Chrislus merueril nobis ianuae aper-
-                 lionem                                          »391                II. Utrum ex illa separalione caro Chrisli fuerit
-Dubia I-V. circa litleram Magislri                               » 393                      niorlua, an post eam habuerit vitam.       .    » 114
-                                                                                    111. Ulrum propler morlem carnis sit mors per-
-                                                                                            sonae Verbi atlribuenda                        » 115
-                          DISTIXCTIO XIX.                                   Dubia [-III. circa litleram Magislri                           » 446
+istum modum dicendi coram fratre Alexandro bonae memoriae. — Et istum modum dicendi dupliciter potest quis sustinere et intelligere: vel ita, quod omnino affirmet, nullo alio modo esse virtutem in Sacramentis novae Legis quam modis praedictis; vel quod hoc modo affirmet, virtutem in eis esse, ita tamen, quod non neget, alium modum praeter hos existendi virtutem in Sacramentis esse possibilem. Et primus modus repugnat priori modo dicendi; secundus autem modus dicendi priori opinioni non repugnat, quia nihil dicit, quod illa non dicat, immo etiam nihil dicit, quod communis opinio non teneat — nullus enim recte sentiens negat, quin omnibus dictis modis Sacramenta novae Legis virtutem habeant — sed si quis plus dicit, huic positioni non contradicit, sed addit.
 
-Textus Magistri                                                 » 396                                 DISTINCTIO XXII.
-Divisio texlus                                                  » 399
-             Articui.us I. De e/ficacia passionis Christi.                  Tcxtus Magislri                                                » i 17
-Quaest.     1. Ulrum per passionem Chrisll lial remissio                    Divisio textus                                                 » 449
-                  peccatorum                                    »    ib.             Autii.ulus unicus. De his quae mortem Cliristi
-           II. Ulrum pcr passionem Christi facia fueril
-                                                                                                         consequiinlui:
-                  chlrographoroiri delctfo                      » 102       Quaest.     I. Dtrum Christua in iiiiiuo fuerll homo . . » iSO
-          III. Uirum per passionem Christl libcrali simus                              II. Uiruni Chrisius, secundum quod bomo, tUe-
-                 a polestale diabnli ....            ...»            106                     ril in lOCO delerminaio, an iihiqne. . . »151
-          IV. Utrum per passionem Chrisli absolvamur a                                III. Uirinn corpus cinisii per uiduum fueril in
-               poena peccati                              » 407                            sepulcro                                        » i iii
-      Articulus II. De persona rrdemploris et mnliatoris.                             IV. De descensu aniinac Cluisli ail inferos. . » i"ii
-Quaest.     I. Utrum solus l-ilius sit rcdemplnr, an ctiain                            V. Uu iiin Chrislus in descensu ad Inferos nmnes
-                 Paler el Spirilus sanclus                       >< ios                     aniinas liberaveril                         » 460
-           II. Secundum quam naluram Chrisius sit mc-                              VI. Uiriim Cbrlstus slatim posi mortem intro-
-                 dfalor                                          ' 409                   duxeril animaa llberalas In caelum . . » 163
-Dubia l-VI. circ.i lillcram Magistri                             » 112      Dubia IV. circa litter   Maglslrl                    » 461
-902                                                         INDEX QDaESTIONDM.
-                         DISTINCTIO    XXIII.                                 Articulus II. De profectu fidei secundum dwersitalem
-                                                                                                        temporum.
-Textus Magislri                                              pag. 466     Quaest.     I. Utrum fides creverit quoad     credendorum
-Divisio texlus                                                  » 469                      mullitudinem                               pag. 545
-      Articulus I. De fide simpliciter dicta sive formata.                           II. An fides profecerit quoad illuminalionis ple-
-                                                                                           nitudinem                                     » 547
-Quaest. I. Ulrum fides sit virtus                          » 470
-           II. Utrum fides sit in parle animae cogniliva ,                           III. Utrum fides creverit quoad assensus certi-
-                an affectiva                               » 474                            tudinem                                      » 549
-        III. Utrum fides sit virtus una                    » 478          Dubia I-IV. eirca lilleram Magistri                            »551
-        IV. Utrum fides sit certior quam scientia . . » 480
-                                                                                                   DISTINCTIO XXVI.
-        V. De definitione fidei ab Apostolo assignatu . » 483
-                 Articulus II. De fide informi.                           Textus Magistri                                                »553
-Quaest. I. Utrum fides informis sit in genere virlulis,                   Divisio textus                                                 » 554
-              an non                                    » 487
-                                                                            Articulus I. De spe secundum considerationem absolutam.
-           II. An fides informis sit infusa, an acquisila       . » 490
-                                                                          Quaest.     I. Utrum spes sit virtus gratuita                  » 555
-          III. Ulrum fides informis sit in daemonibus.          . » 492
-                                                                                     II. Utrum spes sit genus virlutis, an species
-          IV. Utrum fides informis expellatur per adven-                                   specialissima                                 » 558
-                tum graliae                                       » 494
-                                                                                     III. Utrum spes sit virtus cardinalis, an theolo-
-         V. Ulrum fides informis fiat formafa,          adve-
-                                                                                            gica                                         » 560
-              nienle grntia                                       » 497             IV. Utrum virtus spei aliquando sit informis, an
-Dubia I-VI. circa litleram Magislri                               »501                    semper sit formata                             » 563
-                                                                                     V. Utrum spes in suo actu sit certitudinalis, an
-                         DISTINCTIO XXIV.
-                                                                                           dubia                                         j> 565
-                                                                             Articulus II. De spe secundum considerationem relatam.
-Textus Magistri                          '.......»                  506
-Divisio textus                                                    » 507   Quaest.      1. Ulrum timor et spes sint unus et idem ha-
-           Articulus 1. De obiecto fidei secundum rem.                                      bitus, an diversi                            » 568
-Quaest.    I. Ulrum fidei obieclum sit ila verurh, quod ei                            II. Ulrum spes ex bonis meritis habeat orlum.      » '571
-                non possit subesse falsum                         » 508           III. Utrum spes praecedat caritatem ordine nalu-
-          II. Ulrum fides sit circa verum creatum et in-                                 rae, an e converso                        » 573
-                crealum, an circa increalum lantum lan-                           JV. Utrum spes sit in bonum sub ralione boni. » 575
-                                                                                   V. Utrum spes sit in parte animae cogniliva,
-                 quam obiectum' proprium                  »512
-                                                                                         an affecfiva                 .,....» 578
-          III. Utrum fides sit circa complexum, 'an circa
-                 incomplexum                              »514            Dubia I-Vl. circa litteram Magislri                      » 582
-        Articulus II. De obieclo fidei in comparalione ad
-                                                                                                   DISTINCTIO XXVll.
-                        nostram cognitionem.
-Quaest.     I. Ulrum fides sit de his, de quibus habetur
-                 visio sensibilis                         »517            Textus Magistri                       '                        »586
-                                                                          Divisio textus                                                 » 588
-          II. Utrum fides sit de his, de quibus habelur
-                                                                                Articulus 1. De ipsa caritate quantum ad habitum.
-                opinio probabilis                           » 520
-                                                                          Quaest. I. Ulrum caritas sit habitus ab aliis virlutibus
-         III. Ulrum fides sit de his, de quibus habetur
-                                                                                         dislinctus                                » 589
-                cognilio scienlialis                        »321                   II. Utrum habitus carilatis sit unus indivisus,
-    Articulus III. De obiecto fidei quoad nominis rationem.
-                                                                                            an pcr species mulliplicatus                 » 593
-Quaest. I. De definitione articuli, quam ponil Hichardus. » 525                      III. Utrum habitus carilatis sil mere gratuitus ,
-          II. De definilione arliculi, quam ponit Isidorus. » 527
-                                                                                           an aliquid addat ultra graliam, sicut ha-
-Dubia l-IV. circa lilleram Magistri                         » 529                          bitus aliarum virtulum                        » 596
-                         DISTINCTIO XXV.                                             IV. Ulrum habilus caritatis possit esse informis,
-                                                                                        an semper sit formalus                   » 599
-Textus Magistri                                                   » 531       Articulus II. De caritale quantum ad actum et modum.
-Divisio lextus                                                    » 533   Quaest.      I. Utrum motus carilalis per prius sit merilo-
-                  Articulus 1. De fidei sufficientia.                                       rius quam aclus aliarum virtulum.     . . » 602
-Quaest.    I. Utrum in Symbolo apostolico sulKicienter con-                           II. Utrum possibile sit, motum caritatis esse
-                tineanlur omnia illa, quae opportunum est                                   mercenarium                               » 605
-                credere ad salutcm                                » 534              III. Utrum idem motus dilectionis possit esse in
-           II. Utrum eis qui praecesserunt advenlum Chri-                                  Deum et in proximum                           » 607
-                 sli , suffecerit ad salutem credere ea tan-                         IV. Quis duorum motuum    carilalis praecedat
-                 tum, quae speclant ad Divinilalem      . . » 539                          allerum                                       » 609
-          III. Utrum omnes teneantur credere omnes ar-                                V. Ulrum actus dileciionis in Deum habeat mo-
-                 liculos explicite post adventum Christi . » 542                           dum                                           »611
+Sed forte videbitur alicui calumniabile, quod dictum est, virtutem Spiritus sancti Sacramento assistere, quin potius in nomine Sacramenti claudi deberet intelligi tanquam de eius integritate, propter illud quod dicitur primae Ioannis quinto[^37]: *Tres sunt, qui testimonium dant in terra: spiritus, aqua et sanguis, et hi tres unum sunt;* et in libro de Unitate et uno[^38] dicitur, quod sunt unum Sacramento: et ideo non debet dici, quod Spiritus sanctus assistat Sacramento, tanquam cum eo connumeretur; sed propter ipsam unitatem, quae praedicta est, quam efficit Spiritus sanctus in Sacramento, ipsi Sacramento debet attribui.
+
+Sed certe, etsi hic modus dicendi videatur differre a praedicto, tamen secundum rem idem est, licet vocabula sint diversa. Quod enim dicuntur ista, tria unum Sacramento, hoc non est, quod ex ipsis fiat unum per essentiam, sed quod fiat unum per ordinem, quia scilicet ordinantur ad unum effectum; et hoc nihil aliud est dicere, quam unum alteri assistere. — Item, omne quod est de integritate Sacramenti, aut est res tantum, aut significatio tantum, aut res et signum[^39]. Si ergo Spiritus influens iustitiam ponitur de unitate Sacramenti, cum non sit signum nec res et signum, erit tantummodo sicut res, et ita non habebit rationem causantis, sed potius rationem effectus; et ita Spiritus non staret pro ipsa virtute influente, sed potius pro ipsa gratia Spiritus sancti infusa ipsi animae in Sacramenti susceptione. — Item, non est quaestio, utrum Spiritus sanctus in Sacramento infundat gratiam, sed de hoc est quaestio, utrum Sacramentum, secundum quod dicitur «invisibilis gratiae visibilis forma[^40], ita quod similitudinem eius gerat et causa existat», habeat virtutem aliquam, per quam influat in animam. Non videtur ergo hoc facere ad propositum. — Postremo, Spiritus sanctus sanctificans et meritum passionis et elementum exterius non solummodo reperiuntur in Sacramentis Legis novae, sed etiam in Sacramentis veteris Legis. Hoc ergo non sufficit dicere ad assignandum differentiam istorum Sacramentorum et illorum. — Aut ergo modus iste dicendi nihil aliud dicit, aut si dicit, parum dicit et modicum ad propositum facit.
+
+Et ideo sustineatur, quicumque praedictorum modorum magis placet, quia primus satis pius est, secundus vero satis sobrius est, si sustineatur illo modo, quo dictum est; et hoc modo in quarto libro[^41] sustinetur, sicut patet consideranti. Et idcirco hic repetii, non propter hoc, ut nova superadderentur, sed ut ostenderetur, quod a communi positione non dissonat, cui pro viribus meis in omnibus praecedentibus libris adhaesi tanquam viae securiori, et sicut scio et possum, mihi et aliis consimilibus parum intelligentibus persuadeo adhaerendum; et quoniam per totum librum hoc diligentius observavi — sicut advertenti clarius apparebit — ut in his quaestionibus dubiis et difficilibus, in quibus non potui deprehendere, quae esset via communis, quia sapientes opinantur contrarie sapientibus, sic unam partem tanquam magis probabilem sustinerem, ut tamen aliam minime improbarem.
+
+Sufficit enim in dubiis scire, quid sapientes senserunt, nec est utile contentionibus deservire. *Multa dicimus et deficimus in verbis, consummator autem sermonum ipse est*[^42] Dominus noster Iesus Christus, de quo factus est sermo in hoc tertio libro, cui immensas gratias ago, quia adiuvit pervenire ad consummationem istius opusculi, miseratus paupertatem scientiae et ingenii; in quo tertius iste liber ultimo est notatus[^43]. Quem rogo, ut faciat provenire mihi ad obedientiae meritum et ad fratrum profectum, propter quae duo labor iste a principio fuit assumtus. Ipsi ergo, de quo factus est sermo, Domino nostro Iesu Christo, *regi saeculorum immortali et invisibili*, qui pro nobis factus est homo et crucem subiit et gratiam multiplicem contulit et mandata dedit, secundum quod in hoc libro explanatum est, sit omnis honor et gloria per infinita saecula saeculorum. Amen[^44].
+
+EXPLICIT LIBER TERTIUS FRATRIS BONAVENTURAE SUPER SENTENTIAS.
 
 ## English
 
-[Translation pending]
+<!-- page 892 -->
+
+DOUBTS CONCERNING THE TEXT OF THE MASTER.
+
+### Doubt I.
+
+In this part there are questions concerning the text, and first it is asked about that which he says, that the sixth precept is: *Thou shalt not covet thy neighbor's wife.* For if to covet is prior to committing adultery, it seems that that commandment ought not to be set down in the sixth place, but rather in the third place among the precepts of the second tablet. — Likewise, nothing ought to be commanded except what is in our power[^1]; but nature, so long as it is corrupted, has a proneness to coveting: therefore it seems that concupiscence ought not to be forbidden in the Decalogue. — Likewise, just as it happens that one covets a man's wife, so too it happens that one covets his daughter and his concubine: therefore it does not seem that the concupiscence of the flesh is sufficiently forbidden in that commandment.
+
+**I respond:** It must be said that adultery stands by an addition over concupiscence, since to commit adultery is in heart and in deed, but to covet is in the heart. And since a prohibition states the negation of both; and negations stand contrariwise to affirmations[^2]: therefore the prohibition of concupiscence adds something over the prohibition of adultery; and generally the prohibition of the sin of the heart adds something over the prohibition of the sin of deed. For it is more to forbid the sin of the heart than the sin of deed, since the sin of deed presupposes the sin of the heart. And therefore those two commandments, in which concupiscence is forbidden, are ordered in the last place[^3]. — And by this is made plain the answer to that which is objected first.
+
+To that which is objected, that nothing ought to be commanded which is not in our power; it must be said that there is a concupiscence which consists in sensuality, and there is a concupiscence which is in the consent of reason moving forward to a deed. The first is venial and is not forbidden, but is restrained[^4]. But the second is mortal sin, and is forbidden, insofar as it moves forward to a deed. Hence the explanation and meaning of this commandment is intimated in Ecclesiasticus 18[^5], where it is said: *Son, go not after thy lusts;* where to covet is not simply forbidden, but to walk after one's lusts by consenting and proceeding into act.
+
+To that which is objected concerning the concupiscence of a daughter and a concubine, it must be said that a daughter and a concubine can be coveted in two ways: either into possession, that one may be reduced to servitude and service, or for the consummation of a carnal deed. And the first is forbidden by the seventh precept: *Thou shalt not covet the thing;* but the second is forbidden by that commandment, since the concupiscence of the flesh against the lawful marriage-bed is forbidden. Hence to desire someone's daughter for a wife is not forbidden, but to desire her for fornication and as a harlot; and this is comprised under the sixth prohibition[^6].
+
+### Doubt II.
+
+Likewise it is asked about that which he says: *The seventh precept is: Thou shalt not covet thy neighbor's house:* since what it is lawful to acquire for a price it is lawful to desire by affection[^7]; but it is lawful to buy one's neighbor's house for a price: therefore it is lawful to desire and covet it. If you say that there concupiscence is taken for an inordinate desire; in this way likewise it is not lawful to covet one's own property. — Likewise, just as it happens that one inordinately desires a neighbor's house, so it happens that one inordinately desires a neighbor's dignity: therefore just as the former is forbidden, so also the latter ought to have been forbidden. If you say that the latter is comprised under this prohibition; against this is: that the concupiscence of dignity pertains to pride and vainglory, the concupiscence of a house to avarice: therefore since these belong to diverse genera, it seems that they are not comprised under one prohibition.
+
+**I respond:** It must be said that in this saying there is forbidden the concupiscence of another's thing[^8], insofar as one covets something into possession, seeking in it sufficiency. Hence not only is the concupiscence of temporal goods forbidden, such as a house and cattle, but also of any other thing whatsoever which one would wish to snatch away from another. And this indeed is forbidden, understood in itself, so that one not covet another's thing while it remains another's; or it is also understood as against the order of right, that is, when one would wish his neighbor to be harmed in his property for his own advantage; for then he does not love his neighbor as himself. Hence in this saying all avarice and cupidity are forbidden.
+
+<!-- page 893 -->
+
+To that, therefore, which is objected first: that what it is lawful to acquire for a price it is lawful to covet; it must be said that *to covet* there means an immoderate appetite of having with harm to one's neighbor, and in this very thing[^9] there is also comprised the immoderate appetite, and the prohibition even with respect to one's own thing, in which the sin of cupidity and avarice consists.
+
+To that which is objected concerning the ambition of dignity and honor, it must be said that if dignity and honor be sought under the aspect of *sufficiency*, in this way it pertains to the crime of avarice and is to be forbidden in this commandment. But if under the aspect of *excellence*, in this way it can be said that it is forbidden by the first commandment, in which reverence of God is enjoined. — Yet it could be said that in both ways it is comprised under the prohibition of the seventh, since in both there is love of one's own good, and there is one ground of disorder with respect to one's neighbor, although the ground of disorder with respect to oneself is manifold. Therefore under one prohibition both concupiscences are to be comprised; and the concupiscence of a house is forbidden more than the concupiscence of dignity, since it was more manifest[^10] and more perceptible, and also the Jews were more prone to avarice.
+
+### Doubt III.
+
+Likewise it is asked about that which he says, that *the Sacraments of the new and the old Law are diverse, since the latter only signified, but the former confer grace.* Against this it is objected that no one can be saved without grace: therefore if the Sacraments of the old Law did not confer grace, it seems that no one was saved in that Law; which it is impious to say. If you say that in those Sacraments grace was given, but yet not by the power of those Sacraments; whereas in the Sacraments of the new Law grace is given by their power, since they are "sanctifying from sanctification," as Hugh says[^11]; it is objected against this: that grace is by creation: therefore God alone has the power of conferring grace[^12]: therefore if it conferred it in both these and those, it seems that there is no difference between these Sacraments and those.
+
+**I respond:** It must be understood, as to this, that concerning this question there is a twofold celebrated and famous opinion.
+
+For some wished to say that in both kinds of Sacraments grace is given, but differently: because in the former it was given by reason of the faith and devotion of the very recipient, so that in no way by reason of the Sacrament or of the work worked. But in the Sacraments of the
+
+<!-- page 894 -->
+
+new Law it is otherwise, since they consist of word and element; and when the Lord instituted the word, he gave it a power, by which it flows in and acts upon the soul either by disposing it to the reception of grace, or by imprinting the con-signification of a character, or by ministering to grace itself for the healing of the soul and the weakening of the tinder of sin. And this Augustine seems to say[^14]: "What is the power of water, that it touch the body and wash the heart, except by the action of the word?" And master Hugh of St. Victor seems to feel the same thing, who says[^15] that "the Sacraments of the new Law are first sanctified through the word and afterward sanctify, so that thus they are sanctifying from sanctification." And this manner of speaking is upheld by men skilled and worthy of faith:
+
+But it seems difficult to me to understand that that power is conferred simultaneously upon word and element, as to its essence and nature, as to its existence, as to its measure of duration, and also as to the efficacy of its operation; all of which it is necessary to posit and explain[^16] concerning that power, if one says that some quality is given to word and element, by which it may act and flow into the soul itself.
+
+For it is difficult to understand the essence of that power. For since it is not a substance, but a certain accident and in the genus of the good; it is doubtful whether it ought to be placed among the greatest goods, or the middling, or the least[^17]. And if it be placed among the greatest goods, it will now be grace; but grace existing in one subject does not have the power of acting upon another. But if it is neither grace nor a power, how then is it said in truth to sanctify the Sacrament itself and him who receives the Sacrament? — In what genus too it is and of what species it is, namely whether in diverse Sacraments that power is formally diversified, is difficult for a man of little understanding to grasp. — And if it be placed among the middling goods, or the least, how does such a power produce the rectitude[^18] and healing of the soul itself, which are reckoned among the greatest goods?
+
+But not only is it difficult to understand the essence of this power, but also its subsistence. For how will a spiritual accident be substantiated in a corporeal subject, since according to the order of nature, which God does not overturn by miracle, a substance is nobler than its property? — Or if that spiritual power[^19] is posited as in a subject in word and element, why is not grace itself likewise so, which ought to be infused into the soul? which I know not whether anyone rightly understanding would say. — Or if it is in a corporeal subject, how will one absolute power and quality be able to be simultaneously in two subjects, namely word and element, of which, even if one Sacrament is made, nevertheless one thing is not made by nature and essence? But the unity of a power, according to what Damascene holds[^20], corresponds to the unity of substance and nature. Either therefore in one Sacrament there is not one power, but several; or that power is composite; or one simple and spiritual and indivisible accident will be simultaneously in diverse subjects; all of which is very difficult to understand concerning that power.
+
+Nor are these two things alone difficult to understand concerning that power, but also its measure of duration. For it seems doubtful whether God gave that power when he first instituted it, or gives it anew. But how did he from the beginning give to those things which did not yet exist, such as words, which are daily formed anew? If he gives it anew, then daily in the Sacraments he creates not only grace, but also other accidents; and yet it is not wont to be said that the work of creation runs now except[^21] in regard to the soul's coming into being and in regard to the infusion of grace. — And if it ceases to be at once, the word having been uttered, how did God create so noble a power, that it should fail so quickly? — And again, if it is given to the word, since it is not[^22] given to the word in writing nor in the mind, it is given in the utterance; and then it will be difficult to explain whether it is given at the beginning, or in the middle, or at the end: since neither at the beginning of the word nor in the middle is there the action of that power. But if at the end, then, when the word ceases to be, and the word failing, the power of the word would cease, the power will begin and cease at once. Or if it were given before the end; when it is given before[^23] and how long it lasts, it is difficult to indicate.
+
+Nor only that, but it is also much more difficult to explain the efficacy of the operation of that power, namely whether it acts by equivocal generation, or univocal, generating something like itself, or unlike. — It is also difficult[^24] whether it flows in something altogether from without, or draws something out of potency into act. The
+
+<!-- page 895 -->
+
+first is possible to God alone, but the second is difficult to explain. — It is also difficult to understand how the impression of a character can be from that power, since a character seems to be in a higher part, into which God alone can flow. Hence a beatified intelligible substance, however great its excellence, according to what Augustine says[^26], cannot do anything toward our justification or illumination by forming anything inwardly, but only by stirring outwardly. How then will a power given to element or word be able to do this, since it does not seem to be capable of so great a power? — Lastly, in the Sacrament of the altar, in which the transubstantiation of the bread according to its whole self into the body of Christ takes place suddenly — which indeed cannot be except from an infinite power — how will a word uttered by a man, since it is of finite power, be able to effect anything toward that transubstantiation? And surely, if that word does not have an acting power, much less do the words of the other Sacraments.
+
+All these things and many others concerning this it is very difficult to understand and explain. Which things I do not relate because I believe them to be insoluble, or in order through them to disprove this position, but in order to show that I do not fully understand it, and therefore wish neither to affirm nor deny it; because, even though I do not clearly understand it, this nevertheless I know and understand, that God can do more, and even in the Sacraments themselves does more, than we can understand[^27]. Hence by taking refuge in the wonderful power of God, we can easily evade all these things. And according to this manner of speaking the answer to the proposed question would be plain enough, if the understanding of the manner itself were plain. And this position is more diffusely explained in the fourth book[^28], where the foregoing is answered.
+
+There is here another manner of speaking. Granted that in the Sacraments of the new Law "the divine power works more secretly"[^29], since this belongs to faith itself and to the common opinion: some have said that the Sacraments of the new Law have, with respect to justification, an influencing, a meriting, a disposing, and an efficaciously ordaining power: an influencing power by reason of the assisting Holy Spirit; a meriting power by reason of the merit of the Passion concurring with the Sacrament[^31]; a disposing power by reason of the devotion of the faithful one receiving the Sacrament; and finally an efficaciously ordaining power by reason of the divine covenant of the one instituting. For so the Lord instituted, that at the utterance of such a word and the reception of the Sacrament a wonderful operation should come to be in the recipients, and a healing and justification of those receiving; and to that extent the Sacraments of the new Law are said to have power. — And they differ in this from the Sacraments of the old Law, especially as to the efficacious ordination itself, since there did not intervene in those Sacraments a covenant by which an efficacious and infallible ordination to grace might be made, such as in the Sacraments of the new Law; as is plain in the institution of baptism, where he said[^32]: *He who believes and is baptized shall be saved.* — In the other three modes also of having power there is a difference in respect of the more complete and the less complete, since in the Sacraments of the new Law the Holy Spirit, flowing in justice, more fully assists, and the meritorious Passion of Christ more efficaciously concurs. In sign of which from the side of Christ flowed blood and water[^33], and consequently the Sacraments, upon which the Church is founded. — More abundant too is the devotion of the recipient, both on account of the increase of one's own faith, which came about in the new Law, and also on account of the support of the faith of the whole Church, since the ecclesiastical Sacraments are received in the faith of the Church[^34]. — And on account of this fourfold mode of having power the Sacraments of the new Law are said to justify and to be a cause of grace. — Nor do those who uphold this position wish to posit anything more in the Sacraments of the new Law, both because these things seem sufficient enough for our healing and justification; and also because from this fourfold mode of having power the nobility of the Sacraments of the new Law in themselves is sufficiently manifested; and also because according to this the difference of the Sacraments of the new Law and of the old appears sufficiently[^35]; and also because neither express authority nor reason seems to compel one to grant them more, and the humility of faith ought to shrink not only from diminution, but also from superfluity, and in a certain way it seems more praiseworthy to speak by way of diminution than to enlarge.
+
+This manner of speaking and the determination of this question many uphold[^36] who understand well. And lord William, bishop of Paris, in determining in the schools of the Friars Minor, approved
+
+<!-- page 896 -->
+
+this manner of speaking in the presence of brother Alexander of good memory. — And this manner of speaking one can uphold and understand in two ways: either so that one altogether affirms that there is no power in the Sacraments of the new Law in any other way than the aforesaid ways; or so that one affirms in this way that there is power in them, yet in such a way that one does not deny that another mode, besides these, of a power existing in the Sacraments is possible. And the first mode is repugnant to the former manner of speaking; but the second mode of speaking is not repugnant to the former opinion, since it says nothing which that does not say, nay rather it says nothing which the common opinion does not hold — for no one rightly thinking denies that in all the said modes the Sacraments of the new Law have power — but if one says more, he does not contradict this position, but adds to it.
+
+But perhaps it will seem to someone open to calumny, what has been said, that the power of the Holy Spirit assists the Sacrament, since rather it ought to be understood as comprised within the name of the Sacrament as belonging to its integrity, on account of that which is said in 1 John 5[^37]: *There are three that give testimony on earth: the spirit, the water, and the blood, and these three are one;* and in the book *On Unity and the One*[^38] it is said that they are one in the Sacrament: and therefore it ought not to be said that the Holy Spirit assists the Sacrament, as though it were numbered along with it; but on account of that unity which was aforesaid, which the Holy Spirit effects in the Sacrament, it ought to be attributed to the Sacrament itself.
+
+But surely, even though this manner of speaking seems to differ from the aforesaid, nevertheless in reality it is the same, although the words are diverse. For that these three are said to be one in the Sacrament, this is not that out of them one thing is made by essence, but that one thing is made by order, since namely they are ordered to one effect; and this is to say nothing other than that one assists another. — Likewise, everything that belongs to the integrity of a Sacrament is either thing only, or signification only, or thing and sign[^39]. If therefore the Spirit flowing in justice be posited as belonging to the unity of the Sacrament, since it is neither a sign nor a thing-and-sign, it will be only as a thing, and thus it will not have the character of a cause, but rather the character of an effect; and thus the Spirit would not stand for the influencing power itself, but rather for the very grace of the Holy Spirit infused into the soul in the reception of the Sacrament. — Likewise, there is no question whether the Holy Spirit infuses grace into the Sacrament, but about this is the question, whether the Sacrament, according as it is said to be "the visible form of invisible grace[^40], so that it bears its likeness and exists as its cause," has any power by which it may flow into the soul. This therefore does not seem to make for the purpose. — Lastly, the sanctifying Holy Spirit and the merit of the Passion and the external element are found not only in the Sacraments of the new Law, but also in the Sacraments of the old Law. This therefore does not suffice to say for assigning the difference of these Sacraments and those. — Either therefore this manner of speaking says nothing else, or if it says something, it says little and makes little for the purpose.
+
+And therefore let whoever of the aforesaid modes pleases more be upheld, since the first is pious enough, but the second is sober enough, if it be upheld in that way in which it has been said; and in this way it is upheld in the fourth book[^41], as is plain to one who considers. And for this reason I have repeated it here, not on this account, that new things might be added, but that it might be shown that it is not dissonant from the common position, to which, to the best of my powers, in all the preceding books I have adhered as to the safer way, and, as I know and am able, I persuade myself and others of like little understanding that it ought to be adhered to; and since throughout the whole book I have observed this more diligently — as will appear more clearly to one who attends — that in these doubtful and difficult questions, in which I could not discern what was the common way, since the wise have opinions contrary to the wise, I have thus upheld one part as the more probable, yet so that I might in no way disprove the other.
+
+For it suffices in doubtful matters to know what the wise have thought, nor is it useful to be a slave to contentions. *We say many things and fall short in words, but the consummator of words is he himself*[^42], our Lord Jesus Christ, of whom the discourse has been made in this third book, to whom I render boundless thanks, because he helped me to come to the consummation of this little work, having pity on the poverty of my knowledge and ability; in which this third book was set down last[^43]. Whom I ask, that he may cause it to come to merit for me through obedience and to the profit of the brethren, on account of which two things this labor was undertaken from the beginning. To him therefore, of whom the discourse has been made, our Lord Jesus Christ, *the immortal and invisible King of the ages*, who for us was made man and underwent the cross and bestowed manifold grace and gave commandments, according to what has been explained in this book, be all honor and glory through the infinite ages of ages. Amen[^44].
+
+HERE ENDS THE THIRD BOOK OF BROTHER BONAVENTURE UPON THE SENTENCES.
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered as a single continuous sequence across the chunk. On p.892 the dubia begin beneath the close of the preceding article (a40-q3); the dubia's own apparatus begins with p.892 footers nn.5–9 ([^1]–[^5]), the page's nn.1–4 belonging wholly to a40-q3.
+
+[^1]: **La.** Cfr. supra pag. 815, nota 6. — Minor insinuatur Gen. 8, 21: *Sensus enim et cogitatio humani cordis in malum prona sunt ab adolescentia sua.* Cfr. Rom. 7, 18. seqq., et Gal. 5, 17. — Inferius pro *debeat* codd. *debet.*
+    **En.** Cf. above, p. 815, note 6. — The minor is intimated in Gen. 8:21: "For the sense and thought of the human heart are prone to evil from its youth." Cf. Rom. 7:18 ff. and Gal. 5:17. — Below, for *ought* the codices read *does.*
+
+[^2]: **La.** Vide supra pag. 853, nota 4. — Pro *et negationes* edd. *quia negationes.*
+    **En.** See above, p. 853, note 4. — For *and negations* the editions read *since negations.*
+
+[^3]: **La.** Cfr. supra d. 37. a. 2. q. 2.
+    **En.** Cf. above, d. 37, a. 2, q. 2.
+
+[^4]: **La.** Vide supra d. 38. q. 4. ad 2. — Paulo ante pro *quae est* cod. K *quae consistit.*
+    **En.** See above, d. 38, q. 4, ad 2. — A little before, for *which is* codex K reads *which consists.*
+
+[^5]: **La.** Vers. 30. — August., Serm. 154. (alias 5. de Verbis Apostoli) c. 6. n. 8: *Aliud est enim non concupiscere, aliud post concupiscentias suas non ire. Non concupiscere omnino perfecti est; post concupiscentias suas non ire pugnantis est, luctantis est, laborantis est.* Cfr. Serm. 151. (alias 45. de Tempore) c. 3. n. 3.
+    **En.** Verse 30. — Augustine, *Sermon* 154 (alias 5, *On the Words of the Apostle*) c. 6, n. 8: "For it is one thing not to covet, another not to go after one's lusts. Not to covet at all belongs to the perfect; not to go after one's lusts belongs to one fighting, to one struggling, to one laboring." Cf. *Sermon* 151 (alias 45, *On the Season*) c. 3, n. 3.
+
+[^6]: **La.** De quo in dubio seq. — Inferius pro *non est prohibitum* codd. G K L V aa *non prohibetur.*
+    **En.** Concerning which, in the following doubt. — Below, for *is not forbidden* codices G K L V aa read *is not prohibited.*
+
+[^7]: **La.** Edd. *communi affectu.* Mox post *proximi* codd. A K V adnectunt *tui.* Aliquanto inferius ante *similiter* plurimi codd. omittunt *sic.*
+    **En.** The editions read *by common affection.* Shortly, after *neighbor's* codices A K V append *thy.* Somewhat below, before *likewise* very many codices omit *thus.*
+
+[^8]: **La.** Cod. A melius *omnis rei.*
+    **En.** Codex A reads better *of every thing.*
+
+[^9]: **La.** Codd. G K L V aa omittunt *ipso.* Inferius pro *cupiditatis* codd. N U V *concupiscentiae.*
+    **En.** Codices G K L V aa omit *very.* Below, for *of cupidity* codices N U V read *of concupiscence.*
+
+[^10]: **La.** Cod. N *bene est.* Paulo superius pro *utraque* edd. *utrobique.*
+    **En.** Codex N reads *is well.* A little above, for *both* the editions read *in both places.*
+
+[^11]: **La.** Libr. I. de Sacram. p. XI. c. 2.
+    **En.** *On the Sacraments* book I, part XI, c. 2.
+
+[^12]: **La.** Psalm. 83, 12: *Gratiam et gloriam dabit Dominus.* — Mox pro *conferebat* edd. *conferebatur.*
+    **En.** Psalm 83:12: "The Lord will give grace and glory." — Shortly, for *it conferred* the editions read *it was conferred.*
+
+[^14]: **La.** In Ioan. Evang. tr. 80. n. 3. — Pro *faciente* cod. A *facilitante*, non pauci alii codd. cum edd. *faciendo*, sed contra textum originalem.
+    **En.** *On the Gospel of John*, tract 80, n. 3. — For *by the action of* codex A reads *facilitating*, not a few other codices with the editions read *by making*, but contrary to the original text.
+
+[^15]: **La.** Libr. I. de Sacram. p. XI. c. 2. — Pro *sentire* codd. et edd. 1, 2 *dicere.* Aliquanto inferius pro *sustinent* cod. A *sustinuerunt.*
+    **En.** *On the Sacraments* book I, part XI, c. 2. — For *to feel* the codices and editions 1, 2 read *to say.* Somewhat below, for *uphold* codex A reads *upheld.*
+
+[^16]: **La.** Codd. K aa *exponere*, cod. Z *exprimere.* Mox cum verbis *Si quis dicat* edd. perperam incipiunt novam propositionem et subinde post *difficile* omittunt *namque.*
+    **En.** Codices K aa read *expound*, codex Z *express.* Shortly, with the words *If one says* the editions wrongly begin a new sentence and then after *difficult* omit *for.*
+
+[^17]: **La.** Edd. *sed.* Paulo ante pro *constant* cod. F *consistunt.* Inferius pro *in animam* cod. U *in anima.*
+    **En.** The editions read *but.* A little before, for *consist* codex F reads *subsist.* Below, for *into the soul* codex U reads *in the soul.*
+
+[^18]: **La.** Codd. A U *rectificationem.*
+    **En.** Codices A U read *rectification.*
+
+[^19]: **La.** Edd. *specialis.*
+    **En.** The editions read *special.*
+
+[^20]: **La.** Libr. III. de Fide orthod. c. 14. 15. et 19.
+    **En.** *On the Orthodox Faith* book III, c. 14, 15, and 19.
+
+[^21]: **La.** Pro *nunc, nisi* codd. G H L N V aa *non nisi;* edd., omisso *non* post *et tamen*, subinde legunt *creationis opus non currat nisi.* Pro *currat* cod. K *existat.*
+    **En.** For *now ... except* codices G H L N V aa read *not except;* the editions, with *not* omitted after *and yet*, then read *the work of creation does not run except.* For *runs* codex K reads *exists.*
+
+[^22]: **La.** Non pauci codd. perperam omittunt *non.* Inferius pro *erit* codd. G K L N U V aa *est.*
+    **En.** Not a few codices wrongly omit *not.* Below, for *will be* codices G K L N U V aa read *is.*
+
+[^23]: **La.** Ita cod. A, codd. E F Z (alii multi sunt dubiae lectionis) *quantum ante*, alii *quantum autem*, edd., retento *quantum*, omittunt *autem*, et deinde *etiam et quantum duret.* Paulo superius pro *deficiente* codd. A G H K L V aa *desinente.* Subinde pro *daretur* cod. A *detur*, edd. *datur.*
+    **En.** So codex A; codices E F Z (many others are of doubtful reading) read *how much before*, others *how much however*; the editions, retaining *how much*, omit *however*, and then *also and how long it lasts.* A little above, for *failing* codices A G H K L V aa read *ceasing.* Then for *were given* codex A reads *be given*, the editions *is given.*
+
+[^24]: **La.** Cod. K supplet *explicare;* codd. U Z *intelligere;* cod. A omittit *est.*
+    **En.** Codex K supplies *to explain;* codices U Z *to understand;* codex A omits *is.*
+
+[^26]: **La.** Enarrat. in Ps. 118. serm. 18. n. 4: *Deus itaque per se ipsum, quia lux est, illuminat pias mentes, ut ea quae divina dicuntur vel ostenduntur, intelligant. Sed si ad hoc ministro utitur Angelo, potest quidem aliquid agere Angelus in mente hominis, ut captet lucem Dei et per hanc intelligat; sed ita dicitur intellectum dare homini et quasi, ut ita dicam, intellectuare hominem, quemadmodum quisquam dicitur lucem dare domui vel illuminare domum, cui fenestram facit etc.* — Superius pro *in qua* (ita codd. et edd.) mallemus *in quam.*
+    **En.** *Expositions on Psalm* 118, sermon 18, n. 4: "God therefore by his very self, since he is light, illuminates devout minds, that they may understand the things which are said or shown to be divine. But if for this he uses an Angel as minister, the Angel can indeed do something in the mind of a man, that he may catch the light of God and understand through it; but it is so said to give understanding to a man and, so to speak, to make the man understand, in the way in which one is said to give light to a house or to illuminate a house, for which he makes a window, etc." — Above, for *in which* (so the codices and editions) we should prefer *into which.*
+
+[^27]: **La.** Plures codd. perperam *ut per ipsam*, edd. *ut ipse.*
+    **En.** Several codices wrongly read *that through it itself*, the editions *that he himself.*
+
+[^28]: **La.** Cfr. tom. I. pag. 760, nota 7. — Inferius pro *facile* cod. U *faciliter.*
+    **En.** Cf. vol. I, p. 760, note 7. — Below, for *easily* codex U reads *more easily.*
+
+[^29]: **La.** Dist. 1. p. 1. q. 4. — Mox pro *respondetur* cod. U *est responsio.*
+    **En.** Dist. 1, p. 1, q. 4. — Shortly, for *is answered* codex U reads *is the answer.*
+
+[^31]: **La.** Isidor., VI. Etymolog. c. 19. n. 40: *Sacramenta dicuntur, quia sub tegumento corporalium rerum virtus divina secretius salutem [vi] eorundem Sacramentorum operatur; unde et a secretis virtutibus, vel a sacris Sacramenta dicuntur.* — Mox pro *hoc* permulti codd. *haec.* Paulo inferius post *habere* non pauci codd. adnectunt *virtutem.*
+    **En.** Isidore, *Etymologies* VI, c. 19, n. 40: "They are called Sacraments, since under the covering of corporeal things the divine power more secretly works the salvation [by the power] of those same Sacraments; whence also from the secret powers, or from the sacred, they are called Sacraments." — Shortly, for *this* very many codices read *these.* A little below, after *to have* not a few codices append *power.*
+
+[^32]: **La.** Vide supra d. 19. a. 1. q. 1. et d. 20. q. 4. circa finem corp. — Inferius pro *pactionis* Vat. *passionis.*
+    **En.** See above, d. 19, a. 1, q. 1, and d. 20, q. 4, near the end of the body. — Below, for *of covenant* the Vatican edition reads *of passion.*
+
+[^33]: **La.** Marc. 16, 16. — Cod. F *ubi dicitur.* Inferius codd. H K L V aa omittunt *virtutem.*
+    **En.** Mark 16:16. — Codex F reads *where it is said.* Below, codices H K L V aa omit *power.*
+
+[^34]: **La.** Ioan. 19, 34. Cfr. tom. I. pag. 2, nota 19.
+    **En.** John 19:34. Cf. vol. I, p. 2, note 19.
+
+[^35]: **La.** Vide supra d. 28. a. 2. q. 2. in corp. — Paulo ante pro *suscipiuntur* edd. cum aliquot codd. *suscipiunt.*
+    **En.** See above, d. 28, a. 2, q. 2, in the body. — A little before, for *are received* the editions with some codices read *receive.*
+
+[^36]: **La.** Haec tertia ratio desideratur in edd.
+    **En.** This third reason is wanting in the editions.
+
+[^37]: **La.** Cod. A *Hunc modum dicendi in huius quaestionis terminatione plures sustinuerunt.*
+    **En.** Codex A reads *Many upheld this manner of speaking in the determination of this question.*
+
+[^38]: **La.** Vers. 8.
+    **En.** Verse 8.
+
+[^39]: **La.** Quem composuit Boethius et in quo inter divisiones unitatis recenset etiam hanc: *Alia dicuntur unum ratione, sed hoc duobus modis: quia ratione consortii, ut ens, intellectus et res, aliquid et vocabulum unum genus; vel ratione unius Sacramenti, ut spiritus, aqua et sanguis dicuntur unum.* — Paulo inferius pro *assistat* plures codd. *assistit* et pro *unitatem* cod. U *virtutem.*
+    **En.** Which Boethius composed and in which, among the divisions of unity, he reckons also this one: "Other things are said to be one by reason, but this in two ways: either by reason of association, as being, intellect, and thing, something and a word are one genus; or by reason of one Sacrament, as the spirit, the water, and the blood are said to be one." — A little below, for *assists* (subj.) several codices read *assists* (indic.) and for *unity* codex U reads *power.*
+
+[^40]: **La.** Cfr. IV. Sent. lit. Magistri, d. 1. — Inferius pro *nec res signum* Vat. *et res nec signum tantum.*
+    **En.** Cf. *Sentences* IV, text of the Master, d. 1. — Below, for *nor thing-sign* the Vatican edition reads *and thing nor sign only.*
+
+[^41]: **La.** De hac Sacramenti definitione vide IV. Sent. lit. Magistri, d. 1. — Superius pro *infundat* codd. G L V aa *effundat.*
+    **En.** On this definition of a Sacrament see *Sentences* IV, text of the Master, d. 1. — Above, for *infuses* codices G L V aa read *pours out.*
+
+[^42]: **La.** Dist. 1. p. 1. q. 4.
+    **En.** Dist. 1, p. 1, q. 4.
+
+[^43]: **La.** Eccli. 43, 29: *Multa dicemus et deficiemus in verbis; consummatio autem sermonum ipse est in omnibus.*
+    **En.** Ecclesiasticus 43:29: "We shall say many things and shall fall short in words; but the consummation of words is he himself in all."
+
+[^44]: **La.** Ultima verba, quae in edd. 1, 2 desiderantur, Vat. sic exhibet *in quo tertius iste liber est annotatus;* pro *notatus* codd. G L U V cc *vocatus.* Superius post *quia adiuvit* edd. supplent *me.* — Epist. I. Tim. 1, 17.
+    **En.** The last words, which are wanting in editions 1, 2, the Vatican edition gives thus: *in which this third book is annotated;* for *set down* codices G L U V cc read *called.* Above, after *because he helped* the editions supply *me.* — Epistle 1 Tim. 1:17.
 
 ## Notes
 
-[Notes pending]
+- **Provenance:** raw `bonaventure_vol3_raw.txt` lines 61872–62179 (DUBIA CIRCA LITTERAM MAGISTRI raw 61872 → closing doxology + `EXPLICIT LIBER TERTIUS … BONAVENTURAE SUPER SENTENTIAS` raw 62180); printed pp. 892–896 (PDF pp. 914–918, offset pdf = printed + 22). The `INDEX QUAESTIONUM` end-matter (raw ~62193) follows the EXPLICIT and is excluded. **THREE dubia** (not two): **Dub. I** raw 61874 (sixth precept, *Non concupisces uxorem proximi tui*), **Dub. II** raw 61945 (seventh precept, *Non concupisces domum proximi tui*), and **Dub. III** raw 61953, **OCR-garbled as `Dcb. III.`** (u→c), the climactic dubium on sacramental causality (the fourfold *virtus*, four *Difficultates*, the William of Auvergne / Alexander of Hales note). There is NO DISTINCTIO XLI — d.40 is the last distinction of Vol III, and Dub. III's close is the close of Book III.
+- **⚠ PAGE-SPAN CORRECTION — the dubia run FIVE printed pages, not four.** The dispatch brief specified `printed_pages = [892, 893, 894, 896]` on the basis that "no 895 running head appears in the OCR." Ground-truth on the 450 dpi PDF bands shows otherwise: there IS a real, distinct printed **p.895** (PDF 917) — its running head reads `DUBIA. 895` (the OCR mangled the `5` of `895` to `3`, producing a second spurious `DIST. XL. DUBIA. 893` at raw 62056, which the coordinator mistook for a duplicate of the genuine p.893 head at raw 61923). Verso/recto alternation confirms it: 892, 893 (recto, `DUBIA. 893`), 894 (verso, `894 SENTENTIARUM`), **895 (recto, `DUBIA. 895`)**, 896 (verso, `896 SENTENTIARUM`). Per CLAUDE.md ("trust running-head TEXT over OCR'd digits"; the column-band PDF read is authoritative), this chunk uses the true sequence **printed_pages [892, 893, 894, 895, 896] / pdf_pages [914, 915, 916, 917, 918]**. The dubia text is continuous across all five.
+- **Footer-split map (per-page restart, renumbered continuous, 44 entries):**
+  - **p.892** — page footers nn.1–4 belong wholly to a40-q3 (n.4 = the *Vide scholion ad 1. quaestionem* redirect). **Dubia footers nn.5–9 → [^1]–[^5].** (5 entries.)
+  - **p.893** — L-col nn.1–3, R-col nn.4–8 → **[^6]–[^13].** (8 entries.)
+  - **p.894** — L-col nn.1–6, R-col nn.7–12 → **[^14]–[^25].** (12 entries.)
+  - **p.895** — L-col nn.1–5, R-col nn.6–11 → **[^26]–[^36].** (11 entries.)
+  - **p.896** — L-col nn.1–3, R-col nn.4–8 → **[^37]–[^44].** (8 entries.)
+  - Total = 5 + 8 + 12 + 11 + 8 = **44**. Numbering is a single continuous sequence [^1]–[^44]; NO `[^Nb]/[^Nc]` suffixes.
+- **Footer hand-offs:** **PICKED UP ← d40-a1-q3: p.892 nn.5–9** (a1-q3's band closed at p.892 n.4; the dubia's first footers nn.5–9 = [^1]–[^5]). **FORWARDS NOTHING** — this chunk closes Book III; the `INDEX QUAESTIONUM` end-matter after the EXPLICIT carries no body apparatus.
+- **`has_scholion: false`** — grep-verified body-only over raw 61872–62179. The two "schol-" hits in range are (a) the a40-q3 apparatus redirect *Vide scholion ad 1. quaestionem* (p.892 n.4, NOT this chunk) and (b) the body phrase *in scholis Fratrum Minorum* ("in the schools of the Friars Minor," the William-of-Auvergne note). Neither is a scholion header.
+- **Closes Book III.** Dub. III ends with the closing doxology of Book III (*…sit omnis honor et gloria per infinita saecula saeculorum. Amen*) immediately followed by `EXPLICIT LIBER TERTIUS FRATRIS BONAVENTURAE SUPER SENTENTIAS` — rendered faithfully at the foot of both the Latin and English bodies. With this chunk d.40 closes and Vol III (Book III, 40 distinctions) is fully Tier 2; the d.31–d.40 decade polish gate now fires.
+- **`[?]` flags:** none illegible. One editorial note: in [^31] (Isidore, p.895 L n.5) the printed text carries a bracketed editorial conjecture after *salutem*; the 450 dpi band reads it as `[vi]` (= *virtute*, "by the power [of those same Sacraments]"), rendered accordingly. Not flagged as illegible — the bracket is the Quaracchi editors' own conjecture and is reproduced as such.
