@@ -82,3 +82,161 @@ No ACCEPT-ILLEGIBLE items — every band read cleanly at 450 dpi.
 - `cd site && node scripts/build-content.mjs`: parses clean, **0 marker-pairing warnings, 1287/1287 translated.**
 
 **Pass 3a status: CLOSED.** All 51 d.31–d.35 boundaries verified clean except one footer double-count (d.34 p2, fixed). **NEXT ACTION on the polish blocker:** Pass 3b — boundary-integrity sweep d.36–d.40 (still a blocker for Vol IV / Book IV).
+
+---
+
+## PASS 3b — Boundary integrity (d.36–d.40) — d.38 verdict (2026-06-14)
+
+*(d.38 scope only; d.36 / d.37 / d.39 / d.40 logged by their own per-distinction agents.)* Method per CLAUDE.md Pass 3 + VOL II/III OVERRIDE, 450 dpi column bands (`/tmp/colcrop/vol3-pNNN-{L,R}-*.png`, offset pdf = printed + 22), running-head TEXT trusted over OCR digits. d.38 = single-article distinction (ARTICULUS UNICUS, a1-q1..q6). 9 chunks; **8 mid-page seams** (all share a printed page) + the two inter-distinction glances (d.37→d.38 lead-in p.836; d.38→d.39 tail p.857).
+
+### d.38 — ALL CLEAN (8 mid-page seams)
+
+- **littera→divisio (p.838).** Continuous: littera's Cap. VI Jacob/Esau tail (Lombard) → COMMENTARIUS opener `Sciendum tamen, tria esse genera mendaciorum etc.` (= divisio's first line). Footer: p.838 prints **two disjoint** NOTAE blocks (verified `/tmp/colcrop/vol3-p838-R-2.png`) — L-col *Notae ad Libr. Sent.* nn.1–3 → littera [^9]–[^11] (August./Enchirid./Contra Mendac.); R-col *Notae ad Commentarium* nn.1–3 → divisio [^1]–[^3] (`Scilicet infra d. XXXIX.` / `Edd. ibi…` / `Vat. peccati.`). No overlap, no double-count.
+- **divisio→a1-q1 (p.839).** Continuous: TRACTATIO → `Circa primum sic proceditur… utrum essentiale sit mendacio esse falsum`. Footer (verified `/tmp/colcrop/vol3-p839-L-2.png`): p.839 L-col **n.1** = `Cod. K omittit omni…` = divisio [^4] (Pass-1 backfill, anchored on *omni*); **n.2** = `Cap. 3. n. 3… contra Mendacium…` = a1-q1 [^1]. a1-q1 correctly opens its band at n.2; the *omni* note is NOT double-claimed.
+- **a1-q1→a1-q2 (p.841)** · **q2→q3 (p.845)** · **q3→q4 (p.847)** · **q4→q5 (p.850)** · **q5→q6 (p.852)** · **q6→dubia (p.854).** All six are question-boundaried (each receiving chunk opens with its TRACTATIO stem — *Secundo/Tertio/Quarto/Quinto/Sexto et ultimo quaeritur…*), so no mid-sentence cascade-merge risk; every prior tail parses. Per-page footer bands restart per question and are forwarded by body-anchor exactly as documented in each chunk's `## Notes` (q1→q2 forwards p.841 nn.3–4; q6→dubia forwards p.854 nn.5–8); no dropped/double-counted footer. The article-master scholion chain (q1 §I–III, q4 §I–III) with the *Vide scholion ad praecedentem/4./1. quaest.* redirects is intact — `has_scholion: false` on q2/q3/q5/q6 is the source's intended redirect, not a dropout.
+
+### Pass-1 backfill re-confirmation (independent eyes-on, NOT redone)
+
+- **(i) d38-dubia [^30]–[^32] = p.857 L-col nn.3–5.** Confirmed @450 dpi (`/tmp/colcrop/vol3-p857-L-{1,2}.png`): p.857 L-col carries **two** stacked blocks — the Jacob/Esau dubium body ends `…virum simplicem, non dolosum`, then the L-col *Notae ad Libr. Sent.* prints nn.1–5 (`Cod. A enim.` / `Gen. 25,27…` / `Cfr. supra pag. 570, nota 6.` / `In edd. additur in Spiritum sanctum…` / `Gen. 27,27. seqq.… Idem dub. solvit Alex. Hal.…`) = dubia [^28]–[^32] verbatim. d39-littera's [^1]–[^5] are the **R-col** block (Hieron./Apostolus/August. *de periurio*) — d39-littera does NOT claim the L-col notes. **Correctly anchored, no double-count across the p.857 seam.**
+- **(ii) d38-divisio [^4] = p.839 n.1 *omni*.** Confirmed @450 dpi (`/tmp/colcrop/vol3-p839-L-2.png`): n.1 `Cod. K omittit omni…` is divisio's, anchored on *omni* in both bodies (La line, En `every`), def at [^4]; a1-q1's band starts at p.839 n.2 ([^1] = the *de Mendacio* note). **Correctly anchored, not double-counted at the divisio→a1-q1 seam.**
+
+### d.38 fixes / illegible
+
+**NONE.** All 8 mid-page seams continuous, all footer accounting exact, both Pass-1 backfills correctly anchored and singly-counted. No body text dropped, no cascade-merge splice, no ACCEPT-ILLEGIBLE (every band read cleanly at 450 dpi). No chunk files edited.
+
+---
+
+## PASS 3b — Boundary integrity (d.39) — verdict (2026-06-14)
+
+*(d.39 scope only, incl. d.38→d.39 + d.39→d.40 seams and the two inter-article seams.)* Method per CLAUDE.md Pass 3 + VOL III OVERRIDE, 450 dpi column bands (offset pdf = printed + 22), running-head TEXT over OCR digits. d.39 = three-article distinction; 12 chunks. **Mid-page + inter-article seams checked (9):** littera→divisio (p.860), divisio→a1-q1 (p.861), a1-q1→q2 (p.863), a1-q2→q3 (p.865), **a1-q3→a2-q1 (p.866, INTER-ARTICLE)**, a2-q2→q3 (p.872), **a2-q3→a3-q1 (p.874, INTER-ARTICLE)**, a3-q2→q3 (p.878), a3-q3→dubia (p.880). **Page-aligned (glance only, 3):** a2-q1→a2-q2 (870), a3-q1→a3-q2 (877), d.39-dubia→d.40-littera (883). **Inter-distinction:** d.38→d.39 share p.857.
+
+### Per-seam verdicts
+
+- **d.38→d.39 (p.857, INTER-DISTINCTION) — CLEAN (eyes-on).** p.857 prints TWO disjoint NOTAE AD LIBR. SENTENTIARUM blocks (confirmed `/tmp/colcrop/vol3-p857-{L,R}-2.png`): L-col nn.1–5 = d38-dubia's Jacob/Esau dubium ([^28]–[^32], incl. the Pass-1 backfill [^30]–[^32]); R-col nn.1–3 = d39-littera's perjury Cap. I/II/III ([^1]–[^3], Hieron./Apostolus/August.). No overlap, no double-count. d38 closes *…virum simplicem, non dolosum*; d39-littera opens fresh `Cap. I De periurio` — correctly discontinuous at the distinction boundary. d38-dubia 32/32 paired post-backfill.
+- **a1-q3→a2-q1 (p.866, INTER-ARTICLE) — CLEAN.** a1-q3 owns p.866 nn.1–5 ([^12]–[^16]); a2-q1 opens at p.866 n.6 ([^1] *Vers.34/Iac.5,12*) + n.7 ([^2] Serm.180). No double-count, no gap.
+- **a2-q3→a3-q1 (p.874, INTER-ARTICLE) — CLEAN.** a2-q3 closes at p.874 n.3 ([^20]); a3-q1 opens at p.874 n.4 ([^1] *Hic c.11*). Clean split.
+- **a3-q2→a3-q3 (p.878) — DEFECT FOUND + FIXED (see below).**
+- **a3-q3→dubia (p.880) — CLEAN.** a3-q3 owns p.880 nn.1–9 ([^13]–[^21]); dubia's apparatus starts on p.881; p.880's footers are wholly a3-q3's (dubia opener bears no markers). Documented in dubia `## Notes`.
+- **Remaining mid-page seams (littera→divisio 860, divisio→a1-q1 861, a1q1→q2 863, a1q2→q3 865, a2q2→q3 872) — CLEAN.** Each receiving chunk opens with its TRACTATIO stem / fresh per-page band; footer hand-offs documented in `## Notes` match the band; prior tails parse (no cascade-merge).
+- **Page-aligned glances (870/877/883) — CLEAN.** Fresh bands; no shared-page footer.
+
+### Post-normalization pairing check (Pass-2 carry-over)
+
+- **a3-q3 (continuous run):** 21/21 paired AFTER the fix below; no orphans, no dup defs.
+- **a2-q1 (b/c/d suffix scheme):** 27/27 paired, every def has anchors in BOTH bodies, no dup defs. NOTE: the brief stated Pass 2 normalized a2-q1's b/c/d suffixes to continuous integers; in fact the b/c/d scheme is STILL present in the file (and its `## Notes` still describe it). This is not a boundary defect — pairing is perfect — so left as-is (out of Pass-3b scope to renumber); flagging for the owner if continuous-integer normalization is desired.
+
+### FIX — d39-a3-q3 apparatus (p.878/p.879 footer attribution)
+
+Two seam defects at the a3-q2→a3-q3 (p.878) boundary, both corrected (backup `vol3/_backup-d39-a3-q3-pre-pass3b-20260614/`):
+1. **DOUBLE-COUNT.** a3-q3 defs [^1]–[^6] held p.878 nn.1–6 (*Cfr. quaest. praec.* / II Sent. d.25 / IV Sent. d.38 / Matth 10,28 / Eph 5 / Dist.29-redirect) — these are **a3-q2's** footers (its [^10]–[^15]). 450 dpi `/tmp/colcrop/vol3-p878-{L,R}-{0,2}.png`: p.878's footer column is ONE continuous band nn.1–10; nn.1–6 key q2's Respondeo/Solutio (upper p.878), nn.7–10 key q3's body (lower p.878). q3's body markers [^1]–[^4] were thus mis-glossed with q2's notes.
+2. **DROPPED FOOTERS.** p.879 nn.1–6 had been omitted ("folded away" in a prior note), but q3's p.879 body carries 8 markers and p.879 prints 8 footers (`/tmp/colcrop/vol3-p879-{L,R}-2.png`: L-col nn.1–5 + R-col nn.6–8).
+
+Re-keyed: [^1]–[^4] = p.878 nn.7–10 (Bede-fundam. / Ambros. de Officiis / supra pag.666 / De Bono coniugali); [^5]–[^12] = p.879 nn.1–8 (Gratian Innocens credit / Hic c.9 / Isid. *sacramentum pro iuramentum* / supra pag.875 variant pair / Archidiac. Florentinum dist.85 / incauto / Cod.A repugnat); [^13]–[^21] = p.880 nn.1–9 (unchanged). Body anchors unchanged (21, already correct); only the 12 definitions [^1]–[^12] rewritten. Result 21/21 paired; each p.878 footer now appears exactly once across a3-q2+a3-q3. PDF cite: p.878 L-2/R-2 + p.879 L-2/R-2 bands.
+
+### d.39 ACCEPT-ILLEGIBLE
+
+NONE — pp.857–882 read cleanly at 450 dpi.
+
+---
+
+## PASS 3b — d.37 boundary integrity sweep (2026-06-14)
+
+d.37 = TWO-article distinction (Art. I a1-q1/q2/q3 + Art. II a2-q1/q2/q3), not a pars-split. Chunks: littera · divisio · a1-q1/q2/q3 · a2-q1/q2/q3 · dubia.
+
+**Boundaries checked: 9.** Mid-page (450 dpi eyes-on where a defect surfaced): divisio→a1-q1 (p.812), a1-q1→a1-q2 (p.815), a1-q2→a1-q3 (p.818), **a1-q3→a2-q1 (p.821, INTER-ARTICLE)**, a2-q1→a2-q2 (p.825), a2-q2→a2-q3 (p.827), a2-q3→dubia (p.829). Page-aligned (continuity glance): littera→divisio (811→812), dubia tail→d.38 (836).
+
+**Per-seam verdicts:**
+- littera→divisio (811→812, page-aligned): PASS. Littera closes Cap. VI (*…utrum prohibitum sit omne mendacium…*); divisio opens fresh COMMENTARIUS. Distinct works, no leak.
+- divisio→a1-q1 (p.812): PASS. divisio keeps p.812 nn.1–5 [^1]–[^5]; a1-q1 [^1] = p.812 n.6 (*Vers.14 — Minor fundatur in Aristot. II Ethic*). No double-count/drop.
+- a1-q1→a1-q2 (p.815): PASS. a1-q1 forwards p.815 nn.1–5; a1-q2 [^1] = p.815 n.1 (*Vers.20 persequeris/exsequeris*). Clean.
+- a1-q2→a1-q3 (p.818): PASS. a1-q2 forwards nothing; a1-q3 [^1] = p.818 n.1 (*Boeth. de Divisione*). Clean.
+- **a1-q3→a2-q1 (p.821, INTER-ARTICLE): PASS.** a1-q3 closes its incidental-question reply at the top of p.821 and keeps p.821 n.1 (*Vide scholion ad praecedentem quaest.*) as [^25]; a2-q1 opens fresh with the ARTICULUS II header + opener + QUAESTIO I, picking up p.821 n.2-onward as its [^1] (*Vers.8 … via magis*). No mid-sentence splice, no double-count across the article seam.
+- a2-q1→a2-q2 (p.825): PASS. a2-q1 forwards nothing (own band closes p.824, scholion p.824–825 has no footers); a2-q2 [^1] = p.825 n.1 (*Cfr. supra d.27 a.2 q.4*). Clean.
+- a2-q2→a2-q3 (p.827): PASS. a2-q2 keeps p.827 nn.1–3; a2-q3 [^1] = p.827 n.4 (*Libr.III Antiq. c.6 Iosephus*). Clean.
+- **a2-q3→dubia (p.829): FIXED (see below).**
+- dubia tail→d.38 (p.836): dubia closes Dub. VIII at *…ad obiecta responderi* before DISTINCTIO XXXVIII (Cap. I *De triplici genere mendacii*); p.836 `NOTAE AD LIBR. SENTENTIARUM` block belongs to d.38. Tail continuity OK — BUT an internal dubia p.835–836 apparatus defect was found (see FLAG below).
+
+### FIX — d37-a2-q3 apparatus at the a2-q3→dubia (p.829) seam
+Backup `vol3/_backup-a2-q3-pre-pass3b-20260614/`. Eyes-on `/tmp/colcrop/vol3-p829-{L,R}-{0,2}.png`: p.829 footer band = L-col nn.1–5 + R-col nn.6–9 (9 notes).
+1. **DROPPED footer recovered.** p.829 L-col **n.4** (*Cfr. supra lit. Magistri, d. XXXVI. c. 3. — …insinuabantur codd. GHKLTVZ aa bb insinuabant*) had been omitted (chunk skipped n.3→n.6). Re-set as **[^19]**, anchored in both bodies at body word *insinuabantur*.
+2. **DOUBLE-COUNT removed.** a2-q3 [^22] held p.829 **n.9** (*De hoc axiomate … Senecae Epist. 65 … exemplare*), which keys to the **Dub. I** body and is correctly **dubia [^1]**. Removed from a2-q3.
+Renumbered [^19]–[^22]; result 22/22 paired both bodies, each p.829 footer now appears once across a2-q3+dubia. PDF cite: p.829 L-2/R-2 bands.
+
+### RESOLVED (tail-repair dispatch, 2026-06-14) — d37-dubia p.834 + p.835–836 tail apparatus
+Initially FLAGGED as the [^59] triple-merge; a dedicated follow-up dispatch FIXED it. Final count **62 defs** (not 61 — the band read surfaced a second, distinct loss). Two losses recovered eyes-on (`/tmp/colcrop/vol3-p83{4,6}-{L,R}-*.png`, pp.829–836 = PDF 851–858):
+- **p.834 n.5** (*Vers. 28 — Glossa est Rabani*, the Dub. VI *Matthaei quinto*/Glossa note) had been **dropped entirely** → restored as **[^43]**.
+- **the collapsed [^59]** split into **[^60]** (*Quapropter Aristot., de Virtut. et vitiis c.7* → *decipiendo*), **[^61]** (*Supra dub. 2 … mendacium/mandatum* → *de periurio*), **[^62]** (*Cod. G patet solutio ad obiecta — Alex. Hal. q.37* → *ad obiecta responderi*).
+The body-anchor drift ran deeper than first estimated (Dub. II–VIII in BOTH languages; English carried only 54 of 62) — every Dub. II–VIII marker was re-anchored to its PDF footer lemma. **Result 62/62 paired in both bodies; frontmatter restored to `Phase C Tier 2 complete —`.** Backup `vol3/_backup-d37-dubia-pre-pass3bfix-20260614/`. d.37-dubia is fully Tier 2.
+
+### RESOLVED (tail-repair dispatch, 2026-06-14) — d37-a2-q1 five unanchored defs
+Initially FLAGGED; FIXED in the same follow-up dispatch. The 5 anchors were placed in BOTH bodies (no renumber) at: **[^10]** → *sicut intuenti satis apparet*; **[^11]** → *actus cordis, oris et operis*; **[^12]** → *rationem principii* (and the file's pre-existing mislabeled [^9] near that lemma was corrected — [^9] moved to its true spot at the first-table *ex parte obiecti* conclusion); **[^15]** → *temporalis subsidii*; **[^16]** → *mandatorum ordinantium hominem ad Deum*. **Result 23/23 paired in both bodies** (now true). Backup `vol3/_backup-d37-a2-q1-pre-pass3bfix-20260614/`.
+
+### d.37 ACCEPT-ILLEGIBLE
+NONE — pp.810–836 read cleanly at 450 dpi.
+
+---
+
+## PASS 3b — d.36 boundary integrity sweep (2026-06-14)
+
+d.36 = single-article distinction (ARTICULUS UNICUS, a1-q1..q6) + littera/divisio/dubia. **Boundaries checked: 9** — 5 mid-page (450 dpi eyes-on) + 4 page-aligned (continuity glance). Method per CLAUDE.md Pass 3 + VOL III OVERRIDE.
+
+**Per-seam verdicts:**
+- **littera→divisio (p.790) — CLEAN.** NOTAE AD LIBR. SENT. closes at littera [^15] (n.6 *Enchirid.*); NOTAE AD COMMENTARIUM family opens for divisio [^1]–[^2]. Two disjoint footer families, no drop.
+- **divisio→a1-q1 (p.791) — CLEAN.** divisio band closes at COMMENTARIUM n.1 = [^3] (*Edd. omittunt totalis*); a1-q1 opens fresh at n.2 (*Vers.14* Glossa).
+- **a1-q1→a1-q2 (p.794) — CLEAN.** a1-q1 contributes only scholion body (no footers) to p.794; a1-q2 owns the whole p.794 footer band nn.1–3.
+- **a1-q2→a1-q3 (p.796) — CLEAN.** a1-q2 closes at R-col n.7 = [^21] (scholion redirect); a1-q3 opens fresh at n.8.
+- **a1-q3→a1-q4 (p.799) — DEFECT FOUND + FIXED (see below).**
+- **Page-aligned (a1-q4→a1-q5 801→802, a1-q5→a1-q6 804→805, a1-q6→dubia 807→808, d.36-dubia→d.37-littera 809→810) — CLEAN.** Each receiving chunk opens a fresh per-page footer band; Notes consistent.
+
+### FIX — d36-a1-q4 (+ d36-a1-q3) at the shared p.799 footer band
+Two failure modes at p.799 (eyes-on; backups `vol3/_backup-d36-a1-q{3,4}-pre-pass3b-20260614/`):
+1. **DOUBLE-COUNT.** a1-q4 had wrongly claimed a1-q3's p.799 nn.1–2 (*Cfr. supra q.1* / *De Praedicam.* denomination note) as its own leading [^1]–[^2] — removed.
+2. **DROPPED FOOTERS (3).** Recovered eyes-on: p.799 n.5 (August. *Epist. 167* c.2 n.9, arg 4 *universitas virtutum*), p.799 n.6 (*de Duabus Animabus* c.6 n.6, arg 4 *imaginem deformat*), p.801 n.1 (Hieronym. *in Eccl.* 9,18, Ratio 4 *assequendam* — the first word of p.801, previously mis-tagged). Re-anchored *Vers.18*→arg 1, *Vers.10*→arg 2. Renumbered continuous; **a1-q4 now 21/21 paired**.
+3. **a1-q3 [^21]** had a wrong truncated cite ("Aristot. I. *Ethic.*") for the p.799 n.2 *Philosophus* note → restored the full *De Praedicam.* (Categories) text (La+En); **a1-q3 now 21/21 paired**. Both Notes + status updated with crosswalks. PDF cite: p.799 / p.801 bands.
+
+### d.36 ACCEPT-ILLEGIBLE
+NONE — pp.789–801 read cleanly at 450 dpi. No new `[?]` flags.
+
+---
+
+## PASS 3b — d.40 boundary integrity sweep (2026-06-14)
+
+d.40 = ARTICULUS UNICUS (a1-q1/q2/q3) + littera/divisio/dubia — the LAST distinction of Vol III. **Boundaries checked: 6** (1 page-aligned inter-distinction + 5 internal: 4 mid-page, 1 page-aligned). **No fixes required — all clean.** Method per CLAUDE.md Pass 3 + VOL III OVERRIDE.
+
+**Per-seam verdicts:**
+- **d.39-dubia→d.40-littera (PAGE-ALIGNED, 882/883) — CLEAN.** d39-dubia closes its own Dub. IV (self-contained); d40-littera opens fresh at `DISTINCTIO XL / Cap. I` top of p.883. Discrete, not a continuation.
+- **littera→divisio (p.884) — CLEAN.** littera holds p.883 NOTAE nn.1–7 + the Magister's `EXPLICIT LIBER TERTIUS SENTENTIARUM`; divisio opens `COMMENTARIUS IN DIST. XL` on p.884.
+- **divisio→a1-q1 (p.884, THREE-CHUNK OVERLAP) — CLEAN.** divisio has `has_apparatus:false` (0 defs) and forwards the entire p.884 footer band nn.1–6 to a1-q1, which holds it as [^1]–[^6] (verified literal: *Codd. R W Y aa / Contra Adimant. / Vers.15 / de Civ. Dei / supra pag.555 / Cod. U sit*). littera's band = p.883 only. No drop, no double-count.
+- **a1-q1→a1-q2 (PAGE-ALIGNED 886/887; scholion/p.887-band question) — CLEAN.** a1-q1 carries Scholion §I–§IV (the p.887 upper note-band prose) as the LAST `## Latin` subsection (parser-safe body-then-scholion). a1-q2 opens its own `Quaestio II` with [^1] a genuine q2 footnote (*Hic c.2 — II Cor.3,6*), NOT scholion text. p.887 band NOT double-claimed.
+- **a1-q2→a1-q3 (p.890) — CLEAN.** q2 takes p.890 n.1 only ([^23] *Cod. U dicatur*); q3 picks up p.890 nn.2–10 ([^1] = *Vers.30*).
+- **a1-q3→dubia (p.892) — CLEAN.** q3 closes at [^21] (*Edd. hic subiungunt… Vide scholion ad 1. quaest.*); dubia picks up p.892 nn.5–9 as [^1]–[^5] ([^1] = *Cfr. supra pag.815 nota 6*, matching q3's documented first-excluded footer).
+
+**END of Book III:** d40-dubia 41/41/41 marker pairing (Latin = English = defs), gaps at 13/25/30 as documented (per-page restart across pp.892–896); `Dcb. III` OCR garble correctly rendered `Dub. III.` in the body; closes with the doxology + `EXPLICIT LIBER TERTIUS FRATRIS BONAVENTURAE SUPER SENTENTIAS` (INDEX QUAESTIONUM excluded).
+
+### d.40 ACCEPT-ILLEGIBLE
+NONE — pp.882–896 read cleanly at 450 dpi. No files edited.
+
+---
+
+## PASS 3b — CLOSING SUMMARY (d.36–d.40) — 2026-06-14
+
+**Boundaries checked: 42 across d.36–d.40** (≈29 mid-page / inter-article requiring 450 dpi eyes-on; ≈13 page-aligned, continuity-glance). Per distinction: d.36 = 9 (5 mid-page), d.37 = 9 (7 mid-page incl. 1 inter-article), d.38 = 8 (all mid-page) + 2 inter-dist glances, d.39 = 12 (9 mid-page/inter-article + 3 page-aligned), d.40 = 6 (4 mid-page + 2 page-aligned). One subagent per distinction, full 450 dpi column-band discipline.
+
+**Per-distinction verdict:**
+- **d.36 — 1 FIX** (a1-q4 footer double-count of a1-q3's p.799 nn.1–2 + 3 dropped footers recovered [p.799 nn.5–6, p.801 n.1] → 21/21; a1-q3 [^21] truncated cite restored → 21/21). All other seams clean.
+- **d.37 — 2 FIXES.** (a) a2-q3 seam: 1 dropped footer (p.829 L n.4 *insinuabantur* → [^19]) + 1 double-count removed ([^22] = Dub. I's note) → 22/22. (b) Follow-up tail-repair: d37-dubia 1 dropped footer (p.834 n.5 → [^43]) + collapsed [^59] split into [^60]–[^62], full Dub. II–VIII re-anchoring in both bodies → **62/62, status restored to Tier 2 complete**; d37-a2-q1 5 unanchored defs anchored → true 23/23. All seams clean.
+- **d.38 — ALL CLEAN.** 8 mid-page seams continuous; both Pass-1 backfills independently re-confirmed correctly anchored and singly-counted ((i) d38-dubia [^30]–[^32] = p.857 **L-col** nn.3–5, with d39-littera owning only the **R-col** block; (ii) d38-divisio [^4] = p.839 n.1 *omni*).
+- **d.39 — 1 FIX** (a3-q3 footer attribution at p.878: double-count of a3-q2's p.878 nn.1–6 + dropped p.879 nn.1–6; re-keyed [^1]–[^12] → 21/21). All other seams clean, incl. both inter-article seams and the d.38→d.39 p.857 inter-distinction seam.
+- **d.40 — ALL CLEAN.** No fixes; the p.884 three-chunk overlap and the a1-q1 scholion/p.887-band case both verified correct. d40-dubia 41/41/41 closes Book III.
+
+**No ACCEPT-ILLEGIBLE items across d.36–d.40 — every band read cleanly at 450 dpi.**
+
+**Note (deferred, not a defect):** d39-a2-q1 retains a b/c/d suffixed apparatus scheme (27/27 paired, every def anchored) — pairing is perfect, so left as-is; flagged for the owner if continuous-integer normalization is desired. d37-dubia frontmatter/header audit shows the dubia is a long 8-Dub. chunk spanning 8 pages (header audit `apparatus-incomplete` wording fully removed).
+
+**Build + audit status (post-fix, d.36–d.40):**
+- `audit-apparatus-count.py --volume 3 --min-d 36 --max-d 40`: **0 flags.**
+- `audit-paraphrase.py --volume 3 --min-d 36 --max-d 40`: 45 chunks, **critical 0 / high 0.**
+- `audit-headers.py --volume 3 --min-d 36 --max-d 40`: **no LOSS flags** (all diffs positive, expected for Vol III).
+- `cd site && node scripts/build-content.mjs`: parses clean, **0 marker-pairing warnings, 1287/1287 translated.**
+
+**Pass 3b status: CLOSED.** With Pass 1 (`e2dcfb0`), Pass 2 (`e95d777`), Pass 3a (`859b3e2`) and Pass 3b (this commit), the **d.31–d.40 DECADE POLISH GATE is COMPLETE** — and with it **Vol III (Book III, all 40 distinctions) is fully Tier 2.** The gate no longer blocks Vol IV.

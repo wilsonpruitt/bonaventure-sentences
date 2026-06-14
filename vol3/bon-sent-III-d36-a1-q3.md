@@ -13,7 +13,7 @@ pdf_pages: [818, 819, 820, 821]
 source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 796–799"
 has_scholion: true
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from 450 dpi PDF column bands (raw lines 55272–55482), fresh literal English translation, full NOTAE AD COMMENTARIUM apparatus from PDF footers (21-marker, per-page restart), own article-style scholion §I–II from PDF, no [?] flags (2026-06-13)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from 450 dpi PDF column bands (raw lines 55272–55482), fresh literal English translation, full NOTAE AD COMMENTARIUM apparatus from PDF footers (21-marker, per-page restart), own article-style scholion §I–II from PDF, no [?] flags (2026-06-13; PASS-3b 2026-06-14: [^21] De Praedicam note corrected/restored — see Notes)"
 format_version: 1
 ---
 
@@ -228,8 +228,8 @@ On this question itself: Scotus, II Sent. d. 28. n. 6. — St. Thomas, here a. 5
 [^20]: **La.** Cfr. supra a. 1. q. 1. (in hac dist.). *(p.799, n.1.)*
     **En.** Cf. above a. 1. q. 1. (in this distinction). *(p.799, n.1.)*
 
-[^21]: **La.** Aristot., I. *Ethic.* — *(p.799, n.2.)*
-    **En.** Aristotle, I *Ethics*. — *(p.799, n.2.)*
+[^21]: **La.** De Praedicam. c. de Quali, ubi de denominatione agens dicit, quod in plurimis haec denominatio fit, e. g. grammaticus a grammatica; in aliquibus vero fieri nequit, « eo quod non sunt posita qualitati nomina »; « aliquando autem et posito nomine non dicitur denominative quod secundum eam [qualitatem] quale dicitur, ut a virtute studiosus [σπουδαῖος]; eo enim ipso quod virtutem habeat, studiosus dicitur, sed non denominatione a virtute; non autem in pluribus hoc tale est ». — *(p.799, n.2.)*
+    **En.** *On the Categories*, the chapter *On Quality*, where, treating of denomination, he says that in most cases this denomination occurs — e.g. "grammarian" from "grammar"; but in some it cannot occur, « because names have not been imposed for the quality »; « but sometimes, even with a name imposed, that which is said to be of-a-certain-quality according to it [the quality] is not said denominatively, as the studious man [*spoudaios*] from virtue; for by the very fact that he has virtue, he is called studious, but not by denomination from virtue; but in most cases it is not so ». — *(p.799, n.2.)*
 
 ## Notes
 
@@ -253,4 +253,4 @@ Total apparatus: **21 markers** (`[^1]`–`[^21]`), all paired in both bodies.
 
 **`[?]` flags.** NONE. Printed pp.796–799 fully legible at 450 dpi; the cascade-shattered Respondeo/Solutio columns were resolved from the PDF bands without ambiguity.
 
-**[^20]/[^21] note.** p.799's two q3 footers (n.1 anchoring reply 4 *connexae¹*; n.2 anchoring reply 5 *Philosophus²*) sit physically above the SCHOLION block in the R/L footer columns; the printed text gives n.1 as a cross-reference and n.2 as the Aristotle-*Ethics*-I attribution for the *virtuosus/studiosus* dictum. Both rendered conservatively from the legible band.
+**[^20]/[^21] note.** p.799's two q3 footers (n.1 anchoring reply 4 *connexae¹*; n.2 anchoring reply 5 *Philosophus²*) sit physically above the SCHOLION block at the page top; p.799's footnote column restarts once for the whole page, so these are **p.799 nn.1–2** and the *following* chunk q4 begins at p.799 n.3. n.1 = `Cfr. supra a.1 q.1` (cross-ref). **[^21] CORRECTED (PASS 3b, 2026-06-14):** the *Philosophus* note on reply 5 (*a virtute non denominatur aliquis virtuosus, sed magis studiosus*) is the *De Praedicam.* (Categories) *de Quali* denomination passage — read eyes-on from p.799 L-col footer n.2 (`/tmp/colcrop/vol3-p799-FOOTL.png`). It had been truncated to a wrong "Aristot., I. *Ethic.*" cite; the full Quaracchi note text (La+En) is now restored. (This is the note q4 had erroneously double-claimed as its own leading [^2]; that duplicate has been removed from q4 — see q4 PASS-3b note.) Backup `_backup-d36-a1-q3-pre-pass3b-20260614/`.

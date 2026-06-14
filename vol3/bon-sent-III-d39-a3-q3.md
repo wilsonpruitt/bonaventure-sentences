@@ -13,7 +13,7 @@ pdf_pages: [900, 901, 902]
 source: "S. Bonaventurae, Opera Omnia, Tomus III (Quaracchi, 1887), pp. 878–880"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (raw lines 60925–61079, Vol III PDF-priority inversion), fresh literal English translation, full apparatus from raw OCR + PDF footer bands (21 entries, continuous integer numbering: p.878 nn.1–10 → [^1]–[^10], p.879 fresh body anchors [^11]–[^12], p.880 nn.1–9 → [^13]–[^21]; apparatus renumbered from a per-page [^13]–[^21] suffix scheme to a single continuous sequence in the d.31–d.40 Pass-2 style audit 2026-06-14), has_scholion false (redirect → a3-q1 article-master scholion §IV) (2026-06-13)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (raw lines 60925–61079, Vol III PDF-priority inversion), fresh literal English translation, full apparatus from raw OCR + PDF footer bands (21 entries, continuous integer numbering: p.878 nn.7–10 → [^1]–[^4], p.879 nn.1–8 → [^5]–[^12], p.880 nn.1–9 → [^13]–[^21]; apparatus q2/q3 footer-attribution split CORRECTED in d.31–d.40 Pass-3b boundary sweep 2026-06-14 — removed 6 double-counted a3-q2 footers, recovered dropped p.879 nn.1–6), has_scholion false (redirect → a3-q1 article-master scholion §IV) (2026-06-13)"
 format_version: 1
 ---
 
@@ -118,37 +118,37 @@ or which directly tends toward the impediment of perfection, is not binding, as 
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; here p.878 (nn.1–10) renumber as [^1]–[^10], p.879 (nn.1–8) as [^6]–[^12] with the body markers placed at the OCR positions, and p.880 (nn.1–9) as [^13]–[^21].
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; here QUAESTIO III's own footers — p.878 nn.7–10 (the lower-page band; nn.1–6 belong to the preceding question, a3-q2) renumber as [^1]–[^4], p.879 nn.1–8 as [^5]–[^12], and p.880 nn.1–9 as [^13]–[^21].
 
-[^1]: **La.** P. 878, not. 1. Cfr. quaest. praeced.
-    **En.** P. 878, note 1. Cf. the preceding question.
-
-[^2]: **La.** P. 878, not. 2 (Ambros., *de Officiis* libr. III. c. 10. n. 69). De quo vide II. Sent. d. 25. p. II. q. 4. — Circa finem corp. pro *fuit* codd. G K *fuerit*.
-    **En.** P. 878, note 2 (Ambrose, *On Duties* bk. III, c. 10, n. 69). On which see II Sent., d. 25, p. II, q. 4. — Near the end of the corpus, for *fuit* codices G K read *fuerit*.
-
-[^3]: **La.** P. 878, not. 3. Cfr. IV. Sent. d. 38. a. I. q. I. ad 4, ubi triplex differentia voti et iuramenti affertur.
-    **En.** P. 878, note 3. Cf. IV Sent., d. 38, a. I, q. I, ad 4, where a threefold difference between a vow and an oath is brought forward.
-
-[^4]: **La.** P. 878, not. 4. Matth. 10, 28. [Augustinus, *de Bono coniugali*: vide not. seq.]
-    **En.** P. 878, note 4. Matt. 10, 28. [Augustine, *On the Good of Marriage*: see the following note.]
-
-[^5]: **La.** P. 878, not. 5. Vide Eph. 5, 25. seqq. — Paulo superius pro *Dei* cod. U *et Dei*.
-    **En.** P. 878, note 5. See Eph. 5, 25 ff. — A little above, for *Dei* codex U reads *et Dei*.
-
-[^6]: **La.** P. 878, not. 6. Dist. 29. per totam. — Vide scholion ad praecedentem quaest.
-    **En.** P. 878, note 6. Dist. 29, throughout. — See the scholion to the preceding question.
-
-[^7]: **La.** P. 878, not. 7. Vide infra in fundam. I. verba Bedae.
+[^1]: **La.** P. 878, not. 7. Vide infra in fundam. I. verba Bedae.
     **En.** P. 878, note 7. See below, in fundamentum I, the words of Bede.
 
-[^8]: **La.** P. 878, not. 8. Libr. III. c. 10. n. 69: *Iesus tamen pacem* etc. Cfr. Iosue 9, 15. seqq.
+[^2]: **La.** P. 878, not. 8. Libr. III. c. 10. n. 69: *Iesus tamen pacem* etc. Cfr. Iosue 9, 15. seqq.
     **En.** P. 878, note 8. [Ambrose,] bk. III, c. 10, n. 69: *Jesus [= Joshua] nevertheless [judged] the peace* etc. Cf. Joshua 9, 15 ff.
 
-[^9]: **La.** P. 878, not. 9. Cfr. supra pag. 666, nota 6.
+[^3]: **La.** P. 878, not. 9. Cfr. supra pag. 666, nota 6.
     **En.** P. 878, note 9. Cf. above, p. 666, note 6.
 
-[^10]: **La.** P. 878, not. 10. *De Bono coniugali*, c. 4. n. 4, sententialiter. Allegatur etiam a Gratiano, C. *Mulier si*, c. 22. q. 4. — Inferius pro *leccatori* Vat. hic et in solutione *tocatori*. Immediate post codd. B D F G L O T V aa, verbis male transpositis, *peior est, si servat fidem, quam si non observaret*.
+[^4]: **La.** P. 878, not. 10. *De Bono coniugali*, c. 4. n. 4, sententialiter. Allegatur etiam a Gratiano, C. *Mulier si*, c. 22. q. 4. — Inferius pro *leccatori* Vat. hic et in solutione *tocatori*. Immediate post codd. B D F G L O T V aa, verbis male transpositis, *peior est, si servat fidem, quam si non observaret*.
     **En.** P. 878, note 10. *On the Good of Marriage*, c. 4, n. 4, in substance. It is cited also by Gratian, C. *Mulier si*, c. 22, q. 4. — Below, for *leccatori* (her seducer) the Vatican edition reads here and in the solution *tocatori*. Immediately after, codices B D F G L O T V aa, with the words badly transposed, [read] *she is worse if she keeps faith than if she did not observe it*.
+
+[^5]: **La.** P. 879, not. 1. Cfr. Gratian., C. *Innocens credit*, c. 22. q. 4. § 6.
+    **En.** P. 879, note 1. Cf. Gratian, C. *Innocens credit*, c. 22, q. 4, § 6.
+
+[^6]: **La.** P. 879, not. 2. Hic c. 9.
+    **En.** P. 879, note 2. Here, c. 9.
+
+[^7]: **La.** P. 879, not. 3. Libr. II. Sent. c. 31. n. 9; cfr. hic lit. Magistri, c. 9. — Cum textu originali et codd. A F H K L T V ac bb substituimus *sacramentum* pro *iuramentum*.
+    **En.** P. 879, note 3. [Isidore,] bk. II *Sentences*, c. 31, n. 9; cf. here the text of the Master, c. 9. — With the original text and codices A F H K L T V and bb, we have substituted *sacramentum* (sacrament) for *iuramentum* (oath).
+
+[^8]: **La.** P. 879, not. 4. Cfr. supra pag. 875, nota 2. — Codd. A H aa *perfectioni*. In fine arg. post *incautum* cod. Z addit *et indiscretum*.
+    **En.** P. 879, note 4. Cf. above, p. 875, note 2. — Codices A H aa [read] *perfectioni*. At the end of the argument, after *incautum* codex Z adds *et indiscretum*.
+
+[^9]: **La.** P. 879, not. 5. Cfr. supra pag. 875, nota 2. — Superius pro *discretum* cod. O *obligatorium*.
+    **En.** P. 879, note 5. Cf. above, p. 875, note 2. — Above, for *discretum* codex O reads *obligatorium*.
+
+[^10]: **La.** P. 879, not. 6. Cfr. C. *Archidiaconum Florentinum*, dist. 85, ubi Gregorius iubet inquiri, num ille qui episcopus fuerat electus, « tactis sacrosanctis Evangeliis (sicut nobis nuntiatum est), iusiurandum praebuerit, nunquam se ad episcopatum accedere ». — Inferius post *praeferenda est* (cfr. supra pag. 652, nota 4.) codd. F G L T V W aa addunt *tamen*.
+    **En.** P. 879, note 6. Cf. C. *Archidiaconum Florentinum*, dist. 85, where Gregory orders inquiry to be made whether that man who had been elected bishop « had given an oath, with the holy Gospels touched (as has been reported to us), that he would never come to the episcopate ». — Below, after *praeferenda est* (cf. above, p. 652, note 4) codices F G L T V W aa add *tamen*.
 
 [^11]: **La.** P. 879, not. 7. In edd. additur *incauto*.
     **En.** P. 879, note 7. In the editions *incauto* (incautious) is added.
@@ -191,15 +191,17 @@ or which directly tends toward the impediment of perfection, is not binding, as 
 
 **Page span:** opens lower on **p.878** (QUAESTIO III beneath a3-q2's Solutio tail, raw 60925), runs full **p.879** (running head "879 — DIST. XXXIX. ART. III. QUAEST. III."), closes on **p.880** (running head "880 — SENTENTIARUM LIB. III.") at *…debet in hoc casu obedire⁹*, immediately before DUBIA CIRCA LITTERAM MAGISTRI. Offset pdf = printed + 22.
 
-**Apparatus — 21 markers (12 on pp.878–879 → [^1]–[^12]; 9 on p.880 → [^13]–[^21]), continuous integer numbering (renumbered 2026-06-14 from a per-page [^13]–[^21] suffix scheme in the d.31–d.40 Pass-2 style audit):**
-- **p.878 nn.1–10 → [^1]–[^10]** (q3 opens a FRESH footer band on p.878; nn.1–6 key the opener + videtur args [Iosue/Ambrose/IV Sent./Matth.10,28/Eph.5/Dist.29-redirect], nn.7–10 = the Iosue/Bede/supra-pag.666/De Bono coniugali notes the resume forwarded from a3-q2). The resume hand-off said "PICK UP p.878 nn.7–10"; in fact q3 owns ALL of p.878 nn.1–10 since QUAESTIO III opens its own footer band on this page — nothing was actually shared with a3-q2 (a3-q2 closed at p.878 n.6 of its OWN band higher on the page).
-- **p.879 nn.1–8 → body markers [^6]–[^12]** placed at OCR positions in the Sed-contra + Respondeo. (p.879 nn.1–5 are textual-variant/source notes that overlap the already-keyed Sed-contra references; only nn.7–8 carry fresh body anchors [^11]/[^12] — *incauto* edition-variant and the Cod. A *repugnat* variant — the rest fold under the p.878 markers to avoid double-keying the same clauses.)
+**Apparatus — 21 markers, continuous integer numbering. CORRECTED in the d.31–d.40 Pass-3b boundary sweep (2026-06-14, 450 dpi p.878/879 bands eyes-on):**
+- **p.878 nn.7–10 → [^1]–[^4]** (QUAESTIO III's body sits on the LOWER half of p.878, L-col bottom + R-col, beneath a3-q2; p.878's footer column runs as a SINGLE continuous band nn.1–10, with nn.1–6 keyed to a3-q2's body (its Respondeo opinio-2 + Solutio Ad 1–4, higher on the page) and nn.7–10 keyed to q3's body — n.7 *Vide infra in fundam. I verba Bedae* (→ q3 *minus bonum*), n.8 Ambrose *de Officiis* libr. III (→ *de Officiis*), n.9 *Cfr. supra pag. 666 nota 6* (→ *foedus iniret*), n.10 *De Bono coniugali* (→ *Augustinus*/meretrix)).
+- **p.879 nn.1–8 → [^5]–[^12]** (q3's *Sed contra* 1–3 + incidens + Respondeo): n.1 Gratian *Innocens credit*, n.2 *Hic c. 9* (Bede/Magister in littera), n.3 *Libr. II Sent. c.31* + *sacramentum pro iuramentum* (Isidore), n.4 / n.5 the *supra pag. 875 nota 2* variant pair (perfectionem / discretum), n.6 *Archidiaconum Florentinum* dist. 85 (Gregory, prelacy oath), n.7 *incauto* edition-variant, n.8 Cod. A *repugnat*.
 - **p.880 nn.1–9 → [^13]–[^21]** (the full Solutio: ad-1 Iosue/Gabaonitae triplex-ratio, ad-2 meretrix, ad-3 matrimony, ad-4 religion, ad-quaestionem-incidentem; [^21] = *Vide scholion ad 1. huius articuli quaest.* redirect).
 
 Marker pairing: 21 defs / 21 body anchors in each language.
 
+**★ Pass-3b CORRECTION (2026-06-14).** The previous apparatus had two seam defects, both now fixed: (1) **DOUBLE-COUNT** — defs [^1]–[^6] had wrongly held p.878 nn.1–6 (*Cfr. quaest. praec.*, II Sent. d.25, IV Sent. d.38, Matth 10,28, Eph 5, Dist.29-redirect), which are **a3-q2's** footers (already its [^10]–[^15]); q3's body markers on p.878 ([^1]–[^4]) had thus been mis-glossed with q2's notes. (2) **DROPPED FOOTERS** — p.879 nn.1–6 had been omitted ("folded" away in a prior note), although q3's p.879 body carries 8 markers keyed to all 8 of p.879's footers. The 450 dpi p.878 L-2/R-2 and p.879 L-2/R-2 bands confirm: p.878 footer column = continuous nn.1–10 (q2 owns 1–6, q3 owns 7–10); p.879 = nn.1–8, all q3's. Apparatus re-keyed so [^1]–[^4]=p.878 nn.7–10, [^5]–[^12]=p.879 nn.1–8, [^13]–[^21]=p.880 nn.1–9 (unchanged). 21/21 paired. The "renumbered 2026-06-14 from a per-page suffix scheme" claim in an earlier note version was incidental; the substantive fix is the q2/q3 footer-attribution split. See `manual-review/vol3-d31-d40-polish-resolution-log.md`.
+
 **Footer hand-offs.**
-- PICKED UP ← a3-q2: the resume forwarded p.878 nn.7–10. On eyes-on these are simply part of q3's own p.878 footer band (nn.1–10), which opens with QUAESTIO III. Nothing genuinely orphaned by a3-q2.
+- PICKED UP ← a3-q2: NOTHING. q3 opens its share of p.878's footer column at n.7 (its own *minus bonum*/Bede marker); a3-q2 correctly owns p.878 nn.1–6 ([^10]–[^15]). No footer is shared between the two chunks.
 - d39-a3-q3 → d39-dubia: NOTHING forwarded. q3 closes at p.880 n.9 ([^21]). The DUBIA CIRCA LITTERAM MAGISTRI opens lower on p.880 and starts a fresh footer band (p.880 dubia footer = the Dub. I notes).
 
 **Scholion:** `has_scholion: false`. Grep-verified NO SCHOLI/SOHOLI/SCHOLION/SCHOLIOK header inside raw 60926–61079, and none in the p.878–880 PDF bands. The incautum question was prospectively surveyed in a3-q1's article-master scholion (§IV); [^6] and [^21] both redirect there.
