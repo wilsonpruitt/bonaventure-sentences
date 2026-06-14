@@ -1,9 +1,9 @@
 ---
-id: "bon-sent-III-d39-a2-q3-dup2"
+id: "bon-sent-III-d39-a3-q3"
 volume: 3
 book: 3
 distinctio: 39
-articulus: 2
+articulus: 3
 quaestio: 3
 type: quaestio
 line_start: 60925
@@ -13,7 +13,7 @@ transcription_status: "auto-chunked 2026-06-02"
 format_version: 1
 ---
 
-# bon-sent-III-d39-a2-q3-dup2
+# bon-sent-III-d39-a3-q3
 
 ## Latin
 
