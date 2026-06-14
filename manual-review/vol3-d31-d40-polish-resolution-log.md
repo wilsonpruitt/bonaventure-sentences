@@ -49,3 +49,36 @@ Full report: `manual-review/vol3-d31-d40-pass2-style-audit.md`. Programmatic sca
 - **Build:** clean, 1287/1287 translated. **Audit:** `audit-apparatus-count --volume 3 --min-d 39 --max-d 39` → 0 flags.
 
 **NEXT ACTION on the polish blocker:** Pass 3 (cross-chunk boundary-integrity sweep, d.31–d.40) — still a blocker for Vol IV / Book IV.
+
+---
+
+## PASS 3 of 3 — Boundary integrity (d.31–d.35) — CLOSED 2026-06-14
+
+**(Pass 3a; d.36–d.40 follow in Pass 3b.)** Method per CLAUDE.md Pass 3 + VOL II/III OVERRIDE: for every chunk boundary that falls inside a printed page (two adjacent chunks sharing a `printed_pages` number), checked the three integrity criteria against 450 dpi PDF column bands (`tools/extract-pages.py --volume vol3 --pages N --dpi 450` → `tools/colcrop.py vol3 N` → `/tmp/colcrop/vol3-pNNN-{L,R}-{0..n}.png`; offset pdf = printed + 22): **(a)** receiving chunk's opening grammatically continuous with prior chunk's closing (no dropped clause); **(b)** the shared page's Quaracchi footer notes fully accounted across both chunks' `## Apparatus`/`## Notes` hand-off blocks (none dropped/double-counted; Quaracchi restarts numbering per page and per column); **(c)** no OCR cascade-merge splice signature in the prior chunk's tail.
+
+**Boundaries checked: 51 total across d.31–d.35 (41 mid-page, requiring 450 dpi eyes-on; 10 page-aligned, continuity-glance from Notes only).** Per-distinction: d.31 = 11 (8 mid-page), d.32 = 8 (8 mid-page), d.33 = 8 (7 mid-page), d.34 = 16 (13 mid-page + inter-pars p1→p2 + 2 page-aligned), d.35 = 8 (5 mid-page + 3 page-aligned). Dispatched one subagent per distinction, each doing the full 450 dpi column-band discipline.
+
+### Per-distinction verdict
+
+- **d.31 — ALL CLEAN (8 mid-page seams).** littera→divisio→a1q1 are legitimate structural breaks (Lombard / COMMENTARIUS+DIVISIO / first quaestio); footer families disjoint and accounted (p.673 *Notae ad Libr. Sent.* nn.1–2 → littera, *Notae ad Comm.* n.1 → divisio, nn.2–3 → a1-q1). q-to-q seams continuous; the two-sequence footer splits on p.685 (a2q2 nn.1–7 / a2q3 nn.8–10), p.692 (a3q2 spill-notes / a3q3 nn.1–10), p.694 (a3q3 nn.1–6 / dubia nn.7–10) all verified eyes-on, no double-count. All 11 chunks' apparatus defs contiguous. No splice.
+- **d.32 — ALL CLEAN (8 mid-page seams).** Every prior tail parses; every receiving head is a fresh quaestio/section header or continuous. Footer accounting exact, incl. the p.705 case where q4's scholion §III body crosses the page but carries no footer there (verified eyes-on: NOTAE restarts at n.1, entirely q5's — no q4 footer dropped). Hand-off blocks internally consistent across all 9 files. No splice.
+- **d.33 — ALL CLEAN (7 mid-page + 1 page-aligned).** Independently re-confirmed the Pass-1 apparatus corrections at the q4 (p.719 nn.7–9 → [^7]/[^8]) and q5 (p.721 L nn.1–5 / R nn.6–7 split; Greek in n.6 = q5 [^1]) seams against 450 dpi bands — those were footer-text/anchor corrections internal to q4/q5, not seam dropouts; the seams themselves are intact. a1q6→dubia page-aligned (q6 closes p.727, dubia opens top of p.728). No splice.
+- **d.34 — ONE FIX (13 mid-page + inter-pars + 2 page-aligned).** **Fixed a footer DOUBLE-COUNT at the p2 a1q3→a2q1 seam (shared p.761):** `d34-p2-a2-q1` had wrongly claimed p.761 nn.1–4 as its leading apparatus `[^1]–[^4]` with 4 spurious body anchors. Eyes-on `/tmp/colcrop/vol3-p761-{L,R}-{0,1}.png` (PDF 783) confirms PDF markers ¹–⁴ sit in q3's replies 2–4 (already correctly held by `d34-p2-a1-q3` as its `[^25]–[^28]`); markers ⁵–⁸ sit in a2-q1's Fundamenta args (⁵ *divisionem Magistri*, ⁶ *Augustini*, ⁷ *Magister innuit*, ⁸ *modum timendi*). Removed the 4 phantom apparatus entries + 4 spurious anchors and remapped a2-q1's real notes (p.761 nn.5–8 + p.762 nn.1–12 + p.763 nn.1–4) to a contiguous `[^1]–[^20]` (now 20 La / 20 En / 20 defs, 1:1:1). **No body Latin/English text added or lost — marker/footer accounting only.** Backup at `vol3/_backup-d34-p2-a2-q1-pre-cascade-fix-20260614/`; fix documented in that chunk's `## Notes` + a seam-confirmation note added to `d34-p2-a1-q3`'s Notes. All other 12 mid-page seams + inter-pars (p1-dubia p.752 → p2-divisio p.753, no shared page) + the 2 page-aligned seams CLEAN; footer splits on p.741, p.747, p.759 verified eyes-on.
+- **d.35 — ALL CLEAN (5 mid-page + 3 page-aligned).** Interleaved-by-anchor footer split on p.775 (q1 [^15]/[^16] vs q2 [^1],[^4]–[^7], with a documented [^2]/[^3] gap) reconciled exactly; p.777, p.782 splits accounted. The article-master scholion chain (q1 §II→q2, q3 §II→q4, q5 §II→q6, each confirmed by the source's own *Vide scholion ad praecedentem quaest.* redirect markers) is intact. No splice.
+
+### Fix summary
+
+| Seam | Chunk(s) edited | What | PDF citation |
+|---|---|---|---|
+| d.34 p2 a1q3→a2q1 (shared p.761) | `d34-p2-a2-q1` (renumber [^1]–[^20], drop 4 phantom defs+anchors); `d34-p2-a1-q3` (Notes seam-confirm) | Footer double-count: p.761 nn.1–4 belong to a1-q3, not a2-q1. No body text changed; pairing now 20/20/20. | `/tmp/colcrop/vol3-p761-{L,R}-{0,1}.png`, PDF 783 (printed 761) |
+
+No ACCEPT-ILLEGIBLE items — every band read cleanly at 450 dpi.
+
+### Build + audit status (post-fix)
+
+- `tools/audit-apparatus-count.py --volume 3 --min-d 31 --max-d 35`: **0 flags.**
+- `tools/audit-paraphrase.py --volume 3 --min-d 31 --max-d 35`: 56 chunks, **critical 0 / high 0.**
+- `tools/audit-headers.py --volume 3 --min-d 31 --max-d 35`: no LOSS flags (all diffs positive, expected for Vol III).
+- `cd site && node scripts/build-content.mjs`: parses clean, **0 marker-pairing warnings, 1287/1287 translated.**
+
+**Pass 3a status: CLOSED.** All 51 d.31–d.35 boundaries verified clean except one footer double-count (d.34 p2, fixed). **NEXT ACTION on the polish blocker:** Pass 3b — boundary-integrity sweep d.36–d.40 (still a blocker for Vol IV / Book IV).
