@@ -3320,3 +3320,28 @@ Also consider: a full-corpus style/formatting audit across both volumes; product
 ## Standard per-chunk recipe (Vol II)
 
 See project `CLAUDE.md` → "VOL II OVERRIDE" + "Efficient single-chunk subagent dispatch". In brief: PDF-priority inversion (450 dpi column bands authoritative for Respondeo/Solutio/footers; OCR base for clean prose + marker spacing); `extract-pages.py --volume vol2 --dpi 450` then `colcrop.py vol2 <page>`; backup → re-set Latin column-by-column → literal English → full per-page-restart apparatus → frontmatter Tier-2 + `## Notes` → three `--volume 2` audits + smoke build → two commits (chunk+content.json; then resume).
+
+---
+
+# ★ VOL IV / BOOK IV — STARTED 2026-06-16 (current active front)
+
+**Vol III (Book III) is COMPLETE & published.** Book IV (Commentarius in IV Librum Sententiarum) is now the active front.
+
+## Bootstrap (commit f6da2aa, 2026-06-16)
+- **610 chunk skeletons** auto-chunked into `vol4/` (47 distinctions detected). **d.4, d.23, d.50 merged into neighbors** via OCR-garbled DISTINCTIO headers; **101 dup-IDs** need pars relabeling — resolve per-distinction during the normal re-chunk-before-translate step. d.50 confirmed present in raw (L109979); body ends at INDEX QUAESTIONUM (L112357).
+- **Two-column, same edition as Vols II/III → apply the VOL II OVERRIDE recipe** (PDF-priority inversion; `colcrop.py vol4 <page>`).
+- **Offset `pdf = printed + 20`** (verified twice: printed 18→PDF 38, printed 49→PDF 69). Wired into `tools/extract-pages.py` (vol4 config). `build-content.mjs` reports 4 books. The 3 audit scripts gained `--volume 4` (commit c3571ba).
+- PDF `raw/doctorisseraphic04bona.pdf` = 1094pp; raw `raw/bonaventure_vol4_raw.txt`.
+- Decade polish gates fire at d.10 / d.20 / d.30 / d.40 / d.50 (Book IV's own boundaries).
+
+## d.1 progress
+| Unit | Status |
+|---|---|
+| `d1-p1-littera` | **Tier 2 complete** (commit c3571ba, pp.8–10, 16-entry apparatus). [?] flag: p.10's 3 littera body-markers have no printed footer (placeholder sources, flag for d.10 600dpi gate). |
+| `d1-p1-divisio` (skeleton; chunker labeled it `d1-p2-divisio` — verify pars) | NEXT |
+| `d1-p2-a1-q1..q6`, `a2-q1..q3`, dubia | skeleton (note dup2 variants — re-chunk/pars-relabel before translating) |
+
+**Cross-chunk hand-off into d1 divisio:** the entire p.10 "NOTAE AD COMMENTARIUM" footer (3 notes) + L-col continuation (Hugo / Ita codd. / Loco supra cit.) belong to the divisio chunk, keyed to its DIVISIO TEXTUS markers (documented in the littera's `## Notes`).
+
+## NEXT ACTION
+Promote the d.1 **divisio/COMMENTARIUS** chunk (COMMENTARIUS IN DISTINCTIONEM I at raw L1754; DIVISIO TEXTUS + TRACTATIO QUAESTIONUM). FIRST verify the pars labeling against raw (chunker emitted `d1-p2-divisio` + a `-dup2` — d.1's COMMENTARIUS may be single-pars; re-chunk if needed). Pick up the forwarded p.10 footer hand-off above. Then proceed through d.1's quaestiones (a1 q1–q6, a2 q1–q3) and dubia per the one-chunk-per-subagent cadence. Use offset +20, two-column override.
