@@ -12,7 +12,7 @@ pdf_pages: [48, 49, 50, 51]
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 28–31"
 has_scholion: false
 has_apparatus: true
-transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (pp.28–31, PDF 48–51; VOL II OVERRIDE, offset pdf=printed+20) with IA djvu OCR (raw lines 3582–3886) as base for clean prose + marker spacing; fresh literal English; full apparatus from PDF footers (31 entries: p.28 nn.5–11 [picked up after q6 claimed p.28 nn.1–4], p.29 nn.1–12, p.30 nn.1–10, p.31 nn.1–2 [Dub. IX Respondeo only; p.31 nn.3+ belong to the Pars II divisio]); nine dubia (Dub. I–IX); has_scholion false (dubia carry no scholion); no prior skeleton existed — chunk created fresh (2026-06-16)"
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (pp.28–31, PDF 48–51; VOL II OVERRIDE, offset pdf=printed+20) with IA djvu OCR (raw lines 3582–3919) as base for clean prose + marker spacing; fresh literal English; full apparatus from PDF footers (37 entries: p.28 nn.5–11 [picked up after q6 claimed p.28 nn.1–4], p.29 nn.1–12, p.30 nn.1–10, p.31 nn.1–8 [Dub. IX Respondeo + Dub. X–XII; p.31 n.9+ belong to the Pars II divisio]); twelve dubia (Dub. I–XII); has_scholion false (dubia carry no scholion); no prior skeleton existed — chunk created fresh (2026-06-16); EXTENDED 2026-06-16 to add Dub. X–XII (boundary repair: these three doubts were wrongly attributed to the Pars II divisio in the original promotion; the Pars II COMMENTARIUS/DIVISIO TEXTUS begins only at raw L3918–3933, p.31 R-col)"
 format_version: 1
 ---
 
@@ -92,6 +92,24 @@ Item quaeritur de hoc quod dicit: *Homo, qui ante peccatum sine medio Deum videb
 
 **Respondeo:** Dicendum, quod *videre sine medio* est dupliciter: aut sine medio *adminiculante*, aut sine medio *obumbrante*. Primum medium est speculare, secundum aenigmaticum. Sine primo non erat homo[^30], sed erat sine secundo, in quod incidit per peccatum; et ideo, quia caecus erat, indiguit erudiri et manuduci; non sic in statu primo[^31].
 
+### Dub. X.
+
+Item quaeritur de hoc quod dicit: *Propter exercitationem similiter instituta sunt*; quia, si hoc verum est, cum *corporalis exercitatio ad modicum sit utilis*[^32], cum ergo Sacramenta sint corporales res: ergo ad modicum sunt utilia propter exercitationem.
+
+**Respondeo:** Dicendum, quod *exercitari*[^33] in observantia ipsorum Sacramentorum potest esse dupliciter: aut in *solo exteriori ritu*, et sic ad modicum valet; aut *iuncta devotione mentis*, et sic non est corporalis, sed quodam modo spiritualis, ac per hoc multum utilis[^34].
+
+### Dub. XI.
+
+Item quaeritur de hoc quod dicit, quod *duo sunt, in quibus consistunt Sacramenta, scilicet res et verba*. Videtur enim, quod male dividat, quia omne verbum est res. — Item, videtur, quod dividat *insufficienter*, quia Hugo[^35] dicit, quod consistunt in *rebus*, *dictis* et *factis*.
+
+**Respondeo:** Dicendum, quod *res* arctatur hic ad visibilia, et Magister strictius accipit Sacramenta, quam Hugo: quia ille accipiebat, quamcumque institutionem honestatis in Dei Ecclesia Sacramentum esse, Magister vero strictius accipit[^36].
+
+### Dub. XII.
+
+Item quaeritur de hoc quod dicit Augustinus, quia *promittebant et significabant tantum*. Videtur enim male dicere: quia aut promittebant illis qui erant illius temporis, aut futuris. Futuris non, quia non promittit aliquis aliquid alicui, nisi ille sit. Si illis qui tunc erant; constat, quod ad Sacramenta novae legis illi non pervenerunt: ergo decepti erant in promissione.
+
+**Respondeo:** Dicendum, quod hic accipitur promissio non gratiae iustificantis, sed gloriae; et illa promittebant, sed non dabant, quia ianua nondum erat aperta; haec autem promittunt et dant, cum ianua sit aperta a Christo[^37].
+
 ---
 
 ## English
@@ -156,11 +174,29 @@ Likewise it is asked about this which he says: *Man, who before sin saw God with
 
 **I respond:** It must be said that *to see without a medium* is twofold: either without a *supporting* medium, or without an *obscuring* medium. The first medium is the mirror, the second the riddle. Man was not without the first[^30], but he was without the second, into which he fell through sin; and therefore, because he was blind, he needed to be instructed and led by the hand; not so in the first state[^31].
 
+### Doubt X.
+
+Likewise it is asked about this which he says: *They were instituted likewise for the sake of exercise*; for, if this be true, since *bodily exercise is profitable to little*[^32], then, since the Sacraments are bodily things, therefore they are of little profit for the sake of exercise.
+
+**I respond:** It must be said that *to be exercised*[^33] in the observance of the Sacraments themselves can be twofold: either in the *bare exterior rite*, and thus it avails to little; or *joined with devotion of mind*, and thus it is not bodily, but in a certain way spiritual, and through this much profitable[^34].
+
+### Doubt XI.
+
+Likewise it is asked about this which he says, that *there are two things in which the Sacraments consist, namely the thing (res) and the words*. For it seems that he divides ill, since every word is a thing. — Likewise, it seems that he divides *insufficiently*, since Hugh[^35] says that they consist in *things*, *words [spoken]*, and *deeds [done]*.
+
+**I respond:** It must be said that *thing* (res) is here restricted to visible things, and the Master takes the Sacraments more strictly than Hugh: for the latter took whatever institution of decency in the Church of God to be a Sacrament, but the Master takes them more strictly[^36].
+
+### Doubt XII.
+
+Likewise it is asked about this which Augustine says, that *they only promised and signified*. For it seems to say something false: since either they promised to those who were of that time, or to those to come. Not to those to come, since no one promises anything to anyone unless he exist. If to those who were then, it is established that they did not attain to the Sacraments of the new law: therefore they were deceived in the promise.
+
+**I respond:** It must be said that here the promise is taken not of justifying grace, but of glory; and that [grace] they promised but did not give, because the gate was not yet open; but these [Sacraments of the new law] promise and give, since the gate has been opened by Christ[^37].
+
 ---
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this file merges the per-page series (p.28 nn.5–11, p.29 nn.1–12, p.30 nn.1–10, p.31 nn.1–2) into one consecutive `[^1]`–`[^31]` run.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' Latin note (**La.**) followed by an English rendering (**En.**). Quaracchi restarts footnote numbering on each printed page; this file merges the per-page series (p.28 nn.5–11, p.29 nn.1–12, p.30 nn.1–10, p.31 nn.1–8) into one consecutive `[^1]`–`[^37]` run.
 
 [^1]: **La.** Edd. cum pluribus codd. *communicare*. Mox pro *sacrae rei signum* codd. F aa (H a secunda manu) *sacrae rei signa*.
 
@@ -286,26 +322,52 @@ Likewise it is asked about this which he says: *Man, who before sin saw God with
 
     **En.** Compare II Sent. d. 23 a. 2 q. 3; Alexander of Hales, *Summa* part IV q. I m. 2 a. 1; St. Thomas, Peter of Tarentaise, Richard of Mediavilla, here about the text.
 
+[^32]: **La.** Epist. I. Tim. 4, 8.
+
+    **En.** [The] Epistle, I Tim. 4, 8.
+
+[^33]: **La.** Cod. Z *exercitatio*. Circa finem responsionis post *sed*, refragantibus codd. F G H O X, alii et edd. addunt *etiam*, et cod. F substituit *propter hoc* pro *per hoc*.
+
+    **En.** Codex Z reads *exercise* (noun, *exercitatio*). Near the end of the response, after *but*, against codices F G H O X, the others and the editions add *also*, and codex F substitutes *on account of this* for *through this*.
+
+[^34]: **La.** Hoc dub. solvunt etiam Alex. Hal., S. p. IV. q. 5. m. 2. a. 3; B. Albert., hic a. 13; S. Thom., hic q. 1. a. 2. quaestiunc. 1, ad 4.
+
+    **En.** This doubt is also resolved by Alexander of Hales, *Summa* part IV q. 5 m. 2 a. 3; Blessed Albert, here a. 13; St. Thomas, here q. 1 a. 2 little-question 1, ad 4.
+
+[^35]: **La.** Libr. I. de Sacram. p. IX. c. 6.
+
+    **En.** [Hugh of St. Victor,] *On the Sacraments* Book I, part IX, c. 6.
+
+[^36]: **La.** Hoc dub. etiam tractant Alex. Hal., S. p. IV. q. 5. m. 3; B. Albert., hic a. 15; S. Thom., hic q. 1. a. 3; Petr. a Tar., hic q. 1. a. 2. et circa lit.; Richard. a Med., hic a. 1. q. 1.
+
+    **En.** This doubt is also treated by Alexander of Hales, *Summa* part IV q. 5 m. 3; Blessed Albert, here a. 15; St. Thomas, here q. 1 a. 3; Peter of Tarentaise, here q. 1 a. 2 and about the text; Richard of Mediavilla, here a. 1 q. 1.
+
+[^37]: **La.** Cfr. III. Sent. d. 18. a. 2. q. 3. — Superius pro *gratiae* edd. *gratia*. Subinde pro *et illa* cod. G *quam illa*.
+
+    **En.** Compare III Sent. d. 18 a. 2 q. 3. — Above, for *of grace* (*gratiae*) the editions read *grace* (*gratia*). Thereupon, for *and that* codex G reads *than that*.
+
 ---
 
 ## Notes
 
-**Provenance.** Latin re-set column-by-column from the 450 dpi PDF column bands for printed pp.28–31 (PDF pp.48–51; Vol IV offset `pdf = printed + 20`) under the VOL II OVERRIDE, with the IA djvu OCR (`raw/bonaventure_vol4_raw.txt`, lines 3582–3886) as the base for clean prose and footnote-marker spacing. This chunk is the **DUBIA CIRCA LITTERAM MAGISTRI for Distinction I, Part I** — nine doubts (Dub. I–IX) on the Master's text. **No prior skeleton existed for this chunk** (the auto-chunker missed the Pars I dubia block); the file was created fresh. This chunk **CLOSES Distinction I, Part I.** The two-column IA OCR is cascade-shattered (one-token-per-line fragmentation + two-column bleed) through every Respondeo and every footer, so the PDF column-band read is authoritative for those regions per the override; the OCR supplied the marker spacing and the clean *videtur*/argument prose.
+**Provenance.** Latin re-set column-by-column from the 450 dpi PDF column bands for printed pp.28–31 (PDF pp.48–51; Vol IV offset `pdf = printed + 20`) under the VOL II OVERRIDE, with the IA djvu OCR (`raw/bonaventure_vol4_raw.txt`, lines 3582–3919) as the base for clean prose and footnote-marker spacing. This chunk is the **DUBIA CIRCA LITTERAM MAGISTRI for Distinction I, Part I** — **twelve doubts (Dub. I–XII)** on the Master's text. **No prior skeleton existed for this chunk** (the auto-chunker missed the Pars I dubia block); the file was created fresh. This chunk **CLOSES Distinction I, Part I.** The two-column IA OCR is cascade-shattered (one-token-per-line fragmentation + two-column bleed) through every Respondeo and every footer, so the PDF column-band read is authoritative for those regions per the override; the OCR supplied the marker spacing and the clean *videtur*/argument prose.
 
-**Structure.** A dubia chunk: `has_scholion: false` (dubia carry no scholion), no `quaestio`/`articulus`/`pars` article fields beyond `pars: 1`. Nine doubts, each a short objection (*Videtur enim...*) against a phrase of Lombard's *littera* followed by a *Respondeo*. Dub. I (definition *Sacramentum est sacrae rei signum*); Dub. II (*invisibilis gratiae visibilis forma*); Dub. III (*eius rei similitudinem gerit*); Dub. IV (cinis vitulae); Dub. V (purified on the third and seventh day); Dub. VI (cleansing from leprosy); Dub. VII (threefold cause of institution); Dub. VIII (subjection to sensible things); Dub. IX (seeing God without a medium before sin).
+**Boundary repair (2026-06-16).** The original promotion stopped at **Dub. IX** and wrongly forwarded Dub. X–XII to the Pars II divisio. In fact the `DUBIA CIRCA LITTERAM MAGISTRI` block for d.1 Pars I runs to **Dub. XII**, and the Pars II `COMMENTARIUS IN DISTINCTIONEM I. / Pars II.` semantic opener begins only at raw **L3918** (its `DIVISIO TEXTUS` body at L3933, the *Post partem prooemialem…* paragraph), on the p.31 R-column. The `DIST. I. P. II. DIVISIO TEXTUS — 31` line at raw L3874 is a **page-top running head**, not the divisio's semantic start. Dub. X–XII (raw ~L3887–L3917, interleaved by the two-column layout: Dub. X label L3887, Dub. XI label L3909 in the L col; Dub. XII label L3890 in the R col) were transcribed from the p.31 L-col (Dub. X, Dub. XI opener) and R-col (Dub. XI continuation, Dub. XII).
+
+**Structure.** A dubia chunk: `has_scholion: false` (dubia carry no scholion), no `quaestio`/`articulus`/`pars` article fields beyond `pars: 1`. Twelve doubts, each a short objection (*Videtur enim...*) against a phrase of Lombard's *littera* followed by a *Respondeo*. Dub. I (definition *Sacramentum est sacrae rei signum*); Dub. II (*invisibilis gratiae visibilis forma*); Dub. III (*eius rei similitudinem gerit*); Dub. IV (cinis vitulae); Dub. V (purified on the third and seventh day); Dub. VI (cleansing from leprosy); Dub. VII (threefold cause of institution); Dub. VIII (subjection to sensible things); Dub. IX (seeing God without a medium before sin); **Dub. X (*Propter exercitationem similiter instituta sunt* — bodily exercise profits to little); Dub. XI (*duo sunt, in quibus consistunt Sacramenta, scilicet res et verba* — res vs verba, Hugh's threefold rebus/dictis/factis); Dub. XII (*promittebant et significabant tantum*, Augustine — promise of glory not justifying grace, gate opened by Christ).**
 
 **Page-split map (running heads verified eyes-on):**
 - **p.28** (running head "28 ... SENTENTIARUM"): q6's Opinio 3 / Conclusio / Corollarium fill the L-top and R-top; then the `DUBIA CIRCA LITTERAM MAGISTRI` header (spans both columns) and Dub. I begin (L-bottom), Dub. I's Respondeo continues onto the R column with Dub. II opening at R-bottom. Footer series 1–11; **q6 already claimed nn.1–4** (its body markers, ending at the *Vide scholion ad praecedentem quaest.* redirect), so this chunk picks up **p.28 nn.5–11** → [^1]–[^7].
 - **p.29** (running head "DIST. I. P. I. DUBIA. — 29"): Dub. II continuation + Dub. III (L col); Dub. III Respondeo + Dub. IV + Dub. V opening (R col). Footer series 1–12 → [^8]–[^19] (n.6 spills from the L footer into the R footer).
 - **p.30** (running head "30 ... SENTENTIARUM LIB. IV."): Dub. V Respondeo + Dub. VI + Dub. VII opening (L col); Dub. VII Respondeo + Dub. VIII + Dub. IX *videtur* (R col). Footer series 1–10 → [^20]–[^29].
-- **p.31** (running head "DIST. I. P. II. DIVISIO TEXTUS"): **Dub. IX's Respondeo only** (L-top), ending at *...non sic in statu primo²*. Footer series begins 1–2 (Dub. IX markers) → [^30]–[^31]; **p.31 nn.3+ belong to Dub. X and the Pars II divisio, NOT this chunk.**
+- **p.31** (page-top running head "DIST. I. P. II. DIVISIO TEXTUS — 31"): **Dub. IX's Respondeo** (L-top, ending *...non sic in statu primo²*), then **Dub. X + Dub. XI opener** (L-col) and **Dub. XI continuation + Dub. XII** (R-col); the Pars II `COMMENTARIUS IN DISTINCTIONEM I. / Pars II.` opener begins only after Dub. XI on the L-col / after Dub. XII on the R-col (raw L3918). Footer series 1–8 → [^30]–[^37] (n.1–2 Dub. IX; n.3–5 Dub. X; n.6–7 Dub. XI; n.8 Dub. XII). **p.31 n.9 onward (n.9 *Edd. formam et substantiam* — the divisio's *eius formam sive integritatem et substantiam*) belongs to the Pars II divisio, NOT this chunk.**
 
-**Apparatus count = 31** (p.28: 7 [nn.5–11]; p.29: 12 [nn.1–12]; p.30: 10 [nn.1–10]; p.31: 2 [nn.1–2]). All keyed to body markers in both languages. The four per-page footer-restart series are merged into one consecutive [^1]–[^31] run for this file.
+**Apparatus count = 37** (p.28: 7 [nn.5–11]; p.29: 12 [nn.1–12]; p.30: 10 [nn.1–10]; p.31: 8 [nn.1–8]). All keyed to body markers in both languages. The four per-page footer-restart series are merged into one consecutive [^1]–[^37] run for this file. p.31 markers: n.1→[^30] (Dub. IX *homo*), n.2→[^31] (Dub. IX *primo*), n.3→[^32] (Dub. X *utilis*, I Tim. 4,8), n.4→[^33] (Dub. X *exercitari*, Cod. Z), n.5→[^34] (Dub. X *multum utilis*, parallels), n.6→[^35] (Dub. XI *Hugo*, de Sacram. I p.IX c.6), n.7→[^36] (Dub. XI *strictius accipit*, parallels), n.8→[^37] (Dub. XII *a Christo*, Cfr. III Sent. d.18).
 
 **Scholion: ABSENT — `has_scholion: false`.** A dubia block carries no scholion; the article-master scholion lives in q5 §II (covering q6). Confirmed by the page layout (the dubia run straight into the Pars II `DIVISIO TEXTUS` with no `SCHOLION` header).
 
 **Hand-off picked up from `bon-sent-IV-d1-p1-a1-q6`:** q6's Notes forwarded that (a) q6 claims **only p.28 footer nn.1–4**, so the dubia must start its p.28 footer band at **n.5**, picking up nothing from q6 — honored: [^1] = p.28 n.5 (*communicare* / *sacrae rei signum*), [^2] = n.6 (*Secundum Aristot. VI. Topic.*), [^3] = n.7 (*In cod. P secunda manus* — the long cod. P alternate Respondeo); (b) q6 forwards no body splice — honored: this chunk opens fresh with *In parte ista sunt dubitationes circa litteram...* on the p.28 L col, grammatically self-contained, immediately after q6's *...secundum has duas vias⁴* on the R col; (c) the q6/dubia seam on shared p.28 is clean (q6's Corollarium ends before the DUBIA header). All three honored.
 
-**Cross-chunk hand-off FORWARDED to the Pars II divisio (`bon-sent-IV-d1-p2-divisio`, raw L3874, printed p.31, PDF 51):** This Pars I dubia chunk ends with **Dub. IX's Respondeo** on the p.31 L-top (*...non sic in statu primo²*). The very next item, **Dub. X** (raw L3887, *Item quaeritur de hoc quod dicit: Propter exercitationem similiter instituta sunt...*), is a SEPARATE block belonging to the Pars II divisio region and is **NOT** in this chunk. **Footer hand-off forward:** this chunk claims **only p.31 footer nn.1–2** (Dub. IX's two markers — *homo¹* and *primo²*). **The remainder of the p.31 footer band (nn.3, 4, 5 and onward — n.3 *Epist. I. Tim. 4, 8*; n.4 *Cod. Z exercitatio. Circa finem responsionis post sed...*; n.5 *Hoc dub. solvunt etiam Alex. Hal...*) belongs to Dub. X and the Pars II divisio, NOT to this chunk** — whatever chunk takes the Pars II divisio must start its p.31 footer band at n.3, picking up nothing from this dubia. The Pars I dubia forward no body splice into Dub. X (Dub. X opens fresh with *Item quaeritur de hoc quod dicit: Propter exercitationem...*). Note also that the **`DIST. I. P. II. DIVISIO TEXTUS` running head already appears on p.31** even though Dub. IX's Respondeo (the close of Pars I) physically sits on that page's L-top — p.31 is therefore a shared page between this Pars I dubia chunk (Dub. IX Respondeo + nn.1–2) and the Pars II divisio (everything from Dub. X / DIVISIO TEXTUS onward + nn.3+).
+**Cross-chunk hand-off FORWARDED to the Pars II divisio (`bon-sent-IV-d1-p2-divisio`, semantic opener raw L3918 [`COMMENTARIUS IN DISTINCTIONEM I. / Pars II. / De circumcisione et annexis`], body `DIVISIO TEXTUS` at L3933, printed p.31, PDF 51):** This Pars I dubia chunk ends with **Dub. XII's Respondeo** on the p.31 R-col (*...cum ianua sit aperta a Christo⁸*) — Dub. X, XI, XII are now INSIDE this chunk (boundary repair, see above). The Pars II divisio begins at the `COMMENTARIUS IN DISTINCTIONEM I. / Pars II.` opener (raw L3918), whose body opens *Post partem prooemialem et principalem Magister ponit hic partem incidentem…* (raw L3933). **CORRECTED footer hand-off forward:** this chunk now claims **p.31 footer nn.1–8** (Dub. IX *homo¹*/*primo²*; Dub. X nn.3–5; Dub. XI nn.6–7; Dub. XII n.8). **The p.31 footer band for the Pars II divisio begins at n.9** — `n.9 Edd. formam et substantiam` (keyed to the divisio's *eius formam sive integritatem et substantiam*); the divisio's first three footers (per the later subagent's read) are `Cod. U primus homo` / `Libr. I. de Sacram. p. IX. c. 6` / `Edd. formam et substantiam` — note the first two of those sigla (*Cod. U primus homo*, *Libr. I. de Sacram. p. IX. c. 6*) actually belong to THIS chunk's p.31 nn.1 and 6 (Dub. IX and Dub. XI), so the divisio's true first own footer on p.31 is **`Edd. formam et substantiam` (n.9)**. Whatever chunk takes the Pars II divisio must start its p.31 footer band at **n.9**, picking up nothing from this dubia. The Pars I dubia forward no body splice into the divisio (the divisio opens fresh with the `COMMENTARIUS` header). Note that the **`DIST. I. P. II. DIVISIO TEXTUS` page-top running head appears on p.31** because the page is shared: this Pars I dubia chunk holds Dub. IX–XII + footer nn.1–8, and the Pars II divisio holds everything from the `COMMENTARIUS IN DISTINCTIONEM I.` opener onward + footer nn.9+.
 
 **[?] flags:** none. All formulae, codex sigla (A, B, D, E, F, G, H, I, K, L, M, O, P, Q, U, V, W, Z, aa, bb, cc), cross-references (II Sent. d.23 / d.24; III Sent. d.3 / d.24 / d.33 / d.34; I Sent. d.1; IV Sent. lit. Magistri d.VI / d.VIII / d.48 / d.49; *tom. III pag. 720*), and the patristic/Aristotelian citations (Hugh *de Sacram.* I p.IX c.2; Augustine *Quaest. in Pentateuch.* II q.72 + *Confess.* X c.35; Gregory *Register* XI Ep.64; Rabanus *in Num.*; Aristotle *Topics* V/VI, *Metaphysics* V/VII, *Categories* de Qualitate, *Magna Moralia* I, *Ethics* V; Boethius *de Arithmet.* II) resolved cleanly against the PDF column bands. The OCR garbled several glyphs (*defmitione* for *definitione*, *lilleram*/*litleram* for *litteram*, *Sacraraentum* for *Sacramentum*, *eiiciebanlur* for *eiiciebantur*, *regitiva*/*yhregitiva* in the footer, *coroiiaiium*-type fragments in the q6 tail) — all resolved against the PDF.
