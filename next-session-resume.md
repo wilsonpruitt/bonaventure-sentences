@@ -3334,14 +3334,31 @@ See project `CLAUDE.md` → "VOL II OVERRIDE" + "Efficient single-chunk subagent
 - PDF `raw/doctorisseraphic04bona.pdf` = 1094pp; raw `raw/bonaventure_vol4_raw.txt`.
 - Decade polish gates fire at d.10 / d.20 / d.30 / d.40 / d.50 (Book IV's own boundaries).
 
-## d.1 progress
+## d.1 structure (CORRECTED — chunker mislabeled pars; re-chunked 2026-06-16)
+The auto-chunker put Pars I's art-unicus quaestiones under `d1-p2-a1-*` and buried the real Pars II in `-dup2` files; it also MISSED the Pars I dubia entirely. True structure now on disk:
+- **Pars I:** `d1-p1-littera`, `d1-p1-divisio`, `d1-p1-a1-q1..q6` (Articulus Unicus), `d1-p1-dubia` (Dub. I–XII).
+- **Pars II:** `d1-p2-divisio` (*De circumcisione et annexis*), `d1-p2-a1-q1..q3` (Art. I), `d1-p2-a2-q1..q3` (Art. II), `d1-p2-dubia`.
+
+## d.1 progress (as of 2026-06-16)
 | Unit | Status |
 |---|---|
-| `d1-p1-littera` | **Tier 2 complete** (commit c3571ba, pp.8–10, 16-entry apparatus). [?] flag: p.10's 3 littera body-markers have no printed footer (placeholder sources, flag for d.10 600dpi gate). |
-| `d1-p1-divisio` (skeleton; chunker labeled it `d1-p2-divisio` — verify pars) | NEXT |
-| `d1-p2-a1-q1..q6`, `a2-q1..q3`, dubia | skeleton (note dup2 variants — re-chunk/pars-relabel before translating) |
-
-**Cross-chunk hand-off into d1 divisio:** the entire p.10 "NOTAE AD COMMENTARIUM" footer (3 notes) + L-col continuation (Hugo / Ita codd. / Loco supra cit.) belong to the divisio chunk, keyed to its DIVISIO TEXTUS markers (documented in the littera's `## Notes`).
+| `d1-p1-littera` | ✅ Tier 2 (pp.8–10, 16 app). [?]: p.10's 3 littera markers had no printed footer — **RESOLVED by divisio** (refs are in p.10 L-col commentary footer); retire flag at d.10 gate. |
+| `d1-p1-divisio` | ✅ Tier 2 (pp.10–11, 6 app) |
+| `d1-p1-a1-q1` | ✅ Tier 2 — Whether the Sacraments ought to have been instituted (pp.11–13, 17 app, scholion I–IV) |
+| `d1-p1-a1-q2` | ✅ Tier 2 — On the signification of the Sacraments (pp.13–15, 20 app, no scholion) |
+| `d1-p1-a1-q3` | ✅ Tier 2 — On the containing power (pp.16–18, 20 app, scholion I–IV covers q3+q4) |
+| `d1-p1-a1-q4` | ✅ Tier 2 — Whether the Sacraments are effective of grace (pp.19–24, 62 app, scholion in q3) |
+| `d1-p1-a1-q5` | ✅ Tier 2 — Difference between old & new Sacraments (pp.24–27, 23 app, own scholion I–II) |
+| `d1-p1-a1-q6` | ✅ Tier 2 — Grace conferred in the Sacraments (pp.27–28, 14 app, scholion in q5) |
+| `d1-p1-dubia` | ✅ Tier 2 — Dubia I–XII on Master's text (pp.28–31, 37 app) |
+| `d1-p2-divisio` | ✅ Tier 2 — Pars II divisio textus (pp.31–32, 3 app) |
+| `d1-p2-a1-q1` | ✅ Tier 2 — Whether informed faith suffices (pp.32–33, 9 app, art-master scholion I–III) |
+| `d1-p2-a1-q2` | ✅ Tier 2 — Whether faith alone suffices (pp.33–35, 15 app, scholion in q1) |
+| `d1-p2-a1-q3` | ✅ Tier 2 — Whether sacrifice-power required in adults (pp.35–37, 22 app, scholion in q1) |
+| `d1-p2-a2-q1` | **NEXT** — Pars II Art. II q1 (*De circumcisione*), raw L4499, opens p.37 (claims all p.37 footers, fwd'd from a1-q3); ART II opener folds in |
+| `d1-p2-a2-q2` | skeleton (raw L4779) |
+| `d1-p2-a2-q3` | skeleton (raw L5073) |
+| `d1-p2-dubia` | skeleton (raw L5320, DUBIA CIRCA LITTERAM — distinct from Pars I dubia) |
 
 ## NEXT ACTION
-Promote the d.1 **divisio/COMMENTARIUS** chunk (COMMENTARIUS IN DISTINCTIONEM I at raw L1754; DIVISIO TEXTUS + TRACTATIO QUAESTIONUM). FIRST verify the pars labeling against raw (chunker emitted `d1-p2-divisio` + a `-dup2` — d.1's COMMENTARIUS may be single-pars; re-chunk if needed). Pick up the forwarded p.10 footer hand-off above. Then proceed through d.1's quaestiones (a1 q1–q6, a2 q1–q3) and dubia per the one-chunk-per-subagent cadence. Use offset +20, two-column override.
+Promote **`d1-p2-a2-q1`** (Pars II, Articulus II = *De circumcisione*, Quaestio I), raw L4499–4778, opens p.37. The ART II opener + "quaeruntur tria" (institution / form-integrity / efficacy) folds into q1. Claims all p.37 footers (a1-q3 forwarded them). Check whether Art. II has its own article-master scholion under q1 (covering q2/q3). Then a2-q2 (L4779), a2-q3 (L5073), and `d1-p2-dubia` (L5320) to CLOSE d.1. Then d.2. Cadence: one-chunk-per-subagent, offset +20, colcrop split_x 1880, two-column override.
