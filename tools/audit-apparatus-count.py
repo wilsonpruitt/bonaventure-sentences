@@ -30,6 +30,14 @@ def vol_cfg(volume: int) -> dict:
     """Per-volume paths/globs. Vol I = two raw files (pt1 d<24, pt2 d>=24);
     Vol II = a single raw file, no pt split. Default (volume=1) preserves the
     original Vol I behavior exactly."""
+    if volume == 4:
+        return dict(
+            cdir=REPO / "vol4",
+            cglob="bon-sent-IV-d*.md",
+            fn_re=re.compile(r"bon-sent-IV-d(\d+)-"),
+            raws=[REPO / "raw" / "bonaventure_vol4_raw.txt"],
+            split24=False,
+        )
     if volume == 3:
         return dict(
             cdir=REPO / "vol3",
@@ -120,8 +128,8 @@ def main():
     ap.add_argument("--max-d", type=int, default=48)
     ap.add_argument("--min-diff", type=int, default=5,
                     help="flag chunks where (footer_notes - apparatus_defs) >= this (default 5)")
-    ap.add_argument("--volume", type=int, default=1, choices=(1, 2, 3),
-                    help="1 = Vol I (default, pt1/pt2); 2 = Vol II (single raw)")
+    ap.add_argument("--volume", type=int, default=1, choices=(1, 2, 3, 4),
+                    help="1 = Vol I (default, pt1/pt2); 2/3/4 = single raw")
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
     cfg = vol_cfg(args.volume)

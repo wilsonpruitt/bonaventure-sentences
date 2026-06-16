@@ -36,6 +36,16 @@ REPO = Path(__file__).resolve().parent.parent
 
 
 def vol_cfg(volume: int) -> dict:
+    if volume == 4:
+        return dict(
+            cdir=REPO / "vol4",
+            cglob_all="bon-sent-IV-d*.md",
+            cglob_d="bon-sent-IV-d{}-*.md",
+            fn_re=re.compile(r"bon-sent-IV-d(\d+)-"),
+            raws=[REPO / "raw" / "bonaventure_vol4_raw.txt"],
+            ranges_from="frontmatter",
+            vlabel="IV",
+        )
     if volume == 3:
         return dict(
             cdir=REPO / "vol3",
@@ -221,9 +231,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--min-d", type=int, default=1)
     ap.add_argument("--max-d", type=int, default=48)
-    ap.add_argument("--volume", type=int, default=1, choices=(1, 2, 3),
+    ap.add_argument("--volume", type=int, default=1, choices=(1, 2, 3, 4),
                     help="1 = Vol I (default, ranges from raw DISTINCTIO headers); "
-                         "2 = Vol II (ranges from chunk frontmatter)")
+                         "2/3/4 = ranges from chunk frontmatter")
     ap.add_argument("--out", default=None, help="optional markdown report path")
     args = ap.parse_args()
     cfg = vol_cfg(args.volume)
