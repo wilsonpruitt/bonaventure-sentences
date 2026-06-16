@@ -4,75 +4,70 @@ volume: 4
 book: 4
 distinctio: 1
 type: divisio
-line_start: 1765
-line_end: 1826
-word_count_latin: 448
+line_start: 3931
+line_end: 3984
+word_count_latin: 436
 transcription_status: "auto-chunked 2026-06-16"
 format_version: 1
 ---
 
-# bon-sent-IV-d1-p2-divisio
+# bon-sent-IV-d1-p2-divisio-dup2
 
 ## Latin
 
 DIVISIO TEXTUS.
 
+                           Post parlem prooeraialem et principalem Magi-                                                         dit circumcisionis efflcaciam.                                                In    secunda vero remo-
+                sler ponit hic partem incidentem; et haec pars ha-                                                               vet et determinat quaeslionem annexara, ibi: Quae-
+                bet    ortum ex differentia praeassignata. Dixeral enim,                                                         ritur autem                         de viris, qui fuerunt ante etc,                                                      ubi
+                quod Sacramenta veleris                                 legis     non          efficiebant sive                  delerminat, quod remedium fuerit contra                                                                   originale
+                non praestabant gratiam iustiQcanlem, et hoc habebat                                                             ante circuincisionem.
+                instantiam                        in    circiimcisione;         ideo illam excipit et                                            Similiter secnntla pars,                                      in     qua deter.minat de
+                oslendit circumcisionis efficaciam. Et haec pars habet                                                           his         quae             speclanl              ad         huius                Sacramenti                 substan-
+                duas partes.                       In    prima delerminat circumcisionis ef-                                     tiara", habet duas parles. In prima determinat sive
+                ficaciam.               In             secunda       delerminat eius formam sive                                 dicit verilalem.                        In     secunda vero                           removet dubilatio-
+                integrilatem et substanliam, ibi: Hic dicendum est,                                                              nem, ullimo capitulo: Si vero quaeritur de par-
+                in quo instituta fuerit.                                                                                         vulis. Subdivisiones                                partium nianifeste apparent                                              in
 
-                      secundum hoc liber iste habet duas partes '.
-                          Et                                                                                                                              In parte autem prooemiali                    duo facit. Primo per
-               In prima agit de Sacramentis secundum sanilatem,                                                                               quandam parabolam ostendit, quae sit Sacramento-
-               quam tribuunt. In secunda agit de gloria ad quam                                                   ,                           rum causa institutiva. Secundo dicit, quae sint ge-
-               disponunt,               infra    distinclione                        quadragesiraa                          tertia:           neraliter de Sacramentis determinanda, ibi: De qui-
-
-               Postremo de conditione resurrectionis ^.                                                                                       bus quatuor primo consideranda sunt.
-                   Prima pars habet duas. In prima determinat de                                                                                          Pars     vero        principalis,      in     qua determinat de
-               Sacramentis               in generali.                    In    secunda           in speciali, in-                             Sacramentis in                   generali, habet          quatuor secundum
-               fra distinctione                 secunda              :    lam ad Sacramenta no-                                               illa     quatuor, quae Magister praemittit determinanda.
-               vae        legis       accedamus.                                                                                              Primo enim determinat, quid sit Sacramentuni.
-                          Prima pars, quae continet praesentem distinctio-                                                                    Secundo vero, quare institutum, ibi: Triplcii auiem
-               nem        ,habet tres partes. In prima enim ponit partem                                                                      ex causa Sacramenta inslituta sunt. Tertio vero,
-               prooemialem. In secunda principalem,                                                           ibi:          Sacra-            in     quibus        sit   institutum, ibi:             Duo autem sunt, in
-               menium est sacrae rei signum etc. In terlia inciden-                                                                           quibus         etc.    Quarto vero novorum ^                  et     veterum    as-
-
-               tem    ,       ibi :   Fuit tamen             inter illa                 Sacramenta quod-                                      signat differentiam, ibi:                       lam videre resiat differen-
-               dam etc.                                                                                                                       tiam         etc.
+                           Prima pars habet duas partes.                                      In priraa         osten-           hllera.
 
 
 
+                       '    Cod.        U primus liomo. Inferius ])i-o indiguU codd. M                                           a.     3;       0.    .\lbert.,        hic    a.    13;        S.      Tiiom.,        hic    q.    I.    a.    2.       qiiae-
+                indifjebat,            rod.B indigens, edd. perpcram indignus erat.                                              stiunc.          I,    ad      4.
+                       2    Cfr.       II.        Sent. d. 23. a. 2. q. 3; Ale.\.             llal.,   S. p. IV.    q. 1.                *       Libr.    1.    de Sacrani.               p.     IX.      c.    6.
 
-                      '       Hugo a S. Vict., Sum. Sent. tr. 4. c.                                  'I   ;   ex quo capilulo                                            NOTAE AD COMMENTAEIUM.
-               excerpsit Magister oninia quae in                               II.    parte huius                 dist.         liaben-               1    Coniungenda est ista propositio cum              fine   prooemii. Cfr.
+                m.    2. a.   I
+                                   ;   S.         Thom., Petr. a Tar.,     liichard. a Mcd., hic eirca lil.                              ' Iloc          dub. etiam tractant                         Ale.\. Hal., S.         p. IV.       q. 3.          m. 3;
+                       3 Epist.              I.    Tim.   t,   8.                                                                a.    3;        B.    Albert., hic a.               13;        S.      Thom., hic            q.   I.    a.     3;       Petr.
+                       *    Cod. Z exercitatio. Circa fiiiem                                                                     a Tar., liic q.                        2. et circa
+                                                                                   )'esponsionis           post serf,                                           I. a.                          lit. ;    liichard. a Med., hic a.                   I.   q.   !.
 
-               tur. Ipse            Hugo lianc ultimam proposiiionem sumsit ex August.                                                        supra        pag.    3,    nota    5.   — Edd. praeter fldem codd. legunt
-               tr.   30. in loan. n. S.                                                                                                       sic:    Postquam Magister supra in                tertio libro egit de reparatione
-
-                      -       Ita   codd. et ed.    1   ,   in        aliis        quia;    et       mox pro                    et    iam     per gratiam mediatoris Dei                 ct   liominum homini praestita, con-
-               codd.          AE et edd., excepta                1   ,   etiam.       — Hic               respicitur Ps. 22,                  sequenter in hoc quarto agit de Sacramentis, quibus                       fragilita-
-
-               2; cfr. ibi Glossa interlinearis.                                                                                              tis    humanae peccatorum vulnera ligantur et curantur etc.
-                      3       Loco supra     cit.   et      etiam             in     Comment. in Luc.                           2.    Loci            -    Plurimi codd. resurgentiim.
-               Scripturae sunt loan. 3, S, deinde Gen. 17, \i.                                                —       Inferius pro                    3    Cod. Z supplet Sacramentorum. Inferius in verbis Ma-
-               dudum clamat plurimac edd. dudum clamabat, ed.                                                         -1   clamavit.          gistri      pro differentiam non pauci codd. distantiam.
-                                                                        :                                                                                                                                                                     ,
+                refraganiibus codd.                       FGIIOX, alil et edd. addiint etiam                         ,   et              *       Cfr.    III.    Sent. d.           18.   a.      2.     q.    3.    — Superius pro graliae
+                cod. F subsiituit propter lioc pro per hoc.                                                                      edd. gratia. Subinde                          ])ro et illa              cod.        G quam illa.
+                       ^    Hoc dub. solvunt etiam Alex.                        Ilal.,   S.    p. IV.     q.   5.   m.   2.                 "^
+                                                                                                                                                 Edd.     formam et siibstantiam.
+                                                                                                                           :                                                                                                                     ,
 
 
 
 
-                                                                            DIST.                I.   P.    I.    ART. UNICUS QUAEST.                              I.                                                                    11
+           S2                                                                                                            SENTENTIARUM LIB. IV.
 
 
 
+                                                                                                                    TRACTATIO QUAESTIONUM.
 
-                                                                                             TRACTATIO QUAESTIONUM.
+                      Ad intelligentiam huius partis quaeritur de du-                                                                                      Primo quaerilur, utrum ad remedium origina-
+           plici      remedio, quod praecessit baptismum                                                                                    lis    sufflceret ' fides informis.
 
+                      Et primo de illo, quod praecessit tempore le-                                                                                        Secundo, utrum parvulis                         et        adultis sufficeret
+           gis naturalis '.                                                                                                                 virtiis solius fidei.
 
-                    Ad inlelligentiam eorum quae in hac prima parte                                                                      Tertio de continentia.
+                Secundo de iilo, quod praecessit tempore legis                                                                                             Tertio,   utrum            adultis     esset          necessaria           virtus
+           scriptae, scilicet de circumcisione.                                                                                             sacrificii.
 
-       determinantur, quaeritur de Sacramentis in generali.                                                                              Quarto de               efficacia.
-
-                    Et   primo          quaeritur           de         Sacramentorum                             insti-                  Quinto de ditTerentia Sacramentorum                                                 veterum
-       tutione.                                                                                                              et   novorum.
-                    Secundo de significalione.                                                                                           Sexto de gratia                       in    eis coliata.
+                Quantum ad primum quaeruntur tria.
 
 ## English
 

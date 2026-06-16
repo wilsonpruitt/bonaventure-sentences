@@ -6,230 +6,168 @@ distinctio: 1
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 2104
-line_end: 2320
-word_count_latin: 2106
+line_start: 4120
+line_end: 4273
+word_count_latin: 1507
 transcription_status: "auto-chunked 2026-06-16"
 format_version: 1
 ---
 
-# bon-sent-IV-d1-p2-a1-q2
+# bon-sent-IV-d1-p2-a1-q2-dup2
 
 ## Latin
 
-QUAESTIO                II.
+QUAESTIO II.
+
+                                                                                         Utrum ad remissionem originalis sufflcerel sola fides.
+
+                         Secundo quaeritur, utrum ad remissionem ori-                                                                                                                                 CoNTRA             :    1.    Si           parvulis sufficiebat sola fides tunc Ad opposi-
+          ginalis sufficeret sola fides.                                                            Et    quod sic, videtur                                                           tempoiis, et modo non suihcit nec tempore circum-
+                          1.        Per verbum Gregorii,                                                  quod ponitor in lit-                                                        cisionis sufficiebat                                   :    ergo videtur                         ,
+                                                                                                                                                                                                                                                                                                quod                fides          tunc
+?undamenia.tera^ :              « Pro          parvulis sola fides».                                                                                                                  esset maioris virtutis                                               quam post               :           ergo videtur, post
+                         2.      Item, Hugo de sancto                                                     Victore^ dicit, quod                                                        fuisse                 deterioris                  conditionis. Sed                                      post           non           fuit         de-
+          « tempore                     legis           naturae                          nnn fuerunt aliqua Sacra-                                                                    terioris                 conditionis "                          :    ergo      si        post                     non suEQceret,
+          menta                 in      praecepto»,                                 ergo sine                            omnibus poterat                                              nec prius.
+          homo salvari                         ;    sed nullus poterat salvari sine remis-                                                                                                            2.      Ilem, si sola fides sufficiebat                                                       ,        ergo parvulus
+          sione originalis                          :    ergo remissio originaHs poterat fieri                                                                                        in        omni stata                     salvari poterat                            :    cum ergo nihil opor-
+          sine aliquo                    Sacramento exteriori                                                       in        sola fide.                                              teret circa                       corpus pueri                             fieri, videtur,                             quod posset^
+                         3.         Item,          si    tempore                          illo            Sacramenta virtutem                                                         iustificari in                         ventre raatris.
+          tolam habebant a                                        fide         :         ergo tantum                                 faciebat                              sola                       3.      Item, videtur, quod' non posset parvulus mori
+          fides,quantum fides cum illis Sacramentis: ergo vi-                                                                                                                         sine            remedio, parentibus existentibus fidelibus;sed
+          detur, quod sola fide parentum potuerunt'^ salvari.                                                                                                                         modo non sic est, immo possunt et praepediuntur
+
+
+                     '     Cod. Z addit venini est, quod.                                                                                                                             fides           adiungit sine aliis, scilicct sine signo exteriori et                                                                        motu
+                     2     Vide        infra        d.     16.        p.           II.    a.        I.    q.       I.    seq.        — Paulo supe-                                    interiori.
+          rius pro qiiam                       originale cod.                            H quam ad hoc, ut remittatur                                                                             *    Libr.       I.   de Sacram.                         p. XI. c. S         ;       cfr.             ibid. c. 3.
+
+          originale, Vat. mortale, codd. C D                                                    W         et ed.          I    pro actuale quani                                                  5    Codd,        FHK poterant.
+          originale                  subslituunt                  originale ,                       quorum                    lectio             explicatur                      a                ^    Codd.        FHZ (L a secunda manu)                                                     sed           hoc        est   falsum.
+          cod. F: quia                   maior             dispositio                     ibi            requiritur         quam ad hoc,                                              Mox pro non sufjiceret codd. F H                                               I   K Z non sufjicit.
+          ul      remittatur                   originale.                  Subinde                       i)ro        attritio codd. F G H                                                         '    Ita    cod. F (E 1 a                       secunda manu),                               in       aliis      possit.         Supe-
+          contritio.                                                                                                                                                                  rius pro oporteret cod.                                     Z       oportebai.
+                     3    Hic c.        8.     Cod.           G integrum                            Grcgorii testimonium affert,                                                                  ^    Cod. Z supplet                            si       sola    fides        informis tunc sufficeret.
+          prout            a        Magistro            loc.       cit.            exhibetur, cod.                             Z post Pro par-                                        Idem ex cod. Z                          et    G            (E a secunda                  manu) subsfituimus non
+          vulis addit                 remedium                    erat.              Idem cod. Z superius post soJa                                                                   possel pro non possit.
+                                S.     Bonav.            — Tom.                          IV.                                                                                                                                                                                                                            5
+                                                                                                                                   ,,,,                    .                                                                                                  ,
 
 
 
 
-                                                                                                                                 De Sacrarnenlorum significatione.
+             34                                                                                          SENTENTIARUM LIB. IV.
 
+             etiam nati            :   ergo sunt peioris conditionis in statu gra-                                                        illa Sacramenta                  primi temporis magis ad devotionem
+             tiae       quam in statu naturae.                                                                                            proposita fuerunt                   quam ad obtinendam salutem in-
+                                                                                                                                          dicta »
+                                                        c    N c L u s 1 0.                                                                           Propter hoc aiia                    positio                  dicit,        quod professio conciusio.
+                                                                                                                                          fidei           sufficiebat,      qualitercumque                              fieret,            sive       signo,
+             In remissionem peccati originalis parvulis tunc                                                                              sive verbo, sive actu                           cordis,                      dum tamen                    fleret   a
+                        siifficiebat /idei professio ,                                  qualitercumque fie-                               parentibus, et haberelur respectus ad parvulum.
+                        ret, sive signo, sive verbo , sive actu cordis                                                                                Si        autem quaeratur                    :    quare magis                     fides        paren-       Quaesuo
+                                                                                                                                             „,..      ,.                 ,.       ,. ,
+                                                                                                                                                                                             incidens sol-
+                        dum tamen fieret a parenlibus cum respectu                                                                        tum? dici potest, quod parentes dicuntur hic omnes "tur.
+                        ad parvulum.                                                                                                      qui         curam gerebant de parvulo                                             ;   aut        si       dicantur
+                                                                                                                                          parentes proprie, ratio, quare                                                magis          in        fide ipso-
 
-              Secundo quaeritur de Sacramenlis quanlum ad                                                                                                                           est instilntum ad                               signiBcandum: ergo significare est
-         signiricationem et quod significatio sit de essentia
-                                                         ;
-                                                                                                                                                                                    ei     essentiale.
-
-         sive integritale Sacramenti, ostenditur:                                                                                                                                                    3.    Item, Sacramenta instituta snnt «ad nostram
-                           1.    Primo per definitionem                                                            sive                  notificationem,                            eruditionem », secundum quod Hugo^ dicit,                                                                                        et     Ma-
-Fundamenia.quam Magister ponit in iiltera':                                                                             «Sacramenlnm est                                            gisler tangit in littera; sed                                                 non ad eruditionem cor-
-         sacrae rei signum »                                                                                                                                                        poralium:                        ergo         ad              erudilionem                          spirilualium. Sed
-
-                           2.    Iteiii ,                Hugo                   in libro                    de Sacramenlis -                                   :        « Sa-       Sacramenta sunt corporalia                                                    et        non ducunt                            in      spiri-
-
-         cramenlum                              est materiale                                        elementum                           ex simililudine                            lualia                nisi        in     ratione                    signiflcandi,                           quia offerendo
-         repraesentans, ex                                                  inslitulione                          significans»: ergo                                       si       se sensibus                        aliud                faciunt               in        cognitionem                            venire:
-         Sacramentum                                         esse               suum habet ex                                             inslilutione                     et       ergo             elc.
-
-
-
-                       1    Ilic c.            2.                                                                                                                                   quod codd. passim                             inler           se        dissentiunt in usu                              vcrborum si-
-                       2    Libr.         I.    p.           IX.       C-       2.     — Cod. B cum tcxtu                                        originnli               post       gnare, signatum, signatio                                          ct significarc,                     significatum , signi-
-         materiale addit vel corporale foris vlsibUiler [tcxtus originnlis                                                                                                          ficatio.           Nos pro opportunilate has formos eligemus.
-         sensibititer']                   propositum,                            et in               finc    ex sanctificatione continens                                                       3     Sum. Sent. tr. 4. c. 1. et I. de Sacram. p. IX.                                                                c.    3.   —
-         aliquam invisibilem                                       et        spiritualem gratiam. In fine arg. pro                                                                  De Magislro vide                         hic        c.    S.   —         In    flne arg.                    respicitur definiiio
-
-         cssentiale cod.                            II       naturale.                     — Nolamus hic semel pro seqq.                                                            signi            ab August. data                   et a        .Magistro hic in                         lit.       c.    3.   allala.
-                                                                                                                             ,                                                                                                                   ;
+                              Ad hoc est duplex opinio cum dici-
+                        Respondeo             :                                                          ,                                rum, esl: quia per ipsos parvulus contraxerat cul-
+             tur, quod fides parentum erat in remedium parvulo.                                                                           pam congruum erat, ut eorum fide mereretur
+                                                                                                                                                      ,
 
 
 
+                        Quidaui dicunt, quod non fides                                             — habitus, sed                         gratiam.                                                                                                                     I
+  opmio 1.              ratione actus et motus sive professionis, et non                                                                            Ad illud quod obiicilur, quod videtur fides soiutio op-
+                                                                                                                                                      1.
+             ^fj^gg
+                                                                                                                                          1           •
+                                                                                                                                                         T               .11  1
+                                                                                                                                                                                                positornm.   1          1
+             cuiuscumque professionis sed eius qua profiteban-         ,                                                                  deteriorata; dicendum, quod ]llud non sequitur sim-
+             tur, parvulum curandum esse ab eo quem exspe-                                                                                pliciter , quod fides sit deleriorata, sed quod vel
 
-                                                                                                                                                                                                                                                                    1
+             ctabant '. Et de liac professione quidam dicunt, quod                                                                        deteriorata est,                  vel aliquid                          sit   ei   adiunctum, quod
+             oportebat,                quod         fieret        professio                  non      tanlum actu                         necessitate               servari       oportet, sicut sunt instituta Sa-
+             mentis vel oris , sed eliam in signo visibili, ul puta                                                                       cramenta sub praecepto.                                      Exemplum de observantia
+             in     oblatione             vel       in      sacrificio sive                   decimatione, vel                            manda.torum                 in    eo qui est liberae voluntatis, et in
+             aliquo alio signo ; quoniam Ecclesia fidelium semper                                                                         eo qui intravit religionem:                                            primo          sufficit            ad salu-
+             aliqua signa habuit, in quiinis fideles coUigebantur                                                                         tem     ,       secundo non ".
+             et     profitebantur                   fidem         in         facto.          Unde Auguslinus                                          ± Ad dlud quod obiicitur, quod secundum hoc
+             contra        Faustum ^                :    « In          nullum nomen                          religionis                   parvulus               in ventre        matris posset iustificari ; dicen-
+             sive       verum sive falsum, coadunari possent homines                                                                      dum, quod non habebat efficaciam fides secundum
+             nisi   ahquo signorum velut Sacramentorum visibilium                                                                         communem legem, nisi quando natus erat ex ulero,
+             consortio   unirentur». Unde dicunt, quod aliquod                                                                            sicut nec baptismus.                        Deus enim secundum ius com- Notandum.
+             erat signum cum fide. Et quod dicit Gregorius sola                                                                           mune non regenerat nisi prius per naturam natum.
+             fde        intelhgit         :       fide '     parentum                   sine          consensu vel                        Quare autem non,                        infra                dicetur in tractatu de ba-
+Non proba -fide parvuli.                — Sed haec                         positio      non congruit, quia                                ptismo '.
+             ipse addit in auctoritate                             :       « vel pro maioribus virtus                                                 3.        Sed quod de natis                        obiicit,               dicendum, quod
+             sacrificii».              Quare ergo                  dicit           sola? Quia'',                   cum de                 habent se sicut excedentia ^                                           et excessa. In hoc enim
 
+             maioribus                 agit,        addit         et        dicit:           virtus      sacrificii;                      excedit illud, quod parvulo periclitanti                                                             facilius po-
 
+             praeterea,                cum         nulla     '^
+                                                                  essent necessitatis, elsi                                   talis       terat subveniri ; sed in hoc aliud excedit, quia, pa-
 
-
-          14                                                                                              SENTENTIARUM LIB. IV.
-
-                   4.    Item, Sacramentum est elemenlum; aut ergo                                                                voluntaria               augeanlur                   et         minuantur                 tola die , sicut
-         purum elementum eorporale, aul etiam simul cuin                                                                         patet in diclionibus, ergo pari ratione videtur,                                                            quod
-         hoc dicit aliquid spirituale. Non purmn corporale,                                                                      Sacramenta possint mutari pro voto.                                                       —     Si   tu dicas,
-         hoc constat: ergo cum hoc dicit ahquid spirituale.                                                                      quod sunt signa voluntaria, quia ° a voluntate                                                                di-
-         Illud          ergo       spirituale                     aut unitur              ei    secundum veri-                   vina; sed               talia          sunt           cetera               creata, et           omne quod
-         taiem, aut secundum intentionem ; sed non secun-                                                                        est       sub caelo: ergo non debent                                                   dici    propter       hoc
-         dum veritatem                       —        illud             constat,         cum non sit capax                       signa voluntaria; aut                                 si        hoc, lunc pari                   ratione ce-
-         sicut infra ^ probabitur                                    — ergo secundum                           inientio-         tera alia creata.
-         nem. Sed uniri secundum intentionem est                                                           uniri ,       si-
-
-         cut signatum unitur signo: ergo de                                                     Sacrameotorum                                                                 CONCLUSIO.
-         integritate est ipsa significatio.
-                   Contra:              1.    Sacramenta principaliter sunt insti-                                                     Significatio est de esseniia                                               Sacramentorum.
-Ad opposi- tuta adcurandum; sed ad hoc, quod ahqua medi-
-         cina sitcurativa, nihil facit, quod curationem signi-                                                                             Respondeo                :       Ad praedictorum                              inlelligentiam est conciusio.
-         ficet, sed sufiicit solum, quod curet: ergo Sacra-                                                                      notandum, quod sacramentalis medicina de sua                                                                  in-
-
-         mentum            potest             esse                perfecta           medicina eliam                     sine     tegritate habel significationem, et haec                                                      communis est
-         significatione:                ergo signiflcatio non est de integritate                                                 et essentialis    omnibus Sacramentis.
-         Sacramenti.                                                                                                                       Ratio autem huius, ut credo, haec                                                          est:   quo- Raiio i.
-                   2.    Item,          si    Sacramehtum                            est      medicina, Sacra-                   niam sacramentalis medicina est sufjiciens ' medica-
-         mentum aliquo modo est causa; sed causa non est                                                                         men; quoniam igitur homo lapsus non tanlum lapsus
-         signum effectus, immo magis signatum": ergo Sa-                                                                         est in         pronitatem concupiscentiae,                                             secl    etiam in cae-
-         cramenti polius est significari quam significare.                                                                       citatem ignorantiae: ideo, ut in utroque curetur per
-                   3.   llem, si signum est de integritate Sacramenti;                                                           Sacramentum, non tantum debet habere Sacramen-
-         ergo quod non significat non                                              est     Sacramentum,                   et     tum quid graiuitum, sed etiam mysticum^, et ita
-         quod non significat huic, ei cui non significat, non                                                                    figurativum et significativum.                                              — Rursus, quia                    est Ratio 2.
-         est Sacramentum     sed Sacramentum baptismi nihil
-                                                  ;                                                                              sufficiens medicina de se, fert                                              secum suum praepa-
-         significal parvulo: ergo parvulo non est Sacramen-                                                                      ratorium. Unde sicut medicina corporalis non pro-
-         tum: ergo dura parvulus recipit baptismum, non                                                                          dest, nisi praeparetur suscipiens, sic necesse est fieri
-
-         recipit Sacramentum. Sed hoc est absurdum': ergo                                                                        spiritualiter; et                      quoniam                  fides disponit             hominem, ut
-         signum non est de integritate Sacramenti.                                                                               ei    sint     salutifera                   Sacramenta;                     et        motus fidei excita-
-              4. Item, sj signum, aut ergo demonstrativum,                                                                       tur per exhibitionem signi,                                                ut        requirat signatum
-         aut prognosticum, aut rememorativum ; non potest                                                                        et    per hoc horao disponitur ad curalionem: ideo tan-
-         esse nisi dem.onstrativum, quoniam efficit quod figu-                                                                   quam medicina                              efficax              et     sufficiens             sacramentalis
-         rat, vel         sallem,                 si        non         efiicit,         cum signum                et    si-     medicina habet significationem                                                       de sua integritate
-         gnatum sint relativa, sunt simul natura: ergo si                                                                        et ita, essentialiter                            loquendo, Sacramentum est                                    si-
-
-         signum est praesens, el signatum *. Sed demon-                                                                          gnum.
-         strativum non esl, ut videtur, quia, si hoc cum                                                       —                           1.    Et per hoc patet responsio ad                                                 primum argu-           soiuno op-
-
-         demonstret  inesse gratiam
-                               ,      et non insit   tunc                     ,                            ,
-                                                                                                               —                 mentum          ,
-                                                                                                                                                     quod               obiicit         de medicina corporali                            :   quo-
-                                                                                                                                                                                                                                                     '"'^'""'''°'
-
-
-
-         videtur esse falsum signum: ergo et falsum Sacra-                                                                       niam non                est simile, ut                      iam            patel.
-
-         mentum.                                                                                                                         Ad illud quod obiicitur, quod causa non est
-                                                                                                                                           2.
-
-            5. Ilem, si signum est, aut est natwale,^ mt                                                                         signum effectus: dicendura, quod illud verum est,
-        voluntarium °. Si naturale: ergo Sacramenta sunt a                                                                       quando habitudo signandi consequilur habitudinem
-                       — cum
-        natura; et si hoc           quod    naturale,                   illud                  est                       sit     causandi; in Sacramentis autem antecedit.      Vel Aiiier.                                             —
-        idem apud omnes —-tunc ergo   Sacramentum; quod                            et                                            dicendum quod hoc verura est in his quae habent
-                                                                                                                                                     ,
-
-
-
-         certum          est esse falsum. Si                                  voluntarium: ergo cum                              vere ac proprie rationem causae                                                       et effectus ;         vera
+             professio           de congruo deberet esse                                           cum           fide,        non         rentibus               entibus      infidelibus,                         adultus             salvari            pote-
+             tamen necessario. Unde Hngo                                      :    « Coramonemur,                            quod         rat , sed parvulus                  non         ;
+                                                                                                                                                                                               praeterea                ,   dubium est                ,
+                                                                                                                                                                                                                                                          quin
 
 
 
 
-               ^   Quaest.         i.   —    Inferius post cst codd. omittunt imiri.                                             In   principio arg. post                    Uem, si edd. supplent Sacramentum est,
-               2 Aristot. ,          de      Divinat.              per        somnum           c.    I:   Dico     autem         codd.     K    aa est.
-         causam quidem, ut lunam defectus solis, et laborem febris; si-                                                                ^ Cfr.        hic    lit.     Magistri,              c.    i.    —        Infra    respiciuntur verba
-        gnum vero          defectus stellam subintrare,                                    asperitatem         vero     lin-     Boeth.,    de Divisione                :    Nani quod apud omnes idera est naturae
-         guae febriendi.                                                                                                         est etc. Cfr.           tom.      III.      pag.      818, nota                 1.    — Aliquanto       inferius
-               5   Cfr. infra d.             i.       p.    II.    a.    2.   q.    I.   seqq.      — Superius pro               post in dictionibus , pro                        quo        ed.        I   inductionibus ,           Vat.   addit
-         huic cod. aa hoc.                                                                                                       vel terminis.
-               *   Boeth., V. de                  Consol.               prosa      4:    Omne        etenim      signum                ^   Edd. supplent sunt, et subinde pro sed lalia sunt subsli-
-        tantum quid            sit      ostendit,                 non vero          efficit    quod       designat.      —       tuunt sed       cum talia sint, cod.                             I    contra, sed ialia sunt.
-         Aristot.,      de Praedicam.                      c.   De      his    quae ad aliquid                 (relativis)             '   Cod.      X bene efjicax et sufjiciens.
-        ait:   Videntur autem ipsa ad aliquid simul esse natura                                                  elc.    —             8   Cfr. infra d.                3.   p.   I.   a.        I.    q.   3.    in corp.
-                                                                                                                                             — ,::                                                                                                                        ,
+                    '   Edd.     cum pluribus codd. cxspectabat.                                                                          magis ad exercendam devotionem proposita fueranl, quam etc.
+                    -    XIX. c. 11, cfr. supra pag. 12, iiola 1.
+                        Libr.                                                                                                             — Pro commonemur Vat. commemoremur.
+                 3 Cod. G (K a secuiida manu) de fide.    Hugo a S. Vict.                         —                                               ^       Praepositivus, S. p. IV. q. 3, ad idem ostendendum uti-
+             Sum. Sent. tr. 4. c. 1 : Sed cum pro parvulis saerificia offe-                                                               tur   argumento de eo               «   qui hodie fecit votum conlinentiae; heri
+
+             rentur, quomodo verum erit quod dicit Gregorius « Sola pro                                      :                            sufficiebat fides sine continentia, hodie                                     non sufBcit             :   ergo heri
+             parvulis fides »? Ad quod potest dici, quod per sola non exclu-                                                              fuit fides                         quam modo sit».
+                                                                                                                                                                maioris efficaciae            in       eo,
+             duntur sacrificia            ;   sed dicitur sola fides                    i.    c.    nuda et in myste-                          7 Dist. 6. p. II. a. 1. q. 1.  Superius <pro ius commune —
+             rio velata        tunc fuisse in parvulis                        i.   e.   in    iis    quibus non erat                      quod praebent codd. [) F G H P V cbdd. Q aa bb legem com-          ,
+
+
+
+             revelatio facta futurae                                 Pro maioribus virtus sa-
+                                                        incarnationis.                                                                    muneni alii codd. vel cum ed. 1 secundum visionem, vcl ciim
+                                                                                                                                                           ,
+
+
+
+             crificii :    qiiia       perfecti,        quibus reveialum fucrat mysterium in-                                             Vat. secundum insiitutionem. Aliquanto supei'ius codd. EZ se-
+             carnationis,          virlutem sacriticiorum                          intelligebant,            quid           scilicet      cundum rationem et legcm communem pro secundum commu-
+             significarcnt         illa   sacrificia.                                                                                     nem legem.
+                  ^ Locus in edd. et fere omnibus codd. corruptus. Notavi-                                                                        *       lla   codd. F G II P    ;   alii         codd. pro se sicut excedentia sub-
+             mus 16 diversas lectiones in solis codd., et quidem omnes                                                                    stituunt vel            cum edd. in se opera excedentia                                  ,   vel se        opera si-
+             corruptas ve! parum congrLias; sequimur cod. cc.                                                                             cut excedentia. Superius post obiicit in codd.                                               FHZ V (P a se-
+                   ^ Cod. K (bb a secunda manu) supplet Sacramenta  cod. U                                              ,                 cunda manu) addilur quod nunc magis possunt periclitari.                                                           —
+             leglt cum illa sacra non essent, codd. A M cum nullius essent.                                                               Seq. propositionem plurimi codd.                                       sic    exhibent       :       in   hoc enim
+             — Respicitur dictum Hugonis                                   a S. Vict.        I.    de Sacram.                p.   XI.     excedil illud,             quod parvulo (codd.                           MORTU parvulus) faci-
+             c.   3 :   llla   (Sacramenta sub naturali lege) voluntatis magis esse                                                       lius periclitari poterat            quam subveniri (codd. M R T suble-
+             videntur,         isla     (Sacramenla sub gratia) necessitatis,                                    illa       ex volo       vari, cod.             U ei subveniri). Inferius pro entibus quod ed. 1                          ,
+
+
+
+             celebrata, ista ex praeceplo etc.                               — Seq. Hugonis testlmonium                                   cum aliquot codd. omiltit, Vat. existentibus. Subinde post adul-
+             Iiabetur ibidem :                Unde coniicimus, quod Sacramenta illa prima                                                 ius codd. K aa (II a secundii manu) addunt per propriam fidem.
+                                                     :                                                                                                              —
+                                                                                                                                                                    ,,                                                                                                                          :   ;
 
 
 
 
-                                                                                                 DIST.               I.     P.    I.    ART. UNICUS QUAEST.                               II.                                                                           Ib
+                                                                                                                                DIST.        I.      P.       11.   ART.    I.     QUAEST. 111.                                                                                             3b
 
-             enim causa nalura prior                                              est ',        et     ideo a                  sensibus              propriam respectu praesentis, sed allegoricam respe-
-                                                          quod
-             nostris remotior; et quia significatio est per id                                                                                       ctu praeteriti.               — Quod ergo                                  obiicitur,          quod signum
-             est nobis propinquum  ideo significamus causam per       ,                                                                              et    signatum simul sunt natura; dicendum, quod ve-
-             effectum, non e converso. Sed hoc non est verum                                                                                         rum est sub ratione signi, non autem oportet, quod
-             in proposito.                     Quia enim Sacramenlum non habet vcre                                                                  simul sub                  ratione              rei substratae '%     quoniam haec
-             rationem causae, nec gratia rationem effectus^; ideo                                                                                    intentio           signorum non ponit,                                    nisi apud rem     esse
-             gratia sublimior                              est et a sensibus nostris remolior,                                                       animam.              —     Simililer,                 quod obiicitur, quod si sunt
-             et corporale                          nobis est                propinquius: ideo recte per                                              demonstraliva, tunc sunt falsa; dicendum, quod                                                                     si-
+                 oporteret, utrumque esse fidelem et alia multa bona                                                ;                                                    quae proveniunt                       ,   scilicet            obedientia et humilialio et
 
-             illud            gralia significalur,                            non e converso. Propositio                                             gnum duplicem habet veritatem ut dicit Ansel- »rotandom.                               ,
+                 nunc habentur, quae non tunc ', ut puta maior cer-                                                                                                      consimiiia; et ideo non sequitur ex lioc,                                                              quod       sta-
 
-
-
-             vero             ilja    locum habet in vera causa.                                                                                     mus": unam ab instiliUione aliam ab usu. Ab in-                            ,
-
-
-                          3.        Ad        illnd       quod             obiicitur,           quod Sacramentum                                     stituiione , quia imposita est ad hoc significandum;
-Noiandum. non            significat parvulo;                               dicendum, quod signum du-                                                 et    haec veritas non polest permutari.                                                           Alia veritas
-             plicem habet comparalionem: et                                                          ad    iliud               quod          si-     est  secundum n.suHj, scilicet quando significat illud,
-             gnificat, et ad                            illud cui            significat; el                    prima              est es-            ad quod est instituta per usum, et hanc veritatera
-             sentialis et                     habet ipsam semper                                in    actu, secundam                                 amittit. Signum igitur sacramentale quantum ad pri-
-             autem habet in habitu;                                          et a       prima (S\Q,\iw signum,                                       mam semper est verum; similiter qoantum ad se-
-   simiie.   non a secunda. Unde circulus super tabernam sem-                                                                                        cundam semper est verum, quantum est e.\ parte
-             per est signum, etiam si nullus aspiciat; sic Sacramen-                                                                                 sui sive etiam dantis, sed impeditur solum a parte
-            tum semper signum est, quamvis nullus cognoscat.                                                                                         suscipientis : ideo                        Sacramentum non falsificatur, sed
- soiuiio 2, Sed tamen adhuc non solvitur, quia, quamvis sit si-                            '               '
-                                                                                                                                                     male recipiens                    falsus et fictus iudicatur".
-melior.
-            gnum, non tamen sigmficat huic. Ideo dicendum,                                                                                                      5.    Ad illud quod obiicilur, quod non est natu-
-            quod sicut parvulo sufficit fides afiena^ ita sufTicit,                                                                                  rale       nec        voluntarium                     ;    dicendum, quod Sacramen-
-            quod significetur ipsi parvulo in alio: unde quamvis                                                                                     tum habilitatem ad significandum habet ex natura,
-            non significet ei in se, significat tamen in alio.                                                                                       sed aclualilatem habet ex institutione. Unde Hugo ^ Notandum.
-                 4. Ad illud quod obiicitur, quo genere signi                                                                                        dicit,      quod «triasunt in Sacramento: similitudo e\
-  Notandum continetur    dicendum, quod aliqua Sacramenta si-
-                                      ;                                                                                                              creatione, significatio ex                                           institutione,             sanctificatio
-            gnificaverunt quod /"(ttonfm erat, ut legalia; aliqua                                                                                    ex benedictione. Prima est indita per Creatorem, se-
-             quod praeterilum , ut Sacramenta noslra, quae                                                                                   si-     cunda adiuncta per Salvatorem,                                                        tertia    administrata
-             gnificant passionem praeleritam, sicut dicit Glossa su-                                                                                 per dispensatorem ».                         quod    — Quod ergo                             obiicitur,
-             per illud ad Romanos sexto^: Consepulti esiis                                                                              etc.         estDeo voluntarium nobis est naturale; dicendum,
-             «     Quidquid gestum                                est in cruce Christi, in his                                           non         quod verum est, si det rei illud non solum, ut in
-             tanlum                 dictis,             sed etiam gestis figuratur »                                       ;   loquitur              ea    sit,       sed etiam ut                        sit        ab ea,               ita    quod    sit    a prin-
-             de      Sacramentis. Sunt                                     etiam        signa          demonstraliva                                 cipiis subiecti ;                 et       quia           lalis           ratio        non     est in          Sacra-
-             quia significant quod donant; unde duplicem. habent                                                                                     mentis, ideo vere et proprie sunt voluntaria.                                                                  —   Et
-             significationem                        ,
-                                                          propriam                scilicet            et        allegoricam                          sic patet,            quod sunt signa,                                 et           qualiter significant ^
-
-
-
-
-                     '    Edd.           supplent               effectu.     —        Aristot.   ,    U.        Poster.            c.        17.     geritur.    —        Inferius pro           quod donant, quod exhibent codd. G I
-             (c.    14.):       Causa enim prius                          est eo, cuius est causa. Et                             1.   Pliys.        Vbb, alii cum cdd. g::nd donatur.
-             text.       2.    (c.    '!.):     Innata autein est ex nolioribus «ofc/s via et ma-                                                          ^    Ed.   1    significatae, Val.                    autem addit id esl denominatae.
-             nifeslioribus               ad manifestiora naturae                          et    notiora; non enim sunt                                      ^   Dialog. de Veritale   ubi solvens hanc quaestionem
-                                                                                                                                                                                                      c.        2.
-             eadem             et    nobis          nota         et   simpliciter.             Quapi'opler                 necesse           est     utrum enuntialio vera et recta sit^ cum significat esse quod non
-             ad hunc modum procedere ex immanifestioribus quidem natu-                                                                               esl, ait:« Vera quidem non solet dici, cum        significat esse
-             rae,        nobis        autem manifestioribus ad manifestiora naturae                                                           et     quod non est; veritatem tamen et rectiludinem habel, quia fa-
-             noliora.                                                                                                                                cit quod debet: Sod cum significat esse quod est, duplieiter facit
-
-                     2    Cfr.       infra q. i.           —      Inferius pro et corporale edd. et etiam                                            quod debet, quoniam significat et quod accepit significare et ad
-             qiiia corporalc.                      Eacdem cdd. in liiie solut. addunt sicut est sol                                                  quod facta est... .\lia igitur ost rectitudo et veriias enuntiatio-
-             et    tuna.            Pro       Proposido vero codd. E K L !\l X aa Propositio                                                         nis, quia significat ad quod significandum facla est, alia vero,
-             igitur.                                                                                                                                 quia signiflcat quod accepit signiflcare. Quippe ista immulabilis
-                     3    Vide        infra p.            II.    a.   I.    q.   2.    et d.     4.   p.       II.    a.       2. q.    I.   —       est ipsi orationi,            illa     vero mutabilis; lianc namque semper ha-
-             Exemplum do circulo iam                                       occurrit      iii    Ilug.      a     S.       Vict.    ,    Sum.         bel, illam vero non semper; istam                                      cnim naturaliler habel, illam
-             Senl.       tr.    4.    c.      1.    — Post Unde cod. Z addit                               sicut.                                    vero accidcnlaliler et secundum usuni etc. In fine capituli nolatur,
-                     *    Vers.          4.   —     Glossa,           quae est ordinaria apud Strabum et                                             quod praedicla ratio veritaiis consideranda est inomnibu&signis.
-             Lyranum, sumla cst ex August., Enchirid.                                                 c.   53. n.              14: Quid-             —    Inferius pro imposita                      et inslituta Val.                          impositum      et    insii-
-             quid igitur geslum cst                              in   cruce Cliristi, in sepultura,in resur-                                         tuium.
-             rectione tertio die, in asccnsione in caelum, in sede ad dexte-                                                                               ' Cfr.       infra     d.   4.       p.         a.        2.             2.   seq.
-                                                                                                                                                                                                     I.                   q.
-             ram Patris, ila gestum cst,                                   ut his       rebus non mystice tantum                                           '    Libr.      I.   de Sacram. p.                    I.\.      c.       2.
-             dictis, sed eliam                     gcstis configuraretur vita chrisliana,                                        quae hic                  5    Vide scolion ad pi-aecedenlem quaesl.
-                                                                                                                          ;                                                                                                                                             :
-
-
-
-
-         16                                                                                          SENTENT[.\RUM LIB. IV.
+                 titudo salutis, maius munus graliae et alia bona,                                                                                                       tus       iile    esset melior.
 
 ## English
 

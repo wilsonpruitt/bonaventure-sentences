@@ -6,297 +6,240 @@ distinctio: 1
 articulus: 1
 quaestio: 3
 type: quaestio
-line_start: 2321
-line_end: 2604
-word_count_latin: 2940
+line_start: 4274
+line_end: 4498
+word_count_latin: 2067
 transcription_status: "auto-chunked 2026-06-16"
 format_version: 1
 ---
 
-# bon-sent-IV-d1-p2-a1-q3
+# bon-sent-IV-d1-p2-a1-q3-dup2
 
 ## Latin
 
-QUAESTIO         III.
+QUAESTIO                111.
+
+
+                                                                   Utrum in adullis requireretur virtus sacrificii in remedium originalis.
+
+                             Tertio quaeritnr,                                   ulrum requireretur virtus sa-                                                             non potest esse accepta                                 :   unde dona iniquorum non
+                 crificii         in           remedium                     originalis   in adultis. Et quod                                                             probat AUissimus^ ; sed                                        ista erat                 contra pietatem,
+                 sic ,       videlur                                                                                                                                       quia consumebat fruslra quod erat utile pauperibus
+                             1.       Per Gregorium                                      in         littera', qui dicit,                                      quod         ergo         etc.
+
+  Argg. pro niaioribus                         necessaria erat non tantum fides, sed vir-
+parle   alUr-
+maiiva.       tus        sacrificii :                         ergo cum Gregorius loquatur praecise                                                                                                                  c         N c L u S I 0.
+                 determinat,                             quod           est necessarium. Si dicas,                                                            quod
+                 loquitur                  sine               praecisione, ut tangat, quid                                                        sit          con-
+                                                                                                                                                                           Sacriftcia legis naturae nullam de se habehant ef-
+                 gruum            ;       lunc nulla esset difTerenlia,                                                            quia           similiter
+                                                                                                                                                                                     ficaciam                 curandi vel iustiftcandi, sed solum
+                 congruebat, pro parvulis offerri sacrificium.
+                                                                                                                                                                                     ratione ftdei Redemptoris.
+                             2.        Item, plus poterat adultus                                                               quam parvulus,
+                 et   maius debitum peccati habebat                                                                         :    ergo et plus te-
+                 nebatur facere                                quam parvulus.                                                                                                           Respondeo: Ad horum intelligentiam                                                       est prae-
+                             Contra:                          1.   Terapore legis nalurae non fuitprae-                                                                    nolandum, quod, sicut dicit magister Hugo^ « in lege
+  Pro parte      ceptum                   uisi           naturale           ;    sed Sacramenta non sunt na-                                                               naturae             tria      fuerunt Sacramentorum genera, scilicet                                                           Sacramen-
+                                                                                                                                                                                                                                                                                                        torum 3 ge-
+                 turalia, ut supra^ patuit: ergo                                                                   nullum               fuit         ibi       sub         decimationes , oblationes et sacriftcia »                                                      .   Ad quorum neraet 3 no-
+                                                                                                                                                                                                                                                                                                        tanda.
+                 praecepto, nullum                                      fuit              ergo necessitatis                             :       ergo sine                  notiliam             tria          sunt notanda: primo, quae                                          sit    ratio
+                 sacrificio poterat esse                                         salus adullo.                                                                             inslituendi                 illa    Sacramenta; secundo, quis modus
+                             2.           llem, Hugo de Sacramenlis ^ dicit, quod re-                                                                                      tertio,         quae          efftcacia.
+                 medium                    contra originale fuit decimatio ; Gregorius                                                                                                  Prima ratio est Dei honoriftcatio.                                               — Notandum                      Ratio 1. in-
+                                                                                                                                                                                                                                                                                                        stitnendiSa-
+                 dicit,       quod sacriftcium. Sed contra: unius generis                                                                                                  ergo, quod fides in                               iustis       omni tempore cucurrit, cramenta.
+                 niorbi           unum debet esse remedii genus.                                                                                                           et nullus nisi                     in fide salvatus                           est.        Tempore            igitur
+                             3.       llem, morbus originalis peccati non iteratur^                                                                                        legis naturalis                     haec fides erat, quae fideles                                           iilunii-
+
+                 ergo debet habere remedium non iterabile; sed tam                                                                                                         nabat ad hoc, quod crederent, quod Deus erat crea- Articnli 3.
+                 sacrificium                    quam decimatio suiit iterabilia                                                             :     ergo non                 tor,     quod redemptor, quod remuneraior '". Ideo fides
+                 sunt convenientia remedia contra originale.                                                                                                               illuminabat, et dictamen naturae consonabat, ut homo
+                             Item          ,
+                                                quae erat                        ista               virtus sacrificii ? et vide-                                           Deo          serviret, et sua ab ipso recognosceret, et                                                          hoc
+Uiiaestio in-    tur , quod nullius utilitatis% quia liuiusmodi obla-                                                                                                      quod credebat, signo                                visibili                 etiam           quodam modo
+  cidens.         .
+                                                                                                                        ,
+                 tio non ev3i.t praeceplum , quia bonum, quia tunc                                                                                                         manifestaret. Ideo signa fuerunt tempore legis na- Signa ho-
+                                                                                                                                                                                                                               ram in obia-
+                 semper esset praeceptum ergo erat bonum , quia                                 :                                                                          turae, in quibus Deus ut creator " honorabatur, qui tione, sacri-
+                                                                                                                                                                                                                                                                                                        ficio ,   deci-
+                 praeceptum ; sed non erat praeceptum ergo non                                                                          :                                  omnia creaverat, ut                               in        oblatione ; simililer honora- matione.
+                 erat bonum.                              —
+                                 Si tu dicas , quod valet ad fidem,                                                                                                        batur ut redemptor , ut puta                                                 in       sacriftdo ; ut per-
+ obiectio   1.   quac erudiebatur                                      in        illo           signo               ;       contra :            ibi           fiebat       fectus          remunerator ,                       in       decimatione.                          — Denarius                 De nnmero
+                                                                                                                                                                                                                                                                                                        den.irio.
+                 oblatio et fumus materialis                                                        :    ergo si credebat fumum                                            enim          est      numerus perfeclissimus, quia                                                  tres perfe-
+                 acceptum a Deo                                    ,   credebat                     ,        Deum                odorare '                    mate-        ctiones             habet          in   se    :     prima               est           unitatis, secunda
+                 riahter              :    ergo credebat                             ,     eum esse corporeum                                             :    ergo        ternarii, tertia senarii, quae simul iuncta '- faciunt
+                 videtur, quod polius esset in                                                                 nocumentum fidei.                                           denarium; et ideo                                 ibi       status            est.       Propter hoc ho-
+                 Si dicas , quod valebat ad excilationem devotionis;                                                                                                       norabatur Deus ut perfectus remunerator. Unitas
+ obiectio 2.     contra : omnis devotio                                          ,
+                                                                                         quae est contra pietatis opus                                                     est      enim perfecta, quia est omnis numeri perfectio;
 
 
 
+                         1    l!a          codd.              FH; in aliis codd.                                   ct       edd.    iiiiile       omillimtLir                       '    Permulti codd.             et edd.            perperam adorare. Mo.\ in codd.
+                 vei'ba       bona nunc habeniur , quae non tunc.                                                                                                          desidcratur eum.
+                              Hic c. 8.                  —
+                                        Voci maioribus cod. Z praemiltit pro. Subinde                                                                                               s
+                                                                                                                                                                                         Eccli.   34, 23.          — Superius pro exciiationem deioiionis
+                 post sed codd. G V cc (bb a secimda manu) non male addunt etiam.                                                                                          codd. F G exercitaiionem devoiionis. Cfr. verba Hugonis supra
+                         3    Partis            I.       q.    2.      ad   5.       Vide etiam verba Hugonis a S. Vict.                                                   pag. 34, nola                3.
+                 allegala in quaest. praeced.                                             circa              finem          corp.                                                   '    Libr.    l.    de Sacram.             p.      XII. c. 4             ;   cfr.   ibid.   p.   XI.   c.   3 ;
+                         *    Libr. XL c. 4. et 6. Cfr. de Sacram. legis naturalis
+                                               I.        p.                                                                                                                et     de Sacram. legis naluralis                           et scriplae.
+                 et scriptac (versus finem).    Mox post remedium cod. H sub-    —                                                                                                  '"    Vido 111. Sent.           d.       28. a.       1.       q.    2.      — Superius pro quae
+                 iungit tunc.                                                                                                                                              fideles       illuminabat cod. Z qua fideles illuminabantur.
+                         5    Cfr. H.                Sent. d. 32.                    a.    I.           q.    I.    et      d.   3.3.   a.      1.    q.       I.                   " lla cod. H (Vbb a secunda manu), cod. F omittii Deus,
+                         ^    Cod.             R brevius liem, videtur quod isia virius sacrificii                                                                         alii    cum edd. omittunt ut creator.
+                 nullins erai uiiliiatis.                                                                                                                                           '-    Cod. bb qui simul iuncti.                            _
+                                                                                                                                                      ,;,
 
-                                                                                           De Sacramentorum continentia.
 
 
-                 Tertio quaerltur, ulrum Sacramenta sint gratiae                                                              sed gratia est huiusmodi: ergo non determinat sibi
-         contentiva. Et                    quod sic, videtur.                                                                 materiam              :      ergo potest                         esse                 in           qualibet creatura
-                 1.       Super illud Psalmi':                              Posuit tenebras                       lati-       ergo      etc.                                                                                                                                    I
-Ai opposi- bulum ; Glossa:                       « Latuit       Divinitas in                   carne, remis-                         7.       Item            ,    in        Sacramento                            altaris             videmus, quod
-         sio   peccatorum                      in     baptismo »; sed Divinitas erat in                                       sunt accidentia malerialia, sed tamen virtute Sacra-
-         carne secundum veritatem: ergo et remissio pecca-                                                                    menti suspenduntur a materia,                                                                      ita   quod non sunt
-         lorum            in   baptismo. Sed                    illa       est       per       gratiam: ergo                  in aliquo subiecto^: ergo                                              cum gratia sit muito spi-
-         gratia est in baptismo.                                                                                              rituahor, videtur, quod magis sit apta, ut                                                                              sit in aliis              ]
 
-                 2.       Item, Hugo in parle nona' aperte dicit, quod                                                        Sacramentis secundum essentiam                                                                      et   veritatem, non
-         quinque coneurrunt ad sanandum hominem,                                                               sciiicet       tamen ut                  in        subiecto           :     ergo                    videtur             ,
-                                                                                                                                                                                                                                                quod        sit    po-
-         « Deus            medicus,                 homo aegrolus, sacerdos                                rainister          nendum            ,
-                                                                                                                                                        quod             gratia               sit             in            Sacramenlo sicut                         in
+                  36                                                                                                             SENTENTIARUM LIB. IV.
 
-         vel nuntius, gratia antidotum »; et ultimo dicit, quod                                                               continente.
+                  ternarius, quia constat ex oinnibus partibus                                                                              suis,           —                                       —
+                                                                                                                                                                  In sacrificio signatur interna contritio                                                            sacri-      Dao in sa- J
 
-         « vas est Sacramentum » , et subiungit                                            :   « Quare ? quia                        Contra:                       1.    Gratia est media inler
-                                                                                                                                                                     naturam etFundaiiienia.
-         continet gratiam, sicut vas servat                                            medicinam ».                           gloriam: ergo nihil est capax gratiae,quod non est
-                 3.       Item,            idemHugo^ in                     defmitione Sacramenti                             capax gloriae, cum ipsa sit tanquam ullima disposi-
-         aperte            dicil,              quod      Sacramentum                       «   ex         sanctifica-         tio^; sed nullum Sacramentum est capax gloriae:
+                                                                                                                                                            ficium enim Deo spiritus contribulatus —
+                                                                                                                                                                                                                                                                                 crificio.            '
 
-         tione continet aliquam invisibilem et spiritualem gra-                                                               ergo       nec gratiae.
-         tiam » :          ergo gratia est in Sacramento sicut in con-                                                               2.       Item, si gratia esset prius in Sacramento; cum
+                  ex parte aliquota                             et           non aliquota; senarius vero,                                                                                                                                              '          et exte-
 
-         tinente.                                                                                                             accidentia non mutent subiectum ^ nunquam ilia gra-
-              4. Item, idem ralione videlur, quia \n Sacra-                                                                   tia transiret ad        animam: ergo frustra esset; sed hoc
-         mento altaris corpus Christi verum, quod signatur,                                                                   non    est        ponendum, ergo nec primum.
-         non solum ibi est tanquam in signo sed secundum                                   ,                                            3.     Item, gratia, cum sit perfectio animae et per-
-         veritatem continetur ibi; alioquin non differret a sa-                                                               fectio,         quae                est accidens,                          dependet ab anima multo
-         crificiis veteris legis *: ergo similiter,                                             si        baplismus           magis, quam anima a corpore; sed anima nunquam
-         est Sacramentum novae legis, non solum est ibi                                                                       creatur nisi in corpore, sed simul creatur et est cum
-         gratia tanquam in signo, sed etiam ibi essentialiter                                                                 corpore^: ergo multo fortius gratia simul creatur et
-         continetur.                                                                                                          est in          anima: ergo non                                   est in                      Sacramento.
-                     b.    Item,           si     dicas,    quod            illud       non          conveniret,                        4.     Item,               si        gratia            est            in            Sacramento tanquam
-         quia         gratia              est       accidens ^         et           debet      esse        perfectio          in vase               continente; hoc constat,                                                       quod          non         est     ob
-         creaturae nobihssimae,                             scilicet rationalis,                          et ita non          ahud       ,    nisi ut               a Sacramento transfundatur in ipsam
-         debet contineri in creatura irrationali; contra: no-                                                                 aniraam: ergo                             si    non transfunditur , frustra est                                                       ibi.
+                  quia conslat ex omnibiis parlibus aliquotis.                                                                                              rior carnis maceratio, quia occidebatur pecus; unde
 
-         bilior est divina essentia,                             quam sit gratia, quae pro-                                   Sed possibile est                          ,
-                                                                                                                                                                             quod aliquis ficte accedat ad Sacra-
-         cedit ab ipsa; sed creatura                                   non rationalis                     est    capax        menlum                ;    tunc constat, quod gratia non transfundi-
-         divinae essentiae: ergo multo fortius gratiae.                                                                       tur '": ergo frustra fuit gratia in hoc Sacramenlo.
-                     6.    Item, accidens,                      quod non habet ortum a                                                   3.     Item, gratia immediate reducit                                                                       et    reformat
-         principiis subiecti,                          non determinat     sibi materiam                                       ad     Deum animam: ergo a Deo exit immediate                                                                                          in-
+                                Secunda                 latio est fidei                    Redempioris professio.                                           mortificanda sunt                            membra nostra, ad Romanos duo-
+       Raiio 2.   Sicut enim nuUus sine fide polest                                                  Deo placere ^ , sic                                    decimo: Exhibeatis corpora veslra hostiam etc.                                                                 —                       I
+                  nullus sinc fide Mediatoris a peccato resurgere; et                                                                                       In oblatione, mentis devotio et exterior   bona ope- Duo in obla-                                                                        '(
 
 
 
-                                                                                                                                                                                                                                                                                )
+                                                                                                                                                                                                                    tione.
+                  sicut fides simpliciter dictabat Dei honorificationem                                                                                     ratio, quae, si adsunt cum fide, sulficiunt ad salu-
 
+                  ita hanc professionem. lit quia tunc profitetur
+                            et                                                                                                                              tem.        —
+                                                                                                                                                                     Sic igitur patet, quae sit ratio instilutionis
 
+             homo, quando quod inlerius credit exterius niani-                                                                                              iilorum, scihcet Dei honorificatio , fidei Redempto-
+             festat; ideo tempore legis naturae fuerunt signa ad                                                                                            ris professio, vilae                              agendae instructio^.
+             hoc ^ manifestandum et eliam ad manifestandum Re-                                                                                                          Secundo debet attendi modus instituendi; non Modus                                                                   insti-i^j:
 
+                                                                                                                                                                                                                                                                                  tuendi       Sa-,'
+                                                                                                                                                            enim                                                    modum praecepti,                                                                 ,
+ Tiia in re- demptorem. Iti redemplione autem tria considerantur:
+demptione.              ,
+             redemptum, et hoc per decvnationem
+                                                         ,
 
-                 1    Psalin.            17,    12.   — Glossa, quani                exliibet Petr.            Lombard.              *       Cfr.       infra       d.       10.    p.         I.        q.        1.       — Superius pro ratione,
-          in   hunc locum,                 expositioni August.                  (latibidum           i.   e.    occultam       quod mulii codd. omiltunt, codd. FHI (V a secunda manu) per
-          spem in cordj credentium vel oljscurilalem Sacramcnloruni)                                                           rationeia.
-          tanquam ratio additur: Latuit enim Divinitas etc.                                                                          5       Ut monstratum est                           II.        Sent. d. 26. q. 3, ubi etiam seq.
-                 2    Libr.         1.    de     Sacram.    c.    i    :    Postremo quinque discreta                          arg. insinuatur.                    —         Inferius post                     irraiionali cod.                           Z addit sed
-          et   distincta        ab invicem ad cognitionem procedunt: Deus me-                                                  rationali, et                  subinde post divinae essentiae subiungit scilicet
-          dicus...        gratia          antidotum, vas Sacramentum.                            Medicus donat,                in eucharistia.
+                                                      homo enim
+                                                                                ...                          —               ,
+                                                                                                                                                                         instiluta sunt                   per
+                                                                                                                                                            Ilugo": « Primo parvuios consilio nutrivit», loquens
+                                                                                                                                                                                                                                                                  ut dicit        cram.
 
-          minister dispensat, vas servat quae sanat percipientem aegro-                                                              "       Quaere infra                    d.    12.    p.        I.        q.        1    seqq.
-          lum gratiam spiritualeni.                      — Edd. perperam septem pro quin-                                            '       Cfr.       II.   Sent. d. 27.                 a.        1.        q.           3.   — Pro non                 est   cod.       G
-          que. In ipso testimonio plurimi codd.                                 ,   omisso sacerdos minister                   non sil.
-          vel nuntivs, post antidotum ponunt etc; pro                                            quo cod. F sa-                      8       Vide verba                 Boetli.          tom.            I.    pag. 462, nola                        M. allata.
-          cerdos minister.                                                                                                           9       Ut probatum                     est    H. ,Sent.                  d.           18. a.         2.   q.    2.   —     Inferius
-                 3    Lib.     1.        de Sacram.        p.    IX.       c.       2.; vide     supra pag.          13,       pro in anima cod. F                                cim anima.
-          nola       2.   — Pro in defmilione permulti codd. in                                      distinctione.                   1"       Cfr.       infra d.            L p.        I.     a.        2.       q.        2.    seq.
-                                                                                                                                      ,;,,                                                                                                                                         ;
 
 
+                                                                                                                                                                                                                                                                       —
+                                                                                                                                                                                                                                                                                                     .1
 
 
-                                                                                            DIST.           I.    P.    I.    ART. UNICUS QUAEST.                                           III.                                                                                 17
 
-                 fluente in ipsam                             animam': non ergo transfunditur,                                               taris,           dicendum, quod Deus posset similiter facere,
-                 mediante                       alio vase.                                                                                   si    vellet; sed                        tamen non ita congruit                                                 hic, sicut ibi,
-                                                                                                                                             quia in illo Sacramento est transsubstantiatio ". Unde tfoianaam.
-                                                                  CONCLUSIO.                                                                 illud quod significatur ibi, vere est substantia, quam
+             significatur per decimam drachmam perditam '     ipse                                                                         —                pro         iihs qui         fuerunt                  tempore            legis       naturae.                   Et      Quaestio         ;i
 
-                                                                                                                                             congruit esse per se, congruit etiam                                                                            illis    speciebus
-                 Smramenta                         conlinent graliam, quia eam.                                         signifi-             velari ad                    nostram                  utiiitatem; sed                                     gratiam non               sic
 
-                            cant el non indispositis conferunt, non tamen                                                                    congruit esse                             per se,                cum non sit                                substanlia; nec
-                             ita, qicod                     ea essentialiter              sit in ipsis.                                      contineri in                        illis       Sacramentis corporaUbus,                                                     cum de
-                                                                                                                                             sui natura sit creata, ut sit in multo nobiliori'.                                                                              Quia
-                             Respondeo: Inteliigendum est ad hoc secundnm                                                                    ergo potentia non derogat sapientiae et ordinationi,
-   opinio   1.   quosdam                    ,
-                                                quod ipsa Sacramenla sunt vasa gratiae                                                       ideo, quamvis Deus possit facere, non tamenfacil;
 
-                 cum          sint in ultima dispositione, quae est sanctifica-                                                              nec est simile, sicut monstratum est.                                                                       — Si         e?-go obii-
 
-                 tio    per verbum,                           et        medianlibus            illis    transfundilur                        cias , quod non differt a Sacramentis veteris legis,
+             modus redimendi, et hoc per oblationem; ipsum pre-                                                                                             si   quaeras: quomodo? dicendum, quod                                                          fldes dicta-
 
-                 in    ipsam animam ^                                   et in    ipsam animam transfusa                                      quia            ibi     erat             tanquam                  in signo ;                         dicendum            ,
-                                                                                                                                                                                                                                                                          quod il-
-                 abluit sive ungit interius, sicut in signo visibili                                                                si-      lud signum habet aliquam rafionem causandi , sicut
-                 gnificatur exterius. Et pro tanto dicunt, quod Sacra-                                                                       postea ^ patebit                           ,    non tamen habet rationem                                                       conti-
+             tium, et hoc per sacrificium, in quo erat sanguinis                                                                                            bat, ut           visum          est, et natura                       consonabat,                    et inspi-
 
-                 menta                 novae            legis           sunt    causa gratiae                    et    etficiunt             nendi materialiter.
-                 quod          figurant.                                                                                                                     5.     Ad         illud         quod              obiicitur,                         quod divina essen-
-                             Sed tamen, sicut ostensum est per plures ra-                                                                    tia     est in qualibet creatura                                                  ,    ergo gratia potest esse
-conciusio 1.     tiones ,              non est aliquo modo dicendum                                     ,
-                                                                                                             quod gratia                     dicendum, quod non est simile nec locus a minori^;
-                 contineatur                      essentialiter                in    ipsis     Sacramentis, tan-                             et ratio est, quia esse per gratiam inhabitantem prae-
+                  effusio. Et isla professio in                                       huiusmodi                 signis                 maxime               ralio auctoritatem dabat;                                      et   ideo per               modura con-
+ Hoiandam. necessaria erat                                   pro ipsis imperfectis ; perfectis enim                                                         silii       data erant, et hoc per                                    superiores, in                   quibus
+                  Deus           revelavit Sacramenta fidei, imperfectis celavit.                                                                           erat fides exphcita.
 
-                 quam aqua in vase, vel medicina in pyxide; immo                                                                             supponit esse per essentiam et addit ad illud multo
-                 hoc        intelligere est erroneum.                                Sed dicunlur continere                                  maiorem nobilitatem a parte eius quod                                                                               recipit     ;    et
+                  Unde minores adhaerebant                                                 fidei     maiorum                           et      cre-                     Tertio attendenda est in his efficacia. Et notan-                                                           Efficacia
+                                                                                                                                                                                                                                                                                 Sacram.
+                  debanl implicite;                             et           sicut     implicite                credebant,                          sic     dum, quod de se nullam habebant                                                       efficaciam               cu- Conclusio.
+                  signa data sunt eis a maioribus, in quibus fidem im-                                                                                      randi vel iustificandi                            ,    sed solum                ratione fidei                  Re-
+                  plicite profilerentur *.                                                                                                                  deraptoris; non enim erant instituta ad hoc '", sed ad
+                                Tertia ratio est vitae                                agendae inslitutio. Sicut                                             haec quae praedicla sunt.     Ex his patent obiecta.           —
+       Ratio 3.   enim ahquis non poterat Deo placere sine fide nec                                                                                                  Quod enim obiicit primo, quod non sunt de Adargg. pro
+                                                                                                                                                                        1.
+                                                                                                                                                                                                                 parle nega-                                                                         \
 
-conciusio -2.    gratiam , quia ipsam                                     significant ', et             quia semper,                         ideo est consequens in                                                illo            argumento.                    Bene enim
-                 nisi       ibi        sit       defectus ex parte suscipientis , confertur                                                  concluderet,                         si        esse per gratiam                                      non includeret                 Jn
+                  a peccato resurgere sine fide Redemptoris, sic nec                                                                                        necessitate, concedendum est.                        tiva.                                                                               j
 
-                 in    ipsis gratia,                        ita     intelhgendo,            quod        gratia               sit    in       se e.?5e per essentiam ; sed includit, sicut hene esse
 
-ccrroiiarium.    amma              ,    uoH in signis visibilibus.                          — Pro                tanto etiam                 includit esse.
 
-                 dicuntur vasa gratiae. Possunt eliam dici vasa alia                                                                                                Ad
-                                                                                                                                                             quod obiicitur quod gratia non de-
-                                                                                                                                                             6.                illud                                                      ,
 
+                  in bono stare sine bono opere; et ideo                                                                         fidei      adie-                2. Ad illud quod obiicitur de Hugone, quod re-
 
+                  cta sunt signa, quae significarenl ea                                                    quae necessaria                                  medium erat decimatio; dicendura, quod nec de-
+       sex cum gunt             cum fide ^ Ilaec autem sunt sex                                              ,
+                                                                                                                     quorura                       tria     cimatio nec sacrificium erat per se reraedium, sed
+fidenecessa-                    .                                   .                  .
+                                                                                                                i                              .
 
-                 ratione :            quod est in vase non est de
-                                            quia, sicut                                                                                      terminat                quia non habet in illo cau-
-                                                                                                                                                                      sibi            subiectum                     ,
+ria.              sunt mcortle, et tria exterius; quae his signantur:                                                                                       tanlura ratione fdei; et quia orania                                                 iila          tria    erant
+Dtto signafa      in    decimatione peccati recognitio                                               et eius                      dimissio;                 signa            redemptionis,                    ideo          indeterminate fides                        cura
+ tione.           quia in ea datur Deo quod perfectum et quod bo-                                                                                           quolibet istorum                        mundare poterat.
+                  num est, et remanet nobis quod est imperfectum                                                                                                        3.    Ex hoc eliara palet aliud de iteratione, quo-
+                  unde significatur, quod bona tantum sunt a Deo                                                                                            niara ideo poterant iterari, quia non erant raedicinae
 
+                  sed mala a nobis^: rursus, in separatione decimae                                                                                         ex se impositae " contra morbura non iterabilem.
+                  partis in                   partem Dei signatur recessus a peccato.                                                                                   Ad illud quod quaeritur de                                          virtute            sacrificii, Ad quaest.
+                                                                                                                                                                                                                                                                                    incid.
 
 
-                 ipso nec ex ipso, sed tamen cum ipso hauritur sic                                                             ;             s.am  dicendum, quod etsi non habet causam, ha-
-                                                                                                                                                         ;
 
 
+                            '   Hebr.          II, 6 : Sine fide autem impossibile est placere Deo.                                                         legis naturalis et scriptae.                          — Superius post sine bono opere
+                  — Aliquanto                  inferius        pro           ila et   hanc, quod habet cod.                                 U (I a          cod. Z addit               subsequenti. Subinde post                        Haec autem supplevi-
+                  secunda manu), cod. A                                 iia ct    huius, codd.              R T ila et eius,                                nuis ex codd. F II (P bb a secunda manu) verba sunt sex , quo-
+                  cod.      X iia eiiam fidei, alii codd. el edd. ita ei haec.                                                                              rum. Post pauca pro quae his Vat. quae tria in corde his se-
+                            2   Intellige: nullus                   sinc       flde    Redetnploris a peccato resur-                                        Quentibus.
+                  gere potest.                — Post hoc manifestandum edd. corruptc                                                  sic   prose-                  ^    Cfr.    tom.    III.   pag. 84, nota 2, ubi allata sunt verba Hu-
+                  quuntur            :    Eiiam honorabatur ut Redempior,                                                ct           hoc    modo           gonis, qiiibus haec ralio exponitur.
+                  tria etc. In            codd. sunt 9 diversae lectiones corru)itae, quae tamen                                                                    '    Psalm. SO,          '19.        — Seq.            textus     est    Rom.          12,    I.   Plures
+                  in lioc conveniunt, quod                                   ob homoteleuton              transsiliunt                  verba et            codd. Offevatis pro Exhibeaiis, cui voci codd.                                             G   I   praemitlunt
+                  eiiam ad manifesiandum , excepto cod. U; cod.                                                          I       supplet haec               Obsecro vos,               ui.
 
-                 gratia non est a Sacramentis nec de Sacramentis                                                                             bet tamen occasionem , quia anima creata est, ut
-                 sed oritur a fonte                                aeterno          et    ab     illo        hauritur ab                     gratia perficiatur, et ad hoc                                                           est habilis                     de sui na-
-                 ipsa anima in ipsis Sacramentis \ Et sicut quis re-                                                                         tura        ;        non         sic      aliae creaturae irrationales.
+                  verba         sic: ad            profitcndum ctiam Redemptorem                                     tria.            Pro In re-                    *    Cod. K insiiiutio , quae                        lectio      congruit         cum praemissis.
+                  demplione, quod habent codd.   FGIl (V a secunda manu) X,                                                                                         '    Libr.    1.   de Sacram.                 p. XI. c. i ,       ubi ostendit,       quod homo
+                  alii In Redemptore, et cod. U cum pluribus Inde.                                                                                          divina inspiratione instructus                           sit    ad decimas [quare decimam,
+                            ^   Respicilur Luc.                 15, 8. Cfr. .'Vugust.                 ,    Enarrat. in Ps. 103.                             non nonam            etc.] ofrerendas                   et     dicit :    Primum igitur anle Le-
+                  serm.         i.       n.   2.   et in      Ps.        138. n.      \i, ubi haec parabola                                 eodem           gem parvulos                consilio          nutrivit;          postea sub               Lege       exercitatos
 
-                 currit ad vas,                         cum requirit liquorem; sic quaerenti                                                                 7.    Ad illud quod obiicilur, quod in Sacramento
-                 hquorem gratiae et non habenti recurrendum                                                                  est ad          altaris               manent accidentia sine subiecto, ergo simili-
-                 ipsa Sacramenta. Et ita patet responsio ad                                                            illa    duo           ter in aliis Sacramentis gratia ;                                dicendum quod non                                  ,
+                  modo exponitur.                                                                                                                           praecepto tentavit; novissime sub gralia                                        perfectos in libertate
+                            *   Vido III. Sent.                d.        2.1    a.    I.   q.   2.   et    a.       2.           q.   I.    — Pro           spiritus         ambulare        permittit.            — Pro nutrivit cod. N erudivit,
+                  signa cod. F Sacramenta. Mox pro institutio Vat. cum aliquot                                                                              Vat. erudivii vcl niitrivit.
+                  codd. instructio.                                                                                                                                 " Cfr. supra p.                 I.   q.   5, ubi simile de Sacramentis veteris
+                            =   Ilugo a            S.   Vict.   ,       I.    de Sacram.           p. IX.           c.       8: Tria sane                   legis ostenditur.            — Superius ante notandum multi codd. omit-
+                  sunt, quae ab initio, sive ante                                     adventum Christi sive post, ad                                        tunt Et, codd.              AG legunt Notandum enini                             ,   cod. Z Noiandum
+                  salutem obtinendam neces.saria fuorunt, id est fides, Sacramenta                                                                          iamen. Subinde pro curandi codd. K aa et ed.                                         <!   mundandi, Vat.
+                  ndei et opera bona. Quae tria ita cohaerent, ut salutis effectum                                                                          mtmdandi scu curandi, et pro iustiftcandi cod. N vimficandi.
+                  habere non pnssint, si simul non fuerint etc. Cfr. de Sacram.                                                                                 " Codd. F H non erant ex se imposiia.
+                                                                                                                                              :          ;,
 
 
 
-                 verba Hugonis.                                                                                                              est simile                   :    quia          ibi    manent accidentia et propter no-
-                             1.        Ad        illud       quod oliiicitur, quod latet remissio                                            stri        sensus infirmitatem et propter                                                                fidei    utilitatem '".
- soiuiio op.     peccatorum                       in    baptisrao; dicendum, quod hoc intel-                                                 Sed         si        gratia             illa       esset             in         Sacramentis, nulla esset
-posiorum.
-                 ijgj^jj.          ,jg          latentia signati in                 signo,quod quideni ha-                                   utilitas              propter hoc. quia Deus semper est praesens,
-                 bet ulteriorem rationem quam rationem significandi                                                                          ut det gratiam digne accedenti ;                                                                     immo esset ibi de-
-                 non tamen essentialiter continendi in se, sed quia                                                                          ordinatio, et derogaretur iam ipsi graliae ; quod non
-                 ipsum quod significat, continetur in anima ^                                                                                debet            fieri            divino miraculo, quia ipsa gratia nata est
-                            4.         Ad        illud        quod         obiicilur de            Sacramento                      al-       perficere                animam et in ea esse.
 
+                                                                                                                  DIST.            1.    P.       II.    ART.    II.        QllAEST.       I.                                                                        37
 
-                        1    Psalm. 83, 12: Gralinm et gloriam                                   dabit Dominus. Cfr.                         perius posuimus auctoritate codd. A E G     et ed.    sed iamen                                       I             1
-
-
-
-
-                 tom.       111.       pag. 888         ,    nota 3.      —    Inferius pro alio vase coclcl.                      E H       cim ipso; codd. F K L V W sed lamen ipso, alii sed tainen ab
-                 aliquo vase.                                                                                                                ipso, cod. H sed de ipso. Subinde pro a fonte codd. G 11 de fonte.
-                        2    Vat. supplct gratia.                        Mox post el in ipsam                    plures codd.                        5       Vide         infra        d.    3.    p.        II.    a.        I.    q.    2.
-
-                 non repetunt animam, codd. A E aa (I primitus, Iva secunda                                                                          6       Quaere infra                   d.     II. p.               I.    q.    I.    seqq.
-                 manu) cum ed.      el in ipsa anima.
-                                                    1                                                                                                ^       Codd.             GIV (Iv              a        secunda manu) supplent subiecto,
-                      ' Cod. Z significant el efficiunt et hoc semper. Subinde                                                               cod.     Z           toco.
-                 codd. F G H L Z aa bb omiltunt ibi. Aliquanto inferius pro tanto                                                                    8       Quaest. seq.                   — Superius pro non                                         differt       cod.   F non
-                 ctiam codd. F H V tanlo ergo.      I                                                                                        differret.
-                        *     llug. a S.                Vict.,     I.   de Sacram.        p. IX. c.     i: Si          ergo vasa                     '       De quo ^ ide tom.                          I.    pag. 83-3              ,    nola o         ,   et de fallacia se-
-                 sunt spiritualis gratiae Sacramenta,                                    non ex suo sanant, quia                             cundum consequens cfr. ibidem                                                     pag. 691, nota 3.                      — Inferius
-                 vasa       aegrotum non curant, sed medicina. Non ergo ad                                                         lioc      pro ad illud, quod exhibent codd. F H                                                            ,   alii  ad ilttmi, edd. ad
-                 instituta suiit Saci'amenta ,                  ut ex eis esset quod in eis esset                                            illa.   Subinde pro quod                               recipit                   codd.           F I      qui recipil (cod. F
-                 sed    ut         peritiam             suam medlcus ostenderet, in illo remedium                                            recepitj.
-                 praeparavit, a quo languidus occasionem morbi accepit.                                                      — Su-                   '»       Vide            infra    d.     12.       p.     I.        a.    I.    q.       2.
-
-                                       S.       Bonav.       — Tom. IV.                                                                                                                                                                                               3
-                                                                                                                                                                                                                                                                                •
-
-
-
-
-18                                                                                                           SENTENTIARUM LIB. IV.
-
-
-
-
-                                                                                                                        SCHOLIOK
-
-          I.     Ad 3. et 4. quaestionem praenotandn sunt verba Euge-                                                                    nendo, sed efficiendo ; efficiunt enim simpliciter characterizando
-genii          IV.        in        Decreto      pio Arnienis: (Sacrnmenta novae                                                legis)   et    ornando. Unde dico, quod singula Sacramenta aliquo                                                                    modo
-« multum a                     Sacramentis differunt antiquae                                    legis.     Illa    enim non             ornant            animam,           vel        imprimendo characteremj                                      vel alio        modo
-causabanl graliam, sed eam solum per passionem Christi dan-                                                                              signando ». Pluribus deinde ralionibus declarare                                                             nititur,        quo-
-dam esse (igurabant, liaec vero nostra et contineiit gratiam et                                                                          modo agenli corporali communicari possit talis mirabilis virtus
-ipsam digne suscipientibus conferuni». Item, Concilium                                                                            Tri-   spiritualis.          Idem tamen quoad infusionem ipsius gratiae (ibid.
-dent. (Sess. VII. can. 6.) decrovit:                                      «   Si        quis dixerit, Sacramenta                         §     2.)    dicit:       <t   Solus Deus gratiam operatur et animae infundit;
-novae legis non continere gratiam, quam                                                          signiflcant, aul gra-                   sed Sacramenta novae legis disponunt ipsum susceplibile,                                                                       effi-
-
-tiam ipsam non ponontibus                                     obicem non conferre, quasi signa                                           ciendo aptiorem ad gratiae susceptionem                                                 et faciunt,              quod gra-
-tantum externa                        sint    acceplae per fidem gratiae vel iustitiae et                                                tia    efficax sit ». Multa                     pro explicatione                   et probalione huius sen-
-
-notae          quaedam christianae professionis                                     ,
-                                                                                             quibus apud homines                         tentiae           idem afTert in hac § et | 3-6. Principalia haec argumenla
-discernuntur fideles ab infidelibus,                                          a.    s. »         Omnes Catholici hoc                     quasi in            coinpendium redacla                                S.    Bonav. exhibet in adiunctis
-tenent, et                quod Sacramenta non habeant                                            nisi    causalitatem in-                duabus quaestionibus lateralibus cum solulionibus. Unde palet,
-strmnentalem. Tamon                              in      modo lioc explicmdi, quae est quae-                                             quod S. Bonav. sub nomine magnomm , qui primam opinio-
-stio      pure speculativa, a tempore Hugonis a S. Victore                                                                  et    Gu-    nem defendunt, praecipue intelligat magistrum suum                                                                    Alexan-
-lielmi episc.                   Parisiensis         usque huc doctores viani ratioiiemque                                                drum.            Cum autem ab eo recedere visus sit, in fine tertii libri
-diversam inierunt, ut hic                               et    accuratius                III.     Sent. d. 40. dub. 3.                    iterum opinionem                       suam melius explicavil, seque minime prae-
-a    S.        Bonav. explicatur.                        S.    Thoin.              defendit              sententiam              pro-    dictam opinionem reprobare ostendit;                                            quemadmodum etiam re-
-fundam            et      mystioam, quae tribuit Sacramenlis novae legis effica-                                                         spectu            quarundam propositionum I. libri                                          fecit in         praelocutione
-ciam physicam, ut nunc dicunt,                                           quemndmodum                          ctiam              circa   ad     II.       librum.
-humanitatem                         Chrisli   eadem principin tenet (cfr. 111. Sent. d.                                            19.               S.    Thomas in Commentario (hic q.                                        1.    a.     4.)      approbat do-
-a.   1.    q.        1.    scholion). Discipuli                     igitur         eiusdem communiter do-                                ctrinnm Alexandri, docens, quod Sacramenla,                                                                 quatenus sunt
-cent,      Sacramenta novae legis concurrere ad causandam gratiam                                                                        o instrumenta                  divinae misericordiae iustiflcantis, pertingunt qui-
-aliosquc effectus sacramentales                                     tanquam divinae virtutis instru-                                     dem instrumentaliter ad aliquem                                             effectum in ipsa                   anima, qui
-menta physice influentia                            ,    non tantum moralitcr. Pro                                     influentia        primo respondet Sacramentis,                                       sicut est           character,               vel aliquid
-vero tantum morali                              (ut      non        satis      apte              dicitur)        stat       Scotus       huiusmodi [quod superius ipse vocnt ornatum animae']. Ad iil-
-(hic q. 4. 3.)                      cum suis et non paucis aliis. Hi asserunt, a solo                                                    timum autem elTectum, qui est gratia, non pertingunt eliam
-Deo immediate produci gratinm et charnclerem imprimi                                                                        ,
-                                                                                                                                 quin    instrumentnliter nisi dispositive in quantum hoc, ad quod in-      ,
-
-
-aliqua virtus supernaturalis ipsi instrumento sacramontali commu-                                                                        strumentaliter effective pertingunt, est dispositio,                                                          quae est ne-
-nicetur; a Deo                       tamen quodam pacto inslitutum esse tale signum                                                               quantum est in se, ad graliae susceplionem ».
-                                                                                                                                         cessit-as,                                                 Ali-                                                            —
-sacramenlale, quo applicato, ipse faciat effectus                                                        omnes in anima.                 ter lamen idem loquitur in Summa (III. q. 62. a. 1.2. 3.), ubi
-          II.    Ut disputalio                 S.   Bonaventurae melius intolligatur, eliam                                              disertis verbis docet,                         Sacramenia novae                         legis           ut    instrumenta
-observandum est, quod antoquam                                                Summa S. Thomae                               scripta      divinae            virlulis         causare           etiam            gratiam. Haec extensio                                iactis
-
-esset, slatus quaestionis aliquatenus diversus erat a posteriore.                                                                        principiis          magis convenit quam                                 illa   restrictio facta                 ab Alexan-
-Nunc enim principnliter quneritur de concursu Sacramenti ef-                                                                             dro.        Eandem senteniiain                       Dionys. Carth. (hic                          q.    4.)    censet esse
-fectivo (licet per                      modum instrumenti tanlum) ad ipsius gratiae                                                      probabiliorem   quod etiam tenet Pelr. a Tar. respectu senten-
-                                                                                                                                                                        ;
-
-
-infiisionem ; sed tunc temporis potius supponebatur fere ab                                                                              tiae, quam S. Thom. ponit in Commentario, duin Richard. a
-omnibus, nullam virtutem instrumenlalem dirccte et immediate                                                                             Med. (hic a. 4. q. 2.) eandem ol sententiam Scoti simili proba-
-posso pertingere ad tam sublimem effoctum, Quaorebatur igitur                                                                            bililate          gaudere iudicat.
-                    Sacramenlorum respectu inferiorum efle-
-potius de causalitate                                                                                                                             IV. Opinioni                  secundae praeter Scotuin                                   et    Durandum (hic
-ctuum reccptorum in anima, scilicet de 0)'J)afM ipsius, ut dice-                                                                         q.     4.)        favot        etiain     Henr.           Gand.             (Quodl.         4.     q.       37.),     aliis      ta-
-
-bant, sive de charactere                                 et disposiiione                     ad gratiam. Ila statum                      men verbis usus. Docet enim                                    ,
-                                                                                                                                                                                                                quod Sacramenta                        sint     «    causa
-quaestionis accipiunt Alex.                                   Hal.   , S. Thom. in Commenlario,                                          gratiae instrumentaliter, non quia aliquid agunt in                                                            producendo
-Petr. a Tar., Richard. a                                Med.    ,    Durandus et ipse Bonavenlura.                                       graliam plus                   quam Sacramenta veleris legis, sed quia Deus, ut
-Hinc est, quod ab auctore nostro tribus distinctis quaeslionibus                                                                         existens in ipsis, ad taclum                               eorum               circa        illos       quibus adinini-
-inquiritur:                    1.    ulrum Sacramenla                    sint gratiae effectiva ; et                              pro    strantur, confert gratiam                             creando                eam       in     ipsis...         Et similiter
-aflirmativa resp. huius quaestionis, si agitur de causnlilate pro-                                                                       sunt vasa gratiae, in quantuin continent                                                eum            qui est rons              et
-
-prio dicia sive cfficienle, in corp. neminem alTert; 2. utrum sint                                                                       origo, a quo                   raanat gratia, ut est in eis ».                                    — Ab          his         verbis
-causae disponentes                            scilicet        ad gratiam                 ;     3.   generalim           ,   utrum        parum recedit S. Bonav. in Breviloquio (p. VI. c. 1, sicut hic q. 3.
-habeant aliquam virtulem influentcm                                                in        ipsam animam. Ad se-                        in fine responsionis) dicens, quod « in illis et per illa gratiam
-
-cundam et terliam quaestionem Alex. Ilal. (S. p. IV. q. S. m. 3.                                                                         curafionis a              summo mcdico Christo ex divino                                               decreto         oportet
-a.o.) et S. Thom. in Comnient. respondebant affirmalive, non                                                                             hauriri, licet                 Deus non             nlligaverit suain gratiam                               Sacramentis ».
-vero       ita       ad primam.                In       praedicto enim Commentaiio S. Thoin.                                             Quomodn aulem hanc                              sciitentiam ita teinperaverit in                                    III.     Sent.
-perfecte convcnitcum Alexandro, licet hic a scriptoribus com-                                                                            d.     40.        dub.         3,   ut     non contradicat                      alteri           sentenliae,            sed      ei
-
-munissime ciletur tanquam S. Thomae in hac re contrarius.                                                                                campum reservet liberum, iam notatum                                                    est in              scholio        uUimo
-          III.    Audiamus igitur utrumque.                                    .\lex.            (loc.    cil.     §    I.)      dicit   eiusdem            III.   libri.    Quod aulem virtus efficaciler Sacramentis an-
-de virtute instrumentali Sncranienlorum                                                 :    «   Sine praeiudicio me-                    nexa non sit qualilas absoluta, sed relativa, repetit noster auctor
-lioris sententine                     opinnndo dico, nihil asserendo, qiiod Sacramenta                                                   infrn        q.   5, d.        3. p.     II.   a.    I.   q.   2, d. 10. p. II. a.                     I.   q. 3;     11.    Sent.
-sunt causac alicuius                           clToctus        in     anima         ,        non dico solum dispo-                       d.     19.        dub.    i.
-                                                                                                                                                     ;
-
-
-
-
-                                                                                                             DIST.   I.        P.    I.      ART. UNIGUS QUAEST.                                            IV.                                                                             19
+               dicendiim, qiiod virlus sacrificii \e\ dicitur                                                                             liic          fi-   bant ipsum ut ron, sed non bis qui accipiebant ut
+               des, qiiae                       faciebat               sacrificium                    valere,                 vel         dicitur             signum; et quia fideles accipiel3anl iit signum, ideo
+              inlerna mentis contritio, quae facieljal exterius                                                                                     sa-       eis      non eral via erroris.
+              crificium virtuosum; et quia adultis necessaria erat                                                                                                          Ad illud quod               obiicitur,         quod           erat contra pie-
+              contritio propter actuale ', ideo Gregorius dicit, sacri-                                                                                       talem; dicendum, quod non est verum, quia adeo
+              ficium curasse maiores.                                                                                                                         abundab;int animaUa,                             et     pauperes           ila     pauci erant,
+                                Quod          obiicitiir,                quod              sacrificium                       erat        via er-              quod           sufficiei^ant pietati                  quantum ad cullum Dei et
+soivuntnr 2   roris ; rticendum,                                 quod verum                          est     illis           qui accipie-                     quantum ad sustentationem proximi.
 
 ## English
 
