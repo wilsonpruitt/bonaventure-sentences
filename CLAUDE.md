@@ -379,7 +379,9 @@ npx vercel deploy --prod --prebuilt --archive=tgz
 | I pt 2 | `doctorisseraphic12bona.pdf` | `bonaventure_vol1_pt2_raw.txt` | `pdf = printed − 410` | ~411–872 | d.~25–d.48 |
 | II | `doctorisseraphic02bona.pdf` (1056pp) | `bonaventure_vol2_raw.txt` | `pdf = printed + 22` | 11–~903 | d.1–d.44 |
 | III | `doctorisseraphic03bona.pdf` (936pp) | `bonaventure_vol3_raw.txt` | `pdf = printed + 22` | ~6–905 | d.1–d.40 |
-| IV | `doctorisseraphic04bona.pdf` | `bonaventure_vol4_raw.txt` | TBD | TBD | TBD |
+| IV | `doctorisseraphic04bona.pdf` (1094pp) | `bonaventure_vol4_raw.txt` | `pdf = printed + 20` | ~17–1074 | d.1–d.50 |
+
+**Vol IV bootstrap (2026-06-16):** Two-column like Vol II/III → **apply the VOL II OVERRIDE recipe** (PDF-priority inversion in cascade-shattered regions; column-band reads via `colcrop.py vol4 <page>`; offset `pdf = printed + 20`, verified twice). Auto-chunker wrote **610 skeletons** (47 distinctions detected; `d.4`, `d.23`, `d.50` merged into neighbors via OCR-garbled headers + 101 dup-IDs needing pars relabeling — resolve per-distinction during the re-chunk-before-translate step). `extract-pages.py`/`build-content.mjs`/`colcrop.py` all support vol4. Book IV's decade polish gates fire at d.10/d.20/d.30/d.40/d.50.
 
 **Vol II structure notes** (verified 2026-05-13):
 - Single Tomus II — no pt1/pt2 split (unlike Vol I). One PDF, one raw file, one offset.
