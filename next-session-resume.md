@@ -3355,10 +3355,14 @@ The auto-chunker put Pars I's art-unicus quaestiones under `d1-p2-a1-*` and buri
 | `d1-p2-a1-q1` | ✅ Tier 2 — Whether informed faith suffices (pp.32–33, 9 app, art-master scholion I–III) |
 | `d1-p2-a1-q2` | ✅ Tier 2 — Whether faith alone suffices (pp.33–35, 15 app, scholion in q1) |
 | `d1-p2-a1-q3` | ✅ Tier 2 — Whether sacrifice-power required in adults (pp.35–37, 22 app, scholion in q1) |
-| `d1-p2-a2-q1` | **NEXT** — Pars II Art. II q1 (*De circumcisione*), raw L4499, opens p.37 (claims all p.37 footers, fwd'd from a1-q3); ART II opener folds in |
-| `d1-p2-a2-q2` | skeleton (raw L4779) |
-| `d1-p2-a2-q3` | skeleton (raw L5073) |
-| `d1-p2-dubia` | skeleton (raw L5320, DUBIA CIRCA LITTERAM — distinct from Pars I dubia) |
+| `d1-p2-a2-q1` | ✅ Tier 2 — On the institution of circumcision (pp.37–39, 22 app, art-master scholion I–III) |
+| `d1-p2-a2-q2` | ✅ Tier 2 — On the form/integrity of circumcision (pp.39–41, 25 app, scholion in a2-q1) |
+| `d1-p2-a2-q3` | ✅ Tier 2 — On the efficacy of circumcision (pp.42–44, 23 app, scholion in a2-q1). [?]: [^6c] OCR "ad 4. huius articuli quaest" digit-mangle → d.10 gate |
+| `d1-p2-dubia` | ✅ Tier 2 — Dubia I–VIII on Master's text (pp.44–46, 25 app). Replaced a mis-copied skeleton body. |
+
+**★ DISTINCTIO I COMPLETE — all 17 chunks Tier 2 (2026-06-16). Build: 1304 translated.**
 
 ## NEXT ACTION
-Promote **`d1-p2-a2-q1`** (Pars II, Articulus II = *De circumcisione*, Quaestio I), raw L4499–4778, opens p.37. The ART II opener + "quaeruntur tria" (institution / form-integrity / efficacy) folds into q1. Claims all p.37 footers (a1-q3 forwarded them). Check whether Art. II has its own article-master scholion under q1 (covering q2/q3). Then a2-q2 (L4779), a2-q3 (L5073), and `d1-p2-dubia` (L5320) to CLOSE d.1. Then d.2. Cadence: one-chunk-per-subagent, offset +20, colcrop split_x 1880, two-column override.
+Begin **Distinction II** (*De Sacramentis novae legis* / institution of the seven sacraments). `DISTINCTIO II.` at raw **L5614** (printed ~p.47, PDF ~67). FIRST verify d.2's pars/article structure against raw + the auto-chunked skeletons (the d.1 chunker mislabeled pars and missed a dubia — DO NOT trust d.2 skeleton filenames; grep raw for `DUBIA CIRCA LITTERAM`, `ARTICULUS`, `QUAESTIO`, pars running-heads `DIST. II. P. I/II`, and re-label/scaffold before translating). Start with the d.2 littera, then divisio(s), quaestiones, dubia. Cadence: one-chunk-per-subagent, offset +20, colcrop split_x 1880, two-column VOL II override.
+
+**Open d.1 [?] flags for the d.10 decade polish gate:** (1) `d1-p1-littera` p.10 markers — resolved by divisio (refs in p.10 L-col footer), retire; (2) `d1-p2-a2-q3` [^6c] OCR "ad 4. huius articuli quaest" digit-mangle.
