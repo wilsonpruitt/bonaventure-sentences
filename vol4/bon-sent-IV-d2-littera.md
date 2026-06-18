@@ -120,8 +120,8 @@ believed[^8] — were not baptized afterwards, but received the Holy Spirit by t
 [^7]: **La.** *Comment. in Ioel* c. 2. Loci Scripturae sunt Act. 19, 1. et 2. Cfr. etiam C. *Aliud est* (39.), de Consecrat. dist. 4. — De impositione manuum super baptizatos vide Act. 8, 17.
     **En.** *Commentary on Joel* c. 2. The scriptural places are Acts 19:1 and 2. Cf. also canon *Aliud est* (39), *de Consecratione* dist. 4. — On the imposition of hands over the baptized see Acts 8:17.
 
-[^8]: **La.** Non pauci codd. perperam *narratione*, edd. *variatione*, quae etiam voci *usu* praemittunt *forma.*
-    **En.** Not a few codices wrongly read *narratione* (by narration), the editions *variatione* (by variation), which also prefix *forma* to the word *usu.*
+[^8]: **La.** De hac opinione Magistri communiter reprobata vide Comment. hic a. 2. q. 3.
+    **En.** On this opinion of the Master, commonly rejected, see the Commentary here, art. 2, q. 3.
 
 [^9]: **La.** *Epist.* 69. (alias 83.) *ad Oceanum* n. 6. — Edd. in fine huius loci addunt *baptismo Christi, ut praedictum est,* refragantibus codd. et originali.
     **En.** *Letter* 69 (otherwise 83), *to Oceanus*, n. 6. — At the end of this passage the editions add *baptismo Christi, ut praedictum est* (with the baptism of Christ, as was said before), against the codices and the original.
