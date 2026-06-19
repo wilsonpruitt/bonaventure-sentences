@@ -3,164 +3,173 @@ id: "bon-sent-IV-d3-p1-dubia"
 volume: 4
 book: 4
 distinctio: 3
+pars: 1
 type: dubia
-line_start: 8713
+title_la: "Dubia circa litteram Magistri"
+title_en: "Doubts concerning the text of the Master"
+printed_pages: [74, 75, 76]
+pdf_pages: [94, 95, 96]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 74–76"
+has_scholion: false
+has_apparatus: true
+line_start: 8710
 line_end: 8853
-word_count_latin: 1251
-transcription_status: "auto-chunked 2026-06-16"
+transcription_status: "Phase C Tier 2 complete — Latin re-set from PDF column bands (pp.74–76, vol4 split x=1880), fresh literal English, full apparatus (12 entries: p.74 note 11 picked up + p.75 notes 1–10 + p.76 note 1); 6 dubia (I–VI), no scholion (2026-06-19)"
 format_version: 1
 ---
 
 # bon-sent-IV-d3-p1-dubia
 
+## *Dubia circa litteram Magistri*
+
+---
+
 ## Latin
+<!-- page 74 -->
 
-DUB.                    I.                                                      tinclio, id                  esl ablutio                       corporis facla                     sid)    forma
-                                                                                                                                                                      verborum pi-aescripla. Videtur enim mala esse                                                                    ista
+## DUBIA CIRCA LITTERAM MAGISTRI.
 
-                                  In parte ista                    sunt duljilationes circa litteram, et                                                              notificatio:                quia notificatio debet convenire notificato
-                      primo             cle        hoc        quod                dicit                 Magisler:                 Baplismus                    esl     praecise"; sed haec non                                           est talis, quia, cum lava-
+### Dub. I.
 
+In parte ista sunt dubitationes circa litteram, et primo de hoc quod dicit Magister: *Baptismus est tinctio, id est ablutio corporis facta sub forma verborum praescripta.* Videtur enim mala esse ista notificatio: quia notificatio debet convenire notificato praecise[^11]; sed haec non est talis, quia, cum lava-
 
+<!-- page 75 -->
 
+tur pannus, est ablutio corporis, et potest fieri sub forma verborum praescripta, et sic esset baptismus; quod falsum est.
 
-                              •
-                                   Cod. F (bb a secuiida manu)                                                          acklil   ct    rjnod fidcs credii                   « Vidc    Seiil. in Prolog. Magistri, dub. 2.
-                                                                                                                                                                                             I.                                Codd. .\1-:M RS                 —
-                      expmneniia.                                                                                                                                      V bb deiralinile. Sufienus \)os\.nisiveIii codd. II Kaa aMiinl.perIwc.
-                              -    lla   fod. E, alii et edd.                             ,    contexlu reinignante, professionis.
-                                                                                                                                                                             '
-                                                                                                                                                                                   Supplc: scnsus.                — Mox supplevimus                       c\ cod.        II   qui intelli-
-                              3    CIV.       I.    Sent. d. 27.                      p.          1.    q.         I.   — De seq. proposit. vide                       rjitiir    tamen, prointcllirjilur, codd. .\ G K V                                  W bb inlelligitur               ta-
+**Respondeo:** Dicendum, quod ablutio antonomastice[^1] determinatur ad standum pro ablutione aquae; similiter *corpus* ad standum pro corpore humano, ut sit sensus, quod baptismus est ablutio corporis humani in aqua facta[^2] etc.
 
-                      supni        a.    I.        q.   2.    ad       .3.       et       liic         lit.    Magislri,          c.       4.                          nicn. Post MOJi impedii edd. addunt nisi velii inducere errorem.
-                              *    Cod.        1'       (bb a secunda manu) supplet Patcr                                                             ei   geniior.          8     Cod. F glossando usits eius ; exemplimi Prisciani                                                       olli
+### Dub. II.
 
-                      Paulo            suporius              e.\   codd.                  F II U aa                     supplevimus                  voccm     tria    pro       illi.   Priscian.       ,   1.   Grammat. e.                  6 :   /   tninsit...     in     o:    pairis,
+Item quaeritur de hoc quod dicit, quod *ablutio facta in elemento fit Sacramentum.* Ex hoc enim videtur, quod ablutio *passive* dicta sit Sacramentum; *contra:* Sacramentum est signum gratiae, quia «est invisibilis gratiae visibilis forma[^3]»; sed gratia non est lota, sed lavans: ergo signum non est lotio *passiva,* sed *activa.*
 
-                      anto considerare.                                                                                                                                palronus et palro verbum, olli pro illi, saxi saxosiis.                                            — Superius
-                              5    Cfr.        supra           pag.              68,              nota         I.       — August.               ,    de    Gen. ad     posl quod voces in cod. V. seciinda miinus benc addidii corrvpiae.
-                      lit.   (impcrfeet.                   e. 6. n. 26
-                                                        lib.)          Oninc quippc vocabulum ad        :
-                                                                                                                                                                             °     Ita    codd.          FUPQbb, in                            aliis     omittitur            faciendam,
-                      distinctionem valet.                 Unde etiam nomen, quod rem notet, ap-                                                                       codd.       Gl subslituunt vineam, codd. R S T domum.
-                                                                                                                                                                              1"      Vidc                        ad              huius
-                      pellalum est                   quasi mtamen. Notct autem, id est distinguat et                                                                                              scliolion             \.                    art.   quaest.
+**Respondeo:** Dicendum, quod in baptismo concurrit lotio tribus modis dicta. Nam ille qui mergit, dicitur *lavare* et ideo baptizare; similiter et aqua dicitur *lavare,* et corpus *lavari:* et sic est lotio hominis lavantis et aquae lavantis et corporis loti. — Quia ergo ad baptismum haec triplex lotio necessario concurrit, per illam potissimum describitur, quae alias claudit et praesupponit; et haec est lotio *corporis passiva,* quae immediatius respicit baptizatum[^4] et praesupponit duplicem lotionem praedictam, quia facta et ab homine et ab aqua. — Quod quod obiicitur, quod non est signum gratiae; dicendum, quod haec lotio passiva signum est effectus gratiae; nec habet perfectam significationem, nisi prout coniungitur lotioni aquae et ministri; tunc enim signum est, quod anima purificatur a Deo per gratiam[^5].
 
-                      doctitanler ad                    discernendum adiuvet. Vide                                                1.   Sent. d. 22. q. 2.                        " Cfr. su|)ra               pag.      2S    ,       nola     6.   — Pro        notificaio ,          quod
-                      in     corp. et ibid. pag. 390                                  ,       uota 6.                                                                  cum edd. lelinuimus, cod.                                 I   a   socunda manu              ci   cuius       est.
-                                                                                                                             DIST.           III.   P.    I.     DUBIA.                                                                                                                   75
+### Dub. III.
 
-                 tur pannus, est ablutio corporis, et potest                                                                  fieri          sub                      Respondeo: Aliqui faciunt vim                                                        in    hoc, qiiod di-
-                 forina            verborum praescripla, et sic esset baptismus;                                                                         citur         Sacramentum, quia non vocat Sacramentum soiaiiones 2
-                 quod falsum est.                                                                                                                        signum exterius                           ,        sed            effectum gratiae interiorem                                      ,
+Item quaeritur de hoc quod dicit: *In duobus consistit Sacramentum baptismi.* Videtur enim falsum dicere, quia, ut dicit Ambrosius[^6] «omne Sacramentum est simplex»: ergo non consistit in duobus, quia tunc esset compositum.
 
+**Respondeo:** Aliqui faciunt vim in hoc, quod dicitur *Sacramentum,* quia non vocat Sacramentum signum exterius, sed effectum gratiae interiorem, qui est gratia simplex[^7]. Aliqui vim faciunt in *simplicitate,* quia non dicitur simplex, quia non habet partes, sed quia non dividitur in plura Sacramenta. — Sed neutrum istorum est magnum quid dicere; ideo credo, quod vocat Sacramentum *simplex,* quia eius denominatio fit in instanti. Nam si Sacramentum remaneat imperfectum, nihil est factum, nec etiam debet dici inceptum, sed totum est reincipiendum. Et hoc patet ex verbis eius infra[^8]: «Ubi non est plenum Sacramentum baptismi, nec principium nec species aliqua baptismi aestimatur»; et ideo dicit esse simplex.
 
-                       Rkspondeo    Dicendum quod ablutio antono-
-                                                   :
-                                                                                      ,
-                                                                                                                                                         qui est gralia simplex '. Aliqui                                                       vim faciunt                   in       sim-
-                 inaslice ' deterininalur ad standum pro ablulione                                                                                       plicitate, quia                      non dicitur simplex                                          ,
-                                                                                                                                                                                                                                                               quia non habet
-                 aquae; similiter corpus ad standum pro corpore hu-                                                                                      partes, sed quia non dividilur in phira Sacramenta.
-                 mano, ut sit sensus, qiiod baptismus est ablutio cor-                                                                                   — Sed neulrum istorum   est magnum quid dicere soimio au-
-                                                                                                                                                                                                         ctoris
-                                                                                                                                                                                                                                                                                            ;
+### Dub. IV.
 
+Item quaeritur de hoc quod dicit: *In nomine sanctae Trinitatis et in nomine Christi... unum et idem est.*
 
+Notandum, quod non vult dicere quod verba eandem virtutem habeant, nec quod omnino idem sonent, sed quod modus baptizandi in Ecclesia primitiva conformis fuit modo, quem nunc tenet Ecclesia. Nam in *Christo* intellectus clauditur Trinitatis, tamen implicite et remote. — Vel, *idem est,* quia eiusdem virtutis et efficaciae; sed hoc intelligendum est pro tempore illo, in quo nondum erat nomen Christi promulgatum[^9].
 
-                 poris bumani in aqua facta ' etc.                                                                                                       ideo credo, quod vocat Sacramentum ^fmpfa, quia
-                                                                                                                                                         eius denominatio                              fit       in instanti.               Nam si Sacramentum
-                                                                                                                                                         remaneat imperfeclum                                         ,     nihil est            factum               ,   nec eliam
-                                                                     DUB.             II.
-                                                                                                                                                         debet          dici     inceptum, sed totum                                              est           reincipiendum.
-                                                                                                                                                         Et iioc patet ex verbis eius infra**: « Ubi non est
-                             Item quaeritur de hoc quod    quod ablutio                             dicit,                                               plenum Sacraraentum baptismi, nec principium nec
-                 facta in elemento fit Sacramentum. Ex hoc enim                                                                                          species aliqua baptisrai                                           aestiraatur » ;                      et       ideo dicit
-                 videtur, quod ablutio passive dicta sit Sacramentum;                                                                                    esse simplex.
-                 contra: Sacramentum est signum gratiae, quia «est
-        -        invisibilis gratiae visibilis forma ' » sed gratia non                                     ;                                                                                                     DuB. IV.
-                 est lota, sed lavans: ergo signum non est \ol\o pas-
+### Dub. V.
 
-                 siva, sed activa.                                                                                                                                    Ilera    quaeritur de hoc quod dicit: In                                      nomine
-                            Respondeo: Dicendum, quod                                                  in            baptismo con-                       sanctae Trinitatis                                  et       in         nomine Christi... unum et
- hoiio 3 mo-     cximi lotio tribus modis                                       dicta.      Nam ille qui mergit,                                         idem          est.
-dis sumilur.                                                                          .....
-                 dicitur lavare                    et ideo                 baptizare; simihter                                 et       aqua                  Notanduin quod non vult dicere quod verba
-                                                                                                                                                                                             ,                                                                   ,
+Item quaeritur de hoc quod dicit: *Ubi non est plenum baptismi Sacramentum, nec principium* etc.
 
-            -
-                 dicitur lavare,                       et     corpus                 lavari:                    et sic        est           lotio        eandem virtutem habeant, nec quod omnino idem
-                 hominis lavantis                       et        aquae lavantis et corporis loti.                                                       sonent, sed quod modus baplizandi in Ecclesia pri-
-                 — Quia ergo ad baptismum haec                                                           triplex              lotio ne-                  miliva conformis fuit modo, quem nunc tenet Ec-
-                cessario             concurrit,                per illam                    potissimum describi-                                         clesia.            Nam in Christo intellectus clauditur Trinita-
- Notandum. tur
-                        ,
-                             quae      alias claudit et praesupponit; et                                                       haec est                  tis,tamen iraplicite et reraote.      Vel, iclem est,Amcr.                             —
-                 lotio        corporis passiva, quae immediatius respicit                                                                                quia eiusdem virtutis et efQcaciae; sed hoc inlelligen-
-                baplizatum ^ et praesupponit duplicem lotionem prae-                                                                                     dum est pro tempore illo, in quo nondum erat no-
-                dictam, quia facta el ab homine et ab aqua.                                                                   — Quod                     raen Christi promulgatum -.
-                         quod non est signum gratiae; dicenduni,
-                obiicitur,
-                quod haec lotio passiva signum est effectus gra-
-                                                                                                                                                                                                                   DuB. V.
-                -tiae;       nec habet perfectara significationem                                                      ,     nisi   prout
-                coniungitur                 lotioni           aquae                  et     minislri ;                     tunc         enim
-                signum              est ,     quod                aniraa              purificatur                      a      Deo per                                 Itera     quaeritur                         de hoc quod                              dicit      :     Ubi non
-                sraliara \                                                                                                                               est         plenum baptismi                                       Saoramentum, nec                                      princi-
-                                                                                                                                                         pium etc.
-                                                                                                                                                                     Notandum, qnod                                   illud est             dictum propter cha-
-                                                                  DUB.               III.
-                                                                                                                                                         racteris            impressionem ; quousque enim characler im-
-                                                                                                                                                         primatur, nihil de Sacramento factum est stabile                                                                                 '".
+Notandum, quod illud est dictum propter characteris impressionem; quousque enim character imprimatur, nihil de Sacramento factum est stabile[^10]. Et quoniam character imprimitur in instanti, quando factum est *aliquid, totum* perfectum est. Si ergo non est perfectum, nihil omnino factum est, non quantum ad operationem *exteriorem,* ubi est successio, sed *interiorem,* ubi est subita impressio.
 
+<!-- page 76 -->
 
-                            Item quaeritur de hoc                                         quod         dicit:              In cluobus                    El qnoniara character imprimitur in instanli, quando
-                        Sacramentum baptismi. Videtur enim fal-
-                consistit                                                                                                                                factum             est aliquid,                          toium perfectum                                    est.    Si        ergo
-                sum dicere, quia, ut dicit Ambrosius ^ «omne Sa-                                                                                         non          esl     perfectum, nihil                                   omnino factum                              esl,         non
-                cramentum est simplex »                                     :   ergo non consistit in duo-                                               quantum ad operationem exleriorem, ubi                                                                             est        suc-
-                                                                                                       ~
-                bus, quia tunc esset compositum.                                                                                                         cessio, sed interiorem , ubi est subita impressio.
+### Dub. VI.
 
+Item quaeritur super hoc quod dicit Ambrosius, quod sufficit aliquam personarum exprimere.
 
-
-
-                        1    Vide tom.         III.         yiag.        220,        nola     .3.      — Edd. cuni aliquot                               stia,   de poenilentia, lianc airerunt senlentiam                                             ;       sed iam      S.    Tliom.,
-                codd. falso auctoritale.                                                                                                                 IV. Sent. d.           16.     q.        I.    a.       I.        ad    I,     dicit: « Dubitatur                  de    illa   au-
-                        2    Idem dub.         solvit         Alex. Ha!., S. p. IV. q. 8.                                    m.     I
-                                                                                                                                        ,
-                                                                                                                                             ubi         ctoritate,          utrum sit Ambrosii ». Alex. Hal.                                      ,       S. p. IV. q. 9. ni. 2.
-
-                etiam de dubio seq.                                                                                                                      a. 1. § 1. allegat Diomjsium. qui (de liccles. Hierarcb. c. 3. p. 3.
-
-                        3    Ut dicitur supra                in     lil.    Magistri, d.                1.      c.    2.   — Pro con-                    §3.) de eucbaristia nolat, quod singularc liabeat ac simpicx
-                tra ,       quod exliibent codd. 15 1 aa                         ,    codd.      !•'
-                                                                                                       II       et   hoc videtur in-                     compactumque principium.
-                conveniens, quia, cod.                        U (K.-a secunda manu) sed lioc non                                                                 '    lla    docet Alex.               llal. ,        loc.       tn     nota    6. cit.          — Supcrius pro
-                videiur , quia,             alii   codd. sed, edd. quod.                                                                                 qui multi           codil.      quia. Subinde                           pro quia non habet codd. F II
-                        *    Ita    permulti codd., edd. bapiismum. Mox                                               jjio    quia facia                 eo    quod noH habeal.
-                cod.        H quae facta est.                                                                                                                    8    Hic in     lil.    Magislri,                c.        I.   Cfr.     iufra    dub.              3.
-
-                        '    Cfr.    supra    a.       I.    q.     1.                                                                                           ^    Cfr.    supra      a.       2.        q.    2.       ad     3.
-                        ^    Scliolastici diversis in                      locis v.         g.   in      traclatu            de eucbari-                         '"    Vide     iiifra       d.        6.    p.       I.    q.    i ;    cfr.   eliam hio dub.                    3.
-76                                                                                   SENTENTIARUM LIB. IV.
-
-                                            DuB. \T.                                                    esset,       quod              credit          exprimere, non                  sufBceret           —
-                                                                                                        el    ideo solum in casu est                               credendum, ipsum                    locu-
-            Itera   quaeritur super hoc quod dicit Ambrosius,                                           tum        esse, scilicet                si    plena       sit    fides       in    corde, nec
-quod         sufficit     aliquaiu personariim exprimere.                                               desit       aliquid in              sermone ex negligentia, sed solum
-            Nota,      illud     esse           intelligendum          ,        non quia        ibi     impotentia; lunc supplet divina misericordia et sa-
-sit    plena forma                         si    enim crederet                  et    negligens         pientia '.
+Nota, illud esse intelligendum, non quia ibi sit plena forma — si enim crederet et negligens esset, quod credit exprimere, non sufficeret — et ideo solum in casu est credendum, ipsum locutum esse, scilicet si plena sit fides in corde, nec desit aliquid in sermone ex negligentia, sed solum impotentia; tunc supplet divina misericordia et sapientia[^1b].
 
 ## English
 
-[Translation pending]
+## DOUBTS CONCERNING THE TEXT OF THE MASTER.
+
+### Doubt I.
+
+In this part there are doubts concerning the text, and first about what the Master says: *Baptism is a dipping, that is, an ablution of the body performed under a prescribed form of words.* For this description seems to be a poor one: because a description ought to fit the thing described precisely[^11]; but this one is not such, because, when a cloth is washed, it is an ablution of a body, and it can be done under a prescribed form of words, and so it would be baptism; which is false.
+
+**I respond:** It must be said that *ablution,* by antonomasia[^1], is determined to stand for the ablution of water; likewise *body* to stand for a human body, so that the sense is that baptism is an ablution of a human body performed in water[^2], etc.
+
+### Doubt II.
+
+Likewise it is asked about what he says, that *the ablution performed in the element becomes the Sacrament.* For from this it seems that an ablution taken *passively* is the Sacrament; *on the contrary:* the Sacrament is a sign of grace, because «it is the visible form of an invisible grace[^3]»; but grace is not the thing washed, but the thing washing: therefore the sign is not the *passive* washing, but the *active.*
+
+**I respond:** It must be said that in baptism a washing comes together, spoken of in three ways. For he who immerses is said to *wash* and therefore to baptize; likewise the water too is said to *wash,* and the body *to be washed:* and so there is the washing of the man washing, of the water washing, and of the body washed. — Since therefore this threefold washing necessarily comes together for baptism, it is described chiefly by that one which includes and presupposes the others; and this is the *passive washing of the body,* which more immediately regards the one baptized[^4] and presupposes the twofold washing aforesaid, since it is performed both by the man and by the water. — As to what is objected, that it is not a sign of grace; it must be said that this passive washing is a sign of the effect of grace; nor does it have its full signification except insofar as it is joined to the washing of the water and of the minister; for then it is a sign that the soul is purified by God through grace[^5].
+
+### Doubt III.
+
+Likewise it is asked about what he says: *The Sacrament of baptism consists in two things.* For it seems false to say so, because, as Ambrose says[^6], «every Sacrament is simple»: therefore it does not consist in two things, since then it would be composite.
+
+**I respond:** Some put the force in this, that it is called a *Sacrament,* because he does not call the Sacrament the exterior sign, but the interior effect of grace, which is simple grace[^7]. Some put the force in *simplicity,* because it is called simple not because it has no parts, but because it is not divided into several Sacraments. — But neither of these is anything great to say; therefore I believe that he calls the Sacrament *simple* because its denomination comes about in an instant. For if the Sacrament remains incomplete, nothing has been done, nor even ought it to be called begun, but the whole is to be begun again. And this is clear from his words below[^8]: «Where there is not the full Sacrament of baptism, neither a beginning nor any kind of baptism is reckoned»; and therefore he says it to be simple.
+
+### Doubt IV.
+
+Likewise it is asked about what he says: *In the name of the holy Trinity and in the name of Christ... it is one and the same.*
+
+It must be noted that he does not mean to say that the words have the same power, nor that they sound altogether the same, but that the manner of baptizing in the primitive Church was conformable to the manner which the Church now holds. For in *Christ* the understanding of the Trinity is enclosed, yet implicitly and remotely. — Or, *it is the same,* because of the same power and efficacy; but this must be understood for that time in which the name of Christ had not yet been promulgated[^9].
+
+### Doubt V.
+
+Likewise it is asked about what he says: *Where there is not the full Sacrament of baptism, neither a beginning* etc.
+
+It must be noted that this is said on account of the impression of the character; for until the character is impressed, nothing of the Sacrament has been made stable[^10]. And since the character is impressed in an instant, when *something* has been made, *the whole* is complete. If therefore it is not complete, nothing at all has been done, not as regards the *exterior* operation, where there is succession, but the *interior,* where there is a sudden impression.
+
+### Doubt VI.
+
+Likewise it is asked about what Ambrose says, that it suffices to express one of the persons.
+
+Note that this is to be understood not as though there were a full form there — for if one believed and were negligent of what he believes himself to express, it would not suffice — and therefore it is only in such a case to be believed that he has spoken, namely if there is full faith in the heart, and nothing is lacking in the speech from negligence, but only from incapacity; then the divine mercy and wisdom supplies[^1b].
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; the entry from p.74 (note 11) carries over after the preceding quaestio (a2-q3), the ten entries from p.75 begin afresh, and the single entry from p.76 (note 1, here rendered `[^1b]`) closes Dub. VI.
+
+[^11]: **La.** Cfr. supra pag. 28, nota 6. — Pro *notificato,* quod cum edd. retinuimus, cod. I a secunda manu *ei cuius est.*
+    **En.** Cf. above, p. 28, note 6. — For *notificato,* which with the editions we have retained, codex I by a second hand [reads] *ei cuius est.*
+
+[^1]: **La.** Vide tom. III. pag. 220, nota 3. — Edd. cum aliquot codd. *falso auctoritate.*
+    **En.** See vol. III, p. 220, note 3. — The editions, with several codices, [read] *falso auctoritate.*
+
+[^2]: **La.** Idem dub. solvit Alex. Hal., S. p. IV. q. 8. m. 1, ubi etiam de dubio seq.
+    **En.** Alexander of Hales solves the same doubt, *Summa,* p. IV, q. 8, m. 1, where also [he treats] of the following doubt.
+
+[^3]: **La.** Ut dicitur supra in lit. Magistri, d. 1. c. 2. — Pro *contra,* quod exhibent codd. B l aa, codd. F H *et hoc videtur inconveniens, quia,* cod. U (K a secunda manu) *sed hoc non videtur, quia,* alii codd. *sed,* edd. *quod.*
+    **En.** As is said above in the text of the Master, d. 1, c. 2. — For *contra,* which codices B l aa exhibit, codices F H [read] *et hoc videtur inconveniens, quia;* codex U (K by a second hand) *sed hoc non videtur, quia;* other codices *sed;* the editions *quod.*
+
+[^4]: **La.** Ita permulti codd., edd. *baptismum.* Mox pro *quia facta* cod. H *quae facta est.*
+    **En.** So very many codices; the editions [read] *baptismum.* Soon, for *quia facta,* codex H [reads] *quae facta est.*
+
+[^5]: **La.** Cfr. supra a. 1. q. 1.
+    **En.** Cf. above, a. 1, q. 1.
+
+[^6]: **La.** Scholastici diversis in locis v. g. in tractatu de eucharistia, de poenitentia, hanc afferunt sententiam; sed iam S. Thom., IV. Sent. d. 16. q. 1. a. 1. ad 1, dicit: «Dubitatur de illa auctoritate, utrum sit Ambrosii». Alex. Hal., S. p. IV. q. 9. m. 2. a. 1. § 1. allegat *Dionysium,* qui (de Eccles. Hierarch. c. 3. p. 3. § 3.) de eucharistia notat, quod singulare habeat ac *simplex* compactumque principium.
+    **En.** The Scholastics in various places, e.g. in the treatise on the Eucharist, on penance, bring forward this saying; but already St. Thomas, IV Sent., d. 16, q. 1, a. 1, ad 1, says: «It is doubted of that authority, whether it be Ambrose's». Alexander of Hales, *Summa,* p. IV, q. 9, m. 2, a. 1, § 1, cites *Dionysius,* who (*On the Ecclesiastical Hierarchy* c. 3, p. 3, § 3) notes of the Eucharist that it has a singular and *simple* and compact principle.
+
+[^7]: **La.** Ita docet Alex. Hal., loc. in nota 6. cit. — Superius pro *qui* multi codd. *quia.* Subinde pro *quia non habet* codd. F H *eo quod non habeat.*
+    **En.** So teaches Alexander of Hales, in the place cited in note 6. — Above, for *qui* many codices [read] *quia.* Thereupon, for *quia non habet,* codices F H [read] *eo quod non habeat.*
+
+[^8]: **La.** Hic in lit. Magistri, c. 4. Cfr. infra dub. 5.
+    **En.** Here in the text of the Master, c. 4. Cf. below, dub. 5.
+
+[^9]: **La.** Cfr. supra a. 2. q. 2. ad 3.
+    **En.** Cf. above, a. 2, q. 2, ad 3.
+
+[^10]: **La.** Vide infra d. 6. p. I. q. 4; cfr. etiam hic dub. 3.
+    **En.** See below, d. 6, p. I, q. 4; cf. also here, dub. 3.
+
+[^1b]: **La.** Cfr. supra a. 2. q. 2. in corp. et ad 1. — Pro *et ideo* codd. F H *et illud;* deinde pro *tunc* edd. *quia tunc.*
+    **En.** Cf. above, a. 2, q. 2, in the body and ad 1. — For *et ideo* codices F H [read] *et illud;* then, for *tunc,* the editions [read] *quia tunc.*
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from PDF column bands (`colcrop.py vol4 74/75/76 1880`), pp. 74–76, cross-checked against raw OCR (`bonaventure_vol4_raw.txt` L8710–8853). This is the last chunk of Pars I of Distinction III; the next chunk (`d3-p2-divisio`) begins at the `COMMENTARIUS IN DISTINCTIONEM III / Pars II` header on p.76 (raw ~L8855).
+
+**Six dubia (I–VI):**
+- Dub. I — whether the Master's definition of baptism (an ablution of the body) is a fitting description (opens p.74 foot, resolved p.75).
+- Dub. II — whether ablution taken *passively* or *actively* is the Sacrament (the threefold washing).
+- Dub. III — whether the Sacrament can "consist in two things" given Ambrose's "every Sacrament is simple."
+- Dub. IV — the equivalence of baptizing "in the name of the Trinity" and "in the name of Christ."
+- Dub. V — why there is no "beginning" of baptism short of the full Sacrament (the character impressed in an instant).
+- Dub. VI — whether it suffices to express one of the persons (Ambrose).
+
+**Apparatus page-split map (Quaracchi restarts numbering each printed page):**
+- **p.74:** note **11** (`Cfr. supra pag. 28, nota 6…`, anchored on *praecise* in Dub. I) is the only p.74 footer belonging to this chunk; notes 1–10 of p.74 belong to the preceding quaestio a2-q3 (already captured there). Picked up here per the hand-off from the a2-q3 agent (commit c55a4d9).
+- **p.75:** notes **1–10**, all belonging to Dub. I–V.
+- **p.76:** note **1** (`Cfr. supra a. 2. q. 2…`, anchored on *sapientia* at the close of Dub. VI) — rendered as `[^1b]` to avoid an id clash with p.75's note 1. The remaining p.76 footers (notes 2, 3, 4) belong to the next chunk (`d3-p2-divisio`, the Commentarius / Article I), not here.
+
+12 apparatus entries total.
+
+**Hand-off forward (to `d3-p2-divisio`):** Pars II opens on p.76 right column with `COMMENTARIUS IN DISTINCTIONEM III / Pars II — De institutione baptismi`, then `DIVISIO TEXTUS` and `TRACTATIO QUAESTIONUM` (raw ~L8855–8870). The p.76 footer notes **2, 3, 4** (`Hic c. 5.` / `Cfr. hic lit. Magistri, c. 6.` / `Vers. 4.`) belong to that next chunk's Divisio + Article I opener — pick them up there.
+
+**[?] flags:** none. All six dubia and all twelve footers read cleanly from the 450 dpi column bands.
