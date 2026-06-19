@@ -3,253 +3,168 @@ id: "bon-sent-IV-d3-p2-a1-q1"
 volume: 4
 book: 4
 distinctio: 3
+pars: 2
 articulus: 1
 quaestio: 1
 type: quaestio
-line_start: 10944
-line_end: 11171
-word_count_latin: 2137
-transcription_status: "auto-chunked 2026-06-16"
+title_la: "Utrum Sacramentum baptismi debuerit institui in aqua"
+title_en: "Whether the Sacrament of baptism ought to have been instituted in water"
+printed_pages: [76, 77]
+pdf_pages: [96, 97]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 76–77"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR + PDF column bands (raw L8908–9109; skeleton was mislabeled d.4 content, fully rebuilt), fresh literal English, full apparatus, scholion (2026-06-19)"
 format_version: 1
 ---
 
 # bon-sent-IV-d3-p2-a1-q1
+## *Utrum Sacramentum baptismi debuerit institui in aqua*
+
+---
 
 ## Latin
+<!-- page 76 -->
 
-QUAESTIO I.
+### Articulus I. *De baptismi institutione.*
+### Quaestio I. *Utrum Sacramentum baptismi debuerit institui in aqua.*
 
-                                             Ulrum baptismus in digne suscipientibus deleat omnem culpam.
+Primo ergo quaeritur, utrum Sacramentum baptismi debuerit institui in aqua. Et quod sic[^1], ipsum factum Domini ostendit[^3].
 
+Sed quod non, videtur ratione:
 
-                        Et   quod in digne suscipientibus                            deleat        omnem          nis": ergo cum originale peccatum privaveril homi-
-          culpam, ostenditur                 sic.                                                                 nem innocentia directe et principaliler, non delet
-                        1.   Super iilud Exodi decimo quarto^: Nec unus                                           perfecte originale, nisi restituendo innocentiam. Sed
-Fandamenu. ex cis            remausit; Glossa:                «    Omnia peccata                   ablata         non         est    innocens simpliciter ,                        nisi       qui        caret         omni
-          sunt in baptismo, potentia diaboli est submersa».                                                       culpa: ergo videtur                       etc.       .
+1. Quia baptismus est signum sepulturae Christi, sicut dicitur ad Romanos sexto[^4]: *Consepulti enim estis* etc.: ergo
+<!-- page 77 -->
+si sepultura Christi fuit in terra, non in aqua, videtur, quod similiter debuerit baptismus institui in terra.
 
+2. Item, Sacramenta veteris legis fuerunt signa Sacramentorum novae legis, et in illis praefigurata sunt ista; sed Sacramenta veteris legis fiebant vel in eis quae habebant ortum a terra, ut sacrificia et decimationes, vel in aliquo terreo, ut circumcisio, quae fiebat cultello petrino[^1b]: ergo si fuerunt convenientia signa horum, ergo Sacramenta novae legis, maxime baptismus, debuerunt institui in terra, non in aqua.
 
+3. Item, si dicas, quod debet fieri in aqua propter expressam significationem gratiae; sed contra: liquor olei expressius significat gratiam[^2b] quam aqua: ergo magis debuit institui in oleo quam in aqua.
 
+4. Item, dicitur Apocalypsis primo[^3b]: *Lavit nos a peccatis nostris in sanguine suo*: ergo si in baptismo est lavatio a peccatis, et significat illam ablutionem factam per sanguinem Christi, ergo magis debuit institui in sanguine.
 
-                        2.   Item, baptizatus,           si        statim post          baplismum                             CoNTRA          :    morborum diversae Ad tum.
-                                                                                                                                                     1.   Diversorum     opposi-
+Item, quaeritur: quando Dominus instituit Sacramentum baptismi?
 
-         moreretur, evolaret, sicut dicunt                                     Sancti et    Beda \                sunt medicinae, sicut dicit Hieronymus ': «Quod non
-         quod            « baptismus aperit             caelum »               ;    sed nuUus sta-                sanat oculum sanat calcaneum »     ergo cum culpae                    :
+> **Conclusio.** Baptismus convenienter in aqua institutus est.
 
+**Respondeo:** Dicendum, quod Sacramentum baptismi est maxime efficax et maxime necessarium inter alia Sacramenta: efficax, quia in eo imprimitur character, qui disponit animam ad susceptionem luminis gratiae[^4b], ut transparentia vitrum ad susceptionem luminis corporalis; datur etiam gratia mundificans animam; datur etiam illi gratiae actus remittendi ardorem concupiscentiae. Sed quia haec oportuit dari in eo signo, quod sua proprietate multiplici haec omnia designaret; tale autem est aqua, quia transparet et est pervia lumini, et ideo characterem significat; et iterum abluit et mundat inter omnes liquores, et ideo significat gratiam mundantem; item infrigidat, ideo significat remissionem ardoris concupiscentiae[^5b]: conveniebat ergo maxime aqua baptismatis Sacramento ob efficaciam.
 
+Similiter etiam propter necessitatem. Quia enim Sacramentum est, a quo nemo absolvitur, et in quo omnes communicant; necesse fuit institui in liquore, qui est communis apud omnes, et in quo abundant pauperes et divites; talis autem liquor est aqua: ideo etc.
 
+**Ad obiecta:**
 
-          lim evolat, in quo est aliqua                                 culpa, quia perfectio                     sint diversae, non tantum                                specie, sed            genere, utpote
-         gloriae             non compatitur culpain: ergo baptismus de-                                           originalis et actualis et mortalis, ergo ad hoc, quod
-         let    omnem culpam.                                                                                     curentur,                  necesse       est,    quod diversae adhibeantur
-                        3.   Item,   quantulacumque                       gratia           delet    omne          spirituales medicinae. Sed baplismus est                        unicum Sa-
-         mortale et etiam veniale, de quo est contritio: ergo                                                     cramentum: ergo non delet omnem culpam.
-         si     Sacramentum             baptismi              aliquid              addit,        videtur,                     2.    Item      ,
-                                                                                                                                                  gratia     baptismalis est gratia incipien-
-         quod deleat omnem culpam '\                                                                              tium ; sed status incipientium magis est compassibi-
-              4. Item, Sacramentum baptismi est remedium                                                          lis     culpae             quam         proficientium               et     perfectorum, et
-         perfectum, cum sit fundamentum legis perfectio-                                                          gratia incipiens magis compatitur cuipam                                                   quam pro-
+1. Ad illud ergo quod obiicitur, quod signat sepulturam; dicendum, quod non tantum signat Domini sepulturam, immo etiam gratiam, quam donat; et quia in immersione in aquam utrumque signatur, in terra autem non signatur gratia mundans, cum sit faex elementorum: ideo etc.
 
+2. Ad illud quod obiicitur de lege veteri, dicendum, quod, sicut dicit Apostolus[^6b], omnes qui fuerunt in Lege, fuerunt sub maledicto usque ad adventum Christi, qui factus est pro nobis maledictum, ut a maledictione nos liberaret; et quia terra fuit maledicta homini, non aqua, Genesis tertio; in huius signum Sacramenta illa erant ex his quae sunt ex terra; non sic autem Sacramenta nova, quia ista est lex benedictionis. Praeterea, lex vetus et maxime Moysi fuit onerosa ad confringendum duros, et ideo in duris, ut in cultello petrino et in effusione sanguinis, remedium habebant; sed lex nova est suavitatis et amoris: ideo datus in aqua, quae cedit facile[^7b].
 
+3. 4. Ad illud quod obiicitur de oleo et sanguine, patet responsio: quia nec conveniunt significationi efficaciae, cum non mundent, nec necessitati, cum non omnes eis abundent.
 
-                    1   Edd. addunt praemissa varia conditione accipientium.                                      ptum erat, ut in                   Alex. Hal. (S. p.        IV. q. 8            m.    8.   a.   2.   § I.),
-                    •   Codd. omittuni ortum, quod                      claritatis     causa     cum edd.         forma passiva aperitur caelum.
-         letinendum esse censuimu.s.                                                                                      ^ Cfr.        .\ugust., Enchirid.         c.      42.    n.       13;    c.    iii.     n.   17. et
-                    3   Vers. 28, ubi Vulgata superfuit pro                          remansit (Septua-            c.    119. n. 31, ubi docet,                baptismum in parvulis delere origi-
-         ginla).         — Giossa ordinaria (ex               Isidor.      in      Exod.    c.   19.)   apud      nale peccatum, in adullis et originale et peccata actualia.
-          Strabum et Lyranum: Peccala praeterila in baptismo delentur,                                                    s   Sive       legis        evangelicae           quia      secundum               Apostolum
-                                                                                                                                                                       ,
+Ad illud quod quaeritur ultimo: quando est institutum? ex Scriptura potest videri, quae de hoc in multis locis loquitur. Propter quod notandum, quod Dominus baptismi Sacramentum primo insinuavit instituendum, secundo instituit, tertio confirmavit institutum. Insinuavit quidem facto et verbo: facto, cum baptizatus esset a Ioanne in aqua[^8b], ostendit ceteros credentes in aqua fore baptizandos. Insinuavit verbo, cum praedixit Nicodemo, Ioannis tertio[^9b]: *Nisi quis renatus fuerit ex aqua* etc. — Instituit autem, cum ipse baptizare coepit per discipulos, Ioannis tertio: *Post haec venit Iesus in terram Iudaeam et baptizabat*; et tunc instituit facto et verbo: quia dicitur ibidem: *baptizabat*,
+<!-- page 78 -->
+etsi non ipse in propria persona, tamen discipuli in sua praesentia, secundum quod ipse volebat; et rursus, discipulos misit ad praedicandum et baptizandum binos, Lucae decimo, sicut dicit Magister. — Confirmavit autem baptismum facto et verbo: facto, cum de latere eius non tantum profluxit sanguis, verum etiam aqua in ipsa passionis consummatione; verbo autem confirmavit quando post resurrectionem discipulos ad baptizandum omnes et singulos misit, Matthaei ultimo. — Et sic patet, quomodo diversimode loquitur Scriptura.
 
+### Scholion
+**I.** Rationes probantes, aquam congruentem baptismi materiam esse, receptae sunt etiam a S. Thoma et optime paucis comprehenduntur in Breviloq. p. VI. c. 7. — Circa quaestionem incidentem, quando Christus baptisma instituit, olim putavit Alex. Hal. (S. p. IV. q. 8. m. 2. a. 3.), quem sequitur B. Albert. (hic a. 8.), formalem institutionem baptismi non esse factam ante, sed post resurrectionem Christi, quando Christus formam et praeceptum baptismi promulgavit (Matth. 28, 19.); potentialem vero sive materialem institutionem tunc, quando Christus baptizatus fuit a Ioanne. Sed communiter cum Ss. Bonav., Thoma nec non Scoto tenetur, hoc Sacramentum institutum esse iam ante passionem Christi, sed non ante ipsius baptismum. S. Thom. (S. III. q. 66. a. 2.) vult, in baptismo illo Christi hoc Sacramentum «vere institutum» fuisse; sed idem in Comment. (hic q. 1. a. 3. quaestiunc. 2.) dicit, tunc institutum fuisse quoad materiam, formamque aliquo modo fuisse praefiguratam. S. Bonav. et Scot. (hic q. 4. n. 2.) verisimilius esse putant, tunc proprie fuisse institutum, cum Christus discipulos miserit ad baptizandum. Ita etiam sentiunt Petr. a Tar. (hic q. 4. a. 1.) et Richard. a Med. (hic a. 3. q. 1.).
 
+De ipsa 1. quaestione: Alex. Hal., loc. cit. m. 3. a. 2. § 1. — Scot., loc. cit. n. 3. — S. Thom., hic q. 1. a. 3. quaestiunc. 1; S. loc. cit. a. 3. — B. Albert., hic a. 4. — Petr. a Tar., hic q. 3. a. 1. quaestiunc. 1. — Richard. a Med., hic a. 3. q. 1. — Durand., hic q. 4. — Dionys. Carth., hic q. 3.
 
-         et diabolus suffocatur. Cfr. Origen. in                    hunc loc, et August., Serm.                   Hebr. 7,          19, lex vetus nihil ad perfectum adduxit.
-         213. (alias 119. de Tempore)                   c.    8.    n.    8.                                              '    Vide supra pag.             .52,   nota 9.         —     Inferius post             et   actua-
-                    •   Vide supra   d. 3.   p.   II.   dub.       3.     et in     lit.   Magistri,    d.   I.   lis   in cod.     I   secunda manus bene addidit venialis. .Vlex. llal., loc.
-          c.   7.       — iMox codd. omittunt baptismus; primitus                            forlasse scri-       cil.,   simpliciter legit et aciualis mortalis.
-                                                                                                                                                   ,,,,                                                                                                                            — ,
+**II.** De seq. (2.) quaestione cfr. supra d. 1. p. I. q. 3. i. et scholion; insuper Alex. Hal., loc. cit. m. 4. a. 1. — Petr. a Tar., hic q. 3. a. 1. quaestiunc. 3. — Richard. a Med., hic a. 4. q. 1.
 
-
-
-
-                                                                                                                 DIST. IV. P.                 I.        ART.      I.       QUAEST.             I.                                                                                  95
-
-               ficiens vel perfecla ;                                       sed gralia                    in    proficientibus                    et       sed omnia quae consequuntur annexa, huius reme-
-               etiam perfectis compatilur aliquam cuipam,                                                                              sciiicet            dii         virtute deleantur. Et hoc est                                         quod dicitur ad Ro-
-               venialem: ergo                                muUo fortius gralia baplismalis.                                                              manos                quinto *            :         Non          sicut           delictum, ita                     et do-
-
-                           3.       Item,               esto         quod                  aliquis            accedat ad                bapti-             num elc.
-               smum cum motu venialis peccati                                                             ;    aut datur               ei    efle-                         Secunda congruitas                                  est ratione eius,                      ad quod^^^i^^-
-               clus Sacramenti , aut non. Si                                                       non : ergo est fictus '.                                est, quia scilicet est ad                                       regenerandum. Unde in hoc
-               Sed quicumque est ficlus peccat mortaliter: ergo ve-                                                                                        Sacramento transfertur homo a potestate tenebrarum
-               niale        peccatum                         illi   est              morlaie; quod                  slultum vide-                          in adoptionem filiorum                                               Dei,        et         maxime         aperitur
-               tur,        si       quis lioc dicit , quia ad nihil novum obliga-                                                                          largitas divinae                             manus in primo                            reditu et adventu.
-               tur. Si              aulem non est fictus, ergo                                                  recipit           gratiam           ;
-                                                                                                                                                           Et hoc est                    quod             dicilur              ad Titum terlio^: Per                               la-
-
-               et    conslans est, quod                                           illa      non       delel        culpam, quia                           vacrum regenerationis et renovationis Spiritus san-
-               tunc simul esset et non essel: ergo gralia baptisma-                                                                                       cti, quem effudit in nos abunde.
-
-               lis   non delet omneni culpam.                                                                                                                              Tertia congruitas est ratione ordinis , quia illud Ratio 3.
-                   4. Item si  baptismus delet omnem culpam
-                                                   ,                                                                                                      est          primum inter omnia Sacramenta et fundamentum
-               cum Sacramenta non sint nobis necessaria nisi ad cul-                                                                                      ad       alia ;  ideo, ut perfectum sternatur fundamentum
-
-               pam delendam                                 —
-                                quia si non esset peccatum non                                                                           ,                placuit divinae misericordiae huic Sacramento perfe-
-               esset       Sacramentum -                                    — ergo cetera superfluunt.                                                     ctam dare efficaciam ad delendam omnem culpam,
-                           Et ideo quaeritur, ulrum talis effectus debucrit                                                                                nt          posteriorum                      oblitus,                is    qui          baptizatus               est     et
-Quaestio in- (jari         alicui             Sacramento                         ,    et       quare
-                                                                                               ^     magis
-                                                                                                        °  Sacramento                                     quasi novus effectus, omnino ad anteriora exlendat
-  cideDs.
-               baptismi              quam alicui aliorum.                                                                                                  se °.        —
-                                                                                                                                                                   Et quia disposuit huic Sacramento dare prae- corouariam.
-                                                                                                                                                          cipuam efficaciam, et quod virtus passionis specia-
-                                                                    c        N c L u S 1 0.                                                               liter huic Sacramento adesset; ideo dedit etiam ex-
-
-                                                                                                                                                           pressam significantiam; hoc enim inter cetera ma-
-               In baptismo digne suscepto deletur omnis culpa                                                                                             gis indicat, animam fieri sanclam et puram ".
-
-                          et        restituitur Iiomo in pristinani innocentiam                                                                           Concedendum est ergo, quod delet omnem culpam.
-                           quoad animam.                                                                                                                       1. Ad illud ergo quod obiicitur, quod diverso- soiutio op-
-                                                                                                                                                                                              ...         ... positornm.
-                                                                                                                                                          rum morborum diversae sunt medicmae etc; dici
-                                                                                                                                                   '
-                           Respondeo: Dicendum, quod, sicut auctoritales                                                                                  potesl, quod lioc est verum in corporalibus in qui- soiatio i.                                              ,
-
-
-
-
-  conciusio.   dicunt           ,   et        magistri comniuniter asserunt, in Sacra-                                                                     bus est arctatio virtutis; in spiritualibus autem, ubi
-               mento baptismi, si plene percipitur eius efficacia el                                                                                       est         maior communicatio bonitatis, secus                                                       est.      — Sed
-               remedium omnis culpa deletur et restituitur liomo
-                                          ,                                                           ,                                                    quia hoc diximus ^ verum esse in spiritualibus, pro- soiatio aa-
-               in prislinam innocentiam quantum ad animam.                                                                                                 pter             hoc          quod             Sacramenta distmcta                               sunt;             dicen-
-
-                          Si        quaeratur ratio huius; dicendum, quod huius                                                                            dnm, quod remedium potest morbum respicere du- Distinctio.
-      Ratio.   ratio causalis fuit divina liberalitas, quae lantam                                                                           huic          pliciter: aut quia principaliter                                                      fit   ad hoc, aut quia
-               Sacramento contulit efficaciam. Si autem quaeratur ra-                                                                                      hoc curat tanquain annexum.                                                      Dico ergo,                quod         se-
-
- Adqaaest. tio
-incidentem.
-                     liuius , polest congruitas triplex assignari.
-                                                                                      .
-                                                                                                                         ,    .
-                                                                                                                                       —
-                                                                                                                                       ,-
-                                                                                                                                              Pri-         cundum quod diversi sunt morbi spirituales, diver-
-    Ratio 1.   ma polest esse ex parte eius, contra quod baptismus                                                                                         sae etiam sunt medicinae sacramentales principali-
-               est. Baptismus enim proprie estcontra originale, quod                                                                                       ter ad illos ordinatae. Si autem                                                 morbus habeat alium
-               inter omnia peccala peiores in anima reliquit seque-                                                                                        morbum coniunctum, et medicina perfectam habeat
-               las, et cuius corruptio est universalis et magna; et                                                                                        virlutem curandi                               ;        non tantum cnr^l principalem,
-               ideo        congruum fuit                                ,   ut            Deus magnae efficaciae                                  re-      sed etiam                     annexum; et sic dico facere baptismum.
-               medium inslilueret in contrarium; ut, sicut in cor-                                                                                                         2.   Ad        illud           quod            obiicitur,              quod      gratia            bapti-
-
-               ruplione               illius                 morbi manifestatur                                 rigor divinae iu-                          smalis est incipientium; dicendum, quod gratia ba-
-               stitiae, sic eliara in                                       remedio inanifestaretur dulcedo                                                ptismalis habet duplicem comparalionem, scilicet ad Distinctio.
-
-               divinae               misericordiae, ut non solum                                                     ilie         morbus.                  bonurn, ad                         quod            habilitat,               et    ad         malum,               a quo
-
-
-
-
-                      '
-                           CIV.       iiifr.i          a.    2.     q.      2.       —     Inferiiis          post et noii esset Vat.                                  '    Cfr.    supra       d.      3.     p.    I.    a.    I.   q.    3.    in    coip., et          III.   Sent.
-
-               addit talis ci-lpa.                                                         ^    Vide supra          d.   2.       a.    I.   q.    1.      d.     20. q.            i.   in   fine corp.
-
-                       3    Cod.         U auctoritates Sanctorum.                                            Aliquanlo       inferiiis        pro                     8    Supra        d.   2.     a.       I.    q.    3,    ubi etiam in fundam.                  I.    verbuin
-               causalis fuil codd. F II causalis est. Siibinde verbo potest cod. H                                                                         Ilieronymi adducitur.                              — Quae seqiiuntur clarius exhibentur ab
-               pracmitlit            dicendum , quod.                                                                                                      Aie.x.          Ilal.,    loc.     cil.:       Polest dici,                quod        inedicina poiesl referri
-                      *     Vers.             13.      — Superiiis pro                      ille   morbus         Vat. illi morbnm                         ad  morbum dupliciter: aut ut ad illum, ad quem principaliler
-               codd.        et      ed.        I       itlum        morbum ; lectiones incongruae.                                                         et approprialo modo est ordinaia, et secundum hunc respe-
-
-                      ^     Vers. 3. seq. Supeiius lespicilur Coloss. 1,13; Koiii. 8, lo.                                                                  ctum            et relaiionem                diversorum morborum diversae sunt medi-
-                       ^    Pliil.      Quae quidein retro sunt, oblivi.scens
-                                         .3,           13.   seq. :                                                                                        cinae sacramcntales; aut potest referri ad morbum coniunclum
-               ndea vero quao sunt priora, extcndens moipsuni, ad destinalum                                                                               illi    morbo, ad quem                             principaliler             est ordinala         ,   et    secunduni
-               persequor              etc.         — Superius pro steniatur codd. A G                                             IC    aa    cum          hunc respeetum                      et       rekitionem non semper diversorum morbo-
-               Alex.       llal.,        loc cil., statuatur.                              Inferius       pro et quod in codd. F                           runi diversae sunt medicinae etc.
-               bb secunda maiius subsliiuU eo quod.
-                                                                                                                                                                              ,                                                                                                                                                              ,
-
-
-
-
-              96                                                                                                                                SENTENTIARUM LIB. IV.
-
-              curat, sive ad peccatum.                                                         Secundum primam compa-                                                             haec est                    cum voluntate mortaliter peccandi''; fictio
-              rationem competit slatui incipientium                                                       sed quanlum              ,                                              secundiim quid, haec                                               est venialis, quae non impedit
-
-              ad aliam comparationem                                                       ,        cum sit perfectum medi-                                                       ingressum gratiae, sed complementum                                                                                 ,    unde in                    tali
-
-              camentum, habet vim                                                 gratiae perfeclae, et                                                     hoc ex                non habet perfectum effectura.     Aliter tamen po- soimio 3.                                   —
-              divina                  ordinatione                    ,
-                                                                              quae                   in         iiio           Sacramento                              vult       test dici, quod motus venialis non facit fictum sim-
-
-              omnia delere et innocentiam perfecte restiluere.                                                                                                                    pliciter, sed                        ad tempus, quia graliam non expellit,
-                  3. Ad  illud quod obiicitur de molu venialis                                                                                                                    sed retardat, dum non elevat se ad recipiendam                                                                                                      di-
-
- soiatio 1.   peccati, quidani respondent, qiiod veniale tunc effi-                                                                                                               vinam gratiam;                                     et quando talis                              motus cessat, credo,
-              citur mortale, quia negligit se praeparare el ad Sa-                                                                                                                quod statim baptismus plenum effeclum habeat et
-           cramenlum                               disponere,                              non                 quia             idem              peccatum,                       hunc motum                               et alia peccata deleat, etiam                                                          si             non su-
-           quod fuit veniaie, fiat mortale, sed quia addilur con-                                                                                                                 perveniat de                             illo        contritio nova.
-
-Non proba- temptus qui est mortalis'.  ,
-                                            Sed hic sermo durus                                      —                                                                                         /i.       Quod ullimo                            obiicitiir patet,                                   quia baptismus
-              est, quia frequenter insurgunt veniales motus, eliam                                                                                                                non      est iterabilis.                                Et iterum,                             aliquae                   sequelae re-
-                                                                                                                                                                                                                                                                                                                                         "
-              cum spiriluales homines sunt, in                                                                                 perceptione divi-                                  manent, quae, quamvis non                                                              sint culpa,                             inclinant
- soiQiio 2.   norum Sacramentorum.                                                    — Ideo dicunt                                    alii,               quod est               ad culpam,                          et ideo                  indigent remediis                                    aliis.                        Quare '^4incid.
-                                                                                                                                                                                                                                                                                                                                             i"f«st.
-
-
-              fictio                 dupliciter, scilicet                                       simplicUer                             et         secundum                        autem                   hoc          Sacramentnm magis                                                   sit        efficax                      quam
-              quid:                  ficlio         simpliciler                                aufert                 lotum                 effectum, et                          alia, palet                     ex iam                       dictis.
-
-
-
-
-                                                                                                                                                                SCHOLION.
-                           I.    Baptismus                « vilae spiritiialis iaiiua                                          est :       por ipsum enim                                 II.        De divorsis poenarum speciebus, praescrtim de poena
-              membra Cliristi ac de eorpore ellicimur Ecclesiae... Huius Sacra-                                                                                                   injUcla, acta et contracta, cfr. I. Sent. d. 40. a. i. q.                                                                              I   .    ad 3. i;
-              menti effectus est remissio omnis culpae originalis                                                                                      et aclualis,               II.    Sent.           d.     3.5.       a.    I.       q.   2.     ad i, nec non infra d. 20. p. I. q. 2.
-              omnis quoque poeme, quae pro ipsa culpa debelur »                                                                                                 (Concil.          in     fine corp.               —         In    hac          (2.)       quaestione solvenda auclor noster
-              Florent. Decret. pro Armenis). Ilaec plena et perfecta peccato-                                                                                                     presse sequitur Ale.xandrum                                             Ilal.,    loc.          cit.         §    2.     in    fine.
-
-              rum omnium remissio semper comitatur baptismum                                                                                           ,    nisi       adsit              Praeter                Alexandrum                         cfr.       Scot.         ,    locc.            citl.    —          S.         Thom.,
-              obex. Error contrarius, in saec. XVI. late propagatus,                                                                                       quod pec-              Iiic    q.     2.       a.     1.    quaestiunc.                    2.       3;       S.       loc.      cit.      a.     2.       3.          —   Pelr.
-
-              cata baptisnio tanlum tegantur sive radantur, ast non deleanlur,                                                                                                    a Tar.        ,        loc.    cit.       a.       2.    — Richni'd.                   a       Med.,              hic a. 3. q. 2.                      —
-              reprobatus est a Leone' X.                                            16          Maii            1520 per Bullam Exsurcje                                          Durand.            ,    hic q. 3.
-
-              Doinine, prop. 2,                            et    a       Concil. Trident.                             ,   Sess. V. can. 5, qui est                                        III.           In    adullis            effectum                baptismi respectu                                gratiae                 infusae
-              contra asserentes, non                                     tolli      totum id quod veram                                               et    propriam              inaequalem esse,                              facile          inlelligitur,                    cum           causa            disponens ex
-              rationem peccati habeat. Plura liic ot in seqq. quaestionibus dicta                                                                                                 partc baptizati passim diversa sit. Bemissio peccatorum semper
-              magis e.xplicantin- II. Sent.                                    d.      32. a.                   I.   2, et ab .'\le.\andro Ual.                                   est tolalis ct                  sub            hac raiione aequalis                                     in    omnibus              ,
-                                                                                                                                                                                                                                                                                                                             quantum-
-              locc.            infra       citt.                                                                                                                                  cumque                  inaequalia         numerum et speciem
-                                                                                                                                                                                                                                      ipsa          peccala quoad
-                           De hac quaestione                             :   Alex. Hal.                    ,    S.        p.    IV. q. S.                  m. 8. a. 2.            esse possint. De aequalitate effectus in panmlis S. Bona-\'. cum
-
-              g    I   .
-                           —         Scot. ,       liic    q.    b.          n. 9 , et Report.                            hic     q. 5.         —          S.   Thom.             paucis            aliis       specialem quaeslionem habet infra p.                                                             11.         a. 2. q. 3.
-
-              hic q. 2. a.                   I.     quaestiunc.                   I    ;        S.       III.       q. 69. a.          I    ;   S. c. Gent. IV.                            De hac                (3.)           quaestione            :       Alex. Hal.              ,    loc.       cit.      a.           3.    §3.   —
-              c.       37.  —              Petr. a Tar., hic q. 3. a.                                           I.   — Bichard. a Med.                                 ,   liic   S.     Thom.,                liic    q.       2.    a.       3; S. loc.               cit.      a.       8.       —      B. Albert., hic
-
-              a. 3.             q.    I.    — Durand., hic                             q.           2.    — Bionys. Carth., de hac                                          et    a.     10.     —            Petr. a            Tar.      ,   hic q. 3. a. 3.                    — Richard.                     a Med. , hic
-              seq. q. hic q.                       1.                                                                                                                             a.     3. q. 3.             — Dionys. Carth.                            ,   hic       c|.      l.
+---
 
 ## English
 
-[Translation pending]
+### Article I. *On the institution of baptism.*
+### Question I. *Whether the Sacrament of baptism ought to have been instituted in water.*
+
+First, then, it is asked whether the Sacrament of baptism ought to have been instituted in water. And that it ought[^1], the very deed of the Lord shows[^3].
+
+But that it ought not, seems [to follow] from reason:
+
+1. Because baptism is a sign of Christ's burial, as it is said to the Romans, chapter six[^4]: *For you have been buried together with him* etc.: therefore
+si sepultura Christi fuit in terra, non in aqua — if Christ's burial was in earth, not in water, it seems that baptism likewise ought to have been instituted in earth.
+
+2. Likewise, the Sacraments of the old law were signs of the Sacraments of the new law, and these latter were prefigured in them; but the Sacraments of the old law were performed either in things that had their origin from earth, as sacrifices and tithes, or in something earthen, as circumcision, which was performed with a stone knife[^1b]: therefore if those were fitting signs of these, then the Sacraments of the new law, especially baptism, ought to have been instituted in earth, not in water.
+
+3. Likewise, suppose you say that it ought to be done in water on account of the express signification of grace; but on the contrary: the liquor of oil signifies grace more expressly[^2b] than water: therefore it ought rather to have been instituted in oil than in water.
+
+4. Likewise, it is said in the Apocalypse, chapter one[^3b]: *He washed us from our sins in his own blood*: therefore if in baptism there is a washing from sins, and it signifies that cleansing made through the blood of Christ, then it ought rather to have been instituted in blood.
+
+Likewise, it is asked: when did the Lord institute the Sacrament of baptism?
+
+> **Conclusion.** Baptism was fittingly instituted in water.
+
+**I respond:** It must be said that the Sacrament of baptism is most efficacious and most necessary among the other Sacraments: efficacious, because in it the character is imprinted, which disposes the soul to the reception of the light of grace[^4b], as transparency [disposes] glass to the reception of bodily light; there is given also grace cleansing the soul; there is given also to that grace the act of remitting the ardor of concupiscence. But because these things had to be given in that sign which by its manifold property would designate all these; and such is water, because it is transparent and pervious to light, and therefore signifies the character; and again, it washes and cleanses among all liquors, and therefore signifies cleansing grace; likewise it cools, therefore it signifies the remission of the ardor of concupiscence[^5b]: water therefore was most fitting for the Sacrament of baptism on account of its efficacy.
+
+Likewise also on account of necessity. For since it is a Sacrament from which no one is absolved, and in which all share, it was necessary that it be instituted in a liquor which is common to all, and in which both poor and rich abound; and such a liquor is water: therefore etc.
+
+**To the objections:**
+
+1. To that, then, which is objected, that it signifies burial; it must be said that it signifies not only the Lord's burial, but rather also the grace which it bestows; and since in the immersion into water both are signified, whereas in earth cleansing grace is not signified, since it is the dregs of the elements: therefore etc.
+
+2. To that which is objected concerning the old law, it must be said that, as the Apostle says[^6b], all who were under the Law were under a curse until the coming of Christ, who was made a curse for us, that he might free us from the curse; and because the earth was cursed to man, not water (Genesis three); in sign of this those Sacraments were [made] from those things which are from earth; but not so the new Sacraments, because this is the law of blessing. Moreover, the old law, and especially that of Moses, was burdensome for breaking the hard-hearted, and therefore in hard things, as in the stone knife and in the shedding of blood, they had their remedy; but the new law is one of gentleness and love: therefore it was given in water, which yields easily[^7b].
+
+3. 4. To that which is objected concerning oil and blood, the response is plain: because they suit neither the signification of the efficacy, since they do not cleanse, nor the necessity, since not all abound in them.
+
+To that which is asked last: when was it instituted? — it can be seen from Scripture, which speaks of this in many places. On account of which it must be noted that the Lord first intimated the Sacrament of baptism as to be instituted, secondly instituted it, thirdly confirmed it once instituted. He intimated it indeed by deed and by word: by deed, when, having been baptized by John in water[^8b], he showed that the other believers were to be baptized in water. He intimated it by word, when he foretold to Nicodemus, John three[^9b]: *Unless a man be born again of water* etc. — He instituted it, however, when he himself began to baptize through his disciples, John three: *After these things Jesus came into the land of Judea and baptized*; and then he instituted [it] by deed and word: because it is said in the same place: *he baptized*,
+even if not he in his own person, yet his disciples in his presence, according as he willed; and again, he sent the disciples two by two to preach and to baptize, Luke ten, as the Master says. — He confirmed baptism, however, by deed and by word: by deed, when from his side there flowed not only blood, but also water, in the very consummation of the passion; by word he confirmed it, however, when after the resurrection he sent the disciples to baptize each and all, Matthew the last [chapter]. — And so it is plain how Scripture speaks in diverse ways.
+
+### Scholion
+**I.** The reasons proving that water is the fitting matter of baptism are accepted also by St. Thomas and are excellently summed up in a few words in the *Breviloquium*, p. VI, c. 7. — Concerning the incidental question, when Christ instituted baptism, Alexander of Hales (*Summa*, p. IV, q. 8, m. 2, a. 3) once held, whom B. Albert follows (here a. 8), that the formal institution of baptism was made not before but after the resurrection of Christ, when Christ promulgated the form and precept of baptism (Matt. 28, 19); but the potential or material institution then, when Christ was baptized by John. But it is commonly held, with Ss. Bonaventure, Thomas, and also Scotus, that this Sacrament was instituted already before the passion of Christ, but not before his own baptism. St. Thomas (*Summa* III, q. 66, a. 2) holds that in that baptism of Christ this Sacrament was «truly instituted»; but the same [author] in the *Commentary* (here q. 1, a. 3, little-question 2) says that it was then instituted as to the matter, and that the form was in some way prefigured. St. Bonaventure and Scotus (here q. 4, n. 2) think it more probable that it was then properly instituted, when Christ sent the disciples to baptize. So too think Peter of Tarentaise (here q. 4, a. 1) and Richard of Mediavilla (here a. 3, q. 1).
+
+On the first question itself: Alexander of Hales, loc. cit., m. 3, a. 2, § 1. — Scotus, loc. cit., n. 3. — St. Thomas, here q. 1, a. 3, little-question 1; *Summa* loc. cit. a. 3. — B. Albert, here a. 4. — Peter of Tarentaise, here q. 3, a. 1, little-question 1. — Richard of Mediavilla, here a. 3, q. 1. — Durandus, here q. 4. — Dionysius the Carthusian, here q. 3.
+
+**II.** On the following (2nd) question, cf. above d. 1, p. I, q. 3, and the scholion; moreover Alexander of Hales, loc. cit., m. 4, a. 1. — Peter of Tarentaise, here q. 3, a. 1, little-question 3. — Richard of Mediavilla, here a. 4, q. 1.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; this chunk carries the picked-up p.76 notes 1, 3, 4 (note 2 belongs to the d.3 p.2 divisio chunk) followed by q1's own p.77 series (rendered here as 1b–9b).
+
+[^1]: **La.** Cfr. supra a. 2. q. 2. in corp. et ad 1. — Pro *et ideo* codd. F H *et illud*; deinde pro *tunc* edd. *quia tunc*.
+    **En.** Cf. above, a. 2, q. 2, in the body and ad 1. — For *et ideo* ("and therefore") codices F H read *et illud* ("and that"); then for *tunc* ("then") the editions read *quia tunc* ("because then").
+
+[^3]: **La.** Cfr. hic lit. Magistri, c. 6.
+    **En.** Cf. here the Master's text, c. 6.
+
+[^4]: **La.** Vers. 4.
+    **En.** Verse 4. [Rom. 6, 4.]
+
+[^1b]: **La.** Vide supra d. 1. p. II. a. 1. q. 3. et dub. 6.
+    **En.** See above d. 1, p. II, a. 1, q. 3, and dub. 6.
+
+[^2b]: **La.** Arnobius Iunior (claruit circa an. 460), in Ps. 17. ait: *Sicut lucerna corporis oculus, ita lucerna animae mens est, in qua nisi oleum gratiae suae Christus infuderit, penitus lumen habere non poterit.* Cfr. Isidor., in Exod. c. 44.
+    **En.** Arnobius the Younger (flourished around the year 460), on Ps. 17, says: «As the lamp of the body is the eye, so the lamp of the soul is the mind, into which, unless Christ has poured the oil of his grace, it cannot have light at all.» Cf. Isidore, on Exodus, c. 44.
+
+[^3b]: **La.** Vers. 5. [Apoc. 1, 5.]
+    **En.** Verse 5. [Apoc. 1, 5.]
+
+[^4b]: **La.** Cfr. infra d. 6. p. I. q. 2. — Inferius post *primum* datur etiam cod. F addit *in ipso*. Subinde pro *quia* haec cod. I *quia omnia haec*, cod. X *quia haec omnia facit*.
+    **En.** Cf. below d. 6, p. I, q. 2. — Lower down, after *primum* ("first") it is also given; cod. F adds *in ipso*. Then for *quia haec* ("because these") cod. I [reads] *quia omnia haec*, cod. X *quia haec omnia facit*.
+
+[^5b]: **La.** De prima et tertia aquae proprietate vide Aristot. II. de Anima, text. 68. (c. 7.); de Sens. et sens. c. 2. seqq.; II. de Generat. et corrupt. text. 16. seqq. (c. 3. seq.). De secunda cfr. Hugo a S. Vict., II. de Sacram. p. VI. c. 14, et hic lit. Magistri, c. 6, ubi etiam de ratione *necessitatis* paulo inferius posita agitur. Cfr. etiam Tertull., de Baptismo, c. 3. — Pro *et iterum* codd. G I *et quoniam*, cod. F vero legit *item aqua est mundans*, et propter hoc significat gratiam etc.
+    **En.** On the first and third property of water see Aristotle, *On the Soul* II, text 68 (c. 7); *On Sense and the Sensible* c. 2 ff.; *On Generation and Corruption* II, text 16 ff. (c. 3 f.). On the second, cf. Hugh of St. Victor, *On the Sacraments* II, p. VI, c. 14, and here the Master's text, c. 6, where the account of *necessity* placed a little below is also treated. Cf. also Tertullian, *On Baptism*, c. 3. — For *et iterum* ("and again") codices G I [read] *et quoniam* ("and since"), while cod. F reads *item aqua est mundans* ("likewise water is cleansing"), and on account of this it signifies grace etc.
+
+[^6b]: **La.** Gal. 3, 10. et 13: *Quicumque enim ex operibus Legis sunt, sub maledicto sunt... Christus nos redemit de maledicto Legis, factus pro nobis maledictum.* — Seq. textus est Gen. 3, 17: *Maledicta terra in opere tuo* etc. — Codd. A H aa *sub Lege* pro *in Lege*.
+    **En.** Gal. 3, 10 and 13: «For whoever are of the works of the Law are under a curse... Christ has redeemed us from the curse of the Law, made a curse for us.» — The following text is Gen. 3, 17: «Cursed is the earth in thy work» etc. — Codices A H aa [read] *sub Lege* ("under the Law") for *in Lege* ("in the Law").
+
+[^7b]: **La.** Cf. supra d. 1. p. II. a. 2. q. 1. ad 1. et dub. 6, nec non III. Sent. d. 40. q. 1. et 3. — Aristot., IV. Meteor. text. 45. (c. 9.): *Aqua cedit quidem, sed non secundum partem, sed contra secedit.*
+    **En.** Cf. above d. 1, p. II, a. 2, q. 1, ad 1, and dub. 6, as well as III *Sent.* d. 40, q. 1 and 3. — Aristotle, *Meteorology* IV, text 45 (c. 9): «Water yields indeed, but not in part; rather it gives way against [the pressure].»
+
+[^8b]: **La.** Matth. 3, 13. Cfr. August., in Ioan. Evang. tr. 4. n. 13. seq. — Cod. F voci *cum* bene praemittit *quia*.
+    **En.** Matt. 3, 13. Cf. Augustine, *Tractates on the Gospel of John* tr. 4, n. 13 f. — Cod. F rightly places *quia* before the word *cum*.
+
+[^9b]: **La.** Vers. 5. — Seq. textus est Ioan. 3, 22. Cfr. ibid. 4, 1. seq.: *Iesus... baptizat... Quamquam Iesus non baptizaret, sed discipuli eius.*
+    **En.** Verse 5. — The following text is John 3, 22. Cf. ibid. 4, 1 f.: «Jesus... baptizes... Although Jesus did not baptize, but his disciples.»
 
 ## Notes
 
-[Notes pending]
+- **Rebuilt from a mislabeled skeleton (2026-06-19).** The prior skeleton body was d.4 content (auto-chunker pointed `line_start` ~10944 into d.4 — the *Utrum baptismus in digne suscipientibus deleat omnem culpam* question). This chunk is fully rebuilt from the TRUE raw range **L8908–9109** (ARTICULUS I header L8904, QUAESTIO I L8908, opener L8912; q2 begins L9107/9110). Confirmed via PDF (printed p.76 L-2 band) that the body is the water-institution question.
+- **Printed pp.76–77** (PDF 96–97); body continues a few lines onto p.78 (the *quando institutum* development through "diversimode loquitur Scriptura"), with `<!-- page 78 -->` placed at the p.77→78 break.
+- **Page-split / apparatus map:**
+  - **p.76 footers picked up here:** note **1** (`Cfr. supra a. 2. q. 2...`) anchored at *Et quod sic* / *ostendit* in q1's opener (~L8922) — this note was just removed from d3-p1-dubia where it was mis-taken; note **3** (`Cfr. hic lit. Magistri c. 6`) at *ostendit*; note **4** (`Vers. 4`, = Rom 6) at *Romanos sexto*. **Note 2** (`Hic c. 5`) belongs to the d.3 p.2 **divisio** chunk (anchors at "Magister²" in TRACTATIO QUAESTIONUM) — NOT carried here.
+  - **p.77 footers (q1's own series, rendered 1b–9b, in printed order):** 1b (*Vide supra d.1 p.II a.1 q.3 et dub.6*) at obj.2 *cultello petrino*; 2b (Arnobius/lucerna) at obj.3 *significat gratiam*; 3b (Apoc 1,5 — *Vers. 5*) at obj.4 *Apocalypsis primo*; 4b (oil/grace, *Cfr. infra d.6 p.I q.2*) at Respondeo *luminis gratiae*; 5b (Aristotle/Hugh on water's properties) at Respondeo *concupiscentiae*; 6b (Gal 3 / Gen 3) at ad-2 *Apostolus*; 7b (Aristotle Meteor.) at ad-2 *cedit facile*; 8b (Matt 3,13) at *baptizatus a Ioanne*; 9b (John 3) at *Nicodemo Ioannis tertio*.
+- **Scholion** sits at raw **L9068–9106**, after q1's body — Article-I-level, two parts: **I** covers this q1 (and the incidental *quando institutum* question), **II** previews q2. It belongs here in q1; q2 will carry no scholion of its own.
+- **Hand-off forward to d3-p2-a1-q2** (L9110, printed **p.79**): q2 = *Utrum ex institutione baptismi aliqua vis sit collata aquis* (opener *Secundo quaeritur...*, L9113). No footer migration forward from this chunk — p.77's series is fully consumed here; q2 opens a fresh page (p.79) footer series. The Article-I scholion is here, so q2 carries none.
+- **No `[?]` flags** — OCR for L8908–9109 is clean ABBYY quality and was cross-checked against PDF column bands for pp.76–77 (every footer legible).
