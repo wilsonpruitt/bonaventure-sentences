@@ -69,7 +69,7 @@ Notandum, quod illud est dictum propter characteris impressionem; quousque enim 
 
 Item quaeritur super hoc quod dicit Ambrosius, quod sufficit aliquam personarum exprimere.
 
-Nota, illud esse intelligendum, non quia ibi sit plena forma — si enim crederet et negligens esset, quod credit exprimere, non sufficeret — et ideo solum in casu est credendum, ipsum locutum esse, scilicet si plena sit fides in corde, nec desit aliquid in sermone ex negligentia, sed solum impotentia; tunc supplet divina misericordia et sapientia[^1b].
+Nota, illud esse intelligendum, non quia ibi sit plena forma — si enim crederet et negligens esset, quod credit exprimere, non sufficeret — et ideo solum in casu est credendum, ipsum locutum esse, scilicet si plena sit fides in corde, nec desit aliquid in sermone ex negligentia, sed solum impotentia; tunc supplet divina misericordia et sapientia.
 
 ## English
 
@@ -109,11 +109,11 @@ It must be noted that this is said on account of the impression of the character
 
 Likewise it is asked about what Ambrose says, that it suffices to express one of the persons.
 
-Note that this is to be understood not as though there were a full form there — for if one believed and were negligent of what he believes himself to express, it would not suffice — and therefore it is only in such a case to be believed that he has spoken, namely if there is full faith in the heart, and nothing is lacking in the speech from negligence, but only from incapacity; then the divine mercy and wisdom supplies[^1b].
+Note that this is to be understood not as though there were a full form there — for if one believed and were negligent of what he believes himself to express, it would not suffice — and therefore it is only in such a case to be believed that he has spoken, namely if there is full faith in the heart, and nothing is lacking in the speech from negligence, but only from incapacity; then the divine mercy and wisdom supplies.
 
 ## Apparatus
 
-> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; the entry from p.74 (note 11) carries over after the preceding quaestio (a2-q3), the ten entries from p.75 begin afresh, and the single entry from p.76 (note 1, here rendered `[^1b]`) closes Dub. VI.
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Each entry gives the Quaracchi editors' note (**La.**) followed by an English rendering (**En.**). Footnote numbering restarts on each printed page; the entry from p.74 (note 11) carries over after the preceding quaestio (a2-q3), and the ten entries from p.75 begin afresh. (p.76 note 1 was originally mis-taken here as `[^1b]`; it actually anchors in d3-p2-a1-q1 at *ostendit* and has been moved there.)
 
 [^11]: **La.** Cfr. supra pag. 28, nota 6. — Pro *notificato,* quod cum edd. retinuimus, cod. I a secunda manu *ei cuius est.*
     **En.** Cf. above, p. 28, note 6. — For *notificato,* which with the editions we have retained, codex I by a second hand [reads] *ei cuius est.*
@@ -148,9 +148,6 @@ Note that this is to be understood not as though there were a full form there �
 [^10]: **La.** Vide infra d. 6. p. I. q. 4; cfr. etiam hic dub. 3.
     **En.** See below, d. 6, p. I, q. 4; cf. also here, dub. 3.
 
-[^1b]: **La.** Cfr. supra a. 2. q. 2. in corp. et ad 1. — Pro *et ideo* codd. F H *et illud;* deinde pro *tunc* edd. *quia tunc.*
-    **En.** Cf. above, a. 2, q. 2, in the body and ad 1. — For *et ideo* codices F H [read] *et illud;* then, for *tunc,* the editions [read] *quia tunc.*
-
 ## Notes
 
 **Provenance.** Latin re-set from PDF column bands (`colcrop.py vol4 74/75/76 1880`), pp. 74–76, cross-checked against raw OCR (`bonaventure_vol4_raw.txt` L8710–8853). This is the last chunk of Pars I of Distinction III; the next chunk (`d3-p2-divisio`) begins at the `COMMENTARIUS IN DISTINCTIONEM III / Pars II` header on p.76 (raw ~L8855).
@@ -166,7 +163,7 @@ Note that this is to be understood not as though there were a full form there �
 **Apparatus page-split map (Quaracchi restarts numbering each printed page):**
 - **p.74:** note **11** (`Cfr. supra pag. 28, nota 6…`, anchored on *praecise* in Dub. I) is the only p.74 footer belonging to this chunk; notes 1–10 of p.74 belong to the preceding quaestio a2-q3 (already captured there). Picked up here per the hand-off from the a2-q3 agent (commit c55a4d9).
 - **p.75:** notes **1–10**, all belonging to Dub. I–V.
-- **p.76:** note **1** (`Cfr. supra a. 2. q. 2…`, anchored on *sapientia* at the close of Dub. VI) — rendered as `[^1b]` to avoid an id clash with p.75's note 1. The remaining p.76 footers (notes 2, 3, 4) belong to the next chunk (`d3-p2-divisio`, the Commentarius / Article I), not here.
+- **p.76:** note **1** (`Cfr. supra a. 2. q. 2…`) was originally mis-taken here (as `[^1b]`, anchored on *sapientia*). Corrected 2026-06-19: it actually anchors in **d3-p2-a1-q1** at *ostendit* and has been removed from this chunk. p.76 notes 2, 3, 4 belong to d3-p2-divisio / a1-q1.
 
 12 apparatus entries total.
 
