@@ -6,313 +6,152 @@ distinctio: 7
 articulus: 1
 quaestio: 2
 type: quaestio
-line_start: 18943
-line_end: 19232
-word_count_latin: 2029
-transcription_status: "auto-chunked 2026-06-16"
+title_la: "Utrum materia confirmationis sit necessaria"
+title_en: "Whether the matter of confirmation is necessary"
+printed_pages: [166, 167]
+pdf_pages: [186, 187]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 166–167"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 18943–19112) with 450 dpi PDF column bands authoritative in the cascade-shattered Respondeo/footer regions, fresh literal English, full apparatus from raw OCR (13 entries: p.166 notes 1–11 + p.167 notes 2–3), scholion is the unified three-question article scholion that lives in a1-q3 (2026-06-20)"
 format_version: 1
 ---
 
-# bon-sent-IV-d7-a1-q2
+# IV Sent., d. 7, a. 1, q. 2
+## *Utrum materia confirmationis sit necessaria*
+
+---
 
 ## Latin
+<!-- page 166 -->
 
-QUAESTIO 11.
+### Quaestio II. *Utrum materia confirmationis sit necessaria.*
 
-                                                                                                     Uirum nmlerkt con/innationis sil, iiece-ssaria.
+Secundo quaeritur de materia, utrum sit necessaria; et videtur primo, quod istud Sacramentum indigeat necessaria materia:
 
-                             Secundo qnaerilur de materia, utnim sit                                                                          iieces-                Item, quaero: quare magis assumilur balmmum Qiiaestio i»
-                                                                                                                                                                                                                                                                                  cm6DS Ot   I
+1. Quia, sicut dicit Hugo[^1], «Sacramentum est elementum foris sensibiliter propositum, ex similitudine repraesentans»; sed repraesentatio est per materiam: ergo materia est necessaria.
 
+2. *Praeterea,* supra[^2] habitum est, quod Dominus potestatem mundandi non tradidit homini per se, sed per elementum, ne poneretur spes in homine: ergo pari ratione potestatem confirmandi non debuit dare homini nisi mediante elemento.
 
+**Contra:** 1. Apostoli sola manus impositione confirmabant[^3]: ergo videtur, quod successores eorum sola manus impositione hoc possint, si transmiserunt potestatem, quam habebant.
 
+2. Item, materia aliorum Sacramentorum fuit instituta a Christo, ut patet in baptismo et eucharistia, et Christus etiam ea suscepit: ergo videtur pari ratione, quodsi hoc Sacramentum haberet materiam, quod Christus instituisset Sacramentum suscipiendo. — *Si tu dicas,* quod non decebat eum confirmari; *obiicitur tunc,* quia similiter nec circumcidi nec baptizari; sed fecit propter auctoritatem Sacramenti et humilitatis, ut habitum est[^4], exemplum: ergo etc.
 
-               saria; et                videlur primo, quod                                               islud          Sacramentum                        quam aqua ?                    Et videtur,                     quod aqua               magis, quia
-               indigeat necessarin materia:                                                                                                                 morbo generali debet respondere eleiuentum com-                                                                                  \
+*Quaestio incidens 1.* — Item, quaero, utrum materia huius Sacramenti debeat esse *consecrata,* et videtur, quod *sic:* quia est chrisma, quod consecratur a Pontificibus determinato tempore anni[^5]. — Sed videtur, quod *non,* cum alia Sacramenta possint fieri sine consecratione, ut patet in baptismo, qui antecedit, et eucharistia, quae sequitur baptismum: ergo et in confirmatione.
 
+*Quaestio incidens 2.* — Item, quaero: cum alia Sacramenta habeant elementa simplicia non mixta, quare hoc Sacramentum habet *mixta?* Et videtur, quod non deberet habere, quia dicitur Ecclesiastici vigesimo quarto[^6]: *Quasi balsamum non mixtum odor meus;* hoc dicit Sapientia de se.
 
+*Quaestio incidens 3.* — Item, quaero: quare magis assumitur *balsamum* quam aqua? Et videtur, quod aqua magis, quia morbo generali debet respondere elementum commune et generale; sed balsamum est pretiosum et rarum[^7], aqua communis est omnibus: ergo etc.
 
+*Quaestio incidens 4.* — Item, quare magis *oleum* quam vinum? Et videtur, quod vinum magis, quia facit hominem audacem et disertum; et hic est huius Sacramenti effectus.
 
-                              1.   Quia, sicut dicit Hugo ',                     Sacramentum est           «                                                mune el generale; sed balsamum est preliosum el
-Fiindamenta.elementum foris                                   sensibiliter proposilum, ex simili-                                                           rarum'', aqua communis est omnibus: ergo                                                             ete.
-                                                                                                                                                                                                                                                                                             [
+> ### Conclusio.
+> Materia consecrata est de integritate confirmationis.
 
+**Respondeo:** Sicut tactum est prius[^8], Christus hoc Sacramentum non instituit, quia credentes post eius ascensionem erant confirmandi. Unde nec materiam nec formam Apostoli dispensaverunt, sed rem huius Sacramenti sine *forma,* a Spiritu sancto immediate confirmante, et sine *elemento* vel materia, quia in datione Spiritus sancti signa visibilia apparebant[^9]: et ideo non erat opus elemento. Sed post a successoribus institutis dandus erat vi verborum et invisibiliter; ideo oportuit, institui sensibile elementum.
 
-               tudine              repraesentans »                             ;   sed           repraesentatio est                                 per              (tem, quare inagis oleum                                    quam vinum ? Et vi- Q".^/^''",'"
-               materlam: ergo maleria                                               est necessaria.                                                         detur,            qnod vinum magis, quia                                facit     hominein au-
-                             2.    Praelerea, snpra                                  '^
-                                                                                           habitum                est, quod                   Domi-         dacem             et     disertum;                  et inc        est      liuius          Sacramenti
-               nus potestatem mundandi non tradidit iiomini per se,                                                                                         effectus.
+Institutum est igitur hoc *elementum,* Spiritu sancto dictante, ab ipsis Ecclesiae rectoribus; et quia Christus non instituerat nec vim ei dederat, secundum quod ipse «contactu mundissimae carnis dederat aquis[^10]», et ut ipse, conficiendo corpus suum, instituit elementum sive materiam eucharistiae, ut panem vel vinum: ideo episcopi non valentes se ipsis materias consecrare, consecrari per benedictionem instituerunt. Et ideo materia huius Sacramenti debet esse consecrata.
 
-               sed per elementum, ne poneretur spes in homine
-               ergo pari ratione potestatem contlrmandi non debuit
-                                                                                                                                                                                                         CONCLUSIO.
-               dare homini                        nisi            mediante eiemento.                                                                                       Materia consecrala                              est   de integritate
-                             GoNTRA:               1.     Apostoii sola manus impositione con-
-                                                                                                                                                                                                        confirmationis.
-Ad opposi- Ilrmabant^: ergo videtur,
-    tum.
-               sola
-                    ,
+Ad illud quod quaeritur: quare *mixta* in isto, et non in aliis? dicendum, quod, sicut dictum est[^11] de forma, quia erat ad duplicem actum arduum, ideo duplex actus exprimitur in forma; et ideo et
 
-                             manus
-                                                  ....
-                                                  imposilione
-                                                                                           qucd
-                                                                                    hoc possmt,
-                                                                                                            successores
-                                                                                                            .
+<!-- page 167 -->
 
+duplex *elementum,* consonans illi duplici actui et rei, commiscetur: *oleum* olivarum propter nitorem signat interiorem fidem ex bona conscientia; *balsamum* propter odorem dignam et laudabilem confessionem. Et ex hoc patet, quare haec duo elementa magis quam alia.
 
-                                                                                                                         si
-                                                                                                                            .
-                                                                                                                                              eorum
-                                                                                                                                     transmise-                      Respondko:                        Sicut            tactum   est       prins ^ Christiis
-               runt potestatem                           ,
-                                                               quam habei}ant.                                                                              hoc S.acramenliim non                                   instiluit,      quia credenles post
-                             2.    Item, materia                           aliorum                        Sacramentorum                             fuit    eius ascensionem erant confirmandi.                                             Unde nec ma-
-               instituta a Christo, ut patel in                                                           iiaptismo et euchari-                             teriam nec                    formam                Apostoli         dispensaverunt,                         sed
-               stia,           et Christus                         eliam            ea          suscepit:                ergo              videtur          rem huius Sacramenti sine fo7-ma, a Spiritu                                                           sancto                         '
+Ad illud quod obiicitur de *generalitate,* dicendum, quod hoc verum esset, si esset Sacramentum necessitatis, et salvaretur in *aqua* completa ratio signandi[^12]. — De *vino* similiter dicendum, quod non convenit propter hoc, quod audacem et fortem faciat obnubilando rationem: ideo non convenit, quia fortitudo spiritualis est ex ratione recta et pura, non ex ratione obnubilata[^13].
 
-
-
-
-               pari ratione, quodsi hoc                                                 Sacramentum haberet                                         ina-    immediate confirmante, et sine elemento vel maleria,
-               teriam, quod Chrislus instituisset Sacramentum su-                                                                                           quia         in     datione Spiritus sancti signa                                visibilia             appa-
-               scipiendo.                   — Si                  tu clicas,                    quod non decebat eum                                        rebant^: et ideo                           non erat opus elemento. Sed post                                                          ?
-
-
-
-
-               confirmari; obiicitur tunc, quia simililer nec circum-                                                                                       a successoribus inslitutis                                    dandus erat            vi        verborum                              \
-
-
-
-
-               cidi nec               baptizari; sed fecit propter auctoritatem Sa-                                                                         et invisibiliter;                    ideo oportuit,                  inslitiii       sensibile elc-
-               cramenli el humilitalis, ut habitum esf", exemplum:                                                                                          menlum.
-               ergo etc.                                                                                                                                             Institutum                      igitur
-                                                                                                                                                                                                 ost -                     hoc elementam,                        Spiritu-^'ii-i™s'.!
-                                                                                                                                                                                                                                                                   '
-                                                                                                                                                                                                                                                                                  iiicid.        ,j
-
-
-
-
-                             Item, quaero, utrum maleria liuius Sacramenti                                                                                  sanclo            dictante,                ab      ipsis       Ecclesiae         recloribus ;                    et                  \
-
-
-Qsaestio iQ-   debeat esse consecrata,                                              et      videtur,                  quod sic: quia                        quia Chrislus non                                inslituerat nec               vim        ei        dederat.                         1
-
-
-
-
-               est      chrisma, quod consecratur a Pontificibus deter-                                                                                     secundum quod                         ipse         « contaclu           inundissimae carnis
-                                                                               — Sed videtur, quod non,
-                                                                                                                                                                                                                                                                                                 \
-
-
-
-               minato tempore anni ".                                                                                                                       dederat aquis '"                    >i ,   et ut ipse, connciendo corpus suum.                                                       i
-
-
-
-
-               cum alia Sacramenta possint fieri sine consecratione,                                                                                        instiluit           elemenlum                     sive        materiam eucharisliae, ut                                              I
-
-
-
-
-               ut patet                in     liaplismo, qui antecedit, et eucharislia,                                                                     panem vel vinum                              :     ideo       cpiscopi         non valenles                      se
-               quae sequitur baplismum: ergo                                                              el     in    confirmalione.                       ipsis        materias consecrare, consecrari per benedictio-
-                             Kem, quaero: cum                                             alia        Sacramenta                           habeant          nem          instiluerunt. Et ideo materia huius Sacramenti
-Qnaesiioin- elementa                   simplieia non mixta, quare hoc Sacramen-                                                                             debet esse consecrata.
-               tum habet mixta? Et videtur, quod non deberet ha-                                                                                                     Ad         illud     quod quaerilur: quare mixta \t\                                              isto.-^^ii-q.^st
-
-               bere, quia dicitur                                    Ecclesiaslici                         vigesimo                   quarto":              et   non in aliis? dicendum, cpiod,                                     sicul        dictum                est
-                                                                                                                                                                                                                                                                             "
-               Quasi balsamum non mixtum odor meus; hoc di-                                                                                                 de forma, quia erat ad duplicem aclum                                                          arduum             ,
-
-
-               cit      Sapientia de se.                                                                                                                    ideo duplex actus exprimitur in forma; et ideo                                                                   ei
-
-
-
-
-                        '     Liljf.    1.   de Saci-ain. p. 1\. o. 2. Cfr. supra pag.                                                 1.3,   nola 2.            ^
-                                                                                                                                                                         Codd. A C caruni.
-                        -     Dist.    3.     a.    3.        q.     I.                                                                                          5       Quaest. pracced. ad                    I   .
-
-
-
-                        ' .\ct.        8.     17,        ijhi        Glossa               inti>rl.ii>mris             (apud           Lyi'aniiivj)               ^       Cfr.      Acl.   19,      6.    — Paulo superius                 post ))(r(to7a cod. aa
-               Ecce          e.veinpluji!          conlijanalionis.                     —       In    fine ai-g.         non          paiici       codd.    non male supplet conferebanl ,                                et pro sine forma plurinu codd.
-               tran.smiierint pro iransmiserunt.                                                                                                            perperam            sice      forniam.             Vat.       lianc propositionem               ,    uipote       a
-                        <     Supra          d.    .3.       p.     II.   a.       3.      q.    I.       ad     3,    ulji          triplHx       ralio    communi doctrina alicnam, miilavit sic: sinc forma a Spirilu
-               adduciiur,              scilicet          in    fidei      argumentum, humUilatis exTmfjlwn                                                  sanclo immediale acceperunl.                                 Nam immediate ab ipso c.onfir-
-               ct   Lcgjs coiiiplementuni. Cfr. eliam                                                d.    6.    p.    IL       a.    I.   q.      1.   —   mali fucrunt et quidem sinc elcmcnto                                    etc.   Mox pro Sed post
-               Supplevimus ex cod.                             .\    liumiliiatis , nl,                    quod male decst in aliis                         [cod.        H potius] a swcccs.soribus edd. Sed postea siiccessoribus.
-               oodd. et in edd.                                                                                                                                     '"    Secundum Bedam,                      suiira pag. 21,         nota      3.   allegatum.             —
-                        =     Scil.     secunduin antiquum inorcm in Coena Domini, ut                                                                       Siiperius pro lioc              elcmentiim cod.                   U lioc Sacramenlum. Iiifra
-               insinuatur C. Litteris veslris                                      (18.),            de     (^lonsecrat.              d.      3.    Cfr.    pro episcopi cod. aa                       ipsi.
-
-               C. Presbyteri,                     qui per dioeceses                             (t.),       d.    9-3,      ot       Dionys., do                  " Quacsl. praeced.                         — Pro de forma edd.              et      pknimi codd.
-               Eccles. Hierarcli. c.                          i.     por totum.                                                                             in forma; qui ciror forle irrepsit ex ,seq.                              in    forma.          — Mox post
-                        '^
-                              Vers. 21.            —          !'ro    deberet codd. (iil deheat.                                                            arduum codd. M                  ^iMunlsice diljicilem, codd. KLaa difjicilem.
-                                                                                                                                                           ;
-
-
-
-
-                                                                                                                        DIST. VIl. ART.                        I.        QUAEST.                          11!.                                                                                             187
-
-              daplex elemenlum, consouans                                                             illi        duplici actiii                          et        dum, quod boc verum essel, si esset Sacramentum Ad 3. ei /.
-              rei,       (oimniscetur: oleum olivarnm propter nilorem                                                                                               necessilatis, el salvaretnr m aqua complela ralio cid.
-             signat interiorem Hilem ex                                                  bona conscientia; balsa-                                                   signandi '.                      —
-                                                                                                                                                                                   De ii««o similiter dicendnm, quod non
-             mim propter odorem dignam et laudabilem confes-                                                                                                        convenit propler hoc, quod audacem et fortem faciat
-             sionem '. Et ex boc patet, quare haec duo elementa                                                                                                     obnubilando rationem: ideo non convenit, quia                                                                                              for-
-              magis             quam alia.                                                                                                                          titudo spiritualis est ex ralione recta et pura. noii
-                         Ad       illud       quod             obiicitur de generalitale, dicen-                                                                    ex ralione obnnbilata                                               '.
-
-
-
-
-                                                                                                                                                   QUAKSTIO               III.
-
-
-
-
-                                                       Utrum quilibet possit dispensare confirmaiionem, sallem in necessitale.
-
-
-                         Tertio          quacritur                       de         potentia dispensandi                                             hoc        ergo                 si     alius inungat el verba dicat, hoc                                                                Sacramen-
-             Sacramentum;             quod        et videtur,                                               quilibet possit hoc                                     tum non                      tribuit.
-
-             Sacramenlum dispensare, saltem                                                                 in        necessitate:                                               3.         Item,        rnlione videtur: quia, Actuum octa-
-                         1.     Quia,         si       baplizat quis, baptizalum est:                                                               cum             vo \              dicit           quaedam Glossa, quod Philippus ille, ad
-^d opposi-   igitur            baptismus maximae elTicaciae                                                            sit     inter Sacra-                         cuius                  praedicationem                                Samaritani                      crediderant,                          non
-             menla \              et     quod potest                           in    maius polest                                   in        minus             poterat                     manus imponere, quia non erat Apostolus:
-             ergo         si     potest quilibet                          baptizare, polest etiam con-                                                          ergo solnm Aposlolis hoc concessum erat.
-             firmare.
-                         "2.    Item, in naturis sic est, quod ubi res                                                                               est,                                                                      c        N c L l' s 1 0.
-             ibi     operatur, non ubi debet                                               esse                  et     non          est       :    ergo
-             si     Spiritus sanctus est in laico bono                                                                  et      non           in     epi-                   Confirmatio nec potest nec debet dispensari
-             scopo             malo;          videtur,                        qnod            magis                     confirmet                    per                                                                     nisi       ab episcopis.
-             Jaicum.
-                         3.     ilem,simplex sacerdos inungit chrismate in                                                                                                       Respondeo: Dicendum, quod illud Sacramentani condasio.
-             verlice''; aut                   lanc aliguid                          facit,                  wXnildl.                     S\ ni/iH,              nec potest nec debel per alios '" dispensari, et si alii
-             Innc          frustra            facit;                si        aliquid                   facit,               pari             ratione           praesumunt,                                          nihil      lacimit.                   —       VA         latio          hnius          est,Ri'''J-
-
-             potest iiiungere in fronte;                                            sed hoc                           est      confirmare:                      quia anctorilas                                             Ecclesiae             fuit         derivala                 ad          membra
-             ergo         elc.                                                                                                                                  secuTidnm ordinem Ecclesiae                                                                    primum; unde sicut
-                         4.     Item,        si        solus episcopus hoc potest, aut hoc                                                                      soli            Apostoli hoc polerant, sic nunc soli eorum snc-
-
-             est propter                 ordinem                    ,    aut         propter                          iurisdictionem..                          cessores possunt.
-             Si     propter ordinem,                                    cum alium ordinem non                                                         ha-                        Sed lunc est quaestio: quare
-                                                                                                                                                                                                        -
-                                                                                                                                                                                                              hoc Sacramentum S™^;. in-
-                                                                                                                                                                                                                                                                                                                      cid. solvUur.
-             beat        quam sacerdos'^:                                ergo el sacerdos;                                          si        propler           et ordinis                            a sohs episcopis                                     traditnr el solis episco-
-             iurisdictioncm : ergo                                       electus              non                 consecralus                        hoc            pis fnit               cominissum? Dicendum                                                ,
-                                                                                                                                                                                                                                                                   quod              ratio "          hnius
-             potest.                                                                                                                                            est, quia                        ipsi                et eoriim successores sunt praelali in
-
-                         Contra: 1. Magister dicit in litlera ', quod                                                                              « hoc                                        autem
-                                                                                                                                                                    Ecclesia principales; praelati    dnplex est offi- oapiei oic-
-                                                                                                                                                                                                         *
-                                                                                                                                                                                                                        cium prae-
-undamenia.Sacramenlum            summis sacerdotibus datur,
-                                              a          solis                                                                                                  cium, scilicet inferiores in gradu suo statuere e( col- i^"-
-             alioqniii            non       licciesiae compu-
-                                             est        inler            Sacramenla                                                                                 locare in ordine, et                                            murum ponere se sive gregem
-             tandum, immo irritum habendum » ergo a nullis                                                        :                                             sunm defendere:                                               ideo           ipsi          soli     ordines                   faciunt et
-             aliis potest dari.                                                                                                                                 corrcborant ^".
-                         2.     Item     ,    Rabanus'                          dicit:              «        Per             impositionem                                        Aliter diciint aliqui,
-                                                                                                                                                                                                                                    '
-                                                                                                                                                                                                                                                 quod in                his duobus Sacra- '^^"'' ""<>-
-                                                                                                                                                                                                                                             '    '                                                                     rom.
-             manus summi                           sacerdotis Paraclilus                                                traditur                   bapli-       mentis datur gratiae plenitudo; ideo ab                                                                                      his debent
-
-             zalo » ; et                vocat            snmmiim sacerdolem episcopum                                                                      :    dari, qni liabent plenitudinein anctoritalis, ab aiiis
-
-
-
-
-                     '   llugo a S. Vicl.                 ,    II.       tle    S:irr;ini.              p.       XV.           c.    I   :    Unck' et                      ^        Secundiim opruinnem Scliohisiicornni.                                                          f:!"r.    infra       d.    U.
-             |)ropler ;iJiuiu!anliain                     grnli.ie             [cli:isni;i]                  (kios           llquorcs inixtos                       p.    II.        11.   2.    q.            ?,.
-
-
-             liiibel :     oleuni scilicet               ei     balsiiinum. Oleuni couscienliao, bnlsa-                                                                     '        Hic        c.        2.
-
-             niuui famiie ; oleum,                       quo            iulus       couscicnlia                        pi-rnugiliir,                balsa-                  8        Libr.           I.    de         luslil.      cleric.            c.    .30.    Vide            hic      lil.   .Magistri,
-
-             muni, cuius odore                     foris        proximi respergunlur                                     ;   oleuin intus ;icl                  c.       3, el C. yocissime (3.), de Consecrat. d. 5.
-             paceni        cnm Deo, balsamuni foris acl exenipluui cuni proxinio.                                                                                           '         Vers.           1   7.         Glossam Bedae vide supra pag. S8                                           ,   nota 7.
-             Cfr.    infra       lil.   Magistri.             il.       XMII.        c.       1.                                                                            "•         Siniul audi : nisi per episcopos. Vide                                                    tanien huius sen-
-                     -   Cfr.     infra      a.    .3.    q.        2.    et siipra              cl.        3.    )i.    II.    a.       I.    q.    I.         teuliae reslriclioneni infra                                            dnb.      I.
-
-                     ^   Vido       scliolion acl              praecedenteni quaesl.                                                                                            " Pro dicemlmn , quod ralio codd.                                                       et     ratio.
-                     *    Vide supra              d.     4.    p.        I.    a.   I.     c|.         I.    sc(|.       — De seq. pro-                                         '2     Cfr. infra                    lil.    Wagistri        ,   d.    XXIV.            c-.    14.    seq.      — De           seq.
-             jiosil.     cfr.    supra pag. Ii2, nola                               S.     — Quo(l qiatibel                              \)o$s\t      ba-       ratione                    vide           hic         lit.   Magislri,           c.    i,    et    infia        d.     2-5.    a.    I.    q.    1.
-
-             pti/.are,         oslensum           est    supra            d. 5.          a.      I.     et        2.                                            — Pro murum ponere edd. murum oppoitere quae                                                                    ,
-                                                                                                                                                                                                                                                                                                leciio con-
-                     =    L:t    dictiim est supra d.                          0.    |i.      II.      a.        3.     q.     2.    circa         nuem.        grnil F.7.ech.                        13. o.
-                                                                                                                                             ,                                                                                                                                     ;   ,
-
-
-
-
-               l6cS                                                                                                        SENTENTIARUM IJB. IV.
-
-               noii.     Propter lianc eandem                                      rationem               consecrare ec-                             ctus operatur, ubi est;                                      dicendum, quod                         gratia Spi-
-
-               olesias etabbates, qiiia sunt opera excellentiae, so-                                                                                 rilus sancti,                    per             quam            dicitur              in    nobis         operari,
-
-               lis episcopis sunt concessa, pro co quod liabent ex-                                                                                  duplex                est, scilicel ^ra/MHi faciens , et sic operatur fjpiex gra-
-
-               ceilentem auctoritatem.                                                                                                               opera nostra'' ad saluteui eius,                                                 in    quoest;                 et   gra-
-                        Alia ratio potest reddi,                         quod ipsis episcopis est                                                    tis    data,               el    per banc                    operalur salutem                       iii        altero
-
-  Raiio   3.   cura de subditis et                                maxime de clericis, cum curam                                                      et    baec manet                      in    bomine, gratia gratum faciente re-
-               babeant de omnibus; licet aliis commissa sit custo-                                                                                   cedenle. ex dispensatione divina,                                                      ut    subdili                salus
-
-               dia', tamen placuit Spirilui sancto, ul aliquod Sa-                                                                                   non impcdiatur                         raalitia                praelali.
-
-               cramentum                 omim .subditi a praelalo reciperent im-                                                                                 3.        Ad    illud          quod              obiicitur           de sacerdote, quod
-
-               Hjerf/ate; similiter,                          quod            clerici         aliquod; el illud est                                  ungil           iii        vertice;          dicendum,                      quod           nihil     efficit;               et
-
-               duplex Sacramentum,                                  quo duplex iinprimilur si-
-                                                                        ia                                                                           tamen non frustra                                 fit,       quia instruit et coniunctum
-
-               gnaculura. Unde et                             Aposlolus, primo- ad Romanos:                                                          cfficit ,            scilicet         baplisma ^ Praeterea ,                                  si    aliquid                 fa-
-
-               Desidero videre vos , ut aliquid impertiar vobis spi-                                                                                 cit,     non tamen ut Sacramentum confirmationis.
-               ritualis gratiae                          ud conftrmandos vos.                                              — Multae                              4.        Ad     illud         quod uitimo                      obiicitur:             unde habel
-Notandum. possuut bic                       ratioues assignari et coovenientiae , quia                                                               hoc episcopus; dicendum. quod nec a iurisdictione ^ouiniam.
-               in     talibus          magis locum babet congruitas quam ne-                                                                         nec ab ordine sacerdotali, sed aucloritate et digni-
-               cessitas ,              quia          inslitutio                    necessitatem                            facit    prae-            tate episcopali; et                               haec          dicit       ordinem in eminentia.
-               cipue °.                                                                                                                              Ilaec           autem eminentia confertur episcopo, cum con-
-                            1.    Ad    illud           quod            obiicitur              de baptismo, dicen-                                   secratur; et                     ideo            si      renuntiet iurisdictioni                           ,        adhuc
-Solutio op'    dum, quod non                              est          simile: quia                      enim               baptismus                potest connrmare'"'.                                  Quamvis              igitur           non      babeat ex
-posilcrum.
-               est      Sacranientum                          necessilatis,                     ideo          poteslas                eius           ordine sacerdotali                                nec          ex         iurisdiclioiie            temporali,
-
-               omnibus est concessa; non                                            sic       autem esl de confir-                                   babet lamen ex aliquo, quod superexcellit ulrum-
-               raalione.                                                                                                                             que.        —          Aliqui tainen                         dicuiit,           quod hoc babet ra- '^'''«''-
-                         2.       Ad illud quod                         obiicitur,                  quod       Spiritus san-                         tione institutionis'.
+---
 
 ## English
 
-[Translation pending]
+### Question II. *Whether the matter of confirmation is necessary.*
+
+Secondly it is asked concerning the matter, whether it is necessary; and it seems first that this Sacrament requires a necessary matter:
+
+1. Because, as Hugh says[^1], «A Sacrament is an element outwardly set forth in a sensible way, representing by likeness»; but representation is through matter: therefore matter is necessary.
+
+2. Likewise, it was held above[^2] that the Lord did not hand over the power of cleansing to man through himself, but through an element, lest hope be placed in man: therefore by parity of reasoning he ought not to have given the power of confirming to man except by the mediation of an element.
+
+**On the contrary:** 1. The Apostles confirmed by the imposition of the hand alone[^3]: therefore it seems that their successors can do this by the imposition of the hand alone, if they transmitted the power which they had.
+
+2. Likewise, the matter of the other Sacraments was instituted by Christ, as is evident in baptism and the Eucharist, and Christ also received them: therefore it seems by parity of reasoning that, if this Sacrament had a matter, Christ would have instituted the Sacrament by receiving it. — *If you say* that it was not fitting for him to be confirmed; *it is then objected,* that likewise it was not fitting for him to be circumcised or baptized; but he did this for the authority of the Sacrament and of humility, as has been held[^4], as an example: therefore etc.
+
+*Incidental question 1.* — Likewise, I ask whether the matter of this Sacrament ought to be *consecrated,* and it seems that *it should:* because it is chrism, which is consecrated by the Pontiffs at a determined time of the year[^5]. — But it seems that *it should not,* since the other Sacraments can be performed without consecration, as is evident in baptism, which precedes, and the Eucharist, which follows baptism: therefore also in confirmation.
+
+*Incidental question 2.* — Likewise, I ask: since the other Sacraments have simple, unmixed elements, why does this Sacrament have *mixed* ones? And it seems that it ought not to have them, because it is said in Ecclesiasticus twenty-four[^6]: *My odor is as balsam unmixed;* this Wisdom says of herself.
+
+*Incidental question 3.* — Likewise, I ask: why is *balsam* taken rather than water? And it seems that water rather, because a common and general element ought to correspond to a general disease; but balsam is precious and rare[^7], water is common to all: therefore etc.
+
+*Incidental question 4.* — Likewise, why *oil* rather than wine? And it seems that wine rather, because it makes a man bold and eloquent; and this is the effect of this Sacrament.
+
+> ### Conclusion.
+> The consecrated matter belongs to the integrity of confirmation.
+
+**I respond:** As was touched on before[^8], Christ did not institute this Sacrament, because believers were to be confirmed after his ascension. Hence the Apostles dispensed neither the matter nor the *form,* but the reality of this Sacrament without *form,* the Holy Spirit confirming immediately, and without *element* or matter, because in the giving of the Holy Spirit visible signs appeared[^9]: and therefore there was no need of an element. But afterward, by their instituted successors, it was to be given by the power of words and invisibly; therefore it was necessary that a sensible element be instituted.
+
+Therefore this *element* was instituted, the Holy Spirit dictating, by the rulers of the Church themselves; and because Christ had not instituted it nor given it power, according as he himself «by the contact of his most pure flesh had given [power] to the waters[^10]», and as he himself, in confecting his body, instituted the element or matter of the Eucharist, namely bread or wine: therefore the bishops, not being able of themselves to consecrate the matters, instituted that they be consecrated by a blessing. And therefore the matter of this Sacrament ought to be consecrated.
+
+To that which is asked: why *mixed* in this Sacrament, and not in the others? it must be said that, as was said[^11] concerning the form, because it was for a twofold arduous act, therefore a twofold act is expressed in the form; and therefore also
+
+a twofold *element,* consonant with that twofold act and reality, is mixed together: the *oil* of olives, on account of its brightness, signifies the interior faith from a good conscience; the *balsam,* on account of its odor, the worthy and laudable confession. And from this it is evident why these two elements rather than others.
+
+To that which is objected concerning *generality,* it must be said that this would be true if it were a Sacrament of necessity, and if in *water* the complete account of signifying were preserved[^12]. — Of *wine* it must similarly be said that it is not suitable on this account, that it makes one bold and strong by clouding the reason: therefore it is not suitable, because spiritual fortitude is from a right and pure reason, not from a clouded reason[^13].
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered sequentially. Page 166 contributed notes 1–11; page 167 contributed the two notes anchored in this question's continued *Respondeo* (its page-167 notes 2 and 3); the remaining page-167 footers belong to a. 1, q. 3.
+
+[^1]: **La.** Libr. I. de Sacram. p. IX. c. 2. Cfr. supra pag. 13, nota 2.
+    **En.** Bk. I, *On the Sacraments,* p. IX, c. 2. Cf. above, p. 13, note 2.
+
+[^2]: **La.** Dist. 3. a. 3. q. 1.
+    **En.** Distinction 3, a. 3, q. 1.
+
+[^3]: **La.** Act. 8, 17, ubi Glossa *interlinearis* (apud Lyranum): *Ecce exemplum confirmationis.* — In fine arg. non pauci codd. *transmiserint* pro *transmiserunt.*
+    **En.** Acts 8, 17, where the *interlinear* Gloss (in Lyra): *Behold an example of confirmation.* — At the end of the argument not a few codices read *transmiserint* for *transmiserunt.*
+
+[^4]: **La.** Supra d. 3. p. II. a. 3. q. 1. ad 3, ubi triplex ratio adducitur, scilicet in fidei argumentum, *humilitatis exemplum* et Legis complementum. Cfr. etiam d. 6. p. II. a. 1. q. 1. — Supplevimus ex cod. N *humilitatis, ut,* quod male deest in aliis codd. et in edd.
+    **En.** Above, d. 3, p. II, a. 3, q. 1, ad 3, where a threefold reason is adduced, namely as an argument of faith, an *example of humility,* and the fulfillment of the Law. Cf. also d. 6, p. II, a. 1, q. 1. — We have supplied from codex N *humilitatis, ut,* which is wrongly lacking in the other codices and in the editions.
+
+[^5]: **La.** Scil. secundum antiquum morem *in Coena Domini,* ut insinuatur C. *Litteris vestris* (18.), de Consecrat. d. 3. Cfr. C. *Presbyteri, qui per dioeceses* (4.), d. 95, et Dionys., de Eccles. Hierarch. c. 4. per totum.
+    **En.** That is, according to the ancient custom *on Maundy Thursday* (the Lord's Supper), as is implied in the Canon *Litteris vestris* (18), On Consecration, d. 3. Cf. the Canon *Presbyteri, qui per dioeceses* (4), d. 95, and Dionysius, *On the Ecclesiastical Hierarchy,* c. 4 throughout.
+
+[^6]: **La.** Vers. 21. — Pro *deberet* codd. FGI *debeat.*
+    **En.** Verse 21. — For *deberet* codices FGI read *debeat.*
+
+[^7]: **La.** Codd. A G *carum.*
+    **En.** Codices A G read *carum* (dear).
+
+[^8]: **La.** Quaest. praeced. ad 1.
+    **En.** The preceding question, ad 1.
+
+[^9]: **La.** Cfr. Act. 19, 6. — Paulo superius post *materia* cod. aa non male supplet *conferebant,* et pro *sine forma* plurimi codd. perperam *sive formam.* Vat. hanc propositionem, utpote a communi doctrina alienam, mutavit sic: *sine forma a Spiritu sancto immediate acceperunt. Nam immediate ab ipso confirmati fuerunt et quidem sine elemento etc.* Mox pro *Sed post* [cod. H potius] *a successoribus* edd. *Sed postea successoribus.*
+    **En.** Cf. Acts 19, 6. — A little above, after *materia,* codex aa not unfittingly supplies *conferebant,* and for *sine forma* very many codices wrongly read *sive formam.* The Vatican edition, this proposition being foreign to the common teaching, altered it thus: *they received without a form from the Holy Spirit immediately. For they were confirmed immediately by him himself, and indeed without an element, etc.* Soon, for *Sed post* [codex H rather] *a successoribus,* the editions read *Sed postea successoribus.*
+
+[^10]: **La.** Secundum Bedam, supra pag. 21, nota 3. allegatum. — Superius pro *hoc elementum* cod. U *hoc Sacramentum.* Infra pro *episcopi* cod. aa *ipsi.*
+    **En.** According to Bede, cited above, p. 21, note 3. — Above, for *hoc elementum* codex U reads *hoc Sacramentum.* Below, for *episcopi* codex aa reads *ipsi.*
+
+[^11]: **La.** Quaest. praeced. — Pro *de forma* edd. et plurimi codd. *in forma;* qui error forte irrepsit ex seq. *in forma.* — Mox post *arduum* codd. MO addunt *sive difficilem,* codd. KLaa *difficilem.*
+    **En.** The preceding question. — For *de forma* the editions and very many codices read *in forma;* which error perhaps crept in from the following *in forma.* — Soon after *arduum* codices MO add *sive difficilem,* codices KLaa *difficilem.*
+
+[^12]: **La.** Cfr. infra a. 3. q. 2. et supra d. 3. p. II. a. 1. q. 1.
+    **En.** Cf. below, a. 3, q. 2, and above, d. 3, p. II, a. 1, q. 1.
+
+[^13]: **La.** Vide scholion ad praecedentem quaest.
+    **En.** See the scholion to the preceding question.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set from the IA djvu OCR (raw lines 18943–19112), with the 450 dpi PDF column bands (`/tmp/colcrop/vol4-p166-{L,R}-{0,1,2}.png`, `vol4-p167-{L,R}-{0,1,2}.png`) authoritative throughout the cascade-shattered *Respondeo,* incidental-question, and footer regions (Vol II/IV PDF-priority inversion). Opener "Secundo quaeritur de materia, utrum sit necessaria" confirmed to align with ART I, q2 (*materia*); q1 (*forma*) precedes (raw L18655–18942), q3 (*Tertio quaeritur de potentia dispensandi*) follows (raw L19113+).
+
+**Page-split map.** Body opens on printed p. 166 (the in-text "QUAESTIO II. *Utrum materia confirmationis sit necessaria*"); the *Respondeo* runs from p. 166 (right column) onto p. 167 (right-column top), ending at "...non ex ratione obnubilata." The `<!-- page 167 -->` break is placed at the *Respondeo* clause boundary ("...ideo duplex actus exprimitur in forma; et ideo et // duplex elementum..."). The four sub-questions are printed in Quaracchi as inset marginal *Quaestio incidens 1–4*; they belong to the *materia* discussion and are rendered here within q2 as italicized headings. The running head on p. 167 reads "DIST. VII. ART. I. QUAEST. III." but the right-column top is still q2's *Respondeo* tail (running head anticipates the next column's QUAESTIO III) — content, not the running head, governs the chunk boundary.
+
+**Footer-ownership.** Printed p. 166 footers 1–11 are all anchored in this question's body → owned here, renumbered [^1]–[^11]. Printed p. 167 is shared: its footers 2 and 3 anchor in q2's continued *Respondeo* tail (*ratio signandi*² and *obnubilata*³) → claimed here as [^12]–[^13]; p. 167 footers 1 and 4–12 anchor in the q3 body (q3's left-column args carry markers 4–8 and the q3 opener/Hugo note) → left to a1-q3. q1 (a1-q1) owns the prior footers (raw <18943).
+
+**Scholion disposition.** `has_scholion: false`. The article's scholion (raw ~L19345, printed p. 168, opening "In solvendis tribus huius articuli quaestionibus...") is a single *unified three-question* article scholion printed after q3; it discusses all three questions (its section II is keyed "De 3. quaestione," with only a passing clause "Quoad seq. (2.) quaestionem cfr. supra d. 1 p. I q. 6" touching q2). There is no standalone q2-keyed scholion section in this chunk's range; the whole scholion belongs to a1-q3.
+
+**[?] flags.** None. All p. 166 readings recovered cleanly from the column bands. The only judgment call is the p. 167 footer-2/3 ownership, resolved by anchor position in the q2 *Respondeo* tail (documented above).
