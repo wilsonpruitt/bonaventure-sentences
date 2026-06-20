@@ -1,8 +1,9 @@
 ---
-id: "bon-sent-IV-d6-a1-q2"
+id: "bon-sent-IV-d6-p1-a1-q2"
 volume: 4
 book: 4
 distinctio: 6
+pars: 1
 articulus: 1
 quaestio: 2
 type: quaestio

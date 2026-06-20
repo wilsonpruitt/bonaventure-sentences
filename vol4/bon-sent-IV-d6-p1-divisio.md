@@ -1,8 +1,9 @@
 ---
-id: "bon-sent-IV-d6-divisio"
+id: "bon-sent-IV-d6-p1-divisio"
 volume: 4
 book: 4
 distinctio: 6
+pars: 1
 type: divisio
 title_la: "Commentarius in Distinctionem VI — Divisio textus et Tractatio quaestionum"
 title_en: "Commentary on Distinction VI — Division of the text and Treatment of the questions"

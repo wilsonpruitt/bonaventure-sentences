@@ -1,8 +1,9 @@
 ---
-id: "bon-sent-IV-d6-dubia"
+id: "bon-sent-IV-d6-p1-dubia"
 volume: 4
 book: 4
 distinctio: 6
+pars: 1
 type: dubia
 title_la: "Dubia circa litteram Magistri (Dist. VI)"
 title_en: "Doubts concerning the text of the Master (Dist. VI)"

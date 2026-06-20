@@ -1,8 +1,9 @@
 ---
-id: "bon-sent-IV-d6-littera"
+id: "bon-sent-IV-d6-p1-littera"
 volume: 4
 book: 4
 distinctio: 6
+pars: 1
 type: littera
 title_la: "Distinctio VI — textus Magistri Sententiarum"
 title_en: "Distinction VI — text of the Master of the Sentences"
