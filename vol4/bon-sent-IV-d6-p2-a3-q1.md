@@ -3,561 +3,185 @@ id: "bon-sent-IV-d6-p2-a3-q1"
 volume: 4
 book: 4
 distinctio: 6
+pars: 2
 articulus: 3
 quaestio: 1
 type: quaestio
-line_start: 17682
-line_end: 18216
-word_count_latin: 3486
-transcription_status: "auto-chunked 2026-06-16"
+title_la: "Utrum parvuli baptizandi debeant catechizari"
+title_en: "Whether infants to be baptized ought to be catechized"
+printed_pages: [155, 156, 157]
+pdf_pages: [175, 176, 177]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 155–157"
+has_scholion: true
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set column-by-column from 450 dpi PDF bands (pp.155–157, PDF-priority inversion for Respondeo/footers), fresh literal English, 12-footnote apparatus, art-level scholion item I (q1) rendered (2026-06-20)"
 format_version: 1
 ---
 
-# bon-sent-IV-d6-p2-a3-q1
+# IV Sent., d. 6, p. 2, a. 3, q. 1 — De catechismo
+## *Utrum parvuli baptizandi debeant catechizari*
+
+---
 
 ## Latin
+<!-- page 155 -->
 
-QUAESTIO I.
+### Articulus III. *De sacramentalibus annexis baptismo.*
 
-                                                                                             Utrum parvuli baptizandi debeant catechizari.
+Consequenter est tertio loco quaestio de sacramentalibus, et circa hoc quaeruntur duo. Primo quaeritur de catechismo. Secundo de exorcismo.
 
+### Quaestio I. *Utrum parvuli baptizandi debeant catechizari.*
 
-                        Et    cum catechismus dicatur instructio', quae-                                                                                                                I.    Quia, ubi unum tantum Sacramentum est, etFundamenin.
-              ritur ergo,                utrum parvuli debeant                                                       catechizari.                             Et         unus ritus debet observari; sed magni catechizantur:
-              quod          sic, videtur:                                                                                                                                ergo et parvuli.
+Et cum *catechismus* dicatur instructio[^1], quaeritur ergo, utrum parvuli debeant catechizari. Et quod sic, videtur:
 
+1. Quia, ubi unum tantum Sacramentum est, et unus ritus debet observari; sed magni catechizantur: ergo et parvuli.
 
+<!-- page 156 -->
 
-                    1   Ambros.           ,    I.    de     OITiciis,              c.    .30.         ii.        147: AITecuis tiius no-                                 duplici line clV. Aristot.                    ,        II.   de Anirna     ,    to.\t.   S-).   et 37.   (q.   }.),
+2. Item, forma a Deo tradita est observanda generaliter; sed Christus, in ultimo[^2] Matthaei, baptismo praemittit doctrinam, cum dicit: *Ite, docete omnes gentes* etc.
 
-              men imponit                operi            tuo   ;
-                                                                         qiiomodo                 a         te    proficiscitiir,                     .sic   ae-         et   V. Melaph.              te\t.      22. (IV. c.                17.).
+3. Item, ad hoc facit mos et consuetudo universalis Ecclesiae, quae cum faciat recte catechizando pueros; videtur etc.
 
-              slimalur.                                                                                                                                                         *       Ut ostensum est quaest. praeced.
-                    ^ Dist.        .3.   a.         I.    q.    2.       et       a.    2.       q.     2,        nec non ibid.                       lit.   Ma-                5 (^od. 11            consummnlionem, in cod. bb secunda mnnus addit
-              gistri, c.      I,     ubi etiam                 duo seqq. argg. tanguntur.                                                                                vel comnmmnttonem.                                <*
-                                                                                                                                                                                                                                 Vide scliolion ad praecodenlem qiiaesi.
-                    3   Vidc       II.    Scnt.           d.    38. a. 2. q. 2, d.                                iO.       a.    I.       q.    I.    — De                     "
-                                                                                                                                                                                        Cfr.    hic      lit.   Magistri,             c.   7.
-              lo6                                                                                                          SENTENTIARUM LIB. IV.
+**Sed contra:**
+1. Stultum est instruere eum qui non est capax doctrinae: ergo baptizans stulte agit, cum catechizat parvulum[^3].
 
-                       ± Itein, forma a Deo tradita                                                                est    observanda                peccato                peccaret               baplizatus, quia                               transgressor esl
+2. Item, videtur, quod assistentes falso respondeant: aut enim respondent in persona *parvuli*, aut in persona *sua*. In persona *sua*, non, quia sacerdos quaerit a parvulo. Si in persona *parvuli*: ergo falsum dicunt, cum dicunt *credo*.
 
-              generaliter; sed Chrislus. in ullimo ' Maltliaei, ba-                                                                                 voli ac praecepli.
+Item quaero, utrum in illa responsione obligentur patrini. Et quod sic, videtur: quia Augustinus in quodam sermone[^4]: «Volo, quod omnes cognoscatis, tam viri quam mulieres, vos parvulis, quos suscepistis, fideiussores apud Deum exstitisse». Sed tunc videtur, cum nemo sciat de alio, qualis sit futurus, quod stulte promittat et in discrimine se ponat.
 
-              plisnio praemittit doctrinain,                                                    cum d\n[:Jle, docele
-              oinnes genles                       elc.                                                                                                                                             CONCLUSIO.
-                          3.        Item, ad hoc                           tacit           mos et consuetudo uni-
-              versahs Ecclesiae,                                 quac                cum              faciat         recte catechi-                             Eliam               in baplismo parvulorum congruit
+Item quaero, utrum parvuli obligentur. Et quod sic, videtur. Dicit Dionysius[^5], quod sensus verborum, quae dicunt patrini, est, quod puer ille, cum in sensum venerit, tenebit sacras confessiones; obligant ergo parvulum. Si enim obligari potuerit parvulus per carnales parentes ad malum: ergo per spirituales ad bonum multo fortius. *Sed contra:* si parentes promittant pro filio, quod filius intrabit religionem, ille non obligatur nec tenetur: ergo similiter in proposito.
 
-              zando pueros; videlur etc.                                                                                                                                              praemittere cateehismum.
-                  Sed contra: 1. Stullum                                                        est inslruere                    eum qui
-Ad opposi- non est canax doclrinae: ergo bnplizans slulleagit,                                                                                                  HiospoNDKO:                      Dicendum, quod catechismus in
-              cum catechizat parvulum -.                                                                                                            adullis praecedebat                             baptismum propter duas cau- De adaitis.
-                      Item, videtur, quod assistenles falso respon-
-                          2.                                                                                                                        sas: ut baptizandi                               instruerenlur de credendis                                                et      ul
+Item quaero, si obligatur, utrum illa obligatio sit *votum*. Et quod sic, videtur: quia votum est spontanea promissio melioris boni, deliberatione et obligatione firmata[^6]. *Contra:* secundum hoc duplici peccato peccaret baptizatus, quia transgressor est voti ac praecepti.
 
-              deant: aut enim respondent in persona parvuli, aut                                                                                    se obligarent                          voluntarie ad                     Dei            imperia facienda,
-              in    persona sua.                            In     persona sua, non, quia sacer-                                                    quasi             non coacte,                     sed            voluntarie                  illa               impleturi ".
+### Conclusio.
 
-              dos quaerit a parvuio.                                            Si     in       persona parvuli: ergo                               Parvuli quidem,                               etsi          non possunt doceri, possunt
-              falsum dicunt,                           cum dicunt credo.                                                                            tamen per                        [latrinos          obligari. Ideo                               fit        in        eis cale- conciusio.
+> Etiam in baptismo parvulorum congruit praemittere catechismum.
 
-                          Item quaero, utrum                                              in      illa         responsione obii-                    chismus                et       propter rationem obligandi el                                                           propler
-yuuesi. iu-   geuiur palrini.                          Ei        quod               sic,        videtur: quia Augusli-                              uniformilatem, ut consimiliter omnes baplizenlur,
-              nus      quodam sermone': «Volo, qnod omnes co-
-                          in                                                                                                                        sicut        consimilem effectuni                                     recipiiint.
+**Respondeo:** Dicendum, quod catechismus in adultis praecedebat baptismum propter duas causas: ut baptizandi *instruerentur* de credendis et ut se *obligarent* voluntarie ad Dei imperia facienda, quasi non coacte, sed voluntarie illa impleturi[^7]. Parvuli quidem, etsi non possunt *doceri*, possunt tamen per patrinos *obligari*. Ideo fit in eis catechismus et propter *rationem obligandi* et propter *uniformitatem*, ut consimiliter omnes baptizentur, sicut consimilem effectum recipiunt.
 
-              gnoscalis, tam viri quam mulieres, vos parvulis, quos                                                                                              1.    2.       Ad         illud      ergo
-                                                                                                                                                                                                        °
-                                                                                                                                                                                                           quod obiicitur de doctrina,                                                            sointio opjl
-                                                                                                                                                                                                                      '                                                                      '   posiloram. |i
+1. 2. Ad illud ergo quod obiicitur de doctrina, iam patet responsio[^8]. Similiter ad illud quod obiicitur de respondentibus, dicendum, quod respondent in persona parvuli, et est sensus: *credo*, id est Sacramentum fidei percipio, vel suscipere praesto sum. Et non est sermo falsus nec inconsuetus, quia, sicut dicit Augustinus in epistola ad Bonifacium[^9], frequenter signum accipitur pro re; sicut dicimus: cras erit resurrectio Domini, et videns fumum dicit se videre ignem. — Vel potest esse sensus: *credo*, id est ad credendum me obligo.
 
-              suscepistis, fideiussores apud                                                    Deum exstilisse». Sed                               iani patelresponsio'. Similiter                                              ad illud quod obiicitur
-              lunc videtur, cum                                  nemo sciat de alio,qualis sit fu-                                                  de respondentibus, dicendum,                                                         quod respondent                                   in               I:
+Ad illud quod quaeritur, utrum patrini obligentur; dicendum, quod si non haberent[^10] alium doctorem, obligantur ad instruendum ipsum in his quae sunt de necessitate fidei et morum, vel ad hoc, quod facerent instrui, vel ad hoc, quod ille crederet vel servaret. Nunc autem, quia multos habent doctores, non tenentur.
 
+<!-- page 157 -->
 
+Ad illud quod quaeritur de parvulis, utrum obligentur; dicendum, quod sic, quia ibi non requiruntur nisi ea, ad quae tenentur de iure naturali, nulla autem supererogationis[^11]; ideo non est simile de ingressu in religionem.
 
+Ad illud quod quaeritur, utrum talis obligatio sit votum; dicendum, quod non proprie, quia votum[^12] est de eo quod supererogationis est; tamen extenso nomine, est votum, quia voluntaria obligatio. Nec facit duplex peccatum, quia non obligatur magis quam prius de necessitate, sed de bono et aequo.
 
-              turus, quod stulte promittat et in discrimine se ponat.                                                                               persona parvuli                          ,   et est          sensus              :   credo , id est Sacra-                                               i;
+### Scholion
 
+**I.** De ritibus, qui baptismum solemnem comitantur, pauca *Magister* (hic c. 6. 7.), sed multa tum secundum Dionysium Areop. tum secundum Rabanum (de Institutione clericorum) affert Alex. Hal., (S. p. IV. q. 7. m. 1-3. et q. 8. m. 10. a. 1-5.), quae succinctius etiam a S. Thom. tractantur. — De 1. quaestione cum incidentibus quaestionibus cfr. S. Thom., hic q. 2. a. 2; S. III. q. 71. a. 1. 4. — B. Albert., de hac et seq. q. hic a. 14. 15. — Petr. a Tar., hic q. 3. a. 2. — Richard. a Med., hic a. 5. q. 1. 2. 3. — Durand., hic q. 3. — Dionys. Carth., de hac et seq. q. hic q. 3.
 
-
-
-                   Ilem quaero, utruin parvuli obligenlur. Et quod                                                                                  mentum                  fidei           percipio, vel suscipere praesto sum.                                                                             Ij
-
-
-
-
-              sic,    videtur. Dicit Dionysius',                                                      quod           sensus verbo-                  Et non est                       sermo           falsus nec inconsuetus, quia,                                                         si-
-                                                                                                                                                                                                                                                                                                             |j
-
-
-
-
-Quaesi. iu- i'uin
-                  ,
-                               quae dicunt patrini,                                        est,       quod puer                  ille,   cum        cut         dicit           Augustinus                      in    epistola               ad            Bonifacinm %                                      ii
-
-
-
-
-              in scnsum venerit, tenebit sacras confessiones obli-                                                                   ;              frequenter signum accipitnr pro re                                                           ;     sicut dicimus:                                        il
-
-
-
-
-              gant ergo parvulum. Si enim obligari poluerit par-                                                                                    cras erit resurrectio Domini, et videns fumuin dicit.                                                                                                    :i
-
-
-
-
-              vnlus              per            carnales                   parentes ad maluni: ergo per                                             se videre ignem.                             — Vel potest esse sensus:                                                   crerf'o , a'''"-                S
-
-
-
-              spirituales ad                          bonum mullo fortius. Sed conlra: si                                                           id     est        ad credendum                              me obligo.
-              parentes promittant pro lllio, quod                                                                  fdius intrabit re-                           .\d        illud           qiiod       quaeritur,                        utrum                  patrini obli- Mi^ji^^'
-
-              ligionem, ille non obligatur nectenetur: ergo simi-                                                                                   gentur; dicendum, quod si non haberent' alium do-                                                                                                        \
-
-
-
-
-              liter         in      proposito.                                                                                                      ctorem,                obligantur                  ad            instruendum ipsum                                       in        his
-                                                                                                                                                                                                                                                                                                             |
-
-
-                            Item quaero,                         si       obligatur,                   utrum             illa    obligaiio          quae sunt de necessitate fidei et morum vel ad hoc,                                                         ,
-                                                                                                                                                                                                                                                                                                             \
-
-
-
-Quaost. iu- sit       Yotum. Et quod                                      sic,        videtur:                     quia     votum             est   quod facerent instrui, vel ad hoc, quod ille crede-
-                                                                                                                                                                                                                                                                                                              j
-
-
-
-
-              spontanea promissio melioris boni,                                                                   deliberatione et                 ret vel servaret.                             Nunc autem                     ,
-                                                                                                                                                                                                                                         quia multos                         habent                           1
-
-
-
-
-              obligatione firmata'. Contra:                                                        secundum hoc duplici                             doclores. non tenentur.                                                                                                                                   1
-
-
-
-
-                      '
-                            Vers.          19.       — Post sed                      e.\       coclil.   I'"   1   supplevimiis          Chri-      confessiones                    [versio       Scoli         Erigenae].               — Pro             in            sensiim       per-
-
-              slus. Cod. aa legit: sed ipse,                                         quando           dedil         fonnam, praemisil               nuilti       codd.          et        edd. in senium.
-              inslructionem                 ,   uliimo Matihaci, cwh dicii. Cfr. Iliigo a S. Vict.,                                                          s Guliel.               Anlissiodor.           ,   S. p.     111.   Ir.      28. q. 1, votum definit:
-
-              II.   de Sacruni. p. VI.                           c.       9.                                                                        Voium est l)oni iiropositi conceptio animi, deliberalione flrmata,
-                      2     Cod. aa subiungit aliud arg. : Iteni, Uugo [II. de Sacrani.                                                             de liis qnae ad rcligionem pertinent, secundum quam conce-
-              ]).    VI.       c.    10.]:       <t    .\d lioc est catecliismus,                                  ut liomo       promovca-          plioncm aliquis se                          ol)ligat        Deo.       Cfr.         infra       d.         38, a.       I.       q.    1.
-
-              tur ad fidem proprio libertalis arbilrio »                                                   ;   sed parvuliis non ha-                seq.        — Superius pro                       illa       codd. A V                W Z bb            sita.
-
-              bel     usum liberi arbilrii                            :   ergo        clc.                                                                   6    Plures codd. ct edd. impleturi erant.
-                                                                                                                                                             ^
-                      3      Ex Sermone                     S.   Auguslini                 post       Pasclia,            qui    sic incipit:                    Cod. aa bic addit solut. ad aliud arg. ab ipso proposi-
-              Hodiernus                  dies.        lia    allegatur                C.        Vos anle omnia (lOo.), de                            tum    :    quia  licet parvulis nnn luci.it calechismus
-                                                                                                                                                                            ,
-                                                                                                                                                                                                              ut instruan-                                           ,
-
-
-
-
-              (Ainsecral. d. 4. Sentcnlia liaec liabetur in pluribus scrmonibus,                                                                     lur de Hde;                    fit   nihilominus proptcr secund.un ralionem                                                  ,
-                                                                                                                                                                                                                                                                                      quae
-              qui     nunc in appendicc sermonum Auguslini inveniunlur                                                                    v. g.      dicta esl         ;   et       per hoc solvitur                  illud Ilugonis.                   Nam similiter ar-
-              in     Serm. 168. (alias 163. de 'rcmpoie) n. .3; Serm. 26S. (alias                                                                    guil de adullis,                      qui in fide deberent instrui,                                    antequam bapli-
-              •213.         de Tempore)                     n.    2,           ct    Scrm. 267.                 (alias     116.    de    Tem-        zenlur.          Ad illud ergo quod                             obiicitur            etc.       iMo,\          plurimi           codd.
-
-               |)Oi'e)      n.      o.                                                                                                               omiltunl          ad illud.              Infcrius          pro percipio cod.                          II       recipio.
-
-                       •*
-                               De    Ecclesiasl. Ilierarcliiii                        ,    c.    7.    circa finem :             Neque enim                  8    Epist. 98.       9: >'empe sacpe ita loquimur,
-                                                                                                                                                                                            (alias    23.) n.
-
-               lioc    oit       sic :     Pro puero cgo abreiiunlialiones aul sacras confes-                                                        ut,                      dicamus, crastinom vel perendinam
-                                                                                                                                                            Pa^clia propinqiiante,
-
-               siones faeio, sed quia puer abi'enunlial, hoc esl confileor, pue-                                                                     Domini passionem... ipso die dominico dicimus, hodie Domi-
-               i-um         credero             in      sacrum                 scnsuni            venienlem               [stc    vouv    ispbv      nus resurrexit.
-               tovTa]          nostris           anagogis [-atc                      i\j.ixXc     s;8iot;           avayutyait      i.   e.   no-            "    Cod.          1    haberet,         scil.          parvulus. Subinde pro obligantur
-
-               slris (sive               meis) dfvinis                    institulionibus],                    abrenuntialurum qui-                  cod. F obligarcntur.
-               deni universaliler contrariis. confileii auteni et operari divinas
-                                                                                                                                                                                                                                                                                                                       , :
-
-
-
-
-                                                                                                           DIST. VI.                           W         II.     ART.       III.       QUAF.ST.                   II.                                                                                            lt)7
-
-
-
-                Ad       quod quaeritur.de parvulis, ulrum
-                                  illud                                                                                                                               sitvotum dicendum, quod non proprie, quia vo-AdMnaesi.
-                                                                                                                                                                                               ;
-
-
-
-
-d2.(iuaest.obligerilur dicenduin, quod sic, quia ibi non re-
-                                    ;
-                                                                                                                                                                      tum est de eo quod supererogationis est tamen
-                                                                                                                                                                               -
-                                                                                                                                                                                                                                                                                                  ;
-
-
-  iDCid.
-         quiruntnr nisi ea, ad quae lenenlur de iure nalu-                                                                                                            extenso nomine, est votum, quia volunlaria obliga-
-
-         rali, nuUa autem supererogationis      ideo non est                                                ' ;                                                       tio.     Nec facit duplex peccatum, quia non obligatur
-        simile de ingressu in religionem.                                                                                                                             magis      quam prius de necessitale, sed de bono et
-                Ad                illud            quod quaeritur, utrum                                              lalis           obligatio                       aequo.
-
-
-
-                                                                                                                                               SCHOLIOK
-                        De citibiis,                   qiii    baptisinum soleinnem comitHnlur, pauca                                                                 quaestiunc.              1-4.          — Ricliard.                a   Med., iiic                   a.    5.    q. 1.       2.    3.    — Du-
-               1.
-
-
-        Mcigister             (liic           c.    0.        7.), seil mulla lum secundum Diony-                                                                     rand.,         Iiic     q.    3.       — Dionys.                  Carth., de hac et seq. q. hic q. 3.
-
-                                                                                                                                                                      I)ost raed.
-        sium Ai'eop. lum secundum Raljanum (de                                                               Institutione clerico-
-
-                                                                                    IV.               7.         m.            1-3.        et                  8.              11.         Circa seq. (2.) quaeslionem est notaiidum, quod et prima
-        rum)            affert       Alex. Hal., (S.                           p.            q.                                                         q.
-
-                                                                                             eliam                                  Tlioni.                           opinio et secunda                           (quam                tenuit Praeposilivus,                             cfr.         pag.       158,
-        m.     10.           a.      1-5.),              quae            succinetius                              a        S.                                ti-a-
-
-
-        ctantur.
-                                                                                                                                                                      nota 2.) eliain a S. Thoma aliisque coinmuniter reprobantur.
-
-               De            1.    quacstione                  cum          incidcnlibus               quae.slionibus                              cfr.        S.              De eadem quaestione:                                     Alex.          Hal.,             locc.       cilt.   —        S.    Thom.,
-
-        Tliom., hic q. 2.                           a.    2;        S.   111.    q. 71. a.            t.    i.    —K                  Albert.,                 de     hic q. 2. a. 3; S. loc.                            cil. a.         2.       3.    —        Petr. a Tar., loc. cit. a.                           3.
-
-
-         liac et seq. Tj.                     Iiic       a.    14.       15.     —       Pelr.    a        Tar., hic                  q.       3.       a.     2.     — mchard.                 a    Med., hic                    a.   6.   q.         I.       2.       3.   — Durand.,                   hic q. 4.
-
-
-
-
-                                                                                                                                                   QUAKSTIO 11.
-
-                                                          Ulrum exorcismus liabeal aliquam efficaciam in parvulo, vel adullo.
-
-                                                                                                 hoc             de             exorcismo,                                         CoNTUA                        1.     Cyprianus                                    «   Diaboli 'potestas non Ad opposi-
-                    Sgcundo                        quaerilur                     circa                                                                                                                   :
-                                                                                                                                                                                                                                                                                                                             tom.
-
-         utrum habeat aliquam                                                    etricaciam                  in            parvulo                           vel      minuitur ante baptismum ».
-                          quod habet polestatem ad expel-
-         adulto. Et dicilur,                                                                                                                                                         2.      Item,  quod nullius sil efficaciae, videtur
-         lendum daemonem. Et quod istud sit verum, videtur:                                                                                                           quia             si    peliit daemones, aut spirilualiier , au t cor-
-
-                        1.   Per Augustinum                                     in libro         de Symbolo ^:                                     « Par-             poraliter.                    Non spiritualiter quia lunc expellilur                  ,
-
-
-
-undamenta.viilus             exorcizatur,                           ut potestas diaboli expellatur ».                                                                  spiritualiter,                  quando expellitur culpa. Si quantuin
-                    ±   Rabanus': « Kxsufflatur a parvulo
-                                  Ilem,                                                                                                                               ad corporalem laesionem ^ ergo solum daemoniacis                             :
-
-
-
-
-         saeva potestas per pium sacerdolem ».                                                                                                                        et obsessis deberet fieri exorcismns.
-
-                        3.        Item, qnod habeat                                      efllcaciam,                           videtur                       ra-                     3.      Item,               si     alium effectum non habet                                                       nisi dae-
-
-         tione : quia                          sacerdos dicit exorcizando =                                                     :     «        Exi             ab      monem pellere                              ;     cum multo efflcacius pellalur in ba-
-         eo,    immunde                            Spirilus »: ergo si non fruslra hoc in-                                                                             ptismo, deberet statim baptizari et nullo modo exor-
-
-         slituit             Ecclesia, diabolus exil, sicut imperat.                                                                                                   cizari. Si dicas , quod disponit, ut habeal maiorem
-
-                        4.        Item        ,    exorcismi Salomonis pellebant daemo-                                                                                 effectum baplismus                                    ;   conlra: aut hoc facit disponendo
-
-         nes, et aliqui mali pellebant ad invocationem Chri-                                                                                                            subiectum, aut fortificando baptismum. Non dispo-
-         sli'': ergo si ille habet exorcizandi officium et ha-
-                                                                                                                                                                        nendo subiectum, quia, si disponit, aut rainuendo
-         bet exorcismos efficaciores                                                 ,
-                                                                                          patel etc.                                                                    culpam, mlpoenam; neulrum potest, cum non pos-
-
-
-
-                1
-                         Sup|)le: requiruntur.                              — Cod. F                   legil           ad           illa           nulem,               Petr.        Comeslor.               ,   llistor.          scholast. libri lerlii                             ricgum           ,
-                                                                                                                                                                                                                                                                                                            c.   7,    lo-
-
-
-                                                                mulla                                                                                                   quens de Salomone hacc mira dicit                                                                Kxcogitavit etiam adiura-
-         quae sunt siipererogationis, non tenenlur ; codd.
-                                                                                                                                                                                                                                                                 :
-                                                                                                                                               1
-
-
-
-                                                                                                                                                                                            quibus aegi iiudines solent miiigari                                                     alias       quoque               qui-
-         aatem sunt [G non sun(] siipererogationis ; cod. V non aiitem                                                                                                  tiones         .
-                                                                                                                                                                                                                                                                                 ;                               ,
-
-
-
-
-                                                                                                                                                                        bus daemones eiicerentur,                et alias, quibus                                                    obslricti      non              redi-
-         ad opera siipererogationis. l'ro lenentur non pauci codd. et
-                                                                                                                                                                        rent.        Excogitavit eliam cliaracleres. qui inscribobantur gemmis,
-         edd. tenelur.
-                    -              codd. AI?                  (1£    a secunda manu)                        1"    G    I        iii   aliis et               edd.       quae posila                 in       naribus              arreptitii                cum               radice         Salonioni               mon.
-                         Ita                                                                                               ,
-
-
-
-
-                                                          X a secunda manu votimi proprie. Mox pro                                                                      strata , statim eum a daenionibus liljerabat (sic)...                                                                    losephus [Fla-
-         dcest votuni, cod.
-                         A dicilur votum, codd. Gl (I^ a secunda manu)                                                                                                  vius]          quoque            testalur,                se vidisse                    quendam Kleazarum exorci-
-         esl votum cod.
-                                                                                                                                                                                                                                                                  nppendice operum Mich.
-         potesl dici votuni, cod. aa voti pro voluntaria obligatione ad                                                                                                 siam coram Vespasiano                                      etc.       Cfr.          in
-
-                                                                                                                                                                                           opusculum intilulatum                                  Testamen'.um Salonionis (Migne,
-         implendum ea, ad quae tenetur liomo de necessitate, potest                                                                                                     Pselli.                                                               :
-
-
-
-
-         ibi esse votiim. Nec facit duptex (.'tc. Superius pro ijuaeritur                                                                                               Palrol. Graec.                       tom.        122. col.                 131-5).               —      In    fino        arg. cod. aa
-
-          codd.          et ed.           1        obHcitur.                                                                                                            addit: maioris ejjicaciae sunt exorcismi Ecctesiae qiiam Salo-
-
-                    3    Sive Serm.                      (1.)       de Symbolo ad caleclium.                                          c.           1.    n.      2.     monis, sed per exorrismos                                             Salomonis expeltebantiir daemo-
-
-          Vide hic                lit.    Magistri,                 c.    7.                                                                                            mones: ergo etc.
-                    *    I.ibr.          1.       de     Inslilut.         deric. C..27 ; Bxsumalur ab eo saeva
-                                                                                                                                                                                   '       Epist. 7().            ad Magnum.                       ii.          15: Sciat, diaboli nequitiam
-
-                                                                    sacerdotls mysterium (?)                                    Spiritui sancto                         pertinacem usque ad aqiium                                                salutarem valere                                in        ba|)tismo
-          potestas, ut per                             pium                                                                                                                                                                                                                                  .
-
-
-
-
-          cedat fugiens  spiritus malignus.                                               Cfr.        C.     Postquam                          se        (61.),         vero        omne uequitiae suao virus amilteie.
-                                                                                                                                                                                   8 Cod. aa legit: Non spirititaliter ; quia sic. cxpelleretur
-          de Consecrat. d. 4. ubi recle ponitur ministerium pro                                                                                         niijste-
-
-          rium.                                                                                                                                                         culpa, quod solum                               fit       per baptismum ; nec corporaliter, quia
-                    =    Secundum Uituale Uoman.                                          (de Baplismo).                                                                lioc         modo           sotiim              expeltitur ab                           obsessis a             daemonibus. Vat.
-                    6        Malth. 7, 22:                      Multi           dicent      mihi            in        illa          die    :   Domine.                  paulo superius post culpa subiungit ergo tunc ante baptisma
-
-          Doniine, nonne...                              in     nomine tuo daemonia                                   eiecinuis elc. ?                           —      expelteretur culpa. MuUi codd. omiitunl taesionem.
-                                                                                                                                           ,                                                                                                                                                                   '
-
-
-
-
-                 138                                                                                                      SENTENTIARUM LIB. IV.
-
-                 sitminui poena sine culpa '. Non fortificando ba-                                                                                          3.     k.        .\d        illud         quod obiicitur: quare non statim
-                 ptismum quia nondum est, qnando exorcismus fit.
-                                         ,
-                                                                                                                                               datur baplismus ? dicendum, quod propter solemni-
-                              4.       Item,           (lecedat              aliquis                  exorcizatus             ante     ba-     tatein et propter                                 hoc, quod baptismum debet prae-
-                 plismum                 ;
-                                                quaero,             utrum                 aliquid              conferat         exorci-        cedere doclrina sive catechismus; ut ergo dialjoius
-                 sinus. Si iiihil, slultum est exspectare ;                                                               i\aUquid,            arceatur a catechismo,                                          annectitur exorcismus.                                                  Nec
-                 quaero            :    quid ? Si niinores tenebras -                                             ;   co?i«ra ; lene-          fit     propter aliquam elTicaciain gratiac                                                       in       anima, sed
-                 brae sunt carentia visionis divinae ; hac autem omnes                                                                         solum ad significantiam                                         et     ad arcendam potestatem
-                 sunt similiter privati..                                                                                                      contrariam.
-                              Iteni,             si    dicas,          quod             tiat          ad     solemnitatem ba-                               Ordo aulem eorum quae sunt ad solemnitalem Ad quaes                                                                                                i
-
-                                                                                                                                                                                                       incid.                                                                                         solii
-
-Qiiaesiio in-    ptismi ; quaero                        :    quare rnagis baplisnuis habet solem-                                              baptismi          secundum morem Ecclesiae usitatiorem tio 1.
-                                                                                                                                                                    ,                                                                                                                                      1
-                                                                                                                                                                                                                                                                                                               •
-
-
-
-
-                 nitalem                quam             alia          bacramenta?                          et        ([uae    et    quot      hic est. Primo, exsufflatur, et hoc, ut virlus diaboli
-
-                 sunt         illa           quae altenduntur ad eins solemnilatem ?                                                           exterior expellatur et inlerior expellenda significetur.
-                                                                                                                                               — Secundo, signum                                      crucis fit in pectore et in fronie,
-                                                                   c        NcLus                 I   0.
-                                                                                                                                               ut daemon cognoscat se expellenduiu tam in occulto
-
-                      Exorcismus fit tum ad solemiiitatem bwptismi,
-                                                                                                                                               cordis              qnam                 in       aperto confessionis.                        —            Tertio, sal
-                                                                                                                                               in      ore poiiitur, nt significetur, quod per baptismum
-                              tum ad cohibcmlum diabolum.
-                                                                                                                                               sapor sapientiae praeparetur et foetor fomilis restrin-
-                              Respondko                  :    Aliqni dixerunl,                               quod exorcismus                   gatur.— Quarto,                                      fit    linitio aurium                   et    nariuni                              cum
-   opinio   I.
-                 solum             tit          ad solemnitalem                         et        ad expressiorem                    signi-    sputo, ut significetur gratia ad discernendnm et ad
-
-                 ficationem ;                         nec aliquid                 ibi     eHlcitur, sed solum                           si-    obediendum. — Quinto,                                                fit        inunctio in pectore                                           el
-
-                 gnificatur                     quod         efficitur             in     baptismo.                                            spatulis", ut significetur                                           gratia unctionis ad                                               Deum
-                              Alii       aulem dixerunt, quod non tanlum                                                        fiat    ad     amandum                        el        eius          onera portanda.                       — Sexto,                                   post
-   opinios.
-                 solemnitatem, iiumo habeat effectum spiritualem, li-                                                                          baptismum                      llt           inunctio chrismalis in vertice, ut                                                               si-
-
-
-                 cet semiplenum ad                                      disponendum ad                                   baptismum.            gnificetur apertio mentis imputribilis ad contemplan-
-
-                 Unde parvuli non baptizati, sed exorcizati morienles                                                                          dum            aeterna.                      Chrisma enim confectum                                        est               ex oleo
-                 suslinent minores tenebras.                                                                                                   lucente              et        balsamo conservante.                                   — Septimo,                                       vesli-
-
-                              Primi nimis                     parum dixerunt, et Sanctorum au-                                                 tur          vestimento                       mundo et albo. ut significetnr can-
-dS^^el^cmlctoritates plus dicunt; secundi nimis dixerunt. Ideo                                                                                 dor           innocentiae                       et     stola         resurrectionis.                        — Uitimo     •
-
-
-
-
-clusio.
-          tenendum est inedium, quod est^ ad solemnitatem                                                                                      ponitur cereus                               in     manibus, ut sit lucerna pedibus
-                 et ad cohibeudum diabolum ut non possit occidere                            ,                                                 eius         verbum Domini et lumen semitis eius                                                                             '"'.
-
-
-
-
-                 parvulurn nec ita fortiter vexare adultum, ut retra-                                                                                       Secundum Hugonem vero de sanclo                                                                                     Victore soiuiio %
-
-                 hat a baptismo.                             Unde non                    est           contra          vexationem               «      forma exorcismi                                et       aliorum               sacramenlalium                                          in
-
-                 quam faciat in corpore,      quam faceret, quia                        sed                                                    baptismo                 ita            perficilur.             Puer primo signatur crucis Primo.
-                 diabolus, ex quo videt, hominem praeparari ad ba-                                                                             signaculo in                            fronte,            in   pectore, in oculis, in nari-
-
-                 ptismum, ipsum vexaret. Unde Gregorius* dicit,                                                                                bus,           in    ore, in auribus, ut tolius                                              corporis                               sensus
-                 quod « iilos pulsare negligit, quos quielo iure pos-                                                                          hoc           signaculo muniantur, cuius virtute omnia                                                                                       Sa-
-
-                 sidere se senlit; sed quando videt, se deseri, tunc                                                                           cramenta                      complentur,                       et         omnia         diaboli                     figmenla
-                 provocatur ».                                                                                                                 frustrantur ».                               Unde Rabanus de                             Institutione                                  cleri-
-
-                              1.       2.       .\d     prima duo obiecta patet responsio,                                                     coruin '             :    «     Ut ab                eo       diabolus expellatur,                                               in     vase
- Soli
-                 <^1"'''^         Cyprianus                  intelligit                de potestate spirituali.                         Et     suo pristino suae interemptionis signum cognoscens;
-pos uoJum.'"
-                 iilud            de vexatione simiiiler patet.                                                                                iam          sibi        deinceps                    illud fiat            alienum.           — Postea                                       da- secundo.
-
-
-
-
-                          '   Cfr.       supra          d.    i.   p.       1.    a.    1.       q.    2.    in   corp.                        m\ prima duo obioeta                                 respondelur,               alia ,   fusiora           quidem, sod
-                          *   Ul lenet Praeposiiiviis, S. p. IV. c.                                           de Exorcismo ,           ulii    minus apia et congrua substituit.
-                 dicil,       «   quod minorem poenam                                   palilur            exorcizalus    ,
-                                                                                                                              quam      illc            s    lla   codd.           ;    cfr.     DuCange, Glossarium elc.                             ,    ubi noUilur,
-
-                 qui decedit sine e.xorcismo                            ;        elsi   carentia visionis Dei                  sit   milis-    quod         ille   lerminus idem                          significat       ac       latus    (gallice               :           epaulc);
-                 sima poena                 ,   unus lamen eandem poenam potest liabere milio-                                                 Val.         Iiic   sicut et infra scapulis.
-
-                 rem quam alius. Carenlia enim visionis Oei niliil nliud est                                                                            ^    Psaliu.          IIS.           in.-;.   — Verba Hugonis                       lialiMilui'                         iii   II.    de
-                 quam ignoraniiae tenebrae et quidam profundlores tcnebras
-                                                                        ;                                                                      Sacrani. p. VI.                         e.    10.
-
-                 paliunlur aliis ».                    —
-                                    Post S« cod. .K addit dicas, quod patietur.                                                                         ^    Libr.       I.    c.       27. Locus est corruplus; cfr. C. Po.itea .siyna-
-                 inferius pro similiter                        primti cod.                        aa,       iwsito acqualiter pri-             tiir     [(>'i.)        et seqq.              de Consecrat.                d.   i,   ubi sic legiliir:                                 Postea
-                 vati,        deinde prosequitur: Itcm, non dimimiilur poena, cutpa                                                            signaturbaptizandus signaculo sanctae crucis lam in Ironte (|uani
-                 eadeni manente ; sed                         eadem manel r.ulpn non diminula: ergo cl                                         in      corde, ut ab eo tempore ipse aposlata di.ibolus                                                      in                  vnse suo
-                 poena.                                                                                                                        pristino suac interemptionis                                    cognoscens signaculum                        .                   iani        sibi
-
-                          ^   Cod. aa supjtlet exorciwius.                                                                                     dcinceps            illud sciat esse alieiium.                             Ex hinc iam diruntur stiper
-                          ^   Libr.             XXIV.        Aloi-al.        c.     II.          n.   27:     l-;os    cnim   pulsare...       eum orationes, nt /ial catechumenus. Tunc daliir bapiiy.ando
-                 se scntil.            Conira           nos        vero co veheiTienliu.s incitatur, quo                                e.v;   s.-il   etc.        —    In    lioc          testimonio codd.               A II K       W    ct cd.             I           ,      coneor-
-                 cordc nostro quasi ex iure propriae habitationis expellilur.                                                           —      dante         te,\lu      originali,                omittunt expellatur, pro quo                                         alii          codd.
-                 Superius pro ipsum ve.raret cod. aa vel ad aliud bonum, tmic                                                                  pellatur, et pro fiat cod.                                   Z sciat. Pro interemptumis pliirimi
-                 ad iracundinm provocaiur. Idem cod.                                                       aa pro      veibis, quibus          codil.        interpretationis.
-                                                                                                                                                                                                                                 .
-
-
-
-
-                                                                                                                                         DIST. VI.                    P.   H.     DUBIA.                                                                                                                      l-iO
-
-
-             tui'       sal        benediclum                          in        os eius, ut sapienlia condilns                                                            eius           ;
-                                                                                                                                                                                               per ora gestantiurri respondet,                                                        ul        aliena ini-
-             careal foelore                              iniquilalis                           el        ullra nou                   pulrescat                   a         quitale obligatus, aliena fide et confessione solvatur.
-             vcrniibus viliorum ». Sal                                                     '       conservat carnem a foe-                                                 — Postea inungitur                                              oleo sacro in pectore,                                    tanquam Dedmo.
-             tore et putrefaclione ; sic sapientia per                                                                               ipsum signi-                          muniatur adversus hostem, ne                                                                ei       deinceps iminunda
-             ficata       spiritum conservat, ne solvatur in vilia et foe-                                                                                                 et noxia persuadere                                             possit.               Ungitur et inter spatulas,
-  Tciiio. teal           per infamiam.                            — Deinde exsulHatur malignus
-                                                                                 «                                                                                         ubi vigor portandi oneris est, ut fortitudinem acci-
-             foris,           ut spiritus spirilu pellatur^», scilicet SpirJlu                                                                                             piat            ad portandum onus\                                                    —         Deiiide        interrogatur, UQdecimo.
-             sanclo malignus, quia Spiritns                                                                 sanclus                     per        flatum                  si    credat in                          Deum Palrem et Filium et Spiritum san-
-             significatus est, loannis                                                [)em\tmo                    :   JnsufJIavit et di-                                   ctum, unam Fcclesiam catholicam. remissionein pec-
- Quario.     xit cis : Accipite Spiritam sanctum etc.                                                                                   — Poslea
-                                                                                                                                               «                           catorum                      et     vitam aeternam; et sub hac fidei respon-
-             tangunlur                      ei       aures et nares                                      cum          saliva,              ut       tactu                  sione trina immersione a sordihus velustatis abluitur,
-             supernae sapientiae                                       el             aures aperiantur                                   ei        ad au-                  novuin indutus hominem.                                                          — Deinde, postquam ba-                                       Duodecirao.
-
-             diendum verbum Dei et nares similiter ad discer-                                                                                                              ptizatus a fonte ascendit, sacro chrismate in vertice
-
-             nendum odorem vilae et mortis. Hoc significavit Do-                                                                                                           ungilur,                       ut        spiritum                         Christi               parlicipando                    merito
-             minus, cum                              dixit in sanatione surdi et muti, Marci                                                                               deinceps                      Christianus appelletur, coheres regni                                                                     et
-
-             septimo^: Ep/ipheta » elc; Glossa:                                                                       «    Sputum de ca-                                   gloriae                   sacra           unctione effectus.                                      — Deinde traditur                           cecimo ler-
-                                                                                                                                                                                                                                                                                                                             tio.
-                                                                                                                                                                           ^,     .           .                                             ,.       ,
-                                                                                                                                                                                                                                                                            .
-
-
-             pile        Domini                  est divina sapientia,                                            quae               solvit labia,                         Lhnstiano vestis candida, ut qui prnnae                                                                                  nativitatis
- Quiiiio-    ul dical              :       Credo in Deum ».                                     —         Post haec introducitur                                           decorem                       vetustalis                    paimis obfuscaverat, habilu                                                 re-
-  i?e>^to-
-             baptizandus                            in    ecclesiam.                            —         « His           habitis et                   com-                generationis                             gloriae praeferat                                  indumenium.                     Tegitur
-             pletis,          venit sacerdos ad fontem, et consecratur fons                                                                                                etiam caput sacro velamine post unctionem sacram,
-             in     nomine                     Patris et               Filii               et Spiritus                     sancti, ut san-                                 ut intelligat. se                                    diademate regni                                  et sacerdotali                    di-
-
-             ctitas Sacraiuenti                              non ex eo qai ministrat, constare                                                                             gnitate potiri.                           —           .\d       ultimum cereus accensus datur Decimo
-sepiimo.     scialuc          ,        sed ex eo qui sanctificat.                                                     — Post haec                          Ira-
-                                                                                                                                                                           .
-
-
-
-                                                                                                                                                                           in    nianu eius, quo implere doceatur iliud evangeli-
-                                                                                                                                                                                                                                       .             ,
-                                                                                                                                                                                                                                                                  1
-                                                                                                                                                                                                                                                                                                                         qoarlo.
-
-
-
-             ditur novae vilae auditoribus catechumenis                                                                                        Symbo-                      cum, Matthaei quinto °                                               :    Sic luceat lux vestra                                 coram
-             him         fidei.                in     quo apostolicae doctrinae forma con-                                                                                 hominibus. Hanc lampadem                                                               si       inexstinguibilem ser-
-             sistitS). Hoc non dicitnr in                                                                nioderno                  ordinali,                   ut          vaverit, inter virgines sapientes cum sponso caelesli
-  Nono.      credo.           —            «    Post haec oblalus ad                                             baptismum parvu-                                          ad nuptias introibit '>.                                                 — Et stalim,                    si     adest episco-
-             his et interrogalus a sacerdote,                                                                    si       abrenuntiel                          sa-         pus, confirmatur; et datur                                                        ei       eucharistia post confir-
-
-             tanae et omnibus pompis eius et omnibus operibus                                                                                                              nialioncm.                          si    sil         adnltus. ut Christo incorporetur '.
-
-
-
-                                                                                                                      DUBI.\ CIRC.\ ]JTTER.\M MAGISTHI.
+---
 
 ## English
 
-[Translation pending]
+### Article III. *On the sacramentals annexed to baptism.*
+
+Next, in the third place, there is a question concerning the sacramentals, and concerning this two things are asked. First, there is asked about catechism. Second, about exorcism.
+
+### Question I. *Whether infants to be baptized ought to be catechized.*
+
+And since *catechism* is said to be instruction[^1], it is therefore asked whether infants ought to be catechized. And that they ought, it seems:
+
+1. Because, where there is only one Sacrament, there ought also to be observed one rite; but grown persons are catechized: therefore infants too.
+
+2. Likewise, a form handed down by God is to be observed generally; but Christ, in the last [chapter] of Matthew[^2], prefaces doctrine to baptism, when he says: *Go, teach all nations* etc.
+
+3. Likewise, to this purpose makes the custom and usage of the universal Church, which, since it acts rightly in catechizing children; it seems etc.
+
+**On the contrary:**
+1. It is foolish to instruct one who is not capable of doctrine: therefore the one baptizing acts foolishly when he catechizes an infant[^3].
+
+2. Likewise, it seems that the attendants answer falsely: for either they answer in the person of the *infant*, or in their *own* person. Not in their *own* person, because the priest asks of the infant. If in the person of the *infant*: therefore they say something false, when they say *I believe*.
+
+Likewise I ask whether the godparents are bound in that response. And that they are, it seems: because Augustine in a certain sermon[^4]: «I wish that you all may know, both men and women, that you have stood as sureties before God for the little ones whom you have received». But then it seems, since no one knows of another what sort he will turn out to be, that he promises foolishly and puts himself in peril.
+
+Likewise I ask whether infants are bound. And that they are, it seems. Dionysius says[^5] that the sense of the words which the godparents say is, that that child, when he comes to understanding, will keep the sacred confessions; therefore they bind the infant. For if an infant could be bound through carnal parents unto evil: therefore through spiritual ones unto good much more strongly. *On the contrary:* if parents promise on behalf of a son that the son will enter religion, he is not obligated nor bound: therefore likewise in the case proposed.
+
+Likewise I ask, if he is bound, whether that obligation is a *vow*. And that it is, it seems: because a vow is the spontaneous promise of a better good, confirmed by deliberation and obligation[^6]. *On the contrary:* according to this the baptized would sin with a twofold sin, because he is a transgressor of vow and of precept.
+
+### Conclusion.
+
+> Even in the baptism of infants it is fitting to preface catechism.
+
+**I respond:** It must be said that catechism preceded baptism in adults for two causes: that those to be baptized might be *instructed* concerning the things to be believed, and that they might *bind* themselves voluntarily to the doing of God's commands, as those who would fulfill them not under compulsion, but voluntarily[^7]. Infants indeed, although they cannot be *taught*, can nevertheless be *bound* through godparents. Therefore catechism is administered to them both on account of the *ground of binding* and on account of *uniformity*, that all may be baptized alike, just as they receive a like effect.
+
+1. 2. To that, then, which is objected concerning doctrine, the response is already clear[^8]. Likewise to that which is objected concerning those who respond, it must be said that they respond in the person of the infant, and the sense is: *I believe*, that is, I receive the Sacrament of faith, or I am ready to receive it. And it is not a false nor an unaccustomed manner of speech, because, as Augustine says in the letter to Boniface[^9], frequently the sign is taken for the thing; just as we say: tomorrow will be the resurrection of the Lord, and one seeing smoke says he sees fire. — Or the sense can be: *I believe*, that is, I bind myself to believing.
+
+To that which is asked, whether the godparents are bound; it must be said that, if they had no[^10] other teacher, they are bound to instruct him in those things which are of the necessity of faith and morals, or to this, that they would have him instructed, or to this, that he would believe or observe. But now, since they have many teachers, they are not bound.
+
+To that which is asked concerning infants, whether they are bound; it must be said that they are, because there are required there only those things to which they are bound by natural law, but none of supererogation[^11]; therefore it is not similar to the case of entering religion.
+
+To that which is asked, whether such an obligation is a vow; it must be said that it is not properly so, because a vow[^12] is of that which is of supererogation; nevertheless, by an extended name, it is a vow, because it is a voluntary obligation. Nor does it make a twofold sin, because he is not bound more than before by necessity, but by what is good and equitable.
+
+### Scholion
+
+**I.** Concerning the rites which accompany solemn baptism, the *Master* (here c. 6. 7.) [says] little, but Alexander of Hales adduces much, both according to Dionysius the Areopagite and according to Rabanus (on the Instruction of clerics), (S. p. IV. q. 7. m. 1-3. and q. 8. m. 10. a. 1-5.), which are treated more concisely also by St. Thomas. — On the 1st question, with the incidental questions, cf. St. Thomas, here q. 2. a. 2; S. III. q. 71. a. 1. 4. — Bl. Albert, on this and the following question, here a. 14. 15. — Peter of Tarentaise, here q. 3. a. 2. — Richard of Mediavilla, here a. 5. q. 1. 2. 3. — Durandus, here q. 3. — Dionysius the Carthusian, on this and the following question, here q. 3.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers here are renumbered continuously across the chunk.
+
+[^1]: **La.** Cfr. hic lit. Magistri, c. 7.
+    **En.** Cf. here the text of the Master, c. 7.
+
+[^2]: **La.** Vers. 19. — Post *sed* ex codd. F I supplevimus *Christus*. Cod. aa legit: *sed ipse, quando dedit formam, praemisit instructionem, ultimo Matthaei, cum dicit*. Cfr. Hugo a S. Vict., II. de Sacram. p. VI. c. 9.
+    **En.** Verse 19. — After *but* we have supplied *Christ* from codices F I. Codex aa reads: *but he himself, when he gave the form, prefaced instruction, in the last [chapter] of Matthew, when he says*. Cf. Hugh of St. Victor, II. On the Sacraments, p. VI. c. 9.
+
+[^3]: **La.** Cod. aa subiungit aliud arg.: Item, Hugo [II. de Sacram. p. VI. c. 10.]: «Ad hoc est catechismus, ut homo promoveatur ad fidem proprio libertatis arbitrio»; sed parvulus non habet usum liberi arbitrii: ergo etc.
+    **En.** Codex aa subjoins another argument: Likewise, Hugh [II. On the Sacraments, p. VI. c. 10.]: «To this end is catechism, that a man may be advanced to faith by his own choice of freedom»; but an infant does not have the use of free choice: therefore etc.
+
+[^4]: **La.** Ex Sermone S. Augustini post Pascha, qui sic incipit: *Hodiernus dies*. Ita allegatur C. *Vos ante omnia* (105.), de Consecrat. d. 4. Sententia haec habetur in pluribus sermonibus, qui nunc in appendice sermonum Augustini inveniuntur, v. g. in Serm. 168. (alias 163. de Tempore) n. 3; Serm. 265. (alias 215. de Tempore) n. 2, et Serm. 267. (alias 116. de Tempore) n. 5.
+    **En.** From a Sermon of St. Augustine after Easter, which begins thus: *This present day*. So it is cited [in] C. *Vos ante omnia* (105.), On Consecration, d. 4. This sentence is found in several sermons, which are now found in the appendix of Augustine's sermons, e.g. in Serm. 168 (otherwise 163, on Time) n. 3; Serm. 265 (otherwise 215, on Time) n. 2, and Serm. 267 (otherwise 116, on Time) n. 5.
+
+[^5]: **La.** De Ecclesiast. Hierarchia, c. 7. circa finem: *Neque enim hoc ait sic*: Pro puero ego abrenuntiationes aut sacras confessiones facio, sed quia puer abrenuntiat, hoc est confiteor, puerum credere in sacrum sensum venientem [sic νοῦν ἱερὸν ἰόντα] nostris anagogis [-ais ἐμαῖς ἐνθέοις ἀναγωγαῖς, i. e. nostris (sive meis) divinis institutionibus], abrenuntiaturum quidem universaliter contrariis, confiteri autem et operari divinas...
+    **En.** On the Ecclesiastical Hierarchy, c. 7, near the end: *For neither does he say thus*: For the child I make the renunciations or the sacred confessions, but [the meaning is] that, because the child renounces — that is, I confess — that the child believes, when he comes into sacred understanding [νοῦν ἱερὸν ἰόντα], by our anagogical leadings [ἐμαῖς ἐνθέοις ἀναγωγαῖς, i.e. by our (or my) divine institutions], that he will indeed renounce universally the contrary things, and will confess and perform the divine...
+
+[^6]: **La.** Guliel. Antissiodor., S. p. III. tr. 28. q. 1, votum definit: *Votum est boni propositi conceptio animi, deliberatione firmata, de his quae ad religionem pertinent, secundum quam conceptionem aliquis se obligat Deo.* Cfr. infra d. 38, a. 1. q. 1. seq. — Superius pro *illa* codd. A V W Z bb *sua*.
+    **En.** William of Auxerre, S. p. III. tr. 28. q. 1, defines a vow: *A vow is a conception of the mind concerning a good purpose, confirmed by deliberation, regarding those things which pertain to religion, according to which conception one binds oneself to God.* Cf. below d. 38, a. 1. q. 1. and following. — Above, for *illa* codices A V W Z bb [read] *sua*.
+
+[^7]: **La.** Plures codd. et edd. *impleturi erant*.
+    **En.** Several codices and editions [read] *they were going to fulfill them*.
+
+[^8]: **La.** Cod. aa hic addit solut. ad aliud arg. ab ipso propositum: quia, licet parvulis non fiat catechismus, ut instruantur de fide; fit nihilominus propter secundam rationem, quae dicta est; et per hoc solvitur illud Hugonis. Nam similiter arguit de adultis, qui in fide deberent instrui, antequam baptizentur. Ad illud ergo quod obiicitur etc. Mox plurimi codd. omittunt *ad illud*. Inferius pro *percipio* cod. II *recipio*.
+    **En.** Codex aa here adds a solution to another argument proposed by itself: because, although catechism is not administered to infants that they may be instructed concerning the faith; it is nonetheless administered on account of the second ground, which has been stated; and by this is solved that [argument] of Hugh. For he argues likewise concerning adults, who ought to be instructed in the faith before they are baptized. To that, then, which is objected etc. Soon most codices omit *ad illud*. Below, for *percipio* codex II [reads] *recipio*.
+
+[^9]: **La.** Epist. 98. (alias 23.) n. 9: *Nempe saepe ita loquimur, ut, Pascha propinquante, dicamus, crastinam vel perendinam Domini passionem... ipso die dominico dicimus, hodie Dominus resurrexit.*
+    **En.** Letter 98 (otherwise 23) n. 9: *Indeed we often speak in such a way that, when Easter is approaching, we say, the Lord's passion is tomorrow or the day after... on the Lord's Day itself we say, today the Lord has risen.*
+
+[^10]: **La.** Cod. I *haberet*, scil. parvulus. Subinde pro *obligantur* cod. F *obligarentur*.
+    **En.** Codex I [reads] *he had*, namely the infant. Thereupon for *obligantur* codex F [reads] *obligarentur*.
+
+[^11]: **La.** Supple: *requiruntur*. — Cod. F legit *ad illa autem, quae sunt supererogationis, non tenentur*; codd. G I *multa autem sunt [G non sunt] supererogationis*; cod. U *non autem ad opera supererogationis*. Pro *tenentur* non pauci codd. et edd. *tenetur*.
+    **En.** Supply: *are required*. — Codex F reads *but to those things which are of supererogation, they are not bound*; codices G I [read] *but many things are [G are not] of supererogation*; codex U [reads] *but not to the works of supererogation*. For *tenentur* not a few codices and editions [read] *tenetur*.
+
+[^12]: **La.** Ita codd. A B (E a secunda manu) F G I, in aliis et edd. deest *votum*, cod. X a secunda manu *votum proprie*. Mox pro *est votum* cod. A *dicitur votum*, codd. G I (F a secunda manu) *potest dici votum*, cod. aa *voti* pro *voluntaria obligatione ad implendum ea, ad quae tenetur homo de necessitate, potest ibi esse votum*. *Nec facit duplex* etc. Superius pro *quaeritur* codd. et ed. 1 *obiicitur*.
+    **En.** So codices A B (E by a second hand) F G I; in the others and the editions *votum* is wanting; codex X by a second hand [reads] *votum proprie*. Soon for *est votum* codex A [reads] *dicitur votum*, codices G I (F by a second hand) *potest dici votum*, codex aa *voti* for *voluntaria obligatione ad implendum ea, ad quae tenetur homo de necessitate, potest ibi esse votum*. *Nor does it make a twofold* etc. Above, for *quaeritur* the codices and edition 1 [read] *obiicitur*.
+
+---
 
 ## Notes
 
-[Notes pending]
+**Provenance.** Latin re-set column-by-column from 450 dpi PDF column bands (`/tmp/colcrop/vol4-p{155,156,157}-{L,R}-{0,1,2}.png`), with the IA djvu OCR (raw lines 17673–17919) as the base for clean running prose and footnote-marker spacing. PDF-priority inversion applied throughout the Respondeo, Solutio, scholion, and all footers (Vol II/IV two-column cascade-shatter). Offset pdf = printed + 20.
+
+**Title/alignment confirmed.** Article III's *first* question is catechism ("Primo quaeritur de catechismo" — p.155 R-1), title *Utrum parvuli baptizandi debeant catechizari*. Aligned — no q-swap.
+
+**Page-split map.**
+- p.155 — Art III opener + Q I title + opener ("instructio⁷") + fundamentum 1 (left col bottom / right col bottom). The rest of p.155 (left + right columns) is the *tail of the prior chunk* (a2-q2, *De intentione*) — not claimed here.
+- p.156 — body: fundamenta 2–3, Sed contra (incl. the incidental questions on godparents/binding/votum), Conclusio, Respondeo, Solutio oppositorum.
+- p.157 — body: tail of the Solutio (the two incidental replies on supererogatio/votum, top of left col) + the article-level SCHOLION.
+
+**Footer-ownership.**
+- p.155: claimed **only note 7** (→ "instructio"). Notes 1–6 on p.155 belong to the *prior* chunk a2-q2 (note 1 Ambros → "denominantur ab intentione"; notes 4–6 "Ut ostensum est quaest. praeced." / "consummationem" / "Vide scholion ad praecedentem quaest.").
+- p.156: claimed **all 9 notes** (1–9 → markers 1–10 of this chunk; markers on Matthaei, parvulum, sermone, Dionysius, firmata, impleturi, patet responsio, Bonifacium, haberent).
+- p.157: claimed **notes 1–2** (→ "supererogationis", "votum"). Notes 3+ on p.157 (Augustinus de Symbolo, Rabanus, Matth. 7,22, etc.) belong to the *following* chunk q2 (*De exorcismo*).
+
+**Scholion disposition.** Art III carries an article-level scholion block split into two numbered items. Item **I** (which contains the "De 1. quaestione cum incidentibus quaestionibus…" cross-reference list) is rendered here for q1. Item **II** ("Circa seq. (2.) quaestionem est notandum…" + "De eadem quaestione: Alex. Hal.…") belongs to the q2 chunk and is left to it.
+
+**[?] flags.** None. The Greek in [^5] (Pseudo-Dionysius, EH c.7) is partly OCR-garbled in the raw and rendered from the printed band as best legible; the bracketed transliterations are Quaracchi's own editorial glosses, reproduced as printed.
+
+File written.
