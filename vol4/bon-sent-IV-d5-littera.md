@@ -4,153 +4,124 @@ volume: 4
 book: 4
 distinctio: 5
 type: littera
-line_start: 13613
+title_la: "Distinctio V — textus Magistri Sententiarum"
+title_en: "Distinction V — text of the Master of the Sentences"
+printed_pages: [118, 119, 120]
+pdf_pages: [138, 139, 140]
+line_start: 13556
 line_end: 13741
-word_count_latin: 1133
-transcription_status: "auto-chunked 2026-06-16"
+source: "Petri Lombardi Sententiarum Libri IV, Liber IV, Dist. V (as printed in S. Bonaventurae, Opera Omnia, Tomus IV, Quaracchi 1889, pp. 118–120)"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set verbatim from IA djvu OCR (raw lines 13556–13741) collated column-by-column against 450 dpi PDF bands (pp.118–120, Vol II override); skeleton REBUILT (was mislabeled/incomplete: started mid-Cap. I at p.119, missing the p.118 distinction opening, and bled into the COMMENTARIUS/DIVISIO boundary). Fresh literal English translation, full apparatus from raw OCR footers (10 entries: p.118 R-col 'NOTAE AD LIBR. SENT.' = 2, p.119 = 6, p.120 = 2; the p.118 L-col footer belongs to d.4), no scholion (littera) (2026-06-19)"
 format_version: 1
 ---
 
-# bon-sent-IV-d5-littera
+# IV Sent., d. 5 — Littera Magistri
+## *Distinction V — text of the Master of the Sentences*
+
+---
 
 ## Latin
+<!-- page 118 -->
 
-DISTINCTIO V.                                                                                                                                        119
+### DISTINCTIO V.
 
-                sanclum esl,ut                                 iiec     liomicida miiiistrantc polluatur».                                                   ipsorum esset quod Domini cral,                                                                      tot    essent baptismi, Dubium 5.
-f uigeniius. Ilem             '
-                                  :      « Si          in     liaeresi           quacumque vel scliismate quis-                                              quot servi, ul, sicul dictns                                                               est     baptismus loannis,                     sic
-                qiiam                 in         nomine Patris                     et Filii                  el   Spiritns saiicti ba-                       dicerelur                             baptismus Pelri                                  vel       Pauli.        Quod ne fierel,
-                ptismi Sacramenluin acceperit, integrum Sacrainentnm                                                                                         lenuit                         sihi       Dominns potestatem haplismi, servis mini-
-                accepit; sed salulem, quae virlus est Sacramenti, non                                                                                        steriurn dcdit. Si ergo servus dicit, se                                                                          haplizarc;              re-
-                habebit,                         si   exlra catliolicam                             Ecclesiam                 ijjsum             Sacra-      clc dicit, scd                               lanquam minisler                                      haplizat; et ideo non
-                mentum                           habueril.            Dehet              igiUir              ad Ecclesiam redire,                            dilTert, sive                              bonus sive malus baplizet».                                                 «    Inde etiam AugusiiQus.
-                non ut Sacramontum                                            baplisini                  iterum accipiat, qiiod                              nemo                       dicit          baptismus meus,                                     cum tamen dicat Evan-
-                neino dehet                            in   aliquo re|)etere, sed ut in societate ca-                                                        gelium                         meum, prudenlia mea, liccl Iiaec sint                                                               a Deo.
-                Iholica vitam acclpial.                                       Baptismus cnim extra Ecclesiam                                                 In             quibus                      differentia                        est      :     alius       enim          alio        inelius
-                iiequit prodesse.enim cuique prodessc potest ha-Ihi                                                                                          operalur                             in     evangelizando                              ,    et     alius       alio         i)rudentior
-            ptisinus, ubi potest prodcsse elecmosyna, scilicct in                                                                                            est; alius                            autcm                alio       magis minusvc baplizatus, sive
-  isidoias. Ecclesia ». Ilem  Isidorus-: « Romanus Pontifcx non                                                                                              ab         inferiore                        sivc           a      maiore haptizelur,                               dici       non po-
-                hominein iudical, qui haplizat, sed Spirilum Dei sub-                                                                                        test *                 »
+### Cap. I. *Quod baptismus aeque bonus est, a bono vel a malo datus.*
 
-                ministrare graliam baplismi, licct paganus                                                                           sil      qui ha-
-                ptizat ». In his perspicue ceriiis, haptismum veruin bo-                                                                                                                                                               Cap.             III.-
+Post haec sciendum est, Sacramentum baptismi a bonis et a malis ministris dari, sicut a bonis et malis sumitur. Nec melior est baptismus, qui per meliorem datur; nec minus bonus qui per minus bonum datur; nec malus qui per malum datur; nec maius munus datur in baptismo a bono dato, nec minus in baptismo dato a malo, sed aequale; quia non est hominis, sed Dei munus. Quod totum subditis declaratur testimoniis. Augustinus[^1] ait: «Baptismus talis est, qualis est ille, in cuius potestate datur, non qualis est ille, per cuius ministerium datur». Item: «Prorsus fieri potest, ut aliqui verum habeant baptismum, et non habeant veram fidem». Item: «Si inter bonos ministros, cum sit alius alio melior, non est melior baptismus, qui per meliorem datur; nullo modo malus est qui etiam per malum datur, quia idem baptismus datur. Et ideo per ministros dispares Dei munus aequale est, quia non illorum, sed eius est». Idem: «Cum baptizat malus, illud quod datum est, unum est nec impar propter impares ministros, sed par et aequale propter hoc: Hic est qui baptizat»[^2]. Item: «Ego dico, et nos dicimus omnes, quia iustos oportet esse per quos baptizatur, iustos oportet esse tanti iudicis ministros. Sint ministri iusti, si volunt; si autem noluerint esse iusti qui sedent in cathedra Moysi, securum me fecit magister meus, de quo Spiritus sanctus dicit: Hic est qui baptizat». Item: «Quos baptizavit Iudas, Christus baptizavit. Si quos ergo baptizavit ebriosus, homicida, adulter; si baptismus Christi erat, Christus baptizavit. Non timeo adulterum, ebriosum, non homicidam, quia columbam attendo, per quam mihi dicitur: Hic est qui baptizat». Item: «Homicida dedit baptismum Christi; quod Sacramentum tam sanctum est, ut nec homicida ministrante polluatur».
 
-                nis et inalis dari                               a    bonis et a malis; et ipsum lamen
-                aeque sanctum esse,                                         et     munus eius aequale in honis,
-                                                                                                                                                                   Quae fuit poteslas baplismi, quam Christiis poluit
-                sivc a honis sive a malis baptizeiilur
-                                                                                                                                                                                dure servis et non dedil.
+<!-- page 119 -->
 
+Item[^3]: «Si in haeresi quacumque vel schismate quisquam in nomine Patris et Filii et Spiritus sancti baptismi Sacramentum acceperit, integrum Sacramentum accepit; sed salutem, quae virtus est Sacramenti, non habebit, si extra catholicam Ecclesiam ipsum Sacramentum habuerit. Debet igitur ad Ecclesiam redire, non ut Sacramentum baptismi iterum accipiat, quod nemo debet in aliquo repetere, sed ut in societate catholica vitam accipiat. Baptismus enim extra Ecclesiam nequit prodesse. Ibi enim cuique prodesse potest baptismus, ubi potest prodesse eleemosyna, scilicet in Ecclesia». Item Isidorus[^4]: «Romanus Pontifex non hominem iudicat, qui baptizat, sed Spiritum Dei subministrare gratiam baptismi, licet paganus sit qui baptizat». In his perspicue cernis, baptismum verum bonis et malis dari a bonis et a malis; et ipsum tamen aeque sanctum esse, et munus eius aequale in bonis, sive a bonis sive a malis baptizentur:
 
-                                                                                 Cvp.             II.
-                                                                                                                                                                             Hic quaeritur, quae sit illa polestas baptismi, quam
-                                                                                                                                                             (]hrislus sibi retinuit et potuit dare servis.                                                                         — Haec            est, opir.io i.
-                                                 De polK^liile baplismi el minislerio.                                                                       ut plurimi volunt, poteslas diiniltcndi                                                                         peccata            in     ba-
-                                                                                                                                                             ptismo.                        — Sed poleslas dimillendi peccala, qnae                                                              est in
+### Cap. II. *De potestate baptismi et ministerio.*
 
-                              Quia ministcrium tantum habent, non poleslalem                                                                                 Deo, Deus                                 est.        Ideo        alii                dicunt, hanc polestatem non "p'"'" 2.
-                baptismi                     ;
-                                                  polcstalem                enim                  sibi       retinuil.          Quod                iiovit   potuisse. darc alicui                                            servorum, (juia                           nulli poluit             dare,
-                loannes, cum vidil columbnm descenclenlem super Cliri-                                                                                       ut cssct   qnod ipse esl, vel ut haberct essentiam, qiiam
-Dahiam 3. stum.                   Uude Augiistinus':                                         «   Quid noverat loannes Ba-                                    ipse hahet, cui hoc estes.se quod posse. Dicnnl eliam:
+Quia ministerium tantum habent, non potestatem baptismi; potestatem enim sibi retinuit. Quod novit Ioannes, cum vidit columbam descendentem super Christum. Unde Augustinus[^5]: «Quid noverat Ioannes Baptista? Dominum. Quid non noverat? potestatem dominici baptismi in nullum hominem a Domino transituram, sed ministerium plane transiturum: potestatem a Domino in neminem, sed ministerium in bonos et malos. Non exhorreat columba ministerium malorum, respiciat Domini potestatem. Quid facit tibi minister malus, ubi bonus est Dominus»? «Neque qui plantat, neque qui rigat est aliquid, sed qui incrementum dat, Deus. Si superbus fuerit minister, cum diabolo computatur; sed non contaminatur donum Christi, quod per illum fluit purum est. Per lapideum canalem transit aqua ad areolas; in canali lapideo nil generatur, sed hortus fructus plurimos affert». — Habent igitur non modo boni, sed et mali ministerium baptizandi, sed neutri potestatem baptismi. «Ministerium enim dedit Christus servis, sed potestatem sibi retinuit, quam si vellet, poterat servis dare, ut servus daret baptismum suum tanquam vice sua. Et potestatem suam poterat constituere in aliquo, vel in aliquibus servis suis, ut tanta vis esset in baptismo servi, quanta est in baptismo Domini; sed noluit, ne servus in servo spem poneret. Baptizat servus ut minister, baptizat Dominus tanquam potestatem habens, quam si daret servis, ut scilicet ipsorum esset quod Domini erat, tot essent baptismi, quot servi, ut, sicut dictus est baptismus Ioannis, sic diceretur baptismus Petri vel Pauli. Quod ne fieret, tenuit sibi Dominus potestatem baptismi, servis ministerium dedit. Si ergo servus dicit, se baptizare; recte dicit, sed tanquam minister baptizat; et ideo non differt, sive bonus sive malus baptizet». «Inde etiam nemo dicit baptismus meus, cum tamen dicat Evangelium meum, prudentia mea, licet haec sint a Deo. In quibus differentia est: alius enim alio melius operatur in evangelizando, et alius alio prudentior est; alius autem alio magis minusve baptizatus, sive ab inferiore sive a maiore baptizetur, dici non potest[^6]».
 
-                plista? Domiiuiin. Qnid noii noverat? poleslalem domi-                                                                                       si banc    |)oteiitiain alicui dare potuit, potuit ei dare
+### Cap. III. *Quae fuit potestas baptismi, quam Christus potuit dare servis et non dedit.*
 
-                nici          baptismi                   in     iinllum             hominem a Domino                                          Iransilu-      creatiiras creare      (uiia non est hoc maioris potentiae
-                                                                                                                                                                                                                   ,
+Hic quaeritur, quae sit illa potestas baptismi, quam Christus sibi retinuit et potuit dare servis. — Haec est, ut plurimi volunt, potestas dimittendi peccata in baptismo. — Sed potestas dimittendi peccata, quae est in Deo, Deus est. Ideo alii dicunt, hanc potestatem non potuisse dare alicui servorum, quia nulli potuit dare, ut esset quod ipse est, vel ut haberet essentiam, quam ipse habet, cui hoc est esse quod posse. Dicunt etiam: si hanc potentiam alicui dare potuit, potuit ei dare creaturas creare, quia non est hoc maioris potentiae quam illud[^7]. — Ad quod dici potest, quia potuit eis dare potentiam dimittendi peccata, non ipsam eandem, qua ipse potens est, sed potentiam creatam, qua servus posset dimittere peccata, non tamen ut auctor remissionis, sed ut minister, nec tamen sine Deo auctore; ut, sicut in ministerio habet exterius sanctificare, ita in ministerio haberet interius[^8] mundare; et sicut illud fecit, Deo auctore, qui cum eo et in eo operatur illud exterius, ita mundaret interius, Deo auctore, qui eius verbo velut quodam ministerio uteretur. Ita etiam posset Deus per aliquem creare aliqua, non per eum tanquam auctorem, sed ministrum, cum quo et in quo operaretur; sicut in bonis operibus nostris ipse operatur, et nos: nec ipse tantum, nec nos tantum, sed ipse nobiscum et in nobis, et tamen in illis agendis ministri eius sumus, non sumus auctores. Ita ergo potuit dare servo potestatem dimittendi peccata in baptismo, id est, ut in mundatione interiori servus cum Domino operaretur; non servus sine Domino, nec Dominus sine servo; sed Dominus cum servo et in servo, sicut in exteriori ministerio Dominus operatur cum servo et in
 
+<!-- page 120 -->
 
-
-
-                ram, s<n\ minisleriut7i plane transiturum: poteslalem a                                                                                      (|uain illud °.                             —
-                                                                                                                                                                                  Ad quod dici potest, quia potuil eis Resp. Ma-
-                                                                                                                                                                                                                         gistri.
-
-            Domino in neminein, sed minislerium iii honos el malos.                                                                                          dare potciiliarn dimittcndi peccata, non ipsam eandem,
-            Non exhorreat coliimha minislerium malorum, rcspi-                                                                                               qua ipse potens est, sed potentiam crealam, qua ser-
-            ciat Domini poleslatem. Qiiid facit tihi miiiistcr malus,                                                                                        viis posset dimittere peccata, non tamen ut auctor re-
-
-Augnstiuus. uhi honus esl Domiiius » ? « Neque qiii plantat, neqiie                                                                                          niissionis    sed ul minisler, nec tamen sine Deo aucto-
-                                                                                                                                                                                              ,
-
-
-
-                qui rigat est aliquid, sed qui incrementum dat, Deus.                                                                                        re    ;        nt, sicut in minislerio                                                 hahel exlerius sanclificare,
-                Si   superhns                 cum diaholo computatnr;
-                                                       fiieril       minisler,                                                                               ila        in              ministerio haberet                                         interius "         muiulare;             et sicut
-
-                sed non contaminalur donum Chrisli, quod per illuin                                                                                          iilud                  fecil,Deo auctore, qui cum eo et in eo operatnr
-                fluit purum esl. Pcr iapideiim canalem transit aqua ad                                                                                       illud                  exterius, ila mundaret inlerius, Deo auclore, qui
-                areolas;                         in    canali         lapideo                    nil     generatnr, sed                          horlus      cius verho velut quodam minislerio utereliir. Ita etiam
-                fruclns pluriinos                                alTert».               — Hahenl                   igiUir                non modo            posset Deus per aliquem crearc aliqua, non per                                                                                          eum De  crea-
-                                                                                                                                                                                                                                                                                                          tione.
-                honi, sed el mali                                    ministerium haplizandi, sed neutri                                                      lanquam auctorem, sed minislrum- , cum (]uo el in quo
-Augusiinus. poteslatein                               baplismi.         «    Ministerium enim dedit Christus                                                 operaretnr; sicnt                                          in    bonis operibus nostris ipse opcra-
-                servis, sed                            poteslalem                  sihi           relinuit,         qiiam                si    vcllel    ,
-                                                                                                                                                             lur, ct nos: nec                                           ipse tanUim,                            nec     iios        lantum, sed
-                poterat servis dare. ut servns daret haplismuin                                                                                     suum     ipse nobiscuin el iii nobis, et lainen in                                                                      iilis   ageiidis mi-
-
-                tauquam vice sua. Et potestatem suain poterat                                                                                  coiisti-      nistri eius suiiuis, non sunuis auctores. Ita ergo potuit
-                luere             in          aliquo, vel               iii      ali(piibus servis suis, ut lania                                            darc servo poteslalem dimillendi peccala                                                                               in    haptismo,
-                vis essct in                            haptismo servi,                             quanta          est         in        baptismo           id        est, ut in                        mundalione                                interiori servus cwn                     Domino
-Dubiura   .1.
-                Dominl; scd noluit, ne scrvus                                                           in    servo spem poneret.                            operaretur; non servus sine Domino, nec Dominus sine
-                Baptizal servus ulniinisler, baplizat                                                             Dominus tanquam                            servo; sed                             Dominus cwn servo et in servo, sicut in
-                poleslatem bahens,                                    quam                   si    darct servis,                     ut scilicet             exteriori ministerio                          Dominus operalur cum servo ct in
-
-
-
-
-                — Tertius                        ibid. n.        18, et            C.            Dedil        Baplismum (46.;, c.                       1.   de Consecrat.                             dist. J.         |    1.    Immediate ante respiciiur loan. 1, 3.3.
-                q.   \.       %         \.       Quartus       iljid.       n.     19.           et in       codcm canoiie % 2.                              — Seq. locus                              est August., ibid. n. IS, et C.                                Si iustus           (30.),      c. t.
-
-                          '
-                                  De         fide      nd     Petr.     (auclore Fulgenlio)                         c.    :!.    n.        43. (inlcr-       q.        I,       ubi ciialur                   I.       Cor.       3,       7.      Tertius locus cst ibid.                 n.   7, plu-
-
-                polale). Infi a pro iibi potcst codd.                                                   A B C D et       ed.         I    cui potest.        rimis a Jlagistro                                 omissis;                    in      quo        pro tenuit sibi edd.,                  e.vce-
-
-                          2       Can.            RomamiS pontifex (2.3.), de Consecral. disl. i. Sed                                                        pta        1       ,       retinuil sibi , refragantibus codd. et origlnali.
-
-                locus a mullis qunesilus in /Sif?oro iion j)Oluit inveniri; legilur                                                                                         •       Augusl., V. de Bapiismo contra Donaiisias,                                                      c.    14.    n.    16,
-
-                lamen apud Egbertum Ebor.                                               I.       Poenilent.        p.    1.     c.       7,    et   Alge-    et C.                  Cum tantum (47.), do Consecrat. dist. 4. § I.
-                rum,          III.           de Sacramento                  c.     6.    — Inferius notandum, qiiod                                    ul-                  5       Cfr. Glossa                apiid Lyranuni                             loan.       14,     12.    Superius pro
-                tima capituli proposilio divisione capilulorum incisa                                                                     esl.               Dicunt etiam edd., exccpta                                                    I   ,   Diciint enim , refragantibus codd.
-                                                                                                                                                                 s Codd. A B E et cd.                                                          inlns.
-                          3       lii      loan.        Evang.tr.             5.    n.           II, vi C. Baplismus lalis (26.),                                                                                                      I
-                                                                                                                                                                                                                  ,
-
-
-
-
-         120                                                                    SENTENTIARUM EIB. IV.
-
-         servo.   Unde et Dominus diciliir sanclificare elscrvus;                                      visibilibiis             Sacramentis per ministerium, Doniinus au-
-           sed Dominus invisibili gratia, servus visibili Sacra-                                       leni invisibili gratia                       pcr Spiritum, ubi est tolus fruclus
-
-AogBsimus. mento. Unde Auguslinus super Leviticum ':
-                                                        « Dominus                                      visibilium Sacramentorum. Sine iiac sanclificalione                                                  vi-
-
-           ait: Ego Dominus,  qui sanctiftco; de  Moyse   etiam di-                                    sibiiia       Sacramcnta                    nihil   prosunt».          —     Si quis         hoc me-
-         ctum est: Et scmclificahis eum. Sed Moyses sanctificat                                        lins     aperire poleril, non invideo^
-
-
-
-
-                                                 COMMENTAHIUS IN DISTINCTIONEM Y.
-                                                                De baptisiiio per coniparationem ad dantes.
-
-                                                         Post haec sciendum                 est,     Sacramenlum baptismi etc.
+servo. Unde et Dominus dicitur sanctificare et servus; sed Dominus invisibili gratia, servus visibili Sacramento. Unde Augustinus super Leviticum[^9]: «Dominus ait: Ego Dominus, qui sanctifico; de Moyse etiam dictum est: Et sanctificabis eum. Sed Moyses sanctificat visibilibus Sacramentis per ministerium, Dominus autem invisibili gratia per Spiritum, ubi est totus fructus visibilium Sacramentorum. Sine hac sanctificatione visibilia Sacramenta nihil prosunt». — Si quis hoc melius aperire poterit, non invideo[^10].
 
 ## English
 
-[Translation pending]
+### DISTINCTION V.
+
+### Chap. I. *That baptism is equally good, given by a good or by a bad [minister].*
+
+After these things it must be known that the Sacrament of baptism is given by good and by bad ministers, just as it is received by the good and the bad. Nor is the baptism better which is given through a better [minister]; nor less good which is given through a less good one; nor bad which is given through a bad one; nor is a greater gift given in a baptism given by a good [minister], nor a lesser in a baptism given by a bad one, but an equal one; because it is not man's, but God's gift. All of which is shown by the testimonies set below. Augustine[^1] says: «Baptism is such as is he in whose power it is given, not such as is he through whose ministry it is given». Likewise: «It can altogether happen that some have true baptism, and do not have true faith». Likewise: «If among good ministers, since one is better than another, the baptism is not better which is given through a better one; in no way is it bad which is given even through a bad one, because the same baptism is given. And therefore through unequal ministers God's gift is equal, because it is not theirs, but his». The same: «When a bad man baptizes, that which is given is one and not unequal on account of unequal ministers, but par and equal on account of this: He it is who baptizes»[^2]. Likewise: «I say, and we all say, that they ought to be just through whom one is baptized, the ministers of so great a judge ought to be just. Let the ministers be just, if they will; but if those who sit in the chair of Moses are unwilling to be just, my master has made me secure, of whom the Holy Spirit says: He it is who baptizes». Likewise: «Those whom Judas baptized, Christ baptized. If then those whom a drunkard, a murderer, an adulterer baptized — if it was the baptism of Christ, Christ baptized. I do not fear the adulterer, the drunkard, not the murderer, because I attend to the dove, through which it is said to me: He it is who baptizes». Likewise: «A murderer gave the baptism of Christ; which Sacrament is so holy that it is not polluted by a murderer ministering it».
+
+Likewise[^3]: «If in any heresy whatever or schism anyone has received the Sacrament of baptism in the name of the Father and of the Son and of the Holy Spirit, he has received an entire Sacrament; but he will not have salvation, which is the virtue of the Sacrament, if he has had the Sacrament itself outside the catholic Church. He must therefore return to the Church, not that he may receive the Sacrament of baptism again — which no one ought to repeat in any one — but that he may receive life in the catholic society. For baptism outside the Church cannot profit. For there can baptism profit anyone where alms can profit, namely in the Church». Likewise Isidore[^4]: «The Roman Pontiff judges that it is not the man who baptizes, but the Spirit of God who supplies the grace of baptism, although it be a pagan who baptizes». In these things you clearly perceive that true baptism is given to good and bad by good and by bad; and that it is nonetheless equally holy, and its gift equal in the good, whether they be baptized by the good or by the bad:
+
+### Chap. II. *On the power of baptism and the ministry.*
+
+Since they have only the ministry, not the power of baptism; for he retained the power to himself. Which John knew, when he saw the dove descending upon Christ. Whence Augustine[^5]: «What did John the Baptist know? The Lord. What did he not know? that the power of the Lord's baptism would pass from the Lord to no man, but that the ministry plainly would pass: the power from the Lord to no one, but the ministry to good and bad. Let not the dove abhor the ministry of the bad, let it look to the power of the Lord. What does a bad minister do to you, where the Lord is good»? «Neither he that planteth, nor he that watereth is anything, but he that giveth the increase, God. If the minister be proud, he is reckoned with the devil; but the gift of Christ is not contaminated, which flows pure through him. Through a stone channel the water passes to the garden-beds; in the stone channel nothing is generated, but the garden brings forth very many fruits». — They have therefore, not only the good, but also the bad, the ministry of baptizing, but neither the power of baptism. «For Christ gave the ministry to servants, but retained the power to himself, which, if he willed, he could give to servants, that the servant might give his baptism as in his stead. And he could set his power in some one, or in some of his servants, so that there might be as great force in the baptism of the servant as there is in the baptism of the Lord; but he was unwilling, lest the servant should place his hope in a servant. The servant baptizes as a minister, the Lord baptizes as having the power, which if he gave to servants, so that that which was the Lord's might be theirs, there would be as many baptisms as servants, so that, just as it is said the baptism of John, so it would be called the baptism of Peter or of Paul. That this might not happen, the Lord held the power of baptism to himself, and gave the ministry to servants. If then a servant says that he baptizes; he says rightly, but he baptizes as a minister; and therefore it makes no difference whether a good or a bad man baptizes». «Hence also no one says my baptism, although he says my Gospel, my prudence, although these are from God. In which there is a difference: for one works better than another in evangelizing, and one is more prudent than another; but that one is more or less baptized than another, whether he be baptized by a lesser or by a greater, cannot be said[^6]».
+
+### Chap. III. *What was the power of baptism, which Christ could have given to servants and did not give.*
+
+Here it is asked what that power of baptism is, which Christ retained to himself and could have given to servants. — It is, as very many will have it, the power of remitting sins in baptism. — But the power of remitting sins, which is in God, is God. Therefore others say that this power could not be given to any of the servants, because to none could it be given that he should be what He is, or that he should have the essence which He has, to whom this to-be is the same as to-be-able. They say also: if he could give this power to anyone, he could give him to create creatures, because this is not of greater power than that[^7]. — To which it can be said that he could give to them the power of remitting sins, not the very same by which He Himself is powerful, but a created power, by which a servant might remit sins, yet not as the author of the remission, but as a minister, nor yet without God as author; so that, as in the ministry he has to sanctify outwardly, so in the ministry he would have inwardly[^8] to cleanse; and as he did that, God being author, who with him and in him works that outward thing, so he would cleanse inwardly, God being author, who would use his word as a kind of ministry. So too God could create some things through someone, not through him as author, but as minister, with whom and in whom he would work; just as in our good works he himself works, and we: neither he alone, nor we alone, but he with us and in us, and yet in performing those things we are his ministers, we are not authors. So therefore he could give to a servant the power of remitting sins in baptism, that is, that in the inward cleansing the servant might work with the Lord; not the servant without the Lord, nor the Lord without the servant; but the Lord with the servant and in the servant, just as in the outward ministry the Lord works with the servant and in
+
+the servant. Whence both the Lord is said to sanctify and the servant; but the Lord by invisible grace, the servant by the visible Sacrament. Whence Augustine on Leviticus[^9]: «The Lord says: I am the Lord, who sanctify; of Moses also it is said: And thou shalt sanctify him. But Moses sanctifies by the visible Sacraments through the ministry, but the Lord by invisible grace through the Spirit, where is the whole fruit of the visible Sacraments. Without this sanctification the visible Sacraments profit nothing». — If anyone can open this better, I do not begrudge it[^10].
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. They are the Quaracchi editors' critical apparatus to the Master's text (Lombard), printed under the rubric **NOTAE AD LIBR. SENTENTIARUM**. Quaracchi restarts footnote numbering on each printed page; here the littera's footers fall as: p.118 = 2 notes (markers `[^1]`–`[^2]`), p.119 = 6 notes (markers `[^3]`–`[^8]`), p.120 = 2 notes (markers `[^9]`–`[^10]`), kept unique within this file. NB: the p.118 **left-column** footer (notes "Cod. X a secunda manu…", "Ex codd. F H P supplevimus spiritus…") belongs to d.4's Dub. VI/VII, NOT to this littera; only the p.118 **right-column** footer ("NOTAE AD LIBR. SENTENTIARUM", notes 1–2) is the littera's. See the Notes for the page-split map and the p.120 footer split between the littera and the COMMENTARIUS.
+
+[^1]: **La.** In Ioan. Evang. tr. 5. n. 6, et C. *Baptismus talis* (26.), de Consecrat. dist. 4. — Seq. locus est in eiusdem libro de Unico Baptismo contra Petilian. c. 11. n. 18. Tertius est III. contra Cresconium Donatistam, c. 6. n. 6. circa finem, et C. *Si inter bonos* (25.), ibid.
+    **En.** [Augustine,] *On the Gospel of John* tract 5, n. 6, and canon *Baptismus talis* (26), *de Consecratione* dist. 4. — The following passage is in his book *On the One Baptism against Petilian* c. 11, n. 18. The third is in bk. III *against Cresconius the Donatist*, c. 6, n. 6, near the end, and canon *Si inter bonos* (25), ibid.
+
+[^2]: **La.** In Ioan. Evang. tr. 6. n. 8, et C. *Cum baptizat malus* (27.), de Consecrat. dist. 4; et respicitur Ioan. 1, 33. — Seq. locus ibid. tr. 5. n. 15, et C. *Baptismus talis* (26.), ibid. § 3.
+    **En.** [Augustine,] *On the Gospel of John* tract 6, n. 8, and canon *Cum baptizat malus* (27), *de Consecratione* dist. 4; and John 1:33 is regarded. — The following passage is ibid. tract 5, n. 15, and canon *Baptismus talis* (26), ibid. § 3. — The third [passage] is ibid. n. 18, and canon *Dedit Baptismum* (46), c. 1, q. 1, § 1. The fourth is ibid. n. 19, and in the same canon § 2. — Tertius ibid. n. 18, et C. *Dedit Baptismum* (46.), c. 1. q. 1. § 1. Quartus ibid. n. 19. et in eodem canone § 2.
+
+[^3]: **La.** De fide ad Petr. (auctore Fulgentio) c. 3. n. 43. (interpolate). Infra pro *ubi potest* codd. A B C D et ed. 1 *cui potest.*
+    **En.** *On the faith, to Peter* (Fulgentius being the author) c. 3, n. 43 (with interpolation). Below, for *ubi potest* (where it can), codices A, B, C, D and edition 1 read *cui potest* (to whom it can).
+
+[^4]: **La.** Can. *Romanus pontifex* (23.), de Consecrat. dist. 4. Sed locus a multis quaesitus in *Isidoro* non potuit inveniri; legitur tamen apud Egbertum Ebor. l. Poenitent. p. 1. c. 7, et Algerum, III. de Sacramento c. 6. — Inferius notandum, quod ultima capituli propositio divisione capitulorum incisa est.
+    **En.** Canon *Romanus pontifex* (23), *de Consecratione* dist. 4. But the passage, sought by many in *Isidore*, could not be found; it is read however in Egbert of York, *Penitential* pt. 1, c. 7, and in Alger, *On the Sacrament* bk. III, c. 6. — Note below that the last proposition of the chapter has been cut off by the division of the chapters.
+
+[^5]: **La.** In Ioan. Evang. tr. 5. n. 11, et C. *Baptismus talis* (26.), de Consecrat. dist. 4. § 1. Immediate ante respicitur Ioan. 1, 33. — Seq. locus est August., ibid. n. 15, et C. *Si iustus* (30.), c. 1. q. 1, ubi citatur I. Cor. 3, 7. Tertius locus est ibid. n. 7, plurimis a Magistro omissis; in quo pro *tenuit sibi* edd., excepta 1, *retinuit sibi*, refragantibus codd. et originali.
+    **En.** [Augustine,] *On the Gospel of John* tract 5, n. 11, and canon *Baptismus talis* (26), *de Consecratione* dist. 4, § 1. Immediately before, John 1:33 is regarded. — The following passage is Augustine's, ibid. n. 15, and canon *Si iustus* (30), c. 1, q. 1, where 1 Cor. 3:7 is cited. The third passage is ibid. n. 7, with very many things omitted by the Master; in which, for *tenuit sibi* (held to himself), the editions, except 1, read *retinuit sibi* (retained to himself), against the codices and the original.
+
+[^6]: **La.** August., V. de Baptismo contra Donatistas, c. 14. n. 16, et C. *Cum tantum* (47.), de Consecrat. dist. 4. § 1.
+    **En.** Augustine, *On Baptism against the Donatists* bk. V, c. 14, n. 16, and canon *Cum tantum* (47), *de Consecratione* dist. 4, § 1.
+
+[^7]: **La.** Cfr. Glossa apud Lyranum Ioan. 14, 12. Superius pro *Dicunt etiam* edd., excepta 1, *Dicunt enim*, refragantibus codd.
+    **En.** Cf. the Gloss in Lyra on John 14:12. Above, for *Dicunt etiam* (they say also), the editions, except 1, read *Dicunt enim* (for they say), against the codices.
+
+[^8]: **La.** Codd. A B E et ed. 1 *intus.*
+    **En.** Codices A, B, E and edition 1 read *intus* (within).
+
+[^9]: **La.** Libr. III. Quaestion. in Pentateuch. q. 84. Loci Scripturae Levit. 21, 15; Exod. 29, 24. — Pro *Moyses sanctificat* edd., excepta 1, *sanctificabat*, refragante etiam originali, ubi legitur: Quomodo ergo et Moyses sanctificat et Dominus?
+    **En.** [Augustine,] bk. III *Questions on the Pentateuch* q. 84. The scriptural places are Lev. 21:15; Exod. 29:24. — For *Moyses sanctificat* (Moses sanctifies) the editions, except 1, read *sanctificabat* (was sanctifying), against the original also, where is read: How then do both Moses and the Lord sanctify?
+
+[^10]: **La.** De hac Magistri sententia communiter non recepta cfr. Comment. a. 3.
+    **En.** On this opinion of the Master, commonly not received, cf. the Commentary, art. 3.
 
 ## Notes
 
-[Notes pending]
+**Skeleton REBUILT (not merely re-set).** The auto-chunked skeleton was both mislabeled and incomplete: its `line_start` was 13613 (mid-Cap. I, printed p.119), so it **dropped the entire distinction opening** on p.118 (DISTINCTIO V heading + Cap. I title + the "Post haec sciendum est…sed Dei munus…non est melior ba-" opening, with the littera's first two footnotes), and it **bled past the littera's end** into the `COMMENTARIUS IN DISTINCTIONEM V` / `DIVISIO TEXTUS` boundary (raw L13742+, p.120–121), which belongs to the separate `d5-divisio` chunk. The body was fully rebuilt from raw L13556–13741 collated against the 450 dpi PDF column bands.
+
+**What d.5 is about.** Distinction V treats baptism *by comparison to those who give it* (the ministers) — `De baptismo per comparationem ad dantes` (the COMMENTARIUS subtitle). The Master's three chapters argue: (Cap. I) baptism is equally good whether given by a good or a bad minister, because it is God's gift, not the minister's; (Cap. II) ministers (good and bad alike) have only the *ministry* of baptizing, never the *power* (`potestas`), which Christ retained to himself lest anyone place hope in a servant; (Cap. III) what that retained power was — the power of remitting sins — and the disputed question whether Christ could have given it to servants (the Master holds he could, as a created, ministerial power working *with* God as author, never *as* author).
+
+**Littera chapter count + topics.** Three capitula: **Cap. I** *Quod baptismus aeque bonus est, a bono vel a malo datus* (equal goodness regardless of minister; Augustine *In Ioannem*, *de Fide ad Petrum*/Fulgentius, *Romanus pontifex* canon); **Cap. II** *De potestate baptismi et ministerio* (ministry vs. retained power; the dove, the stone channel, "Hic est qui baptizat"); **Cap. III** *Quae fuit potestas baptismi, quam Christus potuit dare servis et non dedit* (the power of remitting sins; minister-not-author; Augustine on Leviticus).
+
+**Raw range + printed pages.** Raw L13556–13741; printed pp.118–120 (PDF pp.138–140, Vol IV offset `pdf = printed + 20`). NB: the prompt anticipated pp.119–120, but eyes-on the PDF the distinction **opens lower on p.118** (the DISTINCTIO V heading + Cap. I title + the Cap. I opening begin in the p.118 L-column after d.4's Dub. VI/VII, and the littera's first two footnotes print in the p.118 **right-column** footer under the rubric "NOTAE AD LIBR. SENTENTIARUM"), so the chunk honestly records pp.118–120.
+
+**Apparatus count + page-split map (10 entries) — KEY footer-split finding:** the p.118 page carries TWO footer blocks. The p.118 **left-column** footer (the "Cod. X a secunda manu in ipsis adultis…", "Libr. II. Sent. d. 33…", "Ex codd. F H P supplevimus spiritus…" notes) is **d.4's Dub. VI/VII apparatus** and is NOT this littera's — it was the auto-chunker's mis-count trap (it would inflate d.5 to "5 p.118 notes"). Only the p.118 **right-column** footer, headed `NOTAE AD LIBR. SENTENTIARUM`, is the littera's.
+- **p.118 R-column footer** (2 littera notes): `[^1]` Augustinus *Baptismus talis* (In Ioan. tr. 5 n. 6 + de Unico Baptismo + contra Cresconium); `[^2]` *Cum baptizat malus* (In Ioan. tr. 6 n. 8) with its wrapped "Tertius… Quartus" tail (Dedit Baptismum canon) that physically continues at the head of the p.119 footer.
+- **p.119 footer** (6 notes): `[^3]` *De fide ad Petr.*/Fulgentius ("Si in haeresi…" + *ubi/cui potest* variant); `[^4]` *Romanus pontifex* canon (Isidoro non inveniri; Egbert/Alger; chapter-cut note); `[^5]` In Ioan. tr. 5 n. 11 (Augustinus "Quid noverat Ioannes" — Ioan. 1,33 + *Si iustus* + *tenuit/retinuit sibi* variant; one note whose tail wraps p.119 L→R); `[^6]` *Cum tantum* / de Baptismo contra Donat. V ("dici non potest"); `[^7]` Glossa apud Lyranum + *Dicunt etiam/enim* variant ("quam illud"); `[^8]` *intus* codd. variant ("interius").
+- **p.120 footer** (2 littera notes): `[^9]` Augustinus super Leviticum (Quaest. in Pentateuch. q. 84; *sanctificat/sanctificabat* variant); `[^10]` *non invideo* (De hac Magistri sententia… cfr. Comment. a. 3). The p.120 footer is split: only these two littera notes belong here; everything from `COMMENTARIUS IN DISTINCTIONEM V` / `DIVISIO TEXTUS` downward (and its divisio footnotes) belongs to `d5-divisio`.
+
+**`[?]` flags.**
+- `[^2]` / `[^5]`: two littera footers wrap across a page or column boundary in the OCR, which cascade-merged the regions. The "Tertius ibid. n. 18… Quartus ibid. n. 19" tail was printed at the head of the p.119 footer block but documents the 3rd/4th Augustine quotations of Cap. I (p.118 body), so it is folded into `[^2]`; and note `[^5]` (In Ioan. tr. 5 n. 11) wraps from the p.119 L-column foot into the R-column foot ("Immediate ante… Si iustus… tenuit sibi"). Both reconstructions are eyes-on against the 450 dpi PDF footer bands (p.118-R-2, p.119-L-2, p.119-R-2) but the exact note-to-note cuts are the editors' running citation-chain boilerplate — `[?]` low-risk; re-confirm at 600 dpi in the d.1–d.10 polish pass.
+
+**Cross-chunk hand-off forwarded to `d5-divisio` (to be promoted next):**
+1. The littera ends at raw L13741 ("…non invideo²"). **`COMMENTARIUS IN DISTINCTIONEM V`** begins at raw L13742 (printed p.120 L-column, subtitle *De baptismo per comparationem ad dantes*), with the lemma *Post haec sciendum est, Sacramentum baptismi etc.* and then **`DIVISIO TEXTUS`** (raw ~L13742+, printed p.120 R-column → p.121). That entire block is the `d5-divisio` chunk, **not** this littera.
+2. The DIVISIO opener reads: *Supra determinavit Magister de baptismo in se… hic tertio agit de ipso per comparationem ad dantes; et hi sunt quibus collata est potestas baptizandi. Et dividitur haec pars in duas partes. In prima… In secunda vero determinat, quibus est collata, ibi: «Nunc quibus liceat baptizare». Prima pars habet tres partes…* — the divisio agent should read the p.120 R-column + p.121 PDF bands directly (OCR is cascade-fragmented here) and not trust OCR ordering for the divisio footnotes.
+3. The divisio's own footnotes ("NOTAE AD COMMENTARIUM" / divisio apparatus) print at the foot of p.120 R and p.121 — they are the divisio's, not this littera's.
