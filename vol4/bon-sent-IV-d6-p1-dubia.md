@@ -8,7 +8,7 @@ type: dubia
 title_la: "Dubia circa litteram Magistri (Dist. VI)"
 title_en: "Doubts concerning the text of the Master (Dist. VI)"
 printed_pages: [147, 148]
-pdf_pages: [147, 148]
+pdf_pages: [167, 168]
 source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 147–148"
 has_scholion: false
 has_apparatus: true
@@ -155,7 +155,7 @@ Likewise it is asked concerning what Augustine says: *If there was anything to b
 
 **Provenance.** Latin re-set from the 450 dpi PDF column bands (vol4 pp.147–148, colcrop split x≈1880), with the IA djvu OCR (raw lines 16776–16888) as the base for clean running prose and footnote-marker spacing. Per the VOL II/IV OVERRIDE the PDF is authoritative in the cascade-shattered DUB. I and DUB. IV Respondeo regions and across all page footers (the OCR splices DUB. I's body to DUB. III's column, and fragments every footer one-token-per-line).
 
-**Page-number / offset note.** In this region of Vol IV the running-head printed page number equals the PDF page number (verified by eyes-on: PDF p.147 prints "147", PDF p.166 prints "166"). The +20 offset given in the volume table does NOT hold here; sibling chunks' `pdf_pages` (e.g. d6-a1-q6 claims printed 146 = pdf 166) are computed from the wrong offset and should be treated with caution. This chunk uses the verified printed=pdf mapping: printed pp.147–148 = pdf pp.147–148.
+**[?] OFFSET ERROR — FOR d.10 DECADE GATE.** This chunk was originally built reading PDF pages 147–148 under the false assumption that printed = pdf. That is WRONG: the +20 offset DOES hold throughout Vol IV d.6 (confirmed by d6-p1-littera printed 133–135 = pdf 153–155, and d6-p1-a1-q6 printed 146 = pdf 166). Printed pp.147–148 = **pdf 167–168**. The Latin body here is sourced from the correct IA djvu OCR raw range (L16776–16888), so the text is sound; but the PDF cross-checks (Respondeo/footer disambiguation) were performed on the wrong PDF pages. **Decade-gate action: re-verify this chunk's Respondeo regions and footers against the correct pdf 167–168 at 600 dpi.** Metadata corrected to pdf_pages [167, 168].
 
 **Dubia count.** Four dubia: **DUB. I** (Bede: whether repeating the Trinitarian invocation annuls it — no, because the *effect*, like the character, cannot be repeated); **DUB. II** (Augustine: why rebaptizing a Catholic is a worse crime than rebaptizing a heretic — the heretic does not receive the *res*, and there was excusable doubt); **DUB. III** (Cyprian: how an unclean minister can sanctify the water — sanctification of necessity comes from Christ via the word, not the minister, like a wicked notary's letter pleasing the king through the son); **DUB. IV** (Augustine "sickle of the Passion": whether Cyprian was a heretic — no, he only opined; his zeal made him err at most venially, cut away by martyrdom's sickle).
 
