@@ -4,169 +4,111 @@ volume: 4
 book: 4
 distinctio: 13
 type: littera
-line_start: 34527
-line_end: 34673
-word_count_latin: 1220
-transcription_status: "auto-chunked 2026-06-16"
+title_la: "De confectione eucharistiae a bonis et malis ministris"
+title_en: "On the confecting of the Eucharist by good and evil ministers"
+printed_pages: [300, 301]
+pdf_pages: [320, 321]
+source: "S. Bonaventurae, Opera Omnia, Tomus IV (Quaracchi, 1889), pp. 300–301"
+has_scholion: false
+has_apparatus: true
+transcription_status: "Phase C Tier 2 complete — Latin re-set from IA djvu OCR (raw lines 34527–34682) with PDF column-band authority on the cascade-fragmented two-column body + footers (pp. 300–301), fresh literal English, full apparatus from PDF bands (3 entries p.300 NOTAE AD LIBR. SENTENTIARUM + 5 entries p.301 = 8 entries), no scholion, one [?] flag (p.301 note-5 lemma attachment) (2026-06-21)"
 format_version: 1
 ---
 
-# bon-sent-IV-d13-littera
+# Distinctio XIII — Littera Magistri
+## *De confectione eucharistiae a bonis et malis ministris*
+
+---
 
 ## Latin
+<!-- page 300 -->
 
-DISTINCTIO XIII.
+### Cap. I. *Si hoc Sacramentum conficiatur ab haereticis, vel excommunicatis.*
 
+Solet etiam quaeri, utrum pravi sacerdotes hoc Sacramentum conficere queant. Ad quod dici potest, quod aliqui, licet sint pravi, consecrant vere, scilicet qui intus sunt nomine et Sacramento, etsi non vita; quia non in merito consecrantis, sed in verbo efficitur Creatoris. Unde Augustinus[^1]: « Intra catholicam Ecclesiam in mysterio corporis et sanguinis Domini nihil a bono maius, nihil a malo minus perficitur sacerdote, quia non in merito consecrantis, sed in verbo perficitur Creatoris et virtute Spiritus sancti. Credendum est enim, quod in verbis Christi Sacramenta conficiantur. Sicut ipse est qui baptizat, ita ipse est qui per Spiritum sanctum suam efficit carnem et sanguinem ». Item Gregorius[^2]: « Putant quidam, communionem corporis minus esse sanctificatam, si illorum fiat officio, quorum vita eorum oculis videtur ignobilis. Heu, in quam magnum laqueum incidunt, ut divina et occulta mysteria plus ab aliis sanctificata posse fieri credant, cum unus idemque Spiritus sanctus in tota Ecclesia invisibiliter ea mysteria et operando sanctificet et sanctificando benedicat! Mysterium ideo dicitur, quod secretam et reconditam habeat dispensationem; *sacrificium* vero, quasi sacrum factum, quia prece mystica consecratur pro nobis in memoriam dominicae passionis. *Sacramentum* est in aliqua celebratione, cum res ita fit, ut aliquid significatae rei accipiamus. Sacramenta sunt: baptisma, chrisma, corpus Christi, quae ideo Sacramenta dicuntur, quia sub tegumento visibilium rerum divina virtus secretius salutem eorundem Sacramentorum operatur; unde a secretis virtutibus vel sacris Sacramenta dicuntur. Panis et calicis Sacramentum Graece *eucharistia* dicitur, latine *bona gratia* interpretatur; et quid melius corpore et sanguine Christi? Sive ergo per bonos, sive per malos ministros intra Ecclesiam dispensetur, Sacramentum tamen est, quia Spiritus sanctus vivificat; nec bonorum dispensatorum meritis ampliatur nec malorum attenuatur. Hoc de corpore Domini, hoc etiam de baptismate et chrismate dicendum est et tenendum; quia virtus divina secretius operatur in eis, et divina solummodo est haec virtus sive potestas, non humanae efficaciae ».
 
-                                                                      Cap.       1.                                                              pus Chrisli, quae ideo Sacramenla dicunlur, quia sub                                                                                       |
+Illi vero, qui excommunicati sunt, vel de haeresi manifeste notati, non videntur hoc Sacramentum posse conficere, licet sacerdotes sint; quia nemo dicit in ipsa consecratione *offero,* sed *offerimus,* quasi ex persona Ecclesiae. Et ideo, cum alia Sacramenta extra Ecclesiam possint celebrari, de hoc non videtur. Quod etiam Augustinus[^3] tradere videtur dicens: « Recolite nomen et advertite veritatem! *Missa* enim dicitur, eo quod caelestis missus ad consecrandam vivificum corpus adveniat, iuxta dictum sacerdotis dicentis: « Omnipotens Deus, iube haec perferri per manus sancti Angeli tui in sublime altare tuum » etc. Idcirco, nisi Angelus venerit, *Missa* nequaquam iure vocari potest. Nunquid enim, si hoc mysterium haereticus ausus fuerit usurpare, Angelum de caelis Deus oblationem eius consecrare; maxime cum eisdem per Prophetam comminatus sit dicens: *Maledicam benedictionibus ve-*
 
+<!-- page 301 -->
 
+*stris.* Quod si benedictionibus eorum se asserit maledicturum Veritas, quid erit de hostia? Ergo dicemus, illam posse benedici ab illo quem scimus a Deo fore maledictum cum sua benedictione? Si enim Deus maledixerit[^4], et simoniacus benedixerit; quis eorum praevalebit? Nunquid benedictio maledicti ad nihilum poterit redigere verba verissima comminantis Dei »?
 
+Ex his colligitur, quod haereticus a catholica Ecclesia[^5] praecisus nequeat hoc Sacramentum conficere, quia sancti Angeli, qui huius mysterii celebrationi assistunt, tunc non adsunt, quando haereticus, vel simoniacus hoc mysterium temerarie celebrare praesumit. Non enim dubitari licet, ubi corporis dominici et sanguinis mysteria geruntur, supernorum civium adesse conventus. In huius autem mysterii expletione sicut *formam* servari, ita *ordinem* haberi, scilicet ut sit sacerdos, et *intentionem* adhiberi oportet, ut illud facere intendat. — Sed si non credit de illo mysterio, sicut veritas habet, nunquid potest *intendere* illud conficere? Et si non *intendit,* nunquid conficit? — Aliqui dicunt, etiam non recte de illo mysterio sentientem posse *intendere,* non quidem illud *conficere,* quod iam esset recte credere, sed *id agere,* quod geritur ab aliis, dum illud conficitur, et sic adhibetur intentio; etsi intentio dicatur deesse conficiendi illud mysterium, tamen, ex quo intendit ea dicere et agere, quae ab aliis geruntur, impletur mysterium. — Illud etiam sane dici potest, quod a brutis animalibus corpus Christi non sumitur, etsi videatur. Quid ergo sumit mus, quid manducat? Deus novit. — De hoc caelesti mysterio aliqua perstrinximus, a Catholicis fideliter tenenda; qui enim his contradicit, haereticus iudicatur.
 
-                                                                                                                                                 tegumcnto visibilium rernm divina virtus secretius sa-
-                                                                                                                                                                                                                                                                                            j
+### Cap. II. *Quid faciat haereticum, et quid sit haereticus.*
 
+Ne autem ignores, quid *haereticum* faciat, vel quid sit *haereticus;* audi breviter, quid inde sancti Doctores tradant. Hilarius[^6] ait: « Exstiterunt plures, qui caelestium verborum simplicitatem, non veritatis ipsius absolutionem, susceperunt, aliter interpretantes, quam dictorum virtus postularet. De *intelligentia* enim haeresis, non de *Scriptura* est; et *sensus,* non *sermo,* fit crimen ». Idem libro septimo: « Intelligentiae sensus in crimine est ». Hieronymus[^7] dicit, quod « ex verbis inordinate prolatis incurritur haeresis ». Augustinus definiens, quid sit haereticus, ait: « Haereticus est qui pro alicuius temporalis commodi, et maxime gloriae principatusque sui gratia falsas ac novas opiniones vel gignit, vel sequitur[^8] ».
 
+*Notula 1.* « Maledicam benedictionibus vestris — id est, his quae eis benedictionibus possidetis, vel quidquid a vobis benedicitur — vel quoniam non benedicunt sanctis ex vero corde, vel quia qui inique agunt benedicuntur ab eis, adulanturque peccatoribus, dummodo divites sint ». Item: « Maledicam benedictionibus vestris, id est, quidquid a vobis benedicetur, per me erit maledictum ».
 
+*Notula 2.* Gregorius super Ezechielem: « Qui in expositione sacri Eloquii, ut auditoribus placeat, aliquid fingit, sua verba loquitur, non Dei; qui autem in verbis dominicis aliter, quam is qui protulit, senserit, etsi sub alio intellectu, tamen aedificationem caritatis tendit »; Domini sunt verba, quae dicit.
 
-                        Si iioc Sacrameniwn conjiciaiiir ab haerelicis,                                                                          luiein cornndem Sacramentoi-um operalur; nnde a se-
-                                                                                                                                                                                                                                                                                                '
-
-
-
-
-                                                         vel excommimicalis.                                                                     cretis virtulibus vel sacris Sacramenla dicuntur. Pa-
-                                                                                                                                                 nis el calicis Sacramentum Graece eucharistia dkiluw^aCiisia
-                     Solel cliani (juaeri  ulram pi-avi sacerdoles hoc ,                                                                         latine bona gratia inlerprelatur; cl quid inelius cor-
-                Sacramenlum conficere queanl.         Ad quod dici po-                      —                                                    pore          et     sangnine            Chrisli ? Sive                     ergo per bonos, sive                                                   :
-
-
-
-
-                test, quod aliqui, licel sint pravi, consecranl vere,                                                                            per malos ininislros                           intra        Ecclesiam                   dispenselnr, Sa-
-                scilicet qui intus sunt nornine et Sacramento, etsi non                                                                          cramenluiu lamen                         est,      quia Spiritns sanctus vivilicat;                                                                '
-
-
-
-                vita; qnia            non              in       merilo        consccrantis. sed                                  in    verl)o    nec bonornin dispensatorum merilis ampliatnr                                                                     iiec    ma       Dabia
-
-Augusiinus. elficilur           Creatoris.                     Unde        Augusliiuis '                :       «       Inlra cathoii-           lorum attenualur. Hoc de coi'pore Domini, hoc etiam
-                cani Ecclesiam                         in       uiysterio corporis el sanguiuis Do-                                              de baptismale el chrismale dicendum est el tenendnm;
-Dubinm d. mini uihil a                         bono mains,                  nihil          a    malo minus perfici-                              quia virlus divina secretius operatnr                                               in eis, et divina
-
-                tur sacerdole,                       qnia         uon       in       merito consecranlis, sed                                    solunimodo                 est       haec       virlus sive poteslas                              ,        non huma-
-                in     verbo perficilnr Creatoris                                    et vii-tute Spirilus sancti.                                uae efficaciae ».
-                CrGdendnm est enini,                                  (piod          in     verbis                      Chrisli Sacra-                    Illi        vero,       (jui    excommunicaii snnt,                                  vei f/e Iiaeresi
-
-                menta         conficianlur.                       Sicut       ipse             est qui baptizal,                          ila    manifesle notali, non videiilur hoc Sacramenlum posse                                                                              Opini            1
-
-
-
-
-                                                                                                                                                                                                                                                                                   gislri            1
-
-
-
-
-                ipse est qui pei- Spiriluni sanctuin suam efficit                                              carnem                            conficere,                licel       sacerdoles                 sint; quia                 neino               dicil       in nea.
- Gregorius. et         sanguiiiem».                      Ileiu        Gregorius":                     «Pnlant qnidam,                            ipsa          consecratione                   offero ,           sed        o//'erimus ,                    (jnasi         ex
-                communionem corporis miiuis esse sanclificalam, si il-                                                                           pei'sona Ecclesiae. Etideo,cam alia Sacramenla exlra
-                loruni fial officio, quorum vita eorum oculis videlur                                                                            Ecclesiam possinl celebrari, de hoc non videtnr. Qnod                                                                                              (
-
-                                                                                                                                                                                                                                                                                                    1
-
-
-
-                ignobilis.         Heu, in quani inagnuiu laqneum )nciduut,ul                                                                    etiam           Augustinus^ tradere                              videtnr dicens:                            «   Recolile           Dubii
-                                                                                                                                                                                                                                                                                   Augns
-                divina        et      occulta                   mysteria             plus ab                aliis sanclificala                   noincn              ci   advei^tite       veritatcm! Missa cnim                                            dicitnr, eo so allc:
-                posse        fieri    credant,                   cnm unus idemqnc Spiritus san-                                                  qnod caelestis missus ad consecrandam vivilicnii! cor-
-                ctus in !ola Ecclesia invisibililer                                             ea mysteria et ope-                              pus advenial, iuxta diclnm saceidolis dicenlis: « Omni-
-i\iysieriura.   raudo sanctificet                         et saiiclilicando                 benedical! Mysterium                                 |)olcns Dens, inbe haec porferri per manns saiicti Aii-
-                ideo dicitnr,                  qnod sccrctam                         el    recondilam habeal                              di-    geli lui in              snblime altare tuum»                           elc. Idcirco, nisi Aiigc-
-
-Sacriiicium. spensalionem;                          sacrifwium vero, quasi sacrnm factnm,                                                        lus venerjl, iiiw.sfl                    nequaquam                 iure vocari polesl. Nan-
-                quia prece                 myslica                consecralur                   pro nobis                       in    memo-      quid enim.                 si    hoc mysterium                         haereticns ausns                                liicril
-
- Sacramen- riaui            dominicac                    |]assionis.          iiucramenlum                               est in ali(]na          usnrpare, Angelum de caelis        Deus olilalioncm                miltit
-                celebralioiie,                  cum res ita fit, ul aliqnid significalae rei                                                     eius conseci'arc; maximc cum cisdem j)cr Pi'0|)!ielam
-                accipiamus. Sacramenta sunt: baptisma, chrisma,cor-                                                                              comminatns sil dicens: Maledicam benedictionibus ve-
-
-
-
-
-                        '   .Vugusl.       ,    lli.     dc Lib. Ai-b.           c.       18.   ii.     SO      :       Qxus cniiii pec-                                   NOTAE AD LIBR. SENTENTIAaUM.
-                cut ia co iiuod iiidlo niodo cavcri potest?
-                       Coil. H (bb a sccunda manu) addit: pcr multa foruminu
-                        -                                                                                                                                '•
-                                                                                                                                                               Can. Iiitrn cailiolicam (77.),                           C.    I.    ip        1,       cl    apiid Alge-
-                licetnon posset homo vwis evilare (cod. bb obttirare) omnia                                                                      runi,        III.    de Sacram.          c.   8.    — Superius post nominc codd. A B
-                universulitcr, potest iamen iiocet Iwc etc. purliculariter (cod. bb                                                              CIJ    rl      edd.       I,   6 omilluiit         et.     Supple       :   saccrdotcs.
-                hoc el illud). Clr. II. Scnt. d. 41. a. 2. c|.      ubi hlc modus                           I
-                                                                                                                    ,
-                                                                                                                                                         ^     Can. Miilli saecnlarium                       (.81.),     ibid.     —     .Maioi-             pars        liuius
-
-                dicendi c.xhibetuf, ct in solut. ad                                  I.   idem e.\emplum                             pro)ioni-   loci   invenitur               apud     Isidor.,      VI.    Eiymolug.             c.        19.       n.       3S.    sci|i|.,
-
-                lur.    — Su|)crius post ijuamvis cdd. supplent peccuta.                                                                         ordiiic        vcro immiitato.
-                        5   Cap.     -i.       n.   9.        scnteniialiter     ;    verba ipsa poiius habcnlur                                         3     iNon cst         Augusiini,          c]iii    ]iotius         ciim    communi                      scnienlia
-                111.   de Lib. Arb.                 c.    18.    n.   o2. Cfr. lom.               II.       pag. 949, nota                  I.   conlrarium doccl. Uiule Miigisier simiserit hunc locum,                                                               iion in-
-
-                De hoc secundo modo vide II. Scnt. lit. Magistri, d. XXX Vi. c. 6,                                                               veniinus. Oratio cilatn liiibetur in canonc Miss:io ])osl consccralio-
-                et     Comment. dub.                     4.    Cri-. Ale.x.   Hal., S. p. IV. q.                         1.3.   m. .3. a. 2.     nem;         locus Scriplurac             M;il.      2,     2.
-                                                                                                                                                                                .
-
-
-
-
-                                                                                                 DIST.      Xlll.       DIVISIO TEXTUS.                                                                                                           301
-
-            ntris.       Qiioci       si    benediclionibus                     eoriim se        asseril.       inale-                                                               Cap.       II.
-
-            clicliiruin         Vcrilas, qiiid eril de hoslia? Ergo diceinus,
-            ilhtin ])osse benedici aL illo quein scinnis a Deo fore                                                                  Quid facial haerelicum,                                    et rjuid sit              haereticus.
-            maledictum cuin sua benediclione? Si enim Deus ma-
-            icdixcrit ', cl simoniacus beneciixeiMt; quis eoriiin prae-                                                                  Ne autem ignores, quid                                        liaereticum                   faciat, vel Dubium i.
-            valebit? Nuiujuid benedictio malcdicti ad nihiium po-                                                            quid        sit     haereticus ;                       audi       breviter, quid                       inde sancti
-            leril       redigere verba verissima comminantis Dei »?                                                          Doctores             Iradant.              Hiiarius " ait:                      «   Exstiterunt plures, Hiiarins.
-                        Ex bis coliigitur, quod baerelicus a catboiica Ec-                                                   qui caelestium                       verborum                    siniiilicilatem,                 non        verilatis
- I   Opi'   ciesia ^ ])raecisus                 nequeal                lioc     Sacramenlum conficere,                       ijjsius       absolutionem, susceperunt, aiiter inlcrprelanles,
-            quia sancti Angeli, qui buius mysterii celebrationi as-                                                          quain dictorum virtus postuiaret. De inteUigentia enim
-            sislunt, tunc iion adsunt,                             quando baerelicus, vei simo-                              haeresis,'non de Scriptura est;et sensus, non se7-mo,
-            niacus boc in_vsteriuin lemerarie                                      ceiebrare praesumit.                      fll    crimen ». Idem                         iibro          seplimo:               «Iiiteliigentiae sen-
-            Noii        enim     duljilari licct, ubi corj^oris                            dominici         et san-          sus in crimine est». Hieronymus^ dicit, quod                                                                 ><   ex ver- iiieronymus.
-            guinis inysleria                  geruntur, supernoruni                             civium adesse                bis inordinate proiatis incurritur baoresis». Augustinus Angusiinus.
-            conventus.                In    buius          autem mysterii cxpletione                             sicut       definiens, quid sit baereticus, ait                                         :       «Haereticus est qui
-            forrnam             scrvari,         ita       ordinetn              iiaberi    ,    scilicel ut sit             pro alicuius                lemporalis                      commodi, et maxime                                    gloriae
-            sacerdos, el intemionem adbiberi                                           oporlet, ut iliud l'a-                principatusquc                       sui       gratia             faisas        ac      novas               opiniones
-esUo.       cere intendal.                 — Sed      si   non credit de iiio mysterio, sicut                                vei gignit,               vei   sequitur^».
-            veritas liabet, niinquid ))otest inlendere illud conficere?                                                                  JSotu/a        I.    «Maledicam benedictionibus                                                 vestris       —
-Uesii.      Et si non iniendit , wmi\\\\A conficit?                                       — Aliqui dicunt,                   id est, bis quae eis benediclioiiibus jjossidelis, vel quid-
-            eliam non recte de                        ilio        mysterio sentientem posse in-                              quid a vobis i)enedicitur                                   —    vei quoniam                non benedicunt
-            tendere, iion                  quidem          iiiud         conficere^         quod      iain esset             sanctis ex vero corde, vei c|uia qui inique agunt bene-
-            recte        credere, sed                id       agere,          quod gcritnr ab                   aiiis,       dicunlur ab eis, adulanturque peccaloribus, dummodo
-            duin        iiiud    conficitur, el sic adbibetur iiitenlio; elsi                                         iii-   divites sinl ». Item:                         «Maledicam benedictionibus veslris, tiieronymus.
-            tciilio      dicatur dccsse coiificiendi iliud myslerium, lanien,                                                id      est,      quidquid                a        vobis           beiiedicetur,                  per         nie        erit
-
-            ex cpio           inlciidil ea           ciicere el agere,                    quae ab         aiiis       ge     maledictum ».
-            runliir,          implelur inysteriuin.                        —     Iliiid    etiam sane             dici                   Notula 2. Gregorius super Ezeciiielem: «Qui                                                                   in Gregorins.
-
-            Ijotesl, c]uod a brutis                    animaiibus corpus Ghristi non su-                                     exi)osilione sacri Eioquii, ut aiiditoribus                                                        placeat,              ali-
-
-            initur, etsi              videatur. Quid crgo sumit inus, qiiid                                      man-        quid        fingil,       sua            verba              loquitur, non Dei                      ;
-                                                                                                                                                                                                                                     qui autem
-            ducat? Deus novit.                       — De              iioc caelesli        mysterio aiiqua                  in     verbis dominicis aliter,                                  quam is qui                     protulit,           sen-
-            ]ierstrinximus, a Catdolicis lideiiter tenenda; qui enim                                                         serit,       elsi    siib       alio intellectu,                     tamen aedificationem                                ca-
-            bis conlradicit, baereticus iudicatur.                                                                           ritatis tendit»;                Domini sunt verba, quae dicit.
+---
 
 ## English
+<!-- page 300 -->
 
-[Translation pending]
+### Chap. I. *Whether this Sacrament is confected by heretics, or by the excommunicate.*
+
+It is also wont to be asked whether wicked priests can confect this Sacrament. To which it can be said that some, although they be wicked, truly consecrate — namely those who are within in name and Sacrament, even if not in life; because it is brought about not by the merit of the one consecrating, but by the word of the Creator. Whence Augustine[^1]: « Within the catholic Church, in the mystery of the body and blood of the Lord, nothing more is brought about by a good priest, nothing less by a bad one, because it is brought about not by the merit of the one consecrating, but by the word of the Creator and the power of the Holy Spirit. For it is to be believed that the Sacraments are confected in the words of Christ. As he himself is the one who baptizes, so he himself is the one who through the Holy Spirit makes his flesh and blood ». Likewise Gregory[^2]: « Some suppose that the communion of the body is less sanctified if it be done by the office of those whose life seems to their eyes ignoble. Alas, into how great a snare they fall, that they believe the divine and hidden mysteries can be made more sanctified by some than by others, when one and the same Holy Spirit invisibly in the whole Church both sanctifies those mysteries by his working and blesses them by his sanctifying! It is therefore called *mystery* because it has a secret and hidden dispensation; but *sacrifice,* as it were a sacred thing done, because by mystical prayer it is consecrated for us in memory of the Lord's passion. *Sacrament* is in some celebration, when the thing is so done that we receive something of the signified reality. The Sacraments are: baptism, chrism, the body of Christ, which are therefore called Sacraments because under the covering of visible things the divine power more secretly works the salvation of those same Sacraments; whence they are called *Sacraments* from secret powers or sacred things. The Sacrament of the bread and the chalice is in Greek called *eucharistia,* in Latin interpreted *good grace;* and what is better than the body and blood of Christ? Whether therefore it be dispensed by good or by evil ministers within the Church, it is nonetheless a Sacrament, because the Holy Spirit gives life; nor is it enlarged by the merits of good dispensers nor diminished by those of bad ones. This is to be said and held concerning the body of the Lord, this also concerning baptism and chrism; because the divine power works in them more secretly, and this power or might is divine alone, not of human efficacy ».
+
+But those who are excommunicate, or manifestly noted for heresy, do not seem able to confect this Sacrament, although they be priests; because no one says in the consecration itself *I offer,* but *we offer,* as if in the person of the Church. And therefore, since the other Sacraments can be celebrated outside the Church, concerning this one it does not seem so. Which Augustine[^3] also seems to hand down, saying: « Recall the name and attend to the truth! For it is called *Missa* (Mass) because the heavenly messenger comes to consecrate the life-giving body, according to the saying of the priest who says: « Almighty God, bid these things to be carried up by the hands of thy holy Angel to thy sublime altar » etc. Therefore, unless the Angel come, it can in no way rightly be called *Missa.* For if a heretic shall have dared to usurp this mystery, would God send an Angel from heaven to consecrate his oblation; especially since he threatened those same by the Prophet, saying: *I will curse your blessings.*
+
+<!-- page 301 -->
+
+For if the Truth asserts that he will curse their blessings, what will become of the victim? Shall we then say that it can be blessed by him whom we know is to be cursed by God along with his blessing? For if God shall have cursed[^4], and a simoniac shall have blessed; which of them will prevail? Can the blessing of the cursed reduce to nothing the most true words of the threatening God »?
+
+From these things it is gathered that a heretic cut off from the catholic Church[^5] cannot confect this Sacrament, because the holy Angels, who assist at the celebration of this mystery, are then not present, when a heretic, or a simoniac, presumes rashly to celebrate this mystery. For it cannot be doubted that, where the mysteries of the Lord's body and blood are performed, an assembly of the citizens above is present. But in the carrying-out of this mystery, just as the *form* must be observed, so the *order* must be kept — namely that there be a priest — and the *intention* must be applied, so that he intend to do it. — But if he does not believe concerning that mystery as the truth holds, can he *intend* to confect it? And if he does not *intend,* does he confect it? — Some say that even one who does not think rightly concerning that mystery can *intend,* not indeed to *confect* it — for that would already be to believe rightly — but to *do that* which is performed by others while it is confected, and thus the intention is applied; and even if the intention be said to be lacking of confecting that mystery, nevertheless, since he intends to say and do the things which are performed by others, the mystery is fulfilled. — This too can soundly be said, that the body of Christ is not taken by brute animals, even if it seem so. What then does a mouse take, what does it eat? God knows. — Concerning this heavenly mystery we have touched on a few things, to be faithfully held by Catholics; for whoever contradicts these is judged a heretic.
+
+### Chap. II. *What makes a heretic, and what a heretic is.*
+
+But lest you be ignorant what makes a *heretic,* or what a *heretic* is, hear briefly what the holy Doctors hand down concerning it. Hilary[^6] says: « There have arisen many who took up the simplicity of the heavenly words, not the absoluteness of the truth itself, interpreting otherwise than the force of the sayings required. For heresy is of the *understanding,* not of *Scripture;* and the *sense,* not the *word,* becomes the crime ». The same, in book seven: « The sense of the understanding is in the crime ». Jerome[^7] says that « by words uttered without order heresy is incurred ». Augustine, defining what a heretic is, says: « A heretic is one who for the sake of some temporal advantage, and especially for the glory and primacy of himself, either begets or follows false and new opinions[^8] ».
+
+*Note 1.* « I will curse your blessings — that is, those things which you possess by those blessings, or whatever is blessed by you — or because they do not bless the holy with a true heart, or because those who act unjustly are blessed by them, and they flatter sinners, provided they be rich ». Likewise: « I will curse your blessings, that is, whatever shall be blessed by you, by me shall be cursed ».
+
+*Note 2.* Gregory on Ezekiel: « He who in the exposition of the sacred Word, in order to please his hearers, invents something, speaks his own words, not God's; but he who in the words of the Lord has thought otherwise than he who uttered them, even if under another understanding, nevertheless tends toward the edification of charity »; the words which he speaks are the Lord's.
+
+---
 
 ## Apparatus
 
-[Apparatus pending]
+> The numbered footnotes below correspond to markers in both the Latin body above and the English translation. Quaracchi restarts footnote numbering on each printed page; the markers `[^1]–[^3]` belong to printed page 300 (the *NOTAE AD LIBR. SENTENTIARUM* block, the Lombard littera's own notes), and `[^4]–[^8]` to printed page 301.
+
+[^1]: **La.** Can. *Intra catholicam* (77.), C. 1. q. 1, et apud Algerum, III. de Sacram. c. 8. — Superius post *nomine* codd. A B C D et edd. 1, 6 omittunt *et.* Supple: *sacerdotes.*
+     **En.** The canon *Intra catholicam* (77), C. 1, q. 1, and in Alger, bk. III on the Sacrament, c. 8. — Above, after *nomine,* codd. A B C D and edd. 1, 6 omit *et.* Supply: *priests.*
+
+[^2]: **La.** Can. *Multi saecularium* (81.), ibid. — Maior pars huius loci invenitur apud Isidor., VI. Etymolog. c. 19. n. 38. seqq., ordine vero immutato.
+     **En.** The canon *Multi saecularium* (81), ibid. — The greater part of this passage is found in Isidore, *Etymologies* VI, c. 19, n. 38 ff., but with the order changed.
+
+[^3]: **La.** Non est Augustini, qui potius cum communi sententia contrarium docet. Unde Magister sumserit hunc locum, non invenimus. Oratio citata habetur in canone Missae post consecrationem; locus Scripturae Mal. 2, 2.
+     **En.** It is not Augustine's, who rather with the common opinion teaches the contrary. Whence the Master took this passage we have not found. The prayer cited is had in the canon of the Mass after the consecration; the Scripture passage is Mal. 2:2.
+
+[^4]: **La.** Cod. B et edd., excepta 1, subiungunt *benedictionibus haereticorum,* deinde sola Vat. *schismaticus* pro *simoniacus.* — Plures edd. hic interserunt notulas in fine distinctionis positas.
+     **En.** Cod. B and the editions, except 1, add *benedictionibus haereticorum,* then the Vatican alone has *schismaticus* for *simoniacus.* — Several editions here insert the notes placed at the end of the distinction.
+
+[^5]: **La.** Cod. A *unitate,* ed. 1 *fide catholica.* Porro ante *praesumit* codd. et edd. 1, 2, 3, 7 omittunt *celebrare,* ed. 6 *temerare praesumit.* — De seqq. cfr. Beda, super Lucam 24, 4.
+     **En.** Cod. A has *unitate,* ed. 1 *fide catholica.* Further, before *praesumit* the codd. and edd. 1, 2, 3, 7 omit *celebrare,* ed. 6 *temerare praesumit.* — On what follows cf. Bede, on Luke 24:4.
+
+[^6]: **La.** Libr. II. de Trin. n. 3. — Seq. locus est eiusdem in VII. n. 83, ubi ipsa verba inveniuntur; codd. et edd. citant VIII, (n. 4. et 11.), ubi similis sententia est. Iam cod. Erf. correxit numerum librorum.
+     **En.** Bk. II *On the Trinity,* n. 3. — The following passage is from the same, in bk. VII, n. 83, where the very words are found; the codd. and edd. cite bk. VIII, (n. 4 and 11), where there is a similar sentence. Already the Erfurt codex corrected the number of the books.
+
+[^7]: **La.** In Glossa ad Osee 2, 16, apud Lyranum; in Comment. mi non invenitur. Locus August. est in libro de Utilitate credendi, c. 1. n. 1.
+     **En.** In the Gloss on Hosea 2:16, in Lyra; in the Commentary it is not found. The passage of Augustine is in the book *On the Usefulness of Believing,* c. 1, n. 1.
+
+[^8]: **La.** Cod. C hic ponit duas notulas, quae in plerisque edd. et nonnullis codd. ponuntur ad marginem, attamen non ab omnibus eodem loco. — In 1. notula locus 1. sumtus est ex C. *Multi saecularium,* supra pag. 300, nota 2. citato § 5, et seq. locus ex Hieron. in Mal. 2, 2. — Notula 2. sumta est ex Gregor., in Ezech. hom. 10. n. 14.
+     **En.** Cod. C here places two notes, which in most editions and some codices are placed in the margin, yet not by all in the same place. — In the 1st note the 1st passage is taken from the canon *Multi saecularium,* cited above, p. 300, note 2, § 5, and the following passage from Jerome on Mal. 2:2. — Note 2 is taken from Gregory, on Ezekiel, homily 10, n. 14.
 
 ## Notes
 
-[Notes pending]
+- **Provenance.** Latin re-set from the IA djvu OCR base (`raw/bonaventure_vol4_raw.txt` lines 34527–34682), with PDF column-band reads (`/tmp/colcrop/vol4-p{300,301}-{L,R}-{0,1,2}.png`) authoritative on the cascade-fragmented two-column body and footers (the OCR for these pages is severely shattered — diagonal one-token-per-line fragmentation + two-column bleed). English is a fresh literal parallel. Two-column Vol IV → VOL II OVERRIDE applied. Offset pdf = printed + 20 (printed 300–301 = pdf 320–321).
+- **This is the LITTERA MAGISTRI of Distinction XIII** — Peter Lombard's chapters on the confecting of the Eucharist by good and evil ministers (Cap. I: whether heretics/excommunicate can confect, the role of intention, and the brute-animal/mouse case; Cap. II: what makes a heretic). **SINGLE-PARS distinction** — Lombard prints d.XIII as one block (Cap. I + Cap. II + two appended *Notulae*), no Pars division; the frontmatter carries no `pars` field.
+- **Chapter list:** Cap. I (*Si hoc Sacramentum conficiatur ab haereticis, vel excommunicatis*); Cap. II (*Quid faciat haereticum, et quid sit haereticus*); + two appended *Notulae* (the Cod. C marginal notes glossing the *Maledicam benedictionibus* lemma and the Gregory-on-Ezekiel passage; rendered in the body as *Notula 1* / *Notula 2*).
+- **Page-verify.** p.300 running head `300 / SENTENTIARUM LIB. IV` (top), then `DISTINCTIO XIII.` + `Cap. I. / Si hoc Sacramentum conficiatur ab haereticis, vel excommunicatis.`; p.301 running head `DIST. XIII. DIVISIO TEXTUS 301` + `Cap. II.`. Both confirm the distinction.
+- **Opening seam (p.300).** The littera physically OPENS on p.300 below the tail of d.XII's Respondeo (the left-column *Resp. 1 / Non sufficit* material on vitanda peccata — « male dicere… non videntur peccata » through « …difficile est dicere »), then blank, then `DISTINCTIO XIII. / Cap. I.`. The prior d.XII Respondeo and its LEFT-column footers (notes ¹²³ = *Quis enim peccat / Cod. B addit / Cap. 4. n. 9.*) belong to the d.XII chunk and are EXCLUDED here. No body text dropped at the d.XII→d.XIII seam.
+- **Footer ownership / two-column split.** p.300 carries TWO footer blocks. The LEFT-column block (notes ¹²³ on the d.XII *Resp. 1* material) belongs to the PRIOR d.XII chunk and is EXCLUDED. The RIGHT-column block headed *NOTAE AD LIBR. SENTENTIARUM* (notes 1–3 = *Intra catholicam / Multi saecularium / Non est Augustini*) is the Lombard littera's apparatus and is claimed HERE as `[^1]–[^3]`. p.301 carries the littera's continuing footers in the LEFT column (notes 1–3 = *Cod. B subiungunt benedictionibus haereticorum / Cod. A unitate / Libr. II de Trin.*) plus the RIGHT column upper block (*In Glossa ad Osee 2,16 / Cod. C duas notulas*) → mapped here as `[^4]–[^8]`. The p.301 LOWER footer block under the `COMMENTARIUS … DIVISIO TEXTUS` rule belongs to the NEXT chunk (the divisio) and is EXCLUDED.
+- **Cutoff.** The littera ends with *Notula 2* on p.301 (« …Domini sunt verba, quae dicit »). Immediately below on p.301 the `COMMENTARIUS IN DISTINCTIONEM XIII / De potestate conficiendi et sumendi / DIVISIO TEXTUS` begins — that is the NEXT chunk (`d13-divisio`, raw ≥ L34683) and is EXCLUDED. Cross-checked: no body text dropped at the littera→commentarius seam.
+- **No scholion** — littera chunk.
+- **`[?]` flags:**
+  - **p.301 `[^5]` lemma attachment (« catholica Ecclesia »):** the body marker `[^5]` is placed at *a catholica Ecclesia praecisus*, which the band footer glosses with the *Cod. A unitate / ed. 1 fide catholica* variant on *Ecclesia/catholica* plus the *celebrare/temerare praesumit* variant just below; the precise lemma-to-note seam (whether the codex siglum keys to *unitate* on *Ecclesia* or to the *praesumit* clause) is slightly uncertain from the column band. The note text is fully legible; only the anchor point is flagged for a 600 dpi recheck at the d.11–d.20 decade-polish gate.
+  - Unambiguous OCR garbles silently corrected from the band (e.g. `conficianlur`→*conficiantur,* `efficilur`→*efficitur,* `Augusliiuis`→*Augustinus,* `ampliatnr`→*ampliatur,* `excommunicaii`→*excommunicati,* `inanducat`→*manducat,* `comminantis Dei,* `Hiiarius`→*Hilarius,* `Hieronymus`→*Hieronymus,* `Ezechielem,* `aedificationem,* `Notula` from *JSotu/a*/`iNotula`).
+</content>
